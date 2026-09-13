@@ -1,9 +1,8 @@
 import { Instagram, Linkedin, Mail, Twitter, Send, Youtube } from 'lucide-react';
 import Link from 'next/link';
-import type { Article } from '@/types';
 
-export function FooterContent({ latestArticles }: { latestArticles: Omit<Article, 'content'>[] }) {
- const resourceLinks = [
+export function FooterContent() {
+  const resourceLinks = [
   { href:"/interview-questions", label:"Interview Questions" },
   { href:"/web3-career-quiz", label:"Archetype Assessment" },
   { href:"/salary-calculator", label:"Salary Calculator" },
@@ -11,7 +10,14 @@ export function FooterContent({ latestArticles }: { latestArticles: Omit<Article
   { href:"/resume-builder", label:"Resume Builder" },
   { href:"/digital-nomad-visas", label:"Digital Nomad Visas" },
   { href:"/remote-work-checklist", label:"Remote Checklist" },
- ];
+  ];
+  const popularArticles = [
+   { href: '/how-to-start-a-web3-career', label: 'How to Start a Career in Web3' },
+   { href: '/how-to-become-a-solidity-developer', label: 'How to Become a Solidity Developer' },
+   { href: '/web3-salary-negotiation', label: 'How to Negotiate Your Web3 Salary and Compensation Package' },
+   { href: '/resume-writing-tips-that-get-interviews', label: 'Resume Writing Tips That Get Interviews' },
+   { href: '/remote-work-in-web3', label: 'Remote Work in Web3' },
+  ];
 
  return (
   <footer className="w-full border-t bg-transparent">
@@ -66,12 +72,12 @@ export function FooterContent({ latestArticles }: { latestArticles: Omit<Article
      </div>
 
      <div className="lg:col-span-1">
-       <h4 className="font-semibold text-foreground mb-3">Recent from the Playbook</h4>
-       <ul className="space-y-2">
-       {latestArticles.map(article => (
-        <li key={article.slug}>
-          <Link href={`/${article.slug}`} className="text-sm text-muted-foreground hover:text-primary transition-colors">
-          {article.title}
+        <h4 className="font-semibold text-foreground mb-3">Popular guides</h4>
+        <ul className="space-y-2">
+        {popularArticles.map(article => (
+         <li key={article.href}>
+           <Link href={article.href} className="text-sm text-muted-foreground hover:text-primary transition-colors">
+           {article.label}
          </Link>
         </li>
        ))}

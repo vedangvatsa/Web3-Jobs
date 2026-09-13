@@ -6,6 +6,7 @@ import { PageHeader } from "@/components/page-header";
 import { PageShell } from '@/components/page-shell';
 import { EventPartners } from '@/components/event-partners';
 import { CommunityFeedBanner } from '@/components/community-feed-banner';
+import { DirectoryDisclaimer } from '@/components/directory-disclaimer';
 
 export const metadata: Metadata = {
   title: 'Web3 Events Calendar 2026 | Crypto Conferences & Meetups',
@@ -74,7 +75,7 @@ export default async function EventsPage() {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(pageSchema) }}
       />
       <div className="flex flex-col min-h-screen">
-        <main className="flex-1">
+        <main className="flex-1" data-event-page>
           <PageShell>
             <PageHeader title="Web3 Events" />
             <article className="site-container">
@@ -88,6 +89,7 @@ export default async function EventsPage() {
                 }
               />
               <EventsBoard initialEvents={events} />
+              <DirectoryDisclaimer type="event" />
             </article>
           </PageShell>
         </main>

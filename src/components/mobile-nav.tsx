@@ -33,13 +33,17 @@ import {
 export function MobileNav() {
   const pathname = usePathname();
   const isJobsIndex = pathname === '/' || pathname === '/jobs';
+  const isEventsIndex = pathname === '/events';
   const [isJobDetail, setIsJobDetail] = useState(false);
+  const [isEventDetail, setIsEventDetail] = useState(false);
 
   useLayoutEffect(() => {
     setIsJobDetail(!isJobsIndex && document.querySelector('[data-job-page]') !== null);
-  }, [isJobsIndex, pathname]);
+    setIsEventDetail(!isEventsIndex && document.querySelector('[data-event-page]') !== null);
+  }, [isEventsIndex, isJobsIndex, pathname]);
 
   const showPostJobCta = isJobsIndex || isJobDetail;
+  const showPostEventCta = isEventsIndex || isEventDetail;
 
   return (
     <Sheet>
@@ -77,6 +81,19 @@ export function MobileNav() {
                   onClick={() => trackCTAClick('post_a_job', 'https://t.me/web3jobs_rep')}
                 >
                   <Button className="w-full">Post a Job</Button>
+                </a>
+              </SheetClose>
+            )}
+            {showPostEventCta && (
+              <SheetClose asChild>
+                <a
+                  className="mobile-post-event-nav-cta"
+                  href="https://t.me/web3jobs_rep"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  onClick={() => trackCTAClick('post_an_event', 'https://t.me/web3jobs_rep')}
+                >
+                  <Button className="w-full">Post an Event</Button>
                 </a>
               </SheetClose>
             )}

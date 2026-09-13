@@ -829,71 +829,6 @@ async function fetchGoogleCloudWeb3Events() {
 }
 
 // ═══════════════════════════════════════════════════════════════════════
-// SOURCE 8: web3meetups.xyz (India-focused Web3 events)
-// ═══════════════════════════════════════════════════════════════════════
-async function fetchWeb3Meetups() {
-  try {
-    const res = await fetch('https://web3meetups.xyz/', { headers: { 'User-Agent': UA }, signal: AbortSignal.timeout(6000) });
-    if (!res.ok) return [];
-    const html = await res.text();
-    const { load } = await import('cheerio');
-    const $ = load(html);
-    const events = [];
-
-    // web3meetups uses links with shortlinks (t.ly, lu.ma, etc) wrapped in event cards
-    $('a[href]').each((_, el) => {
-      const $el = $(el);
-      const href = $el.attr('href') || '';
-      if (!href.includes('t.ly/') && !href.includes('lu.ma/') && !href.includes('luma.com/') && !href.includes('eventbrite') && !href.includes('posh.vip')) return;
-
-      // Extract title from the anchor text or inner element
-      let title = $el.text().replace(/\s+/g, ' ').trim();
-      if (!title || title.length < 3 || title.includes('Submit event') || title.includes('Back home')) return;
-
-      // Clean up multiline nested titles if present
-      const lines = title.split('\n').map(l => l.trim()).filter(Boolean);
-      if (lines.length > 1) {
-        title = lines[lines.length - 1];
-      }
-
-      // Get parent/ancestor text for city and date
-      const containerText = $el.closest('li, article, div').text().replace(/\s+/g, ' ').trim();
-
-      const cityMatch = containerText.match(/\b(Mumbai|Bangalore|Bengaluru|Delhi|NCR|Pune|Hyderabad|Goa|Varanasi|Bhopal|Jabalpur|Paralakhemundi|Kochi|Kolkata|Chennai|Ahmedabad|Jaipur)\b/i);
-      const city = cityMatch ? cityMatch[1] : 'India';
-
-      const dateMatch = containerText.match(/(\d{1,2}(?:\s*[-–]\s*\d{1,2})?)\s*(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)/i);
-      let startDate = new Date().toISOString();
-      if (dateMatch) {
-        const day = dateMatch[1].split(/[-–]/)[0].trim();
-        const month = dateMatch[2];
-        const parsed = new Date(`${month} ${day}, 2026`);
-        if (!isNaN(parsed.getTime())) startDate = parsed.toISOString();
-      }
-
-      const id = `w3m-${title.toLowerCase().replace(/[^a-z0-9]/g, '-').slice(0, 50)}-${startDate.slice(0, 10)}`;
-      if (events.some(e => e.id === id)) return;
-
-      events.push({
-        id,
-        name: title,
-        description: `Web3 meetup in ${city}, India listed on web3meetups.xyz`,
-        startDate,
-        endDate: '',
-        city,
-        country: 'India',
-        location: `${city}, India`,
-        url: href,
-        coverImage: null,
-        source: 'web3meetups',
-      });
-    });
-
-    return events;
-  } catch { return []; }
-}
-
-// ═══════════════════════════════════════════════════════════════════════
 // SOURCE 8b: Web3Voyager Payload API
 // ═══════════════════════════════════════════════════════════════════════
 async function fetchWeb3Voyager() {
@@ -1195,17 +1130,6 @@ async function fetchWeb3Events() {
   maEvents.forEach(e => { if (!allEventsMap.has(e.id)) allEventsMap.set(e.id, e); });
   console.log(`[MarketAcross] +${allEventsMap.size - maBefore} events`);
 
-  // ── 10. web3meetups.xyz ──
-  console.log(`\n[web3meetups.xyz] Fetching India Web3 events...`);
-  let w3mBefore = allEventsMap.size;
-  const w3mEvents = await fetchWeb3Meetups();
-  w3mEvents.forEach(e => {
-    // web3meetups events are guaranteed Web3 events
-    e.bypassedFilter = true;
-    if (!allEventsMap.has(e.id)) allEventsMap.set(e.id, e);
-  });
-  console.log(`[web3meetups.xyz] +${allEventsMap.size - w3mBefore} events`);
-
   // ── 10b. Web3Voyager ──
   console.log(`\n[Web3Voyager] Fetching Web3Voyager events...`);
   let w3vBefore = allEventsMap.size;
@@ -1287,7 +1211,7 @@ async function fetchWeb3Events() {
   // Trusted sources that are inherently Web3 (bypass strict name-level check)
   const TRUSTED_SOURCES = new Set([
     'ethglobal', 'deeptechtimes', 'marketacross', 'coinmarketcap',
-    'ethereum.org', 'web3meetups', 'web3voyager', 'dev-events', 'google-cloud-web3',
+    'ethereum.org', 'web3voyager', 'dev-events', 'google-cloud-web3',
   ]);
 
   // ALL events must pass Web3 relevance — no exceptions

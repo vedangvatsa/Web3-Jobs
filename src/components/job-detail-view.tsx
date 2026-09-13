@@ -3,6 +3,7 @@ import { ArrowRight, Clock, DollarSign, ExternalLink, MapPin } from 'lucide-reac
 import type { Company, Job } from '@/types';
 import { CompanyLogo } from '@/components/company-logo';
 import { JobApplicationButton } from '@/components/tracking/job-application-button';
+import { DirectoryDisclaimer } from '@/components/directory-disclaimer';
 import { DetailPageHeader } from '@/components/detail-page-header';
 import { getCompanySlug, getJobSlug } from '@/lib/job-slugs';
 import { getJobSalaryInfo } from '@/lib/job-salary';
@@ -379,6 +380,7 @@ export function JobDetailView({
           </div>
         </section>
       )}
+      <DirectoryDisclaimer type="job" />
     </article>
   );
 }

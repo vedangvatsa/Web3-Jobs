@@ -10,6 +10,9 @@ const rootDir = path.resolve(__dirname, '..');
 
 const curatedPath = path.join(rootDir, 'content', 'curated-events.json');
 const cachePath = path.join(rootDir, 'content', 'events-cache.json');
+const ibwSideEventsPath = path.join(rootDir, 'content', 'ibw-side-events.json');
+const kbwSideEventsPath = path.join(rootDir, 'content', 'kbw-luma-events.json');
+const indiaLumaEventsPath = path.join(rootDir, 'content', 'india-luma-events.json');
 const publicEventsDir = path.join(rootDir, 'public', 'events');
 const sourceFilter = process.env.EVENT_SOURCE;
 const refreshImages = process.env.EVENT_IMAGE_REFRESH === '1';
@@ -259,12 +262,18 @@ async function processEventsFile(filePath, label) {
 }
 
 async function main() {
-  await processEventsFile(curatedPath, 'Curated Events');
-  await processEventsFile(cachePath, 'Cached Events');
+  const eventFiles = [
+    [curatedPath, 'Curated Events'],
+    [cachePath, 'Cached Events'],
+    [ibwSideEventsPath, 'IBW Side Events'],
+    [kbwSideEventsPath, 'KBW Side Events'],
+    [indiaLumaEventsPath, 'India Luma Events'],
+  ];
+  for (const [filePath, label] of eventFiles) await processEventsFile(filePath, label);
 
   // Final pass: self-host every remote cover (high-res Luma crop) to public/events
   console.log('\n── Localizing remaining remote covers ──');
-  for (const [filePath, label] of [[curatedPath, 'Curated Events'], [cachePath, 'Cached Events']]) {
+  for (const [filePath, label] of eventFiles) {
     const events = JSON.parse(fs.readFileSync(filePath, 'utf8'));
     const targetEvents = sourceFilter ? events.filter((event) => event.source === sourceFilter) : events;
     const { okCount, rateLimited, failed } = await enrichLocalCovers(targetEvents, {

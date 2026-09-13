@@ -10,6 +10,7 @@ import { PageHeader } from "@/components/page-header";
 
 import { SITE_STATS } from '@/lib/constants';
 import { PageShell } from '@/components/page-shell';
+import { DirectoryDisclaimer } from '@/components/directory-disclaimer';
 
 const JOBS_PER_PAGE = 50;
 
@@ -98,7 +99,8 @@ export default async function JobsPage() {
               </Link>
             </div>
           </div>
-         <JobBoard initialJobs={initialJobs} initialTotal={totalJobs} companyLogos={companyLogos} />
+          <JobBoard initialJobs={initialJobs} initialTotal={totalJobs} companyLogos={companyLogos} />
+          <DirectoryDisclaimer type="job" />
        </div>
      </PageShell>
     </main>

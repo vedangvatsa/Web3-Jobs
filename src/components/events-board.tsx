@@ -6,9 +6,12 @@ import { Web3Event, getEventSlug, getEventCity } from '@/lib/events';
 import { Input } from '@/components/ui/input';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
-import { Search, Calendar, MapPin, ExternalLink, LayoutGrid } from 'lucide-react';
+import { Search, Calendar, MapPin, ExternalLink, LayoutGrid, Map as MapIcon } from 'lucide-react';
 import { Skeleton } from '@/components/ui/skeleton';
 import { EventCard } from '@/components/event-card';
+import dynamic from 'next/dynamic';
+
+const EventMap = dynamic(() => import('@/components/event-map').then((module) => module.EventMap), { ssr: false });
 
 // ISO 3166-1 alpha-2 → full country name
 const COUNTRY_NAMES: Record<string, string> = {
@@ -160,7 +163,7 @@ export function EventsBoard({ initialEvents }: { initialEvents: Web3Event[] }) {
   const visibleEvents = isSearching ? filteredEvents : filteredEvents.slice(0, visibleCount);
   const hasMore = !isSearching && visibleCount < filteredEvents.length;
 
-  const [viewMode, setViewMode] = useState<'grid' | 'calendar'>('grid');
+  const [viewMode, setViewMode] = useState<'grid' | 'calendar' | 'map'>('grid');
   const [currentMonth, setCurrentMonth] = useState(() => new Date());
 
   // Calendar matrix computation
@@ -296,6 +299,18 @@ export function EventsBoard({ initialEvents }: { initialEvents: Web3Event[] }) {
               >
                 <Calendar className="w-4 h-4" />
               </button>
+              <button
+                onClick={() => setViewMode('map')}
+                className={`p-1.5 rounded transition-colors ${
+                  viewMode === 'map'
+                    ? 'bg-background text-foreground shadow-xs'
+                    : 'text-muted-foreground hover:text-foreground'
+                }`}
+                title="Map View"
+                aria-label="Map View"
+              >
+                <MapIcon className="w-4 h-4" />
+              </button>
             </div>
           </div>
         </div>
@@ -429,6 +444,8 @@ export function EventsBoard({ initialEvents }: { initialEvents: Web3Event[] }) {
           </div>
         </div>
       )}
+
+      {viewMode === 'map' && <EventMap events={filteredEvents} />}
 
       {filteredEvents.length === 0 && (
         <div className="text-center py-20 border-2 border-dashed rounded-lg col-span-full mt-8">

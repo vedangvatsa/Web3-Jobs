@@ -22,6 +22,7 @@ export interface Web3Event {
   category?: string;
   price?: string;
   token2049SideEvent?: boolean;
+  sideEventFor?: string[];
   url: string;
   website?: string | null;
   coverImage: string | null;

@@ -1,37 +1,1583 @@
 [
-  {"id":"kbw-luma-namsan-hike-2026","name":"Namsan Hike with T1gers","description":"Public Korea Blockchain Week 2026 side event listed in the official KBW calendar.","startDate":"2026-09-26T10:00:00.000Z","endDate":"2026-09-26T13:00:00.000Z","city":"Seoul","country":"South Korea","location":"National Theater of Korea, Seoul, South Korea","url":"https://luma.com/oc5uk7rc","coverImage":"https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/2e/93c5c3bc-3b9e-47db-b75f-2534c6c3229c.png","source":"curated-premier"},
-  {"id":"kbw-luma-celo-espresso-brews-2026","name":"Celo & Espresso Brews","description":"Public Korea Blockchain Week 2026 side event listed in the official KBW calendar.","startDate":"2026-09-27T16:00:00.000Z","endDate":"2026-09-27T18:00:00.000Z","city":"Seoul","country":"South Korea","location":"Gangnam, Seoul, South Korea","url":"https://luma.com/espresso-hh","coverImage":"https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/gl/d6527d42-2c3f-4150-bf50-98ac20eac164.png","source":"curated-premier"},
-  {"id":"kbw-luma-tangem-house-seoul-2026","name":"Tangem House — Seoul","description":"Public Korea Blockchain Week 2026 side event listed in the official KBW calendar.","startDate":"2026-09-27T18:00:00.000Z","endDate":"2026-09-27T22:30:00.000Z","city":"Seoul","country":"South Korea","location":"Hashed Lounge, Seoul, South Korea","url":"https://luma.com/mwwro11j","coverImage":"https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/y2/8847670f-1642-4673-9cee-25659eb0309a.png","source":"curated-premier"},
-  {"id":"kbw-luma-global-financial-institution-seminar-2026","name":"Global Financial Institution VIP Seminar/Dinner","description":"Public Korea Blockchain Week 2026 side event listed in the official KBW calendar.","startDate":"2026-09-28T18:00:00.000Z","endDate":"2026-09-28T21:00:00.000Z","city":"Seoul","country":"South Korea","location":"Conrad Seoul, Seoul, South Korea","url":"https://luma.com/i0cqkgyt","coverImage":"https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/q1/051ad686-c035-4f4b-b7cc-c529c2a49801.png","source":"curated-premier"},
-  {"id":"kbw-luma-open-agi-frontier-2026","name":"Open AGI Frontier: AI Meets Robotics","description":"Public Korea Blockchain Week 2026 side event listed in the official KBW calendar.","startDate":"2026-09-29T14:00:00.000Z","endDate":"2026-09-29T18:00:00.000Z","city":"Seoul","country":"South Korea","location":"Grove1219, Seoul, South Korea","url":"https://luma.com/0kun5o5z","coverImage":"https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/qo/cb8d42de-1617-47fb-952e-598ea782fbf5.png","source":"curated-premier"},
-  {"id":"kbw-luma-coded-kbw-2026","name":"CODED@KBW","description":"Public Korea Blockchain Week 2026 side event on infrastructure, AI agentic rails, institutions and stablecoins.","startDate":"2026-09-29T15:00:00.000Z","endDate":"2026-09-29T20:00:00.000Z","city":"Seoul","country":"South Korea","location":"Google Startup Campus Seoul, Seoul, South Korea","url":"https://luma.com/bkffotv7","coverImage":null,"source":"curated-premier"},
-  {"id":"kbw-luma-trust404-2026","name":"TRUST404","description":"Public Korea Blockchain Week 2026 hackathon demo day and networking event listed in the official KBW calendar.","startDate":"2026-09-29T17:00:00.000Z","endDate":"2026-09-29T22:00:00.000Z","city":"Seoul","country":"South Korea","location":"Dreamplus Gangnam, Seoul, South Korea","url":"https://luma.com/mbhofe9t","coverImage":null,"source":"curated-premier"},
-  {"id":"kbw-luma-blockfesta-vip-2026","name":"BLOCKFESTA VIP NIGHT | KBW2026 Edition","description":"Public Korea Blockchain Week 2026 side event listed in the official KBW calendar.","startDate":"2026-09-29T18:00:00.000Z","endDate":"2026-09-29T21:30:00.000Z","city":"Seoul","country":"South Korea","location":"Seoul, South Korea","url":"https://luma.com/zcitdnu8","coverImage":null,"source":"curated-premier"},
-  {"id":"kbw-luma-seoul-index-2026","name":"Seoul Index","description":"Public Korea Blockchain Week 2026 networking event listed in the official KBW calendar.","startDate":"2026-09-29T18:30:00.000Z","endDate":"2026-09-29T22:30:00.000Z","city":"Seoul","country":"South Korea","location":"Cheongdam, Seoul, South Korea","url":"https://luma.com/0f9doy66","coverImage":null,"source":"curated-premier"},
-  {"id":"kbw-luma-chimaek-chill-2026","name":"Chimaek & Chill","description":"Public Korea Blockchain Week 2026 networking event listed in the official KBW calendar.","startDate":"2026-09-29T19:00:00.000Z","endDate":"2026-09-29T22:00:00.000Z","city":"Seoul","country":"South Korea","location":"Gangnam, Seoul, South Korea","url":"https://luma.com/er5akv9e","coverImage":null,"source":"curated-premier"},
-  {"id":"kbw-luma-capital-forum-canton-2026","name":"The Capital Forum: Canton Network at Institutional Scale","description":"Public Korea Blockchain Week 2026 forum listed in the official KBW calendar.","startDate":"2026-09-30T09:00:00.000Z","endDate":"2026-09-30T12:00:00.000Z","city":"Seoul","country":"South Korea","location":"Andaz Seoul Gangnam, Seoul, South Korea","url":"https://luma.com/g5dczrl8","coverImage":null,"source":"curated-premier"},
-  {"id":"kbw-luma-wiring-korea-world-2026","name":"Wiring Korea to the World: The Institutional Case for Cross-Border Digital Assets","description":"Public Korea Blockchain Week 2026 conference listed in the official KBW calendar.","startDate":"2026-09-30T09:00:00.000Z","endDate":"2026-09-30T12:00:00.000Z","city":"Seoul","country":"South Korea","location":"Hashed Lounge, Seoul, South Korea","url":"https://luma.com/y2cqlrik","coverImage":null,"source":"curated-premier"},
-  {"id":"kbw-luma-realfi-ai-2026","name":"Where AI Meets RealFi at KBW 2026","description":"Public Korea Blockchain Week 2026 conference and networking event listed in the official KBW calendar.","startDate":"2026-09-30T14:00:00.000Z","endDate":"2026-09-30T19:00:00.000Z","city":"Seoul","country":"South Korea","location":"Cheongdam, Seoul, South Korea","url":"https://luma.com/b76kor0e","coverImage":null,"source":"curated-premier"},
-  {"id":"kbw-luma-ai-payment-carnival-2026","name":"The Next AI & Payment Carnival","description":"Public Korea Blockchain Week 2026 conference and networking event listed in the official KBW calendar.","startDate":"2026-09-30T14:00:00.000Z","endDate":"2026-09-30T21:00:00.000Z","city":"Seoul","country":"South Korea","location":"Seoul, South Korea","url":"https://luma.com/zoplh23g","coverImage":null,"source":"curated-premier"},
-  {"id":"kbw-luma-best-event-sundown-2026","name":"The Best Event: Sundown","description":"Public Korea Blockchain Week 2026 networking event listed in the official KBW calendar.","startDate":"2026-09-30T16:00:00.000Z","endDate":"2026-09-30T19:00:00.000Z","city":"Seoul","country":"South Korea","location":"Itaewon, Seoul, South Korea","url":"https://luma.com/tbe-kbw26","coverImage":null,"source":"curated-premier"},
-  {"id":"kbw-luma-stellar-night-seoul-2026","name":"Stellar Night Seoul","description":"Public Korea Blockchain Week 2026 networking event listed in the official KBW calendar.","startDate":"2026-09-30T17:00:00.000Z","endDate":"2026-09-30T21:00:00.000Z","city":"Seoul","country":"South Korea","location":"Seoul, South Korea","url":"https://luma.com/rx85jwn8","coverImage":null,"source":"curated-premier"},
-  {"id":"kbw-luma-onchain-finance-exchange-2026","name":"Onchain Finance Exchange: Tokenization at Institutional Scale","description":"Public Korea Blockchain Week 2026 tokenization and institutional finance event listed in the official KBW calendar.","startDate":"2026-09-30T17:00:00.000Z","endDate":"2026-09-30T20:00:00.000Z","city":"Seoul","country":"South Korea","location":"Yeongdeungpo, Seoul, South Korea","url":"https://luma.com/854sn50i","coverImage":null,"source":"curated-premier"},
-  {"id":"kbw-luma-mining-the-night-2026","name":"Mining the Night","description":"Public Korea Blockchain Week 2026 builder networking and mining demo event listed in the official KBW calendar.","startDate":"2026-09-30T18:00:00.000Z","endDate":"2026-09-30T22:00:00.000Z","city":"Seoul","country":"South Korea","location":"Gangnam, Seoul, South Korea","url":"https://luma.com/13yz9wdm","coverImage":null,"source":"curated-premier"},
-  {"id":"kbw-luma-ourbit-after-hours-2026","name":"OURBIT KBW After Hours VIP Party","description":"Public Korea Blockchain Week 2026 networking event listed in the official KBW calendar.","startDate":"2026-09-30T18:00:00.000Z","endDate":"2026-09-30T23:00:00.000Z","city":"Seoul","country":"South Korea","location":"Cheongdam, Seoul, South Korea","url":"https://luma.com/rkxifw17","coverImage":null,"source":"curated-premier"},
-  {"id":"kbw-luma-beldex-acurast-party-2026","name":"KBW VIP Party: Beldex x Acurast","description":"Public Korea Blockchain Week 2026 networking event listed in the official KBW calendar.","startDate":"2026-09-30T19:30:00.000Z","endDate":"2026-09-30T23:30:00.000Z","city":"Seoul","country":"South Korea","location":"Itaewon, Seoul, South Korea","url":"https://luma.com/8v33uuug","coverImage":null,"source":"curated-premier"},
-  {"id":"kbw-luma-institutional-privacy-day-2026","name":"Institutional Privacy Day","description":"Public Korea Blockchain Week 2026 privacy and digital-asset event listed in the official KBW calendar.","startDate":"2026-09-30T12:00:00.000Z","endDate":"2026-09-30T18:00:00.000Z","city":"Seoul","country":"South Korea","location":"Seocho, Seoul, South Korea","url":"https://luma.com/xnzbz5c6","coverImage":null,"source":"curated-premier"},
-  {"id":"kbw-luma-yellow-korea-workshop-2026","name":"Yellow Korea Workshop: AI Agents","description":"Public Korea Blockchain Week 2026 workshop listed in the official KBW calendar.","startDate":"2026-10-01T14:00:00.000Z","endDate":"2026-10-01T17:00:00.000Z","city":"Seoul","country":"South Korea","location":"Gangnam, Seoul, South Korea","url":"https://luma.com/Yellowkorea","coverImage":null,"source":"curated-premier"},
-  {"id":"kbw-luma-sanc-nine-2026","name":"SANC Nine","description":"Public Korea Blockchain Week 2026 community and networking event listed in the official KBW calendar.","startDate":"2026-10-01T14:00:00.000Z","endDate":"2026-10-01T18:00:00.000Z","city":"Seoul","country":"South Korea","location":"Seoul, South Korea","url":"https://luma.com/1p9onaut","coverImage":null,"source":"curated-premier"},
-  {"id":"kbw-luma-seoul-on-chain-2026","name":"Seoul On Chain","description":"Public Korea Blockchain Week 2026 blockchain networking and panel event listed in the official KBW calendar.","startDate":"2026-10-01T14:00:00.000Z","endDate":"2026-10-01T19:00:00.000Z","city":"Seoul","country":"South Korea","location":"Gangnam, Seoul, South Korea","url":"https://luma.com/mcfqg53e","coverImage":null,"source":"curated-premier"},
-  {"id":"kbw-luma-bridging-finance-onchain-2026","name":"Bridging Finance Onchain","description":"Public Korea Blockchain Week 2026 conference on institutional onchain finance listed in the official KBW calendar.","startDate":"2026-10-01T14:30:00.000Z","endDate":"2026-10-01T18:30:00.000Z","city":"Seoul","country":"South Korea","location":"Four Seasons Hotel Seoul, Seoul, South Korea","url":"https://luma.com/bridgingfinanceonchain","coverImage":null,"source":"curated-premier"},
-  {"id":"kbw-luma-onchain-night-2026","name":"On-ChAIn Night","description":"Public Korea Blockchain Week 2026 conference and networking event listed in the official KBW calendar.","startDate":"2026-10-01T17:00:00.000Z","endDate":"2026-10-01T20:00:00.000Z","city":"Seoul","country":"South Korea","location":"SAC Art Hall, Seoul, South Korea","url":"https://luma.com/n61tjj9r","coverImage":null,"source":"curated-premier"},
-  {"id":"kbw-luma-easycon-seoul-2026","name":"EASYCON SEOUL: Social Intelligence Workshop & Community Night","description":"Public Korea Blockchain Week 2026 workshop and networking event listed in the official KBW calendar.","startDate":"2026-10-01T17:30:00.000Z","endDate":"2026-10-01T21:30:00.000Z","city":"Seoul","country":"South Korea","location":"Gangnam, Seoul, South Korea","url":"https://luma.com/EASYSeoul2026","coverImage":null,"source":"curated-premier"},
-  {"id":"kbw-luma-perpdex-night-2026","name":"PERPDEX NIGHT","description":"Public Korea Blockchain Week 2026 trading and networking event listed in the official KBW calendar.","startDate":"2026-10-01T18:00:00.000Z","endDate":"2026-10-01T21:30:00.000Z","city":"Seoul","country":"South Korea","location":"SJ Kunsthalle, Seoul, South Korea","url":"https://luma.com/lplcwljs","coverImage":null,"source":"curated-premier"},
-  {"id":"kbw-luma-four-pillars-research-awards-2026","name":"Four Pillars Research Challenge 2026 Awards Ceremony","description":"Public Korea Blockchain Week 2026 blockchain research showcase listed in the official KBW calendar.","startDate":"2026-10-01T19:00:00.000Z","endDate":"2026-10-01T21:00:00.000Z","city":"Seoul","country":"South Korea","location":"Hashed Lounge, Seoul, South Korea","url":"https://luma.com/fy078hev","coverImage":null,"source":"curated-premier"},
-  {"id":"kbw-luma-tradfi-onchain-2026","name":"TradFi On-Chain","description":"Public Korea Blockchain Week 2026 conference and networking event listed in the official KBW calendar.","startDate":"2026-10-01T14:00:00.000Z","endDate":"2026-10-01T18:00:00.000Z","city":"Seoul","country":"South Korea","location":"Seoul, South Korea","url":"https://luma.com/nl4bsys6","coverImage":null,"source":"curated-premier"},
-  {"id":"kbw-luma-ravedao-baddiejuice-2026","name":"RaveDAO Presents BADDIEJUICE at Soap Seoul","description":"Public Korea Blockchain Week 2026 Web3 community event listed in the official KBW calendar.","startDate":"2026-10-01T21:00:00.000Z","endDate":"2026-10-02T02:00:00.000Z","city":"Seoul","country":"South Korea","location":"Soap Seoul, Seoul, South Korea","url":"https://luma.com/z0h15i8u","coverImage":null,"source":"curated-premier"},
-  {"id":"kbw-luma-trader-gathering-2026","name":"Trader Gathering","description":"Public Korea Blockchain Week 2026 trader networking event listed in the official KBW calendar.","startDate":"2026-10-02T15:00:00.000Z","endDate":"2026-10-02T18:00:00.000Z","city":"Seoul","country":"South Korea","location":"Gangnam, Seoul, South Korea","url":"https://luma.com/r86vvn9s","coverImage":null,"source":"curated-premier"},
-  {"id":"kbw-luma-xrpfi-night-2026","name":"XRPfi Night Seoul","description":"Public Korea Blockchain Week 2026 XRP and digital-asset networking event listed in the official KBW calendar.","startDate":"2026-10-02T17:00:00.000Z","endDate":"2026-10-02T21:00:00.000Z","city":"Seoul","country":"South Korea","location":"Gangnam, Seoul, South Korea","url":"https://luma.com/ikda4x51","coverImage":null,"source":"curated-premier"},
-  {"id":"kbw-luma-lambda256-node-crew-2026","name":"Join the Blockchain Node Crew","description":"Public Korea Blockchain Week 2026 blockchain recruiting and technical talk listed in the official KBW calendar.","startDate":"2026-10-03T16:00:00.000Z","endDate":"2026-10-03T19:00:00.000Z","city":"Seoul","country":"South Korea","location":"Upbit Lounge, Seoul, South Korea","url":"https://luma.com/e9vm2gbc","coverImage":null,"source":"curated-premier"},
-  {"id":"kbw-luma-xrp-afterparty-2026","name":"XRP Seoul 2026 VIP Afterparty","description":"Public Korea Blockchain Week 2026 XRP community event listed in the official KBW calendar.","startDate":"2026-10-03T18:30:00.000Z","endDate":"2026-10-03T21:30:00.000Z","city":"Seoul","country":"South Korea","location":"Grand Hyatt Seoul, Seoul, South Korea","url":"https://luma.com/q0wmg82n","coverImage":null,"source":"curated-premier"}
+  {
+    "id": "kbw-official-namsan-hike-with-t1gers-09-26",
+    "name": "Namsan Hike with T1gers",
+    "description": "Namsan Hike with T1gers is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-09-26T10:00:00+09:00",
+    "endDate": "2026-09-26T13:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "National Theater of Korea / 59 Jangchungdan-ro, Jung District, Seoul",
+    "category": "Networking Event",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/oc5uk7rc",
+    "coverImage": "/events/kbw-official-namsan-hike-with-t1gers-09-26-686e369c.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-celo-espresso-brews-09-27",
+    "name": "Celo & Espresso Brews",
+    "description": "Celo & Espresso Brews is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-09-27T16:00:00+09:00",
+    "endDate": "2026-09-27T18:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "Bar Tea Scent, South Korea, Seoul, Gangnam District, Seolleung-ro 162-gil, 16 1층",
+    "category": "Happy Hour Networking",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/espresso-hh",
+    "coverImage": "/events/kbw-official-celo-espresso-brews-09-27-05cb3f91.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-tangem-house-seoul-09-27",
+    "name": "Tangem House — Seoul",
+    "description": "Tangem House — Seoul is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-09-27T18:00:00+09:00",
+    "endDate": "2026-09-27T22:30:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "Hashed Lounge 20f, 374 Gangnam-daero, Gangnam District, Seoul",
+    "category": "Sessions, Networking Event, B2B event",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/mwwro11j",
+    "coverImage": "/events/kbw-official-tangem-house-seoul-09-27-41927fa1.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-the-bridge-summit-09-28",
+    "name": "The Bridge Summit",
+    "description": "The Bridge Summit is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-09-28T09:00:00+09:00",
+    "endDate": "2026-09-28T17:30:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "Josun Palace, The Great Hall 3F3F, West Tower, 231, Teheran-ro, Gangnam-gu, Seoul, Republic of Korea",
+    "category": "Conference",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/80q0842z",
+    "coverImage": "/events/kbw-official-the-bridge-summit-09-28-cb5e5d6b.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-hyperliquid-seminar-korea-09-28",
+    "name": "Hyperliquid Seminar Korea",
+    "description": "Hyperliquid Seminar Korea is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-09-28T14:00:00+09:00",
+    "endDate": "2026-09-28T17:30:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "Invitation only",
+    "category": "Seminar/Workshop",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/eei081l4",
+    "coverImage": "/events/kbw-official-hyperliquid-seminar-korea-09-28-fe75c522.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-crypto-house-seoul-26-09-28",
+    "name": "Crypto House Seoul '26",
+    "description": "Crypto House Seoul '26 is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-09-28T14:00:00+09:00",
+    "endDate": "2026-09-28T17:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "WeWork Seolleung II8F Beer Garden, 427 Teheran-ro, Gangnam District, Seoul",
+    "category": "Conference & Networking",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/r6iwcjcl",
+    "coverImage": "/events/kbw-official-crypto-house-seoul-26-09-28-a8fe8dec.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-perp-dex-day-with-reboundx-09-28",
+    "name": "Perp-Dex Day with ReboundX",
+    "description": "Perp-Dex Day with ReboundX is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-09-28T16:00:00+09:00",
+    "endDate": "2026-09-28T20:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "SJ Kunsthalle5, Unjo-ro 91-gil, Gangnam-gu, Seoul, Korea",
+    "category": "E-sports, Networking, Conference",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/fbbbu498",
+    "coverImage": "/events/kbw-official-perp-dex-day-with-reboundx-09-28-6b320348.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-ai-meets-the-chart-a-horizon-series-event-09-28",
+    "name": "AI Meets the Chart — A Horizon Series Event",
+    "description": "AI Meets the Chart — A Horizon Series Event is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-09-28T17:00:00+09:00",
+    "endDate": "2026-09-28T21:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "Alver Coffee Gangnam34 Gangnam-daero 102-gil, Gangnam District, Seoul, 南韓",
+    "category": "Party",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/5mgf0u76",
+    "coverImage": "/events/kbw-official-ai-meets-the-chart-a-horizon-series-e-69004237.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-kbw-2026-private-yacht-soir-e-epoch-1-09-28",
+    "name": "KBW 2026 Private Yacht Soirée - Epoch 1",
+    "description": "KBW 2026 Private Yacht Soirée - Epoch 1 is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-09-28T17:00:00+09:00",
+    "endDate": "2026-09-28T21:30:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "TBD - Han River",
+    "category": "Networking Event",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/YachtEpoch1",
+    "coverImage": "/events/kbw-official-kbw-2026-private-yacht-soir-e-epoch-1-543b6200.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-global-financial-institution-vip-seminar-dinner-09-28",
+    "name": "Global Financial Institution VIP Seminar/Dinner",
+    "description": "Global Financial Institution VIP Seminar/Dinner is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-09-28T18:00:00+09:00",
+    "endDate": "2026-09-28T21:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "Conrad Seoul10 Gukjegeumyung-ro, Yeouido, Yeongdeungpo-gu, Seoul, Korea",
+    "category": "VIP Closed-door Seminar/Dinner Invite Only",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/i0cqkgyt",
+    "coverImage": "/events/kbw-official-global-financial-institution-vip-semi-21629ea6.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-agentic-payments-onchain-09-28",
+    "name": "Agentic Payments Onchain",
+    "description": "Agentic Payments Onchain is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-09-28T18:00:00+09:00",
+    "endDate": "2026-09-28T23:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "Location disclosed upon registration(near Gangnam)",
+    "category": "Workshop & Networking Event",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/mw84pfjm",
+    "coverImage": "/events/kbw-official-agentic-payments-onchain-09-28-28656ca2.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-trade-the-wave-sma-trading-vip-exclusive-meetup-09-28",
+    "name": "Trade the Wave: SMA Trading & VIP Exclusive Meetup",
+    "description": "Trade the Wave: SMA Trading & VIP Exclusive Meetup is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-09-28T18:00:00+09:00",
+    "endDate": "2026-09-28T23:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "Invitation Only",
+    "category": "Session & Networking Event",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/2be4gqlc",
+    "coverImage": "/events/kbw-official-trade-the-wave-sma-trading-vip-exclus-ac8e9d76.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-hyperliquid-community-dinner-seoul-09-28",
+    "name": "Hyperliquid Community Dinner Seoul",
+    "description": "Hyperliquid Community Dinner Seoul is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-09-28T18:30:00+09:00",
+    "endDate": "2026-09-28T22:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "Invitation Only",
+    "category": "Networking Event",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/5ltxvfi7",
+    "coverImage": "/events/kbw-official-hyperliquid-community-dinner-seoul-09-b87a8706.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-security-night-with-zircuit-finance-quantstamp-and-common-defense-09-28",
+    "name": "Security Night with Zircuit Finance, Quantstamp, and Common Defense",
+    "description": "Security Night with Zircuit Finance, Quantstamp, and Common Defense is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-09-28T19:00:00+09:00",
+    "endDate": "2026-09-28T09:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "TBD",
+    "category": "Networking Event",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/SecurityNight",
+    "coverImage": "/events/kbw-official-security-night-with-zircuit-finance-q-00e2761a.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-gwdc-2026-korea-09-29",
+    "name": "GWDC 2026 KOREA",
+    "description": "GWDC 2026 KOREA is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-09-29T10:00:00+09:00",
+    "endDate": "2026-09-30T19:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "aT CenterSeoul, Seocho District, Gangnam-daero, 27 aT Center",
+    "category": "Conference",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/cp87au4f",
+    "coverImage": "/events/kbw-official-gwdc-2026-korea-09-29-eedb4dbe.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-connect-by-cointelegraph-seoul-edition-09-29",
+    "name": "CONNECT by Cointelegraph : Seoul Edition",
+    "description": "CONNECT by Cointelegraph : Seoul Edition is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-09-29T12:00:00+09:00",
+    "endDate": "2026-09-29T18:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "Grand Mercure Imperial Palace Seoul640 Eonju-ro, Gangnam District, Seoul, Korea",
+    "category": "Conference",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/xxwrhox8",
+    "coverImage": "/events/kbw-official-connect-by-cointelegraph-seoul-editio-ef7d36c2.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-open-agi-frontier-ai-meets-robotics-09-29",
+    "name": "Open AGI Frontier: AI Meets Robotics",
+    "description": "Open AGI Frontier: AI Meets Robotics is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-09-29T14:00:00+09:00",
+    "endDate": "2026-09-29T18:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "Grove121912-19 Seoulsup 4-gil, Seongdong-gu, Seoul , Republic of Korea",
+    "category": "Networking Event",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/0kun5o5z",
+    "coverImage": "/events/kbw-official-open-agi-frontier-ai-meets-robotics-0-70c8092d.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-coded-kbw-connecting-with-high-signal-leaders-across-infrastructure-ai-a-09-29",
+    "name": "CODED@KBW — Connecting with High-Signal Leaders Across Infrastructure, AI Agentic Rails, Institutions & Stablecoins",
+    "description": "CODED@KBW — Connecting with High-Signal Leaders Across Infrastructure, AI Agentic Rails, Institutions & Stablecoins is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-09-29T15:00:00+09:00",
+    "endDate": "2026-09-29T20:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "Google Startup Campus Seoulb2, 417 Yeongdong-daero, Gangnam District, Seoul",
+    "category": "Networking Event",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/bkffotv7",
+    "coverImage": "/events/kbw-official-coded-kbw-connecting-with-high-signal-3a1fe816.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-builders-meet-09-29",
+    "name": "Builders Meet 🇰🇷",
+    "description": "Builders Meet 🇰🇷 is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-09-29T16:00:00+09:00",
+    "endDate": "2026-09-29T19:30:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "TBD",
+    "category": "Networking Happy Hour",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/cnp7d806",
+    "coverImage": "/events/kbw-official-builders-meet-09-29-7385b2b6.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-han-river-sunset-the-next-onchain-economy-09-29",
+    "name": "Han River Sunset · The Next Onchain Economy",
+    "description": "Han River Sunset · The Next Onchain Economy is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-09-29T16:00:00+09:00",
+    "endDate": "2026-09-29T19:30:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "TBD",
+    "category": "Conference, Networking Event",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/w4cjeate",
+    "coverImage": "/events/kbw-official-han-river-sunset-the-next-onchain-eco-08f5d472.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-reboundx-in-wonderland-09-29",
+    "name": "ReboundX in Wonderland",
+    "description": "ReboundX in Wonderland is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-09-29T16:00:00+09:00",
+    "endDate": "2026-09-29T21:30:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "Invitation Only",
+    "category": "Networking event, conference",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/9db984wd",
+    "coverImage": "/events/kbw-official-reboundx-in-wonderland-09-29-ee5eab2a.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-crypto-compliance-and-legal-roundtable-09-29",
+    "name": "Crypto Compliance and Legal Roundtable",
+    "description": "Crypto Compliance and Legal Roundtable is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-09-29T16:30:00+09:00",
+    "endDate": "2026-09-29T19:30:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "Yulchon offices, Parnas Tower521 Teheran-ro, Gangnam District, Seoul, South Korea",
+    "category": "Roundtable and Networking",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/fop77t0t",
+    "coverImage": "/events/kbw-official-crypto-compliance-and-legal-roundtabl-e857cd1f.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-trust404-09-29",
+    "name": "TRUST404",
+    "description": "TRUST404 is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-09-29T17:00:00+09:00",
+    "endDate": "2026-09-29T22:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "Dreamplus Gangnam311 Gangnam-daero, Seocho-gu, Seoul, Republic of Korea",
+    "category": "Hackathon Demo Day & Networking Event",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/mbhofe9t",
+    "coverImage": "/events/kbw-official-trust404-09-29-bd9bf115.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-blockfesta-vip-night-kbw2026-edition-09-29",
+    "name": "BLOCKFESTA VIP NIGHT | KBW2026 Edition​",
+    "description": "BLOCKFESTA VIP NIGHT | KBW2026 Edition​ is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-09-29T18:00:00+09:00",
+    "endDate": "2026-09-29T21:30:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "shared with confirmed guests",
+    "category": "Networking Event",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/zcitdnu8",
+    "coverImage": "/events/kbw-official-blockfesta-vip-night-kbw2026-edition--7cc91fd3.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-tokenizing-k-pop-wavist-night-09-29",
+    "name": "Tokenizing K-Pop: WAVIST Night",
+    "description": "Tokenizing K-Pop: WAVIST Night is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-09-29T18:00:00+09:00",
+    "endDate": "2026-09-29T22:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "Invitation Only",
+    "category": "Networking Event",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/ee54irda",
+    "coverImage": "/events/kbw-official-tokenizing-k-pop-wavist-night-09-29-5afd17b7.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-yieldmaxxing-kbw-happy-hour-09-29",
+    "name": "Yieldmaxxing KBW Happy Hour",
+    "description": "Yieldmaxxing KBW Happy Hour is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-09-29T18:00:00+09:00",
+    "endDate": "2026-09-29T23:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "Gangnam District, exact venue TBD",
+    "category": "Dinner",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/7nqix5pw",
+    "coverImage": "/events/kbw-official-yieldmaxxing-kbw-happy-hour-09-29-b32f850d.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-seoul-index-09-29",
+    "name": "Seoul Index",
+    "description": "Seoul Index is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-09-29T18:30:00+09:00",
+    "endDate": "2026-09-29T22:30:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "Cheongdam People the Terrace13, Dosan-daero 81-gil, Gangnam-gu, Seoul, Republic of Korea",
+    "category": "Networking Event & Party",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/0f9doy66",
+    "coverImage": "/events/kbw-official-seoul-index-09-29-6127de9a.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-liquidity-evening-by-turtle-09-29",
+    "name": "Liquidity Evening by Turtle​",
+    "description": "Liquidity Evening by Turtle​ is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-09-29T18:30:00+09:00",
+    "endDate": "2026-09-29T22:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "L7 Gangnam by Lotte415 Teheran-ro, Gangnam District, Seoul, South Korea",
+    "category": "Networking Event",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/lunar-wbcs",
+    "coverImage": "/events/kbw-official-liquidity-evening-by-turtle-09-29-e7a5b08d.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-stabull-dinner-09-29",
+    "name": "Stabull Dinner",
+    "description": "Stabull Dinner is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-09-29T18:30:00+09:00",
+    "endDate": "2026-09-29T23:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "Accepted guests only",
+    "category": "Networking Event",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/f4ucwh96",
+    "coverImage": "/events/kbw-official-stabull-dinner-09-29-f2720c54.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-private-seminar-south-korea-s-crypto-tax-implementation-in-2027-09-29",
+    "name": "[Private seminar] South Korea's crypto tax implementation in 2027",
+    "description": "[Private seminar] South Korea's crypto tax implementation in 2027 is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-09-29T19:00:00+09:00",
+    "endDate": "2026-09-29T21:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "Accepted guests only",
+    "category": "Seminar",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/zug37y0d",
+    "coverImage": "/events/kbw-official-private-seminar-south-korea-s-crypto--e8101063.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-the-private-table-after-dark-gangnam-09-29",
+    "name": "The Private Table: After Dark Gangnam",
+    "description": "The Private Table: After Dark Gangnam is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-09-29T19:00:00+09:00",
+    "endDate": "2026-09-29T22:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "Accepted guests only",
+    "category": "Networking Event",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/TPT_KBW2026",
+    "coverImage": "/events/kbw-official-the-private-table-after-dark-gangnam--aaa0c1d9.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-seoul-settlement-kbw-cross-border-payments-night-09-29",
+    "name": "Seoul & Settlement: KBW Cross-border Payments Night",
+    "description": "Seoul & Settlement: KBW Cross-border Payments Night is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-09-29T19:00:00+09:00",
+    "endDate": "2026-09-29T22:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "Accepted guests only",
+    "category": "Networking Event",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/8dheox73",
+    "coverImage": "/events/kbw-official-seoul-settlement-kbw-cross-border-pay-4b577728.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-capital-at-sunset-kbw-exclusive-dinner-09-29",
+    "name": "Capital at Sunset: KBW Exclusive Dinner",
+    "description": "Capital at Sunset: KBW Exclusive Dinner is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-09-29T19:00:00+09:00",
+    "endDate": "2026-09-29T22:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "TBD",
+    "category": "Dinner",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/2h7d0o6r",
+    "coverImage": "/events/kbw-official-capital-at-sunset-kbw-exclusive-dinne-540120e5.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-chimaek-chill-09-29",
+    "name": "Chimaek & Chill",
+    "description": "Chimaek & Chill is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-09-29T19:00:00+09:00",
+    "endDate": "2026-09-29T22:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "1F, 11 Gangnam-daero 98-gil, Gangnam-gu, Seoul, Republic of Korea",
+    "category": "Networking and Chill",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/er5akv9e",
+    "coverImage": "/events/kbw-official-chimaek-chill-09-29-9321c8c2.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-dwf-labs-haus-09-29",
+    "name": "DWF Labs Haus",
+    "description": "DWF Labs Haus is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-09-29T19:00:00+09:00",
+    "endDate": "2026-09-29T23:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "TBD",
+    "category": "Networking event",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/DWFLabsHaus-KBW2026",
+    "coverImage": "/events/kbw-official-dwf-labs-haus-09-29-a5991a63.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-the-local-pints-as-a-service-in-seoul-for-founders-funders-friends-09-29",
+    "name": "THE LOCAL: Pints-as-a-Service in Seoul for founders, funders & friends",
+    "description": "THE LOCAL: Pints-as-a-Service in Seoul for founders, funders & friends is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-09-29T19:00:00+09:00",
+    "endDate": "2026-09-29T00:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "TBD",
+    "category": "Pub social event",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/8jrm86vk",
+    "coverImage": "/events/kbw-official-the-local-pints-as-a-service-in-seoul-514d9ee0.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-digital-af-exhibition-side-events-space-korea-blockchain-week-09-29",
+    "name": "DIGITAL AF • Exhibition & Side Events Space •Korea Blockchain Week",
+    "description": "DIGITAL AF • Exhibition & Side Events Space •Korea Blockchain Week is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-09-29T16:00:00+09:00",
+    "endDate": "2026-10-02T02:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "ARC Gangnam7, Gangnam-daero 30-gil, Seocho-gu, Seoul, Korea",
+    "category": "Art, Conference, Hackathon, Esport, Party",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/zecq09tp",
+    "coverImage": "/events/kbw-official-digital-af-exhibition-side-events-spa-4e92cf1c.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-the-capital-forum-canton-network-at-institutional-scale-09-30",
+    "name": "The Capital Forum: Canton Network at Institutional Scale",
+    "description": "The Capital Forum: Canton Network at Institutional Scale is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-09-30T09:00:00+09:00",
+    "endDate": "2026-09-30T12:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "Andaz Seoul Gangnam854 Nonhyeon-ro, Gangnam District, Seoul, Republic of Korea",
+    "category": "Forum / Conference",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/g5dczrl8",
+    "coverImage": "/events/kbw-official-the-capital-forum-canton-network-at-i-3ce1e2bb.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-wiring-korea-to-the-world-the-institutional-case-for-cross-border-digita-09-30",
+    "name": "Wiring Korea to the World : The Institutional Case for Cross-Border Digital Assets",
+    "description": "Wiring Korea to the World : The Institutional Case for Cross-Border Digital Assets is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-09-30T09:00:00+09:00",
+    "endDate": "2026-09-30T12:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "Hashed Lounge (20F, K-Square Gangnam 2, Seoul)",
+    "category": "Conference/Press briefing",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/y2cqlrik",
+    "coverImage": "/events/kbw-official-wiring-korea-to-the-world-the-institu-ca698c54.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-solana-summit-korea-09-30",
+    "name": "Solana Summit Korea",
+    "description": "Solana Summit Korea is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-09-30T10:00:00+09:00",
+    "endDate": "2026-09-30T17:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "TBD- Yeouido, Seoul",
+    "category": "Conference & Networking",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/solana-summit-korea-2026",
+    "coverImage": "/events/kbw-official-solana-summit-korea-09-30-c578c3b7.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-alpha-in-seoul-korean-sma-trading-house-meetup-09-30",
+    "name": "Alpha in Seoul - Korean SMA Trading House Meetup",
+    "description": "Alpha in Seoul - Korean SMA Trading House Meetup is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-09-30T14:00:00+09:00",
+    "endDate": "2026-09-30T16:30:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "Invitation only",
+    "category": "Seminar",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/vefqyxer",
+    "coverImage": "/events/kbw-official-alpha-in-seoul-korean-sma-trading-hou-65158447.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-where-ai-meets-realfi-at-kbw-2026-09-30",
+    "name": "Where AI Meets RealFi at KBW 2026",
+    "description": "Where AI Meets RealFi at KBW 2026 is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-09-30T14:00:00+09:00",
+    "endDate": "2026-09-30T19:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "13 Dosan-daero 81-gil, Cheongdam-dong, Gangnam District, Seoul, South Korea",
+    "category": "Conference,Networking Event",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/b76kor0e",
+    "coverImage": "/events/kbw-official-where-ai-meets-realfi-at-kbw-2026-09--b77cd1bf.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-the-next-ai-payment-carnival-09-30",
+    "name": "THE NEXT AI & Payment CARNIVAL",
+    "description": "THE NEXT AI & Payment CARNIVAL is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-09-30T14:00:00+09:00",
+    "endDate": "2026-09-30T21:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "8, Teheran-ro 44-gil, Gangnam-gu, Seoul, Republic of Korea",
+    "category": "Conference, Networking Event",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/zoplh23g",
+    "coverImage": "/events/kbw-official-the-next-ai-payment-carnival-09-30-5178154a.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-token-sale-summit-2026-09-30",
+    "name": "Token Sale Summit 2026",
+    "description": "Token Sale Summit 2026 is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-09-30T15:00:00+09:00",
+    "endDate": "2026-09-30T18:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "TBD",
+    "category": "Summit",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/jh3ulvtq",
+    "coverImage": "/events/kbw-official-token-sale-summit-2026-09-30-a37e9cc0.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-r25-2-0-genesis-curator-meetup-seoul-09-30",
+    "name": "R25 2.0 Genesis Curator Meetup— Seoul",
+    "description": "R25 2.0 Genesis Curator Meetup— Seoul is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-09-30T16:00:00+09:00",
+    "endDate": "2026-09-30T18:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "TBD",
+    "category": "Meetup",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/cdq9hzss",
+    "coverImage": "/events/kbw-official-r25-2-0-genesis-curator-meetup-seoul--5a904038.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-the-best-event-sundown-09-30",
+    "name": "The Best Event: Sundown",
+    "description": "The Best Event: Sundown is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-09-30T16:00:00+09:00",
+    "endDate": "2026-09-30T19:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "Fountain116-6 Itaewon-dong, Yongsan District, Seoul, South Korea",
+    "category": "Networking Event",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/tbe-kbw26",
+    "coverImage": "/events/kbw-official-the-best-event-sundown-09-30-e78b6d45.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-stellar-night-seoul-09-30",
+    "name": "Stellar Night Seoul",
+    "description": "Stellar Night Seoul is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-09-30T17:00:00+09:00",
+    "endDate": "2026-09-30T21:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "Accepted guests only",
+    "category": "Networking Event",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/rx85jwn8",
+    "coverImage": "/events/kbw-official-stellar-night-seoul-09-30-11a73358.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-kyobo-x-sbi-holdings-x-ripple-onchain-finance-exchange-tokenization-at-i-09-30",
+    "name": "[Kyobo x SBI Holdings x Ripple] Onchain Finance Exchange: Tokenization at Institutional Scale",
+    "description": "[Kyobo x SBI Holdings x Ripple] Onchain Finance Exchange: Tokenization at Institutional Scale is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-09-30T17:00:00+09:00",
+    "endDate": "2026-09-30T20:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "Yeongdeungpo District",
+    "category": "B2B Event, Panel Discussion, Networking Reception",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/854sn50i",
+    "coverImage": "/events/kbw-official-kyobo-x-sbi-holdings-x-ripple-onchain-e27c059a.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-bitgo-x-op-labs-x-plan-g-networking-drinks-seoul-09-30",
+    "name": "BitGo x OP Labs x Plan G - Networking Drinks Seoul",
+    "description": "BitGo x OP Labs x Plan G - Networking Drinks Seoul is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-09-30T18:00:00+09:00",
+    "endDate": "2026-09-30T22:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "Accepted guests only",
+    "category": "Networking",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/wnhqbxad",
+    "coverImage": "/events/kbw-official-bitgo-x-op-labs-x-plan-g-networking-d-591120c5.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-mining-the-night-09-30",
+    "name": "MINING THE NIGHT",
+    "description": "MINING THE NIGHT is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-09-30T18:00:00+09:00",
+    "endDate": "2026-09-30T22:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "​Maison Bard 5F, 512 Gangnam-daero, Gangnam-gu, Seoul",
+    "category": "Builder Networking · Mining Demo",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/13yz9wdm",
+    "coverImage": "/events/kbw-official-mining-the-night-09-30-a8813789.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-proof-of-liquidity-seoul-edition-by-yield-network-09-30",
+    "name": "Proof Of Liquidity: Seoul Edition by Yield Network",
+    "description": "Proof Of Liquidity: Seoul Edition by Yield Network is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-09-30T18:00:00+09:00",
+    "endDate": "2026-09-30T22:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "Accepted guests only",
+    "category": "Institutional Networking Event",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/50jiymfq",
+    "coverImage": "/events/kbw-official-proof-of-liquidity-seoul-edition-by-y-b2be5b2d.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-altus-x-decipher-career-meet-up-the-first-penguin-09-30",
+    "name": "[Altus X Decipher] Career Meet-up: The First Penguin​",
+    "description": "[Altus X Decipher] Career Meet-up: The First Penguin​ is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-09-30T18:00:00+09:00",
+    "endDate": "2026-09-30T22:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "Accepted guests only",
+    "category": "Career Meet-up",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/npkndq0l",
+    "coverImage": "/events/kbw-official-altus-x-decipher-career-meet-up-the-f-b56ddd34.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-variational-private-event-09-30",
+    "name": "Variational Private Event",
+    "description": "Variational Private Event is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-09-30T18:00:00+09:00",
+    "endDate": "2026-09-30T22:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "Invitation only",
+    "category": "Networking Event",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/yshhlbpb",
+    "coverImage": "/events/kbw-official-variational-private-event-09-30-505ba7c5.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-ourbit-kbw-after-hours-vip-party-09-30",
+    "name": "OURBIT KBW After Hours VIP Party",
+    "description": "OURBIT KBW After Hours VIP Party is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-09-30T18:00:00+09:00",
+    "endDate": "2026-09-30T23:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "Avec Cheongdam1F, Hanyang Town Building, 823 Seolleung-ro, Gangnam-gu, Seoul, Korea",
+    "category": "Party",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/rkxifw17",
+    "coverImage": "/events/kbw-official-ourbit-kbw-after-hours-vip-party-09-3-74b08f64.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-quantstamp-x-common-defense-gangnam-mixer-09-30",
+    "name": "Quantstamp X Common Defense Gangnam Mixer",
+    "description": "Quantstamp X Common Defense Gangnam Mixer is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-09-30T19:00:00+09:00",
+    "endDate": "2026-09-30T09:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "TBD",
+    "category": "Networking Event",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/wslf2frf",
+    "coverImage": "/events/kbw-official-quantstamp-x-common-defense-gangnam-m-beaebc3f.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-kbw-vip-party-beldex-x-acurast-09-30",
+    "name": "KBW VIP Party: Beldex x Acurast",
+    "description": "KBW VIP Party: Beldex x Acurast is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-09-30T19:30:00+09:00",
+    "endDate": "2026-09-30T23:30:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "Fountain116-6 Itaewon-dong, Yongsan-gu, Seoul, Republic of Korea",
+    "category": "VIP Party",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/8v33uuug",
+    "coverImage": "/events/kbw-official-kbw-vip-party-beldex-x-acurast-09-30-e7d7d81f.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-institutional-privacy-day-09-30",
+    "name": "Institutional Privacy Day",
+    "description": "Institutional Privacy Day is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-09-30T12:00:00+09:00",
+    "endDate": "2026-09-30T18:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "모나코스페이스 (Monaco Space)South Korea, Seoul, Seocho District, Seocho-daero, 397 부띠크모나코 지하 1층",
+    "category": "Fireside Chat",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/xnzbz5c6",
+    "coverImage": "/events/kbw-official-institutional-privacy-day-09-30-856ccd02.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-echo-in-color-where-web3-comes-alive-09-30",
+    "name": "ECHO IN COLOR — Where Web3 Comes Alive",
+    "description": "ECHO IN COLOR — Where Web3 Comes Alive is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-09-30T21:00:00+09:00",
+    "endDate": "2026-09-30T01:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "Invitation only",
+    "category": "Party",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/2yfkn28q",
+    "coverImage": "/events/kbw-official-echo-in-color-where-web3-comes-alive--6c950fb2.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-new-friendship-tech-seoul-09-30",
+    "name": "🇰🇷 New Friendship Tech Seoul",
+    "description": "🇰🇷 New Friendship Tech Seoul is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-09-30T20:00:00+09:00",
+    "endDate": "2026-10-01T09:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "30, Bukhangang-ro 1191beon-gil, Hwado-eup, Namyangju-si, Gyeonggi-do, Republic of Korea",
+    "category": "Networking",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/irlh9ytr",
+    "coverImage": "/events/kbw-official-new-friendship-tech-seoul-09-30-fa820c7b.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-blockfesta-2026-10-01",
+    "name": "BLOCKFESTA 2026",
+    "description": "BLOCKFESTA 2026 is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-10-01T10:00:00+09:00",
+    "endDate": "2026-10-01T17:30:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "The Forum, 3F, Two IFC, 10 Gukjegeumyung-ro, Yeongdeungpo-gu, Seoul",
+    "category": "Conference & Networking",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/dblx9nwo",
+    "coverImage": "/events/kbw-official-blockfesta-2026-10-01-18a329aa.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-hsc-conference-seoul-10-01",
+    "name": "HSC Conference Seoul",
+    "description": "HSC Conference Seoul is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-10-01T10:00:00+09:00",
+    "endDate": "2026-10-01T18:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "Novotel Ambassador Seoul Gangnam130 Bongeunsa-ro, Gangnam District, Seoul, South Korea",
+    "category": "Conference, Networking Event",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/HSC_Seoul",
+    "coverImage": "/events/kbw-official-hsc-conference-seoul-10-01-c9cc50b3.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-amigoo-ventures-coffee-capita-10-01",
+    "name": "Amigoo Ventures Coffee & Capita",
+    "description": "Amigoo Ventures Coffee & Capita is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-10-01T10:00:00+09:00",
+    "endDate": "2026-10-01T12:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "TBD",
+    "category": "Networking Event",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/faufjh92",
+    "coverImage": "/events/kbw-official-amigoo-ventures-coffee-capita-10-01-a6efbd41.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-realfi-x-asia-stablecoin-conference-10-01",
+    "name": "RealFi x Asia Stablecoin Conference",
+    "description": "RealFi x Asia Stablecoin Conference is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-10-01T13:00:00+09:00",
+    "endDate": "2026-10-01T18:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "Andaz Seoul Gangnam Hotel854 Nonhyeon-ro, Gangnam District, Seoul",
+    "category": "Conference",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/nhi6rmrp",
+    "coverImage": "/events/kbw-official-realfi-x-asia-stablecoin-conference-1-580e61ad.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-bridge-seoul-2026-10-01",
+    "name": "Bridge Seoul 2026",
+    "description": "Bridge Seoul 2026 is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-10-01T13:00:00+09:00",
+    "endDate": "2026-10-01T18:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "Accepted guests only",
+    "category": "Conference",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/ho64m7rb",
+    "coverImage": "/events/kbw-official-bridge-seoul-2026-10-01-0360f3bf.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-yellow-korea-workshop-ai-agents-10-01",
+    "name": "Yellow Korea Workshop | AI Agents",
+    "description": "Yellow Korea Workshop | AI Agents is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-10-01T14:00:00+09:00",
+    "endDate": "2026-10-01T17:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "Cafe en Travel45 Gangnam-daero 102-gil, Gangnam-gu, Seoul, Republic of Korea",
+    "category": "Workshop",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/Yellowkorea",
+    "coverImage": "/events/kbw-official-yellow-korea-workshop-ai-agents-10-01-28a8cb06.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-sanc-nine-10-01",
+    "name": "SANC Nine",
+    "description": "SANC Nine is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-10-01T14:00:00+09:00",
+    "endDate": "2026-10-01T18:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "localhost:web3 로컬호스트Web3609-1 Yeoksam-dong, Gangnam District, Seoul, South Korea",
+    "category": "Community Event, Networking, Party",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/1p9onaut",
+    "coverImage": "/events/kbw-official-sanc-nine-10-01-a237fc7c.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-seoul-on-chain-10-01",
+    "name": "Seoul On Chain",
+    "description": "Seoul On Chain is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-10-01T14:00:00+09:00",
+    "endDate": "2026-10-01T19:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "Alver Coffee Gangnam34 Gangnam-daero 102-gil, Gangnam District, Seoul, South Korea",
+    "category": "Networking Event, Panel, B2B Event",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/mcfqg53e",
+    "coverImage": "/events/kbw-official-seoul-on-chain-10-01-df4a0bed.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-bridging-finance-onchain-a-korea-blockchain-week-2026-side-event-with-ky-10-01",
+    "name": "Bridging Finance Onchain – A Korea Blockchain Week 2026 Side Event with KYOBO, Circle, SBI & BDACS",
+    "description": "Bridging Finance Onchain – A Korea Blockchain Week 2026 Side Event with KYOBO, Circle, SBI & BDACS is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-10-01T14:30:00+09:00",
+    "endDate": "2026-10-01T09:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "Four Seasons Hotel Seoul97 Saemunan-ro, Dangju-dong, Jongno-gu, Seoul, Republic of Korea",
+    "category": "Conference",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/bridgingfinanceonchain",
+    "coverImage": "/events/kbw-official-bridging-finance-onchain-a-korea-bloc-3c9810fa.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-secure-crypto-asset-network-2026-scan-10-01",
+    "name": "SECURE CRYPTO-ASSET NETWORK 2026 (SCAN)",
+    "description": "SECURE CRYPTO-ASSET NETWORK 2026 (SCAN) is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-10-01T15:00:00+09:00",
+    "endDate": "2026-10-01T09:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "Walkerhill Hotels & Resorts177 Walkerhill-ro, Gwangjin-gu, Seoul",
+    "category": "Conference",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://scan.sx/",
+    "coverImage": "/events/kbw-official-secure-crypto-asset-network-2026-scan-26917da8.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-house-of-ai-kbw2026-10-01",
+    "name": "House of AI @ KBW2026",
+    "description": "House of AI @ KBW2026 is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-10-01T17:00:00+09:00",
+    "endDate": "2026-10-01T21:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "TBD",
+    "category": "Networking & Panels",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/house_of_ai_kbw2026?tk=Ugcgli",
+    "coverImage": "/events/kbw-official-house-of-ai-kbw2026-10-01-fe0c25e3.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-tch-venture-connect-10-01",
+    "name": "TCH Venture Connect",
+    "description": "TCH Venture Connect is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-10-01T17:30:00+09:00",
+    "endDate": "2026-10-01T21:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "TBD",
+    "category": "Networking Event",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/5pn4rjyy",
+    "coverImage": "/events/kbw-official-tch-venture-connect-10-01-8a301156.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-on-chain-night-10-01",
+    "name": "On-ChAIn Night",
+    "description": "On-ChAIn Night is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-10-01T17:00:00+09:00",
+    "endDate": "2026-10-01T20:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "SAC Art Hall534 Samseong-ro, Gangnam District, Seoul가빈아트홀",
+    "category": "Conference & Networking",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/n61tjj9r",
+    "coverImage": "/events/kbw-official-on-chain-night-10-01-2e94dbce.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-easycon-seoul-social-intelligence-workshop-community-night-10-01",
+    "name": "EASYCON SEOUL: Social Intelligence Workshop & Community Night",
+    "description": "EASYCON SEOUL: Social Intelligence Workshop & Community Night is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-10-01T17:30:00+09:00",
+    "endDate": "2026-10-01T21:30:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "Cafe en Travel (Entravel)45 Gangnam-daero 102-gil, Gangnam-gu, Seoul, Republic of Korea",
+    "category": "Workshop/Networking Event",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/EASYSeoul2026",
+    "coverImage": "/events/kbw-official-easycon-seoul-social-intelligence-wor-5fd63fae.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-perpdex-night-10-01",
+    "name": "PERPDEX NIGHT",
+    "description": "PERPDEX NIGHT is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-10-01T18:00:00+09:00",
+    "endDate": "2026-10-01T21:30:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "SJ Kunsthalle5, Eonju-ro 148-gil, Gangnam-gu, Seoul, Republic of Korea",
+    "category": "Networking Event, Trading Competition Event",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/lplcwljs",
+    "coverImage": "/events/kbw-official-perpdex-night-10-01-dfb9e031.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-liquidity-table-by-turtle-with-compound-10-01",
+    "name": "Liquidity Table by Turtle with Compound​",
+    "description": "Liquidity Table by Turtle with Compound​ is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-10-01T18:30:00+09:00",
+    "endDate": "2026-10-01T20:30:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "Details upon confirmation",
+    "category": "Networking Event",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/lunar-z7m7",
+    "coverImage": "/events/kbw-official-liquidity-table-by-turtle-with-compou-ed5e75b3.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-four-pillars-research-challenge-2026-awards-ceremony-10-01",
+    "name": "Four Pillars Research Challenge 2026 Awards Ceremony",
+    "description": "Four Pillars Research Challenge 2026 Awards Ceremony is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-10-01T19:00:00+09:00",
+    "endDate": "2026-10-01T21:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "Hashed Lounge20f, 374 Gangnam-daero, Gangnam District, Seoul",
+    "category": "Showcase",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/fy078hev",
+    "coverImage": "/events/kbw-official-four-pillars-research-challenge-2026--be22106d.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-lighter-meetup-10-01",
+    "name": "Lighter Meetup",
+    "description": "Lighter Meetup is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-10-01T19:00:00+09:00",
+    "endDate": "2026-10-01T22:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "TBD",
+    "category": "Networking",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/ud9lrdgr",
+    "coverImage": "/events/kbw-official-lighter-meetup-10-01-ec663d39.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-satoshi-dinner-club-seoul-10-01",
+    "name": "Satoshi Dinner Club Seoul",
+    "description": "Satoshi Dinner Club Seoul is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-10-01T19:00:00+09:00",
+    "endDate": "2026-10-01T22:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "Location upon approval",
+    "category": "Dinner",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/w9w5k8ku",
+    "coverImage": "/events/kbw-official-satoshi-dinner-club-seoul-10-01-ee144823.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-shard-vip-dinner-10-01",
+    "name": "Shard VIP Dinner",
+    "description": "Shard VIP Dinner is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-10-01T19:00:00+09:00",
+    "endDate": "2026-10-01T22:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "TBD",
+    "category": "TBD",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/amy4nwf0",
+    "coverImage": "/events/kbw-official-shard-vip-dinner-10-01-87011ffb.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-kbw-vip-mixer-10-01",
+    "name": "KBW VIP Mixer",
+    "description": "KBW VIP Mixer is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-10-01T19:30:00+09:00",
+    "endDate": "2026-10-01T23:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "Accepted guests only",
+    "category": "Networking & Drinks",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/x1fve74y",
+    "coverImage": "/events/kbw-official-kbw-vip-mixer-10-01-67aec2e2.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-futuracanvas-2026-10-01",
+    "name": "FuturaCanvas 2026",
+    "description": "FuturaCanvas 2026 is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-10-01T13:00:00+09:00",
+    "endDate": "2026-10-03T21:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "Platform-L Contemporary Art Center11, Eonju-ro 133-gil, Gangnam-gu, Seoul, 06053, Korea",
+    "category": "Conference, Networking Event",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/9yusdba1",
+    "coverImage": "/events/kbw-official-futuracanvas-2026-10-01-8d25b07a.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-tradfi-on-chain-10-01",
+    "name": "TradFi On-Chain",
+    "description": "TradFi On-Chain is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-10-01T14:00:00+09:00",
+    "endDate": "2026-10-01T18:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "Ground B1f, 7 Teheran-ro 92-gil, Gangnam District, Seoul",
+    "category": "Conference & Networking Event",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/nl4bsys6",
+    "coverImage": "/events/kbw-official-tradfi-on-chain-10-01-dfa11055.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-ravedao-presents-baddiejuice-at-soap-seoul-10-01",
+    "name": "RaveDAO Presents BADDIEJUICE at Soap Seoul",
+    "description": "RaveDAO Presents BADDIEJUICE at Soap Seoul is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-10-01T21:00:00+09:00",
+    "endDate": "2026-10-01T02:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "Soap Seoul217 Itaewon-ro, Yongsan District, Seoul, South Korea",
+    "category": "Networking & Party",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/z0h15i8u",
+    "coverImage": "/events/kbw-official-ravedao-presents-baddiejuice-at-soap--f4d98612.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-starkmart-seoul-10-02",
+    "name": "StarkMart Seoul",
+    "description": "StarkMart Seoul is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-10-02T11:00:00+09:00",
+    "endDate": "2026-10-02T15:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "609-1 Yeoksam-dong, Gangnam District, Seoul, South Korea",
+    "category": "Networking Event",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/StarkMart2026",
+    "coverImage": "/events/kbw-official-starkmart-seoul-10-02-5c09270f.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-trader-gathering-10-02",
+    "name": "Trader Gathering",
+    "description": "Trader Gathering is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-10-02T15:00:00+09:00",
+    "endDate": "2026-10-02T18:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "Alver Coffee Gangnam, Seoul, Republic of Korea",
+    "category": "Networking Event",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/r86vvn9s",
+    "coverImage": "/events/kbw-official-trader-gathering-10-02-a2c33afd.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-bnb-seoul-10-02",
+    "name": "BNB Seoul",
+    "description": "BNB Seoul is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-10-02T16:00:00+09:00",
+    "endDate": "2026-10-02T21:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "TBD",
+    "category": "Networking Event",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/99ipn3wu",
+    "coverImage": "/events/kbw-official-bnb-seoul-10-02-db897058.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-enter-the-night-10-02",
+    "name": "Enter the Night",
+    "description": "Enter the Night is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-10-02T17:00:00+09:00",
+    "endDate": "2026-10-02T20:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "Accepted guests only",
+    "category": "Networking Event",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/zwb1a9m1",
+    "coverImage": "/events/kbw-official-enter-the-night-10-02-bb9f78ec.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-xrpfi-night-seoul-10-02",
+    "name": "XRPfi Night Seoul",
+    "description": "XRPfi Night Seoul is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-10-02T17:00:00+09:00",
+    "endDate": "2026-10-02T21:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "Spaceshare, GangnamB1/F, Daehwa Building, 20 Yeongdong-daero 96-gil, Gangnam-gu, Seoul",
+    "category": "Networking Event",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/ikda4x51",
+    "coverImage": "/events/kbw-official-xrpfi-night-seoul-10-02-4d26b2ff.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-kbw-2026-private-yacht-soir-e-epoch-2-10-02",
+    "name": "KBW 2026 Private Yacht Soirée - Epoch 2",
+    "description": "KBW 2026 Private Yacht Soirée - Epoch 2 is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-10-02T17:00:00+09:00",
+    "endDate": "2026-10-02T21:30:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "TBD - Han River",
+    "category": "Networking Event",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/YachtEpoch2",
+    "coverImage": "/events/kbw-official-kbw-2026-private-yacht-soir-e-epoch-2-a05f47cc.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-the-private-table-seoul-vip-dinner-10-02",
+    "name": "The Private Table Seoul: VIP Dinner",
+    "description": "The Private Table Seoul: VIP Dinner is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-10-02T19:00:00+09:00",
+    "endDate": "2026-10-02T22:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "TBD",
+    "category": "Private Dinner",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/0g_KBW_VIP",
+    "coverImage": "/events/kbw-official-the-private-table-seoul-vip-dinner-10-221dcc06.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-xrp-seoul-2026-10-03",
+    "name": "XRP Seoul 2026",
+    "description": "XRP Seoul 2026 is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-10-03T10:00:00+09:00",
+    "endDate": "2026-10-03T19:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "Grand Hyatt Seoul322, Sowol-ro, Yongsan-gu, Seoul, Korea",
+    "category": "Conference",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/wm5ub5wk",
+    "coverImage": "/events/kbw-official-xrp-seoul-2026-10-03-051182c8.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-lambda256-join-the-blockchain-node-crew-10-03",
+    "name": "[Lambda256] Join the Blockchain Node Crew",
+    "description": "[Lambda256] Join the Blockchain Node Crew is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-10-03T16:00:00+09:00",
+    "endDate": "2026-10-03T19:00:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "Upbit Lounge 2F, 14, Teheran-ro 4-gil, Gangnam-gu, Seoul",
+    "category": "Recruiting Event (Tech Talk)",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/e9vm2gbc",
+    "coverImage": "/events/kbw-official-lambda256-join-the-blockchain-node-cr-c20ba6e1.webp",
+    "source": "kbw-official"
+  },
+  {
+    "id": "kbw-official-xrp-seoul-2026-vip-afterparty-10-03",
+    "name": "XRP Seoul 2026 VIP Afterparty",
+    "description": "XRP Seoul 2026 VIP Afterparty is listed in the official Korea Blockchain Week 2026 side-event calendar.",
+    "startDate": "2026-10-03T18:30:00+09:00",
+    "endDate": "2026-10-03T21:30:00+09:00",
+    "city": "Seoul",
+    "country": "South Korea",
+    "location": "JJ Mahoney's, Grand Hyatt Seoul322 Sowol-ro, Yongsan-gu, Seoul, Korea",
+    "category": "VIP Networking",
+    "sideEventFor": [
+      "kbw"
+    ],
+    "url": "https://luma.com/q0wmg82n",
+    "coverImage": "/events/kbw-official-xrp-seoul-2026-vip-afterparty-10-03-2796996f.webp",
+    "source": "kbw-official"
+  }
 ]
