@@ -1,5 +1,7 @@
 'use client';
 
+import { useLayoutEffect, useState } from 'react';
+import { usePathname } from 'next/navigation';
 import { Button } from '@/components/ui/button';
 import {
   Sheet,
@@ -29,6 +31,16 @@ import {
 } from '@/lib/nav-config';
 
 export function MobileNav() {
+  const pathname = usePathname();
+  const isJobsIndex = pathname === '/' || pathname === '/jobs';
+  const [isJobDetail, setIsJobDetail] = useState(false);
+
+  useLayoutEffect(() => {
+    setIsJobDetail(!isJobsIndex && document.querySelector('[data-job-page]') !== null);
+  }, [isJobsIndex, pathname]);
+
+  const showPostJobCta = isJobsIndex || isJobDetail;
+
   return (
     <Sheet>
       <SheetTrigger asChild>
@@ -55,17 +67,19 @@ export function MobileNav() {
         </SheetHeader>
         <nav className="flex-grow flex flex-col p-4 overflow-y-auto">
           <div className="flex-grow space-y-2">
-            <SheetClose asChild>
-              <a
-                className="post-job-nav-cta mobile-post-job-nav-cta"
-                href="https://t.me/web3jobs_rep"
-                target="_blank"
-                rel="noopener noreferrer"
-                onClick={() => trackCTAClick('post_a_job', 'https://t.me/web3jobs_rep')}
-              >
-                <Button className="w-full">Post a Job</Button>
-              </a>
-            </SheetClose>
+            {showPostJobCta && (
+              <SheetClose asChild>
+                <a
+                  className="mobile-post-job-nav-cta"
+                  href="https://t.me/web3jobs_rep"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  onClick={() => trackCTAClick('post_a_job', 'https://t.me/web3jobs_rep')}
+                >
+                  <Button className="w-full">Post a Job</Button>
+                </a>
+              </SheetClose>
+            )}
             {MAIN_NAV_LINKS.map((link) => {
               const IconComponent = link.icon;
               return (

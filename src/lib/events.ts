@@ -3,6 +3,12 @@ import { EVENT_GUIDES } from './event-guides';
 export type EventType = 'conference' | 'hackathon' | 'meetup' | 'workshop' | 'online';
 export type EventFormat = 'in-person' | 'online';
 
+export type EventSpeaker = {
+  name: string;
+  title?: string;
+  organization?: string;
+};
+
 export interface Web3Event {
   id: string;
   name: string;
@@ -13,10 +19,14 @@ export interface Web3Event {
   country?: string;
   location: string;
   month?: string;
+  category?: string;
+  price?: string;
+  token2049SideEvent?: boolean;
   url: string;
   website?: string | null;
   coverImage: string | null;
   speakers?: string[];
+  speakerDetails?: EventSpeaker[];
   twitter?: string | null;
   source?: string;
   slug?: string;

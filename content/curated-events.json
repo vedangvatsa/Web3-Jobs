@@ -564,7 +564,656 @@
       "text": "Get 10% off your tickets with our exclusive code: HASHTAGWEB3",
       "url": "https://tickets.token2049.com/token2049-singapore-2026/?promo=HASHTAGWEB3"
     },
-    "source": "curated-premier"
+    "source": "curated-premier",
+    "speakers": [
+      "Shayne Coplan",
+      "Balaji Srinivasan",
+      "Jeff Yan",
+      "Adena Friedman",
+      "Eric Trump",
+      "Arthur Hayes",
+      "Star Xu",
+      "Tom Lee",
+      "Kyle Samani",
+      "Haseeb Qureshi",
+      "Joseph Lubin",
+      "Richard Teng",
+      "Jesse Pollak",
+      "Jenny Johnson",
+      "Zoltan Pozsar",
+      "Charles Hoskinson",
+      "Adeniyi Abiodun",
+      "Haider Rafique",
+      "Lily Liu",
+      "Guy Wuollet",
+      "Yuval Rooz",
+      "Amy Oldenburg",
+      "Nikhil Sharma",
+      "Hunter Horsley",
+      "Illia Polosukhin",
+      "Keone Hon",
+      "Guy Young",
+      "Emad Mostaque",
+      "Mert",
+      "Jordi Alexander",
+      "Michael Egorov",
+      "Tarun Chitra",
+      "John Wang",
+      "Ansem",
+      "Larry Cermak",
+      "TN Lee",
+      "Santiago Roel Santos",
+      "Rob Hadick",
+      "Spencer Applebaum",
+      "Eli Ben-Sasson",
+      "Alexander Good",
+      "Carlos Domingo",
+      "Vladimir Novakovski",
+      "Joseph Chalom",
+      "Avery Ching",
+      "Raz Zarick",
+      "Steven Goldfeder",
+      "Charles Cascarilla",
+      "Johann Kerbrat",
+      "Richard Galvin",
+      "Tom Schmidt",
+      "Shuyao Kong",
+      "Zaheer Ebtikar",
+      "Sandeep Nailwal",
+      "Mike Belshe",
+      "Fredrik Haga",
+      "Min Teo",
+      "Max Resnick",
+      "Kain Warwick",
+      "Irene Wu",
+      "Kelvin Koh",
+      "Nikil Viswanathan",
+      "Shiliang Tang",
+      "Kathleen Wrynn",
+      "Austin Federa",
+      "Michael Ippolito",
+      "Andy Cavanaugh",
+      "Alex Svanevik",
+      "Cosmo Jiang",
+      "Dovey Wan",
+      "Jason Kam",
+      "Bobby Ong",
+      "Armani Ferrante",
+      "Josh Swihart",
+      "Cynthia Lo Bessette",
+      "Lucas Bruder",
+      "Josh Lim",
+      "Arthur Breitman",
+      "Kartik Talwar",
+      "Alex Pack",
+      "Yat Siu",
+      "Hart Lambur",
+      "Tristan Thompson",
+      "Mike Silagadze",
+      "Lasse Clausen",
+      "Mable Jiang",
+      "Will Robinson",
+      "Akshat Vaidya",
+      "YQ Jia",
+      "Mike Horton",
+      "Yu Hu",
+      "Franklyn Wang",
+      "Michael Higgins",
+      "Scott Lawin",
+      "Thomas Uhm",
+      "Leo Zhang",
+      "Mo Shaikh",
+      "Omar-Shakeeb Zahir",
+      "Kostas Chalkias",
+      "Jacquelyn Melinek",
+      "Yoann Turpin",
+      "Marcin Kazmierczak",
+      "Ran Neuner",
+      "Steve Lee",
+      "Miguel Morel",
+      "Drake Evans",
+      "Henri Arslanian",
+      "Donald Trump Jr."
+    ],
+    "speakerDetails": [
+      {
+        "name": "Shayne Coplan",
+        "title": "Founder and CEO",
+        "organization": "Polymarket"
+      },
+      {
+        "name": "Balaji Srinivasan",
+        "title": "Founder",
+        "organization": "The Network State"
+      },
+      {
+        "name": "Jeff Yan",
+        "title": "CEO",
+        "organization": "Hyperliquid Labs"
+      },
+      {
+        "name": "Adena Friedman",
+        "title": "Chair and CEO",
+        "organization": "Nasdaq"
+      },
+      {
+        "name": "Eric Trump",
+        "title": "Executive VP",
+        "organization": "The Trump Organization"
+      },
+      {
+        "name": "Arthur Hayes",
+        "title": "CIO",
+        "organization": "Maelstrom"
+      },
+      {
+        "name": "Star Xu",
+        "title": "Founder and CEO",
+        "organization": "OKX"
+      },
+      {
+        "name": "Tom Lee",
+        "title": "CIO and Portfolio Manager / Chairman",
+        "organization": "Fundstrat / BitMine"
+      },
+      {
+        "name": "Kyle Samani",
+        "title": "Chairman",
+        "organization": "Forward Industries"
+      },
+      {
+        "name": "Haseeb Qureshi",
+        "title": "Managing Partner",
+        "organization": "Dragonfly"
+      },
+      {
+        "name": "Joseph Lubin",
+        "title": "CEO",
+        "organization": "Consensys"
+      },
+      {
+        "name": "Richard Teng",
+        "title": "Co-CEO",
+        "organization": "Binance"
+      },
+      {
+        "name": "Jesse Pollak",
+        "title": "Head of Base",
+        "organization": "Base"
+      },
+      {
+        "name": "Jenny Johnson",
+        "title": "CEO",
+        "organization": "Franklin Templeton"
+      },
+      {
+        "name": "Zoltan Pozsar",
+        "title": "Founder and CEO",
+        "organization": "Ex Uno Plures"
+      },
+      {
+        "name": "Charles Hoskinson",
+        "title": "Founder and CEO",
+        "organization": "Input Output Group"
+      },
+      {
+        "name": "Adeniyi Abiodun",
+        "title": "Co-Founder and CPO",
+        "organization": "Mysten Labs"
+      },
+      {
+        "name": "Haider Rafique",
+        "title": "Managing Partner and CMO",
+        "organization": "OKX"
+      },
+      {
+        "name": "Lily Liu",
+        "title": "President",
+        "organization": "Solana Foundation"
+      },
+      {
+        "name": "Guy Wuollet",
+        "title": "General Partner",
+        "organization": "a16z crypto"
+      },
+      {
+        "name": "Yuval Rooz",
+        "title": "Co-Founder and CEO",
+        "organization": "Canton"
+      },
+      {
+        "name": "Amy Oldenburg",
+        "title": "Head of Digital Asset Strategy",
+        "organization": "Morgan Stanley"
+      },
+      {
+        "name": "Nikhil Sharma",
+        "title": "Director, Digital Assets",
+        "organization": "BlackRock"
+      },
+      {
+        "name": "Hunter Horsley",
+        "title": "CEO",
+        "organization": "Bitwise Asset Management"
+      },
+      {
+        "name": "Illia Polosukhin",
+        "title": "Co-Founder",
+        "organization": "NEAR Protocol"
+      },
+      {
+        "name": "Keone Hon",
+        "title": "Co-Founder",
+        "organization": "Monad Foundation"
+      },
+      {
+        "name": "Guy Young",
+        "title": "CEO",
+        "organization": "Ethena Labs"
+      },
+      {
+        "name": "Emad Mostaque",
+        "title": "Founder and CEO",
+        "organization": "Intelligent Internet"
+      },
+      {
+        "name": "Mert",
+        "title": "CEO",
+        "organization": "Helius"
+      },
+      {
+        "name": "Jordi Alexander",
+        "title": "Founder",
+        "organization": "Selini Capital"
+      },
+      {
+        "name": "Michael Egorov",
+        "title": "Founder",
+        "organization": "Curve Finance / Yield Basis"
+      },
+      {
+        "name": "Tarun Chitra",
+        "title": "Co-Founder and CEO",
+        "organization": "Gauntlet"
+      },
+      {
+        "name": "John Wang",
+        "title": "Head of Crypto",
+        "organization": "Kalshi"
+      },
+      {
+        "name": "Ansem",
+        "title": "Co-Founder",
+        "organization": "Bullpen"
+      },
+      {
+        "name": "Larry Cermak",
+        "title": "President",
+        "organization": "The Block"
+      },
+      {
+        "name": "TN Lee",
+        "title": "CEO",
+        "organization": "Pendle"
+      },
+      {
+        "name": "Santiago Roel Santos",
+        "title": "Founder and CEO",
+        "organization": "Inversion"
+      },
+      {
+        "name": "Rob Hadick",
+        "title": "General Partner",
+        "organization": "Dragonfly"
+      },
+      {
+        "name": "Spencer Applebaum",
+        "title": "GP and Co-Head of Venture",
+        "organization": "Multicoin Capital"
+      },
+      {
+        "name": "Eli Ben-Sasson",
+        "title": "Co-Founder and CEO",
+        "organization": "StarkWare"
+      },
+      {
+        "name": "Alexander Good",
+        "title": "Founder",
+        "organization": "Post Fiat"
+      },
+      {
+        "name": "Carlos Domingo",
+        "title": "Co-Founder and CEO",
+        "organization": "Securitize"
+      },
+      {
+        "name": "Vladimir Novakovski",
+        "title": "Founder and CEO",
+        "organization": "Lighter"
+      },
+      {
+        "name": "Joseph Chalom",
+        "title": "CEO",
+        "organization": "Sharplink"
+      },
+      {
+        "name": "Avery Ching",
+        "title": "Co-Founder and CEO",
+        "organization": "Aptos"
+      },
+      {
+        "name": "Raz Zarick",
+        "title": "Co-Founder and CEO",
+        "organization": "LayerZero"
+      },
+      {
+        "name": "Steven Goldfeder",
+        "title": "Co-Founder and CEO",
+        "organization": "Offchain Labs"
+      },
+      {
+        "name": "Charles Cascarilla",
+        "title": "Co-Founder and CEO",
+        "organization": "Paxos"
+      },
+      {
+        "name": "Johann Kerbrat",
+        "title": "SVP and GM, Crypto and International",
+        "organization": "Robinhood"
+      },
+      {
+        "name": "Richard Galvin",
+        "title": "Executive Chairman and CIO",
+        "organization": "DACM"
+      },
+      {
+        "name": "Tom Schmidt",
+        "title": "General Partner",
+        "organization": "Dragonfly"
+      },
+      {
+        "name": "Shuyao Kong",
+        "title": "Co-Founder",
+        "organization": "MegaETH"
+      },
+      {
+        "name": "Zaheer Ebtikar",
+        "title": "CSO",
+        "organization": "Plasma"
+      },
+      {
+        "name": "Sandeep Nailwal",
+        "title": "CEO",
+        "organization": "Polygon Foundation"
+      },
+      {
+        "name": "Mike Belshe",
+        "title": "Co-Founder and CEO",
+        "organization": "Bitgo"
+      },
+      {
+        "name": "Fredrik Haga",
+        "title": "Founder and CEO",
+        "organization": "Dune"
+      },
+      {
+        "name": "Min Teo",
+        "title": "Managing Partner",
+        "organization": "Ethereal Ventures"
+      },
+      {
+        "name": "Max Resnick",
+        "title": "Lead Economist",
+        "organization": "Anza"
+      },
+      {
+        "name": "Kain Warwick",
+        "title": "Founder",
+        "organization": "Infinex / Synthetix"
+      },
+      {
+        "name": "Irene Wu",
+        "organization": "Angel Investor"
+      },
+      {
+        "name": "Kelvin Koh",
+        "title": "Co-Founder and Partner",
+        "organization": "Spartan Group"
+      },
+      {
+        "name": "Nikil Viswanathan",
+        "title": "Co-Founder and CEO",
+        "organization": "Alchemy"
+      },
+      {
+        "name": "Shiliang Tang",
+        "title": "CEO",
+        "organization": "Monarq Asset Management"
+      },
+      {
+        "name": "Kathleen Wrynn",
+        "title": "Global Head of Digital Assets",
+        "organization": "Invesco"
+      },
+      {
+        "name": "Austin Federa",
+        "title": "Co-Founder and CEO",
+        "organization": "DoubleZero"
+      },
+      {
+        "name": "Michael Ippolito",
+        "title": "Co-Founder",
+        "organization": "Blockworks"
+      },
+      {
+        "name": "Andy Cavanaugh",
+        "title": "Co-Founder",
+        "organization": "The Rollup"
+      },
+      {
+        "name": "Alex Svanevik",
+        "title": "Co-Founder and CEO",
+        "organization": "Nansen"
+      },
+      {
+        "name": "Cosmo Jiang",
+        "title": "General Partner",
+        "organization": "Pantera Capital"
+      },
+      {
+        "name": "Dovey Wan",
+        "title": "Founder",
+        "organization": "Primitive Ventures"
+      },
+      {
+        "name": "Jason Kam",
+        "title": "Founder",
+        "organization": "Folius Ventures"
+      },
+      {
+        "name": "Bobby Ong",
+        "title": "Co-Founder and CEO",
+        "organization": "Coingecko"
+      },
+      {
+        "name": "Armani Ferrante",
+        "title": "Founder and CEO",
+        "organization": "Backpack Exchange"
+      },
+      {
+        "name": "Josh Swihart",
+        "title": "Founder and CEO",
+        "organization": "ZODL"
+      },
+      {
+        "name": "Cynthia Lo Bessette",
+        "title": "Head of Digital Asset Management",
+        "organization": "Fidelity Investments"
+      },
+      {
+        "name": "Lucas Bruder",
+        "title": "Co-Founder and CEO",
+        "organization": "Jito Labs"
+      },
+      {
+        "name": "Josh Lim",
+        "title": "Global Head of Markets",
+        "organization": "FalconX"
+      },
+      {
+        "name": "Arthur Breitman",
+        "title": "Co-Founder",
+        "organization": "Tezos"
+      },
+      {
+        "name": "Kartik Talwar",
+        "title": "Co-Founder",
+        "organization": "ETHGlobal"
+      },
+      {
+        "name": "Alex Pack",
+        "title": "Managing Partner",
+        "organization": "Hack VC"
+      },
+      {
+        "name": "Yat Siu",
+        "title": "Co-Founder and Executive Chairman",
+        "organization": "Animoca Brands"
+      },
+      {
+        "name": "Hart Lambur",
+        "title": "Co-Founder",
+        "organization": "Risk Labs"
+      },
+      {
+        "name": "Tristan Thompson",
+        "title": "NBA Champion"
+      },
+      {
+        "name": "Mike Silagadze",
+        "title": "Founder and CEO",
+        "organization": "ether.fi"
+      },
+      {
+        "name": "Lasse Clausen",
+        "title": "Founding Partner",
+        "organization": "1kx"
+      },
+      {
+        "name": "Mable Jiang",
+        "title": "Co-Founder",
+        "organization": "Trasia"
+      },
+      {
+        "name": "Will Robinson",
+        "title": "Partner",
+        "organization": "Alliance"
+      },
+      {
+        "name": "Akshat Vaidya",
+        "title": "Co-Founder and Managing Partner",
+        "organization": "Maelstrom"
+      },
+      {
+        "name": "YQ Jia",
+        "title": "Founder",
+        "organization": "AltLayer"
+      },
+      {
+        "name": "Mike Horton",
+        "title": "Project Creator",
+        "organization": "GEODNET"
+      },
+      {
+        "name": "Yu Hu",
+        "title": "CEO",
+        "organization": "Kaito AI"
+      },
+      {
+        "name": "Franklyn Wang",
+        "title": "CEO",
+        "organization": "Liquid / CoInvest"
+      },
+      {
+        "name": "Michael Higgins",
+        "title": "International CEO",
+        "organization": "Ripple Prime"
+      },
+      {
+        "name": "Scott Lawin",
+        "title": "President",
+        "organization": "Pantera Capital"
+      },
+      {
+        "name": "Thomas Uhm",
+        "title": "Quant Research Director",
+        "organization": "QRT"
+      },
+      {
+        "name": "Leo Zhang",
+        "title": "CEO",
+        "organization": "42"
+      },
+      {
+        "name": "Mo Shaikh",
+        "title": "Founder and Managing Partner",
+        "organization": "Maximum Frequency Ventures"
+      },
+      {
+        "name": "Omar-Shakeeb Zahir",
+        "title": "Co-Founder and CEO",
+        "organization": "SecondLane"
+      },
+      {
+        "name": "Kostas Chalkias",
+        "title": "Co-Founder and Chief Cryptographer",
+        "organization": "Mysten Labs"
+      },
+      {
+        "name": "Jacquelyn Melinek",
+        "title": "Founder and CEO",
+        "organization": "Stratamedia"
+      },
+      {
+        "name": "Yoann Turpin",
+        "title": "Co-Founder",
+        "organization": "Wintermute"
+      },
+      {
+        "name": "Marcin Kazmierczak",
+        "title": "Co-Founder and COO",
+        "organization": "RedStone / Credora"
+      },
+      {
+        "name": "Ran Neuner",
+        "title": "Founder",
+        "organization": "Crypto Banter"
+      },
+      {
+        "name": "Steve Lee",
+        "title": "Co-Founder and Managing Partner",
+        "organization": "Neoclassic Capital"
+      },
+      {
+        "name": "Miguel Morel",
+        "title": "CEO",
+        "organization": "Arkham"
+      },
+      {
+        "name": "Drake Evans",
+        "title": "Co-Founder and CTO",
+        "organization": "Agora"
+      },
+      {
+        "name": "Henri Arslanian",
+        "title": "Co-Founder and Managing Partner",
+        "organization": "Nine Blocks Capital Management"
+      },
+      {
+        "name": "Donald Trump Jr.",
+        "organization": "World Liberty Financial"
+      }
+    ]
   },
   {
     "id": "premier-sui-basecamp-2026",
