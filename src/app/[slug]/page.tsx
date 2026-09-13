@@ -447,10 +447,10 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
             }))
           } : {}),
           // Emit Organizer schema when organizer/host is available
-          ...(event.organizer || event.company ? {
+          ...((event as any).organizer || (event as any).company ? {
             organizer: {
               '@type': 'Organization',
-              name: event.organizer || event.company,
+              name: (event as any).organizer || (event as any).company,
               ...(event.url ? { url: event.url } : {}),
             }
           } : {}),
