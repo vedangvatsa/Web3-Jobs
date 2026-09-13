@@ -100,7 +100,7 @@ export default async function JobsPage() {
             </div>
           </div>
           <JobBoard initialJobs={initialJobs} initialTotal={totalJobs} companyLogos={companyLogos} />
-          <DirectoryDisclaimer type="job" />
+          <DirectoryDisclaimer />
        </div>
      </PageShell>
     </main>
