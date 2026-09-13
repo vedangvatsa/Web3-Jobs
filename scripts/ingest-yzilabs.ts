@@ -2,9 +2,13 @@ import fs from 'fs';
 import path from 'path';
 import { cleanCompanyName } from '../src/lib/job-filters';
 import { getOneWordRole, getJobContentKey } from '../src/lib/job-slugs';
+import {
+  buildJobDescriptionAliases,
+  readJobDescriptionStore,
+  writeJobDescriptionStore,
+} from './lib/job-description-store';
 
 const CACHE_PATH = path.join(process.cwd(), 'content/jobs-cache.json');
-const DESC_PATH = path.join(process.cwd(), 'content/job-descriptions.json');
 const TODAY = new Date().toISOString().slice(0, 10);
 
 interface YZiRawJob {
@@ -29,12 +33,18 @@ function writeCache(data: any[]): void {
   fs.writeFileSync(CACHE_PATH, JSON.stringify(data, null, 2) + '\n');
 }
 
+let descriptionAliases: Record<string, string> = {};
 function readDescCache(): Record<string, string> {
-  return fs.existsSync(DESC_PATH) ? JSON.parse(fs.readFileSync(DESC_PATH, 'utf8')) : {};
+  const store = readJobDescriptionStore();
+  descriptionAliases = store.aliases;
+  return store.descriptions;
 }
 
-function writeDescCache(data: Record<string, string>): void {
-  fs.writeFileSync(DESC_PATH, JSON.stringify(data, null, 2) + '\n');
+function writeDescCache(data: Record<string, string>, jobs: any[]): void {
+  writeJobDescriptionStore({
+    descriptions: data,
+    aliases: { ...descriptionAliases, ...buildJobDescriptionAliases(jobs, data) },
+  });
 }
 
 function upsertJob(cacheData: any[], job: any): 'added' | 'updated' {
@@ -190,7 +200,6 @@ export async function ingestYZiLabs(
         else updatedCount++;
 
         if (descHtml) {
-          descData[slug] = descHtml;
           descData[getJobContentKey(jobEntry)] = descHtml;
         }
       })
@@ -199,7 +208,7 @@ export async function ingestYZiLabs(
 
   if (!passedCache) {
     writeCache(cacheData);
-    writeDescCache(descData);
+    writeDescCache(descData, cacheData);
   }
 
   console.log(`\n========================================`);

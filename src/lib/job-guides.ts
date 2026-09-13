@@ -7,11 +7,18 @@ import { cleanPublishText, cleanPublishHtml } from './noslop';
 import { isGeneralOrPlaceholderJobTitle } from './job-filters';
 import { sanitizeHtml } from './sanitize-html';
 import { COMPANY_RICH_ABOUT } from './company-profiles';
+import {
+  getJobDescriptionShardFilename,
+  getJobDescriptionShardIndex,
+  isJobDescriptionShard,
+  JOB_DESCRIPTION_SHARDS_DIRECTORY,
+  type JobDescriptionShard,
+} from './job-description-shards';
 
 export { getJobSlug, getOneWordRole } from './job-slugs';
 import { getJobContentKey, getJobSlug, getCompanySlug, normalizeJobLink } from './job-slugs';
 
-const DESCRIPTIONS_CACHE_PATH = path.join(process.cwd(), 'content/job-descriptions.json');
+const DESCRIPTIONS_SHARDS_PATH = path.join(process.cwd(), 'content', JOB_DESCRIPTION_SHARDS_DIRECTORY);
 const LEGACY_ARCHIVE_PATH = path.join(process.cwd(), 'content/legacy-slugs-archive.json');
 
 let legacyArchiveCache: Record<string, { id?: string; link?: string; company?: string; title?: string }> | null = null;
@@ -31,33 +38,44 @@ function loadLegacyArchive(): Record<string, { id?: string; link?: string; compa
   return legacyArchiveCache;
 }
 
-// In-memory cache of fetched job descriptions: loaded once per process lifetime.
-// The 43MB file is only parsed once; subsequent calls return the cached object.
-let descriptionsCache: Record<string, string> | null = null;
+const descriptionsShardCache = new Map<string, JobDescriptionShard>();
 
-function loadDescriptionsCache(): Record<string, string> {
-  if (descriptionsCache !== null) return descriptionsCache;
+function loadDescriptionShard(job: Job, shardsPath: string): JobDescriptionShard {
+  const shardPath = path.join(
+    shardsPath,
+    getJobDescriptionShardFilename(getJobDescriptionShardIndex(job)),
+  );
+  const cached = descriptionsShardCache.get(shardPath);
+  if (cached) return cached;
+
   try {
-    if (fs.existsSync(DESCRIPTIONS_CACHE_PATH)) {
+    if (fs.existsSync(shardPath)) {
       const start = Date.now();
-      const raw = fs.readFileSync(DESCRIPTIONS_CACHE_PATH, 'utf-8');
-      descriptionsCache = JSON.parse(raw) as Record<string, string>;
+      const raw = fs.readFileSync(shardPath, 'utf-8');
+      const parsed: unknown = JSON.parse(raw);
+      if (!isJobDescriptionShard(parsed)) throw new Error('Invalid shard structure');
       const ms = Date.now() - start;
-      const keys = Object.keys(descriptionsCache).length;
-      console.log(`[job-descriptions] Loaded ${keys} entries in ${ms}ms (${Math.round(raw.length / 1024)}KB)`);
-      return descriptionsCache;
+      descriptionsShardCache.set(shardPath, parsed);
+      console.log(`[job-descriptions] Loaded shard ${path.basename(shardPath)} (${Object.keys(parsed.descriptions).length} entries) in ${ms}ms (${Math.round(raw.length / 1024)}KB)`);
+      return parsed;
     }
   } catch (err) {
-    console.error('[job-descriptions] Failed to read cache:', err);
+    console.error(`[job-descriptions] Failed to read shard ${path.basename(shardPath)}:`, err);
   }
-  descriptionsCache = {};
-  return descriptionsCache;
+  const empty: JobDescriptionShard = { version: 1, descriptions: {}, aliases: {} };
+  descriptionsShardCache.set(shardPath, empty);
+  return empty;
 }
 
-function getCachedRawContent(job: Job): string {
-  const cache = loadDescriptionsCache();
-  const slugKey = (job as any).slug;
-  const raw = cache[job.id] || (slugKey ? cache[slugKey] : null) || cache[getJobContentKey(job)] || job.description || '';
+export function getCachedRawContent(job: Job, shardsPath = DESCRIPTIONS_SHARDS_PATH): string {
+  const shard = loadDescriptionShard(job, shardsPath);
+  const slugKey = job.slug;
+  const raw = [getJobContentKey(job), job.id, slugKey]
+    .filter((key): key is string => Boolean(key))
+    .map((key) => shard.descriptions[shard.aliases[key] || key])
+    .find((content) => typeof content === 'string')
+    || job.description
+    || '';
   return sanitizeHtml(raw);
 }
 

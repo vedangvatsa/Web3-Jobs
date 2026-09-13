@@ -13,6 +13,7 @@ import { getJobContentKey, getJobIdentity, getJobSlug } from '../src/lib/job-slu
 import { buildUniqueJobPageContent } from '../src/lib/job-guides';
 import { getAllResourcePages } from '../src/lib/pseo/resources';
 import type { Job } from '../src/types';
+import { readJobDescriptionStore } from './lib/job-description-store';
 
 const ROOT = path.resolve(import.meta.dirname, '..');
 const SITE_URL = 'https://hashtagweb3.com';
@@ -420,18 +421,24 @@ async function main(): Promise<void> {
   );
 
   const rawJobsPath = path.join(ROOT, 'content', 'jobs-cache.json');
-  const descriptionsPath = path.join(ROOT, 'content', 'job-descriptions.json');
   const rawJobs = JSON.parse(fs.readFileSync(rawJobsPath, 'utf8')) as Job[];
-  const descriptions = fs.existsSync(descriptionsPath)
-    ? JSON.parse(fs.readFileSync(descriptionsPath, 'utf8')) as Record<string, string>
-    : {};
+  const descriptionStore = readJobDescriptionStore(ROOT);
+  const descriptions = descriptionStore.descriptions;
+  const getDescription = (job: Job): string => {
+    for (const key of [getJobContentKey(job), job.id, job.slug]) {
+      if (!key) continue;
+      const content = descriptions[descriptionStore.aliases[key] || key];
+      if (content) return content;
+    }
+    return '';
+  };
 
   const duplicateGeneratedJobBriefs = duplicateGroups(
     jobs.map((job) => ({
       job,
       brief: normalizeText(buildUniqueJobPageContent(
         job,
-        descriptions[getJobContentKey(job)] || descriptions[job.id] || '',
+        getDescription(job),
       )),
     })),
     (record) => record.brief,
@@ -484,7 +491,7 @@ async function main(): Promise<void> {
   const thinExamples: string[] = [];
 
   for (const job of jobs) {
-    const rawContent = descriptions[getJobContentKey(job)] || descriptions[job.id] || '';
+    const rawContent = getDescription(job);
     const text = htmlToPlainText(rawContent);
     const lowerText = text.toLowerCase();
     const markers = FABRICATED_JOB_MARKERS.filter((marker) => lowerText.includes(marker.toLowerCase()));
@@ -590,7 +597,7 @@ async function main(): Promise<void> {
   const substantialJobUrls = new Set(
     jobs
       .filter((job) => {
-        const rawContent = descriptions[getJobContentKey(job)] || descriptions[job.id] || '';
+        const rawContent = getDescription(job);
         const text = htmlToPlainText(rawContent);
         const lowerText = text.toLowerCase();
         return text.length >= 300

@@ -5,6 +5,11 @@ import { execSync, execFileSync } from 'child_process';
 import { isConcreteJobOpening, cleanCompanyName } from '../src/lib/job-filters';
 import { getJobContentKey } from '../src/lib/job-slugs';
 import { ingestYZiLabs } from './ingest-yzilabs';
+import {
+  buildJobDescriptionAliases,
+  readJobDescriptionStore,
+  writeJobDescriptionStore,
+} from './lib/job-description-store';
 
 // ---------------------------------------------------------------------------
 // 1. Shared types & constants
@@ -15,7 +20,6 @@ const THIRTY_DAYS_MS = 30 * 24 * 60 * 60 * 1000;
 const CUTOFF = Date.now() - THIRTY_DAYS_MS;
 
 const CACHE_PATH = path.join(process.cwd(), 'content/jobs-cache.json');
-const DESC_PATH  = path.join(process.cwd(), 'content/job-descriptions.json');
 
 type AtsType = 'ashby' | 'greenhouse' | 'lever' | 'bamboo';
 
@@ -37,11 +41,17 @@ function readCache(): any[] {
 function writeCache(data: any[]): void {
   fs.writeFileSync(CACHE_PATH, JSON.stringify(data, null, 2));
 }
+let descriptionAliases: Record<string, string> = {};
 function readDescCache(): Record<string, string> {
-  return fs.existsSync(DESC_PATH) ? JSON.parse(fs.readFileSync(DESC_PATH, 'utf8')) : {};
+  const store = readJobDescriptionStore();
+  descriptionAliases = store.aliases;
+  return store.descriptions;
 }
-function writeDescCache(data: Record<string, string>): void {
-  fs.writeFileSync(DESC_PATH, JSON.stringify(data, null, 2));
+function writeDescCache(data: Record<string, string>, jobs: any[]): void {
+  writeJobDescriptionStore({
+    descriptions: data,
+    aliases: { ...descriptionAliases, ...buildJobDescriptionAliases(jobs, data) },
+  });
 }
 function normalizeLink(link: string): string {
   if (!link) return '';
@@ -153,8 +163,6 @@ async function ingestAshbySimple(company: string, slug: string, defaultLoc: stri
       if (r === 'added') added++; else updated++;
       if (j.descriptionHtml) {
         descData[getJobContentKey(job)] = j.descriptionHtml;
-        descData[job.id] = j.descriptionHtml;
-        if (job.slug) descData[job.slug] = j.descriptionHtml;
       }
     }
     console.log(`  ✓ [Ashby] ${company}: ${added} added, ${updated} updated`);
@@ -459,7 +467,7 @@ function ingestStaticJobs(label: string, staticJobs: any[], cacheData: any[], de
   for (const job of staticJobs) {
     const r = upsertJob(cacheData, job);
     if (r === 'added') added++; else updated++;
-    if (job.description) descData[job.id] = job.description;
+    if (job.description) descData[getJobContentKey(job)] = job.description;
   }
   console.log(`  ✓ [Static] ${label}: ${added} added, ${updated} updated`);
 }
@@ -563,7 +571,7 @@ async function ingestMarketnode(cacheData: any[], descData: Record<string, strin
       const job = { id, title: j.job_title, company: 'Marketnode', link: `https://marketnode.recruit.omnihr.co/careers/${slug}`, date: j.location_attributes?.created_at?.slice(0, 10) || TODAY, source: 'OmniHR: Marketnode [omnihr]', location: j.location_attributes?.city ? `${j.location_attributes.city}, ${j.location_attributes.country}` : (j.city_country || 'Remote / Hybrid'), department: j.department?.name || 'Engineering', active: true, slug: `role${id.slice(-5).toLowerCase()}` };
       const r = upsertJob(cacheData, job);
       if (r === 'added') added++; else updated++;
-      if (j.description) descData[job.id] = j.description;
+      if (j.description) descData[getJobContentKey(job)] = j.description;
     }
     console.log(`  ✓ Marketnode: ${added} added, ${updated} updated`);
   } catch (err: any) { console.error(`  ✗ Marketnode failed: ${err.message}`); }
@@ -648,7 +656,7 @@ async function main() {
 
   // Flush cache & descriptions
   writeCache(cacheData);
-  writeDescCache(descData);
+  writeDescCache(descData, cacheData);
 
   // CoinDCX uses Python and writes the cache itself
   await ingestCoinDCX();

@@ -11,6 +11,11 @@ import * as path from 'path';
 import Parser from 'rss-parser';
 import { load } from 'cheerio';
 import { getJobContentKey, getJobIdentity, getJobSlug } from '../src/lib/job-slugs';
+import {
+  buildJobDescriptionAliases,
+  readJobDescriptionStore,
+  writeJobDescriptionStore,
+} from './lib/job-description-store';
 
 interface GetroBoard {
   url: string;
@@ -312,8 +317,8 @@ async function refreshJobsCache() {
   const persistedSlugs = new Map<string, string>();
   const persistedDates = new Map<string, string>();
   const persistedDateVerification = new Map<string, boolean | undefined>();
-  const descriptionsPath = path.join(process.cwd(), 'content/job-descriptions.json');
   let existingDescriptions: Record<string, string> = {};
+  let existingDescriptionAliases: Record<string, string> = {};
   const refreshedDescriptions = new Map<string, string>();
 
   const upsertJob = (job: CachedJob): boolean => {
@@ -348,12 +353,21 @@ async function refreshJobsCache() {
   };
 
   try {
-    if (fs.existsSync(descriptionsPath)) {
-      existingDescriptions = JSON.parse(fs.readFileSync(descriptionsPath, 'utf-8'));
-    }
+    const store = readJobDescriptionStore();
+    existingDescriptions = store.descriptions;
+    existingDescriptionAliases = store.aliases;
   } catch {
-    console.warn('Could not read the existing job description cache; rebuilding it from live sources.');
+    console.warn('Could not read the existing job description shards; rebuilding them from live sources.');
   }
+
+  const getExistingDescription = (job: CachedJob): string | undefined => {
+    for (const key of [getJobContentKey(job), job.id, job.slug]) {
+      if (!key) continue;
+      const content = existingDescriptions[existingDescriptionAliases[key] || key];
+      if (content) return content;
+    }
+    return undefined;
+  };
 
   // Load existing cache to preserve jobs that may have dropped from feeds
   const cachePath = path.join(process.cwd(), 'content/jobs-cache.json');
@@ -2021,8 +2035,7 @@ async function refreshJobsCache() {
       : new Date(job.date) > thirtyDaysAgo
         && isUsableDescription(
           refreshedDescriptions.get(getJobContentKey(job))
-            || existingDescriptions[getJobContentKey(job)]
-            || existingDescriptions[job.id]
+            || getExistingDescription(job)
         )
   ));
 
@@ -2111,11 +2124,16 @@ async function refreshJobsCache() {
   for (const job of allJobs) {
     const key = getJobContentKey(job);
     const content = refreshedDescriptions.get(key)
-      || existingDescriptions[key]
-      || existingDescriptions[job.id];
+      || getExistingDescription(job);
     if (isUsableDescription(content)) nextDescriptions[key] = content;
   }
-  fs.writeFileSync(descriptionsPath, `${JSON.stringify(nextDescriptions, null, 2)}\n`);
+  writeJobDescriptionStore({
+    descriptions: nextDescriptions,
+    aliases: {
+      ...existingDescriptionAliases,
+      ...buildJobDescriptionAliases(allJobs, nextDescriptions),
+    },
+  });
 
   console.log(`\n✅ Cache updated: ${allJobs.length} jobs written to content/jobs-cache.json`);
   console.log(`🏢 ${new Set(allJobs.map((job) => job.company)).size} companies; ${nextDescriptions ? Object.keys(nextDescriptions).length : 0} verified descriptions`);
