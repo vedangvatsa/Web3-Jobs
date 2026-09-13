@@ -34,7 +34,7 @@ export function PromoPopup() {
           <X className="h-5 w-5" aria-hidden="true" />
         </button>
 
-        <p className="text-lg font-semibold tracking-tight">
+        <p className="text-lg font-semibold tracking-tight text-center">
           Discover more from Hashtag Web3
         </p>
 
