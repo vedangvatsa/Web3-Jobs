@@ -20,6 +20,12 @@ export const metadata: Metadata = {
     url: 'https://hashtagweb3.com/developers',
     images: [{ url: 'https://hashtagweb3.com/api/og?type=default&title=Developer%20Portal', width: 1200, height: 630, alt: 'Hashtag Web3 Developer Portal' }],
   },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Hashtag Web3 Developer Portal',
+    description: 'REST APIs, feeds, OpenAPI schemas, and agent integration tools for Hashtag Web3.',
+    images: ['https://hashtagweb3.com/api/og?type=default&title=Developer%20Portal'],
+  },
 };
 
 const endpoints = [

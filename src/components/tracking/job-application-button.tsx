@@ -30,7 +30,7 @@ export function JobApplicationButton({
    target="_blank" 
    rel="noopener noreferrer" 
    onClick={handleClick}
-   className="block h-full"
+    className="block h-full w-full"
   >
    {children}
   </a>

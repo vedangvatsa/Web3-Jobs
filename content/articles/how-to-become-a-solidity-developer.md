@@ -20,23 +20,15 @@ According to research from [Immunefi](https://immunefi.com) and the [OWASP Smart
 
 Solidity is an object-oriented, statically typed curly-bracket language designed to compile directly to Ethereum Virtual Machine bytecode, as specified by the core language team in the [Solidity Documentation](https://docs.soliditylang.org). Gavin Wood originally proposed the language specification in 2014, and Christian Reitwiessner led early development alongside contributors funded by the [Ethereum Foundation](https://ethereum.org). Rather than targeting a hardware processor architecture like x86 or ARM, the Solidity compiler targets a quasi-Turing-complete, 256-bit registerless stack machine operating on deterministic state transitions.
 
-Understanding how the EVM manages memory spaces is the single most critical foundation for writing secure, gas-efficient contracts. The virtual machine exposes four distinct operational data locations: the execution stack, volatile memory, persistent state storage, and transaction calldata.
+Understanding how the EVM manages data locations is a foundation for writing secure, gas-efficient contracts. The virtual machine exposes the execution stack, volatile memory, persistent state storage, transaction calldata, and transient storage.
 
-```
-+-------------------------------------------------------------------------+
-|                       EVM Execution Environment                         |
-+-------------------------------------------------------------------------+
-|  Calldata: Read-only, byte-addressed input array, sliceable             |
-+-------------------------------------------------------------------------+
-|  Stack: 1024 depth, 256-bit word size, LIFO, operates via PUSH/DUP/SWAP |
-+-------------------------------------------------------------------------+
-|  Memory: Volatile, byte-addressed, quadratic expansion cost             |
-+-------------------------------------------------------------------------+
-|  Transient Storage: EIP-1153 TSTORE/TLOAD, 100 gas, discards at tx end  |
-+-------------------------------------------------------------------------+
-|  State Storage: 2^256 slots of 32 bytes, persistent, cold SSTORE 20k gas|
-+-------------------------------------------------------------------------+
-```
+### EVM data locations
+
+- **Calldata** is read-only transaction input. External functions can read it without copying it into memory.
+- **The stack** holds 256-bit words for immediate EVM operations. It has a maximum depth of 1,024 items, and instructions directly address only its upper portion.
+- **Memory** is temporary, byte-addressed workspace for a message call. Expanding it costs gas and the contents disappear when the call ends.
+- **Transient storage** uses EIP-1153's `TSTORE` and `TLOAD` instructions. It can persist through internal and external calls in one transaction, then clears at the end of that transaction.
+- **Storage** is the persistent key-value state recorded by the chain. Each slot is 32 bytes, and reads and writes cost materially more than equivalent memory operations.
 
 The stack operates with a maximum depth limit of 1024 elements, where each slot accommodates a 256-bit word. Opcodes can only directly access the top sixteen elements using the DUP and SWAP instructions. When a Solidity function defines excessive local variables or complex parameters, the compiler throws the stack-too-deep error. Senior engineers navigate this constraint by encapsulating related variables within custom data structs, utilizing memory pointers, or invoking internal helper functions that establish clean stack frames.
 
@@ -73,7 +65,7 @@ contract LiquidityVaultTest is Test {
         vm.deal(alice, 100 ether);
     }
 
-// @notice Property-based invariant test with automated fuzzing
+    // @notice Fuzz test with automated inputs
     function testFuzz_DepositAndWithdrawalAccounting(uint96 depositAmount) public {
         vm.assume(depositAmount > 0.01 ether);
         
@@ -108,16 +100,14 @@ The [ERC-1155 Multi Token Standard](https://eips.ethereum.org/EIPS/eip-1155), pi
 
 The [ERC-4626 Tokenized Vault Standard](https://eips.ethereum.org/EIPS/eip-4626) has emerged as the definitive design pattern for yield-bearing vaults across lending protocols and liquid staking derivatives. ERC-4626 standardizes the mathematical relationship between deposited underlying tokens and newly minted vault share tokens. Implementing ERC-4626 requires careful defensive programming against share inflation attacks, where an attacker front-runs an initial depositor with a donation to artificially distort share price calculations.
 
-```
-+----------------------------------------------------------------------+
-|                     DeFi Protocol Composable Stack                   |
-+----------------------------------------------------------------------+
-| Applications: Automated Market Makers, Yield Aggregators, Perps      |
-| Core Mechanics: Uniswap v3/v4 Hooks, Aave v3 Flash Loans, Sky Pools   |
-| Standards: ERC-4626 Vaults, ERC-20 Tokens, ERC-721/1155 NFTs         |
-| Execution Infrastructure: OpenZeppelin Contracts, Solady, Solmate    |
-+----------------------------------------------------------------------+
-```
+### A composable protocol stack
+
+Protocol teams usually combine several layers rather than building every primitive from scratch:
+
+- **Applications** include automated market makers, yield aggregators, perpetual markets, and lending products.
+- **Core mechanics** can include liquidity hooks, flash loans, interest-rate models, and accounting for collateral.
+- **Standards** such as ERC-20, ERC-721, ERC-1155, and ERC-4626 define common interfaces that other contracts and wallets can integrate with.
+- **Execution libraries** such as OpenZeppelin Contracts, Solady, and Solmate provide widely used contract components. Engineers still need to understand the assumptions and versions they deploy.
 
 Major decentralized protocols like [Uniswap Labs](https://uniswap.org), [Aave Governance](https://governance.aave.com), [Compound Finance](https://compound.finance), and [MakerDAO / Sky](https://sky.money) serve as living reference implementations. Studying how Uniswap v3 uses concentrated liquidity ticks encoded as custom bit maps, or how Aave v3 executes flash loans via callback execution, teaches engineers how to organize real-world protocol logic.
 
@@ -205,22 +195,12 @@ Simultaneously, user onboarding is transforming through Account Abstraction. His
 
 In this architecture, users sign off-chain objects called UserOperations rather than raw transactions. Specialized network actors known as Bundlers aggregate these operations into Ethereum transactions and submit them to an audited singleton EntryPoint contract. Paymaster contracts can sponsor gas fees on behalf of users or allow them to pay with ERC-20 stablecoins like USDC. Solidity engineers building modern decentralized applications are increasingly tasked with writing custom account modules, session key validators, and automated paymaster policies.
 
-```
-+-------------------------------------------------------------------------+
-|                  ERC-4337 Account Abstraction Workflow                  |
-+-------------------------------------------------------------------------+
-|  User signs UserOperation (Contains call data, nonce, gas limits)       |
-|                                |                                        |
-|                                v                                        |
-|  Bundler picks up UserOp from alternative mempool & packages into tx   |
-|                                |                                        |
-|                                v                                        |
-|  EntryPoint.sol verifies paymaster deposits & validates signatures      |
-|                                |                                        |
-|                                v                                        |
-|  Smart Account Contract executes batch logic & emits state changes      |
-+-------------------------------------------------------------------------+
-```
+### ERC-4337 transaction flow
+
+1. A user signs a `UserOperation` containing call data, a nonce, and gas limits.
+2. A bundler collects the operation from the alternative mempool and submits it in an Ethereum transaction.
+3. The EntryPoint contract validates the operation and any paymaster requirements.
+4. The smart account executes the approved call or batch of calls, updating on-chain state when the execution succeeds.
 
 Data indexing infrastructure has also matured. Applications no longer poll raw JSON-RPC endpoints to display user balances or historical activities. Solidity developers write event emissions with precise parameter indexing so that subgraphs deployed on [The Graph](https://thegraph.com) or custom indexing pipelines can query on-chain history using GraphQL. Analytics dashboards built on [Dune Analytics](https://dune.com) allow teams to evaluate transaction volume, token velocity, and user retention metrics in real time.
 

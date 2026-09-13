@@ -153,7 +153,7 @@ async function resolveMetadata(path: string): Promise<PageMeta> {
     '/': {
       title: `Web3 Jobs and Crypto Careers | ${SITE_NAME}`,
       description: 'Find verified Web3 jobs, crypto careers, salary data, and practical guides. Updated daily for builders, marketers, and product teams.',
-      ogImageUrl: `${SITE_URL}/opengraph-image.png`,
+      ogImageUrl: `${SITE_URL}/api/og?type=default&title=Web3%20Jobs`,
     },
     '/jobs': {
       title: `Web3 Jobs & Crypto Careers | ${SITE_NAME}`,
@@ -173,7 +173,7 @@ async function resolveMetadata(path: string): Promise<PageMeta> {
     '/companies': {
       title: `Web3 Companies Hiring | ${SITE_NAME}`,
       description: 'Browse 200+ Web3 companies actively hiring — from DeFi protocols to blockchain infrastructure.',
-      ogImageUrl: `${SITE_URL}/api/og?type=default&title=Web3%20Companies%20Hiring`,
+      ogImageUrl: `${SITE_URL}/api/og?type=companies&title=Web3%20Companies`,
     },
     '/glossary': {
       title: `Blockchain Glossary | ${SITE_NAME}`,
@@ -188,12 +188,52 @@ async function resolveMetadata(path: string): Promise<PageMeta> {
     '/events': {
       title: `Web3 Events & Conferences | ${SITE_NAME}`,
       description: 'Upcoming Web3 conferences, hackathons, and crypto summits worldwide.',
-      ogImageUrl: `${SITE_URL}/api/og?type=default&title=Web3%20Events`,
+      ogImageUrl: `${SITE_URL}/api/og?type=events&title=Web3%20Events`,
     },
     '/news': {
       title: `Web3 & Crypto News | ${SITE_NAME}`,
       description: 'Latest Web3 and crypto news for blockchain professionals.',
-      ogImageUrl: `${SITE_URL}/api/og?type=default&title=Web3%20%26%20Crypto%20News`,
+      ogImageUrl: `${SITE_URL}/api/og?type=news-page&title=Web3%20News`,
+    },
+    '/developers': {
+      title: `Hashtag Web3 Developer Portal | ${SITE_NAME}`,
+      description: 'REST APIs, feeds, OpenAPI schemas, and agent integration tools for Hashtag Web3.',
+      ogImageUrl: `${SITE_URL}/api/og?type=default&title=Developer%20Portal`,
+    },
+    '/contact': {
+      title: `Contact Hashtag Web3 | ${SITE_NAME}`,
+      description: 'Direct communication channels for partnerships, hiring campaigns, API integrations, and community support.',
+      ogImageUrl: `${SITE_URL}/api/og?type=default&title=Contact%20Hashtag%20Web3`,
+    },
+    '/jd-builder': {
+      title: `JD Builder | ${SITE_NAME}`,
+      description: 'Create structured job descriptions for Web3 and crypto roles.',
+      ogImageUrl: `${SITE_URL}/api/og?type=default&title=Web3%20JD%20Builder`,
+    },
+    '/invoice-generator': {
+      title: `Invoice Generator | ${SITE_NAME}`,
+      description: 'Create invoices for Web3 freelance and contract work.',
+      ogImageUrl: `${SITE_URL}/api/og?type=default&title=Web3%20Invoice%20Generator`,
+    },
+    '/resume-builder': {
+      title: `Resume Builder | ${SITE_NAME}`,
+      description: 'Build a resume tailored for blockchain and Web3 roles.',
+      ogImageUrl: `${SITE_URL}/api/og?type=default&title=Web3%20Resume%20Builder`,
+    },
+    '/remote-work-checklist': {
+      title: `Remote Work Checklist | ${SITE_NAME}`,
+      description: 'Plan a secure, productive remote workspace.',
+      ogImageUrl: `${SITE_URL}/api/og?type=default&title=Remote%20Work%20Checklist`,
+    },
+    '/digital-nomad-visas': {
+      title: `Visas for Digital Nomads | ${SITE_NAME}`,
+      description: 'Browse digital-nomad visa requirements for remote Web3 workers.',
+      ogImageUrl: `${SITE_URL}/api/og?type=default&title=Visas%20for%20Digital%20Nomads`,
+    },
+    '/web3-hiring-report': {
+      title: `Hiring Report 2026 | ${SITE_NAME}`,
+      description: 'Data-driven insights based on active Web3 job listings, including hiring velocity, roles, salary benchmarks, and remote work patterns.',
+      ogImageUrl: `${SITE_URL}/og-image-report.png`,
     },
   };
 
@@ -213,7 +253,7 @@ async function resolveMetadata(path: string): Promise<PageMeta> {
   return {
     title: `${SITE_NAME} | Web3 Jobs & Crypto Careers`,
     description: 'Find verified Web3 jobs, crypto careers, salary data, and practical guides.',
-    ogImageUrl: `${SITE_URL}/opengraph-image.png`,
+    ogImageUrl: `${SITE_URL}/api/og?type=default&title=Hashtag%20Web3`,
     canonicalUrl,
   };
 }
