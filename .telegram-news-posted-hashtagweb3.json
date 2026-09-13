@@ -548,6 +548,9 @@
   "https://www.coindesk.com/business/2026/09/12/nigel-farage-s-reform-uk-lands-usd97-million-donations-from-two-crypto-billionaires-in-24-hours",
   "https://www.coindesk.com/markets/2026/09/12/openai-ipo-won-t-happen-this-year-says-sam-altman",
   "https://www.coindesk.com/business/2026/09/12/bitcoin-suisse-plans-to-cut-up-to-half-its-swiss-jobs-as-it-shifts-work-abroad",
+  "https://www.theblock.co/news/markets/2026-09-12-cryptoquant-bitcoin-resistance-support-levels-414519",
+  "https://www.theblock.co/news/business/2026-09-12-revolut-says-customer-kyc-bitcoin-transaction-data-exposed-after-fake-request-from-govt-domain-414516",
+  "https://cointelegraph.com/news/north-korea-using-foreign-talent-to-help-infiltrate-us-companies-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -1552,6 +1555,12 @@
   "OpenAI IPO won't happen this year, says Sam Altman",
   "Bitcoin Suisse to cut half of its Swiss workforce",
   "Bitcoin Suisse plans to cut up to half its Swiss jobs as it shifts work abroad",
+  "CryptoQuant Outlines Bitcoin Resistance Levels Up to $88,700",
+  "CryptoQuant says bitcoin must clear resistance at $81,700 to confirm new bull market",
+  "Fake government request exposes Revolut customer data",
+  "Revolut says customer KYC, Bitcoin transaction data exposed after fake request from gov’t domain",
+  "North Korea Uses Foreign IT Workers to Infiltrate US Companies",
+  "North Korea using foreign talent to help infiltrate US companies: Report",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -1650,5 +1659,8 @@
   "fp:against|banana2|better|category|compar|generator|googl|imag|images25|nano",
   "fp:97m|billionair|british|contribut|donat|donation|executiv|farag|history|hour",
   "fp:ceo|cit|concern|debut|delay|happen|ipo|market|not|openai",
-  "fp:abroad|clos|copenhagen|cost|cut|half|hub|job|lower|offic"
+  "fp:abroad|clos|copenhagen|cost|cut|half|hub|job|lower|offic",
+  "fp:700|barrier|break|bull|clear|confirm|cryptoquant|despit|firm|level",
+  "fp:breach|customer|data|domain|expos|fak|gov|government|hav|high",
+  "fp:befor|contractor|employment|foreign|help|infiltrat|interview|korea|korean|north"
 ]
