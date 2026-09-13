@@ -2,6 +2,7 @@ import type { Metadata, Viewport } from 'next';
 import { Toaster } from '@/components/ui/toaster';
 import { cn } from '@/lib/utils';
 import './globals.css';
+import 'leaflet/dist/leaflet.css';
 import { Inter } from 'next/font/google';
 import { Footer } from '@/components/footer';
 import { Header } from '@/components/header';

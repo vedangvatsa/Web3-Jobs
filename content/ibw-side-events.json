@@ -1,0 +1,325 @@
+[
+  {
+    "id": "ibw-official-mip-20-road-to-devcon-10-24",
+    "name": "MIP-20: Road to Devcon",
+    "description": "MIP-20: Road to Devcon is listed in the India Blockchain Week 2026 event calendar.",
+    "startDate": "2026-10-24T12:00:00+05:30",
+    "endDate": "2026-10-24T14:00:00+05:30",
+    "city": "Mumbai",
+    "country": "India",
+    "location": "Mumbai, India",
+    "category": "Hackathon/Workshop",
+    "sideEventFor": [
+      "ibw"
+    ],
+    "url": "https://luma.com/ndrr1yqe",
+    "coverImage": "/events/ibw-official-mip-20-road-to-devcon-10-24-ca376271.webp",
+    "source": "ibw-official"
+  },
+  {
+    "id": "ibw-official-ibw2026-pre-conference-vip-night-10-31",
+    "name": "IBW2026 Pre-Conference VIP Night",
+    "description": "IBW2026 Pre-Conference VIP Night is listed in the India Blockchain Week 2026 event calendar.",
+    "startDate": "2026-10-31T19:00:00+05:30",
+    "endDate": "2026-10-31T23:00:00+05:30",
+    "city": "Mumbai",
+    "country": "India",
+    "location": "Mumbai, India",
+    "category": "Party",
+    "sideEventFor": [
+      "ibw"
+    ],
+    "url": "https://indiablockchainweek.com/",
+    "coverImage": "/events/ibw-official-ibw2026-pre-conference-vip-night-10-3-8da0e696.webp",
+    "source": "ibw-official"
+  },
+  {
+    "id": "ibw-official-defi-security-summit-day-1-11-01",
+    "name": "DeFi Security Summit - Day 1",
+    "description": "DeFi Security Summit - Day 1 is listed in the India Blockchain Week 2026 event calendar.",
+    "startDate": "2026-11-01T10:00:00+05:30",
+    "endDate": "2026-11-01T19:00:00+05:30",
+    "city": "Mumbai",
+    "country": "India",
+    "location": "Mumbai, India",
+    "category": "Conference/Summit",
+    "sideEventFor": [
+      "ibw"
+    ],
+    "url": "https://defisecuritysummit.org/",
+    "coverImage": "https://cdn.prod.website-files.com/6812e12513d071d057c7fc27/68130cac71254232d0b596a2_Group%201820547643.svg",
+    "source": "ibw-official"
+  },
+  {
+    "id": "ibw-official-multichain-day-devcon-mumbai-2026wrapped-11-02",
+    "name": "Multichain Day | Devcon Mumbai 2026Wrapped",
+    "description": "Multichain Day | Devcon Mumbai 2026Wrapped is listed in the India Blockchain Week 2026 event calendar.",
+    "startDate": "2026-11-02T10:00:00+05:30",
+    "endDate": "2026-11-02T18:00:00+05:30",
+    "city": "Mumbai",
+    "country": "India",
+    "location": "Mumbai, India",
+    "category": "Conference/Summit",
+    "sideEventFor": [
+      "ibw"
+    ],
+    "url": "https://luma.com/multichaindaydevconmumbai",
+    "coverImage": "/events/ibw-official-multichain-day-devcon-mumbai-2026wrap-6c5695e3.webp",
+    "source": "ibw-official"
+  },
+  {
+    "id": "ibw-official-ethereum-cypherpunk-congress-3-11-02",
+    "name": "Ethereum Cypherpunk Congress #3",
+    "description": "Ethereum Cypherpunk Congress #3 is listed in the India Blockchain Week 2026 event calendar.",
+    "startDate": "2026-11-02T10:00:00+05:30",
+    "endDate": "2026-11-02T19:00:00+05:30",
+    "city": "Mumbai",
+    "country": "India",
+    "location": "Mumbai, India",
+    "category": "Conference/Summit",
+    "sideEventFor": [
+      "ibw"
+    ],
+    "url": "https://luma.com/spsnos9t",
+    "coverImage": "/events/ibw-official-ethereum-cypherpunk-congress-3-11-02-6e9a85b6.webp",
+    "source": "ibw-official"
+  },
+  {
+    "id": "ibw-official-ibw-institutional-forum-11-02",
+    "name": "IBW Institutional Forum",
+    "description": "IBW Institutional Forum is listed in the India Blockchain Week 2026 event calendar.",
+    "startDate": "2026-11-02T10:00:00+05:30",
+    "endDate": "2026-11-02T19:00:00+05:30",
+    "city": "Mumbai",
+    "country": "India",
+    "location": "Mumbai, India",
+    "category": "Conference/Summit",
+    "sideEventFor": [
+      "ibw"
+    ],
+    "url": "https://www.indiablockchainweek.com/institutional-forum",
+    "coverImage": "/events/ibw-official-ibw-institutional-forum-11-02-fec1118b.webp",
+    "source": "ibw-official"
+  },
+  {
+    "id": "ibw-official-solana-summit-india-11-02",
+    "name": "Solana Summit India",
+    "description": "Solana Summit India is listed in the India Blockchain Week 2026 event calendar.",
+    "startDate": "2026-11-02T10:00:00+05:30",
+    "endDate": "2026-11-02T19:00:00+05:30",
+    "city": "Mumbai",
+    "country": "India",
+    "location": "Mumbai, India",
+    "category": "Conference/Summit",
+    "sideEventFor": [
+      "ibw"
+    ],
+    "url": "https://luma.com/solana-summit-india",
+    "coverImage": "/events/ibw-official-solana-summit-india-11-02-5d0eab5b.webp",
+    "source": "ibw-official"
+  },
+  {
+    "id": "ibw-official-defi-security-summit-day-2-11-02",
+    "name": "DeFi Security Summit - Day 2",
+    "description": "DeFi Security Summit - Day 2 is listed in the India Blockchain Week 2026 event calendar.",
+    "startDate": "2026-11-02T10:00:00+05:30",
+    "endDate": "2026-11-02T19:00:00+05:30",
+    "city": "Mumbai",
+    "country": "India",
+    "location": "Mumbai, India",
+    "category": "Conference/Summit",
+    "sideEventFor": [
+      "ibw"
+    ],
+    "url": "https://defisecuritysummit.org/",
+    "coverImage": "https://cdn.prod.website-files.com/6812e12513d071d057c7fc27/68130cac71254232d0b596a2_Group%201820547643.svg",
+    "source": "ibw-official"
+  },
+  {
+    "id": "ibw-official-onchain-dev-city-india-11-02",
+    "name": "Onchain Dev City India",
+    "description": "Onchain Dev City India is listed in the India Blockchain Week 2026 event calendar.",
+    "startDate": "2026-11-02T16:00:00+05:30",
+    "endDate": "2026-11-02T21:00:00+05:30",
+    "city": "Mumbai",
+    "country": "India",
+    "location": "Mumbai, India",
+    "category": "Networking",
+    "sideEventFor": [
+      "ibw"
+    ],
+    "url": "https://luma.com/n0a39ago",
+    "coverImage": "/events/ibw-official-onchain-dev-city-india-11-02-4c32e03c.webp",
+    "source": "ibw-official"
+  },
+  {
+    "id": "ibw-official-ibw-official-after-party-11-02",
+    "name": "⚡ IBW Official After-Party 🕺",
+    "description": "⚡ IBW Official After-Party 🕺 is listed in the India Blockchain Week 2026 event calendar.",
+    "startDate": "2026-11-02T19:00:00+05:30",
+    "endDate": "2026-11-02T23:00:00+05:30",
+    "city": "Mumbai",
+    "country": "India",
+    "location": "Mumbai, India",
+    "category": "Party",
+    "sideEventFor": [
+      "ibw"
+    ],
+    "url": "https://indiablockchainweek.com/",
+    "coverImage": "/events/ibw-official-ibw2026-pre-conference-vip-night-10-3-8da0e696.webp",
+    "source": "ibw-official"
+  },
+  {
+    "id": "ibw-official-the-institutional-table-private-dinner-on-tokenization-stablecoins-and-s-11-02",
+    "name": "The Institutional Table: Private Dinner on Tokenization, Stablecoins and Security",
+    "description": "The Institutional Table: Private Dinner on Tokenization, Stablecoins and Security is listed in the India Blockchain Week 2026 event calendar.",
+    "startDate": "2026-11-02T19:30:00+05:30",
+    "endDate": "2026-11-02T22:30:00+05:30",
+    "city": "Mumbai",
+    "country": "India",
+    "location": "Mumbai, India",
+    "category": "Party",
+    "sideEventFor": [
+      "ibw"
+    ],
+    "url": "https://luma.com/quilla-vmnc",
+    "coverImage": "/events/ibw-official-the-institutional-table-private-dinne-eb24494c.webp",
+    "source": "ibw-official"
+  },
+  {
+    "id": "ibw-official-media-accelerator-startup-cohort-11-03",
+    "name": "Media Accelerator & Startup Cohort",
+    "description": "Media Accelerator & Startup Cohort is listed in the India Blockchain Week 2026 event calendar.",
+    "startDate": "2026-11-03T15:00:00+05:30",
+    "endDate": "2026-11-03T14:30:00+05:30",
+    "city": "Mumbai",
+    "country": "India",
+    "location": "Mumbai, India",
+    "category": "Conference/Summit",
+    "sideEventFor": [
+      "devcon"
+    ],
+    "url": "https://luma.com/mh0xmqg0",
+    "coverImage": "/events/ibw-official-media-accelerator-startup-cohort-11-0-4072aef3.webp",
+    "source": "ibw-official"
+  },
+  {
+    "id": "ibw-official-ai-economic-forum-aief-truth-intelligence-summit-11-03",
+    "name": "AI ECONOMIC FORUM (AIEF) - Truth Intelligence Summit",
+    "description": "AI ECONOMIC FORUM (AIEF) - Truth Intelligence Summit is listed in the India Blockchain Week 2026 event calendar.",
+    "startDate": "2026-11-03T09:30:00+05:30",
+    "endDate": "2026-11-03T20:00:00+05:30",
+    "city": "Mumbai",
+    "country": "India",
+    "location": "Mumbai, India",
+    "category": "Conference/Summit",
+    "sideEventFor": [
+      "devcon"
+    ],
+    "url": "https://luma.com/a0e6b8at",
+    "coverImage": "/events/ibw-official-ai-economic-forum-aief-truth-intellig-75f2082a.webp",
+    "source": "ibw-official"
+  },
+  {
+    "id": "ibw-official-eip-hub-3-7-nov-11-03",
+    "name": "EIP Hub (3-7 Nov)",
+    "description": "EIP Hub (3-7 Nov) is listed in the India Blockchain Week 2026 event calendar.",
+    "startDate": "2026-11-03T20:30:00+05:30",
+    "endDate": "2026-11-03T02:30:00+05:30",
+    "city": "Mumbai",
+    "country": "India",
+    "location": "Mumbai, India",
+    "category": "Networking",
+    "sideEventFor": [
+      "devcon"
+    ],
+    "url": "https://luma.com/czi58jpe",
+    "coverImage": "/events/ibw-official-eip-hub-3-7-nov-11-03-8ea01bf0.webp",
+    "source": "ibw-official"
+  },
+  {
+    "id": "ibw-official-ravecon-b-ender-11-04",
+    "name": "Ravecon [B]Ender",
+    "description": "Ravecon [B]Ender is listed in the India Blockchain Week 2026 event calendar.",
+    "startDate": "2026-11-04T20:00:00+05:30",
+    "endDate": "2026-11-04T02:00:00+05:30",
+    "city": "Mumbai",
+    "country": "India",
+    "location": "Mumbai, India",
+    "category": "Party",
+    "sideEventFor": [
+      "devcon"
+    ],
+    "url": "https://luma.com/1cnairat",
+    "coverImage": "/events/ibw-official-ravecon-b-ender-11-04-a5517802.webp",
+    "source": "ibw-official"
+  },
+  {
+    "id": "ibw-official-pragma-mumbai-11-05",
+    "name": "Pragma Mumbai",
+    "description": "Pragma Mumbai is listed in the India Blockchain Week 2026 event calendar.",
+    "startDate": "2026-11-05T10:00:00+05:30",
+    "endDate": "2026-11-05T19:00:00+05:30",
+    "city": "Mumbai",
+    "country": "India",
+    "location": "Mumbai, India",
+    "category": "Conference/Summit",
+    "sideEventFor": [
+      "devcon"
+    ],
+    "url": "https://ethglobal.com/events/pragma-mumbai",
+    "coverImage": null,
+    "source": "ibw-official"
+  },
+  {
+    "id": "ibw-official-unchained-summit-day-1-11-05",
+    "name": "Unchained Summit - Day 1",
+    "description": "Unchained Summit - Day 1 is listed in the India Blockchain Week 2026 event calendar.",
+    "startDate": "2026-11-05T10:00:00+05:30",
+    "endDate": "2026-11-05T19:00:00+05:30",
+    "city": "Mumbai",
+    "country": "India",
+    "location": "Mumbai, India",
+    "category": "Conference/Summit",
+    "sideEventFor": [
+      "devcon"
+    ],
+    "url": "https://unchainedsummit.com/india/",
+    "coverImage": "/events/ibw-official-unchained-summit-day-1-11-05-c5e2cb37.webp",
+    "source": "ibw-official"
+  },
+  {
+    "id": "ibw-official-unchained-summit-day-2-11-06",
+    "name": "Unchained Summit - Day 2",
+    "description": "Unchained Summit - Day 2 is listed in the India Blockchain Week 2026 event calendar.",
+    "startDate": "2026-11-06T10:00:00+05:30",
+    "endDate": "2026-11-06T19:00:00+05:30",
+    "city": "Mumbai",
+    "country": "India",
+    "location": "Mumbai, India",
+    "category": "Conference/Summit",
+    "sideEventFor": [
+      "devcon"
+    ],
+    "url": "https://unchainedsummit.com/india/",
+    "coverImage": "/events/ibw-official-unchained-summit-day-1-11-05-c5e2cb37.webp",
+    "source": "ibw-official"
+  },
+  {
+    "id": "ibw-official-ship-safe-devcon-mumbai-security-sessions-11-06",
+    "name": "Ship Safe: Devcon Mumbai Security Sessions",
+    "description": "Ship Safe: Devcon Mumbai Security Sessions is listed in the India Blockchain Week 2026 event calendar.",
+    "startDate": "2026-11-06T16:00:00+05:30",
+    "endDate": "2026-11-06T20:00:00+05:30",
+    "city": "Mumbai",
+    "country": "India",
+    "location": "Mumbai, India",
+    "category": "Networking",
+    "sideEventFor": [
+      "devcon"
+    ],
+    "url": "https://luma.com/quilla-rvp4",
+    "coverImage": "/events/ibw-official-ship-safe-devcon-mumbai-security-sess-572793e5.webp",
+    "source": "ibw-official"
+  }
+]

@@ -13,6 +13,7 @@ import {
 } from '@/components/ui/dropdown-menu';
 import { MobileNav } from './mobile-nav';
 import { PostJobNavCta } from './post-job-nav-cta';
+import { PostEventNavCta } from './post-event-nav-cta';
 import {
   MAIN_NAV_LINKS,
   SITELINK_NAVIGATION_ITEMS,
@@ -121,7 +122,8 @@ export function Header() {
         </nav>
 
         <div className="flex items-center gap-3">
-          <PostJobNavCta />
+           <PostJobNavCta />
+           <PostEventNavCta />
           <div className="lg:hidden">
             <MobileNav />
           </div>

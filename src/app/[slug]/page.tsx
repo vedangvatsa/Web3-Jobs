@@ -30,7 +30,8 @@ import { EventHeroImage } from '@/components/event-cover';
 import { EventCard } from '@/components/event-card';
 import { EventGuideContent } from '@/components/event-guide-content';
 import { DetailPageHeader } from '@/components/detail-page-header';
-import { Token2049SideEvents } from '@/components/token2049-side-events';
+import { EventSideEvents } from '@/components/token2049-side-events';
+import { DirectoryDisclaimer } from '@/components/directory-disclaimer';
 import { Token2049Details } from '@/components/token2049-details';
 import { getEventBySlug, getEvents, getRelatedEvents } from '@/lib/events-server';
 import { Button } from '@/components/ui/button';
@@ -380,10 +381,11 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     const speakerSummary = event.speakerDetails ? `${event.speakerDetails.length} official speakers announced.` : event.speakers?.join(', ');
     const googleCalendarUrl = generateGoogleCalendarUrl(event);
     const relatedEvents = await getRelatedEvents(event, 3);
-    const token2049SideEvents = isToken2049Page
-      ? (await getEvents())
-          .filter((sideEvent) => sideEvent.token2049SideEvent)
-      : [];
+    const sideEvents = (await getEvents()).filter((sideEvent) => sideEvent.sideEventFor?.includes(eventSlug));
+    const eventTimeZone = eventSlug === 'token2049' ? 'Asia/Singapore'
+      : eventSlug === 'kbw' ? 'Asia/Seoul'
+      : eventSlug === 'ibw' || eventSlug === 'devcon' ? 'Asia/Kolkata'
+      : 'UTC';
 
     const eventPageUrl = `${siteUrl}/${eventSlug}`;
     const eventImage = event.coverImage || `/api/og?type=event&title=${encodeURIComponent(event.name)}`;
@@ -433,7 +435,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
         <JsonLd data={breadcrumbSchema} />
 
         <div className="flex flex-col min-h-screen bg-background text-foreground">
-          <main className="flex-1 pb-16">
+          <main className="flex-1 pb-16" data-event-page>
             <article className="site-container px-4 py-10 sm:py-14">
               <DetailPageHeader
                 breadcrumbs={[{ href: '/', label: 'Home' }, { href: '/events', label: 'Events' }]}
@@ -525,7 +527,8 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
 
               {isToken2049Page && <Token2049Details speakers={event.speakerDetails || []} />}
 
-              {token2049SideEvents.length > 0 && <Token2049SideEvents events={token2049SideEvents} />}
+              {sideEvents.length > 0 && <EventSideEvents eventName={event.name} events={sideEvents} timeZone={eventTimeZone} />}
+              <DirectoryDisclaimer type="event" />
 
               {/* Related Events Section */}
               {relatedEvents.length > 0 && (

@@ -226,16 +226,34 @@ function getReadableLegacyEventSlug(event: Web3Event): string {
   return getLegacyEventSlugFromName(name);
 }
 
+function linkSideEventParents(event: Web3Event): Web3Event {
+  const sideEventFor = new Set(event.sideEventFor || []);
+
+  if (event.token2049SideEvent) sideEventFor.add('token2049');
+  if (event.id.startsWith('kbw-luma-') || event.id.startsWith('kbw-')) sideEventFor.add('kbw');
+  if (event.id.startsWith('side-ibw2026-')) {
+    if (event.startDate < '2026-11-03') sideEventFor.add('ibw');
+    else if (event.startDate < '2026-11-07') sideEventFor.add('devcon');
+  }
+  if (event.id === 'side-monad-builder-lounge-breakpoint-2026') sideEventFor.add('breakpoint');
+
+  return sideEventFor.size ? { ...event, sideEventFor: [...sideEventFor] } : event;
+}
+
 export async function getEvents(): Promise<Web3Event[]> {
   try {
     const cwd = process.cwd();
     const curatedPath = path.join(cwd, 'content', 'curated-events.json');
     const kbwLumaPath = path.join(cwd, 'content', 'kbw-luma-events.json');
+    const ibwSideEventsPath = path.join(cwd, 'content', 'ibw-side-events.json');
+    const indiaLumaEventsPath = path.join(cwd, 'content', 'india-luma-events.json');
      const cachePath = path.join(cwd, 'content', 'events-cache.json');
      const eventImageOverrides = loadEventImageOverrides(cwd);
 
     let curatedEvents: Web3Event[] = [];
     let kbwLumaEvents: Web3Event[] = [];
+    let ibwSideEvents: Web3Event[] = [];
+    let indiaLumaEvents: Web3Event[] = [];
     let cachedEvents: Web3Event[] = [];
 
     if (fs.existsSync(curatedPath)) {
@@ -254,6 +272,17 @@ export async function getEvents(): Promise<Web3Event[]> {
       }
     }
 
+    for (const [filePath, target] of [[ibwSideEventsPath, 'ibw'], [indiaLumaEventsPath, 'india']] as const) {
+      if (!fs.existsSync(filePath)) continue;
+      try {
+        const events = JSON.parse(fs.readFileSync(filePath, 'utf8')) as Web3Event[];
+        if (target === 'ibw') ibwSideEvents = events;
+        else indiaLumaEvents = events;
+      } catch (err) {
+        console.error(`Failed to read ${path.basename(filePath)}:`, err);
+      }
+    }
+
     if (fs.existsSync(cachePath)) {
       try {
         cachedEvents = JSON.parse(fs.readFileSync(cachePath, 'utf8'));
@@ -263,7 +292,7 @@ export async function getEvents(): Promise<Web3Event[]> {
     }
 
     // Combine all events - curated premier takes precedence
-    const rawAll = [...curatedEvents, ...kbwLumaEvents, ...cachedEvents];
+    const rawAll = [...curatedEvents, ...kbwLumaEvents, ...ibwSideEvents, ...indiaLumaEvents, ...cachedEvents].map(linkSideEventParents);
 
     // Clean & normalize
     const seenTitles = new Set<string>();
@@ -272,6 +301,7 @@ export async function getEvents(): Promise<Web3Event[]> {
 
     for (const e of rawAll) {
       if (!e.name || !e.startDate) continue;
+      if (e.id.startsWith('side-ibw2026-')) continue;
       if (BLOCKED_EVENT_IDS.has(e.id)) continue;
       if (/participant list/i.test(e.name)) continue;
       if (!isQualityEvent(e)) continue;

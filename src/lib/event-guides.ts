@@ -469,7 +469,7 @@ export const EVENT_GUIDES: Record<string, EventEditorialArticle> = {
 
   kbw: {
     summaryLead:
-      "Korea Blockchain Week, organized by FACTBLOCK since 2018, fills Seoul from September 29 to October 1, anchored by the IMPACT mainstage conference at Walkerhill Hotels & Resorts. The week surrounding it has become the densest exchange-and-fund business calendar in Asia, drawing tens of thousands of participants across the official program and a sprawling side-event circuit through Gangnam.",
+      "Korea Blockchain Week, organized by FACTBLOCK since 2018, fills Seoul from September 29 to October 1, anchored by the IMPACT mainstage conference at Walkerhill Hotels & Resorts. The official speaker page lists Balaji Srinivasan, Arthur Hayes, Tom Lee, Joseph Lubin, Kyoungsuk Oh, Jeff Yan, Bo Hines, Monica Long, Mike Belshe, Arjun Sethi, Guy Young, Michael Heinrich, Austin Federa, and Miles Jennings among the announced guests. The week surrounding it has become the densest exchange-and-fund business calendar in Asia, drawing tens of thousands of participants across the official program and a sprawling side-event circuit through Gangnam.",
     expectedAttendance: "Tens of thousands across the full week",
     sections: [
       {

@@ -165,10 +165,9 @@ export function DigitalNomadVisasContent() {
     <div className="site-container">
       <ToolUsageTracker toolName="Digital Nomad Visas" />
       <section className="text-center mb-8 site-container">
-        <PageHeader
-          title="Visas for Digital Nomads"
-          description="Explore countries offering remote work and digital nomad visas for Web3 builders and creators."
-        />
+          <PageHeader
+            title="Visas for Digital Nomads"
+          />
       </section>
 
       <Card className="p-4 mb-8 sticky top-20 z-10 shadow-sm bg-background">
@@ -198,9 +197,7 @@ export function DigitalNomadVisasContent() {
       </Card>
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-        {filteredVisas.map((visa) => (
-          <VisaCard key={visa.country} visa={visa} />
-        ))}
+        {filteredVisas.map((visa) => <VisaCard key={visa.country} visa={visa} />)}
       </div>
 
       {filteredVisas.length > 0 && (
