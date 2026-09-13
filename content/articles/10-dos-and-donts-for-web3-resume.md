@@ -10,112 +10,97 @@ category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-13"
 ---
-Web3 hiring differs significantly from traditional tech hiring. Recruiters in the crypto space sift through hundreds of resumes each week, and many applicants make easily avoidable mistakes. After analyzing thousands of applications on our job board, we present the ten essential rules that can help candidates secure callbacks rather than rejections.
 
-## The Do's
+A Web3 resume should let a reviewer verify what you can do. The work may be public: a contract deployment, merged pull request, governance proposal, research note, design file, analytics query, or product release. That visibility is useful only when the link and the claim match.
 
-### 1. Do: Lead with Onchain Work, Not Credentials
+This is not a case for adding every wallet or Discord server to a resume. Many jobs involve private repositories, regulated customers, or confidential security work. In those cases, name the scope, the tools, the result, and what you can discuss. The goal is a short document that gives a hiring team good evidence and makes the next conversation specific.
 
-Top Web3 resumes prioritize links to deployed smart contracts, GitHub repositories, or contributions to protocols. For instance, a Solidity developer who has deployed a contract on the mainnet with a significant number of transactions presents a more compelling case than one with a Stanford CS degree but no crypto experience.
+## 1. Do put the proof beside the claim
 
-**Practical examples include:**- "Developed and deployed an ERC-4626 vault on Ethereum mainnet, audited by Trail of Bits, achieving significant value within 30 days."
-- Include links to Etherscan, GitHub, or a live product.
+Start bullets with work that is relevant to the role, then attach the best available evidence. A Solidity engineer can link a verified contract, a public repository, or a security disclosure. A product manager can link a shipped feature, a release note, or a proposal. A community lead can link a campaign page or public report.
 
-Hiring managers at crypto companies typically spend less than 15 seconds on initial resume screenings. An Etherscan link provides credibility more effectively than any bullet point can.
+Use links that a reviewer can open without asking for access. An [Etherscan verified-contract page](https://docs.etherscan.io/common/contract-verification) exposes submitted source code and compiler settings for a deployed Ethereum contract. It does not prove that the code is secure, that you wrote all of it, or that the contract's business succeeded. State only what it verifies.
 
-### 2. Do: Quantify Your Impact with Metrics
+For example, write: "Implemented deposit and withdrawal functions for an ERC-4626 vault; source verified at [contract link](https://eips.ethereum.org/EIPS/eip-4626); wrote Foundry tests for share-accounting edge cases." Do not write "built a successful DeFi vault" unless you can define and support success. If a public link reveals client information, use a short case study approved by the client or explain the work in an interview.
 
-Web3 companies operate based on data. Transform vague descriptions into specific numbers:
+## 2. Do use numbers with a denominator and a time period
 
-| Weak Statement | Strong Statement |
-|
+Numbers make a bullet testable when they have context. "Improved onboarding by 40%" does not say whether the measure is completion rate, time to first transaction, or support tickets. "Raised wallet-creation completion from 41% to 57% during a four-week experiment, measured in product analytics" is a claim someone can examine.
 
-----------------|
+Useful measures depend on the role. Engineers can report latency, test coverage, incidents prevented, deployments, or cost under a stated workload. Researchers can report analyses published, data period, and methodology. Marketing and community candidates can report qualified sign-ups, activated users, retention, event attendance, or support response time. Finance candidates can report reconciliations completed, error rate, settlement time, or assets only when disclosure permits it.
 
-------------------|
-| "Managed social media for a DeFi protocol" | "Grew protocol Twitter from a small following to a significant number in 6 months, generating a notable number of waitlist signups from a single thread." |
-| "Worked on smart contract security" | "Identified critical vulnerabilities in an audit of a protocol with significant value and filed multiple bug bounties, totaling substantial rewards." |
-| "Built frontend for crypto project" | "Developed a trading interface that handles a significant number of daily active users and substantial daily volume on Arbitrum." |
+Do not use token price, follower count, total value locked, or trading volume as a personal achievement unless you can show your direct work and the measure is relevant. Markets move for reasons outside an employee's control. A sound bullet separates activity from outcome: "Published a bridge-risk guide that received 1,200 documentation views in its first month" is clearer than claiming responsibility for a protocol's growth.
 
-Quantifiable achievements speak volumes about competence. If you cannot measure a contribution, reconsider its relevance on your resume.
+## 3. Do name the tools and the level of use
 
-### 3. Do: List Specific Technologies, Not Categories
+Tool lists help only when they are accurate. "Solidity, Foundry, TypeScript, viem, OpenZeppelin Contracts" tells a technical reviewer more than "blockchain stack." The [Foundry book](https://getfoundry.sh/introduction/getting-started/) describes its testing, scripting, and debugging tools. If you only completed a tutorial, do not present it as production experience.
 
-Instead of writing "blockchain development tools," specify "Solidity, Foundry, Hardhat, ethers.js, IPFS, The Graph." Recruiters often search applicant databases using specific technology keywords. Generic phrases like "smart contract development" may not result in your resume being found.
+Group skills by function and include tools you have used recently. For example: "Smart contracts: Solidity, Foundry, OpenZeppelin Contracts. Front end: TypeScript, React, viem. Data: SQL, Dune." Dune's [documentation](https://docs.dune.com/) explains that queries can analyze blockchain data, which makes a linked query more informative than adding "on-chain analytics" to a skills cloud.
 
-For non-technical roles, the same approach applies. A marketing professional should specify "Dune Analytics, DefiLlama, Token Terminal, Nansen" rather than using the term "crypto analytics tools."
+For non-engineering work, use the same discipline. A compliance candidate might name transaction-monitoring workflow, sanctions-screening process, SQL, and the jurisdictions covered. A designer might name Figma, user research method, wallet connection flows, and accessibility testing. Avoid listing an entire ecosystem because you have used its wallet once.
 
-### 4. Do: Include Your Web3 Community Activity
+## 4. Do explain the chain and the constraint
 
-Engagement in governance proposals, forum discussions, grant applications, and hackathon entries demonstrates genuine involvement in the ecosystem. A product manager who authored governance proposals showcases domain knowledge that certifications cannot match.
+"Built on Ethereum" is usually too broad. The chain changes the transaction model, tool set, costs, and user risks. A project using an Ethereum L2 may need bridge handling and account-abstraction support. A Solana project may need to account for programs, accounts, and transaction simulation. A custody product may need approval policy and audit logs more than protocol knowledge.
 
-Create a dedicated "Web3 Community" section listing:
-- Hackathon placements (ETHGlobal, Chainlink hackathons)
-- DAO governance participation (authored proposals, delegate activity)
-- Open-source contributions (merged PRs to significant protocols)
-- Content creation (technical blog posts, research reports)
+Add one detail that shows you understand the actual constraint. "Reduced retry failures by simulating transactions before submission" is meaningful because simulation checks whether a proposed call would execute under current state. "Added a 24-hour timelock before parameter changes" tells a reviewer that governance actions carried risk. The [OpenZeppelin TimelockController documentation](https://docs.openzeppelin.com/contracts/5.x/api/governance#TimelockController) describes this delay pattern and its role in giving users time to review a scheduled operation.
 
-### 5. Do: Tailor Each Application to the Protocol's Stack
+This does not require turning the resume into documentation. One precise phrase per project is enough. Save the architecture diagram, code walkthrough, or research appendix for the portfolio.
 
-When applying for a Solana position, highlight Rust and Anchor skills. In contrast, for an Ethereum Layer 2 role, emphasize Solidity and rollup architecture. Avoid sending a generic "blockchain developer" resume to every company.
+## 5. Do show public participation as work with a record
 
-Research the company's tech stack before applying. Review their documentation, explore their GitHub, and analyze their job description for specific tools. Once equipped with this information, reorder your skills and experiences accordingly.
+Hackathons, grants, governance, standards discussions, and open-source contributions can be good evidence, especially for an early-career candidate. The record must say what you did. "ETHGlobal participant" is weak. "Built a permit-based payroll prototype with three teammates at ETHGlobal; wrote the transaction batching flow and demo" is useful.
 
-## The Don'ts
+Governance work should be equally specific. Snapshot's [documentation](https://docs.snapshot.box/) describes off-chain, gasless token voting. A link to a vote may show that an address voted. It does not prove authorship of a proposal or the quality of the analysis. Link the forum post or proposal text, state the recommendation you made, and say whether it passed. If you were paid by a DAO, list it as work rather than hiding it in a community section.
 
-### 6. Don't: Use Buzzwords Without Substance
+Open source contributions deserve the same care. Link a merged pull request or issue. State the part you owned. Do not claim ownership of a repository because you fixed a typo, and do not omit small but real contributions. Consistent review, documentation, test, and support work is often useful evidence of how someone collaborates.
 
-Phrases like "passionate about decentralization" or "Web3 native" lack meaning without supporting evidence. Many applicants claim passion, but what sets you apart is proof: the code you've written, the projects you've completed, and the communities you've built.
+## 6. Don't turn personal trading into professional experience
 
-Eliminate these common phrases:
-- "Passionate blockchain enthusiast"
-- "Forward-thinking innovator"
-- "Results-driven professional"
-- "Seasoned crypto expert"
+Holding tokens, using an exchange, or collecting NFTs may explain your interest. It is not usually job experience. It does not establish risk controls, market-making skill, research quality, or an ability to manage client money.
 
-Substitute each with a specific accomplishment that highlights your contributions.
+There are exceptions. If you ran operations, research, execution, reconciliation, or risk at a fund, exchange, market maker, or treasury, describe the actual job. Include the instruments, controls, reporting process, and measurable result that you are allowed to disclose. Do not publish confidential positions, wallet addresses, counterparties, or client results to make the bullet look impressive.
 
-### 7. Don't: Include Every Crypto Token You've Traded
+Personal trading can belong in a conversation when it illuminates product knowledge. It normally should not take a line that could show a project, analytical method, or professional responsibility.
 
-Listing personal trading history does not qualify as professional experience. A statement like "experienced with various cryptocurrencies" resembles a portfolio disclosure rather than a skill set.
+## 7. Don't invent a protocol, title, or employment gap story
 
-The only exception is if you have worked professionally in trading, market-making, or portfolio management at a fund or exchange. In that case, include specific strategies and performance metrics.
+Web3 makes verification easy in some areas and impossible in others. A made-up project can be caught by a missing repository, copied code, non-existent team, or a shallow interview answer. The cost is larger than a gap on a timeline.
 
-### 8. Don't: Hide Employment Gaps Behind Vague Crypto Projects
+Use a plain label for real independent work: "Independent Solidity study, May-August 2025." Then list the evidence: completed a specific course, built a small application, wrote tests, reviewed a known exploit, or contributed to a repository. [CryptoZombies](https://cryptozombies.io/) is a beginner Solidity tutorial. Listing it accurately shows study. Calling completion "smart-contract engineer" does not.
 
-Hiring managers in Web3 can easily identify fictional projects. If you spent time learning Solidity independently, state it clearly: "Self-directed study, completed CryptoZombies, built practice contracts, and contributed to open-source repositories." Honesty about your learning journey garners more respect than fabricating project names.
+If a project was abandoned, say so if it is relevant: "Prototype paused after usability tests found users could not recover wallets reliably." That is a better interview subject than a fictional launch. It shows that you can describe a decision, evidence, and limitation.
 
-If you contributed to a DAO, provide the DAO's name, your specific role, and verifiable on-chain evidence of your participation.
+## 8. Don't make a reviewer decode your links or wallet
 
-### 9. Don't: Write a Three-Page Resume
+A bare wallet address is rarely a portfolio. It can contain unrelated transactions, expose your financial activity, and leave the reader guessing which interaction is yours. Link to a specific contract, transaction, proposal, query, release, or pull request. Add a five-to-ten-word label such as "verification script" or "governance proposal."
 
-Limit your resume to one page for under five years of experience. For senior roles, two pages serve as the maximum. Web3 hiring operates quickly, and lengthy resumes may signal poor communication skills. Protocol teams seek individuals who can convey complex ideas succinctly, and your resume serves as the initial test of this ability.
+Check every link in a private browser session before sending an application. Remove links that require your login, point to a deleted testnet, or expose secrets. GitHub's [guidance on removing sensitive data](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository) warns that rewriting history does not guarantee that a secret is gone from clones, forks, or caches. A portfolio repository needs the same secret scanning and review as any other public code.
 
-Ensure each line justifies its presence on your resume. If a bullet point does not directly support your candidacy for the specific role, remove it.
+When a link is unavailable because of confidentiality, do not replace it with a suspiciously vague claim. Write "Private repository, available for a technical walkthrough" and be ready to explain the design without sharing protected material.
 
-### 10. Don't: Ignore the Cover Letter (or Application Note)
+## 9. Don't use the same ordering for every role
 
-Many Web3 applications include a short text field or request a cover letter. Leaving this section blank is a missed opportunity. A two-paragraph note explaining your motivation to work for a specific protocol and referencing details about their product or a recent governance decision can differentiate you from many applicants who overlook this step.
+Tailoring does not mean rewriting history. It means selecting and ordering truthful evidence for the job. Read the job description, product documentation, and repository when available. Then move the two or three projects that best match the work to the top of experience or selected projects.
 
-## Resume Structure Template
+For a security role, an audit finding, fuzzing work, threat model, or responsible disclosure may be more relevant than a front-end redesign. For a developer-relations role, docs, workshops, example applications, and issue support may lead. For an operations role, put reconciliation, vendor controls, incident procedures, and reporting ahead of a side project that received little use.
 
-For a Web3 role, organize your resume as follows:
+Keep a source document with your full history, then create a role-specific PDF. The [U.S. National Association of Colleges and Employers](https://www.naceweb.org/career-readiness/competencies/career-readiness-defined/) lists communication, technology, and critical thinking among career-readiness competencies. A tailored resume demonstrates those skills through selection and clear writing. It does not need to announce them as adjectives.
 
-1.
+## 10. Don't let format hide the evidence
 
-**Contact + Links**(GitHub, relevant profiles, portfolio)
-2.
+An applicant tracking system and a human should both be able to read the document. Use standard headings such as Experience, Projects, Skills, Education, and Links. Put contact details in text, not only inside an image or a complicated header. Avoid tiny type, dense multi-column layouts, and logos that consume space.
 
-**Summary**(2 sentences: your role and strongest credential)
-3.
+Length follows evidence, not a ritual. One page can be enough for a new graduate or someone changing fields. Two pages can be reasonable for a senior engineer, researcher, operator, or manager with relevant detail. Cut old, unrelated work before cutting a recent project that proves a required skill. The [Harvard resume guide](https://hwpi.harvard.edu/files/ocs/files/hes_resume_cover_letter_guide.pdf) similarly advises candidates to focus on achievements and tailor materials to the role.
 
-**Technical Skills**(specific tools, languages, frameworks)
-4.
+Before submitting, read each bullet aloud. Can a stranger identify the actor, action, tool or constraint, and result? Can they open the proof? Is the result defined rather than implied? If not, revise the bullet or remove it.
 
-**Professional Experience**(reverse chronological, metrics-driven)
-5.
+## A compact example
 
-**Web3 Community**(hackathons, governance, open-source)
-6.
+Compare these two lines for a protocol-operations role.
 
-**Education** (brief, at the bottom)
+Weak: "Web3 native operator who managed a fast-growing DAO treasury."
+
+Specific: "Reconciled weekly USDC payments from a Safe multisig to the accounting ledger; documented signer approvals and investigated three unmatched transfers before month-end close."
+
+The second line does not need inflated language. It names a recurring task, the asset, the control, and the outcome. A reviewer can ask useful follow-up questions: Which approvals were required? How were transfers matched? What caused the exceptions? That is the point of the resume. It gives the interview a factual starting place.
