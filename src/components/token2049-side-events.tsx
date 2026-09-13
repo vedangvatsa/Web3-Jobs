@@ -71,7 +71,7 @@ export function EventSideEvents({ eventName, events, timeZone }: { eventName: st
     return grouped;
   }, [timeZone, visibleEvents]);
 
-  const [selectedDateEvents, setSelectedDateEvents] = useState<{ date: Date; events: Web3Event[] } | null>(null);
+  const [selectedDateEvents, setSelectedDateEvents] = useState<{ date: Date; events: PublicWeb3Event[] } | null>(null);
 
   return (
     <section className="mt-12 border-t pt-8" aria-labelledby="side-events-heading">
