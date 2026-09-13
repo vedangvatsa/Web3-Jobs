@@ -1,6 +1,11 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: 'standalone',
+  experimental: {
+    outputFileTracingIncludes: {
+      '/*': ['./content/job-description-shards/*.json'],
+    },
+  },
   /* config options here */
   trailingSlash: false,
   typescript: {
