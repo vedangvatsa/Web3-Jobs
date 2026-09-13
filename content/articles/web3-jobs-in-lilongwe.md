@@ -41,21 +41,13 @@ Currently, the formal Web3 job market in Lilongwe is limited. Aspiring professio
 
 ### Building a Web3 Career in Lilongwe
 
-1.
+1. **Focus on AgriTech and ReFi:** Capitalize on Malawi's unique strengths. Specialize your learning and [portfolio](/building-web3-portfolio) on projects related to agriculture and regenerative finance. Develop a proof-of-concept for a decentralized application (dApp) that assists a farming cooperative in tracking produce or securing microloans. This niche expertise will be invaluable.
 
-**Focus on AgriTech and ReFi:** Capitalize on Malawi's unique strengths. Specialize your learning and [portfolio](/building-web3-portfolio) on projects related to agriculture and regenerative finance. Develop a proof-of-concept for a decentralized application (dApp) that assists a farming cooperative in tracking produce or securing microloans. This niche expertise will be invaluable.
+2. **Become a Community Leader:** In an emerging market, those who educate become leaders. Organize a Web3 study group in Lilongwe. Collaborate with a local tech hub to conduct a free workshop on setting up a crypto [wallet](/how-to-choose-a-crypto-wallet). Your initiative will establish you as a key figure within the ecosystem.
 
-2.
+3. **Cultivate a Remote Skillset:** Access to lucrative positions will come from the global remote job market. Build an impressive GitHub portfolio and maintain a professional online presence to attract international recruiters.
 
-**Become a Community Leader:** In an emerging market, those who educate become leaders. Organize a Web3 study group in Lilongwe. Collaborate with a local tech hub to conduct a free workshop on setting up a crypto [wallet](/how-to-choose-a-crypto-wallet). Your initiative will establish you as a key figure within the ecosystem.
-
-3.
-
-**Cultivate a Remote Skillset:** Access to lucrative positions will come from the global remote job market. Build an impressive GitHub portfolio and maintain a professional online presence to attract international recruiters.
-
-4.
-
-**Engage with Pan-African and Global Impact Communities:** Connect with Web3 for Good initiatives, ReFi [DAOs](/what-is-a-dao), and other impact-driven online communities. Such networks frequently seek projects and individuals in markets like Malawi to support.
+4. **Engage with Pan-African and Global Impact Communities:** Connect with Web3 for Good initiatives, ReFi [DAOs](/what-is-a-dao), and other impact-driven online communities. Such networks frequently seek projects and individuals in markets like Malawi to support.
 
 ### Salary and Cost of Living Analysis
 
@@ -87,7 +79,7 @@ Understanding the salary space and cost of living is essential for professionals
 
 **Path 1: AgriTech & ReFi Specialist (10-16 months)**
 
-- **-** Months 1-3: Foundation**- Learn [Solidity](/best-programming-languages-for-blockchain-development) and regenerative finance protocols.
+- Months 1-3: Foundation**- Learn [Solidity](/best-programming-languages-for-blockchain-development) and regenerative finance protocols.
  - Understand agricultural finance and supply chains.
  - Complete a Buildspace course.
 
@@ -101,7 +93,7 @@ Understanding the salary space and cost of living is essential for professionals
 
 **Path 2: Mobile-First DeFi Developer (9-15 months)**
 
-- **-** Months 1-3: Foundation**- Learn JavaScript/React and Solidity.
+- Months 1-3: Foundation**- Learn JavaScript/React and Solidity.
  - Research mobile money frameworks and complete a Buildspace course.
 
 - **Months 4-6: Inclusion Focus**- Develop two mobile dApps focused on savings and micro-lending.
@@ -114,7 +106,7 @@ Understanding the salary space and cost of living is essential for professionals
 
 **Path 3: Community Educator & Leader (6-12 months)**
 
-- **-** Months 1-2: Strategy**- Concentrate on AgriTech, DeFi, or social impact.
+- Months 1-2: Strategy**- Concentrate on AgriTech, DeFi, or social impact.
  - Develop a content plan for articles and social media.
 
 - **Months 3-6: Community Building**- Publish locally relevant Web3 content.

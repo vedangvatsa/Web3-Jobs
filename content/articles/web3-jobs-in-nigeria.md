@@ -52,17 +52,11 @@ The Nigerian Web3 job market is competitive, with strong demand for both technic
 ### Strategies to Secure a Web3 Job in Nigeria
 
 1. **Develop a Global Portfolio and Reputation:** Many high-paying jobs in Web3 are with remote international companies. Your portfolio must stand out. Create a public "proof of work" on platforms like GitHub (for developers) or establish a personal blog/Twitter account (for non-technical roles). Demonstrating your skills to a global audience is essential.
-2.
-
-**Engage with Pan-African and Global Communities:** Expand your reach beyond Nigerian communities. Participate in broader African and global Web3 discussions on platforms such as Twitter, Discord, and Farcaster. This approach helps broaden your network and opens up more job opportunities.
-3.
-
-**Attend Local and Regional Events:** The Nigerian crypto community is interconnected and active.
+2. **Engage with Pan-African and Global Communities:** Expand your reach beyond Nigerian communities. Participate in broader African and global Web3 discussions on platforms such as Twitter, Discord, and Farcaster. This approach helps broaden your network and opens up more job opportunities.
+3. **Attend Local and Regional Events:** The Nigerian crypto community is interconnected and active.
  - **Major Events:** Participate in events such as ETHNigeria and other significant conferences in Lagos and Abuja. These gatherings provide excellent networking opportunities.
  - **Local Meetups:** Join smaller, local meetups to build deeper relationships with fellow builders and founders in your area.
-4.
-
-**Highlight Your Knowledge of the Local Market:** Understanding the Nigerian context is a substantial advantage when interviewing with international companies. Be prepared to discuss the specific needs of Nigerian users and how Web3 can address those challenges.
+4. **Highlight Your Knowledge of the Local Market:** Understanding the Nigerian context is a substantial advantage when interviewing with international companies. Be prepared to discuss the specific needs of Nigerian users and how Web3 can address those challenges.
 
 ### Explore Web3 Job Opportunities in Nigeria
 

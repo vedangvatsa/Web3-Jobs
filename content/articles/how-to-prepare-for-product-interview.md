@@ -98,7 +98,7 @@ This round gives you something that already exists and asks you to measure, debu
 
 **Be ready to design a valid A/B test: hypothesis, randomization unit, control, sample size thinking, duration, success metric, guardrails, and risks like network effects, novelty effects, and selection bias. Also be ready for trade-off questions: an A/B test shows plus 3 percent DAU but minus 2 percent revenue, what do you do. A strong answer weighs short term revenue against retention and explains when to ship, iterate, or kill.** Frameworks that help, if you use them lightly:**
 
-- **-** AARRR**for lifecycle metrics: Acquisition, Activation, Retention, Referral, Revenue. Or
+- AARRR**for lifecycle metrics: Acquisition, Activation, Retention, Referral, Revenue. Or
 
 **AARM** which many PMs use as Acquisition, Activation, Retention, Monetization.
 - **HEART** for product experience: Happiness, Engagement, Adoption, Retention, Task success.

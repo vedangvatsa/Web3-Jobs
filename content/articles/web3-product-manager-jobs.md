@@ -32,21 +32,13 @@ Transitioning from a Web2 PM to a Web3 PM requires a fundamental shift in mindse
 
 To thrive in a Web3 environment, aspiring PMs must combine traditional product management skills with specific competencies related to the crypto ecosystem.
 
-1.
+1. **Deep Ecosystem Knowledge:** A PM should be well-versed in Web3 applications. This includes hands-on experience with [DeFi protocols](/what-is-defi), collecting [NFTs](/what-are-nfts), and participating in [DAOs](/what-is-a-dao). Such experience is important for developing user empathy.
 
-**Deep Ecosystem Knowledge:** A PM should be well-versed in Web3 applications. This includes hands-on experience with [DeFi protocols](/what-is-defi), collecting [NFTs](/what-are-nfts), and participating in [DAOs](/what-is-a-dao). Such experience is important for developing user empathy.
+2. **Technical Literacy:** While a PM does not need to be a [Solidity](/best-programming-languages-for-blockchain-development) engineer, understanding blockchain fundamentals is essential. Familiarity with the Ethereum Virtual Machine (EVM), smart contract security, and concepts like gas optimization is vital for effective communication with developers.
 
-2.
+3. **Tokenomics and Mechanism Design:** Many Web3 products function as micro-economies. PMs should know how to design incentive systems that promote desired behaviors, such as providing liquidity, while discouraging negative actions. A background in economics or game theory can enhance this capability.
 
-**Technical Literacy:** While a PM does not need to be a [Solidity](/best-programming-languages-for-blockchain-development) engineer, understanding blockchain fundamentals is essential. Familiarity with the Ethereum Virtual Machine (EVM), smart contract security, and concepts like gas optimization is vital for effective communication with developers.
-
-3.
-
-**Tokenomics and Mechanism Design:** Many Web3 products function as micro-economies. PMs should know how to design incentive systems that promote desired behaviors, such as providing liquidity, while discouraging negative actions. A background in economics or game theory can enhance this capability.
-
-4.
-
-**Exceptional Communication:** A significant portion of a PM's role involves public communication, whether in forums, community calls, or formal proposals. The ability to clearly convey complex technical and economic concepts to a diverse audience is important for building community engagement.
+4. **Exceptional Communication:** A significant portion of a PM's role involves public communication, whether in forums, community calls, or formal proposals. The ability to clearly convey complex technical and economic concepts to a diverse audience is important for building community engagement.
 
 ### A Day in the Life of a Web3 PM
 
@@ -59,16 +51,10 @@ The daily tasks of a Web3 PM vary but typically include a mix of community engag
 
 ### Steps to Become a Web3 Product Manager
 
-1.
+1. **Immerse Yourself:** Engage actively with the products you admire. Join their Discord channels, study their documentation, and participate in governance votes.
 
-**Immerse Yourself:** Engage actively with the products you admire. Join their Discord channels, study their documentation, and participate in governance votes.
+2. **Build Your Public [Portfolio](/building-web3-portfolio):** Create a detailed critique of an existing [DeFi](/what-is-defi) protocol. Analyze user behavior through a Dune Dashboard. Draft a mock proposal for a new feature. This public "proof of work" serves as a valuable resume.
 
-2.
-
-**Build Your Public [Portfolio](/building-web3-portfolio):** Create a detailed critique of an existing [DeFi](/what-is-defi) protocol. Analyze user behavior through a Dune Dashboard. Draft a mock proposal for a new feature. This public "proof of work" serves as a valuable resume.
-
-3.
-
-**Specialize:** The Web3 space is extensive. Focus on a niche, such as [NFT](/what-are-nfts) financialization, liquid staking derivatives, or [decentralized identity](/decentralized-identity-explained). Deep expertise in a specific area is highly regarded.
+3. **Specialize:** The Web3 space is extensive. Focus on a niche, such as [NFT](/what-are-nfts) financialization, liquid staking derivatives, or [decentralized identity](/decentralized-identity-explained). Deep expertise in a specific area is highly regarded.
 
 The role of the Web3 Product Manager is challenging yet rewarding. It moves beyond app development to designing economies, managing user-owned products, and contributing to the open, permissionless future of the internet.

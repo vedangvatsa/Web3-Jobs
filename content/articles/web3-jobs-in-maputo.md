@@ -49,21 +49,13 @@ The formal Web3 job market in Maputo is still nascent. Local talent should focus
 
 ### Building a Web3 Career in Maputo
 
-1.
+1. **Become a Community and Cultural Bridge:** Maputo's unique position allows individuals to use local artistic talent. Establish a [DAO](/what-is-a-dao) for Mozambican digital artists and create content that highlights the intersection of local culture and Web3. Position yourself as a key figure for those interested in the Mozambican creative scene.
 
-**Become a Community and Cultural Bridge:** Maputo's unique position allows individuals to use local artistic talent. Establish a [DAO](/what-is-a-dao) for Mozambican digital artists and create content that highlights the intersection of local culture and Web3. Position yourself as a key figure for those interested in the Mozambican creative scene.
+2. **Develop top-tier Remote Skills:** The most lucrative positions are remote. Concentrate on creating an exceptional GitHub [portfolio](/building-web3-portfolio) that competes globally. Enhance your asynchronous communication skills and professional English proficiency.
 
-2.
+3. **Serve as a Local Educator:** The growing market requires educators. Start a Web3 meetup group in Maputo and conduct workshops on NFT minting. Generate educational content in Portuguese. By teaching, you establish yourself as a leader.
 
-**Develop top-tier Remote Skills:** The most lucrative positions are remote. Concentrate on creating an exceptional GitHub [portfolio](/building-web3-portfolio) that competes globally. Enhance your asynchronous communication skills and professional English proficiency.
-
-3.
-
-**Serve as a Local Educator:** The growing market requires educators. Start a Web3 meetup group in Maputo and conduct workshops on NFT minting. Generate educational content in Portuguese. By teaching, you establish yourself as a leader.
-
-4.
-
-**Connect with Brazilian and Portuguese Ecosystems:** Engage with Web3 communities in Brazil and Portugal. The shared language provides a significant advantage. These connections can lead to mentorship, collaborations, and job opportunities.
+4. **Connect with Brazilian and Portuguese Ecosystems:** Engage with Web3 communities in Brazil and Portugal. The shared language provides a significant advantage. These connections can lead to mentorship, collaborations, and job opportunities.
 
 ### Salary Guide: Web3 Jobs in Maputo
 

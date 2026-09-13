@@ -137,25 +137,15 @@ As you advance in your career, the importance of these skills evolves:
 
 ## Common Development Mistakes
 
-1.
+1. **Studying Without Doing**: Acquiring theoretical knowledge without practical application leads to retention issues. Engage in building projects to reinforce learning.
 
-**Studying Without Doing**: Acquiring theoretical knowledge without practical application leads to retention issues. Engage in building projects to reinforce learning.
+2. **Neglecting Soft Skills**: Technical expertise is widespread; invest time in developing soft skills, as they are less common and highly sought after.
 
-2.
+3. **Not Seeking Feedback**: Blind spots hinder improvement. Actively seek feedback from mentors and colleagues to identify areas for growth.
 
-**Neglecting Soft Skills**: Technical expertise is widespread; invest time in developing soft skills, as they are less common and highly sought after.
+4. **Comparing Yourself to Others**: Your skill development journey is unique. Focus on your individual progress rather than comparing yourself to others.
 
-3.
-
-**Not Seeking Feedback**: Blind spots hinder improvement. Actively seek feedback from mentors and colleagues to identify areas for growth.
-
-4.
-
-**Comparing Yourself to Others**: Your skill development journey is unique. Focus on your individual progress rather than comparing yourself to others.
-
-5.
-
-**Expecting Rapid Mastery**: Genuine skill development takes time and consistent effort. adopt the learning process.
+5. **Expecting Rapid Mastery**: Genuine skill development takes time and consistent effort. adopt the learning process.
 
 ## Resources for Continued Learning
 

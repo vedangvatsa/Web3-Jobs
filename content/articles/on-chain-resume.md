@@ -36,20 +36,28 @@ Your on-chain resume tells a story through your public wallet address, ideally r
 
 ### Building Your On-Chain Resume
 
-Creating a strong on-chain resume requires intentional actions. It involves curating your public wallet to function as a professional [portfolio](/building-web3-portfolio).**1. Register an ENS Name:** Start by registering an ENS name for your primary wallet. This name acts as your Web3 username and is vital for your digital identity.**2. Engage Actively:**
+Creating a strong on-chain resume requires intentional actions. It involves curating your public wallet to function as a professional [portfolio](/building-web3-portfolio).
 
-- **-** Explore Various Protocols:**Go beyond the basics. Experiment with different Layer 2 solutions, dive into new DeFi protocols, or lend assets on a money market.
+**1. Register an ENS Name:** Start by registering an ENS name for your primary wallet. This name acts as your Web3 username and is vital for your digital identity.
+
+**2. Engage Actively:**
+
+- Explore Various Protocols:**Go beyond the basics. Experiment with different Layer 2 solutions, dive into new DeFi protocols, or lend assets on a money market.
 
 - **Participate in Governance:** This is a key indicator of your commitment. Even with a small number of tokens, voting on governance proposals demonstrates that you care about the protocols you use. Platforms like Tally simplify this process.
 
-- **Collect POAPs:** POAPs are NFT badges awarded to attendees of events, whether virtual or in-person. Having a collection of POAPs from significant conferences shows your engagement.**3. Maintain Separate Wallets:** It's beneficial to have distinct wallets for different purposes:
+- **Collect POAPs:** POAPs are NFT badges awarded to attendees of events, whether virtual or in-person. Having a collection of POAPs from significant conferences shows your engagement.
+
+**3. Maintain Separate Wallets:** It's beneficial to have distinct wallets for different purposes:
 - **"Resume" Wallet:** Your public-facing wallet linked to your ENS name should contain high-signal, professional activities.
 
 - **"Degen" Wallet:** Use a separate wallet for risky experiments or trading meme coins.
 
-- **"Vault":** Store your most valuable assets in a hardware wallet for security.**4. Highlight Your Contributions:**
+- **"Vault":** Store your most valuable assets in a hardware wallet for security.
 
-- **-** DAO Bounties:**Completing paid tasks for a DAO creates a public record of your contributions when payments go to your wallet.
+**4. Highlight Your Contributions:**
+
+- DAO Bounties:**Completing paid tasks for a DAO creates a public record of your contributions when payments go to your wallet.
 
 - **Gitcoin Grants:** Supporting public goods projects through Gitcoin Grants sends a strong signal about your commitment to the ecosystem's health.
 

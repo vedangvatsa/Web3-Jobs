@@ -109,21 +109,21 @@ The Miami job market exhibits a strong demand for finance, business development,
 
 **Operations / Project Management:**
 
-- **-** Operations Manager:**Competitive salary.
+- Operations Manager:**Competitive salary.
 - **Program Manager:** Competitive salary.
 
 ### Technical Roles **[Smart Contract Developer](/how-to-become-a-web3-smart-contract-developer) (DeFi Focus):**
 
-- **-** Mid-Level:**Competitive salary.
+- Mid-Level:**Competitive salary.
 - **Senior:** Competitive salary.
 
 **Full-Stack Web3 Engineer:**
 
-- **-** Senior:**Competitive salary.
+- Senior:**Competitive salary.
 
 **Infrastructure Engineer:**
 
-- **-** Senior:**Competitive salary.
+- Senior:**Competitive salary.
 
 Technical roles may offer slightly lower salaries than those in Austin or San Francisco, but business and finance roles generally pay more. Miami attracts technical talent through its appealing lifestyle, culture, and the chance to work on impactful finance projects.
 
@@ -179,7 +179,7 @@ In Miami, your personal brand can define your career.
 
 **Strategies to Build Your Brand:**
 
-- **-** Twitter:**Share insights about crypto, finance, or the local ecosystem.
+- Twitter:**Share insights about crypto, finance, or the local ecosystem.
 - **LinkedIn:** Position yourself professionally and network effectively.
 - **Public Speaking:** Present at meetups and conferences.
 - **Content Creation:** Write articles or newsletters to showcase expertise.
@@ -232,59 +232,39 @@ Many Miami-based companies offer remote positions. This flexibility allows indiv
 
 ### If You're Already in Miami
 
-1.
-
-**Start Attending Events Immediately**- Look for and attend a local crypto meetup this week.
+1. **Start Attending Events Immediately**- Look for and attend a local crypto meetup this week.
  - Register for upcoming conferences like Bitcoin Miami.
  - Make event attendance a regular part of your routine.
 
-2.
-
-**Build Your Personal Brand**- Begin tweeting about crypto topics relevant to Miami.
+2. **Build Your Personal Brand**- Begin tweeting about crypto topics relevant to Miami.
  - Share insights and engage with the Miami crypto community.
 
-3.
-
-**Network Strategically**- Identify key individuals to connect with.
+3. **Network Strategically**- Identify key individuals to connect with.
  - Attend events where these contacts will be present.
  - Follow up to develop relationships.
 
-4.
-
-**Target Specific Companies**- Research companies operating in Miami or those that might relocate.
+4. **Target Specific Companies**- Research companies operating in Miami or those that might relocate.
  - Network with employees at these firms while applying for positions.
 
 ### If You're Moving to Miami
 
-1.
+1. **Time Your Move for a Major Event**- Coordinate your arrival with the Bitcoin Miami conference or similar events for easy networking.
 
-**Time Your Move for a Major Event**- Coordinate your arrival with the Bitcoin Miami conference or similar events for easy networking.
-
-2.
-
-**Pre-Network Online**- Engage with Miami crypto Twitter and relevant Discord channels.
+2. **Pre-Network Online**- Engage with Miami crypto Twitter and relevant Discord channels.
  - Establish initial relationships before your arrival.
 
-3.
-
-**Hit the Ground Running**- Attend multiple events in your first month.
+3. **Hit the Ground Running**- Attend multiple events in your first month.
  - Be proactive about meeting new people.
 
 ### If You're Remote
 
-1.
-
-**Engage with the Miami Crypto Community Online**- Join the Miami Web3 Discord.
+1. **Engage with the Miami Crypto Community Online**- Join the Miami Web3 Discord.
  - Follow local founders and operators on social media.
 
-2.
-
-**Apply to Miami-Based Remote Positions**- Use AngelList to find job opportunities with Miami firms.
+2. **Apply to Miami-Based Remote Positions**- Use AngelList to find job opportunities with Miami firms.
  - Focus on companies that are explicitly involved in the crypto space.
 
-3.
-
-**Consider Temporary Relocation**- Spend a few months in Miami during key events to build in-person relationships.
+3. **Consider Temporary Relocation**- Spend a few months in Miami during key events to build in-person relationships.
  - Use this time to network before deciding on a permanent move.
 
 ## Salary Negotiation Strategies in Miami
@@ -318,7 +298,7 @@ The ecosystem is rapidly growing. Moving now allows you to build your network an
 
 **How does Miami compare to other crypto hubs?**
 
-- **-** Versus Austin:**Miami focuses more on finance and Latin America, while Austin has greater technical depth.
+- Versus Austin:**Miami focuses more on finance and Latin America, while Austin has greater technical depth.
 - **Versus San Francisco:** Miami offers better business roles and lifestyle benefits, while San Francisco excels in technical saturation and institutional presence.
 - **Versus Singapore:** Miami is more startup-centric, with greater capital availability, whereas Singapore is more regulated and institutional.
 - **Versus New York City:** Miami presents a friendlier environment for founders, while New York has a stronger traditional finance focus.

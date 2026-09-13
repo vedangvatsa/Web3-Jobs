@@ -45,17 +45,11 @@ A Web3 Marketing Strategist oversees a project's entire go-to-market strategy, e
 
 ### How to Build a Career in Web3 Marketing
 
-1.
-
-**Immerse Yourself in the Culture:** Understanding the culture is vital. Engage actively with [DeFi](/what-is-defi) and [NFTs](/what-are-nfts) while participating in target communities.
-2.
-
-**Develop a Public [Portfolio](/building-web3-portfolio):** Your "proof of work" serves as a strong resume.
+1. **Immerse Yourself in the Culture:** Understanding the culture is vital. Engage actively with [DeFi](/what-is-defi) and [NFTs](/what-are-nfts) while participating in target communities.
+2. **Develop a Public [Portfolio](/building-web3-portfolio):** Your "proof of work" serves as a strong resume.
  - Create a Twitter account or blog to analyze successful Web3 marketing strategies.
  - Draft a detailed go-to-market plan for a hypothetical project.
  - Design a meme that resonates within the community.
-3.
-
-**Engage with a [DAO](/what-is-a-dao):** Joining a marketing-focused guild in a DAO provides real-world, verifiable experience. This hands-on involvement is invaluable.
+3. **Engage with a [DAO](/what-is-a-dao):** Joining a marketing-focused guild in a DAO provides real-world, verifiable experience. This hands-on involvement is invaluable.
 
 A career as a Web3 Marketing Strategist offers the chance to shape the future of marketing. This field rewards creativity, community-building instincts, and a genuine passion for the decentralized ecosystem.

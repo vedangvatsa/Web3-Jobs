@@ -63,21 +63,11 @@ A successful CM possesses several key skills:
 
 Becoming a CM typically begins with active participation in a community.
 
-1.
-
-**Become a "Super-User":** Select a project that resonates with you and gain expertise in it.
-2.
-
-**Start Contributing:** Be proactive in answering questions and assisting newcomers within the community.
-3.
-
-**Become a Moderator:** Your contributions will lead to recognition and often result in a part-time or volunteer opportunity as a community moderator.
-4.
-
-**Transition to Full-Time CM:** Once you establish reliability and skill as a moderator, you can transition into a full-time Community Manager role.
-5.
-
-**Head of Community:** Experienced CMs can advance to leadership positions, overseeing a team of community managers and developing overall community strategy.
+1. **Become a "Super-User":** Select a project that resonates with you and gain expertise in it.
+2. **Start Contributing:** Be proactive in answering questions and assisting newcomers within the community.
+3. **Become a Moderator:** Your contributions will lead to recognition and often result in a part-time or volunteer opportunity as a community moderator.
+4. **Transition to Full-Time CM:** Once you establish reliability and skill as a moderator, you can transition into a full-time Community Manager role.
+5. **Head of Community:** Experienced CMs can advance to leadership positions, overseeing a team of community managers and developing overall community strategy.
 
 The Community Manager role poses challenges but offers significant rewards. Engaging with a project at its core allows you to build relationships and support a culture essential for success in the decentralized environment.
 
@@ -87,16 +77,16 @@ Operating a decentralized community requires familiarity with a specialized suit
 
 - **Discord Infrastructure:**
 
-- **-** Token Gating & Roles:**using tools like [Guild.xyz](https://guild.xyz) or Collab.Land to automatically assign Discord roles based on wallet balances, NFT holdings, or on-chain activity.
+- Token Gating & Roles:**using tools like [Guild.xyz](https://guild.xyz) or Collab.Land to automatically assign Discord roles based on wallet balances, NFT holdings, or on-chain activity.
  - **Server Security:** Hardening servers using verification bots (e.g., Wick Bot, Double Counter) to prevent raid bots and automated spam.
  - **Support Ticketing:** Integrating systems like Ticket Tool to handle user support queries privately and efficiently.
 - **Telegram Administration:**
 
-- **-** Moderation Bots:**Deploying Miss Rose Bot or Combot to filter out spam links, restrict new users from posting media immediately, and auto-delete malicious forwarders.
+- Moderation Bots:**Deploying Miss Rose Bot or Combot to filter out spam links, restrict new users from posting media immediately, and auto-delete malicious forwarders.
  - **Group Settings:** Managing permissions to temporarily mute the channel during high-stress market events or targeted attack campaigns.
 - **Governance Forums:**
 
-- **-** Discourse:**Structuring and maintaining Discourse forums for formal DAO proposals, tokenomics discussions, and structured community debate prior to on-chain voting on Snapshot.
+- Discourse:**Structuring and maintaining Discourse forums for formal DAO proposals, tokenomics discussions, and structured community debate prior to on-chain voting on Snapshot.
 
 ### Frontline Security & Anti-Phishing Protocols
 

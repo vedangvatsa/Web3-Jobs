@@ -21,12 +21,8 @@ This guide targets non-developers, including investors, collectors, and communit
 Start by locating the contract's address. Legitimate projects typically share this address through their official channels such as Discord, their website, or Twitter. Always use the official address to avoid scams; do not rely on links from DMs or random tweets.
 
 1. **Copy the Contract Address** from the official source.
-2.
-
-**Go to a Block Explorer:** For [Ethereum](/what-is-ethereum), use [Etherscan.io](https://etherscan.io). For other chains, find their respective explorer (e.g., Arbiscan for Arbitrum, Solscan for Solana).
-3.
-
-**Paste the Address** into the explorer's search bar.
+2. **Go to a Block Explorer:** For [Ethereum](/what-is-ethereum), use [Etherscan.io](https://etherscan.io). For other chains, find their respective explorer (e.g., Arbiscan for Arbitrum, Solscan for Solana).
+3. **Paste the Address** into the explorer's search bar.
 
 ### Step 2: Verify the Contract Code
 

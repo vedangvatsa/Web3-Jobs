@@ -44,7 +44,7 @@ Python stands as the dominant programming language in AI. Its straightforward sy
 
 **Best Resources**
 
-- **-** Codecademy's "Learn Python 3" Course**: An interactive course ideal for beginners.
+- Codecademy's "Learn Python 3" Course**: An interactive course ideal for beginners.
 - **"Python for Everybody" by the University of Michigan (available on Coursera or freeCodeCamp)**: A complete introduction that dives deeply into the fundamentals.
 - **"Python for Data Analysis" by Wes McKinney**: Authored by the creator of Pandas, this book serves as an essential resource for mastering data manipulation.
 
@@ -138,6 +138,8 @@ No. While advanced degrees can be beneficial, especially for research-oriented r
 
 #### 3. How can I gain experience without a job?
 
-Engaging in personal projects and contributing to open-source initiatives is vital. Your GitHub profile serves as proof of your experience. Participate in Kaggle competitions. Collaborate with non-profits needing data analysis assistance, or develop a new web application using an AI model you created. This practical experience is what will help you secure your first job.**4. Should I focus on TensorFlow or PyTorch?**
+Engaging in personal projects and contributing to open-source initiatives is vital. Your GitHub profile serves as proof of your experience. Participate in Kaggle competitions. Collaborate with non-profits needing data analysis assistance, or develop a new web application using an AI model you created. This practical experience is what will help you secure your first job.
+
+**4. Should I focus on TensorFlow or PyTorch?**
 
 Both frameworks are excellent choices. PyTorch currently enjoys greater popularity in research and is often easier for newcomers to learn. TensorFlow boasts a reliable production ecosystem. A good strategy is to master one framework deeply, likely PyTorch, while familiarizing yourself with the basics of the other.

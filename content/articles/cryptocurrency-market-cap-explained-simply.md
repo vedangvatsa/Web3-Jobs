@@ -16,7 +16,7 @@ When you examine cryptocurrency listings on platforms like CoinGecko or CoinMark
 
 Calculating market cap involves a simple formula:**Market Cap = Current Price of a single coin * Circulating Supply**
 
-- **-** Current Price:**This is the trading price of the cryptocurrency across exchanges.
+- Current Price:**This is the trading price of the cryptocurrency across exchanges.
 - **Circulating Supply:** This number reflects the total number of coins that have been issued and are available to the public.
 
 **Example Calculation:**
@@ -31,7 +31,7 @@ Market cap offers a more insightful metric for evaluating the relative sizes of 
 - **Understanding Real Value:** Supply plays an important role. Dogecoin has a circulating supply exceeding 140 billion coins, while XRP's circulating supply is approximately 55 billion.
  - **Dogecoin Market Cap:** 140 billion * $0.15 = **billions in value**
 
-- **-** XRP Market Cap:** 55 billion * $0.50 = **billions in value**- This analysis shows that XRP constitutes a larger network than Dogecoin, despite its higher per-coin price.
+- XRP Market Cap:** 55 billion * $0.50 = **billions in value**- This analysis shows that XRP constitutes a larger network than Dogecoin, despite its higher per-coin price.
 
 ### Categorization of Cryptocurrencies by Market Cap
 

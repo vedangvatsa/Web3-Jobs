@@ -179,22 +179,12 @@ Regularly assess your results. Are you achieving your goals? Be prepared to adju
 
 ### Common Mistakes to Avoid
 
-1.
+1. **Rushing the Development Process**: Sustainable change requires time. Patience is important.
 
-**Rushing the Development Process**: Sustainable change requires time. Patience is important.
+2. **Neglecting Feedback**: Input from colleagues and mentors can provide valuable insights you might overlook. Always listen to feedback.
 
-2.
+3. **One-Size-Fits-All Thinking**: Tailor strategies to fit your unique context. What works for others may not be effective for you.
 
-**Neglecting Feedback**: Input from colleagues and mentors can provide valuable insights you might overlook. Always listen to feedback.
+4. **Quitting Too Soon**: Change often involves discomfort. Persistence through initial challenges leads to better outcomes.
 
-3.
-
-**One-Size-Fits-All Thinking**: Tailor strategies to fit your unique context. What works for others may not be effective for you.
-
-4.
-
-**Quitting Too Soon**: Change often involves discomfort. Persistence through initial challenges leads to better outcomes.
-
-5.
-
-**Failing to Track Progress**: You cannot improve without metrics. Keep a close eye on your development.
+5. **Failing to Track Progress**: You cannot improve without metrics. Keep a close eye on your development.

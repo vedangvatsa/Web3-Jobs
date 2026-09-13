@@ -90,24 +90,14 @@ As [DAOs](/what-is-a-dao) and Web3 startups grow, they require organized, strate
 
 Without code contributions to showcase on GitHub, your portfolio should consist of public contributions reflecting your skills and passion.
 
-1.
+1. **Immerse Yourself:** Become a user of Web3 technologies. Engage with [DeFi](/what-is-defi), purchase an [NFT](/what-are-nfts), or join a DAO to gain firsthand experience.
 
-**Immerse Yourself:** Become a user of Web3 technologies. Engage with [DeFi](/what-is-defi), purchase an [NFT](/what-are-nfts), or join a DAO to gain firsthand experience.
+2. **Act as a Scribe or Analyst:** Identify a project you admire and participate in community calls. Provide detailed summaries of discussions on their Discord or governance forum, which will draw attention to your contributions.
 
-2.
+3. **Create Public Content:** Start a blog on platforms like Mirror or Substack, or create a series of Twitter threads explaining complex Web3 topics in simple terms to demonstrate your communication skills.
 
-**Act as a Scribe or Analyst:** Identify a project you admire and participate in community calls. Provide detailed summaries of discussions on their Discord or governance forum, which will draw attention to your contributions.
+4. **Develop a Dune Dashboard:** If you possess data analysis skills, learn basic SQL and create a dashboard using Dune Analytics to monitor a protocol's key metrics.
 
-3.
-
-**Create Public Content:** Start a blog on platforms like Mirror or Substack, or create a series of Twitter threads explaining complex Web3 topics in simple terms to demonstrate your communication skills.
-
-4.
-
-**Develop a Dune Dashboard:** If you possess data analysis skills, learn basic SQL and create a dashboard using Dune Analytics to monitor a protocol's key metrics.
-
-5.
-
-**Join a DAO and Contribute:** This is one of the most effective ways to secure a position. Find a [DAO](/the-rise-of-daos) that matches your skills, join a working group, and undertake small tasks or "bounties" for verifiable, on-chain experience.
+5. **Join a DAO and Contribute:** This is one of the most effective ways to secure a position. Find a [DAO](/the-rise-of-daos) that matches your skills, join a working group, and undertake small tasks or "bounties" for verifiable, on-chain experience.
 
 The Web3 sector needs professionals from non-technical backgrounds. By immersing yourself in the culture, adapting your skills, and curating a public portfolio of your contributions, you can prepare for a fulfilling career.

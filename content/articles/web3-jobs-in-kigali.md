@@ -43,33 +43,25 @@ The Web3 job market in Kigali is in its infancy but is expected to grow rapidly 
 
 ### Strategies for Building a Web3 Career in Kigali
 
-1.
+1. **Align with National Vision**: The tech scene in Kigali aligns closely with Rwanda's national development strategy. In your [portfolio](/building-web3-portfolio) and interviews, emphasize how Web3 technology can address governance, finance, and logistics challenges. This demonstrates an understanding of local priorities.
 
-**Align with National Vision**: The tech scene in Kigali aligns closely with Rwanda's national development strategy. In your [portfolio](/building-web3-portfolio) and interviews, emphasize how Web3 technology can address governance, finance, and logistics challenges. This demonstrates an understanding of local priorities.
+2. **Engage with Kigali Innovation City**: This hub is central to Kigali's tech ecosystem. Getting involved with companies, incubators, and academic institutions in the Innovation City will help you connect with key players in the Web3 space.
 
-2.
+3. **Acquire Enterprise Skills**: While public blockchains are significant, many opportunities in Kigali will focus on enterprise solutions. Familiarizing yourself with permissioned blockchain frameworks, such as Hyperledger Fabric, can enhance your employability.
 
-**Engage with Kigali Innovation City**: This hub is central to Kigali's tech ecosystem. Getting involved with companies, incubators, and academic institutions in the Innovation City will help you connect with key players in the Web3 space.
-
-3.
-
-**Acquire Enterprise Skills**: While public blockchains are significant, many opportunities in Kigali will focus on enterprise solutions. Familiarizing yourself with permissioned blockchain frameworks, such as Hyperledger Fabric, can enhance your employability.
-
-4.
-
-**Adopt a Pan-African Perspective**: Position yourself as a candidate who can contribute to projects across the continent. Highlight any cross-border experience or language skills that would benefit regional initiatives.
+4. **Adopt a Pan-African Perspective**: Position yourself as a candidate who can contribute to projects across the continent. Highlight any cross-border experience or language skills that would benefit regional initiatives.
 
 ### Salary & Compensation Insights
 
 **Developer Track:**
 
-- **-** Junior Developer (0-1 year)**: RWF 1,000,000 - 1,500,000/month
+- Junior Developer (0-1 year)**: RWF 1,000,000 - 1,500,000/month
 - **Mid-Level Developer (1-3 years)**: RWF 1,800,000 - 3,200,000/month
 - **Senior Developer (3+ years)**: RWF 3,500,000 - 5,500,000+/month
 
 **Product & Strategy:**
 
-- **-** Product Manager**: RWF 2,500,000 - 4,500,000/month
+- Product Manager**: RWF 2,500,000 - 4,500,000/month
 - **Business Development**: RWF 2,000,000 - 4,000,000/month
 - **Enterprise Solutions Architect**: RWF 3,500,000 - 5,500,000+/month
 
@@ -86,21 +78,21 @@ The Web3 job market in Kigali is in its infancy but is expected to grow rapidly 
 
 **Path 1: Enterprise Blockchain Engineer (10-16 months)**
 
-- **-** Months 1-3**: Build a foundation in Solidity and Hyperledger, completing a relevant course (20-25 hours/week).
+- Months 1-3**: Build a foundation in Solidity and Hyperledger, completing a relevant course (20-25 hours/week).
 - **Months 4-6**: Develop two projects centered on governance and supply chain tracking while studying Rwanda's digital transformation (25-30 hours/week).
 - **Months 7-10**: Network extensively within Kigali Innovation City and propose pilot projects (1-2 consulting contracts).
 - **Months 11-16**: Secure a full-time role in a startup or international company in Kigali, aiming for a competitive salary.
 
 **Path 2: Pan-African GovTech Strategist (12-18 months)**
 
-- **-** Months 1-4**: Conduct research on blockchain governance initiatives across Africa, interviewing officials and studying relevant systems (15-20 hours/week).
+- Months 1-4**: Conduct research on blockchain governance initiatives across Africa, interviewing officials and studying relevant systems (15-20 hours/week).
 - **Months 5-8**: Publish a framework on "Blockchain for African Governance" and build a social media presence (20-25 hours/week).
 - **Months 9-12**: Secure funding through grants and partnerships.
 - **Months 13-18**: Lead a government blockchain project, building a regional team.
 
 **Path 3: Ecosystem Builder & Education Leader (6-12 months)**
 
-- **-** Months 1-2**: Establish a strategy focusing on enterprise blockchain or pan-African tech (10-12 hours/week).
+- Months 1-2**: Establish a strategy focusing on enterprise blockchain or pan-African tech (10-12 hours/week).
 - **Months 3-6**: Build a community around blockchain for development and organize meetups (15-20 hours/week).
 - **Months 7-9**: Monetize your efforts through masterclasses or community roles.
 - **Months 10-12**: Expand your influence and become a recognized voice in the African Web3 space.

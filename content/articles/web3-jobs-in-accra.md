@@ -61,7 +61,7 @@ The demand for Web3 talent in Accra is on the rise, especially for developers an
 
 **Months 1-3: [Learn Web3](/from-web2-to-web3-developer-career-guide) + NFT Mechanics**
 
-- **-** Weeks 1-2:**Set up [GitHub](/building-web3-portfolio), Twitter, and LinkedIn; focus on learning smart contracts, particularly NFT standards like ERC-721 and ERC-1155.
+- Weeks 1-2:**Set up [GitHub](/building-web3-portfolio), Twitter, and LinkedIn; focus on learning smart contracts, particularly NFT standards like ERC-721 and ERC-1155.
 - **Weeks 3-4:** Develop three simple NFT projects: a basic token, an NFT collection, and a marketplace.
 - **Month 2:** Engage with Accra's artist community to understand their needs.
 - **Month 3:** Launch your first NFT project, either by creating the technical infrastructure or as an artist.

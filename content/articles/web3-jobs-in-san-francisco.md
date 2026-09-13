@@ -48,19 +48,13 @@ The San Francisco Bay Area commands some of the highest salaries for Web3 positi
  - **Contribute to Core Protocols:** Demonstrating a history of significant contributions to major open-source Web3 projects, such as an L1/L2 client or a core [DeFi](/what-is-defi) protocol, will enhance your profile.
  - **Publish Research:** Writing and sharing in-depth technical articles or academic papers on topics like consensus mechanisms or ZK-proofs showcases your expertise.
 
-2.
-
-**Engage with the Community:** The Bay Area's Web3 scene is interconnected. Establishing relationships with key researchers and developers at leading protocols and VC firms is vital.
+2. **Engage with the Community:** The Bay Area's Web3 scene is interconnected. Establishing relationships with key researchers and developers at leading protocols and VC firms is vital.
  - **Attend Technical Meetups:** Participate in specialized meetups and seminars organized by protocols and academic groups.
  - **Build a Strong Online Presence:** Actively engage with thought leaders in the field on Twitter, where much of the technical discourse occurs.
 
-3.
+3. **Think in Terms of Systems:** Focus on building complete systems and economies. Showcase your ability to consider game theory, economic incentives, and long-term protocol security beyond the implementation of individual smart contracts.
 
-**Think in Terms of Systems:** Focus on building complete systems and economies. Showcase your ability to consider game theory, economic incentives, and long-term protocol security beyond the implementation of individual smart contracts.
-
-4.
-
-**Adopt a Founder's Mentality:** The startup culture in the Bay Area expects employees to take ownership and initiative. Demonstrating a drive to create substantial projects will align you with this mindset.
+4. **Adopt a Founder's Mentality:** The startup culture in the Bay Area expects employees to take ownership and initiative. Demonstrating a drive to create substantial projects will align you with this mindset.
 
 ### Securing a Web3 Job in the Bay Area
 

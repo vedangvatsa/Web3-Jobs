@@ -21,7 +21,7 @@ Public blockchains represent the original and most recognized form of blockchain
 - **Definition:** Anyone worldwide can join the network, access the ledger, submit transactions, and engage in the consensus process, such as becoming a miner or validator.
 - **Key Characteristics:**
 
-- **-** Fully Decentralized:**No single entity holds control.
+- Fully Decentralized:**No single entity holds control.
  - **Permissionless:** No authorization is necessary to join or use the network.
  - **Transparent:** All transactions are publicly accessible.
  - **High Censorship Resistance:** It is extremely difficult for any party to impede valid transactions.
@@ -35,7 +35,7 @@ Private blockchains, also known as permissioned blockchains, operate as closed n
 - **Definition:** A central authority dictates who can be a node, who can view the ledger, and who can submit transactions. It functions as a closed, members-only system.
 - **Key Characteristics:**
 
-- **-** Centralized:**Controlled by one entity.
+- Centralized:**Controlled by one entity.
  - **Permissioned:** Membership and participation require approval.
  - **Private:** The data remains confidential and is not publicly visible.
  - **High Performance:** Due to a limited and known number of nodes, private blockchains can process transactions significantly faster than public blockchains.
@@ -49,7 +49,7 @@ Consortium blockchains blend elements of both public and private models. They ar
 - **Definition:** A consortium of companies, such as a group of banks or logistics firms, collaborates to manage a shared blockchain. They collectively establish rules and determine participant eligibility.
 - **Key Characteristics:**
 
-- **-** Partially Decentralized:**Control is distributed among a known set of participants.
+- Partially Decentralized:**Control is distributed among a known set of participants.
  - **Permissioned:** Requires consortium approval to join.
  - **Visibility Varies:** The ledger may be publicly accessible or restricted to consortium members.
  - **Good Performance:** Faster than public blockchains but more decentralized than private ones.

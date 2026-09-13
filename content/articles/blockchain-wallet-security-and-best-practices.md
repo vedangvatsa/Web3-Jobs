@@ -58,26 +58,12 @@ Cold wallets, or hardware wallets, are physical devices that keep your private k
 
 Adopting sound security habits is critical for safeguarding your assets.
 
-1.
-
-**Use a Hardware Wallet:** This is the most effective method to enhance your security.
-2.
-
-**Bookmark Important Websites:** Always access decentralized applications (dApps) through your bookmarks to avoid phishing sites.
-3.
-
-**Be Cautious of [Airdrops](/understanding-airdrop-campaigns-in-web3) and Free Mints:** If an offer seems too good to be true, it likely is.
-4.
-
-**Examine What You Sign:** When prompted to sign a transaction, review the permissions you are granting.
-5.
-
-**Revoke Unnecessary Approvals:** Regularly use tools like Revoke.cash to cancel outdated [smart contract](/what-are-smart-contracts) approvals.
-6.
-
-**Isolate Your Browsing:** Use a separate browser for crypto activities to enhance security.
-7.
-
-**Never Share Your Private Keys or Seed Phrase:** This is a fundamental rule in crypto security.
+1. **Use a Hardware Wallet:** This is the most effective method to enhance your security.
+2. **Bookmark Important Websites:** Always access decentralized applications (dApps) through your bookmarks to avoid phishing sites.
+3. **Be Cautious of [Airdrops](/understanding-airdrop-campaigns-in-web3) and Free Mints:** If an offer seems too good to be true, it likely is.
+4. **Examine What You Sign:** When prompted to sign a transaction, review the permissions you are granting.
+5. **Revoke Unnecessary Approvals:** Regularly use tools like Revoke.cash to cancel outdated [smart contract](/what-are-smart-contracts) approvals.
+6. **Isolate Your Browsing:** Use a separate browser for crypto activities to enhance security.
+7. **Never Share Your Private Keys or Seed Phrase:** This is a fundamental rule in crypto security.
 
 Safely managing Web3 entails a shift in perspective. You must cultivate a healthy skepticism and diligence. By grasping the tools at your disposal and adopting simple yet effective security habits, you can protect yourself against most threats while exploring the decentralized application ecosystem.

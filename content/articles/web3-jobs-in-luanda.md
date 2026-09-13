@@ -50,23 +50,15 @@ The Web3 job market in Luanda is still limited, with opportunities primarily for
 
 ### Building a Web3 Career in Luanda
 
-1.
-
-**Become a Community Leader:** The emerging ecosystem provides a unique chance to be a founding member.
+1. **Become a Community Leader:** The emerging ecosystem provides a unique chance to be a founding member.
  - **Organize Meetups:** Initiate regular Web3 developer or enthusiast meetups in Luanda.
  - **Create Portuguese Content:** Launch a blog, YouTube channel, or Telegram group that explains Web3 topics in Portuguese, tailored to the Angolan audience. This will position you as a thought leader.
 
-2.
+2. **Focus on Relevant Use Cases:** Concentrate on developing solutions for Angola's key industries in your projects and learning efforts. Build a [portfolio](/building-web3-portfolio) that highlights your ability to address real-world challenges in finance or logistics using blockchain.
 
-**Focus on Relevant Use Cases:** Concentrate on developing solutions for Angola's key industries in your projects and learning efforts. Build a [portfolio](/building-web3-portfolio) that highlights your ability to address real-world challenges in finance or logistics using blockchain.
+3. **Develop a Global Skillset:** The most lucrative positions will likely be remote. Cultivate high-level technical skills such as [Solidity](/best-programming-languages-for-blockchain-development) and Rust, along with strong written English communication abilities. A strong GitHub profile will enhance your visibility in the global job market.
 
-3.
-
-**Develop a Global Skillset:** The most lucrative positions will likely be remote. Cultivate high-level technical skills such as [Solidity](/best-programming-languages-for-blockchain-development) and Rust, along with strong written English communication abilities. A strong GitHub profile will enhance your visibility in the global job market.
-
-4.
-
-**Engage with Brazilian and Portuguese Ecosystems:** Use the common language to connect with more developed Web3 communities in Brazil and Portugal. This network can provide valuable insights, collaborations, and job opportunities.
+4. **Engage with Brazilian and Portuguese Ecosystems:** Use the common language to connect with more developed Web3 communities in Brazil and Portugal. This network can provide valuable insights, collaborations, and job opportunities.
 
 ### Salary Overview: Web3 Roles in Luanda
 
@@ -155,29 +147,19 @@ The cost of living in Luanda is among the highest in Africa, with estimates of s
 
 ### Challenges and Solutions
 
-1.
-
-**Regulatory Ambiguity:** The Central Bank of Angola has not clearly defined the status of cryptocurrencies, which poses risks.
+1. **Regulatory Ambiguity:** The Central Bank of Angola has not clearly defined the status of cryptocurrencies, which poses risks.
  - **Solution:** Engage in compliant remote work with international companies while avoiding unlicensed schemes. Position yourself as a legitimate expert as regulations evolve.
 
-2.
-
-**Inflation and Currency Devaluation:** The Angolan Kwanza is subject to significant inflation.
+2. **Inflation and Currency Devaluation:** The Angolan Kwanza is subject to significant inflation.
  - **Solution:** Focus on remote work to earn in stable currencies, hedging against local economic instability. Saving in USD or stablecoins will help maintain your wealth.
 
-3.
-
-**Tech Infrastructure Limitations:** Internet reliability can be inconsistent.
+3. **Tech Infrastructure Limitations:** Internet reliability can be inconsistent.
  - **Solution:** Work in distributed teams that function asynchronously. Use cloud services and have backup plans, ensuring your operations are resilient.
 
-4.
-
-**Small Local Market:** The Web3 ecosystem in Luanda is still developing.
+4. **Small Local Market:** The Web3 ecosystem in Luanda is still developing.
  - **Solution:** Compete on a global scale through remote work, allowing you to build valuable skills and wealth more rapidly than in local contexts.
 
-5.
-
-**Lack of Networking Opportunities:** Mentorship can be harder to find locally.
+5. **Lack of Networking Opportunities:** Mentorship can be harder to find locally.
  - **Solution:** Use online platforms to build your network. Engage with developers through open-source projects and participate in global communities.
 
 ### 90-Day Quick-Start Action Plan

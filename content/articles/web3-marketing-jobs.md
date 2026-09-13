@@ -42,29 +42,17 @@ The traditional marketing funnel, Awareness, Interest, Decision, Action, transfo
 
 The marketing team within a Web3 project consists of various specialized roles.
 
-1.
+1. **Community Manager:** This role is vital for building an engaged and welcoming environment on platforms like Discord and Telegram. Community Managers serve as the first line of defense and the heartbeat of the community.
 
-**Community Manager:** This role is vital for building an engaged and welcoming environment on platforms like Discord and Telegram. Community Managers serve as the first line of defense and the heartbeat of the community.
+2. **Content Marketer / Strategist:** These professionals craft blog posts, documentation, and Twitter threads that articulate the project's vision and technology, simplifying complex concepts for the audience.
 
-2.
+3. **Social Media Manager (Twitter Guru):** Twitter serves as the primary communication hub for Web3. This role requires expertise in the platform, engagement in broader conversations, relationship-building with influencers, and creative meme production.
 
-**Content Marketer / Strategist:** These professionals craft blog posts, documentation, and Twitter threads that articulate the project's vision and technology, simplifying complex concepts for the audience.
+4. **Growth Marketer / Biz-Dev:** This position centers on developing partnerships and integrations with other Web3 projects, often focusing on B2B2C strategies to tap into existing user bases.
 
-3.
+5. **Product Marketing Manager (PMM):** PMMs bridge product and engineering teams with the market. They define messaging, positioning, and go-to-market strategies for new features and products.
 
-**Social Media Manager (Twitter Guru):** Twitter serves as the primary communication hub for Web3. This role requires expertise in the platform, engagement in broader conversations, relationship-building with influencers, and creative meme production.
-
-4.
-
-**Growth Marketer / Biz-Dev:** This position centers on developing partnerships and integrations with other Web3 projects, often focusing on B2B2C strategies to tap into existing user bases.
-
-5.
-
-**Product Marketing Manager (PMM):** PMMs bridge product and engineering teams with the market. They define messaging, positioning, and go-to-market strategies for new features and products.
-
-6.
-
-**Head of Marketing / CMO:** The CMO orchestrates all marketing efforts, defining the brand narrative, managing the budget, often sourced from a [DAO](/what-is-a-dao)-governed treasury, and ensuring alignment across initiatives.
+6. **Head of Marketing / CMO:** The CMO orchestrates all marketing efforts, defining the brand narrative, managing the budget, often sourced from a [DAO](/what-is-a-dao)-governed treasury, and ensuring alignment across initiatives.
 
 ### How to Get Hired: Your Proof-of-Work Portfolio
 

@@ -66,9 +66,7 @@ Here is an overview of in-demand positions along with their salary ranges:
 
 #### Path 1: DeFi/FinTech Developer (8-16 Month Timeline)
 
-1.
-
-**Months 1-4: Understand the FinTech Sector**- Research Nigeria's financial challenges, including currency restrictions and P2P crypto adoption.
+1. **Months 1-4: Understand the FinTech Sector**- Research Nigeria's financial challenges, including currency restrictions and P2P crypto adoption.
  - Learn about smart contracts and FinTech architecture.
  - Build three projects focused on local issues:
  - P2P currency exchange dApp
@@ -76,22 +74,16 @@ Here is an overview of in-demand positions along with their salary ranges:
  - [Yield farming](/what-is-yield-farming) aggregator
  - **Deliverable:** Three GitHub repositories, 500+ Twitter followers, and a published article on Nigerian FinTech.
 
-2.
-
-**Months 5-9: Develop a Commercial Portfolio**- Create a production remittance dApp.
+2. **Months 5-9: Develop a Commercial Portfolio**- Create a production remittance dApp.
  - Build a yield farming tool for Nigerian users.
  - Obtain 1-2 freelance contracts on Upwork from local startups.
  - Publish research on the importance of DeFi for Nigeria.
  - **Deliverable:** Five projects, 1-2 paid contracts, and 2,000+ Twitter followers.
 
-3.
-
-**Months 10-14: Secure a Senior Remote Role**- Target DeFi protocols and FinTech companies focused on Africa.
+3. **Months 10-14: Secure a Senior Remote Role**- Target DeFi protocols and FinTech companies focused on Africa.
  - **Expected Offer:** Competitive.
 
-4.
-
-**Months 15-16: Transition to Leadership**- Move into senior engineering or team lead roles, specializing in emerging markets FinTech.
+4. **Months 15-16: Transition to Leadership**- Move into senior engineering or team lead roles, specializing in emerging markets FinTech.
  - **Expected Compensation:** Competitive.
 
 **Quick Wins:**- Consult for Nigerian startups at competitive rates.
@@ -100,27 +92,19 @@ Here is an overview of in-demand positions along with their salary ranges:
 
 #### Path 2: Growth/Community Lead (6-12 Month Timeline)
 
-1.
-
-**Months 1-3: Master the Local Ecosystem**- Attend meetups and network with key players.
+1. **Months 1-3: Master the Local Ecosystem**- Attend meetups and network with key players.
  - Analyze successful protocols and their entry into Nigeria.
  - **Deliverable:** Build relationships with 50+ individuals and complete a market analysis.
 
-2.
-
-**Months 4-6: Establish Proof of Work**- Launch a "Web3 Lagos" meetup or [DAO](/what-is-a-dao).
+2. **Months 4-6: Establish Proof of Work**- Launch a "Web3 Lagos" meetup or [DAO](/what-is-a-dao).
  - Create a YouTube channel focused on African Web3.
  - Conduct research on adoption and market opportunities.
  - **Deliverable:** Active community engagement and published research.
 
-3.
-
-**Months 7-10: Monetize Leadership**- Approach protocols for leadership roles in Nigeria/West Africa.
+3. **Months 7-10: Monetize Leadership**- Approach protocols for leadership roles in Nigeria/West Africa.
  - **Expected Offer:** Competitive.
 
-4.
-
-**Months 11-12: Formalize Your Role**- Secure a full-time growth/business development position.
+4. **Months 11-12: Formalize Your Role**- Secure a full-time growth/business development position.
  - **Expected Compensation:** Competitive or equity.
 
 **Quick Wins:**- Establish ambassador programs for major protocols.
@@ -128,27 +112,19 @@ Here is an overview of in-demand positions along with their salary ranges:
 
 #### Path 3: Community Organizer & Technical Educator (6-12 Month Timeline)
 
-1.
-
-**Months 1-3: Build Communities**- Launch regular meetups in Lagos.
+1. **Months 1-3: Build Communities**- Launch regular meetups in Lagos.
  - Develop an educational program: "12-Week Web3 Bootcamp."
  - **Deliverable:** 30+ regular attendees and 1,000+ Twitter followers.
 
-2.
-
-**Months 4-6: Monetize Teaching**- Start a paid bootcamp with a cohort of students.
+2. **Months 4-6: Monetize Teaching**- Start a paid bootcamp with a cohort of students.
  - Explore freelance coaching opportunities.
  - **Expected Income:** Competitive from education.
 
-3.
-
-**Months 7-10: Scale Your Education Business**- Transition to online bootcamps, reaching larger audiences.
+3. **Months 7-10: Scale Your Education Business**- Transition to online bootcamps, reaching larger audiences.
  - Partner with protocols for sponsorships.
  - **Expected Compensation:** Competitive.
 
-4.
-
-**Months 11-12: Formalize Your Role**- Shift to a full-time education or community lead position.
+4. **Months 11-12: Formalize Your Role**- Shift to a full-time education or community lead position.
  - **Expected Compensation:** Competitive or equity.
 
 **Quick Wins:**- Secure grants for educational initiatives.

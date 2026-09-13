@@ -31,21 +31,13 @@ Zuckerberg's public statements illustrate a specific, often contradictory stance
 
 Meta has launched several Web3 initiatives that reflect its commitment to the metaverse:
 
-1.
+1. **NFTs on Instagram & Facebook:** Meta has introduced features allowing users to connect their [crypto wallets](/how-to-choose-a-crypto-wallet) (like MetaMask or Rainbow) and display their owned NFTs. This initiative serves as an entry point for mainstream users to engage with digital collectibles.
 
-**NFTs on Instagram & Facebook:** Meta has introduced features allowing users to connect their [crypto wallets](/how-to-choose-a-crypto-wallet) (like MetaMask or Rainbow) and display their owned NFTs. This initiative serves as an entry point for mainstream users to engage with digital collectibles.
+2. **Horizon Worlds:** This is Meta's flagship social VR platform. The company is experimenting with in-world economies where creators can sell virtual items and grant access to exclusive spaces.
 
-2.
+3. **Avatars:** Meta has invested significantly in a universal avatar system that users can customize and use across its suite of apps (Facebook, Instagram, Messenger, and VR). The company plans to sell digital clothing and accessories for these avatars, potentially as NFTs.
 
-**Horizon Worlds:** This is Meta's flagship social VR platform. The company is experimenting with in-world economies where creators can sell virtual items and grant access to exclusive spaces.
-
-3.
-
-**Avatars:** Meta has invested significantly in a universal avatar system that users can customize and use across its suite of apps (Facebook, Instagram, Messenger, and VR). The company plans to sell digital clothing and accessories for these avatars, potentially as NFTs.
-
-4.
-
-**Diem (formerly Libra):** Although the project was ultimately abandoned due to regulatory pressures, Diem marked Meta's initial foray into digital currencies. Its failure provided insights into the challenges of disrupting the existing financial system.
+4. **Diem (formerly Libra):** Although the project was ultimately abandoned due to regulatory pressures, Diem marked Meta's initial foray into digital currencies. Its failure provided insights into the challenges of disrupting the existing financial system.
 
 ### The Community's Reaction: Skepticism and Opportunity
 

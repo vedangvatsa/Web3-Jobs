@@ -48,24 +48,16 @@ The job market in Denver is particularly strong for technical roles, especially 
 
 ### Strategies for Building a Web3 Career in Denver
 
-1.
-
-**Make ETHDenver Your Priority**: This event is the cornerstone of the Denver ecosystem. Attending is essential.
+1. **Make ETHDenver Your Priority**: This event is the cornerstone of the Denver ecosystem. Attending is essential.
  - **Participate in the Hackathon**: Engaging in the hackathon allows you to connect with fellow builders, learn new skills, and attract the attention of hiring companies.
  - **Volunteer**: Offering your time as a volunteer provides a unique perspective on the event and helps you network with organizers and influential community members.
  - **Intentional Networking**: Take advantage of the "hallway track." Attend side events and parties to establish meaningful connections.
 
-2.
+2. **Engage with a DAO**: The Denver scene centers around DAOs. Find one that aligns with your values, such as Gitcoin, and become an active member. Participate in governance discussions and take on bounties to demonstrate your commitment.
 
-**Engage with a DAO**: The Denver scene centers around DAOs. Find one that aligns with your values, such as Gitcoin, and become an active member. Participate in governance discussions and take on bounties to demonstrate your commitment.
+3. **Contribute to Open Source Projects**: The community appreciates builders. By contributing to open-source Web3 projects on [GitHub](/building-web3-portfolio), you can effectively showcase your skills and dedication.
 
-3.
-
-**Contribute to Open Source Projects**: The community appreciates builders. By contributing to open-source Web3 projects on [GitHub](/building-web3-portfolio), you can effectively showcase your skills and dedication.
-
-4.
-
-**Attend Local Meetups**: Regular attendance at Ethereum and Web3 meetups is vital for integrating into the community. These gatherings offer excellent opportunities for collaboration and job searching.
+4. **Attend Local Meetups**: Regular attendance at Ethereum and Web3 meetups is vital for integrating into the community. These gatherings offer excellent opportunities for collaboration and job searching.
 
 ### Finding Your Web3 Job in Denver
 

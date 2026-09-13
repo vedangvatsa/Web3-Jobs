@@ -42,9 +42,7 @@ For Python developers aiming to enter the Web3 space, your existing skills are n
  print(w3.eth.block_number)
  ```
 
-2.
-
-**Reading On-Chain Data**: Gather information about accounts and contracts using `Web3.py`.
+2. **Reading On-Chain Data**: Gather information about accounts and contracts using `Web3.py`.
 
  ```python
  # Get the ETH balance of a wallet
@@ -52,9 +50,7 @@ For Python developers aiming to enter the Web3 space, your existing skills are n
  print(w3.from_wei(balance, "ether"))
  ```
 
-3.
-
-**Interacting with Smart Contracts**: To engage with a smart contract, you will need its address and its
+3. **Interacting with Smart Contracts**: To engage with a smart contract, you will need its address and its
 
 **ABI**(Application Binary Interface). The ABI is a JSON file outlining the contract's functions.
 
@@ -75,9 +71,7 @@ For Python developers aiming to enter the Web3 space, your existing skills are n
  print(w3.from_wei(vitalik_balance, "ether"))
  ```
 
-4.
-
-**Sending Transactions**: To send a transaction that alters the blockchain state (such as transferring [tokens](/what-is-a-token)), a private key is required to sign the transaction.
+4. **Sending Transactions**: To send a transaction that alters the blockchain state (such as transferring [tokens](/what-is-a-token)), a private key is required to sign the transaction.
 
 **Avoid hardcoding a private key directly in your script**. Instead, use environment variables or a secure key management system.
 

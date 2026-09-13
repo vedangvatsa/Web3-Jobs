@@ -30,12 +30,8 @@ You should be the undisputed expert on the topic you are presenting. This does n
 
 A well-structured presentation is easier for you to remember and easier for your audience to follow. A classic and effective structure is:
 1. **The Opening (Tell them what you're going to tell them):** Grab their attention and state the purpose of your presentation.
-2.
-
-**The Body (Tell them):** Present your main points in a logical sequence. A good rule of thumb is to have no more than three main points.
-3.
-
-**The Closing (Tell them what you told them):** Summarize your key messages and end with a clear call to action or a memorable final thought.
+2. **The Body (Tell them):** Present your main points in a logical sequence. A good rule of thumb is to have no more than three main points.
+3. **The Closing (Tell them what you told them):** Summarize your key messages and end with a clear call to action or a memorable final thought.
 
 ### Practice, Practice, Practice (The Right Way)
 
@@ -56,7 +52,7 @@ Even with great preparation, you will likely still feel nervous. Here are techni
 - **Visualize Success:** Spend a few minutes each day in the week leading up to your presentation visualizing yourself giving a successful, confident presentation. Imagine the audience nodding along and applauding at the end. This can help create a positive mental feedback loop.
 - **Use Physical Relaxation Techniques:**
 
-- **-** Deep Breathing:**In the minutes before you speak, take several slow, deep breaths. Inhale for four counts, hold for four counts, and exhale for six counts. This calms your nervous system.
+- Deep Breathing:**In the minutes before you speak, take several slow, deep breaths. Inhale for four counts, hold for four counts, and exhale for six counts. This calms your nervous system.
  - **Power Posing:** Find a private space (like a bathroom stall) and stand in a "power pose" for two minutes (e.g., stand tall with your hands on your hips, like a superhero). Research by social psychologist Amy Cuddy has shown that this can increase feelings of confidence and reduce stress.
 
 ### During the Presentation

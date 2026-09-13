@@ -64,18 +64,10 @@ Creating the ideal prompt rarely succeeds on the first attempt. It's an iterativ
 
 Practical experience is the most effective way to learn.
 
-1.
-
-**Access a Reliable LLM:** Use web interfaces for models like ChatGPT, Claude, or Gemini. Familiarize yourself with their responses to various prompts.
-2.
-
-**Assign a Specific Task:** Engage with the model beyond casual conversation. Use it to achieve concrete tasks such as refactoring code, composing marketing emails, or organizing travel plans.
-3.
-
-**Iterate Relentlessly:** When outputs fall short, reflect on how you could enhance specificity, identify missing context, or provide better examples.
-4.
-
-**Study Advanced Techniques:** Explore advanced prompting methods such as "Chain of Thought" (CoT), which prompts the model to "think step by step," and "ReAct" (Reasoning and Acting), which allows models to use external tools.
+1. **Access a Reliable LLM:** Use web interfaces for models like ChatGPT, Claude, or Gemini. Familiarize yourself with their responses to various prompts.
+2. **Assign a Specific Task:** Engage with the model beyond casual conversation. Use it to achieve concrete tasks such as refactoring code, composing marketing emails, or organizing travel plans.
+3. **Iterate Relentlessly:** When outputs fall short, reflect on how you could enhance specificity, identify missing context, or provide better examples.
+4. **Study Advanced Techniques:** Explore advanced prompting methods such as "Chain of Thought" (CoT), which prompts the model to "think step by step," and "ReAct" (Reasoning and Acting), which allows models to use external tools.
 
 ### The Future of Programming
 
@@ -155,21 +147,11 @@ Skills play differentiated roles at various career levels:
 
 ### Common Development Mistakes
 
-1.
-
-**Studying Without Doing:** Theory alone fails to solidify knowledge. Focus on building projects rather than just acquiring information.
-2.
-
-**Neglecting Soft Skills:** Technical expertise is widespread; soft skills are scarce. Prioritize development in this area.
-3.
-
-**Not Seeking Feedback:** Improving blind spots requires external insights. Solicit feedback from mentors and colleagues.
-4.
-
-**Comparing Yourself to Others:** Skill development is a personal journey. Concentrate on your own growth.
-5.
-
-**Expecting Rapid Mastery:** Genuine skill development takes time. adopt the learning process.
+1. **Studying Without Doing:** Theory alone fails to solidify knowledge. Focus on building projects rather than just acquiring information.
+2. **Neglecting Soft Skills:** Technical expertise is widespread; soft skills are scarce. Prioritize development in this area.
+3. **Not Seeking Feedback:** Improving blind spots requires external insights. Solicit feedback from mentors and colleagues.
+4. **Comparing Yourself to Others:** Skill development is a personal journey. Concentrate on your own growth.
+5. **Expecting Rapid Mastery:** Genuine skill development takes time. adopt the learning process.
 
 ### Resources for Continued Learning
 

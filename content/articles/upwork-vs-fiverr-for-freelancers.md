@@ -21,28 +21,20 @@ Upwork functions like a conventional job board. Clients list projects, and freel
 **How it works:** 1.
 
 **Create a Profile:** You build a complete profile that showcases your skills, experience, and portfolio.
-2.
-
-**Find Projects:** You search for projects that align with your expertise.
-3.
-
-**Submit Proposals:** You write personalized proposals for each project of interest, articulating why you are the ideal candidate.
-4.
-
-**Get Hired:** Clients review proposals and interview candidates. If selected, a contract is established.
-5.
-
-**Get Paid:** Upwork holds the client's payment in escrow and releases it to you upon completion and approval of the work.
+2. **Find Projects:** You search for projects that align with your expertise.
+3. **Submit Proposals:** You write personalized proposals for each project of interest, articulating why you are the ideal candidate.
+4. **Get Hired:** Clients review proposals and interview candidates. If selected, a contract is established.
+5. **Get Paid:** Upwork holds the client's payment in escrow and releases it to you upon completion and approval of the work.
 
 **Pros:**
 
-- **-** Higher Quality Projects:**Upwork attracts serious clients with larger budgets and more complex, long-term projects.
+- Higher Quality Projects:**Upwork attracts serious clients with larger budgets and more complex, long-term projects.
 - **Control Over Pricing:** You set your hourly rate or bid a fixed price for each project, offering more control over your earnings.
 - **Build Client Relationships:** The platform supports long-term client relationships, leading to repeat work.
 
 **Cons:**
 
-- **-** Competitive Nature:**Standing out can be challenging, especially for beginners; you often compete with numerous freelancers.
+- Competitive Nature:**Standing out can be challenging, especially for beginners; you often compete with numerous freelancers.
 - **Proposal Writing:** Crafting compelling proposals for each project can be time-consuming.
 - **Connects System:** Upwork uses a limited "Connects" system, which restricts the number of applications you can submit each month.
 - **Fees:** The fee structure can be steep, starting at a percentage for the first amount billed to a client, gradually decreasing with higher earnings.
@@ -54,29 +46,21 @@ Fiverr reverses the traditional model. Instead of bidding on projects, freelance
 **How it works:** 1.
 
 **Create a Gig:** You develop a listing for a specific service, such as "I will design a professional logo" or "I will write a 500-word blog post."
-2.
-
-**Set Your Packages:** You define various packages for your gig (e.g., Basic, Standard, Premium) with differing prices and features.
-3.
-
-**Clients Find You:** Clients browse the marketplace and purchase the gig that suits their needs.
-4.
-
-**Deliver the Work:** You receive a notification when a client orders your gig and deliver the work within the agreed timeframe.
-5.
-
-**Get Paid:** Fiverr holds the payment and releases it to you after the client approves the delivery.
+2. **Set Your Packages:** You define various packages for your gig (e.g., Basic, Standard, Premium) with differing prices and features.
+3. **Clients Find You:** Clients browse the marketplace and purchase the gig that suits their needs.
+4. **Deliver the Work:** You receive a notification when a client orders your gig and deliver the work within the agreed timeframe.
+5. **Get Paid:** Fiverr holds the payment and releases it to you after the client approves the delivery.
 
 **Pros:**
 
-- **-** Easy to Get Started:**Creating a gig is straightforward, allowing beginners to launch quickly.
+- Easy to Get Started:**Creating a gig is straightforward, allowing beginners to launch quickly.
 - **Less Active Work:** You do not spend time writing proposals; clients approach you directly.
 - **Clear Scope:** Gigs have a defined scope, minimizing "scope creep," where a project expands beyond its initial requirements.
 - **Good for Small Projects:** Fiverr excels in enabling small, well-defined services.
 
 **Cons:**
 
-- **-** Lower Priced Gigs:**Fiverr has a reputation for offering inexpensive services, although building a high-earning business is possible.
+- Lower Priced Gigs:**Fiverr has a reputation for offering inexpensive services, although building a high-earning business is possible.
 - **High Competition:** The platform is crowded with freelancers, making it difficult to distinguish yourself.
 - **Less Client Interaction:** The transactional nature of the platform complicates building long-term client relationships.
 - **Fees:** Fiverr charges a percentage fee on all earnings.

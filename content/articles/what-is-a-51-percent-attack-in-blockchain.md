@@ -33,31 +33,19 @@ An entity that controls more than half of the hashrate can statistically build a
 
 Here's a detailed example of how an attacker could apply a 51% attack to double-spend their coins:
 
-1.
+1. **Setup**: The attacker secures a majority of the network's hashrate and possesses a significant amount of cryptocurrency they wish to spend twice.
 
-**Setup**: The attacker secures a majority of the network's hashrate and possesses a significant amount of cryptocurrency they wish to spend twice.
+2. **First Transaction (Public)**: The attacker broadcasts a transaction to the public network, sending their coins to a merchant (such as a cryptocurrency exchange) in exchange for goods or another currency (like USD). An honest miner includes this transaction in a block on the public chain.
 
-2.
-
-**First Transaction (Public)**: The attacker broadcasts a transaction to the public network, sending their coins to a merchant (such as a cryptocurrency exchange) in exchange for goods or another currency (like USD). An honest miner includes this transaction in a block on the public chain.
-
-3.
-
-**Private Chain Mining**: At the same time, the attacker mines a *secret, private* version of the blockchain using their majority hashrate. In this secret chain, they create a different transaction that sends the *identical coins* back to a [wallet](/how-to-choose-a-crypto-wallet) they control. With the majority hashrate, they can generate blocks for their private chain faster than honest miners can for the public chain.
+3. **Private Chain Mining**: At the same time, the attacker mines a *secret, private* version of the blockchain using their majority hashrate. In this secret chain, they create a different transaction that sends the *identical coins* back to a [wallet](/how-to-choose-a-crypto-wallet) they control. With the majority hashrate, they can generate blocks for their private chain faster than honest miners can for the public chain.
 
 4. **Waiting for Confirmation**: The attacker waits for the merchant to consider their initial transaction finalized. Typically, exchanges require several block confirmations before crediting a deposit. While the honest network continues to add blocks to the public chain, the attacker is secretly adding blocks more quickly to their private chain.
 
-5.
+5. **Revealing the Secret Chain**: After the merchant has accepted the payment and delivered the goods, the attacker's secret chain is now longer than the public chain. The attacker then broadcasts this longer, private chain to the network.
 
-**Revealing the Secret Chain**: After the merchant has accepted the payment and delivered the goods, the attacker's secret chain is now longer than the public chain. The attacker then broadcasts this longer, private chain to the network.
+6. **Reorganization (Re-org)**: Adhering to the "longest chain" rule, all nodes in the network recognize this new, longer chain and accept it as the valid history. They discard the original public chain they were working on.
 
-6.
-
-**Reorganization (Re-org)**: Adhering to the "longest chain" rule, all nodes in the network recognize this new, longer chain and accept it as the valid history. They discard the original public chain they were working on.
-
-7.
-
-**Final Outcome**: The initial transaction to the merchant becomes part of an orphaned chain and is effectively erased from history. The attacker's second transaction, sending the coins back to themselves, is now part of the canonical chain. The attacker successfully received goods from the merchant while retaining their original coins, effectively achieving double-spending.
+7. **Final Outcome**: The initial transaction to the merchant becomes part of an orphaned chain and is effectively erased from history. The attacker's second transaction, sending the coins back to themselves, is now part of the canonical chain. The attacker successfully received goods from the merchant while retaining their original coins, effectively achieving double-spending.
 
 ### Capabilities and Limitations of a 51% Attack
 

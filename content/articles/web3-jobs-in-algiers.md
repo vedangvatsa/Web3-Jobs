@@ -47,21 +47,13 @@ The formal Web3 job market in Algiers is currently limited. The most significant
 
 ### Building a Web3 Career in Algiers
 
-1.
+1. **Educate and Build Community:** In a nascent market, early movers who prioritize education can become leaders. Consider starting a blog, YouTube channel, or local meetup group. Create content in Arabic and French that clarifies Web3 concepts. This approach will enhance your reputation and expand your network.
 
-**Educate and Build Community:** In a nascent market, early movers who prioritize education can become leaders. Consider starting a blog, YouTube channel, or local meetup group. Create content in Arabic and French that clarifies Web3 concepts. This approach will enhance your reputation and expand your network.
+2. **Address Local Challenges:** In your [portfolio](/building-web3-portfolio), focus on projects that tackle specific problems faced by Algerians. This could involve developing a decentralized app for tontine-style savings ("El Moudaoula"), a tool to simplify cross-border payments from Europe, or a platform enabling local artists to mint [NFTs](/what-are-nfts). Such projects demonstrate your understanding of the local context.
 
-2.
+3. **Develop a Strong Online Profile:** Most lucrative positions will be remote, making your online presence critical. Build a compelling GitHub portfolio, maintain a polished LinkedIn profile, and engage as an insightful voice on Twitter. Competing on a global scale is essential for your success.
 
-**Address Local Challenges:** In your [portfolio](/building-web3-portfolio), focus on projects that tackle specific problems faced by Algerians. This could involve developing a decentralized app for tontine-style savings ("El Moudaoula"), a tool to simplify cross-border payments from Europe, or a platform enabling local artists to mint [NFTs](/what-are-nfts). Such projects demonstrate your understanding of the local context.
-
-3.
-
-**Develop a Strong Online Profile:** Most lucrative positions will be remote, making your online presence critical. Build a compelling GitHub portfolio, maintain a polished LinkedIn profile, and engage as an insightful voice on Twitter. Competing on a global scale is essential for your success.
-
-4.
-
-**Connect with the Regional Ecosystem:** Use Algeria's linguistic and cultural advantages to network with established Web3 communities in Dubai, Tunis, and Paris. These connections will be invaluable for mentorship, collaboration, and job opportunities.
+4. **Connect with the Regional Ecosystem:** Use Algeria's linguistic and cultural advantages to network with established Web3 communities in Dubai, Tunis, and Paris. These connections will be invaluable for mentorship, collaboration, and job opportunities.
 
 ### Salary Overview: Web3 Jobs in Algiers
 
@@ -210,25 +202,25 @@ A: Focus on building a sustainable income first. Once you have experience and a 
 
 **Learning Platforms:**
 
-- **-** Alchemy University:**Offers a free Web3 developer course.
+- Alchemy University:**Offers a free Web3 developer course.
 - **Cryptozombies:** Interactive Solidity tutorials.
 - **OpenZeppelin Learning:** Focus on smart contract security.
 - **Chainlink Documentation:** Learn about oracles and DeFi integration.
 
 **Communities and Networking:**
 
-- **-** Twitter:**Follow key industry figures and engage with their content.
+- Twitter:**Follow key industry figures and engage with their content.
 - **Discord:** Join relevant communities to expand your network.
 - **Local Meetups:** Participate in or create local Web3 groups.
 
 **Job Boards and Applications:**
 
-- **-** Our Web3 Job Board**(/jobs): Search for remote roles hiring from Africa.
+- Our Web3 Job Board**(/jobs): Search for remote roles hiring from Africa.
 - **Crypto.jobs:** Focused on jobs in the crypto industry.
 
 **Hands-On Practice:**
 
-- **-** Code4rena:**Participate in competitive smart contract auditing.
+- Code4rena:**Participate in competitive smart contract auditing.
 - **Sherlock and Immunefi:** Engage in security bounties.
 
 **Deep-Dive Reading:**

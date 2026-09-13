@@ -45,21 +45,13 @@ The Web3 job market in Dar es Salaam is growing, with a significant demand for m
 
 Engaging in the Dar es Salaam Web3 ecosystem requires strategic actions. Here are some steps to consider:
 
-1.
+1. **Become a Community Teacher:** Share knowledge within the ecosystem. Start a YouTube channel in Swahili focusing on [DeFi](/what-is-defi) concepts, conduct workshops on wallet setups, or write blog posts that simplify complex topics. This approach builds your reputation and positions you as a community resource.
+2. **Prioritize Mobile-First Solutions:** Ensure your [portfolio](/building-web3-portfolio) showcases mobile-first projects. Build dApps that are lightweight, user-friendly, and functional in low-bandwidth environments. This focus demonstrates your capability to cater to the African mobile user.
+3. **Engage with Local Communities:**
 
-**Become a Community Teacher:** Share knowledge within the ecosystem. Start a YouTube channel in Swahili focusing on [DeFi](/what-is-defi) concepts, conduct workshops on wallet setups, or write blog posts that simplify complex topics. This approach builds your reputation and positions you as a community resource.
-2.
-
-**Prioritize Mobile-First Solutions:** Ensure your [portfolio](/building-web3-portfolio) showcases mobile-first projects. Build dApps that are lightweight, user-friendly, and functional in low-bandwidth environments. This focus demonstrates your capability to cater to the African mobile user.
-3.
-
-**Engage with Local Communities:**
-
-- **-** Participate in Meetups:**Be an active participant at Web3 meetups in Dar es Salaam.
+- Participate in Meetups:**Be an active participant at Web3 meetups in Dar es Salaam.
  - **Connect with Tech Hubs:** Build relationships with local tech hubs and innovation centers that are incubating the next wave of startups.
-4.
-
-**Secure a [Remote Job](/remote-work-in-web3) and Build Locally:** The most lucrative pathway often involves acquiring a remote role with a well-funded international protocol. Use your position and knowledge to contribute to building and expanding the local Tanzanian ecosystem.
+4. **Secure a [Remote Job](/remote-work-in-web3) and Build Locally:** The most lucrative pathway often involves acquiring a remote role with a well-funded international protocol. Use your position and knowledge to contribute to building and expanding the local Tanzanian ecosystem.
 
 ### Exploring Web3 Job Opportunities
 

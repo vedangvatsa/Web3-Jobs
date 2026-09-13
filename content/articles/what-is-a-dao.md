@@ -29,7 +29,7 @@ DAOs fit when you need transparent, collective control of shared resources or of
 
 **Good fit:**
 
-- **-** Protocol stewards.
+- Protocol stewards.
 
 **Teams that ship open infrastructure and want users to govern upgrades, fees, and treasury. Uniswap, Sky (formerly MakerDAO), Aave, Curve, and ENS all use DAO governance for protocol parameters.
 - **Investment and grants groups.
@@ -59,18 +59,10 @@ Two properties matter on Ethereum. First, code is tamper-proof once live. You ca
 
 A typical path looks like this:
 
-1.
-
-**Define purpose and permissions.** Decide which decisions need a vote and which can be delegated. Write those parameters into the DAO framework. This includes what constitutes a valid proposal and how much support is needed.
-2.
-
-**Set membership.** Choose token-based, share-based, or reputation-based membership. More on those below.
-3.
-
-**Fund the treasury.** Members deposit ETH, stablecoins, or governance tokens. For protocol DAOs, funding also comes from the initial token allocation and ongoing protocol fees routed to the treasury.
-4.
-
-**Hold the first votes.** Discussion happens off-chain, then an off-chain signal vote, then the binding on-chain vote, then a timelock, then automatic execution.
+1. **Define purpose and permissions.** Decide which decisions need a vote and which can be delegated. Write those parameters into the DAO framework. This includes what constitutes a valid proposal and how much support is needed.
+2. **Set membership.** Choose token-based, share-based, or reputation-based membership. More on those below.
+3. **Fund the treasury.** Members deposit ETH, stablecoins, or governance tokens. For protocol DAOs, funding also comes from the initial token allocation and ongoing protocol fees routed to the treasury.
+4. **Hold the first votes.** Discussion happens off-chain, then an off-chain signal vote, then the binding on-chain vote, then a timelock, then automatic execution.
 
 In practice, creating an LLC, partnership agreement, and bank account can take weeks and cost thousands in legal fees. Creating a DAO via a framework like Aragon, DAOHaus (which has helped launch more than 7,000 DAOs), Tally Governor, Colony, or DeGov Launcher can be done in hours for the cost of deployment and gas. The trade-off is you inherit smart contract risk and public transparency whether you want it or not.
 

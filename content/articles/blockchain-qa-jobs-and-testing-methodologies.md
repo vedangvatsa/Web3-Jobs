@@ -23,7 +23,9 @@ Testing a dApp presents complexities that differ significantly from traditional 
 - **Complex State:** The state of a dApp is influenced not only by its own contracts but also by the entire blockchain state and interactions with other protocols. Testing must reflect this complex, interconnected environment.
 - **Asynchronous Operations:** Blockchain transactions are not instant. QA engineers must account for potential race conditions and the various states of transactions, including pending, successful, and failed outcomes.
 
-### Core Responsibilities of a Web3 QA Engineer**1. Test Strategy and Planning
+### Core Responsibilities of a Web3 QA Engineer
+
+**1. Test Strategy and Planning
 
 **A QA Engineer formulates the overall testing strategy for new features or protocols. This involves defining testing scope, identifying key risks, and selecting appropriate tools and methodologies.** 2. Manual and Exploratory Testing
 
@@ -58,15 +60,9 @@ Testing a dApp presents complexities that differ significantly from traditional 
 
 ### Pathway to Becoming a Web3 QA Engineer
 
-1.
-
-**Start with Traditional QA:** Gain a solid foundation in software testing within a Web2 environment.
-2.
-
-**Learn the Web3 Stack:** Immerse yourself in Web3, understand smart contracts, use dApps, and become familiar with the technical challenges involved.
-3.
-
-**Build a [Portfolio](/building-web3-portfolio):**
+1. **Start with Traditional QA:** Gain a solid foundation in software testing within a Web2 environment.
+2. **Learn the Web3 Stack:** Immerse yourself in Web3, understand smart contracts, use dApps, and become familiar with the technical challenges involved.
+3. **Build a [Portfolio](/building-web3-portfolio):**
  - Contribute to an open-source Web3 project on GitHub by studying existing test suites.
  - Identify features lacking test coverage and submit pull requests with new tests.
  - Write a full "test plan" for a popular dApp and share it as a blog post.

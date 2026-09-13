@@ -88,5 +88,7 @@ Be transparent. Explain your quest for greater fulfillment and outline your stru
 
 #### 4. What if I explore a new field and find it unfulfilling?
 
-Identifying that a field is not for you is a valuable outcome of your "career experiments." It's far better to discover this after a short course than after making a significant commitment. This knowledge helps refine your search for a more suitable path.**5. How long does it take to resolve a mid-career crisis?**
+Identifying that a field is not for you is a valuable outcome of your "career experiments." It's far better to discover this after a short course than after making a significant commitment. This knowledge helps refine your search for a more suitable path.
+
+**5. How long does it take to resolve a mid-career crisis?**
 There is no universal timeline. Some may find clarity within months, while others might engage in a multi-year journey to transition into a new profession. Be patient with yourself. The goal is not to rush but to make informed decisions.

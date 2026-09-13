@@ -42,17 +42,23 @@ The remote-first aspect of Web3 is not coincidental; it is deeply integrated int
 
 ### Essential Skills for Remote Web3 Success
 
-growing in a remote, distributed team requires specific soft skills. While technical competence is assumed, the following skills can set you apart.**1. Mastery of Asynchronous Communication
+growing in a remote, distributed team requires specific soft skills. While technical competence is assumed, the following skills can set you apart.
+
+**1. Mastery of Asynchronous Communication
 
 **With colleagues spread across time zones, real-time meetings become impractical. Most communication will be written and asynchronous.
 
 - **Clarity and Conciseness:** Ensure you can articulate complex ideas clearly in platforms like Discord or Notion. Your writing should preemptively address potential questions.
-- **Proactive Updates:** Regularly communicate your progress, challenges, and next steps. Daily or weekly updates are often expected to build trust and visibility.**2. High Degree of Autonomy
+- **Proactive Updates:** Regularly communicate your progress, challenges, and next steps. Daily or weekly updates are often expected to build trust and visibility.
+
+**2. High Degree of Autonomy
 
 **In a remote environment, self-direction is important. You need to take ownership of your work and drive tasks to completion.
 
 - **Initiative:** Identify issues and propose solutions rather than waiting for instructions. Web3 values proactive contributors.
-- **Time Management:** Manage your schedule effectively to meet deadlines without constant oversight. This requires discipline and strong organizational abilities.**3. Documentation-First Mindset
+- **Time Management:** Manage your schedule effectively to meet deadlines without constant oversight. This requires discipline and strong organizational abilities.
+
+**3. Documentation-First Mindset
 
 **Good documentation is essential, as you cannot easily ask questions in person.
 

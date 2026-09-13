@@ -18,17 +18,11 @@ In the current digital environment, individuals do not truly own their identitie
 
 To grasp the concept of SSI, one must examine the evolution of digital identity systems.
 
-1.
+1. **Centralized Identity:** In this traditional model, each service maintains its own database of usernames and passwords. This method is not only insecure but also limits user control.
 
-**Centralized Identity:** In this traditional model, each service maintains its own database of usernames and passwords. This method is not only insecure but also limits user control.
+2. **Federated Identity:** This model, exemplified by "Sign in with Google" or "Sign in with Facebook," allows users to authenticate with various services through a single identity provider. While this adds convenience, it centralizes power and control, leaving users without true ownership of their data.
 
-2.
-
-**Federated Identity:** This model, exemplified by "Sign in with Google" or "Sign in with Facebook," allows users to authenticate with various services through a single identity provider. While this adds convenience, it centralizes power and control, leaving users without true ownership of their data.
-
-3.
-
-**Self-Sovereign Identity:** Under this model, users retain control of their identities. Their digital identity is not linked to a specific company or platform. Users store their credentials in a private digital [wallet](/how-to-choose-a-crypto-wallet) and can share them with whomever they choose, without the need for a central authority.
+3. **Self-Sovereign Identity:** Under this model, users retain control of their identities. Their digital identity is not linked to a specific company or platform. Users store their credentials in a private digital [wallet](/how-to-choose-a-crypto-wallet) and can share them with whomever they choose, without the need for a central authority.
 
 ### Core Principles of SSI
 

@@ -54,7 +54,9 @@ Both profiles build strong careers. Choose based on learning style and life cons
 
 ### Habits that managers reward
 
-These habits show up in strong performers across roles. They are simple but not easy to keep.**1. Make work visible early.
+These habits show up in strong performers across roles. They are simple but not easy to keep.
+
+**1. Make work visible early.
 
 **Share a one-paragraph plan before you build. Include the problem, the user, what you will ship, and how you will know it worked. A short note saves days of rework.** 2. Ship small and measure.
 

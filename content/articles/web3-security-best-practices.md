@@ -21,15 +21,9 @@ This design pattern is vital in [Solidity](/best-programming-languages-for-block
 
 - **Reentrancy Vulnerability:** A reentrancy attack happens when a malicious external contract makes a call back into your contract before the initial function call completes. This allows the attacker to exploit the withdrawal function, draining funds before the balance updates.
 - **Implementation Strategy:** Organize your functions in this order:
- 1.
-
-**Checks:** Validate conditions first (e.g., `require(msg.sender == owner)`).
- 2.
-
-**Effects:** Update your contract's state (e.g., `balances[msg.sender] = 0`).
- 3.
-
-**Interactions:** Finally, interact with any external contracts (e.g., `(bool sent, ) = msg.sender.call{value: amount}("")`).
+ 1. **Checks:** Validate conditions first (e.g., `require(msg.sender == owner)`).
+ 2. **Effects:** Update your contract's state (e.g., `balances[msg.sender] = 0`).
+ 3. **Interactions:** Finally, interact with any external contracts (e.g., `(bool sent, ) = msg.sender.call{value: amount}("")`).
 
 By adjusting the state before transferring funds, you protect your contract from multiple withdrawals triggered by an external contract.
 
@@ -47,7 +41,7 @@ Prior to Solidity version 0.8.0, arithmetic operations did not revert upon overf
 - **Overflow and Underflow Risks:** For example, if a `uint8` (0-255 range) is at 255 and you add 1, it wraps to 0. An attacker could exploit this to modify balances or other critical values.
 - **Mitigation Techniques:**
 
-- **-** Use Solidity 0.8.0+:**All modern contracts should specify `pragma solidity ^0.8.0;`. This version automatically reverts on overflow or underflow.
+- Use Solidity 0.8.0+:**All modern contracts should specify `pragma solidity ^0.8.0;`. This version automatically reverts on overflow or underflow.
  - **Use SafeMath (Legacy):** For older contracts, implement OpenZeppelin's SafeMath library for arithmetic operations.
 
 ### 4. Prevent Transaction-Ordering Dependence

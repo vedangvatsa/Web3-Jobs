@@ -63,12 +63,8 @@ Your cover letters and interviews should effectively communicate your reasons fo
 **Structure your narrative into three sections:** 1.
 
 **The Past:** Briefly outline your previous career and highlight the relevant skills you've developed.
-2.
-
-**The Turning Point:** Explain the moment or experience that piqued your interest in the new industry.
-3.
-
-**The Future:** Articulate your excitement about the new path and how your past experiences position you as a strong candidate.
+2. **The Turning Point:** Explain the moment or experience that piqued your interest in the new industry.
+3. **The Future:** Articulate your excitement about the new path and how your past experiences position you as a strong candidate.
 
 A well-constructed narrative can transform any perceived lack of direct experience into a strength, demonstrating your adaptability and proactive approach.
 

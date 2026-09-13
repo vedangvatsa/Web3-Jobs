@@ -44,18 +44,24 @@ These issues are far from minor; they represent critical barriers the industry m
 
 ### The Bull Case: Recognizing Positive Signals
 
-Despite these challenges, the foundational aspects of the Web3 movement remain strong. The narrative claiming "Web3 is dead" fails to hold up under scrutiny.**1. Rapid Technological Maturation
+Despite these challenges, the foundational aspects of the Web3 movement remain strong. The narrative claiming "Web3 is dead" fails to hold up under scrutiny.
+
+**1. Rapid Technological Maturation
 
 **During market downturns, developers continued to innovate. The pace of core technological advancements over recent years has been remarkable.
 
 - **The [Ethereum](/what-is-ethereum) Merge:** Ethereum transitioned from Proof-of-Work to Proof-of-[Stake](/how-to-become-a-web3-staking-specialist), achieving a reduction in energy consumption by over 99.9%. This transition represents an important milestone in open-source software engineering.
 - **Growth of Layer 2 Solutions:** Platforms like Arbitrum and Optimism now handle more transactions than the Ethereum mainnet, offering significantly lower transaction fees. This progress enhances Ethereum's usability.
-- **Advancements in Zero-Knowledge Proofs:** Progress in [ZK-proofs](/zero-knowledge-proofs-explained) is substantial. These proofs are addressing scalability and privacy issues. The movement from theoretical applications to practical implementations is occurring rapidly.**2. Sustained Talent and Investment
+- **Advancements in Zero-Knowledge Proofs:** Progress in [ZK-proofs](/zero-knowledge-proofs-explained) is substantial. These proofs are addressing scalability and privacy issues. The movement from theoretical applications to practical implementations is occurring rapidly.
+
+**2. Sustained Talent and Investment
 
 **The last bull market attracted substantial talent and funding that remains in the ecosystem.
 
 - **Elite Engineers:** Many top developers from companies like Google and Meta have left lucrative positions to pursue opportunities in Web3. This shift in talent indicates where compelling problems are being addressed.
-- **Long-term Capital Commitment:** Venture capitalists typically adopt a long-term perspective. Billions invested in Web3 projects during the bull market continue to fuel development, irrespective of short-term market fluctuations.**3. Increasing Relevance of the Vision
+- **Long-term Capital Commitment:** Venture capitalists typically adopt a long-term perspective. Billions invested in Web3 projects during the bull market continue to fuel development, irrespective of short-term market fluctuations.
+
+**3. Increasing Relevance of the Vision
 
 **Challenges in the centralized internet, such as data monopolies and censorship, have intensified. The core value proposition of Web3 addresses these issues directly.
 

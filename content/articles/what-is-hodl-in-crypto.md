@@ -55,18 +55,10 @@ Over time, HODL transcended a mere trading strategy, evolving into a broader phi
 
 ### Core Beliefs
 
-1.
-
-**Volatility is Normal**: HODL accepts the inherent volatility of the cryptocurrency market. Investors recognize price swings as a natural part of the environment.
-2.
-
-**Time in Market Beats Timing**: Attempting to predict market tops and bottoms is nearly impossible. HODL advocates for sustained exposure to assets rather than trying to time the market.
-3.
-
-**Fundamental Belief**: Investors should only HODL assets they genuinely believe in. If confidence in a cryptocurrency diminishes, selling may be more prudent.
-4.
-
-**Sound Investing Principle**: A long-term investment strategy in solid assets tends to outperform frequent trading and market timing.
+1. **Volatility is Normal**: HODL accepts the inherent volatility of the cryptocurrency market. Investors recognize price swings as a natural part of the environment.
+2. **Time in Market Beats Timing**: Attempting to predict market tops and bottoms is nearly impossible. HODL advocates for sustained exposure to assets rather than trying to time the market.
+3. **Fundamental Belief**: Investors should only HODL assets they genuinely believe in. If confidence in a cryptocurrency diminishes, selling may be more prudent.
+4. **Sound Investing Principle**: A long-term investment strategy in solid assets tends to outperform frequent trading and market timing.
 
 ## HODL in Crypto Culture
 

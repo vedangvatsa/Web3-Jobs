@@ -46,15 +46,9 @@ This article explains what LP tokens are, how you acquire them, their primary fu
 
 Acquiring LP tokens involves a straightforward process:
 
-1.
-
-**Select a Pool**: Choose a liquidity pool on a DEX, such as the ETH/USDC pool on Uniswap.
-2.
-
-**Deposit Assets**: You must deposit an equal value of both assets into the pool. For instance, if 1 ETH is valued at a significant amount, you would deposit 1 ETH and the equivalent value in USDC.
-3.
-
-**Receive LP Tokens**: After your deposit, the DEX's [smart contract](/what-are-smart-contracts) mints and transfers LP tokens to you. The tokens typically reflect the pool's name, for example, UNI-V2 ETH/USDC.
+1. **Select a Pool**: Choose a liquidity pool on a DEX, such as the ETH/USDC pool on Uniswap.
+2. **Deposit Assets**: You must deposit an equal value of both assets into the pool. For instance, if 1 ETH is valued at a significant amount, you would deposit 1 ETH and the equivalent value in USDC.
+3. **Receive LP Tokens**: After your deposit, the DEX's [smart contract](/what-are-smart-contracts) mints and transfers LP tokens to you. The tokens typically reflect the pool's name, for example, UNI-V2 ETH/USDC.
 
 The number of LP tokens you receive is proportional to your contribution relative to the total liquidity in the pool. If you add 1% of the total liquidity, you'll hold 1% of the LP tokens.
 

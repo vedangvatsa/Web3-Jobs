@@ -46,18 +46,10 @@ While the formal Web3 job market in Brazzaville remains limited, professionals c
 
 ### Building a Web3 Career in Brazzaville
 
-1.
-
-**Concentrate on Supply Chain and Enterprise Solutions:** Identify how blockchain can enhance the natural resources sector. Develop a proof-of-concept for tracking timber from the forest to the port, showcasing a unique expertise that is both rare and valuable.
-2.
-
-**Become a Community Organizer and Educator:** Lead the local tech scene by starting a Web3 developer meetup at a tech hub. Create French-language educational content that explains blockchain's benefits for enterprises, establishing yourself as a key figure in the ecosystem.
-3.
-
-**Create a Global-Standard [Portfolio](/building-web3-portfolio):** To succeed in remote work, your GitHub profile or public portfolio must stand out. Emphasize strong software engineering skills and an in-depth understanding of blockchain principles.
-4.
-
-**Network with Pan-African and European Communities:** Engage actively in broader African Web3 forums online. Forge connections with developers and investors in cities like Paris and Brussels, opening doors to remote opportunities and collaborative projects.
+1. **Concentrate on Supply Chain and Enterprise Solutions:** Identify how blockchain can enhance the natural resources sector. Develop a proof-of-concept for tracking timber from the forest to the port, showcasing a unique expertise that is both rare and valuable.
+2. **Become a Community Organizer and Educator:** Lead the local tech scene by starting a Web3 developer meetup at a tech hub. Create French-language educational content that explains blockchain's benefits for enterprises, establishing yourself as a key figure in the ecosystem.
+3. **Create a Global-Standard [Portfolio](/building-web3-portfolio):** To succeed in remote work, your GitHub profile or public portfolio must stand out. Emphasize strong software engineering skills and an in-depth understanding of blockchain principles.
+4. **Network with Pan-African and European Communities:** Engage actively in broader African Web3 forums online. Forge connections with developers and investors in cities like Paris and Brussels, opening doors to remote opportunities and collaborative projects.
 
 ### Salary Expectations in Detail
 

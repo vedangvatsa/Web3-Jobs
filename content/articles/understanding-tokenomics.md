@@ -25,7 +25,7 @@ A token's supply mechanics form the cornerstone of its design, incorporating fun
 - **Circulating Supply:** What is the current number of tokens available for trading?
 - **Inflation vs. Deflation:**
 
-- **-** Inflationary Tokens:**These tokens are continuously created over time, typically as rewards for miners or stakers. An example is [Ethereum](/what-is-ethereum), where the inflation rate is an important metric.
+- Inflationary Tokens:**These tokens are continuously created over time, typically as rewards for miners or stakers. An example is [Ethereum](/what-is-ethereum), where the inflation rate is an important metric.
  - **Deflationary Tokens:** These tokens decrease in supply over time, often through a "burn" mechanism that permanently removes a portion of transaction fees from circulation.
 
 **Consideration:** Does the supply model promote long-term scarcity and value appreciation, or does it favor high inflation that could devalue early adopters' holdings?
@@ -58,14 +58,8 @@ The utility of a token defines its intrinsic value and generates demand beyond m
 
 To evaluate a new project effectively, employ the following framework:
 
-1.
-
-**Supply:** Is the token inflationary or deflationary? Does it have a hard cap?
-2.
-
-**Distribution:** Who holds the tokens? Is the allocation equitable and transparent?
-3.
-
-**Utility:** What functions does the token serve? Does it have a defined purpose that drives ongoing demand?
+1. **Supply:** Is the token inflationary or deflationary? Does it have a hard cap?
+2. **Distribution:** Who holds the tokens? Is the allocation equitable and transparent?
+3. **Utility:** What functions does the token serve? Does it have a defined purpose that drives ongoing demand?
 
 By analyzing these three components, you can make informed decisions and cut through the hype surrounding various crypto projects. Understanding tokenomics equips you to engage with the decentralized network effectively.

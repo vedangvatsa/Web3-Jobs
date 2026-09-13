@@ -19,15 +19,9 @@ This guide outlines the essential steps to create an environment suitable for pr
 A successful video interview setup consists of four main components:
 
 1. **Camera:** Influences how the interviewer sees you.
-2.
-
-**Audio:** Affects how well the interviewer hears you.
-3.
-
-**Lighting:** Determines how well the interviewer can see you.
-4.
-
-**Background:** Sets the scene for your interview.
+2. **Audio:** Affects how well the interviewer hears you.
+3. **Lighting:** Determines how well the interviewer can see you.
+4. **Background:** Sets the scene for your interview.
 
 Optimizing these elements is vital for projecting confidence and competence.
 
@@ -74,15 +68,9 @@ The key light serves as your main light source.
 #### Three-Point Lighting (The Professional Setup)
 For a more polished appearance, consider a classic three-point lighting setup.
 
-1.
-
-**Key Light:** This is your brightest light, positioned to one side of the camera at about a 45-degree angle and slightly above eye level. You can use a desk lamp or a dedicated LED panel. A ring light also works well for even lighting.
-2.
-
-**Fill Light:** This softer light is placed opposite the key light to reduce shadows. Use a lower wattage lamp or position it further away for a more subtle effect.
-3.
-
-**Backlight (or Hair Light):** Position this light behind you, out of the camera's view, to create a rim of light around your hair and shoulders. This adds depth and professional quality to your shot.
+1. **Key Light:** This is your brightest light, positioned to one side of the camera at about a 45-degree angle and slightly above eye level. You can use a desk lamp or a dedicated LED panel. A ring light also works well for even lighting.
+2. **Fill Light:** This softer light is placed opposite the key light to reduce shadows. Use a lower wattage lamp or position it further away for a more subtle effect.
+3. **Backlight (or Hair Light):** Position this light behind you, out of the camera's view, to create a rim of light around your hair and shoulders. This adds depth and professional quality to your shot.
 
 **Budget-Friendly Lighting Tip:** You can achieve a key/fill setup with two desk lamps. Soften the light by bouncing it off a white wall or placing a thin white sheet over the lamp. Ensure the bulbs do not overheat.
 
@@ -100,21 +88,11 @@ Your background contributes to your personal brand. It should be clean, unclutte
 
 Before your interview, conduct a final checklist to ensure everything is in order:
 
-1.
-
-**Test Your Tech:** At least 30 minutes before the interview, open the video platform to test the camera, microphone, and internet connection. Use the settings area to preview your video and audio.
-2.
-
-**Check Your Name and Profile Picture:** Confirm your display name is your full, professional name and that your profile picture is appropriate.
-3.
-
-**Dress Professionally:** Dress as you would for an in-person interview, at least from the waist up. Solid colors typically look best on camera, while busy patterns can be distracting.
-4.
-
-**Prepare Your Digital Materials:** Close all unnecessary tabs and applications. Have your resume, job description, and questions ready in a separate window for easy access.
-5.
-
-**Do a Final Environment Scan:** Review your video preview for correct framing, a clean background, and any potential distractions.
+1. **Test Your Tech:** At least 30 minutes before the interview, open the video platform to test the camera, microphone, and internet connection. Use the settings area to preview your video and audio.
+2. **Check Your Name and Profile Picture:** Confirm your display name is your full, professional name and that your profile picture is appropriate.
+3. **Dress Professionally:** Dress as you would for an in-person interview, at least from the waist up. Solid colors typically look best on camera, while busy patterns can be distracting.
+4. **Prepare Your Digital Materials:** Close all unnecessary tabs and applications. Have your resume, job description, and questions ready in a separate window for easy access.
+5. **Do a Final Environment Scan:** Review your video preview for correct framing, a clean background, and any potential distractions.
 
 By dedicating time to your video interview setup, you can minimize distractions and present yourself as a polished and professional candidate. This preparation allows your skills, experience, and personality to shine, significantly improving your chances of success in the interview. 
 

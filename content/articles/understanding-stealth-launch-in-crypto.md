@@ -21,30 +21,16 @@ The stealth launch serves as a countermeasure to the often manipulative and hype
 **Primary Goals:** 1.
 
 **Rewarding True Believers:** A stealth launch aims to benefit dedicated community members and on-chain "sleuths" who actively seek out new projects. By launching discreetly, the project ensures that only those genuinely interested are the first to discover and invest in the token at its earliest stages.
-2.
-
-**Preventing Front-Running and "Gas Wars":** Public launches with significant hype can lead to "gas wars," where numerous participants and bots attempt to buy the token simultaneously, inflating transaction fees and creating an unfair distribution. A stealth launch mitigates this by allowing initial buying pressure to accumulate gradually as individuals discover the project over time.
-3.
-
-**Promoting a "Fair Launch" Ethos:** Stealth launches align with the principles of a **[fair launch](/what-is-a-fair-launch-in-cryptocurrency)**. By bypassing pre-sales to venture capitalists and directly engaging the community, these launches strive for a more equitable environment for all participants.
+2. **Preventing Front-Running and "Gas Wars":** Public launches with significant hype can lead to "gas wars," where numerous participants and bots attempt to buy the token simultaneously, inflating transaction fees and creating an unfair distribution. A stealth launch mitigates this by allowing initial buying pressure to accumulate gradually as individuals discover the project over time.
+3. **Promoting a "Fair Launch" Ethos:** Stealth launches align with the principles of a **[fair launch](/what-is-a-fair-launch-in-cryptocurrency)**. By bypassing pre-sales to venture capitalists and directly engaging the community, these launches strive for a more equitable environment for all participants.
 
 ### How a Stealth Launch Works
 
-1.
-
-**No Pre-Announcement:** The team refrains from announcing the launch date, contract address, or token name beforehand.
-2.
-
-**Liquidity Deployment:** The team deploys the token contract and establishes a liquidity pool on a DEX such as Uniswap. They often "lock" the initial liquidity to demonstrate their commitment and prevent a **[rug pull](/what-is-rug-pull-in-cryptocurrency-scams)**.
-3.
-
-**The Drop:** The contract address is discreetly shared, typically in a private Telegram group, a closed Discord channel, or on niche forums.
-4.
-
-**Organic Discovery:** On-chain analysts and crypto enthusiasts who monitor the [blockchain](/what-is-a-blockchain) for new contract deployments will identify the new token and its liquidity pool. If the project appears promising, they will invest and subsequently share their findings on platforms like Twitter and other social media.
-5.
-
-**Viral Growth:** If the project possesses strong fundamentals and captures community interest, it can gain traction rapidly, leading to significant organic growth.
+1. **No Pre-Announcement:** The team refrains from announcing the launch date, contract address, or token name beforehand.
+2. **Liquidity Deployment:** The team deploys the token contract and establishes a liquidity pool on a DEX such as Uniswap. They often "lock" the initial liquidity to demonstrate their commitment and prevent a **[rug pull](/what-is-rug-pull-in-cryptocurrency-scams)**.
+3. **The Drop:** The contract address is discreetly shared, typically in a private Telegram group, a closed Discord channel, or on niche forums.
+4. **Organic Discovery:** On-chain analysts and crypto enthusiasts who monitor the [blockchain](/what-is-a-blockchain) for new contract deployments will identify the new token and its liquidity pool. If the project appears promising, they will invest and subsequently share their findings on platforms like Twitter and other social media.
+5. **Viral Growth:** If the project possesses strong fundamentals and captures community interest, it can gain traction rapidly, leading to significant organic growth.
 
 ### The Risks of a Stealth Launch
 

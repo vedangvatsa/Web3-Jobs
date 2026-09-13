@@ -31,20 +31,20 @@ Transitioning to UX/UI demands acquiring a new skill set and mindset.
 
 **Core UX Skills Include:**
 
-- **-** User Research**: Conduct user interviews, surveys, and usability tests to uncover user needs and challenges.
+- User Research**: Conduct user interviews, surveys, and usability tests to uncover user needs and challenges.
 - **Information Architecture**: Organize and structure content logically and intuitively.
 - **Wireframing and Prototyping**: Create low-fidelity wireframes and high-fidelity interactive prototypes.
 - **Empathy**: Building a deep understanding of user perspectives is essential.
 
 **Core UI Skills Include:**
 
-- **-** Visual Design Principles**: Familiarize yourself with typography, color theory, layout, and visual hierarchy.
+- Visual Design Principles**: Familiarize yourself with typography, color theory, layout, and visual hierarchy.
 - **Interaction Design**: Understand how to design the behavior of interactive components.
 - **Design Systems**: Learn to develop and use a consistent library of design components.
 
 **Learning Resources:**
 
-- **-** Online Courses**: Enroll in courses such as Google's UX Design Certificate on Coursera, offerings from the Interaction Design Foundation, or classes on Udemy.
+- Online Courses**: Enroll in courses such as Google's UX Design Certificate on Coursera, offerings from the Interaction Design Foundation, or classes on Udemy.
 - **Bootcamps**: Intensive programs like General Assembly or Springboard can provide structured learning, though they require significant time and financial investment.
 - **Books**: Read key texts such as "Don't Make Me Think" by Steve Krug and "The Design of Everyday Things" by Don Norman.
 
@@ -86,16 +86,12 @@ Your [portfolio](/building-web3-portfolio) serves as your most important asset i
  - Identify a problem you care about and design an app or website to address it.
  - Document your entire process: user research, personas, user flows, and the evolution from low-fidelity wireframes to a polished prototype.
 
-2.
-
-**Redesign Existing Apps**:
+2. **Redesign Existing Apps**:
  - Select an app with a subpar user experience.
  - Conduct a UX audit to pinpoint flaws.
  - Propose a new user flow and design changes, demonstrating your critical thinking and design rationale.
 
-3.
-
-**Volunteer for Non-Profits or Open-Source Projects**:
+3. **Volunteer for Non-Profits or Open-Source Projects**:
  - Many organizations seek design assistance but lack funding. This offers a valuable opportunity to gain practical experience.
 
 Your portfolio should consist of case studies, not just visual showcases. Each project must tell a story, explaining the problem, your process, challenges encountered, and the rationale behind your design choices.

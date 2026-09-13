@@ -58,7 +58,7 @@ As Web3 applications mature, the demand for high-quality design has escalated.
 
 - **What You Do:**
 
-- **-** UX/UI Design:**You create user interfaces for dApps, focusing on usability and accessibility.
+- UX/UI Design:**You create user interfaces for dApps, focusing on usability and accessibility.
  - **Graphic Design:** You develop the visual identity of a project, including logos, branding, and marketing materials.
 - **How to Start:** 1. Build a portfolio showcasing your design concepts. Consider redesigning the interface of a popular dApp that lacks a good user experience.
  2. Share your work on social media platforms and design sites like Behance.

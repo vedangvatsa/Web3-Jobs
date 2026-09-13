@@ -39,21 +39,11 @@ pip install scikit-learn numpy matplotlib
 
 A typical supervised machine learning project consists of five key steps:
 
-1.
-
-**Get the Data**: Collect and load your dataset.
-2.
-
-**Prepare the Data**: Explore the dataset and divide it into training and testing sets.
-3.
-
-**Choose a Model**: Select the appropriate algorithm for your specific problem.
-4.
-
-**Train the Model**: Provide the training data to your model for learning.
-5.
-
-**Evaluate and Predict**: Assess the model's performance and use it for new predictions.
+1. **Get the Data**: Collect and load your dataset.
+2. **Prepare the Data**: Explore the dataset and divide it into training and testing sets.
+3. **Choose a Model**: Select the appropriate algorithm for your specific problem.
+4. **Train the Model**: Provide the training data to your model for learning.
+5. **Evaluate and Predict**: Assess the model's performance and use it for new predictions.
 
 Now, let's break down each step in detail.
 

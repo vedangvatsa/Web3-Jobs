@@ -19,12 +19,8 @@ This handbook outlines a strategic framework for creating a strong go-to-market 
 The three foundational pillars of a successful Web3 GTM strategy include:
 
 1. **Community-Led Growth:** Techniques for Building a active community from the outset and transforming users into owners and advocates.
-2.
-
-**Token Distribution:** The strategic significance of a well-structured [airdrop](/understanding-airdrop-campaigns-in-web3) and the mechanics behind a successful token launch.
-3.
-
-**Decentralized Marketing:** Using unique Web3 channels, including governance forums, Twitter Spaces, and on-chain data.
+2. **Token Distribution:** The strategic significance of a well-structured [airdrop](/understanding-airdrop-campaigns-in-web3) and the mechanics behind a successful token launch.
+3. **Decentralized Marketing:** Using unique Web3 channels, including governance forums, Twitter Spaces, and on-chain data.
 
 In Web3, the go-to-market strategy integrates smoothly with product development. Elements such as tokenomics, governance structures, and community dynamics form the product itself. Grasping this framework is essential for building enduring projects in the digital economy.
 
@@ -44,16 +40,12 @@ Initiate the GTM strategy from day zero. Transparency from the first line of cod
 
 An airdrop, distributing your project's native token to early users and community members, serves as a vital go-to-market strategy in Web3. A well-structured airdrop achieves two objectives:
 
-1.
-
-**Kickstarting Decentralization:** It distributes ownership among a diverse group of stakeholders.
-2.
-
-**Rewarding Early Adopters:** It creates a viral marketing loop as users engage with your protocol to qualify for the airdrop.
+1. **Kickstarting Decentralization:** It distributes ownership among a diverse group of stakeholders.
+2. **Rewarding Early Adopters:** It creates a viral marketing loop as users engage with your protocol to qualify for the airdrop.
 
 **Designing an effective airdrop:**
 
-- **-** Target Genuine Users:**Establish criteria that reward committed, long-term users while filtering out "sybil attackers" (users who create multiple wallets to exploit the airdrop). Evaluate transaction volume, frequency of use, and interaction with various protocol features.
+- Target Genuine Users:**Establish criteria that reward committed, long-term users while filtering out "sybil attackers" (users who create multiple wallets to exploit the airdrop). Evaluate transaction volume, frequency of use, and interaction with various protocol features.
 - **Be Retroactive:** Surprise airdrops that reward past usage ensure recipients are genuine users rather than speculative participants.
 - **Create a Narrative:** Use the airdrop to communicate your project's values and commitment to community ownership.
 

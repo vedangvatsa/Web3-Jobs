@@ -97,7 +97,7 @@ These numbers explain the gap you must manage. Employers buy for speed. Candidat
 
 **Where AI helps:**
 
-- **-** Faster admin.
+- Faster admin.
 
 **Drafting job descriptions, scheduling, and answering routine questions can move from hours to minutes. SHRM users report this as the clearest return.
 - **Consistent process.
@@ -110,7 +110,7 @@ These numbers explain the gap you must manage. Employers buy for speed. Candidat
 
 **Automatic logging of stages, scores, and reasons helps you answer questions later and run audits.** Limits and trade-offs:**
 
-- **-** Bias can scale.
+- Bias can scale.
 
 **A small bias in a model can affect thousands of applicants. EEOC guidance from May 18, 2023, under Title VII, explains that the four-fifths rule is one way to check adverse impact. Their example: 80 White and 40 Black applicants take a test, 48 White and 12 Black advance. The selection rate is 60 percent for White and 30 percent for Black. The impact ratio is 30/60 or 0.50, below 0.80, which flags potential adverse impact for further review. The rule is a flag, not proof of a violation, but it triggers the need to show the test is job-related and consistent with business necessity. Source: https://www.eeoc.gov/laws/guidance/select-issues-assessing-adverse-impact-software-algorithms-and-artificial-intelligence-used
 - **Vendor tools are your responsibility.

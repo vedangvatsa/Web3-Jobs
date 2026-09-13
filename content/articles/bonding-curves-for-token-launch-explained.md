@@ -29,23 +29,15 @@ Bonding curve launches offer a capital-efficient and transparent alternative tha
 
 A bonding curve launch follows a structured process:
 
-1.
+1. **The Contract:** A smart contract is created that holds a reserve of a collateral token, such as ETH or USDC.
 
-**The Contract:** A smart contract is created that holds a reserve of a collateral token, such as ETH or USDC.
-
-2.
-
-**The Curve:** A formula, such as `Price = 0.001 * (CurrentSupply)^2`, defines the price. This exponential curve signifies that the price increases at an accelerating rate as more tokens are purchased.
+2. **The Curve:** A formula, such as `Price = 0.001 * (CurrentSupply)^2`, defines the price. This exponential curve signifies that the price increases at an accelerating rate as more tokens are purchased.
 
 3. **The Launch:** The project initiates with an initial supply set to zero and a price close to zero.
 
-4.
+4. **Early Buyers (Minting):** The first buyers send ETH to the contract. The contract calculates the price using the formula, mints the corresponding new tokens, and transfers them to the buyer. The ETH sent is added to the reserve. As token supply increases, the price for subsequent buyers rises along the predefined curve.
 
-**Early Buyers (Minting):** The first buyers send ETH to the contract. The contract calculates the price using the formula, mints the corresponding new tokens, and transfers them to the buyer. The ETH sent is added to the reserve. As token supply increases, the price for subsequent buyers rises along the predefined curve.
-
-5.
-
-**Later Sellers (Burning):** If an early buyer decides to sell their tokens, they can return them to the bonding curve contract. The contract calculates the current price, sends the appropriate amount of ETH from the reserve, and burns the tokens received.
+5. **Later Sellers (Burning):** If an early buyer decides to sell their tokens, they can return them to the bonding curve contract. The contract calculates the current price, sends the appropriate amount of ETH from the reserve, and burns the tokens received.
 
 ### The Benefits of a Bonding Curve Launch
 

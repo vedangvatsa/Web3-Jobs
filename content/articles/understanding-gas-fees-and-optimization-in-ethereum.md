@@ -190,7 +190,9 @@ A simple copy from calldata to memory costs gas that grows with size. For one ad
 
 ### If you are a Solidity developer
 
-These five patterns give the largest savings for the least risk. All are documented in the Solidity docs and Ethereum specs.**1. Minimize storage writes. Cache in memory.**
+These five patterns give the largest savings for the least risk. All are documented in the Solidity docs and Ethereum specs.
+
+**1. Minimize storage writes. Cache in memory.**
 
 Storage is the costliest access. Load once, work in memory, write once.
 
@@ -224,7 +226,9 @@ struct Bad { uint128 a; uint256 b; uint128 c; }
 struct Good { uint128 a; uint128 c; uint256 b; }
 ```
 
-This only helps storage. For memory or calldata variables, use `uint256` - the EVM works natively on 32-byte words, so smaller types there can cost more.**3. Use calldata for read-only external inputs.**```solidity
+This only helps storage. For memory or calldata variables, use `uint256` - the EVM works natively on 32-byte words, so smaller types there can cost more.
+
+**3. Use calldata for read-only external inputs.**```solidity
 // Copies bytes into memory
 function processBad(string memory data) external { }
 
@@ -232,7 +236,9 @@ function processBad(string memory data) external { }
 function processGood(string calldata data) external { }
 ```
 
-For dynamic types like `bytes`, `string`, and arrays, `calldata` avoids a copy. It is read-only, so you cannot modify it without copying to memory. Use it when you read and do not mutate.**4. Use custom errors instead of string requires.
+For dynamic types like `bytes`, `string`, and arrays, `calldata` avoids a copy. It is read-only, so you cannot modify it without copying to memory. Use it when you read and do not mutate.
+
+**4. Use custom errors instead of string requires.
 
 **Custom errors shipped in Solidity 0.8.4, documented on soliditylang.org in April 2021. They store a 4-byte selector instead of a full string, which saves deployment gas and runtime gas when the revert is hit.
 

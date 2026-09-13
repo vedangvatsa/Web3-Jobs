@@ -27,7 +27,7 @@ India's Web3 scene stands out for its scale and technical expertise. Several fac
 
 - **Key Hubs:**
 
-- **-** Bangalore:**Known as the "Silicon Valley of India," Bangalore is a main center for Web3 development, housing the headquarters of Polygon and numerous other startups.
+- Bangalore:**Known as the "Silicon Valley of India," Bangalore is a main center for Web3 development, housing the headquarters of Polygon and numerous other startups.
  - **Hyderabad, Pune, and Delhi (NCR):** These cities are rapidly emerging as significant centers for blockchain talent, each Building its own active local community.
 
 ### In-Demand Roles and Salary Expectations
@@ -67,22 +67,16 @@ Salaries for top-tier auditors or protocol architects can be significantly highe
 
 ### How to Get a Web3 Job in India
 
-1.
+1. **Engage with the Community:**
 
-**Engage with the Community:**
-
-- **-** Online:**Participate in India's active Web3 community through platforms like Twitter, Telegram, and WhatsApp. Join discussions and build your professional network.
+- Online:**Participate in India's active Web3 community through platforms like Twitter, Telegram, and WhatsApp. Join discussions and build your professional network.
  - **Offline:** Attend local meetups in cities like Bangalore and Hyderabad. National events like ETHIndia, one of the largest Ethereum hackathons, serve as excellent recruiting venues.
 
-2.
-
-**Build a Portfolio:** Your portfolio serves as your proof of work.
+2. **Build a Portfolio:** Your portfolio serves as your proof of work.
  - **Developers:** A well-maintained GitHub profile acts as your resume. Engage in projects, contribute to DAOs, and participate in hackathons. Winning a bounty at ETHIndia can significantly enhance your appeal to employers.
  - **Non-Technical Roles:** Showcase your expertise through public content, such as blog posts or Twitter threads. An analysis of the Indian DeFi sector or a growth strategy for a local NFT project can help you stand out.
 
-3.
-
-**Target Global Remote Opportunities:** Although the local job market is strong, many high-paying positions are available with international, remote-first companies and DAOs. These organizations are eager to hire in India to tap into its rich talent pool and often offer competitive global salaries.
+3. **Target Global Remote Opportunities:** Although the local job market is strong, many high-paying positions are available with international, remote-first companies and DAOs. These organizations are eager to hire in India to tap into its rich talent pool and often offer competitive global salaries.
 
 ### Find Your Web3 Job in India
 

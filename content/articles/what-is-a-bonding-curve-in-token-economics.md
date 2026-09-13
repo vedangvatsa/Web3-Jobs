@@ -18,15 +18,11 @@ This mechanism establishes a liquid and predictable market from the token's ince
 
 A bonding curve operates through a smart contract that holds a reserve of collateral tokens, such as [ETH](/what-is-ethereum) or stablecoins. The contract is designed to issue a new native token.
 
-1.
-
-**The Curve**: The curve's mathematical formula defines the price of the native token based on its current supply. For example, a linear bonding curve could follow the formula `Price = 0.001 * CurrentSupply`.
+1. **The Curve**: The curve's mathematical formula defines the price of the native token based on its current supply. For example, a linear bonding curve could follow the formula `Price = 0.001 * CurrentSupply`.
 
 2. **Buying (Minting)**: When a user wishes to acquire the native token, they send collateral (e.g., ETH) to the smart contract. The contract calculates the current price based on supply, mints the corresponding number of new tokens, and transfers them to the buyer. The buyer's collateral becomes part of the contract's reserve pool. As supply increases, the price for subsequent buyers rises.
 
-3.
-
-**Selling (Burning)**: When a user intends to sell the native token, they return it to the smart contract. The contract computes the current price, withdraws the corresponding collateral from its reserve pool, and sends it to the seller while burning the native tokens received. As supply decreases, the price for the next seller declines.
+3. **Selling (Burning)**: When a user intends to sell the native token, they return it to the smart contract. The contract computes the current price, withdraws the corresponding collateral from its reserve pool, and sends it to the seller while burning the native tokens received. As supply decreases, the price for the next seller declines.
 
 The bonding curve itself acts as the market. It remains available for buying or selling, and its prices are predictable based on the established formula.
 

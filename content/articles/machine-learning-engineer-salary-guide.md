@@ -87,12 +87,8 @@ When comparing offers, always compare the total compensation, not just the base 
 
 **After you have a solid foundation, go deep in a high-demand area like NLP or MLOps. Specialists command higher salaries than generalists.
 3. **Build a Strong [Portfolio](/building-web3-portfolio)** Your GitHub profile is your [resume](/how-to-build-a-web3-resume-that-stands-out). A portfolio of interesting projects is the best way to demonstrate your skills to potential employers.
-4.
-
-**Develop Business Acumen** The most valuable engineers are those who can connect their technical work to business impact. Understand the "why" behind the models you are building.
-5.
-
-**Practice Your Negotiation Skills** Always negotiate your offers. Companies expect it. Research the market rates for your experience level and location, and be prepared to advocate for your value.
+4. **Develop Business Acumen** The most valuable engineers are those who can connect their technical work to business impact. Understand the "why" behind the models you are building.
+5. **Practice Your Negotiation Skills** Always negotiate your offers. Companies expect it. Research the market rates for your experience level and location, and be prepared to advocate for your value.
 
 The demand for skilled Machine Learning Engineers is not slowing down. By focusing on continuous learning, building a strong portfolio, and understanding the factors that drive compensation, you can build a successful and financially rewarding career in this exciting field.
 

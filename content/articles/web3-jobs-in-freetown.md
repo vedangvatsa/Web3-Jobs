@@ -52,33 +52,25 @@ Freetown's job market is specialized, concentrating on roles tied to the nationa
 
 ### Building a Web3 Career in Freetown
 
-1.
+1. **Specialize in Decentralized Identity (DID):** Freetown's niche lies in DID and SSI. Become proficient in these areas by studying the Decentralized Identity Foundation (DIF) and relevant technical standards. Develop [portfolio](/building-web3-portfolio) projects focused on identity to enhance your qualifications for key roles in the nation's flagship initiatives.
 
-**Specialize in Decentralized Identity (DID):** Freetown's niche lies in DID and SSI. Become proficient in these areas by studying the Decentralized Identity Foundation (DIF) and relevant technical standards. Develop [portfolio](/building-web3-portfolio) projects focused on identity to enhance your qualifications for key roles in the nation's flagship initiatives.
+2. **Engage with Government and NGO Stakeholders:** Key players in Freetown's ecosystem include government agencies and international partners. Establish connections with individuals at the National Civil Registration Authority and UN agencies involved in the digital identity project.
 
-2.
+3. **Prioritize Security and Privacy:** Demonstrate a thorough understanding of data privacy and security in all your work. This expertise is essential for any project dealing with citizen identity.
 
-**Engage with Government and NGO Stakeholders:** Key players in Freetown's ecosystem include government agencies and international partners. Establish connections with individuals at the National Civil Registration Authority and UN agencies involved in the digital identity project.
-
-3.
-
-**Prioritize Security and Privacy:** Demonstrate a thorough understanding of data privacy and security in all your work. This expertise is essential for any project dealing with citizen identity.
-
-4.
-
-**Act as a Community Educator:** Contribute to building the grassroots ecosystem by sharing your knowledge. Conduct workshops on digital identity and self-custody, preparing the next generation of Web3 talent in Freetown.
+4. **Act as a Community Educator:** Contribute to building the grassroots ecosystem by sharing your knowledge. Conduct workshops on digital identity and self-custody, preparing the next generation of Web3 talent in Freetown.
 
 ### Salary and Compensation Overview
 
 **Developer Compensation:**
 
-- **-** Junior DID Developer (0-1 year):**Competitive
+- Junior DID Developer (0-1 year):**Competitive
 - **Mid-Level Identity/Security Developer (1-3 years):** Competitive
 - **Senior/Lead Developer (3+ years):** Competitive
 
 **GovTech and Project Management:**
 
-- **-** Project Manager:**Competitive
+- Project Manager:**Competitive
 - **Product Manager (Identity):** Competitive
 - **Security/Cryptography Expert:** Competitive
 

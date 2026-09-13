@@ -45,17 +45,11 @@ Performance Improvement Plans have a bad reputation because most of them are jus
 
 A PIP that genuinely works has three things:
 
-1.
+1. **Clear, measurable goals.** Not "improve code quality" - instead, "reduce PR review rejections to under 20% over the next six weeks." The person needs to know exactly what success looks like.
 
-**Clear, measurable goals.** Not "improve code quality" - instead, "reduce PR review rejections to under 20% over the next six weeks." The person needs to know exactly what success looks like.
+2. **Resources and support.** If you're asking someone to improve, give them the tools to do it. That might mean reducing their workload temporarily, assigning a mentor, or providing access to training. A PIP without support is just a countdown clock.
 
-2.
-
-**Resources and support.** If you're asking someone to improve, give them the tools to do it. That might mean reducing their workload temporarily, assigning a mentor, or providing access to training. A PIP without support is just a countdown clock.
-
-3.
-
-**Regular check-ins.** Weekly, at minimum. These aren't interrogations - they're quick syncs to see what's working, what's not, and whether the goals need adjusting. Waiting until the end of a 90-day PIP to check progress defeats the purpose.
+3. **Regular check-ins.** Weekly, at minimum. These aren't interrogations - they're quick syncs to see what's working, what's not, and whether the goals need adjusting. Waiting until the end of a 90-day PIP to check progress defeats the purpose.
 
 ## Document Everything
 

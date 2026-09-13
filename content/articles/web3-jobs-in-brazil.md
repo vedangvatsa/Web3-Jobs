@@ -50,19 +50,13 @@ The demand for skilled Web3 professionals in Brazil is substantial, leading to c
 
 1. **Language Proficiency is Key:** While English serves as the working language for many development teams, fluency in Portuguese is essential for roles that require interaction with the local community, market, or partners. Community and marketing positions often necessitate Portuguese proficiency.
 
-2.
-
-**Participate in Local Events and Networking:** The Brazilian Web3 community emphasizes social interaction and collaboration.
+2. **Participate in Local Events and Networking:** The Brazilian Web3 community emphasizes social interaction and collaboration.
  - **Conferences:** Attend significant events such as [Ethereum](https://ethereum.org) Rio, ETHSamba, and various blockchain conferences in São Paulo.
  - **Meetups:** Engage with local meetups to connect with builders, founders, and investors in a more personal setting.
 
-3.
+3. **Address Local Challenges:** Show a clear understanding of the specific issues and opportunities within the Brazilian market. Frame your skills in relation to solving problems such as financial inclusion, inflation, and cross-border transactions for Brazilian users.
 
-**Address Local Challenges:** Show a clear understanding of the specific issues and opportunities within the Brazilian market. Frame your skills in relation to solving problems such as financial inclusion, inflation, and cross-border transactions for Brazilian users.
-
-4.
-
-**Develop a "Proof of Work" [Portfolio](/building-web3-portfolio):** Public contributions serve as a strong resume. Write content in Portuguese about a project you admire, create a dApp that addresses a local issue, or become an active member of a Brazilian [DAO](/what-is-a-dao) or community.
+4. **Develop a "Proof of Work" [Portfolio](/building-web3-portfolio):** Public contributions serve as a strong resume. Write content in Portuguese about a project you admire, create a dApp that addresses a local issue, or become an active member of a Brazilian [DAO](/what-is-a-dao) or community.
 
 ### Finding a Web3 Job in Brazil
 

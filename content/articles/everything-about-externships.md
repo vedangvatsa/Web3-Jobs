@@ -54,41 +54,27 @@ Externships enable the exploration of whether a specific career path is suitable
 
 Externships, despite being unpaid, provide numerous benefits that can significantly impact career development:
 
-1.
+1. **Career Clarity:** Externships offer a low-risk opportunity to explore potential careers. Shadowing a professional can provide a clearer perspective on job responsibilities, helping individuals determine if a career aligns with their interests and skills. For instance, a day spent with a financial analyst can reveal the job's realities compared to reading about it online.
 
-**Career Clarity:** Externships offer a low-risk opportunity to explore potential careers. Shadowing a professional can provide a clearer perspective on job responsibilities, helping individuals determine if a career aligns with their interests and skills. For instance, a day spent with a financial analyst can reveal the job's realities compared to reading about it online.
+2. **Networking Opportunities:** Externships build valuable connections within the industry. Meeting professionals can lead to future internships or job opportunities. An extern you shadow may be more inclined to assist you later than a random LinkedIn contact.
 
-2.
+3. **Resume Enhancement:** An externship adds value to a resume, showcasing initiative and a proactive approach to career exploration. It indicates a commitment to gaining real-world exposure beyond academic studies.
 
-**Networking Opportunities:** Externships build valuable connections within the industry. Meeting professionals can lead to future internships or job opportunities. An extern you shadow may be more inclined to assist you later than a random LinkedIn contact.
-
-3.
-
-**Resume Enhancement:** An externship adds value to a resume, showcasing initiative and a proactive approach to career exploration. It indicates a commitment to gaining real-world exposure beyond academic studies.
-
-4.
-
-**Skill Observation:** Participants can identify essential skills for specific roles. Observing professionals allows individuals to discern which technical and soft skills are necessary for success in their field of interest.
+4. **Skill Observation:** Participants can identify essential skills for specific roles. Observing professionals allows individuals to discern which technical and soft skills are necessary for success in their field of interest.
 
 ### How to Find and Secure an Externship
 
 Finding an externship requires strategic planning and proactive outreach. Here are effective methods for identifying and securing opportunities:
 
-1.
+1. **University Career Services:** Many universities have established externship programs, often available during winter or spring breaks. These programs enable connections with alumni and companies willing to host students.
 
-**University Career Services:** Many universities have established externship programs, often available during winter or spring breaks. These programs enable connections with alumni and companies willing to host students.
-
-2.
-
-**Cold Outreach:** Creating your own externship through cold outreach can be effective. Follow these steps:
+2. **Cold Outreach:** Creating your own externship through cold outreach can be effective. Follow these steps:
  - Identify professionals in your field of interest using LinkedIn or Twitter.
  - Conduct research on them and their organizations.
  - Send a polite message expressing admiration for their work and request a brief informational conversation rather than a job inquiry.
  - If the discussion goes well, follow up with a request to shadow them for a day.
 
-3.
-
-**Networking:** Use your existing network to discover externship opportunities. Engage professors, family friends, and alumni to share your interests. Personal introductions often yield better results than cold applications.
+3. **Networking:** Use your existing network to discover externship opportunities. Engage professors, family friends, and alumni to share your interests. Personal introductions often yield better results than cold applications.
 
 ### Making the Most of Your Externship
 
@@ -104,22 +90,12 @@ Externships provide a unique opportunity for career exploration. They offer insi
 
 ### Steps for Effective Career Exploration
 
-1.
+1. **Understand Core Principles:** Begin with a solid understanding of the externship concept. Familiarize yourself with best practices from industry leaders and experts.
 
-**Understand Core Principles:** Begin with a solid understanding of the externship concept. Familiarize yourself with best practices from industry leaders and experts.
+2. **Assess Current Skills:** Evaluate your strengths and weaknesses. Identify specific challenges you face in your current career path to inform your exploration.
 
-2.
+3. **Develop a Tailored Strategy:** Create a personalized plan based on your unique circumstances. Consider the dynamics of your role, team culture, and personal career goals.
 
-**Assess Current Skills:** Evaluate your strengths and weaknesses. Identify specific challenges you face in your current career path to inform your exploration.
+4. **Implement Gradually:** Avoid overwhelming changes. Start with small, manageable adjustments and track their effectiveness, building on what works over time.
 
-3.
-
-**Develop a Tailored Strategy:** Create a personalized plan based on your unique circumstances. Consider the dynamics of your role, team culture, and personal career goals.
-
-4.
-
-**Implement Gradually:** Avoid overwhelming changes. Start with small, manageable adjustments and track their effectiveness, building on what works over time.
-
-5.
-
-**Measure Progress:** Continuously monitor your progress. Are you achieving your goals? Adjust your strategies based on feedback and outcomes to ensure ongoing improvement.
+5. **Measure Progress:** Continuously monitor your progress. Are you achieving your goals? Adjust your strategies based on feedback and outcomes to ensure ongoing improvement.

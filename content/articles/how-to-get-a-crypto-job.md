@@ -88,7 +88,9 @@ Treat pay as two views: market reports that track live boards, and averages from
 
 This plan follows what hiring teams say they actually check, and it fits a 8 to 12 hour per week schedule.
 
-#### Weeks 1 to 3: listen, use the tools, pick a lane**1. Set up a self-custody wallet and use it.
+#### Weeks 1 to 3: listen, use the tools, pick a lane
+
+**1. Set up a self-custody wallet and use it.
 
 **Install MetaMask from metamask.io only. Write your Secret Recovery Phrase on paper and store it offline. Fund it with $10 to $20 you can afford to learn with, then on a testnet or a low-fee Layer 2 like Base do one swap on Uniswap at uniswap.org and one supply and borrow on Aave at aave.com. Read the health factor, fees, and approval steps. Document what confused you. That note becomes your first post. These exact steps appear in successful switcher guides and match how teams check basic fluency. Source: https://web3vacancy.com/how-to-get-a-web3-job** 2. Pick one lane and one ecosystem.
 

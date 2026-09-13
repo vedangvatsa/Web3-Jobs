@@ -25,12 +25,8 @@ The e-CNY is a digital representation of China's national currency, the yuan. It
 
 The e-CNY functions within a two-tier system:
 
-1.
-
-**Tier 1:** The central bank (PBOC) issues e-CNY to authorized commercial banks and payment platforms such as Alipay and WeChat Pay.
-2.
-
-**Tier 2:** These banks and platforms distribute the e-CNY to consumers through digital wallets.
+1. **Tier 1:** The central bank (PBOC) issues e-CNY to authorized commercial banks and payment platforms such as Alipay and WeChat Pay.
+2. **Tier 2:** These banks and platforms distribute the e-CNY to consumers through digital wallets.
 
 This structure enables the government to maintain control while using the existing financial infrastructure of China.
 

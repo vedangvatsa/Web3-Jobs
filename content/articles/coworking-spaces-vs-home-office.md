@@ -82,15 +82,7 @@ Not at all. Working from home is accepted and respected in many industries. As l
 
 #### What are some common mistakes when choosing a workspace?
 
-1.
-
-**Not Assessing Needs:** Failing to evaluate your work style and personal preferences can lead to dissatisfaction with your chosen environment.
-2.
-
-**Ignoring Costs:** Overlooking the financial implications of coworking memberships can strain your budget.
-3.
-
-**Underestimating Commute Time:** Not accounting for travel time may lead to frustration and decreased productivity.
-4.
-
-**Neglecting Amenities:** Choosing a space without considering the necessary resources can hinder your work efficiency.
+1. **Not Assessing Needs:** Failing to evaluate your work style and personal preferences can lead to dissatisfaction with your chosen environment.
+2. **Ignoring Costs:** Overlooking the financial implications of coworking memberships can strain your budget.
+3. **Underestimating Commute Time:** Not accounting for travel time may lead to frustration and decreased productivity.
+4. **Neglecting Amenities:** Choosing a space without considering the necessary resources can hinder your work efficiency.

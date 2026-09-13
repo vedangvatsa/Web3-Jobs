@@ -66,18 +66,10 @@ To understand why an electronics importer in California or an apparel manufactur
 When a corporate buyer sends a cross-border SWIFT payment to an overseas supplier, funds do not travel directly. Instead, they move through a series of intermediate institutions:
 
 1. **Buyer's Domestic Bank:** Initiates the transfer and extracts an origination wire fee ($25 to $50).
-2.
-
-**National Clearing Facility (Fedwire / CHIPS):** Routes the payment to a designated money-center bank.
-3.
-
-**US Correspondent Bank (Nostro / Vostro):** Converts currencies at a retail foreign exchange markup, typically 1.5% to 3.5% above interbank rates.
-4.
-
-**Foreign Intermediary Bank:** Charges an in-transit processing fee ($15 to $75) and queues the transaction for manual compliance review.
-5.
-
-**Supplier's Regional Bank:** Imposes an inward remittance charge and converts funds into local currency after a float delay of 3 to 5 business days.
+2. **National Clearing Facility (Fedwire / CHIPS):** Routes the payment to a designated money-center bank.
+3. **US Correspondent Bank (Nostro / Vostro):** Converts currencies at a retail foreign exchange markup, typically 1.5% to 3.5% above interbank rates.
+4. **Foreign Intermediary Bank:** Charges an in-transit processing fee ($15 to $75) and queues the transaction for manual compliance review.
+5. **Supplier's Regional Bank:** Imposes an inward remittance charge and converts funds into local currency after a float delay of 3 to 5 business days.
 
 At every hop in this chain, friction compounds across four distinct areas:
 
@@ -211,12 +203,8 @@ Over the past 24 months, traditional payment incumbents recognized that building
 **Conduit**| Emerging Market Network | Series A Expansion | Direct integration into Brazil Pix, Mexico SPEI, and 23 African mobile money rails |
 
 This institutional wave demonstrates two points:
-1.
-
-**The settlement rail has been validated.** Global payment networks now treat stablecoins as standard infrastructure rather than an experimental edge case.
-2.
-
-**Corridor access is uneven.** Capital has poured into G10 payment corridors (US-Europe, US-Mexico, UK-EU), driving margins toward zero. Meanwhile, high-spread corridors like direct trade within Latin America, US-Turkey trade, and Sub-Saharan disbursements remain supported by only a handful of enterprise platforms.
+1. **The settlement rail has been validated.** Global payment networks now treat stablecoins as standard infrastructure rather than an experimental edge case.
+2. **Corridor access is uneven.** Capital has poured into G10 payment corridors (US-Europe, US-Mexico, UK-EU), driving margins toward zero. Meanwhile, high-spread corridors like direct trade within Latin America, US-Turkey trade, and Sub-Saharan disbursements remain supported by only a handful of enterprise platforms.
 
 ---
 

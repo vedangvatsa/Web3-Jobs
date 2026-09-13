@@ -23,12 +23,8 @@ For professionals involved in Web3, understanding rollups is essential. They fun
 A rollup's central concept is straightforward: execute computation off-chain while retaining data on-chain. A rollup operates as a Layer 2 blockchain that runs parallel to the Ethereum mainnet (Layer 1). This process involves:
 
 1. **Executing Transactions Off-Chain**: Users submit transactions to the Layer 2 rollup, where they are processed rapidly and cost-effectively in a dedicated high-performance environment.
-2.
-
-**Bundling Transactions**: The rollup's operator, known as a "sequencer," compiles hundreds or thousands of Layer 2 transactions into a single batch.
-3.
-
-**Posting Data On-Chain**: The sequencer posts a compressed version of this transaction data back to the Ethereum mainnet. This step is important; by submitting the data on-chain, the rollup ensures that its state can be independently verified while inheriting Ethereum's security and data availability. Anyone can check the posted data on Layer 1 and reconstruct the state of Layer 2.
+2. **Bundling Transactions**: The rollup's operator, known as a "sequencer," compiles hundreds or thousands of Layer 2 transactions into a single batch.
+3. **Posting Data On-Chain**: The sequencer posts a compressed version of this transaction data back to the Ethereum mainnet. This step is important; by submitting the data on-chain, the rollup ensures that its state can be independently verified while inheriting Ethereum's security and data availability. Anyone can check the posted data on Layer 1 and reconstruct the state of Layer 2.
 
 This model enables rollups to achieve remarkable scalability gains. By offloading the resource-intensive task of transaction execution, rollups can offer transaction fees that are significantly lower than those on the Ethereum mainnet while remaining secured by it.
 

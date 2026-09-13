@@ -33,24 +33,12 @@ All rollups share the same basic flow. The difference is how Ethereum decides a 
 
 ### Step by step
 
-1.
-
-**Submit.** You send a transaction to the rollup. Most rollups use a sequencer, a single operator that orders transactions and gives you a fast soft confirmation in seconds.
-2.
-
-**Execute off chain.** The rollup executes the transaction on its Layer 2 virtual machine and updates its state tree. The state is stored as a Merkle tree. The root of that tree is the compact fingerprint of all accounts, balances, and code at that point.
-3.
-
-**Batch and compress.** The sequencer groups hundreds or thousands of transactions into a batch. It compresses the batch. Arbitrum documents use of Brotli for this step. The goal is to reduce the bytes you must pay to publish.
-4.
-
-**Post data to Ethereum.** The batch poster sends the compressed batch to Ethereum. Since March 2024 it can use blob-carrying transactions (type 3) introduced by EIP-4844. Each blob holds 4096 field elements of 32 bytes, about 128 KiB usable per blob. Ethereum targets 3 blobs per block (about 0.375 MB) and allows up to 6 (about 0.75 MB). Blobs are kept by consensus nodes for about 4096 epochs, roughly 18 days, then pruned. Before blobs, rollups used calldata at 16 gas per non-zero byte and 4 gas per zero byte.
-5.
-
-**Commit state.** The rollup contract on Ethereum stores the new state root and the batch root. The state root commits to the new Layer 2 state. The batch root lets anyone prove a specific transaction was included.
-6.
-
-**Prove or allow a challenge.** This step splits by rollup type. An optimistic rollup opens a challenge period. A ZK-rollup submits a validity proof that Ethereum verifies.
+1. **Submit.** You send a transaction to the rollup. Most rollups use a sequencer, a single operator that orders transactions and gives you a fast soft confirmation in seconds.
+2. **Execute off chain.** The rollup executes the transaction on its Layer 2 virtual machine and updates its state tree. The state is stored as a Merkle tree. The root of that tree is the compact fingerprint of all accounts, balances, and code at that point.
+3. **Batch and compress.** The sequencer groups hundreds or thousands of transactions into a batch. It compresses the batch. Arbitrum documents use of Brotli for this step. The goal is to reduce the bytes you must pay to publish.
+4. **Post data to Ethereum.** The batch poster sends the compressed batch to Ethereum. Since March 2024 it can use blob-carrying transactions (type 3) introduced by EIP-4844. Each blob holds 4096 field elements of 32 bytes, about 128 KiB usable per blob. Ethereum targets 3 blobs per block (about 0.375 MB) and allows up to 6 (about 0.75 MB). Blobs are kept by consensus nodes for about 4096 epochs, roughly 18 days, then pruned. Before blobs, rollups used calldata at 16 gas per non-zero byte and 4 gas per zero byte.
+5. **Commit state.** The rollup contract on Ethereum stores the new state root and the batch root. The state root commits to the new Layer 2 state. The batch root lets anyone prove a specific transaction was included.
+6. **Prove or allow a challenge.** This step splits by rollup type. An optimistic rollup opens a challenge period. A ZK-rollup submits a validity proof that Ethereum verifies.
 
 After step 6, Ethereum considers the state update settled. Bridges then use that settled root to complete deposits and withdrawals.
 

@@ -81,7 +81,9 @@ Modern facial recognition systems, particularly those employing 3D mapping and l
 
 #### 2. How does facial recognition operate in crowded environments?
 
-Surveillance systems in public venues can scan crowds for multiple faces simultaneously. These systems capture video, detect faces in real-time, generate faceprints, and compare them against a watchlist or extensive database for potential matches.**3. Is my facial data stored in a central database?** 
+Surveillance systems in public venues can scan crowds for multiple faces simultaneously. These systems capture video, detect faces in real-time, generate faceprints, and compare them against a watchlist or extensive database for potential matches.
+
+**3. Is my facial data stored in a central database?** 
 The answer varies by application. For instance, when using a smartphone's face open feature, your facial data is usually stored locally on your device in an encrypted format, not uploaded to a central server. However, in law enforcement or social media contexts, your faceprint may reside within a large, centralized database.
 
 ### Understanding Facial Recognition: Importance for Professionals

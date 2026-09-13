@@ -92,14 +92,8 @@ The benefit varies. For roles in marketing, operations, or product management, t
 
 Earning a certification is just the beginning. Here are steps to maximize its impact:
 
-1.
-
-**Add it to Your Digital Identity**: Prominently feature your certification on your Web3 resume, LinkedIn profile, and Twitter bio.
-2.
-
-**Share Your Experience**: Write a blog post detailing your learning journey. Highlight the most valuable lessons and how the experience reshaped your perspective.
-3.
-
-**Implement Your Skills**: Apply your new knowledge to a personal project. If you completed a developer bootcamp, create a new dApp. If you earned an analytics certification, develop a new Dune dashboard.
+1. **Add it to Your Digital Identity**: Prominently feature your certification on your Web3 resume, LinkedIn profile, and Twitter bio.
+2. **Share Your Experience**: Write a blog post detailing your learning journey. Highlight the most valuable lessons and how the experience reshaped your perspective.
+3. **Implement Your Skills**: Apply your new knowledge to a personal project. If you completed a developer bootcamp, create a new dApp. If you earned an analytics certification, develop a new Dune dashboard.
 
 A Web3 certification does not guarantee a job. It should complement a strong portfolio and genuine enthusiasm for the field. When integrated into a broader strategy of learning, building, and public contribution, a respected certification can validate your skills, structure your learning path, and provide a competitive edge in the decentralized economy.

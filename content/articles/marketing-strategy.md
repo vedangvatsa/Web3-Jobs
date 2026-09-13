@@ -47,25 +47,17 @@ Web3 embodies a unique culture with its own language, humor, and aesthetic. A ge
 
 The traditional marketing funnel, Awareness, Interest, Decision, Action, undergoes a significant transformation in Web3. The new funnel emphasizes Building contributors over merely converting customers.
 
-1.
-
-**Discovery (Top of Funnel):** Users learn about your project through organic channels that carry high trust levels, rather than through ads.
+1. **Discovery (Top of Funnel):** Users learn about your project through organic channels that carry high trust levels, rather than through ads.
  - **Channels:** Influential Twitter accounts, crypto-focused media (e.g., Bankless, The Defiant), podcast appearances, and endorsements from other reputable projects.
 
-2.
-
-**Immersion (The Rabbit Hole):** A potential user joins your Discord or follows you on Twitter. During this phase, they may lurk for days or weeks, absorbing conversations and gauging the project's culture.
+2. **Immersion (The Rabbit Hole):** A potential user joins your Discord or follows you on Twitter. During this phase, they may lurk for days or weeks, absorbing conversations and gauging the project's culture.
  - **Your Goal:** Focus on education and setting the right vibe. Assess whether the community is helpful and if the discussions are intelligent and constructive. The quality of your educational content and community management is critical.
 
-3.
-
-**Contribution (The First Step):** The user takes their first active step in contributing.
+3. **Contribution (The First Step):** The user takes their first active step in contributing.
  - **Actions:** This could involve asking insightful questions, assisting newcomers, making suggestions, or engaging in governance discussions.
  - **Your Goal:** Simplify and reward contributions. Implement **bounties and grants** for small tasks to incentivize participation.
 
-4.
-
-**Ownership (Bottom of Funnel):** The user experiences a sense of belonging and decides to acquire a genuine [stake](/how-to-become-a-web3-staking-specialist) in the network.
+4. **Ownership (Bottom of Funnel):** The user experiences a sense of belonging and decides to acquire a genuine [stake](/how-to-become-a-web3-staking-specialist) in the network.
  - **Actions:** This may include purchasing the project's [token](/what-is-a-token), providing liquidity to the protocol, or acquiring a "genesis" [NFT](/what-are-nfts). They evolve from passive observers to active owners and advocates.
 
 ### Measuring Success in Web3 Marketing

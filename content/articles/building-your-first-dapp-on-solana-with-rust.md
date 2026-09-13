@@ -37,15 +37,9 @@ Rust is the preferred language for developing on Solana due to its memory safety
 
 To begin building on Solana, you need to install several tools:
 
-1.
-
-**Rust:** Install Rust through `rustup`, which manages Rust versions and associated tools.
-2.
-
-**Solana Tool Suite:** This includes command-line tools essential for interacting with the Solana blockchain.
-3.
-
-**Anchor:** Install Anchor to simplify your development process. It provides a command-line interface (CLI) and a Domain Specific Language (DSL) for writing programs.
+1. **Rust:** Install Rust through `rustup`, which manages Rust versions and associated tools.
+2. **Solana Tool Suite:** This includes command-line tools essential for interacting with the Solana blockchain.
+3. **Anchor:** Install Anchor to simplify your development process. It provides a command-line interface (CLI) and a Domain Specific Language (DSL) for writing programs.
 
 **Actionable Step:** Check the official Anchor installation guide for detailed setup instructions. Proper environment configuration is critical to successful development.
 
@@ -131,15 +125,11 @@ After writing your program, work through to your project's root directory and ex
  anchor build
  ```
 
-2.
-
-**Start a Local Test Validator:**```bash
+2. **Start a Local Test Validator:**```bash
  solana-test-validator
  ```
 
-3.
-
-**Deploy the Program:** 
+3. **Deploy the Program:** 
  ```bash
  anchor deploy
  ```
@@ -232,18 +222,10 @@ Consider Alex, a developer who transitioned from a traditional software engineer
 Maria, a project manager in a Web3 startup, used her understanding of decentralized finance (DeFi) to simplify project workflows. By implementing agile methodologies tailored for blockchain projects, she improved team productivity and enhanced project outcomes.
 
 1. **Rushing Development:** Building blockchain applications takes time. Hasty decisions can lead to critical mistakes.
-2.
-
-**Neglecting User Feedback:** Engage with users and stakeholders to gather feedback. This input is invaluable for improving your application.
-3.
-
-**One-Size-Fits-All Solutions:** Tailor your approaches based on specific project needs. What works for one project may not suit another.
-4.
-
-**Fear of Failure:** adopt failure as a learning opportunity. Iteration and improvement are part of the development process.
-5.
-
-**Ignoring Metrics:** Track your progress and metrics diligently. Data-driven insights can guide your development efforts effectively.
+2. **Neglecting User Feedback:** Engage with users and stakeholders to gather feedback. This input is invaluable for improving your application.
+3. **One-Size-Fits-All Solutions:** Tailor your approaches based on specific project needs. What works for one project may not suit another.
+4. **Fear of Failure:** adopt failure as a learning opportunity. Iteration and improvement are part of the development process.
+5. **Ignoring Metrics:** Track your progress and metrics diligently. Data-driven insights can guide your development efforts effectively.
 
 ### FAQ
 

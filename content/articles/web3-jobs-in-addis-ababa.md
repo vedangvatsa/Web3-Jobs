@@ -52,18 +52,12 @@ The formal Web3 job market in Addis Ababa is small but growing. Opportunities pr
 
 ### Building a Web3 Career in Addis Ababa
 
-1.
-
-**Educate and Lead:** The young ecosystem provides an opportunity to establish yourself as a leader. Start a blog, YouTube channel, or local meetup group focusing on Web3 education. This approach quickly builds your reputation.
-2.
-
-**Address Real-World Problems:** In your [portfolio](/building-web3-portfolio), emphasize projects that tackle specific challenges in Ethiopia.
+1. **Educate and Lead:** The young ecosystem provides an opportunity to establish yourself as a leader. Start a blog, YouTube channel, or local meetup group focusing on Web3 education. This approach quickly builds your reputation.
+2. **Address Real-World Problems:** In your [portfolio](/building-web3-portfolio), emphasize projects that tackle specific challenges in Ethiopia.
  - *Example Project:* Develop a [smart contract](/what-are-smart-contracts) to monitor coffee shipments from co-ops to exporters.
  - *Example Project:* Create a decentralized application (dApp) for community savings groups (known as "Ekub").
 3. **Engage with International Development Entities:** Many large-scale blockchain initiatives in Ethiopia will likely receive funding from international organizations like the UN or World Bank. Build connections with tech and innovation leaders in these organizations based in Addis Ababa.
-4.
-
-**Develop a Competitive Technical Portfolio:** The most lucrative opportunities will likely be remote. Focus on acquiring top-tier development skills and maintaining a GitHub profile that can compete internationally.
+4. **Develop a Competitive Technical Portfolio:** The most lucrative opportunities will likely be remote. Focus on acquiring top-tier development skills and maintaining a GitHub profile that can compete internationally.
 
 ### Next Steps: Finding a Web3 Job
 

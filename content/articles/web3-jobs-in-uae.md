@@ -52,18 +52,10 @@ The job market in the UAE is fiercely competitive, with companies offering attra
 
 ### Steps to Secure a Web3 Job in the UAE
 
-1.
-
-**Relocation Willingness**: Many top roles, especially in business development and leadership, necessitate a physical presence in Dubai. The UAE offers straightforward visa programs for skilled professionals, enabling this transition.
-2.
-
-**Global Networking**: The Dubai Web3 scene is incredibly international. Expanding your network beyond the local community is vital. Engage actively on platforms like Twitter and participate in major international conferences.
-3.
-
-**Emphasize Cross-Cultural Experience**: Companies in the UAE serve a diverse global user base. Any experience in international teams or marketing to various regions adds significant value to your profile.
-4.
-
-**Participate in Local Events**: The Dubai Web3 community is highly active. Attending meetups, networking events, and major conferences is an effective way to connect with hiring managers and founders.
+1. **Relocation Willingness**: Many top roles, especially in business development and leadership, necessitate a physical presence in Dubai. The UAE offers straightforward visa programs for skilled professionals, enabling this transition.
+2. **Global Networking**: The Dubai Web3 scene is incredibly international. Expanding your network beyond the local community is vital. Engage actively on platforms like Twitter and participate in major international conferences.
+3. **Emphasize Cross-Cultural Experience**: Companies in the UAE serve a diverse global user base. Any experience in international teams or marketing to various regions adds significant value to your profile.
+4. **Participate in Local Events**: The Dubai Web3 community is highly active. Attending meetups, networking events, and major conferences is an effective way to connect with hiring managers and founders.
 
 ### Finding Your Web3 Role in the UAE
 

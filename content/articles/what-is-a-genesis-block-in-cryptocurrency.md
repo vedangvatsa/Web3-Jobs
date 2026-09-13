@@ -34,12 +34,8 @@ The genesis block is hardcoded into the blockchain's software. When a new node j
 The most renowned genesis block is that of [Bitcoin](/what-is-bitcoin), created by the pseudonymous Satoshi Nakamoto on January 3, 2009. Its significance lies in a specific piece of text embedded in the block's data:
 
 >**"The Times 03/Jan/2009 Chancellor on brink of second bailout for banks"** This text serves two key purposes:
-1.
-
-**Timestamp:** It provides definitive proof that the block could not have been created before January 3, 2009.
-2.
-
-**Political Commentary:** Many interpret this as a critique of the traditional financial system, highlighting the failures that necessitated massive bailouts following the 2008 financial crisis.
+1. **Timestamp:** It provides definitive proof that the block could not have been created before January 3, 2009.
+2. **Political Commentary:** Many interpret this as a critique of the traditional financial system, highlighting the failures that necessitated massive bailouts following the 2008 financial crisis.
 
 The Bitcoin genesis block also generated the first-ever Bitcoin transaction, creating an initial reward of 50 BTC. Notably, these coins are unspendable and will remain at their original address indefinitely.
 

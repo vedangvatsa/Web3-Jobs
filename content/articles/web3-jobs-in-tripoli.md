@@ -80,15 +80,9 @@ Tripoli's crypto market stands out for several reasons:
 **Reasons for High Compensation:** 1.
 
 **Authentic Market Knowledge:** You possess firsthand experience in P2P trading.
-2.
-
-**Problem-Solving Skills:** You have creatively tackled financial access issues.
-3.
-
-**Resilience:** You thrive in challenging environments.
-4.
-
-**Market Potential:** Libya presents substantial opportunities in the crypto space.
+2. **Problem-Solving Skills:** You have creatively tackled financial access issues.
+3. **Resilience:** You thrive in challenging environments.
+4. **Market Potential:** Libya presents substantial opportunities in the crypto space.
 
 **Required Skills:**- Proficiency in React, Vue, or similar (frontend)
 - Expertise in Node.js, Python, or Go (backend)

@@ -55,19 +55,11 @@ The Web3 job market in Indonesia is expanding rapidly. Salaries are competitive 
 
 ### Strategies to Secure a Web3 Job in Indonesia
 
-1.
-
-**Fluency in Bahasa Indonesia:** For roles focused on community engagement, marketing, or user support, fluency in the local language is essential. This skill gives local talent an edge and is important for international companies entering the market.
-2.
-
-**Highlight Mobile and Gaming Experience:** Emphasize any background in mobile app development or gaming. Demonstrating an understanding of mobile-first products and a passion for Web3 gaming is beneficial.
-3.
-
-**Develop a Community-Focused [Portfolio](/building-web3-portfolio):** For non-technical professionals, showcase community-centric projects.
+1. **Fluency in Bahasa Indonesia:** For roles focused on community engagement, marketing, or user support, fluency in the local language is essential. This skill gives local talent an edge and is important for international companies entering the market.
+2. **Highlight Mobile and Gaming Experience:** Emphasize any background in mobile app development or gaming. Demonstrating an understanding of mobile-first products and a passion for Web3 gaming is beneficial.
+3. **Develop a Community-Focused [Portfolio](/building-web3-portfolio):** For non-technical professionals, showcase community-centric projects.
  - **Manage a Gaming Guild:** Start and oversee a local gaming guild or community. Track and document your growth.
  - **Create Local Content:** Launch a YouTube channel, blog, or Twitter account in Bahasa Indonesia that explains Web3 concepts to the local audience.
-4.
-
-**Engage with Local Communities:** Connect with prominent communities and companies in Jakarta and Bali. Attend local meetups and crypto events to expand your network. The Indonesian Web3 scene thrives on social interactions and relationships.
+4. **Engage with Local Communities:** Connect with prominent communities and companies in Jakarta and Bali. Attend local meetups and crypto events to expand your network. The Indonesian Web3 scene thrives on social interactions and relationships.
 
 Indonesia's passionate user base and rapid growth present a unique opportunity for professionals eager to participate in Web3 adoption.

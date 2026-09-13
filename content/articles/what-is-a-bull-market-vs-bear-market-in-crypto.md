@@ -19,7 +19,7 @@ A bull market signifies a period marked by sustained price increases and optimis
 
 **Characteristics of a Crypto Bull Market:**
 
-- **-** Rising Prices:**The most evident sign of a bull market is the upward trend in prices of major cryptocurrencies like [Bitcoin](/what-is-bitcoin) and [Ethereum](/what-is-ethereum). Over weeks or months, the broader altcoin market also tends to show positive momentum.
+- Rising Prices:**The most evident sign of a bull market is the upward trend in prices of major cryptocurrencies like [Bitcoin](/what-is-bitcoin) and [Ethereum](/what-is-ethereum). Over weeks or months, the broader altcoin market also tends to show positive momentum.
 
 - **High Investor Confidence (Greed):** During this phase, market sentiment is overwhelmingly positive. Investors exhibit optimism, driven by a strong sense of FOMO (Fear Of Missing Out). The
 
@@ -41,7 +41,7 @@ Conversely, a bear market denotes a prolonged period of declining prices and pes
 
 **Characteristics of a Crypto Bear Market (or "Crypto Winter"):**
 
-- **-** Falling Prices:**Prices generally trend downward over an extended period. A common definition for a bear market is a decline of 20% or more from recent highs. In the crypto space, bear markets often see asset drops of significant percentages.
+- Falling Prices:**Prices generally trend downward over an extended period. A common definition for a bear market is a decline of 20% or more from recent highs. In the crypto space, bear markets often see asset drops of significant percentages.
 
 - **Low Investor Confidence (Fear):** During a bear market, the sentiment is predominantly negative. Many investors who bought at peak prices sell their assets at a loss. The Fear and Greed Index typically signals "Extreme Fear."
 

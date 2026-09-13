@@ -123,18 +123,10 @@ As the Web3 industry matures, the demand for deep specialists continues to grow.
 Identify a niche area in which you can achieve top-tier expertise. This should not be superficial knowledge but rather deep, demonstrable mastery.
 
 #### Choosing Your Spike:
-1.
-
-**Market Demand:** Are companies hiring for this? Is there revenue potential?
-2.
-
-**Personal Interest:** Do you genuinely enjoy this field? You will invest countless hours in it.
-3.
-
-**Competitive Advantage:** What unique skills or perspectives do you possess?
-4.
-
-**Timing:** Is your chosen area on the rise or decline?
+1. **Market Demand:** Are companies hiring for this? Is there revenue potential?
+2. **Personal Interest:** Do you genuinely enjoy this field? You will invest countless hours in it.
+3. **Competitive Advantage:** What unique skills or perspectives do you possess?
+4. **Timing:** Is your chosen area on the rise or decline?
 
 #### Examples of Strong Spikes:
 - "Zero-Knowledge Proof Engineer": Expert in zkEVM with thorough knowledge of proving systems.
@@ -183,21 +175,11 @@ Transitioning to a leadership role in Web3 often diverges from traditional corpo
 In decentralized organizations, leadership often does not come with a title. This requires a different skill set:
 
 #### Strategies for Leading Without a Title:
-1.
-
-**Build a Track Record:** Consistently meet commitments; reliability establishes your authority.
-2.
-
-**Articulate a Vision:** Help others understand the significance of their work and its connection to larger goals.
-3.
-
-**Enable Others:** Grant autonomy and support to those around you.
-4.
-
-**Take Responsibility:** When challenges arise, focus on solutions rather than assigning blame.
-5.
-
-**Build Consensus:** In a DAO, persuasion and agreement-building take precedence over command.
+1. **Build a Track Record:** Consistently meet commitments; reliability establishes your authority.
+2. **Articulate a Vision:** Help others understand the significance of their work and its connection to larger goals.
+3. **Enable Others:** Grant autonomy and support to those around you.
+4. **Take Responsibility:** When challenges arise, focus on solutions rather than assigning blame.
+5. **Build Consensus:** In a DAO, persuasion and agreement-building take precedence over command.
 
 #### Example:
 If you notice security gaps in your organization:

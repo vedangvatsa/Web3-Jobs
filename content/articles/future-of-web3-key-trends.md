@@ -26,12 +26,8 @@ The first trend to consider is the shift from monolithic to modular blockchain a
 ### What is it?
 Monolithic blockchains, such as the current versions of [Ethereum](/what-is-ethereum) and Solana, handle three core functions on a single layer:
 1. **Execution:** Processing transactions and running [smart contracts](/what-are-smart-contracts).
-2.
-
-**Settlement:** Finalizing transactions and resolving disputes.
-3.
-
-**Data Availability (DA):** Ensuring that all data for a block is published and verifiable.
+2. **Settlement:** Finalizing transactions and resolving disputes.
+3. **Data Availability (DA):** Ensuring that all data for a block is published and verifiable.
 
 The modular blockchain thesis posits that combining these functions in a single layer creates bottlenecks that limit scalability. In contrast, modular blockchains separate these functions into specialized layers. For instance, rollups can handle execution, Ethereum can manage settlement, and a dedicated data availability layer, such as Celestia, can serve DA.
 

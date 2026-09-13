@@ -21,13 +21,9 @@ A BCI system comprises three essential components:
  * **Non-invasive BCIs**: These systems use sensors placed externally on the head. The most prevalent type is the electroencephalogram (EEG), which employs a cap fitted with small electrodes to capture electrical signals from the scalp. Although EEG-based BCIs are safe and user-friendly, they produce weak and noisy signals that must traverse the skull.
  * **Invasive BCIs**: These systems necessitate surgical procedures to place electrodes directly on or within the brain. This approach generates higher-quality signals as the electrodes are situated near the neurons. Companies are pursuing this method. Although invasive BCIs deliver superior performance, they carry risks associated with brain surgery.
 
-2.
+2. **Signal Processing**: The raw brain signals are inherently complex and noisy. The BCI's software employs advanced algorithms and machine learning techniques to filter out noise and pinpoint specific patterns that reflect the user's intentions. For instance, if a user imagines moving their right hand, the BCI learns to identify the associated neural activity pattern.
 
-**Signal Processing**: The raw brain signals are inherently complex and noisy. The BCI's software employs advanced algorithms and machine learning techniques to filter out noise and pinpoint specific patterns that reflect the user's intentions. For instance, if a user imagines moving their right hand, the BCI learns to identify the associated neural activity pattern.
-
-3.
-
-**Device Control**: After decoding the user's intent, the BCI translates it into a command for an external device. This could range from moving a cursor on a computer screen to controlling a robotic arm or composing text on a virtual keyboard.
+3. **Device Control**: After decoding the user's intent, the BCI translates it into a command for an external device. This could range from moving a cursor on a computer screen to controlling a robotic arm or composing text on a virtual keyboard.
 
 ### Life-Changing Medical Applications
 
@@ -75,7 +71,9 @@ Current BCI technology does not enable mind reading as depicted in films. The fo
 
 #### 2. Are BCIs permanent implants?
 
-The permanence of a BCI depends on its type. Non-invasive EEG systems are temporary, typically worn as a cap. Invasive systems involve surgical implants intended for long-term use. Research continues to evaluate the stability and safety of these implants over time.**3. When will BCIs be widely available?**
+The permanence of a BCI depends on its type. Non-invasive EEG systems are temporary, typically worn as a cap. Invasive systems involve surgical implants intended for long-term use. Research continues to evaluate the stability and safety of these implants over time.
+
+**3. When will BCIs be widely available?**
 BCIs for medical applications are already undergoing clinical trials and are progressing toward regulatory approval. Widespread use for specific medical cases could emerge within the next decade. Non-medical consumer BCIs, such as those for gaming or smart device control, are still in early development stages and may take longer to reach the mainstream market.
 
 ### Understanding the Importance of BCIs

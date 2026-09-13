@@ -247,7 +247,7 @@ Engage with the community on Twitter, contribute to open-source projects, and pa
 
 **Learning Platforms**
 
-- **-** Alchemy University:**A leading free Web3 development course.
+- Alchemy University:**A leading free Web3 development course.
 - **CryptoZombies:** Interactive Solidity tutorials.
 - **OpenZeppelin:** Resources on smart contract security.
 - **Chainlink Documentation:** Advanced DeFi knowledge.
@@ -255,20 +255,20 @@ Engage with the community on Twitter, contribute to open-source projects, and pa
 
 **Communities & Networking**
 
-- **-** Twitter:**Follow influential figures in the Web3 space.
+- Twitter:**Follow influential figures in the Web3 space.
 - **Discord:** Join channels for Ethereum, Aave, and other major protocols.
 - **Local Meetups:** Create or join a "Tunis Web3 Developers" group.
 - **Conferences:** Attend events like EthDubai and EthCC.
 
 **Job Boards & Applications**
 
-- **-** Web3 Job Board**(/jobs): A curated list of remote roles.
+- Web3 Job Board**(/jobs): A curated list of remote roles.
 - **Crypto.jobs:** Listings for various crypto industry positions.
 - **Messari & AngelList Talent:** Opportunities with major protocols and startups.
 
 **Hands-On Practice**
 
-- **-** Code4rena:**Participate in smart contract audits.
+- Code4rena:**Participate in smart contract audits.
 - **Immunefi:** Report security vulnerabilities for bounties.
 - **EthGlobal Hackathons:** Compete, build, and network.
 

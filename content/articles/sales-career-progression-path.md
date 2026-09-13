@@ -21,7 +21,7 @@ The SDR position serves as the entry-level role in most sales organizations, par
 - **Primary Role:** Lead generation and qualification.
 - **Key Responsibilities:**
 
-- **-** Prospecting:**Identify potential customers fitting the ideal customer profile.
+- Prospecting:**Identify potential customers fitting the ideal customer profile.
  - **Outbound Outreach:** Initiate contact with prospects through cold calls, cold emails, and social media platforms, primarily LinkedIn.
  - **Inbound Lead Qualification:** Respond to and qualify leads generated from the company's website or marketing campaigns.
  - **Setting Meetings:** Arrange qualified meetings or demos for Account Executives.
@@ -35,7 +35,7 @@ After one to two years of success as an SDR, a common promotion leads to the Acc
 - **Primary Role:** Closing deals.
 - **Key Responsibilities:**
 
-- **-** Conducting Discovery Calls and Demos:**Understand prospect needs and demonstrate how products can address their challenges.
+- Conducting Discovery Calls and Demos:**Understand prospect needs and demonstrate how products can address their challenges.
  - **Managing the Sales Cycle:** Guide prospects through evaluation, negotiation, and contract signing.
  - **Writing Proposals and Negotiating Contracts:** Create compelling proposals that meet client needs.
  - **Meeting Revenue Quotas:** Performance is assessed based on revenue generated each quarter.
@@ -59,7 +59,7 @@ This role marks the transition to people management, where individuals oversee a
 - **Primary Role:** Lead a sales team to meet revenue targets.
 - **Key Responsibilities:**
 
-- **-** Hiring and Training:**Build and develop a high-performing sales team.
+- Hiring and Training:**Build and develop a high-performing sales team.
  - **Coaching:** Conduct regular one-on-ones, listen to sales calls, and provide constructive feedback.
  - **Forecasting:** Accurately project team sales for upcoming quarters.
  - **Performance Management:** Hold the team accountable for their activities and results.
@@ -72,7 +72,7 @@ The Vice President of Sales is a senior executive responsible for the entire sal
 - **Primary Role:** Build and lead the company's sales engine.
 - **Key Responsibilities:**
 
-- **-** Sales Strategy:**Define the go-to-market strategy, sales processes, and organizational structure.
+- Sales Strategy:**Define the go-to-market strategy, sales processes, and organizational structure.
  - **Revenue Ownership:** Take responsibility for the company's top-line revenue.
  - **Building the Leadership Team:** Hire and manage Sales Directors and Managers.
  - **Compensation Planning:** Design commission and bonus structures for the sales team.

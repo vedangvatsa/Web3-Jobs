@@ -46,9 +46,7 @@ Developers tested the hand-off for more than a year on testnets. Ropsten, Sepoli
 The Merge was not a flag day at a block height. It was a two-step activation:
 
 1. **Bellatrix** on the consensus layer at Beacon Chain epoch 144896, which the Ethereum Foundation scheduled for 11:34:47 UTC on September 6, 2022. Bellatrix updated consensus clients for the hand-off, including fork choice changes and full validator penalty values.
-2.
-
-**Paris** on the execution layer at Terminal Total Difficulty (TTD) 58750000000000000000000. When Mainnet's total difficulty reached that value, the next execution block was produced by a Beacon Chain validator instead of a miner. That happened at Mainnet block 15537393 on September 15, 2022 at 06:42:42 UTC. Finality for that first post-TTD block came about two epochs later, about 13 minutes, under normal conditions.
+2. **Paris** on the execution layer at Terminal Total Difficulty (TTD) 58750000000000000000000. When Mainnet's total difficulty reached that value, the next execution block was produced by a Beacon Chain validator instead of a miner. That happened at Mainnet block 15537393 on September 15, 2022 at 06:42:42 UTC. Finality for that first post-TTD block came about two epochs later, about 13 minutes, under normal conditions.
 
 TTD was used instead of block number because hash rate moves. If more miners joined, TTD arrived earlier. If hash rate left, it arrived later. The spec authors chose TTD so the hand-off tracked real work, not a guess at future hash rate.
 

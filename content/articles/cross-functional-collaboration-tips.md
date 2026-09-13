@@ -131,21 +131,11 @@ The relevance of these skills increases at each career level:
 
 ### Common Development Mistakes
 
-1.
-
-**Studying Without Doing:** Theory without practice leads to shallow understanding. Focus on building projects.
-2.
-
-**Neglecting Soft Skills:** While technical talent is common, soft skills are rare. Prioritize their development.
-3.
-
-**Ignoring Feedback:** You need external perspectives to identify blind spots. Solicit feedback from mentors or peers.
-4.
-
-**Comparing to Others:** Skill development is a personal journey. Concentrate on your progress.
-5.
-
-**Expecting Quick Mastery:** Genuine improvement takes time. adopt the learning process.
+1. **Studying Without Doing:** Theory without practice leads to shallow understanding. Focus on building projects.
+2. **Neglecting Soft Skills:** While technical talent is common, soft skills are rare. Prioritize their development.
+3. **Ignoring Feedback:** You need external perspectives to identify blind spots. Solicit feedback from mentors or peers.
+4. **Comparing to Others:** Skill development is a personal journey. Concentrate on your progress.
+5. **Expecting Quick Mastery:** Genuine improvement takes time. adopt the learning process.
 
 ### FAQ
 

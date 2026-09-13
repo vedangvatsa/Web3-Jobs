@@ -26,33 +26,19 @@ Front-running is often categorized under Maximal Extractable Value (MEV), a term
 
 The most prevalent type of front-running attack is a sandwich attack. This can be illustrated effectively with a hypothetical scenario involving an Automated Market Maker (AMM) such as Uniswap.
 
-1.
+1. **The Victim's Trade**: A trader, Alice, wishes to exchange a significant amount of [ETH](/what-is-ethereum) for a token called "XYZ" via a DEX. She submits her transaction to the mempool, specifying her willingness to accept a maximum price slippage of 1%.
 
-**The Victim's Trade**: A trader, Alice, wishes to exchange a significant amount of [ETH](/what-is-ethereum) for a token called "XYZ" via a DEX. She submits her transaction to the mempool, specifying her willingness to accept a maximum price slippage of 1%.
+2. **The Bot Identifies the Target**: A front-running bot continuously scans the mempool. Upon detecting Alice's large transaction, it estimates that her order could raise the price of XYZ.
 
-2.
+3. **First Move (The Front-Run)**: The bot quickly initiates its own purchase of XYZ tokens using ETH. To ensure its transaction is processed before Alice's, it offers a higher gas fee, incentivizing miners to prioritize its transaction.
 
-**The Bot Identifies the Target**: A front-running bot continuously scans the mempool. Upon detecting Alice's large transaction, it estimates that her order could raise the price of XYZ.
+4. **Price Reaction**: The bot's purchase is processed first, leading to a slight increase in the price of XYZ.
 
-3.
+5. **Execution of Alice's Trade**: Alice's transaction is executed afterward, but at a less favorable price due to the prior market movement caused by the bot's actions.
 
-**First Move (The Front-Run)**: The bot quickly initiates its own purchase of XYZ tokens using ETH. To ensure its transaction is processed before Alice's, it offers a higher gas fee, incentivizing miners to prioritize its transaction.
+6. **Final Move (The Back-Run)**: The bot has already prepared a third transaction to sell the XYZ tokens it just acquired, using a gas fee set lower than Alice's but still competitive enough to ensure prompt execution.
 
-4.
-
-**Price Reaction**: The bot's purchase is processed first, leading to a slight increase in the price of XYZ.
-
-5.
-
-**Execution of Alice's Trade**: Alice's transaction is executed afterward, but at a less favorable price due to the prior market movement caused by the bot's actions.
-
-6.
-
-**Final Move (The Back-Run)**: The bot has already prepared a third transaction to sell the XYZ tokens it just acquired, using a gas fee set lower than Alice's but still competitive enough to ensure prompt execution.
-
-7.
-
-**Profit Realization**: The bot sells its XYZ tokens at the improve price resulting from Alice's trade, securing a profit at her expense.
+7. **Profit Realization**: The bot sells its XYZ tokens at the improve price resulting from Alice's trade, securing a profit at her expense.
 
 In this scenario, Alice ends up receiving fewer XYZ tokens for her ETH than she would have without the bot's interference. The difference in value is directly captured by the bot.
 

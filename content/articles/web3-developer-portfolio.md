@@ -58,7 +58,7 @@ Follow this structured progression to enhance your skills while building your po
 - **Significance:** This capstone project distinguishes you from other junior developers, demonstrating your capability to manage more complex logic.
 - **Project Ideas:**
 
-- **-** On-Chain Voting/DAO System:**Users stake your ERC-20 token to vote on proposals.
+- On-Chain Voting/DAO System:**Users stake your ERC-20 token to vote on proposals.
  - **Crowdfunding/Kickstarter dApp:** Users create campaigns, and others contribute ETH. Funds are released only to the creator if a goal is met by a specified deadline.
  - **Basic Dutch Auction Contract:** An auction where the price of an NFT begins high and decreases over time until purchased.
 

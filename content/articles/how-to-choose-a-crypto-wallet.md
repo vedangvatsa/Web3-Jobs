@@ -212,15 +212,9 @@ Work through the checklist and you will see two or three options that clearly fi
 
 Use two wallets with clear roles.
 
-1.
-
-**Vault (cold signer).** A hardware signer holds 70 to 90 percent of value you will not move this month. Ledger and Trezor both keep keys offline and verify on-device. Even if the laptop is infected, the keys do not leave the chip. Configure a strong PIN, write the seed phrase by hand, test recovery with a small amount, and update firmware from official sources only.
-2.
-
-**Spending wallet (hot).** A browser or mobile wallet such as MetaMask or Phantom holds a small amount for weekly activity. Keep balances low enough that losing the phone or approving a bad contract does not threaten the vault. Use it to connect to sites, try new mints, and swap.
-3.
-
-**Link them when needed.** Most hot wallets let you connect a hardware signer. With MetaMask you can add hardware accounts so the address comes from the Ledger or Trezor and every transaction still needs a physical button press or tap on the device. You get the familiar dApp interface and the offline signing guarantee.
+1. **Vault (cold signer).** A hardware signer holds 70 to 90 percent of value you will not move this month. Ledger and Trezor both keep keys offline and verify on-device. Even if the laptop is infected, the keys do not leave the chip. Configure a strong PIN, write the seed phrase by hand, test recovery with a small amount, and update firmware from official sources only.
+2. **Spending wallet (hot).** A browser or mobile wallet such as MetaMask or Phantom holds a small amount for weekly activity. Keep balances low enough that losing the phone or approving a bad contract does not threaten the vault. Use it to connect to sites, try new mints, and swap.
+3. **Link them when needed.** Most hot wallets let you connect a hardware signer. With MetaMask you can add hardware accounts so the address comes from the Ledger or Trezor and every transaction still needs a physical button press or tap on the device. You get the familiar dApp interface and the offline signing guarantee.
 
 This pattern balances convenience and loss limits. Phishing and exchange outages remain the most common loss vectors in 2025 and 2026. Isolating savings on a signer reduces that exposure.
 

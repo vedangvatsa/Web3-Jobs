@@ -18,21 +18,11 @@ The concept of the whitepaper in the crypto space traces back to Satoshi Nakamot
 
 A whitepaper fulfills several critical functions:
 
-1.
-
-**Articulating the Vision and Problem:** It should clearly define the issue the project aims to resolve and present a compelling vision for a better future.
-2.
-
-**Detailing the Technical Solution:** The document must explain how the technology works. For a new blockchain, this includes detailing the consensus mechanism, while a new [DeFi](/what-is-defi) protocol outlines the mathematical formulas that drive its [smart contracts](/what-are-smart-contracts).
-3.
-
-**Outlining Tokenomics:** The whitepaper should describe the economic model, including the design and purpose of its native [token](/what-is-a-token), its supply, distribution, and utility.
-4.
-
-**Presenting a Roadmap:** It should provide a high-level plan for the project's development and key milestones.
-5.
-
-**Building Credibility:** A well-structured and professionally written whitepaper signals the project is led by a competent team.
+1. **Articulating the Vision and Problem:** It should clearly define the issue the project aims to resolve and present a compelling vision for a better future.
+2. **Detailing the Technical Solution:** The document must explain how the technology works. For a new blockchain, this includes detailing the consensus mechanism, while a new [DeFi](/what-is-defi) protocol outlines the mathematical formulas that drive its [smart contracts](/what-are-smart-contracts).
+3. **Outlining Tokenomics:** The whitepaper should describe the economic model, including the design and purpose of its native [token](/what-is-a-token), its supply, distribution, and utility.
+4. **Presenting a Roadmap:** It should provide a high-level plan for the project's development and key milestones.
+5. **Building Credibility:** A well-structured and professionally written whitepaper signals the project is led by a competent team.
 
 ## Key Sections of a Typical Web3 Whitepaper
 

@@ -192,21 +192,11 @@ Mexico does not have a dedicated digital nomad visa. Remote workers use the Temp
 
 ## How to Pick Your Base and Get Started
 
-1.
-
-**Match time zone to your work.** EU overlap: Lisbon or Budapest. US overlap: Medellin or Mexico City. APAC/EU split: Chiang Mai.
-2.
-
-**Run a real budget.** Add rent + coworking + health insurance + visa fees + flights. Add 15 percent for furnished markup if you book on English-language platforms.
-3.
-
-**Test before you commit.** Book one month in an apart-hotel or coliving space. Test your building's internet at different times of day and visit coworking spaces before signing a 12-month lease.
-4.
-
-**Prepare visa paperwork early.** Get bank statements for 6 to 12 months, an employer letter that states remote work and salary in consistent currency, apostilles and certified translations, and travel health insurance that meets the consulate's minimum coverage. For Mexico and Portugal, start 3 to 4 months before your target move date.
-5.
-
-**Plan health cover and tax.** Check if your policy covers the full visa period and repatriation. Mark the 183-day line for tax residency in Colombia and Mexico, and 180 days for Thailand. Talk to an accountant who knows your citizenship and your host country.
+1. **Match time zone to your work.** EU overlap: Lisbon or Budapest. US overlap: Medellin or Mexico City. APAC/EU split: Chiang Mai.
+2. **Run a real budget.** Add rent + coworking + health insurance + visa fees + flights. Add 15 percent for furnished markup if you book on English-language platforms.
+3. **Test before you commit.** Book one month in an apart-hotel or coliving space. Test your building's internet at different times of day and visit coworking spaces before signing a 12-month lease.
+4. **Prepare visa paperwork early.** Get bank statements for 6 to 12 months, an employer letter that states remote work and salary in consistent currency, apostilles and certified translations, and travel health insurance that meets the consulate's minimum coverage. For Mexico and Portugal, start 3 to 4 months before your target move date.
+5. **Plan health cover and tax.** Check if your policy covers the full visa period and repatriation. Mark the 183-day line for tax residency in Colombia and Mexico, and 180 days for Thailand. Talk to an accountant who knows your citizenship and your host country.
 
 ## FAQ
 

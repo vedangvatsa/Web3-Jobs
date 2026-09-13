@@ -50,17 +50,11 @@ Smart contracts manage financial assets, and errors can have dire consequences.
 
 ### Key Challenges Addressed by Formal Verification
 
-1.
+1. **Immutability:** Once deployed, smart contracts cannot be easily modified. If a bug is discovered after deployment, funds can be permanently lost. Traditional software can be patched quickly, but smart contracts lack this flexibility.
 
-**Immutability:** Once deployed, smart contracts cannot be easily modified. If a bug is discovered after deployment, funds can be permanently lost. Traditional software can be patched quickly, but smart contracts lack this flexibility.
+2. **Scale of Assets:** High-value decentralized finance (DeFi) protocols can secure significant amounts of assets. Traditional audits rely heavily on human review, which can overlook critical bugs. Formal verification provides an additional layer of assurance.
 
-2.
-
-**Scale of Assets:** High-value decentralized finance (DeFi) protocols can secure significant amounts of assets. Traditional audits rely heavily on human review, which can overlook critical bugs. Formal verification provides an additional layer of assurance.
-
-3.
-
-**Vulnerability Classes:** Formal verification can eliminate entire categories of bugs, including:
+3. **Vulnerability Classes:** Formal verification can eliminate entire categories of bugs, including:
  - Integer overflow/underflow
  - Reentrancy vulnerabilities
  - Access control violations
@@ -73,19 +67,13 @@ Historically, these bugs have resulted in significant financial losses. Formal v
 
 The formal verification process consists of several key steps:
 
-1.
+1. **Specification:** Developers create formal specifications that describe guaranteed behaviors of the contract. For instance, a specification might state, "The total supply can never increase," or "User balances can only change through approved functions."
 
-**Specification:** Developers create formal specifications that describe guaranteed behaviors of the contract. For instance, a specification might state, "The total supply can never increase," or "User balances can only change through approved functions."
-
-2.
-
-**Rule Definition:** Developers establish detailed rules based on the specifications. For an Automated Market Maker (AMM), a rule might state, "If no tokens are added or removed from the pool, the product of reserves (x * y) remains constant."
+2. **Rule Definition:** Developers establish detailed rules based on the specifications. For an Automated Market Maker (AMM), a rule might state, "If no tokens are added or removed from the pool, the product of reserves (x * y) remains constant."
 
 3. **Automated Proving:** A specialized tool analyzes the contract bytecode against these rules. This analysis is not a simulation; it represents an exhaustive logical evaluation.
 
-4.
-
-**Result Assessment:** The prover produces one of three possible outcomes:
+4. **Result Assessment:** The prover produces one of three possible outcomes:
  - **Proven:** The property holds true; the contract is correct for that property.
  - **Violated:** The property can be violated; the tool provides a specific execution sequence that demonstrates a violation.
  - **Inconclusive:** The prover cannot confirm or deny the property (this outcome is rare for well-constructed specifications).
@@ -144,25 +132,15 @@ The trend indicates that as DeFi protocols oversee larger assets, formal verific
 
 Despite its strengths, formal verification also has notable limitations:
 
-1.
+1. **Specification Risk:** It can only prove properties that have been specified. If a critical property is omitted, formal verification may fail to identify violations, leading to misplaced confidence.
 
-**Specification Risk:** It can only prove properties that have been specified. If a critical property is omitted, formal verification may fail to identify violations, leading to misplaced confidence.
+2. **Business Logic Flaws:** While formal verification assesses technical correctness, it cannot detect economic vulnerabilities or defects in business logic. A contract could be mathematically sound but economically flawed, leading to unintended consequences.
 
-2.
+3. **Complexity:** Formal verification is most effective when applied to well-defined, mathematical properties. It is less useful for complex behaviors that depend on contextual interpretation.
 
-**Business Logic Flaws:** While formal verification assesses technical correctness, it cannot detect economic vulnerabilities or defects in business logic. A contract could be mathematically sound but economically flawed, leading to unintended consequences.
+4. **Scope Limitations:** Formal verification focuses solely on the contract code. It cannot verify external dependencies, oracle accuracy, or interactions with other contracts, although research into compositional verification is progressing.
 
-3.
-
-**Complexity:** Formal verification is most effective when applied to well-defined, mathematical properties. It is less useful for complex behaviors that depend on contextual interpretation.
-
-4.
-
-**Scope Limitations:** Formal verification focuses solely on the contract code. It cannot verify external dependencies, oracle accuracy, or interactions with other contracts, although research into compositional verification is progressing.
-
-5.
-
-**Cost and Expertise:** Implementing formal verification requires specialized knowledge and tooling. Organizations must invest in training and learning these advanced methods.
+5. **Cost and Expertise:** Implementing formal verification requires specialized knowledge and tooling. Organizations must invest in training and learning these advanced methods.
 
 ## Career Opportunities in Formal Verification
 
@@ -182,18 +160,10 @@ These roles often require a strong mathematical background and can command high 
 
 Formal verification is still an emerging field within blockchain development. Anticipated trends include:
 
-1.
+1. **Improved Tooling:** Current tools necessitate learning specialized languages like CVL or the K framework. Future developments aim to make formal specification more accessible to a broader range of developers.
 
-**Improved Tooling:** Current tools necessitate learning specialized languages like CVL or the K framework. Future developments aim to make formal specification more accessible to a broader range of developers.
+2. **Compositional Verification:** Enhanced tools will allow for verifying contracts that interact with one another and depend on external contracts.
 
-2.
+3. **Automated Property Inference:** Future tools may automatically infer and verify important properties from the code, reducing the need for manual specification by developers.
 
-**Compositional Verification:** Enhanced tools will allow for verifying contracts that interact with one another and depend on external contracts.
-
-3.
-
-**Automated Property Inference:** Future tools may automatically infer and verify important properties from the code, reducing the need for manual specification by developers.
-
-4.
-
-**Regulatory Integration:** As regulatory bodies demand higher security standards, formal verification may become a requirement for certain classes of protocols or applications that manage user assets.
+4. **Regulatory Integration:** As regulatory bodies demand higher security standards, formal verification may become a requirement for certain classes of protocols or applications that manage user assets.

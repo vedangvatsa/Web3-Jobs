@@ -43,33 +43,19 @@ Prominent examples illustrate this point. Aave's governance system, which includ
 
 ### Getting Started: A 7-Step Roadmap
 
-1.
+1. **Study the Theory:** A strong grasp of political science, economics, and game theory is essential. Key readings include "A Citizen's Guide to Distributed Consensus." Familiarize yourself with various voting systems, their strengths, and weaknesses.
 
-**Study the Theory:** A strong grasp of political science, economics, and game theory is essential. Key readings include "A Citizen's Guide to Distributed Consensus." Familiarize yourself with various voting systems, their strengths, and weaknesses.
+2. **Participate Actively:** Join several established DAOs with active governance. Engaging with every proposal, following discussions, and contributing thoughtful comments is important. Analyze voting patterns and understand the motivations behind decisions.
 
-2.
+3. **Run for Delegate:** Seek a governance delegate role within a protocol you deeply understand. This public position establishes your reputation for informed decision-making. Most DAOs have formal delegate programs that provide onboarding materials. Clearly articulate your delegate platform, outlining your voting philosophy and alignment with the protocol's values.
 
-**Participate Actively:** Join several established DAOs with active governance. Engaging with every proposal, following discussions, and contributing thoughtful comments is important. Analyze voting patterns and understand the motivations behind decisions.
+4. **Publish Analysis:** Create a Substack, Twitter thread series, or blog to analyze different DAO governance systems. Compare various approaches, highlight innovations, and critique limitations. A portfolio of public research serves as an effective resume. For instance, analyze Compound's governance evolution or compare voting power distribution across major DAOs.
 
-3.
+5. **Build Governance Tools:** Contribute to governance infrastructure projects like Snapshot (off-chain voting) or Tally (governance dashboard). Alternatively, develop your own proposal analysis tools. Experience in governance tooling is increasingly valuable as DAOs seek to enhance their technical structures.
 
-**Run for Delegate:** Seek a governance delegate role within a protocol you deeply understand. This public position establishes your reputation for informed decision-making. Most DAOs have formal delegate programs that provide onboarding materials. Clearly articulate your delegate platform, outlining your voting philosophy and alignment with the protocol's values.
+6. **Pursue Formal Expertise:** Consider obtaining credentials in political science, economics, or organizational design. Some consultants transition from traditional organizational change backgrounds, adapting their skills for DAOs.
 
-4.
-
-**Publish Analysis:** Create a Substack, Twitter thread series, or blog to analyze different DAO governance systems. Compare various approaches, highlight innovations, and critique limitations. A portfolio of public research serves as an effective resume. For instance, analyze Compound's governance evolution or compare voting power distribution across major DAOs.
-
-5.
-
-**Build Governance Tools:** Contribute to governance infrastructure projects like Snapshot (off-chain voting) or Tally (governance dashboard). Alternatively, develop your own proposal analysis tools. Experience in governance tooling is increasingly valuable as DAOs seek to enhance their technical structures.
-
-6.
-
-**Pursue Formal Expertise:** Consider obtaining credentials in political science, economics, or organizational design. Some consultants transition from traditional organizational change backgrounds, adapting their skills for DAOs.
-
-7.
-
-**Network with DAOs Actively:** Attend DAO governance conferences and workshops. Many DAOs actively seek governance consultants, and the market lacks experienced practitioners, making networking important. Build relationships with protocol teams directly.
+7. **Network with DAOs Actively:** Attend DAO governance conferences and workshops. Many DAOs actively seek governance consultants, and the market lacks experienced practitioners, making networking important. Build relationships with protocol teams directly.
 
 ### Effective Governance Models
 

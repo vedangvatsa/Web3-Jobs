@@ -23,12 +23,8 @@ This guide outlines key principles and practical techniques aimed at building co
 Effective executive communication rests on three essential pillars:
 
 1. **Brevity:** Honor their time.
-2.
-
-**Clarity:** Ensure easy comprehension.
-3.
-
-**Context:** Relate your message to their priorities.
+2. **Clarity:** Ensure easy comprehension.
+3. **Context:** Relate your message to their priorities.
 
 ### Pillar 1: Brevity - The Power of Conciseness
 
@@ -36,7 +32,7 @@ Executives face overwhelming amounts of information daily. Distilling complex to
 
 **Practical Techniques for Brevity:**
 
-- **-** Bottom Line Up Front (BLUF):** Begin with your main point or recommendation. Avoid lengthy introductions.
+- Bottom Line Up Front (BLUF):** Begin with your main point or recommendation. Avoid lengthy introductions.
  - *Instead of:* "I reviewed the Q2 sales data, analyzed the competitive market, and spoke with three customers. Based on this, I think we should..."
  - *Do this:* "I recommend focusing on the enterprise segment for Q3 to capture a growing market and increase average deal size."
 
@@ -52,7 +48,7 @@ Clarity involves making your message understandable to those unfamiliar with you
 
 **Practical Techniques for Clarity:**
 
-- **-** Avoid Jargon and Acronyms:**Don't assume familiarity with specialized terms. For example, rather than saying, "We need to refactor the authentication service," say, "We need to update our login system to improve security and page load speed."
+- Avoid Jargon and Acronyms:**Don't assume familiarity with specialized terms. For example, rather than saying, "We need to refactor the authentication service," say, "We need to update our login system to improve security and page load speed."
 
 - **Use Visuals:** Charts or graphs often convey trends more effectively than paragraphs of text. Ensure visuals can be interpreted within ten seconds.
 
@@ -66,7 +62,7 @@ Even the best ideas compete for a leader's attention. You must explicitly connec
 
 **Practical Techniques for Providing Context:**
 
-- **-** Use Business Metrics:** Frame your proposals in terms of metrics that matter to executives: Revenue, Cost, Risk, and Customer Satisfaction.
+- Use Business Metrics:** Frame your proposals in terms of metrics that matter to executives: Revenue, Cost, Risk, and Customer Satisfaction.
  - *Instead of:* "This project will improve our database query speed."
  - *Do this:* "This project will reduce our page load time, likely decreasing our user bounce rate and improving conversion."
 
@@ -183,21 +179,11 @@ The importance of these skills increases at each career level:
 
 ## Common Development Mistakes
 
-1.
-
-**Studying Without Application:** Theory without practical application leads to shallow understanding. Focus on building projects, not just accumulating knowledge.
-2.
-
-**Overlooking Soft Skills:** While technical expertise is essential, soft skills are often scarce. Invest in developing these competencies.
-3.
-
-**Ignoring Feedback:** Self-assessment has limitations. Seek feedback from mentors and colleagues to identify blind spots.
-4.
-
-**Comparing Yourself to Others:** Skill development is a personal journey. Concentrate on your growth rather than measuring against others.
-5.
-
-**Expecting Rapid Mastery:** Genuine skill acquisition takes time. adopt the learning process.
+1. **Studying Without Application:** Theory without practical application leads to shallow understanding. Focus on building projects, not just accumulating knowledge.
+2. **Overlooking Soft Skills:** While technical expertise is essential, soft skills are often scarce. Invest in developing these competencies.
+3. **Ignoring Feedback:** Self-assessment has limitations. Seek feedback from mentors and colleagues to identify blind spots.
+4. **Comparing Yourself to Others:** Skill development is a personal journey. Concentrate on your growth rather than measuring against others.
+5. **Expecting Rapid Mastery:** Genuine skill acquisition takes time. adopt the learning process.
 
 ## Resources for Continued Learning
 

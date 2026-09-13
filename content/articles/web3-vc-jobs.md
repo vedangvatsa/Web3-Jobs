@@ -27,18 +27,10 @@ Investing in Web3 differs significantly from traditional venture capital.
 
 Typical structures within a crypto fund include several key positions:
 
-1.
-
-**Analyst / Associate:** This entry-level role focuses on sourcing deals, conducting initial founder calls, performing market research, and developing investment theses.
-2.
-
-**Principal:** A mid-level investment professional, Principals lead due diligence on potential investments, cultivate relationships with founders, and refine their investment strategies and networks.
-3.
-
-**Partner:** The highest-ranking members, Partners make final investment decisions, manage relationships with Limited Partners (investors), and often serve on the "boards" of portfolio companies, which in Web3 may involve participation in a [DAO](/what-is-a-dao).
-4.
-
-**Platform / Value-Add Roles:** Modern VCs go beyond providing capital by offering support to portfolio companies. Roles in this category focus on assisting founders with recruiting, marketing, legal issues, and tokenomics design, serving as an excellent entry point for those with operational backgrounds.
+1. **Analyst / Associate:** This entry-level role focuses on sourcing deals, conducting initial founder calls, performing market research, and developing investment theses.
+2. **Principal:** A mid-level investment professional, Principals lead due diligence on potential investments, cultivate relationships with founders, and refine their investment strategies and networks.
+3. **Partner:** The highest-ranking members, Partners make final investment decisions, manage relationships with Limited Partners (investors), and often serve on the "boards" of portfolio companies, which in Web3 may involve participation in a [DAO](/what-is-a-dao).
+4. **Platform / Value-Add Roles:** Modern VCs go beyond providing capital by offering support to portfolio companies. Roles in this category focus on assisting founders with recruiting, marketing, legal issues, and tokenomics design, serving as an excellent entry point for those with operational backgrounds.
 
 ### Essential Skills for Crypto VCs
 
@@ -54,20 +46,10 @@ The following skills are important for success in the crypto VC sector:
 
 The pathway to a Web3 VC position is rarely straightforward. Few individuals secure these roles immediately after college or from traditional finance jobs. Most successful candidates establish their reputations within the crypto ecosystem first.
 
-1.
-
-**Become a Scout or "Super Angel":** Many leading funds operate scout programs, providing capital to well-connected individuals for their own investments. This approach can open doors to VC opportunities.
-2.
-
-**Establish Yourself as a Researcher or Writer:** Develop a blog, newsletter, or social media presence where you share in-depth research on Web3 topics. Many prominent crypto VCs began as influential writers or researchers.
-3.
-
-**Act as an On-Chain Analyst:** Use tools like Dune and Nansen to create insightful analyses of on-chain activities. This showcases analytical skills and the ability to generate unique insights.
-4.
-
-**Contribute to DAOs:** Being an influential delegate in a major DAO demonstrates governance knowledge and strategic thinking.
-5.
-
-**Gain Founding or Operational Experience:** Having been on the other side of the investment table enhances an individual's perspective as an investor. Experience in a successful Web3 startup provides invaluable operational insights.
+1. **Become a Scout or "Super Angel":** Many leading funds operate scout programs, providing capital to well-connected individuals for their own investments. This approach can open doors to VC opportunities.
+2. **Establish Yourself as a Researcher or Writer:** Develop a blog, newsletter, or social media presence where you share in-depth research on Web3 topics. Many prominent crypto VCs began as influential writers or researchers.
+3. **Act as an On-Chain Analyst:** Use tools like Dune and Nansen to create insightful analyses of on-chain activities. This showcases analytical skills and the ability to generate unique insights.
+4. **Contribute to DAOs:** Being an influential delegate in a major DAO demonstrates governance knowledge and strategic thinking.
+5. **Gain Founding or Operational Experience:** Having been on the other side of the investment table enhances an individual's perspective as an investor. Experience in a successful Web3 startup provides invaluable operational insights.
 
 A career in Web3 VC requires a sustained commitment to learning, relationship building, and ecosystem engagement. For passionate individuals, it offers a unique opportunity to influence the future of decentralized technology.

@@ -52,21 +52,11 @@ Add prediction without action. A spam filter predicts whether a message is spam.
 
 Combine a foundation model with memory, planning, and tool use. A typical pattern documented by IBM and in LangGraph tutorials is a plan-and-execute loop:
 
-1.
-
-**Perceive.** Collect data from sensors, APIs, mempool feeds, price oracles, or text inputs. IBM splits this into visual, auditory, textual, and environmental perception, often fused across modalities.
-2.
-
-**Define the goal and state.** The agent models its current state, constraints, and the target outcome. Goals can be static or updated as conditions change.
-3.
-
-**Plan.** Decompose the goal into ordered steps. For example: fetch liquidity data, compare fees and depth, simulate a swap, then submit.
-4.
-
-**Act with tools.** Call APIs, databases, or on-chain functions within an approved permission set.
-5.
-
-**Observe and adapt.** If a call fails or a price moves, revise the plan. Learning agents update their behavior from feedback. Multi-agent setups split this across roles, such as planner, researcher, executor, and reviewer, with artifacts passed between them.
+1. **Perceive.** Collect data from sensors, APIs, mempool feeds, price oracles, or text inputs. IBM splits this into visual, auditory, textual, and environmental perception, often fused across modalities.
+2. **Define the goal and state.** The agent models its current state, constraints, and the target outcome. Goals can be static or updated as conditions change.
+3. **Plan.** Decompose the goal into ordered steps. For example: fetch liquidity data, compare fees and depth, simulate a swap, then submit.
+4. **Act with tools.** Call APIs, databases, or on-chain functions within an approved permission set.
+5. **Observe and adapt.** If a call fails or a price moves, revise the plan. Learning agents update their behavior from feedback. Multi-agent setups split this across roles, such as planner, researcher, executor, and reviewer, with artifacts passed between them.
 
 Memory matters here. Teams usually build three layers: short-term context for the current task, episodic memory per user or project, and semantic memory grounded by retrieval-augmented generation over a vector store. Good agents summarize and ground facts before they act.
 
@@ -109,12 +99,8 @@ Blockchains add three properties that matter for agents and one standard that is
 **In August 2025, contributors from MetaMask (Marco De Rossi), the Ethereum Foundation (Davide Crapis), Google (Jordan Ellis), and Coinbase (Erik Reppel) proposed ERC-8004. It defines three lightweight per-chain registries:
 
 1. **Identity registry:** an ERC-721 token per agent that points to an agent URI with metadata and service descriptions.
-2.
-
-**Reputation registry:** client feedback events tied to an agent.
-3.
-
-**Validation registry:** independent validation requests and scored responses, typically 0 to 100.
+2. **Reputation registry:** client feedback events tied to an agent.
+3. **Validation registry:** independent validation requests and scored responses, typically 0 to 100.
 
 The proposal requires EIP-155, EIP-712, EIP-721, and EIP-1271. It is minimal by design: it handles identity, reputation, and validation, not payments or messaging, which stay with protocols like A2A, MCP, and x402. As of October 2025 it was in Draft, with prototype work shown ahead of DevConnect in November 2025. The Identity and Reputation registries were deployed to Ethereum mainnet on January 29, 2026, with indexing across multiple EVM chains following. This gives agents a portable identifier and a public history that any client can check before delegating funds or tasks.
 

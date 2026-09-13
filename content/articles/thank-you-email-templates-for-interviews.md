@@ -119,25 +119,15 @@ Regardless of which template you choose, personalization is vital. Generic, copy
 
 ### Common Mistakes to Avoid
 
-1.
+1. **Being Too Vague**: Avoid generic statements. Instead, focus on specific points from the interview to show genuine interest.
 
-**Being Too Vague**: Avoid generic statements. Instead, focus on specific points from the interview to show genuine interest.
+2. **Delaying the Email**: Sending the thank-you note late can diminish its impact. Aim for promptness.
 
-2.
+3. **Copying and Pasting**: Personalization is key. A template should serve as a guide, not a script.
 
-**Delaying the Email**: Sending the thank-you note late can diminish its impact. Aim for promptness.
+4. **Neglecting Follow-Up**: If you haven't heard back after the expected timeline, send a separate follow-up email rather than referencing your thank-you note.
 
-3.
-
-**Copying and Pasting**: Personalization is key. A template should serve as a guide, not a script.
-
-4.
-
-**Neglecting Follow-Up**: If you haven't heard back after the expected timeline, send a separate follow-up email rather than referencing your thank-you note.
-
-5.
-
-**Ignoring the Subject Line**: A clear subject line can make your email stand out. Use something straightforward that reflects the content.
+5. **Ignoring the Subject Line**: A clear subject line can make your email stand out. Use something straightforward that reflects the content.
 
 ### Frequently Asked Questions (FAQs)
 

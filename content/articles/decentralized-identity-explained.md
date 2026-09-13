@@ -20,17 +20,11 @@ In the digital age, individuals often find their identities fragmented and contr
 
 The DID model comprises three essential components:
 
-1.
+1. **Decentralized Identifiers (DIDs):** A DID is a globally unique identifier that you create and control, such as `did:ethr:0x123...abc`. This identifier works like a personal phone number, stored on a blockchain and linked to a DID Document.
 
-**Decentralized Identifiers (DIDs):** A DID is a globally unique identifier that you create and control, such as `did:ethr:0x123...abc`. This identifier works like a personal phone number, stored on a blockchain and linked to a DID Document.
+2. **DID Documents:** Associated with your DID, this JSON file contains essential information, including public keys and service endpoints. It serves as a digital business card that outlines how others can securely interact with you.
 
-2.
-
-**DID Documents:** Associated with your DID, this JSON file contains essential information, including public keys and service endpoints. It serves as a digital business card that outlines how others can securely interact with you.
-
-3.
-
-**Verifiable Credentials (VCs):** This component allows entities to make credible claims about you. A Verifiable Credential is a digital assertion issued by a trusted authority. For example, it can represent your driver's license or academic qualifications.
+3. **Verifiable Credentials (VCs):** This component allows entities to make credible claims about you. A Verifiable Credential is a digital assertion issued by a trusted authority. For example, it can represent your driver's license or academic qualifications.
  - **The Issuer**(e.g., a university or government agency) cryptographically signs the credential.
  - **The Holder**(you) stores it securely in a private digital [wallet](/how-to-choose-a-crypto-wallet).
  - You can present this credential to a

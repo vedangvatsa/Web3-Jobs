@@ -54,15 +54,9 @@ In the Philippines, where most early scholars were based, that entry cost exceed
 
 The three-party flow worked like this:
 
-1.
-
-**Guild treasury** buys NFTs from the market or from a game studio allocation. Assets are held in a multisig wallet controlled by founders or later by DAO vote. YGG's whitepaper states assets are acquired and controlled via multisig hardware wallets.
-2.
-
-**Community manager** recruits, screens, and mentors scholars. Managers distribute guild-owned Axies to local players, provide training, and monitor daily earnings.
-3.
-
-**Scholar** plays on an account linked to the guild's wallet. The scholar earns the game's reward token. Axie's reward token was Smooth Love Potion (SLP). Tokens go to a wallet the scholar can use for play but not for asset transfers.
+1. **Guild treasury** buys NFTs from the market or from a game studio allocation. Assets are held in a multisig wallet controlled by founders or later by DAO vote. YGG's whitepaper states assets are acquired and controlled via multisig hardware wallets.
+2. **Community manager** recruits, screens, and mentors scholars. Managers distribute guild-owned Axies to local players, provide training, and monitor daily earnings.
+3. **Scholar** plays on an account linked to the guild's wallet. The scholar earns the game's reward token. Axie's reward token was Smooth Love Potion (SLP). Tokens go to a wallet the scholar can use for play but not for asset transfers.
 
 Revenue split varied but followed a pattern. YGG's own explainer from 2021 to 2022 listed 70% to the scholar, 20% to the manager, and 10% to the guild treasury. Coingecko's August 2021 study found typical scholar shares of 50% to 70%, with managers tracking payouts biweekly or monthly and freezing inactive scholars after two to four weeks. Some guilds used 60/30/10 or similar ranges. By May 2026 guides cited common ranges between 50/30/20 and 70/20/10, scholar first.
 
@@ -123,7 +117,9 @@ YGG replaced blanket lending with a merit system.
 
 ## How to get started
 
-This applies to YGG's current system. Other guilds use similar steps with different names.**1. Create a YGG account and set up a wallet.
+This applies to YGG's current system. Other guilds use similar steps with different names.
+
+**1. Create a YGG account and set up a wallet.
 
 **You need a self-custody wallet that supports Base and Ronin or other chains the target game uses. Never share seed phrases. Verify links on yieldguild.io.** 2. Build a player profile.
 

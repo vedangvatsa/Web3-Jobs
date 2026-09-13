@@ -37,18 +37,10 @@ Hardware wallets address the vulnerabilities associated with software wallets by
 **Key Storage**: Your private keys are generated and stored on a secure chip within the hardware wallet.
 
 **These keys never leave the device**, ensuring they remain insulated from online threats.
-2.
-
-**Transaction Initiation**: To initiate a transaction, you use software like MetaMask or the wallet's app (e.g., Ledger Live) to prepare the transaction details.
-3.
-
-**Offline Signing**: The transaction data is transmitted to the hardware wallet via USB or Bluetooth. You verify the transaction details on the wallet's display.
-4.
-
-**Physical Confirmation**: To authorize the transaction, you must physically press a button on the device. This step ensures that remote attackers cannot authorize transactions without physical access to your wallet.
-5.
-
-**Signature Broadcast**: The hardware wallet signs the transaction internally using your private key and sends only the signed transaction back to your computer, which then broadcasts it to the [blockchain](/what-is-a-blockchain).
+2. **Transaction Initiation**: To initiate a transaction, you use software like MetaMask or the wallet's app (e.g., Ledger Live) to prepare the transaction details.
+3. **Offline Signing**: The transaction data is transmitted to the hardware wallet via USB or Bluetooth. You verify the transaction details on the wallet's display.
+4. **Physical Confirmation**: To authorize the transaction, you must physically press a button on the device. This step ensures that remote attackers cannot authorize transactions without physical access to your wallet.
+5. **Signature Broadcast**: The hardware wallet signs the transaction internally using your private key and sends only the signed transaction back to your computer, which then broadcasts it to the [blockchain](/what-is-a-blockchain).
 
 Throughout this process, your private key remains secure and inaccessible to your computer. Even if your device is infected with malware, attackers cannot access your keys or sign transactions without physical access to the hardware wallet and its PIN.
 

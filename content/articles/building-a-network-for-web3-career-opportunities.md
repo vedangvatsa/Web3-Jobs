@@ -44,17 +44,9 @@ Despite being internet-native, in-person events present high-value networking op
 
 ### A Practical Networking Strategy
 
-1.
-
-**Identify 10 People:** Compile a list of 10 respected individuals in the space. Go beyond merely following them on Twitter; engage with their work through blog posts and podcasts to grasp their viewpoints.
-2.
-
-**Engage Thoughtfully:** Respond to their tweets with meaningful comments or questions. Avoid generic responses; contribute to the conversation.
-3.
-
-**Create Value for Them:** Find ways to assist. If they publish an insightful article, share it along with your summary of key points. If they launch a new product, provide constructive feedback.
-4.
-
-**The "Warm" DM:** After establishing a rapport, send a direct message. Do not ask for a job; instead, seek feedback on your work or pose a specific question about one of their initiatives.
+1. **Identify 10 People:** Compile a list of 10 respected individuals in the space. Go beyond merely following them on Twitter; engage with their work through blog posts and podcasts to grasp their viewpoints.
+2. **Engage Thoughtfully:** Respond to their tweets with meaningful comments or questions. Avoid generic responses; contribute to the conversation.
+3. **Create Value for Them:** Find ways to assist. If they publish an insightful article, share it along with your summary of key points. If they launch a new product, provide constructive feedback.
+4. **The "Warm" DM:** After establishing a rapport, send a direct message. Do not ask for a job; instead, seek feedback on your work or pose a specific question about one of their initiatives.
 
 Building a network in Web3 is a long-term commitment. It involves demonstrating value, sharing knowledge, and Building meaningful relationships. Through consistent contributions, you will develop a reputation that attracts top career opportunities in the space.

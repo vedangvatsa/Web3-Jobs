@@ -71,5 +71,7 @@ Your headline and "About" section are critical components. The headline appears 
 
 #### 4. How can an introvert effectively build a professional network?
 
-Prioritize quality over quantity. Introverts excel in one-on-one interactions. Instead of working a crowded room, schedule targeted, brief virtual coffee chats. For additional strategies, consult our [networking strategies for introverts guide](/networking-strategies-for-introverts).**5. How does my personal life impact my professional reputation?** 
+Prioritize quality over quantity. Introverts excel in one-on-one interactions. Instead of working a crowded room, schedule targeted, brief virtual coffee chats. For additional strategies, consult our [networking strategies for introverts guide](/networking-strategies-for-introverts).
+
+**5. How does my personal life impact my professional reputation?** 
 The boundary between personal and professional life is increasingly blurred. While employers should not intrude into your private life, any public behavior that is illegal, unethical, or reflects poorly on you can adversely affect your professional reputation.

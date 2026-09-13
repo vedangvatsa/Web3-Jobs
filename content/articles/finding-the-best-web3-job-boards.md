@@ -20,15 +20,9 @@ Searching for a job in this environment can be overwhelming. Identifying legitim
 ### Benefits of Using Specialized Web3 Job Boards
 
 1. **Curation**: The best Web3 job boards filter out scams and irrelevant listings. They focus on verified, often well-funded projects, which saves you time and energy.
-2.
-
-**Unique Roles**: Many positions in Web3 do not exist in Web2. Careers such as "[Smart Contract](/what-are-smart-contracts) Auditor," "Tokenomics Designer," and "[DAO](/what-is-a-dao) Community Manager" are specific to this ecosystem.
-3.
-
-**Direct Access**: These job boards often feature listings from individuals embedded in the crypto community, leading to a more transparent and direct application process.
-4.
-
-**Indication of Intent**: Using a Web3 job board signals to employers that you are a serious candidate familiar with the crypto culture, distinguishing you from those who primarily operate in Web2.
+2. **Unique Roles**: Many positions in Web3 do not exist in Web2. Careers such as "[Smart Contract](/what-are-smart-contracts) Auditor," "Tokenomics Designer," and "[DAO](/what-is-a-dao) Community Manager" are specific to this ecosystem.
+3. **Direct Access**: These job boards often feature listings from individuals embedded in the crypto community, leading to a more transparent and direct application process.
+4. **Indication of Intent**: Using a Web3 job board signals to employers that you are a serious candidate familiar with the crypto culture, distinguishing you from those who primarily operate in Web2.
 
 ### Top Web3 Job Boards to Kickstart Your Search
 
@@ -57,18 +51,12 @@ For those serious about building a career in Web3, the following platforms are e
 Venture capital (VC) firms play an important role in funding Web3 startups. Their [portfolio](/building-web3-portfolio) job pages offer a treasure trove of quality opportunities at established companies.
 
 1. **a16z Crypto Jobs**: Andreessen Horowitz (a16z) is a leading investor in Web3. Their job page lists open roles across their portfolio companies, which include many top names in the industry.
-2.
-
-**Model Jobs**: Model, a major crypto-focused venture fund, features a curated list of roles in engineering, research, and design at their portfolio companies, often leading Web3 innovation.
+2. **Model Jobs**: Model, a major crypto-focused venture fund, features a curated list of roles in engineering, research, and design at their portfolio companies, often leading Web3 innovation.
 
 ### Niche and Specialized Platforms
 
-1.
-
-**Developer-Focused Boards**: Boards that focus on specific development ecosystems can be particularly useful. For instance, if you are a Rust developer, a Solana-specific job board can connect you to the most relevant roles.
-2.
-
-**Twitter (X)**: Twitter serves as a central hub for the crypto community. Many founders and projects announce job openings here before other platforms. Curating a list of Web3 founders, investors, and projects can significantly enhance your job search.
+1. **Developer-Focused Boards**: Boards that focus on specific development ecosystems can be particularly useful. For instance, if you are a Rust developer, a Solana-specific job board can connect you to the most relevant roles.
+2. **Twitter (X)**: Twitter serves as a central hub for the crypto community. Many founders and projects announce job openings here before other platforms. Curating a list of Web3 founders, investors, and projects can significantly enhance your job search.
 
 ### Effective Job Search Strategies
 

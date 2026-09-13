@@ -28,12 +28,8 @@ The "scholarship" model, first popularized by Axie Infinity, marks a significant
 Web3 guilds address these challenges by:
 
 1. **Acquiring Assets:** Many guilds operate as Decentralized Autonomous Organizations ([DAO](/what-is-a-dao)), raising capital to purchase a diverse portfolio of in-game NFT assets.
-2.
-
-**Lending Assets (Scholarships):** Guilds lend these assets to new players, referred to as "scholars." This arrangement allows scholars to begin playing and earning rewards without any initial investment.
-3.
-
-**Revenue Sharing:** The rewards earned by scholars, often in the form of the game's native [tokens](/what-is-a-token), are distributed among the scholar, the guild's treasury, and a local "community manager" who provides training and support. A typical revenue split might allocate a significant portion to the scholar, a smaller portion to the guild, and a portion to the community manager.
+2. **Lending Assets (Scholarships):** Guilds lend these assets to new players, referred to as "scholars." This arrangement allows scholars to begin playing and earning rewards without any initial investment.
+3. **Revenue Sharing:** The rewards earned by scholars, often in the form of the game's native [tokens](/what-is-a-token), are distributed among the scholar, the guild's treasury, and a local "community manager" who provides training and support. A typical revenue split might allocate a significant portion to the scholar, a smaller portion to the guild, and a portion to the community manager.
 
 This straightforward yet effective model creates a mutually beneficial scenario: new players gain access to the game, the guild generates returns on its assets, and the game's user base expands.
 

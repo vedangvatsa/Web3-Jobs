@@ -56,20 +56,14 @@ The demand for Web3 professionals in South Africa continues to grow, with compet
 
 1. **Grasp the Regulatory Environment:** Understanding FSCA regulations for crypto assets can set you apart, especially for non-technical roles. This knowledge demonstrates your seriousness as a candidate.
 
-2.
+2. **Engage with the Local Community:**
 
-**Engage with the Local Community:**
-
-- **-** Attend Meetups:**Participate in local Web3 meetups in Cape Town and Johannesburg to network with founders and other professionals.
+- Attend Meetups:**Participate in local Web3 meetups in Cape Town and Johannesburg to network with founders and other professionals.
  - **Connect with Local Leaders:** Follow and engage with South African Web3 builders, investors, and community leaders on Twitter and LinkedIn.
 
-3.
+3. **Develop a Strong Portfolio:** Many high-paying roles are remote positions with international firms. Ensure your portfolio, including GitHub contributions and relevant writing, reflects high-quality work to compete globally.
 
-**Develop a Strong Portfolio:** Many high-paying roles are remote positions with international firms. Ensure your portfolio, including GitHub contributions and relevant writing, reflects high-quality work to compete globally.
-
-4.
-
-**Emphasize Financial Sector Experience:** Highlight any experience in traditional finance or fintech, as it is highly valued in the local market.
+4. **Emphasize Financial Sector Experience:** Highlight any experience in traditional finance or fintech, as it is highly valued in the local market.
 
 ### Exploring Web3 Opportunities in South Africa
 

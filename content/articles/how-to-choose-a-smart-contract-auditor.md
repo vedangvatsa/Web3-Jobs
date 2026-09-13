@@ -96,44 +96,22 @@ This newer model uses a crowd of independent security researchers, providing an 
 
 When choosing an auditor, consider the following factors:
 
-1.
-
-**Track Record**: Research the major protocols they have audited. Check if any of these protocols faced exploitation post-audit. Review their public audit reports for clarity and detail.
-2.
-
-**Project Needs**: Determine if your project requires a detailed economic analysis or a standard security review. Different firms have varying specializations.
-3.
-
-**Multi-Firm Approach**: For high-value protocols, relying on a single audit is insufficient. Best practices suggest obtaining audits from at least two reputable firms and possibly conducting a competitive audit on a platform like Code4rena. This ensures multiple, independent evaluations.
+1. **Track Record**: Research the major protocols they have audited. Check if any of these protocols faced exploitation post-audit. Review their public audit reports for clarity and detail.
+2. **Project Needs**: Determine if your project requires a detailed economic analysis or a standard security review. Different firms have varying specializations.
+3. **Multi-Firm Approach**: For high-value protocols, relying on a single audit is insufficient. Best practices suggest obtaining audits from at least two reputable firms and possibly conducting a competitive audit on a platform like Code4rena. This ensures multiple, independent evaluations.
 
 ### Preparing for Your Audit
 
 To maximize the value of your audit, effective preparation is essential.
 
-1.
-
-**Code Freeze**: Ensure your code is complete and frozen. An audit should not serve as a debugging session.
-2.
-
-**Documentation**: Provide auditors with full documentation that details your protocol's architecture and intended behavior.
-3.
-
-**Testing**: Maintain a thorough internal testing process. High test coverage is important for a successful audit.
+1. **Code Freeze**: Ensure your code is complete and frozen. An audit should not serve as a debugging session.
+2. **Documentation**: Provide auditors with full documentation that details your protocol's architecture and intended behavior.
+3. **Testing**: Maintain a thorough internal testing process. High test coverage is important for a successful audit.
 
 ### Implementation Steps
 
-1.
-
-**Understand Core Principles**: Familiarize yourself with fundamental security principles. Reading best practices from industry leaders will help you gain insights.
-2.
-
-**Assess Current Position**: Evaluate your current standing. Identify strengths and weaknesses, along with specific challenges you face.
-3.
-
-**Develop a Strategy**: Create a tailored strategy based on your evaluation. Consider your role, team dynamics, organizational culture, and personal goals.
-4.
-
-**Gradual Implementation**: Avoid attempting sweeping changes at once. Start with manageable changes, tracking their effectiveness as you progress.
-5.
-
-**Measure Progress**: Continuously monitor your advancements. Be prepared to adjust your strategy based on feedback and results.
+1. **Understand Core Principles**: Familiarize yourself with fundamental security principles. Reading best practices from industry leaders will help you gain insights.
+2. **Assess Current Position**: Evaluate your current standing. Identify strengths and weaknesses, along with specific challenges you face.
+3. **Develop a Strategy**: Create a tailored strategy based on your evaluation. Consider your role, team dynamics, organizational culture, and personal goals.
+4. **Gradual Implementation**: Avoid attempting sweeping changes at once. Start with manageable changes, tracking their effectiveness as you progress.
+5. **Measure Progress**: Continuously monitor your advancements. Be prepared to adjust your strategy based on feedback and results.

@@ -51,15 +51,9 @@ The challenge for digital currency systems is to ensure that a digital token beh
 
 Consider a digital currency system that lacks a blockchain. An attacker, Mallory, possesses one digital coin and attempts to double-spend it as follows:
 
-1.
-
-**Transaction 1**: Mallory crafts and signs a transaction, sending her coin to a merchant, Alice, in exchange for a product. She broadcasts this transaction to the network.
-2.
-
-**Transaction 2**: Immediately thereafter, Mallory creates and signs a different transaction, sending the same coin to another address under her control.
-3.
-
-**The Race**: Mallory now has two conflicting transactions. She aims for the network to validate Transaction 2, while Alice hopes for Transaction 1 to be recognized. If Mallory can persuade the network to accept Transaction 2 after Alice has shipped the product, she successfully executes a double-spend.
+1. **Transaction 1**: Mallory crafts and signs a transaction, sending her coin to a merchant, Alice, in exchange for a product. She broadcasts this transaction to the network.
+2. **Transaction 2**: Immediately thereafter, Mallory creates and signs a different transaction, sending the same coin to another address under her control.
+3. **The Race**: Mallory now has two conflicting transactions. She aims for the network to validate Transaction 2, while Alice hopes for Transaction 1 to be recognized. If Mallory can persuade the network to accept Transaction 2 after Alice has shipped the product, she successfully executes a double-spend.
 
 ### The Blockchain Solution: Public Consensus and Immutability
 

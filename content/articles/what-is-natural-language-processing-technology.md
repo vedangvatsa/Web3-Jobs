@@ -25,17 +25,11 @@ NLP systems employ a blend of techniques ranging from fundamental grammar rules 
  - **Stop Word Removal**: Eliminating common, less meaningful words such as "the," "a," and "is."
  - **Lemmatization/Stemming**: Reducing words to their root forms. For instance, "running," "ran," and "runs" are all transformed into "run," helping models recognize their similar meanings.
 
-2.
+2. **Feature Extraction**: After preprocessing, the NLP model converts words into numerical representations that can be processed mathematically. This feature extraction or word embedding transforms words into vectors (lists of numbers). Early methods relied on simple word counts, while modern NLP uses sophisticated techniques to create vectors that encapsulate a word's meaning and its relationships. For example, the vectors for "king" and "queen" will be mathematically closer than those for "king" and "apple."
 
-**Feature Extraction**: After preprocessing, the NLP model converts words into numerical representations that can be processed mathematically. This feature extraction or word embedding transforms words into vectors (lists of numbers). Early methods relied on simple word counts, while modern NLP uses sophisticated techniques to create vectors that encapsulate a word's meaning and its relationships. For example, the vectors for "king" and "queen" will be mathematically closer than those for "king" and "apple."
+3. **Model Training**: The numerical representations of text are then processed by a machine learning model. For tasks such as sentiment analysis, the model trains on a substantial dataset of text labeled as "positive," "negative," or "neutral." The model learns to correlate specific word patterns and vectors with particular sentiments. Current standards for advanced NLP tasks involve [deep learning](/what-is-deep-learning-technology-explained) and neural networks.
 
-3.
-
-**Model Training**: The numerical representations of text are then processed by a machine learning model. For tasks such as sentiment analysis, the model trains on a substantial dataset of text labeled as "positive," "negative," or "neutral." The model learns to correlate specific word patterns and vectors with particular sentiments. Current standards for advanced NLP tasks involve [deep learning](/what-is-deep-learning-technology-explained) and neural networks.
-
-4.
-
-**Output Generation**: The trained model can analyze new, unseen text and produce outputs, which may include classifications (like "spam"), translations, or newly generated sentences.
+4. **Output Generation**: The trained model can analyze new, unseen text and produce outputs, which may include classifications (like "spam"), translations, or newly generated sentences.
 
 ### Core Tasks in NLP
 
@@ -93,22 +87,12 @@ Starting with NLP involves learning Python, the standard programming language fo
 
 ### Common Mistakes to Avoid
 
-1.
+1. **Rushing the Learning Process**: Sustainable mastery takes time. Avoid expecting immediate results.
 
-**Rushing the Learning Process**: Sustainable mastery takes time. Avoid expecting immediate results.
+2. **Neglecting Feedback**: Value input from colleagues, mentors, and managers. Their insights can reveal aspects you might overlook.
 
-2.
+3. **Adopting a One-Size-Fits-All Approach**: Tailor strategies to fit your unique context and circumstances.
 
-**Neglecting Feedback**: Value input from colleagues, mentors, and managers. Their insights can reveal aspects you might overlook.
+4. **Giving Up Prematurely**: adopt discomfort as a part of growth. Perseverance leads to positive outcomes.
 
-3.
-
-**Adopting a One-Size-Fits-All Approach**: Tailor strategies to fit your unique context and circumstances.
-
-4.
-
-**Giving Up Prematurely**: adopt discomfort as a part of growth. Perseverance leads to positive outcomes.
-
-5.
-
-**Failing to Track Progress**: Measurement is important. Record your advancements to enable improvement.
+5. **Failing to Track Progress**: Measurement is important. Record your advancements to enable improvement.

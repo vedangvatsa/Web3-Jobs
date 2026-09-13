@@ -110,7 +110,7 @@ Upon creating a non-custodial wallet, you receive a **[seed phrase](/what-is-a-s
 
 **Examples of Non-Custodial Wallets:**
 
-- **-** Software Wallets (Hot Wallets):**Examples include [MetaMask](/what-is-a-browser-extension-wallet), Rabby, and Phantom. These are typically browser extensions or mobile applications.
+- Software Wallets (Hot Wallets):**Examples include [MetaMask](/what-is-a-browser-extension-wallet), Rabby, and Phantom. These are typically browser extensions or mobile applications.
 - **Hardware Wallets (Cold Wallets):** Examples include [Ledger](/understanding-hardware-wallets-for-crypto-security) and Trezor. These physical devices store your private keys offline, providing maximum security.
 
 **Best for:** Individuals committed to participating in the Web3 ecosystem and desiring true ownership of their digital assets.
@@ -119,17 +119,9 @@ Upon creating a non-custodial wallet, you receive a **[seed phrase](/what-is-a-s
 
 For most individuals, using both types of wallets proves beneficial. A balanced approach involves:
 
-1.
-
-**Centralized Exchange (Custodial):** Use a custodial exchange for purchasing cryptocurrency with traditional currency and converting it back.
-2.
-
-**Non-Custodial Wallet:** Transfer any purchased cryptocurrency you do not intend to trade actively to your own non-custodial wallet immediately.
-3.
-
-**Hardware Wallet (Non-Custodial):** For significant amounts of value, use a hardware wallet as your primary savings vault.
-4.
-
-**Software Wallet (Non-Custodial):** Employ a software wallet like MetaMask as your hot wallet for daily interactions with dApps, keeping only a small amount for daily spending.
+1. **Centralized Exchange (Custodial):** Use a custodial exchange for purchasing cryptocurrency with traditional currency and converting it back.
+2. **Non-Custodial Wallet:** Transfer any purchased cryptocurrency you do not intend to trade actively to your own non-custodial wallet immediately.
+3. **Hardware Wallet (Non-Custodial):** For significant amounts of value, use a hardware wallet as your primary savings vault.
+4. **Software Wallet (Non-Custodial):** Employ a software wallet like MetaMask as your hot wallet for daily interactions with dApps, keeping only a small amount for daily spending.
 
 By grasping the difference between custodial and non-custodial wallets, you can make informed decisions on managing your assets, weighing convenience against security in the decentralized sector.

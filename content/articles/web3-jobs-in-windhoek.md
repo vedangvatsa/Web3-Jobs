@@ -53,21 +53,13 @@ The formal Web3 job market in Windhoek is still nascent. Primary opportunities i
 
 ### How to Build a Web3 Career in Windhoek
 
-1.
+1. **Become a Niche Expert in ReFi or NFTs for Tourism**: Focus on how blockchain can enhance conservation finance or the tourism sector. Develop a [portfolio](/building-web3-portfolio) of relevant projects or write articles detailing this specific intersection.
 
-**Become a Niche Expert in ReFi or NFTs for Tourism**: Focus on how blockchain can enhance conservation finance or the tourism sector. Develop a [portfolio](/building-web3-portfolio) of relevant projects or write articles detailing this specific intersection.
+2. **Use the Digital Nomad Visa**: Experienced Web3 professionals should consider relocating to Windhoek. Your expertise can significantly influence the small but expanding local community, positioning you as a key figure in its development.
 
-2.
+3. **Create Educational Content for the Local Market**: There is a demand for high-quality, accessible Web3 educational content tailored for Namibia. Initiating a blog or a workshop series can effectively build your brand and network.
 
-**Use the Digital Nomad Visa**: Experienced Web3 professionals should consider relocating to Windhoek. Your expertise can significantly influence the small but expanding local community, positioning you as a key figure in its development.
-
-3.
-
-**Create Educational Content for the Local Market**: There is a demand for high-quality, accessible Web3 educational content tailored for Namibia. Initiating a blog or a workshop series can effectively build your brand and network.
-
-4.
-
-**Connect with Conservation and Tourism Stakeholders**: Engage with major conservation NGOs and tourism operators in Namibia. Discuss how blockchain can address their transparency, funding, and customer engagement challenges.
+4. **Connect with Conservation and Tourism Stakeholders**: Engage with major conservation NGOs and tourism operators in Namibia. Discuss how blockchain can address their transparency, funding, and customer engagement challenges.
 
 ### Complete Salary & Cost of Living Analysis
 

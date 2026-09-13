@@ -43,18 +43,10 @@ While numerous roles in Web3 can be performed remotely, some align particularly 
 
 Succeeding as a remote professional in Web3 requires skills beyond your core competency. Mastering the art of [remote work](/remote-work-in-web3) is critical.
 
-1.
-
-**Asynchronous Communication Mastery:** Exceptional written communication is vital. You must convey complex ideas clearly in Discord messages or Notion documents so that colleagues in different time zones can understand without needing a live conversation.
-2.
-
-**Extreme Ownership and Autonomy:** In remote environments, you function as a "manager of one." Without direct oversight, you must be self-motivated and capable of breaking high-level goals into actionable tasks.
-3.
-
-**Documentation-First Mindset:** Thorough documentation forms the backbone of remote teams. Regularly record your work, decisions, and learning to create a shared knowledge base accessible to all team members.
-4.
-
-**Cultural Intelligence:** Working with individuals from diverse backgrounds requires sensitivity to different communication styles and cultural practices. Understanding these nuances enhances collaboration.
+1. **Asynchronous Communication Mastery:** Exceptional written communication is vital. You must convey complex ideas clearly in Discord messages or Notion documents so that colleagues in different time zones can understand without needing a live conversation.
+2. **Extreme Ownership and Autonomy:** In remote environments, you function as a "manager of one." Without direct oversight, you must be self-motivated and capable of breaking high-level goals into actionable tasks.
+3. **Documentation-First Mindset:** Thorough documentation forms the backbone of remote teams. Regularly record your work, decisions, and learning to create a shared knowledge base accessible to all team members.
+4. **Cultural Intelligence:** Working with individuals from diverse backgrounds requires sensitivity to different communication styles and cultural practices. Understanding these nuances enhances collaboration.
 
 ### Practical Considerations for a Location-Independent Career
 

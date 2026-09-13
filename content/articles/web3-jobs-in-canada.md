@@ -24,7 +24,7 @@ Canada's crypto ecosystem features a blend of local innovation and significant i
 - **Strong Technical Talent Pipeline:** top-tier institutions like the University of Toronto and the University of Waterloo generate a consistent flow of highly skilled engineering and computer science graduates.
 - **Key Hubs:**
 
-- **-** Toronto:**This city serves as the financial and technical heart of Canada's Web3 scene. It is a major hub for DeFi, core protocol development, and crypto-focused venture capital firms.
+- Toronto:**This city serves as the financial and technical heart of Canada's Web3 scene. It is a major hub for DeFi, core protocol development, and crypto-focused venture capital firms.
  - **Vancouver:** Known for its creative focus, Vancouver is becoming a significant center for [NFT](/what-are-nfts) projects and blockchain gaming.
  - **Montreal:** Renowned for its AI and gaming industries, Montreal is also emerging as a hub for Web3 development.
 
@@ -59,24 +59,16 @@ Salaries for roles such as Smart Contract Developers and Protocol Engineers can 
 
 ### How to Secure a Web3 Job in Canada
 
-1.
+1. **Highlight Technical Fundamentals:** The Canadian market values engineering expertise. Whether you are a developer or a product manager, demonstrating a solid understanding of the technology is essential. A strong [GitHub](/building-web3-portfolio) profile, contributions to open-source projects, or well-articulated technical blog posts can set you apart.
 
-**Highlight Technical Fundamentals:** The Canadian market values engineering expertise. Whether you are a developer or a product manager, demonstrating a solid understanding of the technology is essential. A strong [GitHub](/building-web3-portfolio) profile, contributions to open-source projects, or well-articulated technical blog posts can set you apart.
+2. **Engage with the University Ecosystem:** Universities in Canada are key to Web3 research and talent. Participate in university-led hackathons, blockchain club events, and follow the work of influential academics in the field.
 
-2.
+3. **Network at Local Events:**
 
-**Engage with the University Ecosystem:** Universities in Canada are key to Web3 research and talent. Participate in university-led hackathons, blockchain club events, and follow the work of influential academics in the field.
-
-3.
-
-**Network at Local Events:**
-
-- **-** Conferences:**Attend major Canadian conferences such as ETH Toronto and the Blockchain Futurist Conference to engage with the broader ecosystem.
+- Conferences:**Attend major Canadian conferences such as ETH Toronto and the Blockchain Futurist Conference to engage with the broader ecosystem.
  - **Meetups:** Join local meetup groups in Toronto and Vancouver to build relationships in an informal setting.
 
-4.
-
-**Familiarize with the Regulatory Environment:** For finance or legal roles, understanding Canadian securities law and regulations around crypto ETFs can be a significant advantage.
+4. **Familiarize with the Regulatory Environment:** For finance or legal roles, understanding Canadian securities law and regulations around crypto ETFs can be a significant advantage.
 
 ### Finding Your Web3 Job in Canada
 

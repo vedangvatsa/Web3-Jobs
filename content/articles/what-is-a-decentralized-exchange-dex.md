@@ -80,44 +80,24 @@ One of the defining features of DEXs is their ability to host any ERC-20 token. 
 
 Understanding how DEXs function can enhance your professional expertise in the Web3 space. Here's a step-by-step guide to mastering the fundamentals of trading on DEXs:
 
-1.
+1. **Grasp the Core Principles**: Familiarize yourself with the foundational concepts of DEXs and AMMs. Study industry best practices to build a strong knowledge base.
 
-**Grasp the Core Principles**: Familiarize yourself with the foundational concepts of DEXs and AMMs. Study industry best practices to build a strong knowledge base.
+2. **Evaluate Your Current Skills**: Assess your current understanding of blockchain technology and trading mechanisms. Identify areas where you excel and those requiring improvement.
 
-2.
+3. **Create a Personal Strategy**: Develop a tailored plan for engaging with DEXs. Consider your objectives, the tokens you wish to trade, and the liquidity pools that align with your strategy.
 
-**Evaluate Your Current Skills**: Assess your current understanding of blockchain technology and trading mechanisms. Identify areas where you excel and those requiring improvement.
+4. **Implement Changes Gradually**: Start with manageable trades and expand your involvement as you gain confidence. Monitor your trades and adjust your strategies based on your experiences.
 
-3.
-
-**Create a Personal Strategy**: Develop a tailored plan for engaging with DEXs. Consider your objectives, the tokens you wish to trade, and the liquidity pools that align with your strategy.
-
-4.
-
-**Implement Changes Gradually**: Start with manageable trades and expand your involvement as you gain confidence. Monitor your trades and adjust your strategies based on your experiences.
-
-5.
-
-**Track Progress and Adjust**: Maintain a record of your trading activities. Analyze your successes and setbacks to refine your approach continuously.
+5. **Track Progress and Adjust**: Maintain a record of your trading activities. Analyze your successes and setbacks to refine your approach continuously.
 
 ### Common Mistakes to Avoid with DEXs
 
-1.
+1. **Rushing the Learning Process**: Sustainable success requires time. Avoid the urge to make large trades without understanding the mechanics of DEXs.
 
-**Rushing the Learning Process**: Sustainable success requires time. Avoid the urge to make large trades without understanding the mechanics of DEXs.
+2. **Ignoring Market Trends**: Stay informed about market movements and token performance. Educate yourself on the latest trends in the crypto space.
 
-2.
+3. **Neglecting Risk Management**: Implement strategies to mitigate risks, such as diversifying your portfolio and setting stop-loss limits.
 
-**Ignoring Market Trends**: Stay informed about market movements and token performance. Educate yourself on the latest trends in the crypto space.
+4. **Underestimating the Importance of Research**: Thoroughly research projects before investing. Consider factors like team credibility, market demand, and technological viability.
 
-3.
-
-**Neglecting Risk Management**: Implement strategies to mitigate risks, such as diversifying your portfolio and setting stop-loss limits.
-
-4.
-
-**Underestimating the Importance of Research**: Thoroughly research projects before investing. Consider factors like team credibility, market demand, and technological viability.
-
-5.
-
-**Failing to Engage with the Community**: Participate in discussions within the DEX community. Engaging with other traders can provide valuable insights and enhance your trading strategies.
+5. **Failing to Engage with the Community**: Participate in discussions within the DEX community. Engaging with other traders can provide valuable insights and enhance your trading strategies.

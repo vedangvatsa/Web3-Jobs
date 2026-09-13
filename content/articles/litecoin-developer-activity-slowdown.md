@@ -52,15 +52,9 @@ Several key metrics illustrate Litecoin's slowdown:
 
 Litecoin's trajectory reflects an evolutionary narrative rather than a failure. It remains a secure and reliable decentralized currency with a loyal user base. However, its challenges in retaining developer interest provide vital lessons for the broader Web3 industry.
 
-1.
-
-**A growing Ecosystem Requires a Rich Design Space:** To draw in and retain builders, a blockchain must transcend being merely a currency; it should function as a platform. This entails providing tools and flexibility that help developers craft new applications.
-2.
-
-**Developer Activity is a Key Health Metric:** Over time, a blockchain's value hinges on the innovation occurring within its ecosystem. Monitoring developer activity serves as one of the most effective means to assess long-term health and potential.
-3.
-
-**Innovation is a Moving Target:** The crypto sector evolves rapidly. Protocols that fail to adapt risk becoming outdated, respected for their historical significance but no longer leading innovation.
+1. **A growing Ecosystem Requires a Rich Design Space:** To draw in and retain builders, a blockchain must transcend being merely a currency; it should function as a platform. This entails providing tools and flexibility that help developers craft new applications.
+2. **Developer Activity is a Key Health Metric:** Over time, a blockchain's value hinges on the innovation occurring within its ecosystem. Monitoring developer activity serves as one of the most effective means to assess long-term health and potential.
+3. **Innovation is a Moving Target:** The crypto sector evolves rapidly. Protocols that fail to adapt risk becoming outdated, respected for their historical significance but no longer leading innovation.
 
 Litecoin's experience highlights a fundamental reality in the Web3 field: in the race for the future of the internet, the most valuable asset is neither capital nor brand recognition but the enthusiasm and creativity of a growing developer community.
 

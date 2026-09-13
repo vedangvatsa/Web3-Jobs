@@ -35,7 +35,9 @@ The practice of "job hopping," which involves changing jobs every one to two yea
 
 **Changing jobs frequently expands your professional network. Each new position introduces you to different colleagues, mentors, and industry contacts. A diverse network can lead to new opportunities, insights, and referrals. For instance, a product manager who shifts from one startup to another may connect with other professionals in the field, creating a network that can support future career moves.
 
-### The Potential Drawbacks of Job Hopping**1. The Perception of Disloyalty
+### The Potential Drawbacks of Job Hopping
+
+**1. The Perception of Disloyalty
 
 **Despite the changing attitudes toward job hopping, some hiring managers in traditional sectors may view frequent job changes as a sign of instability. Concerns about commitment and loyalty can arise. It's essential to prepare for interviews by crafting a narrative that highlights your reasons for leaving previous roles, focusing on professional growth and alignment with career goals rather than dissatisfaction.** 2. Lack of Deep Expertise
 

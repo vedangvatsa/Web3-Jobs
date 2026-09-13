@@ -49,17 +49,11 @@ The Product Manager's responsibility is to create a sustainable economic model, 
 
 In Web2, a company's advantage often lies in proprietary code or private user data. In Web3, code can be copied or "forked" almost instantly. Thus, building a defensible product requires different approaches:
 
-1.
+1. **Liquidity:** In [DeFi](/what-is-defi) protocols, having significant liquidity is a strong moat. Traders prefer platforms offering the best prices, creating a network effect that is challenging for new competitors to replicate.
 
-**Liquidity:** In [DeFi](/what-is-defi) protocols, having significant liquidity is a strong moat. Traders prefer platforms offering the best prices, creating a network effect that is challenging for new competitors to replicate.
+2. **Community and Brand:** A strong community and trusted brand are invaluable assets that cannot be duplicated.
 
-2.
-
-**Community and Brand:** A strong community and trusted brand are invaluable assets that cannot be duplicated.
-
-3.
-
-**Integrations:** The more other protocols build on your protocol, the higher the switching costs for users. Becoming a foundational component for a DeFi ecosystem provides a strong competitive advantage.
+3. **Integrations:** The more other protocols build on your protocol, the higher the switching costs for users. Becoming a foundational component for a DeFi ecosystem provides a strong competitive advantage.
 
 Web3 Product Managers must prioritize strategies that cultivate these non-code-based moats.
 

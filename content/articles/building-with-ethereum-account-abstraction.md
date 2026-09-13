@@ -214,17 +214,11 @@ const userOp = await smartAccount.createUserOperation(
 
 ### If you are a builder
 
-1.
+1. **Pick a stack.** viem with `viem/account-abstraction` plus permissionless.js is the most common. Alternatives are Alchemy AA SDK, Biconomy, ZeroDev Kernel, and Candide abstractionkit. Use the same EntryPoint version across account, bundler, and paymaster.
 
-**Pick a stack.** viem with `viem/account-abstraction` plus permissionless.js is the most common. Alternatives are Alchemy AA SDK, Biconomy, ZeroDev Kernel, and Candide abstractionkit. Use the same EntryPoint version across account, bundler, and paymaster.
+2. **Run on Sepolia first.** Use EntryPoint v0.7 at `0x0000000071727De22E5E9d8BAf0edAc6f37da032`. Get testnet ETH from a faucet and point your clients at a public RPC.
 
-2.
-
-**Run on Sepolia first.** Use EntryPoint v0.7 at `0x0000000071727De22E5E9d8BAf0edAc6f37da032`. Get testnet ETH from a faucet and point your clients at a public RPC.
-
-3.
-
-**Wire the clients.** Minimal viem plus Pimlico example for a Safe account:
+3. **Wire the clients.** Minimal viem plus Pimlico example for a Safe account:
 
 ```ts
 import { createPublicClient, http } from "viem"
@@ -271,17 +265,11 @@ const hash = await smartAccountClient.sendUserOperation({
 const receipt = await bundlerClient.waitForUserOperationReceipt({ hash })
 ```
 
-4.
+4. **Handle gas correctly.** Call `bundlerClient.estimateUserOperationGas` first, then set `maxFeePerGas` and `maxPriorityFeePerGas` from the bundler gas price feed. Ensure the account or paymaster has a deposit in EntryPoint with `depositTo` or that the paymaster sponsors it. Include `preVerificationGas` with enough slack for your paymaster context size. For 7702 delegations add 25,000 gas per authorization.
 
-**Handle gas correctly.** Call `bundlerClient.estimateUserOperationGas` first, then set `maxFeePerGas` and `maxPriorityFeePerGas` from the bundler gas price feed. Ensure the account or paymaster has a deposit in EntryPoint with `depositTo` or that the paymaster sponsors it. Include `preVerificationGas` with enough slack for your paymaster context size. For 7702 delegations add 25,000 gas per authorization.
+5. **Add policies as modules.** For session keys or spending limits, install an ERC-7579 validator module rather than forking the account. Test the validator on a local anvil fork with simulation before mainnet.
 
-5.
-
-**Add policies as modules.** For session keys or spending limits, install an ERC-7579 validator module rather than forking the account. Test the validator on a local anvil fork with simulation before mainnet.
-
-6.
-
-**Go cross-chain deliberately.** Keep a config map of EntryPoint addresses per chain. v0.6, v0.7, and v0.8 coexist. Wallet factories from eth-infinitism publish deterministic addresses for each version, but some rollups use chain-specific pricing. Test bundler routing per chain.
+6. **Go cross-chain deliberately.** Keep a config map of EntryPoint addresses per chain. v0.6, v0.7, and v0.8 coexist. Wallet factories from eth-infinitism publish deterministic addresses for each version, but some rollups use chain-specific pricing. Test bundler routing per chain.
 
 **Costs to budget.** Expect one bundler transaction to wrap many UserOperations, so you share the 21,000 base cost. Per UserOperation you pay calldata for the PackedUserOperation, EntryPoint execution, your account validation, and paymaster overhead if present. For budgeting, many teams add 15 to 30 percent on top of the simulated gas for mainnet variance. On L2s the overhead is often a few cents and batching usually makes the UserOperation cheaper than three separate EOA transactions.
 

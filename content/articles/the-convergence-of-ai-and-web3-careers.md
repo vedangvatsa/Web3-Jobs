@@ -24,12 +24,8 @@ For professionals in AI and Web3, this convergence represents a significant oppo
 The current AI ecosystem is predominantly controlled by a few major tech companies. These corporations manage the vast datasets and computational resources needed to train advanced AI systems, leading to several drawbacks that Web3 can uniquely address:
 
 1. **Censorship and Bias**: Centralized AI models are susceptible to censorship and may reflect the biases of their creators.
-2.
-
-**Lack of Ownership**: Users contributing data for training these models do not possess ownership or control over their contributions.
-3.
-
-**Data Privacy**: Users must trust centralized companies with their data, often lacking transparency regarding its usage.
+2. **Lack of Ownership**: Users contributing data for training these models do not possess ownership or control over their contributions.
+3. **Data Privacy**: Users must trust centralized companies with their data, often lacking transparency regarding its usage.
 
 ### New Career Roles
 
@@ -57,15 +53,9 @@ This situation has led to the emergence of "Decentralized AI" projects, creating
 
 While Web3 addresses AI's centralization issues, AI can significantly improve the user experience within Web3. Interacting with decentralized applications (dApps), managing wallets, and understanding complex [DeFi](/what-is-defi) protocols remain challenging for average users.
 
-1.
-
-**Complexity**: Engaging with [smart contracts](/what-are-smart-contracts) often requires technical knowledge and entails signing multiple transactions.
-2.
-
-**Onboarding Friction**: Users must acquire native tokens to cover gas fees, creating a barrier to entry.
-3.
-
-**Data Accessibility**: Although on-chain data is public, it is often not user-friendly, requiring specialized tools for analysis.
+1. **Complexity**: Engaging with [smart contracts](/what-are-smart-contracts) often requires technical knowledge and entails signing multiple transactions.
+2. **Onboarding Friction**: Users must acquire native tokens to cover gas fees, creating a barrier to entry.
+3. **Data Accessibility**: Although on-chain data is public, it is often not user-friendly, requiring specialized tools for analysis.
 
 ### New Career Roles
 

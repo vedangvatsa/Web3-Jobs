@@ -172,25 +172,15 @@ The importance of these competencies evolves with your career level:
 
 ## Common Development Mistakes
 
-1.
+1. **Studying Without Doing:** Relying solely on theory hampers retention. Engage in practical projects to reinforce knowledge.
 
-**Studying Without Doing:** Relying solely on theory hampers retention. Engage in practical projects to reinforce knowledge.
+2. **Neglecting Soft Skills:** Technical expertise is common; soft skills are often rare. Prioritize development in areas such as communication and emotional intelligence.
 
-2.
+3. **Not Seeking Feedback:** Improvement requires external perspectives. Regularly solicit feedback from mentors and peers to identify blind spots.
 
-**Neglecting Soft Skills:** Technical expertise is common; soft skills are often rare. Prioritize development in areas such as communication and emotional intelligence.
+4. **Comparing to Others:** Skill development is a personal journey. Concentrate on your unique growth rather than measuring against others.
 
-3.
-
-**Not Seeking Feedback:** Improvement requires external perspectives. Regularly solicit feedback from mentors and peers to identify blind spots.
-
-4.
-
-**Comparing to Others:** Skill development is a personal journey. Concentrate on your unique growth rather than measuring against others.
-
-5.
-
-**Expecting Quick Mastery:** Mastery takes time. Focus on enjoying the learning process rather than rushing to achieve proficiency.
+5. **Expecting Quick Mastery:** Mastery takes time. Focus on enjoying the learning process rather than rushing to achieve proficiency.
 
 ## Resources for Continued Learning
 

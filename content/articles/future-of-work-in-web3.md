@@ -20,13 +20,9 @@ Three significant trends will shape the progression of Web3 careers:
 
 1. **Simplification of Complexity**: To achieve mass adoption, Web3 must simplify its underlying complexities. By 2030, users will not need to understand concepts like gas fees or private key management. This shift will create a strong demand for professionals focused on user experience and accessibility.
 
-2.
+2. **Integration of AI and Web3**: The combination of AI and decentralized systems will open new possibilities for autonomous agents, intelligent oracles, and verifiable AI. This integration will require professionals who possess skills across both domains.
 
-**Integration of AI and Web3**: The combination of AI and decentralized systems will open new possibilities for autonomous agents, intelligent oracles, and verifiable AI. This integration will require professionals who possess skills across both domains.
-
-3.
-
-**Evolution of DAOs**: [Decentralized Autonomous Organizations](/what-is-a-dao) will transform from disorganized online groups into sophisticated, global entities. This transition will necessitate a new class of managers, strategists, and governance specialists who can thrive in a decentralized environment.
+3. **Evolution of DAOs**: [Decentralized Autonomous Organizations](/what-is-a-dao) will transform from disorganized online groups into sophisticated, global entities. This transition will necessitate a new class of managers, strategists, and governance specialists who can thrive in a decentralized environment.
 
 ### Key Web3 Jobs of 2030
 

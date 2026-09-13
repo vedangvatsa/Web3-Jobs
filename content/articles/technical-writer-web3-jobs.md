@@ -58,24 +58,14 @@ A successful Web3 technical writer combines technical knowledge with strong comm
 
 Breaking into this field is feasible for those passionate about technology and communication.
 
-1.
+1. **Choose a Project You Admire**: Identify a Web3 protocol that you actively use and appreciate.
 
-**Choose a Project You Admire**: Identify a Web3 protocol that you actively use and appreciate.
+2. **Evaluate Documentation**: Review their documentation from the perspective of a new user or developer. Identify gaps, confusions, or missing information.
 
-2.
+3. **Contribute Improvements**: Write the guides or explanations that would have aided your understanding. For projects hosted on public [GitHub](/building-web3-portfolio), submit a pull request with your enhancements. If not, consider publishing your work on your own blog or platforms like Mirror.xyz.
 
-**Evaluate Documentation**: Review their documentation from the perspective of a new user or developer. Identify gaps, confusions, or missing information.
+4. **Build a Portfolio**: Create a collection of your writing, showcasing your public contributions. This could include your blog, GitHub contributions, or summaries of community meetings.
 
-3.
-
-**Contribute Improvements**: Write the guides or explanations that would have aided your understanding. For projects hosted on public [GitHub](/building-web3-portfolio), submit a pull request with your enhancements. If not, consider publishing your work on your own blog or platforms like Mirror.xyz.
-
-4.
-
-**Build a Portfolio**: Create a collection of your writing, showcasing your public contributions. This could include your blog, GitHub contributions, or summaries of community meetings.
-
-5.
-
-**Engage with the Community**: Share your work in project Discord channels and solicit feedback. Building a reputation as someone who understands the protocol can lead directly to job opportunities.
+5. **Engage with the Community**: Share your work in project Discord channels and solicit feedback. Building a reputation as someone who understands the protocol can lead directly to job opportunities.
 
 A clear thinker and precise writer passionate about simplifying the complex can find a fulfilling entry point into Web3 as a technical writer.

@@ -39,12 +39,12 @@ Transactions often confuse new users, necessitating a UI that offers clear and c
 
 - **Pre-Transaction:**
 
-- **-** Gas Estimation:**Clearly communicate the estimated gas fee prior to transaction signing.
+- Gas Estimation:**Clearly communicate the estimated gas fee prior to transaction signing.
  - **Slippage Notifications:** For decentralized exchanges (DEXs), explain slippage and alert users if their trade could experience significant price changes.
  - **Explicit Calls to Action:** Use specific language on buttons, such as "Approve USDC," to clarify user actions.
 - **Post-Transaction:**
 
-- **-** Immediate Feedback:**Update the UI to display a "Pending" state immediately after submission.
+- Immediate Feedback:**Update the UI to display a "Pending" state immediately after submission.
  - **Link to Block Explorer:** Provide direct access to Etherscan or similar services for users to track their transaction progress.
  - **Clear Confirmation/Failure Messages:** Offer a straightforward "Success!" message upon transaction confirmation. If a transaction fails, provide a clear, understandable explanation rather than an error code.
 

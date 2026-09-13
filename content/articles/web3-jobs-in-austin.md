@@ -96,49 +96,49 @@ The competition for tech talent in Austin has led to salaries that rival those i
 
 ### Technical Roles **[Smart Contract](/what-are-smart-contracts) & Protocol Engineers ([Solidity](/best-programming-languages-for-blockchain-development), Rust):**
 
-- **-** Mid-Level (3-5 years):**Competitive salary range + equity
+- Mid-Level (3-5 years):**Competitive salary range + equity
 - **Senior (5+ years):** Competitive salary range + substantial [token](/what-is-a-token)/equity packages
 - **Market Leaders:** Exceptional candidates can command salaries based on proven experience.
 
 **Full-Stack Web3 Engineer (React/Next.js + Web3 Libraries):**
 
-- **-** Mid-Level:**Competitive salary range + equity
+- Mid-Level:**Competitive salary range + equity
 - **Senior:** Competitive salary range + equity **[Blockchain](/what-is-a-blockchain) Infrastructure/DevOps:**
 
-- **-** Mid-Level:**Competitive salary range
+- Mid-Level:**Competitive salary range
 - **Senior:** Competitive salary range
 
 **Security/Auditing Roles:**
 
-- **-** Smart Contract Auditor:**Competitive salary range (varies by project)
+- Smart Contract Auditor:**Competitive salary range (varies by project)
 - **Security Engineer:** Competitive salary range
 
 ### Product & Strategy Roles
 
 **Product Manager (Technical):**
 
-- **-** Mid-Level:**Competitive salary range
+- Mid-Level:**Competitive salary range
 - **Senior:** Competitive salary range
 
 **Strategy/Partnerships:**
 
-- **-** Senior Level:**Competitive salary range
+- Senior Level:**Competitive salary range
 
 **Business Development:**
 
-- **-** Mid-Level:**Competitive salary range
+- Mid-Level:**Competitive salary range
 - **Senior:** Competitive salary range
 
 ### Marketing & Community Roles
 
 Austin's media and culture scene allows for competitive salaries in marketing roles:**Marketing/Growth Lead:**
 
-- **-** Manager Level:**Competitive salary range
+- Manager Level:**Competitive salary range
 - **Senior Level:** Competitive salary range
 
 **Community Manager:**
 
-- **-** Mid-Level:**Competitive salary range
+- Mid-Level:**Competitive salary range
 - **Senior Level:** Competitive salary range
 
 **Content Creator/Writer:**
@@ -164,7 +164,7 @@ Austin's crypto community is active and socially active, offering a distinct adv
 
 **Regular Meetups:**
 
-- **-** Austin [Ethereum](/what-is-ethereum) Developers:**Monthly meetups focused on Solidity development and protocol research.
+- Austin [Ethereum](/what-is-ethereum) Developers:**Monthly meetups focused on Solidity development and protocol research.
 - **Bitcoin Austin:** Regular events and learning circles centered on Bitcoin.
 - **Austin Web3 Founders:** Entrepreneurial networking and discussions.
 - **Austin DAO:** Community focused on decentralized governance.
@@ -173,7 +173,7 @@ Find these groups on Meetup.com or Twitter (#AustinWeb3).
 
 **Benefits of Attending:**
 
-- **-** Job Opportunities:**Local companies prefer hiring individuals they know.
+- Job Opportunities:**Local companies prefer hiring individuals they know.
 - **Networking Potential:** Meet founders, investors, and potential colleagues.
 - **Knowledge Sharing:** Gain insights from knowledgeable community members.
 - **Reputation Building:** Attend regularly to establish your presence.
@@ -189,7 +189,7 @@ Consensus is the premier crypto conference held annually in Austin, usually in M
 
 **Importance of Consensus:**
 
-- **-** Hiring Opportunities:**Major Web3 companies actively recruit at this event.
+- Hiring Opportunities:**Major Web3 companies actively recruit at this event.
 - **Networking Goldmine:** Engage in valuable networking over three days.
 - **Competitive Advantage:** Attendees who purposefully connect have a higher chance of securing jobs.
 
@@ -217,7 +217,7 @@ Austin appreciates independent thinkers and builders. Develop a public profile t
 
 **Content Strategies:**
 
-- **-** Twitter:**Share insights on Web3 trends and personal experiences.
+- Twitter:**Share insights on Web3 trends and personal experiences.
 - **Blog:** Write technical articles, project updates, and industry analyses.
 - **GitHub:** Showcase your coding skills through public projects.
 - **Podcast:** Discuss Web3 topics if you prefer audio content.

@@ -61,7 +61,7 @@ Web3 content creation encompasses diverse styles and mediums, allowing various c
 
 **Step 3: Establish a Reputation for Quality**
 
-- **-** Prioritize thoroughness:**Ensure your content is well-researched, accurate, and insightful. Cite sources and link to on-chain data.
+- Prioritize thoroughness:**Ensure your content is well-researched, accurate, and insightful. Cite sources and link to on-chain data.
 - **Engage with the community:** Engage actively rather than simply broadcasting. Participate in discussions on Twitter, ask relevant questions, and provide constructive feedback to peers.
 
 **Step 4: Monetize Your Content** After establishing a reputation and audience, explore various monetization avenues.
@@ -69,7 +69,7 @@ Web3 content creation encompasses diverse styles and mediums, allowing various c
 - **Full-time roles:** Many content creators secure full-time positions in "Content Marketing" or "[Developer Relations](/what-is-a-web3-devrel-engineer)" at leading protocols.
 - **Direct monetization strategies:**
 
-- **-** Subscriptions:**Introduce a paid tier for your newsletter or podcast featuring exclusive content.
+- Subscriptions:**Introduce a paid tier for your newsletter or podcast featuring exclusive content.
  - **NFTs:** Transform your articles or artwork into collectible NFTs. Platforms like Mirror enable this process.
  - **Grants:** DAOs and foundations often offer grants to independent researchers and creators contributing value to the ecosystem.
 

@@ -46,14 +46,14 @@ Standing out requires tangible evidence of your skills.
 
 **For Aspiring Developers:**
 
-- **-** GitHub as Your Resume:** Develop personal projects.
+- GitHub as Your Resume:** Develop personal projects.
  - *Beginner Level:* Create your own ERC-20 or ERC-721 token using OpenZeppelin contracts and deploy it to a testnet.
  - *Intermediate Level:* Construct a simple full-stack dApp, such as a staking contract with a React frontend.
 - **Participate in Hackathons:** Engage in events like ETHGlobal hackathons. Many companies hire directly from hackathon teams, making this experience invaluable.
 
 **For Aspiring Non-Technical Interns (Marketing, Community, Product):**
 
-- **-** Start a Blog or Twitter Account:**Use this platform as your portfolio.
+- Start a Blog or Twitter Account:**Use this platform as your portfolio.
  - Write an analysis of a project's marketing strategy.
  - Create a Twitter thread breaking down a complex topic, such as miner extractable value (MEV), into simpler terms.
  - Launch a newsletter curating significant governance proposals weekly.

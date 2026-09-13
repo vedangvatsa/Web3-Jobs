@@ -46,21 +46,13 @@ The job market in Ahmedabad currently favors developers with a solid foundation 
 
 ### Building a Web3 Career in Ahmedabad
 
-1.
+1. **Community Leadership:** The nascent Web3 community in Ahmedabad offers ample opportunities for leadership. Organizing developer meetups or study groups can improve your visibility and attract local companies seeking talent.
 
-**Community Leadership:** The nascent Web3 community in Ahmedabad offers ample opportunities for leadership. Organizing developer meetups or study groups can improve your visibility and attract local companies seeking talent.
+2. **Bridging Web2 and Web3:** Use your experience in traditional IT or business to address real-world challenges using blockchain technology. For instance, pitch a blockchain-based supply chain solution to a local manufacturer.
 
-2.
+3. **Develop a Strong Portfolio:** In a smaller local scene, a compelling public portfolio on platforms like GitHub is vital. Focus on projects that address local business needs to gain attention from remote and national companies.
 
-**Bridging Web2 and Web3:** Use your experience in traditional IT or business to address real-world challenges using blockchain technology. For instance, pitch a blockchain-based supply chain solution to a local manufacturer.
-
-3.
-
-**Develop a Strong Portfolio:** In a smaller local scene, a compelling public portfolio on platforms like GitHub is vital. Focus on projects that address local business needs to gain attention from remote and national companies.
-
-4.
-
-**Engage with the Broader Indian Ecosystem:** While focusing on local opportunities, maintain connections with larger Web3 communities in Mumbai and Bangalore. Attend significant national conferences and participate in online forums to stay informed about industry trends and opportunities.
+4. **Engage with the Broader Indian Ecosystem:** While focusing on local opportunities, maintain connections with larger Web3 communities in Mumbai and Bangalore. Attend significant national conferences and participate in online forums to stay informed about industry trends and opportunities.
 
 ### Salary Overview for Web3 Jobs in Ahmedabad
 
@@ -208,15 +200,9 @@ Starting with education or freelance work can provide fast income, allowing for 
 #### How can I stand out against competition from Bangalore/Mumbai?
 
 Consider these advantages:
-1.
-
-**Cost of Living:** A lower cost of living in Ahmedabad enables faster wealth accumulation.
-2.
-
-**Enterprise Focus:** Use Ahmedabad's IT and business background to attract enterprise clients.
-3.
-
-**Local Leadership:** Establish yourself as a Web3 leader in Ahmedabad for valuable positioning.
+1. **Cost of Living:** A lower cost of living in Ahmedabad enables faster wealth accumulation.
+2. **Enterprise Focus:** Use Ahmedabad's IT and business background to attract enterprise clients.
+3. **Local Leadership:** Establish yourself as a Web3 leader in Ahmedabad for valuable positioning.
 
 #### Should I relocate to Bangalore or Mumbai?
 

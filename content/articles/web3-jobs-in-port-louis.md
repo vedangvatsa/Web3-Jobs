@@ -54,21 +54,13 @@ The job market in Port Louis favors professionals with backgrounds in finance an
 
 ### How to Build a Web3 Career in Port Louis
 
-1.
+1. **Capitalize on Your Finance/Legal Background**: If you have a background in law, accounting, or fund administration, upskilling in Web3 can make you a highly desirable candidate. Pursue certifications in blockchain fundamentals and digital assets.
 
-**Capitalize on Your Finance/Legal Background**: If you have a background in law, accounting, or fund administration, upskilling in Web3 can make you a highly desirable candidate. Pursue certifications in blockchain fundamentals and digital assets.
+2. **Understand the Regulatory Framework**: Expertise in the FSC's VASP framework and the country's AML/CFT regulations for digital assets will set you apart. This knowledge is a strong differentiator in the job market.
 
-2.
+3. **Network Within the Financial Services Community**: The finance and legal community in Port Louis is close-knit. Participating in industry seminars, FinTech events, and professional association meetings can help you build key connections.
 
-**Understand the Regulatory Framework**: Expertise in the FSC's VASP framework and the country's AML/CFT regulations for digital assets will set you apart. This knowledge is a strong differentiator in the job market.
-
-3.
-
-**Network Within the Financial Services Community**: The finance and legal community in Port Louis is close-knit. Participating in industry seminars, FinTech events, and professional association meetings can help you build key connections.
-
-4.
-
-**Demonstrate Trust, Security, and Compliance**: The reputation of Mauritius hinges on trust and regulatory compliance. Highlight your experience in managing secure and compliant operations in your [portfolio](/building-web3-portfolio) and interviews.
+4. **Demonstrate Trust, Security, and Compliance**: The reputation of Mauritius hinges on trust and regulatory compliance. Highlight your experience in managing secure and compliant operations in your [portfolio](/building-web3-portfolio) and interviews.
 
 ### Complete Salary Guide: Web3 Jobs in Port Louis
 

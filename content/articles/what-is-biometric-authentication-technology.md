@@ -40,13 +40,9 @@ Behavioral biometrics focus on unique action patterns of individuals, often serv
 
 The movement towards biometric authentication primarily stems from two significant advantages over traditional password methods.
 
-1.
+1. **Enhanced Security**. A well-implemented biometric system presents a much higher security level compared to conventional passwords. Individuals cannot forget their fingerprints, and it is considerably more challenging for an attacker to replicate a face than to steal or guess a password.
 
-**Enhanced Security**. A well-implemented biometric system presents a much higher security level compared to conventional passwords. Individuals cannot forget their fingerprints, and it is considerably more challenging for an attacker to replicate a face than to steal or guess a password.
-
-2.
-
-**User Convenience**. Biometric systems offer strong convenience. open a smartphone with a fingerprint or facial scan is significantly faster than entering a complex password. This enhanced user experience is important for the widespread adoption of biometric authentication.
+2. **User Convenience**. Biometric systems offer strong convenience. open a smartphone with a fingerprint or facial scan is significantly faster than entering a complex password. This enhanced user experience is important for the widespread adoption of biometric authentication.
 
 ### Challenges and Concerns
 
@@ -66,7 +62,9 @@ Modern high-security systems make this scenario highly unlikely. Basic optical f
 
 #### 2. Where is my biometric data stored?
 
-In most consumer devices, such as smartphones, biometric data resides in a secure, encrypted chip known as a secure enclave. The raw data is not uploaded to the cloud or shared with app developers. Instead, when an app requires biometric authentication, the device's operating system simply confirms whether access should be granted without revealing the underlying biometric data.**3. What happens if the system doesn't recognize me?** 
+In most consumer devices, such as smartphones, biometric data resides in a secure, encrypted chip known as a secure enclave. The raw data is not uploaded to the cloud or shared with app developers. Instead, when an app requires biometric authentication, the device's operating system simply confirms whether access should be granted without revealing the underlying biometric data.
+
+**3. What happens if the system doesn't recognize me?** 
 All biometric systems incorporate fallback authentication methods. If a fingerprint fails to register after multiple attempts, or if facial recognition is hindered by a mask, the system prompts users to enter a PIN or password.
 
 ### The Importance of Biometric Authentication in Cybersecurity
@@ -105,18 +103,10 @@ Organizations that adopt biometric authentication can expect to experience sever
 
 As technology advances, several trends are likely to shape the future of biometric authentication:
 
-1.
+1. **Integration with AI**. The combination of biometric systems with artificial intelligence will enhance accuracy and adaptability. AI algorithms can learn from user behavior, reducing false positives and negatives over time.
 
-**Integration with AI**. The combination of biometric systems with artificial intelligence will enhance accuracy and adaptability. AI algorithms can learn from user behavior, reducing false positives and negatives over time.
+2. **Emergence of Multimodal Systems**. Future systems may combine multiple biometric modalities, such as fingerprint and facial recognition, to provide a more reliable authentication process.
 
-2.
+3. **Privacy-First Approaches**. With growing concerns about data privacy, future biometric systems will prioritize user consent and data protection, ensuring that users maintain control over their biometric information.
 
-**Emergence of Multimodal Systems**. Future systems may combine multiple biometric modalities, such as fingerprint and facial recognition, to provide a more reliable authentication process.
-
-3.
-
-**Privacy-First Approaches**. With growing concerns about data privacy, future biometric systems will prioritize user consent and data protection, ensuring that users maintain control over their biometric information.
-
-4.
-
-**Wider Application in IoT Devices**. As the Internet of Things continues to expand, biometric authentication will likely be integrated into a wider range of devices, from smart home systems to wearable technology.
+4. **Wider Application in IoT Devices**. As the Internet of Things continues to expand, biometric authentication will likely be integrated into a wider range of devices, from smart home systems to wearable technology.

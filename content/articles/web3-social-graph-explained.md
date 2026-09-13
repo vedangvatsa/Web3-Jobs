@@ -32,12 +32,14 @@ A Web3 social graph protocol distinguishes between the data layer and the applic
 
 Two prominent projects are leading the charge in building the open social graph:**1. Farcaster**
 
-- **-** Architecture:**Farcaster employs a hybrid approach that balances decentralization. Your identity exists as an [NFT](/what-are-nfts) on the [Ethereum](/what-is-ethereum) Layer 2 network called Optimism. Posts, likes, and follows are stored off-chain within a peer-to-peer network of servers known as "Hubs."
+- Architecture:**Farcaster employs a hybrid approach that balances decentralization. Your identity exists as an [NFT](/what-are-nfts) on the [Ethereum](/what-is-ethereum) Layer 2 network called Optimism. Posts, likes, and follows are stored off-chain within a peer-to-peer network of servers known as "Hubs."
 - **Ecosystem:** This structure enables a rich ecosystem of clients.
 
-**Warpcast ** stands out as the most popular client, but many others offer distinct user experiences.**2. Lens Protocol**
+**Warpcast ** stands out as the most popular client, but many others offer distinct user experiences.
 
-- **-** Architecture:**Built on the Polygon blockchain, Lens adopts a fully on-chain methodology. Everything is represented as an NFT, including your profile. Following someone involves minting a "Follower NFT," and posting content allows you to "collect" it as an NFT.
+**2. Lens Protocol**
+
+- Architecture:**Built on the Polygon blockchain, Lens adopts a fully on-chain methodology. Everything is represented as an NFT, including your profile. Following someone involves minting a "Follower NFT," and posting content allows you to "collect" it as an NFT.
 - **Composability:** Each social action is an on-chain [token](/what-is-a-token), making the entire graph highly composable or programmable. Developers can create new applications that use this on-chain social data, such as a lending protocol that offers favorable loan terms based on your on-chain reputation.
 
 ### Why Does This Matter?

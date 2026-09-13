@@ -129,7 +129,9 @@ Cons:
 
 ### How to choose and how to test your fit
 
-Use this short process before you accept an offer. It takes one week and avoids a year of mismatch.**1. Write your constraints.
+Use this short process before you accept an offer. It takes one week and avoids a year of mismatch.
+
+**1. Write your constraints.
 
 **List three facts: minimum cash you need for twelve months, whether you can live with equity as a bonus rather than pay, and how many hours and on-call nights you will accept. If you need stability for family or visa reasons, weight that heavily.** 2. Audit how you learn.
 
@@ -143,11 +145,15 @@ Use this short process before you accept an offer. It takes one week and avoids 
 - What is the current runway or planning horizon, and what has to be true to extend it?
 - For equity: what type of grant, what percent of fully diluted shares, vesting dates, cliff, and exercise window after exit?
 
-Write down answers. Patterns across interviewers matter more than any single answer.**4. Test with real work.
+Write down answers. Patterns across interviewers matter more than any single answer.
+
+**4. Test with real work.
 
 **If allowed, do a short paid trial or sample task that mirrors the job. A two-day project reveals collaboration style, review quality, and tooling gaps better than a panel interview.** 5. Check external signals.**- For startups in Web3: read the docs, try the product, check GitHub activity and audit reports, read governance proposals, and join the community channel for a few days to see how the team responds.
 - For corporations: read team engineering blogs, check Glassdoor themes across many reviews rather than one outlier, and ask to meet the skip-level manager.
-- For both: talk to one former employee about why they left.**6. Model your finances.
+- For both: talk to one former employee about why they left.
+
+**6. Model your finances.
 
 **For a startup offer, calculate pay as cash plus zero for equity, then separately model what equity could be worth in low, medium, and high exit cases after dilution and tax. Do not sign a low cash offer based on a high exit case alone. For a corporate offer, add base, bonus target, and expected benefits value.** 7. Decide on reversibility.
 

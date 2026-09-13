@@ -25,12 +25,8 @@ Understanding Account Abstraction is essential for anyone building Web3 products
 
 To grasp why Account Abstraction transforms the account model, we must first examine the current limitations of EOAs on [Ethereum](/what-is-ethereum) and other EVM-compatible chains. There are two primary account types:
 
-1.
-
-**Externally Owned Accounts (EOAs):** Most commonly recognized as wallets (e.g., MetaMask, Trust Wallet). Each EOA is controlled by a single private key. Only the keyholder can initiate and sign transactions. Losing this key or its seed phrase results in total asset loss.
-2.
-
-**Contract Accounts:** These accounts consist of smart contracts deployed on the [blockchain](/what-is-a-blockchain). Unlike EOAs, they are governed by their underlying code and cannot initiate transactions independently; they respond only to incoming transactions.
+1. **Externally Owned Accounts (EOAs):** Most commonly recognized as wallets (e.g., MetaMask, Trust Wallet). Each EOA is controlled by a single private key. Only the keyholder can initiate and sign transactions. Losing this key or its seed phrase results in total asset loss.
+2. **Contract Accounts:** These accounts consist of smart contracts deployed on the [blockchain](/what-is-a-blockchain). Unlike EOAs, they are governed by their underlying code and cannot initiate transactions independently; they respond only to incoming transactions.
 
 The rigidity of EOAs presents a significant problem. The security of digital identity and assets relies entirely on a single point of failure: the private key. This structure offers no flexibility for security policies, account recovery, or user-friendly transaction processes. Account Abstraction addresses these limitations.
 
@@ -46,21 +42,11 @@ Historically, implementing this change required a fundamental alteration of the 
 
 EIP-4337 introduces several key components that work together to enable smart contract wallets:
 
-1.
-
-**UserOperation:** This data structure represents a user's intended action (e.g., "send 0.1 ETH to address X"). The user signs this `UserOperation` with a specific signing key associated with their smart wallet.
-2.
-
-**Bundler:** A Bundler is a node operator that monitors a dedicated mempool for `UserOperations`. It aggregates multiple operations into a single standard Ethereum transaction before sending it to a global smart contract known as the `EntryPoint`. Bundlers receive a portion of the gas fees as compensation.
-3.
-
-**EntryPoint:** This singleton smart contract acts as the trusted entry point for all EIP-4337 transactions. It verifies and executes the bundled `UserOperations`.
-4.
-
-**Smart Contract Account (Wallet):** The user's wallet, designed as a smart contract that contains the logic for validating signatures and executing transactions.
-5.
-
-**Paymaster:** An optional smart contract that can agree to cover the gas fees for a user's transaction. This feature enables "gasless" transactions, allowing dApps to sponsor users' gas fees and significantly enhancing the onboarding process.
+1. **UserOperation:** This data structure represents a user's intended action (e.g., "send 0.1 ETH to address X"). The user signs this `UserOperation` with a specific signing key associated with their smart wallet.
+2. **Bundler:** A Bundler is a node operator that monitors a dedicated mempool for `UserOperations`. It aggregates multiple operations into a single standard Ethereum transaction before sending it to a global smart contract known as the `EntryPoint`. Bundlers receive a portion of the gas fees as compensation.
+3. **EntryPoint:** This singleton smart contract acts as the trusted entry point for all EIP-4337 transactions. It verifies and executes the bundled `UserOperations`.
+4. **Smart Contract Account (Wallet):** The user's wallet, designed as a smart contract that contains the logic for validating signatures and executing transactions.
+5. **Paymaster:** An optional smart contract that can agree to cover the gas fees for a user's transaction. This feature enables "gasless" transactions, allowing dApps to sponsor users' gas fees and significantly enhancing the onboarding process.
 
 ### How a Transaction Works with EIP-4337
 

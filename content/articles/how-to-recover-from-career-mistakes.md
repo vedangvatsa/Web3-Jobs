@@ -81,7 +81,9 @@ Finally, simple typos and grammatical errors are a killer. It makes you look slo
 
 Yes, they are still incredibly important, especially if you are a career changer or have a non-traditional background. While a hiring manager might only skim it at first, a great cover letter is your only chance to tell your story and connect the dots for them.
 
-Your resume lists the "what," but your cover letter explains the "why." Why are you passionate about this company? Why are you a perfect fit for this specific role? How does your unique experience give you an edge? A generic cover letter is useless, but a well-crafted, specific, and enthusiastic one can be the single thing that gets you the interview over a candidate with a similar resume.**7. How should I prepare for a job interview? I always get so nervous and blank out.**
+Your resume lists the "what," but your cover letter explains the "why." Why are you passionate about this company? Why are you a perfect fit for this specific role? How does your unique experience give you an edge? A generic cover letter is useless, but a well-crafted, specific, and enthusiastic one can be the single thing that gets you the interview over a candidate with a similar resume.
+
+**7. How should I prepare for a job interview? I always get so nervous and blank out.**
 Preparation is the antidote to nervousness. The more prepared you are, the more confident you will feel. First, research the company and the interviewers. Understand their product, their mission, and their recent news.
 
 Second, prepare your answers to common interview questions. Don't memorize a script, but have your key talking points ready. For every skill or experience listed on your resume, be prepared to talk about it using the STAR method.

@@ -222,24 +222,12 @@ Or: "I respect your commitment to mentoring junior developers. I'd like to devel
 
 ### Common Relationship-Building Mistakes
 
-1.
-
-**Only Discussing Work**: Avoid solely focusing on projects; personal sharing enhances connection.
-2.
-
-**Being Inauthentic**: Authenticity is important; people can sense when someone is being fake.
-3.
-
-**Networking Without Genuine Interest**: Approach relationships with curiosity rather than a transactional mindset.
-4.
-
-**Disappearing After Initial Meetings**: Relationships require ongoing interaction; make regular contact a habit.
-5.
-
-**Forgetting Names and Details**: Forgetting someone's name or personal details signals disinterest. Use their name and reference what they've shared.
-6.
-
-**Excessive Complaining**: While frustrations are normal, leading with complaints can damage relationships. Stay positive as you build trust.
+1. **Only Discussing Work**: Avoid solely focusing on projects; personal sharing enhances connection.
+2. **Being Inauthentic**: Authenticity is important; people can sense when someone is being fake.
+3. **Networking Without Genuine Interest**: Approach relationships with curiosity rather than a transactional mindset.
+4. **Disappearing After Initial Meetings**: Relationships require ongoing interaction; make regular contact a habit.
+5. **Forgetting Names and Details**: Forgetting someone's name or personal details signals disinterest. Use their name and reference what they've shared.
+6. **Excessive Complaining**: While frustrations are normal, leading with complaints can damage relationships. Stay positive as you build trust.
 
 ### FAQs
 

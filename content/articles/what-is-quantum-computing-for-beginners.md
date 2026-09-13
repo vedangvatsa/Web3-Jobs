@@ -83,7 +83,9 @@ Currently, we are in the early stages of quantum computing, often likened to the
 
 #### 1. When can I buy a quantum computer?
 
-Personal ownership of a quantum computer is unlikely in the near future. These machines will remain highly specialized and expensive, primarily accessed by researchers and corporations via cloud services, similar to how we use supercomputers today.**2. What is "quantum supremacy"?**[Quantum supremacy](/quantum-supremacy-explained-in-simple-terms) refers to a quantum computer's ability to perform a specific calculation that is practically impossible for classical supercomputers. Google claimed to achieve this milestone in 2019, marking a significant scientific breakthrough. However, this does not imply that quantum computers are ready to solve practical, real-world problems.
+Personal ownership of a quantum computer is unlikely in the near future. These machines will remain highly specialized and expensive, primarily accessed by researchers and corporations via cloud services, similar to how we use supercomputers today.
+
+**2. What is "quantum supremacy"?**[Quantum supremacy](/quantum-supremacy-explained-in-simple-terms) refers to a quantum computer's ability to perform a specific calculation that is practically impossible for classical supercomputers. Google claimed to achieve this milestone in 2019, marking a significant scientific breakthrough. However, this does not imply that quantum computers are ready to solve practical, real-world problems.
 
 #### 3. Will quantum computing break [Bitcoin](/what-is-bitcoin)?
 

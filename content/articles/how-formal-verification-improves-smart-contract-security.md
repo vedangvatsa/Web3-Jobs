@@ -31,18 +31,14 @@ Formal verification employs a distinct strategy. Instead of evaluating numerous 
 
 The formal verification process encompasses two main components:
 
-1.
-
-**The Specification (The Rules):** This step requires defining the "properties" or "invariants" that must always hold true for the smart contract. These specifications are articulated in a formal language.
+1. **The Specification (The Rules):** This step requires defining the "properties" or "invariants" that must always hold true for the smart contract. These specifications are articulated in a formal language.
 
 **Examples of properties include:**- The total supply of an ERC-20 [token](/what-is-a-token) must remain constant.
  - Only an address with the `ADMIN_ROLE` can execute the `pause()` function.
  - The sum of all user balances in a lending pool must equal the total amount of assets held by the contract.
  - An attacker should not be able to re-enter the `withdraw()` function.
 
-2.
-
-**The Prover (The Engine):** This sophisticated software tool takes the smart contract code and the formal specification as input. It employs advanced mathematical techniques, such as SMT solvers and symbolic execution, to explore all possible execution paths of the code.
+2. **The Prover (The Engine):** This sophisticated software tool takes the smart contract code and the formal specification as input. It employs advanced mathematical techniques, such as SMT solvers and symbolic execution, to explore all possible execution paths of the code.
 
  The prover seeks to identify a **counterexample**, which is a specific transaction sequence that violates one of the defined properties.
 

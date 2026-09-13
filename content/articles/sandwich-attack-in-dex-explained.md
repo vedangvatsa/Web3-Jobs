@@ -47,35 +47,21 @@ To illustrate a sandwich attack, consider the following three-step process. Bob 
 
 #### Step 1: The Front-Run (Initial Trade)
 
-1.
-
-**Transaction Submission**: Bob submits his trade to the Ethereum mempool, a public space where transactions await inclusion in a block by miners or validators.
-2.
-
-**Bot Activity**: An attacker's bot continuously scans the mempool, identifying significant, lucrative trades. It notices Bob's buy order for CAT.
-3.
-
-**Order Placement**: The bot anticipates that Bob's trade will improve the price of CAT. To capitalize, the bot promptly submits its own buy transaction for CAT, offering a higher gas fee to guarantee its execution before Bob's trade.
+1. **Transaction Submission**: Bob submits his trade to the Ethereum mempool, a public space where transactions await inclusion in a block by miners or validators.
+2. **Bot Activity**: An attacker's bot continuously scans the mempool, identifying significant, lucrative trades. It notices Bob's buy order for CAT.
+3. **Order Placement**: The bot anticipates that Bob's trade will improve the price of CAT. To capitalize, the bot promptly submits its own buy transaction for CAT, offering a higher gas fee to guarantee its execution before Bob's trade.
 
 The block is now forming with the bot's transaction prioritized ahead of Bob's.
 
 #### Step 2: Victim's Trade (The Filling)
 
-1.
-
-**Execution of the Bot's Trade**: The block gets mined, allowing the bot's buy order to execute first, resulting in a slight price increase for CAT.
-2.
-
-**Execution of Bob's Trade**: Bob's trade executes, but now at a higher average price than initially expected due to the price fluctuation caused by his large trade.
+1. **Execution of the Bot's Trade**: The block gets mined, allowing the bot's buy order to execute first, resulting in a slight price increase for CAT.
+2. **Execution of Bob's Trade**: Bob's trade executes, but now at a higher average price than initially expected due to the price fluctuation caused by his large trade.
 
 #### Step 3: The Back-Run (Final Trade)
 
-1.
-
-**Bot's Sell Transaction**: The attacker's bot has already submitted a sell transaction for the CAT tokens acquired in Step 1. The bot adjusts its gas fee to ensure this transaction is included immediately after Bob's in the same block.
-2.
-
-**Realization of Profit**: The bot sells its CAT tokens at the improve price resulting from Bob's significant purchase.
+1. **Bot's Sell Transaction**: The attacker's bot has already submitted a sell transaction for the CAT tokens acquired in Step 1. The bot adjusts its gas fee to ensure this transaction is included immediately after Bob's in the same block.
+2. **Realization of Profit**: The bot sells its CAT tokens at the improve price resulting from Bob's significant purchase.
 
 **Outcome:**- Bob receives fewer CAT tokens for his trade because the bot's initial transaction increased the price, forcing him to purchase at a less favorable rate. The difference between the expected and actual amount received constitutes Bob's ** slippage**.
 - The attacker profits from capturing this slippage, effectively executing a perfect sandwich.
@@ -91,23 +77,15 @@ Sandwich attacks exploit specific characteristics of public blockchains:
 
 DeFi users can take proactive measures to mitigate the risk of sandwich attacks:
 
-1.
+1. **Set Low Slippage Tolerance**: This is the most effective method of protection. Slippage represents the allowable price change for a trade to execute. Many DEX interfaces default to higher percentages, inviting sandwich bots. Adjust your slippage to a lower value. If a bot attempts a sandwich and shifts the price beyond your slippage, your transaction will fail, preserving your investment.
 
-**Set Low Slippage Tolerance**: This is the most effective method of protection. Slippage represents the allowable price change for a trade to execute. Many DEX interfaces default to higher percentages, inviting sandwich bots. Adjust your slippage to a lower value. If a bot attempts a sandwich and shifts the price beyond your slippage, your transaction will fail, preserving your investment.
-
-2.
-
-**Use MEV Protection Services**:
+2. **Use MEV Protection Services**:
  - **Flashbots**: This service lets you send transactions to a private relay, directly to miners. If bots cannot see your transaction, they cannot front-run it. Popular wallets and DEX aggregators typically integrate Flashbots or similar MEV protection RPCs.
  - **DEX Aggregators**: Platforms like 1inch or CowSwap include mechanisms to shield against sandwich attacks by routing trades through private liquidity or employing batch auctions.
 
-3.
+3. **Trade on Less Popular DEXs**: Bots often target high-volume DEXs like Uniswap. Trading on less frequented platforms may lower the risk of sandwich attacks but can involve different risks and potentially higher fees.
 
-**Trade on Less Popular DEXs**: Bots often target high-volume DEXs like Uniswap. Trading on less frequented platforms may lower the risk of sandwich attacks but can involve different risks and potentially higher fees.
-
-4.
-
-**Divide Large Trades**: Instead of executing a single large trade, consider splitting it into several smaller transactions. Smaller trades exert less price influence and are less attractive targets for sandwich bots.
+4. **Divide Large Trades**: Instead of executing a single large trade, consider splitting it into several smaller transactions. Smaller trades exert less price influence and are less attractive targets for sandwich bots.
 
 ### Frequently Asked Questions (FAQ)
 

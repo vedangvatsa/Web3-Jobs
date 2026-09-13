@@ -20,15 +20,9 @@ This article explores MEV's mechanics, strategies, and its significant implicati
 
 Understanding MEV begins with the transaction's journey.
 
-1.
-
-**The Mempool:** Upon submission, a transaction enters the **mempool**, a public waiting area where pending transactions await selection by block producers.
-2.
-
-**The Dark Forest:** The mempool resembles a "dark forest," a competitive arena where sophisticated bots, known as **searchers**, seek profitable opportunities.
-3.
-
-**The Bribe:** When a searcher identifies a lucrative opportunity (for instance, a large trade that impacts market prices), it creates its own transaction set to exploit it. To ensure its transactions execute in the desired order, the searcher submits a transaction bundle with a significantly high gas fee, effectively incentivizing the block producer for preferential placement.
+1. **The Mempool:** Upon submission, a transaction enters the **mempool**, a public waiting area where pending transactions await selection by block producers.
+2. **The Dark Forest:** The mempool resembles a "dark forest," a competitive arena where sophisticated bots, known as **searchers**, seek profitable opportunities.
+3. **The Bribe:** When a searcher identifies a lucrative opportunity (for instance, a large trade that impacts market prices), it creates its own transaction set to exploit it. To ensure its transactions execute in the desired order, the searcher submits a transaction bundle with a significantly high gas fee, effectively incentivizing the block producer for preferential placement.
 
 This competitive transaction ordering encapsulates the essence of MEV.
 
@@ -44,15 +38,9 @@ MEV strategies span a spectrum, ranging from beneficial approaches to those that
 #### Predatory MEV: Sandwich Attacks
 
 - **Definition:** Sandwich attacks are one of the most harmful MEV strategies. A searcher bot detects a large buy order in the mempool and executes two transactions that "sandwich" the user's trade:
- 1.
-
-**Front-running:** The bot submits a buy order with a higher gas fee, ensuring execution just before the user's trade, leading to a slight price increase.
- 2.
-
-**The User's Trade:** The user's trade executes at a less favorable price due to the price impact caused by the front-running.
- 3.
-
-**Back-running:** The bot sells the tokens acquired from the front-running, profiting from the price change.
+ 1. **Front-running:** The bot submits a buy order with a higher gas fee, ensuring execution just before the user's trade, leading to a slight price increase.
+ 2. **The User's Trade:** The user's trade executes at a less favorable price due to the price impact caused by the front-running.
+ 3. **Back-running:** The bot sells the tokens acquired from the front-running, profiting from the price change.
 - **Impact:** Users receive fewer tokens than expected, while the MEV bot extracts value from their trades, directly taxing users.
 
 #### Other MEV Strategies

@@ -166,25 +166,15 @@ Mastering competencies related to deep learning and AI is vital for growing in t
 
 ### Common Development Mistakes
 
-1.
+1. **Studying Without Application**: Relying solely on theory without practical experience hinders retention. Focus on building projects.
 
-**Studying Without Application**: Relying solely on theory without practical experience hinders retention. Focus on building projects.
+2. **Overlooking Soft Skills**: While technical expertise is common, soft skills are often scarce. Invest in developing these competencies.
 
-2.
+3. **Avoiding Feedback**: You cannot improve your blind spots alone. Solicit input from mentors and colleagues.
 
-**Overlooking Soft Skills**: While technical expertise is common, soft skills are often scarce. Invest in developing these competencies.
+4. **Comparing Yourself to Others**: Your skill development journey is unique. Concentrate on your own growth.
 
-3.
-
-**Avoiding Feedback**: You cannot improve your blind spots alone. Solicit input from mentors and colleagues.
-
-4.
-
-**Comparing Yourself to Others**: Your skill development journey is unique. Concentrate on your own growth.
-
-5.
-
-**Expecting Rapid Mastery**: True skill development requires years of effort. adopt the learning process.
+5. **Expecting Rapid Mastery**: True skill development requires years of effort. adopt the learning process.
 
 ### Resources for Continued Learning
 

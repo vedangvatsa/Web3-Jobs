@@ -27,9 +27,7 @@ Slashing is reserved for serious offenses that jeopardize the blockchain's integ
 
 1. **Double Signing (Proposing Conflicting Blocks):** This represents the most severe violation. A validator commits this offense by signing and broadcasting two different blocks for the same position in the chain within the same time slot. This action aims to create a fork or split the chain and is viewed as a malicious attack. The protocol detects the conflicting signatures and initiates a slashing penalty.
 
-2.
-
-**Surround Voting (Contradictory Attestations):** This offense is subtler but equally detrimental. It occurs when a validator casts attestations (votes) that contradict their previous votes. For instance, a validator may vote for block B as the successor to block A, then later vote for block C as the successor to a block that conflicts with A. Such actions violate the chain's fork-choice algorithm and can destabilize the consensus process.
+2. **Surround Voting (Contradictory Attestations):** This offense is subtler but equally detrimental. It occurs when a validator casts attestations (votes) that contradict their previous votes. For instance, a validator may vote for block B as the successor to block A, then later vote for block C as the successor to a block that conflicts with A. Such actions violate the chain's fork-choice algorithm and can destabilize the consensus process.
 
 It is essential to clarify what does not constitute a slashable offense: being offline. If a validator goes offline and fails to fulfill its responsibilities, it incurs a small, ongoing penalty (often referred to as "leaking"), but it will not be slashed. Slashing is reserved for actions that can be proven as malicious or contradictory.
 
@@ -37,22 +35,12 @@ It is essential to clarify what does not constitute a slashable offense: being o
 
 Taking Ethereum as an example, the slashing process involves several steps:
 
-1.
-
-**Detection:** A slashing event begins when another validator detects a slashable offense. They can submit evidence, such as the two conflicting signed blocks, to the blockchain.
-2.
-
-**Whistleblower Reward:** The validator reporting the offense receives a small incentive for their action.
-3.
-
-**Initial Penalty:** The offending validator experiences an immediate slashing of a small amount and is placed in a queue for forced removal from the validator set.
-4.
-
-**Correlation Penalty:** This represents the more significant aspect of the punishment. The protocol assesses how many other validators were slashed during the same timeframe. The final slashing penalty correlates with the number of other validators being penalized.
+1. **Detection:** A slashing event begins when another validator detects a slashable offense. They can submit evidence, such as the two conflicting signed blocks, to the blockchain.
+2. **Whistleblower Reward:** The validator reporting the offense receives a small incentive for their action.
+3. **Initial Penalty:** The offending validator experiences an immediate slashing of a small amount and is placed in a queue for forced removal from the validator set.
+4. **Correlation Penalty:** This represents the more significant aspect of the punishment. The protocol assesses how many other validators were slashed during the same timeframe. The final slashing penalty correlates with the number of other validators being penalized.
  - **Importance of Correlation Penalty:** This mechanism makes large-scale, coordinated attacks exceptionally costly. If a single validator is slashed, the penalty remains relatively minor. However, if an attacker compromises a significant portion of all validators and causes simultaneous slashing, the penalty could reach a substantial portion of their stake.
-5.
-
-**Forced Exit:** The slashed validator is forcibly removed from the active validator set and unable to rejoin for a designated period.
+5. **Forced Exit:** The slashed validator is forcibly removed from the active validator set and unable to rejoin for a designated period.
 
 ### The Consequences of Slashing
 

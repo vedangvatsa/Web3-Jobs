@@ -68,23 +68,15 @@ New York offers some of the highest salaries for Web3 positions globally, reflec
 
 To thrive in the New York Web3 job market, consider the following strategies:
 
-1.
+1. **Use Your TradFi Experience** A background in investment banking, sales and trading, or financial law provides a strong foundation. Combine this expertise with a practical understanding of DeFi protocols.
 
-**Use Your TradFi Experience** A background in investment banking, sales and trading, or financial law provides a strong foundation. Combine this expertise with a practical understanding of DeFi protocols.
+2. **Become a DeFi Power User** Familiarize yourself with DeFi platforms beyond basic swaps. Investigate derivatives protocols, yield farming strategies, and the implications of impermanent loss.
 
-2.
-
-**Become a DeFi Power User** Familiarize yourself with DeFi platforms beyond basic swaps. Investigate derivatives protocols, yield farming strategies, and the implications of impermanent loss.
-
-3.
-
-**Engage with the Community** Networking is critical in the NYC Web3 scene.
+3. **Engage with the Community** Networking is critical in the NYC Web3 scene.
  - **Attend DeFi-Focused Meetups:** Participate in events that attract institutional and DeFi professionals.
  - **Explore Major Conferences:** Engage at events like Messari Mainnet and NFT.NYC, where networking opportunities abound.
 
-4.
-
-**Build a Portfolio Demonstrating Financial Acumen** Your portfolio should showcase your understanding of financial markets.
+4. **Build a Portfolio Demonstrating Financial Acumen** Your portfolio should showcase your understanding of financial markets.
  - **For Analysts:** Publish research on economic security for protocols or new DeFi models.
  - **For Product Managers:** Develop a go-to-market strategy for an institutional DeFi product.
 

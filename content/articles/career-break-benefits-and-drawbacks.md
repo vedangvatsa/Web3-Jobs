@@ -25,7 +25,9 @@ A well-structured sabbatical can serve as a significant catalyst for both person
 
 **A career break can be essential for addressing personal priorities, such as family, health, or mental well-being. Whether it involves raising children, caring for an elderly relative, or managing your own health, these priorities are valid reasons to step away from work. Taking time for personal matters can significantly contribute to long-term career sustainability. Employees who prioritize personal well-being experience increases in productivity.
 
-### The Drawbacks of Taking a Career Break**1. Financial Strain
+### The Drawbacks of Taking a Career Break
+
+**1. Financial Strain
 
 **Financial considerations often pose the most significant barrier. Unless your employer offers a paid sabbatical, you will need sufficient savings to sustain your living expenses during your break. A budget is essential, outlining expected costs and identifying potential income sources during this period. For example, if you plan a six-month break with a monthly expense of a few thousand dollars, you should aim for sufficient savings to cover your needs.
 

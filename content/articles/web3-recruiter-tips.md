@@ -21,7 +21,7 @@ Recruiters prioritize **genuine passion** over monetary motivation. While high s
 
 **Ways to demonstrate genuine passion:**
 
-- **-** Share your "rabbit hole" story.
+- Share your "rabbit hole" story.
 
 **Describe the specific event or idea that inspired you to pursue a career in Web3.
 - **Provide tangible proof.
@@ -55,17 +55,9 @@ For roles in marketing, product management, or community engagement, we seek "T-
 
 ### Strategies to Excel During the Interview Process
 
-1.
-
-**Conduct thorough research:** Understand the project in depth. Read their whitepaper, grasp their tokenomics, and use their product. Prepare a list of insightful, specific questions for your interview.
-2.
-
-**Prepare for strategic discussions:** It's essential to articulate your thought process. Be ready to tackle hypothetical scenarios, such as designing a launch plan for a new feature or identifying the primary risks facing a protocol.
-3.
-
-**Communicate effectively:** Many Web3 teams operate remotely. Your ability to express complex ideas concisely, especially in written form, is critical. Your take-home tasks will often assess your communication skills as much as your technical abilities.
-4.
-
-**Acknowledge gaps in knowledge:** The pace of change in Web3 means no one can know everything. It's preferable to admit, "I lack experience in that area, but here's my approach to learning it," rather than attempting to bluff.
+1. **Conduct thorough research:** Understand the project in depth. Read their whitepaper, grasp their tokenomics, and use their product. Prepare a list of insightful, specific questions for your interview.
+2. **Prepare for strategic discussions:** It's essential to articulate your thought process. Be ready to tackle hypothetical scenarios, such as designing a launch plan for a new feature or identifying the primary risks facing a protocol.
+3. **Communicate effectively:** Many Web3 teams operate remotely. Your ability to express complex ideas concisely, especially in written form, is critical. Your take-home tasks will often assess your communication skills as much as your technical abilities.
+4. **Acknowledge gaps in knowledge:** The pace of change in Web3 means no one can know everything. It's preferable to admit, "I lack experience in that area, but here's my approach to learning it," rather than attempting to bluff.
 
 The [Web3 job](/web3-jobs-for-beginners) market may be competitive, but it operates on merit. By showcasing your passion, building a reliable public portfolio, and diligently preparing for interviews, you can differentiate yourself and secure a position leading the new internet.

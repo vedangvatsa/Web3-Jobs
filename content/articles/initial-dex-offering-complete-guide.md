@@ -19,21 +19,11 @@ Increasingly, IDOs have established themselves as a primary method for launching
 
 The foundation of an IDO lies in creating a **liquidity pool** on a DEX like Uniswap, PancakeSwap, or Raydium. The process unfolds as follows:
 
-1.
-
-**Project Preparation**: A Web3 project develops its protocol along with its native token.
-2.
-
-**Liquidity Pool Creation**: When launching, the project team establishes a new liquidity pool on a DEX. They contribute a specified amount of their token along with an equivalent value in a stablecoin (e.g., USDC) or the base currency of the [blockchain](/what-is-a-blockchain) (e.g., [ETH](/what-is-ethereum)). For instance, they may provide a certain amount of their new token (`$NEW`) alongside a corresponding value in ETH, setting an initial price per `$NEW`.
-3.
-
-**Sale Launch**: With the IDO live, anyone can visit the DEX to purchase the `$NEW` token by swapping ETH. Trading occurs directly against the liquidity pool.
-4.
-
-**Instant Liquidity**: A significant advantage of IDOs is the immediate liquidity available. Investors can buy the token and sell it back to the liquidity pool as soon as the IDO starts.
-5.
-
-**Liquidity Locking**: To build trust, the project team often locks their initial liquidity provider (LP) tokens in a [smart contract](/what-are-smart-contracts) for a predetermined period. This action assures the community that the team cannot withdraw all liquidity and abandon the project, thus avoiding a "[rug pull](/what-is-rug-pull-in-cryptocurrency-scams)."
+1. **Project Preparation**: A Web3 project develops its protocol along with its native token.
+2. **Liquidity Pool Creation**: When launching, the project team establishes a new liquidity pool on a DEX. They contribute a specified amount of their token along with an equivalent value in a stablecoin (e.g., USDC) or the base currency of the [blockchain](/what-is-a-blockchain) (e.g., [ETH](/what-is-ethereum)). For instance, they may provide a certain amount of their new token (`$NEW`) alongside a corresponding value in ETH, setting an initial price per `$NEW`.
+3. **Sale Launch**: With the IDO live, anyone can visit the DEX to purchase the `$NEW` token by swapping ETH. Trading occurs directly against the liquidity pool.
+4. **Instant Liquidity**: A significant advantage of IDOs is the immediate liquidity available. Investors can buy the token and sell it back to the liquidity pool as soon as the IDO starts.
+5. **Liquidity Locking**: To build trust, the project team often locks their initial liquidity provider (LP) tokens in a [smart contract](/what-are-smart-contracts) for a predetermined period. This action assures the community that the team cannot withdraw all liquidity and abandon the project, thus avoiding a "[rug pull](/what-is-rug-pull-in-cryptocurrency-scams)."
 
 ### Role of Launchpads in IDOs
 

@@ -36,29 +36,19 @@ Consider a miner in Shanghai who has just mined a new [Bitcoin](/what-is-bitcoin
 
 1. **Creation**: The miner assembles a valid block, which includes a set of transactions and the solution to the cryptographic puzzle, known as Proof-of-Work.
 
-2.
+2. **Initial Broadcast**: The miner sends the new block to its directly connected peers in the P2P network, typically around 8 to 10 nodes.
 
-**Initial Broadcast**: The miner sends the new block to its directly connected peers in the P2P network, typically around 8 to 10 nodes.
-
-3.
-
-**Receive and Validate**: Upon receiving the block, a peer node conducts several checks:
+3. **Receive and Validate**: Upon receiving the block, a peer node conducts several checks:
  - Does the block's hash meet the current difficulty target?
  - Is it correctly linked to the hash of the previous block?
  - Are all transactions within the block valid (e.g., valid signatures, no **[double-spending](/double-spending-problem-in-cryptocurrency)**)?
  - Is the block size compliant with protocol limits?
 
-4.
+4. **Gossip (Forwarding)**: If the block passes validation, the receiving node adds it to its local blockchain copy. It then immediately forwards the block to its own peers, excluding the node from which it received the block.
 
-**Gossip (Forwarding)**: If the block passes validation, the receiving node adds it to its local blockchain copy. It then immediately forwards the block to its own peers, excluding the node from which it received the block.
+5. **Exponential Spread**: This gossip process continues, with each validating node forwarding the block to its peers. The block spreads rapidly throughout the global network of thousands of nodes.
 
-5.
-
-**Exponential Spread**: This gossip process continues, with each validating node forwarding the block to its peers. The block spreads rapidly throughout the global network of thousands of nodes.
-
-6.
-
-**Network Consensus**: Within seconds or minutes, the block reaches the majority of nodes worldwide, including the one in San Francisco, achieving network consensus.
+6. **Network Consensus**: Within seconds or minutes, the block reaches the majority of nodes worldwide, including the one in San Francisco, achieving network consensus.
 
 ### Why Propagation Speed Matters
 

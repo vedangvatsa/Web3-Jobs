@@ -22,21 +22,13 @@ The process of federated learning involves a few key steps, coordinated by a cen
 
 1. **Model Distribution**. The process starts with a shared, global AI model that is hosted on a central server. This server sends a copy of the current model to a selection of user devices, like smartphones.
 
-2.
+2. **Local Training**. Each device then trains its copy of the model on its own local data. For example, your smartphone might use your personal photos to improve an image recognition model or use your typing patterns to improve the next-word prediction model for your keyboard. Your photos and messages never leave your phone. The only thing that is being updated is the local copy of the AI model.
 
-**Local Training**. Each device then trains its copy of the model on its own local data. For example, your smartphone might use your personal photos to improve an image recognition model or use your typing patterns to improve the next-word prediction model for your keyboard. Your photos and messages never leave your phone. The only thing that is being updated is the local copy of the AI model.
+3. **Model Aggregation**. After a round of local training, each device sends only the updated model parameters, not the data itself, back to the central server. These updates are essentially a summary of what the model learned from the local data.
 
-3.
+4. **Global Model Update**. The central server aggregates the updates from all the devices to create a new, improved global model. This is often done by averaging the parameters from all the updates. This new global model now contains the collective learnings from all the devices, without the server ever having seen the raw data.
 
-**Model Aggregation**. After a round of local training, each device sends only the updated model parameters, not the data itself, back to the central server. These updates are essentially a summary of what the model learned from the local data.
-
-4.
-
-**Global Model Update**. The central server aggregates the updates from all the devices to create a new, improved global model. This is often done by averaging the parameters from all the updates. This new global model now contains the collective learnings from all the devices, without the server ever having seen the raw data.
-
-5.
-
-**Repeat**. This process is repeated over many rounds, with the global model being sent out to different sets of devices for further training. Over time, the global model becomes more accurate, having learned from a vast and diverse dataset spread across many devices.
+5. **Repeat**. This process is repeated over many rounds, with the global model being sent out to different sets of devices for further training. Over time, the global model becomes more accurate, having learned from a vast and diverse dataset spread across many devices.
 
 ### The Advantages of Federated Learning
 

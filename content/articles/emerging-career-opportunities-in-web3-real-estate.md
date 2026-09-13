@@ -18,21 +18,13 @@ The emergence of [Web3](/what-is-web3) and [blockchain](/what-is-a-blockchain) t
 
 Tokenizing a real-world property involves a combination of legal structuring and technical implementation. Here are the steps involved:
 
-1.
+1. **Special Purpose Vehicle (SPV):** The first step involves placing the physical property into a legal entity, commonly a Special Purpose Vehicle (SPV), such as a limited liability company (LLC). This entity holds the title to the asset.
 
-**Special Purpose Vehicle (SPV):** The first step involves placing the physical property into a legal entity, commonly a Special Purpose Vehicle (SPV), such as a limited liability company (LLC). This entity holds the title to the asset.
+2. **Tokenization:** Ownership rights of the LLC, or its equity, are digitized and represented as cryptographic tokens on a blockchain. For instance, ownership of a commercial building can be represented by tokens, each valued at a fractional amount.
 
-2.
+3. **Fractional Ownership:** Investors can purchase these tokens, allowing for fractional ownership. Instead of needing millions to invest in a building, individuals can buy a small share for a few hundred or thousand dollars.
 
-**Tokenization:** Ownership rights of the LLC, or its equity, are digitized and represented as cryptographic tokens on a blockchain. For instance, ownership of a commercial building can be represented by tokens, each valued at a fractional amount.
-
-3.
-
-**Fractional Ownership:** Investors can purchase these tokens, allowing for fractional ownership. Instead of needing millions to invest in a building, individuals can buy a small share for a few hundred or thousand dollars.
-
-4.
-
-**Secondary Market Liquidity:** Tokens can be traded on secondary markets, including decentralized exchanges (DEXs). This provides a level of liquidity that traditional real estate lacks, making the sale of a property share as straightforward as selling a stock.
+4. **Secondary Market Liquidity:** Tokens can be traded on secondary markets, including decentralized exchanges (DEXs). This provides a level of liquidity that traditional real estate lacks, making the sale of a property share as straightforward as selling a stock.
 
 ### Emerging Career Paths in Web3 Real Estate
 

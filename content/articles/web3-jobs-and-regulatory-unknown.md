@@ -26,15 +26,21 @@ A central regulatory issue, especially in the United States, centers on a fundam
 
 The absence of clarity generates uncertainty for nearly every project in the sector. An unexpected enforcement action from the SEC can severely affect a project's token price and operational capacity in the U.S., threatening its viability.
 
-### Key Regulatory Risks for Web3 Professionals**1. Project Viability Risk
+### Key Regulatory Risks for Web3 Professionals
+
+**1. Project Viability Risk
 
 **The most immediate risk involves potential regulatory actions against the project you work for.
 - **Enforcement Actions:** A lawsuit from the SEC can devastate a project, consuming resources with legal fees and complicating efforts to list its token on major exchanges.
-- **Consequences for You:** Such actions could lead to job loss or a dramatic decline in the value of token-based compensation.**2. Sanctions Compliance Risk
+- **Consequences for You:** Such actions could lead to job loss or a dramatic decline in the value of token-based compensation.
+
+**2. Sanctions Compliance Risk
 
 **As [DeFi](/what-is-defi) gains traction, scrutiny from agencies like the U.S. Treasury's Office of Foreign Assets Control (OFAC) increases.
 - **The Challenge:** DeFi protocols aim to remain open and permissionless. However, OFAC mandates that U.S. entities not engage with sanctioned individuals or nations. In 2022, OFAC sanctioned a [smart contract](/what-are-smart-contracts), Tornado Cash.
-- **The Impact:** Projects face tough choices. They must decide between adhering to decentralization principles or implementing on-chain censorship to block sanctioned addresses. If you work for such a project, you will participate in these critical discussions.**3. Personal Liability Risk (Especially for [DAO](/what-is-a-dao) Contributors)** The legal status of DAOs remains uncertain.
+- **The Impact:** Projects face tough choices. They must decide between adhering to decentralization principles or implementing on-chain censorship to block sanctioned addresses. If you work for such a project, you will participate in these critical discussions.
+
+**3. Personal Liability Risk (Especially for [DAO](/what-is-a-dao) Contributors)** The legal status of DAOs remains uncertain.
 - **The Risk:** Without a formal legal structure, a DAO could be classified as a "general partnership." In such a scenario, all members might be personally liable for the organization's actions and debts.
 - **The Impact:** If you are a voting member of a DAO facing legal action, you could be implicated in the lawsuit. This risk is significant and often overlooked by DAO contributors.
 

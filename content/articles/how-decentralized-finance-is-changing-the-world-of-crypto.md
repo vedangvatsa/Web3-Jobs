@@ -26,25 +26,19 @@ Initially, the primary use case for crypto revolved around speculation. Many ind
 
 DeFi is often referred to as "money legos" due to the composable nature of its protocols, allowing for the creation of more complex financial products. Key primitives include:
 
-1.
+1. **Decentralized Exchanges (DEXs):**
 
-**Decentralized Exchanges (DEXs):**
-
-- **-** Description:**Protocols like Uniswap enable peer-to-peer trading of assets without relying on a central order book.
+- Description:**Protocols like Uniswap enable peer-to-peer trading of assets without relying on a central order book.
  - **Impact:** DEXs support a permissionless environment for liquidity and trading. Anyone can list a [token](/what-is-a-token) and trade, breaking the monopoly held by centralized exchanges. This innovation sparked the "DeFi Summer" of 2020.
 
-2.
+2. **Lending and Borrowing Protocols:**
 
-**Lending and Borrowing Protocols:**
-
-- **-** Description:**Protocols such as Aave and Compound establish decentralized money markets.
+- Description:**Protocols such as Aave and Compound establish decentralized money markets.
  - **Impact:** These platforms allow anyone globally to earn yields on savings or access credit, provided they have sufficient collateral. This inclusion is particularly impactful in regions with underdeveloped banking systems, enhancing financial access.
 
-3.
+3. **Stablecoins:**
 
-**Stablecoins:**
-
-- **-** Description:**Cryptocurrencies like USDC are pegged to the value of real-world assets, typically the US dollar.
+- Description:**Cryptocurrencies like USDC are pegged to the value of real-world assets, typically the US dollar.
  - **Impact:** **[Stablecoins](/guide-to-stablecoins)** serve as the foundation for DeFi. They provide a stable unit of account, enabling users to transact and secure loans without the volatility risk associated with assets like ETH.
 
 ### The Composability Advantage

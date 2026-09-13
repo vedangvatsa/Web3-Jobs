@@ -23,7 +23,9 @@ In the crypto field,**[shilling](/what-is-shilling-in-crypto)** refers to the en
 
 ### The Erosion of Trust
 
-Shilling threatens the foundation of a healthy market: trust and informed decision-making.**1. Targeting Retail Investors
+Shilling threatens the foundation of a healthy market: trust and informed decision-making.
+
+**1. Targeting Retail Investors
 
 **New and inexperienced retail investors are the primary victims of shilling. Attracted by promises of significant gains and the fear of missing out, they often invest in projects without conducting thorough research ([DYOR](/what-is-dyor-in-crypto)). When the original promoters sell their tokens, these new investors are left with worthless assets, resulting in substantial financial losses and lasting skepticism towards the entire crypto ecosystem.** 2. Damaging Credibility
 

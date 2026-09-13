@@ -35,24 +35,12 @@ All rollups share the same basic flow. The difference is how Ethereum decides a 
 
 ### Step by step
 
-1.
-
-**Submit.** You send a transaction to the L2. Most L2s use a sequencer, a single operator that orders transactions and gives you a fast soft confirmation in seconds.
-2.
-
-**Execute off chain.** The L2 runs the transaction in its own virtual machine and updates its state tree. State is stored as a Merkle tree, and the root of that tree is the compact fingerprint of all accounts and code at that point.
-3.
-
-**Batch and compress.** The sequencer groups hundreds or thousands of transactions into a batch and compresses it. Ethereum documents a reference example where a basic L1 transfer of about 112 bytes compresses to about 12 bytes on a rollup by removing fields like nonce and signature overhead and using shorter addresses.
-4.
-
-**Post data to Ethereum.** The batch poster sends the batch to Ethereum. Since the Dencun upgrade on March 13, 2024, rollups can use blob-carrying transactions (type 3) introduced by EIP-4844. Blobs are about 128 KiB usable per blob. Ethereum targets 3 blobs per block and allows up to 6. Blobs are held by consensus nodes for about 4096 epochs, roughly 18 days, then pruned. Rollup operators, exchanges, and indexers that need longer history must store it themselves. Before blobs, rollups used calldata at 16 gas per non-zero byte and 4 gas per zero byte. With blobs, the blob fee market sets the price separately from normal gas.
-5.
-
-**Commit state.** The rollup contract on Ethereum stores the new state root and the batch root. The state root commits to the new L2 state. The batch root lets anyone prove a specific transaction was included.
-6.
-
-**Prove or allow a challenge.** Optimistic rollups open a challenge window. ZK rollups submit a validity proof that Ethereum verifies.
+1. **Submit.** You send a transaction to the L2. Most L2s use a sequencer, a single operator that orders transactions and gives you a fast soft confirmation in seconds.
+2. **Execute off chain.** The L2 runs the transaction in its own virtual machine and updates its state tree. State is stored as a Merkle tree, and the root of that tree is the compact fingerprint of all accounts and code at that point.
+3. **Batch and compress.** The sequencer groups hundreds or thousands of transactions into a batch and compresses it. Ethereum documents a reference example where a basic L1 transfer of about 112 bytes compresses to about 12 bytes on a rollup by removing fields like nonce and signature overhead and using shorter addresses.
+4. **Post data to Ethereum.** The batch poster sends the batch to Ethereum. Since the Dencun upgrade on March 13, 2024, rollups can use blob-carrying transactions (type 3) introduced by EIP-4844. Blobs are about 128 KiB usable per blob. Ethereum targets 3 blobs per block and allows up to 6. Blobs are held by consensus nodes for about 4096 epochs, roughly 18 days, then pruned. Rollup operators, exchanges, and indexers that need longer history must store it themselves. Before blobs, rollups used calldata at 16 gas per non-zero byte and 4 gas per zero byte. With blobs, the blob fee market sets the price separately from normal gas.
+5. **Commit state.** The rollup contract on Ethereum stores the new state root and the batch root. The state root commits to the new L2 state. The batch root lets anyone prove a specific transaction was included.
+6. **Prove or allow a challenge.** Optimistic rollups open a challenge window. ZK rollups submit a validity proof that Ethereum verifies.
 
 After this step, Ethereum considers the state update settled. Bridges use that settled root to complete deposits and withdrawals.
 

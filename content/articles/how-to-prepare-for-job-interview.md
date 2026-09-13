@@ -40,13 +40,17 @@ The preparation you undertake prior to the interview carries as much weight as t
 
 **Recent news**| Look for any recent product launches or news articles to discuss during the interview. |
 
-Being informed about the company shows your engagement and interest.**2. Understand the Role
+Being informed about the company shows your engagement and interest.
+
+**2. Understand the Role
 
 **Review the job description carefully. 
 
 - Identify the key responsibilities and qualifications required.
 - Reflect on how your skills and experiences align with these requirements.
-- Prepare specific examples from your past work that illustrate your capability to fulfill the role's duties.**3. Prepare Your Answers to Common Questions
+- Prepare specific examples from your past work that illustrate your capability to fulfill the role's duties.
+
+**3. Prepare Your Answers to Common Questions
 
 **While you cannot anticipate every question, preparing for common inquiries can boost your confidence. 
 
@@ -56,7 +60,9 @@ Being informed about the company shows your engagement and interest.**2. Underst
 - "Why do you want to work for this company?"
 - "Describe a time when you faced a challenge and how you handled it."
 
-Use the STAR method (Situation, Task, Action, Result) to structure your responses to behavioral questions effectively.**4. Prepare Your Own Questions
+Use the STAR method (Situation, Task, Action, Result) to structure your responses to behavioral questions effectively.
+
+**4. Prepare Your Own Questions
 
 **Interviews serve as a two-way dialogue. Prepare thoughtful questions to assess if the company fits your career aspirations.
 
@@ -65,7 +71,9 @@ Use the STAR method (Situation, Task, Action, Result) to structure your response
 - "How do you measure success in this role?"
 - "What do you enjoy most about working here?"
 
-Asking insightful questions demonstrates your genuine interest in the position and the organization.**5. Plan Your Logistics
+Asking insightful questions demonstrates your genuine interest in the position and the organization.
+
+**5. Plan Your Logistics
 
 **Ensure you are ready for both in-person and virtual interviews.
 
@@ -80,7 +88,9 @@ Asking insightful questions demonstrates your genuine interest in the position a
 - **Communicate Clearly:** Speak concisely. Avoid unnecessary elaboration.
 - **Be Honest:** Avoid exaggerating your skills or experiences. It is better to acknowledge areas where you lack knowledge and express a willingness to learn.
 
-### After the Interview**1. Send a Thank-You Note
+### After the Interview
+
+**1. Send a Thank-You Note
 
 **Within 24 hours post-interview, send a personalized thank-you email to your interviewer.
 
@@ -88,7 +98,9 @@ Asking insightful questions demonstrates your genuine interest in the position a
 - Briefly reiterate your enthusiasm for the role.
 - Mention a specific topic discussed that resonated with you, showcasing your attentiveness.
 
-This simple gesture can significantly enhance your candidacy.**2. Follow Up (if necessary)** If you do not receive a response by the timeline provided during the interview, send a brief, polite follow-up email to inquire about the status of your application.
+This simple gesture can significantly enhance your candidacy.
+
+**2. Follow Up (if necessary)** If you do not receive a response by the timeline provided during the interview, send a brief, polite follow-up email to inquire about the status of your application.
 
 ### FAQs
 

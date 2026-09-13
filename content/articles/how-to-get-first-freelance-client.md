@@ -52,7 +52,7 @@ Identify online communities where your potential clients congregate, such as sub
 
 **Effective Networking Strategies:**
 
-- **-** Be Helpful, Not Salesy:**Avoid jumping straight into promoting your services. Spend time providing value by answering questions and engaging in discussions.
+- Be Helpful, Not Salesy:**Avoid jumping straight into promoting your services. Spend time providing value by answering questions and engaging in discussions.
 - **Build Relationships:** Get to know community members. Over time, you will become a trusted resource, leading people to think of you when they require freelance assistance.
 
 ### FAQs

@@ -20,24 +20,14 @@ PoH combines a web of trust, video verification, and [token](/what-is-a-token)-c
 
 The registration process for Proof of Humanity involves several distinct social and technical steps:
 
-1.
-
-**Profile Creation**: Users must create a profile that includes submitting a short video of themselves reciting a specific phrase.
-2.
-
-**Deposit Requirement**: Users must pay a deposit in ETH when submitting their profile. This deposit acts as a bond to deter spam and low-quality submissions.
-3.
-
-**Vouching Process**: To submit a profile, it must be "vouched for" by another registered individual on the list. This process creates a "web of trust," where existing members validate the humanity of new applicants.
-4.
-
-**Challenge Period**: After profile submission, a challenge period begins. During this time, anyone can challenge the registration if they suspect it is a duplicate, fake, or does not meet submission guidelines.
+1. **Profile Creation**: Users must create a profile that includes submitting a short video of themselves reciting a specific phrase.
+2. **Deposit Requirement**: Users must pay a deposit in ETH when submitting their profile. This deposit acts as a bond to deter spam and low-quality submissions.
+3. **Vouching Process**: To submit a profile, it must be "vouched for" by another registered individual on the list. This process creates a "web of trust," where existing members validate the humanity of new applicants.
+4. **Challenge Period**: After profile submission, a challenge period begins. During this time, anyone can challenge the registration if they suspect it is a duplicate, fake, or does not meet submission guidelines.
  - Challengers must also put up a deposit.
  - This triggers a dispute resolution process, where the case goes to a decentralized court (such as Kleros) for a ruling.
  - If the challenger wins, they receive the submitter's deposit; if the submitter prevails, they receive the challenger's deposit.
-5.
-
-**Final Registration**: If no challenges arise or if the user successfully addresses any challenges, their profile is accepted, and they are added to the Proof of Humanity registry. Their Ethereum address becomes linked to a verified, unique human identity.
+5. **Final Registration**: If no challenges arise or if the user successfully addresses any challenges, their profile is accepted, and they are added to the Proof of Humanity registry. Their Ethereum address becomes linked to a verified, unique human identity.
 
 ### Use Cases for Proof of Humanity
 
@@ -60,21 +50,11 @@ Proof of Humanity represents an ambitious experiment in decentralized identity. 
 
 ### Common Mistakes to Avoid
 
-1.
-
-**Rushing Implementation**: Expecting immediate results can lead to frustration. Sustainable change requires time and patience.
-2.
-
-**Ignoring Feedback**: Colleagues and mentors can provide valuable insights. Listening to their perspectives enhances your approach.
-3.
-
-**One-Size-Fits-All Approach**: Strategies that work for others may not suit your context. Customize your tactics based on your unique situation.
-4.
-
-**Giving Up Prematurely**: Change can be uncomfortable. Persist through initial challenges to achieve better outcomes.
-5.
-
-**Neglecting Progress Tracking**: Without metrics, you cannot assess improvement. Regularly track your progress to inform future adjustments.
+1. **Rushing Implementation**: Expecting immediate results can lead to frustration. Sustainable change requires time and patience.
+2. **Ignoring Feedback**: Colleagues and mentors can provide valuable insights. Listening to their perspectives enhances your approach.
+3. **One-Size-Fits-All Approach**: Strategies that work for others may not suit your context. Customize your tactics based on your unique situation.
+4. **Giving Up Prematurely**: Change can be uncomfortable. Persist through initial challenges to achieve better outcomes.
+5. **Neglecting Progress Tracking**: Without metrics, you cannot assess improvement. Regularly track your progress to inform future adjustments.
 
 ### FAQ
 

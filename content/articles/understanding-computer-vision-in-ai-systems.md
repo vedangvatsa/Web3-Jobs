@@ -23,17 +23,11 @@ Training a computer vision model involves several key steps:
 
 1. **Data Collection**: This initial phase requires assembling a large dataset of labeled images. For instance, to develop a model that can recognize cars, one needs thousands or even millions of images, each labeled as containing a "car."
 
-2.
+2. **Training the CNN**: The labeled images enter the CNN, which consists of multiple layers. The early layers identify simple features such as edges and colors. As the data progresses through the layers, the model learns increasingly complex patterns. For example, a deeper layer might recognize wheels and windows by combining edges.
 
-**Training the CNN**: The labeled images enter the CNN, which consists of multiple layers. The early layers identify simple features such as edges and colors. As the data progresses through the layers, the model learns increasingly complex patterns. For example, a deeper layer might recognize wheels and windows by combining edges.
+3. **Feature Learning**: A significant advantage of deep learning is that the model autonomously learns critical features. Developers do not need to specify what constitutes a wheel; the model identifies relevant patterns through analysis of the extensive dataset.
 
-3.
-
-**Feature Learning**: A significant advantage of deep learning is that the model autonomously learns critical features. Developers do not need to specify what constitutes a wheel; the model identifies relevant patterns through analysis of the extensive dataset.
-
-4.
-
-**Prediction and Refinement**: After training, the model can analyze new, unseen images. The input image passes through the network, and the output layer generates a prediction, such as "there is a high probability that this image contains a car." As the model processes more diverse data, its accuracy improves.
+4. **Prediction and Refinement**: After training, the model can analyze new, unseen images. The input image passes through the network, and the output layer generates a prediction, such as "there is a high probability that this image contains a car." As the model processes more diverse data, its accuracy improves.
 
 ### Principal Tasks in Computer Vision
 
@@ -93,7 +87,9 @@ Despite remarkable advancements, challenges persist. Models often struggle with 
 
 #### 4. Can computer vision be applied to video?
 
-Yes, video consists of a series of images (frames). Computer vision techniques can be applied to each frame to interpret actions over time. This application is used in scenarios like action recognition, where the system identifies whether a person is running, walking, or jumping, and in tracking moving objects.**5. How does computer vision relate to other AI fields?** 
+Yes, video consists of a series of images (frames). Computer vision techniques can be applied to each frame to interpret actions over time. This application is used in scenarios like action recognition, where the system identifies whether a person is running, walking, or jumping, and in tracking moving objects.
+
+**5. How does computer vision relate to other AI fields?** 
 Computer vision often integrates with other AI domains. For example, an application that analyzes an image and generates descriptive text combines computer vision (to identify objects) with [natural language generation](/what-is-natural-language-processing-technology) (to formulate the accompanying description).
 
 ## Importance of Understanding Computer Vision

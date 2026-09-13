@@ -70,7 +70,9 @@ A typical week includes:
 - **Editing whitepapers and litepapers** for structure, clarity, and consistent terminology.
 - **Internal docs** such as architecture overviews, decision records, and release checklists that let a distributed team work without repeated meetings.
 
-### Skills and tools that actually get you hired**1. Writing and audience analysis
+### Skills and tools that actually get you hired
+
+**1. Writing and audience analysis
 
 **You tailor detail, tone, and prerequisites to the reader. Developer docs assume Git and command-line comfort and show code. User guides assume no code and show clicks. You test your own steps and state what you tested on.** 2. Code comprehension at reading level
 
@@ -85,7 +87,9 @@ A typical week includes:
 - OpenAPI for API reference, plus a diagram tool like Excalidraw or Mermaid
 - A code editor such as Visual Studio Code
 
-If a posting lists Docusaurus, Astro, or Fumadocs as preferred, you can meet the bar by showing one live Docusaurus site plus a pull request that passed CI checks.**4. Technical curiosity and interview skill
+If a posting lists Docusaurus, Astro, or Fumadocs as preferred, you can meet the bar by showing one live Docusaurus site plus a pull request that passed CI checks.
+
+**4. Technical curiosity and interview skill
 
 **You get good docs by asking precise questions. Examples: what chain and version did you test on, what fails if the user skips this flag, what error does the node return when the RPC is misconfigured.** 5. Attention to detail
 

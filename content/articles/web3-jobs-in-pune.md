@@ -56,23 +56,15 @@ The demand for skilled Web3 professionals in Pune is surging, with companies vyi
 
 Establishing a career in Web3 in Pune requires proactive engagement with the local community and continuous skill development.
 
-1.
-
-**Engage with the Local Community:** Community involvement is vital in Pune's Web3 scene.
+1. **Engage with the Local Community:** Community involvement is vital in Pune's Web3 scene.
  - **Attend Meetups:** Regular attendance at meetups helps you connect with industry peers. Present your projects, ask thoughtful questions, and build relationships with organizers and attendees.
  - **Volunteer for Events:** Helping to organize local hackathons or workshops demonstrates commitment and positions you at the heart of the community.
 
-2.
+2. **Develop a Strong [Portfolio](/building-web3-portfolio):** Create a compelling GitHub profile showcasing your projects and skills. Presenting a project at a local meetup can provide valuable feedback and increase your visibility.
 
-**Develop a Strong [Portfolio](/building-web3-portfolio):** Create a compelling GitHub profile showcasing your projects and skills. Presenting a project at a local meetup can provide valuable feedback and increase your visibility.
+3. **Pursue Continuous Learning:** The Pune community prioritizes education. Participate in online bootcamps, contribute to open-source projects, and stay informed about developments in areas such as Layer 2 scaling and account abstraction.
 
-3.
-
-**Pursue Continuous Learning:** The Pune community prioritizes education. Participate in online bootcamps, contribute to open-source projects, and stay informed about developments in areas such as Layer 2 scaling and account abstraction.
-
-4.
-
-**Connect with Mumbai's Financial Sector:** Use Pune's proximity to Mumbai. Attend fintech and [DeFi](/what-is-defi) events in Mumbai to engage with the financial aspects of the Web3 industry.
+4. **Connect with Mumbai's Financial Sector:** Use Pune's proximity to Mumbai. Attend fintech and [DeFi](/what-is-defi) events in Mumbai to engage with the financial aspects of the Web3 industry.
 
 ### Your Next Step: Find a Web3 Job
 

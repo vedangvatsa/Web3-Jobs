@@ -18,21 +18,11 @@ Most people set career goals and forget about them by February. Setting effectiv
 Before we discuss how to set good goals, understand why most fail:
 
 1. **Too Vague:**"Get better at coding" isn't specific enough to guide action.
-2.
-
-**Too Ambitious:**"Become a CTO" in 1 year, when you're in your first job (unrealistic timelines kill motivation).
-3.
-
-**External Only:**"Get promoted" depends partly on factors outside your control.
-4.
-
-**No Accountability:** You set the goal and never mention it again.
-5.
-
-**No Milestones:** No checkpoints to verify progress and adjust.
-6.
-
-**Misaligned with Values:** Goals that look good on paper but don't actually excite you.
+2. **Too Ambitious:**"Become a CTO" in 1 year, when you're in your first job (unrealistic timelines kill motivation).
+3. **External Only:**"Get promoted" depends partly on factors outside your control.
+4. **No Accountability:** You set the goal and never mention it again.
+5. **No Milestones:** No checkpoints to verify progress and adjust.
+6. **Misaligned with Values:** Goals that look good on paper but don't actually excite you.
 
 Understanding these failure modes helps you avoid them.
 
@@ -42,7 +32,7 @@ Before setting goals, get clear on what you're actually pursuing.
 
 **Ask Yourself:**
 
-- **-** Motivation:**Am I pursuing this because I genuinely want it, or because I think I should?
+- Motivation:**Am I pursuing this because I genuinely want it, or because I think I should?
 - **Time Horizon:** When do I want this? 1 year? 3 years? 5 years?
 - **Trade-offs:** What am I willing to sacrifice for this goal? (Time with family? Salary? Location?)
 - **Alternative:** If I couldn't achieve this specific goal, what would be a good alternative?
@@ -132,7 +122,7 @@ This is the distinction that changes everything.
 **Better Goal Structure:** Combine both:**"By the end of 2025, I will be promoted to Senior Engineer (outcome goal)."**
 **"To achieve this, I will:**
 
-- **-** Develop Skills:**Complete X leadership training + Y technical depth work.
+- Develop Skills:**Complete X leadership training + Y technical depth work.
 - **Build Reputation:** Lead Z significant project + Write 4 technical articles.
 - **Demonstrate Impact:** Mentor 2 junior engineers + Improve team velocity by a certain percentage."
 

@@ -57,7 +57,7 @@ The most effective way to learn is through hands-on experience. No-code tools al
 
 **Notable No-Code Tools to Explore**
 
-- **-** RunwayML**: Ideal for creative applications, it features tools for converting text to images, generating videos from images, and training custom image generators using a drag-and-drop interface.
+- RunwayML**: Ideal for creative applications, it features tools for converting text to images, generating videos from images, and training custom image generators using a drag-and-drop interface.
 - **Teachable Machine by Google**: A user-friendly tool that enables you to train models for image, sound, or pose recognition directly in your browser. It helps illustrate the training process effectively.
 - **ChatGPT and Other LLMs**: Using tools like ChatGPT, Claude, and Gemini allows you to experiment with prompts and observe how different inputs yield varying outputs, offering a practical lesson in model behavior.
 - **Zapier or Make.com**: Automation platforms that integrate deeply with AI. You can create workflows that connect apps using AI, for example, analyzing customer email sentiment and logging the results in a Google Sheet.
@@ -126,18 +126,10 @@ AI skills are becoming increasingly vital across various industries, including [
 
 ### Development Roadmap for AI Competence
 
-1.
-
-**Assessment & Foundation (Month 1)**: Evaluate your current understanding of relevant skills. Identify gaps, commit 5-10 hours weekly, and begin foundational reading or courses.
-2.
-
-**Active Development (Months 2-3)**: Engage in consistent practice with feedback. Seek mentorship and work on practical projects rather than tutorials, tracking your progress.
-3.
-
-**Specialization (Months 4-6)**: Deepen your expertise in a specific area. Create portfolio pieces that demonstrate your skills and share your knowledge with others.
-4.
-
-**Integration & Mastery (Months 6-12)**: Apply your skills in increasingly complex situations. Transition from conscious to unconscious competence and help others develop their skills.
+1. **Assessment & Foundation (Month 1)**: Evaluate your current understanding of relevant skills. Identify gaps, commit 5-10 hours weekly, and begin foundational reading or courses.
+2. **Active Development (Months 2-3)**: Engage in consistent practice with feedback. Seek mentorship and work on practical projects rather than tutorials, tracking your progress.
+3. **Specialization (Months 4-6)**: Deepen your expertise in a specific area. Create portfolio pieces that demonstrate your skills and share your knowledge with others.
+4. **Integration & Mastery (Months 6-12)**: Apply your skills in increasingly complex situations. Transition from conscious to unconscious competence and help others develop their skills.
 
 ### Real-World Applications of AI Knowledge
 
@@ -157,18 +149,8 @@ At each career level, the importance of these skills evolves:
 
 ### Common Missteps in Skill Development
 
-1.
-
-**Studying without Practical Application**: Theory alone is insufficient. Engage in projects to solidify knowledge.
-2.
-
-**Overlooking Soft Skills**: Technical skills are common; investing in soft skills can set you apart.
-3.
-
-**Avoiding Feedback**: Improvement requires external perspectives. Seek feedback from mentors and peers.
-4.
-
-**Comparing Yourself to Others**: Your skill development journey is unique. Focus on your progression.
-5.
-
-**Expecting Immediate Mastery**: Genuine skill development takes time. adopt the learning process.
+1. **Studying without Practical Application**: Theory alone is insufficient. Engage in projects to solidify knowledge.
+2. **Overlooking Soft Skills**: Technical skills are common; investing in soft skills can set you apart.
+3. **Avoiding Feedback**: Improvement requires external perspectives. Seek feedback from mentors and peers.
+4. **Comparing Yourself to Others**: Your skill development journey is unique. Focus on your progression.
+5. **Expecting Immediate Mastery**: Genuine skill development takes time. adopt the learning process.

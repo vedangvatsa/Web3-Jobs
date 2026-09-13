@@ -84,7 +84,9 @@ Tooling: LeetCode remains the standard practice platform. Run mock interviews on
 
 ## What to master for a Solidity technical interview
 
-If your loop includes a Solidity role, add EVM and security on top of the general coding base. Interviewers treat security as the primary filter.**1. Solidity fundamentals.
+If your loop includes a Solidity role, add EVM and security on top of the general coding base. Interviewers treat security as the primary filter.
+
+**1. Solidity fundamentals.
 
 **Be able to write and explain from memory:
 
@@ -92,13 +94,17 @@ If your loop includes a Solidity role, add EVM and security on top of the genera
 - Visibility: `public`, `private`, `internal`, `external`. Use `external` when the function is only called from outside the contract to save gas on copying.
 - Function types: `view`, `pure`, and `payable`. A `view` reads state, a `pure` reads no state, a `payable` can receive ETH.
 - Error handling: `require`, `revert`, `assert`, and custom errors. Custom errors introduced in Solidity 0.8.4 cost less gas than string messages because they encode a selector, not a string.
-- Inheritance and libraries. Understand C3 linearization for base contract order.**2. The EVM.
+- Inheritance and libraries. Understand C3 linearization for base contract order.
+
+**2. The EVM.
 
 **The EVM is a stack machine that each node runs. Know:
 
 - The stack, memory which is cleared after the call, and storage which persists. A cold storage write costs 20,000 gas, a warm write about 2,900, a cold read about 2,100, a warm read about 100. These numbers come from the EVM fee schedule and explain why minimizing state writes dominates optimization.
 - Opcodes you will be asked about: `SSTORE`, `SLOAD`, `ADD`, `MSTORE`, `CALLDATALOAD`. Transient storage with `TSTORE` and `TLOAD` from EIP-1153 costs 100 gas and clears after the transaction. It shipped with the Cancun upgrade in March 2024 and requires Solidity 0.8.24 or later and `evmVersion: "cancun"`.
-- Call types: `call`, `delegatecall`, and `staticcall`. With `call`, `msg.sender` is the caller. With `delegatecall`, code runs in the caller's storage, so `msg.sender` stays the original sender, which is how proxies work. Never use `tx.origin` for authorization. `tx.origin` is the original external account, not the immediate caller, so a phishing contract can bypass it.**3. Security, the most important filter.
+- Call types: `call`, `delegatecall`, and `staticcall`. With `call`, `msg.sender` is the caller. With `delegatecall`, code runs in the caller's storage, so `msg.sender` stays the original sender, which is how proxies work. Never use `tx.origin` for authorization. `tx.origin` is the original external account, not the immediate caller, so a phishing contract can bypass it.
+
+**3. Security, the most important filter.
 
 **Follow the Checks-Effects-Interactions pattern from the Solidity docs at docs.soliditylang.org. The pattern is: check inputs first, update your state second, interact with other contracts last.
 
@@ -139,10 +145,14 @@ Other security topics you will be asked to whiteboard:
 - Access control. Use `onlyOwner` or role-based modifiers from OpenZeppelin AccessControl, and test that each sensitive function rejects non-owners.
 - Oracle manipulation and flash loans. Do not trust spot prices from a single pool.
 
-Tools to name and use: Slither for static analysis, Echidna for fuzzing, and Foundry's built-in fuzz with `testFuzz_` functions.**4. Gas optimization you can defend.**- Pack storage. Variables that are declared next to each other and fit in 32 bytes share a slot. Reordering a struct from `uint256, uint8, uint256` to `uint256, uint256, uint8` can waste a slot. Packing can save about 20,000 gas per slot on deployment.
+Tools to name and use: Slither for static analysis, Echidna for fuzzing, and Foundry's built-in fuzz with `testFuzz_` functions.
+
+**4. Gas optimization you can defend.**- Pack storage. Variables that are declared next to each other and fit in 32 bytes share a slot. Reordering a struct from `uint256, uint8, uint256` to `uint256, uint256, uint8` can waste a slot. Packing can save about 20,000 gas per slot on deployment.
 - Cache storage reads in memory when you use a value more than once in a function.
 - Use `calldata` for external inputs, `constant` and `immutable` for fixed values, and short custom errors.
-- Prefer events over storage for logs. An event costs about 375 gas plus 8 per byte, far less than persistent storage.**5. Standards and upgrade patterns.**- Tokens: ERC-20, ERC-721, ERC-1155, and ERC-4626 for vaults.
+- Prefer events over storage for logs. An event costs about 375 gas plus 8 per byte, far less than persistent storage.
+
+**5. Standards and upgrade patterns.**- Tokens: ERC-20, ERC-721, ERC-1155, and ERC-4626 for vaults.
 - Upgrades: Transparent proxy and UUPS. Know that Transparent routes admin calls through the proxy, while UUPS puts upgrade logic in the implementation. State layout and storage collisions are the risk in both.
 
 ## The live coding challenge
@@ -166,18 +176,10 @@ Take-homes mimic real work: a small staking contract, an on-chain auction for an
 
 Reviewers usually check in this order:
 
-1.
-
-**Did you follow instructions.** Scope, network, and submission format matter more than extra features.
-2.
-
-**Tests and docs.** A README that shows `forge test` or `npm test`, how to run with `anvil` or a local node, and addresses of deployed contracts on Sepolia. Include edge cases and a negative test that would have caught a reentrancy bug.
-3.
-
-**Security and code quality.** Small tested contracts beat a large untested repo. Import OpenZeppelin Contracts v5 instead of copying token code. Verify source on Etherscan.
-4.
-
-**Trade-offs written down.** Note what you left out and why. For example: "used `pull` payments over `push` to avoid reentrancy, kept `runs: 200` on the optimizer for deployment size."
+1. **Did you follow instructions.** Scope, network, and submission format matter more than extra features.
+2. **Tests and docs.** A README that shows `forge test` or `npm test`, how to run with `anvil` or a local node, and addresses of deployed contracts on Sepolia. Include edge cases and a negative test that would have caught a reentrancy bug.
+3. **Security and code quality.** Small tested contracts beat a large untested repo. Import OpenZeppelin Contracts v5 instead of copying token code. Verify source on Etherscan.
+4. **Trade-offs written down.** Note what you left out and why. For example: "used `pull` payments over `push` to avoid reentrancy, kept `runs: 200` on the optimizer for deployment size."
 
 Avoid over-engineering. Deliver correct, tested, and documented code that meets the brief. Note any known limitation you would fix with more time.
 

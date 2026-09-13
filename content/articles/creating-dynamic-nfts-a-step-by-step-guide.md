@@ -52,25 +52,17 @@ The applications of dynamic NFTs are diverse and new:
 
 Creating a dynamic NFT involves advanced development that merges standard NFT creation with oracle integration. Here's a structured workflow:
 
-1.
+1. **Define Possible States**: Begin by creating all potential images and metadata files for your NFT. For a weather-related NFT, you would prepare distinct images and JSON files for states like "Sunny," "Rainy," and "Cloudy." Upload these files to IPFS.
 
-**Define Possible States**: Begin by creating all potential images and metadata files for your NFT. For a weather-related NFT, you would prepare distinct images and JSON files for states like "Sunny," "Rainy," and "Cloudy." Upload these files to IPFS.
-
-2.
-
-**Develop the Smart Contract**: The smart contract forms the backbone of your project. Key components include:
+2. **Develop the Smart Contract**: The smart contract forms the backbone of your project. Key components include:
  - **State Variable**: A variable to track the current state, such as `string public currentState = "Sunny";`.
  - **Oracle Integration**: Use services like Chainlink to request external data. The contract should contain a function to request weather data from a Chainlink oracle.
  - **Update Function**: This function is triggered by the Chainlink oracle when it receives the data, updating the `currentState` variable based on the data (e.g., current weather).
  - **Modified `tokenURI` Function**: Override the default `tokenURI` function to construct links based on the `currentState`. For example, if `currentState` is "Rainy," it will return the link to the `rainy.json` file.
 
-3.
+3. **Configure an Oracle Job**: Set up a Chainlink job detailing which API will provide the weather data and how the response should be formatted. Chainlink's documentation includes extensive instructions for this process.
 
-**Configure an Oracle Job**: Set up a Chainlink job detailing which API will provide the weather data and how the response should be formatted. Chainlink's documentation includes extensive instructions for this process.
-
-4.
-
-**Fund Your Contract**: Ensure your smart contract holds LINK tokens to compensate the Chainlink oracles for their data services.
+4. **Fund Your Contract**: Ensure your smart contract holds LINK tokens to compensate the Chainlink oracles for their data services.
 
 ### Challenges in Building Dynamic NFTs
 

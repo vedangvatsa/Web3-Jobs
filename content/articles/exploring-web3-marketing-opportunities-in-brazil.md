@@ -63,22 +63,14 @@ The growth of the Brazilian Web3 sector has led to an increased demand for marke
 
 ### Building a Marketing Career in Brazilian Web3
 
-1.
+1. **Fluency in Portuguese and Crypto Knowledge:** Proficiency in Brazilian Portuguese combined with a solid understanding of Web3 concepts is essential.
 
-**Fluency in Portuguese and Crypto Knowledge:** Proficiency in Brazilian Portuguese combined with a solid understanding of Web3 concepts is essential.
+2. **Active Community Participation:** Engage with the local Web3 community by joining popular Telegram groups, following key influencers on Twitter, and attending meetups in São Paulo and Rio.
 
-2.
-
-**Active Community Participation:** Engage with the local Web3 community by joining popular Telegram groups, following key influencers on Twitter, and attending meetups in São Paulo and Rio.
-
-3.
-
-**Develop a Public [Portfolio](/building-web3-portfolio):** Your portfolio serves as proof of your capabilities.
+3. **Develop a Public [Portfolio](/building-web3-portfolio):** Your portfolio serves as proof of your capabilities.
  - Start a blog or YouTube channel in Portuguese where you analyze Web3 projects or clarify crypto concepts.
  - Craft a detailed go-to-market strategy for a global protocol's launch in Brazil and publish it.
 
-4.
-
-**Use a FinTech Background:** Experience in the traditional Brazilian FinTech industry can provide a competitive edge. Understanding local users, market dynamics, and the competitive space is invaluable.
+4. **Use a FinTech Background:** Experience in the traditional Brazilian FinTech industry can provide a competitive edge. Understanding local users, market dynamics, and the competitive space is invaluable.
 
 Brazil is positioned as a frontrunner in Web3 adoption, creating a highly dynamic and rewarding environment for marketing professionals. By comprehending the unique cultural and economic factors at play and focusing on community building, marketers can enable the introduction of millions of users to the decentralized economy.

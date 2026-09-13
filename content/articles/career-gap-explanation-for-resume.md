@@ -32,7 +32,9 @@ Employers often appreciate transparency, so consider these strategies to format 
 
 **Professional Development Sabbatical (2022 - 2023)**| Completed an online bootcamp in [Web3](/what-is-web3) development, focusing on [Solidity](/best-programming-languages-for-blockchain-development) and React.<br>Built and deployed three personal projects, including a decentralized voting application.<br>Actively contributed to open-source [DeFi](/what-is-defi) protocols. |
 
-This approach transforms a potential concern into a demonstration of your initiative and commitment to learning.**3. Focus on a Functional Resume Format
+This approach transforms a potential concern into a demonstration of your initiative and commitment to learning.
+
+**3. Focus on a Functional Resume Format
 
 **While chronological resumes are the norm, consider a functional or combination format if you have notable gaps. This style emphasizes skills and achievements at the top, followed by your work history. Such a layout directs attention to your capabilities rather than the timeline of your employment.
 
@@ -78,22 +80,12 @@ Perceptions regarding employment gaps have shifted significantly. Short gaps of 
 
 To effectively communicate the value of your career break, consider the following steps:
 
-1.
+1. **Identify Key Experiences**: Reflect on what you did during your time off. Focus on any new skills you acquired, volunteer work, or educational pursuits.
 
-**Identify Key Experiences**: Reflect on what you did during your time off. Focus on any new skills you acquired, volunteer work, or educational pursuits.
+2. **Craft Your Narrative**: Develop a concise narrative that highlights your growth during the break. Ensure it aligns with your career goals and the job you seek.
 
-2.
+3. **Practice Your Explanation**: Rehearse your explanation to ensure it flows naturally in conversation. Confidence in delivery can make a significant difference.
 
-**Craft Your Narrative**: Develop a concise narrative that highlights your growth during the break. Ensure it aligns with your career goals and the job you seek.
+4. **Seek Feedback**: Consider discussing your narrative with trusted colleagues or mentors. Their insights can help refine your approach.
 
-3.
-
-**Practice Your Explanation**: Rehearse your explanation to ensure it flows naturally in conversation. Confidence in delivery can make a significant difference.
-
-4.
-
-**Seek Feedback**: Consider discussing your narrative with trusted colleagues or mentors. Their insights can help refine your approach.
-
-5.
-
-**Stay Positive**: Maintain an optimistic attitude when discussing your career break. Positivity can influence how others perceive your experiences.
+5. **Stay Positive**: Maintain an optimistic attitude when discussing your career break. Positivity can influence how others perceive your experiences.

@@ -22,15 +22,21 @@ The main objective of a token compensation plan is to achieve **long-term alignm
 
 ### Key Elements of a Token Grant
 
-A standard token grant for a full-time team member typically includes the following components, mirroring traditional startup equity structures.**1. Grant Size**
+A standard token grant for a full-time team member typically includes the following components, mirroring traditional startup equity structures.
 
-- **-** Definition:**The total number of tokens allocated to the individual, often expressed as a monetary value at the time of the grant and as a percentage of the total token supply.
-- **Considerations:** The grant size should be competitive and reflect the individual's role, experience, and potential contributions to the project. Senior engineers and leadership roles usually receive the largest grants. Establishing a clear "leveling framework" ensures fairness and consistency across the team.**2. Vesting Schedule**
+**1. Grant Size**
 
-- **-** Definition:**The timeline over which the employee earns their tokens. A common vesting schedule in both Web2 and Web3 is ** 4 years**, meaning the employee earns their full grant over that period.
-- **Importance:** Vesting encourages long-term commitment. If an employee leaves before their tokens are fully vested, they forfeit the unvested portion, aligning their financial interests with the protocol's success.**3. Cliff**
+- Definition:**The total number of tokens allocated to the individual, often expressed as a monetary value at the time of the grant and as a percentage of the total token supply.
+- **Considerations:** The grant size should be competitive and reflect the individual's role, experience, and potential contributions to the project. Senior engineers and leadership roles usually receive the largest grants. Establishing a clear "leveling framework" ensures fairness and consistency across the team.
 
-- **-** Definition:**A "cliff" is an initial period during the vesting schedule when no tokens vest. If the employee departs before this period concludes, they do not receive any tokens. The industry standard is a ** 1-year cliff**.
+**2. Vesting Schedule**
+
+- Definition:**The timeline over which the employee earns their tokens. A common vesting schedule in both Web2 and Web3 is ** 4 years**, meaning the employee earns their full grant over that period.
+- **Importance:** Vesting encourages long-term commitment. If an employee leaves before their tokens are fully vested, they forfeit the unvested portion, aligning their financial interests with the protocol's success.
+
+**3. Cliff**
+
+- Definition:**A "cliff" is an initial period during the vesting schedule when no tokens vest. If the employee departs before this period concludes, they do not receive any tokens. The industry standard is a ** 1-year cliff**.
 - **Mechanism:** With a 4-year vesting plan and a 1-year cliff, the employee receives 25% of their total token grant on their one-year anniversary, with the remaining 75% vesting incrementally over the next three years (typically on a monthly or daily basis).
 - **Significance:** The cliff protects the project and its community from individuals who might leave shortly after joining. It acts as a trial period, ensuring only dedicated team members receive ownership.
 
@@ -66,12 +72,12 @@ Clear communication is vital for both companies and candidates regarding token-b
 
 **For Companies:**
 
-- **-** Transparency:**Offer candidates detailed documentation on tokenomics, vesting schedules, and the network's current and fully diluted valuation.
+- Transparency:**Offer candidates detailed documentation on tokenomics, vesting schedules, and the network's current and fully diluted valuation.
 - **Risk Disclosure:** Clearly explain the token's volatility, helping candidates understand that the value of their grant can fluctuate.
 
 **For Candidates:**
 
-- **-** Inquire Thoroughly:**Focus on more than just the current value. Ask about the vesting schedule, total token supply, and the percentage of the network represented by your grant.
+- Inquire Thoroughly:**Focus on more than just the current value. Ask about the vesting schedule, total token supply, and the percentage of the network represented by your grant.
 - **Conduct Research:** Assess the project's long-term viability. A smaller grant in a well-structured project can be more valuable than a larger grant in a project with poor tokenomics. For more tips, refer to our guide on [salary negotiation](/web3-salary-negotiation).
 
 Token-based compensation transforms employees into owners, aligning the entire team with a shared mission. Thoughtful and transparent plans with long-term vesting can attract top talent and create a dedicated team motivated to deliver lasting value to the ecosystem.

@@ -50,21 +50,13 @@ The demand for Web3 professionals in France is strong, particularly for develope
 
 ### How to Secure a Web3 Job in France
 
-1.
+1. **Language Proficiency:** While many tech teams use English, fluency in French offers a distinct advantage, particularly in business development, marketing, and community management roles targeting the domestic audience.
 
-**Language Proficiency:** While many tech teams use English, fluency in French offers a distinct advantage, particularly in business development, marketing, and community management roles targeting the domestic audience.
+2. **Focus on Security and Quality:** The French engineering culture emphasizes rigor and quality. For technical positions, a portfolio showcasing well-tested, secure, and thoughtfully designed code is essential. Familiarity with formal verification methods significantly enhances your profile.
 
-2.
+3. **Use Experience in Luxury or Gaming:** A background in the luxury goods, fashion, or gaming industries provides a competitive edge. Emphasize your expertise in brand development and consumer engagement when applying for positions.
 
-**Focus on Security and Quality:** The French engineering culture emphasizes rigor and quality. For technical positions, a portfolio showcasing well-tested, secure, and thoughtfully designed code is essential. Familiarity with formal verification methods significantly enhances your profile.
-
-3.
-
-**Use Experience in Luxury or Gaming:** A background in the luxury goods, fashion, or gaming industries provides a competitive edge. Emphasize your expertise in brand development and consumer engagement when applying for positions.
-
-4.
-
-**Engage at Paris Events:** Paris serves as a global hub for Web3 events. Attending the Paris Blockchain Week and ETHCC offers invaluable opportunities to connect with key figures in the French and international Web3 ecosystems.
+4. **Engage at Paris Events:** Paris serves as a global hub for Web3 events. Attending the Paris Blockchain Week and ETHCC offers invaluable opportunities to connect with key figures in the French and international Web3 ecosystems.
 
 ### Exploring Web3 Career Opportunities in France
 

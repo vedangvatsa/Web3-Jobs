@@ -41,25 +41,17 @@ The job market in Mumbai favors professionals with a blend of finance and techno
 
 ### Building a Web3 Career in Mumbai
 
-1.
+1. **Use Your TradFi Experience**: Your background in investment banking, asset management, trading, or financial regulation is a valuable asset. Highlight your understanding of financial markets and risk management on your [resume](/how-to-build-a-web3-resume-that-stands-out) and in interviews, demonstrating how you've applied this knowledge in the Web3 sector.
 
-**Use Your TradFi Experience**: Your background in investment banking, asset management, trading, or financial regulation is a valuable asset. Highlight your understanding of financial markets and risk management on your [resume](/how-to-build-a-web3-resume-that-stands-out) and in interviews, demonstrating how you've applied this knowledge in the Web3 sector.
+2. **Engage with DeFi Platforms**: To contribute effectively to DeFi products, you must have firsthand experience using them. Engage actively within the ecosystem by providing liquidity on a [DEX](/what-is-a-decentralized-exchange-dex), obtaining loans on platforms like Aave, or exploring derivatives protocols. Your practical experience enhances your profile.
 
-2.
-
-**Engage with DeFi Platforms**: To contribute effectively to DeFi products, you must have firsthand experience using them. Engage actively within the ecosystem by providing liquidity on a [DEX](/what-is-a-decentralized-exchange-dex), obtaining loans on platforms like Aave, or exploring derivatives protocols. Your practical experience enhances your profile.
-
-3.
-
-**Create a Public Financial Analysis Portfolio**: Develop a portfolio showcasing your financial analysis skills within the Web3 domain. Start a blog or a Substack to publish your insights on DeFi protocols.
+3. **Create a Public Financial Analysis Portfolio**: Develop a portfolio showcasing your financial analysis skills within the Web3 domain. Start a blog or a Substack to publish your insights on DeFi protocols.
  - **Project Ideas**: 
  - Compare the risk parameters of two lending protocols.
  - Create a financial sustainability model for a protocol's tokenomics.
  - Develop a Dune dashboard tracking key financial metrics in a specific DeFi sector.
 
-4.
-
-**Network within FinTech and Crypto Communities**: Attend events that merge the TradFi and Web3 sectors. Your ability to communicate fluently in both domains will enhance your value as a connector and candidate.
+4. **Network within FinTech and Crypto Communities**: Attend events that merge the TradFi and Web3 sectors. Your ability to communicate fluently in both domains will enhance your value as a connector and candidate.
 
 ### Finding Your Next Web3 Job
 
