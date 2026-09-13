@@ -47,11 +47,11 @@ The Bitcoin network adjusts its mining difficulty periodically so that blocks ar
 
 Mining also creates a reason for parties to spend resources following those rules. A miner that produces an invalid block receives no valid block reward from the network. A miner attempting to replace a confirmed payment must recreate proof-of-work for the altered block and catch up with, then exceed, the work on the accepted chain. The whitepaper analyzes the probability of this effort succeeding as confirmations accumulate under stated assumptions about an attacker's hash power.
 
-People sometimes summarize the security model as “a 51% attack.” That shorthand can hide details. Control of a majority of active hash rate may let an attacker attempt chain reorganizations or double spends of its own transactions. It does not give the attacker a valid signature for another person's coins, let it create arbitrary bitcoin outside the rules, or turn invalid transactions into valid ones. The cost, duration, liquidity, and response of other participants also affect a real attack.
+People sometimes summarize the security model as "a 51% attack." That shorthand can hide details. Control of a majority of active hash rate may let an attacker attempt chain reorganizations or double spends of its own transactions. It does not give the attacker a valid signature for another person's coins, let it create arbitrary bitcoin outside the rules, or turn invalid transactions into valid ones. The cost, duration, liquidity, and response of other participants also affect a real attack.
 
 ## Nodes, miners, and wallets have different jobs
 
-The term “Bitcoin network” can make several separate roles sound like one thing. Full nodes download and validate blocks and transactions according to their software's consensus rules. They relay valid data to peers. Their validation is what prevents a miner from changing rules merely by proposing a block.
+The term "Bitcoin network" can make several separate roles sound like one thing. Full nodes download and validate blocks and transactions according to their software's consensus rules. They relay valid data to peers. Their validation is what prevents a miner from changing rules merely by proposing a block.
 
 Miners assemble candidate blocks from transactions they have received, compete in proof-of-work, and publish blocks when they find a valid result. Many miners participate through pools, which distribute work and share proceeds under their own arrangements. Pool participants should understand that pool concentration, payout terms, and operational decisions are separate from the Bitcoin protocol.
 

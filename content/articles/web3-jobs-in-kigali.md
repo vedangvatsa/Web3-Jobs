@@ -102,7 +102,7 @@ Kigali presents several advantages for tech professionals, particularly in the W
 
 ### Challenges and Solutions
 
-**Challenge: Slow Government Processes
+Challenge: Slow Government Processes
 
 **Government approvals can take time. Building relationships and demonstrating long-term commitment can help mitigate delays.** Challenge: Limited Local Venture Capital
 
@@ -110,7 +110,7 @@ Kigali presents several advantages for tech professionals, particularly in the W
 
 **English predominates in the tech sector, while Kinyarwanda is less common. Many tech jobs, however, require English proficiency.** Challenge: Internet Infrastructure
 
-**Kigali's internet speeds are competitive for the region. Some tech hubs offer fiber connectivity for enhanced reliability.
+Kigali's internet speeds are competitive for the region. Some tech hubs offer fiber connectivity for enhanced reliability.
 
 ### 90-Day Quick-Start Plan
 

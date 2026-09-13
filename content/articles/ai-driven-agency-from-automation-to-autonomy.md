@@ -80,13 +80,13 @@ An AI agent usually has most of these, while traditional ML has only one or two:
 * **Adaptation.** Changes its next step based on tool outputs or market events.
 * **Autonomy with guardrails.
 
-**Operates without per-step prompts when you permit it, but stays bounded by rate limits, spend caps, approval gates, and audit logs.
+Operates without per-step prompts when you permit it, but stays bounded by rate limits, spend caps, approval gates, and audit logs.
 
 If a system lacks planning and tool use, it is not an agent. If it cannot adapt after an error, it is a script with a model attached.
 
 ## How Web3 changes the picture
 
-Blockchains add three properties that matter for agents and one standard that is now taking shape.**Transparent execution.
+Blockchains add three properties that matter for agents and one standard that is now taking shape.Transparent execution.
 
 **Every transaction an agent sends is recorded on chain and can be audited. You can see what it called, when, and with what gas price. This helps with debugging and dispute review.** Smart contract constraints.
 
@@ -96,7 +96,7 @@ Blockchains add three properties that matter for agents and one standard that is
 
 **DAOs encode voting and treasury rules in smart contracts and enforce outcomes through token-weighted votes. Major DeFi protocols governed this way include Aave, Uniswap, Balancer, and Lido, with Layer 2 scaling via Arbitrum and similar networks. Proposals span technical and economic parameters that are hard for many token holders to evaluate, which creates pressure to use agent assistance for analysis and execution while keeping humans as approvers.** ERC-8004: Trustless Agents.
 
-**In August 2025, contributors from MetaMask (Marco De Rossi), the Ethereum Foundation (Davide Crapis), Google (Jordan Ellis), and Coinbase (Erik Reppel) proposed ERC-8004. It defines three lightweight per-chain registries:
+In August 2025, contributors from MetaMask (Marco De Rossi), the Ethereum Foundation (Davide Crapis), Google (Jordan Ellis), and Coinbase (Erik Reppel) proposed ERC-8004. It defines three lightweight per-chain registries:
 
 1. **Identity registry:** an ERC-721 token per agent that points to an agent URI with metadata and service descriptions.
 2. **Reputation registry:** client feedback events tied to an agent.
@@ -147,7 +147,7 @@ What is still rare is the observer level: an agent that holds assets, votes, and
 
 ## Risks and failure modes
 
-**Alignment.
+Alignment.
 
 **An agent that optimizes for short-term return can take actions you would reject, such as adding borrowed capital in a thin market. This reward hacking problem is well documented for LLM-based agents. Treat every objective and metric as brittle until proven otherwise.** Transparency and explainability.
 
@@ -159,7 +159,7 @@ What is still rare is the observer level: an agent that holds assets, votes, and
 
 **If an agent causes harm, legal responsibility sits with the deployer and operator who granted authority, not with the model. Map every permission to an owner, log the delegation chain, and define who can pause, revoke, or roll back an action. Standards and frameworks that teams cite here include the NIST AI Risk Management Framework functions Govern, Map, Measure, and Manage, and the EU AI Act requirements for logging, data governance, documentation, and human oversight for covered high-risk systems.** Scalability and systemic risk.
 
-**If many agents chase the same signal, exits crowd at the same time. Network congestion blocks clean exits, slippage rises, and correlated liquidations follow. This herd effect already appears in manual farming; faster agents can make it larger rather than smooth it.** Trust.** Building trust requires both auditable execution and verifiable constraints. A public log alone does not make an agent trustworthy if no one can constrain its spend or verify its data sources.
+**If many agents chase the same signal, exits crowd at the same time. Network congestion blocks clean exits, slippage rises, and correlated liquidations follow. This herd effect already appears in manual farming; faster agents can make it larger rather than smooth it.** Trust. Building trust requires both auditable execution and verifiable constraints. A public log alone does not make an agent trustworthy if no one can constrain its spend or verify its data sources.
 
 ## Economic implications
 
@@ -168,7 +168,7 @@ What is still rare is the observer level: an agent that holds assets, votes, and
 * **Labor.** Routine operational work, such as position monitoring and report generation, is most exposed. Demand rises for people who can design, audit, and govern agent systems.
 * **Market structure.
 
-**Always-on agents push markets toward faster price adjustment, which can reduce small arbitrages while raising intraday volatility during stress. The net efficiency effect depends on diversity: many uncorrelated strategies dampen shocks, many correlated ones increase them.
+Always-on agents push markets toward faster price adjustment, which can reduce small arbitrages while raising intraday volatility during stress. The net efficiency effect depends on diversity: many uncorrelated strategies dampen shocks, many correlated ones increase them.
 
 Projections vary widely, which is itself a signal to stay conservative. G2's 2025 AI Agent report reported that 57 percent of surveyed companies had AI agents in production and 78 percent planned to increase agent autonomy. MarketsandMarkets estimated the AI agent market at about $7.84 billion in 2025, rising to over $52 billion by 2030. Treat these as directional survey and forecast data, not as guarantees.
 
@@ -190,19 +190,19 @@ Projections vary widely, which is itself a signal to stay conservative. G2's 202
 
 1. **Pick one high-value workflow.
 
-**Start with research to brief to execution for a single protocol, not with a plan to automate everything.
+Start with research to brief to execution for a single protocol, not with a plan to automate everything.
 2. **Define tools and least privilege.
 
-**List every API and contract the agent may call. Restrict to an allow list, cap spend per day, and require explicit approval for any transaction that moves funds or changes permissions.
+List every API and contract the agent may call. Restrict to an allow list, cap spend per day, and require explicit approval for any transaction that moves funds or changes permissions.
 3. **Design memory and grounding early.
 
-**Decide what is kept in short-term context, what is stored as episodic history, and what is retrieved from a knowledge base via RAG. Ground claims in retrieved documents before acting.
+Decide what is kept in short-term context, what is stored as episodic history, and what is retrieved from a knowledge base via RAG. Ground claims in retrieved documents before acting.
 4. **Set the autonomy dial.
 
-**Use human-in-the-loop for anything irreversible: treasury moves, bridge transfers, and governance votes. Reserve unattended runs for read-only analysis or sandboxed simulations.
+Use human-in-the-loop for anything irreversible: treasury moves, bridge transfers, and governance votes. Reserve unattended runs for read-only analysis or sandboxed simulations.
 5. **Instrument everything.
 
-**Log prompts, tool calls, arguments, costs, latency, and outcomes. Save the transcript so a reviewer can replay why an action was taken.
+Log prompts, tool calls, arguments, costs, latency, and outcomes. Save the transcript so a reviewer can replay why an action was taken.
 6. **Pilot with shadow review.** Let the agent propose for a week while you compare its proposals to what you would have done. Expand scope only after measured accuracy and cost are stable.
 
 ### If you are building
@@ -219,7 +219,7 @@ Projections vary widely, which is itself a signal to stay conservative. G2's 202
 * **Agent security reviewer.** Tests for hijacking, over-permission, and ungrounded actions. Reviews contracts that bound agent authority.
 * **Applied researcher.
 
-**Works on planning reliability, provenance, and evaluation of multi-agent behavior.
+Works on planning reliability, provenance, and evaluation of multi-agent behavior.
 
 These roles overlap. In small teams one person covers several, which raises the need for explicit ownership over who can grant and revoke agent authority.
 

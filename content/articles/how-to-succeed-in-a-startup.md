@@ -42,7 +42,7 @@ Both profiles build strong careers. Choose based on learning style and life cons
 
 ### How work gets done in early teams
 
-**Priorities are short.
+Priorities are short.
 
 **Most startups plan in weeks, not quarters. The team picks one or two outcomes, ships, measures, and decides what to keep. Your job is to make the next step concrete.** Scope is wider than your title.
 
@@ -50,14 +50,14 @@ Both profiles build strong careers. Choose based on learning style and life cons
 
 **Founders and teammates review work daily. Customers reply within hours in Discord or support channels. You learn faster but you also hear about problems faster.** Risk is real.
 
-**The U.S. Bureau of Labor Statistics Business Employment Dynamics data for the 2024 cohort shows about 20.4 percent of new establishments closed in year one, about 49.4 percent by year five, and about 65.3 percent by year ten. These figures cover all private establishments, not only venture-backed startups, which tend to face higher failure rates because they try new products under limited runway. Treat any single startup as uncertain, even if your role feels secure.
+The U.S. Bureau of Labor Statistics Business Employment Dynamics data for the 2024 cohort shows about 20.4 percent of new establishments closed in year one, about 49.4 percent by year five, and about 65.3 percent by year ten. These figures cover all private establishments, not only venture-backed startups, which tend to face higher failure rates because they try new products under limited runway. Treat any single startup as uncertain, even if your role feels secure.
 
 ### Habits that managers reward
 
 These habits show up in strong performers across roles. They are simple but not easy to keep.
 
 #### 1. Make work visible early.
-Share a one-paragraph plan before you build. Include the problem, the user, what you will ship, and how you will know it worked. A short note saves days of rework.** 2. Ship small and measure.
+Share a one-paragraph plan before you build. Include the problem, the user, what you will ship, and how you will know it worked. A short note saves days of rework. 2. Ship small and measure.
 
 **Break work into parts that can reach a user in days. Write what you expect to happen, then check the data or feedback. Fix or stop based on results.** 3. Own the follow-through.
 
@@ -69,19 +69,19 @@ Share a one-paragraph plan before you build. Include the problem, the user, what
 
 **Instead of "I am blocked," say "I need a 20-minute review of this contract diff before I deploy. Here is the diff and test coverage." People help faster when the ask is concrete.** 7. Protect your capacity.
 
-**Track hours, sleep, and on-call load for two weeks. If you average more than 45 to 50 hours for several weeks, raise it with your manager with data. Sustainable pace beats short bursts that lead to mistakes.
+Track hours, sleep, and on-call load for two weeks. If you average more than 45 to 50 hours for several weeks, raise it with your manager with data. Sustainable pace beats short bursts that lead to mistakes.
 
 ### Pay, equity, and expectations
 
-**Cash and equity.
+Cash and equity.
 
-**Many startups pay less in cash than larger firms and make up part of the offer with equity. Common forms are stock options and, at later stages, restricted stock units (RSUs). A standard vesting schedule is four years with a one-year cliff, where 25 percent vests after twelve months and the rest vests monthly or quarterly after that.
+Many startups pay less in cash than larger firms and make up part of the offer with equity. Common forms are stock options and, at later stages, restricted stock units (RSUs). A standard vesting schedule is four years with a one-year cliff, where 25 percent vests after twelve months and the rest vests monthly or quarterly after that.
 
 If you leave before the cliff, you earn no equity. If you are granted options, you receive the right to buy shares at the strike price set on grant day. You gain only if the share value later rises above that price and the company reaches a point where you can sell. You also have a limited time to exercise after leaving, often 90 days. Read the grant letter for the exact terms. J.P. Morgan Workplace Solutions notes that companies often start with options and add RSUs closer to late-stage funding when valuation is higher and a sale or listing is more likely.
 
-Treat equity as uncertain future value. Model your finances on cash you can live on. Evaluate equity separately in low, medium, and high cases after dilution and tax.**Benefits.
+Treat equity as uncertain future value. Model your finances on cash you can live on. Evaluate equity separately in low, medium, and high cases after dilution and tax.Benefits.
 
-**Large employers usually bundle health, retirement match, and formal leave. Startups vary. Some offer flexible location, learning stipends, and flexible time off. Ask for written details: base pay, bonus target, equity type and percent, cliff and vesting dates, benefits start date, and on-call expectations.
+Large employers usually bundle health, retirement match, and formal leave. Startups vary. Some offer flexible location, learning stipends, and flexible time off. Ask for written details: base pay, bonus target, equity type and percent, cliff and vesting dates, benefits start date, and on-call expectations.
 
 ### Trade-offs to be honest about
 

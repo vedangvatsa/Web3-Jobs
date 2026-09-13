@@ -47,18 +47,20 @@ The formal Web3 job market in Abidjan is still emerging, with lucrative opportun
 
 ### Detailed Salary Expectations by Role
 
-**Developer Compensation:**| Role | Experience Level | Salary Range (XOF/month) | USD Equivalent |
-| --- | --- | --- | --- |
-| Junior Developer | 0-1 year | 800,000 - 1,300,000 | Varies based on exchange rates |
-| Mid-Level Developer | 1-3 years | 1,400,000 - 2,200,000 | Varies based on exchange rates |
+**Developer Compensation:**
+
+| Role | Experience Level | Salary Range (XOF/month) | USD Equivalent |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Junior Developer | 0-1 year | 800,000 - 1,300,000 | Varies based on exchange rates |  |  |  |
+| Mid-Level Developer | 1-3 years | 1,400,000 - 2,200,000 | Varies based on exchange rates |  |  |  |
 | Senior Developer | 3+ years | 2,200,000 - 3,800,000+ | Varies based on exchange rates | **Remote (International):** | Role | Salary Range |
 | --- | --- | --- | --- | --- | --- | --- |
-| International Web3 Companies | Significant monthly compensation |
-| Consulting/Contract | Varies based on project and expertise | **Cost of Living Analysis for a Mid-Level Developer Earning Remotely:** | Expense Type | Estimated Cost (XOF/month) |
-| --- | --- | --- | --- | --- |
-| Rent (nice area) | 300,000 - 500,000 |
-| Living Expenses | 250,000 - 400,000 |
-| **Total** |
+| International Web3 Companies | Significant monthly compensation |  |  |  |  |  |
+| Consulting/Contract | Varies based on project and expertise | **Cost of Living Analysis for a Mid-Level Developer Earning Remotely:** | Expense Type | Estimated Cost (XOF/month) |  |  |
+| --- | --- | --- | --- | --- |  |  |
+| Rent (nice area) | 300,000 - 500,000 |  |  |  |  |  |
+| Living Expenses | 250,000 - 400,000 |  |  |  |  |  |
+| **Total** |  |  |  |  |  |  |
 
 **550,000 - 900,000**|
 | **Savings** |

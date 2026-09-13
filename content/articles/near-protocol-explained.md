@@ -35,7 +35,7 @@ Tokenomics snapshot: initial supply 1 billion NEAR in 2020. Annual issuance targ
 
 ## Who it is for
 
-**Developers who want simple accounts and cheap state.
+Developers who want simple accounts and cheap state.
 
 **If managing hex addresses, manual nonce tracking, and large gas buffers slows you down, NEAR named accounts with multiple access keys feel closer to web apps. FunctionCall keys let a dapp call one method up to a limit without giving away full control. Small teams appreciate that contract storage is refundable and contracts receive 30 percent of the gas they burn as a rebate.** Teams shipping cross-chain products.
 
@@ -43,7 +43,7 @@ Tokenomics snapshot: initial supply 1 billion NEAR in 2020. Annual issuance targ
 
 **If you have audited Solidity contracts and a MetaMask flow, Aurora lets you deploy without rewriting. Same Solidity, same JSON-RPC shape, but settlement inherits NEAR finality and lower fees. This helpsNFT, DeFi, and tooling teams test on testnet before committing to a full rewrite in Rust or JavaScript.** AI and agent builders.
 
-**NEAR AI docs frame NEAR as execution for agents that need confidential inference and verifiable attestations. Shade Agents run inside Trusted Execution Environments and use Chain Signatures plus Intents to move assets and call across chains. If your agent needs to hold keys, sign transactions, and prove how it decided, NEAR positions that stack as native.** Users who pay small amounts often.** Social, gaming, and move-to-earn apps benefit when a transaction costs a fraction of a cent and confirms in about a second. That cost curve makes micro-rewards and frequent actions viable without sponsoring gas.
+**NEAR AI docs frame NEAR as execution for agents that need confidential inference and verifiable attestations. Shade Agents run inside Trusted Execution Environments and use Chain Signatures plus Intents to move assets and call across chains. If your agent needs to hold keys, sign transactions, and prove how it decided, NEAR positions that stack as native.** Users who pay small amounts often. Social, gaming, and move-to-earn apps benefit when a transaction costs a fraction of a cent and confirms in about a second. That cost curve makes micro-rewards and frequent actions viable without sponsoring gas.
 
 It is less suited if you need deep Ethereum L1 compatibility at the consensus level, if you rely on tooling that only exists on a specific L1, or if you need full anonymity at the protocol layer. NEAR is transparent by default. Private execution via the planned private shard and Confidential Intents was previewed at NEARCON 2026 but is not yet the default path.
 
@@ -111,7 +111,7 @@ Gas on NEAR measures compute and storage. You attach a gas amount and a NEAR pri
 * **Burn and rebate split.** All fees collected in an epoch are burned except for a 30 percent rebate paid to the contract that was called. That rebate is why the docs say you earn from your contract's fees. The rebate creates a direct incentive to write efficient contracts.
 * **No fee market spikes like pre-4844 Ethereum.
 
-**NEAR sets a dynamic gas price that adjusts per block based on usage per shard. When a shard is busy, its gas price rises until demand shifts. Because work is sharded, one hot contract does not raise prices for an unrelated shard.
+NEAR sets a dynamic gas price that adjusts per block based on usage per shard. When a shard is busy, its gas price rises until demand shifts. Because work is sharded, one hot contract does not raise prices for an unrelated shard.
 
 ### Smart contracts and tooling
 
@@ -199,14 +199,14 @@ Confidential Intents, previewed in March 2026, add private execution inside a TE
 * Ecosystem size and liquidity. NEAR has real users, but depth of tooling and liquidity on any single app is often thinner than on Ethereum mainnet. Spreads may be wider for niche assets.
 * Inflation dynamics. Staking yield depends on total stake ratio, validator commission, and burn rate. A drop in usage can raise net issuance, which affects holders who do not stake.
 
-**Trade-off table**| Use | Gain | Cost you pay |
-| --- | --- | --- |
-| Frequent micro-transactions | Sub-cent fees and 1.3s finality | Need to handle async receipts |
-| Launch on many chains at once | One NEAR account and one contract controls 30+ chains | Trust in MPC set and verifier contract |
-| Swap BTC to USDC without wrapping UX | Solver-based routing with 1 bps base fee | Solver depth varies for very large size |
-| Port Ethereum app quickly | Aurora EVM with familiar tools | Extra settlement hop on NEAR |
-| Add privacy later | Private shard path previewed | Feature is new, audit coverage limited |
-| Keep app state cheap | Storage refund on delete plus contract gas rebate | Must manage storage staking amount per account |
+| **Trade-off table** | Use | Gain | Cost you pay |
+| --- | --- | --- | --- |
+| Frequent micro-transactions | Sub-cent fees and 1.3s finality | Need to handle async receipts |  |
+| Launch on many chains at once | One NEAR account and one contract controls 30+ chains | Trust in MPC set and verifier contract |  |
+| Swap BTC to USDC without wrapping UX | Solver-based routing with 1 bps base fee | Solver depth varies for very large size |  |
+| Port Ethereum app quickly | Aurora EVM with familiar tools | Extra settlement hop on NEAR |  |
+| Add privacy later | Private shard path previewed | Feature is new, audit coverage limited |  |
+| Keep app state cheap | Storage refund on delete plus contract gas rebate | Must manage storage staking amount per account |  |
 
 ## How to get started
 

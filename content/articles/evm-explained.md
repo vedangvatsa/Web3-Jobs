@@ -26,7 +26,7 @@ This layer sits inside every Ethereum execution client. You do not choose to use
 
 ## Who it is for
 
-**Smart contract developers.
+Smart contract developers.
 
 **If you write Solidity or Vyper, you compile to EVM bytecode. You need the stack, memory, storage, and gas rules to write cheap and safe code. Gas mistakes are expensive and storage layout mistakes are permanent.** Protocol and L2 engineers.
 
@@ -36,7 +36,7 @@ This layer sits inside every Ethereum execution client. You do not choose to use
 
 **More than 50 production networks run EVM-compatible runtimes, including BNB Chain, Polygon PoS, Avalanche C-Chain, Arbitrum One, Optimism, Base, Linea, Scroll, and zkSync Era. The EVM is the common target, but gas token, block time, finality, and security model differ.** Users who debug transactions.
 
-**If you have seen out of gas, revert, or invalid JUMP, that is the EVM halting and discarding state changes for that call frame.
+If you have seen out of gas, revert, or invalid JUMP, that is the EVM halting and discarding state changes for that call frame.
 
 If you only hold ETH and never interact with a contract, you can treat the EVM as background. If you deploy or review code, the details below affect cost, correctness, and portability.
 
@@ -66,7 +66,7 @@ A useful reference that stays current with fork changes is evm.codes, which show
 
 ### The four data areas
 
-The EVM does not follow a Von Neumann layout where code and data share the same writable memory. Code lives in a separate read-only ROM that is interactable only through specific instructions. Data lives in four areas:**1. Stack.
+The EVM does not follow a Von Neumann layout where code and data share the same writable memory. Code lives in a separate read-only ROM that is interactable only through specific instructions. Data lives in four areas:1. Stack.
 
 **A last-in first-out stack of at most 1024 items. Each item is a 256-bit word. The width matches Keccak-256 and secp256k1. Most stack ops cost 2 or 3 gas. The stack is where arithmetic happens and where other areas are addressed. Helpers like `DUPn` and `SWAPn` reorder the top 16 items without touching memory or storage.** 2. Memory.** A volatile, byte-addressable linear array. It expands when you touch a higher offset and is zero-initialized. It is wiped between transactions, shared across internal calls within the same transaction, and addressed by offset and length. Three opcodes manage it: `MSTORE` writes a 32-byte word, `MSTORE8` writes one byte, `MLOAD` reads a word, plus `MSIZE` and `MCOPY`. Memory cost is not flat. The Yellow Paper defines `C_mem(a) = G_memory * a + a^2 / 512` where `a` is memory size in words and `G_memory` is 3. Cost grows linearly to about 704 bytes (22 words) and then quadratically. As a rule of thumb, first allocation is cheap, large allocations get expensive fast.
 
@@ -140,25 +140,25 @@ Vitalik Buterin's zkEVM taxonomy is often reused to describe compatibility level
 
 - **Type 1 fully Ethereum-equivalent.
 
-**No changes to hash, state tree, or gas schedule. Taiko aims for this. Hardest to prove in a ZK circuit, easiest to sync as an L1 replica.
+No changes to hash, state tree, or gas schedule. Taiko aims for this. Hardest to prove in a ZK circuit, easiest to sync as an L1 replica.
 - **Type 2 fully EVM-equivalent.
 
-**Same bytecode behavior, small gas differences to make proofs simpler. Polygon zkEVM and Scroll target this band.
+Same bytecode behavior, small gas differences to make proofs simpler. Polygon zkEVM and Scroll target this band.
 - **Type 3 almost EVM-equivalent.
 
-**Removes a few hard-to-prove paths, requires minor contract tweaks. Historic label, fewer active projects use it as a name today.
+Removes a few hard-to-prove paths, requires minor contract tweaks. Historic label, fewer active projects use it as a name today.
 - **Type 4 high-level language equivalent.
 
-**Compiles Solidity or another high-level language to a ZK-friendly VM, not to identical EVM execution. Early zkSync Era used this path.
+Compiles Solidity or another high-level language to a ZK-friendly VM, not to identical EVM execution. Early zkSync Era used this path.
 
 For general chains, a simpler split matters:
 
 - **Standalone L1s with their own validator set and gas token.
 
-**BNB Chain (launched Sept 2020, Proof of Staked Authority with 45 validators, 3-second blocks, BNB for gas), Polygon PoS (Boren heim, about 100 validators, MATIC for gas), Avalanche C-Chain (Subnet-EVM, about 1.1 second blocks, AVAX for gas, under 2-second finality). They are independent ledgers that copy EVM semantics.
+BNB Chain (launched Sept 2020, Proof of Staked Authority with 45 validators, 3-second blocks, BNB for gas), Polygon PoS (Boren heim, about 100 validators, MATIC for gas), Avalanche C-Chain (Subnet-EVM, about 1.1 second blocks, AVAX for gas, under 2-second finality). They are independent ledgers that copy EVM semantics.
 - **Ethereum L2 rollups that inherit Ethereum settlement.
 
-**Arbitrum One and Arbitrum Nova (Nitro, Brotli batch compression), Optimism and Base (OP Stack), Linea, Scroll, zkSync Era, Polygon zkEVM. They run an EVM or EVM-equivalent execution layer and post data or proofs to Ethereum. L1 to L2 messages take minutes, L2 to L1 through the canonical bridge takes about 7 days on optimistic rollups due to the fraud window versus minutes to hours on ZK rollups after proof verification. Both now post to blobs when blob fees are low and fall back to calldata when blob fees spike.
+Arbitrum One and Arbitrum Nova (Nitro, Brotli batch compression), Optimism and Base (OP Stack), Linea, Scroll, zkSync Era, Polygon zkEVM. They run an EVM or EVM-equivalent execution layer and post data or proofs to Ethereum. L1 to L2 messages take minutes, L2 to L1 through the canonical bridge takes about 7 days on optimistic rollups due to the fraud window versus minutes to hours on ZK rollups after proof verification. Both now post to blobs when blob fees are low and fall back to calldata when blob fees spike.
 
 About half of active contract deployers target EVM bytecode even when they deploy elsewhere, which is why wallets, explorers, and debuggers assume Ethereum address format 0x followed by 40 hex characters and reuse standards like ERC-20, ERC-721, ERC-1155, and ERC-4337 account abstraction.
 
@@ -177,13 +177,13 @@ About half of active contract deployers target EVM bytecode even when they deplo
 - Historic quirks remain. `SELFDESTRUCT` semantics changed in EIP-6780, `DIFFICULTY` became `PREVRANDAO`, and several opcodes were repriced multiple times. Bytecode that hardcodes gas assumptions breaks, for example forwarding 2300 gas to a callee assumed safe before Berlin.
 - Isolation cuts features. No native randomness, no floating point, no async. Randomness must come from commit-reveal, VRF via oracles like Chainlink, or `PREVRANDAO` with economic limits. Heavy computation belongs off chain with proofs posted back.
 
-**Trade-off summary**| Choice | Gain | Cost |
-| --- | --- | --- |
-| Deploy on Ethereum L1 | Strongest settlement, widest liquidity | Highest fees when blocks are full, 12-second blocks |
-| Deploy on EVM L1 (BNB Chain, Polygon PoS, Avalanche) | Lower fees, fast confirmation under 3 seconds | Independent validator set, separate bridge and token risk |
-| Deploy on optimistic rollup (Arbitrum One, Optimism, Base) | Near-full EVM equivalence, inherited L1 security for data | 7-day canonical exit for fraud window, sequencer dependency |
-| Deploy on ZK rollup (zkSync Era, Scroll, Linea) | Faster canonical exit after proof, data compression | Prover cost, occasional gas and toolchain differences |
-| Use transient storage | 100 gas per access, simple single-tx locks | Only available on Cancun chains, revert and delegatecall namespace rules apply |
+| **Trade-off summary** | Choice | Gain | Cost |
+| --- | --- | --- | --- |
+| Deploy on Ethereum L1 | Strongest settlement, widest liquidity | Highest fees when blocks are full, 12-second blocks |  |
+| Deploy on EVM L1 (BNB Chain, Polygon PoS, Avalanche) | Lower fees, fast confirmation under 3 seconds | Independent validator set, separate bridge and token risk |  |
+| Deploy on optimistic rollup (Arbitrum One, Optimism, Base) | Near-full EVM equivalence, inherited L1 security for data | 7-day canonical exit for fraud window, sequencer dependency |  |
+| Deploy on ZK rollup (zkSync Era, Scroll, Linea) | Faster canonical exit after proof, data compression | Prover cost, occasional gas and toolchain differences |  |
+| Use transient storage | 100 gas per access, simple single-tx locks | Only available on Cancun chains, revert and delegatecall namespace rules apply |  |
 
 ## How to get started
 
@@ -196,7 +196,7 @@ About half of active contract deployers target EVM bytecode even when they deplo
 
 ### If you are a builder
 
-**Prerequisites.
+Prerequisites.
 
 **Comfort with Solidity, `forge` for tests, and a basic grasp of bytes, stacks, and hashes as the ethereum.org docs note.** 1. Set up a toolchain.
 

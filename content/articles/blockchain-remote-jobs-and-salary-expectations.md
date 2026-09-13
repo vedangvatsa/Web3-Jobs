@@ -11,7 +11,7 @@ publishedDate: '2026-03-11'
 lastUpdated: "2026-09-13"
 ---
 
-Remote work is common in blockchain companies and open-source projects because contributors, users, and infrastructure are often distributed across countries and time zones. “Remote” does not mean that location never matters. Employers may hire only in places where they have an entity or employer-of-record provider, restrict work for tax or regulatory reasons, require overlap with a team, or classify workers as employees or contractors under different terms.
+Remote work is common in blockchain companies and open-source projects because contributors, users, and infrastructure are often distributed across countries and time zones. "Remote" does not mean that location never matters. Employers may hire only in places where they have an entity or employer-of-record provider, restrict work for tax or regulatory reasons, require overlap with a team, or classify workers as employees or contractors under different terms.
 
 The practical question is not whether a role is remote in the abstract. It is whether the employer can hire you where you live, how the team works across time zones, what equipment and security rules apply, and what the written compensation package includes. Those details are more useful than a generic claim that Web3 work can be done from anywhere.
 
@@ -33,9 +33,9 @@ Start with the employer's identity. Read its website, documentation, public repo
 
 Look for the employment model. An employee offer may describe benefits, payroll, leave, and local tax withholding. A contractor arrangement may require you to handle taxes, insurance, hardware, and periods without paid work. A role paid through an employer-of-record provider can sit between these models. Ask how the relationship is classified in your country and obtain local advice if the arrangement affects your obligations.
 
-Check time-zone expectations. “Async-first” should mean the team documents decisions and does not require constant chat availability, not that no meetings exist. Ask how many recurring meetings occur, what hours need overlap, how incident coverage works, and whether travel is expected. A team with a daily meeting at an unsuitable hour may not be a good fit even if the job is described as remote.
+Check time-zone expectations. "Async-first" should mean the team documents decisions and does not require constant chat availability, not that no meetings exist. Ask how many recurring meetings occur, what hours need overlap, how incident coverage works, and whether travel is expected. A team with a daily meeting at an unsuitable hour may not be a good fit even if the job is described as remote.
 
-Review the requested location carefully. “Worldwide” can still exclude sanctioned locations, jurisdictions with employment restrictions, or places where the product cannot be marketed. Be accurate about your location. Hiding it can create payroll, compliance, and access problems after an offer.
+Review the requested location carefully. "Worldwide" can still exclude sanctioned locations, jurisdictions with employment restrictions, or places where the product cannot be marketed. Be accurate about your location. Hiding it can create payroll, compliance, and access problems after an offer.
 
 ## Discussing salary and total compensation
 
@@ -61,7 +61,7 @@ Tailor the application. Refer to the product, role, and a relevant problem you c
 
 ## Work effectively across time zones
 
-Asynchronous work depends on writing decisions down. Replace “I will explain it in a call” with a short document that states the goal, context, proposed approach, alternatives, risks, owner, and deadline. Link the document from the relevant issue or pull request. This lets colleagues in another time zone review the actual decision rather than reconstructing it from chat messages.
+Asynchronous work depends on writing decisions down. Replace "I will explain it in a call" with a short document that states the goal, context, proposed approach, alternatives, risks, owner, and deadline. Link the document from the relevant issue or pull request. This lets colleagues in another time zone review the actual decision rather than reconstructing it from chat messages.
 
 Use status updates that answer concrete questions: what changed, what is blocked, what decision is needed, and when you will return with an answer. Avoid constant availability as a substitute for communication. A teammate should know whether a task is progressing without having to ask repeatedly.
 

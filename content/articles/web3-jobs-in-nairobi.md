@@ -42,7 +42,9 @@ The demand for Web3 talent in Nairobi is increasing rapidly, particularly for de
 
 ### Compensation and Opportunity Overview
 
-**Developer Track:**| Experience Level | Local Salary (KES/month) | USD Equivalent (approx.) |
+**Developer Track:**
+
+| Experience Level | Local Salary (KES/month) | USD Equivalent (approx.) |
 | --- | --- | --- |
 | Junior Developer (0-1 year) | 150,000 - 250,000 | Varies |
 | Mid-Level Developer (1-3 years) | 250,000 - 450,000 | Varies |

@@ -148,11 +148,11 @@ This is a minimal path that works on Quest 3, Vision Pro, and desktop with one c
 
 2. **Author a small glTF asset.
 
-**Build in Blender 4.x and export with the glTF exporter. Keep one PBR material, one directional light, Draco compression, and textures at 1024 or 2048. Add a USD source next to it if you need composition later. Validate at https://github.khronos.org/glTF-Validator/.
+Build in Blender 4.x and export with the glTF exporter. Keep one PBR material, one directional light, Draco compression, and textures at 1024 or 2048. Add a USD source next to it if you need composition later. Validate at https://github.khronos.org/glTF-Validator/.
 
 3. **Add session detection and UX.
 
-**Render a 2D page by default. After load, run:
+Render a 2D page by default. After load, run:
 
    ```js
    const xr = navigator.xr;
@@ -180,7 +180,7 @@ This is a minimal path that works on Quest 3, Vision Pro, and desktop with one c
 
 6. **Handle Vision Pro input.
 
-**Design for gaze and pinch, not trigger and grip. Make targets at least 1.5 degrees, add hover affordances, and do not require two-handed grabs. Eye tracking selection is dwell plus pinch, so avoid tiny controls. Apple added the transient-pointer mode to the W3C spec for this device, and Safari exposes that mode by default since visionOS 2.
+Design for gaze and pinch, not trigger and grip. Make targets at least 1.5 degrees, add hover affordances, and do not require two-handed grabs. Eye tracking selection is dwell plus pinch, so avoid tiny controls. Apple added the transient-pointer mode to the W3C spec for this device, and Safari exposes that mode by default since visionOS 2.
 
 7. **Add spatial features progressively.
 
@@ -192,7 +192,7 @@ This is a minimal path that works on Quest 3, Vision Pro, and desktop with one c
 
 9. **Measure what matters.
 
-**Track entry rate by device, session start success, average session length, placement success for AR, and shader compile time. Shopify teams report using visit duration and wishlist actions for showroom variants.
+Track entry rate by device, session start success, average session length, placement success for AR, and shader compile time. Shopify teams report using visit duration and wishlist actions for showroom variants.
 
 10. **Test on real hardware, not just simulators.**
     The WebXR emulator extension helps, but check on at least one Quest 3 and one Vision Pro before launch. The vrc.org.au March 2026 test notes show that performance and module support still vary enough to affect production decisions.
@@ -221,7 +221,7 @@ Hiring in this area clusters into four roles you will see on Hashtag Web3 and si
 * **Spatial interaction designer.** Hand tracking, gaze and pinch, spatial anchors, and comfort guidelines. The job is to make large UI targets and confirm actions without controllers.
 * **Interoperability and standards engineer.
 
-**Rare and paid well. Works on glTF extensions, OpenXR runtime integration, or browser implementation parity across Chromium and WebKit.
+Rare and paid well. Works on glTF extensions, OpenXR runtime integration, or browser implementation parity across Chromium and WebKit.
 
 When you apply, show a link that works on Quest and on desktop inline. Recruiters can check it in seconds. That matters more than a native APK they must install.
 

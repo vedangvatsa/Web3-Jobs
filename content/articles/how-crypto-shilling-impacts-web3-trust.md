@@ -32,7 +32,7 @@ New and inexperienced retail investors are the primary victims of shilling. Attr
 
 **Shilling encourages a culture that prioritizes immediate hype over long-term sustainability. It creates a "casino-like" atmosphere where quick profits take precedence over supporting projects with real utility and a viable long-term vision. This behavior diverts resources and talent from essential projects that contribute to the foundational infrastructure of Web3.** 4. Attracting Regulatory Attention
 
-**The prevalence of shilling and pump-and-dump schemes draws the scrutiny of regulators. Promoting a security (which many tokens may qualify as) without disclosing compensation is illegal in multiple jurisdictions. High-profile shilling incidents provide regulators with justification for heavy-handed enforcement actions, potentially harming the entire industry.
+The prevalence of shilling and pump-and-dump schemes draws the scrutiny of regulators. Promoting a security (which many tokens may qualify as) without disclosing compensation is illegal in multiple jurisdictions. High-profile shilling incidents provide regulators with justification for heavy-handed enforcement actions, potentially harming the entire industry.
 
 ### Towards a Culture of Transparency
 

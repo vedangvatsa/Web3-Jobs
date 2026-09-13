@@ -14,9 +14,9 @@ The [Web3](/what-is-web3) job market is highly competitive, with thousands of sk
 
 One effective strategy can significantly enhance your visibility and improve your chances of securing a job. This approach aligns with the Web3 principle of permissionless contribution.
 
-**The key is straightforward: Begin performing the job before you officially hold the position.
+The key is straightforward: Begin performing the job before you officially hold the position.
 
-**Identify a project that resonates with you, pinpoint a minor issue they face, and resolve it publicly without seeking prior approval. This act of proactive contribution surpasses any resume, cover letter, or networking outreach. It represents tangible evidence of your skills and commitment.
+Identify a project that resonates with you, pinpoint a minor issue they face, and resolve it publicly without seeking prior approval. This act of proactive contribution surpasses any resume, cover letter, or networking outreach. It represents tangible evidence of your skills and commitment.
 
 ### Understanding Why This Strategy Works
 

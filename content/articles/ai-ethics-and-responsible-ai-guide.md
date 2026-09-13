@@ -32,7 +32,7 @@ Both sources treat ethics as continuous risk management across the AI life cycle
 * **People who use AI tools at work.** Recruiters, analysts, marketers, and managers who paste customer data into chatbots, rely on generated summaries, or act on model scores. You are responsible for what you share and what you accept.
 * **Policy, risk, and operations roles.
 
-**In regulated sectors, auditors and legal teams now ask for evidence of AI governance even where frameworks are nominally voluntary.
+In regulated sectors, auditors and legal teams now ask for evidence of AI governance even where frameworks are nominally voluntary.
 
 If you touch AI decisions or the data behind them, these issues apply to you.
 
@@ -40,7 +40,7 @@ If you touch AI decisions or the data behind them, these issues apply to you.
 
 ### 1. Bias and fairness
 
-**How it works.
+How it works.
 
 **Models learn patterns from historical data. If that data reflects past exclusion, the model treats exclusion as a signal. Bias can enter at collection, labeling, feature selection, or when human reviewers systematically downgrade certain groups. The model then applies the pattern consistently and at scale.** Verified case: hiring.
 
@@ -48,7 +48,7 @@ If you touch AI decisions or the data behind them, these issues apply to you.
 
 **In 2016, ProPublica analyzed COMPAS risk scores for defendants in Broward County, Florida, who were scored in 2013 to 2014. ProPublica found that Black defendants who did not reoffend were more likely to be flagged as higher risk than white defendants who did not reoffend, using false positive rate as the fairness measure. The developer, Northpointe (now Equivant), responded that the scores satisfied a different measure, predictive parity. Later research, notably Barenstein's 2019 re-analysis on arXiv, showed ProPublica's two-year recidivism datasets kept recidivists with post-cutoff screening dates while dropping non-recidivists after April 1, 2014, which inflated overall recidivism rates. That processing error does not erase the disparity ProPublica reported in false positive and false negative rates, but it shows why datasets and metrics need independent checking. The broader point stands: small choices in data handling change fairness conclusions.** What this means for you.
 
-**Any model trained on historical hiring, lending, or enforcement data will carry that history forward unless you test for it. In the United States, New York City Local Law 144, in effect since 2023, requires employers using automated employment decision tools to conduct an annual bias audit and publish a summary. Under the EU AI Act, AI used for recruitment, promotions, or work assignment is listed in Annex III as high risk and will require a conformity assessment, data governance, human oversight, and registration before deployment. Those obligations start to apply on August 2, 2026, with some exceptions for systems already on the market.** How to reduce the risk.**
+**Any model trained on historical hiring, lending, or enforcement data will carry that history forward unless you test for it. In the United States, New York City Local Law 144, in effect since 2023, requires employers using automated employment decision tools to conduct an annual bias audit and publish a summary. Under the EU AI Act, AI used for recruitment, promotions, or work assignment is listed in Annex III as high risk and will require a conformity assessment, data governance, human oversight, and registration before deployment. Those obligations start to apply on August 2, 2026, with some exceptions for systems already on the market.** How to reduce the risk.
 * Audit datasets for representation before training, and document known gaps.
 * Test error rates separately for relevant groups, not just overall accuracy. Report false positives and false negatives by group.
 * Keep human review in the loop for consequential decisions, and allow candidates to contest or correct inputs.
@@ -56,13 +56,13 @@ If you touch AI decisions or the data behind them, these issues apply to you.
 
 ### 2. Privacy and data leakage
 
-**How it works.
+How it works.
 
 **Large language models are trained on vast web crawls that often include personal data. Research has shown they can memorize strings that appeared in training and reproduce them when prompted, especially text that was repeated. Separate from training, any personal data you paste into a prompt can be logged, retained, or used for further training depending on the product's settings.** What official research says.
 
 **Carlini et al., "Extracting Training Data from Large Language Models," presented at USENIX Security 2021 and extended in "Quantifying Memorization" in 2022, demonstrated that an adversary can extract individual training examples by querying a model, with success tied to repetition and model size. Subsequent work, including Nasr et al. in 2023 and the PII-Scope benchmark in 2024, found that personally identifiable information such as emails from datasets like Enron can be elicited with targeted prompts. NIST notes in its Generative AI Profile (NIST AI 600-1, July 2024) that training-data leakage is a distinct privacy risk for generative systems. Under the EU General Data Protection Regulation (GDPR) and the EU AI Act, providers must address data governance and cybersecurity for personal data.** Impact.
 
-**Leakage can expose contact details, health or financial information that was scraped, or non-public data an employee pasted into a public chatbot. Even partial leakage can enable phishing or identity theft.** How to reduce the risk.**
+**Leakage can expose contact details, health or financial information that was scraped, or non-public data an employee pasted into a public chatbot. Even partial leakage can enable phishing or identity theft.** How to reduce the risk.
 * Strip or de-identify personally identifiable information before training, and keep a record of source data.
 * Do not paste sensitive customer, employee, or health data into public models unless you have a contract that excludes retention and training.
 * Use filters and output checks that block known patterns such as emails, IDs, and access keys.
@@ -71,11 +71,11 @@ If you touch AI decisions or the data behind them, these issues apply to you.
 
 ### 3. Accountability and transparency
 
-**How it works.
+How it works.
 
 **Many modern models, especially deep neural networks with millions or billions of parameters, are complex enough that the exact reason for a single prediction is not obvious from weights alone. Researchers call this the black box property. Without added explanation, a person denied a loan, a job interview, or a claim cannot understand what to change, and an engineer cannot reliably debug the error.** What counts as explanation.
 
-**NIST's "Four Principles of Explainable AI" (NIST IR 8312, September 2021) defines four properties for systems that are expected to be explainable: Explanation (the system provides reasons or evidence), Meaningful (the explanation is understandable to the intended user), Explanation Accuracy (the explanation actually reflects the process behind the output), and Knowledge Limits (the system only operates within conditions it was designed for and flags low confidence). DARPA's earlier Explainable AI program, now complete, produced a portfolio of methods that trade some accuracy for interpretability.
+NIST's "Four Principles of Explainable AI" (NIST IR 8312, September 2021) defines four properties for systems that are expected to be explainable: Explanation (the system provides reasons or evidence), Meaningful (the explanation is understandable to the intended user), Explanation Accuracy (the explanation actually reflects the process behind the output), and Knowledge Limits (the system only operates within conditions it was designed for and flags low confidence). DARPA's earlier Explainable AI program, now complete, produced a portfolio of methods that trade some accuracy for interpretability.
 
 EU law now makes transparency more than a best practice. Under the EU AI Act, limited-risk systems such as chatbots must disclose that users are interacting with AI. Providers of generative systems must ensure AI-generated content is identifiable, and certain synthetic content such as deep fakes must be clearly labeled. Those transparency rules apply from August 2026. For high-risk systems, providers must supply technical documentation, logging, and human oversight that together create the ability to trace and challenge a decision.**How to reduce the risk.**
 * Define who owns the system and who can halt it. Accountability requires a named person or role with authority.
@@ -94,11 +94,11 @@ NIST's taxonomy "Adversarial Machine Learning: A Taxonomy and Terminology of Att
 * **Privacy attacks.** Membership inference or model extraction attempts to learn whether a record was in training or to copy the model.
 * **Abuse and misuse of generative AI.
 
-**Using generative systems to create harmful content at scale.
+Using generative systems to create harmful content at scale.
 
-The report covers both predictive AI and generative AI and notes that attack methods apply across supervised, unsupervised, federated, and reinforcement learning.**Impact.
+The report covers both predictive AI and generative AI and notes that attack methods apply across supervised, unsupervised, federated, and reinforcement learning.Impact.
 
-**In low-stakes uses like spam filtering, errors are an inconvenience. In high-stakes uses such as autonomous driving, medical diagnosis, or critical infrastructure, evasion or poisoning can cause physical harm or widespread disruption. NIST released a concept note in April 2026 for an AI RMF Profile for critical infrastructure to address this specifically.** How to reduce the risk.**
+**In low-stakes uses like spam filtering, errors are an inconvenience. In high-stakes uses such as autonomous driving, medical diagnosis, or critical infrastructure, evasion or poisoning can cause physical harm or widespread disruption. NIST released a concept note in April 2026 for an AI RMF Profile for critical infrastructure to address this specifically.** How to reduce the risk.
 * Treat AI systems as attack surfaces. Run red teaming where a separate team actively tries to break the model.
 * Test with adversarial examples and corrupted inputs, not just clean test sets.
 * Track provenance for data and third-party components, including open-source models and datasets.
@@ -168,7 +168,7 @@ Use NIST's four functions as a working structure. You do not need to be a large 
 * **Regulatory coverage varies by region.** The EU has a horizontal, risk-based law with detailed phase-in dates. The United States does not have a single national AI law. Federal direction has shifted from Biden's Executive Order 14110 on Safe, Secure, and Trustworthy AI (October 30, 2023) to its revocation on January 20, 2025, and the January 23, 2025 Executive Order on Removing Barriers to American Leadership in AI, which frames policy around competitiveness and directed agencies to rescind prior actions based on EO 14110 and to produce an AI Action Plan by July 22, 2025. States and cities, such as New York City with hiring audits and California and Illinois with hiring and privacy proposals, have created their own rules. If you operate across jurisdictions, you must design for the most demanding applicable standard.
 * **AI can help but does not replace domain judgment.
 
-**In sensitive domains, AI can flag patterns faster than manual review, but it inherits blind spots from its data. Human judgment is still required for contested interpretations, novel cases, and final accountability.
+In sensitive domains, AI can flag patterns faster than manual review, but it inherits blind spots from its data. Human judgment is still required for contested interpretations, novel cases, and final accountability.
 
 ## Frequently asked questions
 
@@ -185,7 +185,7 @@ Everyone in the chain, but responsibility must be explicit. Developers choose da
 * **United States, federal.** There is no complete AI statute. EO 14110 created reporting and safety commitments in 2023, but it was revoked in January 2025. The current executive direction directs agencies to remove barriers to AI development and to prepare an AI Action Plan. NIST frameworks remain voluntary but are increasingly referenced in procurement and sector guidance. Sector regulators such as the FTC point to existing laws on deception and discrimination as applicable to AI claims and outputs.
 * **Other jurisdictions.
 
-**The United Kingdom has taken a sector-based approach coordinated through its AI Safety Institute. Japan, Canada, and others have issued guidance aligned with OECD principles. If you sell or deploy in multiple regions, check both national rules and local ones like New York City's hiring audit law. All dates above reflect EUR-Lex and the White House's published executive actions as of mid-2026.
+The United Kingdom has taken a sector-based approach coordinated through its AI Safety Institute. Japan, Canada, and others have issued guidance aligned with OECD principles. If you sell or deploy in multiple regions, check both national rules and local ones like New York City's hiring audit law. All dates above reflect EUR-Lex and the White House's published executive actions as of mid-2026.
 
 #### 4. What ethical duties do users of AI tools have?
 

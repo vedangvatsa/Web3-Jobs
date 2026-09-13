@@ -228,7 +228,9 @@ anvil --version
 
 Alternatives: download prebuilt binaries from github.com/foundry-rs/foundry/releases, Docker via `ghcr.io/foundry-rs/foundry`, or build with `cargo install --git https://github.com/foundry-rs/foundry --profile release --locked forge cast anvil chisel`.
 
-**Create and build a project**```bash
+**Create and build a project**
+
+```bash
 forge init my-project
 cd my-project
 forge build
@@ -237,7 +239,9 @@ forge test
 
 `forge init` pulls `forge-std` as a submodule into `lib/forge-std`. Inside an existing directory use `forge init --force`. Dependencies are added with `forge install OpenZeppelin/openzeppelin-contracts` and removed with `forge remove`. The Soldeer package manager is an alternative at getfoundry.sh/projects/soldeer.
 
-**Common tasks**```bash
+**Common tasks**
+
+```bash
 forge fmt                 # format Solidity
 forge lint                # lint, see getfoundry.sh/forge/linting
 forge inspect Counter storage-layout

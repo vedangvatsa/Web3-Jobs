@@ -26,7 +26,7 @@ As of August 2026, web3.career listed 40,840 open blockchain jobs at 7,304 proje
 
 ## Who it is for
 
-**If you write code.
+If you write code.
 
 **You will see four developer tracks here. Frontend and full-stack dApp work rewards React and TypeScript fluency plus wallet integration. Smart contract and protocol work rewards Solidity or Rust plus security habits. If you like shipping product, start with dApp. If you like systems depth, start with protocol or security.** If you do not write production code.
 
@@ -34,13 +34,13 @@ As of August 2026, web3.career listed 40,840 open blockchain jobs at 7,304 proje
 
 **This hub gives you the cheapest path to proof of work for each track, usually a shipped artifact you can link to, not a long course.** If you are switching from Web2 or TradFi.
 
-**You will learn how your current skills map. Backend engineers map to smart contract or protocol. Product marketers map to Web3 marketing and growth. Risk and audit backgrounds map to tokenomics, compliance, and security analysis.
+You will learn how your current skills map. Backend engineers map to smart contract or protocol. Product marketers map to Web3 marketing and growth. Risk and audit backgrounds map to tokenomics, compliance, and security analysis.
 
 You will not find role counts by track or language targets in the excerpt. The salary and pay ranges reported here cover about forty tracks with regional breakdowns and seniority bands, not granular role-count leaders. We note that limit explicitly so you can plan without inventing supply data or language-share numbers we cannot source.
 
 ## How Web3 hiring actually works
 
-**Proof of work beats pedigree.
+Proof of work beats pedigree.
 
 **Hiring managers ask for links, not claims. A deployed contract on a testnet, a Dune dashboard, a governance forum summary, or a support playbook counts more than a polished cover letter. Teams keep portfolios public on GitHub, Mirror or Substack, and Dune, and they review threads on X as a writing sample.** Process is short and practical.
 
@@ -50,7 +50,7 @@ You will not find role counts by track or language targets in the excerpt. The s
 
 **FindFi's salary guide for 2025 to 2026, dated 9 February 2026, states that every listing on its platform includes a range and that token grants typically vest over 4 years with a 1-year cliff and can add 20 to 100 percent on top of base depending on stage and liquidity. Most funded companies pay base in fiat or stablecoins such as USDC and add tokens as upside. Remote-global roles often pay 10 to 20 percent below Bay Area numbers, and 10 to 40 percent lower by region according to CoinTerminal's survey of 2026 listings. Treat tokens as upside and confirm fully diluted valuation and liquidity before you sign.** Remote is the default, with hubs for specific functions.
 
-**Web3.career and CoinTerminal both describe a remote-first market. Institutional roles in compliance and trading still cluster in New York, London, Berlin, Singapore and Dubai and pay more on site. If you need timezone overlap, trading desks and support rotations state it in the posting.
+Web3.career and CoinTerminal both describe a remote-first market. Institutional roles in compliance and trading still cluster in New York, London, Berlin, Singapore and Dubai and pay more on site. If you need timezone overlap, trading desks and support rotations state it in the posting.
 
 ## Roles at a glance
 
@@ -257,17 +257,17 @@ Deep dive: [Web3 Community Manager Career](/web3-community-manager-career).
 
 ## How to use this set of guides
 
-**Pick a track in one hour.
+Pick a track in one hour.
 
-**Answer three questions in order:
+Answer three questions in order:
 
 1. Do you prefer building or coordinating? Building points to developer, data, and design. Coordinating points to community, BD, product, and operations.
 2. Do you prefer deep technical depth or broader scope? Depth points to protocol and security. Scope points to dApp, product, and marketing.
 3. What proof can you ship in two weeks? Choose the track where you can publish one linkable artifact fastest.
 
-If two tracks tie, choose the one where you can answer hiring managers with the same artifact you used to learn.**Follow the guide for that track.
+If two tracks tie, choose the one where you can answer hiring managers with the same artifact you used to learn.Follow the guide for that track.
 
-**Each guide follows the same structure so you can move quickly:
+Each guide follows the same structure so you can move quickly:
 
 - What it is, who it is for, and where hiring concentrates
 - Core tasks with tools you will actually open
@@ -275,13 +275,13 @@ If two tracks tie, choose the one where you can answer hiring managers with the 
 - A break-in plan that starts with one track per month, not many at once, with a checklist of shipped links to maintain momentum
 - Red flags that signal churn or funding risk, such as token-only pay from unfunded teams or multi-week unpaid trials**Keep a single portfolio page.
 
-**Collect links in one place: GitHub, Mirror or Substack, Dune, governance forum posts, and any bounty receipts. Teams check this page before they check a resume.
+Collect links in one place: GitHub, Mirror or Substack, Dune, governance forum posts, and any bounty receipts. Teams check this page before they check a resume.
 
 ## A 30-day plan that works with these guides
 
 This plan mirrors the learn path in Hashtag Web3's careers course and the hiring pattern described by CryptoJobsList, CoinTerminal, and Blockchain Council.
 
-**Week 1: Foundation and wallets.
+Week 1: Foundation and wallets.
 
 **Set up a self-custody wallet, try a testnet transaction, and read the docs for two protocols you like. Follow 20 hiring managers and builders on X who post real job tasks.** Week 2: Build one artifact.
 
@@ -289,7 +289,7 @@ This plan mirrors the learn path in Hashtag Web3's careers course and the hiring
 
 **Complete a bounty on Gitcoin or Dework, or submit a docs PR to a protocol. Add the receipt or PR link to your portfolio and write a 150-word note on what you would improve next time.** Week 4: Apply with relevance.
 
-**Apply to 10 to 15 roles where you can cite product use and one idea for improvement. Tailor each note to the product. Prepare for interviews by using the product again and reading its governance forum for recent decisions. After an offer, confirm base in fiat or stablecoin, token amount, vesting schedule, cliff, fully diluted valuation, and liquidity terms in writing.
+Apply to 10 to 15 roles where you can cite product use and one idea for improvement. Tailor each note to the product. Prepare for interviews by using the product again and reading its governance forum for recent decisions. After an offer, confirm base in fiat or stablecoin, token amount, vesting schedule, cliff, fully diluted valuation, and liquidity terms in writing.
 
 Across these steps, block about 30 percent for learning, 20 percent for creating, 40 percent for core work, and 10 percent for deliberate networking if you are already in a full-time role. Those ratios appear in the learn path and help you avoid spending all time on courses with nothing shipped.
 
@@ -310,7 +310,7 @@ Weigh these with plain numbers. If you need stability, negotiate a base you can 
 
 ## How to choose between close alternatives
 
-**Smart contract developer vs protocol engineer.
+Smart contract developer vs protocol engineer.
 
 **Choose smart contracts if you like shipping product logic on an existing chain. Choose protocol if you like low-level performance and spec work. Both pay well at senior levels. Protocol has fewer entry roles.** Community vs marketing.
 
@@ -318,7 +318,7 @@ Weigh these with plain numbers. If you need stability, negotiate a base you can 
 
 **Choose product if you like defining what to build. Choose BD if you like making integrations close and keeping partners live. Both need tokenomics literacy, but product centers on roadmap trade-offs and BD centers on deal structure.** Data analyst vs security.
 
-**Choose data if you like SQL and dashboards that guide decisions. Choose security if you like adversarial review. Data offers the clearest entry via public dashboards. Security offers the steepest premium.
+Choose data if you like SQL and dashboards that guide decisions. Choose security if you like adversarial review. Data offers the clearest entry via public dashboards. Security offers the steepest premium.
 
 ## FAQ
 

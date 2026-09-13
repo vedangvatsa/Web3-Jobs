@@ -35,7 +35,7 @@ Two prominent projects are leading the charge in building the open social graph:
 - **Architecture:**Farcaster employs a hybrid approach that balances decentralization. Your identity exists as an [NFT](/what-are-nfts) on the [Ethereum](/what-is-ethereum) Layer 2 network called Optimism. Posts, likes, and follows are stored off-chain within a peer-to-peer network of servers known as "Hubs."
 - **Ecosystem:** This structure enables a rich ecosystem of clients.
 
-**Warpcast ** stands out as the most popular client, but many others offer distinct user experiences.
+**Warpcast** stands out as the most popular client, but many others offer distinct user experiences.
 
 **2. Lens Protocol**
 

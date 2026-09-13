@@ -37,7 +37,7 @@ If you only need the headline: the Merge was a consensus change to reduce energy
 * **Mainnet (execution layer).** Live since July 30, 2015. Secured by proof-of-work and miners competing with Ethash. Average block time about 13.3 seconds. Uncle blocks and the GHOST protocol helped handle short-term forks.
 * **Beacon Chain (consensus layer).
 
-**Launched December 1, 2020. A separate proof-of-stake chain with no real Mainnet transactions. It managed validators, attestations, and the fork choice rules. It ran live for about 21 months to prove proof-of-stake worked before touching user funds.
+Launched December 1, 2020. A separate proof-of-stake chain with no real Mainnet transactions. It managed validators, attestations, and the fork choice rules. It ran live for about 21 months to prove proof-of-stake worked before touching user funds.
 
 Developers tested the hand-off for more than a year on testnets. Ropsten, Sepolia, and Goerli each went through their own merges before Mainnet.
 
@@ -62,7 +62,7 @@ After the hand-off, a full node is the pair of clients. Running only one side le
 
 ### How consensus works after the Merge
 
-**Attestations and fork choice.
+Attestations and fork choice.
 
 **Validators attest to the block they see as the head. The fork choice rule is LMD-GHOST (Latest Message Driven Greediest Heaviest Observed SubTree). In simple terms, the chain with the greatest weight of latest validator votes is the canonical head. The execution layer still validates transactions, but whether a payload is canonical depends on the surrounding consensus block.** Finality with Gasper and Casper FFG.
 
@@ -70,13 +70,13 @@ After the hand-off, a full node is the pair of clients. Running only one side le
 
 **Issuance goes to validators who attest and propose correctly. Offline validators miss rewards and incur small penalties. Validators who equivocate by proposing two blocks in one slot, or who submit contradictory attestations, can be slashed. Slashing starts with an immediate penalty of about 1/4096 of effective balance (up to 0.5 ETH), adds a correlation penalty around day 18 if many validators are slashed together, and ends with ejection around day 36. The correlation penalty means a solo mistake costs less than a coordinated attack, which can destroy the full stake.** Randomness, timing, and opcodes.
 
-**Applications that used difficulty as randomness now read prevRandao from the PREVRANDAO opcode (0x44, previously DIFFICULTY). Block times became fixed 12-second slots instead of variable proof-of-work intervals, so average block production is about 10 percent more frequent than before. Safe head and finalized block tags were introduced for confirmations; many apps now check the finalized tag instead of a count of confirmations.
+Applications that used difficulty as randomness now read prevRandao from the PREVRANDAO opcode (0x44, previously DIFFICULTY). Block times became fixed 12-second slots instead of variable proof-of-work intervals, so average block production is about 10 percent more frequent than before. Safe head and finalized block tags were introduced for confirmations; many apps now check the finalized tag instead of a count of confirmations.
 
 ## What changed, what did not, and the trade-offs
 
 ### What the Merge delivered
 
-**Energy.
+Energy.
 
 **The largest measurable change. Per ethereum.org and the CCRI bottom-up study commissioned before the Merge, annualized network energy use fell from about 21 TWh per year under proof-of-work to about 0.0026 TWh per year after, about 2,601 MWh. Carbon fell from about 11,016,000 tonnes CO2e to about 870 tonnes. That is a reduction of about 99.95 percent on ethereum.org's summary, and 99.988 percent electricity and 99.992 percent carbon in the CCRI figures. Either way, mining hardware no longer secures Ethereum.** Issuance.
 
@@ -84,7 +84,7 @@ After the hand-off, a full node is the pair of clients. Running only one side le
 
 **Mining needed specialized rigs and cheap power. Validating needs 32 ETH to activate a validator, plus a consumer machine with about 1 to 2 TB of storage, a stable internet connection, and uptime. The deposit joins an activation queue that limits how fast new validators join. Pools and staking services let users participate with less than 32 ETH, but they add counterparty risk. The result is lower hardware barriers and more participants counted as block producers, but capital requirements remain high for solo stakers.** Security model.
 
-**Proof-of-work security was the cost of energy and hardware to out-mine the chain. Proof-of-stake security is the cost to acquire and risk losing staked ETH. A 51 percent style attack now means controlling a majority of staked ETH and voting it dishonestly, which can be slashed and, if needed, socially forked away by the community's choice of client. Research and client implementation make long-range attacks and many reorg forms harder than under the old rules, though no system removes all attack vectors.** Roadmap enablement.** The Merge did not itself add data space for rollups. It removed the proof-of-work constraint that blocked sharding and data availability sampling. That opened the path to later upgrades like EIP-4844 Proto-Danksharding, which shipped with Dencun on March 13, 2024 and cut rollup data costs by adding blob-carrying transactions.
+**Proof-of-work security was the cost of energy and hardware to out-mine the chain. Proof-of-stake security is the cost to acquire and risk losing staked ETH. A 51 percent style attack now means controlling a majority of staked ETH and voting it dishonestly, which can be slashed and, if needed, socially forked away by the community's choice of client. Research and client implementation make long-range attacks and many reorg forms harder than under the old rules, though no system removes all attack vectors.** Roadmap enablement. The Merge did not itself add data space for rollups. It removed the proof-of-work constraint that blocked sharding and data availability sampling. That opened the path to later upgrades like EIP-4844 Proto-Danksharding, which shipped with Dencun on March 13, 2024 and cut rollup data costs by adding blob-carrying transactions.
 
 ### What the Merge did not do
 
@@ -93,7 +93,7 @@ After the hand-off, a full node is the pair of clients. Running only one side le
 * **It did not enable staking withdrawals.** Withdrawals stayed disabled until the Shanghai/Capella upgrade on April 12, 2023. Only fee tips and MEV went to the validator's fee recipient right away. Staked principal and consensus rewards stayed locked until that later upgrade, and exits are still rate limited to about 0.33 percent of staked ETH per day.
 * **It did not require users to swap tokens.
 
-**There is no ETH1 or ETH2, no new address format, and no migration. Anyone who offered a swap was running a scam.
+There is no ETH1 or ETH2, no new address format, and no migration. Anyone who offered a swap was running a scam.
 
 ### Honest trade-offs
 

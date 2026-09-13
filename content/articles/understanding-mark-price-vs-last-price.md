@@ -34,7 +34,7 @@ The Mark Price serves as the benchmark for margin and liquidation calculations w
 
 - **Calculation Method**: Typically, the Mark Price is computed using a formula that combines the
 
-**Index Price ** with a moving average of the**basis**, which is the difference between the Last Price and the Index Price. This formula smooths out short-term fluctuations, allowing the Mark Price to converge toward the Index Price over time. The formula is represented as follows:
+**Index Price** with a moving average of the**basis**, which is the difference between the Last Price and the Index Price. This formula smooths out short-term fluctuations, allowing the Mark Price to converge toward the Index Price over time. The formula is represented as follows:
 
  ```
  Mark Price = Index Price + Moving Average (Last Price - Index Price)

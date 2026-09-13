@@ -18,7 +18,9 @@ In Argentina, cryptocurrency functions as a practical financial tool rather than
 
 Effective marketing in Argentina begins with a clear understanding of user behavior and motivations. Argentinian crypto users are not typically speculative investors. They are often everyday individuals, a [freelancer](/how-to-start-freelancing-for-beginners), small business owner, or saver, using crypto to safeguard their family's financial future.
 
-**Key User Personas:**| Persona | Description | Primary Needs |
+**Key User Personas:**
+
+| Persona | Description | Primary Needs |
 | --- | --- | --- |
 | **The Saver** | Converts pesos to stablecoins (e.g., USDC, USDT) upon receiving payment. Values wealth preservation. | Security of stablecoin platforms |
 | **The Freelancer/Exporter** | Works with international clients and receives payments in crypto to bypass capital controls. | Efficient off-ramping options for local expenses |

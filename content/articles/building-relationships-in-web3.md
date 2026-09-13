@@ -21,9 +21,9 @@ In Web3, community and collaboration form the foundation of professional growth.
 
 ### Peer Networks
 
-**Other Builders and Developers
+Other Builders and Developers
 
-**Collaborating with fellow builders allows for the exchange of ideas and resources. This can include:
+Collaborating with fellow builders allows for the exchange of ideas and resources. This can include:
 
 - Joint project development
 - Peer reviews for code and concepts
@@ -101,7 +101,7 @@ Consistency is key in relationship-building:
 
 ### Online Platforms
 
-**Discord Servers
+Discord Servers
 
 **These are often the most active spaces for immediate interaction. They enable real conversations and connect you directly with the core team and community members.** Twitter/X
 
@@ -109,11 +109,11 @@ Consistency is key in relationship-building:
 
 **Demonstrate your technical skills through collaborative coding projects. Engage with others' code to learn and contribute meaningfully.** Telegram and Dedicated Chats
 
-**These platforms enable more intimate conversations, enabling deeper connections focused on specific projects or groups.
+These platforms enable more intimate conversations, enabling deeper connections focused on specific projects or groups.
 
 ### In-Person Events
 
-**Conferences
+Conferences
 
 **These larger gatherings provide vast networking opportunities and a chance to meet online acquaintances. Aim to attend several major conferences each year for maximum impact.** Hackathons
 
@@ -121,7 +121,7 @@ Consistency is key in relationship-building:
 
 **Regular meetups can create recurring opportunities to build relationships in a more intimate setting, allowing for deeper conversations within your geographical area.** Retreats and Off-Sites
 
-**These events offer deep bonding experiences with core groups, often exclusive to members of specific DAOs or projects, leading to lasting relationships.
+These events offer deep bonding experiences with core groups, often exclusive to members of specific DAOs or projects, leading to lasting relationships.
 
 ## Maintenance of Professional Relationships
 

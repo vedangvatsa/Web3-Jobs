@@ -25,9 +25,9 @@ The primary objective of onboarding is to bridge the "context gap." For example,
 
 Implementing a structured 30-day onboarding plan can make the transition smoother for new hires.
 
-**Week 1: Immersion and Cultural Onboarding
+Week 1: Immersion and Cultural Onboarding
 
-**The first week should concentrate on learning and cultural immersion rather than specific job tasks.
+The first week should concentrate on learning and cultural immersion rather than specific job tasks.
 
 - **The "Rabbit Hole" Assignment:** The new hire's task during the first week is to explore the foundational aspects of crypto. Provide a curated list of resources:
  - **Reading:** Essential articles covering basics such as [What is Web3?](/what-is-web3), [What is a Blockchain?](/what-is-a-blockchain), and [What is DeFi?](/what-is-defi).

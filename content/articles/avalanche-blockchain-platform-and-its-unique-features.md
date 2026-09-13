@@ -93,7 +93,7 @@ Older guides often cite Pangolin, Crabada, and Kalao. Those projects existed on 
 * **No slashing on principal.** Poor uptime forfeits rewards but does not burn staked AVAX, which differs from chains that slash for double signing or downtime.
 * **Native messaging without a custodial bridge.
 
-**Warp-based ICM uses the P-Chain validator registry and BLS aggregation, so trust rests on the source L1 validator set rather than a separate bridge multisig.** Cons:**
+**Warp-based ICM uses the P-Chain validator registry and BLS aggregation, so trust rests on the source L1 validator set rather than a separate bridge multisig.** Cons:
 
 * **Liquidity and user fragmentation.** Sovereign chains can split liquidity, tooling attention, and users across many L1s. You will need an ICTT or Teleporter bridge and routing strategy if users or stablecoins must move between L1s.
 * **Smaller per-L1 validator sets.** The Primary Network has hundreds of validators; a single L1 may have 5 to 20 validators (for example, many L1s listed in Explorer show fewer than 15). That is fine for an app chain but offers less decentralization for that chain than Ethereum mainnet.
@@ -101,28 +101,28 @@ Older guides often cite Pangolin, Crabada, and Kalao. Those projects existed on 
 * **EVM lock-in on the C-Chain.** If you need a non-EVM VM, you must build and maintain it as an L1 rather than deploying to the shared C-Chain. Custom VMs need their own audits.
 * **Fixed lock periods for staking.
 
-**Native staking locks AVAX for weeks to months. You cannot unstake early. Liquid staking pools like sAVAX or ggAVAX keep tokens transferable but add smart contract and depeg risk.
+Native staking locks AVAX for weeks to months. You cannot unstake early. Liquid staking pools like sAVAX or ggAVAX keep tokens transferable but add smart contract and depeg risk.
 
 ## How to try it or build on it
 
 1. **Set up a wallet.
 
-**Install Core (core.app) for full P-Chain support, including staking and cross-chain transfers, or use MetaMask for C-Chain only. Add Avalanche C-Chain (mainnet 43114, Fuji 43113) if your wallet does not include it. Verify RPC URLs at build.avax.network/docs/primary-network.
+Install Core (core.app) for full P-Chain support, including staking and cross-chain transfers, or use MetaMask for C-Chain only. Add Avalanche C-Chain (mainnet 43114, Fuji 43113) if your wallet does not include it. Verify RPC URLs at build.avax.network/docs/primary-network.
 2. **Get test funds.
 
-**On Fuji, use the official faucet at core.app/tools/testnet-faucet/?subnet=c&token=c for up to 2 AVAX per claim, or QuickNode or Chainlink faucets for smaller drips. Test AVAX has no monetary value and works only on Fuji.
+On Fuji, use the official faucet at core.app/tools/testnet-faucet/?subnet=c&token=c for up to 2 AVAX per claim, or QuickNode or Chainlink faucets for smaller drips. Test AVAX has no monetary value and works only on Fuji.
 3. **Deploy a contract on the C-Chain.
 
 **Use Hardhat or Foundry with Solidity. Point your config to `https://api.avax-test.network/ext/bc/C/rpc` on Fuji and `https://api.avax.network/ext/bc/C/rpc` on mainnet, set chain ID accordingly, and deploy as you would on any EVM chain. Verify on Snowtrace (snowtrace.io on mainnet, testnet.snowtrace.io on Fuji).
 4. **Try staking without running a node.
 
-**In Core, move AVAX to the P-Chain, choose staking then delegation, select a validator by NodeID, and set amount (at least 25 AVAX), duration, and reward address. Rewards arrive only at the end of the period if the validator stays above the uptime threshold.
+In Core, move AVAX to the P-Chain, choose staking then delegation, select a validator by NodeID, and set amount (at least 25 AVAX), duration, and reward address. Rewards arrive only at the end of the period if the validator stays above the uptime threshold.
 5. **Launch an L1 (when you need isolation).
 
 **Use Avalanche CLI (`avalanche` binary) and the L1 Toolbox. The Fuji workflow lets you create a Subnet-EVM config, deploy a test L1, test gas tuning and allowlists, and test Teleporter messages between chains before mainnet. Post-Etna, fund the L1's P-Chain fee balance (about 1.33 AVAX per validator per month at launch parameters) and deploy your ValidatorManager contract.
 6. **Handle cross-chain assets properly.
 
-**Do not assume liquidity follows code. Decide on a home token and use the Interchain Token Transfer (ICTT) flow so transfers are attested by source-L1 signatures rather than a wrapped bridge you must trust separately.
+Do not assume liquidity follows code. Decide on a home token and use the Interchain Token Transfer (ICTT) flow so transfers are attested by source-L1 signatures rather than a wrapped bridge you must trust separately.
 
 ## FAQ
 

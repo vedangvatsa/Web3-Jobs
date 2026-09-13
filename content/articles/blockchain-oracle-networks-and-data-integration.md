@@ -43,7 +43,7 @@ Building resilient decentralized applications requires software engineers to und
 
 ## Push vs Pull Oracle Delivery Models
 
-The Web3 industry has bifurcated into two primary architectural patterns for delivering off-chain data to on-chain state: the **Push Model ** and the ** Pull Model**. Understanding their trade-offs is essential when designing decentralized architectures.
+The Web3 industry has bifurcated into two primary architectural patterns for delivering off-chain data to on-chain state: the **Push Model** and the **Pull Model**. Understanding their trade-offs is essential when designing decentralized architectures.
 
 ```
 +---------------------------------------------------------------------------------+

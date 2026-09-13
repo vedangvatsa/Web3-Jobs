@@ -24,12 +24,12 @@ Smart contract developers play an important role in Web3. They write the code th
 - **Skills Required**: Proficiency in [Solidity](/best-programming-languages-for-blockchain-development) for EVM chains, Rust for Solana and other platforms, a deep understanding of security measures, gas optimization, and blockchain architecture.
 - **Job Outlook **: This role is foundational with extremely high demand, offering lucrative compensation packages. Smart contract developers can earn significant salaries, depending on experience.** 2. Frontend / dApp Engineer
 
-**These developers focus on creating user-facing applications that interact with smart contracts. Improving user experience is a significant challenge in Web3, making skilled frontend engineers essential.
+These developers focus on creating user-facing applications that interact with smart contracts. Improving user experience is a significant challenge in Web3, making skilled frontend engineers essential.
 
 - **Skills Required**: Proficiency in React/Next.js, JavaScript/TypeScript, familiarity with Web3 libraries like Ethers.js and Viem, wallet integration, and state management.
 - **Job Outlook **: As Web3 aims to attract mainstream users, the demand for engineers who can create engaging and intuitive interfaces is on the rise. Salaries typically reflect this growing demand.** 3. Smart Contract Auditor / Security Researcher
 
-**In a domain where code is law and vulnerabilities can lead to significant losses, security experts are vital. Auditors identify weaknesses in smart contracts before malicious actors can exploit them.
+In a domain where code is law and vulnerabilities can lead to significant losses, security experts are vital. Auditors identify weaknesses in smart contracts before malicious actors can exploit them.
 
 - **Skills Required**: An adversarial mindset, knowledge of common attack vectors (such as re-entrancy and oracle manipulation), proficiency in static and dynamic analysis, and experience with fuzzing techniques.
 - **Job Outlook**: Top auditors earn substantial salaries due to their critical role in maintaining security in decentralized applications.
@@ -42,7 +42,7 @@ Web3 PMs are responsible for defining the vision and strategy behind decentraliz
 - **Skills Required**: User research tailored for pseudonymous users, expertise in tokenomics design, data analysis using on-chain data, and facilitation of community governance.
 - **Job Outlook **: Effective PMs who can manage decentralized governance complexities are rare and highly sought after, with salaries typically reflecting their value in the market.** 2. Tokenomics Designer
 
-**The role of the tokenomics designer combines the skills of an economist, game theorist, and strategist. They create the economic frameworks and incentive systems that support a protocol, ensuring sustainability.
+The role of the tokenomics designer combines the skills of an economist, game theorist, and strategist. They create the economic frameworks and incentive systems that support a protocol, ensuring sustainability.
 
 - **Skills Required**: Strong understanding of economics, game theory, financial modeling, and behavioral psychology.
 - **Job Outlook**: Given that a project's success often relies on its tokenomics, experts in this area are in high demand, with salaries reflecting this need.
@@ -58,7 +58,7 @@ In Web3, the community is central to a project's success. Community managers cul
 - **Skills Required**: Technical proficiency, ability to teach, content creation, and public speaking.
 - **Job Outlook **: DevRel is critical for supporting a healthy developer ecosystem, with salaries typically reflecting the importance of this role.** 3. Web3 Marketing & Growth
 
-**Marketing strategies in Web3 differ from traditional methods. The focus shifts to authentic community engagement, content creation, and narrative-building.
+Marketing strategies in Web3 differ from traditional methods. The focus shifts to authentic community engagement, content creation, and narrative-building.
 
 - **Skills Required**: Content marketing, social media expertise (especially on Twitter/X), meme creation, partnership management, and an understanding of crypto-native culture.
 - **Job Outlook**: Marketers who understand the unique aspects of Web3 projects can earn competitive salaries.

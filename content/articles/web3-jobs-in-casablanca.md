@@ -48,22 +48,24 @@ The Web3 job market in Casablanca is still taking shape, with most opportunities
 
 ### Salary Overview
 
-**Developer Compensation:**| Role | Salary Range (MAD/month) |
-| --- | --- |
-| Junior Developer (0-1 year) | 12,000 - 20,000 |
-| Mid-Level Developer (1-3 years) | 22,000 - 40,000 |
+**Developer Compensation:**
+
+| Role | Salary Range (MAD/month) |  |  |  |
+| --- | --- | --- | --- | --- |
+| Junior Developer (0-1 year) | 12,000 - 20,000 |  |  |  |
+| Mid-Level Developer (1-3 years) | 22,000 - 40,000 |  |  |  |
 | Senior Developer (3+ years) | 40,000 - 65,000+ | **Finance & Product:** | Role | Salary Range (MAD/month) |
 | --- | --- | --- | --- | --- |
-| FinTech Product Manager | 30,000 - 55,000 |
-| Business Development | 25,000 - 50,000 |
+| FinTech Product Manager | 30,000 - 55,000 |  |  |  |
+| Business Development | 25,000 - 50,000 |  |  |  |
 | Security/Compliance Expert | 35,000 - 60,000 | **Remote (International):** | Role | Salary Range (USD/month) |
 | --- | --- | --- | --- | --- |
-| International Web3 roles | $2,500 - $6,000+ |
-| Consulting | $60 - $130/hour |
+| International Web3 roles | $2,500 - $6,000+ |  |  |  |
+| Consulting | $60 - $130/hour |  |  |  |
 
-**Cost of Living Analysis
+Cost of Living Analysis
 
-**For a remote developer earning a competitive salary:
+For a remote developer earning a competitive salary:
 - Rent in a desirable area: $500 - $800 per month
 - Living expenses: $300 - $500 per month
 - Total monthly expenses: $800 - $1,300
@@ -127,7 +129,7 @@ The Web3 job market in Casablanca is still taking shape, with most opportunities
 
 ### Challenges and Solutions
 
-**Language Barriers
+Language Barriers
 
 **Proficiency in Arabic, French, and English is beneficial. If you are bilingual in any two of these languages, gradually learn the third, focusing on professional English first.** Conservative Banking Sector
 
@@ -135,7 +137,7 @@ The Web3 job market in Casablanca is still taking shape, with most opportunities
 
 **Customs and port authorities can be resistant to change. First movers have the chance to capture a significant market share.** Internet Stability
 
-**Internet speeds in Casablanca typically range from moderate to good. Use tech hubs with better infrastructure and maintain a backup mobile hotspot.
+Internet speeds in Casablanca typically range from moderate to good. Use tech hubs with better infrastructure and maintain a backup mobile hotspot.
 
 ### 90-Day Action Plan
 

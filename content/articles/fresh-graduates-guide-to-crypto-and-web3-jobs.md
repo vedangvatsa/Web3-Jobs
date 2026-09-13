@@ -40,7 +40,7 @@ Your journey begins with education and immersion in the culture and technology o
 
 1. **Learn the Fundamentals
 
-**Understanding the core concepts is essential. Start with these resources:
+Understanding the core concepts is essential. Start with these resources:
  - [What is a Blockchain?](/what-is-a-blockchain)
  - [What is Web3?](/what-is-web3)
  - [What are Smart Contracts?](/what-are-smart-contracts)
@@ -49,7 +49,7 @@ Your journey begins with education and immersion in the culture and technology o
 
 2. **Become an Active User
 
-**Engagement with products is non-negotiable. Here are practical steps:
+Engagement with products is non-negotiable. Here are practical steps:
  - Create a MetaMask [wallet](/how-to-choose-a-crypto-wallet).
  - Purchase a small amount of [ETH](/what-is-ethereum) and transfer it to your wallet.
  - Execute a swap on a [decentralized exchange](/what-is-a-decentralized-exchange-dex) like Uniswap.
@@ -57,7 +57,7 @@ Your journey begins with education and immersion in the culture and technology o
 
 3. **Curate Your Information Sources
 
-**Twitter (now X) serves as the main platform for Web3 discussions. Create a dedicated account to follow key figures, projects, and researchers. listen to podcasts like Bankless and Unchained to stay updated on industry trends.
+Twitter (now X) serves as the main platform for Web3 discussions. Create a dedicated account to follow key figures, projects, and researchers. listen to podcasts like Bankless and Unchained to stay updated on industry trends.
 
 ### Step 2: Build Your Portfolio of Work
 

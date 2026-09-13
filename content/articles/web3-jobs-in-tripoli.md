@@ -67,7 +67,9 @@ Tripoli's crypto market stands out for several reasons:
 - Arbitrage tools
 - [Portfolio](/building-web3-portfolio) tracking applications
 
-**Compensation:**| Level | Monthly Salary (Remote International) |
+**Compensation:**
+
+| Level | Monthly Salary (Remote International) |
 | --- | --- |
 | Entry Level (0-2 years) | Significant income potential |
 | Mid-Level (2-5 years) | Significant income potential |
@@ -99,7 +101,9 @@ Tripoli's crypto market stands out for several reasons:
 - Conducting price discovery in illiquid markets
 - Managing risk
 
-**Compensation:**| Level | Monthly Salary | Commission |
+**Compensation:**
+
+| Level | Monthly Salary | Commission |
 | --- | --- | --- |
 | Entry Level | Significant income potential | Varies |
 | Mid-Level | Significant income potential | Varies |
@@ -123,7 +127,9 @@ Tripoli's crypto market stands out for several reasons:
 - Identifying scam risks
 - Building trust within the community
 
-**Compensation:**| Level | Monthly Salary |
+**Compensation:**
+
+| Level | Monthly Salary |
 | --- | --- |
 | Entry Level | Significant income potential |
 | Mid-Level | Significant income potential |
@@ -222,10 +228,10 @@ Tripoli's P2P market offers many opportunities:
 
 | Role | Local Salary | Remote Salary | Multiple |
 | --- | --- | --- | --- |
-| Developer | Significant income potential | Significant income potential |
-| OTC Manager | Significant income potential | Significant income potential |
-| Community Manager | Significant income potential | Significant income potential |
-| Trader/Specialist | Varies | Significant income potential |
+| Developer | Significant income potential | Significant income potential |  |
+| OTC Manager | Significant income potential | Significant income potential |  |
+| Community Manager | Significant income potential | Significant income potential |  |
+| Trader/Specialist | Varies | Significant income potential |  |
 
 **Cost of Living in Tripoli:**- Rent: Variable
 - Food: Variable (prices have increased due to instability)

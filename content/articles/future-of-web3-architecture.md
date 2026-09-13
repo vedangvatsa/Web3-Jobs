@@ -38,11 +38,11 @@ As a result, the [modular blockchain](/modular-blockchain) stack has emerged, wh
 
 Despite rollups managing millions of transactions daily, the Web3 user experience often remains cumbersome. Engaging with DeFi protocols requires that users understand gas tokens, slippage tolerances, routing paths, and approval transactions, creating cognitive burdens that Web2 alternatives do not impose.
 
-**Intent-centric protocols ** redefine this interaction model. Instead of users specifying exact transactions, such as "swap exactly 1 ETH for USDC using this route," they express broader intents like, "I want at least 3,400 USDC for my 1 ETH." A network of specialized actors called**solvers** then competes to fulfill that intent, relieving users from working through the execution complexities.
+**Intent-centric protocols** redefine this interaction model. Instead of users specifying exact transactions, such as "swap exactly 1 ETH for USDC using this route," they express broader intents like, "I want at least 3,400 USDC for my 1 ETH." A network of specialized actors called**solvers** then competes to fulfill that intent, relieving users from working through the execution complexities.
 
 The
 
-**CoW Protocol **(Coincidence of Wants) pioneered this concept on Ethereum, enabling peer-to-peer order matching before routing any remaining orders through automated market makers (AMMs). This protocol has processed significant trading volume and consistently provides better pricing than conventional AMM routing. Meanwhile,** 1inch Fusion**has built on this model by introducing a Dutch auction system where solvers bid to fulfill orders.
+**CoW Protocol**(Coincidence of Wants) pioneered this concept on Ethereum, enabling peer-to-peer order matching before routing any remaining orders through automated market makers (AMMs). This protocol has processed significant trading volume and consistently provides better pricing than conventional AMM routing. Meanwhile,**1inch Fusion**has built on this model by introducing a Dutch auction system where solvers bid to fulfill orders.
 
 **Anoma** is developing a protocol-level intent-centric architecture, establishing a unified platform where intents serve as the core primitive.
 
@@ -79,7 +79,7 @@ The modular blockchain thesis has transitioned from theoretical discussions to r
 
 **Arbitrum** currently leads in developer activity among optimistic [rollup](/optimistic-rollup) networks. Its Orbit stack allows teams to launch custom Layer 3 chains settled on Arbitrum.
 
-**Optimism's Superchain ** initiative connects OP Stack chains, including Base (Coinbase), Mode, and Zora, through a shared messaging layer.**zkSync's ZK Stack** and
+**Optimism's Superchain** initiative connects OP Stack chains, including Base (Coinbase), Mode, and Zora, through a shared messaging layer.**zkSync's ZK Stack** and
 
 **Starknet's Madara** framework provide ZK-rollup equivalents.
 

@@ -56,7 +56,9 @@ To find the latest remote and local job openings in Argentina's strong Web3 ecos
 
 ## Salary Overview: Web3 Jobs in Argentina
 
-**Local vs. Remote Salaries:**| Role | Remote Salary Range | Local Salary Range |
+**Local vs. Remote Salaries:**
+
+| Role | Remote Salary Range | Local Salary Range |
 | --- | --- | --- |
 | Smart Contract Developer | Competitive | Competitive |
 | Security Researcher/Auditor | Competitive | Competitive |

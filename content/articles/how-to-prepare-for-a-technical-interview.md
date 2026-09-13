@@ -34,23 +34,23 @@ Most teams follow the same five stages, with different weight by company size.
 
 1. **Resume and portfolio screen.
 
-**Automated parsing plus a recruiter scan. They look for exact tool names, deployed links, and test coverage. A GitHub repo with a verified contract on Sepolia and a README that shows how to run tests beats a longer resume with no links.
+Automated parsing plus a recruiter scan. They look for exact tool names, deployed links, and test coverage. A GitHub repo with a verified contract on Sepolia and a README that shows how to run tests beats a longer resume with no links.
 
 2. **Automated coding assessment.
 
-**HackerRank, Codility, or CodeSignal. You get 60 to 90 minutes for 2 to 3 problems. No interviewer. This is pass or fail. The problems test patterns, not trivia.
+HackerRank, Codility, or CodeSignal. You get 60 to 90 minutes for 2 to 3 problems. No interviewer. This is pass or fail. The problems test patterns, not trivia.
 
 3. **Take-home or live coding.
 
-**Startups and mid-size Web3 teams lean to take-homes. About 47 percent of hiring managers in a 2025 LinkedIn survey said they prefer take-homes over live coding for mid-level hires. Large tech companies lean to live coding. Take-homes test code quality and testing over 2 to 7 days. Live rounds test thinking aloud, debugging, and collaboration in 45 to 90 minutes.
+Startups and mid-size Web3 teams lean to take-homes. About 47 percent of hiring managers in a 2025 LinkedIn survey said they prefer take-homes over live coding for mid-level hires. Large tech companies lean to live coding. Take-homes test code quality and testing over 2 to 7 days. Live rounds test thinking aloud, debugging, and collaboration in 45 to 90 minutes.
 
 4. **System design or contract architecture.
 
-**This used to start at senior level. It now starts at mid-level, roughly L4 on Google's ladder. For Web3 this means designing a token system, staking vault, or upgrade path across on-chain and off-chain parts.
+This used to start at senior level. It now starts at mid-level, roughly L4 on Google's ladder. For Web3 this means designing a token system, staking vault, or upgrade path across on-chain and off-chain parts.
 
 5. **Behavioral.
 
-**Expect 30 to 40 percent of interview time to be behavioral, even in technical loops. Hiring managers use structured questions like "tell me about a time you disagreed on a technical decision" and score them with STAR: Situation, Task, Action, Result.
+Expect 30 to 40 percent of interview time to be behavioral, even in technical loops. Hiring managers use structured questions like "tell me about a time you disagreed on a technical decision" and score them with STAR: Situation, Task, Action, Result.
 
 Knowing the stage helps you prepare the right artifact for each: a clean resume for stage 1, pattern fluency for stage 2, a tested repo for stage 3, a whiteboard framework for stage 4, and short stories with numbers for stage 5.
 
@@ -240,13 +240,13 @@ Daily habit that helps most candidates: 35 minutes of problem solving, 15 minute
 
 ## Before, during, and after the interview
 
-**Before.
+Before.
 
 **Research the company's chain, contracts, and recent deploys. Read the job description line by line and map each requirement to a file or commit in your portfolio. Test your setup for virtual rounds: camera, mic, shared editor, and a clean repo you can open quickly. Prepare three good questions, such as "what does a typical review cycle look like for a contract before it hits testnet" and "how do you measure success for this role in the first 90 days."** During.
 
 **Dress to the norm the recruiter states, be explicit about your assumptions, and state trade-offs. If you do not know an answer, say so plainly and show how you would find it: "I have not used that proxy variant, here is how I would check the OpenZeppelin docs and test for storage collision." Interviewers score honesty and debugging higher than a forced answer.** After.
 
-**Send a short thank-you within 24 hours. Restate one specific topic you discussed and your next step if any. If the timeline passes, send a brief follow-up that references the stage you are in.
+Send a short thank-you within 24 hours. Restate one specific topic you discussed and your next step if any. If the timeline passes, send a brief follow-up that references the stage you are in.
 
 ## Common red flags to avoid
 

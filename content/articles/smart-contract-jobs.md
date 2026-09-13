@@ -135,7 +135,7 @@ These competencies are foundational for success in modern careers. Whether you'r
 
 ### Core Competencies
 
-**Technical Foundation
+Technical Foundation
 
 **Understanding technical concepts relevant to your field is non-negotiable. You don't need to be an expert, but foundational knowledge prevents costly mistakes.** Communication Excellence
 
@@ -143,7 +143,7 @@ These competencies are foundational for success in modern careers. Whether you'r
 
 **Approach problems systematically: define the problem, research solutions, evaluate options, implement, and measure. This framework works for technical and non-technical challenges.** Learning Agility
 
-**In rapidly changing fields, the ability to quickly acquire new skills is your greatest asset. Practice learning by doing, not just consuming content.** Emotional Intelligence**
+**In rapidly changing fields, the ability to quickly acquire new skills is your greatest asset. Practice learning by doing, not just consuming content.** Emotional Intelligence
 Understanding and managing your emotions, and reading others, determines your effectiveness in teams and negotiations.
 
 ## Development Roadmap

@@ -19,11 +19,11 @@ Regardless of whether you took time off for travel, family commitments, health i
 Employers often appreciate transparency, so consider these strategies to format your resume effectively while being truthful.
 
 #### 1. Use Years Instead of Months
-If your gap is less than a year, adjust your employment dates to reflect only the years. For instance, instead of stating "Software Engineer, Acme Corp (June 2021 - January 2022)," you could write "Software Engineer, Acme Corp (2021 - 2022)." This minor adjustment makes short gaps less conspicuous.** 2. Create a "Career Break" Section
+If your gap is less than a year, adjust your employment dates to reflect only the years. For instance, instead of stating "Software Engineer, Acme Corp (June 2021 - January 2022)," you could write "Software Engineer, Acme Corp (2021 - 2022)." This minor adjustment makes short gaps less conspicuous. 2. Create a "Career Break" Section
 
-**For longer gaps, address them directly by adding a dedicated section to your resume. You might label it "Professional Development Sabbatical" or "Career Break for Family Care." Under this heading, briefly detail what you accomplished during this period.** Example:**| Duration | Description |
-| --- | --- |
-| **Professional Development Sabbatical (2022 - 2023)** | Completed an online bootcamp in [Web3](/what-is-web3) development, focusing on [Solidity](/best-programming-languages-for-blockchain-development) and React.<br>Built and deployed three personal projects, including a decentralized voting application.<br>Actively contributed to open-source [DeFi](/what-is-defi) protocols. |
+| **For longer gaps, address them directly by adding a dedicated section to your resume. You might label it "Professional Development Sabbatical" or "Career Break for Family Care." Under this heading, briefly detail what you accomplished during this period.** Example:** | Duration | Description |
+| --- | --- | --- |
+| **Professional Development Sabbatical (2022 - 2023)** | Completed an online bootcamp in [Web3](/what-is-web3) development, focusing on [Solidity](/best-programming-languages-for-blockchain-development) and React.<br>Built and deployed three personal projects, including a decentralized voting application.<br>Actively contributed to open-source [DeFi](/what-is-defi) protocols. |  |
 
 This approach transforms a potential concern into a demonstration of your initiative and commitment to learning.
 

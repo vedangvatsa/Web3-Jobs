@@ -31,7 +31,7 @@ In this context,
 
 > **Infrequent, thoroughly vetted commits signify strength, not stagnation.
 
-**This pattern also holds for other mature layer-1 protocols that have reached a stage of architectural stability.
+This pattern also holds for other mature layer-1 protocols that have reached a stage of architectural stability.
 
 ### 2. Shift from Core Development to Ecosystem Development
 
@@ -83,7 +83,7 @@ Consequently,
 
 >**Public commit trackers likely underestimate actual developer activity.
 
-**Entire upgrade cycles or product lines may be developed privately and only made public upon launch.
+Entire upgrade cycles or product lines may be developed privately and only made public upon launch.
 
 ## Assessing Developer Activity by Project Age and Maturity Stage
 
@@ -94,7 +94,7 @@ Understanding the age and development stage of a project is essential for interp
 - **Expected activity:** High-velocity commits, rapid iteration, and quick experimentation. 
 - **Implications of a slowdown:** Typically signals a**major red flag.
 
-**Early-stage projects should demonstrate consistent shipping of features; reduced activity may indicate funding challenges, technical impediments, or stalled execution.
+Early-stage projects should demonstrate consistent shipping of features; reduced activity may indicate funding challenges, technical impediments, or stalled execution.
 
 ### Mid-Stage Projects (2-5 Years)
 

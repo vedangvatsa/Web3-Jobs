@@ -68,6 +68,6 @@ Operated by the well-known Web3 media company Bankless, this job board is part o
 - **Tailor Your Application:** Customize your [resume](/how-to-build-a-web3-resume-that-stands-out) for each position. Highlight specific skills and relevant [portfolio](/building-web3-portfolio) projects that align with the company's needs.
 - **Start with Our Job Board:** Begin your search on the [Hashtag Web3 Job Board](/jobs). We designed it to be the most efficient resource for managing the Web3 job market, helping you save time while connecting with the best opportunities, whether you are in
 
-**India **,** Indonesia **,** Dubai **, or seeking a** crypto job remote**.
+**India**,**Indonesia**,**Dubai**, or seeking a**crypto job remote**.
 
 The Web3 job market is rich with potential, but it is also competitive. By employing effective tools, including a mix of top job boards and active community involvement, you can successfully find a role that accelerates your career in the decentralized space.

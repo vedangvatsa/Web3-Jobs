@@ -27,7 +27,7 @@ A focused interview bank for Web3 roles in 2026. It covers general Web3 knowledg
 * **Non-technical candidates for marketing, community, operations, product or business development.** You will see market, user, and go-to-market questions that still require correct Web3 concepts.
 * **Career switchers from Web2.
 
-**You can use this even if you have not shipped on-chain yet. Many teams hire for Python, TypeScript, product or growth skills first, then teach chain specifics on the job. What matters is clear thinking and honest depth.
+You can use this even if you have not shipped on-chain yet. Many teams hire for Python, TypeScript, product or growth skills first, then teach chain specifics on the job. What matters is clear thinking and honest depth.
 
 If you are targeting a senior Solidity role, also read our [Solidity interview guide](/how-to-pass-a-solidity-technical-interview).
 
@@ -36,7 +36,7 @@ If you are targeting a senior Solidity role, also read our [Solidity interview g
 Most teams run four to five stages. The exact order varies, but the pattern is consistent across protocols, exchanges, wallets, and infrastructure firms.
 
 #### 1. Recruiter screen, 20 to 30 minutes.
-The recruiter checks location, compensation, availability, and baseline Web3 interest. Expect "Tell me about yourself" and "Why Web3." They also test if you can explain a concept simply without jargon.** 2. Hiring manager interview, 30 to 45 minutes.
+The recruiter checks location, compensation, availability, and baseline Web3 interest. Expect "Tell me about yourself" and "Why Web3." They also test if you can explain a concept simply without jargon. 2. Hiring manager interview, 30 to 45 minutes.
 
 **The manager checks role fit. For technical roles, expect a light technical pass. For non-technical roles, expect a deep dive on past work with numbers and outcomes. Prepare two or three work stories with measurable results.** 3. Take-home or live exercise.
 
@@ -44,7 +44,7 @@ The recruiter checks location, compensation, availability, and baseline Web3 int
 
 **For engineers this is live coding plus system design. For other roles this is a case discussion and past work review.** 5. Team and culture round, 30 to 45 minutes.
 
-**Behavioral questions and questions for the team. Many Web3 teams are remote and distributed. They look for clear written communication, ability to work async, and comfort with public feedback in GitHub or Discord.
+Behavioral questions and questions for the team. Many Web3 teams are remote and distributed. They look for clear written communication, ability to work async, and comfort with public feedback in GitHub or Discord.
 
 Offers often include a token component. Ask how tokens vest, what the lockup is, and whether the grant is priced in tokens or dollars.
 

@@ -49,19 +49,19 @@ Good growth conversations cover:
 
 - **Skills the person wants to build.
 
-**Not skills you think they should build - skills they're genuinely interested in.
+Not skills you think they should build - skills they're genuinely interested in.
 - **Gaps between where they are and where they want to be.
 
-**Be specific. "You need to improve your communication" is useless. "Your technical proposals would land better if you led with the business impact before the implementation details" is something a person can actually work on.
+Be specific. "You need to improve your communication" is useless. "Your technical proposals would land better if you led with the business impact before the implementation details" is something a person can actually work on.
 - **Opportunities to stretch.
 
-**Can they lead a project, mentor someone newer, or take on a cross-functional initiative? Growth happens through practice, not training slides.
+Can they lead a project, mentor someone newer, or take on a cross-functional initiative? Growth happens through practice, not training slides.
 
 ## Performance Management in Flat Orgs and DAOs
 
 Traditional performance management assumes a clear hierarchy. In [Web3 organizations](/what-is-web3) and DAOs, that structure often doesn't exist. Contributors work across multiple projects, report to no single person, and may operate under pseudonyms.
 
-So how do you manage performance without managers?**Peer feedback systems.
+So how do you manage performance without managers?Peer feedback systems.
 
 **When there's no boss, feedback comes from the people you work with directly. Tools like peer review rounds at the end of each project cycle let contributors evaluate each other's reliability, code quality, communication, and follow-through.** Deliverable-based evaluation.
 

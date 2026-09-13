@@ -30,29 +30,29 @@ Your objective is to prompt the recipient to think, "This person has valuable in
 
 Imagine you are a product manager aiming to join a [DeFi](/what-is-defi) protocol named "AcmeFi." Follow these steps for a successful cold outreach.
 
-**Step 1: Conduct Thorough Research
+Step 1: Conduct Thorough Research
 
-**Invest at least an hour to understand both the individual and the project. Your research should include:
+Invest at least an hour to understand both the individual and the project. Your research should include:
 
 - Using their product extensively to gain first-hand experience.
 - Reading their latest blog posts and listening to relevant podcasts.
 - Reviewing their protocol's documentation for technical details.
 - Analyzing their competitors to identify potential gaps or opportunities.
 
-**Step 2: Identify a Specific Insight
+Step 2: Identify a Specific Insight
 
-**From your research, pinpoint one insightful suggestion that demonstrates a deep understanding of their challenges. Avoid generic compliments.
+From your research, pinpoint one insightful suggestion that demonstrates a deep understanding of their challenges. Avoid generic compliments.
 
 - **Ineffective Example:**"Your UX is great!"
 - **Effective Example:**"I observed that your new [staking](/how-to-become-a-web3-staking-specialist) flow requires users to sign two separate transactions. Implementing a multicall pattern could simplify this into a single signature, enhancing user experience and potentially lowering drop-off rates."** Step 3: Craft Your Message
 
-**Use the following structure for your outreach message:
+Use the following structure for your outreach message:
 
 1. **Opening:** A concise compliment that shows you've done your homework.
 2. **The "Value Nugget":** Your specific, insightful recommendation.
 3. **The "Soft Ask":** A low-pressure, open-ended question that invites dialogue.
 
-**Example of an Effective Cold DM **>** Subject:**Quick thought on AcmeFi staking flow
+**Example of an Effective Cold DM**>**Subject:**Quick thought on AcmeFi staking flow
 >
 > Hi [Founder's Name],
 >

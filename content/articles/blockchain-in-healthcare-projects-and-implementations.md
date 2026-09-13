@@ -13,7 +13,7 @@ lastUpdated: "2026-09-13"
 
 Healthcare organizations exchange sensitive information across providers, laboratories, insurers, pharmacies, researchers, and patients. A blockchain is sometimes proposed as a shared record for those exchanges. It can record signed events and help participants agree on a history, but it is not a replacement for clinical systems, privacy controls, consent processes, or healthcare law.
 
-The first design question is usually not “Which chain should we use?” It is “What coordination problem needs solving?” A shared ledger may help when multiple authorized organizations need to verify the same event and no single party should silently alter the record. It is a poor fit for storing full medical files on a public network. Health records are large, sensitive, frequently corrected, and governed by retention and access rules that do not match the idea of making raw data permanently public.
+The first design question is usually not "Which chain should we use?" It is "What coordination problem needs solving?" A shared ledger may help when multiple authorized organizations need to verify the same event and no single party should silently alter the record. It is a poor fit for storing full medical files on a public network. Health records are large, sensitive, frequently corrected, and governed by retention and access rules that do not match the idea of making raw data permanently public.
 
 ## Start with healthcare data realities
 

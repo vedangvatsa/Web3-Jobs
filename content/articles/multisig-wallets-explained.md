@@ -31,16 +31,16 @@ Sources you can check: BIP-11 and BIP-16 on https://github.com/bitcoin/bips, BIP
 
 - **Teams and treasuries.
 
-**DAOs, startups, funds, and any group where no single person should move money alone. A 3-of-5 or 4-of-7 lets you require approvals from different people or functions.
+DAOs, startups, funds, and any group where no single person should move money alone. A 3-of-5 or 4-of-7 lets you require approvals from different people or functions.
 - **People securing meaningful personal savings.
 
-**If losing one device or one seed phrase would be catastrophic, a 2-of-3 distributed across two hardware wallets and one offline backup or collaborative custodian removes that single point of failure.
+If losing one device or one seed phrase would be catastrophic, a 2-of-3 distributed across two hardware wallets and one offline backup or collaborative custodian removes that single point of failure.
 - **Operators who need inheritance or business continuity.
 
-**With N greater than M, one unavailable signer does not freeze the treasury. Remaining signers can still operate and then rotate keys.
+With N greater than M, one unavailable signer does not freeze the treasury. Remaining signers can still operate and then rotate keys.
 - **Builders choosing a custody model.
 
-**If you must decide between on-chain multisig, threshold signatures (MPC/FROST), or Shamir sharing for backup, this guide lays out the trade-off you actually pay for.
+If you must decide between on-chain multisig, threshold signatures (MPC/FROST), or Shamir sharing for backup, this guide lays out the trade-off you actually pay for.
 
 It is less useful if you sign many small daily payments, you hold a small test balance, or you cannot operate and test a recovery procedure. A poorly run multisig can be less safe than a well-run single hardware wallet. The benefit comes from independent keys, separate locations, and a tested descriptor backup.
 
@@ -73,16 +73,16 @@ Bitcoin enforces multisig in script, verified by every node. You do not trust a 
 
 - P2SH (pay-to-script-hash, addresses starting with 3).
 
-**The full script with N pubkeys and M is hashed into the address. At spend time, the redeem script and M signatures are revealed. Defined by BIP-16. All script data sits in the non-discounted part of the transaction, so fees are highest.
+The full script with N pubkeys and M is hashed into the address. At spend time, the redeem script and M signatures are revealed. Defined by BIP-16. All script data sits in the non-discounted part of the transaction, so fees are highest.
 - **P2WSH (pay-to-witness-script-hash, addresses starting with bc1q).
 
-**The SegWit version of P2SH. The script and signatures move to the witness, which receives the SegWit discount. A 2-of-3 P2WSH input is roughly 60 percent cheaper than the same 2-of-3 in P2SH because signatures stay in the discounted witness. Current standard for compatible multisig tooling.
+The SegWit version of P2SH. The script and signatures move to the witness, which receives the SegWit discount. A 2-of-3 P2WSH input is roughly 60 percent cheaper than the same 2-of-3 in P2SH because signatures stay in the discounted witness. Current standard for compatible multisig tooling.
 - **P2WSH-wrapped-in-P2SH (bc1q inside a 3 address).
 
-**Compatibility wrapper for older wallets. Less common now.
+Compatibility wrapper for older wallets. Less common now.
 - **Taproot P2TR (addresses starting with bc1p, activated November 2021 via BIP-341, BIP-340, BIP-342).
 
-**Two paths exist. Key path uses aggregated Schnorr keys with MuSig2 for n-of-n or FROST for m-of-n, producing one key and one signature on chain that looks like a singlesig spend. Script path uses Tapscripts with OP_CHECKSIGADD, which replaces OP_CHECKMULTISIG for batch-verifiable multisig. Key path is private and cheapest, but needs an interactive signing protocol. Script path is simpler but reveals the policy at spend when that leaf is used.
+Two paths exist. Key path uses aggregated Schnorr keys with MuSig2 for n-of-n or FROST for m-of-n, producing one key and one signature on chain that looks like a singlesig spend. Script path uses Tapscripts with OP_CHECKSIGADD, which replaces OP_CHECKMULTISIG for batch-verifiable multisig. Key path is private and cheapest, but needs an interactive signing protocol. Script path is simpler but reveals the policy at spend when that leaf is used.
 
 Active descriptors define the wallet. A modern descriptor looks like `wsh(sortedmulti(2, xpub1/48'/0'/0'/2', xpub2/48'/0'/0'/2', xpub3/48'/0'/0'/2'))`. BIP-48 defines the HD path m/48'/coin'/account'/script' for multisig accounts. m/48'/0'/0'/2' is native SegWit P2WSH, m/48'/0'/0'/1' is P2SH-wrapped. BIP-67 defines sortedmulti so the address is deterministic regardless of xpub order. The descriptor plus checksums is the single file you need to rebuild the wallet. Without it, knowing M seed phrases is not enough to find the funds.
 

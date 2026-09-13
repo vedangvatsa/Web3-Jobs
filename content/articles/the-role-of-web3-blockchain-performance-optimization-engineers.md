@@ -32,7 +32,7 @@ Core developers in this specialization focus on blockchain clients (e.g., Go-[Et
 
 **Go **, a solid understanding of database architecture, and knowledge of compiler design. This specialization aligns closely with the [Protocol Engineer role](/building-a-career-as-a-web3-blockchain-infrastructure-engineer).** 3. Network Optimization Engineering
 
-**These engineers concentrate on the peer-to-peer (P2P) networking layer of blockchain systems. 
+These engineers concentrate on the peer-to-peer (P2P) networking layer of blockchain systems.
 - **Duties:** Their primary goal is to minimize latency in transaction and block propagation across the global network of nodes. Reducing latency is vital for lowering the risk of reorgs and enhancing overall network reliability. 
 - **Skills:** A deep understanding of networking protocols (TCP/IP, UDP) and distributed systems is essential.
 

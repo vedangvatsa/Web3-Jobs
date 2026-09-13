@@ -30,7 +30,7 @@ Several key elements have positioned South Korea as a leader in blockchain gamin
 
 | Company | Notable Projects | Description |
 | --- | --- | --- |
-| WeMade | 
+| WeMade |  |  |
 
 *MIR4* | A leading MMORPG that has fully embraced Web3 through its WEMIX platform, which supports a wide range of P2E and P&E games. |
 | Nexon | "MapleStory Universe" | A major player investing heavily in Web3, building a blockchain-based ecosystem around its iconic MapleStory IP. |

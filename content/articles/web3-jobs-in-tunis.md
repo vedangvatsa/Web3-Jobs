@@ -128,7 +128,7 @@ The job market for Tunisian Web3 professionals primarily targets global and remo
 
 ### Challenges & Solutions
 
-**Challenge 1: Brain Drain Pressure
+Challenge 1: Brain Drain Pressure
 
 **Many top Tunisian developers receive offers from European companies. To counteract this, remote work can provide a solution. Earning a global salary while living in Tunis allows for significant savings, enabling wealth accumulation without the need to relocate.** Challenge 2: Limited Local Crypto Ecosystem
 
@@ -138,7 +138,7 @@ The job market for Tunisian Web3 professionals primarily targets global and remo
 
 **The scarcity of experienced Web3 developers in Tunis can hinder growth. Use online platforms like Twitter to connect with global developers, contribute to open-source projects, and seek feedback from the community.** Challenge 5: Language Barriers
 
-**Top Web3 positions often require fluency in English. Improve your language skills by practicing consistently. Many successful developers have worked through similar barriers. Focus on building a strong portfolio that showcases your skills.
+Top Web3 positions often require fluency in English. Improve your language skills by practicing consistently. Many successful developers have worked through similar barriers. Focus on building a strong portfolio that showcases your skills.
 
 ### 90-Day Quick-Start Action Plan
 

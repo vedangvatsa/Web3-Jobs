@@ -75,7 +75,7 @@ The competencies outlined here are essential for success in any modern career. R
 
 ### Core Competencies
 
-**Technical Foundation
+Technical Foundation
 
 **Understanding the technical concepts relevant to your field is non-negotiable. While you don't need to be an expert, having a solid foundation helps avoid costly mistakes.** Communication Excellence
 
@@ -85,7 +85,7 @@ The competencies outlined here are essential for success in any modern career. R
 
 **In fast-paced industries, quickly acquiring new skills is invaluable. Engage in hands-on practice rather than passively consuming content.** Emotional Intelligence
 
-**Understanding and managing your emotions while being attuned to those of others enhances your effectiveness in team settings and negotiations.
+Understanding and managing your emotions while being attuned to those of others enhances your effectiveness in team settings and negotiations.
 
 ## Development Roadmap
 

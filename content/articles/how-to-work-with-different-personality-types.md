@@ -56,11 +56,11 @@ This isn't about shy vs. outgoing - it's about how people process information.
 
 These dynamics get amplified on distributed teams, which are the default for most [Web3 and crypto organizations](/web3-companies-and-projects). When you can't read the room in person, miscommunication is more likely.
 
-A few things that help:**Make communication preferences explicit.
+A few things that help:Make communication preferences explicit.
 
 **During onboarding or early team formation, have people share how they prefer to receive information (written vs. verbal), how much lead time they need before meetings, and how they like to give input on decisions. This isn't touchy-feely busywork - it saves real time and prevents real friction.** Use async-first communication for decisions.
 
-**Post proposals in writing. Give people 24-48 hours to respond before calling a meeting to finalize. This levels the playing field between extroverts who shine in live calls and introverts who need processing time.** Don't confuse "quiet" with "disengaged."** In a DAO or remote team, the person who rarely speaks in calls but consistently ships quality work and leaves thoughtful comments in documents is fully engaged. Measure contribution by output, not volume of conversation.
+**Post proposals in writing. Give people 24-48 hours to respond before calling a meeting to finalize. This levels the playing field between extroverts who shine in live calls and introverts who need processing time.** Don't confuse "quiet" with "disengaged." In a DAO or remote team, the person who rarely speaks in calls but consistently ships quality work and leaves thoughtful comments in documents is fully engaged. Measure contribution by output, not volume of conversation.
 
 ## The Point Isn't to Change People
 

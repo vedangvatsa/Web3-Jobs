@@ -91,11 +91,11 @@ This plan follows what hiring teams say they actually check, and it fits a 8 to 
 #### Weeks 1 to 3: listen, use the tools, pick a lane
 
 #### 1. Set up a self-custody wallet and use it.
-Install MetaMask from metamask.io only. Write your Secret Recovery Phrase on paper and store it offline. Fund it with $10 to $20 you can afford to learn with, then on a testnet or a low-fee Layer 2 like Base do one swap on Uniswap at uniswap.org and one supply and borrow on Aave at aave.com. Read the health factor, fees, and approval steps. Document what confused you. That note becomes your first post. These exact steps appear in successful switcher guides and match how teams check basic fluency. Source: https://web3vacancy.com/how-to-get-a-web3-job** 2. Pick one lane and one ecosystem.
+Install MetaMask from metamask.io only. Write your Secret Recovery Phrase on paper and store it offline. Fund it with $10 to $20 you can afford to learn with, then on a testnet or a low-fee Layer 2 like Base do one swap on Uniswap at uniswap.org and one supply and borrow on Aave at aave.com. Read the health factor, fees, and approval steps. Document what confused you. That note becomes your first post. These exact steps appear in successful switcher guides and match how teams check basic fluency. Source: https://web3vacancy.com/how-to-get-a-web3-job 2. Pick one lane and one ecosystem.
 
 **Lanes that map to 2026 demand are Solidity or Rust engineering, security review, compliance and legal, data and on-chain analysis, and AI and crypto hybrid work. Ecosystems with active hiring in mid 2026 included exchanges like OKX, Bybit, and Binance, stablecoin teams like Tether and Ripple, and Layer 2 stacks. Pick one. Source: Tiger H1 2026 sector breakdown** 3. Fix your feed.
 
-**Create a separate X account for crypto. Follow 15 to 25 builders and researchers, not price accounts. Three that every hiring guide still points to are @VitalikButerin for protocol tradeoffs, @austingriffith and BuidlGuidl for daily Scaffold-ETH 2 builds, and BanklessHQ for market and governance context. Listen to one podcast with purpose. Bankless Rollup for the week, The Defiant Podcast for governance and product calls, or Unchained with Laura Shin for regulation and investigations. Write 5 takeaways per episode.
+Create a separate X account for crypto. Follow 15 to 25 builders and researchers, not price accounts. Three that every hiring guide still points to are @VitalikButerin for protocol tradeoffs, @austingriffith and BuidlGuidl for daily Scaffold-ETH 2 builds, and BanklessHQ for market and governance context. Listen to one podcast with purpose. Bankless Rollup for the week, The Defiant Podcast for governance and product calls, or Unchained with Laura Shin for regulation and investigations. Write 5 takeaways per episode.
 
 #### Weeks 4 to 7: ship three public artifacts for that lane
 
@@ -137,7 +137,7 @@ Use verbs teams scan for: shipped, moderated, measured, documented, reviewed, de
 - Explainer, How Uniswap swaps work, 520 words with 4 diagrams, [link]
 - Speed Run Ethereum Challenge 0, NFT on Base Sepolia, [contract link] [GitHub link]**Network by adding value, not by asking for a job.
 
-**Outreach that gets a reply follows a simple sequence.
+Outreach that gets a reply follows a simple sequence.
 
 1. Reply with one question or one improvement to a team's public post
 2. Share your related work. "I tried your docs and wrote up where I got stuck plus a suggested fix, [link]"

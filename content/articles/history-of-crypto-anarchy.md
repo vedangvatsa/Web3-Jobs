@@ -23,55 +23,55 @@ The paradigm shifted fundamentally in 1976 with the publication of [New Directio
 
 <div class="my-8 overflow-hidden rounded-xl border border-border bg-card p-6 shadow-sm">
 div class="text-center font-mono text-xs font-semibold uppercase tracking-wider text-muted-foreground mb-4">Figure 1: 40-Year Evolution Timeline of Sovereign Cryptographic Systems</div>
-svg viewBox="0 0 800 220" xmlns="http://www.w3.org/2000/svg" class="w-full h-auto">
+<svg viewBox="0 0 800 220" xmlns="http://www.w3.org/2000/svg" class="w-full h-auto">
 
-line x1="40" y1="110" x2="760" y2="110" stroke="currentColor" stroke-opacity="0.3" stroke-width="2"/>
-
-
-g transform="translate(80, 110)">
-circle cx="0" cy="0" r="8" fill="#3b82f6"/>
-line x1="0" y1="-8" x2="0" y2="-45" stroke="#3b82f6" stroke-width="1.5" stroke-dasharray="2"/>
-rect x="-60" y="-85" width="120" height="35" rx="5" fill="currentColor" fill-opacity="0.05" stroke="#3b82f6" stroke-width="1"/>
-text x="0" y="-70" text-anchor="middle" font-family="system-ui" font-size="10" font-weight="700" fill="#3b82f6">1988</text>
-text x="0" y="-57" text-anchor="middle" font-family="system-ui" font-size="9" fill="currentColor">Crypto Anarchist Manifesto</text>
-/g>
+<line x1="40" y1="110" x2="760" y2="110" stroke="currentColor" stroke-opacity="0.3" stroke-width="2"/>
 
 
-g transform="translate(250, 110)">
-circle cx="0" cy="0" r="8" fill="#8b5cf6"/>
-line x1="0" y1="8" x2="0" y2="45" stroke="#8b5cf6" stroke-width="1.5" stroke-dasharray="2"/>
-rect x="-60" y="45" width="120" height="35" rx="5" fill="currentColor" fill-opacity="0.05" stroke="#8b5cf6" stroke-width="1"/>
-text x="0" y="60" text-anchor="middle" font-family="system-ui" font-size="10" font-weight="700" fill="#8b5cf6">1993</text>
-text x="0" y="73" text-anchor="middle" font-family="system-ui" font-size="9" fill="currentColor">Cypherpunk Mailing List</text>
-/g>
+<g transform="translate(80, 110)">
+<circle cx="0" cy="0" r="8" fill="#3b82f6"/>
+<line x1="0" y1="-8" x2="0" y2="-45" stroke="#3b82f6" stroke-width="1.5" stroke-dasharray="2"/>
+<rect x="-60" y="-85" width="120" height="35" rx="5" fill="currentColor" fill-opacity="0.05" stroke="#3b82f6" stroke-width="1"/>
+<text x="0" y="-70" text-anchor="middle" font-family="system-ui" font-size="10" font-weight="700" fill="#3b82f6">1988</text>
+<text x="0" y="-57" text-anchor="middle" font-family="system-ui" font-size="9" fill="currentColor">Crypto Anarchist Manifesto</text>
+</g>
 
 
-g transform="translate(420, 110)">
-circle cx="0" cy="0" r="8" fill="#ec4899"/>
-line x1="0" y1="-8" x2="0" y2="-45" stroke="#ec4899" stroke-width="1.5" stroke-dasharray="2"/>
-rect x="-60" y="-85" width="120" height="35" rx="5" fill="currentColor" fill-opacity="0.05" stroke="#ec4899" stroke-width="1"/>
-text x="0" y="-70" text-anchor="middle" font-family="system-ui" font-size="10" font-weight="700" fill="#ec4899">1997</text>
-text x="0" y="-57" text-anchor="middle" font-family="system-ui" font-size="9" fill="currentColor">Hashcash Proof of Work</text>
-/g>
+<g transform="translate(250, 110)">
+<circle cx="0" cy="0" r="8" fill="#8b5cf6"/>
+<line x1="0" y1="8" x2="0" y2="45" stroke="#8b5cf6" stroke-width="1.5" stroke-dasharray="2"/>
+<rect x="-60" y="45" width="120" height="35" rx="5" fill="currentColor" fill-opacity="0.05" stroke="#8b5cf6" stroke-width="1"/>
+<text x="0" y="60" text-anchor="middle" font-family="system-ui" font-size="10" font-weight="700" fill="#8b5cf6">1993</text>
+<text x="0" y="73" text-anchor="middle" font-family="system-ui" font-size="9" fill="currentColor">Cypherpunk Mailing List</text>
+</g>
 
 
-g transform="translate(590, 110)">
-circle cx="0" cy="0" r="8" fill="#10b981"/>
-line x1="0" y1="8" x2="0" y2="45" stroke="#10b981" stroke-width="1.5" stroke-dasharray="2"/>
-rect x="-60" y="45" width="120" height="35" rx="5" fill="currentColor" fill-opacity="0.05" stroke="#10b981" stroke-width="1"/>
-text x="0" y="60" text-anchor="middle" font-family="system-ui" font-size="10" font-weight="700" fill="#10b981">2008</text>
-text x="0" y="73" text-anchor="middle" font-family="system-ui" font-size="9" fill="currentColor">Bitcoin Whitepaper</text>
-/g>
+<g transform="translate(420, 110)">
+<circle cx="0" cy="0" r="8" fill="#ec4899"/>
+<line x1="0" y1="-8" x2="0" y2="-45" stroke="#ec4899" stroke-width="1.5" stroke-dasharray="2"/>
+<rect x="-60" y="-85" width="120" height="35" rx="5" fill="currentColor" fill-opacity="0.05" stroke="#ec4899" stroke-width="1"/>
+<text x="0" y="-70" text-anchor="middle" font-family="system-ui" font-size="10" font-weight="700" fill="#ec4899">1997</text>
+<text x="0" y="-57" text-anchor="middle" font-family="system-ui" font-size="9" fill="currentColor">Hashcash Proof of Work</text>
+</g>
 
 
-g transform="translate(720, 110)">
-circle cx="0" cy="0" r="8" fill="#f59e0b"/>
-line x1="0" y1="-8" x2="0" y2="-45" stroke="#f59e0b" stroke-width="1.5" stroke-dasharray="2"/>
-rect x="-60" y="-85" width="120" height="35" rx="5" fill="currentColor" fill-opacity="0.05" stroke="#f59e0b" stroke-width="1"/>
-text x="0" y="-70" text-anchor="middle" font-family="system-ui" font-size="10" font-weight="700" fill="#f59e0b">2015-Present</text>
-text x="0" y="-57" text-anchor="middle" font-family="system-ui" font-size="9" fill="currentColor">Smart Contracts & ZK</text>
-/g>
-/svg>
+<g transform="translate(590, 110)">
+<circle cx="0" cy="0" r="8" fill="#10b981"/>
+<line x1="0" y1="8" x2="0" y2="45" stroke="#10b981" stroke-width="1.5" stroke-dasharray="2"/>
+<rect x="-60" y="45" width="120" height="35" rx="5" fill="currentColor" fill-opacity="0.05" stroke="#10b981" stroke-width="1"/>
+<text x="0" y="60" text-anchor="middle" font-family="system-ui" font-size="10" font-weight="700" fill="#10b981">2008</text>
+<text x="0" y="73" text-anchor="middle" font-family="system-ui" font-size="9" fill="currentColor">Bitcoin Whitepaper</text>
+</g>
+
+
+<g transform="translate(720, 110)">
+<circle cx="0" cy="0" r="8" fill="#f59e0b"/>
+<line x1="0" y1="-8" x2="0" y2="-45" stroke="#f59e0b" stroke-width="1.5" stroke-dasharray="2"/>
+<rect x="-60" y="-85" width="120" height="35" rx="5" fill="currentColor" fill-opacity="0.05" stroke="#f59e0b" stroke-width="1"/>
+<text x="0" y="-70" text-anchor="middle" font-family="system-ui" font-size="10" font-weight="700" fill="#f59e0b">2015-Present</text>
+<text x="0" y="-57" text-anchor="middle" font-family="system-ui" font-size="9" fill="currentColor">Smart Contracts & ZK</text>
+</g>
+</svg>
 </div>
 
 In 1981, computer scientist David Chaum published [Untraceable Electronic Mail, Return Addresses, and Digital Pseudonyms](https://nakamotoinstitute.org/untaceable-electronic-mail/), introducing mix networks to prevent traffic analysis and blind signatures for anonymous digital payment systems.
@@ -94,27 +94,27 @@ In 1988, Timothy C. May authored [The Crypto Anarchist Manifesto](https://nakamo
 
 <div class="my-8 overflow-hidden rounded-xl border border-border bg-card p-6 shadow-sm">
 div class="text-center font-mono text-xs font-semibold uppercase tracking-wider text-muted-foreground mb-4">Figure 2: Elliptic Curve secp256k1 Point Addition Mechanics</div>
-svg viewBox="0 0 800 240" xmlns="http://www.w3.org/2000/svg" class="w-full h-auto">
+<svg viewBox="0 0 800 240" xmlns="http://www.w3.org/2000/svg" class="w-full h-auto">
 
-path d="M 120 20 C 180 180, 220 210, 350 120 C 480 30, 620 60, 720 220" fill="none" stroke="#3b82f6" stroke-width="2.5"/>
-
-
-text x="400" y="35" text-anchor="middle" font-family="system-ui" font-size="13" font-weight="700" fill="currentColor">secp256k1: y² = x³ + 7 (mod p)</text>
+<path d="M 120 20 C 180 180, 220 210, 350 120 C 480 30, 620 60, 720 220" fill="none" stroke="#3b82f6" stroke-width="2.5"/>
 
 
-circle cx="220" cy="180" r="5" fill="#ef4444"/>
-text x="205" y="185" font-family="system-ui" font-size="11" font-weight="700" fill="#ef4444">Point P</text>
-
-circle cx="350" cy="120" r="5" fill="#10b981"/>
-text x="365" y="115" font-family="system-ui" font-size="11" font-weight="700" fill="#10b981">Point Q</text>
+<text x="400" y="35" text-anchor="middle" font-family="system-ui" font-size="13" font-weight="700" fill="currentColor">secp256k1: y² = x³ + 7 (mod p)</text>
 
 
-line x1="120" y1="226" x2="650" y2="40" stroke="#f59e0b" stroke-width="1.5" stroke-dasharray="4"/>
+<circle cx="220" cy="180" r="5" fill="#ef4444"/>
+<text x="205" y="185" font-family="system-ui" font-size="11" font-weight="700" fill="#ef4444">Point P</text>
+
+<circle cx="350" cy="120" r="5" fill="#10b981"/>
+<text x="365" y="115" font-family="system-ui" font-size="11" font-weight="700" fill="#10b981">Point Q</text>
 
 
-circle cx="560" cy="70" r="5" fill="#8b5cf6"/>
-text x="575" y="65" font-family="system-ui" font-size="11" font-weight="700" fill="#8b5cf6">Point P + Q = R</text>
-/svg>
+<line x1="120" y1="226" x2="650" y2="40" stroke="#f59e0b" stroke-width="1.5" stroke-dasharray="4"/>
+
+
+<circle cx="560" cy="70" r="5" fill="#8b5cf6"/>
+<text x="575" y="65" font-family="system-ui" font-size="11" font-weight="700" fill="#8b5cf6">Point P + Q = R</text>
+</svg>
 </div>
 
 In 1993, Eric Hughes published [A Cypherpunk's Manifesto](https://www.activism.net/cypherpunk/manifesto.html), defining the core principle of the movement: **"Cypherpunks write code."**

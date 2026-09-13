@@ -40,7 +40,7 @@ Reentrancy is one of the most notorious smart contract vulnerabilities, infamous
 
 - **The Prevention: The Checks-Effects-Interactions Pattern
 
-**To prevent reentrancy, structure functions in the following order:
+To prevent reentrancy, structure functions in the following order:
  1. **Checks:** Perform all validations (`require` statements).
  2. **Effects:** Update all state variables.
  3. **Interactions:** Call external contracts or send Ether.
@@ -62,7 +62,9 @@ Integer overflow and underflow were common vulnerabilities in earlier versions o
 
 - **The Concept:** An unsigned integer has a fixed size. For example, a `uint8` can only contain values from 0 to 255. Adding 1 to a `uint8` holding 255 results in a wrap-around to 0 (overflow). Conversely, subtracting 1 from a `uint8` at 0 wraps it around to 255 (underflow).
 
-- **The Vulnerable Code (Pre-Solidity 0.8.0):**```solidity
+- **The Vulnerable Code (Pre-Solidity 0.8.0):**
+
+```solidity
 / VULNERABLE on Solidity < 0.8.0
  uint8 public balance;
  function deposit() public payable {
@@ -81,7 +83,9 @@ Incorrect access control is a broad yet critical category of vulnerabilities whe
 
 - **The Concept:** Functions that execute sensitive actions, such as changing ownership, minting new [tokens](/what-is-a-token), or upgrading contracts, must be safeguarded to ensure only authorized addresses can invoke them.
 
-- **The Vulnerable Code:**```solidity
+- **The Vulnerable Code:**
+
+```solidity
 / VULNERABLE CODE
  address public owner;
 
@@ -137,7 +141,9 @@ When your contract invokes another contract, checking for call success is essent
 
 - **The Concept:** Low-level calls such as `call`, `delegatecall`, and `staticcall` do not revert the parent function upon failure; they simply return `false` as the first return value. Failing to check this return value allows the function to proceed as if the call succeeded, potentially leading to unexpected states.
 
-- **The Vulnerable Code:**```solidity
+- **The Vulnerable Code:**
+
+```solidity
 / VULNERABLE CODE
  function sendTo(address payable _to, uint amount) public {
  _to.call{value: amount}(""); // PROBLEM: Return value is not checked

@@ -35,11 +35,11 @@ Web3 content creation encompasses diverse styles and mediums, allowing various c
 
 ### Steps to Building a Career as a Web3 Content Creator
 
-**Step 1: Identify Your Niche and Medium
+Step 1: Identify Your Niche and Medium
 
 **Select a specific area of Web3 that you find genuinely engaging (for example, DeFi, NFTs, [DAOs](/what-is-a-dao), or privacy). Choose a medium that aligns with your strengths, whether it be writing, audio, or video. Specializing in a niche provides more recognition than being a generic voice in a crowded space.** Step 2: Start Creating and Maintain Consistency
 
-**Initiate your journey without waiting for external approval. Begin producing and sharing your work immediately.
+Initiate your journey without waiting for external approval. Begin producing and sharing your work immediately.
 - **Build a public portfolio:** Launch a blog on platforms like Mirror or Substack. Focus your Twitter account on your chosen niche.
 - **Prioritize consistency:** Whether you publish one blog post weekly or one Twitter thread daily, adhere to a regular schedule. This consistency helps cultivate an audience and reinforces your creative habits.
 

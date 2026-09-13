@@ -23,7 +23,7 @@ Recruiters prioritize **genuine passion** over monetary motivation. While high s
 
 - Share your "rabbit hole" story.
 
-**Describe the specific event or idea that inspired you to pursue a career in Web3.
+Describe the specific event or idea that inspired you to pursue a career in Web3.
 - **Provide tangible proof.
 
 **Your contributions on [GitHub](/building-web3-portfolio), on-chain activities, public writing, or involvement in [DAOs](/what-is-a-dao) serve as evidence of your commitment. These aspects often hold more weight than your traditional [resume](/how-to-build-a-web3-resume-that-stands-out).

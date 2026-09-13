@@ -74,7 +74,7 @@ For mid-level and senior roles, especially at public companies or late-stage sta
 * **Performance Bonus** An annual cash bonus based on your performance and the company's performance.
 * **Sign-On Bonus
 
-**A one-time cash bonus you receive when you join the company.
+A one-time cash bonus you receive when you join the company.
 
 When comparing offers, always compare the total compensation, not just the base salary. A lower base salary with a generous stock package at a high-growth company can be far more lucrative in the long run.
 
@@ -82,10 +82,10 @@ When comparing offers, always compare the total compensation, not just the base 
 
 1. **Never Stop Learning
 
-**This field moves incredibly fast. The skills that are valuable today might be commoditized tomorrow. Stay on top of the latest research, libraries, and techniques.
+This field moves incredibly fast. The skills that are valuable today might be commoditized tomorrow. Stay on top of the latest research, libraries, and techniques.
 2. **Specialize
 
-**After you have a solid foundation, go deep in a high-demand area like NLP or MLOps. Specialists command higher salaries than generalists.
+After you have a solid foundation, go deep in a high-demand area like NLP or MLOps. Specialists command higher salaries than generalists.
 3. **Build a Strong [Portfolio](/building-web3-portfolio)** Your GitHub profile is your [resume](/how-to-build-a-web3-resume-that-stands-out). A portfolio of interesting projects is the best way to demonstrate your skills to potential employers.
 4. **Develop Business Acumen** The most valuable engineers are those who can connect their technical work to business impact. Understand the "why" behind the models you are building.
 5. **Practice Your Negotiation Skills** Always negotiate your offers. Companies expect it. Research the market rates for your experience level and location, and be prepared to advocate for your value.

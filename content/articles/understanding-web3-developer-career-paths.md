@@ -31,7 +31,7 @@ These developers focus on building the user interface that connects to on-chain 
 - **Responsibilities:** They design and implement user-friendly interfaces for dApps, using frameworks like React and libraries such as Ethers.js to enable communication with the blockchain.
 - **Core Skills:** Mastery of
 
-**JavaScript/TypeScript **,** React/Next.js**, and various Web3 libraries is essential for this role.
+**JavaScript/TypeScript**,**React/Next.js**, and various Web3 libraries is essential for this role.
 - **Resources:** Explore more in [How to Transition from Web2 to Web3 Developer](/how-to-transition-from-web2-to-web3-developer-transition).
 
 #### 3. Protocol Engineer (L1/L2 Core Developer)

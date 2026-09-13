@@ -16,7 +16,7 @@ But what does a DeFi Quant actually do all day? It's not just about staring at c
 
 ### The Core Mission: Taming Chaos
 
-Before diving into the schedule, it's important to understand the Quant's primary objective: **to bring mathematical rigor to the chaotic and often unpredictable world of DeFi.
+Before diving into the schedule, it's important to understand the Quant's primary objective: to bring mathematical rigor to the chaotic and often unpredictable world of DeFi.
 
 **They are the guardians of a protocol's economic health. Their work ensures that a lending market remains solvent, a [decentralized exchange](/what-is-a-decentralized-exchange-dex) (DEX) minimizes slippage, and a [staking](/how-to-become-a-web3-staking-specialist) mechanism provides sustainable yield.
 
@@ -30,9 +30,9 @@ With that context, let's walk through an hour-by-hour breakdown.
 
 ### A Day in the Life: From Dawn Patrol to Late-Night Models
 
-Our fictional Quant, Alex, works remotely for a leading DeFi lending protocol.**8:00 AM - 9:00 AM: Dawn Patrol - Market & Protocol Health Check
+Our fictional Quant, Alex, works remotely for a leading DeFi lending protocol.8:00 AM - 9:00 AM: Dawn Patrol - Market & Protocol Health Check
 
-**The day starts with data. Alex's first hour is a systematic review of the overnight market action and the protocol's vital signs.
+The day starts with data. Alex's first hour is a systematic review of the overnight market action and the protocol's vital signs.
 
 - **On-Chain Metrics Dashboard:** Alex opens their custom Dune Analytics dashboard. They're not looking at [token](/what-is-a-token) prices, but at the protocol's core health metrics: significant value locked, borrowing volume, liquidation events, and the health of the insurance fund. Was there a large, unexpected withdrawal from a specific pool? Did any large positions get liquidated overnight?
 - **Oracle & Price Feed Monitoring:** The protocol's solvency depends on accurate price oracles. Alex checks the status of their Chainlink feeds. Is there any significant deviation between the oracle price and the spot price on major exchanges? A large deviation could signal a manipulation attempt.
@@ -42,7 +42,7 @@ Our fictional Quant, Alex, works remotely for a leading DeFi lending protocol.**
 
 9:00 AM - 11:00 AM: Deep Work Block 1 - Modeling a New Asset Listing
 
-**The governance community has proposed listing a new, long-tail asset as collateral. This is a high-risk, high-reward decision, and the core team relies on Alex's analysis to make a recommendation.
+The governance community has proposed listing a new, long-tail asset as collateral. This is a high-risk, high-reward decision, and the core team relies on Alex's analysis to make a recommendation.
 
 - **Data Gathering:** Alex pulls historical price data for the new asset from various sources (CoinGecko, on-chain DEX data, centralized exchange APIs). They need to understand its volatility, liquidity, and historical correlation with major assets like [ETH](/what-is-ethereum) and [BTC](/what-is-bitcoin).
 - **Liquidity Analysis:** Using on-chain data, Alex analyzes the asset's liquidity profile. Where does it trade? How deep are the pools? A low-liquidity asset is more susceptible to price manipulation, which is a major risk for a lending protocol.
@@ -56,23 +56,23 @@ Our fictional Quant, Alex, works remotely for a leading DeFi lending protocol.**
 
 **Even Quants need a break. Alex catches up on the latest industry chatter on Twitter and reads through research papers on new DeFi primitives from sources like Model's research blog. Staying informed is a core part of the job.** 1:00 PM - 3:00 PM: Deep Work Block 2 - Backtesting a Liquidation Bot Strategy
 
-**The protocol relies on third-party liquidators to keep the system solvent. Alex is working on improving the profitability of the internal "keeper" bot that serves as a liquidator of last resort.
+The protocol relies on third-party liquidators to keep the system solvent. Alex is working on improving the profitability of the internal "keeper" bot that serves as a liquidator of last resort.
 
 - **Data Simulation:** Alex has a historical dataset of all loans that have ever existed on the protocol. They use this to backtest a new liquidation strategy.
 - **Strategy Logic:** The new strategy is more aggressive, aiming to liquidate positions earlier to minimize potential losses during high-volatility events. However, this could also lead to liquidating users who might have otherwise recovered.
 - **Profit & Loss Analysis:** Alex writes a script to simulate the new strategy's performance over the past year. How much profit would the bot have made? More importantly, how much bad debt would it have prevented? How does this compare to the current strategy? The results will inform a major strategic decision for the protocol.**3:00 PM - 4:00 PM: Governance Forum & Community Engagement
 
-**The Quant's work is not done in a vacuum. Alex spends an hour in the project's governance forum.
+The Quant's work is not done in a vacuum. Alex spends an hour in the project's governance forum.
 
 - **Presenting Findings:** Alex posts a summary of their initial analysis on the new asset listing. They present the data on volatility and liquidity and provide their preliminary recommendation for conservative risk parameters. They are careful to present this as a recommendation, not a final decision, respecting the [DAO](/what-is-a-dao)'s governance process.
 - **Answering Questions:** Community members, many of whom are highly sophisticated, begin to ask questions. "Did you consider the impact of their upcoming token open on liquidity?" "Your volatility calculation seems to be skewed by one anomalous event." Alex must respond to these questions with data and a clear, respectful rationale.**4:00 PM - 5:00 PM: Exploratory Research & Tooling
 
-**The DeFi space moves quickly. The last hour of the "official" day is often dedicated to staying ahead.
+The DeFi space moves quickly. The last hour of the "official" day is often dedicated to staying ahead.
 
 - **Reading Whitepapers:** Alex is reading the whitepaper for a new, experimental DeFi protocol. They are not just looking at it as a user, but deconstructing its economic model. What are the potential failure modes? Is there a clever new mechanism they could adapt for their own protocol?
 - **Building a New Tool:** Alex is frustrated with a manual data-gathering process. They spend some time writing a quick Python script to automate pulling data from three different APIs into a single CSV file. Quants are constantly building their own internal tools to become more efficient.**9:00 PM - 11:00 PM: Optional Late-Night Modeling
 
-**For a Quant, the line between work and passion is often blurry. After dinner and some downtime, Alex might feel an idea nagging at them.
+For a Quant, the line between work and passion is often blurry. After dinner and some downtime, Alex might feel an idea nagging at them.
 
 - **Creative Modeling:** Inspired by a new research paper, Alex might open up their modeling software again to test a new idea for a more capital-efficient lending mechanism. This is unstructured, creative time where major breakthroughs often happen.
 

@@ -11,7 +11,7 @@ publishedDate: '2026-03-11'
 lastUpdated: "2026-09-13"
 ---
 
-Mining is the process by which participants in a proof-of-work blockchain compete to propose blocks under the network's rules. It is most closely associated with Bitcoin, though other networks have used proof-of-work as well. A miner does not “create money” by solving a puzzle in isolation. It assembles a candidate block, performs repeated hashing, and earns a reward only if other nodes accept the block as valid.
+Mining is the process by which participants in a proof-of-work blockchain compete to propose blocks under the network's rules. It is most closely associated with Bitcoin, though other networks have used proof-of-work as well. A miner does not "create money" by solving a puzzle in isolation. It assembles a candidate block, performs repeated hashing, and earns a reward only if other nodes accept the block as valid.
 
 The word can be misleading because mining is not an excavation metaphor in technical terms. It is a way to make producing a block costly while making verification cheap. That asymmetry helps a public network choose a transaction history without appointing a central operator to decide the order of payments.
 
@@ -65,11 +65,11 @@ Proof-of-work reduces the practicality of rewriting history, but it does not pre
 
 ## The meaning of a majority attack
 
-The phrase “51% attack” refers to an attacker controlling enough active hash power to outpace honest miners over a period. Such an attacker may try to reorganize recent blocks, delay confirmation of selected transactions, or double spend its own payment after receiving goods or services. The attack is probabilistic and depends on timing, cost, and the attacker's share of hash power.
+The phrase "51% attack" refers to an attacker controlling enough active hash power to outpace honest miners over a period. Such an attacker may try to reorganize recent blocks, delay confirmation of selected transactions, or double spend its own payment after receiving goods or services. The attack is probabilistic and depends on timing, cost, and the attacker's share of hash power.
 
 It does not let the attacker produce a valid signature for coins it does not control. It does not let it alter the fixed issuance rules as long as nodes continue to enforce them. It also does not automatically make an old transaction disappear from every record; the attacker has to produce an alternative chain that other nodes accept under the protocol's selection rules.
 
-Large proof-of-work networks can make sustained attacks expensive, but “impossible” is too strong. Smaller networks may have less hash power and may be more vulnerable to rented or redirected mining capacity. Anyone evaluating a proof-of-work asset should consider its active mining community, security history, exchange policies, and realistic value at risk rather than relying on a slogan.
+Large proof-of-work networks can make sustained attacks expensive, but "impossible" is too strong. Smaller networks may have less hash power and may be more vulnerable to rented or redirected mining capacity. Anyone evaluating a proof-of-work asset should consider its active mining community, security history, exchange policies, and realistic value at risk rather than relying on a slogan.
 
 ## Energy, geography, and operations
 
@@ -81,7 +81,7 @@ Cloud-mining offers and remote hardware contracts deserve skepticism. A buyer ma
 
 ## Proof-of-work and proof-of-stake
 
-Proof-of-stake networks select block producers using staked assets and protocol rules rather than repeated hashing. [Ethereum](/what-is-ethereum) moved from proof-of-work to proof-of-stake in 2022. Validators in a proof-of-stake system have different operational requirements and penalty mechanisms from Bitcoin miners. “Mining Ethereum” is therefore not an accurate description of Ethereum's current consensus process.
+Proof-of-stake networks select block producers using staked assets and protocol rules rather than repeated hashing. [Ethereum](/what-is-ethereum) moved from proof-of-work to proof-of-stake in 2022. Validators in a proof-of-stake system have different operational requirements and penalty mechanisms from Bitcoin miners. "Mining Ethereum" is therefore not an accurate description of Ethereum's current consensus process.
 
 Neither mechanism removes the need for client software, network communication, economic incentives, and independent validation. They make different tradeoffs in hardware requirements, energy use, participation, and security assumptions. Learning proof-of-work remains useful because it explains Bitcoin's block production and a major approach to open-network consensus.
 

@@ -53,7 +53,7 @@ Begin with foundational blockchain knowledge and choose your specialization:
 
 | Role Type | Learning Path |
 | --- | --- |
-| **Developers** | 
+| **Developers** |  |
 
 - Learn Solidity through platforms like Udemy, Coursera, or freeCodeCamp.<br>- Build 3-4 smart contract projects on GitHub.<br>- Contribute to open-source projects (e.g., [Ethereum](/what-is-ethereum), Solana, Hyperledger).<br>- Study smart contract security best practices. |
 | **Business/Strategy Professionals** | 

@@ -17,7 +17,7 @@ Transitioning from an individual contributor to a manager represents a significa
 
 1. **Communication - Listening Before Speaking
 
-**Successful communication hinges on active listening. During one-on-one meetings, pose open-ended questions such as:
+Successful communication hinges on active listening. During one-on-one meetings, pose open-ended questions such as:
 
  - "What challenges are you facing this week?"
  - "What ideas do you have to improve our current project?"

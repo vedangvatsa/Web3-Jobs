@@ -17,52 +17,52 @@ With numerous tools emerging regularly, it can be challenging to identify which 
 
 ChatGPT stands out as a versatile tool for various tasks. Its ability to assist with writing, brainstorming, coding, project planning, and learning makes it an essential asset for knowledge workers.
 
-**Key Uses for Productivity**| Function | Description | Example Prompt |
-| --- | --- | --- |
-| Drafting Communications | Generate professional emails, project updates, and presentation scripts quickly. | "Draft a short, friendly Slack message to my team announcing that the project deadline has been moved up to this Friday. Acknowledge that it's a tight turnaround and thank them for their hard work." |
-| Summarizing Long Documents | Quickly condense lengthy reports or email threads into key takeaways. | "Summarize the key findings and action items from the following meeting transcript into a bulleted list." |
-| Brainstorming Ideas | Collaborate on creative solutions when facing challenges. | "We're a small coffee shop trying to increase foot traffic in the mornings. Brainstorm 5 low-budget marketing ideas we could try." |
+| **Key Uses for Productivity** | Function | Description | Example Prompt |
+| --- | --- | --- | --- |
+| Drafting Communications | Generate professional emails, project updates, and presentation scripts quickly. | "Draft a short, friendly Slack message to my team announcing that the project deadline has been moved up to this Friday. Acknowledge that it's a tight turnaround and thank them for their hard work." |  |
+| Summarizing Long Documents | Quickly condense lengthy reports or email threads into key takeaways. | "Summarize the key findings and action items from the following meeting transcript into a bulleted list." |  |
+| Brainstorming Ideas | Collaborate on creative solutions when facing challenges. | "We're a small coffee shop trying to increase foot traffic in the mornings. Brainstorm 5 low-budget marketing ideas we could try." |  |
 
 ### 2. The Coding Partner: GitHub Copilot
 
 GitHub Copilot serves as an AI assistant for developers, integrated directly into popular code editors like VS Code. It suggests lines of code and entire functions as you write, enhancing coding productivity.
 
-**Key Uses for Productivity**| Function | Description |
-| --- | --- |
-| Autocomplete Code | Provides smart suggestions for code blocks, particularly effective for repetitive boilerplate code. |
-| Writing Tests | Analyzes your code to suggest relevant unit tests, accelerating your testing workflow. |
-| Learning New Libraries | Offers instant examples and code snippets when exploring new libraries or APIs. |
+| **Key Uses for Productivity** | Function | Description |
+| --- | --- | --- |
+| Autocomplete Code | Provides smart suggestions for code blocks, particularly effective for repetitive boilerplate code. |  |
+| Writing Tests | Analyzes your code to suggest relevant unit tests, accelerating your testing workflow. |  |
+| Learning New Libraries | Offers instant examples and code snippets when exploring new libraries or APIs. |  |
 
 ### 3. The Meeting Assistant: Otter.ai or Fireflies.ai
 
 Meetings can drain productivity. AI meeting assistants like Otter.ai and Fireflies.ai automate note-taking and summarization, ensuring that you capture vital information without hindering your participation.
 
-**Key Uses for Productivity**| Function | Description |
-| --- | --- |
-| Automated Transcription | Provides searchable transcripts of meetings almost immediately after they conclude. |
-| Action Item Detection | Automatically identifies and lists action items, clarifying responsibilities post-meeting. |
-| AI-Generated Summaries | Produces concise summaries of key topics and decisions, enabling easy sharing with attendees. |
-| Searchable Conversations | Allows you to search transcripts for specific keywords, making it easier to locate information. |
+| **Key Uses for Productivity** | Function | Description |
+| --- | --- | --- |
+| Automated Transcription | Provides searchable transcripts of meetings almost immediately after they conclude. |  |
+| Action Item Detection | Automatically identifies and lists action items, clarifying responsibilities post-meeting. |  |
+| AI-Generated Summaries | Produces concise summaries of key topics and decisions, enabling easy sharing with attendees. |  |
+| Searchable Conversations | Allows you to search transcripts for specific keywords, making it easier to locate information. |  |
 
 ### 4. The Presentation Designer: Gamma or Tome
 
 Creating engaging presentations can consume valuable time. AI tools like Gamma take the burden off your shoulders by quickly generating professional slide decks from your input.
 
-**Key Uses for Productivity**| Function | Description |
-| --- | --- |
-| From Text to Deck | Converts raw notes or topics into a complete slide deck, including layouts, images, and icons. |
-| One-Click Restyling | Allows you to change themes and layouts with a single click, enabling you to focus on content. |
-| Interactive Elements | Simplifies the process of embedding GIFs, videos, and links into your presentations. |
+| **Key Uses for Productivity** | Function | Description |
+| --- | --- | --- |
+| From Text to Deck | Converts raw notes or topics into a complete slide deck, including layouts, images, and icons. |  |
+| One-Click Restyling | Allows you to change themes and layouts with a single click, enabling you to focus on content. |  |
+| Interactive Elements | Simplifies the process of embedding GIFs, videos, and links into your presentations. |  |
 
 ### 5. The Grammar and Style Guru: Grammarly
 
 Effective communication is essential for productivity. Grammarly offers advanced suggestions to enhance your writing, going beyond basic spell checking.
 
-**Key Uses for Productivity**| Function | Description |
-| --- | --- |
-| Error-Free Writing | Identifies grammar and spelling errors before you send important communications. |
-| Tone Adjustment | Analyzes your text to suggest modifications for tone, ensuring it aligns with your intended message. |
-| Clarity and Conciseness | Highlights overly complex sentences and recommends clearer alternatives for better readability. |
+| **Key Uses for Productivity** | Function | Description |
+| --- | --- | --- |
+| Error-Free Writing | Identifies grammar and spelling errors before you send important communications. |  |
+| Tone Adjustment | Analyzes your text to suggest modifications for tone, ensuring it aligns with your intended message. |  |
+| Clarity and Conciseness | Highlights overly complex sentences and recommends clearer alternatives for better readability. |  |
 
 ### Integrating AI Into Your Workflow
 

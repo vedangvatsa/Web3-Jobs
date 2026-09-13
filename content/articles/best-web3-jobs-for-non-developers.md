@@ -28,7 +28,7 @@ In Web2, roadmap calls come from the top. In Web3, power is distributed across t
 
 **Most decisions happen in public: open Discord channels, governance forums on Discourse or Commonwealth, and Snapshot votes that anyone can read. Transactions are recorded on-chain.** 5. Bias for action and proof of work.
 
-**Teams hire people who have already contributed. A short analysis, a DAO bounty, a translated doc, or an event recap counts more than a polished cover letter. Hiring managers call this proof of work and they ask for links, not claims.
+Teams hire people who have already contributed. A short analysis, a DAO bounty, a translated doc, or an event recap counts more than a polished cover letter. Hiring managers call this proof of work and they ask for links, not claims.
 
 ## 8 Non-Technical Roles That Hire Consistently
 

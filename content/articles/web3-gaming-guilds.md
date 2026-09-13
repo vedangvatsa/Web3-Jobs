@@ -64,7 +64,7 @@ As a DAO, YGG's treasury is controlled by YGG token holders, allowing the commun
 
 Other significant guilds have emerged, such as
 
-**Gamer Guild **,** Fomo Guild**, and
+**Gamer Guild**,**Fomo Guild**, and
 
 **Polemos**, each catering to different regions or game types. Yet, YGG has maintained its position as the market leader.
 

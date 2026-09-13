@@ -49,7 +49,9 @@ The demand for Web3 talent in Kampala is increasing sharply, particularly for de
 
 ### Salary and Cost of Living Breakdown
 
-**Developer Compensation:**| Experience Level | Salary Range (UGX/Month) | Salary Range (USD/Month) |
+**Developer Compensation:**
+
+| Experience Level | Salary Range (UGX/Month) | Salary Range (USD/Month) |
 | --- | --- | --- |
 | Junior Developer (0-1 year) | 2,000,000 - 3,500,000 | Competitive |
 | Mid-Level Developer (1-3 years) | 3,500,000 - 6,500,000 | Competitive |
@@ -58,11 +60,13 @@ The demand for Web3 talent in Kampala is increasing sharply, particularly for de
 **Remote (International):**- International Web3 roles offer salaries from significant amounts per month.
 - Freelance opportunities range from competitive hourly rates.
 
-**Cost of Living Analysis for a Remote Developer Earning a Competitive Salary:**| Expense Category | Monthly Cost (USD) |
+**Cost of Living Analysis for a Remote Developer Earning a Competitive Salary:**
+
+| Expense Category | Monthly Cost (USD) |
 | --- | --- |
 | Rent (nice area) | Competitive |
 | Living Expenses | Competitive |
-| **Total** |
+| **Total** |  |
 
 **Competitive**|
 | **Savings** |

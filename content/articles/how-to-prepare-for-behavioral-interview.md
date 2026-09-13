@@ -35,7 +35,7 @@ Most companies now run behavioral interviews as structured interviews. That mean
 * **Career switchers from Web2** with no on-chain experience yet. You can use this without prior Web3 shipping. Teams hire for clear writing, learning speed, and judgment first, then teach chain specifics.
 * **Anyone who gets nervous and rambles, or who gives vague answers.
 
-**The method below gives you a 90 second structure you can repeat under stress.
+The method below gives you a 90 second structure you can repeat under stress.
 
 This guide is not for memorizing paragraphs word for word. Interviewers in 2026 expect you to speak naturally and handle follow-ups. Memorized scripts fail when they ask "What data did you actually look at?" or "What would you do differently now?"
 
@@ -76,13 +76,13 @@ STAR is a four-part structure. SHRM, HBR, Google re:Work, and Amazon all recomme
 * **Action: 55 to 60 percent.** What you personally did, why you chose it, and what you considered. Use "I" for actions you owned. Name the data or feedback you used.
 * **Result: 20 percent.
 
-**What changed, with a number when possible. Percent, count, time saved, or a concrete learning you applied later.
+What changed, with a number when possible. Percent, count, time saved, or a concrete learning you applied later.
 
 A short add-on helps when the result was not a clear number: add one sentence on what you learned and what you changed in your process after. HBR's February 2025 guidance on STAR and Google's interview training both call this out as useful for failure stories.
 
 ### Example 1: learning a new domain
 
-**Question:**"Tell me about a time you had to learn something completely new."** Weak answer:**"I am a fast learner and I picked up Solidity quickly by watching videos. It went well."
+**Question:**"Tell me about a time you had to learn something completely new."**Weak answer:**"I am a fast learner and I picked up Solidity quickly by watching videos. It went well."
 
 That gives the interviewer nothing to score. No context, no action, no check.
 
@@ -97,7 +97,7 @@ Why it works: you named the source, the tooling, the specific error, and the fix
 
 ### Example 2: disagreement on a distributed team
 
-**Question:**"Tell me about a time you worked with a difficult teammate."** Strong answer:**
+**Question:**"Tell me about a time you worked with a difficult teammate."**Strong answer:**
 
 * **Situation:** "Our designer and protocol engineer disagreed on scope for a product launch. We had five days to ship docs, an audit fix, and a community update. We were remote across two time zones and mostly async."
 * **Task:** "I was program manager for the launch. I needed to get a decision without forcing a meeting that excluded one time zone."
@@ -200,7 +200,7 @@ For non-technical roles, show one concrete on-chain action you have done: bridge
 * **Answering "I would..." to a "Tell me about a time..." prompt.** That is a hypothetical answer to a behavioral question. Give a real example, even if it is smaller or imperfect.
 * **Long silent typing or searching during the call.
 
-**For remote loops, screen share discipline is part of the signal. Have links ready and narrate while you open them.
+For remote loops, screen share discipline is part of the signal. Have links ready and narrate while you open them.
 
 ## FAQ
 

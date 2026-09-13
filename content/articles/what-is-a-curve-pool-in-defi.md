@@ -98,9 +98,9 @@ $$A n^n \sum_{i=1}^n x_i + D = A D n^n + rac{D^{n+1}}{n^n \prod_{i=1}^n x_i}$$
 
 The parameter $A$ determines how aggressively the pool mimics a constant sum curve:
 - **When $A 
-ightarrow 0$**: The constant sum terms cancel out, and the equation collapses into the pure Uniswap constant product invariant: $\prod x_i = (D/n)^n$.
+ightarrow 0$: The constant sum terms cancel out, and the equation collapses into the pure Uniswap constant product invariant: $\prod x_i = (D/n)^n$.
 - **When $A 
-ightarrow \infty$**: The constant product terms vanish, and the equation becomes a pure zero-slippage constant sum curve: $\sum x_i = D$.
+ightarrow \infty$: The constant product terms vanish, and the equation becomes a pure zero-slippage constant sum curve: $\sum x_i = D$.
 
 In production pools, $A$ is typically parameterized between $100$ and $2,000$, established through governance votes by the [Curve DAO](https://curve.fi/#/ethereum/dao), tracked on [Etherscan](https://etherscan.io) and [[Dune Analytics](https://dune.com/)](https://dune.com). 
 

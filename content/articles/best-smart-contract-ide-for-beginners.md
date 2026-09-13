@@ -331,7 +331,7 @@ All four work on EVM or Solana as noted and do not charge fees. You pay only for
 
 Work in order. Finish one stage before adding the next.
 
-**Weeks 1 to 2: start with Remix.
+Weeks 1 to 2: start with Remix.
 
 **Learn Solidity syntax, how compilation creates ABI and bytecode, and how a constructor and functions map to transactions and calls. Build two or three small contracts in the Remix VM: a simple storage contract, a basic token, and a tiny auction or voting contract. Goal is language comfort, not project structure.** Weeks 3 to 4: move to Hardhat.
 

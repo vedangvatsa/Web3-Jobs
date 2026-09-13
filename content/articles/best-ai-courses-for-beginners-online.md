@@ -20,7 +20,7 @@ This guide covers six courses that remain strong starting points in 2026. All de
 * **You want to use generative AI day to day.** You work in Microsoft 365, write, research, or run processes and you want hands-on practice with chat tools and Copilot workflows.
 * **You want to build AI systems.
 
-**You can code a little and you want to learn machine learning and deep learning properly with Python, with projects you can show an employer.
+You can code a little and you want to learn machine learning and deep learning properly with Python, with projects you can show an employer.
 
 If you are unsure which group you are in, start with a non-technical literacy course and then pick a technical path. That order reduces wasted time.
 
@@ -275,7 +275,7 @@ This loop creates evidence you can reference in interviews and on your profile, 
 * **General versus tool-specific.** Microsoft-focused content helps immediately in Microsoft 365. Tool-agnostic foundations transfer across stacks. Choose based on whether you need immediate productivity or durable fundamentals.
 * **Cost versus access.
 
-**Coursera and LinkedIn charge monthly. If you can work in bursts, you can keep the subscription short. Free options exist: Elements of AI and fast.ai are free, many libraries offer free LinkedIn Learning, and Coursera offers auditing and financial aid.
+Coursera and LinkedIn charge monthly. If you can work in bursts, you can keep the subscription short. Free options exist: Elements of AI and fast.ai are free, many libraries offer free LinkedIn Learning, and Coursera offers auditing and financial aid.
 
 ## Frequently asked questions
 

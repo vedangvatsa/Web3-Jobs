@@ -61,9 +61,9 @@ Swift apps do not execute contracts on device as a validator does. They act as c
 
 That pattern repeats across every mature Swift SDK.
 
-**web3swift (web3swift-team/web3swift).
+web3swift (web3swift-team/web3swift).
 
-**The most starred Swift Ethereum library, described as an iOS toolbelt for interaction with the Ethereum network. Features listed in the README include Swift implementation of web3.js functionality, interaction with a remote node via JSON RPC, local keystore management compatible with geth, smart contract ABI parsing and V2 decoding, ENS support, Infura support, TxPool parsing, event loops, middleware hooks for transaction workflow, and explicit standards support for BIP-32, BIP-39, BIP-44, EIP-20, EIP-155, EIP-2718, EIP-1559, and others plus RLP and Base58. Install via Swift Package Manager:
+The most starred Swift Ethereum library, described as an iOS toolbelt for interaction with the Ethereum network. Features listed in the README include Swift implementation of web3.js functionality, interaction with a remote node via JSON RPC, local keystore management compatible with geth, smart contract ABI parsing and V2 decoding, ENS support, Infura support, TxPool parsing, event loops, middleware hooks for transaction workflow, and explicit standards support for BIP-32, BIP-39, BIP-44, EIP-20, EIP-155, EIP-2718, EIP-1559, and others plus RLP and Base58. Install via Swift Package Manager:
 
 ```swift
 dependencies: [
@@ -73,7 +73,7 @@ dependencies: [
 
 Requirements listed: iOS 13.0 or macOS 10.15, Xcode 12.5, Swift 5.5. You import `web3swift` and `Web3Core`, create a `Web3` provider from an RPC URL, then use `EthereumAddress`, `CodableTransaction`, `web3.eth.send`, and `contract.createReadOperation` for calls. For local development the docs recommend Ganache running at `8546` for tests.**argentlabs/web3.swift.
 
-**A lighter Ethereum Swift API with support for smart contracts, ENS, and ERC20. Adds ERC721 helpers, BigInt and BigUInt via attaswift/BigInt, and optional ZKSync Era support. Install:
+A lighter Ethereum Swift API with support for smart contracts, ENS, and ERC20. Adds ERC721 helpers, BigInt and BigUInt via attaswift/BigInt, and optional ZKSync Era support. Install:
 
 ```swift
 .package(url: "https://github.com/argentlabs/web3.swift", from: "1.1.0")
@@ -127,18 +127,16 @@ A practical check: EvmKit lists iOS 13 plus Swift 5.5, web3swift lists the same,
 * **Platform limits.** Core targets for many Swift SDKs are Apple platforms only. Linux support is often planned but not ready. web3swift, Aptos, and swift-solana-kit each list different minimums, so you need to track which version your users run.
 * **Smaller blockchain sample base.
 
-**Compared to TypeScript with viem and ethers or Rust with Anchor, Swift has fewer copy paste DeFi snippets. Docs assume iOS knowledge and you will often read EVM docs written for TypeScript first, then port to Swift.
+Compared to TypeScript with viem and ethers or Rust with Anchor, Swift has fewer copy paste DeFi snippets. Docs assume iOS knowledge and you will often read EVM docs written for TypeScript first, then port to Swift.
 
 ## Pros and cons for blockchain work
-
-**Pros**
-
+## Pros
 * **Best path to App Store distribution.** One language covers UI, networking, persistence, and signing with tooling Apple supports directly through Xcode and TestFlight.
 * **Hardware backed auth.** Face ID, Touch ID, and Enclave gated signing provide hardware protection that pure software Keychain cannot.
 * **Modern concurrency.** Actors and async sequences map well to RPC polling, WebSocket subscriptions, and transaction confirmation flows.
 * **Package ecosystem that fits iOS.
 
-**Swift Package Manager, DocC, and Swift Testing match the iOS release train, with no bridge to Node.** Cons**
+**Swift Package Manager, DocC, and Swift Testing match the iOS release train, with no bridge to Node.** Cons
 
 * **Learning curve for blockchain specifics.** You must learn both Swift concurrency and blockchain concepts like nonces, gas, ABI encoding, and reorg handling.
 * **Separate contract language still required.** You will maintain Solidity or Rust for contracts plus Swift for the app. That is two toolchains, two test suites, and two audit surfaces.
@@ -172,7 +170,9 @@ These exercises mirror real wallet bugs, like showing a stale balance due to a r
 
 ### 3. Pick one chain stack and wire a read call first
 
-**Option A: Ethereum with web3swift (most reusable for EVM)**```bash
+**Option A: Ethereum with web3swift (most reusable for EVM)**
+
+```bash
 mkdir MyWalletApp && cd MyWalletApp
 swift package init --type executable
 # Add .package(url: "https://github.com/web3swift-team/web3swift.git", .upToNextMajor(from: "3.0.0")) to Package.swift

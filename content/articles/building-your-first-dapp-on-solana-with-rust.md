@@ -115,11 +115,15 @@ pub struct BaseAccount {
 
 After writing your program, work through to your project's root directory and execute the following commands to build and deploy your program:
 
-1. **Build the Program:**```bash
+1. **Build the Program:**
+
+```bash
  anchor build
  ```
 
-2. **Start a Local Test Validator:**```bash
+2. **Start a Local Test Validator:**
+
+```bash
  solana-test-validator
  ```
 

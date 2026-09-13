@@ -34,7 +34,7 @@ If your target team spans multiple time zones or describes itself as async-first
 
 Most remote hiring processes run longer than local hiring. Expect 4 to 6 rounds over 3 to 6 weeks: recruiter screen, hiring manager video call, skills or written assessment, team panels, and a final decision call. Companies add rounds because they cannot rely on hallway interaction to judge fit.
 
-Four formats show up most often:**1. Live video interview.
+Four formats show up most often:1. Live video interview.
 
 **A 30 to 60 minute call on Zoom, Google Meet, or Microsoft Teams. Interviewers use a fixed rubric and score answers for structure and relevance. Rambling hurts more here than in person because clear communication is the skill being tested.** 2. One-way async video.
 
@@ -42,13 +42,13 @@ Four formats show up most often:**1. Live video interview.
 
 **Common at async-first teams. You might write a decision doc, review code, or answer a scenario like "ship feature X with a conflict between engineering and design." Managers score clarity of headers, use of plain language, stated assumptions, and whether you propose an async path like "open a thread, collect input in 24 hours, log decision" instead of "call immediately."** 4. Paid trial or short project.
 
-**Some Web3 teams run a 2 to 5 day trial with real issues in Linear or Notion. All communication happens in threads. Success is measured on documentation quality, response consistency (12 to 36 hours is healthy), and whether your work leaves a trail others can pick up.
+Some Web3 teams run a 2 to 5 day trial with real issues in Linear or Notion. All communication happens in threads. Success is measured on documentation quality, response consistency (12 to 36 hours is healthy), and whether your work leaves a trail others can pick up.
 
 In Web3, two extra screens appear late in the loop. One covers token-based pay: vesting length, cliff, forfeiture, and whether a cash floor exists if the token drops. The other covers async fit: how you keep teammates unblocked when no daily standup forces an update.
 
 ### What hiring managers actually score
 
-Managers for remote roles name four areas more often than technical knowledge alone.**Written communication.
+Managers for remote roles name four areas more often than technical knowledge alone.Written communication.
 
 **Most collaboration happens in text. They look for emails with clear subject lines, short paragraphs, and explicit next steps, and for docs that use headers and concise language. Every message during hiring is a sample.** Self-management.
 
@@ -56,7 +56,7 @@ Managers for remote roles name four areas more often than technical knowledge al
 
 **Buffer's [State of Remote Work 2023](https://buffer.com/state-of-remote-work/2023), based on 3,000 remote workers, found 74 percent work at companies operating in multiple time zones and 62 percent work directly with teammates across zones. Managers therefore test how you document decisions, record a short Loom instead of scheduling a call, and keep a shared decision log so a teammate waking up 8 hours later is not blocked.** Technical setup and ownership of the medium.
 
-**Your setup is part of the interview. A Robert Half survey cited in 2025 interview guides found 62 percent of hiring managers had seen a video interview derailed by avoidable technical issues. Testing audio, video, and internet on the actual platform is scored as preparation, not luck.
+Your setup is part of the interview. A Robert Half survey cited in 2025 interview guides found 62 percent of hiring managers had seen a video interview derailed by avoidable technical issues. Testing audio, video, and internet on the actual platform is scored as preparation, not luck.
 
 Managers also score culture contribution at distance. They ask how you build relationships without in-person contact, such as running a virtual coffee, mentoring over video, or posting useful updates in a team channel.
 

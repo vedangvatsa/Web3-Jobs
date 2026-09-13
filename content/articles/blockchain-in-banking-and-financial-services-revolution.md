@@ -17,7 +17,7 @@ That potential comes with constraints. Financial services are subject to licensi
 
 ## Where current systems create friction
 
-Cross-border payments commonly involve more than one bank and may use correspondent relationships. Messages, account balances, foreign-exchange arrangements, screening, and local payment rails each have their own timing and exception processes. A transfer can be delayed by cut-off times, incomplete payment details, compliance review, or a party's internal operations. “Instant blockchain payment” is therefore not a complete description of a cross-border service.
+Cross-border payments commonly involve more than one bank and may use correspondent relationships. Messages, account balances, foreign-exchange arrangements, screening, and local payment rails each have their own timing and exception processes. A transfer can be delayed by cut-off times, incomplete payment details, compliance review, or a party's internal operations. "Instant blockchain payment" is therefore not a complete description of a cross-border service.
 
 Financial-market settlement also involves several records. A trade may pass through brokers, custodians, a central counterparty, a central securities depository, and asset managers. Each participant maintains records appropriate to its role. Reconciliation exists because the records must agree while systems, operating hours, and legal responsibilities differ.
 

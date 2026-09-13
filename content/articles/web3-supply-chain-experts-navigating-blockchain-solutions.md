@@ -25,13 +25,13 @@ Smart contracts, called chaincode on Fabric, automate rules such as holding paym
 
 ## Who it is for
 
-**You have a logistics or operations background and want to add Web3.
+You have a logistics or operations background and want to add Web3.
 
 **You already know GTINs, SSCCs, bills of lading, and warehouse processes. Adding EPCIS modeling, basic chaincode or Solidity, and oracle patterns lets you design pilots that match how the floor actually works.** You are an enterprise integrator.
 
 **You run SAP, Oracle, or Manhattan and need to publish shipment and receipt events without rebuilding the system. Your value is mapping existing fields to EPCIS and keeping the integration stable when the ledger changes.** You are a product or engineering hire.
 
-**Teams building supply chain dApps need people who can write ledger logic, wire IoT feeds, and build dashboards that read ledger events and show lot genealogy or exception alerts.
+Teams building supply chain dApps need people who can write ledger logic, wire IoT feeds, and build dashboards that read ledger events and show lot genealogy or exception alerts.
 
 If you only trade tokens and never handle a handover, this path is less direct. If you want to work on provenance, recall speed, or auditability, the mechanics below define the roles that hire.
 
@@ -152,7 +152,7 @@ Takeaway: shared audit data can be a more practical first network than per-item 
 * **Product manager for supply chain.** You own the dashboard that reads on-chain events and displays lot genealogy and alerts. Show how endorsement and privacy rules become clear UX and exception flows.
 * **Analyst for compliance and provenance.
 
-**You query EPCIS and ledger proofs, cross-check certificates and origin claims, and flag mismatches. Show you can trace from QR scan to GTIN to EPCIS history without assuming the source scan was correct.
+You query EPCIS and ledger proofs, cross-check certificates and origin claims, and flag mismatches. Show you can trace from QR scan to GTIN to EPCIS history without assuming the source scan was correct.
 
 ### What to collect for interviews
 

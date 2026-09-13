@@ -29,13 +29,13 @@ How you say things matters as much as what you say. People with strong executive
 
 - **Speak in shorter sentences.
 
-**Complex, winding explanations lose people. Get to the point, then add context if asked.
+Complex, winding explanations lose people. Get to the point, then add context if asked.
 - **Eliminate filler words.
 
-**Track how often you say "um," "like," "so basically," or "you know." Recording yourself on a Zoom call is a humbling but effective exercise.
+Track how often you say "um," "like," "so basically," or "you know." Recording yourself on a Zoom call is a humbling but effective exercise.
 - **Prepare their opening line.
 
-**Before any meeting where you need to contribute, write down the first sentence you plan to say. Having that locked in prevents rambling.
+Before any meeting where you need to contribute, write down the first sentence you plan to say. Having that locked in prevents rambling.
 
 One practical habit: in meetings, try speaking last instead of first. Listen to what everyone else says, then add your perspective. Your comments will be better informed, and you'll come across as someone who synthesizes rather than reacts.
 
@@ -47,7 +47,7 @@ Body language counts too. Sit up straight. Make eye contact (or look at the came
 
 ## Common Mistakes
 
-**Confusing volume with authority.
+Confusing volume with authority.
 
 **Talking louder or more often doesn't give you presence - it just makes you the person everyone tunes out. The goal is to be someone whose contributions carry weight, not someone who dominates airtime.** Overthinking it.
 
@@ -55,7 +55,7 @@ Body language counts too. Sit up straight. Make eye contact (or look at the came
 
 **You've probably seen a leader you admire and thought "I should be more like them." That's useful for identifying specific behaviors to try, but don't wholesale copy someone else's personality. An introvert trying to act like a charismatic extrovert will just seem uncomfortable.** Neglecting written communication.
 
-**Especially in remote work, a huge amount of your "presence" comes from how you write. Sloppy, unclear Slack messages and rambling emails undermine everything you're doing in live meetings.
+Especially in remote work, a huge amount of your "presence" comes from how you write. Sloppy, unclear Slack messages and rambling emails undermine everything you're doing in live meetings.
 
 ## Executive Presence in Remote and Web3 Settings
 
@@ -63,14 +63,14 @@ If you work remotely - which describes most [Web3 jobs](/web3-jobs) - you don't 
 
 - **How you show up on calls.
 
-**Camera on, good lighting, minimal background noise. It signals that you take the interaction seriously.
+Camera on, good lighting, minimal background noise. It signals that you take the interaction seriously.
 - **How you write.** Clear, concise messages in Slack, Discord, or governance forums carry real weight. In [DAOs](/what-is-a-dao) and decentralized teams, most communication is async and text-based. Your writing *is* your presence.
 - **How you handle conflict.
 
-**In Web3 communities, debates can get heated - especially around governance proposals and treasury decisions. Staying measured and fact-based when everyone else is reacting emotionally is one of the strongest presence signals there is.
+In Web3 communities, debates can get heated - especially around governance proposals and treasury decisions. Staying measured and fact-based when everyone else is reacting emotionally is one of the strongest presence signals there is.
 - **Your track record.
 
-**In a pseudonymous or reputation-based environment, your body of work speaks louder than any single conversation. Consistently delivering, following through on commitments, and being reliable builds the kind of presence that no amount of presentation coaching can replicate.
+In a pseudonymous or reputation-based environment, your body of work speaks louder than any single conversation. Consistently delivering, following through on commitments, and being reliable builds the kind of presence that no amount of presentation coaching can replicate.
 
 Executive presence isn't about performing confidence - it's about earning trust through how you communicate, decide, and show up consistently.
 

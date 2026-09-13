@@ -24,7 +24,7 @@ Speed is critical for many applications. For example, self-driving cars require 
 
 **Constantly streaming raw data from numerous sensors or cameras to the cloud incurs substantial expenses and demands significant bandwidth. Edge computing mitigates these costs by handling data locally and transmitting only essential processed information to the cloud. For instance, a smart camera may only send data when it detects a specific event, rather than streaming continuously.** 3. Improved Reliability
 
-**Cloud-dependent systems are vulnerable to internet outages. If the connection fails, operations cease. Edge devices maintain functionality and decision-making capabilities, even with intermittent or no internet access. For example, a smart factory can continue operations or a hospital can monitor patient vitals independently of cloud connectivity.** 4. Enhanced Privacy and Security**
+**Cloud-dependent systems are vulnerable to internet outages. If the connection fails, operations cease. Edge devices maintain functionality and decision-making capabilities, even with intermittent or no internet access. For example, a smart factory can continue operations or a hospital can monitor patient vitals independently of cloud connectivity.** 4. Enhanced Privacy and Security
 
 Transmitting sensitive information to a public cloud raises privacy concerns. Local processing on edge devices keeps sensitive data within the local network. A voice assistant, for instance, can process commands directly on the device without sending recordings to a server, thereby safeguarding user privacy.
 

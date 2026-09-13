@@ -19,7 +19,7 @@ Here's how to handle these conversations, whether you're a manager, a contributo
 
 Not all tough conversations are the same. Your approach should vary.
 
-**Giving critical feedback.
+Giving critical feedback.
 
 **Someone's work isn't meeting expectations, or a specific behavior is causing problems. This is the most common difficult conversation and the one people avoid most.** Addressing conflict.
 
@@ -39,26 +39,26 @@ Before the conversation:
 
 - **Write down the specific issue.
 
-**Not "their attitude is bad" but "They've missed the last three sprint commitments and didn't flag any in advance."
+Not "their attitude is bad" but "They've missed the last three sprint commitments and didn't flag any in advance."
 - **Identify what outcome you want.
 
-**What does "success" look like after this conversation? A behavior change? A plan? Know this before you start.
+What does "success" look like after this conversation? A behavior change? A plan? Know this before you start.
 - **Anticipate their perspective.
 
-**They'll have reasons for whatever happened. Think about what those might be.
+They'll have reasons for whatever happened. Think about what those might be.
 - **Choose the right medium.
 
-**For serious conversations, video or in-person is almost always better than text. Tone gets lost in Slack, and what you intended as direct can read as cold.
+For serious conversations, video or in-person is almost always better than text. Tone gets lost in Slack, and what you intended as direct can read as cold.
 
 ## A Simple Framework for the Conversation
 
-You don't need a script, but you do need structure. This three-part framework works:**1. State the issue clearly.
+You don't need a script, but you do need structure. This three-part framework works:1. State the issue clearly.
 
 **Don't bury the point in small talk. "I want to talk about the last two deliverables, which were both late and had errors the team had to fix" is clear. "I just wanted to check in" is not.** 2. Listen.
 
 **After you state the issue, stop talking. Let them respond. They may have context you don't. They may disagree or get emotional. Your job here is to understand their perspective, not win an argument.** 3. Agree on next steps.
 
-**Every difficult conversation should end with something concrete. What's going to change? By when? How will you both know if it's working? Write this down and follow up on it.
+Every difficult conversation should end with something concrete. What's going to change? By when? How will you both know if it's working? Write this down and follow up on it.
 
 ## Managing Emotions - Yours and Theirs
 
@@ -78,10 +78,10 @@ Rules of thumb for async difficult conversations:
 
 - **Escalate to a call for anything serious.
 
-**Text is fine for small asks. It's terrible for performance conversations.
+Text is fine for small asks. It's terrible for performance conversations.
 - **If it must be in text, over-communicate your tone.
 
-**Say "I'm bringing this up because I want us to fix it together, not to blame you."
+Say "I'm bringing this up because I want us to fix it together, not to blame you."
 - **Don't have these conversations in public channels.** DMs or private calls only.
 
 ## Follow Up
