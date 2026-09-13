@@ -249,3 +249,31 @@ A: Yes, many professionals transition into technical roles by learning programmi
 A: Numerous online courses, tutorials, and documentation are available, including the official Solana and Rust websites. Engaging with community resources and mentorship opportunities can also enhance your learning experience.
 
 Developing your first DApp on Solana using Rust and Anchor can open numerous doors in the blockchain space. By understanding the core principles and Building your skills, you prepare for a successful career in this dynamic environment. As the demand for blockchain solutions continues to grow, your expertise in Solana development will be a valuable asset.
+
+## Understand Accounts Before Adding Features
+
+Solana programs do not own a hidden database. Instructions receive accounts explicitly, and the runtime checks whether the transaction has the required signatures and writable accounts. Your program must check the relationships that matter to its state: who owns an account, whether the account was created for this program, whether a signer is authorized, and whether the account has enough space for the data it will store.
+
+Anchor derives many of these checks from the account constraints in an instruction context, but the constraints still need deliberate design. A counter should not allow any caller to increment an account that belongs to another user unless that behavior is intentional. If each user has a counter, derive its address from stable seeds such as a fixed prefix and the user's public key, then constrain the instruction to that derived address. Program-derived addresses let the program control an address without storing a private key.
+
+Plan account size before deployment. Changing a struct can require account migration or additional allocated space. For a learning project, keep the account small and document each field, its type, and who may change it. This habit pays off when a simple example becomes a real product.
+
+## Use the Local Validator for Fast Feedback
+
+The local validator gives you a repeatable environment without spending testnet tokens. Run it in one terminal, configure the Solana CLI and Anchor provider to use the local endpoint, then run the test suite from a clean state. Tests should create their own accounts instead of relying on an account left over from a previous run.
+
+Check failure cases as carefully as success cases. Test that initialization cannot happen twice, an unauthorized signer is rejected, and an instruction fails when passed an account owned by a different program. When an error occurs, inspect program logs with the Solana tools and add an assertion for the specific custom error where practical. A test that only confirms a transaction failed can hide the fact that it failed for the wrong reason.
+
+After local tests pass, deploy the unchanged program to a test cluster and repeat the flow with the same client code. This can expose configuration errors involving program IDs, funding, RPC endpoints, or browser-wallet behavior that a local environment cannot reproduce.
+
+## Keep the Client and Program in Step
+
+The TypeScript client is responsible for assembling the transaction: choosing accounts, fetching a recent blockhash, collecting signatures, and sending the instruction. Treat its account selection as security-sensitive. A convenient user interface must not assume the program will infer the right account; it should pass the expected public keys and display the network and transaction result clearly.
+
+Generate the client type definitions after program changes and avoid manually copying instruction names or account layouts into several files. When an instruction changes, update the test and UI in the same pull request. Version the program ID and interface in release notes so integrators know which deployment they are calling.
+
+## Deploy With a Small Operations Checklist
+
+Before a public deployment, review the program ID, upgrade authority, cluster, account rent requirements, and expected initialization transactions. Use a separate keypair for deployment and protect it according to the value it controls. If the program remains upgradeable, document who holds that authority and how a proposed upgrade is reviewed. If the authority is transferred or removed, verify the transaction on the target cluster.
+
+Publish a short README that describes the instructions, account schema, build command, test command, and known limits. Include an example transaction signature from the test cluster rather than claiming that a code snippet has been deployed. Clear operational notes make a beginner project easier to assess and safer for someone else to run.

@@ -140,3 +140,21 @@ Web3 principles, transparency, decentralization, and community governance provid
 In practice, the future will likely consist of hybrid systems. Some AI systems will operate in decentralized, transparent manners, while others may remain centralized yet adopt enhanced transparency and oversight measures. The appropriate approach will depend on the specific context and application.
 
 For professionals engaged in AI or Web3, prioritizing responsibility and focusing on systems that serve users, rather than merely maximizing metrics, remains essential. Web3 tools present viable options for those committed to building with responsibility in mind.
+
+## Start With a Concrete Risk Register
+
+Responsible development begins before model selection. Write down who may be affected, the decision the system will influence, the data involved, and the harm that could result from an error. A support assistant that drafts replies has different risks from a system that ranks job candidates or recommends credit limits. The latter should not be treated as a convenience feature merely because both use a language model.
+
+For each risk, identify an owner and a test. A privacy risk may require a retention rule and access logs. A discrimination risk may require evaluation across relevant groups, with a documented decision about what data can be collected lawfully and ethically. A hallucination risk may require citations, human review, or a refusal path when the system lacks evidence. A token vote does not replace this work; participants need legible information to make an informed decision.
+
+## Auditability Is Not the Same as Publishing Everything
+
+An append-only record can show when a model version, policy, or approval changed. It cannot safely contain raw prompts, personal records, proprietary training data, or credentials. A practical design stores a hash, version identifier, timestamp, and authorization record on a shared ledger or audit service while retaining sensitive detail in a controlled system. The hash can later demonstrate that a reviewed document has not changed without exposing its contents.
+
+Teams should also plan for correction. A user needs a way to challenge an outcome, a reviewer needs authority to pause a harmful feature, and engineers need a rollback path. Logging a bad decision permanently is not accountability if no one can investigate or remedy it. The useful question is whether a record helps a person understand, contest, and fix a decision.
+
+## Measure the System After Release
+
+Pre-release evaluations are snapshots. Model behavior can change as users, data, prompts, and connected services change. Monitor error reports, refusal rates, appeal outcomes, latency, and any safety metrics tied to the product's actual use. Review a sample of difficult cases on a regular schedule, not only after public criticism.
+
+Publish internal change notes that identify the model version, intended use, known limitations, and evaluation date. When a significant incident occurs, preserve relevant evidence, notify affected parties where appropriate, and update the risk controls. Responsible AI is an operational discipline, not a badge earned at launch.

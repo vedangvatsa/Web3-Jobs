@@ -117,3 +117,35 @@ Your first draft is never your final draft. After finishing your writing, take a
 - **Read Aloud:** This technique helps identify awkward phrasing and grammatical errors. If it sounds off when spoken, it likely will be difficult for someone else to read.
 - **Evaluate Tone:** Ensure your tone matches your audience. It should be confident, collaborative, and professional.
 - **Proofread for Typos:** Mistakes in spelling and grammar can undermine your credibility. Use a spell checker, but also manually review to catch errors that software might overlook.
+
+## Start With the Reader's Decision
+
+Before drafting, identify the decision, action, or understanding the reader needs. A status update may need approval for a delayed date. A project note may need the team to choose between two options. An email to a client may need to confirm a changed requirement. If you cannot state that purpose in one sentence, research or discussion may be needed before writing.
+
+Put the requested action near the beginning and make it easy to complete. Name the owner, deadline, and decision required. For example: "Please approve the revised launch date by Thursday so the support team can schedule coverage." This is clearer than ending a long background section with an indirect request for thoughts.
+
+Match detail to the reader's role. An executive may need the recommendation, cost, risk, and choice. An engineer may need the reproduction steps, logs, and acceptance criteria. A customer may need the effect on their work and a route to help. One document can link to deeper material, but it should not force every reader through the same level of detail.
+
+## Use Evidence Without Overloading the Page
+
+Claims gain credibility when they identify the source and the limit. Instead of saying a feature was successful, name the period, measure, and comparison: "In the first two weeks, 42 of 80 invited users completed setup; the main drop-off was identity verification." That sentence gives a reader a starting point for a decision without pretending to answer every question.
+
+Separate facts, interpretation, and recommendation. Facts are observed data, dates, or quotations. Interpretation explains what those facts may mean. A recommendation states the action you propose. This separation is especially useful when an audience may disagree with your conclusion; they can check the evidence and understand the trade-off without treating the whole document as opinion.
+
+Link or attach source material when it would help someone verify a claim. Do not paste a spreadsheet into an email when a short summary and a link will do. If a figure is provisional, label it. Precision about uncertainty is a sign of good judgment, not a weakness.
+
+## Write Better Requests and Updates
+
+A useful request contains context, the requested action, a date, and a response path. Compare "Can someone review this?" with "Could Priya review the payment flow by 3 p.m. Wednesday and flag any compliance concern in the document comments?" The second request gives the recipient enough information to accept, decline, or negotiate the deadline.
+
+Status updates benefit from the same discipline. Lead with the current state, then list material changes, risks, and next steps. Do not hide a delay beneath a list of completed tasks. A reader who needs to intervene should be able to see the issue in seconds.
+
+When delivering bad news, say what changed, why it matters, what you have already done, and what decision remains. Avoid blame and vague reassurance. A direct note helps colleagues plan and gives the writer a record of the issue while details are fresh.
+
+## Edit in Passes
+
+Editing all concerns at once is inefficient. First, check whether the document has a clear purpose and logical order. Next, verify names, dates, numbers, links, and attachments. Then edit sentences for directness and remove repetition. Finally, read the document as the intended recipient, looking for unanswered questions and an unclear action.
+
+For consequential messages, ask a colleague to review the substance rather than merely the grammar. Give them a focused question: "Can you tell what approval I am asking for?" or "Would this explanation let support answer a customer?" A reviewer can find a missing assumption more easily when they know what to test.
+
+Keep a few reusable outlines for recurring work, such as incident updates, decision memos, and project handoffs. An outline is a reminder of information to include, not a script. Adapt it to the situation and remove sections that do not add value.
