@@ -31,7 +31,7 @@ import { EventCard } from '@/components/event-card';
 import { EventGuideContent } from '@/components/event-guide-content';
 import { DetailPageHeader } from '@/components/detail-page-header';
 import { Token2049SideEvents } from '@/components/token2049-side-events';
-import { EventSpeakers } from '@/components/event-speakers';
+import { Token2049Details } from '@/components/token2049-details';
 import { getEventBySlug, getEvents, getRelatedEvents } from '@/lib/events-server';
 import { Button } from '@/components/ui/button';
 import { Calendar, MapPin, ExternalLink, ArrowLeft, ArrowRight } from 'lucide-react';
@@ -383,21 +383,10 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     const token2049SideEvents = isToken2049Page
       ? (await getEvents())
           .filter((sideEvent) => sideEvent.token2049SideEvent)
-          .map((sideEvent) => ({
-            id: sideEvent.id,
-            slug: getEventSlug(sideEvent),
-            name: sideEvent.name,
-            startDate: sideEvent.startDate,
-            location: sideEvent.location,
-            url: sideEvent.url,
-            coverImage: sideEvent.coverImage || '',
-            category: sideEvent.category,
-            price: sideEvent.price,
-          }))
       : [];
 
     const eventPageUrl = `${siteUrl}/${eventSlug}`;
-    const eventImage = event.coverImage || `/api/og?type=default&title=${encodeURIComponent(event.name)}`;
+    const eventImage = event.coverImage || `/api/og?type=event&title=${encodeURIComponent(event.name)}`;
     const eventImageUrl = /^https?:\/\//i.test(eventImage) ? eventImage : `${siteUrl}${eventImage}`;
     const eventSchema = isGoogleEventEligible(event)
       ? {
@@ -534,7 +523,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                 />
               )}
 
-              {event.speakerDetails && <EventSpeakers speakers={event.speakerDetails} sourceUrl="https://token2049.com/singapore/speakers" />}
+              {isToken2049Page && <Token2049Details speakers={event.speakerDetails || []} />}
 
               {token2049SideEvents.length > 0 && <Token2049SideEvents events={token2049SideEvents} />}
 

@@ -12,6 +12,7 @@ const curatedPath = path.join(rootDir, 'content', 'curated-events.json');
 const cachePath = path.join(rootDir, 'content', 'events-cache.json');
 const publicEventsDir = path.join(rootDir, 'public', 'events');
 const sourceFilter = process.env.EVENT_SOURCE;
+const refreshImages = process.env.EVENT_IMAGE_REFRESH === '1';
 
 if (!fs.existsSync(publicEventsDir)) {
   fs.mkdirSync(publicEventsDir, { recursive: true });
@@ -197,7 +198,7 @@ async function processEventsFile(filePath, label) {
   const toProcess = events.filter(e => {
     const d = e.endDate ? new Date(e.endDate) : new Date(e.startDate);
     const isUpcoming = !isNaN(d.getTime()) && d >= now;
-    return isUpcoming && isGenericOrBroken(e.coverImage) && (!sourceFilter || e.source === sourceFilter);
+    return isUpcoming && (refreshImages || isGenericOrBroken(e.coverImage)) && (!sourceFilter || e.source === sourceFilter);
   });
 
   console.log(`Found ${toProcess.length} upcoming events needing real images.`);
@@ -224,7 +225,7 @@ async function processEventsFile(filePath, label) {
           cleanUrl(candidate.url) === url &&
           !isGenericOrBroken(candidate.coverImage)
         );
-        if (matchingEvent) {
+        if (matchingEvent && !refreshImages) {
           event.coverImage = matchingEvent.coverImage;
           updatedCount++;
           return;

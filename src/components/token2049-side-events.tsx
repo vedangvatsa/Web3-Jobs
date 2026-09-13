@@ -1,36 +1,15 @@
 'use client';
 
-import Image from 'next/image';
-import Link from 'next/link';
 import { useState } from 'react';
-import { ExternalLink, MapPin } from 'lucide-react';
 import { Button } from '@/components/ui/button';
+import { EventCard } from '@/components/event-card';
+import type { Web3Event } from '@/lib/events';
 
-export type Token2049SideEvent = {
-  id: string;
-  slug: string;
-  name: string;
-  startDate: string;
-  location: string;
-  url: string;
-  coverImage: string;
-  category?: string;
-  price?: string;
-};
-
-function getSingaporeDate(event: Token2049SideEvent): string {
+function getSingaporeDate(event: Web3Event): string {
   return new Intl.DateTimeFormat('en-CA', { timeZone: 'Asia/Singapore' }).format(new Date(event.startDate));
 }
 
-function getSingaporeTime(event: Token2049SideEvent): string {
-  return new Intl.DateTimeFormat('en-SG', {
-    timeZone: 'Asia/Singapore',
-    hour: 'numeric',
-    minute: '2-digit',
-  }).format(new Date(event.startDate));
-}
-
-function getTimeOfDay(event: Token2049SideEvent): string {
+function getTimeOfDay(event: Web3Event): string {
   const hour = Number(new Intl.DateTimeFormat('en-US', {
     timeZone: 'Asia/Singapore',
     hour: '2-digit',
@@ -41,14 +20,14 @@ function getTimeOfDay(event: Token2049SideEvent): string {
   return 'Evening';
 }
 
-function getPriceType(event: Token2049SideEvent): string {
+function getPriceType(event: Web3Event): string {
   const price = event.price?.toLowerCase() ?? '';
   if (/invite|application|approval/.test(`${event.name} ${price}`.toLowerCase())) return 'Invite only';
   if (/free|complimentary|0/.test(price)) return 'Free';
   return 'Paid';
 }
 
-export function Token2049SideEvents({ events }: { events: Token2049SideEvent[] }) {
+export function Token2049SideEvents({ events }: { events: Web3Event[] }) {
   const days = Array.from(new Set(events.map(getSingaporeDate)));
   const categories = Array.from(new Set(events.map((event) => event.category).filter((category): category is string => Boolean(category))));
   const [day, setDay] = useState('All days');
@@ -65,13 +44,7 @@ export function Token2049SideEvents({ events }: { events: Token2049SideEvent[] }
 
   return (
     <section className="mt-12 border-t pt-8" aria-labelledby="token2049-side-events-heading">
-      <div className="max-w-3xl">
-        <p className="text-xs font-semibold uppercase tracking-[0.16em] text-primary">Singapore, October 5 to 11</p>
-        <h2 id="token2049-side-events-heading" className="mt-2 text-2xl font-bold tracking-tight sm:text-3xl">TOKEN2049 Side Events</h2>
-        <p className="mt-2 text-sm leading-6 text-muted-foreground">
-          {events.length} official side events. Times are shown in Singapore time. Registration links lead to each organizer.
-        </p>
-      </div>
+      <h2 id="token2049-side-events-heading" className="text-2xl font-bold tracking-tight sm:text-3xl">TOKEN2049 Side Events</h2>
 
       <div className="mt-6 space-y-4 rounded-xl border bg-muted/20 p-4">
         <div className="flex gap-2 overflow-x-auto pb-1">
@@ -112,23 +85,9 @@ export function Token2049SideEvents({ events }: { events: Token2049SideEvent[] }
       </div>
 
       <p className="mt-5 text-sm text-muted-foreground">Showing {visibleEvents.length} events</p>
-      <div className="mt-3 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+      <div className="mt-3 grid gap-3">
         {visibleEvents.map((event) => (
-          <article key={event.id} className="overflow-hidden rounded-xl border bg-card">
-            <Image src={event.coverImage} alt="" width={640} height={360} className="aspect-video w-full object-cover" />
-            <div className="space-y-3 p-4">
-              <div className="flex items-start justify-between gap-3">
-                <p className="text-xs font-semibold text-primary">{getSingaporeTime(event)} SGT</p>
-                <span className="text-right text-xs text-muted-foreground">{event.category}</span>
-              </div>
-              <h3 className="line-clamp-2 text-base font-semibold leading-snug"><Link href={`/${event.slug}`} className="hover:underline">{event.name}</Link></h3>
-              <p className="flex items-center gap-1.5 truncate text-xs text-muted-foreground"><MapPin className="h-3.5 w-3.5 shrink-0" />{event.location}</p>
-              <div className="flex items-center justify-between gap-3">
-                <span className="text-xs text-muted-foreground">{event.price || getPriceType(event)}</span>
-                <a href={event.url} target="_blank" rel="noopener noreferrer nofollow" className="inline-flex items-center gap-1 text-sm font-medium text-primary hover:underline">Register <ExternalLink className="h-3.5 w-3.5" /></a>
-              </div>
-            </div>
-          </article>
+          <EventCard key={event.id} event={event} hideLocation />
         ))}
       </div>
     </section>
