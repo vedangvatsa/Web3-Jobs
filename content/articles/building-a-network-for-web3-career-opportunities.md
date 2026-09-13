@@ -50,3 +50,47 @@ Despite being internet-native, in-person events present high-value networking op
 4. **The "Warm" DM:** After establishing a rapport, send a direct message. Do not ask for a job; instead, seek feedback on your work or pose a specific question about one of their initiatives.
 
 Building a network in Web3 is a long-term commitment. It involves demonstrating value, sharing knowledge, and Building meaningful relationships. Through consistent contributions, you will develop a reputation that attracts top career opportunities in the space.
+
+### Choose Communities With a Clear Reason
+
+Joining every large server makes it hard to contribute anywhere. Start with a small number of projects, technical areas, or professional groups connected to the work you want to do. A developer might follow protocol engineering discussions and local builder meetups. A designer might study wallet usability, creator tools, or governance interfaces. A marketer might follow projects with a product and audience they can describe accurately.
+
+Read the community rules and recent conversations before posting. Learn whether questions belong in a support channel, a forum, a governance board, or a public issue tracker. People notice when a newcomer repeats a question already answered in the documentation. They also notice a specific report that saves someone time.
+
+Pseudonyms are common in Web3, but professionalism still matters. Address people by the name they use, do not pressure anyone to reveal personal information, and avoid treating a pseudonymous account as less accountable for its public work. Trust grows from reliable interactions, not from collecting private contact details.
+
+### Make Public Work Easy to Inspect
+
+Public work is more useful than a vague statement that you are passionate about a field. A developer can publish a small repository with setup steps, tests, and a short explanation of trade-offs. A researcher can write a source-linked note that separates observed facts from opinions. A community contributor can document a meeting, improve an onboarding guide, or report a reproducible bug.
+
+The work should be easy for someone else to check. Include the problem, what you changed or learned, and any limitations. Avoid presenting a tutorial experiment as production expertise. A modest project that works and has clear documentation offers more evidence than a long list of undeveloped ideas.
+
+Keep a single profile or page that links to your preferred contact method and a small selection of work. Update it when a project changes rather than scattering outdated links across platforms. Recruiters and collaborators should be able to understand your focus in a few minutes.
+
+### Start Conversations With Specificity
+
+Useful outreach refers to work the other person actually shared and has a limited request. For example, ask a maintainer whether a documentation issue is still open, or ask a researcher how they selected a source for a published analysis. Do not ask a stranger to mentor you indefinitely or introduce you to their entire network.
+
+If you request feedback, make the review small enough to answer. Link one page, one pull request, or one decision and state the question you are trying to resolve. Thank the person for their time, but do not keep sending follow-up messages if they do not respond. Silence is usually a capacity constraint rather than an invitation to escalate.
+
+When someone helps, follow through. Apply the feedback where it fits, report the result if it is useful, and give credit for a meaningful contribution. That is more credible than a generic message after every interaction.
+
+### Use Events for Follow-Through
+
+Before a conference or meetup, identify a few sessions, projects, or people relevant to your goals. Arrive with a short introduction that names your current work and the type of problem you are learning about. The aim is a real conversation, not distributing as many business cards as possible.
+
+Take brief notes after a conversation: the person's public handle, the subject discussed, and any next step you both agreed on. Send a follow-up within a reasonable time only when there is a clear reason, such as a promised link, a bug report, or a request to review a public draft. Mention the context so the recipient does not have to guess who is writing.
+
+Local events can be more valuable than a large conference because regular attendance lets people see whether you contribute consistently. Offer to help with a small logistical task, share notes from a technical session, or introduce two people whose work has an obvious connection. Do this only with both parties' consent.
+
+### Turn Relationships Into a Job Search Carefully
+
+When you are ready to seek a role, tell close contacts what you can do, the kinds of teams you are considering, and a link to relevant work. Ask whether they know of an appropriate opening or person to contact. Make it easy for them to decline; referrals involve their reputation.
+
+Apply through the official job channel when one exists, even after an introduction. Tailor the application to the role and do not assume that community participation replaces evidence of the required skills. If a role is not available, keep contributing only when the work is genuinely useful to you. A network built solely around an immediate job request rarely lasts.
+
+Healthy networking has boundaries. Do not share confidential information from an employer, promise token allocations, or treat online familiarity as permission to contact someone repeatedly. Consistent, visible work and respectful communication give other people a sound basis for deciding whether to collaborate.
+
+Review your network periodically. Remove stale portfolio links, thank people whose advice shaped a public project, and keep contact information only when there is a legitimate reason to retain it. This small maintenance habit keeps outreach accurate and respects the time and privacy of people you meet.
+
+It also lets you focus future conversations on shared work rather than a generic request for attention.

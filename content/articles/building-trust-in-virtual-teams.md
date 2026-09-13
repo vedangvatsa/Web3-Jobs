@@ -70,3 +70,41 @@ When you share a decision, explain the reasoning. "We're switching to a biweekly
 ## Trust Is a Practice, Not an Achievement
 
 You don't "achieve" trust and move on. It's maintained through ongoing behavior - every commitment you keep or break, every decision you make transparently or behind closed doors. Remote and Web3 teams that treat trust as an active practice consistently outperform those that don't.
+
+## Set Agreements Before Work Gets Busy
+
+Teams often discover their communication rules only after an urgent issue goes badly. Write a short working agreement when the team forms or when a project starts. It should say which channel is used for urgent incidents, where decisions are recorded, how quickly people are normally expected to respond, and which hours are protected from routine messages. A documented default removes guesswork without requiring everyone to be online at the same time.
+
+Define ownership as well as availability. Every decision needs a person who will make the call after gathering input, and every task needs a person who will report progress. Shared responsibility can work for discussion, but it is weak when a release is blocked or a customer needs an answer. Naming an owner does not make that person solely responsible for doing all the work; it makes the next step visible.
+
+Agree on how to raise concerns. A contributor should know whether to comment on a proposal, contact a manager, use an incident channel, or report conduct to an independent person. Teams build confidence when speaking up has a predictable path and does not depend on social status.
+
+## Make Progress Visible Without Constant Surveillance
+
+Remote work needs evidence of progress, not screenshots of activity. A concise weekly update can include completed work, work in progress, a blocked item, and the decision or help needed next. This gives colleagues context and makes it easier to offer useful help. It is more respectful than expecting people to infer progress from online status or message volume.
+
+Project boards and written briefs work best when they answer simple questions: what outcome is expected, who owns it, what is the current state, and what would change the date. Avoid filling a board with tasks that no one reads. A small number of maintained records is more credible than a detailed system that becomes stale after a week.
+
+For a DAO, public progress reports can provide similar clarity while respecting pseudonymity. Link completed work, disclose any relevant compensation, and distinguish a proposal from an approved decision. Contributors should not have to rely on private access to understand how shared funds or priorities are being handled.
+
+## Handle Missed Commitments Constructively
+
+Deadlines slip for legitimate reasons: a dependency changes, a family emergency occurs, or a task turns out to be larger than expected. The trust problem is rarely the delay itself. It is the absence of an early warning and a revised plan. As soon as the date is at risk, explain the constraint, the impact, and the next realistic checkpoint.
+
+Managers and leads should respond to that signal by clarifying priority rather than rewarding people who hide problems until the last moment. Ask whether the scope can be reduced, another person can review the work, or a dependent launch must move. A retrospective should examine the estimate, handoffs, and assumptions instead of looking for someone to blame.
+
+If missed commitments become a pattern, address the pattern privately and specifically. Compare what was agreed with what occurred, ask what is preventing completion, and set a smaller next commitment. If the issue is capacity or unclear scope, change the system. If it is repeated disregard for agreed work, the team may need a different staffing decision.
+
+## Give Feedback That Preserves Dignity
+
+Feedback is easier to trust when it is timely, based on observable work, and paired with a path forward. Rather than saying a teammate is "not collaborative," name the behavior: review comments arrived after the merge window, or a decision was announced without the agreed review. Explain the effect and ask for a change that can be observed next time.
+
+Receive feedback with the same care. Confirm that you understand the example before explaining your intent. Intent can matter, but it does not erase an effect on the team. If you disagree, present facts and propose a way to test the disagreement. That approach keeps feedback from becoming a contest over personalities.
+
+Recognition matters too. Thank people for specific contributions: an incident note that helped another timezone respond, a careful review that prevented a regression, or a clear explanation for a newcomer. Specific recognition teaches the team which behaviors it values and makes invisible coordination work easier to see.
+
+## Protect Trust During Incidents
+
+An incident tests remote habits under pressure. Name an incident lead, open a shared record, and post short updates with confirmed facts, current impact, and the next review time. Do not fill gaps with guesses. People can tolerate uncertainty when they know who is investigating and when they will hear more.
+
+After service is restored, write a factual review that identifies the timeline, contributing conditions, fixes, and owners. Share it with the people affected by the work. A calm review turns an outage or failed launch into evidence that the team can learn together rather than hide difficult information.

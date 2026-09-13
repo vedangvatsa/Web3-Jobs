@@ -55,3 +55,43 @@ The term "confirmed" signifies that your transaction is now officially part of t
 As new blocks are added on top of the block containing your transaction, the difficulty of altering it increases. Each new block adds a "confirmation." After receiving a predetermined number of confirmations, typically six blocks for Bitcoin, the transaction is deemed irreversible or "final." The process concludes here.
 
 This entire decentralized process relies on cryptography and economic incentives, allowing a global network of participants to agree on a shared record without needing trust in one another or a central authority. This verification approach enables blockchain technology significantly.
+
+## What Nodes Check Before Relaying a Transaction
+
+The exact checks vary by protocol, but a node commonly verifies that the transaction is correctly encoded, signed by the required key, and valid under the current chain rules. For an account-based network, the node checks the sender's nonce, which is a sequence number that prevents the same account from submitting two transactions in the same position. It also checks whether the sender can cover the value being sent and the maximum fee.
+
+For a UTXO-based network such as Bitcoin, a transaction spends specific unspent outputs. Nodes verify that those outputs exist, have not already been spent, and satisfy the locking conditions set by the prior transaction. The transaction cannot create more value than its inputs permit, apart from the block subsidy and fees handled under separate consensus rules.
+
+These checks happen before a transaction is placed in a node's mempool, but a mempool is not a shared global queue. Each node chooses which valid transactions to retain based on its own policies and available memory. One node may receive a transaction before another, and a transaction can be dropped if its fee is too low or a replacement transaction is accepted. Seeing a transaction in a wallet or explorer means it was broadcast; it does not mean it has entered a block.
+
+## Fees, Ordering, and Failed Calls
+
+Block producers generally choose transactions according to their network's fee rules, subject to limits on block size or computation. An application should not assume that two transactions submitted seconds apart will execute in that order. A transaction may also be delayed during high demand, replaced by another transaction from the same account, or included after a state change makes its intended action fail.
+
+Smart-contract transactions add another distinction. A transaction can be accepted into a block and still revert while the contract executes. The state changes requested by the failed call are normally undone, but the sender may still pay for computation performed before the revert. A wallet should show whether a transaction was included, whether the call succeeded, and which network it used. Those are separate facts.
+
+Some protocols allow users to set a maximum fee and a priority fee. The maximum protects the sender from paying more than they approved, while the priority portion can encourage quicker inclusion. The terminology differs across chains, so a wallet user should read the confirmation screen instead of treating every fee control as interchangeable.
+
+## Confirmation Is a Risk Decision
+
+One confirmation means a block containing the transaction was accepted by the network's current view of the chain. Later blocks make replacing that history harder on systems where chain weight grows with later blocks. The number of confirmations a recipient requires is a business decision based on the transaction value, the network, and its reorganization risk.
+
+Bitcoin services often use several confirmations for higher-value deposits, while small payments may use fewer. Proof-of-stake systems can provide protocol-defined finality after validator votes, but applications still need to account for network outages, client bugs, and their own operational requirements. A chain's documentation and the service receiving the transfer should determine the relevant threshold.
+
+Users can avoid common verification mistakes by confirming the address, chain, and token before sending. Many addresses have the same format across compatible networks, but the assets on those networks are separate. A token transfer on the wrong chain may be difficult to recover. For a new destination or a large amount, a small test transfer can confirm that the recipient controls the address and can see the intended asset.
+
+## Why Independent Verification Matters
+
+An explorer is useful for reading transactions, yet it is an interface operated by a service. Full nodes independently apply the protocol rules and do not need to trust an explorer's balance display. Businesses that accept important payments may run their own nodes or use more than one provider so a single API error does not decide whether a payment is recognized.
+
+The process is therefore less like a bank approving a transfer and more like many computers applying the same public rule set. Cryptographic signatures establish authorization, nodes reject invalid data, and consensus determines the accepted order of valid blocks. That combination produces a record whose verification can be repeated by any participant with the required software and data.
+
+For businesses, this repeatability supports reconciliation. A payment system can store the transaction hash, sender address, amount, block number, and confirmation status, then check those details again if a customer disputes a payment. It should not treat an incoming transaction as payment for an order until the chain and token match the expected request. A token with a familiar name can exist at a different contract address.
+
+Transaction verification does not validate a commercial agreement outside the chain. A recipient can verify that an address sent a token, but the chain does not show whether the sender received a physical product or whether a service was delivered. Applications need their own receipts, dispute process, and controls for the facts that are not recorded in the transaction.
+
+When a transaction remains pending, first confirm that it was broadcast on the intended network. Then inspect its nonce and fee settings through a trusted wallet or explorer. Depending on the protocol, the sender may be able to speed it up with a replacement transaction or cancel it by replacing it with a higher-fee transaction using the same nonce. These actions are protocol-specific and can fail, so users should read their wallet's instructions before relying on them.
+
+The recipient should wait for the required confirmation state before treating the transfer as settled. Both parties can use the transaction identifier to refer to the same public record without revealing the wallet's recovery information or private key.
+
+That record is durable evidence of network execution, not proof of a broader agreement between the parties.

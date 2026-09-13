@@ -211,3 +211,31 @@ The value of relationships increases over time:
 - A peer you assist today could become your supervisor in the future.
 - Someone you mentor might evolve into your co-founder.
 - The communities you cultivate may transform into reliable DAOs.
+
+## Turn a Conversation Into a Useful Record
+
+Good networking does not require treating people as entries in a sales funnel. It does require remembering context. After a conversation, write down a few private notes: what the person is building, a problem they mentioned, an agreed follow-up, and the date. That makes the next message specific rather than a generic request to reconnect.
+
+If you promised to send a repository, an event link, or an introduction, do it promptly. If an introduction is appropriate, ask both people first and explain why the conversation may be useful to each of them. A short message that names a shared technical problem or complementary experience is better than forwarding two profiles with no context.
+
+Avoid keeping a scorecard of favors. The point of notes is reliability, not accounting. A relationship is healthier when an introduction, review, or answer is offered because it is genuinely useful, not because it creates a debt.
+
+## Communicate Well Across Time Zones
+
+Distributed communities reward people who leave a clear trail. Before asking for feedback, state the decision needed, the relevant links, the deadline, and what has already been tried. A contributor joining eight hours later should be able to respond without reconstructing the entire discussion from chat fragments.
+
+Match the channel to the subject. Use a public forum or governance space for questions that affect the group. Use a private message for sensitive feedback, compensation discussions, or personal matters. Moving a decision to private chat for convenience can exclude contributors and create suspicion, especially in a DAO where participation is part of the work.
+
+Written tone also needs care. Assume a brief reply might be read without facial expression or local context. State disagreement directly but respectfully, describe the trade-off you see, and invite evidence that could change your view. This makes technical debate more productive and protects relationships when a proposal does not pass.
+
+## Build a Reputation Through Small Deliveries
+
+New contributors often try to impress a community with broad claims about what they can do. A better starting point is one clearly scoped task. Fix a documentation error, summarize a governance call, review a pull request, or complete a small bounty with a concise handoff. Explain what changed, link the work, and identify any remaining limitation.
+
+Repeated small deliveries create a record that people can verify. They also let you learn a team's standards before taking on a larger responsibility. When you do accept a larger project, agree on scope, decision owner, deadline, payment terms if relevant, and how completion will be reviewed. Clear expectations are a form of respect for both sides.
+
+## When a Relationship Needs Repair
+
+Misunderstandings are unavoidable in volunteer and remote work. Address them while the facts are fresh. Describe the event without guessing at intent, say how it affected the work, and ask what happened from the other person's perspective. A message such as "The release note was published before review, so support could not answer user questions" is easier to resolve than an accusation about carelessness.
+
+If you made the mistake, acknowledge it without a long defense, say what you will do next, and follow through. Not every collaboration should continue, particularly where there is repeated disrespect, missing payment, or unsafe behavior. Ending a working arrangement politely and documenting the handoff can preserve the wider community connection.

@@ -89,3 +89,39 @@ Signing the agreement is just the beginning; successful execution is critical.
 - **Engage in High-Value Events:** Attend conferences, hackathons, and curated dinners where significant relationships are formed.
 
 The Web3 ecosystem thrives on collaboration. A strong business development strategy cultivates powerful network effects, strengthens competitive moats, and ensures long-term project success.
+
+## Qualify a Partnership Before Announcing It
+
+An attractive logo is not a partnership thesis. Before contacting a prospective partner, write the user problem the integration would solve, the technical dependency it creates, and the evidence that users want it. A wallet connection or joint social post may be easy to arrange but add little if neither product has a reason to send users to the other.
+
+Ask concrete questions during discovery. Which user segment would use the combined product? What action would they take that they cannot take today? Who owns the engineering work? Are there security reviews, governance votes, licenses, or regional restrictions? What metric would show that the work is worth maintaining after launch? A partner that cannot answer every question immediately may still be a fit, but unknowns should appear in the plan rather than becoming surprises during delivery.
+
+Check incentives as well as product fit. A liquidity arrangement, referral payment, token allocation, or exclusive distribution term can affect users and token holders differently. Bring legal, finance, security, and product owners into the conversation early enough to identify constraints. BD should not promise a term that the operating team cannot support.
+
+## Build a Partner Pipeline That Can Be Managed
+
+Use a shared pipeline with stages that reflect real work: research, initial contact, discovery, internal review, proposal, agreement, implementation, launch, and review. Every entry should have a named owner, next action, decision date, and a short reason for priority. This keeps a long target list from becoming a collection of stale introductions.
+
+Prioritization benefits from a simple score, but the score should not pretend to be precise. Consider user overlap, technical effort, revenue or usage potential, strategic fit, reputation risk, and the partner's ability to execute. Record the reasoning beside the score. When priorities change, the team can see whether the assumption changed rather than arguing from memory.
+
+Treat a polite no as useful information. Ask whether the timing, scope, or owner made the proposal unsuitable, then update the record. Do not repeatedly ask the same contact for a meeting after they have declined. Respectful follow-up protects the relationship and leaves room for a later conversation when conditions differ.
+
+## Write a Proposal Engineers Can Use
+
+A business proposal should become an implementation brief, not remain a slide deck. Describe the user flow from the first click through settlement or completion. List each system involved, the data exchanged, security assumptions, support owner, launch dependency, and rollback condition. Attach diagrams or API references when they clarify a handoff, but keep the central decision readable without specialized tooling.
+
+State what is out of scope. If the first release supports one network, one asset, or a limited user group, say so. If marketing is contingent on a completed audit or governance approval, say that too. Clear limits prevent a partner's sales, engineering, and community teams from working from different versions of the deal.
+
+Commercial terms need the same precision. Define the calculation behind a revenue share, the currency and payment schedule, the party responsible for taxes and reporting, and how either side can terminate the arrangement. Token-related terms should include vesting, transfer restrictions, custody, disclosure, and any required approvals. Have qualified counsel review binding documents; a BD lead should not improvise legal advice.
+
+## Measure What Happened After Launch
+
+Launch-day signups and social impressions are weak evidence of a durable integration. Choose a small set of measures connected to the original thesis, such as activated users, completed transactions, retained users, support tickets, or incremental fees. Establish a baseline where possible and agree on a review date before announcing the work.
+
+Review results jointly. A low number may reveal a client bug, unclear onboarding, a changed market condition, or an incorrect assumption about user demand. Decide whether to fix, expand, pause, or retire the integration, and record the decision. Partners remember a team that reports candidly and maintains what it launches.
+
+## Keep a Record of the Relationship
+
+Partner turnover is common, so store agreements, decision notes, launch assets, technical contacts, and review dates in a place the operating team can access. Summarize the current status after each significant meeting. The record should make it possible for a new colleague to understand the commitment without relying on a private message history.
+
+Schedule a lightweight check-in after the first review. Confirm that the integration still works, support channels are monitored, commercial reporting is on schedule, and both parties still want the same outcome. Consistent maintenance is often the difference between a short announcement and a relationship that produces useful work over time.

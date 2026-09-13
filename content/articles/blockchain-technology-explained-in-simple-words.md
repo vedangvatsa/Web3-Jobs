@@ -108,3 +108,25 @@ Blockchain technology is in its infancy, continuously developing and reshaping h
 The journey toward mainstream adoption is ongoing, and many new use cases have yet to emerge. However, the fundamental breakthrough of enabling disparate parties to agree on a common set of facts without requiring mutual trust is significant. This technology transforms reliance on institutions into trust in mathematics and code, set to impact industries beyond finance profoundly.
 
 As blockchain technology matures, its integration into various sectors could lead to more reliable, transparent, and efficient systems, supporting a new era of digital interaction.
+
+## A Blockchain Is Not a General-Purpose Database
+
+Keeping the same record on many machines has costs. Nodes must receive transactions, validate them, and reach the point where they can accept the next block. Storage grows over time, and public data is visible to anyone who can read the chain. Those trade-offs make a blockchain a poor choice for many ordinary applications.
+
+A conventional database is usually a better fit when one organization already has authority to update the record, low latency is essential, or the data must remain private. A blockchain becomes more relevant when several parties need a shared record but do not want one participant to control it alone. Examples can include a transferable digital asset, a public registry, or a program that must execute under rules visible to all participants.
+
+Even then, applications rarely put every detail on-chain. They may store a document, image, or personal record elsewhere and place a hash or reference on-chain. The hash can later show whether the referenced file changed, while the underlying data stays outside the public ledger. This design does not make private data safe by itself; the application must still control access and storage correctly.
+
+## Accounts, Keys, and Fees
+
+People do not store coins inside a wallet application. A wallet manages private keys that can authorize actions associated with blockchain addresses. The public address is safe to share when someone needs to send an asset. The private key, or the recovery phrase that can generate it, must remain secret. Anyone who has it can generally issue valid transactions for the associated account.
+
+Networks also charge fees because transaction processing and block space are limited. On Ethereum, users pay gas for the computational work a transaction asks the network to perform. A simple transfer needs less gas than a smart-contract call that changes several storage locations. The fee a user pays can affect how quickly block producers select the transaction when demand is high.
+
+An address balance is only one part of the account state. Smart contracts can hold tokens, track votes, enforce permissions, or calculate an exchange price. Nodes apply the contract code to a transaction and reject the state change if it violates the protocol rules. That shared execution is useful, but contract errors can become expensive because a valid deployment is not automatically a correct one.
+
+## Reading Claims About Blockchain
+
+Words such as decentralized, immutable, and transparent describe technical properties with qualifications. A public chain may be decentralized at the protocol layer while a few wallet providers, exchanges, or infrastructure companies dominate how people access it. An immutable record can be appended with a correction even though the earlier entry remains visible. Transparent transactions may still be difficult to interpret without knowing which addresses a person or company controls.
+
+The useful question is specific: which party can change the rules, operate the infrastructure, censor a transaction, or access the data? Answering it requires looking at the chosen network, application code, governance process, and service providers. Blockchain does not remove the need for trust in every situation; it can move particular trust decisions into software rules and distributed validation.

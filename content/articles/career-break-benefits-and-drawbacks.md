@@ -86,3 +86,33 @@ Start by outlining a budget of your current and anticipated expenses during your
 
 **What if my workplace doesn't support a career break?**
 Even in challenging environments, you often have more agency than you realize. Start with small, manageable actions that don't require widespread support. Document your progress to showcase your growth. If the environment is consistently unwelcoming to development, it may be time to consider a workplace that aligns better with your career goals.
+
+## Plan the Money Before Giving Notice
+
+Use a conservative budget rather than an optimistic one. List fixed commitments, health insurance, debt payments, taxes, travel, family support, and a contingency for an unexpected expense. Then estimate how long savings would last if no freelance work or investment income arrived. A break is easier to enjoy when its financial boundary is visible.
+
+Check the administrative details that may change with employment. Depending on where you live, these can include health coverage, visa status, retirement contributions, stock-option exercise windows, professional licenses, and access to company devices or accounts. Read employment agreements before assuming that a sabbatical, side project, or return date is available. Ask a benefits or legal professional when the consequence is material and unclear.
+
+Set a review point before the break begins. For example, after three months, compare actual spending with the budget and decide whether the planned return date still fits. A review point is not a failure of commitment; it gives you a way to change course before pressure becomes urgent.
+
+## Design the Break Around a Purpose
+
+Rest is a legitimate purpose. So are caregiving, recovery, study, travel, or testing a different kind of work. Write down what you want the time to make possible, but leave room for unstructured days. Turning every week of a break into a productivity project can recreate the pressure that made time away necessary.
+
+Choose a small number of activities that create evidence if career development is one goal. A course is stronger when paired with a completed assignment. A career exploration effort is stronger when it includes conversations with people doing the work. A creative or technical project is stronger when you can show what you made and explain what you learned.
+
+If health or family needs are the reason for leave, protect privacy. You do not owe a future interviewer a medical history or a detailed account of another person's circumstances. A concise truthful description, such as taking planned time for family care and returning ready for full-time work, is usually enough.
+
+## Stay Connected on Your Own Terms
+
+You do not need to attend every industry event during a break. Select a sustainable rhythm: one monthly conversation with a former colleague, a newsletter or professional group you genuinely read, or an occasional meetup. The aim is to preserve relationships and awareness, not to simulate a full-time job search.
+
+Tell trusted contacts what kind of contact is welcome. You might be open to a short catch-up but unavailable for referrals until a certain month. Clear boundaries prevent well-meaning messages from becoming another obligation. If you work on a paid project while away, decide in advance how much time it may take and whether it affects any leave agreement.
+
+Keep a simple record of meaningful activity: courses completed, projects shipped, volunteer work, caregiving dates if you choose to mention them, and skills practiced. This record is useful when updating a resume because it replaces a vague memory with accurate examples.
+
+## Return With a Transition Plan
+
+Begin the return process before savings force a rushed choice. Refresh your resume, reconnect with references, review role descriptions, and practice the short explanation of your break. Focus on the work you want next rather than trying to defend time away. Employers are looking for evidence that you can do the role now.
+
+The first job after a break does not have to solve every career question. Evaluate its workload, flexibility, pay, and learning opportunities against the priorities you identified before leaving. A measured return can preserve the benefit of the time away better than accepting the first offer out of anxiety.
