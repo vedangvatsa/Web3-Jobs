@@ -19,13 +19,7 @@ Web3 significantly alters this model. In an area characterized by open-source pr
 The most critical transformation involves moving from centralized, closed platforms to open, permissionless protocols.
 
 | Aspect | Web2 Platform (e.g., Twitter) | Web3 Protocol (e.g., Uniswap) |
-|
-
--------------------------|
-
--------------------------------------|
-
------------------------------------|
+| --- | --- | --- |
 | Ownership | Company owns code, data, and user relationships | Built on public blockchain, owned by users |
 | Control | Can change rules, censor users, shut down API | Open-source, no single entity controls it |
 | Value Distribution | Accrues to shareholders | Value shared among protocol users |

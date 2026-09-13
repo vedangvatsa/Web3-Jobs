@@ -37,11 +37,7 @@ A smart contract is essentially a computer program that operates on the blockcha
 The whitepaper detailed various potential applications for smart contracts, many of which have since evolved into significant industries:
 
 | Use Case | Description |
-|
-
------------------------------------|
-
-----------------------------------------------------------------------------|
+| --- | --- |
 | Financial Derivatives and Stablecoins | Smart contracts can create complex financial instruments and tokens pegged to real-world assets, laying the groundwork for the [DeFi](/what-is-defi) ecosystem. |
 | Identity and Reputation Systems | Users can control their digital identity, now central to Self-Sovereign Identity (SSI). |
 | Decentralized File Storage | Coordination of a decentralized network for file storage, foreshadowing projects like IPFS and Filecoin. |

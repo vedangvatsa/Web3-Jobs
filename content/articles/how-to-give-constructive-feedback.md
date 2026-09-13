@@ -29,7 +29,7 @@ Feedback usually breaks down for three reasons:
 
 The simplest structure that actually works is SBI:**Situation, Behavior, Impact.**
 
-- Situation:**Anchor the feedback to a specific moment. "During yesterday's standup..." or "In the proposal you submitted on Monday..."
+- **Situation:**Anchor the feedback to a specific moment. "During yesterday's standup..." or "In the proposal you submitted on Monday..."
 - **Behavior:** Describe exactly what you observed. Stick to facts, not interpretations. "You presented the timeline without including the dependency on the design team" is a fact. "You didn't think it through" is an interpretation.
 - **Impact:** Explain what happened as a result. "The client approved the timeline, but now we'll need to push back the date, which affects their launch."
 

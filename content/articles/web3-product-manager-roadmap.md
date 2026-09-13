@@ -32,7 +32,7 @@ This initial phase emphasizes immersion and establishing a solid understanding o
 
 **Engage with Foundational Materials:**
 
-- Read Essential Texts:**Familiarize yourself with the [Bitcoin](/what-is-bitcoin) and [Ethereum](/what-is-ethereum) whitepapers. Explore influential articles such as "Why Decentralization Matters" by Chris Dixon.
+- **Read Essential Texts:**Familiarize yourself with the [Bitcoin](/what-is-bitcoin) and [Ethereum](/what-is-ethereum) whitepapers. Explore influential articles such as "Why Decentralization Matters" by Chris Dixon.
  - **Curate Information Sources:** Listen to daily podcasts like Bankless and Unchained. Follow leading thinkers and builders on Twitter to stay updated.
 
 2. **Become Proficient with Tools:**
@@ -43,7 +43,7 @@ This initial phase emphasizes immersion and establishing a solid understanding o
 
 3. **Learn Technical and Economic Basics:**
 
-- Technical Literacy:**While coding is not mandatory, grasping fundamental concepts is essential. Understand the Ethereum Virtual Machine (EVM), gas mechanics, Layer 2 solutions, and the distinctions between `call` and `delegatecall`.
+- **Technical Literacy:**While coding is not mandatory, grasping fundamental concepts is essential. Understand the Ethereum Virtual Machine (EVM), gas mechanics, Layer 2 solutions, and the distinctions between `call` and `delegatecall`.
  - **Tokenomics Essentials:** Study the principles of [tokenomics](/understanding-tokenomics). Familiarize yourself with supply and demand dynamics, vesting schedules, and various utility models such as governance and [staking](/how-to-become-a-web3-staking-specialist).
 
 ### Phase 2: Building Your "Proof of Work" Portfolio (Next 6 Months)
@@ -56,7 +56,7 @@ In Web3, your public contributions serve as your [resume](/how-to-build-a-web3-r
 
 **Become an Informed Analyst:**
 
-- Conduct Product Evaluations:**Select a well-known dApp and write a detailed critique. Assess its user experience, growth strategies, and tokenomics. Suggest new features based on your analysis. Share your findings on platforms like Mirror or Substack.
+- **Conduct Product Evaluations:**Select a well-known dApp and write a detailed critique. Assess its user experience, growth strategies, and tokenomics. Suggest new features based on your analysis. Share your findings on platforms like Mirror or Substack.
  - **Create a Dune Dashboard:** Acquire basic SQL skills and use Dune Analytics to develop a dashboard for a protocol you admire. Monitor metrics like user retention, transaction volume, and feature engagement. Share insights on Twitter.
 
 2. **Actively Contribute to a [DAO](/what-is-a-dao):** This represents one of the best avenues for gaining practical experience.

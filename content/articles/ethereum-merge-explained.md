@@ -98,15 +98,7 @@ After the hand-off, a full node is the pair of clients. Running only one side le
 ### Honest trade-offs
 
 | Area | Before the Merge | After the Merge | What to weigh |
-| 
-
---- | 
-
---- | 
-
---- | 
-
---- |
+| --- | --- | --- | --- |
 | Energy | High, miners burned power per block | Very low, validators attest | Clear win on sustainability, but new reliance on client software correctness |
 | Issuance and supply | About 13,000 ETH per day, about 4.6 percent annualized | About 1,700 ETH per day at 14M staked, about 0.5 percent. Burn can offset issuance above about 16 gwei | Lower dilution for holders, but staking yield varies with total staked and network demand |
 | Hardware | ASIC and GPU farms, economies of scale in power | Ordinary hardware, 32 ETH per validator | More accessible to run a node, harder to solo stake without capital |

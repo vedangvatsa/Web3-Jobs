@@ -27,11 +27,7 @@ Dakar's Web3 ecosystem capitalizes on its strengths as a financial and technolog
 The demand for Web3 talent in Dakar is on the rise. Developers with FinTech experience and business professionals adept at managing the regional market are particularly sought after. Salaries reflect the competitive nature of the West African tech scene.
 
 | Job Title | Salary Range (XOF/month) |
-|
-
----------------------------------------------|
-
---------------------------------------|
+| --- | --- |
 | Full-Stack / Mobile Web3 Developer (React, [Solidity](/best-programming-languages-for-blockchain-development)) | Mid-Level: 1,000,000 - 1,800,000<br>Senior: 1,800,000 - 3,000,000+ |
 | Product Manager (FinTech Focus) | 1,500,000 - 2,500,000+ |
 | Business Development & Partnerships | 1,200,000 - 2,200,000+ (plus commission) |
@@ -242,7 +238,7 @@ Begin with these roles to generate income, and consider learning to code later i
 
 **How can I find Dakar-specific Web3 opportunities?**
 
-- Meetups:**Attend startup and tech events in Dakar to connect with others in the field.
+- **Meetups:**Attend startup and tech events in Dakar to connect with others in the field.
 - **Twitter:** Engage with the Senegalese and Francophone Web3 communities.
 - **Job boards:** Use specialized job boards for remote and African roles.
 - **LinkedIn:** Search for "Web3 Remote" opportunities and connect with hiring managers.
@@ -261,7 +257,7 @@ Realistic salary expectations are as follows:
 
 **How can I network across UEMOA?**
 
-- Twitter:**Connect with developers from UEMOA countries.
+- **Twitter:**Connect with developers from UEMOA countries.
 - **Events:** Attend major conferences where pan-African professionals gather.
 - **Online:** Establish an online "Web3 UEMOA" community inviting participants from all eight countries.
 - **Travel:** Attend regional events each year to expand your network.

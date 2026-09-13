@@ -41,7 +41,7 @@ Now that you know the purpose, you can determine who needs to be there. More peo
 - **The "Two-Pizza Rule":** Amazon's Jeff Bezos famously stated that you should never have a meeting where two pizzas cannot feed the entire group. Aim for 3-7 attendees for a decision-making meeting.
 - **Identify Key Roles:**
 
-- The Decider:**Who is the person that ultimately has the authority to make the final decision? They must be in the room.
+- **The Decider:**Who is the person that ultimately has the authority to make the final decision? They must be in the room.
  - **Key Contributors:** Who are the subject matter experts whose input is essential?
  - **Those Who Must Implement:** Who will be responsible for carrying out the decisions made?
 - **Make Attendance Optional for Others:** If someone's input is helpful but not critical, list them as an "optional" attendee. This enables them to manage their own time.

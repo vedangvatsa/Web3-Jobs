@@ -30,15 +30,7 @@ Cairo's Web3 sector is built on demographic strengths and a strong need for fina
 The demand for Web3 talent in Cairo is on the rise, especially for skilled developers and community managers who can engage local markets. While salaries may appear modest compared to global standards, they remain competitive within the local tech ecosystem and offer a commendable quality of life.
 
 | Role | Experience Level | Monthly Salary Range (EGP) |
-|
-
--------------------------------------|
-
-----------------------------|
-
-----------------------------------|
-|
-
+| --- | --- | --- |
 **Smart Contract Developer ([Solidity](/best-programming-languages-for-blockchain-development))** | Mid-Level (2-4 years) | Competitive within local standards |
 | | Senior (5+ years) | Competitive within local standards |
 | | 
@@ -59,7 +51,7 @@ The demand for Web3 talent in Cairo is on the rise, especially for skilled devel
 
 4. **Engage in Networking Opportunities:**
 
-- Local Meetups:**Actively participate in Cairo's Web3 meetups to build connections within the community.
+- **Local Meetups:**Actively participate in Cairo's Web3 meetups to build connections within the community.
  - **Regional Conferences:** Attend major Web3 events in the MENA region, particularly in Dubai, to expand your network and connect with hiring companies.
 
 ### Taking the Next Step: Finding a Web3 Job

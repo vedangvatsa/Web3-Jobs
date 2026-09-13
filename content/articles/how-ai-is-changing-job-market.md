@@ -24,14 +24,9 @@ AI is also making strides in creative and sophisticated sectors. Legal professio
 #### Key Areas of Transformation
 
 | Area of Impact | Description |
-|
-
--------------------------------------|
-
--------------------------------------------------------------------------------------------------------|
+| --- | --- |
 | **Automation of Repetitive Tasks** | Roles with routine tasks, such as data processing and quality control, are the first to be automated. |
 | **Augmentation of Complex Roles** | Professionals like financial analysts and engineers use AI for faster data analysis and risk assessment. |
-|
 
 **Creation of New Roles** | New job categories are emerging, including AI Specialists, Machine Learning Engineers, and Prompt Engineers. |
 

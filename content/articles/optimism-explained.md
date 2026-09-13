@@ -185,13 +185,7 @@ OP does not pay gas. Gas is ETH on OP Mainnet. OP is a governance token and a fu
 ## Pros and cons at a glance
 
 | Area | What Optimism gives you | What you trade |
-| 
-
---- | 
-
---- | 
-
---- |
+| --- | --- | --- |
 | Fees | Execution gas much lower than L1, plus a L1 data fee that is small per tx when batches compress well and blobs are calm. Typically cents per transfer in normal conditions, an order of magnitude cheaper than L1 for swaps and mints. | You still pay L1. Large calldata, many L2s competing for blobs, or a mainnet gas spike raises your OP fee. You cannot cap the L1 fee with current transaction types. |
 | Speed | 2 second soft confirms from sequencer. Apps feel instant. | Soft confirm is not L1 finality. Canonical bridge exits take about 7 days. You need a liquidity bridge for speed, which adds cost and trust. |
 | EVM fit | EVM equivalent at bytecode level. Most Solidity, Hardhat, and Foundry workflows port without changes. | Edge differences remain in fee estimation and L1 fee accounting. Test your app on OP Sepolia, not just mainnet fork. |

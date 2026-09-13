@@ -32,13 +32,7 @@ The current AI ecosystem is predominantly controlled by a few major tech compani
 This situation has led to the emergence of "Decentralized AI" projects, creating the following roles:
 
 | Role | Description | Key Skills |
-|
-
---------------------------------------------------|
-
----------------------------------------------------------------------------------------------------|
-
------------------------------------------------|
+| --- | --- | --- |
 | **Protocol Engineer for Decentralized Compute** | Engineers develop decentralized networks that allow users to rent out spare GPU capacity. | Distributed systems, cryptography, Go or Rust |
 | **Cryptoeconomic Designer for AI** | Professionals design token incentive systems to encourage contributions to decentralized AI networks. | Game theory, economics, tokenomics design |
 | **[DAO](/what-is-a-dao) Manager for AI Models** | Managers enable governance of AI models owned by DAOs, overseeing proposals and revenue distribution. | Community management, governance facilitation, basic AI knowledge |
@@ -56,13 +50,7 @@ While Web3 addresses AI's centralization issues, AI can significantly improve th
 AI integration into Web3 products results in the creation of several hybrid roles aimed at enhancing user experience:
 
 | Role | Description | Key Skills |
-|
-
-----------------------------------------------|
-
------------------------------------------------------------------------------------------------------|
-
----------------------------------------------------|
+| --- | --- | --- |
 | **AI-focused dApp Developer** | Developers create dApps that use AI for intuitive user interfaces, such as natural language processing. | Frontend development (React), Web3 libraries (Ethers.js/Viem), LLM APIs (OpenAI, Gemini) |
 | **On-Chain Data Scientist (AI/ML)** | This role involves applying machine learning models to analyze on-chain data for tasks like fraud detection. | SQL, Python, machine learning frameworks (TensorFlow/PyTorch), blockchain data structures |
 | **Smart Contract Auditor (AI-assisted)** | Auditors use AI tools to detect vulnerabilities, allowing them to concentrate on complex economic logic. | Smart contract auditing, [Solidity](/best-programming-languages-for-blockchain-development), AI code analysis tools |

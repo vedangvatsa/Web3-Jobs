@@ -27,15 +27,7 @@ Dar es Salaam's Web3 ecosystem is evolving, driven by its mobile-native populace
 The Web3 job market in Dar es Salaam is growing, with a significant demand for mobile developers, community educators, and professionals who can adapt global projects to the Tanzanian context.
 
 | Job Title | Role Description | Salary Range (TZS) | Salary Range (USD) |
-|
-
------------|
-
-------------------|
-
----------------------|
-
----------------------|
+| --- | --- | --- | --- |
 | Mobile Web3 Developer (Android, React Native) | Create mobile dApps | Mid-Level: 2,500,000 - 4,500,000 | Significant value |
 | | | Senior: 4,500,000 - 7,000,000+ | Significant value |
 | Community Manager / Educator (Swahili Speaking) | Develop educational content and manage communities | Mid-Level: 1,500,000 - 3,000,000 | Significant value |
@@ -49,7 +41,7 @@ Engaging in the Dar es Salaam Web3 ecosystem requires strategic actions. Here ar
 2. **Prioritize Mobile-First Solutions:** Ensure your [portfolio](/building-web3-portfolio) showcases mobile-first projects. Build dApps that are lightweight, user-friendly, and functional in low-bandwidth environments. This focus demonstrates your capability to cater to the African mobile user.
 3. **Engage with Local Communities:**
 
-- Participate in Meetups:**Be an active participant at Web3 meetups in Dar es Salaam.
+- **Participate in Meetups:**Be an active participant at Web3 meetups in Dar es Salaam.
  - **Connect with Tech Hubs:** Build relationships with local tech hubs and innovation centers that are incubating the next wave of startups.
 4. **Secure a [Remote Job](/remote-work-in-web3) and Build Locally:** The most lucrative pathway often involves acquiring a remote role with a well-funded international protocol. Use your position and knowledge to contribute to building and expanding the local Tanzanian ecosystem.
 
@@ -60,13 +52,7 @@ If you are ready to join a grassroots movement shaping the future of finance in 
 ## Salary Overview for Web3 Positions in Dar es Salaam
 
 | Job Title | Salary Range (TZS) | Salary Range (USD) |
-|
-
------------|
-
----------------------|
-
----------------------|
+| --- | --- | --- |
 | Mobile Developer (Web3) | 2,000,000 - 4,500,000 | Significant value |
 | [Smart Contract Developer](/how-to-become-a-web3-smart-contract-developer) | 3,000,000 - 6,000,000 or significant value (remote) | |
 | Community Manager (Swahili) | 1,500,000 - 3,500,000 | Significant value |

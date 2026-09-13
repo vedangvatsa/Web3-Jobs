@@ -110,13 +110,7 @@ Financial institutions are increasingly using their regulatory relationships to 
 The focus of crypto VC funding is shifting from infrastructure projects to application-layer innovations. This transition could stimulate a new wave of development centered on real-world use cases rather than speculative infrastructure investments.
 
 | Year | VC Funding in AI (Billions USD) | VC Funding in Crypto (Billions USD) |
-|
-
----------|
-
-----------------------------------|
-
--------------------------------------|
+| --- | --- | --- |
 | 2020 | 36 | 4.9 |
 | 2021 | 50 | 31 |
 | 2022 | 90 | 14 |

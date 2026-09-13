@@ -30,22 +30,22 @@ Web3 lawyers operate leading evolving legal challenges. Their roles involve appl
 
 **2. Corporate & [DAO](/what-is-a-dao) Entity Formation:**
 
-- The Core Question:**What legal status does a [DAO](/what-is-a-dao) have? Without a formal structure, DAO members may be treated as a general partnership, exposing them to significant personal liability.
+- **The Core Question:**What legal status does a [DAO](/what-is-a-dao) have? Without a formal structure, DAO members may be treated as a general partnership, exposing them to significant personal liability.
 - **The Work:** Attorneys assist DAOs in establishing traditional legal entities to provide liability protection and enable off-chain interactions, such as signing contracts or opening bank accounts. This often involves forming entities like foundations in favorable jurisdictions, including the Cayman Islands and Switzerland, or using newer structures like Limited Cooperative Associations (LCAs) in the U.S.
 
 **3. Intellectual Property (IP):**
 
-- The Core Question:**Who owns the IP associated with an [NFT](/what-are-nfts)? What rights does a token holder possess?
+- **The Core Question:**Who owns the IP associated with an [NFT](/what-are-nfts)? What rights does a token holder possess?
 - **The Work:** Legal professionals create clear licensing agreements for NFT collections (e.g., using Creative Commons licenses), advise on trademark issues for decentralized brands, and support creators in protecting their digital assets.
 
 **4. Anti-Money Laundering (AML) and Sanctions Compliance:**
 
-- The Core Question:**How can a decentralized protocol adhere to AML regulations and sanctions from agencies like OFAC?
+- **The Core Question:**How can a decentralized protocol adhere to AML regulations and sanctions from agencies like OFAC?
 - **The Work:** Attorneys help [DeFi](/what-is-defi) protocols and other applications implement compliance frameworks. This often involves integrating on-chain analytics tools to screen wallets and block transactions with sanctioned addresses, a process that can be contentious within the crypto community.
 
 **5. Privacy and Data Law:**
 
-- The Core Question:**How do regulations like GDPR apply to a public, immutable [blockchain](/what-is-a-blockchain) where data cannot be erased?
+- **The Core Question:**How do regulations like GDPR apply to a public, immutable [blockchain](/what-is-a-blockchain) where data cannot be erased?
 - **The Work:** Legal professionals advise projects on designing privacy-preserving decentralized applications (dApps). This complex area may involve new technologies like [Zero-Knowledge Proofs](/zero-knowledge-proofs-explained).
 
 ### The Skills and Mindset of a Web3 Lawyer

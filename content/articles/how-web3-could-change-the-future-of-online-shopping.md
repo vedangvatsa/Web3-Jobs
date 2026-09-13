@@ -38,7 +38,7 @@ While platforms like Amazon and Alibaba have dominated Web2 e-commerce, Web3 ena
 - **Mechanism:** These marketplaces function as protocols, using open-source **[smart contracts](/what-are-smart-contracts)** that allow buyers and sellers to transact directly in a peer-to-peer manner.
 - **Key Benefits:**
 
-- Lower Transaction Fees:**By eliminating intermediaries, decentralized marketplaces can offer significantly reduced take rates, allowing sellers to retain a larger share of their revenue.
+- **Lower Transaction Fees:**By eliminating intermediaries, decentralized marketplaces can offer significantly reduced take rates, allowing sellers to retain a larger share of their revenue.
  - **Censorship Resistance:** No single operator can unilaterally remove products or ban sellers; the rules are enforced by code.
  - **Community Governance:** Many decentralized marketplaces are governed by a **[DAO](/what-is-a-dao)**, enabling the community to vote on rules and fee structures.
 
@@ -49,7 +49,7 @@ Web3 also alters the structure of payment systems in e-commerce.
 - **Mechanism:** Instead of relying on credit cards and traditional payment processes, customers can pay merchants directly from their crypto wallets, often using **[stablecoins](/guide-to-stablecoins)**.
 - **Benefits for Merchants:**
 
-- Cost Savings:**A crypto payment processed on a **[Layer 2 network](/guide-to-layer-2s)** incurs a negligible fee, often a fraction of a penny, compared to traditional credit card fees.
+- **Cost Savings:**A crypto payment processed on a **[Layer 2 network](/guide-to-layer-2s)** incurs a negligible fee, often a fraction of a penny, compared to traditional credit card fees.
  - **Instant Settlement:** Merchants receive funds within seconds, not days, improving cash flow and minimizing capital lock-up.
 
 ### The Road Ahead for Web3 in E-Commerce

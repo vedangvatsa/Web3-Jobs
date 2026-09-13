@@ -30,13 +30,7 @@ Harare's crypto ecosystem is pragmatic and utility-focused.
 The formal Web3 job market in Harare is limited, but it presents lucrative remote opportunities with international companies seeking local talent with real-world crypto expertise.
 
 | Role | Description | Salary Range |
-|
-
-------|
-
--------------|
-
---------------|
+| --- | --- | --- |
 | **Smart Contract / DeFi Developer** | Highly sought after for building secure financial protocols | Competitive |
 | **Community Manager / Growth Lead** | Focuses on authentic user engagement across Africa | Competitive |
 | **FinTech Product Manager** | Designs Web3 products that address local financial pain points | Varies based on experience |
@@ -70,11 +64,7 @@ The most promising opportunities for Zimbabwean professionals lie in remote posi
 **Real-World Impact of Web3 Salaries in Harare** A mid-level developer earning a competitive salary in stablecoins can expect to have substantial purchasing power. Here's a breakdown of typical living expenses:
 
 | Expense Category | Estimated Cost |
-|
-
-------------------|
-
------------------|
+| --- | --- |
 | Rent (nice apartment) | Competitive |
 | Food & Living | Competitive |
 | **Total Expenses** |

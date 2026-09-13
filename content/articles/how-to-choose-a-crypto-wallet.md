@@ -127,19 +127,7 @@ For individuals, hardware signers or well-managed multisig are the practical col
 ## At a glance
 
 | Wallet type | Connectivity | Who holds key | Security level | Cost | Best for |
-| 
-
---- | 
-
---- | 
-
---- | 
-
---- | 
-
---- | 
-
---- |
+| --- | --- | --- | --- | --- | --- |
 | Custodial exchange wallet | Hot | Company | Medium, depends on provider | Free to create, fees per trade | Beginners buying or trading often |
 | Browser extension (MetaMask, Rabby) | Hot | You | Moderate | Free | EVM DeFi, daily dApp use |
 | Mobile app (Trust Wallet, Phantom, Rainbow) | Hot | You | Moderate | Free | Everyday sends, mobile DeFi and NFTs on supported chains |
@@ -150,13 +138,7 @@ For individuals, hardware signers or well-managed multisig are the practical col
 | MPC | Hot with distributed shares | Distributed | High for institutions | Enterprise pricing | High-frequency treasury, chain-agnostic needs |
 
 | Feature | Custodial | Non-custodial |
-| 
-
---- | 
-
---- | 
-
---- |
+| --- | --- | --- |
 | Ownership of keys | Third party | You |
 | Account recovery | Password reset and support | 12, 20, or 24-word phrase only |
 | Censorship risk | Provider can freeze or limit | No third party can freeze |

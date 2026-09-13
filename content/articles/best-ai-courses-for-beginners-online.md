@@ -27,19 +27,7 @@ If you are unsure which group you are in, start with a non-technical literacy co
 ## At a glance
 
 | Course | Provider and site | Level and code needed | Time to finish | Access and cost in 2026 | Certificate |
-| 
-
---- | 
-
---- | 
-
---- | 
-
---- | 
-
---- | 
-
---- |
+| --- | --- | --- | --- | --- | --- |
 | Elements of AI, Introduction to AI | University of Helsinki and MinnaLearn at elementsofai.com and course.elementsofai.com | Beginner, no code | Self-paced, about 25 to 30 hours for Introduction | Free, no paywall, browser based. Free certificate. Optional 2 ECTS via Open University if you complete and enroll by the official deadline | Yes, free |
 | AI For Everyone | DeepLearning.AI on Coursera at coursera.org/learn/ai-for-everyone. Instructor Andrew Ng | Beginner, no code | 7 hours listed on Coursera, 4 modules, about 6 to 10 hours with quizzes | Free to audit. Paid certificate via Coursera subscription: about $49 per month for the course, or included in Coursera Plus at $59 per month or $399 per year. Financial aid available | Shareable Coursera certificate if paid |
 | Career Essentials in Generative AI | Microsoft and LinkedIn on LinkedIn Learning at linkedin.com/learning/paths/career-essentials-in-generative-ai-by-microsoft-and-linkedin | Beginner, no code | 4 hours across 5 courses as listed on LinkedIn Learning. Note: path updates on Oct 1, 2026 | Included with LinkedIn Premium, which LinkedIn lists at $29.99 to $39.99 per month or $239.88 per year when billed annually. One-month free trial available. Free via many public libraries and universities. Teams $379.88 per seat per year | Professional Certificate from Microsoft and LinkedIn |

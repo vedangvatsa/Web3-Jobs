@@ -91,18 +91,9 @@ While your position is active, the unrealized PnL is computed using the Mark Pri
 ## Understanding Mark Price and Index Price: Key Differences
 
 | Feature | Index Price | Last Price | Mark Price |
-|
-
----------------|
-
---------------------------------------------------|
-
-------------------------------|
-
---------------------------------------------------|
+| --- | --- | --- | --- |
 | **Definition** | Aggregate price from multiple exchanges | Price of the last executed trade | Price used for liquidation and margin calculations |
 | **Stability** | Designed to be stable and manipulation-resistant | Can fluctuate rapidly | More stable, smoothing out short-term fluctuations |
 | **Impact on Trades** | Reflects true market conditions | Affected by immediate market activity | Affects liquidation risk and unrealized PnL |
-|
 
 **Calculation Method** | Volume-weighted average of spot prices | Based on the order book | Combination of Index Price and moving average of basis |

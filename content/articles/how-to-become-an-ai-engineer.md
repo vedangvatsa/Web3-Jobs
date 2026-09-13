@@ -31,11 +31,7 @@ starting this journey requires commitment. Expect a learning timeline of several
 Python stands as the dominant programming language in AI. Its straightforward syntax and powerful libraries make it the go-to language for machine learning. Proficiency in Python is non-negotiable.
 
 **What to Learn**| Topic | Details |
-|
-
----------------------------|
-
------------------------------------------------------------------------------------------|
+| --- | --- |
 | Core Python Syntax | Data types, loops, functions, classes |
 | Data Structures | Lists, dictionaries, sets, tuples |
 | Key Libraries for Data Science |
@@ -53,11 +49,7 @@ Python stands as the dominant programming language in AI. Its straightforward sy
 Once you are comfortable with Python, shift your focus to learning the theoretical aspects of machine learning. Understanding algorithm mechanics is important, beyond merely executing library functions.
 
 **What to Learn**| Topic | Details |
-|
-
----------------------------|
-
------------------------------------------------------------------------------------------|
+| --- | --- |
 | Supervised Learning | Linear Regression, Logistic Regression, Support Vector Machines (SVMs), Decision Trees |
 | Unsupervised Learning | K-Means Clustering, Principal Component Analysis (PCA) |
 | The ML Workflow | Concepts like feature engineering, training vs. test sets, model evaluation metrics (accuracy, precision, recall) |
@@ -72,11 +64,7 @@ Once you are comfortable with Python, shift your focus to learning the theoretic
 Deep Learning is a vital subfield of machine learning, powering many advanced AI applications, such as image recognition and large language models. This is where you'll acquire critical skills.
 
 **What to Learn**| Topic | Details |
-|
-
----------------------------|
-
------------------------------------------------------------------------------------------|
+| --- | --- |
 | Neural Network Basics | Understanding neurons, activation functions, and backpropagation |
 | Deep Learning Frameworks | Master either
 
@@ -95,11 +83,7 @@ Deep Learning is a vital subfield of machine learning, powering many advanced AI
 While degrees and certificates are valuable, a well-crafted [portfolio](/building-web3-portfolio) of practical projects is essential for landing a job. Your portfolio showcases your ability to apply knowledge to solve real-world challenges.
 
 **What to Build**| Project Type | Description |
-|
-
---------------------------|
-
------------------------------------------------------------------------------------------|
+| --- | --- |
 | Classic Datasets | Create models to classify handwritten digits using the MNIST dataset or predict housing prices with the Boston Housing dataset. These serve as foundational projects in machine learning. |
 | Kaggle Competitions | Engage in data science competitions on Kaggle. Participation helps you tackle real-world problems and assess your skills against others. You don't need to win; showing your work holds value. |
 | Passion Projects | Choose datasets that interest you. If you enjoy sports, analyze game statistics; if music fascinates you, create a genre classifier. Personal projects are often the most rewarding and likely to be completed. |
@@ -112,11 +96,7 @@ While degrees and certificates are valuable, a well-crafted [portfolio](/buildin
 #### Step 5: Acquire Engineering and Deployment Skills (MLOps)
 
 This knowledge differentiates a Machine Learning Engineer from a Data Scientist. You must understand how to transition your model into a production environment.**What to Learn**| Skill | Description |
-|
-
----------------------------|
-
------------------------------------------------------------------------------------------|
+| --- | --- |
 | APIs | Learn to wrap your model in a simple API using frameworks like Flask or FastAPI. |
 | Containerization | Understand how to use Docker to package your application and its dependencies into containers. |
 | Cloud Platforms | Familiarize yourself with AI/ML services from major cloud providers like AWS, Google Cloud, or Azure. |

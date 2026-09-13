@@ -28,13 +28,7 @@ Casablanca's Web3 ecosystem builds on the city's strengths in finance and commer
 The Web3 job market in Casablanca is still taking shape, with most opportunities found in the innovation labs of major banks, FinTech startups, or as remote positions for international companies.
 
 | Role | Mid-Level Salary (MAD/month) | Senior Salary (MAD/month) |
-|
-
------------------------------------------------|
-
--------------------------------|
-
-----------------------------|
+| --- | --- | --- |
 | FinTech / [Blockchain Developer](/how-to-become-a-blockchain-developer) | 20,000 - 35,000 | 35,000 - 60,000+ |
 | Product Manager (FinTech) | 30,000 - 55,000+ | N/A |
 | Business Development (Cross-Border Partnerships)| 25,000 - 50,000+ | N/A |
@@ -55,27 +49,15 @@ The Web3 job market in Casablanca is still taking shape, with most opportunities
 ### Salary Overview
 
 **Developer Compensation:**| Role | Salary Range (MAD/month) |
-|
-
-------------------------|
-
-------------------------------|
+| --- | --- |
 | Junior Developer (0-1 year) | 12,000 - 20,000 |
 | Mid-Level Developer (1-3 years) | 22,000 - 40,000 |
 | Senior Developer (3+ years) | 40,000 - 65,000+ | **Finance & Product:** | Role | Salary Range (MAD/month) |
-|
-
--------------------------------|
-
-------------------------------|
+| --- | --- | --- | --- | --- |
 | FinTech Product Manager | 30,000 - 55,000 |
 | Business Development | 25,000 - 50,000 |
 | Security/Compliance Expert | 35,000 - 60,000 | **Remote (International):** | Role | Salary Range (USD/month) |
-|
-
--------------------------------|
-
-------------------------------|
+| --- | --- | --- | --- | --- |
 | International Web3 roles | $2,500 - $6,000+ |
 | Consulting | $60 - $130/hour |
 

@@ -74,13 +74,7 @@ Biometric authentication plays an essential role in enhancing cybersecurity acro
 The table below illustrates the growing adoption of biometric authentication across different sectors:
 
 | Industry | Adoption Rate (%) | Key Applications |
-|
-
-------------------|
-
--------------------|
-
---------------------------------------|
+| --- | --- | --- |
 | Banking | Significant | Secure transactions, fraud prevention |
 | Healthcare | Significant | Patient identification, access control |
 | Retail | Significant | Payment processing, customer loyalty |

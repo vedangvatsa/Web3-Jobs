@@ -39,11 +39,7 @@ Taxation of cryptocurrencies introduces several layers of complexity beyond trad
 Understanding the tax treatment of various transaction types is essential for effective accounting and tax planning.
 
 | Transaction Type | Tax Implications |
-|
-
-----------------------------------|
-
------------------------------------------------------------------------------------------------------|
+| --- | --- |
 | Buying Cryptocurrency | Not taxable; no sale occurs. |
 | Selling Cryptocurrency | Taxable as capital gain/loss; classified as short-term or long-term based on holding period. |
 | Crypto-to-Crypto Trades | Taxable event; triggers capital gain/loss on the asset sold; new cost basis established for the asset acquired. |

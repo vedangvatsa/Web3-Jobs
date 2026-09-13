@@ -63,7 +63,7 @@ The harder challenge: What if multiple validators collude? What if there are net
 
 They design new consensus protocols or improve existing ones. This involves:**Exploring Different Models:**
 
-- Proof-of-Work:**Solving computational puzzles to validate blocks (Bitcoin)
+- **Proof-of-Work:**Solving computational puzzles to validate blocks (Bitcoin)
 - **Proof-of-Stake:** Validators risk their own coins ([Ethereum](/what-is-ethereum) 2.0)
 - **Proof-of-Authority:** Designated validators (used in some private blockchains)
 - **Proof-of-History:** Proving that events occurred at specific times (Solana)

@@ -18,13 +18,7 @@ A Web3 Marketing Strategist oversees a project's entire go-to-market strategy, e
 ### The Web3 Marketing Playbook: Key Differences
 
 | Key Aspect | Web2 Approach | Web3 Approach |
-|
-
--------------------------|
-
------------------------------------------------|
-
-------------------------------------------------|
+| --- | --- | --- |
 | Marketing Focus | Driving clicks and impressions | Building a growing community |
 | Content Strategy | Generic promotional material | High-quality educational content |
 | Brand Authenticity | Corporate messaging | Transparent and authentic communication |

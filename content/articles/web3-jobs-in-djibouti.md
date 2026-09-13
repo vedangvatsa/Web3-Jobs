@@ -83,7 +83,7 @@ However, interest from enterprises and government sectors is increasing:
 
 **Compensation:**
 
-- Local Hire (Djibouti-based):**Competitive annual salary
+- **Local Hire (Djibouti-based):**Competitive annual salary
 - **International Consultant/Senior Developer:** Project-based contracts often exceed typical rates for multi-month engagements
 - **Typical Structure:** Short-term pilot projects (3-6 months) rather than permanent roles
 
@@ -176,12 +176,13 @@ This process incurs banking fees based on the transaction value.
 - All parties (banks, exporters, importers, insurers) are visible on a shared ledger.
 - Settlement occurs within hours instead of days.
 
-**Jobs This Creates:**- DeFi developers (building financial protocols)
+**Jobs This Creates:**
+- DeFi developers (building financial protocols)
 - Smart contract auditors (ensuring security)
 - Compliance officers (ensuring regulatory alignment)
 - Product managers (designing user experience)
 
-See:**[What Are Oracles?](what-are-oracles)** for insights on how blockchain obtains real-world data about shipments.
+**See:** **[What Are Oracles?](/what-are-oracles)** for insights on how blockchain obtains real-world data about shipments.
 
 ## How to Build a Web3 Career in Djibouti
 
@@ -275,13 +276,7 @@ The Web3 community is global; connect with the broader network while focusing on
 ### Local Market (Djibouti-Based)
 
 | Role | Experience | Annual Salary (USD) |
-|
-
-------|
-
-------------|
-
--------------------|
+| --- | --- | --- |
 | Junior Developer | 0-2 years | Competitive |
 | Mid-Level Developer | 2-5 years | Competitive |
 | Senior Developer / Architect | 5+ years | Competitive |

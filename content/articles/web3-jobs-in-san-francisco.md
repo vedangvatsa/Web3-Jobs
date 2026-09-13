@@ -27,13 +27,7 @@ The Bay Area's leadership in Web3 stems from its rich talent pool, significant c
 The San Francisco Bay Area commands some of the highest salaries for Web3 positions, reflecting the region's high cost of living and intense competition for top technical talent.
 
 | Role | Experience Level | Base Salary Range |
-|
-
-----------------------------------------------|
-
---------------------------|
-
------------------------------|
+| --- | --- | --- |
 | Protocol Engineer (Rust, Go, C++) | Senior (5+ years) | Significant compensation |
 | Smart Contract Security Auditor / Researcher | Senior | Significant compensation |
 | Zero-Knowledge (ZK) Cryptography Engineer | PhD or equivalent | Significant compensation |

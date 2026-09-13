@@ -56,13 +56,7 @@ It is also a good practice to send a farewell email to the broader team or compa
 To ensure a smooth departure, use the following checklist:
 
 | Task | Status | Notes |
-|
-
---------------------------------------------------|
-
---------------|
-
--------------------------------|
+| --- | --- | --- |
 | Provide two weeks' notice | Not Started | Check employment contract |
 | Schedule a meeting with your manager | Not Started | Prepare resignation reasons |
 | Draft a formal resignation letter | Not Started | Include last working day |

@@ -109,19 +109,7 @@ Khronos notes in October 2024 posts that workflows around external references an
 No single headset shows the full standard. Design for progressive enhancement where Quest gets the richest AR, Vision Pro gets the sharpest spatial UI, and desktop gets raw performance.
 
 | Device / Browser | Session types | Input | AR spatial modules | Display and silicon | WebXR notes |
-| 
-
---- | 
-
---- | 
-
---- | 
-
---- | 
-
---- | 
-
---- |
+| --- | --- | --- | --- | --- | --- |
 | Meta Quest 3 and Quest 3S, Meta Quest Browser on Horizon OS | immersive-vr, immersive-ar with full color passthrough, inline | 6DoF controllers, hand tracking 25 joints per hand, simultaneous controller plus hand on Quest 3 | Hit test, plane detection with semantic labels, anchors including persistent, depth CPU and GPU, mesh detection | Quest 3: Snapdragon XR2 Gen 2, Adreno 740, 2064 x 2208 per eye, 90 Hz default 120 Hz optional. Quest 3S: XR2 Gen 2 with lower resolution display. | Most complete WebXR implementation. Lower texture and framebuffer limits than desktop Chrome. Releases tracked at developers.meta.com horizon documentation. |
 | Meta Quest 2 and Quest Pro | immersive-vr, limited passthrough on Quest 2 grayscale | Controllers and hand tracking, eye tracking on Pro not exposed to WebXR | Same modules but reduced quality on Quest 2 | XR2 Gen 1, 1832 x 1920 per eye, 72 or 90 Hz | Good for inline fallback testing but plan for GPU budget cuts versus Quest 3 |
 | Apple Vision Pro, Safari on visionOS 2 and visionOS 26 | immersive-vr by default since visionOS 2, visionOS 1 required manual feature flag. No full immersive-ar module | Gaze and pinch via transient-pointer, hand joint positions, no controllers | Hit test available, plane detection and mesh limited versus Quest. Vision Pro adds its own room mapping via R1 chip and LiDAR outside WebXR | M2 chip, dual micro-OLED displays totaling about 23 million pixels across both eyes, 90 Hz with 96 and 100 Hz modes for video | Highest CPU and GPU headroom but extreme pixel count makes fragment shading expensive. Safari exposes WebXR Device API, Gamepads Module, Hand Input Module and AR Module behind the Immersive Web implementation that Apple co-chairs. |

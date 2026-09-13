@@ -27,13 +27,7 @@ Chennai's Web3 sector benefits from its strong SaaS foundation.
 Chennai's job market shows a particularly strong demand for experienced full-stack and backend developers capable of creating off-chain components for Web3 applications. Salaries are competitive and are on the rise as global companies expand their presence in the region.
 
 | Role | Experience Level | Salary Range |
-|
-
-------------------------------------------|
-
-------------------|
-
----------------------------|
+| --- | --- | --- |
 | Full-Stack Web3 Engineer (React, Node.js)| Mid-Level (3-5 years) | Competitive |
 | | Senior (5+ years) | Competitive |
 | Blockchain Developer ([Solidity](/best-programming-languages-for-blockchain-development) / Hyperledger) | Mid-Level | Competitive |

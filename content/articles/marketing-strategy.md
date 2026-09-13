@@ -67,11 +67,7 @@ In Web3, traditional marketing metrics such as Cost Per Acquisition (CPA) or lea
 ### Key Performance Indicators (KPIs) for Web3 Marketing
 
 | Metric | Description |
-|
-
------------------------------|
-
----------------------------------------------------------------|
+| --- | --- |
 | **Community Metrics** | |
 | Discord Active Members | Daily, weekly, or monthly active users in your Discord server |
 | Twitter Engagement Rate | Likes, replies, and retweets on your tweets |

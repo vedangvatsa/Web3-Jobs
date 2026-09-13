@@ -25,12 +25,10 @@ The subject line holds critical importance in your email. It influences whether 
 **Best Practices for Subject Lines:**| **Practice** |
 
 **Details**|
-|
 
 --------------------------|
 
 -------------------------------------------------------------------------------------------------|
-|
 
 **Be Specific and Clear** | Avoid vague terms like "Update" or "Question." |
 | | 

@@ -20,7 +20,6 @@ New York's position as a Web3 leader arises from its historical role as the fina
 | **Aspect** |
 
 **Details**|
-|
 
 ----------------------------------|
 

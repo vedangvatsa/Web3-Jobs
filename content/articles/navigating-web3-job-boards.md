@@ -81,11 +81,7 @@ Most Web3 companies operate in a remote-first environment across various time zo
 The Web3 job market continuously evolves, but several roles and skills consistently remain in high demand.
 
 | Role | Key Skills |
-|
-
-------------------------|
-
--------------------------------------|
+| --- | --- |
 | Smart Contract Developer| Solidity, Rust |
 | Frontend Engineer | React, Next.js |
 | Community Manager | Community Building, Engagement |

@@ -31,7 +31,6 @@ The job market in Pretoria shows strong demand for professionals experienced in 
 **Description**| **Salary Range (ZAR/month)** |
 
 **Salary Range (USD/month)**|
-|
 
 --------------|
 
@@ -62,13 +61,7 @@ The job market in Pretoria shows strong demand for professionals experienced in 
 | **Position** |
 
 **Salary (ZAR/month)**| **Salary (USD/month)** |
-|
-
---------------|
-
-------------------------|
-
--------------------------|
+| --- |
 | Legal & Policy Officer | Competitive | Competitive |
 | Enterprise Blockchain Developer | Competitive | Competitive |
 | GovTech Product Manager | Competitive | Competitive |
@@ -79,7 +72,6 @@ The job market in Pretoria shows strong demand for professionals experienced in 
 | **Position** |
 
 **Salary (USD/month)**|
-|
 
 --------------|
 

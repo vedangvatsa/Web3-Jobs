@@ -51,7 +51,6 @@ DeSci promotes community-driven funding models that allow stakeholders to decide
 | **Benefits of Community-Driven Funding** |
 
 **Description**|
-|
 
 ------------------------------------------|
 
@@ -76,7 +75,6 @@ DeSci employs decentralized storage networks, such as IPFS and blockchain techno
 | **Benefits of Transparent Research** |
 
 **Description** |
-|
 
 ---------------------------------------|
 

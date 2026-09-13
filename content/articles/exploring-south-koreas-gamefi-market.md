@@ -29,13 +29,7 @@ Several key elements have positioned South Korea as a leader in blockchain gamin
 ### Key Players in the South Korean GameFi Market
 
 | Company | Notable Projects | Description |
-|
-
-------------------|
-
-----------------------------------------------------|
-
--------------------------------------------------------------------------------------------------------------------------------|
+| --- | --- | --- |
 | WeMade | 
 
 *MIR4* | A leading MMORPG that has fully embraced Web3 through its WEMIX platform, which supports a wide range of P2E and P&E games. |

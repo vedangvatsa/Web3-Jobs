@@ -117,13 +117,7 @@ Proving simple transfers is straightforward. Proving arbitrary EVM execution is 
 ## Pros and cons at a glance
 
 | Feature | Optimistic rollups | ZK-rollups |
-| 
-
---- | 
-
---- | 
-
---- |
+| --- | --- | --- |
 | Validation method | Fraud proofs during a challenge window. State accepted unless a valid challenge proves fraud. | Validity proofs verified on L1 before state is accepted. |
 | Challenge period | Yes. Typically about 7 days on OP Stack chains, 6.4 days on Arbitrum One under BoLD. | No challenge period. Finality follows proof verification and L1 confirmation. |
 | Withdrawal through the canonical bridge | About 7 days. Fast liquidity bridges exist but charge a fee and add their own trust assumptions. | No 7 day wait. Users still wait for batch inclusion, proof generation, and L1 confirmation, often minutes to a few hours. |

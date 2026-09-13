@@ -104,13 +104,7 @@ DePIN has the potential to disrupt several highly centralized industries:
 By 2025, DePIN is likely to transition from a niche category to a significant driver of real-world Web3 adoption. Expect to see dApps that rely on decentralized storage and AI companies increasingly using decentralized compute networks for their training requirements. DePIN will demonstrate Web3's capacity to create not only digital economies but also tangible, real-world infrastructure.
 
 | Trend | Description | Expected Impact in 2026 |
-|
-
---------------------------------------------|
-
------------------------------------------------------------------------------|
-
-------------------------------------------------------------------------------------------|
+| --- | --- | --- |
 | Modular Blockchain Thesis | Shift from monolithic to modular architectures for scalability | Surge in app-chains and specialized rollups, enabling new applications and efficiencies |
 | Account Abstraction (EIP-4337) | Transform wallets into smart contracts for improved user experience | Standardization of user-friendly wallets with social login and gasless transactions |
 | Intersection of AI and Web3 | Integration of AI with decentralized models and applications | Emergence of AI-driven dApps and natural language interfaces for smooth interactions |

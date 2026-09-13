@@ -66,13 +66,7 @@ After mastering Solidity, learning Rust becomes more manageable. Key concepts of
 **Your Learning Path:**
 
 | Step | Focus Area | Description |
-|
-
-------|
-
-------------|
-
--------------|
+| --- | --- | --- |
 | 1 | JavaScript/TypeScript & React | Build a strong foundation in modern web development. |
 | 2 | Solidity | explore smart contracts, mastering the language, tooling (like Foundry or Hardhat), and security best practices. |
 | 3 | Rust | Once comfortable with Solidity, explore Rust to expand your horizons and engage with high-performance blockchain ecosystems. |

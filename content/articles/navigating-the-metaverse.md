@@ -98,13 +98,7 @@ When assets are onchain, finance can be built in.
 These are live Web3 worlds, not concepts. Use them to see what works and what does not.
 
 | Platform | What it is | Key details you can verify |
-| 
-
---- | 
-
---- | 
-
---- |
+| --- | --- | --- |
 | **Decentraland** | Browser-based virtual world on Ethereum, governed by a DAO | Built by Ari Meilich and Esteban Ordano starting in 2015. Genesis City contains 90,601 LAND parcels as ERC-721 tokens on Ethereum. MANA is the ERC-20 utility token used for LAND, wearables, and DAO votes. Control of core contracts was transferred to the Decentraland DAO in 2021. Scenes are built with a builder tool or SDK. Clients run in a browser via WebGL, with desktop clients also available. |
 | **The Sandbox** | Voxel-based world on Ethereum and Polygon, built by Pixowl and now run by Animoca Brands | Map contains 166,464 LAND parcels as ERC-721 tokens. SAND is the ERC-20 token with a 3 billion max supply, used for purchases, staking, and governance. Creators use VoxEdit to model voxel assets and Game Maker, a no-code visual scripting tool, to build experiences. Polygon support was added to lower transaction fees. |
 | **Otherside by Yuga Labs** | Browser-based world tied to Bored Ape Yacht Club, with land called Otherdeed | Launched with 55,000 Otherdeed NFTs in April 2022, generating about $320 million in primary sales. The central hub Koda Nexus went live in November 2025 and is accessible via browser without owning land. Otherdeeds include resources and artifacts that connect to evolving gameplay. ApeCoin and ApeChain are used for economy and transactions. |

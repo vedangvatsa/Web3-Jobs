@@ -32,15 +32,7 @@ The demand for Web3 talent in Lagos outstrips supply, resulting in competitive s
 Here is an overview of in-demand positions along with their salary ranges:
 
 | Role | Skill Set Needed | Mid-Level Salary (NGN/month) | Senior Salary (NGN/month) |
-|
-
--------------------------------------------|
-
------------------------------------|
-
--------------------------------|
-
-----------------------------|
+| --- | --- | --- | --- |
 | Smart Contract Developer ([Solidity](/best-programming-languages-for-blockchain-development)) | Secure and efficient DeFi applications | Competitive | Competitive |
 | Full-Stack / Mobile Web3 Engineer | React, React Native | Competitive | Competitive |
 | Product Manager (FinTech/Payments Focus) | Local market expertise | N/A | Competitive |

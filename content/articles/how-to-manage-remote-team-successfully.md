@@ -25,11 +25,7 @@ In a traditional office, synchronous communication is the norm, think meetings a
 An async-first approach means designing communication methods that do not require simultaneous presence.
 
 **Best Practices for Async Communication:**| Practice | Description |
-|
-
--------------------------------|
-
----------------------------------------------------------------------------------------------------|
+| --- | --- |
 | **Writing is a Core Skill** | Clear and concise writing is vital. Invest in training your team to improve their writing abilities. |
 | **Documentation is King** | Maintain a centralized, written resource such as Notion or Confluence. Ensure important information is accessible to all team members. |
 | **Over-Communicate** | Provide detailed context in your communications. Clarify your thought process and specify what you need from others. |
@@ -52,11 +48,7 @@ An async-first approach means designing communication methods that do not requir
 In an office setting, culture develops organically through shared experiences. Remote teams lack these spontaneous interactions, so leaders must intentionally build connection and belonging.
 
 **Strategies for Building Remote Culture:**| Strategy | Description |
-|
-
-------------------------------|
-
-----------------------------------------------------------------------------------------------------------------|
+| --- | --- |
 | **Virtual "Water Coolers"** | Create Slack channels for non-work-related topics like `#pets` or `#gaming` to encourage informal interactions. |
 | **Schedule Social Time** | 
 
@@ -75,11 +67,7 @@ A common pitfall for remote managers is attempting to replicate the in-office "b
 Trust your team. Focus on the quality and impact of their work rather than hours logged online.
 
 **How to Manage by Outcomes:**| Approach | Description |
-|
-
------------------------------|
-
---------------------------------------------------------------------------------------------------------------------|
+| --- | --- |
 | **Set Clear Goals** | Use frameworks like OKRs (Objectives and Key Results) to ensure team members have aligned, measurable goals. |
 | **Focus on Output** | In one-on-one meetings, discuss progress toward goals instead of daily tasks. |
 | **Give Autonomy** | Provide clarity on "what" and "why," but allow team members to determine the "how," building ownership. |
@@ -90,14 +78,9 @@ Trust your team. Focus on the quality and impact of their work rather than hours
 Remote work can blur the boundaries between professional and personal life, increasing the risk of burnout. Managers must proactively help their teams establish healthy work-life boundaries.
 
 **Strategies to Promote Well-being:**| Strategy | Description |
-|
-
-------------------------------|
-
---------------------------------------------------------------------------------------------------------------------|
+| --- | --- |
 | **Lead by Example** | Take vacations and avoid after-hours communication. Your behavior sets the standard for your team. |
 | **Respect Time Zones** | Be considerate of global working hours. Rotate meeting times to accommodate all team members. |
 | **Encourage Time Off** | Promote taking sick days and using vacation time. Regularly remind team members to prioritize their well-being. |
-|
 
 **Check In on Workload** | Use one-on-ones to ask about workload management and help team members re-prioritize if needed. |

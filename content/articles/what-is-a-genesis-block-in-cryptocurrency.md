@@ -17,13 +17,7 @@ Every [blockchain](/what-is-a-blockchain) has a starting point. The **genesis bl
 The uniqueness of the genesis block stems from its lack of a preceding block to reference. 
 
 | Feature | Regular Block | Genesis Block |
-|
-
---------------------|
-
----------------------------------------------|
-
-----------------------------------------|
+| --- | --- | --- |
 | Previous Block Hash| Contains a hash of the prior block | Typically set to zeros or placeholders |
 | Creation | Follows the sequence of prior blocks | The starting point of the entire ledger|
 
@@ -63,16 +57,9 @@ In particular, there is a severe talent shortage in smart contract development, 
 The [Web3 job](/web3-jobs-for-beginners) market shows distinct characteristics compared to Web2:
 
 | Aspect | Web2 Dynamics | Web3 Dynamics |
-|
-
-----------------------|
-
------------------------------------------|
-
---------------------------------------------|
+| --- | --- | --- |
 | **Compensation** | Standard or lower salary levels | Typically higher salaries |
 | **Work Environment** | Often office-based | Predominantly remote, offering flexibility |
 | **Career Growth** | Slower, stable progression | Rapid advancement due to scaling companies |
-|
 
 **Equity Potential** | Limited stock options | Standard token and equity packages |

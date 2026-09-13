@@ -147,7 +147,9 @@ Then write the guide you wish existed. Keep it under 800 words:
 - Expected output and how to verify success
 - Common errors and fixes
 
-Publish the guide on your blog or Mirror.xyz and link the repo.**Step 4: Build a small portfolio that a reviewer can run
+Publish the guide on your blog or Mirror.xyz and link the repo.
+
+**Step 4: Build a small portfolio that a reviewer can run
 
 **Aim for three artifacts:
 
@@ -155,7 +157,9 @@ Publish the guide on your blog or Mirror.xyz and link the repo.**Step 4: Build a
 - One end-to-end tutorial with a GitHub repo that anyone can clone and run, including a README that states what chain, tool versions, and testnet you used
 - One API reference page. Take a public Web3 API, write an OpenAPI snippet, and render it with Swagger UI or Redoc
 
-Host the portfolio on a personal Docusaurus or GitHub Pages site. Each piece should show before and after, what you tested, and what you left out.**Step 5: Engage and apply**- Share your pull request and guide in the project's Discord or developer forum. Ask for a review. Offer to address feedback within 24 hours. Do not ask for a job in the first message.
+Host the portfolio on a personal Docusaurus or GitHub Pages site. Each piece should show before and after, what you tested, and what you left out.
+
+**Step 5: Engage and apply**- Share your pull request and guide in the project's Discord or developer forum. Ask for a review. Offer to address feedback within 24 hours. Do not ask for a job in the first message.
 - Track your work in public. Post the guide on X and tag the docs team. Answer one documentation question per week in that community.
 - Apply to roles titled Technical Writer, Documentation Engineer, or Developer Relations Writer on Hashtag Web3, web3.career, and Cryptojobslist, plus the protocol's own careers page. Tailor the cover note to one doc gap you already fixed for that team and link the artifact.
 

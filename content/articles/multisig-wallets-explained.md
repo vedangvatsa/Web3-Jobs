@@ -57,19 +57,7 @@ Every multisig is an M-of-N quorum:
 Common choices balance recovery against collusion risk. Lower M is more tolerant of lost keys but easier for an attacker who can phish M signers. Higher M is more resistant to theft but more brittle if signers disappear.
 
 | Configuration | Keys (N) | Signatures needed (M) | Tolerates lost keys | What one compromised key does | Typical use |
-| 
-
---- | 
-
---- | 
-
---- | 
-
---- | 
-
---- | 
-
---- |
+| --- | --- | --- | --- | --- | --- |
 | 2-of-3 | 3 | 2 | 1 | Not enough to steal alone | Personal savings, small team treasury |
 | 3-of-5 | 5 | 3 | 2 | Not enough alone, needs two more | Company treasury, protocol operations |
 | 2-of-2 | 2 | 2 | 0 | Not enough alone | Joint account where both must agree |
@@ -79,7 +67,9 @@ For most personal setups, 2-of-3 is the default because it keeps funds movable i
 
 ### How it works on Bitcoin (native, on-chain)
 
-Bitcoin enforces multisig in script, verified by every node. You do not trust a single contract deployer to enforce the rule.**Address types you will see:**
+Bitcoin enforces multisig in script, verified by every node. You do not trust a single contract deployer to enforce the rule.
+
+**Address types you will see:**
 
 - P2SH (pay-to-script-hash, addresses starting with 3).
 
@@ -94,7 +84,9 @@ Bitcoin enforces multisig in script, verified by every node. You do not trust a 
 
 **Two paths exist. Key path uses aggregated Schnorr keys with MuSig2 for n-of-n or FROST for m-of-n, producing one key and one signature on chain that looks like a singlesig spend. Script path uses Tapscripts with OP_CHECKSIGADD, which replaces OP_CHECKMULTISIG for batch-verifiable multisig. Key path is private and cheapest, but needs an interactive signing protocol. Script path is simpler but reveals the policy at spend when that leaf is used.
 
-Active descriptors define the wallet. A modern descriptor looks like `wsh(sortedmulti(2, xpub1/48'/0'/0'/2', xpub2/48'/0'/0'/2', xpub3/48'/0'/0'/2'))`. BIP-48 defines the HD path m/48'/coin'/account'/script' for multisig accounts. m/48'/0'/0'/2' is native SegWit P2WSH, m/48'/0'/0'/1' is P2SH-wrapped. BIP-67 defines sortedmulti so the address is deterministic regardless of xpub order. The descriptor plus checksums is the single file you need to rebuild the wallet. Without it, knowing M seed phrases is not enough to find the funds.**Transaction lifecycle on Bitcoin:** 1. A watch-only coordinator holds the xpubs and descriptor but no private keys. Software like Sparrow, Electrum, Nunchuk, or Specter builds a PSBT (Partially Signed Bitcoin Transaction) with `walletcreatefundedpsbt` in Bitcoin Core.
+Active descriptors define the wallet. A modern descriptor looks like `wsh(sortedmulti(2, xpub1/48'/0'/0'/2', xpub2/48'/0'/0'/2', xpub3/48'/0'/0'/2'))`. BIP-48 defines the HD path m/48'/coin'/account'/script' for multisig accounts. m/48'/0'/0'/2' is native SegWit P2WSH, m/48'/0'/0'/1' is P2SH-wrapped. BIP-67 defines sortedmulti so the address is deterministic regardless of xpub order. The descriptor plus checksums is the single file you need to rebuild the wallet. Without it, knowing M seed phrases is not enough to find the funds.
+
+**Transaction lifecycle on Bitcoin:** 1. A watch-only coordinator holds the xpubs and descriptor but no private keys. Software like Sparrow, Electrum, Nunchuk, or Specter builds a PSBT (Partially Signed Bitcoin Transaction) with `walletcreatefundedpsbt` in Bitcoin Core.
 2. The PSBT travels to signer 1. The hardware device shows destination, amount, change, and fee on its own screen and signs if approved. Each device checks the descriptor it was given at setup, not what the coordinator claims.
 3. The PSBT travels to signer 2 (or more until M is reached). That device verifies independently and adds its signature. Keys never meet on one device.
 4. The coordinator finalizes and broadcasts. Nodes verify the script and signatures. Fees are paid per vbyte. A 2-of-3 P2WSH input is about 250 vbytes versus about 110 vbytes for a singlesig P2WPKH input. A 3-of-5 can exceed 350 vbytes. A Taproot key path FROST spend stays at about 57.5 vbytes regardless of N, because only one Schnorr signature appears on chain.
@@ -131,15 +123,7 @@ Sources: https://docs.safe.global/advanced/smart-account-overview, https://docs.
 These three solve the same problem, eliminating a single point of failure, at different layers. The table matters because teams often pick the wrong trust model.
 
 | Property | On-chain multisig (Bitcoin script or Safe) | MPC / threshold signatures | Shamir Secret Sharing (SSS) |
-| 
-
---- | 
-
---- | 
-
---- | 
-
---- |
+| --- | --- | --- | --- |
 | Where policy is enforced | On chain, verified by every node | Off chain in cryptographic protocol, one signature appears on chain | Off chain, key is split then reassembled |
 | On-chain visibility | Policy visible for P2SH/P2WSH and Safe. Taproot key path with MuSig2/FROST looks like singlesig | Looks like singlesig (one ECDSA or Schnorr signature) | Looks like singlesig (reassembled key signs normally) |
 | Fee | Higher for traditional scripts. P2WSH 2-of-3 about 250 vbytes. Safe pays per signature check plus call | Baseline singlesig fee. 68 vB for ECDSA MPC, 57.5 vB for Schnorr FROST | Singlesig fee, but reassembly has no chain cost |

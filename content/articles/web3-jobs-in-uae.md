@@ -31,13 +31,7 @@ The job market in the UAE is fiercely competitive, with companies offering attra
 | **Role** |
 
 **Experience Level**| **Salary (Tax-Free)** |
-|
-
--------------------------------------------|
-
----------------------------|
-
---------------------------------------------|
+| --- |
 | Smart Contract & Protocol Engineers | Mid-Level (3-5 years) | AED 25,000 - AED 55,000 / month ($80,000 - $180,000 USD tax-free) |
 | | Senior (5+ years) | AED 25,000 - AED 55,000 / month ($80,000 - $180,000 USD tax-free) |
 | Business Development & Partnerships | Experienced Professional | AED 25,000 - AED 55,000 / month ($80,000 - $180,000 USD tax-free) plus commission |
@@ -64,7 +58,6 @@ To discover your next opportunity in one of the most exciting and lucrative cryp
 | **Role** |
 
 **Salary Range (Tax-Free)**|
-|
 
 -------------------------------------------|
 

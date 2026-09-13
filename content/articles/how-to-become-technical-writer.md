@@ -50,7 +50,7 @@ A strong portfolio serves as your most valuable asset when applying for technica
 
 **How to Build a Portfolio with No Experience:**
 
-- Document an Open-Source Project:**Identify a small open-source project on GitHub with inadequate documentation. Fork the project, create a clear README file, or draft a "Getting Started" guide. Submit a pull request with your enhancements. This approach offers practical experience.
+- **Document an Open-Source Project:**Identify a small open-source project on GitHub with inadequate documentation. Fork the project, create a clear README file, or draft a "Getting Started" guide. Submit a pull request with your enhancements. This approach offers practical experience.
 - **Create Your Own "How-To" Guides:** Choose a technical process you are familiar with, such as setting up a development environment. Write a detailed tutorial that includes screenshots and step-by-step instructions.
 - **Rewrite Existing Documentation:** Locate a confusing piece of documentation online. Revise it to enhance clarity and user-friendliness. Include both the original and revised versions in your portfolio to showcase your skills.
 - **Start a Technical Blog:** Focus on a niche you are passionate about, such as [blockchain](/what-is-a-blockchain) technology or a programming language. Publish regular articles that simplify complex concepts.

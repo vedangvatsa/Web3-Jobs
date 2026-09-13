@@ -22,11 +22,7 @@ Continuous education is vital for maintaining relevance in your career. Skills t
 - **Master the Art of Learning**: Focus on acquiring the meta-skill of learning itself. Challenge yourself to quickly grasp new concepts or tools. For example, dedicate a weekend to familiarize yourself with a new software application or spend a month understanding a different industry. This practice builds confidence and adaptability.
 
 | Skill Development Strategies | Description |
-|
-
-----------------------------------------|
-
-------------------------------------------------------|
+| --- | --- |
 | Stay Informed | Follow industry trends and thought leaders. |
 | Cultivate a "T-Shaped" Skillset | Combine deep expertise with broad knowledge. |
 | Master the Art of Learning | Improve your ability to acquire new skills quickly. |

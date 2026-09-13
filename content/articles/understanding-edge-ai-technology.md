@@ -46,13 +46,7 @@ The local processing capabilities of Edge AI offer several benefits:
 Edge AI is transforming a variety of sectors by enabling smarter, more capable devices:
 
 | Application Area | Use Case | Example Device |
-|
-
------------------------|
-
------------------------------------------|
-
-----------------------------|
+| --- | --- | --- |
 | Smartphones | Real-time language translation | Google Pixel, iPhone |
 | Smart Homes | Voice command processing and event detection | Amazon Echo, Nest Cameras |
 | Automotive | Advanced driver-assistance systems (ADAS) | Tesla's Autopilot |

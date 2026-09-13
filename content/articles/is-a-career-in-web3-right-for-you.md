@@ -47,7 +47,6 @@ Pursuing a Web3 career involves distinct trade-offs compared to traditional tech
 | **Pros** |
 
 **Cons**|
-|
 
 -----------------------------------|
 

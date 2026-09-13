@@ -44,15 +44,7 @@ The **vesting period** is the total duration over which the complete token alloc
 Consider a team member, Alice, granted tokens under a "four-year vest with a one-year cliff" arrangement.
 
 | Time Frame | Tokens Vested | Total Available Tokens | Status |
-|
-
-------------------------|
-
----------------|
-
-------------------------|
-
--------------------------------|
+| --- | --- | --- | --- |
 | Day 0 to Day 364 | 0 | 48,000 | No tokens vested |
 | Day 365 (Cliff Met) | 12,000 | 12,000 | 25% of total allocation vested |
 | Month 13 | 1,000 | 13,000 | 36,000 tokens remain |

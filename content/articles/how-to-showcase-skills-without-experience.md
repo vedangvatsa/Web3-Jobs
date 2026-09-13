@@ -21,13 +21,7 @@ If your experience is limited, do not start your resume with it. Place a detaile
 Organize your skills into relevant categories. For example, if you are pursuing a technical position, consider sections like "Programming Languages," "Developer Tools," and "Databases." For marketing roles, use categories such as "Social Media Marketing," "Content Creation," and "Analytics Tools."
 
 | Skills Section Example | Technical Role | Marketing Role |
-|
-
------------------------|
-
-----------------|
-
-----------------|
+| --- | --- | --- |
 | Programming Languages | Python, Java, JavaScript | N/A |
 | Developer Tools | Git, Docker, AWS | N/A |
 | Databases | MySQL, MongoDB | N/A |

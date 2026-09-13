@@ -24,7 +24,7 @@ Canada's crypto ecosystem features a blend of local innovation and significant i
 - **Strong Technical Talent Pipeline:** top-tier institutions like the University of Toronto and the University of Waterloo generate a consistent flow of highly skilled engineering and computer science graduates.
 - **Key Hubs:**
 
-- Toronto:**This city serves as the financial and technical heart of Canada's Web3 scene. It is a major hub for DeFi, core protocol development, and crypto-focused venture capital firms.
+- **Toronto:**This city serves as the financial and technical heart of Canada's Web3 scene. It is a major hub for DeFi, core protocol development, and crypto-focused venture capital firms.
  - **Vancouver:** Known for its creative focus, Vancouver is becoming a significant center for [NFT](/what-are-nfts) projects and blockchain gaming.
  - **Montreal:** Renowned for its AI and gaming industries, Montreal is also emerging as a hub for Web3 development.
 
@@ -33,13 +33,7 @@ Canada's crypto ecosystem features a blend of local innovation and significant i
 Salaries for Web3 positions in Canada are competitive, particularly for senior technical roles. Although they may not always reach the peak levels seen in major U.S. markets, the universal healthcare system and high quality of life make overall compensation packages appealing.
 
 | Role | Experience Level | Salary Range |
-|
-
-------|
-
-------------------|
-
----------------------|
+| --- | --- | --- |
 | **Smart Contract Developer / Protocol Engineer ([Solidity](/best-programming-languages-for-blockchain-development)/Rust)** | Mid-Level (3-5 years) | Competitive |
 | | Senior (5+ years) | Competitive |
 | **Frontend/Full-Stack Web3 Engineer** | Mid-Level | Competitive |
@@ -59,7 +53,7 @@ Salaries for roles such as Smart Contract Developers and Protocol Engineers can 
 
 3. **Network at Local Events:**
 
-- Conferences:**Attend major Canadian conferences such as ETH Toronto and the Blockchain Futurist Conference to engage with the broader ecosystem.
+- **Conferences:**Attend major Canadian conferences such as ETH Toronto and the Blockchain Futurist Conference to engage with the broader ecosystem.
  - **Meetups:** Join local meetup groups in Toronto and Vancouver to build relationships in an informal setting.
 
 4. **Familiarize with the Regulatory Environment:** For finance or legal roles, understanding Canadian securities law and regulations around crypto ETFs can be a significant advantage.

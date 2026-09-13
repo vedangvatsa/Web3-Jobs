@@ -20,11 +20,7 @@ This article clarifies the mechanics of selfish mining, its implications for blo
 ### Key Insights
 
 | Insight | Details |
-|
-
-------------------------------|
-
--------------------------------------------------------------------------------------------------------------------------|
+| --- | --- |
 | **Core Idea** | A selfish miner keeps their discovered blocks private to gain a head start on constructing a longer secret chain. |
 | **The Goal** | To force honest miners to waste their efforts on a public chain that will later be orphaned, thus increasing the selfish miner's relative share of rewards. |
 | **Key Exploit ** | This attack exploits the**[fork choice rule](/what-is-a-blockchain-fork-choice-rule)** and the inherent delays in block propagation in distributed networks. |

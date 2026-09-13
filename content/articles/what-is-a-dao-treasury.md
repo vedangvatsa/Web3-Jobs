@@ -53,26 +53,14 @@ According to financial analytics compiled on [Token Terminal](https://tokentermi
 |                       The Native Token Trap Cycle                       |
 +-------------------------------------------------------------------------+
 | Bull Market:                                                            |
-|   
-
-- Governance token price surges ---> Treasury reports $1B+ balance    |
-|   
-
-- DAO approves aggressive hiring, grants, and spending commitments   |
+| - Governance token price surges ---> Treasury reports $1B+ balance    |
+| - DAO approves aggressive hiring, grants, and spending commitments   |
 |                                                                         |
 | Bear Market:                                                            |
-|   
-
-- Governance token price drops 85%                                    |
-|   
-
-- Treasury purchasing power collapses precisely when capital is needed|
-|   
-
-- Selling native tokens to fund payroll crashes market price further  |
-|   
-
-- Liquidity death spiral: High slippage makes tokens unspendable      |
+| - Governance token price drops 85%                                    |
+| - Treasury purchasing power collapses precisely when capital is needed|
+| - Selling native tokens to fund payroll crashes market price further  |
+| - Liquidity death spiral: High slippage makes tokens unspendable      |
 +-------------------------------------------------------------------------+
 ```
 
@@ -87,35 +75,19 @@ To achieve financial durability across multi-year market contractions, leading o
 |                  The Three-Tier Treasury Framework                      |
 +-------------------------------------------------------------------------+
 | TIER 1: LIQUID OPERATIONAL RUNWAY (18 to 24 Months Expenses)            |
-|   
-
-- 100% denominated in USD-pegged stablecoins (Circle USDC, Tether)   |
-|   
-
-- Dedicated exclusively to monthly core contributor compensation,     |
+| - 100% denominated in USD-pegged stablecoins (Circle USDC, Tether)   |
+| - Dedicated exclusively to monthly core contributor compensation,     |
 |     software infrastructure, RPC nodes, and external security audits    |
 +-------------------------------------------------------------------------+
 | TIER 2: CAPITAL PRESERVATION AND TOKENIZED REAL-WORLD ASSETS (RWAs)     |
-|   
-
-- Low-risk yield generating assets                                    |
-|   
-
-- Tokenized short-term US Treasury bills (Ondo OUSG, BlackRock BUIDL) |
-|   
-
-- Liquid staked Ether (Lido stETH, Rocket Pool rETH)                  |
+| - Low-risk yield generating assets                                    |
+| - Tokenized short-term US Treasury bills (Ondo OUSG, BlackRock BUIDL) |
+| - Liquid staked Ether (Lido stETH, Rocket Pool rETH)                  |
 +-------------------------------------------------------------------------+
 | TIER 3: STRATEGIC PROTOCOL RESERVES & ECOSYSTEM ASSETS                  |
-|   
-
-- Native governance tokens (held for voting delegations and grants)   |
-|   
-
-- Protocol-Owned Liquidity (POL) deployed into AMM pairs              |
-|   
-
-- Strategic token swaps with aligned partner DAOs                     |
+| - Native governance tokens (held for voting delegations and grants)   |
+| - Protocol-Owned Liquidity (POL) deployed into AMM pairs              |
+| - Strategic token swaps with aligned partner DAOs                     |
 +-------------------------------------------------------------------------+
 ```
 
@@ -153,15 +125,9 @@ To eliminate this vulnerability, DAOs place a `TimelockController` contract (pio
 |                                |                                        |
 |                                v                                        |
 | 3. Mandatory Execution Delay (e.g. 48 Hours to 7 Days)                  |
-|    
-
-- Proposal is publicly visible in pending state                      |
-|    
-
-- Community inspects bytecode to verify intended spending            |
-|    
-
-- Allows users to withdraw liquidity if proposal is malicious        |
+| - Proposal is publicly visible in pending state                      |
+| - Community inspects bytecode to verify intended spending            |
+| - Allows users to withdraw liquidity if proposal is malicious        |
 |                                |                                        |
 |                                v                                        |
 | 4. Proposal Executed: Treasury transfers assets to recipient            |

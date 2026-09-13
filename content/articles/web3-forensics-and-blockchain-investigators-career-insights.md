@@ -133,11 +133,7 @@ Blockchain forensics represents a high-demand field. Organizations involved in c
 The following table illustrates average salaries for various roles in blockchain forensics:
 
 | Position | Average Salary |
-|
-
-----------------------------------|
-
----------------------|
+| --- | --- |
 | On-Chain Investigator | $95,000 - $160,000 USD |
 | Internal Compliance Analyst | $95,000 - $160,000 USD |
 | Law Enforcement Liaison | $95,000 - $160,000 USD |

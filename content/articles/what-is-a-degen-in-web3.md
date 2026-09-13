@@ -68,13 +68,7 @@ Degens actively participate in the NFT market, purchasing tokens from lesser-kno
 Degens engage in [DAO](/what-is-a-dao) governance, not out of ideological commitment, but to manipulate voting outcomes that favor their holdings. They may vote for decisions that increase the value of their tokens.
 
 | Activity | Description | Risk Level |
-|
-
----------------------------|
-
------------------------------------------------------------------------------|
-
----------------|
+| --- | --- | --- |
 | Yield Farming | Providing liquidity for high APY DeFi protocols | High |
 | Use Trading | Trading with margin to amplify potential returns | Very High |
 | Aping Into New Tokens | Buying new tokens to capitalize on early investment potential | Very High |

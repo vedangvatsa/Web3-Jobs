@@ -27,7 +27,7 @@ India's Web3 scene stands out for its scale and technical expertise. Several fac
 
 - **Key Hubs:**
 
-- Bangalore:**Known as the "Silicon Valley of India," Bangalore is a main center for Web3 development, housing the headquarters of Polygon and numerous other startups.
+- **Bangalore:**Known as the "Silicon Valley of India," Bangalore is a main center for Web3 development, housing the headquarters of Polygon and numerous other startups.
  - **Hyderabad, Pune, and Delhi (NCR):** These cities are rapidly emerging as significant centers for blockchain talent, each Building its own active local community.
 
 ### In-Demand Roles and Salary Expectations
@@ -37,13 +37,7 @@ The competition for Web3 talent in India has driven salaries to competitive leve
 | **Role** |
 
 **Experience Level**| **Salary Range** |
-|
-
------------------------------------------|
-
-------------------------------|
-
-----------------------------------------|
+| --- |
 | **Smart Contract Developer** | Junior (1-2 years) | ₹25,00,000 - ₹60,00,000 ($30,000 - $72,000 USD) |
 | | Mid-Level (3-5 years) | ₹25,00,000 - ₹60,00,000 ($30,000 - $72,000 USD) |
 | | Senior (5+ years) | ₹25,00,000 - ₹60,00,000 ($30,000 - $72,000 USD) |
@@ -59,7 +53,7 @@ Salaries for top-tier auditors or protocol architects can be significantly highe
 
 1. **Engage with the Community:**
 
-- Online:**Participate in India's active Web3 community through platforms like Twitter, Telegram, and WhatsApp. Join discussions and build your professional network.
+- **Online:**Participate in India's active Web3 community through platforms like Twitter, Telegram, and WhatsApp. Join discussions and build your professional network.
  - **Offline:** Attend local meetups in cities like Bangalore and Hyderabad. National events like ETHIndia, one of the largest Ethereum hackathons, serve as excellent recruiting venues.
 
 2. **Build a Portfolio:** Your portfolio serves as your proof of work.

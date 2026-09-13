@@ -32,13 +32,7 @@ A qubit, or quantum bit, is the fundamental unit of information in a quantum com
 Quantum computers are not designed to replace traditional devices like laptops and smartphones. They are specialized machines tailored for specific tasks.
 
 | Feature | Classical Computer | Quantum Computer |
-|
-
-----------------------|
-
------------------------------------------------------|
-
----------------------------------------------------------------------|
+| --- | --- | --- |
 | **Basic Unit** | Bit (0 or 1) | Qubit (0, 1, or both) |
 | **Operation Method** | Logic gates on bits | Quantum gates on qubits using superposition and entanglement |
 | **Optimal Use Cases** | Everyday tasks such as web browsing, email, gaming | Complex optimization, simulation, and cryptography problems |

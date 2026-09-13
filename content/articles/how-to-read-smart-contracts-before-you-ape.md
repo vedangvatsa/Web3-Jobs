@@ -42,13 +42,7 @@ Once you access the [Solidity](/best-programming-languages-for-blockchain-develo
 | **Keyword** |
 
 **What to Look For**| **Verdict** |
-|
-
--------------------|
-
-------------------------------------------------------------------------------------------------------------|
-
-----------------------------------------------------|
+| --- |
 | `selfdestruct` | If you find `selfdestruct(owner)`, it means the contract owner can destroy the contract and take all funds. |
 
 **EXTREME RED FLAG.

@@ -152,13 +152,7 @@ A supply chain example is the Supplier Compliance Audit Network, known as SCAN, 
 **Tradeoff summary**
 
 | Choice | Gain | Cost |
-| 
-
---- | 
-
---- | 
-
---- |
+| --- | --- | --- |
 | Permissioned ledger such as Hyperledger Fabric | Privacy via channels, pluggable consensus, no token mining, control over members | Smaller network, must recruit members, you run peers and ordering |
 | Public or hybrid such as VeChainThor for Walmart China | Open verification via shared chain, easier consumer QR checks | Fee volatility, data kept private on top of public base needs design |
 | Anchoring EPCIS events only, keep payloads off chain | Lower chain load, keeps GS1 interoperability | Need separate storage and discovery layer for full documents |

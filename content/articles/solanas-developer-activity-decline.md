@@ -21,13 +21,7 @@ Data from Artemis Terminal and several on-chain analytics platforms shows a decl
 The decline manifests not only in the total number of developers but also in retention rates. Fewer new developers remain involved with Solana compared to previous years. The following table illustrates the trend in developer activity over recent months:
 
 | Month | Weekly Active Developers | SOL Price |
-|
-
--------------|
-
---------------------------|
-
------------|
+| --- | --- | --- |
 | December 2022 | 1,200 | Significant value |
 | January 2023 | 1,150 | Significant value |
 | February 2023 | 1,050 | Significant value |

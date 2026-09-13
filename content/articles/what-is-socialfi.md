@@ -78,11 +78,7 @@ Successful SocialFi projects are identifying product-market fit within specific 
 The most promising use cases to date include:
 
 | Use Case | Description |
-|
-
-------------------------------|
-
-------------------------------------------------------------------------------------------------------|
+| --- | --- |
 | Niche communities | Direct monetization by specific interest groups. |
 | Artists and musicians | Selling limited edition content and NFTs directly to fans. |
 | Researchers and experts | Creating token-gated access to research and exclusive content. |

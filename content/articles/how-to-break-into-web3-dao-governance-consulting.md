@@ -92,11 +92,7 @@ Prominent examples illustrate this point. Aave's governance system, which includ
 DAO governance consulting is a growing field, with compensation varying widely:
 
 | Role Description | Compensation Range |
-|
-
------------------------------------|
-
------------------------------------|
+| --- | --- |
 | Independent Consultants | Varies significantly |
 | Protocol Governance Leads | Varies significantly |
 | Governance Research (Think Tanks) | Varies significantly |

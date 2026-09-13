@@ -52,7 +52,7 @@ Even with great preparation, you will likely still feel nervous. Here are techni
 - **Visualize Success:** Spend a few minutes each day in the week leading up to your presentation visualizing yourself giving a successful, confident presentation. Imagine the audience nodding along and applauding at the end. This can help create a positive mental feedback loop.
 - **Use Physical Relaxation Techniques:**
 
-- Deep Breathing:**In the minutes before you speak, take several slow, deep breaths. Inhale for four counts, hold for four counts, and exhale for six counts. This calms your nervous system.
+- **Deep Breathing:**In the minutes before you speak, take several slow, deep breaths. Inhale for four counts, hold for four counts, and exhale for six counts. This calms your nervous system.
  - **Power Posing:** Find a private space (like a bathroom stall) and stand in a "power pose" for two minutes (e.g., stand tall with your hands on your hips, like a superhero). Research by social psychologist Amy Cuddy has shown that this can increase feelings of confidence and reduce stress.
 
 ### During the Presentation

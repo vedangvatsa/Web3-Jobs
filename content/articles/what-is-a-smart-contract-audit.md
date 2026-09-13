@@ -84,13 +84,7 @@ Below is a concise table outlining the smart contract audit process, including t
 | **Phase** |
 
 **Duration**| **Primary Focus** |
-|
-
--------------------------------|
-
-----------------------|
-
----------------------------------------------------------|
+| --- |
 | Scoping and Preparation | 1-2 weeks | Understanding project architecture and documentation |
 | Automated Analysis | 1 week | Identifying basic vulnerabilities using tools |
 | Manual Code Review | 2-4 weeks | In-depth examination of code, logic, and economic models |

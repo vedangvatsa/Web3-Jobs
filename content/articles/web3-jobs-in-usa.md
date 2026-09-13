@@ -26,11 +26,7 @@ The US leads globally in almost every sector of the Web3 industry. Its supremacy
 - **Key Hubs:**
 
 | Hub | Description |
-|
-
----------------------|
-
--------------------------------------------------------|
+| --- | --- |
 | New York City | The focal point for DeFi and traditional finance convergence. Home to major funds, exchanges, and institutional participants. |
 | San Francisco / Bay Area | The nucleus of deep-tech, protocol-level engineering, and research. |
 | Miami & Austin | Emerging hubs recognized for their pro-crypto policies and active communities. |

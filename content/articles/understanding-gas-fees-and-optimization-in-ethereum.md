@@ -22,13 +22,7 @@ Gas counts computation on the Ethereum Virtual Machine (EVM). Every opcode has a
 Common examples, from ethereum.org/gas and ethereum.org/developers/docs/gas:
 
 | Action | Gas used, typical | Notes |
-| 
-
---- | 
-
---- | 
-
---- |
+| --- | --- | --- |
 | Send ETH to another wallet | 21,000 | Fixed, defined in the Yellow Paper as TxGas |
 | Send an ERC-20 token such as USDC | 45,000 - 65,000 | Calls a contract, so it costs more than a plain ETH transfer |
 | Approve a token for a router | 45,000 - 50,000 | Writes an allowance slot |

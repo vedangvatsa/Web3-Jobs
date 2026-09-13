@@ -22,11 +22,7 @@ This article examines the current state of Web3. It acknowledges the industry's 
 Ignoring the valid criticisms of Web3 would be unwise. The industry faces real challenges that demand attention.
 
 | Challenge | Description |
-|
-
--------------------------------|
-
--------------------------------------------------------------------------------------------------|
+| --- | --- |
 | **User Experience (UX)** | The experience of interacting with Web3 remains cumbersome. Setting up a [wallet](/how-to-choose-a-crypto-wallet), managing seed phrases, and understanding gas fees complicate the process, deterring mainstream users. Without improvements in UX comparable to top Web2 applications, widespread adoption will remain elusive. |
 | **Scalability Issues** | Despite advancements in [Layer 2 scaling solutions](/guide-to-layer-2s), core blockchains still struggle with speed and cost. These systems aren't yet equipped to handle significant user bases effectively. |
 | **Speculation vs. Utility** | The last bull market was marked by rampant speculation, particularly in [NFTs](/what-are-nfts) and meme coins, which detracted from genuine utility. This environment has made serious builders and users hesitant to engage. |

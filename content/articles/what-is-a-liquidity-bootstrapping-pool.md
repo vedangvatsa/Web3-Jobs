@@ -218,12 +218,8 @@ An LBP is designed as a temporary price discovery mechanism, typically operating
 |                 |                                                     |
 |                 v                                                     |
 |  [Seed Permanent Liquidity]                                           |
-|  
-
-- Balancer 80/20 Pool (veTokenomics)                                 |
-|  
-
-- Uniswap v3 Full-Range Concentrated Position                        |
+| - Balancer 80/20 Pool (veTokenomics)                                 |
+| - Uniswap v3 Full-Range Concentrated Position                        |
 +-----------------------------------------------------------------------+
 ```
 

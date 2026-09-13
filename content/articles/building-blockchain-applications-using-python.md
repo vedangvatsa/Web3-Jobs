@@ -89,11 +89,7 @@ For Python developers aiming to enter the Web3 space, your existing skills are n
 Several roles use Python skills effectively in Web3:
 
 | Career Path | Responsibilities |
-|
-
----------------------------------|
-
------------------------------------------------------------------------------------------------------------|
+| --- | --- |
 | Backend Engineer | Develop off-chain services that support decentralized applications (dApps), such as APIs and databases. |
 | Data Engineer / Analyst | Create data pipelines that process blockchain data and generate dashboards for insights. |
 | Smart Contract Test Engineer | Write automated test scripts in Python to validate the security and correctness of smart contracts. |

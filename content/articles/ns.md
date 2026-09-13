@@ -21,11 +21,7 @@ The cost structure includes monthly rates for shared and private rooms, with all
 Network School provides an array of features to enhance productivity and community living:
 
 | Feature | Description |
-|
-
--------------------------------|
-
--------------------------------------------------------|
+| --- | --- |
 | Accommodation | Shared or private rooms |
 | Meals | All meals included, prepared on-site |
 | Internet | High-speed WiFi throughout the property |
@@ -55,15 +51,7 @@ Network School addresses several key pain points often faced by remote workers:
 ## Pricing & Logistics
 
 | Room Type | Monthly Cost | Commitment | Approval Time |
-|
-
-------------------|
-
----------------------|
-
----------------------|
-
-------------------------|
+| --- | --- | --- | --- |
 | Shared Room | Monthly rate | Month-to-month | 2-3 weeks |
 | Private Room | Monthly rate | Month-to-month | 2-3 weeks |
 

@@ -29,12 +29,12 @@ The daily responsibilities of a DevRel engineer are diverse and complex. They ac
 
 2. **Community Engagement:**
 
-- Developer Support:**Assisting developers with technical inquiries on platforms such as Discord, Telegram, and forums like Stack Overflow. They serve as the first point of contact for developers facing challenges.
+- **Developer Support:**Assisting developers with technical inquiries on platforms such as Discord, Telegram, and forums like Stack Overflow. They serve as the first point of contact for developers facing challenges.
  - **Event Presence:** Participating in hackathons and conferences, leading workshops, and judging projects. They act as the public representative of the protocol within the developer community.
 
 3. **Product Feedback:**
 
-- Voice of the Developer:**DevRel engineers create a vital feedback loop between the external developer community and internal product and engineering teams.
+- **Voice of the Developer:**DevRel engineers create a vital feedback loop between the external developer community and internal product and engineering teams.
  - **Enhancing the Developer Experience (DX):** They identify pain points and advocate for enhancements to the protocol's APIs, SDKs, and documentation.
 
 ### Skills Essential for DevRel

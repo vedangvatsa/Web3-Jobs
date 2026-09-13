@@ -49,13 +49,7 @@ Cosmos SDK can also be configured as a permissioned enterprise chain by limiting
 ## Feature Comparison Table
 
 | Feature | R3 Corda | Cosmos SDK |
-|
-
--------------------------------|
-
---------------------------------------------------------|
-
---------------------------------------------------|
+| --- | --- | --- |
 | **Privacy model** | Point-to-point; only transaction parties see data | Public by default; privacy requires add-ons or permissioned deployment |
 | **Consensus** | Notary services (pluggable; BFT or CFT options) | Tendermint BFT (CometBFT); instant finality |
 | **Programming language** | Kotlin / Java (JVM) | Go (chain logic); any language for clients |

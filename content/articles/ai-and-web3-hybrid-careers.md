@@ -109,15 +109,7 @@ The AI-Web3 revolution is unfolding. For professionals willing to accept complex
 ### Career Comparison Table
 
 | Role | Key Skills Needed | Average Salary Range | Job Market Demand |
-|
-
-------------------------------------|
-
-----------------------------------------------------------|
-
----------------------------|
-
---------------------------|
+| --- | --- | --- | --- |
 | Decentralized AI Developer | Python, Solidity, Rust, decentralized computing | Competitive | High |
 | ZKML Engineer | ZK-proof frameworks, cryptography, circuit-building | Competitive | Very High |
 | AI Agent Economist | Game theory, statistical modeling, DeFi knowledge | Competitive | Growing |

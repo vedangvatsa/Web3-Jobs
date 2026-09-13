@@ -18,11 +18,7 @@ For Web3 professionals, Bangui presents a unique environment. It offers immense 
 The CAR's Web3 ecosystem distinguishes itself from other African nations due to its reliance on government-led initiatives.
 
 | Aspect | Details |
-|
-
--------------------------------|
-
----------------------------------------------------------------------------------------------|
+| --- | --- |
 | Bitcoin as Legal Tender | Official adoption faces challenges related to infrastructure and public acceptance. |
 | The Sango Project | Aims to establish a national crypto hub, introducing Sango Coin and pathways to e-residency. |
 | Natural Resources Focus | Tokenization of diamonds, gold, and lithium to attract foreign investment. |

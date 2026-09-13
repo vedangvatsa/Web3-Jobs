@@ -21,13 +21,7 @@ Contrary to the belief that traditional networking events favor extroverts, intr
 Redefining networking starts with understanding its true essence. Networking is not merely about collecting business cards; it involves Building genuine relationships. While an extrovert may accumulate numerous contacts at an event, an introvert may find success in forming a few meaningful connections. The focus should be on identifying the right people and establishing real connections.
 
 | Networking Outcome | Introvert | Extrovert |
-|
-
--------------------|
-
------------|
-
------------|
+| --- | --- | --- |
 | Total Contacts | 2 | 20 |
 | Depth of Connection| High | Low |
 

@@ -31,13 +31,7 @@ Argentina's crypto environment exemplifies a culture of problem-solving and tech
 The job market for Argentinian talent operates on a global scale. Although local salaries may seem modest, experienced professionals working remotely for international companies can secure competitive compensation, significantly enhancing their purchasing power locally.
 
 | Role | Salary (Remote, Global Company) | Salary (Local Companies) |
-|
-
---------------------------------------|
-
-----------------------------------|
-
-----------------------------------|
+| --- | --- | --- |
 | Smart Contract Developer / Security Researcher | Competitive | Competitive |
 | Full-Stack Web3 Engineer | Competitive | Competitive |
 | Mid-Level Developer | N/A | Competitive |
@@ -51,7 +45,7 @@ The job market for Argentinian talent operates on a global scale. Although local
 
 3. **Engage with the Buenos Aires Tech Community:**
 
-- Attend Meetups:**Participate in frequent developer and community gatherings in Buenos Aires.
+- **Attend Meetups:**Participate in frequent developer and community gatherings in Buenos Aires.
  - **Join Major Conferences:** Engage in events like ETHLatam and other significant regional conferences. The local network is tight-knit, making personal connections essential.
 
 4. **Target Remote-First Global Companies:** Many of the best opportunities for Argentinian talent arise from international, remote-first companies eager to hire top talent. Position yourself as a top-tier engineer ready to compete globally. Fluency in English is a requirement for these roles.
@@ -63,13 +57,7 @@ To find the latest remote and local job openings in Argentina's strong Web3 ecos
 ## Salary Overview: Web3 Jobs in Argentina
 
 **Local vs. Remote Salaries:**| Role | Remote Salary Range | Local Salary Range |
-|
-
---------------------------------------|
-
-----------------------------------|
-
-----------------------------------|
+| --- | --- | --- |
 | Smart Contract Developer | Competitive | Competitive |
 | Security Researcher/Auditor | Competitive | Competitive |
 | Full-Stack Web3 Engineer | Competitive | Competitive |

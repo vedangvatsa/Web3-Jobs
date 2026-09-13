@@ -68,13 +68,7 @@ Building these competencies is vital for success in any career, whether in [Web3
 ### Core Competencies
 
 | Skill | Importance | Description |
-|
-
--------------------------|
-
-------------------------------------------------------------------------------------------------|
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| --- | --- | --- |
 | Technical Foundation | Essential | Familiarity with technical concepts relevant to your field is non-negotiable. You do not need to be an expert, but foundational knowledge can prevent mistakes. |
 | Communication Excellence | Highly Valuable | The ability to articulate complex ideas clearly sets you apart. Practice writing emails, documentation, and presentations to enhance this skill. |
 | Problem-Solving Methodology | Critical | Tackle problems systematically: define the issue, research solutions, evaluate options, implement, and measure outcomes. This framework applies to various challenges. |
@@ -114,13 +108,7 @@ Building these competencies is vital for success in any career, whether in [Web3
 Web3 teams often work in distributed environments that demand adaptability and clear communication. These skills directly impact your ability to deliver results efficiently. For example:
 
 | Skill | Application | Impact |
-|
-
--------------------------|
-
---------------------------------------------------------------------------------------------------|
-
----------------------------------------------------------------------------------------------------------|
+| --- | --- | --- |
 | Technical + Communication | Shipping products faster | Enhanced collaboration leads to quicker product iterations and releases. |
 | Problem-Solving + Learning Agility | Working through ambiguity with confidence | Ability to address unexpected challenges swiftly, maintaining project momentum. |
 | Emotional Intelligence + Communication | Building trust with colleagues | Strong interpersonal relationships build collaboration and innovation within teams. |

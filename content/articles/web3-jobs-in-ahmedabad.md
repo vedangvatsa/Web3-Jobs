@@ -31,13 +31,7 @@ Ahmedabad's Web3 scene reflects its traditional business strengths and an evolvi
 The job market in Ahmedabad currently favors developers with a solid foundation in traditional software engineering who are willing to transition into blockchain roles. As the ecosystem evolves, the demand for specialized Web3 positions is expected to rise significantly.
 
 | Role | Experience Level | Salary Range |
-|
-
--------------------------------|
-
-----------------------|
-
-----------------------|
+| --- | --- | --- |
 | Full-Stack Developer | Mid-Level (3-5 years)| Competitive |
 | | Senior (5+ years) | Competitive |
 | Blockchain Developer (Solidity)| Mid-Level | Competitive |

@@ -39,11 +39,7 @@ The fundamental structure of a gaming guild revolves around its "scholarship" pr
 The revenue share model aligns incentives among all parties. A typical earnings distribution for a scholar might look like this:
 
 | Earnings Distribution | Percentage |
-|
-
------------------------|
-
-------------|
+| --- | --- |
 | To the Scholar | 60-70% |
 | To the Guild | 20-30% |
 | To the Manager | 5-10% |

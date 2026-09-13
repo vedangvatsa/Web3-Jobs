@@ -32,13 +32,7 @@ The Vietnamese Web3 ecosystem chiefly revolves around gaming, supported by a mas
 The demand for Web3 professionals in Vietnam is high, particularly for roles in game development and community management. Salaries in this sector are competitive when compared to traditional tech jobs in the country, providing an attractive quality of life.
 
 | Role | Mid-Level Salary (USD/month) | Senior Salary (USD/month) |
-|
-
-------|
-
--------------------------------|
-
------------------------------|
+| --- | --- | --- |
 | Game Developer (Unity/Unreal Engine with Web3 experience) | Competitive | Competitive |
 | [Smart Contract](/what-are-smart-contracts) Developer ([Solidity](/best-programming-languages-for-blockchain-development)) | Competitive | Competitive |
 | Community Manager (with GameFi experience) | Competitive | Competitive |
@@ -62,11 +56,7 @@ Explore opportunities in one of the world's most dynamic GameFi hubs by visiting
 ## Salary Overview: Web3 Careers in Vietnam
 
 | Role | Salary Range (USD/month) |
-|
-
-------|
-
----------------------------|
+| --- | --- |
 | Game Developer | Competitive |
 | [Smart Contract Developer](/how-to-become-a-web3-smart-contract-developer) | Competitive |
 | Community Manager | Competitive |

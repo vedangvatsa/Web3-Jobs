@@ -102,7 +102,9 @@ Curated venues such as SuperRare filter who can mint. Only invited artists can m
 
 ### OpenSea - the generalist
 
-OpenSea launched in December 2017 by Devin Finzer and Alex Atallah, went through Y Combinator Winter 2018, and became the largest NFT venue by volume. After Blur took daily volume share in early 2023, OpenSea rebuilt the platform as OS2, launched in beta January 26, 2025 and opened publicly in February to May 2025, cut fees, added token trading, and expanded chain coverage.**Verified fees and chains as of 2026:**- 1% fee for selling NFTs, 10% fee for minting an NFT in a primary drop through OpenSea, 0% for swaps, with private listings typically at 0% at this time. Source: support.opensea.io/en/articles/8867091-what-fees-do-i-pay-on-opensea, updated May 12, 2026.
+OpenSea launched in December 2017 by Devin Finzer and Alex Atallah, went through Y Combinator Winter 2018, and became the largest NFT venue by volume. After Blur took daily volume share in early 2023, OpenSea rebuilt the platform as OS2, launched in beta January 26, 2025 and opened publicly in February to May 2025, cut fees, added token trading, and expanded chain coverage.
+
+**Verified fees and chains as of 2026:**- 1% fee for selling NFTs, 10% fee for minting an NFT in a primary drop through OpenSea, 0% for swaps, with private listings typically at 0% at this time. Source: support.opensea.io/en/articles/8867091-what-fees-do-i-pay-on-opensea, updated May 12, 2026.
 - Fee timeline: 2.5% original, then 0.5% during OS2 beta, then a 0% promotion around the planned SEA token window, then 1% from September 15, 2025 for all chains as final phase of rewards. Source: docs.opensea.io/changelog/opensea-fee-update, September 9, 2025.
 - Chain coverage: over 20 chains after OS2, including Ethereum, Base, Polygon, Arbitrum, Optimism, Avalanche, Zora, Blast, Sei, Berachain, Ronin, and others. Solana and Bitcoin assets can be browsed, but full trading is EVM-focused. The May 2025 OS2 launch listed 14 chains at first, then expanded. Sources: support.opensea.io and thenftbuzz.com summary of OS2 February 13, 2025 launch.
 - Creator earnings: optional by default. Enforced only if you deploy through OpenSea Studio after April 2, 2024 at 10:00 a.m. PT or use an ERC721-C or ERC1155-C compatible contract with enforcement turned on via Seaport 1.6 and Payment Processor support. Max 10%.
@@ -207,19 +209,7 @@ Do not plan around these venues. Accounts of shutdowns are useful for risk asses
 Use this as a planning sheet. Check the live checkout before you list, because fees can change and gas moves by block.
 
 | Marketplace | Marketplace fee | Who pays | Creator royalties | Primary chains as of 2026 | Status |
-| 
-
---- | 
-
---- | 
-
---- | 
-
---- | 
-
---- | 
-
---- |
+| --- | --- | --- | --- | --- | --- |
 | OpenSea (OS2) | 1% for sales, 10% for primary drops via OpenSea, 0% for swaps and private listings | Seller for sales | Optional by default, enforced only with ERC721-C or ERC1155-C plus Payment Processor, max 10% | 20+ chains including Ethereum, Base, Polygon, Arbitrum, Optimism, Avalanche, Zora, Blast, Sei, Berachain, Ronin | Active |
 | Blur | 0% | No venue fee, buyer still pays chain gas and any royalty | Minimum 0.5% default, full if collection blocks OpenSea | Ethereum only | Active |
 | Magic Eden | 2% per transaction | Buyer side per help article, generally quoted as total 2% | Supported per collection, optional | Solana focused after March 2026, plus prior support for Ethereum, Polygon, Bitcoin Ordinals | Active on Solana |

@@ -35,7 +35,7 @@ ReFi is changing the voluntary carbon market, which has historically been opaque
 
 - **Advantages:**
 
-- Transparency:**Each transaction is recorded on a public ledger, which simplifies tracking the lifecycle of a carbon credit and prevents double-spending.
+- **Transparency:**Each transaction is recorded on a public ledger, which simplifies tracking the lifecycle of a carbon credit and prevents double-spending.
  - **Liquidity:** Tokenized carbon credits can be traded on decentralized exchanges, building a more liquid and efficient global market.
  - **Composability:** These carbon-backed tokens can be integrated into DeFi protocols. For instance, they could serve as collateral for loans, creating new financial incentives for climate action.
 
@@ -70,11 +70,7 @@ Quadratic Funding (QF) provides a mathematically optimal approach to fund public
 The ReFi movement is generating a new array of career opportunities for professionals passionate about Web3 and social impact.
 
 | Role | Description |
-|
-
--------------------------------|
-
---------------------------------------------------------------------------------------------------|
+| --- | --- |
 | ReFi Protocol Developer | Engineers building core infrastructure for on-chain carbon markets or DeSci platforms. |
 | Impact Project Manager | Professionals managing the implementation of real-world regenerative projects. |
 | [DAO](/what-is-a-dao) Governance / Community Lead | Individuals managing DAOs that fund and govern impact-focused projects. |

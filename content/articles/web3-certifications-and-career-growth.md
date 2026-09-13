@@ -33,13 +33,7 @@ Not all certifications offer the same value. Their worth correlates with the qua
 These certifications focus on smart contract security and are revered within the industry.
 
 | Certification | Issuer | Details |
-|
-
----------------|
-
---------|
-
----------|
+| --- | --- | --- |
 | Certified Smart Contract Auditor (CSCA) | Secureum | This bootcamp emphasizes hands-on learning about EVM security. Passing the final exam is a notable achievement. |
 | EthernautDAO Bootcamp | EthernautDAO | An intensive, cohort-based program led by top security researchers, providing practical experience in identifying vulnerabilities. |
 | Cantina Bootcamp | Cantina | Similar to EthernautDAO, this bootcamp offers hands-on vulnerability assessment training. |
@@ -53,13 +47,7 @@ Yes, for those aspiring to enter the field of security research. A top-tier cert
 These certifications cater to developers aiming to validate their skills in building decentralized applications (dApps).
 
 | Certification | Issuer | Details |
-|
-
----------------|
-
---------|
-
----------|
+| --- | --- | --- |
 | ConsenSys Blockchain Developer Bootcamp | ConsenSys | An extensive program covering the full stack, from Solidity to front-end integration, offered by a prominent player in the [Ethereum](/what-is-ethereum) ecosystem. |
 | Chainshot Ethereum Developer Bootcamp | Chainshot | This hands-on program guides developers from beginner to full-stack dApp creation, recognized for its thorough curriculum and career support. |
 | Pointer | Pointer | This platform offers project-based tutorials for various Web3 technologies, often in partnership with relevant protocols. |
@@ -73,13 +61,7 @@ Yes, particularly for Web2 developers transitioning into Web3. These programs pr
 These certifications emphasize foundational knowledge rather than practical building skills.
 
 | Certification | Issuer | Details |
-|
-
----------------|
-
---------|
-
----------|
+| --- | --- | --- |
 | Certified Blockchain Expert | Blockchain Council | This program assesses your theoretical understanding of blockchain technology. |
 | Certified Ethereum Expert | Blockchain Council | Similar focus on Ethereum, examining your grasp of its workings. |
 | On-Chain Analytics Certifications | Various Providers | These certifications teach usage of tools like Dune Analytics and Nansen for on-chain data analysis. |

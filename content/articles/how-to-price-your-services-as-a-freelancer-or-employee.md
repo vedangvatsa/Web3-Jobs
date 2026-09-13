@@ -20,7 +20,7 @@ To price your services accurately, first, you must understand the value you crea
 
 1. **Assess Your Skills and Experience:**
 
-- Experience Level:**Identify whether you are a junior, mid-level, or senior professional. Your experience directly influences your pricing.
+- **Experience Level:**Identify whether you are a junior, mid-level, or senior professional. Your experience directly influences your pricing.
  - **Skill Rarity:** Consider the uniqueness of your skills. Common skills, such as basic React development, command lower rates than rare specializations like [[smart contract](/what-are-smart-contracts) security auditing](/smart-contract-auditor-career).
  - **Track Record:** Evaluate your "proof of work." Have you successfully built products? Do you have a strong [portfolio](/building-web3-portfolio) showcasing public contributions? Tangible results serve as your best use.
 

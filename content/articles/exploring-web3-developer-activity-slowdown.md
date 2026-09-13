@@ -44,11 +44,7 @@ In the early stages of Web3, development primarily focused on building core infr
 A new wave of developers, not solely protocol engineers, now uses mature infrastructure to create user-facing products. This includes:
 
 | Category | Description |
-|
-
----------------|
-
---------------------------------------------------------------------------------------------------|
+| --- | --- |
 | GameFi | Development of Web3 games prioritizing enjoyment over speculative earning. |
 | DePIN | Establishing networks for real-world services such as cloud storage, wireless connectivity, and energy grids. |
 | SocialFi | Creation of decentralized social media platforms that enable users with ownership of data and content. |

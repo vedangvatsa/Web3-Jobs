@@ -49,11 +49,7 @@ To grasp JIT liquidity, one must first understand the innovation of concentrated
 JIT liquidity relies on several key factors:
 
 | Factor | Description |
-|
-
----------------------------|
-
--------------------------------------------------------------------------------------------------------|
+| --- | --- |
 | **Transparent Mempool** | The ability to monitor large pending swaps before they are executed provides a tactical advantage. |
 | **Concentrated Liquidity** | Uniswap v3's design allows for precision targeting of liquidity, enabling JIT bots to dominate other passive LPs. |
 | **Atomic Transactions** | The capability to bundle actions into a single transaction ensures the strategy remains risk-free for the bot. |

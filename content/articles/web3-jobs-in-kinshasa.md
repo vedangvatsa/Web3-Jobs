@@ -20,7 +20,6 @@ Kinshasa's developing Web3 sector is influenced by the DRC's distinct economic a
 | **Sector** |
 
 **Opportunities**|
-|
 
 ----------------------------------|
 
@@ -37,13 +36,7 @@ The Web3 job market in Kinshasa is still emerging. Most significant opportunitie
 | **Role** |
 
 **Description**| **Salary Range** |
-|
-
------------------------------------|
-
----------------------------------------------------------------------------------------------------------------|
-
------------------------------------|
+| --- |
 | **Remote Blockchain Developer** | Skilled developers from the DRC are highly sought after for remote positions. | Competitive compensation |
 | **Supply Chain/Enterprise Consultant** | Experts in mining who can implement blockchain solutions are valuable for corporate and NGO projects. | Competitive compensation |
 | **Community Manager** | Bilingual professionals who can engage local communities in French, Lingala, or Swahili. | Competitive compensation |
@@ -64,13 +57,7 @@ The Web3 job market in Kinshasa is still emerging. Most significant opportunitie
 | **Career Track** |
 
 **Position**| **Salary Range** |
-|
-
------------------------------------|
-
---------------------------------|
-
------------------------------------|
+| --- |
 | **Developer Track** | Junior Developer | Competitive compensation |
 | | Mid-Level Developer | Competitive compensation |
 | | Senior Developer | Competitive compensation |
@@ -132,7 +119,6 @@ The Web3 job market in Kinshasa is still emerging. Most significant opportunitie
 | **Days** |
 
 **Action**|
-|
 
 ------------------|
 

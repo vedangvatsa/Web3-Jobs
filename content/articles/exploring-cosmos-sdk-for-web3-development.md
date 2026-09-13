@@ -27,27 +27,17 @@ The Cosmos SDK is designed around a strict separation of concerns between consen
 |                  Cosmos Stack System Boundary Mapping                   |
 +-------------------------------------------------------------------------+
 | Layer 3: Application Logic (Cosmos SDK Modules)                         |
-|   
-
-- Core modules: x/auth, x/bank, x/staking, x/gov, x/ibc               |
-|   
-
-- Custom business logic: Order books, oracles, privacy engines        |
+| - Core modules: x/auth, x/bank, x/staking, x/gov, x/ibc               |
+| - Custom business logic: Order books, oracles, privacy engines        |
 +-------------------------------------------------------------------------+
 | Interface: ABCI 2.0 (Application Blockchain Interface)                  |
-|   
-
-- PrepareProposal, ProcessProposal, VoteExtensions, FinalizeBlock     |
+| - PrepareProposal, ProcessProposal, VoteExtensions, FinalizeBlock     |
 +-------------------------------------------------------------------------+
 | Layer 2: Consensus & Networking (CometBFT)                              |
-|   
-
-- P2P gossip protocol, Tendermint BFT consensus, validator sets       |
+| - P2P gossip protocol, Tendermint BFT consensus, validator sets       |
 +-------------------------------------------------------------------------+
 | Layer 1: Cryptographic Ledger Storage                                   |
-|   
-
-- IAVL+ Merkle trees, LevelDB / RocksDB, state commitment roots       |
+| - IAVL+ Merkle trees, LevelDB / RocksDB, state commitment roots       |
 +-------------------------------------------------------------------------+
 ```
 
@@ -74,36 +64,22 @@ ABCI 2.0 gives the application direct influence over block proposal and validato
 |                                |                                        |
 |                                v                                        |
 | 2. Proposer calls `PrepareProposal` on Cosmos SDK App                   |
-|    
-
-- App can reorder, insert, or prune transactions                     |
-|    
-
-- Injects in-consensus oracle prices or MEV auction bundles          |
+| - App can reorder, insert, or prune transactions                     |
+| - Injects in-consensus oracle prices or MEV auction bundles          |
 |                                |                                        |
 |                                v                                        |
 | 3. Validators call `ProcessProposal`                                    |
-|    
-
-- Validates proposed block integrity before voting                   |
+| - Validates proposed block integrity before voting                   |
 |                                |                                        |
 |                                v                                        |
 | 4. Validators call `ExtendVote` during Precommit                        |
-|    
-
-- App generates non-deterministic data (e.g. price feeds)            |
-|    
-
-- Signs cryptographic vote extensions attached to precommit vote     |
+| - App generates non-deterministic data (e.g. price feeds)            |
+| - Signs cryptographic vote extensions attached to precommit vote     |
 |                                |                                        |
 |                                v                                        |
 | 5. CometBFT finalizes block, calls `FinalizeBlock`                      |
-|    
-
-- Combines BeginBlock, DeliverTx, EndBlock, and Commit               |
-|    
-
-- Deterministically applies state updates to IAVL storage            |
+| - Combines BeginBlock, DeliverTx, EndBlock, and Commit               |
+| - Deterministically applies state updates to IAVL storage            |
 +-------------------------------------------------------------------------+
 ```
 
@@ -162,12 +138,8 @@ The Cosmos SDK enforces security through an Object-Capability (object-cap) secur
 | [Custom Module: x/dex]                                                  |
 |    |                                                                    |
 |    +---> Requires: BankKeeper (Defined as strict Go interface)          |
-|    |     
-
-- SendCoins(ctx, sender, recipient, amt)                       |
-|    |     
-
-- (CANNOT call MintCoins or BurnCoins)                         |
+|    | - SendCoins(ctx, sender, recipient, amt)                       |
+|    | - (CANNOT call MintCoins or BurnCoins)                         |
 |    |                                                                    |
 | [Core Module: x/bank]                                                   |
 |    |                                                                    |

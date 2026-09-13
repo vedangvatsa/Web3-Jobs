@@ -63,13 +63,7 @@ This process requires coordination between shards, adding some complexity. Howev
 Sharding and Layer 2 solutions complement each other rather than compete:
 
 | Feature | Sharding (Layer 1) | Layer 2 Solutions |
-|
-
------------------------------|
-
------------------------------------------|
-
---------------------------------------|
+| --- | --- | --- |
 | Modifies core blockchain | Yes | No |
 | Complexity | High | Lower |
 | Scalability potential | Massive scalability gains | Quick deployment |

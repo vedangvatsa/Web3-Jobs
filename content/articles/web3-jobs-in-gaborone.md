@@ -20,7 +20,6 @@ Gaborone's Web3 ecosystem is influenced by Botswana's economic strengths and its
 | **Aspect** |
 
 **Details**|
-|
 
 ---------------------------------------|
 
@@ -37,13 +36,7 @@ The formal Web3 job market in Gaborone remains small, with opportunities primari
 | **Role** |
 
 **Typical Salary (BWP/month)**| **Description** |
-|
-
------------------------------------------------|
-
----------------------------------------|
-
-----------------------------------------------------------------------------------|
+| --- |
 | **Enterprise [Blockchain Developer](/how-to-become-a-blockchain-developer)** | 25,000 - 50,000+ | Developers create solutions for enterprise clients, particularly in supply chain and finance. |
 | **FinTech Product Manager** | 30,000 - 55,000+ | PMs design and manage the development of compliant digital asset products. |
 | **Business Development (Enterprise & Government)** | 25,000 - 50,000+ | Professionals establish relationships with government agencies and corporations to enable blockchain adoption. |
@@ -63,13 +56,7 @@ The formal Web3 job market in Gaborone remains small, with opportunities primari
 | **Role** |
 
 **Salary Range (BWP/month)**| **USD Equivalent** |
-|
-
-------------------------------------------|
-
-----------------------------------------|
-
-------------------------------------------|
+| --- |
 | **Junior Developer (0-1 year)** | 15,000 - 25,000 | Varies |
 | **Mid-Level Developer (1-3 years)** | 25,000 - 45,000 | Varies |
 | **Senior Developer (3+ years)** | 45,000 - 70,000+ | Varies |

@@ -29,11 +29,7 @@ Tokens that represent shares of a company's profits, ownership [stakes](/how-to-
 Security tokens serve as digital wrappers for various traditional financial assets. They can represent:
 
 | Type | Description |
-|
-
---------------------|
-
--------------------------------------------------------------------------------------------------|
+| --- | --- |
 | **Equity** | Shares of ownership in a private or public company. |
 | **Debt** | Loans or bonds that pay interest to the token holder. |
 | **Real Estate** | Fractional ownership of real estate properties, allowing investors to participate in the market.|

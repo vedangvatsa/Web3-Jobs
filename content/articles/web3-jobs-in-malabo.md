@@ -52,11 +52,7 @@ Given the absence of a local job market, focus on becoming globally competitive.
 Begin with foundational blockchain knowledge and choose your specialization:
 
 | Role Type | Learning Path |
-|
-
---------------------------|
-
------------------------------------------------------------------------------------------------------------------|
+| --- | --- |
 | **Developers** | 
 
 - Learn Solidity through platforms like Udemy, Coursera, or freeCodeCamp.<br>- Build 3-4 smart contract projects on GitHub.<br>- Contribute to open-source projects (e.g., [Ethereum](/what-is-ethereum), Solana, Hyperledger).<br>- Study smart contract security best practices. |
@@ -145,11 +141,7 @@ Beyond energy, Equatorial Guinea's geographical position offers potential as a r
 ### Key Opportunities
 
 | Opportunity | Description |
-|
-
----------------------------------|
-
----------------------------------------------------------------------------------------------------------------|
+| --- | --- |
 | **Remittance Infrastructure** | Like many African nations, Equatorial Guinea could benefit from faster and cheaper money transfer corridors for diaspora remittances. |
 | **CBDC Development** | Should Equatorial Guinea pursue a central bank digital currency, demand for expert developers and architects will rise. |
 | **Cross-Border Trade Finance** | With ports and regional trade connections, blockchain-based solutions for customs and trade settlements could provide significant value. |
@@ -166,15 +158,10 @@ Beyond energy, Equatorial Guinea's geographical position offers potential as a r
 As a remote Web3 professional based in Malabo, salary expectations can vary significantly:
 
 | Role Type | Salary Range (USD/month) |
-|
-
----------------------------------|
-
------------------------------------------------|
+| --- | --- |
 | **Junior Developer (1-2 years)** | Varies based on experience and location. |
 | **Mid-Level Developer (3-5 years)** | Varies based on experience and location. |
 | **Senior Developer (5+ years)** | Varies based on experience and location. |
-|
 
 **Blockchain Consultant** | Varies based on project scope and expertise. |
 

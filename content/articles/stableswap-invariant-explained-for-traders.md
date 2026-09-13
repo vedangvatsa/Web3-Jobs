@@ -21,18 +21,11 @@ This article explains the StableSwap invariant, its functionality, and its advan
 ### Key Insights
 
 | Feature | Description |
-|
-
----------|
-
--------------|
-|
-
+| --- | --- |
 **Hybrid Formula** | The StableSwap invariant smoothly transitions between a constant sum formula (`x + y = k`) and a constant product formula (`x * y = k`). |
 | **Primary Goal** | It aims to create a bonding curve that remains flat when liquidity pools are balanced but still offers liquidity when one asset de-pegs. |
 | **Low Price Impact** | It results in minimal price impact (slippage) for substantial trades between assets like USDC and DAI. |
 | **Amplification Parameter (A)** | The shape of the StableSwap curve is influenced by the amplification parameter `A`. A higher value flattens the curve, concentrating liquidity around the peg. |
-|
 
 **Capital Efficiency** | Concentrating liquidity enables greater capital efficiency compared to general-purpose AMMs. |
 
@@ -67,11 +60,7 @@ The StableSwap invariant merges the benefits of both the constant sum and consta
 The **amplification parameter**, or `A`, is important in controlling the StableSwap invariant's behavior:
 
 | A Value | Curve Characteristics |
-|
-
----------|
-
------------------------|
+| --- | --- |
 | High | Flatter curve, concentrating liquidity tightly around the 1:1 price. Suitable for stable, highly correlated assets (e.g., USDC/DAI/USDT pool). |
 | Low | More curved shape resembling a standard constant product formula. Used for pegged assets with higher volatility (e.g., pools involving different liquid [staking](/how-to-become-a-web3-staking-specialist) derivatives like stETH/rETH). |
 
@@ -82,13 +71,7 @@ By adjusting the `A` parameter, Curve pools optimize for the specific characteri
 The bonding curves can be visualized as follows:
 
 | Formula Type | Description | Visual Representation |
-|
-
------------------------|
-
--------------------------------------------------|
-
---------------------------------|
+| --- | --- | --- |
 | Constant Product | Smooth, symmetric hyperbola | ![Constant Product Curve](https://example.com/constant_product_curve) |
 | Constant Sum | Perfect diagonal line | ![Constant Sum Curve](https://example.com/constant_sum_curve) |
 | StableSwap (Curve) | Almost flat near the center, sharply curves away | ![StableSwap Curve](https://example.com/stableswap_curve) |

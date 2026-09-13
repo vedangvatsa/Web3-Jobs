@@ -39,11 +39,7 @@ For each new word, the model evaluates the prompt and the previously generated w
 Generative AI operates as a versatile technology with applications spanning multiple industries.
 
 | Application Area | Description |
-|
-
-------------------------|
-
---------------------------------------------------------------------------------------------------------------|
+| --- | --- |
 | Content Creation | Writers use LLMs to brainstorm ideas, draft articles, and overcome writer's block. Marketers generate ad copy and social media content. |
 | Art and Design | Artists use image generation models to create concept art, illustrations, and photorealistic images from simple text prompts. |
 | Software Development | Developers employ AI coding assistants like [GitHub](/building-web3-portfolio) Copilot to write boilerplate code, debug issues, and translate code between different [programming languages](/best-programming-languages-for-blockchain-development). |

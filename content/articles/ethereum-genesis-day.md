@@ -29,11 +29,7 @@ For the subsequent year, the core team worked relentlessly. They developed the p
 Ethereum's defining feature is its smart contracts, programmable code residing on the blockchain that executes automatically when predefined conditions are met. This innovation enabled several new capabilities:
 
 | Capability | Description |
-|
-
--------------------------------|
-
-------------------------------------------------------------------------------------------------------|
+| --- | --- |
 | Conditional Transactions | Transactions could be designed to execute only when specific conditions were satisfied (e.g., "execute this contract when 30 days have passed AND the price of ETH exceeds a certain amount"). |
 | Decentralized Logic | Business logic could be enforced through code running on thousands of nodes, eliminating the need for trusted intermediaries. |
 | Programmable Money | Developers could create novel financial instruments, such as bonds, derivatives, and lending protocols, without establishing a traditional company. |

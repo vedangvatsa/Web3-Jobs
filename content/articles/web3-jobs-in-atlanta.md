@@ -18,11 +18,7 @@ The Web3 community in Atlanta emphasizes payments technology and enterprise appl
 Atlanta's Web3 environment builds on the city's traditional economic strengths, particularly in finance and technology.
 
 | Key Strengths | Description |
-|
-
-------------------------------------|
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| --- | --- |
 | Global FinTech and Payments Hub | Atlanta leads the financial technology industry, hosting major operations for a significant portion of the world's payment processing companies. This expertise provides a foundation for innovation in [DeFi](/what-is-defi) and blockchain-based payment solutions. |
 | Strong University and Research Presence | Home to top-tier institutions like Georgia Tech and Emory University, Atlanta produces a pipeline of engineering and business talent. Georgia Tech's blockchain research lab actively engages students in Web3 initiatives. |
 | Diverse and Growing Talent Pool | The city attracts tech talent seeking affordable living and a better work-life balance. This diverse population creates a rich talent pool for Web3 companies. |
@@ -33,13 +29,7 @@ Atlanta's Web3 environment builds on the city's traditional economic strengths, 
 The demand for Web3 talent in Atlanta is steadily increasing, particularly for professionals who can bridge traditional FinTech and decentralized protocols. Competitive salaries reflect the quality of life in this affordable city.
 
 | Role | Experience Level | Salary Range |
-|
-
-------------------------------------------------|
-
------------------------|
-
-------------------------------------------|
+| --- | --- | --- |
 | Smart Contract / Backend Developer (Solidity, Go, Rust) | Mid-Level (3-5 years) | Competitive |
 | | Senior (5+ years) | Competitive |
 | Full-Stack Web3 Engineer (React/Vue) | Mid-Level | Competitive |

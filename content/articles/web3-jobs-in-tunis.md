@@ -31,13 +31,7 @@ Tunis's emergence as a Web3 talent hub rests on a solid educational foundation a
 The job market for Tunisian Web3 professionals primarily targets global and remote positions. As a result, top talent can secure salaries significantly higher than the local average, especially when compensated in major currencies.
 
 | Role | Mid-Level Salary (Remote) | Senior Salary (Remote) |
-|
-
----------------------------------------|
-
------------------------------------|
-
----------------------------------|
+| --- | --- | --- |
 | Smart Contract & Backend Developer | Competitive compensation | Higher-end compensation |
 | Full-Stack Web3 Engineer | Competitive compensation | Higher-end compensation |
 | Local Roles | | |
@@ -247,7 +241,7 @@ Engage with the community on Twitter, contribute to open-source projects, and pa
 
 **Learning Platforms**
 
-- Alchemy University:**A leading free Web3 development course.
+- **Alchemy University:**A leading free Web3 development course.
 - **CryptoZombies:** Interactive Solidity tutorials.
 - **OpenZeppelin:** Resources on smart contract security.
 - **Chainlink Documentation:** Advanced DeFi knowledge.
@@ -255,7 +249,7 @@ Engage with the community on Twitter, contribute to open-source projects, and pa
 
 **Communities & Networking**
 
-- Twitter:**Follow influential figures in the Web3 space.
+- **Twitter:**Follow influential figures in the Web3 space.
 - **Discord:** Join channels for Ethereum, Aave, and other major protocols.
 - **Local Meetups:** Create or join a "Tunis Web3 Developers" group.
 - **Conferences:** Attend events like EthDubai and EthCC.
@@ -268,7 +262,7 @@ Engage with the community on Twitter, contribute to open-source projects, and pa
 
 **Hands-On Practice**
 
-- Code4rena:**Participate in smart contract audits.
+- **Code4rena:**Participate in smart contract audits.
 - **Immunefi:** Report security vulnerabilities for bounties.
 - **EthGlobal Hackathons:** Compete, build, and network.
 

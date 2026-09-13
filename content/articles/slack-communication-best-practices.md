@@ -32,13 +32,7 @@ A well-structured set of channels forms the backbone of an organized Slack works
 - **Use the Channel Topic and Description:** Clearly define each channel's purpose in its topic or description. This helps users determine whether they are in the correct channel.
 
 | Channel Type | Purpose | Example Channel Name |
-|
-
------------------------|
-
-----------------------------------------------|
-
--------------------------------------|
+| --- | --- | --- |
 | Project Channel | Discussions related to specific projects | `#proj-q3-website-redesign` |
 | Team Channel | Communication within functional teams | `#team-engineering` |
 | Help Channel | Requests for assistance | `#help-it` |
@@ -80,11 +74,7 @@ If you make a mistake or need to add information, edit your original message ins
 ## Slack Best Practices Summary Table
 
 | Practice | Description |
-|
-
----------------------------------|
-
-----------------------------------------------------------------------------------------------|
+| --- | --- |
 | Default to Public Channels | Promote transparency and open access to information. |
 | Use Standardized Naming | Establish predictable channel structures for easy navigation. |
 | Reply in Threads | Keep conversations organized and reduce noise in channels. |

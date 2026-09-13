@@ -54,11 +54,7 @@ Avoid crafting your own proxy contracts from scratch. This task is complex and l
 **OpenZeppelin Upgrades Plugins**.
 
 | Plugin Name | Description |
-|
-
---------------------------------------|
-
------------------------------------|
+| --- | --- |
 | `@openzeppelin/hardhat-upgrades` | Integration with Hardhat |
 | `@openzeppelin/foundry-upgrades` | Integration with Foundry |
 

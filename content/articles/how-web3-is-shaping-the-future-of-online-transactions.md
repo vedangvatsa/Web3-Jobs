@@ -40,7 +40,7 @@ Web3 payments operate on open public blockchains rather than the closed networks
 - **Operational Mechanics:** When a user pays a merchant using a stablecoin, the transaction is broadcast to a public blockchain such as [Ethereum](/what-is-ethereum) or a scalable **[Layer 2 network](/guide-to-layer-2s)** like Arbitrum. Validators on the network process the transaction, settling funds in the merchant's [wallet](/how-to-choose-a-crypto-wallet) in seconds.
 - **Benefits:**
 
-- Lower Transaction Fees:**On a Layer 2 network, transaction costs can be mere fractions of a penny compared to traditional payment methods.
+- **Lower Transaction Fees:**On a Layer 2 network, transaction costs can be mere fractions of a penny compared to traditional payment methods.
  - **Rapid Settlement:** Transactions settle and become final once confirmed on the blockchain, usually within seconds.
  - **Permissionless Access:** Anyone with a cryptocurrency wallet and internet access can participate without the risk of being de-platformed.
 

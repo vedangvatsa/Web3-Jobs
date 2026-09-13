@@ -27,11 +27,7 @@ Python's dominance in the AI field stems from three key attributes:
 Three libraries form the cornerstone of any AI or data science project:
 
 | Library | Purpose |
-|
-
-----------------|
-
-------------------------------------------------|
+| --- | --- |
 | **NumPy** | Handles numerical operations |
 | **Pandas** | Enables data manipulation and analysis |
 | **Scikit-learn** | Provides tools for building traditional machine learning models |

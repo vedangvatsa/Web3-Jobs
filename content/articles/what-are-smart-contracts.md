@@ -44,17 +44,10 @@ Smart contracts are integral to nearly all decentralized applications (dApps). T
 ### Application Areas
 
 | Sector | Description | Career Opportunities |
-|
-
-------------------------------|
-
---------------------------------------------------------------------------------------------------|
-
------------------------------------------------------------|
+| --- | --- | --- |
 | **Decentralized Finance (DeFi)** | Smart contracts power decentralized exchanges, lending platforms, and stablecoins. | Solidity developers, security auditors, financial engineers |
 | **Supply Chain Management** | They can automatically track goods through the supply chain, releasing payments upon verification. | Logisticians, IoT specialists |
 | **Insurance** | Parametric insurance contracts can execute payouts automatically based on data triggers. | Insurance analysts, data scientists |
-|
 
 **Governance (DAOs)** | Decentralized Autonomous Organizations use smart contracts for voting and fund management. | Community managers, governance experts, DAO tooling developers |
 

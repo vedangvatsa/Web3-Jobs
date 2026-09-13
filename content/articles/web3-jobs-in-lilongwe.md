@@ -28,13 +28,7 @@ The future of the Web3 ecosystem in Lilongwe will likely reflect Malawi's unique
 Currently, the formal Web3 job market in Lilongwe is limited. Aspiring professionals should aim to develop globally competitive skills and pursue [remote work](/remote-work-in-web3) opportunities with international Web3 companies.
 
 | Role | Description | Salary Range |
-|
-
-------|
-
--------------|
-
----------------------------|
+| --- | --- | --- |
 | Remote Full-Stack / Mobile Developer | Developers skilled in mobile app creation with blockchain integration are well-positioned for high-paying remote roles. | Varies |
 | AgriTech / FinTech Product Manager | Understanding the agricultural challenges in Malawi and the potential of Web3 can lead to valuable consulting roles or startups. | Varies |
 | Community Educator (Chichewa/English) | Local leaders are needed to educate communities about Web3 in their own language, driving adoption and reducing scams. | Varies |
@@ -54,13 +48,7 @@ Currently, the formal Web3 job market in Lilongwe is limited. Aspiring professio
 Understanding the salary space and cost of living is essential for professionals considering a move into Web3 careers.
 
 **Developer Compensation:**| Position | Local Salary | Equivalent USD |
-|
-
-----------|
-
---------------------------|
-
------------------------|
+| --- | --- | --- |
 | Junior Developer (0-1 year) | Varies | Varies |
 | Mid-Level Developer (1-3 years) | Varies | Varies |
 | Senior Developer (3+ years) | Varies | Varies |

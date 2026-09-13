@@ -77,11 +77,7 @@ If you are already a [smart contract](/what-are-smart-contracts) developer, enha
 Devote time weekly to keep abreast of developments:
 
 | Activity | Time Allocation |
-|
-
-------------------------|
-
------------------|
+| --- | --- |
 | Learning | 30% |
 | Creation | 20% |
 | Core Work | 40% |

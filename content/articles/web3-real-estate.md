@@ -19,11 +19,7 @@ Tokenizing RWAs represents a shift, potentially introducing value into the DeFi 
 Real-World Assets are any assets that exist in the physical domain, outside the blockchain. Tokenization involves creating a digital token on a blockchain that represents a claim on the underlying asset.
 
 **Examples of Tokenized RWAs:**| Asset Type | Description |
-|
-
----------------------|
-
--------------------------------------------------------------------|
+| --- | --- |
 | Real Estate | Tokens representing fractional ownership in properties like commercial buildings or rental units. |
 | Private Credit | Tokenization of real-world loans such as mortgages and business loans. |
 | U.S. Treasury Bills | Stablecoin-like tokens fully backed by short-term U.S. government bonds, providing yield. |
@@ -45,22 +41,22 @@ Bringing RWAs on-chain yields significant benefits for both the cryptocurrency a
 
 **1. Liquidity for Illiquid Assets**
 
-- The Issue:**Traditional assets like real estate and private equity lack liquidity. Selling a building or a stake in a private company can take extensive time and incur high transaction costs.
+- **The Issue:**Traditional assets like real estate and private equity lack liquidity. Selling a building or a stake in a private company can take extensive time and incur high transaction costs.
 - **The Solution:** Tokenization allows assets to be traded on a 24/7 global marketplace (a [DEX](/what-is-a-decentralized-exchange-dex)), enabling a level of liquidity unattainable in conventional markets.
 
 **2. Fractionalization and Accessibility**
 
-- The Issue:**Historically, investing in high-quality, institutional-grade assets has been limited to wealthy individuals. Purchasing a small portion of an office building is typically infeasible.
+- **The Issue:**Historically, investing in high-quality, institutional-grade assets has been limited to wealthy individuals. Purchasing a small portion of an office building is typically infeasible.
 - **The Solution:** Tokenization enables fractional ownership. Investors can acquire small tokens representing fractions of the asset, broadening access to these investment opportunities.
 
 **3. Transparency and Efficiency**
 
-- The Issue:**The traditional financial system often suffers from opacity and inefficient, paper-based processes.
+- **The Issue:**The traditional financial system often suffers from opacity and inefficient, paper-based processes.
 - **The Solution:** Blockchain technology provides a transparent, immutable, and real-time ledger for ownership and transactions. [Smart contracts](/what-are-smart-contracts) can automate complex processes such as dividend distributions, reducing administrative costs and the need for intermediaries.
 
 **4. Stable Yield for DeFi**
 
-- The Issue:**Yields in DeFi frequently exhibit high volatility and derive from speculative token emissions.
+- **The Issue:**Yields in DeFi frequently exhibit high volatility and derive from speculative token emissions.
 - **The Solution:** RWAs introduce a source of stable, real-world yield into the DeFi ecosystem. For example, a token backed by U.S. Treasury Bills offers one of the safest yields in finance, providing much-needed stability for the DeFi sector.
 
 ### Challenges and Risks Associated with RWAs

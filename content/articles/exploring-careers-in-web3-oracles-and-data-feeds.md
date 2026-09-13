@@ -27,37 +27,19 @@ Because the financial stakes are exceptionally high, organizations across the We
 |                     THE ORACLE ENGINEERING ECOSYSTEM STACK                        |
 +-----------------------------------------------------------------------------------+
 |  1. Infrastructure & Node Operations (DevOps / SRE):                              |
-|     
-
-- 99.99% high-availability bare-metal clusters running Go and Rust nodes      |
-|     
-
-- Redundant multi-region RPC clusters (Erigon, Reth, Geth, Besu)              |
-|     
-
-- Hardware Security Modules (HSM), key management, automated gas escalation   |
+| - 99.99% high-availability bare-metal clusters running Go and Rust nodes      |
+| - Redundant multi-region RPC clusters (Erigon, Reth, Geth, Besu)              |
+| - Hardware Security Modules (HSM), key management, automated gas escalation   |
 |                                                                                   |
 |  2. Smart Contract Integration & Security:                                        |
-|     
-
-- Hardened [Solidity](https://soliditylang.org) and [Vyper](https://vyperlang.org) consumer contracts with staleness bounds        |
-|     
-
-- Flash-loan price manipulation defenses and Uniswap v3 TWAP integration      |
-|     
-
-- Multi-asset decimal normalization and Layer 2 sequencer downtime handling   |
+| - Hardened [Solidity](https://soliditylang.org) and [Vyper](https://vyperlang.org) consumer contracts with staleness bounds        |
+| - Flash-loan price manipulation defenses and Uniswap v3 TWAP integration      |
+| - Multi-asset decimal normalization and Layer 2 sequencer downtime handling   |
 |                                                                                   |
 |  3. Decentralized Protocol Architecture:                                          |
-|     
-
-- P2P gossip consensus networks (OCR 2.0 / 3.0 via libp2p)                    |
-|     
-
-- Cryptographic attestation: DECO, TLSNotary, zk-TLS, and threshold BLS      |
-|     
-
-- High-frequency pull architectures over Wormhole and cross-chain messaging   |
+| - P2P gossip consensus networks (OCR 2.0 / 3.0 via libp2p)                    |
+| - Cryptographic attestation: DECO, TLSNotary, zk-TLS, and threshold BLS      |
+| - High-frequency pull architectures over Wormhole and cross-chain messaging   |
 +-----------------------------------------------------------------------------------+
 ```
 
@@ -256,34 +238,18 @@ To evaluate whether to pursue an infrastructure or SRE role within an oracle ent
 |                       ORACLE NODE FINANCIAL ARCHITECTURE                        |
 +---------------------------------------------------------------------------------+
 |  Revenue Streams:                                                               |
-|  
-
-- On-Chain Protocol Fees (Users pay LINK or native gas tokens per update)      |
-|  
-
-- Staking Yield (Staking collateral generates yield from network rewards)      |
-|  
-
-- Enterprise Data Subscriptions & Custom dAPI Feeds                            |
+| - On-Chain Protocol Fees (Users pay LINK or native gas tokens per update)      |
+| - Staking Yield (Staking collateral generates yield from network rewards)      |
+| - Enterprise Data Subscriptions & Custom dAPI Feeds                            |
 |                                                                                 |
 |  Operational Expenditures (OpEx):                                               |
-|  
-
-- Multi-Region Bare-Metal Server Colocation: $800 - $2,500 / month             |
-|  
-
-- Dedicated High-Throughput RPC Endpoints: $2,000 - $8,000 / month             |
-|  
-
-- Gas Subsidy Reserves (Pre-funding hot wallets across 30+ blockchains)       |
+| - Multi-Region Bare-Metal Server Colocation: $800 - $2,500 / month             |
+| - Dedicated High-Throughput RPC Endpoints: $2,000 - $8,000 / month             |
+| - Gas Subsidy Reserves (Pre-funding hot wallets across 30+ blockchains)       |
 |                                                                                 |
 |  Slashing & Failure Risks:                                                      |
-|  
-
-- Slashing of Staked Capital for Outlier Reporting or Malicious Collusion      |
-|  
-
-- Loss of Enterprise Tier Allocation in OCR 2.0 / 3.0 Leader Committees        |
+| - Slashing of Staked Capital for Outlier Reporting or Malicious Collusion      |
+| - Loss of Enterprise Tier Allocation in OCR 2.0 / 3.0 Leader Committees        |
 +---------------------------------------------------------------------------------+
 ```
 
@@ -333,37 +299,19 @@ Hiring managers in the decentralized data space value verifiable open-source cod
 |                       PORTFOLIO BLUEPRINTS THAT GET HIRED                       |
 +---------------------------------------------------------------------------------+
 |  Project 1: Live Testnet Chainlink Node Cluster                                 |
-|             
-
-- Deploy a Dockerized Chainlink node connected to Sepolia testnet   |
-|             
-
-- Configure self-hosted Reth / Erigon client with Alchemy failover  |
-|             
-
-- Publish a live Grafana dashboard tracking OCR consensus metrics   |
+| - Deploy a Dockerized Chainlink node connected to Sepolia testnet   |
+| - Configure self-hosted Reth / Erigon client with Alchemy failover  |
+| - Publish a live Grafana dashboard tracking OCR consensus metrics   |
 |                                                                                 |
 |  Project 2: Hardened Dual-Oracle Lending Vault (Foundry Repo)                   |
-|             
-
-- Implements primary Chainlink feed with Pyth Network fallback      |
-|             
-
-- Integrates L2 Sequencer Uptime assertions with grace period buffer|
-|             
-
-- Comprehensive fuzz tests simulating flash crashes and stale feeds |
+| - Implements primary Chainlink feed with Pyth Network fallback      |
+| - Integrates L2 Sequencer Uptime assertions with grace period buffer|
+| - Comprehensive fuzz tests simulating flash crashes and stale feeds |
 |                                                                                 |
 |  Project 3: Uniswap v3 TWAP Sanity Wrapper                                      |
-|             
-
-- Compares incoming oracle feed against a 30-minute geometric TWAP  |
-|             
-
-- Automatically engages circuit breaker if price deviates by > 2.5% |
-|             
-
-- Formal verification tests in [Slither Static Analyzer](https://github.com/crytic/slither) and [Mythril](https://github.com/Consensys/mythril) proving zero reentrancy risks|
+| - Compares incoming oracle feed against a 30-minute geometric TWAP  |
+| - Automatically engages circuit breaker if price deviates by > 2.5% |
+| - Formal verification tests in [Slither Static Analyzer](https://github.com/crytic/slither) and [Mythril](https://github.com/Consensys/mythril) proving zero reentrancy risks|
 +---------------------------------------------------------------------------------+
 ```
 

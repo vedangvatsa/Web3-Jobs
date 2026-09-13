@@ -93,7 +93,7 @@ Incorrect access control is a broad yet critical category of vulnerabilities whe
 
 - **The Prevention:**
 
-- Function Modifiers:**Implement a modifier like `onlyOwner` to restrict access.
+- **Function Modifiers:**Implement a modifier like `onlyOwner` to restrict access.
  - **Role-Based Access Control:** For complex systems, use a standardized role-based approach, such as OpenZeppelin's `AccessControl` contract, which allows defining various roles (e.g., `MINTER_ROLE`, `UPGRADER_ROLE`) and assigning them to different addresses.
 
  ```solidity
@@ -128,7 +128,7 @@ Incorrect access control is a broad yet critical category of vulnerabilities whe
 
 - **The Prevention:**
 
-- Use Decentralized Oracle Networks:**Implement a reliable oracle network like Chainlink, which aggregates prices from multiple independent, off-chain sources, making it resilient to single-source manipulation.
+- **Use Decentralized Oracle Networks:**Implement a reliable oracle network like Chainlink, which aggregates prices from multiple independent, off-chain sources, making it resilient to single-source manipulation.
  - **Use Time-Weighted Average Prices (TWAPs):** For on-chain sources, consider using a TWAP oracle (as available in Uniswap V3), which averages prices over time, complicating manipulation efforts.
 
 ### 5. Unchecked External Calls
@@ -157,13 +157,7 @@ When your contract invokes another contract, checking for call success is essent
 ### Summary of Common Vulnerabilities
 
 | Vulnerability | Description | Prevention Strategies |
-|
-
-------------------------------|
-
----------------------------------------------------------------|
-
------------------------|
+| --- | --- | --- |
 | Reentrancy | Attackers drain funds by re-entering a function | Checks-Effects-Interactions pattern |
 | Integer Overflow/Underflow | Inaccurate calculations from exceeding variable limits | Use Solidity 0.8.0 or SafeMath libraries |
 | Incorrect Access Control | Unauthorized users access sensitive functions | Use function modifiers or role-based access control |

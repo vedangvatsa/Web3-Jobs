@@ -41,7 +41,7 @@ Your objective is to discover a "pebble in the shoe", a minor annoyance or gap t
 
 **Ways to Identify Problems:**
 
-- Examine the Documentation:**Look for confusing sections, typos, or missing tutorials.
+- **Examine the Documentation:**Look for confusing sections, typos, or missing tutorials.
 - **Observe Discord Activity:** Identify frequently asked questions in the `#support` channel.
 - **Analyze Their Content:** Determine if their blog lacks competitive analysis or if their social media presence is insufficiently engaging.
 - **Use the Product:** Assess specific aspects of the user experience that are confusing or cumbersome.
@@ -53,29 +53,29 @@ This phase represents your "proof of work." Develop a high-quality solution for 
 
 **Role-Specific Examples:**
 
-- Aspiring Technical Writer:**
+- **Aspiring Technical Writer:**
 
-- Problem:**The documentation for using their [staking](/how-to-become-a-web3-staking-specialist) feature is unclear.
+- **Problem:**The documentation for using their [staking](/how-to-become-a-web3-staking-specialist) feature is unclear.
  - **Solution:** Create a clear, concise guide with screenshots outlining the process. Publish it on your personal blog (e.g., on Mirror or Substack).
 
 - **Aspiring Community Manager:**
 
-- Problem:**New users in Discord repeatedly ask the same questions.
+- **Problem:**New users in Discord repeatedly ask the same questions.
  - **Solution:** Compile a well-organized FAQ document addressing these questions. Share it with the community and offer to maintain it.
 
 - **Aspiring Marketing Manager:**
 
-- Problem:**The project recently launched a significant feature, but the announcement was overly technical.
+- **Problem:**The project recently launched a significant feature, but the announcement was overly technical.
  - **Solution:** Craft an engaging Twitter thread using simple language and visuals to explain the feature to a broader audience.
 
 - **Aspiring Data Analyst:**
 
-- Problem:**The project lacks a suitable way to visualize user growth.
+- **Problem:**The project lacks a suitable way to visualize user growth.
  - **Solution:** Use Dune Analytics to create a dashboard tracking important metrics such as Daily Active Wallets, user retention, and transaction volume.
 
 - **Aspiring Developer:**
 
-- Problem:**You discover a minor, unassigned bug in the project's open-source GitHub repository.
+- **Problem:**You discover a minor, unassigned bug in the project's open-source GitHub repository.
  - **Solution:** Resolve the bug, write a clean test case, and submit a professional pull request with a clear explanation of your changes.
 
 #### Step 4: Share Your Work as a "Soft" Application

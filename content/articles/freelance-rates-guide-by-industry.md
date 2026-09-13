@@ -31,15 +31,7 @@ The following sections outline typical rate ranges for freelancers in various fi
 Rates for writers can vary significantly based on content type and complexity.
 
 | Experience Level | Blog Posts | Copywriting | Whitepapers/Case Studies |
-|
-
-------------------|
-
------------------------|
-
-----------------------|
-
----------------------------|
+| --- | --- | --- | --- |
 | Beginner (0-2 years) | $45 - $150 / hr | $45 - $150 / hr | N/A |
 | Intermediate (2-5 years) | $45 - $150 / hr | $45 - $150 / hr | N/A |
 | Expert (5+ years) | $45 - $150 / hr | $45 - $150 / hr | $45 - $150 / hr |
@@ -49,13 +41,7 @@ Rates for writers can vary significantly based on content type and complexity.
 Design rates fluctuate based on project scope and the designer's portfolio.
 
 | Experience Level | Logo Design | Website Design (UI/UX) |
-|
-
-------------------|
-
----------------------|
-
-------------------------|
+| --- | --- | --- |
 | Beginner | $45 - $150 / hr | $45 - $150 / hr |
 | Intermediate | $45 - $150 / hr | $45 - $150 / hr |
 | Expert | $45 - $150 / hr | $45 - $150 / hr |
@@ -65,13 +51,7 @@ Design rates fluctuate based on project scope and the designer's portfolio.
 Developer rates rank among the highest in the freelance market, reflecting the technical complexity of the work.
 
 | Experience Level | Frontend Development (React, Vue) | Backend Development (Node.js, Python) |
-|
-
-------------------|
-
-------------------------------------|
-
-----------------------------------------|
+| --- | --- | --- |
 | Beginner | $45 - $150 / hr | $45 - $150 / hr |
 | Intermediate | $45 - $150 / hr | $45 - $150 / hr |
 | Expert | $45 - $150 / hr | $45 - $150 / hr |
@@ -81,19 +61,7 @@ Developer rates rank among the highest in the freelance market, reflecting the t
 Marketing rates depend on the specific channel and the freelancer's ability to deliver measurable results.
 
 | Experience Level | Social Media Management | SEO Specialist | PPC Specialist | Marketing Strategy Consultant | SEO Consultant |
-|
-
-------------------|
-
--------------------------|
-
----------------------|
-
------------------------|
-
-------------------------------|
-
-------------------------|
+| --- | --- | --- | --- | --- | --- |
 | Beginner | $45 - $150 / hr | $45 - $150 / hr | N/A | N/A | N/A |
 | Intermediate | $45 - $150 / hr | N/A | $45 - $150 / hr | N/A | N/A |
 | Expert | N/A | N/A | N/A | $45 - $150 / hr | $45 - $150 / hr |

@@ -18,11 +18,7 @@ The Web3 ecosystem in LA combines Hollywood's allure with artistic innovation an
 LA's crypto climate mirrors its dominance in the creative sphere.
 
 | Aspect | Description |
-|
-
--------------------------|
-
--------------|
+| --- | --- |
 | **NFT Capital** | Los Angeles is a leading city for NFTs, housing a large number of NFT artists, collectors, and teams behind significant Profile Picture (PFP) projects. The city's rich artistic history fuels a continuous influx of new creative initiatives. |
 | **Web3 Gaming Hub** | Proximity to major video game studios and a vast community of gamers have made LA a central location for Web3 gaming (GameFi). Leading venture funds and startups focused on developing the metaverse and player-owned economies are based here. |
 | **Creator Economy** | As a focal point for the creator economy, LA sees Web3 tools that enable new monetization strategies, from social tokens to [token](/what-is-a-token)-gated content, being developed and accepted. |
@@ -33,13 +29,7 @@ LA's crypto climate mirrors its dominance in the creative sphere.
 The job market in Los Angeles is particularly strong for roles in creative industries, marketing, community engagement, and the developers who support them. Salaries in this sector are competitive with the broader LA tech scene.
 
 | Role | Mid-Level Salary | Senior Salary |
-|
-
------------------------------------------------|
-
-------------------|
-
----------------|
+| --- | --- | --- |
 | **Community Manager (NFT/Gaming Projects)** | Competitive | Competitive |
 | **Marketing & Brand Lead** | | Competitive |
 | **[Smart Contract](/what-are-smart-contracts) Developer (ERC-721/1155 Focus)** | Competitive | Competitive |

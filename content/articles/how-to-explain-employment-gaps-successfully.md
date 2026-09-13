@@ -20,11 +20,7 @@ Before updating your [resume](/how-to-build-a-web3-resume-that-stands-out), reco
 For instance:
 
 | Career Break Reason | Reframed Description |
-|
-
---------------------------|
-
------------------------------------------------------------------|
+| --- | --- |
 | Family Responsibilities | Managed household and family duties, enhancing time management and organizational skills. |
 | Travel | Undertook independent global travel, Building cross-cultural communication skills and adaptability. |
 | Skill Development | Completed an intensive self-study in [Web3](/what-is-web3) development, enhancing technical proficiency. |

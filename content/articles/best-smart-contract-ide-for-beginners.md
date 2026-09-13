@@ -319,17 +319,7 @@ anchor test
 ## Quick comparison
 
 | Tool | Setup | Primary language | Best for | Cost |
-| 
-
---- | 
-
---- | 
-
---- | 
-
---- | 
-
---- |
+| --- | --- | --- | --- | --- |
 | Remix IDE | None, browser at https://remix.ethereum.org | Solidity | Absolute beginners and quick prototypes | Free, open source |
 | VS Code plus Hardhat | Low, Node.js v22.13.0 plus `npx hardhat --init` | Solidity plus JS or TS | Professional EVM development | Free, open source |
 | Foundry | Medium, Rust toolchain plus `foundryup` | Solidity for both contracts and tests | Testing, fuzzing, and security work | Free, open source |

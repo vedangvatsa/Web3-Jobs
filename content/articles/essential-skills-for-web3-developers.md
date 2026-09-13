@@ -22,11 +22,7 @@ Top developers combine deep technical expertise with a strong security focus and
 2. Smart Contract Development Frameworks ([Foundry](/essential-web3-developer-tools) & Hardhat):** Building, testing, and deploying decentralized applications (dApps) requires familiarity with modern development frameworks. 
 
 | Framework | Description |
-|
-
------------|
-
--------------|
+| --- | --- |
 | **Foundry** | A Rust-based toolkit gaining traction due to its speed and effective fuzz testing capabilities. |
 | **Hardhat** | A JavaScript-based development environment that remains popular, supported by a reliable ecosystem of plugins. |
 

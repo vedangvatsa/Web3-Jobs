@@ -35,13 +35,7 @@ Compensation benchmarking is the process of pricing a role against market data f
 Most Web3 offers combine cash and ownership. Base is paid in fiat or stablecoins such as USDC or USDT. Tokens are ownership in the protocol and release over time. Equity is stock in the legal entity, if one exists. Early-stage protocols lean toward tokens. Exchanges and custodians lean toward equity.
 
 | Component | Typical form | What to confirm |
-| 
-
---- | 
-
---- | 
-
---- |
+| --- | --- | --- |
 | Base salary | Fiat or stablecoin, monthly or biweekly | Currency, pay schedule, and whether stablecoin payment is optional |
 | Annual bonus | Cash or tokens, often tied to company or protocol metrics | Target percent, how it is paid, and clawback terms |
 | Token grant | Project tokens with vesting | Grant value in USD at grant date, share of total supply, vesting length, cliff, and liquidity |
@@ -168,13 +162,7 @@ If price stays at $0.20, first-year vested value is $50,000. If price doubles, i
 ### Pros and cons of each data source
 
 | Source | What it does well | Limitations |
-| 
-
---- | 
-
---- | 
-
---- |
+| --- | --- | --- |
 | BLS OEWS and Occupational Outlook Handbook | Census-like base wages across all employers, clear methodology, state and metro detail. Updated May 2024 with $133,080 median for software developers and $102,610 for QA analysts. | Base only, no stock or token. U.S. only. About a year behind the market. |
 | Glassdoor | Large self-reported sample for total pay, quick to check role and city. Median blockchain developer about $136,691 to $140,569 in early 2026 samples. | Self-reported, top-bias, can mix offer value and current value after price moves. |
 | Levels.fyi | Verified offer letters and pay statements, consistent total compensation definition, level detail, daily percentile refresh. Median software engineer total about $192,000 versus BLS base $133,080 illustrates the gap. | Skew to large tech and software engineering, over 70 percent of submissions are engineering, less coverage outside tech. |

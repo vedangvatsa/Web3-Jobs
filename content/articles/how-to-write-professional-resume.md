@@ -18,13 +18,7 @@ Creating a professional resume is manageable when you focus on a few essential p
 Selecting the appropriate resume format is vital for presenting your information effectively. The three primary formats include:
 
 | Format | Description | Best For |
-|
-
-----------------------|
-
---------------------------------------------------------------------------------------------------------------------------------------------------|
-
-------------------------------------|
+| --- | --- | --- |
 | **Reverse-Chronological** | Lists work experience in reverse order, starting with the most recent job. This format is familiar to recruiters and clearly shows career progression. | Those with a steady work history |
 | **Functional** | Emphasizes skills and abilities rather than work history, making it suitable for career changers or those with gaps in employment. | Career changers or those with gaps |
 | **Combination** | Merges the two formats, beginning with a skills summary and followed by work experience in reverse order. | Individuals wanting to highlight both skills and experience |

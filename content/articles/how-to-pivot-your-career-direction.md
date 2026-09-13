@@ -83,11 +83,7 @@ Certainty is elusive, and that is acceptable. The aim of the "Test the Waters" p
 ### Step-by-Step Guide to a Successful Career Pivot
 
 | Step | Description |
-|
-
-------|
-
--------------|
+| --- | --- |
 | Step 1 | Understand your motivations and interests. Conduct introspective analysis and research potential fields. |
 | Step 2 | Test your new career path through personal projects, online courses, and volunteer work. |
 | Step 3 | Identify skill gaps and work on building those skills through targeted learning and networking. |

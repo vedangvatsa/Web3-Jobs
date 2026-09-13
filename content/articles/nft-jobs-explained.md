@@ -93,11 +93,7 @@ Not all NFT projects are worth pursuing. Some are truly new, while others are sp
 ### Positive Indicators
 
 | Indicator | Description |
-|
-
-----------------------------------------------------|
-
---------------------------------------------------------------------------------------------------|
+| --- | --- |
 | Problem-Solving Focus | The project addresses a concrete issue, such as establishing standards for digital ownership. |
 | Experienced Team | The team has a track record of delivering products and possesses credibility in their field. |
 | Logical Tokenomics | The incentive structure promotes sustainable behaviors among users and developers. |

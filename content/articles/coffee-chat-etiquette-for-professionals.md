@@ -64,11 +64,7 @@ Avoid asking questions that can be answered easily through a quick Google search
 
 **Suggested Questions to Ask:**
 | Question | Purpose |
-|
-
-----------|
-
----------|
+| --- | --- |
 | "What does a typical day or week in your role look like?" | Understand their daily responsibilities. |
 | "What is the most challenging aspect of your job?" | Gain insight into potential obstacles in the role. |
 | "What skills have been most critical to your success in this field?" | Identify key competencies for success. |

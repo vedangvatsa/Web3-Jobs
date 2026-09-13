@@ -52,21 +52,7 @@ The mechanism is specific. Time is divided into 12-second slots, 32 slots per 6.
 CCRI systematically measured six proof-of-stake networks in January 2022 with the same bottom-up method. The table below uses that snapshot so numbers are comparable. All figures change as nodes join or leave and as throughput changes.
 
 | Network | Nodes | Tx per year | Electricity per node (kWh/yr) | Electricity per tx (Wh) | Total electricity (kWh/yr) | Carbon (tCO2e/yr) |
-| 
-
---- | 
-
---- | 
-
---- | 
-
---- | 
-
---- | 
-
---- | 
-
---- |
+| --- | --- | --- | --- | --- | --- | --- |
 | Cardano | 3,002 | 11.9m | 199.45 | 51.59 | 598,755 | 284.41 |
 | Polkadot | 297 | 4.0m | 236.49 | 17.42 | 70,237 | 33.36 |
 | Solana | 1,015 | 11.8b | 1,938.85 | 0.166 | 1,967,930 | 934.77 |

@@ -138,24 +138,16 @@ A comprehensive understanding of Web3 developer earnings requires analyzing the 
 |                  Total Compensation Anatomy in Web3                     |
 +-------------------------------------------------------------------------+
 |  Base Salary (50% - 70% of total expected package value)               |
-|  
-
-- Guaranteed cash flow in fiat wire or stablecoins (USDC)              |
+| - Guaranteed cash flow in fiat wire or stablecoins (USDC)              |
 +-------------------------------------------------------------------------+
 |  Token Grants / Warrants (20% - 45% of package value)                   |
-|  
-
-- 4-year linear vesting, 1-year cliff, basis points of total supply    |
+| - 4-year linear vesting, 1-year cliff, basis points of total supply    |
 +-------------------------------------------------------------------------+
 |  Equity Options (0% - 20% in hybrid venture-backed labs)                |
-|  
-
-- ISO / NSO corporate equity managed via Carta or Pulley               |
+| - ISO / NSO corporate equity managed via Carta or Pulley               |
 +-------------------------------------------------------------------------+
 |  Stipends & Bounties (5% - 10% cash perks)                              |
-|  
-
-- Remote setup, health, conference allowances, audit bounty shares     |
+| - Remote setup, health, conference allowances, audit bounty shares     |
 +-------------------------------------------------------------------------+
 ```
 
@@ -197,12 +189,8 @@ These platforms manage statutory benefits, payroll tax withholdings, and localiz
 |         |                                             |                 |
 |         v                                             v                 |
 |  Self-Custodial Wallet (USDC)              Local Fiat Bank Account      |
-|  
-
-- Zero wire latency                       - Full statutory benefits    |
-|  
-
-- Contractor tax filing                   - Automated tax withholding  |
+| - Zero wire latency                       - Full statutory benefits    |
+| - Contractor tax filing                   - Automated tax withholding  |
 +-------------------------------------------------------------------------+
 ```
 

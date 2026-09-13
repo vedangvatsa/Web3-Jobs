@@ -17,11 +17,7 @@ The practice of "job hopping," which involves changing jobs every one to two yea
 One of the most compelling reasons for job hopping is the potential for increased salary. Employees who change jobs can see salary increases of significant percentages, while those who stay with their current employer typically receive raises of smaller percentages annually. For example, a software engineer earning a competitive salary could potentially increase their earnings significantly simply by changing companies, rather than waiting for internal promotions. This trend is particularly pronounced in high-demand fields like tech and Web3, where talent shortages drive up offers.
 
 | Job Change Type | Average Salary Increase |
-|
-
--------------------------|
-
--------------------------|
+| --- | --- |
 | Internal Promotion | Smaller percentages |
 | Job Change | Significant percentages |
 | Industry-Switching Move | Higher percentages |

@@ -25,18 +25,18 @@ The daily responsibilities of a DevRel are diverse and complex. They act as the 
 
 **Education & Content Creation:**
 
-- Documentation:**They produce and maintain clear, detailed, and accurate documentation, considered the most critical product of DevRel.
+- **Documentation:**They produce and maintain clear, detailed, and accurate documentation, considered the most critical product of DevRel.
  - **Tutorials & Guides:** DevRel professionals create step-by-step tutorials, example code repositories, and video guides to assist developers in using the protocol effectively.
  - **Technical Blog Posts:** They write articles that clarify complex features or discuss compelling use cases.
 
 2. **Community Engagement & Support:**
 
-- Developer Support:**DevRels address technical inquiries in platforms like Discord, Telegram, and Stack Overflow, acting as the first line of support for developers facing challenges.
+- **Developer Support:**DevRels address technical inquiries in platforms like Discord, Telegram, and Stack Overflow, acting as the first line of support for developers facing challenges.
  - **Event Presence:** They represent the protocol at hackathons and conferences, lead workshops, and judge projects, serving as the public face of the protocol within the developer community.
 
 3. **Product Feedback Loop:**
 
-- The Voice of the Developer:**DevRel engineers bridge the gap between the external developer community and the internal product and engineering teams by relaying feedback.
+- **The Voice of the Developer:**DevRel engineers bridge the gap between the external developer community and the internal product and engineering teams by relaying feedback.
  - **Improving the Developer Experience (DX):** They pinpoint pain points in developer experiences and advocate for enhancements to the protocol's APIs, SDKs, and documentation.
 
 ### Skill Set of a Developer Advocate

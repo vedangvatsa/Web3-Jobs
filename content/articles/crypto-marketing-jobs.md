@@ -19,11 +19,7 @@ This article outlines the Web3 marketing career path, detailing various roles, t
 The traditional marketing funnel, Awareness, Interest, Decision, Action, undergoes a transformation in Web3. The focus shifts from customer conversion to community cultivation.
 
 | Stage | Description |
-|
-
----------------|
-
-------------------------------------------------------------------------------------------------------------------------------------|
+| --- | --- |
 | **Discovery** | Users discover your project through social platforms, podcasts, and reputable media outlets like Bankless or The Defiant, rather than traditional ads. |
 | **Immersion** | Users join your Discord, engaging in passive learning by reading and listening. The marketing goal is to educate and establish the community's tone. |
 | **Contribution** | Users start interacting by asking questions, assisting newcomers, or commenting on governance proposals. |

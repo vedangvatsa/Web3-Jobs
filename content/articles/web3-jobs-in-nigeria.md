@@ -29,13 +29,7 @@ The crypto sector in Nigeria exhibits resilience and a strong focus on utility.
 The Nigerian Web3 job market is competitive, with strong demand for both technical and community-oriented talent. Salaries for Web3 positions often surpass those in the traditional tech sector, particularly for roles with international, remote-first companies that offer compensation in USD or stablecoins.
 
 | Role | Experience Level | Monthly Salary (NGN) |
-|
-
-------|
-
-------------------|
-
------------------------|
+| --- | --- | --- |
 | Smart Contract Developer ([Solidity](/best-programming-languages-for-blockchain-development)) | Mid-Level (2-4 years) | Significant value |
 | Smart Contract Developer ([Solidity](/best-programming-languages-for-blockchain-development)) | Senior (5+ years) | Significant value |
 | Frontend/Mobile Web3 Engineer (React/React Native) | Mid-Level | Significant value |

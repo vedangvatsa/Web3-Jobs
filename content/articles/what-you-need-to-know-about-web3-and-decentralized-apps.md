@@ -17,13 +17,7 @@ Understanding this architectural difference is essential for grasping [Web3](/wh
 ### Differences Between dApps and Traditional Apps
 
 | Feature | Traditional App (Web2) | Decentralized App (dApp) ([Web3](/what-is-web3)) |
-|
-
-------------------|
-
---------------------------------------------|
-
------------------------------------------------|
+| --- | --- | --- |
 | **Backend** | Operates on private, centralized servers (e.g., AWS) | Operates on a public, decentralized [blockchain](/what-is-a-blockchain) (e.g., Ethereum) |
 | **Control ** | Managed by a single company | Governed by a community of users (often a**[DAO](/what-is-a-dao)**) |
 | **Data Storage** | User data resides on company servers | Data is stored on the public blockchain |

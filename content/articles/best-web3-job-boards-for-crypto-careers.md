@@ -117,13 +117,7 @@ I hire and place in Web3. I check these seven channels every week. This guide ex
 Use more than one channel. The market is spread out by design. This table gives you a specific action for each channel and what to do next.
 
 | Strategy | What to do | Concrete next step |
-| 
-
---- | 
-
---- | 
-
---- |
+| --- | --- | --- |
 | Start broad and recent | Use Hashtag Web3 and web3.career to map the market by skill | On Hashtag Web3, search `Solidity` + tag `Ethereum` and join the Telegram feed. On web3.career, click `Solidity` + `Remote` and shortlist 10 posts from the last 7 days. |
 | Go niche for DeFi | Check DeFi-specific boards when DeFi is your focus | Check [defi.jobs](https://www.defi.jobs/) and ChainJobs DeFi. Filter `auditor` or `quant` and open 3 roles that list a real tech stack. |
 | Surface hidden roles on X | Find founder posts that never hit aggregators | Save a search: `"we are hiring" Solidity min_faves:1 lang:en`. Check it and your two private lists for 5 minutes each morning. Reply with a link to shipped work. |

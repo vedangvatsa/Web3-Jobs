@@ -28,13 +28,7 @@ Nairobi's Web3 ecosystem reflects its unique mobile money history and its forwar
 The demand for Web3 talent in Nairobi is increasing rapidly, particularly for developers with full-stack and mobile experience, and for professionals who can connect technology with social impact.
 
 | Role | Mid-Level Salary (KES/month) | Senior Salary (KES/month) |
-|
-
--------------------------------------|
-
--------------------------------|
-
-----------------------------|
+| --- | --- | --- |
 | Mobile / Full-Stack Web3 Developer (React Native, [Solidity](/best-programming-languages-for-blockchain-development)) | 250,000 - 450,000 | 450,000 - 700,000+ |
 | [Smart Contract](/what-are-smart-contracts) Developer (Solidity) | 300,000 - 500,000 | 500,000 - 800,000+ |
 | Product Manager (Social Impact / FinTech Focus) | 350,000 - 600,000+ | N/A |
@@ -49,13 +43,7 @@ The demand for Web3 talent in Nairobi is increasing rapidly, particularly for de
 ### Compensation and Opportunity Overview
 
 **Developer Track:**| Experience Level | Local Salary (KES/month) | USD Equivalent (approx.) |
-|
-
-----------------------------|
-
---------------------------|
-
-------------------------------|
+| --- | --- | --- |
 | Junior Developer (0-1 year) | 150,000 - 250,000 | Varies |
 | Mid-Level Developer (1-3 years) | 250,000 - 450,000 | Varies |
 | Senior Developer (3+ years) | 450,000 - 700,000+ | Varies |

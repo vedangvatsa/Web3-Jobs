@@ -32,7 +32,7 @@ Executives face overwhelming amounts of information daily. Distilling complex to
 
 **Practical Techniques for Brevity:**
 
-- Bottom Line Up Front (BLUF):** Begin with your main point or recommendation. Avoid lengthy introductions.
+- **Bottom Line Up Front (BLUF):** Begin with your main point or recommendation. Avoid lengthy introductions.
  - *Instead of:* "I reviewed the Q2 sales data, analyzed the competitive market, and spoke with three customers. Based on this, I think we should..."
  - *Do this:* "I recommend focusing on the enterprise segment for Q3 to capture a growing market and increase average deal size."
 
@@ -48,7 +48,7 @@ Clarity involves making your message understandable to those unfamiliar with you
 
 **Practical Techniques for Clarity:**
 
-- Avoid Jargon and Acronyms:**Don't assume familiarity with specialized terms. For example, rather than saying, "We need to refactor the authentication service," say, "We need to update our login system to improve security and page load speed."
+- **Avoid Jargon and Acronyms:**Don't assume familiarity with specialized terms. For example, rather than saying, "We need to refactor the authentication service," say, "We need to update our login system to improve security and page load speed."
 
 - **Use Visuals:** Charts or graphs often convey trends more effectively than paragraphs of text. Ensure visuals can be interpreted within ten seconds.
 
@@ -62,7 +62,7 @@ Even the best ideas compete for a leader's attention. You must explicitly connec
 
 **Practical Techniques for Providing Context:**
 
-- Use Business Metrics:** Frame your proposals in terms of metrics that matter to executives: Revenue, Cost, Risk, and Customer Satisfaction.
+- **Use Business Metrics:** Frame your proposals in terms of metrics that matter to executives: Revenue, Cost, Risk, and Customer Satisfaction.
  - *Instead of:* "This project will improve our database query speed."
  - *Do this:* "This project will reduce our page load time, likely decreasing our user bounce rate and improving conversion."
 
@@ -124,11 +124,7 @@ Mastering these communication competencies is important for success across vario
 ### Core Competencies
 
 | Competency | Description |
-|
-
--------------------------|
-
--------------------------------------------------------------|
+| --- | --- |
 | Technical Foundation | Understand essential technical concepts relevant to your field. Foundational knowledge helps prevent costly mistakes. |
 | Communication Excellence | Clearly articulating complex ideas is rare and valuable. Regularly practice writing emails, documentation, and presentations. Clarity compounds over time. |
 | Problem-Solving Methodology | Address challenges systematically: define, research, evaluate options, implement, and assess. This framework applies to both technical and non-technical issues. |

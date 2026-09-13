@@ -36,7 +36,7 @@ Korean gamers maintain exceptionally high expectations. They are accustomed to s
 
 **Consumer Preferences:**
 
-- Competitive Drive:**Esports culture has deeply permeated South Korean society. Games that feature high skill ceilings and competitive player-versus-player (PvP) modes are particularly favored. Engagement mechanics such as leaderboards, tournaments, and guild competitions enhance player involvement.
+- **Competitive Drive:**Esports culture has deeply permeated South Korean society. Games that feature high skill ceilings and competitive player-versus-player (PvP) modes are particularly favored. Engagement mechanics such as leaderboards, tournaments, and guild competitions enhance player involvement.
 
 - **Community Engagement:** Gaming functions as a social activity in South Korea. Strong guild systems, integrated chat features, and community events are vital for success. A active community serves as a strong protective barrier for games.
 
@@ -65,11 +65,7 @@ As the global focus shifts from P2E to Play-and-Own models, and as regulatory cl
 The South Korean GameFi market is not only about gaming; it also intersects with various economic and cultural factors. Below is an analysis of key market statistics and trends.
 
 | Metric | Value |
-|
-
---------------------------------|
-
---------------------------------|
+| --- | --- |
 | Total Gaming Revenue | Billions in value |
 | Mobile Gaming Revenue | Billions in value |
 | Estimated eSports Viewership | Significant volume per event |

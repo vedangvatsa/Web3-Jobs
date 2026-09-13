@@ -44,11 +44,7 @@ This shift instills a sense of alignment and responsibility. As an owner, you co
 The demand for talent in Web3 spans a variety of roles, both technical and non-technical:
 
 | Role Category | Specific Roles |
-|
-
-----------------------------|
-
----------------------------------------------------------|
+| --- | --- |
 | Technical Roles | Smart Contract Developer, Frontend dApp Engineer, Smart Contract Auditor, Protocol Engineer |
 | Strategic Roles | Web3 Product Manager, Tokenomics Designer, Venture Capital Analyst |
 | Community & Growth Roles | Community Manager, Developer Relations, Web3 Marketing Lead |

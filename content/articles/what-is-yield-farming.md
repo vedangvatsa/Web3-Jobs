@@ -37,11 +37,7 @@ Yield farmers frequently shift their assets to the latest protocols that offer t
 When assessing yield farming opportunities, it is essential to understand the differences between two key financial metrics:
 
 | Metric | Description |
-|
-
---------|
-
--------------|
+| --- | --- |
 | **APR (Annual Percentage Rate)** | The simple interest rate earned over a year, excluding compounding effects. |
 | **APY (Annual Percentage Yield)** | The rate of return that includes the impact of compounding interest. Frequent reinvestment of rewards results in a higher APY compared to APR. |
 

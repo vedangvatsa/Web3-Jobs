@@ -471,17 +471,7 @@ That pattern, applied at larger scale, is how a node parallelizes network I/O an
 ## Which languages to learn in which order
 
 | Language | Primary use | Where it runs | Learning curve | Good first step |
-| 
-
---- | 
-
---- | 
-
---- | 
-
---- | 
-
---- |
+| --- | --- | --- | --- | --- |
 | Solidity | Smart contracts, tokens, DeFi | EVM bytecode on Ethereum and L2s | Lower moderate | Remix Counter contract on Sepolia |
 | Vyper | Auditable contracts | EVM bytecode | Lower moderate | Python-style vault with Titanoboa tests |
 | Rust | Solana programs, L1s, high-performance | BPF, WASM, native | Steep | Rust Book ownership chapters plus Solana hello world |

@@ -20,11 +20,7 @@ The positive aspect is that a plateau is not an endpoint; it represents a junctu
 Recognizing the signs of a career plateau is important to taking action. Here are some specific indicators:
 
 | Sign | Description |
-|
-
--------------------------------|
-
-----------------------------------------------------------------------------------------------|
+| --- | --- |
 | **Boredom** | You find your tasks repetitive and uninspiring, often feeling disengaged from your work. |
 | **Stagnant Learning** | You haven't picked up any new skills or faced challenges in recent months. |
 | **Lack of Advancement** | No clear path for promotion exists, and roles above you seem locked by others in place. |

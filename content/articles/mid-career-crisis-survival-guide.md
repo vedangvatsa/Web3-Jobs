@@ -20,11 +20,7 @@ While this experience can be unsettling, it also offers a unique opportunity for
 Several factors often converge to trigger this professional identity crisis:
 
 | Factor | Description |
-|
-
--------------------------------|
-
------------------------------------------------------------------------------------------------------------|
+| --- | --- |
 | **Shift in Values** | Motivators from your 20s, such as money and status, may have shifted to a desire for purpose and balance.|
 | **Burnout** | Prolonged exposure to high-pressure environments can lead to exhaustion and diminished enthusiasm. |
 | **Mortality Awareness** | As you enter middle age, the awareness that time is limited may prompt a desire for meaningful work. |

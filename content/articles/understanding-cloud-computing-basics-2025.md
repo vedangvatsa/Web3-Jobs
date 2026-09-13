@@ -20,15 +20,7 @@ Cloud computing addresses these challenges directly. It offers on-demand access 
 Cloud computing services typically fall into three main categories, which represent different levels of abstraction similar to a pizza service analogy.
 
 | Service Model | Description | Pizza Analogy | Examples |
-|
-
----------------|
-
--------------|
-
----------------|
-
-----------|
+| --- | --- | --- | --- |
 | Infrastructure as a Service (IaaS) | Provides access to fundamental computing infrastructure, including virtual machines, storage, and networking. Users manage the operating system, databases, and application code. | The provider offers a pizza oven, flour, water, and yeast; you make the dough and add toppings. | Amazon EC2, Google Compute Engine, Microsoft Azure Virtual Machines |
 | Platform as a Service (PaaS) | Offers a platform for developing, running, and managing applications without managing the underlying infrastructure. The provider oversees the operating system and hardware. | Ordering pizza delivery; the service handles everything but the toppings and delivery details. | Heroku, Google App Engine, AWS Elastic Beanstalk |
 | Software as a Service (SaaS) | Delivers a complete software application accessed over the internet. Users do not manage infrastructure, platforms, or application code. | Dining at a restaurant; you simply order and enjoy the meal. | Google Workspace (Gmail, Google Docs), Salesforce, Dropbox, Netflix |

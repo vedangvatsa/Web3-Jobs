@@ -27,15 +27,7 @@ Kampala's Web3 ecosystem is influenced by its youthful workforce and an active s
 The demand for Web3 talent in Kampala is increasing sharply, particularly for developers with mobile and full-stack experience. While local salaries may be modest, they remain competitive within Uganda's tech market. Also, the option to work remotely for international companies can significantly increase earning potential.
 
 | Role | Experience Level | Salary Range (UGX/Month) | Salary Range (USD/Month) |
-|
-
-------|
-
-------------------|
-
--------------------------|
-
----------------------------|
+| --- | --- | --- | --- |
 | Full-Stack / Mobile Web3 Developer | Mid-Level | 3,000,000 - 6,000,000 | Competitive |
 | Full-Stack / Mobile Web3 Developer | Senior | 6,000,000 - 10,000,000+ | Competitive |
 | [Smart Contract](/what-are-smart-contracts) Developer ([Solidity](/best-programming-languages-for-blockchain-development)) | Mid-Level (often remote) | 10,000,000+ | Competitive |
@@ -58,13 +50,7 @@ The demand for Web3 talent in Kampala is increasing sharply, particularly for de
 ### Salary and Cost of Living Breakdown
 
 **Developer Compensation:**| Experience Level | Salary Range (UGX/Month) | Salary Range (USD/Month) |
-|
-
-------------------|
-
--------------------------|
-
----------------------------|
+| --- | --- | --- |
 | Junior Developer (0-1 year) | 2,000,000 - 3,500,000 | Competitive |
 | Mid-Level Developer (1-3 years) | 3,500,000 - 6,500,000 | Competitive |
 | Senior Developer (3+ years) | 6,500,000 - 10,000,000+ | Competitive |
@@ -73,11 +59,7 @@ The demand for Web3 talent in Kampala is increasing sharply, particularly for de
 - Freelance opportunities range from competitive hourly rates.
 
 **Cost of Living Analysis for a Remote Developer Earning a Competitive Salary:**| Expense Category | Monthly Cost (USD) |
-|
-
-------------------|
-
----------------------|
+| --- | --- |
 | Rent (nice area) | Competitive |
 | Living Expenses | Competitive |
 | **Total** |

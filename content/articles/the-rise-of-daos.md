@@ -33,11 +33,7 @@ A DAO is an organization that operates through software governed by smart contra
 Understanding the operational mechanics of DAOs clarifies their functionality.
 
 | Step | Description |
-|
-
-------|
-
--------------|
+| --- | --- |
 | **Token Creation** | DAOs issue tokens that represent governance shares, distributing them among founders, investors, and community members. |
 | **Governance Framework** | Smart contracts define voting procedures, including majority requirements and quorum settings. |
 | **Proposal Submission** | Members can submit proposals for spending, strategic changes, or operational decisions, outlining the expected outcomes if approved. |

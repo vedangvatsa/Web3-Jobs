@@ -91,33 +91,20 @@ The Vice President of Engineering (VP of Engineering) is an executive leader res
 At the executive level, the distinction between the Vice President of Engineering and the Chief Technology Officer (CTO) is one of the most frequently asked questions in technology leadership. While both are senior leaders, their core mandates differ significantly:
 
 | Dimension | VP of Engineering | Chief Technology Officer (CTO) |
-|
-
----|
-
----|
-
----|
-| 
-
+| --- | --- | --- |
 **Core Focus** | Operational execution, people management, and organizational scaling | Long-term technology vision, innovation, and technological architecture |
-| 
 
 **Primary Accountability** | 
 
 *How* the engineering team builds, delivers, hires, and scales | 
 
 *What* technologies and architectural paradigms the company bets on |
-| 
 
 **Direct Reports** | Directors of Engineering, Engineering Managers, and operations leads | Principal/Fellow Architects, R&D teams, and (in some structures) the VP of Engineering |
-| 
 
 **External Representation** | Typically internal-facing; leads team recruiting and culture | External-facing; represents the company to investors, key customers, and tech conferences |
-| 
 
 **Key Metrics** | Delivery velocity, retention, system uptime, operational budget, and hiring velocity | Technology moat, architectural durability, innovation velocity, and technical viability |
-| 
 
 **Reporting Structure** | Typically reports to the CTO or directly to the CEO | Reports to the Chief Executive Officer (CEO) and serves on the executive committee |
 

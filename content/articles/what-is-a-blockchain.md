@@ -54,11 +54,7 @@ The network requires a method to determine which new block to add to the chain, 
 The blockchain's structure endows it with several essential properties that differentiate it from traditional databases.
 
 | Property | Description |
-|
-
-----------------|
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| --- | --- |
 | **Decentralization** | There is no central server or authority. The ledger is distributed across a peer-to-peer network of computers (nodes). Each node maintains a complete copy of the blockchain, eliminating single points of failure and enhancing resistance to censorship or control. |
 | **Immutability** | Once a transaction is recorded and a block is added to the chain, it cannot be altered or deleted. Cryptographic links ensure the permanence and accuracy of transaction history, creating a reliable and auditable record. |
 | **Transparency** | In public blockchains like Bitcoin and Ethereum, anyone can access the entire transaction history. While participants' identities are pseudonymous (represented by [wallet](/how-to-choose-a-crypto-wallet) addresses), the flow of value remains open for audits, establishing a high level of transparency. |

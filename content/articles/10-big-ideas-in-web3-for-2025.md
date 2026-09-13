@@ -100,11 +100,7 @@ DAOs are increasingly adopting corporate best practices, including budgets, KPIs
 Zero-knowledge (ZK) proofs began as a scaling solution for Ethereum through various projects. However, their applications are expanding into diverse areas:
 
 | Application Type | Use Case Description |
-|
-
-----------------------------|
-
-----------------------------------------------------------|
+| --- | --- |
 | ZK Identity Verification | Proving age without revealing birthdates |
 | ZK Compliance | Verifying transaction compliance without disclosing details |
 | ZK Machine Learning | Demonstrating AI model output without exposing model weights|

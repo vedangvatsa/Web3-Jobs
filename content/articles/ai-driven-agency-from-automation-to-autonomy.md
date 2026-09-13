@@ -136,15 +136,7 @@ What is still rare is the observer level: an agent that holds assets, votes, and
 ## Use cases with honest trade-offs
 
 | Use case | What an agent does | Practical benefit | Constraint or risk |
-| 
-
---- | 
-
---- | 
-
---- | 
-
---- |
+| --- | --- | --- | --- |
 | Algorithmic trading and arbitrage | Scans DEXs and mempool feeds, batches swaps, simulates outcomes before sending | Captures short-lived spreads at any hour, reduces missed opportunities | Slippage, gas spikes, and MEV competition can erase edge; needs fast RPCs |
 | Liquidity provision on a [DEX](/what-is-a-decentralized-exchange-dex) | Sizes positions, rebalances ranges on concentrated pools, harvests fees | Keeps exposure in target range without manual clicks | Impermanent loss remains, and poor range choices lock capital in low-fee zones |
 | [Yield farming](/what-is-yield-farming) | Tracks APRs, reward schedules, and protocol risk, moves capital when risk-adjusted return improves | Saves attention across many pools and batches harvests to cut gas | Protocol risk, depeg, and incentives that end abruptly; batch savings are real but limited |

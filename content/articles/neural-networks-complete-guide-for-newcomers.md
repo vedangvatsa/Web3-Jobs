@@ -65,13 +65,7 @@ This depth enables neural networks to tackle sophisticated tasks like natural la
 Neural networks find extensive applications across various sectors. Here are some notable examples:
 
 | Application Area | Description | Example Use Case |
-|
-
--------------------------|
-
---------------------------------------------------------------------------------------------------|
-
---------------------------------------------|
+| --- | --- | --- |
 | Image Recognition | Identifying and classifying objects within images. | Facial recognition systems in smartphones. |
 | Natural Language Processing | Understanding and generating human language. | Chatbots and virtual assistants. |
 | Financial Services | Detecting fraud and assessing credit risk. | Anomaly detection in transaction records. |

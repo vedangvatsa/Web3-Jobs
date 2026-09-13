@@ -53,11 +53,7 @@ Transitioning to UX/UI demands acquiring a new skill set and mindset.
 Familiarity with industry-standard design tools is critical.
 
 | Tool | Description |
-|
-
----------------|
-
---------------------------------------------------------------------------------------------|
+| --- | --- |
 | **Figma** | Currently the most widely used platform for UI design and collaborative prototyping. |
 | **Adobe XD** | Although less dominant than Figma, it's still a preferred choice for some projects. |
 | **Sketch** | Used by certain companies, particularly in Mac environments. |

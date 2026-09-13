@@ -31,13 +31,7 @@ The potential for Web3 in Bissau emerges from the country's development challeng
 Currently, Bissau lacks a formal job market for Web3 positions. Career opportunities for professionals in Guinea-Bissau primarily involve remote work or entrepreneurship.
 
 | Role | Description | Salary Range |
-|
-
-------|
-
--------------|
-
----------------------|
+| --- | --- | --- |
 | Remote Web3 Developer | Developers skilled in [Solidity](/best-programming-languages-for-blockchain-development) or full-stack development can work for global Web3 companies. | Significant monthly compensation (mid-to-senior level) |
 | Impact Project Manager / Consultant | Professionals with international development backgrounds can help organizations implement Web3 solutions. | Project-based compensation, varies by organization |
 | Community Educator (Portuguese/Creole) | Local leaders educate communities about Web3, driving grassroots adoption. Often self-started or grant-funded. | Varies based on funding |
@@ -56,22 +50,18 @@ Currently, Bissau lacks a formal job market for Web3 positions. Career opportuni
 
 **Developer Roles:**
 
-- Junior Web3 Developer (0-1 year):**Significant monthly compensation (remote)
+- **Junior Web3 Developer (0-1 year):**Significant monthly compensation (remote)
 - **Mid-Level Developer (1-3 years):** Significant monthly compensation (remote)
 - **Senior Developer (3+ years):** Significant monthly compensation (remote) **Impact & Consulting Roles:**
 
-- Impact Project Manager:**Significant monthly compensation (contract)
+- **Impact Project Manager:**Significant monthly compensation (contract)
 - **Development Consultant:** Hourly rates vary
 - **Education/Community Manager:** Significant monthly compensation (remote) **Opportunities in Lisbon/Portugal:** Consider relocating to Lisbon, where Web3 salaries are generally higher for mid-level positions. Being a Portuguese speaker provides a competitive advantage in Lusophone Web3 projects.
 
 **Real Impact: Living on a [Web3 Salary](/web3-developer-salaries-2025) in Bissau** For a junior developer earning a competitive salary in Bissau-Guinean Pesos (XOF):
 
 | Expense Category | Monthly Cost (XOF) |
-|
-
-------------------|
-
----------------------|
+| --- | --- |
 | Rent | Varies |
 | Food & Essentials| Varies |
 | Transport | Varies |

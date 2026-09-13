@@ -22,7 +22,6 @@ The current internet, known as Web2, operates on a client-server model. Data and
 | **Issue** |
 
 **Description**|
-|
 
 -------------------------------|
 

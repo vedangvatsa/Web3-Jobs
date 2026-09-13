@@ -27,17 +27,17 @@ While your traditional HR skills remain valuable, they require adaptation for th
 
 **1. Talent Acquisition:**
 
-- Old Way:**Relying on LinkedIn for sourcing candidates.
+- **Old Way:**Relying on LinkedIn for sourcing candidates.
 - **New Way:** Using platforms like Twitter, Discord, [GitHub](/building-web3-portfolio), and hackathons for sourcing. You should focus on evaluating "proof of work," such as a developer's GitHub contributions or a marketer's blog, instead of traditional [resumes](/how-to-build-a-web3-resume-that-stands-out). Explore our [guide to recruiting in Web3](/how-to-recruit-in-web3) for more insights.
 
 **2. Compensation and Benefits:**
 
-- Old Way:**Managing standard salaries and benefits packages.
+- **Old Way:**Managing standard salaries and benefits packages.
 - **New Way:** Crafting complex compensation packages that incorporate fiat salary, equity, and token grants. You must understand vesting schedules, the tax implications of tokens, and how to communicate both the potential upside and risks associated with token compensation. Our guide to token compensation provides foundational knowledge.
 
 **3. Culture and Employee Relations:**
 
-- Old Way:**Building culture in a traditional office setting.
+- **Old Way:**Building culture in a traditional office setting.
 - **New Way:** Building a culture for a globally distributed, remote-first team. This requires a strong emphasis on asynchronous communication, thorough documentation, and deliberate online events, as well as in-person meetups.
 
 ### How to Transition to Web3 HR

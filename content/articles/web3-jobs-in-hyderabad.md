@@ -18,11 +18,7 @@ Global tech giants and startups alike are flocking to Hyderabad to access its ta
 Hyderabad's Web3 scene is characterized by a strong link to enterprise technology and a focus on real-world blockchain applications.
 
 | Key Area | Description |
-|
-
-----------|
-
--------------|
+| --- | --- |
 | **Enterprise Blockchain and R&D** | The city hosts research and development centers for major tech firms such as Microsoft, Google, and Oracle, many of which maintain dedicated blockchain divisions. This creates a high demand for engineers skilled in enterprise-grade blockchain solutions. |
 | **Supportive Government Initiatives** | The Telangana government has adopted progressive policies towards blockchain. Establishments like T-Hub and the India Blockchain Accelerator provide startups with structured support, attracting both funding and talent. |
 | **Growing DeFi and NFT Community** | In addition to enterprise-focused projects, a active community is developing in Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs), and Web3 gaming, driven by local developers. |
@@ -33,15 +29,7 @@ Hyderabad's Web3 scene is characterized by a strong link to enterprise technolog
 The Web3 job market in Hyderabad is experiencing rapid growth, with salaries reflecting this trend as global companies establish development centers in the region.
 
 | Role | Description | Mid-Level Salary | Senior Salary |
-|
-
-------|
-
--------------|
-
-------------------|
-
----------------|
+| --- | --- | --- | --- |
 | **[Blockchain Developer](/how-to-become-a-blockchain-developer)** | Specializes in both public and private blockchain development using platforms like Solidity and Hyperledger Fabric. | Competitive | Competitive |
 | **Full-Stack Web3 Engineer** | Responsible for building decentralized applications and integrating blockchain solutions. | Competitive | Competitive |
 | **Blockchain Quality Assurance (QA) Engineer** | Focuses on testing and ensuring the quality of blockchain applications as enterprise adoption increases. | Competitive | N/A |

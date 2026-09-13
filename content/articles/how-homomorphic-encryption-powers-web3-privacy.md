@@ -244,12 +244,8 @@ Modern Web3 FHE architectures solve this through Threshold Multi-Party Computati
 +-----------------------------------------------------------------------------------+
 |  1. Global Network Key Setup:                                                     |
 |     Distributed Key Generation produces:                                          |
-|     
-
-- Single Global Public Evaluation Key (Public to all users and smart contracts)|
-|     
-
-- Secret Key split into Shamir Shares: sk_1, sk_2, ..., sk_n evaluated via [Adi Shamir Secret Sharing Scheme](https://dl.acm.org/doi/10.1145/359168.359176)                  |
+| - Single Global Public Evaluation Key (Public to all users and smart contracts)|
+| - Secret Key split into Shamir Shares: sk_1, sk_2, ..., sk_n evaluated via [Adi Shamir Secret Sharing Scheme](https://dl.acm.org/doi/10.1145/359168.359176)                  |
 |                                                                                   |
 |  2. User Submission:                                                              |
 |     Users encrypt data under the Global Public Key.                               |
@@ -258,15 +254,9 @@ Modern Web3 FHE architectures solve this through Threshold Multi-Party Computati
 |     All network validators compute state updates homomorphically.                 |
 |                                                                                   |
 |  4. Decryption Phase (When explicitly programmed in smart contract):              |
-|     
-
-- Contract emits decryption request for ciphertext C                          |
-|     
-
-- Each validator i computes partial decryption share: d_i = DecShare(sk_i, C)|
-|     
-
-- Once t of n shares are broadcast, any node combines shares:                 |
+| - Contract emits decryption request for ciphertext C                          |
+| - Each validator i computes partial decryption share: d_i = DecShare(sk_i, C)|
+| - Once t of n shares are broadcast, any node combines shares:                 |
 |       Plaintext M = Combine(d_1, d_2, ..., d_t)                                   |
 +-----------------------------------------------------------------------------------+
 ```
@@ -356,36 +346,20 @@ Homomorphic encryption enables application designs that were previously mathemat
 |                         TRANSFORMATIVE FHE USE CASES                          |
 +-------------------------------------------------------------------------------+
 |  1. Dark AMMs & Sealed Order Books                                            |
-|     
-
-- Encrypted liquidity pools eliminate frontrunning and MEV arbitrage      |
-|     
-
-- Swaps execute against hidden reserves with zero slippage exploitation   |
+| - Encrypted liquidity pools eliminate frontrunning and MEV arbitrage      |
+| - Swaps execute against hidden reserves with zero slippage exploitation   |
 |                                                                               |
 |  2. Uncollateralized & Private Lending                                        |
-|     
-
-- Borrowers prove creditworthiness via encrypted off-chain telemetry      |
-|     
-
-- Liquidation thresholds remain private until undercollateralization      |
+| - Borrowers prove creditworthiness via encrypted off-chain telemetry      |
+| - Liquidation thresholds remain private until undercollateralization      |
 |                                                                               |
 |  3. Secret DAO Governance                                                     |
-|     
-
-- Ballots remain encrypted throughout the entire voting window            |
-|     
-
-- Dynamic tallies accumulate blindly; aggregate outcome revealed at close|
+| - Ballots remain encrypted throughout the entire voting window            |
+| - Dynamic tallies accumulate blindly; aggregate outcome revealed at close|
 |                                                                               |
 |  4. Confidential Gaming & Information Asymmetry                               |
-|     
-
-- Strategic games run natively with hidden states                         |
-|     
-
-- Eliminates dependence on centralized servers or reveal hashes           |
+| - Strategic games run natively with hidden states                         |
+| - Eliminates dependence on centralized servers or reveal hashes           |
 +-------------------------------------------------------------------------------+
 ```
 

@@ -47,11 +47,7 @@ The architecture's design ensures that computation occurs at the most suitable l
 Edge computing finds applications across various sectors:
 
 | Use Case | Description |
-|
-
------------------------|
-
-----------------------------------------------------------------------------------------------|
+| --- | --- |
 | Smart Factories | Sensors on equipment predict maintenance needs, preventing costly downtimes. |
 | Autonomous Vehicles | Vehicles process sensor data in real time for navigation and collision avoidance. |
 | Smart Cities | Edge computing analyzes traffic camera data to optimize traffic light timing and air quality.|

@@ -25,11 +25,7 @@ Transitioning from an individual contributor to a manager represents a significa
  After asking, pause to genuinely absorb their responses. This practice builds trust and reveals underlying issues. When you do share your thoughts, ensure your messages are concise and directly aligned with team objectives and the company's mission.
 
 | Communication Techniques | Description |
-|
-
---------------------------|
-
--------------|
+| --- | --- |
 | Open-Ended Questions | Encourage dialogue and gather insights. |
 | Active Listening | Show empathy and validate team members' concerns. |
 | Clear Messaging | Align your communication with goals for clarity. |
@@ -91,7 +87,7 @@ Transitioning from an individual contributor to a manager represents a significa
 
 9. **Common Mistakes to Avoid**
 
-- Micromanaging:**This behavior stifles autonomy and growth. Remedy it by trusting your team's processes and concentrating on outcomes.
+- **Micromanaging:**This behavior stifles autonomy and growth. Remedy it by trusting your team's processes and concentrating on outcomes.
  - **Ignoring feedback:** Neglecting feedback erodes trust and creates a disconnect. Schedule regular feedback sessions and act on the responses received.
  - **Over-committing:** This leads to burnout and unmet deadlines. Prioritize effectively and decline low-impact requests.
  - **Failing to set clear goals:** Lack of clear goals results in misalignment and frustration. Use frameworks like OKRs or SMART goals to ensure everyone is aligned.

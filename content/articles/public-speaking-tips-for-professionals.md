@@ -83,11 +83,7 @@ Filler words like "um," "ah," "like," and "you know" can undermine your credibil
 Slides should serve as visual aids, not scripts. They are designed for your audience, not for you.
 
 | Slide Guidelines | Recommendations |
-|
-
-------------------------|
-
----------------------------------------|
+| --- | --- |
 | **One Idea Per Slide** | Each slide should convey a single, clear purpose |
 | **Use Images, Not Words** | Incorporate high-quality images, simple charts, and diagrams |
 | **The 6x6 Rule** | Limit to six bullet points per slide and six words per bullet point |

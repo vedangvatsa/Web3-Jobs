@@ -24,11 +24,7 @@ India ranks as one of the largest contributors to open-source crypto development
 India hosts numerous dynamic Web3 communities that enable networking, knowledge sharing, and collaboration. Below is a list of some of the most active and impactful communities within the country:
 
 | Community Name | Link |
-|
-
-------------------------------|
-
---------------------------------------------------------|
+| --- | --- |
 | Hashtag Web3 | [Join Here](https://t.me/hashtagweb3) |
 | PolkadotNow | [Join Here](https://t.me/Polkadot_Now) |
 | KoinX | [Join Here](https://t.me/koinxgroup) |

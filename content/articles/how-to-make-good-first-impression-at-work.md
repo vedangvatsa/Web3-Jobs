@@ -100,7 +100,7 @@ This is perhaps the most underrated aspect of making a good first impression.
 
 **How to Listen Actively:**
 
-- Focus completely:**Put away your phone. Make eye contact. Let your mind focus on understanding, not planning your response.
+- **Focus completely:**Put away your phone. Make eye contact. Let your mind focus on understanding, not planning your response.
 - **Don't interrupt:** Even if you have something to add, wait. Let them finish. Most people find this remarkable and appreciate it.
 - **Take notes:** This serves multiple purposes, shows engagement, helps you remember, gives you something to reference later.
 - **Pause before responding:** Count to a few moments after someone finishes. This gives them space to add more and shows you're thoughtful.
@@ -171,7 +171,7 @@ Your energy and attitude are immediately noticeable.
 
 **Practical Ways to Show Positivity:**
 
-- Smile:**Genuine smiles are infectious. They make you more approachable.
+- **Smile:**Genuine smiles are infectious. They make you more approachable.
 - **Express Enthusiasm:** Show interest and excitement about the work.
 - **Don't Complain:** Everyone has frustrations, but your first days aren't the time to vent.
 - **Be Helpful:** Offer to help, volunteer, show you're not waiting to be told what to do.
@@ -191,7 +191,7 @@ Your appearance is part of your first impression, especially in the first days.
 
 **How to Get It Right:**
 
-- Observe Before Day One:**If possible, visit the office or ask about dress code.
+- **Observe Before Day One:**If possible, visit the office or ask about dress code.
 - **Dress Slightly More Formal:** On Day 1, err on the side of more formal. You can always dress down after you've established rapport.
 - **Match Your Team:** Understand the team's style and match it (while being one notch more formal initially).
 - **Industry Matters:** Finance = more formal. Startup = more casual. Adjust accordingly.

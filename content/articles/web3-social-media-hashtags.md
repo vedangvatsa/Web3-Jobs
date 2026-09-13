@@ -27,13 +27,8 @@ Hashtags in Web3 fulfill several essential functions:
 These high-volume hashtags represent the core elements of the Web3 industry. Using them ensures your content reaches a broader audience interested in this space.
 
 | Hashtag | Description |
-|
-
-------------------|
-
-----------------------------------------------------------|
+| --- | --- |
 | **`#Web3`** | The broad term for the decentralized internet. Use for general content related to the industry. |
-|
 
 **`#Crypto`**/**`#Cryptocurrency`**| Terms that encompass the financial and trading aspects of the industry. |
 | **`#[Blockchain](/what-is-a-blockchain)`** | A technical term suitable for content discussing the underlying technology. |
@@ -48,15 +43,10 @@ These high-volume hashtags represent the core elements of the Web3 industry. Usi
 The strategic use of these hashtags is important. They reflect the current prominent narratives in the space, demonstrating your awareness of ongoing trends.
 
 | Hashtag | Description |
-|
-
-------------------|
-
-----------------------------------------------------------|
+| --- | --- |
 | **`#L2s`** | Discusses scaling solutions like Arbitrum, Optimism, and ZK-Rollups. |
 | **`#RWA`** | Represents the trend of tokenizing traditional assets. It indicates a focus on the future of finance. |
 | **`#DePIN`** | Relates to projects building real-world infrastructure with crypto incentives. |
-|
 
 **`#AI`**/**`#AIcrypto`**| For content at the intersection of AI and Web3, one of the fastest-growing sectors. |
 | **`#Restaking`** | A narrative in DeFi focused on protocols like EigenLayer. |
@@ -69,11 +59,7 @@ The strategic use of these hashtags is important. They reflect the current promi
 These hashtags resonate with insiders and cultural identifiers within the community. Their effective use signals your authenticity as a community member.
 
 | Hashtag | Description |
-|
-
-------------------|
-
-----------------------------------------------------------|
+| --- | --- |
 | **`#gm`** | Stands for "Good Morning," used as a daily ritual to engage with the community. |
 | **`#WAGMI`** | Stands for "We're All Gonna Make It," expressing optimism. |
 | **`#BUIDL`** | A playful misspelling of "build," indicating a focus on long-term value creation, particularly during bear markets. |
@@ -85,11 +71,7 @@ These hashtags resonate with insiders and cultural identifiers within the commun
 During significant conferences, using the official event hashtags allows you to join the real-time conversation.
 
 | Hashtag | Description |
-|
-
-------------------|
-
-----------------------------------------------------------|
+| --- | --- |
 | **`#ETHGlobal`** | For discussions related to the ETHGlobal conference. |
 | **`#ETHDenver`** | Tied to the ETHDenver event. |
 | **`#Devcon`** | Related to the Devcon conference. |

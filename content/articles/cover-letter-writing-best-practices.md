@@ -59,11 +59,7 @@ Conclude your letter with a confident closing that encourages further communicat
 A well-crafted cover letter typically consists of 3-4 paragraphs, fitting within one page.
 
 | Paragraph | Content Description |
-|
-
------------|
-
----------------------|
+| --- | --- |
 | 1 | Introduction: A strong opening that engages the reader and states the position you are applying for. |
 | 2 & 3 | Body: Connect your experience to the job requirements by providing specific examples that highlight your value. |
 | 4 | Closing: Reiterate enthusiasm for the role, express a desire for an interview, and thank the hiring manager. |

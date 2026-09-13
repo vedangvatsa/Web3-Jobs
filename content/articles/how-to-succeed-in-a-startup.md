@@ -102,7 +102,9 @@ Do not chase the pros without a plan for the cons.
 
 ### A practical 30-60-90 day plan
 
-Use this to start strong without guessing.**Days 1 to 30: Learn and deliver one useful thing.**- Map the system. List the product, key contracts or services, how money or usage flows, and who owns each part.
+Use this to start strong without guessing.
+
+**Days 1 to 30: Learn and deliver one useful thing.**- Map the system. List the product, key contracts or services, how money or usage flows, and who owns each part.
 - Meet five customers or users. Record their top pain in their words.
 - Read the last three postmortems or launch notes. Note what broke and what changed.
 - Ship one small fix that users notice and one internal fix that helps the team. Update the docs you wish you had.

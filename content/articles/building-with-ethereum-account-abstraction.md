@@ -189,13 +189,7 @@ const userOp = await smartAccount.createUserOperation(
 - Stake and reputation rules. If your factory or paymaster touches global storage without stake, bundlers will reject it. You need to stake through EntryPoint with `addStake` and respect unstake delays, or avoid global storage in validation.
 
 **Trade-off summary**| Use | Gain | Cost |
-| 
-
---- | 
-
---- | 
-
---- |
+| --- | --- | --- |
 | One-click DeFi flows | Fewer signatures, atomic batch | Extra validation gas |
 | Onboarding without ETH | Higher conversion, pay in USDC | Paymaster liveness and oracle risk |
 | Passkey or multisig auth | No seed phrase exposure | More complex key management code |

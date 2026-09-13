@@ -27,15 +27,7 @@ If you have pending interviews, inform those companies about your received offer
 While salary is important, it represents only one aspect of the overall package. A job offering a slightly lower base salary might provide a superior compensation package or a more supportive work environment. Create a comparison spreadsheet to analyze the offers based on several key factors.
 
 | Factor | Offer A | Offer B | Offer C |
-|
-
--------------------------|
-
------------------------------|
-
-------------------------------|
-
-------------------------------|
+| --- | --- | --- | --- |
 | Base Salary | Competitive | Competitive | Competitive |
 | Bonus Potential | Performance-based | Performance-based | Performance-based |
 | Equity/Tokens | Equity options available | Equity options available | Equity options available |

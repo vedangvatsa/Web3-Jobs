@@ -20,13 +20,7 @@ The design philosophy behind NUIs emphasizes direct control over content rather 
 Several technologies form the backbone of contemporary NUIs:
 
 | Technology | Description | Key Examples |
-|
-
-------------------------|
-
------------------------------------------------------------------------------------------------------------------------|
-
-------------------------------------------|
+| --- | --- | --- |
 | Touch and Gestures | Users interact directly with devices using touch, implementing gestures like pinching and swiping. | Smartphones, tablets, smart appliances |
 | Voice | Allows users to control devices and execute tasks through spoken commands, using Natural Language Processing. | Virtual assistants |
 | Gesture Recognition | Uses cameras and sensors to interpret body movements for interaction. | Various gaming and smart devices |

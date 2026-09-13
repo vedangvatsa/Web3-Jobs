@@ -20,11 +20,7 @@ Satoshi Nakamoto's introduction of Bitcoin marked an important moment by address
 ### Key Insights
 
 | Aspect | Description |
-|
-
-----------------------------|
-
-------------------------------------------------------------------|
+| --- | --- |
 | **The Problem** | Digital information is easily copied, leading to the risk of double-spending. |
 | **Historical Solution** | A trusted third party, such as a bank, maintained a central ledger to prevent double-spending. |
 | **Decentralized Solution** | Bitcoin and other cryptocurrencies use a public, distributed ledger (the blockchain) and a consensus mechanism (like Proof-of-Work) to prevent double-spending. |

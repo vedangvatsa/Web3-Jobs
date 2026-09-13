@@ -94,15 +94,7 @@ Upon initiating an action in a dApp, such as swapping tokens, the dApp construct
 Several wallets dominate the browser extension space, each with distinct features.
 
 | Wallet | Users | Supported Blockchains | Key Features |
-|
-
-------------------|
-
-----------------|
-
-----------------------------------------|
-
-------------------------------------------------|
+| --- | --- | --- | --- |
 | MetaMask | Significant user base | Ethereum, Binance Smart Chain, others | User-friendly interface, extensive community |
 | Brave Wallet | Growing | Ethereum, Bitcoin, others | Integrated with Brave browser, strong privacy focus |
 | Coinbase Wallet | Significant user base | Ethereum, Bitcoin, and others | Backed by Coinbase, user-friendly design |

@@ -31,13 +31,7 @@ For this analysis, we will primarily focus on **base salary expectations** in US
 Smart contract development represents a core function within the Web3 ecosystem. These engineers are responsible for writing the on-chain logic that powers decentralized applications (dApps).
 
 | Level | Salary Range | Responsibilities |
-|
-
-------------|
-
---------------------|
-
---------------------------------------------------------------|
+| --- | --- | --- |
 | Junior | $90,000 - $140,000 | Write basic contracts, integrate frontends, work under supervision |
 | Mid-Level | $140,000 - $190,000| Own features, develop complex contracts, specialize in areas like [DeFi](/what-is-defi) or [NFTs](/what-are-nfts)|
 | Senior | $190,000 - $280,000+| Architect protocols, lead teams, ensure security and gas optimization |
@@ -47,11 +41,7 @@ Smart contract development represents a core function within the Web3 ecosystem.
 Frontend and full-stack engineers design user interfaces that interact with smart contracts. This role is ideal for experienced Web2 developers seeking to transition into Web3.
 
 | Level | Salary Range |
-|
-
-------------|
-
----------------------|
+| --- | --- |
 | Junior | $80,000 - $120,000 |
 | Mid-Level | $120,000 - $170,000 |
 | Senior | $170,000 - $240,000+|
@@ -61,11 +51,7 @@ Frontend and full-stack engineers design user interfaces that interact with smar
 Protocol engineers build the underlying blockchains, requiring expertise in low-level programming languages and distributed systems.
 
 | Level | Salary Range |
-|
-
-------------|
-
----------------------|
+| --- | --- |
 | Senior | $220,000 - $350,000+|
 | Note | Total compensation often exceeds significant amounts when including tokens.|
 
@@ -74,11 +60,7 @@ Protocol engineers build the underlying blockchains, requiring expertise in low-
 Security auditors focus on identifying vulnerabilities in code, making them essential in safeguarding blockchain applications. Due to the critical nature of their work, they command high salaries.
 
 | Level | Salary Range |
-|
-
----------------------|
-
---------------------|
+| --- | --- |
 | Senior / Lead Auditor| $250,000 - $400,000+|
 | Note | Top [freelance](/how-to-start-freelancing-for-beginners) auditors can earn substantial amounts annually through bug bounties and audit contests.|
 
@@ -87,13 +69,7 @@ Security auditors focus on identifying vulnerabilities in code, making them esse
 Despite the remote-first nature of the Web3 industry, geographic location still affects salary benchmarks, particularly for roles tied to specific hubs.
 
 | Tier | Region | Salary Benchmark |
-|
-
------------|
-
----------------------------------------|
-
--------------------------|
+| --- | --- | --- |
 | Tier 1 | USA - Bay Area, NYC | Upper end of salary ranges |
 | Tier 2 | Europe - London, Berlin, Zug | 80-90% of US benchmarks |
 | Tier 3 | Asia - Singapore, Hong Kong | 70-85% of US benchmarks |

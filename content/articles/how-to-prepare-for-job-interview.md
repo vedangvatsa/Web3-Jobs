@@ -21,11 +21,7 @@ The preparation you undertake prior to the interview carries as much weight as t
 Gain a complete understanding of the company you are interviewing with. 
 
 | Key Areas | Details |
-|
-
----------------------------|
-
--------------------------------------------------------------------------|
+| --- | --- |
 | **What do they do?** | Investigate their products, services, and business model. |
 | **Mission and culture** | Examine their "About Us" page, blog, and social media to capture their values. |
 | **Competitors** | Identify their main competitors to demonstrate your industry understanding. |

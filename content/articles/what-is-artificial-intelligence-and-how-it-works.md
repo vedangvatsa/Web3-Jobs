@@ -32,11 +32,7 @@ The underlying architecture of many of these models resembles neural networks, w
 AI is not monolithic; it encompasses various branches and capabilities. A common categorization method is based on the level of intelligence:
 
 | Type of AI | Description |
-|
-
-----------------------------------|
-
-----------------------------------------------------------------------------------------------|
+| --- | --- |
 | **Artificial Narrow Intelligence (ANI)** | The only type of AI currently in existence. ANI excels at a specific task, such as playing chess or speech recognition. While powerful within its domain, it lacks the capacity to perform unrelated tasks. |
 | **Artificial General Intelligence (AGI)** | A theoretical concept, AGI would possess human-like cognitive abilities, capable of understanding and learning across various domains without retraining. Current technology does not approach AGI. |
 | **Artificial Superintelligence (ASI)** | A hypothetical future AI that would vastly surpass human intelligence in all areas, including problem-solving and creativity. This remains a speculative concept. |

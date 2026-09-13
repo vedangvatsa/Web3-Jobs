@@ -21,7 +21,6 @@ Poor communication is a hallmark of toxicity. Here are some patterns to identify
 | **Indicator** |
 
 **Description**|
-|
 
 --------------------------------|
 
@@ -41,7 +40,6 @@ Signs of detrimental competition include:
 | **Sign** |
 
 **Description**|
-|
 
 --------------------------------|
 
@@ -67,7 +65,6 @@ Indicators of micromanagement include:
 | **Indicator** |
 
 **Description**|
-|
 
 --------------------------------|
 
@@ -87,7 +84,6 @@ Signs of a burnout culture include:
 | **Indicator** |
 
 **Description**|
-|
 
 --------------------------------|
 

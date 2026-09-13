@@ -43,7 +43,7 @@ Even without coding expertise, you can use various red flags and tools to protec
 
 2. **Examine the Block Explorer:**
 
-- Check for Verified Code:**Use a block explorer like Etherscan to verify if the contract's code has been audited. An unverified contract raises significant concerns.
+- **Check for Verified Code:**Use a block explorer like Etherscan to verify if the contract's code has been audited. An unverified contract raises significant concerns.
  - **Review Comments:** The comment section on the contract's page often contains warnings from previous victims, indicating potential issues.
  - **Analyze Holders:** Check the distribution of token holders. If one or two wallets control a large share of the supply, it poses a significant risk.
 

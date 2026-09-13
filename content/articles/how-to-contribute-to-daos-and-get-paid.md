@@ -109,7 +109,9 @@ The most reliable check is direct. Open the DAO's Safe address on Etherscan or t
 
 ## Pros and cons
 
-This work has real benefits and real limits. Weigh both before you start.**What this path does well:**
+This work has real benefits and real limits. Weigh both before you start.
+
+**What this path does well:**
 
 - Open entry.
 

@@ -29,13 +29,7 @@ Hong Kong seeks to establish itself as the foremost "TradFi-to-DeFi" bridge in A
 The demand for Web3 professionals with expertise in finance and crypto is exceptionally high in Hong Kong. Compensation levels are competitive globally and reflect the city's cost of living and the intense competition for skilled talent.
 
 | Role | Experience Level | Monthly Salary (HKD) |
-|
-
-------------------------------------------------|
-
---------------------------|
-
----------------------------------|
+| --- | --- | --- |
 | Legal & Compliance Officers | Experienced | 80,000 - 150,000+ |
 | Smart Contract & Backend Engineers (Solidity, Rust, Go)| Mid-Level (3-5 years) | 60,000 - 90,000 |
 | | Senior (5+ years) | 90,000 - 140,000+ |
@@ -67,13 +61,7 @@ To explore the latest Web3 job opportunities in Hong Kong, visit our [Web3 job b
 ## Complete Salary Guide: Web3 Jobs in Hong Kong
 
 | Role | Monthly Salary Range (HKD) | Monthly Salary Range (USD) |
-|
-
---------------------------------|
-
--------------------------------|
-
-----------------------------------|
+| --- | --- | --- |
 | Legal & Compliance Officer | 80,000 - 180,000 | Competitive |
 | Smart Contract Engineer | 60,000 - 140,000 | Competitive |
 | Institutional Sales | 70,000 - 160,000+ | Competitive |

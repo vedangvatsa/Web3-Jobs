@@ -44,13 +44,7 @@ Several defining features differentiate Web3 academies from traditional educatio
 Different types of Web3 academies cater to various learning needs:
 
 | Academy Type | Example | Focus Areas |
-|
-
--------------------------------|
-
-----------------------|
-
-------------------------------------------------------|
+| --- | --- | --- |
 | Developer Bootcamps | Encode Club, Chainshot| Smart contract engineering, Solidity, dApp development|
 | Protocol-Specific Education | Polkadot Academy | Building within specific blockchain ecosystems |
 | complete Platforms | Hashtag Web3 Academy | Development, marketing, community management, data analysis |

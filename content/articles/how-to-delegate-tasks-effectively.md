@@ -20,11 +20,7 @@ To delegate effectively, employ a structured approach.
 Not every task is suitable for delegation. Avoid delegating crises requiring direct authority, sensitive personnel issues, or core strategic tasks. Consider these as good candidates for delegation:
 
 | Task Type | Description |
-|
-
----------------------------|
-
--------------------------------------------------------|
+| --- | --- |
 | Repetitive tasks | Regular tasks that a team member can manage. |
 | Growth opportunities | Assignments that help develop new skills. |
 | Bottleneck tasks | Tasks you handle that slow down team progress. |

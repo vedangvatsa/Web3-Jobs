@@ -347,15 +347,9 @@ Even the most robust decentralized oracle network can experience edge-case anoma
 |     Delta = |P_1 - P_2| / Min(P_1, P_2)                                         |
 |                                                                                 |
 |  4. Execution Branches:                                                         |
-|     
-
-- If Delta <= 2.0%: Safe. Use Primary Price P_1 for liquidations & trading  |
-|     
-
-- If Delta >  2.0%: Discrepancy Alert. Freeze liquidations, pause borrowing |
-|     
-
-- If Primary Fails: Fall back to Secondary Price after emergency timelock   |
+| - If Delta <= 2.0%: Safe. Use Primary Price P_1 for liquidations & trading  |
+| - If Delta >  2.0%: Discrepancy Alert. Freeze liquidations, pause borrowing |
+| - If Primary Fails: Fall back to Secondary Price after emergency timelock   |
 +---------------------------------------------------------------------------------+
 ```
 

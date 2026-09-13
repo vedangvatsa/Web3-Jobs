@@ -50,7 +50,7 @@ Proof-of-Stake represents a more modern, energy-efficient alternative to PoW, cu
 
 - **Pros:**
 
-- Energy Efficiency:**PoS is significantly more energy-efficient than PoW as it avoids complex computational puzzles.
+- **Energy Efficiency:**PoS is significantly more energy-efficient than PoW as it avoids complex computational puzzles.
  - **Accessibility:** It lowers the barrier for participation compared to PoW mining, which requires expensive hardware.
  - **Scalability:** PoS enables advanced scalability solutions.
 
@@ -69,13 +69,7 @@ Beyond PoW and PoS, several new mechanisms exist, including:
 The choice of consensus mechanism is among the most critical design decisions for any blockchain. It requires weighing fundamental trade-offs between security, decentralization, and scalability, commonly referred to as the **[blockchain trilemma](/is-web3-dead)**. Below is a comparative overview of PoW and PoS.
 
 | Feature | Proof-of-Work (PoW) | Proof-of-Stake (PoS) |
-|
-
---------------------|
-
----------------------------------------|
-
--------------------------------------|
+| --- | --- | --- |
 | Security | High, requires substantial resources | High, based on economic incentives |
 | Energy Efficiency | Very low, high energy consumption | Very high, minimal computational needs |
 | Scalability | Limited | High, supports advanced solutions |
