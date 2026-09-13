@@ -72,12 +72,12 @@ export async function CompanyDetailView({ slug }: { slug: string }) {
             </nav>
 
             <header className="border-b pb-8">
-              <div className="flex items-center gap-5">
+              <div className="flex flex-col sm:flex-row items-start sm:items-center gap-4 sm:gap-5">
                 <div className="flex h-16 w-16 shrink-0 items-center justify-center">
                   <CompanyLogo logoSrc={logoSrc} faviconUrl={faviconUrl} name={displayName} size="h-full w-full" />
                 </div>
                 <div className="min-w-0 flex-1">
-                  <h1 className="text-3xl font-bold tracking-tight sm:text-4xl">{displayName}</h1>
+                  <h1 className="text-2xl font-bold tracking-tight break-words sm:text-4xl">{displayName}</h1>
                   <div className="mt-2 flex flex-wrap gap-x-5 gap-y-2 text-sm text-muted-foreground">
                     <span className="flex items-center gap-1.5">
                       <Briefcase className="h-4 w-4" aria-hidden="true" />

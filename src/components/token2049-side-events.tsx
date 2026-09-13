@@ -275,5 +275,6 @@ export function EventSideEvents({ eventName, events, timeZone }: { eventName: st
           </div>
         </div>
       )}
+    </section>
   );
 }
