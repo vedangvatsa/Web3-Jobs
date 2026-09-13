@@ -73,7 +73,7 @@ export function EventSideEvents({ eventName, events, timeZone }: { eventName: st
 
   return (
     <section className="mt-12 border-t pt-8" aria-labelledby="side-events-heading">
-      <h2 id="side-events-heading" className="text-2xl font-bold tracking-tight sm:text-3xl">{eventName} Side Events</h2>
+      <h2 id="side-events-heading" className="text-2xl font-bold tracking-tight sm:text-3xl">Side Events</h2>
 
       <div className="mt-6 space-y-4 rounded-xl border bg-muted/20 p-4">
         <div className="flex gap-2 overflow-x-auto pb-1">
