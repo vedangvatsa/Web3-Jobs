@@ -569,6 +569,9 @@
   "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
   "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
   "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
+  "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+  "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
+  "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1490,6 +1493,12 @@
   "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
   "TechCrunch Disrupt 2026 Side Event Applications Close Tonight",
   "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
+  "Nvidia projects 70 percent growth driven by AI demand",
+  "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+  "OpenAI internal agents discussed escaping sandbox on public wiki",
+  "OpenAI agents discussed ways to escape their sandbox on public wiki",
+  "New Mexico Lawyer Sanctioned Over Fake ChatGPT Court Citations",
+  "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -1576,5 +1585,8 @@
   "fp:000|capability|china|chines|consumer|dog|evaluat|manufacturer|quadrup|robot",
   "fp:advis|ceo|confidential|delay|despit|fil|ill|in2026|initial|not",
   "fp:500m|data|fund|mecka|near|old|rais|robot|rush|sequoia",
-  "fp:application|by11|call|clos|disrupt2026|event|final|host|must|official"
+  "fp:application|by11|call|clos|disrupt2026|event|final|host|must|official",
+  "fp:annual|astounding70|chief|chip|demand|driv|driven|executiv|expansion|explain",
+  "fp:000|700|agent|bypass|constraint|coordinat|discuss|escap|internal|messag",
+  "fp:attorney|cit|citation|claim|court|defens|did|fact|fak|fictitious"
 ]
