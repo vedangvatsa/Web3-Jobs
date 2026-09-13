@@ -26,7 +26,9 @@ Your initial month should focus entirely on learning and immersing yourself in t
 - [What is Web3?](/what-is-web3)
 - [What are Smart Contracts?](/what-are-smart-contracts)
 - [What are NFTs?](/what-are-nfts)
-- [What is DeFi?](/what-is-defi) **2. Curate Your Information Sources:** Engage with the ongoing conversations in Web3, primarily on Twitter (X) and through podcasts.
+- [What is DeFi?](/what-is-defi)
+
+**2. Curate Your Information Sources:** Engage with the ongoing conversations in Web3, primarily on Twitter (X) and through podcasts.
 - **Twitter:** Set up a dedicated Twitter account for Web3. Follow leading builders, investors, and projects to stay updated and informed.
 - **Podcasts:** Tune into shows like *Bankless*, *The Defiant*, and *Unchained* for in-depth insights into current trends and narratives.
 
@@ -40,9 +42,7 @@ Your initial month should focus entirely on learning and immersing yourself in t
 
 After immersing yourself for a month, identify the aspects of Web3 that excite you the most. Now, focus on developing a specific skill that holds value in the ecosystem.
 
-- **Community Management:** If you have an interest in community engagement, consider aiming for a role as a
-
-**Community Manager**. These professionals oversee project Discord servers. Start by becoming an active and helpful member in a project's Discord to get noticed by the team.
+- **Community Management:** If you have an interest in community engagement, consider aiming for a role as a **Community Manager**. These professionals oversee project Discord servers. Start by becoming an active and helpful member in a project's Discord to get noticed by the team.
 - **Marketing:** Start creating content. Launch a blog or Twitter account to explain the concepts you've learned. This showcases your communication skills and serves as your public [portfolio](/building-web3-portfolio).
 - **Design:** Identify a dApp with a confusing user interface. Redesign a user flow using Figma and share your case study publicly to demonstrate your design skills.
 - **Development:** Begin with the basics. Follow a free tutorial like CryptoZombies to learn the fundamentals of [Solidity](/solidity-for-beginners), the primary programming language for Ethereum.
@@ -53,15 +53,9 @@ It's essential to create verifiable evidence of your skills and passion, often r
 
 [DAOs (Decentralized Autonomous Organizations)](/what-is-a-dao) serve as community-run organizations and offer beginners a valuable avenue to gain real-world experience.
 
-1.
-
-**Identify a [DAO](/what-is-a-dao):** Seek a DAO that aligns with your interests. For instance, writers may consider joining BanklessDAO.
-2.
-
-**Join a Guild:** Most DAOs include working groups or "guilds" focused on various functions (e.g., Marketing Guild, Writers Guild). Choose one that aligns with the skills you wish to develop.
-3.
-
-**Complete a Bounty:** Many DAOs provide small, paid tasks called bounties. These could involve writing articles, creating graphics, or testing new features. Successfully completing a bounty represents your first professional Web3 experience and serves as a strong signal to potential employers.
+1. **Identify a [DAO](/what-is-a-dao):** Seek a DAO that aligns with your interests. For instance, writers may consider joining BanklessDAO.
+2. **Join a Guild:** Most DAOs include working groups or "guilds" focused on various functions (e.g., Marketing Guild, Writers Guild). Choose one that aligns with the skills you wish to develop.
+3. **Complete a Bounty:** Many DAOs provide small, paid tasks called bounties. These could involve writing articles, creating graphics, or testing new features. Successfully completing a bounty represents your first professional Web3 experience and serves as a strong signal to potential employers.
 
 ### Step 4: From Contribution to Career
 
