@@ -35,7 +35,7 @@ Establish a clear understanding of your environment and formulate a strategy bef
 1. **Define Your Core Function:** Identify the primary role of your protocol. Are you a [DEX](/what-is-a-decentralized-exchange-dex), a lending protocol, or something else?
 2. **Identify Your "Money Lego" Stack:**
 
-- Upstream Dependencies:**Determine the protocols essential to your operations (e.g., Oracles like Chainlink, L1/L2s such as Arbitrum). Building reliable relationships with these entities is important for your protocol's longevity.
+- **Upstream Dependencies:** Determine the protocols essential to your operations (e.g., Oracles like Chainlink, L1/L2s such as Arbitrum). Building reliable relationships with these entities is important for your protocol's longevity.
  - **Downstream Beneficiaries:** Identify who can build on your protocol (e.g., yield aggregators that can use a DEX).
  - **Adjacent Complements:** Find protocols that offer complementary services (e.g., a lending protocol paired with a liquid [staking](/how-to-become-a-web3-staking-specialist) solution).
 3. **Formulate a Partnership Thesis:** Based on your analysis, create a clear thesis outlining where the most impactful integrations can occur. For instance, if developing a new decentralized stablecoin, a thesis might state: "Our primary go-to-market goal is securing acceptance of our stablecoin as collateral in the top three [DeFi](/what-is-defi) lending protocols to stimulate initial demand and utility."
@@ -53,21 +53,9 @@ With a well-defined thesis, begin constructing your partnership pipeline.
 #### Phase 3: The Proposal and Deal Structure
 
 1. **Emphasize the "Win-Win-Win":** Clearly outline the benefits for all parties involved:
- -
-
-#### How does your partner benefit?
-
-For example, "Integrating our protocol will provide your users with a new yield source."
- -
-
-#### How do you benefit?
-
-For instance, "This integration will significantly increase volume for our protocol."
- -
-
-#### How do users benefit?
-
-For example, "Users can complete this task in a single transaction, enhancing their experience."
+  - **Partner Benefit:** E.g., "Integrating our protocol will provide your users with a new yield source."
+  - **Protocol Benefit:** E.g., "This integration will significantly increase volume for our protocol."
+  - **User Benefit:** E.g., "Users can complete this task in a single transaction, enhancing their experience."
 2. **Explore Creative Deal Structures:** Partnerships don't always necessitate direct payments. Common structures in the Web3 space include:
  - **Co-marketing Initiatives:** Joint announcements, Twitter Spaces, and shared content creation.
  - **[Token](/what-is-a-token) Swaps:** Exchange a small amount of governance tokens to align long-term interests.
