@@ -112,11 +112,15 @@ export function getEventFormat(event: Web3Event): EventFormat {
 
 const GOOGLE_EVENT_INELIGIBLE = /\b(?:private|invite[- ]only|members?[- ]only|approval[- ]based|application[- ]only|closed event)\b/i;
 
-// Google Event rich results exclude virtual-only and non-public events.
+// Google Event rich results exclude virtual-only, non-public, TBD, or unparseable location events.
 export function isGoogleEventEligible(event: Web3Event): boolean {
+  const loc = (event.location || '').trim();
+  const locLower = loc.toLowerCase();
+  const isTbdOrGlobalOnly = !loc || /^tbd$/i.test(loc) || /^global$/i.test(loc);
+
   return getEventFormat(event) === 'in-person'
     && Boolean(event.name.trim())
-    && Boolean(event.location.trim())
+    && !isTbdOrGlobalOnly
     && Number.isFinite(Date.parse(event.startDate))
     && !GOOGLE_EVENT_INELIGIBLE.test(`${event.name} ${event.description || ''}`);
 }

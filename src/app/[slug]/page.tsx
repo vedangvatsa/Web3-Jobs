@@ -390,6 +390,21 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     const eventPageUrl = `${siteUrl}/${eventSlug}`;
     const eventImage = event.coverImage || `/api/og?type=event&title=${encodeURIComponent(event.name)}`;
     const eventImageUrl = /^https?:\/\//i.test(eventImage) ? eventImage : `${siteUrl}${eventImage}`;
+
+    // Clean location string (remove "Global, " prefixes from Luma tags)
+    const cleanLocationName = event.location
+      ? event.location.replace(/^global,\s*/i, '').trim()
+      : 'Web3 Venue';
+
+    // Chronological date calculation: if endDate < startDate (overnight events crossing midnight), add +1 day to endDate
+    const startMs = Date.parse(event.startDate);
+    let endIso = event.endDate || event.startDate;
+    const endMs = Date.parse(endIso);
+    if (!Number.isNaN(startMs) && !Number.isNaN(endMs) && endMs < startMs) {
+      const fixedEndDate = new Date(endMs + 24 * 60 * 60 * 1000);
+      endIso = fixedEndDate.toISOString();
+    }
+
     const eventSchema = isGoogleEventEligible(event)
       ? {
           '@context': 'https://schema.org',
@@ -397,24 +412,48 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
           name: event.name,
           description: event.description || editorial.summaryLead,
           startDate: event.startDate,
-          endDate: event.endDate || event.startDate,
+          endDate: endIso,
           eventAttendanceMode: 'https://schema.org/OfflineEventAttendanceMode',
           eventStatus: 'https://schema.org/EventScheduled',
           location: {
             '@type': 'Place',
-            name: event.location,
+            name: cleanLocationName,
             address: {
               '@type': 'PostalAddress',
-              name: event.location,
+              name: cleanLocationName,
               ...(event.city ? { addressLocality: event.city } : {}),
               ...(event.country ? { addressCountry: event.country } : {}),
             },
           },
-          // Keep schema URLs on this single-event leaf page; the official
-          // destination remains available as sameAs and the visible Details link.
           url: eventPageUrl,
           ...(event.url && event.url !== eventPageUrl ? { sameAs: event.url } : {}),
           image: [eventImageUrl],
+          // Emit Offer structured data for events with registration / ticket links
+          ...(event.url ? {
+            offers: {
+              '@type': 'Offer',
+              url: event.url,
+              price: '0',
+              priceCurrency: 'USD',
+              availability: 'https://schema.org/InStock',
+              validFrom: event.startDate,
+            }
+          } : {}),
+          // Emit Performer / Speaker data when present
+          ...(event.speakers && event.speakers.length > 0 ? {
+            performer: event.speakers.map((speaker) => ({
+              '@type': 'Person',
+              name: speaker,
+            }))
+          } : {}),
+          // Emit Organizer schema when organizer/host is available
+          ...(event.organizer || event.company ? {
+            organizer: {
+              '@type': 'Organization',
+              name: event.organizer || event.company,
+              ...(event.url ? { url: event.url } : {}),
+            }
+          } : {}),
         }
       : null;
 
