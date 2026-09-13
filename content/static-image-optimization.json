@@ -1,0 +1,4685 @@
+{
+  "version": 1,
+  "files": {
+    "/icon.png": {
+      "sha256": "b8f19ded5d96e7e37c0c89a6aaf8f261a992e672a7839d563938b8e088bc86b0",
+      "status": "retained"
+    },
+    "/images/adi-goldstein-EUsVwEOsblE-unsplash.jpg": {
+      "sha256": "d75d04a1a8b726a8e44bde253980aae52e2c552e32b5c66b10c0591e36ce37c1",
+      "status": "retained"
+    },
+    "/images/aideal-hwa-OYzbqk2y26c-unsplash.jpg": {
+      "sha256": "633b3c51753c68f86bf88f23527d760a99c3687978404f4f654224a8b8fde788",
+      "status": "retained"
+    },
+    "/images/alesia-kazantceva-XLm6-fPwK5Q-unsplash.jpg": {
+      "sha256": "588f6c44e718405bb5d573eef096c15a15a081555acfa35426537b6a6a44bce7",
+      "status": "retained"
+    },
+    "/images/alex-knight-2EJCSULRwC8-unsplash.jpg": {
+      "sha256": "d7bb6c52ff0fcba91ff1706398a16a5584c03ee468381418411ffae59a38bb12",
+      "status": "retained"
+    },
+    "/images/alex-kotliarskyi-QBpZGqEMsKg-unsplash.jpg": {
+      "sha256": "8803ef9f12c4e5c07a32a9ec66b2b28a368f78c61c1f2bb803f30c81c5e3bdbc",
+      "status": "retained"
+    },
+    "/images/alexandre-debieve-FO7JIlwjOtU-unsplash.jpg": {
+      "sha256": "cf4b2b2d94a3de1a5ce24847f25b454f4aff013c61ceab8a0b453b1015f00b6d",
+      "status": "retained"
+    },
+    "/images/altlayerrollupday.png": {
+      "sha256": "d498566c10c9c9bbae027c01c3ab65d5b14d37ab7e3a962d895a185a6ba79af0",
+      "status": "retained"
+    },
+    "/images/anas-alshanti-feXpdV001o4-unsplash.jpg": {
+      "sha256": "07ed38d80f02c64244268f9aab314618cff3aea046db8ad4b7190bda396982f5",
+      "status": "retained"
+    },
+    "/images/andrea-de-santis-zwd435-ewb4-unsplash.jpg": {
+      "sha256": "9bf095100c1849b6e0ad0822db0ba3ce09ea3860b093b960ba5096f2c6d0074b",
+      "status": "retained"
+    },
+    "/images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg": {
+      "sha256": "ae88203d7d1ce503bac0d7ae0b6a78aec5fe920597fe8a094bf7cc977e720ed5",
+      "status": "retained"
+    },
+    "/images/austin-distel-tLZhFRLj6nY-unsplash.jpg": {
+      "sha256": "25c5fe17cc693bef8429591bb40e02dc7dd4ac5376c85c8a624f211e6bf166c5",
+      "status": "retained"
+    },
+    "/images/bilge-tekin-GiATUqz4NYY-unsplash.jpg": {
+      "sha256": "2f0c64531cc34d8921150f938c2d996568d4ee5da813daa65163052036e108bb",
+      "status": "retained"
+    },
+    "/images/brian-kostiuk-S4jSvcHYcOs-unsplash.jpg": {
+      "sha256": "4c9315127646b12b9f7d5239f735e13dd898b27e6ac87f9fa6d29b3ce0071cb5",
+      "status": "retained"
+    },
+    "/images/bruce-mars-FWVMhUa_wbY-unsplash.jpg": {
+      "sha256": "79e390fcdc232b0716046e2e9b610a74a7a7be61de6bd6b53fd14725b41741b9",
+      "status": "retained"
+    },
+    "/images/carl-heyerdahl-KE0nC8-58MQ-unsplash.jpg": {
+      "sha256": "4821bff6e235d3b65127dad71465a9b34396b7cdd1bc021a4d06ae88cb1352c9",
+      "status": "retained"
+    },
+    "/images/chris-ried-bN5XdU-bap4-unsplash.jpg": {
+      "sha256": "d6b4c8e1ae37a6a57cd5d4e66b6e315266a5266ac9cf8a9875e3e1f1efbbe6c6",
+      "status": "retained"
+    },
+    "/images/chris-ried-ieic5Tq8YMk-unsplash.jpg": {
+      "sha256": "b061e2c8602e0c678e94f5af0eb10a081bce2b30572baf6aefafa127fd8a2273",
+      "status": "retained"
+    },
+    "/images/christin-hume-Hcfwew744z4-unsplash.jpg": {
+      "sha256": "8a52f9c7c4e9a40c48e164d95fa52223e86254779a7e428a3e10d166704d0468",
+      "status": "retained"
+    },
+    "/images/christina-wocintechchat-com-glRqyWJgUeY-unsplash.jpg": {
+      "sha256": "05b04db2a6d465468e12aef7cbf64ad79be42c3aee34cb4e0325e49b89a66f3a",
+      "status": "retained"
+    },
+    "/images/christopher-gower-m_HRfLhgABo-unsplash.jpg": {
+      "sha256": "4a88444d25ad427ae70715917a43e9fb1038441f9743b01f200aa8d012a3d621",
+      "status": "retained"
+    },
+    "/images/christopher-gower-vjMgqUkS8q8-unsplash.jpg": {
+      "sha256": "843f862c0ff53cc98736f9c4fdb630e3e0a7d32c8a2de9dc94db292356648970",
+      "status": "retained"
+    },
+    "/images/dayne-topkin-y5_mFlLMwJk-unsplash.jpg": {
+      "sha256": "92c649a2e25a65cc3b3c65bcd762a80252b40575e0daaf3806c10ea698efa339",
+      "status": "retained"
+    },
+    "/images/dell-8pb7Hq539Zw-unsplash.jpg": {
+      "sha256": "c5fa62733be79358f54d8d086d061924c06be5f007f6cc2fe62bc16125add293",
+      "status": "retained"
+    },
+    "/images/demodayonepiece.png": {
+      "sha256": "8586ed5ecefc1d294ff103e1f3286ab0040b2aed495783231ab0ebd6126244e5",
+      "status": "retained"
+    },
+    "/images/domenico-loia-EhTcC9sYXsw-unsplash.jpg": {
+      "sha256": "23b3cd07e7fd59df60374eb4acf6413ee1004b7762d070208a79e954f028f4c0",
+      "status": "retained"
+    },
+    "/images/emile-perron-xrVDYZRGdw4-unsplash.jpg": {
+      "sha256": "e5d261ee21c6e2a6ac2c1519e6d3715e6779802d826bf25d38b7b70facd73f15",
+      "status": "retained"
+    },
+    "/images/firmbee-com-SpVHcbuKi6E-unsplash.jpg": {
+      "sha256": "e54589339dc1199dbe8191e066b98c445f6df643d51b9ce024fc3c07526deabf",
+      "status": "retained"
+    },
+    "/images/george-prentzas-SRFG7iwktDk-unsplash.jpg": {
+      "sha256": "f06c7a36233559871ad843a0a0c26eacd5ae288a4b4d5f58f48178e73038c50c",
+      "status": "retained"
+    },
+    "/images/glenn-carstens-peters-npxXWgQ33ZQ-unsplash.jpg": {
+      "sha256": "14db622f78b784c5a8cb94022955590069f3ac925fdf58a9deb3c351c09b9465",
+      "status": "retained"
+    },
+    "/images/ilya-pavlov-OqtafYT5kTw-unsplash.jpg": {
+      "sha256": "e8d100c0a303b55e8feebbae701a4a7056d2f1748ab1ba57c0e6a73b52995af2",
+      "status": "retained"
+    },
+    "/images/india-web3-jobs.jpg": {
+      "sha256": "e40265383463ed0b9ed20d9b9aabc8078f6cb9bc587ac91f3dfaa2b1723eab8e",
+      "status": "retained"
+    },
+    "/images/jakob-owens-WUmb_eBrpjs-unsplash.jpg": {
+      "sha256": "54cb2e5aada895229f7c266f0db079f2375385cd42f8c1546fb69bbce404ec44",
+      "status": "retained"
+    },
+    "/images/javier-quesada-qYfwGVNJqSA-unsplash.jpg": {
+      "sha256": "282ebb925f5b1faec5d559b72ade1ffb83eaaf6f2ad708aab8e59d0fe2b85d64",
+      "status": "retained"
+    },
+    "/images/johannes-plenio-FZpCcPss9to-unsplash.jpg": {
+      "sha256": "2bb56c3cf6563e3592f49e3de4e1c24c04611269df0a0906cebeab92dff0c534",
+      "status": "retained"
+    },
+    "/images/kaitlyn-baker-vZJdYl5JVXY-unsplash.jpg": {
+      "sha256": "68c673c6f17b58f63b9d08ee9e296eed1349d9abc1251fefd0f1e1dc293af856",
+      "status": "retained"
+    },
+    "/images/kari-shea-1SAnrIxw5OY-unsplash.jpg": {
+      "sha256": "adeb47eacb079200751cff7896ce82716d7da1daa9c62ebd50ce6481e9cdbacb",
+      "status": "retained"
+    },
+    "/images/kevin-ku-w7ZyuGYNpRQ-unsplash.jpg": {
+      "sha256": "e542f59011749509c09030ff2cacc07f5383491ba90692d52475d836c8552ba8",
+      "status": "retained"
+    },
+    "/images/linus-mimietz-gvptKmonylk-unsplash.jpg": {
+      "sha256": "392d46c1916da0ea285711d13673eeb6734eb10ed11251a74cc46e8d60246b90",
+      "status": "retained"
+    },
+    "/images/luca-bravo-XJXWbfSo2f0-unsplash.jpg": {
+      "sha256": "dc75505d8aeb0b3840f062f52b9393634ffe208bbbc68cdf129d3399c75e21b6",
+      "status": "retained"
+    },
+    "/images/markus-spiske-FXFz-sW0uwo-unsplash.jpg": {
+      "sha256": "e57d245cf4b586f417403cc19b9e19e7b1e8dfd7fba6a00df163286c5c6eff92",
+      "status": "retained"
+    },
+    "/images/markus-spiske-Skf7HxARcoc-unsplash.jpg": {
+      "sha256": "2e8a88bf90c3b8435570b8f38037f1a4101ba016fd5b6b36dc430417be2dc41f",
+      "status": "retained"
+    },
+    "/images/markus-spiske-hvSr_CVecVI-unsplash.jpg": {
+      "sha256": "f8588261fbd239ab09f88ba520827c3fc7afac5960a04e465419634e9bd01ebc",
+      "status": "retained"
+    },
+    "/images/markus-spiske-iar-afB0QQw-unsplash.jpg": {
+      "sha256": "dd9857ec99ddaf5c841033581e233a680388ce870e6b3f4edbf96263d26efece",
+      "status": "retained"
+    },
+    "/images/martin-shreder-5Xwaj9gaR0g-unsplash.jpg": {
+      "sha256": "503969236059edbb13453d9280c1da75f699cdac60b72875437c118637bf9eda",
+      "status": "retained"
+    },
+    "/images/marvin-meyer-SYTO3xs06fU-unsplash.jpg": {
+      "sha256": "b756526c40e4225692b33ea39ed7542383ae91394480c9ff10ccb1da424c2b2e",
+      "status": "retained"
+    },
+    "/images/mathew-schwartz-iGheu30xAi8-unsplash.jpg": {
+      "sha256": "980189aa65e386f4facde30bb7e4aeb93bc0c869048b0f2c4fa0e9b668b9d2e4",
+      "status": "retained"
+    },
+    "/images/maxim-hopman-8vn4KvfU640-unsplash.jpg": {
+      "sha256": "9749a1a931980c57eaf2b0ea51a2d4ed6602ceb58b7fe56b1b42b18c8991d0a2",
+      "status": "retained"
+    },
+    "/images/maximalfocus-0n4jhVGS4zs-unsplash.jpg": {
+      "sha256": "d9a43bba71722b94571425aae055b16e48734b1529bb289ffbe0e355acb95caa",
+      "status": "retained"
+    },
+    "/images/maximalfocus-naSAHDWRNbQ-unsplash.jpg": {
+      "sha256": "8e1f2808401443a3a213c37b108ce150de23da39ba0870fcac9a32b814931c93",
+      "status": "retained"
+    },
+    "/images/nasa-1lfI7wkGWZ4-unsplash.jpg": {
+      "sha256": "7edab5a830635201bfcf5c7c95b2c5a8316ad492aa2ae42fc4dd2ba77513e02b",
+      "status": "retained"
+    },
+    "/images/nasa-Q1p7bh3SHj8-unsplash.jpg": {
+      "sha256": "ca76a81d79eb3f083707fbd8ee971b2ac7271aaa28729653bc7f1a2c1e0726ef",
+      "status": "retained"
+    },
+    "/images/nasa-cIX5TlQ_FgM-unsplash.jpg": {
+      "sha256": "d56f9c12bd6cb55a90732018a88b74997cf9f43c52203eca23f3f18717ef2139",
+      "status": "retained"
+    },
+    "/images/obortechinterview.png": {
+      "sha256": "6fd300294424469e2a1158baf68587432f11ef4a6368868638325db48602a7ff",
+      "status": "retained"
+    },
+    "/images/pakata-goh-RDolnHtjVCY-unsplash.jpg": {
+      "sha256": "f13743fac963bf077081e41af3cb505fe88c930ae0943f4131358206ccf92e59",
+      "status": "retained"
+    },
+    "/images/philipp-katzenberger-iIJrUoeRoCQ-unsplash.jpg": {
+      "sha256": "7f4d49ad8ef18b48173f9c05552e6461430d2e2aee4a56b62693fddfa46992e7",
+      "status": "retained"
+    },
+    "/images/pietro-jeng-n6B49lTx7NM-unsplash.jpg": {
+      "sha256": "9ac60e2bc66044a3ca91d3cb859468fee02f27aef8fd97b60ad7c7f3a210ba54",
+      "status": "retained"
+    },
+    "/images/possessed-photography-jIBMSMs4_kA-unsplash.jpg": {
+      "sha256": "9877ffc05e59d955f4087a753ec3fa21607f16e8992d1774ca1167e95b6c404f",
+      "status": "retained"
+    },
+    "/images/sergey-zolkin-_UeY8aTI6d0-unsplash.jpg": {
+      "sha256": "887f01779cee2dfc5f5dd379f6c5b237ea4dcc679a254cf0b065b6357d89c7f6",
+      "status": "retained"
+    },
+    "/images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg": {
+      "sha256": "7c930ff14942ed4b1ccd9152344271fc047cd068a7eb8f319c0845c425128fd6",
+      "status": "retained"
+    },
+    "/images/simon-abrams-k_T9Zj3SE8k-unsplash.jpg": {
+      "sha256": "bfd2b8a7b431602fdcaa43bda9e6ac9de1df2813c2540a978df13d296889437d",
+      "status": "retained"
+    },
+    "/images/surface-F4ottWBnCpM-unsplash.jpg": {
+      "sha256": "929e0a2ee64ca0a9a9b21d52c6b401f5635ab236c38aac41986babd2d9bc3023",
+      "status": "retained"
+    },
+    "/images/thisisengineering-0-29Dl7IAew-unsplash.jpg": {
+      "sha256": "95ab20e946744d2d2e6b3c5ea4d7e6cc3fa3301f7cd7715143a46096425082a6",
+      "status": "retained"
+    },
+    "/images/thisisengineering-32PpagSzeGs-unsplash.jpg": {
+      "sha256": "f4054f040f8df6ee36bc69efc1ba924f5f53ee630e6d1bb615fe117d0ebd9c20",
+      "status": "retained"
+    },
+    "/images/thisisengineering-64YrPKiguAE-unsplash.jpg": {
+      "sha256": "57510e59b4b6ec717194ea606649bef55ec6aa3fb0ffccb58c3792dd507ec0c8",
+      "status": "retained"
+    },
+    "/images/thisisengineering-83udtzyaTS4-unsplash.jpg": {
+      "sha256": "3ef736619ac14b31329b23001a484fadf696d5153182efd90f0afd2ec3c272f4",
+      "status": "retained"
+    },
+    "/images/thisisengineering-ZPeXrWxOjRQ-unsplash.jpg": {
+      "sha256": "44ea2ef545e71df3c9f5eabad7ebf2b87e65f9cb6fb444be23aee3fdc5b841d6",
+      "status": "retained"
+    },
+    "/images/thisisengineering-t4qI2IDcL5s-unsplash.jpg": {
+      "sha256": "e4caeb3fcf69a49273d79119941762d0f1b038be54617db7f2d8751e4f932700",
+      "status": "retained"
+    },
+    "/images/thisisengineering-yhCHx8Mc-Kc-unsplash.jpg": {
+      "sha256": "7f6e92dffe29b1b6e10f31efd1de882ffae7018dd57595dd506d3bc5ac9f2616",
+      "status": "retained"
+    },
+    "/images/thisisengineering-zBLtU0zbJcU-unsplash.jpg": {
+      "sha256": "1de06553f6d8396d8404e3162cc5b766f5bc0267e226938be099ce53d8477c7b",
+      "status": "retained"
+    },
+    "/images/tommy-texter-T42j_xLOqw0-unsplash.jpg": {
+      "sha256": "94cade9094bd4765a1bf10b52effbcaaff9c9d9b1ddaa939f099718ff38675c7",
+      "status": "retained"
+    },
+    "/images/umberto-jXd2FSvcRr8-unsplash.jpg": {
+      "sha256": "92bc9f90788d18f1f4e554a848bc9150e75b2a9128ed27e3795e8c04992a6265",
+      "status": "retained"
+    },
+    "/images/usa-web3-jobs-by-hashtag-web3.jpg": {
+      "sha256": "b043a8854842c3d23d15ec8d97229c926105aa204b9e355c675567139211268a",
+      "status": "retained"
+    },
+    "/images/vishnu-mohanan-pfR18JNEMv8-unsplash.jpg": {
+      "sha256": "5472a2cd3c5c0ca2d16aa1104afd3416ccbcc477e79c2add4d3275e018954035",
+      "status": "retained"
+    },
+    "/images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg": {
+      "sha256": "2441a6c0e7b50e99b823c8da841646822a1367f9aa3b17d350944caeba32d7fe",
+      "status": "retained"
+    },
+    "/logo/binance.png": {
+      "sha256": "825e49f131e1ae04b5acf433a73b1b13c1bd1f0c49e553bb36c27b27893328b0",
+      "status": "retained"
+    },
+    "/logo/coinbase.png": {
+      "sha256": "cb40b5bd754f86d1809653d2abd92557621a3344d7f7dbf6faf6c3c6a05837cf",
+      "status": "retained"
+    },
+    "/logo/companies/0g-labs.png": {
+      "sha256": "b14f819e9aeb5f13845bb408d7aac02c442a5cb4bdb3b7e07c4f418655b7fb00",
+      "status": "retained"
+    },
+    "/logo/companies/0x-labs.png": {
+      "sha256": "4aee9e1e2dda0cc461a3fb077fb9fd3c8ae4ab1d2d9b2cccdec5df857374c28b",
+      "status": "retained"
+    },
+    "/logo/companies/0x.png": {
+      "sha256": "4aee9e1e2dda0cc461a3fb077fb9fd3c8ae4ab1d2d9b2cccdec5df857374c28b",
+      "status": "retained"
+    },
+    "/logo/companies/1inch-network.png": {
+      "sha256": "0b76c871e14004e0f8abeff841acac847898a3bd5054df89aa919e363e5c0684",
+      "status": "retained"
+    },
+    "/logo/companies/21shares.png": {
+      "sha256": "7c6ab54dc643f499a0e76a832e46a9ded13c7c63c63a73a20e738f9568911cde",
+      "status": "retained"
+    },
+    "/logo/companies/Chainalysis.png": {
+      "sha256": "de3201b92dfea1c8b4bad8a5a89a1ab895f127af9c24de6fe6145c13eaa35cbe",
+      "status": "retained"
+    },
+    "/logo/companies/a16z-crypto.png": {
+      "sha256": "c749a33b3b5d6bc961d7f71cb81bf90c8ff40fa612f813efe50576214c66a49c",
+      "status": "retained"
+    },
+    "/logo/companies/a16z.png": {
+      "sha256": "6fd6f72bcb7223477adb27c4af0fbd8fb9ec7a667e7293e897a4b3a6cfb915d9",
+      "status": "retained"
+    },
+    "/logo/companies/aave-labs.png": {
+      "sha256": "d8160138f4edcfcb950c32ede7bf68275e902ef6d00cadcdb216272d3ee6bc48",
+      "status": "retained"
+    },
+    "/logo/companies/aave.png": {
+      "sha256": "d8160138f4edcfcb950c32ede7bf68275e902ef6d00cadcdb216272d3ee6bc48",
+      "status": "retained"
+    },
+    "/logo/companies/across-protocol.png": {
+      "sha256": "cec8f0dcb3b32e7a47e9a66f6870f4643d6370c2f043f5fcc2c608536dc37702",
+      "status": "retained"
+    },
+    "/logo/companies/airtm.png": {
+      "sha256": "bc1e6cf86c5542d504f48df4b5f480a014d1b007d93d96f88d0c2ade79e20dc4",
+      "status": "retained"
+    },
+    "/logo/companies/ajaib-crypto.png": {
+      "sha256": "6c4c9a7913e55cd1cfdd6cf458f6b228ba2f1cfb96454974f5279873e2561312",
+      "status": "retained"
+    },
+    "/logo/companies/algorand.webp": {
+      "sha256": "ac0c340d1106fa65f069f59e00fd7bceb841633677ed262d98b2de7e4f6a58a4",
+      "status": "retained"
+    },
+    "/logo/companies/aligned-layer.png": {
+      "sha256": "5f29080fe1ca71004d5f1f3ba876f2825b1d6096d9a630438508ee78f496a97d",
+      "status": "retained"
+    },
+    "/logo/companies/alliance-dao.png": {
+      "sha256": "a8e9a6697211f51fe06e46edbe07134c6f1c54aeb64298c1e070479d739900c9",
+      "status": "retained"
+    },
+    "/logo/companies/alliance-dao.webp": {
+      "sha256": "812f0aa38ccc5896f6d16d1f768e34b11c28d3d9e1ce6f8ab03dfc1490fa41ce",
+      "status": "retained"
+    },
+    "/logo/companies/allium.png": {
+      "sha256": "4afb80a2762d4e01225568d631abdb43e9d3ceedf5171b276d19e5d15eb71476",
+      "status": "retained"
+    },
+    "/logo/companies/allperps.png": {
+      "sha256": "46e2aedee647d385bb6ac4c9063b55d9f15bc1e0505634bd58159cec08d41330",
+      "status": "retained"
+    },
+    "/logo/companies/alpaca.png": {
+      "sha256": "f53de7bc31246dcfe67ff38964b1c7fddbc6f2d1b1791a7dd3e3e3e619522f18",
+      "status": "retained"
+    },
+    "/logo/companies/alpen-labs.png": {
+      "sha256": "a054c49508b1e2a372ca2c0dedcad390eec19811e47172f8be070088fbac1545",
+      "status": "retained"
+    },
+    "/logo/companies/amber-group.png": {
+      "sha256": "31093e5e62dc776f014e0086c26603ce511731a85017f1ae168a62de59b2f2ec",
+      "status": "retained"
+    },
+    "/logo/companies/anchorage-digital.png": {
+      "sha256": "d8673b874141a73bb0aeac4daf41ca3df4ea7478e00064d33dbdb331fbdb5704",
+      "status": "retained"
+    },
+    "/logo/companies/ancient8.png": {
+      "sha256": "5399e431baa0ff6fde873f3e9ebc4e5d4e60ecf294ed6df6f2bbcd7d378276d0",
+      "status": "retained"
+    },
+    "/logo/companies/andreessen-horowitz.png": {
+      "sha256": "6fd6f72bcb7223477adb27c4af0fbd8fb9ec7a667e7293e897a4b3a6cfb915d9",
+      "status": "retained"
+    },
+    "/logo/companies/animoca-brands.png": {
+      "sha256": "3966129e0ee2b4e151dbb5e1a996ac3f4bf912ebf3d2728dd17895bb9e5592ff",
+      "status": "retained"
+    },
+    "/logo/companies/animocabrands.png": {
+      "sha256": "3966129e0ee2b4e151dbb5e1a996ac3f4bf912ebf3d2728dd17895bb9e5592ff",
+      "status": "retained"
+    },
+    "/logo/companies/antimetal.png": {
+      "sha256": "ccad19cdef625ea9b194b1900507ddd0ac5e7cee479018d73b7ea6cdd5359b56",
+      "status": "retained"
+    },
+    "/logo/companies/anza.png": {
+      "sha256": "9d906d33c7f7ee2bd390b7d9e6fe52feb6b261e3501988d793103924278ef0a2",
+      "status": "retained"
+    },
+    "/logo/companies/apex-protocol.png": {
+      "sha256": "d52be63e5790964fb3454738c09107b04a4499938a766ff0ea3727aa09646ccd",
+      "status": "retained"
+    },
+    "/logo/companies/aptos-labs.png": {
+      "sha256": "203c4e5a77949d1418180789f09190ffe65b4ffd0c49aaaf144b816ae08ebe10",
+      "status": "retained"
+    },
+    "/logo/companies/aptos.png": {
+      "sha256": "820683a774508bcdbc17882be6c3c335f8a84bcdbe8beb0ba5107ee3900d613e",
+      "status": "retained"
+    },
+    "/logo/companies/aptos.webp": {
+      "sha256": "cac10b6b02069926d9873e1c7d334317697e5a0d8f8d480065cf70faec86596d",
+      "status": "retained"
+    },
+    "/logo/companies/arbitrum-opco.png": {
+      "sha256": "f11d4fa1db6c6bcea74403c2e1573036b6780dd956fa3105d6fd0d443a32c519",
+      "status": "retained"
+    },
+    "/logo/companies/arbitrum.webp": {
+      "sha256": "b1885265d17f68bc2f2a8b7d54135b1a65ed4f681c54273d0036dd24a6a28d84",
+      "status": "retained"
+    },
+    "/logo/companies/arcade.png": {
+      "sha256": "46e2aedee647d385bb6ac4c9063b55d9f15bc1e0505634bd58159cec08d41330",
+      "status": "retained"
+    },
+    "/logo/companies/artemis-analytics.png": {
+      "sha256": "a40bac8934be3aa180b93e07671b908cdda0c19a91e97ece03b5bf983183b52a",
+      "status": "retained"
+    },
+    "/logo/companies/astar-foundation.png": {
+      "sha256": "94b850597f0f6cecbaccd507901f6ccff675b6007303e7af667044c6276f8c4f",
+      "status": "retained"
+    },
+    "/logo/companies/aurora.png": {
+      "sha256": "8e60b0cf11197a67c61f1972a7ec1c3d6faddde19b1cc2075263e409d806a289",
+      "status": "retained"
+    },
+    "/logo/companies/ava-labs-avalanche.png": {
+      "sha256": "4a164d4e570cf3d4fd251712cfb9c7bd1a99cdf1d00244d32142c18076d6b453",
+      "status": "retained"
+    },
+    "/logo/companies/ava-labs.png": {
+      "sha256": "4a164d4e570cf3d4fd251712cfb9c7bd1a99cdf1d00244d32142c18076d6b453",
+      "status": "retained"
+    },
+    "/logo/companies/ava.png": {
+      "sha256": "020a358d42fb4f3ea83cefafc59c3786b3730720484758312b61641aafb60569",
+      "status": "retained"
+    },
+    "/logo/companies/axiom.png": {
+      "sha256": "33037fb7d3a02460968e096aea7552dd98e1dfb9546a3abc211aafad257a9442",
+      "status": "retained"
+    },
+    "/logo/companies/aztec-labs.png": {
+      "sha256": "943735be4a568bf70a749db82662d5b9936c36c1e92e084306afcdd7ce5928fc",
+      "status": "retained"
+    },
+    "/logo/companies/aztec.png": {
+      "sha256": "a3c02587a6cb5a28cf745bf4dcba349813fc26d251d19a5df203182a9f953fde",
+      "status": "retained"
+    },
+    "/logo/companies/bastion.png": {
+      "sha256": "af770cf0cd50e5aa4e5d33f1f3f0a9fd30a97a90200695e7b7af74eeb5255956",
+      "status": "retained"
+    },
+    "/logo/companies/bcb-group.png": {
+      "sha256": "40ff1fea9e281609339af01968adf05bc04e4a39a257736c02792847ad0f9e8f",
+      "status": "retained"
+    },
+    "/logo/companies/beam.png": {
+      "sha256": "e70b9f74e6c311afc9ab37f1fbb4b540b5ab9957557c313dfcdcecc5ee0c3387",
+      "status": "retained"
+    },
+    "/logo/companies/beincrypto.png": {
+      "sha256": "ad8a5a5e109c7f6c3663482eb848b786b9ed002a4c64ba9875d3fddefb6cf767",
+      "status": "retained"
+    },
+    "/logo/companies/berachain.png": {
+      "sha256": "1cec2aeda0ac8db51c119d6f67b9d76fa5aabe9bd97a90b0af1d8d266dfb0d88",
+      "status": "retained"
+    },
+    "/logo/companies/biconomy.png": {
+      "sha256": "50a1c27be25cb618eeb5dc68510be22018dbd54caa2b89461693917d4bcec1a6",
+      "status": "retained"
+    },
+    "/logo/companies/binance.png": {
+      "sha256": "29ede574fd05a76ddafd712f7980c4a461ea9b49a4f0b0dfc8d75c8d262875d5",
+      "status": "retained"
+    },
+    "/logo/companies/bitbank.png": {
+      "sha256": "1dbb1bf2afdce2979dc05a3c1fab45260db5f62d2422768e8d652613cfe1e01d",
+      "status": "retained"
+    },
+    "/logo/companies/bitcoin-com.png": {
+      "sha256": "e6a780c869baf8eb6a8d5436489065c5a894ad865c1f441436afe49532f100ea",
+      "status": "retained"
+    },
+    "/logo/companies/bitdeer.png": {
+      "sha256": "8b6971a6ba67cba51b44c0893dbf7ddbeb5bd74dc3a2bb2243eff70c1846b54c",
+      "status": "retained"
+    },
+    "/logo/companies/bitget.png": {
+      "sha256": "1dfea04d43c9807263dd437405f138cf7d73602366a6a6294a2e6c11801e2c0d",
+      "status": "retained"
+    },
+    "/logo/companies/bitgo.png": {
+      "sha256": "ebb0ce81bed82ff8e76d46885386c68d1f3c76ca4f2f8e927eff3b858f7d1d66",
+      "status": "retained"
+    },
+    "/logo/companies/bitkub.png": {
+      "sha256": "ef9e8c579675e57b525b4cd7a73f1bab639b354c4b64b1148ca86752245f6f3d",
+      "status": "retained"
+    },
+    "/logo/companies/bitnomial.png": {
+      "sha256": "37d8ecade270e0f878fa187ddfdea8c8c5db7b27c909fb72a811944738d86d76",
+      "status": "retained"
+    },
+    "/logo/companies/bitpanda.png": {
+      "sha256": "cc7f1da375c3307b63cc7ea18cf994c50244fbada78cde049f8f3daf70f6ca42",
+      "status": "retained"
+    },
+    "/logo/companies/bitso.png": {
+      "sha256": "4145877e8e5378c29aaafe529b606b1ab630aebd605cfd527eae65e0ab9d7eab",
+      "status": "retained"
+    },
+    "/logo/companies/bitvavo.png": {
+      "sha256": "3ab0aa0ce1701e4705d7c3b8f7d7a76a4ae76f6a5cfa7c010ff81185db2411dc",
+      "status": "retained"
+    },
+    "/logo/companies/blackbird-labs.png": {
+      "sha256": "d254d1b4d69826fe50d3ee15941469806b87088ee4f93616b28c3caa1860d8b8",
+      "status": "retained"
+    },
+    "/logo/companies/blackbird.png": {
+      "sha256": "d254d1b4d69826fe50d3ee15941469806b87088ee4f93616b28c3caa1860d8b8",
+      "status": "retained"
+    },
+    "/logo/companies/blackrock.png": {
+      "sha256": "92c0aaada68913c4d13e53edfb393dfefb7dc8b120bb11c10cff25134aceb4ae",
+      "status": "retained"
+    },
+    "/logo/companies/blackrock.webp": {
+      "sha256": "8e474e9e8ee4ee5236c00f07130e680ca30fea29754101a88e547a5ff428058e",
+      "status": "retained"
+    },
+    "/logo/companies/block.png": {
+      "sha256": "44c34384e2cf3507f9718bcd865a9bc06c82b28f71a8d8c2c86350294555690b",
+      "status": "retained"
+    },
+    "/logo/companies/blockaid.png": {
+      "sha256": "4e00d0e08f1b6bb0ee7e0e98e510fc437bbced3fd46e4c57bca1994953d52206",
+      "status": "retained"
+    },
+    "/logo/companies/blockchain-com.png": {
+      "sha256": "512ee1616a6f9182e413bca7c25f2108ac6155746f5abc317802ffbd13ef573d",
+      "status": "retained"
+    },
+    "/logo/companies/blockdaemon.png": {
+      "sha256": "9aa8c58acf09db62fd9b9eec163da4ae5b922c033ad9ed47812d324aa4b80d42",
+      "status": "retained"
+    },
+    "/logo/companies/blockstream.png": {
+      "sha256": "17dfb9be41f46f17e2d9688f90bf760dd11dd0dd507ab6e8b352790a083bd484",
+      "status": "retained"
+    },
+    "/logo/companies/blockworks.png": {
+      "sha256": "e54e89cc3e808e1065484370f6b0805e5b21b4773f009dd7f306c120ee43158d",
+      "status": "retained"
+    },
+    "/logo/companies/bloomberg.png": {
+      "sha256": "2f0facfd0acf471d22b3e44b5687f1942c3fd7fefdcdb10564c0806d2d70301b",
+      "status": "retained"
+    },
+    "/logo/companies/bnb-chain.png": {
+      "sha256": "29ede574fd05a76ddafd712f7980c4a461ea9b49a4f0b0dfc8d75c8d262875d5",
+      "status": "retained"
+    },
+    "/logo/companies/bnbchain.png": {
+      "sha256": "29ede574fd05a76ddafd712f7980c4a461ea9b49a4f0b0dfc8d75c8d262875d5",
+      "status": "retained"
+    },
+    "/logo/companies/bob-build-on-bitcoin.png": {
+      "sha256": "ceabe496c8bf18f8960d57e0f687f8734e60ed5a627a041b0b8dfcddc004076f",
+      "status": "retained"
+    },
+    "/logo/companies/bob.png": {
+      "sha256": "ceabe496c8bf18f8960d57e0f687f8734e60ed5a627a041b0b8dfcddc004076f",
+      "status": "retained"
+    },
+    "/logo/companies/braavos.png": {
+      "sha256": "83ca036be933fcb0896ccda466894f32afca20f9e03fb3250e0ec3133d19b344",
+      "status": "retained"
+    },
+    "/logo/companies/braiins.png": {
+      "sha256": "85f5a6c62d96edfe6e8ac8bbd387f2b1452b9b7d7c52bc8d1cf7a864b4785f9c",
+      "status": "retained"
+    },
+    "/logo/companies/brale.png": {
+      "sha256": "1021f5a4a799b8e0e85e65cf052654799759782fbcf833bb2719afc56cc92a71",
+      "status": "retained"
+    },
+    "/logo/companies/brave.png": {
+      "sha256": "16cdee317aa4c12aa3a9167e5446b20dfa9968906592e71a97585b39282ea73f",
+      "status": "retained"
+    },
+    "/logo/companies/breeze-cash.png": {
+      "sha256": "d1046f41613eecdb92de437bbee649ca4b422392eccaa5c97f33489fe007aaf6",
+      "status": "retained"
+    },
+    "/logo/companies/breeze.png": {
+      "sha256": "59bfe9bc385ad69f50793ce4a53397316d7a875a7148a63c16df9b674c6cda64",
+      "status": "retained"
+    },
+    "/logo/companies/bullish.png": {
+      "sha256": "b81c02e1ff5fcae1bfe73bf65c8c05a339f3756f49601657025a69f07a669b42",
+      "status": "retained"
+    },
+    "/logo/companies/bvnk.png": {
+      "sha256": "5bf3c4458c01b43585d0062ab9918108ce3c8c4ac824d5f1ceeca2b40d767180",
+      "status": "retained"
+    },
+    "/logo/companies/bybit.png": {
+      "sha256": "5de13dd094b73cbc0531ea98b19235baaf50856aaa233c055363f3af32a958eb",
+      "status": "retained"
+    },
+    "/logo/companies/caladan.png": {
+      "sha256": "79a623a69743f3265de4c83230603a450600cb12908e4ccb65a48816c1f819ee",
+      "status": "retained"
+    },
+    "/logo/companies/category-labs.png": {
+      "sha256": "41104f165cf3f0f8c91b26a59fb8cf80ce99d9b2d7fbfbb71448954c3d76e701",
+      "status": "retained"
+    },
+    "/logo/companies/celebratix.png": {
+      "sha256": "59bfe9bc385ad69f50793ce4a53397316d7a875a7148a63c16df9b674c6cda64",
+      "status": "retained"
+    },
+    "/logo/companies/centrifuge.png": {
+      "sha256": "f38744e0bfc0765a13d8f78ca957428a018faccdded4c1218e1e5551c243573a",
+      "status": "retained"
+    },
+    "/logo/companies/certik.png": {
+      "sha256": "8f054eb8179ccc6f252e82be85f2314315728bbba9b4ff4118f6229d43dae46a",
+      "status": "retained"
+    },
+    "/logo/companies/certora.png": {
+      "sha256": "07a65b8f486af4e597fb465c66d4334e1611985f235a19c3058ccee9d39558ef",
+      "status": "retained"
+    },
+    "/logo/companies/chainlink-labs.png": {
+      "sha256": "77795df11741f798cdd7a7c2bb58dc0fcbce9fa91fe3687410e9446b207548ed",
+      "status": "retained"
+    },
+    "/logo/companies/chronicle-labs.png": {
+      "sha256": "240b1b7de5da5858ecc0e199dc81bb47ad0ba775159ff9d19de5221cc203cd90",
+      "status": "retained"
+    },
+    "/logo/companies/cleanspark.png": {
+      "sha256": "086eaa62516bfdfd3afeb9bc7a151b76cf2ac839aed6285ae17b5cbb6d0303ed",
+      "status": "retained"
+    },
+    "/logo/companies/coinbase.png": {
+      "sha256": "972d74e79b8af633197c8ba95f986606c4b014424a2a6a2ae793307c561f7d7a",
+      "status": "retained"
+    },
+    "/logo/companies/coindcx.png": {
+      "sha256": "6d8e1ee4477263396315130e3aca5c5778fbd7166feb309ac0bcc127cfb11de4",
+      "status": "retained"
+    },
+    "/logo/companies/coindesk.png": {
+      "sha256": "124a4526ef808e60498766caa92ae1471947990e25891980214bfa4032c83f17",
+      "status": "retained"
+    },
+    "/logo/companies/coinflow-labs.png": {
+      "sha256": "1118175686e043966567bf4742aa0a7ae5f5ddbe4543c2194ac087746ce64735",
+      "status": "retained"
+    },
+    "/logo/companies/coinflow.png": {
+      "sha256": "853667144b7572abee7591af47e763fbc903c41af876f807fe531085647200a4",
+      "status": "retained"
+    },
+    "/logo/companies/coingecko.png": {
+      "sha256": "7fadf5214bdaa6599c66d3d95b3a414d323c14a49efba2cbb77e7194264baa59",
+      "status": "retained"
+    },
+    "/logo/companies/coinhako.png": {
+      "sha256": "78eee1c5d4ddce02754a46a846a655a2ef0195d5ccf257d5aa74b6db832d74d7",
+      "status": "retained"
+    },
+    "/logo/companies/coinjar.png": {
+      "sha256": "38376b89b2ef4e5fd0922582e77d5af99739ac8b557599bdc4966f8e65a23fd6",
+      "status": "retained"
+    },
+    "/logo/companies/coinmarketcap.png": {
+      "sha256": "49460cf8c89477f6c748c2eefced5bd2aa5c0380506d08852756465c067c1882",
+      "status": "retained"
+    },
+    "/logo/companies/coinme.png": {
+      "sha256": "d1dca164318fd2a110fbd13b39769c4b37692a0867453f6d435bc27a3b599e1f",
+      "status": "retained"
+    },
+    "/logo/companies/coins-ph.png": {
+      "sha256": "868cd35f5f4615f61a3ef49d6eb5a20c251598752994b3add6d3b28bd38759f4",
+      "status": "retained"
+    },
+    "/logo/companies/coinsph.png": {
+      "sha256": "868cd35f5f4615f61a3ef49d6eb5a20c251598752994b3add6d3b28bd38759f4",
+      "status": "retained"
+    },
+    "/logo/companies/coinstore.png": {
+      "sha256": "7d5c7a32a442478375876bfbf6d80673d3e527bcb14e25eca58f95f51f85a5ca",
+      "status": "retained"
+    },
+    "/logo/companies/coinswitch-kuber.png": {
+      "sha256": "fa81a9f8d44c22521ed782a31287173e13b008d11d3351093d6aadce1917ca5a",
+      "status": "retained"
+    },
+    "/logo/companies/coinswitch.png": {
+      "sha256": "fa81a9f8d44c22521ed782a31287173e13b008d11d3351093d6aadce1917ca5a",
+      "status": "retained"
+    },
+    "/logo/companies/cointelegraph.png": {
+      "sha256": "5d7dee8812f63691dad9b7acdaa8848750029786b6841e318edbbfb6fc1a8e7c",
+      "status": "retained"
+    },
+    "/logo/companies/cointracker.png": {
+      "sha256": "ab61d05479573e47181c5b19020e28ed5cb11fb1dab13358136c0c47117341bb",
+      "status": "retained"
+    },
+    "/logo/companies/complyadvantage.png": {
+      "sha256": "acdd9bdc36225966f2accc890e8fc0d4152d5970999af54d13543e71bf2e6dd3",
+      "status": "retained"
+    },
+    "/logo/companies/compound.png": {
+      "sha256": "28a88b6e0126fd9019a0102fc3aa28fd24e01d512acfe9593e92e9358215d662",
+      "status": "retained"
+    },
+    "/logo/companies/conduit.png": {
+      "sha256": "79a0473d52ad3a70a1e64ad2a309eb7af1aa9af16f964f70f8c97918c0e60af1",
+      "status": "retained"
+    },
+    "/logo/companies/consensys-metamask.png": {
+      "sha256": "090e9ab2e311685346ecd0cf24884c01030814ad836b82f170f83bfd7e39c49f",
+      "status": "retained"
+    },
+    "/logo/companies/copper-co.png": {
+      "sha256": "eb1466fdcf809e4ea2580301986b952285a0046ccc92a0fe6836b8fc1e96968c",
+      "status": "retained"
+    },
+    "/logo/companies/covalent.png": {
+      "sha256": "65a8b5a2340e41843af1092b2b3ae3cd462d002bb504825a80613b1ff8b31722",
+      "status": "retained"
+    },
+    "/logo/companies/cow-dao.png": {
+      "sha256": "9715cad0fbe6bffac3e30c6248f1269749dea667f43828ceb205baf8acbe8831",
+      "status": "retained"
+    },
+    "/logo/companies/crossmint.png": {
+      "sha256": "d8b2ce6daa9733ccc200f8feaf82eb86e4a74292d686b3cd114b3836a312e9c4",
+      "status": "retained"
+    },
+    "/logo/companies/cryptio.png": {
+      "sha256": "a84fea18262c1d672b65a1690f877f94f7d6cbd0b5e88a30bb8183bf514663ff",
+      "status": "retained"
+    },
+    "/logo/companies/crypto-com.png": {
+      "sha256": "5bc95f1b66417234e890df7be7b2ce670d140e9b9f4743d3c50e0810ea7a7a3f",
+      "status": "retained"
+    },
+    "/logo/companies/crypto-finance.png": {
+      "sha256": "f6d5728c35bbf6938c441a1e0a862f0533d095b106caf374a62f645a9ff947b4",
+      "status": "retained"
+    },
+    "/logo/companies/crystal-intelligence.png": {
+      "sha256": "5629cc40a29bbf8c50a0ed6d38e0cac6d8ee4a7ef1b8151708a6582247ae883d",
+      "status": "retained"
+    },
+    "/logo/companies/cyber.png": {
+      "sha256": "0c9ff67f409274a53cefffaf2f0fda196503e956ee2fdde269f90d711a2cbcbc",
+      "status": "retained"
+    },
+    "/logo/companies/daylight.png": {
+      "sha256": "51107646f69ea8c4b43615b0bf2a0bafb7fe3c7d42793667b754bee70e40f58c",
+      "status": "retained"
+    },
+    "/logo/companies/dcg.png": {
+      "sha256": "0410458a60235f6278e0920193327817f63c5ce7e16bda41d32477bafc17e518",
+      "status": "retained"
+    },
+    "/logo/companies/dcg.webp": {
+      "sha256": "5af6e971d1c774722f95cfe849c36bd9a777d204a436965962e9d5838a04517a",
+      "status": "retained"
+    },
+    "/logo/companies/delphi-digital.png": {
+      "sha256": "4ddda1b86fbed19f5855bd85391a026397188a9267b2b0d94ede6cde272bc260",
+      "status": "retained"
+    },
+    "/logo/companies/delphi-digital.webp": {
+      "sha256": "9a93b29251496276adf741569e011d42df4c72c3493a1504645d91474beb117e",
+      "status": "retained"
+    },
+    "/logo/companies/dfinity.png": {
+      "sha256": "7e6ba96e467b174a64fc549d3ea8cda3e1cd2f6b1e3ab7a0bab9254c30782393",
+      "status": "retained"
+    },
+    "/logo/companies/dfns.png": {
+      "sha256": "40005dcd2456e68dfdde930025ea2b9c8aca832877b5a4d320438cbebebc4f06",
+      "status": "retained"
+    },
+    "/logo/companies/dialectic.png": {
+      "sha256": "1dfe68d80539141d0b2982023a7b7c186d61e3914a742cf200aec636d574417f",
+      "status": "retained"
+    },
+    "/logo/companies/digital-asset.png": {
+      "sha256": "a202d382db125f5d8c9db7d0413ba01ed78b0950b5664fb97fef31c898971e27",
+      "status": "retained"
+    },
+    "/logo/companies/digital-currency-group.png": {
+      "sha256": "0410458a60235f6278e0920193327817f63c5ce7e16bda41d32477bafc17e518",
+      "status": "retained"
+    },
+    "/logo/companies/digital-currency-group.webp": {
+      "sha256": "5af6e971d1c774722f95cfe849c36bd9a777d204a436965962e9d5838a04517a",
+      "status": "retained"
+    },
+    "/logo/companies/doublezero.png": {
+      "sha256": "9b14100b7cdfab0d387512b001c6d05cd2fd496bfcd4935798dfaf082cb5736b",
+      "status": "retained"
+    },
+    "/logo/companies/douro-labs.png": {
+      "sha256": "610332c65e703dae8d44c3b1b593485c22ecee0c154e3362b7c01801b82b5ac3",
+      "status": "retained"
+    },
+    "/logo/companies/dr-now.png": {
+      "sha256": "563d2ebb240f50ecaa6a37e9cfe64a2a20ebe86543e9b924c93bc02c1adf257b",
+      "status": "retained"
+    },
+    "/logo/companies/drivewealth.png": {
+      "sha256": "7a41c0d0e46c862e209c34d7b634208228d27553acdfbd5233efffc01ab17b9c",
+      "status": "retained"
+    },
+    "/logo/companies/dune-analytics.png": {
+      "sha256": "edefa49cda9adbda16f6afdf442b8dc20e9c8b5d0b0f09238ea23fa7ec8f57d6",
+      "status": "retained"
+    },
+    "/logo/companies/dune.png": {
+      "sha256": "edefa49cda9adbda16f6afdf442b8dc20e9c8b5d0b0f09238ea23fa7ec8f57d6",
+      "status": "retained"
+    },
+    "/logo/companies/dv-trading.png": {
+      "sha256": "e3696d937eecc1e9c38fe439e04b0548ce820ff3325fba9cfa42953c972e2dbb",
+      "status": "retained"
+    },
+    "/logo/companies/eclipse.png": {
+      "sha256": "0eda14ab6e106589c4b50ed99c1302c209f0fc6c604b62a8a78f3ed6eea700fd",
+      "status": "retained"
+    },
+    "/logo/companies/eigenlayer.png": {
+      "sha256": "37a4768d629c00b1cd6b698d58060404d1ba1a744880d17ea13a22c7d13f4457",
+      "status": "retained"
+    },
+    "/logo/companies/ellipsis-labs.png": {
+      "sha256": "19d3ceff8ebd65ebc596252cdb3ed18450557e824c6bb7b32981c4b963fd296f",
+      "status": "retained"
+    },
+    "/logo/companies/elwood-technologies.png": {
+      "sha256": "53960ac8b3ce035d89e0b69e0e95d39d3406039338c129402450b0eaa55553f6",
+      "status": "retained"
+    },
+    "/logo/companies/ergonia.png": {
+      "sha256": "f188ddb3629251be1df6f930cb2a3b81fd043e25589939130620e508a4e1e314",
+      "status": "retained"
+    },
+    "/logo/companies/espresso-systems.png": {
+      "sha256": "92334f818d147089d5af9c393e53fbda2730be0d7beeb4fe68ed0d954967a163",
+      "status": "retained"
+    },
+    "/logo/companies/ethena-labs.png": {
+      "sha256": "20af252faa3a640aa587894334304968012ac5ef2feada73438f6b87997d808a",
+      "status": "retained"
+    },
+    "/logo/companies/ethena.png": {
+      "sha256": "852e429079715902d3041971bb92baa436453e6026c6fd41a88a7e5376c7ac69",
+      "status": "retained"
+    },
+    "/logo/companies/ether-fi.png": {
+      "sha256": "9b4eda6487c57cba7b5b543241dc633580412bc16560e3050c194b1a9f61e0c1",
+      "status": "retained"
+    },
+    "/logo/companies/ethereum-foundation.png": {
+      "sha256": "8d81851ff2a6f991a1f3b8094c042fac70f7eb20cea09dadf50ab9ea1cadb970",
+      "status": "retained"
+    },
+    "/logo/companies/ethereum-institutional.png": {
+      "sha256": "f12c474380ea3c9dac16123f9ea1ad46d81aadb8a63153400d60d6dae420038f",
+      "status": "retained"
+    },
+    "/logo/companies/etherscan.png": {
+      "sha256": "b43782041282d6513893624c8b5e0187b0cfbfdbb9759a4733785477cabc4a51",
+      "status": "retained"
+    },
+    "/logo/companies/ethglobal.png": {
+      "sha256": "19a36c8ff2fd33521701e79e00aaa8c141de48cc81b45f425d2c54f80ae251ff",
+      "status": "retained"
+    },
+    "/logo/companies/etoro.png": {
+      "sha256": "8c8f6bb088c6c024f31a251274e35d3a8a919f29e4c4c39aef76174ebbd3722e",
+      "status": "retained"
+    },
+    "/logo/companies/everstake.png": {
+      "sha256": "8585519bb0dab5d7c0026ecd6291de3783c82a452485a2a6a91eb51425f819bb",
+      "status": "retained"
+    },
+    "/logo/companies/falconx.png": {
+      "sha256": "5f6508a863da1ec87b98030fb90e4096aab46b446df2eb1dbb0692d46e92f3c0",
+      "status": "retained"
+    },
+    "/logo/companies/fasset.png": {
+      "sha256": "037aaa23829571fa6a4fb22951d5074039b0a28b3adc82b34f7384c359897264",
+      "status": "retained"
+    },
+    "/logo/companies/fermah.png": {
+      "sha256": "dd2e3749c56464174e3b8a1b43783ef6d3514dbfe297a9c71ac9b7114315ee9e",
+      "status": "retained"
+    },
+    "/logo/companies/figment.png": {
+      "sha256": "ea84881cd33cfbbe110c586c3c3196d1caf56d4d5ed5c86353511a6a1e25ee6a",
+      "status": "retained"
+    },
+    "/logo/companies/figure-technologies.png": {
+      "sha256": "8a6ec6f4eb6681b2aadb49bf93a8cb5afdfc7781e827535f765c5602dece69e5",
+      "status": "retained"
+    },
+    "/logo/companies/figure-technologies.webp": {
+      "sha256": "3730636fc9f1373b7d9b6a09ea518096f11c9e680b819c76d23328cc3955eb09",
+      "status": "retained"
+    },
+    "/logo/companies/figure.png": {
+      "sha256": "8a6ec6f4eb6681b2aadb49bf93a8cb5afdfc7781e827535f765c5602dece69e5",
+      "status": "retained"
+    },
+    "/logo/companies/figure.webp": {
+      "sha256": "3730636fc9f1373b7d9b6a09ea518096f11c9e680b819c76d23328cc3955eb09",
+      "status": "retained"
+    },
+    "/logo/companies/filecoin-foundation.png": {
+      "sha256": "d7ba5af1ecd04adbca262afafb81468e05bc9fa16f7de292bfb84bac0a052433",
+      "status": "retained"
+    },
+    "/logo/companies/fireblocks.png": {
+      "sha256": "040addf31c03a3a9c6baae6f2a424694953d6c6f80c860d28035e4e8d90c08f3",
+      "status": "retained"
+    },
+    "/logo/companies/fleek.png": {
+      "sha256": "59bfe9bc385ad69f50793ce4a53397316d7a875a7148a63c16df9b674c6cda64",
+      "status": "retained"
+    },
+    "/logo/companies/flipside-crypto.png": {
+      "sha256": "38c86732fc5ae7576fe9e798157c72b930fb9df8d0ea726c51c316c0635f2289",
+      "status": "retained"
+    },
+    "/logo/companies/flipside.png": {
+      "sha256": "1d9c08c84005489c1c08a4e7708292df52168d8e50535f4572a82c22a20bbd6a",
+      "status": "retained"
+    },
+    "/logo/companies/flow-traders.webp": {
+      "sha256": "9f4d79ab9d87b03317a2eb44174e137aaa490e1eaf038cc120608a7d5a00e77e",
+      "status": "retained"
+    },
+    "/logo/companies/fomo.png": {
+      "sha256": "f42c4f22551cd76043ba48f6cc6cf6c575634cf394965efeaff5b9ab44805e0b",
+      "status": "retained"
+    },
+    "/logo/companies/foundation.png": {
+      "sha256": "f8307587739980f885908119488be336d0d73b2cf8fc77f6f38d9d14f63b6c5f",
+      "status": "retained"
+    },
+    "/logo/companies/foundry.png": {
+      "sha256": "38c86732fc5ae7576fe9e798157c72b930fb9df8d0ea726c51c316c0635f2289",
+      "status": "retained"
+    },
+    "/logo/companies/franklin-templeton.png": {
+      "sha256": "9b605b4da1cef0ccc09421df2fb0588c7019a1de2910f2d65ddaf19f058ec676",
+      "status": "retained"
+    },
+    "/logo/companies/frontrun-pro.png": {
+      "sha256": "bf857b743fc6678779effaee823dab2eba52b4efb9a9abd7dce4b799786b54fe",
+      "status": "retained"
+    },
+    "/logo/companies/frontrun.png": {
+      "sha256": "d79f5c0429dbd1640e38a68efccb21a756f33e5693f049a0ba5698f4787c87a6",
+      "status": "retained"
+    },
+    "/logo/companies/fun-xyz.png": {
+      "sha256": "475becf915bd14f2c9e9e85c722f7eddc9a9da700fd67875fdbd97219fd50ef7",
+      "status": "retained"
+    },
+    "/logo/companies/gacha.png": {
+      "sha256": "46e2aedee647d385bb6ac4c9063b55d9f15bc1e0505634bd58159cec08d41330",
+      "status": "retained"
+    },
+    "/logo/companies/gate-io.png": {
+      "sha256": "68fa620a6c6606ae2715839f8f2ad263b2bd0ff84b7194ea2188b66397423d9b",
+      "status": "retained"
+    },
+    "/logo/companies/gauntlet.png": {
+      "sha256": "caedbb0e80c6b546645f73d67d91ef870b21a152d893f5b7effdcb62a4fa2a1e",
+      "status": "retained"
+    },
+    "/logo/companies/gelato-network.png": {
+      "sha256": "63345777afd94df9f83261eecd07509fc6564f83827eace28350add1901804d6",
+      "status": "retained"
+    },
+    "/logo/companies/gelato.png": {
+      "sha256": "63345777afd94df9f83261eecd07509fc6564f83827eace28350add1901804d6",
+      "status": "retained"
+    },
+    "/logo/companies/gemini.png": {
+      "sha256": "3e177b393c53ae976ff33c6929099f7f75aba0ae5262af124b50db5fd0530fe3",
+      "status": "retained"
+    },
+    "/logo/companies/genies.png": {
+      "sha256": "6b1c057e24ec8db4bbdd466bef919b05bd6a9d2edb2a8b9ca9a1efe682c35cfc",
+      "status": "retained"
+    },
+    "/logo/companies/ginco.png": {
+      "sha256": "9263f07345b88b10089ba2c558929c09aab58bb9314544b11cb2c6262101960a",
+      "status": "retained"
+    },
+    "/logo/companies/goldsky.png": {
+      "sha256": "a77dfcd5ac3579f222c1e032f2d9be891269d1fad3d4038de2893de4300cc1fe",
+      "status": "retained"
+    },
+    "/logo/companies/gomining.png": {
+      "sha256": "df0b712af520872b170c4760f5c42b707de00c513dc45ee7825e31fc762d96a7",
+      "status": "retained"
+    },
+    "/logo/companies/google.png": {
+      "sha256": "34623e0974e67bb6a2c9cae51437f7442c80184cc8b6ee7be0b0d237eddc13e6",
+      "status": "retained"
+    },
+    "/logo/companies/grass.png": {
+      "sha256": "861f655821af5469290542d09aae6f0e07989f7f2b3e65fe313103da0c91004f",
+      "status": "retained"
+    },
+    "/logo/companies/groma.png": {
+      "sha256": "6226723c3fe2f2ae934576ffb6a1fef6512389be11bd9841946b9c4c978b8cdc",
+      "status": "retained"
+    },
+    "/logo/companies/grvt.png": {
+      "sha256": "6c9606456c6a1965610ee644389336a80205e22e779ae2d575b13b77a75900be",
+      "status": "retained"
+    },
+    "/logo/companies/gsr-markets.png": {
+      "sha256": "560a8e5fd95d27b81470f66ea8a8ce538fb01ef1a269c30a99ce3fc1e55769f7",
+      "status": "retained"
+    },
+    "/logo/companies/guild.png": {
+      "sha256": "d643afaab7a0cf78ca147e93a5e20450358415b5141f41e770f59117618182a0",
+      "status": "retained"
+    },
+    "/logo/companies/halliday.png": {
+      "sha256": "51b0337d07509e14fc72f0c2d877387368f01ec859feb77ae1a5a4ec418326d5",
+      "status": "retained"
+    },
+    "/logo/companies/harmony.png": {
+      "sha256": "6805ecf37bbb08c990bfab42fc8d1952bc208c12180cfed48aa8cc06a355a5ef",
+      "status": "retained"
+    },
+    "/logo/companies/hashport.png": {
+      "sha256": "e031813dabb4bd07f58d703403440426250549029c81f2fa838cb95d2dbc9746",
+      "status": "retained"
+    },
+    "/logo/companies/hedera.png": {
+      "sha256": "916ffa8d60043f816abf33d022105d7fdaea4400f97cb6c7a7b3eb27b2472974",
+      "status": "retained"
+    },
+    "/logo/companies/helius.png": {
+      "sha256": "5056045fb4178224738be5b973ce07e5341de2e2aab9e1beaf4aa225c477dc48",
+      "status": "retained"
+    },
+    "/logo/companies/hex-trust.png": {
+      "sha256": "75ca3544d0562488f0c0867413067019e19f0443482e8b9bd2ba32af874cae4d",
+      "status": "retained"
+    },
+    "/logo/companies/horizon.png": {
+      "sha256": "eb829ff8a4cc30aefb2cbed49d7d2b9d878059a378eb4aecd6ae1f31ccbe6c5c",
+      "status": "retained"
+    },
+    "/logo/companies/hut-8.png": {
+      "sha256": "124884f8d7e51cc270d0475a70abdf89cdb650410c4c12cc0ea2849ea5724432",
+      "status": "retained"
+    },
+    "/logo/companies/hyperbolic-ai-web3.png": {
+      "sha256": "58b9a8005939615cadb7157d881c86c12ebb3dd748bd299079186ff55ab56e7b",
+      "status": "retained"
+    },
+    "/logo/companies/hyperbolic.png": {
+      "sha256": "58b9a8005939615cadb7157d881c86c12ebb3dd748bd299079186ff55ab56e7b",
+      "status": "retained"
+    },
+    "/logo/companies/hyperliquid-labs.png": {
+      "sha256": "657b58fee455f3765fbd609cd6c0b56c4c904138e61e0a948dde3592e9bc7811",
+      "status": "retained"
+    },
+    "/logo/companies/icme.png": {
+      "sha256": "3c432a60414a6c58c6cda7df99f9102901ad73863e219294422e7d6cb3c85452",
+      "status": "retained"
+    },
+    "/logo/companies/immunefi.png": {
+      "sha256": "9cd36ffc35d58708bda6122da9554cbabad515430b82d5093f70b37fce37bdef",
+      "status": "retained"
+    },
+    "/logo/companies/immutable.png": {
+      "sha256": "69d016f3667486bb2570d315a31d916fe4030e3e5a87fc2f67e938c5ee169ccc",
+      "status": "retained"
+    },
+    "/logo/companies/immutable.webp": {
+      "sha256": "463e6d30e8dbfddab9c69be7443f15ceb4bcf66eaa3ec09501b2d10a56e8c5a1",
+      "status": "retained"
+    },
+    "/logo/companies/impossible-cloud.png": {
+      "sha256": "dfb3eb0e534883c49e1cabd8f85f31595a9bf40a072536369e6989943be77acb",
+      "status": "retained"
+    },
+    "/logo/companies/impossible-finance.png": {
+      "sha256": "e71edbef8ee30da4b8b7c1add35aee093aed3c7e0d0eb15e119c8a1b02e055fc",
+      "status": "retained"
+    },
+    "/logo/companies/improbable.png": {
+      "sha256": "1390736812944d5004e4a9b742cf3e470fe5852066def8f8afca8ad9a85d5786",
+      "status": "retained"
+    },
+    "/logo/companies/infstones.png": {
+      "sha256": "e5db88ea2322863ca17817b99d60006c625a31cff0dad49cf05d3c6d16a75c17",
+      "status": "retained"
+    },
+    "/logo/companies/infstones.webp": {
+      "sha256": "84cae2ba7a95134389609943e989d5bc945ef38aa4950c8248af06b2ec2026b6",
+      "status": "retained"
+    },
+    "/logo/companies/io-global.png": {
+      "sha256": "42aa42e46ffe347dc7269a85fc581cd1bd6923e8d5c2c5323bb3449989c6f062",
+      "status": "retained"
+    },
+    "/logo/companies/jane-street.png": {
+      "sha256": "59c097684e128b805f01699dba2e6d805edba15070786cdc18486f11df4c1ff2",
+      "status": "retained"
+    },
+    "/logo/companies/jane.png": {
+      "sha256": "59bfe9bc385ad69f50793ce4a53397316d7a875a7148a63c16df9b674c6cda64",
+      "status": "retained"
+    },
+    "/logo/companies/janus.png": {
+      "sha256": "46e2aedee647d385bb6ac4c9063b55d9f15bc1e0505634bd58159cec08d41330",
+      "status": "retained"
+    },
+    "/logo/companies/jejememe.png": {
+      "sha256": "2f4f41fef6b68e5aa86b8081aa967cb45f17b4c0c0031f07f365e40b1758f9d8",
+      "status": "retained"
+    },
+    "/logo/companies/jito-foundation.png": {
+      "sha256": "59bfe9bc385ad69f50793ce4a53397316d7a875a7148a63c16df9b674c6cda64",
+      "status": "retained"
+    },
+    "/logo/companies/joyride-labs.png": {
+      "sha256": "98ea4a7791b1c46b155768ad850b3b0ae49d292166c241d398f8ab761d05cdf1",
+      "status": "retained"
+    },
+    "/logo/companies/jump-crypto.png": {
+      "sha256": "1b5150382827a5cb5bc84a15832ff2d1d0bd4f82e73c61f497637a8d90ff3b92",
+      "status": "retained"
+    },
+    "/logo/companies/jump.png": {
+      "sha256": "1b5150382827a5cb5bc84a15832ff2d1d0bd4f82e73c61f497637a8d90ff3b92",
+      "status": "retained"
+    },
+    "/logo/companies/jupiter.png": {
+      "sha256": "46e2aedee647d385bb6ac4c9063b55d9f15bc1e0505634bd58159cec08d41330",
+      "status": "retained"
+    },
+    "/logo/companies/kalshi.png": {
+      "sha256": "af333d46ecc7788fef7157158d97b8c76221b4365117205506cf792296e31f18",
+      "status": "retained"
+    },
+    "/logo/companies/kappa-lab-ltd.png": {
+      "sha256": "7a2f533d33202b403b159512d7d8a1cd39ce3afa462357801fb1c6b3de2a7c59",
+      "status": "retained"
+    },
+    "/logo/companies/kappa-lab.png": {
+      "sha256": "7a2f533d33202b403b159512d7d8a1cd39ce3afa462357801fb1c6b3de2a7c59",
+      "status": "retained"
+    },
+    "/logo/companies/kast.png": {
+      "sha256": "2879fb01bdea06495936c444f3ebccee1f223123ed4dc5f2276ea2a0e06f37dc",
+      "status": "retained"
+    },
+    "/logo/companies/keyrock.png": {
+      "sha256": "8b124b58560750d8ebd89591e27f756506d29aea1210a3dbfdc3a67736875536",
+      "status": "retained"
+    },
+    "/logo/companies/kraken.png": {
+      "sha256": "af1ff45053a9cf313fd7c2210d63ac136d8a3104da09b9a20bc3c2dd399e2d3b",
+      "status": "retained"
+    },
+    "/logo/companies/kucoin.png": {
+      "sha256": "f77f87de8fd9eb0ceda91f5172f58ca83efccad581b17445315b9146d27309d5",
+      "status": "retained"
+    },
+    "/logo/companies/ledger.png": {
+      "sha256": "09e678d56402bbe538e9b244f67dec5ef93fc9332f07ba83250f6b4e539b9b07",
+      "status": "retained"
+    },
+    "/logo/companies/lens-protocol.png": {
+      "sha256": "6b9369dee895d392a4866bf9d80fccc8a9da444226ad3d6318b74ecfca01f3d1",
+      "status": "retained"
+    },
+    "/logo/companies/li-fi.png": {
+      "sha256": "c0e5fe2693e62507d4f323948ded4b4cdf7434b4d18eda63e19c34fbc4e33cd0",
+      "status": "retained"
+    },
+    "/logo/companies/lido.png": {
+      "sha256": "7e1a35a1cb68cc26c146322c8853b14feeee6dc1a0cb0d8fce5e2889b779dd7f",
+      "status": "retained"
+    },
+    "/logo/companies/lightcone-trade.png": {
+      "sha256": "3d5a37e4b94ed154c69926c18d78b451427a33994a2dbbe82b21b3dd1d278d22",
+      "status": "retained"
+    },
+    "/logo/companies/lightcone.png": {
+      "sha256": "59bfe9bc385ad69f50793ce4a53397316d7a875a7148a63c16df9b674c6cda64",
+      "status": "retained"
+    },
+    "/logo/companies/lightning-labs.png": {
+      "sha256": "83d774c65dca55127338538bf7c42dc145d0e04a88cfc962ef8191fd6fb3c9ac",
+      "status": "retained"
+    },
+    "/logo/companies/lightspark.png": {
+      "sha256": "7f0d8c169cedaae496032390a60031a98d67cd7bddd841a7a9719269d176d53b",
+      "status": "retained"
+    },
+    "/logo/companies/liminal-custody.png": {
+      "sha256": "6a1e52fbf0bf2702730f673f71e2ccfc5876a0dd9159931919eb2f03399dd7ae",
+      "status": "retained"
+    },
+    "/logo/companies/localcoin.png": {
+      "sha256": "1914806790f88eac4cedd69ed04e7d5ef3be531401a167c2537902e5a53beedb",
+      "status": "retained"
+    },
+    "/logo/companies/loco.png": {
+      "sha256": "6eb60d03f87faf5f12546213511204e741386d43298a51766bee3ac33c4b1e1e",
+      "status": "retained"
+    },
+    "/logo/companies/logos.png": {
+      "sha256": "6dc718b906eaa28c89d65cd4537cc1ec8a019eb026734e5245d54c52ea6e0e79",
+      "status": "retained"
+    },
+    "/logo/companies/logos.webp": {
+      "sha256": "ec387f672adf06626e795bc29d6daa14397d2c033aafc5e3db9acd6040f922ad",
+      "status": "retained"
+    },
+    "/logo/companies/loopscale.png": {
+      "sha256": "46e2aedee647d385bb6ac4c9063b55d9f15bc1e0505634bd58159cec08d41330",
+      "status": "retained"
+    },
+    "/logo/companies/luno.png": {
+      "sha256": "9f297b1f407349e9d17f2c5925146d3d8baf6e77ef1433fa5c0099a63feb40e1",
+      "status": "retained"
+    },
+    "/logo/companies/luxor-technology.png": {
+      "sha256": "df4ee39d7c524a328abd898800d57e34a90bf2657c6050e131c39affc0061d9e",
+      "status": "retained"
+    },
+    "/logo/companies/m-0-labs.png": {
+      "sha256": "e20701666fca4b5596e6e9fe848774640b6eacde7d98dd52d9cc2d303c6c8f8b",
+      "status": "retained"
+    },
+    "/logo/companies/m0.png": {
+      "sha256": "e20701666fca4b5596e6e9fe848774640b6eacde7d98dd52d9cc2d303c6c8f8b",
+      "status": "retained"
+    },
+    "/logo/companies/magic-eden.png": {
+      "sha256": "6813000c04b03fa8d1a7e22a8088d509ff1e935b6da8e08a235124e4442185d6",
+      "status": "retained"
+    },
+    "/logo/companies/magicblock.png": {
+      "sha256": "8f0791c523f54d87133827f1a978054d495fff3f8fa4ec3500fd6406859be767",
+      "status": "retained"
+    },
+    "/logo/companies/mantra.png": {
+      "sha256": "790777962e244228a4f38b179164860c7265c17cd7e24431740ec4336565dd39",
+      "status": "retained"
+    },
+    "/logo/companies/maple-finance.png": {
+      "sha256": "1e38b626c445c5cd969e155a4e387487f6c4932f173fb09bee86de6bbab90b95",
+      "status": "retained"
+    },
+    "/logo/companies/marketnode.png": {
+      "sha256": "356d483c4f29af3e759a0abc2f4372d4f07bfdb4506a3744e640c7b358fba4b0",
+      "status": "retained"
+    },
+    "/logo/companies/massive.png": {
+      "sha256": "1d9bce06c04634406c2991c01a9bf3acbb5d28059039741c509be49d4ec45c3c",
+      "status": "retained"
+    },
+    "/logo/companies/match-trade-technologies.png": {
+      "sha256": "9ebbedb979a97b202ec0c58eb7f540b2fbe31f9c8603e3e27205b80ed9fb64d5",
+      "status": "retained"
+    },
+    "/logo/companies/matter-labs.png": {
+      "sha256": "22b74df6a2f332e3a3682a454e046e6ddd831436e9532701788f6a7391d24a0a",
+      "status": "retained"
+    },
+    "/logo/companies/mckinsey.png": {
+      "sha256": "1381178cc29f93423ba9f96f5c9c73bef7356edb6af6f7a016a9789472170953",
+      "status": "retained"
+    },
+    "/logo/companies/meow.png": {
+      "sha256": "5cc6e58d3ed74e321a0dbf03958b287ec4a0d623734a9109495ee9f14b2e6c1e",
+      "status": "retained"
+    },
+    "/logo/companies/mercari.png": {
+      "sha256": "4b5343b7e222b78327a9c796295beb77e84bde3ea685f70de308bd62da2ac84b",
+      "status": "retained"
+    },
+    "/logo/companies/mercuryo.png": {
+      "sha256": "d2d61fdda3b484cbc513dd129afd9d0c3e630d8b2df3de993226acce570ef5af",
+      "status": "retained"
+    },
+    "/logo/companies/merkle-science.png": {
+      "sha256": "6a24e53d93d75c646523fcd191db5b1980005a5478bbca8952b2fb9d0fcca48b",
+      "status": "retained"
+    },
+    "/logo/companies/merkle-trade.png": {
+      "sha256": "7b5d337974156f4fb6ffeeb1936b0baaebbc60113e9c8f4e4b123f1088d452c2",
+      "status": "retained"
+    },
+    "/logo/companies/mesh.png": {
+      "sha256": "8858c43417ecfe123053723313fa1790fcfe566cb17b2e5361f2545e27199e6c",
+      "status": "retained"
+    },
+    "/logo/companies/molecule.png": {
+      "sha256": "57a4d44d626406405bd232692f11c40235685df9dd7f64bfbca6b2aab05d4a79",
+      "status": "retained"
+    },
+    "/logo/companies/monad-foundation.png": {
+      "sha256": "425b07b3b34390501d7b7dd1fd7487b7058a38e5d2d8ef388c37a3335fd47be6",
+      "status": "retained"
+    },
+    "/logo/companies/monad.png": {
+      "sha256": "425b07b3b34390501d7b7dd1fd7487b7058a38e5d2d8ef388c37a3335fd47be6",
+      "status": "retained"
+    },
+    "/logo/companies/moonpay.png": {
+      "sha256": "56720baa553ed49c8efea4a4aca3784e3d56090e037b1803095e2f5b997de793",
+      "status": "retained"
+    },
+    "/logo/companies/moonpay.webp": {
+      "sha256": "6946dc9c73aeee9ccca054ef91de5a169658a072023214c97e43009a84a3b05e",
+      "status": "retained"
+    },
+    "/logo/companies/morph.png": {
+      "sha256": "f82311cfa630be0045d370baad3ce457f5dd978a91f26eb1ffcdcd9d08a6d141",
+      "status": "retained"
+    },
+    "/logo/companies/morpho-labs.png": {
+      "sha256": "8102c3eada2f16948dee04e604c334cf94edc3b5fca5ba58a4df78955ba82efc",
+      "status": "retained"
+    },
+    "/logo/companies/morpho.png": {
+      "sha256": "8102c3eada2f16948dee04e604c334cf94edc3b5fca5ba58a4df78955ba82efc",
+      "status": "retained"
+    },
+    "/logo/companies/movement-labs.png": {
+      "sha256": "dddbcca901f93c6413cc95108fccbf00bbcabc3068ff0b79d7c0ed1045ac701d",
+      "status": "retained"
+    },
+    "/logo/companies/mudrex.png": {
+      "sha256": "65c8eb967741e9617de1883d310c88971a7537b29543719441a212af512a2305",
+      "status": "retained"
+    },
+    "/logo/companies/mysten-labs.png": {
+      "sha256": "598c5f8f10ac7f33d2cb65fe7d790e61154f403adfa4e1d611f2b374601fe6fa",
+      "status": "retained"
+    },
+    "/logo/companies/mythical-games.png": {
+      "sha256": "adff48ec3be18a33927362b898185d337dfeda450a6e3d6ebcdc2ed797b79972",
+      "status": "retained"
+    },
+    "/logo/companies/n3xt.png": {
+      "sha256": "69822430980ec5a63292705736eb2f84898c468fc2cecb88a74570a602525ab3",
+      "status": "retained"
+    },
+    "/logo/companies/nansen.png": {
+      "sha256": "c122dcc882839393876e5406e64bd6e8d190b7719cf4f32d676006614ed09a66",
+      "status": "retained"
+    },
+    "/logo/companies/nascent.png": {
+      "sha256": "5cb7944b4f0a19479ce5f6d2d7722067ed6547eb21e6ae6b04f53027f75f4fb8",
+      "status": "retained"
+    },
+    "/logo/companies/navi-protocol.png": {
+      "sha256": "2e4d94e3364fc309eddc521585df12f1a8110ba53570502030648e3c64d6c171",
+      "status": "retained"
+    },
+    "/logo/companies/ndax.png": {
+      "sha256": "aa96465e145da60420a68daf7a3cf5b8bcca0646600b26dcecedd76a422a68f1",
+      "status": "retained"
+    },
+    "/logo/companies/neon-evm.png": {
+      "sha256": "beafc72e2d8d12451d6748c74db68b1b8627a8d52e1e636ce56032ce59d9e7c3",
+      "status": "retained"
+    },
+    "/logo/companies/nethermind.png": {
+      "sha256": "efa916d1394e5697ba0afa9c7533b6fca1a78f80b0afb0f9f7ab8283743c6078",
+      "status": "retained"
+    },
+    "/logo/companies/newton.png": {
+      "sha256": "790d695dca0a58a372c9063573cfd99b8120519958a3cae1789c56f8515b6048",
+      "status": "retained"
+    },
+    "/logo/companies/nexo.png": {
+      "sha256": "2f6c1d7b74fd3b841a2cafc6096c8b8bd4af4a955781e12b80d74d48dd811b06",
+      "status": "retained"
+    },
+    "/logo/companies/nexus.png": {
+      "sha256": "5bc7feede8e49df975e2aaffcd8d3df26dd99762c77c513bf51b27f9cb9bedf1",
+      "status": "retained"
+    },
+    "/logo/companies/noise.png": {
+      "sha256": "46b59cfa33c47669fd7fa14a0f26323ffe51a5af858070e3cb28b6b8d5c978fc",
+      "status": "retained"
+    },
+    "/logo/companies/nomic-foundation.webp": {
+      "sha256": "00743909bd32c62f0f8f56c476df299829212811c3bad670ade760b3c34aa399",
+      "status": "retained"
+    },
+    "/logo/companies/notabene.png": {
+      "sha256": "7dc118eecf966a5e897695fb6f21d322bf004299d4289e0b2beb3d14506a4d36",
+      "status": "retained"
+    },
+    "/logo/companies/nous-research.png": {
+      "sha256": "12b3d13516ba235262add53da498e217b65864c0f9cc86fca6e709b3b7f5b487",
+      "status": "retained"
+    },
+    "/logo/companies/nym.png": {
+      "sha256": "5bc9f34c7d6ff49b179de46989ab4d501ac4a22bc194634b9d96736392258769",
+      "status": "retained"
+    },
+    "/logo/companies/oasis-network.png": {
+      "sha256": "af149b0dd4939701489e4723b4ede89ccf8ec9c4178ee85686777faf2cf33584",
+      "status": "retained"
+    },
+    "/logo/companies/offchain-labs.webp": {
+      "sha256": "b1885265d17f68bc2f2a8b7d54135b1a65ed4f681c54273d0036dd24a6a28d84",
+      "status": "retained"
+    },
+    "/logo/companies/okx.png": {
+      "sha256": "e861ed2a359f3b5444ad705b77b07199f72daaa09c3d654cd2d00891a928108d",
+      "status": "retained"
+    },
+    "/logo/companies/onekey-limited.png": {
+      "sha256": "76acf6e2a26b1ea29840e11f24fc7913f7f89b06ee082796e173f3217c499bf5",
+      "status": "retained"
+    },
+    "/logo/companies/oneplanet.png": {
+      "sha256": "3158de5988b8b5d0ca9bde07d972f08fb19f7f6b6f7ee979475f900ea01d20fb",
+      "status": "retained"
+    },
+    "/logo/companies/ooble-studio.png": {
+      "sha256": "6b06f6f1d3854f942811cb86bd5b476be31d7f319dacc5af9310e541382b5301",
+      "status": "retained"
+    },
+    "/logo/companies/open.png": {
+      "sha256": "59bfe9bc385ad69f50793ce4a53397316d7a875a7148a63c16df9b674c6cda64",
+      "status": "retained"
+    },
+    "/logo/companies/opensea.png": {
+      "sha256": "9153c5e1fafd7a221b7343c50596defecba540d34dbf3470f2d63f94ce44f5fa",
+      "status": "retained"
+    },
+    "/logo/companies/openzeppelin.png": {
+      "sha256": "49acfe753db2548d1837768bb431d920e5ad1866caed24956bf39333c09bfcc9",
+      "status": "retained"
+    },
+    "/logo/companies/optimai-network.png": {
+      "sha256": "313226945a22abb62a99d9915e18c2308f335ae7f5761b0333754345209d6e05",
+      "status": "retained"
+    },
+    "/logo/companies/orca.png": {
+      "sha256": "67df72e1662a424a05640e27abdf84b80a713c152e9bae1bc76b97768ee009d4",
+      "status": "retained"
+    },
+    "/logo/companies/orderly-network.png": {
+      "sha256": "7ab58fe7bd526540eacebe9778ce9f57a81c2c8c6a1c476c9c461354477ddd2f",
+      "status": "retained"
+    },
+    "/logo/companies/oxio.png": {
+      "sha256": "1ebe74882c2e65046212e67fce67bc6d263ad667cd780d2f0b35ca5d6ce249bd",
+      "status": "retained"
+    },
+    "/logo/companies/p2p-org.png": {
+      "sha256": "68872daf973564a7cd68b2721aff39ea292c5e6d97becad394717b469d5abe17",
+      "status": "retained"
+    },
+    "/logo/companies/paimon-finance.png": {
+      "sha256": "8db58e0e70f52709b2b91d68faf7b07d0e9448a1ddd58b984355975fe07ec0f3",
+      "status": "retained"
+    },
+    "/logo/companies/pancakeswap.png": {
+      "sha256": "1899010a096bff4dc2316639a20e08eecc42390ceb6667a433c89ac48c0e6d60",
+      "status": "retained"
+    },
+    "/logo/companies/pantera-capital.png": {
+      "sha256": "055872c186a6c3f56f254ba96311e044c6d896858b00d7551f5697bc1649a4d8",
+      "status": "retained"
+    },
+    "/logo/companies/parallel.png": {
+      "sha256": "781f87f2309ad0eb5022b179c4bb008dfe4bba2aa0e72e289c087bbdbbbc4458",
+      "status": "retained"
+    },
+    "/logo/companies/parity-technologies.png": {
+      "sha256": "968749f7fe3bbfdfcf1c40544a8fdf0b3ced68c6889723eac0e59a6c577e1696",
+      "status": "retained"
+    },
+    "/logo/companies/particle-network.png": {
+      "sha256": "d42c0402b3602e96b857573a307ac6f1ced78b9e37980c4d66c2ae63a6a5565a",
+      "status": "retained"
+    },
+    "/logo/companies/partisia-blockchain.png": {
+      "sha256": "674ff5d5e108e1df7774cbc7442843ffe86bd785e7741b185c05ea9c5bc3c286",
+      "status": "retained"
+    },
+    "/logo/companies/passes.png": {
+      "sha256": "9637b552793930b18223bfeec31df4e4b1bdcc79cff49f7e1206711f86d75595",
+      "status": "retained"
+    },
+    "/logo/companies/passes.webp": {
+      "sha256": "55178fb95c8e24bf4173601d4b553719fd8320e9aa0d3e7a9a0115ab79bd6271",
+      "status": "retained"
+    },
+    "/logo/companies/paxos.png": {
+      "sha256": "be1e345174a61c282295679cb1885da499777571ea41fbbcfa4b85ab8c099d2f",
+      "status": "retained"
+    },
+    "/logo/companies/permian-labs.png": {
+      "sha256": "d1be1c6f6c02c058202e7e8fd0179db5eb5e38833e3d94570f3f164d47066a28",
+      "status": "retained"
+    },
+    "/logo/companies/phantom.png": {
+      "sha256": "68eecf3231a83ca0e940d0a7949d61e1197222ddfd72a6f304e3464833728f02",
+      "status": "retained"
+    },
+    "/logo/companies/pixion-games.png": {
+      "sha256": "a77a5f3d441fa101bdce45f39e6350d535ca5522f0b35edfdfb00ab20f40be47",
+      "status": "retained"
+    },
+    "/logo/companies/plasma.png": {
+      "sha256": "a891a89ceaa62d120b21cd7feab008a33b411964a00522e6e2ebb6d62e5a1d7d",
+      "status": "retained"
+    },
+    "/logo/companies/plastic-labs.png": {
+      "sha256": "4fdb7b10af53b8d30163b8faff437d7eddea22ac58959982cc4377515373993c",
+      "status": "retained"
+    },
+    "/logo/companies/plume-network.png": {
+      "sha256": "f2b424db7d6e3b1be13d0f689109bef70de46607b270c0845400ee7e9a4d4fe0",
+      "status": "retained"
+    },
+    "/logo/companies/polychain-capital.png": {
+      "sha256": "a77a5f3d441fa101bdce45f39e6350d535ca5522f0b35edfdfb00ab20f40be47",
+      "status": "retained"
+    },
+    "/logo/companies/polygon-labs.png": {
+      "sha256": "eb84e217e596faa7ec51888ac7bc637d50ef916663ff15c97c606897c3f98202",
+      "status": "retained"
+    },
+    "/logo/companies/polymarket.png": {
+      "sha256": "7abb2731d3b3541bf81d1ca390668d301bb58a7cc9bb46db505a5b6d49057bc7",
+      "status": "retained"
+    },
+    "/logo/companies/predict-fun.png": {
+      "sha256": "360acf45c84a1518bfdf2b199cbde381c91d9b5be77d892bf4a0e1246c320a6a",
+      "status": "retained"
+    },
+    "/logo/companies/prime-intellect.png": {
+      "sha256": "cf4a181034dbfa756bb34691fb5f862d3bd30d74e8aba233a03ea76947ffd9fb",
+      "status": "retained"
+    },
+    "/logo/companies/privy.png": {
+      "sha256": "1acc7a0030ec99dbf60f4a08082247778c0e8b093984080f80ab1c939d8b410c",
+      "status": "retained"
+    },
+    "/logo/companies/provable-aleo.png": {
+      "sha256": "aa7209dec6affd550d2da29961806d705eb4f2d44df37029af8c119231216594",
+      "status": "retained"
+    },
+    "/logo/companies/provable.png": {
+      "sha256": "dd408097f7d39df0f654c44c1cb2bfd83a020772a0a0bc13e80867091b2a3930",
+      "status": "retained"
+    },
+    "/logo/companies/puffer-finance.png": {
+      "sha256": "bc3d27b8af48bf1702aa24fd914be29d4a0b33f4e74ec4dd140376abffa03ade",
+      "status": "retained"
+    },
+    "/logo/companies/pwc.png": {
+      "sha256": "4602db1373b51cd390c7bada02a790a15610aa8f9f730a34137945d5c7e2209e",
+      "status": "retained"
+    },
+    "/logo/companies/quicknode.png": {
+      "sha256": "d62c14e7bec7e61b6315fd4dbc2cc482ed6f6a22efb114a893cbf602e666970d",
+      "status": "retained"
+    },
+    "/logo/companies/r3.png": {
+      "sha256": "6ff6dfc727c440dcdabd409ad0b1712304dfbd720b59780eea653780fc4384ac",
+      "status": "retained"
+    },
+    "/logo/companies/rain.png": {
+      "sha256": "612112e523619990eeed514d8acd8abd62123729674c7261c8b81e9a03dbc708",
+      "status": "retained"
+    },
+    "/logo/companies/ramp-network.png": {
+      "sha256": "9b9ee6933c8d85fd3f438856376162f2b3a30bdc469b417ef7c9bf1911e16da2",
+      "status": "retained"
+    },
+    "/logo/companies/ramp.png": {
+      "sha256": "3060b02234a681a4773d65f1f355b237f22ae33fe2474c402c59eda1ba1c47ab",
+      "status": "retained"
+    },
+    "/logo/companies/range.png": {
+      "sha256": "d66442bfdaae4af6f2c45c80779e656f485b0b1f8ec0d0d5ddb05fb89509b076",
+      "status": "retained"
+    },
+    "/logo/companies/raydium.png": {
+      "sha256": "46e2aedee647d385bb6ac4c9063b55d9f15bc1e0505634bd58159cec08d41330",
+      "status": "retained"
+    },
+    "/logo/companies/redstone-oracles.png": {
+      "sha256": "a932d664bb502681b1c363d73a46ec814910dd60a6c4287553cc0159ad13d1dd",
+      "status": "retained"
+    },
+    "/logo/companies/redstone.png": {
+      "sha256": "e0863bd78b5cebbe07b55c5202d7f7303f9a7814cc49ee1da1370e43e861389c",
+      "status": "retained"
+    },
+    "/logo/companies/refi-hub.png": {
+      "sha256": "d15f788f6e87227184396a0099b71cdd881e6e57aa9d6a36e89f15c8aa15e8d3",
+      "status": "retained"
+    },
+    "/logo/companies/relay-link.png": {
+      "sha256": "586883a41c1630dd030a6cd7a0e80733d41ff517f2391c30fb70b8c94fecf84a",
+      "status": "retained"
+    },
+    "/logo/companies/relay.png": {
+      "sha256": "6b37093539ff942d4ef5205ba48a03fed700475f5876fba9fe13c8fdd0ec8c07",
+      "status": "retained"
+    },
+    "/logo/companies/render-foundation.png": {
+      "sha256": "275b915542971150a19aa1f8178a82af92571b06bd732fe58604e07a00e957e2",
+      "status": "retained"
+    },
+    "/logo/companies/render-network.png": {
+      "sha256": "9ea03df171065d2a0b1a30f199ed38672d11e89c882d31d60cd101295492672c",
+      "status": "retained"
+    },
+    "/logo/companies/render.png": {
+      "sha256": "9ea03df171065d2a0b1a30f199ed38672d11e89c882d31d60cd101295492672c",
+      "status": "retained"
+    },
+    "/logo/companies/renegade.png": {
+      "sha256": "2151ae07c29fe181ee57a756b92fb3c02bedc1538dc5083642a0c5520d5b5908",
+      "status": "retained"
+    },
+    "/logo/companies/revolut.png": {
+      "sha256": "7306205febc17023523ccf230e6a39ab2bd08446e06f1e07402de5ff1857956a",
+      "status": "retained"
+    },
+    "/logo/companies/rift.png": {
+      "sha256": "59bfe9bc385ad69f50793ce4a53397316d7a875a7148a63c16df9b674c6cda64",
+      "status": "retained"
+    },
+    "/logo/companies/riot-platforms.png": {
+      "sha256": "4032239f8641087bd13c101ae9833e13ecce77aa3a6c33187ea980c14c8a0768",
+      "status": "retained"
+    },
+    "/logo/companies/ritual.png": {
+      "sha256": "2a25a8b1d4fb9ccab1c3665e67f2364f3535895975a9e666085b69af3435aa15",
+      "status": "retained"
+    },
+    "/logo/companies/river-financial.png": {
+      "sha256": "26bac35d3458b587bb72d7be96f8e2240c97bcaaaf6bae7010b6f2f8de595e7d",
+      "status": "retained"
+    },
+    "/logo/companies/robinhood.png": {
+      "sha256": "a8a93b75ae86c6c2a0f141ad97e6213c35e184e8858392994278b4bd65ce8a4a",
+      "status": "retained"
+    },
+    "/logo/companies/safe.png": {
+      "sha256": "d2f190ccb24d33bfe9a8ad892fd7db7ce5386f78c4042b13702a41640de066fb",
+      "status": "retained"
+    },
+    "/logo/companies/saga.png": {
+      "sha256": "3c71bb5c27306ece664daaea0aadc150ca6d5effda977a0d2f180823d557c068",
+      "status": "retained"
+    },
+    "/logo/companies/saga.webp": {
+      "sha256": "ce14a54a320cd2adc96b79384ae4676e10b3a35b9eb705c581daab96858ad681",
+      "status": "retained"
+    },
+    "/logo/companies/sahara-ai.png": {
+      "sha256": "e212e85b8441564b3c00084f9a44edb5101da731903b21f5349cb60cf11d4aa5",
+      "status": "retained"
+    },
+    "/logo/companies/sardine.png": {
+      "sha256": "3d5b68179a0a4eae15eddb789b81cea95bd90ae543218e090f512b0376bd6d1a",
+      "status": "retained"
+    },
+    "/logo/companies/sec3.png": {
+      "sha256": "1aa451f622d3d6ac34e890305e7dc5effeeba646f100b5f087128e3a67321768",
+      "status": "retained"
+    },
+    "/logo/companies/securitize.png": {
+      "sha256": "59bfe9bc385ad69f50793ce4a53397316d7a875a7148a63c16df9b674c6cda64",
+      "status": "retained"
+    },
+    "/logo/companies/sei-foundation.png": {
+      "sha256": "8d40e81928dea908e5aaa69b7ed8c06321e9cdb73ed6fed5b6947d5e43e296fc",
+      "status": "retained"
+    },
+    "/logo/companies/sei-labs.png": {
+      "sha256": "8d40e81928dea908e5aaa69b7ed8c06321e9cdb73ed6fed5b6947d5e43e296fc",
+      "status": "retained"
+    },
+    "/logo/companies/sei.png": {
+      "sha256": "8d40e81928dea908e5aaa69b7ed8c06321e9cdb73ed6fed5b6947d5e43e296fc",
+      "status": "retained"
+    },
+    "/logo/companies/sequence.png": {
+      "sha256": "494f03369edb24352b073e6dbbaf991d4ffe7aeb110df2423fe0202641cfd726",
+      "status": "retained"
+    },
+    "/logo/companies/serotonin.png": {
+      "sha256": "ed92f3a7c487aea67e52a71cc319564b78d43eecb1e88b39573dda5134a4fa18",
+      "status": "retained"
+    },
+    "/logo/companies/sky-mavis.png": {
+      "sha256": "95051d5aaf2474456dda7cc55a0a465a4f630cf808418057cd140b6dc89f6263",
+      "status": "retained"
+    },
+    "/logo/companies/skyrise.png": {
+      "sha256": "46e2aedee647d385bb6ac4c9063b55d9f15bc1e0505634bd58159cec08d41330",
+      "status": "retained"
+    },
+    "/logo/companies/smartx.png": {
+      "sha256": "c09aabe4b676cf7ead5a73face54d960889f1f36c5afa9827a156d00ef7cab5b",
+      "status": "retained"
+    },
+    "/logo/companies/socket.png": {
+      "sha256": "c6f30946b9f90e702fc68eeb09f7f93163c86e8e031460a0b13aff0b4f90125e",
+      "status": "retained"
+    },
+    "/logo/companies/socket.webp": {
+      "sha256": "2448a0a39ef4fb090df03c3e71ed66b104932bbe91d0369ef8d6f1b4445cda1a",
+      "status": "retained"
+    },
+    "/logo/companies/solana-labs.png": {
+      "sha256": "2639534ff28dc83b0a288b819de5711a351f84053eaacd51713e2ab9ca79f37a",
+      "status": "retained"
+    },
+    "/logo/companies/solflare.png": {
+      "sha256": "93f5188cd5310a448003ba7d1ca61dfd5ad20657c48d523585be634e92c2bb0d",
+      "status": "retained"
+    },
+    "/logo/companies/sorare.png": {
+      "sha256": "d39bbdf9ebdd0144948d71a86d1c83b8961add0b316e5f30edd71f3f749a5937",
+      "status": "retained"
+    },
+    "/logo/companies/sphere.png": {
+      "sha256": "32f74846673a9a32debfc9374a2ac70a3b8b5442470b290622eb643e89126528",
+      "status": "retained"
+    },
+    "/logo/companies/spindl.png": {
+      "sha256": "ae8ce0c557489926bfb70b83aafe53a3b69ebeb1ee2bef8422a75a7d83ce89fb",
+      "status": "retained"
+    },
+    "/logo/companies/spruce.png": {
+      "sha256": "52cbe0126c0f598ccec6596628de510c061a495f4884f4e9b44f428fd476b800",
+      "status": "retained"
+    },
+    "/logo/companies/squads.png": {
+      "sha256": "46e2aedee647d385bb6ac4c9063b55d9f15bc1e0505634bd58159cec08d41330",
+      "status": "retained"
+    },
+    "/logo/companies/stablestock.png": {
+      "sha256": "a4f6663093a40b2446851021f999e82849b974a5d13769aaa300876132d93d83",
+      "status": "retained"
+    },
+    "/logo/companies/stacks.png": {
+      "sha256": "b3960ac2426c32031531d78884e50348308d2975f2d0aa19e30f109df56f7c78",
+      "status": "retained"
+    },
+    "/logo/companies/staking-facilities.png": {
+      "sha256": "46e2aedee647d385bb6ac4c9063b55d9f15bc1e0505634bd58159cec08d41330",
+      "status": "retained"
+    },
+    "/logo/companies/stargate-foundation.png": {
+      "sha256": "8ccad3bd4684d994aa2975ea2bea06a6b7249faa48371f4cd3e9dc1cc935da1c",
+      "status": "retained"
+    },
+    "/logo/companies/starknet-foundation.png": {
+      "sha256": "202e1ddc4b692cf923f06a5057a991827fd729b2506b5bff5215a55b0970b1b6",
+      "status": "retained"
+    },
+    "/logo/companies/starkware.png": {
+      "sha256": "a1cfab6a1f0fcfcdc83469ae4279327e40eebaaf49e235d18809d2bd1ab0558e",
+      "status": "retained"
+    },
+    "/logo/companies/startale-group.png": {
+      "sha256": "4a65c6845091a578eb7628bdb4eabee096bc53938e528e99b70b84dde73e7458",
+      "status": "retained"
+    },
+    "/logo/companies/stellar-development-foundation.png": {
+      "sha256": "67c031ce8ce92dc89b8705a87e65d8e614ce406dba8608ae17d185d54b1adee3",
+      "status": "retained"
+    },
+    "/logo/companies/stockal.png": {
+      "sha256": "d6cb96e0e6402daf6ae2fcd5740ea62e34d195cbc0f45fdb529a843f56bd65f6",
+      "status": "retained"
+    },
+    "/logo/companies/straitsx.png": {
+      "sha256": "23a22f0cd32b52e3bd7474686a6c389ae1b231bc347ded735a3848a6b032df4d",
+      "status": "retained"
+    },
+    "/logo/companies/strategy.png": {
+      "sha256": "d0b36cebd8faa825316e2f9b06ffcbe4e12d02d7f1fc37630a6d1bff8236cb23",
+      "status": "retained"
+    },
+    "/logo/companies/strike.png": {
+      "sha256": "ac60c22ba07e37fdcba3b924baf67130f6ce8f509b1b69a2837434a429da0c62",
+      "status": "retained"
+    },
+    "/logo/companies/stripe.png": {
+      "sha256": "9bfd1838ae9214d0f553ffb9bc703486529f747daaf8590f2741bc8ee76e8caa",
+      "status": "retained"
+    },
+    "/logo/companies/stronghold.png": {
+      "sha256": "089fe6da677a9db732a040557667fa0996b74f0af77e4ace6e47434202af9454",
+      "status": "retained"
+    },
+    "/logo/companies/subzero-labs.png": {
+      "sha256": "e07e14d2e1914f43c8ca112d160e625db0f582275827a0dd429ec5cd7d915b90",
+      "status": "retained"
+    },
+    "/logo/companies/subzero.png": {
+      "sha256": "e07e14d2e1914f43c8ca112d160e625db0f582275827a0dd429ec5cd7d915b90",
+      "status": "retained"
+    },
+    "/logo/companies/sui-foundation.png": {
+      "sha256": "b0a9380e0d9bdaedcb788fb5398f4fdc8e72f295d7115350879653534416b0f0",
+      "status": "retained"
+    },
+    "/logo/companies/superstate.png": {
+      "sha256": "8b9a61fc8f97a9e416dbf18e280ad75de2832c8f35d7a5d2a37909f6634fac52",
+      "status": "retained"
+    },
+    "/logo/companies/swan-bitcoin.png": {
+      "sha256": "927c708c540c1aa1c75cd213a8682cd27bf225529b71029b81337d491cd055c2",
+      "status": "retained"
+    },
+    "/logo/companies/swissborg.png": {
+      "sha256": "d0d761e0fad8c80793a4af52d860ac30d312e86a7be955e5a12b5730a1b1d4c3",
+      "status": "retained"
+    },
+    "/logo/companies/switchboard.png": {
+      "sha256": "bc4d02aaa02c9b0d2d0483c804bd2720416ae7c333e82f20903fed7e6ba51dd2",
+      "status": "retained"
+    },
+    "/logo/companies/symbiotic.png": {
+      "sha256": "a3647f8519a9b241c4ac41e76ab71b0c4b7bbcf90427b0d755daee1ec51f64d4",
+      "status": "retained"
+    },
+    "/logo/companies/syndica.png": {
+      "sha256": "e8de5ccc395708d1810c09f1647701cf5aaa31b4dd63a91479334c86a0a49c3d",
+      "status": "retained"
+    },
+    "/logo/companies/szns.png": {
+      "sha256": "1e4a504b9a1ad55fb5c17097061634988567c4718cfed032311357949ebdd4f9",
+      "status": "retained"
+    },
+    "/logo/companies/tactic.png": {
+      "sha256": "59bfe9bc385ad69f50793ce4a53397316d7a875a7148a63c16df9b674c6cda64",
+      "status": "retained"
+    },
+    "/logo/companies/taiko-labs.png": {
+      "sha256": "e2b89a49fff44dd8f754321d270eef75016899918ee849cfc58978e4ae7e4cc8",
+      "status": "retained"
+    },
+    "/logo/companies/talos-trading.png": {
+      "sha256": "7b2b7138bd7587710fd79d4a16ff0158a84620f5af90d4e5ac3976faa1791b54",
+      "status": "retained"
+    },
+    "/logo/companies/talos.png": {
+      "sha256": "81070db8ea4fa64fb42b9d3b49b3202c73a5abf3074d89d058cdca095a748be3",
+      "status": "retained"
+    },
+    "/logo/companies/taxbit.png": {
+      "sha256": "e3606a1ca53d5e002b181bbcb059c365686a1afab6cae39f79a056f99b93816c",
+      "status": "retained"
+    },
+    "/logo/companies/telcoin.png": {
+      "sha256": "78f1a71e7be9eb133600a1d5c1ea392010b23651ccf790147c8c4b253263ff10",
+      "status": "retained"
+    },
+    "/logo/companies/tempo.png": {
+      "sha256": "d2806c772021daebc6ed6355a98f02f83996c3912df70c5f205d36aeb1d4bbf7",
+      "status": "retained"
+    },
+    "/logo/companies/temporal.png": {
+      "sha256": "1437154e287519c90453694153d3eeb4d5a57e774083dfa71013dfd77b320b2e",
+      "status": "retained"
+    },
+    "/logo/companies/tenderly.png": {
+      "sha256": "ad2157b4d360b991b6337ad898742b825276e4b95e38d2cf1d2dc0427c31a9c8",
+      "status": "retained"
+    },
+    "/logo/companies/tether.png": {
+      "sha256": "65e27a79ee8e4b85d37423a26f6140379b165582244ff7a68c4afaf4d28cc3cb",
+      "status": "retained"
+    },
+    "/logo/companies/the-block.png": {
+      "sha256": "9db77a63dd6628f29d29ec7cbb8814c30cae111f2fc1a6e6d043212549657f27",
+      "status": "retained"
+    },
+    "/logo/companies/the-tie.png": {
+      "sha256": "32fb7d1cfb70f3716ebf3cb729928514f174be10004eecb52684e317b29eb275",
+      "status": "retained"
+    },
+    "/logo/companies/toku.png": {
+      "sha256": "fc00b57cb2213fdc9fe0df35521fed305c07fcd481cfd5f6be4fe435dbbf2cb6",
+      "status": "retained"
+    },
+    "/logo/companies/tools-for-humanity.png": {
+      "sha256": "742f8938004db82577dc345b5eb1b02062d6e77dc47e1ff3b8e7fa3ab920108b",
+      "status": "retained"
+    },
+    "/logo/companies/trail-of-bits.png": {
+      "sha256": "536788838536a256c254c2935e91dcb15583d7760d27635934cc0b865b63932d",
+      "status": "retained"
+    },
+    "/logo/companies/trezor.png": {
+      "sha256": "7a2f9600bcf35a6362a3223784938154dfe1433727c5d561f056858623d4be76",
+      "status": "retained"
+    },
+    "/logo/companies/trm-labs.png": {
+      "sha256": "2ab1e4527d58b263ec650852eec43e908cc8554f00fbc75fe2a5dd6667025836",
+      "status": "retained"
+    },
+    "/logo/companies/trojan-trading.png": {
+      "sha256": "59bfe9bc385ad69f50793ce4a53397316d7a875a7148a63c16df9b674c6cda64",
+      "status": "retained"
+    },
+    "/logo/companies/trojan.png": {
+      "sha256": "46e2aedee647d385bb6ac4c9063b55d9f15bc1e0505634bd58159cec08d41330",
+      "status": "retained"
+    },
+    "/logo/companies/true-anomaly.png": {
+      "sha256": "27377326b9bba3ba21fb4b7132a572865a4aa56423a223cc5ea0a5cedc008736",
+      "status": "retained"
+    },
+    "/logo/companies/trustswap.png": {
+      "sha256": "09261f459a148e6415eb97888a312fd29042241a66bfbe3258074e2e42f3e839",
+      "status": "retained"
+    },
+    "/logo/companies/turnkey.png": {
+      "sha256": "ccedad9fcdfef9452f7264c65a97dce7289be62591f32d0e326c07b3fe046212",
+      "status": "retained"
+    },
+    "/logo/companies/uma.png": {
+      "sha256": "a810b02cce9bd9477f413b8623acb7abbfd9ec3a9e9f2377718a8b164ad7f847",
+      "status": "retained"
+    },
+    "/logo/companies/union.png": {
+      "sha256": "4a9d49f1674f8a92207aedce6c24a7cb515ce112a2bec00cb71cc385056b3d3c",
+      "status": "retained"
+    },
+    "/logo/companies/uniswap-labs.png": {
+      "sha256": "2561727437d34ff0a3c59cc131046c713423caa676f38c3ec0ea6b702c98917a",
+      "status": "retained"
+    },
+    "/logo/companies/uniswap.png": {
+      "sha256": "2561727437d34ff0a3c59cc131046c713423caa676f38c3ec0ea6b702c98917a",
+      "status": "retained"
+    },
+    "/logo/companies/uphold.png": {
+      "sha256": "da2a0d5df418d4cb9224602c3065481c953c23d8c15005feb6b518c89bfc9db2",
+      "status": "retained"
+    },
+    "/logo/companies/validation-cloud.png": {
+      "sha256": "a7c4c83d0908994b55f0523ed3359b44e65db4b08e062d17cd38af2305e224a9",
+      "status": "retained"
+    },
+    "/logo/companies/valr.png": {
+      "sha256": "84ab83bd6a94d04ce111b454063178719c811e05cb14c4ab1195cc8e7addfead",
+      "status": "retained"
+    },
+    "/logo/companies/vana.png": {
+      "sha256": "5499d25c7738dffdd84e47b3b7ced0f36cda9b0a3a5a43c628e9dd5333607e32",
+      "status": "retained"
+    },
+    "/logo/companies/veda.png": {
+      "sha256": "cf0b3c7228fea11f28b3a848afc6487161fa66596545b7b9d1c78e951ff0fe97",
+      "status": "retained"
+    },
+    "/logo/companies/veem.png": {
+      "sha256": "afb47b792c8ff0b9fce8d1bd13749eaa030e718122842e26da7e5f8ef9993746",
+      "status": "retained"
+    },
+    "/logo/companies/ventuals.png": {
+      "sha256": "13469a82fa36a3ef223cdc44aef3b8fe9f9d6dd9b6de14cd574b552fed92da24",
+      "status": "retained"
+    },
+    "/logo/companies/very-ai.png": {
+      "sha256": "46e2aedee647d385bb6ac4c9063b55d9f15bc1e0505634bd58159cec08d41330",
+      "status": "retained"
+    },
+    "/logo/companies/vesta.png": {
+      "sha256": "4467c6159b522153a732f4cbad65c62545d77645dd8a76bf71f6529f8ce12cd8",
+      "status": "retained"
+    },
+    "/logo/companies/vibe.png": {
+      "sha256": "350f282abea4780b706ff023ca8a5ba7627ef0ff1e739eb585c6470e40617fd7",
+      "status": "retained"
+    },
+    "/logo/companies/walletconnect.png": {
+      "sha256": "45051bdf8db4c93a259f8866aeba10b7488da6643b9f3e8491e356304cc0c7d2",
+      "status": "retained"
+    },
+    "/logo/companies/walrus-foundation.png": {
+      "sha256": "14f784af8f7bc43d02ae6a42b9febb109a35d3420fafdd41bf77195f00f14e29",
+      "status": "retained"
+    },
+    "/logo/companies/walrus-foundation.webp": {
+      "sha256": "34a0a625f52b39bbe9e971be1799a35e64754a68c29d183274de750b7dd58ffc",
+      "status": "retained"
+    },
+    "/logo/companies/walrus.png": {
+      "sha256": "14f784af8f7bc43d02ae6a42b9febb109a35d3420fafdd41bf77195f00f14e29",
+      "status": "retained"
+    },
+    "/logo/companies/walrus.webp": {
+      "sha256": "34a0a625f52b39bbe9e971be1799a35e64754a68c29d183274de750b7dd58ffc",
+      "status": "retained"
+    },
+    "/logo/companies/waterfall.png": {
+      "sha256": "51e2aacac67f729da75bc72a407a1582b2beaa559970c0fa34bf55b54cc1c15d",
+      "status": "retained"
+    },
+    "/logo/companies/wave-mobile-money.png": {
+      "sha256": "56ee2249c61f6da69769d913322d49adf9305e4a7ac6df27cf5cf091767c6b35",
+      "status": "retained"
+    },
+    "/logo/companies/weex.png": {
+      "sha256": "ce1c42f746dd19be70187a0fa24803c27756bf6bb58a094be24a10f85e885a64",
+      "status": "retained"
+    },
+    "/logo/companies/whitebit.png": {
+      "sha256": "6ebcea87ee16f66976f99ac9757d6f1363f09c57b1c6aa643ae890ba644e1209",
+      "status": "retained"
+    },
+    "/logo/companies/wincent-market-maker.png": {
+      "sha256": "cc2685cf95fab74a37bac225713958f32fd56ca1e3066a2fd8ca51e87665da3f",
+      "status": "retained"
+    },
+    "/logo/companies/wincent.png": {
+      "sha256": "cc2685cf95fab74a37bac225713958f32fd56ca1e3066a2fd8ca51e87665da3f",
+      "status": "retained"
+    },
+    "/logo/companies/wintermute.png": {
+      "sha256": "da549d09f49cb183a3723e1e89308cbae168f8e1c475245ab1c2e6f84c86fe10",
+      "status": "retained"
+    },
+    "/logo/companies/woo-network.png": {
+      "sha256": "e252cbfc428e70127db25bc98d5eead26822d3c0149e86702f22f89ed70392ae",
+      "status": "retained"
+    },
+    "/logo/companies/world-foundation.png": {
+      "sha256": "f87a3ab5776f37bb0d3891664d224a447c30a208afc6ff65e466530689a0fc83",
+      "status": "retained"
+    },
+    "/logo/companies/world.png": {
+      "sha256": "6ec04cd01010aa82b5d33c82f2fb831141f9b65950f7aade13a5b87e9288be52",
+      "status": "retained"
+    },
+    "/logo/companies/worldcoin.png": {
+      "sha256": "6ec04cd01010aa82b5d33c82f2fb831141f9b65950f7aade13a5b87e9288be52",
+      "status": "retained"
+    },
+    "/logo/companies/wynd-labs.png": {
+      "sha256": "3048836b14fddcf76d11edbab5f1b68a93fc015bfa1920d8b42b03c52001cef6",
+      "status": "retained"
+    },
+    "/logo/companies/xapo-bank.png": {
+      "sha256": "62888bc7a626e9fb636ad21dce217d514dd8b92a7bc89000c6f73be70cbd03ee",
+      "status": "retained"
+    },
+    "/logo/companies/xapo.png": {
+      "sha256": "62888bc7a626e9fb636ad21dce217d514dd8b92a7bc89000c6f73be70cbd03ee",
+      "status": "retained"
+    },
+    "/logo/companies/xhunt.png": {
+      "sha256": "ca7fee053634f8f941ab06c7cc6b80a1c8ae1212ca4c1e860f0cfbc16df73b04",
+      "status": "retained"
+    },
+    "/logo/companies/xt-com-exchange.png": {
+      "sha256": "cbdcaf8bd7a6d4f816ce729cf101c17ee1fbb918040980c23d0a6bd130676f34",
+      "status": "retained"
+    },
+    "/logo/companies/yeet.png": {
+      "sha256": "fd7db07f601eb7aab64e3573f8a865ad9c699dfe91f6d71945ec52f3b35535c3",
+      "status": "retained"
+    },
+    "/logo/companies/yellow-card.png": {
+      "sha256": "318a41dafbba55039b96d0a2f25397c3f8c5ca857bd365e01da60e8152bc9a22",
+      "status": "retained"
+    },
+    "/logo/companies/yzi-labs.png": {
+      "sha256": "1c72272bc54c6f14a5e069cc2d3c658c330626a33acaa85c0d130a58f7da2a82",
+      "status": "retained"
+    },
+    "/logo/companies/zama.png": {
+      "sha256": "dffc293126deed49a0c71ddd8dcff1db565b1b139d0d7d74df984d45c099f9e6",
+      "status": "retained"
+    },
+    "/logo/companies/zerion.png": {
+      "sha256": "4337a742e47cac5792707d46bf5366736e9986d7ef574d15258e85ba08bc31f2",
+      "status": "retained"
+    },
+    "/logo/companies/zero-hash.png": {
+      "sha256": "07e7b9055cfae3c0e344eaf2a51304e5cde2fea77c9f836889519a0019118786",
+      "status": "retained"
+    },
+    "/logo/companies/zeta.png": {
+      "sha256": "ec7624349af852f38b0675b00ae4176dcad4fa4e18f9bc5ddbb37c1f37213ac5",
+      "status": "retained"
+    },
+    "/logo/companies/zetachain.png": {
+      "sha256": "95aca0fe0284d39beaec652e5f409aadef8d8a0bdfbb977d6cba50c4b0ec1c24",
+      "status": "retained"
+    },
+    "/logo/gallery/2025-08-14-18.05.08-min.jpg": {
+      "sha256": "c32b7332f7debda5e710c06824da0ec60d05772c3276a062b0b6a76b6cd3e5d7",
+      "status": "retained"
+    },
+    "/logo/gallery/2025-08-14-18.05.12-min.jpg": {
+      "sha256": "e8b6c99184c2c56046eba49ad64a853df0213166b6dcce14faa0f586e81b6c0f",
+      "status": "retained"
+    },
+    "/logo/gallery/2025-08-14-18.05.15-min.jpg": {
+      "sha256": "d1b1edb3799d7298adef77bb419e30834c43dee3a36d04d5442a40d8bf25e99f",
+      "status": "retained"
+    },
+    "/logo/gallery/2025-08-14-18.05.18-min.jpg": {
+      "sha256": "6f60c852ee9270e8a7e8686fb52259e75469265a84bcc7bdd8d23d6960b00afc",
+      "status": "retained"
+    },
+    "/logo/gallery/2025-08-14-18.05.20-min.jpg": {
+      "sha256": "ab1de38e6ab1118da14c87c16db6be7d6e7a835ed37ebd7734f010ab36f5c769",
+      "status": "retained"
+    },
+    "/logo/gallery/2025-08-14-18.05.24-min.jpg": {
+      "sha256": "e5eec3220cf1085618af8b017fdabc1383bc46312041e1948049d16008d234e6",
+      "status": "retained"
+    },
+    "/logo/gallery/2025-08-14-18.05.27-min.jpg": {
+      "sha256": "ae8dcc5eb6b2afa36cc28cf7374cc22577e4d064f7f8cae95c688c99ec7d1aa6",
+      "status": "retained"
+    },
+    "/logo/gallery/2025-08-14-18.05.30-min.jpg": {
+      "sha256": "0a82ab3fe41073326d46ca6b0cf75d3d2a2ca7148ba4f329429fdb934d051bb1",
+      "status": "retained"
+    },
+    "/logo/gallery/2025-08-14-18.05.33-min.jpg": {
+      "sha256": "4f8b59c78d6489dd65070f8f914f0cd8241edc0045e2d8bbb2fee77be1127ed4",
+      "status": "retained"
+    },
+    "/logo/gallery/2025-08-14-18.05.35-min.jpg": {
+      "sha256": "0e7684850a1b3626206b9647568c786b4951030fc283b497fc079c63eab28e3b",
+      "status": "retained"
+    },
+    "/logo/gallery/2025-08-14-18.05.44-min.jpg": {
+      "sha256": "7b2ec26698010bfccdcddb39e10ea80f7ccf27364b3a4051332d16eef6c281e3",
+      "status": "retained"
+    },
+    "/logo/gallery/2025-08-14-18.05.47-min.jpg": {
+      "sha256": "d2d802e099b117b96f5cc20c48481af01c147478bb978c57f809ba77e4c8aaeb",
+      "status": "retained"
+    },
+    "/logo/gallery/2025-08-14-18.05.50-min.jpg": {
+      "sha256": "b0c38a61cc3805829b4046a894b082bc48fb89de4c0a63056be6db9e4fe71c8c",
+      "status": "retained"
+    },
+    "/logo/gallery/2025-08-14-22.30.59.jpg": {
+      "sha256": "7fb30840808e47dfc8449d30e8ebb7720424553f2e5c9dc1e978c0fc85c60771",
+      "status": "retained"
+    },
+    "/logo/gallery/2025-08-14-22.31.02.jpg": {
+      "sha256": "84dba55480746c98163538a3020fbf0b7cea221825121e7fd5f1d0677c628dc7",
+      "status": "retained"
+    },
+    "/logo/gallery/2025-08-14-22.32.30.jpg": {
+      "sha256": "796da7d3b2b8c6082971a15938d1bde7c102f08f7af0196fd0e09a5561d5a26d",
+      "status": "retained"
+    },
+    "/logo/gallery/2025-08-14-22.38.14.jpg": {
+      "sha256": "ca16905e6fe7531de192bd2f3cd0cfda8b87614c7f888de3fa3783a63983ac65",
+      "status": "retained"
+    },
+    "/logo/gallery/2025-08-14-22.38.17.jpg": {
+      "sha256": "424c4ea6396c02f635b5a0207975510325ab0ada1a500016e7e9c5a2e86c24be",
+      "status": "retained"
+    },
+    "/logo/job/alemx.png": {
+      "sha256": "b0464a25084f0209bac5e99b5067b1c647d55ea405a156d17b9d9acbbb8301a0",
+      "status": "retained"
+    },
+    "/logo/job/aligned-layer.png": {
+      "sha256": "5f29080fe1ca71004d5f1f3ba876f2825b1d6096d9a630438508ee78f496a97d",
+      "status": "retained"
+    },
+    "/logo/job/ante.png": {
+      "sha256": "a12516dd24672a2f4260f0c4d9d541299f677fb34895345a9f0e057c38f5f378",
+      "status": "retained"
+    },
+    "/logo/job/artemis-analytics.png": {
+      "sha256": "a40bac8934be3aa180b93e07671b908cdda0c19a91e97ece03b5bf983183b52a",
+      "status": "retained"
+    },
+    "/logo/job/binance.png": {
+      "sha256": "825e49f131e1ae04b5acf433a73b1b13c1bd1f0c49e553bb36c27b27893328b0",
+      "status": "retained"
+    },
+    "/logo/job/bitkub.png": {
+      "sha256": "ef9e8c579675e57b525b4cd7a73f1bab639b354c4b64b1148ca86752245f6f3d",
+      "status": "retained"
+    },
+    "/logo/job/bob-build-on-bitcoin.png": {
+      "sha256": "ceabe496c8bf18f8960d57e0f687f8734e60ed5a627a041b0b8dfcddc004076f",
+      "status": "retained"
+    },
+    "/logo/job/bullish.png": {
+      "sha256": "b81c02e1ff5fcae1bfe73bf65c8c05a339f3756f49601657025a69f07a669b42",
+      "status": "retained"
+    },
+    "/logo/job/circle.png": {
+      "sha256": "226e4b8775d1d1b7da7e8ba57e03d9ddc8ae6a977e3eb5e96226042694a7258d",
+      "status": "retained"
+    },
+    "/logo/job/coinbase.png": {
+      "sha256": "cb40b5bd754f86d1809653d2abd92557621a3344d7f7dbf6faf6c3c6a05837cf",
+      "status": "retained"
+    },
+    "/logo/job/coindesk.png": {
+      "sha256": "124a4526ef808e60498766caa92ae1471947990e25891980214bfa4032c83f17",
+      "status": "retained"
+    },
+    "/logo/job/dephy.png": {
+      "sha256": "2f8ec5101c0341ac4e0a4db9b3712efb081a5723548e027751c34d202c745963",
+      "status": "retained"
+    },
+    "/logo/job/figure-technologies.png": {
+      "sha256": "8a6ec6f4eb6681b2aadb49bf93a8cb5afdfc7781e827535f765c5602dece69e5",
+      "status": "retained"
+    },
+    "/logo/job/figure-technologies.webp": {
+      "sha256": "3730636fc9f1373b7d9b6a09ea518096f11c9e680b819c76d23328cc3955eb09",
+      "status": "retained"
+    },
+    "/logo/job/figure.png": {
+      "sha256": "8a6ec6f4eb6681b2aadb49bf93a8cb5afdfc7781e827535f765c5602dece69e5",
+      "status": "retained"
+    },
+    "/logo/job/figure.webp": {
+      "sha256": "3730636fc9f1373b7d9b6a09ea518096f11c9e680b819c76d23328cc3955eb09",
+      "status": "retained"
+    },
+    "/logo/job/fleek.png": {
+      "sha256": "59bfe9bc385ad69f50793ce4a53397316d7a875a7148a63c16df9b674c6cda64",
+      "status": "retained"
+    },
+    "/logo/job/funtoken.png": {
+      "sha256": "b5f743bfc1b0072e32d52efa7e04f43d545fd83d8416f488c0d413592b584174",
+      "status": "retained"
+    },
+    "/logo/job/galxe.png": {
+      "sha256": "5b6f79ac0f167198e827cf430eeb9dd20b301052b2b6c1bd3092403b1fd71e54",
+      "status": "retained"
+    },
+    "/logo/job/galxe.webp": {
+      "sha256": "9ff38b4f74dea44fb19acd75959860a9977825a4501ece1d618270705389c71f",
+      "status": "retained"
+    },
+    "/logo/job/gelato-network.png": {
+      "sha256": "63345777afd94df9f83261eecd07509fc6564f83827eace28350add1901804d6",
+      "status": "retained"
+    },
+    "/logo/job/impossible-cloud.png": {
+      "sha256": "dfb3eb0e534883c49e1cabd8f85f31595a9bf40a072536369e6989943be77acb",
+      "status": "retained"
+    },
+    "/logo/job/impossible-finance.png": {
+      "sha256": "e71edbef8ee30da4b8b7c1add35aee093aed3c7e0d0eb15e119c8a1b02e055fc",
+      "status": "retained"
+    },
+    "/logo/job/jayatalent.png": {
+      "sha256": "e520215d79029dca1964cd1de725d7ce6842cb23d40cfaffb4d5c4d12bd25ef2",
+      "status": "retained"
+    },
+    "/logo/job/kcex.png": {
+      "sha256": "1525d2066c65ab46968c619348a4fbd75ea986ae7688d4e449e5d20ad1a66e02",
+      "status": "retained"
+    },
+    "/logo/job/liquidx.png": {
+      "sha256": "e8c4ef62eee6c40f79f99a5964827133fc22b47b78f91f209880021ff310fb61",
+      "status": "retained"
+    },
+    "/logo/job/marketnode.png": {
+      "sha256": "356d483c4f29af3e759a0abc2f4372d4f07bfdb4506a3744e640c7b358fba4b0",
+      "status": "retained"
+    },
+    "/logo/job/mercuryo.png": {
+      "sha256": "f73269a156c7b844d990bd2e2476b192f6d14ef6563197ef733177eaa0134cd3",
+      "status": "retained"
+    },
+    "/logo/job/navi-protocol.png": {
+      "sha256": "2e4d94e3364fc309eddc521585df12f1a8110ba53570502030648e3c64d6c171",
+      "status": "retained"
+    },
+    "/logo/job/overmind.png": {
+      "sha256": "cf1cdfb31dac7e578a785ce9aa85029a7fad57d99a6f413849bc95238f267779",
+      "status": "retained"
+    },
+    "/logo/job/peanut.png": {
+      "sha256": "af60cec5376932bb3897b40498145d1f39774ea06e2dc11a703a401a16a3ed43",
+      "status": "retained"
+    },
+    "/logo/job/quantstamp.png": {
+      "sha256": "38ce5309dc8e6e625a1a87352f5791ebc4c5adc7a002037cf65ac2c41a7c75b5",
+      "status": "retained"
+    },
+    "/logo/job/scallop.png": {
+      "sha256": "c133d5d5d0f5f823c95fbc7ab99381d927b334989959e08f17956a13180d6015",
+      "status": "retained"
+    },
+    "/logo/job/swell.png": {
+      "sha256": "eaba512d0e4e81ae7b565a8f8bea52fd7e3c7499efb9a5e4ad0e1805603c0fdc",
+      "status": "retained"
+    },
+    "/logo/job/swell.webp": {
+      "sha256": "ed6fda02e4e1f020434a5390f6871d9f4ba9179e6fef97dd4830dca54ea308e7",
+      "status": "retained"
+    },
+    "/logo/job/szns.png": {
+      "sha256": "1e4a504b9a1ad55fb5c17097061634988567c4718cfed032311357949ebdd4f9",
+      "status": "retained"
+    },
+    "/logo/job/trilitech.png": {
+      "sha256": "a51655a8b46ebaa4e5ff5b09ba1e5cbe042b0fb4c74b67579c25d174cafab5d1",
+      "status": "retained"
+    },
+    "/logo/job/truflation.png": {
+      "sha256": "0c3f7f65135288047083b3b5c8ecc1fbd943f9067e809edbfc86bcfe39dda0c3",
+      "status": "retained"
+    },
+    "/logo/job/uniswap-labs.png": {
+      "sha256": "2561727437d34ff0a3c59cc131046c713423caa676f38c3ec0ea6b702c98917a",
+      "status": "retained"
+    },
+    "/logo/job/vana.png": {
+      "sha256": "5499d25c7738dffdd84e47b3b7ced0f36cda9b0a3a5a43c628e9dd5333607e32",
+      "status": "retained"
+    },
+    "/logo/job/vn.png": {
+      "sha256": "0f3301a86504d2b3d964e560bf08d35e06fedfe2950ab2fafe53c5cfab8aab14",
+      "status": "retained"
+    },
+    "/logo/job/watches.png": {
+      "sha256": "6ae3409ab97b82b8845e2a4d862d6dbf02cedd64b2189d6a18c65e627179c526",
+      "status": "retained"
+    },
+    "/logo/job/weex.png": {
+      "sha256": "ce1c42f746dd19be70187a0fa24803c27756bf6bb58a094be24a10f85e885a64",
+      "status": "retained"
+    },
+    "/logo/job/wincent-market-maker.png": {
+      "sha256": "cc2685cf95fab74a37bac225713958f32fd56ca1e3066a2fd8ca51e87665da3f",
+      "status": "retained"
+    },
+    "/logo/job/xt-com-exchange.png": {
+      "sha256": "cbdcaf8bd7a6d4f816ce729cf101c17ee1fbb918040980c23d0a6bd130676f34",
+      "status": "retained"
+    },
+    "/logo/job/zeebu.png": {
+      "sha256": "11e55d09f5519febb74014c24b1423379112e6102cb4484a4bc6302e4547c8a7",
+      "status": "retained"
+    },
+    "/logo/job/zerion.png": {
+      "sha256": "ff7f1c666a504732d67e59b01758cb5391a909ed86d6706d8cf2d4ac4461148a",
+      "status": "retained"
+    },
+    "/logo/media/0df9cd95ce02d767feb771e713b387514e9b6590.png": {
+      "sha256": "10e54c05417ca5292f30dad827ebe87e52ae2447d501709eaa7f9cee2212ccd5",
+      "status": "retained"
+    },
+    "/logo/media/2c3fa745faeb2bd3a97ef271a7210d82b8f193fb.png": {
+      "sha256": "8480b6d091947bc0ffe1d2b859eff477f8acd7e32948ef609fb1beaddd9a26a4",
+      "status": "retained"
+    },
+    "/logo/media/3f5ed1e4e5acf2a1aa699648e9a8284f895f5b9e.png": {
+      "sha256": "107c3a5c2a1ea29ee2d84f874023d6b9d53bc7861bca933ad165eedaf6f3bba3",
+      "status": "retained"
+    },
+    "/logo/media/5295a00d73a662c02e46e2c6d01fdd59a8250ffa.png": {
+      "sha256": "c90b6b16d625be61f5c7268d9515d12b6e6886bc05f90aa3a929698f062840ad",
+      "status": "retained"
+    },
+    "/logo/media/61f451fcff223b9ec852f65ee7232906e1e6bfe1.png": {
+      "sha256": "5172e2435d06b11277325523702e3bad8af34c6b2985b91b1b6e1eb5315a9e14",
+      "status": "retained"
+    },
+    "/logo/media/7412a040ffa99d458d711f293b7f4ec8aae67fb4.png": {
+      "sha256": "2d59d9bd5616b346f74a0fa6f9ea1692ac8afb2a738b8bce416d1fb4be424185",
+      "status": "retained"
+    },
+    "/logo/media/a96dc8c251ff32063535679a0de8bef0d74e865e.png": {
+      "sha256": "62edc7e895ba938e7711b5b516b489576d96ddfc23e61b6bfbf87d7edb002098",
+      "status": "retained"
+    },
+    "/logo/media/barcelona.png": {
+      "sha256": "28b1ace5c667a276541547eedbecca60d7c03699b25cdd96f69699c84c3cbbef",
+      "status": "retained"
+    },
+    "/logo/media/british.png": {
+      "sha256": "6d625ed7cd5ae768d1472e09e850911c8b3cd1c0ba0141b02f2528b52b6000a5",
+      "status": "retained"
+    },
+    "/logo/media/business-standard.png": {
+      "sha256": "efd24b2964a7bfd3be571b259d0794f6be055443e68a4b604c112a0025c15d0d",
+      "status": "retained"
+    },
+    "/logo/media/coinedition.png": {
+      "sha256": "e873a6c8b07f19454e18ae9cc5b801b636bf1b69893feb3ee7efc0e48740dc0c",
+      "status": "retained"
+    },
+    "/logo/media/decrypt.png": {
+      "sha256": "a42f06a3498082085b44d1b225c072f85d1defb207a09712b345af65303b87d0",
+      "status": "retained"
+    },
+    "/logo/media/england.png": {
+      "sha256": "fcfd3f15774c2ca0068c945594951f16d778c93dedfdc40847f0bd183a41c019",
+      "status": "retained"
+    },
+    "/logo/media/fd7e246f812a15af9fe590ce48ab163ceccee6f8.png": {
+      "sha256": "ccd92dc4a5d4195ada5de7f173e494040e2d0b8f220af7cbfb70d3d1b146d9d9",
+      "status": "retained"
+    },
+    "/logo/media/outlook.png": {
+      "sha256": "236936cb6b88543f7d0494fd257bebd651068cc9f102046caf04b927e64bac59",
+      "status": "retained"
+    },
+    "/logo/media/yahoo.png": {
+      "sha256": "c44dbd30c4d1fd83496f23e2917d5c585070d84def77cdba567aff0cf0371305",
+      "status": "retained"
+    },
+    "/logo/partners/ETHOxford.png": {
+      "sha256": "3e684352a336e33f9040fb05dd9258d356d4fce81c769304b6c63fe67af1b2dd",
+      "status": "retained"
+    },
+    "/logo/partners/LBC_Logo_Black-min.png": {
+      "sha256": "a2a2a2624b7c3a061fdc556d47ab0a2ef64d4d82eeed45928c7423a2c52e392d",
+      "status": "retained"
+    },
+    "/logo/partners/LBC_Logo_Black-min.webp": {
+      "sha256": "bc708bdb795e87231406059c33de2f91d49cbec0ec9cdc2ed16e8c1fdd9de112",
+      "status": "retained"
+    },
+    "/logo/partners/The-Metaverse-Institute-partners-with-Hashtag-Web3.png": {
+      "sha256": "cb34b8682b65c84577e14f6f10c8827f32ff30a766b2dcc39f072d1a9d4162fc",
+      "status": "retained"
+    },
+    "/logo/partners/altlayer.png": {
+      "sha256": "52128d670d4c6507581ad95488556b1800708c7a551aba8e26d0bf0c795be8cd",
+      "status": "retained"
+    },
+    "/logo/partners/basedinlisbon.png": {
+      "sha256": "8fb600e67165d0ad35742a73f60ecc0d45350f33c32342481c9c7bd699e35fa4",
+      "status": "retained"
+    },
+    "/logo/partners/bff.png": {
+      "sha256": "28a06b9c3df76ec4bb989d946f743a65104543745376d32f73a0b0229f6b0202",
+      "status": "retained"
+    },
+    "/logo/partners/coinfest.png": {
+      "sha256": "b204ce1ae370b316aa8f8eb46e78b566f1afd63def2612c3e6e37cd0a200c052",
+      "status": "retained"
+    },
+    "/logo/partners/date.png": {
+      "sha256": "659fbc5ce3a257e3f3840e5e52caf72ce6cc6f1fb4c034cf53e942b7975d0929",
+      "status": "retained"
+    },
+    "/logo/partners/edcon.png": {
+      "sha256": "d7683bf9518862dd563da2c87c2c8609b42e029e618f1ed05676f6c1931740ee",
+      "status": "retained"
+    },
+    "/logo/partners/ethbrussels.png": {
+      "sha256": "f893f2be4d63377654c856dc3a0dfcc73a222bf64873d7a5ec4710128ea3734b",
+      "status": "retained"
+    },
+    "/logo/partners/ethvietnam.png": {
+      "sha256": "3a1d1f64c914a07dd48e595d211cf88d7a76311e562ec47e358752aeea2dcf2a",
+      "status": "retained"
+    },
+    "/logo/partners/fbs.png": {
+      "sha256": "bf2a6945120c2c977cc8ffefa2dfce73ff321bc94ba74bca189c3cf651eaf698",
+      "status": "retained"
+    },
+    "/logo/partners/fbs.webp": {
+      "sha256": "6844dc3b215a20e9f6ed72a5d2d9176935258e0704ea0874e0f564e519ee5cb5",
+      "status": "retained"
+    },
+    "/logo/partners/harvard.png": {
+      "sha256": "41e2d892e214c591ec497aa2ac4a470dc4421a7901ba208664abbf058910ee6f",
+      "status": "retained"
+    },
+    "/logo/partners/ibw.png": {
+      "sha256": "4756bd4d7d8801cf93d64c83d3e4f67212e5a948afe4ec33f93af822d15a2138",
+      "status": "retained"
+    },
+    "/logo/partners/ieee.png": {
+      "sha256": "670dbf03ea8deb296e29ae17877b53c411c78821ad343a865e3134f1fce3e92a",
+      "status": "retained"
+    },
+    "/logo/partners/istanbul.png": {
+      "sha256": "8300ba021b529edfd3ba13f630a6cba9c4c370ebfb2c5e57fc3ca896d64e3288",
+      "status": "retained"
+    },
+    "/logo/partners/lbs.png": {
+      "sha256": "81d0f7cb8f1fcee7683facf0fafe90f183e02b02f85a98d165b492fa04f89f33",
+      "status": "retained"
+    },
+    "/logo/partners/malaysiablockchainweek.png": {
+      "sha256": "f50262e4967335655baacced6116abc1c0b143dcd2202576cd2d50b88ea6550e",
+      "status": "retained"
+    },
+    "/logo/partners/obc.png": {
+      "sha256": "43d48ba61d1c421e7bf42a944f8569cd527fb1bb6ccf0dfc9d5db4fc24d32ca2",
+      "status": "retained"
+    },
+    "/logo/partners/onepiece.png": {
+      "sha256": "0b7bcf5a65b6b5cb7a5092e28ed81c26cd2ff36a8397443262449fe04a9f56bc",
+      "status": "retained"
+    },
+    "/logo/partners/pbs.png": {
+      "sha256": "3bf32465b738cd98beecd29bf6c2550bcc8d24cc981359aa797ea0551638e9f1",
+      "status": "retained"
+    },
+    "/logo/partners/taipeiblockchainweek.png": {
+      "sha256": "b47c0a52d7e6e14a6b32c4846129841896c1553eec0c3b6786040fcc17b9a00f",
+      "status": "retained"
+    },
+    "/logo/partners/token2049.png": {
+      "sha256": "3f371ac98f62c4a89b3a52b1d586f36029826288735a7af4886e7c2f8f2715c8",
+      "status": "retained"
+    },
+    "/logo/partners/wbs.png": {
+      "sha256": "23d69535b166dfbeaf8223480fa5cd14808a2339552205050502110346d3ec42",
+      "status": "retained"
+    },
+    "/logo/quotes/fatima.png": {
+      "sha256": "a24902ee6585e3e3e61ff42dee999fbe6c524475fe6bf9fa94f5997161ecf07e",
+      "status": "retained"
+    },
+    "/logo/quotes/kris.png": {
+      "sha256": "c6d8e86eacb0a802d7e1a46ccef35fbc908c5a7efbb2c356b41ff45812717162",
+      "status": "retained"
+    },
+    "/logo/quotes/suki.png": {
+      "sha256": "5d0f88e55445bfa85e84b7d7d80b94b306be3f8771b8a69ebd782a99d3c17b11",
+      "status": "retained"
+    },
+    "/logo/quotes/zhanna.png": {
+      "sha256": "3b3ffc306c528929fc33c9e6a6cf8dcf766e358ac2e115a419ae0b440367db3b",
+      "status": "retained"
+    },
+    "/og-image-blog.png": {
+      "sha256": "a776308e493131c76e9d3fdddc707ba96fdd5609f677395c45767365cf2f20df",
+      "status": "retained"
+    },
+    "/og-image-jobs.png": {
+      "sha256": "35f5b0e528747e08722a6be2aa8f22008a41fdd373db096037511bbe511914cc",
+      "status": "retained"
+    },
+    "/og-image-news.png": {
+      "sha256": "bf2b9e39acfb4d64bfa28a8955ab5ce60dfd29c7251e43464a1ef795e74cccb4",
+      "status": "retained"
+    },
+    "/og-image-report.png": {
+      "sha256": "dd1023b1d373f688bfafc82384bb27a85f0146b1b372701cb7b35eb9200569e2",
+      "status": "retained"
+    },
+    "/og-image-tools.png": {
+      "sha256": "ef3957a69c4714e07a1d8cc06f46ec405e9a746f1a081f719c0cda4650006fa6",
+      "status": "retained"
+    },
+    "/og-news.png": {
+      "sha256": "bf2b9e39acfb4d64bfa28a8955ab5ce60dfd29c7251e43464a1ef795e74cccb4",
+      "status": "retained"
+    },
+    "/images/africa-web3-jobs.jpg": {
+      "sha256": "683a8f0c7e8fc64cc53ae353925d28a5049faa4d208b11422117929deb26bd53",
+      "status": "optimized"
+    },
+    "/images/ales-nesetril-Im7lZjxeLhg-unsplash.jpg": {
+      "sha256": "984edd861ca467fe9971159f6d6f599f271685d342ad0db25cfb71198186b0fe",
+      "status": "optimized"
+    },
+    "/images/articles/b2b-stablecoins/chart1.jpg": {
+      "sha256": "4476b1995627b7efb0a3c2599c0de7e99ab2b9b866f3d9b0d46dac3d64b2ae80",
+      "status": "optimized"
+    },
+    "/images/articles/b2b-stablecoins/chart2.jpg": {
+      "sha256": "20e3d6788ce75fa8fc8c95ee451dc42de1f859dc7f75965ff2853510a07db125",
+      "status": "optimized"
+    },
+    "/images/articles/b2b-stablecoins/chart3.jpg": {
+      "sha256": "bf0846449651534f69a3ea22be3a0f3f8752e785a25d50763f3e138d914f96fb",
+      "status": "optimized"
+    },
+    "/images/articles/b2b-stablecoins/chart4.jpg": {
+      "sha256": "c7413dc8a9f0c6c5ef9037a877128319d0ab11f6caf8c62d47f20713e14a9065",
+      "status": "optimized"
+    },
+    "/images/gilles-lambert-pb_lF8VWaPU-unsplash.jpg": {
+      "sha256": "56d50a4273f9c9f45adbc53fa6c57a2078238cd73fd842b04afcdb0fe3fb1708",
+      "status": "optimized"
+    },
+    "/images/glenn-carstens-peters-P1qyEf1g0HU-unsplash.jpg": {
+      "sha256": "83d257bd672252a29c06fcce758640df2d617603add8cccf86749b4ee896a942",
+      "status": "optimized"
+    },
+    "/logo.png": {
+      "sha256": "e2d64256ef14c6577a373f67ba96897edde6aa22be630d2eb0e18386e8a2fca4",
+      "status": "optimized"
+    },
+    "/logo/HashtagWeb3.png": {
+      "sha256": "e2d64256ef14c6577a373f67ba96897edde6aa22be630d2eb0e18386e8a2fca4",
+      "status": "optimized"
+    },
+    "/logo/bimi.png": {
+      "sha256": "a33fe93c74734d1ece47e28789ccca7e0ffde99418212d64e57e9c59fe4abc7d",
+      "status": "optimized"
+    },
+    "/logo/bitget.png": {
+      "sha256": "95a5a867fd769fae790f5f4c4cd3237fb26371ad218fa0affb6ffb6ed325973b",
+      "status": "optimized"
+    },
+    "/logo/companies/0g-labs.webp": {
+      "sha256": "099238b37388305b176309ac2337ac44b926621579343938432160a95ab66462",
+      "status": "optimized"
+    },
+    "/logo/companies/0x-labs.webp": {
+      "sha256": "1cf0e3ee720163873fa715daabd1dd3853956e91f2a965ef1f44635673419b2e",
+      "status": "optimized"
+    },
+    "/logo/companies/0x.webp": {
+      "sha256": "1cf0e3ee720163873fa715daabd1dd3853956e91f2a965ef1f44635673419b2e",
+      "status": "optimized"
+    },
+    "/logo/companies/1inch.png": {
+      "sha256": "f4d316c7fdc9be9af04c646438fffb560b8e398d844df569e7a99d133c902b14",
+      "status": "optimized"
+    },
+    "/logo/companies/1inch.webp": {
+      "sha256": "10081c551da41940f44c0dc5fc36e4560bfe696b4b2a81b0bf38f852470976fc",
+      "status": "optimized"
+    },
+    "/logo/companies/21shares.webp": {
+      "sha256": "d9d8b8d30e44aa62f06a32aa5df05e0fd503bc0a7d146674975bb2aa865f4774",
+      "status": "optimized"
+    },
+    "/logo/companies/JP_Morgan.png": {
+      "sha256": "1c115baf3fe50cca64141813cae4864e34e0c321288c2f27678a3f46ad849333",
+      "status": "optimized"
+    },
+    "/logo/companies/KPMG.png": {
+      "sha256": "8d60acad2ffcba40cad3f12ebca06f48919b688696e5aa2074a0612496403e66",
+      "status": "optimized"
+    },
+    "/logo/companies/a16z.webp": {
+      "sha256": "011f7b5d72ffbe5c34dc7b9cc55cedf1a9e3b03b51a6c63e6e873eb914a10cf3",
+      "status": "optimized"
+    },
+    "/logo/companies/aave-labs.webp": {
+      "sha256": "44d8740ba3fc5b968f9cdf5f6929511d3423b11d88081416b46d611727a63d24",
+      "status": "optimized"
+    },
+    "/logo/companies/aave.webp": {
+      "sha256": "44d8740ba3fc5b968f9cdf5f6929511d3423b11d88081416b46d611727a63d24",
+      "status": "optimized"
+    },
+    "/logo/companies/across-protocol.webp": {
+      "sha256": "5ae73a8c29d932a1390c2832d7e8c893b0ddf4e5848d421023116667d66fa51e",
+      "status": "optimized"
+    },
+    "/logo/companies/airtm.webp": {
+      "sha256": "ecc49309e70002ca9aa2b138933fa81ca6092a5203771ed6931cd6a2a8784339",
+      "status": "optimized"
+    },
+    "/logo/companies/ajaib-crypto.webp": {
+      "sha256": "d7ad05608108b3921650c0032cf0bc36362cff2df64b9be7ab7f4ec6944f90d1",
+      "status": "optimized"
+    },
+    "/logo/companies/algorand.png": {
+      "sha256": "7c7c9e2871af64a156c4d22f9ed4039db67592165d48c971219ab868064d0059",
+      "status": "optimized"
+    },
+    "/logo/companies/aligned-layer.webp": {
+      "sha256": "1c06f441e1f265ddc64fe9f460c2f18b6df4143223da83ad7ebb4e398e0fe271",
+      "status": "optimized"
+    },
+    "/logo/companies/allium.webp": {
+      "sha256": "6e4c5ea95bdf7fec6de21bd906fbf7e3b5c82eb7fdca9634818c89cc62d853f8",
+      "status": "optimized"
+    },
+    "/logo/companies/allperps.webp": {
+      "sha256": "62e125ffa865a8da84813efd9efe3690dab866f3401469e743828403fccb509a",
+      "status": "optimized"
+    },
+    "/logo/companies/alpaca.webp": {
+      "sha256": "a8d3f60b7d7a0d4e45f119d5b20d9c33f9adb2efd07d16393901476ddd4036df",
+      "status": "optimized"
+    },
+    "/logo/companies/alpen-labs.webp": {
+      "sha256": "233d3c83bcdf3fbd4e23ea8fbc51b3d75f2c7f22756cb97c82efb5bc1a3d69b0",
+      "status": "optimized"
+    },
+    "/logo/companies/amber-group.webp": {
+      "sha256": "d29fb3a1ec49c2184f97111680870adcf8f9847de90d9bb2867435f43d78379a",
+      "status": "optimized"
+    },
+    "/logo/companies/anchorage-digital.webp": {
+      "sha256": "6861a4016da59375eced43bee34f6cf9d21ef507b512c220aac4f2e9bcd016a7",
+      "status": "optimized"
+    },
+    "/logo/companies/ancient8.webp": {
+      "sha256": "d16591ebbc62dce41bc1a90bcfa78c8c7a440069f2d702a47550bcc8f5b9ccc3",
+      "status": "optimized"
+    },
+    "/logo/companies/andreessen-horowitz.webp": {
+      "sha256": "011f7b5d72ffbe5c34dc7b9cc55cedf1a9e3b03b51a6c63e6e873eb914a10cf3",
+      "status": "optimized"
+    },
+    "/logo/companies/animoca-brands.webp": {
+      "sha256": "6b968ef09402cbf8a92e8f1d3ff4471a15f7bbf6f3a267709d61f9d6e47675b8",
+      "status": "optimized"
+    },
+    "/logo/companies/animocabrands.webp": {
+      "sha256": "6b968ef09402cbf8a92e8f1d3ff4471a15f7bbf6f3a267709d61f9d6e47675b8",
+      "status": "optimized"
+    },
+    "/logo/companies/antimetal.webp": {
+      "sha256": "9ec3b2274bc90da08ece133adf5b0916f41a5987659285af6116ff142e9f1068",
+      "status": "optimized"
+    },
+    "/logo/companies/anza.webp": {
+      "sha256": "0804a99218728cb5b3c6a2ee31250707043c4ecbeb03fc67e44f52f12817a6ca",
+      "status": "optimized"
+    },
+    "/logo/companies/apex-protocol.webp": {
+      "sha256": "fc92aba7f0197648d72838af3c8aff40ef783ae2554dff28cb11cf91830bae30",
+      "status": "optimized"
+    },
+    "/logo/companies/aptos-labs.webp": {
+      "sha256": "45bb0dce7db6fd8e7ee76a3dcdc779de65d25b4cf73ad1101b3e5e8e5c719007",
+      "status": "optimized"
+    },
+    "/logo/companies/arbitrum-opco.webp": {
+      "sha256": "4ab8d7ec1e2793bc4f1853d5720f6af4df9a78a9c3d8bff45ee6edecc6d758db",
+      "status": "optimized"
+    },
+    "/logo/companies/arbitrum.png": {
+      "sha256": "2ed52087851507f34a49e22befa264bad7cdc365c8b2644197e410d896516dfa",
+      "status": "optimized"
+    },
+    "/logo/companies/arcade.webp": {
+      "sha256": "62e125ffa865a8da84813efd9efe3690dab866f3401469e743828403fccb509a",
+      "status": "optimized"
+    },
+    "/logo/companies/artemis-analytics.webp": {
+      "sha256": "0a87d0d0c43e13aa614caa48a07b1075713a2e8bcf4a4e5c4aacec3519f469ea",
+      "status": "optimized"
+    },
+    "/logo/companies/artemis.png": {
+      "sha256": "3e549ff3c8a309a829810a2f006c5a3507667a0b7d4c32ec973ef2cf2072782f",
+      "status": "optimized"
+    },
+    "/logo/companies/artemis.webp": {
+      "sha256": "00db0f57d710d4621a5c5b9faf51d7e08469985bd4f152dc06302885debcf0fa",
+      "status": "optimized"
+    },
+    "/logo/companies/astar-foundation.webp": {
+      "sha256": "585b0b00e2c6c6de16fa4cce6e79c4f2a3044d971a22d72da930e819daa82370",
+      "status": "optimized"
+    },
+    "/logo/companies/aurora.webp": {
+      "sha256": "8d43afac9394f7194480fd17d780077c24db0bc3f4799109941ecf153749b845",
+      "status": "optimized"
+    },
+    "/logo/companies/ava.webp": {
+      "sha256": "af14f6093bc35e5636db60d3f97632f982a30ab300666a1479e98f7e6caee9c1",
+      "status": "optimized"
+    },
+    "/logo/companies/axiom.webp": {
+      "sha256": "266cc93bb7ad41609b1646976ae58f0f46b73186f78bb3ad5f24b55d9b351f99",
+      "status": "optimized"
+    },
+    "/logo/companies/aztec.webp": {
+      "sha256": "b498ef92f22c8ea7daf5538f800196d1d1a10992a806175185d75e711a28db91",
+      "status": "optimized"
+    },
+    "/logo/companies/b2c2.png": {
+      "sha256": "86390ac34bcdfc535c6e38a5c36b2b297ed9514f1676c8a8b2b28edf989f417d",
+      "status": "optimized"
+    },
+    "/logo/companies/b2c2.webp": {
+      "sha256": "9d647828605972de48561b29ef917b2a3e255bde82a2710d544aa43cfcbceefd",
+      "status": "optimized"
+    },
+    "/logo/companies/bastion.webp": {
+      "sha256": "525ac8af1a57e1669c65a9a84bd8de993e2dc869ac127a18cc52fc72cda5eb1c",
+      "status": "optimized"
+    },
+    "/logo/companies/bcb-group.webp": {
+      "sha256": "6185931863cfd8901a521ea06c46a34dc173e444116d5a20abf5e481de8ec86b",
+      "status": "optimized"
+    },
+    "/logo/companies/biconomy.webp": {
+      "sha256": "a2561e128fdfca2bfba488a9924e231e1fe5f06fb1ea74d13738f0403813acf8",
+      "status": "optimized"
+    },
+    "/logo/companies/binance.webp": {
+      "sha256": "45a978498902690336b732b76675be0513c1dd2e17d8def665a2df095c295e99",
+      "status": "optimized"
+    },
+    "/logo/companies/bitcoin-com.webp": {
+      "sha256": "4ffa4d51969f7b0301334e97c770b7138d971dbeec8db66dbb52a740bdc3c738",
+      "status": "optimized"
+    },
+    "/logo/companies/bitdeer.webp": {
+      "sha256": "ec724025c4e211ee93fd9f33d192de22acd2cf1153ab60ee1882d521005984d8",
+      "status": "optimized"
+    },
+    "/logo/companies/bitgo.webp": {
+      "sha256": "812f88bf3e4f6b7316c82c95fbd31b02ccafd1fc008c50271eaab7a47b8d705a",
+      "status": "optimized"
+    },
+    "/logo/companies/bitkub.webp": {
+      "sha256": "c09f5a647370a4dcea12496176a3f7ce9ded5ee250db5541d6c67737811a19ba",
+      "status": "optimized"
+    },
+    "/logo/companies/bitnomial.webp": {
+      "sha256": "7be472594b009e6b1c6577d45abfe7a0041694cea501d047940252a4dcdc35f0",
+      "status": "optimized"
+    },
+    "/logo/companies/bitpanda.webp": {
+      "sha256": "d3213647db1ce749b4f19c4afc690f48005251afbea48f2a6f04f05ad2548e7a",
+      "status": "optimized"
+    },
+    "/logo/companies/bitso.webp": {
+      "sha256": "d6057f5a53b10affb832be77603f465a0d96fbc425cf8eb4037c27d812f257da",
+      "status": "optimized"
+    },
+    "/logo/companies/bitvavo.webp": {
+      "sha256": "bdd4fae9b9a427202e4e828b6b2d9c7cb86d1bed05aad6ad199ca061b60e2533",
+      "status": "optimized"
+    },
+    "/logo/companies/blackbird-labs.webp": {
+      "sha256": "5a6a7aed2c8090c7a1380678b959be5f3305756c3c61f0e60ef0ffb91560d974",
+      "status": "optimized"
+    },
+    "/logo/companies/blackbird.webp": {
+      "sha256": "5a6a7aed2c8090c7a1380678b959be5f3305756c3c61f0e60ef0ffb91560d974",
+      "status": "optimized"
+    },
+    "/logo/companies/block.webp": {
+      "sha256": "e8204f3b1ad7d2668ab55cce83471ac15ef4a0b1da543d1d02c812dcd5438629",
+      "status": "optimized"
+    },
+    "/logo/companies/blockaid.webp": {
+      "sha256": "9bee592b95ee8356d4f53243241677bf819f5ee9c8fc961a97d9d28c2b4a76a4",
+      "status": "optimized"
+    },
+    "/logo/companies/blockchain-com.webp": {
+      "sha256": "a08e6b14e214b2447926d7c663689d43d33c6db5e7f970a08da6d864b4e7c107",
+      "status": "optimized"
+    },
+    "/logo/companies/blockdaemon.webp": {
+      "sha256": "e7ac92129a0b8437a766cf2af2de3d5fb0adb3bb1a9b9a7dba047d28e5150f25",
+      "status": "optimized"
+    },
+    "/logo/companies/blockstream.webp": {
+      "sha256": "961d55f5d3832693147e41ca2d7d06d2d68b4d35c98e28dc9709777a54795272",
+      "status": "optimized"
+    },
+    "/logo/companies/blockworks.webp": {
+      "sha256": "d4adb8820aa05f0dbcd12f3183e4272d1187a3b901c02c7b0b702e9d1846103f",
+      "status": "optimized"
+    },
+    "/logo/companies/bloomberg.webp": {
+      "sha256": "1ef530570b9be64d13d956db8061d47163619a52a4634b5ed3eee0d2dd57e4a2",
+      "status": "optimized"
+    },
+    "/logo/companies/bnb-chain.webp": {
+      "sha256": "45a978498902690336b732b76675be0513c1dd2e17d8def665a2df095c295e99",
+      "status": "optimized"
+    },
+    "/logo/companies/bnbchain.webp": {
+      "sha256": "45a978498902690336b732b76675be0513c1dd2e17d8def665a2df095c295e99",
+      "status": "optimized"
+    },
+    "/logo/companies/bob-build-on-bitcoin.webp": {
+      "sha256": "d768f64dc4a1a20414699dd08f7eff0b6999b5955bb6e076feb050c5e81e783e",
+      "status": "optimized"
+    },
+    "/logo/companies/braavos.webp": {
+      "sha256": "c524e797b9cd7c33956c6cf45d16d44b45390bb717338faab83471439b3f57cf",
+      "status": "optimized"
+    },
+    "/logo/companies/braiins.webp": {
+      "sha256": "e002b700603c2a9b34b5cffbc4779339a8347ca72000d8235fd09e389ca577ef",
+      "status": "optimized"
+    },
+    "/logo/companies/brale.webp": {
+      "sha256": "39a7e408a0751eb4253525f3c748aefe95ec801218e30a978fafdce56dd15076",
+      "status": "optimized"
+    },
+    "/logo/companies/brave.webp": {
+      "sha256": "b313ee7acd6fb142b067920b7bc43150e182d4e17f4b0a8ccba3f6e06f13d8ac",
+      "status": "optimized"
+    },
+    "/logo/companies/breeze-cash.webp": {
+      "sha256": "1f8cdb3bab69d2b4d54d29428346a5e3c685aa1a8374b157ad8d06c30b223f49",
+      "status": "optimized"
+    },
+    "/logo/companies/breeze.webp": {
+      "sha256": "5014140af032bab42b788a71ec881237ad065e643e92be95bfd43530c14e936d",
+      "status": "optimized"
+    },
+    "/logo/companies/bullish.webp": {
+      "sha256": "38decad5f740ba6889afe25bb5b04fa71b84ae781dfd8eecc720e0bae74a90e8",
+      "status": "optimized"
+    },
+    "/logo/companies/bvnk.webp": {
+      "sha256": "78f9c57a473a1344732d07a10adfbffb0ac9a33590008aeef666d32d57596fed",
+      "status": "optimized"
+    },
+    "/logo/companies/bybit.webp": {
+      "sha256": "a96658fe227b4efc836f07bb13720bd0da38d2896f84f9d7c83909784fb15be2",
+      "status": "optimized"
+    },
+    "/logo/companies/caladan.webp": {
+      "sha256": "918acb38d3289a3e5075f65d27d13a1fb28e2e6438e6c4952d2ade59576cdfe5",
+      "status": "optimized"
+    },
+    "/logo/companies/category-labs.webp": {
+      "sha256": "e3c8c6f29253a1b72fa3ff665c682aa34d3c22dfe4c14b1ef636a23504747a94",
+      "status": "optimized"
+    },
+    "/logo/companies/celebratix.webp": {
+      "sha256": "5014140af032bab42b788a71ec881237ad065e643e92be95bfd43530c14e936d",
+      "status": "optimized"
+    },
+    "/logo/companies/centrifuge.webp": {
+      "sha256": "9813e0bf61e0f4178fcd12c03779c551e5b14e555e53befa1a6bb29b88c101cb",
+      "status": "optimized"
+    },
+    "/logo/companies/certik.webp": {
+      "sha256": "5766f0f9cbf5cbd1b523da253621ced9b2564306bd1a99bd801f9584aed4cc41",
+      "status": "optimized"
+    },
+    "/logo/companies/certora.webp": {
+      "sha256": "dda690239030b89d7f6d73ab09500bd7685f0776a321ff379c31d9cbcbc7f75d",
+      "status": "optimized"
+    },
+    "/logo/companies/chainalysis.webp": {
+      "sha256": "a2ec18ce0f8279a8fd838d35e031ba8bfa425097bb0f9535e73b2d2c8e88153a",
+      "status": "optimized"
+    },
+    "/logo/companies/chainlink-labs.webp": {
+      "sha256": "dd2f2b7de13c7e3fa98c4eaa1915ae3c7b0f75e00afeb1a24094f49d2acba803",
+      "status": "optimized"
+    },
+    "/logo/companies/chronicle-labs.webp": {
+      "sha256": "747fff816cb69a5fcab162362cb4b88f73ed803fbe1f85aa90cd8b02e44d467b",
+      "status": "optimized"
+    },
+    "/logo/companies/circle.png": {
+      "sha256": "f0b2bba1c3d4761a626c03caa038d3d386b8c3b79e689160cc084a31c597e513",
+      "status": "optimized"
+    },
+    "/logo/companies/circle.webp": {
+      "sha256": "d89ad8049c8565d6d7658f5365694fa9af1d6b43616c3e8117d60780e195b474",
+      "status": "optimized"
+    },
+    "/logo/companies/citi.png": {
+      "sha256": "d6e994b1f7fe62754168945efd6e8d91a2bd7e952677fdf93b465692c4039c0d",
+      "status": "optimized"
+    },
+    "/logo/companies/citi.webp": {
+      "sha256": "a2ac4c15e4f803504322e40db9e6ca2af6afeef61cccd4b208423f92b82d164a",
+      "status": "optimized"
+    },
+    "/logo/companies/cleanspark.webp": {
+      "sha256": "b69f5d17c83f2925d53be0b5699854fdde8edf2db7b1841a065e42ea65aa1164",
+      "status": "optimized"
+    },
+    "/logo/companies/coinbase.webp": {
+      "sha256": "5c1f744561aca626d969f67ab1f179ef6ff9ce9207e91d989b583c1bf48b5921",
+      "status": "optimized"
+    },
+    "/logo/companies/coindcx.webp": {
+      "sha256": "e03bf675d0996a9a0d213676363087b98a4255fc01b2f2d7c0a5159b7b43c61b",
+      "status": "optimized"
+    },
+    "/logo/companies/coindesk.webp": {
+      "sha256": "be268743b70bddc376c3a17e6e5f545ca75110071e0dd0e9ee127f34528eb214",
+      "status": "optimized"
+    },
+    "/logo/companies/coinflow-labs.webp": {
+      "sha256": "4e6d5a2ff135d2b6e4371592f385625497bcefd01932bb949788ac2e25499955",
+      "status": "optimized"
+    },
+    "/logo/companies/coinflow.webp": {
+      "sha256": "88038c4dd7f926ae77bbbf952c164032da4e540f0cd8a5cc6b5b2e60ef6b48fb",
+      "status": "optimized"
+    },
+    "/logo/companies/coingecko.webp": {
+      "sha256": "fe2bab3ccc88eb7ac645bbafa9e3f1c3cca3e4db5214ae4ee10c539928f0e05c",
+      "status": "optimized"
+    },
+    "/logo/companies/coinhako.webp": {
+      "sha256": "fe64839cb6d85af52ceee3312e6db436aa0d4eeec4b15c30c82b4412400aa2aa",
+      "status": "optimized"
+    },
+    "/logo/companies/coinjar.webp": {
+      "sha256": "7a82c73813f31b16e73e10572aca460c736020681fc0599bfadc6d571d1711ed",
+      "status": "optimized"
+    },
+    "/logo/companies/coinmarketcap.webp": {
+      "sha256": "7c9916367e7326b157f7f1b33d0e8f1245f939ac8a34b1f4180e4b5d65ce49bd",
+      "status": "optimized"
+    },
+    "/logo/companies/coinme.webp": {
+      "sha256": "82c7b1368bb6eb2ef7715cf6956ad90ab7835cfeeb28099964d4b6b5344b3da0",
+      "status": "optimized"
+    },
+    "/logo/companies/coins-ph.webp": {
+      "sha256": "6eee47f24fee1a5f3990c62d39d33e3eb72d0b97f949dacf5bda9d4a54d4bb3a",
+      "status": "optimized"
+    },
+    "/logo/companies/coinsph.webp": {
+      "sha256": "6eee47f24fee1a5f3990c62d39d33e3eb72d0b97f949dacf5bda9d4a54d4bb3a",
+      "status": "optimized"
+    },
+    "/logo/companies/coinstore.webp": {
+      "sha256": "3b93c0bf325657b0e273816c53347a79c8af59c66299bdab5edc5292fd4750c1",
+      "status": "optimized"
+    },
+    "/logo/companies/coinswitch-kuber.webp": {
+      "sha256": "0e5cb481f978a2fac1f88a1165f1ec70640930246aa50d7ffa7840c8ca8f1e77",
+      "status": "optimized"
+    },
+    "/logo/companies/coinswitch.webp": {
+      "sha256": "0e5cb481f978a2fac1f88a1165f1ec70640930246aa50d7ffa7840c8ca8f1e77",
+      "status": "optimized"
+    },
+    "/logo/companies/cointracker.webp": {
+      "sha256": "b1983b747d0217a30626feade5b353f3acf1bf479cbe75a565f875d6d728905e",
+      "status": "optimized"
+    },
+    "/logo/companies/complyadvantage.webp": {
+      "sha256": "1d187f23eaf279d8a82d6aed6e99befcdcee6462b7b21cd043a41c745aba9cea",
+      "status": "optimized"
+    },
+    "/logo/companies/compound.webp": {
+      "sha256": "87b7196e99d7a201c732e19eb0c4642237b42708d58686b26aa06cf2257c314a",
+      "status": "optimized"
+    },
+    "/logo/companies/conduit.webp": {
+      "sha256": "7668b288bfc2fe58cc7aac17ab6fb46a8a1f32f98e0e48b2179ccc812bb47f35",
+      "status": "optimized"
+    },
+    "/logo/companies/consensys.png": {
+      "sha256": "cabc56b593cdce0a68686d29b58066b3184c45e42d7656ffc7afcf07eeb248b3",
+      "status": "optimized"
+    },
+    "/logo/companies/consensys.webp": {
+      "sha256": "c01ab80e4fd99775576fd121a09aa3ab91eed5566b4cfbaf66a5f3fa500468c8",
+      "status": "optimized"
+    },
+    "/logo/companies/copper-co.webp": {
+      "sha256": "9317504e3b157d1df7f090922beba5901a281803024f624d4cccf50bfaacfcd9",
+      "status": "optimized"
+    },
+    "/logo/companies/cow-dao.webp": {
+      "sha256": "6dab921466a1ebcdb2dfac5f85395595bc827b863e9a081d6874fe0c5fb21944",
+      "status": "optimized"
+    },
+    "/logo/companies/crossmint.webp": {
+      "sha256": "f591b48cb786e2c36da63c105fc7ebe8c0e59d9a6f5075e20c76b24ab439284a",
+      "status": "optimized"
+    },
+    "/logo/companies/cryptio.webp": {
+      "sha256": "a8ad1905dfbdbed046790163f9d3d46569162638742ba4acac80c44e12a179c0",
+      "status": "optimized"
+    },
+    "/logo/companies/crypto-com.webp": {
+      "sha256": "99453dad217ba131a9ad95f827a373425c4126ed9d8fb97a01d6f85ffda3399a",
+      "status": "optimized"
+    },
+    "/logo/companies/crypto-finance.webp": {
+      "sha256": "f064d75fd9fc249b7e25a2ffa5987f967b4c2fa92bcdf3ed1048fb2affc66b9f",
+      "status": "optimized"
+    },
+    "/logo/companies/crystal-intelligence.webp": {
+      "sha256": "4d0a10b94bdaa3094c62e8ae930ac5f71678224d3419aaf4de8d4dcc86864ac6",
+      "status": "optimized"
+    },
+    "/logo/companies/dapper-labs.png": {
+      "sha256": "8f81dc8b5dfb5fa2b06b257ad7db460991577952211019ccec36c8169bfa53d5",
+      "status": "optimized"
+    },
+    "/logo/companies/dapper-labs.webp": {
+      "sha256": "2488a5f1b38534318f369eb77eecfa49fb75f6d5df8f358e007d48571ef8a600",
+      "status": "optimized"
+    },
+    "/logo/companies/daylight.webp": {
+      "sha256": "a0dde0b660b5d4d45cda560de236209bb958bebc6fc9d7630d0f33cc74ee3a0a",
+      "status": "optimized"
+    },
+    "/logo/companies/dfinity.webp": {
+      "sha256": "1a7c87b1931046d7477aefa2d5347b76a1f0b5c62005cd6e5f106ace19424a56",
+      "status": "optimized"
+    },
+    "/logo/companies/dialectic.webp": {
+      "sha256": "9a5065625098423ff2a75347d5338b6287315a93ebe87fe988b88c45ea85bfad",
+      "status": "optimized"
+    },
+    "/logo/companies/digital-asset.webp": {
+      "sha256": "55b97b5e5d5e72365e08bc5b8700a4304f5318a9ae0a2d7d0ba520bfa0351507",
+      "status": "optimized"
+    },
+    "/logo/companies/doublezero.webp": {
+      "sha256": "c3d05ada9341b9e8796b4be6113744dda18e983ac044bf75b573fd55cf2f240f",
+      "status": "optimized"
+    },
+    "/logo/companies/douro-labs.webp": {
+      "sha256": "614a8127b7096eaf29fb92b6045c3216e750fb3695d6aeaf365d8bdb7dcfd326",
+      "status": "optimized"
+    },
+    "/logo/companies/drivewealth.webp": {
+      "sha256": "31991d912102ece4a445b170bb7d3404cb329c7617e8e3a754650f0a968124d7",
+      "status": "optimized"
+    },
+    "/logo/companies/dv-trading.webp": {
+      "sha256": "6c6e5b4d570de37dfd217e8c6d26c0b6bddf33c9009e4d9944bbadb44178c1b2",
+      "status": "optimized"
+    },
+    "/logo/companies/eclipse.webp": {
+      "sha256": "d7bfed928ba404635732d09b91338b65c8be3990577c4b1145fcf6c9226e0961",
+      "status": "optimized"
+    },
+    "/logo/companies/eigenlayer.webp": {
+      "sha256": "3dc966dd5cc089a721b9acc3566e0b0655e01e1e1dd2420af8ea92c101cba858",
+      "status": "optimized"
+    },
+    "/logo/companies/ellipsis-labs.webp": {
+      "sha256": "46d601dbf7a187ad53755aa17e3c56263d9be31c8277d62deaeadf14d4d87a01",
+      "status": "optimized"
+    },
+    "/logo/companies/elwood-technologies.webp": {
+      "sha256": "cc1ff21706b9023917a58c72a0519c47bcb7db0c0e13eddc811d8a64c327794f",
+      "status": "optimized"
+    },
+    "/logo/companies/ergonia.webp": {
+      "sha256": "6402ff723cf2e2c40661a689e677e3c1d8a185a33fe1fa7f41b8401bead9c223",
+      "status": "optimized"
+    },
+    "/logo/companies/espresso-systems.webp": {
+      "sha256": "f47a896ed636e44029d2cad912af07d7c3a5770c19e2ded5022cfc5941bf862b",
+      "status": "optimized"
+    },
+    "/logo/companies/ethena-labs.webp": {
+      "sha256": "1787ff0e6694d25c055fc0f33ccedbf58db12f21f0516303d4b480a8a4af0ebe",
+      "status": "optimized"
+    },
+    "/logo/companies/ethena.webp": {
+      "sha256": "2ad4f59577a6f8cb156f4cc164655247a12983c9b87cc2eca351cad231a81701",
+      "status": "optimized"
+    },
+    "/logo/companies/ether-fi.webp": {
+      "sha256": "a74654e965a8ad0508f2725d137839adc737fcf1426ae874c6b74a940ce4ac1a",
+      "status": "optimized"
+    },
+    "/logo/companies/ethereum-foundation.webp": {
+      "sha256": "0932877912bf695e2448fc5505ed9826e7b94f62e74a6895554afb274f993d9c",
+      "status": "optimized"
+    },
+    "/logo/companies/ethereum-institutional.webp": {
+      "sha256": "71befe1680119f980a51d8ea5952d956d4c71df4a488c46ac0cc21c006093e4e",
+      "status": "optimized"
+    },
+    "/logo/companies/etherscan.webp": {
+      "sha256": "fd44580f640a7a2c930e02e7317a725ceaf0aa2317f87aa4ef241d17c2ffb9ef",
+      "status": "optimized"
+    },
+    "/logo/companies/ethglobal.webp": {
+      "sha256": "3b9c43315322d9644292fbc36e8bf425b9c17ca5167cc7282b8128a6cb728e63",
+      "status": "optimized"
+    },
+    "/logo/companies/etoro.webp": {
+      "sha256": "0b39041e0b5979d7cde9ee38d3f29a281b5b3395ddadc4e054b9c493320693aa",
+      "status": "optimized"
+    },
+    "/logo/companies/ey.png": {
+      "sha256": "91f28cbdffa549eeba6d58df67638b5c151984ac1d6966bedbbc744a56c68d70",
+      "status": "optimized"
+    },
+    "/logo/companies/ey.webp": {
+      "sha256": "bc3de5cd2c16c965f36be2df970e9f3b8ab630b93c3511109675d747e25019b2",
+      "status": "optimized"
+    },
+    "/logo/companies/falconx.webp": {
+      "sha256": "269b3d00d8c56da6150c9f69027f004721d6104151ef40583a70c82e1e91f775",
+      "status": "optimized"
+    },
+    "/logo/companies/fasset.webp": {
+      "sha256": "3112053255475d5cb3054bf72dba46d986f92dd3b9176b2fcdd1bb3dbc4e8a38",
+      "status": "optimized"
+    },
+    "/logo/companies/fermah.webp": {
+      "sha256": "f2cdddd7a96d0639fa5642244f47178f0f9a3cf3b89c5ecb4b9ec645952dbdb6",
+      "status": "optimized"
+    },
+    "/logo/companies/figment.webp": {
+      "sha256": "6aadf49364a3680afe5a3ff1da6a632ac6ec411ad53d8de976168d4905fe98c0",
+      "status": "optimized"
+    },
+    "/logo/companies/filecoin-foundation.webp": {
+      "sha256": "25a60161f43948a0fd42fb6babd239c598183f3172682f4ba46fd6db4ad40525",
+      "status": "optimized"
+    },
+    "/logo/companies/fireblocks.webp": {
+      "sha256": "9cf9aabce1aeb5a27fd1cfebb90817583f5ca3563699619fca415a43d61cc2ed",
+      "status": "optimized"
+    },
+    "/logo/companies/fleek.webp": {
+      "sha256": "6f83312150fe7dbe7e2c033bf24225a2a58934ba2342d69c7a472087d0f9d894",
+      "status": "optimized"
+    },
+    "/logo/companies/flipside-crypto.webp": {
+      "sha256": "569aaa56c6efe2675a5a065568798cbaa68b0d274ac8b815899e3d6dc1402505",
+      "status": "optimized"
+    },
+    "/logo/companies/flipside.webp": {
+      "sha256": "5013149118cccb1a900bc378d23e1c26dfab8c941635340571761043a96c2f41",
+      "status": "optimized"
+    },
+    "/logo/companies/flow-traders.png": {
+      "sha256": "94b394ec1ba89f533e700e3c08c36505313cf3530a0389b791464b39ef02ec16",
+      "status": "optimized"
+    },
+    "/logo/companies/foundation.webp": {
+      "sha256": "335207929afe57af9002b9e275164ae7767beb19bd1c045390560dee5e6a891f",
+      "status": "optimized"
+    },
+    "/logo/companies/foundry.webp": {
+      "sha256": "569aaa56c6efe2675a5a065568798cbaa68b0d274ac8b815899e3d6dc1402505",
+      "status": "optimized"
+    },
+    "/logo/companies/franklin-templeton.webp": {
+      "sha256": "81dd137f7c5f3a16da4d93616d70f8fce1e8d2ae32d2f77b2584a9d1475b3e14",
+      "status": "optimized"
+    },
+    "/logo/companies/fun-xyz.webp": {
+      "sha256": "dae416daa69a152cee347cf0d4f6367a521e1e5e2f37ae2971c725f5e15ccfbd",
+      "status": "optimized"
+    },
+    "/logo/companies/gacha.webp": {
+      "sha256": "62e125ffa865a8da84813efd9efe3690dab866f3401469e743828403fccb509a",
+      "status": "optimized"
+    },
+    "/logo/companies/gate-io.webp": {
+      "sha256": "0ef3cb66550e9dbf692a8b6a56665bcc9c370599d9f2258d1ad4a08e1c2e0bd8",
+      "status": "optimized"
+    },
+    "/logo/companies/gauntlet.webp": {
+      "sha256": "5d3af222095f1fea3fef3ae098a81e14a7f088c45919dbba5805cbcad9f5c437",
+      "status": "optimized"
+    },
+    "/logo/companies/gelato-network.webp": {
+      "sha256": "dd870f084e4311acb4aa7cd2ec07798fd2e8d8a2d3f1cfd2f3916501db153665",
+      "status": "optimized"
+    },
+    "/logo/companies/gelato.webp": {
+      "sha256": "dd870f084e4311acb4aa7cd2ec07798fd2e8d8a2d3f1cfd2f3916501db153665",
+      "status": "optimized"
+    },
+    "/logo/companies/gemini.webp": {
+      "sha256": "f32c15444a5b1a861e26fd64f079d442adbaa6cbb5784189f51880939a2a1937",
+      "status": "optimized"
+    },
+    "/logo/companies/genies.webp": {
+      "sha256": "a49b1fa07f3f9738b24ce09992e46a1045c35765e31253f3bdd5e4868ddf82ff",
+      "status": "optimized"
+    },
+    "/logo/companies/goldsky.webp": {
+      "sha256": "0e3404b2daf3c7e70872e13ad1813f71b091977f69fb3659bdc0d2a925484863",
+      "status": "optimized"
+    },
+    "/logo/companies/gomining.webp": {
+      "sha256": "0ddc686d30fc39f133aad0b92f9247fdcb244a4cfaaedde828ddd06639e33860",
+      "status": "optimized"
+    },
+    "/logo/companies/google.webp": {
+      "sha256": "8be8fb28cac29416cdd993212e78ab7a00385829b6bea60ce1c9f0ef7f56749c",
+      "status": "optimized"
+    },
+    "/logo/companies/groma.webp": {
+      "sha256": "29a24d44359f62a74c45f1c832391a03973d9741c7dad7a877d5c7deb9e9fbc6",
+      "status": "optimized"
+    },
+    "/logo/companies/grvt.webp": {
+      "sha256": "485caa501fd59bb1b5fe70c0a0b851d8b73b2378876824cbc110014751048135",
+      "status": "optimized"
+    },
+    "/logo/companies/gsr-markets.webp": {
+      "sha256": "57e8892cb669d067a7175606e929e94b869ad69e794b6d9e20ca49bf397c39d2",
+      "status": "optimized"
+    },
+    "/logo/companies/guild.webp": {
+      "sha256": "814e444288444842a35fcf03be4382771adad47c9135e82131d7d73df1f33d06",
+      "status": "optimized"
+    },
+    "/logo/companies/harmony.webp": {
+      "sha256": "9dbee942b842f990157815a73880b3737fb88b890cc63b419d909de74d6d674f",
+      "status": "optimized"
+    },
+    "/logo/companies/hedera.webp": {
+      "sha256": "8cb90c6677636f3eff27159c15bfb0b743fd8a74b54cfbcd8442ad02b51dacc1",
+      "status": "optimized"
+    },
+    "/logo/companies/helius.webp": {
+      "sha256": "d68dad1a293176d7789cc5f89d17d68446dcb24515e9bbc49b54ec7fc0881556",
+      "status": "optimized"
+    },
+    "/logo/companies/hex-trust.webp": {
+      "sha256": "3c323d3cf9dd9025d751bd23f085e096e7fbaed2aa3074b62d6ecf5419b1af22",
+      "status": "optimized"
+    },
+    "/logo/companies/horizon.webp": {
+      "sha256": "fefc88ec6fac072695ad942fe483997841433d5c2c0e2399c130aea3284b77cc",
+      "status": "optimized"
+    },
+    "/logo/companies/hut-8.webp": {
+      "sha256": "7bd015a5dfab2a9dc05dfec1f51dfaa3479fcd9edb43760a229af4d2e9bd7a30",
+      "status": "optimized"
+    },
+    "/logo/companies/hyperliquid-labs.webp": {
+      "sha256": "93ac93e71a1c9f19e557f6d8fa59174115e682d42fc853eedec7f07528e99930",
+      "status": "optimized"
+    },
+    "/logo/companies/immunefi.webp": {
+      "sha256": "068b1bb766ea990537db57f66f6175a2f5f40126ef1e1a250c36172e9c5a83b9",
+      "status": "optimized"
+    },
+    "/logo/companies/impossible-cloud.webp": {
+      "sha256": "bf3aacb4a13a2c865429d54e7ffd7ad03bbc27ced22a215080a4b5c69115da5e",
+      "status": "optimized"
+    },
+    "/logo/companies/impossible-finance.webp": {
+      "sha256": "b4d3f2618114a2ce1fef84bc6e832503e0117c0b4bd327fd09d426ede8749a22",
+      "status": "optimized"
+    },
+    "/logo/companies/improbable.webp": {
+      "sha256": "31feab546763bf990180a34c33e7ad680caefd509b496bc6e7c9006de3f1a6b8",
+      "status": "optimized"
+    },
+    "/logo/companies/io-global.webp": {
+      "sha256": "a9e28e08c88fccf94bc251b88cb53998e6f3dd128ef2b35fb29794e8f369887a",
+      "status": "optimized"
+    },
+    "/logo/companies/jane-street.webp": {
+      "sha256": "56a5a159e00d858ab6518369642079ef6e1a243bd523c12fe12e7a50ef716ac2",
+      "status": "optimized"
+    },
+    "/logo/companies/jane.webp": {
+      "sha256": "5014140af032bab42b788a71ec881237ad065e643e92be95bfd43530c14e936d",
+      "status": "optimized"
+    },
+    "/logo/companies/janus.webp": {
+      "sha256": "62e125ffa865a8da84813efd9efe3690dab866f3401469e743828403fccb509a",
+      "status": "optimized"
+    },
+    "/logo/companies/jito-foundation.webp": {
+      "sha256": "5014140af032bab42b788a71ec881237ad065e643e92be95bfd43530c14e936d",
+      "status": "optimized"
+    },
+    "/logo/companies/joyride-labs.webp": {
+      "sha256": "a7ff3a65b52c3e47ab841deb6378375131bc5151fd83923526823cc1bc2d243f",
+      "status": "optimized"
+    },
+    "/logo/companies/jp_morgan.webp": {
+      "sha256": "71ead6dc43f985a31288936bf59f85bfd49831b81f3e28e8d3d9aa7feb7da08b",
+      "status": "optimized"
+    },
+    "/logo/companies/jump-crypto.webp": {
+      "sha256": "9d42b092119dc7856e07b9226609edc63c70ad58b6fb6143b179d0843fd62706",
+      "status": "optimized"
+    },
+    "/logo/companies/jump.webp": {
+      "sha256": "9d42b092119dc7856e07b9226609edc63c70ad58b6fb6143b179d0843fd62706",
+      "status": "optimized"
+    },
+    "/logo/companies/jupiter.webp": {
+      "sha256": "62e125ffa865a8da84813efd9efe3690dab866f3401469e743828403fccb509a",
+      "status": "optimized"
+    },
+    "/logo/companies/kalshi.webp": {
+      "sha256": "57166ba9b115f8957202fb1f44079d3e0c0077b751563ee68838298b2638294c",
+      "status": "optimized"
+    },
+    "/logo/companies/kast.webp": {
+      "sha256": "f3e406d737d2e3217fd0a87f1994729b9112d3f987a3d19f2069d2ee52978e36",
+      "status": "optimized"
+    },
+    "/logo/companies/keyrock.webp": {
+      "sha256": "ce77dcce79204a25d856644870a6928692126e4e3823e4e216d47d0c81081ee9",
+      "status": "optimized"
+    },
+    "/logo/companies/kpmg.webp": {
+      "sha256": "25f6214154e869f44fde875d98a6f308f87fabb5df6d509fee6e1611c767fd91",
+      "status": "optimized"
+    },
+    "/logo/companies/kraken.webp": {
+      "sha256": "87b119dfbe74212bf10544ebf3966a43f80fd896a9f4441bdfcf7187ae89a910",
+      "status": "optimized"
+    },
+    "/logo/companies/ledger.webp": {
+      "sha256": "2aec8f8fb94ea14cf60f11d67f68947f0b736821bdc62aff2e20a45010ebb1de",
+      "status": "optimized"
+    },
+    "/logo/companies/lens-protocol.webp": {
+      "sha256": "472ed631c70731210bffb7343da79f6304d0ffa20f5f08a12ab04c959230112b",
+      "status": "optimized"
+    },
+    "/logo/companies/li-fi.webp": {
+      "sha256": "f8cf8a5f0a0d2337901baa870eea1f52d6fd1120c8e1338b49f0048d45f06190",
+      "status": "optimized"
+    },
+    "/logo/companies/lido.webp": {
+      "sha256": "720d19b3f5a80f87f89d25a19fed6c1c45588c201de918f3a128dc2fef7229e7",
+      "status": "optimized"
+    },
+    "/logo/companies/lightcone-trade.webp": {
+      "sha256": "fa7cd2ae6f4f7fb38e17e1f05895c9951dd633cbfefaac4b572742bd026cf66c",
+      "status": "optimized"
+    },
+    "/logo/companies/lightcone.webp": {
+      "sha256": "5014140af032bab42b788a71ec881237ad065e643e92be95bfd43530c14e936d",
+      "status": "optimized"
+    },
+    "/logo/companies/lightning-labs.webp": {
+      "sha256": "70a2feb93cf69ce599f44aaf4758f2aa3e32d9a20354085c63ba2485af35a211",
+      "status": "optimized"
+    },
+    "/logo/companies/lightspark.webp": {
+      "sha256": "1d4b09e854d9a1647306b572f9ea2abcd802a4d615cca7238eab17180beb0cda",
+      "status": "optimized"
+    },
+    "/logo/companies/localcoin.webp": {
+      "sha256": "b729a2a7aabc4d72915a647ebfa187902f6cc6858eedac81faf5bc21919488f8",
+      "status": "optimized"
+    },
+    "/logo/companies/loopscale.webp": {
+      "sha256": "62e125ffa865a8da84813efd9efe3690dab866f3401469e743828403fccb509a",
+      "status": "optimized"
+    },
+    "/logo/companies/luno.webp": {
+      "sha256": "3fca8545b7707338355ee3e28cf1985cfe0fcedb528cdf224bd75e4e7403caca",
+      "status": "optimized"
+    },
+    "/logo/companies/luxor-technology.webp": {
+      "sha256": "045dfa363ae7583711b3dbf9f6129f390b165fa6a58ff1a7f50c0dfe0aa669f4",
+      "status": "optimized"
+    },
+    "/logo/companies/m-0-labs.webp": {
+      "sha256": "cca42a1b22999b2ff5e4084c33540d15f00673e58d666244d93d930d9f5d3382",
+      "status": "optimized"
+    },
+    "/logo/companies/m0.webp": {
+      "sha256": "cca42a1b22999b2ff5e4084c33540d15f00673e58d666244d93d930d9f5d3382",
+      "status": "optimized"
+    },
+    "/logo/companies/magic-eden.webp": {
+      "sha256": "8797bec8bfeaceb7062c96abb778add388ee5463ab61d6ca0350f5aca4b091ea",
+      "status": "optimized"
+    },
+    "/logo/companies/magicblock.webp": {
+      "sha256": "f3595cd3f2ca8e2c1fc0254655af532d8fdecaeb33512a3c3d79ae1108d09493",
+      "status": "optimized"
+    },
+    "/logo/companies/mantra.webp": {
+      "sha256": "e6f3dd22e1d2e6bfa8dcd36e7b8a5c4471daa9c0dc84c63b1e0948e956430d21",
+      "status": "optimized"
+    },
+    "/logo/companies/maple-finance.webp": {
+      "sha256": "b6eef45eb3e433472a037eee26a0128d9367246563216fb942b1cb190882a942",
+      "status": "optimized"
+    },
+    "/logo/companies/marketnode.webp": {
+      "sha256": "1182a4b5306c7181748354fceb153898ed9edaf4cbc0b0435f8f88c12e18f382",
+      "status": "optimized"
+    },
+    "/logo/companies/massive.webp": {
+      "sha256": "2ed37caf5d5fe2775d59c0fe4681038ad9411db964fa86d486a0ae7729783e12",
+      "status": "optimized"
+    },
+    "/logo/companies/match-trade-technologies.webp": {
+      "sha256": "684657827d6f9b034ad348461eae9c94e8e19431d834a56afb572c9e4c7bb1c1",
+      "status": "optimized"
+    },
+    "/logo/companies/matrixport.png": {
+      "sha256": "63d9c66371f784528ce8c8930a3c0299d82a338d59754f0e296e2d1dd828e5c1",
+      "status": "optimized"
+    },
+    "/logo/companies/matrixport.webp": {
+      "sha256": "b9853f5cafe9092f9c19ca557fa298212820702d740ecada373684dfc372429c",
+      "status": "optimized"
+    },
+    "/logo/companies/matter-labs.webp": {
+      "sha256": "5a7af6e3c6c43c9045063794d219b49f5af65707811eb28fbe815ff907900450",
+      "status": "optimized"
+    },
+    "/logo/companies/mckinsey.webp": {
+      "sha256": "8a1bf894f11f08cfd5a8e68eddb2a22d4c7fb9b90b2889396134964c48d724c3",
+      "status": "optimized"
+    },
+    "/logo/companies/merkle-science.webp": {
+      "sha256": "93a24cef2aa7947c44b595da46d70000995816997b57f05e5a793af3c0e9f912",
+      "status": "optimized"
+    },
+    "/logo/companies/mesh.webp": {
+      "sha256": "aa241295d59b06938bf76fd91f843c7eed609e928166dc662adeba9883ccf675",
+      "status": "optimized"
+    },
+    "/logo/companies/microsoft.png": {
+      "sha256": "33b38c567e1ee8b999433bcddace67510da9d33c371d5fe01e34c0d5c1c24423",
+      "status": "optimized"
+    },
+    "/logo/companies/microsoft.webp": {
+      "sha256": "fff370a2964acb7e47ff6df9a7184f0710435a007c837f6ddc6e5fed6e8525bb",
+      "status": "optimized"
+    },
+    "/logo/companies/molecule.webp": {
+      "sha256": "070faa0ab61a5e2deeb74367892053aaf1ab45ae5acc79b2f9e9cac9ebc712e9",
+      "status": "optimized"
+    },
+    "/logo/companies/monad-foundation.webp": {
+      "sha256": "f2525be609776800f03831cb96d5602f86d1583072249cbd6782905be73509c3",
+      "status": "optimized"
+    },
+    "/logo/companies/monad.webp": {
+      "sha256": "f2525be609776800f03831cb96d5602f86d1583072249cbd6782905be73509c3",
+      "status": "optimized"
+    },
+    "/logo/companies/morph.webp": {
+      "sha256": "09e26509c9cec17de07f2a1e894f32a0d53085026ebf85d75c111106e852cea1",
+      "status": "optimized"
+    },
+    "/logo/companies/morpho-labs.webp": {
+      "sha256": "1fb792a80c310b257c53e6c12e4847605256e6f28b32bda537b51c2dbccbe583",
+      "status": "optimized"
+    },
+    "/logo/companies/morpho.webp": {
+      "sha256": "1fb792a80c310b257c53e6c12e4847605256e6f28b32bda537b51c2dbccbe583",
+      "status": "optimized"
+    },
+    "/logo/companies/movement-labs.webp": {
+      "sha256": "126d52a09443765871060f5837d7031e4a2d45623fe5405eca4aaef1c42ffc80",
+      "status": "optimized"
+    },
+    "/logo/companies/mysten-labs.webp": {
+      "sha256": "da48a85b289e1a4cacd63470640e2891c4e6c3cedc81bc39cb63d98fb1f22190",
+      "status": "optimized"
+    },
+    "/logo/companies/n3xt.webp": {
+      "sha256": "42496bcf06519771e308eaee40de57280e2bf426541a7c8591181d0c3e06097f",
+      "status": "optimized"
+    },
+    "/logo/companies/nansen.webp": {
+      "sha256": "552d493c537dafdbc1f3868a7ad7c3151ff1e74d4839c2dae75c1b46da4d36a4",
+      "status": "optimized"
+    },
+    "/logo/companies/nascent.webp": {
+      "sha256": "9c03b1e027388e94876157ff37d113b2cd12237217152dcc8d007c6889cf0464",
+      "status": "optimized"
+    },
+    "/logo/companies/navi-protocol.webp": {
+      "sha256": "8c768166bad3541fd4221bbaaa54f60eec09dec60de8b8b3e3f026de2cf45b95",
+      "status": "optimized"
+    },
+    "/logo/companies/ndax.webp": {
+      "sha256": "5a56032c9c0e06d17bd3e23fea1bf04653796a87ad38ae8227c113766e6612a1",
+      "status": "optimized"
+    },
+    "/logo/companies/neon-evm.webp": {
+      "sha256": "4853be9ace4228a3244251f5bd38f29e2ee0627203722a6a3939e482caad3a98",
+      "status": "optimized"
+    },
+    "/logo/companies/nethermind.webp": {
+      "sha256": "4f250d15e5488db8b71ddbafe289ba0220e33d714d2f5fd4d94ae14ef232121e",
+      "status": "optimized"
+    },
+    "/logo/companies/newton.webp": {
+      "sha256": "d575f39ebc96f9af42077fc166424dec3000d71898e00909352d393eb1b6ae7c",
+      "status": "optimized"
+    },
+    "/logo/companies/nexo.webp": {
+      "sha256": "54be754f7dfe75eec31160d5942ca755270252309f63d527b057f22ecd3ef1c6",
+      "status": "optimized"
+    },
+    "/logo/companies/nexus.webp": {
+      "sha256": "a5a3af6e586831984491641cfe682b21aef3927050bc528794a53555429cb110",
+      "status": "optimized"
+    },
+    "/logo/companies/noise.webp": {
+      "sha256": "5b8b775015621f40bca8a4e98a1aa27be3895d5412f4832b8fb0166eb3dedc6d",
+      "status": "optimized"
+    },
+    "/logo/companies/nomic-foundation.png": {
+      "sha256": "c83b9dc9957f7f843847365f9c1f2cd2a82df32f4f19ccd10bed070245638009",
+      "status": "optimized"
+    },
+    "/logo/companies/notabene.webp": {
+      "sha256": "0df640c795d97da4fcada68ec0743c261e7a3d33d35db6a49c1eed380f842dbb",
+      "status": "optimized"
+    },
+    "/logo/companies/nous-research.webp": {
+      "sha256": "35306a50503e6ee829bd35eb7cd1383b48c1e1cc018450975c3242def6041c5f",
+      "status": "optimized"
+    },
+    "/logo/companies/oasis-network.webp": {
+      "sha256": "f88cedb104645070c7ca6a0747e5f620f4e3265a10d8ac70815ecd595644d035",
+      "status": "optimized"
+    },
+    "/logo/companies/offchain-labs.png": {
+      "sha256": "2ed52087851507f34a49e22befa264bad7cdc365c8b2644197e410d896516dfa",
+      "status": "optimized"
+    },
+    "/logo/companies/okx.webp": {
+      "sha256": "2714723c7d0f9e4d307ae04f03b76bada321d1e87885f35d5269adab6a685727",
+      "status": "optimized"
+    },
+    "/logo/companies/ooble-studio.webp": {
+      "sha256": "1ab560cf6d57895294b62dcb822238517d254340d925176eba57c37e3b1b8e7e",
+      "status": "optimized"
+    },
+    "/logo/companies/op-labs.png": {
+      "sha256": "712eaf5e51215f4cbd7703c8a98c774850ad5e469111697385dc504f80be1c4e",
+      "status": "optimized"
+    },
+    "/logo/companies/op-labs.webp": {
+      "sha256": "05373b86815324dd1a7fd00afb57cac4ebd788f6afd15b8445439035b2451bc1",
+      "status": "optimized"
+    },
+    "/logo/companies/open.webp": {
+      "sha256": "5014140af032bab42b788a71ec881237ad065e643e92be95bfd43530c14e936d",
+      "status": "optimized"
+    },
+    "/logo/companies/opensea.webp": {
+      "sha256": "638bd0a569e45e2bb7cf9083ffb719496808b8ce1c13d80d1e804f38c7f9d1a5",
+      "status": "optimized"
+    },
+    "/logo/companies/openzeppelin.webp": {
+      "sha256": "7bfd43e6af8ef65f606fdf618dce0d2c443b1c5127eb0434c41de15090cfb967",
+      "status": "optimized"
+    },
+    "/logo/companies/optimism.png": {
+      "sha256": "712eaf5e51215f4cbd7703c8a98c774850ad5e469111697385dc504f80be1c4e",
+      "status": "optimized"
+    },
+    "/logo/companies/optimism.webp": {
+      "sha256": "05373b86815324dd1a7fd00afb57cac4ebd788f6afd15b8445439035b2451bc1",
+      "status": "optimized"
+    },
+    "/logo/companies/orca.webp": {
+      "sha256": "3bdae1762dfd32448430d80fdd10b0d7eb0e42f8f50402817067521cb826efde",
+      "status": "optimized"
+    },
+    "/logo/companies/orderly-network.webp": {
+      "sha256": "b18990b11acd7b5b6af8bd3a3d6b7f48186625a9c6695f7f2526ebdce14ea3d7",
+      "status": "optimized"
+    },
+    "/logo/companies/oxio.webp": {
+      "sha256": "493580d1b451787180d17c69c75410d5ec358599f450015153b1ad792dcbe479",
+      "status": "optimized"
+    },
+    "/logo/companies/p2p-org.webp": {
+      "sha256": "8a800686f5cf520f13dd13e42fc5be151de9080f87f049f304bddf123f9ef793",
+      "status": "optimized"
+    },
+    "/logo/companies/pancakeswap.webp": {
+      "sha256": "a73773e4c235b8a20ae5dd4d4e8d109da43ed06bd7d0de7415a5e223e3806381",
+      "status": "optimized"
+    },
+    "/logo/companies/pantera-capital.webp": {
+      "sha256": "34ad87150920c63584bfe5bac3ecee74391dd8da2ac33813bdcd6100fb5ac165",
+      "status": "optimized"
+    },
+    "/logo/companies/parallel.webp": {
+      "sha256": "1dd524d5916cfb99fe7dc026d584b4749f923c5676a95af1dad6d276bf81016b",
+      "status": "optimized"
+    },
+    "/logo/companies/parity-technologies.webp": {
+      "sha256": "ac1064117ce1292295d54d4dbda0007d19fe1f887c8b474c85fb7e50726b0f3f",
+      "status": "optimized"
+    },
+    "/logo/companies/partisia-blockchain.webp": {
+      "sha256": "aeb11ca1f2fc5d351a23cc422d939cc2b339c2eaa6bf8a7de549698cac3dbf9b",
+      "status": "optimized"
+    },
+    "/logo/companies/paxos.webp": {
+      "sha256": "c7f273b19f085e352ccd83d34f925e75c32b542c18c84674296e3f5b0d196105",
+      "status": "optimized"
+    },
+    "/logo/companies/perena.png": {
+      "sha256": "7200fcd4a2cd5197b05275f0cab72cc11ca891829ce1e696c14a425a52532e6c",
+      "status": "optimized"
+    },
+    "/logo/companies/perena.webp": {
+      "sha256": "fc3e0d9902e26fc9b4bd5b82df10a68111c10f7c3b7770aab43634cfad5a72fa",
+      "status": "optimized"
+    },
+    "/logo/companies/permian-labs.webp": {
+      "sha256": "465b68ec6c2239dc0ad1744721d6be64d8f9cea677ecaad2becd478c1d519d4f",
+      "status": "optimized"
+    },
+    "/logo/companies/phantom.webp": {
+      "sha256": "a61313ff3aeac6e22ee3f90d238113bfe8ecd2624983f904ee12db19f05a46f4",
+      "status": "optimized"
+    },
+    "/logo/companies/pixion-games.webp": {
+      "sha256": "f118a397805b20ed721fdbfea7eec00887666240c6d967cf3ff2c3bcb3c0684b",
+      "status": "optimized"
+    },
+    "/logo/companies/plasma.webp": {
+      "sha256": "de72c20bbb784a5d59fc570522e04af16979151c6c085873eca809ca8ca7f5fc",
+      "status": "optimized"
+    },
+    "/logo/companies/plastic-labs.webp": {
+      "sha256": "b5df52aeb29771103f395b3ebdcfb6c18f3c299357c2b5f9be61c8f500c64581",
+      "status": "optimized"
+    },
+    "/logo/companies/plume-network.webp": {
+      "sha256": "7721369b66e3c89a3957344c6a686ec48056459bdaf49cec53598c0face500f3",
+      "status": "optimized"
+    },
+    "/logo/companies/polychain-capital.webp": {
+      "sha256": "f118a397805b20ed721fdbfea7eec00887666240c6d967cf3ff2c3bcb3c0684b",
+      "status": "optimized"
+    },
+    "/logo/companies/polygon-labs.webp": {
+      "sha256": "830e090bd745b7e0c7de39cf217808c8c6a3ae9d03320a0cbd8609edb691920a",
+      "status": "optimized"
+    },
+    "/logo/companies/polygon.png": {
+      "sha256": "3b29d7523e7bfdd6963ee94b921a2379baa66af4490d2dee7ac8cfb7bab2dde3",
+      "status": "optimized"
+    },
+    "/logo/companies/polygon.webp": {
+      "sha256": "1241775062f176541c97cbdcbb22e82895746bdcfa812dff7a19a18a2bebf523",
+      "status": "optimized"
+    },
+    "/logo/companies/polymarket.webp": {
+      "sha256": "9eb0dd02f939373fd2c857bef2d153b7ca1596f6954db8e8ece71324d9fd6154",
+      "status": "optimized"
+    },
+    "/logo/companies/prime-intellect.webp": {
+      "sha256": "5f8531892fcabb5a7af9d6f2057fdc3aa96247e8a302b65bbc0c8450b0127e65",
+      "status": "optimized"
+    },
+    "/logo/companies/privy.webp": {
+      "sha256": "e79d4b3e9a41168e9c502d10d68721e6df40d49878b3535da9780bee8940e8c2",
+      "status": "optimized"
+    },
+    "/logo/companies/provable-aleo.webp": {
+      "sha256": "57eee0e1833fc8c64087eb8f82fd6c545fb2aa9ddd95c69f8bc798eddc39ed44",
+      "status": "optimized"
+    },
+    "/logo/companies/pwc.webp": {
+      "sha256": "268a6e935b4a526f6339a04e3eb7183a128e8ad31b94eeb82e8c3a5ff2d13430",
+      "status": "optimized"
+    },
+    "/logo/companies/pyth-network.png": {
+      "sha256": "9758888d875390f6847a6d42994ac3b7ef139a080033071e25396ad7349e7f65",
+      "status": "optimized"
+    },
+    "/logo/companies/pyth-network.webp": {
+      "sha256": "20d56b30e2b542f6e2460956b3433a51a3f466d192efbb9caa1c20a69057ec6a",
+      "status": "optimized"
+    },
+    "/logo/companies/quicknode.webp": {
+      "sha256": "76d0cd5609dfbc8ac990642894911c2f7593c878a68ef6093a2c1c069f08c372",
+      "status": "optimized"
+    },
+    "/logo/companies/r3.webp": {
+      "sha256": "379802c2aa3748d4ab3ed8dbac187552fc1d4c2d674a3b289a3754385e97e23a",
+      "status": "optimized"
+    },
+    "/logo/companies/rain.webp": {
+      "sha256": "11f0058a55491a56db89c1d52614bfd62096fbd5fc3ebbeb7702a017e02abcd9",
+      "status": "optimized"
+    },
+    "/logo/companies/ramp-network.webp": {
+      "sha256": "bcc180a80555e55c5c1fad7e8f84401b81845d106ce55bce29a847684cf70b6f",
+      "status": "optimized"
+    },
+    "/logo/companies/ramp.webp": {
+      "sha256": "f8257b04cd4dea4ee010917363c04ff1b6143aed42a1f33bc7b817bcedd4431e",
+      "status": "optimized"
+    },
+    "/logo/companies/range.webp": {
+      "sha256": "8aa334577ac4b9e0aa830a86766b654b4d289ffb26a3ac03cbfdcc151102b20e",
+      "status": "optimized"
+    },
+    "/logo/companies/raydium.webp": {
+      "sha256": "62e125ffa865a8da84813efd9efe3690dab866f3401469e743828403fccb509a",
+      "status": "optimized"
+    },
+    "/logo/companies/redstone.webp": {
+      "sha256": "e25cb25c784c21cf14b41731cd972fbde5a2c74d3475ba37a5e7fd73844a6210",
+      "status": "optimized"
+    },
+    "/logo/companies/refi-hub.webp": {
+      "sha256": "5e8f09cee4c6f4166a767162cc74634dce958e2b79933222f5f5cb29443b3222",
+      "status": "optimized"
+    },
+    "/logo/companies/relay-link.webp": {
+      "sha256": "488d69ba61ae663f19beab7726682145adff010bdf443fc1209ae5d1a2e50b38",
+      "status": "optimized"
+    },
+    "/logo/companies/relay.webp": {
+      "sha256": "488d69ba61ae663f19beab7726682145adff010bdf443fc1209ae5d1a2e50b38",
+      "status": "optimized"
+    },
+    "/logo/companies/render-foundation.webp": {
+      "sha256": "c02260256c929c79c7ddc280b0ac8922baed56c3574d0c8a8f65114eb3965eb2",
+      "status": "optimized"
+    },
+    "/logo/companies/render-network.webp": {
+      "sha256": "caee98e278b73ca2c9b9e89be75fdee34880634d50c53f975c69adc95d70ae0f",
+      "status": "optimized"
+    },
+    "/logo/companies/render.webp": {
+      "sha256": "caee98e278b73ca2c9b9e89be75fdee34880634d50c53f975c69adc95d70ae0f",
+      "status": "optimized"
+    },
+    "/logo/companies/renegade.webp": {
+      "sha256": "05a0496c05e6a4a40aae50bf5819b2d3f47c3cc718e7e968a443a0b10fefaf3c",
+      "status": "optimized"
+    },
+    "/logo/companies/revolut.webp": {
+      "sha256": "ea1ae8b7fb6eda531f702b77a837fa25372d4520424a1b5b6dc12716acf99766",
+      "status": "optimized"
+    },
+    "/logo/companies/rift.webp": {
+      "sha256": "5014140af032bab42b788a71ec881237ad065e643e92be95bfd43530c14e936d",
+      "status": "optimized"
+    },
+    "/logo/companies/riot-platforms.webp": {
+      "sha256": "f1dae5a8e0052f3db8de708fda8db77bacfc706ceed619187092689b9f79a1c0",
+      "status": "optimized"
+    },
+    "/logo/companies/ripple.png": {
+      "sha256": "310a1e775423a174bfcbe6bbd0ecaeff20d16a8cc0a6fb0f0822a9938f990dc7",
+      "status": "optimized"
+    },
+    "/logo/companies/ripple.webp": {
+      "sha256": "3a2fa1c3266ff268c7bb74ab9fbedd3a9bee39dccf15aa6d3d0207ab902fb50f",
+      "status": "optimized"
+    },
+    "/logo/companies/ritual.webp": {
+      "sha256": "94451b6b5e5b26866abb98e6b8cb86a3536a9d33e7fd5ba16dcb84083f851b54",
+      "status": "optimized"
+    },
+    "/logo/companies/river-financial.webp": {
+      "sha256": "f2ad1ba1369dfe8b3b5f7eace9cefeb381f29d0364c1f65b857985faffe65830",
+      "status": "optimized"
+    },
+    "/logo/companies/robinhood.webp": {
+      "sha256": "475448cdcf3f00d21db2233c0c13a75e12c09a441dd327379039fd5319539ddf",
+      "status": "optimized"
+    },
+    "/logo/companies/safe.webp": {
+      "sha256": "0de48f85b02b7a44c06d07a5bf833ea9bfa5421a3538da5efc386f82ba2cdc77",
+      "status": "optimized"
+    },
+    "/logo/companies/sahara-ai.webp": {
+      "sha256": "ef60574824a8b8065857b0a6cef150e0c02ee60f67787bd81405aa80229df8dd",
+      "status": "optimized"
+    },
+    "/logo/companies/sardine.webp": {
+      "sha256": "ab0fe7371f65838b593f362fe52532f7a9ab69525bf4630ca407373db441ce53",
+      "status": "optimized"
+    },
+    "/logo/companies/sec3.webp": {
+      "sha256": "05bbc1019e4b4962f28e4d50af2f3fabcdda3265fca5ab009c10a84ed3f69fdd",
+      "status": "optimized"
+    },
+    "/logo/companies/securitize.webp": {
+      "sha256": "5014140af032bab42b788a71ec881237ad065e643e92be95bfd43530c14e936d",
+      "status": "optimized"
+    },
+    "/logo/companies/sei-foundation.webp": {
+      "sha256": "e686f459bc2adb74a86d43c82fb1e424e59430ca8f4e3216bfef480e9cf931e8",
+      "status": "optimized"
+    },
+    "/logo/companies/sei-labs.webp": {
+      "sha256": "e686f459bc2adb74a86d43c82fb1e424e59430ca8f4e3216bfef480e9cf931e8",
+      "status": "optimized"
+    },
+    "/logo/companies/sei.webp": {
+      "sha256": "e686f459bc2adb74a86d43c82fb1e424e59430ca8f4e3216bfef480e9cf931e8",
+      "status": "optimized"
+    },
+    "/logo/companies/sequence.webp": {
+      "sha256": "51aaba960f35f30239042ca8e2050dd0e57c127d5cceddce7c41937d59e0fc91",
+      "status": "optimized"
+    },
+    "/logo/companies/serotonin.webp": {
+      "sha256": "50a9cb91c95d3fc658c8169333fb4243ec898199047945bbef0cfa60a38669a3",
+      "status": "optimized"
+    },
+    "/logo/companies/sky-mavis.webp": {
+      "sha256": "170fc4ee33191ba57868f1e338f1956d9b5152fc248c65055ef2903f0a078166",
+      "status": "optimized"
+    },
+    "/logo/companies/skyrise.webp": {
+      "sha256": "62e125ffa865a8da84813efd9efe3690dab866f3401469e743828403fccb509a",
+      "status": "optimized"
+    },
+    "/logo/companies/solana-labs.webp": {
+      "sha256": "585e1e5880fbd7d98ac3c2359bcd19905e76af4198ee4ea109082df40d17d8b3",
+      "status": "optimized"
+    },
+    "/logo/companies/solflare.webp": {
+      "sha256": "adc4f82a0f60a629e5c08bc58b9818501e9cac0a845f1e46e907d7333e6527a4",
+      "status": "optimized"
+    },
+    "/logo/companies/sorare.webp": {
+      "sha256": "ef5b57754614524e79d61576cba49fbc10b401f1def4f6b61a23ff234a0058e1",
+      "status": "optimized"
+    },
+    "/logo/companies/sphere.webp": {
+      "sha256": "ea63c602da6189fb7fc40a6c15c63e2e1ffe1e2f10524831ffb99ab42aea104e",
+      "status": "optimized"
+    },
+    "/logo/companies/spindl.webp": {
+      "sha256": "a1547db5f749d3cc074c47a4c51f51f16253af8d569f44cafba6a8f8026b2c7d",
+      "status": "optimized"
+    },
+    "/logo/companies/spruce.webp": {
+      "sha256": "a31882e0b49cfab688090cd80d1e64213309ec75fdb1fe61cec097b1f3ee36ca",
+      "status": "optimized"
+    },
+    "/logo/companies/squads.webp": {
+      "sha256": "62e125ffa865a8da84813efd9efe3690dab866f3401469e743828403fccb509a",
+      "status": "optimized"
+    },
+    "/logo/companies/stacks.webp": {
+      "sha256": "9505855184a2db5239dc5749e8e9e7150b047845f395cfe4f60f3e44c18e6856",
+      "status": "optimized"
+    },
+    "/logo/companies/staking-facilities.webp": {
+      "sha256": "62e125ffa865a8da84813efd9efe3690dab866f3401469e743828403fccb509a",
+      "status": "optimized"
+    },
+    "/logo/companies/stargate-foundation.webp": {
+      "sha256": "0a6ca41b286478692aa9cd6a7c763f63f001bfbe2326dd23935097a923f4475e",
+      "status": "optimized"
+    },
+    "/logo/companies/starknet-foundation.webp": {
+      "sha256": "1abce3504185c0afbd374d127e40af55be29e68540f699de3588460887e9839e",
+      "status": "optimized"
+    },
+    "/logo/companies/starkware.webp": {
+      "sha256": "98988b47389cd151f166d34cb87f0d903625e4448d0c089c33526f85537cde61",
+      "status": "optimized"
+    },
+    "/logo/companies/startale-group.webp": {
+      "sha256": "62b89203572dda1973cde7c2e0e8899b3259329085056d9793bed712eb0eac5f",
+      "status": "optimized"
+    },
+    "/logo/companies/stellar-development-foundation.webp": {
+      "sha256": "cb699e1c185ed044e3296fc5a8694ff502e072b9c78b9b1b0f6dfc277ef7c779",
+      "status": "optimized"
+    },
+    "/logo/companies/stellar.png": {
+      "sha256": "72b44280a4cdd95774afeeaaa8ba201016c4eeb5c169e67cdc14c6a88cedf8c9",
+      "status": "optimized"
+    },
+    "/logo/companies/stellar.webp": {
+      "sha256": "ab9ab3c719fb0a487e7d74d57494e9b0bf089386c469e8066509302e0220fd36",
+      "status": "optimized"
+    },
+    "/logo/companies/straitsx.webp": {
+      "sha256": "34aa79d366e2521a8e3415905774b39bd758643883452ed47c08929e3e051597",
+      "status": "optimized"
+    },
+    "/logo/companies/strike.webp": {
+      "sha256": "1b1b54ca4ca7a88ff5da32d2834456753795a90c5c4cf18a23412b6727fb2dcc",
+      "status": "optimized"
+    },
+    "/logo/companies/stripe.webp": {
+      "sha256": "76d47b99f9767931d330b220a6eb1e56a8507244e33628df0a0573aa034653ca",
+      "status": "optimized"
+    },
+    "/logo/companies/stronghold.webp": {
+      "sha256": "c2f60560579c48b7e0c1ea6a1ec98f808606b5f9fee00f8896e4862356f1a6a4",
+      "status": "optimized"
+    },
+    "/logo/companies/sui-foundation.webp": {
+      "sha256": "c1f794f3021fee2d19f5cf7cc5a8fcfbab5b4ddcbf61609d6075bd5a2ed7484e",
+      "status": "optimized"
+    },
+    "/logo/companies/superstate.webp": {
+      "sha256": "1da3460d49099d3915048474991da291504c8064dd27d6205c87a268a71651ce",
+      "status": "optimized"
+    },
+    "/logo/companies/swissborg.webp": {
+      "sha256": "73e81221282b57b5ddf53daf2f3916821f912f7ef1cd7aa5becbc54806ad0804",
+      "status": "optimized"
+    },
+    "/logo/companies/switchboard.webp": {
+      "sha256": "53568f1bf065a1a3127832f75b2e5829b06ea0bae0535903410a3a7933457586",
+      "status": "optimized"
+    },
+    "/logo/companies/symbiotic.webp": {
+      "sha256": "1175163b7ba04e19cdbd6cf8ce0abfc4c0c3630a659833d4d2e956677fc66e26",
+      "status": "optimized"
+    },
+    "/logo/companies/syndica.webp": {
+      "sha256": "e41b5ba75c3503ff5f17713a99292d3feac3fa9cceda9a3d86fac7f83bdc3936",
+      "status": "optimized"
+    },
+    "/logo/companies/szns.webp": {
+      "sha256": "0082a04a47a7ddeefb0b926c69668d0a880bc8a20767354bf21395a54f8859f9",
+      "status": "optimized"
+    },
+    "/logo/companies/tactic.webp": {
+      "sha256": "5014140af032bab42b788a71ec881237ad065e643e92be95bfd43530c14e936d",
+      "status": "optimized"
+    },
+    "/logo/companies/talos.webp": {
+      "sha256": "a2e6cdf4e78577755d9eecc20e5fa084f091cc62d927782aab6e3c70b2d54841",
+      "status": "optimized"
+    },
+    "/logo/companies/taxbit.webp": {
+      "sha256": "7b231d820d752b5fac30b57d84202dd7176f7718d759d020c05f73e9a86e581b",
+      "status": "optimized"
+    },
+    "/logo/companies/telcoin.webp": {
+      "sha256": "641d8f72d7e0923b105e3605edd7e4db27bb626a8a3d3199f1274227f74cdf62",
+      "status": "optimized"
+    },
+    "/logo/companies/tempo.webp": {
+      "sha256": "7c5c4ce29831d2c8d537d559bd97075c2d872815c8fb8d2877d643bd04de3672",
+      "status": "optimized"
+    },
+    "/logo/companies/tenderly.webp": {
+      "sha256": "c4c5f4dbe3e70201e51f76590516ee7d84be2f2b4ef2ab2777fc7f34e1a9e34c",
+      "status": "optimized"
+    },
+    "/logo/companies/tether.webp": {
+      "sha256": "22c2635dd0d3676d4d9d065f8fc2208ca49c24b4fefb9dcea6e3d44eeb0b12de",
+      "status": "optimized"
+    },
+    "/logo/companies/toku.webp": {
+      "sha256": "822cf0360d6f9e22ede3cad145c0ba4b444072170a9cf0b7451cfe7cf7b22262",
+      "status": "optimized"
+    },
+    "/logo/companies/tools-for-humanity.webp": {
+      "sha256": "e2bf74610e8e9356de1824ce12cb997be3995d46d395b4ddef57eb2117e2cb14",
+      "status": "optimized"
+    },
+    "/logo/companies/trezor.webp": {
+      "sha256": "bec604dd25e72fa9aca4952d92007e5b3d7304ceb8b705ff7f2f5bebe08bc0ec",
+      "status": "optimized"
+    },
+    "/logo/companies/trm-labs.webp": {
+      "sha256": "02c8fd8bb9a3b56aeba8a6813b5a961fd3053eff8e50efcb413749c3d679e01d",
+      "status": "optimized"
+    },
+    "/logo/companies/trojan-trading.webp": {
+      "sha256": "5014140af032bab42b788a71ec881237ad065e643e92be95bfd43530c14e936d",
+      "status": "optimized"
+    },
+    "/logo/companies/trojan.webp": {
+      "sha256": "62e125ffa865a8da84813efd9efe3690dab866f3401469e743828403fccb509a",
+      "status": "optimized"
+    },
+    "/logo/companies/true-anomaly.webp": {
+      "sha256": "5318f97bcdecdbefe126300cb4db9293eaeb74bc1a2e9dee9f76493bbce80e05",
+      "status": "optimized"
+    },
+    "/logo/companies/trust-wallet.png": {
+      "sha256": "106131c8183e241bbfdb907c3a0e82f5ed5ab88fb7e75229304d37b66642d2e6",
+      "status": "optimized"
+    },
+    "/logo/companies/trust-wallet.webp": {
+      "sha256": "cd25436a519cb2fb0479ee73992f21825a84001d9ab057e582642c3ec0880b69",
+      "status": "optimized"
+    },
+    "/logo/companies/trustswap.webp": {
+      "sha256": "2a1efc6e5b467827557534a64746b2c1945a59ac115380b252280d117144f2cc",
+      "status": "optimized"
+    },
+    "/logo/companies/turnkey.webp": {
+      "sha256": "ff2abe4d9e5fd444610eae91fe693c47ecfe20a92240eb51d81f22f0f7e2d01c",
+      "status": "optimized"
+    },
+    "/logo/companies/uma.webp": {
+      "sha256": "c422311cb1f485c3ba5102c085d5eb965ee5312fe08851273910456499456311",
+      "status": "optimized"
+    },
+    "/logo/companies/union.webp": {
+      "sha256": "8e1409cecf09bbda5616f0ed70135a7831c6df909d80f9f00d113f46ee8fe2fe",
+      "status": "optimized"
+    },
+    "/logo/companies/uniswap-labs.webp": {
+      "sha256": "c848734dddcff5971c79b323493ad3dfeafd3ebff5fe6ef96c06e411c0106b35",
+      "status": "optimized"
+    },
+    "/logo/companies/uniswap.webp": {
+      "sha256": "c848734dddcff5971c79b323493ad3dfeafd3ebff5fe6ef96c06e411c0106b35",
+      "status": "optimized"
+    },
+    "/logo/companies/uphold.webp": {
+      "sha256": "3079002cdcb3ac3f27cd58428b3266163866b8cd8695fe825c65f7b10757dcc4",
+      "status": "optimized"
+    },
+    "/logo/companies/validation-cloud.webp": {
+      "sha256": "52b3cec8fc00ec7d101297935b1c46f3c87403711f9f579da958412bc4a37dc2",
+      "status": "optimized"
+    },
+    "/logo/companies/valr.webp": {
+      "sha256": "f1c72ed4528e99d62a729bcc46be045fb6f62c8e854e9632b84369f0128479ef",
+      "status": "optimized"
+    },
+    "/logo/companies/vana.webp": {
+      "sha256": "e6650f2e636ec6990ce8b7cecc23cecfc40790d0a4421a0aa74547908f215444",
+      "status": "optimized"
+    },
+    "/logo/companies/veda.webp": {
+      "sha256": "b1da5aa761fae40095f300fc13192e991d97cd5d90e56092df7e8e8cf781a9c6",
+      "status": "optimized"
+    },
+    "/logo/companies/veem.webp": {
+      "sha256": "e2668f5471af2c6fa76d16d916d242bebabadbf78bc19a0aac920d9e5f0e0399",
+      "status": "optimized"
+    },
+    "/logo/companies/ventuals.webp": {
+      "sha256": "c2307c0bbcffa2d8a87ce9a6bd03fb74e2f1102006344d0e7b6e1cff8671aa70",
+      "status": "optimized"
+    },
+    "/logo/companies/very-ai.webp": {
+      "sha256": "62e125ffa865a8da84813efd9efe3690dab866f3401469e743828403fccb509a",
+      "status": "optimized"
+    },
+    "/logo/companies/walletconnect.webp": {
+      "sha256": "11502b235c8dcd25f26f972c7d34686373ff7b88ef17b5342c60b3dfa774e27d",
+      "status": "optimized"
+    },
+    "/logo/companies/waterfall.webp": {
+      "sha256": "d4bc1660dd07896792eca8acbf1fd4854e2c1d2198b5b853d92dc3113d79dfcd",
+      "status": "optimized"
+    },
+    "/logo/companies/wave-mobile-money.webp": {
+      "sha256": "2a8c13ad0b556a67e7c306354ca5ce213152ef67feda5eb79db748696971da57",
+      "status": "optimized"
+    },
+    "/logo/companies/weex.webp": {
+      "sha256": "feaed43dd39b3c9663899defe5db257c3a3ed44eaf0fd55c9ffba417869bdd39",
+      "status": "optimized"
+    },
+    "/logo/companies/wincent-market-maker.webp": {
+      "sha256": "6a2a7b3c99a9fd960580e0da19c5939d27204ab5f5b4ed2b2bcf681268a621b7",
+      "status": "optimized"
+    },
+    "/logo/companies/wintermute.webp": {
+      "sha256": "bfb25a3ecb48528b9568f4b06f4213c7adb7c1f5340c14055df90a627385f4ee",
+      "status": "optimized"
+    },
+    "/logo/companies/woo-network.webp": {
+      "sha256": "7460305befe095e48275d1f7eceaa244f0a40286c91000c9744e814bf7475c25",
+      "status": "optimized"
+    },
+    "/logo/companies/world-foundation.webp": {
+      "sha256": "2597e8409ce73ceb675397870a5d5f7e68895a6bdaea37aed5db25bf25add4c5",
+      "status": "optimized"
+    },
+    "/logo/companies/world.webp": {
+      "sha256": "2597e8409ce73ceb675397870a5d5f7e68895a6bdaea37aed5db25bf25add4c5",
+      "status": "optimized"
+    },
+    "/logo/companies/xapo-bank.webp": {
+      "sha256": "f51350900f08e5945931dc75ca5dd5d4aa80e63adc6a2d3b8524f12a61109e2a",
+      "status": "optimized"
+    },
+    "/logo/companies/xapo.webp": {
+      "sha256": "f51350900f08e5945931dc75ca5dd5d4aa80e63adc6a2d3b8524f12a61109e2a",
+      "status": "optimized"
+    },
+    "/logo/companies/xt-com-exchange.webp": {
+      "sha256": "fadbf0b93b4dcdf4e0ea7263fca553a21b1a7db364ed918029f8c8cebc9e74a6",
+      "status": "optimized"
+    },
+    "/logo/companies/yeet.webp": {
+      "sha256": "078724b91aadcc3c9ea9d650f2cfb5e213fe78b40f39c5dd4e3562ca2ef4a271",
+      "status": "optimized"
+    },
+    "/logo/companies/yellow-card.webp": {
+      "sha256": "4731e65a6a48d4fb61d7d7405b97cdb21cae02e2a0fd877e3f1d673fe4a4e6f4",
+      "status": "optimized"
+    },
+    "/logo/companies/zama.webp": {
+      "sha256": "1443f2b55913f0427a5a0826e2d51b5961ac966b981c4e750d7824d380f1f4b8",
+      "status": "optimized"
+    },
+    "/logo/companies/zerion.webp": {
+      "sha256": "9750679e5b44e0d08a29e8b9b8641c8a8e54955a4e79ed5ee0cdb7cba72d25da",
+      "status": "optimized"
+    },
+    "/logo/companies/zero-hash.webp": {
+      "sha256": "fa70b1e1ec66e8b11deff4576f7761d1e8b194039defbb475dad8cc2ebb9b294",
+      "status": "optimized"
+    },
+    "/logo/companies/zeta.webp": {
+      "sha256": "4653210ad2ace2e2847bd4597043b0ff6dc00b0451edaff9e014bb03182287ca",
+      "status": "optimized"
+    },
+    "/logo/companies/zetachain.webp": {
+      "sha256": "4f7d3e277024831be7533626a251c8b28fa53df19d4101323e1b37e85b42a5a3",
+      "status": "optimized"
+    },
+    "/logo/glassnode.png": {
+      "sha256": "68e39ad52de2ee7a0a6306ed9854a27f5a07205c158996341c2bc9b10cb20529",
+      "status": "optimized"
+    },
+    "/logo/job/alemx.webp": {
+      "sha256": "bf28b900ad920a1fdb790ed08daf6134da12498570a2ca2c1926a4402bc43e2a",
+      "status": "optimized"
+    },
+    "/logo/job/aligned-layer.webp": {
+      "sha256": "1c06f441e1f265ddc64fe9f460c2f18b6df4143223da83ad7ebb4e398e0fe271",
+      "status": "optimized"
+    },
+    "/logo/job/ante.webp": {
+      "sha256": "91296400a3162f8d942be56d3821c3c5fbe83b244be71206f02cb8d58c042d09",
+      "status": "optimized"
+    },
+    "/logo/job/artemis-analytics.webp": {
+      "sha256": "0a87d0d0c43e13aa614caa48a07b1075713a2e8bcf4a4e5c4aacec3519f469ea",
+      "status": "optimized"
+    },
+    "/logo/job/binance.webp": {
+      "sha256": "ea1d10d3f80e0d88d0dac53e9067def68b9b073c8c2b951cffdec6915c1541d5",
+      "status": "optimized"
+    },
+    "/logo/job/bitget.png": {
+      "sha256": "95a5a867fd769fae790f5f4c4cd3237fb26371ad218fa0affb6ffb6ed325973b",
+      "status": "optimized"
+    },
+    "/logo/job/bitget.webp": {
+      "sha256": "6d299808c2c48e259eb6a8293e30e1018e620329428203a62d5f14876104b2b2",
+      "status": "optimized"
+    },
+    "/logo/job/bitkub.webp": {
+      "sha256": "c09f5a647370a4dcea12496176a3f7ce9ded5ee250db5541d6c67737811a19ba",
+      "status": "optimized"
+    },
+    "/logo/job/bob-build-on-bitcoin.webp": {
+      "sha256": "d768f64dc4a1a20414699dd08f7eff0b6999b5955bb6e076feb050c5e81e783e",
+      "status": "optimized"
+    },
+    "/logo/job/bullish.webp": {
+      "sha256": "38decad5f740ba6889afe25bb5b04fa71b84ae781dfd8eecc720e0bae74a90e8",
+      "status": "optimized"
+    },
+    "/logo/job/circle.webp": {
+      "sha256": "d89ad8049c8565d6d7658f5365694fa9af1d6b43616c3e8117d60780e195b474",
+      "status": "optimized"
+    },
+    "/logo/job/coinbase.webp": {
+      "sha256": "89bfb7569d6c7b49320a543d77f38697b4777205a33c8f3ac05a454945d96a89",
+      "status": "optimized"
+    },
+    "/logo/job/coindesk.webp": {
+      "sha256": "be268743b70bddc376c3a17e6e5f545ca75110071e0dd0e9ee127f34528eb214",
+      "status": "optimized"
+    },
+    "/logo/job/dephy.webp": {
+      "sha256": "158aa18d42609ab120c99807989f86eba4c76c4a495271a30dd3d11dd33b439e",
+      "status": "optimized"
+    },
+    "/logo/job/dydx.webp": {
+      "sha256": "95eaff623e0c937de48b8a9f836696da13d7d5b52794788cfee07e370cd884a6",
+      "status": "optimized"
+    },
+    "/logo/job/fleek.webp": {
+      "sha256": "6f83312150fe7dbe7e2c033bf24225a2a58934ba2342d69c7a472087d0f9d894",
+      "status": "optimized"
+    },
+    "/logo/job/funtoken.webp": {
+      "sha256": "47eee5282d69ca1308cd2377b76ea65a319db3cf71dfb07c99f40af5911e0ad3",
+      "status": "optimized"
+    },
+    "/logo/job/gelato-network.webp": {
+      "sha256": "dd870f084e4311acb4aa7cd2ec07798fd2e8d8a2d3f1cfd2f3916501db153665",
+      "status": "optimized"
+    },
+    "/logo/job/glassnode.png": {
+      "sha256": "68e39ad52de2ee7a0a6306ed9854a27f5a07205c158996341c2bc9b10cb20529",
+      "status": "optimized"
+    },
+    "/logo/job/glassnode.webp": {
+      "sha256": "2352f09f75c0a320819b126f2a3c0c95dce73659cb2beb69cdcc57ad93da8a2c",
+      "status": "optimized"
+    },
+    "/logo/job/impossible-cloud.webp": {
+      "sha256": "bf3aacb4a13a2c865429d54e7ffd7ad03bbc27ced22a215080a4b5c69115da5e",
+      "status": "optimized"
+    },
+    "/logo/job/impossible-finance.webp": {
+      "sha256": "b4d3f2618114a2ce1fef84bc6e832503e0117c0b4bd327fd09d426ede8749a22",
+      "status": "optimized"
+    },
+    "/logo/job/jayatalent.webp": {
+      "sha256": "7dd648031140cd815c40958e1f53600818b2d3ee5bf8e08fa5ddb4e9ec98b590",
+      "status": "optimized"
+    },
+    "/logo/job/kcex.webp": {
+      "sha256": "1456021960788e722bb194fc50562664558552b1d575ff0d64d8099f32f0b11e",
+      "status": "optimized"
+    },
+    "/logo/job/lbank.png": {
+      "sha256": "cdf61feeb46c9ca9c3fbbe1ce978390eb79666966fc98189e8f931d0652e3062",
+      "status": "optimized"
+    },
+    "/logo/job/lbank.webp": {
+      "sha256": "cfecbcb8880d6d1d2eb16b2b1c9db95acb02d91387d19921d7dcac65ec5871b2",
+      "status": "optimized"
+    },
+    "/logo/job/liquidx.webp": {
+      "sha256": "390ce3333d4eb3e85b153ea5f381045c20bfc114be58fdfa48e4fd66b93830c4",
+      "status": "optimized"
+    },
+    "/logo/job/longhash.png": {
+      "sha256": "11aea751120a8124ae14e0535014214c88098f9e269613d685086224600a4ff6",
+      "status": "optimized"
+    },
+    "/logo/job/longhash.webp": {
+      "sha256": "f2ba3e4f3631e59b80ce52f31a754a2f445b2497f0399c1b26765c3a2e1616d5",
+      "status": "optimized"
+    },
+    "/logo/job/marketnode.webp": {
+      "sha256": "1182a4b5306c7181748354fceb153898ed9edaf4cbc0b0435f8f88c12e18f382",
+      "status": "optimized"
+    },
+    "/logo/job/mercuryo.webp": {
+      "sha256": "73ef5c4facc41441627282796d771fd4ac1c4bc0a7a3e7cf4e4d5195e7db6c1b",
+      "status": "optimized"
+    },
+    "/logo/job/navi-protocol.webp": {
+      "sha256": "8c768166bad3541fd4221bbaaa54f60eec09dec60de8b8b3e3f026de2cf45b95",
+      "status": "optimized"
+    },
+    "/logo/job/overmind.webp": {
+      "sha256": "fb018a0e99a15b9bbce93e13cd283a0f54876fc7981fba8b7a96cedb42ee4a44",
+      "status": "optimized"
+    },
+    "/logo/job/peanut.webp": {
+      "sha256": "e8c5baeac7725e5f82b6a84a8bf51ffe23e7fee04f8d2fd46d4d42658bc49a4a",
+      "status": "optimized"
+    },
+    "/logo/job/quantstamp.webp": {
+      "sha256": "c84175ab2ac587d1a971e74873ff426e16b8b4da1a361c4178ac4dc0afdd910c",
+      "status": "optimized"
+    },
+    "/logo/job/rho.png": {
+      "sha256": "3c2f821522a3c5bc9582eaa0eaa6e760b03f974f0bdb5b370b276aef108e1c70",
+      "status": "optimized"
+    },
+    "/logo/job/rho.webp": {
+      "sha256": "c1902942d15b26f908c0806e4311a29fab75b347385111edbf663ac1b9c2b501",
+      "status": "optimized"
+    },
+    "/logo/job/scallop.webp": {
+      "sha256": "bb36e564b7a460de553d8b59d96f4722542e9361587a569a872ec822068fe339",
+      "status": "optimized"
+    },
+    "/logo/job/szns.webp": {
+      "sha256": "0082a04a47a7ddeefb0b926c69668d0a880bc8a20767354bf21395a54f8859f9",
+      "status": "optimized"
+    },
+    "/logo/job/trilitech.webp": {
+      "sha256": "b0bd401fab198bfd72e75cffa5c3ea87044d002ac295012ac08f301b3ec7593f",
+      "status": "optimized"
+    },
+    "/logo/job/truflation.webp": {
+      "sha256": "ce401b25de6eaebd318a1a60d1b6c2c8b0380bb9b6228c30dfa59eb2130dd1e6",
+      "status": "optimized"
+    },
+    "/logo/job/uniswap-labs.webp": {
+      "sha256": "c848734dddcff5971c79b323493ad3dfeafd3ebff5fe6ef96c06e411c0106b35",
+      "status": "optimized"
+    },
+    "/logo/job/vana.webp": {
+      "sha256": "e6650f2e636ec6990ce8b7cecc23cecfc40790d0a4421a0aa74547908f215444",
+      "status": "optimized"
+    },
+    "/logo/job/vn.webp": {
+      "sha256": "14ecc598c412f52098c4efcc2cae7f9f1085f510c6b45d4124dbca303fbc48dd",
+      "status": "optimized"
+    },
+    "/logo/job/watches.webp": {
+      "sha256": "7503e65dc3e824c7b6b1cffa8c355dd604ea3fccfed1ea2839b8271b46608385",
+      "status": "optimized"
+    },
+    "/logo/job/weex.webp": {
+      "sha256": "feaed43dd39b3c9663899defe5db257c3a3ed44eaf0fd55c9ffba417869bdd39",
+      "status": "optimized"
+    },
+    "/logo/job/wincent-market-maker.webp": {
+      "sha256": "6a2a7b3c99a9fd960580e0da19c5939d27204ab5f5b4ed2b2bcf681268a621b7",
+      "status": "optimized"
+    },
+    "/logo/job/xt-com-exchange.webp": {
+      "sha256": "fadbf0b93b4dcdf4e0ea7263fca553a21b1a7db364ed918029f8c8cebc9e74a6",
+      "status": "optimized"
+    },
+    "/logo/job/zeebu.webp": {
+      "sha256": "fc779f8874dacd0b1fbe9bb46f4039c38a417e1a9502cb5e1b1f34b9acd06159",
+      "status": "optimized"
+    },
+    "/logo/job/zerion.webp": {
+      "sha256": "74d9a000ac00b0453dcbd4c58c1f115c9e5c40534b0f37c329b0c581c0867a3d",
+      "status": "optimized"
+    },
+    "/logo/lbank.png": {
+      "sha256": "cdf61feeb46c9ca9c3fbbe1ce978390eb79666966fc98189e8f931d0652e3062",
+      "status": "optimized"
+    },
+    "/logo/media/13b366f03bf16e31432f997be9d974ace71f5483.png": {
+      "sha256": "cda0ab83d13faf193b73e5f997b46c5dac606858ada38f90ef95824ac69cd981",
+      "status": "optimized"
+    },
+    "/logo/media/454f781c4d44411f1cfb964a8e1e6b5768ec883c.png": {
+      "sha256": "669a1ae9b55ab8d3fed69282d8e6da2ead25b9d2b473e42cec609ac5719a3d09",
+      "status": "optimized"
+    },
+    "/logo/media/47a5b11c5f367ffff6d46d4eeff2020ba76b4ec2.png": {
+      "sha256": "849b01d4941b4eaca2e75a05adb7dbeab9fadb3298b9b4078b94063cdc72a906",
+      "status": "optimized"
+    },
+    "/logo/media/543ac1c6ea4d10859ddb62f62a7932d9c3318005.png": {
+      "sha256": "15bd237fb4bae6b71306f50689851fdfefbcdf6f7846b030415cf17262424c99",
+      "status": "optimized"
+    },
+    "/logo/media/ab398280457925b507d0a326afeaa805fcdce44f.png": {
+      "sha256": "ebec80be947f0f7100439f1c2582b5f575c402f050e1f59aaaadec25e126fb7f",
+      "status": "optimized"
+    },
+    "/logo/media/b4b3e299ec3e8ca0006c5da7ae64cb64662bcfc2.png": {
+      "sha256": "17bd142382d8aebcfb196d18eb7c6f44083984b0cd90027471ded87c6a2fee34",
+      "status": "optimized"
+    },
+    "/logo/media/b4be4520b04c9259cf99e85be4be79aa7ac536d6.png": {
+      "sha256": "efbb56951127cba6fb306efd2aed9060f6fa024d38274960e26c7951415c8c74",
+      "status": "optimized"
+    },
+    "/logo/media/da7cff558c507e346c999223832c127a6ea96d5b.png": {
+      "sha256": "611ef681abb76bcf8f77d72ec0791b2891291ce22b93872c8ebe882825051a40",
+      "status": "optimized"
+    },
+    "/logo/media/decc1fcda37e13f7000b974cf66fa5285d7417e0.png": {
+      "sha256": "da96aa36917fb4773aa65834a8bb2158cabae9908cc4b71f88e2c0a410ad7d99",
+      "status": "optimized"
+    },
+    "/logo/media/e156110f2796b1b6bd7db2be08c985b66a7e1308.png": {
+      "sha256": "35e75b8bf8fcd0be79bdba8dcbbf7322dedf235d2f03d75fbd1b12db63f40c87",
+      "status": "optimized"
+    },
+    "/logo/media/e4f8dbfe5586e79cba894b2d15c00a70d3254ea2.png": {
+      "sha256": "f4b4406dcda16b133770f0cd0d323aaf0e104bd5aba4cb64121bff6db15e7956",
+      "status": "optimized"
+    },
+    "/logo/media/e5e35aa3421404362c95a346d0f514d946611f90.png": {
+      "sha256": "a6a60e840a3098ce91983b68bf72a06be8cf8dd939e17fb06ad7fb9925be0c62",
+      "status": "optimized"
+    },
+    "/logo/media/e66de1e638ae92a896922fa50b25417a3ca95aa7.png": {
+      "sha256": "cc34bd2c56388384773c16113553d1470f6a59381352304f605f33c138a50f39",
+      "status": "optimized"
+    },
+    "/logo/media/f430e277178ec58fc097a3078c13028fabf80403.png": {
+      "sha256": "1a3e4113568ecd724376db5a7bebdd21d554805b261f873e6c3496d9e7ff42b8",
+      "status": "optimized"
+    },
+    "/logo/media/f76f8b0b56265c2227186f7cafb3b3a3dfb55437.png": {
+      "sha256": "b359b9af9160052abff422b1042b271ec015ccda55b053b1214d8dbefb9ce75b",
+      "status": "optimized"
+    },
+    "/logo/media/korean.png": {
+      "sha256": "34d0acb9b5287ed23305d5ed545d280dfad1b3b8fa37a4da0733c6ce1aaa447a",
+      "status": "optimized"
+    },
+    "/logo/partners/ETHOxford.webp": {
+      "sha256": "6e5cf975faed1bd925fbe35d25a22700b64ee1cec4e7285673c02253aa5364ba",
+      "status": "optimized"
+    },
+    "/logo/partners/The-Metaverse-Institute-partners-with-Hashtag-Web3.webp": {
+      "sha256": "f01d0778ff9bed982e7299e103d9d8c72c56638ec573c49b3cd7ebcd429abc8c",
+      "status": "optimized"
+    },
+    "/logo/partners/altlayer.webp": {
+      "sha256": "29ef0de887e6cde509ec9e8e068d417e3026d35edd10115f7c9d9ec39a5e7c31",
+      "status": "optimized"
+    },
+    "/logo/partners/basedinlisbon.webp": {
+      "sha256": "5836d302943cdbf3de4fbdd20ceb3bbc5c1c320605989f85ce48afb76d796428",
+      "status": "optimized"
+    },
+    "/logo/partners/bff.webp": {
+      "sha256": "6ab1107e45b1ed7755d41b8189bcb0184ac52a34d3df76258bfc2612366ef1ba",
+      "status": "optimized"
+    },
+    "/logo/partners/coinfest.webp": {
+      "sha256": "f7b4d024cae088841f2302f297070c7265f83e542ebf6336c365a5f28352ad88",
+      "status": "optimized"
+    },
+    "/logo/partners/date.webp": {
+      "sha256": "abfc2b0a68f8fbef474b31923d2d4070f38ce02b46bd0c2be762e3dc6731c440",
+      "status": "optimized"
+    },
+    "/logo/partners/edcon.webp": {
+      "sha256": "a93a6069f67b1a6417ec35c9f0ce7faa57d1ef152a4823a8a81c5939f404970d",
+      "status": "optimized"
+    },
+    "/logo/partners/ethbrussels.webp": {
+      "sha256": "35f28e8cfcbce60509126387eeb9e783d7201bf637157a6dd20a4a37856aa519",
+      "status": "optimized"
+    },
+    "/logo/partners/ethenugu.png": {
+      "sha256": "75cda81ce5c1346733c742125979300892259d62911c0e2e7a45bd8c015dc7dd",
+      "status": "optimized"
+    },
+    "/logo/partners/ethenugu.webp": {
+      "sha256": "17f1cc9252933c2b6364e0cc154e801b52493f944fdac84cf7b884b0f6b352cd",
+      "status": "optimized"
+    },
+    "/logo/partners/ethvietnam.webp": {
+      "sha256": "eb31672021063a18ac440fc9ff29c7a430cc6f0326df9747d415628875a74030",
+      "status": "optimized"
+    },
+    "/logo/partners/harvard.webp": {
+      "sha256": "0402cbace30b43a8b6a19079298b5e8eb778e207f2b0dfcc0c6341ad396efb12",
+      "status": "optimized"
+    },
+    "/logo/partners/ibw.webp": {
+      "sha256": "51bc45bf53b8677c5406c20e33262835f410824fa18330eb792997f0afd8c4fd",
+      "status": "optimized"
+    },
+    "/logo/partners/ieee.webp": {
+      "sha256": "98b21db3599f3102d160c0a57ad08188892ce14bdf4881f907c090ded8bf8f94",
+      "status": "optimized"
+    },
+    "/logo/partners/istanbul.webp": {
+      "sha256": "799c61f283afdc4d919138b579da086751e65976861c63d1da7e6e2bb9d688cd",
+      "status": "optimized"
+    },
+    "/logo/partners/lbs.webp": {
+      "sha256": "abd10d86ffd0ab4aabc597494a4e3fcd222496eca445f8f7f9e2d5cf0f090dc8",
+      "status": "optimized"
+    },
+    "/logo/partners/malaysiablockchainweek.webp": {
+      "sha256": "00e36dc9b44f291ed542f12641931988c32f5a016081216dbf96d7ccc7bb9796",
+      "status": "optimized"
+    },
+    "/logo/partners/obc.webp": {
+      "sha256": "e43e14e09f0bb1ec8487fcc19a40c06c619d1e4389f58029d2183bb440092575",
+      "status": "optimized"
+    },
+    "/logo/partners/onepiece.webp": {
+      "sha256": "d3d7f71c74fad790ad92668d031824ee4949673edaf013e598e7a092609f7bcf",
+      "status": "optimized"
+    },
+    "/logo/partners/pbs.webp": {
+      "sha256": "5d2d20a9147fae48955a47a753d0391c9ee0172196ee1a46dc048463560e9a06",
+      "status": "optimized"
+    },
+    "/logo/partners/taipeiblockchainweek.webp": {
+      "sha256": "1db2270ffa42670a270469cd0e8d92fe89844eae543fcace92b716470c913206",
+      "status": "optimized"
+    },
+    "/logo/partners/token2049.webp": {
+      "sha256": "d34ce79bbcaf9255309eabd6258c571c7bf1cf50b25e55eeb1a3dfdcecfa7dd3",
+      "status": "optimized"
+    },
+    "/logo/partners/wbs.webp": {
+      "sha256": "1335c4ac3341b621376f3a8f660cf085597af92db51865ae6ee3dc2a8d7f30c8",
+      "status": "optimized"
+    },
+    "/logo/previews/hashtag-web3-community.jpeg": {
+      "sha256": "af38eaf07d0c73bba3689274255564fc5f71f134d25a79e2a7a05bda4d572312",
+      "status": "optimized"
+    },
+    "/logo/promo/Super_Hackathon.jpeg": {
+      "sha256": "50c66c78707429c932188a75a95e91cd9680d8625a9f2385ea8a941946907574",
+      "status": "optimized"
+    },
+    "/og-companies.png": {
+      "sha256": "9c5299e29173999c1967e8c9369e70383262d7bc9414eaf4a8f71edeb3357807",
+      "status": "optimized"
+    },
+    "/og-events.jpg": {
+      "sha256": "2b89923cdda342428c2e1546f56ee5906e93e30395c29b7ebe8481fc6eab5e82",
+      "status": "optimized"
+    },
+    "/og-image.png": {
+      "sha256": "f577b89d874b43923cf535e3857b61dddc029e4973dc0965b561d357170547e0",
+      "status": "optimized"
+    }
+  }
+}
