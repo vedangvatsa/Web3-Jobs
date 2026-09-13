@@ -1,6 +1,6 @@
 'use client';
 
-import { Suspense } from 'react';
+import { Suspense, useEffect, useState } from 'react';
 import { BlogPageClient } from './blog-page-client';
 import type { Article } from '@/types';
 import { Skeleton } from '@/components/ui/skeleton';
@@ -24,9 +24,30 @@ function BlogPageClientSkeleton() {
 }
 
 export function BlogPageClientWrapper({ allArticles, categories }: { allArticles: Omit<Article, 'content'>[], categories: string[] }) {
+ const [articleIndex, setArticleIndex] = useState(allArticles);
+
+ useEffect(() => {
+  const loadArticles = () => {
+   void fetch('/api/articles?limit=1000', { headers: { Accept: 'application/json' } })
+    .then((response) => response.ok ? response.json() : null)
+    .then((result: { data?: Omit<Article, 'content'>[] } | null) => {
+     if (result?.data) setArticleIndex(result.data);
+    })
+    .catch(() => undefined);
+  };
+
+  if (document.readyState === 'complete') {
+   loadArticles();
+   return;
+  }
+
+  window.addEventListener('load', loadArticles, { once: true });
+  return () => window.removeEventListener('load', loadArticles);
+ }, []);
+
  return (
   <Suspense fallback={<BlogPageClientSkeleton />}>
-   <BlogPageClient allArticles={allArticles} categories={categories} />
+    <BlogPageClient allArticles={articleIndex} categories={categories} />
   </Suspense>
  );
 }

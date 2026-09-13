@@ -11,7 +11,7 @@ import { PageHeader } from "@/components/page-header";
 import { SITE_STATS } from '@/lib/constants';
 import { PageShell } from '@/components/page-shell';
 
-const JOBS_PER_PAGE = 50;
+const JOBS_PER_PAGE = 12;
 
 export const revalidate = 300; // Revalidate every 5 minutes (ISR)
 

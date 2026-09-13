@@ -3,6 +3,8 @@ import { BlogPageClientWrapper } from '@/components/blog-page-client-wrapper';
 import type { Metadata } from 'next';
 import type { CollectionPage, WithContext } from 'schema-dts';
 
+const INITIAL_ARTICLE_COUNT = 24;
+
 export const metadata: Metadata = {
  title: 'Web3 Career Playbook',
  description: 'Actionable guides to land a job in Web3. Read deep-dives on blockchain developer resumes, salary negotiation, smart contract interview prep, and tech guides.',
@@ -52,7 +54,7 @@ export default async function PlaybookIndexPage() {
    <div className="flex flex-col min-h-screen">
         <main className="flex-1">
      <div className="bg-background">
-      <BlogPageClientWrapper allArticles={allArticles} categories={categories} />
+       <BlogPageClientWrapper allArticles={allArticles.slice(0, INITIAL_ARTICLE_COUNT)} categories={categories} />
      </div>
     </main>
    </div>

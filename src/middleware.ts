@@ -266,7 +266,7 @@ export function middleware(request: NextRequest) {
     return NextResponse.rewrite(rewrite);
   }
 
-  // 3. Bot UA or Accept: text/markdown → serve markdown or agent view
+   // 3. Bot UA or Accept: text/markdown → serve a known Markdown resource.
   const ua = request.headers.get('user-agent') || '';
   const isAIBot = AI_BOT_UA_PATTERNS.some((pattern) => ua.includes(pattern));
   const acceptHeader = request.headers.get('accept') || '';
@@ -294,14 +294,6 @@ export function middleware(request: NextRequest) {
     if (KNOWN_MD_PATHS.has(candidateMdPath)) {
       const rewrite = request.nextUrl.clone();
       rewrite.pathname = candidateMdPath;
-      rewrite.search = '';
-      const response = NextResponse.rewrite(rewrite);
-      response.headers.set('Vary', 'Accept, Accept-Encoding, User-Agent');
-      return response;
-    } else if (isAIBot || prefersMarkdown) {
-      // For paths without a specific static .md file, rewrite to agent-view so bots get structured content rather than 404
-      const rewrite = request.nextUrl.clone();
-      rewrite.pathname = '/api/agent-view';
       rewrite.search = '';
       const response = NextResponse.rewrite(rewrite);
       response.headers.set('Vary', 'Accept, Accept-Encoding, User-Agent');

@@ -10,12 +10,15 @@ export async function GET() {
       last_updated: '2026-09-09',
       description: 'Hashtag Web3 is the premier Web3 job board, blockchain career resource platform, and decentralized talent intelligence network.',
       documentation: 'https://hashtagweb3.com/developers',
+      agent_mode: 'https://hashtagweb3.com/?mode=agent',
       openapi: 'https://hashtagweb3.com/openapi.json',
       llms_txt: 'https://hashtagweb3.com/llms.txt',
       agents_txt: 'https://hashtagweb3.com/agents.txt',
       terms_of_use: 'https://hashtagweb3.com/terms-of-use.md',
       agent_instructions: 'https://hashtagweb3.com/agent-instructions.md',
       auth_guide: 'https://hashtagweb3.com/auth.md',
+      repository: 'https://github.com/vedangvatsa/Web3-Jobs',
+      agent_plugin: 'https://hashtagweb3.com/plugin.json',
       
       authentication: {
         type: 'zero-auth',

@@ -82,6 +82,7 @@ function formatEventDate(startDate: string, endDate: string) {
 }
 
 export function EventsBoard({ initialEvents }: { initialEvents: PublicWeb3Event[] }) {
+  const [events, setEvents] = useState(initialEvents);
   const [searchQuery, setSearchQuery] = useState('');
   const [countryFilter, setCountryFilter] = useState<string | null>(null);
   const [dateFilter, setDateFilter] = useState<string | null>(null);
@@ -90,17 +91,17 @@ export function EventsBoard({ initialEvents }: { initialEvents: PublicWeb3Event[
 
   const countries = useMemo(() => {
     const set = new Set<string>();
-    initialEvents.forEach(e => {
+    events.forEach(e => {
       if (e.country) set.add(normalizeCountry(e.country));
       else if (e.location === 'Online' || e.location?.toLowerCase().includes('online')) set.add('Online');
     });
     return Array.from(set).sort();
-  }, [initialEvents]);
+  }, [events]);
 
   const filteredEvents = useMemo(() => {
     const now = new Date();
-    if (!Array.isArray(initialEvents)) return [];
-    return initialEvents.filter(event => {
+    if (!Array.isArray(events)) return [];
+    return events.filter(event => {
       if (!event || typeof event !== 'object') return false;
 
       // Exclude past events safely
@@ -157,7 +158,7 @@ export function EventsBoard({ initialEvents }: { initialEvents: PublicWeb3Event[
 
       return matchesSearch && matchesCountry && matchesDate;
     });
-  }, [initialEvents, searchQuery, countryFilter, dateFilter]);
+  }, [events, searchQuery, countryFilter, dateFilter]);
 
   const isSearching = searchQuery.length > 0 || Boolean(countryFilter) || Boolean(dateFilter);
   const visibleEvents = isSearching ? filteredEvents : filteredEvents.slice(0, visibleCount);
@@ -232,6 +233,38 @@ export function EventsBoard({ initialEvents }: { initialEvents: PublicWeb3Event[
   }, [hasMore, filteredEvents.length, viewMode]);
 
   const [selectedDateEvents, setSelectedDateEvents] = useState<{ date: Date; events: PublicWeb3Event[] } | null>(null);
+
+  useEffect(() => {
+    const loadRemainingEvents = async () => {
+      let offset = initialEvents.length;
+      let allEvents = initialEvents;
+
+      while (true) {
+        const response = await fetch(`/api/events?limit=200&offset=${offset}`, {
+          headers: { Accept: 'application/json' },
+        });
+        if (!response.ok) return;
+
+        const result = await response.json() as { data?: PublicWeb3Event[]; meta?: { total?: number } };
+        const nextEvents = result.data || [];
+        if (nextEvents.length === 0) return;
+
+        allEvents = [...allEvents, ...nextEvents];
+        setEvents(allEvents);
+        offset = allEvents.length;
+        if (offset >= (result.meta?.total || 0)) return;
+      }
+    };
+
+    if (document.readyState === 'complete') {
+      void loadRemainingEvents();
+      return;
+    }
+
+    const onLoad = () => void loadRemainingEvents();
+    window.addEventListener('load', onLoad, { once: true });
+    return () => window.removeEventListener('load', onLoad);
+  }, [initialEvents]);
 
   return (
     <div>

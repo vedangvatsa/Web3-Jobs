@@ -15,8 +15,10 @@ export async function GET(request: NextRequest) {
     const type = searchParams.get('type') || '';
     const country = searchParams.get('country') || '';
     const limitRaw = searchParams.get('limit');
+    const offsetRaw = searchParams.get('offset');
 
     let limit = 50;
+    let offset = 0;
 
     if (limitRaw !== null) {
       limit = parseInt(limitRaw, 10);
@@ -34,6 +36,23 @@ export async function GET(request: NextRequest) {
             status: 400,
             headers: getStandardApiHeaders(),
           }
+        );
+      }
+    }
+
+    if (offsetRaw !== null) {
+      offset = parseInt(offsetRaw, 10);
+      if (isNaN(offset) || offset < 0) {
+        return NextResponse.json(
+          {
+            error: {
+              code: 'BAD_REQUEST',
+              message: 'Invalid query parameter offset. It must be a non-negative integer.',
+              hint: 'Provide a valid offset parameter such as ?offset=50. See docs at https://hashtagweb3.com/developers',
+              docUrl: 'https://hashtagweb3.com/developers',
+            },
+          },
+          { status: 400, headers: getStandardApiHeaders() }
         );
       }
     }
@@ -64,7 +83,7 @@ export async function GET(request: NextRequest) {
       filtered = filtered.filter((e) => (e.country || '').toLowerCase().includes(c));
     }
 
-    const paginated = filtered.slice(0, limit);
+    const paginated = filtered.slice(offset, offset + limit);
 
     return NextResponse.json(
       {
@@ -72,13 +91,14 @@ export async function GET(request: NextRequest) {
         meta: {
           total: filtered.length,
           count: paginated.length,
+          offset,
         },
       },
       {
         status: 200,
         headers: {
           ...getStandardApiHeaders(),
-          'Cache-Control': 'no-store',
+          'Cache-Control': 'public, max-age=60, s-maxage=300, stale-while-revalidate=86400',
           'Vary': 'Accept-Encoding, Accept',
         },
       }
