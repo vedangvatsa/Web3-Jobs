@@ -29,8 +29,7 @@ export const metadata: Metadata = {
   },
 };
 
-// Date-sensitive listings must be rendered from the current cache on every request.
-export const dynamic = 'force-dynamic';
+export const revalidate = 300;
 
 export default async function EventsPage() {
   const events = await getEvents();
