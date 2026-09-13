@@ -16,11 +16,7 @@ The allure of working remotely while traveling to exotic locations has inspired 
 A important first step is to establish a career that allows you to work entirely online. Consider the following fields, which are particularly conducive to remote work:
 
 | Career Field | Description |
-|
-
----------------------------------|
-
----------------------------------------------------------------------------|
+| --- | --- |
 | Software Development | Programmers can write code and debug applications from anywhere with internet access. |
 | Freelance Writing and Editing | Content creators can produce articles, blogs, and other written materials remotely. |
 | Graphic Design | Designers can create visuals and marketing materials using design software. |

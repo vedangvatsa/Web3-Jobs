@@ -19,13 +19,7 @@ To thrive in this environment, digital nomads must understand several key concep
 The traditional financial system often presents challenges for those who travel frequently. Slow international transfers, high fees, and dependence on physical banks can hinder a digital nomad's experience. Cryptocurrency addresses many of these issues effectively.
 
 | Advantage | Traditional Finance | Cryptocurrency |
-|
-
--------------------------|
-
--------------------------------------------|
-
----------------------------------------|
+| --- | --- | --- |
 | Accessibility | Requires bank approval and physical presence | Global access, no permission needed |
 | Transaction Fees | Often high per wire transfer | Often less than $1 |
 | Speed | Can take several business days | Near-instantaneous |

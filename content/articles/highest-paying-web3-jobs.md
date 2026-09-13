@@ -66,13 +66,7 @@ Quantitative researchers model the financial risks and incentives associated wit
 - In-depth knowledge of financial modeling and blockchain data analysis
 
 | Role | Base Salary Range | Key Skills Required |
-|
-
------------------------------------|
-
---------------------------|
-
----------------------------------------------------------|
+| --- | --- | --- |
 | Smart Contract Security Auditor | Significant compensation | Solidity, EVM, vulnerability analysis |
 | Protocol Engineer | Significant compensation | Rust/Go, distributed systems, cryptography |
 | Zero-Knowledge Proof Engineer | Significant compensation | Mathematics, Circom/Cairo, Rust/C++ |

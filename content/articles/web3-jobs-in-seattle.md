@@ -18,11 +18,7 @@ The city's Web3 environment reflects an engineering-driven culture influenced by
 Seattle's Web3 scene thrives on its core industries: cloud computing and gaming.
 
 | Industry | Key Players and Contributions |
-|
-
-------------------------------|
-
---------------------------------------------------------------|
+| --- | --- |
 | **Cloud Computing** | Home to Amazon Web Services (AWS) and Microsoft Azure, Seattle hosts a significant concentration of cloud engineers. These professionals possess the skills necessary for developing complex backend systems required by Web3 protocols, including node management and Layer 2 scaling solutions. |
 | **Gaming** | With major companies like Nintendo of America and Valve, Seattle is a central hub for the video game industry. This ecosystem includes game developers, designers, and artists who are now venturing into Web3 gaming and [NFTs](/what-are-nfts). |
 | **Corporate Blockchain Adoption** | Companies such as Microsoft and Starbucks are actively exploring enterprise [blockchain](/what-is-a-blockchain) applications and NFT-based loyalty programs, enhancing the Web3 sector. |
@@ -33,13 +29,7 @@ Seattle's Web3 scene thrives on its core industries: cloud computing and gaming.
 Seattle's competitive job market for technical talent offers salaries comparable to other major technology hubs in the U.S. The demand for engineers skilled in distributed systems and gaming is particularly pronounced.
 
 | Role | Experience Level | Salary Range |
-|
-
----------------------------------------|
-
------------------------|
-
------------------------------|
+| --- | --- | --- |
 | **Infrastructure / Backend Engineer** | Mid-Level (3-5 years) | Competitive |
 | | Senior (5+ years) | Competitive |
 | **Game Developer** | Senior | Competitive |
@@ -65,11 +55,7 @@ Seattle offers a wealth of opportunities for technical professionals. The city c
 ### Salary Guide: Web3 Jobs in Seattle
 
 | Role | Salary Range |
-|
-
----------------------------------------|
-
-------------------------------------|
+| --- | --- |
 | **Infrastructure Engineer** | Competitive |
 | **Backend Developer** | Competitive |
 | **Game Developer** | Competitive |

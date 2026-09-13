@@ -30,11 +30,7 @@ Replace the traditional "Objective" statement with a "Professional Summary" or "
 Incorporating numbers into your resume significantly strengthens your claims. Numbers provide tangible proof of your contributions. Review each bullet point in your work experience and identify opportunities to quantify your accomplishments.
 
 | Original Statement | Enhanced Statement |
-|
-
-----------------------------------------------|
-
--------------------------------------------------------------|
+| --- | --- |
 | Managed a team of software engineers. | Managed a team of 8 software engineers, boosting productivity through a new agile workflow. |
 | Wrote blog posts for the company blog. | Authored over 50 blog posts, with one article becoming the most-read piece, garnering significant views. |
 

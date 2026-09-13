@@ -84,13 +84,7 @@ A common misconception is that The Merge lowered gas fees or made transactions m
 ### Key differences at a glance
 
 | Feature | Proof-of-Work (PoW) | Proof-of-Stake (PoS) |
-| 
-
---- | 
-
---- | 
-
---- |
+| --- | --- | --- |
 | How the next author is chosen | Competitive puzzle solving. Miners race to find a nonce that yields a hash below target | Pseudo-random selection weighted by staked ETH using RANDAO, fixed two epochs ahead |
 | Participants | Miners with hash power | Validators with locked stake |
 | What secures the chain | Cost of hardware and energy. Attack needs more than 50 percent of hash rate | Cost of staked capital that can be burned. Attack needs more than 33 percent to stall finality, more than 51 percent to control contents, more than 66 percent to revert a finalized block |

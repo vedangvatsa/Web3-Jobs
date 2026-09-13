@@ -30,15 +30,7 @@ Rabat's Web3 ecosystem thrives due to its proximity to decision-makers and its s
 Rabat's job market shows a strong demand for professionals with expertise in technology policy, public sector consulting, and research-oriented engineering.
 
 | Role | Description | Experience Level | Salary Range |
-|
-
-------|
-
--------------|
-
-------------------|
-
--------------------------|
+| --- | --- | --- | --- |
 | Legal & Policy Officer (Digital Assets) | Advise government, banks, and corporations on regulatory matters | Experienced | Competitive |
 | Blockchain Researcher / R&D Engineer | Work in university labs, government centers, or corporate R&D departments | Mid-Level to Senior | Competitive |
 | GovTech Product Manager | Manage technology projects for public sector clients, focusing on government requirements | Senior | Competitive |
@@ -152,27 +144,27 @@ Rabat's job market shows a strong demand for professionals with expertise in tec
 
 **Challenge 1: Slow Policy Progress**
 
-- Reality:**Government decisions often take time to solidify.
+- **Reality:**Government decisions often take time to solidify.
 - **Solution:** Be patient. Those who understand bureaucratic processes hold a rare advantage. Specialize in managing government timelines.
 
 **Challenge 2: Limited Local Industry**
 
-- Reality:**Morocco's crypto sector is still developing.
+- **Reality:**Morocco's crypto sector is still developing.
 - **Solution:** Target policy or R&D roles that align with Rabat's strengths. These positions tend to offer competitive salaries.
 
 **Challenge 3: Language Barriers**
 
-- Reality:**Proficiency in French and Arabic is essential; English is secondary in governmental contexts.
+- **Reality:**Proficiency in French and Arabic is essential; English is secondary in governmental contexts.
 - **Solution:** If not fluent, prioritize learning French. Mastery of Arabic, French, and English can significantly enhance your marketability.
 
 **Challenge 4: Regulatory Uncertainty**
 
-- Reality:**The future of crypto regulation in Morocco remains unclear.
+- **Reality:**The future of crypto regulation in Morocco remains unclear.
 - **Solution:** Develop expertise in the nuances of this uncertainty. Your insights will be invaluable once policies are clarified.
 
 **Challenge 5: Talent Drain to Europe**
 
-- Reality:**Many skilled Moroccans relocate to other countries.
+- **Reality:**Many skilled Moroccans relocate to other countries.
 - **Solution:** Focus on government roles that cannot be performed remotely. Build influence and wealth within Morocco first.
 
 ## 90-Day Quick-Start Action Plan

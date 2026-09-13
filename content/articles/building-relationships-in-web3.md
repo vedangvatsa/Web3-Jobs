@@ -185,15 +185,7 @@ Avoiding certain mistakes can significantly enhance your networking efforts:
 Keeping records can help maintain your network:
 
 | Contact Name | Context | Last Contact Date | Interests/Goals |
-|
-
---------------|
-
----------|
-
-------------------|
-
-------------------|
+| --- | --- | --- | --- |
 | Jane Doe | Mentor | 2023-04-15 | Blockchain tech |
 | John Smith | Peer | 2023-03-10 | DeFi projects |
 | Alice Brown | Community| 2023-05-01 | NFT art |

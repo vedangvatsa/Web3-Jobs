@@ -24,14 +24,9 @@ In contrast, Dorsey champions "Web5: The Decentralized Web Platform," announced 
 The main components of Web5 are:
 
 | Component | Description |
-|
-
------------------------------------|
-
--------------------------------------------------------------------------------------------------|
+| --- | --- |
 | **Decentralized Identifiers (DIDs)** | Self-owned digital identities independent from corporations or third parties. |
 | **Decentralized Web Nodes (DWNs)** | Personal data stores that manage both public and encrypted data, granting users access control. |
-|
 
 **Bitcoin as the Trust Anchor** | The Bitcoin [blockchain](/what-is-a-blockchain) serves as a secure public key infrastructure. |
 

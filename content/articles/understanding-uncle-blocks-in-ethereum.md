@@ -21,11 +21,7 @@ This article explores the nature of Uncle blocks, the issues they resolved, thei
 ### Key Insights
 
 | Insight | Description |
-|
-
------------------------|
-
----------------------------------------------------------------------------------------------|
+| --- | --- |
 | **Core Concept** | An Uncle block is a valid but stale block included by a canonical block for a partial reward. |
 | **Problem Solved** | Uncles mitigated centralization pressure caused by network latency, benefiting smaller miners. |
 | **Mechanism** | A canonical block could reference up to two Uncle blocks, rewarding both the Uncle's miner and the including miner. |

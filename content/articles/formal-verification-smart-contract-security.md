@@ -26,13 +26,7 @@ Formal verification uses mathematical logic to assert properties about code. Unl
 ### Comparison of Verification Methods
 
 | Method | Approach | Limitations |
-|
-
----------------------------|
-
-----------------------------------------------|
-
---------------------------------------------------------------|
+| --- | --- | --- |
 | **Traditional Testing** | Runs specific test cases to check code | Cannot test every possible input or edge case |
 | **Formal Verification** | Uses mathematical specifications to validate | Requires clear specifications; cannot identify business logic flaws |
 
@@ -91,13 +85,7 @@ Several prominent tools enable formal verification:
 These methods complement one another rather than compete.
 
 | Approach | Strengths | Limitations |
-|
-
-------------------------|
-
-----------------------------------------------|
-
----------------------------------------------------------------|
+| --- | --- | --- |
 | **Security Audits** | Manual review by security experts | May miss certain bugs; relies on human oversight |
 | **Testing and Fuzzing** | Extensively tests scenarios | Cannot guarantee bug absence in untested scenarios |
 | **Formal Verification** | Proves specific mathematical properties | Cannot identify business logic flaws; requires clear specs |

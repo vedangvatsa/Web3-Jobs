@@ -33,11 +33,7 @@ Before setting up a meeting, evaluate whether the objectives can be achieved asy
 An agenda is important for a productive meeting. 
 
 | Agenda Element | Description |
-|
-
-----------------|
-
--------------|
+| --- | --- |
 | **Goal** | Start with a concise, one-sentence goal outlining the desired outcome of the meeting. |
 | **Discussion Topics** | Frame agenda items as questions. This shifts the focus to actionable outcomes rather than mere topics. Examples: <br> - Bad: "Q3 Marketing Plan" <br> - Good: "Should we allocate the Q3 marketing budget to paid ads or content marketing?" |
 | **Time Allocation** | Assign a specific time for each agenda item to maintain pace. |

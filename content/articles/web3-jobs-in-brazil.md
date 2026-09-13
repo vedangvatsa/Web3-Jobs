@@ -31,13 +31,7 @@ Brazil's crypto environment is notable for its vast scale and practical utility.
 The demand for skilled Web3 professionals in Brazil is substantial, leading to competitive salaries that frequently surpass those in the traditional tech sector. While absolute salaries may be lower than in North America, the purchasing power within the local economy remains strong.
 
 | Role | Mid-Level Salary (BRL/month) | Senior Salary (BRL/month) |
-|
-
-------|
-
--------------------------------|
-
----------------------------|
+| --- | --- | --- |
 | Smart Contract Developer ([Solidity](/best-programming-languages-for-blockchain-development)/Rust) | R$15,000 - R$25,000 | R$25,000 - R$40,000+ |
 | Frontend/Full-Stack Web3 Engineer | R$12,000 - R$20,000 | R$20,000 - R$35,000+ |
 | Product Manager | R$18,000 - R$30,000+ | N/A |

@@ -155,13 +155,7 @@ Also verify the job itself. Ask for: a sample week calendar, the number of activ
 ## Agency vs. in-house at a glance
 
 | Aspect | Agency | In-house |
-| 
-
---- | 
-
---- | 
-
---- |
+| --- | --- | --- |
 | Client focus | Multiple clients, varied projects | Single brand or product |
 | How work is planned | Project scopes and retainers, billable hours | Roadmap and quarterly goals |
 | Typical scope | Wider, shallower per client | Narrower, deeper over time |

@@ -56,13 +56,7 @@ Web3 applications are inherently global, accessible to anyone with an internet c
 Web3 provides the framework for a decentralized internet, while cryptocurrency delivers the economic mechanisms that sustain it.
 
 | Aspect | Web3 | Cryptocurrency |
-|
-
-------------------------|
-
------------------------------------------------|
-
------------------------------------------|
+| --- | --- | --- |
 | Infrastructure | Decentralized networks (blockchain) | Native currency |
 | Security | Distributed consensus among validators | Incentives for participation |
 | Programmable Logic | Smart contracts | Value representation |

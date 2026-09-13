@@ -61,7 +61,9 @@ EIP-4844 is Proto-Danksharding. Before it, more than 90 percent of rollup cost c
 
 ## Optimistic rollups: assume valid, prove fraud if needed
 
-Optimistic rollups assume a batch is valid unless someone proves it is not. This is often called innocent until proven guilty.**Live examples:** Arbitrum One, OP Mainnet, and Base. Base is built on the OP Stack, the same open framework that powers OP Mainnet.
+Optimistic rollups assume a batch is valid unless someone proves it is not. This is often called innocent until proven guilty.
+
+**Live examples:** Arbitrum One, OP Mainnet, and Base. Base is built on the OP Stack, the same open framework that powers OP Mainnet.
 
 ### How they run
 
@@ -88,7 +90,9 @@ A single sequencer orders transactions today on most optimistic rollups. If it c
 
 ## ZK-rollups: prove valid before accepting
 
-ZK-rollups prove validity up front with cryptography. This is often called guilty until proven valid.**Live examples:** zkSync Era by Matter Labs, Starknet by StarkWare, Polygon zkEVM, Scroll, Taiko, and Linea by Consensys. They sit at different points on the zkEVM spectrum. Taiko aims for full Ethereum equivalence, others trade exact equivalence for easier proving.
+ZK-rollups prove validity up front with cryptography. This is often called guilty until proven valid.
+
+**Live examples:** zkSync Era by Matter Labs, Starknet by StarkWare, Polygon zkEVM, Scroll, Taiko, and Linea by Consensys. They sit at different points on the zkEVM spectrum. Taiko aims for full Ethereum equivalence, others trade exact equivalence for easier proving.
 
 ### How they run
 
@@ -124,13 +128,7 @@ For recent network-level fees, Ethereum.org points to its networks page. As of l
 ## Pros and cons at a glance
 
 | Feature | Optimistic rollups | ZK-rollups |
-| 
-
---- | 
-
---- | 
-
---- |
+| --- | --- | --- |
 | Validation method | Fraud proofs during a challenge window. State accepted unless a valid challenge proves fraud. | Validity proofs verified on L1 before state is accepted. |
 | Challenge period | Yes. Typically about 7 days on OP Stack chains, 6.4 days on Arbitrum One. | No challenge period. Finality follows proof verification and L1 confirmation. |
 | Withdrawal through the canonical bridge | About 7 days. Fast liquidity bridges exist but charge a fee and add their own trust assumptions. | No 7 day wait. You still wait for batch inclusion, proof generation, and L1 confirmation, often minutes to a few hours. |

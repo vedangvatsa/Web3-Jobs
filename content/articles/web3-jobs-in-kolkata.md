@@ -30,11 +30,7 @@ The Web3 environment in Kolkata is still developing, characterized by a strong c
 Kolkata's job market is particularly strong for non-technical positions, especially those focused on community and marketing. Although technical roles are less prevalent, the demand for remote developers is increasing.
 
 | Role | Salary Range (Annual) |
-|
-
--------------------------------|
-
---------------------------------|
+| --- | --- |
 | Community Manager (Bilingual) | ₹12,00,000 - ₹25,00,000 ($14,000 - $30,000 USD) |
 | Content Writer/Strategist | ₹12,00,000 - ₹25,00,000 ($14,000 - $30,000 USD) |
 | Social Media Manager | ₹12,00,000 - ₹25,00,000 ($14,000 - $30,000 USD) |
@@ -43,7 +39,7 @@ Kolkata's job market is particularly strong for non-technical positions, especia
 - **Community Manager (Bengali & English speaking):** This role showcases Kolkata's local talent. 
 - **Content & Marketing Roles:**
 
-- Content Writer/Strategist:**₹12,00,000 - ₹35,00,000 per annum
+- **Content Writer/Strategist:**₹12,00,000 - ₹35,00,000 per annum
  - **Social Media Manager:** ₹12,00,000 - ₹35,00,000 per annum
 - **Web3 Developer (Remote):** Although local job openings are limited, many developers based in Kolkata work remotely.
  - **Mid-Level (Remote):** ₹12,00,000 - ₹35,00,000 per annum

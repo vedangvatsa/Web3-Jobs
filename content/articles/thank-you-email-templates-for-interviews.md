@@ -106,11 +106,7 @@ Regardless of which template you choose, personalization is vital. Generic, copy
 ### Best Practices for Thank-You Emails
 
 | Best Practice | Details |
-|
-
------------------------------------|
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| --- | --- |
 | Send Promptly | Aim to send your thank-you email within 24 hours of your interview to show enthusiasm and professionalism. |
 | Personalize Content | Include specific references to your conversation, such as topics discussed or questions asked, to demonstrate engagement and attentiveness. |
 | Maintain Professional Tone | Keep your language formal but friendly, focusing on clarity and respect throughout your email. |

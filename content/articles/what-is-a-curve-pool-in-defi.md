@@ -29,29 +29,17 @@ Today, Curve pools form the foundational liquidity backbone of decentralized fin
 |                        THE AMM INVARIANT SPECTRUM                                 |
 +-----------------------------------------------------------------------------------+
 |  1. Constant Sum: x + y = D                                                       |
-|     
-
-- Absolute Zero Slippage at all trading volumes                               |
-|     
-
-- Fatal Flaw: If market price deviates, pool completely drains of one asset  |
+| - Absolute Zero Slippage at all trading volumes                               |
+| - Fatal Flaw: If market price deviates, pool completely drains of one asset  |
 |                                                                                   |
 |  2. Constant Product: x * y = k (Uniswap v2)                                      |
-|     
-
-- Infinite Liquidity along (0, \infty); pool can never be drained entirely    |
-|     
-
-- Fatal Flaw: High slippage; highly inefficient for 1:1 pegged stable assets  |
+| - Infinite Liquidity along (0, \infty); pool can never be drained entirely    |
+| - Fatal Flaw: High slippage; highly inefficient for 1:1 pegged stable assets  |
 |                                                                                   |
 |  =========================== THE CURVE SYNTHESIS ===============================  |
 |  3. StableSwap Hybrid Invariant:                                                  |
-|     
-
-- Behaves like Constant Sum within normal 1:1 price peg band (Zero Slippage)  |
-|     
-
-- Dynamically shifts toward Constant Product at extremes to prevent drain     |
+| - Behaves like Constant Sum within normal 1:1 price peg band (Zero Slippage)  |
+| - Dynamically shifts toward Constant Product at extremes to prevent drain     |
 +-----------------------------------------------------------------------------------+
 ```
 
@@ -132,29 +120,15 @@ The most celebrated implementation of the StableSwap invariant is the **Curve 3p
 |                            THE CURVE 3POOL ARCHITECTURE                         |
 +---------------------------------------------------------------------------------+
 |  Collateral Reserves:                                                           |
-|  
-
-- DAI  (18 decimals) -> Normalized to 18 decimals                              |
-|  
-
-- USDC (6 decimals)  -> Scaled by 10^12 to 18 decimals                         |
-|  
-
-- USDT (6 decimals)  -> Scaled by 10^12 to 18 decimals                         |
+| - DAI  (18 decimals) -> Normalized to 18 decimals                              |
+| - USDC (6 decimals)  -> Scaled by 10^12 to 18 decimals                         |
+| - USDT (6 decimals)  -> Scaled by 10^12 to 18 decimals                         |
 |                                                                                 |
 |  Operational Characteristics:                                                   |
-|  
-
-- Invariant Total Volume: D ~ $300,000,000                                    |
-|  
-
-- Amplification Coefficient: A = 2,000                                         |
-|  
-
-- Base Swap Fee: 0.04% (0.02% to LPs, 0.02% to veCRV holders)                  |
-|  
-
-- LP Receipt Token: 3Crv ([ERC-20](https://eips.ethereum.org/EIPS/eip-20) yielding trading fees + CRV rewards)          |
+| - Invariant Total Volume: D ~ $300,000,000                                    |
+| - Amplification Coefficient: A = 2,000                                         |
+| - Base Swap Fee: 0.04% (0.02% to LPs, 0.02% to veCRV holders)                  |
+| - LP Receipt Token: 3Crv ([ERC-20](https://eips.ethereum.org/EIPS/eip-20) yielding trading fees + CRV rewards)          |
 +---------------------------------------------------------------------------------+
 ```
 

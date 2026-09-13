@@ -16,13 +16,7 @@ Understanding the fundamental differences between Ethereum and Solana is vital f
 ### Key Differences Between Ethereum and Solana
 
 | Feature | Ethereum | Solana |
-|
-
------------------------|
-
---------------------------------------------|
-
--------------------------------------------|
+| --- | --- | --- |
 | Consensus Mechanism | Proof of Work transitioning to Proof of Stake | Proof of History combined with Proof of Stake |
 | Transaction Speed | Generally supports a moderate number of transactions per second | Capable of processing a high number of transactions per second |
 | Transaction Fees | Average fees can vary significantly | Average fees are typically very low |

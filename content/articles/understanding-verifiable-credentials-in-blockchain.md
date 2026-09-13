@@ -55,7 +55,6 @@ A VC is generally formatted as a JSON object (specifically, JSON-LD - Linked Dat
 | **Component** |
 
 **Description**|
-|
 
 ------------------------|
 

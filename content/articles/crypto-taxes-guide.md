@@ -67,11 +67,7 @@ Tracking every transaction can be nearly impossible without specialized tools. A
 
 **Popular Tools:**
 | Tool | Features |
-|
-
---------------|
-
----------------------------------------------|
+| --- | --- |
 | CoinLedger | Automated tax reporting, integration with exchanges |
 | Koinly | Multi-country support, full tax reports |
 | TokenTax | Tax calculation, integration with wallets and exchanges |

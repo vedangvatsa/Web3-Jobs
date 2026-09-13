@@ -30,13 +30,7 @@ Luanda's Web3 environment is in its formative phase, driven by several influenti
 The Web3 job market in Luanda is still limited, with opportunities primarily for experienced software engineers. These individuals typically work remotely for international firms or engage with innovation teams in local banks and corporations.
 
 | Role | Salary Range (AOA/Month) | Salary Range (USD/Month) |
-|
-
------------------------------------------------|
-
-----------------------------------|
-
---------------------------------|
+| --- | --- | --- |
 | Backend/FinTech Developer (Local) | Competitive | Competitive |
 | Backend/FinTech Developer (Remote) | Varies significantly | Competitive |
 | Community Educators and Organizers | Voluntary/Grant-funded | N/A |
@@ -65,13 +59,7 @@ The Web3 job market in Luanda is still limited, with opportunities primarily for
 #### Local Opportunities
 
 | Role | Salary Range (AOA/Month) | Salary Range (USD/Month) |
-|
-
------------------------------------------------|
-
----------------------------------|
-
---------------------------------|
+| --- | --- | --- |
 | Junior [Blockchain Developer](/how-to-become-a-blockchain-developer) | Competitive | Competitive |
 | Community Manager (Crypto Education) | Competitive | Competitive |
 | Tech Consultant (FinTech Background) | Competitive | Competitive |
@@ -79,11 +67,7 @@ The Web3 job market in Luanda is still limited, with opportunities primarily for
 #### Remote Opportunities
 
 | Role | Salary Range (USD/Month) |
-|
-
------------------------------------------------|
-
---------------------------------|
+| --- | --- |
 | Mid-Level Developer | Competitive |
 | Senior Developer | Competitive |
 | FinTech/Product Manager | Competitive |

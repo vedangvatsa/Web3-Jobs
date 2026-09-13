@@ -19,11 +19,7 @@ This guide offers a detailed overview of the emerging [Web3 career](/web3-jobs-f
 The developing Web3 scene in Conakry reflects the country's economic realities and ambitions.
 
 | Sector | Opportunity |
-|
-
-------------------------------|
-
--------------------------------------------------------------------------------------------------------------------------------|
+| --- | --- |
 | Natural Resource Sector | Guinea ranks among the largest global producers of bauxite, providing a strong case for blockchain in supply chain management. A transparent ledger can track minerals from mine to port, ensuring ethical sourcing and simplify trade finance. |
 | Financial Inclusion | With a significant portion of the population unbanked, there is a considerable demand for mobile-first [DeFi](/what-is-defi) and stablecoin solutions, enabling access to savings and payment services for those excluded from traditional banking. |
 | Growing Tech Community | Conakry hosts several tech hubs and training centers, nurturing a new generation of software developers. These groups are critical in developing future Web3 talent. |
@@ -34,13 +30,7 @@ The developing Web3 scene in Conakry reflects the country's economic realities a
 Currently, Conakry lacks a formal Web3 job market. Guinean professionals interested in this field primarily pursue [remote work](/remote-work-in-web3) or entrepreneurship. Acquiring globally relevant skills is essential.
 
 | Role | Salary Range | Key Skills Required |
-|
-
-----------------------------------------|
-
-------------------------------------|
-
-------------------------------------------------------|
+| --- | --- | --- |
 | Remote Full-Stack/[Blockchain Developer](/how-to-become-a-blockchain-developer) | Competitive | Strong English proficiency, GitHub portfolio |
 | Enterprise Blockchain Consultant | Competitive | Experience in mining or logistics, blockchain knowledge |
 | Community Educator (French/Local Languages) | Competitive | Local language fluency, educational outreach skills |
@@ -81,13 +71,7 @@ Implementing a distributed ledger system could:
 ### Career Opportunities in Mining Blockchain
 
 | Role | Salary Expectation | Key Skills Needed |
-|
-
-----------------------------------------|
-
---------------------------------------|
-
-----------------------------------------------------------|
+| --- | --- | --- |
 | [Smart Contract](/what-are-smart-contracts) Developer | Competitive | Solidity, Ethereum/Hyperledger expertise, supply chain knowledge |
 | Supply Chain Engineers | Competitive | IoT, RFID, database design, supply chain management |
 | Government Technology Consultants | Competitive | Policy knowledge, technical communication skills |
@@ -132,11 +116,7 @@ Conakry's French-speaking environment connects you to an advantageous network.
 ### Strategic Francophone Hubs
 
 | Hub | Description |
-|
-
------------------------|
-
---------------------------------------------------------------------------------------|
+| --- | --- |
 | Dakar, Senegal | A strong tech ecosystem with numerous blockchain and crypto companies, hosting regular Web3 conferences and networking events. |
 | Abidjan, Côte d'Ivoire| An emerging fintech and blockchain hub with a growing startup ecosystem focused on mobile money and financial inclusion. |
 | Lagos, Nigeria | Africa's largest tech hub, rich in Web3 and fintech opportunities, though primarily English-speaking. |
@@ -280,11 +260,7 @@ Position yourself as a leading expert in blockchain for Guinea by:
 As a Web3 professional in Conakry, you can expect the following salary ranges:
 
 | Role | Salary Expectation |
-|
-
-----------------------------------------|
-
---------------------------------------|
+| --- | --- |
 | Junior Developer (remote, 0-2 years) | Competitive |
 | Mid-Level Developer (remote, 2-5 years)| Competitive |
 | Senior Developer/Specialist (remote, 5+ years)| Competitive |

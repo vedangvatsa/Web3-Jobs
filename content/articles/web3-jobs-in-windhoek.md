@@ -30,13 +30,7 @@ Windhoek's Web3 ecosystem benefits from Namibia's distinctive economic and envir
 The formal Web3 job market in Windhoek is still nascent. Primary opportunities include entrepreneurship, remote work for international companies, and consulting roles with local conservation and tourism organizations on blockchain pilot projects.
 
 | Role | Salary Range (USD) | Salary Range (NAD) |
-|
-
-----------------------------------------|
-
-----------------------------------|
-
-----------------------------------|
+| --- | --- | --- |
 | Web3 Developer (Remote) | $40,000 - $85,000 USD |, |
 | Web3 Developer (Local Startup) |, | Variable |
 | Project Manager (Conservation/ReFi) |, | Variable |
@@ -64,19 +58,11 @@ The formal Web3 job market in Windhoek is still nascent. Primary opportunities i
 ### Complete Salary & Cost of Living Analysis
 
 **Developer Compensation:**| Experience Level | Remote Salary Range (USD) |
-|
-
-------------------------------------------|
-
------------------------------------------|
+| --- | --- |
 | Junior Web3 Developer (0-1 year) | NAD 250,000 - NAD 600,000 ($14,000 - $35,000 USD) |
 | Mid-Level Developer (1-3 years) | NAD 250,000 - NAD 600,000 ($14,000 - $35,000 USD) |
 | Senior Developer (3+ years) | NAD 250,000 - NAD 600,000 ($14,000 - $35,000 USD) | **Local Options:** | Role | Salary Range (NAD) |
-|
-
------------------------------------------------|
-
-----------------------------------------|
+| --- | --- | --- | --- | --- |
 | Local Startup Developer | Variable |
 | Conservation/ReFi Project Manager | Variable |
 | Consulting | Variable |
@@ -86,11 +72,7 @@ The formal Web3 job market in Windhoek is still nascent. Primary opportunities i
 **For a remote developer earning a competitive salary, the estimated monthly expenses are as follows:
 
 | Expense Category | Cost (USD) |
-|
-
---------------------------------|
-
----------------------|
+| --- | --- |
 | Rent (nice area) | Variable |
 | Food & Living | Variable |
 | Recreation | Variable |

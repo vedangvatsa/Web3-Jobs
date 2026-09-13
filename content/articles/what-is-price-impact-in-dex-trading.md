@@ -20,11 +20,7 @@ This article details the nature of price impact, its causes, differences from sl
 ### Key Insights
 
 | Aspect | Description |
-|
-
-----------------------------|
-
------------------------------------------------------------------------------|
+| --- | --- |
 | **Definition** | The effect of a trade on the price of an asset within an AMM pool. |
 | **Cause** | Changes in the asset ratio in a liquidity pool due to trade size. |
 | **Liquidity Influence** | Greater liquidity results in lower price impact for a given trade size. |

@@ -33,13 +33,7 @@ Top blockchain developers gravitate toward the most intriguing and challenging p
 Several key metrics illustrate Litecoin's slowdown:
 
 | Metric | Litecoin | Ethereum |
-|
-
------------------------------|
-
-------------------|
-
-------------------|
+| --- | --- | --- |
 | Weekly GitHub Commits | Significantly fewer than Ethereum | Significantly more than Litecoin |
 | Full-Time Developers | Few | Many |
 | Active dApps | Very few | Numerous |
@@ -69,13 +63,7 @@ Many successful projects focus on attracting developers through hackathons, gran
 Different blockchain projects adopt varying strategies to engage their developer communities. For instance, Ethereum has a strong ecosystem that nurtures developers through extensive documentation, active forums, and community-driven events.
 
 | Strategy | Ethereum | Litecoin |
-|
-
-------------------------------|
-
-----------------------------------|
-
-----------------------------------|
+| --- | --- | --- |
 | Community Engagement | Hackathons, grants, forums | Minimal developer outreach |
 | Documentation Availability | Extensive resources and tutorials | Limited resources |
 | Ecosystem Support | Numerous dApps and projects | Few active projects |

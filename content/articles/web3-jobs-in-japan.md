@@ -32,15 +32,7 @@ Japan's crypto ecosystem showcases a unique blend of corporate leadership and re
 Japan's job market for Web3 professionals is strong, particularly for those with experience in major tech or gaming firms. While salaries may be lower than in leading US markets, they remain competitive and offer a high quality of life.
 
 | Role | Experience Level | Salary Range (JPY) | Salary Range (USD) |
-|
-
------------------------------------------------|
-
----------------------|
-
------------------------------|
-
----------------------------------|
+| --- | --- | --- | --- |
 | Game Developer / Producer | Mid-Level (3-5 years) | ¥8,000,000 - ¥12,000,000 | Competitive |
 | | Senior/Lead (5+ years) | ¥12,000,000 - ¥20,000,000+ | Competitive |
 | [Smart Contract](/what-are-smart-contracts) Developer ([Solidity](/best-programming-languages-for-blockchain-development)/Rust) | Senior | ¥11,000,000 - ¥18,000,000+ | Competitive |
@@ -152,27 +144,27 @@ Japan's job market for Web3 professionals is strong, particularly for those with
 
 **Challenge 1: Language Barrier**
 
-- Reality:**Most positions require business-level Japanese fluency.
+- **Reality:**Most positions require business-level Japanese fluency.
 - **Solution:** Invest 6-12 months in intensive language study. Online courses and language exchanges are widely available.
 
 **Challenge 2: Cautious Culture**
 
-- Reality:**Japanese decision-making tends to be conservative. The crypto sector remains viewed with caution post-Mt. Gox.
+- **Reality:**Japanese decision-making tends to be conservative. The crypto sector remains viewed with caution post-Mt. Gox.
 - **Solution:** Position Web3 as a compliant technology rather than speculative. Emphasize stability, security, and compliance.
 
 **Challenge 3: Corporate Hierarchy and Decision-Making Speed**
 
-- Reality:**Japanese corporations can be slow-moving, with job advancement often requiring 3-5 years.
+- **Reality:**Japanese corporations can be slow-moving, with job advancement often requiring 3-5 years.
 - **Solution:** Practice patience. Cultivate deep relationships. Long-term thinking aligns well with Japanese cultural values.
 
 **Challenge 4: Limited Startup Scene in Web3**
 
-- Reality:**Most Web3 positions exist within major corporations rather than startups.
+- **Reality:**Most Web3 positions exist within major corporations rather than startups.
 - **Solution:** For those seeking startup energy, consider international remote roles. If stability is a priority, pursue corporate roles in Japan.
 
 **Challenge 5: Geographic Concentration in Tokyo**
 
-- Reality:**A significant majority of Web3 jobs are located in Tokyo.
+- **Reality:**A significant majority of Web3 jobs are located in Tokyo.
 - **Solution:** Relocate to Tokyo if committed to a Web3 career. Tokyo serves as Japan's tech center, and the cost of living is reasonable compared to global hubs.
 
 ## 90-Day Quick-Start Action Plan

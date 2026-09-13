@@ -71,13 +71,7 @@ For instance, Giza's ONNX-to-Cairo compiler enables developers to convert traine
 The modular blockchain thesis has transitioned from theoretical discussions to real-world applications. The following table outlines the modern [modular blockchain](/modular-blockchain) stack in active deployments:
 
 | Layer | Function | Leading Solutions |
-|
-
---------------------------|
-
-------------------------------------------------------|
-
-------------------------------------------------------|
+| --- | --- | --- |
 | **Execution** | Process transactions, run smart contracts | Arbitrum, Optimism, zkSync Era, Starknet |
 | **Data Availability** | Store transaction data, ensure retrievability | Celestia, EigenDA, Avail, Ethereum blobs |
 | **Settlement** | Verify proofs, resolve disputes | Ethereum |

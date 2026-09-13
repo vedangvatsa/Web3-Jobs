@@ -31,13 +31,7 @@ Monrovia's potential in the Web3 space is influenced by the country's needs for 
 Currently, Monrovia lacks a formal Web3 job market. Most career opportunities for Liberian professionals involve remote work with international organizations, NGOs, or [DAOs](/what-is-a-dao).
 
 | Position | Type | Salary Range |
-|
-
-----------|
-
-------|
-
---------------------------|
+| --- | --- | --- |
 | Remote Web3 Developer (Full-Stack/Mobile) | Senior (Remote for Global Company) | Significant value |
 | NGO/Social Impact Project Manager | Local NGO | Significant value |
 | Community Educator/Onboarding Specialist | Grant-Funded | Significant value |
@@ -159,27 +153,27 @@ Currently, Monrovia lacks a formal Web3 job market. Most career opportunities fo
 
 **Challenge 1: Limited Local Job Market**
 
-- Reality:**There are virtually no Web3 jobs in Monrovia; remote work is essential.
+- **Reality:**There are virtually no Web3 jobs in Monrovia; remote work is essential.
 - **Solution:** Use remote opportunities. With a favorable cost of living, you can earn a global salary and save significantly.
 
 **Challenge 2: Inconsistent Internet Infrastructure**
 
-- Reality:**Internet reliability is often low; power outages are common.
+- **Reality:**Internet reliability is often low; power outages are common.
 - **Solution:** Use a dual ISP setup with a mobile hotspot. Invest in an uninterruptible power supply (UPS) for your computer. Work with asynchronous teams, which is common in Monrovia.
 
 **Challenge 3: Absence of a Local Crypto Ecosystem**
 
-- Reality:**Networking opportunities are scarce, and local expertise is limited.
+- **Reality:**Networking opportunities are scarce, and local expertise is limited.
 - **Solution:** Build a global Twitter community. Engage with online forums daily and contribute to open-source projects.
 
 **Challenge 4: Competing in a Global Market**
 
-- Reality:**Competing against developers worldwide means Monrovia does not carry the same prestige.
+- **Reality:**Competing against developers worldwide means Monrovia does not carry the same prestige.
 - **Solution:** Build an exceptional portfolio. Focus on impact-driven projects and prepare as a developer addressing real-world issues in Liberia.
 
 **Challenge 5: Trust and Safety Concerns**
 
-- Reality:**The risk of scams is high. Banks are restrictive regarding cryptocurrency. Social trust remains fragile.
+- **Reality:**The risk of scams is high. Banks are restrictive regarding cryptocurrency. Social trust remains fragile.
 - **Solution:** Work only with established companies or protocols. Use reputable exchanges and help your community identify and avoid scams.
 
 ## 90-Day Quick-Start Action Plan

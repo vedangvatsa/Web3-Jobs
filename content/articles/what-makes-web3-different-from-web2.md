@@ -63,20 +63,13 @@ Online identity represents another significant battleground between Web2 and Web
 ### Summary of Differences
 
 | Feature | Web2 (The Present) | Web3 (The Future) |
-|
-
-----------------|
-
------------------------------------------------------|
-
--------------------------------------------------------|
+| --- | --- | --- |
 | **Architecture** | Centralized (Client-Server) | Decentralized (Peer-to-Peer, [Blockchain](/what-is-a-blockchain)) |
 | **Control** | Governed by Corporations | Governed by Communities ([DAOs](/what-is-a-dao)) |
 | **Data Model** | Platform owns the data | User owns the data |
 | **Economics** | Attention Economy (Advertising) | Ownership Economy (Tokens) |
 | **Identity** | Platform-specific accounts | Self-sovereign wallets |
 | **Trust** | Trust in institutions (banks, companies) | Trust in code and mathematics |
-|
 
 **Permission** | Permissioned (Platforms are gatekeepers) | Permissionless (Anyone can build and participate) |
 

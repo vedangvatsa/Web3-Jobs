@@ -20,13 +20,7 @@ This article provides a detailed overview of dynamic NFTs, how they function, an
 ### Differences Between Static and Dynamic NFTs
 
 | Feature | Static NFT | Dynamic NFT |
-|
-
-----------------------|
-
-------------------------------------------------------|
-
-----------------------------------------------------|
+| --- | --- | --- |
 | Metadata Storage | Immutable metadata stored on decentralized systems like IPFS | Metadata can be updated through smart contracts |
 | Update Mechanism | No mechanism for updates; once minted, it is fixed | Smart contract logic enables updates based on triggers |
 | Examples | Digital art, collectibles | Interactive avatars, real-time sports stats |

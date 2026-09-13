@@ -30,13 +30,7 @@ Mauritius's Web3 ecosystem builds on its strong financial and legal foundations.
 The job market in Port Louis favors professionals with backgrounds in finance and law who can translate their expertise into the digital asset space.
 
 | Role | Salary Range (MUR/month) | Equivalent Salary (USD/month) |
-|
-
----------------------------------------|
-
---------------------------|
-
--------------------------------|
+| --- | --- | --- |
 | Legal & Compliance Officer | 100,000 - 200,000+ | Significant value |
 | Fund Accountant / Administrator (Crypto) | 80,000 - 150,000+ | Significant value |
 | FinTech/[Blockchain Developer](/how-to-become-a-blockchain-developer) | 70,000 - 130,000+ | Significant value |
@@ -67,13 +61,7 @@ The job market in Port Louis favors professionals with backgrounds in finance an
 #### Local Opportunities (FinTech-Focused)
 
 | Role | Salary Range (MUR/month) | Equivalent Salary (USD/month) |
-|
-
----------------------------------------|
-
---------------------------|
-
--------------------------------|
+| --- | --- | --- |
 | Legal/Compliance Officer | 100,000 - 200,000 | Significant value |
 | Fund Administrator (Crypto) | 80,000 - 150,000 | Significant value |
 | FinTech Developer | 70,000 - 130,000 | Significant value |
@@ -82,11 +70,7 @@ The job market in Port Louis favors professionals with backgrounds in finance an
 #### Remote Opportunities (Less Common)
 
 | Role | Salary Range (USD/month) |
-|
-
----------------------------------------|
-
---------------------------|
+| --- | --- |
 | Senior Fintech Developer | Significant value |
 | Senior Product Manager | Significant value |
 

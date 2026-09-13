@@ -22,20 +22,20 @@ Your compensation offer will generally consist of three primary components. Your
 
 1. **Base Salary:**
 
-- Definition:**The guaranteed income you receive in fiat currency (e.g., USD or EUR).
+- **Definition:**The guaranteed income you receive in fiat currency (e.g., USD or EUR).
  - **Considerations:** This component is risk-free and should sufficiently cover your living expenses and financial obligations, regardless of fluctuations in the crypto market. Avoid accepting a base salary that does not meet your needs, regardless of the token package's potential. Use our [Web3 Salary Calculator](/salary-calculator) to establish a baseline for your salary expectations.
 
 2. **Equity (Stock Options):**
 
-- Definition:**The right to purchase shares of the company at a predetermined price, common in startups and often included in Web3 companies that have secured venture capital.
+- **Definition:**The right to purchase shares of the company at a predetermined price, common in startups and often included in Web3 companies that have secured venture capital.
  - **Considerations:**
 
-- Vesting Schedule:**Equity usually comes with a vesting schedule, commonly spanning four years with a one-year "cliff."
+- **Vesting Schedule:**Equity usually comes with a vesting schedule, commonly spanning four years with a one-year "cliff."
  - **Company Valuation:** Assess the company's current valuation to estimate the potential future value of your equity.
 
 3. **Tokens:**
 
-- Definition:**A grant of the project's native cryptocurrency, which provides you with ownership in the decentralized protocol itself.
+- **Definition:**A grant of the project's native cryptocurrency, which provides you with ownership in the decentralized protocol itself.
  - **Considerations:** While this component can be the most valuable part of a Web3 offer, it also presents the highest complexity in evaluation.
  - **Vesting Schedule:** Tokens typically have a vesting schedule similar to equity.
  - **Tokenomics:** Conduct thorough due diligence on the token's economic model. Investigate total supply and the token's utility. Refer to our [Guide to Tokenomics](/understanding-tokenomics) for insights.

@@ -23,13 +23,7 @@ Understanding the various components that comprise the DeFi ecosystem is critica
 | **Category** |
 
 **Description**| **Examples** |
-|
-
---------------------------------|
-
----------------------------------------------------------------------------------------------------|
-
-------------------------------------|
+| --- |
 | Decentralized Exchanges (DEXs) | Platforms enabling peer-to-peer trading of crypto assets without a central order book. | Uniswap, Curve |
 | Lending & Borrowing | Protocols allowing users to lend assets for interest or borrow against collateral. | Aave, Compound |
 | Asset Management / Yield | "Yield aggregators" that optimize returns by automatically reallocating user funds. | Yearn Finance |

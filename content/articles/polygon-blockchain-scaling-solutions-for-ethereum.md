@@ -82,13 +82,7 @@ Treat the low fee and high capacity numbers as best case under light load. Actua
 ## Pros and cons
 
 | Area | What is good | What to watch |
-| 
-
---- | 
-
---- | 
-
---- |
+| --- | --- | --- |
 | Fees and speed | Average fees near $0.002 and confirmation in 2 to 5 seconds on Polygon itself. EVM execution is fast enough for payments. | Fees still vary with Bor congestion. Ethereum bridging adds its own gas cost. |
 | Developer fit | Full EVM compatibility. Solidity, Hardhat, Foundry, viem, and ethers.js work by pointing at the Polygon RPC at polygon-rpc.com. | Contracts that assumed MATIC from the bridge must be updated for POL. Test on Amoy testnet first. |
 | Ecosystem and liquidity | Large wallet base, thousands of dApps, deep stablecoin liquidity cited at over $3 billion, Polymarket launched exclusively on Polygon. | Liquidity is still fragmented across chains. AggLayer aims to unify it, but cross-chain routing adds complexity. |

@@ -32,13 +32,7 @@ Denver's crypto community is strongly intertwined with the Ethereum network and 
 The job market in Denver is particularly strong for technical roles, especially for developers experienced in the Ethereum ecosystem. Salaries in this sector are competitive, contributing to a high standard of living in the city.
 
 | Role | Experience Level | Salary Range (USD per annum) |
-|
-
------------------------------------------|
-
-----------------------------|
-
-------------------------------------|
+| --- | --- | --- |
 | [Smart Contract](/what-are-smart-contracts) Developer ([Solidity](/best-programming-languages-for-blockchain-development)) | Mid-Level (3-5 years) | Competitive |
 | | Senior (5+ years) | Competitive |
 | Full-Stack Web3 Engineer (React/Next.js)| Mid-Level | Competitive |

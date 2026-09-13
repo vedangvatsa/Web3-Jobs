@@ -32,13 +32,7 @@ Crafting a simple prompt is straightforward, but creating a *great* prompt that 
 LLMs operate on literal interpretations. Ambiguous language leads to misunderstandings. Great prompt engineers employ precise language to eliminate misinterpretation.
 
 **Example Comparison:**| Prompt Type | Prompt | Quality |
-|
-
--------------|
-
---------|
-
----------|
+| --- | --- | --- |
 | Bad Prompt | "Write about dogs." | Vague, open to interpretation |
 | Good Prompt | "Write a 500-word blog post about the benefits of positive reinforcement training for golden retriever puppies. The tone should be informative but friendly. Include a short, bulleted list of essential training equipment." | Specific and directive |
 
@@ -82,11 +76,7 @@ In modern careers, these competencies prove foundational. Whether in Web3, tradi
 ### Detailed Skill Breakdown
 
 | Skill Category | Description |
-|
-
-------------------------------|
-
------------------------------------------------------------------------------|
+| --- | --- |
 | **Technical Foundation** | Understanding relevant technical concepts is essential. Foundational knowledge prevents costly errors, though you need not be an expert. |
 | **Communication Excellence** | The ability to articulate complex ideas clearly is invaluable. Practice writing emails, documentation, and presentations to enhance clarity. |
 | **Problem-Solving Methodology** | Approach problems systematically: define the issue, research solutions, evaluate options, implement, and measure effectiveness. This method applies to both technical and non-technical challenges. |

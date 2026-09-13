@@ -25,13 +25,7 @@ Externships serve as a conduit for career exploration. They typically last from 
 ### Externship vs. Internship: Key Differences
 
 | Feature | Externship | Internship |
-| 
-
---------------- | 
-
----------------------------------------- | 
-
----------------------------------------------- |
+| --- | --- | --- |
 | **Primary Goal** | Career exploration and observational learning | Skill development and practical work experience|
 | **Duration** | Short-term (1 day to a few weeks) | Longer-term (Typically 1-3 months or a semester) |
 | **Compensation** | Usually unpaid (often for academic credit) | Usually paid |

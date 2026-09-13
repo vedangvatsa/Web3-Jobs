@@ -42,14 +42,9 @@ Compensation in Web3 frequently extends beyond salary alone. Token grants enable
 Discussions about Web3 compensation often focus solely on base salary. A complete view of earning potential encompasses the entire compensation package.
 
 | Component | Description |
-|
-
---------------------|
-
---------------------------------------------------------------|
+| --- | --- |
 | **Base Salary** | Paid in fiat currency (e.g., USD), offering stability. Web3 salaries are typically higher than Web2 equivalents. |
 | **Token Grant** | A high-upside component that vests over time (usually 4 years). This can lead to significant wealth creation. |
-|
 
 **Equity** | In centralized companies operating within Web3, traditional stock options may also be included. |
 

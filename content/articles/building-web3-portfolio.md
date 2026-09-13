@@ -91,13 +91,7 @@ Quality checks for every contract you publish: use OpenZeppelin Contracts as the
 ### Smart contract developer projects
 
 | Project | What it proves | Suggested stack and notes |
-| 
-
---- | 
-
---- | 
-
---- |
+| --- | --- | --- |
 | Multi-sig wallet | Access control, transaction approval, safe ETH handling | Solidity, OpenZeppelin AccessControl, Foundry tests for permission and revert cases |
 | Verifiable lottery | Randomness limits, commit-reveal or VRF integration, fund handling | Chainlink VRF docs for request and fulfill flow, tests for insufficient funds and double-entry |
 | ERC-721 collection with allowlist | Token standard, merkle proofs, metadata on IPFS via Pinata or similar | OpenZeppelin ERC721, IPFS metadata, royalty standard ERC-2981, frontend mint with wallet states |
@@ -110,13 +104,7 @@ For each project, deploy to a testnet. You can fund Sepolia with faucets: Alchem
 ### Frontend and full-stack dApp projects
 
 | Project | What it proves | Required handling |
-| 
-
---- | 
-
---- | 
-
---- |
+| --- | --- | --- |
 | Wallet dashboard | Connect, read balances, list NFTs, show history | wagmi and viem, display ENS name and avatar, handle wrong network and rejected signature |
 | DAO proposal explorer | Indexing and filtering | Fetch from a governance subgraph or forum API, paginate and search proposals, link to on-chain vote transaction |
 | Gas tracker | Fee estimation and UX | Show base fee and priority fee on Ethereum and at least one Layer 2, explain timing trade-offs, mobile layout |
@@ -126,13 +114,7 @@ Your frontend should handle wallet states, transaction states, readable revert m
 ### Non-technical portfolio projects
 
 | Project | What it proves | How to document |
-| 
-
---- | 
-
---- | 
-
---- |
+| --- | --- | --- |
 | Dune dashboard for a protocol you follow | SQL, metric choice, insight | Link the dashboard, publish the queries, write a 300-word summary of one finding and one limit of the data |
 | DAO contribution log | Initiative and follow-through | List issues you closed, docs you improved, calls you ran, with links to forum posts and a short outcome note |
 | Technical content series | Depth and clarity | Two posts on one niche, such as decentralized derivatives or NFT financialization, with primary source links and a clear takeaway per post |

@@ -22,11 +22,7 @@ Deep learning relies on artificial neural networks, computing systems modeled af
 Here's a simplified overview of how neural networks function:
 
 | Layer Type | Description |
-|
-
-----------------|
-
-----------------------------------------------------------------------------------------------------------------------|
+| --- | --- |
 | **Input Layer** | This layer receives raw data. For image analysis, each neuron may represent an individual pixel of the image. |
 | **Hidden Layers** | These layers perform important computations. Each neuron processes inputs from the preceding layer, executes calculations, and transmits the results to the next layer. The depth of the network refers to the number of hidden layers, which can range from several to hundreds. |
 | **Output Layer** | The final layer produces the model's predictions. In image classification, each neuron may correspond to a category (e.g., "cat," "dog," "car"). The neuron with the highest value indicates the model's prediction. |
@@ -38,11 +34,7 @@ Connections between neurons have associated weights, determining the strength of
 Despite concepts behind neural networks existing for decades, deep learning has gained significant traction over the last several years. This surge results from two primary factors:
 
 | Factor | Explanation |
-|
-
--------------------|
-
--------------------------------------------------------------------------------------------------------------------|
+| --- | --- |
 | **Big Data** | Deep learning models require substantial datasets for effective learning. The explosion of data generated through the internet, social media, and smartphones has provided ample resources for training. |
 | **Powerful Hardware** | Effective training of deep neural networks demands significant computational resources. The emergence of high-performance Graphics Processing Units (GPUs) has enabled the rapid training of large models, making previously infeasible tasks achievable. |
 

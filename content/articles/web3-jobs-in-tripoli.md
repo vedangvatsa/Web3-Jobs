@@ -68,11 +68,7 @@ Tripoli's crypto market stands out for several reasons:
 - [Portfolio](/building-web3-portfolio) tracking applications
 
 **Compensation:**| Level | Monthly Salary (Remote International) |
-|
-
--------|
-
----------------------------------------|
+| --- | --- |
 | Entry Level (0-2 years) | Significant income potential |
 | Mid-Level (2-5 years) | Significant income potential |
 | Senior (5+ years) | Significant income potential |
@@ -104,13 +100,7 @@ Tripoli's crypto market stands out for several reasons:
 - Managing risk
 
 **Compensation:**| Level | Monthly Salary | Commission |
-|
-
--------|
-
-----------------|
-
-------------|
+| --- | --- | --- |
 | Entry Level | Significant income potential | Varies |
 | Mid-Level | Significant income potential | Varies |
 | Senior | Significant income potential | Varies |
@@ -134,11 +124,7 @@ Tripoli's crypto market stands out for several reasons:
 - Building trust within the community
 
 **Compensation:**| Level | Monthly Salary |
-|
-
--------|
-
-----------------|
+| --- | --- |
 | Entry Level | Significant income potential |
 | Mid-Level | Significant income potential |
 | Senior | Significant income potential |
@@ -235,15 +221,7 @@ Tripoli's P2P market offers many opportunities:
 ## Salary Expectations: Local vs. Remote
 
 | Role | Local Salary | Remote Salary | Multiple |
-|
-
-------------------------|
-
------------------------|
-
------------------------|
-
--------------|
+| --- | --- | --- | --- |
 | Developer | Significant income potential | Significant income potential |
 | OTC Manager | Significant income potential | Significant income potential |
 | Community Manager | Significant income potential | Significant income potential |

@@ -30,13 +30,7 @@ Boston's Web3 ecosystem mirrors its core strengths: academic excellence and fina
 The job market in Boston is particularly favorable for technical and research-oriented roles. Companies are willing to offer competitive salaries to candidates with strong academic backgrounds and specialized expertise.
 
 | Role | Experience Level | Salary Range |
-|
-
--------------------------------------|
-
--------------------------|
-
----------------------|
+| --- | --- | --- |
 | Protocol Researcher / Cryptographer | PhD-Level | Competitive |
 | Smart Contract & Protocol Engineer | Mid-Level (3-5 years) | Competitive |
 | | Senior (5+ years) | Competitive |
@@ -64,13 +58,7 @@ The demand for Web3 professionals continues to grow, with companies actively see
 Boston's Web3 job market offers a unique blend of opportunities due to the city's academic strength and finance background. Engaging with local projects can enable career advancements. The following table outlines potential employers and their focus areas within the Web3 space.
 
 | Company Name | Focus Area | Notable Projects |
-|
-
-----------------------|
-
------------------------------------------|
-
-----------------------------------------------------|
+| --- | --- | --- |
 | Circle | Digital currency and payments | USDC stablecoin |
 | State Street | Asset management and custodial services | Institutional custody solutions for digital assets |
 | Algorand | Blockchain protocol development | Scalable blockchain solutions |

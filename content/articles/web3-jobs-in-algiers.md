@@ -29,13 +29,7 @@ The formal Web3 job market in Algiers is currently limited. The most significant
 | **Role** |
 
 **Salary Range**| **Description** |
-|
-
----------------------------------|
-
-----------------------------------------|
-
----------------------------------------------------------------------------------------------------------------------------------------------------|
+| --- |
 | Full-Stack Developer (Remote) | Significant monthly compensation | Experienced software engineers who build blockchain-enabled applications. Mobile development skills are highly sought after. |
 | Full-Stack Developer (Local) | Local market rates | Local positions for developers, typically offering lower salaries compared to remote opportunities. |
 | Community Managers | Significant monthly compensation | Trilingual professionals managing communities and creating content for local and international audiences. |
@@ -198,14 +192,14 @@ A: Focus on building a sustainable income first. Once you have experience and a 
 
 **Learning Platforms:**
 
-- Alchemy University:**Offers a free Web3 developer course.
+- **Alchemy University:**Offers a free Web3 developer course.
 - **Cryptozombies:** Interactive Solidity tutorials.
 - **OpenZeppelin Learning:** Focus on smart contract security.
 - **Chainlink Documentation:** Learn about oracles and DeFi integration.
 
 **Communities and Networking:**
 
-- Twitter:**Follow key industry figures and engage with their content.
+- **Twitter:**Follow key industry figures and engage with their content.
 - **Discord:** Join relevant communities to expand your network.
 - **Local Meetups:** Participate in or create local Web3 groups.
 
@@ -216,7 +210,7 @@ A: Focus on building a sustainable income first. Once you have experience and a 
 
 **Hands-On Practice:**
 
-- Code4rena:**Participate in competitive smart contract auditing.
+- **Code4rena:**Participate in competitive smart contract auditing.
 - **Sherlock and Immunefi:** Engage in security bounties.
 
 **Deep-Dive Reading:**

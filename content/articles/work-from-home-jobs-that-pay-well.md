@@ -66,15 +66,7 @@ Technical writers simplify complex information for end users. This role is criti
 ### Remote Job Comparison Table
 
 | Job Title | Average Salary Range | Job Growth Rate (2020-2030) | Key Skills Required |
-|
-
---------------------------|
-
-----------------------|
-
--------------------------------|
-
--------------------------------------------|
+| --- | --- | --- | --- |
 | Software Developer | Significant amount | Significant growth | JavaScript, Python, GitHub portfolio |
 | Cybersecurity Analyst | Significant amount | Substantial growth | CompTIA Security+, CISSP, networking |
 | Product Manager | Significant amount | N/A | Communication, leadership, marketing |

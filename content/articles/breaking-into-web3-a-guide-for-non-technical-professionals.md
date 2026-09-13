@@ -39,15 +39,7 @@ Many Web3 companies experience difficulty filling these non-technical roles beca
 The following are prominent non-technical career paths within Web3:
 
 | Role | Responsibilities | Typical Qualifications | Compensation Range |
-|
-
------------------------------|
-
---------------------------------------------------------------------------------|
-
------------------------------------------------------------|
-
-------------------------------|
+| --- | --- | --- | --- |
 | Product Manager | Define product features and drive development. | 3+ years in product management, strong communication. | Competitive |
 | Growth and Marketing Specialist | Drive user acquisition and retention through community understanding and content. | Marketing experience, creative, understanding crypto culture. | Competitive |
 | Community Manager | Build and nurture online communities on platforms like Discord and Twitter. | Experience managing online communities, excellent communication. | Competitive |

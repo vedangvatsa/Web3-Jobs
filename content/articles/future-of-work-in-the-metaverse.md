@@ -27,13 +27,7 @@ Working in the metaverse introduces distinct characteristics that enhance collab
 With the expansion of the metaverse, a new class of professionals will emerge, tasked with creating, managing, and enhancing these digital environments.
 
 | Job Title | Description | Key Skills |
-|
-
------------------------------------|
-
--------------------------------------------------------------------------------------------------------------------|
-
--------------------------------------------------------------------------------------------------------------------|
+| --- | --- | --- |
 | Metaverse Architect / 3D World Builder | Designers and planners of virtual environments for work and leisure. | Proficiency in 3D modeling software (e.g., Unreal Engine, Unity), spatial design understanding, creativity. |
 | Digital Fashion Designer / Avatar Stylist | Creators of unique digital clothing and accessories for avatars. | Skills in 3D design software (e.g., Blender, Substance Painter), fashion sense, real-time optimization knowledge. |
 | Virtual Event Manager | Organizers of large-scale virtual events such as conferences and concerts. | Event planning skills, technical proficiency in virtual platforms, ability to create engaging experiences. |

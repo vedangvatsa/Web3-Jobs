@@ -61,7 +61,9 @@ If you committed to something - removing a blocker, giving a stretch assignment,
 
 ## Handling 1:1s in Remote and Web3 Teams
 
-When you're spread across time zones and might not share a single overlapping work hour, the traditional weekly video call doesn't always work.**Async 1:1s are a valid option.
+When you're spread across time zones and might not share a single overlapping work hour, the traditional weekly video call doesn't always work.
+
+**Async 1:1s are a valid option.
 
 **Use a shared document or thread where your report writes updates, concerns, and questions throughout the week. You respond within 24 hours. Hold a live call biweekly for the conversations that need real-time back-and-forth - career growth, sensitive feedback, conflict resolution.** In DAOs and flat-structure Web3 teams**, the 1:1 dynamic shifts. You might not have a formal manager-report relationship, but regular check-ins between collaborators still matter. If you're a [project lead](/jobs), set up informal 1:1s with core contributors. These conversations catch misalignment early, especially when everyone's pseudonymous and distributed.
 

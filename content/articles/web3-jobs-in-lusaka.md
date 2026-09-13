@@ -27,13 +27,7 @@ Lusaka's Web3 community is characterized by a collaborative spirit and a focus o
 The Web3 job market in Lusaka is small but expanding. Significant roles often involve remote positions with international companies eager to hire African talent or roles within local FinTech startups integrating blockchain.
 
 | Role | Local Monthly Salary | Remote Monthly Salary |
-|
-
-------|
-
-----------------------|
-
------------------------|
+| --- | --- | --- |
 | Full-Stack / Mobile Developer | Competitive | Competitive |
 | Community Manager / Educator | Competitive | N/A |
 | Product/Project Manager (AgriTech/FinTech) | Competitive | N/A |

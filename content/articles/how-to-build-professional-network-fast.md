@@ -27,11 +27,7 @@ Generosity forms the foundation of effective networking. Before seeking assistan
 Clarify your networking objectives. Specificity is important.
 
 | Goal Type | Example Focus |
-|
-
---------------------------------|
-
---------------------------------------|
+| --- | --- |
 | Job Search | Target hiring managers in fintech |
 | Client Acquisition | Identify potential clients in e-commerce |
 | Skill Development | Connect with professionals in your desired field |
@@ -98,11 +94,7 @@ Aim to conduct 3-5 virtual coffee chats each week.
 Maintain your network through effective follow-ups. Create a tracking system, such as a spreadsheet or a personal CRM.
 
 | Contact Tracking Elements | Description |
-|
-
---------------------------------|
-
---------------------------------------|
+| --- | --- |
 | Name | Individual's name |
 | Company | Current or former employer |
 | Role | Job title |

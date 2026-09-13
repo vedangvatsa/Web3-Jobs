@@ -32,12 +32,12 @@ In Web3, public accomplishments outweigh formal employment history. Assess candi
 
 - **For Developers:**
 
-- GitHub Review:**Analyze personal projects for code quality and documentation. A thorough test suite is essential; the absence of tests signals potential issues.
+- **GitHub Review:**Analyze personal projects for code quality and documentation. A thorough test suite is essential; the absence of tests signals potential issues.
  - **On-Chain Activity:** Use a block explorer to review their public [wallet](/how-to-choose-a-crypto-wallet) address if available. Investigate the protocols they have interacted with and whether they have engaged in governance activities.
 
 - **For Non-Technical Roles:**
 
-- Public Writing:**Look for insightful Twitter threads or blog posts showcasing expertise and communication skills.
+- **Public Writing:**Look for insightful Twitter threads or blog posts showcasing expertise and communication skills.
  - **[DAO](/what-is-a-dao) Contributions:** Active participation in a [DAO](/the-rise-of-daos) demonstrates initiative. Review their contributions in governance forums and proposals to gauge strategic thinking.
  - **Dune Dashboards:** For analytical roles, a collection of insightful Dune dashboards signals strong analytical capabilities.
 
@@ -56,11 +56,7 @@ Top candidates have multiple opportunities. The recruitment process is a mutual 
 Web3 compensation packages differ significantly from traditional structures. Be prepared to offer a complete package that includes:
 
 | Component | Description |
-|
-
--------------------------------|
-
-----------------------------------------------------------|
+| --- | --- |
 | Base Salary | Competitive fiat salary that reflects market rates. |
 | Token Grant | Significant token grant with a clear vesting schedule. |
 | Equity | Potential equity in the company, if applicable. |

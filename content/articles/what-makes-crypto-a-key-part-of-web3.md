@@ -50,13 +50,7 @@ Web3 applications are inherently global, accessible to anyone with an internet c
 Web3 represents the architectural and philosophical vision for a decentralized internet. Cryptocurrency serves as the practical, economic means that supports this vision.
 
 | Aspect | Web3 | Cryptocurrency |
-|
-
---------------------------|
-
-----------------------------------------|
-
------------------------------------------|
+| --- | --- | --- |
 | Infrastructure | Decentralized, blockchain-based | Native asset for payment and rewards |
 | Incentives | Secured by decentralized protocols | Rewards for miners and validators |
 | Programmable Logic | Smart contracts | Native value to execute contracts |

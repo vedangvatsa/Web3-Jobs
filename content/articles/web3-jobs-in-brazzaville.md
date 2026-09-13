@@ -27,13 +27,7 @@ Brazzaville's Web3 ecosystem is beginning to take shape, with growth opportuniti
 While the formal Web3 job market in Brazzaville remains limited, professionals can enhance their prospects by developing globally relevant skills and pursuing [remote work](/remote-work-in-web3) opportunities with international companies.
 
 | Role | Description | Salary Range |
-|
-
-------|
-
--------------|
-
----------------------|
+| --- | --- | --- |
 | **Remote Backend/Full-Stack Developer** | Experienced software engineers with a focus on blockchain development. | Senior: Competitive |
 | **Enterprise Blockchain Consultant** | Professionals with expertise in oil & gas or logistics and blockchain knowledge can advise corporations and government bodies. | High-value consulting fees typically apply. |
 | **Community Manager (French/Lingala)** | Web3 projects need local leaders to build and manage communities in regional languages. | Mid-Level: Competitive |
@@ -48,19 +42,11 @@ While the formal Web3 job market in Brazzaville remains limited, professionals c
 ### Salary Expectations in Detail
 
 **Developer Track:**| Level | Monthly Salary Range (Remote) |
-|
-
--------|
-
--------------------------------|
+| --- | --- |
 | Junior Developer (0-1 year) | Competitive |
 | Mid-Level Developer (1-3 years) | Competitive |
 | Senior Developer (3+ years) | Competitive | **Enterprise & Consulting Track:** | Role | Monthly/Hourly Salary Range |
-|
-
-------|
-
------------------------------|
+| --- | --- | --- | --- | --- |
 | Enterprise Blockchain Consultant | Competitive |
 | Project Manager | Competitive |
 | Supply Chain Specialist | Competitive |

@@ -27,13 +27,7 @@ Maputo's Web3 environment is influenced by its distinct cultural and economic fa
 The formal Web3 job market in Maputo is still nascent. Local talent should focus on acquiring globally sought-after skills to secure [remote work](/remote-work-in-web3) with international companies.
 
 | Role | Employment Type | Salary Range |
-|
-
------------------------------|
-
------------------|
-
------------------------|
+| --- | --- | --- |
 | Remote Full-Stack / Mobile Developer | Remote | Competitive |
 | Community Manager (Portuguese/English) | Remote | Competitive |
 | NFT Artist / Curator | Local / Freelance | Varies (often entrepreneurial or grant-funded) |
@@ -62,13 +56,7 @@ The formal Web3 job market in Maputo is still nascent. Local talent should focus
 #### Local Opportunities (Growing)
 
 | Role | Salary Range (MZN) | Salary Range |
-|
-
------------------------------|
-
----------------------------|
-
------------------------|
+| --- | --- | --- |
 | Developer (Local Startup) | MZN 100,000-200,000/month | Competitive |
 | Creative Manager | MZN 70,000-150,000/month | Competitive |
 | Community Manager | MZN 50,000-100,000/month | Competitive |
@@ -76,11 +64,7 @@ The formal Web3 job market in Maputo is still nascent. Local talent should focus
 #### Remote Opportunities (Highly Recommended)
 
 | Role | Salary Range |
-|
-
------------------------------|
-
------------------------|
+| --- | --- |
 | Mid-Level Developer | Competitive |
 | Senior Developer | Competitive |
 | Creative Lead/Curator | Competitive |

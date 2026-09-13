@@ -65,11 +65,7 @@ Returning to work after a break involves a strategic approach. By being proactiv
 ### Key Components of a Successful Job Search
 
 | Component | Description |
-|
-
------------------------------|
-
--------------------------------------------------------------------------------------------------|
+| --- | --- |
 | **Career Goals** | Define what you want from your next role and what makes you happy. |
 | **Professional Toolkit** | Update your resume, LinkedIn, and portfolio to reflect recent experiences and skills. |
 | **Networking** | Reactivate your professional connections and seek out informational interviews. |

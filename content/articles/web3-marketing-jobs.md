@@ -20,11 +20,7 @@ This article outlines the Web3 marketing career path. It details various roles, 
 The traditional marketing funnel, Awareness, Interest, Decision, Action, transforms in the Web3 context. The focus shifts from converting customers to nurturing a community.
 
 | Stage | Description |
-|
-
--------------------------|
-
----------------------------------------------------------------------------------------------------|
+| --- | --- |
 | **Discovery** | Users discover your project via Twitter, podcasts, or reputable media outlets like Bankless or The Defiant, rather than through traditional ads. |
 | **Immersion (The Rabbit Hole)** | A potential user joins your Discord community, engaging in a passive learning phase. Your marketing goal is to educate and set the community's tone. Is the environment welcoming? Is the dialogue insightful? |
 | **Contribution** | Users begin participating by asking questions, assisting newcomers, or commenting on governance proposals. |

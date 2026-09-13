@@ -26,7 +26,6 @@ Hard skills are technical abilities that can be easily defined and measured. The
 | **Hard Skill** |
 
 **Examples of Application**|
-|
 
 ---------------------------|
 
@@ -44,7 +43,6 @@ Soft skills encompass interpersonal and character traits that dictate how you in
 | **Soft Skill** |
 
 **Description**|
-|
 
 ---------------------------|
 
@@ -127,7 +125,6 @@ Transferable skills serve as a foundation for success in various career paths. W
 | **Timeline** |
 
 **Actions**|
-|
 
 ------------------------|
 

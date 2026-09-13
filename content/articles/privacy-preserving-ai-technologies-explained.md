@@ -50,15 +50,7 @@ The evolution of AI requires a design that respects and protects user privacy. T
 ### Privacy-Preserving AI Technologies in Practice
 
 | Technology | Description | Use Cases | Current Adoption |
-|
-
-----------------------|
-
----------------------------------------------------------------|
-
----------------------------------------------------|
-
-----------------------------------|
+| --- | --- | --- | --- |
 | Federated Learning | Trains models locally on devices without sharing raw data | Smartphone keyboards, predictive text, healthcare | Used by various companies |
 | Differential Privacy | Adds noise to data to protect individual contributions | U.S. Census Bureau, various data collection efforts | Widely implemented in various sectors |
 | Homomorphic Encryption | Allows calculations on encrypted data without decryption | Secure financial transactions, private data analysis | Emerging in specialized applications |

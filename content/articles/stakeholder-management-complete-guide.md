@@ -75,17 +75,7 @@ Your communication plan should include:
 - **Owner:** Assign responsibility for this communication to a project team member.
 
 **Example Communication Plan:**| Stakeholder | Key Message | Method | Frequency | Owner |
-|
-
---------------------|
-
-------------------------------------------------------|
-
----------------------|
-
--------------|
-
--------------------|
+| --- | --- | --- | --- | --- |
 | Project Sponsor | Progress against milestones, budget status, key risks | 1-on-1 Meeting | Weekly | Project Manager |
 | End-Users | Upcoming feature releases, training materials | Email Newsletter | Bi-weekly | Product Manager |
 | CEO | Alignment with strategic goals, major wins | Executive Summary | Monthly | Project Sponsor |

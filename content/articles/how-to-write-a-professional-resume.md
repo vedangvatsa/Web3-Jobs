@@ -19,13 +19,7 @@ Developing a professional resume does not have to be overwhelming. By adhering t
 Selecting an appropriate resume format is critical. The three primary formats are:
 
 | Format | Description | Best For |
-|
-
-------------------------|
-
----------------------------------------------------------------------------------------------|
-
--------------------------------------------|
+| --- | --- | --- |
 | **Reverse-Chronological** | Lists your work experience in reverse order, starting with your most recent position. | Individuals with a consistent work history.|
 | **Functional** | Emphasizes skills and qualifications over work history. | Those changing careers or with employment gaps.|
 | **Combination** | Combines elements of both formats, starting with a skills summary followed by work history. | Candidates with diverse skill sets and experiences.|
@@ -47,11 +41,7 @@ Include a brief summary or objective statement at the top of your resume. This s
 Highlighting achievements rather than just listing job duties is important for creating an impactful resume. Use quantifiable metrics to showcase your contributions.
 
 | Instead of... | Try... |
-|
-
----------------------------------------------------|
-
-------------------------------------------------------------------------------------------------|
+| --- | --- |
 | "Responsible for managing the sales team." | "Increased sales significantly over one year by implementing a targeted training program for the sales team." |
 | "Conducted customer service training." | "Improved customer satisfaction ratings by developing and executing a new service training module." |
 

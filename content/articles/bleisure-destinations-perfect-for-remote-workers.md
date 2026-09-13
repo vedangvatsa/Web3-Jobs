@@ -57,15 +57,7 @@ Selecting the right bleisure destination is essential for maximizing both produc
 ### Comparison Table of Bleisure Destinations
 
 | City | Cost of Living (Index) | Average Internet Speed (Mbps) | Notable Attractions |
-|
-
-------------------|
-
------------------------|
-
--------------------------------|
-
----------------------------------------|
+| --- | --- | --- | --- |
 | Lisbon, Portugal | 60/100 | 100 | Belem Tower, Alfama District |
 | Chiang Mai, Thailand | 30/100 | 70 | Doi Suthep, Night Bazaar |
 | Mexico City, Mexico | 45/100 | 80 | Teotihuacan, Chapultepec Park |

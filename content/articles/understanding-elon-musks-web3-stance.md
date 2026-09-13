@@ -55,7 +55,6 @@ This vision shares some commonalities with Web3 ideals:
 | **Web3 Ideal** |
 
 **X Vision Element**|
-|
 
 ----------------------------|
 

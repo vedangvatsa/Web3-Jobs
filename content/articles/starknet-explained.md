@@ -131,13 +131,7 @@ Scaling numbers that are published and checkable: average cost dominated by L1 d
 ## Pros and cons at a glance
 
 | Area | What Starknet gives you | What you trade |
-| 
-
---- | 
-
---- | 
-
---- |
+| --- | --- | --- |
 | Validation method | STARK validity proofs verified on Ethereum. No challenge window. State accepted only if proof passes. | Proving cost and complexity. You rely on correct verifier and SNOS logic rather than a simple fraud game. |
 | Data posted to L1 | Compressed state diffs on Ethereum (blobs with fallback to calldata). Anyone can reconstruct. | Post-0.13.4 diffs need prior diffs to decode due to stateful compression. Blob space competes with other rollups. |
 | EVM fit | No. You write in Cairo. Expressive for provable logic and heavy compute like perps and games. | Solidity code must be rewritten or transpiled. Audit surface is Cairo-specific, and EVM tooling does not directly apply. |

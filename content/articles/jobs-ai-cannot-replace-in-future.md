@@ -53,13 +53,7 @@ Several careers will likely remain human-centric for the foreseeable future. Her
 - **Lawyers and Judges**: The legal profession relies on human judgment and ethical interpretation of principles like fairness and justice. AI can support research, but final arguments and decisions require a specific human understanding of context and morality.
 
 | Career Category | Examples | Key Human Skills |
-|
-
---------------------------------|
-
-----------------------------------------------|
-
-------------------------------------------------|
+| --- | --- | --- |
 | Healthcare | Doctors, Nurses, Therapists | Empathy, Ethical Judgment, Emotional Insight |
 | Creative Arts | Artists, Writers, Musicians | Originality, Personal Experience, Communication |
 | Skilled Trades | Electricians, Plumbers, Carpenters | Problem-Solving, Adaptability, Dexterity |

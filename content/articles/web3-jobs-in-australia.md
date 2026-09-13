@@ -22,7 +22,6 @@ Australia's crypto ecosystem ranks among the most developed in the Asia-Pacific 
 | **Key Factors** |
 
 **Details**|
-|
 
 -------------------------------------|
 
@@ -53,15 +52,7 @@ The demand for Web3 talent in Australia remains strong, particularly for experie
 | **Role** |
 
 **Experience Level**| **Salary Range** |
-|
-
---------------------------------------|
-
-----------------------|
-
-----------------------------------|
-|
-
+| --- |
 **[Smart Contract](/what-are-smart-contracts) Developer (Solidity/Rust)** | Mid-Level (2-4 years) | Competitive |
 | | Senior (5+ years) | Competitive |
 | | 

@@ -45,7 +45,7 @@ An airdrop, distributing your project's native token to early users and communit
 
 **Designing an effective airdrop:**
 
-- Target Genuine Users:**Establish criteria that reward committed, long-term users while filtering out "sybil attackers" (users who create multiple wallets to exploit the airdrop). Evaluate transaction volume, frequency of use, and interaction with various protocol features.
+- **Target Genuine Users:**Establish criteria that reward committed, long-term users while filtering out "sybil attackers" (users who create multiple wallets to exploit the airdrop). Evaluate transaction volume, frequency of use, and interaction with various protocol features.
 - **Be Retroactive:** Surprise airdrops that reward past usage ensure recipients are genuine users rather than speculative participants.
 - **Create a Narrative:** Use the airdrop to communicate your project's values and commitment to community ownership.
 
@@ -69,11 +69,7 @@ A token with substantial utility generates organic demand, encouraging users to 
 Your initial token distribution sets a precedent for the project's decentralization. A typical breakdown might include:
 
 | Stakeholder | Percentage |
-|
-
----------------------|
-
-------------------|
+| --- | --- |
 | Community/Ecosystem | 50-60% |
 | Core Team | 15-20% |
 | Investors | 15-20% |

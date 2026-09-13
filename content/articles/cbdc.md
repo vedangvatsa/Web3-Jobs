@@ -55,13 +55,7 @@ For consumers, CBDCs offer a convenient payment option comparable to mobile paym
 CBDCs can assume several forms, each tailored to achieve specific objectives within a nation's financial system. These forms vary based on intended use cases, involved entities in distribution, and the infrastructure necessary for support. The following table outlines the types of CBDCs:
 
 | CBDC Type | Description | Key Features |
-|
-
-------------------|
-
--------------------------------------------------------------------------------------------------|
-
-------------------------------------------------------------|
+| --- | --- | --- |
 | Retail CBDC | Designed for the public to replace physical cash in everyday transactions. | Accessible via digital wallets, promotes financial inclusion. |
 | Wholesale CBDC | Aimed at financial institutions for interbank settlements and high-value transactions. | Enhances efficiency, reduces intermediaries, and cuts costs. |
 | Hybrid CBDC | Combines retail and wholesale aspects for both the public and financial institutions. | Balances benefits of inclusion with efficient settlements. |

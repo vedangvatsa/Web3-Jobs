@@ -30,13 +30,7 @@ Kigali's ascent as a Web3 hub results from intentional policy-making and investm
 The Web3 job market in Kigali is in its infancy but is expected to grow rapidly as more businesses and projects establish themselves. The highest demand currently lies with skilled software engineers adept in blockchain development.
 
 | Role | Skills Required | Salary Range (RWF/month) |
-|
-
----------------------------------------|
-
------------------------------------------------------|
-
----------------------------|
+| --- | --- | --- |
 | Blockchain / Full-Stack Developer | Solidity, Java, Go | Mid-Level: 1,500,000 - 3,000,000<br>Senior: 3,000,000 - 5,500,000+ |
 | Product Manager (GovTech/FinTech) | Experience in government or financial technology | 2,500,000 - 4,500,000+ |
 | Business Development & Policy | Relationship-building skills with agencies and NGOs | 2,000,000 - 4,000,000+ |

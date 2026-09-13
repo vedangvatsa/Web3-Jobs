@@ -57,17 +57,7 @@ You will not find role counts by track or language targets in the excerpt. The s
 The table below uses FindFi's 2025 to 2026 bands for US base pay where FindFi reports them, and adds web3.career averages for the same role as a cross-check when web3.career reports an average. Both sources blend different sample methods. FindFi requires ranges on each listing and is tighter for US base. web3.career averages blend global submissions and are lower for some junior cohorts. Use the FindFi band when negotiating US base, and the web3.career average to sanity-check global postings.
 
 | Role | What you ship | Core tools | FindFi US base by level | web3.career average as of Aug 2026 |
-| 
-
---- | 
-
---- | 
-
---- | 
-
---- | 
-
---- |
+| --- | --- | --- | --- | --- |
 | Smart Contract Developer | Contracts for DeFi, NFTs, DAOs that secure value | Solidity, Foundry or Hardhat, Ethers.js or Viem, OpenZeppelin, Slither | Junior $90k-$130k, Mid $130k-$180k, Senior $160k-$250k, Staff $200k-$300k | $125k avg, $60k min, $250k max |
 | Full-Stack / Frontend dApp Developer | Front ends that talk to wallets and contracts | React, TypeScript, Wagmi or RainbowKit, Viem or Ethers.js, The Graph | Junior $80k-$120k, Mid $120k-$170k, Senior $150k-$220k, Staff $180k-$280k | Frontend $149k avg, Full-stack $140k avg |
 | Protocol Engineer | Layer 1 and layer 2 execution, state, and scaling work | Rust or Go, distributed systems, cryptography, consensus internals | Junior $100k-$150k, Mid $150k-$200k, Senior $180k-$280k, Staff $220k-$350k | Blockchain Developer $150k avg, $78k-$262k |
@@ -289,7 +279,9 @@ If two tracks tie, choose the one where you can answer hiring managers with the 
 
 ## A 30-day plan that works with these guides
 
-This plan mirrors the learn path in Hashtag Web3's careers course and the hiring pattern described by CryptoJobsList, CoinTerminal, and Blockchain Council.**Week 1: Foundation and wallets.
+This plan mirrors the learn path in Hashtag Web3's careers course and the hiring pattern described by CryptoJobsList, CoinTerminal, and Blockchain Council.
+
+**Week 1: Foundation and wallets.
 
 **Set up a self-custody wallet, try a testnet transaction, and read the docs for two protocols you like. Follow 20 hiring managers and builders on X who post real job tasks.** Week 2: Build one artifact.
 

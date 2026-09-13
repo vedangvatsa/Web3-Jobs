@@ -27,11 +27,7 @@ Hashtags in Web3 perform several key functions:
 These broad, high-volume hashtags represent the core aspects of the Web3 industry. They help ensure that your content captures the attention of a wide audience interested in this space.
 
 | Hashtag | Description |
-|
-
-------------------|
-
--------------------------------------------------------|
+| --- | --- |
 | `#Web3` | Refers to the decentralized internet. |
 | `#Crypto` | Encompasses financial and trading aspects of cryptocurrency. |
 | `#Blockchain` | Technical term for discussions related to the technology. |
@@ -46,11 +42,7 @@ These broad, high-volume hashtags represent the core aspects of the Web3 industr
 These hashtags demonstrate that you are aware of current industry trends.
 
 | Hashtag | Description |
-|
-
---------------|
-
--------------------------------------------------------|
+| --- | --- |
 | `#L2s` | Discusses Layer 2 scaling solutions like Arbitrum and Optimism. |
 | `#RWA` | Centers on the trend of tokenizing real-world assets. |
 | `#DePIN` | Covers projects focused on decentralized physical infrastructure. |
@@ -64,11 +56,7 @@ These hashtags demonstrate that you are aware of current industry trends.
 These hashtags help you connect authentically with the Web3 community.
 
 | Hashtag | Description |
-|
-
-----------|
-
----------------------------------------------------------|
+| --- | --- |
 | `#gm` | "Good Morning," a daily engagement ritual. |
 | `#WAGMI` | "We're All Gonna Make It," a phrase that embodies optimism. |
 | `#BUIDL` | A playful misspelling of "build," indicating a focus on long-term value. |

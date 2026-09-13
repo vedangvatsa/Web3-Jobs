@@ -27,13 +27,7 @@ Johannesburg's Web3 field mirrors its role as South Africa's financial nucleus.
 The job market in Johannesburg favors professionals with backgrounds in finance, law, or enterprise software development. Salaries are competitive and often exceed those in traditional finance roles.
 
 | Role | Experience Level | Salary Range (ZAR/month) |
-|
-
-----------------------------------------|
-
---------------------------|
-
----------------------------------|
+| --- | --- | --- |
 | Legal & Compliance Officer | Experienced Professional | Competitive |
 | Enterprise [Blockchain Developer](/how-to-become-a-blockchain-developer) | Mid-Level to Senior | Competitive |
 | Institutional Sales & Business Development | Experienced Professional | Competitive (plus commission) |
@@ -56,13 +50,7 @@ To establish a career at the heart of Africa's Web3 ecosystem, visit our [Web3 j
 ## Salary Overview: Web3 Jobs in Johannesburg
 
 **Local/Hybrid Salary Ranges:**| Role | Salary Range (ZAR/month) | Salary Range (USD/month) |
-|
-
-----------------------------------------|
-
--------------------------------------|
-
----------------------------------|
+| --- | --- | --- |
 | Legal & Compliance Officer | Competitive | Competitive |
 | Enterprise Blockchain Developer | Competitive | Competitive |
 | Business Development/Sales | Competitive (plus commission) | Competitive |

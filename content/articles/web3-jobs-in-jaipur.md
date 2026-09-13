@@ -27,13 +27,7 @@ Jaipur's job market primarily includes remote roles and positions with a few loc
 | **Role** |
 
 **Type**| **Salary (per annum)** |
-|
-
-----------|
-
-----------|
-
-------------------------|
+| --- |
 | Frontend Developer (React/Next.js with Web3) | Mid-Level (Remote) | Competitive |
 | Frontend Developer (React/Next.js with Web3) | Local Startup | Competitive |
 | Community and Social Media Manager | Remote Role | Competitive |

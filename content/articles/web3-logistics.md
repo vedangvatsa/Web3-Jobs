@@ -21,11 +21,7 @@ Here we cover how Web3 enhances the logistics industry and the emerging business
 A fundamental issue in traditional logistics is the absence of a single source of truth. Participants in the supply chain, including exporters, shipping companies, port authorities, and importers, maintain separate records. This separation results in several critical problems:
 
 | Problem | Description |
-|
-
----------|
-
--------------|
+| --- | --- |
 | **Opacity** | Companies struggle to gain real-time visibility into their goods' locations. |
 | **Inefficiency and Delays** | Discrepancies between records necessitate manual reconciliation, causing delays at ports and border crossings. |
 | **Fraud and Counterfeiting** | Verifying the authenticity of goods is challenging, allowing counterfeit products to infiltrate the supply chain. |
@@ -42,7 +38,7 @@ Web3 enhances transparency by representing shipments or individual products as [
 - **Mechanism:** Each step in the supply chain updates the item's status on the blockchain through a transaction. For instance, a smart sensor in a shipping container can trigger a transaction upon arrival at a port. Authorized users can access the complete history of the product's movement.
 - **Advantages:**
 
-- Provenance:**Luxury brands can confirm the authenticity of their products to consumers.
+- **Provenance:**Luxury brands can confirm the authenticity of their products to consumers.
  - **Ethical Sourcing:** Coffee companies can demonstrate that their beans originate from fair-trade certified farms.
  - **Real-Time Tracking:** Manufacturers gain immediate insights into their inventory across global supply chains.
 
@@ -69,11 +65,7 @@ Providing customs officials with access to a trusted, shared ledger simplifies c
 Numerous enterprise blockchain initiatives have surfaced, but a new wave of startups is focusing on building open, interoperable solutions on public blockchains.
 
 | Category | Description |
-|
-
-----------|
-
--------------|
+| --- | --- |
 | **Enterprise Blockchain Platforms** | Projects on permissioned blockchains like Hyperledger Fabric focus on corporate consortiums, such as TradeLens, developed by IBM and Maersk. |
 | **Public Blockchain Solutions** | New projects use public blockchains like [Ethereum](/what-is-ethereum) and its Layer 2 solutions for more open and interoperable supply chain applications. |
 | **DePIN Narrative** | Decentralized Physical Infrastructure Networks (DePIN) are developing protocols that incentivize users to contribute to shared infrastructure, such as global IoT sensor networks for shipment tracking. |

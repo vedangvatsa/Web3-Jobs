@@ -19,13 +19,7 @@ AI's primary function is to minimize the time spent on administrative tasks, all
 Communication gaps frequently lead to delays in remote work environments. Messages in Slack may require later interpretation, meeting details can become lost in email threads, and context can evaporate between asynchronous updates. AI tools effectively bridge these communication gaps.
 
 | Tool | Function | Time Saved |
-|
-
-------|
-
-----------|
-
-------------|
+| --- | --- | --- |
 | Otter.ai | Meeting transcription and summarization | 30-45 minutes per week, per person |
 | Fireflies.ai | Automatic meeting notes and action item generation | 30-45 minutes per week, per person |
 | Grammarly | Writing assistance to improve clarity and reduce back-and-forth | N/A |
@@ -43,13 +37,7 @@ Communication gaps frequently lead to delays in remote work environments. Messag
 Remote work often leads to cognitive overload with tasks scattered across email, Slack, and various project management tools. Deadlines can become intertwined with non-urgent tasks, and context may be lost amid asynchronous updates. AI helps prioritize and centralize these tasks.
 
 | Tool | Function | Time Saved |
-|
-
-------|
-
-----------|
-
-------------|
+| --- | --- | --- |
 | Notion AI | Document summarization and project outline generation | 1-2 hours per week |
 | Asana | AI-generated project status summaries | N/A |
 | Motion | Auto-scheduling based on priority and deadlines | Eliminates decision fatigue |
@@ -66,13 +54,7 @@ Remote work often leads to cognitive overload with tasks scattered across email,
 Context switching in remote work can drain significant time daily. Constantly checking Slack, moving between meetings, and attempting to refocus on deep work disrupt productivity. AI tools help reclaim this time by protecting focus blocks and automating low-value tasks.
 
 | Tool | Function | Time Saved |
-|
-
-------|
-
-----------|
-
-------------|
+| --- | --- | --- |
 | RescueTime | Time tracking and analysis | N/A |
 | Clockwise | Scheduling meetings to optimize productivity | 2-3 hours of uninterrupted focus |
 | Reclaim.ai | Smart scheduling that respects availability and protects focus time | N/A |
@@ -86,13 +68,7 @@ Context switching in remote work can drain significant time daily. Constantly ch
 Onboarding remote employees effectively requires creating accessible, searchable documentation. New hires often repeat questions if this information is not readily available, leading to lost time and inefficiencies.
 
 | Tool | Function | Time Saved |
-|
-
-------|
-
-----------|
-
-------------|
+| --- | --- | --- |
 | Notion | Centralized documentation creation | Reduces onboarding time significantly |
 | Slab | Searchable documentation | N/A |
 | Loom | Auto-generated video tutorials with chapters and transcripts | Reduces need for lengthy training sessions |

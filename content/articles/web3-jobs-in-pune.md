@@ -32,13 +32,7 @@ Pune's rise as a Web3 hub is fueled by its distinct advantages and strategic pos
 The demand for skilled Web3 professionals in Pune is surging, with companies vying for top local talent. Salaries in this sector are competitive and often surpass those in traditional IT roles.
 
 | Role | Experience Level | Salary Range (per annum) |
-|
-
-----------------------------------------|
-
-------------------|
-
--------------------------------|
+| --- | --- | --- |
 | **Smart Contract Developer** | Mid-Level (2-4 years) | Competitive |
 | | Senior (5+ years) | Competitive |
 | **Frontend/Full-Stack Web3 Engineer** | Mid-Level | Competitive |

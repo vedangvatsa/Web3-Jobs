@@ -20,13 +20,8 @@ This guide outlines passive liquidity provision, including its advantages, inher
 ### Key Insights
 
 | Insight | Description |
-|
-
------------------------------|
-
-------------------------------------------------------------------------------------------------------|
+| --- | --- |
 | **Core Concept** | Users deposit assets into a liquidity pool and earn fees with minimal active management. |
-|
 
 **The Original Model** | Uniswap v2 operates on a simple `x * y = k` principle, allowing LPs to earn fees from trades. |
 | **Primary Risk ** | The main risk is** impermanent loss**, occurring when the assets' prices diverge significantly. |

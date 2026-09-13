@@ -84,13 +84,7 @@ Section 9.2 of the Yellow Paper lists three gas components per opcode: inherent 
 Some concrete opcode costs after recent EIPs, all verified against evm.codes and eips.ethereum.org:
 
 | Opcode | Gas formula | Notes |
-| 
-
---- | 
-
---- | 
-
---- |
+| --- | --- | --- |
 | `ADD`, `SUB`, `LT`, `GT` | 3 | Very low, group W_verylow |
 | `MUL`, `DIV` | 5 | Low |
 | `SHA3` | 30 + 6 * words + mem expansion | Words = ceil(length / 32) |
@@ -184,13 +178,7 @@ About half of active contract deployers target EVM bytecode even when they deplo
 - Isolation cuts features. No native randomness, no floating point, no async. Randomness must come from commit-reveal, VRF via oracles like Chainlink, or `PREVRANDAO` with economic limits. Heavy computation belongs off chain with proofs posted back.
 
 **Trade-off summary**| Choice | Gain | Cost |
-| 
-
---- | 
-
---- | 
-
---- |
+| --- | --- | --- |
 | Deploy on Ethereum L1 | Strongest settlement, widest liquidity | Highest fees when blocks are full, 12-second blocks |
 | Deploy on EVM L1 (BNB Chain, Polygon PoS, Avalanche) | Lower fees, fast confirmation under 3 seconds | Independent validator set, separate bridge and token risk |
 | Deploy on optimistic rollup (Arbitrum One, Optimism, Base) | Near-full EVM equivalence, inherited L1 security for data | 7-day canonical exit for fraud window, sequencer dependency |

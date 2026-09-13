@@ -37,11 +37,7 @@ Compensation extends beyond base salary. Numerous elements contribute to a total
 
 **Components to Consider:**
 | Compensation Element | Description |
-|
-
------------------------------|
-
-----------------------------------------------------------|
+| --- | --- |
 | Signing Bonus | A one-time bonus for accepting the job. |
 | Performance Bonus | An annual bonus based on individual performance. |
 | Stock Options or RSUs | Equity in the company, particularly valuable in startups.|

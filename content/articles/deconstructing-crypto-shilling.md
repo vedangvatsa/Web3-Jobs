@@ -23,11 +23,7 @@ Shilling refers to the act of promoting a cryptocurrency or [NFT](/what-are-nfts
 Shilling manifests along a spectrum:
 
 | Type of Shilling | Description |
-|
-
-------------------|
-
--------------|
+| --- | --- |
 | Enthusiastic Support | Individuals genuinely believe in a project and promote it passionately. While their intentions may be good, their excitement can mislead others. |
 | Undisclosed Financial Interest | Influencers, developers, or early investors promote projects without disclosing that they own significant amounts of the [tokens](/what-is-a-token) or receive compensation for promotion. |
 | Outright Scams | At the most extreme, shilling is part of "pump and dump" schemes. A group hypes a low-quality coin, causing its price to rise sharply. Once new investors buy in, the original group sells off their tokens, crashing the price and leaving new buyers with devalued assets. |

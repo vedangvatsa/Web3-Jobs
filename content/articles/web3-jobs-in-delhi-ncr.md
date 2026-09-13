@@ -28,13 +28,7 @@ Delhi NCR's Web3 ecosystem emphasizes communication, business, and policy rather
 The Delhi NCR job market shows strong demand for non-technical and business-centric roles that require strong communication and strategic skills. Salaries in this region are competitive relative to the Indian market.
 
 | Role | Experience Level | Salary Range |
-|
-
------------------------------------------------|
-
-------------------------|
-
--------------------------|
+| --- | --- | --- |
 | Marketing & Growth Manager | Mid-Level (3-5 years) | Competitive |
 | | Senior/Lead (5+ years) | Competitive |
 | Public Policy / Government Relations Manager | Experienced Professional | Competitive |

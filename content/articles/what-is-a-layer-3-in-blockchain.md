@@ -122,18 +122,12 @@ To understand how a Layer 3 functions in production, consider the full lifecycle
 |                                |                                        |
 |                                v                                        |
 | 3. Sequencer compresses transaction batches and submits to L2           |
-|    
-
-- Calldata posted to L2 Inbox Contract                               |
-|    
-
-- Or Data Availability attestations posted via AnyTrust/Celestia     |
+| - Calldata posted to L2 Inbox Contract                               |
+| - Or Data Availability attestations posted via AnyTrust/Celestia     |
 |                                |                                        |
 |                                v                                        |
 | 4. L3 State Root proposed on Layer 2 Rollup contract                    |
-|    
-
-- Initiates L3 dispute window or triggers ZK proof verification      |
+| - Initiates L3 dispute window or triggers ZK proof verification      |
 |                                |                                        |
 |                                v                                        |
 | 5. Layer 2 aggregates L3 state commitments into its standard batch     |
@@ -174,29 +168,15 @@ Protocols can eliminate gas fees entirely for end consumers. By funding a paymas
 |                  Layer 3 Protocol Revenue vs Cost Model                 |
 +-------------------------------------------------------------------------+
 | Gross User Inflows:                                                     |
-|   
-
-- Custom token gas fees                                               |
-|   
-
-- In-app micro-transaction charges                                    |
-|   
-
-- Internalized MEV from DEX liquidations                              |
+| - Custom token gas fees                                               |
+| - In-app micro-transaction charges                                    |
+| - Internalized MEV from DEX liquidations                              |
 |                                                                         |
 | Operational Outflows:                                                   |
-|   
-
-- Sequencer node cloud infrastructure (AWS / Bare Metal)              |
-|   
-
-- L2 gas fees for batch posting & state root proposals                |
-|   
-
-- Prover computing infrastructure (for ZK-based L3s)                  |
-|   
-
-- Modular DA storage fees (Celestia / EigenDA)                        |
+| - Sequencer node cloud infrastructure (AWS / Bare Metal)              |
+| - L2 gas fees for batch posting & state root proposals                |
+| - Prover computing infrastructure (for ZK-based L3s)                  |
+| - Modular DA storage fees (Celestia / EigenDA)                        |
 |                                                                         |
 | Net Margin: Retained by Protocol Treasury or distributed to DAO stakers |
 +-------------------------------------------------------------------------+

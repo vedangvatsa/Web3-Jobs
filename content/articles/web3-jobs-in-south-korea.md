@@ -34,15 +34,7 @@ South Korea's Web3 ecosystem is distinguished by several defining trends:
 The demand for skilled talent in South Korea remains strong, particularly for individuals with experience in game development or backgrounds in major internet companies.
 
 | Role | Experience Level | Expected Salary (KRW/year) | Expected Salary (USD/month) |
-|
-
----------------------------------------|
-
-------------------------------|
-
---------------------------------|
-
---------------------------------|
+| --- | --- | --- | --- |
 | Game Developer (Unity/Unreal, C++/C#) | Mid-Level (3-5 years) | Significant value | Significant value |
 | | Senior/Lead (5+ years) | Significant value | Significant value |
 | Smart Contract Developer (Solidity) | Senior | Significant value | Significant value |
@@ -63,13 +55,7 @@ The demand for skilled talent in South Korea remains strong, particularly for in
 #### Local Opportunities (Seoul-based)
 
 | Role | Expected Salary (KRW/year) | Expected Salary (USD/month) |
-|
-
----------------------------------------|
-
---------------------------------|
-
---------------------------------|
+| --- | --- | --- |
 | Game Developer (Mid-level) | Significant value | Significant value |
 | Smart Contract Developer | Significant value | Significant value |
 | Business Development Manager | Significant value | Significant value |
@@ -78,11 +64,7 @@ The demand for skilled talent in South Korea remains strong, particularly for in
 #### Remote Opportunities (Less Common)
 
 | Role | Expected Salary (USD/month) |
-|
-
----------------------------------------|
-
---------------------------------|
+| --- | --- |
 | Mid-Level Developer | Significant value |
 | Senior Developer/Lead | Significant value |
 

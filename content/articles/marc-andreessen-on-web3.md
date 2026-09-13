@@ -43,13 +43,7 @@ Andreessen often references the original vision of the internet as an open, perm
 Andreessen Horowitz, under Andreessen's leadership and crypto lead Chris Dixon's guidance, boasts one of the most extensive portfolios in the Web3 space. Their investments reflect their thesis in action:
 
 | Category | Investments | Purpose |
-|
-
---------------------|
-
---------------------------------------------------|
-
---------------------------------------------------|
+| --- | --- | --- |
 | Infrastructure | Alchemy, LayerZero, Optimism | Building foundational rails for Web3 |
 | DeFi | Uniswap, Compound | Cornerstone applications of DeFi |
 | NFTs and Gaming | OpenSea, Yuga Labs | Supporting digital ownership and culture |

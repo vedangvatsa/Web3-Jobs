@@ -36,17 +36,7 @@ Set clear objectives to guide your career progression.
 For each goal, outline specific steps to ensure accountability and progress.
 
 | Goal | Action Step 1 | Timeline | Action Step 2 | Timeline |
-|
-
------------------------|
-
--------------------------------------------------------|
-
-------------------------|
-
-----------------------------------------|
-
-------------------------|
+| --- | --- | --- | --- | --- |
 | Master New Technology | Complete an advanced online course on the technology | By end of Q3 | Implement the technology in a project | By end of Q4 |
 | Lead a Project | Volunteer to lead a team project | By end of Q2 | Attend leadership training workshops | By end of Q3 |
 
@@ -85,11 +75,7 @@ Core competencies are essential for success in various fields, including [Web3](
 ### Core Competencies
 
 | Skill | Importance |
-|
-
----------------------------|
-
-----------------------------------------------------------------------------------------------|
+| --- | --- |
 | **Technical Foundation** | Understanding relevant technical concepts is critical. While you need not be an expert, foundational knowledge helps prevent costly errors. |
 | **Communication Excellence** | The ability to articulate complex ideas clearly is invaluable. Regular practice in writing and presenting enhances this skill. |
 | **Problem-Solving Methodology** | A structured approach to problem-solving involves defining the issue, researching solutions, evaluating options, implementing the best choice, and measuring the outcome. This framework is applicable in both technical and non-technical contexts. |
@@ -142,11 +128,7 @@ Web3 teams often operate in fast-paced, distributed environments. The competenci
 The importance of these competencies evolves with your career level:
 
 | Career Level | Key Skills Focus |
-|
-
-----------------|
-
-------------------------------------------------------|
+| --- | --- |
 | **Junior Level** | Technical skills are important, but communication also gains importance. |
 | **Mid Level** | A balance of technical and soft skills is essential; leadership potential emerges. |
 | **Senior Level** | Soft skills become increasingly vital in roles requiring collaboration and influence. |

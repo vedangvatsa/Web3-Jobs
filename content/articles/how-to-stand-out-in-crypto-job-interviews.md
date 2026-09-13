@@ -20,10 +20,10 @@ The first question typically asked is, "What got you into Web3? What's your stor
 
 **How to Prepare:**
 
-- Pinpoint the Moment:**Identify the exact experience or concept that sparked your interest in Web3. This could involve using a [DeFi](/what-is-defi) protocol for the first time, reading the [Bitcoin](/what-is-bitcoin) whitepaper, or learning about [NFTs](/what-are-nfts) and their impact on artists.
+- **Pinpoint the Moment:**Identify the exact experience or concept that sparked your interest in Web3. This could involve using a [DeFi](/what-is-defi) protocol for the first time, reading the [Bitcoin](/what-is-bitcoin) whitepaper, or learning about [NFTs](/what-are-nfts) and their impact on artists.
 - **Structure Your Narrative:**
 
-- The Spark:**"While working in traditional finance, I became frustrated with slow settlement times. The first time I witnessed a cross-border stablecoin payment settle in seconds, I realized this was the future."
+- **The Spark:**"While working in traditional finance, I became frustrated with slow settlement times. The first time I witnessed a cross-border stablecoin payment settle in seconds, I realized this was the future."
  - **The Journey:**"This experience led me to explore DeFi extensively. I started with resources from Bankless and eventually provided liquidity on Uniswap to gain hands-on experience."
  - **The Vision:**"Now, I aim to use my product management background to develop accessible financial tools that help users."
 
@@ -33,7 +33,7 @@ The Web3 field is rife with complex discussions and trade-offs. Interviewers see
 
 **The Question:**"What do you think is the biggest challenge facing [Ethereum](/what-is-ethereum) today?" or "What's an underrated project you find exciting?"** How to Prepare:**
 
-- Avoid Generic Responses:**Instead of stating "scalability," offer a specific perspective like, "Even though Layer 2 solutions have alleviated some scalability issues, I believe the fragmentation of liquidity and user experience across rollups poses a significant challenge. The next step involves enhancing cross-L2 interoperability."
+- **Avoid Generic Responses:**Instead of stating "scalability," offer a specific perspective like, "Even though Layer 2 solutions have alleviated some scalability issues, I believe the fragmentation of liquidity and user experience across rollups poses a significant challenge. The next step involves enhancing cross-L2 interoperability."
 - **Express a Unique Perspective:** Formulate a thesis on a specific market sector. For instance, articulate why you think decentralized social media holds more potential than Web3 gaming, or vice versa.
 - **"Strong Opinions, Loosely Held":** Convey your point of view while showing openness to new information that might alter your stance.
 

@@ -27,13 +27,7 @@ Kochi's Web3 environment thrives on strong technical education and active govern
 Kochi currently exhibits strong demand for developers with solid software engineering skills and a thirst for new technologies. The presence of KBA has led to a higher-than-average supply of certified blockchain talent.
 
 | Role | Experience Level | Salary Range |
-|
-
------------------------------------|
-
----------------------|
-
----------------------|
+| --- | --- | --- |
 | Blockchain Developer | Mid-Level (2-4 years) | Competitive |
 | | Senior (5+ years) | Competitive |
 | Full-Stack Web3 Engineer | Mid-Level | Competitive |
@@ -54,13 +48,7 @@ The demand for [Blockchain Developers](/how-to-become-a-blockchain-developer) sp
 ### Local Opportunities
 
 | Role | Salary Range | Monthly Equivalent |
-|
-
------------------------------------|
-
----------------------|
-
---------------------------|
+| --- | --- | --- |
 | Blockchain Developer | Competitive | Competitive |
 | Full-Stack Developer | Competitive | Competitive |
 | Research Engineer (KBA-affiliated) | Competitive | Competitive |
@@ -68,11 +56,7 @@ The demand for [Blockchain Developers](/how-to-become-a-blockchain-developer) sp
 ### Remote Opportunities
 
 | Role | Monthly Salary Range |
-|
-
----------------------|
-
-----------------------------|
+| --- | --- |
 | Mid-Level Developer | Competitive |
 | Senior Developer | Competitive |
 | Product Manager | Competitive |

@@ -22,7 +22,7 @@ Ensuring your financial stability is the first step before pursuing career growt
 
 **1. Secure Your Fiat Runway:**
 
-- The Rule:**Aim to save at least 6-12 months of living expenses in fiat currency (USD, EUR, etc.) in a traditional bank account.
+- **The Rule:**Aim to save at least 6-12 months of living expenses in fiat currency (USD, EUR, etc.) in a traditional bank account.
 - **Why it Matters:** The value of your crypto assets, including token compensation, can fluctuate dramatically. Relying on these assets for immediate expenses is risky. Maintaining fiat savings provides a safety net, allowing you to focus on work without the pressure of needing to sell crypto assets at a loss.
 
 **2. Avoid Timing the Bottom:**- Resist the urge to panic sell. If you believed in the long-term potential of your holdings during the bull market, the underlying fundamentals likely remain unchanged; only the market price has shifted. Panic selling often results in significant financial loss.
@@ -37,12 +37,12 @@ A bear market presents a unique opportunity. The distractions of the bull market
 
 **1. Deepen Your Knowledge:**
 
-- Read Everything:**Use this period to study extensively. Revisit foundational whitepapers and explore complex topics that interest you, such as the mechanics of specific [DeFi](/what-is-defi) protocols or the cryptography behind ZK-proofs.
+- **Read Everything:**Use this period to study extensively. Revisit foundational whitepapers and explore complex topics that interest you, such as the mechanics of specific [DeFi](/what-is-defi) protocols or the cryptography behind ZK-proofs.
 - **High-Quality Content:** With fewer "tourists" and scammers around, the quality of content on platforms like Twitter and podcasts improves. This is an ideal time to learn from recognized experts in the field.
 
 **2. Expand Your [Portfolio](/building-web3-portfolio):**
 
-- Launch Personal Projects:**Use your newfound time to develop that side project you have considered. Whether it is building a new dApp, contributing to an open-source protocol, or creating a detailed Dune Analytics dashboard, these efforts enhance your skills and provide concrete evidence of your work.
+- **Launch Personal Projects:**Use your newfound time to develop that side project you have considered. Whether it is building a new dApp, contributing to an open-source protocol, or creating a detailed Dune Analytics dashboard, these efforts enhance your skills and provide concrete evidence of your work.
 - **GitHub as an Asset:** A portfolio of public contributions on GitHub makes you an attractive candidate for top jobs that still exist in well-funded projects.
 
 **3. Network with Committed Professionals:**- The individuals who remain engaged during bear markets are often long-term builders. These connections are invaluable.

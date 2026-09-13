@@ -26,11 +26,7 @@ Before you write your first line of [Solidity](/best-programming-languages-for-b
 ### Core Concepts to Understand
 
 | Concept | Description |
-|
-
-------------------|
-
------------------------------------------------------------------------------------------------------------|
+| --- | --- |
 | **Decentralization** | Explore what decentralization truly means for applications, focusing on distributed networks and eliminating centralized control. |
 | **[Blockchain](/what-is-a-blockchain) Basics** | Familiarize yourself with the foundational elements of blockchain, including blocks, transactions, public/private key cryptography, and consensus mechanisms such as Proof-of-Work and Proof-of-[Stake](/how-to-become-a-web3-staking-specialist). Start with the [Ethereum](/what-is-ethereum) documentation for insights. |
 | **Smart Contracts** | Learn that a [smart contract](/what-are-smart-contracts) is a self-executing code segment on the blockchain, ensuring transparent execution without intermediaries. |

@@ -77,15 +77,10 @@ Web3 requires users to sign every action, which can be burdensome in gaming scen
 A Smart Account can be programmed to execute multiple operations within a single transaction. For example, a user could approve a [token](/what-is-a-token) swap and then immediately [stake](/how-to-become-a-web3-staking-specialist) the received tokens in a liquidity pool, all in one atomic transaction. This saves on gas fees and simplifies complex [DeFi](/what-is-defi) interactions.
 
 | Feature | Description |
-|
-
------------------------------|
-
---------------------------------------------------------------------------------------------------|
+| --- | --- |
 | **Social Recovery** | Allows users to designate guardians for account recovery. |
 | **Gasless Transactions** | Enables dApps to cover gas fees, allowing user interactions without ETH. |
 | **Session Keys** | Provides temporary keys for specific actions to reduce the number of required user signatures. |
-|
 
 **Batch Transactions** | Permits execution of multiple operations in a single transaction to simplify user interactions. |
 

@@ -24,11 +24,7 @@ The vitality of a [blockchain](/what-is-a-blockchain)'s developer community dire
 To evaluate developer activity on a public blockchain, several metrics come into play. These indicators collectively provide a complete view of the ecosystem's health.
 
 | Metric | Description |
-|
-
----------------------------------|
-
------------------------------------------------------------------------------------------------------------------------|
+| --- | --- |
 | **Core Protocol Commits** | Frequency and significance of updates to the Litecoin codebase on repositories like [GitHub](/building-web3-portfolio). |
 | **Number of Active Developers** | Monthly active developers contributing to the ecosystem, as reported by various industry sources. |
 | **Ecosystem Project Growth** | Number and quality of new projects built on Litecoin, including wallets, payment processors, and second-layer solutions. |

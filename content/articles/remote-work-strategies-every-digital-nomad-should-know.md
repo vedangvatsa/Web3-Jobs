@@ -44,11 +44,7 @@ A "third place" refers to a social environment outside your home and office, vit
 The tools you use directly impact your productivity. Investing in high-quality equipment yields significant returns.
 
 | Tool Type | Recommended Items |
-|
-
--------------------|
-
-------------------------------------------------------------|
+| --- | --- |
 | Tech Gear | Powerful laptop, noise-canceling headphones, portable monitor |
 | Ergonomics | Portable laptop stand, ergonomic mouse, separate keyboard |
 | Software | Project management tools (Notion, Asana), reliable VPN |

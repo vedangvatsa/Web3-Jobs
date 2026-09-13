@@ -28,11 +28,7 @@ Tokenizing a real-world property involves a combination of legal structuring and
 Tokenization offers several advantages:
 
 | Benefit | Description |
-|
-
------------------------------|
-
-----------------------------------------------------------------------------------|
+| --- | --- |
 | Increased Liquidity | Turns a traditionally illiquid asset into a tradable digital token. |
 | Fractionalization & Accessibility | Lowers the barrier to entry, enabling smaller investors to access high-value real estate. |
 | Transparency | All ownership records and transactions are recorded on an immutable public ledger. |

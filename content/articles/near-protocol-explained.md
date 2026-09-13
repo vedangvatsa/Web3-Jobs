@@ -60,13 +60,7 @@ NEAR is account-based like Ethereum, but the model differs in ways that matter d
 Comparison to Ethereum in one glance:
 
 | Area | Ethereum | NEAR |
-| 
-
---- | 
-
---- | 
-
---- |
+| --- | --- | --- |
 | Address | `0x123...` public key | `alice.near` name or implicit hash |
 | Keys | One private key | Many keys with scoped permissions |
 | Execution | Synchronous call returns in one block | Asynchronous receipts passed between shards |
@@ -206,13 +200,7 @@ Confidential Intents, previewed in March 2026, add private execution inside a TE
 * Inflation dynamics. Staking yield depends on total stake ratio, validator commission, and burn rate. A drop in usage can raise net issuance, which affects holders who do not stake.
 
 **Trade-off table**| Use | Gain | Cost you pay |
-| 
-
---- | 
-
---- | 
-
---- |
+| --- | --- | --- |
 | Frequent micro-transactions | Sub-cent fees and 1.3s finality | Need to handle async receipts |
 | Launch on many chains at once | One NEAR account and one contract controls 30+ chains | Trust in MPC set and verifier contract |
 | Swap BTC to USDC without wrapping UX | Solver-based routing with 1 bps base fee | Solver depth varies for very large size |

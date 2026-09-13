@@ -188,9 +188,7 @@ To prevent potential donation attacks on the vault share calculation, implemente
 | Function | Previous Gas | New Gas | Difference |
 | :--- | :--- | :--- | :--- |
 | `deposit()` | 64,210 | 51,800 | -12,410 (-19.3%) |
-| `withdraw()` | 72,400 | 61,150 | -11,250 (-15.5%) |
-
-## Related Issues & PR Dependencies
+| `withdraw()` | 72,400 | 61,150 | -11,250 (-15.5%) | ## Related Issues & PR Dependencies
 - Closes #142 (Integrate Aave V3 Vault Adapter)
 - Depends on PR #139 (Upgrade OpenZeppelin Security Libraries)
 ```

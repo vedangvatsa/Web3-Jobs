@@ -39,11 +39,7 @@ Bounties represent a primary entry point into the Web3 gig economy. A bounty is 
 **Types of Bounties:** Bounties are available across a wide range of skills beyond coding, including:
 
 | Type | Examples |
-|
-
-------------|
-
---------------------------------------------------------------|
+| --- | --- |
 | Technical | Fix a bug in our [smart contract](/what-are-smart-contracts), write a test case, build a Telegram bot. |
 | Content | Write a blog post, create a Twitter thread, translate documentation. |
 | Design | Design a POAP for a community call, create a Twitter banner. |
@@ -51,7 +47,7 @@ Bounties represent a primary entry point into the Web3 gig economy. A bounty is 
 
 **How to Succeed with Bounties:**
 
-- Start Small:**Avoid large, complex tasks initially. Choose manageable bounties to build confidence and reputation.
+- **Start Small:**Avoid large, complex tasks initially. Choose manageable bounties to build confidence and reputation.
 - **Communicate Clearly:** Clarify deliverables and expectations with the bounty issuer before starting.
 - **Deliver High-Quality Work:** Submit work you are proud of; your reputation depends on it.
 - **Meet Deadlines:** Reliability is highly valued in decentralized environments.

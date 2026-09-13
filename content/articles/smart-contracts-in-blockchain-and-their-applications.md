@@ -41,13 +41,7 @@ The strength of smart contracts derives from their intrinsic properties, which c
 Smart contracts underpin almost all decentralized applications (dApps). Their capacity to automate complex processes creates numerous career opportunities for skilled professionals.
 
 | Industry | Application Example | Required Roles |
-|
-
-------------------------------|
-
---------------------------------------------------------------|
-
----------------------------------------------|
+| --- | --- | --- |
 | Decentralized Finance (DeFi) | Supports decentralized exchanges, lending protocols, stablecoins. | Solidity developers, security auditors, financial engineers. |
 | Supply Chain Management | Tracks goods in transit; automates payments upon verification. | Logisticians, IoT specialists. |
 | Insurance | Parametric insurance products that automate claims based on data. | Insurance analysts, data scientists. |

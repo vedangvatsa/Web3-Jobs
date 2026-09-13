@@ -22,13 +22,7 @@ Fiat-collateralized stablecoins represent the most prevalent and straightforward
 | **Example** |
 
 **Issuer**| **Pegged Asset** |
-|
-
--------------|
-
-------------|
-
-------------------|
+| --- |
 | Tether (USDT) | Tether Limited | U.S. Dollar |
 | USD Coin (USDC) | Circle | U.S. Dollar |
 | PayPal USD (PYUSD) | PayPal | U.S. Dollar |
@@ -53,13 +47,7 @@ Crypto-collateralized stablecoins strive for stability and decentralization by u
 | **Example** |
 
 **Issuer**| **Pegged Asset** |
-|
-
--------------|
-
-------------|
-
-------------------|
+| --- |
 | Dai (DAI) | MakerDAO | U.S. Dollar |
 
 **Mechanism **: To create these stablecoins, users must lock a cryptocurrency asset (such as [ETH](/what-is-ethereum) or WBTC) in a [smart contract](/what-are-smart-contracts) vault. The system operates on an** over-collateralization**model, requiring users to deposit collateral worth more than the stablecoins they mint. For example, to mint a certain amount of DAI, a user might need to lock up more than that amount in collateral. This extra collateral serves as a buffer against underlying asset price volatility.
@@ -82,7 +70,6 @@ Algorithmic stablecoins represent the most experimental and high-risk category. 
 | **Example** |
 
 **Mechanism**|
-|
 
 -------------|
 

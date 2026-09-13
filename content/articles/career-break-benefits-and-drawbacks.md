@@ -30,13 +30,7 @@ Burnout is a prevalent issue in many industries. The constant demands of modern 
 Financial considerations often pose the most significant barrier. Unless your employer offers a paid sabbatical, you will need sufficient savings to sustain your living expenses during your break. A budget is essential, outlining expected costs and identifying potential income sources during this period. For example, if you plan a six-month break with a monthly expense of a few thousand dollars, you should aim for sufficient savings to cover your needs.
 
 | Expense Category | Estimated Monthly Cost | Total for 6 Months |
-|
-
-------------------|
-
------------------------|
-
---------------------|
+| --- | --- | --- |
 | Rent/Mortgage | Varies | Varies |
 | Utilities | Varies | Varies |
 | Groceries | Varies | Varies |

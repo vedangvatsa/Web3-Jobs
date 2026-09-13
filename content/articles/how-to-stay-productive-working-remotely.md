@@ -60,13 +60,7 @@ Maintaining a healthy work-life balance is important for remote workers. Lonelin
 Implementing the above strategies can enhance your remote work experience. Consider the following practical tips:
 
 | Strategy | Implementation Example | Expected Outcome |
-|
-
-------------------------------|
-
--------------------------------------------|
-
----------------------------------------|
+| --- | --- | --- |
 | Dedicated Workspace | Set up an office in a separate room | Improved focus and productivity |
 | Clear Work Hours | Work from 9 AM to 5 PM | Better work-life balance |
 | Scheduled Breaks | 5-minute breaks every hour | Increased energy and creativity |

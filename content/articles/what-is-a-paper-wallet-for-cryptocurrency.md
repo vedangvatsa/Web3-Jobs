@@ -42,22 +42,14 @@ A paper wallet should function as a one-time savings device. Once you sweep the 
 ### Advantages
 
 | Advantages | Description |
-|
-
---------------------------------|
-
-------------------------------------------------------------------------------------------------------|
+| --- | --- |
 | Offline Security | When created correctly on an air-gapped machine, the private key remains entirely offline, protecting it from online threats such as hacking and phishing. |
 | Simplicity | The concept is straightforward; it serves as a physical backup of your keys. |
 
 ### Disadvantages
 
 | Disadvantages | Description |
-|
-
---------------------------------|
-
-------------------------------------------------------------------------------------------------------|
+| --- | --- |
 | Physical Vulnerability | The medium itself is fragile. Paper can be easily lost, damaged by water or fire, or fade over time.|
 | Risk of Human Error | Errors can occur during creation or usage. Generating keys on a non-secure computer risks exposure. Mistakes while sweeping the key can lead to loss of funds. |
 | Not User-Friendly | Paper wallets are cumbersome to use. You typically must sweep the entire balance rather than spending portions. |

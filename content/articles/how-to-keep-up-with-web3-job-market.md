@@ -31,7 +31,7 @@ While Twitter excels in delivering fast updates, newsletters and blogs provide i
 
 - **Must-Read Newsletters:**
 
-- Bankless:**An essential guide to the DeFi ecosystem, featuring a weekly roundup that covers critical developments.
+- **Bankless:**An essential guide to the DeFi ecosystem, featuring a weekly roundup that covers critical developments.
  - **The Defiant:** Offers detailed coverage of DeFi, including trends and governance issues.
  - **Week in [Ethereum](/what-is-ethereum) News:** A respected, developer-focused summary of events in the Ethereum ecosystem.
 - **Identify Niche Experts:** Every area within Web3 has leading experts who publish newsletters. Find those authorities in your field of interest and subscribe to their updates.
@@ -42,7 +42,7 @@ Podcasts allow you to absorb information during your commute, workouts, or daily
 
 - **Essential Podcasts:**
 
-- Bankless:**Features interviews with prominent figures in crypto.
+- **Bankless:**Features interviews with prominent figures in crypto.
  - **Unchained:** Journalist Laura Shin hosts critical interviews that dissect industry topics.
  - **Bell Curve:** In-depth discussions on specific crypto-economic issues, hosted by Blockworks researchers.
  - **The Chopping Block:** A lively roundtable show from a16z crypto, focusing on current industry news and debates.
@@ -66,11 +66,7 @@ Understanding the underlying data is vital to grasping industry trends. Analyze 
 Establishing a routine is essential for managing your information intake. You cannot consume everything; instead, focus on a few key sources in each category and create a daily or weekly schedule.
 
 | Time Slot | Activity |
-|
-
--------------------|
-
----------------------------------------------------|
+| --- | --- |
 | Morning (15 mins) | Review curated Twitter lists and newsletters |
 | Commute/Workout | Listen to a podcast episode |
 | Evening (30 mins) | Explore a single topic through research papers, tutorials, or Dune dashboards |

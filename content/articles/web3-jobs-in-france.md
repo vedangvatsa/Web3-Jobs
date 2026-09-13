@@ -35,13 +35,7 @@ France's crypto sector is defined by its technical prowess and its collaboration
 The demand for Web3 professionals in France is strong, particularly for developers specializing in security and core protocols. The following table outlines the salary expectations for key roles within the sector:
 
 | Role | Experience Level | Salary Range (€) |
-|
-
-----------------------------------------|
-
---------------------------|
-
------------------------------|
+| --- | --- | --- |
 | Smart Contract Developer (Solidity/Rust)| Mid-Level (3-5 years) | Competitive |
 | | Senior (5+ years) | Competitive |
 | Security Researcher/Auditor | Experienced | Competitive |

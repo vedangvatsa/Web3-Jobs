@@ -29,13 +29,7 @@ The formal Web3 job market in Bamako currently offers limited opportunities. How
 | **Role** |
 
 **Description**| **Salary Range** |
-|
-
---------------------------------------------------|
-
-----------------------------------------------------------|
-
------------------------------------|
+| --- |
 | Remote Web3 Developer (Full-Stack, Mobile) | Developers working remotely for global companies | Significant monthly compensation |
 | Community Manager (French/Bambara) | Building and managing communities in local languages | Significant monthly compensation |
 | Entrepreneurs and Educators | Leading new projects or educational initiatives | Varies, often self-funded |
@@ -63,7 +57,6 @@ The following table summarizes expected salaries for various positions in Bamako
 | **Role** |
 
 **Compensation**|
-|
 
 --------------------------------------------------|
 
@@ -84,7 +77,6 @@ The following table summarizes expected salaries for various positions in Bamako
 | **Expense** |
 
 **Cost**|
-|
 
 ------------------------------|
 

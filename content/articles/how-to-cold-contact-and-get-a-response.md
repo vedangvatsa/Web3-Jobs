@@ -37,7 +37,9 @@ Imagine you are a product manager aiming to join a [DeFi](/what-is-defi) protoco
 - Using their product extensively to gain first-hand experience.
 - Reading their latest blog posts and listening to relevant podcasts.
 - Reviewing their protocol's documentation for technical details.
-- Analyzing their competitors to identify potential gaps or opportunities.**Step 2: Identify a Specific Insight
+- Analyzing their competitors to identify potential gaps or opportunities.
+
+**Step 2: Identify a Specific Insight
 
 **From your research, pinpoint one insightful suggestion that demonstrates a deep understanding of their challenges. Avoid generic compliments.
 

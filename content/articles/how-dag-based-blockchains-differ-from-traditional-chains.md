@@ -63,11 +63,7 @@ Despite their benefits, DAGs face notable challenges:
 Several prominent projects incorporate DAG technology:
 
 | Project | Description |
-|
-
----------------|
-
-----------------------------------------------------------------------------------------------------------------------|
+| --- | --- |
 | Hedera (HBAR) | Uses a "hashgraph" consensus algorithm, achieving high throughput while being governed by a council of corporations. |
 | Fantom (FTM) | Employs a DAG-based mechanism called "Lachesis" for asynchronous transaction processing, complemented by an EVM-compatible blockchain layer. |
 | Nano (XNO) | A feeless cryptocurrency designed for instant transactions, featuring a "block-lattice" where each account maintains its blockchain, forming a DAG. |

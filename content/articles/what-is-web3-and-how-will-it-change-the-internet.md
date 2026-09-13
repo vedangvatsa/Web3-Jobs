@@ -40,15 +40,7 @@ Web3 relies on fundamental principles that set it apart from the centralized int
 In Web3, applications and data are not confined to centralized servers controlled by a single entity. Instead, Web3 applications, known as decentralized applications (dApps), operate on **[blockchains](/what-is-a-blockchain)**. A blockchain comprises a peer-to-peer network of computers that collaboratively maintain a secure, shared database.
 
 | Feature | Web1 | Web2 | Web3 |
-|
-
-------------------------|
-
--------------------------------|
-
--------------------------------|
-
--------------------------------|
+| --- | --- | --- | --- |
 | Control | Centralized | Centralized | Decentralized |
 | Data Ownership | Limited | Platform-owned | User-owned |
 | Interaction | Read-only | Read-write | Read-write-own |

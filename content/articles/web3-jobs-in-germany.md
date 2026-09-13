@@ -30,13 +30,7 @@ Germany's Web3 contributions are critical, concentrating on the foundational eng
 The German market prioritizes highly technical roles, offering competitive salaries that rank among the highest in Europe for Web3 professionals, particularly experienced engineers.
 
 | Role | Mid-Level Salary (€) | Senior Salary (€) |
-|
-
-------------------------------------|
-
-----------------------|
-
-----------------------------|
+| --- | --- | --- |
 | Protocol Engineer (Rust/Go) | Competitive | Competitive |
 | [Smart Contract Developer](/how-to-become-a-web3-smart-contract-developer) ([Solidity](/best-programming-languages-for-blockchain-development)) | Competitive | Competitive |
 | Security Researcher / Auditor | Competitive | Competitive |

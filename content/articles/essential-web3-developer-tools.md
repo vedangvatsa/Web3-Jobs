@@ -19,13 +19,7 @@ This guide highlights the critical tools every Web3 developer should be familiar
 Integrated development environments (IDEs) like Foundry and Hardhat serve as foundational tools for smart contract development. They offer complete frameworks for compiling, testing, and deploying [Solidity](/best-programming-languages-for-blockchain-development) code.
 
 | Tool | Language | Key Features |
-|
-
-----------|
-
-------------------|
-
----------------------------------------------------------------|
+| --- | --- | --- |
 | Foundry | Rust | Speed, Solidity-native testing, built-in fuzz testing |
 | Hardhat | JavaScript/TypeScript | Flexibility, extensive plugin ecosystem, established community |
 
@@ -39,13 +33,7 @@ Integrated development environments (IDEs) like Foundry and Hardhat serve as fou
 JavaScript libraries like Ethers.js and Viem enable blockchain interaction within your frontend application.
 
 | Library | Description | Advantages |
-|
-
------------|
-
--------------------------------------------------------|
-
-----------------------------------------------------------|
+| --- | --- | --- |
 | Ethers.js | Long-standing library for Ethereum interaction | Feature-rich, stable, extensive community support |
 | Viem | Lightweight, modular alternative to Ethers.js | Excellent performance, type safety with TypeScript |
 
@@ -61,13 +49,7 @@ JavaScript libraries like Ethers.js and Viem enable blockchain interaction withi
 Testing your dApp locally without incurring gas fees is important.
 
 | Tool | Description | Use Case |
-|
-
------------|
-
----------------------------------------------------------------|
-
-----------------------------------------------------------|
+| --- | --- | --- |
 | Anvil | Fast local testnet node part of Foundry | Deploy and test contracts in a local environment |
 | MetaMask | Popular browser-based crypto wallet | Connect to local Anvil testnet for dApp interaction |
 
@@ -79,13 +61,7 @@ Testing your dApp locally without incurring gas fees is important.
 Using established libraries for standard components like ERC-20 or ERC-721 [tokens](/what-is-a-token) significantly enhances security and efficiency.
 
 | Library | Features | Benefits |
-|
-
--------------------------|
-
---------------------------------------------------------------|
-
--------------------------------------------------------------|
+| --- | --- | --- |
 | OpenZeppelin Contracts | Audited implementations of common standards | Time-saving, security-enhancing, community-accepted standards|
 
 - **OpenZeppelin Contracts:** This library remains the gold standard for secure, reusable smart contract components. Their implementations undergo thorough audits, ensuring they meet community-accepted standards. Using OpenZeppelin saves significant development time while improving the security posture of your dApp.
@@ -95,13 +71,7 @@ Using established libraries for standard components like ERC-20 or ERC-721 [toke
 Querying historical data or complex states directly from the blockchain can be inefficient.
 
 | Tool | Description | Purpose |
-|
-
-------------|
-
----------------------------------------------------------------|
-
-----------------------------------------------------------|
+| --- | --- | --- |
 | The Graph | Indexing and querying blockchain data | Simplifies data retrieval for frontend applications |
 
 - **The Graph:** This tool has become the industry standard for indexing and querying blockchain data. Developers create a "subgraph" that listens for events emitted by smart contracts and organizes data into a database. The frontend can then access this data via a fast GraphQL API.
@@ -113,13 +83,7 @@ Querying historical data or complex states directly from the blockchain can be i
 Vulnerability detection is critical in smart contract development.
 
 | Tool | Description | Functionality |
-|
-
----------|
-
----------------------------------------------------------------|
-
--------------------------------------------------------------|
+| --- | --- | --- |
 | Slither | Static analysis framework by Trail of Bits | Scans Solidity code for vulnerabilities, logic errors |
 
 - **Slither:** This static analysis framework helps developers identify known vulnerabilities, logic errors, and code quality issues in Solidity code. Integrating Slither into your CI/CD pipeline ensures you catch potential security flaws early in the development process.

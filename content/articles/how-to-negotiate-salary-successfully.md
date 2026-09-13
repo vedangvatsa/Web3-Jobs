@@ -74,15 +74,7 @@ Aim for a counteroffer that is higher than the initial offer, depending on your 
 ### Salary Comparison Table
 
 | Job Title | Location | Average Salary (Base) | Total Compensation (including benefits) |
-|
-
------------------------|
-
--------------------|
-
-------------------------|
-
-----------------------------------------|
+| --- | --- | --- | --- |
 | Software Engineer | San Francisco, CA | Significantly higher | Higher than average |
 | Software Engineer | Austin, TX | Lower than average | Competitive |
 | Product Manager | New York, NY | Higher than average | Competitive |

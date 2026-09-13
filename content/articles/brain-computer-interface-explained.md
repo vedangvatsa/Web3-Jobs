@@ -34,13 +34,7 @@ The primary focus of BCI research today lies in medical applications, particular
 * **Restoring Movement**: BCIs are also being used to operate advanced prosthetic limbs. An individual with an amputation can learn to control a robotic arm by thinking about the desired movement. In even more sophisticated applications, BCIs can bypass spinal cord injuries by reading motor signals from the brain and transmitting them to electrodes that stimulate the person's own muscles, allowing movement in paralyzed limbs.
 
 | Application | Description | Example |
-|
-
----------------------------|
-
--------------------------------------------------------------------------------------------------|
-
---------------------------------------|
+| --- | --- | --- |
 | Communication | Enables typing, emailing, and browsing using imagined cursor movements. | A paralyzed user sending emails. |
 | Restoring Movement | Allows control of prosthetic limbs or stimulation of paralyzed muscles through brain signals. | Controlling a robotic arm. |
 | Neurofeedback | Offers users insights into their brain activity to help with conditions like anxiety or ADHD. | A user learning to manage stress. |

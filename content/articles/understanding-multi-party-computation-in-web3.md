@@ -41,13 +41,7 @@ Multi-Party Computation provides a different approach. Rather than depending on 
 ### MPC vs. Multisig: The Key Differences
 
 | Feature | Multi-Signature (Multisig) | Multi-Party Computation (MPC/TSS) |
-| 
-
------------------ | 
-
------------------------------------------------------------- | 
-
------------------------------------------------------------- |
+| --- | --- | --- |
 | **Mechanism** | Multiple individual keys, multiple on-chain signatures. | One key split into shares, single on-chain signature. |
 | **Location** | On-chain (logic is in a smart contract). | Off-chain (logic is in a cryptographic protocol). |
 | **Speed & Cost** | Slower and more expensive (multiple on-chain signatures). | Faster and cheaper (single on-chain signature). |

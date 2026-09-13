@@ -60,11 +60,7 @@ Success hinges on more than just a marketing budget. Projects must invest in loc
 ### Local Opportunities (Brazil-Based)
 
 | Position | Salary Range (BRL) |
-|
-
-----------------------------------|
-
-----------------------|
+| --- | --- |
 | Community Manager (Portuguese) | 6,000 - 12,000/month |
 | Content Creator/Influencer Liaison| 8,000 - 16,000/month |
 | Marketing Manager | 10,000 - 20,000/month|
@@ -73,11 +69,7 @@ Success hinges on more than just a marketing budget. Projects must invest in loc
 ### Remote Opportunities (Global Companies)
 
 | Position | Salary Range (USD) |
-|
-
-----------------------------------|
-
-----------------------|
+| --- | --- |
 | Mid-Level Marketer | 2,000 - 4,000/month |
 | Senior Marketing Manager | 3,500 - 6,000+/month |
 | Head of Latin America Growth | 4,500 - 8,000+/month |

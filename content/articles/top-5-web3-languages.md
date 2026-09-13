@@ -28,11 +28,7 @@ For developers aiming to create applications on [Ethereum](/what-is-ethereum) or
 ### Pros and Cons
 
 | Pros | Cons |
-|
-
--------------------------------|
-
--------------------------------------|
+| --- | --- |
 | Largest developer ecosystem | Security vulnerabilities exist |
 | High demand for developers | EVM design limits performance |
 | Relatively easy to learn | Gas fees can be costly |
@@ -52,11 +48,7 @@ While Solidity excels at the application layer, Rust is increasingly the languag
 ### Pros and Cons
 
 | Pros | Cons |
-|
-
--------------------------------|
-
--------------------------------------|
+| --- | --- |
 | Exceptional performance | Steep learning curve |
 | Strong memory safety | Smaller ecosystem compared to Solidity |
 | High demand and salaries | More complex than other languages |
@@ -76,11 +68,7 @@ JavaScript and TypeScript skills are essential in the Web3 environment. Every de
 ### Pros and Cons
 
 | Pros | Cons |
-|
-
--------------------------------|
-
--------------------------------------|
+| --- | --- |
 | Transferable skills from existing knowledge | Limited to client-side logic |
 | Essential for full-stack roles | Cannot write smart contracts |
 | Rich library ecosystem | |
@@ -100,11 +88,7 @@ While Python may not be the primary language for smart contract development, it 
 ### Pros and Cons
 
 | Pros | Cons |
-|
-
--------------------------------|
-
--------------------------------------|
+| --- | --- |
 | Easy to learn | Limited use in smart contracts |
 | Strong data science capabilities | Not widely adopted for on-chain use |
 | Strong Web3 libraries | |
@@ -124,11 +108,7 @@ Similar to Rust, Go is favored for constructing the underlying infrastructure of
 ### Pros and Cons
 
 | Pros | Cons |
-|
-
--------------------------------|
-
--------------------------------------|
+| --- | --- |
 | Clean and readable syntax | Not applicable for application-level smart contracts |
 | Excellent concurrency support | Demand is niche and concentrated |
 | Strong performance | |
@@ -138,15 +118,7 @@ Similar to Rust, Go is favored for constructing the underlying infrastructure of
 ### Language Summary
 
 | Language | Primary Use Case | Learning Curve | Ecosystems |
-|
-
-------------------|
-
-----------------------------------|
-
-------------------|
-
-----------------------------------|
+| --- | --- | --- | --- |
 | Solidity | Smart Contracts | Easy | Ethereum, EVM Chains |
 | Rust | Blockchains (Layer 1) | Hard | Solana, Polkadot, Near |
 | JavaScript/TS | Frontends (dApps) | Easy | All ecosystems |

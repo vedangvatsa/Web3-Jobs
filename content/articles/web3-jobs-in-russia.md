@@ -29,13 +29,7 @@ The Russian crypto scene is characterized by profound technical expertise and a 
 The global demand for Russian developers is exceptionally high, particularly for senior technical positions. These professionals are recognized for their strong problem-solving abilities and deep engineering knowledge.
 
 | Role | Experience Level | Salary Range |
-|
-
-------|
-
-------------------|
-
----------------------|
+| --- | --- | --- |
 | Smart Contract & Protocol Engineers ([Solidity](/best-programming-languages-for-blockchain-development)/Rust/Go) | Senior (Remote, Global Company) | Competitive |
 | Security Researchers & Auditors | Senior (Remote, Global Company) | Competitive |
 | Quantitative Developers & Analysts | Senior (Remote, Global Company) | Competitive |

@@ -60,13 +60,7 @@ Immerse yourself in Web3 by learning about smart contracts, using dApps, and und
 #### Step 3: Build a [Portfolio](/building-web3-portfolio)
 
 | Portfolio Item | Description | Outcome |
-|
-
-------------------------|
-
---------------------------------------------------------------------------------------------------|
-
-----------------------------------------------|
+| --- | --- | --- |
 | Open-source Contributions | Engage with an open-source Web3 project on GitHub, studying their test suite. | Gain practical experience and visibility. |
 | Missing Test Coverage | Identify an area lacking test coverage and submit a pull request with new tests. | Showcase your initiative and skills. |
 | Test Plan Publication | Write a detailed test plan for a popular dApp and publish it online. | Enhance credibility and display expertise. |

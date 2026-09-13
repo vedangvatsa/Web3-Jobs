@@ -18,15 +18,10 @@ The Web3 community in Addis Ababa features a grassroots environment filled with 
 Although the Web3 ecosystem in Addis Ababa is still developing, it possesses several critical components for future growth.
 
 | Factor | Details |
-|
-
---------------------------|
-
-----------------------------------------------------------------------------------------------|
+| --- | --- |
 | **Youth Population** | Ethiopia has one of the youngest demographics globally, eager to adopt new technologies. |
 | **Use Case Focus** | The community emphasizes practical applications, such as decentralized identity systems and transparent supply chains for coffee. |
 | **Government Interest** | The Ethiopian government has shown interest in blockchain initiatives, including a digital identity system for students. |
-|
 
 **Developer Community** | While small, the local developer community is enthusiastic. Hubs like IceAddis nurture tech entrepreneurship and collaboration. |
 
@@ -60,13 +55,7 @@ Are you ready to become a pioneer in one of Africa's emerging markets? Our [Web3
 ## Complete Salary Guide: Web3 Jobs in Addis Ababa
 
 | Role | Local/Remote Hybrid Salary Range | Full-Time Remote Salary Range |
-|
-
--------------------------------|
-
-------------------------------------------------|
-
----------------------------------------|
+| --- | --- | --- |
 | **Blockchain Developer** | Competitive local salaries | Competitive remote salaries |
 | **Community Manager** | Competitive local salaries | |
 | **Project Manager** | Competitive local salaries | |

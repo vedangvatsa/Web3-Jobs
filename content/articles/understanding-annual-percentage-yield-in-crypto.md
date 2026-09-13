@@ -50,13 +50,7 @@ Yields in DeFi originate from various sources, including:
 ### Yield Sources Table
 
 | Yield Source | Description | Example Protocol |
-|
-
------------------------|
-
----------------------------------------------------------------|
-
-----------------------|
+| --- | --- | --- |
 | Lending Interest | Earned from borrowers who use your assets | Aave |
 | Trading Fees | Earned from fees on trades within liquidity pools | Uniswap |
 | Token Rewards | Earned through native token incentives for liquidity providers | Various DeFi Projects |

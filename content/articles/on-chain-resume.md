@@ -41,7 +41,7 @@ Creating a strong on-chain resume requires intentional actions. It involves cura
 #### 1. Register an ENS Name:** Start by registering an ENS name for your primary wallet. This name acts as your Web3 username and is vital for your digital identity.
 2. Engage Actively:**
 
-- Explore Various Protocols:**Go beyond the basics. Experiment with different Layer 2 solutions, dive into new DeFi protocols, or lend assets on a money market.
+- **Explore Various Protocols:**Go beyond the basics. Experiment with different Layer 2 solutions, dive into new DeFi protocols, or lend assets on a money market.
 
 - **Participate in Governance:** This is a key indicator of your commitment. Even with a small number of tokens, voting on governance proposals demonstrates that you care about the protocols you use. Platforms like Tally simplify this process.
 
@@ -56,7 +56,7 @@ Creating a strong on-chain resume requires intentional actions. It involves cura
 
 **4. Highlight Your Contributions:**
 
-- DAO Bounties:**Completing paid tasks for a DAO creates a public record of your contributions when payments go to your wallet.
+- **DAO Bounties:**Completing paid tasks for a DAO creates a public record of your contributions when payments go to your wallet.
 
 - **Gitcoin Grants:** Supporting public goods projects through Gitcoin Grants sends a strong signal about your commitment to the ecosystem's health.
 

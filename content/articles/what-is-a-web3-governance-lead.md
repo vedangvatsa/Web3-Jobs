@@ -63,16 +63,11 @@ The Governance Lead serves as a vital connection between the decentralized commu
 This role does not require extensive technical expertise, but a solid understanding of the technology is essential. The ideal Governance Lead has a "T-shaped" profile.
 
 | Skill | Description |
-|
-
---------------------------|
-
------------------------------------------------------------------------------------------------|
+| --- | --- |
 | **Exceptional Communication** | Must excel in both written and verbal communication, capable of enabling discussions. |
 | **Process-Oriented Mind** | Enjoys designing systems and frameworks to bring order to chaos, with a background in project management. |
 | **Neutrality and Diplomacy** | Capable of acting as a neutral party and de-escalating conflicts while building consensus. |
 | **Deep Protocol Knowledge** | Possesses a thorough understanding of the protocol to grasp the implications of various proposals. |
-|
 
 **Resilience** | Able to handle public criticism and manage contentious situations within DAO governance. |
 

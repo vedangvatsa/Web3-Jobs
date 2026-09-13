@@ -20,11 +20,7 @@ This article details the mechanics of sandwich attacks, explores the reasons beh
 ### Key Insights
 
 | Concept | Description |
-|
-
-------------------------------|
-
------------------------------------------------------------------------------------------------------------------|
+| --- | --- |
 | **Core Concept** | A sandwich attack involves three key steps: the attacker buys, the victim trades, then the attacker sells. |
 | **Potential Victim** | Users executing large trades on a DEX with loose slippage settings are prime targets. |
 | **Attacker Profile** | Bots designed to monitor the public mempool for profitable sandwiching opportunities. |
@@ -100,16 +96,11 @@ A: Some protocols are beginning to integrate protective measures. For instance, 
 Not all decentralized exchanges possess the same vulnerability to sandwich attacks. Some protocols have been specifically designed or modified to reduce MEV exposure for traders.
 
 | DEX Name | Protection Mechanism |
-|
-
------------------------|
-
-----------------------------------------------------------------------------------------------------------|
+| --- | --- |
 | **CoW Protocol (CoW Swap)** | The largest MEV-resistant DEX by volume, using batch auctions that settle trades at a uniform price, preventing individual order exploitation. |
 | **1inch Fusion** | Employs a Dutch auction mechanism with a network of resolvers who fill orders off-chain, keeping trades off the public mempool. |
 | **Flashbots Protect RPC** | A free RPC endpoint that can be added to any wallet, routing transactions privately to block builders and eliminating front-running exposure. |
 | **Paraswap Delta** | Offers private transaction routing through its order-flow system, providing equivalent protection against mempool visibility. |
-|
 
 **Uniswap v4 hooks** | Introduces a programmable layer to AMM logic, allowing the implementation of MEV protection mechanisms directly at the protocol level. |
 

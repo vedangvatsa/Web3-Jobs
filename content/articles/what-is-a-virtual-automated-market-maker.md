@@ -54,13 +54,7 @@ A vAMM addresses these limitations by dissociating the price-setting mechanism f
 ### Comparing vAMMs and Standard AMMs
 
 | Feature | Standard AMM (e.g., Uniswap) | Virtual AMM (e.g., Perpetual Protocol) |
-|
-
--------------------------------|
-
-------------------------------------------------|
-
------------------------------------------------------------|
+| --- | --- | --- |
 | **Liquidity** | Requires a pool of real, deposited assets from liquidity providers. | No real liquidity pool; the pool is virtual. |
 | **Asset Custody** | The pool contract holds actual tokens being traded. | The collateral vault holds a single asset (e.g., USDC). |
 | **Primary Use Case** | Spot trading (swapping real tokens). | Derivatives trading (perpetual futures). |

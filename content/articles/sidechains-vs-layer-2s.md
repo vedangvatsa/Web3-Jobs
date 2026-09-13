@@ -126,15 +126,11 @@ A subtle but critical difference between sidechains and rollups lies in the hand
 | SIDECHAIN:                                                              |
 |   State data stored exclusively on sidechain validator hard drives.     |
 |   Base chain (Ethereum) never receives transaction inputs.              |
-|   
-
---> If sidechain validators refuse to share data, state is lost.      |
+| --> If sidechain validators refuse to share data, state is lost.      |
 |                                                                         |
 | LAYER 2 ROLLUP:                                                         |
 |   State data published directly to Ethereum consensus via EIP-4844.     |
-|   
-
---> Any user running an Ethereum node can reconstruct the full L2     |
+| --> Any user running an Ethereum node can reconstruct the full L2     |
 |       state tree independently, preserving sovereign self-custody.      |
 +-------------------------------------------------------------------------+
 ```

@@ -21,13 +21,7 @@ This article examines key trends driving the evolution of the [Web3 job](/web3-j
 During the bull market, projects rushed to hire versatile individuals capable of handling multiple roles. A single employee might oversee community management, marketing, and product development. As projects grow more complex, the demand for specialists is increasing.
 
 | Role Type | Previous Demand | Current Demand |
-|
-
---------------------------|
-
--------------------------------|
-
----------------------------------|
+| --- | --- | --- |
 | Marketing | Generalist | Head of Content, Product Marketing Manager, Community Manager |
 | Product Management | Generalist | Specialized Product Managers |
 | Engineering | Generalist | Protocol Engineers, ZK-Proof Engineers |
@@ -40,11 +34,7 @@ During the bull market, projects rushed to hire versatile individuals capable of
 The initial phase of [DeFi](/what-is-defi) catered mainly to crypto enthusiasts. The next phase focuses on integrating institutional investors and traditional financial entities into the blockchain space.
 
 | Role Type | Responsibilities |
-|
-
---------------------------|
-
-------------------------------------------------------|
+| --- | --- |
 | Business Development | Establishing contacts with banks and hedge funds |
 | Credit Analysts | Underwriting loans and assessing borrower risk |
 | Compliance Specialists | Ensuring adherence to AML/KYC regulations |
@@ -57,11 +47,7 @@ The initial phase of [DeFi](/what-is-defi) catered mainly to crypto enthusiasts.
 Web3's technical architecture is evolving towards a modular design. The industry is moving away from all-in-one blockchains and adopting a "modular stack," where specialized layers manage various functions like execution, settlement, and data availability.
 
 | Sector | Focus Areas |
-|
-
---------------------------|
-
------------------------------------------------------|
+| --- | --- |
 | Infrastructure Projects | Layer 2 scaling solutions, data availability layers, interoperability protocols |
 | Engineering Roles | Protocol Engineer, ZK-Proof Engineer, Compiler Engineer |
 
@@ -73,11 +59,7 @@ Web3's technical architecture is evolving towards a modular design. The industry
 Decentralized Autonomous Organizations ([DAOs](/what-is-a-dao)) are maturing from informal collectives into structured entities.
 
 | Role Type | Responsibilities |
-|
-
---------------------------|
-
-------------------------------------------------------|
+| --- | --- |
 | Governance Facilitators | Managing governance processes from proposal drafting to voting |
 | Treasury Managers | Overseeing the DAO's funds and developing investment strategies |
 | Contributor Relations | Onboarding and managing freelance contributors |

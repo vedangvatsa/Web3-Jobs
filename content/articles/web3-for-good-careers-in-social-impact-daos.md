@@ -51,11 +51,7 @@ Several other DAOs also focus on social impact:
 The growth of Public Goods DAOs and the "Regenerative Finance" (ReFi) sector presents various career opportunities for individuals passionate about aligning their work with their values.
 
 | Job Title | Responsibilities |
-|
-
--------------------------------|
-
------------------------------------------------------------------------------------------------------------|
+| --- | --- |
 | Community & Ecosystem Managers | Identify promising projects, assist in grant applications, and provide support throughout the funding process. |
 | Grant Program Managers | Oversee daily operations of funding rounds, communicate with projects, and ensure a smooth process. |
 | Governance Facilitators | Aid the DAO community in making decisions regarding treasury allocation and supported causes. |

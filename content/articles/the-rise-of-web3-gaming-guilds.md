@@ -54,11 +54,7 @@ Contemporary guilds are evolving into talent agencies within the metaverse. They
 Guilds are transitioning into decentralized investment funds focused on the Web3 gaming ecosystem. The guild's treasury, governed by its token holders, invests in a diversified asset portfolio, including:
 
 | Investment Type | Description |
-|
-
-------------------------|
-
----------------------------------------------------------------|
+| --- | --- |
 | **In-game NFTs** | Core business of lending assets for scholarships. |
 | **Game Tokens** | Direct investments in promising new game tokens. |
 | **Virtual Land** | Acquisitions in metaverse platforms like The Sandbox and Decentraland. |

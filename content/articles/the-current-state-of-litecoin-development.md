@@ -33,11 +33,7 @@ Litecoin has operated for over a decade with exceptional uptime. Fewer commits t
 It is important to differentiate between core protocol development and ecosystem development. While the core Litecoin client remains stable, innovation thrives in the surrounding ecosystem, including:
 
 | Ecosystem Component | Description |
-|
-
------------------------------|
-
---------------------------------------------------------------|
+| --- | --- |
 | **Lightning Network** | A fully operational Lightning Network that enables quick, low-cost transactions. We will assess the growth in channels, nodes, and capacity on Litecoin's network. |
 | **MWEB (Mimblewimble Extension Block)** | A significant upgrade that provides opt-in privacy for transactions. We will detail the technical aspects of MWEB and its adoption since launch. |
 | **Third-Party Wallets & Services** | A survey of wallets, payment processors, and exchanges supporting Litecoin, particularly its MWEB features. The integration by third parties serves as a critical indicator of ecosystem vitality. |
@@ -77,14 +73,9 @@ A cryptocurrency's acceptance among merchants is a fundamental indicator of its 
 Litecoin operates within a competitive ecosystem that includes various challengers:
 
 | Competitor | Description |
-|
-
------------------------------|
-
---------------------------------------------------------------|
+| --- | --- |
 | **Bitcoin's Lightning Network** | As Bitcoin's own Layer 2 payment solution matures, it directly competes with Litecoin's primary use case. |
 | **Stablecoins** | Stable assets have emerged as primary currencies for payments, offering price stability absent in volatile assets like LTC. |
-|
 
 **Newer L1s** | High-throughput blockchains provide quick, inexpensive transactions and support active dApp ecosystems, pressuring older chains. |
 

@@ -63,13 +63,7 @@ Without retraining, a model that scores well on that task does not know what a c
 **Stanford HAI AI Index 2024 found that AI now exceeds human baselines on several specific benchmarks, including image classification, visual reasoning, and English understanding. Humans remain ahead on competition-level mathematics, visual commonsense reasoning, and planning. The report notes that industry produced 51 notable machine learning models in 2023 vs 15 from academia, which tracks where the largest training budgets sit.
 
 | Feature | Human Intelligence | Artificial Intelligence |
-| 
-
---- | 
-
---- | 
-
---- |
+| --- | --- | --- |
 | Substrate | Biological neurons, about 86B, sparse activation | Silicon chips, thousands of parallel cores, dense math |
 | Power | About 20 watts, 20% of body energy | 350 to 700 watts per chip, gigawatt-hours per large training run |
 | Learning signal | Experience, emotion, and social context, few examples often sufficient | Statistical patterns in large labeled datasets, often millions of examples |

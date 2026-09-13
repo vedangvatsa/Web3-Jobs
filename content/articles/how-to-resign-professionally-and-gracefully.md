@@ -63,11 +63,7 @@ While two weeks is customary, consult your employment contract for specific noti
 During your final two weeks, focus on enabling a smooth handover. Collaborate with your manager to create a transition plan that may include:
 
 | Task | Description |
-|
-
-------------------------------------------|
-
-------------------------------------------------------------------------|
+| --- | --- |
 | **Document Key Responsibilities** | Create a guide detailing your main tasks and processes for your successor. |
 | **Organize Files** | Ensure all project files and important documents are accessible and well-organized. |
 | **Train Your Replacement** | If possible, train your successor and introduce them to key team members. |

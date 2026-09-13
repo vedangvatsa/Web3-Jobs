@@ -32,13 +32,7 @@ The job market in the Philippines is shaped by its history with Web3 gaming, lea
 The Philippines offers a well-trained talent pool, particularly in community and support roles, with salary expectations that remain competitive within the local market. Below is a detailed breakdown of in-demand roles and their respective salary ranges:
 
 | Role | Experience Level | Monthly Salary (PHP) |
-|
-
--------------------------------------------|
-
-----------------------|
-
-------------------------|
+| --- | --- | --- |
 | Community Manager / Moderator (English & Tagalog) | Junior/Mid-Level | 30,000 - 60,000 |
 | | Senior/Lead | 60,000 - 120,000+ |
 | Web3 Customer Support Specialist | Mid-Level | 25,000 - 50,000 |
@@ -64,13 +58,7 @@ To discover the latest community, support, and development roles within the Phil
 ## Complete Salary Guide: Web3 Jobs in the Philippines
 
 | Role | Local/Remote Salary (PHP) | Equivalent USD (approx.) |
-|
-
--------------------------------------------|
-
-----------------------------|
-
---------------------------|
+| --- | --- | --- |
 | Community Manager | 25,000 - 60,000/month | 425 - 1,020 |
 | GameFi/NFT Support Specialist | 20,000 - 45,000/month | 340 - 765 |
 | [Smart Contract Developer](/how-to-become-a-web3-smart-contract-developer) | 80,000 - 150,000+/month | 1,360 - 2,550+ |

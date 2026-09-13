@@ -191,15 +191,7 @@ Both types should live where a reviewer can run or read them: GitHub, a short de
 Figures are for the United States and are rounded. BLS figures are base wages from employer payrolls. Levels.fyi and Glassdoor figures include self-reported or verified total pay and skew toward large employers. Use the range that matches the compensation mix you are comparing.
 
 | Job Role | Typical pay range cited for 2025 to 2026 | What the figure includes | Source |
-| 
-
---- | 
-
---- | 
-
---- | 
-
---- |
+| --- | --- | --- | --- |
 | Machine Learning Engineer | Median base $120,224, middle 50 percent $85,654 to $158,891, 90th percentile $199,139. Verified offers at large firms: median total $278,800, middle 50 percent $196,000 to $377,500, 90th $495,000 | BLS is base only. Levels.fyi is total (base plus bonus plus equity) | BLS OEWS May 2025 for SOC 15-2051; Levels.fyi ML Engineer August 2026 |
 | Data Scientist | Median base $120,224, middle 50 percent $85,654 to $158,891, 90th $199,139. Handbook median $112,590, bottom 10 percent $63,650, top 10 percent $194,410 | BLS is base only. Total pay at large firms runs higher | BLS OOH and OEWS for SOC 15-2051 |
 | AI Product Manager | Median total about $194,000 to $196,000, 25th $161,000 to $163,000, 75th $240,000 to $242,000, 90th about $288,000 to $290,000. Large public company aggregation: median total $305,000, 25th to 75th $244,000 to $390,000 | Glassdoor is total pay (base plus bonus). IdeaPlan and Levels.fyi totals include annualized equity | Glassdoor AI Product Manager May-June 2026; IdeaPlan Q1 2026 aggregated Levels.fyi and Glassdoor |

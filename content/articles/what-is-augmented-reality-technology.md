@@ -45,13 +45,7 @@ Both technologies often fall under the broader classifications of Mixed Reality 
 While gaming and social media filters are the most recognized applications, AR serves practical purposes across various industries.
 
 | Industry | Application | Example |
-|
-
--------------------|
-
------------------------------------------------------|
-
----------------------------------------------------------------------|
+| --- | --- | --- |
 | Retail | Try before you buy | An app allows users to visualize new furniture in their homes. |
 | Navigation | Enhanced directions | AR navigation overlays arrows and routes onto live street views. |
 | Manufacturing | Digital instructions for repairs | Technicians see overlays of repair diagrams through AR glasses. |

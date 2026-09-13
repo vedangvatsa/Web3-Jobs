@@ -29,26 +29,10 @@ Blockchain oracles bridge this isolated computational sandbox and the external p
 |  Deterministic Blockchain Sandbox       | Non-Deterministic External World        |
 |  (Isolated Virtual Machine Environment) | (Off-Chain Dynamic Reality)             |
 |                                         |                                         |
-|  
-
-- Strictly sequential opcode execution | 
-
-- Real-time market trade ticks          |
-|  
-
-- All nodes must reach identical state | 
-
-- Web API endpoints with latency spikes |
-|  
-
-- No native network sockets / HTTP     | 
-
-- Physical sensors, weather, GPS        |
-|  
-
-- Zero tolerance for timing variance   | 
-
-- Server failures and data discrepancies|
+| - Strictly sequential opcode execution | - Real-time market trade ticks          |
+| - All nodes must reach identical state | - Web API endpoints with latency spikes |
+| - No native network sockets / HTTP     | - Physical sensors, weather, GPS        |
+| - Zero tolerance for timing variance   | - Server failures and data discrepancies|
 |                                         |                                         |
 |  ============================== THE GAP ========================================  |
 |            DECENTRALIZED ORACLE NETWORK (DON) CONSENSUS LAYER                     |

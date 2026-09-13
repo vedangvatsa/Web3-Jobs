@@ -34,11 +34,7 @@ Traditional verification processes often demand excessive personal information. 
 On-chain identity verification relies on several core Web3 components:
 
 | Component | Description |
-|
-
--------------------------------|
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| --- | --- |
 | **Decentralized Identifiers (DIDs)** | A DID serves as a globally unique identifier that users create and control. It acts as a permanent, self-sovereign address for individuals on the internet. |
 | **Verifiable Credentials (VCs)** | A VC is a tamper-proof digital claim about a DID, issued by a trusted source. For instance, a university might issue a VC confirming that a person holds a degree. |
 | **Blockchain as a Trust Anchor** | The blockchain functions as a public registry for DIDs and the public keys of issuers, allowing verification of credentials against a trusted source. |

@@ -102,13 +102,7 @@ TVL moves with prices and with how you count categories. Use it as a directional
 Leading protocols by category, with verification points:
 
 | Protocol | Category | What it does and how it is measured |
-| 
-
---- | 
-
---- | 
-
---- |
+| --- | --- | --- |
 | Aave v3 | Lending | Largest lending market. Pools hold deposits and issue aTokens. TVL reported near $26.18 billion in mid-May 2026 on DeFiLlama across all chains, with higher historical prints near $69 billion in August 2025 when categorization included more affiliated markets. |
 | Lido | Liquid staking | Lets users stake ETH and receive stETH that remains usable in DeFi. TVL near $23.07 billion in May 2026 and $15.17 billion in the June 18 snapshot, which reflects price-driven variation. |
 | Uniswap | DEX | AMM that executes swaps against pooled reserves. Uniswap docs note open-source, non-upgradeable pool contracts and permissionless listing. Cumulative volume is in the trillions of dollars across versions, and the protocol regularly leads daily DEX volume. |

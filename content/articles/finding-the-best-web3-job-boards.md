@@ -29,13 +29,7 @@ Searching for a job in this environment can be overwhelming. Identifying legitim
 For those serious about building a career in Web3, the following platforms are essential starting points.
 
 | Job Board | Description | Best For |
-|
-
--------------------------|
-
------------------------------------------------------------------------------------------------|
-
----------------------------------------------|
+| --- | --- | --- |
 | **Hashtag Web3** | A Telegram channel offering real-time job postings and networking opportunities. | All professionals, from developers to marketers. |
 | **CryptoJobs** | A well-established job board featuring a variety of roles from reputable companies with a user-friendly interface. | Candidates who prefer a traditional web interface. |
 | **Web3.career** | Similar to CryptoJobs, this platform provides a range of listings and filtering options for job seekers. | Those seeking a broad spectrum of job types. |

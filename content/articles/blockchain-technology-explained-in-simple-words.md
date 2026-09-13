@@ -54,11 +54,7 @@ Consensus mechanisms govern how network participants agree on which new block to
 The structural design of a blockchain endows it with several distinctive properties compared to traditional databases:
 
 | Property | Description |
-|
-
-------------------|
-
---------------------------------------------------------------------------------------------------------------------------------------|
+| --- | --- |
 | **Decentralization** | No central server exists. The ledger is distributed across a peer-to-peer network, eliminating single points of failure. |
 | **Immutability** | Transactions recorded on the blockchain cannot be altered or deleted, ensuring a permanent and trustworthy history. |
 | **Transparency** | Public blockchains allow anyone to view transaction histories. Participants remain pseudonymous, but the transaction flow is fully open. |

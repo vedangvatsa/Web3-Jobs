@@ -69,11 +69,7 @@ The key to effective follow-up is persistence without being pushy. Your goal is 
 Here is a practical template to help you structure your follow-up communications:
 
 | Component | Details |
-|
-
---------------------------|
-
-------------------------------------------------------------------|
+| --- | --- |
 | Subject Line | "Thank you - [Job Title] Interview" |
 | Greeting | "Dear [Interviewer's Name]," |
 | Thank You Statement | "Thank you for the opportunity to interview for the [Job Title] position." |

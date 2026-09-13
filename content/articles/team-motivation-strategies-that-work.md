@@ -24,11 +24,7 @@ Autonomy focuses on granting individuals control over their work rather than iso
 **Actionable Strategies to Build Autonomy:**
 
 | Strategy | Implementation Example |
-|
-
----------------------------------|
-
----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| --- | --- |
 | Focus on Outcomes, Not Process | Define goals and objectives but allow teams the flexibility to determine their approach. <br>*Instead of:* "First, you need to create a ticket..." <br>*Try:* "Our goal is to reduce login errors significantly. I trust you to find the best approach." |
 | Flexible Work Hours | Allow team members to choose their working hours. Flexibility shows respect for individual productivity patterns. |
 | Encourage 20% Time | Implement policies similar to Google's 20% time, allowing employees to pursue projects of their choice that benefit the company. |
@@ -41,11 +37,7 @@ Individuals naturally desire to enhance their skills and master their craft. Job
 **Actionable Strategies to Build Mastery:**
 
 | Strategy | Implementation Example |
-|
-
----------------------------------|
-
----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| --- | --- |
 | Assign "Goldilocks" Tasks | Assign tasks that are appropriately challenging, neither too hard nor too easy. This balance encourages skill development without overwhelming individuals. |
 | Learning and Development Budget | Allocate an annual budget for each employee to spend on books, courses, or conferences, showcasing your commitment to their growth. |
 | Mentorship Opportunities | Establish mentorship programs pairing junior employees with experienced mentors to enable learning and development through shared experiences. |
@@ -58,11 +50,7 @@ People feel most motivated when their work aligns with a greater mission. Leader
 **Actionable Strategies to Build Purpose:**
 
 | Strategy | Implementation Example |
-|
-
---------------------------------------------|
-
----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| --- | --- |
 | Reinforce the "Why" | Begin meetings by discussing the purpose behind each project. Clarify why the work matters and who it impacts. |
 | Connect Work to Customer Impact | Share customer feedback and success stories. When team members see the positive impact of their efforts, it instills a powerful sense of purpose. |
 | Transparency About Company Goals | Keep the team informed about strategic goals and challenges. Transparency builds a sense of trust and belonging. |

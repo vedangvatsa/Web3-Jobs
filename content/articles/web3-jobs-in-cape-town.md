@@ -28,13 +28,7 @@ Cape Town's Web3 ecosystem stands out due to its international appeal, strong de
 The demand for skilled Web3 professionals in Cape Town remains high, particularly for senior developers and product managers. Although local salaries may not match those of the US or Europe, they are competitive within South Africa, accompanied by an excellent quality of life. Many professionals work remotely for international companies, often earning salaries aligned with global standards.
 
 | Role | Salary Range (ZAR/month) | Remote Global Salary (USD/month) |
-|
-
---------------------------------------------|
-
----------------------------------------------|
-
----------------------------------------------|
+| --- | --- | --- |
 | Senior [Smart Contract](/what-are-smart-contracts) Developer ([Solidity](/best-programming-languages-for-blockchain-development)/Rust) | Competitive within the local market | Competitive with global standards |
 | Full-Stack Web3 Engineer (React/Viem) | Competitive within the local market | N/A |
 | Web3 Product Manager | Competitive within the local market | N/A |

@@ -60,11 +60,7 @@ Improvements in voice recognition technology continue to evolve. Enhanced algori
 ### Advantages and Limitations of Voice Recognition Technology
 
 | Advantage | Limitation |
-|
-
-------------------------------------|
-
--------------------------------------|
+| --- | --- |
 | Convenient and user-friendly | Voice changes with health conditions |
 | Requires minimal hardware | Background noise affects accuracy |
 | Supports remote authentication | Vulnerable to replay attacks |

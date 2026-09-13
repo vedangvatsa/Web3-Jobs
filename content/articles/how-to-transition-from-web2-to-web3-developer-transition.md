@@ -77,12 +77,8 @@ In public blockchain networks, transactions sit in an unconfirmed mempool prior 
 |  User Signs Tx ---> Public Mempool (EVM Pending State)                  |
 |                           |                                             |
 |                           +---> MEV Searchers (Arbitrage / Frontrun)    |
-|                           |     
-
-- Sandwich attacks via Slippage         |
-|                           |     
-
-- Liquidations & DEX Arbitrage          |
+|                           | - Sandwich attacks via Slippage         |
+|                           | - Liquidations & DEX Arbitrage          |
 |                           v                                             |
 |                     Block Builder (Flashbots MEV-Boost)                 |
 |                           |                                             |
@@ -268,24 +264,16 @@ For an experienced software engineer committing 10 to 15 hours per week, this st
 |                  12-Week Web2 to Web3 Transition Plan                   |
 +-------------------------------------------------------------------------+
 |  Weeks 1 - 3: Blockchain Fundamentals & EVM Mechanics                   |
-|  
-
-- Cryptography, Proof of Stake consensus, storage layouts, Etherscan   |
+| - Cryptography, Proof of Stake consensus, storage layouts, Etherscan   |
 +-------------------------------------------------------------------------+
 |  Weeks 4 - 6: Solidity Mastery & Foundry Testing                        |
-|  
-
-- Token standards (ERC-20/721/4626), Foundry Forge unit & fuzz tests   |
+| - Token standards (ERC-20/721/4626), Foundry Forge unit & fuzz tests   |
 +-------------------------------------------------------------------------+
 |  Weeks 7 - 9: Defensive Security & DeFi Primitives                      |
-|  
-
-- Complete Ethernaut & Damn Vulnerable DeFi, learn AMMs & lending math |
+| - Complete Ethernaut & Damn Vulnerable DeFi, learn AMMs & lending math |
 +-------------------------------------------------------------------------+
 |  Weeks 10 - 12: Flagship Project Deployment & Portfolio Verification    |
-|  
-
-- Deploy verified protocol on Base or Arbitrum, build Viem frontend    |
+| - Deploy verified protocol on Base or Arbitrum, build Viem frontend    |
 +-------------------------------------------------------------------------+
 ```
 

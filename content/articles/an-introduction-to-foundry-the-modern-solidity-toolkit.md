@@ -270,13 +270,7 @@ Configs live in `foundry.toml`, with profiles for dev, CI, and production. Envir
 Both changed since 2024, so older comparisons mislead.
 
 | Feature | Foundry | Hardhat |
-| 
-
---- | 
-
---- | 
-
---- |
+| --- | --- | --- |
 | Test language | Solidity (and Vyper via solc) | JavaScript/TypeScript, and since Hardhat 3 also Solidity tests via EDR |
 | Execution | Rust binary + REVM, parallel | Hardhat 3 uses Rust Ethereum Development Runtime (EDR) for simulation, scripting and plugins remain TypeScript |
 | Built-in fuzz/invariant | Yes, 256 runs default, configurable | In Hardhat via plugins or via Hardhat 3 Solidity tests, not as central as Forge |

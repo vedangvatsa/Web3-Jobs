@@ -21,11 +21,7 @@ This article explains what LP tokens are, how you acquire them, their primary fu
 ### Key Insights
 
 | Feature | Description |
-|
-
------------------------------|
-
-------------------------------------------------------------------------------------------------------|
+| --- | --- |
 | **Nature of LP Tokens** | LP tokens are a specific type of ERC-20 token received upon depositing assets into a liquidity pool. |
 | **Ownership Representation** | The quantity of LP tokens you possess signifies your ownership percentage of total assets in the pool.|
 | **Fee Entitlement** | Holding LP tokens grants you a share of the trading fees generated, proportional to your ownership stake. |

@@ -25,13 +25,7 @@ Mumbai's crypto sector is deeply intertwined with its strong financial industry.
 The job market in Mumbai favors professionals with a blend of finance and technology skills. Salaries reflect the high demand for specialized expertise and the city's improve cost of living.
 
 | Role | Experience Level | Salary Range |
-|
-
------------------------------------------|
-
--------------------------|
-
-----------------------------------|
+| --- | --- | --- |
 | DeFi Quantitative Analyst | 3+ years | Significant compensation per annum |
 | Smart Contract Developer (DeFi Focus) | Mid-Level | Significant compensation per annum |
 | | Senior | Significant compensation per annum |

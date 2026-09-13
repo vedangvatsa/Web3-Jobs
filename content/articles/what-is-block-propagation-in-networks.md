@@ -19,11 +19,7 @@ Understanding block propagation is essential for grasping the performance, secur
 ### Key Insights
 
 | Insight | Description |
-|
-
--------------------------|
-
---------------------------------------------------------------------------------------------------------------|
+| --- | --- |
 | Core Function | Block propagation spreads a new, valid block to all nodes in a decentralized network. |
 | Goal | The objective is for all honest nodes to receive and accept the new block, maintaining a unified network state. |
 | Impact of Latency | High latency can lead to increased forks and centralization risks, negatively affecting blockchain performance.|

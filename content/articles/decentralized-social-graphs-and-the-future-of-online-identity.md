@@ -31,11 +31,7 @@ The current social media ecosystem, dominated by a handful of massive platforms,
 Web3 social graph protocols fundamentally transform the relationship between users and platforms by decoupling the data layer from the application layer.
 
 | Layer | Description |
-|
-
--------------------|
-
-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| --- | --- |
 | **Protocol Layer** | This layer consists of an open, decentralized network where core social data resides. Users' identities, content, and connections are stored on a public [blockchain](/what-is-a-blockchain) or decentralized nodes. Each user controls their data via cryptographic keys. |
 | **Application Layer** | Users can build frontend applications, or "clients," on top of this shared social graph. This enables a active ecosystem of diverse applications that access the same user-owned data. |
 

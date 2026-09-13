@@ -30,13 +30,7 @@ Freetown's Web3 environment is characterized by a commitment to practical applic
 Freetown's job market is specialized, concentrating on roles tied to the national digital identity project and other GovTech initiatives.
 
 | Role | Experience Level | Salary Range (Monthly) |
-|
-
-------------------------------------|
-
------------------------|
-
-------------------------------|
+| --- | --- | --- |
 | Blockchain Developer (DID experience) | Mid-Level to Senior | Competitive |
 | Project Manager (GovTech) | Experienced Professional | Competitive |
 | Cryptographer/Security Expert | All Levels | Competitive |
@@ -64,13 +58,13 @@ Freetown's job market is specialized, concentrating on roles tied to the nationa
 
 **Developer Compensation:**
 
-- Junior DID Developer (0-1 year):**Competitive
+- **Junior DID Developer (0-1 year):**Competitive
 - **Mid-Level Identity/Security Developer (1-3 years):** Competitive
 - **Senior/Lead Developer (3+ years):** Competitive
 
 **GovTech and Project Management:**
 
-- Project Manager:**Competitive
+- **Project Manager:**Competitive
 - **Product Manager (Identity):** Competitive
 - **Security/Cryptography Expert:** Competitive
 
@@ -80,11 +74,7 @@ Freetown's job market is specialized, concentrating on roles tied to the nationa
 **Cost of Living Insight** A mid-level developer earning a competitive salary in Freetown can expect the following expenses:
 
 | Expense Category | Monthly Cost |
-|
-
-----------------------------|
-
----------------------|
+| --- | --- |
 | Rent (nice area) | Competitive |
 | Living Expenses | Competitive |
 | **Total Monthly Expenses** |

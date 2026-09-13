@@ -76,15 +76,7 @@ This created a competitive environment where traders flocked to zero-royalty pla
 The NFT ecosystem now exists in a fragmented state. There is no universally accepted approach to royalties. However, several models have emerged.
 
 | Model | Description | Pros | Cons |
-|
-
-----------------------|
-
------------------------------------------------------------------------------|
-
----------------------------------------------------|
-
------------------------------------------------------|
+| --- | --- | --- | --- |
 | Voluntary | Collectors decide whether to honor creator royalties. | Upholds ownership principles; lower fees for traders. | Detrimental impact on creator income; unreliable. |
 | Allowlist Enforcement | NFT contracts restrict transfers to marketplaces on a royalty-honoring allowlist. | Increased creator control; effective royalty enforcement. | Seen as anti-decentralization; requires list maintenance. |
 | Community and Brand | Creators build a loyal community that voluntarily supports royalties. | Aligns incentives; builds long-term value. | Challenging to establish; relies on social pressure. |

@@ -68,13 +68,7 @@ Florida's lack of a state income tax presents considerable financial benefits:
 The Miami job market exhibits a strong demand for finance, business development, and marketing roles, with rapidly growing interest in technical talent. Salaries are competitive with other major tech hubs in the United States.
 
 | Role | Salary Range | Notes |
-|
-
--------------------------------------------|
-
---------------------------------|
-
-----------------------------------------------------------|
+| --- | --- | --- |
 | Business Development & Institutional Sales | Competitive | Substantial commission and bonus potential |
 | VC / Investment Analyst | Competitive | Plus carry |
 | Marketing & Community Lead | Competitive | Involves high-energy campaigns |
@@ -109,21 +103,21 @@ The Miami job market exhibits a strong demand for finance, business development,
 
 **Operations / Project Management:**
 
-- Operations Manager:**Competitive salary.
+- **Operations Manager:**Competitive salary.
 - **Program Manager:** Competitive salary.
 
 ### Technical Roles **[Smart Contract Developer](/how-to-become-a-web3-smart-contract-developer) (DeFi Focus):**
 
-- Mid-Level:**Competitive salary.
+- **Mid-Level:**Competitive salary.
 - **Senior:** Competitive salary.
 
 **Full-Stack Web3 Engineer:**
 
-- Senior:**Competitive salary.
+- **Senior:**Competitive salary.
 
 **Infrastructure Engineer:**
 
-- Senior:**Competitive salary.
+- **Senior:**Competitive salary.
 
 Technical roles may offer slightly lower salaries than those in Austin or San Francisco, but business and finance roles generally pay more. Miami attracts technical talent through its appealing lifestyle, culture, and the chance to work on impactful finance projects.
 
@@ -179,7 +173,7 @@ In Miami, your personal brand can define your career.
 
 **Strategies to Build Your Brand:**
 
-- Twitter:**Share insights about crypto, finance, or the local ecosystem.
+- **Twitter:**Share insights about crypto, finance, or the local ecosystem.
 - **LinkedIn:** Position yourself professionally and network effectively.
 - **Public Speaking:** Present at meetups and conferences.
 - **Content Creation:** Write articles or newsletters to showcase expertise.
@@ -298,7 +292,7 @@ The ecosystem is rapidly growing. Moving now allows you to build your network an
 
 **How does Miami compare to other crypto hubs?**
 
-- Versus Austin:**Miami focuses more on finance and Latin America, while Austin has greater technical depth.
+- **Versus Austin:**Miami focuses more on finance and Latin America, while Austin has greater technical depth.
 - **Versus San Francisco:** Miami offers better business roles and lifestyle benefits, while San Francisco excels in technical saturation and institutional presence.
 - **Versus Singapore:** Miami is more startup-centric, with greater capital availability, whereas Singapore is more regulated and institutional.
 - **Versus New York City:** Miami presents a friendlier environment for founders, while New York has a stronger traditional finance focus.

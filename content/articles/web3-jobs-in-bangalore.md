@@ -146,36 +146,20 @@ Bangalore is a sprawling metropolitan center where specific neighborhoods have e
 +-----------------------------------------------------------------------+
 |                                                                       |
 |  [HSR Layout (Sectors 1 to 7)]                                        |
-|  
-
-- The Epicenter: Hacker houses, early-stage DeFi protocols           |
-|  
-
-- Home of Devfolio, Biconomy alumni, and seed-stage crypto founders  |
+| - The Epicenter: Hacker houses, early-stage DeFi protocols           |
+| - Home of Devfolio, Biconomy alumni, and seed-stage crypto founders  |
 |                                                                       |
 |  [Indiranagar and Koramangala]                                        |
-|  
-
-- Venture Capital Alley: Hashed Emergent, Elevation, Peak XV, Accel  |
-|  
-
-- Growth-stage Web3 startups, product design studios, executive hubs |
+| - Venture Capital Alley: Hashed Emergent, Elevation, Peak XV, Accel  |
+| - Growth-stage Web3 startups, product design studios, executive hubs |
 |                                                                       |
 |  [Outer Ring Road (ORR) and Bellandur]                                |
-|  
-
-- Institutional scale: Large corporate tech parks, exchanges         |
-|  
-
-- Primary engineering offices for CoinDCX, CoinSwitch, and custody  |
+| - Institutional scale: Large corporate tech parks, exchanges         |
+| - Primary engineering offices for CoinDCX, CoinSwitch, and custody  |
 |                                                                       |
 |  [Whitefield and Electronic City]                                     |
-|  
-
-- Enterprise blockchain labs, major hackathon exhibition centers     |
-|  
-
-- KTPO Whitefield: Annual venue for ETHIndia                          |
+| - Enterprise blockchain labs, major hackathon exhibition centers     |
+| - KTPO Whitefield: Annual venue for ETHIndia                          |
 +-----------------------------------------------------------------------+
 ```
 
@@ -230,41 +214,23 @@ Navigating the transition from traditional software engineering to Web3 in Banga
 +-----------------------------------------------------------------------+
 |                                                                       |
 |  Step 1: Solidify Systems Foundations                                 |
-|  
-
-- Master EVM internals, memory layouts, storage slots, opcode costs  |
-|  
-
-- Complete the Ethernaut and Damn Vulnerable DeFi challenges         |
+| - Master EVM internals, memory layouts, storage slots, opcode costs  |
+| - Complete the Ethernaut and Damn Vulnerable DeFi challenges         |
 |                                                                       |
 |  Step 2: Build Verifiable On-Chain Artifacts                          |
-|  
-
-- Deploy verified contracts to Ethereum, Base, or Polygon testnets   |
-|  
-
-- Write production-grade Foundry test suites with fuzzing (>95% cov) |
+| - Deploy verified contracts to Ethereum, Base, or Polygon testnets   |
+| - Write production-grade Foundry test suites with fuzzing (>95% cov) |
 |                                                                       |
 |  Step 3: Compete in Hackathons and Audits                             |
-|  
-
-- Ship working MVPs at ETHIndia, Encode Club, or ETHGlobal events    |
-|  
-
-- Participate in Code4rena or Sherlock audit competitions            |
+| - Ship working MVPs at ETHIndia, Encode Club, or ETHGlobal events    |
+| - Participate in Code4rena or Sherlock audit competitions            |
 |                                                                       |
 |  Step 4: Engage Locally in HSR Layout and Indiranagar                 |
-|  
-
-- Attend Polygon Guild, Web3 Bangalore, and Devfolio demo days       |
-|  
-
-- Connect directly with founders and protocol engineering leads      |
+| - Attend Polygon Guild, Web3 Bangalore, and Devfolio demo days       |
+| - Connect directly with founders and protocol engineering leads      |
 |                                                                       |
 |  Step 5: Apply Through Curated Web3 Career Portals                    |
-|  
-
-- Use specialized job boards like Hashtag Web3 for vetted openings   |
+| - Use specialized job boards like Hashtag Web3 for vetted openings   |
 +-----------------------------------------------------------------------+
 ```
 

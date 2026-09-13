@@ -30,13 +30,7 @@ London's status as a global financial hub significantly influences its crypto sc
 The UK boasts some of the highest Web3 salaries globally, second only to the United States. The demand for professionals with both finance and crypto experience is particularly strong.
 
 | Role | Experience Level | Salary Range |
-|
-
-----------------------------------------|
-
---------------------------|
-
-------------------------------|
+| --- | --- | --- |
 | Smart Contract Developer ([Solidity](/best-programming-languages-for-blockchain-development)/Rust) | Mid-Level (3-5 years) | Competitive |
 | | Senior (5+ years) | Competitive |
 | DeFi Quantitative Analyst ("Quant") | Mid-Level | Competitive |

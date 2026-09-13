@@ -47,11 +47,7 @@ After generating a faceprint, the system compares it against a database of known
 Facial recognition technology finds applications across various fields:
 
 | Application Area | Description |
-|
-
---------------------------|
-
------------------------------------------------------------------------------|
+| --- | --- |
 | **Security and Access Control** | Widely used for open devices and providing secure access to buildings and airports. |
 | **Social Media** | Platforms employ facial recognition to suggest tags for users in photos. |
 | **Law Enforcement and Surveillance** | Police departments use this technology to identify suspects in criminal investigations and monitor public spaces. |

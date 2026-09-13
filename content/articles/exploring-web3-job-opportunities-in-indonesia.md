@@ -33,13 +33,7 @@ The Web3 job market in Indonesia is expanding rapidly. Salaries are competitive 
 | **Role** |
 
 **Mid-Level Salary (IDR/month)**| **Senior Salary (IDR/month)** |
-|
-
-----------|
-
------------------------------------|
-
--------------------------------|
+| --- |
 | Smart Contract Developer ([Solidity](/best-programming-languages-for-blockchain-development)) | Competitive | Competitive |
 | Mobile Engineer (iOS/Android/React Native) | Competitive | Competitive |
 | Community Manager (Bahasa Indonesia) | Competitive | 

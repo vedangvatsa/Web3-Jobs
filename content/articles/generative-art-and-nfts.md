@@ -100,13 +100,7 @@ fxhash has no curated gate, so curation happened through collecting. Notable exa
 ## Pros and cons to weigh before you mint or build
 
 | Aspect | What works well | What to watch |
-| 
-
---- | 
-
---- | 
-
---- |
+| --- | --- | --- |
 | Provenance and ownership | ERC-721 records owner, creator, and history on chain. Anyone can verify. | If media is stored off chain on IPFS or a server, that link can break if not pinned on durable storage. Prefer pinned IPFS, Arweave, or fully on-chain. |
 | Creative range | One script can produce billions of possible outputs. Collectors co-create by triggering the hash. | Quality control is hard. A weak generator makes many dull outputs. Test the generator's range before minting. |
 | Creator royalties | EIP-2981 defines a standard way to signal royalties. Many platforms support it. | Enforcement is per marketplace, not by the token itself. Do not assume royalties apply everywhere you resell. |

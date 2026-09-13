@@ -56,13 +56,7 @@ The debate over increasing the block size, which led to the creation of Bitcoin 
 The future of Bitcoin hinges on its community's ability to confront these issues head-on. Below is a structured overview of potential strategies to address these challenges.
 
 | Challenge | Current State | Potential Solutions |
-|
-
----------------------------------|
-
----------------------------------------------|
-
--------------------------------------------------------------|
+| --- | --- | --- |
 | Scalability | Limited to ~7 TPS | Enhance Layer 2 solutions like Lightning Network |
 | Energy Consumption | High environmental impact | Increase renewable energy usage in mining |
 | Fee Market & Security Budget | Dependency on transaction fees | Explore alternative incentive models and fee structures |

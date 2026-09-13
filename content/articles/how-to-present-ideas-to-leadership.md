@@ -23,11 +23,7 @@ Before creating your slides, conduct thorough research on your audience. Underst
 ### Research Your Audience
 
 | Element | Key Questions |
-|
-
------------------------|
-
-----------------------------------------------------|
+| --- | --- |
 | **Attendees** | Who are the participants? What roles do they occupy? |
 | **Priorities** | What key initiatives and metrics are they focused on? |
 | **Communication Style** | Do they prefer high-level summaries or detailed data? |
@@ -73,11 +69,7 @@ Effective presentations combine compelling data with a strong narrative. Both el
 Always use precise figures instead of vague terms. For example, instead of saying "many," specify a clear number. Avoid saying "better"; instead, express a specific improvement. Quantifying both the issue and the potential impact of your solution enhances the credibility of your argument.
 
 | Data Source | Example Metrics |
-|
-
------------------------|
-
----------------------------------------------------|
+| --- | --- |
 | **Customer Surveys** | Satisfaction ratings, reasons for dissatisfaction |
 | **Support Tickets** | Volume of tickets related to onboarding issues |
 | **Product Analytics** | Activation rates, user engagement metrics |
@@ -104,11 +96,7 @@ The Q&A session is often critical for decision-making. Use this time to demonstr
 Based on your audience research, brainstorm potential questions. Categorize them into:
 
 | Category | Sample Questions |
-|
-
-----------------------|
-
----------------------------------------------------|
+| --- | --- |
 | **Financial** | What is the ROI? How was the budget determined? What if we do nothing? |
 | **Strategic** | How does this align with our current priorities? Why is this the right time? |
 | **Execution** | What risks are involved? Do we have the right team? What dependencies exist? |

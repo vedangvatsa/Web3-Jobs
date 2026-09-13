@@ -74,15 +74,7 @@ Yield farming returns are often advertised with high APR (Annual Percentage Rate
 Success as an LP relies on finding pools where the rewards earned exceed the risks of impermanent loss.
 
 | Pool Type | Example Assets | Risk of Impermanent Loss | Expected Returns |
-|
-
-------------------|
-
------------------------|
-
---------------------------|
-
-------------------------|
+| --- | --- | --- | --- |
 | Stable Pairs | Stablecoins | Near zero | Low (predominantly fees) |
 | Volatile Pairs | New altcoin/ETH | High | High (fees + yield) |
 

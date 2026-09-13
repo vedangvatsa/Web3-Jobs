@@ -64,13 +64,7 @@ Freelancing offers self-employment opportunities, allowing individuals to work o
 ### Comparing Freelance and Full-Time Work
 
 | Feature | Full-Time Job | Freelancing |
-| 
-
---------------------- | 
-
------------------------------------------------ | 
-
------------------------------------------------ |
+| --- | --- | --- |
 | **Income** | Stable, predictable salary | Variable, project-based income |
 | **Benefits** | Includes health insurance, retirement plans | No employer-provided benefits; self-responsible |
 | **Flexibility** | Limited schedule | High flexibility in hours and location |

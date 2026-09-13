@@ -27,13 +27,7 @@ Accra's Web3 ecosystem is rooted in creativity, technical education, and a activ
 The demand for Web3 talent in Accra is on the rise, especially for developers and community managers who can engage with the local creative and tech scenes. While local salaries are still evolving, they remain competitive within the Ghanaian tech market, with considerable potential for talented individuals to secure high-paying remote positions.
 
 | Role | Level | Salary Range (GHS) |
-|
-
--------------------------------------------|
-
----------------|
-
------------------------------|
+| --- | --- | --- |
 | Smart Contract Developer ([Solidity](/best-programming-languages-for-blockchain-development)) | Mid-Level | Competitive |
 | | Senior | Competitive |
 | Frontend Web3 Engineer (React/Viem) | Mid-Level | Competitive |
@@ -61,7 +55,7 @@ The demand for Web3 talent in Accra is on the rise, especially for developers an
 
 **Months 1-3: [Learn Web3](/from-web2-to-web3-developer-career-guide) + NFT Mechanics**
 
-- Weeks 1-2:**Set up [GitHub](/building-web3-portfolio), Twitter, and LinkedIn; focus on learning smart contracts, particularly NFT standards like ERC-721 and ERC-1155.
+- **Weeks 1-2:**Set up [GitHub](/building-web3-portfolio), Twitter, and LinkedIn; focus on learning smart contracts, particularly NFT standards like ERC-721 and ERC-1155.
 - **Weeks 3-4:** Develop three simple NFT projects: a basic token, an NFT collection, and a marketplace.
 - **Month 2:** Engage with Accra's artist community to understand their needs.
 - **Month 3:** Launch your first NFT project, either by creating the technical infrastructure or as an artist.

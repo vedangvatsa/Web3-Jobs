@@ -68,7 +68,6 @@ While a 51% attack represents a significant threat, carrying one out on a large,
 | **Cost Factors** |
 
 **Details**|
-|
 
 ------------------------|
 

@@ -21,11 +21,7 @@ To find success, develop a systematic approach to filter out distractions, ident
 Not all job boards provide the same quality. Focus on platforms recognized for high-quality, legitimate job postings.
 
 | Job Board | Description |
-|
-
-----------------------|
-
----------------------------------------------------------------|
+| --- | --- |
 | **Hashtag Web3** | A reputable platform with a curated selection of Web3 jobs. |
 | **CryptoJobs** | Offers a diverse range of roles across the crypto industry. |
 | **Web3.career** | Specializes in connecting top talent with Web3 projects. |

@@ -26,15 +26,10 @@ In cryptocurrency, "to ape in" or "apeing" refers to the act of purchasing a new
 Key characteristics of "apeing" include:
 
 | Characteristic | Description |
-|
-
-----------------------------|
-
--------------------------------------------------------------------------------------------------------------------------------------------------|
+| --- | --- |
 | **Speed** | Purchases are often made swiftly, typically within moments of a token launch or new NFT announcement. |
 | **Lack of Due Diligence** | Traders generally possess a limited understanding of the project's technology or team, relying instead on social signals. |
 | **Significant Capital** | "Apeing" often entails investing more capital than is prudent for such a volatile asset. |
-|
 
 **Herd Mentality** | Decisions are heavily influenced by observing a large number of individuals in a community (e.g., on Twitter or Discord) buying the same asset. |
 

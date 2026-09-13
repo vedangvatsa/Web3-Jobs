@@ -34,13 +34,7 @@ Quantifying developer activity involves several key indicators that provide a de
 Electric Capital's Developer Report remains one of the most referenced metrics, analyzing activity across millions of open-source crypto repositories. Recent findings indicate Solana consistently ranks as one of the fastest-growing ecosystems, often trailing only [Ethereum](/what-is-ethereum) in total monthly active developers.
 
 | Metric | Solana's Performance | Description |
-|
-
-----------------------------|
-
------------------------------------------|
-
---------------------------------------------------|
+| --- | --- | --- |
 | **Full-Time Developers** | Increased significantly | Developers making 10 or more commits per month. |
 | **New Developers** | Increased during market rallies | First-time commits to the Solana ecosystem. |
 

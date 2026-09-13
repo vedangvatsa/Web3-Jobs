@@ -181,13 +181,7 @@ If you do receive feedback:
 One rejection is noise. Five to ten in a row is a signal. Look at your last 10 to 20 applications and note where the process goes quiet. Each stage points to a different fix.
 
 | Where it stops | What it usually signals | What to fix first |
-| 
-
---- | 
-
---- | 
-
---- |
+| --- | --- | --- |
 | No reply after applying | Resume not passing automated screening or first scan | Mirror keywords from the posting verbatim, simplify formatting to single column, move the most relevant project to the top, run the resume through an ATS checker against that specific description |
 | Recruiter screen but no hiring manager | Story about your experience is not matching the job | Rewrite the summary and the top bullets of each role to lead with outcomes the job asks for, prepare a 60-second why-this-company narrative that is specific to the protocol |
 | Hiring manager but no panel | Depth on specific skills or examples came across thin | Prepare 5 to 7 STAR stories with numbers, practice thinking aloud on a familiar bug or tradeoff, bring one artifact you can walk through without slides |

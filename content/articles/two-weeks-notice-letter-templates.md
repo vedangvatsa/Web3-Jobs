@@ -105,16 +105,11 @@ Typically, your last working day will be two full weeks from the day you submit 
 When you decide to resign, consider the following factors to ensure a smooth transition:
 
 | Factor | Consideration |
-|
-
-----------------------------------|
-
-----------------------------------------------------------------|
+| --- | --- |
 | **Timing** | Submit your resignation when it minimizes disruption to your team. |
 | **Exit Interview** | Be prepared to share feedback in an exit interview, if offered. |
 | **Transition Plan** | Offer to prepare documentation for your responsibilities. |
 | **Future References** | Maintain a positive relationship for potential future references. |
-|
 
 **Networking** | Keep in touch with colleagues, as they are part of your professional network. |
 

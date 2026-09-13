@@ -42,15 +42,7 @@ AI does not generate leads on its own on Upwork or Fiverr. It helps you present 
 Real hourly ranges from Upwork's official resource pages as of 2026 help here:
 
 | Skill | Entry level | Mid level | Senior or specialist |
-| 
-
---- | 
-
---- | 
-
---- | 
-
---- |
+| --- | --- | --- | --- |
 | Graphic design | $15 per hour | $25 per hour | $35 per hour and higher |
 | Writing and content | $15 per hour | $25 per hour | $40 per hour and higher |
 | Web development | $15 per hour | $30 per hour | $50 per hour and higher |
@@ -117,15 +109,7 @@ You do not need a large stack. Start with one general assistant, one tool for yo
 Here is a lean stack that covers most solo freelancers, with pricing checked August 2026 on each vendor's official page.
 
 | Stack layer | Tool example | What it does | Cost in 2026 |
-| 
-
---- | 
-
---- | 
-
---- | 
-
---- |
+| --- | --- | --- | --- |
 | General assistant | ChatGPT or Google Gemini | Drafting, research, summarizing, brainstorming | ChatGPT: Free, Plus $20 per month, Pro $100 or $200 per month, Business $20 per user per month billed annually. Gemini: Free, Google AI Plus $4.99 to $7.99 per month, Pro $19.99 per month, Ultra from $99.99 per month. |
 | Writing quality | Grammarly | Grammar, tone, clarity, plagiarism check | Free $0, Pro $12 per month billed annually ($144 per year) or $30 monthly, Enterprise custom. 100 prompts per month on Free, 2,000 on Pro. |
 | Marketing drafting | Jasper | Brand voice, long-form content, team workflows | Pro $59 per month per seat billed annually ($69 monthly), 7-day trial, Business custom. |

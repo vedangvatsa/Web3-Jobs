@@ -45,11 +45,7 @@ This new approach yields significant advantages.
 ### Advantages of Web3 Real Estate
 
 | Advantage | Description |
-|
-
----------------------------|
-
------------------------------------------------------------------------------------------------------------|
+| --- | --- |
 | Democratized Access | Individuals can invest in high-quality, income-generating real estate with minimal capital. |
 | Enhanced Liquidity | Tokenized properties can be traded on secondary markets, enabling quick transactions and immediate liquidity. |
 | Increased Transparency | Every transaction is recorded on an immutable public blockchain, providing a reliable source of truth for ownership. |

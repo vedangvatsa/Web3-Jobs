@@ -39,11 +39,7 @@ A toxic work environment remains one of the strongest reasons to resign. No sala
 Signs of a toxic culture include:
 
 | Indicator | Description |
-|
-
--------------------------------|
-
---------------------------------------------------------------------------------------|
+| --- | --- |
 | Office Politics | Widespread gossip and manipulation among colleagues. |
 | Lack of Trust | Absence of transparency from leadership, leading to distrust. |
 | Micromanagement | Managers who excessively control their teams or take credit for others' work. |

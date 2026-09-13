@@ -31,22 +31,14 @@ When creating an account on these platforms and purchasing cryptocurrency, you d
 ### Pros of Custodial Wallets
 
 | Advantages | Details |
-|
-
-----------------------------------|
-
-----------------------------------------------------|
+| --- | --- |
 | **Convenience and User-Friendliness** | These wallets are straightforward. If you forget your password, you can recover it through a standard process, similar to bank accounts. |
 | **No Self-Responsibility** | You don't need to understand the technicalities of securing a private key or seed phrase; the exchange manages security for you. |
 
 ### Cons of Custodial Wallets
 
 | Disadvantages | Details |
-|
-
--------------------------------------------|
-
--------------------------------------------------------|
+| --- | --- |
 | **Lack of True Ownership** | This significant drawback is encapsulated in the saying, "Not your keys, not your coins." You place your trust in the exchange to secure your assets. |
 | **Counterparty Risk** | If the exchange suffers a hack, faces bankruptcy, or undergoes government seizure, you risk losing your funds entirely. You are considered a creditor, not the direct owner of your assets. |
 | **Permissioned and Censorship-Prone** | Exchanges can freeze accounts, block withdrawals, or reverse transactions if compelled by regulators. Access to your funds requires their permission. |
@@ -63,11 +55,7 @@ Upon creating a non-custodial wallet, you receive a **[seed phrase](/what-is-a-s
 ### Pros of Non-Custodial Wallets
 
 | Advantages | Details |
-|
-
----------------------------------------------|
-
--------------------------------------------------------|
+| --- | --- |
 | **True Ownership and Control** | You maintain full control over your assets. No entity can freeze your funds or obstruct transactions. You are, in effect, your own bank. |
 | **Censorship Resistance** | No central authority can block your transactions. |
 | **Full Web3 Access** | A non-custodial wallet acts as your entry point to the entire decentralized ecosystem, enabling interactions with dApps, lending on DeFi protocols, and voting in DAOs. |
@@ -75,18 +63,14 @@ Upon creating a non-custodial wallet, you receive a **[seed phrase](/what-is-a-s
 ### Cons of Non-Custodial Wallets
 
 | Disadvantages | Details |
-|
-
----------------------------------------|
-
--------------------------------------------------------|
+| --- | --- |
 | **High Personal Responsibility** | You bear complete responsibility for the security of your funds. |
 | **Irreversibility** | Losing your seed phrase results in permanent loss of your funds. There is no customer support to assist you. Transactions sent to incorrect addresses cannot be reversed. |
 | **Steeper Learning Curve** | Users must understand seed phrase management and security best practices. |
 
 **Examples of Non-Custodial Wallets:**
 
-- Software Wallets (Hot Wallets):**Examples include [MetaMask](/what-is-a-browser-extension-wallet), Rabby, and Phantom. These are typically browser extensions or mobile applications.
+- **Software Wallets (Hot Wallets):**Examples include [MetaMask](/what-is-a-browser-extension-wallet), Rabby, and Phantom. These are typically browser extensions or mobile applications.
 - **Hardware Wallets (Cold Wallets):** Examples include [Ledger](/understanding-hardware-wallets-for-crypto-security) and Trezor. These physical devices store your private keys offline, providing maximum security.
 
 **Best for:** Individuals committed to participating in the Web3 ecosystem and desiring true ownership of their digital assets.

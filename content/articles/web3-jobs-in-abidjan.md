@@ -30,13 +30,7 @@ Abidjan's Web3 ecosystem derives strength from its established foundations in mo
 The formal Web3 job market in Abidjan is still emerging, with lucrative opportunities primarily found in FinTech startups incorporating blockchain technology or in remote positions with international companies focused on the region.
 
 | Role | Description | Salary Range (XOF/month) |
-|
-
--------------------------------------------|
-
------------------------------------------------------------------------------------------------|
-
-------------------------------------|
+| --- | --- | --- |
 | Mobile / FinTech Developer with Web3 Skills | Developers creating mobile applications that integrate traditional mobile money APIs and blockchain protocols. | Mid-Level: 1,200,000 - 2,000,000 <br> Senior: 2,000,000 - 3,500,000+ |
 | Business Development & Partnerships | Professionals establishing partnerships with local banks, telecommunications companies, and merchants to promote Web3 payment solutions. | Experienced: 1,500,000 - 2,800,000+ |
 | Community Manager (French Speaking) | Essential for projects aiming to build a user base in Ivory Coast and the surrounding areas. | Mid-Level: 700,000 - 1,300,000 |
@@ -54,30 +48,14 @@ The formal Web3 job market in Abidjan is still emerging, with lucrative opportun
 ### Detailed Salary Expectations by Role
 
 **Developer Compensation:**| Role | Experience Level | Salary Range (XOF/month) | USD Equivalent |
-|
-
---------------------------|
-
-----------------------|
-
------------------------------------------------|
-
------------------------------------|
+| --- | --- | --- | --- |
 | Junior Developer | 0-1 year | 800,000 - 1,300,000 | Varies based on exchange rates |
 | Mid-Level Developer | 1-3 years | 1,400,000 - 2,200,000 | Varies based on exchange rates |
 | Senior Developer | 3+ years | 2,200,000 - 3,800,000+ | Varies based on exchange rates | **Remote (International):** | Role | Salary Range |
-|
-
---------------------------|
-
-----------------------------------------|
+| --- | --- | --- | --- | --- | --- | --- |
 | International Web3 Companies | Significant monthly compensation |
 | Consulting/Contract | Varies based on project and expertise | **Cost of Living Analysis for a Mid-Level Developer Earning Remotely:** | Expense Type | Estimated Cost (XOF/month) |
-|
-
--------------------------|
-
------------------------------|
+| --- | --- | --- | --- | --- |
 | Rent (nice area) | 300,000 - 500,000 |
 | Living Expenses | 250,000 - 400,000 |
 | **Total** |

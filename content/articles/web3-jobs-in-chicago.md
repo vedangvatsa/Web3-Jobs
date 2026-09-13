@@ -20,7 +20,6 @@ Chicago's crypto ecosystem reflects its identity as a global financial trading h
 | **Feature** |
 
 **Details**|
-|
 
 -------------------------------------------|
 
@@ -37,13 +36,7 @@ The competitive job market in Chicago offers lucrative salaries, particularly fo
 | **Role** |
 
 **Description**| **Salary Range** |
-|
-
---------------------------------------------|
-
--------------------------------------------------------------------------------------------------------------------|
-
--------------------------------------|
+| --- |
 | **Quantitative Trader / Researcher** | Professionals who design and implement automated trading strategies for crypto hedge funds. | Competitive compensation |
 | **Smart Contract Engineer** | Developers focused on building secure and optimized smart contracts for DeFi applications. | Competitive compensation |
 | **Low-Latency Software Engineer** | Engineers who develop high-performance off-chain systems for market making and arbitrage. | Competitive compensation |

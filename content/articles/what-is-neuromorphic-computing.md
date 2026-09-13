@@ -36,13 +36,7 @@ This event-driven architecture is particularly effective for handling data from 
 Neuromorphic systems are not designed to replace CPUs for all computing tasks. Instead, they serve specialized roles in areas where brain-like processing excels. Key applications include:
 
 | Application Area | Description | Example Use Case |
-|
-
--------------------------------|
-
----------------------------------------------------------------------------------------------------------|
-
----------------------------------------------------|
+| --- | --- | --- |
 | AI and Machine Learning | Neuromorphic chips efficiently run AI models, especially for pattern recognition tasks. | Image and speech recognition on edge devices. |
 | Robotics and Autonomous Systems| Low-power neuromorphic processors enable real-time navigation and decision-making. | Robots operating in complex environments. |
 | Scientific Computing | These systems simulate biological processes, aiding in the understanding of complex systems like the brain.| Neuroscience research and simulations. |

@@ -20,13 +20,7 @@ Web3 has undergone significant transformation, shifting from speculative excitem
 The blockchain sector has historically favored monolithic systems. For instance, Ethereum has long been viewed as the all-encompassing blockchain for executing transactions, settling them, and ensuring data availability. The future points towards a modular approach, which separates these core functions into specialized layers for enhanced scalability and customization.
 
 | Layer Type | Functionality | Examples |
-|
-
----------------------|
-
------------------------------------------------------------------------------------------------------------|
-
-----------------------------------|
+| --- | --- | --- |
 | Execution Layer | Processes transactions and executes smart contracts. | Arbitrum, Optimism, zkSync |
 | Settlement Layer | Validates and secures the final state of transactions. | Ethereum |
 | Data Availability | Provides cost-effective alternatives for posting transaction data. | Celestia |
@@ -52,13 +46,7 @@ The initial phase of Decentralized Finance (DeFi) focused on cryptocurrency asse
 * **Asset Tokenization:** In the coming years, a substantial portion of traditional assets, including public equities, bonds, real estate, and private credit, will be represented as tokens on blockchains.
 
 | Asset Type | Tokenization Examples | Impact on Market |
-|
-
------------------------|
-
-----------------------------------------------------------------------|
-
----------------------------------------------------|
+| --- | --- | --- |
 | Stocks | Tokenized shares of publicly traded companies | Increased accessibility for smaller investors |
 | Real Estate | Fractional ownership of commercial properties | Greater liquidity and investment opportunities |
 | Bonds | Tokenized municipal and corporate bonds | Continuous trading capabilities on decentralized exchanges |

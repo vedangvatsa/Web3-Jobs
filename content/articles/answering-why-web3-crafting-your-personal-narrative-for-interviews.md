@@ -79,7 +79,9 @@ Write your spark as: "I did X with Y, noticed Z, and wanted to learn more about 
 
 ### Part 2: The Journey - what you did after the spark
 
-The spark starts interest. The journey shows habit. Use verbs that produce links.**For a developer:**
+The spark starts interest. The journey shows habit. Use verbs that produce links.
+
+**For a developer:**
 
 * Worked through an interactive Solidity course. CryptoZombies at cryptozombies.io teaches Solidity in the browser starting with a Zombie factory contract and assumes you know basic JavaScript. It covers state variables, functions, and later use of interfaces and libraries. It is a starting point, not a full security curriculum.
 * Built a small contract and wrote tests. For example, a simple ERC-20 with OpenZeppelin contracts, a staking contract with time-based rewards, or a fork of an existing staking example. Ran tests with Foundry (`forge test`) and checked gas with `forge test --gas-report`.
@@ -208,13 +210,7 @@ Add one thing that did not work and what you fixed. That reads as honest.
 ### Quick table to organize your draft
 
 | Component | What to put in | Example you can verify |
-| 
-
---- | 
-
---- | 
-
---- |
+| --- | --- | --- |
 | The Spark | One product interaction you did | "Supplied USDC on Aave v3 Sepolia, saw 75 percent LTV for ETH" |
 | The Journey | 2 to 3 linked outputs you shipped | "CryptoZombies Lessons 1 to 3, plus a tested staking contract on GitHub" |
 | The Vision | One team-specific link with trade-off | "Your paymaster for ERC-4337 batching reduces clicks but adds bundler dependency" |

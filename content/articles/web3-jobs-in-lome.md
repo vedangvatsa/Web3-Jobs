@@ -89,7 +89,7 @@ Refer to **[Web3 Career Growth and Development](web3-career-growth-and-developme
 
 **Compensation:**
 
-- Entry Level (0-2 years):**$40,00,000 - $85,000 USD (remote international)
+- **Entry Level (0-2 years):**$40,00,000 - $85,000 USD (remote international)
 - **Mid-Level (2-5 years):** $40,00,000 - $85,000 USD
 - **Senior (5+ years):** $40,00,000 - $85,000 USD
 
@@ -113,7 +113,7 @@ Refer to **[Web3 Career Growth and Development](web3-career-growth-and-developme
 
 **Compensation:**
 
-- Local roles:**$40,00,000 - $85,000 USD
+- **Local roles:**$40,00,000 - $85,000 USD
 - **Remote positions with international NGOs:** $40,00,000 - $85,000 USD
 - **Startups offering equity:** $40,00,000 - $85,000 USD plus equity
 
@@ -131,7 +131,7 @@ Refer to **[Web3 Career Growth and Development](web3-career-growth-and-developme
 
 **Compensation:**
 
-- Self-initiated roles:**Start at a variable range; can increase as credibility builds.
+- **Self-initiated roles:**Start at a variable range; can increase as credibility builds.
 - **NGO-funded positions:** $40,00,000 - $85,000 USD
 - **Grants from DAOs:** Variable range for specific initiatives
 
@@ -143,7 +143,7 @@ Refer to **[Web3 Career Growth and Development](web3-career-growth-and-developme
 
 **Compensation:**
 
-- Junior Developers:**$40,00,000 - $85,000 USD (remote)
+- **Junior Developers:**$40,00,000 - $85,000 USD (remote)
 - **Mid-Level Developers:** $40,00,000 - $85,000 USD
 - **Senior Developers:** $40,00,000 - $85,000 USD
 
@@ -223,15 +223,7 @@ During the COVID-19 pandemic, Togo effectively implemented emergency cash transf
 ## Salary Expectations: Local vs. Remote
 
 | Role | Local (Lome) | Remote (International) | Notes |
-|
-
---------------------------|
-
-----------------------|
-
-------------------------|
-
-----------------------------|
+| --- | --- | --- | --- |
 | Mobile Developer | $40,00,000 - $85,000 USD | $40,00,000 - $85,000 USD | 2-3x salary difference |
 | Product Manager | $40,00,000 - $85,000 USD | $40,00,000 - $85,000 USD | 2-3x salary difference |
 | Community Lead | $40,00,000 - $85,000 USD | $40,00,000 - $85,000 USD | Smaller salary disparity |

@@ -19,11 +19,7 @@ The Web3 ecosystem in Libreville distinguishes itself through its emphasis on su
 Libreville's Web3 environment reflects Gabon's identity as a "carbon positive" nation, using this status for economic growth.
 
 | Key Features | Description |
-|
-
------------------------------|
-
-----------------------------------------------------------------------------------------------|
+| --- | --- |
 | **Leadership in ReFi** | Gabon actively issues carbon credits on the blockchain and is exploring how to tokenize its natural resources. Projects include sustainable forestry initiatives and biodiversity credits. |
 | **Collaborative Efforts** | The Web3 sector is strengthened by partnerships with the Gabonese government, NGOs such as The Nature Conservancy, and international organizations. |
 | **Tokenization of Assets** | The primary focus centers on the tokenization of environmental assets, necessitating expertise in both carbon credit science and financial engineering. |
@@ -36,13 +32,7 @@ The job market in Libreville is specialized, seeking professionals with backgrou
 #### Roles and Compensation
 
 | Role | Description | Salary Range (Monthly) |
-|
-
-----------------------------------------------------|
-
----------------------------------------------------------------------------------------------------------|
-
-------------------------------------------|
+| --- | --- | --- |
 | **ReFi / RWA Product Manager** | Responsible for designing systems for tokenizing and trading environmental assets. | Competitive, aligned with global standards |
 | **Enterprise [Blockchain Developer](/how-to-become-a-blockchain-developer)** | Focuses on building the technical framework for compliant and secure real-world asset tokenization. | Highly competitive, contract or consulting basis |
 | **Policy and Partnerships Manager** | Manages relationships between Web3 projects, the Gabonese government, and international organizations. | Competitive, based on experience |
@@ -63,11 +53,7 @@ The job market in Libreville is specialized, seeking professionals with backgrou
 ### Local Opportunities
 
 | Position | Salary Range (Monthly) |
-|
-
---------------------------------------------------|
-
---------------------------------------------------------------|
+| --- | --- |
 | **ReFi Project Coordinator (International NGO)** | Competitive within local standards |
 | **Junior Blockchain Developer** | Competitive within local standards |
 | **Environmental Data Analyst** | Competitive within local standards |
@@ -75,11 +61,7 @@ The job market in Libreville is specialized, seeking professionals with backgrou
 ### Remote Opportunities
 
 | Position | Salary Range (Monthly) |
-|
-
---------------------------------------------------|
-
---------------------------------------------------------------|
+| --- | --- |
 | **ReFi Product Manager** | Competitive, requires substantial ReFi knowledge |
 | **Senior ReFi Developer** | Competitive |
 | **Climate Data Specialist** | Competitive |

@@ -23,16 +23,16 @@ Avoid sending just a link to your GitHub profile. Create a central "hub" that or
 
 **A Clear "Hero" Section:**
 
-- Your Name and Title:**For example, "Jane Doe - [Smart Contract](/what-are-smart-contracts) Developer & [DeFi](/what-is-defi) Enthusiast."
+- **Your Name and Title:**For example, "Jane Doe - [Smart Contract](/what-are-smart-contracts) Developer & [DeFi](/what-is-defi) Enthusiast."
  - **A Compelling One-Liner:** Summarize your work in a brief sentence, such as "I build secure and efficient decentralized financial primitives."
  - **Clear Links:** Feature links to your GitHub, Twitter, and personal blog prominently.
 
 2. **A Curated "Projects" Section:**
 
-- Selectivity Matters:**Choose 3-4 of your best projects. Quality is more important than quantity.
+- **Selectivity Matters:**Choose 3-4 of your best projects. Quality is more important than quantity.
  - **Project Cards Should Include:**
 
-- Project Name:**Ensure clarity and conciseness.
+- **Project Name:**Ensure clarity and conciseness.
  - **Short Description:** Include 1-2 sentences explaining the project and its problem-solving capabilities.
  - **Tech Stack:** List key technologies used, such as [Solidity](/best-programming-languages-for-blockchain-development), Foundry, React, and The Graph.
  - **Clear CTAs:** Provide buttons linking to the "Live Demo" and "Source Code" on GitHub.

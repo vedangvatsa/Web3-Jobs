@@ -48,22 +48,22 @@ Tokenizing real-world assets presents extensive benefits that flow both from Tra
 
 **1. Enhancing Global Liquidity for Illiquid Assets**
 
-- The Challenge:**Major asset classes, such as real estate and private credit, are notoriously illiquid. Selling a building or a stake in a private company can be a lengthy and costly process.
+- **The Challenge:**Major asset classes, such as real estate and private credit, are notoriously illiquid. Selling a building or a stake in a private company can be a lengthy and costly process.
 - **The Solution:** Tokenization converts these illiquid assets into tradable global assets, available around the clock. This fractionalization can significantly improve the asset's value by reducing the illiquidity discount.
 
 **2. Democratizing Access to Institutional-Grade Investments**
 
-- The Challenge:**High-quality investments, including venture capital and commercial real estate, have historically been limited to accredited or institutional investors.
+- **The Challenge:**High-quality investments, including venture capital and commercial real estate, have historically been limited to accredited or institutional investors.
 - **The Solution:** Fractionalization allows retail investors to acquire portions of these assets, broadening access to wealth creation opportunities.
 
 **3. Introducing Stable, Real-World Yield to DeFi**
 
-- The Challenge:**Yields in DeFi have often been unpredictable, reliant on speculative token emissions.
+- **The Challenge:**Yields in DeFi have often been unpredictable, reliant on speculative token emissions.
 - **The Solution:** RWAs, especially tokenized Treasury Bills, offer DeFi a stable, low-risk, and sustainable yield source tied to the real-world "risk-free" rate. This stability is a critical advancement for the DeFi ecosystem.
 
 **4. Increasing Transparency and Efficiency**
 
-- The Challenge:**Traditional finance often relies on slow, manual, and opaque processes.
+- **The Challenge:**Traditional finance often relies on slow, manual, and opaque processes.
 - **The Solution:** Blockchain technology provides a transparent, immutable, and real-time ledger for ownership and transactions. [Smart contracts](/what-are-smart-contracts) can automate processes such as dividend distribution, interest payments, and compliance checks, effectively reducing administrative costs.
 
 ### Emerging Career Opportunities in the RWA Sector
@@ -71,11 +71,7 @@ Tokenizing real-world assets presents extensive benefits that flow both from Tra
 The RWA space is generating a new range of **[career opportunities](/emerging-career-opportunities-in-web3-real-estate)** for professionals equipped to bridge the gap between traditional finance and DeFi.
 
 | Career Path | Description |
-|
-
-------------------------------|
-
---------------------------------------------------------------------------------------------------|
+| --- | --- |
 | RWA Protocol Developer | Engineers design and develop platforms that enable the entire tokenization lifecycle. |
 | Legal & Compliance Specialist | Lawyers focus on structuring complex legal SPVs and ensuring compliance with relevant laws. |
 | Credit and Risk Underwriters | Financial professionals assess the risks of off-chain assets prior to their on-chain conversion. |

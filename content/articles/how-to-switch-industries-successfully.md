@@ -19,11 +19,7 @@ Your previous career has equipped you with valuable skills. These transferable s
 **Common transferable skills include:**
 
 | Skill | Description |
-|
-
-----------------------|
-
------------------------------------------------------------------------------------------|
+| --- | --- |
 | Communication | Proficient in writing, presenting, and interpersonal interactions. |
 | Leadership | Experience in managing teams, mentoring, and taking initiative. |
 | Project Management | Skills in planning, executing, and delivering projects within deadlines and budgets. |

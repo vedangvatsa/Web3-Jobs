@@ -21,13 +21,7 @@ This guide outlines the [Web3 job](/web3-jobs-for-beginners) market in the comin
 The Web3 ecosystem is diverse, encompassing roles in engineering, product management, marketing, finance, and community management. Here's a breakdown of some of the most sought-after positions:
 
 | Role | Description | Key Skills |
-|
-
-------------------------------|
-
------------------------------------------------------------------------------------------------------------------------------|
-
-------------------------------------------|
+| --- | --- | --- |
 | **[Smart Contract](/what-are-smart-contracts) Developer** | These developers write, test, and deploy the on-chain logic powering [DeFi](/what-is-defi) protocols, [NFT](/what-are-nfts) projects, and [DAOs](/what-is-a-dao). Proficiency in [Solidity](/best-programming-languages-for-blockchain-development) or Rust is essential. Security best practices are important. | Solidity, Rust, security protocols |
 | **Frontend / dApp Engineer** | Responsible for user interfaces that connect to smart contracts. Engineers create intuitive user experiences, an important challenge in Web3. Mastery of React, Next.js, and Web3 libraries like Ethers.js or Viem is key. | React, Next.js, Ethers.js, Viem |
 | **On-Chain Data Analyst** | Analysts query and analyze on-chain data using tools like Dune Analytics and Nansen to derive insights about user behavior, protocol health, and market trends. Strong SQL skills are required. | SQL, data analytics tools |
