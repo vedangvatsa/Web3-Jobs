@@ -41,29 +41,17 @@ The traditional marketing funnel, Awareness, Interest, Decision, Action, undergo
 
 The marketing team within a Web3 project comprises a variety of specialized roles, each with distinct responsibilities.
 
-1.
+1. **Community Manager**: This role serves as the foundation of the marketing team. Community Managers engage users on platforms like Discord and Telegram, building an inclusive and active environment. They are the first points of contact for community members and maintain the community's health.
 
-**Community Manager**: This role serves as the foundation of the marketing team. Community Managers engage users on platforms like Discord and Telegram, building an inclusive and active environment. They are the first points of contact for community members and maintain the community's health.
+2. **Content Marketer / Strategist**: These professionals are the storytellers who create written content, including blog posts, documentation, and Twitter threads that articulate the project's vision and technology. Their goal is to simplify complex concepts for the audience. 
 
-2.
+3. **Social Media Manager**: Twitter acts as the primary communication platform in Web3. This role focuses on mastering Twitter engagement, building relationships with influencers, and effectively using memes to drive conversation.
 
-**Content Marketer / Strategist**: These professionals are the storytellers who create written content, including blog posts, documentation, and Twitter threads that articulate the project's vision and technology. Their goal is to simplify complex concepts for the audience. 
+4. **Growth Marketer / Business Development**: This position emphasizes forming partnerships and integrations with other Web3 projects. Growth strategies often involve B2B2C models, enabling a project to tap into existing user bases.
 
-3.
+5. **Product Marketing Manager (PMM)**: The PMM acts as a liaison between product and engineering teams and the market. They define messaging, positioning, and go-to-market strategies for new features and products.
 
-**Social Media Manager**: Twitter acts as the primary communication platform in Web3. This role focuses on mastering Twitter engagement, building relationships with influencers, and effectively using memes to drive conversation.
-
-4.
-
-**Growth Marketer / Business Development**: This position emphasizes forming partnerships and integrations with other Web3 projects. Growth strategies often involve B2B2C models, enabling a project to tap into existing user bases.
-
-5.
-
-**Product Marketing Manager (PMM)**: The PMM acts as a liaison between product and engineering teams and the market. They define messaging, positioning, and go-to-market strategies for new features and products.
-
-6.
-
-**Head of Marketing / CMO**: The strategic leader coordinating all marketing efforts. The CMO crafts the overall brand narrative, manages the marketing budget (often sourced from a [DAO](/what-is-a-dao)-governed treasury), and ensures alignment across all marketing initiatives.
+6. **Head of Marketing / CMO**: The strategic leader coordinating all marketing efforts. The CMO crafts the overall brand narrative, manages the marketing budget (often sourced from a [DAO](/what-is-a-dao)-governed treasury), and ensures alignment across all marketing initiatives.
 
 ### How to Get Hired: Your Proof-of-Work Portfolio
 

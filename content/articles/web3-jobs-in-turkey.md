@@ -64,23 +64,15 @@ Many senior developers in Turkey work remotely for global protocols, earning sal
 
 ### Strategies for Securing a Web3 Job in Turkey
 
-1.
+1. **Language Skills**: Proficiency in Turkish significantly enhances job prospects. The ability to communicate effectively with the domestic user base is a key asset sought by international companies.
 
-**Language Skills**: Proficiency in Turkish significantly enhances job prospects. The ability to communicate effectively with the domestic user base is a key asset sought by international companies.
-
-2.
-
-**Engagement with the Community**: Building a successful career in Turkey's Web3 sector requires active participation in the community.
+2. **Engagement with the Community**: Building a successful career in Turkey's Web3 sector requires active participation in the community.
  - **Attend Local Meetups**: Major cities like Istanbul have growing communities. Participating in meetups helps expand your professional network.
  - **Engage on Turkish Crypto Twitter**: Interact with local influencers and projects to establish connections.
 
-3.
+3. **Highlight Relevant Experience**: Experience in traditional gaming or finance is highly valued. Emphasize your understanding of user behavior in virtual economies or financial markets.
 
-**Highlight Relevant Experience**: Experience in traditional gaming or finance is highly valued. Emphasize your understanding of user behavior in virtual economies or financial markets.
-
-4.
-
-**Participate in Hackathons**: Events such as ETHGlobal Istanbul provide excellent opportunities to showcase your skills and connect with leading global protocols that are hiring.
+4. **Participate in Hackathons**: Events such as ETHGlobal Istanbul provide excellent opportunities to showcase your skills and connect with leading global protocols that are hiring.
 
 ### Finding Web3 Job Opportunities in Turkey
 

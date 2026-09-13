@@ -33,15 +33,9 @@ Community Moderators represent one of the most effective entry points into a [We
 **Steps to get started:** 1.
 
 **Select a Project You Admire:** Identify a [DAO](/what-is-a-dao) or protocol that resonates with you.
-2.
-
-**Engage Actively:** Immerse yourself in their Discord. Familiarize yourself with the documentation and grasp the project's objectives.
-3.
-
-**Offer Assistance:** Start addressing questions from fellow newcomers. Maintain a constructive and helpful presence in the community.
-4.
-
-**Volunteer Your Time:** Many projects have informal helper roles. Taking on small tasks can lead to paid opportunities as your initiative gets recognized.
+2. **Engage Actively:** Immerse yourself in their Discord. Familiarize yourself with the documentation and grasp the project's objectives.
+3. **Offer Assistance:** Start addressing questions from fellow newcomers. Maintain a constructive and helpful presence in the community.
+4. **Volunteer Your Time:** Many projects have informal helper roles. Taking on small tasks can lead to paid opportunities as your initiative gets recognized.
 
 ### 2. Social Media Assistant / Coordinator
 
@@ -52,12 +46,8 @@ Web3 thrives on platforms like Twitter (now X). Projects need individuals who ca
 **Steps to get started:** 1.
 
 **Develop Your Own Profile:** Establish a professional Twitter account focused on Web3. Share your learning experiences and interact with others in the field.
-2.
-
-**Showcase Your Skills:** Create a Twitter thread that simplifies a complex topic from a project you admire. Design memes that reflect the project's culture; this public work becomes your portfolio.
-3.
-
-**Network:** Reach out to marketing leads of projects you appreciate. Present your work and express your interest in assisting with their social media efforts.
+2. **Showcase Your Skills:** Create a Twitter thread that simplifies a complex topic from a project you admire. Design memes that reflect the project's culture; this public work becomes your portfolio.
+3. **Network:** Reach out to marketing leads of projects you appreciate. Present your work and express your interest in assisting with their social media efforts.
 
 ### 3. Content Writer / Scribe
 
@@ -68,9 +58,7 @@ Effective communication is essential in the often jargon-heavy Web3 space.
 **Steps to get started:** 1.
 
 **Write Publicly:** Launch a blog on platforms like Mirror.xyz or a newsletter on Substack. Document your Web3 learning journey.
-2.
-
-**Contribute Authentically:** Identify projects with unclear documentation or summaries of community calls. Create improved versions and share them in their Discord. Your initiative will signal your value.
+2. **Contribute Authentically:** Identify projects with unclear documentation or summaries of community calls. Create improved versions and share them in their Discord. Your initiative will signal your value.
 
 ## Key Technical Entry-Level Roles
 
@@ -85,12 +73,8 @@ Most decentralized applications (dApps) require a traditional web frontend, typi
 **Steps to get started:** 1.
 
 **Master React and TypeScript:** These technologies are standard for Web3 frontends.
-2.
-
-**Learn a Web3 Library:** Gain proficiency in Ethers.js or Viem. Understand how to connect to a user's [wallet](/how-to-choose-a-crypto-wallet), retrieve on-chain data (like a [token](/what-is-a-token) balance), and prompt users to sign transactions.
-3.
-
-**Build a Portfolio Project:** Create a simple dApp frontend interacting with a well-known [smart contract](/what-are-smart-contracts) on a testnet, such as developing a basic interface for Uniswap or Aave.
+2. **Learn a Web3 Library:** Gain proficiency in Ethers.js or Viem. Understand how to connect to a user's [wallet](/how-to-choose-a-crypto-wallet), retrieve on-chain data (like a [token](/what-is-a-token) balance), and prompt users to sign transactions.
+3. **Build a Portfolio Project:** Create a simple dApp frontend interacting with a well-known [smart contract](/what-are-smart-contracts) on a testnet, such as developing a basic interface for Uniswap or Aave.
 
 ### 2. QA / Test Engineer
 
@@ -101,6 +85,4 @@ The high-stakes nature of smart contracts requires rigorous testing.
 **Steps to get started:** 1.
 
 **Learn a Testing Framework:** Specialize in either Foundry (for [Solidity](/best-programming-languages-for-blockchain-development)-based testing) or Hardhat (for JavaScript-based testing).
-2.
-
-**Contribute to Open-Source Projects:** Locate a Web3 project on GitHub with insufficient test coverage. Write new tests and submit a pull request. This contribution demonstrates your skills effectively.
+2. **Contribute to Open-Source Projects:** Locate a Web3 project on GitHub with insufficient test coverage. Write new tests and submit a pull request. This contribution demonstrates your skills effectively.

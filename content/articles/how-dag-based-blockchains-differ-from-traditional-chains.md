@@ -37,12 +37,8 @@ A DAG represents a fundamentally different data structure. Instead of a linear a
 **Functionality in a Crypto Network:** 1.
 
 **Transactions as Nodes:** Each transaction serves as a node within the DAG.
-2.
-
-**Mutual Validation:** When a new transaction is broadcast, it must reference and validate one or more previous transactions, known as "tips." This mutual validation process establishes the legitimacy of the previous transactions.
-3.
-
-**Parallel Processing:** Unlike blockchains that create blocks sequentially, DAGs allow for multiple transactions to be added simultaneously. There is no traditional block; the ledger expands organically as new transactions connect.
+2. **Mutual Validation:** When a new transaction is broadcast, it must reference and validate one or more previous transactions, known as "tips." This mutual validation process establishes the legitimacy of the previous transactions.
+3. **Parallel Processing:** Unlike blockchains that create blocks sequentially, DAGs allow for multiple transactions to be added simultaneously. There is no traditional block; the ledger expands organically as new transactions connect.
 
 >**Mental Model:** If a blockchain resembles a single-file line, a DAG resembles a lively crowd where individuals continuously engage with those who arrived just before them.
 

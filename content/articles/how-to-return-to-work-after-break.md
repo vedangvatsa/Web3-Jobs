@@ -46,15 +46,9 @@ Prepare to discuss your career break in interviews. A well-crafted narrative can
 
 Your explanation should cover three components:
 
-1.
-
-**The "Why"**: Briefly state the reason for your break. For example, "I took a planned career break to prioritize family responsibilities."
-2.
-
-**The "What"**: Discuss what you accomplished or learned during that time. For instance, "During my break, I completed a certification in data analysis to stay current in my field."
-3.
-
-**The "Now"**: Conclude by highlighting your enthusiasm for rejoining the workforce. For example, "I am excited to bring my skills and fresh perspective to a dynamic company."
+1. **The "Why"**: Briefly state the reason for your break. For example, "I took a planned career break to prioritize family responsibilities."
+2. **The "What"**: Discuss what you accomplished or learned during that time. For instance, "During my break, I completed a certification in data analysis to stay current in my field."
+3. **The "Now"**: Conclude by highlighting your enthusiasm for rejoining the workforce. For example, "I am excited to bring my skills and fresh perspective to a dynamic company."
 
 Rehearse your story until it flows naturally. The way you frame your break is as important as the content itself.
 

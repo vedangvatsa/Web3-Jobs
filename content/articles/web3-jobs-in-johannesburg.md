@@ -41,21 +41,13 @@ The job market in Johannesburg favors professionals with backgrounds in finance,
 
 ### Building a Web3 Career in Johannesburg
 
-1.
+1. **Use Your Financial or Corporate Background:** Your experience in banking, law, or large corporations is a significant asset. Highlight roles involving risk management, compliance, and enterprise client engagement on your [resume](/how-to-build-a-web3-resume-that-stands-out).
 
-**Use Your Financial or Corporate Background:** Your experience in banking, law, or large corporations is a significant asset. Highlight roles involving risk management, compliance, and enterprise client engagement on your [resume](/how-to-build-a-web3-resume-that-stands-out).
+2. **Concentrate on Institutional Solutions:** Focus your studies and portfolio on the more serious aspects of Web3, such as the tokenization of RWAs, institutional DeFi, and the architecture of permissioned blockchains.
 
-2.
+3. **Engage with FinTech and Corporate Communities:** Network within Johannesburg's intertwined Web3 and traditional finance sectors. Attend FinTech conferences, corporate innovation events, and blockchain forums specific to your industry.
 
-**Concentrate on Institutional Solutions:** Focus your studies and portfolio on the more serious aspects of Web3, such as the tokenization of RWAs, institutional DeFi, and the architecture of permissioned blockchains.
-
-3.
-
-**Engage with FinTech and Corporate Communities:** Network within Johannesburg's intertwined Web3 and traditional finance sectors. Attend FinTech conferences, corporate innovation events, and blockchain forums specific to your industry.
-
-4.
-
-**Promote Professionalism and Compliance:** The market values a stable, secure, and compliant approach to business. In interviews and your public profile, convey your understanding of integrating with existing financial systems rather than merely disrupting them.
+4. **Promote Professionalism and Compliance:** The market values a stable, secure, and compliant approach to business. In interviews and your public profile, convey your understanding of integrating with existing financial systems rather than merely disrupting them.
 
 ### Next Steps: Finding a Web3 Job
 

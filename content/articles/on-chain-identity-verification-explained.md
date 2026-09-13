@@ -53,25 +53,15 @@ On-chain identity verification relies on several core Web3 components:
 
 Consider a [DeFi](/what-is-defi) protocol that requires users to undergo a Know Your Customer (KYC) process.
 
-1.
-
-**Off-Chain Verification:** You first complete a one-time KYC process with a reputable, regulated third-party company.
-2.
-
-**Issuance of a VC:** Upon successful verification, the issuer provides a
+1. **Off-Chain Verification:** You first complete a one-time KYC process with a reputable, regulated third-party company.
+2. **Issuance of a VC:** Upon successful verification, the issuer provides a
 
 **Verifiable Credential** to your DID, stating "The holder of `did:ethr:0x123...` has completed a KYC check." Importantly, this VC does not include your name or any sensitive personal information.
-3.
-
-**On-Chain Interaction:** You then access the DeFi protocol and present the VC stored in your wallet.
-4.
-
-**Verification:** The smart contract associated with the DeFi protocol performs two checks:
+3. **On-Chain Interaction:** You then access the DeFi protocol and present the VC stored in your wallet.
+4. **Verification:** The smart contract associated with the DeFi protocol performs two checks:
  - It verifies the cryptographic signature of the VC to ensure authenticity.
  - It confirms on the blockchain that the VC was issued by an approved KYC provider.
-5.
-
-**Access Granted:** If both checks validate, you gain access to the protocol without revealing your personal identity on-chain.
+5. **Access Granted:** If both checks validate, you gain access to the protocol without revealing your personal identity on-chain.
 
 ### The Benefits of On-Chain Identity
 

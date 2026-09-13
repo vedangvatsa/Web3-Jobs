@@ -37,7 +37,7 @@ Several actions do not constitute taxable events:
 - **Holding ("HODLing") crypto:** While the value of your assets may increase, you only incur taxes when you sell or trade them (known as unrealized gains).
 - **Donating crypto to a qualified charity.**
 
-- **-** Transferring crypto between your personal wallets.**### Calculating Capital Gains and Losses
+- Transferring crypto between your personal wallets.**### Calculating Capital Gains and Losses
 
 To determine your capital gain or loss following a taxable event, use the following formula:**Formula:**`Fair Market Value - Cost Basis = Capital Gain or Loss`
 

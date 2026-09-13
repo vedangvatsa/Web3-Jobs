@@ -37,15 +37,11 @@ Standard AMMs primarily enable spot trading, where real assets are exchanged dir
 
 A vAMM addresses these limitations by dissociating the price-setting mechanism from the actual assets involved. The core components include:
 
-1.
-
-**The Virtual Pool**: A smart contract initializes with a *virtual* quantity of [tokens](/what-is-a-token). For instance, a vETH/vUSDC pool may be set up with a fictional quantity of vETH and vUSDC. These tokens exist only as numbers for the purpose of initializing the `x * y = k` curve.
+1. **The Virtual Pool**: A smart contract initializes with a *virtual* quantity of [tokens](/what-is-a-token). For instance, a vETH/vUSDC pool may be set up with a fictional quantity of vETH and vUSDC. These tokens exist only as numbers for the purpose of initializing the `x * y = k` curve.
 
 2. **The Collateral Vault**: This smart contract gathers all traders' real collateral, usually in a stablecoin like USDC. All profits and losses are reconciled through this vault.
 
-3.
-
-**The Trading Process**:
+3. **The Trading Process**:
  - A trader, say Alice, decides to take a 10x long position on 1 [ETH](/what-is-ethereum) and deposits collateral into the vault.
  - She conducts a "trade" on the vAMM, with the smart contract registering her purchase of 10 vETH (1 ETH * 10x use).
  - The vAMM adjusts its virtual reserves according to the `x * y = k` formula, affecting the price of vETH on the curve.
@@ -53,9 +49,7 @@ A vAMM addresses these limitations by dissociating the price-setting mechanism f
 
 4. **Funding Payments**: To align the vAMM's price with real-world asset prices (from a price oracle), perpetual protocols implement a funding payment system. If the vAMM price exceeds the oracle price, traders holding long positions pay those holding short positions. Conversely, if the vAMM price is lower, shorts pay longs. This mechanism encourages traders to execute trades that realign the vAMM price with the index price.
 
-5.
-
-**Settlement**: Upon closing her position, the vAMM calculates Alice's profit or loss (PnL) based on the entry and exit prices on the virtual curve. The PnL is then settled from the central collateral vault.
+5. **Settlement**: Upon closing her position, the vAMM calculates Alice's profit or loss (PnL) based on the entry and exit prices on the virtual curve. The PnL is then settled from the central collateral vault.
 
 ### Comparing vAMMs and Standard AMMs
 

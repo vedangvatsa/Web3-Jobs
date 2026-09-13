@@ -50,21 +50,13 @@ The demand for skilled talent in South Korea remains strong, particularly for in
 
 ### Steps to Secure a Web3 Position in South Korea
 
-1.
+1. **Language Proficiency:** Fluency in Korean is essential for most roles, especially non-technical ones. The local focus of the market requires effective communication in Korean.
 
-**Language Proficiency:** Fluency in Korean is essential for most roles, especially non-technical ones. The local focus of the market requires effective communication in Korean.
+2. **Gaming or Entertainment Experience:** A background in a major gaming studio, such as Nexon or Netmarble, provides a substantial advantage. This experience indicates familiarity with product development and marketing for a broad consumer base.
 
-2.
+3. **Knowledge of the Local Ecosystem:** Understanding key local players is important. Familiarity with platforms like Upbit and Kakao and how they can drive growth is a key strategic asset.
 
-**Gaming or Entertainment Experience:** A background in a major gaming studio, such as Nexon or Netmarble, provides a substantial advantage. This experience indicates familiarity with product development and marketing for a broad consumer base.
-
-3.
-
-**Knowledge of the Local Ecosystem:** Understanding key local players is important. Familiarity with platforms like Upbit and Kakao and how they can drive growth is a key strategic asset.
-
-4.
-
-**Networking at Local Events:** Participation in events such as Korea Blockchain Week (KBW) and BUIDL Asia in Seoul can enable valuable connections in the Korean and broader Asian Web3 community.
+4. **Networking at Local Events:** Participation in events such as Korea Blockchain Week (KBW) and BUIDL Asia in Seoul can enable valuable connections in the Korean and broader Asian Web3 community.
 
 ### Salary Overview: Web3 Positions in South Korea
 

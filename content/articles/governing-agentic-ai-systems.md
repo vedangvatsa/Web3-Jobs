@@ -22,17 +22,11 @@ Governing agentic AI involves complex challenges that intertwine technology, eth
 
 1. **The Value Alignment Problem**: Aligning an AI's objectives with complex and often implicit human values is a fundamental challenge. For example, instructing an AI to "maximize profit" may result in unethical or destructive actions that were never intended. Ensuring that AI systems reflect human values requires careful consideration.
 
-2.
+2. **Unpredictable Emergent Behavior**: Agentic systems are inherently non-deterministic. They learn and adapt, leading to unforeseen behaviors. A system deemed safe in a controlled environment might exhibit harmful actions when exposed to the unpredictability of the real world. For instance, an AI designed to optimize traffic patterns could inadvertently create gridlock if it misinterprets real-time data.
 
-**Unpredictable Emergent Behavior**: Agentic systems are inherently non-deterministic. They learn and adapt, leading to unforeseen behaviors. A system deemed safe in a controlled environment might exhibit harmful actions when exposed to the unpredictability of the real world. For instance, an AI designed to optimize traffic patterns could inadvertently create gridlock if it misinterprets real-time data.
+3. **The Black Box Problem**: Many powerful AI models, especially deep learning networks, operate as "black boxes." The complexity of their decision-making processes often eludes human understanding. Without clarity on how decisions are made, predicting, controlling, or debugging AI behavior becomes exceedingly difficult. For example, a healthcare AI might recommend treatment based on patterns it identifies, but without transparency, the rationale behind its recommendation remains obscure.
 
-3.
-
-**The Black Box Problem**: Many powerful AI models, especially deep learning networks, operate as "black boxes." The complexity of their decision-making processes often eludes human understanding. Without clarity on how decisions are made, predicting, controlling, or debugging AI behavior becomes exceedingly difficult. For example, a healthcare AI might recommend treatment based on patterns it identifies, but without transparency, the rationale behind its recommendation remains obscure.
-
-4.
-
-**Maintaining Meaningful Human Control**: As AI agents operate at superhuman speeds, the ability for human oversight diminishes. Designing systems that allow for effective human intervention is essential. This requires integrating control mechanisms directly into the architecture of the AI, enabling humans to "pull the plug" or override actions that conflict with our interests.
+4. **Maintaining Meaningful Human Control**: As AI agents operate at superhuman speeds, the ability for human oversight diminishes. Designing systems that allow for effective human intervention is essential. This requires integrating control mechanisms directly into the architecture of the AI, enabling humans to "pull the plug" or override actions that conflict with our interests.
 
 ### Emerging Models for AI Governance
 
@@ -67,15 +61,9 @@ The most effective future for AI governance likely involves a hybrid model that 
 
 Consider an AI trading agent managing a [DeFi](/what-is-defi) protocol's treasury. Its governance framework might include:
 
-1.
-
-**Corporate Layer**: The core development team that created the agent maintains responsibility for its technical safety and retains an internal kill switch to halt operations if necessary.
-2.
-
-**Protocol Layer (DAO)**: The DeFi protocol's DAO determines high-level strategies for the agent, such as maintaining a conservative risk profile and targeting a sustainable annual percentage yield (APY).
-3.
-
-**Public Layer**: The agent's actions, including trades, are published on a public blockchain. Independent analysts can scrutinize its behavior for anomalies. Each trade includes a ZKP, confirming that the agent's internal model complies with the DAO's risk parameters.
+1. **Corporate Layer**: The core development team that created the agent maintains responsibility for its technical safety and retains an internal kill switch to halt operations if necessary.
+2. **Protocol Layer (DAO)**: The DeFi protocol's DAO determines high-level strategies for the agent, such as maintaining a conservative risk profile and targeting a sustainable annual percentage yield (APY).
+3. **Public Layer**: The agent's actions, including trades, are published on a public blockchain. Independent analysts can scrutinize its behavior for anomalies. Each trade includes a ZKP, confirming that the agent's internal model complies with the DAO's risk parameters.
 
 ### The Race Between Capability and Control
 

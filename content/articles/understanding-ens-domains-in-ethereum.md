@@ -23,12 +23,8 @@ ENS functions similarly to the
 
 ENS relies on a series of smart contracts operating on the Ethereum blockchain. The two key components of ENS are:
 
-1.
-
-**The ENS Registry:** This central contract maintains a list of all registered domains and their respective owners.
-2.
-
-**Resolvers:** These smart contracts enable the translation process. An ENS name owner can configure their resolver to direct the name to various types of information.
+1. **The ENS Registry:** This central contract maintains a list of all registered domains and their respective owners.
+2. **Resolvers:** These smart contracts enable the translation process. An ENS name owner can configure their resolver to direct the name to various types of information.
 
 When you enter `vitalik.eth` into a Web3-enabled wallet or decentralized application (dApp), the application queries the ENS registry to obtain the resolver associated with that name. It then asks the resolver for the Ethereum address corresponding to `vitalik.eth`. The resolver retrieves and returns the relevant `0x...` address.
 

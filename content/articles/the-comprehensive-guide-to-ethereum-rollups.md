@@ -24,12 +24,8 @@ For developers, users, and investors, understanding rollups is essential. They s
 
 A rollup is essentially a distinct [blockchain](/what-is-a-blockchain) that derives its security from the Ethereum mainnet (Layer 1). The key innovation of rollups involves the separation of execution and data availability:
 
-1.
-
-**Off-Chain Execution**: Transactions are processed on the high-speed L2 rollup instead of the congested Layer 1. This design allows for significantly increased throughput and lower fees.
-2.
-
-**On-Chain Data Posting**: The rollup groups multiple L2 transactions into a single batch and posts a compressed version of this data back to the Ethereum mainnet.
+1. **Off-Chain Execution**: Transactions are processed on the high-speed L2 rollup instead of the congested Layer 1. This design allows for significantly increased throughput and lower fees.
+2. **On-Chain Data Posting**: The rollup groups multiple L2 transactions into a single batch and posts a compressed version of this data back to the Ethereum mainnet.
 
 The second point is important. By posting transaction data on-chain, rollups ensure **data availability**. Anyone can independently verify the state of the L2 by examining the data stored on Layer 1. This mechanism allows the L2 to benefit from Ethereum's security. If a rollup operator goes offline or behaves maliciously, a new operator can reconstruct the L2 state from the on-chain data and resume operations. This differentiates rollups from "sidechains," which do not post data on-chain and thus operate under their own security assumptions.
 

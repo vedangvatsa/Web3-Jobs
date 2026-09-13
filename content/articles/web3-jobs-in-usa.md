@@ -61,18 +61,10 @@ The US offers some of the highest salaries for Web3 positions globally, reflecti
 
 ### Securing a Web3 Job in the USA
 
-1.
-
-**Develop a Stellar "Proof of Work" [Portfolio](/building-web3-portfolio):** The US job market is highly competitive. Distinguish yourself with outstanding public contributions. Ensure your GitHub is polished, your writing is insightful, and your Dune dashboards provide value.
-2.
-
-**Specialize in a High-Demand Technical Niche:** The highest rewards go to specialists. Expertise in areas like Zero-Knowledge (ZK) proofs, Maximal Extractable Value (MEV) research, or institutional DeFi compliance can make you an attractive candidate.
-3.
-
-**Engage on Twitter (X):** Twitter acts as the primary social network for the US crypto sector. Build a strong professional brand and network on the platform. Connect with leading builders, share your insights, and contribute meaningfully to discussions.
-4.
-
-**Consider Relocating to a Hub:** Although many positions are remote, being located in New York, the Bay Area, or another major hub can enhance networking and career growth opportunities.
+1. **Develop a Stellar "Proof of Work" [Portfolio](/building-web3-portfolio):** The US job market is highly competitive. Distinguish yourself with outstanding public contributions. Ensure your GitHub is polished, your writing is insightful, and your Dune dashboards provide value.
+2. **Specialize in a High-Demand Technical Niche:** The highest rewards go to specialists. Expertise in areas like Zero-Knowledge (ZK) proofs, Maximal Extractable Value (MEV) research, or institutional DeFi compliance can make you an attractive candidate.
+3. **Engage on Twitter (X):** Twitter acts as the primary social network for the US crypto sector. Build a strong professional brand and network on the platform. Connect with leading builders, share your insights, and contribute meaningfully to discussions.
+4. **Consider Relocating to a Hub:** Although many positions are remote, being located in New York, the Bay Area, or another major hub can enhance networking and career growth opportunities.
 
 ### Finding Your US-Based Web3 Job
 

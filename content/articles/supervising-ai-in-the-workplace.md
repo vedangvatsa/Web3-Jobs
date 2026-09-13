@@ -193,7 +193,7 @@ The companion Generative AI Profile NIST AI 600-1, released July 26, 2024, adds 
 
 **Where supervision helps:**
 
-- **-** Fewer bad decisions at scale.
+- Fewer bad decisions at scale.
 
 **A single screen checked once can affect hundreds of applicants. A human check catches parsing failures, mis-ranked candidates, and test drift before offers go out.
 - **Better record quality.
@@ -206,7 +206,7 @@ The companion Generative AI Profile NIST AI 600-1, released July 26, 2024, adds 
 
 **The same inventory, impact assessment, and approval flow can cover hiring, scheduling, and support bots, which cuts later build cost.** Limits and trade-offs:**
 
-- **-** Time and cost.
+- Time and cost.
 
 **In-loop review slows high-volume workflows and needs staffing. Treat it as operating cost, not a one-time project.
 - **Automation bias.

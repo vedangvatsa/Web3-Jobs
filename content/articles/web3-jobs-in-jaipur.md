@@ -49,17 +49,11 @@ Jaipur's job market primarily includes remote roles and positions with a few loc
 
 ### Building a Web3 Career in Jaipur
 
-1.
+1. **Become a Community Organizer:** The compact local community presents an opportunity to take initiative. Organize regular Web3 meetups or start a Telegram or WhatsApp group for local enthusiasts. Positioning yourself as a community leader can lead to early access to new opportunities.
 
-**Become a Community Organizer:** The compact local community presents an opportunity to take initiative. Organize regular Web3 meetups or start a Telegram or WhatsApp group for local enthusiasts. Positioning yourself as a community leader can lead to early access to new opportunities.
+2. **Develop a Strong Remote Profile:** With many opportunities being remote, your online presence is critical. Create an impressive [GitHub](/building-web3-portfolio) profile, share insightful content on Twitter or a blog, and establish a reputation that extends beyond your geographic location.
 
-2.
-
-**Develop a Strong Remote Profile:** With many opportunities being remote, your online presence is critical. Create an impressive [GitHub](/building-web3-portfolio) profile, share insightful content on Twitter or a blog, and establish a reputation that extends beyond your geographic location.
-
-3.
-
-**Focus on a Relevant Niche:** Identify projects that can bridge Web3 with Jaipur's unique strengths.
+3. **Focus on a Relevant Niche:** Identify projects that can bridge Web3 with Jaipur's unique strengths.
  - *Project Idea:* Develop an NFT platform for local artists and artisans.
  - *Project Idea:* Create a dApp for tokenizing tourism-related experiences.
  - Presenting such projects at local tech meetups can effectively showcase your skills and vision.

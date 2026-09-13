@@ -43,7 +43,7 @@ Kolkata's job market is particularly strong for non-technical positions, especia
 - **Community Manager (Bengali & English speaking):** This role showcases Kolkata's local talent. 
 - **Content & Marketing Roles:**
 
-- **-** Content Writer/Strategist:**₹12,00,000 - ₹35,00,000 per annum
+- Content Writer/Strategist:**₹12,00,000 - ₹35,00,000 per annum
  - **Social Media Manager:** ₹12,00,000 - ₹35,00,000 per annum
 - **Web3 Developer (Remote):** Although local job openings are limited, many developers based in Kolkata work remotely.
  - **Mid-Level (Remote):** ₹12,00,000 - ₹35,00,000 per annum
@@ -51,22 +51,14 @@ Kolkata's job market is particularly strong for non-technical positions, especia
 
 ### Steps to Build a Career in Web3 in Kolkata
 
-1.
-
-**Become a Community Leader:** This path offers direct access to opportunities in Kolkata's Web3 sector.
+1. **Become a Community Leader:** This path offers direct access to opportunities in Kolkata's Web3 sector.
  - **Initiate a Local Guild or Meetup:** Organizing local events or workshops presents a significant opportunity for community leaders. Consider starting a city-specific [DAO](/what-is-a-dao) to showcase your leadership and commitment to the ecosystem.
  - **Educate Your Region:** Develop content in both English and Bengali that simplifies Web3 concepts for the local audience. Establish yourself as a trusted educator and bridge between the global Web3 community and the Bengali population.
 
-2.
-
-**Capitalize on Content and Creativity:** Use the city's artistic talents to your advantage.
+2. **Capitalize on Content and Creativity:** Use the city's artistic talents to your advantage.
  - **For Artists:** Investigate the creation of NFTs and engage with the broader Indian NFT art community.
  - **For Writers:** Your public writing can serve as your [portfolio](/building-web3-portfolio). Initiate a blog or a Twitter account that discusses Web3 from cultural or marketing angles.
 
-3.
+3. **Engage at National Events:** To grow your network, connect with the larger Indian ecosystem. Attend significant events such as ETHIndia in Bangalore to meet teams and founders actively seeking talent.
 
-**Engage at National Events:** To grow your network, connect with the larger Indian ecosystem. Attend significant events such as ETHIndia in Bangalore to meet teams and founders actively seeking talent.
-
-4.
-
-**Pursue Remote Roles:** The most lucrative opportunities for professionals in Kolkata often come from remote positions with global firms. Cultivate a strong online presence and maintain a public portfolio to enhance your attractiveness as a candidate.
+4. **Pursue Remote Roles:** The most lucrative opportunities for professionals in Kolkata often come from remote positions with global firms. Cultivate a strong online presence and maintain a public portfolio to enhance your attractiveness as a candidate.

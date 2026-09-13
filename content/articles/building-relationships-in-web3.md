@@ -170,15 +170,9 @@ Avoiding certain mistakes can significantly enhance your networking efforts:
 
 ### Identify Your Circles of Influence
 
-1.
-
-**Core Circle**: 5-10 individuals you engage with regularly.
-2.
-
-**Active Network**: 20-50 people you maintain contact with.
-3.
-
-**Broad Community**: 100+ acquaintances within your professional field.
+1. **Core Circle**: 5-10 individuals you engage with regularly.
+2. **Active Network**: 20-50 people you maintain contact with.
+3. **Broad Community**: 100+ acquaintances within your professional field.
 
 ### Nurture Each Group
 

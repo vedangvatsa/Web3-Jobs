@@ -44,21 +44,13 @@ The most lucrative opportunities arise with international, remote-first companie
 
 ### Building a Web3 Career as a Russian Professional
 
-1.
+1. **Create a Strong, Public, Global [Portfolio](/building-web3-portfolio)**: Your GitHub profile serves as your professional passport. Maintaining a top-tier portfolio showcasing your work on global platforms is critical. Contribute to major international open-source protocols. A solid history of high-quality pull requests provides substantial credibility.
 
-**Create a Strong, Public, Global [Portfolio](/building-web3-portfolio)**: Your GitHub profile serves as your professional passport. Maintaining a top-tier portfolio showcasing your work on global platforms is critical. Contribute to major international open-source protocols. A solid history of high-quality pull requests provides substantial credibility.
+2. **Excel in Global Hackathons and Competitions**: Participating in online hackathons, such as ETHGlobal, and competitive auditing contests like Code4rena allows you to demonstrate your skills to a global audience and gain recognition from leading protocols.
 
-2.
+3. **Develop English and Asynchronous Communication Skills**: Fluency in English is essential for securing remote roles. You must also excel in asynchronous communication, clearly articulating complex technical ideas in writing on platforms like Discord, Telegram, and Notion.
 
-**Excel in Global Hackathons and Competitions**: Participating in online hackathons, such as ETHGlobal, and competitive auditing contests like Code4rena allows you to demonstrate your skills to a global audience and gain recognition from leading protocols.
-
-3.
-
-**Develop English and Asynchronous Communication Skills**: Fluency in English is essential for securing remote roles. You must also excel in asynchronous communication, clearly articulating complex technical ideas in writing on platforms like Discord, Telegram, and Notion.
-
-4.
-
-**Engage in Global Digital Communities**: While local meetups offer value, significant networking occurs in global online communities. Establish yourself as a respected voice in major protocol Discords, engage in technical discussions on Twitter, and connect with the global research community on forums like ethresear.ch.
+4. **Engage in Global Digital Communities**: While local meetups offer value, significant networking occurs in global online communities. Establish yourself as a respected voice in major protocol Discords, engage in technical discussions on Twitter, and connect with the global research community on forums like ethresear.ch.
 
 ## Salary Overview: Web3 Jobs for Russian Professionals
 

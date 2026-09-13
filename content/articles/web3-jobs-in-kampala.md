@@ -47,21 +47,13 @@ The demand for Web3 talent in Kampala is increasing sharply, particularly for de
 
 ### How to Build a Web3 Career in Kampala
 
-1.
+1. **Engage with Local Tech Hubs:** The Innovation Village and similar organizations are central to Kampala's tech community. Participate in blockchain bootcamps, workshops, and startup competitions to gain skills, visibility, and connections.
 
-**Engage with Local Tech Hubs:** The Innovation Village and similar organizations are central to Kampala's tech community. Participate in blockchain bootcamps, workshops, and startup competitions to gain skills, visibility, and connections.
+2. **Focus on Practical, Mobile-First Solutions:** Concentrate on developing dApps that address real-world issues for Ugandans and are optimized for mobile devices. A straightforward, functional mobile dApp will serve as a more effective [portfolio](/building-web3-portfolio) piece than a complex, theoretical project.
 
-2.
+3. **Become a Community Leader:** The youthful ecosystem is eager for leadership. Organize a Web3 meetup, establish a study group for learning Solidity, or create a Telegram channel for local crypto updates. Taking such initiatives positions you as a key player within the community.
 
-**Focus on Practical, Mobile-First Solutions:** Concentrate on developing dApps that address real-world issues for Ugandans and are optimized for mobile devices. A straightforward, functional mobile dApp will serve as a more effective [portfolio](/building-web3-portfolio) piece than a complex, theoretical project.
-
-3.
-
-**Become a Community Leader:** The youthful ecosystem is eager for leadership. Organize a Web3 meetup, establish a study group for learning Solidity, or create a Telegram channel for local crypto updates. Taking such initiatives positions you as a key player within the community.
-
-4.
-
-**Develop a Global Profile:** Many lucrative opportunities arise from securing remote positions with international Web3 companies. Cultivate a strong GitHub presence and maintain a professional profile on Twitter to showcase your skills and ability to work effectively in English with global teams.
+4. **Develop a Global Profile:** Many lucrative opportunities arise from securing remote positions with international Web3 companies. Cultivate a strong GitHub presence and maintain a professional profile on Twitter to showcase your skills and ability to work effectively in English with global teams.
 
 ### Salary and Cost of Living Breakdown
 
@@ -103,7 +95,7 @@ The demand for Web3 talent in Kampala is increasing sharply, particularly for de
 
 **Path 1: The Mobile-First DeFi Developer (9-15 months)**
 
-- **-** Months 1-3: Foundation**- Learn JavaScript/React and Solidity.
+- Months 1-3: Foundation**- Learn JavaScript/React and Solidity.
  - Study mobile-first design patterns.
  - Complete a Buildspace course (20-25 hours/week).
 
@@ -119,7 +111,7 @@ The demand for Web3 talent in Kampala is increasing sharply, particularly for de
 
 **Path 2: The Fintech & Community Growth Lead (10-16 months)**
 
-- **-** Months 1-4: Market Research**- Analyze Uganda's financial sector.
+- Months 1-4: Market Research**- Analyze Uganda's financial sector.
  - Conduct interviews with traders and users.
  - Join fintech and DeFi communities (15-20 hours/week).
 
@@ -133,7 +125,7 @@ The demand for Web3 talent in Kampala is increasing sharply, particularly for de
 
 **Path 3: The Innovation Hub Collaborator (8-14 months)**
 
-- **-** Months 1-2: Hub Connection**- Join Innovation Village or Outbox Hub.
+- Months 1-2: Hub Connection**- Join Innovation Village or Outbox Hub.
  - Engage in a blockchain bootcamp and network with founders and mentors (15-20 hours/week).
 
 - **Months 3-6: Portfolio Development**- Build 2-3 significant projects and contribute to local startups.

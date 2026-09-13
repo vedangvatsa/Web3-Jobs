@@ -19,17 +19,11 @@ The applications of [blockchain](/what-is-a-blockchain) in healthcare range from
 
 1. **Fragmented and Insecure Medical Records**: Patient data often resides in isolated databases across various hospitals and clinics. This fragmentation complicates access to patient history for healthcare providers and diminishes patient control over their medical data.
 
-2.
+2. **Counterfeit Drugs**: The pharmaceutical supply chain's complexity leaves it vulnerable to counterfeit medication, which poses a serious risk to public health.
 
-**Counterfeit Drugs**: The pharmaceutical supply chain's complexity leaves it vulnerable to counterfeit medication, which poses a serious risk to public health.
+3. **Inefficient Clinical Trials**: Managing clinical trials is frequently slow and reliant on paper-based processes, raising concerns about data integrity.
 
-3.
-
-**Inefficient Clinical Trials**: Managing clinical trials is frequently slow and reliant on paper-based processes, raising concerns about data integrity.
-
-4.
-
-**Complex Medical Billing and Insurance Claims**: The billing and claims process involves numerous parties, leading to delays, errors, and inflated administrative costs.
+4. **Complex Medical Billing and Insurance Claims**: The billing and claims process involves numerous parties, leading to delays, errors, and inflated administrative costs.
 
 ### Use Cases and Implementations
 
@@ -100,21 +94,13 @@ Healthcare entities increasingly recognize the advantages of blockchain, includi
 
 Despite its potential, several barriers hinder blockchain adoption in healthcare:
 
-1.
+1. **Regulatory Uncertainty**: The evolving regulatory space poses challenges for blockchain integration. Organizations need to ensure compliance with existing laws while engaging with regulators.
 
-**Regulatory Uncertainty**: The evolving regulatory space poses challenges for blockchain integration. Organizations need to ensure compliance with existing laws while engaging with regulators.
+2. **Interoperability Issues**: Different healthcare systems use various data formats and standards. Achieving compatibility between these systems is essential for effective blockchain deployment.
 
-2.
+3. **Stakeholder Resistance**: Healthcare stakeholders may resist change due to concerns about costs, complexity, and the disruption of established processes.
 
-**Interoperability Issues**: Different healthcare systems use various data formats and standards. Achieving compatibility between these systems is essential for effective blockchain deployment.
-
-3.
-
-**Stakeholder Resistance**: Healthcare stakeholders may resist change due to concerns about costs, complexity, and the disruption of established processes.
-
-4.
-
-**Scalability**: Blockchain solutions must efficiently handle the large volume of transactions characteristic of the healthcare sector.
+4. **Scalability**: Blockchain solutions must efficiently handle the large volume of transactions characteristic of the healthcare sector.
 
 ### Strategies for Successful Blockchain Adoption
 

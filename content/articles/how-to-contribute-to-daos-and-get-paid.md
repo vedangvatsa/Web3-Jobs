@@ -56,18 +56,10 @@ You do not need to be a developer. DAOs pay for non-technical work that moves th
 
 Most large DAOs use the same flow. Uniswap documents it clearly at developers.uniswap.org and it is representative of others:
 
-1.
-
-**Forum discussion.** A draft is posted on Discourse or Commonwealth. Uniswap uses gov.uniswap.org, Sky uses forum.sky.money, Aave uses governance.aave.com. Uniswap's process requires at least 7 days as Request for Comment (RFC) to gather feedback before any vote. If consensus is unclear, the proposal should not advance.
-2.
-
-**Temperature check on Snapshot.** Token holders sign a gasless vote. Snapshot is off-chain and gasless by design, as described at docs.snapshot.box and in its GitHub docs. Votes are signed messages verified at a snapshot block, so live balances can differ from tallies. Uniswap requires 10M UNI voting for to advance and the poll lasts 5 days.
-3.
-
-**Binding on-chain vote.** If the check passes, the proposal moves to the governance contract. Many DAOs use a Compound Bravo style Governor. Uniswap's current parameters, updated after a December 2023 proposal to lower the threshold, require 1M UNI delegated to submit and 40M UNI voting for to pass. Voting follows a 2-day delay before voting starts, a 7-day voting period, and a 2-day timelock after it passes before anyone can execute. You can verify the exact quorum and threshold in the GovernorAlpha contract on GitHub (quorumVotes = 40M, proposalThreshold = 1M after the update).
-4.
-
-**Execution via Safe or timelock.** Passed proposals are queued. A Safe multisig or timelock contract then executes the transfer. You can verify the payout on Etherscan and on the DAO's Dune dashboard.
+1. **Forum discussion.** A draft is posted on Discourse or Commonwealth. Uniswap uses gov.uniswap.org, Sky uses forum.sky.money, Aave uses governance.aave.com. Uniswap's process requires at least 7 days as Request for Comment (RFC) to gather feedback before any vote. If consensus is unclear, the proposal should not advance.
+2. **Temperature check on Snapshot.** Token holders sign a gasless vote. Snapshot is off-chain and gasless by design, as described at docs.snapshot.box and in its GitHub docs. Votes are signed messages verified at a snapshot block, so live balances can differ from tallies. Uniswap requires 10M UNI voting for to advance and the poll lasts 5 days.
+3. **Binding on-chain vote.** If the check passes, the proposal moves to the governance contract. Many DAOs use a Compound Bravo style Governor. Uniswap's current parameters, updated after a December 2023 proposal to lower the threshold, require 1M UNI delegated to submit and 40M UNI voting for to pass. Voting follows a 2-day delay before voting starts, a 7-day voting period, and a 2-day timelock after it passes before anyone can execute. You can verify the exact quorum and threshold in the GovernorAlpha contract on GitHub (quorumVotes = 40M, proposalThreshold = 1M after the update).
+4. **Execution via Safe or timelock.** Passed proposals are queued. A Safe multisig or timelock contract then executes the transfer. You can verify the payout on Etherscan and on the DAO's Dune dashboard.
 
 For small bounties, many DAOs skip the full vote. A working group with a quarterly budget approved by the DAO pays from its own Safe within a written policy. That is faster but requires trust in the signers. Dework's own docs note that payouts depend on the DAO's governance, not on the platform.
 
@@ -119,7 +111,7 @@ The most reliable check is direct. Open the DAO's Safe address on Etherscan or t
 
 This work has real benefits and real limits. Weigh both before you start.**What this path does well:**
 
-- **-** Open entry.
+- Open entry.
 
 **You can contribute without an interview by posting work that is useful. Forum summaries, support answers, and small fixes are often valued more than a resume.
 - **Global and remote.
@@ -132,7 +124,7 @@ This work has real benefits and real limits. Weigh both before you start.**What 
 
 **As of mid-2026, DAOTimes' guide to creating a DAO lists: Snapshot is free and gasless and takes about 30 minutes, Realms on Solana costs cents, DAOhaus and Aragon typically cost $30 to $200 in gas on an L2 or mainnet depending on congestion and take 1 to 2 hours, and custom Governor contracts cost $20,000 to $100,000+ and take 2 to 6 months. That makes it cheap to experiment with a community-run treasury, but audits ($15,000 to $50,000) and a legal wrapper ($250 to $25,000) are extra if you hold real funds.** Where it struggles:**
 
-- **-** Irregular pay and token volatility.
+- Irregular pay and token volatility.
 
 **Bounty income varies month to month. If you are paid in a DAO token, that token can fall sharply between assignment and payout. Consider asking for a stablecoin base and converting a portion promptly.
 - **Voter apathy and concentration.

@@ -52,21 +52,13 @@ The demand for Web3 professionals with expertise in finance and crypto is except
 
 ### Steps to Secure a Web3 Job in Hong Kong
 
-1.
+1. **Finance or Compliance Background:** Experience in banking, asset management, or other financial institutions offers a significant edge. Understanding traditional financial products and regulatory frameworks directly applies to the Web3 sector.
 
-**Finance or Compliance Background:** Experience in banking, asset management, or other financial institutions offers a significant edge. Understanding traditional financial products and regulatory frameworks directly applies to the Web3 sector.
+2. **Language Skills:** While English predominates in business communication, fluency in Mandarin or Cantonese can be valuable, especially in roles that interact with regional clients or partners.
 
-2.
+3. **Networking at Industry Events:** The Hong Kong Web3 community is active and event-driven. Participating in gatherings like the Hong Kong Web3 Festival, WOW Summit, and local meetups is essential for expanding your professional network and discovering job opportunities.
 
-**Language Skills:** While English predominates in business communication, fluency in Mandarin or Cantonese can be valuable, especially in roles that interact with regional clients or partners.
-
-3.
-
-**Networking at Industry Events:** The Hong Kong Web3 community is active and event-driven. Participating in gatherings like the Hong Kong Web3 Festival, WOW Summit, and local meetups is essential for expanding your professional network and discovering job opportunities.
-
-4.
-
-**Understanding the Regulatory Framework:** Familiarize yourself with the SFC's framework for Virtual Asset Service Providers (VASPs). Demonstrating knowledge in this area shows commitment and professionalism, which can differentiate you from other candidates.
+4. **Understanding the Regulatory Framework:** Familiarize yourself with the SFC's framework for Virtual Asset Service Providers (VASPs). Demonstrating knowledge in this area shows commitment and professionalism, which can differentiate you from other candidates.
 
 ### Finding Your Hong Kong Web3 Job
 

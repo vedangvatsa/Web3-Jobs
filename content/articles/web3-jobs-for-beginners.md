@@ -23,7 +23,9 @@ Understanding Web3 culture and fundamental concepts is essential before pursuing
 - [What is Web3?](/what-is-web3)
 - [What are Smart Contracts?](/what-are-smart-contracts)
 - [What are NFTs?](/what-are-nfts)
-- [What is DeFi?](/what-is-defi) **2. Curate Your Information Sources:** Engagement in Web3 occurs primarily on platforms like Twitter (X) and through podcasts.
+- [What is DeFi?](/what-is-defi)
+
+**2. Curate Your Information Sources:** Engagement in Web3 occurs primarily on platforms like Twitter (X) and through podcasts.
 - **Twitter:** Set up a Twitter account focused on Web3. Follow influential builders, investors, and projects to absorb insights and trends.
 - **Podcasts:** Tune into informative podcasts such as *Bankless*, *The Defiant*, and *Unchained*. These sources deliver a wealth of information, keeping you informed about current developments and discussions in the industry.
 
@@ -50,15 +52,9 @@ Creating public, verifiable evidence of your skills is essential.
 
 [DAOs (Decentralized Autonomous Organizations)](/what-is-a-dao) represent community-driven entities and offer an excellent avenue for beginners to gain practical experience.
 
-1.
-
-**Identify a [DAO](/what-is-a-dao):** Search for a DAO aligned with your interests. For instance, if you are a writer, you might consider joining BanklessDAO.
-2.
-
-**Join a Guild:** DAOs often have specialized working groups or "guilds" for various functions such as Marketing, Writing, or Treasury. Choose one that corresponds with the skills you wish to develop.
-3.
-
-**Complete a Bounty:** Many DAOs provide small, paid tasks known as bounties. These tasks can range from writing articles to designing graphics or testing features. Successfully completing a bounty will give you your first professional Web3 experience, providing a tangible signal of your capabilities to future employers.
+1. **Identify a [DAO](/what-is-a-dao):** Search for a DAO aligned with your interests. For instance, if you are a writer, you might consider joining BanklessDAO.
+2. **Join a Guild:** DAOs often have specialized working groups or "guilds" for various functions such as Marketing, Writing, or Treasury. Choose one that corresponds with the skills you wish to develop.
+3. **Complete a Bounty:** Many DAOs provide small, paid tasks known as bounties. These tasks can range from writing articles to designing graphics or testing features. Successfully completing a bounty will give you your first professional Web3 experience, providing a tangible signal of your capabilities to future employers.
 
 ### Step 4: Transition from Contribution to Career
 

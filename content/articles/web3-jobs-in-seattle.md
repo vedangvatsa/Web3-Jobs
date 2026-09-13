@@ -66,21 +66,13 @@ Seattle's competitive job market for technical talent offers salaries comparable
 
 Building a career in Web3 requires strategic positioning and skill development.
 
-1.
+1. **Capitalize on Existing Experience**: Use your background in cloud computing or gaming. Experience as a backend engineer at AWS or Azure, or as a game developer at a recognized studio, positions you well in the job market. Tailor your [resume](/how-to-build-a-web3-resume-that-stands-out) to emphasize work on scalable systems or game economies.
 
-**Capitalize on Existing Experience**: Use your background in cloud computing or gaming. Experience as a backend engineer at AWS or Azure, or as a game developer at a recognized studio, positions you well in the job market. Tailor your [resume](/how-to-build-a-web3-resume-that-stands-out) to emphasize work on scalable systems or game economies.
+2. **Focus on Infrastructure**: Seattle excels in developing the foundational elements of Web3. Concentrate your learning and [portfolio](/building-web3-portfolio) on infrastructure challenges, such as building an indexer, relayer, or Layer 2 tools.
 
-2.
+3. **Engage with Local Meetups**: The Seattle Web3 community is active but somewhat fragmented. Attend events like the Seattle [Ethereum](/what-is-ethereum) Meetup to network with developers and enhance your visibility in the community.
 
-**Focus on Infrastructure**: Seattle excels in developing the foundational elements of Web3. Concentrate your learning and [portfolio](/building-web3-portfolio) on infrastructure challenges, such as building an indexer, relayer, or Layer 2 tools.
-
-3.
-
-**Engage with Local Meetups**: The Seattle Web3 community is active but somewhat fragmented. Attend events like the Seattle [Ethereum](/what-is-ethereum) Meetup to network with developers and enhance your visibility in the community.
-
-4.
-
-**Develop a strong Technical Portfolio**: High-quality, well-documented projects are important in Seattle's engineering culture. For backend roles, prioritize infrastructure projects over basic decentralized application (dApp) frontends.
+4. **Develop a strong Technical Portfolio**: High-quality, well-documented projects are important in Seattle's engineering culture. For backend roles, prioritize infrastructure projects over basic decentralized application (dApp) frontends.
 
 ### Finding a Web3 Job in Seattle
 

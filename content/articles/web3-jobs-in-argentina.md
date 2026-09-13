@@ -45,24 +45,16 @@ The job market for Argentinian talent operates on a global scale. Although local
 
 ### Steps to Secure a Web3 Job in Argentina
 
-1.
+1. **Develop an Impressive Technical [Portfolio](/building-web3-portfolio):** The Argentinian tech community is known for its engineering excellence. To stand out, your GitHub portfolio must showcase quality work. Engage in open-source projects (such as OpenZeppelin), participate in security competitions (like Code4rena), and create complex personal projects.
 
-**Develop an Impressive Technical [Portfolio](/building-web3-portfolio):** The Argentinian tech community is known for its engineering excellence. To stand out, your GitHub portfolio must showcase quality work. Engage in open-source projects (such as OpenZeppelin), participate in security competitions (like Code4rena), and create complex personal projects.
+2. **Understand DeFi Thoroughly:** Given the local economic climate, employers value candidates with a solid grasp of DeFi, stablecoins, and economic security. Demonstrate your understanding of why this technology is critical for regions like Latin America.
 
-2.
+3. **Engage with the Buenos Aires Tech Community:**
 
-**Understand DeFi Thoroughly:** Given the local economic climate, employers value candidates with a solid grasp of DeFi, stablecoins, and economic security. Demonstrate your understanding of why this technology is critical for regions like Latin America.
-
-3.
-
-**Engage with the Buenos Aires Tech Community:**
-
-- **-** Attend Meetups:**Participate in frequent developer and community gatherings in Buenos Aires.
+- Attend Meetups:**Participate in frequent developer and community gatherings in Buenos Aires.
  - **Join Major Conferences:** Engage in events like ETHLatam and other significant regional conferences. The local network is tight-knit, making personal connections essential.
 
-4.
-
-**Target Remote-First Global Companies:** Many of the best opportunities for Argentinian talent arise from international, remote-first companies eager to hire top talent. Position yourself as a top-tier engineer ready to compete globally. Fluency in English is a requirement for these roles.
+4. **Target Remote-First Global Companies:** Many of the best opportunities for Argentinian talent arise from international, remote-first companies eager to hire top talent. Position yourself as a top-tier engineer ready to compete globally. Fluency in English is a requirement for these roles.
 
 ### Discover Job Opportunities in Argentina's Web3 Sector
 

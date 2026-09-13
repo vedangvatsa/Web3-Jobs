@@ -24,15 +24,21 @@ Web3 culture is distinct and combines open-source collaboration, intense competi
 
 **The Web3 space evolves rapidly, with technologies, narratives, and key players shifting within months. A successful career here demands continuous, self-directed learning.
 - **Good fit:** You read whitepapers, listen to technical podcasts, and explore new dApps out of curiosity.
-- **Struggle:** You prefer stable environments where you master a single toolset over years.**2. You thrive in chaos and uncertainty.
+- **Struggle:** You prefer stable environments where you master a single toolset over years.
+
+**2. You thrive in chaos and uncertainty.
 
 **Web3 is a frontier marked by shifting roadmaps, protocol vulnerabilities, and market volatility. There is no established playbook.
 - **Good fit:** You excel as a self-starter in unstructured environments, creating clarity amid chaos.
-- **Struggle:** You require a defined job description, clear managerial guidance, and a predictable routine.**3. You communicate effectively in writing.
+- **Struggle:** You require a defined job description, clear managerial guidance, and a predictable routine.
+
+**3. You communicate effectively in writing.
 
 **Most Web3 organizations operate remotely and use asynchronous, written communication on platforms like Discord, Slack, and Notion.
 - **Good fit:** You articulate complex ideas clearly and concisely in writing.
-- **Struggle:** You prefer in-person meetings and verbal communication to accomplish tasks.**4. You believe in the mission.
+- **Struggle:** You prefer in-person meetings and verbal communication to accomplish tasks.
+
+**4. You believe in the mission.
 
 **Successful careers in Web3 often belong to those who are passionate about decentralization and its potential for a more open internet.
 - **Good fit:** You are excited by concepts such as self-sovereignty, permissionless innovation, and user-owned data.
@@ -65,12 +71,8 @@ The most effective way to determine if a Web3 career is suitable for you is to e
 **Action Plan:** 1.
 
 **Immerse Yourself:** Dedicate 30 days to learning without distractions. Listen to podcasts like Bankless and The Defiant during commutes. Follow influential Web3 thinkers on Twitter. Participate in the Discord of a project that interests you.
-2.
-
-**Become a User:** Acquire a [wallet](/how-to-choose-a-crypto-wallet), purchase some [ETH](/what-is-ethereum), engage with a [DeFi](/what-is-defi) protocol, and buy an [NFT](/what-are-nfts). Understanding the user experience is vital.
-3.
-
-**Make a Public Contribution:** This step is important. You don't need permission to contribute.
+2. **Become a User:** Acquire a [wallet](/how-to-choose-a-crypto-wallet), purchase some [ETH](/what-is-ethereum), engage with a [DeFi](/what-is-defi) protocol, and buy an [NFT](/what-are-nfts). Understanding the user experience is vital.
+3. **Make a Public Contribution:** This step is important. You don't need permission to contribute.
  - Identify a typo in a project's documentation and submit a correction on [GitHub](/building-web3-portfolio).
  - Write a blog post discussing a complex topic you recently learned.
  - Attend a community call, take detailed notes, and share them in the Discord.

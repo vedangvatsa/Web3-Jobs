@@ -41,13 +41,13 @@ In a competitive job market, generalists often struggle. To command a high salar
 
 **For Developers:**
 
-- **-** Smart Contract Security:**This specialization is among the most lucrative. Go beyond basic contract writing; learn to identify vulnerabilities. Study past hacks, participate in audit contests such as those on Code4rena, and master security tools.
+- Smart Contract Security:**This specialization is among the most lucrative. Go beyond basic contract writing; learn to identify vulnerabilities. Study past hacks, participate in audit contests such as those on Code4rena, and master security tools.
 - **Protocol Engineering (L1/L2):** Work directly on blockchain technology. This role requires proficiency in systems programming languages such as Rust or Go, along with a solid understanding of distributed systems.
 - **Zero-Knowledge (ZK) Proofs:** This advanced cryptographic technique enhances scalability and privacy. It commands high salaries due to its complexity and rarity.
 
 **For Non-Technical Professionals:**
 
-- **-** Tokenomics Design:**Combine economics, game theory, and strategy to create economic models for protocols.
+- Tokenomics Design:**Combine economics, game theory, and strategy to create economic models for protocols.
 - **[DAO](/what-is-a-dao) Governance Facilitation:** Specialize in decentralized governance to help DAOs operate efficiently and make sound decisions.
 - **On-Chain Data Analysis:** Develop skills in querying and analyzing on-chain data. Proficiency in tools like Dune Analytics can distinguish you as an expert in data-driven insights.
 

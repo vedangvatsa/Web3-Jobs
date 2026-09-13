@@ -38,21 +38,13 @@ To effectively manage the complexities of Web3, regulatory experts must master v
 
 ### Pathway to Becoming a Regulatory Expert
 
-1.
+1. **Acquire a Strong Foundation:** A background in law or financial compliance is often essential. Certifications, such as the Certified Anti-Money Laundering Specialist (CAMS), can enhance credibility in the field.
 
-**Acquire a Strong Foundation:** A background in law or financial compliance is often essential. Certifications, such as the Certified Anti-Money Laundering Specialist (CAMS), can enhance credibility in the field.
+2. **Immerse in Blockchain Technology:** Engage with the technology directly. Practical experience using various blockchain protocols is vital for advising on potential risks associated with [DeFi](/what-is-defi) platforms.
 
-2.
+3. **Establish a Public Presence:** The regulatory environment evolves rapidly. Create a blog, newsletter, or podcast to analyze and comment on recent developments. This public engagement serves as a powerful [portfolio](/building-web3-portfolio).
 
-**Immerse in Blockchain Technology:** Engage with the technology directly. Practical experience using various blockchain protocols is vital for advising on potential risks associated with [DeFi](/what-is-defi) platforms.
-
-3.
-
-**Establish a Public Presence:** The regulatory environment evolves rapidly. Create a blog, newsletter, or podcast to analyze and comment on recent developments. This public engagement serves as a powerful [portfolio](/building-web3-portfolio).
-
-4.
-
-**Network with Industry Leaders:** Building relationships with founders and legal teams is important for identifying job opportunities. Actively participate in Discord communities and governance discussions focusing on risk and compliance.
+4. **Network with Industry Leaders:** Building relationships with founders and legal teams is important for identifying job opportunities. Actively participate in Discord communities and governance discussions focusing on risk and compliance.
 
 For individuals passionate about law, policy, and technology, a career as a Web3 regulatory expert provides an opportunity to contribute to critical discussions about balancing innovation and the necessity for a secure financial system.
 

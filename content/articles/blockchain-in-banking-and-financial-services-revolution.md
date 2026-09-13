@@ -19,15 +19,9 @@ Many view [blockchain](/what-is-a-blockchain) as a challenge to traditional bank
 Identifying the shortcomings of the current financial system helps clarify blockchain's role in addressing these issues.
 
 1. **Inefficient Cross-Border Payments:** The existing framework for international payments relies heavily on correspondent banking and messaging systems like SWIFT. This process can take several business days, often resulting in high fees.
-2.
-
-**Fragmented and Non-Transparent Systems:** Financial institutions maintain private ledgers that lack interoperability. This fragmentation complicates processes such as trade finance and syndicated loans, often necessitating manual reconciliations and increasing the potential for errors.
-3.
-
-**Exclusion from Financial Services:** A significant number of adults globally remain unbanked, lacking access to basic financial services such as savings accounts and credit.
-4.
-
-**Counterparty Risk:** Transactions often depend on mutual trust among parties or reliance on a central intermediary, heightening the risk of counterparty failures and adding costs.
+2. **Fragmented and Non-Transparent Systems:** Financial institutions maintain private ledgers that lack interoperability. This fragmentation complicates processes such as trade finance and syndicated loans, often necessitating manual reconciliations and increasing the potential for errors.
+3. **Exclusion from Financial Services:** A significant number of adults globally remain unbanked, lacking access to basic financial services such as savings accounts and credit.
+4. **Counterparty Risk:** Transactions often depend on mutual trust among parties or reliance on a central intermediary, heightening the risk of counterparty failures and adding costs.
 
 ### Blockchain's Role in Banking Transformation
 
@@ -51,7 +45,7 @@ Tokenization refers to the creation of digital tokens on a blockchain that repre
 - **Solution:** Financial institutions are exploring the tokenization of various assets, including stocks, bonds, and real estate.
 - **Impact:**
 
-- **-** Fractional Ownership:**Tokenization allows multiple investors to own fractions of traditionally illiquid assets, broadening access to investment opportunities.
+- Fractional Ownership:**Tokenization allows multiple investors to own fractions of traditionally illiquid assets, broadening access to investment opportunities.
  - **Enhanced Liquidity:** These tokenized assets can be traded continuously on blockchain marketplaces, enabling ongoing trading opportunities.
  - **Atomic Settlement:** Transactions can be settled instantly as a single, indivisible event, eliminating counterparty risk and ensuring the simultaneous exchange of assets and payments.
 

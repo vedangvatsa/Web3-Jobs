@@ -68,26 +68,18 @@ The job market in Los Angeles is particularly strong for roles in creative indus
 
 A successful career in Web3 requires strategic planning and execution. Here are key steps to consider:
 
-1.
+1. **Use a Creative or Entertainment Background**: Experience in film, music, art, or gaming can significantly enhance your marketability in LA. You possess an understanding of culture, storytelling, and community engagement. Frame your interest in Web3 to emphasize how it can help creators and their audiences.
 
-**Use a Creative or Entertainment Background**: Experience in film, music, art, or gaming can significantly enhance your marketability in LA. You possess an understanding of culture, storytelling, and community engagement. Frame your interest in Web3 to emphasize how it can help creators and their audiences.
-
-2.
-
-**Engage with the NFT Community**: Active participation is essential.
+2. **Engage with the NFT Community**: Active participation is essential.
  - **Collect NFTs**: Build a collection that demonstrates your taste and market understanding.
  - **Join Collector [DAOs](/what-is-a-dao)**: Engage with communities of collectors to gain insights and network.
  - **Attend Gallery Openings**: The local scene includes many NFT art galleries and events, providing opportunities for networking and learning.
 
-3.
-
-**Create a "Creator" [Portfolio](/building-web3-portfolio)**: Showcase your skills and interests creatively.
+3. **Create a "Creator" [Portfolio](/building-web3-portfolio)**: Showcase your skills and interests creatively.
  - **For Marketers/Community Managers**: Start a podcast or Twitter Spaces show interviewing NFT artists. Develop a content series about an emerging project.
  - **For Designers/Artists**: Mint your own small NFT collection to demonstrate your understanding of the creation and launch process.
 
-4.
-
-**Network Across Tech and Culture**: LA's scene is inherently social. Attend events that connect crypto, art, fashion, and music. Many valuable connections occur at gallery openings, exclusive dinners, and industry gatherings.
+4. **Network Across Tech and Culture**: LA's scene is inherently social. Attend events that connect crypto, art, fashion, and music. Many valuable connections occur at gallery openings, exclusive dinners, and industry gatherings.
 
 ### Securing a Web3 Job in Los Angeles
 

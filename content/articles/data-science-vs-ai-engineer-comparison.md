@@ -82,5 +82,7 @@ Both roles have excellent job security. However, you could argue that AI enginee
 
 #### 4. What's the best way to get started?
 
-For data science, start by learning Python and its core data science libraries. Work on projects using real-world datasets from platforms like Kaggle to build your portfolio. For AI engineering, focus on strengthening your software engineering fundamentals and then specialize by learning about cloud platforms and MLOps tools. Building an end-to-end project where you train a model, build an API, and deploy it is a great way to learn.**5. Do AI engineers also need to know machine learning theory?**
+For data science, start by learning Python and its core data science libraries. Work on projects using real-world datasets from platforms like Kaggle to build your portfolio. For AI engineering, focus on strengthening your software engineering fundamentals and then specialize by learning about cloud platforms and MLOps tools. Building an end-to-end project where you train a model, build an API, and deploy it is a great way to learn.
+
+**5. Do AI engineers also need to know machine learning theory?**
 Yes, but not to the same depth as a data scientist. An AI engineer needs to understand how models work well enough to deploy and monitor them effectively. They need to know what a model's inputs and outputs are, and how to evaluate its performance, but they don't necessarily need to be able to invent a new algorithm from scratch.

@@ -99,6 +99,8 @@ The legal framework is still developing. Generally, if you use AI tools for clie
 
 #### 3. Will AI eliminate jobs?
 
-AI will undoubtedly alter job roles, similar to the impact of computers and the internet. It will automate certain tasks while simultaneously creating new roles and opportunities. The focus should be on developing skills that AI cannot easily replicate, such as strategic thinking, emotional intelligence, and complex problem-solving. Learning to use AI as a tool will enhance your value in the job market.**4. How can I stay informed about new AI tools?**
+AI will undoubtedly alter job roles, similar to the impact of computers and the internet. It will automate certain tasks while simultaneously creating new roles and opportunities. The focus should be on developing skills that AI cannot easily replicate, such as strategic thinking, emotional intelligence, and complex problem-solving. Learning to use AI as a tool will enhance your value in the job market.
+
+**4. How can I stay informed about new AI tools?**
 
 Keeping up with AI advancements can be overwhelming. A practical approach is to concentrate on one area of interest (e.g., AI writing tools) and immerse yourself in it. Follow influential figures in that field on social media, subscribe to high-quality AI newsletters, and dedicate time each week to explore a new tool. Aim for depth rather than breadth in your knowledge.

@@ -30,13 +30,9 @@ Litecoin was never intended to be a platform for [smart contracts](/what-are-sma
 
 1. **Maturity and Ossification:** Like Bitcoin, Litecoin is a mature protocol. Its core design is considered complete. Major changes are rare, carefully considered, and only implemented after extensive testing and community consensus. For a protocol that secures significant value, stability and predictability are essential. Constant, rapid updates would introduce risk and be seen as a negative, not a positive.
 
-2.
+2. **Focus on the Core Protocol:** Litecoin's development is focused on its core client, Litecoin Core. This is a deliberate and focused effort, unlike ecosystems like Ethereum where "developer activity" encompasses thousands of independent dApp developers building on top of the platform. Comparing Litecoin's core protocol commits to the entire Ethereum ecosystem's commits is an apples-to-oranges comparison.
 
-**Focus on the Core Protocol:** Litecoin's development is focused on its core client, Litecoin Core. This is a deliberate and focused effort, unlike ecosystems like Ethereum where "developer activity" encompasses thousands of independent dApp developers building on top of the platform. Comparing Litecoin's core protocol commits to the entire Ethereum ecosystem's commits is an apples-to-oranges comparison.
-
-3.
-
-**The Role of the Litecoin Foundation:** The Litecoin Foundation is a non-profit organization that supports the development and adoption of Litecoin. While it funds key developers, it does not centrally command the project. Development is decentralized, with contributions coming from a small but dedicated group of core developers who have been involved for years.
+3. **The Role of the Litecoin Foundation:** The Litecoin Foundation is a non-profit organization that supports the development and adoption of Litecoin. While it funds key developers, it does not centrally command the project. Development is decentralized, with contributions coming from a small but dedicated group of core developers who have been involved for years.
 
 ### Notable Developments and the MWEB Upgrade
 

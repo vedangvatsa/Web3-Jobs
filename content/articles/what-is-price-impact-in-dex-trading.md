@@ -95,18 +95,10 @@ To manage price impact, traders can adjust their trade size, while slippage risk
 
 ### Strategies for Managing Price Impact
 
-1.
-
-**Review DEX Interface**: Major DEXs display price impact warnings before confirming a trade. If the impact exceeds 1%, reconsider proceeding with the transaction.
-2.
-
-**Prioritize High-Liquidity Pools**: Seek out pools with deep liquidity for your asset pair. Larger pools can absorb substantial trades with minimal price impact.
-3.
-
-**Use DEX Aggregators**: Platforms like 1inch or Matcha serve as DEX aggregators, automatically distributing large trades across multiple liquidity pools to minimize overall price impact.
-4.
-
-**Manually Split Trades**: In the absence of an aggregator, consider breaking large trades into smaller portions. Executing five trades of smaller amounts will incur less total price impact than a single large trade.
+1. **Review DEX Interface**: Major DEXs display price impact warnings before confirming a trade. If the impact exceeds 1%, reconsider proceeding with the transaction.
+2. **Prioritize High-Liquidity Pools**: Seek out pools with deep liquidity for your asset pair. Larger pools can absorb substantial trades with minimal price impact.
+3. **Use DEX Aggregators**: Platforms like 1inch or Matcha serve as DEX aggregators, automatically distributing large trades across multiple liquidity pools to minimize overall price impact.
+4. **Manually Split Trades**: In the absence of an aggregator, consider breaking large trades into smaller portions. Executing five trades of smaller amounts will incur less total price impact than a single large trade.
 
 ### Frequently Asked Questions (FAQ)
 
@@ -127,22 +119,12 @@ No, price impact is inherently negative. A significant buy order increases the p
 
 ### Practical Steps for Improvement
 
-1.
+1. **Solidify Core Concepts**: Start by building a strong foundation in AMM mechanics and trade execution principles. Familiarize yourself with best practices from industry experts.
 
-**Solidify Core Concepts**: Start by building a strong foundation in AMM mechanics and trade execution principles. Familiarize yourself with best practices from industry experts.
+2. **Evaluate Your Current Trading Strategies**: Assess your current trading habits. Identify strengths and weaknesses to determine areas for improvement.
 
-2.
+3. **Develop a Tailored Trading Strategy**: Create a personalized trading plan that aligns with your objectives and market conditions. Adjust your approach based on your unique trading style and risk tolerance.
 
-**Evaluate Your Current Trading Strategies**: Assess your current trading habits. Identify strengths and weaknesses to determine areas for improvement.
+4. **Implement Changes Gradually**: Avoid overwhelming yourself with simultaneous changes. Focus on small, incremental improvements, tracking outcomes to refine your strategy.
 
-3.
-
-**Develop a Tailored Trading Strategy**: Create a personalized trading plan that aligns with your objectives and market conditions. Adjust your approach based on your unique trading style and risk tolerance.
-
-4.
-
-**Implement Changes Gradually**: Avoid overwhelming yourself with simultaneous changes. Focus on small, incremental improvements, tracking outcomes to refine your strategy.
-
-5.
-
-**Continuously Monitor and Adapt**: Regularly evaluate your trading performance. Use feedback to make necessary adjustments, building a mindset geared toward continuous improvement.
+5. **Continuously Monitor and Adapt**: Regularly evaluate your trading performance. Use feedback to make necessary adjustments, building a mindset geared toward continuous improvement.

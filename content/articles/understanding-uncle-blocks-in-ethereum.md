@@ -61,15 +61,9 @@ Ethereum's PoW algorithm incorporated a variant of the GHOST protocol (Greediest
 
 Here's how it functioned:
 
-1.
-
-**Creating an Uncle**: When a miner's block becomes orphaned, it can be classified as an Uncle.
-2.
-
-**Inclusion Window**: A canonical block could reference stale blocks as Uncles if they were within a specified "ancestry" of the main chain, generally within the last six blocks. Each block could reference a maximum of two Uncles.
-3.
-
-**Rewarding Miners**:
+1. **Creating an Uncle**: When a miner's block becomes orphaned, it can be classified as an Uncle.
+2. **Inclusion Window**: A canonical block could reference stale blocks as Uncles if they were within a specified "ancestry" of the main chain, generally within the last six blocks. Each block could reference a maximum of two Uncles.
+3. **Rewarding Miners**:
  - **The Uncle's Miner**: The miner of the Uncle block received a partial block reward to encourage ongoing participation.
  - **Including Miner**: The miner who included the Uncle in their canonical block received a small bonus reward. This incentivized miners to actively seek out and include valid stale blocks.
 

@@ -19,21 +19,13 @@ The foundation of AI art generators lies in a process known as diffusion. This t
 
 1. **Training the Model**: The AI undergoes training on a vast dataset of images paired with text descriptions. It learns to associate words with specific visual characteristics. For instance, it understands what a "dog" or "forest" looks like and recognizes various artistic styles, including "impressionism" and "cyberpunk."
 
-2.
+2. **Generating Noise**: The process begins with a random noise field, reminiscent of the static seen on an old television.
 
-**Generating Noise**: The process begins with a random noise field, reminiscent of the static seen on an old television.
+3. **Providing Guidance**: You input a text prompt, such as "a majestic lion wearing a crown in the style of a renaissance oil painting."
 
-3.
+4. **De-noising Process**: The AI uses your prompt to gradually eliminate the noise, refining the image step-by-step. Each iteration aims to align more closely with your description.
 
-**Providing Guidance**: You input a text prompt, such as "a majestic lion wearing a crown in the style of a renaissance oil painting."
-
-4.
-
-**De-noising Process**: The AI uses your prompt to gradually eliminate the noise, refining the image step-by-step. Each iteration aims to align more closely with your description.
-
-5.
-
-**Final Image**: After several iterations, the noise is completely removed, resulting in a new image shaped by the AI's understanding of your prompt.
+5. **Final Image**: After several iterations, the noise is completely removed, resulting in a new image shaped by the AI's understanding of your prompt.
 
 This method does not involve copying existing images; instead, it creates entirely new visuals based on learned patterns.
 
@@ -43,7 +35,7 @@ While many AI art tools exist, this guide will focus on Midjourney. This platfor
 
 **Advantages of Midjourney:**
 
-- **-** High Quality**: Midjourney consistently produces visually striking, high-resolution images.
+- High Quality**: Midjourney consistently produces visually striking, high-resolution images.
 - **User-Friendly**: Despite its advanced features, the basic operation is straightforward.
 - **Community Engagement**: The platform operates via Discord, enabling users to witness real-time creations and draw inspiration from others.
 
@@ -91,21 +83,13 @@ Writing a basic prompt is just the beginning. Crafting detailed and imaginative 
 
 **Subject**: Specify the primary focus. Instead of "a car," use "a vintage 1960s convertible sports car."
 
-2.
+2. **Action or Setting**: Describe what the subject is doing and its environment. For example, "A vintage 1960s convertible sports car driving on a winding coastal road at sunset."
 
-**Action or Setting**: Describe what the subject is doing and its environment. For example, "A vintage 1960s convertible sports car driving on a winding coastal road at sunset."
+3. **Style and Medium**: Define how you want the image to appear. Indicate whether it should resemble a photograph, painting, or another medium. For instance, "in the style of a 35mm film photograph, golden hour lighting."
 
-3.
+4. **Artist and Aesthetic**: Reference particular artists or art movements. You could say, "art by Studio Ghibli, whimsical and detailed," or "in the style of cyberpunk, neon lights, rainy city."
 
-**Style and Medium**: Define how you want the image to appear. Indicate whether it should resemble a photograph, painting, or another medium. For instance, "in the style of a 35mm film photograph, golden hour lighting."
-
-4.
-
-**Artist and Aesthetic**: Reference particular artists or art movements. You could say, "art by Studio Ghibli, whimsical and detailed," or "in the style of cyberpunk, neon lights, rainy city."
-
-5.
-
-**Technical Parameters (Optional)**: You can append parameters to control aspects like the aspect ratio. For example, adding `--ar 16:9` creates a widescreen image.
+5. **Technical Parameters (Optional)**: You can append parameters to control aspects like the aspect ratio. For example, adding `--ar 16:9` creates a widescreen image.
 
 **Example Comparisons of Prompts:**| Prompt Type | Example Prompt | Outcome |
 |
@@ -140,7 +124,9 @@ Ownership varies based on the terms of service of the respective tool. For Midjo
 
 #### 2. Can I sell the art I make?
 
-Yes, many artists successfully sell their AI-generated art as prints or digital downloads. Developing a distinctive style and curating your work to a high standard is essential. Simply selling random images is not advisable; a clear vision enhances marketability.**3. What are some other AI art tools besides Midjourney?**| Tool | Description |
+Yes, many artists successfully sell their AI-generated art as prints or digital downloads. Developing a distinctive style and curating your work to a high standard is essential. Simply selling random images is not advisable; a clear vision enhances marketability.
+
+**3. What are some other AI art tools besides Midjourney?**| Tool | Description |
 |
 
 -------------------|

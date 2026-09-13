@@ -55,18 +55,10 @@ Once your list is complete, analyze each stakeholder to gauge their level of inf
 
 The grid categorizes stakeholders into four quadrants:
 
-1.
-
-**High Power, High Interest (Manage Closely):** Key players with significant influence and high interest in the project's outcome. Engage fully with this group. Your project sponsor and key executives typically fall into this category.
-2.
-
-**High Power, Low Interest (Keep Satisfied):** Stakeholders with substantial influence but minimal interest in day-to-day project details. Keep them satisfied without overwhelming them with information. A CEO is an example; they only need to know if the project aligns with strategic goals.
-3.
-
-**Low Power, High Interest (Keep Informed):** This group has little power to influence the project but is very interested in its outcomes, such as end-users. Keep them informed and ensure their needs are considered.
-4.
-
-**Low Power, Low Interest (Monitor):** Stakeholders with minimal influence and interest. Monitor them with minimal effort, as their status may change.
+1. **High Power, High Interest (Manage Closely):** Key players with significant influence and high interest in the project's outcome. Engage fully with this group. Your project sponsor and key executives typically fall into this category.
+2. **High Power, Low Interest (Keep Satisfied):** Stakeholders with substantial influence but minimal interest in day-to-day project details. Keep them satisfied without overwhelming them with information. A CEO is an example; they only need to know if the project aligns with strategic goals.
+3. **Low Power, High Interest (Keep Informed):** This group has little power to influence the project but is very interested in its outcomes, such as end-users. Keep them informed and ensure their needs are considered.
+4. **Low Power, Low Interest (Monitor):** Stakeholders with minimal influence and interest. Monitor them with minimal effort, as their status may change.
 
 For each stakeholder, assess their current attitude (e.g., supporter, neutral, detractor) and desired engagement level.
 

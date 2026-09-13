@@ -58,9 +58,7 @@ Attention from executives is limited. Therefore, structure your presentation to 
 
 ### The Executive-Friendly Structure
 
-1.
-
-**The Recommendation (1 Minute):** Start with your conclusion. Clearly state your core recommendation and its expected business outcome.
+1. **The Recommendation (1 Minute):** Start with your conclusion. Clearly state your core recommendation and its expected business outcome.
  - *Example: "I recommend investing in developing a self-service onboarding flow, which we project will reduce support ticket volume significantly and increase new user activation within six months."*
 
 2. **The Business Case & Alignment (3-5 Minutes):** Describe the problem you aim to solve and how your solution aligns with the company's strategic objectives. Support your claims with data.

@@ -31,21 +31,13 @@ Several defining features differentiate Web3 academies from traditional educatio
 
 1. **Practical, Job-Focused Curriculum:** Academies collaborate closely with industry leaders to develop curricula that reflect the skills Web3 companies actively seek. The emphasis is on tangible applications rather than theoretical concepts. Students engage in real projects, contribute to open-source protocols, and build a [portfolio](/building-web3-portfolio) that showcases their capabilities.
 
-2.
+2. **Instructors from the Industry:** Courses are typically taught by seasoned developers, auditors, and founders who are actively involved in the Web3 space. This practical experience ensures that course content remains relevant and infused with insights from the field.
 
-**Instructors from the Industry:** Courses are typically taught by seasoned developers, auditors, and founders who are actively involved in the Web3 space. This practical experience ensures that course content remains relevant and infused with insights from the field.
+3. **Accelerated Learning:** Web3 academies prioritize speed and intensity. A boot camp may condense years of learning into a few months, enabling students to quickly pivot into new career paths.
 
-3.
+4. **Collaborative Learning Environment:** Students learn in cohort-based settings that reflect the community-driven ethos of Web3. They work on group projects, participate in hackathons, and cultivate a professional network that will support them throughout their careers.
 
-**Accelerated Learning:** Web3 academies prioritize speed and intensity. A boot camp may condense years of learning into a few months, enabling students to quickly pivot into new career paths.
-
-4.
-
-**Collaborative Learning Environment:** Students learn in cohort-based settings that reflect the community-driven ethos of Web3. They work on group projects, participate in hackathons, and cultivate a professional network that will support them throughout their careers.
-
-5.
-
-**Career Development Support:** The primary goal of a Web3 academy is to enable student employment. Leading academies offer dedicated career services, including [resume](/how-to-build-a-web3-resume-that-stands-out) workshops, interview preparation, and connections to hiring partners.
+5. **Career Development Support:** The primary goal of a Web3 academy is to enable student employment. Leading academies offer dedicated career services, including [resume](/how-to-build-a-web3-resume-that-stands-out) workshops, interview preparation, and connections to hiring partners.
 
 ### Examples of Web3 Academy Models
 

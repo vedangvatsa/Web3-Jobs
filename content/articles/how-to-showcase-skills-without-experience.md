@@ -150,25 +150,15 @@ The importance of these skills varies by career level:
 
 ## Common Development Mistakes
 
-1.
+1. **Studying Without Doing** Theory without practice leads to superficial understanding. Focus on building projects instead of accumulating knowledge.
 
-**Studying Without Doing** Theory without practice leads to superficial understanding. Focus on building projects instead of accumulating knowledge.
+2. **Neglecting Soft Skills** While technical proficiency is common, strong soft skills are rare. Prioritize their development.
 
-2.
+3. **Not Seeking Feedback** Improving without feedback is challenging. Regularly seek input from mentors and colleagues.
 
-**Neglecting Soft Skills** While technical proficiency is common, strong soft skills are rare. Prioritize their development.
+4. **Comparing Yourself to Others** Skill development is a personal journey. Concentrate on your own progress.
 
-3.
-
-**Not Seeking Feedback** Improving without feedback is challenging. Regularly seek input from mentors and colleagues.
-
-4.
-
-**Comparing Yourself to Others** Skill development is a personal journey. Concentrate on your own progress.
-
-5.
-
-**Expecting Quick Mastery** Genuine skill development takes time. adopt the journey and enjoy the process.
+5. **Expecting Quick Mastery** Genuine skill development takes time. adopt the journey and enjoy the process.
 
 ## Resources for Continued Learning
 

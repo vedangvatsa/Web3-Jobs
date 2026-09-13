@@ -47,29 +47,19 @@ Understanding this architectural difference is essential for grasping [Web3](/wh
 
 A dApp consists of two main components:
 
-1.
+1. **Smart Contracts (The Backend):** These self-executing programs contain the core logic of the dApp. Deployed on a blockchain, they are immutable, meaning their code cannot be altered once deployed. For example, a **[DeFi](/what-is-defi)** lending dApp would have smart contracts that define interest rates and collateral requirements.
 
-**Smart Contracts (The Backend):** These self-executing programs contain the core logic of the dApp. Deployed on a blockchain, they are immutable, meaning their code cannot be altered once deployed. For example, a **[DeFi](/what-is-defi)** lending dApp would have smart contracts that define interest rates and collateral requirements.
-
-2.
-
-**Frontend (The User Interface):** This is the website or mobile interface that users interact with, typically built with standard web technologies like React or Vue.js. The frontend communicates with the backend smart contracts, enabling users to trigger transactions and read data from the blockchain.
+2. **Frontend (The User Interface):** This is the website or mobile interface that users interact with, typically built with standard web technologies like React or Vue.js. The frontend communicates with the backend smart contracts, enabling users to trigger transactions and read data from the blockchain.
 
 ### Interacting with a dApp
 
 Using a dApp can feel different from traditional applications, primarily due to the absence of conventional login methods. Instead, users rely on a crypto wallet.
 
-1.
+1. **Acquire a Wallet:** Start by obtaining a non-custodial crypto wallet, such as MetaMask. This wallet serves as your digital identity, holding your assets and enabling you to sign transactions that verify ownership of your account.
 
-**Acquire a Wallet:** Start by obtaining a non-custodial crypto wallet, such as MetaMask. This wallet serves as your digital identity, holding your assets and enabling you to sign transactions that verify ownership of your account.
+2. **Connect Your Wallet:** Upon visiting a dApp's website, you'll find a "Connect Wallet" button instead of a typical "Log In" option. Clicking this initiates a connection between your wallet and the dApp.
 
-2.
-
-**Connect Your Wallet:** Upon visiting a dApp's website, you'll find a "Connect Wallet" button instead of a typical "Log In" option. Clicking this initiates a connection between your wallet and the dApp.
-
-3.
-
-**Engage and Sign Transactions:** After connecting, you can access the dApp's features. Any action that alters the blockchain state, such as swapping a [token](/what-is-a-token), purchasing an [NFT](/what-are-nfts), or voting on a proposal, requires signing a transaction in your wallet. This transaction is sent to the blockchain for processing and incurs a "gas fee," which compensates the network's validators.
+3. **Engage and Sign Transactions:** After connecting, you can access the dApp's features. Any action that alters the blockchain state, such as swapping a [token](/what-is-a-token), purchasing an [NFT](/what-are-nfts), or voting on a proposal, requires signing a transaction in your wallet. This transaction is sent to the blockchain for processing and incurs a "gas fee," which compensates the network's validators.
 
 ### Prominent dApp Examples
 

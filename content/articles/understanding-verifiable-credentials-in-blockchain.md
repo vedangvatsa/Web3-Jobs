@@ -31,25 +31,17 @@ The Verifiable Credential model, standardized by the World Wide Web Consortium (
 
 **The Issuer:** This entity asserts a claim about a subject. Examples include universities issuing degrees, governments providing passports, or events issuing tickets. The issuer cryptographically signs the credential with a private key, creating a tamper-proof digital certificate.
 
-2.
+2. **The Holder (You):** The individual or entity represented by the credential. The holder receives the signed VC from the issuer and stores it in a secure digital wallet, granting them full control over when and with whom to share the credential.
 
-**The Holder (You):** The individual or entity represented by the credential. The holder receives the signed VC from the issuer and stores it in a secure digital wallet, granting them full control over when and with whom to share the credential.
-
-3.
-
-**The Verifier:** An entity that needs to validate a claim about the holder. This could be an employer confirming a degree, a bar checking age, or a [DeFi](/what-is-defi) protocol verifying compliance with regulations.
+3. **The Verifier:** An entity that needs to validate a claim about the holder. This could be an employer confirming a degree, a bar checking age, or a [DeFi](/what-is-defi) protocol verifying compliance with regulations.
 
 **The Workflow:** 1.
 
 **Issuance:** A university (issuer) provides a digital diploma (the VC) to a student (holder). The VC is signed and stored in the student's wallet.
 
-2.
+2. **Presentation:** The student applies for a job and needs to demonstrate they possess a degree. The employer (verifier) requests proof.
 
-**Presentation:** The student applies for a job and needs to demonstrate they possess a degree. The employer (verifier) requests proof.
-
-3.
-
-**Verification:** The student presents the VC to the employer. The employer's system can:
+3. **Verification:** The student presents the VC to the employer. The employer's system can:
  - Verify the cryptographic signature to ensure authenticity and integrity.
  - Confirm the signature corresponds to the public key of the trusted issuer (the university), often by consulting a public registry of Decentralized Identifiers (DIDs).
  - Check that the credential has not been revoked by the issuer.

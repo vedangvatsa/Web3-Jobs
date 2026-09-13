@@ -89,14 +89,8 @@ Decentralized Autonomous Organizations ([DAOs](/what-is-a-dao)) are maturing fro
 
 ### Positioning for the Maturing Market
 
-1.
-
-**Develop a Specialty:** Move beyond generalism. Become an expert in a specific area, whether technical, like ZK-proofs, or non-technical, like institutional business development.
-2.
-
-**Understand the Entire Ecosystem:** While specializing, maintain a broad understanding of the Web3 field. For example, engineers should grasp tokenomics, while marketers should understand Layer 2 mechanics.
-3.
-
-**Focus on Value Creation:** The mature market values sustainable projects that address real-world problems and generate revenue. Align with organizations that have a clear long-term vision.
+1. **Develop a Specialty:** Move beyond generalism. Become an expert in a specific area, whether technical, like ZK-proofs, or non-technical, like institutional business development.
+2. **Understand the Entire Ecosystem:** While specializing, maintain a broad understanding of the Web3 field. For example, engineers should grasp tokenomics, while marketers should understand Layer 2 mechanics.
+3. **Focus on Value Creation:** The mature market values sustainable projects that address real-world problems and generate revenue. Align with organizations that have a clear long-term vision.
 
 The maturation of the Web3 market signifies a necessary evolution. This transition moves the industry away from speculation and toward professionalism. Professionals willing to adapt and acquire specialized knowledge will find a wealth of stable, impactful career opportunities.

@@ -27,18 +27,10 @@ Since the blockchain operates as a public and immutable ledger, anyone can verif
 
 Snapshots commonly determine eligibility for token [airdrops](/understanding-airdrop-campaigns-in-web3). For instance, consider a new [DeFi](/what-is-defi) protocol wishing to reward early Uniswap users with its governance token. The process unfolds as follows:
 
-1.
-
-**The Snapshot Announcement:** The project team declares, "We will take a snapshot of the [Ethereum](/what-is-ethereum) blockchain at block number 15,000,000."
-2.
-
-**Data Analysis:** After mining that block, the team analyzes the blockchain's state up to that moment, focusing on all transactions interacting with Uniswap smart contracts.
-3.
-
-**Eligibility Criteria Definition:** They establish criteria based on this data. For example, "Addresses with a minimum of 5 swaps on Uniswap before block 15,000,000 qualify for the airdrop."
-4.
-
-**Distribution Process:** The team generates a list of eligible addresses from the snapshot data and distributes the airdrop accordingly.
+1. **The Snapshot Announcement:** The project team declares, "We will take a snapshot of the [Ethereum](/what-is-ethereum) blockchain at block number 15,000,000."
+2. **Data Analysis:** After mining that block, the team analyzes the blockchain's state up to that moment, focusing on all transactions interacting with Uniswap smart contracts.
+3. **Eligibility Criteria Definition:** They establish criteria based on this data. For example, "Addresses with a minimum of 5 swaps on Uniswap before block 15,000,000 qualify for the airdrop."
+4. **Distribution Process:** The team generates a list of eligible addresses from the snapshot data and distributes the airdrop accordingly.
 
 By using a snapshot, the project ensures that the distribution relies on a fixed, verifiable set of historical data. This prevents manipulation by users attempting to engage in actions after the airdrop announcement.
 

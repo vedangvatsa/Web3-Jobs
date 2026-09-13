@@ -71,7 +71,9 @@ Each technology addresses different privacy concerns. Federated Learning safegua
 
 #### 2. Are these technologies commonly implemented today?
 
-Yes, Federated Learning is actively employed by various companies to enhance smartphone AI models. Differential Privacy is used by the U.S. Census Bureau to publish statistics while protecting individual identities, and by companies for privacy-conscious data collection. Homomorphic Encryption is still primarily in research, but it is beginning to find use in specialized scenarios.**3. Does data anonymization effectively protect privacy?** 
+Yes, Federated Learning is actively employed by various companies to enhance smartphone AI models. Differential Privacy is used by the U.S. Census Bureau to publish statistics while protecting individual identities, and by companies for privacy-conscious data collection. Homomorphic Encryption is still primarily in research, but it is beginning to find use in specialized scenarios.
+
+**3. Does data anonymization effectively protect privacy?** 
 Data anonymization, which typically removes personally identifiable information, has proven to be largely ineffective. Studies have shown that individuals can often be re-identified in anonymized datasets through cross-referencing with public information. This reality highlights the shift towards more reliable techniques like Differential Privacy.
 
 ### The Importance of Privacy-Preserving Technologies

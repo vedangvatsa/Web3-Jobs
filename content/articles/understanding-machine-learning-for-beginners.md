@@ -27,7 +27,9 @@ This approach is perfect for problems where the logic is hard to define. How wou
 
 ### What Are the Main Types of Machine Learning?
 
-Machine learning isn't just one technique. It's a whole field of different approaches, but they generally fall into three main categories.**1. Supervised Learning**
+Machine learning isn't just one technique. It's a whole field of different approaches, but they generally fall into three main categories.
+
+**1. Supervised Learning**
 
 This is the most common type of machine learning. The name comes from the idea that a "supervisor" (the developer) is teaching the model by giving it labeled data. You provide the model with inputs and the correct outputs, and it learns to map one to the other. Our stop sign example from earlier is a form of supervised learning.
 

@@ -54,18 +54,10 @@ The rubric is simple. A strong answer has a clear situation, your specific actio
 Behavioral questions fall into five clusters. You will hear one of these in almost every loop:
 
 1. **Learning something new.**"Tell me about a time you had to learn a completely new tool or domain quickly."
-2.
-
-**Handling ambiguity or competing priorities.**"Describe a time you moved forward without clear requirements."
-3.
-
-**Disagreement or conflict.**"Tell me about a time you disagreed with a teammate or manager and how you resolved it."
-4.
-
-**Mistake or failure.**"Describe a time you made a mistake. What did you do next?"
-5.
-
-**Ownership without authority.** "Tell me about a time you took on work outside your scope to fix a problem."
+2. **Handling ambiguity or competing priorities.**"Describe a time you moved forward without clear requirements."
+3. **Disagreement or conflict.**"Tell me about a time you disagreed with a teammate or manager and how you resolved it."
+4. **Mistake or failure.**"Describe a time you made a mistake. What did you do next?"
+5. **Ownership without authority.** "Tell me about a time you took on work outside your scope to fix a problem."
 
 Web3 teams add distributed work variants: "How did you keep a launch on track across three time zones?" or "How did you handle an incident when a smart contract fix needed public communication in Discord and GitHub?"
 
@@ -133,17 +125,11 @@ Interviewers rate the fix and prevention more than the error itself.
 
 Remote Web3 hiring has a higher bar for written communication than many Web2 roles. Recruiters noted in 2025 and 2026 that distributed teams screen for three signals before they score domain knowledge:
 
-1.
+1. **You can operate without constant meetings.** Decisions are written, progress is visible without chasing, and handoffs survive a time zone handoff. If your only proof is screenshots of what you built, you have not answered the async question. Show a specific artifact: a decision log, a Notion page, a GitHub discussion, or a Loom summary you shared after a call.
 
-**You can operate without constant meetings.** Decisions are written, progress is visible without chasing, and handoffs survive a time zone handoff. If your only proof is screenshots of what you built, you have not answered the async question. Show a specific artifact: a decision log, a Notion page, a GitHub discussion, or a Loom summary you shared after a call.
+2. **You document to reduce risk.** In protocol work, writing is part of safety. Post-mortems, spec comments, and incident updates affect funds and trust. Teams test for this by asking how you communicated a bug or a delay. The strongest answers name the channel, the audience, and the cadence. For example: "I posted a status update in Discord at 14:00 UTC, mirrored it in GitHub issue 142, and updated every 4 hours until the fix was verified on Sepolia."
 
-2.
-
-**You document to reduce risk.** In protocol work, writing is part of safety. Post-mortems, spec comments, and incident updates affect funds and trust. Teams test for this by asking how you communicated a bug or a delay. The strongest answers name the channel, the audience, and the cadence. For example: "I posted a status update in Discord at 14:00 UTC, mirrored it in GitHub issue 142, and updated every 4 hours until the fix was verified on Sepolia."
-
-3.
-
-**You handle ambiguity and public feedback.** Many Web3 teams are small, change direction quickly, and take feedback in public. Interviewers check whether you can act with incomplete data, state your assumptions, and update when proven wrong. A good line to practice is: "Here is what I knew, what I assumed, what I would check next, and what would make me reverse the decision."
+3. **You handle ambiguity and public feedback.** Many Web3 teams are small, change direction quickly, and take feedback in public. Interviewers check whether you can act with incomplete data, state your assumptions, and update when proven wrong. A good line to practice is: "Here is what I knew, what I assumed, what I would check next, and what would make me reverse the decision."
 
 If you come from Web2, map your experience to these three signals directly. A Web2 on-call rotation, a docs migration, or an API deprecation plan all demonstrate the same behaviors if you describe them with specifics.
 

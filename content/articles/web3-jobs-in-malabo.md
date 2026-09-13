@@ -26,9 +26,7 @@ Malabo's future in Web3 will likely reflect the country's economic framework and
 
 Malabo currently lacks a formal Web3 job market. Local professionals can consider two primary career paths:
 
-1.
-
-**Entrepreneurship:** Founders can establish the first Web3 startups in Equatorial Guinea, likely targeting FinTech or enterprise solutions for the energy sector. Securing funding from international or regional venture capitalists will be important for these ventures.
+1. **Entrepreneurship:** Founders can establish the first Web3 startups in Equatorial Guinea, likely targeting FinTech or enterprise solutions for the energy sector. Securing funding from international or regional venture capitalists will be important for these ventures.
 
 2. **[Remote Work](/remote-work-in-web3):** Individual professionals can acquire globally sought-after skills to secure remote positions with international Web3 companies.
  - **Senior Remote Developer ([Solidity](/best-programming-languages-for-blockchain-development)/Go):** Expected salaries can vary significantly based on experience and location.
@@ -36,18 +34,10 @@ Malabo currently lacks a formal Web3 job market. Local professionals can conside
 
 ### Building a Web3 Career in Malabo
 
-1.
-
-**Specialize in Energy/Supply Chain:** Equatorial Guinea's unique advantage lies in its energy sector. Focus your studies on how enterprise blockchains such as Hyperledger can enhance transparency and efficiency in the oil and gas supply chain. A proof-of-concept in this area would be a strong addition to your [portfolio](/building-web3-portfolio).
-2.
-
-**Develop Remote Skills:** Build a competitive skill set in high-demand areas like [smart contract](/what-are-smart-contracts) development or backend engineering. Your GitHub profile and contributions will serve as your [resume](/how-to-build-a-web3-resume-that-stands-out).
-3.
-
-**Educate and Connect Locally:** In emerging markets, those who educate become leaders. Start a Web3 meetup in Malabo, create educational content in Spanish and French, and connect with government ministries to explain the benefits of the technology. Your initiatives will position you as a key resource in the country.
-4.
-
-**Engage with Broader Ecosystems:** Actively participate in Pan-African and global Web3 communities online to build connections that could lead to mentorship and job opportunities.
+1. **Specialize in Energy/Supply Chain:** Equatorial Guinea's unique advantage lies in its energy sector. Focus your studies on how enterprise blockchains such as Hyperledger can enhance transparency and efficiency in the oil and gas supply chain. A proof-of-concept in this area would be a strong addition to your [portfolio](/building-web3-portfolio).
+2. **Develop Remote Skills:** Build a competitive skill set in high-demand areas like [smart contract](/what-are-smart-contracts) development or backend engineering. Your GitHub profile and contributions will serve as your [resume](/how-to-build-a-web3-resume-that-stands-out).
+3. **Educate and Connect Locally:** In emerging markets, those who educate become leaders. Start a Web3 meetup in Malabo, create educational content in Spanish and French, and connect with government ministries to explain the benefits of the technology. Your initiatives will position you as a key resource in the country.
+4. **Engage with Broader Ecosystems:** Actively participate in Pan-African and global Web3 communities online to build connections that could lead to mentorship and job opportunities.
 
 ### Your Next Step: Find a Web3 Job
 
@@ -109,18 +99,10 @@ Enterprise blockchain showcases proven use cases in the energy sector:
 
 ### Capitalizing on This Advantage
 
-1.
-
-**Acquire Domain Knowledge:** Understand the oil and gas supply chain, current challenges, and regulatory requirements.
-2.
-
-**Research Real Projects:** Investigate how companies like BP, Shell, and Chevron are implementing blockchain.
-3.
-
-**Create Case Studies:** Develop mock blockchain solutions for energy sector challenges specific to Equatorial Guinea.
-4.
-
-**Engage Industry Players:** Collaborate with local energy companies or their international partners, using your expertise.
+1. **Acquire Domain Knowledge:** Understand the oil and gas supply chain, current challenges, and regulatory requirements.
+2. **Research Real Projects:** Investigate how companies like BP, Shell, and Chevron are implementing blockchain.
+3. **Create Case Studies:** Develop mock blockchain solutions for energy sector challenges specific to Equatorial Guinea.
+4. **Engage Industry Players:** Collaborate with local energy companies or their international partners, using your expertise.
 
 Focusing on the energy sector positions you uniquely by combining Web3 skills with domain knowledge that many developers may lack.
 
@@ -149,18 +131,10 @@ Building a professional network is essential for securing remote opportunities.
 Many remote Web3 employers prioritize hands-on experience over formal degrees, yet competition from global developers remains intense.
 
 ### Key Factors for Success
-1.
-
-**Demonstrable Work:** Your GitHub portfolio outweighs traditional credentials.
-2.
-
-**Impactful Projects:** Focus on projects that solve real-world problems.
-3.
-
-**Community Involvement:** Establish yourself as a contributor and thought leader within your niche.
-4.
-
-**Strong References:** Obtain recommendations from other developers or founders who can vouch for your work.
+1. **Demonstrable Work:** Your GitHub portfolio outweighs traditional credentials.
+2. **Impactful Projects:** Focus on projects that solve real-world problems.
+3. **Community Involvement:** Establish yourself as a contributor and thought leader within your niche.
+4. **Strong References:** Obtain recommendations from other developers or founders who can vouch for your work.
 
 ### Building Credibility
 - Contribute to significant open-source projects to gain recognition.

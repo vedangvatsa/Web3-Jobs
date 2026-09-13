@@ -37,17 +37,11 @@ Internal Link: [Explore the best online courses for learning AI.](/best-ai-cours
 
 AI excels at logical and data-driven tasks but struggles with the emotional and creative aspects of work. Focus on developing skills in these areas.
 
-1.
+1. **Critical Thinking and Problem-Solving**: AI can provide answers but cannot discern the right questions. Cultivate the ability to analyze situations from different angles, challenge assumptions, and tackle complex problems. Do not accept AI-generated responses at face value; apply your judgment to assess their validity.
 
-**Critical Thinking and Problem-Solving**: AI can provide answers but cannot discern the right questions. Cultivate the ability to analyze situations from different angles, challenge assumptions, and tackle complex problems. Do not accept AI-generated responses at face value; apply your judgment to assess their validity.
+2. **Creativity and Innovation**: AI generates outputs based on existing data, making it less effective at producing truly original concepts. By honing your creativity in areas like art, business strategy, or product design, you can become an essential asset. The future will favor those who can envision what has yet to be created.
 
-2.
-
-**Creativity and Innovation**: AI generates outputs based on existing data, making it less effective at producing truly original concepts. By honing your creativity in areas like art, business strategy, or product design, you can become an essential asset. The future will favor those who can envision what has yet to be created.
-
-3.
-
-**Emotional Intelligence and Communication**: Skills such as building relationships, inspiring teams, and negotiating deals require empathy and an understanding of human emotions. AI cannot cultivate trust or motivate individuals. Therefore, focus on improving your communication, listening, and empathy skills.
+3. **Emotional Intelligence and Communication**: Skills such as building relationships, inspiring teams, and negotiating deals require empathy and an understanding of human emotions. AI cannot cultivate trust or motivate individuals. Therefore, focus on improving your communication, listening, and empathy skills.
 
 Internal Link: [Discover jobs that AI is unlikely to replace.](/jobs-ai-cannot-replace-in-future)
 

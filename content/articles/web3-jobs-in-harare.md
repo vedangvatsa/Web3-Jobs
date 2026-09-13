@@ -51,21 +51,13 @@ The most promising opportunities for Zimbabwean professionals lie in remote posi
 
 ### Building a Web3 Career in Harare
 
-1.
+1. **Use Your Unique Background:** Your experiences with hyperinflation and the necessity for self-sovereign money form a compelling narrative. Share your story in interviews and on professional platforms to highlight your passion for Web3. This authenticity distinguishes you from developers in more stable economies.
 
-**Use Your Unique Background:** Your experiences with hyperinflation and the necessity for self-sovereign money form a compelling narrative. Share your story in interviews and on professional platforms to highlight your passion for Web3. This authenticity distinguishes you from developers in more stable economies.
+2. **Master DeFi Concepts:** Immerse yourself in decentralized finance. Experiment with various protocols, understand risk management, and articulate the advantages and disadvantages of different DeFi strategies.
 
-2.
+3. **Develop a Global [Portfolio](/building-web3-portfolio):** Create a GitHub profile or a public content portfolio that showcases your skills competitively on the international stage. Contribute to well-known open-source DeFi projects to demonstrate your capabilities.
 
-**Master DeFi Concepts:** Immerse yourself in decentralized finance. Experiment with various protocols, understand risk management, and articulate the advantages and disadvantages of different DeFi strategies.
-
-3.
-
-**Develop a Global [Portfolio](/building-web3-portfolio):** Create a GitHub profile or a public content portfolio that showcases your skills competitively on the international stage. Contribute to well-known open-source DeFi projects to demonstrate your capabilities.
-
-4.
-
-**Lead Local Educational Initiatives:** Become an educator by forming study groups, meetups, or blogs that assist other Zimbabweans in understanding Web3 securely and effectively. This will enhance your reputation as a leader within the African crypto community.
+4. **Lead Local Educational Initiatives:** Become an educator by forming study groups, meetups, or blogs that assist other Zimbabweans in understanding Web3 securely and effectively. This will enhance your reputation as a leader within the African crypto community.
 
 ### Salary Breakdown
 

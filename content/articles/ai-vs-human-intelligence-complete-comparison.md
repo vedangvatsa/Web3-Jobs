@@ -117,12 +117,20 @@ Trades are real. Optimizing for speed and scale often lowers interpretability. B
 
 ### How to use them together
 
-Use this as a working split, not a ranking.**1. Give AI the pattern-heavy first pass.**- Draft content, label data, summarize meetings, convert images to structured tags, or write boilerplate code from a spec.
-- Keep the prompt specific. State input, output format, and limits. Example: "Summarize this transcript into three decisions, two risks, and owners, in 150 words, and flag any claim without a citation."**2. Keep humans for framing and final judgment.**- Define the actual question, choose which trade-off matters, and check assumptions. In hiring, let the model rank resumes for completeness, then have a person review the shortlist for domain fit and explain each decision. In healthcare triage, as shown in the 2019 Science study by Obermeyer et al., cost was a poor proxy for need and produced racial gaps. Correcting the label and having clinicians review edge cases reduced the gap.
-- For creative work, use the generator to explore variants, then let a person select, edit, and add intent. Keep records of which outputs were AI-generated and which were human-reviewed.**3. Add checks that catch known failure modes.**- Log prompts, model version, and any threshold used. Record human overrides.
+Use this as a working split, not a ranking.
+
+**1. Give AI the pattern-heavy first pass.**- Draft content, label data, summarize meetings, convert images to structured tags, or write boilerplate code from a spec.
+- Keep the prompt specific. State input, output format, and limits. Example: "Summarize this transcript into three decisions, two risks, and owners, in 150 words, and flag any claim without a citation."
+
+**2. Keep humans for framing and final judgment.**- Define the actual question, choose which trade-off matters, and check assumptions. In hiring, let the model rank resumes for completeness, then have a person review the shortlist for domain fit and explain each decision. In healthcare triage, as shown in the 2019 Science study by Obermeyer et al., cost was a poor proxy for need and produced racial gaps. Correcting the label and having clinicians review edge cases reduced the gap.
+- For creative work, use the generator to explore variants, then let a person select, edit, and add intent. Keep records of which outputs were AI-generated and which were human-reviewed.
+
+**3. Add checks that catch known failure modes.**- Log prompts, model version, and any threshold used. Record human overrides.
 - Run sliced evaluation. Test the same prompt with different names, locations, or image qualities and compare error rates. NIST Face Recognition Vendor Test Part 3, December 2019, found false positive rates varied across demographics for many vendors, with the best systems showing small absolute gaps. The finding was vendor-dependent, which means you must test your specific deployment, not assume a general claim.
 - Check for memorization. Keep training data deduplicated where you can. For image models, test whether a prompt reproduces near-copies of training data before you publish.
-- Provide a path to contest a decision. Let affected people request human review and get a plain-language explanation of what the system used.**4. Plan for drift.
+- Provide a path to contest a decision. Let affected people request human review and get a plain-language explanation of what the system used.
+
+**4. Plan for drift.
 
 **Models and data change. Population behavior, camera quality, and language use shift. Re-test sliced metrics monthly, not once. Update documentation when the use or data source changes.
 
@@ -146,7 +154,9 @@ AI can generate novel combinations that look creative, and it can do so at high 
 
 #### 5. When should I not use AI for a decision about a person?
 
-When stakes are high, data are thin for the affected group, errors are costly, or appeals are hard to provide. Examples include sole reliance for hiring, lending, medical triage, or legal risk scoring. If you do use a score, require sliced testing, a human reviewer who can overrule it, and clear documentation of which fairness definition you chose and why.**6. How do I stay current without chasing every new model?**
+When stakes are high, data are thin for the affected group, errors are costly, or appeals are hard to provide. Examples include sole reliance for hiring, lending, medical triage, or legal risk scoring. If you do use a score, require sliced testing, a human reviewer who can overrule it, and clear documentation of which fairness definition you chose and why.
+
+**6. How do I stay current without chasing every new model?**
 Follow a small set of primary sources: Stanford HAI AI Index, NIST AI Risk Management Framework, and the documentation for the specific model you run. Test each update on a local copy with your own data. Measure task time, error by group, and energy or cost per query before you adopt.
 
 Human intelligence and artificial intelligence are complementary. Humans bring broad understanding, values, and judgment across shifting contexts, on a 20-watt budget. AI brings fast pattern matching, generation, and recall at scale, on a large hardware budget and with clear limits outside its data. Pairing them, with explicit checks and human accountability, is where the gains show up.

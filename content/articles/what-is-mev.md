@@ -106,7 +106,9 @@ You do not need to run a bot to avoid most MEV. One change removes most exposure
 * **MEV Blocker:** Free endpoint at https://mevblocker.io. Like Protect, it hides you from sandwich bots and rebates backrun value. CoW Swap routes through this type of flow by default.
 * **CoW Swap or 1inch Fusion:** CoW Swap matches trades in batch auctions off-chain and settles on-chain. Everyone in the same batch gets the same clearing price, so there is no intra-batch ordering to exploit.
 
-Private mempools now carry about half of all Ethereum gas as of 2024 to 2025, which is why average sandwich profit collapsed even though bot count stayed high.**2. Set tight slippage**
+Private mempools now carry about half of all Ethereum gas as of 2024 to 2025, which is why average sandwich profit collapsed even though bot count stayed high.
+
+**2. Set tight slippage**
 
 Slippage tolerance is the maximum price move you accept. A sandwich is only profitable if it can extract value within that tolerance.
 

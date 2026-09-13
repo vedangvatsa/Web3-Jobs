@@ -28,21 +28,13 @@ To answer these questions, analysts employ specialized tools to construct querie
 
 ### Essential Tools for Web3 Data Analysts
 
-1.
+1. **SQL:** This foundational skill is critical for on-chain analysts. Platforms like Dune, Flipside Crypto, and Nansen organize complex blockchain data into accessible tables, which analysts query using SQL (Structured Query Language). Mastery of SQL is the most vital technical skill for this position.
 
-**SQL:** This foundational skill is critical for on-chain analysts. Platforms like Dune, Flipside Crypto, and Nansen organize complex blockchain data into accessible tables, which analysts query using SQL (Structured Query Language). Mastery of SQL is the most vital technical skill for this position.
+2. **Dune Analytics:** This platform is the leader in community-driven on-chain analysis. It allows users to write SQL queries against [Ethereum](/what-is-ethereum) and other blockchain datasets, visualizing results in powerful shareable dashboards. Creating a high-quality dashboard on Dune serves as an excellent [portfolio](/building-web3-portfolio) project for aspiring analysts.
 
-2.
+3. **Python:** For more sophisticated analysis, Python is preferred. It offers libraries like Pandas for data manipulation, Matplotlib for visualization, and Web3.py for direct blockchain interaction, making it an invaluable tool for in-depth research.
 
-**Dune Analytics:** This platform is the leader in community-driven on-chain analysis. It allows users to write SQL queries against [Ethereum](/what-is-ethereum) and other blockchain datasets, visualizing results in powerful shareable dashboards. Creating a high-quality dashboard on Dune serves as an excellent [portfolio](/building-web3-portfolio) project for aspiring analysts.
-
-3.
-
-**Python:** For more sophisticated analysis, Python is preferred. It offers libraries like Pandas for data manipulation, Matplotlib for visualization, and Web3.py for direct blockchain interaction, making it an invaluable tool for in-depth research.
-
-4.
-
-**Block Explorers (e.g., Etherscan):** Analysts must excel at using block explorers like Etherscan to investigate individual transactions, understand [smart contract](/what-are-smart-contracts) interactions, and trace fund movements between wallets.
+4. **Block Explorers (e.g., Etherscan):** Analysts must excel at using block explorers like Etherscan to investigate individual transactions, understand [smart contract](/what-are-smart-contracts) interactions, and trace fund movements between wallets.
 
 ### Required Skills for Web3 Data Analysts
 
@@ -56,21 +48,13 @@ To answer these questions, analysts employ specialized tools to construct querie
 
 This role is accessible to individuals without formal data science degrees.
 
-1.
+1. **Learn SQL:** Begin with SQL, the cornerstone of data analysis. Numerous free online resources are available for learning SQL.
 
-**Learn SQL:** Begin with SQL, the cornerstone of data analysis. Numerous free online resources are available for learning SQL.
+2. **Understand Blockchain Basics:** Familiarize yourself with the fundamental principles of blockchain technology, focusing on Ethereum.
 
-2.
+3. **Become Proficient in Dune:** Use Dune Analytics' free tier to experiment. Start by forking existing queries to grasp their structure and functionality. Engage with Dune's documentation and tutorials.
 
-**Understand Blockchain Basics:** Familiarize yourself with the fundamental principles of blockchain technology, focusing on Ethereum.
-
-3.
-
-**Become Proficient in Dune:** Use Dune Analytics' free tier to experiment. Start by forking existing queries to grasp their structure and functionality. Engage with Dune's documentation and tutorials.
-
-4.
-
-**Create a Dashboard Portfolio:** This portfolio serves as your [resume](/how-to-build-a-web3-resume-that-stands-out). Select an intriguing protocol and construct a detailed dashboard to track its key metrics.
+4. **Create a Dashboard Portfolio:** This portfolio serves as your [resume](/how-to-build-a-web3-resume-that-stands-out). Select an intriguing protocol and construct a detailed dashboard to track its key metrics.
  - *Initial project:* Build a dashboard for a new NFT collection gaining traction.
  - *Intermediate project:* Create a dashboard comparing user growth between two competing [DeFi](/what-is-defi) protocols.
  - *Advanced project:* Analyze MEV (Maximal Extractable Value) activities on a particular DEX.

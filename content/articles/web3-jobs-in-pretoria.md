@@ -51,21 +51,13 @@ The job market in Pretoria shows strong demand for professionals experienced in 
 
 ### Building a Web3 Career in Pretoria
 
-1.
+1. **Use Your Public Sector or Enterprise Experience:** A background in government or a large IT consultancy provides a significant edge. Emphasize your understanding of public sector processes, compliance, and project management.
 
-**Use Your Public Sector or Enterprise Experience:** A background in government or a large IT consultancy provides a significant edge. Emphasize your understanding of public sector processes, compliance, and project management.
+2. **Specialize in GovTech and Regulation:** Focus on how blockchain can address governance challenges. Stay informed about the South African Reserve Bank's research and the Financial Sector Conduct Authority's evolving regulatory framework. Establish yourself as a thought leader in this niche.
 
-2.
+3. **Network in Policy and Academic Circles:** Engage with institutions in the city. Attend seminars at the CSIR and the University of Pretoria. Build relationships with policymakers and technologists in government innovation departments.
 
-**Specialize in GovTech and Regulation:** Focus on how blockchain can address governance challenges. Stay informed about the South African Reserve Bank's research and the Financial Sector Conduct Authority's evolving regulatory framework. Establish yourself as a thought leader in this niche.
-
-3.
-
-**Network in Policy and Academic Circles:** Engage with institutions in the city. Attend seminars at the CSIR and the University of Pretoria. Build relationships with policymakers and technologists in government innovation departments.
-
-4.
-
-**Prioritize Practicality and Security:** The Pretoria market values reliable, secure, and practical solutions over speculative ideas. In your [portfolio](/building-web3-portfolio) and interviews, showcase your ability to deliver enterprise-grade systems that address real-world challenges.
+4. **Prioritize Practicality and Security:** The Pretoria market values reliable, secure, and practical solutions over speculative ideas. In your [portfolio](/building-web3-portfolio) and interviews, showcase your ability to deliver enterprise-grade systems that address real-world challenges.
 
 ### Salary Overview: Web3 Jobs in Pretoria
 

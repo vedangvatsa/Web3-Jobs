@@ -52,7 +52,9 @@ Carta Data for H2 2025, published May 2026, shows why structure matters now. Tea
 
 ### How benchmarking works
 
-Benchmarking has a consistent method. You match the job, pick sources that fit the job, adjust for location and level, and document the cut you used.**1. Match the job by level, not title.
+Benchmarking has a consistent method. You match the job, pick sources that fit the job, adjust for location and level, and document the cut you used.
+
+**1. Match the job by level, not title.
 
 **A "senior engineer" at one protocol is a mid-level elsewhere. Map years of experience, scope, and on-call or security responsibility. For Web3, note specialization: Solidity and EVM work, Rust and Solana or Polkadot work, zero-knowledge, and security audit are priced differently.** 2. Pick at least two sources that measure the same mix.
 

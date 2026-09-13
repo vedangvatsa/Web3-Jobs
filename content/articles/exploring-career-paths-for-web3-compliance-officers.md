@@ -21,19 +21,23 @@ Web3 Compliance Officers encounter distinct challenges in applying regulations m
 **Key Areas of Focus:**
 **1. Anti-Money Laundering (AML) and Counter-Terrorist Financing (CTF):**
 
-- **-** The Challenge:**Regulations mandate financial institutions to "know their customer" (KYC) and monitor for suspicious activities. How does one implement these measures for a [DeFi protocol](/what-is-defi) that anyone can access via a crypto [wallet](/how-to-choose-a-crypto-wallet)?
+- The Challenge:**Regulations mandate financial institutions to "know their customer" (KYC) and monitor for suspicious activities. How does one implement these measures for a [DeFi protocol](/what-is-defi) that anyone can access via a crypto [wallet](/how-to-choose-a-crypto-wallet)?
 - **The Work:** A compliance officer develops the protocol's AML strategy, which often includes:
  - Collaboration with on-chain analytics platforms like
 
 **Chainalysis** or
 
 **TRM Labs**. These tools analyze blockchain data to identify wallets linked to illicit activities.
- - Implementing screening mechanisms at the front-end (the dApp's interface) to prevent wallets on sanctions lists, such as the OFAC list, from accessing the protocol. This approach often generates debate within the crypto community.**2. Securities Law Compliance:**
+ - Implementing screening mechanisms at the front-end (the dApp's interface) to prevent wallets on sanctions lists, such as the OFAC list, from accessing the protocol. This approach often generates debate within the crypto community.
 
-- **-** The Challenge:**Determining whether a protocol's native [token](/what-is-a-token) qualifies as an unregistered security is a critical regulatory concern in the United States, primarily governed by the [Howey Test](/how-to-become-a-web3-legal-consultant).
-- **The Work:** The compliance officer collaborates with the legal team to structure the token's design, marketing, and distribution to reduce the risk of classification as a security.**3. Data Privacy:**
+**2. Securities Law Compliance:**
 
-- **-** The Challenge:**Compliance with data privacy regulations like GDPR is complex when the blockchain serves as a public, immutable ledger.
+- The Challenge:**Determining whether a protocol's native [token](/what-is-a-token) qualifies as an unregistered security is a critical regulatory concern in the United States, primarily governed by the [Howey Test](/how-to-become-a-web3-legal-consultant).
+- **The Work:** The compliance officer collaborates with the legal team to structure the token's design, marketing, and distribution to reduce the risk of classification as a security.
+
+**3. Data Privacy:**
+
+- The Challenge:**Compliance with data privacy regulations like GDPR is complex when the blockchain serves as a public, immutable ledger.
 - **The Work:** Advising product and engineering teams on creating privacy-preserving systems often involves advanced cryptographic techniques such as [Zero-Knowledge Proofs](/zero-knowledge-proofs-explained).
 
 ### Essential Skills for a Web3 Compliance Officer
@@ -45,19 +49,11 @@ Web3 Compliance Officers encounter distinct challenges in applying regulations m
 
 ### Transitioning into Web3 Compliance
 
-1.
-
-**Pursue Relevant Certifications:** Obtaining certifications like the
+1. **Pursue Relevant Certifications:** Obtaining certifications like the
 
 **Certified Anti-Money Laundering Specialist (CAMS)** can enhance credibility and provide foundational knowledge.
-2.
-
-**Engage with Web3 Technologies:** Actively use Web3 tools and platforms to gain firsthand experience of how [DeFi](/what-is-defi) protocols function from a user's standpoint.
-3.
-
-**Stay Updated:** Follow regulatory developments by engaging with crypto-focused legal professionals and policy experts on platforms like Twitter, while also reading relevant publications.
-4.
-
-**Network with Web3 Compliance Experts:** Connecting with seasoned professionals in the space can provide insights into their challenges and reveal potential job opportunities.
+2. **Engage with Web3 Technologies:** Actively use Web3 tools and platforms to gain firsthand experience of how [DeFi](/what-is-defi) protocols function from a user's standpoint.
+3. **Stay Updated:** Follow regulatory developments by engaging with crypto-focused legal professionals and policy experts on platforms like Twitter, while also reading relevant publications.
+4. **Network with Web3 Compliance Experts:** Connecting with seasoned professionals in the space can provide insights into their challenges and reveal potential job opportunities.
 
 A career as a Web3 Compliance Officer places you leading critical discussions on reconciling decentralization ideals with existing legal systems. This role is essential for compliance professionals eager to influence the future of finance.

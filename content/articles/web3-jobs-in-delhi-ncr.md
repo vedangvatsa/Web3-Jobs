@@ -45,21 +45,13 @@ The Delhi NCR job market shows strong demand for non-technical and business-cent
 
 ### Building a Web3 Career in Delhi NCR
 
-1.
+1. **Capitalize on Your Non-Technical Background:** Experience in marketing, PR, sales, law, or policy from traditional industries translates well into Web3. Highlight your ability to drive growth, develop a brand, or manage complex stakeholder relationships. This approach provides a significant edge in the NCR job market.
 
-**Capitalize on Your Non-Technical Background:** Experience in marketing, PR, sales, law, or policy from traditional industries translates well into Web3. Highlight your ability to drive growth, develop a brand, or manage complex stakeholder relationships. This approach provides a significant edge in the NCR job market.
+2. **Become a Communications Leader:** Strong communicators are highly valued in Delhi NCR. Start a blog, podcast, or Twitter account to simplify complex Web3 topics for a wider audience. Analyze market trends, discuss marketing campaigns, or explain new policy changes. This public [portfolio](/building-web3-portfolio) serves as an impressive [resume](/how-to-build-a-web3-resume-that-stands-out).
 
-2.
+3. **Engage at Policy and Business Events:** Attend gatherings that connect policymakers, investors, and business leaders. Industry events organized by bodies like the Blockchain and Crypto Assets Council (BACC) offer invaluable networking opportunities.
 
-**Become a Communications Leader:** Strong communicators are highly valued in Delhi NCR. Start a blog, podcast, or Twitter account to simplify complex Web3 topics for a wider audience. Analyze market trends, discuss marketing campaigns, or explain new policy changes. This public [portfolio](/building-web3-portfolio) serves as an impressive [resume](/how-to-build-a-web3-resume-that-stands-out).
-
-3.
-
-**Engage at Policy and Business Events:** Attend gatherings that connect policymakers, investors, and business leaders. Industry events organized by bodies like the Blockchain and Crypto Assets Council (BACC) offer invaluable networking opportunities.
-
-4.
-
-**Understand the Regulatory Framework:** Develop a thorough understanding of the regulatory environment in India. Stay informed about the government's position, key legal challenges, and future policy directions. This knowledge will enhance your value in various roles within the NCR.
+4. **Understand the Regulatory Framework:** Develop a thorough understanding of the regulatory environment in India. Stay informed about the government's position, key legal challenges, and future policy directions. This knowledge will enhance your value in various roles within the NCR.
 
 ### Taking the Next Step: Finding a Web3 Job
 

@@ -75,7 +75,9 @@ Frame your explanation as a move toward something rather than away from somethin
 
 #### 4. What if I can't afford to take a bootcamp or go back to school?
 
-Numerous free and low-cost learning resources are available today. You can acquire almost any skill via YouTube, free online courses, and personal projects. While it may require more self-discipline, upskilling on a budget is entirely feasible.**5. How do I know if I'm making the right choice?** 
+Numerous free and low-cost learning resources are available today. You can acquire almost any skill via YouTube, free online courses, and personal projects. While it may require more self-discipline, upskilling on a budget is entirely feasible.
+
+**5. How do I know if I'm making the right choice?** 
 Certainty is elusive, and that is acceptable. The aim of the "Test the Waters" phase is to reduce uncertainty. By gaining real-world experience through projects and volunteering, you can make a more informed decision. Trust your instincts while verifying them through practical experiences.
 
 ### Step-by-Step Guide to a Successful Career Pivot

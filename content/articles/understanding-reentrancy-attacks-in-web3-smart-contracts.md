@@ -19,12 +19,8 @@ Reentrancy occurs when an external contract call permits a recursive call back t
 
 To comprehend this concept, two key aspects of the Ethereum Virtual Machine (EVM) are necessary:
 
-1.
-
-**External Calls**: When a smart contract invokes a function on another contract, it relinquishes control. The caller must wait for the external function to finish executing before resuming its own operations.
-2.
-
-**State Updates**: A contract's state (e.g., user balances stored in a mapping) only updates after the function has fully executed.
+1. **External Calls**: When a smart contract invokes a function on another contract, it relinquishes control. The caller must wait for the external function to finish executing before resuming its own operations.
+2. **State Updates**: A contract's state (e.g., user balances stored in a mapping) only updates after the function has fully executed.
 
 The vulnerability manifests when a contract executes an external call (like sending Ether) before updating its internal state. This sequence creates an opportunity for malicious contracts to exploit.
 
@@ -54,15 +50,9 @@ While this code seems logical initially, it contains a significant flaw: the use
 Here's how the attack unfolds:
 
 1. **The Attacker's Contract**: The attacker deploys a contract (`AttackContract`) containing a special fallback function that executes whenever the contract receives Ether without a specified function call. This fallback function invokes the `withdraw` function on `InsecureBank` again.
-2.
-
-**Initial Deposit**: The attacker deposits Ether by calling the `deposit` function on `InsecureBank`. The `AttackContract`'s balance in `InsecureBank` now stands at a certain amount of Ether.
-3.
-
-**The First Withdrawal**: The attacker then calls `withdraw` on `InsecureBank` from `AttackContract`.
-4.
-
-**The Trap is Sprung**:
+2. **Initial Deposit**: The attacker deposits Ether by calling the `deposit` function on `InsecureBank`. The `AttackContract`'s balance in `InsecureBank` now stands at a certain amount of Ether.
+3. **The First Withdrawal**: The attacker then calls `withdraw` on `InsecureBank` from `AttackContract`.
+4. **The Trap is Sprung**:
  * `InsecureBank` verifies the balance. The `AttackContract` has a sufficient balance, allowing the `require` statement to pass.
  * `InsecureBank` transfers Ether to `AttackContract` through the `.call{value: amount}` function.
  * This Ether transfer activates the fallback function in `AttackContract`.
@@ -76,12 +66,8 @@ Here's how the attack unfolds:
 
 Implementing a strict ordering of operations, known as the **Checks-Effects-Interactions pattern**, can effectively prevent reentrancy.
 
-1.
-
-**Checks**: First, perform all validation checks (e.g., using `require`). Is the user authorized? Do they have sufficient funds?
-2.
-
-**Effects**: Next, make all changes to the contract's state *before* interacting with external contracts. This step is important. Update balances, change ownership, etc.
+1. **Checks**: First, perform all validation checks (e.g., using `require`). Is the user authorized? Do they have sufficient funds?
+2. **Effects**: Next, make all changes to the contract's state *before* interacting with external contracts. This step is important. Update balances, change ownership, etc.
 3. **Interactions**: Finally, once all internal states are updated, make external calls (e.g., sending Ether, invoking another contract).
 
 Here's a secure version of the `withdraw` function using this pattern:

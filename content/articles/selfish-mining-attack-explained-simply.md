@@ -77,12 +77,8 @@ This creates a "delta" of one block between the secret and public chains. The ou
 ### Why is Selfish Mining a Threat?
 
 1. **Unfair Rewards**: Selfish mining disrupts the fundamental principle that a miner's reward should correlate with their contributed hash power. A selfish miner can earn more than their fair share.
-2.
-
-**Centralization Pressure **: If selfish mining proves profitable, it incentivizes other miners to join the selfish pool for a share of the enhanced profits. This can lead to the pool growing larger, potentially reaching the**[51% threshold](/what-is-a-51-percent-attack-in-blockchain)**, enabling full control over the network.
-3.
-
-**Wasted Energy**: The attack forces honest miners to expend significant computational power and energy on blocks that will ultimately be discarded, reducing the network's overall efficiency.
+2. **Centralization Pressure **: If selfish mining proves profitable, it incentivizes other miners to join the selfish pool for a share of the enhanced profits. This can lead to the pool growing larger, potentially reaching the**[51% threshold](/what-is-a-51-percent-attack-in-blockchain)**, enabling full control over the network.
+3. **Wasted Energy**: The attack forces honest miners to expend significant computational power and energy on blocks that will ultimately be discarded, reducing the network's overall efficiency.
 
 ### Mitigation and Defenses
 

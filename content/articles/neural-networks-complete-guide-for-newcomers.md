@@ -22,15 +22,9 @@ The core component of a neural network is the neuron, also referred to as a node
 A neuron processes one or more inputs, performs a straightforward calculation, and produces an output. Below is a brief overview of a neuron's internal operations:
 
 1. **Receives Inputs**: Inputs originate from other neurons or from raw data (for example, a pixel from an image).
-2.
-
-**Assigns Weights to Inputs**: Inputs possess varying importance. Each connection has a "weight," a numerical value where a higher weight indicates greater influence on the neuron's output.
-3.
-
-**Calculates a Sum**: The neuron multiplies each input by its weight and sums the values. It also incorporates a "bias," which fine-tunes the output.
-4.
-
-**Applies an Activation Function**: The summed result passes through an activation function. This mathematical function determines whether the neuron activates (produces a strong output) or remains inactive. This step enables the network to identify complex, non-linear patterns.
+2. **Assigns Weights to Inputs**: Inputs possess varying importance. Each connection has a "weight," a numerical value where a higher weight indicates greater influence on the neuron's output.
+3. **Calculates a Sum**: The neuron multiplies each input by its weight and sums the values. It also incorporates a "bias," which fine-tunes the output.
+4. **Applies an Activation Function**: The summed result passes through an activation function. This mathematical function determines whether the neuron activates (produces a strong output) or remains inactive. This step enables the network to identify complex, non-linear patterns.
 
 Although a single neuron operates as a basic calculator, true intelligence emerges when thousands or millions of neurons interconnect within a network.
 
@@ -50,21 +44,13 @@ The interconnections are vital. Each neuron's output in one layer serves as inpu
 
 Training a neural network involves a systematic process called **training**, often using backpropagation, which operates in a cyclical manner.
 
-1.
+1. **Forward Pass**: You introduce an input from the training dataset (for example, a cat's image). This input progresses through the network layers, from the input to the output layer. Each neuron performs its computations, relaying outputs to the following layer. Ultimately, the output layer provides a prediction.
 
-**Forward Pass**: You introduce an input from the training dataset (for example, a cat's image). This input progresses through the network layers, from the input to the output layer. Each neuron performs its computations, relaying outputs to the following layer. Ultimately, the output layer provides a prediction.
+2. **Calculate the Error**: The network assesses its prediction against the correct label from the training data. For instance, it may predict a high probability of being a cat and a lower probability for a dog. Knowing the correct label is "cat," you can calculate the "error" or "loss" in the prediction.
 
-2.
+3. **Backward Pass (Backpropagation)**: This essential learning step involves working backward from the output to the input layer. The network determines how much each neuron's weights and biases contributed to the final error.
 
-**Calculate the Error**: The network assesses its prediction against the correct label from the training data. For instance, it may predict a high probability of being a cat and a lower probability for a dog. Knowing the correct label is "cat," you can calculate the "error" or "loss" in the prediction.
-
-3.
-
-**Backward Pass (Backpropagation)**: This essential learning step involves working backward from the output to the input layer. The network determines how much each neuron's weights and biases contributed to the final error.
-
-4.
-
-**Update the Weights**: Based on the backward pass information, the network adjusts all weights and biases slightly. The objective is to minimize the error when encountering the same input again.
+4. **Update the Weights**: Based on the backward pass information, the network adjusts all weights and biases slightly. The objective is to minimize the error when encountering the same input again.
 
 This entire training cycle repeats millions of times with examples from the training dataset. With each iteration, the network improves its accuracy by fine-tuning millions of weights.
 
@@ -108,5 +94,7 @@ A high-level understanding and programming skills are sufficient for practitione
 
 #### 4. How do neural networks apply to crypto and [Web3](/what-is-web3)?
 
-In Web3, neural networks are used for various applications. For instance, they analyze on-chain transaction data to spot fraudulent activities or predict market trends. Some initiatives aim to establish decentralized AI platforms where community-controlled neural network models supersede single-company ownership. This aligns with concepts like decentralized prediction markets and [DAOs](/what-is-a-dao).**5. What constitutes a "large language model"?** 
+In Web3, neural networks are used for various applications. For instance, they analyze on-chain transaction data to spot fraudulent activities or predict market trends. Some initiatives aim to establish decentralized AI platforms where community-controlled neural network models supersede single-company ownership. This aligns with concepts like decentralized prediction markets and [DAOs](/what-is-a-dao).
+
+**5. What constitutes a "large language model"?** 
 A [large language model (LLM)](/large-language-models-explained-simply) represents a vast and deep neural network trained on extensive text and code datasets. Its specific architecture, known as a Transformer, excels at comprehending human language.

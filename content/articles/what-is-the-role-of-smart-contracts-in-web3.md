@@ -30,17 +30,11 @@ This dependence can lead to inefficiencies and vulnerabilities. Smart contracts 
 
 Smart contracts execute through a series of steps:
 
-1.
+1. **Creation and Deployment:** Developers use programming languages, such as **[Solidity](/solidity-for-beginners)**, to write the contract's logic. The code includes conditions like "IF Alice deposits 1 ETH, THEN send her 2,000 units of [Token](/what-is-a-token) B." After coding, the contract is deployed on a blockchain like [Ethereum](/what-is-ethereum), acquiring a unique address.
 
-**Creation and Deployment:** Developers use programming languages, such as **[Solidity](/solidity-for-beginners)**, to write the contract's logic. The code includes conditions like "IF Alice deposits 1 ETH, THEN send her 2,000 units of [Token](/what-is-a-token) B." After coding, the contract is deployed on a blockchain like [Ethereum](/what-is-ethereum), acquiring a unique address.
+2. **Immutability and Transparency:** Once on the blockchain, the code remains unchanged, ensuring integrity. It is also transparent, allowing anyone to audit and verify the contract's operations.
 
-2.
-
-**Immutability and Transparency:** Once on the blockchain, the code remains unchanged, ensuring integrity. It is also transparent, allowing anyone to audit and verify the contract's operations.
-
-3.
-
-**Automatic Execution:** Smart contracts function as autonomous agents. When a transaction meeting the contract's conditions occurs, the contract executes automatically. The blockchain network validates the outcome, making the results tamper-proof.
+3. **Automatic Execution:** Smart contracts function as autonomous agents. When a transaction meeting the contract's conditions occurs, the contract executes automatically. The blockchain network validates the outcome, making the results tamper-proof.
 
 The principle guiding smart contracts is that "code is law." The blockchain's mathematical certainty governs the agreement, removing human error or bias.
 

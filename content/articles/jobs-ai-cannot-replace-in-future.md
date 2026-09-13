@@ -20,13 +20,9 @@ Jobs that are well-protected from automation typically fall into one of three ca
 
 1. **Creative and Strategic Thinking**: This encompasses generating truly original ideas rather than merely remixing existing concepts. It involves setting a vision and making intuitive leaps. For example, while AI can produce numerous variations of a song, it cannot replicate the emotional inspiration that drives a songwriter to create a meaningful piece.
 
-2.
+2. **Complex Interpersonal and Emotional Intelligence**: Roles in this category depend on empathy, trust, and specific human interactions. A therapist guiding a client through a challenging period, a manager motivating a team, or a nurse comforting a distressed patient all require a level of emotional understanding that AI cannot authentically simulate.
 
-**Complex Interpersonal and Emotional Intelligence**: Roles in this category depend on empathy, trust, and specific human interactions. A therapist guiding a client through a challenging period, a manager motivating a team, or a nurse comforting a distressed patient all require a level of emotional understanding that AI cannot authentically simulate.
-
-3.
-
-**Unpredictable Physical Environments**: Although robots perform well in controlled factory settings, they struggle in chaotic, real-world scenarios. For instance, a plumber addressing a unique leak in a confined space or an electrician diagnosing an old home's wiring requires dexterity and problem-solving abilities that current robots lack.
+3. **Unpredictable Physical Environments**: Although robots perform well in controlled factory settings, they struggle in chaotic, real-world scenarios. For instance, a plumber addressing a unique leak in a confined space or an electrician diagnosing an old home's wiring requires dexterity and problem-solving abilities that current robots lack.
 
 ### Human-Centric Careers with Lasting Demand
 
@@ -107,22 +103,12 @@ The future of work represents a collaboration between humans and machines. By ho
 
 ### Steps to Enhance Your Human Skills
 
-1.
+1. **Understand Core Principles**: Familiarize yourself with foundational concepts. This will guide your actions in this area.
 
-**Understand Core Principles**: Familiarize yourself with foundational concepts. This will guide your actions in this area.
+2. **Assess Your Current Situation**: Evaluate your strengths and weaknesses. Identify specific challenges you face, as understanding your baseline is critical for growth.
 
-2.
+3. **Develop a Personal Strategy**: Create a tailored plan. Consider your role, team dynamics, and personal ambitions when crafting your approach.
 
-**Assess Your Current Situation**: Evaluate your strengths and weaknesses. Identify specific challenges you face, as understanding your baseline is critical for growth.
+4. **Implement Changes Gradually**: Start with manageable adjustments. Monitor what works and what doesn't to enable sustainable improvement.
 
-3.
-
-**Develop a Personal Strategy**: Create a tailored plan. Consider your role, team dynamics, and personal ambitions when crafting your approach.
-
-4.
-
-**Implement Changes Gradually**: Start with manageable adjustments. Monitor what works and what doesn't to enable sustainable improvement.
-
-5.
-
-**Measure Progress and Adjust**: Regularly review your development. Adapt your strategies based on outcomes and feedback.
+5. **Measure Progress and Adjust**: Regularly review your development. Adapt your strategies based on outcomes and feedback.

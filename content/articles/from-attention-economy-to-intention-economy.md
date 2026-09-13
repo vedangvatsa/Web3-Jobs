@@ -20,21 +20,13 @@ In contrast, [Web3](/what-is-web3) introduces an alternative known as the
 
 Understanding the Intention Economy's potential requires an examination of the fundamental flaws in the existing system.
 
-1.
+1. **Misaligned Incentives**: In the attention economy, platforms prioritize maximizing ad revenue, which often contradicts users' goals of completing tasks efficiently. For example, recipe websites cluttered with ads prioritize keeping users on the page longer rather than helping them prepare meals.
 
-**Misaligned Incentives**: In the attention economy, platforms prioritize maximizing ad revenue, which often contradicts users' goals of completing tasks efficiently. For example, recipe websites cluttered with ads prioritize keeping users on the page longer rather than helping them prepare meals.
+2. **Data Exploitation**: Platforms extract significant value from personal data, such as search history and location, without adequately compensating users. This data serves as the backbone of their advertising strategies, turning users into resources for profit.
 
-2.
+3. **Centralized Control and Censorship**: A select few companies control the flow of information online. They can alter algorithms, shadowban creators, or de-platform users, effectively erasing their digital identities and voices.
 
-**Data Exploitation**: Platforms extract significant value from personal data, such as search history and location, without adequately compensating users. This data serves as the backbone of their advertising strategies, turning users into resources for profit.
-
-3.
-
-**Centralized Control and Censorship**: A select few companies control the flow of information online. They can alter algorithms, shadowban creators, or de-platform users, effectively erasing their digital identities and voices.
-
-4.
-
-**Race to the Bottom**: The focus on engagement metrics like clicks and shares often promotes sensational, misleading, or emotionally charged content rather than high-quality, factual information.
+4. **Race to the Bottom**: The focus on engagement metrics like clicks and shares often promotes sensational, misleading, or emotionally charged content rather than high-quality, factual information.
 
 ### The Core Principles of the Intention Economy
 
@@ -78,18 +70,10 @@ Several Web3 technologies enable the realization of the Intention Economy:
 
 For businesses, transitioning from the attention to the intention economy requires a fundamental change in strategy.
 
-1.
+1. **Shift to Service Provision**: Focus on fulfilling user intent rather than capturing data and selling ads. Your revenue will depend on delivering superior services at competitive prices.
 
-**Shift to Service Provision**: Focus on fulfilling user intent rather than capturing data and selling ads. Your revenue will depend on delivering superior services at competitive prices.
+2. **Use Open Protocols**: Build applications on open, interoperable protocols for identity and data management. The value lies in the services you offer, not the platforms you control.
 
-2.
+3. **Prioritize User Privacy**: Design applications with privacy as a foundational principle. Request only the data necessary to fulfill user intent, and provide users with granular control over their data.
 
-**Use Open Protocols**: Build applications on open, interoperable protocols for identity and data management. The value lies in the services you offer, not the platforms you control.
-
-3.
-
-**Prioritize User Privacy**: Design applications with privacy as a foundational principle. Request only the data necessary to fulfill user intent, and provide users with granular control over their data.
-
-4.
-
-**Accept Competition**: In the Intention Economy, users can easily switch providers. Consistently delivering high-quality products is essential for success.
+4. **Accept Competition**: In the Intention Economy, users can easily switch providers. Consistently delivering high-quality products is essential for success.

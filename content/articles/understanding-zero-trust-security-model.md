@@ -21,13 +21,9 @@ Three core principles guide the Zero Trust security model:
 
 1. **Verify Explicitly**: Each access request must undergo rigorous authentication and authorization using various data points. This includes the user's identity, their geographical location, the security status of their device, the application they wish to access, and the nature of the data involved. For instance, a user attempting to access sensitive information from an unknown location on a personal device would face stricter verification compared to a user accessing data from a corporate device in the office.
 
-2.
+2. **Use Least Privilege Access**: Users should only receive the minimum access rights necessary to fulfill their job functions. This principle, often referred to as "just-in-time" and "just-enough-access," reduces the potential impact of a compromised account. For example, instead of granting a user permanent access to a database, an organization might provide access exclusively during the time the user needs it to complete a specific task.
 
-**Use Least Privilege Access**: Users should only receive the minimum access rights necessary to fulfill their job functions. This principle, often referred to as "just-in-time" and "just-enough-access," reduces the potential impact of a compromised account. For example, instead of granting a user permanent access to a database, an organization might provide access exclusively during the time the user needs it to complete a specific task.
-
-3.
-
-**Assume Breach**: Organizations should operate under the assumption that breaches can and will occur. This mindset shifts the focus from solely preventing attacks to also detecting and responding to them rapidly. Organizations must continuously monitor their networks for unusual activities, segment the network to restrict lateral movement by potential attackers, and ensure all data is encrypted, whether at rest or in transit.
+3. **Assume Breach**: Organizations should operate under the assumption that breaches can and will occur. This mindset shifts the focus from solely preventing attacks to also detecting and responding to them rapidly. Organizations must continuously monitor their networks for unusual activities, segment the network to restrict lateral movement by potential attackers, and ensure all data is encrypted, whether at rest or in transit.
 
 ### Implementing Zero Trust
 
@@ -57,5 +53,7 @@ Not completely, but it alters their functions. Firewalls remain essential for bl
 
 #### 2. Will I have to constantly re-enter my password with Zero Trust?
 
-No. A well-structured Zero Trust system aims to minimize friction for legitimate users. While the system continuously verifies access in the background, it does not require users to take action frequently. For example, it may use passwordless authentication methods, such as biometrics, and only necessitate re-authentication if a user's risk profile changes, such as when accessing sensitive applications or moving to a new location.**3. Is Zero Trust only applicable to large enterprises?** 
+No. A well-structured Zero Trust system aims to minimize friction for legitimate users. While the system continuously verifies access in the background, it does not require users to take action frequently. For example, it may use passwordless authentication methods, such as biometrics, and only necessitate re-authentication if a user's risk profile changes, such as when accessing sensitive applications or moving to a new location.
+
+**3. Is Zero Trust only applicable to large enterprises?** 
 While large organizations have been early adopters, the principles of Zero Trust apply to businesses of all sizes. Many cloud-based security services now offer solutions that make it easier and more affordable for small and medium-sized enterprises to implement a Zero Trust strategy.

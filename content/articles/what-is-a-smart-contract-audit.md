@@ -23,29 +23,19 @@ Smart contract audits follow a structured methodology to guarantee thorough cove
 
 1. **Scoping and Preparation:** The project team provides the audit firm with the smart contracts to review and detailed documentation outlining the protocol's architecture, behavior, and economic model. Understanding the intended functionality is important for auditors to identify deviations.
 
-2.
+2. **Automated Analysis:** Auditors initiate the process by using automated tools. Static analysis tools examine the source code for known vulnerabilities, such as reentrancy bugs, integer overflows, or deprecated functions. This preliminary scan helps identify straightforward issues, allowing manual reviews to concentrate on more complex problems.
 
-**Automated Analysis:** Auditors initiate the process by using automated tools. Static analysis tools examine the source code for known vulnerabilities, such as reentrancy bugs, integer overflows, or deprecated functions. This preliminary scan helps identify straightforward issues, allowing manual reviews to concentrate on more complex problems.
-
-3.
-
-**Manual Code Review:** This phase is the most time-consuming and vital part of the audit. Security researchers analyze the codebase line by line, looking for bugs while also assessing the overall design, logic, and economic assumptions. They investigate issues like:
+3. **Manual Code Review:** This phase is the most time-consuming and vital part of the audit. Security researchers analyze the codebase line by line, looking for bugs while also assessing the overall design, logic, and economic assumptions. They investigate issues like:
  * **Access Control Flaws:** Are unauthorized users able to call privileged functions?
  * **Logic Errors:** Does the code accurately implement intended business logic across all scenarios?
  * **Economic Exploits:** Can economic incentives be manipulated through methods like flash loan attacks or oracle manipulation?
  * **Gas Optimization:** Is the code efficient enough to minimize transaction costs for users?
 
-4.
+4. **Finding Classification and Reporting:** As vulnerabilities are identified, they are categorized based on severity, often using a scale of Critical, High, Medium, Low, or Informational. The audit team compiles a report, which includes an executive summary, a technical breakdown of each finding, proof-of-concept demonstrations (if applicable), and actionable recommendations for addressing the issues.
 
-**Finding Classification and Reporting:** As vulnerabilities are identified, they are categorized based on severity, often using a scale of Critical, High, Medium, Low, or Informational. The audit team compiles a report, which includes an executive summary, a technical breakdown of each finding, proof-of-concept demonstrations (if applicable), and actionable recommendations for addressing the issues.
+5. **Remediation and Verification:** The development team examines the audit report and implements the suggested fixes. After making the changes, they resubmit the updated code for verification. Auditors confirm that vulnerabilities have been adequately addressed and that no new bugs have been introduced.
 
-5.
-
-**Remediation and Verification:** The development team examines the audit report and implements the suggested fixes. After making the changes, they resubmit the updated code for verification. Auditors confirm that vulnerabilities have been adequately addressed and that no new bugs have been introduced.
-
-6.
-
-**Final Report Publication:** Once the remediation process is complete, the final audit report is published. This public document signifies the project's commitment to security and allows users and investors to review the findings and the implemented fixes.
+6. **Final Report Publication:** Once the remediation process is complete, the final audit report is published. This public document signifies the project's commitment to security and allows users and investors to review the findings and the implemented fixes.
 
 ### Insights for Projects and Users
 
@@ -116,29 +106,17 @@ Below is a concise table outlining the smart contract audit process, including t
 
 Projects must prioritize their audit preparation to maximize outcomes:
 
-1.
-
-**Engage Early with Auditors:** Start discussions with audit firms during the development phase. Early engagement allows for feedback on design and implementation choices.
-2.
-
-**Conduct Internal Testing:** Before the audit, ensure that your testing suite is reliable and covers various scenarios. Internal testing can catch many issues before external auditors even begin their work.
-3.
-
-**Plan for Remediation Time:** Allocate time for addressing findings. Projects should not expect to fix issues overnight; some vulnerabilities may require significant code changes.
+1. **Engage Early with Auditors:** Start discussions with audit firms during the development phase. Early engagement allows for feedback on design and implementation choices.
+2. **Conduct Internal Testing:** Before the audit, ensure that your testing suite is reliable and covers various scenarios. Internal testing can catch many issues before external auditors even begin their work.
+3. **Plan for Remediation Time:** Allocate time for addressing findings. Projects should not expect to fix issues overnight; some vulnerabilities may require significant code changes.
 
 ### Best Practices for Users
 
 Users should approach audits with a critical eye:
 
-1.
-
-**Analyze Audit Reports Thoroughly:** Don't rely only on executive summaries. The details matter, particularly regarding how issues were resolved.
-2.
-
-**Evaluate the Audit Timeline:** Understand how long the audit took. A rushed audit may indicate insufficient scrutiny.
-3.
-
-**Research the Audit Firm:** Investigate the reputation and expertise of the audit firm. A firm with a proven track record in the industry can provide more reliable assessments.
+1. **Analyze Audit Reports Thoroughly:** Don't rely only on executive summaries. The details matter, particularly regarding how issues were resolved.
+2. **Evaluate the Audit Timeline:** Understand how long the audit took. A rushed audit may indicate insufficient scrutiny.
+3. **Research the Audit Firm:** Investigate the reputation and expertise of the audit firm. A firm with a proven track record in the industry can provide more reliable assessments.
 
 ### The Role of Continuous Improvement
 

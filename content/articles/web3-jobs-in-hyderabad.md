@@ -67,23 +67,15 @@ The Web3 job market in Hyderabad is experiencing rapid growth, with salaries ref
 
 To establish a successful career in Web3, consider the following strategies:
 
-1.
+1. **Use Enterprise Tech Experience**: Experience in large tech companies can be a strong asset. Highlight your expertise in developing scalable and secure software, which is highly valued by R&D centers and enterprise blockchain initiatives in the city.
 
-**Use Enterprise Tech Experience**: Experience in large tech companies can be a strong asset. Highlight your expertise in developing scalable and secure software, which is highly valued by R&D centers and enterprise blockchain initiatives in the city.
+2. **Engage with T-Hub**: T-Hub serves as the nucleus of Hyderabad's startup ecosystem. Participate in their events, join accelerator programs, and network with startups to discover early-stage opportunities.
 
-2.
-
-**Engage with T-Hub**: T-Hub serves as the nucleus of Hyderabad's startup ecosystem. Participate in their events, join accelerator programs, and network with startups to discover early-stage opportunities.
-
-3.
-
-**Connect with the Developer Community**:
+3. **Connect with the Developer Community**:
  - **Attend Meetups**: Participate in local meetups focused on [Ethereum](/what-is-ethereum), Hyperledger, and Web3 to learn and network with fellow developers.
  - **Participate in Workshops**: Take advantage of workshops organized by local communities and the government to enhance your skills and expand your network.
 
-4.
-
-**Focus on Practical Applications**: The Hyderabad ecosystem prioritizes real-world use cases. In your [portfolio](/building-web3-portfolio) and interviews, emphasize how blockchain can address practical challenges in sectors such as finance, supply chain, or digital identity.
+4. **Focus on Practical Applications**: The Hyderabad ecosystem prioritizes real-world use cases. In your [portfolio](/building-web3-portfolio) and interviews, emphasize how blockchain can address practical challenges in sectors such as finance, supply chain, or digital identity.
 
 ### Finding Your Next Web3 Job
 

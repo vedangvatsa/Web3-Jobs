@@ -65,7 +65,7 @@ The StableSwap invariant merges the benefits of both the constant sum and consta
 
 >**The StableSwap invariant functions like a constant sum formula when the pool is balanced, then transitions to a constant product formula as the pool becomes imbalanced.**
 
-- **-** When Balanced**: In a USDC/DAI pool, when the amounts of USDC and DAI are approximately equal, the curve is nearly flat, resembling the `x + y = k` line. This configuration allows for significant trades with minimal slippage.
+- When Balanced**: In a USDC/DAI pool, when the amounts of USDC and DAI are approximately equal, the curve is nearly flat, resembling the `x + y = k` line. This configuration allows for significant trades with minimal slippage.
 - **When Imbalanced**: If one asset begins to de-peg, causing an imbalance, the formula's "amplification" effect diminishes. The curve starts bending, behaving more like the `x * y = k` hyperbola. This adjustment ensures that the pool maintains liquidity, preventing total depletion and protecting liquidity providers.
 
 #### The Amplification Parameter (A)

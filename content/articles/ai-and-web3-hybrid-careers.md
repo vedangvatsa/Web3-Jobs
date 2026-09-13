@@ -81,15 +81,11 @@ Traditional Product Managers collect user feedback to guide product development.
 
 Entering this hybrid field requires a proactive, multidisciplinary approach to skill development.
 
-1.
-
-**Strengthen Your Foundation:**
+1. **Strengthen Your Foundation:**
  * **For those with an AI background:** Learn Web3 fundamentals. Understand how [Ethereum](/what-is-ethereum) operates and familiarize yourself with Solidity by developing a basic dApp. Grasp core concepts of public key cryptography, smart contracts, and gas fees. This knowledge will help you understand the constraints and capabilities of the on-chain environment.
  * **For those with a Web3 background:** Develop a practical understanding of AI. While a PhD is not necessary, completing introductory courses on machine learning, such as Andrew Ng's courses on Coursera, is beneficial. Learn Python and become comfortable with libraries like PyTorch and Pandas. This will enable you to communicate effectively in the AI domain and recognize its possibilities and limitations.
 
-2.
-
-**Build a Hybrid Project:** The most effective way to showcase your skills is through practical application.
+2. **Build a Hybrid Project:** The most effective way to showcase your skills is through practical application.
  * Create a dApp that incorporates a machine learning model as one of its features.
  * Develop a Dune Analytics dashboard employing statistical analysis to reveal non-obvious trends.
  * Attempt to replicate a ZKML research paper by implementing a simplified version of the circuit.

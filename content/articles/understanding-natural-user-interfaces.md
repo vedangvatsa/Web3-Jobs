@@ -66,5 +66,7 @@ Yes, in many respects. A command-line interface requires users to learn specific
 
 #### 2. What challenges exist in designing a voice user interface (VUI)?
 
-A significant challenge is discoverability. Unlike a graphical interface that visually presents options, a voice interface relies on users knowing applicable commands. Effective VUI design must guide users in discovering available functionalities while managing errors and misunderstandings.**3. Are NUIs always superior to GUIs?** 
+A significant challenge is discoverability. Unlike a graphical interface that visually presents options, a voice interface relies on users knowing applicable commands. Effective VUI design must guide users in discovering available functionalities while managing errors and misunderstandings.
+
+**3. Are NUIs always superior to GUIs?** 
 Not necessarily. The optimal interface depends on the task at hand. For precise, repetitive tasks like graphic design or coding, traditional GUIs often prove more efficient. NUIs excel in exploratory or immersive scenarios. The future likely involves a blend of interface types, allowing users to select the most appropriate one for specific tasks.

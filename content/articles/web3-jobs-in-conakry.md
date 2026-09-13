@@ -50,15 +50,9 @@ Developers, particularly full-stack and blockchain developers, occupy the most l
 ### Steps to Build a Web3 Career in Conakry
 
 1. **Develop Globally Competitive Skills**: Focus on acquiring skills that enhance your employability for remote positions. Software developers should master their chosen tech stack and work on building a strong portfolio.
-2.
-
-**Specialize in Supply Chain and Enterprise Use Cases**: Emphasize how blockchain can enhance Guinea's mining and logistics sectors. Create proof-of-concept projects, such as a bauxite tracking system, to demonstrate your expertise.
-3.
-
-**Become a Community Organizer**: The local ecosystem needs leadership. Initiate a Web3 developer meetup in Conakry. Establish a Telegram or WhatsApp group for sharing resources and ideas.
-4.
-
-**Engage with the Pan-African Francophone Network**: Participate in online communities with professionals from Senegal, Ivory Coast, and Cameroon. This network is essential for mentorship and discovering remote job opportunities.
+2. **Specialize in Supply Chain and Enterprise Use Cases**: Emphasize how blockchain can enhance Guinea's mining and logistics sectors. Create proof-of-concept projects, such as a bauxite tracking system, to demonstrate your expertise.
+3. **Become a Community Organizer**: The local ecosystem needs leadership. Initiate a Web3 developer meetup in Conakry. Establish a Telegram or WhatsApp group for sharing resources and ideas.
+4. **Engage with the Pan-African Francophone Network**: Participate in online communities with professionals from Senegal, Ivory Coast, and Cameroon. This network is essential for mentorship and discovering remote job opportunities.
 
 ### Finding a Web3 Job
 
@@ -150,21 +144,11 @@ Conakry's French-speaking environment connects you to an advantageous network.
 
 ### Using Connections
 
-1.
-
-**Travel Regularly**: Plan trips to Dakar or Abidjan for networking and attending conferences.
-2.
-
-**Join Online Communities**: Engage with French-speaking Web3 groups on platforms like Telegram and Discord.
-3.
-
-**Seek Mentorship**: Connect with mentors from more developed hubs who can assist in your career growth.
-4.
-
-**Collaborate**: Work with developers and entrepreneurs from other Francophone countries on projects.
-5.
-
-**Establish Thought Leadership**: Position yourself as a voice connecting Francophone West Africa's development to global Web3 trends.
+1. **Travel Regularly**: Plan trips to Dakar or Abidjan for networking and attending conferences.
+2. **Join Online Communities**: Engage with French-speaking Web3 groups on platforms like Telegram and Discord.
+3. **Seek Mentorship**: Connect with mentors from more developed hubs who can assist in your career growth.
+4. **Collaborate**: Work with developers and entrepreneurs from other Francophone countries on projects.
+5. **Establish Thought Leadership**: Position yourself as a voice connecting Francophone West Africa's development to global Web3 trends.
 
 ## Financial Inclusion for the Unbanked
 
@@ -206,21 +190,11 @@ Government support is vital for influencing Guinea's Web3 trajectory.
 
 ### Strategy for Government Engagement
 
-1.
-
-**Educate**: Create reports and hold briefings that communicate blockchain benefits in accessible terms.
-2.
-
-**Demonstrate**: Develop prototypes that showcase how blockchain technology addresses real governmental issues.
-3.
-
-**Highlight Success Stories**: Share examples of blockchain use in other African countries, such as Senegal's digital currency pilot.
-4.
-
-**Partner with Development Banks**: Collaborate with organizations like the World Bank or the African Development Bank, as their endorsements can significantly influence adoption.
-5.
-
-**Economic Incentives**: Illustrate how blockchain could enhance mining revenues, generate employment, and attract foreign investment.
+1. **Educate**: Create reports and hold briefings that communicate blockchain benefits in accessible terms.
+2. **Demonstrate**: Develop prototypes that showcase how blockchain technology addresses real governmental issues.
+3. **Highlight Success Stories**: Share examples of blockchain use in other African countries, such as Senegal's digital currency pilot.
+4. **Partner with Development Banks**: Collaborate with organizations like the World Bank or the African Development Bank, as their endorsements can significantly influence adoption.
+5. **Economic Incentives**: Illustrate how blockchain could enhance mining revenues, generate employment, and attract foreign investment.
 
 ## The Remote Work Path
 

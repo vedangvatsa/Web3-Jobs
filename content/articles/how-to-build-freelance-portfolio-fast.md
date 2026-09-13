@@ -29,7 +29,7 @@ While providing services for free can undermine your value, offering a substanti
 
 **Implementation Steps:**
 
-- **-** Clarify the Terms:**Clearly communicate that this offer is a one-time opportunity to help you build your portfolio.
+- Clarify the Terms:**Clearly communicate that this offer is a one-time opportunity to help you build your portfolio.
 - **Select Ideal Clients:** Target small businesses, non-profit organizations, or individuals whose projects align with your career goals and desired work style.
 - **Request Testimonials:** After completing the project, ask for a detailed testimonial that you can feature on your website.
 
@@ -41,7 +41,7 @@ Partnering with freelancers who possess complementary skills can enhance your po
 
 **Collaboration Benefits:**
 
-- **-** Ambitious Projects:**Collaborating allows you to tackle larger, more complex projects.
+- Ambitious Projects:**Collaborating allows you to tackle larger, more complex projects.
 - **Networking Opportunities:** Building relationships with peers can lead to client referrals and future collaborations.
 - **Skill Development:** You can learn from one another's expertise and processes, enhancing your skill set.
 
@@ -53,7 +53,7 @@ For developers, contributing to open-source projects on platforms like GitHub is
 
 **Benefits of Open-Source Contributions:**
 
-- **-** Real-World Experience:**This work demonstrates your ability to engage with complex codebases alongside other developers.
+- Real-World Experience:**This work demonstrates your ability to engage with complex codebases alongside other developers.
 - **Visibility:** Your contributions are publicly accessible, providing proof of your skills.
 - **Networking:** Engaging with open-source projects helps you connect with talented developers and potential employers.
 

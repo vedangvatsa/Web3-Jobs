@@ -44,31 +44,23 @@ Currently, Bissau lacks a formal job market for Web3 positions. Career opportuni
 
 ### Building a Web3 Career in Bissau
 
-1.
+1. **Acquire Global Remote Skills:** Focus on developing a skillset that is competitive globally. Developers should cultivate a strong GitHub [portfolio](/building-web3-portfolio). Non-technical roles should emphasize excellent English communication and maintain a public portfolio showcasing work, such as writing or analysis.
 
-**Acquire Global Remote Skills:** Focus on developing a skillset that is competitive globally. Developers should cultivate a strong GitHub [portfolio](/building-web3-portfolio). Non-technical roles should emphasize excellent English communication and maintain a public portfolio showcasing work, such as writing or analysis.
+2. **Specialize in "Web3 for Good":** Gain expertise in the social impact applications of blockchain technology. Research successful use cases in other developing countries, focusing on financial inclusion or supply chain transparency. This specialization will enhance your value to NGOs and impact-driven projects.
 
-2.
+3. **Become a Community Leader:** In emerging markets, teaching can position you as a leader. Establish a study group in Bissau, create a WhatsApp group for local enthusiasts, or translate important crypto articles into Portuguese Creole. Such initiatives will help you become a central figure in the developing ecosystem.
 
-**Specialize in "Web3 for Good":** Gain expertise in the social impact applications of blockchain technology. Research successful use cases in other developing countries, focusing on financial inclusion or supply chain transparency. This specialization will enhance your value to NGOs and impact-driven projects.
-
-3.
-
-**Become a Community Leader:** In emerging markets, teaching can position you as a leader. Establish a study group in Bissau, create a WhatsApp group for local enthusiasts, or translate important crypto articles into Portuguese Creole. Such initiatives will help you become a central figure in the developing ecosystem.
-
-4.
-
-**Engage with Lusophone and Pan-African Communities:** Participate actively in online Web3 communities across Brazil, Portugal, and other African nations. These networks provide vital support, knowledge, and job opportunities.
+4. **Engage with Lusophone and Pan-African Communities:** Participate actively in online Web3 communities across Brazil, Portugal, and other African nations. These networks provide vital support, knowledge, and job opportunities.
 
 ### Salary Expectations: What You Can Earn
 
 **Developer Roles:**
 
-- **-** Junior Web3 Developer (0-1 year):**Significant monthly compensation (remote)
+- Junior Web3 Developer (0-1 year):**Significant monthly compensation (remote)
 - **Mid-Level Developer (1-3 years):** Significant monthly compensation (remote)
 - **Senior Developer (3+ years):** Significant monthly compensation (remote) **Impact & Consulting Roles:**
 
-- **-** Impact Project Manager:**Significant monthly compensation (contract)
+- Impact Project Manager:**Significant monthly compensation (contract)
 - **Development Consultant:** Hourly rates vary
 - **Education/Community Manager:** Significant monthly compensation (remote) **Opportunities in Lisbon/Portugal:** Consider relocating to Lisbon, where Web3 salaries are generally higher for mid-level positions. Being a Portuguese speaker provides a competitive advantage in Lusophone Web3 projects.
 
@@ -100,7 +92,7 @@ You can expect to save a significant portion of your income, allowing for invest
 
 **Path 1: Specialized Developer (8-14 months to full-time role)**
 
-- **-** Months 1-3: Foundation & Exposure
+- Months 1-3: Foundation & Exposure
 
 **Study blockchain fundamentals, complete the Cryptozombies Solidity course, and establish a GitHub presence. Dedicate time weekly and aim for projects demonstrating blockchain basics.
 
@@ -116,7 +108,7 @@ You can expect to save a significant portion of your income, allowing for invest
 
 **Develop expertise through real projects and open-source contributions. Anticipate salary growth by the end of this phase.** Path 2: Impact-Focused Consultant (10-18 months)**
 
-- **-** Months 1-4: Research Phase
+- Months 1-4: Research Phase
 
 **Investigate how blockchain addresses Guinea-Bissau's specific challenges. Network with organizations in the development sector and interview professionals for insights.
 
@@ -132,7 +124,7 @@ You can expect to save a significant portion of your income, allowing for invest
 
 **Build a small team and launch a pilot program. Expected salaries can vary depending on the success of the project.** Path 3: Educator & Community Builder (6-12 months)**
 
-- **-** Months 1-2: Content & Community Setup
+- Months 1-2: Content & Community Setup
 
 **Choose a niche and create a content plan. Establish your online presence and platforms for community engagement.
 

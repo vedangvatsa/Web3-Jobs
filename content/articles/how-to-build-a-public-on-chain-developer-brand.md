@@ -135,25 +135,15 @@ The importance of these skills grows at each career level:
 
 ## Common Development Mistakes
 
-1.
+1. **Studying Without Doing** Theory without practice fails to stick. Focus on building projects rather than just accumulating knowledge.
 
-**Studying Without Doing** Theory without practice fails to stick. Focus on building projects rather than just accumulating knowledge.
+2. **Neglecting Soft Skills** While technical talent is common, soft skills are rare. Invest significant time in developing these.
 
-2.
+3. **Not Getting Feedback** Blind spots hinder improvement. Seek feedback from mentors and colleagues to gain insights.
 
-**Neglecting Soft Skills** While technical talent is common, soft skills are rare. Invest significant time in developing these.
+4. **Comparing to Others** Skill development is a unique journey. Concentrate on your own progress.
 
-3.
-
-**Not Getting Feedback** Blind spots hinder improvement. Seek feedback from mentors and colleagues to gain insights.
-
-4.
-
-**Comparing to Others** Skill development is a unique journey. Concentrate on your own progress.
-
-5.
-
-**Expecting Quick Mastery** Genuine skill development takes time. adopt the process.
+5. **Expecting Quick Mastery** Genuine skill development takes time. adopt the process.
 
 ## Resources for Continued Learning
 

@@ -16,30 +16,19 @@ You've built your [portfolio](/building-web3-portfolio), honed your skills, and 
 ## Part 1: Foundational & Cultural Questions (For All Roles)
 
 Every Web3 interview begins with questions aimed at assessing your enthusiasm and basic understanding of the field. Your responses here will set the tone for the entire discussion.
-
-1. 
-
-#### What's your "rabbit hole" story? Why are you passionate about Web3?
+1. #### What's your "rabbit hole" story? Why are you passionate about Web3?
 
 Share a personal experience that illustrates your genuine curiosity about the space beyond financial motivations.
-2.
-
-#### Explain the [blockchain](/what-is-a-blockchain) trilemma. Which aspect do you think is most important to sacrifice for mainstream adoption?
+2. #### Explain the [blockchain](/what-is-a-blockchain) trilemma. Which aspect do you think is most important to sacrifice for mainstream adoption?
 
 This question evaluates your understanding of blockchain fundamentals. While there is no single correct answer, your ability to defend your viewpoint is important.
-3.
-
-#### What's a Web3 project you admire and why? What's one you dislike and why?
+3. #### What's a Web3 project you admire and why? What's one you dislike and why?
 
 Provide specific insights, discussing aspects such as tokenomics, governance models, or technical architecture.
-4.
-
-#### What are the biggest challenges facing Web3 adoption today?
+4. #### What are the biggest challenges facing Web3 adoption today?
 
 Demonstrate critical thinking. Common challenges include user experience (UX), scalability, and regulatory uncertainties. Choose one and elaborate.
-5.
-
-**How do you stay informed about developments in the fast-moving Web3 space?** Mention specific Twitter accounts, podcasts, newsletters, or blogs that you follow to showcase your commitment to ongoing learning.
+5. **How do you stay informed about developments in the fast-moving Web3 space?** Mention specific Twitter accounts, podcasts, newsletters, or blogs that you follow to showcase your commitment to ongoing learning.
 
 ## Part 2: Questions for Smart Contract Developers
 

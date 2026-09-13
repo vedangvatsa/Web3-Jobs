@@ -93,22 +93,14 @@ The demand for Web3 talent in Australia remains strong, particularly for experie
 
 ### Strategies for Securing a Web3 Job in Australia
 
-1.
-
-**Engage with Local Communities**: Networking is important in the Web3 space.
+1. **Engage with Local Communities**: Networking is important in the Web3 space.
  - **Meetups**: Attend blockchain and crypto meetups in Sydney and Melbourne to connect with founders and hiring managers.
  - **Online Presence**: Follow Australian Web3 leaders, VCs, and projects on social media platforms like Twitter and Farcaster. Join relevant Discord and Telegram channels.
 
-2.
-
-**Build a Strong Portfolio**: In Web3, your work speaks louder than your resume.
+2. **Build a Strong Portfolio**: In Web3, your work speaks louder than your resume.
  - **For Developers**: Maintain an active GitHub profile showcasing personal projects, such as a simple NFT contract or a DeFi dApp. Contributing to open-source Web3 projects adds significant value.
  - **For Non-Technical Roles**: Share insights through blogs or create analytical content, such as a Dune Analytics dashboard tracking Australian NFT collections.
 
-3.
+3. **Network at Major Events**: Australia hosts several blockchain conferences yearly, such as the Australian Crypto Convention and Blockchain Week. Attending these events allows you to immerse yourself in the ecosystem and establish key connections.
 
-**Network at Major Events**: Australia hosts several blockchain conferences yearly, such as the Australian Crypto Convention and Blockchain Week. Attending these events allows you to immerse yourself in the ecosystem and establish key connections.
-
-4.
-
-**Target Both Local and Remote Roles**: While the Australian job market is strong, many top opportunities exist with global, remote-first companies. Expand your search beyond local roles to maximize your options.
+4. **Target Both Local and Remote Roles**: While the Australian job market is strong, many top opportunities exist with global, remote-first companies. Expand your search beyond local roles to maximize your options.

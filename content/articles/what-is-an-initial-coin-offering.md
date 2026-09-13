@@ -19,21 +19,11 @@ The ICO boom of 2017 marked a significant period for the cryptocurrency sector. 
 
 The traditional ICO model from 2017 typically adhered to these steps:
 
-1.
-
-**The Whitepaper:** The project team published a **[whitepaper](/what-is-a-whitepaper-in-blockchain-projects)** detailing the project's vision, technology, and token structure, often referred to as "tokenomics."
-2.
-
-**The Token Sale:** The team announced the token sale's specifics, including the token price, usually denominated in [Bitcoin](/what-is-bitcoin) (BTC) or [Ethereum](/what-is-ethereum) (ETH), and the total capital goal.
-3.
-
-**The Investment:** Interested investors sent BTC or ETH to a designated [smart contract](/what-are-smart-contracts) address provided by the project.
-4.
-
-**Token Distribution:** In return, the smart contract automatically distributed the corresponding amount of new project tokens to the investors' [wallet](/how-to-choose-a-crypto-wallet).
-5.
-
-**Post-ICO:** After the sale, the project used the raised funds to develop its product. Investors had to wait for the tokens to be listed on a cryptocurrency exchange before trading.
+1. **The Whitepaper:** The project team published a **[whitepaper](/what-is-a-whitepaper-in-blockchain-projects)** detailing the project's vision, technology, and token structure, often referred to as "tokenomics."
+2. **The Token Sale:** The team announced the token sale's specifics, including the token price, usually denominated in [Bitcoin](/what-is-bitcoin) (BTC) or [Ethereum](/what-is-ethereum) (ETH), and the total capital goal.
+3. **The Investment:** Interested investors sent BTC or ETH to a designated [smart contract](/what-are-smart-contracts) address provided by the project.
+4. **Token Distribution:** In return, the smart contract automatically distributed the corresponding amount of new project tokens to the investors' [wallet](/how-to-choose-a-crypto-wallet).
+5. **Post-ICO:** After the sale, the project used the raised funds to develop its product. Investors had to wait for the tokens to be listed on a cryptocurrency exchange before trading.
 
 ### Challenges and Risks in the ICO Model
 
@@ -50,12 +40,8 @@ The shortcomings of the ICO model prompted the creation of improved token launch
 
 An IDO involves launching a token directly on a Decentralized Exchange (DEX), addressing two significant issues of the ICO:
 
-1.
-
-**Immediate Liquidity:** Tokens launched via a liquidity pool on a DEX are tradable from day one.
-2.
-
-**Permissionless Access:** Anyone can establish a market for their token on a DEX without the complex and expensive process of securing a listing on a centralized exchange.
+1. **Immediate Liquidity:** Tokens launched via a liquidity pool on a DEX are tradable from day one.
+2. **Permissionless Access:** Anyone can establish a market for their token on a DEX without the complex and expensive process of securing a listing on a centralized exchange.
 
 While "ICO" has become more of a historical reference, its impact remains significant. It illustrated the feasibility of a global, permissionless, and internet-native fundraising model. The lessons learned from the ICO boom have directly influenced the development of more mature and sustainable token launch mechanisms within the [Web3](/what-is-web3) ecosystem today.
 

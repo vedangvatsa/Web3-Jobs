@@ -47,12 +47,8 @@ Imagine you are a product manager aiming to join a [DeFi](/what-is-defi) protoco
 **Use the following structure for your outreach message:
 
 1. **Opening:** A concise compliment that shows you've done your homework.
-2.
-
-**The "Value Nugget":** Your specific, insightful recommendation.
-3.
-
-**The "Soft Ask":** A low-pressure, open-ended question that invites dialogue.
+2. **The "Value Nugget":** Your specific, insightful recommendation.
+3. **The "Soft Ask":** A low-pressure, open-ended question that invites dialogue.
 
 **Example of an Effective Cold DM **>** Subject:**Quick thought on AcmeFi staking flow
 >

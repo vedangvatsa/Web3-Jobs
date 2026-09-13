@@ -32,18 +32,12 @@ A successful partnership strategy is not a series of random conversations; it is
 
 Before forging partnerships, you need a thorough understanding of your environment.
 
-1.
-
-**Define Your Vertical:** Identify your primary focus area. Are you involved in [DeFi](/what-is-defi), gaming, an [NFT](/what-are-nfts) marketplace, or providing infrastructure?
-2.
-
-**Map Your Ecosystem:** Create a detailed map of all projects within your vertical. This should include:
+1. **Define Your Vertical:** Identify your primary focus area. Are you involved in [DeFi](/what-is-defi), gaming, an [NFT](/what-are-nfts) marketplace, or providing infrastructure?
+2. **Map Your Ecosystem:** Create a detailed map of all projects within your vertical. This should include:
  - **Direct Competitors:** Identify those building similar products.
  - **Adjacent Protocols:** Find projects that complement your offerings. For instance, if you're a [DEX](/what-is-a-decentralized-exchange-dex), look for lending protocols, stablecoins, and yield aggregators.
  - **Infrastructure Layers:** List essential L1s, L2s, oracles, and [wallet](/how-to-choose-a-crypto-wallet) providers relevant to your vertical.
-3.
-
-**Develop a Partnership Thesis:** Based on your ecosystem map, create a clear thesis. What types of integrations will deliver the most value for your users and your protocol? For example, a new DEX might identify that integrating with leading yield aggregators is important for sustainable liquidity.
+3. **Develop a Partnership Thesis:** Based on your ecosystem map, create a clear thesis. What types of integrations will deliver the most value for your users and your protocol? For example, a new DEX might identify that integrating with leading yield aggregators is important for sustainable liquidity.
 
 **Practical Insight:** Use tools like DeFiLlama, on-chain analytics, and industry reports to build a data-driven map. Your thesis should rely on concrete data rather than intuition.
 
@@ -51,46 +45,26 @@ Before forging partnerships, you need a thorough understanding of your environme
 
 With a map and thesis in hand, identify potential partners.
 
-1.
-
-**Create a Target List:** List the top 20-30 projects that align with your thesis, prioritizing them based on potential impact.
-2.
-
-**Identify Key Contacts:** Find the appropriate individual to approach at each project. This is typically not the CEO but rather someone in BizDev, product management, or engineering. Use platforms like Twitter, LinkedIn, and your network for connections.
-3.
-
-**Use Warm Introductions:** A warm introduction from a mutual contact can significantly enhance your chances. This is where your network becomes a valuable asset.
-4.
-
-**Master Cold Outreach:** If introductions are unavailable, refine your cold outreach skills. Your initial message should offer value. Do not simply request a meeting; instead, share a specific observation about their project and a proposal for collaboration.
+1. **Create a Target List:** List the top 20-30 projects that align with your thesis, prioritizing them based on potential impact.
+2. **Identify Key Contacts:** Find the appropriate individual to approach at each project. This is typically not the CEO but rather someone in BizDev, product management, or engineering. Use platforms like Twitter, LinkedIn, and your network for connections.
+3. **Use Warm Introductions:** A warm introduction from a mutual contact can significantly enhance your chances. This is where your network becomes a valuable asset.
+4. **Master Cold Outreach:** If introductions are unavailable, refine your cold outreach skills. Your initial message should offer value. Do not simply request a meeting; instead, share a specific observation about their project and a proposal for collaboration.
 
 #### Phase 3: The Pitch and Negotiation
 
 This phase centers on presenting your case effectively.
 
-1.
-
-**Address Their Needs:** Your pitch should focus entirely on how your integration benefits their ecosystem. Discuss how it can enhance their product, attract users, or increase revenue.
-2.
-
-**Present a Clear Proposal:** Come prepared with a specific integration plan. Instead of saying, "We should partner," articulate, "We propose allowing your users to [stake](/how-to-become-a-web3-staking-specialist) their LP [tokens](/what-is-a-token) in our protocol for additional yield. Here's how the [smart contracts](/what-are-smart-contracts) would interact, along with a co-marketing strategy for the integration."
-3.
-
-**Be Open to Negotiation:** Aim for a win-win outcome. Be flexible regarding details like fee splits, technical implementation, and marketing commitments. A successful partnership creates a sense of mutual benefit.
+1. **Address Their Needs:** Your pitch should focus entirely on how your integration benefits their ecosystem. Discuss how it can enhance their product, attract users, or increase revenue.
+2. **Present a Clear Proposal:** Come prepared with a specific integration plan. Instead of saying, "We should partner," articulate, "We propose allowing your users to [stake](/how-to-become-a-web3-staking-specialist) their LP [tokens](/what-is-a-token) in our protocol for additional yield. Here's how the [smart contracts](/what-are-smart-contracts) would interact, along with a co-marketing strategy for the integration."
+3. **Be Open to Negotiation:** Aim for a win-win outcome. Be flexible regarding details like fee splits, technical implementation, and marketing commitments. A successful partnership creates a sense of mutual benefit.
 
 #### Phase 4: Execution and Relationship Management
 
 Finalizing a deal marks the beginning of your work.
 
-1.
-
-**Project Management:** The BizDev professional must act as the internal project manager, coordinating between your engineering team and the partner's team to ensure smooth and timely integration.
-2.
-
-**Co-Marketing Initiatives:** Collaborate with both marketing teams to plan a joint announcement. This might involve a shared blog post, a Twitter Spaces AMA, and synchronized social media campaigns.
-3.
-
-**Nurture Relationships:** Treat this partnership as a long-term relationship. Schedule regular check-ins, share success metrics from the integration, and continue exploring new ways to collaborate.
+1. **Project Management:** The BizDev professional must act as the internal project manager, coordinating between your engineering team and the partner's team to ensure smooth and timely integration.
+2. **Co-Marketing Initiatives:** Collaborate with both marketing teams to plan a joint announcement. This might involve a shared blog post, a Twitter Spaces AMA, and synchronized social media campaigns.
+3. **Nurture Relationships:** Treat this partnership as a long-term relationship. Schedule regular check-ins, share success metrics from the integration, and continue exploring new ways to collaborate.
 
 ### Insights for Aspiring BizDev Professionals
 

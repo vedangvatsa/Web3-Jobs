@@ -25,13 +25,9 @@ The most frequently referenced metric for developer activity is the number of "m
 
 1. **Overweighting Newcomers:** This metric treats a novice developer making their first "hello world" commit the same as a seasoned protocol engineer. During bull markets, a surge of hobbyists can inflate these numbers, and their exit during a bear market can make the decline seem more severe than it is.
 
-2.
+2. **Ignoring Quality and Impact:** One hundred minor bug fixes do not equate to a single major protocol upgrade. Raw commit counts fail to distinguish between low-impact and high-impact contributions.
 
-**Ignoring Quality and Impact:** One hundred minor bug fixes do not equate to a single major protocol upgrade. Raw commit counts fail to distinguish between low-impact and high-impact contributions.
-
-3.
-
-**Rise of Private Repositories:** As the Web3 sector matures, more development occurs in private repositories, particularly for security-sensitive projects or those with proprietary off-chain components. This "dark matter" of developer activity remains invisible to public data trackers.
+3. **Rise of Private Repositories:** As the Web3 sector matures, more development occurs in private repositories, particularly for security-sensitive projects or those with proprietary off-chain components. This "dark matter" of developer activity remains invisible to public data trackers.
 
 ### Trend 1: Consolidation Around Major Ecosystems
 

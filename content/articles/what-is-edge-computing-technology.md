@@ -72,5 +72,7 @@ IoT comprises interconnected physical devices, while edge computing provides the
 
 #### 3. What distinguishes edge AI from traditional AI?
 
-Edge AI involves executing AI and machine learning models directly on edge devices. This practice employs highly efficient models designed to operate on hardware with limited resources, such as smartphones or sensors. The objective is to enable AI decision-making at the data generation point.**4. What is the connection between 5G and edge computing?**[5G network technology](/what-is-5g-network-technology) complements edge computing by providing high-speed, low-latency wireless connectivity for a vast number of edge devices. This collaboration enables advanced real-time applications, including connected vehicles and augmented reality experiences.** 5. What is a "cloudlet"?**
+Edge AI involves executing AI and machine learning models directly on edge devices. This practice employs highly efficient models designed to operate on hardware with limited resources, such as smartphones or sensors. The objective is to enable AI decision-making at the data generation point.
+
+**4. What is the connection between 5G and edge computing?**[5G network technology](/what-is-5g-network-technology) complements edge computing by providing high-speed, low-latency wireless connectivity for a vast number of edge devices. This collaboration enables advanced real-time applications, including connected vehicles and augmented reality experiences.** 5. What is a "cloudlet"?**
 A cloudlet represents a small-scale, localized data center positioned at the network's edge. This concept aligns with the Regional Edge layer of the architecture, serving as a bridge between local edge servers and centralized cloud facilities.

@@ -42,41 +42,25 @@ Understanding the various components that comprise the DeFi ecosystem is critica
 
 ## Key Job Roles in Decentralized Finance
 
-1.
+1. **Smart Contract Engineer (DeFi Focus)**: This role is highly sought after. Smart contract engineers design the financial logic of DeFi protocols. Proficiency in [Solidity](/best-programming-languages-for-blockchain-development) and a solid understanding of financial security are essential.
 
-**Smart Contract Engineer (DeFi Focus)**: This role is highly sought after. Smart contract engineers design the financial logic of DeFi protocols. Proficiency in [Solidity](/best-programming-languages-for-blockchain-development) and a solid understanding of financial security are essential.
+2. **Quantitative Analyst ("Quant")**: Quants model the financial risks and incentives within complex economic systems. A strong foundation in mathematics, statistics, and financial modeling is critical for success.
 
-2.
+3. **Protocol Researcher**: These professionals explore theoretical innovations in DeFi, contributing to the design of new financial mechanisms.
 
-**Quantitative Analyst ("Quant")**: Quants model the financial risks and incentives within complex economic systems. A strong foundation in mathematics, statistics, and financial modeling is critical for success.
+4. **Security Auditor (DeFi Specialization)**: Security auditors are specialists who identify vulnerabilities in financial smart contracts, ensuring the integrity and security of protocols.
 
-3.
-
-**Protocol Researcher**: These professionals explore theoretical innovations in DeFi, contributing to the design of new financial mechanisms.
-
-4.
-
-**Security Auditor (DeFi Specialization)**: Security auditors are specialists who identify vulnerabilities in financial smart contracts, ensuring the integrity and security of protocols.
-
-5.
-
-**Product Manager (DeFi)**: Product managers translate complex backend systems into intuitive user experiences for traders and liquidity providers.
+5. **Product Manager (DeFi)**: Product managers translate complex backend systems into intuitive user experiences for traders and liquidity providers.
 
 ## Steps to Launch Your DeFi Career
 
 Entering the DeFi sector presents challenges, primarily due to the steep learning curve.
 
-1.
+1. **Immerse Yourself (Become a "Degen")**: Start by becoming an active user. Set up a [wallet](/how-to-choose-a-crypto-wallet), execute a swap on a [DEX](/what-is-a-decentralized-exchange-dex), provide liquidity, and take out a small loan on a lending protocol. This hands-on experience is essential.
 
-**Immerse Yourself (Become a "Degen")**: Start by becoming an active user. Set up a [wallet](/how-to-choose-a-crypto-wallet), execute a swap on a [DEX](/what-is-a-decentralized-exchange-dex), provide liquidity, and take out a small loan on a lending protocol. This hands-on experience is essential.
+2. **Study Relevant Theory**: Familiarize yourself with the whitepapers of major protocols. Essential readings include Uniswap V2 and V3. Follow DeFi researchers on Twitter and listen to podcasts, such as Bankless.
 
-2.
-
-**Study Relevant Theory**: Familiarize yourself with the whitepapers of major protocols. Essential readings include Uniswap V2 and V3. Follow DeFi researchers on Twitter and listen to podcasts, such as Bankless.
-
-3.
-
-**Build a Relevant [Portfolio](/building-web3-portfolio)**:
+3. **Build a Relevant [Portfolio](/building-web3-portfolio)**:
  - **For Developers**: Create a simplified version of a DeFi primitive, such as a basic Automated Market Maker (AMM) or a [staking](/how-to-become-a-web3-staking-specialist) contract.
  - **For Quants**: Develop a Dune Analytics dashboard that analyzes key metrics of a protocol.
 

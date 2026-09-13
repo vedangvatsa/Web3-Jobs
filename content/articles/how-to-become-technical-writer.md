@@ -28,10 +28,20 @@ Understanding the primary responsibilities of a technical writer is important be
 
 ### Step 2: Develop Essential Skills
 
-While a specific degree may not be mandatory, certain core skills are essential for success in this field.**1. Writing and Communication Skills:** Exceptional writing skills are fundamental. You must communicate clearly and concisely, avoiding unnecessary jargon and complicated language.
-- **How to develop:** Write regularly. Start a blog on a technical topic of your choice. Volunteer to create documentation for open-source projects. Enroll in online courses focused on technical writing and grammar.**2. Technical Aptitude:** Familiarity with technology is necessary, even if you are not a professional developer. You should be comfortable learning new technical concepts quickly.
-- **How to develop:** For those interested in software documentation, learn the basics of a programming language such as Python or JavaScript. Familiarize yourself with fundamental concepts like APIs, databases, and command-line interfaces. Being able to read and understand code is a distinct advantage.**3. Audience Analysis:** Empathy for the user is vital. You need to understand their knowledge level, goals, and challenges.
-- **How to develop:** When writing, always define your audience first. Are they novice developers or experienced professionals? Tailor your language, tone, and detail level to meet their needs.**4. Research and Investigation Skills:** Technical writers often resemble detectives in their work. You must excel at gathering information, interviewing busy engineers, and synthesizing data from various sources.**5. Tool Proficiency:** Becoming familiar with industry-standard tools is important.
+While a specific degree may not be mandatory, certain core skills are essential for success in this field.
+
+**1. Writing and Communication Skills:** Exceptional writing skills are fundamental. You must communicate clearly and concisely, avoiding unnecessary jargon and complicated language.
+- **How to develop:** Write regularly. Start a blog on a technical topic of your choice. Volunteer to create documentation for open-source projects. Enroll in online courses focused on technical writing and grammar.
+
+**2. Technical Aptitude:** Familiarity with technology is necessary, even if you are not a professional developer. You should be comfortable learning new technical concepts quickly.
+- **How to develop:** For those interested in software documentation, learn the basics of a programming language such as Python or JavaScript. Familiarize yourself with fundamental concepts like APIs, databases, and command-line interfaces. Being able to read and understand code is a distinct advantage.
+
+**3. Audience Analysis:** Empathy for the user is vital. You need to understand their knowledge level, goals, and challenges.
+- **How to develop:** When writing, always define your audience first. Are they novice developers or experienced professionals? Tailor your language, tone, and detail level to meet their needs.
+
+**4. Research and Investigation Skills:** Technical writers often resemble detectives in their work. You must excel at gathering information, interviewing busy engineers, and synthesizing data from various sources.
+
+**5. Tool Proficiency:** Becoming familiar with industry-standard tools is important.
 - **Docs-as-Code:** Many documentation teams adopt a "docs-as-code" approach, which involves writing documentation in a lightweight markup language such as Markdown and managing it with Git.
 - **Common Tools:** Learn to use Git, Markdown, a code editor like Visual Studio Code, and a static site generator such as Docusaurus, MkDocs, or Hugo.
 
@@ -41,7 +51,7 @@ A strong portfolio serves as your most valuable asset when applying for technica
 
 **How to Build a Portfolio with No Experience:**
 
-- **-** Document an Open-Source Project:**Identify a small open-source project on GitHub with inadequate documentation. Fork the project, create a clear README file, or draft a "Getting Started" guide. Submit a pull request with your enhancements. This approach offers practical experience.
+- Document an Open-Source Project:**Identify a small open-source project on GitHub with inadequate documentation. Fork the project, create a clear README file, or draft a "Getting Started" guide. Submit a pull request with your enhancements. This approach offers practical experience.
 - **Create Your Own "How-To" Guides:** Choose a technical process you are familiar with, such as setting up a development environment. Write a detailed tutorial that includes screenshots and step-by-step instructions.
 - **Rewrite Existing Documentation:** Locate a confusing piece of documentation online. Revise it to enhance clarity and user-friendliness. Include both the original and revised versions in your portfolio to showcase your skills.
 - **Start a Technical Blog:** Focus on a niche you are passionate about, such as [blockchain](/what-is-a-blockchain) technology or a programming language. Publish regular articles that simplify complex concepts.

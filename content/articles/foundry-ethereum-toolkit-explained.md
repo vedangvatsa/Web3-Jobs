@@ -27,20 +27,14 @@ Foundry is not a single tool, but a collection of command-line tools that work t
 
 ### Why Use Foundry? The Key Advantages
 
-1.
-
-**Solidity-Native Testing:** Writing tests in Solidity instead of JavaScript has several benefits:
+1. **Solidity-Native Testing:** Writing tests in Solidity instead of JavaScript has several benefits:
  * **No Context Switching:** You stay in the same language and mental model, which can make development faster and more intuitive.
  * **Performance:** Forge tests are often faster than JavaScript-based tests because they run directly in the EVM without the overhead of a JavaScript runtime.
  * **Fuzzing:** Forge has built-in support for "fuzz testing." This is a type of automated testing where the framework generates a huge number of random inputs to try and find edge cases that break your code. This is an improvement for security.
 
-2.
+2. **Speed:** Foundry is written in Rust and is engineered for performance. Compiling contracts and running tests is often much faster than with Hardhat.
 
-**Speed:** Foundry is written in Rust and is engineered for performance. Compiling contracts and running tests is often much faster than with Hardhat.
-
-3.
-
-**Portability:** Foundry is a simple command-line tool. It doesn't have a complex project structure with numerous dependencies. This makes it easy to install and use across different environments.
+3. **Portability:** Foundry is a simple command-line tool. It doesn't have a complex project structure with numerous dependencies. This makes it easy to install and use across different environments.
 
 ### A Simple Foundry Test: A Practical Example
 
@@ -95,15 +89,9 @@ To run these tests, you would simply run `forge test` in your terminal.
 
 ### Getting Started with Foundry
 
-1.
-
-**Installation:** The first step is to install Foundry. You can do this by running a single command found in the official Foundry Book documentation.
-2.
-
-**Start a Project:** Use `forge init my-project` to create a new Foundry project.
-3.
-
-**The Foundry Book:** The official documentation, known as the "Foundry Book," is an excellent resource for learning everything about the toolkit.
+1. **Installation:** The first step is to install Foundry. You can do this by running a single command found in the official Foundry Book documentation.
+2. **Start a Project:** Use `forge init my-project` to create a new Foundry project.
+3. **The Foundry Book:** The official documentation, known as the "Foundry Book," is an excellent resource for learning everything about the toolkit.
 
 While Hardhat remains a powerful and popular choice, Foundry represents an evolution in the Ethereum developer experience. Its focus on speed, simplicity, and Solidity-native testing is winning over developers who want a more efficient and powerful workflow. For any serious Ethereum developer, learning Foundry is increasingly seen as a necessary skill for building reliable and secure smart contracts.
 

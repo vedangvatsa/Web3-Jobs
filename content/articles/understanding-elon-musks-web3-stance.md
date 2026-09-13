@@ -74,20 +74,12 @@ Elon Musk's stance on Web3 is not one of a maximalist but rather of a pragmatic 
 
 His philosophy can be summarized as follows:
 
-1.
+1. **Utility Over Ideology:** Musk focuses on what technology can achieve rather than its ideological purity. He supports Dogecoin because he perceives it as a functional payment system rather than for its decentralized nature.
 
-**Utility Over Ideology:** Musk focuses on what technology can achieve rather than its ideological purity. He supports Dogecoin because he perceives it as a functional payment system rather than for its decentralized nature.
+2. **Environmental Sustainability is Essential:** Musk will not support technologies he deems environmentally harmful, as seen in his stance on Bitcoin mining.
 
-2.
+3. **True Decentralization is Lacking:** He expresses doubt about the "Web3" label, viewing the current ecosystem as overly reliant on centralized infrastructures.
 
-**Environmental Sustainability is Essential:** Musk will not support technologies he deems environmentally harmful, as seen in his stance on Bitcoin mining.
-
-3.
-
-**True Decentralization is Lacking:** He expresses doubt about the "Web3" label, viewing the current ecosystem as overly reliant on centralized infrastructures.
-
-4.
-
-**Support for Centralized Solutions:** His vision for X indicates he believes a centralized platform can provide a better user experience, even while borrowing concepts from Web3.
+4. **Support for Centralized Solutions:** His vision for X indicates he believes a centralized platform can provide a better user experience, even while borrowing concepts from Web3.
 
 Musk is not idly waiting for a decentralized future; he is actively shaping his interpretation of it. His approach does not align with the principles of a Web3 purist but reflects a pragmatism willing to adopt both centralized and decentralized tools to further human progress. His critical engagement ensures he remains a significant and unpredictable figure influencing the future of the internet.

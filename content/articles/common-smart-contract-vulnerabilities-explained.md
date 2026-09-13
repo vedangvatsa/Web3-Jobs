@@ -42,12 +42,8 @@ Reentrancy is one of the most notorious smart contract vulnerabilities, infamous
 
 **To prevent reentrancy, structure functions in the following order:
  1. **Checks:** Perform all validations (`require` statements).
- 2.
-
-**Effects:** Update all state variables.
- 3.
-
-**Interactions:** Call external contracts or send Ether.
+ 2. **Effects:** Update all state variables.
+ 3. **Interactions:** Call external contracts or send Ether.
 
  ```solidity
 / SECURE CODE
@@ -76,7 +72,7 @@ Integer overflow and underflow were common vulnerabilities in earlier versions o
 
 - **The Prevention:**
 
-- **-** Use Solidity 0.8.0+:**The most straightforward solution. With version 0.8.0, the Solidity compiler automatically checks for overflow and underflow, reverting transactions when they occur. All modern contracts should use `pragma solidity ^0.8.0;`.
+- Use Solidity 0.8.0+:**The most straightforward solution. With version 0.8.0, the Solidity compiler automatically checks for overflow and underflow, reverting transactions when they occur. All modern contracts should use `pragma solidity ^0.8.0;`.
  - **SafeMath Libraries:** For older projects, employing OpenZeppelin's `SafeMath` library provides functions (`add`, `sub`, `mul`) with built-in overflow checks.
 
 ### 3. Incorrect Access Control
@@ -97,7 +93,7 @@ Incorrect access control is a broad yet critical category of vulnerabilities whe
 
 - **The Prevention:**
 
-- **-** Function Modifiers:**Implement a modifier like `onlyOwner` to restrict access.
+- Function Modifiers:**Implement a modifier like `onlyOwner` to restrict access.
  - **Role-Based Access Control:** For complex systems, use a standardized role-based approach, such as OpenZeppelin's `AccessControl` contract, which allows defining various roles (e.g., `MINTER_ROLE`, `UPGRADER_ROLE`) and assigning them to different addresses.
 
  ```solidity
@@ -132,7 +128,7 @@ Incorrect access control is a broad yet critical category of vulnerabilities whe
 
 - **The Prevention:**
 
-- **-** Use Decentralized Oracle Networks:**Implement a reliable oracle network like Chainlink, which aggregates prices from multiple independent, off-chain sources, making it resilient to single-source manipulation.
+- Use Decentralized Oracle Networks:**Implement a reliable oracle network like Chainlink, which aggregates prices from multiple independent, off-chain sources, making it resilient to single-source manipulation.
  - **Use Time-Weighted Average Prices (TWAPs):** For on-chain sources, consider using a TWAP oracle (as available in Uniswap V3), which averages prices over time, complicating manipulation efforts.
 
 ### 5. Unchecked External Calls

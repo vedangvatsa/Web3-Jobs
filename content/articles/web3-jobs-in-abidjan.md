@@ -43,21 +43,13 @@ The formal Web3 job market in Abidjan is still emerging, with lucrative opportun
 
 ### Building a Web3 Career in Abidjan
 
-1.
+1. **Become a "Web2.5" Expert:** Focus on bridging the existing mobile money systems with Web3 innovations. Create solutions that resonate with users by using simple mobile interfaces powered by blockchain technology on the backend.
 
-**Become a "Web2.5" Expert:** Focus on bridging the existing mobile money systems with Web3 innovations. Create solutions that resonate with users by using simple mobile interfaces powered by blockchain technology on the backend.
+2. **Master French and Local Market Dynamics:** Proficiency in French is important. Understanding the specific needs and behaviors of Ivorian users will provide a competitive edge in communication and marketing.
 
-2.
+3. **Develop a FinTech-Focused Portfolio:** Showcase your knowledge of financial technology through projects. For instance, create a decentralized application (dApp) simulating a savings or micro-lending service, or develop a tool that enables merchants to accept both mobile money and stablecoin payments.
 
-**Master French and Local Market Dynamics:** Proficiency in French is important. Understanding the specific needs and behaviors of Ivorian users will provide a competitive edge in communication and marketing.
-
-3.
-
-**Develop a FinTech-Focused Portfolio:** Showcase your knowledge of financial technology through projects. For instance, create a decentralized application (dApp) simulating a savings or micro-lending service, or develop a tool that enables merchants to accept both mobile money and stablecoin payments.
-
-4.
-
-**Engage with the Regional FinTech Community:** Network within the broader West African FinTech ecosystem. Attend events in Abidjan, Dakar, and other regional hubs. Collaborative efforts across borders will significantly impact the future of finance in Africa.
+4. **Engage with the Regional FinTech Community:** Network within the broader West African FinTech ecosystem. Attend events in Abidjan, Dakar, and other regional hubs. Collaborative efforts across borders will significantly impact the future of finance in Africa.
 
 ### Detailed Salary Expectations by Role
 

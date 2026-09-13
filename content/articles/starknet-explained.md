@@ -40,21 +40,11 @@ Starknet is a decentralized, permissionless Layer 2 that inherits Ethereum secur
 
 The flow is sequencer execution followed by prover verification, as described on starknet.io/what-is-starknet and docs.starknet.io/learn/protocol/SNOS.
 
-1.
-
-**Submit.** You send a transaction from an account contract to a sequencer's mempool. Since v0.14.0 the mempool replaced FIFO ordering and now prioritizes by tip. Full nodes forward transactions to sequencers.
-2.
-
-**Validate and execute off chain.** The sequencer calls your account's `__validate__` to check the signature and rules, then `__execute__` to run the call. It batches passing transactions into a block. The block header commits to the new global state root, transaction and event commitments, and a state diff commitment. The `l1_da_mode` flag in the header records whether state diffs were sent as `BLOB` or `CALLDATA`.
-3.
-
-**Build execution trace and state diff.** The sequencer records every Cairo step and builtin use (the execution trace) and collects storage diffs, nonce changes, deployed contracts, and declared classes.
-4.
-
-**Prove with SNOS and SHARP.** SNOS (StarkNet Operating System) is a Cairo program that takes a previous state and a list of transactions and outputs the resulting state. The prover runs SNOS on the block and generates a STARK proof that the execution was correct. StarkWare's SHARP (Shared Prover) aggregates proofs from many blocks using recursion. Docs note that from v0.14.0 SHARP uses the new S-two prover for most jobs (Stone remains for recursive roots), and that recursion lets many batches share one on-chain verification.
-5.
-
-**Post to Ethereum.** The sequencer submits the proof and compressed state diffs to the Starknet Core contract and Verifier contract on Ethereum. Ethereum verifies the proof with minimal compute. If it passes, the Core contract updates its stored state root. This is settlement. Messages and bridge state become final only after this L1 verification.
+1. **Submit.** You send a transaction from an account contract to a sequencer's mempool. Since v0.14.0 the mempool replaced FIFO ordering and now prioritizes by tip. Full nodes forward transactions to sequencers.
+2. **Validate and execute off chain.** The sequencer calls your account's `__validate__` to check the signature and rules, then `__execute__` to run the call. It batches passing transactions into a block. The block header commits to the new global state root, transaction and event commitments, and a state diff commitment. The `l1_da_mode` flag in the header records whether state diffs were sent as `BLOB` or `CALLDATA`.
+3. **Build execution trace and state diff.** The sequencer records every Cairo step and builtin use (the execution trace) and collects storage diffs, nonce changes, deployed contracts, and declared classes.
+4. **Prove with SNOS and SHARP.** SNOS (StarkNet Operating System) is a Cairo program that takes a previous state and a list of transactions and outputs the resulting state. The prover runs SNOS on the block and generates a STARK proof that the execution was correct. StarkWare's SHARP (Shared Prover) aggregates proofs from many blocks using recursion. Docs note that from v0.14.0 SHARP uses the new S-two prover for most jobs (Stone remains for recursive roots), and that recursion lets many batches share one on-chain verification.
+5. **Post to Ethereum.** The sequencer submits the proof and compressed state diffs to the Starknet Core contract and Verifier contract on Ethereum. Ethereum verifies the proof with minimal compute. If it passes, the Core contract updates its stored state root. This is settlement. Messages and bridge state become final only after this L1 verification.
 
 Anyone watching Ethereum can reconstruct Starknet state from the posted state diffs. That data availability guarantee is why you do not need to trust the sequencer to keep the chain History.
 
@@ -202,30 +192,16 @@ sncast --url https://starknet-sepolia.public.blastapi.io invoke --contract-addre
 
 Fund Sepolia accounts via the faucet at starknet.io or the docs faucet page. Verify contracts on StarkScan.
 
-3.
-
-**Measure fees with the three resources.** Use `starknet_estimateFee` via RPC or `sncast estimate-fee` to see `l1_gas`, `l1_data_gas`, and `l2_gas` before you send. Set `resource_bounds` with `max_amount` and `max_price_per_unit` for each resource in v3 transactions. Compress calldata and avoid unneeded storage writes, since each unique slot posted to L1 adds cost.
-4.
-
-**Handle cross-chain timing.** L1 to L2 messages need minutes and trigger an `l1_handler` call. L2 to L1 needs proof generation then a separate L1 `consumeMessageFromL2` transaction. Do not build logic that assumes a synchronous callback. Emit events, prove inclusion, then execute on L1.
-5.
-
-**Plan for sequencer liveness.** You can force inclusion via L1 messaging, but today ordering is still centralized. Add a UI path that retries via higher tip if the mempool is congested, and monitor `status.starknet.io` and `l2beat.com` for stage and sequencer status. Test upgrades on Sepolia with v0.14 and v0.14.3 fee changes before mainnet.
+3. **Measure fees with the three resources.** Use `starknet_estimateFee` via RPC or `sncast estimate-fee` to see `l1_gas`, `l1_data_gas`, and `l2_gas` before you send. Set `resource_bounds` with `max_amount` and `max_price_per_unit` for each resource in v3 transactions. Compress calldata and avoid unneeded storage writes, since each unique slot posted to L1 adds cost.
+4. **Handle cross-chain timing.** L1 to L2 messages need minutes and trigger an `l1_handler` call. L2 to L1 needs proof generation then a separate L1 `consumeMessageFromL2` transaction. Do not build logic that assumes a synchronous callback. Emit events, prove inclusion, then execute on L1.
+5. **Plan for sequencer liveness.** You can force inclusion via L1 messaging, but today ordering is still centralized. Add a UI path that retries via higher tip if the mempool is congested, and monitor `status.starknet.io` and `l2beat.com` for stage and sequencer status. Test upgrades on Sepolia with v0.14 and v0.14.3 fee changes before mainnet.
 
 ### If you are considering staking
 
-1.
-
-**Read the staking docs and spec.** See docs.starknet.io/learn/protocol/staking and the staking spec at github.com/starkware-libs/starknet-staking. Mainnet staking contract addresses are listed on docs cheatsheets.
-2.
-
-**Run a full node first.** Sync Juno or Pathfinder and run the matching attestation tool (Nethermind or Equilibrium). You need a synced node to attest correctly. Attesting to a wrong hash loses the epoch reward.
-3.
-
-**Budget for lockup and keys.** Validator minimum is 20,000 STRK plus operational funds for attest transactions. Rewards address and staking address should be cold. Operational address can be hot but losing it loses yield. Withdrawal needs a 7-day wait after `unstake_intent`.
-4.
-
-**Evaluate BTC staking if you hold BTC.** Check `get_active_tokens` on the staking contract for supported wrappers. Weight `alpha = 0.25` means BTC contributes, but STRK dominates power. Understand wrapper trust before locking size.
+1. **Read the staking docs and spec.** See docs.starknet.io/learn/protocol/staking and the staking spec at github.com/starkware-libs/starknet-staking. Mainnet staking contract addresses are listed on docs cheatsheets.
+2. **Run a full node first.** Sync Juno or Pathfinder and run the matching attestation tool (Nethermind or Equilibrium). You need a synced node to attest correctly. Attesting to a wrong hash loses the epoch reward.
+3. **Budget for lockup and keys.** Validator minimum is 20,000 STRK plus operational funds for attest transactions. Rewards address and staking address should be cold. Operational address can be hot but losing it loses yield. Withdrawal needs a 7-day wait after `unstake_intent`.
+4. **Evaluate BTC staking if you hold BTC.** Check `get_active_tokens` on the staking contract for supported wrappers. Weight `alpha = 0.25` means BTC contributes, but STRK dominates power. Understand wrapper trust before locking size.
 
 ## Risks and constraints you should weigh
 

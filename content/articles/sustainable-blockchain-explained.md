@@ -28,7 +28,9 @@ If you want the short answer: the biggest drop in blockchain energy use came fro
 
 ### How sustainability is measured
 
-Three inputs determine a network's footprint. Each can be audited.**1. Consensus cost.
+Three inputs determine a network's footprint. Each can be audited.
+
+**1. Consensus cost.
 
 **In proof-of-work, security comes from miners burning electricity and hardware to solve puzzles. In proof-of-stake, security comes from validators locking capital that can be destroyed if they misbehave. The second approach needs no race for hashes.** 2. Node count and hardware.
 
@@ -127,7 +129,7 @@ Offsets are the last step, not the first. Algorand has been carbon neutral since
 
 **If you are running infrastructure:**
 
-- **-** Home validator.
+- Home validator.
 
 **On Ethereum, a single validator needs 32 ETH (or up to 2,048 ETH with compounding 0x02 credentials after Pectra on May 7, 2025), plus an execution client, a consensus client, and a validator client. Power draw for a home setup with current clients is around a few tens to about 100 watts continuous, roughly one modern desktop, not a mining rack. EthStaker and ethereum.org both put a full home staker at about 100 watts. Keep the machine on a low-carbon grid if you can; the location changes your attributed emissions more than the wattage does.
 - **Delegated or pooled.

@@ -35,12 +35,8 @@ Multi-Party Computation provides a different approach. Rather than depending on 
 **Key Generation:** A designated group (e.g., 3 out of 5) cooperatively generates a single public key for their wallet. Throughout this process, each participant receives a unique secret "share" of the corresponding private key.
 
 **Importantly, the entire private key never exists in one location at any time.** It only exists as distinct shares held by different parties.
-2.
-
-**Transaction Signing:** When the group intends to sign a transaction, a predetermined number of parties (e.g., 3 out of 5) must collaborate. They engage in a multi-round communication protocol, using their individual key shares to collectively produce a single, valid digital signature for the transaction.
-3.
-
-**Signature Verification:** This final signature is sent to the blockchain. To the blockchain, this transaction appears like a standard transaction from a single-key wallet, without any awareness of the complex MPC protocol that took place off-chain.
+2. **Transaction Signing:** When the group intends to sign a transaction, a predetermined number of parties (e.g., 3 out of 5) must collaborate. They engage in a multi-round communication protocol, using their individual key shares to collectively produce a single, valid digital signature for the transaction.
+3. **Signature Verification:** This final signature is sent to the blockchain. To the blockchain, this transaction appears like a standard transaction from a single-key wallet, without any awareness of the complex MPC protocol that took place off-chain.
 
 ### MPC vs. Multisig: The Key Differences
 
@@ -71,14 +67,18 @@ Multi-Party Computation provides a different approach. Rather than depending on 
 
 **Flexibility**| Changing signers can be complex and gas-intensive. | Easier off-chain adjustment of signers. |
 
-### Use Cases for MPC in Web3**1. Institutional Custody
+### Use Cases for MPC in Web3
+
+**1. Institutional Custody
 
 **This represents a significant current application. Major institutions, such as cryptocurrency exchanges and custodians, use MPC to protect billions in customer assets. MPC enables the creation of complex security policies that require multiple approvals from various executives or geographical locations, all while avoiding the time and cost constraints associated with on-chain multisigs.** 2. User-Friendly Wallets (Account Abstraction) **MPC is important for enabling**[Account Abstraction](/account-abstraction-explained)**, particularly for social recovery options.
 - **Example:** A user's wallet could be secured using a 2-of-3 MPC scheme.
  - Key Share 1: Stored on their mobile device.
  - Key Share 2: Stored on their laptop.
  - Key Share 3: Held by a trusted third party or a friend.
-To execute a transaction, approval from two of these three entities is required. If the user loses their phone, they can use their laptop and the third party to regain access and add a new device.**3. Private Computation
+To execute a transaction, approval from two of these three entities is required. If the user loses their phone, they can use their laptop and the third party to regain access and add a new device.
+
+**3. Private Computation
 
 **Beyond signatures, MPC can enable multiple parties to compute results based on their private data without disclosing that data.
 - **Example: Salary Benchmarking:** A consortium of companies could use MPC to determine the average salary for a specific role, ensuring that no individual company discloses its salary information to others.

@@ -19,12 +19,8 @@ Though paper wallets have been largely replaced by more user-friendly [hardware 
 
 A paper wallet comprises two key components printed on it, typically presented in text and scannable QR code formats:
 
-1.
-
-**Public Key / Address:** This address allows others to send you funds, akin to a bank account number. Sharing it publicly is safe.
-2.
-
-**Private Key:** This secret key grants you control over the funds associated with your public address.
+1. **Public Key / Address:** This address allows others to send you funds, akin to a bank account number. Sharing it publicly is safe.
+2. **Private Key:** This secret key grants you control over the funds associated with your public address.
 
 **Anyone possessing this key can access your cryptocurrency.** Therefore, it must remain confidential.
 

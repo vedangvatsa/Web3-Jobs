@@ -102,65 +102,37 @@ Web3 work maps directly to this split. Very few roles need deep model work. Many
 
 ### If you are planning your own work setup
 
-1.
+1. **Pick your model on purpose.** If your job can be done remotely, decide whether you want hybrid at about two to three days on site or fully remote. Pew data shows hybrid workers prefer hybrid by a wide margin. If you want fully remote, focus your search on Web3 protocols, infra, and open source teams that hire globally, and be ready to show written communication and async habits.
 
-**Pick your model on purpose.** If your job can be done remotely, decide whether you want hybrid at about two to three days on site or fully remote. Pew data shows hybrid workers prefer hybrid by a wide margin. If you want fully remote, focus your search on Web3 protocols, infra, and open source teams that hire globally, and be ready to show written communication and async habits.
+2. **Agree on the hybrid plan in writing.** Write a one-page team agreement that answers: which days are overlap days and why, what happens on site versus at home, which tools are used for which decision, and how you handle urgent issues. Gallup finds that teams with a plan are 66 percent more likely to be engaged and 29 percent less likely to be burned out. Review the plan every quarter.
 
-2.
+3. **Make trust visible.** Managers should state outcomes and check-ins up front. Employees should send short weekly updates: what shipped, what is blocked, what is next, and where you need input. This addresses the 54 percent manager trust gap Gallup reports and helps people disconnect without proving they are online.
 
-**Agree on the hybrid plan in writing.** Write a one-page team agreement that answers: which days are overlap days and why, what happens on site versus at home, which tools are used for which decision, and how you handle urgent issues. Gallup finds that teams with a plan are 66 percent more likely to be engaged and 29 percent less likely to be burned out. Review the plan every quarter.
+4. **Protect on site time for collaboration.** Save group work, coaching, and culture building for office days. Do focus work at home where you have fewer interruptions. Gallup recommends this split as the main return on office time.
 
-3.
+5. **Build AI fluency as a basic skill, not a specialty.** You do not need to build models. Practice using AI for meeting notes, research synthesis, query drafting, and document review, then check outputs for accuracy, bias, and privacy. Track your time saved and error rate so you know where the tool helps and where it does not. OECD and McKinsey both find that general use and data interpretation skills matter for most workers, with advanced development needed by about 1 percent.
 
-**Make trust visible.** Managers should state outcomes and check-ins up front. Employees should send short weekly updates: what shipped, what is blocked, what is next, and where you need input. This addresses the 54 percent manager trust gap Gallup reports and helps people disconnect without proving they are online.
-
-4.
-
-**Protect on site time for collaboration.** Save group work, coaching, and culture building for office days. Do focus work at home where you have fewer interruptions. Gallup recommends this split as the main return on office time.
-
-5.
-
-**Build AI fluency as a basic skill, not a specialty.** You do not need to build models. Practice using AI for meeting notes, research synthesis, query drafting, and document review, then check outputs for accuracy, bias, and privacy. Track your time saved and error rate so you know where the tool helps and where it does not. OECD and McKinsey both find that general use and data interpretation skills matter for most workers, with advanced development needed by about 1 percent.
-
-6.
-
-**Document your work where others can find it.** In distributed teams your writing is your presence. Keep decisions, context, and trade-offs in a shared doc or forum thread, not only in chat. That habit predicts success in Web3 contributions, from GitHub to governance forums, and it makes performance reviews simpler.
+6. **Document your work where others can find it.** In distributed teams your writing is your presence. Keep decisions, context, and trade-offs in a shared doc or forum thread, not only in chat. That habit predicts success in Web3 contributions, from GitHub to governance forums, and it makes performance reviews simpler.
 
 ### If you lead a team
 
-1.
+1. **Set clear expectations and measure outcomes.** Define what good looks like for each role in observable terms, for example approved specs, passing tests, response time in support, or partner onboardings completed, rather than hours visible. Review weekly.
 
-**Set clear expectations and measure outcomes.** Define what good looks like for each role in observable terms, for example approved specs, passing tests, response time in support, or partner onboardings completed, rather than hours visible. Review weekly.
+2. **Co-design schedules.** Let the team set hybrid norms together. Gallup finds 91 percent of employees say the policy feels fair when teams set it together, compared with 73 percent when leadership dictates it.
 
-2.
+3. **Teach managers to run hybrid well.** Invest in the fundamentals: set expectations, hold brief regular check-ins, give feedback promptly, and connect work to purpose. Gallup finds this moves trust and engagement more than adding days in office.
 
-**Co-design schedules.** Let the team set hybrid norms together. Gallup finds 91 percent of employees say the policy feels fair when teams set it together, compared with 73 percent when leadership dictates it.
+4. **Close the training gap on AI.** Offer short, flexible, entry-level courses on using AI safely, citing data handling rules and copyright limits, and tie them to real tasks. OECD analysis finds most AI training is aimed at specialists with higher entry requirements, while general AI literacy, which most workers need, is undersupplied.
 
-3.
-
-**Teach managers to run hybrid well.** Invest in the fundamentals: set expectations, hold brief regular check-ins, give feedback promptly, and connect work to purpose. Gallup finds this moves trust and engagement more than adding days in office.
-
-4.
-
-**Close the training gap on AI.** Offer short, flexible, entry-level courses on using AI safely, citing data handling rules and copyright limits, and tie them to real tasks. OECD analysis finds most AI training is aimed at specialists with higher entry requirements, while general AI literacy, which most workers need, is undersupplied.
-
-5.
-
-**Monitor wellbeing alongside output.** Engagement and loneliness track separately. Hybrid reporting 34 percent engaged and 54 percent thriving in Q2 2026 versus 29 and 49 percent for on site remote-capable workers shows the benefit is real but not automatic. Ask about burnout, focus time, and connection in regular pulses.
+5. **Monitor wellbeing alongside output.** Engagement and loneliness track separately. Hybrid reporting 34 percent engaged and 54 percent thriving in Q2 2026 versus 29 and 49 percent for on site remote-capable workers shows the benefit is real but not automatic. Ask about burnout, focus time, and connection in regular pulses.
 
 ### If you are entering Web3
 
-1.
+1. **Learn async norms quickly.** Practice concise updates, threaded discussion, and public documentation. Many hiring managers weight written clarity and autonomous delivery as highly as technical depth.
 
-**Learn async norms quickly.** Practice concise updates, threaded discussion, and public documentation. Many hiring managers weight written clarity and autonomous delivery as highly as technical depth.
+2. **Show public proof.** Add links to GitHub, audits, Dune queries, forum posts, or community help where you shipped something useful. BLS and OECD data show degree alone predicts telework access, but in Web3 your portfolio often matters more.
 
-2.
-
-**Show public proof.** Add links to GitHub, audits, Dune queries, forum posts, or community help where you shipped something useful. BLS and OECD data show degree alone predicts telework access, but in Web3 your portfolio often matters more.
-
-3.
-
-**Plan for timezone spread.** Propose your overlap hours, share your working hours openly, and default to recorded demos and read in advance docs so teammates can review without you present.
+3. **Plan for timezone spread.** Propose your overlap hours, share your working hours openly, and default to recorded demos and read in advance docs so teammates can review without you present.
 
 ## Limitations and trade-offs to keep in mind
 

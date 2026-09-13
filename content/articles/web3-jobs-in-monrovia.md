@@ -50,21 +50,13 @@ Currently, Monrovia lacks a formal Web3 job market. Most career opportunities fo
 
 ### Building a Web3 Career in Monrovia
 
-1.
+1. **Focus on Relevant Use Cases:** Concentrate learning and portfolio projects on solutions that directly address Liberia's challenges. Develop proof-of-concept applications, such as a decentralized app (dApp) for remittances, a simple [DeFi](/what-is-defi) savings tool, or an on-chain system for tracking charitable donations. This approach demonstrates the application of technology to solve real-world problems.
 
-**Focus on Relevant Use Cases:** Concentrate learning and portfolio projects on solutions that directly address Liberia's challenges. Develop proof-of-concept applications, such as a decentralized app (dApp) for remittances, a simple [DeFi](/what-is-defi) savings tool, or an on-chain system for tracking charitable donations. This approach demonstrates the application of technology to solve real-world problems.
+2. **Cultivate a Global Skillset:** Build a first-rate portfolio on GitHub and enhance your professional presence on Twitter and LinkedIn. Competing for remote positions is essential for career success. Proficient English communication remains vital.
 
-2.
+3. **Lead and Educate the Community:** Establish the first Web3 meetup in Monrovia. Collaborate with local universities or tech hubs to conduct workshops. Create accessible content explaining Web3 to a Liberian audience, positioning yourself as a key figure in the ecosystem.
 
-**Cultivate a Global Skillset:** Build a first-rate portfolio on GitHub and enhance your professional presence on Twitter and LinkedIn. Competing for remote positions is essential for career success. Proficient English communication remains vital.
-
-3.
-
-**Lead and Educate the Community:** Establish the first Web3 meetup in Monrovia. Collaborate with local universities or tech hubs to conduct workshops. Create accessible content explaining Web3 to a Liberian audience, positioning yourself as a key figure in the ecosystem.
-
-4.
-
-**Engage with Social Impact and NGO Networks:** Connect with social impact DAOs and the technology innovation teams of major international organizations. These groups are likely to fund or manage projects in Liberia.
+4. **Engage with Social Impact and NGO Networks:** Connect with social impact DAOs and the technology innovation teams of major international organizations. These groups are likely to fund or manage projects in Liberia.
 
 ## Salary Overview: Web3 Jobs in Monrovia
 
@@ -167,27 +159,27 @@ Currently, Monrovia lacks a formal Web3 job market. Most career opportunities fo
 
 **Challenge 1: Limited Local Job Market**
 
-- **-** Reality:**There are virtually no Web3 jobs in Monrovia; remote work is essential.
+- Reality:**There are virtually no Web3 jobs in Monrovia; remote work is essential.
 - **Solution:** Use remote opportunities. With a favorable cost of living, you can earn a global salary and save significantly.
 
 **Challenge 2: Inconsistent Internet Infrastructure**
 
-- **-** Reality:**Internet reliability is often low; power outages are common.
+- Reality:**Internet reliability is often low; power outages are common.
 - **Solution:** Use a dual ISP setup with a mobile hotspot. Invest in an uninterruptible power supply (UPS) for your computer. Work with asynchronous teams, which is common in Monrovia.
 
 **Challenge 3: Absence of a Local Crypto Ecosystem**
 
-- **-** Reality:**Networking opportunities are scarce, and local expertise is limited.
+- Reality:**Networking opportunities are scarce, and local expertise is limited.
 - **Solution:** Build a global Twitter community. Engage with online forums daily and contribute to open-source projects.
 
 **Challenge 4: Competing in a Global Market**
 
-- **-** Reality:**Competing against developers worldwide means Monrovia does not carry the same prestige.
+- Reality:**Competing against developers worldwide means Monrovia does not carry the same prestige.
 - **Solution:** Build an exceptional portfolio. Focus on impact-driven projects and prepare as a developer addressing real-world issues in Liberia.
 
 **Challenge 5: Trust and Safety Concerns**
 
-- **-** Reality:**The risk of scams is high. Banks are restrictive regarding cryptocurrency. Social trust remains fragile.
+- Reality:**The risk of scams is high. Banks are restrictive regarding cryptocurrency. Social trust remains fragile.
 - **Solution:** Work only with established companies or protocols. Use reputable exchanges and help your community identify and avoid scams.
 
 ## 90-Day Quick-Start Action Plan

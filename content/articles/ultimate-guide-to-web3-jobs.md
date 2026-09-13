@@ -60,18 +60,10 @@ In addition to role-specific technical skills, several core competencies will en
 
 Web3 jobs are often found through crypto-native channels rather than traditional job boards.
 
-1.
-
-**Specialized Web3 Job Boards:** Platforms like Hashtag Web3, CryptoJobs, and Web3.career focus exclusively on roles within the crypto industry. These serve as excellent starting points for job searches.
-2.
-
-**Twitter (X):** Twitter acts as the unofficial hub of the crypto community. Following founders, projects, and investors provides insights into new openings. Many jobs are announced here before appearing on traditional platforms.
-3.
-
-**Discord & Telegram:** Engaging actively in a project's community can lead to job opportunities. Many projects hire passionate community members directly. Join the Discord or Telegram channels of projects you admire and start contributing.
-4.
-
-**VC [Portfolio](/building-web3-portfolio) Job Pages:** Venture capital firms that invest in Web3 often maintain job boards that aggregate opportunities at their portfolio companies. This is an effective way to find roles at well-funded startups.
+1. **Specialized Web3 Job Boards:** Platforms like Hashtag Web3, CryptoJobs, and Web3.career focus exclusively on roles within the crypto industry. These serve as excellent starting points for job searches.
+2. **Twitter (X):** Twitter acts as the unofficial hub of the crypto community. Following founders, projects, and investors provides insights into new openings. Many jobs are announced here before appearing on traditional platforms.
+3. **Discord & Telegram:** Engaging actively in a project's community can lead to job opportunities. Many projects hire passionate community members directly. Join the Discord or Telegram channels of projects you admire and start contributing.
+4. **VC [Portfolio](/building-web3-portfolio) Job Pages:** Venture capital firms that invest in Web3 often maintain job boards that aggregate opportunities at their portfolio companies. This is an effective way to find roles at well-funded startups.
 
 ### Building Your Web3 Resume
 

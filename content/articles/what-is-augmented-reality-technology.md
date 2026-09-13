@@ -22,17 +22,11 @@ AR systems, whether on smartphones or dedicated smart glasses, consist of severa
 
 1. **Sensors and Cameras**: Devices must perceive and interpret their surroundings. This is achieved through cameras and sensors like accelerometers and gyroscopes, which monitor movement and orientation. Depth sensors can also measure distances to surrounding objects.
 
-2.
+2. **Processing**: The processor interprets data from sensors and cameras, constructing a digital map of the environment. This process, known as Simultaneous Localization and Mapping (SLAM), enables the device to ascertain its location, identify what it sees, and realistically position digital objects within the scene.
 
-**Processing**: The processor interprets data from sensors and cameras, constructing a digital map of the environment. This process, known as Simultaneous Localization and Mapping (SLAM), enables the device to ascertain its location, identify what it sees, and realistically position digital objects within the scene.
+3. **Digital Content**: This refers to the computer-generated information overlaid in the real world. It can be a 3D model, textual directions, or a digital character that enhances the user's experience.
 
-3.
-
-**Digital Content**: This refers to the computer-generated information overlaid in the real world. It can be a 3D model, textual directions, or a digital character that enhances the user's experience.
-
-4.
-
-**Display**: The display allows users to view the blended image. On smartphones, this is the screen showing the live camera feed with digital objects integrated. In AR glasses, transparent lenses project digital information into the user's field of vision, making it seem as though digital objects exist in the actual environment.
+4. **Display**: The display allows users to view the blended image. On smartphones, this is the screen showing the live camera feed with digital objects integrated. In AR glasses, transparent lenses project digital information into the user's field of vision, making it seem as though digital objects exist in the actual environment.
 
 To create a convincing AR experience, digital objects must appear anchored in the real world. For instance, if a virtual vase is placed on a real table, it should remain fixed in position as the user walks around, visible from various angles. Achieving this requires constant tracking of both the device's position and the surfaces in the environment.
 
@@ -79,5 +73,7 @@ A HUD, commonly found in vehicles or aircraft, projects static information into 
 
 #### 2. Which devices support AR?
 
-Most modern smartphones and tablets have built-in AR capabilities, particularly those from Apple (using ARKit) and Android (using ARCore). Dedicated AR headsets, such as the Microsoft HoloLens 2, are available but primarily focus on enterprise applications rather than consumer use.**3. Is an app required for AR?** 
+Most modern smartphones and tablets have built-in AR capabilities, particularly those from Apple (using ARKit) and Android (using ARCore). Dedicated AR headsets, such as the Microsoft HoloLens 2, are available but primarily focus on enterprise applications rather than consumer use.
+
+**3. Is an app required for AR?** 
 Most AR experiences currently rely on dedicated mobile applications. However, the trend towards "WebAR" is growing, enabling access to AR experiences directly through web browsers without needing to download an app.

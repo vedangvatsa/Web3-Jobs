@@ -78,5 +78,7 @@ Yes, it may seem daunting, but start by focusing on one high-impact skill. Avoid
 
 #### 4. How can I balance my current responsibilities with learning?
 
-Look for ways to integrate learning into your work. Can you apply a new technique to solve a current problem? Volunteering for a project that requires a new skill can provide valuable experience. This method, often called "learning in the flow of work," can be highly effective.**5. Which is more important, hard skills or soft skills?** 
+Look for ways to integrate learning into your work. Can you apply a new technique to solve a current problem? Volunteering for a project that requires a new skill can provide valuable experience. This method, often called "learning in the flow of work," can be highly effective.
+
+**5. Which is more important, hard skills or soft skills?** 
 Both are essential. Hard skills often secure you an [interview](/how-to-prepare-for-job-interview), while soft skills contribute to your success in the job. As automation increases, soft skills such as communication, critical thinking, and adaptability become even more vital.

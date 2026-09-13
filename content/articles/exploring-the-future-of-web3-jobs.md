@@ -20,13 +20,9 @@ Three primary trends will influence the evolution of Web3 careers:
 
 1. **Simplification of User Experience:** For Web3 to attract a billion users, we must simplify the underlying complexities. Future users will not need to understand gas fees or manage private keys. This shift will generate substantial demand for roles focused on user experience and accessibility.
 
-2.
+2. **Integration of AI and Web3:** The combination of AI and decentralized systems will create new opportunities for autonomous agents, intelligent oracles, and verifiable AI. This integration will require professionals knowledgeable in both domains.
 
-**Integration of AI and Web3:** The combination of AI and decentralized systems will create new opportunities for autonomous agents, intelligent oracles, and verifiable AI. This integration will require professionals knowledgeable in both domains.
-
-3.
-
-**Development of Decentralized Autonomous Organizations (DAOs):**[DAOs](/what-is-a-dao) will grow from disorganized online communities into sophisticated, global entities. This transformation will necessitate a new breed of managers, strategists, and governance experts proficient in decentralized operations.
+3. **Development of Decentralized Autonomous Organizations (DAOs):**[DAOs](/what-is-a-dao) will grow from disorganized online communities into sophisticated, global entities. This transformation will necessitate a new breed of managers, strategists, and governance experts proficient in decentralized operations.
 
 ### Key Web3 Jobs of the Future
 

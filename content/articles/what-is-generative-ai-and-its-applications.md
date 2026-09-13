@@ -26,7 +26,9 @@ GANs have changed the generation of realistic images. Each GAN comprises two com
 * **The Generator**: This network generates fake data, such as images of human faces. It starts with random noise and learns to refine its output to produce increasingly realistic images.
 * **The Discriminator**: This network acts as a critic, trained on authentic data. It learns to differentiate between genuine images and those crafted by the Generator.
 
-During training, the Generator strives to outsmart the Discriminator, while the Discriminator enhances its ability to detect fakes. Through many iterations, the Generator becomes adept at creating images indistinguishable from real photographs.**2. Transformer Models and LLMs**
+During training, the Generator strives to outsmart the Discriminator, while the Discriminator enhances its ability to detect fakes. Through many iterations, the Generator becomes adept at creating images indistinguishable from real photographs.
+
+**2. Transformer Models and LLMs**
 
 Transformer models serve as the backbone for systems like GPT-4. These models excel at processing sequential data, particularly in language tasks. When users input a prompt, the model generates responses word by word (or "[token](/what-is-a-token)"). 
 
@@ -74,5 +76,7 @@ A prompt is the input, usually text, provided to a generative AI model to specif
 
 #### 4. Will generative AI replace human creativity?
 
-Generative AI is more likely to augment human creativity. Many professionals use it as a tool to enhance workflows, brainstorm ideas, and explore possibilities beyond their initial thoughts. It acts as a powerful creative partner, relying on human input for direction and vision.**5. How does generative AI relate to the metaverse?** 
+Generative AI is more likely to augment human creativity. Many professionals use it as a tool to enhance workflows, brainstorm ideas, and explore possibilities beyond their initial thoughts. It acts as a powerful creative partner, relying on human input for direction and vision.
+
+**5. How does generative AI relate to the metaverse?** 
 Generative AI could are important for developing the metaverse by creating the substantial 3D content, environments, and virtual objects necessary for immersive virtual spaces.

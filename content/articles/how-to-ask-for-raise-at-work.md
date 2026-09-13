@@ -49,18 +49,10 @@ Send your manager a meeting request with a clear subject line, such as "Discussi
 While spontaneity can be appealing, having a structured script or at least key talking points is beneficial. This preparation keeps you focused and ensures you cover essential points.
 
 #### A sample script might include:
-1.
-
-**Begin with a positive note**: "Thank you for meeting with me. I truly enjoy working here and take pride in my contributions to the team."
-2.
-
-**Present your case**: "I wish to discuss my compensation. Over the past year, I have taken on new responsibilities, including [mention 1-2 key responsibilities]. Also, I have achieved [mention 1-2 specific, quantified accomplishments]."
-3.
-
-**Make your request**: "Based on my contributions and market research, I would like to request a salary increase to [your desired salary]."
-4.
-
-**Pause for a response**: After stating your case, remain silent and allow your manager time to consider your request.
+1. **Begin with a positive note**: "Thank you for meeting with me. I truly enjoy working here and take pride in my contributions to the team."
+2. **Present your case**: "I wish to discuss my compensation. Over the past year, I have taken on new responsibilities, including [mention 1-2 key responsibilities]. Also, I have achieved [mention 1-2 specific, quantified accomplishments]."
+3. **Make your request**: "Based on my contributions and market research, I would like to request a salary increase to [your desired salary]."
+4. **Pause for a response**: After stating your case, remain silent and allow your manager time to consider your request.
 
 ### 5. Engage During the Conversation
 

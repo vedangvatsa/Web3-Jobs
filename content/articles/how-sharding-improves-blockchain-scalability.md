@@ -37,21 +37,13 @@ The essential insight is that not all nodes need to process all transactions. Su
 
 ## How Does Sharding Work? (Technical Overview)
 
-1.
+1. **State Partitioning:** The blockchain's entire state, including all account balances and [smart contract](/what-are-smart-contracts) data, is divided among the shards. For instance, Shard 1 may contain accounts starting with "0x0a," while Shard 2 contains accounts starting with "0x0b." Each shard maintains its own distinct state.
 
-**State Partitioning:** The blockchain's entire state, including all account balances and [smart contract](/what-are-smart-contracts) data, is divided among the shards. For instance, Shard 1 may contain accounts starting with "0x0a," while Shard 2 contains accounts starting with "0x0b." Each shard maintains its own distinct state.
+2. **Validator Assignment:** Validators in the network are randomly assigned to various shards to process transactions and uphold security. This random assignment is vital for security, as it prevents validators from colluding to dominate a single shard and commit fraud. If validators were allowed to choose their shard, a small group could concentrate their efforts and compromise that shard.
 
-2.
+3. **Cross-Shard Communication:** A central "Beacon Chain" or "Relay Chain" orchestrates the shards, manages the validator set, and enables secure communication between them. The Beacon Chain does not process user transactions; rather, it manages the system's overall coordination. This architecture is referred to as "beacon chain sharding."
 
-**Validator Assignment:** Validators in the network are randomly assigned to various shards to process transactions and uphold security. This random assignment is vital for security, as it prevents validators from colluding to dominate a single shard and commit fraud. If validators were allowed to choose their shard, a small group could concentrate their efforts and compromise that shard.
-
-3.
-
-**Cross-Shard Communication:** A central "Beacon Chain" or "Relay Chain" orchestrates the shards, manages the validator set, and enables secure communication between them. The Beacon Chain does not process user transactions; rather, it manages the system's overall coordination. This architecture is referred to as "beacon chain sharding."
-
-4.
-
-**Consensus:** Each shard operates a consensus mechanism, which is often simpler than that of the main chain due to fewer transactions. The Beacon Chain aggregates these shard states and establishes the canonical history.
+4. **Consensus:** Each shard operates a consensus mechanism, which is often simpler than that of the main chain due to fewer transactions. The Beacon Chain aggregates these shard states and establishes the canonical history.
 
 ## Practical Example: A Transaction Across Shards
 

@@ -19,27 +19,19 @@ This position appeals to individuals who thrive on the complexities of DeFi prot
 
 A Yield Farming Analyst primarily seeks to answer a critical question: "What is the optimal risk-adjusted return for this asset at the present time?" This objective encompasses several core responsibilities:
 
-1.
+1. **Strategy Discovery**: Analysts continuously search for emerging yield opportunities. This involves monitoring new protocol launches, reviewing project documentation, and engaging in discussions on platforms like Twitter and Discord.
 
-**Strategy Discovery**: Analysts continuously search for emerging yield opportunities. This involves monitoring new protocol launches, reviewing project documentation, and engaging in discussions on platforms like Twitter and Discord.
-
-2.
-
-**Quantitative Analysis**: This aspect is fundamental to the analyst's role. Analysts model the potential returns of various strategies, which includes:
+2. **Quantitative Analysis**: This aspect is fundamental to the analyst's role. Analysts model the potential returns of various strategies, which includes:
  - Calculating the base Annual Percentage Rate (APR) derived from trading fees or lending interest.
  - Considering [token](/what-is-a-token) rewards and their associated price volatility.
  - Estimating the risk of "Impermanent Loss" when providing liquidity.
 
-3.
-
-**Risk Assessment**: High yields often come with significant risks. Analysts must thoroughly evaluate these risks, including:
+3. **Risk Assessment**: High yields often come with significant risks. Analysts must thoroughly evaluate these risks, including:
  - **[Smart Contract](/what-are-smart-contracts) Risk**: Is the protocol audited? Does it use established code or employ novel, untested solutions?
  - **Economic Risk**: Are there vulnerabilities in the protocol's tokenomics? Is the yield sustainable, or does it rely on hyper-inflationary token emissions?
  - **Oracle Risk**: Is the protocol dependent on a price [oracle](/what-are-oracles) that may be subject to manipulation?
 
-4.
-
-**Execution and Monitoring**: Analysts working with crypto funds or [DAOs](/what-is-a-dao) not only develop strategies but also execute and monitor their performance, prepared to withdraw capital when market conditions change.
+4. **Execution and Monitoring**: Analysts working with crypto funds or [DAOs](/what-is-a-dao) not only develop strategies but also execute and monitor their performance, prepared to withdraw capital when market conditions change.
 
 ### Essential Skills for Yield Farming Analysts
 
@@ -55,19 +47,13 @@ A Yield Farming Analyst primarily seeks to answer a critical question: "What is 
 
 ### Pathway to Becoming a Yield Farming Analyst
 
-1.
+1. **Gain Hands-On Experience**: Start as a user. Invest a small amount of capital in a [Layer 2](/guide-to-layer-2s) network to minimize gas fees and experiment with various strategies. Keep a detailed record of your findings and returns.
 
-**Gain Hands-On Experience**: Start as a user. Invest a small amount of capital in a [Layer 2](/guide-to-layer-2s) network to minimize gas fees and experiment with various strategies. Keep a detailed record of your findings and returns.
-
-2.
-
-**Develop a Public Research Portfolio**:
+2. **Develop a Public Research Portfolio**:
  - Initiate a Substack or Mirror blog to share analyses of new yield farming opportunities.
  - Construct a Dune Analytics dashboard tracking yields across diverse protocols within a specific niche.
  - Share your insights on Twitter. A well-researched thread on complex yield strategies can serve as a valuable portfolio asset.
 
-3.
-
-**Specialize**: Identify a niche within yield farming, such as liquidity provision on concentrated liquidity AMMs or strategies using new liquid restaking tokens. 
+3. **Specialize**: Identify a niche within yield farming, such as liquidity provision on concentrated liquidity AMMs or strategies using new liquid restaking tokens. 
 
 A career as a Yield Farming Analyst suits those who relish the intellectual challenge of a constantly shifting field. This high-impact role positions you leading the new DeFi sector.

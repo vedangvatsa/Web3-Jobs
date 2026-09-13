@@ -40,12 +40,8 @@ A Merkle airdrop uses a "pull" mechanism rather than a "push" one. Instead of th
 **Step 1: Off-Chain - Build the Merkle Tree** 1.
 
 **Create the List:** Generate a list of all eligible addresses and the corresponding token amounts. This serves as the "whitelist."
-2.
-
-**Hash the Leaves:** Each entry (e.g., `address + amount`) is hashed to create a "leaf" of the tree.
-3.
-
-**Build the Tree:** Pair up the leaves and hash them together to create parent nodes. Continue this process until reaching a single hash at the top, known as the
+2. **Hash the Leaves:** Each entry (e.g., `address + amount`) is hashed to create a "leaf" of the tree.
+3. **Build the Tree:** Pair up the leaves and hash them together to create parent nodes. Continue this process until reaching a single hash at the top, known as the
 
 **Merkle root**.
 

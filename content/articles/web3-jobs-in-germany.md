@@ -46,24 +46,16 @@ The German market prioritizes highly technical roles, offering competitive salar
 
 ### Pathway to a Web3 Job in Germany
 
-1.
+1. **Specialize in Infrastructure:** To excel in the German market, focus on developing deep technical skills. Developers should learn systems languages like Rust or Go and gain a solid understanding of protocol architecture and consensus mechanisms.
 
-**Specialize in Infrastructure:** To excel in the German market, focus on developing deep technical skills. Developers should learn systems languages like Rust or Go and gain a solid understanding of protocol architecture and consensus mechanisms.
+2. **Build a Strong Open-Source [Portfolio](/building-web3-portfolio):** Your GitHub profile serves as a critical asset. Contribute to reputable Web3 projects, especially core clients or infrastructure. Demonstrating open-source contributions signals your capabilities to potential employers.
 
-2.
-
-**Build a Strong Open-Source [Portfolio](/building-web3-portfolio):** Your GitHub profile serves as a critical asset. Contribute to reputable Web3 projects, especially core clients or infrastructure. Demonstrating open-source contributions signals your capabilities to potential employers.
-
-3.
-
-**Engage with the Berlin Community:** The community is collaborative and tightly knit.
+3. **Engage with the Berlin Community:** The community is collaborative and tightly knit.
  - **Attend Meetups:** Participate in regular Ethereum and Rust developer meetups to network and learn.
  - **Use Co-Working Spaces:** Work from crypto-focused co-working venues like Full Node or Factory Berlin to immerse yourself in the ecosystem.
  - **Join Major Events:** Attend events such as ETHBerlin, DappCon, and Safe{Con} to expand your network.
 
-4.
-
-**Prioritize Security and Reliability:** Showcase a security-first mindset in your projects and during [interviews](/how-to-prepare-for-job-interview). Emphasize your commitment to writing reliable code.
+4. **Prioritize Security and Reliability:** Showcase a security-first mindset in your projects and during [interviews](/how-to-prepare-for-job-interview). Emphasize your commitment to writing reliable code.
 
 ### Exploring Web3 Job Opportunities in Germany
 

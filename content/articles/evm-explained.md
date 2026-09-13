@@ -202,18 +202,10 @@ About half of active contract deployers target EVM bytecode even when they deplo
 
 ### If you are a user who just wants cheaper and safer interaction
 
-1.
-
-**Use an EVM wallet on a network you have verified.** Add a new network in MetaMask only from the project's official docs. Each chain needs its own gas token: ETH on Ethereum and most L2s, BNB on BNB Chain, MATIC on Polygon PoS, AVAX on Avalanche C-Chain. Send a small test amount first and confirm on that chain's explorer.
-2.
-
-**Track gas correctly.** On Ethereum check the base fee and tip on Etherscan gastracker. On L2s track both execution gas and the L1 data fee that reflects blob or calldata cost. Avoid transacting in the middle of a popular mint or market event when base fee can climb 12.5 percent per block.
-3.
-
-**Check contract verification.** Search the address on the explorer, open the Contract tab, and confirm the source matches the project's GitHub and audit. Look for `eth_getCode` length, proxy admin, and whether `SELFDESTRUCT` or `DELEGATECALL` is present. If logs matter, match `LOG0` to `LOG4` topics to the ABI.
-4.
-
-**Start on a rollup if fees matter.** A swap that costs 5 to 50 dollars on L1 can cost 0.01 to 0.30 dollars on Arbitrum, Base, or BNB Chain during quiet periods. Use the canonical bridge for the first deposit, and respect the 7-day exit on optimistic rollups when planning withdrawals.
+1. **Use an EVM wallet on a network you have verified.** Add a new network in MetaMask only from the project's official docs. Each chain needs its own gas token: ETH on Ethereum and most L2s, BNB on BNB Chain, MATIC on Polygon PoS, AVAX on Avalanche C-Chain. Send a small test amount first and confirm on that chain's explorer.
+2. **Track gas correctly.** On Ethereum check the base fee and tip on Etherscan gastracker. On L2s track both execution gas and the L1 data fee that reflects blob or calldata cost. Avoid transacting in the middle of a popular mint or market event when base fee can climb 12.5 percent per block.
+3. **Check contract verification.** Search the address on the explorer, open the Contract tab, and confirm the source matches the project's GitHub and audit. Look for `eth_getCode` length, proxy admin, and whether `SELFDESTRUCT` or `DELEGATECALL` is present. If logs matter, match `LOG0` to `LOG4` topics to the ABI.
+4. **Start on a rollup if fees matter.** A swap that costs 5 to 50 dollars on L1 can cost 0.01 to 0.30 dollars on Arbitrum, Base, or BNB Chain during quiet periods. Use the canonical bridge for the first deposit, and respect the 7-day exit on optimistic rollups when planning withdrawals.
 
 ### If you are a builder
 
@@ -259,7 +251,9 @@ forge inspect Counter deployedBytecode
 cast disassemble 0x608060405234801561000f575f80fd5b...
 ```
 
-Open the bytecode on evm.codes to map each byte to its opcode, gas, and stack effect. For a quick Yul test of memory, the ethereum.org walkthrough uses `mstore(0, 0x60A7)` to show that `MSTORE` expands memory to 32 bytes and pads with zeros.**3. Test gas and state touch.
+Open the bytecode on evm.codes to map each byte to its opcode, gas, and stack effect. For a quick Yul test of memory, the ethereum.org walkthrough uses `mstore(0, 0x60A7)` to show that `MSTORE` expands memory to 32 bytes and pads with zeros.
+
+**3. Test gas and state touch.
 
 **Use Forge gas reports and trace on a fork. Mark hot paths and avoid repeated cold `SLOAD`. Cache a storage value in memory if you read it twice in the same call. Prefer `calldata` for read-only arrays over copying to `memory`. Add an access list with `eth_createAccessList` only after you have measured that pre-warming saves more than it costs.
 
@@ -280,7 +274,9 @@ contract Guarded {
 }
 ```
 
-This replaces the storage guard that paid 20,100 gas for the set and clear with about 200 gas. Test with `evm_version = cancun` and assert that any internal call reverts if it reenters, that a reverted sub-call rolls back its `TSTORE`, and that your `DELEGATECALL` library does not reuse `LOCK_SLOT`.**4. Run on testnets first.
+This replaces the storage guard that paid 20,100 gas for the set and clear with about 200 gas. Test with `evm_version = cancun` and assert that any internal call reverts if it reenters, that a reverted sub-call rolls back its `TSTORE`, and that your `DELEGATECALL` library does not reuse `LOCK_SLOT`.
+
+**4. Run on testnets first.
 
 **Use Sepolia or Holesky. Fund via a faucet, deploy with `forge create`, verify with `forge verify-contract` against the chain's explorer, then test force inclusion through L1 if you run on a rollup that exposes it. Many EVM L1s outside Ethereum have not yet activated Cancun semantics, so check `TSTORE` support before you ship transient logic cross-chain.** 5. Budget per block, not just per transaction.
 

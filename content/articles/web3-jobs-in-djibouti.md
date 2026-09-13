@@ -83,7 +83,7 @@ However, interest from enterprises and government sectors is increasing:
 
 **Compensation:**
 
-- **-** Local Hire (Djibouti-based):**Competitive annual salary
+- Local Hire (Djibouti-based):**Competitive annual salary
 - **International Consultant/Senior Developer:** Project-based contracts often exceed typical rates for multi-month engagements
 - **Typical Structure:** Short-term pilot projects (3-6 months) rather than permanent roles
 
@@ -208,7 +208,7 @@ Focus your network on decision-makers within Djibouti's economy.
 
 **Key Organizations:**
 
-- **-** Djibouti Ports and Free Zones Authority (DPFZA)**- The port operator.
+- Djibouti Ports and Free Zones Authority (DPFZA)**- The port operator.
 - **Ministry of Economy and Finance**- Government policy.
 - **Central Bank of Djibouti**- Financial system oversight.
 - **National Chamber of Commerce**- Private sector.
@@ -229,34 +229,18 @@ Opportunities in Djibouti center on B2B and government projects rather than cons
 **Core Technical Skills:** 1.
 
 **Hyperledger Fabric**(the primary platform for enterprise blockchain).
-2.
-
-**Smart Contract Development**(using Go or Node.js for Fabric).
-3.
-
-**System Architecture**(designing large-scale systems).
-4.
-
-**Database Management**(understanding data persistence).
-5.
-
-**Security**(critical for financial systems).
+2. **Smart Contract Development**(using Go or Node.js for Fabric).
+3. **System Architecture**(designing large-scale systems).
+4. **Database Management**(understanding data persistence).
+5. **Security**(critical for financial systems).
 
 **Domain Skills:** 1.
 
 **Maritime Law**(bills of lading, liability).
-2.
-
-**Trade Finance**(letters of credit, payment mechanisms).
-3.
-
-**Customs Procedures**(documentation, tariff classification).
-4.
-
-**Port Operations**(container handling, logistics).
-5.
-
-**Regulatory Compliance**(AML/KYC for financial products).
+2. **Trade Finance**(letters of credit, payment mechanisms).
+3. **Customs Procedures**(documentation, tariff classification).
+4. **Port Operations**(container handling, logistics).
+5. **Regulatory Compliance**(AML/KYC for financial products).
 
 **How to Acquire These:**- Online: Take Hyperledger courses, edX, or Coursera for technical skills.
 - Books: Read "Letters of Credit: A Complete Guide" (Cannon) and "Port Handbook" (various publishers).
@@ -269,7 +253,7 @@ The Web3 community is global; connect with the broader network while focusing on
 
 **Key Communities:**
 
-- **-** Enterprise [Ethereum](/what-is-ethereum) Alliance**- Focused on business blockchain.
+- Enterprise [Ethereum](/what-is-ethereum) Alliance**- Focused on business blockchain.
 - **Hyperledger Community**- Open-source enterprise blockchain.
 - **TradeFinanceGlobal**- Community focused on trade finance.
 - **Blockchain supply chain conferences**- APEX, Blockchain Logistics Summit.

@@ -42,21 +42,13 @@ Currently, the formal Web3 job market in Bangui is limited for local talent. The
 
 ### Building a Web3 Career in Bangui
 
-1.
+1. **Adopt Entrepreneurship:** The most significant opportunities lie in entrepreneurship within the Sango ecosystem. This path suits individuals with a high tolerance for risk and a willingness to operate in frontier markets.
 
-**Adopt Entrepreneurship:** The most significant opportunities lie in entrepreneurship within the Sango ecosystem. This path suits individuals with a high tolerance for risk and a willingness to operate in frontier markets.
+2. **Engage with Government Entities:** Professionals with backgrounds in policy or business development should connect with government bodies leading the Sango initiative. Consulting and advising on project development can yield substantial opportunities.
 
-2.
+3. **Develop New Solutions:** Developers should focus on creating applications that function effectively with limited internet connectivity. Projects using SMS or USSD technology for blockchain interaction can have a significant impact.
 
-**Engage with Government Entities:** Professionals with backgrounds in policy or business development should connect with government bodies leading the Sango initiative. Consulting and advising on project development can yield substantial opportunities.
-
-3.
-
-**Develop New Solutions:** Developers should focus on creating applications that function effectively with limited internet connectivity. Projects using SMS or USSD technology for blockchain interaction can have a significant impact.
-
-4.
-
-**Join the Pan-African Community:** Local talent must engage with the broader African Web3 community online to learn and discover remote opportunities.
+4. **Join the Pan-African Community:** Local talent must engage with the broader African Web3 community online to learn and discover remote opportunities.
 
 ## Bangui's Importance in the Web3 Future
 
@@ -131,18 +123,10 @@ Local talent may lag in skills, presenting challenges such as:
 
 To succeed in Bangui:
 
-1.
-
-**Pursue Remote Work First:** Establish financial stability with an international remote job to mitigate risk.
-2.
-
-**Document Your Journey:** Maintain a public record of your experiences, showcasing your expertise and building your reputation.
-3.
-
-**Focus on Impact:** Measure success not solely by salary but by the systems and ecosystems you contribute to building.
-4.
-
-**Plan for Mobility:** Be ready to engage with other African tech hubs, such as Dakar, Lagos, and Kigali, for conferences, collaboration, and funding.
+1. **Pursue Remote Work First:** Establish financial stability with an international remote job to mitigate risk.
+2. **Document Your Journey:** Maintain a public record of your experiences, showcasing your expertise and building your reputation.
+3. **Focus on Impact:** Measure success not solely by salary but by the systems and ecosystems you contribute to building.
+4. **Plan for Mobility:** Be ready to engage with other African tech hubs, such as Dakar, Lagos, and Kigali, for conferences, collaboration, and funding.
 
 ## Community Resources and References
 

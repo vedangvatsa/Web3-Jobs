@@ -47,23 +47,15 @@ The UK boasts some of the highest Web3 salaries globally, second only to the Uni
 
 ### Steps to Secure a Web3 Job in the UK
 
-1.
+1. **Use a TradFi Background:** Experience from banks, hedge funds, or fintech companies as a quant, trader, compliance officer, or financial engineer gives you a competitive edge. Your skills directly apply to DeFi protocols.
 
-**Use a TradFi Background:** Experience from banks, hedge funds, or fintech companies as a quant, trader, compliance officer, or financial engineer gives you a competitive edge. Your skills directly apply to DeFi protocols.
+2. **Focus on Security and Compliance:** The UK market prioritizes security and regulatory awareness. Showcasing your understanding of these factors will enhance your appeal to potential employers.
 
-2.
-
-**Focus on Security and Compliance:** The UK market prioritizes security and regulatory awareness. Showcasing your understanding of these factors will enhance your appeal to potential employers.
-
-3.
-
-**Network within the London Community:** The London Web3 community is highly active.
+3. **Network within the London Community:** The London Web3 community is highly active.
  - **Attend Meetups:** Participate in regular events such as the [Ethereum](/what-is-ethereum) London meetup and other specialized gatherings.
  - **Hackathons and Conferences:** Engage in events like ETHLondon and various industry conferences. In-person networking remains one of the most effective job search strategies.
 
-4.
-
-**Understand RWA Tokenization Nuances:** The tokenization of Real-World Assets is a focal point in London's ecosystem. Research this sector thoroughly, as understanding its legal and technical challenges will make you more attractive to employers.
+4. **Understand RWA Tokenization Nuances:** The tokenization of Real-World Assets is a focal point in London's ecosystem. Research this sector thoroughly, as understanding its legal and technical challenges will make you more attractive to employers.
 
 ### Finding a UK Web3 Job
 

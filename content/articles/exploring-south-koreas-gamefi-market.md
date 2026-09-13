@@ -20,15 +20,11 @@ Several key elements have positioned South Korea as a leader in blockchain gamin
 
 1. **Rich Gaming Culture:** Gaming holds a central place in Korean society. The nation has a large, sophisticated player base familiar with virtual economies, in-game assets, and digital collectibles. This familiarity enables the transition to [NFTs](/what-are-nfts) and player-owned assets.
 
-2.
-
-**Strong Presence of Major Game Publishers:** Unlike many regions where startups drive GameFi, South Korea's market is dominated by established giants such as WeMade, Nexon, and Netmarble. These companies have extensive experience in creating high-quality games and are now applying their expertise to Web3.
+2. **Strong Presence of Major Game Publishers:** Unlike many regions where startups drive GameFi, South Korea's market is dominated by established giants such as WeMade, Nexon, and Netmarble. These companies have extensive experience in creating high-quality games and are now applying their expertise to Web3.
 
 3. **growing Developer Ecosystem:** South Korea is home to a talented pool of game developers, artists, and designers who excel at creating engaging and commercially successful games.
 
-4.
-
-**High Cryptocurrency Adoption:** The nation features a mature cryptocurrency market with significant adoption rates. A sophisticated retail investor base eagerly seeks new GameFi opportunities.
+4. **High Cryptocurrency Adoption:** The nation features a mature cryptocurrency market with significant adoption rates. A sophisticated retail investor base eagerly seeks new GameFi opportunities.
 
 ### Key Players in the South Korean GameFi Market
 
@@ -69,21 +65,13 @@ The job market for professionals with traditional gaming experience remains stro
 
 ### Building a Career in Korean GameFi
 
-1.
+1. **Language Proficiency:** Fluency in Korean is essential for most roles. The majority of communications in game development and publishing occur in Korean.
 
-**Language Proficiency:** Fluency in Korean is essential for most roles. The majority of communications in game development and publishing occur in Korean.
+2. **Gain Experience in Traditional Gaming:** A common and effective pathway is to start a career in the traditional gaming industry in Korea. Skills and networks developed at companies like Nexon or Netmarble are highly transferable and respected.
 
-2.
+3. **Understand In-Game Economies:** Familiarize yourself with the economics of free-to-play games and virtual worlds. Learn about player spending psychology and virtual asset valuation. This knowledge is important for GameFi design.
 
-**Gain Experience in Traditional Gaming:** A common and effective pathway is to start a career in the traditional gaming industry in Korea. Skills and networks developed at companies like Nexon or Netmarble are highly transferable and respected.
-
-3.
-
-**Understand In-Game Economies:** Familiarize yourself with the economics of free-to-play games and virtual worlds. Learn about player spending psychology and virtual asset valuation. This knowledge is important for GameFi design.
-
-4.
-
-**Network at Industry Events:** G-STAR, Korea's largest gaming conference held annually in Busan, serves as a key networking opportunity. Attending this event and other local meetups in Seoul is an effective way to connect with industry professionals.
+4. **Network at Industry Events:** G-STAR, Korea's largest gaming conference held annually in Busan, serves as a key networking opportunity. Attending this event and other local meetups in Seoul is an effective way to connect with industry professionals.
 
 ### South Korea's Role in Shaping the Future of Gaming
 

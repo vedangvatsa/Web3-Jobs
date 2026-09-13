@@ -30,25 +30,15 @@ Reporting on Web3 comes with distinct challenges and opportunities that set it a
 
 To thrive as a crypto journalist, you need to blend traditional journalistic ethics with a distinct set of skills tailored to the crypto world.
 
-1.
+1. **Technical Curiosity:** You don't need to be a developer, but you must possess a keen interest in understanding technology. You should be able to explain concepts like [smart contracts](/what-are-smart-contracts), the differences between Layer 1 and Layer 2 solutions, and the fundamentals of tokenomics.
 
-**Technical Curiosity:** You don't need to be a developer, but you must possess a keen interest in understanding technology. You should be able to explain concepts like [smart contracts](/what-are-smart-contracts), the differences between Layer 1 and Layer 2 solutions, and the fundamentals of tokenomics.
+2. **Writing and Storytelling Proficiency:** Clear and compelling storytelling is important. You must translate complex, technical subjects into engaging narratives that resonate with readers.
 
-2.
+3. **On-Chain Analysis Skills:** Basic on-chain analytical capabilities are invaluable. Familiarity with tools like Etherscan for transaction tracing or creating simple dashboards on Dune to monitor a protocol's growth will give you a competitive edge.
 
-**Writing and Storytelling Proficiency:** Clear and compelling storytelling is important. You must translate complex, technical subjects into engaging narratives that resonate with readers.
+4. **Networking Abilities:** The best stories often emerge from insider information. You must excel at building relationships with founders, developers, investors, and community members on platforms like Twitter and Discord.
 
-3.
-
-**On-Chain Analysis Skills:** Basic on-chain analytical capabilities are invaluable. Familiarity with tools like Etherscan for transaction tracing or creating simple dashboards on Dune to monitor a protocol's growth will give you a competitive edge.
-
-4.
-
-**Networking Abilities:** The best stories often emerge from insider information. You must excel at building relationships with founders, developers, investors, and community members on platforms like Twitter and Discord.
-
-5.
-
-**Integrity:** In a hype-driven environment, your reputation for impartiality and accuracy is critical. Upholding high ethical standards will strengthen your credibility.
+5. **Integrity:** In a hype-driven environment, your reputation for impartiality and accuracy is critical. Upholding high ethical standards will strengthen your credibility.
 
 ### Crafting Your Crypto Journalist Portfolio
 

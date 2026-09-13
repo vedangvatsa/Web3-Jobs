@@ -44,12 +44,8 @@ Many remote [Web3 jobs](/web3-jobs-for-beginners) now compensate employees and c
 **Payment Process:** 1.
 
 **Obtain a Self-Custodial Wallet:** Set up a wallet like MetaMask to manage your private keys securely.
-2.
-
-**Share Your Address:** Provide your public [Ethereum](/what-is-ethereum) address (e.g., yourname.eth) to your employer, similar to sharing a bank account number.
-3.
-
-**Receive Your Salary:** Your employer transfers stablecoins directly to your wallet on an agreed network, usually a low-fee Layer 2.
+2. **Share Your Address:** Provide your public [Ethereum](/what-is-ethereum) address (e.g., yourname.eth) to your employer, similar to sharing a bank account number.
+3. **Receive Your Salary:** Your employer transfers stablecoins directly to your wallet on an agreed network, usually a low-fee Layer 2.
 
 ### Converting Crypto to Local Currency
 
@@ -61,14 +57,10 @@ Converting your crypto earnings into local currency presents a significant logis
  - **Procedure:** Transfer stablecoins from your MetaMask to your exchange wallet, sell the stablecoins for local currency, and withdraw the fiat to a local bank account linked to the exchange.
  - **Consideration:** Establishing a bank account in your current country can be challenging as a non-resident. Many nomads keep a bank account in their home country and use debit cards that support international transactions.
 
-2.
-
-**Peer-to-Peer (P2P) Exchanges:** In regions where formal banking is less accessible, P2P exchanges can serve as a primary off-ramp.
+2. **Peer-to-Peer (P2P) Exchanges:** In regions where formal banking is less accessible, P2P exchanges can serve as a primary off-ramp.
  - **Procedure:** Locate a buyer on the exchange's P2P platform. Send them the crypto, and they will transfer the local currency via a payment app or bank transfer.
 
-3.
-
-**Crypto Debit Cards:** Many companies now offer debit cards that allow spending crypto directly.
+3. **Crypto Debit Cards:** Many companies now offer debit cards that allow spending crypto directly.
  - **Procedure:** Load the card with crypto. When you use the card, the provider converts the crypto to local currency for the transaction.
  - **Consideration:** Availability of these cards may vary by jurisdiction, and conversion fees could apply.
 

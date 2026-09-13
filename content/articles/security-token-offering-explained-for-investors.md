@@ -51,21 +51,13 @@ Security tokens serve as digital wrappers for various traditional financial asse
 
 An STO follows a formal and regulated process that differs significantly from the more informal ICO model.
 
-1.
+1. **Legal and Compliance **: Projects must engage legal counsel to structure offerings in accordance with securities laws in targeted jurisdictions. This often limits participation to** accredited investors**.
 
-**Legal and Compliance **: Projects must engage legal counsel to structure offerings in accordance with securities laws in targeted jurisdictions. This often limits participation to** accredited investors**.
+2. **KYC/AML Procedures**: All investors must complete a Know Your Customer (KYC) and Anti-Money Laundering (AML) process to validate their identity and the source of their funds.
 
-2.
+3. **Tokenization Platform**: Security tokens are issued on specialized platforms equipped to enforce compliance at the [smart contract](/what-are-smart-contracts) level. These platforms ensure that transfers occur only between whitelisted addresses.
 
-**KYC/AML Procedures**: All investors must complete a Know Your Customer (KYC) and Anti-Money Laundering (AML) process to validate their identity and the source of their funds.
-
-3.
-
-**Tokenization Platform**: Security tokens are issued on specialized platforms equipped to enforce compliance at the [smart contract](/what-are-smart-contracts) level. These platforms ensure that transfers occur only between whitelisted addresses.
-
-4.
-
-**Trading Mechanisms**: Tokens can be traded solely on licensed security token exchanges or alternative trading systems (ATS) that comply with relevant securities regulations.
+4. **Trading Mechanisms**: Tokens can be traded solely on licensed security token exchanges or alternative trading systems (ATS) that comply with relevant securities regulations.
 
 ### Benefits of Security Token Offerings
 

@@ -48,21 +48,13 @@ Japan's job market for Web3 professionals is strong, particularly for those with
 
 ### How to Get a Web3 Job in Japan
 
-1.
+1. **Language Proficiency is Essential:** Most positions require business-level or fluent Japanese. The primary market operates in Japanese, necessitating proficiency for effective communication.
 
-**Language Proficiency is Essential:** Most positions require business-level or fluent Japanese. The primary market operates in Japanese, necessitating proficiency for effective communication.
+2. **Corporate Experience is a Plus:** Experience in large, established corporations, especially within gaming, entertainment, or finance, is highly regarded. This background often indicates a solid understanding of professional practices.
 
-2.
+3. **Understand the Culture of "Monozukuri":** This Japanese concept, translating to "the art of making things," emphasizes quality and craftsmanship. During interviews and in your [portfolio](/building-web3-portfolio), focus on the quality and reliability of your work rather than speed or hype.
 
-**Corporate Experience is a Plus:** Experience in large, established corporations, especially within gaming, entertainment, or finance, is highly regarded. This background often indicates a solid understanding of professional practices.
-
-3.
-
-**Understand the Culture of "Monozukuri":** This Japanese concept, translating to "the art of making things," emphasizes quality and craftsmanship. During interviews and in your [portfolio](/building-web3-portfolio), focus on the quality and reliability of your work rather than speed or hype.
-
-4.
-
-**Network at Key Events:** Participate in major industry events in Tokyo, such as Japan Blockchain Week, IVS Crypto conference, and WebX. These gatherings provide opportunities to connect with leaders in the Japanese Web3 space.
+4. **Network at Key Events:** Participate in major industry events in Tokyo, such as Japan Blockchain Week, IVS Crypto conference, and WebX. These gatherings provide opportunities to connect with leaders in the Japanese Web3 space.
 
 ## Salary Guide: Web3 Jobs in Japan
 
@@ -160,27 +152,27 @@ Japan's job market for Web3 professionals is strong, particularly for those with
 
 **Challenge 1: Language Barrier**
 
-- **-** Reality:**Most positions require business-level Japanese fluency.
+- Reality:**Most positions require business-level Japanese fluency.
 - **Solution:** Invest 6-12 months in intensive language study. Online courses and language exchanges are widely available.
 
 **Challenge 2: Cautious Culture**
 
-- **-** Reality:**Japanese decision-making tends to be conservative. The crypto sector remains viewed with caution post-Mt. Gox.
+- Reality:**Japanese decision-making tends to be conservative. The crypto sector remains viewed with caution post-Mt. Gox.
 - **Solution:** Position Web3 as a compliant technology rather than speculative. Emphasize stability, security, and compliance.
 
 **Challenge 3: Corporate Hierarchy and Decision-Making Speed**
 
-- **-** Reality:**Japanese corporations can be slow-moving, with job advancement often requiring 3-5 years.
+- Reality:**Japanese corporations can be slow-moving, with job advancement often requiring 3-5 years.
 - **Solution:** Practice patience. Cultivate deep relationships. Long-term thinking aligns well with Japanese cultural values.
 
 **Challenge 4: Limited Startup Scene in Web3**
 
-- **-** Reality:**Most Web3 positions exist within major corporations rather than startups.
+- Reality:**Most Web3 positions exist within major corporations rather than startups.
 - **Solution:** For those seeking startup energy, consider international remote roles. If stability is a priority, pursue corporate roles in Japan.
 
 **Challenge 5: Geographic Concentration in Tokyo**
 
-- **-** Reality:**A significant majority of Web3 jobs are located in Tokyo.
+- Reality:**A significant majority of Web3 jobs are located in Tokyo.
 - **Solution:** Relocate to Tokyo if committed to a Web3 career. Tokyo serves as Japan's tech center, and the cost of living is reasonable compared to global hubs.
 
 ## 90-Day Quick-Start Action Plan

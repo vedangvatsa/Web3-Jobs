@@ -321,21 +321,11 @@ At work: Interviewers expect you to name this attack and explain checks-effects-
 
 ## How to turn this glossary into interview answers in five steps
 
-1.
-
-**Map the listing.** Highlight every Web3 term in the job post and write a one-sentence definition from above.
-2.
-
-**Tie each term to your work.** For each term, add one example: "Used ERC-20 approve and transferFrom when building a payroll contract that pays USDC weekly."
-3.
-
-**Prepare one trade-off per term.** Example: "Optimistic rollups are EVM easy but withdrawals wait about 7 days. ZK rollups exit faster but need proof infrastructure."
-4.
-
-**Build one small proof.** Deploy a simple Solidity contract to a testnet, add it to a wallet, call it via an RPC, and read events. Bring the address to the interview.
-5.
-
-**Practice failure answers.** Be ready to explain what you do when gas spikes, oracles lag, or a bridge halts. Hiring managers value safe handling more than recall.
+1. **Map the listing.** Highlight every Web3 term in the job post and write a one-sentence definition from above.
+2. **Tie each term to your work.** For each term, add one example: "Used ERC-20 approve and transferFrom when building a payroll contract that pays USDC weekly."
+3. **Prepare one trade-off per term.** Example: "Optimistic rollups are EVM easy but withdrawals wait about 7 days. ZK rollups exit faster but need proof infrastructure."
+4. **Build one small proof.** Deploy a simple Solidity contract to a testnet, add it to a wallet, call it via an RPC, and read events. Bring the address to the interview.
+5. **Practice failure answers.** Be ready to explain what you do when gas spikes, oracles lag, or a bridge halts. Hiring managers value safe handling more than recall.
 
 ## FAQ
 

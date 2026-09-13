@@ -44,21 +44,13 @@ Chennai's job market shows a particularly strong demand for experienced full-sta
 
 ### Building a Web3 Career in Chennai
 
-1.
+1. **Use Your SaaS/Product Background:** If you have experience in building scalable web applications, you are well-positioned for the Web3 market. Emphasize your capacity to develop and deliver high-quality software in your [resume](/how-to-build-a-web3-resume-that-stands-out) and interviews. Expand your skillset with Web3-specific knowledge.
 
-**Use Your SaaS/Product Background:** If you have experience in building scalable web applications, you are well-positioned for the Web3 market. Emphasize your capacity to develop and deliver high-quality software in your [resume](/how-to-build-a-web3-resume-that-stands-out) and interviews. Expand your skillset with Web3-specific knowledge.
+2. **Enhance Full-Stack Skills:** The demand in Chennai leans toward engineers capable of constructing the entire application, from user interfaces to backend services that engage with the blockchain. While [smart contract](/what-are-smart-contracts) development is valuable, full-stack capabilities are essential.
 
-2.
+3. **Engage with the Local Community:** Participate in Web3 meetups and events in Chennai. The community is smaller and more cohesive than in Bangalore, allowing for the development of meaningful relationships with founders and other innovators.
 
-**Enhance Full-Stack Skills:** The demand in Chennai leans toward engineers capable of constructing the entire application, from user interfaces to backend services that engage with the blockchain. While [smart contract](/what-are-smart-contracts) development is valuable, full-stack capabilities are essential.
-
-3.
-
-**Engage with the Local Community:** Participate in Web3 meetups and events in Chennai. The community is smaller and more cohesive than in Bangalore, allowing for the development of meaningful relationships with founders and other innovators.
-
-4.
-
-**Create a [Portfolio](/building-web3-portfolio) that Demonstrates Product Sense:** Your projects should extend beyond basic smart contracts. Develop a full-stack decentralized application (dApp) featuring a polished user interface and a well-structured backend. Include a README that outlines your architectural decisions. This approach showcases your perspective as a product engineer rather than merely a coder.
+4. **Create a [Portfolio](/building-web3-portfolio) that Demonstrates Product Sense:** Your projects should extend beyond basic smart contracts. Develop a full-stack decentralized application (dApp) featuring a polished user interface and a well-structured backend. Include a README that outlines your architectural decisions. This approach showcases your perspective as a product engineer rather than merely a coder.
 
 ### Next Steps: Finding a Web3 Job
 

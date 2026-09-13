@@ -46,21 +46,13 @@ Rabat's job market shows a strong demand for professionals with expertise in tec
 
 ### Building a Web3 Career in Rabat
 
-1.
+1. **Use Your Public Sector or Academic Experience:** A background in government, policy, or research provides a competitive edge. Emphasize your knowledge of public administration and your research capabilities.
 
-**Use Your Public Sector or Academic Experience:** A background in government, policy, or research provides a competitive edge. Emphasize your knowledge of public administration and your research capabilities.
+2. **Gain Expertise in Moroccan Crypto Regulation:** Focus on this niche area. Study official communications from Bank Al-Maghrib and the Moroccan government regarding digital assets. Establish yourself as a thought leader by analyzing and discussing the country's regulatory trends. Writing articles or maintaining a blog on this topic can enhance your visibility.
 
-2.
+3. **Network in Policy and Academic Circles:** Engage with key institutions and attend seminars at engineering universities and FinTech events aimed at the public sector. Cultivate connections with policymakers and technologists involved in government innovation initiatives.
 
-**Gain Expertise in Moroccan Crypto Regulation:** Focus on this niche area. Study official communications from Bank Al-Maghrib and the Moroccan government regarding digital assets. Establish yourself as a thought leader by analyzing and discussing the country's regulatory trends. Writing articles or maintaining a blog on this topic can enhance your visibility.
-
-3.
-
-**Network in Policy and Academic Circles:** Engage with key institutions and attend seminars at engineering universities and FinTech events aimed at the public sector. Cultivate connections with policymakers and technologists involved in government innovation initiatives.
-
-4.
-
-**Prioritize Practical, Secure, and Compliant Solutions:** The Rabat market values trust and stability. Highlight your ability to design and implement secure, compliant systems that address real-world administrative or financial challenges in your [portfolio](/building-web3-portfolio) and interviews.
+4. **Prioritize Practical, Secure, and Compliant Solutions:** The Rabat market values trust and stability. Highlight your ability to design and implement secure, compliant systems that address real-world administrative or financial challenges in your [portfolio](/building-web3-portfolio) and interviews.
 
 ## Salary Overview: Web3 Jobs in Rabat
 
@@ -160,27 +152,27 @@ Rabat's job market shows a strong demand for professionals with expertise in tec
 
 **Challenge 1: Slow Policy Progress**
 
-- **-** Reality:**Government decisions often take time to solidify.
+- Reality:**Government decisions often take time to solidify.
 - **Solution:** Be patient. Those who understand bureaucratic processes hold a rare advantage. Specialize in managing government timelines.
 
 **Challenge 2: Limited Local Industry**
 
-- **-** Reality:**Morocco's crypto sector is still developing.
+- Reality:**Morocco's crypto sector is still developing.
 - **Solution:** Target policy or R&D roles that align with Rabat's strengths. These positions tend to offer competitive salaries.
 
 **Challenge 3: Language Barriers**
 
-- **-** Reality:**Proficiency in French and Arabic is essential; English is secondary in governmental contexts.
+- Reality:**Proficiency in French and Arabic is essential; English is secondary in governmental contexts.
 - **Solution:** If not fluent, prioritize learning French. Mastery of Arabic, French, and English can significantly enhance your marketability.
 
 **Challenge 4: Regulatory Uncertainty**
 
-- **-** Reality:**The future of crypto regulation in Morocco remains unclear.
+- Reality:**The future of crypto regulation in Morocco remains unclear.
 - **Solution:** Develop expertise in the nuances of this uncertainty. Your insights will be invaluable once policies are clarified.
 
 **Challenge 5: Talent Drain to Europe**
 
-- **-** Reality:**Many skilled Moroccans relocate to other countries.
+- Reality:**Many skilled Moroccans relocate to other countries.
 - **Solution:** Focus on government roles that cannot be performed remotely. Build influence and wealth within Morocco first.
 
 ## 90-Day Quick-Start Action Plan

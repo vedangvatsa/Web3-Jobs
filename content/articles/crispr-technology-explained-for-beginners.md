@@ -19,9 +19,7 @@ The CRISPR-Cas9 system comprises two essential components:
 
 1. **Guide RNA (gRNA)**: This RNA strand acts as the navigator in the editing process. Scientists design gRNA to correspond to a specific DNA sequence they wish to target. Its role is to locate the correct position within the genome for the modification.
 
-2.
-
-**Cas9 Enzyme**: This protein serves as the molecular scissors, enabling the cut in the DNA strand. Once the gRNA binds to its target sequence, the Cas9 enzyme cleaves the DNA at that precise location.
+2. **Cas9 Enzyme**: This protein serves as the molecular scissors, enabling the cut in the DNA strand. Once the gRNA binds to its target sequence, the Cas9 enzyme cleaves the DNA at that precise location.
 
 ### Editing Process
 
@@ -66,5 +64,7 @@ CRISPR technology has high accuracy, but it is not infallible. There exists a ri
 
 #### 2. How does CRISPR differ from traditional GMOs?
 
-Traditional Genetically Modified Organisms (GMOs) often involve the insertion of foreign DNA, sometimes from different species. In contrast, CRISPR allows for precise modifications of an organism's existing DNA without adding external genetic material. The resulting organism may exhibit traits similar to those found in naturally occurring mutations.**3. Can CRISPR be applied to complex diseases like Alzheimer's or heart disease?** 
+Traditional Genetically Modified Organisms (GMOs) often involve the insertion of foreign DNA, sometimes from different species. In contrast, CRISPR allows for precise modifications of an organism's existing DNA without adding external genetic material. The resulting organism may exhibit traits similar to those found in naturally occurring mutations.
+
+**3. Can CRISPR be applied to complex diseases like Alzheimer's or heart disease?** 
 Diseases such as Alzheimer's and heart disease result from complex interactions among multiple genes and environmental factors. These conditions cannot be addressed with a single genetic edit as seen with monogenic diseases. Nevertheless, CRISPR serves as a valuable tool for researching these multifactorial diseases, potentially leading to novel therapies targeting genetic risk factors.

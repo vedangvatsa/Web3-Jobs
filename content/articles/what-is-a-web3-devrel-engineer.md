@@ -27,18 +27,14 @@ The daily responsibilities of a DevRel engineer are diverse and complex. They ac
  - **Tutorials and Guides:** Developing tutorials, example code repositories, and video content that instruct developers on using the protocol effectively.
  - **Technical Blog Posts:** Crafting articles that clarify complex features or highlight new use cases.
 
-2.
+2. **Community Engagement:**
 
-**Community Engagement:**
-
-- **-** Developer Support:**Assisting developers with technical inquiries on platforms such as Discord, Telegram, and forums like Stack Overflow. They serve as the first point of contact for developers facing challenges.
+- Developer Support:**Assisting developers with technical inquiries on platforms such as Discord, Telegram, and forums like Stack Overflow. They serve as the first point of contact for developers facing challenges.
  - **Event Presence:** Participating in hackathons and conferences, leading workshops, and judging projects. They act as the public representative of the protocol within the developer community.
 
-3.
+3. **Product Feedback:**
 
-**Product Feedback:**
-
-- **-** Voice of the Developer:**DevRel engineers create a vital feedback loop between the external developer community and internal product and engineering teams.
+- Voice of the Developer:**DevRel engineers create a vital feedback loop between the external developer community and internal product and engineering teams.
  - **Enhancing the Developer Experience (DX):** They identify pain points and advocate for enhancements to the protocol's APIs, SDKs, and documentation.
 
 ### Skills Essential for DevRel
@@ -54,17 +50,9 @@ Successful DevRel engineers possess a unique combination of skills.
 
 The journey to becoming a DevRel engineer often begins with active involvement in a developer community.
 
-1.
-
-**Engage with the Protocol:** Start by using the product you wish to represent. Create a small project using their SDK.
-2.
-
-**Identify Gaps:** Pay attention to the developer experience during your project development. Note areas where documentation may be unclear or tutorials are lacking.
-3.
-
-**Create Content:** Write blog posts or record video tutorials that would have been beneficial during your onboarding process. Share these resources with the community.
-4.
-
-**Exemplify Community Engagement:** Participate in the project's Discord and assist other developers facing challenges. Your [public contributions](/how-to-build-a-public-on-chain-developer-brand) will draw the attention of the core team.
+1. **Engage with the Protocol:** Start by using the product you wish to represent. Create a small project using their SDK.
+2. **Identify Gaps:** Pay attention to the developer experience during your project development. Note areas where documentation may be unclear or tutorials are lacking.
+3. **Create Content:** Write blog posts or record video tutorials that would have been beneficial during your onboarding process. Share these resources with the community.
+4. **Exemplify Community Engagement:** Participate in the project's Discord and assist other developers facing challenges. Your [public contributions](/how-to-build-a-public-on-chain-developer-brand) will draw the attention of the core team.
 
 The DevRel role plays a high-impact part in a protocol's growth strategy. For developers passionate about teaching, communication, and community engagement, this role offers a dynamic and fulfilling career within the Web3 ecosystem.

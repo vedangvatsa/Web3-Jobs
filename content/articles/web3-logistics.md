@@ -50,7 +50,7 @@ Web3 enhances transparency by representing shipments or individual products as [
 - **Mechanism:** Each step in the supply chain updates the item's status on the blockchain through a transaction. For instance, a smart sensor in a shipping container can trigger a transaction upon arrival at a port. Authorized users can access the complete history of the product's movement.
 - **Advantages:**
 
-- **-** Provenance:**Luxury brands can confirm the authenticity of their products to consumers.
+- Provenance:**Luxury brands can confirm the authenticity of their products to consumers.
  - **Ethical Sourcing:** Coffee companies can demonstrate that their beans originate from fair-trade certified farms.
  - **Real-Time Tracking:** Manufacturers gain immediate insights into their inventory across global supply chains.
 

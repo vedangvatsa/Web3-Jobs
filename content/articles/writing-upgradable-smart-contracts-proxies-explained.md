@@ -23,13 +23,9 @@ This article explains how this pattern operates and how you can apply it to deve
 
 The proxy pattern divides your application into two distinct contracts:
 
-1.
+1. **The Proxy Contract:** This contract interacts directly with users. It maintains all the state, including data and user balances, for your application. Importantly, it houses minimal logic. Its primary function is to forward all function calls to another contract. The address of this proxy contract remains constant.
 
-**The Proxy Contract:** This contract interacts directly with users. It maintains all the state, including data and user balances, for your application. Importantly, it houses minimal logic. Its primary function is to forward all function calls to another contract. The address of this proxy contract remains constant.
-
-2.
-
-**The Implementation Contract (or Logic Contract):** This contract encompasses all the business logic for your application. It is stateless and solely executes the functions forwarded to it by the proxy.
+2. **The Implementation Contract (or Logic Contract):** This contract encompasses all the business logic for your application. It is stateless and solely executes the functions forwarded to it by the proxy.
 
 ### How it Works: `delegatecall`
 
@@ -45,13 +41,9 @@ The upgrade process is straightforward but effective:
 
 1. **Deploy a New Implementation:** When you identify a bug or want to add a feature, develop a new version of your logic contract (e.g., `ImplementationV2.sol`). Deploy this new contract to the blockchain, which assigns it a new address.
 
-2.
+2. **Update the Proxy:** As the owner of the Proxy contract, call a special administrative function on the Proxy (for example, `upgradeTo(newImplementationAddress)`).
 
-**Update the Proxy:** As the owner of the Proxy contract, call a special administrative function on the Proxy (for example, `upgradeTo(newImplementationAddress)`).
-
-3.
-
-**The Change Takes Effect:** The Proxy contract updates its state to reference the address of `ImplementationV2.sol`.
+3. **The Change Takes Effect:** The Proxy contract updates its state to reference the address of `ImplementationV2.sol`.
 
 This process completes the upgrade. Users continue to interact with the same Proxy address, but all their calls are directed to the new logic contract. The application's state, stored in the Proxy, remains intact.
 
@@ -74,9 +66,7 @@ Avoid crafting your own proxy contracts from scratch. This task is complex and l
 
 **Write your V1 contract:** Create your initial `MyContract.sol` as usual, but initialize state variables through an `initializer` function instead of a `constructor`.
 
-2.
-
-**Deploy as upgradable:** Use the OpenZeppelin plugin for deployment instead of a standard deployment script:
+2. **Deploy as upgradable:** Use the OpenZeppelin plugin for deployment instead of a standard deployment script:
 
  ```javascript
  const MyContract = await ethers.getContractFactory("MyContract");
@@ -85,9 +75,7 @@ Avoid crafting your own proxy contracts from scratch. This task is complex and l
  ```
  The plugin deploys your implementation contract, establishes a proxy contract, and links both together automatically.
 
-3.
-
-**Upgrade:** When you are ready to upgrade, create `MyContractV2.sol` and execute:
+3. **Upgrade:** When you are ready to upgrade, create `MyContractV2.sol` and execute:
 
  ```javascript
  const MyContractV2 = await ethers.getContractFactory("MyContractV2");

@@ -33,21 +33,13 @@ To tackle these questions, analysts use specialized tools to write queries, cons
 
 A PhD in data science is not a prerequisite for this career. Mastering the right tools is key to success.
 
-1.
+1. **SQL (Structured Query Language):** SQL is the fundamental skill for on-chain analysis. Platforms like Dune Analytics offer "decoded" databases where raw blockchain data is structured into readable tables. Proficiency in SQL is essential for querying these tables effectively.
 
-**SQL (Structured Query Language):** SQL is the fundamental skill for on-chain analysis. Platforms like Dune Analytics offer "decoded" databases where raw blockchain data is structured into readable tables. Proficiency in SQL is essential for querying these tables effectively.
+2. **Dune Analytics:** This platform is essential for on-chain analysis. It enables users to write SQL queries against data from various blockchains, allowing the creation of powerful, shareable dashboards. Developing high-quality Dune dashboards serves as an excellent way to build your portfolio.
 
-2.
+3. **Python:** For advanced or customized analyses, Python is the preferred language. Libraries such as Pandas for data manipulation, Matplotlib for visualization, and Web3.py for direct blockchain interaction provide a strong toolkit for in-depth research.
 
-**Dune Analytics:** This platform is essential for on-chain analysis. It enables users to write SQL queries against data from various blockchains, allowing the creation of powerful, shareable dashboards. Developing high-quality Dune dashboards serves as an excellent way to build your portfolio.
-
-3.
-
-**Python:** For advanced or customized analyses, Python is the preferred language. Libraries such as Pandas for data manipulation, Matplotlib for visualization, and Web3.py for direct blockchain interaction provide a strong toolkit for in-depth research.
-
-4.
-
-**Block Explorers (e.g., Etherscan):** Analysts must be adept at using block explorers to investigate individual transactions, understand [smart contract](/what-are-smart-contracts) interactions, and trace fund flows between wallets.
+4. **Block Explorers (e.g., Etherscan):** Analysts must be adept at using block explorers to investigate individual transactions, understand [smart contract](/what-are-smart-contracts) interactions, and trace fund flows between wallets.
 
 ### Required Skills for On-Chain Analysts
 
@@ -67,23 +59,15 @@ An effective Web3 data analyst combines technical skills with strategic insight.
 
 This role is accessible since you can build a portfolio independently.
 
-1.
+1. **Learn SQL:** This foundational step is important. Numerous free, high-quality resources are available online to learn SQL from scratch.
 
-**Learn SQL:** This foundational step is important. Numerous free, high-quality resources are available online to learn SQL from scratch.
+2. **Understand Blockchain Fundamentals:** Familiarize yourself with the data you will analyze. Review guides on [what a blockchain is](/what-is-a-blockchain) and how [smart contracts](/what-are-smart-contracts) operate.
 
-2.
-
-**Understand Blockchain Fundamentals:** Familiarize yourself with the data you will analyze. Review guides on [what a blockchain is](/what-is-a-blockchain) and how [smart contracts](/what-are-smart-contracts) operate.
-
-3.
-
-**Master Dune Analytics:** The platform offers a free tier for experimentation.
+3. **Master Dune Analytics:** The platform offers a free tier for experimentation.
  - Begin by forking existing queries from popular dashboards to understand their structure. Consult Dune's documentation and tutorials.
  - Study the queries of established "Dune wizards" to enhance your skills.
 
-4.
-
-**Build a Portfolio of Dashboards:** This portfolio acts as your [resume](/how-to-build-a-web3-resume-that-stands-out). Choose an interesting protocol and construct a dashboard that tracks its key metrics.
+4. **Build a Portfolio of Dashboards:** This portfolio acts as your [resume](/how-to-build-a-web3-resume-that-stands-out). Choose an interesting protocol and construct a dashboard that tracks its key metrics.
  - *Good first project:* A dashboard for a new NFT collection.
  - *Intermediate project:* A dashboard comparing user growth across two competing [DeFi](/what-is-defi) protocols.
  - *Advanced project:* An analysis of MEV (Maximal Extractable Value) activity on a specific DEX.

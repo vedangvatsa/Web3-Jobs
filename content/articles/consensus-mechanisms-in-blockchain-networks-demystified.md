@@ -50,7 +50,7 @@ Proof-of-Stake represents a more modern, energy-efficient alternative to PoW, cu
 
 - **Pros:**
 
-- **-** Energy Efficiency:**PoS is significantly more energy-efficient than PoW as it avoids complex computational puzzles.
+- Energy Efficiency:**PoS is significantly more energy-efficient than PoW as it avoids complex computational puzzles.
  - **Accessibility:** It lowers the barrier for participation compared to PoW mining, which requires expensive hardware.
  - **Scalability:** PoS enables advanced scalability solutions.
 

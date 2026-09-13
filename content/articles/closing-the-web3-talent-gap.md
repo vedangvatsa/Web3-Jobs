@@ -24,7 +24,9 @@ This article examines the underlying reasons for the Web3 talent shortage and ou
 
 - **Technical Complexity:** Developers must grasp more than programming languages like [Solidity](/best-programming-languages-for-blockchain-development). They must comprehend the Ethereum Virtual Machine (EVM), gas optimization, cryptographic principles, and the many security risks inherent in the ecosystem, where even a minor error can lead to significant losses.
 
-- **Cultural Complexity:** Marketers in Web3 cannot simply apply traditional advertising strategies. They must understand the unique, meme-driven culture of crypto, community governance dynamics, and principles for brand building in a decentralized environment.**2. The "Crypto-Native" Dilemma
+- **Cultural Complexity:** Marketers in Web3 cannot simply apply traditional advertising strategies. They must understand the unique, meme-driven culture of crypto, community governance dynamics, and principles for brand building in a decentralized environment.
+
+**2. The "Crypto-Native" Dilemma
 
 **Job postings often require "crypto-native" experience, creating a paradox for newcomers. Candidates struggle to enter the field without prior experience, which deters talented professionals with relevant skills but limited crypto exposure. This insularity makes it difficult for the industry to diversify its talent pool.** 3. High-Risk Environment
 
@@ -32,7 +34,9 @@ This article examines the underlying reasons for the Web3 talent shortage and ou
 
 ### Strategies for Closing the Gap
 
-Addressing the talent crisis requires a collaborative approach from projects, [DAOs](/what-is-a-dao), and the broader community.**1. Invest in Education and Onboarding
+Addressing the talent crisis requires a collaborative approach from projects, [DAOs](/what-is-a-dao), and the broader community.
+
+**1. Invest in Education and Onboarding
 
 **The industry must improve accessibility to educational resources.
 
@@ -40,19 +44,25 @@ Addressing the talent crisis requires a collaborative approach from projects, [D
 
 - **Structured Onboarding for Non-Technical Roles:** Projects should design onboarding programs that help Web2 professionals understand the nuances of Web3. Our guide on [onboarding non-technical talent](/onboarding-non-technical-talent-in-web3) outlines a framework for this process.
 
-- **Support for Independent Educators:** The ecosystem should provide grants and resources for independent creators, podcasters, and tutorial-makers who contribute to public education.**2. Establish Clear Paths to Contribution
+- **Support for Independent Educators:** The ecosystem should provide grants and resources for independent creators, podcasters, and tutorial-makers who contribute to public education.
+
+**2. Establish Clear Paths to Contribution
 
 **Simplifying the process for newcomers to contribute meaningfully will help bridge the talent gap.
 
 - **Bounty Programs:** Creating well-structured bounty programs allows newcomers to earn their first "proof of work." Tasks should be clearly defined, and compensation should be prompt to encourage participation.
 
-- **Mentorship Opportunities:** Pairing experienced Web3 veterans with newcomers through formal or informal mentorship programs can significantly enhance the learning curve.**3. Hire for Aptitude Over Experience
+- **Mentorship Opportunities:** Pairing experienced Web3 veterans with newcomers through formal or informal mentorship programs can significantly enhance the learning curve.
+
+**3. Hire for Aptitude Over Experience
 
 **While prior crypto experience is beneficial, raw intelligence, adaptability, and genuine interest in Web3 often prove more valuable.
 
 - **Broaden Recruitment Criteria:** Hiring managers should consider candidates from outside Web3 who demonstrate proven problem-solving capabilities and a strong desire to learn.
 
-- **30-Day Immersion Strategy:** A practical approach involves hiring promising candidates and allowing them a month to immerse themselves in the space, focusing on research, using decentralized applications (dApps), and gaining knowledge before starting their specific roles.**4. Professionalize DAO Operations**
+- **30-Day Immersion Strategy:** A practical approach involves hiring promising candidates and allowing them a month to immerse themselves in the space, focusing on research, using decentralized applications (dApps), and gaining knowledge before starting their specific roles.
+
+**4. Professionalize DAO Operations**
 
 As DAOs evolve, adopting professional operational structures will be vital to attract and retain talent. This includes defining roles, establishing predictable compensation, and outlining career progression paths. The success of [DAOs](/the-rise-of-daos) as career options relies on this professionalization.
 

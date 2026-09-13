@@ -18,24 +18,12 @@ Understanding the mechanics of rug pulls and recognizing warning signs is essent
 
 The most frequent type of rug pull occurs on **decentralized exchanges (DEXs)**. Here is a breakdown of the typical sequence of events:
 
-1.
-
-**Token Creation:** A scammer creates a new cryptocurrency token on a blockchain such as [Ethereum](/what-is-ethereum) or BNB Chain.
-2.
-
-**Liquidity Pool Setup:** The scammer establishes a liquidity pool for the new token on a DEX like Uniswap, pairing their worthless token with a valuable asset, such as ETH or a stablecoin. For instance, they may create a `SCAMTOKEN/ETH` pool.
-3.
-
-**Hype Generation:** The scammer promotes the new token aggressively on social media platforms like Twitter and Telegram. They often employ bots and fake accounts to create an illusion of excitement, making unrealistic promises of high returns and instilling a sense of FOMO (Fear of Missing Out).
-4.
-
-**Investor Participation:** Lured by the hype, unsuspecting investors purchase `SCAMTOKEN` on the DEX, exchanging their valuable ETH for the scam token, which contributes to the liquidity pool.
-5.
-
-**Executing the Rug Pull:** After accumulating a substantial amount of ETH in the liquidity pool, the scammer executes the rug pull. As the original and often largest liquidity provider, they withdraw the entire liquidity from the pool, taking out all the valuable ETH and leaving behind a pool filled with the now-worthless `SCAMTOKEN`.
-6.
-
-**Disappearance:** The value of `SCAMTOKEN` plummets to zero. The scammer vanishes with the stolen ETH, frequently deleting the project's website, Twitter account, and Discord server, leaving investors without any recourse.
+1. **Token Creation:** A scammer creates a new cryptocurrency token on a blockchain such as [Ethereum](/what-is-ethereum) or BNB Chain.
+2. **Liquidity Pool Setup:** The scammer establishes a liquidity pool for the new token on a DEX like Uniswap, pairing their worthless token with a valuable asset, such as ETH or a stablecoin. For instance, they may create a `SCAMTOKEN/ETH` pool.
+3. **Hype Generation:** The scammer promotes the new token aggressively on social media platforms like Twitter and Telegram. They often employ bots and fake accounts to create an illusion of excitement, making unrealistic promises of high returns and instilling a sense of FOMO (Fear of Missing Out).
+4. **Investor Participation:** Lured by the hype, unsuspecting investors purchase `SCAMTOKEN` on the DEX, exchanging their valuable ETH for the scam token, which contributes to the liquidity pool.
+5. **Executing the Rug Pull:** After accumulating a substantial amount of ETH in the liquidity pool, the scammer executes the rug pull. As the original and often largest liquidity provider, they withdraw the entire liquidity from the pool, taking out all the valuable ETH and leaving behind a pool filled with the now-worthless `SCAMTOKEN`.
+6. **Disappearance:** The value of `SCAMTOKEN` plummets to zero. The scammer vanishes with the stolen ETH, frequently deleting the project's website, Twitter account, and Discord server, leaving investors without any recourse.
 
 ### Recognizing Red Flags: Spotting Potential Rug Pulls
 

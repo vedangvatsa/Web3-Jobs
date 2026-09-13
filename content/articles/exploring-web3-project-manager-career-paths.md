@@ -26,21 +26,11 @@ While the core responsibilities are similar-managing timelines, resources, and s
 
 ### Key Responsibilities
 
-1.
-
-**Roadmap Planning and Management:** Working with the product and development teams to create a realistic project roadmap, break it down into sprints and tasks, and track progress.
-2.
-
-**Resource Coordination:** Ensuring that developers, auditors, designers, and marketers are all aligned and have what they need to do their jobs.
-3.
-
-**Communication Hub:** Acting as the central point of communication for the project, providing regular updates to both the internal team and the external community.
-4.
-
-**Risk Management:** Identifying potential risks to the project-technical, security, or market-related-and developing mitigation plans.
-5.
-
-**Governance Facilitation:** For projects governed by a [DAO](/what-is-a-dao), the Project Manager often is important for helping to structure and shepherd governance proposals related to the product roadmap.
+1. **Roadmap Planning and Management:** Working with the product and development teams to create a realistic project roadmap, break it down into sprints and tasks, and track progress.
+2. **Resource Coordination:** Ensuring that developers, auditors, designers, and marketers are all aligned and have what they need to do their jobs.
+3. **Communication Hub:** Acting as the central point of communication for the project, providing regular updates to both the internal team and the external community.
+4. **Risk Management:** Identifying potential risks to the project-technical, security, or market-related-and developing mitigation plans.
+5. **Governance Facilitation:** For projects governed by a [DAO](/what-is-a-dao), the Project Manager often is important for helping to structure and shepherd governance proposals related to the product roadmap.
 
 ### The Skills You Need
 
@@ -54,18 +44,10 @@ While the core responsibilities are similar-managing timelines, resources, and s
 
 For experienced project managers from the Web2 world, the transition is very achievable.
 
-1.
-
-**Immerse Yourself:** Go deep down the rabbit hole. Use [DeFi](/what-is-defi), join [DAOs](/what-is-a-dao), and learn the language and culture of the space.
-2.
-
-**Get Certified:** A certification in Agile or Scrum (like a Certified ScrumMaster - CSM) can be very valuable.
-3.
-
-**Contribute to a DAO:** This is the best way to get experience. Find a DAO and volunteer to help organize a project or a working group. This becomes your "proof of work."
-4.
-
-**Reframe Your [Resume](/how-to-build-a-web3-resume-that-stands-out):** Tailor your resume to highlight your experience managing remote, cross-functional teams and complex technical projects. Emphasize your communication and stakeholder management skills.
+1. **Immerse Yourself:** Go deep down the rabbit hole. Use [DeFi](/what-is-defi), join [DAOs](/what-is-a-dao), and learn the language and culture of the space.
+2. **Get Certified:** A certification in Agile or Scrum (like a Certified ScrumMaster - CSM) can be very valuable.
+3. **Contribute to a DAO:** This is the best way to get experience. Find a DAO and volunteer to help organize a project or a working group. This becomes your "proof of work."
+4. **Reframe Your [Resume](/how-to-build-a-web3-resume-that-stands-out):** Tailor your resume to highlight your experience managing remote, cross-functional teams and complex technical projects. Emphasize your communication and stakeholder management skills.
 
 ## Salary Guide: Web3 Project Manager Roles
 

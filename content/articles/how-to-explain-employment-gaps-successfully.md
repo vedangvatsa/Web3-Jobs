@@ -37,9 +37,7 @@ Handling an employment gap on your resume can be done effectively through a coup
 
 1. **Use Years Instead of Months**: For shorter gaps (less than a year), list only the years of employment (e.g., 2021-2023). This common practice diminishes the visual impact of the gap.
 
-2.
-
-**Create a Specific Entry for the Break**: For more extended gaps, consider explicitly addressing the break on your resume. Add a new entry under your experience section.
+2. **Create a Specific Entry for the Break**: For more extended gaps, consider explicitly addressing the break on your resume. Add a new entry under your experience section.
 
 Example:**Professional Sabbatical**| 2022 - 2023 
 - Focused on professional development, completing significant coursework in data science and machine learning. 
@@ -61,17 +59,11 @@ This statement acknowledges the gap while redirecting the focus to your eagernes
 
 Prepare for potential questions about the gap during your [interview](/how-to-prepare-for-job-interview). Have a concise, confident, and positive explanation ready. The "STAR" method (Situation, Task, Action, Result) can help you structure your response effectively.
 
-1.
+1. **State the Situation Briefly and Honestly**: "I took a planned break from my career to care for a sick family member." Avoid providing excessive personal details.
 
-**State the Situation Briefly and Honestly**: "I took a planned break from my career to care for a sick family member." Avoid providing excessive personal details.
+2. **Describe the Actions You Took**: "During that time, I remained engaged with the industry by completing online courses in [Skill] and attending virtual conferences."
 
-2.
-
-**Describe the Actions You Took**: "During that time, I remained engaged with the industry by completing online courses in [Skill] and attending virtual conferences."
-
-3.
-
-**Explain the Result and Your Readiness to Return**: "The situation is resolved now, and that experience deepened my passion for [Your Field]. I am eager to find a new challenge where I can apply my skills."
+3. **Explain the Result and Your Readiness to Return**: "The situation is resolved now, and that experience deepened my passion for [Your Field]. I am eager to find a new challenge where I can apply my skills."
 
 Practice delivering your explanation aloud. Comfort with your narrative enhances your confidence and delivery. Remember that your body language and tone are just as critical as the words you choose.
 

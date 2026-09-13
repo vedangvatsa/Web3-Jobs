@@ -162,7 +162,9 @@ A $100,000+ difference between sources often comes from mixing salaried employee
 
 ### How to start without a PhD
 
-You do not need a doctorate for most of these paths. The common entry pattern is: learn core concepts, pick one lane, build and publish work, and apply with evidence.**1. Get a foundation in 10 to 20 hours.**
+You do not need a doctorate for most of these paths. The common entry pattern is: learn core concepts, pick one lane, build and publish work, and apply with evidence.
+
+**1. Get a foundation in 10 to 20 hours.**
 
 * Elements of AI, by the University of Helsinki and MinnaLearn: free online course, self-paced, theory with practical exercises, aimed at explaining what AI can and cannot do. Certificate available for a small fee. Good for managers, designers, writers, and others who need AI literacy before picking a track.
 * AI For Everyone, by DeepLearning.AI and Andrew Ng: available on Coursera, 6 to 7 hours of video (35 lessons, 4 graded assignments), beginner level, covers terminology including machine learning, neural networks, and data science, how AI projects run, and how to spot opportunities. Certificate requires payment, about $49 for 180 days of certificate eligibility, with a free audit option for content. Instructor is Andrew Ng, former lead of Google Brain and co-founder of Coursera.

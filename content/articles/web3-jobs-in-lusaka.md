@@ -44,21 +44,13 @@ The Web3 job market in Lusaka is small but expanding. Significant roles often in
 
 ### Building a Web3 Career in Lusaka
 
-1.
+1. **Become a Community Leader and Educator:** The local scene craves knowledge. Establish yourself as a leader by organizing regular Web3 meetups, starting a YouTube channel to explain crypto concepts in the local context, or conducting workshops for university students. Your proactive approach will enhance your visibility.
 
-**Become a Community Leader and Educator:** The local scene craves knowledge. Establish yourself as a leader by organizing regular Web3 meetups, starting a YouTube channel to explain crypto concepts in the local context, or conducting workshops for university students. Your proactive approach will enhance your visibility.
+2. **Focus on Local Use Cases:** When developing your [portfolio](/building-web3-portfolio), showcase your understanding of Zambia's specific challenges and opportunities. Create decentralized applications (dApps) that address issues in micro-finance, agricultural supply chains, or cross-border payments.
 
-2.
+3. **Engage with Local Tech Hubs:** Connect with key tech hubs and innovation centers in Lusaka. These organizations are key in the startup ecosystem and often serve as the first point of contact for international projects seeking to enter the Zambian market.
 
-**Focus on Local Use Cases:** When developing your [portfolio](/building-web3-portfolio), showcase your understanding of Zambia's specific challenges and opportunities. Create decentralized applications (dApps) that address issues in micro-finance, agricultural supply chains, or cross-border payments.
-
-3.
-
-**Engage with Local Tech Hubs:** Connect with key tech hubs and innovation centers in Lusaka. These organizations are key in the startup ecosystem and often serve as the first point of contact for international projects seeking to enter the Zambian market.
-
-4.
-
-**Prepare for Remote Opportunities:** The highest-paying jobs will be remote. Aim to develop a skillset that meets global standards and maintain a professional online presence through platforms like GitHub, Twitter, and LinkedIn. Strong English communication skills are also essential.
+4. **Prepare for Remote Opportunities:** The highest-paying jobs will be remote. Aim to develop a skillset that meets global standards and maintain a professional online presence through platforms like GitHub, Twitter, and LinkedIn. Strong English communication skills are also essential.
 
 ## Salary Overview: Web3 Jobs in Lusaka
 

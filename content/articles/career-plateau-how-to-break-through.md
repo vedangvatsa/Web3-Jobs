@@ -106,6 +106,8 @@ The timeline varies by industry and position. However, if you have spent several
 
 #### 4. What if I am content being plateaued?
 
-If you are satisfied with your current role and it provides a good work-life balance, that is perfectly acceptable. A plateau only becomes an issue if it conflicts with your career goals.**5. Can a lateral move to a different team benefit my career?**
+If you are satisfied with your current role and it provides a good work-life balance, that is perfectly acceptable. A plateau only becomes an issue if it conflicts with your career goals.
+
+**5. Can a lateral move to a different team benefit my career?**
 
 Absolutely. A lateral move exposes you to new challenges, different aspects of the business, and a new professional network. This experience can enhance your skill set and open up advancement opportunities that were not available in your previous role.

@@ -44,18 +44,10 @@ The demand for [Blockchain Developers](/how-to-become-a-blockchain-developer) sp
 
 ### How to Build a Web3 Career in Kochi
 
-1.
-
-**Get Certified with the KBA:** The Kerala Blockchain Academy is a critical resource. Enrolling in one of their certification programs provides structured knowledge and connects you to the local ecosystem.
-2.
-
-**Engage with the Developer Community:** Participate actively in local meetups. Present projects or explore new technologies to enhance your reputation.
-3.
-
-**Contribute to Research and Education:** Use the academic focus in Kochi. Write blog posts, develop tutorials, or contribute to research papers on Web3 topics to establish yourself as a thought leader.
-4.
-
-**Target Local and Remote Roles:** While local startups are on the rise, many lucrative opportunities still exist with remote companies. Use your technical foundation and certifications to differentiate yourself.
+1. **Get Certified with the KBA:** The Kerala Blockchain Academy is a critical resource. Enrolling in one of their certification programs provides structured knowledge and connects you to the local ecosystem.
+2. **Engage with the Developer Community:** Participate actively in local meetups. Present projects or explore new technologies to enhance your reputation.
+3. **Contribute to Research and Education:** Use the academic focus in Kochi. Write blog posts, develop tutorials, or contribute to research papers on Web3 topics to establish yourself as a thought leader.
+4. **Target Local and Remote Roles:** While local startups are on the rise, many lucrative opportunities still exist with remote companies. Use your technical foundation and certifications to differentiate yourself.
 
 ## Salary Overview: Web3 Jobs in Kochi
 

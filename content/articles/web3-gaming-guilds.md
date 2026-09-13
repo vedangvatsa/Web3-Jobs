@@ -28,17 +28,11 @@ This situation created a significant economic issue. The very players who stood 
 
 The fundamental structure of a gaming guild revolves around its "scholarship" program, which establishes a three-sided marketplace with aligned incentives.
 
-1.
+1. **The Guild**: This central organization, often designed as a DAO (Decentralized Autonomous Organization), raises capital from investors to acquire a diverse portfolio of income-generating NFTs from various Web3 games. For instance, a guild's treasury could encompass a wide range of game NFTs across multiple titles.
 
-**The Guild**: This central organization, often designed as a DAO (Decentralized Autonomous Organization), raises capital from investors to acquire a diverse portfolio of income-generating NFTs from various Web3 games. For instance, a guild's treasury could encompass a wide range of game NFTs across multiple titles.
+2. **The Scholars**: These players apply for scholarships within the guild. Upon acceptance, they receive the necessary NFTs to begin playing and earning in a specific game without any upfront costs. The guild offers training, resources, and a supportive community to help scholars thrive. Many scholars are situated in high-growth regions such as the Philippines, Indonesia, Brazil, and Vietnam, where gaming can provide significant income.
 
-2.
-
-**The Scholars**: These players apply for scholarships within the guild. Upon acceptance, they receive the necessary NFTs to begin playing and earning in a specific game without any upfront costs. The guild offers training, resources, and a supportive community to help scholars thrive. Many scholars are situated in high-growth regions such as the Philippines, Indonesia, Brazil, and Vietnam, where gaming can provide significant income.
-
-3.
-
-**The Managers**: These community leaders within the guild are responsible for recruiting, training, and managing teams of scholars, typically ranging from a small number to several players. Managers connect guild leadership with scholars, offering mentorship and assistance. They are usually experienced players who possess in-depth knowledge of the games.
+3. **The Managers**: These community leaders within the guild are responsible for recruiting, training, and managing teams of scholars, typically ranging from a small number to several players. Managers connect guild leadership with scholars, offering mentorship and assistance. They are usually experienced players who possess in-depth knowledge of the games.
 
 ### The Revenue Share Model
 

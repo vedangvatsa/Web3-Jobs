@@ -86,12 +86,8 @@ Soft skills encompass interpersonal and character traits that dictate how you in
 
 Self-reflection is essential in discovering your transferable skills. Review your experiences beyond just paid employment.
 
-1.
-
-**List Your Accomplishments:** Document everything that makes you proud, such as launching a successful project, organizing an event, mastering a skill, or planning a detailed trip.
-2.
-
-**Break It Down:** For each accomplishment, analyze the skills that contributed to your success.
+1. **List Your Accomplishments:** Document everything that makes you proud, such as launching a successful project, organizing an event, mastering a skill, or planning a detailed trip.
+2. **Break It Down:** For each accomplishment, analyze the skills that contributed to your success.
  - *Accomplishment:* "Organized a charity event for 100 participants."
  - *Skills Used:* Project Management (planning, scheduling, budgeting), Communication (coordinating with vendors and volunteers), Marketing (event promotion), Problem-Solving (addressing last-minute challenges).
 3. **Review Job Descriptions:** Examine job descriptions for positions that interest you. Identify common skills and highlight those you possess, regardless of the context in which you gained them. This helps you communicate effectively within the industry vocabulary.
@@ -144,21 +140,13 @@ Transferable skills serve as a foundation for success in various career paths. W
 
 **Technical Foundation:** Understanding relevant technical concepts is essential in any field. While expertise is not always necessary, having foundational knowledge can prevent costly errors.
 
-2.
+2. **Communication Excellence:** The ability to articulate complex ideas clearly is a rare and valuable skill. Practice writing emails, documentation, and presentations. Clarity enhances over time.
 
-**Communication Excellence:** The ability to articulate complex ideas clearly is a rare and valuable skill. Practice writing emails, documentation, and presentations. Clarity enhances over time.
+3. **Problem-Solving Methodology:** Tackle problems systematically: define the issue, research solutions, evaluate options, implement, and measure outcomes. This approach applies to both technical and non-technical challenges.
 
-3.
+4. **Learning Agility:** In fast-paced industries, the ability to quickly acquire new skills is invaluable. Focus on experiential learning rather than passive consumption of information.
 
-**Problem-Solving Methodology:** Tackle problems systematically: define the issue, research solutions, evaluate options, implement, and measure outcomes. This approach applies to both technical and non-technical challenges.
-
-4.
-
-**Learning Agility:** In fast-paced industries, the ability to quickly acquire new skills is invaluable. Focus on experiential learning rather than passive consumption of information.
-
-5.
-
-**Emotional Intelligence:** The capability to understand and manage your emotions, as well as interpret those of others, influences your effectiveness in teamwork and negotiations.
+5. **Emotional Intelligence:** The capability to understand and manage your emotions, as well as interpret those of others, influences your effectiveness in teamwork and negotiations.
 
 ### Development Roadmap
 
@@ -205,21 +193,11 @@ As you advance in your career, the importance of these skills increases:
 
 ### Common Development Mistakes
 
-1.
-
-**Studying Without Doing:** Theory without practical application does not yield lasting knowledge. Focus on building real projects.
-2.
-
-**Neglecting Soft Skills:** Technical expertise is common; prioritize developing soft skills, which are often in shorter supply.
-3.
-
-**Avoiding Feedback:** Blind spots hinder improvement. Seek input from mentors and colleagues.
-4.
-
-**Comparing Yourself to Others:** Your skill development journey is unique. Concentrate on your own progress.
-5.
-
-**Expecting Rapid Mastery:** Genuine skill development requires time and consistent effort. Enjoy the learning process.
+1. **Studying Without Doing:** Theory without practical application does not yield lasting knowledge. Focus on building real projects.
+2. **Neglecting Soft Skills:** Technical expertise is common; prioritize developing soft skills, which are often in shorter supply.
+3. **Avoiding Feedback:** Blind spots hinder improvement. Seek input from mentors and colleagues.
+4. **Comparing Yourself to Others:** Your skill development journey is unique. Concentrate on your own progress.
+5. **Expecting Rapid Mastery:** Genuine skill development requires time and consistent effort. Enjoy the learning process.
 
 ### Resources for Ongoing Development
 

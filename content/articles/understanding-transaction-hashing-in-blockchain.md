@@ -20,21 +20,13 @@ Hash functions are important for the functionality of blockchain. They possess s
 
 1. **Deterministic**: A hash function is deterministic, meaning the same input will always produce the same output. For instance, hashing the phrase "Hello World" will yield the same result every time. If even one character changes, such as "hello world," the resulting hash will differ entirely. This predictability is important for verification, allowing network participants to confirm that transaction data remains unchanged.
 
-2.
+2. **Fixed-Length Output**: Regardless of the input size, the output hash is always of a fixed length. The SHA-256 algorithm always produces a 256-bit string, represented as 64 hexadecimal characters. This uniformity simplifies working with hashes in databases or block structures.
 
-**Fixed-Length Output**: Regardless of the input size, the output hash is always of a fixed length. The SHA-256 algorithm always produces a 256-bit string, represented as 64 hexadecimal characters. This uniformity simplifies working with hashes in databases or block structures.
+3. **Pre-image Resistance**: This property ensures security by making it computationally infeasible to deduce the original input from the hash output. While it is straightforward to generate a hash from transaction data, reversing the process is nearly impossible. This aspect protects the privacy of transaction details and prevents forgery of transactions.
 
-3.
+4. **Collision Resistance**: A reliable hash function makes it computationally impossible to find two different inputs that yield the same hash. This property guarantees that each transaction maintains a unique identifier. If two distinct transactions could produce identical hashes, it would undermine the integrity of the ledger, allowing for fraudulent substitutions. Modern hash functions minimize the likelihood of collisions to an extremely low probability.
 
-**Pre-image Resistance**: This property ensures security by making it computationally infeasible to deduce the original input from the hash output. While it is straightforward to generate a hash from transaction data, reversing the process is nearly impossible. This aspect protects the privacy of transaction details and prevents forgery of transactions.
-
-4.
-
-**Collision Resistance**: A reliable hash function makes it computationally impossible to find two different inputs that yield the same hash. This property guarantees that each transaction maintains a unique identifier. If two distinct transactions could produce identical hashes, it would undermine the integrity of the ledger, allowing for fraudulent substitutions. Modern hash functions minimize the likelihood of collisions to an extremely low probability.
-
-5.
-
-**Avalanche Effect**: A minor alteration in the input data should result in a drastically different hash output. Changing a single digit in the transaction amount or a character in an address will produce a hash that bears no resemblance to the original. This property makes it easy to detect any unauthorized modifications to a transaction.
+5. **Avalanche Effect**: A minor alteration in the input data should result in a drastically different hash output. Changing a single digit in the transaction amount or a character in an address will produce a hash that bears no resemblance to the original. This property makes it easy to detect any unauthorized modifications to a transaction.
 
 ### Hashing's Role in Blockchain Security
 

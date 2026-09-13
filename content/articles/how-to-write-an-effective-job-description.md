@@ -135,33 +135,19 @@ Most teams do best with a 350 to 500 word post that uses outcomes, split require
 
 ## How to write it: practical steps
 
-1.
+1. **Gather inputs first.** Get the hiring manager, one peer engineer, and one non-technical reviewer in one 45 minute meeting. Confirm title, level, reporting line, what success in 6 months looks like, and the pay band for that level and location.
 
-**Gather inputs first.** Get the hiring manager, one peer engineer, and one non-technical reviewer in one 45 minute meeting. Confirm title, level, reporting line, what success in 6 months looks like, and the pay band for that level and location.
+2. **Draft in the template order.** Use the same order every time so reviews stay fast: title, summary, responsibilities, required, preferred, work conditions, compensation and benefits, how to apply, compliance line. This matches the 13-point template recommended by MoshJD and used by Greenhouse and Lever customers for auditability: title, summary, key responsibilities, required qualifications, preferred qualifications, skills and competencies, supervisory duties, work environment, physical requirements, FLSA classification, travel, compensation range, and version date.
 
-2.
+3. **Write requirements that can be tested.** For each required item, note how you will test it: GitHub review, Etherscan verification, take-home with Slither and Foundry coverage, Dune query walk-through, writing sample. If you cannot test it, remove it.
 
-**Draft in the template order.** Use the same order every time so reviews stay fast: title, summary, responsibilities, required, preferred, work conditions, compensation and benefits, how to apply, compliance line. This matches the 13-point template recommended by MoshJD and used by Greenhouse and Lever customers for auditability: title, summary, key responsibilities, required qualifications, preferred qualifications, skills and competencies, supervisory duties, work environment, physical requirements, FLSA classification, travel, compensation range, and version date.
+4. **Run a bias check before you publish.** Use a tool such as Gender Decoder for a free check, or Textio, DataPeople, or Ongig for a scored review. Replace flagged phrases: "rockstar" to "expert," "aggressive goals" to "ambitious objectives," "dominant" to "confident." Textio case data reports that scores above 70 correlate with more applications from underrepresented groups. People Managing People and Index.dev reviews both note that neutral wording predicts better pool diversity. One field experiment cited in 2026 reporting found debiasing masculine language increased the share of women in the applicant pool without lowering total volume.
 
-3.
+5. **Add pay and location truthfully.** Confirm the range is the good faith amount you expect to pay upon hire, not a wide placeholder. If you use a vendor to post, California law extends the duty to those third parties. Verify the range appears on your careers site and on each job board mirror.
 
-**Write requirements that can be tested.** For each required item, note how you will test it: GitHub review, Etherscan verification, take-home with Slither and Foundry coverage, Dune query walk-through, writing sample. If you cannot test it, remove it.
+6. **Publish with links to proof.** Link to your product docs, GitHub, and a short roadmap note. Candidates who have followed your governance forum or tested your contracts on testnet will use those links to tailor their application. That tailoring is your early signal of interest.
 
-4.
-
-**Run a bias check before you publish.** Use a tool such as Gender Decoder for a free check, or Textio, DataPeople, or Ongig for a scored review. Replace flagged phrases: "rockstar" to "expert," "aggressive goals" to "ambitious objectives," "dominant" to "confident." Textio case data reports that scores above 70 correlate with more applications from underrepresented groups. People Managing People and Index.dev reviews both note that neutral wording predicts better pool diversity. One field experiment cited in 2026 reporting found debiasing masculine language increased the share of women in the applicant pool without lowering total volume.
-
-5.
-
-**Add pay and location truthfully.** Confirm the range is the good faith amount you expect to pay upon hire, not a wide placeholder. If you use a vendor to post, California law extends the duty to those third parties. Verify the range appears on your careers site and on each job board mirror.
-
-6.
-
-**Publish with links to proof.** Link to your product docs, GitHub, and a short roadmap note. Candidates who have followed your governance forum or tested your contracts on testnet will use those links to tailor their application. That tailoring is your early signal of interest.
-
-7.
-
-**Measure and revise after two weeks.** Track views, applies, qualified rate, time to first qualified applicant, and share of applicants from underrepresented groups if you collect that data lawfully. If you get fewer than 10 applications per week, the title is likely not searchable or pay is missing. If qualified rate is under 15 percent, requirements are too vague or too broad. Update the description every 6 to 12 months or when the work changes.
+7. **Measure and revise after two weeks.** Track views, applies, qualified rate, time to first qualified applicant, and share of applicants from underrepresented groups if you collect that data lawfully. If you get fewer than 10 applications per week, the title is likely not searchable or pay is missing. If qualified rate is under 15 percent, requirements are too vague or too broad. Update the description every 6 to 12 months or when the work changes.
 
 ### A short Web3 example you can adapt
 

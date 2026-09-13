@@ -46,17 +46,9 @@ The fundamental aim of supporting users, resolving their issues with compassion 
 
 This role serves as an excellent entry point for aspiring professionals looking to join the Web3 industry.
 
-1.
-
-**Become a Power User:** Gain hands-on experience with Web3 technology. You must be confident using the tools and processes you will support.
-2.
-
-**Engage as a Community Helper:** Start by volunteering your support skills. Join a project you are passionate about, participate in their Discord, and offer assistance to fellow users.
-3.
-
-**Establish a Reputation for Helpfulness:** Consistently provide accurate, friendly responses to user inquiries. Your contributions will get noticed by the core team and community managers.
-4.
-
-**Progress from Helper to Moderator to Support Staff:** This trajectory is common. Organizations often promote their most helpful community members to moderator roles, which can lead to paid support positions.
+1. **Become a Power User:** Gain hands-on experience with Web3 technology. You must be confident using the tools and processes you will support.
+2. **Engage as a Community Helper:** Start by volunteering your support skills. Join a project you are passionate about, participate in their Discord, and offer assistance to fellow users.
+3. **Establish a Reputation for Helpfulness:** Consistently provide accurate, friendly responses to user inquiries. Your contributions will get noticed by the core team and community managers.
+4. **Progress from Helper to Moderator to Support Staff:** This trajectory is common. Organizations often promote their most helpful community members to moderator roles, which can lead to paid support positions.
 
 A career in Web3 customer support places you leading technological innovation, making decentralized technology more user-friendly. This role presents challenges but also offers significant impact for those who possess the right mix of empathy, communication skills, and technical curiosity.

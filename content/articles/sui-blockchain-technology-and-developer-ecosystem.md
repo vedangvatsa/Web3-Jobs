@@ -189,7 +189,9 @@ Sui also provides standard tooling: the Sui CLI with `sui move build`, `sui move
 
 ## How to get started
 
-Pick Sui or Aptos first. Do not try to learn both dialects at once.**1. Install and verify the toolchain
+Pick Sui or Aptos first. Do not try to learn both dialects at once.
+
+**1. Install and verify the toolchain
 
 **Install the Sui CLI from docs.sui.io/guides/developer/getting-started/sui-install. Check `sui --version` (current releases at time of writing are in the 1.x line). Install the TypeScript SDK with `npm install @mysten/sui`. Add the Move Analyzer extension in VS Code for diagnostics and auto-format with the Prettier Move plugin.** 2. Create a minimal object package
 
@@ -228,7 +230,9 @@ module hello_sui::counter {
 }
 ```
 
-`init` creates a shared Counter on publish. `increment` mutates the shared object and will go through consensus. For an owned-object variant, remove `share_object`, create the Counter with `transfer::public_transfer(c, sender)`, and add a function `increment_owned(c: &mut Counter)` that bypasses consensus.**3. Test without a network, then publish
+`init` creates a shared Counter on publish. `increment` mutates the shared object and will go through consensus. For an owned-object variant, remove `share_object`, create the Counter with `transfer::public_transfer(c, sender)`, and add a function `increment_owned(c: &mut Counter)` that bypasses consensus.
+
+**3. Test without a network, then publish
 
 **Run `sui move test` for unit tests, `sui move test --coverage` for coverage. Read the Move Book chapters on modules, structs and resources, and abilities before adding a coin. Publish to testnet or devnet with `sui client publish --gas-budget 100000000` and note the package ID and object IDs in the transaction effects.** 4. Compose a PTB in TypeScript
 
@@ -247,7 +251,9 @@ tx.transferObjects([newCoin], tx.pure.address("0xFriend"));
 const signed = await client.signAndExecuteTransaction({ transaction: tx, signer: wallet });
 ```
 
-This PTB increments a shared counter and sends a coin in one atomic execution with one gas payment. Explore the PTB cookbook at docs.sui.io/develop/transactions/ptbs/ptb-cookbook for sponsored, kiosk, and split/merge patterns.**5. Add real ecosystem pieces**
+This PTB increments a shared counter and sends a coin in one atomic execution with one gas payment. Explore the PTB cookbook at docs.sui.io/develop/transactions/ptbs/ptb-cookbook for sponsored, kiosk, and split/merge patterns.
+
+**5. Add real ecosystem pieces**
 
 * Add zkLogin by following docs.sui.io/concepts/cryptography/zklogin. Create a proof via the Mysten Labs prover, derive the Sui address from the JWT and salt, and submit a transaction where the sponsor pays gas.
 * List an item in a Kiosk instead of using `public_transfer` so royalties and transfer policies are enforced. See docs.sui.io/standards/kiosk.

@@ -81,7 +81,7 @@ For most personal setups, 2-of-3 is the default because it keeps funds movable i
 
 Bitcoin enforces multisig in script, verified by every node. You do not trust a single contract deployer to enforce the rule.**Address types you will see:**
 
-- **-** P2SH (pay-to-script-hash, addresses starting with 3).
+- P2SH (pay-to-script-hash, addresses starting with 3).
 
 **The full script with N pubkeys and M is hashed into the address. At spend time, the redeem script and M signatures are revealed. Defined by BIP-16. All script data sits in the non-discounted part of the transaction, so fees are highest.
 - **P2WSH (pay-to-witness-script-hash, addresses starting with bc1q).

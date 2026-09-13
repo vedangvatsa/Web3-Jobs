@@ -70,21 +70,13 @@ The formal Web3 job market in Gaborone remains small, with opportunities primari
 
 ### Building a Web3 Career in Gaborone
 
-1.
+1. **Engage with the Botswana Digital & Innovation Hub:** This hub is the focal point for the local tech ecosystem. Attend their events, participate in programs, and connect with startups and researchers. This engagement is important for discovering local opportunities.
 
-**Engage with the Botswana Digital & Innovation Hub:** This hub is the focal point for the local tech ecosystem. Attend their events, participate in programs, and connect with startups and researchers. This engagement is important for discovering local opportunities.
+2. **Focus on Enterprise Use Cases:** When building your [portfolio](/building-web3-portfolio), emphasize projects that demonstrate blockchain solutions for real-world business challenges. For instance, create a proof-of-concept for a supply chain tracking system that aligns with local market needs.
 
-2.
+3. **Use Your Expertise in Key Industries:** If you have a background in Botswana's primary sectors, such as mining, finance, or tourism, apply this knowledge. Position your understanding of Web3 as a means to enhance these industries.
 
-**Focus on Enterprise Use Cases:** When building your [portfolio](/building-web3-portfolio), emphasize projects that demonstrate blockchain solutions for real-world business challenges. For instance, create a proof-of-concept for a supply chain tracking system that aligns with local market needs.
-
-3.
-
-**Use Your Expertise in Key Industries:** If you have a background in Botswana's primary sectors, such as mining, finance, or tourism, apply this knowledge. Position your understanding of Web3 as a means to enhance these industries.
-
-4.
-
-**Develop Skills for Remote Work:** The highest-paying opportunities will likely be remote positions with international Web3 companies. Focus on mastering in-demand skills such as Solidity and Rust, and build a competitive portfolio.
+4. **Develop Skills for Remote Work:** The highest-paying opportunities will likely be remote positions with international Web3 companies. Focus on mastering in-demand skills such as Solidity and Rust, and build a competitive portfolio.
 
 ### Salary & Cost of Living Overview
 
@@ -138,7 +130,7 @@ The formal Web3 job market in Gaborone remains small, with opportunities primari
 
 **Path 1: Enterprise Blockchain Specialist (10-16 months)**
 
-- **-** Months 1-3: Foundation**- Learn Solidity and Hyperledger basics.
+- Months 1-3: Foundation**- Learn Solidity and Hyperledger basics.
  - Study enterprise blockchain patterns.
  - Complete a Buildspace course.
  - Time: 20-25 hours/week.
@@ -158,7 +150,7 @@ The formal Web3 job market in Gaborone remains small, with opportunities primari
 
 **Path 2: FinTech/Digital Asset Product Manager (12-18 months)**
 
-- **-** Months 1-4: Deep Learning**- Study DeFi protocols and digital asset regulations.
+- Months 1-4: Deep Learning**- Study DeFi protocols and digital asset regulations.
  - Research Botswana's financial ecosystem.
  - Join product management communities.
  - Network with fintech leaders in Gaborone.
@@ -178,7 +170,7 @@ The formal Web3 job market in Gaborone remains small, with opportunities primari
 
 **Path 3: Community & Ecosystem Builder (6-12 months)**
 
-- **-** Months 1-2: Planning**- Choose a niche: enterprise blockchain or fintech.
+- Months 1-2: Planning**- Choose a niche: enterprise blockchain or fintech.
  - Create a content calendar.
  - Establish Twitter, Medium, and Discord channels.
  - Time: 10-12 hours/week.
@@ -210,18 +202,10 @@ The formal Web3 job market in Gaborone remains small, with opportunities primari
 
 ### 90-Day Action Plan
 
-1.
-
-**Days 1-10:** Set up accounts on GitHub and Twitter, and choose your career path.
-2.
-
-**Days 11-30:** Build a foundation by completing courses and initiating your first project.
-3.
-
-**Days 31-60:** Network with the Botswana Digital & Innovation Hub, attend meetups, and connect with companies.
-4.
-
-**Days 61-90:** Gain traction by securing your first contract, reaching a significant social media following, or establishing a partnership.
+1. **Days 1-10:** Set up accounts on GitHub and Twitter, and choose your career path.
+2. **Days 11-30:** Build a foundation by completing courses and initiating your first project.
+3. **Days 31-60:** Network with the Botswana Digital & Innovation Hub, attend meetups, and connect with companies.
+4. **Days 61-90:** Gain traction by securing your first contract, reaching a significant social media following, or establishing a partnership.
 
 ### FAQs
 

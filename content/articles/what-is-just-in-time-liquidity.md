@@ -29,21 +29,13 @@ To grasp JIT liquidity, one must first understand the innovation of concentrated
 
 #### Scenario Breakdown
 
-1.
+1. **The Victim's Swap**: A user, Carol, intends to swap a significant amount of [ETH](/what-is-ethereum) for USDC. She submits her transaction to the public mempool. This trade is substantial enough to affect the price across multiple ticks in the Uniswap v3 pool.
 
-**The Victim's Swap**: A user, Carol, intends to swap a significant amount of [ETH](/what-is-ethereum) for USDC. She submits her transaction to the public mempool. This trade is substantial enough to affect the price across multiple ticks in the Uniswap v3 pool.
+2. **The MEV Bot Observes**: A JIT liquidity bot continuously monitors the mempool. It identifies Carol's large transaction.
 
-2.
+3. **The Calculation**: The bot simulates Carol's trade, determining the exact price path it will take and identifying the specific ticks the trade will traverse.
 
-**The MEV Bot Observes**: A JIT liquidity bot continuously monitors the mempool. It identifies Carol's large transaction.
-
-3.
-
-**The Calculation**: The bot simulates Carol's trade, determining the exact price path it will take and identifying the specific ticks the trade will traverse.
-
-4.
-
-**The Atomic Transaction Bundle**: The bot constructs a sequence of three actions to execute atomically within a single block:
+4. **The Atomic Transaction Bundle**: The bot constructs a sequence of three actions to execute atomically within a single block:
  - **Action 1: `addLiquidity`**: The bot submits a transaction to inject a large volume of liquidity in a very narrow range that aligns perfectly with Carol's price trajectory. To gain priority, it pays an improve gas fee to the block producer.
  - **Action 2: The Victim's Swap**: The block producer, incentivized by the higher gas fee, positions Carol's transaction directly after the bot's. As Carol's swap executes, it moves through the bot's concentrated liquidity position.
  - **Action 3: `removeLiquidity`**: The bot submits a final transaction to withdraw its liquidity and collected fees immediately after Carol's transaction.

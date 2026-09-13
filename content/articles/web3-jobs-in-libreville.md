@@ -66,21 +66,13 @@ The job market in Libreville is specialized, seeking professionals with backgrou
 
 ### Building a Career in Libreville's Web3 Scene
 
-1.
+1. **Develop Expertise in ReFi and Carbon Markets:** A thorough understanding of carbon credit mechanisms, MRV challenges, and tokenized environmental assets is important for entering the field.
 
-**Develop Expertise in ReFi and Carbon Markets:** A thorough understanding of carbon credit mechanisms, MRV challenges, and tokenized environmental assets is important for entering the field.
+2. **Integrate Environmental and Web3 Knowledge:** Establish a portfolio that showcases your ability to connect these domains. Consider writing analyses of ReFi protocols or proposing models for tokenizing biodiversity credits.
 
-2.
+3. **Network Globally:** Engage with influential projects and thought leaders in the ReFi space on platforms like Twitter and at international climate and Web3 conferences.
 
-**Integrate Environmental and Web3 Knowledge:** Establish a portfolio that showcases your ability to connect these domains. Consider writing analyses of ReFi protocols or proposing models for tokenizing biodiversity credits.
-
-3.
-
-**Network Globally:** Engage with influential projects and thought leaders in the ReFi space on platforms like Twitter and at international climate and Web3 conferences.
-
-4.
-
-**Connect Locally:** Forge relationships with the Ministry of Environment, local conservation NGOs, and tech hubs in Libreville. Familiarize yourself with local policies and priorities.
+4. **Connect Locally:** Forge relationships with the Ministry of Environment, local conservation NGOs, and tech hubs in Libreville. Familiarize yourself with local policies and priorities.
 
 ## Salary Overview: Web3 Jobs in Libreville
 
@@ -131,69 +123,45 @@ While Libreville's cost of living is generally higher than many other African ci
 
 ### Path 1: ReFi Developer Specialist (Carbon Markets Focus) (9-18 Month Timeline)
 
-1.
-
-**Months 1-4: Master Carbon Markets & ReFi Fundamentals**- Study the Kyoto Protocol, Paris Agreement, and VCS standards.
+1. **Months 1-4: Master Carbon Markets & ReFi Fundamentals**- Study the Kyoto Protocol, Paris Agreement, and VCS standards.
  - Analyze existing ReFi projects like Toucan Protocol and Nori.
  - Learn MRV methodologies and design smart contracts for carbon credits.
  - Build a prototype for a carbon credit ERC-20 contract.
 
-2.
-
-**Months 5-9: Build Specialized Portfolio**- Investigate the architecture of Toucan Protocol's TCO2.
+2. **Months 5-9: Build Specialized Portfolio**- Investigate the architecture of Toucan Protocol's TCO2.
  - Create a transparent carbon credit marketplace.
  - Contribute to open-source ReFi projects.
 
-3.
-
-**Months 10-15: Secure a Senior ReFi Role**- Apply to ReFi protocols and DAOs, highlighting your Central Africa context.
+3. **Months 10-15: Secure a Senior ReFi Role**- Apply to ReFi protocols and DAOs, highlighting your Central Africa context.
  - Transition to a full-time senior role with expected compensation aligned with market standards.
 
-4.
-
-**Months 16-18: Establish Thought Leadership**- Publish research reports and consult with Central African governments on blockchain carbon accounting.
+4. **Months 16-18: Establish Thought Leadership**- Publish research reports and consult with Central African governments on blockchain carbon accounting.
 
 **Quick Wins:**- Write analyses on top ReFi projects to gain visibility.
 - Participate in bug bounties for ReFi protocols.
 
 ### Path 2: Impact Investment / ReFi DAO Operator (Climate Finance Focus) (8-16 Month Timeline)
 
-1.
-
-**Months 1-3: Understand Climate Finance Deeply**- Research climate finance markets and impact investing fundamentals.
+1. **Months 1-3: Understand Climate Finance Deeply**- Research climate finance markets and impact investing fundamentals.
  - Analyze Gabon's context regarding payment for ecosystem services and REDD+ programs.
 
-2.
+2. **Months 4-6: Build a ReFi DAO Proposal**- Identify an opportunity for tokenized conservation bonds and draft a detailed proposal.
 
-**Months 4-6: Build a ReFi DAO Proposal**- Identify an opportunity for tokenized conservation bonds and draft a detailed proposal.
+3. **Months 7-10: Launch DAO or Join a ReFi Fund**- Either launch a small DAO or join an established fund as an investment manager.
 
-3.
-
-**Months 7-10: Launch DAO or Join a ReFi Fund**- Either launch a small DAO or join an established fund as an investment manager.
-
-4.
-
-**Months 11-16: Scale Impact**- Deploy capital to fund various environmental projects and track their impact metrics.
+4. **Months 11-16: Scale Impact**- Deploy capital to fund various environmental projects and track their impact metrics.
 
 **Quick Wins:**- Serve as an advisor for ReFi startups.
 
 ### Path 3: ReFi Data Scientist & MRV Specialist (8-14 Month Timeline)
 
-1.
+1. **Months 1-4: Master MRV & Environmental Data**- Study MRV methodologies and analyze satellite imagery for forest monitoring.
 
-**Months 1-4: Master MRV & Environmental Data**- Study MRV methodologies and analyze satellite imagery for forest monitoring.
+2. **Months 5-8: Build Portfolio Projects**- Track forest coverage changes in Gabon using satellite data and verify carbon credit authenticity.
 
-2.
+3. **Months 9-12: Specialize in ReFi Infrastructure**- Understand oracle design and network with data science teams at leading ReFi organizations.
 
-**Months 5-8: Build Portfolio Projects**- Track forest coverage changes in Gabon using satellite data and verify carbon credit authenticity.
-
-3.
-
-**Months 9-12: Specialize in ReFi Infrastructure**- Understand oracle design and network with data science teams at leading ReFi organizations.
-
-4.
-
-**Months 13-14: Secure a Senior Data Role**- Expect offers aligned with market standards.
+4. **Months 13-14: Secure a Senior Data Role**- Expect offers aligned with market standards.
 
 **Quick Wins:**- Participate in competitions focused on environmental data.
 

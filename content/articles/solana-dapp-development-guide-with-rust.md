@@ -33,18 +33,10 @@ Before we start building, it's important to understand Solana's unique account m
 
 ### Setting Up Your Development Environment
 
-1.
-
-**Install Rust**: Follow the official instructions at [rust-lang.org](https://www.rust-lang.org/tools/install) to install Rust and its package manager, Cargo.
-2.
-
-**Install the Solana Tool Suite**: Follow the official Solana documentation to install the command-line tools. This will give you the `solana` CLI, which is used to interact with the network, manage wallets, and more.
-3.
-
-**Install Anchor**: With Rust and Solana installed, you can now install Anchor. This is typically done via the `avm` (Anchor Version Manager). Follow the instructions on the [Anchor website](https://www.anchor-lang.com/docs/installation). The `anchor` CLI is your primary tool for creating, building, testing, and deploying your dApp.
-4.
-
-**Install Node.js and Yarn**: You will need a JavaScript runtime to test your program and build a frontend.
+1. **Install Rust**: Follow the official instructions at [rust-lang.org](https://www.rust-lang.org/tools/install) to install Rust and its package manager, Cargo.
+2. **Install the Solana Tool Suite**: Follow the official Solana documentation to install the command-line tools. This will give you the `solana` CLI, which is used to interact with the network, manage wallets, and more.
+3. **Install Anchor**: With Rust and Solana installed, you can now install Anchor. This is typically done via the `avm` (Anchor Version Manager). Follow the instructions on the [Anchor website](https://www.anchor-lang.com/docs/installation). The `anchor` CLI is your primary tool for creating, building, testing, and deploying your dApp.
+4. **Install Node.js and Yarn**: You will need a JavaScript runtime to test your program and build a frontend.
 
 ### Building a Simple Counter dApp
 

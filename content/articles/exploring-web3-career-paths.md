@@ -35,7 +35,9 @@ Professionals from diverse fields such as development, marketing, design, and st
 - **Skills Required**: An adversarial mindset, knowledge of common attack vectors (such as re-entrancy and oracle manipulation), proficiency in static and dynamic analysis, and experience with fuzzing techniques.
 - **Job Outlook**: Top auditors earn substantial salaries due to their critical role in maintaining security in decentralized applications.
 
-### The Strategic Track: Shaping the Ecosystem**1. Web3 Product Manager
+### The Strategic Track: Shaping the Ecosystem
+
+**1. Web3 Product Manager
 
 **Web3 PMs are responsible for defining the vision and strategy behind decentralized products. This role requires a blend of technical literacy, economic understanding, and community management skills.
 
@@ -47,7 +49,9 @@ Professionals from diverse fields such as development, marketing, design, and st
 - **Skills Required**: Strong understanding of economics, game theory, financial modeling, and behavioral psychology.
 - **Job Outlook**: Given that a project's success often relies on its tokenomics, experts in this area are in high demand, with salaries reflecting this need.
 
-### The Community & Growth Track: Building the Movement**1. Community Manager
+### The Community & Growth Track: Building the Movement
+
+**1. Community Manager
 
 **In Web3, the community is central to a project's success. Community managers cultivate an engaged and positive culture across platforms like Discord and Telegram.
 

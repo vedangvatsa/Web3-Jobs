@@ -317,5 +317,7 @@ Certificates are useful as a signal on your profile and resume, but they are not
 
 #### 7. Can I take Machine Learning Specialization and Deep Learning Specialization in either order?
 
-The official recommendation is Machine Learning Specialization first, then Deep Learning Specialization. Deep Learning Specialization is listed as Intermediate and expects intermediate Python and familiarity with ML concepts. If you have already done equivalent ML study, you can start with Deep Learning Specialization, but most beginners do better in order.**8. What changed in these courses in 2026?**
+The official recommendation is Machine Learning Specialization first, then Deep Learning Specialization. Deep Learning Specialization is listed as Intermediate and expects intermediate Python and familiarity with ML concepts. If you have already done equivalent ML study, you can start with Deep Learning Specialization, but most beginners do better in order.
+
+**8. What changed in these courses in 2026?**
 Elements of AI continues to offer free content with optional university credit windows set by the academic year. AI For Everyone, Machine Learning Specialization, and Deep Learning Specialization remain on Coursera with the same month-based pricing and financial aid. Career Essentials in Generative AI on LinkedIn Learning now shows 5 courses and 4 hours, with an update scheduled for October 1, 2026. Practical Deep Learning for Coders remains free at course.fast.ai with Part 1 and the longer Part 2 on foundations to Stable Diffusion.

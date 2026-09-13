@@ -42,21 +42,11 @@ Optimism does not provide its own consensus. It borrows Ethereum consensus and a
 
 ### The basic flow
 
-1.
-
-**Submit.** You send a transaction to the sequencer, or you submit a deposit on L1. Deposits are L1 transactions that the L2 must include. They appear in the first L2 block of the epoch that corresponds to that L1 block, usually a few minutes later.
-2.
-
-**Execute off chain.** The L2 execution engine `op-geth` runs the transaction and updates the state tree. The rollup node `op-node` can derive the same blocks from L1 data via the derivation pipeline. Execution engines also sync peer to peer for speed, but derivation from L1 is the censorship resistant path.
-3.
-
-**Batch and compress.** The sequencer groups transactions into batches, compresses them, and posts the compressed bytes to Ethereum. Compression matters because you pay for every byte posted. Since Fjord (July 10, 2024) the fee estimator uses FastLZ and a linear model calibrated against Brotli batch compression.
-4.
-
-**Commit state.** The rollup contracts on Ethereum store a new output root that commits to the L2 state, plus a batch root for inclusion proofs.
-5.
-
-**Challenge or finalize.** The output root sits in a challenge window for about 7 days. Anyone running a node can check it against the data on L1. If it is wrong, they can challenge it with a fault proof. If no valid challenge wins, the root is final and L1 contracts can safely accept withdrawal proofs against it. A successful challenge removes only the posted commitment. It does not roll back L2 ordering or state.
+1. **Submit.** You send a transaction to the sequencer, or you submit a deposit on L1. Deposits are L1 transactions that the L2 must include. They appear in the first L2 block of the epoch that corresponds to that L1 block, usually a few minutes later.
+2. **Execute off chain.** The L2 execution engine `op-geth` runs the transaction and updates the state tree. The rollup node `op-node` can derive the same blocks from L1 data via the derivation pipeline. Execution engines also sync peer to peer for speed, but derivation from L1 is the censorship resistant path.
+3. **Batch and compress.** The sequencer groups transactions into batches, compresses them, and posts the compressed bytes to Ethereum. Compression matters because you pay for every byte posted. Since Fjord (July 10, 2024) the fee estimator uses FastLZ and a linear model calibrated against Brotli batch compression.
+4. **Commit state.** The rollup contracts on Ethereum store a new output root that commits to the L2 state, plus a batch root for inclusion proofs.
+5. **Challenge or finalize.** The output root sits in a challenge window for about 7 days. Anyone running a node can check it against the data on L1. If it is wrong, they can challenge it with a fault proof. If no valid challenge wins, the root is final and L1 contracts can safely accept withdrawal proofs against it. A successful challenge removes only the posted commitment. It does not roll back L2 ordering or state.
 
 ### Deposits and withdrawals
 

@@ -45,25 +45,17 @@ The job market in Boston is particularly favorable for technical and research-or
 
 ### Building a Web3 Career in Boston
 
-1.
+1. **Use Your Academic Background**: A degree from a top university, especially in a technical discipline, provides a significant advantage. Highlight your research skills, ability to tackle complex topics, and any published work.
 
-**Use Your Academic Background**: A degree from a top university, especially in a technical discipline, provides a significant advantage. Highlight your research skills, ability to tackle complex topics, and any published work.
-
-2.
-
-**Engage with the Academic Community**: The academic environment is the heart of Boston's Web3 scene.
+2. **Engage with the Academic Community**: The academic environment is the heart of Boston's Web3 scene.
  - **Attend Seminars**: Participate in public talks organized by the MIT Digital Currency Initiative and other university labs.
  - **Join Hackathons**: Events like the MIT Bitcoin Expo and its associated hackathon are significant recruiting opportunities.
 
-3.
-
-**Create a Research-Oriented [Portfolio](/building-web3-portfolio)**: Your portfolio should demonstrate the intellectual rigor expected in Boston's ecosystem.
+3. **Create a Research-Oriented [Portfolio](/building-web3-portfolio)**: Your portfolio should demonstrate the intellectual rigor expected in Boston's ecosystem.
  - **Engineers**: Contribute to an essential research project or write a technical analysis of a new cryptographic primitive.
  - **Quantitative Analysts/Product Managers**: Produce a research paper or a detailed analysis of a DeFi protocol's economic security.
 
-4.
-
-**Network with Substance**: Networking in Boston focuses on meaningful technical conversations. Attend meetups prepared to discuss the latest research and engage in technical debates.
+4. **Network with Substance**: Networking in Boston focuses on meaningful technical conversations. Attend meetups prepared to discuss the latest research and engage in technical debates.
 
 ### Job Opportunities in Boston's Web3 Sector
 

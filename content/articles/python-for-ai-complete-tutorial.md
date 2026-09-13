@@ -19,9 +19,7 @@ This tutorial targets individuals with a fundamental understanding of programmin
 Python's dominance in the AI field stems from three key attributes:
 
 1. **User-Friendly Syntax**: Python's syntax closely resembles plain English, allowing you to concentrate on AI model logic instead of grappling with complex syntax.
-2.
-
-**Extensive Library Ecosystem**: Python boasts a wealth of open-source libraries that simplify tasks like data manipulation and machine learning. You can rely on existing libraries rather than starting from scratch.
+2. **Extensive Library Ecosystem**: Python boasts a wealth of open-source libraries that simplify tasks like data manipulation and machine learning. You can rely on existing libraries rather than starting from scratch.
 3. **active Community**: The Python community is strong. You can find answers to your queries on platforms like Stack Overflow or various programming blogs, which enhances the learning experience.
 
 ## Essential Libraries for AI

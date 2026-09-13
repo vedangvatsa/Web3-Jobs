@@ -77,16 +77,10 @@ For those who excel in strategic thinking rather than coding, these roles provid
 
 ### Positioning Yourself for These Opportunities
 
-1.
+1. **Develop a Public Specialty:** Move away from being a generalist. Aim to become the recognized expert in a specific niche, such as MEV, ZK-proofs, or DAO governance.
 
-**Develop a Public Specialty:** Move away from being a generalist. Aim to become the recognized expert in a specific niche, such as MEV, ZK-proofs, or DAO governance.
+2. **Create High-Quality Content:** Your writing and research serve as your [resume](/how-to-build-a-web3-resume-that-stands-out). A well-crafted analysis of a protocol's tokenomics can be more impactful than multiple generic articles.
 
-2.
-
-**Create High-Quality Content:** Your writing and research serve as your [resume](/how-to-build-a-web3-resume-that-stands-out). A well-crafted analysis of a protocol's tokenomics can be more impactful than multiple generic articles.
-
-3.
-
-**Engage in Significant Contributions:** Go beyond simple tasks. Draft a major governance proposal for a DAO or submit meaningful pull requests to open-source projects. Demonstrate leadership through your contributions.
+3. **Engage in Significant Contributions:** Go beyond simple tasks. Draft a major governance proposal for a DAO or submit meaningful pull requests to open-source projects. Demonstrate leadership through your contributions.
 
 The future of Web3 is in the hands of specialists and systems thinkers. As a crypto-native professional, you have a unique opportunity to step into these roles. By deepening your expertise and applying your experience, you can forge a career that is both financially rewarding and central to the development of the new internet.

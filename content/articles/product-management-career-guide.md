@@ -21,7 +21,7 @@ The Associate Product Manager role serves as the entry point into product manage
 - **Primary Role:** Assist and learn. You work under a senior PM, gaining hands-on experience.
 - **Key Responsibilities:**
 
-- **-** Feature Ownership:**Manage a small, clearly defined feature within a larger product.
+- Feature Ownership:**Manage a small, clearly defined feature within a larger product.
  - **Specification Writing:** Create detailed product requirement documents (PRDs) or user stories for engineering teams.
  - **Data Analysis:** Conduct data analysis to support product decisions.
  - **User Research:** Engage in user interviews and gather customer feedback.
@@ -36,7 +36,7 @@ After gaining experience as an APM, or with relevant experience from another dom
 - **Primary Role:** Manage a product or feature set.
 - **Key Responsibilities:**
 
-- **-** Roadmap Definition:**Establish the feature-level roadmap for your product area.
+- Roadmap Definition:**Establish the feature-level roadmap for your product area.
  - **Prioritization:** Make decisions on what features to build next, balancing user needs, technical limitations, and business objectives.
  - **Stakeholder Collaboration:** Work closely with engineering, design, marketing, and sales teams to bring products to market.
  - **Feature Shipping:** Ensure successful building, testing, and launching of features.
@@ -51,7 +51,7 @@ After several years in the PM role, you can advance to Senior Product Manager. T
 - **Primary Role:** Manage a complex product area and influence strategic direction.
 - **Key Responsibilities:**
 
-- **-** Broader Scope:**Tackle strategic problems that require a more ambiguous approach, such as improving user retention.
+- Broader Scope:**Tackle strategic problems that require a more ambiguous approach, such as improving user retention.
  - **Mentorship:** Guide and mentor junior PMs in their roles.
  - **Cross-Functional Collaboration:** Work with multiple product and engineering teams to achieve goals.
  - **Strategic Contribution:** Offer significant input into the overall product strategy and roadmap.
@@ -65,7 +65,7 @@ This role marks the first level of formal people management, overseeing a team o
 - **Primary Role:** Lead a team of PMs while setting the strategy for a product area.
 - **Key Responsibilities:**
 
-- **-** Team Management:**Recruit, coach, and develop a team of Product Managers.
+- Team Management:**Recruit, coach, and develop a team of Product Managers.
  - **Strategic Planning:** Create high-level strategies and multi-quarter roadmaps for significant parts of the business.
  - **Resource Management:** Allocate engineering and design resources across various initiatives.
  - **Executive Communication:** Present team strategies and results to senior leadership.
@@ -79,7 +79,7 @@ As a VP of Product, you assume a senior executive position responsible for the e
 - **Primary Role:** Oversee the entire product function within the organization.
 - **Key Responsibilities:**
 
-- **-** Organizational Structure:**Design the product team for optimal performance.
+- Organizational Structure:**Design the product team for optimal performance.
  - **Company-Wide Strategy:** Collaborate with the CEO and other executives to define the overall company strategy and product vision.
  - **Product Culture Development:** Establish standards for product management practices within the organization.
  - **Budget Management:** Oversee the budget and hiring plans for the product organization.

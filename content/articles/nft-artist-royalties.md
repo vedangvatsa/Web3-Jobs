@@ -22,12 +22,8 @@ This guide explores NFT artist royalties. It addresses how they function, the te
 The fundamental concept behind NFT royalties is straightforward. When an artist mints an NFT, the smart contract governing the token includes specific parameters.
 
 1. **The Royalty Standard:** The contract identifies a royalty percentage and specifies the creator's [wallet](/how-to-choose-a-crypto-wallet) address for fund distribution.
-2.
-
-**Marketplace Integration:** When the NFT sells on a secondary marketplace, such as OpenSea or Blur, the marketplace's smart contract retrieves the royalty information from the NFT's contract.
-3.
-
-**Automatic Payout:** Once the sale concludes, the marketplace's contract splits the payment, sending the majority to the seller and the royalty fee directly to the creator's wallet.
+2. **Marketplace Integration:** When the NFT sells on a secondary marketplace, such as OpenSea or Blur, the marketplace's smart contract retrieves the royalty information from the NFT's contract.
+3. **Automatic Payout:** Once the sale concludes, the marketplace's contract splits the payment, sending the majority to the seller and the royalty fee directly to the creator's wallet.
 
 In theory, this process is transparent and automated, enforced by the immutable logic of the code. It eliminates the necessity for trusted intermediaries, ensuring creators receive compensation for the long-term value of their work.
 
@@ -126,20 +122,10 @@ New token standards are emerging that aim to integrate royalty enforcement more 
 
 Artists planning an NFT launch must move beyond the outdated "set it and forget it" mentality regarding royalties. A proactive and informed strategy is essential.
 
-1.
-
-**Implement EIP-2981:** This remains the foundational step, clearly indicating your desired royalty structure.
-2.
-
-**Select Your Marketplace Strategy:** Decide if you will use a contract that enforces an allowlist. Be aware of the benefits and drawbacks of this method and its potential community perception.
-3.
-
-**Cultivate a Strong Community:** Building a community of dedicated fans who appreciate your work is important. A strong community can encourage collectors to honor royalties.
-4.
-
-**Offer Utility:** Provide NFT holders with benefits beyond the artwork itself, such as access to exclusive content or private forums. When NFTs offer ongoing utility, collectors are more likely to prioritize the creator's ecosystem.
-5.
-
-**Educate Your Collectors:** Clearly communicate your royalty policy and explain its importance for your sustainability as a creator.
+1. **Implement EIP-2981:** This remains the foundational step, clearly indicating your desired royalty structure.
+2. **Select Your Marketplace Strategy:** Decide if you will use a contract that enforces an allowlist. Be aware of the benefits and drawbacks of this method and its potential community perception.
+3. **Cultivate a Strong Community:** Building a community of dedicated fans who appreciate your work is important. A strong community can encourage collectors to honor royalties.
+4. **Offer Utility:** Provide NFT holders with benefits beyond the artwork itself, such as access to exclusive content or private forums. When NFTs offer ongoing utility, collectors are more likely to prioritize the creator's ecosystem.
+5. **Educate Your Collectors:** Clearly communicate your royalty policy and explain its importance for your sustainability as a creator.
 
 The debate over NFT royalties continues, reflecting the growing pains of the Web3 ecosystem as it seeks to balance absolute ownership with sustainable creator economies. While the initial vision of automatically enforced royalties faces challenges, the ongoing conversation prompts a more mature and careful approach. Creators can manage this field by combining technical standards, community engagement, and transparent communication.

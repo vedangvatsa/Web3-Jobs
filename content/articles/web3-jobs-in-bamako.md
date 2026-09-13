@@ -52,21 +52,13 @@ The formal Web3 job market in Bamako currently offers limited opportunities. How
 
 ### Building a Web3 Career in Bamako
 
-1.
+1. **Become a Community Teacher:** In an area where knowledge is scarce, educators can emerge as leaders. Organize local Web3 meetups in Bamako. Start a YouTube channel or blog that explains crypto concepts in French and Bambara. This approach enhances your reputation and expands your network.
 
-**Become a Community Teacher:** In an area where knowledge is scarce, educators can emerge as leaders. Organize local Web3 meetups in Bamako. Start a YouTube channel or blog that explains crypto concepts in French and Bambara. This approach enhances your reputation and expands your network.
+2. **Focus on Mobile-First FinTech:** Create projects in your portfolio that address local needs. Develop a simple, mobile-friendly dApp that tackles issues in micro-finance or remittances. This demonstrates your understanding of the local market's demands.
 
-2.
+3. **Develop a top-tier Remote Skillset:** Your main career trajectory will involve remote work. Concentrate on building a GitHub portfolio or a body of public content that competes globally. Master asynchronous communication and professional English.
 
-**Focus on Mobile-First FinTech:** Create projects in your portfolio that address local needs. Develop a simple, mobile-friendly dApp that tackles issues in micro-finance or remittances. This demonstrates your understanding of the local market's demands.
-
-3.
-
-**Develop a top-tier Remote Skillset:** Your main career trajectory will involve remote work. Concentrate on building a GitHub portfolio or a body of public content that competes globally. Master asynchronous communication and professional English.
-
-4.
-
-**Connect with the Regional Ecosystem:** Engage with the broader Francophone African Web3 community online, and attend events in cities like Dakar and Abidjan when possible. Building these connections is vital for learning and uncovering opportunities.
+4. **Connect with the Regional Ecosystem:** Engage with the broader Francophone African Web3 community online, and attend events in cities like Dakar and Abidjan when possible. Building these connections is vital for learning and uncovering opportunities.
 
 ### Salary Guide by Role
 

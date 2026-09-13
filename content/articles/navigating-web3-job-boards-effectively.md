@@ -61,23 +61,13 @@ If a listing triggers multiple red flags, prioritize your time on legitimate opp
 
 In the Web3 space, a passive approach of merely applying for jobs is often ineffective. The most promising opportunities arise from proactive engagement.
 
-1.
-
-**Become a User:** Before applying, interact with the product. Experience the dApp firsthand, make transactions, mint an [NFT](/what-are-nfts), and understand the strengths and weaknesses of the offering.
-2.
-
-**Join the Community:** Participate actively in the project's Discord and Telegram channels. Ask thoughtful questions, assist newcomers, and engage in governance discussions. Build your reputation as a positive contributor.
-3.
-
-**Conduct Thorough Research:** Familiarize yourself with documentation, understand the tokenomics, and analyze on-chain data using tools like Dune. Develop an informed perspective on the project's strategy and competitive position.
-4.
-
-**Tailor Your "Proof of Work":** Your application must reflect your unique contributions.
+1. **Become a User:** Before applying, interact with the product. Experience the dApp firsthand, make transactions, mint an [NFT](/what-are-nfts), and understand the strengths and weaknesses of the offering.
+2. **Join the Community:** Participate actively in the project's Discord and Telegram channels. Ask thoughtful questions, assist newcomers, and engage in governance discussions. Build your reputation as a positive contributor.
+3. **Conduct Thorough Research:** Familiarize yourself with documentation, understand the tokenomics, and analyze on-chain data using tools like Dune. Develop an informed perspective on the project's strategy and competitive position.
+4. **Tailor Your "Proof of Work":** Your application must reflect your unique contributions.
  - **For Developers:** Identify open issues on GitHub and submit pull requests.
  - **For Analysts:** Create a Dune dashboard analyzing user growth or protocol revenue.
  - **For Designers:** Develop a Figma prototype critiquing their UX with suggested improvements.
  - **For Marketers:** Write a blog post dissecting their go-to-market strategy.
 
-5.
-
-**The Application:** When you apply, prepare as an engaged community member who has demonstrated value. Reference your contributions in your cover letter, providing specific feedback about the product. This approach sets you apart from the majority of applicants.
+5. **The Application:** When you apply, prepare as an engaged community member who has demonstrated value. Reference your contributions in your cover letter, providing specific feedback about the product. This approach sets you apart from the majority of applicants.

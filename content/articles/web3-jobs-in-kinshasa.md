@@ -73,21 +73,13 @@ The Web3 job market in Kinshasa is still emerging. Most significant opportunitie
 
 ### Building a Web3 Career in Kinshasa
 
-1.
+1. **Focus on Supply Chain Provenance**: Concentrate on the DRC's unique position in the global supply chain. Develop skills relevant to supply chain management and the tokenization of assets. A prototype for a cobalt tracking system can significantly enhance your portfolio.
 
-**Focus on Supply Chain Provenance**: Concentrate on the DRC's unique position in the global supply chain. Develop skills relevant to supply chain management and the tokenization of assets. A prototype for a cobalt tracking system can significantly enhance your portfolio.
+2. **Support Local Creatives**: Kinshasa's rich artistic culture offers many opportunities. Collaborate with local artists to help them mint their first NFTs. Create content that highlights Congolese digital art to a global audience, establishing yourself as an essential connector in this space.
 
-2.
+3. **Enhance Remote Work Skills**: Given the prevalence of remote roles, proficiency in professional communication in English is essential. Build a strong online presence on platforms like Twitter and GitHub to showcase your work and connect with potential employers.
 
-**Support Local Creatives**: Kinshasa's rich artistic culture offers many opportunities. Collaborate with local artists to help them mint their first NFTs. Create content that highlights Congolese digital art to a global audience, establishing yourself as an essential connector in this space.
-
-3.
-
-**Enhance Remote Work Skills**: Given the prevalence of remote roles, proficiency in professional communication in English is essential. Build a strong online presence on platforms like Twitter and GitHub to showcase your work and connect with potential employers.
-
-4.
-
-**Lead Community Education Initiatives**: The local ecosystem requires knowledgeable leaders. Organize Web3 meetups in Kinshasa and develop educational materials in French and Lingala. By becoming an educator and community organizer, you can prepare as a key figure within the local tech scene.
+4. **Lead Community Education Initiatives**: The local ecosystem requires knowledgeable leaders. Organize Web3 meetups in Kinshasa and develop educational materials in French and Lingala. By becoming an educator and community organizer, you can prepare as a key figure within the local tech scene.
 
 ### Salary & Compensation Overview
 
@@ -120,7 +112,7 @@ The Web3 job market in Kinshasa is still emerging. Most significant opportunitie
 
 **Path 1: Cobalt Supply Chain Specialist (10-16 months)**
 
-- **-** Months 1-3: Foundation**- Learn Solidity and enterprise blockchain concepts.
+- Months 1-3: Foundation**- Learn Solidity and enterprise blockchain concepts.
  - Study supply chain traceability standards.
  - Research the DRC mining and cobalt industry.
 
@@ -134,7 +126,7 @@ The Web3 job market in Kinshasa is still emerging. Most significant opportunitie
 
 **Path 2: NFT Artist & Creator Ecosystem Builder (10-18 months)**
 
-- **-** Months 1-4: Ecosystem Research**- Investigate Kinshasa's creative scene.
+- Months 1-4: Ecosystem Research**- Investigate Kinshasa's creative scene.
  - Learn about NFT platforms and creator economics.
 
 - **Months 5-8: Community Development**- Assist local artists in minting their first NFTs.
@@ -146,7 +138,7 @@ The Web3 job market in Kinshasa is still emerging. Most significant opportunitie
 
 **Path 3: DeFi/Financial Inclusion Developer (9-15 months)**
 
-- **-** Months 1-3: Foundations**- Study Solidity and DeFi protocols.
+- Months 1-3: Foundations**- Study Solidity and DeFi protocols.
  - Learn about mobile-first financial applications.
 
 - **Months 4-6: Local Focus**- Develop DeFi projects tailored for unbanked users.

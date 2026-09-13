@@ -58,24 +58,14 @@ To excel as a Web3 technical writer, a unique combination of skills is necessary
 
 Breaking into the Web3 sector as a technical writer is relatively straightforward.
 
-1.
+1. **Select a Project You Admire:** Choose a Web3 protocol that you are already familiar with and appreciate.
 
-**Select a Project You Admire:** Choose a Web3 protocol that you are already familiar with and appreciate.
+2. **Identify Documentation Gaps:** Review the existing documentation from the perspective of a new user or developer. Note any confusing areas or missing information.
 
-2.
+3. **Contribute Improvements:** Write the guide or explanation that you would have found helpful. If the documentation resides on a public [GitHub](/building-web3-portfolio), submit a pull request with your enhancements. If not, publish your work on your blog or a platform like Mirror.xyz. This serves as your [proof of work](/how-to-build-a-public-on-chain-developer-brand).
 
-**Identify Documentation Gaps:** Review the existing documentation from the perspective of a new user or developer. Note any confusing areas or missing information.
+4. **Build a Portfolio:** Assemble a portfolio showcasing your public writing. This could include your blog, contributions to GitHub, or summaries of community calls. Your portfolio acts as evidence of your competence.
 
-3.
-
-**Contribute Improvements:** Write the guide or explanation that you would have found helpful. If the documentation resides on a public [GitHub](/building-web3-portfolio), submit a pull request with your enhancements. If not, publish your work on your blog or a platform like Mirror.xyz. This serves as your [proof of work](/how-to-build-a-public-on-chain-developer-brand).
-
-4.
-
-**Build a Portfolio:** Assemble a portfolio showcasing your public writing. This could include your blog, contributions to GitHub, or summaries of community calls. Your portfolio acts as evidence of your competence.
-
-5.
-
-**Engage with the Community:** Share your work within the project's Discord channel and solicit feedback. By doing so, you can establish your reputation as someone who understands the protocol and can communicate it clearly, often leading to job opportunities.
+5. **Engage with the Community:** Share your work within the project's Discord channel and solicit feedback. By doing so, you can establish your reputation as someone who understands the protocol and can communicate it clearly, often leading to job opportunities.
 
 If you possess clarity of thought, writing precision, and a passion for simplifying complex topics, a career as a technical writer can serve as an excellent entry point into Web3.

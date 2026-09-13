@@ -44,23 +44,15 @@ The demand for skilled Web3 professionals in Cape Town remains high, particularl
 
 Building a successful Web3 career in Cape Town requires strategic engagement with the local community and a focus on developing relevant skills.
 
-1.
-
-**Engage with the Local Community:** In-person connections are important in Cape Town's Web3 scene.
+1. **Engage with the Local Community:** In-person connections are important in Cape Town's Web3 scene.
  - **Attend Meetups:** Participate regularly in various casual and social meetups.
  - **Co-working Spaces:** Spend time at tech-focused co-working spaces where many Web3 professionals gather.
 
-2.
+2. **Create a [Portfolio](/building-web3-portfolio) with Global Appeal:** Given the prevalence of remote roles, your portfolio should reflect high-quality, well-documented projects on GitHub that showcase your skills to a global audience.
 
-**Create a [Portfolio](/building-web3-portfolio) with Global Appeal:** Given the prevalence of remote roles, your portfolio should reflect high-quality, well-documented projects on GitHub that showcase your skills to a global audience.
+3. **Highlight Creative or FinTech Skills:** If you possess a background in design, art, gaming, or financial services, emphasize this experience. These sectors align well with Cape Town's strengths, making your expertise highly sought after.
 
-3.
-
-**Highlight Creative or FinTech Skills:** If you possess a background in design, art, gaming, or financial services, emphasize this experience. These sectors align well with Cape Town's strengths, making your expertise highly sought after.
-
-4.
-
-**Adopt a Remote-First Mindset:** Familiarize yourself with tools and practices for asynchronous communication and remote collaboration. Many teams operate in a distributed manner, so demonstrating your ability to thrive in this environment is essential.
+4. **Adopt a Remote-First Mindset:** Familiarize yourself with tools and practices for asynchronous communication and remote collaboration. Many teams operate in a distributed manner, so demonstrating your ability to thrive in this environment is essential.
 
 ### Your Next Step: Find a Web3 Job
 

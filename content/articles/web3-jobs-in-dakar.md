@@ -200,18 +200,10 @@ Yes, it is mostly legal. Cryptocurrency is not banned, exchanges operate, and wo
 #### What is the fastest way to earn $2,000/month from Dakar?
 
 The quickest routes include:
-1.
-
-**Freelancing on Upwork:** Charging can yield income in the first month.
-2.
-
-**Community management:** Engaging with crypto projects can lead to earnings within the first one or two months.
-3.
-
-**Teaching/bootcamp:** Generate income in two to three months.
-4.
-
-**Junior remote developer roles:** Starting after three to four months.
+1. **Freelancing on Upwork:** Charging can yield income in the first month.
+2. **Community management:** Engaging with crypto projects can lead to earnings within the first one or two months.
+3. **Teaching/bootcamp:** Generate income in two to three months.
+4. **Junior remote developer roles:** Starting after three to four months.
 
 The fastest approach combines freelancing, community management, and teaching, potentially yielding significant income within 2-3 months.
 
@@ -226,18 +218,10 @@ A recommended strategy is to start with community or teaching roles for faster i
 #### As a Senegalese developer, how can I compete globally?
 
 You hold several advantages:
-1.
-
-**Cost of living:** You can work for less and build faster compared to your international peers.
-2.
-
-**French fluency:** Your ability to create French content is highly valuable.
-3.
-
-**Motivation:** The necessity to build wealth drives focus and innovation, minimizing complacency.
-4.
-
-**Local expertise:** Your understanding of UEMOA dynamics surpasses that of many outsiders.
+1. **Cost of living:** You can work for less and build faster compared to your international peers.
+2. **French fluency:** Your ability to create French content is highly valuable.
+3. **Motivation:** The necessity to build wealth drives focus and innovation, minimizing complacency.
+4. **Local expertise:** Your understanding of UEMOA dynamics surpasses that of many outsiders.
 
 #### Should I move to Europe or stay in Dakar?
 
@@ -258,7 +242,7 @@ Begin with these roles to generate income, and consider learning to code later i
 
 **How can I find Dakar-specific Web3 opportunities?**
 
-- **-** Meetups:**Attend startup and tech events in Dakar to connect with others in the field.
+- Meetups:**Attend startup and tech events in Dakar to connect with others in the field.
 - **Twitter:** Engage with the Senegalese and Francophone Web3 communities.
 - **Job boards:** Use specialized job boards for remote and African roles.
 - **LinkedIn:** Search for "Web3 Remote" opportunities and connect with hiring managers.
@@ -277,7 +261,7 @@ Realistic salary expectations are as follows:
 
 **How can I network across UEMOA?**
 
-- **-** Twitter:**Connect with developers from UEMOA countries.
+- Twitter:**Connect with developers from UEMOA countries.
 - **Events:** Attend major conferences where pan-African professionals gather.
 - **Online:** Establish an online "Web3 UEMOA" community inviting participants from all eight countries.
 - **Travel:** Attend regional events each year to expand your network.

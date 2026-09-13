@@ -18,21 +18,13 @@ The **[Web3](/what-is-web3) Social Graph** represents a significant shift in thi
 
 The current social media ecosystem, dominated by a handful of massive platforms, reveals several fundamental flaws inherent in its centralized nature.
 
-1.
+1. **Centralized Control and Censorship:** A single company owns the social graph and dictates the rules. They can change APIs, modify content moderation policies, or de-platform users and applications without notice.
 
-**Centralized Control and Censorship:** A single company owns the social graph and dictates the rules. They can change APIs, modify content moderation policies, or de-platform users and applications without notice.
+2. **Data Silos and Lack of Portability:** Users cannot transport their social graphs from one platform to another. For instance, moving Twitter followers to a new application is impossible. This creates substantial barriers for new competitors, stifling innovation.
 
-2.
+3. **Exploitative Monetization:** Users do not own their data, allowing platforms to monetize it by selling user attention to advertisers. Users essentially become the product.
 
-**Data Silos and Lack of Portability:** Users cannot transport their social graphs from one platform to another. For instance, moving Twitter followers to a new application is impossible. This creates substantial barriers for new competitors, stifling innovation.
-
-3.
-
-**Exploitative Monetization:** Users do not own their data, allowing platforms to monetize it by selling user attention to advertisers. Users essentially become the product.
-
-4.
-
-**Stifled Innovation:** The high barrier to entry for new social applications is daunting. Competing with established platforms like Facebook requires rebuilding a social graph from scratch, discouraging new ideas and solidifying existing players' dominance.
+4. **Stifled Innovation:** The high barrier to entry for new social applications is daunting. Competing with established platforms like Facebook requires rebuilding a social graph from scratch, discouraging new ideas and solidifying existing players' dominance.
 
 ### The Web3 Solution: An Open, Composable Graph
 

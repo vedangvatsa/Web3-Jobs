@@ -63,7 +63,7 @@ The harder challenge: What if multiple validators collude? What if there are net
 
 They design new consensus protocols or improve existing ones. This involves:**Exploring Different Models:**
 
-- **-** Proof-of-Work:**Solving computational puzzles to validate blocks (Bitcoin)
+- Proof-of-Work:**Solving computational puzzles to validate blocks (Bitcoin)
 - **Proof-of-Stake:** Validators risk their own coins ([Ethereum](/what-is-ethereum) 2.0)
 - **Proof-of-Authority:** Designated validators (used in some private blockchains)
 - **Proof-of-History:** Proving that events occurred at specific times (Solana)
@@ -267,35 +267,19 @@ Established tech companies hiring blockchain/consensus experts as they enter the
 
 ### Education
 
-1.
-
-**Undergraduate:** Computer Science, Mathematics, or Physics
-2.
-
-**Graduate:** Master's or PhD in CS (distributed systems focus) or related field
-3.
-
-**Research:** Publish papers on distributed systems, cryptography, or game theory
+1. **Undergraduate:** Computer Science, Mathematics, or Physics
+2. **Graduate:** Master's or PhD in CS (distributed systems focus) or related field
+3. **Research:** Publish papers on distributed systems, cryptography, or game theory
 
 ### Self-Learning Path
 
 If you don't want to pursue academic degrees:
 
-1.
-
-**Deep Dive Into Academic Literature:** Study papers on Byzantine fault tolerance, consensus mechanisms, game theory
-2.
-
-**Build Projects:** Implement consensus mechanisms; experiment with modifications
-3.
-
-**Publish:** Write research papers or detailed technical articles
-4.
-
-**Engage in Community:** Ethereum Research, Bitcoin Development Mailing List, etc.
-5.
-
-**Contribute to Protocols:** Work on protocol improvements through open-source contributions
+1. **Deep Dive Into Academic Literature:** Study papers on Byzantine fault tolerance, consensus mechanisms, game theory
+2. **Build Projects:** Implement consensus mechanisms; experiment with modifications
+3. **Publish:** Write research papers or detailed technical articles
+4. **Engage in Community:** Ethereum Research, Bitcoin Development Mailing List, etc.
+5. **Contribute to Protocols:** Work on protocol improvements through open-source contributions
 
 ### Essential Reading
 
