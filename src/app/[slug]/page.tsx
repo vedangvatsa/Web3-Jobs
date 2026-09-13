@@ -387,8 +387,9 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
       ? getEventExternalUrl({ registrationUrl: event.partnerOffer.url, website: undefined, url: '' })
       : undefined;
     const googleCalendarUrl = generateGoogleCalendarUrl(event, eventExternalUrl);
-    const relatedEvents = (await getRelatedEvents(event, 3)).map(getPublicEvent);
-    const sideEvents = (await getEvents())
+    const allEvents = await getEvents();
+    const relatedEvents = (await getRelatedEvents(event, 3, allEvents)).map(getPublicEvent);
+    const sideEvents = allEvents
       .filter((sideEvent) => sideEvent.sideEventFor?.includes(eventSlug))
       .map(getPublicEvent);
     const eventTimeZone = eventSlug === 'token2049' ? 'Asia/Singapore'

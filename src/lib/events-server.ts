@@ -241,7 +241,7 @@ function linkSideEventParents(event: Web3Event): Web3Event {
   return sideEventFor.size ? { ...event, sideEventFor: [...sideEventFor] } : event;
 }
 
-export async function getEvents(): Promise<Web3Event[]> {
+async function loadEvents(): Promise<Web3Event[]> {
   try {
     const cwd = process.cwd();
     const curatedPath = path.join(cwd, 'content', 'curated-events.json');
@@ -424,6 +424,17 @@ export async function getEvents(): Promise<Web3Event[]> {
   }
 }
 
+const EVENTS_CACHE_TTL_MS = 5 * 60 * 1000;
+let eventsCache: { value: Web3Event[]; expiresAt: number } | null = null;
+
+export async function getEvents(): Promise<Web3Event[]> {
+  if (eventsCache && eventsCache.expiresAt > Date.now()) return eventsCache.value;
+
+  const events = await loadEvents();
+  eventsCache = { value: events, expiresAt: Date.now() + EVENTS_CACHE_TTL_MS };
+  return events;
+}
+
 export async function getEventBySlug(slug: string): Promise<Web3Event | null> {
   const events = await getEvents();
   const normalized = slug.toLowerCase().trim();
@@ -454,12 +465,16 @@ export async function getEventBySlug(slug: string): Promise<Web3Event | null> {
   return null;
 }
 
-export async function getRelatedEvents(currentEvent: Web3Event, limit: number = 3): Promise<Web3Event[]> {
-  const allEvents = await getEvents();
+export async function getRelatedEvents(
+  currentEvent: Web3Event,
+  limit: number = 3,
+  allEvents?: Web3Event[]
+): Promise<Web3Event[]> {
+  const events = allEvents ?? await getEvents();
   const currentEcosystems = getEventEcosystems(currentEvent);
   const currentType = getEventType(currentEvent);
 
-  return allEvents
+  return events
     .filter(e => e.id !== currentEvent.id && new Date(e.startDate) >= new Date())
     .map(e => {
       let score = 0;
