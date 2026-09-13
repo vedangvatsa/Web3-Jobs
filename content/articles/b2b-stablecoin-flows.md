@@ -260,7 +260,6 @@ A retail company in the United States buys $200,000 worth of auto parts from a m
 In a traditional banking system, clear commercial laws (such as Article 4A of the Uniform Commercial Code in the US) define the exact millisecond when a debt is legally satisfied and who owns the money. 
 
 With stablecoins, these legal definitions do not yet exist across borders:
--
 
 #### Can a bankruptcy judge demand the money back?
 
