@@ -30,6 +30,8 @@ import { EventHeroImage } from '@/components/event-cover';
 import { EventCard } from '@/components/event-card';
 import { EventGuideContent } from '@/components/event-guide-content';
 import { DetailPageHeader } from '@/components/detail-page-header';
+import { Token2049SideEvents } from '@/components/token2049-side-events';
+import { EventSpeakers } from '@/components/event-speakers';
 import { getEventBySlug, getEvents, getRelatedEvents } from '@/lib/events-server';
 import { Button } from '@/components/ui/button';
 import { Calendar, MapPin, ExternalLink, ArrowLeft, ArrowRight } from 'lucide-react';
@@ -370,13 +372,29 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
   if (event) {
     const siteUrl = 'https://hashtagweb3.com';
     const eventSlug = getEventSlug(event);
+    const isToken2049Page = eventSlug === 'token2049';
     if (params.slug !== eventSlug) {
       permanentRedirect(`/${eventSlug}`);
     }
     const editorial = await resolveEventGuide(event);
-    const speakerSummary = event.speakers?.join(', ');
+    const speakerSummary = event.speakerDetails ? `${event.speakerDetails.length} official speakers announced.` : event.speakers?.join(', ');
     const googleCalendarUrl = generateGoogleCalendarUrl(event);
     const relatedEvents = await getRelatedEvents(event, 3);
+    const token2049SideEvents = isToken2049Page
+      ? (await getEvents())
+          .filter((sideEvent) => sideEvent.token2049SideEvent)
+          .map((sideEvent) => ({
+            id: sideEvent.id,
+            slug: getEventSlug(sideEvent),
+            name: sideEvent.name,
+            startDate: sideEvent.startDate,
+            location: sideEvent.location,
+            url: sideEvent.url,
+            coverImage: sideEvent.coverImage || '',
+            category: sideEvent.category,
+            price: sideEvent.price,
+          }))
+      : [];
 
     const eventPageUrl = `${siteUrl}/${eventSlug}`;
     const eventImage = event.coverImage || `/api/og?type=default&title=${encodeURIComponent(event.name)}`;
@@ -508,11 +526,17 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                 </div>
               )}
 
-              <EventGuideContent
-                editorial={editorial}
-                speakerSummary={speakerSummary}
-                eventUrl={event.url}
-              />
+              {!isToken2049Page && (
+                <EventGuideContent
+                  editorial={editorial}
+                  speakerSummary={speakerSummary}
+                  eventUrl={event.url}
+                />
+              )}
+
+              {event.speakerDetails && <EventSpeakers speakers={event.speakerDetails} sourceUrl="https://token2049.com/singapore/speakers" />}
+
+              {token2049SideEvents.length > 0 && <Token2049SideEvents events={token2049SideEvents} />}
 
               {/* Related Events Section */}
               {relatedEvents.length > 0 && (

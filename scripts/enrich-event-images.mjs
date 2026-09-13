@@ -11,6 +11,7 @@ const rootDir = path.resolve(__dirname, '..');
 const curatedPath = path.join(rootDir, 'content', 'curated-events.json');
 const cachePath = path.join(rootDir, 'content', 'events-cache.json');
 const publicEventsDir = path.join(rootDir, 'public', 'events');
+const sourceFilter = process.env.EVENT_SOURCE;
 
 if (!fs.existsSync(publicEventsDir)) {
   fs.mkdirSync(publicEventsDir, { recursive: true });
@@ -196,7 +197,7 @@ async function processEventsFile(filePath, label) {
   const toProcess = events.filter(e => {
     const d = e.endDate ? new Date(e.endDate) : new Date(e.startDate);
     const isUpcoming = !isNaN(d.getTime()) && d >= now;
-    return isUpcoming && isGenericOrBroken(e.coverImage);
+    return isUpcoming && isGenericOrBroken(e.coverImage) && (!sourceFilter || e.source === sourceFilter);
   });
 
   console.log(`Found ${toProcess.length} upcoming events needing real images.`);
@@ -204,8 +205,8 @@ async function processEventsFile(filePath, label) {
   let updatedCount = 0;
   let failedCount = 0;
 
-  // Process in small batches of 10 to avoid overwhelming connections
-  const BATCH_SIZE = 10;
+  // Luma throttles aggressively when a source-specific recovery run is active.
+  const BATCH_SIZE = sourceFilter ? 2 : 10;
   for (let i = 0; i < toProcess.length; i += BATCH_SIZE) {
     const batch = toProcess.slice(i, i + BATCH_SIZE);
     console.log(`Processing batch ${Math.floor(i / BATCH_SIZE) + 1} / ${Math.ceil(toProcess.length / BATCH_SIZE)}...`);
@@ -215,6 +216,17 @@ async function processEventsFile(filePath, label) {
         const url = cleanUrl(event.url) || cleanUrl(event.website);
         if (!url) {
           failedCount++;
+          return;
+        }
+
+        const matchingEvent = events.find((candidate) =>
+          candidate !== event &&
+          cleanUrl(candidate.url) === url &&
+          !isGenericOrBroken(candidate.coverImage)
+        );
+        if (matchingEvent) {
+          event.coverImage = matchingEvent.coverImage;
+          updatedCount++;
           return;
         }
 
@@ -238,7 +250,7 @@ async function processEventsFile(filePath, label) {
 
     // Save incrementally
     fs.writeFileSync(filePath, JSON.stringify(events, null, 2));
-    await new Promise(r => setTimeout(r, 200));
+    await new Promise(r => setTimeout(r, sourceFilter ? 1000 : 200));
   }
 
   fs.writeFileSync(filePath, JSON.stringify(events, null, 2));
@@ -253,7 +265,8 @@ async function main() {
   console.log('\n── Localizing remaining remote covers ──');
   for (const [filePath, label] of [[curatedPath, 'Curated Events'], [cachePath, 'Cached Events']]) {
     const events = JSON.parse(fs.readFileSync(filePath, 'utf8'));
-    const { okCount, rateLimited, failed } = await enrichLocalCovers(events, {
+    const targetEvents = sourceFilter ? events.filter((event) => event.source === sourceFilter) : events;
+    const { okCount, rateLimited, failed } = await enrichLocalCovers(targetEvents, {
       eventsDir: publicEventsDir,
       log: console.log,
     });
