@@ -6,7 +6,6 @@ import { PageHeader } from "@/components/page-header";
 import { PageShell } from '@/components/page-shell';
 import { EventPartners } from '@/components/event-partners';
 import { CommunityFeedBanner } from '@/components/community-feed-banner';
-import { DirectoryDisclaimer } from '@/components/directory-disclaimer';
 
 export const metadata: Metadata = {
   title: 'Web3 Events Calendar 2026 | Crypto Conferences & Meetups',
@@ -89,7 +88,6 @@ export default async function EventsPage() {
                 }
               />
               <EventsBoard initialEvents={events} />
-              <DirectoryDisclaimer />
             </article>
           </PageShell>
         </main>
