@@ -575,6 +575,9 @@
   "https://www.theblock.co/news/markets/2026-09-12-cryptoquant-bitcoin-resistance-support-levels-414519",
   "https://www.coindesk.com/business/2026/09/12/bitcoin-suisse-plans-to-cut-up-to-half-its-swiss-jobs-as-it-shifts-work-abroad",
   "https://cointelegraph.com/news/north-korea-using-foreign-talent-to-help-infiltrate-us-companies-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "https://www.coindesk.com/business/2026/09/13/circle-s-usd400m-tazapay-deal-buys-emerging-market-links-that-take-years-to-build",
+  "https://decrypt.co/378103/ai-agents-spending-money-research",
+  "https://www.coindesk.com/news-analysis/2026/09/11/crypto-s-clarity-act-is-a-schroedinger-s-cat-in-life-death-limbo-as-u-s-senate-returns",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -1631,6 +1634,12 @@
   "Bitcoin Suisse plans to cut up to half its Swiss jobs as it shifts work abroad",
   "North Korea uses foreign proxies to get US IT jobs",
   "North Korea using foreign talent to help infiltrate US companies: Report",
+  "Circle spends $400 million to acquire Tazapay for emerging markets",
+  "Circle's $400M Tazapay deal buys emerging market links that take ‘years to build’",
+  "Research Shows AI Agents Rarely Pay for Online Transactions",
+  "AI Agents Spending Money Online? New Research Says Not Really",
+  "U.S. Senate Vote on Crypto Legislation Faces Potential Delay",
+  "Crypto's Clarity Act is a Schrödinger's cat in life-death limbo as U.S. Senate returns",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -1738,5 +1747,8 @@
   "fp:advis|ceo|concern|currently|fortun|happen|ill|ipo|mak|not",
   "fp:700|bull|clear|confirm|cryptoquant|despit|extend|generally|market|must",
   "fp:abroad|clos|copenhagen|cost|cut|firm|half|hub|job|lower",
-  "fp:befor|clear|foreign|get|help|hir|infiltrat|interview|job|korea"
+  "fp:befor|clear|foreign|get|help|hir|infiltrat|interview|job|korea",
+  "fp:400m|acquir|border|bought|build|buy|circl|cross|develop|digital",
+  "fp:527m|agent|found|generat|lab|littl|money|not|onlin|pay",
+  "fp:act|cancel|cat|clarity|cryptocurrency|death|delay|dinger|fac|lawmaker"
 ]

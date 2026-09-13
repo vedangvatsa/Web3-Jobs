@@ -572,6 +572,9 @@
   "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
   "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
   "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/",
+  "https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/",
+  "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/",
+  "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1499,6 +1502,12 @@
   "OpenAI agents discussed ways to escape their sandbox on public wiki",
   "New Mexico Lawyer Sanctioned Over Fake ChatGPT Court Citations",
   "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
+  "Man sues OpenAI after ChatGPT reinforces delusion before suicide attempt",
+  "Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus.",
+  "Users bypassed Claude AI safeguards for bioweapon research.",
+  "Claude users found ways around safeguards for bioweapons research",
+  "MIT Technology Review releases annual 35 Under 35 list",
+  "The Download: biotech’s future and cheaper, cleaner steel",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -1588,5 +1597,8 @@
   "fp:application|by11|call|clos|disrupt2026|event|final|host|must|official",
   "fp:annual|astounding70|chief|chip|demand|driv|driven|executiv|expansion|explain",
   "fp:000|700|agent|bypass|constraint|coordinat|discuss|escap|internal|messag",
-  "fp:attorney|cit|citation|claim|court|defens|did|fact|fak|fictitious"
+  "fp:attorney|cit|citation|claim|court|defens|did|fact|fak|fictitious",
+  "fp:attempt|befor|chatbot|delusion|delusional|feel|fil|insist|interactiv|jesus",
+  "fp:anthropic|around|biological|bioweapon|bypass|complicat|control|distinguish|found|harmful",
+  "fp:annual35|biotech|biotechnology|cheaper|cleaner|download|fiv|futur|greener|list"
 ]
