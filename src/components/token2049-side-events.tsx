@@ -87,14 +87,34 @@ export function EventSideEvents({ eventName, events, timeZone }: { eventName: st
         <div className="grid gap-3 sm:grid-cols-3">
           <label className="text-xs font-medium text-muted-foreground">
             Category
-            <select value={category} onChange={(event) => setCategory(event.target.value)} className="mt-1.5 flex h-9 w-full rounded-md border bg-background px-3 text-sm text-foreground">
+            <select
+              value={category}
+              onChange={(event) => setCategory(event.target.value)}
+              className="mt-1.5 flex h-9 w-full appearance-none rounded-md border bg-background px-3 pr-8 text-sm text-foreground cursor-pointer focus:outline-none focus:ring-1 focus:ring-ring [-webkit-tap-highlight-color:transparent]"
+              style={{
+                backgroundImage: `url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke='%23888888'%3E%3Cpath stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M19 9l-7 7-7-7'%3E%3C/path%3E%3C/svg%3E")`,
+                backgroundRepeat: 'no-repeat',
+                backgroundPosition: 'right 0.75rem center',
+                backgroundSize: '1rem',
+              }}
+            >
               <option>All categories</option>
               {categories.map((option) => <option key={option}>{option}</option>)}
             </select>
           </label>
           <label className="text-xs font-medium text-muted-foreground">
             Time
-            <select value={timeOfDay} onChange={(event) => setTimeOfDay(event.target.value)} className="mt-1.5 flex h-9 w-full rounded-md border bg-background px-3 text-sm text-foreground">
+            <select
+              value={timeOfDay}
+              onChange={(event) => setTimeOfDay(event.target.value)}
+              className="mt-1.5 flex h-9 w-full appearance-none rounded-md border bg-background px-3 pr-8 text-sm text-foreground cursor-pointer focus:outline-none focus:ring-1 focus:ring-ring [-webkit-tap-highlight-color:transparent]"
+              style={{
+                backgroundImage: `url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke='%23888888'%3E%3Cpath stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M19 9l-7 7-7-7'%3E%3C/path%3E%3C/svg%3E")`,
+                backgroundRepeat: 'no-repeat',
+                backgroundPosition: 'right 0.75rem center',
+                backgroundSize: '1rem',
+              }}
+            >
               <option>All times</option>
               <option>Morning</option>
               <option>Afternoon</option>
@@ -103,7 +123,17 @@ export function EventSideEvents({ eventName, events, timeZone }: { eventName: st
           </label>
           <label className="text-xs font-medium text-muted-foreground">
             Access
-            <select value={price} onChange={(event) => setPrice(event.target.value)} className="mt-1.5 flex h-9 w-full rounded-md border bg-background px-3 text-sm text-foreground">
+            <select
+              value={price}
+              onChange={(event) => setPrice(event.target.value)}
+              className="mt-1.5 flex h-9 w-full appearance-none rounded-md border bg-background px-3 pr-8 text-sm text-foreground cursor-pointer focus:outline-none focus:ring-1 focus:ring-ring [-webkit-tap-highlight-color:transparent]"
+              style={{
+                backgroundImage: `url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke='%23888888'%3E%3Cpath stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M19 9l-7 7-7-7'%3E%3C/path%3E%3C/svg%3E")`,
+                backgroundRepeat: 'no-repeat',
+                backgroundPosition: 'right 0.75rem center',
+                backgroundSize: '1rem',
+              }}
+            >
               <option>All prices</option>
               <option>Free</option>
               <option>Paid</option>
