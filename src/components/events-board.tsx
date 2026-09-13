@@ -231,6 +231,8 @@ export function EventsBoard({ initialEvents }: { initialEvents: Web3Event[] }) {
     return () => observer.disconnect();
   }, [hasMore, filteredEvents.length, viewMode]);
 
+  const [selectedDateEvents, setSelectedDateEvents] = useState<{ date: Date; events: Web3Event[] } | null>(null);
+
   return (
     <div>
       {/* Search + Filters + Icon View Toggle in a single inline toolbar */}
@@ -397,7 +399,10 @@ export function EventsBoard({ initialEvents }: { initialEvents: Web3Event[] }) {
               return (
                 <div
                   key={idx}
-                  className={`min-h-[100px] p-1.5 flex flex-col transition-colors ${
+                  onClick={() => dayEvents.length > 0 && setSelectedDateEvents({ date, events: dayEvents })}
+                  className={`min-h-[85px] sm:min-h-[100px] p-1.5 flex flex-col transition-colors ${
+                    dayEvents.length > 0 ? 'cursor-pointer hover:bg-muted/40' : ''
+                  } ${
                     isCurrentMonth ? 'bg-card' : 'bg-muted/20 text-muted-foreground/50'
                   }`}
                 >
@@ -421,26 +426,93 @@ export function EventsBoard({ initialEvents }: { initialEvents: Web3Event[] }) {
                   </div>
 
                   {/* Event Badges */}
-                  <div className="flex-1 space-y-1 overflow-y-auto max-h-[90px] pr-0.5">
-                    {dayEvents.slice(0, 3).map((ev) => (
-                      <Link
+                  <div className="flex-1 space-y-1 overflow-hidden pr-0.5">
+                    {dayEvents.slice(0, 2).map((ev) => (
+                      <div
                         key={ev.id}
-                        href={`/${getEventSlug(ev)}`}
-                        className="block text-[11px] font-medium leading-tight p-1 rounded bg-primary/10 hover:bg-primary/20 text-primary border border-primary/20 truncate transition-colors"
+                        onClick={(e) => {
+                          e.stopPropagation();
+                          setSelectedDateEvents({ date, events: dayEvents });
+                        }}
+                        className="block text-[11px] font-medium leading-tight p-1 rounded bg-primary/10 hover:bg-primary/20 text-primary border border-primary/20 truncate transition-colors cursor-pointer"
                         title={`${ev.name} (${getEventCity(ev) || 'Online'})`}
                       >
                         {ev.name}
-                      </Link>
+                      </div>
                     ))}
-                    {dayEvents.length > 3 && (
-                      <span className="block text-[10px] font-medium text-muted-foreground text-center pt-0.5">
-                        +{dayEvents.length - 3} more
-                      </span>
+                    {dayEvents.length > 2 && (
+                      <button
+                        onClick={(e) => {
+                          e.stopPropagation();
+                          setSelectedDateEvents({ date, events: dayEvents });
+                        }}
+                        className="block w-full text-[10px] font-semibold text-primary hover:underline text-center pt-0.5"
+                      >
+                        +{dayEvents.length - 2} more
+                      </button>
                     )}
                   </div>
                 </div>
               );
             })}
+          </div>
+        </div>
+      )}
+
+      {/* Date Events Modal */}
+      {selectedDateEvents && (
+        <div className="fixed inset-0 z-50 flex items-center justify-center p-4">
+          <div className="absolute inset-0 bg-black/50" onClick={() => setSelectedDateEvents(null)} />
+          <div className="relative bg-background border rounded-xl shadow-xl w-full max-w-lg p-6 max-h-[85vh] flex flex-col">
+            <div className="flex items-center justify-between border-b pb-3 mb-4">
+              <div>
+                <h3 className="text-lg font-bold">
+                  {selectedDateEvents.date.toLocaleDateString('en-US', { weekday: 'short', month: 'short', day: 'numeric', year: 'numeric' })}
+                </h3>
+                <p className="text-xs text-muted-foreground mt-0.5">
+                  {selectedDateEvents.events.length} event{selectedDateEvents.events.length === 1 ? '' : 's'} on this date
+                </p>
+              </div>
+              <button
+                onClick={() => setSelectedDateEvents(null)}
+                className="p-1 rounded-md text-muted-foreground hover:text-foreground hover:bg-muted"
+                aria-label="Close"
+              >
+                ✕
+              </button>
+            </div>
+
+            <div className="flex-1 overflow-y-auto space-y-3 pr-1">
+              {selectedDateEvents.events.map((event) => (
+                <div key={event.id} className="p-3 rounded-lg border bg-card hover:bg-muted/30 transition-colors">
+                  <div className="flex items-start justify-between gap-2">
+                    <h4 className="text-sm font-semibold leading-snug">{event.name}</h4>
+                    <Link
+                      href={`/${getEventSlug(event)}`}
+                      className="shrink-0 text-xs font-medium px-2.5 py-1 rounded bg-primary text-primary-foreground hover:opacity-90 transition-opacity"
+                    >
+                      View
+                    </Link>
+                  </div>
+                  {event.description && (
+                    <p className="text-xs text-muted-foreground mt-1.5 line-clamp-2 leading-relaxed">
+                      {event.description}
+                    </p>
+                  )}
+                  <div className="flex items-center gap-3 mt-2.5 text-[11px] text-muted-foreground">
+                    <span className="flex items-center gap-1">
+                      <MapPin className="w-3 h-3 shrink-0" />
+                      {getEventCity(event) || event.location || 'Online'}
+                    </span>
+                    {event.category && (
+                      <span className="px-1.5 py-0.5 rounded bg-muted font-medium">
+                        {event.category}
+                      </span>
+                    )}
+                  </div>
+                </div>
+              ))}
+            </div>
           </div>
         </div>
       )}
