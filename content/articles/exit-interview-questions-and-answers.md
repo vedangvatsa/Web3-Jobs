@@ -27,16 +27,11 @@ The primary objectives of an exit interview include:
 
 **Ending the relationship on a positive and professional note.**### Who Should Conduct the Interview?
 
-The best person to conduct an exit interview is a neutral and trusted party, typically someone from
-
-**HR or People Operations**.
-
--
+The best person to conduct an exit interview is a neutral and trusted party, typically someone from **HR or People Operations**.
 
 #### Why not the direct manager?
 
 Employees may feel inhibited in sharing their true feelings with their direct manager, especially if their relationship is a critical factor in their decision to leave.
--
 
 #### Why not a skip-level manager?
 
