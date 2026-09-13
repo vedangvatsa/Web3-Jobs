@@ -1,6 +1,7 @@
 import { EventsBoard } from '@/components/events-board';
 import { getEvents } from '@/lib/events-server';
 import { getEventSlug, type Web3Event } from '@/lib/events';
+import { getPublicEvent } from '@/lib/event-public';
 import type { Metadata } from 'next';
 import { PageHeader } from "@/components/page-header";
 import { PageShell } from '@/components/page-shell';
@@ -87,7 +88,7 @@ export default async function EventsPage() {
                   </>
                 }
               />
-              <EventsBoard initialEvents={events} />
+              <EventsBoard initialEvents={events.map(getPublicEvent)} />
             </article>
           </PageShell>
         </main>

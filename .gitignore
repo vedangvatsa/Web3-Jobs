@@ -78,6 +78,7 @@ scripts/manual-emails*.json
 /content/jobs-full-text.json
 
 # Scratch scrape dumps and social generation outputs
+/.cache/luma-venue-enrichment.json
 /scripts/social/output/
 /hashed_*.json
 /*_scraped_jobs.json
@@ -85,4 +86,3 @@ scripts/manual-emails*.json
 /audit_output.json
 /web3voyager_events.json
 /.agents/skills/hashtagweb3-agent-skill/
-

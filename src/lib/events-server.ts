@@ -1,6 +1,7 @@
 import fs from 'fs';
 import path from 'path';
-import { Web3Event, normalizeCountry, getEventBaseSlug, getEventSlug, getEventEcosystems, getEventType } from './events';
+import { Web3Event, getEventBaseSlug, getEventEcosystems, getEventSlug, getEventType, normalizeCountry } from './events';
+import { getEventExternalUrl } from './event-external-url';
 import { cleanPublishText } from './noslop';
 
 // Explicitly blocked promotional posts that are not events
@@ -307,7 +308,9 @@ export async function getEvents(): Promise<Web3Event[]> {
       if (!isQualityEvent(e)) continue;
 
       let cleanName = cleanPublishText(e.name.replace(/\s+\[\d+\]$/g, '').trim()); // Remove trailing brackets like [4]
-      let cleanUrl = cleanPublishText(e.url || e.website || 'https://hashtagweb3.com/events');
+      let cleanUrl = cleanPublishText(e.url || '');
+      const cleanWebsite = e.website ? cleanPublishText(e.website) : undefined;
+      const cleanRegistrationUrl = e.registrationUrl ? cleanPublishText(e.registrationUrl) : undefined;
       let cleanCity = cleanPublishText(e.city || '');
       let cleanCountry = cleanPublishText(e.country || '');
       let cleanLocation = cleanPublishText(e.location || '');
@@ -340,10 +343,16 @@ export async function getEvents(): Promise<Web3Event[]> {
         cleanUrl = 'https://blockworks.co/events';
       }
 
+      const externalUrl = getEventExternalUrl({
+        registrationUrl: cleanRegistrationUrl,
+        website: cleanWebsite,
+        url: cleanUrl,
+      });
+
       // Normalization check for deduplication
       const datePart = e.startDate.slice(0, 10);
       const normTitle = normalizeEventTitle(cleanName);
-      const normUrl = normalizeEventDomainUrl(cleanUrl);
+      const normUrl = normalizeEventDomainUrl(externalUrl);
 
       // Check URL match (same website domain/path on the same date)
       if (normUrl && seenUrls.has(`${normUrl}|${datePart}`)) {
@@ -376,7 +385,9 @@ export async function getEvents(): Promise<Web3Event[]> {
         city: cleanCity,
         country: normalizeCountry(cleanCountry),
         location: cleanLocation || (cleanCity && cleanCountry ? `${cleanCity}, ${normalizeCountry(cleanCountry)}` : 'Virtual / TBA'),
-        url: cleanUrl,
+        registrationUrl: cleanRegistrationUrl,
+        website: cleanWebsite,
+        url: externalUrl || '',
       });
     }
 

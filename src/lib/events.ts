@@ -1,4 +1,5 @@
 import { EVENT_GUIDES } from './event-guides';
+import { isGoogleEventSchemaEligible } from './event-schema';
 
 export type EventType = 'conference' | 'hackathon' | 'meetup' | 'workshop' | 'online';
 export type EventFormat = 'in-person' | 'online';
@@ -9,18 +10,33 @@ export type EventSpeaker = {
   organization?: string;
 };
 
+export type EventParty = {
+  name: string;
+  type: 'Organization' | 'Person' | 'PerformingGroup';
+  url?: string;
+};
+
 export interface Web3Event {
   id: string;
   name: string;
   description: string;
   startDate: string;
-  endDate: string;
+  endDate?: string;
   city?: string;
   country?: string;
   location: string;
   month?: string;
   category?: string;
   price?: string;
+  registrationUrl?: string;
+  venueName?: string;
+  streetAddress?: string;
+  addressLocality?: string;
+  addressRegion?: string;
+  postalCode?: string;
+  addressCountry?: string;
+  organizer?: EventParty;
+  performer?: EventParty;
   token2049SideEvent?: boolean;
   sideEventFor?: string[];
   url: string;
@@ -36,6 +52,14 @@ export interface Web3Event {
     url?: string;
   };
 }
+
+export type PublicWeb3Event = Omit<Web3Event, 'source' | 'url' | 'website' | 'registrationUrl' | 'partnerOffer'> & {
+  url?: string;
+  partnerOffer?: {
+    text: string;
+    url?: string;
+  };
+};
 
 // Country code to clean name mapping
 export const COUNTRY_NAMES: Record<string, string> = {
@@ -110,19 +134,9 @@ export function getEventFormat(event: Web3Event): EventFormat {
   return 'in-person';
 }
 
-const GOOGLE_EVENT_INELIGIBLE = /\b(?:private|invite[- ]only|members?[- ]only|approval[- ]based|application[- ]only|closed event)\b/i;
-
-// Google Event rich results exclude virtual-only, non-public, TBD, or unparseable location events.
+// Google Event rich results require public, physical events at a detailed venue address.
 export function isGoogleEventEligible(event: Web3Event): boolean {
-  const loc = (event.location || '').trim();
-  const locLower = loc.toLowerCase();
-  const isTbdOrGlobalOnly = !loc || /^tbd$/i.test(loc) || /^global$/i.test(loc);
-
-  return getEventFormat(event) === 'in-person'
-    && Boolean(event.name.trim())
-    && !isTbdOrGlobalOnly
-    && Number.isFinite(Date.parse(event.startDate))
-    && !GOOGLE_EVENT_INELIGIBLE.test(`${event.name} ${event.description || ''}`);
+  return isGoogleEventSchemaEligible(event);
 }
 
 // Extract chain and category tags
@@ -216,7 +230,7 @@ export function getEventDatePill(startDate: string): { month: string; day: strin
   };
 }
 
-export function getEventCity(event: Web3Event): string {
+export function getEventCity(event: Pick<Web3Event, 'city' | 'location'>): string {
   if (event.city && event.city.trim()) {
     const c = event.city.split(',')[0].trim();
     if (c) return c;
@@ -252,7 +266,7 @@ export function getRelativeBadge(startDate: string): string | null {
   return null;
 }
 
-export function getEventBaseSlug(event: Web3Event): string {
+export function getEventBaseSlug(event: Pick<Web3Event, 'name'>): string {
   const eventName = event.name.split(/[:|]/, 1)[0];
   const words = eventName
     .toLowerCase()
@@ -266,13 +280,13 @@ export function getEventBaseSlug(event: Web3Event): string {
   return words.join('-') || 'web3-event';
 }
 
-export function getEventSlug(event: Web3Event): string {
+export function getEventSlug(event: Pick<Web3Event, 'name' | 'slug'>): string {
   if (event.slug) return event.slug.toLowerCase().trim();
 
   return getEventBaseSlug(event);
 }
 
-export function generateGoogleCalendarUrl(event: Web3Event): string {
+export function generateGoogleCalendarUrl(event: Web3Event, externalUrl?: string): string {
   const formatGCalDate = (dateStr: string) => {
     const d = new Date(dateStr);
     return isNaN(d.getTime()) ? '' : d.toISOString().replace(/-|:|\.\d+/g, '');
@@ -284,7 +298,7 @@ export function generateGoogleCalendarUrl(event: Web3Event): string {
 
   const title = encodeURIComponent(event.name);
   const details = encodeURIComponent(
-    `${event.description || 'Web3 Event'}\n\nOfficial Link: ${event.url || event.website || 'https://hashtagweb3.com/events'}\n\nDiscovered via Hashtag Web3 (https://hashtagweb3.com/events)`
+    `${event.description || 'Web3 Event'}\n\nOfficial Link: ${externalUrl || 'https://hashtagweb3.com/events'}\n\nDiscovered via Hashtag Web3 (https://hashtagweb3.com/events)`
   );
   const location = encodeURIComponent(event.location || 'Virtual / TBA');
 

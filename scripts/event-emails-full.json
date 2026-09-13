@@ -1144,7 +1144,7 @@
     "event": {
       "id": "w3v-stellar-pro-hackathon",
       "name": "Stellar Pro Hackathon",
-      "description": "Stellar Pro Hackathon on Web3Voyager: a September 19\u201320, 2026 Istanbul hackathon for 150 builders, with two Stellar tracks and a $15,000 prize pool.",
+      "description": "Stellar Pro Hackathon: a September 19\u201320, 2026 Istanbul hackathon for 150 builders, with two Stellar tracks and a $15,000 prize pool.",
       "startDate": "2026-09-19T07:00:00.000Z",
       "endDate": "2026-09-21T19:00:00.000Z",
       "city": "Beyo\u011flu",
@@ -1152,7 +1152,6 @@
       "location": "Beyo\u011flu, TR",
       "url": "https://www.risein.com/programs/stellar-pro-hackathon",
       "coverImage": null,
-      "source": "web3voyager",
       "bypassedFilter": true,
       "month": "September 2026"
     }
@@ -1166,7 +1165,7 @@
     "event": {
       "id": "w3v-agentic-summit",
       "name": "Agentic Summit",
-      "description": "Agentic Summit on Web3Voyager: Tokyo conference on September 23, 2026 focused on autonomous finance and AI agents infrastructure.",
+      "description": "Agentic Summit: Tokyo conference on September 23, 2026 focused on autonomous finance and AI agents infrastructure.",
       "startDate": "2026-09-23T09:00:00.000Z",
       "endDate": "2026-09-23T16:00:00.000Z",
       "city": "Bunkyo City",
@@ -1174,7 +1173,6 @@
       "location": "Bunkyo City, JP",
       "url": "https://agentic-summit.org/",
       "coverImage": "https://agentic-summit.org/og.png",
-      "source": "web3voyager",
       "bypassedFilter": true,
       "month": "September 2026"
     }
@@ -1188,7 +1186,7 @@
     "event": {
       "id": "w3v-ethereum-institutional-summit-2026",
       "name": "Ethereum Institutional Summit 2026",
-      "description": "Ethereum Institutional Summit 2026 on Web3Voyager: invitation-only Tokyo summit by Fracton Ventures during ETHTokyo Week in Central Tokyo.",
+      "description": "Ethereum Institutional Summit 2026: invitation-only Tokyo summit by Fracton Ventures during ETHTokyo Week in Central Tokyo.",
       "startDate": "2026-09-25T08:00:00.000Z",
       "endDate": "2026-09-25T16:00:00.000Z",
       "city": "Nakano City",
@@ -1196,7 +1194,6 @@
       "location": "Nakano City, JP",
       "url": "https://eis.fracton.ventures",
       "coverImage": "https://eis.fracton.ventures/opengraph-image?cd0b264fee0666ff",
-      "source": "web3voyager",
       "bypassedFilter": true,
       "month": "September 2026"
     }
@@ -1212,7 +1209,7 @@
     "event": {
       "id": "w3v-eastpoint2026",
       "name": "EastPoint\u00a02026",
-      "description": "EastPoint 2026 on Web3Voyager: a September 28 conference in Seoul covering digital assets, stablecoins, tokenized markets, Web3 and AI.",
+      "description": "EastPoint 2026: a September 28 conference in Seoul covering digital assets, stablecoins, tokenized markets, Web3 and AI.",
       "startDate": "2026-09-28T07:00:00.000Z",
       "endDate": "2026-09-28T19:00:00.000Z",
       "city": "Global",
@@ -1220,7 +1217,6 @@
       "location": "Global, KR",
       "url": "https://www.eastpoint.xyz",
       "coverImage": "https://www.eastpoint.xyz/og-image-v3.png",
-      "source": "web3voyager",
       "bypassedFilter": true,
       "month": "September 2026"
     }
@@ -1258,7 +1254,7 @@
     "event": {
       "id": "w3v-linknyc",
       "name": "Link:NYC",
-      "description": "Link:NYC on Web3Voyager: a Chainlink event covering institutional RWAs, agentic finance, interoperability, stablecoins and infrastructure.",
+      "description": "Link:NYC: a Chainlink event covering institutional RWAs, agentic finance, interoperability, stablecoins and infrastructure.",
       "startDate": "2026-10-29T08:00:00.000Z",
       "endDate": "2026-10-29T20:00:00.000Z",
       "city": "New York",
@@ -1266,7 +1262,6 @@
       "location": "New York, US",
       "url": "https://chain.link/events/linknyc",
       "coverImage": "https://cdn.prod.website-files.com/5f6b7190899f41fb70882d08/69f8ab29b10f10e2b5697672_07a9cedbd9234b2ab782ff49cfce38bf_Link-NYC-OG.png",
-      "source": "web3voyager",
       "bypassedFilter": true,
       "month": "October 2026"
     }

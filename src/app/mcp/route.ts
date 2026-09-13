@@ -5,6 +5,7 @@ import { getJobs } from '@/lib/jobs';
 import { getAllTerms } from '@/lib/glossary';
 import { getNewsFeed } from '@/lib/news';
 import { getEvents } from '@/lib/events-server';
+import { getPublicEvent } from '@/lib/event-public';
 
 export const revalidate = 86400;
 
@@ -357,7 +358,7 @@ ${news.slice(0, 10).map(n => `<li><a href="${n.link}">${n.title}</a> (${n.pubDat
       }
 
       if (uri === 'ui://hashtagweb3.com/events') {
-        const events = await getEvents();
+        const events = (await getEvents()).map(getPublicEvent);
         const html = `<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -520,7 +521,7 @@ ${events.slice(0, 10).map(e => `<li><strong>${e.name}</strong> - ${e.city || e.l
             e.description.toLowerCase().includes(type)
           );
         }
-        const results = filtered.slice(0, 20);
+        const results = filtered.slice(0, 20).map(getPublicEvent);
         return NextResponse.json({
           jsonrpc: '2.0',
           id,

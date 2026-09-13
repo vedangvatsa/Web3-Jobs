@@ -1,5 +1,6 @@
 import { getEvents } from '@/lib/events-server';
 import { getEventType } from '@/lib/events';
+import { getPublicEvent } from '@/lib/event-public';
 import { NextRequest, NextResponse } from 'next/server';
 import { getStandardApiHeaders } from '@/lib/api-headers';
 
@@ -67,7 +68,7 @@ export async function GET(request: NextRequest) {
 
     return NextResponse.json(
       {
-        data: paginated,
+        data: paginated.map(getPublicEvent),
         meta: {
           total: filtered.length,
           count: paginated.length,

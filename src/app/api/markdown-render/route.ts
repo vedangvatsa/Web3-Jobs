@@ -6,6 +6,7 @@ import { getArticle } from '@/lib/articles';
 import { getTerm } from '@/lib/glossary';
 import { getCompanyBySlug } from '@/lib/companies';
 import { getEventBySlug } from '@/lib/events-server';
+import { getPublicEvent } from '@/lib/event-public';
 import { getResourceByCanonicalSlug } from '@/lib/pseo/resources';
 
 const KNOWN_STATIC_PATHS = new Set([
@@ -350,21 +351,22 @@ ${term.content || ''}
     // 7. Dynamic Event Check
     const event = await getEventBySlug(slug);
     if (event) {
+      const publicEvent = getPublicEvent(event);
       const md = `---
-title: ${JSON.stringify(event.name)}
-description: ${JSON.stringify(`Web3 Event in ${event.location}`)}
+title: ${JSON.stringify(publicEvent.name)}
+description: ${JSON.stringify(`Web3 Event in ${publicEvent.location}`)}
 canonical: ${JSON.stringify(canonical)}
 last-updated: ${JSON.stringify(todayStr)}
 ---
 
-# ${event.name}
+# ${publicEvent.name}
 
-- **Location**: ${event.location || 'Online'}
-- **Start Date**: ${event.startDate || 'TBD'}
-- **End Date**: ${event.endDate || 'TBD'}
-- **Official Website**: ${event.url}
+- **Location**: ${publicEvent.location || 'Online'}
+- **Start Date**: ${publicEvent.startDate || 'TBD'}
+- **End Date**: ${publicEvent.endDate || 'TBD'}
+${publicEvent.url ? `- **Official Website**: ${publicEvent.url}\n` : ''}
 
-${event.description || ''}
+${publicEvent.description || ''}
 `;
       return new NextResponse(md, {
         status: 200,
