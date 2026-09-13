@@ -133,13 +133,13 @@ async function runMiddlewareTests() {
       'GPTBot on /auth rewrites to /auth.md'
     );
 
-    const unknownMdReq = new NextRequest('https://hashtagweb3.com/bd', {
+    const unknownMdReq = new NextRequest('https://hashtagweb3.com/some-path-that-does-not-exist', {
       headers: { 'user-agent': 'GPTBot/1.0' },
     });
     const unknownMdRes = middleware(unknownMdReq);
     assert(
-      unknownMdRes.headers.get('x-middleware-rewrite')?.endsWith('/api/agent-view'),
-      'GPTBot on /bd rewrites to /api/agent-view instead of 404ing'
+      !unknownMdRes.headers.get('x-middleware-rewrite'),
+      'GPTBot unknown paths continue to the route-level 404 handler'
     );
   } catch (err: any) {
     assert(false, 'AI bot markdown negotiation runtime execution', err?.message || String(err));

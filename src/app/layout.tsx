@@ -2,7 +2,6 @@ import type { Metadata, Viewport } from 'next';
 import { Toaster } from '@/components/ui/toaster';
 import { cn } from '@/lib/utils';
 import './globals.css';
-import 'leaflet/dist/leaflet.css';
 import { Inter } from 'next/font/google';
 import { Footer } from '@/components/footer';
 import { Header } from '@/components/header';
@@ -214,9 +213,9 @@ export default async function RootLayout({
       type="application/ld+json"
       dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationSchema) }}
      />
-    <Script
-      id="webmcp-registration"
-      strategy="beforeInteractive"
+     <Script
+       id="webmcp-registration"
+       strategy="afterInteractive"
       dangerouslySetInnerHTML={{
         __html: `
           (function() {
@@ -280,14 +279,14 @@ export default async function RootLayout({
         `,
       }}
     />
-    <Script
-     id="gtag-script"
-     strategy="afterInteractive"
+     <Script
+       id="gtag-script"
+       strategy="lazyOnload"
      src="https://www.googletagmanager.com/gtag/js?id=G-FYBLPS87X0"
     />
-    <Script
-     id="gtag-inline-script"
-     strategy="afterInteractive"
+     <Script
+      id="gtag-inline-script"
+      strategy="lazyOnload"
      dangerouslySetInnerHTML={{
       __html: `
        window.dataLayer = window.dataLayer || [];

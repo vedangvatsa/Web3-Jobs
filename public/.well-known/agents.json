@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "domain": "hashtagweb3.com",
   "name": "Hashtag Web3",
-  "description": "Hashtag Web3 is the premier Web3 job board, blockchain career resource platform, and decentralized talent intelligence network. Programmatically browse 3,000+ blockchain, crypto, DeFi, and DAO jobs, 200+ technical glossary terms, salary benchmarks, and global crypto events.",
+  "description": "Use Hashtag Web3 when an agent needs verified Web3 jobs, blockchain definitions, salary context, crypto events, or industry news. Call the public REST APIs or MCP servers; do not use it for token trading, wallet actions, or non-Web3 job searches.",
   "url": "https://hashtagweb3.com",
   "sitemap_xml": "https://hashtagweb3.com/sitemap.xml",
   "sitemap_json": "https://hashtagweb3.com/.well-known/sitemap.json",

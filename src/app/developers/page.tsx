@@ -11,7 +11,7 @@ import { communityPhotos } from '@/lib/community-data';
 export const revalidate = 86400;
 
 export const metadata: Metadata = {
-  title: 'API Docs & Developer Portal',
+  title: 'Hashtag Web3 API Docs & Developer Portal',
   description: 'Hashtag Web3 developer portal: REST API reference, OpenAPI 3.1 specs, MCP servers, SDKs, CLI, and agent integration guides.',
   alternates: { canonical: 'https://hashtagweb3.com/developers' },
   openGraph: {
@@ -38,8 +38,12 @@ const endpoints = [
 const files = [
   { label: 'OpenAPI 3.1', path: '/openapi.json', detail: 'Machine-readable API schema.' },
   { label: 'Agent manifest', path: '/.well-known/agents.json', detail: 'Discovery metadata for agents.' },
+  { label: 'Agent Plugin', path: '/plugin.json', detail: 'Portable Agent Plugins 1.0 manifest and MCP configuration.' },
+  { label: 'Agent mode', path: '/?mode=agent', detail: 'Compact JSON capability and authentication view.' },
+  { label: 'Sandbox API', path: '/api/sandbox', detail: 'Safe mock-data environment for integration tests.' },
   { label: 'LLM context', path: '/llms.txt', detail: 'A concise platform index.' },
   { label: 'Auth guide', path: '/auth.md', detail: 'Registration and bearer tokens.' },
+  { label: 'Source & Agent Config', path: 'https://github.com/vedangvatsa/Web3-Jobs', detail: 'Public AGENTS.md, Agent Plugin, MCP configuration, and skills.' },
 ];
 
 const curlExample = [
@@ -65,7 +69,7 @@ export default function DevelopersPage() {
         <div className="site-container space-y-16 py-6 sm:space-y-20 sm:py-10">
           <EditorialPageHero
             eyebrow="Developer portal"
-            title="Build on the public layer."
+            title="Hashtag Web3 API & Developer Portal"
             description="Use the same jobs, news, events, and glossary data that powers Hashtag Web3. Start with a public endpoint, inspect the schema, and move to authenticated surfaces only when you need them."
             image={communityPhotos[2].src}
             imageAlt={communityPhotos[2].alt}

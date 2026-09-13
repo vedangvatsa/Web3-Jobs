@@ -87,7 +87,7 @@ export default async function EventsPage() {
                   </>
                 }
               />
-              <EventsBoard initialEvents={events.map(getPublicEvent)} />
+              <EventsBoard initialEvents={events.slice(0, 30).map(getPublicEvent)} />
             </article>
           </PageShell>
         </main>

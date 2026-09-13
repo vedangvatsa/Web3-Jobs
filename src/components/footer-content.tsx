@@ -9,8 +9,9 @@ export function FooterContent() {
   { href:"/invoice-generator", label:"Invoice Generator" },
   { href:"/resume-builder", label:"Resume Builder" },
   { href:"/digital-nomad-visas", label:"Digital Nomad Visas" },
-  { href:"/remote-work-checklist", label:"Remote Checklist" },
-  ];
+   { href:"/remote-work-checklist", label:"Remote Checklist" },
+   { href:"https://github.com/vedangvatsa/Web3-Jobs", label:"Source & Agent Config" },
+   ];
   const popularArticles = [
    { href: '/how-to-start-a-web3-career', label: 'How to Start a Career in Web3' },
    { href: '/how-to-become-a-solidity-developer', label: 'How to Become a Solidity Developer' },

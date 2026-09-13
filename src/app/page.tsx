@@ -9,7 +9,7 @@ import { PageShell } from '@/components/page-shell';
 import { breadcrumbSchema, faqSchema, serviceSchema } from '@/lib/site-schema';
 import type { Metadata } from 'next';
 
-const JOBS_PER_PAGE = 50;
+const JOBS_PER_PAGE = 12;
 
 export const revalidate = 3600; // Revalidate every hour (ISR); cache refreshes every 8h via GitHub Actions
 
@@ -20,6 +20,7 @@ export const metadata: Metadata = {
     canonical: 'https://hashtagweb3.com',
   },
   openGraph: {
+    type: 'website',
     title: 'Web3 Jobs and Crypto Careers',
     description: 'Find verified Web3 jobs, crypto careers, salary data, and remote blockchain roles. Updated daily.',
     url: 'https://hashtagweb3.com',

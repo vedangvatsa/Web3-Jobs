@@ -76,6 +76,8 @@ All public endpoints support CORS, RFC 6585 rate limiting (120 req/min), and str
   Accept: application/json
   ```
 - **Complete OpenAPI 3.1 Spec**: `https://hashtagweb3.com/openapi.json`
+- **Agent Mode View**: `https://hashtagweb3.com/?mode=agent` returns a compact JSON capability, auth, API, MCP, and sandbox index.
+- **Sandbox API**: `https://hashtagweb3.com/api/sandbox` provides safe mock-data endpoints for integration tests.
 
 ## Hashtag Web3 Developer Resources — Discoverable by Name
 
@@ -101,6 +103,8 @@ All developer resources below include "Hashtag Web3" in their title and are publ
 - [Hashtag Web3 Agent Permissions](https://hashtagweb3.com/agents.txt): Hashtag Web3 operational permissions, action boundaries, and protocol declarations for autonomous AI agents.
 - [Hashtag Web3 MCP Alternative Endpoint](https://hashtagweb3.com/api/mcp): Hashtag Web3 MCP server alias for tool calling.
 - [Hashtag Web3 AGENTS.md Repo Guide](https://hashtagweb3.com/AGENTS.md): Hashtag Web3 coding agent instructions.
+- [Hashtag Web3 Source Repository & Agent Config](https://github.com/vedangvatsa/Web3-Jobs): Public repository containing `AGENTS.md`, `plugin.json`, `mcp.json`, and reusable agent skills.
+- [Hashtag Web3 Agent Plugin Manifest](https://hashtagweb3.com/plugin.json): Agent Plugins 1.0 manifest; its `mcp.json` config exposes separate product and documentation MCP servers.
 - **NPM SDK Package**: [`@hashtag_web3_/sdk`](https://www.npmjs.com/package/@hashtag_web3_/sdk) (homepage: `https://hashtagweb3.com`)
 - **CLI Tool**: [`hashtagweb3`](https://www.npmjs.com/package/hashtagweb3) — `npx hashtagweb3 jobs --search Solidity`
 - [Hashtag Web3 API Versioning & Deprecation Policy](https://hashtagweb3.com/api-policy): Hashtag Web3 official API versioning strategy, RFC 8594 Sunset/Deprecation headers, and 12-month advance notice guarantee.

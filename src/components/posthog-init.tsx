@@ -10,22 +10,27 @@ import { getPostHogClient } from '@/lib/posthog'
  * on static/ISR pages. Query strings are read from window.location at runtime.
  */
 export function PostHogInit() {
- const pathname = usePathname()
+  const pathname = usePathname()
 
- useEffect(() => {
-  void getPostHogClient()
- }, [])
+  useEffect(() => {
+   if (!pathname) return;
 
- useEffect(() => {
-  if (!pathname) return
+   const trackPageview = () => {
+    void getPostHogClient().then((posthog) => {
+      if (!posthog) return;
+      const url = window.origin + pathname + window.location.search;
+      posthog.capture('$pageview', { '$current_url': url });
+    });
+   };
 
-  void getPostHogClient().then((posthog) => {
-   if (!posthog) return
-   const search = typeof window !== 'undefined' ? window.location.search : ''
-   const url = window.origin + pathname + search
-   posthog.capture('$pageview', { '$current_url': url })
-  })
- }, [pathname])
+   if (document.readyState === 'complete') {
+    trackPageview();
+    return;
+   }
+
+   window.addEventListener('load', trackPageview, { once: true });
+   return () => window.removeEventListener('load', trackPageview);
+  }, [pathname])
 
  return null
 }
