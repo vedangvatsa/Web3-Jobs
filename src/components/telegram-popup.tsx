@@ -67,13 +67,6 @@ export function PromoPopup() {
             Web3 Networking Group
           </a>
         </div>
-
-        <button
-          onClick={dismiss}
-          className="block mx-auto mt-4 text-xs text-muted-foreground hover:text-foreground transition-colors"
-        >
-          No thanks
-        </button>
       </div>
     </div>
   );
