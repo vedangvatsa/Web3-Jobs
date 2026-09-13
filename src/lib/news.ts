@@ -1,7 +1,8 @@
-import Parser from 'rss-parser';
 import type { NewsItem } from '@/types';
+import * as fs from 'fs';
+import * as path from 'path';
 
-const FEEDS = [
+export const NEWS_FEEDS = [
  { url: 'https://decrypt.co/feed', source: 'Decrypt' },
  { url: 'https://cointelegraph.com/rss', source: 'Cointelegraph' },
  { url: 'https://www.coindesk.com/arc/outboundfeeds/rss/', source: 'Coindesk' },
@@ -10,9 +11,10 @@ const FEEDS = [
  { url: 'https://dailyhodl.com/feed/', source: 'Daily Hodl' }
 ];
 
-const parser = new Parser({
-  timeout: 8000,
-});
+const CACHE_PATH = path.join(process.cwd(), 'content/news-cache.json');
+const NEWS_CACHE_TTL_MS = 60 * 1000;
+const RSS_TIMEOUT_MS = 8000;
+const RSS_CONCURRENCY = 3;
 
 const STOP_WORDS = new Set([
   'a', 'about', 'above', 'after', 'again', 'against', 'all', 'am', 'an', 'and', 'any', 'are', 'aren\'t', 'as', 'at',
@@ -86,9 +88,8 @@ export function deduplicateNewsItems(items: NewsItem[]): NewsItem[] {
   return uniqueItems;
 }
 
-// In-memory cache for news feeds
+// In-memory cache for the local snapshot.
 let newsCache: { timestamp: number; items: NewsItem[] } | null = null;
-const NEWS_CACHE_TTL_MS = 10 * 60 * 1000; // 10 minutes
 
 const WEB3_CRYPTO_KEYWORDS = [
   'web3', 'crypto', 'cryptocurrency', 'blockchain', 'bitcoin', 'btc', 'ethereum', 'eth', 'solana', 'sol',
@@ -158,73 +159,122 @@ function isWeb3RelevantNews(title: string, snippet: string): boolean {
   return true;
 }
 
-export async function getNewsFeed(): Promise<NewsItem[]> {
- // Return cached results if fresh
- const now = Date.now();
- if (newsCache && (now - newsCache.timestamp < NEWS_CACHE_TTL_MS)) {
-  return newsCache.items;
- }
+type RssItem = {
+  title?: string;
+  link?: string;
+  pubDate?: string;
+  contentSnippet?: string;
+  creator?: string;
+  author?: string;
+};
 
- const allItems: NewsItem[] = [];
+type RssFeed = { items?: RssItem[] };
 
- const feedResults = await Promise.all(
-  FEEDS.map(async (feedInfo) => {
-   try {
-    const feed = await parser.parseURL(feedInfo.url);
-    const items: NewsItem[] = [];
-    if (feed?.items) {
-     feed.items.forEach((item) => {
-      if (item.title && item.link && item.pubDate && item.contentSnippet) {
-       const snippet = item.contentSnippet.trim();
-       const truncated = snippet.length > 150
-        ? snippet.substring(0, 150).replace(/\.{1,3}$/, '') + '...'
-        : snippet;
+function normalizeNewsItems(feed: RssFeed, source: string): NewsItem[] {
+  const items: NewsItem[] = [];
 
-       if (!isWeb3RelevantNews(item.title, truncated)) {
-        return;
-       }
-        let creator = item.creator || item.author || feedInfo.source;
-        if (typeof creator === 'string') {
-         const regex = new RegExp(`^${feedInfo.source}\\s*(?:by|-|:)?\\s*`, 'i');
-         creator = creator.replace(regex, '').trim();
-         if (creator.toLowerCase().startsWith('by ')) {
-          creator = creator.substring(3).trim();
-         }
-         if (!creator) creator = feedInfo.source;
-        }
+  for (const item of feed.items || []) {
+    if (!item.title || !item.link || !item.pubDate || !item.contentSnippet) continue;
 
-        items.push({
-         title: item.title,
-         link: item.link,
-         pubDate: item.pubDate,
-         creator: creator,
-         contentSnippet: truncated,
-         source: feedInfo.source,
-        });
+    const snippet = item.contentSnippet.trim();
+    const truncated = snippet.length > 150
+      ? `${snippet.substring(0, 150).replace(/\.{1,3}$/, '')}...`
+      : snippet;
+
+    if (!isWeb3RelevantNews(item.title, truncated)) continue;
+
+    let creator = item.creator || item.author || source;
+    if (typeof creator === 'string') {
+      const regex = new RegExp(`^${source}\\s*(?:by|-|:)?\\s*`, 'i');
+      creator = creator.replace(regex, '').trim();
+      if (creator.toLowerCase().startsWith('by ')) {
+        creator = creator.substring(3).trim();
       }
-     });
+      if (!creator) creator = source;
+    } else {
+      creator = source;
     }
-    return items;
-   } catch (error) {
-    console.warn(`Could not fetch or parse news feed: ${feedInfo.url}`, error);
+
+    items.push({
+      title: item.title,
+      link: item.link,
+      pubDate: item.pubDate,
+      creator,
+      contentSnippet: truncated,
+      source,
+    });
+  }
+
+  return items;
+}
+
+export type NewsRefreshResult = {
+  items: NewsItem[];
+  successfulFeeds: number;
+};
+
+/** Fetch and normalize RSS items for the offline snapshot refresh job. */
+export async function fetchNewsFeedItems(): Promise<NewsRefreshResult> {
+  const { default: Parser } = await import('rss-parser');
+  const allItems: NewsItem[] = [];
+  let successfulFeeds = 0;
+
+  for (let index = 0; index < NEWS_FEEDS.length; index += RSS_CONCURRENCY) {
+    const batch = await Promise.all(NEWS_FEEDS.slice(index, index + RSS_CONCURRENCY).map(async (feedInfo) => {
+      try {
+        const response = await fetch(feedInfo.url, {
+          headers: { 'User-Agent': 'HashtagWeb3NewsCache/1.0' },
+          signal: AbortSignal.timeout(RSS_TIMEOUT_MS),
+        });
+        if (!response.ok) throw new Error(`HTTP ${response.status}`);
+
+        const parser = new Parser();
+        const feed = await parser.parseString(await response.text()) as RssFeed;
+        return { items: normalizeNewsItems(feed, feedInfo.source), succeeded: true };
+      } catch (error) {
+        console.warn(`Could not fetch or parse news feed: ${feedInfo.url}`, error);
+        return { items: [], succeeded: false };
+      }
+    }));
+
+    for (const result of batch) {
+      allItems.push(...result.items);
+      if (result.succeeded) successfulFeeds++;
+    }
+  }
+
+  allItems.sort((a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime());
+  return { items: deduplicateNewsItems(allItems), successfulFeeds };
+}
+
+function isNewsItem(value: unknown): value is NewsItem {
+  if (!value || typeof value !== 'object') return false;
+  const item = value as Record<string, unknown>;
+  return ['title', 'link', 'pubDate', 'creator', 'contentSnippet', 'source']
+    .every((key) => typeof item[key] === 'string');
+}
+
+export function readNewsSnapshot(snapshotPath = CACHE_PATH): NewsItem[] {
+  try {
+    const snapshot = JSON.parse(fs.readFileSync(snapshotPath, 'utf8')) as {
+      generatedAt?: unknown;
+      items?: unknown;
+    };
+    if (typeof snapshot.generatedAt !== 'string' || Number.isNaN(Date.parse(snapshot.generatedAt))) return [];
+    if (!Array.isArray(snapshot.items) || !snapshot.items.every(isNewsItem)) return [];
+    return snapshot.items;
+  } catch {
     return [];
-   }
-  })
- );
+  }
+}
 
- // Flatten results
- for (const items of feedResults) {
-  allItems.push(...items);
- }
+export async function getNewsFeed(): Promise<NewsItem[]> {
+  const now = Date.now();
+  if (newsCache && (now - newsCache.timestamp < NEWS_CACHE_TTL_MS)) {
+    return newsCache.items;
+  }
 
- // Sort all items by publication date, descending
- allItems.sort((a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime());
-
- // Deduplicate news items against all accumulated unique items
-  const uniqueItems = deduplicateNewsItems(allItems);
-
- // Update cache
- newsCache = { timestamp: Date.now(), items: uniqueItems };
-
- return uniqueItems;
+  const items = readNewsSnapshot();
+  newsCache = { timestamp: now, items };
+  return items;
 }
