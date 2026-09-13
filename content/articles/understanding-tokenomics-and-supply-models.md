@@ -6,7 +6,7 @@ data-ai-hint: tokenomics cryptoeconomics supply sink fdv vetoken models
 description: An empirical mathematical thesis on tokenomics and cryptocurrency supply models, analyzing inflation vectors, deflationary sinks, veToken game theory, and the low-float high-FDV market trap.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-10"
+lastUpdated: "2026-09-13"
 slug: understanding-tokenomics-and-supply-models
 ---
 In traditional corporate finance, an equity share represents a legal claim on a company assets, cash flows, and voting power, protected by statutory company law and regulatory enforcement. In decentralized protocols, digital tokens represent programmatic economic instruments whose rights, emissions, and value accrual are governed strictly by immutable smart contract logic deployed across networks like [Ethereum Foundation](https://ethereum.org), [Arbitrum](https://arbitrum.io), and [Solana Foundation](https://solana.com).

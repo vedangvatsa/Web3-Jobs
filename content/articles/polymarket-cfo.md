@@ -8,7 +8,7 @@ image: >-
 category: News
 data-ai-hint: polymarket cfo executive appointment
 publishedDate: '2026-09-12'
-lastUpdated: '2026-09-12'
+lastUpdated: "2026-09-13"
 ogTitle: POLYMARKET APPOINTS WARRENS JENSON AS CFO
 ---
 

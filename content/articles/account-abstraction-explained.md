@@ -8,7 +8,7 @@ description: >-
 category: Technology Deep Dives
 data-ai-hint: blockchain ethereum
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-10"
+lastUpdated: "2026-09-13"
 slug: account-abstraction-explained
 ---
 Account abstraction enables an Ethereum account to be controlled by smart contract logic rather than a single private key. ERC-4337 is the production standard that implements account abstraction on Ethereum and Layer 2 EVM chains without requiring consensus-level hard forks.

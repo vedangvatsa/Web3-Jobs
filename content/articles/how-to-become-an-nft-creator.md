@@ -9,7 +9,7 @@ description: >-
   how to sell your first piece without wasting gas or rights.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-10"
+lastUpdated: "2026-09-13"
 ---
 ## What is an NFT creator
 

@@ -5,7 +5,7 @@ image: /images/articles/charts/curveswap-invariant-curve.svg
 description: A comprehensive mathematical analysis of Curve Finance, exploring the StableSwap invariant, amplification coefficient A, CryptoSwap dynamic pegs, veCRV tokenomics, and depeg dynamics.
 category: Educational
 publishedDate: "2026-03-11"
-lastUpdated: "2026-09-10"
+lastUpdated: "2026-09-13"
 tags:
   - Curve Finance
   - DeFi

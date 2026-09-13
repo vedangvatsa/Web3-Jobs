@@ -8,7 +8,7 @@ image: /logo/companies/eigenlayer.webp
 category: News
 data-ai-hint: EigenLayer operator set diagram
 publishedDate: '2026-09-12'
-lastUpdated: '2026-09-13'
+lastUpdated: "2026-09-13"
 ogTitle: EIGENLAYER SLASHING GOES LIVE ON ETHEREUM
 ---
 

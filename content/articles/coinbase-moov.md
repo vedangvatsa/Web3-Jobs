@@ -11,7 +11,7 @@ image: >-
 category: News
 data-ai-hint: stablecoin bank payments
 publishedDate: '2026-09-12'
-lastUpdated: '2026-09-13'
+lastUpdated: "2026-09-13"
 ogTitle: COINBASE & MOOV PARTNER ON STABLECOIN PAYMENTS
 ---
 

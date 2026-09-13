@@ -1,42 +1,42 @@
 [
   {
-    "slug": "clarity-act",
-    "title": "Revised CLARITY Act Would Set Rules for Controlled DeFi Protocols",
-    "description": "A revised CLARITY Act would direct the SEC and CFTC to write activity-based rules for controllers of non-decentralized finance trading protocols, while Treasury would address Bank Secrecy Act obligations.",
+    "slug": "base-wallet",
+    "title": "Coinbase Wallet and Base Are Again Presented as Separate Products",
+    "description": "Coinbase's current wallet, help and Base materials distinguish the Coinbase Wallet self-custody product from the Base blockchain, after Coinbase Wallet was introduced as the Base App in July 2025.",
     "category": "News",
     "publishedDate": "2026-09-12",
-    "image": "/api/og?type=article&title=Revised%20CLARITY%20Act%20Would%20Set%20Rules%20for%20Controlled%20DeFi%20Protocols"
+    "image": "/images/news/base-wallet-cover.jpg"
+  },
+  {
+    "slug": "clarity-act",
+    "title": "Senate CLARITY Draft Would Set Tests for DeFi Controller Rules",
+    "description": "A Senate substitute for H.R. 3633 would direct the SEC, CFTC, and Treasury to write activity-based rules for people who control defined non-decentralized DeFi trading protocols.",
+    "category": "News",
+    "publishedDate": "2026-09-12",
+    "image": "/api/og?type=article&title=Senate%20CLARITY%20Draft%20Would%20Set%20Tests%20for%20DeFi%20Controller%20Rules"
   },
   {
     "slug": "coinbase-moov",
-    "title": "Coinbase and Moov Announce Community-Bank Stablecoin Payments",
-    "description": "Coinbase and Moov say they will integrate Coinbase custody and payment infrastructure into Moov's platform for its community-bank and credit-union customers.",
+    "title": "Coinbase and Moov Announce Stablecoin Payments and Custody Plan for Community Institutions",
+    "description": "Coinbase and Moov say they will add stablecoin acceptance, settlement, and real-time funding to Moov's payments platform, while key rollout, custody, and commercial details remain undisclosed.",
     "category": "News",
     "publishedDate": "2026-09-12",
-    "image": "/api/og?type=article&title=Coinbase%20Moov%20Stablecoin%20Payments"
+    "image": "https://images.ctfassets.net/sygt3q11s4a9/5UxnOqGiIrqFR7ycz8JB1O/0f8b3acacd4091377cd79dd3c2784c77/IMG_0644.jpg"
   },
   {
     "slug": "demat-2",
-    "title": "SEBI Launches Demat 2.0 Pilot for Tokenised Corporate Bonds",
-    "description": "SEBI's Demat 2.0 pilot uses a permissioned distributed ledger and RBI wholesale digital rupee settlement to test tokenised corporate-bond issuance, servicing and later trading.",
+    "title": "SEBI launches Demat 2.0 tokenised corporate bond pilot",
+    "description": "SEBI's Demat 2.0 pilot tests tokenised corporate-bond issuance, holding, settlement and servicing within India's existing regulated market infrastructure.",
     "category": "News",
     "publishedDate": "2026-09-12",
-    "image": "/api/og?type=article&title=SEBI%20Launches%20Demat%202.0%20Pilot%20for%20Tokenised%20Corporate%20Bonds"
+    "image": "/api/og?type=article&title=SEBI%20launches%20Demat%202.0%20tokenised%20corporate%20bond%20pilot"
   },
   {
-    "slug": "esma-eu",
-    "title": "ESMA Says Major Prediction Platforms Lack Required EU Authorization",
-    "description": "ESMA said the marketing and sale of event contracts in the EU generally requires authorization and raised concerns about partial geographic restrictions, market integrity, contract resolution, data sources, and smart-contract execution.",
+    "slug": "eigenlayer-slashing",
+    "title": "EigenLayer Slashing Went Live With AVS-Defined Penalties and Delayed Exits",
+    "description": "EigenLayer activated slashing on Ethereum mainnet on April 17, 2025, making an operator's elected stake allocation slashable by individual AVS operator sets under rules the AVS defines.",
     "category": "News",
     "publishedDate": "2026-09-12",
-    "image": "/api/og?type=article&title=ESMA%20Says%20Major%20Prediction%20Platforms%20Lack%20Required%20EU%20Authorization"
-  },
-  {
-    "slug": "kalshi-perps",
-    "title": "Kalshi Plans 24/7 Tesla and Nvidia Perpetual Futures",
-    "description": "Kalshi plans to seek U.S. approval for roughly 60 perpetual futures tied to individual stocks and ETFs, while the product's regulatory treatment and market-integrity controls remain unsettled.",
-    "category": "News",
-    "publishedDate": "2026-09-12",
-    "image": "/api/og?type=article&title=Kalshi%20Plans%2024%2F7%20Tesla%20and%20Nvidia%20Perpetual%20Futures"
+    "image": "/logo/companies/eigenlayer.webp"
   }
 ]

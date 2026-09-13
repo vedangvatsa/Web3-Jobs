@@ -6,7 +6,7 @@ data-ai-hint: "person reputation score onchain identity chart"
 description: "An architectural guide to Web3 reputation systems, soulbound tokens, verifiable credentials, zero-knowledge proofs, and decentralized identity scoring algorithms."
 category: "Educational"
 publishedDate: "2026-03-11"
-lastUpdated: "2026-09-10"
+lastUpdated: "2026-09-13"
 ---
 
 ![Web3 Reputation and Identity Architecture](/images/articles/charts/web3-reputation-identity-architecture.svg)

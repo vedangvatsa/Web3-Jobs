@@ -6,7 +6,7 @@ data-ai-hint: dao treasury balance sheet safe gnosis timelock governance
 description: An empirical technical thesis on DAO treasury architecture, analyzing balance sheet diversification, multi-signature custody, timelock governance controllers, and risk mitigation against hostile takeovers.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-10"
+lastUpdated: "2026-09-13"
 slug: what-is-a-dao-treasury
 ---
 Decentralized Autonomous Organizations (DAOs) represent one of the most significant experiments in decentralized corporate governance and collective capital allocation in modern economic history. Operating across networks like [Ethereum Foundation](https://ethereum.org), [Arbitrum](https://arbitrum.io), and [Optimism](https://optimism.io), decentralized treasuries collectively control billions of dollars in digital assets.

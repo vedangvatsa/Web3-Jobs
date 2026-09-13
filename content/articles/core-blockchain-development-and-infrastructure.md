@@ -6,7 +6,7 @@ data-ai-hint: blockchain infrastructure core
 description: A comprehensive technical guide to core blockchain infrastructure engineering, exploring client software development in Rust and Go, consensus engines, RPC node architecture, state pruning, and Web3 DevOps.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-10"
+lastUpdated: "2026-09-13"
 ---
 
 While decentralized application (dApp) developers write user-facing [smart contracts](/what-are-smart-contracts) using Solidity or Vyper, a specialized engineering discipline operates at a deeper layer of the software stack. Known as **Core Blockchain Infrastructure Engineers**, these developers build, maintain, and scale the foundational software that powers global peer-to-peer networks: execution client nodes, consensus clients, RPC gateway relays, and high-performance data indexers.

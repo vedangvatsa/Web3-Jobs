@@ -8,7 +8,7 @@ image: >-
 category: News
 data-ai-hint: starknet parallel execution blockchain
 publishedDate: '2026-09-12'
-lastUpdated: '2026-09-12'
+lastUpdated: "2026-09-13"
 ogTitle: STARKNET ENABLES OPTIMISTIC PARALLEL EXECUTION
 ---
 

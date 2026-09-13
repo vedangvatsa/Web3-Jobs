@@ -7,7 +7,7 @@ description: >-
   A practical manual for earning in decentralized organizations: finding bounties, submitting governance proposals, navigating streaming payroll, and managing self-custody taxes.
 category: Career Guides
 publishedDate: "2026-03-11"
-lastUpdated: "2026-09-10"
+lastUpdated: "2026-09-13"
 ---
 Contributing to a Decentralized Autonomous Organization and receiving on-chain compensation represents a structural departure from traditional corporate employment. In a conventional company, an applicant responds to a static job description, completes private interviews with human resources managers, signs a bilateral legal agreement, and receives fiat currency deposited through centralized commercial banks. In a DAO, the organization operates through transparent smart contracts deployed to public blockchains, where funds are controlled by decentralized token holders rather than executive boards.
 

@@ -9,7 +9,7 @@ description: >-
   work.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-10"
+lastUpdated: "2026-09-13"
 ---
 A **paper [wallet](/how-to-choose-a-crypto-wallet)** serves as one of the oldest methods for securing cryptocurrency assets. This form of cold storage keeps private keys completely offline and disconnected from the internet. Essentially, a paper wallet is a physical document containing the information required to access and manage your cryptocurrency.
 

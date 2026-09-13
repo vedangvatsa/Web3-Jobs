@@ -9,7 +9,7 @@ image: >-
 category: News
 data-ai-hint: stablecoin liquidity pool
 publishedDate: '2026-09-12'
-lastUpdated: '2026-09-12'
+lastUpdated: "2026-09-13"
 ogTitle: UNISWAP DEPLOYS STABLEPAIR HOOK ON ETHEREUM
 ---
 

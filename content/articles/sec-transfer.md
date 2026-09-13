@@ -9,7 +9,7 @@ image: >-
 category: News
 data-ai-hint: transfer agent blockchain records
 publishedDate: '2026-09-12'
-lastUpdated: '2026-09-12'
+lastUpdated: "2026-09-13"
 ogTitle: SEC PROPOSES BLOCKCHAIN TRANSFER AGENT RULES
 ---
 

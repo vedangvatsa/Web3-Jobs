@@ -9,7 +9,7 @@ image: >-
 category: News
 data-ai-hint: ESMA prediction market analysis
 publishedDate: '2026-09-12'
-lastUpdated: '2026-09-12'
+lastUpdated: "2026-09-13"
 ogTitle: EU REGULATOR ESMA SETS PREDICTION MARKET RULES
 ---
 

@@ -9,7 +9,7 @@ description: >-
 image: /images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg
 data-ai-hint: manager employee meeting
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-10"
+lastUpdated: "2026-09-13"
 ---
 Managing up has a branding problem. People hear the phrase and think it means sucking up, playing politics, or figuring out how to manipulate your boss into giving you what you want. It's none of those things.
 
