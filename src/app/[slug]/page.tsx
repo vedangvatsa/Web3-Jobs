@@ -567,7 +567,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
               {isToken2049Page && <Token2049Details speakers={event.speakerDetails || []} />}
 
               {sideEvents.length > 0 && <EventSideEvents eventName={event.name} events={sideEvents} timeZone={eventTimeZone} />}
-              <DirectoryDisclaimer type="event" />
+              <DirectoryDisclaimer />
 
               {/* Related Events Section */}
               {relatedEvents.length > 0 && (

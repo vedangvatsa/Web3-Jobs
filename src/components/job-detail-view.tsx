@@ -380,7 +380,7 @@ export function JobDetailView({
           </div>
         </section>
       )}
-      <DirectoryDisclaimer type="job" />
+      <DirectoryDisclaimer />
     </article>
   );
 }

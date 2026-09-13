@@ -89,7 +89,7 @@ export default async function EventsPage() {
                 }
               />
               <EventsBoard initialEvents={events} />
-              <DirectoryDisclaimer type="event" />
+              <DirectoryDisclaimer />
             </article>
           </PageShell>
         </main>
