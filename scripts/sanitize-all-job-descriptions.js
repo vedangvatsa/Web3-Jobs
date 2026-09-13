@@ -92,27 +92,30 @@ function sanitizeHtml(html) {
 }
 
 // Main script execution
-const descsPath = path.join(__dirname, "../content/job-descriptions.json");
-const descs = JSON.parse(fs.readFileSync(descsPath, "utf8"));
-const keys = Object.keys(descs);
-
-console.log(`Starting sanitization scan for ${keys.length} job descriptions...`);
-
+const shardsPath = path.join(__dirname, "../content/job-description-shards");
+const shardNames = Array.from({ length: 64 }, (_, index) => `job-descriptions-${String(index).padStart(2, "0")}.json`);
+let totalCount = 0;
 let modifiedCount = 0;
-for (const key of keys) {
-  const original = descs[key];
-  const cleaned = sanitizeHtml(original);
-  if (original !== cleaned) {
-    descs[key] = cleaned;
-    modifiedCount++;
+
+for (const shardName of shardNames) {
+  const shardPath = path.join(shardsPath, shardName);
+  if (!fs.existsSync(shardPath)) continue;
+
+  const shard = JSON.parse(fs.readFileSync(shardPath, "utf8"));
+  if (shard?.version !== 1 || !shard.descriptions || !shard.aliases) {
+    throw new Error(`Invalid job description shard: ${shardPath}`);
   }
+
+  for (const [key, original] of Object.entries(shard.descriptions)) {
+    totalCount++;
+    const cleaned = sanitizeHtml(original);
+    if (original !== cleaned) {
+      shard.descriptions[key] = cleaned;
+      modifiedCount++;
+    }
+  }
+
+  fs.writeFileSync(shardPath, `${JSON.stringify(shard)}\n`);
 }
 
-fs.writeFileSync(descsPath, JSON.stringify(descs, null, 2));
-console.log(`✓ Successfully sanitized and saved ${modifiedCount} / ${keys.length} job descriptions in content/job-descriptions.json!`);
-
-const skillPath = path.join(__dirname, "../.agents/skills/hashtagweb3-agent-skill/content/job-descriptions.json");
-if (fs.existsSync(skillPath)) {
-  fs.writeFileSync(skillPath, JSON.stringify(descs, null, 2));
-  console.log(`✓ Synced sanitized database to agent skill content/job-descriptions.json!`);
-}
+console.log(`✓ Successfully sanitized ${modifiedCount} / ${totalCount} job descriptions across shards!`);
