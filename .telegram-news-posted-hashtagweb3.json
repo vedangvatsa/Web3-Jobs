@@ -551,6 +551,9 @@
   "https://www.theblock.co/news/markets/2026-09-12-cryptoquant-bitcoin-resistance-support-levels-414519",
   "https://www.theblock.co/news/business/2026-09-12-revolut-says-customer-kyc-bitcoin-transaction-data-exposed-after-fake-request-from-govt-domain-414516",
   "https://cointelegraph.com/news/north-korea-using-foreign-talent-to-help-infiltrate-us-companies-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "https://www.coindesk.com/business/2026/09/13/circle-s-usd400m-tazapay-deal-buys-emerging-market-links-that-take-years-to-build",
+  "https://www.theblock.co/news/defi/2026-09-10-coinbase-rebrands-base-app-back-to-coinbase-wallet-after-just-over-a-year-as-social-experiment-falls-short-414115",
+  "https://www.coindesk.com/markets/2026/09/13/fed-rate-hike-is-about-wall-street-not-inflation-says-economist",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -1561,6 +1564,12 @@
   "Revolut says customer KYC, Bitcoin transaction data exposed after fake request from gov’t domain",
   "North Korea Uses Foreign IT Workers to Infiltrate US Companies",
   "North Korea using foreign talent to help infiltrate US companies: Report",
+  "Circle acquires Tazapay for $400M to expand stablecoin operations",
+  "Circle's $400M Tazapay deal buys emerging market links that take ‘years to build’",
+  "Coinbase rebrands social app back to Coinbase Wallet",
+  "Coinbase rebrands Base App back to Coinbase Wallet after just over a year as social experiment falls short",
+  "Economist links Fed rate hike to Wall Street",
+  "Fed rate hike is about Wall Street, not inflation, says economist",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -1662,5 +1671,8 @@
   "fp:abroad|clos|copenhagen|cost|cut|half|hub|job|lower|offic",
   "fp:700|barrier|break|bull|clear|confirm|cryptoquant|despit|firm|level",
   "fp:breach|customer|data|domain|expos|fak|gov|government|hav|high",
-  "fp:befor|contractor|employment|foreign|help|infiltrat|interview|korea|korean|north"
+  "fp:befor|contractor|employment|foreign|help|infiltrat|interview|korea|korean|north",
+  "fp:400m|access|acquir|border|build|buy|circl|cross|emerg|expand",
+  "fp:abandon|app|application|back|bas|coinbas|experiment|fall|initiativ|multi",
+  "fp:bank|becam|economist|federal|final|goldman|hik|inflation|interest|link"
 ]
