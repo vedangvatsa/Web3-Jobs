@@ -1,8 +1,6 @@
 ---
-title: >-
+title: "Sustainable Blockchain Explained: Energy, Consensus, and What Actually Makes a Chain Green"
 ogTitle: "SUSTAINABLE BLOCKCHAIN EXPLAINED: ENERGY, CONSENSUS, AND WHAT"
-  Sustainable Blockchain Explained: Energy, Consensus, and What Actually Makes a
-  Chain Green
 image: /images/nasa-Q1p7bh3SHj8-unsplash.jpg
 data-ai-hint: earth sustainability green energy
 description: >-
@@ -11,7 +9,7 @@ description: >-
   ethereum.org, CCRI, and Cambridge CCAF.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-10"
+lastUpdated: "2026-09-13"
 ---
 A sustainable blockchain secures transactions with minimal energy, hardware waste, and carbon per unit of useful work. It does this by choosing an efficient consensus mechanism, keeping node requirements light, and accounting for where its electricity comes from.
 

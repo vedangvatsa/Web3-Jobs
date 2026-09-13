@@ -9,7 +9,7 @@ image: >-
 category: News
 data-ai-hint: Tesla Nvidia perpetual futures
 publishedDate: '2026-09-12'
-lastUpdated: '2026-09-12'
+lastUpdated: "2026-09-13"
 ogTitle: KALSHI PLANS 24/7 TESLA & NVIDIA PERPETUALS
 ---
 

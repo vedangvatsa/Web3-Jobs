@@ -5,7 +5,7 @@ image: /images/articles/charts/zero-knowledge-proof-systems.svg
 description: An empirical analysis of zero-knowledge proof architectures, covering polynomial commitment schemes, arithmetization models, recursive verification, and hardware acceleration constraints.
 category: Technology Deep Dives
 publishedDate: "2026-03-11"
-lastUpdated: "2026-09-10"
+lastUpdated: "2026-09-13"
 tags:
   - Cryptography
   - Zero-Knowledge Proofs

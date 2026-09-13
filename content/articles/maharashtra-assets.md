@@ -9,7 +9,7 @@ image: >-
 category: News
 data-ai-hint: Maharashtra electricity transmission tokenization
 publishedDate: '2026-09-12'
-lastUpdated: '2026-09-12'
+lastUpdated: "2026-09-13"
 ogTitle: INDIAN STATE EXPLORES ASSET TOKENIZATION
 ---
 

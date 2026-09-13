@@ -6,7 +6,7 @@ data-ai-hint: blockchain time
 description: A technical comparison of block time across Bitcoin, Ethereum, Solana, and Layer 2 rollups, examining difficulty adjustments, network propagation latency, probabilistic versus deterministic finality, and protocol engineering.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-10"
+lastUpdated: "2026-09-13"
 ---
 
 In blockchain protocol engineering, **block time** defines the target time interval required for validating nodes to collect unconfirmed mempool transactions, construct a valid block header, execute state transitions, and achieve consensus across a peer-to-peer network.

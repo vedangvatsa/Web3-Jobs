@@ -7,7 +7,7 @@ author: Alex Rivera
 tags: Decentralized Identity, DIDs, Cryptography, Smart Contracts, W3C Standards
 slug: what-is-a-decentralized-identifier
 publishedDate: "2026-09-07"
-lastUpdated: "2026-09-10"
+lastUpdated: "2026-09-13"
 ---
 
 Centralized identity systems rely on centralized authorities (such as Google, Meta, or state identity registries) to issue, manage, and verify user digital identities. This architecture creates single points of failure, invasive tracking across web applications, and data loss risks when central entities suffer security breaches or revoke access.

@@ -6,7 +6,7 @@ data-ai-hint: "social media development decentralized graph architecture"
 description: "A comprehensive technical and career roadmap for software engineers building decentralized social protocols, off-chain hubs, and SocialFi applications."
 category: "Career Guides"
 publishedDate: "2026-03-11"
-lastUpdated: "2026-09-10"
+lastUpdated: "2026-09-13"
 ---
 
 ![Web3 SocialFi Decentralized Stack & Architecture](/images/articles/charts/web3-socialfi-architecture.svg)

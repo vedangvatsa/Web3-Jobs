@@ -5,7 +5,7 @@ description: A comprehensive technical guide to Balancer Weighted Pools, constan
 category: Educational
 data-ai-hint: balancer weighted pool
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-10"
+lastUpdated: "2026-09-13"
 image: /images/articles/charts/balancer-weighted-math-architecture.svg
 ---
 Decentralized finance relies heavily on automated market makers to facilitate token exchanges without centralized intermediaries. While the constant product formula pioneered by early protocols documented in [Ethereum Developer Docs](https://ethereum.org/en/developers/docs/) and [Uniswap v3 Whitepaper](https://uniswap.org/whitepaper-v3.pdf) established foundational liquidity pools, it imposed rigid constraints on liquidity providers. Specifically, standard automated market makers required liquidity providers to deposit pairs of assets in strictly equal monetary proportions, establishing an immutable fifty-fifty value split.

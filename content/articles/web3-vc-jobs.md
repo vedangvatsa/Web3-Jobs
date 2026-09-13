@@ -8,7 +8,7 @@ description: >-
   about the different roles, from analyst to partner, and the skills you need.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-10"
+lastUpdated: "2026-09-13"
 ---
 Venture Capital (VC) fuels innovation by providing essential early-stage funding, enabling startups to scale and shape the future. In the fast-moving field of [Web3](/what-is-web3), a new class of investors, known as **crypto VCs**, has emerged. These professionals focus on identifying and financing high-potential projects within the [blockchain](/what-is-a-blockchain) and decentralized technology sectors.
 

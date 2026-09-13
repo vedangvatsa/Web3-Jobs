@@ -5,7 +5,7 @@ description: >-
   An investigative thesis examining the legal battles over software encryption, source code as speech, and zero-knowledge privacy protocols.
 category: Technology Deep Dives
 publishedDate: '2026-09-08'
-lastUpdated: "2026-09-10"
+lastUpdated: "2026-09-13"
 slug: the-crypto-wars
 ---
 

@@ -1,8 +1,6 @@
 ---
-title: >-
+title: "Supply Chain Blockchain Explained: How Shared Ledgers Track Goods From Source to Store"
 ogTitle: "SUPPLY CHAIN BLOCKCHAIN EXPLAINED: HOW SHARED LEDGERS TRACK"
-  Supply Chain Blockchain Explained: How Shared Ledgers Track Goods From Source
-  to Store
 image: /images/thisisengineering-zBLtU0zbJcU-unsplash.jpg
 data-ai-hint: supply chain logistics
 description: >-
@@ -11,7 +9,7 @@ description: >-
   deployments, tradeoffs, and how to get started.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-10"
+lastUpdated: "2026-09-13"
 ---
 A supply chain blockchain is a shared, append-only ledger that records where a product has been, who handled it, and what happened to it at each step. Instead of each company keeping a separate database, participants write standardized events to one ledger that no single party can rewrite. That record is then used to prove provenance, speed recalls, and automate payments when conditions are met.
 

@@ -5,7 +5,7 @@ image: /images/articles/charts/filecoin-storage-proofs-architecture.svg
 description: A comprehensive technical exploration of Filecoin, detailing Proof of Replication, Proof of Spacetime, storage deal lifecycles, FVM smart contracts, and cryptoeconomic pledge models.
 category: Technology Deep Dives
 publishedDate: "2026-03-11"
-lastUpdated: "2026-09-10"
+lastUpdated: "2026-09-13"
 tags:
   - Filecoin
   - Decentralized Storage

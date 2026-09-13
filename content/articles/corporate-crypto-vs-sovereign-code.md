@@ -5,7 +5,7 @@ description: >-
   An investigative thesis on the growing split between regulated corporate crypto infrastructure and sovereign open-source protocols.
 category: Technology Deep Dives
 publishedDate: '2026-09-08'
-lastUpdated: "2026-09-10"
+lastUpdated: "2026-09-13"
 slug: corporate-crypto-vs-sovereign-code
 ---
 

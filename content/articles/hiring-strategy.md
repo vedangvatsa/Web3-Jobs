@@ -7,7 +7,7 @@ description: >-
   A founder manual for hiring in crypto: sourcing on-chain talent, sizing token grants, structuring vesting cliffs, screening fake workers, and global payroll.
 category: Industry Insights
 publishedDate: "2026-03-11"
-lastUpdated: "2026-09-10"
+lastUpdated: "2026-09-13"
 ---
 Hiring in Web3 tests founders on terrain that corporate recruiting playbooks never anticipated. [Electric Capital developer report](https://www.developerreport.com/) counts over 23,000 monthly active open-source crypto contributors, with 74% living outside North America. Competition for protocol engineers, security researchers, and token economists remains sharp even during market drawdowns. Tech candidates with offers from established tech firms evaluate early-stage crypto teams on treasury transparency, token emission logic, and founder execution speed. Founders who rely on LinkedIn searches, boilerplate recruiters, and standard option agreements watch their target candidates take offers from protocols that speak native crypto.
 

@@ -10,7 +10,7 @@ imageFit: contain
 category: News
 data-ai-hint: MetaMask Money Account
 publishedDate: '2026-09-12'
-lastUpdated: '2026-09-12'
+lastUpdated: "2026-09-13"
 ogTitle: METAMASK PREPARES CONSUMER SPLIT FROM CONSENSYS
 ---
 

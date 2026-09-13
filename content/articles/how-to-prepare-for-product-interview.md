@@ -9,7 +9,7 @@ description: >-
   security.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-10"
+lastUpdated: "2026-09-13"
 ---
 ## What a product interview actually tests
 

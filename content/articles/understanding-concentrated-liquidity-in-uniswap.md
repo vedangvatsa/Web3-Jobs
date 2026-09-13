@@ -5,7 +5,7 @@ description: A rigorous mathematical and architectural guide to Uniswap v3 conce
 category: Educational
 data-ai-hint: concentrated liquidity
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-10"
+lastUpdated: "2026-09-13"
 image: /images/articles/charts/concentrated-liquidity-tick-math.svg
 ---
 Decentralized automated market makers transformed digital asset trading by replacing centralized limit order books with continuous liquidity pools governed by algorithmic bonding curves. In early protocols such as [Uniswap v2](https://uniswap.org), liquidity providers supplied equal values of two tokens to satisfy the constant product formula $x \cdot y = k$. While mathematically elegant and passive, this architecture suffered from profound capital inefficiency: liquidity was distributed uniformly across all possible price points from zero to infinity.

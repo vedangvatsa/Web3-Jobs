@@ -10,7 +10,7 @@ image: >-
 category: News
 data-ai-hint: quantum circuit secp256k1 research
 publishedDate: '2026-09-12'
-lastUpdated: '2026-09-12'
+lastUpdated: "2026-09-13"
 ogTitle: NEW PREPRINT REASSESSES BITCOIN QUANTUM RISK
 ---
 

@@ -6,7 +6,7 @@ data-ai-hint: smart ai agent
 description: A technical guide to Smart Agents in AI, examining LLM reasoning loops, tool calling, vector memory, autonomous Web3 execution, and multi-agent coordination frameworks.
 category: Getting Started
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-10"
+lastUpdated: "2026-09-13"
 ---
 
 The paradigm of artificial intelligence software design is undergoing a fundamental transformation. For decades, software applications operated under deterministic, rule-based instructions where developers explicitly programmed every logical branch, API request, and state mutation. 

@@ -7,7 +7,7 @@ description: >-
   An operational manual for crypto recruiters: sourcing across GitHub and hackathons, screening pseudonymous candidates, detecting infiltration malware, and closing token packages.
 category: Career Guides
 publishedDate: "2026-03-11"
-lastUpdated: "2026-09-10"
+lastUpdated: "2026-09-13"
 ---
 Recruiting in crypto exposes traditional staffing agencies to rapid failure. The candidates most capable of building resilient protocols do not respond to automated InMail messages on LinkedIn. Many operate under cryptographic pseudonyms, maintain no formal educational credentials on public record, and evaluate hiring teams through code reviews of the hiring protocol itself. Data from [Electric Capital developer report](https://www.developerreport.com/) shows that 74% of active open-source crypto developers live outside North America, creating a hyper-distributed, international candidate pool where geographic location correlates poorly with technical contribution.
 

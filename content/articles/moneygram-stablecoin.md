@@ -8,7 +8,7 @@ image: >-
 category: News
 data-ai-hint: moneygram visa usdc stablecoin card
 publishedDate: '2026-09-12'
-lastUpdated: '2026-09-12'
+lastUpdated: "2026-09-13"
 ogTitle: MONEYGRAM LAUNCHES STABLECOIN VISA CARD IN COLOMBIA
 ---
 

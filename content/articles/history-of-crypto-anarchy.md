@@ -5,7 +5,7 @@ description: >-
   An investigative thesis tracing the 40-year evolution of cypherpunk philosophy, asymmetric cryptography, and sovereign software systems.
 category: Technology Deep Dives
 publishedDate: '2026-09-08'
-lastUpdated: "2026-09-10"
+lastUpdated: "2026-09-13"
 slug: history-of-crypto-anarchy
 ---
 

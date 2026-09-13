@@ -6,7 +6,7 @@ data-ai-hint: "nft marketplace developer smart contract architecture"
 description: "A comprehensive engineering and career guide to building NFT marketplaces, off-chain orderbooks, EIP-712 signatures, Seaport protocol integration, and subgraphs."
 category: "Career Guides"
 publishedDate: "2026-03-11"
-lastUpdated: "2026-09-10"
+lastUpdated: "2026-09-13"
 ---
 
 ![Web3 NFT Marketplace System Architecture](/images/articles/charts/nft-marketplace-architecture.svg)
