@@ -66,7 +66,7 @@ async function toWebpBytes(buf) {
     try {
       execFileSync('/usr/bin/sips', ['-s', 'format', 'png', tmp], { stdio: 'pipe' });
       const webp = await sharp(tmp, { density: 96 })
-        .resize({ width: 1600, height: 900, fit: 'cover', withoutEnlargement: true })
+        .resize({ width: 1600, height: 900, fit: 'contain', background: '#ffffff', withoutEnlargement: true })
         .webp({ quality: 78, alphaQuality: 85 })
         .toBuffer();
       return webp;
@@ -75,7 +75,7 @@ async function toWebpBytes(buf) {
     }
   }
   return sharp(buf, { density: 96 })
-    .resize({ width: 1600, height: 900, fit: 'cover', withoutEnlargement: true })
+    .resize({ width: 1600, height: 900, fit: 'contain', background: '#ffffff', withoutEnlargement: true })
     .webp({ quality: 78, alphaQuality: 85 })
     .toBuffer()
     .catch(() => null);
@@ -87,7 +87,7 @@ export async function downloadCover(event, eventsDir, log = () => {}) {
   if (!event.coverImage || !event.coverImage.startsWith('http')) return null;
   const local = localCoverPath(event, eventsDir);
   const dest = path.join(eventsDir, path.basename(local));
-  if (fs.existsSync(dest)) {
+  if (fs.existsSync(dest) && process.env.EVENT_IMAGE_REFRESH !== '1') {
     const stale = Date.now() - fs.statSync(dest).mtimeMs > 7 * 24 * 60 * 60 * 1000;
     if (!stale) return local;
   }

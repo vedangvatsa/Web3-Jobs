@@ -4,7 +4,7 @@ import { Card, CardHeader, CardTitle } from '@/components/ui/card';
 import Link from 'next/link';
 import { getEventSlug, getEventDatePill, getEventCity, type Web3Event } from '@/lib/events';
 
-export function EventCard({ event }: { event: Web3Event }) {
+export function EventCard({ event, hideLocation = false }: { event: Web3Event; hideLocation?: boolean }) {
   const slug = getEventSlug(event);
   const datePill = getEventDatePill(event.startDate);
   const city = getEventCity(event) || 'Online';
@@ -26,9 +26,11 @@ export function EventCard({ event }: { event: Web3Event }) {
               <CardTitle className="text-base leading-snug font-semibold line-clamp-2" title={event.name}>
                 {event.name}
               </CardTitle>
-              <p className="text-xs text-muted-foreground truncate mt-0.5" title={city}>
-                {city}
-              </p>
+              {!hideLocation && (
+                <p className="text-xs text-muted-foreground truncate mt-0.5" title={city}>
+                  {city}
+                </p>
+              )}
             </div>
           </div>
         </CardHeader>
