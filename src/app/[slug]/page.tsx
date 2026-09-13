@@ -11,7 +11,7 @@ import { CompanyDetailView } from '@/components/company-detail-view';
 import Image from 'next/image';
 import Link from 'next/link';
 import { Metadata } from 'next';
-import type { Article as ArticleSchema, NewsArticle, ScholarlyArticle, BreadcrumbList, Event as SchemaEvent, WithContext } from 'schema-dts';
+import type { Article as ArticleSchema, NewsArticle, ScholarlyArticle, BreadcrumbList, WithContext } from 'schema-dts';
 import { ArticleContent } from '@/components/article-content';
 import { RelatedArticles } from '@/components/related-articles';
 import { ResourcePageView } from '@/components/pseo/resource-page-view';
@@ -23,7 +23,10 @@ import { ArticleViewTracker } from '@/components/tracking/article-view-tracker';
 import { PageHeader } from "@/components/page-header";
 import { PageShell } from "@/components/page-shell";
 import { CtaBanner } from "@/components/cta-banner";
-import { getEventSlug, getEventEcosystems, getEventDatePill, formatEventDate, generateGoogleCalendarUrl, isGoogleEventEligible } from '@/lib/events';
+import { getEventSlug, getEventEcosystems, getEventDatePill, formatEventDate, generateGoogleCalendarUrl } from '@/lib/events';
+import { getEventExternalUrl } from '@/lib/event-external-url';
+import { getPublicEvent } from '@/lib/event-public';
+import { buildGoogleEventSchema } from '@/lib/event-schema';
 import { resolveEventGuide } from '@/lib/event-guide-store';
 import { JsonLd } from '@/components/json-ld';
 import { EventHeroImage } from '@/components/event-cover';
@@ -379,9 +382,15 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     }
     const editorial = await resolveEventGuide(event);
     const speakerSummary = event.speakerDetails ? `${event.speakerDetails.length} official speakers announced.` : event.speakers?.join(', ');
-    const googleCalendarUrl = generateGoogleCalendarUrl(event);
-    const relatedEvents = await getRelatedEvents(event, 3);
-    const sideEvents = (await getEvents()).filter((sideEvent) => sideEvent.sideEventFor?.includes(eventSlug));
+    const eventExternalUrl = getEventExternalUrl(event);
+    const partnerOfferUrl = event.partnerOffer?.url
+      ? getEventExternalUrl({ registrationUrl: event.partnerOffer.url, website: undefined, url: '' })
+      : undefined;
+    const googleCalendarUrl = generateGoogleCalendarUrl(event, eventExternalUrl);
+    const relatedEvents = (await getRelatedEvents(event, 3)).map(getPublicEvent);
+    const sideEvents = (await getEvents())
+      .filter((sideEvent) => sideEvent.sideEventFor?.includes(eventSlug))
+      .map(getPublicEvent);
     const eventTimeZone = eventSlug === 'token2049' ? 'Asia/Singapore'
       : eventSlug === 'kbw' ? 'Asia/Seoul'
       : eventSlug === 'ibw' || eventSlug === 'devcon' ? 'Asia/Kolkata'
@@ -390,72 +399,10 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     const eventPageUrl = `${siteUrl}/${eventSlug}`;
     const eventImage = event.coverImage || `/api/og?type=event&title=${encodeURIComponent(event.name)}`;
     const eventImageUrl = /^https?:\/\//i.test(eventImage) ? eventImage : `${siteUrl}${eventImage}`;
-
-    // Clean location string (remove "Global, " prefixes from Luma tags)
-    const cleanLocationName = event.location
-      ? event.location.replace(/^global,\s*/i, '').trim()
-      : 'Web3 Venue';
-
-    // Chronological date calculation: if endDate < startDate (overnight events crossing midnight), add +1 day to endDate
-    const startMs = Date.parse(event.startDate);
-    let endIso = event.endDate || event.startDate;
-    const endMs = Date.parse(endIso);
-    if (!Number.isNaN(startMs) && !Number.isNaN(endMs) && endMs < startMs) {
-      const fixedEndDate = new Date(endMs + 24 * 60 * 60 * 1000);
-      endIso = fixedEndDate.toISOString();
-    }
-
-    const eventSchema = isGoogleEventEligible(event)
-      ? {
-          '@context': 'https://schema.org',
-          '@type': 'Event',
-          name: event.name,
-          description: event.description || editorial.summaryLead,
-          startDate: event.startDate,
-          endDate: endIso,
-          eventAttendanceMode: 'https://schema.org/OfflineEventAttendanceMode',
-          eventStatus: 'https://schema.org/EventScheduled',
-          location: {
-            '@type': 'Place',
-            name: cleanLocationName,
-            address: {
-              '@type': 'PostalAddress',
-              name: cleanLocationName,
-              ...(event.city ? { addressLocality: event.city } : {}),
-              ...(event.country ? { addressCountry: event.country } : {}),
-            },
-          },
-          url: eventPageUrl,
-          ...(event.url && event.url !== eventPageUrl ? { sameAs: event.url } : {}),
-          image: [eventImageUrl],
-          // Emit Offer structured data for events with registration / ticket links
-          ...(event.url ? {
-            offers: {
-              '@type': 'Offer',
-              url: event.url,
-              price: '0',
-              priceCurrency: 'USD',
-              availability: 'https://schema.org/InStock',
-              validFrom: event.startDate,
-            }
-          } : {}),
-          // Emit Performer / Speaker data when present
-          ...(event.speakers && event.speakers.length > 0 ? {
-            performer: event.speakers.map((speaker) => ({
-              '@type': 'Person',
-              name: speaker,
-            }))
-          } : {}),
-          // Emit Organizer schema when organizer/host is available
-          ...((event as any).organizer || (event as any).company ? {
-            organizer: {
-              '@type': 'Organization',
-              name: (event as any).organizer || (event as any).company,
-              ...(event.url ? { url: event.url } : {}),
-            }
-          } : {}),
-        }
-      : null;
+    const eventSchema = buildGoogleEventSchema(event, {
+      pageUrl: eventPageUrl,
+      imageUrl: eventImageUrl,
+    });
 
     // Schema.org Breadcrumbs
     const breadcrumbSchema = {
@@ -500,12 +447,14 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                 }
                 actions={
                   <>
-                    <Button asChild className="flex-1 gap-2 whitespace-nowrap sm:flex-none">
-                      <a href={event.url} target="_blank" rel="noopener noreferrer nofollow" className="whitespace-nowrap">
-                        <span>Details</span>
-                        <ExternalLink className="h-4 w-4 shrink-0" />
-                      </a>
-                    </Button>
+                    {eventExternalUrl && (
+                      <Button asChild className="flex-1 gap-2 whitespace-nowrap sm:flex-none">
+                        <a href={eventExternalUrl} target="_blank" rel="noopener noreferrer nofollow" className="whitespace-nowrap">
+                          <span>Details</span>
+                          <ExternalLink className="h-4 w-4 shrink-0" />
+                        </a>
+                      </Button>
+                    )}
                     <Button asChild variant="outline" className="flex-1 gap-2 whitespace-nowrap sm:flex-none">
                       <a href={googleCalendarUrl} target="_blank" rel="noopener noreferrer" className="whitespace-nowrap">
                         <Calendar className="h-4 w-4 shrink-0 text-muted-foreground" />
@@ -526,8 +475,8 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                   {event.partnerOffer && (
                     <div className="space-y-1 sm:col-span-2 lg:col-span-3">
                       <span className="text-muted-foreground block text-xs font-semibold uppercase tracking-wider">Community offer</span>
-                      {event.partnerOffer.url ? (
-                        <a href={event.partnerOffer.url} target="_blank" rel="noopener noreferrer nofollow" className="font-semibold text-foreground text-sm underline underline-offset-4">
+                      {partnerOfferUrl ? (
+                        <a href={partnerOfferUrl} target="_blank" rel="noopener noreferrer nofollow" className="font-semibold text-foreground text-sm underline underline-offset-4">
                           {event.partnerOffer.text}
                         </a>
                       ) : (
@@ -560,7 +509,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                 <EventGuideContent
                   editorial={editorial}
                   speakerSummary={speakerSummary}
-                  eventUrl={event.url}
+                  eventUrl={eventExternalUrl}
                 />
               )}
 

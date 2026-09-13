@@ -5,13 +5,13 @@ import { useMemo, useState } from 'react';
 import { Button } from '@/components/ui/button';
 import { EventCard } from '@/components/event-card';
 import { Calendar, LayoutGrid } from 'lucide-react';
-import { getEventSlug, type Web3Event } from '@/lib/events';
+import { getEventSlug, type PublicWeb3Event } from '@/lib/events';
 
-function getEventDate(event: Web3Event, timeZone: string): string {
+function getEventDate(event: PublicWeb3Event, timeZone: string): string {
   return new Intl.DateTimeFormat('en-CA', { timeZone }).format(new Date(event.startDate));
 }
 
-function getTimeOfDay(event: Web3Event, timeZone: string): string {
+function getTimeOfDay(event: PublicWeb3Event, timeZone: string): string {
   const hour = Number(new Intl.DateTimeFormat('en-US', {
     timeZone,
     hour: '2-digit',
@@ -22,14 +22,14 @@ function getTimeOfDay(event: Web3Event, timeZone: string): string {
   return 'Evening';
 }
 
-function getPriceType(event: Web3Event): string {
+function getPriceType(event: PublicWeb3Event): string {
   const price = event.price?.toLowerCase() ?? '';
   if (/invite|application|approval/.test(`${event.name} ${price}`.toLowerCase())) return 'Invite only';
   if (/free|complimentary|0/.test(price)) return 'Free';
   return 'Paid';
 }
 
-export function EventSideEvents({ eventName, events, timeZone }: { eventName: string; events: Web3Event[]; timeZone: string }) {
+export function EventSideEvents({ eventName, events, timeZone }: { eventName: string; events: PublicWeb3Event[]; timeZone: string }) {
   const days = Array.from(new Set(events.map((event) => getEventDate(event, timeZone))));
   const categories = Array.from(new Set(events.map((event) => event.category).filter((category): category is string => Boolean(category))));
   const [day, setDay] = useState('All days');
@@ -63,7 +63,7 @@ export function EventSideEvents({ eventName, events, timeZone }: { eventName: st
     });
   }, [currentMonth]);
   const eventsByDay = useMemo(() => {
-    const grouped = new Map<string, Web3Event[]>();
+    const grouped = new Map<string, PublicWeb3Event[]>();
     visibleEvents.forEach((event) => {
       const key = getEventDate(event, timeZone);
       grouped.set(key, [...(grouped.get(key) || []), event]);

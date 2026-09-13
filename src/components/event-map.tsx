@@ -3,9 +3,9 @@
 import { useEffect, useMemo, useState } from 'react';
 import Link from 'next/link';
 import { CircleMarker, MapContainer, Popup, TileLayer, useMap } from 'react-leaflet';
-import { COUNTRY_NAMES, getEventSlug, type Web3Event } from '@/lib/events';
+import { COUNTRY_NAMES, getEventSlug, type PublicWeb3Event } from '@/lib/events';
 
-type EventGroup = { key: string; label: string; events: Web3Event[]; coordinates: [number, number] };
+type EventGroup = { key: string; label: string; events: PublicWeb3Event[]; coordinates: [number, number] };
 
 const COUNTRY_CODES: Record<string, string> = {
   'united arab emirates': 'AE', bolivia: 'BO', brazil: 'BR', bulgaria: 'BG', canada: 'CA',
@@ -80,7 +80,7 @@ function MapViewport({ groups, selected }: { groups: EventGroup[]; selected: Eve
   return null;
 }
 
-export function EventMap({ events }: { events: Web3Event[] }) {
+export function EventMap({ events }: { events: PublicWeb3Event[] }) {
   const [selectedKey, setSelectedKey] = useState<string | null>(null);
   const groups = useMemo(() => {
     const locations = new Map<string, EventGroup>();

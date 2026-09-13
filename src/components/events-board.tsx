@@ -2,7 +2,7 @@
 
 import { useState, useMemo, useRef, useEffect } from 'react';
 import Link from 'next/link';
-import { Web3Event, getEventSlug, getEventCity } from '@/lib/events';
+import { type PublicWeb3Event, getEventSlug, getEventCity } from '@/lib/events';
 import { Input } from '@/components/ui/input';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
@@ -81,7 +81,7 @@ function formatEventDate(startDate: string, endDate: string) {
   return `${startStr} – ${endStr}`;
 }
 
-export function EventsBoard({ initialEvents }: { initialEvents: Web3Event[] }) {
+export function EventsBoard({ initialEvents }: { initialEvents: PublicWeb3Event[] }) {
   const [searchQuery, setSearchQuery] = useState('');
   const [countryFilter, setCountryFilter] = useState<string | null>(null);
   const [dateFilter, setDateFilter] = useState<string | null>(null);
@@ -203,7 +203,7 @@ export function EventsBoard({ initialEvents }: { initialEvents: Web3Event[] }) {
 
   // Map events to calendar days safely
   const eventsByDay = useMemo(() => {
-    const map = new Map<string, Web3Event[]>();
+    const map = new Map<string, PublicWeb3Event[]>();
     filteredEvents.forEach(event => {
       if (!event?.startDate) return;
       const d = new Date(event.startDate);

@@ -2,9 +2,9 @@
 
 import { Card, CardHeader, CardTitle } from '@/components/ui/card';
 import Link from 'next/link';
-import { getEventSlug, getEventDatePill, getEventCity, type Web3Event } from '@/lib/events';
+import { getEventSlug, getEventDatePill, getEventCity, type PublicWeb3Event } from '@/lib/events';
 
-export function EventCard({ event, hideLocation = false }: { event: Web3Event; hideLocation?: boolean }) {
+export function EventCard({ event, hideLocation = false }: { event: PublicWeb3Event; hideLocation?: boolean }) {
   const slug = getEventSlug(event);
   const datePill = getEventDatePill(event.startDate);
   const city = getEventCity(event) || 'Online';

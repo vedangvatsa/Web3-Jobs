@@ -3408,18 +3408,21 @@
   },
   {
     "id": "w3v-global-trading-show-2026-abu-dhabi",
-    "name": "Global Trading Show 2026 Abu Dhabi ",
-    "description": "Global Trading Show: a December 15–16, 2026 Abu Dhabi conference covering forex, crypto, equities, AI trading, and prediction markets.",
+    "name": "Global Trading Show 2026",
+    "description": "A two-day multi-asset trading conference covering forex, crypto, equities, gold, AI trading, DeFi, and prediction markets, with conference sessions, workshops, and networking in Abu Dhabi.",
     "startDate": "2026-12-15T08:00:00.000Z",
     "endDate": "2026-12-16T20:00:00.000Z",
     "city": "Abu Dhabi",
-    "country": "AE",
-    "location": "Abu Dhabi, AE",
+    "country": "United Arab Emirates",
+    "location": "Emirates Palace, Abu Dhabi, United Arab Emirates",
     "url": "https://www.globaltradingshow.com",
     "coverImage": "/events/w3v-global-trading-show-2026-abu-dhabi-8115e336.webp",
     "source": "Hashtag Web3",
     "bypassedFilter": true,
-    "month": "December 2026"
+    "month": "December 2026",
+    "website": "https://www.globaltradingshow.com",
+    "registrationUrl": "https://www.globaltradingshow.com/tickets/",
+    "venueName": "Emirates Palace"
   },
   {
     "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-technology-icbt-2027-januar",

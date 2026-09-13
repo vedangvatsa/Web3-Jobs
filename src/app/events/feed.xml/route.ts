@@ -39,7 +39,7 @@ export async function GET() {
   const siteUrl = 'https://hashtagweb3.com';
   const today = new Date().toISOString();
   const events = (await getEvents())
-    .filter((event) => event.endDate >= today)
+    .filter((event) => (event.endDate || event.startDate) >= today)
     .sort((a, b) => Date.parse(a.startDate) - Date.parse(b.startDate));
 
   const items = events.map((event) => {

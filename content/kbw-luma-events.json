@@ -303,7 +303,11 @@
     ],
     "url": "https://luma.com/bkffotv7",
     "coverImage": "/events/kbw-official-coded-kbw-connecting-with-high-signal-3a1fe816.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "venueName": "b2, 417 Yeongdong-daero",
+    "streetAddress": "b2, 417 Yeongdong-daero",
+    "addressRegion": "Seoul",
+    "addressCountry": "KR"
   },
   {
     "id": "kbw-official-builders-meet-09-29",

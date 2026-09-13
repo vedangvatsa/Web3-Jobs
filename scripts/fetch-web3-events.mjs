@@ -863,7 +863,7 @@ async function fetchWeb3Voyager() {
       events.push({
         id: `w3v-${slug || title.toLowerCase().replace(/[^a-z0-9]/g, '-')}`,
         name: title,
-        description: d.meta?.description || `Web3 event in ${city}`,
+        description: (d.meta?.description || `Web3 event in ${city}`).replace(/\s+on\s+web3voyager\s*:/gi, ':'),
         startDate,
         endDate,
         city,
@@ -871,7 +871,6 @@ async function fetchWeb3Voyager() {
         location: country ? `${city}, ${country}` : city,
         url: url,
         coverImage,
-        source: 'web3voyager',
       });
     }
     return events;
