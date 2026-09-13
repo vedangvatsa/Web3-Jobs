@@ -231,7 +231,7 @@ export function EventsBoard({ initialEvents }: { initialEvents: PublicWeb3Event[
     return () => observer.disconnect();
   }, [hasMore, filteredEvents.length, viewMode]);
 
-  const [selectedDateEvents, setSelectedDateEvents] = useState<{ date: Date; events: Web3Event[] } | null>(null);
+  const [selectedDateEvents, setSelectedDateEvents] = useState<{ date: Date; events: PublicWeb3Event[] } | null>(null);
 
   return (
     <div>
