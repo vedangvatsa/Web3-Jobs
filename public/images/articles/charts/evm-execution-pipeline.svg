@@ -64,4 +64,16 @@ text{fill:#cbd5e1}.header{fill:#f1f5f9}.sub{fill:#94a3b8}
 <text x="442" y="242" class="sub">Indexed bloom filters</text>
 <text x="442" y="256" class="sub">Consumed by Indexers</text>
 
+<!-- Connection Arrows -->
+<path d="M 154 120 L 175 120" stroke="#3b82f6" stroke-width="2" marker-end="url(#arrow)" fill="none"/>
+<path d="M 395 140 L 415 140" stroke="#ef4444" stroke-width="2" marker-end="url(#arrow-red)" fill="none"/>
+
+<defs>
+  <marker id="arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+    <path d="M 0 1 L 10 5 L 0 9 z" fill="#3b82f6"/>
+  </marker>
+  <marker id="arrow-red" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+    <path d="M 0 1 L 10 5 L 0 9 z" fill="#ef4444"/>
+  </marker>
+</defs>
 </svg>
