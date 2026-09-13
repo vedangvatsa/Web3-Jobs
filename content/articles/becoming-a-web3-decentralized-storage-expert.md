@@ -16,342 +16,80 @@ tags:
 ---
 # Becoming a Web3 Decentralized Storage Expert
 
-In modern cloud computing, enterprise data architectures are heavily centralized. Over 65% of global cloud workloads, web media, database backups, and software repositories reside within three hyper-scale infrastructure providers: [Amazon Web Services S3](https://aws.amazon.com/s3/), [Google Cloud Storage](https://cloud.google.com/storage), and [Microsoft Azure Blob Storage](https://azure.microsoft.com/en-us/products/storage/blobs). 
-
-While centralized object storage provides low-latency reads and horizontal scalability, it introduces profound systemic vulnerabilities for the decentralized web. A centralized cloud bucket represents a single point of failure, governed by corporate terms of service, subject to government subpoenas, vulnerable to domain hijacking, and liable to silent data alteration or deplatforming. Furthermore, smart contracts deployed on immutable networks such as the [Ethereum Foundation](https://ethereum.org), [Solana Protocol](https://solana.com), or [Polygon](https://polygon.technology) cannot safely reference ephemeral centralized URLs like `https://s3.amazonaws.com/my-nft/metadata.json` without re-introducing centralized custodians into trustless protocols.
-
-To preserve sovereignty and data permanence, the decentralized web has constructed an independent storage paradigm. Built upon content addressing, peer-to-peer gossip networks, zero-knowledge proofs, and cryptoeconomic storage endowments, decentralized storage protocols, including [IPFS](https://ipfs.tech), [Filecoin](https://filecoin.io), [Arweave](https://arweave.org), and [Storj](https://storj.io), form the fundamental persistence layer of Web3.
-
-Because data availability and persistence underpin multi-billion-dollar NFT ecosystems on [OpenSea](https://opensea.io) and [Magic Eden](https://magiceden.io), decentralized AI training corpuses, on-chain gaming worlds, and DeFi protocols like [Uniswap](https://uniswap.org) and [Aave](https://aave.com), and institutional archives, demand for **Decentralized Storage Experts** has reached unprecedented heights. This comprehensive technical guide details the architectural foundations, core protocol implementations, compensation benchmarks, coding patterns, and portfolio requirements needed to master decentralized storage engineering.
-
-```
-+-----------------------------------------------------------------------------------+
-|                     THE DECENTRALIZED STORAGE SPECIALIZATION MATRIX               |
-+-------------------+-----------------------+-------------------+-------------------+
-| Protocol Family   | Core Mechanism        | Best Known For    | Primary Stack     |
-+-------------------+-----------------------+-------------------+-------------------+
-| IPFS              | Content Addressing    | P2P Content       | Golang, Rust, JS  |
-| (InterPlanetary)  | (CIDs, Merkle DAGs)   | Routing & Pinning | Helia, Kubo, libp2p|
-| Arweave           | SPoRA Consensus &     | Permanent Immu-   | Erlang, Rust, JS  |
-| (The Permaweb)    | Storage Endowment     | table Archiving   | Irys, Arfleet, AO |
-| Filecoin          | Storage Deals, PoRep, | Exabyte Enterprise| Lotus, Rust, Go,  |
-| (FVM Network)     | PoSt, and FVM actors  | Contract Storage  | FEVM, Solidity    |
-| Storj / Sia       | Reed-Solomon Erasure  | Private Encrypted | Go, C++, S3-compat|
-| (Decentralized S3)| Coding (29/80 Split)  | Hot Cloud Storage | Tardigrade gateway|
-+-------------------+-------------------+-------------------+-------------------+
-```
+Decentralized storage is not one service or one durability guarantee. It is a set of systems that separate a file's identity from a single server and distribute storage, retrieval, or verification across participants. A useful design starts by deciding what must be immutable, who may read it, how long it must remain retrievable, and who will verify that it is still available.
 
----
-
-## Architectural Foundations of Decentralized Storage
-
-To operate as a domain expert, an engineer must master the mathematical and networking principles that distinguish decentralized storage from traditional hierarchical file systems.
-
-```
-+---------------------------------------------------------------------------------+
-|                       LOCATION ADDRESSING VS CONTENT ADDRESSING                 |
-+---------------------------------------------------------------------------------+
-| Location-Based Addressing (Web2 URL):                                           |
-| https://example.com/images/avatar.png                                           |
-| 
-
-- Identifies WHERE the file is located (which physical server and directory)    |
-| 
-
-- If the server shuts down or the webmaster swaps the file, the link breaks     |
-|   or returns completely altered content!                                        |
-|                                                                                 |
-| Content-Based Addressing (Web3 CID):                                            |
-| ipfs://bafybeicg2pxx... (Cryptographic Hash of File Contents)                   |
-| 
-
-- Identifies WHAT the file is (immutable mathematical fingerprint)              |
-| 
-
-- The file can be fetched from ANY peer in the world hosting those exact bytes  |
-| 
-
-- If a single bit in the file changes, the CID changes completely!              |
-+---------------------------------------------------------------------------------+
-```
-
-### 1. IPFS, Multihash, and Content Identifiers (CIDs)
+The four systems most often grouped together solve different parts of that problem. [IPFS](https://docs.ipfs.tech/concepts/what-is-ipfs/) identifies and retrieves content by hash. [Filecoin](https://docs.filecoin.io/basics/what-is-filecoin/) adds storage deals and cryptographic proofs to a decentralized storage market. [Arweave](https://docs.arweave.org/developers/intro) records data in a network designed for long-term retention after an upfront payment. [Storj](https://docs.storj.io/) provides encrypted object storage by splitting data across independent storage nodes. None removes the need for application-level backup, access control, monitoring, or incident response.
 
-Developed by [Protocol Labs](https://protocol.ai), the InterPlanetary File System replaces IP-address-based file paths with Content Identifiers (CIDs), structured through the [Multiformats](https://multiformats.io) standard:
-- **Multihash**: Encodes the hashing algorithm (such as SHA-256 or BLAKE2b), the hash digest length, and the raw hash bytes into a self-describing cryptographic string.
-- **Multicodec**: Identifies the data format of the underlying content (e.g., `raw` binary, `dag-pb` for Protobuf Directed Acyclic Graphs, or `dag-cbor` for JSON-like IPLD data).
-- **CID Versions**:
-  - `CIDv0`: Legacy base58-encoded string starting with `Qm...` (strictly SHA-256 and Protobuf).
-  - `CIDv1`: Modern base32-encoded string starting with `bafy...`, case-insensitive and fully compatible with subdomains in standard web browsers like [Brave Browser](https://brave.com) and [Opera](https://opera.com).
+## Content addressing
 
-Data in IPFS is broken into chunks (typically 256 KiB) and organized into Merkle Directed Acyclic Graphs (Merkle DAGs) using [UnixFS](https://github.com/ipfs/specs/blob/master/UNIXFS.md). Peers locate blocks using the Kademlia Distributed Hash Table (DHT) and exchange pieces over the wire using the Bitswap protocol, both implemented within the [libp2p Networking Stack](https://libp2p.io).
-
-### 2. Arweave: SPoRA Consensus and the Permaweb
+A location address tells a client where to ask for data, such as `https://storage.example/records/42.json`. The operator of that hostname can change the response, remove it, or make the host unavailable. A content address identifies a particular sequence of bytes. In IPFS, that identifier is a Content Identifier, or CID.
 
-While IPFS routes data peer-to-peer, it does not guarantee that nodes will keep storing data indefinitely. [Arweave](https://arweave.org), created by [Sam Williams](https://x.com/samcolonwilliams), solves permanence through a novel consensus mechanism termed **Succinct Proofs of Random Access (SPoRA)**.
-
-In Arweave, miners compete to produce blocks not by evaluating empty proof-of-work hashes, but by proving immediate access to historical blocks stored on disk:
-- When a new block candidate is generated, the consensus algorithm challenges miners to produce data from a random historical block (the "recall block").
-- Miners who maintain local copies of the entire historical dataset have a mathematically higher probability of finding the recall block and mining the block reward.
-
-#### The Storage Endowment Model
-
-How does Arweave fund permanent storage without recurring subscription fees? 
-
-Arweave utilizes an economic **Storage Endowment**. When a user pays an upfront transaction fee to store a file, a fraction is paid immediately to the miner, while the remainder is deposited into a decentralized floating endowment. The endowment earns interest while storage hardware costs historically decline at an average rate of $\sim 30.5\%$ per year (Kryder's Law). 
-
-Conservative actuarial modeling demonstrated by Arweave ensures that this one-time fee generates sufficient yield to fund storage persistence for over 200 years.
-
-```
-+---------------------------------------------------------------------------------+
-|                       ARWEAVE PERPETUAL ENDOWMENT FLYWHEEL                      |
-+---------------------------------------------------------------------------------+
-| User pays upfront fee: e.g. $2.50 per Gigabyte (One-Time Payment)               |
-|      |                                                                          |
-|      +---> 15%: Immediate payout to miner who seals the block                   |
-|      +---> 85%: Transferred into the Protocol Storage Endowment                 |
-|                   |                                                             |
-|                   v                                                             |
-|         Endowment Principal Invested in Conservative Crypteconomic Reserve      |
-|                   |                                                             |
-|                   v                                                             |
-|         Annual Hardware Cost Deflation (Kryder Law ~30.5% cost drop / year)    |
-|                   |                                                             |
-|                   v                                                             |
-|         Endowment generates continuous operational subsidies, funding storage   |
-|         across global nodes for 200+ years without recurring user billing.      |
-+---------------------------------------------------------------------------------+
-```
-
-### 3. Storj: Reed-Solomon Erasure Coding
-
-Unlike Filecoin or Arweave which replicate whole files across nodes, [Storj Cloud](https://storj.io) utilizes decentralized object storage powered by **Reed-Solomon Erasure Coding**:
-- When an object is uploaded, it is encrypted locally on the client machine using AES-256-GCM before ever touching the network.
-- The encrypted payload is fragmented into 80 erasure-coded pieces.
-- Any 29 of those 80 pieces are sufficient to reconstruct the entire file.
-- The 80 pieces are distributed across 80 geographically and legally independent node operators globally.
-
-Even if 51 of the 80 node operators simultaneously lose power or disappear off-line, the client can reconstruct the entire file without data loss.
-
----
-
-## Core Career Tracks and Compensation Benchmarks
-
-Organizations across Web3 compete aggressively for engineers with demonstrated mastery of distributed file systems, peer-to-peer protocols, and decentralized data storage.
-
-```
-+-----------------------------------------------------------------------------------+
-|                 DECENTRALIZED STORAGE CAREER PROGRESSION & BANDS                  |
-+-------------------+-----------------------+---------------------+-----------------+
-| Career Tier       | Base Salary (USD)     | Token / Equity Band | Core Focus      |
-+-------------------+-----------------------+---------------------+-----------------+
-| Level 1: Storage  | $130,000 - $175,000   | 0.05% - 0.15%       | Node operation, |
-| DevOps Engineer   |                       |                     | IPFS gateways   |
-| Level 2: Web3 Data| $175,000 - $250,000   | 0.15% - 0.40%       | Arweave / FVM   |
-| Pipeline Engineer |                       |                     | contract rails  |
-| Level 3: Protocol | $250,000 - $450,000+  | 0.40% - 1.20%+      | SPoRA, PoRep,   |
-| Storage Architect |                       |                     | erasure coding  |
-+-------------------+-----------------------+---------------------+-----------------+
-```
-
-### 1. Storage DevOps & Infrastructure Engineer
-
-- **Scope**: Managing enterprise IPFS clusters ([IPFS Cluster](https://ipfscluster.io)), Filecoin Lotus nodes, and Arweave gateway caches.
-- **Responsibilities**: Optimizing libp2p connection managers, managing multi-terabyte NVMe caches, configuring reverse proxy routing via [NGINX](https://nginx.org) or [Cloudflare](https://www.cloudflare.com), and monitoring DHT peer discovery latencies.
-- **Tech Stack**: Linux, Docker, Kubernetes, Prometheus, Grafana, Golang, Bash.
-
-### 2. Web3 Data Pipeline & Storage Integration Engineer
-
-- **Scope**: Building the middleware that connects decentralized applications, NFT marketplaces, and AI model hubs with decentralized storage backends.
-- **Responsibilities**: Implementing programmatic multi-storage uploaders, handling automated deal renewal contracts on the Filecoin Virtual Machine (FVM), integrating Arweave bundlers via [Irys](https://irys.xyz), and managing edge caching for dynamic frontends.
-- **Tech Stack**: TypeScript, Node.js, Rust, Solidity, Foundry, Helia, Viem, Ethers.js.
-
-### 3. Protocol Storage Architect
-
-- **Scope**: Designing next-generation distributed storage mechanisms, consensus improvements, and cryptographic proof systems.
-- **Responsibilities**: Authoring formal improvement proposals (FIPs), auditing zero-knowledge replication circuits, designing verifiable compute-over-data pipelines with [Bacalhau](https://www.bacalhau.org), and engineering hyper-parallel decentralized computing architectures like [Arweave AO](https://ao.arweave.dev).
-- **Tech Stack**: Rust, Erlang, C++, Applied Cryptography (BLS12-381, Groth16), libp2p.
-
----
-
-## Production Implementation: Multi-Cloud Decentralized Publisher
-
-A decentralized storage expert must know how to build fault-tolerant uploading pipelines that achieve content addressing via IPFS while guaranteeing permanent archival via Arweave.
-
-Below is an enterprise TypeScript pipeline utilizing [Helia (Modern JS IPFS)](https://github.com/ipfs/helia) and the [Irys SDK](https://irys.xyz) for permanent data storage:
-
-```typescript
-import { createHelia } from 'helia';
-import { unixfs } from '@helia/unixfs';
-import { Uploader } from '@irys/upload';
-import { Ethereum } from '@irys/upload-ethereum';
-
-interface StorageResult {
-  cid: string;
-  arweaveId: string;
-  ipfsGatewayUrl: string;
-  arweaveGatewayUrl: string;
-}
-
-/**
- * @notice Enterprise storage pipeline combining ephemeral P2P caching with permanent archival
- */
-export async function persistDataGlobally(
-  payload: Buffer,
-  privateKey: string
-): Promise<StorageResult> {
-/ Step 1: Content-Addressing via local IPFS Node
-  const helia = await createHelia();
-  const fs = unixfs(helia);
-  const cidObj = await fs.addBytes(payload);
-  const cid = cidObj.toString();
-
-/ Step 2: Permanent Archival via Arweave using Irys Network
-/ Connect to Irys using an EVM wallet private key to fund transaction fees
-  const irysUploader = await Uploader(Ethereum).withWallet(privateKey).devnet();
-
-  const receipt = await irysUploader.upload(payload, {
-    tags: [
-      { name: 'Content-Type', value: 'application/json' },
-      { name: 'IPFS-CID', value: cid },
-      { name: 'Application', value: 'HashtagWeb3-Data-Engine' },
-    ],
-  });
-
-  await helia.stop();
-
-  return {
-    cid,
-    arweaveId: receipt.id,
-    ipfsGatewayUrl: `https://ipfs.io/ipfs/${cid}`,
-    arweaveGatewayUrl: `https://gateway.irweave.net/${receipt.id}`,
-  };
-}
-```
-
----
-
-## Leading Employers and Ecosystem Hubs
-
-The decentralized data ecosystem features organizations spanning protocol foundations, enterprise developer platforms, and distributed infrastructure providers:
-
-```
-+-----------------------------------------------------------------------------------+
-|                        DECENTRALIZED STORAGE ECOSYSTEM MAP                        |
-+-------------------+-----------------------+---------------------------------------+
-| Organization Type | Leading Entities      | Core Technology                       |
-+-------------------+-----------------------+---------------------------------------+
-| Core Foundations  | Protocol Labs,        | IPFS, Filecoin, libp2p, FVM, SPoRA,   |
-|                   | Arweave Fdn, Filecoin | Arweave AO decentralized computing    |
-| Developer Tools & | Pinata, Web3.Storage, | Managed pinning APIs, SDKs, gateway   |
-| Managed Pinners   | Lighthouse, Infura    | acceleration, and S3 drop-in APIs     |
-| Data DAOs &       | GLIF, [Ocean Protocol](https://oceanprotocol.com), [Filecoin Green](https://green.filecoin.io) | Sovereign data marketplaces, carbon audits,   |
-| Liquidity Rails   | Filecoin Green        | marketplaces, renewable mining audits |
-| Decentralized S3  | Storj Labs, Sia       | Enterprise cloud backup, video        |
-| & Object Storage  | Foundation, Skynet    | streaming, erasure-coded distributed S3|
-+-------------------+-----------------------+---------------------------------------+
-```
-
-### Essential Industry Entities
-
-- [Protocol Labs](https://protocol.ai): The primary R&D engine behind IPFS, Filecoin, libp2p, and IPLD, employing hundreds of distributed systems engineers and cryptographers.
-- [Filecoin Foundation](https://fil.org): Independent non-profit coordinating governance, DataCap allocations, community development grants, and institutional data onboarding.
-- [Arweave](https://arweave.org): The open-source collective developing the Permaweb and the AO hyper-parallel supercomputer.
-- [Pinata](https://www.pinata.cloud): The leading media management and IPFS pinning infrastructure provider serving billions of files across Web3 and enterprise applications.
-- [Lighthouse Storage](https://www.lighthouse.storage): Providing perpetual Filecoin storage with native encryption and access control capabilities.
-- [ChainSafe Systems](https://chainsafe.io): Leading multi-chain engineering firm maintaining the Forest Rust client for Filecoin.
-
----
-
-## Interview Scenarios and System Design Challenges
-
-Technical interviews for senior storage roles test candidates on failure modes, networking topology, and system resilience:
-
-### Scenario 1: The 504 Gateway Timeout Troubleshooting Drill
-
-*Question*: "A major decentralized application reports that users cannot access their NFT images. The link `https://ipfs.io/ipfs/bafy...` is throwing a 504 Gateway Timeout error. Walk through your systematic troubleshooting methodology."
-
-*Model Answer*:
-1. **Identify the Core Issue**: A gateway timeout indicates that the public HTTP gateway was unable to discover or fetch the requested CID blocks from the IPFS DHT within its connection timeout window. It does NOT mean the data is deleted.
-2. **Verify Local Node Availability**: Check whether the original node or pinning service that published the CID is currently online and connected to the public IPFS DHT:
-   - Run `ipfs routing findprovs <CID>` to determine how many network peers are actively advertising provider records for that multihash.
-   - If zero peers are advertising the CID, the data was never pinned, or the publishing node went offline without replicating to a pinning cluster.
-3. **Gateway Fallback**: Test multi-gateway resolution using diverse independent gateways, such as `https://cloudflare-ipfs.com/ipfs/<CID>` and `https://gateway.pinata.cloud/ipfs/<CID>`.
-4. **Permanent Resolution**: For production resilience, never expose raw third-party public gateways to users. Deploy a dedicated edge caching proxy (using Cloudflare or Fastly) backed by a private IPFS cluster that automatically mirrors data across [Arweave](https://arweave.org) or [Filecoin](https://filecoin.io) as a permanent fallback.
-
-### Scenario 2: Designing an Immutable Healthcare Records Archive
-
-*Question*: "Design a decentralized storage architecture for an international hospital network handling 50 million patient records per year. Requirements: HIPAA compliance, client-side encryption, searchability, and guaranteed permanent retention."
-
-*Model Answer*:
-1. **Client-Side Cryptography**: Patient records must never be uploaded as plaintext. Before transmission, records are encrypted client-side using hybrid public-key encryption (e.g. ECIES over secp256k1 or threshold RSA) where only the patient and authorized medical personnel hold decryption keys.
-2. **Deterministic Metadata Indexing**: Encrypted records are packed into IPLD objects, deriving unique CIDs. The index of patient records is structured into an on-chain smart contract on a high-throughput network like [Arbitrum](https://arbitrum.io) or [Filecoin FVM](https://docs.filecoin.io/smart-contracts), mapping patient decentralized identifiers to verified CIDs, integrating with decentralized oracles from [Chainlink](https://chain.link) and query subgraphs from [The Graph](https://thegraph.com).
-3. **Storage Tiering**:
-   - **Hot Storage Layer**: [Storj Cloud](https://storj.io) with 29/80 erasure coding for sub-second retrieval during active hospital visits.
-   - **Cold Archival Layer**: [Filecoin Plus](https://docs.filecoin.io) deals via enterprise storage providers, backed by automated FVM renewal contracts to satisfy statutory 25-year medical retention mandates.
-4. **Zero-Knowledge Compliance**: Patients utilize zero-knowledge proofs (zk-SNARKs) to prove specific health criteria (e.g. vaccination status) without decrypting or exposing the underlying medical record.
-
----
-
-## Building an Irresistible Proof-of-Work Portfolio
-
-Hiring managers in decentralized storage prioritize candidates with live, verifiable infrastructure:
-
-```
-+---------------------------------------------------------------------------------+
-|                       PORTFOLIO BLUEPRINTS THAT GET HIRED                       |
-+---------------------------------------------------------------------------------+
-|  Project 1: Resilient Multi-Gateway Proxy                                       |
-|             
-
-- Deploy an edge caching proxy using [Cloudflare Workers](https://workers.cloudflare.com) or [Fastly Compute](https://www.fastly.com)             |
-|             
-
-- Concurrently races requests across 5 IPFS gateways and Arweave   |
-|             
-
-- Fallback to fastest responding peer, eliminating gateway timeouts |
-|                                                                                 |
-|  Project 2: FVM Automated Deal Renewal DataDAO                                  |
-|             
-
-- Deploy a Solidity smart contract to Filecoin Calibration testnet  |
-|             
-
-- Automatically audits WindowPoSt status via Filecoin Market Actor  |
-|             
-
-- Programmatically triggers secondary storage deal if provider fails|
-|                                                                                 |
-|  Project 3: CLI Data Archiver for Arweave and IPFS                              |
-|             
-
-- Open-source Rust CLI tool that recursively parses directories     |
-|             
-
-- Derives UnixFS Merkle DAGs, estimates Arweave storage endowment   |
-|             
-
-- Publishes bundled transactions to Irys with automated unit tests  |
-+---------------------------------------------------------------------------------+
-```
-
-### Essential Developer Documentation and Community Hubs
-
-- [IPFS Documentation](https://docs.ipfs.tech): Canonical guides for CIDs, Merkle DAGs, and Kubo/Helia implementation.
-- [Arweave Developer Hub](https://cookbook.arweave.dev): The Arweave Cookbook detailing transaction bundling, GraphQL indexing, and Permaweb hosting.
-- [Filecoin Docs](https://docs.filecoin.io): Technical architecture specifications, lotus setups, and FVM smart contract tutorials.
-- [Multiformats Specification](https://multiformats.io): The foundational standard defining multihash, multicodec, and multiaddr.
-- [Filecoin GitHub Repositories](https://github.com/filecoin-project): Explore the source code of Lotus, proofs, and built-in actors.
-
----
-
-## The Horizon of Decentralized Storage Engineering
-
-As centralized cloud monopolies face increasing regulatory scrutiny and security vulnerabilities, decentralized storage is rapidly expanding:
-
-- **Decentralized AI Training Pipelines**: AI companies are leveraging Filecoin and Arweave to archive multi-terabyte model weights and training datasets, guaranteeing data provenance against synthetic poisoning attacks.
-- **Hyper-Parallel Computing over Data (Arweave AO)**: The launch of the [AO Computer](https://ao.arweave.dev) transforms Arweave from a static archival ledger into an ultra-scalable decentralized computing network, executing massive parallel processes over permanent data.
-- **Enterprise DePIN Data Ingestion**: Decentralized physical infrastructure networks, from dashcam mapping networks like [Hivemapper](https://hivemapper.com) to IoT weather stations like [WeatherXM](https://weatherxm.com), rely on decentralized storage to ingest petabytes of physical telemetry daily.
-
-Engineers who master the intersection of content-addressed networking, zero-knowledge verification proofs, erasure coding, and distributed infrastructure will build the permanent data layer of the next internet.
+The [CID specification](https://github.com/multiformats/cid) defines a CID as a self-describing identifier. It contains a version, a content codec, and a multihash. The multihash records the hash function and digest, so a client can verify retrieved bytes against the identifier it requested. Changing the bytes produces a different hash and therefore a different CID.
+
+That verification property does not say that anyone is storing the bytes. A CID can remain valid even when no reachable peer has the content. Treat content addressing as an integrity mechanism and a naming system, not as a retention policy.
+
+IPFS typically represents a file through [UnixFS](https://specs.ipfs.tech/unixfs/). UnixFS splits data into blocks and links them in a Merkle directed acyclic graph. The root CID commits to the graph, while links identify child blocks. A client can verify each retrieved block and the links that connect it to the root. This structure supports large files and directories without requiring a single object to contain all data.
+
+CID version matters in web integrations. [CIDv0 and CIDv1](https://docs.ipfs.tech/concepts/content-addressing/#cid-versions) have different encodings and constraints. CIDv1 in base32 works in subdomain gateway URLs, such as `https://<cid>.ipfs.gateway.example`, where browser origin isolation is useful. Store CIDs as opaque strings. Do not assume a fixed prefix, hash algorithm, or length.
+
+## Availability and retrieval
+
+An IPFS node that has a block can announce itself as a provider. Clients discover providers through routing systems such as the [Kademlia DHT](https://docs.libp2p.io/concepts/fundamentals/dht/), then request blocks using protocols such as [Bitswap](https://docs.ipfs.tech/concepts/bitswap/). Discovery can be slow or fail when providers are offline, not connected to the public network, or have stopped advertising the content.
+
+Pinning addresses the most common availability mistake. A pin tells an IPFS node to retain a block and its linked content rather than allowing local garbage collection. The [IPFS pinning documentation](https://docs.ipfs.tech/how-to/pin-files/) is explicit that a pin affects the node or pinning service holding it. It does not create a network-wide replication guarantee. For important content, use more than one independently operated pinning or storage target and verify each copy after upload.
+
+HTTP gateways make IPFS content accessible to browsers and applications that do not run IPFS nodes. A gateway is still an operator-controlled service. The [IPFS gateway guide](https://docs.ipfs.tech/concepts/ipfs-gateway/) recommends using a dedicated gateway for production applications and describes the security differences between path, subdomain, and DNSLink gateways. A gateway timeout means that gateway could not serve the content at that moment. It does not establish whether the content has been lost.
+
+Build retrieval as a monitored path. Record the root CID, content type, size, upload time, and the destinations that accepted the data. Regularly fetch the content through each intended route, recompute the hash or validate the CID, and alert on failures. Keep a conventional backup when recovery time or legal retention requirements are strict. A distributed storage protocol is not a substitute for a tested restore procedure.
+
+## IPFS and Filecoin
+
+IPFS is a peer-to-peer content network. It gives applications a way to exchange and verify addressed blocks, but it does not pay nodes to keep a particular CID. It fits public assets, software artifacts, NFT metadata, and datasets when the publisher has a separate plan for replication or pinning.
+
+Filecoin extends this model with storage providers, on-chain deals, and proofs. According to the [Filecoin documentation](https://docs.filecoin.io/basics/how-storage-works/), a client proposes a deal to a storage provider. The provider seals the data, and the network verifies continued storage with Proof of Spacetime. A deal has a defined term. It is not permanent, and applications must track its expiration and arrange renewal or a new deal.
+
+The distinction changes an integration design. Use IPFS when a CID and retrieval from multiple peers are the main requirements. Add Filecoin when the application needs a verifiable, time-bounded storage commitment. Do not assume that an IPFS pin is automatically a Filecoin deal or that a Filecoin deal automatically supplies a fast public HTTP retrieval path. Confirm what a chosen provider offers for ingestion, retrieval, replication, and deal renewal.
+
+Filecoin's proofs show that a provider committed capacity to sealed data over time. They do not validate that an application used the correct encryption key, recorded correct metadata, or preserved every off-chain index needed to locate the data. Keep the mapping between application records and piece or deal identifiers in a database that is backed up and access-controlled.
+
+## Arweave
+
+Arweave takes a different economic approach. Its [protocol overview](https://docs.arweave.org/developers/architecture) describes a blockweave that links blocks to prior data and uses Succinct Proofs of Random Access, or SPoRA. Storage nodes are incentivized to retain historical data because block production requires access to a randomly selected recall range.
+
+Users pay an upfront fee to submit data. Arweave describes the resulting storage endowment in its [permaweb documentation](https://docs.arweave.org/developers/intro). That is a protocol design claim, not a service-level agreement for a particular application's records. A team with contractual retention duties should define its own copies, integrity checks, and recovery procedures instead of treating any network's economic model as a legal guarantee.
+
+Arweave transactions can carry tags that help applications classify and query content. Tags are public metadata. Do not place user identifiers, access tokens, plaintext filenames, or other sensitive information in them. Before selecting Arweave, decide whether data must ever be deleted or corrected. Immutable public storage is a poor fit for personal data that may be subject to erasure, rectification, or access restrictions.
+
+## Storj and erasure coding
+
+Storj exposes an object-storage interface while distributing encrypted pieces across storage nodes. Its [security documentation](https://docs.storj.io/dcs/concepts/security) describes client-side encryption and erasure coding. An uploaded object is encrypted before pieces are distributed. The system can reconstruct an object from a threshold number of pieces, so some node failures do not make the object unavailable.
+
+Erasure coding is different from full replication. Replication stores several complete copies. Erasure coding divides encoded data into pieces and requires a threshold to reconstruct the original. The choice trades extra CPU work and coordination for lower storage overhead than keeping many complete copies. It is useful for object storage where applications need an S3-compatible workflow and availability across independent operators.
+
+Client-side encryption only protects data when key management is sound. The storage provider cannot recover a lost encryption key, and a leaked client key defeats the confidentiality benefit. Use a managed key service or envelope encryption scheme appropriate to the threat model. Store key identifiers and rotation state separately from the encrypted object, and test recovery with a non-production key before relying on the design.
+
+## Encryption and metadata
+
+Content addressing can expose equality. If two people add identical unencrypted bytes to a content-addressed system, the resulting identifier can be the same. That can reveal that a known public file is present. Encrypt data before generating a CID when the content itself is sensitive.
+
+Encryption changes deduplication and verification behavior. Randomized encryption produces different ciphertext for the same plaintext, so it normally produces different CIDs. That is often the safer default for private records. Deterministic encryption can support equality checks but needs a careful security review because it reveals repeated plaintexts.
+
+Separate encrypted content from metadata that grants access to it. A practical record can contain a CID or object key, an encryption algorithm, a key identifier, content type, byte length, and a version. Avoid putting secrets in URLs, transaction tags, logs, or public smart-contract state. A CID proves the identity of ciphertext, not the identity or authorization of the person who uploaded it.
+
+For mutable application records, publish a new immutable object for each version and keep a signed, access-controlled pointer to the current version. The pointer may live in a database, registry contract, or signed document depending on the application. The design must define who can update it, how conflicts are resolved, and how clients verify the pointer's signature.
+
+## Integration decisions
+
+Choose the storage path from the data requirement rather than protocol branding.
+
+- Use IPFS plus independent pins for public, immutable assets where a CID is the application reference and fast gateway access matters.
+- Add a Filecoin deal for data that needs a verifiable storage commitment for a specified term. Monitor deal state and renew before expiry.
+- Use Arweave only for content that is suitable for public, long-lived immutability and does not require deletion.
+- Use Storj for encrypted object storage when an S3-compatible API and erasure-coded distribution fit the application.
+- Keep at least one restore-tested copy outside the selected network for data with a defined recovery objective.
+
+For a web application, upload first, wait for the storage destination's success response, then verify a read of the stored bytes before publishing the reference. Persist the reference and encryption metadata in a transactional application record. If an upload succeeds in one destination and fails in another, mark the record incomplete and retry idempotently. Do not show a CID to users as proof of availability until the planned replicas or deals have been confirmed.
+
+Set explicit limits for file size, upload duration, retry count, and retrieval time. Validate MIME types and byte limits before upload. Stream large uploads rather than loading them entirely into memory. Log destination status and non-sensitive identifiers, but never log private keys, decrypted payloads, or presigned URLs.
+
+Operational ownership remains necessary after integration. Track billing or token balances, provider account access, node health, gateway error rates, pin status, Filecoin deal end dates, and key rotation. Test a retrieval outage by disabling the preferred gateway or storage provider in a staging environment. The result should show whether the application can use a secondary route, whether CID verification still occurs, and whether users receive an accurate error when no verified copy is available.

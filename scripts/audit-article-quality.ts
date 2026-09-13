@@ -144,7 +144,10 @@ for (const file of articleFiles) {
     articleIssues.push('ASCII diagram block');
   }
 
-  const proseContent = content.replace(/```[\s\S]*?```/g, ' ');
+  const proseContent = content
+    .replace(/```[\s\S]*?```/g, ' ')
+    // Audit visible prose, not legitimate product names inside link destinations.
+    .replace(/\]\([^)]*\)/g, ']');
   const matchedPatterns = editorialPatterns
     .filter((pattern) => {
       pattern.lastIndex = 0;
