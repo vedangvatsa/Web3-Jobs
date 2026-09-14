@@ -85,7 +85,7 @@ function Cite({ href, children }: { href: string; children: React.ReactNode }) {
 export default function Web3HiringReport() {
  return (
   <div className="h-screen overflow-y-auto bg-[#fafafa] dark:bg-black selection:bg-zinc-200 dark:selection:bg-zinc-800 transition-colors duration-200 flex flex-col">
-      <main id="main-content" className="site-container px-6 py-16 md:py-20 pb-20 flex-1">
+      <main id="main-content" className="site-container py-16 md:py-20 pb-20 flex-1">
 
     {/* HERO */}
     <div className="mb-20">

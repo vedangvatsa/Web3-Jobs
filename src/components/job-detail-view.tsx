@@ -292,7 +292,7 @@ export function JobDetailView({
   };
 
   return (
-    <article className="site-container px-4 py-10 sm:py-14" data-job-page>
+    <article className="site-container py-10 sm:py-14" data-job-page>
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jobPostingSchema) }}

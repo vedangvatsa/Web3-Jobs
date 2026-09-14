@@ -434,7 +434,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
 
         <div className="flex flex-col min-h-screen bg-background text-foreground">
           <main className="flex-1 pb-16" data-event-page>
-            <article className="site-container px-4 py-10 sm:py-14">
+            <article className="site-container py-10 sm:py-14">
               <DetailPageHeader
                 breadcrumbs={[{ href: '/', label: 'Home' }, { href: '/events', label: 'Events' }]}
                 icon={
