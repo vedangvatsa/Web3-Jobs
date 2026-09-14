@@ -20,9 +20,12 @@ export function ArticleContent({ content, className }: { content: string; classN
         "prose-ul:my-5 prose-ol:my-5",
         // Strong
         "prose-strong:text-foreground prose-strong:font-semibold",
-        // Code
-        "prose-code:text-xs prose-code:sm:text-sm prose-code:bg-muted/70 prose-code:px-1.5 prose-code:py-0.5 prose-code:rounded-md prose-code:font-mono prose-code:text-foreground",
-        "prose-pre:bg-muted/40 prose-pre:border prose-pre:border-border/70 prose-pre:rounded-xl prose-pre:p-4 prose-pre:sm:p-6 prose-pre:overflow-x-auto prose-pre:font-mono prose-pre:text-xs prose-pre:sm:text-sm prose-pre:leading-relaxed prose-pre:my-8",
+        // Inline code only. Padding on `code` inside `pre` is an inline box,
+        // which indents the first line of a fence and leaves the rest flush left.
+        "[&_:not(pre)>code]:text-xs [&_:not(pre)>code]:sm:text-sm [&_:not(pre)>code]:bg-muted/70 [&_:not(pre)>code]:px-1.5 [&_:not(pre)>code]:py-0.5 [&_:not(pre)>code]:rounded-md [&_:not(pre)>code]:font-mono [&_:not(pre)>code]:text-foreground",
+        "prose-code:before:content-none prose-code:after:content-none",
+        "[&_pre_code]:block [&_pre_code]:bg-transparent [&_pre_code]:p-0 [&_pre_code]:rounded-none",
+        "prose-pre:bg-muted/40 prose-pre:border prose-pre:border-border/70 prose-pre:rounded-xl prose-pre:p-4 prose-pre:sm:p-6 prose-pre:overflow-x-auto prose-pre:font-mono prose-pre:text-xs prose-pre:sm:text-sm prose-pre:leading-snug prose-pre:my-8",
         // Blockquote
         "prose-blockquote:border-l-2 prose-blockquote:border-primary prose-blockquote:pl-5 prose-blockquote:py-1.5 prose-blockquote:my-6 prose-blockquote:not-italic prose-blockquote:text-foreground/90 prose-blockquote:bg-muted/20 prose-blockquote:rounded-r-lg",
         // Tables
