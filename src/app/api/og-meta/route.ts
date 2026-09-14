@@ -1,6 +1,8 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { buildUniqueJobMetaDescription, resolveJobSlug } from '@/lib/job-guides';
-import { buildJobOgImageUrl, SITE_URL } from '@/lib/job-og';
+import { buildJobOgImageUrl, buildEventOgImageUrl, SITE_URL } from '@/lib/job-og';
+import { getEventBySlug } from '@/lib/events-server';
+import { getEventSlug, formatEventDate } from '@/lib/events';
 
 export const runtime = 'nodejs';
 
@@ -242,11 +244,29 @@ async function resolveMetadata(path: string): Promise<PageMeta> {
     return { ...meta, canonicalUrl };
   }
 
-  // Root-level job slugs are the URLs used by the social poster. Resolve the
-  // actual record so a crawler never receives a generic image for a job URL.
+  // Root-level job or event slugs (URLs used by the social poster / shares).
   if (/^\/[^/]+$/.test(path)) {
-    const jobMeta = await resolveJobMetadata(path.slice(1));
+    const slug = path.slice(1);
+    const jobMeta = await resolveJobMetadata(slug);
     if (jobMeta) return jobMeta;
+
+    try {
+      const event = await getEventBySlug(slug);
+      if (event) {
+        const eventSlug = getEventSlug(event);
+        const formattedDate = formatEventDate(event.startDate, event.endDate);
+        const title = `${event.name} - Dates, Venue & Registration`;
+        const description = `${event.name} scheduled for ${formattedDate} in ${event.location}. Explore event agenda, venue guide, and official registration links.`;
+        return {
+          title,
+          description,
+          ogImageUrl: buildEventOgImageUrl(event, SITE_URL),
+          canonicalUrl: `${SITE_URL}/${eventSlug}`,
+        };
+      }
+    } catch {
+      // Event lookup failures must not break other page previews.
+    }
   }
 
   // Fallback

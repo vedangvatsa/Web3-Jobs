@@ -1,6 +1,6 @@
 import { NextResponse } from 'next/server';
 import { getEvents } from '@/lib/events-server';
-import { getEventSlug } from '@/lib/events';
+import { formatEventLocation, getEventSlug } from '@/lib/events';
 
 export const revalidate = 3600;
 
@@ -31,7 +31,7 @@ function feedDescription(event: { description: string; city?: string; country?: 
     .replace(/https?:\/\/[^\s<>'"]+/gi, '')
     .replace(/\s+/g, ' ')
     .trim();
-  const place = [event.location, event.city, event.country].filter(Boolean).join(', ');
+  const place = formatEventLocation(event);
   return [place ? `Location: ${place}` : '', description].filter(Boolean).join('\n\n');
 }
 

@@ -2,7 +2,7 @@ import fs from 'fs';
 import path from 'path';
 import dotenv from 'dotenv';
 import { getEvents } from '../src/lib/events-server';
-import { formatEventDate, getEventSlug } from '../src/lib/events';
+import { formatEventDate, formatEventLocation, getEventSlug } from '../src/lib/events';
 
 dotenv.config({ path: path.join(process.cwd(), '.env.local') });
 
@@ -60,7 +60,7 @@ async function main() {
 
   const [event] = selected;
   const url = `https://hashtagweb3.com/${getEventSlug(event)}?utm_source=telegram&utm_medium=social&utm_campaign=event_post`;
-  const message = `<a href="${url}"><b>${escapeHtml(event.name)}</b></a>\n${escapeHtml(formatEventDate(event.startDate, event.endDate))} · ${escapeHtml(event.location)}`;
+  const message = `<a href="${url}"><b>${escapeHtml(event.name)}</b></a>\n${escapeHtml(formatEventDate(event.startDate, event.endDate))} · ${escapeHtml(formatEventLocation(event))}`;
 
   if (dryRun) {
     console.log(message.replace(/<[^>]+>/g, ''));

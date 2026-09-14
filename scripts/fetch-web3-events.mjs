@@ -314,7 +314,14 @@ async function fetchLumaByCity(city) {
           endDate: e.end_at,
           city: geo.city || '',
           country: geo.country || '',
-          location: geo.city && geo.country ? `${geo.city}, ${geo.country}` : geo.city || geo.country || (e.location_type === 'online' ? 'Online' : 'TBA'),
+          location: (() => {
+            const city = (geo.city || '').trim();
+            const country = (geo.country || '').trim();
+            if (!city) return country || (e.location_type === 'online' ? 'Online' : 'TBA');
+            if (!country) return city;
+            if (city.toLowerCase().includes(country.toLowerCase())) return city;
+            return `${city}, ${country}`;
+          })(),
           url: `https://lu.ma/${e.url || e.api_id}`,
           coverImage: e.cover_url || e.social_image_url || null,
           source: 'luma',
@@ -447,7 +454,14 @@ async function fetchLumaCommunity(slug) {
               endDate: obj.end_at || '',
               city: geo.city || '',
               country: geo.country || '',
-              location: [geo.city, geo.country].filter(Boolean).join(', ') || (obj.location_type === 'online' ? 'Online' : 'TBA'),
+              location: (() => {
+                const city = (geo.city || '').trim();
+                const country = (geo.country || '').trim();
+                if (!city) return country || (obj.location_type === 'online' ? 'Online' : 'TBA');
+                if (!country) return city;
+                if (city.toLowerCase().includes(country.toLowerCase())) return city;
+                return `${city}, ${country}`;
+              })(),
               url: `https://lu.ma/${obj.url || obj.api_id}`,
               coverImage: obj.cover_url || obj.social_image_url || null,
               source: 'luma-trusted',
@@ -718,7 +732,14 @@ async function fetchMarketAcross() {
               startDate: new Date(item.start_date).toISOString(),
               endDate: item.end_date ? new Date(item.end_date).toISOString() : new Date(item.start_date).toISOString(),
               city: item.location || '', country: item.country || '',
-              location: item.location && item.country ? `${item.location}, ${item.country}` : item.location || item.country || 'TBA',
+              location: (() => {
+                const city = (item.location || '').trim();
+                const country = (item.country || '').trim();
+                if (!city) return country || 'TBA';
+                if (!country) return city;
+                if (city.toLowerCase().includes(country.toLowerCase())) return city;
+                return `${city}, ${country}`;
+              })(),
               url: item.url || '', coverImage: null, source: 'marketacross',
             });
           }
@@ -753,9 +774,14 @@ async function fetchMarketAcross() {
         endDate,
         city: item.location || '',
         country: item.country || '',
-        location: item.location && item.country
-          ? `${item.location}, ${item.country}`
-          : item.location || item.country || 'TBA',
+        location: (() => {
+          const city = (item.location || '').trim();
+          const country = (item.country || '').trim();
+          if (!city) return country || 'TBA';
+          if (!country) return city;
+          if (city.toLowerCase().includes(country.toLowerCase())) return city;
+          return `${city}, ${country}`;
+        })(),
         url: item.url || '',
         coverImage: (item.img && !item.img.includes('placeholder')) ? item.img : null,
         source: 'marketacross',
