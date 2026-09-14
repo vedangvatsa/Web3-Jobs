@@ -16,7 +16,7 @@ import {
 } from './job-description-shards';
 
 export { getJobSlug, getOneWordRole } from './job-slugs';
-import { getJobContentKey, getJobSlug, getCompanySlug, normalizeJobLink } from './job-slugs';
+import { getJobContentKey, getJobSlug, getCompanySlug, getOneWordRole, normalizeJobLink } from './job-slugs';
 
 const DESCRIPTIONS_SHARDS_PATH = path.join(process.cwd(), 'content', JOB_DESCRIPTION_SHARDS_DIRECTORY);
 const LEGACY_ARCHIVE_PATH = path.join(process.cwd(), 'content/legacy-slugs-archive.json');
@@ -624,23 +624,33 @@ export async function resolveJobSlug(slug: string): Promise<JobSlugResolution> {
 
   // 2. Short ID fallback: match trailing digits (e.g. "64006" in "role64006" or "engineer64006")
   // or trailing hex snippet (e.g. "85bda" in "marketing85bda")
-  // Only applies to single-token short slugs (no hyphens) with at least 4 digits or 5-char hex
+  // Only applies to single-token short slugs (no hyphens) with at least 4 digits or 5-char hex.
+  // The alphabetic prefix MUST match the job's role/slug prefix — otherwise
+  // /token2049 falsely matched any job whose id ended in "2049".
   if (!cleanSlug.includes('-')) {
+    let prefix: string | null = null;
     let trailingSnippet: string | null = null;
-    const digitMatch = cleanSlug.match(/^[a-z]+(\d{4,})$/);
+    const digitMatch = cleanSlug.match(/^([a-z]+)(\d{4,})$/);
     if (digitMatch) {
-      trailingSnippet = digitMatch[1];
+      prefix = digitMatch[1];
+      trailingSnippet = digitMatch[2];
     } else {
-      const hexMatch = cleanSlug.match(/^[a-z]+([a-f0-9]{5})$/);
-      if (hexMatch && /\d/.test(hexMatch[1])) {
-        trailingSnippet = hexMatch[1];
+      const hexMatch = cleanSlug.match(/^([a-z]+)([a-f0-9]{5})$/);
+      if (hexMatch && /\d/.test(hexMatch[2])) {
+        prefix = hexMatch[1];
+        trailingSnippet = hexMatch[2];
       }
     }
 
-    if (trailingSnippet) {
+    if (prefix && trailingSnippet) {
       const matchByShortId = allJobs.find((job) => {
         const cleanId = (job.id || '').replace(/[^a-z0-9]/gi, '').toLowerCase();
-        return cleanId.endsWith(trailingSnippet!);
+        if (!cleanId.endsWith(trailingSnippet!)) return false;
+        const canonical = getJobSlug(job).toLowerCase();
+        if (canonical === cleanSlug) return true;
+        if (!canonical.startsWith(prefix!)) return false;
+        const role = getOneWordRole(job.title || '').toLowerCase();
+        return role === prefix || canonical.slice(0, -trailingSnippet!.length) === prefix;
       });
       if (matchByShortId) return asExact(matchByShortId);
     }
@@ -665,21 +675,24 @@ export async function resolveJobSlug(slug: string): Promise<JobSlugResolution> {
     const prefix = cleanSlug.slice(0, dashIdx);
     const suffixPart = cleanSlug.slice(dashIdx + 1);
 
-    // 5a. Match jobs whose stored slug or ID has the full legacy prefix.
-    // Do not match arbitrary substrings: /eth-taipei previously matched the
-    // "eth" inside an unrelated job's "methodology" identifier.
+    // 5a. Match jobs whose stored/canonical slug has the full legacy prefix.
+    // Require an exact prefix token (`trader` or `trader-...`), never a bare
+    // string prefix (`crypto` must not match `cryptography293da`).
     const matchByPrefix = allJobs.find((job) => {
       const s = (job.slug || '').toLowerCase();
-      const id = (job.id || '').toLowerCase();
-      return (s && s.startsWith(`${prefix}-`))
-        || id.startsWith(`${prefix}-`)
-        || id.includes(`-${prefix}-`);
+      const canonical = getJobSlug(job).toLowerCase();
+      return s.startsWith(`${prefix}-`) || canonical.startsWith(`${prefix}-`);
     });
       if (matchByPrefix) return asFallback(matchByPrefix);
 
-    // 5b. Match by hash or ID suffix
+    // 5b. Match by hash or ID suffix only when the prefix also matches the job role/slug.
     if (suffixPart.length >= 4) {
       for (const job of allJobs) {
+        const canonical = getJobSlug(job).toLowerCase();
+        const role = getOneWordRole(job.title || '').toLowerCase();
+        const prefixMatches = canonical.startsWith(prefix) || role === prefix
+          || (job.slug || '').toLowerCase().startsWith(prefix);
+        if (!prefixMatches) continue;
         if (getJobContentKey(job).slice(4) === suffixPart) return asFallback(job);
         const cleanId = (job.id || '').replace(/[^a-z0-9]/gi, '').toLowerCase();
         if (cleanId.endsWith(suffixPart)) return asFallback(job);
