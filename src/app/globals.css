@@ -77,7 +77,7 @@ body {
 /* Premium editorial styling for markdown content */
 @layer components {
   .site-container {
-    @apply max-w-6xl mx-auto w-full;
+    @apply max-w-6xl mx-auto w-full px-4 sm:px-6;
   }
 
   .page-section {

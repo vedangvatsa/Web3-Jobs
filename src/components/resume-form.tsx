@@ -263,8 +263,8 @@ export function ResumeForm() {
 
  return (
   <>
-   <div className="site-container px-4 py-6 sm:px-6">
-    <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4 border-b border-border/60 pb-6 mb-8">
+   <div className="site-container py-6">
+    <div className="flex flex-col sm:flex-row sm:items-start sm:justify-between gap-4 border-b border-border/60 pb-6 mb-8">
      <div className="min-w-0">
       <h1 className="text-2xl font-bold tracking-tight text-foreground">Resume Builder</h1>
       <p className="text-sm text-muted-foreground mt-0.5 max-w-prose">
@@ -274,7 +274,7 @@ export function ResumeForm() {
      <Button
       size="default"
       onClick={handleDownload}
-      className="shrink-0 w-full sm:w-auto"
+      className="shrink-0 self-start"
      >
       <Download className="mr-2 h-4 w-4" /> Download PDF
      </Button>
@@ -516,7 +516,7 @@ export function ResumeForm() {
      </div>
      {/* Preview Column */}
      <div className="min-w-0">
-      <div className="sticky top-[72px] overflow-x-auto">
+      <div className="lg:sticky lg:top-[72px]">
        <ResumePreview data={watchedForm as any} />
       </div>
      </div>

@@ -62,7 +62,7 @@ export async function CompanyDetailView({ slug }: { slug: string }) {
       />
       <div className="flex flex-col min-h-screen">
         <main className="flex-grow">
-          <article className="site-container px-4 py-10 sm:py-14">
+          <article className="site-container py-10 sm:py-14">
             <nav className="mb-8 flex flex-wrap gap-2 text-sm text-muted-foreground" aria-label="Breadcrumb">
               <Link href="/" className="hover:text-foreground">Home</Link>
               <span aria-hidden="true">/</span>

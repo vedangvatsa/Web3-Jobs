@@ -10,7 +10,7 @@ export function PageShell({
   containerClassName?: string;
 }) {
   return (
-    <div className={cn('container mx-auto page-section px-4', className)}>
+    <div className={cn('page-section', className)}>
       <div className={cn('site-container', containerClassName)}>{children}</div>
     </div>
   );
