@@ -1490,6 +1490,9 @@ async function main() {
   let postedSuccessCount = 0;
   const attemptedPlatforms = new Set<SocialPlatform>();
   const newlyVerifiedPlatforms = new Set<SocialPlatform>();
+  // Billing/auth failures that will not recover mid-run; do not block other
+  // platforms (LinkedIn, Facebook, etc.) from completing the job cycle.
+  const unrecoverableSkips = new Set<SocialPlatform>();
 
    if (shouldPublishPlatform('x')) {
     attemptedPlatforms.add('x');
@@ -1508,7 +1511,12 @@ async function main() {
       newlyVerifiedPlatforms.add('x');
       postedSuccessCount++;
     } catch (err) {
-      console.error(`✗ Failed to post to X:`, (err as Error).message);
+      const message = (err as Error).message;
+      console.error(`✗ Failed to post to X:`, message);
+      if (/402|credits depleted|Payment Required/i.test(message)) {
+        unrecoverableSkips.add('x');
+        console.warn('X credits depleted; continuing without X and not blocking LinkedIn/Facebook/etc. completion.');
+      }
     }
   }
 
@@ -1679,7 +1687,9 @@ async function main() {
   }
 
    const verifiedPlatforms = verifiedPlatformsForSlug(state, slug);
-   const allPlatformsSucceeded = SOCIAL_PLATFORMS.every((name) => verifiedPlatforms.has(name));
+   const isPlatformSatisfied = (name: SocialPlatform) =>
+     verifiedPlatforms.has(name) || unrecoverableSkips.has(name);
+   const allPlatformsSucceeded = SOCIAL_PLATFORMS.every(isPlatformSatisfied);
 
    const completionChanged = allPlatformsSucceeded && markSlugComplete(state, slug);
 
@@ -1690,11 +1700,12 @@ async function main() {
      console.warn(`\nNo new platform succeeded for ${slug}. State remains incomplete and will retry missing platforms.`);
   }
 
-   const missingPlatforms = requestedPlatforms.filter((name) => (
-     force && attemptedPlatforms.has(name)
+   const missingPlatforms = requestedPlatforms.filter((name) => {
+     if (unrecoverableSkips.has(name)) return false;
+     return force && attemptedPlatforms.has(name)
        ? !newlyVerifiedPlatforms.has(name)
-       : !verifiedPlatforms.has(name)
-   ));
+       : !verifiedPlatforms.has(name);
+   });
    if (missingPlatforms.length > 0) {
      if (postedSuccessCount === 0) {
        throw new Error(`Incomplete social publish for ${slug}; awaiting verified posts on: ${missingPlatforms.join(', ')}`);
