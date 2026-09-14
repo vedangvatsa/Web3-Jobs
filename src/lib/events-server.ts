@@ -51,6 +51,7 @@ const BLOCKED_EVENT_IDS = new Set([
   'side-denver-solana-coworking-hub',
   'side-ethdenver-buidl-afterparty-2027',
   'premier-enugu',
+  'premier-das-africa-2026', // Official site redirect-only; published dates conflict (16–17 vs 29–30 Sep 2026).
   'premier-bitcoinberlin',
   'side-desci-singapore-summit-2026',
   'side-sg-arbitrum-stylus-hacker-house',
