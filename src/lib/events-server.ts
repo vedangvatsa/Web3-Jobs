@@ -16,7 +16,6 @@ const BLOCKED_EVENT_IDS = new Set([
   'premier-ethkl-2026', // Organizer has not announced a 2026 edition.
   'premier-ethlisbon-2026', // Organizer has not announced a 2026 edition.
   'premier-smartcon-2026', // Organizer has not announced a 2026 edition.
-  'premier-pbw-2027', // Paris Blockchain Week has been replaced by Signal Week.
   'premier-permissionless-2026', // Official last edition was Permissionless IV (Jun 24–26 2025); no 2026 dates announced.
   'premier-ethindia-2026', // ethindia.co only lists ended ETHIndiaVilla Nov 2025; no Dec 2026 edition announced.
   // Fabricated / unverifiable curated side events (generic parent homepage only, or city mismatch).
@@ -473,6 +472,17 @@ export async function getEventBySlug(slug: string): Promise<Web3Event | null> {
   // 1. Try exact slug match with current clean generator
   let found = events.find(e => getEventSlug(e) === normalized);
   if (found) return found;
+
+  // Renamed premier events keep old root URLs working.
+  const LEGACY_SLUG_ALIASES: Record<string, string> = {
+    pbw: 'signal-week',
+    'paris-blockchain-week': 'signal-week',
+  };
+  const aliased = LEGACY_SLUG_ALIASES[normalized];
+  if (aliased) {
+    found = events.find(e => getEventSlug(e) === aliased);
+    if (found) return found;
+  }
 
   // Existing event links used descriptive root slugs before abbreviations.
   // Only redirect an old URL when it identifies exactly one current event.

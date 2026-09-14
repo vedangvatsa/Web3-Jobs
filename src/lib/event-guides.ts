@@ -980,37 +980,45 @@ export const EVENT_GUIDES: Record<string, EventEditorialArticle> = {
     ],
   },
 
-  pbw: {
+  'signal-week': {
     summaryLead:
-      "Paris Blockchain Week convenes at the Carrousel du Louvre in Paris, serving as Europe's premier gathering for digital assets, enterprise blockchain infrastructure, and Web3 regulation. Drawing over 10,000 attendees, senior institutional executives, regulators, and startup founders, the conference occupies one of the world's most recognizable cultural landmarks for three days of high-signal keynotes, panels, and networking.",
-    expectedAttendance: "10,000+ attendees from 80+ countries",
+      "Signal Week succeeds Paris Blockchain Week as Europe's institutional digital-assets forum, convening July 6–7, 2027 at the Palais des Congrès in Paris. Expect regulators, banks, funds, and builders focused on MiCA-era markets, custody, and tokenization.",
+    expectedAttendance: "Institutional and industry attendees across Europe",
     sections: [
       {
-        heading: "The Louvre setting and venue logistics",
+        heading: "From Paris Blockchain Week to Signal Week",
         content: [
-          "The Carrousel du Louvre sits directly beneath the iconic glass pyramid in Paris's 1st arrondissement, creating an extraordinary backdrop for enterprise and institutional conversations. The venue is fully enclosed and directly connected to the Palais Royal-Musée du Louvre metro station (Lines 1 and 7), making commuting effortless from anywhere in central Paris.",
-          "Because space inside the historical exhibition halls is strictly managed, keynotes and masterclasses fill quickly. Arriving early for marquee panels on the Master Stage is essential. Official accreditation checks are rigorous; carry government photo ID matching your registration name every day.",
+          "After seven editions as Paris Blockchain Week, the organizers repositioned the franchise as Signal Week for 2027, keeping Paris as the hub while expanding the venue to the Palais des Congrès.",
+          "Use the official Signal Week site for tickets and schedules; older parisblockchainweek.com pages redirect attention to the 2027 Signal Week dates.",
         ],
       },
       {
-        heading: "European policy and MiCA in practice",
+        heading: "Venue and timing",
         content: [
-          "With the European Union's Markets in Crypto-Assets (MiCA) regulation establishing binding rules across all 27 member states, Paris Blockchain Week has become the focal point for regulatory and institutional dialogue. French financial regulator AMF, the European Banking Authority (EBA), and European central bankers regularly present operational guidelines on CASP licensing, stablecoin reserve requirements, and asset tokenization frameworks.",
-          "For international teams looking to enter the European Single Market legally, Paris is where compliance heads, qualified custodians, and licensed European banks congregate to negotiate distribution and banking rails.",
+          "Palais des Congrès de Paris (Porte Maillot) hosts the two-day conference on July 6–7, 2027. Plan for metro Line 1 access and typical Paris July crowds around major congress weeks.",
+          "Carry government photo ID matching your registration name; institutional accreditation lines can move slowly at opening.",
         ],
       },
       {
-        heading: "Institutional capital and venture tracks",
+        heading: "What the room optimizes for",
         content: [
-          "Unlike developer-only hackathons, Paris Blockchain Week attracts deep institutional capital: sovereign wealth representatives, European venture capital funds, family offices, and corporate innovation arms from luxury, aerospace, and banking sectors. Tracks span digital asset custody, real-world asset (RWA) tokenization, decentralized finance (DeFi) compliance, and artificial intelligence intersections.",
-          "Deal flow rooms and dedicated VIP investor lounges host curated pitch sessions. Founders who arrive with audited contracts, clear regulatory classifications, and institutional-grade financial modeling gain significant traction.",
+          "Tracks lean institutional: MiCA compliance, custody, RWA tokenization, and enterprise blockchain deployment rather than pure hackathon building.",
+          "Side events and dinners still cluster across central Paris during the week—treat Signal Week as the anchor and verify each satellite listing independently.",
         ],
       },
+    ],
+  },
+  // Legacy slug alias for older /pbw links while the live page is signal-week.
+  pbw: {
+    summaryLead:
+      "Signal Week succeeds Paris Blockchain Week as Europe's institutional digital-assets forum, convening July 6–7, 2027 at the Palais des Congrès in Paris. Expect regulators, banks, funds, and builders focused on MiCA-era markets, custody, and tokenization.",
+    expectedAttendance: "Institutional and industry attendees across Europe",
+    sections: [
       {
-        heading: "Paris Web3 side events and evening network",
+        heading: "From Paris Blockchain Week to Signal Week",
         content: [
-          "During Paris Blockchain Week, side events take over rooftop lounges, historical salons, and art galleries across Le Marais, Saint-Germain-des-Prés, and the Champs-Élysées. French tech collectives and global protocols host demo nights, hacker meetups, and investor dinners throughout the week.",
-          "Late-night transit on the Paris Metro operates until approximately 1:15 AM on weekdays and 2:15 AM on weekends. English is widely spoken throughout conference tracks and official side events.",
+          "After seven editions as Paris Blockchain Week, the organizers repositioned the franchise as Signal Week for 2027, keeping Paris as the hub while expanding the venue to the Palais des Congrès.",
+          "Use the official Signal Week site for tickets and schedules; older parisblockchainweek.com pages redirect attention to the 2027 Signal Week dates.",
         ],
       },
     ],
