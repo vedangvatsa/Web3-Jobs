@@ -1,5 +1,5 @@
 {
-  "lastIndex": 180,
+  "lastIndex": 182,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -54,7 +54,8 @@
     "manager9dd0f",
     "sales202",
     "analystb44ed",
-    "marketingddc52"
+    "marketingddc52",
+    "analyst56101"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -3062,6 +3063,72 @@
       "platform": "instagram",
       "postedAt": "2026-09-14T12:02:18.511Z",
       "postId": "17968011321173524",
+      "verification": "verified"
+    },
+    {
+      "slug": "analyst56101",
+      "company": "BVNK",
+      "title": "Ongoing Monitoring Analyst",
+      "platform": "x",
+      "postedAt": "2026-09-14T14:14:52.093Z",
+      "postId": "2099502142142951524",
+      "verification": "verified"
+    },
+    {
+      "slug": "analyst56101",
+      "company": "BVNK",
+      "title": "Ongoing Monitoring Analyst",
+      "platform": "threads",
+      "postedAt": "2026-09-14T14:14:52.093Z",
+      "postId": "17970017475007113",
+      "verification": "verified",
+      "expectedText": "BVNK is hiring Ongoing Monitoring Analyst: https://hashtagweb3.com/analyst56101/th?og=2",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DdRU54wm4S3",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "analyst56101",
+      "company": "BVNK",
+      "title": "Ongoing Monitoring Analyst",
+      "platform": "bluesky",
+      "postedAt": "2026-09-14T14:14:52.093Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mvicc2sm2v2i",
+      "verification": "verified"
+    },
+    {
+      "slug": "analyst56101",
+      "company": "BVNK",
+      "title": "Ongoing Monitoring Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-14T14:14:52.093Z",
+      "postId": "0x2adf0ab00eb8a87b6df22b51665d9d80bda3a555",
+      "verification": "verified"
+    },
+    {
+      "slug": "analyst56101",
+      "company": "BVNK",
+      "title": "Ongoing Monitoring Analyst",
+      "platform": "linkedin",
+      "postedAt": "2026-09-14T14:14:52.093Z",
+      "postId": "6aa80173dde457acdb074a59",
+      "verification": "verified"
+    },
+    {
+      "slug": "analyst56101",
+      "company": "BVNK",
+      "title": "Ongoing Monitoring Analyst",
+      "platform": "facebook",
+      "postedAt": "2026-09-14T14:14:52.093Z",
+      "postId": "691827047618629_1088234350450466",
+      "verification": "verified"
+    },
+    {
+      "slug": "analyst56101",
+      "company": "BVNK",
+      "title": "Ongoing Monitoring Analyst",
+      "platform": "instagram",
+      "postedAt": "2026-09-14T14:14:52.093Z",
+      "postId": "17870085762649795",
       "verification": "verified"
     }
   ]
