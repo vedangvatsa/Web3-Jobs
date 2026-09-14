@@ -142,7 +142,7 @@
   {
     "id": "mu-315962971",
     "name": "Maryland Blockchain Association & CryptoMondays Virtual Meetup",
-    "description": "Meet at Harbor Social at the National Harbor during Stablecon Conference on Thursday, September 10th.\n\nThis monthly meeting is hosted by Maryland Blockchain Association, Blockchain Legal Institute, an",
+    "description": "",
     "startDate": "2026-09-10T16:00:00-04:00",
     "endDate": "2026-09-10T16:00:00-04:00",
     "city": "",
@@ -1130,10 +1130,10 @@
   {
     "id": "ma-ethglobal-tokyo-2026",
     "name": "ETHGlobal Tokyo 2026",
-    "description": "Come build our decentralized future ETHGlobal hackathons enable you to experiment with cutting edge web3 technologies and develop an idea you're passionate about. This is your opportunity to learn abo",
-    "startDate": "2026-09-25T00:00:00.000Z",
-    "endDate": "2026-09-25T00:00:00.000Z",
-    "city": "Tokyo, Japan",
+    "description": "ETHGlobal's Tokyo hackathon bringing together Asia-Pacific Ethereum developers for a weekend of building and shipping.",
+    "startDate": "2026-09-25T09:00:00.000Z",
+    "endDate": "2026-09-27T18:00:00.000Z",
+    "city": "Tokyo",
     "country": "Japan",
     "location": "Tokyo, Japan",
     "url": "https://ethglobal.com/events/tokyo2026",
