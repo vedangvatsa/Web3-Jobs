@@ -92,6 +92,53 @@ export function normalizeCountry(raw?: string): string {
   return raw.trim();
 }
 
+/** Collapse repeated place segments like "London, United Kingdom, London, United Kingdom". */
+export function dedupeEventLocation(location: string): string {
+  const parts = location
+    .split(',')
+    .map((part) => part.trim())
+    .filter(Boolean);
+  if (parts.length < 2) return location.trim();
+
+  const withoutConsecutive = parts.filter((part, index) => index === 0 || part.toLowerCase() !== parts[index - 1].toLowerCase());
+  if (withoutConsecutive.length >= 2 && withoutConsecutive.length % 2 === 0) {
+    const half = withoutConsecutive.length / 2;
+    const left = withoutConsecutive.slice(0, half);
+    const right = withoutConsecutive.slice(half);
+    if (left.join(', ').toLowerCase() === right.join(', ').toLowerCase()) {
+      return left.join(', ');
+    }
+  }
+
+  // "Santa Clara, CA, Santa Clara, United States" → "Santa Clara, CA, United States"
+  if (withoutConsecutive.length === 4 && withoutConsecutive[0].toLowerCase() === withoutConsecutive[2].toLowerCase()) {
+    return [withoutConsecutive[0], withoutConsecutive[1], withoutConsecutive[3]].join(', ');
+  }
+
+  return withoutConsecutive.join(', ');
+}
+
+/** Prefer a clean city/country pair when location is missing or duplicated. */
+export function formatEventLocation(
+  event: Pick<Web3Event, 'location' | 'city' | 'country'>,
+): string {
+  const city = (event.city || '').trim();
+  const country = normalizeCountry(event.country);
+  const preferred = city && country && !city.includes(',') ? `${city}, ${country}` : '';
+  const raw = (event.location || '').trim();
+  const deduped = raw ? dedupeEventLocation(raw) : '';
+
+  if (preferred) {
+    if (!deduped || deduped.toLowerCase() === `${preferred}, ${preferred}`.toLowerCase()) {
+      return preferred;
+    }
+    const cityCount = deduped.toLowerCase().split(city.toLowerCase()).length - 1;
+    if (cityCount > 1) return preferred;
+  }
+
+  return deduped || preferred || 'Virtual / TBA';
+}
+
 export function getEventType(event: Web3Event): EventType {
   const text = `${event.name} ${event.description || ''}`.toLowerCase();
   const loc = (event.location || '').toLowerCase();

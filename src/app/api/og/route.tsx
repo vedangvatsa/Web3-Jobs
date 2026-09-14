@@ -822,6 +822,156 @@ export async function GET(request: NextRequest) {
       );
     }
 
+    // 3.65. Single event detail card (used by event page metadata)
+    if (type === 'event') {
+      const displayTitle = title.length > 90 ? `${title.slice(0, 87)}...` : title;
+      const displayLocation = (location || 'Web3 Event').length > 60
+        ? `${(location || 'Web3 Event').slice(0, 57)}...`
+        : (location || 'Web3 Event');
+      let displayDate = '';
+      if (date && date !== '2026') {
+        const parsed = new Date(date);
+        if (!Number.isNaN(parsed.getTime())) {
+          displayDate = parsed.toLocaleDateString('en-US', {
+            month: 'short',
+            day: 'numeric',
+            year: 'numeric',
+            timeZone: 'UTC',
+          });
+        } else {
+          displayDate = date;
+        }
+      }
+      const titleFontSize = displayTitle.length > 70 ? '48px' : displayTitle.length > 45 ? '56px' : '64px';
+
+      return new ImageResponse(
+        (
+          <div
+            style={{
+              ...baseContainerStyle,
+              alignItems: 'center',
+              justifyContent: 'center',
+              padding: '48px',
+            }}
+          >
+            <div
+              style={{
+                ...baseCardStyle,
+                width: '100%',
+                height: '100%',
+                padding: '56px 64px',
+                justifyContent: 'space-between',
+              }}
+            >
+              <div style={{ display: 'flex', flexDirection: 'column', gap: '20px' }}>
+                <div
+                  style={{
+                    display: 'flex',
+                    fontSize: '18px',
+                    fontWeight: 700,
+                    color: '#0284c7',
+                    letterSpacing: '2px',
+                    textTransform: 'uppercase',
+                  }}
+                >
+                  Web3 Event
+                </div>
+                <div
+                  style={{
+                    display: 'flex',
+                    fontSize: titleFontSize,
+                    fontWeight: 900,
+                    color: '#0f172a',
+                    letterSpacing: '-1.5px',
+                    lineHeight: 1.15,
+                    maxWidth: '1000px',
+                  }}
+                >
+                  {displayTitle}
+                </div>
+              </div>
+
+              <div style={{ display: 'flex', flexDirection: 'column', gap: '16px' }}>
+                <div
+                  style={{
+                    display: 'flex',
+                    flexWrap: 'wrap',
+                    gap: '12px',
+                    alignItems: 'center',
+                  }}
+                >
+                  {displayDate ? (
+                    <div
+                      style={{
+                        display: 'flex',
+                        padding: '10px 18px',
+                        borderRadius: '999px',
+                        backgroundColor: '#f1f5f9',
+                        color: '#334155',
+                        fontSize: '22px',
+                        fontWeight: 600,
+                      }}
+                    >
+                      {displayDate}
+                    </div>
+                  ) : null}
+                  <div
+                    style={{
+                      display: 'flex',
+                      padding: '10px 18px',
+                      borderRadius: '999px',
+                      backgroundColor: '#e0f2fe',
+                      color: '#0369a1',
+                      fontSize: '22px',
+                      fontWeight: 600,
+                    }}
+                  >
+                    {displayLocation}
+                  </div>
+                </div>
+                <div
+                  style={{
+                    display: 'flex',
+                    alignItems: 'center',
+                    justifyContent: 'space-between',
+                    marginTop: '8px',
+                  }}
+                >
+                  <div
+                    style={{
+                      display: 'flex',
+                      fontSize: '28px',
+                      fontWeight: 800,
+                      color: '#0f172a',
+                    }}
+                  >
+                    Hashtag Web3
+                  </div>
+                  <div
+                    style={{
+                      display: 'flex',
+                      fontSize: '22px',
+                      color: '#64748b',
+                      fontWeight: 500,
+                    }}
+                  >
+                    hashtagweb3.com/events
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        ),
+        {
+          width: 1200,
+          height: 630,
+          headers: {
+            'Cache-Control': 'public, max-age=86400, s-maxage=604800, stale-while-revalidate=86400',
+          },
+        }
+      );
+    }
+
     // 3.7. Events page template (Exact Website Hero Match)
     if (type === 'events') {
       const displayTitle = title || 'Web3 Events';

@@ -1,8 +1,10 @@
 import type { Job } from '@/types';
 import { getCompanySlug } from './job-slugs';
 import { resolveCompanyLogo } from './company-logo';
+import { formatEventLocation } from './events';
 
 export const JOB_OG_VERSION = '2';
+export const EVENT_OG_VERSION = '1';
 export const SITE_URL = 'https://hashtagweb3.com';
 
 /** Builds the single canonical OG URL for jobs. */
@@ -24,10 +26,15 @@ export function buildJobOgImageUrl(
 
 /** Builds the single canonical OG URL for events. */
 export function buildEventOgImageUrl(
-  event: { name: string; location?: string; startDate?: string },
+  event: { name: string; location?: string; city?: string; country?: string; startDate?: string },
   siteUrl = SITE_URL,
 ): string {
-  return `${siteUrl}/api/og?type=event&title=${encodeURIComponent(event.name)}&location=${encodeURIComponent(event.location || 'Web3 Event')}${event.startDate ? `&date=${encodeURIComponent(event.startDate)}` : ''}`;
+  const location = formatEventLocation({
+    location: event.location || '',
+    city: event.city,
+    country: event.country,
+  });
+  return `${siteUrl}/api/og?type=event&v=${EVENT_OG_VERSION}&title=${encodeURIComponent(event.name)}&location=${encodeURIComponent(location)}${event.startDate ? `&date=${encodeURIComponent(event.startDate)}` : ''}`;
 }
 
 /** Builds the single canonical OG URL for articles. */

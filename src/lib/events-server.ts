@@ -1,6 +1,6 @@
 import fs from 'fs';
 import path from 'path';
-import { Web3Event, getEventBaseSlug, getEventEcosystems, getEventSlug, getEventType, normalizeCountry } from './events';
+import { Web3Event, formatEventLocation, getEventBaseSlug, getEventEcosystems, getEventSlug, getEventType, normalizeCountry } from './events';
 import { getEventExternalUrl } from './event-external-url';
 import { cleanPublishText } from './noslop';
 
@@ -172,7 +172,7 @@ function resolveEventCoverImage(cwd: string, img?: string | null): string | null
 }
 
 function getGeneratedEventCover(name: string): string {
-  return `/api/og?type=event&title=${encodeURIComponent(name)}&location=Web3%20Event`;
+  return `/api/og?type=event&v=1&title=${encodeURIComponent(name)}&location=Web3%20Event`;
 }
 
 function normalizeEventTitle(name: string): string {
@@ -384,7 +384,11 @@ async function loadEvents(): Promise<Web3Event[]> {
         month: monthStr,
         city: cleanCity,
         country: normalizeCountry(cleanCountry),
-        location: cleanLocation || (cleanCity && cleanCountry ? `${cleanCity}, ${normalizeCountry(cleanCountry)}` : 'Virtual / TBA'),
+        location: formatEventLocation({
+          location: cleanLocation,
+          city: cleanCity,
+          country: cleanCountry,
+        }),
         registrationUrl: cleanRegistrationUrl,
         website: cleanWebsite,
         url: externalUrl || '',
