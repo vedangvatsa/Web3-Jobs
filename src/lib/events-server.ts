@@ -10,7 +10,6 @@ const BLOCKED_EVENT_IDS = new Set([
   // No official event-specific source was available during the September 2026 audit.
   'premier-web3warsaw-2026',
   'premier-modular-summit-2026',
-  'premier-ethtokyo-2026',
   'premier-mainnet-2026',
   'premier-devconnect-2026', // No official Devconnect scheduled for Bangkok in November 2026
   'premier-cardano-summit-2026', // Organizer cancelled the Singapore edition.
@@ -147,6 +146,15 @@ function isQualityEvent(e: Web3Event): boolean {
   if (AMA.test(e.name)) return false;
   if (ONLINE.test(e.name) || ONLINE.test(e.location ?? '')) return false;
   return WEB3_VOCAB.test(text);
+}
+
+/** Drop scraped blurbs that were cut mid-sentence (e.g. "...learn abo"). */
+function isTruncatedEventDescription(description: string): boolean {
+  const text = description.trim();
+  if (!text) return false;
+  if (/\b(abo|an|th|to|fo|wi|a|of|or|and|the)$/i.test(text)) return true;
+  if (text.length >= 140 && !/[.!?…]"?$/.test(text)) return true;
+  return false;
 }
 
 // Luma's grey "add a cover photo" placeholder is not real event art;
@@ -314,7 +322,10 @@ async function loadEvents(): Promise<Web3Event[]> {
       let cleanCity = cleanPublishText(e.city || '');
       let cleanCountry = cleanPublishText(e.country || '');
       let cleanLocation = cleanPublishText(e.location || '');
-      const cleanDescription = cleanPublishText(e.description || '');
+      let cleanDescription = cleanPublishText(e.description || '');
+      if (isTruncatedEventDescription(cleanDescription)) {
+        cleanDescription = '';
+      }
 
       // Fix malformed double https:// url prefix
       if (cleanUrl.includes('https://lu.ma/https://')) {
@@ -330,17 +341,6 @@ async function loadEvents(): Promise<Web3Event[]> {
         cleanCity = 'Belgrade';
         cleanCountry = 'Serbia';
         cleanLocation = 'Belgrade, Serbia';
-      }
-
-      if (cleanUrl.includes('ethglobal.com/events/')) {
-        const subslug = cleanUrl.split('/events/')[1]?.replace(/[^a-z0-9]/g, '');
-        if (subslug && (subslug.includes('2026') || subslug.includes('2025'))) {
-          cleanUrl = 'https://ethglobal.com/events';
-        }
-      }
-
-      if (cleanUrl.includes('blockworks.co/events/permissionless')) {
-        cleanUrl = 'https://blockworks.co/events';
       }
 
       const externalUrl = getEventExternalUrl({
