@@ -149,7 +149,11 @@ async function getRootContentSlugs(): Promise<Set<string>> {
 async function assignUniqueEventSlugs(events: Web3Event[]): Promise<Web3Event[]> {
   const reserved = await getRootContentSlugs();
   return events.map((event) => {
-    const baseSlug = getEventBaseSlug(event);
+    // Prefer explicit curated slugs so premier pages keep stable, human URLs.
+    const curatedSlug = event.source === 'curated-premier'
+      ? event.slug?.toLowerCase().trim()
+      : undefined;
+    const baseSlug = curatedSlug || getEventBaseSlug(event);
     let slug = baseSlug;
     let suffix = 2;
     while (reserved.has(slug)) slug = `${baseSlug}${suffix++}`;
