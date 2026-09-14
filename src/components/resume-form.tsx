@@ -263,26 +263,26 @@ export function ResumeForm() {
 
  return (
   <>
-   <div className="site-container py-6">
-    <div className="flex flex-col sm:flex-row items-center justify-between gap-4 border-b border-border/60 pb-6 mb-8">
-     <div>
+   <div className="site-container px-4 py-6 sm:px-6">
+    <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4 border-b border-border/60 pb-6 mb-8">
+     <div className="min-w-0">
       <h1 className="text-2xl font-bold tracking-tight text-foreground">Resume Builder</h1>
-      <p className="text-sm text-muted-foreground mt-0.5">
+      <p className="text-sm text-muted-foreground mt-0.5 max-w-prose">
        Craft a crypto-native resume that highlights protocol contributions and gets noticed by Web3 recruiters.
       </p>
      </div>
      <Button
       size="default"
       onClick={handleDownload}
-      className="shrink-0"
+      className="shrink-0 w-full sm:w-auto"
      >
       <Download className="mr-2 h-4 w-4" /> Download PDF
      </Button>
     </div>
 
-    <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
+    <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 min-w-0">
      {/* Form Column */}
-     <div className="space-y-6">
+     <div className="space-y-6 min-w-0">
       <Card>
        <CardHeader>
         <CardTitle>Personal Details
@@ -515,8 +515,8 @@ export function ResumeForm() {
       />
      </div>
      {/* Preview Column */}
-     <div>
-      <div className="sticky top-[72px]">
+     <div className="min-w-0">
+      <div className="sticky top-[72px] overflow-x-auto">
        <ResumePreview data={watchedForm as any} />
       </div>
      </div>
