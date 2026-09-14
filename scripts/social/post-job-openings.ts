@@ -1,6 +1,6 @@
 #!/usr/bin/env npx tsx
 /**
- * Automated Social Job Opening Poster (X, Threads, Bluesky, Farcaster, LinkedIn, Facebook, Reddit & Instagram)
+ * Automated Social Job Opening Poster (X, Threads, Bluesky, Farcaster, LinkedIn, Facebook & Instagram)
  *
  * Posting Strategy:
  *   - Instagram: ONLY platform that posts an image upload (Instagram feed does not support clickable links or native link cards).
@@ -33,7 +33,6 @@
  *   npx tsx scripts/social/post-job-openings.ts --platform farcaster --dry-run
  *   npx tsx scripts/social/post-job-openings.ts --platform linkedin --dry-run
  *   npx tsx scripts/social/post-job-openings.ts --platform facebook --dry-run
- *   npx tsx scripts/social/post-job-openings.ts --platform reddit --dry-run
  *   npx tsx scripts/social/post-job-openings.ts --platform instagram --dry-run
  *   npx tsx scripts/social/post-job-openings.ts --platform all --dry-run
  *   npx tsx scripts/social/post-job-openings.ts --platform all
@@ -84,8 +83,18 @@ interface SocialHistoryEntry {
   expectedText?: string;
 }
 
-const SOCIAL_PLATFORMS = ['x', 'threads', 'bluesky', 'farcaster', 'linkedin', 'facebook', 'reddit', 'instagram'] as const;
+const SOCIAL_PLATFORMS = ['x', 'threads', 'bluesky', 'farcaster', 'linkedin', 'facebook', 'instagram'] as const;
 type SocialPlatform = (typeof SOCIAL_PLATFORMS)[number];
+
+/** Link-preview feeds; Instagram is handled separately and must not block these. */
+const LINK_CARD_PLATFORMS: readonly SocialPlatform[] = [
+  'x',
+  'threads',
+  'bluesky',
+  'farcaster',
+  'linkedin',
+  'facebook',
+];
 
 function buildSocialShareUrl(slug: string, suffix: string): string {
   const url = new URL(`${SITE_URL}/${slug}/${suffix}`);
@@ -189,6 +198,63 @@ function verifiedPlatformsForSlug(state: SocialState, slug: string): Set<SocialP
     }
   }
   return platforms;
+}
+
+function missingRequestedPlatforms(
+  state: SocialState,
+  slug: string,
+  requested: readonly SocialPlatform[],
+): SocialPlatform[] {
+  const verified = verifiedPlatformsForSlug(state, slug);
+  return requested.filter((name) => !verified.has(name));
+}
+
+function findPendingJob(
+  state: SocialState,
+  jobs: Job[],
+  requestedPlatforms: readonly SocialPlatform[],
+  mode: 'link-cards' | 'instagram-only',
+): Job | null {
+  for (const slug of state.pendingSlugs) {
+    const job = jobs.find((entry) => entry.slug === slug);
+    if (!job) continue;
+    const missing = missingRequestedPlatforms(state, job.slug, requestedPlatforms);
+    if (missing.length === 0) continue;
+    const missingLinkCards = missing.filter((name) => LINK_CARD_PLATFORMS.includes(name));
+    if (mode === 'link-cards' && missingLinkCards.length === 0) continue;
+    if (mode === 'instagram-only' && missingLinkCards.length > 0) continue;
+    return job;
+  }
+  return null;
+}
+
+function pickNextUnpostedJob(
+  jobs: Job[],
+  state: SocialState,
+  postedSet: Set<string>,
+): Job | null {
+  const totalJobs = jobs.length;
+  const lastPostedCompany = state.history.length > 0
+    ? state.history[state.history.length - 1].company.toLowerCase()
+    : null;
+
+  for (let i = 0; i < totalJobs; i++) {
+    const idx = (state.lastIndex + i) % totalJobs;
+    const candidate = jobs[idx];
+    if (!postedSet.has(candidate.slug) && candidate.company.toLowerCase() !== lastPostedCompany) {
+      state.lastIndex = (idx + 1) % totalJobs;
+      return candidate;
+    }
+  }
+  for (let i = 0; i < totalJobs; i++) {
+    const idx = (state.lastIndex + i) % totalJobs;
+    const candidate = jobs[idx];
+    if (!postedSet.has(candidate.slug)) {
+      state.lastIndex = (idx + 1) % totalJobs;
+      return candidate;
+    }
+  }
+  return null;
 }
 
 function isSlugComplete(state: SocialState, slug: string): boolean {
@@ -908,85 +974,6 @@ async function postToFacebook(text: string, linkUrl?: string): Promise<string> {
   return postId;
 }
 
-// ── Reddit (r/hashtagweb3 API) ──
-
-async function postToReddit(
-  title: string,
-  bodyMarkdown: string,
-  subreddit: string = 'hashtagweb3'
-): Promise<string> {
-  const clientId = process.env.REDDIT_CLIENT_ID;
-  const clientSecret = process.env.REDDIT_CLIENT_SECRET;
-  const username = process.env.REDDIT_USERNAME;
-  const password = process.env.REDDIT_PASSWORD;
-
-  if (!clientId || !clientSecret || !username || !password) {
-    throw new Error('Missing Reddit API credentials (REDDIT_CLIENT_ID, REDDIT_CLIENT_SECRET, REDDIT_USERNAME, REDDIT_PASSWORD)');
-  }
-
-  // 1. Get access token via password grant
-  const authHeader = Buffer.from(`${clientId}:${clientSecret}`).toString('base64');
-  const tokenRes = await fetch('https://www.reddit.com/api/v1/access_token', {
-    method: 'POST',
-    headers: {
-      Authorization: `Basic ${authHeader}`,
-      'Content-Type': 'application/x-www-form-urlencoded',
-      'User-Agent': `HashtagWeb3Bot/1.0.0 (by /u/${username})`,
-    },
-    body: new URLSearchParams({
-      grant_type: 'password',
-      username,
-      password,
-    }),
-  });
-
-  if (!tokenRes.ok) {
-    const errText = await tokenRes.text();
-    throw new Error(`Reddit token exchange failed (${tokenRes.status}): ${errText}`);
-  }
-
-  const tokenData = (await tokenRes.json()) as { access_token?: string; error?: string };
-  if (!tokenData.access_token) {
-    throw new Error(`Reddit token error: ${JSON.stringify(tokenData)}`);
-  }
-
-  // 2. Submit post
-  const submitRes = await fetch('https://oauth.reddit.com/api/submit', {
-    method: 'POST',
-    headers: {
-      Authorization: `Bearer ${tokenData.access_token}`,
-      'User-Agent': `HashtagWeb3Bot/1.0.0 (by /u/${username})`,
-      'Content-Type': 'application/x-www-form-urlencoded',
-    },
-    body: new URLSearchParams({
-      sr: subreddit,
-      kind: 'self',
-      title,
-      text: bodyMarkdown,
-      resubmit: 'false',
-    }),
-  });
-
-  if (!submitRes.ok) {
-    const errText = await submitRes.text();
-    throw new Error(`Reddit submit failed (${submitRes.status}): ${errText}`);
-  }
-
-  const submitData = (await submitRes.json()) as {
-    json?: { errors?: unknown[]; data?: { url?: unknown; id?: unknown; name?: unknown } };
-  };
-
-  if (submitData.json?.errors && submitData.json.errors.length > 0) {
-    throw new Error(`Reddit API error: ${JSON.stringify(submitData.json.errors)}`);
-  }
-
-  const postId = submitData.json?.data?.url || submitData.json?.data?.id || submitData.json?.data?.name;
-  if (typeof postId !== 'string' || postId.trim().length === 0) {
-    throw new Error(`Reddit submit response did not include a post receipt: ${JSON.stringify(submitData)}`);
-  }
-  return postId;
-}
-
 // ── Instagram Media / Carousel (Meta Graph API v21.0) ──
 
 async function waitForInstagramContainer(
@@ -1202,7 +1189,6 @@ const PREVIEW_TARGETS = [
   { platform: 'farcaster', suffix: 'fc', userAgent: 'Warpcast/1.0' },
   { platform: 'linkedin', suffix: 'li', userAgent: LINKEDIN_BOT_UA },
   { platform: 'facebook', suffix: 'fb', userAgent: 'facebookexternalhit/1.1' },
-  { platform: 'reddit', suffix: 'rd', userAgent: 'redditbot/1.0' },
 ] as const;
 
 // ── Main Scheduling & Selection ──
@@ -1246,53 +1232,59 @@ async function main() {
       console.error(`Requested job slug "${targetSlug}" not found in cache.`);
       process.exit(1);
     }
-  } else {
-    const pendingJob = state.pendingSlugs
-      .map((slug) => jobs.find((job) => job.slug === slug))
-      .find((job): job is Job => Boolean(job) && requestedPlatforms.some(
-        (name) => !verifiedPlatformsForSlug(state, job.slug).has(name)
-      ));
-
-    if (pendingJob) {
-      selectedJob = pendingJob;
-      console.log(`Retrying incomplete social publish for ${selectedJob.company} / ${selectedJob.title}.`);
+  } else if (platform === 'all' || platform === 'both') {
+    // Full rotation runs should keep LinkedIn and other link-card feeds moving.
+    // Pending retries (often X-only backlog) must not starve new job posts.
+    selectedJob = pickNextUnpostedJob(jobs, state, postedSet);
+    if (selectedJob) {
+      console.log(`Selected new job for social rotation: ${selectedJob.company} / ${selectedJob.title}.`);
     } else {
-      const totalJobs = jobs.length;
-    // Extract last posted company from state history
-    const lastPostedCompany = state.history && state.history.length > 0
-      ? state.history[state.history.length - 1].company.toLowerCase()
-      : null;
-
-    // First pass: find an unposted job from a DIFFERENT company than the last posted company
-    for (let i = 0; i < totalJobs; i++) {
-      const idx = (state.lastIndex + i) % totalJobs;
-      const candidate = jobs[idx];
-      if (!postedSet.has(candidate.slug) && candidate.company.toLowerCase() !== lastPostedCompany) {
-        selectedJob = candidate;
-        state.lastIndex = (idx + 1) % totalJobs;
-        break;
+      const pendingLinkCards = findPendingJob(state, jobs, requestedPlatforms, 'link-cards');
+      if (pendingLinkCards) {
+        selectedJob = pendingLinkCards;
+        console.log(`Retrying incomplete link-card publish for ${selectedJob.company} / ${selectedJob.title}.`);
       }
     }
 
-    // Fallback pass: if all unposted jobs belong to the same company, pick any unposted job
     if (!selectedJob) {
-      for (let i = 0; i < totalJobs; i++) {
-        const idx = (state.lastIndex + i) % totalJobs;
-        const candidate = jobs[idx];
-        if (!postedSet.has(candidate.slug)) {
-          selectedJob = candidate;
-          state.lastIndex = (idx + 1) % totalJobs;
-          break;
-        }
+      const pendingInstagram = findPendingJob(state, jobs, requestedPlatforms, 'instagram-only');
+      if (pendingInstagram) {
+        selectedJob = pendingInstagram;
+        console.log(`Retrying Instagram backlog for ${selectedJob.company} / ${selectedJob.title}.`);
       }
     }
 
-      if (!selectedJob) {
-        console.log('All jobs have been posted. Resetting cycle history...');
-        state.postedSlugs = [];
-        selectedJob = jobs[0];
-        state.lastIndex = 1;
+    if (!selectedJob) {
+      console.log('All jobs have been posted. Resetting cycle history...');
+      state.postedSlugs = [];
+      selectedJob = jobs[0];
+      state.lastIndex = 1;
+    }
+  } else {
+    const pendingLinkCards = findPendingJob(state, jobs, requestedPlatforms, 'link-cards');
+    if (pendingLinkCards) {
+      selectedJob = pendingLinkCards;
+      console.log(`Retrying incomplete link-card publish for ${selectedJob.company} / ${selectedJob.title}.`);
+    } else {
+      selectedJob = pickNextUnpostedJob(jobs, state, postedSet);
+      if (selectedJob) {
+        console.log(`Selected new job for social rotation: ${selectedJob.company} / ${selectedJob.title}.`);
       }
+    }
+
+    if (!selectedJob) {
+      const pendingInstagram = findPendingJob(state, jobs, requestedPlatforms, 'instagram-only');
+      if (pendingInstagram) {
+        selectedJob = pendingInstagram;
+        console.log(`Retrying Instagram backlog for ${selectedJob.company} / ${selectedJob.title}.`);
+      }
+    }
+
+    if (!selectedJob) {
+      console.log('All jobs have been posted. Resetting cycle history...');
+      state.postedSlugs = [];
+      selectedJob = jobs[0];
+      state.lastIndex = 1;
     }
   }
 
@@ -1340,7 +1332,6 @@ async function main() {
   for (let round = 0; round < jobsToPost.length; round++) {
     const currentJob = jobsToPost[round];
     const { company, title, slug, location } = currentJob;
-    const deptName = typeof currentJob.department === 'string' ? currentJob.department : currentJob.department?.name || '';
     const shouldPostAll = platform === 'all' || platform === 'both';
 
     // Build OG image URL, passing the verified local logo when one exists so
@@ -1358,7 +1349,6 @@ async function main() {
     const farcasterUrl = buildSocialShareUrl(slug, 'fc');
     const linkedinUrl = buildSocialShareUrl(slug, 'li');
     const facebookUrl = buildSocialShareUrl(slug, 'fb');
-    const redditUrl = buildSocialShareUrl(slug, 'rd');
 
   const xPostText = `${company} is hiring ${title}\n\n${xUrl}`;
   const threadsPostText = `${company} is hiring ${title}: ${threadsUrl}`;
@@ -1366,10 +1356,6 @@ async function main() {
   const farcasterPostText = `${company} is hiring ${title}\n\n${farcasterUrl}`;
   const linkedinPostText = `${company} is hiring ${title}: ${linkedinUrl}`;
   const facebookPostText = `${company} is hiring ${title}: ${facebookUrl}`;
-
-  const metaDesc = buildUniqueJobMetaDescription(currentJob as any);
-  const redditTitle = `[Hiring] ${company} is hiring a ${title} (${location || 'Remote'})`;
-  const redditMarkdown = `**Company:** [${company}](${redditUrl})\n**Role:** ${title}\n**Location:** ${location || 'Remote'}${deptName ? `\n**Department:** ${deptName}` : ''}\n\n### Overview\n${metaDesc}\n\n---\n🔗 **Apply Directly / View Details:** [https://hashtagweb3.com/${slug}/rd](${redditUrl})\n\n*Verified by [Hashtag Web3](https://hashtagweb3.com) — The Web3 Career & Event Resource Platform.*`;
 
   console.log(`Selected Job:`);
   console.log(`  Company : ${company}`);
@@ -1427,15 +1413,10 @@ async function main() {
 
   console.log(`\n--- Preview: Facebook Page Post (Meta Graph API) ---`);
   console.log(facebookPostText);
-  console.log(`----------------------------------------------------`);
-
-  console.log(`\n--- Preview: Reddit Post (r/hashtagweb3) ---`);
-  console.log(`Title: ${redditTitle}`);
-  console.log(redditMarkdown);
-  console.log(`---------------------------------------------\n`);
+  console.log(`----------------------------------------------------\n`);
 
   if (isDryRun) {
-    console.log('DRY RUN active: No external network requests were made to X, Threads, Bluesky, Farcaster, LinkedIn, Facebook, Reddit, or Instagram.');
+    console.log('DRY RUN active: No external network requests were made to X, Threads, Bluesky, Farcaster, LinkedIn, Facebook, or Instagram.');
     return;
   }
 
@@ -1652,27 +1633,6 @@ async function main() {
     }
   }
 
-   if (shouldPublishPlatform('reddit')) {
-    attemptedPlatforms.add('reddit');
-    try {
-      console.log('Publishing to Reddit (r/hashtagweb3)...');
-      const redditPostId = await postToReddit(redditTitle, redditMarkdown, 'hashtagweb3');
-      console.log(`✓ Successfully published to Reddit! Post: ${redditPostId}`);
-      recordVerifiedPost(state, {
-        slug,
-        company,
-        title,
-        platform: 'reddit',
-        postedAt: now,
-        postId: redditPostId,
-      });
-      newlyVerifiedPlatforms.add('reddit');
-      postedSuccessCount++;
-    } catch (err) {
-      console.error(`✗ Failed to post to Reddit:`, (err as Error).message);
-    }
-  }
-
    if (shouldPublishPlatform('instagram')) {
     attemptedPlatforms.add('instagram');
     try {
@@ -1722,7 +1682,12 @@ async function main() {
        : !verifiedPlatforms.has(name)
    ));
    if (missingPlatforms.length > 0) {
-     throw new Error(`Incomplete social publish for ${slug}; awaiting verified posts on: ${missingPlatforms.join(', ')}`);
+     if (postedSuccessCount === 0) {
+       throw new Error(`Incomplete social publish for ${slug}; awaiting verified posts on: ${missingPlatforms.join(', ')}`);
+     }
+     console.warn(
+       `Partial publish for ${slug}; still missing ${missingPlatforms.join(', ')} but ${postedSuccessCount} platform(s) succeeded this run.`,
+     );
    }
 
     // Enqueue the catch-up round (if armed): a second, different-company job
@@ -1732,7 +1697,6 @@ async function main() {
       round === 0 &&
       jobsToPost.length === 1 &&
       catchUpArmed &&
-      state.pendingSlugs.length === 0 &&
        allPlatformsSucceeded
     ) {
       const next = pickNextJob(typeof company === 'string' ? company.toLowerCase() : '', slug);
