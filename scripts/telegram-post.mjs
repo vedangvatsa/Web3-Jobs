@@ -330,7 +330,7 @@ async function sendToTelegramChat(chatId, message, { threadId } = {}) {
       ...(threadId ? { message_thread_id: Number(threadId) } : {}),
       reply_markup: {
         inline_keyboard: [
-          [{ text: 'Turn your CV into a Website', url: 'https://cvin.bio/?utm_source=social&utm_medium=telegram&utm_campaign=web3hiring' }],
+          [{ text: 'Web3 News', url: 'https://t.me/web3newsfeed' }],
         ],
       },
     }),
