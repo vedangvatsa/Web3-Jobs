@@ -228,6 +228,13 @@ function findPendingJob(
   return null;
 }
 
+function isFreshRotationJob(state: SocialState, slug: string, postedSet: Set<string>): boolean {
+  if (postedSet.has(slug)) return false;
+  // Partially posted pending jobs (e.g. LinkedIn done, Instagram missing) must
+  // not be treated as fresh rotations or LinkedIn/Facebook stay skipped forever.
+  return verifiedPlatformsForSlug(state, slug).size === 0;
+}
+
 function pickNextUnpostedJob(
   jobs: Job[],
   state: SocialState,
@@ -241,7 +248,10 @@ function pickNextUnpostedJob(
   for (let i = 0; i < totalJobs; i++) {
     const idx = (state.lastIndex + i) % totalJobs;
     const candidate = jobs[idx];
-    if (!postedSet.has(candidate.slug) && candidate.company.toLowerCase() !== lastPostedCompany) {
+    if (
+      isFreshRotationJob(state, candidate.slug, postedSet) &&
+      candidate.company.toLowerCase() !== lastPostedCompany
+    ) {
       state.lastIndex = (idx + 1) % totalJobs;
       return candidate;
     }
@@ -249,7 +259,7 @@ function pickNextUnpostedJob(
   for (let i = 0; i < totalJobs; i++) {
     const idx = (state.lastIndex + i) % totalJobs;
     const candidate = jobs[idx];
-    if (!postedSet.has(candidate.slug)) {
+    if (isFreshRotationJob(state, candidate.slug, postedSet)) {
       state.lastIndex = (idx + 1) % totalJobs;
       return candidate;
     }
