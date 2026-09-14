@@ -68,16 +68,16 @@ contract LiquidityVaultTest is Test {
     // @notice Fuzz test with automated inputs
     function testFuzz_DepositAndWithdrawalAccounting(uint96 depositAmount) public {
         vm.assume(depositAmount > 0.01 ether);
-        
+
         vm.prank(alice);
         vault.deposit{value: depositAmount}();
-        
+
         assertEq(vault.balanceOf(alice), depositAmount);
         assertEq(address(vault).balance, depositAmount);
-        
+
         vm.prank(alice);
         vault.withdraw(depositAmount);
-        
+
         assertEq(vault.balanceOf(alice), 0);
         assertEq(address(vault).balance, 0);
     }

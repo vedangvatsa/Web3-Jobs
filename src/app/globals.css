@@ -202,6 +202,22 @@ body {
     border-top: 1px solid hsl(var(--border));
     margin: 3rem 0;
   }
+
+  /* Fenced code: inline `code` padding is first-line-only on an inline box. */
+  .article-prose pre code,
+  .prose pre code {
+    display: block;
+    background-color: transparent;
+    padding: 0;
+    border-radius: 0;
+  }
+
+  .article-prose code::before,
+  .article-prose code::after,
+  .prose :where(code)::before,
+  .prose :where(code)::after {
+    content: none;
+  }
 }
 
 /* Quiz animations (replaces framer-motion) */
