@@ -224,11 +224,13 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
     return {
       title,
       description,
+      metadataBase: new URL(siteUrl),
       alternates: {
         canonical: canonicalUrl,
       },
       openGraph: {
         type: 'website',
+        siteName: 'Hashtag Web3',
         title: ogTitle,
         description,
         url: canonicalUrl,
@@ -238,6 +240,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
             width: 1200,
             height: 630,
             alt: event.name,
+            type: 'image/png',
           },
         ],
       },
@@ -245,6 +248,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
         card: 'summary_large_image',
         title: ogTitle,
         description,
+        site: '@hashtag_web3',
         images: [ogImageUrl],
       },
     };

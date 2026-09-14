@@ -4,7 +4,7 @@ import { resolveCompanyLogo } from './company-logo';
 import { formatEventLocation } from './events';
 
 export const JOB_OG_VERSION = '2';
-export const EVENT_OG_VERSION = '1';
+export const EVENT_OG_VERSION = '2';
 export const SITE_URL = 'https://hashtagweb3.com';
 
 /** Builds the single canonical OG URL for jobs. */

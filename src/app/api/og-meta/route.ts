@@ -3,11 +3,11 @@ import { buildUniqueJobMetaDescription, resolveJobSlug } from '@/lib/job-guides'
 import { buildJobOgImageUrl, buildEventOgImageUrl, SITE_URL } from '@/lib/job-og';
 import { getEventBySlug } from '@/lib/events-server';
 import { getEventSlug, formatEventDate } from '@/lib/events';
+import { stripSocialPathSuffix } from '@/lib/social-share';
 
 export const runtime = 'nodejs';
 
 const SITE_NAME = 'Hashtag Web3';
-const SOCIAL_SUFFIXES = new Set(['li', 'linkedin', 'x', 'tw', 'twitter', 'th', 'threads', 'fb', 'facebook', 'bsky', 'bluesky', 'fc', 'warp', 'farcaster', 'rd', 'reddit', 'ig', 'insta', 'instagram']);
 
 /**
  * Returns a minimal HTML shell (~2KB) containing only OG/Twitter meta tags.
@@ -23,7 +23,7 @@ const SOCIAL_SUFFIXES = new Set(['li', 'linkedin', 'x', 'tw', 'twitter', 'th', '
 export async function GET(request: NextRequest) {
   const { searchParams } = new URL(request.url);
   const sourcePath = searchParams.get('path') || request.headers.get('x-og-source-path') || '/';
-  const path = stripSocialSuffix(sourcePath);
+  const path = stripSocialPathSuffix(sourcePath);
 
   const { title, description, ogImageUrl, canonicalUrl } = await resolveMetadata(path);
 
@@ -40,14 +40,17 @@ export async function GET(request: NextRequest) {
 <meta property="og:description" content="${escHtml(description)}"/>
 <meta property="og:url" content="${escHtml(canonicalUrl)}"/>
 <meta property="og:image" content="${escHtml(ogImageUrl)}"/>
+<meta property="og:image:secure_url" content="${escHtml(ogImageUrl)}"/>
 <meta property="og:image:width" content="1200"/>
 <meta property="og:image:height" content="630"/>
 <meta property="og:image:type" content="image/png"/>
+<meta property="og:image:alt" content="${escHtml(title)}"/>
 <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:site" content="@hashtag_web3"/>
 <meta name="twitter:title" content="${escHtml(title)}"/>
 <meta name="twitter:description" content="${escHtml(description)}"/>
 <meta name="twitter:image" content="${escHtml(ogImageUrl)}"/>
+<meta name="twitter:image:alt" content="${escHtml(title)}"/>
 </head>
 <body></body>
 </html>`;
@@ -78,15 +81,6 @@ interface PageMeta {
   description: string;
   ogImageUrl: string;
   canonicalUrl: string;
-}
-
-function stripSocialSuffix(path: string): string {
-  const parts = path.split('/').filter(Boolean);
-  const last = parts[parts.length - 1]?.toLowerCase();
-  if (last && SOCIAL_SUFFIXES.has(last)) {
-    parts.pop();
-  }
-  return parts.length ? `/${parts.join('/')}` : '/';
 }
 
 async function resolveJobMetadata(slug: string): Promise<PageMeta | null> {

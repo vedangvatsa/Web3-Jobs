@@ -1,42 +1,10 @@
 import { NextResponse } from 'next/server';
 import type { NextRequest } from 'next/server';
+import { LINK_PREVIEW_BOT_RE, SOCIAL_UTM_MAP } from '@/lib/social-share';
 
 /**
  * Social media suffix shortcuts mapping to standardized UTM attribution parameters.
  */
-const SOCIAL_UTM_MAP: Record<string, { utm_source: string; utm_medium: string }> = {
-  'li': { utm_source: 'linkedin', utm_medium: 'social' },
-  'linkedin': { utm_source: 'linkedin', utm_medium: 'social' },
-  'x': { utm_source: 'x', utm_medium: 'social' },
-  'tw': { utm_source: 'twitter', utm_medium: 'social' },
-  'twitter': { utm_source: 'twitter', utm_medium: 'social' },
-  'yt': { utm_source: 'youtube', utm_medium: 'social' },
-  'youtube': { utm_source: 'youtube', utm_medium: 'social' },
-  'th': { utm_source: 'threads', utm_medium: 'social' },
-  'threads': { utm_source: 'threads', utm_medium: 'social' },
-  'ig': { utm_source: 'instagram', utm_medium: 'social' },
-  'insta': { utm_source: 'instagram', utm_medium: 'social' },
-  'instagram': { utm_source: 'instagram', utm_medium: 'social' },
-  'tg': { utm_source: 'telegram', utm_medium: 'social' },
-  'telegram': { utm_source: 'telegram', utm_medium: 'social' },
-  'rd': { utm_source: 'reddit', utm_medium: 'social' },
-  'reddit': { utm_source: 'reddit', utm_medium: 'social' },
-  'dc': { utm_source: 'discord', utm_medium: 'social' },
-  'discord': { utm_source: 'discord', utm_medium: 'social' },
-  'fc': { utm_source: 'farcaster', utm_medium: 'social' },
-  'warp': { utm_source: 'warpcast', utm_medium: 'social' },
-  'farcaster': { utm_source: 'farcaster', utm_medium: 'social' },
-  'bsky': { utm_source: 'bluesky', utm_medium: 'social' },
-  'bluesky': { utm_source: 'bluesky', utm_medium: 'social' },
-  'fb': { utm_source: 'facebook', utm_medium: 'social' },
-  'facebook': { utm_source: 'facebook', utm_medium: 'social' },
-  'tt': { utm_source: 'tiktok', utm_medium: 'social' },
-  'tiktok': { utm_source: 'tiktok', utm_medium: 'social' },
-  'hn': { utm_source: 'hackernews', utm_medium: 'social' },
-  'wa': { utm_source: 'whatsapp', utm_medium: 'social' },
-  'nl': { utm_source: 'newsletter', utm_medium: 'email' },
-  'email': { utm_source: 'email', utm_medium: 'email' },
-};
 
 /** AI agent and bot user-agents to detect for markdown serving */
 const AI_BOT_UA_PATTERNS = [
@@ -138,8 +106,7 @@ export function middleware(request: NextRequest) {
   // Human visitors and other bots are unaffected.
   if (!pathname.startsWith('/api') && !pathname.startsWith('/_next') && !pathname.includes('.')) {
     const ua = request.headers.get('user-agent') || '';
-    const isLinkPreviewBot =
-      /LinkedInBot|facebookexternalhit|Facebot|Meta-ExternalAgent|Meta-ExternalFetcher|Slackbot-LinkExpanding|Slack-ImgProxy|Twitterbot|WhatsApp|TelegramBot|Discordbot|Pinterestbot|vkShare|Applebot|redditbot|embedly|quora link preview|outbrain|Buffer|bufferbot/i.test(ua);
+    const isLinkPreviewBot = LINK_PREVIEW_BOT_RE.test(ua);
     const lastPathSegment = pathname.replace(/\/+$/, '').split('/').pop()?.toLowerCase() || '';
     const isSocialSuffix = Boolean(lastPathSegment && SOCIAL_UTM_MAP[lastPathSegment]);
 
@@ -230,7 +197,7 @@ export function middleware(request: NextRequest) {
         const hasBrowserNavigationSignal =
           fetchMode === 'navigate' || fetchDest === 'document' || fetchUser === '?1';
         const isSocialCrawler =
-          /Twitterbot|facebookexternalhit|Facebot|Meta-ExternalAgent|Meta-ExternalFetcher|LinkedInBot|Slackbot|TelegramBot|Discordbot|WhatsApp|Pinterest|vkShare|Bluesky|Warpcast|Farcaster|Buffer|BufferBot|redditbot|Applebot|LinkedIn|embedly|quora link preview|outbrain|W3C_Validator/i.test(ua) ||
+          LINK_PREVIEW_BOT_RE.test(ua) ||
           !hasBrowserNavigationSignal;
         if (isSocialCrawler) {
           // Keep crawler responses tiny. Full RSC job pages can exceed

@@ -172,7 +172,7 @@ function resolveEventCoverImage(cwd: string, img?: string | null): string | null
 }
 
 function getGeneratedEventCover(name: string): string {
-  return `/api/og?type=event&v=1&title=${encodeURIComponent(name)}&location=Web3%20Event`;
+  return `/api/og?type=event&v=2&title=${encodeURIComponent(name)}&location=Web3%20Event`;
 }
 
 function normalizeEventTitle(name: string): string {
