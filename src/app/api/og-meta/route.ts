@@ -244,11 +244,11 @@ async function resolveMetadata(path: string): Promise<PageMeta> {
     return { ...meta, canonicalUrl };
   }
 
-  // Root-level job or event slugs (URLs used by the social poster / shares).
+  // Root-level event or job slugs (URLs used by the social poster / shares).
+  // Match /[slug] page priority: events win when a slug collides with a job
+  // (e.g. /token2049 is TOKEN2049 Singapore, not a Ripple posting).
   if (/^\/[^/]+$/.test(path)) {
     const slug = path.slice(1);
-    const jobMeta = await resolveJobMetadata(slug);
-    if (jobMeta) return jobMeta;
 
     try {
       const event = await getEventBySlug(slug);
@@ -267,6 +267,9 @@ async function resolveMetadata(path: string): Promise<PageMeta> {
     } catch {
       // Event lookup failures must not break other page previews.
     }
+
+    const jobMeta = await resolveJobMetadata(slug);
+    if (jobMeta) return jobMeta;
   }
 
   // Fallback
