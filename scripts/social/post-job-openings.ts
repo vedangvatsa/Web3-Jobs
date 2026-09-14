@@ -819,6 +819,16 @@ function decodeEntities(s: string): string {
     .replace(/&#(\d+);/g, (_, n) => String.fromCharCode(parseInt(n, 10)));
 }
 
+/** Normalize titles so em/en dashes and whitespace do not fail OG readiness. */
+function normalizeTitleForCompare(value: string): string {
+  return value
+    .normalize('NFKC')
+    .replace(/[\u2010-\u2015\u2212\uFE58\uFE63\uFF0D]/g, '-') // dashes → hyphen
+    .replace(/\s+/g, ' ')
+    .trim()
+    .toLowerCase();
+}
+
 export interface LinkedInPreview {
   title: string;
   description: string;
@@ -856,7 +866,7 @@ async function verifySocialServing(
       return null;
     }
     const resolvedTitle = decodeEntities(titleMatch[1]);
-    if (resolvedTitle !== `${title} at ${company}`) {
+    if (normalizeTitleForCompare(resolvedTitle) !== normalizeTitleForCompare(`${title} at ${company}`)) {
       console.error(`Preview readiness: wrong og:title "${resolvedTitle}" for ${pageUrl} — aborting publish`);
       return null;
     }
