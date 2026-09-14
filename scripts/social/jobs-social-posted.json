@@ -1,5 +1,5 @@
 {
-  "lastIndex": 182,
+  "lastIndex": 183,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -75,7 +75,8 @@
     "manager99377",
     "engineer89059",
     "operations41595",
-    "engineer89005"
+    "engineer89005",
+    "operations20004"
   ],
   "history": [
     {
@@ -3129,6 +3130,63 @@
       "platform": "instagram",
       "postedAt": "2026-09-14T14:14:52.093Z",
       "postId": "17870085762649795",
+      "verification": "verified"
+    },
+    {
+      "slug": "operations20004",
+      "company": "Alpaca",
+      "title": "Incident Operations Commander",
+      "platform": "x",
+      "postedAt": "2026-09-14T20:22:15.941Z",
+      "postId": "2099594600721887342",
+      "verification": "verified"
+    },
+    {
+      "slug": "operations20004",
+      "company": "Alpaca",
+      "title": "Incident Operations Commander",
+      "platform": "threads",
+      "postedAt": "2026-09-14T20:22:15.941Z",
+      "postId": "18089004263668517",
+      "verification": "verified",
+      "expectedText": "Alpaca is hiring Incident Operations Commander: https://hashtagweb3.com/operations20004/th?og=2",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DdR-81BGjXM",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "operations20004",
+      "company": "Alpaca",
+      "title": "Incident Operations Commander",
+      "platform": "bluesky",
+      "postedAt": "2026-09-14T20:22:15.941Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mviwszbddc2j",
+      "verification": "verified"
+    },
+    {
+      "slug": "operations20004",
+      "company": "Alpaca",
+      "title": "Incident Operations Commander",
+      "platform": "farcaster",
+      "postedAt": "2026-09-14T20:22:15.941Z",
+      "postId": "0x50c61448ab57b9dc65cde7913d3b21909536570e",
+      "verification": "verified"
+    },
+    {
+      "slug": "operations20004",
+      "company": "Alpaca",
+      "title": "Incident Operations Commander",
+      "platform": "linkedin",
+      "postedAt": "2026-09-14T20:22:15.941Z",
+      "postId": "6aa8578f2029c344182096a1",
+      "verification": "verified"
+    },
+    {
+      "slug": "operations20004",
+      "company": "Alpaca",
+      "title": "Incident Operations Commander",
+      "platform": "facebook",
+      "postedAt": "2026-09-14T20:22:15.941Z",
+      "postId": "691827047618629_1088484900425411",
       "verification": "verified"
     }
   ]
