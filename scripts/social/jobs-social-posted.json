@@ -1,5 +1,5 @@
 {
-  "lastIndex": 178,
+  "lastIndex": 180,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -53,7 +53,8 @@
     "product2d701",
     "manager9dd0f",
     "sales202",
-    "analystb44ed"
+    "analystb44ed",
+    "marketingddc52"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -2995,6 +2996,72 @@
       "platform": "instagram",
       "postedAt": "2026-09-14T11:31:50.648Z",
       "postId": "17869014558640612",
+      "verification": "verified"
+    },
+    {
+      "slug": "marketingddc52",
+      "company": "Kraken",
+      "title": "Staff Engineer - Growth - Verifications",
+      "platform": "x",
+      "postedAt": "2026-09-14T12:02:18.511Z",
+      "postId": "2099468782389580091",
+      "verification": "verified"
+    },
+    {
+      "slug": "marketingddc52",
+      "company": "Kraken",
+      "title": "Staff Engineer - Growth - Verifications",
+      "platform": "threads",
+      "postedAt": "2026-09-14T12:02:18.511Z",
+      "postId": "17908850589521841",
+      "verification": "verified",
+      "expectedText": "Kraken is hiring Staff Engineer - Growth - Verifications: https://hashtagweb3.com/marketingddc52/th?og=2",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DdRFvBqIEBQ",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "marketingddc52",
+      "company": "Kraken",
+      "title": "Staff Engineer - Growth - Verifications",
+      "platform": "bluesky",
+      "postedAt": "2026-09-14T12:02:18.511Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mvi2v3o2n32n",
+      "verification": "verified"
+    },
+    {
+      "slug": "marketingddc52",
+      "company": "Kraken",
+      "title": "Staff Engineer - Growth - Verifications",
+      "platform": "farcaster",
+      "postedAt": "2026-09-14T12:02:18.511Z",
+      "postId": "0x1c164e221301cc0785d4da6c47449422280d9986",
+      "verification": "verified"
+    },
+    {
+      "slug": "marketingddc52",
+      "company": "Kraken",
+      "title": "Staff Engineer - Growth - Verifications",
+      "platform": "linkedin",
+      "postedAt": "2026-09-14T12:02:18.511Z",
+      "postId": "6aa7e263ccb7f1c4f84ea47d",
+      "verification": "verified"
+    },
+    {
+      "slug": "marketingddc52",
+      "company": "Kraken",
+      "title": "Staff Engineer - Growth - Verifications",
+      "platform": "facebook",
+      "postedAt": "2026-09-14T12:02:18.511Z",
+      "postId": "691827047618629_1088138717126696",
+      "verification": "verified"
+    },
+    {
+      "slug": "marketingddc52",
+      "company": "Kraken",
+      "title": "Staff Engineer - Growth - Verifications",
+      "platform": "instagram",
+      "postedAt": "2026-09-14T12:02:18.511Z",
+      "postId": "17968011321173524",
       "verification": "verified"
     }
   ]
