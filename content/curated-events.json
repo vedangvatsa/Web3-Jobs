@@ -179,17 +179,19 @@
     "id": "premier-ibw-2026",
     "slug": "istanbul",
     "name": "Istanbul Blockchain Week 2026",
-    "description": "Turkey’s premier annual Web3 and blockchain gathering organized by EAK Digital, bridging continents with world-class keynotes, hackathons, and networking.",
-    "startDate": "2026-11-12T09:00:00.000Z",
-    "endDate": "2026-11-13T18:00:00.000Z",
+    "description": "Turkey's premier annual Web3 gathering at Hilton Istanbul Bomonti — keynotes, institutional markets summit, and ecosystem events.",
+    "startDate": "2026-06-02T09:00:00+03:00",
+    "endDate": "2026-06-03T18:00:00+03:00",
     "city": "Istanbul",
     "country": "Turkey",
-    "location": "Hilton Istanbul Bomonti, Istanbul, Turkey",
-    "url": "https://istanbulblockchainweek.com",
-    "website": "https://istanbulblockchainweek.com",
+    "location": "Hilton Istanbul Bomonti Hotel & Conference Center, Istanbul, Turkey",
+    "url": "https://istanbulblockchainweek.com/",
+    "website": "https://istanbulblockchainweek.com/",
     "coverImage": "/events/istanbul-blockchain-week.webp",
     "twitter": null,
-    "source": "curated-premier"
+    "source": "curated-premier",
+    "venueName": "Hilton Istanbul Bomonti Hotel & Conference Center",
+    "registrationUrl": "https://istanbulblockchainweek.com/"
   },
   {
     "id": "premier-pbw-2027",
@@ -363,28 +365,226 @@
     "endDate": "2026-09-17T18:00:00.000Z",
     "city": "New York",
     "country": "United States",
-    "location": "Chelsea Industrial, New York, USA",
+    "location": "Chelsea Industrial, 535 West 28th Street, New York, NY 10001",
     "url": "https://www.avalanchesummit.com",
     "website": "https://www.avalanchesummit.com",
     "coverImage": "/events/premier-avax-summit-nyc-2026-2443783f.webp",
     "twitter": null,
-    "source": "curated-premier"
+    "source": "curated-premier",
+    "venueName": "Chelsea Industrial",
+    "streetAddress": "535 West 28th Street"
   },
   {
     "id": "premier-ethtokyo-2026",
     "slug": "ethglobal",
     "name": "ETHGlobal Tokyo 2026",
-    "description": "ETHGlobal's Tokyo hackathon bringing together Asia-Pacific Ethereum developers for a weekend of building and shipping.",
-    "startDate": "2026-09-25T09:00:00.000Z",
-    "endDate": "2026-09-27T18:00:00.000Z",
+    "description": "Come build our decentralized future. ETHGlobal hackathons let you experiment with web3 technologies and develop an idea you're passionate about. Learn about crypto, expand your network, meet industry mentors, and ship working projects over one intense weekend in Tokyo — with 800+ attendees, 29+ workshops, and $75,000 in prizes.",
+    "startDate": "2026-09-25T00:00:00+09:00",
+    "endDate": "2026-09-27T23:59:00+09:00",
     "city": "Tokyo",
     "country": "Japan",
-    "location": "Tokyo, Japan",
+    "location": "Toranomon Hills Forum (5th floor), Toranomon Hills Mori Tower, 1-23-3 Toranomon, Minato City, Tokyo, Japan",
     "url": "https://ethglobal.com/events/tokyo2026",
     "website": "https://ethglobal.com/events/tokyo2026",
     "coverImage": "/events/ethglobal-tokyo.webp",
     "twitter": null,
-    "source": "curated-premier"
+    "source": "curated-premier",
+    "venueName": "Toranomon Hills Forum",
+    "streetAddress": "1-23-3 Toranomon, Toranomon Hills Mori Tower 5F",
+    "addressLocality": "Minato City",
+    "addressRegion": "Tokyo",
+    "postalCode": "105-0001",
+    "addressCountry": "Japan",
+    "registrationUrl": "https://ethglobal.com/events/tokyo2026",
+    "speakers": [
+      "Albert Acebron",
+      "Armani Ferrante",
+      "Augustus Ilag",
+      "Eiji Kobayashi",
+      "Hinza Asif",
+      "Jeff Wentworth",
+      "Kartik Talwar",
+      "Mai Fujimoto",
+      "Martin Derka",
+      "Masa 'Senshi' Kikuchi",
+      "Nuno Loureiro",
+      "Seihaku Yoshida",
+      "Takashi Tezuka",
+      "Tatsuya Yamada",
+      "Tomo Saito",
+      "Yesim Kaymak",
+      "Yoshimasa Satoh",
+      "Yuzo Kano",
+      "Pascal Rüger",
+      "Kevin Krone",
+      "Aman Zishan",
+      "Chiranjeev Mishra",
+      "Elwood Ruffle",
+      "Fiona He",
+      "Francesco Andreoli",
+      "Haruki Kondo",
+      "Heemank Verma",
+      "Jatin Pandya",
+      "Keita Kuroiwa",
+      "Kelly Joo",
+      "Koss Knobelsdorf",
+      "Luís Pinto",
+      "Martin Leclercq",
+      "Masaya 'Moz' Okada",
+      "Migle Rakitaite",
+      "Mihir Sahu",
+      "Yuta Tsurusaki"
+    ],
+    "speakerDetails": [
+      {
+        "name": "Albert Acebron",
+        "organization": "Onramper"
+      },
+      {
+        "name": "Armani Ferrante",
+        "organization": "Backpack"
+      },
+      {
+        "name": "Augustus Ilag",
+        "organization": "CMT Digital"
+      },
+      {
+        "name": "Eiji Kobayashi",
+        "organization": "Securitize"
+      },
+      {
+        "name": "Hinza Asif",
+        "organization": "Asia Web3 Alliance Japan"
+      },
+      {
+        "name": "Jeff Wentworth",
+        "organization": "Curvegrid"
+      },
+      {
+        "name": "Kartik Talwar",
+        "organization": "ETHGlobal"
+      },
+      {
+        "name": "Mai Fujimoto",
+        "organization": "Intmax"
+      },
+      {
+        "name": "Martin Derka",
+        "organization": "Zircuit"
+      },
+      {
+        "name": "Masa 'Senshi' Kikuchi",
+        "organization": "Secured Finance"
+      },
+      {
+        "name": "Nuno Loureiro",
+        "organization": "Ethereum Foundation"
+      },
+      {
+        "name": "Seihaku Yoshida",
+        "organization": "HashPort"
+      },
+      {
+        "name": "Takashi Tezuka",
+        "organization": "Startale Japan"
+      },
+      {
+        "name": "Tatsuya Yamada",
+        "organization": "Rakuten Wallet"
+      },
+      {
+        "name": "Tomo Saito",
+        "organization": "Ethereum Foundation"
+      },
+      {
+        "name": "Yesim Kaymak",
+        "organization": "Scalar Capital"
+      },
+      {
+        "name": "Yoshimasa Satoh",
+        "organization": "Alpaca"
+      },
+      {
+        "name": "Yuzo Kano",
+        "organization": "bitFlyer"
+      },
+      {
+        "name": "Pascal Rüger",
+        "organization": "ETHGlobal"
+      },
+      {
+        "name": "Kevin Krone",
+        "organization": "ENS"
+      },
+      {
+        "name": "Aman Zishan",
+        "organization": "Blackthread"
+      },
+      {
+        "name": "Chiranjeev Mishra",
+        "organization": "Inco Network"
+      },
+      {
+        "name": "Elwood Ruffle",
+        "organization": "phasestate.io"
+      },
+      {
+        "name": "Fiona He",
+        "organization": "StandX"
+      },
+      {
+        "name": "Francesco Andreoli",
+        "organization": "MetaMask"
+      },
+      {
+        "name": "Haruki Kondo",
+        "organization": "unchain"
+      },
+      {
+        "name": "Heemank Verma",
+        "organization": "Karnot.xyz"
+      },
+      {
+        "name": "Jatin Pandya",
+        "organization": "Canton F"
+      },
+      {
+        "name": "Keita Kuroiwa",
+        "organization": "Flovia"
+      },
+      {
+        "name": "Kelly Joo",
+        "organization": "Swarm Foundation"
+      },
+      {
+        "name": "Koss Knobelsdorf",
+        "organization": "Swarm Foundation"
+      },
+      {
+        "name": "Luís Pinto",
+        "title": "Mentor"
+      },
+      {
+        "name": "Martin Leclercq",
+        "organization": "iExec"
+      },
+      {
+        "name": "Masaya 'Moz' Okada",
+        "organization": "AKINDO"
+      },
+      {
+        "name": "Migle Rakitaite",
+        "organization": "WinPrivacy, Swarm Foundation"
+      },
+      {
+        "name": "Mihir Sahu",
+        "organization": "Inco Network"
+      },
+      {
+        "name": "Yuta Tsurusaki",
+        "organization": "Flovia"
+      }
+    ]
   },
   {
     "id": "premier-kbw-2026",
@@ -556,8 +756,8 @@
     "city": "Singapore",
     "country": "Singapore",
     "location": "Marina Bay Sands, Singapore",
-    "url": "https://tickets.token2049.com/token2049-singapore-2026/?promo=HASHTAGWEB3",
-    "website": "https://asia.token2049.com",
+    "url": "https://www.token2049.com/singapore",
+    "website": "https://www.token2049.com/singapore",
     "coverImage": "/events/token2049-singapore-hashtagweb3.webp",
     "twitter": null,
     "partnerOffer": {
@@ -1224,28 +1424,95 @@
     "endDate": "2026-10-08T18:00:00.000Z",
     "city": "Singapore",
     "country": "Singapore",
-    "location": "Singapore, Singapore",
+    "location": "Marina Bay Sands, Singapore",
     "url": "https://sui.io/basecamp",
     "website": "https://sui.io/basecamp",
     "coverImage": "/events/premier-sui-basecamp-2026-2211b5bb.webp",
     "twitter": null,
-    "source": "curated-premier"
-  },
-  {
-    "id": "premier-permissionless-2026",
-    "slug": "permissionless",
-    "name": "Permissionless 2026",
-    "description": "The biggest DeFi and crypto event created by Blockworks and Bankless for crypto natives, developers, and crypto founders.",
-    "startDate": "2026-10-14T09:00:00.000Z",
-    "endDate": "2026-10-16T18:00:00.000Z",
-    "city": "Brooklyn",
-    "country": "United States",
-    "location": "Brooklyn, New York, USA",
-    "url": "https://blockworks.com/permissionless",
-    "website": "https://blockworks.com/permissionless",
-    "coverImage": "/events/premier-permissionless-2026-50ef6ffd.webp",
-    "twitter": null,
-    "source": "curated-premier"
+    "source": "curated-premier",
+    "venueName": "Marina Bay Sands",
+    "speakers": [
+      "Evan Cheng",
+      "Alexandre Moufarek",
+      "Michaël van de Poppe",
+      "Sejin Park",
+      "Christophe Revault",
+      "Elliscope Fang",
+      "Raj Murakonda",
+      "Aaron Chen",
+      "Shady El Damaty",
+      "Brian Li",
+      "Kevin Boon",
+      "Ryan Servatius",
+      "Jameel Khalfan"
+    ],
+    "speakerDetails": [
+      {
+        "name": "Evan Cheng",
+        "organization": "Mysten Labs",
+        "title": "Co-Founder, CEO & CTO"
+      },
+      {
+        "name": "Alexandre Moufarek",
+        "organization": "Google DeepMind",
+        "title": "Director of Inception"
+      },
+      {
+        "name": "Michaël van de Poppe",
+        "organization": "MN Capital & MN Fund",
+        "title": "Founder & CIO"
+      },
+      {
+        "name": "Sejin Park",
+        "organization": "Gorae Labs",
+        "title": "CEO"
+      },
+      {
+        "name": "Christophe Revault",
+        "organization": "Current",
+        "title": "CCO"
+      },
+      {
+        "name": "Elliscope Fang",
+        "organization": "NAVI",
+        "title": "Co-Founder & CEO"
+      },
+      {
+        "name": "Raj Murakonda",
+        "organization": "AlphaFi",
+        "title": "Co-Founder"
+      },
+      {
+        "name": "Aaron Chen",
+        "organization": "Loqua",
+        "title": "CEO"
+      },
+      {
+        "name": "Shady El Damaty",
+        "organization": "Holonym Foundation",
+        "title": "CEO & Co-Founder"
+      },
+      {
+        "name": "Brian Li",
+        "organization": "Miso Labs",
+        "title": "CEO & Founder"
+      },
+      {
+        "name": "Kevin Boon",
+        "organization": "Mysten Labs",
+        "title": "President"
+      },
+      {
+        "name": "Ryan Servatius",
+        "organization": "Mysten Labs",
+        "title": "Senior Director & Head of Partnerships"
+      },
+      {
+        "name": "Jameel Khalfan",
+        "organization": "Sui Foundation",
+        "title": "Global Head of Ecosystem"
+      }
+    ]
   },
   {
     "id": "premier-swell-2026",
@@ -1256,12 +1523,30 @@
     "endDate": "2026-10-29T18:00:00.000Z",
     "city": "New York",
     "country": "United States",
-    "location": "New York City, USA",
+    "location": "The Shed, Hudson Yards, New York, NY",
     "url": "https://ripple.com/events/swell/",
     "website": "https://ripple.com/events/swell/",
     "coverImage": "/events/premier-swell-2026-231ce434.webp",
     "twitter": null,
-    "source": "curated-premier"
+    "source": "curated-premier",
+    "venueName": "The Shed",
+    "streetAddress": "545 W 30th St",
+    "speakers": [
+      "Matt Damon",
+      "Tom Farley"
+    ],
+    "speakerDetails": [
+      {
+        "name": "Matt Damon",
+        "organization": "Water.org",
+        "title": "Co-founder"
+      },
+      {
+        "name": "Tom Farley",
+        "organization": "Bullish",
+        "title": "Chairman and CEO"
+      }
+    ]
   },
   {
     "id": "premier-smartcon-2026",
@@ -1284,16 +1569,17 @@
     "slug": "ibw",
     "name": "India Blockchain Week 2026",
     "description": "India's flagship blockchain week in Mumbai covering DeFi, CBDCs, tokenization and the country's fast-growing Web3 developer base.",
-    "startDate": "2026-11-01T09:00:00.000Z",
-    "endDate": "2026-11-02T18:00:00.000Z",
+    "startDate": "2026-11-01T09:00:00+05:30",
+    "endDate": "2026-11-02T18:00:00+05:30",
     "city": "Mumbai",
     "country": "India",
-    "location": "Mumbai, India",
-    "url": "https://www.indiablockchainweek.com",
-    "website": "https://www.indiablockchainweek.com",
+    "location": "Fairmont Mumbai, Mumbai, India",
+    "url": "https://www.indiablockchainweek.com/",
+    "website": "https://www.indiablockchainweek.com/",
     "coverImage": "/events/premier-indiabw-2026-c798daa3.webp",
     "twitter": null,
-    "source": "curated-premier"
+    "source": "curated-premier",
+    "venueName": "Fairmont Mumbai"
   },
   {
     "id": "premier-devcon-2026",
@@ -1304,28 +1590,30 @@
     "endDate": "2026-11-06T18:00:00.000Z",
     "city": "Mumbai",
     "country": "India",
-    "location": "Mumbai, India",
-    "url": "https://devcon.org",
-    "website": "https://devcon.org",
+    "location": "G Block, Bandra Kurla Complex (BKC), Mumbai, India",
+    "url": "https://devcon.org/",
+    "website": "https://devcon.org/",
     "coverImage": "/events/premier-devcon-2026-3cd5a51d.webp",
     "twitter": null,
-    "source": "curated-premier"
+    "source": "curated-premier",
+    "venueName": "Bandra Kurla Complex (BKC)"
   },
   {
     "id": "premier-cosmoverse-2026",
     "slug": "cosmoverse",
     "name": "Cosmoverse 2026",
     "description": "The Cosmos and IBC ecosystem's flagship conference bringing appchain teams, validators and interchain founders together in Hong Kong.",
-    "startDate": "2026-11-05T09:00:00.000Z",
-    "endDate": "2026-11-06T18:00:00.000Z",
+    "startDate": "2026-11-05T09:00:00+08:00",
+    "endDate": "2026-11-06T18:00:00+08:00",
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "location": "Grand Hyatt, Hong Kong",
+    "location": "Grand Hyatt Hong Kong, Hong Kong",
     "url": "https://cosmoverse.org",
     "website": "https://cosmoverse.org",
     "coverImage": "/events/premier-cosmoverse-2026-68f0aedd.webp",
     "twitter": null,
-    "source": "curated-premier"
+    "source": "curated-premier",
+    "venueName": "Grand Hyatt Hong Kong"
   },
   {
     "id": "premier-labitconf-2026",
@@ -1377,19 +1665,75 @@
   },
   {
     "id": "premier-breakpoint-2026",
-    "slug": "solana",
+    "slug": "solana-breakpoint",
     "name": "Solana Breakpoint 2026",
-    "description": "The flagship annual conference for the global Solana ecosystem, convening builders, institutions, and policymakers at Olympia London to shape the future of internet capital markets.",
-    "startDate": "2026-11-15T09:00:00.000Z",
-    "endDate": "2026-11-17T18:00:00.000Z",
+    "description": "Breakpoint 2026 returns to Olympia London, November 15–17. Solana Foundation’s flagship conference for builders, institutions, and the broader Solana ecosystem.",
+    "startDate": "2026-11-15T09:00:00+00:00",
+    "endDate": "2026-11-17T18:00:00+00:00",
     "city": "London",
     "country": "United Kingdom",
-    "location": "Olympia London, London, UK",
+    "location": "Olympia Convention Centre, London, UK",
     "url": "https://solana.com/breakpoint",
     "website": "https://solana.com/breakpoint",
     "coverImage": "/events/premier-breakpoint-2026-5a195862.webp",
     "twitter": null,
-    "source": "curated-premier"
+    "source": "curated-premier",
+    "venueName": "Olympia Convention Centre",
+    "addressLocality": "London",
+    "addressCountry": "United Kingdom",
+    "registrationUrl": "https://solana.com/breakpoint",
+    "speakers": [
+      "Anatoly Yakovenko",
+      "Annabel Spring",
+      "Anthony Soohoo",
+      "Balaji Srinivasan",
+      "Lily Liu",
+      "Peter Moore",
+      "Raoul Pal",
+      "Tad Smith"
+    ],
+    "speakerDetails": [
+      {
+        "name": "Anatoly Yakovenko",
+        "organization": "Solana / Solana Labs",
+        "title": "Co-Founder / CEO"
+      },
+      {
+        "name": "Annabel Spring",
+        "organization": "Allfunds",
+        "title": "CEO"
+      },
+      {
+        "name": "Anthony Soohoo",
+        "organization": "Moneygram",
+        "title": "CEO"
+      },
+      {
+        "name": "Balaji Srinivasan",
+        "organization": "Network State",
+        "title": "CEO and Founder, Network School"
+      },
+      {
+        "name": "Lily Liu",
+        "organization": "Solana Foundation",
+        "title": "President"
+      },
+      {
+        "name": "Peter Moore",
+        "organization": "Wisla Krakow Football Club",
+        "title": "Owner / Sports and Video Game Executive"
+      },
+      {
+        "name": "Raoul Pal",
+        "organization": "Real Vision / EXPAAM / GMI",
+        "title": "Co-Founder / CEO"
+      },
+      {
+        "name": "Tad Smith",
+        "organization": "Candy Digital",
+        "title": "CEO"
+      }
+    ]
   },
   {
     "id": "premier-binancebw-2026",
@@ -1400,28 +1744,13 @@
     "endDate": "2026-11-29T18:00:00.000Z",
     "city": "Bangkok",
     "country": "Thailand",
-    "location": "Bangkok, Thailand",
+    "location": "Queen Sirikit National Convention Center (QSNCC), Bangkok, Thailand",
     "url": "https://www.binanceblockchainweek.com/event/Bangkok2026/Home",
     "website": "https://www.binanceblockchainweek.com/event/Bangkok2026/Home",
     "coverImage": "/events/binance-blockchain-week.webp",
     "twitter": null,
-    "source": "curated-premier"
-  },
-  {
-    "id": "premier-ethindia-2026",
-    "slug": "ethindia",
-    "name": "ETHIndia 2026",
-    "description": "The world's largest Ethereum hackathon empowering 2,000+ developers, designers, and researchers in India's silicon capital.",
-    "startDate": "2026-12-04T09:00:00.000Z",
-    "endDate": "2026-12-06T18:00:00.000Z",
-    "city": "Bengaluru",
-    "country": "India",
-    "location": "Bengaluru, India",
-    "url": "https://ethindia.co",
-    "website": "https://ethindia.co",
-    "coverImage": "/events/premier-ethindia-2026-104d3067.webp",
-    "twitter": null,
-    "source": "curated-premier"
+    "source": "curated-premier",
+    "venueName": "Queen Sirikit National Convention Center"
   },
   {
     "id": "premier-mainnet-2026",
@@ -1684,16 +2013,17 @@
     "slug": "ethspain",
     "name": "ETHSpain 2026",
     "description": "Spain's Ethereum conference bringing protocol builders, DeFi teams, and the local community together in Barcelona.",
-    "startDate": "2026-09-17T09:00:00.000Z",
-    "endDate": "2026-09-18T18:00:00.000Z",
+    "startDate": "2026-09-17T09:00:00+02:00",
+    "endDate": "2026-09-17T21:00:00+02:00",
     "city": "Barcelona",
     "country": "Spain",
-    "location": "Barcelona, Spain",
-    "url": "https://ethspain.org",
-    "website": "https://ethspain.org",
+    "location": "Leonardo Royal Hotel Fira Barcelona, Barcelona, Spain",
+    "url": "https://ethspain.org/",
+    "website": "https://ethspain.org/",
     "coverImage": "/events/ethspain.webp",
     "twitter": null,
-    "source": "curated-premier"
+    "source": "curated-premier",
+    "venueName": "Leonardo Royal Hotel Fira Barcelona"
   },
   {
     "id": "premier-stablecoinsg",
@@ -1795,14 +2125,14 @@
     "id": "premier-hackmeridian",
     "slug": "hackmeridian",
     "name": "HackMeridian 2026",
-    "description": "A global hackathon series pushing builders to ship novel web3 applications across regional rounds and a grand finale.",
-    "startDate": "2026-10-25T09:00:00.000Z",
-    "endDate": "2026-11-02T18:00:00.000Z",
-    "city": "Online",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.hackmeridian.com",
-    "website": "https://www.hackmeridian.com",
+    "description": "Two-day Stellar hackathon in Lisbon ahead of Meridian 2026 — builders ship products on Stellar alongside developers, founders, and technical teams.",
+    "startDate": "2026-10-25T09:00:00+01:00",
+    "endDate": "2026-10-26T18:00:00+01:00",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "location": "Lisbon, Portugal",
+    "url": "https://meridian.stellar.org/",
+    "website": "https://meridian.stellar.org/",
     "coverImage": "/events/hackmeridian.webp",
     "twitter": null,
     "source": "curated-premier"
@@ -1811,17 +2141,21 @@
     "id": "premier-meridian",
     "slug": "meridian",
     "name": "Meridian 2026",
-    "description": "Stellar Development Foundation's annual flagship gathering for the Stellar ecosystem, spanning payments, tokenization, and remittances.",
-    "startDate": "2026-10-27T09:00:00.000Z",
-    "endDate": "2026-10-29T18:00:00.000Z",
-    "city": "Madrid",
-    "country": "Spain",
-    "location": "Madrid, Spain",
-    "url": "https://meridian.stellar.org",
-    "website": "https://meridian.stellar.org",
+    "description": "Stellar Development Foundation's annual flagship gathering for payments, tokenization, and remittances — October 28–29 at Convento do Beato in Lisbon.",
+    "startDate": "2026-10-28T09:00:00+01:00",
+    "endDate": "2026-10-29T18:00:00+01:00",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "location": "Convento do Beato, Lisbon, Portugal",
+    "url": "https://meridian.stellar.org/",
+    "website": "https://meridian.stellar.org/",
     "coverImage": "/events/meridian.webp",
     "twitter": null,
-    "source": "curated-premier"
+    "source": "curated-premier",
+    "venueName": "Convento do Beato",
+    "addressLocality": "Lisbon",
+    "addressCountry": "Portugal",
+    "registrationUrl": "https://meridian.stellar.org/"
   },
   {
     "id": "premier-cypherpunk",
@@ -2144,38 +2478,6 @@
     "source": "curated-premier"
   },
   {
-    "id": "premier-connectseoul",
-    "slug": "connect",
-    "name": "CONNECT by Cointelegraph Seoul 2026",
-    "description": "Cointelegraph's CONNECT forum arrives in Seoul during Korea Blockchain Week with media-led panels and networking.",
-    "startDate": "2026-09-28T09:00:00.000Z",
-    "endDate": "2026-09-28T18:00:00.000Z",
-    "city": "Seoul",
-    "country": "South Korea",
-    "location": "Seoul, South Korea",
-    "url": "https://cointelegraph.com",
-    "website": "https://cointelegraph.com",
-    "coverImage": "/events/premier-connectseoul-a75686ae.webp",
-    "twitter": null,
-    "source": "curated-premier"
-  },
-  {
-    "id": "premier-connectsg",
-    "slug": "connect1",
-    "name": "CONNECT by Cointelegraph Singapore 2026",
-    "description": "Cointelegraph's CONNECT accelerator forum lands in Singapore around TOKEN2049 with founder showcases and capital conversations.",
-    "startDate": "2026-10-09T09:00:00.000Z",
-    "endDate": "2026-10-09T18:00:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Singapore, Singapore",
-    "url": "https://cointelegraph.com",
-    "website": "https://cointelegraph.com",
-    "coverImage": "/events/premier-connectsg-ad4c2a39.webp",
-    "twitter": null,
-    "source": "curated-premier"
-  },
-  {
     "id": "premier-gbshow",
     "slug": "global",
     "name": "Global Blockchain Show Abu Dhabi 2026",
@@ -2208,51 +2510,6 @@
     "source": "curated-premier"
   },
   {
-    "id": "side-token2049-vip-gala-2026",
-    "slug": "token20492",
-    "name": "TOKEN2049 Official Opening VIP Gala & Rooftop Mixer",
-    "description": "Exclusive executive networking dinner and cocktail reception overlooking Marina Bay Sands for founders, VCs, and institutional allocators.",
-    "startDate": "2026-09-15T18:00:00.000Z",
-    "endDate": "2026-09-15T23:00:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "CÉ LA VI Rooftop, Marina Bay Sands, Singapore",
-    "url": "https://token2049.com",
-    "website": "https://token2049.com",
-    "coverImage": "/events/side-token2049-vip-gala-2026-66866985.webp",
-    "source": "curated-premier"
-  },
-  {
-    "id": "side-solana-superteam-singapore-2026",
-    "slug": "solana1",
-    "name": "Solana Superteam Asia Builder Night & Ecosystem Showcase",
-    "description": "High-energy side event bringing together 500+ Solana developers, DeFi protocols, and ecosystem project teams during TOKEN2049 week.",
-    "startDate": "2026-09-16T17:00:00.000Z",
-    "endDate": "2026-09-16T22:00:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "National Gallery Singapore, Singapore",
-    "url": "https://superteam.fun",
-    "website": "https://superteam.fun",
-    "coverImage": "/events/superteam-asia.webp",
-    "source": "curated-premier"
-  },
-  {
-    "id": "side-ethereum-singapore-l2-brunch-2026",
-    "slug": "ethereum3",
-    "name": "Ethereum L2 & Restaking Leaders Brunch",
-    "description": "Morning roundtable discussion and networking session focused on EVM scale, rollup interoperability, and EigenLayer liquid restaking.",
-    "startDate": "2026-09-17T10:00:00.000Z",
-    "endDate": "2026-09-17T14:00:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "The Fullerton Hotel, Singapore",
-    "url": "https://ethglobal.com",
-    "website": "https://ethglobal.com",
-    "coverImage": "/events/side-ethereum-singapore-l2-brunch-2026-a606097a.webp",
-    "source": "curated-premier"
-  },
-  {
     "id": "side-desci-singapore-summit-2026",
     "slug": "desci",
     "name": "DeSci Singapore: On-Chain Science & IP-NFT Showcase",
@@ -2265,81 +2522,6 @@
     "url": "https://molecule.to",
     "website": "https://molecule.to",
     "coverImage": "/events/desci.webp",
-    "source": "curated-premier"
-  },
-  {
-    "id": "side-base-builder-house-singapore-2026",
-    "slug": "base",
-    "name": "Base & Coinbase Ventures Builder Lounge",
-    "description": "Co-working space, builder mentorship, and investor office hours hosted by Base team for consumer Web3, social, and payment dApps.",
-    "startDate": "2026-09-18T10:00:00.000Z",
-    "endDate": "2026-09-18T18:00:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "1880 Member Club, Singapore",
-    "url": "https://base.org",
-    "website": "https://base.org",
-    "coverImage": "/events/side-base-builder-house-singapore-2026-66069fc1.webp",
-    "source": "curated-premier"
-  },
-  {
-    "id": "side-ethsf-hacker-house-2026",
-    "slug": "ethglobal2",
-    "name": "ETHGlobal San Francisco Hacker House & Demo Night",
-    "description": "48-hour builder house and live demo showcase for developer teams building ZK circuits, autonomous AI agents, and DeFi primitives.",
-    "startDate": "2026-10-14T09:00:00.000Z",
-    "endDate": "2026-10-15T20:00:00.000Z",
-    "city": "San Francisco",
-    "country": "United States",
-    "location": "Fort Mason Center, San Francisco, CA, USA",
-    "url": "https://ethglobal.com",
-    "website": "https://ethglobal.com",
-    "coverImage": "/events/side-ethsf-hacker-house-2026-eeb0e7a0.webp",
-    "source": "curated-premier"
-  },
-  {
-    "id": "side-solana-breakpoint-yacht-party-2026",
-    "slug": "solana2",
-    "name": "Solana Breakpoint Founders Yacht Mixer & Sunset Cruise",
-    "description": "Exclusive sunset networking cruise for Solana ecosystem founders, validator operators, and VC partners during Breakpoint.",
-    "startDate": "2026-11-12T17:00:00.000Z",
-    "endDate": "2026-11-12T21:00:00.000Z",
-    "city": "Abu Dhabi",
-    "country": "United Arab Emirates",
-    "location": "Yas Marina, Abu Dhabi, UAE",
-    "url": "https://solana.com/breakpoint",
-    "website": "https://solana.com/breakpoint",
-    "coverImage": "/events/solana2.webp",
-    "source": "curated-premier"
-  },
-  {
-    "id": "side-monad-builder-lounge-breakpoint-2026",
-    "slug": "monad",
-    "name": "Monad Parallel EVM Developer Day & Coffee Lounge",
-    "description": "Deep-dive technical sessions and open co-working space hosted by Monad Labs for high-throughput EVM developers.",
-    "startDate": "2026-11-13T10:00:00.000Z",
-    "endDate": "2026-11-13T17:00:00.000Z",
-    "city": "Abu Dhabi",
-    "country": "United Arab Emirates",
-    "location": "W Abu Dhabi - Yas Island, UAE",
-    "url": "https://monad.xyz",
-    "website": "https://monad.xyz",
-    "coverImage": "/events/monad.webp",
-    "source": "curated-premier"
-  },
-  {
-    "id": "side-devcon8-privacy-hack-house-2026",
-    "slug": "web3privacy",
-    "name": "Web3Privacy Now Devcon Privacy Hacker House",
-    "description": "Dedicated privacy-preserving tech hub featuring ZK-SNARK workshops, stealth address implementations, and fully homomorphic encryption (FHE) research.",
-    "startDate": "2026-11-17T09:00:00.000Z",
-    "endDate": "2026-11-18T18:00:00.000Z",
-    "city": "Mumbai",
-    "country": "India",
-    "location": "JIO World Convention Centre, Mumbai, India",
-    "url": "https://devcon.org",
-    "website": "https://devcon.org",
-    "coverImage": "/events/web3privacy.webp",
     "source": "curated-premier"
   },
   {
@@ -2358,21 +2540,6 @@
     "source": "curated-premier"
   },
   {
-    "id": "side-sg-hyperliquid-traders-night",
-    "name": "Hyperliquid & Perps Trader Lounge Singapore",
-    "description": "High-frequency derivatives trading meetup, quantitative strategy discussions, and private cocktail reception.",
-    "startDate": "2026-09-15T19:00:00.000Z",
-    "endDate": "2026-09-15T23:00:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "MARQUEE Nightclub, Marina Bay Sands, Singapore",
-    "url": "https://token2049.com",
-    "website": "https://token2049.com",
-    "source": "curated-premier",
-    "slug": "hyperliquid",
-    "coverImage": "/events/hyperliquid.webp"
-  },
-  {
     "id": "side-sg-arbitrum-stylus-hacker-house",
     "name": "Arbitrum Stylus & Rust Dev House Singapore",
     "description": "Technical workshops and WASM/Rust smart contract hacking hosted by Offchain Labs engineers.",
@@ -2386,36 +2553,6 @@
     "source": "curated-premier",
     "slug": "arbitrum",
     "coverImage": "/events/arbitrum-stylus.webp"
-  },
-  {
-    "id": "side-sg-rwa-institutional-summit",
-    "name": "Real World Asset (RWA) & Tokenization Summit",
-    "description": "Institutional summit on treasury bill tokenization, private credit protocols, and yield-bearing assets.",
-    "startDate": "2026-09-16T13:00:00.000Z",
-    "endDate": "2026-09-16T18:00:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Raffles Hotel, Singapore",
-    "url": "https://token2049.com",
-    "website": "https://token2049.com",
-    "source": "curated-premier",
-    "slug": "web3-warsaw-2026",
-    "coverImage": "/events/real.webp"
-  },
-  {
-    "id": "side-sg-ai-agents-onchain",
-    "name": "Autonomous AI Agents & On-Chain Intelligence Night",
-    "description": "Showcasing autonomous LLM agents executing smart contracts, automated trading bots, and decentralized AI compute.",
-    "startDate": "2026-09-17T18:00:00.000Z",
-    "endDate": "2026-09-17T22:00:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Kinki Restaurant & Bar, Singapore",
-    "url": "https://token2049.com",
-    "website": "https://token2049.com",
-    "source": "curated-premier",
-    "slug": "autonomous",
-    "coverImage": "/events/autonomous.webp"
   },
   {
     "id": "side-berlin-eth-solidity-workshop",
@@ -2628,51 +2765,6 @@
     "coverImage": "/logo/partners/ibw.png"
   },
   {
-    "id": "side-ibw2026-media-accelerator",
-    "name": "Media Accelerator & Startup Cohort",
-    "description": "Web3 media pitching session and startup demo cohort by BFM Times x Devcon.",
-    "startDate": "2026-11-03T15:00:00.000Z",
-    "endDate": "2026-11-03T19:30:00.000Z",
-    "city": "Mumbai",
-    "country": "India",
-    "location": "Mumbai, India",
-    "url": "https://devcon.org",
-    "website": "https://devcon.org",
-    "source": "curated-premier",
-    "slug": "media-accelerator-startup-cohort-mumbai-2026",
-    "coverImage": "/logo/partners/ibw.png"
-  },
-  {
-    "id": "side-ibw2026-ai-economic-forum",
-    "name": "AI Economic Forum (AIEF) - Truth Intelligence Summit",
-    "description": "Exploring decentralized AI compute, autonomous agents, and truth verification by Omniscient AI.",
-    "startDate": "2026-11-03T09:30:00.000Z",
-    "endDate": "2026-11-03T20:00:00.000Z",
-    "city": "Mumbai",
-    "country": "India",
-    "location": "Mumbai, India",
-    "url": "https://devcon.org",
-    "website": "https://devcon.org",
-    "source": "curated-premier",
-    "slug": "ai-economic-forum-truth-intelligence-summit",
-    "coverImage": "/logo/partners/ibw.png"
-  },
-  {
-    "id": "side-ibw2026-eip-hub",
-    "name": "EIP Hub (Nov 3-7)",
-    "description": "Multi-day technical co-working hub for Ethereum Improvement Proposal (EIP) authors and core devs by ECH Institute.",
-    "startDate": "2026-11-03T20:30:00.000Z",
-    "endDate": "2026-11-07T18:00:00.000Z",
-    "city": "Mumbai",
-    "country": "India",
-    "location": "Mumbai, India",
-    "url": "https://devcon.org",
-    "website": "https://devcon.org",
-    "source": "curated-premier",
-    "slug": "eip-hub-mumbai-2026",
-    "coverImage": "/logo/partners/ibw.png"
-  },
-  {
     "id": "side-ibw2026-quantstamp-lounge",
     "name": "Quantstamp x Common Defense Mumbai Lounge",
     "description": "Exclusive security networking lounge for smart contract auditors and protocol founders during Devcon.",
@@ -2688,51 +2780,6 @@
     "coverImage": "/logo/partners/ibw.png"
   },
   {
-    "id": "side-ibw2026-ravecon-bender",
-    "name": "Ravecon [B]Ender",
-    "description": "High-energy Devcon side party and electronic music gathering in Mumbai.",
-    "startDate": "2026-11-04T20:00:00.000Z",
-    "endDate": "2026-11-05T02:00:00.000Z",
-    "city": "Mumbai",
-    "country": "India",
-    "location": "Mumbai, India",
-    "url": "https://devcon.org",
-    "website": "https://devcon.org",
-    "source": "curated-premier",
-    "slug": "ravecon-bender-mumbai-2026",
-    "coverImage": "/logo/partners/ibw.png"
-  },
-  {
-    "id": "side-ibw2026-pragma-mumbai",
-    "name": "Pragma Mumbai",
-    "description": "One-day single-track conference by ETHGlobal for web3 developers, protocol engineers, and leaders.",
-    "startDate": "2026-11-05T10:00:00.000Z",
-    "endDate": "2026-11-05T19:00:00.000Z",
-    "city": "Mumbai",
-    "country": "India",
-    "location": "Mumbai, India",
-    "url": "https://ethglobal.com",
-    "website": "https://ethglobal.com",
-    "source": "curated-premier",
-    "slug": "pragma-mumbai-2026",
-    "coverImage": "/logo/partners/ibw.png"
-  },
-  {
-    "id": "side-ibw2026-unchained-summit",
-    "name": "Unchained Summit (Day 1 & Day 2)",
-    "description": "Two-day decentralization and privacy summit hosted by Aeternum during Devcon week.",
-    "startDate": "2026-11-05T10:00:00.000Z",
-    "endDate": "2026-11-06T19:00:00.000Z",
-    "city": "Mumbai",
-    "country": "India",
-    "location": "Mumbai, India",
-    "url": "https://devcon.org",
-    "website": "https://devcon.org",
-    "source": "curated-premier",
-    "slug": "unchained-summit-mumbai-2026",
-    "coverImage": "/logo/partners/ibw.png"
-  },
-  {
     "id": "side-ibw2026-ship-safe",
     "name": "Ship Safe: Devcon Mumbai Security Sessions",
     "description": "Interactive smart contract security workshop, attack vectors analysis, and live audit demos by QuillAudits.",
@@ -2745,21 +2792,6 @@
     "website": "https://quillaudits.com",
     "source": "curated-premier",
     "slug": "ship-safe-devcon-mumbai-security-sessions",
-    "coverImage": "/logo/partners/ibw.png"
-  },
-  {
-    "id": "side-ibw2026-ready-for-the-run",
-    "name": "Ready for the Run",
-    "description": "Community builder run, wellness session, and networking morning hosted by Infini3.",
-    "startDate": "2026-11-07T12:00:00.000Z",
-    "endDate": "2026-11-07T15:00:00.000Z",
-    "city": "Mumbai",
-    "country": "India",
-    "location": "Mumbai, India",
-    "url": "https://devcon.org",
-    "website": "https://devcon.org",
-    "source": "curated-premier",
-    "slug": "ready-for-the-run-mumbai-2026",
     "coverImage": "/logo/partners/ibw.png"
   }
 ]

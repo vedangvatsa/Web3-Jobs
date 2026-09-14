@@ -563,39 +563,6 @@ export const EVENT_GUIDES: Record<string, EventEditorialArticle> = {
     ],
   },
 
-  permissionless: {
-    summaryLead:
-      "Permissionless, Blockworks' flagship, returns to Brooklyn on October 14 to 16 with the tightest thematic focus of any major US event: DeFi mechanics, restaking economics, real-world asset issuance, stablecoins, and layer-2 infrastructure. No memecoin panels, no NFT art discussions; the program assumes professional fluency.",
-    expectedAttendance: "5,000+ attendees",
-    sections: [
-      {
-        heading: "Signal over spectacle",
-        content: [
-          "Blockworks programs the event the way its research desk thinks: sessions assume you know what a vault is, analysts moderate instead of celebrity MCs, and the attendee base skews toward people who ship or fund DeFi infrastructure. Aave, EigenLayer, Ondo, Pendle, Ethena, and their peers anchor the speaker list, and the questions from floors tend to be harder than the ones moderators ask.",
-          "The highest-value programming often happens off-stage. Blockworks Research analysts hold court at dinners and small-format sessions, and being on their radar, ideally having engaged with published research beforehand, meaningfully improves the quality of those interactions.",
-        ],
-      },
-      {
-        heading: "Brooklyn setting",
-        content: [
-          "The Brooklyn venue keeps the event outside Manhattan's hotel-ballroom circuit and gives evenings a distinct texture: rooftop gatherings, Williamsburg and DUMBO dinner spots, and a shorter, cheaper accommodation radius than Midtown offers. Subway access from Manhattan is straightforward, and rideshare surge pricing during event hours is real, so plan buffers.",
-          "October is New York at its most reliable weather-wise. Register early on Blockworks' official page; pass tiers rise in steps as the event approaches and press applications close well before doors.",
-        ],
-      },
-      {
-        heading: "Brooklyn logistics",
-        content: [
-          "The Brooklyn venue sits reachable from Manhattan via subway with predictable ride-sharing surges during arrival and departure windows. Williamsburg and Downtown Brooklyn accommodations cost less than Midtown equivalents while placing you closer to evening events, and Blockworks curates official partner hotels with negotiated rates published alongside ticket pages.",
-          "October New York delivers crisp walking weather, and the borough's restaurant density turns dinner reservations into strategic assets. Pass tiers step upward as the event approaches, press applications close early, and the Blockworks Research bundle including discounted analyst subscriptions appears periodically for serious attendees preparing their agendas.",
-                  "Permissionless history informs its current identity. The event launched during DeFi Summer's peak, contracted through the bear market alongside Blockworks' media expansion, and re-emerged with sharpened focus as Blockworks Research became a revenue-bearing institutional product. That evolution shows in programming priorities: sessions promoting tokens receive skepticism, while those presenting mechanism design analysis, emission schedule modeling, or governance attack retrospectives define the event's reputation. Brooklyn's setting reinforces the ethos; the borough's independent streak suits an event whose name signals ideological commitment to permissionless innovation over licensed intermediation. Attendees debating restaking economics at midnight embody the brand more accurately than any marketing copy.",
-                  "Blockworks publishes speaker announcements incrementally through its newsletters, and past-agenda archives reward study since session formats repeat: analyst-led debates replace keynote monologues throughout. Brooklyn accommodation near the venue books out fastest among New York boroughs during event dates.",
-                  "Blockworks Research subscribers receive event discounts alongside the analyst access that makes Permissionless distinctive, an alignment of incentives the team maintains deliberately rather than treating as promotional overhead.",
-                  "The event's official side-event calendar publishes through Blockworks newsletters, and its research-analist dinners rank among the most sought-after invitations of New York's fall crypto calendar.",
-        ],
-      },
-    ],
-  },
-
   swell: {
     summaryLead:
       "Ripple Swell comes to New York City on October 27 to 29, the annual gathering for Ripple's institutional network: banks, payment providers, remittance companies, and financial institutions working on cross-border settlement, RLUSD stablecoin rails, custody, and the XRP Ledger.",
