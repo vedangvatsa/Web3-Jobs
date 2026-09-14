@@ -1307,7 +1307,11 @@ async function main() {
     for (let i = 0; i < totalJobs; i++) {
       const idx = (state.lastIndex + i) % totalJobs;
       const candidate = jobs[idx];
-      if (!posted.has(candidate.slug) && !excludedSlugs.has(candidate.slug) && candidate.company.toLowerCase() !== excludeCompany) {
+      if (
+        isFreshRotationJob(state, candidate.slug, posted) &&
+        !excludedSlugs.has(candidate.slug) &&
+        candidate.company.toLowerCase() !== excludeCompany
+      ) {
         state.lastIndex = (idx + 1) % totalJobs;
         return candidate;
       }
@@ -1315,7 +1319,7 @@ async function main() {
     for (let i = 0; i < totalJobs; i++) {
       const idx = (state.lastIndex + i) % totalJobs;
       const candidate = jobs[idx];
-      if (!posted.has(candidate.slug) && !excludedSlugs.has(candidate.slug)) {
+      if (isFreshRotationJob(state, candidate.slug, posted) && !excludedSlugs.has(candidate.slug)) {
         state.lastIndex = (idx + 1) % totalJobs;
         return candidate;
       }
