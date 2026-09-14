@@ -17,6 +17,29 @@ const BLOCKED_EVENT_IDS = new Set([
   'premier-ethlisbon-2026', // Organizer has not announced a 2026 edition.
   'premier-smartcon-2026', // Organizer has not announced a 2026 edition.
   'premier-pbw-2027', // Paris Blockchain Week has been replaced by Signal Week.
+  'premier-permissionless-2026', // Official last edition was Permissionless IV (Jun 24–26 2025); no 2026 dates announced.
+  'premier-ethindia-2026', // ethindia.co only lists ended ETHIndiaVilla Nov 2025; no Dec 2026 edition announced.
+  // Fabricated / unverifiable curated side events (generic parent homepage only, or city mismatch).
+  'side-solana-breakpoint-yacht-party-2026',
+  'side-monad-builder-lounge-breakpoint-2026',
+  'side-token2049-vip-gala-2026',
+  'side-solana-superteam-singapore-2026',
+  'side-ethereum-singapore-l2-brunch-2026',
+  'side-base-builder-house-singapore-2026',
+  'side-ethsf-hacker-house-2026',
+  'side-sg-hyperliquid-traders-night',
+  'side-sg-rwa-institutional-summit',
+  'side-sg-ai-agents-onchain',
+  'premier-connectseoul',
+  'premier-connectsg',
+  'side-devcon8-privacy-hack-house-2026',
+  'side-ibw2026-media-accelerator',
+  'side-ibw2026-ai-economic-forum',
+  'side-ibw2026-eip-hub',
+  'side-ibw2026-ravecon-bender',
+  'side-ibw2026-pragma-mumbai',
+  'side-ibw2026-unchained-summit',
+  'side-ibw2026-ready-for-the-run',
   'premier-ethbucharest-2027',
   'premier-ethseoul-2027',
   'premier-ethbelgrade-2027',

@@ -465,6 +465,46 @@ export function getEventEditorialGuide(event: Web3Event): EventEditorialArticle 
     };
   }
 
+  // Editorial guide for ETHGlobal Tokyo
+  if (name.includes('ethglobal') && (name.includes('tokyo') || slug === 'ethglobal')) {
+    return {
+      summaryLead: `ETHGlobal Tokyo 2026 runs September 25 to 27 at Toranomon Hills Forum in Minato City. It is a three-day Ethereum hackathon for builders who want workshops, mentors, and a weekend to ship something real — with 800+ attendees, 10+ protocols, 29+ workshops, and $75,000 in prizes listed on the official event page.`,
+      ticketPricing: 'Free (application / RSVP via ETHGlobal)',
+      speakers: 'Judges, mentors, and speakers from ETHGlobal, Ethereum Foundation, Backpack, MetaMask, ENS, bitFlyer, and more',
+      expectedAttendance: '800+ attendees',
+      sections: [
+        {
+          heading: 'What the weekend is for',
+          content: [
+            'ETHGlobal frames the event simply: come build a decentralized future. Teams get access to protocol workshops, on-site mentors, and a judging track for working demos — not pitch decks.',
+            'The listed program includes 29+ workshops and 10+ protocols. Use the official agenda to pick tracks that match what you are shipping, then leave room for mentor office hours.',
+          ],
+        },
+        {
+          heading: 'Venue and location',
+          content: [
+            'The hackathon is at Toranomon Hills Forum on the 5th floor of Toranomon Hills Mori Tower (1-23-3 Toranomon, Minato City, Tokyo 105-0001). It sits in central Tokyo with good transit access to the rest of the city.',
+            'Book lodging early if you are flying in for the weekend. Minato and nearby wards fill quickly when large Ethereum events land in Tokyo.',
+          ],
+        },
+        {
+          heading: 'Who shows up',
+          content: [
+            'The published speaker, judge, and mentor list spans Japanese and international crypto teams: Kartik Talwar (ETHGlobal), Armani Ferrante (Backpack), Yuzo Kano (bitFlyer), Nuno Loureiro and Tomo Saito (Ethereum Foundation), Francesco Andreoli (MetaMask), Kevin Krone (ENS), and many more mentors from protocol and tooling teams.',
+            'Pragma Tokyo and other side gatherings often run around the same dates. Check ETHGlobal and Luma calendars for satellite sessions once they open.',
+          ],
+        },
+        {
+          heading: 'How to register',
+          content: [
+            'Apply and register through the official ETHGlobal Tokyo page at ethglobal.com/events/tokyo2026. Hackathon entry is typically free with an application; confirm current requirements on that page before you travel.',
+            'Prize pool is listed at $75,000. Sponsor bounties and judging criteria publish closer to the event — watch the ETHGlobal site and Discord for updates.',
+          ],
+        },
+      ],
+    };
+  }
+
   // Editorial guide for ETHDenver
   if (name.includes('ethdenver')) {
     return {

@@ -383,7 +383,16 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
       permanentRedirect(`/${eventSlug}`);
     }
     const editorial = await resolveEventGuide(event);
-    const speakerSummary = event.speakerDetails ? `${event.speakerDetails.length} official speakers announced.` : event.speakers?.join(', ');
+    const speakerSummary = event.speakerDetails?.length
+      ? event.speakerDetails
+          .map((speaker) => (speaker.organization ? `${speaker.name} (${speaker.organization})` : speaker.name))
+          .join(', ')
+      : event.speakers?.join(', ');
+    const speakerFact = event.speakerDetails?.length
+      ? `${event.speakerDetails.length} speakers & mentors announced`
+      : event.speakers?.length
+        ? `${event.speakers.length} speakers announced`
+        : speakerSummary;
     const eventExternalUrl = getEventExternalUrl(event);
     const partnerOfferUrl = event.partnerOffer?.url
       ? getEventExternalUrl({ registrationUrl: event.partnerOffer.url, website: undefined, url: '' })
@@ -473,7 +482,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
               </div>
 
               {/* Quick Facts Grid */}
-              {(event.partnerOffer || editorial.ticketPricing || editorial.expectedAttendance || speakerSummary) && (
+              {(event.partnerOffer || editorial.ticketPricing || editorial.expectedAttendance || speakerFact) && (
                 <div className="mt-8 grid gap-4 rounded-lg bg-muted/30 p-4 text-sm sm:grid-cols-2 lg:grid-cols-3">
                   {event.partnerOffer && (
                     <div className="space-y-1 sm:col-span-2 lg:col-span-3">
@@ -493,10 +502,10 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                       <span className="font-semibold text-foreground text-sm">{editorial.ticketPricing}</span>
                     </div>
                   )}
-                  {speakerSummary && (
+                  {speakerFact && (
                     <div className="space-y-1 break-words">
                       <span className="text-muted-foreground block text-xs font-semibold uppercase tracking-wider">Speakers</span>
-                      <span className="font-semibold text-foreground text-sm">{speakerSummary}</span>
+                      <span className="font-semibold text-foreground text-sm">{speakerFact}</span>
                     </div>
                   )}
                   {editorial.expectedAttendance && (
