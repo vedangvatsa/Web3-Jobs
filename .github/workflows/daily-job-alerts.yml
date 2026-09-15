@@ -2,9 +2,9 @@ name: Daily Job Alerts (Resend Broadcast)
 
 on:
   schedule:
-    # Run daily at 9:00 AM UTC
+    # Run daily at 9:00 AM IST (03:30 UTC; GitHub cron is UTC-only)
     # Sends to the Resend audience segment as a broadcast (unlimited capacity)
-    - cron: '0 9 * * *'
+    - cron: '30 3 * * *'
   workflow_dispatch:
     inputs:
       dry_run:
