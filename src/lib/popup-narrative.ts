@@ -22,55 +22,64 @@ function asSentence(text: string): string {
   return `${t}.`;
 }
 
-function splitIntoParagraphs(paragraphs: string[], targetWords = 120): string[] {
+/** Group sentences into readable paragraphs (not one sentence per line). */
+function groupSentencesIntoParagraphs(sentences: string[], targetWords = 90): string[] {
   const out: string[] = [];
-  for (const block of paragraphs) {
-    const sentences = splitPopupSentences(block);
-    let buf: string[] = [];
-    let n = 0;
-    for (const s of sentences) {
-      if (!s) continue;
-      buf.push(s);
-      n += wordCount(s);
-      if (n >= targetWords) {
-        out.push(buf.join(' '));
-        buf = [];
-        n = 0;
-      }
+  let buf: string[] = [];
+  let n = 0;
+
+  for (const raw of sentences) {
+    const s = asSentence(raw);
+    if (!s) continue;
+    buf.push(s);
+    n += wordCount(s);
+    // Prefer 2–4 sentences; flush once we have enough words or a long sentence.
+    if (n >= targetWords || (buf.length >= 3 && n >= 55) || buf.length >= 4) {
+      out.push(buf.join(' '));
+      buf = [];
+      n = 0;
     }
-    if (buf.length) out.push(buf.join(' '));
   }
+  if (buf.length) out.push(buf.join(' '));
   return out.filter(Boolean);
 }
 
 /** Main article: editorial body + summary/overview only (lists live in sections below). */
 export function composePopupNarrative(popup: Popup): string[] {
-  const blocks: string[] = [];
+  const sentences: string[] = [];
+  const seen = new Set<string>();
+
+  const push = (text: string) => {
+    const s = asSentence(text);
+    if (!s) return;
+    const key = s.toLowerCase();
+    if (seen.has(key)) return;
+    seen.add(key);
+    sentences.push(s);
+  };
 
   for (const p of filterPopupBody(popup.body)) {
     const prose = insertSentenceBreaksInRunOn(p);
-    for (const sent of splitPopupSentences(prose)) {
-      blocks.push(asSentence(sent));
-    }
+    for (const sent of splitPopupSentences(prose)) push(sent);
   }
 
   const summary = asSentence(popup.summary);
-  if (summary && !blocks.some((b) => b.includes(summary.slice(0, 40)))) {
-    blocks.push(summary);
+  if (summary && !sentences.some((b) => b.includes(summary.slice(0, 40)))) {
+    push(summary);
   }
 
   for (const line of popup.overview ?? []) {
     if (isPopupOverviewPadding(line)) continue;
-    const s = asSentence(insertSentenceBreaksInRunOn(line));
-    if (s) blocks.push(s);
+    for (const sent of splitPopupSentences(insertSentenceBreaksInRunOn(line))) {
+      push(sent);
+    }
   }
 
-  const cleaned = blocks.filter(Boolean);
-  if (!cleaned.length) {
+  if (!sentences.length) {
     return filterPopupBody(popup.body);
   }
 
-  return splitIntoParagraphs(cleaned, 120);
+  return groupSentencesIntoParagraphs(sentences, 90);
 }
 
 export function popupNarrativeWordCount(popup: Popup): number {

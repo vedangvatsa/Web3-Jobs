@@ -81,12 +81,13 @@ export function mergeBrokenPopupLines(lines: string[]): string[] {
     const t = formatPopupParagraph(raw);
     if (!t) continue;
     const prev = merged[merged.length - 1];
-    if (
-      prev &&
-      !/[.!?]$/.test(prev) &&
-      /^[a-z(]/.test(t) &&
-      t.length < 80
-    ) {
+    const nextIsNewEntry =
+      /^(?:in|by|after|during|for)\s+\d{4}\b/i.test(t) ||
+      /^\d{4}\b/.test(t) ||
+      /^(?:jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)\b/i.test(t);
+    const prevDangles = prev && /\b(on|the|a|an|and|or|of|to|for|with|from|into|welcome)\s*$/i.test(prev);
+    const prevIncomplete = prev && !/[.!?]$/.test(prev) && (prevDangles || /^[a-z(]/.test(t));
+    if (prevIncomplete && !nextIsNewEntry && (/^[a-z(]/.test(t) || prevDangles)) {
       merged[merged.length - 1] = `${prev} ${t}`;
       continue;
     }
@@ -109,7 +110,7 @@ export function isPopupScrapeNoise(line: string): boolean {
   if (/Burn Calories/i.test(t)) return true;
   if (/^\d{2}\s*-\s*What .+ do /i.test(t)) return true;
   if (/database\.\s*$/i.test(t) && t.length < 120) return true;
-  // Sourced-from-NS meta lines (attribution belongs in the linked footer, not body copy)
+  // Sourced-from-NS meta lines
   if (/appears (in|on) Network School/i.test(t)) return true;
   if (/shows up on the Network School dashboard/i.test(t)) return true;
   if (/listed on the Network School dashboard/i.test(t)) return true;
@@ -117,6 +118,35 @@ export function isPopupScrapeNoise(line: string): boolean {
   if (/Also listed on the\b/i.test(t)) return true;
   if (/ns\.com dashboard/i.test(t)) return true;
   if (/Network School directories/i.test(t)) return true;
+  // CTA / website chrome / broken UI strings
+  if (/^Apply to Stay\b/i.test(t)) return true;
+  if (/^Learn More\b/i.test(t)) return true;
+  if (/^Join the (conversation|community)\b/i.test(t)) return true;
+  if (/^join the community\b/i.test(t)) return true;
+  if (/Something went wrong/i.test(t)) return true;
+  if (/try again\s*:?\s*\)/i.test(t)) return true;
+  if (/What residents are saying/i.test(t)) return true;
+  if (/view on Instagram/i.test(t)) return true;
+  if (/Help shape .+ WhatsApp/i.test(t)) return true;
+  if (/About .+ food\b/i.test(t) && t.length < 80) return true;
+  if (/Explore the villas\b/i.test(t)) return true;
+  if (/Three meals a day, together\b/i.test(t)) return true;
+  if (/An innovative economic model Below/i.test(t)) return true;
+  if (/A new model of living What if/i.test(t)) return true;
+  if (/Hidden Sanctuary for Your Family/i.test(t)) return true;
+  if (/Underwater Drones\b/i.test(t)) return true;
+  if (/Ground Effect Drones\b/i.test(t)) return true;
+  if (/About the ArkPad/i.test(t)) return true;
+  if (/Entrepreneur Workshop\b/i.test(t)) return true;
+  if (/An intro to\b/i.test(t)) return true;
+  if (/^\d+\+ members building\b/i.test(t)) return true;
+  if (/^\w+ \d{1,2},?\s+\d{4}\b.+\b(Workshop|Meetup|Event)\b/i.test(t)) return true;
+  if (/^\d{4}\s*[-–—]\s*.+\d{4}\s*[-–—]/i.test(t)) return true; // stacked event calendar dumps
+  if (/Amagi Life['’]re building/i.test(t)) return true;
+  if (/Akiya Collective['’]?re looking/i.test(t)) return true;
+  if (/follow Akiya Collective/i.test(t)) return true;
+  if (/apply for core team/i.test(t)) return true;
+  if (/[\uFFFD\uE000-\uF8FF]/.test(t)) return true; // replacement / private-use glyphs from bad emoji
   // Scrape section headers / FAQ prompts
   if (/^Amenities in .+ include:?$/i.test(t)) return true;
   if (/^Tickets include:?$/i.test(t)) return true;
@@ -148,10 +178,13 @@ export function splitPopupSentences(block: string): string[] {
   const text = formatPopupParagraph(block);
   if (!text) return [];
 
-  const protectedText = text.replace(
+  let protectedText = text.replace(
     /\b([a-z0-9-]+)\.(city|com|io|co|bt|ai|xyz|org|net|app)\b/gi,
-    (_, a, b) => `${a}DOT${b}`
+    (_, a, b) => `${a}DOT${b}`,
   );
+  // Keep short abbreviations like T.I.A. / U.S. from becoming sentence breaks.
+  protectedText = protectedText.replace(/\b([A-Z])\.(?=[A-Z]\.)/g, '$1DOT');
+  protectedText = protectedText.replace(/\b([A-Z])\.(?=\s|$)/g, '$1DOT');
 
   const parts =
     protectedText.match(/[^.!?]+[.!?]+(?:\s|$)|[^.!?]+$/g)?.map((s) => s.trim()) ?? [protectedText];

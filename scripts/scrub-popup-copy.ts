@@ -4,8 +4,13 @@ import {
   formatPopupPricingSummary,
   rewritePopupLine,
   scrubPopupLines,
+  shouldDropPopupLine,
 } from '@/lib/popup-copy-guard';
-import { explodePopupTextLines, mergeBrokenPopupLines } from '@/lib/popup-text';
+import {
+  explodePopupTextLines,
+  isPopupScrapeNoise,
+  mergeBrokenPopupLines,
+} from '@/lib/popup-text';
 import type { Popup } from '@/types/popup';
 
 const TAGLINE_FIXES: Record<string, string> = {
@@ -20,12 +25,12 @@ function rewriteLines(lines: string[] | undefined): string[] {
   return (lines ?? []).map((line) => rewritePopupLine(line));
 }
 
-function scrubBody(lines: string[] | undefined): string[] {
-  return explodePopupTextLines(scrubPopupLines(rewriteLines(lines)));
+function scrubField(lines: string[] | undefined): string[] {
+  return scrubPopupLines(rewriteLines(lines)).filter((line) => !isPopupScrapeNoise(line));
 }
 
-function scrubField(lines: string[] | undefined): string[] {
-  return scrubPopupLines(rewriteLines(lines));
+function scrubBody(lines: string[] | undefined): string[] {
+  return explodePopupTextLines(scrubField(lines)).filter((line) => !isPopupScrapeNoise(line) && !shouldDropPopupLine(line));
 }
 
 function scrubPopup(popup: Popup): Popup {
