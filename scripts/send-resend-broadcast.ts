@@ -86,12 +86,13 @@ function buildHtml(jobs: JobListing[]): string {
         </a>
        </div>
        <div style="margin-top: 22px; padding: 18px; background-color: #f8fafc; border-radius: 10px; text-align: center;">
-        <div style="font-size: 15px; font-weight: 700; color: #111827;">Get instant job alerts on Telegram</div>
-        <div style="font-size: 13px; color: #6b7280; margin: 6px 0 14px 0;">Join 60,000+ Web3 professionals getting roles first.</div>
-        <a href="https://t.me/web3hiring"
-          style="display: inline-block; background-color: #229ED9; color: #ffffff; text-decoration: none; font-weight: 700; font-size: 14px; padding: 12px 28px; border-radius: 8px;">
-         Subscribe on Telegram
-        </a>
+        <div style="font-size: 15px; font-weight: 700; color: #111827;">60,000+ get instant job alerts</div>
+        <div style="margin-top: 14px;">
+         <a href="https://t.me/web3hiring"
+           style="display: inline-block; background-color: #111827; color: #ffffff; text-decoration: none; font-weight: 700; font-size: 14px; padding: 12px 28px; border-radius: 8px;">
+          Subscribe on Telegram
+         </a>
+        </div>
        </div>
        <div style="margin-top: 18px; font-size: 12px; color: #9ca3af; border-top: 1px solid #e5e7eb; padding-top: 12px;">
         <p style="margin: 6px 0;">Hashtag Web3 | Global Tech Recruitment</p>
@@ -111,7 +112,7 @@ function buildText(jobs: JobListing[]): string {
     const salary = job.salary ? ` | ${job.salary}` : '';
     return `${job.title} - ${job.company}${salary}\n${job.url}`;
   }).join('\n\n');
-  return `HASHTAG WEB3 DAILY JOB ALERTS\n\n${jobs.length} new roles today:\n\n${lines}\n\n---\nGet instant alerts on Telegram (60,000+ members): https://t.me/web3hiring\nView all jobs at: ${siteUrl}?${UTM}&utm_content=browse-all\nUnsubscribe: {{{RESEND_UNSUBSCRIBE_URL}}}`;
+  return `HASHTAG WEB3 DAILY JOB ALERTS\n\n${jobs.length} new roles today:\n\n${lines}\n\n---\n60,000+ get instant job alerts: https://t.me/web3hiring\nView all jobs at: ${siteUrl}?${UTM}&utm_content=browse-all\nUnsubscribe: {{{RESEND_UNSUBSCRIBE_URL}}}`;
 }
 
 async function main() {
