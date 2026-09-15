@@ -9,7 +9,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:US_Capitol_west_side.JPG
 category: News
 data-ai-hint: us capitol west front washington dc
 publishedDate: '2026-09-12'
-lastUpdated: '2026-09-17'
+lastUpdated: "2026-09-15"
 ogTitle: SENATE BLOCKS CLARITY ACT ON PROCEDURAL VOTE
 ---
 
