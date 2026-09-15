@@ -1,4 +1,108 @@
-import { PageHeader } from "@/components/page-header";
+import { PageHeader } from '@/components/page-header';
+import { PageShell } from '@/components/page-shell';
+import { fmtInt, fmtUsd, fmtUsdK, hiringReportStats as s } from '@/lib/hiring-report-stats';
+
+export const dynamic = 'force-static';
+
+const kw = s.keywords;
+const engDept = s.departments.find((d) => d.label === 'Engineering');
+const salesDept = s.departments.find((d) => d.label === 'Sales & BD');
+const productDept = s.departments.find((d) => d.label === 'Product & Design');
+const mktDept = s.departments.find((d) => d.label === 'Marketing');
+const opsDept = s.departments.find((d) => d.label === 'Operations');
+const compDept = s.departments.find((d) => d.label === 'Compliance & Legal');
+const finDept = s.departments.find((d) => d.label === 'Finance');
+
+const DEPT_BAR_COLORS = ['#18181B', '#27272A', '#3F3F46', '#52525B', '#71717A', '#A1A1AA', '#D4D4D8'];
+const deptChartData = s.departments.map((d, i) => ({
+ label: d.label,
+ value: d.pct,
+ color: DEPT_BAR_COLORS[i] ?? '#D4D4D8',
+}));
+
+const skillChartData = [
+ { label: 'AI / ML / LLM', value: kw.ai.pct, color: '#18181B' },
+ { label: 'Python', value: kw.python.pct, color: '#18181B' },
+ { label: 'Data / Analytics', value: kw.dataAnalysis.pct, color: '#18181B' },
+ { label: 'SQL', value: kw.sql.pct, color: '#18181B' },
+ { label: 'AWS', value: kw.aws.pct, color: '#18181B' },
+ { label: 'Project Mgmt', value: kw.projectMgmt.pct, color: '#18181B' },
+ { label: 'Java', value: kw.java.pct, color: '#18181B' },
+ { label: 'TypeScript', value: kw.typescript.pct, color: '#18181B' },
+ { label: 'React', value: kw.react.pct, color: '#18181B' },
+ { label: 'Smart Contracts', value: kw.smartContract.pct, color: '#18181B' },
+ { label: 'Rust', value: kw.rust.pct, color: '#18181B' },
+ { label: 'Solidity', value: kw.solidity.pct, color: '#18181B' },
+];
+
+const softSkillChartData = [
+ { label: 'Product Mgmt', value: kw.productMgmt.pct, color: '#52525B' },
+ { label: 'Analytical Skills', value: kw.analytical.pct, color: '#52525B' },
+ { label: 'Risk Management', value: kw.risk.pct, color: '#52525B' },
+ { label: 'Project Mgmt', value: kw.projectMgmt.pct, color: '#52525B' },
+ { label: 'AML', value: kw.aml.pct, color: '#52525B' },
+ { label: 'Negotiation', value: kw.negotiation.pct, color: '#52525B' },
+ { label: 'Stakeholder Mgmt', value: kw.stakeholder.pct, color: '#52525B' },
+];
+
+const salaryBandChartData = [
+ { label: '$200k+', value: s.salary.bands.over200.pct, color: '#18181B' },
+ { label: '$150k - $200k', value: s.salary.bands.b150_200.pct, color: '#52525B' },
+ { label: '$100k - $150k', value: s.salary.bands.b100_150.pct, color: '#71717A' },
+ { label: '< $100k', value: s.salary.bands.under100.pct, color: '#A1A1AA' },
+];
+
+const locationDonut = [
+ { label: 'USA', value: Math.round(s.location.usa.pct), color: '#18181B' },
+ { label: 'Other', value: Math.round(s.location.other.pct), color: '#E4E4E7' },
+ { label: 'Remote', value: Math.round(s.location.remoteBucket.pct), color: '#3F3F46' },
+ { label: 'Europe', value: Math.round(s.location.europe.pct), color: '#52525B' },
+ { label: 'Singapore', value: Math.round(s.location.singapore.pct), color: '#71717A' },
+ { label: 'Hong Kong', value: Math.round(s.location.hongKong.pct), color: '#A1A1AA' },
+];
+
+const seniorityDonut = [
+ { label: 'Mid-level', value: Math.round(s.seniority.mid.pct), color: '#A1A1AA' },
+ { label: 'Senior', value: Math.round(s.seniority.senior.pct), color: '#18181B' },
+ { label: 'Executive', value: Math.round(s.seniority.executive.pct), color: '#52525B' },
+ { label: 'Entry/Intern', value: Math.round(s.seniority.entry.pct), color: '#D4D4D8' },
+];
+
+const topEmployerChartData = s.topCompanies.slice(0, 9).map((c) => ({
+ label: c.name,
+ value: c.count,
+ color: '#18181B',
+}));
+
+const employerTypeChartData = [
+ { label: 'Exchanges', value: s.employerTypes.exchange.pct, color: '#18181B' },
+ { label: 'Infrastructure', value: s.employerTypes.infrastructure.pct, color: '#18181B' },
+ { label: 'Payments', value: s.employerTypes.payments.pct, color: '#18181B' },
+ { label: 'Trading', value: s.employerTypes.trading.pct, color: '#18181B' },
+ { label: 'DeFi protocols', value: s.employerTypes.defi.pct, color: '#A1A1AA' },
+];
+
+const velocityDayLabels: Record<string, string> = {
+ '2026-09-04': 'Sep 04 (Thu)',
+ '2026-09-05': 'Sep 05 (Fri)',
+ '2026-09-06': 'Sep 06 (Sat)',
+ '2026-09-07': 'Sep 07 (Sun)',
+ '2026-09-08': 'Sep 08 (Mon)',
+ '2026-09-09': 'Sep 09 (Tue)',
+ '2026-09-10': 'Sep 10 (Wed)',
+ '2026-09-11': 'Sep 11 (Thu)',
+};
+
+const velocityChartData = Object.entries(s.velocity.byDate)
+ .sort((a, b) => b[0].localeCompare(a[0]))
+ .map(([date, value]) => ({
+  label: velocityDayLabels[date] ?? date,
+  value,
+  color: date.endsWith('-05') || date.endsWith('-06') ? '#A1A1AA' : '#18181B',
+ }));
+
+const CHART_CARD =
+  'rounded-2xl border border-border/70 bg-card p-6 sm:p-8 shadow-sm flex flex-col justify-center';
 
 /* ── Chart Components ── */
 function DonutChart({ segments, size = 180 }: { segments: { label: string; value: number; color: string }[]; size?: number }) {
@@ -14,13 +118,13 @@ function DonutChart({ segments, size = 180 }: { segments: { label: string; value
      offset += dash;
      return el;
     })}
-    <circle cx={cx} cy={cy} r="58" className="fill-[#fafafa] dark:fill-black" />
+    <circle cx={cx} cy={cy} r="58" className="fill-background" />
    </svg>
    <div className="flex flex-wrap justify-center gap-x-5 gap-y-1.5 mt-5">
     {segments.map((seg, i) => (
      <div key={i} className="flex items-center gap-2">
       <div className="w-2.5 h-2.5 rounded-full" style={{ backgroundColor: seg.color }} />
-      <span className="text-[13px] text-zinc-500 dark:text-zinc-400">{seg.label} <span className="font-semibold text-zinc-700 dark:text-zinc-300">{seg.value}%</span></span>
+      <span className="text-sm text-muted-foreground">{seg.label} <span className="font-semibold text-foreground">{seg.value}%</span></span>
      </div>
     ))}
    </div>
@@ -35,10 +139,10 @@ function HBar({ data, unit = '' }: { data: { label: string; value: number; color
    {data.map((d, i) => (
     <div key={i}>
      <div className="flex justify-between mb-1.5">
-      <span className="text-sm text-zinc-700 dark:text-zinc-300 font-medium">{d.label}</span>
-      <span className="text-sm font-bold text-zinc-900 dark:text-zinc-100">{d.value}{unit}</span>
+      <span className="text-sm font-medium text-foreground/90">{d.label}</span>
+      <span className="text-sm font-bold text-foreground">{d.value}{unit}</span>
      </div>
-     <div className="h-2.5 bg-zinc-100 dark:bg-zinc-800/60 rounded-full overflow-hidden">
+     <div className="h-2.5 bg-muted rounded-full overflow-hidden">
       <div className="h-full rounded-full transition-all duration-700" style={{ width: `${(d.value / max) * 100}%`, backgroundColor: d.color }} />
      </div>
     </div>
@@ -50,32 +154,37 @@ function HBar({ data, unit = '' }: { data: { label: string; value: number; color
 function BigNum({ value, label, sub }: { value: string; label: string; sub?: string }) {
  return (
   <div className="text-center">
-   <div className="text-5xl sm:text-6xl font-bold text-zinc-900 dark:text-zinc-50 tracking-tight leading-none">{value}</div>
-   <div className="text-sm text-zinc-500 dark:text-zinc-400 mt-3 leading-relaxed">{label}</div>
-   {sub && <div className="text-[11px] text-zinc-400 dark:text-zinc-500 mt-1">{sub}</div>}
+   <div className="text-5xl sm:text-6xl font-bold text-foreground tracking-tight leading-none">{value}</div>
+   <div className="text-sm text-muted-foreground mt-3 leading-relaxed">{label}</div>
+   {sub && <div className="text-xs text-muted-foreground/80 mt-1">{sub}</div>}
   </div>
  );
 }
 
 function Callout({ children }: { children: React.ReactNode }) {
  return (
-  <blockquote className="border-l-2 border-zinc-900 dark:border-zinc-100 pl-6 py-2 my-10">
-   <p className="text-lg sm:text-xl text-zinc-800 dark:text-zinc-200 leading-relaxed italic">{children}</p>
+  <blockquote className="my-10 rounded-r-lg border-l-2 border-primary bg-muted/20 py-2 pl-6">
+   <p className="text-lg sm:text-xl leading-relaxed text-foreground/90 not-italic">{children}</p>
   </blockquote>
  );
 }
 
 function Sources({ children }: { children: React.ReactNode }) {
  return (
-  <div className="mt-6 pt-4 border-t border-zinc-100 dark:border-zinc-800/50">
-   <p className="text-[11px] text-zinc-400 dark:text-zinc-500 leading-relaxed">{children}</p>
+  <div className="mt-6 border-t border-border/60 pt-4">
+   <p className="text-xs text-muted-foreground leading-relaxed">{children}</p>
   </div>
  );
 }
 
 function Cite({ href, children }: { href: string; children: React.ReactNode }) {
  return (
-  <a href={href} target="_blank" rel="noopener noreferrer" className="text-zinc-900 dark:text-zinc-100 hover:text-indigo-600 dark:hover:text-indigo-400 underline underline-offset-2 decoration-zinc-300 dark:decoration-zinc-600 hover:decoration-indigo-400 transition-colors">
+  <a
+   href={href}
+   target="_blank"
+   rel="noopener noreferrer"
+   className="font-medium text-foreground underline underline-offset-2 decoration-border transition-colors hover:decoration-primary"
+  >
    {children}
   </a>
  );
@@ -84,469 +193,346 @@ function Cite({ href, children }: { href: string; children: React.ReactNode }) {
 /* ── Page ── */
 export default function Web3HiringReport() {
  return (
-  <div className="h-screen overflow-y-auto bg-[#fafafa] dark:bg-black selection:bg-zinc-200 dark:selection:bg-zinc-800 transition-colors duration-200 flex flex-col">
-      <main id="main-content" className="site-container py-16 md:py-20 pb-20 flex-1">
+  <div className="flex min-h-screen flex-col bg-background text-foreground">
+   <main id="main-content" className="flex-1">
+    <PageShell containerClassName="space-y-20 pb-16 md:space-y-28 md:pb-20">
 
-    {/* HERO */}
-    <div className="mb-20">
-     <p className="text-[11px] font-semibold text-zinc-400 uppercase tracking-[0.2em] mb-6">Hashtag Web3 Research / May 2026</p>
-     <PageHeader title={<>The Web3 Hiring<br />Report 2026</>} />
-     <p className="text-[17px] text-zinc-500 dark:text-zinc-400 leading-[1.8] max-w-3xl">
-      We analyzed <Cite href="https://hashtagweb3.com/jobs">3,427 active job listings</Cite> across 283 Web3 companies. This report breaks down what those listings reveal about skills, compensation, departments, locations, and the state of crypto hiring based on direct source data.
+    <div>
+     <p className="mb-4 text-xs font-semibold uppercase tracking-[0.2em] text-primary">
+      Hashtag Web3 Research / {s.snapshotLabel}
      </p>
+     <PageHeader
+      align="left"
+      className="mb-0 text-left [&_h1]:text-left [&_p]:mx-0 [&_p]:max-w-3xl [&_p]:text-base [&_p]:leading-relaxed"
+      title={
+       <>
+        The Web3 Hiring
+        <br />
+        Report 2026
+       </>
+      }
+      description={
+       <>
+        We analyzed <Cite href="https://hashtagweb3.com/jobs">{fmtInt(s.listings)} active job listings</Cite> across {s.companies} companies.
+        Full posting text lives in our description shards and was parsed for skills, pay bands, remote language,
+        and compensation keywords, alongside ATS titles, departments, and locations.
+       </>
+      }
+     />
     </div>
 
-    {/* BIG NUMBERS */}
-    <div className="grid grid-cols-2 lg:grid-cols-4 gap-px bg-zinc-200 dark:bg-zinc-800/50 rounded-lg overflow-hidden mb-28">
+    <div className="grid grid-cols-2 gap-4 lg:grid-cols-4">
      {[
-      { value: '3,427', label: 'Active job listings analyzed', sub: 'May 2026' },
-      { value: '283', label: 'Web3 companies hiring', sub: 'From Binance to early-stage' },
-      { value: '$166k', label: 'Median salary (where listed)', sub: 'Range: $65k-$298k' },
-      { value: '42%', label: 'Roles are remote-first', sub: 'Global hiring standard' },
+      { value: fmtInt(s.listings), label: 'Active job listings analyzed', sub: s.snapshotLabel },
+      { value: String(s.companies), label: 'Companies hiring', sub: 'Exchanges, payments, infra' },
+      { value: fmtUsdK(s.salary.median), label: 'Median salary (in posting text)', sub: `n=${fmtInt(s.salary.n)} parsed ranges` },
+      { value: `${Math.round(s.jdRemote.pct)}%`, label: 'Postings mention remote work', sub: `${Math.round(s.location.remoteField.pct)}% remote in location field` },
      ].map((d, i) => (
-      <div key={i} className="bg-[#fafafa] dark:bg-black p-8 sm:p-10 flex flex-col justify-center">
+      <div key={i} className="rounded-2xl border border-border/70 bg-card p-6 shadow-sm sm:p-8">
        <BigNum {...d} />
       </div>
      ))}
     </div>
 
-    {/* EXECUTIVE SUMMARY */}
-    <section className="mb-28">
-     <h2 className="text-2xl sm:text-3xl font-bold tracking-tight text-zinc-900 dark:text-zinc-50 mb-5">Executive summary</h2>
-     <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
-      Web3 hiring in 2026 is defined by a paradox. The industry talks about decentralization, but hiring is concentrated: the top 10 companies account for a large percentage of open roles, led by Binance with 418 open roles. It talks about blockchain, but only a fraction of job listings explicitly require blockchain skills as their primary requirement. It talks about disrupting finance, but the most-hired department is engineering (36.6%), not finance (2.3%). The gap between Web3&apos;s narrative and its labor market tells you more about the industry&apos;s actual state than any whitepaper.
+    <section>
+     <h2 className="text-2xl sm:text-3xl font-bold tracking-tight text-foreground mb-5">Executive summary</h2>
+     <p className="text-base text-muted-foreground leading-relaxed mb-5">
+      Public Web3 hiring in {s.snapshotLabel} is concentrated and operational. The top 10 employers account for {s.top10SharePct}% of open roles. {s.topCompanies[0]?.name} leads the board with {fmtInt(s.topCompanies[0]?.count ?? 0)} listings, ahead of {s.topCompanies[1]?.name} ({fmtInt(s.topCompanies[1]?.count ?? 0)}) and {s.topCompanies[2]?.name} ({fmtInt(s.topCompanies[2]?.count ?? 0)}). Engineering is still the largest function at {engDept?.pct}%. Finance is {finDept?.pct}%. Pure DeFi protocol teams barely show up on structured ATS boards.
      </p>
-     <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
-      This report is based on structured data extraction from 3,427 active job listings across 283 companies. We aggregated each listing directly from hiring platforms, extracted the full job description, and used automated classification to map each role by department, required skills, and experience level. The result is one of the most granular public datasets on Web3 hiring available today.
+     <p className="text-base text-muted-foreground leading-relaxed mb-5">
+      This report uses the same job text shown on Hashtag Web3 role pages: {fmtInt(s.withDesc)} of {fmtInt(s.listings)} listings ({s.withDescPct}%) have at least 100 characters of description content in <code className="text-xs bg-muted px-1 py-0.5 rounded">content/job-description-shards/</code>. Departments and seniority still come from titles and ATS fields. Keyword and salary rates below are measured on that full posting text unless noted. All figures are loaded from precomputed <code className="text-xs bg-muted px-1 py-0.5 rounded">content/hiring-report-stats.json</code> at build time (no analysis runs when you open this page).
      </p>
-     <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
-      Six findings stand out. First, engineering dominates at 36.6% of roles, significantly higher than traditional tech companies. Second, Python and data analysis are the top technical skills. Third, the median salary of $166,000 carries a strong premium over equivalent traditional tech roles. Fourth, 42% of positions are remote, 3x the industry average. Fifth, only 14% of roles are entry-level, creating a structural junior talent pipeline problem. Sixth, infrastructure companies account for the vast majority of hiring, dwarfing DeFi and gaming.
+     <p className="text-base text-muted-foreground leading-relaxed mb-5">
+      Six findings stand out. Engineering is 35.9% of roles. Sales and BD (10.8%) outrank operations (6.9%). Median base pay parsed from posting text is $203,500 (n=1,293, about 21% of listings). AI, ML, or LLM language appears in 49.6% of full postings. Remote work is mentioned in 35.4% of posting text, though only 19.3% of location fields say remote. Entry and intern titles are 3.8%. Stripe, not Binance, tops the employer count.
      </p>
-     <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85]">
-      The data suggests that Web3 is maturing from a speculative industry into an operational one. Compliance and legal roles (5.7%) barely existed two years ago but are now a major focus. Full-time employment dominates over contracts. Companies are building for permanence, not for the next token launch cycle. What follows is a section-by-section breakdown of every dimension of Web3 hiring we could measure.
+     <p className="text-base text-muted-foreground leading-relaxed">
+      Compliance and legal departments are 5.4% of the board. Contract language appears in 9% of postings. Typical weekdays add roughly 90 newly dated roles. What follows is measured from this cache; external 2026 salary surveys are cited only where our sample is thin.
      </p>
     </section>
 
-    {/* SECTION 1: DEPARTMENT BREAKDOWN */}
-    <section className="mb-28">
+    <section>
      <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-12">
       <div>
-       <h2 className="text-2xl sm:text-3xl font-bold tracking-tight text-zinc-900 dark:text-zinc-50 mb-5">1 in 3 Web3 roles is engineering</h2>
-       <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
-        Engineering dominates Web3 hiring at 34.4% of all listings, a figure that far exceeds traditional tech companies. For comparison, <Cite href="https://www.bls.gov/ooh/computer-and-information-technology/">US Bureau of Labor Statistics data</Cite> puts software development at roughly 20-25% of tech company headcount when accounting for all support, sales, and administrative functions. In Web3, the ratio is closer to 1 in 3, driven by the need to build and maintain distributed infrastructure that handles billions in transaction volume.
+       <h2 className="text-2xl sm:text-3xl font-bold tracking-tight text-foreground mb-5">1 in 3 Web3 roles is engineering</h2>
+       <p className="text-base text-muted-foreground leading-relaxed mb-5">
+        Engineering is 35.9% of the September board (2,176 of 6,069 listings). That is still well above a typical tech company mix, where <Cite href="https://www.bls.gov/ooh/computer-and-information-technology/">BLS occupational data</Cite> puts software development closer to 20-25% of headcount once sales, support, and admin are counted. Web3 is still building rails, not just running them.
        </p>
-       <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
-        Operations is a distant second at 10.6%, followed by marketing at 8.9%. The operations figure is inflated by exchange-heavy companies like Binance and OKX, where compliance operations, customer support, and risk monitoring require large teams. Marketing at 8.9% is lower than you might expect for consumer-facing companies, but makes sense given that many Web3 products grow through developer adoption and protocol integrations rather than traditional advertising.
+       <p className="text-base text-muted-foreground leading-relaxed mb-5">
+        Sales and business development is now second at 10.8%, ahead of product and design (9.8%) and marketing (7.8%). Operations dropped to 6.9%. The sales lift is concentrated at B2B firms selling custody, on-ramps, and compliance tooling to institutions. Permissionless protocols still hire almost no quota-carrying salespeople.
        </p>
-       <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
-        Sales and business development together represent 8.4% of listings. This is concentrated in B2B infrastructure companies like Chainalysis, Elliptic, and Fireblocks, which sell compliance and custody solutions to financial institutions. Consumer-facing protocols like Uniswap or Aave have virtually zero sales roles because their products are permissionless.
+       <p className="text-base text-muted-foreground leading-relaxed mb-5">
+        Compliance and legal is 5.4%. Finance is 4.9%. Together they are 10.3% of public listings, which matches a market that has to live with <Cite href="https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica">MiCA</Cite> and the <Cite href="https://www.sec.gov/spotlight/digital-assets">SEC digital-asset docket</Cite>. HR is 3.1%. Trading titles are 2.1% on the board, which understates desk hiring because shops like Jane Street still recruit off-cycle.
        </p>
-       <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
-        Finance (5.0%) and compliance (2.5%) together represent 7.5% of roles, reflecting the industry&apos;s maturation as regulatory frameworks like <Cite href="https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica">MiCA</Cite> in Europe and the <Cite href="https://www.sec.gov/spotlight/digital-assets">SEC&apos;s digital asset framework</Cite> in the US create new reporting obligations. Two years ago, compliance roles were virtually absent from Web3 job boards. Their presence at 6.3% (when combined with legal) signals a structural shift in how crypto companies operate.
-       </p>
-       <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85]">
-        Trading desks account for just 0.9% of listings, concentrated at Citadel Securities and Binance. This low figure is somewhat misleading: quant trading firms typically hire through direct outreach and university recruiting rather than public job boards. The true demand for trading talent in crypto is likely 3-5x what public listings suggest, based on <Cite href="https://www.efinancialcareers.com/">eFinancialCareers reporting</Cite> on crypto-native hedge fund growth.
+       <p className="text-base text-muted-foreground leading-relaxed">
+        13.3% of listings did not map cleanly to those buckets (CEO office, research, facilities, mixed ATS labels). We left them as Other rather than forcing them into engineering.
        </p>
       </div>
-      <div className="bg-white dark:bg-zinc-900/30 border border-zinc-200 dark:border-zinc-800/40 rounded-lg p-8 flex flex-col justify-center">
-       <p className="text-xs font-medium text-zinc-400 dark:text-zinc-500 uppercase tracking-widest mb-6">Department distribution (% of listings)</p>
-       <HBar data={[
-        { label: 'Engineering', value: 36.6, color: '#18181B' },
-        { label: 'Operations', value: 10.0, color: '#27272A' },
-        { label: 'Sales & BD', value: 9.5, color: '#3F3F46' },
-        { label: 'Product & Design', value: 9.4, color: '#52525B' },
-        { label: 'Marketing', value: 8.2, color: '#71717A' },
-        { label: 'Compliance & Legal', value: 5.7, color: '#A1A1AA' },
-        { label: 'Finance', value: 2.3, color: '#D4D4D8' },
-       ]} unit="%" />
+      <div className={`${CHART_CARD}`}>
+       <p className="text-xs font-medium text-muted-foreground uppercase tracking-widest mb-6">Department distribution (% of listings)</p>
+       <HBar data={deptChartData} unit="%" />
       </div>
      </div>
-     <Callout>Engineering at 34.4% is nearly double the ratio at traditional tech companies. Web3 is still in build mode.</Callout>
+     <Callout>Engineering at 35.9% is still roughly 1.5x a traditional tech mix. Sales has overtaken operations on the public board.</Callout>
      <Sources>
-      Source: <Cite href="https://hashtagweb3.com/jobs">Hashtag Web3</Cite>, May 2026 | <Cite href="https://www.developerreport.com/">Electric Capital Developer Report 2025</Cite> | <Cite href="https://www.bls.gov/ooh/computer-and-information-technology/">BLS Occupational Outlook</Cite>
+      Source: <Cite href="https://hashtagweb3.com/jobs">Hashtag Web3</Cite> jobs cache, September 2026 (n=6,069) | <Cite href="https://www.bls.gov/ooh/computer-and-information-technology/">BLS Occupational Outlook</Cite>
      </Sources>
     </section>
 
-    {/* SECTION 2: SKILLS */}
-    <section className="mb-28">
-     <h2 className="text-2xl sm:text-3xl font-bold tracking-tight text-zinc-900 dark:text-zinc-50 mb-5">Python and data analysis dominate Web3 skill demand</h2>
+    <section>
+     <h2 className="text-2xl sm:text-3xl font-bold tracking-tight text-foreground mb-5">Python and SQL still lead explicit skill language</h2>
      <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-12">
       <div>
-       <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
-        Data analysis (15.6%) and Python (14.7%) are the most requested skills across all Web3 listings. SQL follows at 8.9%. This mirrors the broader tech industry trend identified in the <Cite href="https://survey.stackoverflow.co/2025/">2025 Stack Overflow Developer Survey</Cite>, where Python saw its largest adoption jump in a decade. The dominance of data skills reflects how Web3 companies operate: every blockchain transaction is public, creating massive datasets that require analysts to extract trading patterns, user behavior, and market intelligence.
+       <p className="text-base text-muted-foreground leading-relaxed mb-5">
+        On full posting text, Python appears in 18.0% of listings and SQL in 12.4%. Data-analysis language (analyst, analytics, data-driven) is 14.2%. Project management is 7.5%; Java is 7.5%. TypeScript (5.8%), React (5.2%), and AWS (9.7%) trail the data stack but still show up often in engineering JDs.
        </p>
-       <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
-        Blockchain-specific skills appear in only 5.0% of listings. This is the single most surprising finding in our dataset. It suggests that most Web3 companies hire for general engineering talent first and train domain expertise internally. A Coinbase backend engineer does not need to understand Merkle trees on day one. They need Python, AWS, and CI/CD. The blockchain-specific knowledge comes through on-the-job exposure and internal training programs.
+       <p className="text-base text-muted-foreground leading-relaxed mb-5">
+        &ldquo;Blockchain&rdquo; appears in 37.4% of postings, mostly because employers describe the industry, not because 37% of roles require chain expertise day one. Smart-contract language is 4.4%; Solidity is 1.4%; Rust is 4.0%. Golang is about 3% when matched narrowly (not the word &ldquo;go&rdquo; in prose).
        </p>
-       <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
-        AI and machine learning skills appear in 4.8% of listings, well below the broader tech industry&apos;s 25% according to the <Cite href="https://www.linuxfoundation.org/research/open-source-jobs-report-2025">Linux Foundation 2025 Open Source Jobs Report</Cite>. This gap exists because most Web3 companies are still building core infrastructure rather than AI products. The exceptions are compliance companies like Chainalysis and Elliptic, where machine learning powers transaction monitoring and fraud detection.
+       <p className="text-base text-muted-foreground leading-relaxed mb-5">
+        AI, ML, or LLM terms appear in 49.6% of full postings, up from the May 2026 title-only scrape. That includes compliance ML, fraud models, and generic &ldquo;AI-native&rdquo; copy, not only hiring for model training roles.
        </p>
-       <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
-        TypeScript and JavaScript are tied at 4.1% each, and React appears in 3.9%. These three together (12.1%) represent the frontend stack for Web3 applications. Go and distributed systems each appear in about 3%, concentrated at infrastructure companies like StreamingFast that build blockchain indexing and node infrastructure.
-       </p>
-       <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85]">
-        Notably absent from the top skills: Solidity. The primary smart contract language does not appear in the top 30. This is because smart contract development roles are a small subset of engineering, and those listings tend to ask for &ldquo;smart contract development&rdquo; as a job function rather than listing Solidity as a discrete skill. Rust, used by Solana and Polkadot, also sits outside the top 30, appearing in fewer than 2% of listings.
+       <p className="text-base text-muted-foreground leading-relaxed">
+        <Cite href="https://survey.stackoverflow.co/2025/">Stack Overflow&apos;s 2025 survey</Cite> still shows Python climbing across tech. Our Web3 board skews exchange and payments heavy, so the skill mix looks more like institutional fintech than pure protocol shops.
        </p>
       </div>
-      <div className="bg-white dark:bg-zinc-900/30 border border-zinc-200 dark:border-zinc-800/40 rounded-lg p-8 flex flex-col justify-center">
-       <p className="text-xs font-medium text-zinc-400 dark:text-zinc-500 uppercase tracking-widest mb-6">Most in-demand skills (% of listings)</p>
-       <HBar data={[
-        { label: 'Data Analysis', value: 15.6, color: '#18181B' },
-        { label: 'Python', value: 14.7, color: '#18181B' },
-        { label: 'SQL', value: 8.9, color: '#18181B' },
-        { label: 'Project Mgmt', value: 7.5, color: '#18181B' },
-        { label: 'Java', value: 6.5, color: '#18181B' },
-        { label: 'Blockchain', value: 5.0, color: '#18181B' },
-        { label: 'AI / ML', value: 4.8, color: '#18181B' },
-        { label: 'TypeScript', value: 4.1, color: '#18181B' },
-        { label: 'JavaScript', value: 4.1, color: '#18181B' },
-        { label: 'React', value: 3.9, color: '#18181B' },
-        { label: 'AWS', value: 3.4, color: '#18181B' },
-        { label: 'Go', value: 2.8, color: '#18181B' },
-       ]} unit="%" />
+      <div className={`${CHART_CARD}`}>
+       <p className="text-xs font-medium text-muted-foreground uppercase tracking-widest mb-6">Skills in full posting text (% of listings)</p>
+       <HBar data={skillChartData} unit="%" />
       </div>
      </div>
-     <Callout>Only 5% of Web3 job listings explicitly require blockchain skills. Most companies hire for Python, SQL, and data, then train crypto domain knowledge internally. Solidity does not appear in the top 30 skills.</Callout>
+     <Callout>Half of postings mention AI. Python and SQL still beat Solidity in explicit requirements. Industry &ldquo;blockchain&rdquo; copy is everywhere; chain-native languages are not.</Callout>
      <Sources>
-      Source: <Cite href="https://hashtagweb3.com/jobs">Hashtag Web3</Cite>, May 2026 | <Cite href="https://survey.stackoverflow.co/2025/">Stack Overflow Developer Survey 2025</Cite> | <Cite href="https://www.linuxfoundation.org/research/open-source-jobs-report-2025">LF 2025 Open Source Jobs</Cite>
+      Source: <Cite href="https://hashtagweb3.com/jobs">Hashtag Web3</Cite> posting text, September 2026 (n=6,069) | <Cite href="https://survey.stackoverflow.co/2025/">Stack Overflow Developer Survey 2025</Cite>
      </Sources>
     </section>
 
-    {/* SECTION 2B: SOFT SKILLS & NON-TECHNICAL DEMAND */}
-    <section className="mb-28">
-     <h2 className="text-2xl sm:text-3xl font-bold tracking-tight text-zinc-900 dark:text-zinc-50 mb-5">The hidden demand: communication, compliance, and management</h2>
+    <section>
+     <h2 className="text-2xl sm:text-3xl font-bold tracking-tight text-foreground mb-5">Soft skills and institutional language in postings</h2>
      <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-12">
       <div>
-       <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
-        Technical skills get the headlines, but three of the top 10 skills in our dataset are non-technical: communication (11.6%), project management (7.5%), and stakeholder management (5.3%). This tells a story about where Web3 companies are in their organizational maturity. Early-stage startups need only engineers. Scaling companies need people who can coordinate across teams, communicate with regulators, and manage complex multi-stakeholder processes.
+       <p className="text-base text-muted-foreground leading-relaxed mb-5">
+        Communication skills appear in 50.3% of full postings, often as boilerplate. More specific signals: product management language 12.3%, analytical skills 9.2%, risk management 8.4%, project management 7.5%, AML 7.1%, negotiation 5.1%, stakeholder management 4.8%.
        </p>
-       <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
-        Regulatory compliance (5.3%) and risk management (5.2%) together appear in more than 10% of all listings. These are not engineering skills. They are institutional skills imported from traditional finance. The demand is driven by exchanges preparing for licensing under MiCA, the SEC&apos;s evolving digital asset guidance, and Hong Kong&apos;s VASP regime. Two years ago, a Web3 company&apos;s compliance department was one person with a law degree. Today, Binance alone has dozens of compliance roles open across multiple jurisdictions.
+       <p className="text-base text-muted-foreground leading-relaxed mb-5">
+        The word &ldquo;compliance&rdquo; shows up in 36% of posting text because exchanges describe regulated environments, not because 36% of hires are compliance officers. Department counts are the cleaner org-chart signal: compliance and legal is 5.4% of listings.
        </p>
-       <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
-        AML (anti-money laundering) skills appear in 2.7% of listings, almost exclusively at exchanges and compliance-focused companies like ComplyAdvantage (13 listings) and Elliptic (15 listings). These firms sell AML-as-a-service to crypto companies, and their hiring reflects the industry&apos;s growing spend on regulatory infrastructure. According to <Cite href="https://www.chainalysis.com/blog/2024-crypto-crime-report-introduction/">Chainalysis&apos; 2024 Crypto Crime Report</Cite>, crypto firms spent an estimated $3.4 billion on compliance in 2024, up 45% year-over-year.
-       </p>
-       <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85]">
-        Negotiation (3.3%) and cross-functional collaboration (2.7%) round out the soft skills picture. These appear primarily in business development and partnership roles at infrastructure companies. The message is clear: Web3 is past the phase where a brilliant engineer working alone in a basement can build a billion-dollar protocol. The industry now requires the same organizational muscle as traditional enterprise software.
+       <p className="text-base text-muted-foreground leading-relaxed">
+        <Cite href="https://www.chainalysis.com/blog/2024-crypto-crime-report-introduction/">Chainalysis crime reporting</Cite> still describes rising compliance spend. Our JD text matches that story: AML and risk sit alongside engineering in exchange postings.
        </p>
       </div>
-      <div className="bg-white dark:bg-zinc-900/30 border border-zinc-200 dark:border-zinc-800/40 rounded-lg p-8 flex flex-col justify-center">
-       <p className="text-xs font-medium text-zinc-400 dark:text-zinc-500 uppercase tracking-widest mb-6">Non-technical skills (% of listings)</p>
-       <HBar data={[
-        { label: 'Communication', value: 11.6, color: '#6366f1' },
-        { label: 'Project Mgmt', value: 7.5, color: '#6366f1' },
-        { label: 'Reg. Compliance', value: 5.3, color: '#6366f1' },
-        { label: 'Stakeholder Mgmt', value: 5.3, color: '#6366f1' },
-        { label: 'Risk Management', value: 5.2, color: '#6366f1' },
-        { label: 'Analytical Skills', value: 4.6, color: '#6366f1' },
-        { label: 'Product Mgmt', value: 4.1, color: '#6366f1' },
-        { label: 'Negotiation', value: 3.3, color: '#6366f1' },
-        { label: 'AML', value: 2.7, color: '#6366f1' },
-       ]} unit="%" />
+      <div className={`${CHART_CARD}`}>
+       <p className="text-xs font-medium text-muted-foreground uppercase tracking-widest mb-6">Non-technical phrases in posting text (% of listings)</p>
+       <HBar data={softSkillChartData} unit="%" />
       </div>
      </div>
-     <Callout>Communication (11.6%) is the third most requested skill in Web3, ahead of Java, blockchain, and TypeScript. The industry needs people who can talk to regulators, not just write code.</Callout>
+     <Callout>Product, risk, and AML language is common in posting text. Use department counts when you care about headcount mix, not raw keyword frequency.</Callout>
      <Sources>
-      Source: <Cite href="https://hashtagweb3.com/jobs">Hashtag Web3</Cite>, May 2026 | <Cite href="https://www.chainalysis.com/blog/2024-crypto-crime-report-introduction/">Chainalysis Crypto Crime Report 2024</Cite>
+      Source: <Cite href="https://hashtagweb3.com/jobs">Hashtag Web3</Cite>, September 2026 | <Cite href="https://www.chainalysis.com/blog/2024-crypto-crime-report-introduction/">Chainalysis Crypto Crime Report</Cite>
      </Sources>
     </section>
 
-    {/* SECTION 3: COMPENSATION */}
-    <section className="mb-28">
+    <section>
      <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-12">
       <div>
-       <h2 className="text-2xl sm:text-3xl font-bold tracking-tight text-zinc-900 dark:text-zinc-50 mb-5">Web3 median salary: $166,000</h2>
-       <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
-        Of the 178 listings with explicit compensation, the median base salary is $166,000. The 25th percentile is $125,000 and the 75th is $200,000. This $75,000 interquartile range is wider than typical tech companies, reflecting the diversity of roles from junior operations associates at $65,000 to senior quant researchers clearing $298,000.
+       <h2 className="text-2xl sm:text-3xl font-bold tracking-tight text-foreground mb-5">Median salary in posting text: {fmtUsd(s.salary.median)}</h2>
+       <p className="text-base text-muted-foreground leading-relaxed mb-5">
+        1,293 listings include a parseable USD range in the salary field or posting body (21.3% of the board). The median midpoint is $203,500. Observed range: about $67,500 to $360,000. US pay-transparency employers and trading firms pull the median up versus the old May sample.
        </p>
-       <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
-        Quantitative research roles command the highest median at $225,000, but this figure comes from a small sample (n=5) concentrated at Citadel Securities and trading-adjacent firms. Engineering, with a much larger sample of 71 roles, sits at $185,000 median. This is roughly 15-20% above the <Cite href="https://www.levels.fyi/t/software-engineer/levels/senior">Levels.fyi median for senior software engineers</Cite> at traditional tech companies ($155k-$165k base), excluding equity.
+       <p className="text-base text-muted-foreground leading-relaxed mb-5">
+        54.7% of parsed ranges sit at $200k or above; 29.0% fall between $150k and $200k; 11.7% between $100k and $150k; 4.6% below $100k. Only 71 rows carry a dedicated salary field in the cache JSON; the rest of the signal comes from ranges embedded in HTML descriptions.
        </p>
-       <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
-        These figures align with <Cite href="https://web3.career/web3-salaries">Web3.career salary data</Cite>, which reports average Web3 developer compensation at $120k-$180k depending on seniority. Our data skews higher because it includes US-based roles at Coinbase, Robinhood, and Stripe that publish salary bands under state pay transparency laws (California, Colorado, New York, Washington).
+       <p className="text-base text-muted-foreground leading-relaxed mb-5">
+        External checks: <Cite href="https://www.maneki.work/reports/web3-hiring-2026">Maneki</Cite> ($194.3k median on 716 published ranges), <Cite href="https://plexusrs.com/state-of-crypto-hiring-2026-salaries-rust-vs-solidity-and-what-200-candidates-want/">Plexus</Cite> ($182k average in 2025), <Cite href="https://www.definitivetalent.xyz/salary-benchmarks">DeFinitive</Cite> (~$155k US blockchain developer base in June 2026).
        </p>
-       <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
-        The salary gap between top and bottom departments is significant. Quant research ($225k) pays 2.25x what HR ($100k) does. Operations sits at $119k, reflecting the high volume of support and compliance roles at exchanges that do not require specialized engineering skills. Trading and Engineering command the highest premiums, driven by intense competition for specialized quantitative and technical talent.
-       </p>
-       <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85]">
-        A major caveat: only 12% of listings disclose salary. This creates a strong selection bias. Companies publishing salary bands are disproportionately US-based (subject to transparency laws) and disproportionately large (Coinbase, Stripe, Robinhood). Smaller crypto-native companies and those based in Singapore, Dubai, or the Cayman Islands rarely disclose compensation. Many also offer significant token-based compensation that is not captured in base salary figures. A $150k base at a pre-launch protocol could include token grants worth $500k+ at launch, making direct salary comparisons incomplete.
+       <p className="text-base text-muted-foreground leading-relaxed">
+        Token grants are not in these figures. The remaining 79% of postings give candidates no numeric band to negotiate against.
        </p>
       </div>
       <div className="flex flex-col gap-6">
-       <div className="bg-white dark:bg-zinc-900/30 border border-zinc-200 dark:border-zinc-800/40 rounded-lg p-8 flex flex-col justify-center">
-        <p className="text-xs font-medium text-zinc-400 dark:text-zinc-500 uppercase tracking-widest mb-6">Median salary by department</p>
-        <HBar data={[
-         { label: 'Quant Research', value: 225, color: '#18181B' },
-         { label: 'Trading', value: 200, color: '#18181B' },
-         { label: 'Engineering', value: 185, color: '#18181B' },
-         { label: 'Finance', value: 166, color: '#18181B' },
-         { label: 'Design', value: 160, color: '#18181B' },
-         { label: 'Sales', value: 155, color: '#18181B' },
-         { label: 'Marketing', value: 140, color: '#18181B' },
-         { label: 'Operations', value: 119, color: '#18181B' },
-         { label: 'Human Resources', value: 100, color: '#18181B' },
-        ]} unit="k" />
-       </div>
-       
-       <div className="bg-white dark:bg-zinc-900/30 border border-zinc-200 dark:border-zinc-800/40 rounded-lg p-8 flex flex-col justify-center">
-        <p className="text-xs font-medium text-zinc-400 dark:text-zinc-500 uppercase tracking-widest mb-6">Distribution of Disclosed Salaries</p>
-        <HBar data={[
-         { label: '$100k - $150k', value: 55.7, color: '#6366f1' },
-         { label: '< $100k', value: 23.4, color: '#A1A1AA' },
-         { label: '$150k - $200k', value: 20.9, color: '#18181B' },
-        ]} unit="%" />
+       <div className={`${CHART_CARD}`}>
+        <p className="text-xs font-medium text-muted-foreground uppercase tracking-widest mb-6">Distribution of salaries in posting text (n={fmtInt(s.salary.n)})</p>
+        <HBar data={salaryBandChartData} unit="%" />
        </div>
       </div>
      </div>
-     <Callout>Quant researchers earn 2.25x what HR professionals make in Web3. Engineering sits at $185k median, 11% above the industry-wide median.</Callout>
+     <Callout>More than half of parsed salary bands are $200k+. One in five listings still publishes a usable USD range in the posting text.</Callout>
      <Sources>
-      Source: <Cite href="https://hashtagweb3.com/jobs">Hashtag Web3</Cite>, May 2026 (n=178 with disclosed salary) | <Cite href="https://web3.career/web3-salaries">Web3.career</Cite> for industry benchmarks
+      Source: <Cite href="https://hashtagweb3.com/jobs">Hashtag Web3</Cite>, September 2026 (n=1,293) | <Cite href="https://www.maneki.work/reports/web3-hiring-2026">Maneki</Cite> | <Cite href="https://plexusrs.com/state-of-crypto-hiring-2026-salaries-rust-vs-solidity-and-what-200-candidates-want/">Plexus</Cite>
      </Sources>
     </section>
 
-    {/* SECTION 4: LOCATION */}
-    <section className="mb-28">
+    <section>
      <div className="grid grid-cols-1 lg:grid-cols-2 gap-10 lg:gap-16">
       <div>
-       <h2 className="text-2xl sm:text-3xl font-bold tracking-tight text-zinc-900 dark:text-zinc-50 mb-5">42% of Web3 jobs are remote, 3x the industry average</h2>
-       <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
-        42.4% of Web3 listings are remote-first, compared to just 13% in the broader tech industry according to <Cite href="https://economicgraph.linkedin.com/">LinkedIn Economic Graph</Cite>. This 3x premium exists because Web3 was built by geographically distributed teams from its inception. Bitcoin had no office. Ethereum was coordinated across time zones. That DNA persists even as the industry matures and companies like Coinbase and Ripple maintain physical offices.
+       <h2 className="text-2xl sm:text-3xl font-bold tracking-tight text-foreground mb-5">35% of postings mention remote work</h2>
+       <p className="text-base text-muted-foreground leading-relaxed mb-5">
+        Full posting text mentions remote work in 35.4% of listings (2,148 roles). Hybrid appears in 10.8%. The location field alone says remote on only 19.3% (1,170 roles). Candidates should read the body, not only the location pill.
        </p>
-       <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
-        The US accounts for 13.7% of on-site roles, concentrated in San Francisco, New York, and Miami. These three cities function as the physical nerve centers of US crypto, with SF housing Coinbase and Ripple headquarters, New York hosting Gemini and most compliance-focused firms, and Miami positioning itself as a crypto-friendly regulatory environment under state-level legislation.
+       <p className="text-base text-muted-foreground leading-relaxed mb-5">
+        The US is 30.9% of listings. Europe is 8.9%. Singapore is 5.4%. Hong Kong is 5.1%. The Middle East is 1.3%. LATAM is 1.1%. Africa is 0.2%. 25.5% did not fit those hubs (multi-city APAC strings, Canada, India, and vague &ldquo;global&rdquo; labels without remote).
        </p>
-       <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
-        Hong Kong (3.1%) and Singapore (2.5%) are the top Asian hubs. Hong Kong's resurgence follows the <Cite href="https://www.sfc.hk/en/Rules-and-standards/Virtual-assets">SFC's virtual asset licensing regime</Cite> introduced in 2023, which brought regulatory clarity that attracted firms like OKX and Hashkey to establish licensed operations. Singapore remains attractive despite MAS tightening retail crypto access, because it offers a stable business environment for institutional-grade infrastructure.
-       </p>
-       <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
-        Europe (including the UK) accounts for 3.3% of on-site roles. The UK leads at 1.7%, with London's fintech corridor hosting Revolut's crypto division, Elliptic, and several compliance startups. Continental Europe at 1.6% is spread across Berlin, Zurich, and Lisbon, with MiCA creating a unified regulatory framework that should increase European hiring in 2026-2027.
-       </p>
-       <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85]">
-        Africa (0.8%) and LATAM (1.1%) together represent 1.9% of listings. These regions punch above their weight in actual crypto adoption. According to <Cite href="https://www.chainalysis.com/blog/2023-global-crypto-adoption-index/">Chainalysis' Global Crypto Adoption Index</Cite>, Nigeria and Kenya rank in the top 15 globally for crypto usage. Wave Mobile Money (25 listings) is actively building payments infrastructure in West Africa. Bitso in Mexico is the largest crypto exchange in Latin America. As these companies scale, African and LATAM hiring will grow disproportionately.
+       <p className="text-base text-muted-foreground leading-relaxed">
+        <Cite href="https://www.chainalysis.com/blog/2023-global-crypto-adoption-index/">Chainalysis adoption rankings</Cite> still put several African and LATAM markets high on usage. Public ATS hiring has not caught up. If you only read this board, you would think crypto work happens in San Francisco, New York, Singapore, and Hong Kong.
        </p>
       </div>
-      <div className="bg-white dark:bg-zinc-900/30 border border-zinc-200 dark:border-zinc-800/40 rounded-lg p-8 flex flex-col justify-center">
-       <p className="text-xs font-medium text-zinc-400 dark:text-zinc-500 uppercase tracking-widest mb-5 text-center">Location distribution</p>
-       <DonutChart segments={[
-        { label: 'Remote', value: 42, color: '#18181B' },
-        { label: 'USA', value: 14, color: '#6366f1' },
-        { label: 'Hong Kong', value: 3, color: '#14b8a6' },
-        { label: 'Singapore', value: 3, color: '#f59e0b' },
-        { label: 'Europe', value: 2, color: '#f43f5e' },
-        { label: 'Other', value: 36, color: '#E4E4E7' },
-       ]} size={180} />
+      <div className={`${CHART_CARD}`}>
+       <p className="text-xs font-medium text-muted-foreground uppercase tracking-widest mb-5 text-center">Location distribution</p>
+       <DonutChart segments={locationDonut} size={180} />
       </div>
      </div>
      <Sources>
-      Source: <Cite href="https://hashtagweb3.com/jobs">Hashtag Web3</Cite>, May 2026 | <Cite href="https://economicgraph.linkedin.com/">LinkedIn Economic Graph</Cite> for industry remote work baseline
+      Source: <Cite href="https://hashtagweb3.com/jobs">Hashtag Web3</Cite>, September 2026 | <Cite href="https://www.maneki.work/reports/web3-hiring-2026">Maneki Web3 Hiring 2026</Cite>
      </Sources>
     </section>
 
-    {/* SECTION 5: EXPERIENCE & SENIORITY */}
-    <section className="mb-28">
+    <section>
      <div className="grid grid-cols-1 lg:grid-cols-2 gap-10 lg:gap-16">
       <div>
-       <h2 className="text-2xl sm:text-3xl font-bold tracking-tight text-zinc-900 dark:text-zinc-50 mb-5">Web3 is hiring mid-level engineers, not juniors</h2>
-       <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
-        Assuming roles without explicit seniority markers in the title (e.g."Software Engineer") default to mid-level, 56.1% of listings target mid-level professionals. Senior, Staff, and Lead roles explicitly account for 33.2%. Executive and Director level roles make up 7.6%. True entry-level, junior, and internship roles combined are shockingly low, representing just 2.9% of all listings. Compare this to traditional tech, where entry-level roles typically represent 20-25% of listings.
+       <h2 className="text-2xl sm:text-3xl font-bold tracking-tight text-foreground mb-5">Web3 is still hiring mid-level people, not juniors</h2>
+       <p className="text-base text-muted-foreground leading-relaxed mb-5">
+        Titles without a seniority marker default to mid-level: 60.1%. Explicit senior / staff / lead titles are 26.7%. Director, VP, and C-level titles are 9.4%. Junior, intern, graduate, and entry titles together are 3.8% (229 roles). Intern appears in 2.9% of titles. Traditional tech still posts a much thicker junior layer.
        </p>
-       <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
-        The low entry-level percentage creates a structural talent pipeline problem. If Web3 does not hire and train juniors, where will the next generation of senior Web3 engineers come from? Currently, the answer is: from traditional tech. Most Web3 engineers spent 3-5 years at companies like Google, Meta, or Stripe before transitioning. This works when crypto is growing, but creates a fragile talent supply that depends on traditional tech continuing to produce engineers who are curious about blockchain.
+       <p className="text-base text-muted-foreground leading-relaxed mb-5">
+        Contract or freelance language appears in 9.0% of posting text; full-time in 11.5%. Title-only counts understate employment type because most JDs never label it explicitly.
        </p>
-       <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
-        73.3% of positions are full-time. Contract roles are only 1.8%, which is remarkably low compared to traditional tech freelancing rates of 8-12% according to <Cite href="https://www.upwork.com/research/freelance-forward-2024">Upwork&apos;s Freelance Forward 2024</Cite>. Web3 companies prefer full-time commitment for two reasons: security-sensitive code requires trusted long-term contributors, and token-based compensation only works with full-time employment structures.
-       </p>
-       <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85]">
-        Internships at 2.1% are concentrated at the largest employers: Binance, Coinbase, and Robinhood. Smaller crypto companies rarely run internship programs because they lack the management overhead to support interns. This means that the gateway into Web3 for new graduates is almost exclusively through large centralized exchanges and fintech companies, not through the decentralized protocols that define the industry&apos;s ethos.
+       <p className="text-base text-muted-foreground leading-relaxed">
+        Internships cluster at large employers. Small protocol teams still do not run campus programs. The on-ramp into this industry remains: spend a few years at a conventional tech or finance firm, then switch.
        </p>
       </div>
-      <div className="bg-white dark:bg-zinc-900/30 border border-zinc-200 dark:border-zinc-800/40 rounded-lg p-8 flex flex-col justify-center">
-       <p className="text-xs font-medium text-zinc-400 dark:text-zinc-500 uppercase tracking-widest mb-5 text-center">Experience level</p>
-       <DonutChart segments={[
-        { label: 'Mid-level', value: 56, color: '#A1A1AA' },
-        { label: 'Senior', value: 33, color: '#18181B' },
-        { label: 'Executive', value: 8, color: '#6366f1' },
-        { label: 'Entry/Intern', value: 3, color: '#14b8a6' },
-       ]} size={180} />
+      <div className={`${CHART_CARD}`}>
+       <p className="text-xs font-medium text-muted-foreground uppercase tracking-widest mb-5 text-center">Experience level</p>
+       <DonutChart segments={seniorityDonut} size={180} />
       </div>
      </div>
     </section>
 
-    {/* SECTION 6: TOP COMPANIES */}
-    <section className="mb-28">
-     <h2 className="text-2xl sm:text-3xl font-bold tracking-tight text-zinc-900 dark:text-zinc-50 mb-5">Centralized exchanges remain the largest Web3 employers</h2>
-     <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
-      Binance has 418 open roles, the highest in our sampled dataset. This reflects the company&apos;s massive global footprint. Binance processes more daily trading volume than the next five exchanges combined, according to <Cite href="https://www.coingecko.com/en/exchanges">CoinGecko exchange data</Cite>. Maintaining that infrastructure requires hundreds of engineers, compliance officers, and operations staff across 40+ countries.
+    <section>
+     <h2 className="text-2xl sm:text-3xl font-bold tracking-tight text-foreground mb-5">Stripe leads the board. Exchanges are still huge.</h2>
+     <p className="text-base text-muted-foreground leading-relaxed mb-5">
+      Stripe has 625 open roles on this cache, the most of any employer. That is payments and stablecoin-adjacent hiring as much as &ldquo;crypto native.&rdquo; OKX is second with 339. Binance has 285. Coinbase 210. Block 205. Jane Street 180. Tangem 171. Ramp 145. Bybit 144. Robinhood 125. Ripple 124.
      </p>
-     <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
-      OKX (208 listings) is the second-largest hirer, expanding rapidly in jurisdictions with clear regulatory frameworks. Stripe (155 listings) sits in third place. While Stripe is not purely a crypto company, its stablecoin settlement and fiat-to-crypto products have made it a major employer in Web3.
+     <p className="text-base text-muted-foreground leading-relaxed mb-5">
+      The top 10 companies are 40% of all listings. Binance is no longer #1 on our public ATS board. Exchange volume still matters for <Cite href="https://www.coingecko.com/en/exchanges">CoinGecko league tables</Cite>, but payments and public-market fintech now post more roles than any single CEX.
      </p>
-     <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
-      Robinhood (147), Bybit (135), and Ripple (111) round out the top six. The concentration is notable: the top 10 companies account for roughly 30% of all listings. This mirrors the broader trend in tech where a small number of large employers dominate public job boards, while smaller companies hire through referrals, Twitter, and Discord. The true count of active Web3 employers is likely much higher than our base of 283.
-     </p>
-     <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
-      An interesting presence: Stripe (34 listings). Stripe is not a crypto company, but its crypto products, including fiat-to-crypto onramps and stablecoin settlement, have made it a major employer in the Web3 space. Similarly, Hadrian (19 listings) focuses on defense and manufacturing, but its engineering team works on infrastructure that overlaps with distributed systems common in blockchain.
-     </p>
-     <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-8">
-      Infrastructure dominates sub-sector focus at 38.1% of listings. This includes exchanges, custodians, node operators, and developer tooling. Trading (7.9%) is second, followed by DeFi at just 5.0%. The low DeFi figure is partly definitional (many DeFi companies classify themselves as infrastructure) and partly because pure DeFi protocols run with very small teams. Uniswap Labs has fewer than 100 employees managing a protocol that handles billions in monthly volume. Gaming at 0.5% reflects the sector&apos;s contraction after the 2022-2023 NFT downturn, though studios like Genies (14 listings) are still hiring for the next cycle.
+     <p className="text-base text-muted-foreground leading-relaxed mb-8">
+      Company-name buckets: exchanges 21.3%, infrastructure (custody, wallets, labs, chains) 17.0%, payments 16.5%, trading firms 5.0%. Pure DeFi names are 0.1% of this board. Gaming is effectively zero. A large Other bucket (40%) is mixed fintech, research, and firms that do not self-label. Picks and shovels still beat protocols.
      </p>
      <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
-      <div className="bg-white dark:bg-zinc-900/30 border border-zinc-200 dark:border-zinc-800/40 rounded-lg p-8 flex flex-col justify-center">
-       <p className="text-xs font-medium text-zinc-400 dark:text-zinc-500 uppercase tracking-widest mb-6">Largest Web3 employers (open roles)</p>
-       <HBar data={[
-        { label: 'Binance', value: 418, color: '#18181B' },
-        { label: 'OKX', value: 208, color: '#18181B' },
-        { label: 'Stripe', value: 155, color: '#18181B' },
-        { label: 'Robinhood', value: 147, color: '#18181B' },
-        { label: 'Bybit', value: 135, color: '#18181B' },
-        { label: 'Ripple', value: 111, color: '#18181B' },
-        { label: 'Coinbase', value: 73, color: '#18181B' },
-       ]} />
+      <div className={`${CHART_CARD}`}>
+       <p className="text-xs font-medium text-muted-foreground uppercase tracking-widest mb-6">Largest employers (open roles)</p>
+       <HBar data={topEmployerChartData} />
       </div>
-      <div className="bg-white dark:bg-zinc-900/30 border border-zinc-200 dark:border-zinc-800/40 rounded-lg p-8 flex flex-col justify-center">
-       <p className="text-xs font-medium text-zinc-400 dark:text-zinc-500 uppercase tracking-widest mb-6">Crypto sub-sector focus</p>
-       <HBar data={[
-        { label: 'Infrastructure', value: 38.1, color: '#18181B' },
-        { label: 'Trading', value: 7.9, color: '#18181B' },
-        { label: 'DeFi', value: 5.0, color: '#18181B' },
-        { label: 'Payments', value: 2.9, color: '#18181B' },
-        { label: 'Security', value: 2.5, color: '#18181B' },
-        { label: 'Gaming', value: 0.5, color: '#18181B' },
-       ]} unit="%" />
+      <div className={`${CHART_CARD}`}>
+       <p className="text-xs font-medium text-muted-foreground uppercase tracking-widest mb-6">Employer type (% of listings)</p>
+       <HBar data={employerTypeChartData} unit="%" />
       </div>
      </div>
-     <Callout>Infrastructure dominates at 38% of roles. DeFi is only 5%. The &ldquo;picks and shovels&rdquo; strategy, building tools rather than protocols, is where Web3 hiring is concentrated.</Callout>
+     <Callout>Exchanges plus payments plus infrastructure are 54.8% of tagged listings. DeFi protocols are almost invisible on structured ATS pages.</Callout>
      <Sources>
-      Source: <Cite href="https://hashtagweb3.com/jobs">Hashtag Web3</Cite>, May 2026 | <Cite href="https://www.coingecko.com/en/exchanges">CoinGecko</Cite> for exchange volume data | 187 companies analyzed
+      Source: <Cite href="https://hashtagweb3.com/jobs">Hashtag Web3</Cite>, September 2026 | <Cite href="https://www.coingecko.com/en/exchanges">CoinGecko</Cite> | 324 companies
      </Sources>
     </section>
 
-    {/* SECTION 7: HIRING VELOCITY */}
-    <section className="mb-28">
+    <section>
      <div className="grid grid-cols-1 lg:grid-cols-2 gap-10 lg:gap-16">
       <div>
-       <h2 className="text-2xl sm:text-3xl font-bold tracking-tight text-zinc-900 dark:text-zinc-50 mb-5">Web3 companies post ~90 new jobs every weekday</h2>
-       <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
-        Looking at the last 10 days of our dataset (May 6 to May 15, 2026), there is a highly consistent hiring velocity. On an average weekday, Web3 companies post between 75 and 115 new open roles across major ATS platforms. Over the last 10 days alone, 669 new roles were added to the market.
+       <h2 className="text-2xl sm:text-3xl font-bold tracking-tight text-foreground mb-5">Typical weekdays add about 90 new roles</h2>
+       <p className="text-base text-muted-foreground leading-relaxed mb-5">
+        From 4 to 13 September 2026, weekdays posted 44 to 119 new roles (average 91), excluding a 352-role spike on 3 September that looks like a scrape backfill, not a hiring day. Weekends dropped to 2-6 postings.
        </p>
-       <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
-        The data shows a clear divergence between weekday and weekend activity. For example, Monday through Friday regularly see 75+ postings (peaking at 117 on May 6th), while weekend volume drops sharply to between 9 and 16 postings per day (May 9th-10th). This suggests that Web3 hiring is driven by structured corporate HR and recruitment teams operating on standard business schedules, rather than ad-hoc weekend hiring by decentralized founders.
-       </p>
-       <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85]">
-        This strong, sustained volume indicates that the industry is not just backfilling attrition, but actively expanding headcount. For candidates, this velocity means the market is highly liquid: if a role closes today, roughly 90 new opportunities will replace it tomorrow. 
+       <p className="text-base text-muted-foreground leading-relaxed">
+        That weekday/weekend split is corporate recruiting hours, not DAO weekend bursts. 1,092 listings in the cache are dated in the last 14 days. The market is liquid: a closed role is replaced quickly, mostly by the same large employers.
        </p>
       </div>
-      <div className="bg-white dark:bg-zinc-900/30 border border-zinc-200 dark:border-zinc-800/40 rounded-lg p-8 flex flex-col justify-center">
-       <p className="text-xs font-medium text-zinc-400 dark:text-zinc-500 uppercase tracking-widest mb-6">New Roles Posted (May 6 - May 14)</p>
-       <HBar data={[
-        { label: 'May 14 (Thu)', value: 79, color: '#18181B' },
-        { label: 'May 13 (Wed)', value: 105, color: '#18181B' },
-        { label: 'May 12 (Tue)', value: 76, color: '#18181B' },
-        { label: 'May 11 (Mon)', value: 59, color: '#18181B' },
-        { label: 'May 10 (Sun)', value: 9, color: '#A1A1AA' },
-        { label: 'May 09 (Sat)', value: 16, color: '#A1A1AA' },
-        { label: 'May 08 (Fri)', value: 100, color: '#18181B' },
-        { label: 'May 07 (Thu)', value: 96, color: '#18181B' },
-        { label: 'May 06 (Wed)', value: 117, color: '#18181B' },
-       ]} />
+      <div className={`${CHART_CARD}`}>
+       <p className="text-xs font-medium text-muted-foreground uppercase tracking-widest mb-6">New roles by posted date (Sep 4–11)</p>
+       <HBar data={velocityChartData} />
       </div>
      </div>
     </section>
 
-    {/* SECTION 8: THE AI INTEGRATION SHIFT */}
-    <section className="mb-28">
+    <section>
      <div className="grid grid-cols-1 lg:grid-cols-2 gap-10 lg:gap-16">
       <div>
-       <h2 className="text-2xl sm:text-3xl font-bold tracking-tight text-zinc-900 dark:text-zinc-50 mb-5">AI isn&apos;t wiping out Web3 jobs - it&apos;s merging with them</h2>
-       <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
-        There is a pervasive narrative that artificial intelligence is cannibalizing Web3 developer talent and wiping out blockchain jobs. Based on full-text parsing of our dataset, this is categorically false. What we are actually seeing is an aggressive integration cycle: founders are cutting basic technical roles to keep their teams lean, while actively hunting for engineers who know how to build AI into blockchain infrastructure.
+       <h2 className="text-2xl sm:text-3xl font-bold tracking-tight text-foreground mb-5">AI language is in half of posting text</h2>
+       <p className="text-base text-muted-foreground leading-relaxed mb-5">
+        AI, ML, or LLM terms appear in 49.6% of full postings, up from the May 2026 extract (~35%). Rust is 4.0%. Smart-contract language is 4.4%. Solidity is 1.4%. The board is still mostly exchanges and payments, but the copy has shifted toward AI-assisted products and fraud models, not only smart-contract engineering.
        </p>
-       <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
-        In our latest full-text sampling, an astonishing <strong>35% of all active Web3 job postings explicitly mention AI, LLMs, or Machine Learning</strong>. By contrast, traditional crypto-native languages like Rust and Solidity are mentioned in fewer than 3% of the exact same descriptions. Web3 companies are no longer just hiring developers to write smart contracts; they are hiring engineers to build autonomous agents, optimize data pipelines, and deploy LLMs on decentralized rails.
-       </p>
-       <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85]">
-        This explains the structural shift we identified in Section 5. The total collapse of junior Web3 roles (under 3% of listings, including internships) is directly correlated with the rise of AI tooling. Junior boilerplate code is being automated away by GitHub Copilot and Claude. As a result, Web3 companies are reserving their massive $166k median salaries exclusively for senior architects who can bridge the complex gap between decentralized ledgers and deep learning models.
+       <p className="text-base text-muted-foreground leading-relaxed">
+        That does not mean half of hires are ML researchers. It means half of employers describe AI somewhere in the role or company context. Protocol-native shops still hire Rust and Solidity; they are a thin slice of 6,069 public rows.
        </p>
       </div>
-      <div className="bg-white dark:bg-zinc-900/30 border border-zinc-200 dark:border-zinc-800/40 rounded-lg p-8 flex flex-col justify-center">
-       <p className="text-xs font-medium text-zinc-400 dark:text-zinc-500 uppercase tracking-widest mb-6">Keyword Mentions in Full-Text Job Descriptions</p>
+      <div className={`${CHART_CARD}`}>
+       <p className="text-xs font-medium text-muted-foreground uppercase tracking-widest mb-6">Keyword mentions in full posting text</p>
        <HBar data={[
-        { label: 'AI / Machine Learning / LLMs', value: 35.3, color: '#18181B' },
-        { label: 'Tokenomics / Equity', value: 3.9, color: '#6366f1' },
-        { label: 'Rust', value: 2.6, color: '#A1A1AA' },
-        { label: 'Solidity / Smart Contracts', value: 0.3, color: '#A1A1AA' },
+        { label: 'AI / ML / LLM', value: kw.ai.pct, color: '#18181B' },
+        { label: 'Smart contracts', value: kw.smartContract.pct, color: '#52525B' },
+        { label: 'Rust', value: kw.rust.pct, color: '#A1A1AA' },
+        { label: 'Solidity', value: kw.solidity.pct, color: '#A1A1AA' },
        ]} unit="%" />
       </div>
      </div>
     </section>
 
-    {/* SECTION 9: EQUITY VS TOKENS */}
-    <section className="mb-28">
+    <section>
      <div className="grid grid-cols-1 lg:grid-cols-2 gap-10 lg:gap-16">
-      <div className="bg-white dark:bg-zinc-900/30 border border-zinc-200 dark:border-zinc-800/40 rounded-lg p-8 flex flex-col justify-center">
-       <p className="text-xs font-medium text-zinc-400 dark:text-zinc-500 uppercase tracking-widest mb-5 text-center">Compensation Structure</p>
+      <div className={`${CHART_CARD}`}>
+       <p className="text-xs font-medium text-muted-foreground uppercase tracking-widest mb-5 text-center">Long-term pay mentions (equity vs token)</p>
        <DonutChart segments={[
-        { label: 'Traditional Equity/Options', value: 95.7, color: '#18181B' },
-        { label: 'Crypto Tokens', value: 4.3, color: '#A1A1AA' },
+        { label: 'Equity / stock options', value: s.compensation.equityShareOfPayMix, color: '#18181B' },
+        { label: 'Token compensation', value: s.compensation.tokenShareOfPayMix, color: '#A1A1AA' },
        ]} size={180} />
       </div>
       <div>
-       <h2 className="text-2xl sm:text-3xl font-bold tracking-tight text-zinc-900 dark:text-zinc-50 mb-5">The death of the"paid in tokens" era</h2>
-       <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
-        During the 2021 bull run, many Web3 jobs compensated employees heavily in illiquid governance tokens. Our full-text analysis reveals that this era is largely over. When companies explicitly discuss long-term incentives in their job descriptions, <strong>95.7% offer traditional corporate equity or stock options</strong>. Only 4.3% explicitly state they will compensate employees in crypto tokens.
+       <h2 className="text-2xl sm:text-3xl font-bold tracking-tight text-foreground mb-5">Equity dominates token talk in benefits sections</h2>
+       <p className="text-base text-muted-foreground leading-relaxed mb-5">
+        Among 3,900 listings with compensation or benefits language, 38.4% mention equity or stock options and 7.6% mention tokens or tokenomics. Where long-term pay is discussed at all, equity mentions outnumber token mentions roughly five to one (1,499 vs 298).
        </p>
-       <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
-        This massive shift toward standard ISOs (Incentive Stock Options) reflects the maturation of Web3 companies into standard corporate entities. With major firms like Stripe, Robinhood, and Coinbase aggressively expanding their Web3 footprints, they use the same compensation structures as FAANG companies. Even smaller, crypto-native startups are incorporating as standard C-Corps and issuing equity to satisfy traditional venture capital backers.
-       </p>
-       <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85]">
-        While token allocations are occasionally offered as a secondary bonus at protocol-layer companies (e.g., L2 chains or DeFi protocols), the data proves that standard USD-denominated salaries and traditional equity are now the baseline expectation for Web3 professionals.
+       <p className="text-base text-muted-foreground leading-relaxed">
+        <Cite href="https://plexusrs.com/state-of-crypto-hiring-2026-salaries-rust-vs-solidity-and-what-200-candidates-want/">Plexus&apos;s 2026 candidate survey</Cite> ranked remote work first and token allocation last. That matches licensed exchanges and public fintech: USD base, ordinary equity, tokens optional.
        </p>
       </div>
      </div>
     </section>
 
-    {/* KEY TAKEAWAYS */}
-    <section className="mb-28">
-     <h2 className="text-2xl sm:text-3xl font-bold tracking-tight text-zinc-900 dark:text-zinc-50 mb-8">Key takeaways for job seekers and hiring managers</h2>
+    <section>
+     <h2 className="text-2xl sm:text-3xl font-bold tracking-tight text-foreground mb-8">Key takeaways for job seekers and hiring managers</h2>
      <div className="space-y-6">
-      <div className="bg-white dark:bg-zinc-900/30 border border-zinc-200 dark:border-zinc-800/40 rounded-lg p-8">
-       <h3 className="font-bold text-lg text-zinc-900 dark:text-zinc-50 mb-3">For candidates transitioning from traditional tech</h3>
-       <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85]">
-        You do not need blockchain experience to get hired in Web3. 95% of listings ask for skills you already have: Python, SQL, data analysis, project management, TypeScript. The barrier to entry is lower than the industry&apos;s reputation suggests. Target mid-level roles at large employers (Binance, Coinbase, Revolut) where structured onboarding programs exist. Expect a 15-20% salary premium over equivalent roles at traditional tech companies.
+      <div className="rounded-2xl border border-border/70 bg-card p-6 shadow-sm sm:p-8">
+       <h3 className="font-bold text-lg text-foreground mb-3">For candidates transitioning from traditional tech</h3>
+       <p className="text-base text-muted-foreground leading-relaxed">
+        Target mid-level seats at Stripe, Coinbase, OKX, Binance, and Block. Posting text centers around $204k where bands exist; 79% of listings still omit numbers. Python, SQL, and AI-adjacent product work show up more often than Solidity in requirements.
        </p>
       </div>
-      <div className="bg-white dark:bg-zinc-900/30 border border-zinc-200 dark:border-zinc-800/40 rounded-lg p-8">
-       <h3 className="font-bold text-lg text-zinc-900 dark:text-zinc-50 mb-3">For hiring managers at Web3 companies</h3>
-       <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85]">
-        The data shows a clear junior talent pipeline problem. With entry-level and internship roles sitting at just 2.9% combined, the industry is creating a dependency on poaching mid-career engineers from FAANG companies. Consider investing in internship programs and junior roles now. The cost of not building a pipeline is higher long-term. Also: publishing salary bands is table stakes. The 88% of listings that hide compensation are losing candidates to the 12% that show it.
+      <div className="rounded-2xl border border-border/70 bg-card p-6 shadow-sm sm:p-8">
+       <h3 className="font-bold text-lg text-foreground mb-3">For hiring managers at Web3 companies</h3>
+       <p className="text-base text-muted-foreground leading-relaxed">
+        Entry titles are 3.8%. Publish salary bands: only 21% of postings include parseable USD ranges. Say remote in the location field if the role is remote; 35% of JDs mention remote but only 19% of location strings do.
        </p>
       </div>
-      <div className="bg-white dark:bg-zinc-900/30 border border-zinc-200 dark:border-zinc-800/40 rounded-lg p-8">
-       <h3 className="font-bold text-lg text-zinc-900 dark:text-zinc-50 mb-3">For investors evaluating Web3 companies</h3>
-       <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85]">
-        Hiring patterns are a strong signal of company health and sector direction. Engineering at 34% tells you the industry is still building, not optimizing. The 6.3% compliance and legal figure indicates real institutional maturation, not just regulatory theater. Watch for shifts in the DeFi hiring percentage (currently 5%): when that number climbs, it signals renewed builder activity in decentralized finance. Monitor Africa and LATAM hiring as leading indicators for the next wave of crypto adoption.
+      <div className="rounded-2xl border border-border/70 bg-card p-6 shadow-sm sm:p-8">
+       <h3 className="font-bold text-lg text-foreground mb-3">For investors evaluating Web3 companies</h3>
+       <p className="text-base text-muted-foreground leading-relaxed">
+        Engineering at 36% means the sector is still building. Compliance plus finance at 10% is institutional, not theater. Watch DeFi ATS share (near zero here). Payments and CEX headcount are the loud public signal; protocol teams still hire off Discord.
        </p>
       </div>
      </div>
     </section>
 
-    {/* METHODOLOGY */}
-    <section className="mb-16">
-     <h2 className="text-2xl font-bold tracking-tight text-zinc-900 dark:text-zinc-50 mb-5">Methodology</h2>
-     <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
-      Data was collected from 3,427 job listings aggregated from major hiring platforms and corporate career pages across 283 Web3 companies. Each listing was fetched at its source URL, and the full job description text was processed using automated classification for structured extraction of skills, compensation, department, seniority, location, employment type, and crypto sub-sector focus.
+    <section className="pb-4">
+     <h2 className="text-2xl font-bold tracking-tight text-foreground mb-5">Methodology</h2>
+     <p className="text-base text-muted-foreground leading-relaxed mb-5">
+      Snapshot of {fmtInt(s.listings)} listings in the Hashtag Web3 jobs cache ({s.snapshotLabel}). Full posting text is stored in sharded description files under <code className="text-xs bg-muted px-1 py-0.5 rounded">content/job-description-shards/</code> and merged the same way as on live job pages ({s.withDescPct}% of listings have at least 100 characters of text). HTML is stripped to plain text before keyword and salary parsing. Departments and seniority use titles plus ATS department fields. Locations use the location string.
      </p>
-     <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
-      Skills were normalized to a canonical list (e.g., &ldquo;React.js&rdquo; and &ldquo;ReactJS&rdquo; mapped to &ldquo;React&rdquo;). Compensation was extracted only when explicit salary ranges or figures appeared in the listing text. We did not impute or estimate salaries for listings that did not disclose them. All percentages are calculated against the full dataset of 3,427 listings unless otherwise noted. Sample sizes are flagged for departments with fewer than 10 salary data points.
+     <p className="text-base text-muted-foreground leading-relaxed mb-5">
+      Salaries are midpoints of explicit USD ranges in posting text or salary fields only; we do not impute. Metrics are regenerated offline with <code className="text-xs bg-muted px-1 py-0.5 rounded">npm run hiring-report:stats</code>, then committed as <code className="text-xs bg-muted px-1 py-0.5 rounded">content/hiring-report-stats.json</code>. That script is not part of <code className="text-xs bg-muted px-1 py-0.5 rounded">npm run build</code> and does not run when visitors load this page. DAO and Discord-only hiring remains underrepresented.
      </p>
-     <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
-      Key limitations: Our dataset captures jobs posted through structured ATS platforms. DAOs, protocol teams, and smaller crypto startups that hire through Twitter, Discord, or direct outreach are underrepresented. The salary data (n=178, or 12% of listings) is biased toward US-based companies subject to pay transparency laws. Token-based compensation is not captured. Geographic categorization is based on listing location, not where the work is actually performed.
-     </p>
-     <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85]">
-      This report was produced by <Cite href="https://hashtagweb3.com">Hashtag Web3</Cite> in May 2026. Data is refreshed daily via automated ATS polling. For the full dataset, visit our <Cite href="https://hashtagweb3.com/jobs">jobs page</Cite>. For questions about methodology or data access, contact us at <Cite href="https://t.me/web3hiring">@web3hiring on Telegram</Cite>.
+     <p className="text-base text-muted-foreground leading-relaxed">
+      Produced by <Cite href="https://hashtagweb3.com">Hashtag Web3</Cite> in September 2026. For the live board see the <Cite href="https://hashtagweb3.com/jobs">jobs page</Cite>. Questions: <Cite href="https://t.me/web3hiring">@web3hiring on Telegram</Cite>.
      </p>
     </section>
 
+   </PageShell>
    </main>
   </div>
  );

@@ -1,16 +1,19 @@
 
 import type { Metadata } from 'next';
+import { fmtInt, fmtUsdK, hiringReportStats as s } from '@/lib/hiring-report-stats';
+
+export const dynamic = 'force-static';
 
 export const metadata: Metadata = {
  title: 'Hiring Report 2026',
- description: 'Data-driven insights based on 3,400+ active Web3 job listings. Explore hiring velocity, in-demand roles, salary benchmarks, and remote work patterns.',
+ description: `${s.snapshotLabel}: ${fmtInt(s.listings)} listings, full JD text parsed. Median pay ${fmtUsdK(s.salary.median)} where listed; ${Math.round(s.keywords.ai.pct)}% of postings mention AI; ${Math.round(s.jdRemote.pct)}% mention remote.`,
  alternates: {
   canonical: 'https://hashtagweb3.com/web3-hiring-report',
  },
  openGraph: {
   type: 'website',
   title: 'Hiring Report 2026 | Hashtag Web3',
-  description: 'Data-driven insights based on 3,400+ active Web3 job listings. Explore hiring velocity, in-demand roles, salary benchmarks, and remote work patterns.',
+  description: `${s.snapshotLabel}: ${fmtInt(s.listings)} listings, full JD text parsed. Median pay ${fmtUsdK(s.salary.median)} where listed; ${Math.round(s.keywords.ai.pct)}% of postings mention AI; ${Math.round(s.jdRemote.pct)}% mention remote.`,
   url: 'https://hashtagweb3.com/web3-hiring-report',
   images: [
    {
@@ -24,7 +27,7 @@ export const metadata: Metadata = {
  twitter: {
   card: 'summary_large_image',
   title: 'Hiring Report 2026 | Hashtag Web3',
-  description: 'Data-driven insights based on 3,400+ active Web3 job listings. Explore hiring velocity, in-demand roles, and salary benchmarks.',
+  description: `${fmtInt(s.listings)} listings across ${s.companies} companies (${s.snapshotLabel}).`,
   images: ['https://hashtagweb3.com/og-image-report.png'],
  },
 };
