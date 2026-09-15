@@ -333,7 +333,7 @@ export function EventsBoard({ initialEvents }: { initialEvents: PublicWeb3Event[
         <>
           <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
             {visibleEvents.map((event, index) => (
-              <EventCard key={event.id} event={event} index={index} />
+              <EventCard key={event.id} event={event} />
             ))}
           </div>
 
