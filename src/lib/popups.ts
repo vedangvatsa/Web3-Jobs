@@ -13,7 +13,7 @@ export const popupData: Popup[] = [
     "slug": "ns",
     "name": "Network School",
     "tagline": "Cloud communities made physical",
-    "location": "Singapore / Kazakhstan",
+    "location": "Astana, Kazakhstan",
     "type": "permanent",
     "themes": [
       "AI",
@@ -36,8 +36,8 @@ export const popupData: Popup[] = [
     "summary": "A society-as-a-service campus for techno-optimists building startup societies in person.",
     "body": [
       "Network School turns online builder communities into a physical campus, with shared meals, gym access, and housing treated as part of the product.",
-      "It started in Forest City, Malaysia and has since moved toward a new campus footprint spanning Singapore and Kazakhstan.",
-      "The project sits at the center of the broader Network States dashboard and hosts Layer-2 efforts like rc."
+      "The campus is in Astana, Kazakhstan, in partnership with the Republic of Kazakhstan; ns.com lists the Astana Hub site and an all-in membership covering room, food, gym, and coworking.",
+      "The first v1 cohort ran in Forest City, Malaysia before the program reopened in Kazakhstan. The project sits at the center of the broader Network States dashboard and hosts Layer-2 efforts like Arc."
     ],
     "coverImages": [
       "/popups/xyz/network-school/city.webp",
@@ -82,10 +82,10 @@ export const popupData: Popup[] = [
       "a monthly basis"
     ],
     "locationDetails": [
-      "Network School ran from Forest City, Malaysia, a billionaire project in the Singapore-Johor Special Economic Zone, from 2024 until mid-2026. The campus included private rooms, gym, coworking spaces, and auditoriums",
-      "Kazakhstan is now the main hub, where NS reopened on Sep 2 with full state support",
-      "As per Network School's roadmap,",
-      "future nodes will arise throughout the world, forming a decentralized yet unified community"
+      "Network School’s current campus is in Astana, Kazakhstan; ns.com lists Astana Hub (fifth floor) and partnership with the Republic of Kazakhstan.",
+      "Former campus: Forest City, Malaysia (Singapore–Johor SEZ), from 2024 until the July 2026 closure.",
+      "Kazakhstan reopening: September 2, 2026, with state support per public Network School materials.",
+      "Future nodes are planned globally per Network School’s roadmap."
     ],
     "overview": [
       "Balaji Srinivasan, the founder, frames it as a frontier community for techno-optimists",
@@ -994,7 +994,7 @@ export const popupData: Popup[] = [
     "body": [
       "Arc is a community of founders, engineers, investors, and creators who live, work, and build together. After experiments on three continents, it chose Sri Lanka as its first long-term place.",
       "The open home is Asaya, a beachfront campus on Mirissa Beach. Programming includes Ascend and the Fulgur, Curious, and Arc Angel funds.",
-      "Arc activated Network School in Malaysia from 2025 to 2026 before applying the same pop-up-then-permanent playbook in Sri Lanka, including First Capital Startup Nation in Colombo."
+      "Arc activated Network School in Kazakhstan (Astana) and Malaysia before applying the same pop-up-then-permanent playbook in Sri Lanka, including First Capital Startup Nation in Colombo."
     ],
     "coverImages": [],
     "xyzUrl": "https://xyz.city/network-states/arc",
@@ -1012,7 +1012,7 @@ export const popupData: Popup[] = [
     "history": [
       "2024 - Arc Lisbon pop-up (September–October), with Lisbon Web3 and tech community partners",
       "2025 - Arc Austin pop-up during Austin tech week (March); Singapore pop-up (September–October)",
-      "2025 to 2026 - Activation at Network School in the Singapore–Johor SEZ: 1,000 founders helped, 500+ events, accelerator cohorts, and fund deployment",
+      "2025 to 2026 - Activation at Network School in Kazakhstan (Astana campus; prior site in Forest City, Malaysia)",
       "2026 - Live on Mirissa Beach, Sri Lanka; First Capital Startup Nation with Hatch in Colombo (28 September–1 October)"
     ],
     "durationNotes": [
@@ -1023,7 +1023,7 @@ export const popupData: Popup[] = [
     "locationDetails": [
       "Primary campus: Asaya, a beachfront campus in Mirissa, Sri Lanka",
       "Arc Sri Lanka connects builders to Colombo and national institutions",
-      "Prior activation: Network School in Forest City, Malaysia (Singapore–Johor SEZ)"
+      "Prior activation: Network School in Astana, Kazakhstan (formerly Forest City, Malaysia until 2026)"
     ],
     "overview": [
       "Arc accelerates the trajectory of people and places and ships legal, capital, and company infrastructure together.",
