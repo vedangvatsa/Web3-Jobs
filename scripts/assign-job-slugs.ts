@@ -8,7 +8,7 @@ import { assignJobSlugsInCacheFile } from './lib/job-slug-assignment';
 
 const cachePath = path.join(process.cwd(), 'content/jobs-cache.json');
 
-const { jobCount, legacyEntriesAdded } = assignJobSlugsInCacheFile(cachePath);
+const { jobCount, legacyEntriesAdded, reminted } = assignJobSlugsInCacheFile(cachePath);
 console.log(
-  `Assigned slugs for ${jobCount} jobs${legacyEntriesAdded ? ` (${legacyEntriesAdded} legacy aliases)` : ''}.`,
+  `Assigned slugs for ${jobCount} jobs${reminted ? ` (${reminted} reminted)` : ''}${legacyEntriesAdded ? ` (${legacyEntriesAdded} legacy aliases)` : ''}.`,
 );

@@ -15,6 +15,7 @@ import {
   getJobIdentity,
   assignJobSlugsAndSyncLegacyArchive,
 } from '../src/lib/job-slugs';
+import { loadReservedRootSlugsSync } from '../src/lib/reserved-root-slugs';
 import { loadJobLegacyArchive, writeJobLegacyArchive } from './lib/job-slug-assignment';
 import {
   buildJobDescriptionAliases,
@@ -2105,7 +2106,11 @@ async function refreshJobsCache() {
   });
 
   const legacyArchive = loadJobLegacyArchive();
-  const legacyAdded = assignJobSlugsAndSyncLegacyArchive(allJobs, legacyArchive);
+  const legacyAdded = assignJobSlugsAndSyncLegacyArchive(
+    allJobs,
+    legacyArchive,
+    loadReservedRootSlugsSync(),
+  );
   if (legacyAdded > 0) {
     writeJobLegacyArchive(legacyArchive);
     console.log(`Retired ${legacyAdded} job slug(s) into legacy archive for old links`);
