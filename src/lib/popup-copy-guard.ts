@@ -148,11 +148,13 @@ function isPopupTestimonialScrape(line: string): boolean {
 /** Single-line website feature dumps with no real sentence structure. */
 function isPopupFeatureListDump(line: string): boolean {
   const t = norm(line);
-  if (t.length < 100) return false;
+  if (t.length < 120) return false;
   const periods = (t.match(/[.!?]/g) ?? []).length;
-  if (periods >= 2) return false;
+  if (periods >= 1) return false;
+  // Real prose usually has conjunctions / relative clauses.
+  if (/\b(while|which|that|where|because|with the|for a|from .+ to)\b/i.test(t)) return false;
   const caps = t.match(/\b[A-Z][a-z]+(?:\s+[A-Z][a-z]+){0,3}/g) ?? [];
-  return caps.length >= 4;
+  return caps.length >= 5;
 }
 
 /** Exact-line rewrites before scrub (preserves facts, drops meta framing). */

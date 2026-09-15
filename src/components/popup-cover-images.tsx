@@ -64,13 +64,13 @@ export function PopupCoverImages({
       <Carousel className="w-full" opts={{ align: 'start', loop: true }}>
         <CarouselContent className="-ml-3">
           {images.map((src, index) => (
-            <CarouselItem key={src} className="basis-full pl-3">
+            <CarouselItem key={src} className="basis-1/2 pl-3">
               <div className={slideClass}>
                 <Image
                   src={src}
                   alt=""
                   fill
-                  sizes="(max-width: 640px) 100vw, 50vw"
+                  sizes="(max-width: 640px) 50vw, 40vw"
                   className="object-cover"
                   priority={index === 0}
                 />

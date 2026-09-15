@@ -71,13 +71,13 @@ function ProseSection({
   return (
     <section className="mt-10">
       <h2 className="mb-3 text-lg font-bold tracking-tight">{title}</h2>
-      <ul className="space-y-2">
+      <div className="space-y-3">
         {items.map((item) => (
-          <li key={`${title}-${item}`} className="break-words text-sm leading-relaxed text-muted-foreground">
+          <p key={`${title}-${item}`} className="break-words text-sm leading-relaxed text-muted-foreground">
             <PopupRichText text={item} nsDashboardUrl={nsDashboardUrl} />
-          </li>
+          </p>
         ))}
-      </ul>
+      </div>
     </section>
   );
 }
@@ -130,22 +130,36 @@ function HistorySection({
     <section className="mt-10">
       <h2 className="mb-3 text-lg font-bold tracking-tight">History</h2>
       <ol className="space-y-4 border-l border-border/70 pl-4">
-        {entries.map((entry) => (
-          <li key={`${entry.heading}-${entry.detail ?? ''}`} className="relative">
-            <span
-              className="absolute -left-[21px] top-1.5 h-2.5 w-2.5 rounded-full border border-border bg-background"
-              aria-hidden="true"
-            />
-            <p className="text-sm font-medium text-foreground">
-              <PopupRichText text={entry.heading} nsDashboardUrl={nsDashboardUrl} />
-            </p>
-            {entry.detail ? (
-              <p className="mt-1 break-words text-sm leading-relaxed text-muted-foreground">
-                <PopupRichText text={entry.detail} nsDashboardUrl={nsDashboardUrl} />
-              </p>
-            ) : null}
-          </li>
-        ))}
+        {entries.map((entry) => {
+          const yearLike = /^\d{4}(\s+to\s+\d{4})?$/i.test(entry.heading);
+          const shortLabel = entry.heading.length <= 48 && !entry.detail;
+          return (
+            <li key={`${entry.heading}-${entry.detail ?? ''}`} className="relative">
+              <span
+                className="absolute -left-[21px] top-1.5 h-2.5 w-2.5 rounded-full border border-border bg-background"
+                aria-hidden="true"
+              />
+              {yearLike || shortLabel ? (
+                <p className="text-sm font-medium text-foreground">
+                  <PopupRichText text={entry.heading} nsDashboardUrl={nsDashboardUrl} />
+                </p>
+              ) : null}
+              {entry.detail ? (
+                <p
+                  className={`break-words text-sm leading-relaxed text-muted-foreground ${
+                    yearLike || shortLabel ? 'mt-1' : ''
+                  }`}
+                >
+                  <PopupRichText text={entry.detail} nsDashboardUrl={nsDashboardUrl} />
+                </p>
+              ) : !yearLike && !shortLabel ? (
+                <p className="break-words text-sm leading-relaxed text-muted-foreground">
+                  <PopupRichText text={entry.heading} nsDashboardUrl={nsDashboardUrl} />
+                </p>
+              ) : null}
+            </li>
+          );
+        })}
       </ol>
     </section>
   );
@@ -279,7 +293,7 @@ export function PopupDetailView({ popup }: { popup: Popup }) {
                         key={key}
                         href={href}
                         label={`${popup.name} on ${label}`}
-                        className="inline-flex h-9 w-9 items-center justify-center rounded-md border border-border/70 text-muted-foreground transition-colors hover:border-foreground/25 hover:text-foreground"
+                        className="inline-flex items-center justify-center text-muted-foreground transition-colors hover:text-foreground"
                       >
                         <Icon className="h-4 w-4" aria-hidden="true" />
                       </OutboundLink>

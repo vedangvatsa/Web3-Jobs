@@ -96,6 +96,20 @@ export type HistoryEntry = {
   detail?: string;
 };
 
+function ensureSentence(line: string): string {
+  const t = line.trim();
+  if (!t) return '';
+  if (/[.!?]$/.test(t)) return t;
+  if (/[:;,—–-]$/.test(t)) return t;
+  return `${t}.`;
+}
+
+function capitalizeLead(line: string): string {
+  const t = line.trim();
+  if (!t) return t;
+  return t.replace(/^([a-z])/, (ch) => ch.toUpperCase());
+}
+
 export function parseHistoryLines(lines: string[]): HistoryEntry[] {
   const entries: HistoryEntry[] = [];
   const merged = mergeBrokenPopupLines(lines);
@@ -106,30 +120,45 @@ export function parseHistoryLines(lines: string[]): HistoryEntry[] {
 
     const yearLead = line.match(/^(\d{4})\s*[-–—]\s*(.+)$/);
     if (yearLead) {
-      entries.push({ heading: yearLead[1], detail: yearLead[2] });
+      entries.push({ heading: yearLead[1], detail: ensureSentence(yearLead[2]) });
       continue;
     }
 
     const rangeLead = line.match(/^(\d{4}\s+to\s+\d{4})\s*[-–—]?\s*(.*)$/i);
     if (rangeLead && rangeLead[2]) {
-      entries.push({ heading: rangeLead[1], detail: rangeLead[2] });
+      entries.push({ heading: rangeLead[1], detail: ensureSentence(rangeLead[2]) });
+      continue;
+    }
+
+    // "In 2023, …" / "By 2025, …" prose — use year as heading, rest as detail.
+    const inYear = line.match(/^(?:In|By|After|During)\s+(\d{4})\b[,\s]+(.+)$/i);
+    if (inYear && inYear[2].length > 20) {
+      entries.push({ heading: inYear[1], detail: ensureSentence(capitalizeLead(inYear[2])) });
+      continue;
+    }
+
+    // "After proving demand, by March 2025 it evolved…" — year near the start only.
+    const nearStartYear = line.match(/^.{0,48}?\b(?:in|by|during)\s+(?:[A-Za-z]+\s+)?(\d{4})\b/i);
+    if (nearStartYear && line.length > 60 && !/^\d{4}\b/.test(line)) {
+      entries.push({ heading: nearStartYear[1], detail: ensureSentence(line) });
       continue;
     }
 
     const next = cleanLine(merged[i + 1] ?? '');
     const dateLike = /^(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)/i.test(next) || /^\d{4}$/.test(next);
     if (dateLike && line.length < 48 && !/^\d{4}\s*[-–—]/.test(line)) {
-      entries.push({ heading: line, detail: next });
+      entries.push({ heading: line, detail: ensureSentence(next) });
       i += 1;
       continue;
     }
 
-    if (/^(for \d{4}|in \d{4}|by \d{4})/i.test(line) || line.length > 50) {
+    // Short labels (v1, slot counts) stay as headings; long prose becomes detail-only.
+    if (line.length <= 48 && !/[.!?]/.test(line)) {
       entries.push({ heading: line });
       continue;
     }
 
-    entries.push({ heading: line });
+    entries.push({ heading: ensureSentence(line) });
   }
 
   return entries;
@@ -138,5 +167,6 @@ export function parseHistoryLines(lines: string[]): HistoryEntry[] {
 export function proseLines(lines: string[]): string[] {
   return mergeBrokenPopupLines(lines)
     .map(cleanLine)
-    .filter((line) => line.length > 0 && !/^What (is|kind of|are)\b.+\?$/i.test(line));
+    .filter((line) => line.length > 0 && !/^What (is|kind of|are)\b.+\?$/i.test(line))
+    .map(ensureSentence);
 }
