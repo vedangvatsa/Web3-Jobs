@@ -3292,5 +3292,23 @@
     "url": "https://thebitcoindistrict.com/bitchill/",
     "website": "https://thebitcoindistrict.com/bitchill/",
     "registrationUrl": "https://thebitcoindistrict.com/bitchill/"
+  },
+  {
+    "twitter": null,
+    "source": "curated-premier",
+    "coverImage": null,
+    "id": "premier-gts-2026",
+    "slug": "gts",
+    "name": "Global Trading Show 2026",
+    "description": "Multi-asset trading conference and expo at Emirates Palace, Abu Dhabi — forex, crypto, equities, AI trading, DeFi, and prediction markets.",
+    "startDate": "2026-12-15T09:00:00+04:00",
+    "endDate": "2026-12-16T20:00:00+04:00",
+    "city": "Abu Dhabi",
+    "country": "United Arab Emirates",
+    "location": "Emirates Palace, Abu Dhabi, UAE",
+    "venueName": "Emirates Palace",
+    "url": "https://www.globaltradingshow.com/",
+    "website": "https://www.globaltradingshow.com/",
+    "registrationUrl": "https://www.globaltradingshow.com/tickets/"
   }
 ]
