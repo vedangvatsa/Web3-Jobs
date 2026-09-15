@@ -1,13 +1,10 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { getArticle } from '@/lib/articles';
+import { buildArticlePageMeta } from '@/lib/article-og-meta';
 import { buildUniqueJobMetaDescription, resolveJobSlug } from '@/lib/job-guides';
-import {
-  buildArticleOgImageUrl,
-  buildJobOgImageUrl,
-  resolveEventOgImageUrl,
-  eventOgImageMimeType,
-  SITE_URL,
-} from '@/lib/job-og';
+import { getTerm } from '@/lib/glossary';
+import { getResourceByCanonicalSlug } from '@/lib/pseo';
+import { buildJobOgImageUrl, resolveEventOgImageUrl, eventOgImageMimeType, SITE_URL } from '@/lib/job-og';
 import { getEventBySlug } from '@/lib/events-server';
 import { getEventSlug, formatEventDate } from '@/lib/events';
 import { stripSocialPathSuffix } from '@/lib/social-share';
@@ -274,16 +271,30 @@ async function resolveMetadata(path: string): Promise<PageMeta> {
     const jobMeta = await resolveJobMetadata(slug);
     if (jobMeta) return jobMeta;
 
+    const term = await getTerm(slug);
+    if (term) {
+      const metaDescription = `Learn what ${term.term} means in Web3, blockchain, and crypto.`;
+      return {
+        title: `${term.term} - Web3 Glossary`,
+        description: metaDescription,
+        ogImageUrl: `${SITE_URL}/api/og?type=default&title=${encodeURIComponent(term.term)}`,
+        canonicalUrl: `${SITE_URL}/${term.slug}`,
+      };
+    }
+
+    const resource = getResourceByCanonicalSlug(slug);
+    if (resource) {
+      return {
+        title: resource.seo.title,
+        description: resource.seo.description,
+        ogImageUrl: `${SITE_URL}/api/og?type=default&title=${encodeURIComponent(resource.seo.title)}`,
+        canonicalUrl: `${SITE_URL}/${resource.seo.canonicalSlug}`,
+      };
+    }
+
     const article = await getArticle(slug);
     if (article) {
-      const description =
-        article.description.length > 155 ? `${article.description.slice(0, 152)}...` : article.description;
-      return {
-        title: article.title,
-        description,
-        ogImageUrl: buildArticleOgImageUrl(article, SITE_URL),
-        canonicalUrl: `${SITE_URL}/${article.slug}`,
-      };
+      return buildArticlePageMeta(article);
     }
   }
 

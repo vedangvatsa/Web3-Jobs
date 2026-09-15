@@ -1,6 +1,6 @@
 import { NextResponse } from 'next/server';
 import type { NextRequest } from 'next/server';
-import { LINK_PREVIEW_BOT_RE, SOCIAL_UTM_MAP } from '@/lib/social-share';
+import { LINK_PREVIEW_BOT_RE, SOCIAL_UTM_MAP, stripSocialPathSuffix } from '@/lib/social-share';
 
 /**
  * Social media suffix shortcuts mapping to standardized UTM attribution parameters.
@@ -107,17 +107,16 @@ export function middleware(request: NextRequest) {
   if (!pathname.startsWith('/api') && !pathname.startsWith('/_next') && !pathname.includes('.')) {
     const ua = request.headers.get('user-agent') || '';
     const isLinkPreviewBot = LINK_PREVIEW_BOT_RE.test(ua);
-    const lastPathSegment = pathname.replace(/\/+$/, '').split('/').pop()?.toLowerCase() || '';
-    const isSocialSuffix = Boolean(lastPathSegment && SOCIAL_UTM_MAP[lastPathSegment]);
 
-    if (isLinkPreviewBot && !isSocialSuffix) {
-      // Rewrite internally to /api/og-meta which returns a minimal HTML shell.
-      // This route reads the same metadata as the real page but skips the full render.
+    if (isLinkPreviewBot) {
+      // Strip /ig, /th, /wa, etc. so previews match the canonical page (e.g. /clarity-act).
+      const contentPath = stripSocialPathSuffix(pathname);
       const rewriteUrl = request.nextUrl.clone();
       rewriteUrl.pathname = '/api/og-meta';
-      rewriteUrl.searchParams.set('path', pathname);
+      rewriteUrl.search = '';
+      rewriteUrl.searchParams.set('path', contentPath);
       const rewriteHeaders = new Headers(request.headers);
-      rewriteHeaders.set('x-og-source-path', pathname);
+      rewriteHeaders.set('x-og-source-path', contentPath);
       return NextResponse.rewrite(rewriteUrl, { request: { headers: rewriteHeaders } });
     }
   }
