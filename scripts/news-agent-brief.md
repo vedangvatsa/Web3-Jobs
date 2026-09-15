@@ -36,6 +36,10 @@ names, or plans.
 - 800+ words of body prose (target 850-1000).
 - Inline hyperlinks at each claim. Attribute everything (`said`, `according to`,
   `reported`, `plans`). Preserve uncertainty from sources.
+- Vary attribution placement: never end more than two consecutive sentences
+  with `according to X` / `reported Y`. Lead some sentences with the source
+  ("Cointelegraph reported ..."), bury some mid-sentence, and let plain
+  established facts stand with just the link.
 - No Sources/References section, no FAQ, no key-takeaway boxes, no tables,
   no bold inside prose, no em dashes, no curly quotes, straight ASCII only.
 - End on the last concrete reported fact. No summary, no moral, no mic-drop.
@@ -90,10 +94,14 @@ When in doubt, shorter and plainer wins.
 
 ## 6. Publish
 
-- If $DRY_RUN is `true`, stop after the gates pass: print the summary,
-  commit nothing, push nothing.
-- `git add` ONLY your new article files (+ next.config.mjs only if you added
-  an image host). Nothing else.
+DRY-RUN VALUE FOR THIS RUN: $DRY_RUN
+- If that value is true, git commit and git push are FORBIDDEN. Draft files
+  may exist in the working tree for gating, but create NO commits and push
+  nothing — print the summary and stop.
+  (The git remote is also disabled in dry-run mode, so any push attempt
+  will fail — treat that failure as confirmation, not as something to fix.)
+- In a live run, `git add` ONLY your new article files (+ next.config.mjs
+  only if you added an image host). Nothing else.
 - Commit message: `news: add <slug>[, <slug>] for <YYYY-MM-DD>`.
 - Push with rebase retry (max 3): pull --rebase, push; never force-push.
 - Print a final summary: files added, word counts, sources used, audits green.
