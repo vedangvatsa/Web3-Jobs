@@ -87,8 +87,9 @@ async function runMiddlewareTests() {
 
   console.log('\n2b. Testing crawler handling for platform-suffixed job URLs...');
   const suffixedCrawlerTests = [
-    { name: 'Facebook', ua: 'facebookexternalhit/1.1', path: '/engineer442/fb?og=2' },
-    { name: 'Threads', ua: 'Meta-ExternalAgent/1.1', path: '/engineer442/th?og=2' },
+    { name: 'Facebook', ua: 'facebookexternalhit/1.1', path: '/engineer442/fb?og=2', expectedOgPath: '/engineer442' },
+    { name: 'Threads', ua: 'Meta-ExternalAgent/1.1', path: '/engineer442/th?og=2', expectedOgPath: '/engineer442' },
+    { name: 'WhatsApp', ua: 'WhatsApp/2.23.20.0', path: '/clarity-act/wa', expectedOgPath: '/clarity-act' },
   ];
   for (const test of suffixedCrawlerTests) {
     try {
@@ -99,8 +100,10 @@ async function runMiddlewareTests() {
       const rewrite = res.headers.get('x-middleware-rewrite') || '';
       const rewriteUrl = new URL(rewrite);
       assert(
-        res.status === 200 && rewriteUrl.pathname === '/api/og-meta' && rewriteUrl.searchParams.get('path') === '/engineer442',
-        `Suffixed ${test.name} crawler rewrites to the canonical job metadata`,
+        res.status === 200 &&
+          rewriteUrl.pathname === '/api/og-meta' &&
+          rewriteUrl.searchParams.get('path') === test.expectedOgPath,
+        `Suffixed ${test.name} crawler rewrites to canonical page metadata`,
         `Got "${rewrite}"`
       );
     } catch (err: any) {
