@@ -6,9 +6,11 @@ description: >-
   network and the first national-currency stablecoin on Telegram in Central
   Asia.
 image: >-
-  /api/og?type=article&title=Kazakhstan%20Launches%20Tenge-Pegged%20KZTg%20Stablecoin%20on%20Telegram
+  https://upload.wikimedia.org/wikipedia/commons/4/42/Central_Downtown_Astana_pamorama.jpg
+imageCaption: "Night panorama of central Astana with the Ak Orda Presidential Palace. Photo: Ken and Nyetta via Wikimedia Commons (CC BY 2.0)."
+imageCreditUrl: https://commons.wikimedia.org/wiki/File:Central_Downtown_Astana_pamorama.jpg
 category: News
-data-ai-hint: stablecoin telegram launch
+data-ai-hint: astana kazakhstan night panorama
 publishedDate: '2026-09-14'
 lastUpdated: "2026-09-14"
 ogTitle: KAZAKHSTAN LAUNCHES KZTG STABLECOIN ON TELEGRAM

@@ -5,9 +5,11 @@ description: >-
   write activity-based rules for people who control defined non-decentralized
   DeFi trading protocols.
 image: >-
-  /api/og?type=article&title=Senate%20CLARITY%20Draft%20Would%20Set%20Tests%20for%20DeFi%20Controller%20Rules
+  https://upload.wikimedia.org/wikipedia/commons/4/4f/US_Capitol_west_side.JPG
+imageCaption: "Panoramic daytime view of the west front of the U.S. Capitol in Washington, D.C. Photo: Martin Falbisoner via Wikimedia Commons (CC BY-SA 3.0)."
+imageCreditUrl: https://commons.wikimedia.org/wiki/File:US_Capitol_west_side.JPG
 category: News
-data-ai-hint: Senate digital asset legislation
+data-ai-hint: us capitol west front washington dc
 publishedDate: '2026-09-12'
 lastUpdated: "2026-09-13"
 ogTitle: SENATE DRAFTS CLARITY ACT FOR DEFI RULES

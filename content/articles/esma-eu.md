@@ -5,9 +5,11 @@ description: >-
   contracts in the EU turns on the contract and can involve financial-services,
   crypto-asset, or national gambling rules.
 image: >-
-  /api/og?type=article&title=ESMA%20Sets%20Out%20EU%20Rules%20and%20Risks%20for%20Prediction%20Markets
+  https://upload.wikimedia.org/wikipedia/commons/d/d6/Representation_Europeenne_Paris.jpg
+imageCaption: "European Commission representation office with EU flags in Paris. Photo: Richardprins via Wikimedia Commons (CC0)."
+imageCreditUrl: https://commons.wikimedia.org/wiki/File:Representation_Europeenne_Paris.jpg
 category: News
-data-ai-hint: ESMA prediction market analysis
+data-ai-hint: european union flags paris
 publishedDate: '2026-09-12'
 lastUpdated: "2026-09-13"
 ogTitle: EU REGULATOR ESMA SETS PREDICTION MARKET RULES

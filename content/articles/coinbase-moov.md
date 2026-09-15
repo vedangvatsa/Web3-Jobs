@@ -8,6 +8,8 @@ description: >-
   commercial details remain undisclosed.
 image: >-
   https://images.ctfassets.net/sygt3q11s4a9/5UxnOqGiIrqFR7ycz8JB1O/0f8b3acacd4091377cd79dd3c2784c77/IMG_0644.jpg
+imageCaption: "Coinbase and Moov stablecoin banking announcement imagery. Image via Coinbase."
+imageCreditUrl: https://www.coinbase.com/blog/coinbase-brings-stablecoin-payments-and-custody-to-community-banks-and-credit-unions
 category: News
 data-ai-hint: stablecoin bank payments
 publishedDate: '2026-09-12'

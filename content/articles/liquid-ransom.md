@@ -5,9 +5,11 @@ description: >-
   vulnerability created unbacked LBTC, while peg-outs remain suspended and
   Blockstream says 598.5 BTC is still outstanding.
 image: >-
-  /api/og?type=article&title=Liquid%20Restarts%20Transactions%20as%20Blockstream%20Declines%20Ransom%20Demand
+  https://upload.wikimedia.org/wikipedia/commons/f/f7/Bitcoin_mining_farm.jpg
+imageCaption: "Bitcoin mining hardware in a mining farm. Photo: Marko Ahtisaari via Wikimedia Commons (CC BY 2.0)."
+imageCreditUrl: https://commons.wikimedia.org/wiki/File:Bitcoin_mining_farm.jpg
 category: News
-data-ai-hint: liquid bitcoin recovery
+data-ai-hint: bitcoin mining farm hardware
 publishedDate: '2026-09-12'
 lastUpdated: "2026-09-13"
 ogTitle: BLOCKSTREAM REJECTS RANSOM AS LIQUID RESTARTS

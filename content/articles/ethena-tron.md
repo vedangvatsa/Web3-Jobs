@@ -5,9 +5,11 @@ description: >-
   Stargate Finance for bridging, holding, and transfers, with DeFi
   integrations on JustLend DAO and SUN.io expected in coming weeks.
 image: >-
-  /api/og?type=article&title=Ethena%20and%20TRON%20DAO%20Bring%20USDe%20and%20sUSDe%20to%20the%20TRON%20Network
+  https://upload.wikimedia.org/wikipedia/commons/5/52/Head_of_the_Grenadian_Delegation_to_the_12th_World_Trade_Organization_Ministerial_Conference_Justin_Sun.jpg
+imageCaption: "TRON founder Justin Sun at the 12th WTO Ministerial Conference in Geneva. Photo: World Trade Organization via Wikimedia Commons (CC BY-SA 2.0)."
+imageCreditUrl: https://commons.wikimedia.org/wiki/File:Head_of_the_Grenadian_Delegation_to_the_12th_World_Trade_Organization_Ministerial_Conference_Justin_Sun.jpg
 category: News
-data-ai-hint: stablecoin tron expansion
+data-ai-hint: justin sun tron wto geneva
 publishedDate: '2026-09-14'
 lastUpdated: "2026-09-14"
 ogTitle: ETHENA AND TRON BRING USDE AND SUSDE TO TRON

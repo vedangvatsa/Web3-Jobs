@@ -3,7 +3,7 @@
 import { useState } from 'react';
 import Image from 'next/image';
 import type { EventType } from '@/lib/events';
-import { resolveEventPreviewImageUrl } from '@/lib/job-og';
+import { resolveEventPreviewImageUrl } from '@/lib/event-og-url';
 
 const GRADIENTS = [
   'from-violet-600/80 via-purple-700/80 to-indigo-800/80',

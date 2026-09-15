@@ -5,9 +5,11 @@ description: >-
   hook for two assets expected to trade at parity, and lists USDC/USDT and
   USDC/USDG as initial Ethereum pools.
 image: >-
-  /api/og?type=article&title=Uniswap%20Documents%20StablePair%20Hook%20and%20Initial%20Ethereum%20Pools
+  https://upload.wikimedia.org/wikipedia/commons/0/09/Vitalik_Buterin_TechCrunch_London_2015.jpg
+imageCaption: "Ethereum founder Vitalik Buterin on stage in 2015. Photo: John Phillips via Wikimedia Commons (CC BY 2.0)."
+imageCreditUrl: https://commons.wikimedia.org/wiki/File:Vitalik_Buterin_TechCrunch_London_2015.jpg
 category: News
-data-ai-hint: stablecoin liquidity pool
+data-ai-hint: vitalik buterin ethereum stage
 publishedDate: '2026-09-12'
 lastUpdated: "2026-09-13"
 ogTitle: UNISWAP DEPLOYS STABLEPAIR HOOK ON ETHEREUM

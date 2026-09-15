@@ -5,9 +5,11 @@ description: >-
   tokenize electricity-transmission assets, while a separate proposed
   land-token law remains in draft.
 image: >-
-  /api/og?type=article&title=Indian%20State%20of%20Maharashtra%20Explores%20Tokenizing%20Infrastructure%20Assets
+  https://upload.wikimedia.org/wikipedia/commons/2/2b/Mumbai_Bandra-Worli_Sea_Link.jpg
+imageCaption: "The Bandra-Worli Sea Link spanning Mahim Bay in Mumbai. Photo: Rutiknatekar via Wikimedia Commons (CC BY-SA 4.0)."
+imageCreditUrl: https://commons.wikimedia.org/wiki/File:Mumbai_Bandra-Worli_Sea_Link.jpg
 category: News
-data-ai-hint: Maharashtra electricity transmission tokenization
+data-ai-hint: bandra worli sea link mumbai
 publishedDate: '2026-09-12'
 lastUpdated: "2026-09-13"
 ogTitle: INDIAN STATE EXPLORES ASSET TOKENIZATION

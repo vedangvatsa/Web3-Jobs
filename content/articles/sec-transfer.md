@@ -5,9 +5,11 @@ description: >-
   electronic master securityholder files while imposing record-control, access,
   processing and risk-management requirements on the registered agent.
 image: >-
-  /api/og?type=article&title=SEC%20Proposal%20Sets%20Conditions%20for%20Blockchain%20Securityholder%20Records
+  https://upload.wikimedia.org/wikipedia/commons/1/19/U.S._Securities_and_Exchange_Commission_headquarters.JPG
+imageCaption: "The U.S. Securities and Exchange Commission headquarters at 100 F Street NE, Washington, D.C. Photo: AgnosticPreachersKid via Wikimedia Commons (CC BY-SA 3.0)."
+imageCreditUrl: https://commons.wikimedia.org/wiki/File:U.S._Securities_and_Exchange_Commission_headquarters.JPG
 category: News
-data-ai-hint: transfer agent blockchain records
+data-ai-hint: sec headquarters washington dc
 publishedDate: '2026-09-12'
 lastUpdated: "2026-09-13"
 ogTitle: SEC PROPOSES BLOCKCHAIN TRANSFER AGENT RULES
