@@ -198,9 +198,6 @@ export default function Web3HiringReport() {
     <PageShell containerClassName="space-y-20 pb-16 md:space-y-28 md:pb-20">
 
     <div>
-     <p className="mb-4 text-xs font-semibold uppercase tracking-[0.2em] text-primary">
-      Hashtag Web3 Research / {s.snapshotLabel}
-     </p>
      <PageHeader
       align="left"
       className="mb-0 text-left [&_h1]:text-left [&_p]:mx-0 [&_p]:max-w-3xl [&_p]:text-base [&_p]:leading-relaxed"
@@ -214,7 +211,7 @@ export default function Web3HiringReport() {
       description={
        <>
         We analyzed <Cite href="https://hashtagweb3.com/jobs">{fmtInt(s.listings)} active job listings</Cite> across {s.companies} companies.
-        Full posting text lives in our description shards and was parsed for skills, pay bands, remote language,
+        Full posting text on each listing was parsed for skills, pay bands, remote language,
         and compensation keywords, alongside ATS titles, departments, and locations.
        </>
       }
@@ -240,7 +237,7 @@ export default function Web3HiringReport() {
       Public Web3 hiring in {s.snapshotLabel} is concentrated and operational. The top 10 employers account for {s.top10SharePct}% of open roles. {s.topCompanies[0]?.name} leads the board with {fmtInt(s.topCompanies[0]?.count ?? 0)} listings, ahead of {s.topCompanies[1]?.name} ({fmtInt(s.topCompanies[1]?.count ?? 0)}) and {s.topCompanies[2]?.name} ({fmtInt(s.topCompanies[2]?.count ?? 0)}). Engineering is still the largest function at {engDept?.pct}%. Finance is {finDept?.pct}%. Pure DeFi protocol teams barely show up on structured ATS boards.
      </p>
      <p className="text-base text-muted-foreground leading-relaxed mb-5">
-      This report uses the same job text shown on Hashtag Web3 role pages: {fmtInt(s.withDesc)} of {fmtInt(s.listings)} listings ({s.withDescPct}%) have at least 100 characters of description content in <code className="text-xs bg-muted px-1 py-0.5 rounded">content/job-description-shards/</code>. Departments and seniority still come from titles and ATS fields. Keyword and salary rates below are measured on that full posting text unless noted. All figures are loaded from precomputed <code className="text-xs bg-muted px-1 py-0.5 rounded">content/hiring-report-stats.json</code> at build time (no analysis runs when you open this page).
+      This report uses the same job text shown on Hashtag Web3 role pages: {fmtInt(s.withDesc)} of {fmtInt(s.listings)} listings ({s.withDescPct}%) include at least 100 characters of description text. Departments and seniority come from titles and ATS fields. Keyword and salary rates below are measured on that full posting text unless noted.
      </p>
      <p className="text-base text-muted-foreground leading-relaxed mb-5">
       Six findings stand out. Engineering is 35.9% of roles. Sales and BD (10.8%) outrank operations (6.9%). Median base pay parsed from posting text is $203,500 (n=1,293, about 21% of listings). AI, ML, or LLM language appears in 49.6% of full postings. Remote work is mentioned in 35.4% of posting text, though only 19.3% of location fields say remote. Entry and intern titles are 3.8%. Stripe, not Binance, tops the employer count.
@@ -274,7 +271,7 @@ export default function Web3HiringReport() {
      </div>
      <Callout>Engineering at 35.9% is still roughly 1.5x a traditional tech mix. Sales has overtaken operations on the public board.</Callout>
      <Sources>
-      Source: <Cite href="https://hashtagweb3.com/jobs">Hashtag Web3</Cite> jobs cache, September 2026 (n=6,069) | <Cite href="https://www.bls.gov/ooh/computer-and-information-technology/">BLS Occupational Outlook</Cite>
+      Source: <Cite href="https://hashtagweb3.com/jobs">Hashtag Web3</Cite>, {s.snapshotLabel} (n={fmtInt(s.listings)}) | <Cite href="https://www.bls.gov/ooh/computer-and-information-technology/">BLS Occupational Outlook</Cite>
      </Sources>
     </section>
 
@@ -522,13 +519,13 @@ export default function Web3HiringReport() {
     <section className="pb-4">
      <h2 className="text-2xl font-bold tracking-tight text-foreground mb-5">Methodology</h2>
      <p className="text-base text-muted-foreground leading-relaxed mb-5">
-      Snapshot of {fmtInt(s.listings)} listings in the Hashtag Web3 jobs cache ({s.snapshotLabel}). Full posting text is stored in sharded description files under <code className="text-xs bg-muted px-1 py-0.5 rounded">content/job-description-shards/</code> and merged the same way as on live job pages ({s.withDescPct}% of listings have at least 100 characters of text). HTML is stripped to plain text before keyword and salary parsing. Departments and seniority use titles plus ATS department fields. Locations use the location string.
+      This snapshot covers {fmtInt(s.listings)} active listings on Hashtag Web3 ({s.snapshotLabel}). We use the full posting text shown on each role page ({s.withDescPct}% of listings have at least 100 characters after HTML is removed). Keyword and salary signals come from that text. Department and seniority splits use job titles and ATS department fields. Geography uses each listing&apos;s location field.
      </p>
      <p className="text-base text-muted-foreground leading-relaxed mb-5">
-      Salaries are midpoints of explicit USD ranges in posting text or salary fields only; we do not impute. Metrics are regenerated offline with <code className="text-xs bg-muted px-1 py-0.5 rounded">npm run hiring-report:stats</code>, then committed as <code className="text-xs bg-muted px-1 py-0.5 rounded">content/hiring-report-stats.json</code>. That script is not part of <code className="text-xs bg-muted px-1 py-0.5 rounded">npm run build</code> and does not run when visitors load this page. DAO and Discord-only hiring remains underrepresented.
+      Salary figures are midpoints of explicit USD ranges in the posting or salary field only; we do not estimate pay where no range is published. Listings hired only through DAO votes, Discord, or private channels are underrepresented on public job boards.
      </p>
      <p className="text-base text-muted-foreground leading-relaxed">
-      Produced by <Cite href="https://hashtagweb3.com">Hashtag Web3</Cite> in September 2026. For the live board see the <Cite href="https://hashtagweb3.com/jobs">jobs page</Cite>. Questions: <Cite href="https://t.me/web3hiring">@web3hiring on Telegram</Cite>.
+      Produced by <Cite href="https://hashtagweb3.com">Hashtag Web3</Cite>, {s.snapshotLabel}. For the live board see the <Cite href="https://hashtagweb3.com/jobs">jobs page</Cite>. Questions: <Cite href="https://t.me/web3hiring">@web3hiring on Telegram</Cite>.
      </p>
     </section>
 
