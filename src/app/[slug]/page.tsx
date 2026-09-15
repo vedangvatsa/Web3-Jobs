@@ -13,6 +13,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 import type { Article as ArticleSchema, NewsArticle, ScholarlyArticle, BreadcrumbList, WithContext } from 'schema-dts';
 import { ArticleContent } from '@/components/article-content';
+import { ArticleImageCaption } from '@/components/article-image-caption';
 import { RelatedArticles } from '@/components/related-articles';
 import { ResourcePageView } from '@/components/pseo/resource-page-view';
 import { Suspense } from 'react';
@@ -853,15 +854,10 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                     />
                   </div>
                   {(article.imageCaption || article.imageCreditUrl) ? (
-                    <p className="mb-8 text-xs italic text-muted-foreground">
-                      {article.imageCaption}
-                      {article.imageCaption && article.imageCreditUrl ? ' ' : null}
-                      {article.imageCreditUrl && (
-                        <a href={article.imageCreditUrl} target="_blank" rel="noopener noreferrer nofollow" className="underline underline-offset-2">
-                          Source
-                        </a>
-                      )}
-                    </p>
+                    <ArticleImageCaption
+                      caption={article.imageCaption}
+                      creditUrl={article.imageCreditUrl}
+                    />
                   ) : (
                     <div className="mb-8" />
                   )}
