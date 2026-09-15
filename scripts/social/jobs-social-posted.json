@@ -1,5 +1,5 @@
 {
-  "lastIndex": 186,
+  "lastIndex": 187,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -79,7 +79,8 @@
     "operations41595",
     "engineer89005",
     "operations20004",
-    "engineer66009"
+    "engineer66009",
+    "trader68003"
   ],
   "history": [
     {
@@ -3370,6 +3371,63 @@
       "platform": "instagram",
       "postedAt": "2026-09-15T06:15:37.824Z",
       "postId": "18225880570330211",
+      "verification": "verified"
+    },
+    {
+      "slug": "trader68003",
+      "company": "OKX",
+      "title": "Quantitative Trader (D1 Liquidity)",
+      "platform": "x",
+      "postedAt": "2026-09-15T12:45:20.325Z",
+      "postId": "2099841999432286460",
+      "verification": "verified"
+    },
+    {
+      "slug": "trader68003",
+      "company": "OKX",
+      "title": "Quantitative Trader (D1 Liquidity)",
+      "platform": "threads",
+      "postedAt": "2026-09-15T12:45:20.325Z",
+      "postId": "17992748187034229",
+      "verification": "verified",
+      "expectedText": "OKX is hiring Quantitative Trader (D1 Liquidity): https://hashtagweb3.com/trader68003/th?og=2",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DdTvdBplenI",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "trader68003",
+      "company": "OKX",
+      "title": "Quantitative Trader (D1 Liquidity)",
+      "platform": "bluesky",
+      "postedAt": "2026-09-15T12:45:20.325Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mvknqyv7m224",
+      "verification": "verified"
+    },
+    {
+      "slug": "trader68003",
+      "company": "OKX",
+      "title": "Quantitative Trader (D1 Liquidity)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-15T12:45:20.325Z",
+      "postId": "0x3debe959db6f75158f8d94e66310af79d28714dd",
+      "verification": "verified"
+    },
+    {
+      "slug": "trader68003",
+      "company": "OKX",
+      "title": "Quantitative Trader (D1 Liquidity)",
+      "platform": "linkedin",
+      "postedAt": "2026-09-15T12:45:20.325Z",
+      "postId": "6aa93dfb947833e10e959b1f",
+      "verification": "verified"
+    },
+    {
+      "slug": "trader68003",
+      "company": "OKX",
+      "title": "Quantitative Trader (D1 Liquidity)",
+      "platform": "instagram",
+      "postedAt": "2026-09-15T12:45:20.325Z",
+      "postId": "18471611635112786",
       "verification": "verified"
     }
   ]
