@@ -5,7 +5,7 @@
  * Resend broadcast to a segment (default: General). Unsubscribed contacts
  * are excluded by Resend automatically.
  *
- * Usage: npx tsx scripts/send-resend-broadcast.ts [--days 1] [--limit 15] [--dry-run]
+ * Usage: npx tsx scripts/send-resend-broadcast.ts [--limit 10] [--dry-run] [--preview]
  * Env: RESEND_API_KEY (required), RESEND_SEGMENT_ID (default General),
  *      EMAIL_FROM (default "Hashtag Web3 <hi@hashtagweb3.com>")
  *
@@ -21,8 +21,6 @@ const GENERAL_SEGMENT_ID = '2db4b31c-7b5b-46b9-b2b1-98ae142d289b';
 
 const args = process.argv.slice(2);
 const isDryRun = args.includes('--dry-run');
-const daysIdx = args.indexOf('--days');
-const daysBack = daysIdx > -1 ? Math.max(1, Number(args[daysIdx + 1]) || 1) : 1;
 const limitIdx = args.indexOf('--limit');
 const jobLimit = limitIdx > -1 ? Math.max(1, Number(args[limitIdx + 1]) || 10) : 10;
 
@@ -50,6 +48,8 @@ function saveSentIds(set: Set<string>) {
   fs.writeFileSync(STATE_FILE, JSON.stringify([...set].slice(-3000)));
 }
 
+const FONT_STACK = "'Inter', Roboto, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif";
+
 function buildHtml(jobs: JobListing[]): string {
   const jobsHTML = jobs.map((job) => `
    <div style="padding: 14px 0; border-bottom: 1px solid #e5e7eb;">
@@ -69,7 +69,7 @@ function buildHtml(jobs: JobListing[]): string {
      <meta charset="utf-8">
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
     </head>
-    <body style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; line-height: 1.5; color: #111827; background-color: #ffffff; margin: 0; padding: 0;">
+    <body style="font-family: 'Inter', Roboto, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; line-height: 1.5; color: #111827; background-color: #ffffff; margin: 0; padding: 0;">
      <div style="max-width: 640px; margin: 0 auto; padding: 24px;">
       <div style="padding: 8px 0 18px 0; border-bottom: 2px solid #111827;">
        <div style="font-size: 18px; font-weight: 700; letter-spacing: 0.2px;">Hashtag Web3</div>
@@ -83,6 +83,14 @@ function buildHtml(jobs: JobListing[]): string {
         <a href="${siteUrl}?${UTM}&utm_content=browse-all"
           style="display: inline-block; color: #111827; text-decoration: underline; font-weight: 600;">
          View all jobs at hashtagweb3.com →
+        </a>
+       </div>
+       <div style="margin-top: 22px; padding: 18px; background-color: #f8fafc; border-radius: 10px; text-align: center;">
+        <div style="font-size: 15px; font-weight: 700; color: #111827;">Get instant job alerts on Telegram</div>
+        <div style="font-size: 13px; color: #6b7280; margin: 6px 0 14px 0;">Join 60,000+ Web3 professionals getting roles first.</div>
+        <a href="https://t.me/web3hiring"
+          style="display: inline-block; background-color: #229ED9; color: #ffffff; text-decoration: none; font-weight: 700; font-size: 14px; padding: 12px 28px; border-radius: 8px;">
+         Subscribe on Telegram
         </a>
        </div>
        <div style="margin-top: 18px; font-size: 12px; color: #9ca3af; border-top: 1px solid #e5e7eb; padding-top: 12px;">
@@ -103,7 +111,7 @@ function buildText(jobs: JobListing[]): string {
     const salary = job.salary ? ` | ${job.salary}` : '';
     return `${job.title} - ${job.company}${salary}\n${job.url}`;
   }).join('\n\n');
-  return `HASHTAG WEB3 DAILY JOB ALERTS\n\n${jobs.length} new roles today:\n\n${lines}\n\n---\nView all jobs at: ${siteUrl}?${UTM}&utm_content=browse-all\nUnsubscribe: {{{RESEND_UNSUBSCRIBE_URL}}}`;
+  return `HASHTAG WEB3 DAILY JOB ALERTS\n\n${jobs.length} new roles today:\n\n${lines}\n\n---\nGet instant alerts on Telegram (60,000+ members): https://t.me/web3hiring\nView all jobs at: ${siteUrl}?${UTM}&utm_content=browse-all\nUnsubscribe: {{{RESEND_UNSUBSCRIBE_URL}}}`;
 }
 
 async function main() {
@@ -111,13 +119,12 @@ async function main() {
     console.error('Missing RESEND_API_KEY');
     process.exit(1);
   }
-  console.log(`Job broadcast (Resend) — ${isDryRun ? 'DRY RUN' : 'LIVE'}, last ${daysBack} day(s), limit ${jobLimit}`);
+  console.log(`Job broadcast (Resend) — ${isDryRun ? 'DRY RUN' : 'LIVE'}, 7-day pool, limit ${jobLimit}`);
 
   const allJobs = await getJobs();
   const now = new Date();
-  const threshold = new Date(now.getTime() - daysBack * 24 * 3600 * 1000);
-  // Backfill pool: up to 7 days back so thin days (weekends) still fill the
-  // email. Already-emailed job IDs are skipped, so nothing ever repeats.
+  // Selection pool: last 7 days, newest first, skipping already-emailed IDs,
+  // so thin days backfill from the week and nothing ever repeats.
   const poolStart = new Date(now.getTime() - 7 * 24 * 3600 * 1000);
   const sentIds = loadSentIds();
   const companyCounts = new Map<string, number>();
@@ -128,7 +135,6 @@ async function main() {
   const pool = (allJobs as any[])
     .filter((j) => new Date(j.date) >= poolStart && !sentIds.has(String(j.id)))
     .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
-  const freshCount = pool.filter((j) => new Date(j.date) >= threshold).length;
 
   for (const job of pool) {
     if (jobs.length >= jobLimit) break;
@@ -152,7 +158,7 @@ async function main() {
     console.log('No unsent jobs in pool — nothing to send.');
     return;
   }
-  console.log(`Selected ${jobs.length} jobs (${freshCount} from last ${daysBack} day(s), rest backfilled, 0 repeats).`);
+  console.log(`Selected ${jobs.length} jobs (newest unsent from 7-day pool, 0 repeats).`);
 
   const resend = new Resend(apiKey);
   const subject = `${jobs.length} new Web3 roles today — ${jobs[0].title} @ ${jobs[0].company}`;
