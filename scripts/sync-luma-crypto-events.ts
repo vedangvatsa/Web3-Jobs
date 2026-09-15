@@ -39,6 +39,18 @@ const SOURCE_FILES = [
   'content/events-cache.json',
 ];
 
+type LumaGeo = {
+  city?: string | null;
+  country?: string;
+  country_code?: string;
+  full_address?: string;
+  address?: string;
+  short_address?: string;
+  sublocality?: string;
+  region?: string;
+  city_state?: string;
+};
+
 type LumaApiEvent = {
   api_id: string;
   name: string;
@@ -48,12 +60,7 @@ type LumaApiEvent = {
   cover_url?: string | null;
   social_image_url?: string | null;
   location_type?: string;
-  geo_address_info?: {
-    city?: string;
-    country?: string;
-    full_address?: string;
-    address?: string;
-  };
+  geo_address_info?: LumaGeo;
   calendar_api_id?: string;
 };
 
@@ -134,17 +141,74 @@ function passesQuality(e: LumaApiEvent): boolean {
   return true;
 }
 
+const LUMA_CITY_ALIASES: Record<string, string> = {
+  'krung thep maha nakhon': 'Bangkok',
+  'krung thep': 'Bangkok',
+  'กรุงเทพมหานคร': 'Bangkok',
+  'hong kong island': 'Hong Kong',
+  kowloon: 'Hong Kong',
+};
+
+/** Luma often leaves geo.city null; locality lives in region, sublocality, or full_address. */
+function extractLumaCity(geo: LumaGeo): string {
+  if (geo.city?.trim()) return geo.city.trim();
+  const country = (geo.country || '').trim();
+  const countryCode = geo.country_code?.toUpperCase();
+  if (country === 'Hong Kong' || countryCode === 'HK') return 'Hong Kong';
+
+  for (const key of [geo.city_state?.split(',')[0], geo.sublocality, geo.region]) {
+    if (!key?.trim()) continue;
+    const normalized = key.trim().toLowerCase();
+    if (LUMA_CITY_ALIASES[normalized]) return LUMA_CITY_ALIASES[normalized];
+    if (normalized.includes('krung thep')) return 'Bangkok';
+  }
+
+  const full = geo.full_address || geo.address || '';
+  if (/krung thep maha nakhon|กรุงเทพ/i.test(full)) return 'Bangkok';
+  if (/,\s*central,\s*hong kong|\bwan chai\b|\btsim sha tsui\b|,\s*kowloon\b/i.test(full)) return 'Hong Kong';
+  if (country === 'Thailand' && /\bbangkok\b/i.test(full)) return 'Bangkok';
+
+  return '';
+}
+
+const LUMA_VIRTUAL_LOCATION: Record<string, string> = {
+  online: 'Online',
+  virtual: 'Online',
+  discord: 'Online (Discord)',
+  zoom: 'Online (Zoom)',
+  meet: 'Online (Google Meet)',
+};
+
+function lumaVirtualLocationLabel(e: LumaApiEvent): string | null {
+  const type = (e.location_type || '').toLowerCase();
+  return LUMA_VIRTUAL_LOCATION[type] ?? null;
+}
+
 function buildDescription(e: LumaApiEvent): string {
-  const city = e.geo_address_info?.city?.trim();
-  const country = e.geo_address_info?.country?.trim();
-  const where = city && country ? `${city}, ${country}` : city || country || 'TBA';
   const headline = e.name.split(/[|·]/)[0].trim();
+  const virtual = lumaVirtualLocationLabel(e);
+  if (virtual) {
+    return `${headline} — Web3 community event, ${virtual}.`;
+  }
+  const geo = e.geo_address_info || {};
+  const city = extractLumaCity(geo);
+  const country = (geo.country || '').trim();
+  const where =
+    city && country && city.toLowerCase() === country.toLowerCase()
+      ? city
+      : city && country
+        ? `${city}, ${country}`
+        : city || country || 'TBA';
   return `${headline} — Web3 community event in ${where}.`;
 }
 
 function buildLocation(e: LumaApiEvent): { city: string; country: string; location: string } {
+  const virtual = lumaVirtualLocationLabel(e);
+  if (virtual) {
+    return { city: '', country: '', location: virtual };
+  }
   const geo = e.geo_address_info || {};
-  const city = (geo.city || '').trim();
+  const city = extractLumaCity(geo);
   const country = (geo.country || '').trim();
   const venue = (geo.full_address || geo.address || '').trim();
   const location =
@@ -155,7 +219,7 @@ function buildLocation(e: LumaApiEvent): { city: string; country: string; locati
 function inferSideEvents(e: LumaApiEvent): string[] | undefined {
   const text = e.name.toLowerCase();
   const start = e.start_at.slice(0, 10);
-  const city = (e.geo_address_info?.city || '').toLowerCase();
+  const city = extractLumaCity(e.geo_address_info || {}).toLowerCase();
   const side: string[] = [];
   if (/kbw|korea blockchain week/i.test(text) || (city.includes('seoul') && start >= '2026-09-21' && start <= '2026-09-28')) {
     side.push('kbw');
@@ -315,7 +379,7 @@ async function main() {
       id,
       slug,
       name: e.name.trim(),
-      description: prev?.description || buildDescription(e),
+      description: buildDescription(e),
       startDate: e.start_at,
       endDate: e.end_at || e.start_at,
       city: city || undefined,
