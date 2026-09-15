@@ -139,7 +139,7 @@ export function formatEventLocation(
   return deduped || preferred || 'Virtual / TBA';
 }
 
-export function getEventType(event: Web3Event): EventType {
+export function getEventType(event: Pick<Web3Event, 'name' | 'description' | 'location'>): EventType {
   const text = `${event.name} ${event.description || ''}`.toLowerCase();
   const loc = (event.location || '').toLowerCase();
 
@@ -181,7 +181,7 @@ export function getEventType(event: Web3Event): EventType {
   return 'meetup';
 }
 
-export function getEventFormat(event: Web3Event): EventFormat {
+export function getEventFormat(event: Pick<Web3Event, 'name' | 'location'>): EventFormat {
   const loc = (event.location || '').toLowerCase();
   const name = event.name.toLowerCase();
   if (
