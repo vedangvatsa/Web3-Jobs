@@ -10,7 +10,6 @@ export function FooterContent() {
   { href:"/resume-builder", label:"Resume Builder" },
   { href:"/digital-nomad-visas", label:"Digital Nomad Visas" },
    { href:"/remote-work-checklist", label:"Remote Checklist" },
-   { href:"https://github.com/vedangvatsa/Web3-Jobs", label:"Source & Agent Config" },
    ];
   const popularArticles = [
    { href: '/how-to-start-a-web3-career', label: 'How to Start a Career in Web3' },

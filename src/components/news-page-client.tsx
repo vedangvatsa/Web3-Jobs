@@ -42,21 +42,27 @@ export function NewsPageClient({ initialNewsItems }: { initialNewsItems: NewsIte
             className="group block h-full"
           >
             <Card className="flex h-full flex-col border-border/70 bg-card p-4 shadow-none transition-colors hover:border-foreground/25">
-              <div className="mb-2 flex items-center justify-between gap-2">
-                <Badge
-                  variant={
-                    item.source === 'Decrypt'
-                      ? 'destructive'
-                      : item.source === 'Cointelegraph'
-                        ? 'secondary'
-                        : item.source === 'Coindesk'
-                          ? 'default'
-                          : 'outline'
-                  }
-                  className="text-[10px] font-semibold uppercase"
-                >
-                  {item.source}
-                </Badge>
+              <div
+                className={`mb-2 flex items-center gap-2 ${
+                  item.source === 'Hashtag Web3' ? 'justify-end' : 'justify-between'
+                }`}
+              >
+                {item.source !== 'Hashtag Web3' && (
+                  <Badge
+                    variant={
+                      item.source === 'Decrypt'
+                        ? 'destructive'
+                        : item.source === 'Cointelegraph'
+                          ? 'secondary'
+                          : item.source === 'Coindesk'
+                            ? 'default'
+                            : 'outline'
+                    }
+                    className="text-[10px] font-semibold uppercase"
+                  >
+                    {item.source}
+                  </Badge>
+                )}
                 <span className="text-xs text-muted-foreground">
                   {new Date(item.pubDate).toLocaleDateString('en-US', {
                     month: 'short',
