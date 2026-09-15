@@ -65,7 +65,7 @@ const BLOCKED_EVENT_IDS = new Set([
 const SPAMMY = /earn (crypto|money|income)|passive income|get rich|financial freedom|trading signal|forex|scam|live zoom|webinar|100x|millionaire|double your|guaranteed (profit|return)/i;
 const ONLINE = /\bonline\b|\bvirtual\b/i;
 const AMA = /\bAMA\b|ask me anything/i;
-const NON_WEB3_NAME = /bodywork|breakup|over your ex|keychains|acting workshop|finissage|culture club|apéro|data jam|electronics and computing|ssis|film festival|wellness & networking|charming|bestie|wind take you|reform room|outdoor workout|pilates|for kids|for families|children|toddler|ripple making|pottery|baking|cooking class/i;
+const NON_WEB3_NAME = /bodywork|breakup|over your ex|keychains|acting workshop|finissage|culture club|apéro|data jam|electronics and computing|ssis|film festival|wellness & networking|charming|bestie|wind take you|reform room|outdoor workout|pilates|for kids|for families|children|toddler|ripple making|pottery|baking|cooking class|impact-|charcha|viksit bharat|mental health|climate action|career crisis|ibm storage|user group event|badminton|international generalist day/i;
 const WEB3_VOCAB = /crypto|bitcoin|btc\b|ethereum|\beth\b|ethglobal|ethcc|ethconf|ethrome|ethtaipei|ethtokyo|eth ?belgrade|blockchain|web ?3|defi|nfts?|solana|dao|token|altcoin|mining|stablecoin|lightning|hacker ?house|builder ?house|hackathon|consensus|token2049|xrp|ripple|zk\b|zksync|zero.?knowledge|superteam|pragma|hyperliquid|onchain|on-chain|lido|polygon|arbitrum|optimism|base chain|coinbase|binance|airdrop|wallet|dapp|smart contract|layer ?2|metaverse|gamefi|staking|yield|digital asset|decentralized|cardano|cosmos|polkadot|monad|aptos|\bsui\b|chainlink|blockcon|founders? dinner|vip dinner|afterparty|rooftop|networking|mixer|side event|coworking|co-working|launchpad|happy hour|lounge|meetup|devcon|breakpoint/i;
 const ROOT_ROUTE_SLUGS = new Set([
   'jobs', 'blog', 'glossary', 'companies', 'community', 'learn', 'news',
@@ -151,9 +151,10 @@ async function assignUniqueEventSlugs(events: Web3Event[]): Promise<Web3Event[]>
   const reserved = await getRootContentSlugs();
   return events.map((event) => {
     // Prefer explicit curated slugs so premier pages keep stable, human URLs.
-    const curatedSlug = event.source === 'curated-premier'
-      ? event.slug?.toLowerCase().trim()
-      : undefined;
+    const curatedSlug =
+      event.source === 'curated-premier' || event.source === 'luma-crypto'
+        ? event.slug?.toLowerCase().trim()
+        : undefined;
     const baseSlug = curatedSlug || getEventBaseSlug(event);
     let slug = baseSlug;
     let suffix = 2;
@@ -164,7 +165,7 @@ async function assignUniqueEventSlugs(events: Web3Event[]): Promise<Web3Event[]>
 }
 
 function isQualityEvent(e: Web3Event): boolean {
-  if (e.source === 'curated-premier') return true;
+  if (e.source === 'curated-premier' || e.source === 'luma-crypto') return true;
   // ConferenceIndex listings do not provide a native organizer destination.
   if (e.source === 'conferenceindex') return false;
   const text = `${e.name} ${e.description ?? ''}`;
@@ -268,6 +269,9 @@ function linkSideEventParents(event: Web3Event): Web3Event {
 
   if (event.token2049SideEvent) sideEventFor.add('token2049');
   if (event.id.startsWith('kbw-luma-') || event.id.startsWith('kbw-')) sideEventFor.add('kbw');
+  if (event.id.startsWith('luma-crypto-') && event.sideEventFor?.length) {
+    for (const parent of event.sideEventFor) sideEventFor.add(parent);
+  }
   if (event.id.startsWith('side-ibw2026-')) {
     if (event.startDate < '2026-11-03') sideEventFor.add('ibw');
     else if (event.startDate < '2026-11-07') sideEventFor.add('devcon');
@@ -284,6 +288,7 @@ async function loadEvents(): Promise<Web3Event[]> {
     const kbwLumaPath = path.join(cwd, 'content', 'kbw-luma-events.json');
     const ibwSideEventsPath = path.join(cwd, 'content', 'ibw-side-events.json');
     const indiaLumaEventsPath = path.join(cwd, 'content', 'india-luma-events.json');
+    const lumaCryptoEventsPath = path.join(cwd, 'content', 'luma-crypto-events.json');
      const cachePath = path.join(cwd, 'content', 'events-cache.json');
      const eventImageOverrides = loadEventImageOverrides(cwd);
 
@@ -291,6 +296,7 @@ async function loadEvents(): Promise<Web3Event[]> {
     let kbwLumaEvents: Web3Event[] = [];
     let ibwSideEvents: Web3Event[] = [];
     let indiaLumaEvents: Web3Event[] = [];
+    let lumaCryptoEvents: Web3Event[] = [];
     let cachedEvents: Web3Event[] = [];
 
     if (fs.existsSync(curatedPath)) {
@@ -320,6 +326,14 @@ async function loadEvents(): Promise<Web3Event[]> {
       }
     }
 
+    if (fs.existsSync(lumaCryptoEventsPath)) {
+      try {
+        lumaCryptoEvents = JSON.parse(fs.readFileSync(lumaCryptoEventsPath, 'utf8'));
+      } catch (err) {
+        console.error('Failed to read luma-crypto-events.json:', err);
+      }
+    }
+
     if (fs.existsSync(cachePath)) {
       try {
         cachedEvents = JSON.parse(fs.readFileSync(cachePath, 'utf8'));
@@ -329,7 +343,7 @@ async function loadEvents(): Promise<Web3Event[]> {
     }
 
     // Combine all events - curated premier takes precedence
-    const rawAll = [...curatedEvents, ...kbwLumaEvents, ...ibwSideEvents, ...indiaLumaEvents, ...cachedEvents].map(linkSideEventParents);
+    const rawAll = [...curatedEvents, ...kbwLumaEvents, ...ibwSideEvents, ...indiaLumaEvents, ...lumaCryptoEvents, ...cachedEvents].map(linkSideEventParents);
 
     // Clean & normalize
     const seenTitles = new Set<string>();

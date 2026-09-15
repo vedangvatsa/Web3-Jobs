@@ -30,6 +30,7 @@
     "refresh:news": "npx tsx scripts/refresh-news-cache.ts",
     "test:news-cache": "npx tsx scripts/test-news-cache.ts",
     "enrich:luma-venues": "npx tsx scripts/enrich-luma-venues.ts",
+    "sync:luma-crypto": "npx tsx scripts/sync-luma-crypto-events.ts",
     "test:luma-venues": "npx tsx scripts/enrich-luma-venues.test.ts",
     "check:collisions": "npx tsx scripts/check-slug-collisions.ts",
     "shard:job-descriptions": "npx tsx scripts/shard-job-descriptions.ts",
