@@ -186,6 +186,38 @@ function includesKeyword(text: string, keywords: string[]): boolean {
   });
 }
 
+/** Daily roundup stubs (e.g. Cointelegraph "what happened in crypto today") are not real stories. */
+const EXCLUDED_NEWS_TITLE_PATTERNS = [
+  /what\s+happened\s+in\s+crypto\s+today/i,
+  /crypto\s+news\s+recap/i,
+  /daily\s+crypto\s+roundup/i,
+  /\bprice\s+prediction\b/i,
+];
+
+const EXCLUDED_NEWS_LINK_PATTERNS = [
+  /cointelegraph\.com\/news\/what-happened-in-crypto-today/i,
+  /blockchain\.news\/news\/\d+-price-prediction-/i,
+];
+
+function normalizeNewsMatchText(text: string): string {
+  return text
+    .normalize('NFKD')
+    .replace(/[\u2018\u2019`´]/g, "'")
+    .toLowerCase();
+}
+
+export function isExcludedNewsItem(item: Pick<NewsItem, 'title' | 'link' | 'contentSnippet'>): boolean {
+  const title = normalizeNewsMatchText(item.title || '');
+  const snippet = normalizeNewsMatchText(item.contentSnippet || '');
+  const link = (item.link || '').toLowerCase();
+
+  if (EXCLUDED_NEWS_LINK_PATTERNS.some((pattern) => pattern.test(link))) return true;
+  if (EXCLUDED_NEWS_TITLE_PATTERNS.some((pattern) => pattern.test(title))) return true;
+  if (/need to know what happened in crypto today/.test(snippet)) return true;
+
+  return false;
+}
+
 function isWeb3RelevantNews(title: string, snippet: string): boolean {
   const text = `${title} ${snippet}`.toLowerCase();
   
@@ -234,6 +266,16 @@ function normalizeNewsItems(feed: RssFeed, source: string): NewsItem[] {
       : snippet;
 
     if (!isWeb3RelevantNews(item.title, truncated)) continue;
+
+    const draft: NewsItem = {
+      title: item.title,
+      link: item.link,
+      pubDate: item.pubDate,
+      creator: item.creator || item.author || source,
+      contentSnippet: truncated,
+      source,
+    };
+    if (isExcludedNewsItem(draft)) continue;
 
     let creator = item.creator || item.author || source;
     if (typeof creator === 'string') {
@@ -314,7 +356,7 @@ export function readNewsSnapshot(snapshotPath = CACHE_PATH): NewsItem[] {
     };
     if (typeof snapshot.generatedAt !== 'string' || Number.isNaN(Date.parse(snapshot.generatedAt))) return [];
     if (!Array.isArray(snapshot.items) || !snapshot.items.every(isNewsItem)) return [];
-    return snapshot.items;
+    return snapshot.items.filter((item) => !isExcludedNewsItem(item));
   } catch {
     return [];
   }

@@ -5,8 +5,10 @@ import { buildUniqueJobMetaDescription, resolveJobSlug } from '@/lib/job-guides'
 import { getTerm } from '@/lib/glossary';
 import { getResourceByCanonicalSlug } from '@/lib/pseo';
 import { buildJobOgImageUrl, resolveEventOgImageUrl, eventOgImageMimeType, SITE_URL } from '@/lib/job-og';
+import { buildEventMetaDescription } from '@/lib/event-editorial-facts';
+import { hasCuratedEventGuide } from '@/lib/event-page-quality';
 import { getEventBySlug } from '@/lib/events-server';
-import { getEventSlug, formatEventDate } from '@/lib/events';
+import { getEventSlug } from '@/lib/events';
 import { stripSocialPathSuffix } from '@/lib/social-share';
 
 export const runtime = 'nodejs';
@@ -254,9 +256,8 @@ async function resolveMetadata(path: string): Promise<PageMeta> {
       const event = await getEventBySlug(slug);
       if (event) {
         const eventSlug = getEventSlug(event);
-        const formattedDate = formatEventDate(event.startDate, event.endDate);
         const title = `${event.name} - Dates, Venue & Registration`;
-        const description = `${event.name} scheduled for ${formattedDate} in ${event.location}. Explore event agenda, venue guide, and official registration links.`;
+        const description = buildEventMetaDescription(event, hasCuratedEventGuide(event));
         return {
           title,
           description,

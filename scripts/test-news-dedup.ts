@@ -1,6 +1,6 @@
 import assert from 'node:assert/strict';
 import type { NewsItem } from '../src/types';
-import { deduplicateNewsItems, isSameNewsStory } from '../src/lib/news';
+import { deduplicateNewsItems, isExcludedNewsItem, isSameNewsStory } from '../src/lib/news';
 import { sameEvent } from '../src/lib/news-story-dedup';
 
 function item(partial: Partial<NewsItem> & Pick<NewsItem, 'title' | 'link'>): NewsItem {
@@ -63,6 +63,22 @@ function main() {
   assert.ok(merged.some((row) => row.link === '/nasdaq-kraken'));
   assert.ok(merged.some((row) => row.link === coin.link));
   assert.ok(merged.some((row) => row.link === pepe.link));
+
+  const cointelegraphRoundup = item({
+    title: 'Here’s what happened in crypto today',
+    link: 'https://cointelegraph.com/news/what-happened-in-crypto-today',
+    source: 'Cointelegraph',
+    contentSnippet: 'Need to know what happened in crypto today? Here is the latest news on daily trends...',
+  });
+  assert.equal(isExcludedNewsItem(cointelegraphRoundup), true);
+
+  const pricePrediction = item({
+    title: 'BABA Price Prediction: Bears Own the Chart, But a $113 Snap-Back Is Loading',
+    link: 'https://blockchain.news/news/20260910-price-prediction-baba-bears-own-the-chart-but-a',
+    source: 'Blockchain.News',
+    contentSnippet: 'BABA is pinned at $109.22 on the Bollinger lower band.',
+  });
+  assert.equal(isExcludedNewsItem(pricePrediction), true);
 
   console.log('News dedup tests passed.');
 }

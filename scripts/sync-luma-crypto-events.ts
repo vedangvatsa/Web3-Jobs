@@ -379,7 +379,7 @@ async function main() {
       id,
       slug,
       name: e.name.trim(),
-      description: buildDescription(e),
+      description: prev?.description || buildDescription(e),
       startDate: e.start_at,
       endDate: e.end_at || e.start_at,
       city: city || undefined,

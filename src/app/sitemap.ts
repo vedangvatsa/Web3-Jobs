@@ -8,7 +8,6 @@ import { getCategories, getLessons } from '@/lib/learn';
 import { getAllJobsWithSlugs, hasSubstantialJobContent } from '@/lib/job-guides';
 import { getEvents } from '@/lib/events-server';
 import { getEventSlug } from '@/lib/events';
-import { hasIndexableEventPage } from '@/lib/event-page-quality';
 
 const siteUrl = 'https://hashtagweb3.com';
 
@@ -378,7 +377,6 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const today = new Date().toISOString().slice(0, 10);
   const eventRoutes: MetadataRoute.Sitemap = eventsList
     .filter((event) => (event.endDate || event.startDate || '') >= today)
-    .filter((event) => hasIndexableEventPage(event))
     .map((event) => {
       const start = new Date(event.startDate);
       return {

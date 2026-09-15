@@ -3,6 +3,7 @@ import path from 'path';
 import type { Web3Event, EventEditorialArticle } from './events';
 import { EVENT_GUIDES } from './event-guides';
 import { getEventEditorialGuide } from './events';
+import { sanitizeEventEditorial } from './event-editorial-facts';
 
 // Server-only store for per-event guides.
 // Precedence: hand-curated EVENT_GUIDES (by slug) -> generated per-event guide (by id) -> legacy fallback.
@@ -26,10 +27,10 @@ function loadGenerated(): Record<string, EventEditorialArticle> {
 
 export async function resolveEventGuide(event: Web3Event): Promise<EventEditorialArticle> {
   const slug = (event.slug || '').toLowerCase().trim();
-  if (slug && EVENT_GUIDES[slug]) return EVENT_GUIDES[slug];
+  if (slug && EVENT_GUIDES[slug]) return sanitizeEventEditorial(EVENT_GUIDES[slug]);
 
   const generated = loadGenerated();
-  if (event.id && generated[event.id]) return generated[event.id];
+  if (event.id && generated[event.id]) return sanitizeEventEditorial(generated[event.id]);
 
-  return getEventEditorialGuide(event);
+  return sanitizeEventEditorial(getEventEditorialGuide(event));
 }

@@ -3,10 +3,9 @@ import type { EventEditorialArticle } from '@/lib/events';
 type EventGuideContentProps = {
   editorial: EventEditorialArticle;
   speakerSummary?: string;
-  eventUrl?: string;
 };
 
-export function EventGuideContent({ editorial, speakerSummary, eventUrl }: EventGuideContentProps) {
+export function EventGuideContent({ editorial, speakerSummary }: EventGuideContentProps) {
   return (
     <section className="mt-8 max-w-none space-y-10 font-sans text-base text-muted-foreground">
       <p className="text-base leading-relaxed">{editorial.summaryLead}</p>
@@ -28,15 +27,6 @@ export function EventGuideContent({ editorial, speakerSummary, eventUrl }: Event
         <section className="space-y-4">
           <h2 className="text-xl font-bold tracking-tight text-foreground sm:text-2xl">Speakers &amp; Program</h2>
           <p className="text-base leading-relaxed">{speakerSummary}</p>
-          {eventUrl && (
-            <p className="text-base leading-relaxed">
-              Check the{' '}
-              <a href={eventUrl} target="_blank" rel="noopener noreferrer nofollow" className="text-primary underline underline-offset-4">
-                official event page
-              </a>{' '}
-              for session times and agenda updates.
-            </p>
-          )}
         </section>
       )}
     </section>
