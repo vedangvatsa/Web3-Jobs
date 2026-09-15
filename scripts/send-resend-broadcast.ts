@@ -12,6 +12,7 @@
  * Exits nonzero on ANY failure (no silent green runs).
  */
 
+import fs from 'fs';
 import { Resend } from 'resend';
 import { getJobs } from '@/lib/jobs';
 import type { JobListing } from '@/lib/email';
@@ -23,12 +24,31 @@ const isDryRun = args.includes('--dry-run');
 const daysIdx = args.indexOf('--days');
 const daysBack = daysIdx > -1 ? Math.max(1, Number(args[daysIdx + 1]) || 1) : 1;
 const limitIdx = args.indexOf('--limit');
-const jobLimit = limitIdx > -1 ? Math.max(1, Number(args[limitIdx + 1]) || 15) : 15;
+const jobLimit = limitIdx > -1 ? Math.max(1, Number(args[limitIdx + 1]) || 10) : 10;
 
 const apiKey = process.env.RESEND_API_KEY;
 const segmentId = process.env.RESEND_SEGMENT_ID || GENERAL_SEGMENT_ID;
 const from = process.env.EMAIL_FROM || 'Alex <alex@hi.hashtagweb3.com>';
 const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://hashtagweb3.com';
+const UTM = 'utm_source=newsletter&utm_medium=email&utm_campaign=daily-job-alerts';
+const STATE_FILE = new URL('../.resend-broadcast-sent.json', import.meta.url).pathname;
+
+function jobUrl(id: string): string {
+  return `${siteUrl}/jobs/${id}?${UTM}`;
+}
+
+function loadSentIds(): Set<string> {
+  try {
+    const arr = JSON.parse(fs.readFileSync(STATE_FILE, 'utf8'));
+    return new Set(Array.isArray(arr) ? arr : []);
+  } catch {
+    return new Set();
+  }
+}
+
+function saveSentIds(set: Set<string>) {
+  fs.writeFileSync(STATE_FILE, JSON.stringify([...set].slice(-3000)));
+}
 
 function buildHtml(jobs: JobListing[]): string {
   const jobsHTML = jobs.map((job) => `
@@ -60,9 +80,9 @@ function buildHtml(jobs: JobListing[]): string {
        <div style="font-size: 13px; color: #6b7280; margin-bottom: 14px;">Handpicked from the latest listings on Hashtag Web3.</div>
        ${jobsHTML}
        <div style="margin-top: 18px;">
-        <a href="${siteUrl}/jobs"
+        <a href="${siteUrl}?${UTM}&utm_content=browse-all"
           style="display: inline-block; color: #111827; text-decoration: underline; font-weight: 600;">
-         Browse all jobs →
+         View all jobs at hashtagweb3.com →
         </a>
        </div>
        <div style="margin-top: 18px; font-size: 12px; color: #9ca3af; border-top: 1px solid #e5e7eb; padding-top: 12px;">
@@ -83,7 +103,7 @@ function buildText(jobs: JobListing[]): string {
     const salary = job.salary ? ` | ${job.salary}` : '';
     return `${job.title} - ${job.company}${salary}\n${job.url}`;
   }).join('\n\n');
-  return `HASHTAG WEB3 DAILY JOB ALERTS\n\n${jobs.length} new roles today:\n\n${lines}\n\n---\nView all jobs at: ${siteUrl}/jobs\nUnsubscribe: {{{RESEND_UNSUBSCRIBE_URL}}}`;
+  return `HASHTAG WEB3 DAILY JOB ALERTS\n\n${jobs.length} new roles today:\n\n${lines}\n\n---\nView all jobs at: ${siteUrl}?${UTM}&utm_content=browse-all\nUnsubscribe: {{{RESEND_UNSUBSCRIBE_URL}}}`;
 }
 
 async function main() {
@@ -96,13 +116,21 @@ async function main() {
   const allJobs = await getJobs();
   const now = new Date();
   const threshold = new Date(now.getTime() - daysBack * 24 * 3600 * 1000);
+  // Backfill pool: up to 7 days back so thin days (weekends) still fill the
+  // email. Already-emailed job IDs are skipped, so nothing ever repeats.
+  const poolStart = new Date(now.getTime() - 7 * 24 * 3600 * 1000);
+  const sentIds = loadSentIds();
   const companyCounts = new Map<string, number>();
   const jobs: JobListing[] = [];
+  const jobIds: string[] = [];
   const MAX_PER_COMPANY = 2;
 
-  for (const job of (allJobs as any[])
-    .filter((j) => new Date(j.date) >= threshold)
-    .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime())) {
+  const pool = (allJobs as any[])
+    .filter((j) => new Date(j.date) >= poolStart && !sentIds.has(String(j.id)))
+    .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+  const freshCount = pool.filter((j) => new Date(j.date) >= threshold).length;
+
+  for (const job of pool) {
     if (jobs.length >= jobLimit) break;
     const company = job.company?.name || job.company || 'Unknown Company';
     const key = company.toLowerCase();
@@ -114,16 +142,17 @@ async function main() {
       company,
       location: job.location || 'Remote',
       salary: job.salary,
-      url: job.link || job.url || `${siteUrl}/jobs/${job.id}`,
+      url: jobUrl(String(job.id)),
       tags: job.tags?.slice(0, 5) || [],
     });
+    jobIds.push(String(job.id));
   }
 
   if (!jobs.length) {
-    console.log('No new jobs in window — nothing to send.');
+    console.log('No unsent jobs in pool — nothing to send.');
     return;
   }
-  console.log(`Selected ${jobs.length} jobs.`);
+  console.log(`Selected ${jobs.length} jobs (${freshCount} from last ${daysBack} day(s), rest backfilled, 0 repeats).`);
 
   const resend = new Resend(apiKey);
   const subject = `${jobs.length} new Web3 roles today — ${jobs[0].title} @ ${jobs[0].company}`;
@@ -170,6 +199,8 @@ async function main() {
     process.exit(1);
   }
   console.log(`Broadcast sent: ${(sent.data as any)?.id} (${jobs.length} jobs).`);
+  for (const id of jobIds) sentIds.add(id);
+  saveSentIds(sentIds);
 }
 
 main().catch((e) => {
