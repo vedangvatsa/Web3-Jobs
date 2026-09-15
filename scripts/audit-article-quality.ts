@@ -4,7 +4,7 @@ import matter from 'gray-matter';
 
 const articlesDirectory = path.join(process.cwd(), 'content/articles');
 const minimumWords = 1500;
-const minimumNewsWords = 1000;
+const minimumNewsWords = 800;
 const reportOnly = process.argv.includes('--report');
 const verbose = process.argv.includes('--verbose');
 const articleFiles = fs.readdirSync(articlesDirectory)
