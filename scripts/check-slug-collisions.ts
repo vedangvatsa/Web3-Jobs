@@ -8,12 +8,37 @@ import { getEvents } from '../src/lib/events-server';
 import { getEventSlug } from '../src/lib/events';
 import { getAllJobsWithSlugs, getLegacyJobSlugs } from '../src/lib/job-guides';
 
-// Static top-level routes built into src/app
+// Static top-level routes built into src/app (win over src/app/[slug] for the same path)
 const STATIC_APP_ROUTES = [
   'jobs', 'blog', 'glossary', 'companies', 'community', 'learn', 'news',
   'developers', 'api-docs', 'docs', 'auth', 'api-policy', 'resources',
   'events', 'contact', 'privacy', 'ask', 'mcp', 'developer', 'dev'
 ];
+
+const STATIC_RESERVED = new Set(STATIC_APP_ROUTES.map((r) => r.toLowerCase()));
+
+/**
+ * Apply the same precedence as src/app/[slug]/page.tsx so we only fail on
+ * ambiguous collisions, not shadowed legacy/job slugs.
+ */
+function entriesAfterRouting(slug: string, entries: Array<{ type: string; title: string }>) {
+  let out = [...entries];
+
+  if (STATIC_RESERVED.has(slug)) {
+    out = out.filter((e) => e.type !== 'Job Post' && e.type !== 'Legacy Job Alias');
+  }
+
+  if (out.some((e) => e.type === 'Event')) {
+    out = out.filter((e) => e.type !== 'Legacy Job Alias');
+  }
+
+  // Job detail is resolved before company pages and glossary terms at the root slug.
+  if (out.some((e) => e.type === 'Job Post')) {
+    out = out.filter((e) => e.type !== 'Glossary Term' && e.type !== 'Company Page');
+  }
+
+  return out;
+}
 
 async function checkSlugCollisions() {
   console.log('🔍 Auditing root slug collisions across all content types & app routes...\n');
@@ -52,13 +77,16 @@ async function checkSlugCollisions() {
 
   let collisionsFound = 0;
   for (const [slug, entries] of slugMap.entries()) {
-    if (entries.length > 1) {
-      // Ignore identical entry duplicates of the exact same type if any
-      const types = new Set(entries.map(e => e.type));
+    const effective = entriesAfterRouting(slug, entries);
+    if (effective.length > 1) {
+      const types = new Set(effective.map((e) => e.type));
       if (types.size > 1) {
         collisionsFound++;
         console.error(`❌ SLUG COLLISION [/${slug}]:`);
-        entries.forEach(e => console.error(`   - (${e.type}) ${e.title}`));
+        effective.forEach((e) => console.error(`   - (${e.type}) ${e.title}`));
+        if (effective.length < entries.length) {
+          console.error('   (shadowed entries omitted per [slug] routing precedence)');
+        }
         console.error('');
       }
     }

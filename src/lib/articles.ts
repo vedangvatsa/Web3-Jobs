@@ -12,6 +12,8 @@ import html from 'remark-html';
 import sanitizeHtml from 'sanitize-html';
 
 const contentArticlesDirectory = path.join(process.cwd(), 'content/articles');
+/** Editorial/agent docs in content/articles — not published articles. */
+const NON_ARTICLE_MARKDOWN = new Set(['AGENTS.md', 'README.md']);
 type ArticleMetadata = Omit<Article, 'content' | 'rawContent'>;
 
 // Article files are immutable within a deployed server/build process. Cache the
@@ -27,7 +29,7 @@ function readArticlesFromDirectory(directory: string): ArticleMetadata[] {
  const fileNames = fs.readdirSync(directory);
  return fileNames
   .map((fileName) => {
-   if (!fileName.endsWith('.md')) {
+   if (!fileName.endsWith('.md') || NON_ARTICLE_MARKDOWN.has(fileName)) {
     return null;
    }
    const slug = fileName.replace(/\.md$/, '');
