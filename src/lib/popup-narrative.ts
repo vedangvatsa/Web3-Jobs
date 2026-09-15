@@ -4,6 +4,7 @@ import {
   formatPopupParagraph,
   formatPopupText,
   isPopupScrapeNoise,
+  splitPopupSentences,
 } from '@/lib/popup-text';
 
 export const POPUP_NARRATIVE_MIN_WORDS = 500;
@@ -22,7 +23,7 @@ function asSentence(text: string): string {
 function splitIntoParagraphs(paragraphs: string[], targetWords = 120): string[] {
   const out: string[] = [];
   for (const block of paragraphs) {
-    const sentences = block.match(/[^.!?]+[.!?]+/g)?.map((s) => formatPopupParagraph(s)) ?? [block];
+    const sentences = splitPopupSentences(block);
     let buf: string[] = [];
     let n = 0;
     for (const s of sentences) {

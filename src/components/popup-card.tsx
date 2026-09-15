@@ -3,14 +3,13 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
-import { Badge } from '@/components/ui/badge';
 import { formatPopupField } from '@/lib/popup-narrative';
-import { POPUP_TYPE_LABELS } from '@/lib/popups';
+import { getPopupPath } from '@/lib/popup-seo';
 import type { Popup } from '@/types/popup';
 
 export function PopupCard({ popup }: { popup: Popup }) {
   return (
-    <Link href={`/${popup.slug}`} className="block h-full">
+    <Link href={getPopupPath(popup.slug)} className="block h-full">
       <Card className="flex h-full flex-col border-border/70 bg-card shadow-none transition-colors hover:border-foreground/25">
         <CardHeader className="flex flex-row items-start gap-3 px-4 pb-2 pt-4">
           <div className="relative flex h-11 w-11 shrink-0 items-center justify-center overflow-hidden rounded-md border border-border/60 bg-muted/40">
@@ -42,16 +41,6 @@ export function PopupCard({ popup }: { popup: Popup }) {
           <p className="line-clamp-3 text-xs leading-relaxed text-muted-foreground">
             {formatPopupField(popup.summary)}
           </p>
-          <div className="mt-3 flex flex-wrap gap-1.5">
-            <Badge variant="outline" className="text-[10px] font-normal">
-              {POPUP_TYPE_LABELS[popup.type]}
-            </Badge>
-            {popup.themes.slice(0, 2).map((theme) => (
-              <Badge key={theme} variant="secondary" className="text-[10px] font-normal">
-                {theme}
-              </Badge>
-            ))}
-          </div>
         </CardContent>
       </Card>
     </Link>

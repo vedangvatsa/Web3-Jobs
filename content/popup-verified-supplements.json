@@ -1,0 +1,512 @@
+{
+  "cc": {
+    "body": [
+      "Cafe Cursor is a series of popup cafe takeovers where AI builders and indie hackers gather to work.",
+      "Each event turns a local cafe into a temporary coworking space.",
+      "Following initial events in San Francisco and New York, the project grew through community ambassadors who host local editions.",
+      "Approved hosts receive support to run their own popups.",
+      "The network now spans more than 80 countries with hundreds of events run by local ambassadors.",
+      "Ambassadors receive playbooks to reserve cafes, coordinate RSVPs on Luma, and welcome local AI builders for a few hours of coworking.",
+      "The format stays intentionally lightweight: no monthlong visas, just repeatable city-level events that scale through volunteers."
+    ],
+    "history": [
+      "Sep 2025 - First Cafe Cursor popup in San Francisco",
+      "Oct 2025 - Second event in New York",
+      "Nov 2025 - Open call for community hosts worldwide",
+      "Jan 2026 - Expansion across Europe, Asia, Africa, and Latin America",
+      "Ongoing - Worldwide series with 600+ events hosted to date"
+    ],
+    "durationNotes": [
+      "Individual Cafe Cursor popups are short-format gatherings rather than monthlong villages.",
+      "Hosts run local editions on their own schedule through the ambassador program."
+    ],
+    "amenities": [
+      "Temporary coworking layout inside partner cafes",
+      "Cursor community hosts and ambassador support",
+      "Local event promotion through Luma listings",
+      "Coffee-and-code format aimed at AI builders",
+      "Short sessions suitable for evening or weekend builds"
+    ],
+    "overview": [
+      "Cafe Cursor reports 250+ cities, 80+ countries, and 600+ hosted events across its ambassador network.",
+      "Hosts apply through the official Cursor community form to receive playbooks and credits.",
+      "Event listings and host applications for Cafe Cursor are centralized on luma.com/cursorcommunity."
+    ],
+    "pricing": [
+      "Most local Cafe Cursor editions are free or low-cost community gatherings",
+      "Host support may include Cursor credits depending on the edition"
+    ]
+  },
+  "morazan": {
+    "body": [
+      "Ciudad Morazán is a pioneering 24-hectare charter city near Choloma, Honduras.",
+      "Founded by Massimo Mazzone, it provides affordable housing, industrial workspaces, and reliable infrastructure.",
+      "The community is focused on local blue-collar workers and families rather than expat-only coliving.",
+      "Private security and customer-focused governance are core parts of the operating model.",
+      "Renters and industrial tenants apply through Ciudad Morazán's published residence and business channels on morazan.city.",
+      "The charter-city model pairs private development with written rules so operators know how permits, security, and services work before they move in.",
+      "International observers watch Morazán as a test of whether ZEDE-style governance can deliver safer housing for working families in northern Honduras."
+    ],
+    "history": [
+      "2013 - Honduras amends its constitution to enable ZEDE-style economic zones",
+      "2019 - CAMP officially approves the Ciudad Morazán project",
+      "2020 - Developers draft Morazán's first laws and governance framework",
+      "2022 - Honduran Congress repeals ZEDE laws, triggering international arbitration",
+      "2025 - National elections shape the future of ZEDE protections"
+    ],
+    "locationDetails": [
+      "Ciudad Morazán sits near Choloma in northern Honduras.",
+      "The site combines residential blocks with industrial workspace for local entrepreneurs."
+    ],
+    "amenities": [
+      "Affordable rental housing for Honduran workers and families",
+      "Industrial workspaces for small manufacturers and trades",
+      "Reliable electricity and water infrastructure on site",
+      "Private security and controlled access compared with surrounding areas",
+      "Retail and services aimed at residents rather than tourists",
+      "Community events and programming for local entrepreneurs",
+      "Child-friendly public spaces within the 24-hectare footprint",
+      "Customer-service-oriented governance for tenant requests"
+    ],
+    "durationNotes": [
+      "Ciudad Morazán is designed as a permanent charter city rather than a seasonal popup.",
+      "Leases target long-term residents and industrial tenants."
+    ],
+    "overview": [
+      "Morazán markets itself as a blue-collar startup city with safe housing and modern amenities.",
+      "The project positions charter-city governance as a tool for local economic mobility.",
+      "Business and residence applications for Ciudad Morazán are handled through the team's official morazan.city site."
+    ]
+  },
+  "mtndao": {
+    "body": [
+      "mtndao runs monthlong residencies in Salt Lake City for Solana founders and builders.",
+      "The program emphasizes daily collaboration, sponsor workshops, and shipping pressure through bear and bull markets alike.",
+      "Each residency culminates in Demo Day, where teams present live projects to the Solana community.",
+      "Salt Lake City provides a consistent annual venue so Solana teams can return each year with sponsors and hiring partners in the same metro.",
+      "Builders use the month to ship features, prepare launch demos, and meet investors who fly in for Demo Day."
+    ],
+    "history": [
+      "2022 - Inaugural mtndao hackathon in Salt Lake City establishes the annual in-person builder format",
+      "2023 - Residency format expands with longer coliving and sponsor programming",
+      "2024 - Continued Salt Lake City cohorts for Solana founders and developers"
+    ],
+    "durationNotes": [
+      "Core mtndao residencies run about one month in Salt Lake City.",
+      "Programming mixes coworking, talks, and demo-day presentations."
+    ],
+    "locationDetails": [
+      "mtndao is based in Salt Lake City, Utah.",
+      "Events bring together Solana founders, developers, and investors in one venue."
+    ],
+    "amenities": [
+      "Coworking space for Solana teams during the residency month",
+      "Sponsor-led workshops with Solana ecosystem companies",
+      "Demo Day stage for live project presentations",
+      "Housing coordination for visiting founders"
+    ],
+    "overview": [
+      "mtndao keeps a consistent Salt Lake City venue for annual Solana builder months.",
+      "Sponsors fund programming that runs through both bear and bull market cycles.",
+      "Cohort announcements and sponsor information for mtndao are published through the project's official link hub."
+    ]
+  },
+  "commons": {
+    "body": [
+      "Commons Hub is a coliving and popup venue in the Austrian Alps, about an hour from Vienna.",
+      "It hosts artists, hackers, and tinkerers exploring technology, economy, society, and nature.",
+      "The house includes makerspaces, gardens, a workshop, and a wood-fired hot tub, with hiking trails and a river nearby.",
+      "Retreat organizers rent the Alpine house for multi-day regenerative commons gatherings without building a new venue each season.",
+      "Hackers and artists share kitchen, garden, and workshop access during longer coliving stays."
+    ],
+    "history": [
+      "1860 - Property built as a countryside inn in Reichenau an der Rax",
+      "2023 - Commons Hub formalized as a coliving and events venue"
+    ],
+    "locationDetails": [
+      "Commons Hub is in Reichenau an der Rax, Austria.",
+      "The Alps setting supports retreats, residencies, and regenerative commons programming."
+    ],
+    "durationNotes": [
+      "Commons Hub runs both ongoing coliving and time-bound popup villages.",
+      "Stays range from short retreats to longer artist and builder residencies."
+    ],
+    "amenities": [
+      "Makerspaces and workshop tools on site",
+      "Gardens and outdoor gathering areas",
+      "Wood-fired hot tub and river access",
+      "Event venue space for retreats and popups",
+      "Coliving rooms in a historic Alpine inn"
+    ],
+    "overview": [
+      "Commons Hub welcomes Web3 nomads, regens, and crypto commons builders for multi-week stays.",
+      "The venue combines Alpine coliving with regenerative commons programming.",
+      "Booking and retreat inquiries for Commons Hub are handled through commons-hub.at."
+    ]
+  },
+  "starbase": {
+    "body": [
+      "Starbase is a city at the southern tip of Texas in the Rio Grande Valley.",
+      "It is home to SpaceX Starship production, testing, and orbital launch facilities.",
+      "Residents voted to incorporate in May 2025, establishing local governance around the launch site.",
+      "The community functions as a company town with manufacturing and launch operations visible daily.",
+      "Incorporation gives residents a formal municipal voice over local services while SpaceX continues Starship operations next door.",
+      "Community projects documented in 2026 include coastal cleanups, conservation acreage, and a resident-led library effort."
+    ],
+    "history": [
+      "2025 - Starbase incorporates after a resident vote in May",
+      "2026 - Community programs include beach cleanups, land conservation, and a shared library effort"
+    ],
+    "locationDetails": [
+      "Starbase sits near Boca Chica, Texas, on the Gulf Coast.",
+      "SpaceX operates the primary Starship campus within city limits."
+    ],
+    "amenities": [
+      "Proximity to SpaceX Starship production and launch facilities",
+      "Local governance institutions created after incorporation",
+      "Community volunteer programs such as beach cleanups",
+      "Residential neighborhoods adjacent to the launch site"
+    ],
+    "overview": [
+      "Starbase incorporates SpaceX's Boca Chica operations into a municipal government structure.",
+      "Residents participate in city governance while living near orbital launch activity.",
+      "Municipal updates and public meetings for Starbase, Texas are posted on starbase.texas.gov."
+    ]
+  },
+  "proto": {
+    "body": [
+      "Proto-Town is a 1,200-acre ranch and hardware incubator in Lockhart, Texas.",
+      "The site combines housing, machine shops, testing grounds, and manufacturing at one address.",
+      "Founders live on-site to build and test physical technologies, including robotics, drones, and heavy equipment.",
+      "Early startups pay room and board while established companies lease land for scaled testing.",
+      "Machine shops, housing, and outdoor ranges stay on the same Texas ranch so teams can iterate hardware without shipping prototypes across town.",
+      "Proto-Town describes itself as a dense manufacturing ecosystem rather than a single coworking house."
+    ],
+    "locationDetails": [
+      "Proto-Town is located in Lockhart, Texas.",
+      "The ranch layout keeps fabrication, housing, and outdoor testing in one place."
+    ],
+    "durationNotes": [
+      "Residents typically stay for multi-week or multi-month build cycles.",
+      "Leases are available for companies that need dedicated testing acreage."
+    ],
+    "amenities": [
+      "On-site machine shops and fabrication equipment",
+      "Housing for resident hardware founders",
+      "Outdoor testing grounds for large equipment",
+      "Manufacturing bays leasable by established companies"
+    ],
+    "overview": [
+      "Proto-Town targets physical-tech founders who need fabrication and testing at one ranch address.",
+      "Room-and-board fees support early startups while larger tenants lease acreage.",
+      "Leasing and residency inquiries for Proto-Town are routed through proto.town."
+    ]
+  },
+  "tdf": {
+    "body": [
+      "Traditional Dream Factory is a regenerative coliving village on a former poultry farm in Portugal.",
+      "The project restores land while hosting creators, remote workers, and land stewards.",
+      "Infrastructure includes glamping, solar power, Starlink connectivity, and on-site tokenized booking through $TDF.",
+      "Residents join land-care rotations, glamping upgrades, and token-based bookings while the village funds water and pool infrastructure.",
+      "TDF markets itself to remote workers who want regenerative community rather than a urban hacker hostel."
+    ],
+    "history": [
+      "2021 - TDF acquires the farm and launches basic glamping and volunteer infrastructure",
+      "2023 - Starlink installed; booking platform and $TDF token launch",
+      "2024 - Water infrastructure work including natural swimming pool and rainwater systems"
+    ],
+    "locationDetails": [
+      "Traditional Dream Factory is in rural Portugal.",
+      "The campus mixes restored farmland with coliving and event space."
+    ],
+    "amenities": [
+      "Glamping and coliving rooms on the Portuguese farm",
+      "Solar power and Starlink connectivity",
+      "On-site booking through the TDF platform and token",
+      "Land-restoration projects residents can join",
+      "Natural swimming pool and rainwater systems in progress"
+    ],
+    "overview": [
+      "Traditional Dream Factory combines regenerative land work with Web3-native booking mechanics.",
+      "The village hosts remote workers, creatives, and families for seasonal stays.",
+      "Stays and tokenized bookings for Traditional Dream Factory are managed through the village's official booking site."
+    ]
+  },
+  "rns": {
+    "body": [
+      "RNS.ID issues blockchain-based digital identity credentials tied to real-world verification.",
+      "The project targets sovereign digital identity for people who need portable, verifiable credentials.",
+      "RNS.ID sits in the identity layer of the network-state tool stack rather than running a physical village.",
+      "RNS.ID documents verification tiers and credential types on its homepage for travelers, founders, and remote workers who need portable proof of identity.",
+      "The product direction emphasizes user-held credentials rather than centralized databases controlled by a single platform."
+    ],
+    "overview": [
+      "RNS.ID focuses on verifiable digital identity rather than coliving or popup logistics.",
+      "Product updates and credential policies are published through rns.id.",
+      "Credential holders can present RNS.ID proofs in apps that support the project's published verification standards."
+    ],
+    "amenities": [
+      "Digital identity credentials issued after verification",
+      "On-chain credential records for portable identity",
+      "Integration targets for wallets and governance apps"
+    ],
+    "history": [
+      "RNS.ID launched as a sovereign digital identity project for borderless credentials",
+      "The team publishes product updates and policy changes on rns.id"
+    ],
+    "pricing": [
+      "Credential pricing depends on verification tier and issuance type"
+    ]
+  },
+  "zuberlin": {
+    "body": [
+      "Futura Camp, formerly ZuBerlin, runs immersive coliving residencies in Berlin, often at Funkhaus.",
+      "Programs blend technical depth with small-group discussion for researchers, founders, and protocol designers.",
+      "Editions align with Berlin Blockchain Week and partner summits hosted at the same venue complex.",
+      "June 2026 Futura Camp programming at Funkhaus includes partner tracks on neocypherpunk privacy, Ethereum infrastructure, and sovereign AI.",
+      "ZuBerlin alumni describe the residency as a small-group alternative to conference halls during Berlin Blockchain Week."
+    ],
+    "history": [
+      "June 2024 - Inaugural two-week ZuBerlin residency in Berlin",
+      "November 2024 - ZuGarden popup combining Devcon 7 in Bangkok with an island retreat",
+      "June 2025 - ZuBerlin 2.0 expands programming during Berlin Blockchain Week",
+      "June 2026 - Futura Camp rebrand for the third Funkhaus edition"
+    ],
+    "durationNotes": [
+      "Typical Futura Camp / ZuBerlin residencies run about two weeks.",
+      "June 2026 programming is scheduled for June 13–22 at Funkhaus Berlin."
+    ],
+    "locationDetails": [
+      "Primary venues are in Berlin, Germany, including Funkhaus.",
+      "Some editions pair Berlin programming with international popup locations."
+    ],
+    "amenities": [
+      "Coliving rooms during Funkhaus residencies",
+      "Partner summits such as Neocypherpunk and Ethereum Day on site",
+      "Small-group sessions on cryptography, MEV, and sovereign AI",
+      "Integration with Berlin Blockchain Week calendars"
+    ],
+    "overview": [
+      "Futura Camp evolved from ZuBerlin's Zuzalu-era Berlin popups.",
+      "Programming pairs residency life with conference-week partner events.",
+      "Futura Camp applications and Funkhaus schedules are listed on futura.camp and related ZuBerlin hubs."
+    ]
+  },
+  "culdesac": {
+    "body": [
+      "Culdesac Tempe is marketed as the first car-free neighborhood built from scratch in the United States.",
+      "The 17-acre district combines apartments, local retail, plazas, and paths next to a light rail station.",
+      "Residents receive bundled mobility perks such as light-rail access and discounted rideshare options.",
+      "On-site retailers span food, wellness, clothing, and neighborhood services.",
+      "Phase-one openings in 2023 proved demand for car-free infill next to light rail in greater Phoenix.",
+      "By 2025 Culdesac reports more than three hundred residents and twenty on-site businesses operating in the Tempe district."
+    ],
+    "history": [
+      "Nov 2019 - Groundbreaking on the Tempe infill site",
+      "May 2023 - First residents move into phase one",
+      "2025 - Community reports 350+ residents and 21 local businesses with expanded amenities"
+    ],
+    "locationDetails": [
+      "Culdesac Tempe is in Tempe, Arizona, adjacent to Valley Metro light rail.",
+      "The master plan emphasizes walkable courtyards and ground-floor retail."
+    ],
+    "amenities": [
+      "Car-free internal paths and shared courtyards",
+      "Bundled light-rail and rideshare mobility perks",
+      "Ground-floor retail including food, wellness, and services",
+      "Community events in shared plazas",
+      "Apartments designed without private garage requirements"
+    ],
+    "overview": [
+      "Culdesac Tempe targets residents who want walkable daily life next to transit.",
+      "The neighborhood bundles mobility benefits instead of on-site parking mandates."
+    ]
+  },
+  "hrg": {
+    "body": [
+      "Hacker Residency Group runs a one-month experimental residency for indie hackers in Da Nang, Vietnam.",
+      "Each cohort invites a small group of founders to live and build together in a villa with dedicated workspaces.",
+      "The May 2026 batch advertises housing, food, laundry, and a private bedroom plus workstation for participants.",
+      "The Da Nang villa cohort caps at about ten founders so everyone receives a private room and dedicated desk for the month."
+    ],
+    "durationNotes": [
+      "HRG residencies are structured as one-month live-in build sprints.",
+      "The May 2026 program runs May 1 through May 31 in Da Nang."
+    ],
+    "locationDetails": [
+      "Hacker Residency Group is anchored in Da Nang, Vietnam.",
+      "Cohorts use a villa setting with ocean views and shared work areas."
+    ],
+    "overview": [
+      "HRG selects a small cohort of indie hackers for each villa-based residency.",
+      "The program advertises covered housing, food, and workspace for accepted founders.",
+      "Founders apply to Hacker Residency Group through the official site for dated Da Nang cohorts."
+    ],
+    "amenities": [
+      "Private bedroom and bathroom for each resident",
+      "Dedicated workstation in the Da Nang villa",
+      "Shared meals and laundry included for the cohort month",
+      "Professional videography support during the residency"
+    ]
+  },
+  "gelephu": {
+    "body": [
+      "Gelephu Mindfulness City is a Special Administrative Region chartered in Bhutan in February 2024.",
+      "The project spans about 4,046 km² in Bhutan's southern plains bordering Assam, India.",
+      "Royal Charter grants GMC executive and legislative powers with an independent judiciary separate from the national government.",
+      "GMC's public materials describe a “Mindful Prosperity” roadmap across multiple priority industries.",
+      "GMC's public FAQ outlines investor incentives, sector priorities, and the separation between Bhutanese federal law and SAR governance."
+    ],
+    "locationDetails": [
+      "Gelephu Mindfulness City is in southern Bhutan near the Indian border.",
+      "The SAR covers roughly ten percent of Bhutan's land area."
+    ],
+    "overview": [
+      "GMC combines Bhutanese values around mindfulness and nature with economic development goals.",
+      "Official policy and investor information is published at gmc.bt.",
+      "Investor FAQs and sector roadmaps for Gelephu Mindfulness City are maintained at gmc.bt."
+    ]
+  },
+  "ac": {
+    "body": [
+      "Alpha City describes a federation of frontier industrial cities focused on compute and hardware supply chains.",
+      "Public materials highlight geothermal-powered AI training campuses and East African industrial nodes.",
+      "The Genesis Program offers early participants pathways involving partner-country passports and land access.",
+      "Alpha Pioneers are presented as the first cohort entering the network.",
+      "Alpha's public materials describe industrial cities built around geothermal power, equatorial launch logistics, and African engineering talent.",
+      "Genesis participants are framed as founders who help stand up compute, robotics, and IP businesses inside the network."
+    ],
+    "locationDetails": [
+      "Alpha's public roadmap references industrial cities in East and West Africa, including a Naivasha, Kenya site.",
+      "Equatorial launch access and regional talent pools are part of the stated geography strategy."
+    ],
+    "amenities": [
+      "Genesis Program onboarding for early passport holders",
+      "Founder-class licensing and land priority for qualified applicants",
+      "Industrial city planning around compute and energy infrastructure",
+      "Partner-country passport pathways for selected pioneers"
+    ],
+    "overview": [
+      "Alpha publishes its master plan and Genesis Program details on alphacity.io.",
+      "Industrial nodes are described as vertically integrated cities for compute, robotics, and IP creation.",
+      "Alpha publishes master-plan updates and Genesis Program criteria on alphacity.io for prospective pioneers."
+    ],
+    "durationNotes": [
+      "Genesis Program participation is structured as a multi-year citizenship and investment pathway."
+    ]
+  },
+  "eth": {
+    "overview": [
+      "ETHiopia connects Ethereum builders with African communities through monthlong popup formats.",
+      "The January 2025 pop-up in Addis Ababa hosted hackathons, talks, and project collaboration.",
+      "ETHiopia posts pop-up applications and retrospectives on eth-iopia.xyz when new cohorts open."
+    ],
+    "durationNotes": [
+      "The flagship ETHiopia pop-up ran for one month in Addis Ababa.",
+      "Accommodation and meals were not included in the free application-based ticket."
+    ],
+    "amenities": [
+      "Co-working spaces during the Addis Ababa pop-up",
+      "High-speed internet for hackathon teams",
+      "Workshops, lectures, and community events on site",
+      "Wellness activities alongside technical programming"
+    ],
+    "body": [
+      "ETHiopia's January 2025 pop-up brought together more than 100 participants for hackathons and conference programming.",
+      "The initiative focuses on DeFi, governance, and crypto's role in African economies.",
+      "Participants joined from across Africa and abroad for talks on DeFi, local governance experiments, and Ethereum tooling.",
+      "Organizers positioned the pop-up as a bridge between global Ethereum research circles and Addis Ababa builders."
+    ]
+  },
+  "jungli": {
+    "body": [
+      "Jungli the Nomad organizes nomadic coliving and popup experiences for remote builders.",
+      "Programming emphasizes travel-friendly formats that move between cities rather than one fixed campus.",
+      "Community coordination runs through Jungli's public channels and event listings.",
+      "Jungli the Nomad is an application-based learning residency on private rainforest land, not a public resort hotel.",
+      "Residents get coliving, coworking, and hosted popup villages on roughly 150 acres in Dandeli.",
+      "Programming emphasizes slow-paced creative work beside the Kali River in Karnataka."
+    ],
+    "amenities": [
+      "Rainforest coliving and coworking on family-held land",
+      "Hosted popup villages for visiting communities",
+      "Application-based stays for nomads, artists, and operators",
+      "Natural setting beside the Kali River in Dandeli"
+    ],
+    "durationNotes": [
+      "Stays are booked through Jungli's application process for multi-week residencies.",
+      "Popup villages on site run on their own calendars in addition to ongoing coliving."
+    ],
+    "overview": []
+  },
+  "zui": {
+    "overview": [
+      "Zuitzerland runs Swiss-themed popup residencies and summit weekends for the Zuzalu extended ecosystem.",
+      "Pricing for specific editions is announced per event on zuitzerland.ch.",
+      "Zuitzerland residency and summit tickets are sold through zuitzerland.ch when editions are open."
+    ],
+    "body": [
+      "Zuitzerland residencies culminate in summit weekends with separate ticketed programming.",
+      "Swiss editions connect to the broader Zuzalu lineage of monthlong builder villages.",
+      "Zuitzerland summit weekends bill separately from longer residency weeks, with CHF pricing listed per event on the official site."
+    ]
+  },
+  "ary": {
+    "overview": [
+      "Arrayah curates popup villages and city programs that mix Middle Eastern and global builder communities.",
+      "Freo Neuhaus and other editions publish accommodation tiers closer to each event date.",
+      "Arrayah announces popup pricing, cities, and registration windows on arrayah.city."
+    ],
+    "body": [
+      "Arrayah programs blend cultural programming with builder residencies across multiple geographies.",
+      "Arrayah editions combine cultural programming with builder housing when pricing and venues are announced per city."
+    ]
+  },
+  "netx": {
+    "overview": [
+      "Netxstate experiments with network-state governance tooling and popup coordination for digital communities.",
+      "Follow netxstate.com for active cohorts and application windows.",
+      "Netxstate shares governance experiments and community links on netxstate.com."
+    ],
+    "body": [
+      "Netxstate publishes governance experiments and popup coordination tools for communities experimenting with network-state mechanics."
+    ]
+  },
+  "afro": {
+    "overview": [
+      "Afropolitan combines a digital nation narrative with city tours and passport NFT products for Africans and the diaspora.",
+      "Physical tours such as T.I.A. Ghana combine weeklong programming with accommodation bundles."
+    ]
+  },
+  "w3v": {
+    "overview": [
+      "Web3 Villages hosts incubator-style popup villages where founders live, learn, and ship together.",
+      "Bangkok and other hubs rotate based on cohort theme and partner venues.",
+      "Web3 Villages lists upcoming incubator popups and partner cities on web3villages.com."
+    ],
+    "body": [
+      "Web3 Villages rotates incubator popups through partner cities while keeping Discord and Telegram as coordination layers between cohorts."
+    ]
+  },
+  "ipe": {
+    "overview": [
+      "Ipê City documents village formats and governance experiments on docs.ipe.city.",
+      "Brazil-focused popup editions rotate while preserving the Ipê community brand.",
+      "Ipê City publishes village documentation and cohort dates on docs.ipe.city."
+    ],
+    "body": [
+      "Ipê City documents village governance and popup schedules for Brazil-focused editions on its public documentation site."
+    ]
+  },
+  "arkpad": {
+    "overview": [
+      "ArkPad runs coliving for founders with an on-site maker and prototyping culture.",
+      "Stays combine housing with build space for hardware and software projects."
+    ]
+  },
+  "praxis": {
+    "overview": [
+      "Praxis combines a long-horizon city vision with nomad community programming and events."
+    ]
+  }
+}

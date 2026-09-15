@@ -1,7 +1,10 @@
-import { formatPopupText } from '@/lib/popup-text';
+import { shouldDropPopupLine } from '@/lib/popup-copy-guard';
+import { formatPopupText, isPopupScrapeNoise } from '@/lib/popup-text';
 
 function cleanLine(line: string): string {
-  return formatPopupText(line);
+  const t = formatPopupText(line);
+  if (!t || isPopupScrapeNoise(t) || shouldDropPopupLine(t)) return '';
+  return t;
 }
 
 function looksLikePrice(line: string): boolean {
@@ -61,6 +64,9 @@ export function groupAmenityLines(lines: string[]): DetailGroup[] {
   for (let i = 0; i < lines.length; i += 1) {
     const line = cleanLine(lines[i]);
     if (!line) continue;
+    if (/^Amenities in .+ include:?$/i.test(line) || /^Tickets include:?$/i.test(line)) {
+      continue;
+    }
     const next = cleanLine(lines[i + 1] ?? '');
     const nextIsShortAmenity =
       next &&
@@ -129,5 +135,7 @@ export function parseHistoryLines(lines: string[]): HistoryEntry[] {
 }
 
 export function proseLines(lines: string[]): string[] {
-  return lines.map(cleanLine).filter((line) => line.length > 0);
+  return lines
+    .map(cleanLine)
+    .filter((line) => line.length > 0 && !/^What (is|kind of|are)\b.+\?$/i.test(line));
 }
