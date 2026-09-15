@@ -1394,7 +1394,7 @@
     "location": "US",
     "department": "2317 Marketing - PMM",
     "active": true,
-    "slug": "link"
+    "slug": "ls"
   },
   {
     "id": "8165278",
@@ -12231,7 +12231,7 @@
       "Exchange",
       "Trading"
     ],
-    "slug": "liquidity",
+    "slug": "lms",
     "postedAt": "2026-09-04",
     "description": "<p>We are the creators of a new fintech era!</p><p>Our mission is to revolutionize the world by making blockchain technology accessible to everyone in everyday life. WhiteBIT is a global team of more than 1,200 professionals united by a shared vision of shaping the Web3 future.</p><p>We are building our own blockchain ecosystem, ensuring maximum transparency and security for over 8 million users worldwide. Our cutting-edge solutions, rapid adaptation to market challenges, and technological excellence set us apart from traditional companies.</p><p>Our official partners include the National Football Team of Ukraine, FC Barcelona, Lifecell, FACEIT, and VISA.</p><p>The future of Web3 starts with you — join us as a Liquidity Monitoring Specialist!</p><h4>Requirements</h4><ul><li>Higher economic education;</li><li>Systemic thinking and analytical mind;</li><li>Ability to work with tables (excellent knowledge of Excel: formulas, summary tables);</li><li>Willingness to work different shifts (day, evening, night).</li></ul><h4>Responsibilities</h4><ul><li>Processing and analysis of trading operations;</li><li>Monitoring the state of the market;</li><li>Research and analysis of exchange situations with the help of information and analytical tools;</li><li>Interaction with the technical department.</li></ul><h4>Would be a plus</h4><ul><li>Commercial experience and knowledge in the crypto domain;</li></ul><h4>Working terms</h4><p>Immerse yourself in Crypto &amp; Web3:</p><ul><li>Master cutting-edge technologies and become an expert in the most innovative industry.</li></ul><p>Work with the Fintech of the Future:</p><ul><li>Develop your skills in digital finance and shape the global market.</li></ul><p>Take Your Professionalism to the Next Level:</p><ul><li>Gain unique experience and be part of global transformations.</li></ul><p>Drive Innovations:</p><ul><li>Influence the industry and contribute to groundbreaking solutions.</li></ul><p>Join a Strong Team:</p><ul><li>Collaborate with top experts worldwide and grow alongside the best.</li></ul><p>Work-Life Balance &amp; Well-being:</p><ul><li>Modern equipment.</li><li>Comfortable working conditions, and an inspiring environment to help you thrive.</li><li>24 calendar days of paid leave.</li><li>Additional days off for national holidays.</li></ul><p>With us, you’ll dive into the world of unique blockchain technologies, reshape the crypto landscape, and become an innovator in your field. If you’re ready to take on challenges and join our dynamic team, apply now and start a new chapter in your career!</p><p>Let’s Build the Future Together!</p>"
   },
@@ -18906,7 +18906,7 @@
     "location": "Toronto, Canada",
     "department": "Wonderfi Customer Operations",
     "active": true,
-    "slug": "crypto"
+    "slug": "cr"
   },
   {
     "id": "6161977004",
@@ -50037,7 +50037,7 @@
     "location": "Jakarta, Indonesia",
     "department": "Strategy",
     "active": true,
-    "slug": "strategy"
+    "slug": "sp"
   },
   {
     "id": "8009463",
@@ -52202,7 +52202,7 @@
     "location": "APAC-C1",
     "department": "Research and Development",
     "active": true,
-    "slug": "web3"
+    "slug": "web"
   },
   {
     "id": "6b21b701-03c9-42ab-8519-a294c7256b0c",
@@ -57184,7 +57184,7 @@
     "location": "Vienna, Austria",
     "department": "Europe",
     "active": true,
-    "slug": "token"
+    "slug": "tlc"
   },
   {
     "id": "4857339101",
@@ -58264,7 +58264,7 @@
     "location": "Abu Dhabi, UAE",
     "department": "Blockchain R&D",
     "active": true,
-    "slug": "blockchain"
+    "slug": "be"
   },
   {
     "id": "7724455003",
@@ -59432,7 +59432,7 @@
     "location": "Rockdale, TX",
     "department": "Operations",
     "active": true,
-    "slug": "mining"
+    "slug": "mt"
   },
   {
     "id": "be496b52-cfbf-494e-b862-61fb4a188b24",
@@ -61167,7 +61167,7 @@
     "location": "Hong Kong, Hong Kong",
     "department": "Workplace Services & Experience",
     "active": true,
-    "slug": "events"
+    "slug": "es"
   },
   {
     "id": "cc1091e6-02ff-4ab8-955d-a6d1750dcf3e",
@@ -68588,7 +68588,7 @@
     "location": "Remote",
     "department": "Malbec Labs",
     "active": true,
-    "slug": "open"
+    "slug": "oesb"
   },
   {
     "id": "181cc24f-b20a-4632-84b0-fd2f84cafcc9",
@@ -73487,7 +73487,7 @@
     "location": "Anywhere",
     "department": "Anagram",
     "active": true,
-    "slug": "defi"
+    "slug": "dr"
   },
   {
     "id": "eb60f112-0d57-4669-95bd-11d1658c4bb5",
@@ -74533,7 +74533,7 @@
     "location": "Asia",
     "department": "Engineering",
     "active": true,
-    "slug": "binance"
+    "slug": "alds"
   },
   {
     "id": "118f0853-9095-41bd-bc2b-36742427ce4d",
@@ -74641,7 +74641,7 @@
     "location": "Palo Alto, CA",
     "department": "Harmony",
     "active": true,
-    "slug": "community"
+    "slug": "cm"
   },
   {
     "id": "aa055b1d-5eb2-4662-964a-849524710b6e",
@@ -76440,7 +76440,7 @@
     "location": "US / Remote",
     "department": "Blockchain Security Engineering",
     "active": true,
-    "slug": "solidity"
+    "slug": "sol"
   },
   {
     "id": "8c31337e-9989-4cf2-9cab-e876cbc96f10",
@@ -76452,7 +76452,7 @@
     "location": "London",
     "department": "Technology",
     "active": true,
-    "slug": "developer"
+    "slug": "dev2"
   },
   {
     "id": "5026297002",

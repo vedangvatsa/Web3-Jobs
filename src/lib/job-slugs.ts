@@ -1,4 +1,5 @@
 import type { Job } from '@/types';
+import { loadReservedRootSlugsSync } from '@/lib/reserved-root-slugs';
 
 const TRACKING_QUERY_PARAMS = new Set([
   'gh_src',
@@ -79,6 +80,19 @@ export function getJobContentKey(job: Pick<Job, 'id' | 'title' | 'company' | 'li
   return `job-${stableHash(getJobIdentity(job))}`;
 }
 
+const TITLE_STOPWORDS = new Set([
+  'a', 'an', 'the', 'of', 'and', 'or', 'for', 'to', 'in', 'on', 'at', 'with',
+  'by', 'from', 'as', 'vs', 'via', 'into', 'over', 'per',
+]);
+
+const TITLE_NOISE = new Set([
+  'senior', 'sr', 'junior', 'jr', 'staff', 'principal', 'lead', 'head', 'chief',
+  'intern', 'internship', 'remote', 'hybrid', 'contract', 'freelance',
+  'fulltime', 'full', 'part', 'time', 'level', 'i', 'ii', 'iii', 'iv', 'v',
+  'based', 'global', 'apac', 'emea', 'na', 'us', 'uk', 'eu',
+  'programme', 'program', 'opening', 'role', 'roles', 'position',
+]);
+
 /**
  * Extracts exactly ONE word representing the core role category
  */
@@ -120,42 +134,153 @@ export function getOneWordRole(title: string): string {
   return words[0] || 'job';
 }
 
+function hyphenCompanySlug(company: string): string {
+  return (company || '')
+    .toLowerCase()
+    .replace(/[’'"]/g, '')
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '')
+    .replace(/-+/g, '-');
+}
+
+function isIngestPlaceholderSlug(slug: string): boolean {
+  return /^role[a-z0-9]{2,}$/i.test(slug);
+}
+
+function normalizeSlugToken(value: string): string {
+  return value.toLowerCase().trim();
+}
+
+/** Short public slug stem from a title: Community Manager → `cm`. */
+export function abbrevFromJobTitle(title: string, company?: string): string {
+  let t = (title || '').toLowerCase();
+  if (company) {
+    const companyPhrase = company.toLowerCase().trim();
+    if (companyPhrase) {
+      t = t.replace(new RegExp(companyPhrase.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'g'), ' ');
+    }
+    for (const part of hyphenCompanySlug(company).split('-')) {
+      if (part.length >= 3) t = t.replace(new RegExp(`\\b${part}\\b`, 'g'), ' ');
+    }
+  }
+
+  if (t.includes('solidity')) return 'sol';
+  if (t.includes('rust')) return 'rs';
+  if (t.includes('zk') || t.includes('zero knowledge') || t.includes('cryptograph')) return 'zk';
+  if (t.includes('frontend') || /\b(ui|ux)\b/i.test(t)) return 'fe';
+  if (t.includes('backend')) return 'be';
+  if (t.includes('full stack') || t.includes('fullstack')) return 'fs';
+  if (t.includes('devops')) return 'do';
+  if (t.includes('infrastructure')) return 'infra';
+  if (t.includes('security') || t.includes('audit')) return 'sec';
+  if (/\bqa\b/i.test(t) || t.includes('testing') || t.includes('quality')) return 'qa';
+  if (t.includes('trader') || t.includes('quant')) return 'tr';
+  if (t.includes('product') || /\bpm\b/i.test(t)) return 'pm';
+  if (t.includes('marketing') || t.includes('growth')) return 'mkt';
+  if (t.includes('community')) return 'cm';
+  if (t.includes('devrel') || t.includes('developer relations')) return 'dr';
+  if (t.includes('compliance') || t.includes('legal') || t.includes('mlro')) return 'cmp';
+  if (t.includes('recruiter') || t.includes('talent') || /\bhr\b/i.test(t)) return 'rec';
+  if (t.includes('onboarding')) return 'ob';
+  if (t.includes('supervisor')) return 'sup';
+  if (t.includes('developer')) return 'dev';
+  if (t.includes('engineer')) return 'eng';
+  if (t.includes('designer')) return 'des';
+  if (t.includes('writer')) return 'wr';
+  if (t.includes('sales') || t.includes('account') || t.includes('business development') || /\bbd\b/i.test(t)) return 'sls';
+  if (t.includes('operations') || /\bops\b/i.test(t)) return 'ops';
+  if (t.includes('architect')) return 'arc';
+  if (t.includes('intern')) return 'int';
+  if (t.includes('associate') || t.includes('assistant')) return 'aso';
+  if (t.includes('analyst')) return 'an';
+  if (t.includes('manager')) return 'mgr';
+
+  const words = t
+    .replace(/[^a-z0-9\s]+/g, ' ')
+    .trim()
+    .split(/\s+/)
+    .filter((word) => word && !TITLE_STOPWORDS.has(word) && !TITLE_NOISE.has(word));
+
+  if (words.length >= 2) {
+    const acronym = words.map((word) => word[0]).join('').slice(0, 4);
+    if (acronym.length >= 2) return acronym;
+  }
+
+  const roleWord = (words[0] || getOneWordRole(title || 'job')).replace(/[^a-z0-9]/g, '');
+  if (roleWord.length >= 2) return roleWord.slice(0, 3);
+  return (roleWord || 'job').padEnd(2, 'x').slice(0, 2);
+}
+
 /**
- * Next slug for a role word: `product`, then `product1`, `product2`, … on collision.
+ * Next slug for a stem: `cm`, then `cm2`, `cm3`, … (skip `cm1` so the ladder stays short).
  */
 export function allocateSequentialRoleSlug(roleWord: string, usedSlugs: Set<string>): string {
+  const blocked = new Set([...usedSlugs].map(normalizeSlugToken));
   const base = (roleWord || 'job').toLowerCase().replace(/[^a-z0-9]/g, '') || 'job';
-  if (!usedSlugs.has(base)) return base;
-  for (let n = 1; n <= 999_999; n += 1) {
+  if (!blocked.has(base)) return base;
+  for (let n = 2; n <= 999_999; n += 1) {
     const candidate = `${base}${n}`;
-    if (!usedSlugs.has(candidate)) return candidate;
+    if (!blocked.has(candidate)) return candidate;
   }
   throw new Error(`Could not allocate slug for role: ${base}`);
 }
 
 /** Mint a public slug from a job title, respecting slugs already in use. */
-export function mintJobSlugFromTitle(title: string, usedSlugs: Set<string>): string {
-  const roleWord = getOneWordRole(title || 'job');
-  return allocateSequentialRoleSlug(roleWord, usedSlugs);
+export function mintJobSlugFromTitle(title: string, usedSlugs: Set<string>, company?: string): string {
+  return allocateSequentialRoleSlug(abbrevFromJobTitle(title || 'job', company), usedSlugs);
+}
+
+export type AssignJobSlugOptions = {
+  reservedRootSlugs?: Set<string>;
+  extraBlockedSlugs?: Set<string>;
+};
+
+function siteBlockedSlugs(
+  jobs: Array<Pick<Job, 'company'>>,
+  reservedRoot: Set<string>,
+): Set<string> {
+  const blocked = new Set<string>();
+  for (const slug of reservedRoot) blocked.add(normalizeSlugToken(slug));
+  for (const job of jobs) {
+    const company = job.company || '';
+    const viaAlias = getCompanySlug(company);
+    const viaHyphen = hyphenCompanySlug(company);
+    if (viaAlias) blocked.add(normalizeSlugToken(viaAlias));
+    if (viaHyphen) blocked.add(normalizeSlugToken(viaHyphen));
+  }
+  return blocked;
 }
 
 /**
- * Keeps slugs for known postings (by employer URL identity). New postings get a
- * title keyword slug (`product`, `product1`, …) in oldest-first order.
+ * Slug policy:
+ * 1. Keep an existing slug only if it is unique among jobs and not owned by the site
+ *    (app routes, companies, glossary, events, …). Shadowed slugs are reminted.
+ * 2. New or reminted postings get a short title abbrev (`cm`, `cm2`, …).
+ * 3. Every job keeps a slug; nothing is removed from the cache for collisions.
  */
 export function assignJobSlugsInCache(
   jobs: Array<Pick<Job, 'id' | 'title' | 'company' | 'link' | 'date' | 'slug'>>,
+  options?: AssignJobSlugOptions,
 ): void {
+  const reservedRoot = options?.reservedRootSlugs ?? loadReservedRootSlugsSync();
+  const siteBlocked = siteBlockedSlugs(jobs, reservedRoot);
+  const archiveBlocked = new Set<string>();
+  if (options?.extraBlockedSlugs) {
+    for (const slug of options.extraBlockedSlugs) {
+      archiveBlocked.add(normalizeSlugToken(slug));
+    }
+  }
   const usedSlugs = new Set<string>();
   const identityToSlug = new Map<string, string>();
 
   for (const job of jobs) {
     const identity = getJobIdentity(job as Job);
     const slug = job.slug?.trim();
-    if (slug && !usedSlugs.has(slug)) {
-      identityToSlug.set(identity, slug);
-      usedSlugs.add(slug);
-    }
+    if (!slug) continue;
+    const token = normalizeSlugToken(slug);
+    if (siteBlocked.has(token) || usedSlugs.has(token) || isIngestPlaceholderSlug(token)) continue;
+    identityToSlug.set(identity, slug);
+    usedSlugs.add(token);
   }
 
   const sorted = [...jobs].sort((a, b) => {
@@ -172,9 +297,10 @@ export function assignJobSlugsInCache(
       job.slug = preserved;
       continue;
     }
-    const slug = mintJobSlugFromTitle(job.title || 'job', usedSlugs);
+    const blockedForMint = new Set([...usedSlugs, ...siteBlocked, ...archiveBlocked]);
+    const slug = mintJobSlugFromTitle(job.title || 'job', blockedForMint, job.company);
     job.slug = slug;
-    usedSlugs.add(slug);
+    usedSlugs.add(normalizeSlugToken(slug));
     identityToSlug.set(identity, slug);
   }
 }
@@ -200,9 +326,12 @@ export function retireJobSlugInArchive(
   archive: Record<string, LegacySlugRecord>,
   slug: string,
   job: JobSlugFields,
+  reservedRoot?: Set<string>,
 ): boolean {
   const clean = slug?.trim();
   if (!clean || archive[clean]) return false;
+  const reserved = reservedRoot ?? loadReservedRootSlugsSync();
+  if (reserved.has(clean.toLowerCase())) return false;
   archive[clean] = {
     id: job.id,
     link: job.link,
@@ -220,8 +349,10 @@ export function syncLegacyArchiveAfterSlugChanges(
   before: JobSlugFields[],
   after: JobSlugFields[],
   archive: Record<string, LegacySlugRecord>,
+  reservedRoot?: Set<string>,
 ): number {
   let added = 0;
+  const reserved = reservedRoot ?? loadReservedRootSlugsSync();
   const beforeByIdentity = new Map<string, { slug: string; job: JobSlugFields }>();
   for (const job of before) {
     const identity = getJobIdentity(job);
@@ -242,12 +373,12 @@ export function syncLegacyArchiveAfterSlugChanges(
     if (live) {
       const nextSlug = live.slug?.trim();
       if (nextSlug && nextSlug !== slug) {
-        if (retireJobSlugInArchive(archive, slug, job)) added += 1;
+        if (retireJobSlugInArchive(archive, slug, job, reserved)) added += 1;
       }
       continue;
     }
     if (!afterSlugs.has(slug)) {
-      if (retireJobSlugInArchive(archive, slug, job)) added += 1;
+      if (retireJobSlugInArchive(archive, slug, job, reserved)) added += 1;
     }
   }
 
@@ -258,7 +389,9 @@ export function syncLegacyArchiveAfterSlugChanges(
 export function assignJobSlugsAndSyncLegacyArchive(
   jobs: JobSlugFields[],
   archive: Record<string, LegacySlugRecord>,
+  reservedRootSlugs?: Set<string>,
 ): number {
+  const reserved = reservedRootSlugs ?? loadReservedRootSlugsSync();
   const snapshot = jobs.map((job) => ({
     id: job.id,
     title: job.title,
@@ -266,8 +399,11 @@ export function assignJobSlugsAndSyncLegacyArchive(
     link: job.link,
     slug: job.slug,
   }));
-  assignJobSlugsInCache(jobs);
-  return syncLegacyArchiveAfterSlugChanges(snapshot, jobs, archive);
+  const extraBlockedSlugs = new Set(
+    Object.keys(archive).map((slug) => slug.toLowerCase()),
+  );
+  assignJobSlugsInCache(jobs, { reservedRootSlugs: reserved, extraBlockedSlugs });
+  return syncLegacyArchiveAfterSlugChanges(snapshot, jobs, archive, reserved);
 }
 
 /** Public job detail path (always short slug at site root). */

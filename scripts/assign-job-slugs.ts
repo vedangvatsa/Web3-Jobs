@@ -1,5 +1,5 @@
 /**
- * Assign job slugs in content/jobs-cache.json (keyword + collision suffix).
+ * Assign job slugs in content/jobs-cache.json (short abbrev + exclusive roots).
  *
  * Usage: npx tsx scripts/assign-job-slugs.ts
  */
