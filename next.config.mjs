@@ -38,11 +38,6 @@ const nextConfig = {
         permanent: true,
       },
       {
-        source: '/jobs/:slug((?!feed\\.xml|feed-aggregator\\.xml|feed\\.json|adzuna\\.xml|llms\\.txt).*)',
-        destination: '/:slug',
-        permanent: true,
-      },
-      {
         source:
           '/glossary/:slug((?!blockchain-fundamentals|cryptocurrencies|defi|nfts|smart-contracts|protocols|governance|security|trading|technical$).*)',
         destination: '/:slug',

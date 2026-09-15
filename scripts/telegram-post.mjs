@@ -37,6 +37,7 @@ const CTA_URL = 'https://hashtagweb3.com?utm_source=telegram&utm_medium=social&u
 // Use channel-specific state files so channel + group posts don't share cooldowns
 const channelSlug = (CHANNEL_ID || '').replace(/[^a-zA-Z0-9]/g, '');
 const POSTED_LOG = path.join(path.dirname(new URL(import.meta.url).pathname), `../.telegram-posted-${channelSlug}.json`);
+const URL_LOG = path.join(path.dirname(new URL(import.meta.url).pathname), `../.telegram-job-urls-${channelSlug}.json`);
 const POST_COOLDOWN_HOURS = 7;
 const LAST_POST_FILE = path.join(path.dirname(new URL(import.meta.url).pathname), `../.telegram-posted-last-${channelSlug}.json`);
 
@@ -61,6 +62,30 @@ function savePosted(posted) {
   // Keep last 500 to allow cycling
   const arr = [...posted].slice(-500);
   fs.writeFileSync(POSTED_LOG, JSON.stringify(arr));
+}
+
+function loadUrlLog() {
+  try {
+    return JSON.parse(fs.readFileSync(URL_LOG, 'utf8'));
+  } catch {
+    return {};
+  }
+}
+
+/** Persist every slug we share on Telegram so old links can be checked against the legacy archive. */
+function recordTelegramJobUrl(jobId, slug) {
+  if (!jobId || !slug) return;
+  const log = loadUrlLog();
+  const key = String(jobId);
+  const prior = log[key]?.slugs || [];
+  const slugs = [...new Set([...prior, slug])];
+  log[key] = {
+    slugs,
+    lastSlug: slug,
+    lastUrl: `https://hashtagweb3.com/${slug}`,
+    updatedAt: new Date().toISOString(),
+  };
+  fs.writeFileSync(URL_LOG, JSON.stringify(log, null, 2));
 }
 
 // ── Build URL with UTM ──
@@ -139,6 +164,10 @@ async function pickJobs(count) {
     }
 
     if (!chosenUrl) continue;
+
+    if (j.slug && chosenUrl.includes('hashtagweb3.com/')) {
+      recordTelegramJobUrl(j.id || j.link, j.slug);
+    }
 
     posted.add(j.id || j.link);
     results.push({

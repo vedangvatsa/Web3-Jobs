@@ -12,41 +12,6 @@ const { execSync } = require('child_process');
 
 const CACHE_PATH = path.join(__dirname, '../content/jobs-cache.json');
 
-function getOneWordRole(title) {
-  const t = title.toLowerCase();
-  if (t.includes('solidity')) return 'solidity';
-  if (t.includes('rust')) return 'rust';
-  if (t.includes('zk') || t.includes('zero knowledge') || t.includes('cryptograph')) return 'cryptography';
-  if (t.includes('frontend') || /\b(ui|ux)\b/i.test(t)) return 'frontend';
-  if (t.includes('backend')) return 'backend';
-  if (t.includes('full stack') || t.includes('fullstack')) return 'fullstack';
-  if (t.includes('devops') || t.includes('infrastructure')) return 'devops';
-  if (t.includes('security') || t.includes('audit')) return 'security';
-  if (/\bqa\b/i.test(t) || t.includes('testing') || t.includes('quality')) return 'qa';
-  if (t.includes('trader') || t.includes('quant')) return 'trader';
-  if (t.includes('product') || /\bpm\b/i.test(t)) return 'product';
-  if (t.includes('marketing') || t.includes('growth')) return 'marketing';
-  if (t.includes('community')) return 'community';
-  if (t.includes('devrel') || t.includes('developer relations')) return 'devrel';
-  if (t.includes('compliance') || t.includes('legal') || t.includes('mlro')) return 'compliance';
-  if (t.includes('recruiter') || t.includes('talent') || /\bhr\b/i.test(t)) return 'recruiting';
-  if (t.includes('onboarding')) return 'onboarding';
-  if (t.includes('supervisor')) return 'supervisor';
-  if (t.includes('manager')) return 'manager';
-  if (t.includes('analyst')) return 'analyst';
-  if (t.includes('developer')) return 'developer';
-  if (t.includes('engineer')) return 'engineer';
-  if (t.includes('designer')) return 'designer';
-  if (t.includes('writer')) return 'writer';
-  if (t.includes('sales') || t.includes('account') || t.includes('business development') || /\bbd\b/i.test(t)) return 'sales';
-  if (t.includes('operations') || /\bops\b/i.test(t)) return 'operations';
-  if (t.includes('architect')) return 'architect';
-  if (t.includes('intern')) return 'intern';
-  if (t.includes('associate') || t.includes('assistant')) return 'associate';
-  const words = t.replace(/[^a-z0-9\s]+/g, ' ').trim().split(/\s+/);
-  return words[0] || 'job';
-}
-
 const BLOCKED_COMPANIES = new Set([
   'notion', 'ashby', 'merge', 'salt ai', 'workable',
   'button', 'breeze', 'citadel securities', 'zipline',
@@ -207,125 +172,36 @@ const validJobs = rawJobs
     company: cleanCompanyName(cleanText(job.company)),
   }));
 
-const roleCounters = {};
-const existingSlugs = new Set(validJobs.map(j => j.slug).filter(Boolean));
-
-// --- Slug stability & preservation ---------------------------------------
-// A job's slug must survive refreshes: reuse the previous slug whenever the
-// employer URL identity matches, never reassign a retired slug to a
-// different posting, and record disappeared slugs in the legacy archive so
-// old links 308 to the live posting instead of 404ing.
 const ARCHIVE_PATH = path.join(__dirname, '../content/legacy-slugs-archive.json');
 let legacyArchive = {};
 try {
   if (fs.existsSync(ARCHIVE_PATH)) legacyArchive = JSON.parse(fs.readFileSync(ARCHIVE_PATH, 'utf-8'));
-} catch (e) { console.warn('  ⚠️ Could not read legacy archive:', e.message); }
-const archivedSlugs = new Set(Object.keys(legacyArchive));
-// Never mint over a live slug OR any slug that ever existed.
-const takenSlugs = new Set([...existingSlugs, ...archivedSlugs]);
-
-// Reserve every slug previously served by production. Archive entries cover
-// retired URLs only; live entries take precedence when old archive data
-// conflicts with the slug currently deployed.
-const identityToSlug = new Map();
-const preservedIdentityBySlug = new Map();
-try {
-  const repoRoot = path.join(__dirname, '..');
-  const prevRaw = execSync('git -C "' + repoRoot + '" show HEAD:content/jobs-cache.json', { maxBuffer: 128 * 1024 * 1024 }).toString('utf-8');
-  for (const job of JSON.parse(prevRaw)) {
-    if (!job || !job.slug) continue;
-    const k = getJobIdentity(job);
-    if (!k) continue;
-    preservedIdentityBySlug.set(job.slug, k);
-    if (!identityToSlug.has(k)) identityToSlug.set(k, job.slug);
-  }
 } catch (e) {
-  console.warn('  ⚠️ prior slug ownership scan skipped (no git HEAD cache):', e.message);
+  console.warn('  ⚠️ Could not read legacy archive:', e.message);
 }
-for (const [slug, entry] of Object.entries(legacyArchive)) {
-  if (!entry) continue;
-  const k = getJobIdentity({ id: entry.id, title: entry.title, company: entry.company, link: entry.link });
-  if (!k) continue;
-  if (!preservedIdentityBySlug.has(slug)) preservedIdentityBySlug.set(slug, k);
-  if (!identityToSlug.has(k)) identityToSlug.set(k, slug);
-}
-
-// Count existing role counts
-for (const s of existingSlugs) {
-  const m = s.match(/^([a-z]+)(\d+)$/);
-  if (m) {
-    const role = m[1];
-    const num = parseInt(m[2], 10);
-    roleCounters[role] = Math.max(roleCounters[role] || 0, num);
-  }
-}
-
-let updated = 0;
-let reused = 0;
-const assignedSlugs = new Set();
-const outputJobs = validJobs.map(job => {
-  if (job.slug && !assignedSlugs.has(job.slug)) {
-    const myIdentity = getJobIdentity(job);
-    const preservedIdentity = preservedIdentityBySlug.get(job.slug);
-    if (!preservedIdentity || !myIdentity || preservedIdentity === myIdentity) {
-      assignedSlugs.add(job.slug);
-      return job;
-    }
-  }
-  // Same posting as a previous refresh (matched by employer-URL identity)?
-  // Reuse its slug so the URL never churns.
-  const reuse = identityToSlug.get(getJobIdentity(job));
-  if (reuse && !assignedSlugs.has(reuse)) {
-    assignedSlugs.add(reuse);
-    reused++;
-    return { ...job, slug: reuse };
-  }
-  const role = getOneWordRole(job.title || 'job');
-  roleCounters[role] = (roleCounters[role] || 0) + 1;
-  let newSlug = `${role}${roleCounters[role]}`;
-  while (takenSlugs.has(newSlug) || assignedSlugs.has(newSlug)) {
-    roleCounters[role]++;
-    newSlug = `${role}${roleCounters[role]}`;
-  }
-  takenSlugs.add(newSlug);
-  assignedSlugs.add(newSlug);
-  updated++;
-  return { ...job, slug: newSlug };
-});
-
-// Preserve every retired slug: anything prod currently addresses (the last
-// committed file) or that entered this run but drops out of the output gets
-// an archive record (identity included) so old links 308 to the live posting
-// instead of 404ing.
-const outSlugs = new Set(outputJobs.map(j => j.slug));
+const validIdentities = new Set(validJobs.map((j) => getJobIdentity(j)));
 let archivedCount = 0;
-const retireSlug = (slug, job) => {
-  if (!slug || outSlugs.has(slug) || legacyArchive[slug]) return;
-  legacyArchive[slug] = { id: job.id, link: job.link, company: job.company, title: job.title };
-  archivedCount++;
-};
-// (a) entries dropped by prebake's own filters (blocked/placeholder roles)
 for (const job of rawJobs) {
-  if (!job || typeof job !== 'object') continue;
-  retireSlug(job.slug, job);
-}
-// (b) entries dropped upstream by ingest (never reach prebake): compare
-// against the last committed file, which is what prod currently serves.
-// Scoped with -C to the repo root so a stray cwd can never diff the wrong tree.
-try {
-  const repoRoot = path.join(__dirname, '..');
-  const prevRaw = execSync('git -C "' + repoRoot + '" show HEAD:content/jobs-cache.json', { maxBuffer: 128 * 1024 * 1024 }).toString('utf-8');
-  for (const job of JSON.parse(prevRaw)) {
-    if (!job || typeof job !== 'object') continue;
-    retireSlug(job.slug, job);
+  if (!job || !job.slug) continue;
+  if (validIdentities.has(getJobIdentity(job))) continue;
+  if (!legacyArchive[job.slug]) {
+    legacyArchive[job.slug] = {
+      id: job.id,
+      link: job.link,
+      company: job.company,
+      title: job.title,
+    };
+    archivedCount += 1;
   }
-} catch (e) {
-  console.warn('  ⚠️ slug-retirement scan skipped (no git HEAD cache):', e.message);
 }
 if (archivedCount > 0) {
   fs.writeFileSync(ARCHIVE_PATH, JSON.stringify(legacyArchive, null, 2));
   console.log(`  ${archivedCount} retired slugs preserved in legacy archive`);
 }
 
-fs.writeFileSync(CACHE_PATH, JSON.stringify(outputJobs, null, 2));
-console.log(`\n✅ Done in ${Date.now()-t0}ms — ${updated} new slugs added, ${reused} reused by identity, ${outputJobs.length} total valid jobs saved`);
+fs.writeFileSync(CACHE_PATH, JSON.stringify(validJobs, null, 2));
+execSync('npx tsx scripts/assign-job-slugs.ts', {
+  stdio: 'inherit',
+  cwd: path.join(__dirname, '..'),
+});
+console.log(`\n✅ Done in ${Date.now() - t0}ms — ${validJobs.length} total valid jobs saved`);

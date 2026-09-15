@@ -15,7 +15,9 @@
 import fs from 'fs';
 import { Resend } from 'resend';
 import { getJobs } from '@/lib/jobs';
+import { getJobPublicUrl } from '@/lib/job-slugs';
 import type { JobListing } from '@/lib/email';
+import type { Job } from '@/types';
 
 const GENERAL_SEGMENT_ID = '2db4b31c-7b5b-46b9-b2b1-98ae142d289b';
 
@@ -31,8 +33,8 @@ const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://hashtagweb3.com';
 const UTM = 'utm_source=newsletter&utm_medium=email&utm_campaign=daily-job-alerts';
 const STATE_FILE = new URL('../.resend-broadcast-sent.json', import.meta.url).pathname;
 
-function jobUrl(id: string): string {
-  return `${siteUrl}/jobs/${id}?${UTM}`;
+function jobUrl(job: Job): string {
+  return `${getJobPublicUrl(job, siteUrl)}?${UTM}`;
 }
 
 function loadSentIds(): Set<string> {
@@ -149,7 +151,7 @@ async function main() {
       company,
       location: job.location || 'Remote',
       salary: job.salary,
-      url: jobUrl(String(job.id)),
+      url: jobUrl(job as Job),
       tags: job.tags?.slice(0, 5) || [],
     });
     jobIds.push(String(job.id));

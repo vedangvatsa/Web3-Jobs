@@ -10,7 +10,12 @@ import * as fs from 'fs';
 import * as path from 'path';
 import Parser from 'rss-parser';
 import { load } from 'cheerio';
-import { getJobContentKey, getJobIdentity, getJobSlug } from '../src/lib/job-slugs';
+import {
+  getJobContentKey,
+  getJobIdentity,
+  assignJobSlugsAndSyncLegacyArchive,
+} from '../src/lib/job-slugs';
+import { loadJobLegacyArchive, writeJobLegacyArchive } from './lib/job-slug-assignment';
 import {
   buildJobDescriptionAliases,
   readJobDescriptionStore,
@@ -326,7 +331,7 @@ async function refreshJobsCache() {
     const existing = jobMap.get(identity);
     const nextJob = {
       ...job,
-      slug: existing?.slug || persistedSlugs.get(identity) || job.slug || getJobSlug(job),
+      slug: existing?.slug || persistedSlugs.get(identity) || job.slug,
     };
     jobMap.set(identity, nextJob);
     return !existing;
@@ -2099,16 +2104,11 @@ async function refreshJobsCache() {
     return true;
   });
 
-  // Guarantee 100% unique slugs across all jobs
-  const usedSlugs = new Set<string>();
-  for (const job of allJobs) {
-    let slug = job.slug || getJobSlug(job);
-    if (usedSlugs.has(slug)) {
-      const shortHash = getJobContentKey(job).replace('job-', '').slice(0, 4);
-      slug = `${slug}-${shortHash}`;
-    }
-    job.slug = slug;
-    usedSlugs.add(slug);
+  const legacyArchive = loadJobLegacyArchive();
+  const legacyAdded = assignJobSlugsAndSyncLegacyArchive(allJobs, legacyArchive);
+  if (legacyAdded > 0) {
+    writeJobLegacyArchive(legacyArchive);
+    console.log(`Retired ${legacyAdded} job slug(s) into legacy archive for old links`);
   }
 
   // Sort newest first
