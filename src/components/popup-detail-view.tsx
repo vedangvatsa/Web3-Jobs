@@ -22,9 +22,11 @@ import { popupCoverImagePaths } from '@/lib/popup-gallery';
 import { getNsDashboardUrl } from '@/lib/popup-ns';
 import { getPopupPath } from '@/lib/popup-seo';
 import {
+  extractVenueNamesFromLocationDetails,
   groupAmenityLines,
   groupPricingLines,
   parseHistoryLines,
+  parseLocationDetailLines,
   proseLines,
 } from '@/lib/popup-detail-sections';
 import type { Popup, PopupSocials } from '@/types/popup';
@@ -82,6 +84,44 @@ function ProseSection({
   );
 }
 
+function LocationSection({
+  lines,
+  nsDashboardUrl,
+}: {
+  lines: string[];
+  nsDashboardUrl?: string | null;
+}) {
+  const { intro, places, other } = parseLocationDetailLines(lines);
+  if (!intro && !places.length && !other.length) return null;
+
+  return (
+    <section className="mt-10">
+      <h2 className="mb-3 text-lg font-bold tracking-tight">Location</h2>
+      {intro ? (
+        <p className="mb-3 break-words text-sm leading-relaxed text-muted-foreground">
+          <PopupRichText text={intro} nsDashboardUrl={nsDashboardUrl} />
+        </p>
+      ) : null}
+      {places.length > 0 ? (
+        <ul className="mb-3 list-disc space-y-2 pl-5">
+          {places.map((place) => (
+            <li key={place.name} className="break-words text-sm leading-relaxed text-muted-foreground">
+              <span className="font-medium text-foreground">{place.name}</span>
+              {'. '}
+              <PopupRichText text={place.detail} nsDashboardUrl={nsDashboardUrl} />
+            </li>
+          ))}
+        </ul>
+      ) : null}
+      {other.map((line) => (
+        <p key={line} className="break-words text-sm leading-relaxed text-muted-foreground">
+          <PopupRichText text={line} nsDashboardUrl={nsDashboardUrl} />
+        </p>
+      ))}
+    </section>
+  );
+}
+
 function GroupedSection({
   title,
   groups,
@@ -97,19 +137,31 @@ function GroupedSection({
       <h2 className="mb-3 text-lg font-bold tracking-tight">{title}</h2>
       <div className="space-y-5">
         {groups.map((group) => (
-          <div key={`${title}-${group.title ?? group.items[0]}`}>
+          <div key={`${title}-${group.title ?? group.intro ?? group.items[0] ?? 'group'}`}>
             {group.title ? (
               <h3 className="mb-2 text-sm font-medium text-foreground">
                 <PopupRichText text={group.title} nsDashboardUrl={nsDashboardUrl} />
               </h3>
             ) : null}
-            <ul className="space-y-1.5">
-              {group.items.map((item) => (
-                <li key={item} className="break-words text-sm leading-relaxed text-muted-foreground">
-                  • <PopupRichText text={item} nsDashboardUrl={nsDashboardUrl} />
-                </li>
-              ))}
-            </ul>
+            {group.intro ? (
+              <p className="mb-2 break-words text-sm leading-relaxed text-muted-foreground">
+                <PopupRichText text={group.intro} nsDashboardUrl={nsDashboardUrl} />
+              </p>
+            ) : null}
+            {group.items.length > 0 ? (
+              <ul className="list-disc space-y-1.5 pl-5">
+                {group.items.map((item) => (
+                  <li key={item} className="break-words text-sm leading-relaxed text-muted-foreground">
+                    <PopupRichText text={item} nsDashboardUrl={nsDashboardUrl} />
+                  </li>
+                ))}
+              </ul>
+            ) : null}
+            {group.footnote ? (
+              <p className="mt-2 break-words text-sm leading-relaxed text-muted-foreground">
+                <PopupRichText text={group.footnote} nsDashboardUrl={nsDashboardUrl} />
+              </p>
+            ) : null}
           </div>
         ))}
       </div>
@@ -174,7 +226,8 @@ export function PopupDetailView({ popup }: { popup: Popup }) {
   const history = popup.history ?? [];
   const durationNotes = popup.durationNotes ?? [];
   const locationDetails = popup.locationDetails ?? [];
-  const pricingGroups = groupPricingLines(pricing);
+  const venueNames = extractVenueNamesFromLocationDetails(locationDetails);
+  const pricingGroups = groupPricingLines(pricing, venueNames);
   const amenityGroups = groupAmenityLines(amenities);
   const narrative = composePopupNarrative(popup);
 
@@ -184,7 +237,7 @@ export function PopupDetailView({ popup }: { popup: Popup }) {
     '@context': 'https://schema.org',
     '@type': 'Organization',
     name: popup.name,
-    description: popup.summary,
+    description: formatPopupField(popup.summary),
     ...(popup.website ? { url: popup.website } : {}),
     ...(popup.image ? { logo: `https://hashtagweb3.com${popup.image}` } : {}),
     ...(sameAs.length ? { sameAs } : {}),
@@ -286,20 +339,16 @@ export function PopupDetailView({ popup }: { popup: Popup }) {
                     {websiteHost(popup.website)}
                   </OutboundLink>
                 ) : null}
-                {socials.length > 0 ? (
-                  <span className="inline-flex flex-wrap items-center gap-1.5">
-                    {socials.map(({ key, label, href, icon: Icon }) => (
-                      <OutboundLink
-                        key={key}
-                        href={href}
-                        label={`${popup.name} on ${label}`}
-                        className="inline-flex items-center justify-center text-muted-foreground transition-colors hover:text-foreground"
-                      >
-                        <Icon className="h-4 w-4" aria-hidden="true" />
-                      </OutboundLink>
-                    ))}
-                  </span>
-                ) : null}
+                {socials.map(({ key, label, href, icon: Icon }) => (
+                  <OutboundLink
+                    key={key}
+                    href={href}
+                    label={`${popup.name} on ${label}`}
+                    className="inline-flex items-center gap-1.5 hover:text-foreground"
+                  >
+                    <Icon className="h-4 w-4 shrink-0" aria-hidden="true" />
+                  </OutboundLink>
+                ))}
               </div>
             </div>
           </div>
@@ -318,7 +367,7 @@ export function PopupDetailView({ popup }: { popup: Popup }) {
           ))}
         </section>
 
-        <ProseSection title="Location" lines={locationDetails} nsDashboardUrl={nsDashboardUrl} />
+        <LocationSection lines={locationDetails} nsDashboardUrl={nsDashboardUrl} />
         <ProseSection title="Duration" lines={durationNotes} nsDashboardUrl={nsDashboardUrl} />
         <GroupedSection title="Pricing" groups={pricingGroups} nsDashboardUrl={nsDashboardUrl} />
         <GroupedSection title="Amenities" groups={amenityGroups} nsDashboardUrl={nsDashboardUrl} />

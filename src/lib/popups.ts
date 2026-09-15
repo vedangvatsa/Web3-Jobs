@@ -36,9 +36,9 @@ export const popupData: Popup[] = [
       "4Seas keeps a standing Zuzalu-inspired base in Chiang Mai instead of dissolving after each popup season.",
       "The hub mixes coliving, coworking, and Ethereum cultural programming for longer-term residents and visitors.",
       "It is one of the clearest examples of a temporary movement hardening into a permanent node.",
-      "The majority of gatherings—from knowledge shares to spontaneous social meetups—are initiated by 4Seas's residents and friends in Chiang Mai, supported by the 4Seas to make every idea a reality.",
+      "The majority of gatherings, from knowledge shares to spontaneous social meetups, are initiated by 4Seas's residents and friends in Chiang Mai, supported by the 4Seas to make every idea a reality.",
       "More than just an event, Zuzalu is a growing network of interconnected communities, fostering open innovation, shared knowledge, and real-world impact.",
-      "As part of this movement, 4Seas provides a lasting hub for cypherpunks, digital nomads, and visionaries to connect, build, and experiment—extending Zuzalu’s legacy in Chiang Mai."
+      "As part of this movement, 4Seas provides a lasting hub for cypherpunks, digital nomads, and visionaries to connect, build, and experiment, extending Zuzalu’s legacy in Chiang Mai."
     ],
     "coverImages": [
       "/popups/xyz/4seas/4seasgallery1.webp",
@@ -326,13 +326,13 @@ export const popupData: Popup[] = [
       "Amagi is a regenerative village model that combines long-term living, shared stewardship of land, and a living economic system.",
       "It is designed to support people who want stability, autonomy, and meaningful contribution without the pressure of conventional home ownership or extractive development.",
       "Amagi exists to address three failures at once: unaffordable housing, fragile communities, and extractive development.",
-      "Amagi Life are building a practical alternative where people can live securely, contribute meaningfully, and participate in shared upside—while regenerating land, culture, and local economies.",
+      "Amagi Life are building a practical alternative where people can live securely, contribute meaningfully, and participate in shared upside, while regenerating land, culture, and local economies.",
       "Amagi is the first recorded word for freedom, originating in ancient Sumer.",
-      "It roughly translates to “return to the mother” or “return to freedom”—not escape from responsibility, but liberation through restoration and integration.",
+      "It roughly translates to “return to the mother” or “return to freedom”, not escape from responsibility, but liberation through restoration and integration.",
       "Amagi is built on regenerative land stewardship, shared ownership without forced collectivism, long-term affordability, and a living economic model that rewards contribution rather than extraction.",
       "Amagi is looking for people who are self-responsible, emotionally mature, capable of cooperation, and interested in contributing to something larger than themselves.",
       "It is not a place for passive consumption or ideological conformity.",
-      "In this current phase, Amagi is explicitly seeking early adopters — people who are open, adventurous, and comfortable stepping into a living project that is still taking shape.",
+      "In this current phase, Amagi is explicitly seeking early adopters, people who are open, adventurous, and comfortable stepping into a living project that is still taking shape.",
       "Life here involves ambiguity, experimentation, and a willingness to participate while things are still rough around the edges.",
       "What unites these profiles is not profession or status, but posture: a long-term orientation, tolerance for uncertainty, and a genuine desire to help shape where and how they live."
     ],
@@ -425,14 +425,14 @@ export const popupData: Popup[] = [
       "Workshops, lectures, and events"
     ],
     "history": [
-      "2024 - Arc Lisbon pop-up (September–October), with Lisbon Web3 and tech community partners",
+      "2024 - Arc Lisbon pop-up (September-October), with Lisbon Web3 and tech community partners",
       "As of 2026, rc is permanently and continuously at Network School",
       "The project is looking for a special economic zone to build a city that will bring talent, capital and innovation to its"
     ],
     "durationNotes": [
       "Permanent founder community at Asaya, Mirissa, with ongoing programming",
       "Historical pop-up villages typically ran about one to two months",
-      "First Capital Startup Nation 2026: 28 September–1 October in Colombo",
+      "First Capital Startup Nation 2026: 28 September-1 October in Colombo",
       "rc has a permanent residency at Network School and a permanent outpost in the charter city of Próspera",
       "In addition, rc's pop-up villages last from 1 to 2 months",
       "rc organizes pop-up villages as the means of drawing attention to the possibility and importance",
@@ -459,21 +459,21 @@ export const popupData: Popup[] = [
         "url": "https://x.com/UVK1212/status/1974337978970616076",
         "author": "Kash",
         "username": "UVK1212",
-        "text": "At Ârc, we're building a charter city. starting with the first permanent Layer 2 at Network School in Forest City. From here, the model can scale to future nodes, maybe even your city.",
+        "text": "At rc, we're building a charter city. starting with the first permanent Layer 2 at Network School in Forest City. From here, the model can scale to future nodes, maybe even your city.",
         "date": "2025-10-04"
       },
       {
         "url": "https://x.com/vrneth/status/1974046732829810849",
         "author": "vrn.eth",
         "username": "vrneth",
-        "text": "The relationship between Ârc and Network School is a fascinating one and provides learnings for how similar projects globally can work together.",
+        "text": "The relationship between rc and Network School is a fascinating one and provides learnings for how similar projects globally can work together.",
         "date": "2025-10-03"
       },
       {
         "url": "https://x.com/rami_decodes/status/1968863630432035133",
         "author": "Rami",
         "username": "rami_decodes",
-        "text": "Mr James of Arc on stage launching the  Arc experience as Layer 2 of the Network School. This is the frontier for founders!",
+        "text": "Mr James of Arc on stage launching the Arc experience as Layer 2 of the Network School. This is the frontier for founders!",
         "date": "2025-09-19"
       }
     ]
@@ -1034,7 +1034,7 @@ export const popupData: Popup[] = [
       "On-site retailers span food, wellness, clothing, and neighborhood services.",
       "Phase-one openings in 2023 proved demand for car-free infill next to light rail in greater Phoenix.",
       "By 2025 Culdesac reports more than three hundred residents and twenty on-site businesses operating in the Tempe district.",
-      "View Floor Plans Schedule Tour Welcome To Culdesac Tempe First walkable community of its kind — embracing a culture of belonging, transportation freedom, and thriving local businesses.",
+      "View Floor Plans Schedule Tour Welcome To Culdesac Tempe First walkable community of its kind, embracing a culture of belonging, transportation freedom, and thriving local businesses.",
       "Culdesac courtyards, shared spaces, and events make it easy to build community.",
       "As a resident, you'll receive unlimited free rides on the metro, free & discounted rideshare and ridehail, as well as Bird scooters just a moment away.",
       "You're just a quick stroll away from all your essentials at the corner market, a quick haircut, or a cozy dinner at Cocina Chiwas.",
@@ -1074,7 +1074,7 @@ export const popupData: Popup[] = [
         "url": "https://x.com/devonzuegel/status/1665547211889844227",
         "author": "Devon Zuegel",
         "username": "devonzuegel",
-        "text": "Just got a tour of Culdesac Tempe and it was awesome. I caught myself daydreaming about living there while wandering the new neighborhood's paseos and courtyards – and I'd never even considered living in Arizona before!",
+        "text": "Just got a tour of Culdesac Tempe and it was awesome. I caught myself daydreaming about living there while wandering the new neighborhood's paseos and courtyards-and I'd never even considered living in Arizona before!",
         "date": "2023-06-05"
       },
       {
@@ -1088,14 +1088,14 @@ export const popupData: Popup[] = [
         "url": "https://x.com/culdesac/status/1817288964824277428",
         "author": "culdesac",
         "username": "culdesac",
-        "text": "A big reason so many Americans miss college is because it's the only time they've ever lived in a walkable community. \n\nThat doesn't have to be the case. At Culdesac, we're showing that building walkable neighborhoods is possible in the U.S. again.",
+        "text": "A big reason so many Americans miss college is because it's the only time they've ever lived in a walkable community.\n\nThat doesn't have to be the case. At Culdesac, we're showing that building walkable neighborhoods is possible in the U. S. again.",
         "date": "2024-07-27"
       },
       {
         "url": "https://x.com/culdesac/status/1882866065329262872",
         "author": "culdesac",
         "username": "culdesac",
-        "text": "When we pitched Culdesac 7 years ago, the real estate industry laughed us out of the room. \n\nNow, with over 300 residents and  20+ local businesses in the neighborhood, they want to use our model. Thank you to all who believed in us from the start.\n\nMore big things coming soon! https://t.co/ju0FFyLkIZ",
+        "text": "When we pitched Culdesac 7 years ago, the real estate industry laughed us out of the room.\n\nNow, with over 300 residents and 20+ local businesses in the neighborhood, they want to use our model. Thank you to all who believed in us from the start.\n\nMore big things coming soon! https://t.co/ju0FFyLkIZ",
         "date": "2025-01-24"
       }
     ],
@@ -1264,7 +1264,7 @@ export const popupData: Popup[] = [
       "ETHiopia's pop-up village lasted 1 month",
       "The flagship ETHiopia pop-up ran for one month in Addis Ababa.",
       "Accommodation and meals were not included in the free application-based ticket.",
-      "In January 2025, it hosted ETHiopia Pop-up , a one-month event in Addis Ababa that brought together over 100 participants for hackathons, conferences, and discussions on blockchain adoption."
+      "In January 2025, it hosted ETHiopia Pop-up, a one-month event in Addis Ababa that brought together over 100 participants for hackathons, conferences, and discussions on blockchain adoption."
     ],
     "locationDetails": [
       "ETHiopia's pop-up village took place in Addis Ababa, Ethiopia"
@@ -1332,7 +1332,7 @@ export const popupData: Popup[] = [
     "durationNotes": [
       "Forma’s pop-up villages last one to two weeks",
       "Join Residency Text Locky The internet is the fastest growing economy.",
-      "2 0 2 3 Join Residency Text Locky B u i l d s o m e t h i n g o n t h e i n t e r n e t , i t w i l l c h a n g e y o u r l i f e ."
+      "2 0 2 3 Join Residency Text Locky B u i l d s o m e t h i n g o n t h e i n t e r n e t, i t w i l l c h a n g e y o u r l i f e ."
     ],
     "locationDetails": [
       "Forma doesn’t own a permanent hub",
@@ -1357,7 +1357,7 @@ export const popupData: Popup[] = [
         "url": "https://x.com/solana/status/1861863194144174592",
         "author": "Solana",
         "username": "solana",
-        "text": "What happens when techno-optimistic policy meets ambitious founders?\n\nEnter @formacity — building Solana Economic Zones to accelerate progress.",
+        "text": "What happens when techno-optimistic policy meets ambitious founders?\n\nEnter @formacity, building Solana Economic Zones to accelerate progress.",
         "date": "2024-11-28"
       },
       {
@@ -1478,7 +1478,7 @@ export const popupData: Popup[] = [
         "url": "https://x.com/frontiertower/status/2044836944002404356",
         "author": "Frontier Tower",
         "username": "frontiertower",
-        "text": "The real reason founders move to SF isn't the capital.\nIt's the hallway conversations.\n\nSo we built a hallway.",
+        "text": "The real reason founders move to SF isn't the capital.\n\nIt's the hallway conversations.\n\nSo we built a hallway.",
         "date": "2026-04-17"
       }
     ]
@@ -1528,7 +1528,7 @@ export const popupData: Popup[] = [
     "history": [],
     "durationNotes": [
       "Typical Futura Camp / ZuBerlin residencies run about two weeks.",
-      "June 2026 programming is scheduled for June 13–22 at Funkhaus Berlin.",
+      "June 2026 programming is scheduled for June 13-22 at Funkhaus Berlin.",
       "A highly curated residency offering a unique blend of cutting edge learning and deep immersive experience.",
       "They recently rebranded to Futura Camp and aim to create a highly curated residency that brings researchers, founders, and technologists together.",
       "Participants engage in principled discussions on topics like protocol architecture, cryptography, MEV, sovereign AI, future cities, and more while integrating with onsite partner events during Berlin Blockchain Week.",
@@ -2011,9 +2011,9 @@ export const popupData: Popup[] = [
       "IslandDAO runs monthlong coworking and community popups with a Solana-native culture.",
       "Mykonos is a named geography, but the operating pattern is location-flexible.",
       "Expect builder density first, jurisdiction theater second.",
-      "Every IslandDAO retreat is island-based and chosen for inspiration and productivity — fast wifi, coworking spots, always with the right people in the room.",
+      "Every IslandDAO retreat is island-based and chosen for inspiration and productivity, fast wifi, coworking spots, always with the right people in the room.",
       "A team with an idea coming to the island to connect with mentors, builders and founders, and win.",
-      "Solana curious — the best place to enter the ecosystem.",
+      "Solana curious, the best place to enter the ecosystem.",
       "Find your first users and power users, to give you invaluable feedback for your startup.",
       "Get first access to event applications, ecosystem updates, and what's happening in the IslandDAO community.",
       "IslandDAO, formerly known as Dean's List DAO, is a Web3-native network state on Solana.",
@@ -2132,7 +2132,7 @@ export const popupData: Popup[] = [
       {
         "platform": "linkedin",
         "embedUrl": "https://www.linkedin.com/embed/feed/update/urn:li:activity:7394050793152114688",
-        "label": "Itana Residency Launchpad — Tope Emiola",
+        "label": "Itana Residency Launchpad, Tope Emiola",
         "viewUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7394050793152114688"
       },
       {
@@ -2243,11 +2243,11 @@ export const popupData: Popup[] = [
       "Logos is for people who are done waiting for permission.",
       "226 Node Operators A decentralised network of independent Node operators ensuring Logos is secure.",
       "47 Circles Local chapters of activists and change seekers solving real world issues.",
-      "19 Winnable Issues Local issues that Circles identify and solve – from privacy tech to community funding.",
+      "19 Winnable Issues Local issues that Circles identify and solve-from privacy tech to community funding.",
       "Contributors 151 An open source community of builders, researchers, and technologists.",
       "Node Operators 226 A decentralised network of independent Node operators ensuring Logos is secure.",
       "Circles 47 Local chapters of activists and change seekers solving real world issues.",
-      "Winnable Issues 19 Local issues that Circles identify and solve – from privacy tech to community funding."
+      "Winnable Issues 19 Local issues that Circles identify and solve-from privacy tech to community funding."
     ],
     "image": "/popups/xyz/logos/logo.webp",
     "coverImages": [
@@ -2310,7 +2310,7 @@ export const popupData: Popup[] = [
     "body": [
       "Montelibero is an intentional community and social movement in Montenegro organized around non-aggression and self-organization.",
       "Unlike short popups, it aims at durable local presence in Pečurice.",
-      "Главное Montelibero project — это открытый социальный эксперимент по проверке гипотез о глобальных конкурентных преимуществах принципов свободы, ненападения, добровольных контрактов и самоорганизации.",
+      "Главное Montelibero project, это открытый социальный эксперимент по проверке гипотез о глобальных конкурентных преимуществах принципов свободы, ненападения, добровольных контрактов и самоорганизации.",
       "The Montelibero Project is a social experiment in Montenegro that aims to build a sustainable, successful society on a national scale by combining libertarian and panarchist ideas with local cultural characteristics."
     ],
     "coverImages": [
@@ -2390,7 +2390,7 @@ export const popupData: Popup[] = [
       "Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
       "The program runs through bear markets and bull markets alike, with daily collaboration, sponsor workshops, and shipping pressure.",
       "2025 v7 Summit v7 summit runs in Salt Lake City; project directory launches.",
-      "2026 v9 Summit v9 summit runs Feb 1–28 in Salt Lake City."
+      "2026 v9 Summit v9 summit runs Feb 1-28 in Salt Lake City."
     ],
     "coverImages": [
       "/popups/mtndao/mountaindaogallery1.webp",
@@ -2500,7 +2500,7 @@ export const popupData: Popup[] = [
     ],
     "locationDetails": [
       "Network School’s current campus is in Astana, Kazakhstan; ns.com lists Astana Hub (fifth floor) and partnership with the Republic of Kazakhstan.",
-      "Former campus: Forest City, Malaysia (Singapore–Johor SEZ), from 2024 until the July 2026 closure.",
+      "Former campus: Forest City, Malaysia (Singapore-Johor SEZ), from 2024 until the July 2026 closure.",
       "Kazakhstan reopening: September 2, 2026, with state support per public Network School materials.",
       "Future nodes are planned globally per Network School’s roadmap."
     ],
@@ -2514,7 +2514,7 @@ export const popupData: Popup[] = [
         "url": "https://x.com/jason/status/1929759890752589950",
         "author": "jason",
         "username": "jason",
-        "text": "I just visited Balaji's Network School — it's gritty AND pretty.\n\nPerfect place for founders to camp out and find product market fit with other founders.",
+        "text": "I just visited Balaji's Network School, it's gritty AND pretty.\n\nPerfect place for founders to camp out and find product market fit with other founders.",
         "date": "2025-06-03"
       },
       {
@@ -2702,7 +2702,7 @@ export const popupData: Popup[] = [
       "A g l o b a l c o l i v i n g e c o s y s t e m.",
       "A place to stay for those who love to move.",
       "A global co-living ecosystem of modern, high-quality housing 400+ Members Become part of the nomad nation 12 NODES Buy floor plans to build your own NODE, or find a NODE to rent or buy in Nomad's global network.",
-      "Apply To Join Why Nomad Nation Why Nomad Nation More than just a place to stay–build community, memories, and legacy with an aligned group of movers and shakers.",
+      "Apply To Join Why Nomad Nation Why Nomad Nation More than just a place to stay-build community, memories, and legacy with an aligned group of movers and shakers.",
       "Join for free by downloading Nomad's app or making an account on desktop today.",
       "Build or buy your own NODE and add it to the NOMAD network.",
       "Raleigh, USA 30 Rock Quarry Village Stage Renting Units Nomad are building a 30 unit community with a massive, black diamond shaped community building for co-living and co-working.",
@@ -2800,7 +2800,7 @@ export const popupData: Popup[] = [
     ],
     "locationDetails": [
       "CAMPUS, Praxis’s 4-day pop-up city, took place in Punta Cana, Dominican Republic",
-      "CAMPUS , Praxis’s 4-day pop-up city, took place in Punta Cana, Dominican Republic ."
+      "CAMPUS, Praxis’s 4-day pop-up city, took place in Punta Cana, Dominican Republic ."
     ],
     "overview": [
       "Praxis is a digital nation crowdfunding a physical city to restore Western Civilization through crypto, AI, biotech, and energy innovation",
@@ -2869,7 +2869,7 @@ export const popupData: Popup[] = [
       "Próspera (e)Residency is required to access Próspera physically or online and comes in three types:",
       "Visitor Pass for short stays",
       "Free but limited (no company or real estate ownership)",
-      "e‑Residency for 30 days/year of physical access",
+      "e-Residency for 30 days/year of physical access",
       "$130/year. Full business rights",
       "Residency for full year physical access",
       "$390$/year including mandatory insurance. Full business rights"
@@ -2946,7 +2946,7 @@ export const popupData: Popup[] = [
       "Early startups pay room and board while established companies lease land for scaled testing.",
       "Machine shops, housing, and outdoor ranges stay on the same Texas ranch so teams can iterate hardware without shipping prototypes across town.",
       "Proto-Town describes itself as a dense manufacturing ecosystem rather than a single coworking house.",
-      "Proto-Town PT-01 | PROTO-TOWN BROADCAST LIVE | Careers NOW LIVE FROM THE PROTO-TOWN RADIO BOOTH FEED — PROTO-TOWN, USA Stream is currently offline ● REC CAM-01 ▶ TUNE IN ♫ KLKT 107.9 FM STANDBY VOL proto.town | Careers 32.4°N 97.8°W.",
+      "Proto-Town PT-01 | PROTO-TOWN BROADCAST LIVE | Careers NOW LIVE FROM THE PROTO-TOWN RADIO BOOTH FEED, PROTO-TOWN, USA Stream is currently offline ● REC CAM-01 ▶ TUNE IN ♫ KLKT 107.9 FM STANDBY VOL proto.town | Careers 32.4°N 97.8°W.",
       "Proto-Town - A place to build hardware in Lockhart, Texas.",
       "Proto-Town combines housing, machine shops, testing grounds, and manufacturing facilities at a single address.",
       "Founders live on-site to build and test physical technologies, including autonomous bulldozers, drones, robotics, and nuclear research equipment.",
@@ -3182,14 +3182,14 @@ export const popupData: Popup[] = [
         "url": "https://x.com/Cryptotracy27/status/1840348176760643595",
         "author": "Tracy大表姐",
         "username": "Cryptotracy27",
-        "text": "Great to see that ShanHaiWoo, a web3 community  with Chinese roots, is making its debut in Chiang Mai.",
+        "text": "Great to see that ShanHaiWoo, a web3 community with Chinese roots, is making its debut in Chiang Mai.",
         "date": "2024-09-29"
       },
       {
         "url": "https://x.com/robinsoncodes/status/2002073040981778537",
         "author": "allanrobinson",
         "username": "robinsoncodes",
-        "text": "Grateful to have been part of ShanHaiWoo Singapore 2025 an incredible experience. Learned a lot, built meaningful projects & made lasting connections with amazing people  around the world. Huge respect to the team for making this happen.",
+        "text": "Grateful to have been part of ShanHaiWoo Singapore 2025 an incredible experience. Learned a lot, built meaningful projects & made lasting connections with amazing people around the world. Huge respect to the team for making this happen.",
         "date": "2025-12-20"
       }
     ]
@@ -3343,7 +3343,7 @@ export const popupData: Popup[] = [
       "the-mu hosts pop-up villages across various continents, though its roots are in Asia",
       "2024 muBuenos Ran a 6 week grant supported and developer focused popup city in Buenos Aires.",
       "2024 muAccra Organized a 2 week popup city in Ghana to expand network reach into Africa.",
-      "In 2023, it hosted muChiangMai , the first web3 pop-up city in Southeast Asia."
+      "In 2023, it hosted muChiangMai, the first web3 pop-up city in Southeast Asia."
     ],
     "overview": [
       "the-mu is a community of digital nomads organizing pop-up cities focused on blockchain, cryptography, and web3 technologies"
@@ -3557,19 +3557,19 @@ export const popupData: Popup[] = [
       "Vibecamp is a festival-shaped gathering for online communities that want a high-trust IRL week.",
       "It is less jurisdiction and more culture: temporary intensity, then back to the timeline.",
       "Include it when you are mapping popup-adjacent gatherings, not only SEZs.",
-      "Vibecamp is a four-day gathering for curious, creative, openness-loving people — part festival, part unconference, part summer camp for nerdy adults (though some of them bring their children!).",
+      "Vibecamp is a four-day gathering for curious, creative, openness-loving people, part festival, part unconference, part summer camp for nerdy adults (though some of them bring their children!).",
       "Founded in 2021, the 500-person event takes over a sprawling venue in Maryland every June.",
       "Wanna see what people did (and didn't) like about Vibecamp's events?",
-      "675 survey responses — publicly browsable by gender, age, sexuality, and whether they'd attended before.",
+      "675 survey responses, publicly browsable by gender, age, sexuality, and whether they'd attended before.",
       "(Yes, Vibecamp know the gender ratio could use some work, but hey, for an event attended by so many people in tech, it could be worse.) See the full data Who comes to Vibecamp?",
       "The common thread among Vibecampers is being high in openness-to-experience and kind to strangers.",
       "Attendees primarily come from a loose network of internet-adjacent communities: rationalists and post-rationalists, EAs, burners, tech folks of various stripes, along with writers, artists, therapists, lurkers, and various offline friends.",
       "You’ll be competing with the guy who comes dressed as a penguin handing out cans of sardines, and no fewer than four people who play theremins.",
-      "The Discord is the easiest way in — lurk, ask questions, or just show up ready to make friends.",
+      "The Discord is the easiest way in, lurk, ask questions, or just show up ready to make friends.",
       "Host something yourself, or come just to wander and see what unfolds.",
-      "\" at vibecamp, you might encounter someone explaining the fourier transform on a flip chart, consensual waterboarding, a pool party and see a guy interviewing people with his portable podcast setup — all in the span of like 60 seconds.",
+      "\" at vibecamp, you might encounter someone explaining the fourier transform on a flip chart, consensual waterboarding, a pool party and see a guy interviewing people with his portable podcast setup, all in the span of like 60 seconds.",
       "Attendee-decorated cabin When was the last time you touched grass, anon?",
-      "› Nights at Ramblewood — fairy lights AND fireflies Still have questions?",
+      "› Nights at Ramblewood, fairy lights AND fireflies Still have questions?",
       "A few of the most common ones from first-timers: Will I fit in?",
       "Vibecamp know most of you won't look at these, but for the minority of people who love to read everything, Vibecamp're working on having materials available.",
       "Vibecamp'll continue adding to these over time, and have a few more posts Vibecamp're working on that should be live soon.",
@@ -3596,7 +3596,7 @@ export const popupData: Popup[] = [
         "url": "https://x.com/SH2F088/status/2044488053998424168",
         "author": "Deep Learning",
         "username": "SH2F088",
-        "text": "When I'm in a \"normal\" social environment, I find people very approachable.  But, if I do, ~85% of the time I'm quickly bored. Vibecamp flips that around.  People are flying their freak flags, and can seem less approachable. But when I did apprroach, ~85% of the time it was great, often with a solid connection.",
+        "text": "When I'm in a \"normal\" social environment, I find people very approachable. But, if I do, ~85% of the time I'm quickly bored. Vibecamp flips that around. People are flying their freak flags, and can seem less approachable. But when I did apprroach, ~85% of the time it was great, often with a solid connection.",
         "date": "2026-04-16"
       },
       {
@@ -3713,12 +3713,12 @@ export const popupData: Popup[] = [
       "Bangkok editions anchor much of the programming, with Discord and Telegram coordinating between villages.",
       "The offer is practical: housing plus program density for people trying to launch.",
       "Web3Village is not just a hackathon slapped onto a beach.",
-      "It's an ecosystem incubator — a full-stack engine for Web3 innovation, community, and lasting impact.",
+      "It's an ecosystem incubator, a full-stack engine for Web3 innovation, community, and lasting impact.",
       "Since 2022, Web3 Villages’ve hosted immersive Web3Villages in Hội An, Chiang Mai, and Bangkok.",
       "Scaling from popups to permanent infrastructure is Web3 Villages's next big move, and Đà Nẵng is ground zero.",
       "The Format Shared dinners, daily rituals, flexible build hours Rapid iteration, social experimentation, deep collaboration A blend of “semester + startup sprint” that accelerates real outcomes Da Nang ?",
       "This is the hub where Web3 Villages will connect with global hubs all over the world.",
-      "Interdisciplinary collision Web3 meets AI, robotics, civic tech — sparks unpredictable breakthroughs."
+      "Interdisciplinary collision Web3 meets AI, robotics, civic tech, sparks unpredictable breakthroughs."
     ],
     "coverImages": [
       "/popups/xyz/web3-villages/people.webp",
@@ -3738,7 +3738,7 @@ export const popupData: Popup[] = [
     ],
     "durationNotes": [
       "Web3 Villages pop-up villages typically last 1 week, offering semi-permanent co-living and building experiences",
-      "Every year, hundreds of builders live, learn, and launch real products — not just demos."
+      "Every year, hundreds of builders live, learn, and launch real products, not just demos."
     ],
     "locationDetails": [
       "Web3 Villages has hosted pop-up villages across Asia, including Thailand and Vietnam"
@@ -3873,7 +3873,7 @@ export const popupData: Popup[] = [
       "Building ties with USA, Europe and other Global tech hubs.",
       "Participants will design, test, and take part in governance experiments that allow communities to self-organize in a transparent, scalable way.",
       "The track will also organize dialogue with key policy makers and decision makers to understand the future of innovation in India.",
-      "It emphasizes the development of public goods—resources that benefit everyone but are often underfunded in traditional markets.",
+      "It emphasizes the development of public goods, resources that benefit everyone but are often underfunded in traditional markets.",
       "Participants will explore innovative funding models and decentralized grant systems that support public goods, ranging from infrastructure projects to open-source technologies.",
       "Zu-Grama will also explore the intersection of translational research in the longevity space and decentralized science (DeSci).",
       "The track aims to explore how AI can be used to solve global challenges, improve decentralized infrastructures and build systems that won't put humanity in a locked in state.",
@@ -3918,7 +3918,7 @@ export const popupData: Popup[] = [
         "url": "https://x.com/titaniumals/status/1966426196964757822",
         "author": "Almas",
         "username": "titaniumals",
-        "text": "Staunch believers of Pop up culture and carrying on the legacy  of Zu-Grama India. Make way folks.",
+        "text": "Staunch believers of Pop up culture and carrying on the legacy of Zu-Grama India. Make way folks.",
         "date": "2025-09-12"
       },
       {
@@ -3997,7 +3997,7 @@ export const popupData: Popup[] = [
       "ZuAfrique hosts temporary pop-up villages that typically last 3 weeks",
       "April 15 - May 6, 2025",
       "April 12 - May 3, 2026",
-      "In 2026, ZuAfrique hosts ZuAfrique 2.0 , a three-week pop-up village in Kenya."
+      "In 2026, ZuAfrique hosts ZuAfrique 2.0, a three-week pop-up village in Kenya."
     ],
     "locationDetails": [
       "ZuAfrique focuses its operations in Africa, specifically in Kilifi, Kenya"
@@ -4056,7 +4056,7 @@ export const popupData: Popup[] = [
       "A day pass starts at $21 and covers the desks, the venue, breakfast, and the people for a full day.",
       "Length-of-stay, group, and community discounts stack on top, and the checkout quotes the real price for your dates.",
       "Pay by card (default) or save 20% with USDC on Ethereum.",
-      "Yes, and local neighbors are the heart of ZuCity — not an audience for it.",
+      "Yes, and local neighbors are the heart of ZuCity, not an audience for it.",
       "Come by for a day of coworking, a shared dinner, or an event on a $21 day pass, and belong here without leaving home.",
       "ZuCity / ZuJapan are next to central Komoro along the historic Hokkoku Kaido street.",
       "Each ZuCity space has its own personality: the music lounge, the kitchen with homemade miso, the always expanding library, the rooms ZuCity / ZuJapan rebuilt ourselves.",
@@ -4117,7 +4117,7 @@ export const popupData: Popup[] = [
         "url": "https://x.com/tessla0x0/status/1882026150895255553",
         "author": "Tessla",
         "username": "tessla0x0",
-        "text": "Visited ZuJapan the other day and was intrigued by the design challenges of reviving an old city. Giving new life to abandoned homes—could Nagano be the next creative hub for artists and builders?",
+        "text": "Visited ZuJapan the other day and was intrigued by the design challenges of reviving an old city. Giving new life to abandoned homes, could Nagano be the next creative hub for artists and builders?",
         "date": "2025-01-22"
       }
     ]
@@ -4272,7 +4272,7 @@ export const popupData: Popup[] = [
       "ZuKas operates pop-up villages with varying durations",
       "ZuKas I lasted 10 days. ZuKas II runs for 30 days",
       "\" Michel Bauwens, Founder at P2P Foundation I strongly suggest you go to ZuKas next year...",
-      "\" Not enough Kaş in a year… need 2–3 events."
+      "\" Not enough Kaş in a year… need 2-3 events."
     ],
     "locationDetails": [
       "ZuKas pop-up cities are hosted in Kaş, Turkey, a coastal town in the ancient Lycian region"
@@ -4293,14 +4293,14 @@ export const popupData: Popup[] = [
         "url": "https://x.com/llalenas/status/1968236410273673696",
         "author": "lalena",
         "username": "llalenas",
-        "text": "Not enough Kaş in a year… need 2–3 events",
+        "text": "Not enough Kaş in a year… need 2-3 events",
         "date": "2025-09-17"
       },
       {
         "url": "https://x.com/tarikcanaytac/status/1954290780019020268",
         "author": "Tarikmetahub.eth",
         "username": "tarikcanaytac",
-        "text": "nd this will be living lab , not a spectator event. We will co create , co build and after ZuKaş we will gift the world new civic tech materials and ideas.",
+        "text": "nd this will be living lab, not a spectator event. We will co create, co build and after ZuKaş we will gift the world new civic tech materials and ideas.",
         "date": "2025-08-10"
       }
     ]
@@ -4393,21 +4393,21 @@ export const popupData: Popup[] = [
         "url": "https://x.com/Zuzalu_city/status/1888934652208927165",
         "author": "Zuzalu_city",
         "username": "Zuzalu_city",
-        "text": "Let's build tools together 🤝 Join the Zu_Builders Guild!  \n\nWe're forming the Zu_Builders Guild as a collective funding mechanism designed to support contributors over the long term.  \n\nWant to get involved? ⏬️ https://t.co/nZRSEloVYZ",
+        "text": "Let's build tools together 🤝 Join the Zu_Builders Guild!\n\nWe're forming the Zu_Builders Guild as a collective funding mechanism designed to support contributors over the long term.\n\nWant to get involved? ⏬️ https://t.co/nZRSEloVYZ",
         "date": "2025-02-10"
       },
       {
         "url": "https://x.com/Zuzalu_city/status/1904915108956168444",
         "author": "Zuzalu_city",
         "username": "Zuzalu_city",
-        "text": "Happy 2nd birthday, Zuzalu! 🎂✨ So grateful for #Zuzalu — for the friendships, the late‑night brainstorms, and all the memories we’ve made.\n\nAre you celebrating today with someone special you met here? ❤️ Tag them below and let’s spread the love! https://t.co/Fa9mdF6IrX",
+        "text": "Happy 2nd birthday, Zuzalu! 🎂✨ So grateful for #Zuzalu, for the friendships, the late-night brainstorms, and all the memories we’ve made.\n\nAre you celebrating today with someone special you met here? ❤️ Tag them below and let’s spread the love! https://t.co/Fa9mdF6IrX",
         "date": "2025-03-26"
       },
       {
         "url": "https://x.com/Zuzalu_city/status/1815418432604819831",
         "author": "Zuzalu_city",
         "username": "Zuzalu_city",
-        "text": "Announcing https://t.co/a2RvDCeHQ3 ALPHA Launch🔥\n\nWe’re thrilled to announce that the ZuCity Alpha is officially live with @zuvillage! Communities can now create spaces and manage events on ZuCity Alpha. \n\nThis is a major milestone for us, and we’re excited to share it with you.",
+        "text": "Announcing https://t.co/a2RvDCeHQ3 ALPHA Launch🔥\n\nWe’re thrilled to announce that the ZuCity Alpha is officially live with @zuvillage! Communities can now create spaces and manage events on ZuCity Alpha.\n\nThis is a major milestone for us, and we’re excited to share it with you.",
         "date": "2024-07-22"
       }
     ]

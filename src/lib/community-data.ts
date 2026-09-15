@@ -1,5 +1,5 @@
 
-import { BookOpen, BrainCircuit, Calculator, FileSignature, FileText, ListChecks, ClipboardEdit, UserMinus, Milestone, Smile, Scale, Users, Rss, Newspaper, BotMessageSquare, Linkedin, X, Globe, Mic } from 'lucide-react';
+import { BookOpen, BrainCircuit, Calculator, FileSignature, FileText, ListChecks, ClipboardEdit, UserMinus, Milestone, Scale, Users, Rss, Newspaper, BotMessageSquare, Linkedin, X, Globe, Mic, Building2 } from 'lucide-react';
 
 export const stats = [
   { value: '100k+', label: 'Web3 Professionals' },
@@ -223,7 +223,7 @@ export const resources = [
   { href:"/interview-feedback-template", label:"Interview Feedback", icon: Mic },
   { href:"/employee-exit-survey", label:"Employee Exit Survey", icon: UserMinus },
   { href:"/employee-milestones-tracker", label:"Milestones Tracker", icon: Milestone },
-  { href:"/employee-engagement-survey", label:"Engagement Survey", icon: Smile },
+  { href:"/popups", label:"Startup Societies", icon: Building2 },
   { href:"/work-life-balance-survey", label:"Work-Life Balance Survey", icon: Scale },
   { href:"/company-culture-guide", label:"Company Culture Guide", icon: Users },
 ];

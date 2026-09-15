@@ -1,4 +1,5 @@
 import { shouldDropPopupLine } from '@/lib/popup-copy-guard';
+import { normalizePopupDashes } from '@/lib/popup-dashes';
 
 /** Normalize popup copy for display (entities, mojibake, stray UI scrape). */
 export function formatPopupText(text: string): string {
@@ -21,6 +22,7 @@ export function formatPopupText(text: string): string {
   t = t.replace(/\b([a-z0-9]+)\.\s+(city|com|io|co|bt|ai|xyz|org|net)\b/gi, '$1.$2');
 
   t = t.replace(/\s+/g, ' ').trim();
+  t = normalizePopupDashes(t);
   t = t.replace(/\s+([.,;:])/g, '$1');
   t = t.replace(/\s+([,;])\s*/g, '$1 ');
   t = t.replace(/([.!?])\s*([A-Z])/g, '$1 $2');

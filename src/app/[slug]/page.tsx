@@ -52,7 +52,7 @@ import { getCompanySlug } from '@/lib/job-slugs';
 import { buildJobOgImageUrl, buildArticleOgImageUrl, buildCompanyOgImageUrl, resolveEventOgImageUrl, eventOgImageMimeType } from '@/lib/job-og';
 import { PopupDetailPage } from '@/components/popup-detail-page';
 import { getPopupBySlug } from '@/lib/popups';
-import { getPopupPath, isRootPopupSlug, popupPageMetadata, resolvePopupSlug } from '@/lib/popup-seo';
+import { getPopupPath, popupPageMetadata, resolvePopupSlug } from '@/lib/popup-seo';
 
 
 type ArticlePageProps = {
@@ -175,11 +175,12 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
     };
   }
 
-  const rootPopupSlug = resolvePopupSlug(params.slug);
-  if (isRootPopupSlug(rootPopupSlug) && params.slug === rootPopupSlug) {
-    const rootPopup = getPopupBySlug(rootPopupSlug);
-    if (rootPopup) {
-      return popupPageMetadata(rootPopup);
+  const popupSlug = resolvePopupSlug(params.slug);
+  const popupMeta = getPopupBySlug(popupSlug);
+  if (popupMeta && params.slug === popupSlug) {
+    const articleCollision = await getArticle(params.slug);
+    if (!articleCollision) {
+      return popupPageMetadata(popupMeta);
     }
   }
 
@@ -303,9 +304,9 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
   // Fall back to article
  const article = await getArticle(params.slug);
  if (!article) {
-  const popup = getPopupBySlug(params.slug);
+  const popup = getPopupBySlug(resolvePopupSlug(params.slug));
   if (popup) {
-    permanentRedirect(getPopupPath(popup.slug));
+    return popupPageMetadata(popup);
   }
   notFound();
  }
@@ -392,14 +393,15 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     return <CompanyDetailView slug={companyPage.slug} />;
   }
 
-  const rootPopupSlug = resolvePopupSlug(params.slug);
-  if (isRootPopupSlug(rootPopupSlug)) {
-    if (params.slug !== rootPopupSlug) {
-      permanentRedirect(getPopupPath(rootPopupSlug));
+  const popupSlug = resolvePopupSlug(params.slug);
+  const popup = getPopupBySlug(popupSlug);
+  if (popup) {
+    if (params.slug !== popup.slug) {
+      permanentRedirect(getPopupPath(popup.slug));
     }
-    const rootPopup = getPopupBySlug(rootPopupSlug);
-    if (rootPopup) {
-      return <PopupDetailPage popup={rootPopup} />;
+    const articleCollision = fallbackArticle ?? (await getArticle(params.slug));
+    if (!articleCollision) {
+      return <PopupDetailPage popup={popup} />;
     }
   }
   }
@@ -740,10 +742,9 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
  const allArticles = await getAllArticles();
 
  if (!article) {
-  // Legacy root popup URLs → namespaced /popups/[slug] (avoids company/article clashes)
-  const popup = getPopupBySlug(params.slug);
+  const popup = getPopupBySlug(resolvePopupSlug(params.slug));
   if (popup) {
-    permanentRedirect(getPopupPath(popup.slug));
+    return <PopupDetailPage popup={popup} />;
   }
   notFound();
  }

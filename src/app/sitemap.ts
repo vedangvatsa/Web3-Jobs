@@ -388,7 +388,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     });
 
   const popupRoutes: MetadataRoute.Sitemap = getPopupSlugs().map((slug) => ({
-    url: `${siteUrl}/popups/${slug}`,
+    url: `${siteUrl}/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'weekly' as const,
     priority: 0.6,
