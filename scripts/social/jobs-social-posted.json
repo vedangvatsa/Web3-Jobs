@@ -1,5 +1,5 @@
 {
-  "lastIndex": 183,
+  "lastIndex": 184,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -76,7 +76,8 @@
     "engineer89059",
     "operations41595",
     "engineer89005",
-    "operations20004"
+    "operations20004",
+    "engineer66009"
   ],
   "history": [
     {
@@ -3187,6 +3188,54 @@
       "platform": "facebook",
       "postedAt": "2026-09-14T20:22:15.941Z",
       "postId": "691827047618629_1088484900425411",
+      "verification": "verified"
+    },
+    {
+      "slug": "engineer66009",
+      "company": "Ondo Finance",
+      "title": "Blockchain Engineer",
+      "platform": "x",
+      "postedAt": "2026-09-15T00:42:44.825Z",
+      "postId": "2099660153201254707",
+      "verification": "verified"
+    },
+    {
+      "slug": "engineer66009",
+      "company": "Ondo Finance",
+      "title": "Blockchain Engineer",
+      "platform": "threads",
+      "postedAt": "2026-09-15T00:42:44.825Z",
+      "postId": "18138893503611560",
+      "verification": "verified",
+      "expectedText": "Ondo Finance is hiring Blockchain Engineer: https://hashtagweb3.com/engineer66009/th?og=2",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DdScwomDl_X",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "engineer66009",
+      "company": "Ondo Finance",
+      "title": "Blockchain Engineer",
+      "platform": "bluesky",
+      "postedAt": "2026-09-15T00:42:44.825Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mvjff5vphr2j",
+      "verification": "verified"
+    },
+    {
+      "slug": "engineer66009",
+      "company": "Ondo Finance",
+      "title": "Blockchain Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-15T00:42:44.825Z",
+      "postId": "0x16391d014341efc3f49f1195a7afeea840f43b14",
+      "verification": "verified"
+    },
+    {
+      "slug": "engineer66009",
+      "company": "Ondo Finance",
+      "title": "Blockchain Engineer",
+      "platform": "instagram",
+      "postedAt": "2026-09-15T00:42:44.825Z",
+      "postId": "17947279521287016",
       "verification": "verified"
     }
   ]
