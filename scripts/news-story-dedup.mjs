@@ -21,6 +21,9 @@ const GENERIC = new Set([
   'first', 'year', 'years', 'today', 'week', 'deal', 'sign', 'signs',
   'according', 'their', 'they', 'have', 'been', 'into', 'more', 'than',
   'across', 'family', 'maker', 'closes', 'round', 'rolls',
+  // Templated market headlines share these; they are not story identities.
+  'prediction', 'pric', 'price', 'bear', 'bull', 'oversold', 'stochastic',
+  'hold', 'wheel', 'trap', 'chart', 'ded', 'befor', 'but', 'set', 'key', 'keys',
 ]);
 
 /** Map outlet-specific names onto one org token so rewrites still collide. */
