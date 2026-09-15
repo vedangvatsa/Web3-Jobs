@@ -822,149 +822,98 @@ export async function GET(request: NextRequest) {
       );
     }
 
-    // 3.65. Single event detail card (used by event page metadata)
+    // 3.65. Single event detail card (job-style: large title + small "in {location}")
     if (type === 'event') {
-      const displayTitle = title.length > 90 ? `${title.slice(0, 87)}...` : title;
-      const displayLocation = (location || 'Web3 Event').length > 60
-        ? `${(location || 'Web3 Event').slice(0, 57)}...`
-        : (location || 'Web3 Event');
-      let displayDate = '';
-      if (date && date !== '2026') {
-        const parsed = new Date(date);
-        if (!Number.isNaN(parsed.getTime())) {
-          displayDate = parsed.toLocaleDateString('en-US', {
-            month: 'short',
-            day: 'numeric',
-            year: 'numeric',
-            timeZone: 'UTC',
-          });
-        } else {
-          displayDate = date;
-        }
-      }
-      const titleFontSize = displayTitle.length > 70 ? '48px' : displayTitle.length > 45 ? '56px' : '64px';
+      const displayTitle = title.length > 70 ? `${title.slice(0, 67)}...` : title;
+      const displayLocation = (location || 'TBA').length > 70
+        ? `${(location || 'TBA').slice(0, 67)}...`
+        : (location || 'TBA');
+
+      const titleFontSize = displayTitle.length > 55
+        ? '60px'
+        : displayTitle.length > 35
+        ? '72px'
+        : displayTitle.length > 20
+        ? '86px'
+        : '100px';
+
+      const locationLineSize = displayLocation.length > 55 ? '40px' : displayLocation.length > 35 ? '44px' : '48px';
+
+      const isSquare = format === 'square';
+      const cardWidth = isSquare ? '984px' : '1120px';
+      const cardHeight = isSquare ? '984px' : '550px';
 
       return new ImageResponse(
         (
           <div
             style={{
               ...baseContainerStyle,
+              width: isSquare ? '1080px' : '100%',
+              height: isSquare ? '1080px' : '100%',
+              flexDirection: 'column',
               alignItems: 'center',
               justifyContent: 'center',
-              padding: '48px',
+              padding: isSquare ? '48px' : '40px',
             }}
           >
             <div
               style={{
                 ...baseCardStyle,
-                width: '100%',
-                height: '100%',
-                padding: '56px 64px',
-                justifyContent: 'space-between',
+                width: cardWidth,
+                height: cardHeight,
+                padding: isSquare ? '64px 56px' : '48px 64px',
+                flexDirection: 'column',
+                alignItems: 'center',
+                justifyContent: 'center',
+                textAlign: 'center',
+                gap: isSquare ? '40px' : '32px',
               }}
             >
-              <div style={{ display: 'flex', flexDirection: 'column', gap: '20px' }}>
-                <div
-                  style={{
-                    display: 'flex',
-                    fontSize: '18px',
-                    fontWeight: 700,
-                    color: '#0284c7',
-                    letterSpacing: '2px',
-                    textTransform: 'uppercase',
-                  }}
-                >
-                  Web3 Event
-                </div>
-                <div
-                  style={{
-                    display: 'flex',
-                    fontSize: titleFontSize,
-                    fontWeight: 900,
-                    color: '#0f172a',
-                    letterSpacing: '-1.5px',
-                    lineHeight: 1.15,
-                    maxWidth: '1000px',
-                  }}
-                >
-                  {displayTitle}
-                </div>
+              <div
+                style={{
+                  display: 'flex',
+                  alignItems: 'center',
+                  justifyContent: 'center',
+                  textAlign: 'center',
+                  fontSize: isSquare && displayTitle.length > 55 ? '56px' : titleFontSize,
+                  fontWeight: '900',
+                  color: '#0f172a',
+                  lineHeight: '1.14',
+                  letterSpacing: '-2px',
+                  maxWidth: isSquare ? '880px' : '1020px',
+                  padding: '0 20px',
+                }}
+              >
+                {displayTitle}
               </div>
 
-              <div style={{ display: 'flex', flexDirection: 'column', gap: '16px' }}>
+              <div
+                style={{
+                  display: 'flex',
+                  alignItems: 'center',
+                  justifyContent: 'center',
+                  flexWrap: 'wrap',
+                  maxWidth: isSquare ? '880px' : '1020px',
+                }}
+              >
                 <div
                   style={{
                     display: 'flex',
-                    flexWrap: 'wrap',
-                    gap: '12px',
-                    alignItems: 'center',
+                    fontSize: isSquare ? '46px' : locationLineSize,
+                    fontWeight: '800',
+                    color: '#0284c7',
+                    letterSpacing: '-0.5px',
                   }}
                 >
-                  {displayDate ? (
-                    <div
-                      style={{
-                        display: 'flex',
-                        padding: '10px 18px',
-                        borderRadius: '999px',
-                        backgroundColor: '#f1f5f9',
-                        color: '#334155',
-                        fontSize: '22px',
-                        fontWeight: 600,
-                      }}
-                    >
-                      {displayDate}
-                    </div>
-                  ) : null}
-                  <div
-                    style={{
-                      display: 'flex',
-                      padding: '10px 18px',
-                      borderRadius: '999px',
-                      backgroundColor: '#e0f2fe',
-                      color: '#0369a1',
-                      fontSize: '22px',
-                      fontWeight: 600,
-                    }}
-                  >
-                    {displayLocation}
-                  </div>
-                </div>
-                <div
-                  style={{
-                    display: 'flex',
-                    alignItems: 'center',
-                    justifyContent: 'space-between',
-                    marginTop: '8px',
-                  }}
-                >
-                  <div
-                    style={{
-                      display: 'flex',
-                      fontSize: '28px',
-                      fontWeight: 800,
-                      color: '#0f172a',
-                    }}
-                  >
-                    Hashtag Web3
-                  </div>
-                  <div
-                    style={{
-                      display: 'flex',
-                      fontSize: '22px',
-                      color: '#64748b',
-                      fontWeight: 500,
-                    }}
-                  >
-                    hashtagweb3.com/events
-                  </div>
+                  {displayLocation}
                 </div>
               </div>
             </div>
           </div>
         ),
         {
-          width: 1200,
-          height: 630,
+          width: isSquare ? 1080 : 1200,
+          height: isSquare ? 1080 : 630,
           headers: {
             'Cache-Control': 'public, max-age=86400, s-maxage=604800, stale-while-revalidate=86400',
           },

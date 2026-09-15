@@ -3,7 +3,6 @@ import path from 'path';
 import { Web3Event, formatEventLocation, getEventBaseSlug, getEventEcosystems, getEventSlug, getEventType, normalizeCountry } from './events';
 import { getEventExternalUrl } from './event-external-url';
 import { cleanPublishText } from './noslop';
-import { resolveEventPreviewImageUrl } from './job-og';
 import { getEventDisplayCity } from './event-map-locations';
 
 // Explicitly blocked promotional posts that are not events
@@ -430,14 +429,7 @@ async function loadEvents(): Promise<Web3Event[]> {
 
       cleaned.push({
         ...e,
-        coverImage: resolveEventPreviewImageUrl({
-          name: cleanName,
-          city: cleanCity,
-          country: normalizedCountry,
-          location: formattedLocation,
-          startDate: e.startDate,
-          coverImage: posterCover,
-        }),
+        coverImage: posterCover,
         name: cleanName,
         description: cleanDescription,
         month: monthStr,
