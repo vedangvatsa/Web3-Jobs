@@ -1,5 +1,6 @@
 
-import { BookOpen, BrainCircuit, Calculator, FileSignature, FileText, ListChecks, ClipboardEdit, UserMinus, Milestone, Scale, Users, Rss, Newspaper, BotMessageSquare, Linkedin, X, Globe, Mic, Building2 } from 'lucide-react';
+import { BookOpen, BrainCircuit, Calculator, FileSignature, FileText, ListChecks, ClipboardEdit, UserMinus, Milestone, Scale, Users, Rss, Newspaper, BotMessageSquare, Linkedin, Globe, Mic, Building2 } from 'lucide-react';
+import { XBrandIcon } from '@/components/x-brand-icon';
 
 export const stats = [
   { value: '100k+', label: 'Web3 Professionals' },
@@ -115,7 +116,7 @@ export const hiredCompanies = [
 
 export const channels = [
  { icon: Users, title: 'Networking Community', description: '18,000 member Telegram group with spam-bot-moderated topics for community-driven content.' },
- { icon: X, title: 'X & Spotify', description: 'Twitter Spaces with guests like a Pink Floyd member got up to 42k avg listeners. 50k tuned-in to our podcasts.' },
+ { icon: XBrandIcon, title: 'X & Spotify', description: 'Twitter Spaces with guests like a Pink Floyd member got up to 42k avg listeners. 50k tuned-in to our podcasts.' },
  { icon: Rss, title: 'Telegram Channels', description: '60,000+ subscribers for Web3 job feed (one of the largest) and 11,000+ for our news feed.' },
  { icon: Newspaper, title: 'Newsletter', description: 'Delivered to 150,000 subscribers, averaging 5,700 views per issue, primarily from Europe and Asia.' },
  { icon: BotMessageSquare, title: 'Social Messaging', description: 'Regional WhatsApp groups with over 26,000 members including top VCs and founders.' },
