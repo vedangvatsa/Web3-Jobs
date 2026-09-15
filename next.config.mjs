@@ -79,6 +79,9 @@ const nextConfig = {
       { source: '/how-to-be-a-good-community-moderator', destination: '/web3-community-manager-career', permanent: true },
       { source: '/deprecation-policy', destination: '/api-policy', permanent: true },
       { source: '/versioning-policy', destination: '/api-policy', permanent: true },
+      { source: '/popups/ns', destination: '/ns', permanent: true },
+      { source: '/popups/logos', destination: '/logos-society', permanent: true },
+      { source: '/popups/logos-society', destination: '/logos-society', permanent: true },
       // Renamed Sept 2026 news slugs
       { source: '/crypto-tax-bills', destination: '/tax-bills', permanent: true },
       { source: '/nasdaq-tokenized-stocks', destination: '/nasdaq-tokens', permanent: true },

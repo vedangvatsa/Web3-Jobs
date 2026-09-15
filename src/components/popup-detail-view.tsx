@@ -13,9 +13,12 @@ import {
   Link2,
 } from 'lucide-react';
 import { OutboundLink } from '@/components/tracking/outbound-link';
+import { PopupCoverImages } from '@/components/popup-cover-images';
 import { PopupPosts } from '@/components/popup-posts';
+import { PopupSocialEmbeds } from '@/components/popup-social-embeds';
 import { PopupRichText } from '@/components/popup-rich-text';
 import { composePopupNarrative, formatPopupField } from '@/lib/popup-narrative';
+import { popupCoverImagePaths } from '@/lib/popup-gallery';
 import { getNsDashboardUrl } from '@/lib/popup-ns';
 import {
   groupAmenityLines,
@@ -150,7 +153,7 @@ function HistorySection({
 export function PopupDetailView({ popup }: { popup: Popup }) {
   const socials = socialEntries(popup.socials);
   const posts = popup.posts ?? [];
-  const covers = popup.coverImages ?? [];
+  const covers = popupCoverImagePaths(popup);
   const pricing = popup.pricing ?? [];
   const amenities = popup.amenities ?? [];
   const history = popup.history ?? [];
@@ -287,34 +290,7 @@ export function PopupDetailView({ popup }: { popup: Popup }) {
           </div>
         </header>
 
-        {covers.length > 0 ? (
-          <section className="mt-8" aria-label={`${popup.name} photos`}>
-            <div
-              className={
-                covers.length === 1
-                  ? 'overflow-hidden rounded-lg border border-border/60'
-                  : 'grid gap-3 sm:grid-cols-2'
-              }
-            >
-              {covers.slice(0, 4).map((src, index) => (
-                <div
-                  key={src}
-                  className="relative aspect-[16/10] overflow-hidden rounded-lg border border-border/60 bg-muted/30"
-                >
-                  <Image
-                    src={src}
-                    alt=""
-                    fill
-                    sizes="(max-width: 640px) 100vw, 50vw"
-                    className="object-cover"
-                    priority={index === 0}
-                    unoptimized
-                  />
-                </div>
-              ))}
-            </div>
-          </section>
-        ) : null}
+        <PopupCoverImages images={covers} popupName={popup.name} />
 
         <section className="mt-8 space-y-4">
           {narrative.map((paragraph, index) => (
@@ -339,6 +315,8 @@ export function PopupDetailView({ popup }: { popup: Popup }) {
           nsDashboardUrl={nsDashboardUrl}
           showNsAttribution={popup.sources.includes('ns')}
         />
+
+        <PopupSocialEmbeds embeds={popup.socialEmbeds ?? []} popupName={popup.name} />
 
       </article>
     </>

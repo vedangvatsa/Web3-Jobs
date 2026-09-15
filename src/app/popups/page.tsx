@@ -6,7 +6,7 @@ import { PopupsBoard } from '@/components/popups-board';
 import { getAllPopups } from '@/lib/popups';
 
 export const metadata: Metadata = {
-  title: 'Popups',
+  title: 'Startup Societies',
   description:
     'Directory of popup cities, permanent nodes, SEZs, and builder villages for Web3 and frontier tech. Filter by type and region.',
   alternates: {
@@ -14,25 +14,25 @@ export const metadata: Metadata = {
   },
   openGraph: {
     type: 'website',
-    title: 'Popups | Hashtag Web3',
+    title: 'Startup Societies | Hashtag Web3',
     description:
       'Directory of popup cities, permanent nodes, SEZs, and builder villages for Web3 and frontier tech.',
     url: 'https://hashtagweb3.com/popups',
     images: [
       {
-        url: 'https://hashtagweb3.com/api/og?type=default&title=Popups',
+        url: 'https://hashtagweb3.com/api/og?type=default&title=Startup%20Societies',
         width: 1200,
         height: 630,
-        alt: 'Popups directory',
+        alt: 'Startup Societies directory',
       },
     ],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Popups | Hashtag Web3',
+    title: 'Startup Societies | Hashtag Web3',
     description:
       'Directory of popup cities, permanent nodes, SEZs, and builder villages for Web3 and frontier tech.',
-    images: ['https://hashtagweb3.com/api/og?type=default&title=Popups'],
+    images: ['https://hashtagweb3.com/api/og?type=default&title=Startup%20Societies'],
   },
 };
 
@@ -42,7 +42,7 @@ export default function PopupsPage() {
   const pageSchema: WithContext<CollectionPage> = {
     '@context': 'https://schema.org',
     '@type': 'CollectionPage',
-    name: 'Popups',
+    name: 'Startup Societies',
     url: 'https://hashtagweb3.com/popups',
     description:
       'Directory of popup cities, permanent nodes, SEZs, and builder villages for Web3 and frontier tech.',
@@ -57,10 +57,7 @@ export default function PopupsPage() {
       <div className="flex min-h-screen flex-col bg-background">
         <main className="flex-1">
           <PageShell>
-            <PageHeader title="Popups" />
-            <p className="mb-6 -mt-4 text-center text-sm text-muted-foreground">
-              Temporary villages, permanent nodes, and startup cities for builders.
-            </p>
+            <PageHeader title="Startup Societies" />
             <PopupsBoard popups={popups} />
           </PageShell>
         </main>

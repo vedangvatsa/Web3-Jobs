@@ -19,6 +19,16 @@ export type PopupPost = {
   avatar?: string | null;
 };
 
+export type PopupSocialEmbed = {
+  platform: 'linkedin' | 'instagram';
+  /** Official iframe `src` (e.g. LinkedIn `/embed/feed/update/…`). */
+  embedUrl: string;
+  /** Short label for accessibility / link-out. */
+  label?: string;
+  /** Public post URL when different from embed URL. */
+  viewUrl?: string;
+};
+
 export type Popup = {
   slug: string;
   name: string;
@@ -36,6 +46,7 @@ export type Popup = {
   socials: PopupSocials;
   sources: Array<'ns' | 'xyz'>;
   posts?: PopupPost[];
+  socialEmbeds?: PopupSocialEmbed[];
   pricing?: string[];
   pricingSummary?: string | null;
   amenities?: string[];

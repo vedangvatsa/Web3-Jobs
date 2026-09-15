@@ -1,9 +1,27 @@
 import type { Metadata } from 'next';
 import type { Popup } from '@/types/popup';
 
-/** Canonical public path for a popup detail page (namespaced to avoid root slug clashes). */
+/** Popups with a dedicated root URL (not under `/popups/`). */
+const ROOT_POPUP_SLUGS = new Set(['ns', 'logos-society']);
+
+/** Old popup slugs → current slug. */
+const POPUP_SLUG_ALIASES: Record<string, string> = {
+  logos: 'logos-society',
+};
+
+export function resolvePopupSlug(segment: string): string {
+  return POPUP_SLUG_ALIASES[segment] ?? segment;
+}
+
+export function isRootPopupSlug(slug: string): boolean {
+  return ROOT_POPUP_SLUGS.has(slug);
+}
+
+/** Canonical public path for a popup detail page. */
 export function getPopupPath(slug: string): string {
-  return `/popups/${slug}`;
+  const canonical = resolvePopupSlug(slug);
+  if (isRootPopupSlug(canonical)) return `/${canonical}`;
+  return `/popups/${canonical}`;
 }
 
 export function popupPageMetadata(popup: Popup): Metadata {

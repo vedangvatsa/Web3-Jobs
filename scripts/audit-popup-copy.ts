@@ -1,6 +1,8 @@
 import { getAllPopups } from '@/lib/popups';
 import {
   isPopupGenericFiller,
+  isPopupMetaDirectoryCopy,
+  isPopupOverviewPadding,
   isPopupScrapeCopy,
   isPopupSlopCopy,
 } from '@/lib/popup-copy-guard';
@@ -37,6 +39,10 @@ for (const popup of getAllPopups()) {
         issues.push({ slug: popup.slug, field, sample: text.slice(0, 80), kind: 'scrape' });
       } else if (isPopupSlopCopy(text)) {
         issues.push({ slug: popup.slug, field, sample: text.slice(0, 80), kind: 'slop' });
+      } else if (isPopupMetaDirectoryCopy(text)) {
+        issues.push({ slug: popup.slug, field, sample: text.slice(0, 80), kind: 'meta-directory' });
+      } else if (isPopupOverviewPadding(text)) {
+        issues.push({ slug: popup.slug, field, sample: text.slice(0, 80), kind: 'overview-padding' });
       }
     }
   }

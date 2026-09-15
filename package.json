@@ -33,6 +33,8 @@
     "sync:luma-crypto": "npx tsx scripts/sync-luma-crypto-events.ts",
     "test:luma-venues": "npx tsx scripts/enrich-luma-venues.test.ts",
     "check:collisions": "npx tsx scripts/check-slug-collisions.ts",
+    "compress:popups": "npx tsx scripts/compress-popup-images.ts",
+    "trim:popups": "npx tsx scripts/trim-popup-galleries.ts",
     "shard:job-descriptions": "npx tsx scripts/shard-job-descriptions.ts",
     "hiring-report:stats": "npx tsx scripts/compute-hiring-report-stats.ts --write",
     "test:job-description-shards": "npx tsx scripts/test-job-description-shards.ts",

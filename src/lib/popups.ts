@@ -44,7 +44,9 @@ export const popupData: Popup[] = [
       "Space 4Seas Nimman 4Seas's central city homebase—designed as a community living laboratory, a hybrid space that brings together co-living, co-working, and public gatherings into one flow."
     ],
     "coverImages": [
-      "/popups/xyz/4seas/mountain-view.webp"
+      "/popups/xyz/4seas/4seasgallery1.webp",
+      "/popups/xyz/4seas/4seasgallery2.webp",
+      "/popups/xyz/4seas/4seasgallery3.webp"
     ],
     "pricing": [
       "Public spaces are free in both locations. For access to all amenities:",
@@ -129,7 +131,9 @@ export const popupData: Popup[] = [
       "It starts digital but plans physical nodes like charter cities governed by the network."
     ],
     "coverImages": [
-      "/popups/xyz/afropolitan/community.webp"
+      "/popups/afro/6307b710eae0eb83f56d5380_events-gallery-1.webp",
+      "/popups/afro/6307b7046b5dd29f892fb096_events-gallery-2.webp",
+      "/popups/afro/6307b6fb8a7e1a18f87b8e02_events-gallery-3.webp"
     ],
     "pricing": [
       "Digital passport NFTs: starting at WETH 0.0027 on OpenSea",
@@ -172,7 +176,7 @@ export const popupData: Popup[] = [
       "Longevity"
     ],
     "website": "https://www.akiyacollective.org",
-    "image": "/popups/akiyacollective.jpg",
+    "image": "/popups/akiyacollective.webp",
     "foundedYear": 2024,
     "sources": [
       "ns"
@@ -202,7 +206,11 @@ export const popupData: Popup[] = [
       "Get Involved 02 | contribute For those who want to build with us, Akiya Collective're introducing a system where you can contribute to Akiya Collective's efforts, and in return, earn time-to-stay in Akiya Collective's community house.",
       "‍ join the community  follow Akiya Collective's efforts  apply for core team Akiya Collective're looking for 2-3 people to join the dedicated core contributor team for Akiya Collective."
     ],
-    "coverImages": [],
+    "coverImages": [
+      "/popups/akiya/akiyagallery1.webp",
+      "/popups/akiya/akiyagallery2-copy.webp",
+      "/popups/akiya/akiyagallery3.webp"
+    ],
     "pricing": [],
     "amenities": [],
     "history": [],
@@ -259,7 +267,7 @@ export const popupData: Popup[] = [
     "summary": "A federation-style project coordinating frontier cities rather than running a single campus.",
     "body": [
       "Alpha City describes itself as a federation of frontier cities.",
-      "The footprint is distributed by design, with small resident counts listed in the directories.",
+      "Each city node keeps a small resident count while Alpha coordinates standards across the federation.",
       "Treat it as a coordination layer across places, not one popup calendar.",
       "Alpha City describes a federation of frontier industrial cities focused on compute and hardware supply chains.",
       "Public materials highlight geothermal-powered AI training campuses and East African industrial nodes.",
@@ -298,11 +306,7 @@ export const popupData: Popup[] = [
       "Alpha City cities are strategically located for AI, digital finance, advanced manufacturing, energy infrastructure, critical minerals, and aerospace."
     ],
     "overview": [
-      "Alpha publishes its master plan and Genesis Program details on alphacity.io.",
-      "Industrial nodes are described as vertically integrated cities for compute, robotics, and IP creation.",
-      "Alpha publishes master-plan updates and Genesis Program criteria on alphacity.io for prospective pioneers.",
-      "Alpha lists Genesis Program criteria, industrial city milestones, and pioneer intake on alphacity.io.",
-      "Alpha publishes master-plan updates on alphacity.io."
+      "Industrial nodes are described as vertically integrated cities for compute, robotics, and IP creation."
     ],
     "xyzUrl": "https://xyz.city/network-states/alpha-city",
     "posts": []
@@ -318,7 +322,7 @@ export const popupData: Popup[] = [
       "Governance"
     ],
     "website": "https://amagi.life",
-    "image": "/popups/amagilife.jpg",
+    "image": "/popups/amagilife.webp",
     "sources": [
       "ns"
     ],
@@ -353,7 +357,11 @@ export const popupData: Popup[] = [
       "Life here involves ambiguity, experimentation, and a willingness to participate while things are still rough around the edges.",
       "What unites these profiles is not profession or status, but posture: a long-term orientation, tolerance for uncertainty, and a genuine desire to help shape where and how they live."
     ],
-    "coverImages": [],
+    "coverImages": [
+      "/popups/amagi/amagilifegallery1.webp",
+      "/popups/amagi/amagilifegallery2.webp",
+      "/popups/amagi/amagilifegallery3.webp"
+    ],
     "pricing": [],
     "amenities": [],
     "history": [
@@ -411,7 +419,11 @@ export const popupData: Popup[] = [
       "The open home is Asaya, a beachfront campus on Mirissa Beach. Programming includes Ascend and the Fulgur, Curious, and Arc Angel funds.",
       "Arc activated Network School in Kazakhstan (Astana) and Malaysia before applying the same pop-up-then-permanent playbook in Sri Lanka, including First Capital Startup Nation in Colombo."
     ],
-    "coverImages": [],
+    "coverImages": [
+      "/popups/xyz/arc/arcgallery1.webp",
+      "/popups/xyz/arc/arcgallery2.webp",
+      "/popups/xyz/arc/arcgallery3.webp"
+    ],
     "xyzUrl": "https://xyz.city/network-states/arc",
     "pricing": [
       "Campus access at Asaya is unbundled and pay-as-you-go rather than a single all-in bundle",
@@ -508,7 +520,7 @@ export const popupData: Popup[] = [
       "Tech"
     ],
     "website": "https://arkpad.co",
-    "image": "/popups/arkpad.jpg",
+    "image": "/popups/arkpad.webp",
     "sources": [
       "ns"
     ],
@@ -519,7 +531,7 @@ export const popupData: Popup[] = [
     "body": [
       "ArkPad is a construction-oriented project producing floating platforms for ocean living.",
       "Unlike social popups, the core product is physical infrastructure rather than a temporary community calendar.",
-      "It appears on the Network School dashboard as part of the wider startup-society build stack.",
+      "Samal Island in the Philippines hosts ArkPad’s Reef Resort demo, combining floating units with hexafarm aquaculture.",
       "See the evidence Book a stay What ArkPad build Three products, one purpose ArkPad-D The Arkpad-D is the latest model of Arkpad unit.",
       "It is designed to survive hurricanes, be deployed hundreds of miles from land, and last decades with little to no maintenance without rusting.",
       "It can be deployed with Solar Electricity, fresh Water Generation, Internal Septic and fresh Water tanks, and even aquaculture space for growing fish.",
@@ -540,7 +552,11 @@ export const popupData: Popup[] = [
       "Underwater Drones ArkPad are building a modular underwater drone, which can be used for underwater viewing, manipulating objects, hull inspections, hull cleaning, and aquaculture work.",
       "Ground Effect Drones ArkPad is developing a ground effect drone for long range cargo delivery, ground effect vehicles exist between air freight and traditional shipping in terms of cost and speed."
     ],
-    "coverImages": [],
+    "coverImages": [
+      "/popups/arkpad/arkpadgallery1.webp",
+      "/popups/arkpad/arkpadgallery2.webp",
+      "/popups/arkpad/arkpadgallery3.webp"
+    ],
     "pricing": [],
     "amenities": [],
     "history": [],
@@ -589,22 +605,16 @@ export const popupData: Popup[] = [
     "socials": {
       "x": "https://x.com/_Arrayah"
     },
-    "summary": "A Sydney-rooted builder community with a deliberately simple mandate: make space to do things.",
+    "summary": "Sydney-rooted popups and residencies for founders, artists, and researchers.",
     "body": [
-      "Arrayah keeps the copy short on purpose: it is a place to just do things.",
-      "Sydney is the listed base, with culture, tech, and governance themes around the edges.",
-      "It is a smaller-scale entry compared with monthlong mega-villages.",
-      "Arrayah programs blend cultural programming with builder residencies across multiple geographies.",
-      "Arrayah editions combine cultural programming with builder housing when pricing and venues are announced per city.",
-      "Arrayah exists because life can’t just be school job job job die.",
-      "Arrayah create intentional spaces, where you can just do things.",
-      "Arrayah give you a showcase day because impressive work needs to be shared.",
-      "You can be working on startups, music, research, installations, social experiments.",
-      "If you’re a founder, researcher, or artist with these values and you’re building toward a brighter future, come join us 🫶🧃 billabong , sydney a watering hole for founders, artists and researchers."
+      "Arrayah means a ray of hope and describes itself as a place to just do things.",
+      "Arrayah runs Sydney-rooted popups and shorter residencies for founders, artists, and researchers.",
+      "Culture, tech, and governance show up across editions rather than as one fixed monthlong campus.",
+      "Arrayah runs co-living houses, pop-up neighborhoods, and short accelerators for people building startups, art, or research."
     ],
     "coverImages": [
-      "/popups/xyz/arrayah/views.webp",
-      "/popups/xyz/arrayah/community.webp"
+      "/popups/xyz/arrayah/community.webp",
+      "/popups/xyz/arrayah/views.webp"
     ],
     "pricing": [
       "Freo Neuhaus Pop-Up offers tiered accommodation options: shared or private rooms, with shared or private bathrooms",
@@ -612,7 +622,6 @@ export const popupData: Popup[] = [
     ],
     "pricingSummary": null,
     "amenities": [
-      "Amenities in Arrayah's pop-up villages typically include:",
       "Co-living (shared or private rooms)",
       "Co-working spaces",
       "Group fitness sessions",
@@ -630,9 +639,7 @@ export const popupData: Popup[] = [
     ],
     "durationNotes": [
       "Arrayah's pop-up neighborhoods typically last from 1 week to 1 month. Accelerators usually run for a few weeks",
-      "Arrayah is also rolling out permanent homes across Australia",
-      "An arrayah residency - a peer group, a workspace, and a showcase day.",
-      "An arrayah residency apply it is a few intense weeks where you keep showing up to the same place, with the same people, to take one thing you care about seriously."
+      "Arrayah is also rolling out permanent homes across Australia"
     ],
     "locationDetails": [
       "Arrayah's physical activities center in Australia, with pop-up neighborhoods in Sydney and Fremantle",
@@ -640,13 +647,7 @@ export const popupData: Popup[] = [
     ],
     "overview": [
       "Arrayah, meaning a ray of hope, is self-described as a place to just do things",
-      "It organizes co-living hacker houses, pop-up neighborhoods, and accelerators for founders, artists, and researchers to build with intention",
-      "Arrayah curates popup villages and city programs that mix Middle Eastern and global builder communities.",
-      "Freo Neuhaus and other editions publish accommodation tiers closer to each event date.",
-      "Arrayah announces popup pricing, cities, and registration windows on arrayah.city.",
-      "Arrayah publishes per-city popup calendars, accommodation tiers, and registration deadlines on arrayah.city.",
-      "Freo Neuhaus and other Arrayah editions list room tiers closer to each event opening.",
-      "Arrayah programs mix cultural programming with builder housing when each city edition opens registration."
+      "It organizes co-living hacker houses, pop-up neighborhoods, and accelerators for founders, artists, and researchers to build with intention"
     ],
     "xyzUrl": "https://xyz.city/network-states/arrayah",
     "posts": []
@@ -661,7 +662,7 @@ export const popupData: Popup[] = [
       "Crypto"
     ],
     "website": "https://www.bitcoinchiangmai.org",
-    "image": "/popups/bitcoincenter.jpg",
+    "image": "/popups/bitcoincenter.webp",
     "sources": [
       "ns"
     ],
@@ -687,7 +688,11 @@ export const popupData: Popup[] = [
       "July 5, 2026 BLC and Dude Run Club A community run bringing the Bitcoin Learning Center together with Dude Run Club.",
       "June 13, 2026 Not your keys, not your coins Beginner-friendly workshop on safely storing Bitcoin with a hardware wallet, step-by-step."
     ],
-    "coverImages": [],
+    "coverImages": [
+      "/popups/blc/bitcoincentergallery1.webp",
+      "/popups/blc/bitcoincentergallery2.webp",
+      "/popups/blc/bitcoincentergallery3.webp"
+    ],
     "pricing": [],
     "amenities": [],
     "history": [
@@ -720,7 +725,7 @@ export const popupData: Popup[] = [
       "AI"
     ],
     "website": "https://luma.com/cursorcommunity",
-    "image": "/popups/cafecursor.jpg",
+    "image": "/popups/cafecursor.webp",
     "sources": [
       "ns"
     ],
@@ -732,7 +737,7 @@ export const popupData: Popup[] = [
     "body": [
       "Cafe Cursor runs temporary cafe takeovers for AI developers who want an IRL build session instead of another Discord huddle.",
       "The format is lighter than a monthlong village: show up, ship, meet other Cursor users.",
-      "It sits on the popup end of the spectrum, closer to community meetups than to jurisdiction experiments.",
+      "Editions rotate through cities; see the official Luma calendar for the next Cafe Cursor takeover.",
       "Cafe Cursor is a series of popup cafe takeovers where AI builders and indie hackers gather to work.",
       "Each event turns a local cafe into a temporary coworking space.",
       "Following initial events in San Francisco and New York, the project grew through community ambassadors who host local editions.",
@@ -746,7 +751,11 @@ export const popupData: Popup[] = [
       "Jan 2026 Global expansion The network expanded to Europe, Asia, Africa, and Latin America.",
       "Ongoing Worldwide series The series operates in 80+ countries, with over 600 events run by a network of local ambassadors."
     ],
-    "coverImages": [],
+    "coverImages": [
+      "/popups/cc/cafecursorgallery1.webp",
+      "/popups/cc/cafecursorgallery2.webp",
+      "/popups/cc/cafecursorgallery3.webp"
+    ],
     "pricing": [
       "Most local Cafe Cursor editions are free or low-cost community gatherings",
       "Host support may include Cursor credits depending on the edition"
@@ -813,7 +822,7 @@ export const popupData: Popup[] = [
       "Governance"
     ],
     "website": "https://www.morazan.city",
-    "image": "/popups/morazan.png",
+    "image": "/popups/morazan.webp",
     "sources": [
       "ns"
     ],
@@ -837,7 +846,11 @@ export const popupData: Popup[] = [
       "2022 ZEDE Law Repeal Honduran Congress repeals the ZEDE laws, triggering international arbitration.",
       "2025 Honduran Election New administration takes office, shaping the future of ZEDE protections."
     ],
-    "coverImages": [],
+    "coverImages": [
+      "/popups/morazan/morazangallery3.webp",
+      "/popups/morazan/morazangallery4.webp",
+      "/popups/morazan/morazangallery1.webp"
+    ],
     "pricing": [],
     "amenities": [
       "Affordable rental housing for Honduran workers and families",
@@ -907,7 +920,7 @@ export const popupData: Popup[] = [
       "Governance"
     ],
     "website": "https://www.commons-hub.at",
-    "image": "/popups/commonshub.jpg",
+    "image": "/popups/commonshub.webp",
     "sources": [
       "ns"
     ],
@@ -931,7 +944,11 @@ export const popupData: Popup[] = [
       "It is a home for artists, hackers, and tinkerers exploring new perspectives across technology, economy, society, and nature.",
       "The house has makerspaces, gardens, a workshop, and a wood-fired hot tub, with hiking trails and a river nearby."
     ],
-    "coverImages": [],
+    "coverImages": [
+      "/popups/commons/commonshubgallery1.webp",
+      "/popups/commons/commonshubgallery2.webp",
+      "/popups/commons/commonshubgallery3.webp"
+    ],
     "pricing": [],
     "amenities": [
       "Makerspaces and workshop tools on site",
@@ -1013,8 +1030,9 @@ export const popupData: Popup[] = [
       "The movement has engaged 10,000 builders, supported 250+ start-ups, and secured backing from Protocol Labs , the Ethereum Foundation , and major Web3 protocols."
     ],
     "coverImages": [
-      "/popups/xyz/crecimiento/street.webp",
-      "/popups/xyz/crecimiento/community.webp"
+      "/popups/xyz/crecimiento/crecimientogallery1.webp",
+      "/popups/xyz/crecimiento/crecimientogallery2.webp",
+      "/popups/xyz/crecimiento/crecimientogallery4.webp"
     ],
     "pricing": [
       "Aleph, Ciudad de Crecimiento",
@@ -1100,7 +1118,7 @@ export const popupData: Popup[] = [
       "Culture"
     ],
     "website": "https://culdesac.com",
-    "image": "/popups/culdesac.jpg",
+    "image": "/popups/culdesac.webp",
     "sources": [
       "ns"
     ],
@@ -1110,7 +1128,7 @@ export const popupData: Popup[] = [
     "summary": "A car-free walkable neighborhood experiment focused on belonging and local commerce.",
     "body": [
       "Culdesac is building walkable urban fabric in Tempe with transportation freedom and local business density as design goals.",
-      "It is more urban development than crypto popup, but it shows up in the same startup-society directories.",
+      "Culdesac’s Tempe neighborhood is car-free year-round housing, not a traveling popup calendar.",
       "The product is a neighborhood residents can live in year-round.",
       "Culdesac Tempe is marketed as the first car-free neighborhood built from scratch in the United States.",
       "The 17-acre district combines apartments, local retail, plazas, and paths next to a light rail station.",
@@ -1131,7 +1149,11 @@ export const popupData: Popup[] = [
       "May 2023 First Residents Phase one opens and initial residents move into the car-free community.",
       "2025 Community Expansion Culdesac Tempe reaches over 350 residents and 21 local businesses with additional buildings, mature landscaping, and full amenities operational."
     ],
-    "coverImages": [],
+    "coverImages": [
+      "/popups/culdesac/culdesacgallery1.webp",
+      "/popups/culdesac/culdesacgallery2.webp",
+      "/popups/culdesac/culdesacgallery3.webp"
+    ],
     "pricing": [],
     "amenities": [
       "Car-free internal paths and shared courtyards",
@@ -1218,10 +1240,9 @@ export const popupData: Popup[] = [
       "Locations rotate globally, so the brand is the format more than any single permanent campus."
     ],
     "coverImages": [
-      "/popups/xyz/edge-city/people.webp",
-      "/popups/xyz/edge-city/work.webp",
-      "/popups/xyz/edge-city/walk.webp",
-      "/popups/xyz/edge-city/forest.webp"
+      "/popups/xyz/edge-city/edgecitygallery1.webp",
+      "/popups/xyz/edge-city/edgecitygallery2.webp",
+      "/popups/xyz/edge-city/people.webp"
     ],
     "pricing": [
       "Ticket prices for Edge City's pop-up villages range from $1,000 to $3,000, depending on location, duration of stay, timing of booking, and ticket type",
@@ -1339,8 +1360,8 @@ export const popupData: Popup[] = [
     "summary": "Ethiopia-based popup city and conference organizing for local and visiting builders.",
     "body": [
       "Eth-iopia combines popup-city energy with conference organizing in Addis Ababa.",
-      "The brand is geographically specific in a directory that often stays deliberately global.",
-      "Use it as a starting point for Ethiopia-facing builder gatherings.",
+      "Addis Ababa host teams anchor the brand while conferences and residencies rotate with local partners.",
+      "Builders use Eth-iopia editions to meet Ethiopia-based founders before committing to longer stays.",
       "ETHiopia's January 2025 pop-up brought together more than 100 participants for hackathons and conference programming.",
       "The initiative focuses on DeFi, governance, and crypto's role in African economies.",
       "Participants joined from across Africa and abroad for talks on DeFi, local governance experiments, and Ethereum tooling.",
@@ -1429,7 +1450,9 @@ export const popupData: Popup[] = [
       "Text Locky A n A I f r i e n d w h o h e l p s y o u t u r n y o u r i d e a o r p a s s i o n i n t o a b u s i n e s s ."
     ],
     "coverImages": [
-      "/popups/xyz/forma/community.webp"
+      "/popups/xyz/forma/formagallery1.webp",
+      "/popups/xyz/forma/formagallery2.webp",
+      "/popups/xyz/forma/formagallery3.webp"
     ],
     "pricing": [
       "Tickets were 1 SOL for both Forma Sri Lanka and Forma Georgia. Locals had free access",
@@ -1516,7 +1539,9 @@ export const popupData: Popup[] = [
       "It is often framed as a blueprint for inter-city network societies that stay plugged into a major metro."
     ],
     "coverImages": [
-      "/popups/xyz/frontier-tower/tower.webp"
+      "/popups/xyz/frontier-tower/frontiertowerbanner2.webp",
+      "/popups/xyz/frontier-tower/frontiertower1.webp",
+      "/popups/xyz/frontier-tower/frontiertower2.webp"
     ],
     "pricing": [
       "$190/month billed monthly",
@@ -1612,7 +1637,7 @@ export const popupData: Popup[] = [
       "Tech"
     ],
     "website": "https://futura.camp",
-    "image": "/popups/zuberlin.jpg",
+    "image": "/popups/zuberlin.webp",
     "sources": [
       "ns"
     ],
@@ -1634,7 +1659,11 @@ export const popupData: Popup[] = [
       "13.06 Opening 🌱 14.06 Neocypherpunk Summit web3privacy 15.06 Ethereum Day Beach BBQ 16.06 Sovereign AI Sanctuary Tech 17.06.",
       "June 2026 Futura Camp Rebrand Rebranded to Futura Camp for its third iteration, featuring partner summits at Funkhaus."
     ],
-    "coverImages": [],
+    "coverImages": [
+      "/popups/zuberlin/zuberlingallery1.webp",
+      "/popups/zuberlin/zuberlingallery2.webp",
+      "/popups/zuberlin/zuberlingallery3.webp"
+    ],
     "pricing": [],
     "amenities": [
       "Coliving rooms during Funkhaus residencies",
@@ -1705,7 +1734,7 @@ export const popupData: Popup[] = [
       "Business"
     ],
     "website": "https://gmc.bt",
-    "image": "/popups/gelephu.jpg",
+    "image": "/popups/gelephu.webp",
     "sources": [
       "ns"
     ],
@@ -1716,7 +1745,7 @@ export const popupData: Popup[] = [
     "body": [
       "Gelephu Mindfulness City is Bhutan’s high-profile attempt at a new SEZ-style startup city.",
       "Unlike monthlong popups, the ambition is a lasting jurisdictional and urban project.",
-      "It appears in Network School’s dashboard as a national-scale startup city bet.",
+      "GMC’s charter ties mindfulness and governance to a long-horizon SEZ buildout in southern Bhutan.",
       "Gelephu Mindfulness City is a Special Administrative Region chartered in Bhutan in February 2024.",
       "The project spans about 4,046 km² in Bhutan's southern plains bordering Assam, India.",
       "Royal Charter grants GMC executive and legislative powers with an independent judiciary separate from the national government.",
@@ -1734,7 +1763,11 @@ export const popupData: Popup[] = [
       "Operating under a One Country, Two Systems model, it will feature independent and business-friendly laws.",
       "Backed by a 10,000 Bitcoin development pledge , GMC has already started to collaborate with startup societies and ecosystems like Edge City , Ethereum , and Solana ."
     ],
-    "coverImages": [],
+    "coverImages": [
+      "/popups/gelephu/gelephugallery1.webp",
+      "/popups/gelephu/gelephugallery2.webp",
+      "/popups/gelephu/gelephugallery3.webp"
+    ],
     "pricing": [],
     "amenities": [],
     "history": [
@@ -1788,7 +1821,7 @@ export const popupData: Popup[] = [
       "Tech"
     ],
     "website": "https://www.hackerresidencygroup.com",
-    "image": "/popups/hrg.jpg",
+    "image": "/popups/hrg.webp",
     "sources": [
       "ns"
     ],
@@ -1798,7 +1831,7 @@ export const popupData: Popup[] = [
     "summary": "A residency format for ambitious indie hackers who want locked-in build time together.",
     "body": [
       "Hacker Residency Group runs coliving residencies aimed at indie hackers who want fewer distractions and more peers.",
-      "Da Nang is the current geographic anchor listed on the Network School dashboard.",
+      "Da Nang, Vietnam hosts HRG’s monthlong villa residencies for indie hackers.",
       "The product is focused residency energy, not a permanent charter city.",
       "Hacker Residency Group runs a one-month experimental residency for indie hackers in Da Nang, Vietnam.",
       "Each cohort invites a small group of founders to live and build together in a villa with dedicated workspaces.",
@@ -1815,7 +1848,11 @@ export const popupData: Popup[] = [
       "Da Nang, Vietnam is legitimately one of the best digital nomad cities in the world.",
       "It's the perfect place to lock in and make 4 months of progress on your startup in 4 weeks!"
     ],
-    "coverImages": [],
+    "coverImages": [
+      "/popups/hrg/hrggallery1.webp",
+      "/popups/hrg/hrggallery2.webp",
+      "/popups/hrg/hrggallery3.webp"
+    ],
     "pricing": [],
     "amenities": [
       "Private bedroom and bathroom for each resident",
@@ -1839,8 +1876,7 @@ export const popupData: Popup[] = [
     "overview": [
       "HRG selects a small cohort of indie hackers for each villa-based residency.",
       "The program advertises covered housing, food, and workspace for accepted founders.",
-      "Founders apply to Hacker Residency Group through the official site for dated Da Nang cohorts.",
-      "Hacker Residency Group opens dated application windows for each Da Nang villa cohort on hackerresidencygroup.com."
+      "Founders apply to Hacker Residency Group through the official site for dated Da Nang cohorts."
     ],
     "xyzUrl": null,
     "posts": [
@@ -1897,9 +1933,9 @@ export const popupData: Popup[] = [
       "P r óspe r a, w h ere t h e f r o n tie r m eets r eality Próspera creates the conditions for experimentation, entrepreneurship, and ambitious collaboration to thrive."
     ],
     "coverImages": [
-      "/popups/xyz/infinita/village.webp",
-      "/popups/xyz/infinita/banner.webp",
-      "/popups/xyz/infinita/talk.webp"
+      "/popups/xyz/infinita/infinitagallery1.webp",
+      "/popups/xyz/infinita/infinitagallery2.webp",
+      "/popups/xyz/infinita/infinitagallery3.webp"
     ],
     "pricing": [
       "Infinita City offers multiple housing options",
@@ -2004,7 +2040,9 @@ export const popupData: Popup[] = [
       "Join as a mentor or speaker in pop-up dev cities."
     ],
     "coverImages": [
-      "/popups/xyz/invisible-garden/vitalik.webp"
+      "/popups/xyz/invisible-garden/vitalik.webp",
+      "/popups/ig/vitalik-buterin-400.webp",
+      "/popups/ig/skylar-400.webp"
     ],
     "pricing": [
       "Invisible Garden's pop-up villages are usually free for selected developers. The scholarship includes accommodation, co-working spaces, and advanced courses on Ethereum, ZKP, AI, and cybersecurity"
@@ -2073,8 +2111,9 @@ export const popupData: Popup[] = [
       "🎯 Ipê City's Goals 💙 Ipê City's Values ⭐ Becoming a Member COMMUNITY ✅ Community Guidelines PULSE 🫀 What is PULSE?"
     ],
     "coverImages": [
-      "/popups/xyz/ipe-city/views.webp",
-      "/popups/xyz/ipe-city/talk.webp"
+      "/popups/xyz/ipe-city/ipecitygallery1.webp",
+      "/popups/xyz/ipe-city/ipecitygallery2.webp",
+      "/popups/xyz/ipe-city/ipecitygallery4.webp"
     ],
     "pricing": [
       "$400 full month or $150/wk",
@@ -2119,7 +2158,6 @@ export const popupData: Popup[] = [
       "Brazil-focused popup editions rotate while preserving the Ipê community brand.",
       "Ipê City publishes village documentation and cohort dates on docs.ipe.city.",
       "Ipê City maintains village governance notes, Brazil popup schedules, and builder docs on docs.ipe.city.",
-      "Check docs.ipe.city for the latest Ipê Village cohort format, housing tiers, and application steps.",
       "Ipê popup editions document governance experiments alongside coliving logistics for Brazil-based builders."
     ],
     "xyzUrl": "https://xyz.city/network-states/ipe-city",
@@ -2179,8 +2217,8 @@ export const popupData: Popup[] = [
       "For 2026, IslandDAO plans to organize two pop-up villages: IslandDAO Thailand and IslandDAO Brazil ."
     ],
     "coverImages": [
-      "/popups/xyz/islanddao/restaurant.webp",
-      "/popups/xyz/islanddao/boat.webp"
+      "/popups/xyz/islanddao/boat.webp",
+      "/popups/xyz/islanddao/restaurant.webp"
     ],
     "pricing": [
       "To attend IslandDAO's events, one needs to be a member",
@@ -2253,12 +2291,13 @@ export const popupData: Popup[] = [
       "xyz"
     ],
     "socials": {
-      "x": "https://x.com/itanaafrica"
+      "x": "https://x.com/itanaafrica",
+      "instagram": "https://www.instagram.com/itanaafrica"
     },
     "summary": "Africa’s first digital economic zone oriented to technology and service businesses.",
     "body": [
       "Itana is building a digital economic zone in Lagos for technology and service-based companies.",
-      "The framing is jurisdictional and commercial more than temporary coliving.",
+      "Companies incorporate through Itana’s digital zone rather than joining a temporary coliving cohort.",
       "Fast incorporation 3-day visa processing Data sovereignty assurance Ecosystem Access Connect to a curated ecosystem of talent, capital, strategic partners, and peer founders through the Itana Community.",
       "3,000+ community members Vetted service providers Exclusive networking events Growth-Ready Infrastructure Digital and physical infrastructure, including world-class workspaces in the Itana District within Alaro City, Nigeria.",
       "Elastic compute & AI capabilities Guaranteed internet uptime Premium physical facilities Trusted by Forward-Thinking Companies Join over 100 companies that chose Itana for their African market entry.",
@@ -2271,7 +2310,9 @@ export const popupData: Popup[] = [
       "Great for short-term in-person team sprints, company retreats, or long-term co-working and living with a full-scale residential and commercial ecosystem with in-built ESG considerations."
     ],
     "coverImages": [
-      "/popups/xyz/itana/community.webp"
+      "/popups/itana/community_video.b04eb3b8.webp",
+      "/popups/itana/image1.7083bd39.webp",
+      "/popups/itana/image2.37003061.webp"
     ],
     "pricing": [
       "Setting up a business in Itana costs $2,000 for the first year, with a $1,150 renewal fee each year after",
@@ -2302,7 +2343,33 @@ export const popupData: Popup[] = [
       "community members"
     ],
     "xyzUrl": "https://xyz.city/network-states/itana",
-    "posts": []
+    "posts": [],
+    "socialEmbeds": [
+      {
+        "platform": "linkedin",
+        "embedUrl": "https://www.linkedin.com/embed/feed/update/urn:li:activity:7420429768027836416",
+        "label": "Digital Residents on the Itana Community",
+        "viewUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7420429768027836416"
+      },
+      {
+        "platform": "linkedin",
+        "embedUrl": "https://www.linkedin.com/embed/feed/update/urn:li:activity:7394050793152114688",
+        "label": "Itana Residency Launchpad — Tope Emiola",
+        "viewUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7394050793152114688"
+      },
+      {
+        "platform": "linkedin",
+        "embedUrl": "https://www.linkedin.com/embed/feed/update/urn:li:activity:7389610617676009483",
+        "label": "Chime Nnwoka on Itana and Alaro City",
+        "viewUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7389610617676009483"
+      },
+      {
+        "platform": "linkedin",
+        "embedUrl": "https://www.linkedin.com/embed/feed/update/urn:li:activity:7389993751433351168",
+        "label": "Meet Oluwasogo O., Itana Digital Resident",
+        "viewUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7389993751433351168"
+      }
+    ]
   },
   {
     "slug": "jungli",
@@ -2352,7 +2419,11 @@ export const popupData: Popup[] = [
       "Join the WhatsApp Community Stay in the loop Get Jungli the Nomad's newsletter on Jungli's evolution 🧬 Subscribe ✓ You're in!",
       "▶ Jungli the Nomad's story, in 90 seconds × ‹ › Rotate this phone to landscape so you can see it in full screen Est."
     ],
-    "coverImages": [],
+    "coverImages": [
+      "/popups/jungli/cs-06-community-night.webp",
+      "/popups/jungli/cs-03-pool-wide.webp",
+      "/popups/jungli/cs-04-pool-residents.webp"
+    ],
     "pricing": [],
     "pricingSummary": null,
     "amenities": [
@@ -2376,7 +2447,7 @@ export const popupData: Popup[] = [
     "posts": []
   },
   {
-    "slug": "logos",
+    "slug": "logos-society",
     "name": "Logos",
     "tagline": "Decentralized tech for civil society",
     "location": "Various",
@@ -2397,7 +2468,7 @@ export const popupData: Popup[] = [
     "summary": "A social movement and decentralized technology stack aimed at revitalising civil society.",
     "body": [
       "Logos is listed as a movement plus technology stack for civil society, not a single popup venue.",
-      "The directories place it in the network-state adjacency set because of governance and decentralization goals.",
+      "Governance and decentralization tooling are the through-line, not a single coliving campus.",
       "Expect software and organizing infrastructure more than a monthlong village calendar.",
       "Logos: Build the Parallel Testnet v0.2.1 is live for experimentation.",
       "Learn More LOGOS MENU Testnet v0.2.1 is live for experimentation.",
@@ -2482,7 +2553,9 @@ export const popupData: Popup[] = [
       "The Montelibero Project is a social experiment in Montenegro that aims to build a sustainable, successful society on a national scale by combining libertarian and panarchist ideas with local cultural characteristics."
     ],
     "coverImages": [
-      "/popups/xyz/montelibero/camp.webp"
+      "/popups/xyz/montelibero/camp.webp",
+      "/popups/ml/photo_2022-03-26_10-43-40.webp",
+      "/popups/ml/echo-3-partner-960x720.webp"
     ],
     "pricing": [
       "There isn't a ticket sale, service fee or other direct purchasing options that Montelibero specifically provides",
@@ -2536,7 +2609,7 @@ export const popupData: Popup[] = [
       "Crypto"
     ],
     "website": "https://lnk.bio/mtndao",
-    "image": "/popups/mountaindao.jpg",
+    "image": "/popups/mountaindao.webp",
     "sources": [
       "ns"
     ],
@@ -2547,7 +2620,7 @@ export const popupData: Popup[] = [
     "body": [
       "mtndao runs monthlong popup villages for Solana founders and builders in Utah.",
       "The format is classic popup: temporary density, high shipping pressure, then disperse.",
-      "It is one of the clearest US Solana-native entries on the Network School list.",
+      "Salt Lake City editions pair dense coworking with summit programming and Demo Day.",
       "mtndao runs monthlong residencies in Salt Lake City for Solana founders and builders.",
       "The program emphasizes daily collaboration, sponsor workshops, and shipping pressure through bear and bull markets alike.",
       "Each residency culminates in Demo Day, where teams present live projects to the Solana community.",
@@ -2563,7 +2636,11 @@ export const popupData: Popup[] = [
       "2025 v7 Summit v7 summit runs in Salt Lake City; project directory launches.",
       "2026 v9 Summit v9 summit runs Feb 1–28 in Salt Lake City."
     ],
-    "coverImages": [],
+    "coverImages": [
+      "/popups/mtndao/mountaindaogallery1.webp",
+      "/popups/mtndao/mountaindaogallery2.webp",
+      "/popups/mtndao/mountaindaogallery3.webp"
+    ],
     "pricing": [],
     "amenities": [
       "Coworking space for Solana teams during the residency month",
@@ -2590,7 +2667,6 @@ export const popupData: Popup[] = [
       "mtndao keeps a consistent Salt Lake City venue for annual Solana builder months.",
       "Sponsors fund programming that runs through both bear and bull market cycles.",
       "Cohort announcements and sponsor information for mtndao are published through the project's official link hub.",
-      "Organizers publish Salt Lake City residency dates, sponsor packages, and Demo Day details through mtndao channels.",
       "mtndao posts Salt Lake City cohort dates through its official link hub."
     ],
     "xyzUrl": null,
@@ -2643,9 +2719,8 @@ export const popupData: Popup[] = [
       "The first v1 cohort ran in Forest City, Malaysia before the program reopened in Kazakhstan. The campus hosts Layer-2 efforts such as Arc alongside other startup-society projects."
     ],
     "coverImages": [
-      "/popups/xyz/network-school/city.webp",
-      "/popups/xyz/network-school/room.webp",
-      "/popups/xyz/network-school/gym.webp",
+      "/popups/xyz/network-school/networkschoolgallery1.webp",
+      "/popups/xyz/network-school/networkschoolgallery2.webp",
       "/popups/xyz/network-school/crowd.webp"
     ],
     "pricing": [
@@ -2739,17 +2814,14 @@ export const popupData: Popup[] = [
       "Netxstate connects regenerative nodes across bioregions instead of betting everything on one campus.",
       "Patagonia is the geographic signal most often attached to the project.",
       "Governance and biotech themes sit alongside community and startup coordination.",
-      "Netxstate publishes governance experiments and popup coordination tools for communities experimenting with network-state mechanics.",
       "NetX Gen is a network of regenerative nodes connecting bioregions, communities, startups, and technologies to co-create a new model of civilization.",
       "It builds infrastructure across three layers - digital, legal, and physical - to prototype regenerative territories, decentralized governance, and cosmolocal solutions.",
       "Right after, it organized Regen Hub at Devconnect Buenos Aires , connecting over 300 participants in a strategic meeting point between ReFi, Web3, DeSci, decentralized governance, and local regenerative projects."
     ],
     "coverImages": [
       "/popups/xyz/netx-gen/community.webp",
-      "/popups/xyz/netx-gen/houses.webp",
-      "/popups/xyz/netx-gen/founder.webp",
-      "/popups/xyz/netx-gen/sessions.webp",
-      "/popups/xyz/netx-gen/people.webp"
+      "/popups/xyz/netx-gen/people.webp",
+      "/popups/xyz/netx-gen/founder.webp"
     ],
     "pricing": [
       "For reference, ReGen Haus was $1550 for the full month. Ticket included housing (shared rooms), breakfast, and full access to the program",
@@ -2785,10 +2857,7 @@ export const popupData: Popup[] = [
       "NetX Gen is a network of regenerative nodes connecting bioregions, communities, startups, and technologies to co-create a new model of civilization",
       "It builds infrastructure across three layers - digital, legal, and physical - to prototype regenerative territories, decentralized governance, and cosmolocal solutions",
       "Netxstate experiments with network-state governance tooling and popup coordination for digital communities.",
-      "Follow netxstate.com for active cohorts and application windows.",
-      "Netxstate shares governance experiments and community links on netxstate.com.",
-      "Netxstate experiments with governance tooling and posts active community links on netxstate.com.",
-      "Follow netxstate.com for governance experiments and popup coordination updates."
+      "Netxstate shares governance experiments and community links on netxstate.com."
     ],
     "xyzUrl": "https://xyz.city/network-states/netx-gen",
     "posts": []
@@ -2804,7 +2873,7 @@ export const popupData: Popup[] = [
       "Tech"
     ],
     "website": "https://www.noma-collective.com",
-    "image": "/popups/nomacollective.png",
+    "image": "/popups/nomacollective.webp",
     "sources": [
       "ns"
     ],
@@ -2837,7 +2906,11 @@ export const popupData: Popup[] = [
       "Japan · 6 months ago “ I didn't know two weeks with a bunch of strangers could be so profound.",
       "I didn't know as an adult you could play this much."
     ],
-    "coverImages": [],
+    "coverImages": [
+      "/popups/noma/nomacollectivegallery1.webp",
+      "/popups/noma/nomacollectivegallery2.webp",
+      "/popups/noma/nomacollectivegallery3.webp"
+    ],
     "pricing": [],
     "amenities": [],
     "history": [
@@ -2880,7 +2953,7 @@ export const popupData: Popup[] = [
       "Tech"
     ],
     "website": "https://nomad.homes",
-    "image": "/popups/nomad.jpg",
+    "image": "/popups/nomad.webp",
     "sources": [
       "ns"
     ],
@@ -2909,7 +2982,11 @@ export const popupData: Popup[] = [
       "Raleigh, USA 2 Echo Creek Village Stage Renting Units Nomad's very first NODE and prototype community site is now welcoming guests.",
       "Durham, USA 10 Durham Village Stage Under Contract Nomad's second US NODE community is coming soon to 5+ wooded acres."
     ],
-    "coverImages": [],
+    "coverImages": [
+      "/popups/nomad/nomadgallery1.webp",
+      "/popups/nomad/nomadgallery2.webp",
+      "/popups/nomad/nomadgallery3.webp"
+    ],
     "pricing": [],
     "amenities": [],
     "history": [
@@ -2989,7 +3066,8 @@ export const popupData: Popup[] = [
       "Praxis has proposed Atlas, in California, which is the concept for a defense and spaceport city on 3,850 acres at Vandenberg Space Force Base."
     ],
     "coverImages": [
-      "/popups/xyz/praxis/flags.webp"
+      "/popups/xyz/praxis/flags.webp",
+      "/popups/praxis/social-preview.webp"
     ],
     "pricing": [
       "Becoming a Praxis Nomad is free"
@@ -3054,8 +3132,8 @@ export const popupData: Popup[] = [
       "Less than 1% of the Cost Save more with operating costs under 1% of other jurisdictions."
     ],
     "coverImages": [
-      "/popups/xyz/prospera/city.webp",
       "/popups/xyz/prospera/building.webp",
+      "/popups/xyz/prospera/city.webp",
       "/popups/xyz/prospera/houses.webp"
     ],
     "pricing": [
@@ -3150,7 +3228,7 @@ export const popupData: Popup[] = [
       "Tech"
     ],
     "website": "https://www.proto.town",
-    "image": "/popups/prototown.jpg",
+    "image": "/popups/prototown.webp",
     "sources": [
       "ns"
     ],
@@ -3179,7 +3257,11 @@ export const popupData: Popup[] = [
       "March 2026 Nuclear Reactor Plans Filed Filed preliminary plans for a 7,600 sq ft nuclear research reactor in Lockhart with a $23M estimated cost.",
       "April 2026 Ashlee Vance profile Bloomberg journalist Ashlee Vance publishes an in-depth feature on Proto-Town and its model for hardware reindustrialization."
     ],
-    "coverImages": [],
+    "coverImages": [
+      "/popups/proto/prototowngallery1.webp",
+      "/popups/proto/prototowngallery2.webp",
+      "/popups/proto/prototowngallery3.webp"
+    ],
     "pricing": [],
     "amenities": [
       "On-site machine shops and fabrication equipment",
@@ -3245,7 +3327,7 @@ export const popupData: Popup[] = [
       "Governance"
     ],
     "website": "https://rns.id",
-    "image": "/popups/rnsid.jpg",
+    "image": "/popups/rnsid.webp",
     "sources": [
       "ns"
     ],
@@ -3256,7 +3338,7 @@ export const popupData: Popup[] = [
     "body": [
       "RNS.ID sells digital residency rather than a physical popup campus.",
       "The interesting part is the state partnership: Palau provides the government wrapper for a global digital ID product.",
-      "It belongs in this directory as digital jurisdiction infrastructure, not as a coliving brand.",
+      "Palau-backed digital residency is the product; rns.id covers enrollment and policy updates.",
       "RNS.ID issues blockchain-based digital identity credentials tied to real-world verification.",
       "The project targets sovereign digital identity for people who need portable, verifiable credentials.",
       "RNS.ID sits in the identity layer of the network-state tool stack rather than running a physical village.",
@@ -3275,7 +3357,11 @@ export const popupData: Popup[] = [
       "2023–2024 Blockchain Expansion Platform issues Legal Digital IDs on Ethereum and Solana with zkSync support for onchain KYC.",
       "2025+ Voyager Pass Rollout Enhanced benefits added including travel discounts and priority access for existing residents."
     ],
-    "coverImages": [],
+    "coverImages": [
+      "/popups/rns/RNSgallery1.webp",
+      "/popups/rns/RNSgallery2.webp",
+      "/popups/rns/RNSgallery3.webp"
+    ],
     "pricing": [
       "Credential pricing depends on verification tier and issuance type"
     ],
@@ -3356,8 +3442,9 @@ export const popupData: Popup[] = [
       "Apply to Join as a Woo Resident Apply to Join as a Woo Resident Apply to Join as a Woo Resident Apply to Join as a Woo Resident Building Tomorrow’s Tech, Together See What ShanHaiWoo Built in Singapore Missed it live?"
     ],
     "coverImages": [
-      "/popups/xyz/shanhaiwoo/people.webp",
-      "/popups/xyz/shanhaiwoo/vitalik.webp"
+      "/popups/xyz/shanhaiwoo/shanhaiwoogallery1.webp",
+      "/popups/xyz/shanhaiwoo/shanhaiwoogallery2.webp",
+      "/popups/xyz/shanhaiwoo/shanhaiwoogallery3.webp"
     ],
     "pricing": [
       "ShanHaiWoo Beidahu *",
@@ -3436,17 +3523,17 @@ export const popupData: Popup[] = [
       "Business"
     ],
     "website": "https://www.starbase.texas.gov",
-    "image": "/popups/starbase.png",
+    "image": "/popups/starbase.webp",
     "sources": [
       "ns"
     ],
     "socials": {
       "x": "https://x.com/StarbaseTX"
     },
-    "summary": "The Texas aerospace city known as Starbase, listed among startup-society experiments.",
+    "summary": "The Texas aerospace city known as Starbase, shaping launch operations near Boca Chica.",
     "body": [
       "Starbase is the Texas aerospace city project frequently nicknamed the gateway to Mars.",
-      "It lands in this directory as a large-scale startup city adjacent to the network-state conversation.",
+      "Starbase is the municipal name for SpaceX’s Boca Chica launch campus in Cameron County, Texas.",
       "Unlike crypto popups, the industrial and municipal stakes are the main story.",
       "Starbase is a city at the southern tip of Texas in the Rio Grande Valley.",
       "It is home to SpaceX Starship production, testing, and orbital launch facilities.",
@@ -3463,7 +3550,11 @@ export const popupData: Popup[] = [
       "It now operates as a tight-knit company town with world-class manufacturing and an orbital launch pad.",
       "2026 Community programs Residents organized large-scale beach cleanups along Boca Chica, conserved 1,000+ acres of land, and began building a community library together."
     ],
-    "coverImages": [],
+    "coverImages": [
+      "/popups/starbase/starbasegallery1.webp",
+      "/popups/starbase/starbasegallery2.webp",
+      "/popups/starbase/starbasegallery3.webp"
+    ],
     "pricing": [],
     "amenities": [
       "Proximity to SpaceX Starship production and launch facilities",
@@ -3553,9 +3644,9 @@ export const popupData: Popup[] = [
       "The-mu is a community of digital nomads organizing pop-up cities focused on blockchain, cryptography, and web3 technologies."
     ],
     "coverImages": [
-      "/popups/xyz/the-mu/community.webp",
-      "/popups/xyz/the-mu/accra.webp",
-      "/popups/xyz/the-mu/buenos.webp"
+      "/popups/xyz/the-mu/themugallery1.webp",
+      "/popups/xyz/the-mu/themugallery2.webp",
+      "/popups/xyz/the-mu/themugallery3.webp"
     ],
     "pricing": [
       "Most pop-up villages that the-mu hosts are free to attend",
@@ -3651,9 +3742,9 @@ export const popupData: Popup[] = [
       "Shared accommodation may be purchased, or participants can arrange their own privately."
     ],
     "coverImages": [
-      "/popups/xyz/the-oz-city/views.webp",
+      "/popups/xyz/the-oz-city/fitness.webp",
       "/popups/xyz/the-oz-city/house.webp",
-      "/popups/xyz/the-oz-city/fitness.webp"
+      "/popups/xyz/the-oz-city/views.webp"
     ],
     "pricing": [
       "Bootcamp program for startups and builders",
@@ -3704,7 +3795,7 @@ export const popupData: Popup[] = [
       "Culture"
     ],
     "website": "https://www.traditionaldreamfactory.com",
-    "image": "/popups/traditionaldreamfactory.jpg",
+    "image": "/popups/traditionaldreamfactory.webp",
     "sources": [
       "ns"
     ],
@@ -3715,7 +3806,7 @@ export const popupData: Popup[] = [
     "body": [
       "Traditional Dream Factory runs a regenerative coliving village in Portugal.",
       "The emphasis is longer-stay land-based community rather than a traveling monthlong popup.",
-      "It shows up on the Network School dashboard as a European permanent node.",
+      "The village sits on a former poultry farm in Abela, Portugal, west of Lisbon.",
       "Traditional Dream Factory is a regenerative coliving village on a former poultry farm in Portugal.",
       "The project restores land while hosting creators, remote workers, and land stewards.",
       "Infrastructure includes glamping, solar power, Starlink connectivity, and on-site tokenized booking through $TDF.",
@@ -3733,7 +3824,11 @@ export const popupData: Popup[] = [
       "2025 Build out phase Upgraded facilities, advanced mushroom farm, and completed the masterplan.",
       "2026 Hospitality completion Constructing en suite rooms, a restaurant, and studios while finalizing cohousing permits."
     ],
-    "coverImages": [],
+    "coverImages": [
+      "/popups/tdf/tdfgallery1.webp",
+      "/popups/tdf/tdfgallery2.webp",
+      "/popups/tdf/tdfgallery3.webp"
+    ],
     "pricing": [],
     "amenities": [
       "Glamping and coliving rooms on the Portuguese farm",
@@ -3757,8 +3852,7 @@ export const popupData: Popup[] = [
     "overview": [
       "Traditional Dream Factory combines regenerative land work with Web3-native booking mechanics.",
       "The village hosts remote workers, creatives, and families for seasonal stays.",
-      "Stays and tokenized bookings for Traditional Dream Factory are managed through the village's official booking site.",
-      "Traditional Dream Factory documents land stewardship, glamping inventory, and token booking rules on its official site."
+      "Stays and tokenized bookings for Traditional Dream Factory are managed through the village's official booking site."
     ],
     "xyzUrl": null,
     "posts": [
@@ -3789,7 +3883,7 @@ export const popupData: Popup[] = [
       "Culture"
     ],
     "website": "https://vibe.camp",
-    "image": "/popups/vibecamp.jpg",
+    "image": "/popups/vibecamp.webp",
     "sources": [
       "ns"
     ],
@@ -3825,7 +3919,11 @@ export const popupData: Popup[] = [
       "2022 Vibecamp 1 Inaugural in-person gathering at Camp Champions in Austin, TX (~400 attendees).",
       "2024 Vibecamp 3 & Vibeclipse Hosted the third main camp, plus a special \"Vibeclipse\" event in Texas for the solar eclipse."
     ],
-    "coverImages": [],
+    "coverImages": [
+      "/popups/vibe/vibecampgallery1.webp",
+      "/popups/vibe/vibecampgallery2.webp",
+      "/popups/vibe/vibecampgallery3.webp"
+    ],
     "pricing": [],
     "amenities": [],
     "history": [],
@@ -3898,9 +3996,9 @@ export const popupData: Popup[] = [
       "Special jurisdictions Viva are creating Viva's own laws & regulations, to remove bottlenecks that stifle innovation."
     ],
     "coverImages": [
+      "/popups/xyz/viva-city/community.webp",
       "/popups/xyz/viva-city/city.webp",
-      "/popups/xyz/viva-city/talk.webp",
-      "/popups/xyz/viva-city/community.webp"
+      "/popups/xyz/viva-city/talk.webp"
     ],
     "pricing": [
       "Apart from specific events, Viva City uses a tiered pricing structure:",
@@ -3960,7 +4058,7 @@ export const popupData: Popup[] = [
     "summary": "An ecosystem incubator hosting immersive popup villages where Web3 builders live, learn, and launch.",
     "body": [
       "Web3 Villages packages incubator energy into temporary villages for shipping projects in community.",
-      "Bangkok is a recurring geography in the directories, with Discord and Telegram as coordination layers.",
+      "Bangkok editions anchor much of the programming, with Discord and Telegram coordinating between villages.",
       "The offer is practical: housing plus program density for people trying to launch.",
       "Web3 Villages rotates incubator popups through partner cities while keeping Discord and Telegram as coordination layers between cohorts.",
       "Web3Village is not just a hackathon slapped onto a beach.",
@@ -3974,10 +4072,9 @@ export const popupData: Popup[] = [
       "Interdisciplinary collision Web3 meets AI, robotics, civic tech — sparks unpredictable breakthroughs."
     ],
     "coverImages": [
-      "/popups/xyz/web3-villages/japan.webp",
       "/popups/xyz/web3-villages/people.webp",
       "/popups/xyz/web3-villages/coworking.webp",
-      "/popups/xyz/web3-villages/presentation.webp"
+      "/popups/xyz/web3-villages/japan.webp"
     ],
     "pricing": [],
     "pricingSummary": null,
@@ -4009,7 +4106,6 @@ export const popupData: Popup[] = [
       "Web3 Villages hosts incubator-style popup villages where founders live, learn, and ship together.",
       "Bangkok and other hubs rotate based on cohort theme and partner venues.",
       "Web3 Villages lists upcoming incubator popups and partner cities on web3villages.com.",
-      "Web3 Villages announces incubator popups, partner venues, and Discord coordination on web3villages.com.",
       "Cohorts combine Bangkok and other hubs with Telegram and Discord channels for accepted builders."
     ],
     "xyzUrl": "https://xyz.city/network-states/web3-villages",
@@ -4040,7 +4136,7 @@ export const popupData: Popup[] = [
     "body": [
       "Zanzalu runs recurring builder popups in Zanzibar with a mix of local and overseas technologists.",
       "Summer coliving density is the product: live together, collaborate, leave with projects and relationships.",
-      "It is one of the main East African entries shared across both directories.",
+      "Fumba Town editions put East African and international builders in the same coliving cohort.",
       "Join us in Zanzibar from July 25 to August 14, 2026.",
       "Zanzalu is an annual pop-up city and living laboratory in Fumba Town, Zanzibar.",
       "Blending the energy of a festival and a builder hub, Zanzalu becomes a temporary city designed for collaboration, focus, and curiosity.",
@@ -4055,8 +4151,9 @@ export const popupData: Popup[] = [
       "The airport is about 20 minutes away, and Stone Town is an easy drive for nights out, history, and food."
     ],
     "coverImages": [
-      "/popups/xyz/zanzalu/zanzibar.webp",
-      "/popups/xyz/zanzalu/talk.webp"
+      "/popups/xyz/zanzalu/zanzalugallery1.webp",
+      "/popups/xyz/zanzalu/zanzalugallery2.webp",
+      "/popups/xyz/zanzalu/zanzalugallery3.webp"
     ],
     "pricing": [
       "Tickets for pop-up villages depend on the edition and often have 10-20% early bird discounts",
@@ -4150,8 +4247,9 @@ export const popupData: Popup[] = [
       "These tools are essential for creating privacy-preserving and secure systems which are key to decentralized innovation."
     ],
     "coverImages": [
-      "/popups/xyz/zu-grama/community.webp",
-      "/popups/xyz/zu-grama/talk.webp"
+      "/popups/xyz/zu-grama/zugramagallery1.webp",
+      "/popups/xyz/zu-grama/zugramagallery2.webp",
+      "/popups/xyz/zu-grama/zugramagallery3.webp"
     ],
     "pricing": [
       "For the Zu-Grama pop-up in 2025:",
@@ -4245,9 +4343,9 @@ export const popupData: Popup[] = [
       "The 3.65 ETH was untouched due to the price dip."
     ],
     "coverImages": [
-      "/popups/xyz/zuafrique/community.webp",
-      "/popups/xyz/zuafrique/talk.webp",
-      "/popups/xyz/zuafrique/people.webp"
+      "/popups/xyz/zuafrique/zuafriquegallery1.webp",
+      "/popups/xyz/zuafrique/zuafriquegallery2.webp",
+      "/popups/xyz/zuafrique/zuafriquegallery3.webp"
     ],
     "pricing": [
       "ZuAfrique 1.0 was funded through a combination of sponsor support and direct organizational investment",
@@ -4337,9 +4435,9 @@ export const popupData: Popup[] = [
       "Coliving is slow, deep, reality-bending progress on yourself, your life, and your projects."
     ],
     "coverImages": [
-      "/popups/xyz/zucity-japan/presentation.webp",
-      "/popups/xyz/zucity-japan/kitchen.webp",
-      "/popups/xyz/zucity-japan/selfie.webp"
+      "/popups/xyz/zucity-japan/zujapangallery1.webp",
+      "/popups/xyz/zucity-japan/zujapangallery2.webp",
+      "/popups/xyz/zucity-japan/zujapangallery3.webp"
     ],
     "pricing": [
       "Co-living options for flexible stays include:",
@@ -4440,9 +4538,9 @@ export const popupData: Popup[] = [
       "April 2025 Vitalik Donation Ethereum founder donates 274 ETH to support development as a long-term Zuzalu hub."
     ],
     "coverImages": [
-      "/popups/xyz/zuitzerland/presentation.webp",
-      "/popups/xyz/zuitzerland/vitalik.webp",
-      "/popups/xyz/zuitzerland/people.webp"
+      "/popups/xyz/zuitzerland/zuitzerlandgallery1.webp",
+      "/popups/xyz/zuitzerland/zuitzerlandgallery2.webp",
+      "/popups/xyz/zuitzerland/zuitzerlandgallery3.webp"
     ],
     "pricing": [
       "Zuitzerland 2025 Summit, the culmination event of the Zuitzerland Residency, cost CHF 359 ($450) for the weekend. No accommodation included.*",
@@ -4523,7 +4621,9 @@ export const popupData: Popup[] = [
       "To experiment with plurality governance in a Web3 context, creating prototypes for decentralized decision-making and phygital commons."
     ],
     "coverImages": [
-      "/popups/xyz/zukas/community.webp"
+      "/popups/xyz/zukas/zukasgallery1.webp",
+      "/popups/xyz/zukas/zukasgallery2.webp",
+      "/popups/xyz/zukas/zukasgallery3.webp"
     ],
     "pricing": [
       "ZuKas tickets are often tiered and include scholarship options",
@@ -4614,7 +4714,7 @@ export const popupData: Popup[] = [
     "body": [
       "Zuzalu started as the first high-profile popup village in Luštica Bay, Montenegro, and grew into a distributed network.",
       "It also pushed CommunityOS ideas and open-source coordination for temporary societies.",
-      "Most Zu-named projects in this directory are cultural descendants of that first experiment.",
+      "Later Zu-branded villages and fellowships trace much of their culture back to Zuzalu’s Montenegro cohort.",
       "Zuzalu - Ethereum popup village network Zuzalu An umbrella community of popup villages anchored to the Ethereum community.",
       "It brought together ~200 builders, thinkers, and researchers in longevity, crypto, AI, and network states for coliving and collaboration.",
       "After the original event, Zuzalu decentralized into independently-run Zu-villages, supported by two Gitcoin funding rounds for both events and core infrastructure like Zupass.",
@@ -4622,9 +4722,9 @@ export const popupData: Popup[] = [
       "Dec 2023 Decentralization Moment Vitalik proposed a shift from centralized events to independent, global popup villages."
     ],
     "coverImages": [
-      "/popups/xyz/zuzalu/island.webp",
-      "/popups/xyz/zuzalu/vitalik.webp",
-      "/popups/xyz/zuzalu/island-top.webp"
+      "/popups/xyz/zuzalu/zuzalugallery3.webp",
+      "/popups/xyz/zuzalu/zuzalugallery8.webp",
+      "/popups/xyz/zuzalu/zuzalugallery9.webp"
     ],
     "pricing": [
       "Zuzalu Pop-up Montenegro",
