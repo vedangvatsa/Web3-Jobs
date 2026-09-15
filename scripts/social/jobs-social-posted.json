@@ -1,5 +1,5 @@
 {
-  "lastIndex": 184,
+  "lastIndex": 186,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -55,7 +55,9 @@
     "sales202",
     "analystb44ed",
     "marketingddc52",
-    "analyst56101"
+    "analyst56101",
+    "it4",
+    "sales65275"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -3236,6 +3238,138 @@
       "platform": "instagram",
       "postedAt": "2026-09-15T00:42:44.825Z",
       "postId": "17947279521287016",
+      "verification": "verified"
+    },
+    {
+      "slug": "it4",
+      "company": "eToro",
+      "title": "IT Service Specialist",
+      "platform": "x",
+      "postedAt": "2026-09-15T06:13:46.928Z",
+      "postId": "2099743461050093896",
+      "verification": "verified"
+    },
+    {
+      "slug": "it4",
+      "company": "eToro",
+      "title": "IT Service Specialist",
+      "platform": "threads",
+      "postedAt": "2026-09-15T06:13:46.928Z",
+      "postId": "18124910803850431",
+      "verification": "verified",
+      "expectedText": "eToro is hiring IT Service Specialist: https://hashtagweb3.com/it4/th?og=2",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DdTCpLOlQUy",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "it4",
+      "company": "eToro",
+      "title": "IT Service Specialist",
+      "platform": "bluesky",
+      "postedAt": "2026-09-15T06:13:46.928Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mvjxupslfc2j",
+      "verification": "verified"
+    },
+    {
+      "slug": "it4",
+      "company": "eToro",
+      "title": "IT Service Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-09-15T06:13:46.928Z",
+      "postId": "0xc554bfe24eb8362d0f3eef2a7e778b2ad22bc795",
+      "verification": "verified"
+    },
+    {
+      "slug": "it4",
+      "company": "eToro",
+      "title": "IT Service Specialist",
+      "platform": "linkedin",
+      "postedAt": "2026-09-15T06:13:46.928Z",
+      "postId": "6aa8e2317a172fa74f8a5bec",
+      "verification": "verified"
+    },
+    {
+      "slug": "it4",
+      "company": "eToro",
+      "title": "IT Service Specialist",
+      "platform": "facebook",
+      "postedAt": "2026-09-15T06:13:46.928Z",
+      "postId": "691827047618629_1088790740394827",
+      "verification": "verified"
+    },
+    {
+      "slug": "it4",
+      "company": "eToro",
+      "title": "IT Service Specialist",
+      "platform": "instagram",
+      "postedAt": "2026-09-15T06:13:46.928Z",
+      "postId": "17988312450052123",
+      "verification": "verified"
+    },
+    {
+      "slug": "sales65275",
+      "company": "Stripe",
+      "title": "Account Executive, Enterprise (Hunter)",
+      "platform": "x",
+      "postedAt": "2026-09-15T06:15:37.824Z",
+      "postId": "2099743925820895383",
+      "verification": "verified"
+    },
+    {
+      "slug": "sales65275",
+      "company": "Stripe",
+      "title": "Account Executive, Enterprise (Hunter)",
+      "platform": "threads",
+      "postedAt": "2026-09-15T06:15:37.824Z",
+      "postId": "18411105709085161",
+      "verification": "verified",
+      "expectedText": "Stripe is hiring Account Executive, Enterprise (Hunter): https://hashtagweb3.com/sales65275/th?og=2",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DdTC2rJlcld",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "sales65275",
+      "company": "Stripe",
+      "title": "Account Executive, Enterprise (Hunter)",
+      "platform": "bluesky",
+      "postedAt": "2026-09-15T06:15:37.824Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mvjxy4s4d22n",
+      "verification": "verified"
+    },
+    {
+      "slug": "sales65275",
+      "company": "Stripe",
+      "title": "Account Executive, Enterprise (Hunter)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-15T06:15:37.824Z",
+      "postId": "0x728edb0ee9d98d18820982630c158c85605ed421",
+      "verification": "verified"
+    },
+    {
+      "slug": "sales65275",
+      "company": "Stripe",
+      "title": "Account Executive, Enterprise (Hunter)",
+      "platform": "linkedin",
+      "postedAt": "2026-09-15T06:15:37.824Z",
+      "postId": "6aa8e2a37c6c16e04a1b1862",
+      "verification": "verified"
+    },
+    {
+      "slug": "sales65275",
+      "company": "Stripe",
+      "title": "Account Executive, Enterprise (Hunter)",
+      "platform": "facebook",
+      "postedAt": "2026-09-15T06:15:37.824Z",
+      "postId": "691827047618629_1088792090394692",
+      "verification": "verified"
+    },
+    {
+      "slug": "sales65275",
+      "company": "Stripe",
+      "title": "Account Executive, Enterprise (Hunter)",
+      "platform": "instagram",
+      "postedAt": "2026-09-15T06:15:37.824Z",
+      "postId": "18225880570330211",
       "verification": "verified"
     }
   ]
