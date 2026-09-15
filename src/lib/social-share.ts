@@ -1,6 +1,6 @@
 /**
  * Social share path suffixes (/ebc/dc → Discord UTM) and link-preview crawlers.
- * Keep og-meta stripSocialSuffix and middleware UTM handling in sync via this module.
+ * Keep og-meta stripSocialPathSuffix, middleware UTM handling, and bot OG rewrites in sync via this module.
  */
 
 export const SOCIAL_UTM_MAP: Record<string, { utm_source: string; utm_medium: string }> = {
