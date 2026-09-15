@@ -6,8 +6,11 @@ import {
   scrubPopupLines,
   shouldDropPopupLine,
 } from '@/lib/popup-copy-guard';
+import { normalizePopupDashes } from '@/lib/popup-dashes';
 import {
   explodePopupTextLines,
+  formatPopupPostText,
+  formatPopupText,
   isPopupScrapeNoise,
   mergeBrokenPopupLines,
 } from '@/lib/popup-text';
@@ -44,7 +47,7 @@ function scrubPopup(popup: Popup): Popup {
 
   return {
     ...popup,
-    tagline: TAGLINE_FIXES[popup.slug] ?? popup.tagline,
+    tagline: formatPopupText(TAGLINE_FIXES[popup.slug] ?? popup.tagline),
     summary: summaryRaw,
     body: scrubBody(popup.body),
     overview: scrubField(popup.overview),
@@ -54,6 +57,11 @@ function scrubPopup(popup: Popup): Popup {
     amenities: scrubField(popup.amenities),
     pricing,
     pricingSummary,
+    posts: popup.posts?.map((post) => ({ ...post, text: formatPopupPostText(post.text) })),
+    socialEmbeds: popup.socialEmbeds?.map((embed) => ({
+      ...embed,
+      label: embed.label ? normalizePopupDashes(embed.label) : embed.label,
+    })),
   };
 }
 

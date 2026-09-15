@@ -1,3 +1,5 @@
+import { normalizePopupDashes } from '@/lib/popup-dashes';
+
 function norm(line: string): string {
   return line.replace(/\s+/g, ' ').trim();
 }
@@ -211,7 +213,7 @@ export const POPUP_LINE_REWRITES: Record<string, string> = {
 
 export function rewritePopupLine(line: string): string {
   const t = norm(line);
-  return POPUP_LINE_REWRITES[t] ?? t;
+  return normalizePopupDashes(POPUP_LINE_REWRITES[t] ?? t);
 }
 
 export function shouldDropPopupLine(line: string): boolean {

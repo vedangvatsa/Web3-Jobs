@@ -1,6 +1,5 @@
 import { notFound, permanentRedirect } from 'next/navigation';
 import type { Metadata } from 'next';
-import { PopupDetailPage } from '@/components/popup-detail-page';
 import { getPopupBySlug, getPopupSlugs } from '@/lib/popups';
 import { getPopupPath, popupPageMetadata, resolvePopupSlug } from '@/lib/popup-seo';
 
@@ -31,11 +30,5 @@ export default function PopupSlugPage({ params }: PopupPageProps) {
     notFound();
   }
 
-  const canonical = getPopupPath(popup.slug);
-  const namespaced = `/popups/${params.slug}`;
-  if (canonical !== namespaced) {
-    permanentRedirect(canonical);
-  }
-
-  return <PopupDetailPage popup={popup} />;
+  permanentRedirect(getPopupPath(popup.slug));
 }
