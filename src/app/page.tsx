@@ -24,13 +24,13 @@ export const metadata: Metadata = {
     title: 'Web3 Jobs and Crypto Careers',
     description: 'Find verified Web3 jobs, crypto careers, salary data, and remote blockchain roles. Updated daily.',
     url: 'https://hashtagweb3.com',
-    images: [{ url: 'https://hashtagweb3.com/api/og?type=default&title=Web3%20Jobs', width: 1200, height: 630 }],
+    images: [{ url: 'https://hashtagweb3.com/og-image.png', width: 1200, height: 630 }],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'Web3 Jobs and Crypto Careers',
     description: 'Find verified Web3 jobs, crypto careers, salary data, and remote blockchain roles. Updated daily.',
-    images: ['https://hashtagweb3.com/api/og?type=default&title=Web3%20Jobs'],
+    images: ['https://hashtagweb3.com/og-image.png'],
   },
 };
 

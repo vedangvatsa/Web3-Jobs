@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   description: 'Optimize your remote workspace setup for peak productivity, strong digital security, and physical well-being. Includes a downloadable PDF checklist.',
   url: 'https://hashtagweb3.com/remote-work-checklist',
   images: [{
-   url: 'https://hashtagweb3.com/api/og?type=default&title=Remote%20Work%20Checklist',
+   url: 'https://hashtagweb3.com/og-image-tools.png',
    width: 1200,
    height: 630,
    alt: 'Remote Work Checklist Tool',
@@ -23,7 +23,7 @@ export const metadata: Metadata = {
   card: 'summary_large_image',
   title: 'Remote Work Checklist | Hashtag Web3',
   description: 'Optimize your remote workspace setup for peak productivity, strong digital security, and physical well-being. Includes a downloadable PDF checklist.',
-  images: ['https://hashtagweb3.com/api/og?type=default&title=Remote%20Work%20Checklist'],
+  images: ['https://hashtagweb3.com/og-image-tools.png'],
  },
 };
 

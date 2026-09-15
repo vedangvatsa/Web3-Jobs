@@ -70,6 +70,8 @@ const COMPANY_LOGO_ALIASES: Record<string, string> = {
   'dune-analytics': 'dune',
   'duneanalytics': 'dune',
   'arbitrum-opco': 'arbitrum',
+  'mantra-chain': 'mantra',
+  mantra: 'mantra',
 };
 
 const COMPANY_FAVICON_DOMAINS: Record<string, string> = {
@@ -142,6 +144,21 @@ const COMPANY_FAVICON_DOMAINS: Record<string, string> = {
   'waymo': 'waymo.com',
   'webflow': 'webflow.com',
   'ziprecruiter': 'ziprecruiter.com',
+  'mantra-chain': 'mantrachain.io',
+  'mantra': 'mantrachain.io',
+  'skip-protocol': 'skip.money',
+  'kiln': 'kiln.fi',
+  'arch-network': 'arch.network',
+  'somnia': 'somnia.network',
+  'anagram': 'anagram.xyz',
+  'grayscale': 'grayscale.com',
+  'grayscale-investments': 'grayscale.com',
+  'dakota': 'dakota.io',
+  'fintax': 'fintax.ai',
+  'story-protocol': 'story.foundation',
+  'bitway': 'bitway.io',
+  'paribu': 'paribu.com',
+  'gensyn': 'gensyn.ai',
 };
 
 function faviconUrlForDomain(domain: string): string {
@@ -156,23 +173,24 @@ const LOGO_PATHS = (slug: string): string[] => {
 
   return candidates.flatMap((candidate) => {
     const lower = candidate.toLowerCase();
+    // Prefer PNG first — /api/og job cards rewrite webp→png and need a real PNG file.
     return [
+      `/logo/companies/${candidate}.png`,
+      `/logo/companies/${lower}.png`,
+      `/logo/job/${candidate}.png`,
+      `/logo/job/${lower}.png`,
+      `/logo/partners/${candidate}.png`,
+      `/logo/partners/${lower}.png`,
       `/logo/companies/${candidate}.webp`,
       `/logo/companies/${lower}.webp`,
       `/logo/job/${candidate}.webp`,
       `/logo/job/${lower}.webp`,
       `/logo/partners/${candidate}.webp`,
       `/logo/partners/${lower}.webp`,
-      `/logo/companies/${candidate}.png`,
       `/logo/companies/${candidate}.jpg`,
       `/logo/companies/${candidate}.svg`,
-      `/logo/companies/${lower}.png`,
-      `/logo/job/${candidate}.png`,
       `/logo/job/${candidate}.jpg`,
       `/logo/job/${candidate}.svg`,
-      `/logo/job/${lower}.png`,
-      `/logo/partners/${candidate}.png`,
-      `/logo/partners/${lower}.png`,
     ];
   });
 };

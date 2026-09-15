@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   url: 'https://hashtagweb3.com/web3-career-quiz',
   images: [
    {
-    url: 'https://hashtagweb3.com/api/og?type=default&title=Web3%20Career%20Assessment',
+    url: 'https://hashtagweb3.com/og-image-tools.png',
     width: 1200,
     height: 630,
     alt: 'Web3 Archetype Assessment',
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
   card: 'summary_large_image',
   title: 'Web3 Career Quiz | Hashtag Web3',
   description:"Discover your Web3 professional archetype with our free assessment. Find out which crypto career paths best match your skills, interests, and working style in the decentralized economy.",
-  images: ['https://hashtagweb3.com/api/og?type=default&title=Web3%20Career%20Assessment'],
+  images: ['https://hashtagweb3.com/og-image-tools.png'],
  },
 };
 

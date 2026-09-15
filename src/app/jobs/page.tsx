@@ -27,7 +27,7 @@ export const metadata: Metadata = {
   description: 'Find the best remote Web3 jobs. Discover verified opportunities in Solidity, blockchain development, DeFi, DAOs, and crypto marketing.',
   url: 'https://hashtagweb3.com/jobs',
   images: [{
-   url: 'https://hashtagweb3.com/api/og?type=default&title=Remote%20Web3%20Jobs',
+   url: 'https://hashtagweb3.com/og-image-jobs.png',
    width: 1200,
    height: 630,
    alt: 'Hashtag Web3 Remote Jobs',
@@ -37,7 +37,7 @@ export const metadata: Metadata = {
   card: 'summary_large_image',
   title: 'Web3 Jobs & Crypto Careers',
   description: 'Find the best remote Web3 jobs. Discover verified opportunities in Solidity, blockchain development, DeFi, DAOs, and crypto marketing.',
-  images: ['https://hashtagweb3.com/api/og?type=default&title=Remote%20Web3%20Jobs'],
+  images: ['https://hashtagweb3.com/og-image-jobs.png'],
  },
 };
 

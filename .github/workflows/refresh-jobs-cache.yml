@@ -171,6 +171,10 @@ jobs:
       - name: Pre-bake job slugs into cache
         run: node scripts/prebake_slugs.js
 
+      - name: Ensure company logo PNGs for OG cards
+        run: npx tsx scripts/ensure-company-logos.ts
+        continue-on-error: true
+
       - name: Verify jobs cache integrity
         run: npx tsx scripts/verify-jobs-integrity.ts
         continue-on-error: true
@@ -275,8 +279,8 @@ jobs:
           # Merge local state files with remote to prevent rebase conflicts
           npx tsx scripts/social/merge-state.ts
 
-          # Stage all cache and state files (including job-descriptions.json)
-          git add content/jobs-cache.json content/job-descriptions.json content/events-cache.json scripts/social/*.json .telegram*.json 2>/dev/null || true
+          # Stage all cache, state, and company logo files (OG job cards need local PNGs)
+          git add content/jobs-cache.json content/job-descriptions.json content/events-cache.json scripts/social/*.json .telegram*.json public/logo/companies/ 2>/dev/null || true
 
           if git diff --staged --quiet; then
             echo "No changes to commit"
