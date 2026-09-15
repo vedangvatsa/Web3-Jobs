@@ -1,6 +1,7 @@
 import { NextResponse } from 'next/server';
 import { getEvents } from '@/lib/events-server';
 import { formatEventLocation, getEventSlug } from '@/lib/events';
+import { resolveEventOgImageUrl } from '@/lib/job-og';
 
 export const revalidate = 3600;
 
@@ -19,10 +20,6 @@ function escapeXml(value: unknown): string {
 
 function cdata(value: string): string {
   return value.replace(/]]>/g, ']]]]><![CDATA[>');
-}
-
-function absoluteUrl(value: string, siteUrl: string): string {
-  return value.startsWith('/') ? `${siteUrl}${value}` : value;
 }
 
 function feedDescription(event: { description: string; city?: string; country?: string; location: string }): string {
@@ -48,7 +45,7 @@ export async function GET() {
     const timestamp = Date.parse(event.startDate);
     const pubDate = Number.isFinite(timestamp) ? new Date(timestamp).toUTCString() : new Date().toUTCString();
     const description = feedDescription(event);
-    const image = absoluteUrl(event.coverImage || '', siteUrl);
+    const image = resolveEventOgImageUrl(event, siteUrl);
 
     return `    <item>
       <title><![CDATA[${cdata(event.name)}]]></title>

@@ -3,6 +3,7 @@ import path from 'path';
 import { Web3Event, formatEventLocation, getEventBaseSlug, getEventEcosystems, getEventSlug, getEventType, normalizeCountry } from './events';
 import { getEventExternalUrl } from './event-external-url';
 import { cleanPublishText } from './noslop';
+import { resolveEventPreviewImageUrl } from './job-og';
 
 // Explicitly blocked promotional posts that are not events
 const BLOCKED_EVENT_IDS = new Set([
@@ -208,10 +209,6 @@ function resolveEventCoverImage(cwd: string, img?: string | null): string | null
   }
 }
 
-function getGeneratedEventCover(name: string): string {
-  return `/api/og?type=event&v=2&title=${encodeURIComponent(name)}&location=Web3%20Event`;
-}
-
 function normalizeEventTitle(name: string): string {
   return name
     .toLowerCase()
@@ -415,22 +412,33 @@ async function loadEvents(): Promise<Web3Event[]> {
         ? d.toLocaleString('en-US', { month: 'long', year: 'numeric' })
         : e.month || 'Upcoming';
 
+      const normalizedCountry = normalizeCountry(cleanCountry);
+      const formattedLocation = formatEventLocation({
+        location: cleanLocation,
+        city: cleanCity,
+        country: normalizedCountry,
+      });
+      const posterCover = resolveEventCoverImage(
+        cwd,
+        eventImageOverrides[e.id] || KBW_LUMA_IMAGE_OVERRIDES[e.id] || e.coverImage,
+      );
+
       cleaned.push({
         ...e,
-         coverImage: resolveEventCoverImage(
-           cwd,
-           eventImageOverrides[e.id] || KBW_LUMA_IMAGE_OVERRIDES[e.id] || e.coverImage
-         ) || getGeneratedEventCover(cleanName),
+        coverImage: resolveEventPreviewImageUrl({
+          name: cleanName,
+          city: cleanCity,
+          country: normalizedCountry,
+          location: formattedLocation,
+          startDate: e.startDate,
+          coverImage: posterCover,
+        }),
         name: cleanName,
         description: cleanDescription,
         month: monthStr,
         city: cleanCity,
-        country: normalizeCountry(cleanCountry),
-        location: formatEventLocation({
-          location: cleanLocation,
-          city: cleanCity,
-          country: cleanCountry,
-        }),
+        country: normalizedCountry,
+        location: formattedLocation,
         registrationUrl: cleanRegistrationUrl,
         website: cleanWebsite,
         url: externalUrl || '',

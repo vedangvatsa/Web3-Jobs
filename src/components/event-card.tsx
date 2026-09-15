@@ -2,16 +2,32 @@
 
 import { Card, CardHeader, CardTitle } from '@/components/ui/card';
 import Link from 'next/link';
-import { getEventSlug, getEventDatePill, getEventCity, type PublicWeb3Event } from '@/lib/events';
+import { getEventSlug, getEventDatePill, getEventCity, getEventType, getEventFormat, type PublicWeb3Event } from '@/lib/events';
+import { EventCardImage } from '@/components/event-cover';
 
-export function EventCard({ event, hideLocation = false }: { event: PublicWeb3Event; hideLocation?: boolean }) {
+export function EventCard({ event, hideLocation = false, index }: { event: PublicWeb3Event; hideLocation?: boolean; index?: number }) {
   const slug = getEventSlug(event);
   const datePill = getEventDatePill(event.startDate);
   const city = getEventCity(event) || 'Online';
+  const eventType = getEventType(event);
+  const eventFormat = getEventFormat(event);
 
   return (
     <Link href={`/${slug}`} className="block h-full">
-      <Card className="flex h-full flex-col border-border/70 bg-card shadow-none hover:border-foreground/25 transition-colors">
+      <Card className="flex h-full flex-col overflow-hidden border-border/70 bg-card shadow-none hover:border-foreground/25 transition-colors">
+        <div className="aspect-[16/10] w-full border-b border-border/60 bg-muted/30">
+          <EventCardImage
+            src={event.coverImage}
+            name={event.name}
+            type={eventType}
+            format={eventFormat}
+            index={index}
+            location={event.location}
+            city={event.city}
+            country={event.country}
+            startDate={event.startDate}
+          />
+        </div>
         <CardHeader className="pb-3 pt-4 px-4">
           <div className="flex items-center gap-3">
             <div className="h-10 w-10 rounded-md border border-border/60 bg-muted/40 shrink-0 flex flex-col items-center justify-center text-center select-none">

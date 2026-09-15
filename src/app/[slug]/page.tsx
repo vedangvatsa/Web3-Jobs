@@ -50,7 +50,7 @@ import {
 import { JobDetailView } from '@/components/job-detail-view';
 import { resolveCompanyLogo, getCompanyFaviconUrl } from '@/lib/company-logo';
 import { getCompanySlug } from '@/lib/job-slugs';
-import { buildJobOgImageUrl, buildEventOgImageUrl, buildArticleOgImageUrl, buildCompanyOgImageUrl } from '@/lib/job-og';
+import { buildJobOgImageUrl, buildArticleOgImageUrl, buildCompanyOgImageUrl, resolveEventOgImageUrl, eventOgImageMimeType } from '@/lib/job-og';
 
 
 type ArticlePageProps = {
@@ -219,7 +219,8 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
     const ogTitle = title;
     const description = `${event.name} scheduled for ${formattedDate} in ${event.location}. Explore event agenda${ecoText}, venue guide, and official registration links.`;
 
-    const ogImageUrl = buildEventOgImageUrl(event, siteUrl);
+    const ogImageUrl = resolveEventOgImageUrl(event, siteUrl);
+    const ogImageType = eventOgImageMimeType(ogImageUrl);
 
     return {
       title,
@@ -240,7 +241,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
             width: 1200,
             height: 630,
             alt: event.name,
-            type: 'image/png',
+            type: ogImageType,
           },
         ],
       },
@@ -409,8 +410,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
       : 'UTC';
 
     const eventPageUrl = `${siteUrl}/${eventSlug}`;
-    const eventImage = event.coverImage || `/api/og?type=event&title=${encodeURIComponent(event.name)}`;
-    const eventImageUrl = /^https?:\/\//i.test(eventImage) ? eventImage : `${siteUrl}${eventImage}`;
+    const eventImageUrl = resolveEventOgImageUrl(event, siteUrl);
     const eventSchema = buildGoogleEventSchema(event, {
       pageUrl: eventPageUrl,
       imageUrl: eventImageUrl,
@@ -478,7 +478,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
               />
 
               <div className="mt-8">
-                <EventHeroImage src={event.coverImage} name={event.name} />
+                <EventHeroImage src={event.coverImage} name={event.name} location={event.location} city={event.city} country={event.country} startDate={event.startDate} />
               </div>
 
               {/* Quick Facts Grid */}

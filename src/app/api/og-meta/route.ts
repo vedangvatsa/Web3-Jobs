@@ -1,6 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { buildUniqueJobMetaDescription, resolveJobSlug } from '@/lib/job-guides';
-import { buildJobOgImageUrl, buildEventOgImageUrl, SITE_URL } from '@/lib/job-og';
+import { buildJobOgImageUrl, resolveEventOgImageUrl, eventOgImageMimeType, SITE_URL } from '@/lib/job-og';
 import { getEventBySlug } from '@/lib/events-server';
 import { getEventSlug, formatEventDate } from '@/lib/events';
 import { stripSocialPathSuffix } from '@/lib/social-share';
@@ -26,6 +26,7 @@ export async function GET(request: NextRequest) {
   const path = stripSocialPathSuffix(sourcePath);
 
   const { title, description, ogImageUrl, canonicalUrl } = await resolveMetadata(path);
+  const ogImageType = eventOgImageMimeType(ogImageUrl);
 
   const html = `<!DOCTYPE html>
 <html lang="en">
@@ -43,7 +44,7 @@ export async function GET(request: NextRequest) {
 <meta property="og:image:secure_url" content="${escHtml(ogImageUrl)}"/>
 <meta property="og:image:width" content="1200"/>
 <meta property="og:image:height" content="630"/>
-<meta property="og:image:type" content="image/png"/>
+<meta property="og:image:type" content="${escHtml(ogImageType)}"/>
 <meta property="og:image:alt" content="${escHtml(title)}"/>
 <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:site" content="@hashtag_web3"/>
@@ -254,7 +255,7 @@ async function resolveMetadata(path: string): Promise<PageMeta> {
         return {
           title,
           description,
-          ogImageUrl: buildEventOgImageUrl(event, SITE_URL),
+          ogImageUrl: resolveEventOgImageUrl(event, SITE_URL),
           canonicalUrl: `${SITE_URL}/${eventSlug}`,
         };
       }

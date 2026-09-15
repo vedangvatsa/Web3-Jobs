@@ -3,6 +3,7 @@
 import { useState } from 'react';
 import Image from 'next/image';
 import type { EventType } from '@/lib/events';
+import { resolveEventPreviewImageUrl } from '@/lib/job-og';
 
 const GRADIENTS = [
   'from-violet-600/80 via-purple-700/80 to-indigo-800/80',
@@ -25,8 +26,16 @@ function getInitial(name: string): string {
   return name.replace(/[^a-zA-Z0-9]/g, '').charAt(0).toUpperCase() || 'W';
 }
 
-function getGeneratedEventCover(name: string): string {
-  return `/api/og?type=default&title=${encodeURIComponent(name)}&date=Web3%20Event`;
+type EventImageContext = {
+  name: string;
+  location?: string;
+  city?: string;
+  country?: string;
+  startDate?: string;
+};
+
+function getDynamicEventCover(context: EventImageContext): string {
+  return resolveEventPreviewImageUrl({ ...context, coverImage: null });
 }
 
 function canUseNextImage(src: string): boolean {
@@ -101,14 +110,23 @@ export function EventCardImage({
   type,
   format,
   index,
+  location,
+  city,
+  country,
+  startDate,
 }: {
   src?: string | null;
   name: string;
   type: EventType;
   format: string;
   index?: number;
+  location?: string;
+  city?: string;
+  country?: string;
+  startDate?: string;
 }) {
-  const generatedSrc = getGeneratedEventCover(name);
+  const context: EventImageContext = { name, location, city, country, startDate };
+  const generatedSrc = getDynamicEventCover(context);
   const [failedSrc, setFailedSrc] = useState<string | null>(null);
   const imageSrc = failedSrc ? generatedSrc : src ?? generatedSrc;
 
@@ -131,8 +149,23 @@ export function EventCardImage({
   );
 }
 
-export function EventHeroImage({ src, name }: { src?: string | null; name: string }) {
-  const generatedSrc = getGeneratedEventCover(name);
+export function EventHeroImage({
+  src,
+  name,
+  location,
+  city,
+  country,
+  startDate,
+}: {
+  src?: string | null;
+  name: string;
+  location?: string;
+  city?: string;
+  country?: string;
+  startDate?: string;
+}) {
+  const context: EventImageContext = { name, location, city, country, startDate };
+  const generatedSrc = getDynamicEventCover(context);
   const [failedSrc, setFailedSrc] = useState<string | null>(null);
   const imageSrc = failedSrc ? generatedSrc : src ?? generatedSrc;
 
