@@ -1,9 +1,10 @@
 import assert from 'node:assert/strict';
 import type { Web3Event } from '../src/types';
 import {
-  hasIndexableEventPage,
-  isLumaCryptoBoilerplateDescription,
-} from '../src/lib/event-page-quality';
+  isDisplayableEventFact,
+  isThinEventListingDescription,
+  sanitizeEventEditorial,
+} from '../src/lib/event-editorial-facts';
 
 const cryptoBlo: Web3Event = {
   id: 'luma-crypto-PJA3o7ucniYAKBP',
@@ -19,21 +20,33 @@ const cryptoBlo: Web3Event = {
   source: 'luma-crypto',
 };
 
-const token2049: Web3Event = {
-  id: 'premier-token2049-2026',
-  slug: 'token2049',
-  name: 'TOKEN2049 Singapore',
-  description: 'Premier crypto conference.',
-  startDate: '2026-09-17T00:00:00.000Z',
-  city: 'Singapore',
-  country: 'Singapore',
-  location: 'Singapore',
-  url: 'https://token2049.com',
-  source: 'curated-premier',
+const kbwSide: Web3Event = {
+  id: 'kbw-official-hcds',
+  slug: 'hcds',
+  name: 'Hyperliquid Community Dinner Seoul',
+  description:
+    'Hyperliquid Community Dinner Seoul is listed in the official Korea Blockchain Week 2026 side-event calendar.',
+  startDate: '2026-09-29T10:00:00+09:00',
+  city: 'Seoul',
+  country: 'South Korea',
+  location: 'Seoul',
+  url: 'https://luma.com/example',
+  source: 'kbw-official',
 };
 
-assert.equal(isLumaCryptoBoilerplateDescription(cryptoBlo.description!), true);
-assert.equal(hasIndexableEventPage(cryptoBlo), false);
-assert.equal(hasIndexableEventPage(token2049), true);
+assert.equal(isThinEventListingDescription(cryptoBlo.description!), true);
+assert.equal(isThinEventListingDescription(kbwSide.description!), true);
+assert.equal(isDisplayableEventFact('See the official registration page'), false);
+assert.equal(isDisplayableEventFact('$550 General Admission'), true);
+assert.equal(isDisplayableEventFact('GA $108 / GA+ $207'), true);
+
+const sanitized = sanitizeEventEditorial({
+  summaryLead: 'Lead',
+  sections: [],
+  ticketPricing: 'Institutional pricing tiers; check official site',
+  expectedAttendance: '10,000+ attendees',
+});
+assert.equal(sanitized.ticketPricing, undefined);
+assert.equal(sanitized.expectedAttendance, '10,000+ attendees');
 
 console.log('Event page quality tests passed.');

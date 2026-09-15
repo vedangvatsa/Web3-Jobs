@@ -1,3 +1,4 @@
+import { isThinEventListingDescription } from '@/lib/event-editorial-facts';
 import { EVENT_GUIDES } from './event-guides';
 import { isGoogleEventSchemaEligible } from './event-schema';
 
@@ -655,69 +656,48 @@ export function getEventEditorialGuide(event: Web3Event): EventEditorialArticle 
     };
   }
 
-  // Dynamic ticket, speakers, and attendance fields based on event type
   const isHackathon = type === 'hackathon';
   const isConference = type === 'conference';
-  const ownDescription = (event.description || '').trim();
-
-  let ticketPricing = 'See the official registration page';
-  let speakers = event.speakers?.length
-    ? event.speakers.slice(0, 8).join(', ')
-    : 'Listed on the official programme when announced';
-  let expectedAttendance = 'Confirm capacity on the official event page';
-
-  if (isHackathon) {
-    ticketPricing = 'Usually free with an application or RSVP; confirm on the official page';
-    speakers = event.speakers?.length
-      ? event.speakers.slice(0, 8).join(', ')
-      : `${ecoStr} mentors and judges (when listed)`;
-  } else if (isConference) {
-    ticketPricing = 'Paid and free tiers vary; check the official tickets page';
-  }
+  const rawDescription = (event.description || '').trim();
+  const ownDescription =
+    rawDescription && !isThinEventListingDescription(rawDescription) ? rawDescription : '';
 
   const aboutContent = ownDescription
     ? [ownDescription]
     : [
         `${event.name} is a ${isHackathon ? 'hackathon' : isConference ? 'conference' : 'community event'} on ${formattedDates} in ${locationStr}.`,
-        ecosystems.length
-          ? `Listed themes include ${ecoStr}.`
-          : 'Details come from the organiser listing; confirm speakers and agenda on the official site.',
+        ...(ecosystems.length ? [`Listed themes include ${ecoStr}.`] : []),
       ];
+
+  const sections: EditorialSection[] = [
+    {
+      heading: 'About the event',
+      content: aboutContent,
+    },
+    {
+      heading: 'Format and location',
+      content: [
+        format === 'online' ? 'This event is listed as online.' : `Venue and city: ${locationStr}.`,
+        isHackathon
+          ? 'Hackathons usually combine build time, mentors, and project demos.'
+          : isConference
+            ? 'Conferences usually mix talks, panels, and exhibition or networking time.'
+            : 'Meetups often combine short talks, demos, and informal networking.',
+      ],
+    },
+  ];
+
+  if (format !== 'online') {
+    sections.push({
+      heading: 'Travel',
+      content: ['If you are travelling for this event, book lodging early around the published dates.'],
+    });
+  }
 
   return {
     summaryLead: ownDescription
       ? `${event.name} takes place ${formattedDates} in ${locationStr}. ${ownDescription}`
       : `${event.name} takes place ${formattedDates} in ${locationStr}.`,
-    ticketPricing,
-    speakers,
-    expectedAttendance,
-    sections: [
-      {
-        heading: 'About the event',
-        content: aboutContent,
-      },
-      {
-        heading: 'Format and location',
-        content: [
-          format === 'online'
-            ? 'This listing is online. Join details are on the official registration page.'
-            : `Venue and city: ${locationStr}.`,
-          isHackathon
-            ? 'Expect build time, mentors, and demos of working projects rather than pitch-only sessions.'
-            : isConference
-              ? 'Expect talks, panels, and exhibition or networking time depending on the organiser programme.'
-              : 'Expect a meetup-style agenda: talks, demos, and informal networking.',
-        ],
-      },
-      {
-        heading: 'Registration',
-        content: [
-          'Register through the official event link on this page. Passes and approvals can close early.',
-          format === 'online'
-            ? 'Check time zones before you join.'
-            : 'If you are travelling, book lodging early around the published dates.',
-        ],
-      },
-    ],
+    sections,
   };
 }

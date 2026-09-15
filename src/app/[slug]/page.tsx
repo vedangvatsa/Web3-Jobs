@@ -28,7 +28,8 @@ import { getEventExternalUrl } from '@/lib/event-external-url';
 import { getPublicEvent } from '@/lib/event-public';
 import { buildGoogleEventSchema } from '@/lib/event-schema';
 import { resolveEventGuide } from '@/lib/event-guide-store';
-import { hasIndexableEventPage } from '@/lib/event-page-quality';
+import { buildEventMetaDescription } from '@/lib/event-editorial-facts';
+import { hasCuratedEventGuide } from '@/lib/event-page-quality';
 import { JsonLd } from '@/components/json-ld';
 import { EventHeroImage } from '@/components/event-cover';
 import { EventCard } from '@/components/event-card';
@@ -219,26 +220,16 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
     const eventSlug = getEventSlug(event);
     const canonicalUrl = `${siteUrl}/${eventSlug}`;
     const formattedDate = formatEventDate(event.startDate, event.endDate);
-    const ecosystems = getEventEcosystems(event);
-    const ecoText = ecosystems.length > 0 ? ` (${ecosystems.join(', ')})` : '';
-
     const title = `${event.name} - Dates, Venue & Registration`;
     const ogTitle = title;
-    const place =
-      event.city && event.country
-        ? `${event.city}, ${normalizeCountry(event.country)}`
-        : formatEventLocation(event);
-    const description = `${event.name} scheduled for ${formattedDate} in ${place}. Explore event agenda${ecoText}, venue guide, and official registration links.`;
+    const description = buildEventMetaDescription(event, hasCuratedEventGuide(event));
 
     const ogImageUrl = resolveEventOgImageUrl(event, siteUrl);
     const ogImageType = eventOgImageMimeType(ogImageUrl);
-    const indexable = hasIndexableEventPage(event);
-
     return {
       title,
       description,
       metadataBase: new URL(siteUrl),
-      robots: indexable ? undefined : { index: false, follow: true },
       alternates: {
         canonical: canonicalUrl,
       },
@@ -420,7 +411,9 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
       ? `${event.speakerDetails.length} speakers & mentors announced`
       : event.speakers?.length
         ? `${event.speakers.length} speakers announced`
-        : speakerSummary;
+        : undefined;
+    const ticketPricing = editorial.ticketPricing;
+    const expectedAttendance = editorial.expectedAttendance;
     const eventExternalUrl = getEventExternalUrl(event);
     const partnerOfferUrl = event.partnerOffer?.url
       ? getEventExternalUrl({ registrationUrl: event.partnerOffer.url, website: undefined, url: '' })
@@ -513,7 +506,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
               </div>
 
               {/* Quick Facts Grid */}
-              {(event.partnerOffer || editorial.ticketPricing || editorial.expectedAttendance || speakerFact) && (
+              {(event.partnerOffer || ticketPricing || expectedAttendance || speakerFact) && (
                 <div className="mt-8 grid gap-4 rounded-lg bg-muted/30 p-4 text-sm sm:grid-cols-2 lg:grid-cols-3">
                   {event.partnerOffer && (
                     <div className="space-y-1 sm:col-span-2 lg:col-span-3">
@@ -527,10 +520,10 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                       )}
                     </div>
                   )}
-                  {editorial.ticketPricing && (
+                  {ticketPricing && (
                     <div className="space-y-1 break-words">
                       <span className="text-muted-foreground block text-xs font-semibold uppercase tracking-wider">Ticket Pricing</span>
-                      <span className="font-semibold text-foreground text-sm">{editorial.ticketPricing}</span>
+                      <span className="font-semibold text-foreground text-sm">{ticketPricing}</span>
                     </div>
                   )}
                   {speakerFact && (
@@ -539,10 +532,10 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                       <span className="font-semibold text-foreground text-sm">{speakerFact}</span>
                     </div>
                   )}
-                  {editorial.expectedAttendance && (
+                  {expectedAttendance && (
                     <div className="space-y-1 break-words">
                       <span className="text-muted-foreground block text-xs font-semibold uppercase tracking-wider">Expected Attendance</span>
-                      <span className="font-semibold text-foreground text-sm">{editorial.expectedAttendance}</span>
+                      <span className="font-semibold text-foreground text-sm">{expectedAttendance}</span>
                     </div>
                   )}
                 </div>
@@ -552,7 +545,6 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                 <EventGuideContent
                   editorial={editorial}
                   speakerSummary={speakerSummary}
-                  eventUrl={eventExternalUrl}
                 />
               )}
 
