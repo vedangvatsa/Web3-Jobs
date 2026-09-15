@@ -1,10 +1,7 @@
 import { getAllTerms, getCategoriesWithCounts } from '@/lib/glossary';
-import { ArrowLeft } from 'lucide-react';
-import Link from 'next/link';
 import type { Metadata } from 'next';
-import { PageHeader } from "@/components/page-header";
-import { PageShell } from "@/components/page-shell";
-import { GlossaryPageClient } from '@/components/glossary-page-client';
+import { PageShell } from '@/components/page-shell';
+import { GlossaryPageClientWrapper } from '@/components/glossary-page-client-wrapper';
 
 export const metadata: Metadata = {
   title: 'Web3 Glossary',
@@ -35,11 +32,7 @@ export const metadata: Metadata = {
 export const revalidate = 86400;
 export const dynamic = 'force-static';
 
-export default async function GlossaryPage({
-  searchParams,
-}: {
-  searchParams: { category?: string };
-}) {
+export default async function GlossaryPage() {
   const allTerms = await getAllTerms();
   const categories = await getCategoriesWithCounts();
   const siteUrl = 'https://hashtagweb3.com';
@@ -80,33 +73,9 @@ export default async function GlossaryPage({
       />
       <main className="flex-grow">
         <PageShell>
-          <section className="text-center mb-8">
-            {searchParams.category ? (
-              <>
-                <div className="mb-3">
-                  <Link href="/glossary" className="inline-flex items-center gap-1.5 text-xs text-muted-foreground hover:text-foreground">
-                    <ArrowLeft className="h-3.5 w-3.5" aria-hidden="true" />
-                    All Terms
-                  </Link>
-                </div>
-                <PageHeader
-                  title={searchParams.category}
-                  description={`Browse all ${searchParams.category} terms in our Web3 glossary.`}
-                />
-              </>
-            ) : (
-              <PageHeader title="Web3 Glossary" />
-            )}
-          </section>
-
-          <GlossaryPageClient
-            allTerms={allTerms}
-            categories={categories}
-            selectedCategory={searchParams.category}
-          />
+          <GlossaryPageClientWrapper allTerms={allTerms} categories={categories} />
         </PageShell>
       </main>
     </div>
   );
 }
-

@@ -12,10 +12,9 @@ import {
   Youtube,
   Link2,
 } from 'lucide-react';
-import { Badge } from '@/components/ui/badge';
 import { OutboundLink } from '@/components/tracking/outbound-link';
 import { PopupPosts } from '@/components/popup-posts';
-import { POPUP_TYPE_LABELS } from '@/lib/popups';
+import { PopupRichText } from '@/components/popup-rich-text';
 import { composePopupNarrative, formatPopupField } from '@/lib/popup-narrative';
 import { getNsDashboardUrl } from '@/lib/popup-ns';
 import {
@@ -54,7 +53,15 @@ function websiteHost(url: string) {
   }
 }
 
-function ProseSection({ title, lines }: { title: string; lines: string[] }) {
+function ProseSection({
+  title,
+  lines,
+  nsDashboardUrl,
+}: {
+  title: string;
+  lines: string[];
+  nsDashboardUrl?: string | null;
+}) {
   const items = proseLines(lines);
   if (!items.length) return null;
   return (
@@ -63,7 +70,7 @@ function ProseSection({ title, lines }: { title: string; lines: string[] }) {
       <ul className="space-y-2">
         {items.map((item) => (
           <li key={`${title}-${item}`} className="break-words text-sm leading-relaxed text-muted-foreground">
-            {item}
+            <PopupRichText text={item} nsDashboardUrl={nsDashboardUrl} />
           </li>
         ))}
       </ul>
@@ -74,9 +81,11 @@ function ProseSection({ title, lines }: { title: string; lines: string[] }) {
 function GroupedSection({
   title,
   groups,
+  nsDashboardUrl,
 }: {
   title: string;
   groups: ReturnType<typeof groupPricingLines>;
+  nsDashboardUrl?: string | null;
 }) {
   if (!groups.length) return null;
   return (
@@ -86,12 +95,14 @@ function GroupedSection({
         {groups.map((group) => (
           <div key={`${title}-${group.title ?? group.items[0]}`}>
             {group.title ? (
-              <h3 className="mb-2 text-sm font-medium text-foreground">{group.title}</h3>
+              <h3 className="mb-2 text-sm font-medium text-foreground">
+                <PopupRichText text={group.title} nsDashboardUrl={nsDashboardUrl} />
+              </h3>
             ) : null}
             <ul className="space-y-1.5">
               {group.items.map((item) => (
                 <li key={item} className="break-words text-sm leading-relaxed text-muted-foreground">
-                  • {item}
+                  • <PopupRichText text={item} nsDashboardUrl={nsDashboardUrl} />
                 </li>
               ))}
             </ul>
@@ -102,7 +113,13 @@ function GroupedSection({
   );
 }
 
-function HistorySection({ lines }: { lines: string[] }) {
+function HistorySection({
+  lines,
+  nsDashboardUrl,
+}: {
+  lines: string[];
+  nsDashboardUrl?: string | null;
+}) {
   const entries = parseHistoryLines(lines);
   if (!entries.length) return null;
   return (
@@ -115,9 +132,13 @@ function HistorySection({ lines }: { lines: string[] }) {
               className="absolute -left-[21px] top-1.5 h-2.5 w-2.5 rounded-full border border-border bg-background"
               aria-hidden="true"
             />
-            <p className="text-sm font-medium text-foreground">{entry.heading}</p>
+            <p className="text-sm font-medium text-foreground">
+              <PopupRichText text={entry.heading} nsDashboardUrl={nsDashboardUrl} />
+            </p>
             {entry.detail ? (
-              <p className="mt-1 break-words text-sm leading-relaxed text-muted-foreground">{entry.detail}</p>
+              <p className="mt-1 break-words text-sm leading-relaxed text-muted-foreground">
+                <PopupRichText text={entry.detail} nsDashboardUrl={nsDashboardUrl} />
+              </p>
             ) : null}
           </li>
         ))}
@@ -161,7 +182,7 @@ export function PopupDetailView({ popup }: { popup: Popup }) {
         '@type': 'ListItem',
         position: 3,
         name: popup.name,
-        item: `https://hashtagweb3.com/${popup.slug}`,
+        item: `https://hashtagweb3.com/popups/${popup.slug}`,
       },
     ],
   };
@@ -213,16 +234,6 @@ export function PopupDetailView({ popup }: { popup: Popup }) {
             </div>
 
             <div className="min-w-0 flex-1">
-              <div className="mb-2 flex flex-wrap gap-1.5">
-                <Badge variant="outline" className="text-[10px] font-normal">
-                  {POPUP_TYPE_LABELS[popup.type]}
-                </Badge>
-                {popup.themes.map((theme) => (
-                  <Badge key={theme} variant="secondary" className="text-[10px] font-normal">
-                    {theme}
-                  </Badge>
-                ))}
-              </div>
               <h1 className="break-words text-2xl font-bold tracking-tight sm:text-4xl">
                 {popup.name}
               </h1>
@@ -311,16 +322,16 @@ export function PopupDetailView({ popup }: { popup: Popup }) {
               key={`${popup.slug}-narrative-${index}`}
               className="break-words text-sm leading-relaxed text-muted-foreground sm:text-[15px]"
             >
-              {formatPopupField(paragraph)}
+              <PopupRichText text={formatPopupField(paragraph)} nsDashboardUrl={nsDashboardUrl} />
             </p>
           ))}
         </section>
 
-        <ProseSection title="Location" lines={locationDetails} />
-        <ProseSection title="Duration" lines={durationNotes} />
-        <GroupedSection title="Pricing" groups={pricingGroups} />
-        <GroupedSection title="Amenities" groups={amenityGroups} />
-        <HistorySection lines={history} />
+        <ProseSection title="Location" lines={locationDetails} nsDashboardUrl={nsDashboardUrl} />
+        <ProseSection title="Duration" lines={durationNotes} nsDashboardUrl={nsDashboardUrl} />
+        <GroupedSection title="Pricing" groups={pricingGroups} nsDashboardUrl={nsDashboardUrl} />
+        <GroupedSection title="Amenities" groups={amenityGroups} nsDashboardUrl={nsDashboardUrl} />
+        <HistorySection lines={history} nsDashboardUrl={nsDashboardUrl} />
 
         <PopupPosts
           posts={posts}

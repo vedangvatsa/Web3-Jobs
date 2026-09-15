@@ -1,11 +1,17 @@
 import type { Metadata } from 'next';
 import type { Popup } from '@/types/popup';
 
+/** Canonical public path for a popup detail page (namespaced to avoid root slug clashes). */
+export function getPopupPath(slug: string): string {
+  return `/popups/${slug}`;
+}
+
 export function popupPageMetadata(popup: Popup): Metadata {
   const siteUrl = 'https://hashtagweb3.com';
   const title = `${popup.name} Popup`;
   const description = popup.summary;
-  const url = `${siteUrl}/${popup.slug}`;
+  const path = getPopupPath(popup.slug);
+  const url = `${siteUrl}${path}`;
   const cover = popup.coverImages?.[0];
   const ogImage = cover
     ? `${siteUrl}${cover}`

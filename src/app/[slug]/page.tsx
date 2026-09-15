@@ -52,8 +52,7 @@ import { resolveCompanyLogo, getCompanyFaviconUrl } from '@/lib/company-logo';
 import { getCompanySlug } from '@/lib/job-slugs';
 import { buildJobOgImageUrl, buildArticleOgImageUrl, buildCompanyOgImageUrl, resolveEventOgImageUrl, eventOgImageMimeType } from '@/lib/job-og';
 import { getPopupBySlug } from '@/lib/popups';
-import { popupPageMetadata } from '@/lib/popup-seo';
-import { PopupDetailView } from '@/components/popup-detail-view';
+import { getPopupPath } from '@/lib/popup-seo';
 
 
 type ArticlePageProps = {
@@ -176,11 +175,6 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
     };
   }
 
-  const popupMeta = getPopupBySlug(params.slug);
-  if (popupMeta) {
-    return popupPageMetadata(popupMeta);
-  }
-
   // Check if it's a glossary term first
   const term = await getTerm(params.slug);
   if (term) {
@@ -301,6 +295,10 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
   // Fall back to article
  const article = await getArticle(params.slug);
  if (!article) {
+  const popup = getPopupBySlug(params.slug);
+  if (popup) {
+    permanentRedirect(getPopupPath(popup.slug));
+  }
   notFound();
  }
 
@@ -384,19 +382,6 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
       redirect(`/${companyPage.slug}`);
     }
     return <CompanyDetailView slug={companyPage.slug} />;
-  }
-
-  const popup = getPopupBySlug(params.slug);
-  if (popup) {
-    return (
-      <div className="flex min-h-screen flex-col bg-background">
-        <main className="flex-1">
-          <PageShell>
-            <PopupDetailView popup={popup} />
-          </PageShell>
-        </main>
-      </div>
-    );
   }
   }
 
@@ -736,6 +721,11 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
  const allArticles = await getAllArticles();
 
  if (!article) {
+  // Legacy root popup URLs → namespaced /popups/[slug] (avoids company/article clashes)
+  const popup = getPopupBySlug(params.slug);
+  if (popup) {
+    permanentRedirect(getPopupPath(popup.slug));
+  }
   notFound();
  }
  

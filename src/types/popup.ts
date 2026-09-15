@@ -16,6 +16,7 @@ export type PopupPost = {
   username?: string | null;
   text: string;
   date?: string | null;
+  avatar?: string | null;
 };
 
 export type Popup = {
