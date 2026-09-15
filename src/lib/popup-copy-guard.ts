@@ -38,6 +38,23 @@ const SCRAPE_MARKERS = [
   /\bManifesto Community Events Podcast\b/i,
   /\bHand crafted by\b/i,
   /\bJoin Us Founding\b/i,
+  /\bJoin Praxis Join Praxis\b/i,
+  /\bMembership Content Market Magazine\b/i,
+  /\bFlip Reset Enlarge\b/i,
+  /\bHow to become a Praxian\b/i,
+  /\bText Locky\b/i,
+  /\bJoin Residency Text Locky\b/i,
+  /\bLearn how you can have an impact\b/i,
+  /\bSee what's on Become part of it\b/i,
+  /\bWhy Nomad Nation\b/i,
+  /\bApply To Join\b/i,
+  /\bBecome part of the nomad nation\b/i,
+  /\bPieces to the puzzle Themes\b/i,
+  /^AI AI is\b/i,
+  /^Crypto Viva are\b/i,
+  /^Special jurisdictions Viva are\b/i,
+  /\bApplications \d+ Population\b/i,
+  /\bGNP \(Est\.\)/i,
   /\bmedia coverage from\b/i,
   /^Space [A-Z0-9]/i,
   /^What is [A-Z0-9]+\s+A cultural hub/i,
@@ -51,9 +68,24 @@ export function isPopupGenericFiller(line: string): boolean {
   return GENERIC_FILLER.some((re) => re.test(t));
 }
 
+/** Hero/nav text split letter-by-letter during HTML scrape. */
+export function isPopupSpacedLetterScrape(line: string): boolean {
+  const t = norm(line);
+  if (/(?:[A-Za-zÀ-ÿ] ){6,}[A-Za-zÀ-ÿ]/.test(t)) return true;
+  if (/(?:[A-Z] ){4,}[A-Z]/.test(t) && /LIVE ANYWHERE|N O D E S|L O G I N/i.test(t)) return true;
+  return false;
+}
+
+export function isPopupSocialMetricScrape(line: string): boolean {
+  const t = norm(line);
+  return /\d+\s+Views\b/.test(t) || /^\d{1,2}:\d{2}\s+AM\s*·/i.test(t);
+}
+
 export function isPopupScrapeCopy(line: string): boolean {
   const t = norm(line);
   if (t.length < 12) return true;
+  if (isPopupSpacedLetterScrape(t)) return true;
+  if (isPopupSocialMetricScrape(t)) return true;
   if (SCRAPE_MARKERS.some((re) => re.test(t))) return true;
   // Nav-stuffed lines: many short Title Case tokens in a row
   if (/\b(About|Events|Explore|Contact)\b.*\b(About|Events|Explore|Contact)\b/.test(t)) return true;
@@ -218,6 +250,15 @@ export function rewritePopupLine(line: string): string {
 
 export function shouldDropPopupLine(line: string): boolean {
   const t = norm(line);
+  if (/^How (does|do|is|are|can|will|much)\b.+\?$/i.test(t)) return true;
+  if (/How can you get involved\?/i.test(t)) return true;
+  if (/View in Telegram Preview/i.test(t)) return true;
+  if (/^(?:["”]\s*|\u201d\s*)[A-Za-z]/.test(t)) return true;
+  if (/^(Find your people|Upgrade your thinking|Live in paradise)\b/i.test(t)) return true;
+  if (/Get in touch What are people saying/i.test(t)) return true;
+  if (/^full-time residents$/i.test(t)) return true;
+  if (isPopupSpacedLetterScrape(t)) return true;
+  if (isPopupSocialMetricScrape(t)) return true;
   return (
     isPopupGenericFiller(t) ||
     isPopupScrapeCopy(t) ||

@@ -7,6 +7,18 @@ function cleanLine(line: string): string {
   return t;
 }
 
+function dedupeLines(lines: string[]): string[] {
+  const seen = new Set<string>();
+  const out: string[] = [];
+  for (const line of lines) {
+    const key = line.toLowerCase().replace(/\s+/g, ' ').trim();
+    if (!key || seen.has(key)) continue;
+    seen.add(key);
+    out.push(line);
+  }
+  return out;
+}
+
 function looksLikePrice(line: string): boolean {
   return /^\$|starts at \$/i.test(line) || /\/night|\/month|\/week|floor price|membership/i.test(line);
 }
@@ -87,7 +99,7 @@ export function parseLocationDetailLines(lines: string[]): LocationBlock {
     other.push(ensureSentence(line));
   }
 
-  return { intro, places, other };
+  return { intro, places, other: dedupeLines(other) };
 }
 
 function normalizePricingGroup(group: DetailGroup): DetailGroup {
@@ -347,8 +359,10 @@ export function parseHistoryLines(lines: string[]): HistoryEntry[] {
 }
 
 export function proseLines(lines: string[]): string[] {
-  return mergeBrokenPopupLines(lines)
-    .map(cleanLine)
-    .filter((line) => line.length > 0 && !/^What (is|kind of|are)\b.+\?$/i.test(line))
-    .map(ensureSentence);
+  return dedupeLines(
+    mergeBrokenPopupLines(lines)
+      .map(cleanLine)
+      .filter((line) => line.length > 0 && !/^What (is|kind of|are)\b.+\?$/i.test(line))
+      .map(ensureSentence),
+  );
 }

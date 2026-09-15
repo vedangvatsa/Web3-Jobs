@@ -11,7 +11,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Seat%20of%20the%20Europe
 category: News
 data-ai-hint: european central bank towers frankfurt
 publishedDate: '2026-09-15'
-lastUpdated: '2026-09-15'
+lastUpdated: "2026-09-15"
 ---
 
 The European Central Bank opened a call on Sept. 15 inviting online and mobile-phone merchants in the euro area to take part in a 12-month test of a beta digital euro. The [announcement](https://www.ecb.europa.eu/press/intro/news/html/ecb.mipnews260915.en.html) asks e-commerce and mobile-commerce sellers to sign up as business test users for a pilot expected to begin in the second half of 2027.

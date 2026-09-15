@@ -16,6 +16,8 @@ export interface Job {
  active?: boolean;
 }
 
+import type { ArticleTweetEmbed } from '@/lib/article-tweet-embed';
+
 export interface Article {
  slug: string;
  title: string;
@@ -25,6 +27,7 @@ export interface Article {
  imageCreditUrl?: string;
  description: string;
  content: string;
+ tweetEmbeds?: ArticleTweetEmbed[];
  rawContent?: string;
   category: string;
   ['data-ai-hint']?: string;

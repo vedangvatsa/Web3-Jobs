@@ -873,7 +873,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
               )}
 
               {/* Prose Content */}
-              <ArticleContent content={article.content} className="mb-12" />
+              <ArticleContent content={article.content} tweetEmbeds={article.tweetEmbeds} className="mb-12" />
 
               {/* In-article CTA */}
             <CtaBanner

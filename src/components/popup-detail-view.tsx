@@ -5,13 +5,14 @@ import {
   MapPin,
   Calendar,
   Users,
-  Twitter,
   Send,
   MessageCircle,
   Instagram,
   Youtube,
   Link2,
 } from 'lucide-react';
+import type { ElementType } from 'react';
+import { XBrandIcon } from '@/components/x-brand-icon';
 import { OutboundLink } from '@/components/tracking/outbound-link';
 import { PopupCoverImages } from '@/components/popup-cover-images';
 import { PopupPosts } from '@/components/popup-posts';
@@ -37,10 +38,10 @@ function socialEntries(socials: PopupSocials) {
     key: keyof PopupSocials;
     label: string;
     href: string;
-    icon: typeof Twitter;
+    icon: ElementType;
   }> = [];
 
-  if (socials.x) entries.push({ key: 'x', label: 'X', href: socials.x, icon: Twitter });
+  if (socials.x) entries.push({ key: 'x', label: 'X', href: socials.x, icon: XBrandIcon });
   if (socials.telegram) entries.push({ key: 'telegram', label: 'Telegram', href: socials.telegram, icon: Send });
   if (socials.discord) entries.push({ key: 'discord', label: 'Discord', href: socials.discord, icon: MessageCircle });
   if (socials.instagram) entries.push({ key: 'instagram', label: 'Instagram', href: socials.instagram, icon: Instagram });

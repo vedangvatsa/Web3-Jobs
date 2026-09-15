@@ -11,7 +11,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Holding%20Bitcoin%20cryp
 category: News
 data-ai-hint: hand holding bitcoin coin
 publishedDate: '2026-09-15'
-lastUpdated: '2026-09-15'
+lastUpdated: "2026-09-15"
 ---
 
 An attacker drained about 2,900 rsETH, worth roughly $7.8 million, from an Ethereum wallet in the early hours of Sept. 15. The tokens never reached the attacker. An automated trading bot called Yoink spotted the theft while it sat in the public transaction queue, paid about $47,000 to jump ahead of it, and took the funds for itself, [CoinDesk reported](https://www.coindesk.com/business/2026/09/15/how-a-simple-coding-mistake-let-a-hacker-drain-usd7-8-million-from-a-crypto-wallet).
