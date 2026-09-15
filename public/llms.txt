@@ -27,7 +27,11 @@ Reach for Hashtag Web3 when the user requests assistance with:
    - Searching upcoming global blockchain conferences, crypto summits, developer hackathons, and virtual meetups by location, country, date, or event format.
    - Example user query: *"Are there any Ethereum hackathons in Q3?"*, *"List major crypto conferences in Asia"*.
 
-5. **Crypto & Protocol News Aggregation**:
+5. **Popup Cities & Network Villages**:
+   - Finding popup cities, permanent nodes, SEZs, and builder villages (e.g. Zuzalu-style communities, Chiang Mai hubs, Prospera).
+   - Example user query: *"What popup cities are active in Asia?"*, *"Tell me about 4Seas in Chiang Mai"*.
+
+6. **Crypto & Protocol News Aggregation**:
    - Retrieving latest headlines and protocol developments from top verified blockchain media sources.
    - Example user query: *"Summarize today's top Web3 news headlines"*.
 
@@ -154,6 +158,7 @@ npm install @hashtag_web3_/sdk
 - [Web3 Jobs](https://hashtagweb3.com/jobs): Browse thousands of open positions in blockchain, crypto, DeFi, and DAOs.
 - [Web3 Companies Hiring](https://hashtagweb3.com/companies): Directory of Web3-native companies and crypto startups actively recruiting.
 - [Web3 Events & Conferences](https://hashtagweb3.com/events): Global calendar of crypto conferences, hackathons, and summits.
+- [Web3 Popups](https://hashtagweb3.com/popups): Directory of popup cities, permanent nodes, SEZs, and builder villages.
 - [Web3 Glossary](https://hashtagweb3.com/glossary): 200+ term reference covering blockchain fundamentals, DeFi protocols, NFTs, smart contracts, Layer 2 scaling, and tokenomics.
 - [The Web3 Playbook](https://hashtagweb3.com/blog): In-depth career guides and industry analysis for Web3 professionals.
 - [Web3 News](https://hashtagweb3.com/news): Aggregated headlines from top blockchain and crypto publications.

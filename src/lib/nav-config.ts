@@ -109,6 +109,12 @@ export const EMPLOYEE_RESOURCES: NavLinkItem[] = [
     description: 'A searchable list of visas for working remotely around the world.',
   },
   {
+    href: '/popups',
+    label: 'Popups',
+    icon: Building2,
+    description: 'Popup cities, permanent nodes, SEZs, and builder villages.',
+  },
+  {
     href: '/remote-work-checklist',
     label: 'Remote Checklist',
     icon: ListChecks,
@@ -219,6 +225,7 @@ export const FOOTER_RESOURCES: Array<{ href: string; label: string }> = [
   { href: '/invoice-generator', label: 'Invoice Generator' },
   { href: '/resume-builder', label: 'Resume Builder' },
   { href: '/digital-nomad-visas', label: 'Digital Nomad Visas' },
+  { href: '/popups', label: 'Popups' },
   { href: '/remote-work-checklist', label: 'Remote Checklist' },
 ];
 

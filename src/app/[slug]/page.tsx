@@ -51,6 +51,9 @@ import { JobDetailView } from '@/components/job-detail-view';
 import { resolveCompanyLogo, getCompanyFaviconUrl } from '@/lib/company-logo';
 import { getCompanySlug } from '@/lib/job-slugs';
 import { buildJobOgImageUrl, buildArticleOgImageUrl, buildCompanyOgImageUrl, resolveEventOgImageUrl, eventOgImageMimeType } from '@/lib/job-og';
+import { getPopupBySlug } from '@/lib/popups';
+import { popupPageMetadata } from '@/lib/popup-seo';
+import { PopupDetailView } from '@/components/popup-detail-view';
 
 
 type ArticlePageProps = {
@@ -171,6 +174,11 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
         images: [ogImageUrl],
       },
     };
+  }
+
+  const popupMeta = getPopupBySlug(params.slug);
+  if (popupMeta) {
+    return popupPageMetadata(popupMeta);
   }
 
   // Check if it's a glossary term first
@@ -376,6 +384,19 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
       redirect(`/${companyPage.slug}`);
     }
     return <CompanyDetailView slug={companyPage.slug} />;
+  }
+
+  const popup = getPopupBySlug(params.slug);
+  if (popup) {
+    return (
+      <div className="flex min-h-screen flex-col bg-background">
+        <main className="flex-1">
+          <PageShell>
+            <PopupDetailView popup={popup} />
+          </PageShell>
+        </main>
+      </div>
+    );
   }
   }
 
