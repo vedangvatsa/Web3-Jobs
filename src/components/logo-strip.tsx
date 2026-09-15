@@ -3,6 +3,8 @@ import Image from 'next/image';
 export interface LogoItem {
   name: string;
   src: string;
+  /** Cap rendered height so edge-to-edge wordmarks match padded logos optically. */
+  maxHeight?: number;
 }
 
 export function LogoStrip({
@@ -22,18 +24,22 @@ export function LogoStrip({
 
           <div className="flow-root">
             <div className="-my-1 -mx-3 flex flex-wrap items-center justify-center gap-x-6 gap-y-2">
-              {logos.map((logo) => (
-                <div key={logo.name} className="flex items-center justify-center h-8 w-[100px]">
-                  <Image
-                    src={logo.src}
-                    alt={`Logo of ${logo.name}`}
-                    width={100}
-                    height={28}
-                    className="object-contain max-h-7"
-                  />
-                  <span className="sr-only">{logo.name}</span>
-                </div>
-              ))}
+              {logos.map((logo) => {
+                const maxHeight = logo.maxHeight ?? 28;
+                return (
+                  <div key={logo.name} className="flex items-center justify-center h-8 w-[100px]">
+                    <Image
+                      src={logo.src}
+                      alt={`Logo of ${logo.name}`}
+                      width={100}
+                      height={maxHeight}
+                      className="object-contain w-auto"
+                      style={{ maxHeight }}
+                    />
+                    <span className="sr-only">{logo.name}</span>
+                  </div>
+                );
+              })}
             </div>
           </div>
         </div>

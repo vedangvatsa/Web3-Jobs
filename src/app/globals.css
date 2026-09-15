@@ -203,7 +203,18 @@ body {
     margin: 3rem 0;
   }
 
-  /* Fenced code: inline `code` padding is first-line-only on an inline box. */
+  /* Fenced code: inline `code` padding is first-line-only on an inline box.
+     Typography defaults --tw-prose-pre-code to light gray for its dark pre bg;
+     article pages override pre to a light muted bg, so force readable text. */
+  .article-prose {
+    --tw-prose-pre-code: hsl(var(--foreground));
+  }
+
+  .article-prose pre,
+  .article-prose pre code {
+    color: hsl(var(--foreground));
+  }
+
   .article-prose pre code,
   .prose pre code {
     display: block;
