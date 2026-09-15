@@ -4,8 +4,7 @@ description: >-
   Maharashtra, a state in western India, is developing a policy that could
   tokenize electricity-transmission assets, while a separate proposed
   land-token law remains in draft.
-image: >-
-  https://upload.wikimedia.org/wikipedia/commons/2/2b/Mumbai_Bandra-Worli_Sea_Link.jpg
+image: /images/news/maharashtra-assets.jpg
 imageCaption: "The Bandra-Worli Sea Link spanning Mahim Bay in Mumbai. Photo: Rutiknatekar via Wikimedia Commons (CC BY-SA 4.0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Mumbai_Bandra-Worli_Sea_Link.jpg
 category: News

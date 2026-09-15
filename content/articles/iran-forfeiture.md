@@ -2,7 +2,7 @@
 title: US Seeks Forfeiture of $61 Million in Crypto Tied to Iranian Oil Sales
 ogTitle: "US SEEKS FORFEITURE OF $61 MILLION IN CRYPTO TIED TO IRANIAN OIL SALES"
 description: Federal prosecutors in Manhattan filed a civil forfeiture claim on Sept. 14 seeking about $61 million in USDT allegedly tied to black-market Iranian oil sales laundered through Binance accounts.
-image: https://upload.wikimedia.org/wikipedia/commons/5/5e/Tanker_waiting_to_enter_Durban_harbour.jpg
+image: /images/news/iran-forfeiture.jpg
 imageCaption: "A crude oil tanker waits to enter port. Photo: Clusteringcoefficient via Wikimedia Commons (CC BY-SA 4.0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Tanker_waiting_to_enter_Durban_harbour.jpg
 category: News

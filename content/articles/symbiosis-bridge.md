@@ -4,8 +4,7 @@ description: >-
   Cross-chain protocol Symbiosis recovered about 15 BTC from a Sept. 11 exploit
   that minted billions of unbacked synthetic bitcoin, and offered the attacker a
   20% bounty, while liquidity providers await a compensation plan.
-image: >-
-  https://upload.wikimedia.org/wikipedia/commons/9/90/Bitcoins.jpg
+image: /images/news/symbiosis-bridge.jpg
 imageCaption: "Physical Bitcoin coins. Photo: Jorge Franganillo via Wikimedia Commons (CC BY 2.0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Bitcoins.jpg
 category: News

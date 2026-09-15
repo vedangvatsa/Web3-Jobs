@@ -4,8 +4,7 @@ description: >-
   ESMA's latest Risk Monitor and July statement say the treatment of event
   contracts in the EU turns on the contract and can involve financial-services,
   crypto-asset, or national gambling rules.
-image: >-
-  https://upload.wikimedia.org/wikipedia/commons/d/d6/Representation_Europeenne_Paris.jpg
+image: /images/news/esma-eu.jpg
 imageCaption: "European Commission representation office with EU flags in Paris. Photo: Richardprins via Wikimedia Commons (CC0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Representation_Europeenne_Paris.jpg
 category: News

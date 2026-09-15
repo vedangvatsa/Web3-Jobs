@@ -5,8 +5,7 @@ description: >-
   Circle's stablecoin-native Arc blockchain opens its public mainnet on Sept.
   16 with BlackRock, Visa, and DTCC among founding validators and USDC as the
   gas token.
-image: >-
-  https://cdn.prod.website-files.com/67116d0daddc92483c812ead/6a728ccb2a709b1b8125c4b8_Blog_validator-cohort.jpg
+image: /images/news/circle-arc.jpg
 imageCaption: "Circle's founding validator cohort announcement for Arc."
 imageCreditUrl: https://www.circle.com/pressroom/circle-announces-founding-validator-cohort-and-major-integrations-for-arc-ahead-of-september-16-mainnet-launch
 category: News

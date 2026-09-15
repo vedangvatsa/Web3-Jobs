@@ -4,8 +4,7 @@ description: >-
   Nasdaq Ventures agreed to invest $100 million in Payward, the parent company
   of Kraken, and the companies advanced their collaboration on Nasdaq Equity
   Tokens with an expected launch in the second quarter of 2027.
-image: >-
-  https://upload.wikimedia.org/wikipedia/commons/6/66/NASDAQ_stock_market_display.jpg
+image: /images/news/nasdaq-tokens.jpg
 imageCaption: "Nasdaq MarketSite tower at Times Square at night. Photo: bfishadow via Wikimedia Commons (CC BY 2.0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:NASDAQ_stock_market_display.jpg
 category: News

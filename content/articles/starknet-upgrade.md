@@ -3,8 +3,7 @@ title: Starknet's 2024 Upgrade Added Parallel Execution
 description: >-
   Starknet's v0.13.2 mainnet upgrade, deployed on August 28, 2024, introduced
   optimistic parallelization in the sequencer for independent transactions.
-image: >-
-  https://upload.wikimedia.org/wikipedia/commons/7/7f/Tel_Aviv_Skyline_03.jpg
+image: /images/news/starknet-upgrade.jpg
 imageCaption: "Tel Aviv skyline. Photo: Ynhockey via Wikimedia Commons (CC BY-SA 4.0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Tel_Aviv_Skyline_03.jpg
 category: News

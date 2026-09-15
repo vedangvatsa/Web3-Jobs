@@ -4,8 +4,7 @@ description: >-
   Liquid has resumed block production and transactions after an Elements
   vulnerability created unbacked LBTC, while peg-outs remain suspended and
   Blockstream says 598.5 BTC is still outstanding.
-image: >-
-  https://upload.wikimedia.org/wikipedia/commons/f/f7/Bitcoin_mining_farm.jpg
+image: /images/news/liquid-ransom.jpg
 imageCaption: "Bitcoin mining hardware in a mining farm. Photo: Marko Ahtisaari via Wikimedia Commons (CC BY 2.0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Bitcoin_mining_farm.jpg
 category: News

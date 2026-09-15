@@ -5,8 +5,7 @@ description: >-
   should not be able to block separate token instruments tied to freely
   transferable shares, responding to AMC CEO Adam Aron's objections to
   AMC-linked tokens.
-image: >-
-  https://upload.wikimedia.org/wikipedia/commons/e/ea/NY_stock_exchange_traders_floor_LC-U9-10548-6.jpg
+image: /images/news/robinhood-tokens.jpg
 imageCaption: "Stock brokers on the New York Stock Exchange floor. Photo: Library of Congress via Wikimedia Commons (public domain)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:NY_stock_exchange_traders_floor_LC-U9-10548-6.jpg
 category: News

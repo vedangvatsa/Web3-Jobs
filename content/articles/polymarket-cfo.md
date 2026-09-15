@@ -3,8 +3,7 @@ title: Polymarket Names Warren Jenson as Its First Chief Financial Officer
 description: >-
   Polymarket CEO Shayne Coplan says Warren Jenson, a former CFO at Amazon,
   Electronic Arts, Delta and Nielsen, has joined the company as its first CFO.
-image: >-
-  https://upload.wikimedia.org/wikipedia/commons/d/db/New_York_City_%28New_York%2C_USA%29%2C_Wall_Street_--_2012_--_6614.jpg
+image: /images/news/polymarket-cfo.jpg
 imageCaption: "The New York Stock Exchange on Wall Street. Photo: Dietmar Rabich via Wikimedia Commons (CC BY-SA 4.0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:New_York_City_(New_York,_USA),_Wall_Street_--_2012_--_6614.jpg
 category: News

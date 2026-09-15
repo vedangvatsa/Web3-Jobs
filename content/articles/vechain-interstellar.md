@@ -5,8 +5,7 @@ description: >-
   VeChainThor activates its Interstellar upgrade on Sept. 16 at block
   25,902,540, adopting 11 Ethereum improvements to close its EVM compatibility
   gap in a single hardfork.
-image: >-
-  https://upload.wikimedia.org/wikipedia/commons/1/16/Marina_Bay_Singapore-3499.jpg
+image: /images/news/vechain-interstellar.jpg
 imageCaption: "Marina Bay, Singapore. Photo: Bijay Chaurasia via Wikimedia Commons (CC BY-SA 4.0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Marina_Bay_Singapore-3499.jpg
 category: News
