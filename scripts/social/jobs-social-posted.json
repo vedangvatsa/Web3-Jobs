@@ -1,5 +1,5 @@
 {
-  "lastIndex": 188,
+  "lastIndex": 189,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -81,7 +81,8 @@
     "operations20004",
     "engineer66009",
     "trader68003",
-    "technology97b02"
+    "technology97b02",
+    "product631"
   ],
   "history": [
     {
@@ -3486,6 +3487,54 @@
       "platform": "facebook",
       "postedAt": "2026-09-15T17:42:41.390Z",
       "postId": "691827047618629_1089261217014446",
+      "verification": "verified"
+    },
+    {
+      "slug": "product631",
+      "company": "OKX",
+      "title": "Senior Product Compliance Manager",
+      "platform": "x",
+      "postedAt": "2026-09-15T22:33:23.949Z",
+      "postId": "2099989989643657320",
+      "verification": "verified"
+    },
+    {
+      "slug": "product631",
+      "company": "OKX",
+      "title": "Senior Product Compliance Manager",
+      "platform": "threads",
+      "postedAt": "2026-09-15T22:33:23.949Z",
+      "postId": "18030526478895526",
+      "verification": "verified",
+      "expectedText": "OKX is hiring Senior Product Compliance Manager: https://hashtagweb3.com/product631/th?og=2",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DdUywGhm4dY",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "product631",
+      "company": "OKX",
+      "title": "Senior Product Compliance Manager",
+      "platform": "bluesky",
+      "postedAt": "2026-09-15T22:33:23.949Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mvlomjiagh22",
+      "verification": "verified"
+    },
+    {
+      "slug": "product631",
+      "company": "OKX",
+      "title": "Senior Product Compliance Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-15T22:33:23.949Z",
+      "postId": "0x37f8013746c29dac79935b4eea8197189c8d0a4a",
+      "verification": "verified"
+    },
+    {
+      "slug": "product631",
+      "company": "OKX",
+      "title": "Senior Product Compliance Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-09-15T22:33:23.949Z",
+      "postId": "6aa9c7ce4afcb5a41b05c12a",
       "verification": "verified"
     }
   ]
