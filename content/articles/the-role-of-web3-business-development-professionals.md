@@ -1,5 +1,5 @@
 ---
-title: The Role of Web3 Business Development Professionals
+title: Web3 Business Development
 ogTitle: "THE ROLE OF WEB3 BUSINESS DEVELOPMENT PROFESSIONALS"
 image: /images/chris-ried-bN5XdU-bap4-unsplash.jpg
 data-ai-hint: business development partnership

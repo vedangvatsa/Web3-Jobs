@@ -1,5 +1,5 @@
 ---
-title: How to Become a Web3 Writer in 2026 | $50K-$200K Remote
+title: How to Become a Web3 Writer in 2026
 ogTitle: "BECOME A WEB3 WRITER IN 2026 | $50K-$200K REMOTE GUIDE"
 image: /images/chris-ried-bN5XdU-bap4-unsplash.jpg
 data-ai-hint: technical writer keyboard

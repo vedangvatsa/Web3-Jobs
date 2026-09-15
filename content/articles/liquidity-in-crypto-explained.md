@@ -1,5 +1,5 @@
 ---
-title: 'Liquidity in Crypto Explained - What It Is, How It Works, and Why It Matters'
+title: Liquidity in Crypto
 ogTitle: "LIQUIDITY IN CRYPTO EXPLAINED - WHAT IT IS, HOW IT WORKS, AND"
 description: >-
   Liquidity in crypto is how easily you can buy or sell near the quoted price

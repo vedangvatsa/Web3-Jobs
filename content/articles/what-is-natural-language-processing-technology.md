@@ -1,5 +1,5 @@
 ---
-title: What is Natural Language Processing Technology
+title: What Is Natural Language Processing Technology
 ogTitle: "NATURAL LANGUAGE PROCESSING TECHNOLOGY EXPLAINED"
 description: >-
   An introduction to Natural Language Processing (NLP), the AI technology that

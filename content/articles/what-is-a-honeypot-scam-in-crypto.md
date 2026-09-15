@@ -1,5 +1,5 @@
 ---
-title: Honeypot Scams in Crypto Explained
+title: Honeypot Scams in Crypto
 ogTitle: "HONEYPOT SCAMS IN CRYPTO EXPLAINED"
 image: /images/christin-hume-Hcfwew744z4-unsplash.jpg
 data-ai-hint: crypto scam trap

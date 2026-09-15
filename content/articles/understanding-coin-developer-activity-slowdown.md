@@ -1,5 +1,5 @@
 ---
-title: 'Understanding Coin Developer Activity Slowdown'
+title: Coin Developer Activity Slowdown
 ogTitle: "UNDERSTANDING COIN DEVELOPER ACTIVITY SLOWDOWN"
 description: >-
   A deeply expanded analysis of the 'developer activity slowdown' metric in

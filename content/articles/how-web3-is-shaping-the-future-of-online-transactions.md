@@ -1,5 +1,5 @@
 ---
-title: How Web3 Is Shaping the Future of Online Transactions
+title: Web3 and Online Transactions
 ogTitle: "HOW WEB3 IS SHAPING THE FUTURE OF ONLINE TRANSACTIONS"
 image: /images/alesia-kazantceva-XLm6-fPwK5Q-unsplash.jpg
 data-ai-hint: online transactions future

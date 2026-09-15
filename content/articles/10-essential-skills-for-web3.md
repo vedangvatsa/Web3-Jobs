@@ -1,5 +1,5 @@
 ---
-title: "10 Essential Web3 Skills for Blockchain Careers: Developer, PM, Marketing & More"
+title: 10 Essential Web3 Skills for Blockchain Careers
 ogTitle: "10 ESSENTIAL WEB3 SKILLS FOR BLOCKCHAIN CAREERS: DEVELOPER,"
 description: >-
   A hiring manager breaks down the 10 skills Web3 teams actually test for, from

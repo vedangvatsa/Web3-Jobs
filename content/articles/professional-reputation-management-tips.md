@@ -1,5 +1,5 @@
 ---
-title: A Practical Guide to Professional Reputation Management
+title: Professional Reputation Management
 ogTitle: "A PRACTICAL GUIDE TO PROFESSIONAL REPUTATION MANAGEMENT"
 description: >-
   Your professional reputation is one of your most valuable career assets. Learn

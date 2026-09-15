@@ -1,5 +1,5 @@
 ---
-title: Understanding Annual Percentage Yield in Crypto
+title: Annual Percentage Yield in Crypto
 ogTitle: "UNDERSTANDING ANNUAL PERCENTAGE YIELD IN CRYPTO"
 image: /images/maximalfocus-naSAHDWRNbQ-unsplash.jpg
 data-ai-hint: apy crypto yield

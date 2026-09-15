@@ -1,5 +1,5 @@
 ---
-title: Double-Spending Problem in Cryptocurrency Explained
+title: The Double-Spending Problem
 ogTitle: "DOUBLE-SPENDING PROBLEM IN CRYPTOCURRENCY EXPLAINED"
 description: >-
   A simple guide to understanding the double-spending problem, a fundamental

@@ -1,6 +1,7 @@
 import { getAllArticles } from '@/lib/articles';
 import { getJobs } from '@/lib/jobs';
 import { getNewsFeed } from '@/lib/news';
+import { buildCompanyLogoMap } from '@/lib/job-listing';
 import { CommunityPageContent } from '@/components/community-page-content';
 import { Metadata } from 'next';
 import type { WebPage, WithContext } from 'schema-dts';
@@ -35,10 +36,12 @@ export const metadata: Metadata = {
 };
 
 export default async function Page() {
-  const latestJobs = await getJobs();
-  const latestArticles = (await getAllArticles()).slice(0, 12);
-  const latestNews = (await getNewsFeed()).slice(0, 10);
-  
+  const allJobs = await getJobs();
+  const latestJobs = allJobs.slice(0, 9);
+  const companyLogos = await buildCompanyLogoMap(latestJobs);
+  const latestArticles = (await getAllArticles()).slice(0, 6);
+  const latestNews = (await getNewsFeed()).slice(0, 9);
+
   const siteUrl = 'https://hashtagweb3.com';
   const pageSchema: WithContext<WebPage> = {
     '@context': 'https://schema.org',
@@ -62,10 +65,11 @@ export default async function Page() {
       <div className="flex flex-col min-h-screen">
         <main className="flex-1">
           <PageShell>
-            <CommunityPageContent 
+            <CommunityPageContent
               latestJobs={latestJobs}
               latestArticles={latestArticles}
               latestNews={latestNews}
+              companyLogos={companyLogos}
             />
           </PageShell>
         </main>

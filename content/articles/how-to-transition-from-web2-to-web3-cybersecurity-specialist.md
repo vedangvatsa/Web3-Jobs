@@ -1,5 +1,5 @@
 ---
-title: How to Transition from Web2 to Web3 Cybersecurity Specialist Architecture and Audit Blueprint
+title: How to Become a Web3 Cybersecurity Specialist
 ogTitle: "TRANSITION FROM WEB2 TO WEB3 CYBERSECURITY SPECIALIST"
 description: A transition blueprint for Web2 security professionals moving into Web3, covering EVM security primitives, reentrancy vulnerabilities, formal verification, fuzzing tools, and audit methodologies.
 date: 2026-03-28

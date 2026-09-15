@@ -1,5 +1,5 @@
 ---
-title: 'Decentralized Identity Explained'
+title: Decentralized Identity
 ogTitle: "DECENTRALIZED IDENTITY EXPLAINED"
 image: /images/carl-heyerdahl-KE0nC8-58MQ-unsplash.jpg
 description: >-

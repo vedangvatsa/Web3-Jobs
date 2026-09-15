@@ -1,5 +1,5 @@
 ---
-title: Understanding Mark Price vs Index Price
+title: Mark Price vs Index Price
 ogTitle: "UNDERSTANDING MARK PRICE VS INDEX PRICE"
 description: >-
   A guide to the difference between Mark Price and Index Price in crypto

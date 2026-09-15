@@ -1,5 +1,5 @@
 ---
-title: Stakeholder Management Complete Guide
+title: Stakeholder Management Guide
 ogTitle: "STAKEHOLDER MANAGEMENT COMPLETE GUIDE"
 description: >-
   A full guide to identifying, analyzing, and engaging stakeholders to ensure

@@ -1,5 +1,5 @@
 ---
-title: What is a Bull Market vs Bear Market in Crypto
+title: What Is a Bull Market vs Bear Market in Crypto
 ogTitle: "BULL MARKET VS BEAR MARKET IN CRYPTO EXPLAINED"
 image: /images/dell-8pb7Hq539Zw-unsplash.jpg
 data-ai-hint: market chart graph

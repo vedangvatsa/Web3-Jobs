@@ -1,5 +1,5 @@
 ---
-title: "This Simple Trick Will Dramatically Improve Your Chances of Getting a Crypto Job"
+title: A Simple Trick to Improve Crypto Job Odds
 ogTitle: "THIS SIMPLE TRICK WILL DRAMATICALLY IMPROVE YOUR CHANCES OF"
 image: /images/glenn-carstens-peters-P1qyEf1g0HU-unsplash.jpg
 data-ai-hint: person writing notes

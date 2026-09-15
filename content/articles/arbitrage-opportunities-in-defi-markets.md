@@ -1,5 +1,5 @@
 ---
-title: Arbitrage Opportunities in DeFi Markets Explained
+title: Arbitrage in DeFi Markets
 ogTitle: "ARBITRAGE OPPORTUNITIES IN DEFI MARKETS EXPLAINED"
 description: >-
   A guide to understanding arbitrage in DeFi, a trading strategy that exploits

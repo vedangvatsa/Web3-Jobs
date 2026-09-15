@@ -1,5 +1,5 @@
 ---
-title: What is Federated Learning in AI
+title: What Is Federated Learning in AI
 ogTitle: "FEDERATED LEARNING IN AI EXPLAINED"
 description: >-
   An introduction to Federated Learning, a decentralized machine learning

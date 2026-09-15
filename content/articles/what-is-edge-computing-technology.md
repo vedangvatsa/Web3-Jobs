@@ -1,5 +1,5 @@
 ---
-title: What is Edge Computing Technology
+title: What Is Edge Computing Technology
 ogTitle: "EDGE COMPUTING TECHNOLOGY EXPLAINED"
 description: >-
   An explanation of edge computing, how it works by processing data closer to

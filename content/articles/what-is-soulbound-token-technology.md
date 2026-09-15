@@ -1,5 +1,5 @@
 ---
-title: What is Soulbound Token Technology
+title: What Is Soulbound Token Technology
 ogTitle: "SOULBOUND TOKEN TECHNOLOGY EXPLAINED"
 image: /images/andrea-de-santis-zwd435-ewb4-unsplash.jpg
 data-ai-hint: person soul connection

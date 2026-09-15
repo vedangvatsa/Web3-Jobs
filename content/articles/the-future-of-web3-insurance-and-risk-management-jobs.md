@@ -1,5 +1,5 @@
 ---
-title: The Future of Web3 Insurance and Risk Management Jobs Underwriting and Actuarial Guide
+title: Web3 Insurance and Risk Management Jobs
 ogTitle: "THE FUTURE OF WEB3 INSURANCE AND RISK MANAGEMENT JOBS"
 image: /images/maximalfocus-naSAHDWRNbQ-unsplash.jpg
 data-ai-hint: web3 insurance risk

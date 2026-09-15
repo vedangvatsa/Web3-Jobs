@@ -1,5 +1,5 @@
 ---
-title: How to Get a Crypto Job in 2026 | Verified Hiring Data and a 90-Day Plan
+title: How to Get a Crypto Job in 2026
 ogTitle: "GET A CRYPTO JOB IN 2026 | VERIFIED HIRING DATA AND A 90-DAY"
 image: /images/glenn-carstens-peters-P1qyEf1g0HU-unsplash.jpg
 data-ai-hint: person planning job search

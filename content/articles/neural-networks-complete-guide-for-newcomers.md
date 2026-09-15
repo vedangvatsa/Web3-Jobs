@@ -1,5 +1,5 @@
 ---
-title: Neural Networks Complete Guide for Newcomers
+title: Neural Networks for Beginners
 ogTitle: "NEURAL NETWORKS COMPLETE GUIDE FOR NEWCOMERS"
 description: >-
   A beginner's guide to neural networks, the technology that powers deep

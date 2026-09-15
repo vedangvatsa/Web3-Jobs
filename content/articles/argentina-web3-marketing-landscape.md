@@ -1,5 +1,5 @@
 ---
-title: Working through Argentina's Web3 Marketing Space
+title: "Argentina's Web3 Marketing Space"
 ogTitle: "WORKING THROUGH ARGENTINA'S WEB3 MARKETING SPACE"
 description: >-
   A deep dive into the growing Web3 marketing scene in Argentina. Explore key

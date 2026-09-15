@@ -1,5 +1,5 @@
 ---
-title: Transferable Skills That Every Professional Has (And How to Use Them)
+title: Transferable Skills Every Professional Has
 ogTitle: "TRANSFERABLE SKILLS THAT EVERY PROFESSIONAL HAS (AND HOW TO"
 description: >-
   Think you don't have the right experience for a job? You probably have more

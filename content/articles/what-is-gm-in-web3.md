@@ -1,5 +1,5 @@
 ---
-title: What is GM in Web3? The Meaning Behind the Crypto Term
+title: "What Is GM in Web3?"
 ogTitle: "GM IN WEB3? THE MEANING BEHIND THE CRYPTO TERM EXPLAINED"
 image: /images/dell-8pb7Hq539Zw-unsplash.jpg
 description: >-

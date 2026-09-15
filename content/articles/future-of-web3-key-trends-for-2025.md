@@ -1,5 +1,5 @@
 ---
-title: 'The Future of Web3 Key Trends Defining 2025 and Beyond'
+title: Web3 Trends for 2025 and Beyond
 ogTitle: "THE FUTURE OF WEB3 KEY TRENDS DEFINING 2025 AND BEYOND"
 description: >-
   Explore the improving how Web3 trends set to define 2025. From modular

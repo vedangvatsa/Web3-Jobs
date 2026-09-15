@@ -1,5 +1,5 @@
 ---
-title: What is Rug Pull in Cryptocurrency Scams
+title: What Is Rug Pull in Cryptocurrency Scams
 ogTitle: "RUG PULL IN CRYPTOCURRENCY SCAMS EXPLAINED"
 image: /images/christin-hume-Hcfwew744z4-unsplash.jpg
 data-ai-hint: crypto scam warning

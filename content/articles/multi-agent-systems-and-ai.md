@@ -1,5 +1,5 @@
 ---
-title: An Introduction to Multi-Agent AI Systems in Web3
+title: Multi-Agent AI Systems in Web3
 ogTitle: "AN INTRODUCTION TO MULTI-AGENT AI SYSTEMS IN WEB3"
 image: /images/articles/charts/multi-agent-ai-web3-architecture.svg
 data-ai-hint: multi agent AI Web3 zkML opML Autonolas Fetch.ai
@@ -11,7 +11,6 @@ category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-15"
 ---
-
 Artificial intelligence engineering is undergoing a fundamental structural transition from single, monolithic Large Language Models (LLMs) to decentralized **Multi-Agent Systems (MAS)**. While a single generalist model attempts to execute planning, reasoning, code generation, and domain evaluation within a single context window, multi-agent architectures distribute complex workloads across networks of specialized, autonomous AI agents. Each agent operates with defined goals, specialized tools, domain-specific memory, and custom execution policies.
 
 When combined with public blockchain networks, Multi-Agent Systems gain capabilities that centralized AI systems lack: **verifiable execution, cryptographic identity, self-custodial treasury management, and peer-to-peer economic incentive settlement**.

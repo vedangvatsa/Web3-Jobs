@@ -5,6 +5,7 @@ import type { Article } from '@/types';
 import { useSearchParams, useRouter, usePathname } from 'next/navigation';
 import { ArticleCard, ArticleCardSkeleton } from '@/components/article-card';
 import { CtaBanner } from '@/components/cta-banner';
+import { CommunityFeedBanner } from '@/components/community-feed-banner';
 import { PageHeader } from '@/components/page-header';
 import { ListingEmptyState, ListingToolbar } from '@/components/listing-toolbar';
 
@@ -76,6 +77,14 @@ export function BlogPageClient({
   return (
     <>
       <PageHeader title="The Web3 Playbook" />
+      <CommunityFeedBanner
+        href="https://t.me/hashtagweb3"
+        text={
+          <>
+            Join our Telegram community with <strong className="text-foreground">18,000+</strong> members
+          </>
+        }
+      />
 
       <ListingToolbar
         searchValue={inputValue}
@@ -95,7 +104,7 @@ export function BlogPageClient({
         resultCount={isFiltering ? filteredArticles.length : null}
       />
 
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6 min-h-[600px]">
+      <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3 min-h-[600px]">
         {isPending
           ? [...Array(12)].map((_, i) => <ArticleCardSkeleton key={i} />)
           : filteredArticles.map((article) => (

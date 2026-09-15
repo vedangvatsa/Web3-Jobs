@@ -1,5 +1,5 @@
 ---
-title: Understanding Elon Musk's Stance on Web3 and Decentralization
+title: "Elon Musk's Stance on Web3"
 ogTitle: "UNDERSTANDING ELON MUSK'S STANCE ON WEB3 AND DECENTRALIZATION"
 description: >-
   Examine Elon Musk's skeptical yet evolving views on blockchain and

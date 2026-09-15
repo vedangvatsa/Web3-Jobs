@@ -1,5 +1,5 @@
 ---
-title: What is a Web3 Governance Lead?
+title: "What Is a Web3 Governance Lead?"
 ogTitle: "WEB3 GOVERNANCE LEAD? EXPLAINED"
 image: /images/christina-wocintechchat-com-glRqyWJgUeY-unsplash.jpg
 data-ai-hint: governance meeting people

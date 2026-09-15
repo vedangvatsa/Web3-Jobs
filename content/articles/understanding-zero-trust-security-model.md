@@ -1,5 +1,5 @@
 ---
-title: Understanding Zero Trust Security Model
+title: Zero Trust Security Model
 ogTitle: "UNDERSTANDING ZERO TRUST SECURITY MODEL"
 description: >-
   An explanation of the Zero Trust security model, a modern approach to

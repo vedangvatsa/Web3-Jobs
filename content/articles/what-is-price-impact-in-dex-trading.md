@@ -1,5 +1,5 @@
 ---
-title: What is Price Impact in DEX Trading?
+title: "What Is Price Impact in DEX Trading?"
 ogTitle: "PRICE IMPACT IN DEX TRADING? EXPLAINED"
 description: >-
   A clear guide to understanding price impact on decentralized exchanges (DEXs),

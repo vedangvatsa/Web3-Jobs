@@ -1,5 +1,5 @@
 ---
-title: Understanding Edge AI Technology
+title: Edge AI Technology
 ogTitle: "UNDERSTANDING EDGE AI TECHNOLOGY"
 description: >-
   Learn how edge AI processes data locally for faster, more efficient machine

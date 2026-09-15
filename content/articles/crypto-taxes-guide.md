@@ -1,5 +1,5 @@
 ---
-title: A Beginner's Guide to Crypto Taxes
+title: Crypto Taxes for Beginners
 ogTitle: "A BEGINNER'S GUIDE TO CRYPTO TAXES"
 image: >-
   https://images.unsplash.com/photo-1611125832047-1d7ad1e8e48f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx0YXhlc3xlbnwwfHx8fDE3NTUwMDY4MTF8MA&ixlib=rb-4.1.0&q=80&w=1080
@@ -10,8 +10,7 @@ description: >-
 category: Getting Started
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-15"
----
-*Disclaimer: This guide is for informational purposes only and is not financial or tax advice. Consult with a qualified tax professional for advice specific to your situation.*
+---*Disclaimer: This guide is for informational purposes only and is not financial or tax advice. Consult with a qualified tax professional for advice specific to your situation.*
 
 As cryptocurrency gains mainstream acceptance, tax authorities globally are increasing scrutiny. For many users, understanding tax obligations can be overwhelming. The regulations are complex, and the decentralized nature of cryptocurrencies complicates transaction tracking.
 

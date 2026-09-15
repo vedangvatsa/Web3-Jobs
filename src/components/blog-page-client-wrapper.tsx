@@ -10,7 +10,7 @@ function BlogPageClientSkeleton() {
     <div>
       <Skeleton className="mx-auto mb-8 h-10 w-64" />
       <Skeleton className="mb-6 h-10 w-full rounded-md" />
-      <div className="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+      <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
         {[...Array(12)].map((_, i) => (
           <Skeleton key={i} className="h-64 rounded-lg" />
         ))}

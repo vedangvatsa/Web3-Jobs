@@ -1,5 +1,5 @@
 ---
-title: How to Stay Relevant and Thrive in a Fast-Changing Industry
+title: How to Stay Relevant in a Changing Industry
 ogTitle: "STAY RELEVANT AND THRIVE IN A FAST-CHANGING INDUSTRY GUIDE"
 description: >-
   The world of work is changing faster than ever. If you're not actively

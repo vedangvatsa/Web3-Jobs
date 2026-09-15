@@ -1,5 +1,5 @@
 ---
-title: Blockchain Immutability Explained for Beginners
+title: Blockchain Immutability
 ogTitle: "BLOCKCHAIN IMMUTABILITY EXPLAINED FOR BEGINNERS"
 image: /images/nasa-Q1p7bh3SHj8-unsplash.jpg
 data-ai-hint: blockchain security

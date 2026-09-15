@@ -1,5 +1,5 @@
 ---
-title: A Guide to Verifiable Credentials in Decentralized Identity
+title: Verifiable Credentials in Decentralized Identity
 ogTitle: "A GUIDE TO VERIFIABLE CREDENTIALS IN DECENTRALIZED IDENTITY"
 image: /images/austin-distel-tLZhFRLj6nY-unsplash.jpg
 data-ai-hint: digital identity credentials

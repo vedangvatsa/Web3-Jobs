@@ -1,5 +1,5 @@
 ---
-title: 'Web3 Careers Explained'
+title: Web3 Careers
 ogTitle: "WEB3 CAREERS EXPLAINED"
 image: /images/andrea-de-santis-zwd435-ewb4-unsplash.jpg
 data-ai-hint: career choice person

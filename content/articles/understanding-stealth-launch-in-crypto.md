@@ -1,5 +1,5 @@
 ---
-title: Understanding Stealth Launch in Crypto
+title: Stealth Launch in Crypto
 ogTitle: "UNDERSTANDING STEALTH LAUNCH IN CRYPTO"
 image: /images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg
 data-ai-hint: anonymous developer crypto

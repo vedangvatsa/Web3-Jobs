@@ -1,5 +1,5 @@
 ---
-title: What is a Liquidity Provider (LP) Token?
+title: "What Is a Liquidity Provider (LP) Token?"
 ogTitle: "LIQUIDITY PROVIDER (LP) TOKEN? EXPLAINED"
 description: >-
   A complete guide to understanding Liquidity Provider (LP) tokens, how they

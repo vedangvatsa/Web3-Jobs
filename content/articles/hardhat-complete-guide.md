@@ -1,5 +1,5 @@
 ---
-title: 'Hardhat Complete Guide'
+title: Hardhat Guide
 ogTitle: "HARDHAT COMPLETE GUIDE"
 image: 'https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=1080'
 data-ai-hint: ethereum smart contract development hardhat

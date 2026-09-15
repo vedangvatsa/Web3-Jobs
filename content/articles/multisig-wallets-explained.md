@@ -1,5 +1,5 @@
 ---
-title: 'Multisig Wallets Explained'
+title: Multisig Wallets
 ogTitle: "MULTISIG WALLETS EXPLAINED"
 image: 'https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&q=80'
 data-ai-hint: multisig wallet security

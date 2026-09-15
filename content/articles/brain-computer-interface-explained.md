@@ -1,5 +1,5 @@
 ---
-title: Brain Computer Interface Explained
+title: Brain-Computer Interfaces
 ogTitle: "BRAIN COMPUTER INTERFACE EXPLAINED"
 description: >-
   An introduction to Brain-Computer Interfaces (BCIs), exploring how they work,

@@ -1,5 +1,5 @@
 ---
-title: The Growing Need for Web3 Blockchain Regulatory Experts
+title: Web3 Blockchain Regulatory Experts
 ogTitle: "THE GROWING NEED FOR WEB3 BLOCKCHAIN REGULATORY EXPERTS"
 image: /images/johannes-plenio-FZpCcPss9to-unsplash.jpg
 data-ai-hint: blockchain regulation law

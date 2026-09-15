@@ -1,5 +1,5 @@
 ---
-title: Performance Management Best Practices for Modern Teams
+title: Performance Management Best Practices
 ogTitle: "PERFORMANCE MANAGEMENT BEST PRACTICES FOR MODERN TEAMS"
 category: Career Guides
 date: '2025-09-12'

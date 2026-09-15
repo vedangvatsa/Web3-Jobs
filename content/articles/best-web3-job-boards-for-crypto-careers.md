@@ -1,5 +1,5 @@
 ---
-title: "7 Best Web3 Job Boards for Crypto Careers in 2026 | Where Hiring Actually Happens"
+title: 7 Best Web3 Job Boards in 2026
 ogTitle: "7 BEST WEB3 JOB BOARDS FOR CRYPTO CAREERS IN 2026 | WHERE"
 description: >-
   A recruiter-tested guide to the 7 channels that fill most Web3 roles in 2026.

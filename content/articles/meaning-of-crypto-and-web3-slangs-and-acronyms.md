@@ -1,5 +1,5 @@
 ---
-title: A Guide to Crypto & Web3 Slang and Acronyms
+title: Crypto and Web3 Slang
 ogTitle: "A GUIDE TO CRYPTO & WEB3 SLANG AND ACRONYMS"
 image: /images/gilles-lambert-pb_lF8VWaPU-unsplash.jpg
 data-ai-hint: crypto web3 slang

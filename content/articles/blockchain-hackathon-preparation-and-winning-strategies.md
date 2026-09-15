@@ -1,5 +1,5 @@
 ---
-title: Blockchain Hackathon Preparation and Winning Strategies
+title: Blockchain Hackathon Preparation
 ogTitle: "BLOCKCHAIN HACKATHON PREPARATION AND WINNING STRATEGIES"
 image: /images/nasa-1lfI7wkGWZ4-unsplash.jpg
 data-ai-hint: hackathon team coding

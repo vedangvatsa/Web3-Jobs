@@ -1,5 +1,5 @@
 ---
-title: Understanding the Solana Blockchain
+title: Solana Blockchain
 ogTitle: "UNDERSTANDING THE SOLANA BLOCKCHAIN"
 image: /images/george-prentzas-SRFG7iwktDk-unsplash.jpg
 data-ai-hint: solana blockchain

@@ -1,5 +1,5 @@
 ---
-title: What is a Protocol in Web3?
+title: "What Is a Protocol in Web3?"
 ogTitle: "PROTOCOL IN WEB3? EXPLAINED"
 image: /images/articles/charts/web3-protocol-stack-architecture.svg
 data-ai-hint: web3 protocol architecture composability smart contracts L1 L2

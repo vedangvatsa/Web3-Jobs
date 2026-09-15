@@ -1,5 +1,5 @@
 ---
-title: Web3 Skills Guide Essential Knowledge for Career Success
+title: Essential Web3 Skills for Your Career
 ogTitle: "WEB3 SKILLS GUIDE ESSENTIAL KNOWLEDGE FOR CAREER SUCCESS"
 description: A comprehensive technical and strategic guide covering core skills, programming languages, security auditing, financial engineering, and governance models for Web3 careers.
 category: Career Guides

@@ -1,5 +1,5 @@
 ---
-title: "Sustainable Blockchain Explained: Energy, Consensus, and What Actually Makes a Chain Green"
+title: Sustainable Blockchain
 ogTitle: "SUSTAINABLE BLOCKCHAIN EXPLAINED: ENERGY, CONSENSUS, AND WHAT"
 image: /images/nasa-Q1p7bh3SHj8-unsplash.jpg
 data-ai-hint: earth sustainability green energy

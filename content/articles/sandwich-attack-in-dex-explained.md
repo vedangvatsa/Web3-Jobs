@@ -1,5 +1,5 @@
 ---
-title: Sandwich Attack in DEX Explained
+title: Sandwich Attacks on DEXs
 ogTitle: "SANDWICH ATTACK IN DEX EXPLAINED"
 description: >-
   Learn how sandwich attacks work on decentralized exchanges (DEXs), how they

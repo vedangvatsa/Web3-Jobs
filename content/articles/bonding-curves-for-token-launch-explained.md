@@ -1,5 +1,5 @@
 ---
-title: Bonding Curves for Token Launch Explained
+title: Bonding Curves for Token Launches
 ogTitle: "BONDING CURVES FOR TOKEN LAUNCH EXPLAINED"
 image: /images/maximalfocus-naSAHDWRNbQ-unsplash.jpg
 data-ai-hint: bonding curve token

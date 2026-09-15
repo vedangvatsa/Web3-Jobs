@@ -1,5 +1,5 @@
 ---
-title: Vesting Schedules in Crypto Projects Explained
+title: Vesting Schedules in Crypto
 ogTitle: "VESTING SCHEDULES IN CRYPTO PROJECTS EXPLAINED"
 image: /images/maxim-hopman-8vn4KvfU640-unsplash.jpg
 data-ai-hint: token vesting schedule

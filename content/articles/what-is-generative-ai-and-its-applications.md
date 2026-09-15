@@ -1,5 +1,5 @@
 ---
-title: What is Generative AI and Its Applications
+title: What Is Generative AI and Its Applications
 ogTitle: "GENERATIVE AI AND ITS APPLICATIONS EXPLAINED"
 description: >-
   Learn about generative AI, the technology that can create new content like

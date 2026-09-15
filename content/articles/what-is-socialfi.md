@@ -1,5 +1,5 @@
 ---
-title: What is SocialFi? The Future of Social Media Explained
+title: "What Is SocialFi?"
 ogTitle: "SOCIALFI? THE FUTURE OF SOCIAL MEDIA EXPLAINED EXPLAINED"
 image: /images/christina-wocintechchat-com-glRqyWJgUeY-unsplash.jpg
 description: >-

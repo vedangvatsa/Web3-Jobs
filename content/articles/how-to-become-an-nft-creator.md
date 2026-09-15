@@ -1,5 +1,5 @@
 ---
-title: How to Become an NFT Creator - From Artwork to On-Chain Sale
+title: How to Become an NFT Creator
 ogTitle: "BECOME AN NFT CREATOR - FROM ARTWORK TO ON-CHAIN SALE GUIDE"
 image: /images/simon-abrams-k_T9Zj3SE8k-unsplash.jpg
 data-ai-hint: nft art crypto

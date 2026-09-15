@@ -1,5 +1,5 @@
 ---
-title: The Full Guide to Ethereum Rollups and Scaling Solutions
+title: Ethereum Rollups and Scaling
 ogTitle: "THE FULL GUIDE TO ETHEREUM ROLLUPS AND SCALING SOLUTIONS"
 image: /images/bruce-mars-FWVMhUa_wbY-unsplash.jpg
 description: >-

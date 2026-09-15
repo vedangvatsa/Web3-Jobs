@@ -1,5 +1,5 @@
 ---
-title: The Rise of Web3 and Its Impact on Digital Ownership
+title: Web3 and Digital Ownership
 ogTitle: "THE RISE OF WEB3 AND ITS IMPACT ON DIGITAL OWNERSHIP"
 image: /images/alex-kotliarskyi-QBpZGqEMsKg-unsplash.jpg
 data-ai-hint: digital ownership key

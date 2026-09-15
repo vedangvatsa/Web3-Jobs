@@ -1,5 +1,5 @@
 ---
-title: AI Bias and Fairness Explained
+title: AI Bias and Fairness
 ogTitle: "AI BIAS AND FAIRNESS EXPLAINED"
 data-ai-hint: unbalanced scale
 description: >-

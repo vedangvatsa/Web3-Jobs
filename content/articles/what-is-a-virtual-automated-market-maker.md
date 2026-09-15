@@ -1,5 +1,5 @@
 ---
-title: What is a Virtual Automated Market Maker (vAMM)?
+title: "What Is a Virtual Automated Market Maker (vAMM)?"
 ogTitle: "VIRTUAL AUTOMATED MARKET MAKER (VAMM)? EXPLAINED"
 description: >-
   A deep dive into Virtual AMMs (vAMMs), the new mechanism used by perpetual

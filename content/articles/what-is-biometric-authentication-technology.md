@@ -1,5 +1,5 @@
 ---
-title: What is Biometric Authentication Technology
+title: What Is Biometric Authentication Technology
 ogTitle: "BIOMETRIC AUTHENTICATION TECHNOLOGY EXPLAINED"
 description: >-
   An in-depth look at biometric authentication, covering different types like

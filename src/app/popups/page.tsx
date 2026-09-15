@@ -1,5 +1,6 @@
 import type { Metadata } from 'next';
 import type { CollectionPage, WithContext } from 'schema-dts';
+import { CommunityFeedBanner } from '@/components/community-feed-banner';
 import { PageHeader } from '@/components/page-header';
 import { PageShell } from '@/components/page-shell';
 import { PopupsBoard } from '@/components/popups-board';
@@ -58,6 +59,14 @@ export default function PopupsPage() {
         <main className="flex-1">
           <PageShell>
             <PageHeader title="Startup Societies" />
+            <CommunityFeedBanner
+              href="https://t.me/hashtagweb3"
+              text={
+                <>
+                  Join our Telegram community with <strong className="text-foreground">18,000+</strong> members
+                </>
+              }
+            />
             <PopupsBoard popups={popups} />
           </PageShell>
         </main>

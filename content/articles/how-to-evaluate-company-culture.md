@@ -1,5 +1,5 @@
 ---
-title: How to Evaluate Company Culture Before You Accept the Job
+title: How to Evaluate Company Culture
 ogTitle: "EVALUATE COMPANY CULTURE BEFORE YOU ACCEPT THE JOB GUIDE"
 description: >-
   Use targeted interview questions and observations to assess cultural fit

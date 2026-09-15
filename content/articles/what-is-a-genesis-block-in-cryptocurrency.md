@@ -1,5 +1,5 @@
 ---
-title: What is a Genesis Block in Cryptocurrency
+title: What Is a Genesis Block in Cryptocurrency
 ogTitle: "GENESIS BLOCK IN CRYPTOCURRENCY EXPLAINED"
 image: /images/nasa-1lfI7wkGWZ4-unsplash.jpg
 data-ai-hint: blockchain genesis block

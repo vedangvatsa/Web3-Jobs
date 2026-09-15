@@ -1,5 +1,5 @@
 ---
-title: A Guide to Ethereum Layer 2 Scaling Solutions
+title: Ethereum Layer 2 Scaling
 ogTitle: "A GUIDE TO ETHEREUM LAYER 2 SCALING SOLUTIONS"
 image: /images/articles/charts/l2-scaling-mechanics-blobs.svg
 data-ai-hint: ethereum layer 2 scaling rollups guide architecture

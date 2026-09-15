@@ -1,5 +1,5 @@
 ---
-title: Understanding Web3 Job Salaries and Negotiation
+title: Web3 Job Salaries and Negotiation
 ogTitle: "UNDERSTANDING WEB3 JOB SALARIES AND NEGOTIATION"
 image: >-
   https://images.unsplash.com/photo-1553729459-efe14ef6055d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxzYWxhcnl8ZW58MHx8fHwxNzU1MDA4NjIxfDA&ixlib=rb-4.1.0&q=80&w=1080

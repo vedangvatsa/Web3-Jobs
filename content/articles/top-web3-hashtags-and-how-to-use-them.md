@@ -1,5 +1,5 @@
 ---
-title: Top Web3 Hashtags and How to Use Them
+title: Top Web3 Hashtags
 ogTitle: "TOP WEB3 HASHTAGS AND HOW TO USE THEM"
 image: /images/thisisengineering-83udtzyaTS4-unsplash.jpg
 data-ai-hint: social media hashtags

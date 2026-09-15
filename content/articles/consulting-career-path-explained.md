@@ -1,5 +1,5 @@
 ---
-title: 'The Consulting Career Path Explained'
+title: The Consulting Career Path
 ogTitle: "THE CONSULTING CAREER PATH EXPLAINED"
 description: >-
   A detailed guide to the consulting career path, from the entry-level Analyst

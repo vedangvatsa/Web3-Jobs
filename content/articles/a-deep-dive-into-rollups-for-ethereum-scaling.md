@@ -1,5 +1,5 @@
 ---
-title: A Deep Dive Into Rollups for Ethereum Scaling
+title: Rollups for Ethereum Scaling
 ogTitle: "A DEEP DIVE INTO ROLLUPS FOR ETHEREUM SCALING"
 image: /images/bilge-tekin-GiATUqz4NYY-unsplash.jpg
 data-ai-hint: ethereum scaling rollup

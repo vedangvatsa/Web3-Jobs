@@ -1,5 +1,5 @@
 ---
-title: Cosmos Blockchain and Inter Blockchain Communication
+title: Cosmos and Inter-Blockchain Communication
 ogTitle: "COSMOS BLOCKCHAIN AND INTER BLOCKCHAIN COMMUNICATION"
 image: /images/articles/charts/cosmos-ibc-architecture.svg
 data-ai-hint: cosmos ibc cometbft interchain blockchain

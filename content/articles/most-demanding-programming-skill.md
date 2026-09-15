@@ -1,5 +1,5 @@
 ---
-title: The Most Demanding Programming Skill Everyone Should Learn
+title: The Most Demanding Programming Skill
 ogTitle: "THE MOST DEMANDING PROGRAMMING SKILL EVERYONE SHOULD LEARN"
 image: /images/austin-distel-tLZhFRLj6nY-unsplash.jpg
 data-ai-hint: programming skill learn

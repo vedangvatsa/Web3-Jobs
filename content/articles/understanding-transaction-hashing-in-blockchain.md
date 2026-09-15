@@ -1,5 +1,5 @@
 ---
-title: Understanding Transaction Hashing in Blockchain
+title: Transaction Hashing in Blockchain
 ogTitle: "UNDERSTANDING TRANSACTION HASHING IN BLOCKCHAIN"
 image: /images/alex-knight-2EJCSULRwC8-unsplash.jpg
 data-ai-hint: blockchain hash

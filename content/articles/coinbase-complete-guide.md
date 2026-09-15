@@ -1,5 +1,5 @@
 ---
-title: 'Coinbase Complete Guide'
+title: Coinbase Guide
 ogTitle: "COINBASE COMPLETE GUIDE"
 description: >-
   Coinbase is the largest U.S. crypto exchange. Learn what it offers, how fees

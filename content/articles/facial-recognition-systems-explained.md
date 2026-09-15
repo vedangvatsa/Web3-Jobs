@@ -1,5 +1,5 @@
 ---
-title: Facial Recognition Systems Explained
+title: Facial Recognition Systems
 ogTitle: "FACIAL RECOGNITION SYSTEMS EXPLAINED"
 description: >-
   A clear explanation of how facial recognition systems work, their applications

@@ -1,5 +1,5 @@
 ---
-title: What is 'Apeing' in the Crypto World? A Guide to High-Risk Trading
+title: "What Is 'Apeing' in Crypto?"
 ogTitle: "'APEING' IN THE CRYPTO WORLD? A GUIDE TO HIGH-RISK TRADING"
 image: /images/christin-hume-Hcfwew744z4-unsplash.jpg
 description: >-

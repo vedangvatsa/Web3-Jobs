@@ -1,5 +1,5 @@
 ---
-title: Combining Business and Leisure While Working Globally
+title: Combining Business and Leisure Abroad
 ogTitle: "COMBINING BUSINESS AND LEISURE WHILE WORKING GLOBALLY"
 image: /images/george-prentzas-SRFG7iwktDk-unsplash.jpg
 data-ai-hint: travel work leisure

@@ -1,5 +1,5 @@
 ---
-title: Understanding Web3 Company Culture
+title: Web3 Company Culture
 ogTitle: "UNDERSTANDING WEB3 COMPANY CULTURE"
 image: >-
   https://images.unsplash.com/photo-1522202176988-66273c2fd55f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxDb21wYW55JTIwQ3VsdHVyZXxlbnwwfHx8fDE3NTQ5NTEyMzB8MA&ixlib=rb-4.1.0&q=80&w=1080

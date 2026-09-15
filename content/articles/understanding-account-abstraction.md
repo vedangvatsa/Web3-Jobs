@@ -1,5 +1,5 @@
 ---
-title: 'Understanding Account Abstraction'
+title: Account Abstraction
 ogTitle: "UNDERSTANDING ACCOUNT ABSTRACTION"
 image: /images/brian-kostiuk-S4jSvcHYcOs-unsplash.jpg
 description: >-

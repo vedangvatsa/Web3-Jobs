@@ -1,5 +1,5 @@
 ---
-title: How to Create AI Art Step by Step
+title: How to Create AI Art
 ogTitle: "CREATE AI ART STEP BY STEP GUIDE"
 data-ai-hint: robot painting canvas
 description: >-

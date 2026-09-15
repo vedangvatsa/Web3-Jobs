@@ -1,5 +1,5 @@
 ---
-title: How to Write an Effective Job Description for Web3 Roles
+title: How to Write a Web3 Job Description
 ogTitle: "WRITE AN EFFECTIVE JOB DESCRIPTION FOR WEB3 ROLES GUIDE"
 image: /images/christopher-gower-m_HRfLhgABo-unsplash.jpg
 data-ai-hint: hiring job description writing

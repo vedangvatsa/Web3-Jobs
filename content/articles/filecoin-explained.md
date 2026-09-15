@@ -1,5 +1,5 @@
 ---
-title: Filecoin Explained and How Cryptographic Storage Proofs Work
+title: Filecoin Explained
 ogTitle: "FILECOIN EXPLAINED AND HOW CRYPTOGRAPHIC STORAGE PROOFS WORK"
 image: /images/articles/charts/filecoin-storage-proofs-architecture.svg
 description: A comprehensive technical exploration of Filecoin, detailing Proof of Replication, Proof of Spacetime, storage deal lifecycles, FVM smart contracts, and cryptoeconomic pledge models.

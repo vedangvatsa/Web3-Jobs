@@ -1,5 +1,5 @@
 ---
-title: What is 'Shilling' in the World of Crypto? A Guide to Promotion and Hype
+title: "What Is 'Shilling' in Crypto?"
 ogTitle: "'SHILLING' IN THE WORLD OF CRYPTO? A GUIDE TO PROMOTION AND"
 image: /images/christopher-gower-vjMgqUkS8q8-unsplash.jpg
 description: >-

@@ -1,5 +1,5 @@
 ---
-title: 'Bitcoin Whitepaper Day Explained'
+title: Bitcoin Whitepaper Day
 ogTitle: "BITCOIN WHITEPAPER DAY EXPLAINED"
 description: >-
   An introduction to the Bitcoin whitepaper, the double-spending problem it

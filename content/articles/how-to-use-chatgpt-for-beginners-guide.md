@@ -1,5 +1,5 @@
 ---
-title: How to Use ChatGPT for Beginners Guide
+title: How to Use ChatGPT
 ogTitle: "USE CHATGPT FOR BEGINNERS GUIDE GUIDE"
 data-ai-hint: robot human interaction
 description: >-

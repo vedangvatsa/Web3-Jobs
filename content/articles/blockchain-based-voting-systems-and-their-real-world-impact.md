@@ -1,5 +1,5 @@
 ---
-title: Blockchain Based Voting Systems and Their Real World Impact
+title: Blockchain-Based Voting Systems
 ogTitle: "BLOCKCHAIN BASED VOTING SYSTEMS AND THEIR REAL WORLD IMPACT"
 image: /images/articles/charts/decentralized-voting-architectures.svg
 data-ai-hint: blockchain voting systems governance quadratic maci snapshot

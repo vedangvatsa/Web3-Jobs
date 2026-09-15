@@ -1,5 +1,5 @@
 ---
-title: How to Set Career Goals That You'll Actually Achieve
+title: How to Set Career Goals
 ogTitle: "SET CAREER GOALS THAT YOU'LL ACTUALLY ACHIEVE GUIDE"
 description: >-
   Many career goals are forgotten after a few weeks. This guide explains how to

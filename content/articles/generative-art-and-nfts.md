@@ -1,5 +1,5 @@
 ---
-title: Generative Art and NFTs - How Code Becomes Collectible Art
+title: Generative Art and NFTs
 ogTitle: "GENERATIVE ART AND NFTS - HOW CODE BECOMES COLLECTIBLE ART"
 description: >-
   Learn what generative art is, how it works with NFTs, and why platforms like

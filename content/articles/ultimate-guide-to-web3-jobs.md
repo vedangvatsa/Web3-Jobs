@@ -1,5 +1,5 @@
 ---
-title: a full guide to Landing a Web3 Job in 2026
+title: How to Land a Web3 Job in 2026
 ogTitle: "A FULL GUIDE TO LANDING A WEB3 JOB IN 2026"
 description: >-
   Your full guide to working through the Web3 job market. Discover the most

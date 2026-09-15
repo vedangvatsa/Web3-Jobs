@@ -1,5 +1,5 @@
 ---
-title: What is a Fair Launch in Cryptocurrency
+title: What Is a Fair Launch in Cryptocurrency
 ogTitle: "FAIR LAUNCH IN CRYPTOCURRENCY EXPLAINED"
 image: /images/articles/charts/token-launch-models-matrix.svg
 data-ai-hint: fair launch cryptocurrency token distribution lbp bonding curve airdrop

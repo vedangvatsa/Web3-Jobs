@@ -1,5 +1,5 @@
 ---
-title: How to Build a Long-Term Future in the Decentralized World
+title: Building a Long-Term Future in Web3
 ogTitle: "BUILD A LONG-TERM FUTURE IN THE DECENTRALIZED WORLD GUIDE"
 image: /images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg
 data-ai-hint: future career path

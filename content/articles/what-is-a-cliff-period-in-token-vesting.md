@@ -1,5 +1,5 @@
 ---
-title: What is a Cliff Period in Token Vesting
+title: What Is a Cliff Period in Token Vesting
 ogTitle: "CLIFF PERIOD IN TOKEN VESTING EXPLAINED"
 image: /images/christopher-gower-vjMgqUkS8q8-unsplash.jpg
 data-ai-hint: cliff vesting crypto

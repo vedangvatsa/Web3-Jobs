@@ -1,5 +1,5 @@
 ---
-title: What is a Custodial vs Non Custodial Wallet
+title: What Is a Custodial vs Non Custodial Wallet
 ogTitle: "CUSTODIAL VS NON CUSTODIAL WALLET EXPLAINED"
 image: /images/austin-distel-tLZhFRLj6nY-unsplash.jpg
 data-ai-hint: wallet custody keys

@@ -1,5 +1,5 @@
 ---
-title: What is Voice Recognition Technology
+title: What Is Voice Recognition Technology
 ogTitle: "VOICE RECOGNITION TECHNOLOGY EXPLAINED"
 description: >-
   An explanation of voice recognition technology, how it differs from speech

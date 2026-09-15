@@ -1,5 +1,5 @@
 ---
-title: What is Front-Running in DeFi Trading?
+title: "What Is Front-Running in DeFi Trading?"
 ogTitle: "FRONT-RUNNING IN DEFI TRADING? EXPLAINED"
 description: >-
   Learn how frontrunning works in DEX trading and strategies to protect against

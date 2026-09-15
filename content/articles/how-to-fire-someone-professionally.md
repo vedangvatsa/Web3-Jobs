@@ -1,5 +1,5 @@
 ---
-title: How to Fire Someone Professionally and Compassionately
+title: How to Fire Someone Professionally
 ogTitle: "FIRE SOMEONE PROFESSIONALLY AND COMPASSIONATELY GUIDE"
 category: Career Guides
 date: '2025-09-12'

@@ -1,5 +1,5 @@
 ---
-title: "How to Transition into Web3 With a Legal or Compliance Background"
+title: Transitioning to Web3 from Legal or Compliance
 ogTitle: "TRANSITION INTO WEB3 WITH A LEGAL OR COMPLIANCE BACKGROUND GUIDE"
 image: "/images/thisisengineering-yhCHx8Mc-Kc-unsplash.jpg"
 data-ai-hint: "law compliance transition legal counsel regulatory stack"

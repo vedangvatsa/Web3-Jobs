@@ -1,5 +1,5 @@
 ---
-title: What are Crypto Faucets and How to Use Them
+title: "What Are Crypto Faucets?"
 ogTitle: "WHAT ARE CRYPTO FAUCETS AND HOW TO USE THEM"
 image: /images/articles/charts/crypto-faucets-testnet-architecture.svg
 data-ai-hint: crypto faucet testnet Sepolia Holesky Alchemy Infura developer

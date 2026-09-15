@@ -1,5 +1,5 @@
 ---
-title: Decentralized Identifiers (DIDs) Architecture W3C Standards and Technical Implementation
+title: "What Are Decentralized Identifiers (DIDs)?"
 ogTitle: "DECENTRALIZED IDENTIFIERS (DIDS) ARCHITECTURE W3C STANDARDS"
 description: A comprehensive technical guide to Decentralized Identifiers (DIDs), W3C standards, Verifiable Credentials, Zero-Knowledge proofs, and smart contract registry implementation.
 date: 2026-03-28

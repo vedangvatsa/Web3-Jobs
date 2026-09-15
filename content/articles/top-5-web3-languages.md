@@ -1,5 +1,5 @@
 ---
-title: The Top 5 Programming Languages for Web3 Development
+title: Top 5 Programming Languages for Web3
 ogTitle: "THE TOP 5 PROGRAMMING LANGUAGES FOR WEB3 DEVELOPMENT"
 image: >-
   https://images.unsplash.com/photo-1619410283995-43d9134e7656?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxwcm9ncmFtbWluZ3xlbnwwfHx8fDE3NTQ5NTQzMzB8MA&ixlib=rb-4.1.0&q=80&w=1080

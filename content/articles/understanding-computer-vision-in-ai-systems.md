@@ -1,5 +1,5 @@
 ---
-title: Understanding Computer Vision in AI Systems
+title: Computer Vision in AI Systems
 ogTitle: "UNDERSTANDING COMPUTER VISION IN AI SYSTEMS"
 description: >-
   A simple guide to computer vision, the field of AI that teaches computers how

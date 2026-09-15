@@ -1,5 +1,5 @@
 ---
-title: 'What the Ethereum Virtual Machine Is and How It Works'
+title: The Ethereum Virtual Machine
 ogTitle: "WHAT THE ETHEREUM VIRTUAL MACHINE IS AND HOW IT WORKS"
 image: /images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg
 data-ai-hint: ethereum virtual machine

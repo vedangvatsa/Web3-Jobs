@@ -1,5 +1,5 @@
 ---
-title: 'Optimism Explained - OP Mainnet, the OP Stack, and the Superchain'
+title: Optimism
 ogTitle: "OPTIMISM EXPLAINED - OP MAINNET, THE OP STACK, AND THE SUPERCHAIN"
 description: >-
   Optimism is an Ethereum Layer 2 optimistic rollup that runs transactions off

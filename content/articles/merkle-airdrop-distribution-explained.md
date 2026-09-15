@@ -1,5 +1,5 @@
 ---
-title: Merkle Airdrop Distribution Explained
+title: Merkle Airdrop Distribution
 ogTitle: "MERKLE AIRDROP DISTRIBUTION EXPLAINED"
 image: /images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg
 data-ai-hint: tree data structure

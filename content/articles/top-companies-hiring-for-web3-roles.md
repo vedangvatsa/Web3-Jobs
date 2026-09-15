@@ -1,5 +1,5 @@
 ---
-title: Top Companies Hiring for Web3 Roles in 2026
+title: Top Companies Hiring in 2026
 ogTitle: "TOP COMPANIES HIRING FOR WEB3 ROLES IN 2026"
 image: /images/vishnu-mohanan-pfR18JNEMv8-unsplash.jpg
 data-ai-hint: companies hiring people

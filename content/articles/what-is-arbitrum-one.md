@@ -1,5 +1,5 @@
 ---
-title: What is Arbitrum One? Technical Architecture of the Leading Optimistic Rollup
+title: "What Is Arbitrum One?"
 ogTitle: "ARBITRUM ONE? TECHNICAL ARCHITECTURE OF THE LEADING OPTIMISTIC"
 image: /images/nasa-cIX5TlQ_FgM-unsplash.jpg
 data-ai-hint: arbitrum blockchain

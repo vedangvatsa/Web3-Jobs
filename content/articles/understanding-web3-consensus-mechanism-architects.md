@@ -1,5 +1,5 @@
 ---
-title: Understanding Web3 Consensus Mechanism Architects
+title: Web3 Consensus Mechanism Architects
 ogTitle: "UNDERSTANDING WEB3 CONSENSUS MECHANISM ARCHITECTS"
 image: /images/marvin-meyer-SYTO3xs06fU-unsplash.jpg
 data-ai-hint: blockchain consensus mechanism

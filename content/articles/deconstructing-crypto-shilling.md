@@ -1,5 +1,5 @@
 ---
-title: What is Shilling in Crypto? A Guide to Spotting It
+title: "What Is Shilling in Crypto?"
 ogTitle: "SHILLING IN CRYPTO? A GUIDE TO SPOTTING IT EXPLAINED"
 description: >-
   A deep dive into the practice of 'shilling' in the cryptocurrency space. Learn

@@ -1,5 +1,5 @@
 ---
-title: Top Trending Web3 Hashtags and How to Use Them to Grow Your Brand
+title: Top Trending Web3 Hashtags
 ogTitle: "TOP TRENDING WEB3 HASHTAGS AND HOW TO USE THEM TO GROW YOUR BRAND"
 image: /images/surface-F4ottWBnCpM-unsplash.jpg
 data-ai-hint: social media growth

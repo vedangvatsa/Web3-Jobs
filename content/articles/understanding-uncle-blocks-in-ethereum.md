@@ -1,5 +1,5 @@
 ---
-title: Understanding Uncle Blocks in Ethereum
+title: Uncle Blocks in Ethereum
 ogTitle: "UNDERSTANDING UNCLE BLOCKS IN ETHEREUM"
 description: >-
   Discover what Uncle blocks are in Ethereum's Proof-of-Work history, why they

@@ -1,5 +1,5 @@
 ---
-title: Rust for Blockchain Explained
+title: Rust for Blockchain
 ogTitle: "RUST FOR BLOCKCHAIN EXPLAINED"
 image: /images/articles/charts/rust-blockchain-architecture.svg
 data-ai-hint: rust blockchain engineering solana substrate rethink systems

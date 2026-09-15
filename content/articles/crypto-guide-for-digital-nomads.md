@@ -1,5 +1,5 @@
 ---
-title: The Crypto Guide for Digital Nomads
+title: Crypto Guide for Digital Nomads
 ogTitle: "THE CRYPTO GUIDE FOR DIGITAL NOMADS"
 image: /images/domenico-loia-EhTcC9sYXsw-unsplash.jpg
 data-ai-hint: digital nomad laptop

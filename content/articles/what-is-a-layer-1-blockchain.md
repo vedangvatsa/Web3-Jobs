@@ -1,5 +1,5 @@
 ---
-title: What is a Layer 1 Blockchain? The Foundation of Web3
+title: "What Is a Layer 1 Blockchain?"
 ogTitle: "LAYER 1 BLOCKCHAIN? THE FOUNDATION OF WEB3 EXPLAINED"
 image: /images/sergey-zolkin-_UeY8aTI6d0-unsplash.jpg
 data-ai-hint: blockchain network foundation

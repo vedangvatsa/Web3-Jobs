@@ -1,5 +1,5 @@
 ---
-title: What is a Liquidity Bootstrapping Pool and How It Works
+title: "What Is a Liquidity Bootstrapping Pool?"
 ogTitle: "LIQUIDITY BOOTSTRAPPING POOL AND HOW IT WORKS EXPLAINED"
 description: A comprehensive technical guide to Liquidity Bootstrapping Pools, dynamic weight decay mathematics, anti-bot price discovery, and capital-efficient token launches.
 category: Educational

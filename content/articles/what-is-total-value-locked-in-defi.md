@@ -1,5 +1,5 @@
 ---
-title: What is Total Value Locked (TVL) in DeFi Architecture and Analytics Guide
+title: "What Is Total Value Locked (TVL) in DeFi?"
 ogTitle: "TOTAL VALUE LOCKED (TVL) IN DEFI ARCHITECTURE AND ANALYTICS"
 image: /images/christin-hume-Hcfwew744z4-unsplash.jpg
 data-ai-hint: defi crypto vault

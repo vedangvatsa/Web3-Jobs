@@ -1,5 +1,5 @@
 ---
-title: How to Become a Web3 Blockchain Marketing Strategist
+title: Web3 Blockchain Marketing Strategist
 ogTitle: "BECOME A WEB3 BLOCKCHAIN MARKETING STRATEGIST GUIDE"
 image: /images/nasa-cIX5TlQ_FgM-unsplash.jpg
 data-ai-hint: blockchain marketing strategy

@@ -1,5 +1,5 @@
 ---
-title: the best Packing List for Digital Nomads in Tech
+title: Packing List for Digital Nomads in Tech
 ogTitle: "THE BEST PACKING LIST FOR DIGITAL NOMADS IN TECH"
 image: /images/bilge-tekin-GiATUqz4NYY-unsplash.jpg
 description: >-

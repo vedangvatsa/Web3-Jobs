@@ -1,5 +1,5 @@
 ---
-title: 'Web3 and Digital Currencies Explained'
+title: Web3 and Digital Currencies
 ogTitle: "WEB3 AND DIGITAL CURRENCIES EXPLAINED"
 image: /images/alesia-kazantceva-XLm6-fPwK5Q-unsplash.jpg
 data-ai-hint: digital currency web3

@@ -1,5 +1,5 @@
 ---
-title: Smart Agents in AI Architecture Principles and Web3 Integration
+title: Smart Agents in AI
 ogTitle: "SMART AGENTS IN AI ARCHITECTURE PRINCIPLES AND WEB3 INTEGRATION"
 image: /images/brian-kostiuk-S4jSvcHYcOs-unsplash.jpg
 data-ai-hint: smart ai agent

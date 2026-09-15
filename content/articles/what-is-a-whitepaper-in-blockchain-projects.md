@@ -1,5 +1,5 @@
 ---
-title: What is a Whitepaper in Blockchain Projects
+title: What Is a Whitepaper in Blockchain Projects
 ogTitle: "WHITEPAPER IN BLOCKCHAIN PROJECTS EXPLAINED"
 image: /images/chris-ried-ieic5Tq8YMk-unsplash.jpg
 data-ai-hint: document paper

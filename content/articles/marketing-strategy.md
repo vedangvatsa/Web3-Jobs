@@ -1,5 +1,5 @@
 ---
-title: 'A Guide to Growth in a Decentralized World'
+title: Growth in a Decentralized World
 ogTitle: "A GUIDE TO GROWTH IN A DECENTRALIZED WORLD"
 image: >-
   https://images.unsplash.com/photo-1560472354-b33ff0c44a43?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxOHx8bWFya2V0aW5nfGVufDB8fHx8MTc1NDg4MzkwNnww&lib=rb-4.1.0&q=80&w=1080

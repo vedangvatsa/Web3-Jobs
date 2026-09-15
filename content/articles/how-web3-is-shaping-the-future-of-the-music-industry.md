@@ -1,5 +1,5 @@
 ---
-title: How Web3 Is Shaping the Future of the Music Industry
+title: Web3 and the Music Industry
 ogTitle: "HOW WEB3 IS SHAPING THE FUTURE OF THE MUSIC INDUSTRY"
 image: /images/maxim-hopman-8vn4KvfU640-unsplash.jpg
 data-ai-hint: music industry future

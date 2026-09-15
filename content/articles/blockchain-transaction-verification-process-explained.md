@@ -1,5 +1,5 @@
 ---
-title: Blockchain Transaction Verification Process Explained
+title: Blockchain Transaction Verification
 ogTitle: "BLOCKCHAIN TRANSACTION VERIFICATION PROCESS EXPLAINED"
 image: /images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg
 data-ai-hint: blockchain transaction process

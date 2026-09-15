@@ -1,5 +1,5 @@
 ---
-title: What is a Smart Contract Audit and Why Is It Important
+title: "What Is a Smart Contract Audit?"
 ogTitle: "SMART CONTRACT AUDIT AND WHY IS IT IMPORTANT EXPLAINED"
 description: >-
   A smart contract audit is an essential security check for any Web3 project.

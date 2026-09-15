@@ -1,5 +1,5 @@
 ---
-title: A Guide to Building Relationships With Your New Team
+title: Building Relationships With Your New Team
 ogTitle: "A GUIDE TO BUILDING RELATIONSHIPS WITH YOUR NEW TEAM"
 description: >-
   Integrating into a new team is about more than just the work. This guide

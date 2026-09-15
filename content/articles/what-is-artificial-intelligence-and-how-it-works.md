@@ -1,5 +1,5 @@
 ---
-title: What is Artificial Intelligence and How It Works
+title: What Is Artificial Intelligence
 ogTitle: "ARTIFICIAL INTELLIGENCE AND HOW IT WORKS EXPLAINED"
 description: >-
   A straightforward look at what artificial intelligence really is, how it

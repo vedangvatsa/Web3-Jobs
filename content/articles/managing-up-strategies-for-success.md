@@ -1,5 +1,5 @@
 ---
-title: 'Strategies for a More Effective Relationship With Your Boss'
+title: A Better Relationship With Your Boss
 ogTitle: "STRATEGIES FOR A MORE EFFECTIVE RELATIONSHIP WITH YOUR BOSS"
 category: Career Guides
 date: '2025-09-12'

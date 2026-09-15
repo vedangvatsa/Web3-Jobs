@@ -1,5 +1,5 @@
 ---
-title: What is a Bonding Curve in Token Economics
+title: What Is a Bonding Curve in Token Economics
 ogTitle: "BONDING CURVE IN TOKEN ECONOMICS EXPLAINED"
 image: /images/maximalfocus-naSAHDWRNbQ-unsplash.jpg
 data-ai-hint: bonding curve token

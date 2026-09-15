@@ -1,5 +1,5 @@
 ---
-title: 'Understanding Reentrancy Attacks in Smart Contracts'
+title: Reentrancy Attacks in Smart Contracts
 ogTitle: "UNDERSTANDING REENTRANCY ATTACKS IN SMART CONTRACTS"
 description: >-
   Reentrancy is one of the most notorious and destructive vulnerabilities in

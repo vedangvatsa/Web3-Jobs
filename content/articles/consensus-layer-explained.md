@@ -1,5 +1,5 @@
 ---
-title: Consensus Layer Explained - What It Is and How It Works on Ethereum
+title: Consensus Layer
 ogTitle: "CONSENSUS LAYER EXPLAINED - WHAT IT IS AND HOW IT WORKS ON"
 image: /images/johannes-plenio-FZpCcPss9to-unsplash.jpg
 data-ai-hint: ethereum consensus layer

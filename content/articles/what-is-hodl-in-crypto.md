@@ -1,5 +1,5 @@
 ---
-title: What is HODL in Crypto? The Story Behind the Famous Term
+title: "What Is HODL in Crypto?"
 ogTitle: "HODL IN CRYPTO? THE STORY BEHIND THE FAMOUS TERM EXPLAINED"
 image: /images/dayne-topkin-y5_mFlLMwJk-unsplash.jpg
 description: >-

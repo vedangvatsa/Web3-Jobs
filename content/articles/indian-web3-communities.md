@@ -1,5 +1,5 @@
 ---
-title: A Guide to growing Indian Web3 Communities
+title: Indian Web3 Communities
 ogTitle: "A GUIDE TO GROWING INDIAN WEB3 COMMUNITIES"
 slug: indian-web3-communities
 image: /images/sergey-zolkin-_UeY8aTI6d0-unsplash.jpg

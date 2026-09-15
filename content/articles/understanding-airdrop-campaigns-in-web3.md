@@ -1,5 +1,5 @@
 ---
-title: Understanding Airdrop Campaigns in Web3 Strategy Mechanics and Risk Architecture
+title: Airdrop Campaigns in Web3
 ogTitle: "UNDERSTANDING AIRDROP CAMPAIGNS IN WEB3 STRATEGY MECHANICS AND"
 image: /images/nasa-Q1p7bh3SHj8-unsplash.jpg
 data-ai-hint: crypto airdrop

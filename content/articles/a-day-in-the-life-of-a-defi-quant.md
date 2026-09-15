@@ -1,5 +1,5 @@
 ---
-title: A Day in the Life of a DeFi Quant | $150K-$400K Salary 2026
+title: A Day in the Life of a DeFi Quant
 ogTitle: "A DAY IN THE LIFE OF A DEFI QUANT | $150K-$400K SALARY 2026"
 image: /images/christopher-gower-m_HRfLhgABo-unsplash.jpg
 description: >-

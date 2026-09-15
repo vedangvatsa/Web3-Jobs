@@ -1,5 +1,5 @@
 ---
-title: How to Conduct Effective One-on-Ones That Aren't Status Updates
+title: How to Conduct Effective One-on-Ones
 ogTitle: "CONDUCT EFFECTIVE ONE-ON-ONES THAT AREN'T STATUS UPDATES GUIDE"
 category: Career Guides
 date: '2025-09-12'

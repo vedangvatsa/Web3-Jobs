@@ -1,5 +1,5 @@
 ---
-title: Common Take-Home Assignments for Web3 Developer Roles
+title: Web3 Developer Take-Home Assignments
 ogTitle: "COMMON TAKE-HOME ASSIGNMENTS FOR WEB3 DEVELOPER ROLES"
 image: >-
   https://images.unsplash.com/photo-1491975474562-1f4e30bc9468?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxhc3NpZ25tZW50fGVufDB8fHx8MTc1NTAzNzEwM3ww&ixlib=rb-4.1.0&q=80&w=1080

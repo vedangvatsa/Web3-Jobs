@@ -1,5 +1,5 @@
 ---
-title: How to Break Into Web3 Cryptographic Research and Development
+title: "Breaking Into Web3 Cryptographic R&D"
 ogTitle: "BREAK INTO WEB3 CRYPTOGRAPHIC RESEARCH AND DEVELOPMENT GUIDE"
 image: /images/articles/charts/cryptographic-rd-career-pipeline.svg
 description: A comprehensive career roadmap for breaking into Web3 cryptographic research and development, examining mathematical prerequisites, polynomial commitment schemes, research lab structures, and compensation tiers.

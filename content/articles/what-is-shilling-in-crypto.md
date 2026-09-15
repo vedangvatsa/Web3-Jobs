@@ -1,5 +1,5 @@
 ---
-title: What is Shilling in the Crypto World?
+title: "What Is Shilling in the Crypto World?"
 ogTitle: "SHILLING IN THE CRYPTO WORLD? EXPLAINED"
 image: /images/articles/charts/shilling-crypto-mechanics.svg
 data-ai-hint: crypto shilling market manipulation pump and dump DYOR SEC

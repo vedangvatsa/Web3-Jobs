@@ -1,5 +1,5 @@
 ---
-title: 'Blockspace Explained - What It Is, Why It Is Scarce, and How Networks Price It'
+title: Blockspace
 ogTitle: "BLOCKSPACE EXPLAINED - WHAT IT IS, WHY IT IS SCARCE, AND HOW"
 image: /images/nasa-Q1p7bh3SHj8-unsplash.jpg
 data-ai-hint: blockchain blocks data network

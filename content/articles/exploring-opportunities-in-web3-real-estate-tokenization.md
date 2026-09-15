@@ -1,5 +1,5 @@
 ---
-title: Exploring Opportunities in Web3 Real Estate Tokenization
+title: Web3 Real Estate Tokenization
 ogTitle: "EXPLORING OPPORTUNITIES IN WEB3 REAL ESTATE TOKENIZATION"
 image: /images/nasa-Q1p7bh3SHj8-unsplash.jpg
 data-ai-hint: real estate tokenization
