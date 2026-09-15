@@ -28,6 +28,7 @@ import { getEventExternalUrl } from '@/lib/event-external-url';
 import { getPublicEvent } from '@/lib/event-public';
 import { buildGoogleEventSchema } from '@/lib/event-schema';
 import { resolveEventGuide } from '@/lib/event-guide-store';
+import { hasIndexableEventPage } from '@/lib/event-page-quality';
 import { JsonLd } from '@/components/json-ld';
 import { EventHeroImage } from '@/components/event-cover';
 import { EventCard } from '@/components/event-card';
@@ -231,11 +232,13 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
 
     const ogImageUrl = resolveEventOgImageUrl(event, siteUrl);
     const ogImageType = eventOgImageMimeType(ogImageUrl);
+    const indexable = hasIndexableEventPage(event);
 
     return {
       title,
       description,
       metadataBase: new URL(siteUrl),
+      robots: indexable ? undefined : { index: false, follow: true },
       alternates: {
         canonical: canonicalUrl,
       },
