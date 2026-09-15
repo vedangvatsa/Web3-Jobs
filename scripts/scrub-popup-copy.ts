@@ -1,6 +1,6 @@
 import { writeFileSync } from 'fs';
 import { getAllPopups } from '@/lib/popups';
-import { scrubPopupLines } from '@/lib/popup-copy-guard';
+import { rewritePopupLine, scrubPopupLines } from '@/lib/popup-copy-guard';
 import type { Popup } from '@/types/popup';
 
 const TAGLINE_FIXES: Record<string, string> = {
@@ -11,22 +11,31 @@ const SUMMARY_FIXES: Record<string, string> = {
   zuberlin: 'Berlin coliving residency for researchers and founders, often hosted at Funkhaus.',
 };
 
+function rewriteLines(lines: string[] | undefined): string[] {
+  return (lines ?? []).map((line) => rewritePopupLine(line));
+}
+
 function scrubPopup(popup: Popup): Popup {
   const pricingSummary = popup.pricingSummary
-    ? scrubPopupLines([popup.pricingSummary])[0] ?? null
+    ? scrubPopupLines([rewritePopupLine(popup.pricingSummary)])[0] ?? null
     : null;
+
+  const summaryRaw =
+    SUMMARY_FIXES[popup.slug] ??
+    scrubPopupLines([rewritePopupLine(popup.summary)])[0] ??
+    popup.summary;
 
   return {
     ...popup,
     tagline: TAGLINE_FIXES[popup.slug] ?? popup.tagline,
-    summary: SUMMARY_FIXES[popup.slug] ?? scrubPopupLines([popup.summary])[0] ?? popup.summary,
-    body: scrubPopupLines(popup.body),
-    overview: scrubPopupLines(popup.overview),
-    locationDetails: scrubPopupLines(popup.locationDetails),
-    durationNotes: scrubPopupLines(popup.durationNotes),
-    history: scrubPopupLines(popup.history),
-    amenities: scrubPopupLines(popup.amenities),
-    pricing: scrubPopupLines(popup.pricing),
+    summary: summaryRaw,
+    body: scrubPopupLines(rewriteLines(popup.body)),
+    overview: scrubPopupLines(rewriteLines(popup.overview)),
+    locationDetails: scrubPopupLines(rewriteLines(popup.locationDetails)),
+    durationNotes: scrubPopupLines(rewriteLines(popup.durationNotes)),
+    history: scrubPopupLines(rewriteLines(popup.history)),
+    amenities: scrubPopupLines(rewriteLines(popup.amenities)),
+    pricing: scrubPopupLines(rewriteLines(popup.pricing)),
     pricingSummary,
   };
 }

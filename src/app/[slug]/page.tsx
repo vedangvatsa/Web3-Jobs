@@ -51,8 +51,9 @@ import { JobDetailView } from '@/components/job-detail-view';
 import { resolveCompanyLogo, getCompanyFaviconUrl } from '@/lib/company-logo';
 import { getCompanySlug } from '@/lib/job-slugs';
 import { buildJobOgImageUrl, buildArticleOgImageUrl, buildCompanyOgImageUrl, resolveEventOgImageUrl, eventOgImageMimeType } from '@/lib/job-og';
+import { PopupDetailPage } from '@/components/popup-detail-page';
 import { getPopupBySlug } from '@/lib/popups';
-import { getPopupPath } from '@/lib/popup-seo';
+import { getPopupPath, isRootPopupSlug, popupPageMetadata, resolvePopupSlug } from '@/lib/popup-seo';
 
 
 type ArticlePageProps = {
@@ -173,6 +174,14 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
         images: [ogImageUrl],
       },
     };
+  }
+
+  const rootPopupSlug = resolvePopupSlug(params.slug);
+  if (isRootPopupSlug(rootPopupSlug) && params.slug === rootPopupSlug) {
+    const rootPopup = getPopupBySlug(rootPopupSlug);
+    if (rootPopup) {
+      return popupPageMetadata(rootPopup);
+    }
   }
 
   // Check if it's a glossary term first
@@ -382,6 +391,17 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
       redirect(`/${companyPage.slug}`);
     }
     return <CompanyDetailView slug={companyPage.slug} />;
+  }
+
+  const rootPopupSlug = resolvePopupSlug(params.slug);
+  if (isRootPopupSlug(rootPopupSlug)) {
+    if (params.slug !== rootPopupSlug) {
+      permanentRedirect(getPopupPath(rootPopupSlug));
+    }
+    const rootPopup = getPopupBySlug(rootPopupSlug);
+    if (rootPopup) {
+      return <PopupDetailPage popup={rootPopup} />;
+    }
   }
   }
 
