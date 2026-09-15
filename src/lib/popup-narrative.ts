@@ -1,8 +1,10 @@
 import type { Popup } from '@/types/popup';
+import { isPopupOverviewPadding } from '@/lib/popup-copy-guard';
 import {
   filterPopupBody,
   formatPopupParagraph,
   formatPopupText,
+  insertSentenceBreaksInRunOn,
   isPopupScrapeNoise,
   splitPopupSentences,
 } from '@/lib/popup-text';
@@ -46,7 +48,10 @@ export function composePopupNarrative(popup: Popup): string[] {
   const blocks: string[] = [];
 
   for (const p of filterPopupBody(popup.body)) {
-    blocks.push(asSentence(p));
+    const prose = insertSentenceBreaksInRunOn(p);
+    for (const sent of splitPopupSentences(prose)) {
+      blocks.push(asSentence(sent));
+    }
   }
 
   const summary = asSentence(popup.summary);
@@ -55,7 +60,8 @@ export function composePopupNarrative(popup: Popup): string[] {
   }
 
   for (const line of popup.overview ?? []) {
-    const s = asSentence(line);
+    if (isPopupOverviewPadding(line)) continue;
+    const s = asSentence(insertSentenceBreaksInRunOn(line));
     if (s) blocks.push(s);
   }
 

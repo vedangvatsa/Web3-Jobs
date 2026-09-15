@@ -6,40 +6,15 @@ import type { PopupPost } from '@/types/popup';
 export function PopupPosts({
   posts,
   popupName,
-  nsDashboardUrl,
-  showNsAttribution,
 }: {
   posts: PopupPost[];
   popupName: string;
-  nsDashboardUrl?: string | null;
-  showNsAttribution?: boolean;
 }) {
-  const attribution =
-    showNsAttribution && nsDashboardUrl ? (
-      <p className="mb-4 text-xs text-muted-foreground">
-        Also listed on the{' '}
-        <OutboundLink
-          href={nsDashboardUrl}
-          label={`${popupName} on ns.com dashboard`}
-          className="underline-offset-4 hover:text-foreground hover:underline"
-        >
-          ns.com dashboard
-        </OutboundLink>
-        .
-      </p>
-    ) : null;
-
-  if (!posts.length) {
-    if (!attribution) return null;
-    return <section className="mt-10">{attribution}</section>;
-  }
+  if (!posts.length) return null;
 
   return (
     <section className="mt-10">
-      <h2 className="mb-3 text-lg font-bold tracking-tight">Posts</h2>
-      {attribution ?? (
-        <p className="mb-4 text-xs text-muted-foreground">Selected posts for {popupName}.</p>
-      )}
+      <h2 className="mb-4 text-lg font-bold tracking-tight">Posts</h2>
       <ul className="grid grid-cols-1 gap-3 md:grid-cols-2 lg:grid-cols-3">
         {posts.map((post) => (
           <li key={post.url}>

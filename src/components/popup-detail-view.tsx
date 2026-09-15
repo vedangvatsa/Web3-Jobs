@@ -20,6 +20,7 @@ import { PopupRichText } from '@/components/popup-rich-text';
 import { composePopupNarrative, formatPopupField } from '@/lib/popup-narrative';
 import { popupCoverImagePaths } from '@/lib/popup-gallery';
 import { getNsDashboardUrl } from '@/lib/popup-ns';
+import { getPopupPath } from '@/lib/popup-seo';
 import {
   groupAmenityLines,
   groupPricingLines,
@@ -180,12 +181,12 @@ export function PopupDetailView({ popup }: { popup: Popup }) {
     '@type': 'BreadcrumbList',
     itemListElement: [
       { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://hashtagweb3.com' },
-      { '@type': 'ListItem', position: 2, name: 'Popups', item: 'https://hashtagweb3.com/popups' },
+      { '@type': 'ListItem', position: 2, name: 'Startup Societies', item: 'https://hashtagweb3.com/popups' },
       {
         '@type': 'ListItem',
         position: 3,
         name: popup.name,
-        item: `https://hashtagweb3.com/popups/${popup.slug}`,
+        item: `https://hashtagweb3.com${getPopupPath(popup.slug)}`,
       },
     ],
   };
@@ -210,7 +211,7 @@ export function PopupDetailView({ popup }: { popup: Popup }) {
           </Link>
           <span aria-hidden="true">/</span>
           <Link href="/popups" className="hover:text-foreground">
-            Popups
+            Startup Societies
           </Link>
           <span aria-hidden="true">/</span>
           <span className="text-foreground">{popup.name}</span>
@@ -309,12 +310,7 @@ export function PopupDetailView({ popup }: { popup: Popup }) {
         <GroupedSection title="Amenities" groups={amenityGroups} nsDashboardUrl={nsDashboardUrl} />
         <HistorySection lines={history} nsDashboardUrl={nsDashboardUrl} />
 
-        <PopupPosts
-          posts={posts}
-          popupName={popup.name}
-          nsDashboardUrl={nsDashboardUrl}
-          showNsAttribution={popup.sources.includes('ns')}
-        />
+        <PopupPosts posts={posts} popupName={popup.name} />
 
         <PopupSocialEmbeds embeds={popup.socialEmbeds ?? []} popupName={popup.name} />
 

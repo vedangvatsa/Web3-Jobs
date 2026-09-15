@@ -1,6 +1,11 @@
 import { writeFileSync } from 'fs';
 import { getAllPopups } from '@/lib/popups';
-import { rewritePopupLine, scrubPopupLines } from '@/lib/popup-copy-guard';
+import {
+  formatPopupPricingSummary,
+  rewritePopupLine,
+  scrubPopupLines,
+} from '@/lib/popup-copy-guard';
+import { explodePopupTextLines, mergeBrokenPopupLines } from '@/lib/popup-text';
 import type { Popup } from '@/types/popup';
 
 const TAGLINE_FIXES: Record<string, string> = {
@@ -15,10 +20,17 @@ function rewriteLines(lines: string[] | undefined): string[] {
   return (lines ?? []).map((line) => rewritePopupLine(line));
 }
 
+function scrubBody(lines: string[] | undefined): string[] {
+  return explodePopupTextLines(scrubPopupLines(rewriteLines(lines)));
+}
+
+function scrubField(lines: string[] | undefined): string[] {
+  return scrubPopupLines(rewriteLines(lines));
+}
+
 function scrubPopup(popup: Popup): Popup {
-  const pricingSummary = popup.pricingSummary
-    ? scrubPopupLines([rewritePopupLine(popup.pricingSummary)])[0] ?? null
-    : null;
+  const pricing = scrubField(popup.pricing);
+  const pricingSummary = formatPopupPricingSummary(pricing, popup.pricingSummary);
 
   const summaryRaw =
     SUMMARY_FIXES[popup.slug] ??
@@ -29,13 +41,13 @@ function scrubPopup(popup: Popup): Popup {
     ...popup,
     tagline: TAGLINE_FIXES[popup.slug] ?? popup.tagline,
     summary: summaryRaw,
-    body: scrubPopupLines(rewriteLines(popup.body)),
-    overview: scrubPopupLines(rewriteLines(popup.overview)),
-    locationDetails: scrubPopupLines(rewriteLines(popup.locationDetails)),
-    durationNotes: scrubPopupLines(rewriteLines(popup.durationNotes)),
-    history: scrubPopupLines(rewriteLines(popup.history)),
-    amenities: scrubPopupLines(rewriteLines(popup.amenities)),
-    pricing: scrubPopupLines(rewriteLines(popup.pricing)),
+    body: scrubBody(popup.body),
+    overview: scrubField(popup.overview),
+    locationDetails: scrubField(popup.locationDetails),
+    durationNotes: scrubField(popup.durationNotes),
+    history: scrubField(mergeBrokenPopupLines(rewriteLines(popup.history))),
+    amenities: scrubField(popup.amenities),
+    pricing,
     pricingSummary,
   };
 }

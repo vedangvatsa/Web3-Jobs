@@ -25,6 +25,20 @@ const SCRAPE_MARKERS = [
   /\bJoin the chat\b/i,
   /Collective've\b/i,
   /\bBusiness Residence Publications\b/i,
+  /\bGO check out\b/i,
+  /\bEvent Gallery\b/i,
+  /\bRecurring Event\b/i,
+  /\bRead .+Manifesto\b/i,
+  /\bBecome an Afropolitan\b/i,
+  /\bView All Episodes\b/i,
+  /\bSubscribe to The Frontier\b/i,
+  /\bTerms of Service Built by\b/i,
+  /\bManifesto Community Events Podcast\b/i,
+  /\bHand crafted by\b/i,
+  /\bJoin Us Founding\b/i,
+  /\bmedia coverage from\b/i,
+  /^Space [A-Z0-9]/i,
+  /^What is [A-Z0-9]+\s+A cultural hub/i,
 ];
 
 const SLOP_WORDS =
@@ -79,6 +93,8 @@ const META_DIRECTORY = [
   /\bappears on the Network School dashboard\b/i,
   /\bshows up on the Network School dashboard\b/i,
   /\blisted on the Network School dashboard\b/i,
+  /\bAlso listed on the\b/i,
+  /\bns\.com dashboard\b/i,
   /\bwider startup-society build stack\b/i,
   /\bstartup-society directories\b/i,
   /\bshared across both directories\b/i,
@@ -89,6 +105,15 @@ const META_DIRECTORY = [
 ];
 
 /** Bulk word-count / SEO padding in overview fields. */
+const TESTIMONIAL_SCRAPE = [
+  /^I['’]m pumped that\b/i,
+  /^Their team is always quick to respond\b/i,
+  /^A great starting point to get support\b/i,
+  /^Additionally, Itana have expatriates\b/i,
+];
+
+const METRIC_FRAGMENT = /^(companies incorporated|business setup time|community members)$/i;
+
 const OVERVIEW_PADDING = [
   /^Follow [a-z0-9.-]+\.[a-z]{2,}\b/i,
   /^Check docs\./i,
@@ -111,7 +136,23 @@ export function isPopupMetaDirectoryCopy(line: string): boolean {
 
 export function isPopupOverviewPadding(line: string): boolean {
   const t = norm(line);
+  if (METRIC_FRAGMENT.test(t)) return true;
   return OVERVIEW_PADDING.some((re) => re.test(t));
+}
+
+function isPopupTestimonialScrape(line: string): boolean {
+  const t = norm(line);
+  return TESTIMONIAL_SCRAPE.some((re) => re.test(t));
+}
+
+/** Single-line website feature dumps with no real sentence structure. */
+function isPopupFeatureListDump(line: string): boolean {
+  const t = norm(line);
+  if (t.length < 100) return false;
+  const periods = (t.match(/[.!?]/g) ?? []).length;
+  if (periods >= 2) return false;
+  const caps = t.match(/\b[A-Z][a-z]+(?:\s+[A-Z][a-z]+){0,3}/g) ?? [];
+  return caps.length >= 4;
 }
 
 /** Exact-line rewrites before scrub (preserves facts, drops meta framing). */
@@ -162,6 +203,8 @@ export const POPUP_LINE_REWRITES: Record<string, string> = {
     'Each city node keeps a small resident count while Alpha coordinates standards across the federation.',
   'The directories place it in the network-state adjacency set because of governance and decentralization goals.':
     'Governance and decentralization tooling are the through-line, not a single coliving campus.',
+  'Community Itana Digital Residency A private, curated community for founders, business owners, and professionals who want to build, grow, and invest in Africa.':
+    'Itana Digital Residency is a private, curated community for founders, business owners, and professionals who want to build, grow, and invest in Africa.',
 };
 
 export function rewritePopupLine(line: string): string {
@@ -176,7 +219,9 @@ export function shouldDropPopupLine(line: string): boolean {
     isPopupScrapeCopy(t) ||
     isPopupSlopCopy(t) ||
     isPopupMetaDirectoryCopy(t) ||
-    isPopupOverviewPadding(t)
+    isPopupOverviewPadding(t) ||
+    isPopupTestimonialScrape(t) ||
+    isPopupFeatureListDump(t)
   );
 }
 
@@ -193,4 +238,12 @@ export function scrubPopupLines(lines: string[] | undefined): string[] {
     out.push(t);
   }
   return out;
+}
+
+export function formatPopupPricingSummary(pricing: string[], fallback?: string | null): string | null {
+  const parts = scrubPopupLines(pricing);
+  if (parts.length) return parts.join(' · ');
+  const fb = fallback ? norm(fallback) : '';
+  if (!fb || shouldDropPopupLine(fb)) return null;
+  return fb.replace(/\s{2,}/g, ' ').replace(/([.!?])\s*/g, '$1 ').trim();
 }
