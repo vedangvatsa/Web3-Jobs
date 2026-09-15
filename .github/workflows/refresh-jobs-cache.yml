@@ -18,6 +18,16 @@ on:
         description: 'Only diagnose bot/channel access (no posts)'
         type: boolean
         default: false
+      news_max:
+        description: 'Max native articles this run (1-3)'
+        default: '3'
+      news_model:
+        description: 'Zen model override for article drafting'
+        default: ''
+      news_dry_run:
+        description: 'Draft+gate articles without committing'
+        type: boolean
+        default: false
 
 concurrency:
   group: social-syndication
@@ -42,6 +52,56 @@ jobs:
           TELEGRAM_AI_CHANNEL_ID: ${{ secrets.TELEGRAM_AI_CHANNEL_ID }}
           TELEGRAM_HW3_GROUP_ID: ${{ secrets.TELEGRAM_HW3_GROUP_ID }}
         run: node scripts/telegram-diagnose.mjs
+
+  publish-news:
+    if: ${{ github.event.inputs.diagnose_telegram != 'true' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    permissions:
+      contents: write
+    concurrency:
+      group: publish-news
+      cancel-in-progress: false
+    env:
+      OPENCODE_API_KEY: ${{ secrets.OPENCODE_API_KEY }}
+      NEWS_MODEL: ${{ inputs.news_model || 'opencode/muse-spark-1.3-contributor-free' }}
+      NEWS_MAX: ${{ inputs.news_max || '3' }}
+      NEWS_DRY_RUN: ${{ inputs.news_dry_run || 'false' }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci --no-audit --no-fund
+
+      - name: Install opencode
+        run: curl -fsSL https://opencode.ai/install | bash
+
+      - name: Disable push in dry-run mode
+        if: ${{ inputs.news_dry_run == true }}
+        run: git remote set-url origin ./__dryrun_disabled__
+
+      - name: Record HEAD for dry-run check
+        if: ${{ inputs.news_dry_run == true }}
+        run: echo "BASE_SHA=$(git rev-parse HEAD)" >> $GITHUB_ENV
+
+      - name: Publish news run
+        run: |
+          PROMPT="$(cat scripts/news-agent-brief.md)"
+          PROMPT="${PROMPT//\$TODAY/$(date -u +%F)}"
+          PROMPT="${PROMPT//\$MAX_ARTICLES/$NEWS_MAX}"
+          PROMPT="${PROMPT//\$DRY_RUN/$NEWS_DRY_RUN}"
+          "$HOME/.opencode/bin/opencode" run --model "$NEWS_MODEL" "$PROMPT"
+
+      - name: Verify dry-run made no commits
+        if: ${{ inputs.news_dry_run == true }}
+        run: |
+          test "$(git rev-parse HEAD)" = "$BASE_SHA" || { echo "DRY-RUN VIOLATION: commits were created"; git log --oneline -3; exit 1; }
+          echo "Dry-run clean: no commits, no pushes."
 
   refresh-and-post:
     if: ${{ github.event.inputs.diagnose_telegram != 'true' }}
