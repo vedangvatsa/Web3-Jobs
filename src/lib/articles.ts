@@ -5,6 +5,7 @@ import type { Article } from '@/types';
 import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
+import { replaceArticleTweetEmbeds } from '@/lib/article-tweet-embed';
 import { remark } from 'remark';
 import remarkGfm from 'remark-gfm';
 import html from 'remark-html';
@@ -373,7 +374,7 @@ export async function getArticle(slug: string): Promise<Article | undefined> {
   // Sanitize HTML on the server, preserving inline SVGs for diagrams
   const content = sanitizeHtml(contentHtml, {
    allowedTags: sanitizeHtml.defaults.allowedTags.concat([
-    'img', 'div', 'span', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6',
+    'img', 'div', 'span', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'figure', 'figcaption',
     'svg', 'g', 'path', 'rect', 'circle', 'line', 'polygon', 'polyline', 'text', 'tspan', 'defs', 'use', 'marker'
    ]),
    allowedAttributes: {
@@ -386,10 +387,16 @@ export async function getArticle(slug: string): Promise<Article | undefined> {
       'stroke-linejoin', 'transform', 'text-anchor', 'font-family', 'font-size',
       'font-weight', 'marker-end', 'marker-start', 'd', 'points'
     ],
-    'a': ['href', 'name', 'target', 'rel'],
+    'a': ['href', 'name', 'target', 'rel', 'class'],
     'img': ['src', 'alt', 'title', 'width', 'height', 'data-ai-hint'],
+    'blockquote': ['class', 'data-dnt', 'cite', 'data-tweet-id'],
+    'figure': ['class'],
+    'time': ['class', 'datetime'],
+    'div': ['class', 'data-tweet-id'],
    },
   });
+
+  const { html: contentWithTweets, tweets: tweetEmbeds } = await replaceArticleTweetEmbeds(content);
 
    if (typeof data.title !== 'string' || !data.title) {
    console.error(`Article with slug"${slug}" is missing a title.`);
@@ -404,7 +411,8 @@ export async function getArticle(slug: string): Promise<Article | undefined> {
 
   return {
    slug,
-   content,
+   content: contentWithTweets,
+   tweetEmbeds: tweetEmbeds.length ? tweetEmbeds : undefined,
    rawContent: sanitizedContent,
    title: data.title,
    description,

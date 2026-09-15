@@ -170,7 +170,9 @@ export function formatPopupPostText(text: string): string {
 }
 
 export function filterPopupBody(body: string[]): string[] {
-  return body.map(formatPopupParagraph).filter((p) => p.length > 0 && !isPopupScrapeNoise(p));
+  return body
+    .map(formatPopupParagraph)
+    .filter((p) => p.length > 0 && !isPopupScrapeNoise(p) && !shouldDropPopupLine(p));
 }
 
 /**

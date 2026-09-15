@@ -22,13 +22,13 @@ import {
   Milestone,
   Smile,
   Scale,
-  Twitter,
   Linkedin,
   Send,
   Instagram,
   Youtube,
   Mail,
 } from 'lucide-react';
+import { XBrandIcon } from '@/components/x-brand-icon';
 
 export interface NavLinkItem {
   href: string;
@@ -183,7 +183,7 @@ export const SOCIAL_LINKS: NavLinkItem[] = [
   {
     href: 'https://x.com/hashtag_web3',
     label: 'X',
-    icon: Twitter,
+    icon: XBrandIcon,
     ariaLabel: 'Follow Hashtag Web3 on X',
   },
   {

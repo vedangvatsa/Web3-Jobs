@@ -38,7 +38,8 @@ export function PopupSocialEmbeds({
                 src={embed.embedUrl}
                 className="h-[min(520px,70vh)] w-full border-0 bg-background"
                 loading="lazy"
-                sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"
+                referrerPolicy="strict-origin-when-cross-origin"
+                allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture"
               />
               <div className="border-t border-border/70 px-4 py-2.5">
                 <OutboundLink

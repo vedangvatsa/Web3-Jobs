@@ -149,6 +149,7 @@ const nextConfig = {
       base-uri 'self';
       form-action 'self' https://hashtagweb3.com https://t.me;
       frame-ancestors 'self' https://chatgpt.com https://claude.ai;
+      frame-src 'self' https://www.linkedin.com https://linkedin.com https://www.instagram.com https://platform.twitter.com;
       connect-src 'self' https://hashtagweb3.com https://vitals.vercel-insights.com https://www.googletagmanager.com https://*.google-analytics.com https://*.analytics.google.com https://us.i.posthog.com https://api.ashbyhq.com https://boards-api.greenhouse.io https://api.lever.co https://*.clarity.ms https://c.clarity.ms;
     `.replace(/\s{2,}/g, ' ').trim();
 

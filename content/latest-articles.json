@@ -24,19 +24,19 @@
     "image": "/images/news/ether-staking.jpg"
   },
   {
+    "slug": "euro-pilot",
+    "title": "ECB Asks Online Merchants to Join Digital Euro Pilot Starting 2027",
+    "description": "The European Central Bank opened a call on Sept. 15 for e-commerce and mobile merchants to test a beta digital euro in a 12-month pilot starting in the second half of 2027, ahead of a possible 2029 launch.",
+    "category": "News",
+    "publishedDate": "2026-09-15",
+    "image": "/images/news/euro-pilot.jpg"
+  },
+  {
     "slug": "fca-gateway",
     "title": "FCA Crypto Authorisation Window Opens Sept 30",
     "description": "Britain's FCA will accept crypto authorisation applications from Sept. 30, 2026 to Feb. 28, 2027 ahead of full rules taking effect in October 2027.",
     "category": "News",
     "publishedDate": "2026-09-15",
     "image": "/images/news/fca-gateway.jpg"
-  },
-  {
-    "slug": "iran-forfeiture",
-    "title": "US Seeks Forfeiture of $61 Million in Crypto Tied to Iranian Oil Sales",
-    "description": "Federal prosecutors in Manhattan filed a civil forfeiture claim on Sept. 14 seeking about $61 million in USDT allegedly tied to black-market Iranian oil sales laundered through Binance accounts.",
-    "category": "News",
-    "publishedDate": "2026-09-15",
-    "image": "/images/news/iran-forfeiture.jpg"
   }
 ]

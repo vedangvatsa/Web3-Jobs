@@ -312,7 +312,8 @@ export const popupData: Popup[] = [
       "ns"
     ],
     "socials": {
-      "x": "https://x.com/AmagiLife"
+      "x": "https://x.com/AmagiLife",
+      "instagram": "https://www.instagram.com/amagi.life"
     },
     "summary": "Long-term regenerative villages with shared land and a contribution-driven economy.",
     "body": [
@@ -343,9 +344,7 @@ export const popupData: Popup[] = [
     ],
     "pricing": [],
     "amenities": [],
-    "history": [
-      "2026 - Why We Don't Use Master Plans Amagi's Blog December 31,"
-    ],
+    "history": [],
     "durationNotes": [],
     "locationDetails": [
       "Discover the rare balance of Amagi's Hidden Valley: A serene community for deep connection, located just 5 minutes away from the island's international schools."
@@ -1154,7 +1153,7 @@ export const popupData: Popup[] = [
       "Talks, panels, and hackathons"
     ],
     "history": [
-      "2025 - Edge City Bhutan,"
+      "2025 — Edge City Bhutan (monthlong popup village)."
     ],
     "durationNotes": [
       "The typical Edge City pop-up village runs for 1 to 2 months, grouping approximately 1,000 people with 200-300 full-time residents",
@@ -1232,11 +1231,7 @@ export const popupData: Popup[] = [
       "The initiative focuses on DeFi, governance, and crypto's role in African economies.",
       "Organizers positioned the pop-up as a bridge between global Ethereum research circles and Addis Ababa builders.",
       "ETHiopia is a pop-up village initiative focused on advancing Ethereum and decentralized technologies in Africa through immersive co-living experiences.",
-      "As of February 2026, ETHiopia appears inactive on social media.",
-      "\" Dagim Jida, Ambassador at Base It was an eye-opening experience.",
-      "The things I learned, the connections I made and the inspiration I gained were priceless.",
-      "To foster Ethereum innovation in Africa through pop-up villages that connect global builders with local communities for collaboration on decentralized tech.",
-      "Ethereum developers, researchers, entrepreneurs, and enthusiasts interested in blockchain's impact on African economies and governance."
+      "Programming targets Ethereum developers, researchers, entrepreneurs, and enthusiasts exploring blockchain's impact on African economies and governance."
     ],
     "coverImages": [
       "/popups/xyz/ethiopia/community.webp"
@@ -1246,15 +1241,11 @@ export const popupData: Popup[] = [
     ],
     "pricingSummary": "ETHiopia Pop-up was free, but subject to application",
     "amenities": [
-      "Co-working spaces",
-      "High-speed internet",
-      "Wellness activities",
-      "Workshops, lectures, and events",
-      "Accommodation and food were not covered",
       "Co-working spaces during the Addis Ababa pop-up",
       "High-speed internet for hackathon teams",
       "Workshops, lectures, and community events on site",
-      "Wellness activities alongside technical programming"
+      "Wellness activities alongside technical programming",
+      "Accommodation and meals were not included in the free application-based ticket"
     ],
     "history": [
       "ETHiopia was launched in 2024, aiming to connect Ethereum innovation to African communities",
@@ -1305,11 +1296,8 @@ export const popupData: Popup[] = [
       "Forma began by running popup villages and Solana economic zone experiments in frontier markets.",
       "The team is now concentrating on a permanent campus direction, with the UK called out as a current build target.",
       "It sits in the overlap between temporary Zu-style gatherings and longer-horizon jurisdiction work.",
-      "Forma B u i l d s o m e t h i n g o n t h e i n t e r n e t, i t w i l l c h a n g e y o u r l i f e.",
-      "Forma is a home for the founders and artists building on it.",
-      "2 0 2 3 B u i l d s o m e t h i n g o n t h e i n t e r n e t, i t w i l l c h a n g e y o u r l i f e.",
-      "2 0 2 3 A n A I f r i e n d w h o h e l p s y o u t u r n y o u r i d e a o r p a s s i o n i n t o a b u s i n e s s.",
-      "Text Locky A n A I f r i e n d w h o h e l p s y o u t u r n y o u r i d e a o r p a s s i o n i n t o a b u s i n e s s."
+      "Forma is a home for Solana founders and artists turning on-chain communities into real-world economic zones.",
+      "Past pop-ups in Argentina, Sri Lanka, and Georgia tested one- to two-week village formats before the permanent campus push."
     ],
     "coverImages": [
       "/popups/xyz/forma/formagallery1.webp",
@@ -1331,8 +1319,7 @@ export const popupData: Popup[] = [
     ],
     "durationNotes": [
       "Forma’s pop-up villages last one to two weeks",
-      "Join Residency Text Locky The internet is the fastest growing economy.",
-      "2 0 2 3 Join Residency Text Locky B u i l d s o m e t h i n g o n t h e i n t e r n e t, i t w i l l c h a n g e y o u r l i f e ."
+      "Forma Argentina in March 2024 ran for two weeks with about 249 residents."
     ],
     "locationDetails": [
       "Forma doesn’t own a permanent hub",
@@ -1440,8 +1427,7 @@ export const popupData: Popup[] = [
     "overview": [
       "A self-governed vertical village in a 16-floor building in San Francisco, serving as a lab for frontier technologies",
       "Open-minded, curious people interested in frontier technologies like AI, biotech, crypto, or arts & music",
-      "How is the tower organized?",
-      "Most floors are divided by field of work. Others are common convenience spaces",
+      "Most floors are divided by field of work, with shared convenience and coworking floors",
       "Floor 16. d/acc lounge for cross pollination",
       "Floor 15. Coworking and library",
       "Floor 12. Ethereum and decentralized tech",
@@ -1758,14 +1744,8 @@ export const popupData: Popup[] = [
       "Infinita concentrates founders working on longevity and biotech inside Próspera’s Roatán jurisdiction.",
       "Shared research, coliving, and scientific collaboration are the daily surface area.",
       "It is a nested society: legal wrapper from Próspera, thematic focus from Infinita.",
-      "Prospera is the best place to do business on the planet.",
-      "Gene therapies over breakfast, startups in swimsuits, billionaires dropping by.",
-      "It is a network state on the marking, a model for the cities of tomorrow.",
-      "You'll find yourself among a diverse set of builders, philosophers, BTC maxis and longevity enthusiasts.",
-      "5:29 AM · Feb 10, 2025 · 401 Views Erick A.",
-      "I'll review my experience & impressions and preview this article that will also compare \"startup societies\" to Infinita's legacy governments.",
-      "This is my second time visiting to receive a safe therapy, in a clinical trial, on the frontiers of regenerative medicine.",
-      "P r óspe r a, w h ere t h e f r o n tie r m eets r eality Próspera creates the conditions for experimentation, entrepreneurship, and ambitious collaboration to thrive."
+      "Residents mix clinical trials, biotech startups, and longevity research with coliving on Roatán.",
+      "The community skews toward builders, researchers, and philosophers experimenting with regenerative medicine and frontier health policy."
     ],
     "coverImages": [
       "/popups/xyz/infinita/infinitagallery1.webp",
@@ -2170,21 +2150,11 @@ export const popupData: Popup[] = [
     "socials": {},
     "summary": "A 150-acre rainforest nomad village in Karnataka with coliving, coworking, and popup hosting.",
     "body": [
-      "Jungli the Nomad sits on family-held rainforest land in Dandeli, Karnataka, beside the Kali River.",
-      "It runs ongoing coliving and coworking while also hosting popup villages of its own.",
-      "The pitch is deep work in nature for nomads, artists, and operators, not a coastal hacker season.",
-      "Jungli the Nomad organizes nomadic coliving and popup experiences for remote builders.",
-      "Programming emphasizes travel-friendly formats that move between cities rather than one fixed campus.",
-      "Community coordination runs through Jungli's public channels and event listings.",
-      "Jungli the Nomad is an application-based learning residency on private rainforest land, not a public resort hotel.",
-      "Residents get coliving, coworking, and hosted popup villages on roughly 150 acres in Dandeli.",
-      "Programming emphasizes slow-paced creative work beside the Kali River in Karnataka.",
-      "Big, Soch, Serenne - each with its own character, all wired for deep work and easy belonging.",
-      "Authentic, home-cooked, generational recipes - made with a lot of love.",
-      "And a meal here isn't a meal; it's a gathering.",
-      "Jungli the Nomad pick you up from the airport, train station or bus stop, and bring you home.",
-      "Jungli the Nomad lovingly handle the food, transport & community events so you earn that time back, to make your masterpiece or simply to breathe.",
-      "Life here can start from as little as $17 a day."
+      "Jungli the Nomad sits on roughly 150 acres of family-held rainforest in Dandeli, Karnataka, beside the Kali River.",
+      "It runs application-based coliving and coworking for nomads, artists, and operators, and hosts visiting popup villages on the same campus.",
+      "The pitch is slow creative work in nature rather than a coastal hacker season or resort hotel.",
+      "Stays include shared meals, airport or station pickup, and community programming so residents can focus on projects.",
+      "Pricing on junglithenomad.com has started around $17 per day for longer bookings; confirm current tiers before applying."
     ],
     "coverImages": [
       "/popups/jungli/cs-06-community-night.webp",
@@ -2202,12 +2172,10 @@ export const popupData: Popup[] = [
     "history": [],
     "durationNotes": [
       "Stays are booked through Jungli's application process for multi-week residencies.",
-      "Popup villages on site run on their own calendars in addition to ongoing coliving.",
-      "It's an exclusive learning residency you apply to join ."
+      "Popup villages on site run on their own calendars in addition to ongoing coliving."
     ],
     "locationDetails": [
-      "Colivings, villas, the river, the temple, the factory, the sports club - one humming campus.",
-      "A secret location in the jungles of Karnataka, inland of Goa."
+      "The campus is in Dandeli, Karnataka, inland from Goa, with coliving villas, the Kali River, and shared coworking on one property."
     ],
     "overview": [],
     "xyzUrl": "https://xyz.city/network-states/jungli",
@@ -2696,20 +2664,10 @@ export const popupData: Popup[] = [
       "Nomad focuses on the housing product: coliving villages designed for people who already live between cities.",
       "Listed geographies include the USA and Honduras, putting it near other Central American experiments.",
       "Think infrastructure layer for nomads, not a one-off festival brand.",
-      "NOMAD A B O U T N O D E S L O G I N A B O U T N O D E S L O G I N LIVE ANYWHERE.",
-      "Decentralized Living A c c o m m o d a t i o n f o r t h e m o d e r n n o m a d.",
-      "A p l a c e t o s t a y f o r t h o s e w h o l o v e t o m o v e.",
-      "A g l o b a l c o l i v i n g e c o s y s t e m.",
-      "A place to stay for those who love to move.",
-      "A global co-living ecosystem of modern, high-quality housing 400+ Members Become part of the nomad nation 12 NODES Buy floor plans to build your own NODE, or find a NODE to rent or buy in Nomad's global network.",
-      "Apply To Join Why Nomad Nation Why Nomad Nation More than just a place to stay-build community, memories, and legacy with an aligned group of movers and shakers.",
-      "Join for free by downloading Nomad's app or making an account on desktop today.",
-      "Build or buy your own NODE and add it to the NOMAD network.",
-      "Raleigh, USA 30 Rock Quarry Village Stage Renting Units Nomad are building a 30 unit community with a massive, black diamond shaped community building for co-living and co-working.",
-      "Multiple units have already been completed and are currently renting to tenants.",
-      "With stunning sunset views, rainforest canopies, and refreshing breezes, this beautiful Roatán project is underway.",
-      "Raleigh, USA 2 Echo Creek Village Stage Renting Units Nomad's very first NODE and prototype community site is now welcoming guests.",
-      "Durham, USA 10 Durham Village Stage Under Contract Nomad's second US NODE community is coming soon to 5+ wooded acres."
+      "Nomad sells modular NODE floor plans and runs a federation of co-living villages members can rent, buy, or build into.",
+      "Echo Creek Village near Durham, North Carolina was Nomad's first prototype site; Rock Quarry Village near Raleigh adds about 30 rentable units with a shared co-working building.",
+      "A Roatán, Honduras NODE is underway with rainforest views, and Nomad has partnered with Próspera on housing inside the zone.",
+      "Members coordinate through Nomad's app and can list their own NODE in the network."
     ],
     "coverImages": [
       "/popups/nomad/nomadgallery1.webp",
@@ -2773,17 +2731,10 @@ export const popupData: Popup[] = [
     "body": [
       "Praxis combines a large digital citizen base with occasional physical popups such as CAMPUS in Punta Cana.",
       "The long-term goal is crowdfunding and standing up a physical city, not only hosting temporary villages.",
-      "Join Praxis Join Praxis Membership Content Market Magazine Home Contact Privacy The world's first digital nation.",
-      "Praxis purpose is to revitalize Western Civilization by creating a new culture focused on the pursuit of heroism, truth, and beauty.",
-      "Applications 0 Population 0 GNP (Est.) $ 0 Billion How to become a Praxian Praxis Visa Flip Reset Enlarge Apply for membership to meet Praxians online, attend events, and contribute to projects.",
-      "Members may be considered for leadership on the basis of demonstrated alignment and commitment.",
-      "Outstanding Members will be invited to move to the city.",
-      "Praxis draw wisdom from the traditions of Praxis's ancestors and harness the power of technology to build the world to come.",
-      "Praxis' purpose is to restore Western Civilization and pursue Praxis's ultimate destiny of life among the stars.",
-      "Praxis is a digital nation crowdfunding a physical city to restore Western Civilization through crypto, AI, biotech, and energy innovation.",
-      "Past residential experiments occurred in Austin, San Francisco, Los Angeles, and Miami.",
-      "” Austin King, CEO at Nomina Some examples of the people I met: The founder of a multi-billion dollar venture fund; A person who consults nation states on their nuclear strategy as part a nuclear advisory group they are on at MIT.",
-      "It gives access to Praxis Discord, where you can engage with other citizens, learn about upcoming events, and explore ways to contribute to the Nation."
+      "Praxis describes itself as a digital nation working to revitalize Western civilization through culture focused on heroism, truth, and beauty.",
+      "Online membership is the usual entry point: citizens join Discord, attend events, contribute to projects, and may be considered for leadership or future residency as the city plan advances.",
+      "The project emphasizes crypto, AI, biotech, and energy as practical tools toward that civilizational vision.",
+      "Past residential experiments have taken place in Austin, San Francisco, Los Angeles, and Miami, alongside year-round programming at a New York headquarters."
     ],
     "coverImages": [
       "/popups/xyz/praxis/flags.webp",
@@ -2796,16 +2747,13 @@ export const popupData: Popup[] = [
     "amenities": [],
     "history": [],
     "durationNotes": [
-      "Praxis hosts events year-round at its New York headquarters. CAMPUS pop-up village ran for 4 days"
+      "CAMPUS ran as a four-day pop-up village; headquarters programming continues year-round in New York."
     ],
     "locationDetails": [
-      "CAMPUS, Praxis’s 4-day pop-up city, took place in Punta Cana, Dominican Republic",
-      "CAMPUS, Praxis’s 4-day pop-up city, took place in Punta Cana, Dominican Republic ."
+      "New York. Headquarters for year-round programming and events.",
+      "Punta Cana, Dominican Republic. Hosted the four-day CAMPUS pop-up village."
     ],
-    "overview": [
-      "Praxis is a digital nation crowdfunding a physical city to restore Western Civilization through crypto, AI, biotech, and energy innovation",
-      "Praxis combines a long-horizon city vision with nomad community programming and events."
-    ],
+    "overview": [],
     "xyzUrl": "https://xyz.city/network-states/praxis",
     "posts": []
   },
@@ -2836,10 +2784,7 @@ export const popupData: Popup[] = [
     "body": [
       "Próspera operates as a ZEDE-style startup city on the island of Roatán, Honduras, with its own civil code, tax structure, and governance stack.",
       "It is one of the most concrete permanent jurisdictions in the popup and network-state scene, and hosts nested projects such as Infinita.",
-      "Builders use it as a base for company formation, residency experiments, and long-stay coliving around emerging tech.",
-      "Doing business Get in touch What are people saying about Próspera?",
-      "Prospera is the best place to do business on the planet.",
-      "Less than 1% of the Cost Save more with operating costs under 1% of other jurisdictions."
+      "Builders use it as a base for company formation, residency experiments, and long-stay coliving around emerging tech."
     ],
     "coverImages": [
       "/popups/xyz/prospera/building.webp",
@@ -2853,16 +2798,15 @@ export const popupData: Popup[] = [
       "Starts at $149/night",
       "Alternatively, Airbnbs are available nearby",
       "One can also buy real estate - starting at $120,000 for a studio in Duna Tower - and move to Próspera with the help of relocation partners",
-      "Events like the recurring Próspera Weekend range from at $250 to $450 with housing, food,",
-      "transportation, events and activities included"
+      "Próspera Weekend events typically run about $250–$450 with housing, food, transportation, and activities included"
     ],
-    "pricingSummary": "There are three main housing options for rent: · Starts at $24/night · Starts at $100/night · Starts at $149/night · Alternatively, Airbnbs are available nearby · One can also buy real estate - starting at $120,000 for a studio in Duna Tower - and move to Próspera with the help of relocation partners · Events like the recurring Próspera Weekend range from at $250 to $450 with housing, food, · transportation, events and activities included",
+    "pricingSummary": "There are three main housing options for rent: · Starts at $24/night · Starts at $100/night · Starts at $149/night · Alternatively, Airbnbs are available nearby · One can also buy real estate - starting at $120,000 for a studio in Duna Tower - and move to Próspera with the help of relocation partners · Próspera Weekend events typically run about $250–$450 with housing, food, transportation, and activities included",
     "amenities": [
       "Co-working space",
       "Sauna and cold plunge"
     ],
     "history": [
-      "* See detailed timeline at Próspera"
+      "See prospera.co for a detailed legal and political timeline."
     ],
     "durationNotes": [
       "Próspera offers permanent residency options with no fixed duration. Individuals can live and work indefinitely under its governance framework",
@@ -2872,7 +2816,7 @@ export const popupData: Popup[] = [
       "e-Residency for 30 days/year of physical access",
       "$130/year. Full business rights",
       "Residency for full year physical access",
-      "$390$/year including mandatory insurance. Full business rights"
+      "$390/year including mandatory insurance. Full business rights"
     ],
     "locationDetails": [
       "It incorporates two districts, featuring a gym, infinity pool, sauna and cold plunge, Bitcoin ATM and co-working spaces"
@@ -3150,11 +3094,10 @@ export const popupData: Popup[] = [
       "Closed the day the event started",
       "Ticket prices increased once the event began",
       "ShanHaiWoo Singapore",
-      "Each scholarship was valued at around $2,500. A total of 121 scholarships were received,",
-      "and only 28 (21.2%) were accepted",
+      "Singapore scholarships were valued at about $2,500 each; 28 of 121 applicants were accepted (21.2%)",
       "*Values rounded from RMB to USD at the rate of 1 RMB = 0.14 USD"
     ],
-    "pricingSummary": "ShanHaiWoo Beidahu * · Resident: $70/month or $17.5/week · Guest: $112/month or $28/week · Total ticket sales totaled roughly $1,932 · ShanHaiWoo Chiang Mai · Wave 01: $199/6-weeks or $50/week · Closed 15 days before event start · Wave 02: $269/6-weeks or $80/week · Closed the day the event started · Ticket prices increased once the event began · ShanHaiWoo Singapore · Each scholarship was valued at around $2,500. A total of 121 scholarships were received, · and only 28 (21.2%) were accepted · *Values rounded from RMB to USD at the rate of 1 RMB = 0.14 USD",
+    "pricingSummary": "ShanHaiWoo Beidahu * · Resident: $70/month or $17.5/week · Guest: $112/month or $28/week · Total ticket sales totaled roughly $1,932 · ShanHaiWoo Chiang Mai · Wave 01: $199/6-weeks or $50/week · Closed 15 days before event start · Wave 02: $269/6-weeks or $80/week · Closed the day the event started · Ticket prices increased once the event began · ShanHaiWoo Singapore · Singapore scholarships were valued at about $2,500 each; 28 of 121 applicants were accepted (21.2%) · *Values rounded from RMB to USD at the rate of 1 RMB = 0.14 USD",
     "amenities": [
       "Co-working space",
       "Workshops, lectures, and events",
@@ -3306,18 +3249,10 @@ export const popupData: Popup[] = [
     "body": [
       "The Mu helps stand up popup villages across multiple cities while staying engaged with local communities.",
       "Shanghai is a notable base, but the operating model is multi-site facilitation.",
-      "Think producer/organizer layer for temporary builder cities.",
-      "The Mu are a community where talents from diverse backgrounds gathered to freely exchange knowledge about technologies, ideas and build practical solutions for real-world problems.",
-      "The Mu're all ears 😉 Let's spark a conversation that makes a difference.",
-      "The Mu - Global popup village facilitator The Mu Facilitating popup villages in diverse locations worldwide.",
-      "They originally ran popups in emerging economies with a focus on bringing blockchain opportunities to those locations.",
-      "Their most recent iteration is focusing on robotics and AI and creating a bridge for people who want to experience China.",
-      "The Mu community prioritizes open source development, a doer mentality, long-term thinking, and positive-sum outcomes.",
-      "Events connect global participants with local tech ecosystems through unconference-style workshops, factory tours, hackathons, and cultural immersion.",
-      "2025 Expo 2025 Curated a 7 day Ethereum showcase and popup event at the World Expo.",
-      "2026 muShanghai Launched a 28 day popup at Alibaba HQ focused on AI, biotech, and robotics with factory access.",
-      "How does The Mu popups differ from other Zuzalu popups?",
-      "The-mu is a community of digital nomads organizing pop-up cities focused on blockchain, cryptography, and web3 technologies."
+      "Early editions focused on blockchain in emerging economies; recent programs emphasize robotics, AI, and bridges into China's tech ecosystem.",
+      "The community prioritizes open source development, a doer mentality, long-term thinking, and positive-sum outcomes.",
+      "Events connect global participants with local ecosystems through unconference-style workshops, factory tours, hackathons, and cultural immersion.",
+      "Notable editions include muChiangMai (2023), muBuenos Aires and muAccra (2024), a 2025 Ethereum showcase at World Expo, and muShanghai (2026) at Alibaba HQ."
     ],
     "coverImages": [
       "/popups/xyz/the-mu/themugallery1.webp",
@@ -3326,11 +3261,10 @@ export const popupData: Popup[] = [
     ],
     "pricing": [
       "Most pop-up villages that the-mu hosts are free to attend",
-      "Accommodation is usually included, mainly for developers. It can also be partially covered by housing grants",
-      "the-mu’s pop-up villages often include hackathons featuring prize pools in the tens of",
-      "thousands of dollars"
+      "Accommodation is usually included for developers and may be partially covered by housing grants",
+      "Hackathons sometimes feature prize pools in the tens of thousands of dollars"
     ],
-    "pricingSummary": "Most pop-up villages that the-mu hosts are free to attend · Accommodation is usually included, mainly for developers. It can also be partially covered by housing grants · the-mu’s pop-up villages often include hackathons featuring prize pools in the tens of · thousands of dollars",
+    "pricingSummary": "Most pop-up villages that the-mu hosts are free to attend · Accommodation is usually included for developers and may be partially covered by housing grants · Hackathons sometimes feature prize pools in the tens of thousands of dollars",
     "amenities": [],
     "history": [
       "the-mu has been organizing pop-up cities across various continents since 2023 In 2023, it hosted muChiangMai, the first web3 pop-up city in Southeast Asia"
@@ -3398,19 +3332,9 @@ export const popupData: Popup[] = [
     "summary": "Popup villages and bootcamps for AI and Web3 builders with coliving and build sprints.",
     "body": [
       "The Oz City organizes popup villages and bootcamps where AI and Web3 builders colive and sprint together.",
-      "San Martín de los Andes is the named Argentine base.",
-      "Oz City is a pop-up village organizer that focuses on creating the right environment for AI and Web3 builders to accelerate their progress.",
-      "Pop-up locations included Valbonne, France and San Martín de los Andes, Argentina.",
-      "Oz City Patagonia $945 - Full access to Edge City Patagonia.",
-      "*$699 for shared room with 1 roommate or $499 with 5 roommates.",
-      "” Ileana Perez, Full-Stack Dev Thank you The Oz City for believing in me.",
-      "I learned, failed, regrouped, laughed, almost cried, but most of all, I grew.",
-      "” Maurits Bos, Co-Founder at 42 Agents Oz City was a blast!",
-      "Attend an upcoming pop-up village, usually announced on X and Substack.",
-      "To create a hub for AI/Web3 builders to ship decentralized AI agents, protocols, and infrastructure through focused co-living sprints.",
-      "AI engineers, crypto founders, hackers, and high-agency builders ready to prototype fast.",
-      "How much does it cost to attend an Oz City pop-up village?",
-      "Shared accommodation may be purchased, or participants can arrange their own privately."
+      "San Martín de los Andes is the named Argentine base; past editions have also run in Valbonne, France.",
+      "Programs target AI engineers, crypto founders, and high-agency builders shipping agents, protocols, and infrastructure in focused sprints.",
+      "New villages are announced on X and Substack; shared accommodation may be purchased or arranged privately."
     ],
     "coverImages": [
       "/popups/xyz/the-oz-city/fitness.webp",
@@ -3479,9 +3403,9 @@ export const popupData: Popup[] = [
       "The project restores land while hosting creators, remote workers, and land stewards.",
       "Infrastructure includes glamping, solar power, Starlink connectivity, and on-site tokenized booking through $TDF.",
       "Residents join land-care rotations, glamping upgrades, and token-based bookings while the village funds water and pool infrastructure.",
-      "TDF markets itself to remote workers who want regenerative community rather than a urban hacker hostel.",
-      "See what's on Become part of it Members and citizens shape how this place is governed and cared for.",
-      "Web3 tools power governance through a DAO structure and $TDF tokens.",
+      "TDF markets itself to remote workers who want regenerative community rather than an urban hacker hostel.",
+      "Members and citizens shape governance and land care through the on-site DAO and $TDF tokens.",
+      "Web3 tools power bookings, treasury, and community votes alongside the physical village.",
       "2022 Operational coliving Built food forest, sauna, coworking barn, and DAO prototype.",
       "2023 Token launch Installed Starlink, expanded glamping and volunteer beds, and launched the booking platform and $TDF tokens.",
       "2024 Water infrastructure Raised €400K private debt and broke ground on a natural swimming pool and rainwater systems.",
@@ -3557,27 +3481,13 @@ export const popupData: Popup[] = [
       "Vibecamp is a festival-shaped gathering for online communities that want a high-trust IRL week.",
       "It is less jurisdiction and more culture: temporary intensity, then back to the timeline.",
       "Include it when you are mapping popup-adjacent gatherings, not only SEZs.",
-      "Vibecamp is a four-day gathering for curious, creative, openness-loving people, part festival, part unconference, part summer camp for nerdy adults (though some of them bring their children!).",
-      "Founded in 2021, the 500-person event takes over a sprawling venue in Maryland every June.",
-      "Wanna see what people did (and didn't) like about Vibecamp's events?",
-      "675 survey responses, publicly browsable by gender, age, sexuality, and whether they'd attended before.",
-      "(Yes, Vibecamp know the gender ratio could use some work, but hey, for an event attended by so many people in tech, it could be worse.) See the full data Who comes to Vibecamp?",
-      "The common thread among Vibecampers is being high in openness-to-experience and kind to strangers.",
-      "Attendees primarily come from a loose network of internet-adjacent communities: rationalists and post-rationalists, EAs, burners, tech folks of various stripes, along with writers, artists, therapists, lurkers, and various offline friends.",
-      "You’ll be competing with the guy who comes dressed as a penguin handing out cans of sardines, and no fewer than four people who play theremins.",
-      "The Discord is the easiest way in, lurk, ask questions, or just show up ready to make friends.",
-      "Host something yourself, or come just to wander and see what unfolds.",
-      "\" at vibecamp, you might encounter someone explaining the fourier transform on a flip chart, consensual waterboarding, a pool party and see a guy interviewing people with his portable podcast setup, all in the span of like 60 seconds.",
-      "Attendee-decorated cabin When was the last time you touched grass, anon?",
-      "› Nights at Ramblewood, fairy lights AND fireflies Still have questions?",
-      "A few of the most common ones from first-timers: Will I fit in?",
-      "Vibecamp know most of you won't look at these, but for the minority of people who love to read everything, Vibecamp're working on having materials available.",
-      "Vibecamp'll continue adding to these over time, and have a few more posts Vibecamp're working on that should be live soon.",
-      "Would you like to write your own explainer post, or write a better version of one of these?",
-      "Drop your email and Vibecamp'll keep you posted on Vibecamp news, ticket updates, and related community projects.",
+      "Vibecamp is a four-day gathering for curious, creative, openness-loving people—part festival, part unconference, part summer camp for adults (some bring kids).",
+      "Founded in 2021, the roughly 500-person event takes over a sprawling Maryland venue every June.",
+      "The common thread among Vibecampers is high openness-to-experience and kindness to strangers.",
+      "Attendees come from internet-adjacent scenes: rationalists and post-rationalists, EAs, burners, tech workers, writers, artists, therapists, and offline friends of the above.",
       "Combating modern isolation, it gathers adults to play, build, and connect through high-agency, decentralized activities.",
-      "Emphasizing \"fierce friendliness\" and deep conversation, Vibecamp inspires attendees to seed playful local communities back home.",
-      "2022 Vibecamp 1 Inaugural in-person gathering at Camp Champions in Austin, TX (~400 attendees)."
+      "Emphasizing fierce friendliness and deep conversation, Vibecamp encourages attendees to seed playful local communities back home.",
+      "The inaugural in-person Vibecamp in 2022 at Camp Champions in Austin, TX drew about 400 attendees."
     ],
     "coverImages": [
       "/popups/vibe/vibecampgallery1.webp",
@@ -3644,13 +3554,8 @@ export const popupData: Popup[] = [
       "Viva’s stated aim is a city-scale jurisdiction where longevity research and medical experimentation can move faster.",
       "San Francisco appears as a current community anchor while the larger city ambition remains ahead of it.",
       "Themes span biotech, AI, crypto, and governance because the bet is institutional, not just social.",
-      "Learn how you can have an impact Anyone can do *something* to increase the community's effectiveness.",
-      "AI AI is one of the most important tools to help advance Viva's capabilities in science to solve the problem of aging, and much more.",
-      "Crypto Viva are building a new model for a self-governing IRL community.",
-      "Special jurisdictions Viva are creating new laws & regulations, to remove bottlenecks that stifle innovation.",
-      "A better framework to ensure no harm is done, with warp-speed innovation.",
-      "Pieces to the puzzle Themes Longevity Biotech Viva's main focus - advanced medicine that can bring aging under medical control.",
-      "Special jurisdictions Viva are creating Viva's own laws & regulations, to remove bottlenecks that stifle innovation."
+      "Members contribute across longevity science, AI tooling, on-chain governance, and special-jurisdiction policy.",
+      "Viva City sells online membership tiers and runs pop-ups such as Frontier Tower programming in San Francisco while pursuing a longer-term medical-innovation zone."
     ],
     "coverImages": [
       "/popups/xyz/viva-city/community.webp",
@@ -3672,7 +3577,7 @@ export const popupData: Popup[] = [
     "amenities": [],
     "history": [
       "Viva City, founded by Laurence Ion, emerged from the legacy of Vitalia City, a network state whose co-founders parted ways in early 2025",
-      "There are ongoing talks with governments for Viva City to establish a medical innovation zone 2040 - Building a new city to make death optional by"
+      "Viva City is in talks with governments about a medical innovation zone aimed at accelerating longevity breakthroughs."
     ],
     "durationNotes": [],
     "locationDetails": [
@@ -3780,16 +3685,10 @@ export const popupData: Popup[] = [
       "Zanzalu runs recurring builder popups in Zanzibar with a mix of local and overseas technologists.",
       "Summer coliving density is the product: live together, collaborate, leave with projects and relationships.",
       "Fumba Town editions put East African and international builders in the same coliving cohort.",
-      "Join us in Zanzibar from July 25 to August 14, 2026.",
       "Zanzalu is an annual pop-up city and living laboratory in Fumba Town, Zanzibar.",
-      "Blending the energy of a festival and a builder hub, Zanzalu becomes a temporary city designed for collaboration, focus, and curiosity.",
-      "Through residencies, forums, workshops, and launches, participants explore the continent’s most consequential challenges in technology, urbanization, and industrialization.",
-      "Zanzalu’s purpose is to cultivate a generative forum where people leave with new ideas, higher ambitions, and a lasting network of peers committed to building what comes next.",
-      "It is both a gathering and a long-term project that aims to catalyze high-leverage experimentation and a culture of agency among rising talent.",
-      "Find your people Meet friends and collaborators you’ll still be talking to in years.",
-      "Upgrade your thinking Talks, workshops, and conversations on the most important trends shaping the globe.",
-      "Live in paradise Warm waves and coworking amenities in East Africa’s top destination.",
-      "The town has apartments, cafés, a gym, a supermarket, and a coworking space all within a short distance.",
+      "Blending festival energy with a builder hub, editions pack residencies, forums, workshops, and launches into a few weeks of coliving.",
+      "Participants explore technology, urbanization, and industrialization themes with peers from Africa and abroad.",
+      "Fumba Town offers apartments, cafés, a gym, a supermarket, and coworking within a short distance.",
       "The airport is about 20 minutes away, and Stone Town is an easy drive for nights out, history, and food."
     ],
     "coverImages": [
@@ -3814,15 +3713,12 @@ export const popupData: Popup[] = [
       "The 2026 edition - Zanzalu 3.0 - runs from July 25 to August 14"
     ],
     "durationNotes": [
-      "Zanzalu hosts annual pop-up villages lasting 2 to 5 weeks usually",
-      "It aims to evolve into a permanent hub in Fumba Town by 2027, aimed for residencies,",
-      "experimentation, and events",
-      "For several weeks each year, it brings together founders, technologists, academics, artists, investors, policymakers, and creators to test ideas in the real world and to build toward an abundant future in Africa and beyond."
+      "Annual pop-up villages usually run two to five weeks; Zanzalu 3.0 is July 25–August 14, 2026.",
+      "The project aims to evolve into a permanent Fumba Town hub by 2027 for residencies, experimentation, and events."
     ],
     "locationDetails": [],
     "overview": [
-      "Zanzalu is a pop-up city and living laboratory where innovators from Africa and beyond collaborate toward an abundant future",
-      "full-time residents"
+      "Zanzalu is a pop-up city and living laboratory where innovators from Africa and beyond collaborate toward an abundant future."
     ],
     "xyzUrl": "https://xyz.city/network-states/zanzalu",
     "posts": [
@@ -4214,7 +4110,7 @@ export const popupData: Popup[] = [
       "Crypto",
       "Longevity"
     ],
-    "website": "https://t.co/Rs4IKEy4KO",
+    "website": "https://zukascity.com",
     "image": "/popups/xyz/zukas/logo.webp",
     "foundedYear": 2025,
     "sources": [
@@ -4229,16 +4125,13 @@ export const popupData: Popup[] = [
       "ZuKaş is a Zu-node in Kaş, Turkey with an explicit governance and Lycian democracy theme.",
       "Popup villages here lean into culturally rooted community practice rather than pure hacker-house energy.",
       "Longevity and crypto themes still appear, but participatory governance is the differentiator.",
-      "View in Telegram Preview channel If you have Telegram, you can view and join ZuzaluKaş right away.",
-      "It draws on the ancient Lycian principles of democracy and commons to run residencies where builders, researchers, and creators colive and stress-test decentralized coordination and participatory governance.",
+      "It draws on Lycian principles of democracy and commons to run residencies where builders, researchers, and creators colive and stress-test decentralized coordination and participatory governance.",
       "The project blends Web3 tools with plurality and regenerative practices.",
       "ZuKas is a living hub uniting Lycian roots with longevity and civic innovation.",
       "In 2025, it hosted its first pop-up village - ZuKas I.",
       "The second edition, ZuKas II, in April 2026, explores open governance, identity, and phygital communities.",
-      "Full event access for people buying before the programming is revealed.",
-      "\" Lalena, Creative Designer at node101 How can you get involved?",
-      "Join an upcoming pop-up village, usually announced on X.",
-      "To experiment with plurality governance in a Web3 context, creating prototypes for decentralized decision-making and phygital commons."
+      "Early tickets include full event access before the full program is published.",
+      "Join an upcoming pop-up village, usually announced on X, to experiment with plurality governance and phygital commons in a Web3 context."
     ],
     "coverImages": [
       "/popups/xyz/zukas/zukasgallery1.webp",
@@ -4270,9 +4163,7 @@ export const popupData: Popup[] = [
     ],
     "durationNotes": [
       "ZuKas operates pop-up villages with varying durations",
-      "ZuKas I lasted 10 days. ZuKas II runs for 30 days",
-      "\" Michel Bauwens, Founder at P2P Foundation I strongly suggest you go to ZuKas next year...",
-      "\" Not enough Kaş in a year… need 2-3 events."
+      "ZuKas I lasted 10 days. ZuKas II runs for 30 days"
     ],
     "locationDetails": [
       "ZuKas pop-up cities are hosted in Kaş, Turkey, a coastal town in the ancient Lycian region"

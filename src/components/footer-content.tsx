@@ -1,4 +1,5 @@
-import { Instagram, Linkedin, Mail, Twitter, Send, Youtube } from 'lucide-react';
+import { Instagram, Linkedin, Mail, Send, Youtube } from 'lucide-react';
+import { XBrandIcon } from '@/components/x-brand-icon';
 import Link from 'next/link';
 
 export function FooterContent() {
@@ -36,7 +37,7 @@ export function FooterContent() {
         <span className="sr-only">LinkedIn</span>
        </a>
        <a href="https://x.com/hashtag_web3" target="_blank" rel="noopener noreferrer" className="text-muted-foreground transition-colors hover:text-foreground" aria-label="Follow us on X">
-        <Twitter size={20} />
+        <XBrandIcon size={20} />
         <span className="sr-only">X (formerly Twitter)</span>
        </a>
        <a href="https://t.me/hashtagweb3" target="_blank" rel="noopener noreferrer" className="text-muted-foreground transition-colors hover:text-foreground" aria-label="Join us on Telegram">
