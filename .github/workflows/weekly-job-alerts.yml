@@ -1,18 +1,27 @@
-name: Weekly Job Alerts
+name: Daily Job Alerts (Resend Broadcast)
 
 on:
   schedule:
-    # Run Monday and Thursday at 9:00 AM UTC
-    # Sends to all ~5000 subscribers in one run via AWS SES (50k/day capacity)
-    - cron: '0 9 * * 1,4'
+    # Run daily at 9:00 AM UTC
+    # Sends to the Resend audience segment as a broadcast (unlimited capacity)
+    - cron: '0 9 * * *'
   workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Validate without sending (creates + deletes a draft)'
+        type: boolean
+        default: false
+      days:
+        description: 'Look back N days for new jobs'
+        default: '1'
 
 jobs:
   send-job-alerts:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     permissions:
       contents: read
-      
+
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -24,35 +33,11 @@ jobs:
           cache: 'npm'
 
       - name: Install dependencies
-        run: npm ci
+        run: npm ci --no-audit --no-fund
 
-      - name: Decrypt subscriber email lists
+      - name: Send job alerts broadcast
+        run: npx tsx scripts/send-resend-broadcast.ts --days ${{ inputs.days || '1' }} --limit 15 ${{ inputs.dry_run == true && '--dry-run' || '' }}
         env:
-          EMAIL_ENCRYPTION_KEY: ${{ secrets.EMAIL_ENCRYPTION_KEY }}
-        run: |
-          cd scripts
-          for f in manual-emails.json manual-emails-2.json manual-emails-3.json manual-emails-4.json; do
-            if [ -f "$f.enc" ]; then
-              openssl enc -aes-256-cbc -d -salt -pbkdf2 -in "$f.enc" -out "$f" -pass pass:$EMAIL_ENCRYPTION_KEY
-              echo "Decrypted $f"
-            fi
-          done
-
-      - name: Send job alerts via AWS SES
-        run: npm run send-new-jobs -- --days 4 --limit 15
-        env:
-          # AWS SES
-          AWS_SES_ACCESS_KEY_ID: ${{ secrets.AWS_SES_ACCESS_KEY_ID }}
-          AWS_SES_SECRET_ACCESS_KEY: ${{ secrets.AWS_SES_SECRET_ACCESS_KEY }}
-          AWS_SES_REGION: us-west-1
-
-          # Email config
-          EMAIL_FROM: hi@hashtagweb3.com
-          EMAIL_FROM_NAME: Hashtag Web3
-          CRON_SECRET: ${{ secrets.CRON_SECRET }}
-
-          # Firebase Admin SDK (base64-encoded service account JSON)
-          FIREBASE_SERVICE_ACCOUNT_KEY: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_KEY }}
-
-          # Site configuration
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          EMAIL_FROM: Hashtag Web3 <hi@hashtagweb3.com>
           NEXT_PUBLIC_SITE_URL: https://hashtagweb3.com
