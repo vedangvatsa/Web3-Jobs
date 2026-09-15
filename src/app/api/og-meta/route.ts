@@ -1,6 +1,13 @@
 import { NextRequest, NextResponse } from 'next/server';
+import { getArticle } from '@/lib/articles';
 import { buildUniqueJobMetaDescription, resolveJobSlug } from '@/lib/job-guides';
-import { buildJobOgImageUrl, resolveEventOgImageUrl, eventOgImageMimeType, SITE_URL } from '@/lib/job-og';
+import {
+  buildArticleOgImageUrl,
+  buildJobOgImageUrl,
+  resolveEventOgImageUrl,
+  eventOgImageMimeType,
+  SITE_URL,
+} from '@/lib/job-og';
 import { getEventBySlug } from '@/lib/events-server';
 import { getEventSlug, formatEventDate } from '@/lib/events';
 import { stripSocialPathSuffix } from '@/lib/social-share';
@@ -266,6 +273,18 @@ async function resolveMetadata(path: string): Promise<PageMeta> {
 
     const jobMeta = await resolveJobMetadata(slug);
     if (jobMeta) return jobMeta;
+
+    const article = await getArticle(slug);
+    if (article) {
+      const description =
+        article.description.length > 155 ? `${article.description.slice(0, 152)}...` : article.description;
+      return {
+        title: article.title,
+        description,
+        ogImageUrl: buildArticleOgImageUrl(article, SITE_URL),
+        canonicalUrl: `${SITE_URL}/${article.slug}`,
+      };
+    }
   }
 
   // Fallback
