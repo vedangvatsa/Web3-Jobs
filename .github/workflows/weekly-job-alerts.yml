@@ -39,5 +39,5 @@ jobs:
         run: npx tsx scripts/send-resend-broadcast.ts --days ${{ inputs.days || '1' }} --limit 15 ${{ inputs.dry_run == true && '--dry-run' || '' }}
         env:
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
-          EMAIL_FROM: Hashtag Web3 <hi@hashtagweb3.com>
+          EMAIL_FROM: Alex <alex@hi.hashtagweb3.com>
           NEXT_PUBLIC_SITE_URL: https://hashtagweb3.com

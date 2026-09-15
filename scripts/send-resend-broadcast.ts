@@ -27,7 +27,7 @@ const jobLimit = limitIdx > -1 ? Math.max(1, Number(args[limitIdx + 1]) || 15) :
 
 const apiKey = process.env.RESEND_API_KEY;
 const segmentId = process.env.RESEND_SEGMENT_ID || GENERAL_SEGMENT_ID;
-const from = process.env.EMAIL_FROM || 'Hashtag Web3 <hi@hashtagweb3.com>';
+const from = process.env.EMAIL_FROM || 'Alex <alex@hi.hashtagweb3.com>';
 const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://hashtagweb3.com';
 
 function buildHtml(jobs: JobListing[]): string {
