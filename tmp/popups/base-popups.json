@@ -28,7 +28,7 @@
     "body": [
       "Network School turns online builder communities into a physical campus, with shared meals, gym access, and housing treated as part of the product.",
       "The campus is in Astana, Kazakhstan, in partnership with the Republic of Kazakhstan; ns.com lists the Astana Hub site and an all-in membership covering room, food, gym, and coworking.",
-      "The first v1 cohort ran in Forest City, Malaysia before the program reopened in Kazakhstan. The project sits at the center of the broader Network States dashboard and hosts Layer-2 efforts like Arc."
+      "The first v1 cohort ran in Forest City, Malaysia before the program reopened in Kazakhstan. The campus hosts Layer-2 efforts such as Arc alongside other startup-society projects."
     ]
   },
   {
@@ -150,7 +150,7 @@
     "body": [
       "Crecimiento organizes Argentina-facing popups and socio-economic experiments aimed at making the country a magnet for tech builders.",
       "The work mixes blockchain tooling, local community organizing, and temporary city-scale gatherings in Buenos Aires.",
-      "It is one of the clearest South American nodes in both the xyz.city and Network School directories."
+      "Buenos Aires popups and on-chain tooling experiments have made Crecimiento a reference point for Argentina’s crypto builder scene."
     ]
   },
   {
@@ -349,7 +349,7 @@
     "body": [
       "ArkPad is a construction-oriented project producing floating platforms for ocean living.",
       "Unlike social popups, the core product is physical infrastructure rather than a temporary community calendar.",
-      "It appears on the Network School dashboard as part of the wider startup-society build stack."
+      "Samal Island in the Philippines hosts ArkPad’s Reef Resort demo, combining floating units with hexafarm aquaculture."
     ]
   },
   {
@@ -396,7 +396,7 @@
     "body": [
       "Cafe Cursor runs temporary cafe takeovers for AI developers who want an IRL build session instead of another Discord huddle.",
       "The format is lighter than a monthlong village: show up, ship, meet other Cursor users.",
-      "It sits on the popup end of the spectrum, closer to community meetups than to jurisdiction experiments."
+      "Editions rotate through cities; see the official Luma calendar for the next Cafe Cursor takeover."
     ]
   },
   {
@@ -470,7 +470,7 @@
     "summary": "A car-free walkable neighborhood experiment focused on belonging and local commerce.",
     "body": [
       "Culdesac is building walkable urban fabric in Tempe with transportation freedom and local business density as design goals.",
-      "It is more urban development than crypto popup, but it shows up in the same startup-society directories.",
+      "Culdesac’s Tempe neighborhood is car-free year-round housing, not a traveling popup calendar.",
       "The product is a neighborhood residents can live in year-round."
     ]
   },
@@ -520,7 +520,7 @@
     "body": [
       "Gelephu Mindfulness City is Bhutan’s high-profile attempt at a new SEZ-style startup city.",
       "Unlike monthlong popups, the ambition is a lasting jurisdictional and urban project.",
-      "It appears in Network School’s dashboard as a national-scale startup city bet."
+      "GMC’s charter ties mindfulness and governance to a long-horizon SEZ buildout in southern Bhutan."
     ]
   },
   {
@@ -543,7 +543,7 @@
     "summary": "A residency format for ambitious indie hackers who want locked-in build time together.",
     "body": [
       "Hacker Residency Group runs coliving residencies aimed at indie hackers who want fewer distractions and more peers.",
-      "Da Nang is the current geographic anchor listed on the Network School dashboard.",
+      "Da Nang, Vietnam hosts HRG’s monthlong villa residencies for indie hackers.",
       "The product is focused residency energy, not a permanent charter city."
     ]
   },
@@ -629,7 +629,7 @@
     "body": [
       "mtndao runs monthlong popup villages for Solana founders and builders in Utah.",
       "The format is classic popup: temporary density, high shipping pressure, then disperse.",
-      "It is one of the clearest US Solana-native entries on the Network School list."
+      "Salt Lake City editions pair dense coworking with summit programming and Demo Day."
     ]
   },
   {
@@ -727,7 +727,7 @@
     "body": [
       "RNS.ID sells digital residency rather than a physical popup campus.",
       "The interesting part is the state partnership: Palau provides the government wrapper for a global digital ID product.",
-      "It belongs in this directory as digital jurisdiction infrastructure, not as a coliving brand."
+      "Palau-backed digital residency is the product; rns.id covers enrollment and policy updates."
     ]
   },
   {
@@ -778,10 +778,10 @@
     "socials": {
       "x": "https://x.com/StarbaseTX"
     },
-    "summary": "The Texas aerospace city known as Starbase, listed among startup-society experiments.",
+    "summary": "The Texas aerospace city known as Starbase, shaping launch operations near Boca Chica.",
     "body": [
       "Starbase is the Texas aerospace city project frequently nicknamed the gateway to Mars.",
-      "It lands in this directory as a large-scale startup city adjacent to the network-state conversation.",
+      "Starbase is the municipal name for SpaceX’s Boca Chica launch campus in Cameron County, Texas.",
       "Unlike crypto popups, the industrial and municipal stakes are the main story."
     ]
   },
@@ -836,7 +836,7 @@
     "body": [
       "Traditional Dream Factory runs a regenerative coliving village in Portugal.",
       "The emphasis is longer-stay land-based community rather than a traveling monthlong popup.",
-      "It shows up on the Network School dashboard as a European permanent node."
+      "The village sits on a former poultry farm in Abela, Portugal, west of Lisbon."
     ]
   },
   {
@@ -889,7 +889,7 @@
     "body": [
       "Zanzalu runs recurring builder popups in Zanzibar with a mix of local and overseas technologists.",
       "Summer coliving density is the product: live together, collaborate, leave with projects and relationships.",
-      "It is one of the main East African entries shared across both directories."
+      "Fumba Town editions put East African and international builders in the same coliving cohort."
     ]
   },
   {
@@ -1040,7 +1040,7 @@
     "body": [
       "Zuzalu started as the first high-profile popup village in Luštica Bay, Montenegro, and grew into a distributed network.",
       "It also pushed CommunityOS ideas and open-source coordination for temporary societies.",
-      "Most Zu-named projects in this directory are cultural descendants of that first experiment."
+      "Later Zu-branded villages and fellowships trace much of their culture back to Zuzalu’s Montenegro cohort."
     ]
   },
   {
@@ -1190,7 +1190,7 @@
     "summary": "An ecosystem incubator hosting immersive popup villages where Web3 builders live, learn, and launch.",
     "body": [
       "Web3 Villages packages incubator energy into temporary villages for shipping projects in community.",
-      "Bangkok is a recurring geography in the directories, with Discord and Telegram as coordination layers.",
+      "Bangkok editions anchor much of the programming, with Discord and Telegram coordinating between villages."
       "The offer is practical: housing plus program density for people trying to launch."
     ]
   },
@@ -1245,8 +1245,8 @@
     "summary": "Ethiopia-based popup city and conference organizing for local and visiting builders.",
     "body": [
       "Eth-iopia combines popup-city energy with conference organizing in Addis Ababa.",
-      "The brand is geographically specific in a directory that often stays deliberately global.",
-      "Use it as a starting point for Ethiopia-facing builder gatherings."
+      "Addis Ababa host teams anchor the brand while conferences and residencies rotate with local partners.",
+      "Builders use Eth-iopia editions to meet Ethiopia-based founders before committing to longer stays."
     ]
   },
   {
@@ -1270,11 +1270,11 @@
     "socials": {
       "x": "https://x.com/_Arrayah"
     },
-    "summary": "A Sydney-rooted builder community with a deliberately simple mandate: make space to do things.",
+    "summary": "Sydney-rooted popups and residencies for founders, artists, and researchers.",
     "body": [
-      "Arrayah keeps the copy short on purpose: it is a place to just do things.",
-      "Sydney is the listed base, with culture, tech, and governance themes around the edges.",
-      "It is a smaller-scale entry compared with monthlong mega-villages."
+      "Arrayah means a ray of hope and describes itself as a place to just do things.",
+      "Arrayah runs Sydney-rooted popups and shorter residencies for founders, artists, and researchers.",
+      "Culture, tech, and governance show up across editions rather than as one fixed monthlong campus."
     ]
   },
   {
@@ -1392,7 +1392,7 @@
     "summary": "A federation-style project coordinating frontier cities rather than running a single campus.",
     "body": [
       "Alpha City describes itself as a federation of frontier cities.",
-      "The footprint is distributed by design, with small resident counts listed in the directories.",
+      "Each city node keeps a small resident count while Alpha coordinates standards across the federation."
       "Treat it as a coordination layer across places, not one popup calendar."
     ]
   },
@@ -1451,8 +1451,8 @@
     "summary": "Africa’s first digital economic zone oriented to technology and service businesses.",
     "body": [
       "Itana is building a digital economic zone in Lagos for technology and service-based companies.",
-      "The framing is jurisdictional and commercial more than temporary coliving.",
-      "It is one of the clearest African SEZ-style entries in the xyz.city directory."
+      "Companies incorporate through Itana’s digital zone rather than joining a temporary coliving cohort.",
+      "Itana targets technology and service companies that want Lagos incorporation with digital-zone tooling."
     ]
   },
   {
@@ -1478,7 +1478,7 @@
     "summary": "A social movement and decentralized technology stack aimed at revitalising civil society.",
     "body": [
       "Logos is listed as a movement plus technology stack for civil society, not a single popup venue.",
-      "The directories place it in the network-state adjacency set because of governance and decentralization goals.",
+      "Governance and decentralization tooling are the through-line, not a single coliving campus."
       "Expect software and organizing infrastructure more than a monthlong village calendar."
     ]
   }
