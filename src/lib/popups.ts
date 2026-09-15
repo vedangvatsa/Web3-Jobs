@@ -37,11 +37,8 @@ export const popupData: Popup[] = [
       "The hub mixes coliving, coworking, and Ethereum cultural programming for longer-term residents and visitors.",
       "It is one of the clearest examples of a temporary movement hardening into a permanent node.",
       "The majority of gatherings—from knowledge shares to spontaneous social meetups—are initiated by 4Seas's residents and friends in Chiang Mai, supported by the 4Seas to make every idea a reality.",
-      "GO check out 4Seas Event Gallery Recurring Event Question that Matter Every Wednesday AI Goddess Every Monday Screening Every Saturday One Way Function The Exhibition of CypherPunk February-May Upcoming Events Data loading failed.",
-      "‍ ‍ More than just an event, Zuzalu is a growing network of interconnected communities, fostering open innovation, shared knowledge, and real-world impact.",
-      "‍ As part of this movement, 4Seas provides a lasting hub for cypherpunks, digital nomads, and visionaries to connect, build, and experiment—extending Zuzalu’s legacy in Chiang Mai.",
-      "What is 4Seas A cultural hub in Chiang Mai, rooted in Ethereum and part of the Zuzalu Movement.",
-      "Space 4Seas Nimman 4Seas's central city homebase—designed as a community living laboratory, a hybrid space that brings together co-living, co-working, and public gatherings into one flow."
+      "More than just an event, Zuzalu is a growing network of interconnected communities, fostering open innovation, shared knowledge, and real-world impact.",
+      "As part of this movement, 4Seas provides a lasting hub for cypherpunks, digital nomads, and visionaries to connect, build, and experiment—extending Zuzalu’s legacy in Chiang Mai."
     ],
     "coverImages": [
       "/popups/xyz/4seas/4seasgallery1.webp",
@@ -56,7 +53,7 @@ export const popupData: Popup[] = [
       "$50/night rest of the year",
       "*December, January, and February make up the high season"
     ],
-    "pricingSummary": "Public spaces are free in both locations. For access to all amenities: 4Seas Nimman",
+    "pricingSummary": "Public spaces are free in both locations. For access to all amenities: · $110/night during high season* · $60/night rest of the year · $70/night during high season* · $50/night rest of the year · *December, January, and February make up the high season",
     "amenities": [
       "Co-working space",
       "Events and meeting rooms",
@@ -115,16 +112,12 @@ export const popupData: Popup[] = [
       "Afropolitan organizes as a digital-first network with physical gatherings rather than a single permanent city.",
       "The mandate is deliberately wide: culture and industry verticals across the African diaspora.",
       "It is one of the older brands in this set, with founding roots listed in 2016.",
-      "Read Afropolitan's Manifesto Become an Afropolitan Afropolitan is looking to onboard the most dedicated and ambitious people to join Afropolitan's growing Network.",
       "Afropolitan care less about what you’ve done and more about who you aspire to become and how Afropolitan can all be better together.",
-      "Join Us Founding Afropolitans 50 men and women from across all fields of tech, art, media, and finance who believe in Afropolitan's mission that all Africans should live abundant lives.",
-      "View All Episodes And media coverage from Subscribe to The Frontier Learn the strategies behind tech and crypto within the African diaspora.",
       "Afropolitan demystify the pathways to limitless value creation within these emerging technologies and the communities around them.",
-      "Manifesto Community Events Podcast Newsletter Terms of Service Built by Sprise.",
       "Afropolitan is an emerging digital nation for Africans and the diaspora, aiming to enable abundant lives through community, culture, and economic opportunities.",
       "The Afropolitan network is a curator of Black and African: Talent.",
-      "In 2022, it raised $2.1 million in pre-seed funding from investors including Balaji Srinivasan , the founder of Network School .",
-      "It expanded through Afropolitan Cities, organizing city tours and takeovers, such as the T.I.A.",
+      "In 2022, it raised $2.1 million in pre-seed funding from investors including Balaji Srinivasan, the founder of Network School.",
+      "It expanded through Afropolitan Cities, organizing city tours and takeovers, such as the T.",
       "To build a network state enabling Africans and the diaspora to achieve abundance through community, economic tools, and eventual physical territories.",
       "Africans and the diaspora, interested in art, finance, tech, culture, health, sports, energy, and media, seeking aligned opportunities.",
       "Networking meetups, city tours, cultural takeovers, and professional gatherings connecting the diaspora.",
@@ -141,12 +134,12 @@ export const popupData: Popup[] = [
       "Tours: $3,500-$4,500 including accommodation and activities",
       "The original Afropolitan Citizen NFT has been sold out"
     ],
-    "pricingSummary": "Digital passport NFTs: starting at WETH 0.0027 on OpenSea Event tickets: $0-$200, depending on the event",
+    "pricingSummary": "Digital passport NFTs: starting at WETH 0.0027 on OpenSea · Event tickets: $0-$200, depending on the event · Tours: $3,500-$4,500 including accommodation and activities · The original Afropolitan Citizen NFT has been sold out",
     "amenities": [],
     "history": [
       "The Afropolitan digital nation plan was launched around 2021",
       "In 2022, it raised $2.1 million in pre-seed funding from investors including Balaji Srinivasan, the founder of Network School",
-      "It expanded through Afropolitan Cities, organizing city tours and takeovers, such as the T.I.A. Ghana Tour in 2025"
+      "It expanded through Afropolitan Cities, organizing city tours and takeovers, such as the T. I. A. Ghana Tour in 2025"
     ],
     "durationNotes": [
       "Afropolitan is a permanent digital network, with temporary physical events and tours lasting from days to weeks",
@@ -189,7 +182,6 @@ export const popupData: Popup[] = [
       "Akiya Collective focuses on the practical work of turning abandoned Japanese homes into residencies and shared community spaces.",
       "It overlaps with ZuJapan geographically and culturally, but operates as its own organization and brand.",
       "Rooted in ancient traditions and wisdom, yet boldly looking forward, Japan will take your breath away.",
-      "Hand crafted by Alex Hartan ‍ akiya collective ~ アキヤ ⋆ コレクティブ a non-profit organization and social R&D lab that renovates abandoned houses in Japan into creative residencies, installations, and experiments to advance well-being.",
       "Join the community  follow Akiya Collective's efforts  Japan is currently undergoing a national housing crisis.",
       "By 2030, one third of all homes in the country will be vacant.",
       "An aging population, coupled with the concentration of youth in urban areas have caused many homes to be abandoned in the countryside.",
@@ -197,14 +189,11 @@ export const popupData: Popup[] = [
       "Akiya Collective operates a social R&D lab: architecting experiments for changing collective behavior, preserving public goods, and developing new infrastructure for the 21st century.",
       "Akiya Collective are actively supporting a network of home-owners in acquiring, renovating, and operating properties in Japan.",
       "Akiya Collective embody a responsive model that addresses a societal issue while creating open-ended spaces for self-exploration and contribution, starting with Akiya Collective's first home...",
-      "Chapter one: komoro In 2024, Akiya Collective purchased Akiya Collective's first property in Komoro Town, Nagano Prefecture, and began transforming it into a community makerspace.",
       "Over the course of 2 years, Akiya Collective worked with 250+ volunteers (chefs, musicians, carpenters, students, and founders) to clear decades of clutter, revive the home's original architecture, and build a space for creativity and connection.",
-      "From large-scale art installations and woodworking experiments to artist residencies and emergent community rituals, Komoro became the birthplace of Akiya Collective's vision for Akiya Collective.",
-      "Something went wrong - try again :) any questions or want to contribute more?",
+      "Something went wrong - try again:) any questions or want to contribute more?",
       "Akiya Collective want to enable others to pursue what they are curious about, connect with other passionate individuals, and feel a sense of belonging while doing Good see photo do you resonate with Akiya Collective's mission?",
       "This includes akiya available in locations around us, stewards from different areas to act as local ambassadors, as well as information Akiya Collective have discovered in Akiya Collective's research, like government stipends and grants available per region.",
-      "Get Involved 02 | contribute For those who want to build with us, Akiya Collective're introducing a system where you can contribute to Akiya Collective's efforts, and in return, earn time-to-stay in Akiya Collective's community house.",
-      "‍ join the community  follow Akiya Collective's efforts  apply for core team Akiya Collective're looking for 2-3 people to join the dedicated core contributor team for Akiya Collective."
+      "join the community  follow Akiya Collective's efforts  apply for core team Akiya Collective're looking for 2-3 people to join the dedicated core contributor team for Akiya Collective."
     ],
     "coverImages": [
       "/popups/akiya/akiyagallery1.webp",
@@ -301,7 +290,6 @@ export const popupData: Popup[] = [
       "Passport holders with a Pioneer classification receive residency access, early land and token allocations, and direct participation in Alpha's rapidly growing ecosystem."
     ],
     "locationDetails": [
-      "Alpha's public roadmap references industrial cities in East and West Africa, including a Naivasha, Kenya site.",
       "Equatorial launch access and regional talent pools are part of the stated geography strategy.",
       "Alpha City cities are strategically located for AI, digital finance, advanced manufacturing, energy infrastructure, critical minerals, and aerospace."
     ],
@@ -336,14 +324,12 @@ export const popupData: Popup[] = [
       "It sits closer to intentional community design than to conference-style popups.",
       "A new model of living What if you could live in a place that feels like home, works like a startup, and grows like a movement?",
       "Amagi Life’re building a village in a place you already love—where nature, community, and opportunity converge; co-designed with you.",
-      "A Hidden Sanctuary for Your Family , A Shortcut to Their Future.",
+      "A Hidden Sanctuary for Your Family, A Shortcut to Their Future.",
       "Learn More An innovative economic model Below you’ll find two ways to explore Amagi.",
       "Start with Amagi Life's Amagi AI chatbot or dive deeper into the full white paper when you’re ready.",
-      "Chat with Us Amagi Life's White Paper Hybrid model Invest in land, live in the village, and become a co-owner over time.",
       "Many ways to earn equity in the village over time.",
       "Balanced ecosystem Affordable eco-conscious living with nature, innovation, and community working in synchronicity.",
       "Community oriented Cultural and entrepreneurial programs and spaces that helps drive community engagement of people who share similar values.",
-      "Liran Jakob Rosenfeld January 21, 2026 Why Amagi Life Don't Use Master Plans Amagi's Blog December 31, 2025 READ THE Blog FAQ What is Amagi?",
       "Amagi is a regenerative village model that combines long-term living, shared stewardship of land, and a living economic system.",
       "It is designed to support people who want stability, autonomy, and meaningful contribution without the pressure of conventional home ownership or extractive development.",
       "Amagi exists to address three failures at once: unaffordable housing, fragile communities, and extractive development.",
@@ -415,9 +401,10 @@ export const popupData: Popup[] = [
     },
     "summary": "Arc accelerates the trajectory of people and places, delivering laws, capital, and talent on day one.",
     "body": [
-      "Arc is a community of founders, engineers, investors, and creators who live, work, and build together. After experiments on three continents, it chose Sri Lanka as its first long-term place.",
-      "The open home is Asaya, a beachfront campus on Mirissa Beach. Programming includes Ascend and the Fulgur, Curious, and Arc Angel funds.",
-      "Arc activated Network School in Kazakhstan (Astana) and Malaysia before applying the same pop-up-then-permanent playbook in Sri Lanka, including First Capital Startup Nation in Colombo."
+      "Arc is a community of founders, engineers, investors, and creators who live, work, and build together.",
+      "After experiments on three continents, it chose Sri Lanka as its first long-term place.",
+      "The open home is Asaya, a beachfront campus on Mirissa Beach.",
+      "Programming includes Ascend and the Fulgur, Curious, and Arc Angel funds."
     ],
     "coverImages": [
       "/popups/xyz/arc/arcgallery1.webp",
@@ -431,7 +418,7 @@ export const popupData: Popup[] = [
       "Residency at rc in Network School is priced at $1,250/month for a shared room with all included",
       "Pop-up villages can range from $500 to $2,000, depending on the location and duration"
     ],
-    "pricingSummary": "Unbundled, pay-as-you-go access at Asaya, Mirissa; Startup Nation packages by invitation",
+    "pricingSummary": "Campus access at Asaya is unbundled and pay-as-you-go rather than a single all-in bundle · First Capital Startup Nation hosted packages are invitation-only (see thearccity.com/startup-nation) · Residency at rc in Network School is priced at $1,250/month for a shared room with all included · Pop-up villages can range from $500 to $2,000, depending on the location and duration",
     "amenities": [
       "Beachfront campus at Asaya, Mirissa Beach",
       "Founder community, events, and accelerator-style programming",
@@ -448,16 +435,10 @@ export const popupData: Popup[] = [
     "history": [
       "2024 - Arc Lisbon pop-up (September–October), with Lisbon Web3 and tech community partners",
       "2025 - Arc Austin pop-up during Austin tech week (March); Singapore pop-up (September–October)",
-      "2025 to 2026 - Activation at Network School in Kazakhstan (Astana campus; prior site in Forest City, Malaysia)",
-      "2026 - Live on Mirissa Beach, Sri Lanka; First Capital Startup Nation with Hatch in Colombo (28 September–1 October)",
-      "rc is in its early stages, founded by James of rc in 2024",
-      "Inspired by experiences in NEOM, Próspera, Solana Hacker Houses, and Zuzalu, it began with pop-up cities",
-      "September - October 2024",
-      "rc Network School",
+      "September - October 2024 rc Network School",
       "September - October 2025",
       "As of 2026, rc is permanently and continuously at Network School",
-      "The project is looking for a special economic zone to build a",
-      "city that will bring talent, capital and innovation to its"
+      "The project is looking for a special economic zone to build a city that will bring talent, capital and innovation to its"
     ],
     "durationNotes": [
       "Permanent founder community at Asaya, Mirissa, with ongoing programming",
@@ -472,13 +453,11 @@ export const popupData: Popup[] = [
       "Primary campus: Asaya, a beachfront campus in Mirissa, Sri Lanka",
       "Arc Sri Lanka connects builders to Colombo and national institutions",
       "Prior activation: Network School in Astana, Kazakhstan (formerly Forest City, Malaysia until 2026)",
-      "rc's initial layer two base is located at Network School in Forest City, Malaysia",
-      "It also has an outpost in Próspera (Roatán, Honduras), and hosts pop-up villages globally (Portugal, USA)"
+      "rc's initial layer two base is located at Network School in Forest City, Malaysia"
     ],
     "overview": [
       "Arc accelerates the trajectory of people and places and ships legal, capital, and company infrastructure together.",
       "The Sri Lanka campus at Asaya on Mirissa Beach is open to the early community.",
-      "Programming includes Ascend, Fulgur, Curious, and Arc Angel alongside Colombo events such as Startup Nation.",
       "A layer two network state at Network School and a pop-up village organizer experimenting with new governance, organization, and legal models",
       "A layer two network state is one which leverages the infrastructure of its parent to scale before",
       "being independent",
@@ -531,24 +510,16 @@ export const popupData: Popup[] = [
     "body": [
       "ArkPad is a construction-oriented project producing floating platforms for ocean living.",
       "Unlike social popups, the core product is physical infrastructure rather than a temporary community calendar.",
-      "Samal Island in the Philippines hosts ArkPad’s Reef Resort demo, combining floating units with hexafarm aquaculture.",
-      "See the evidence Book a stay What ArkPad build Three products, one purpose ArkPad-D The Arkpad-D is the latest model of Arkpad unit.",
       "It is designed to survive hurricanes, be deployed hundreds of miles from land, and last decades with little to no maintenance without rusting.",
-      "It can be deployed with Solar Electricity, fresh Water Generation, Internal Septic and fresh Water tanks, and even aquaculture space for growing fish.",
       "About the ArkPad-D Hexafarm The Hexafarm is a new type of floating fish cage that leverages polyculture to increase fish health, product output, and overall efficiency.",
       "Polyculture is the practice of growing multiple types of seafoods in close quarters with each other, to create a closed ecosystem that promotes the growth of all organisms.",
-      "In the case of the Hexafarm, the central cage is designed for salt water fish such as Milk Fish or Grouper, while the outer cage for seaweed growing space or low-density fish rearing.",
-      "About the Hexafarm Reef Resort The Reef Resort is the Philippines implementation of the previous two technologies.",
       "Samal Island's Reef Resort combines Arkpad-D units with 4 hexafarms in close proximity.",
       "It is fully walkable, and uses 'Glamphouses' another seastead design, to hold up to 150 guests per day.",
       "You can purchase ownership in some units in the Reef Resort using cryptocurrency, or contact us to ask about the types of seasteads used and if they can be deployed to your property.",
       "These are photographs of a resort that is open, not visualisations of one that is planned.",
-      "ArkPad are a team of experienced Naval Architects, Civil Engineers and Mechanical Engineers, as well as Blockchain Developers.",
       "ArkPad are committed to pushing forward new technologies to bring floating cities into reality.",
       "Whether the technology is smaller and more stable deep sea platforms, improved mariculture techniques.",
-      "Naval Architects Civil Engineers Mechanical Engineers Blockchain Developers The longer view What a floating city looks like A visualisation of the same structural system at settlement scale — platforms, breakwaters and aquaculture together.",
       "The Reef Resort shown elsewhere on this page is built and operating; this is what the same system is designed to scale into.",
-      "Research & development Other projects Self-driving Boats Arkpad is developing technologies to build self-driving boats that can travel long distances without needing a human at the helm.",
       "Underwater Drones ArkPad are building a modular underwater drone, which can be used for underwater viewing, manipulating objects, hull inspections, hull cleaning, and aquaculture work.",
       "Ground Effect Drones ArkPad is developing a ground effect drone for long range cargo delivery, ground effect vehicles exist between air freight and traditional shipping in terms of cost and speed."
     ],
@@ -620,7 +591,7 @@ export const popupData: Popup[] = [
       "Freo Neuhaus Pop-Up offers tiered accommodation options: shared or private rooms, with shared or private bathrooms",
       "Arrayah Residency was $400 for the whole"
     ],
-    "pricingSummary": null,
+    "pricingSummary": "Freo Neuhaus Pop-Up offers tiered accommodation options: shared or private rooms, with shared or private bathrooms · Arrayah Residency was $400 for the whole",
     "amenities": [
       "Co-living (shared or private rooms)",
       "Co-working spaces",
@@ -633,16 +604,13 @@ export const popupData: Popup[] = [
       "In 2025, in Australia, it hosted two pop-up villages:",
       "A month-long Arrayah",
       "A week-long Arrayah Residency",
-      "For 2026, Arrayah continues to gather people towards intentional building, co-hosting the Freo Neuhaus Pop-Up in Fremantle, Australia",
-      "Arrayah has also organized short-form events like the 4-day arrayah",
-      "living alongside the Sunrise Festival"
+      "Arrayah has also organized short-form events like the 4-day arrayah living alongside the Sunrise Festival"
     ],
     "durationNotes": [
       "Arrayah's pop-up neighborhoods typically last from 1 week to 1 month. Accelerators usually run for a few weeks",
       "Arrayah is also rolling out permanent homes across Australia"
     ],
     "locationDetails": [
-      "Arrayah's physical activities center in Australia, with pop-up neighborhoods in Sydney and Fremantle",
       "Early iterations were focused on Dubai"
     ],
     "overview": [
@@ -675,18 +643,8 @@ export const popupData: Popup[] = [
       "500+ members building the Bitcoin community in Chiang Mai A physical Bitcoin hub connecting local communities, universities, government, media, and sport across the region.",
       "Operating as a regional platform across education, media, and major events, it connects high-signal participants and serves as the central point of access for Bitcoin in Asia.",
       "If you are entering Asia for Bitcoin, this is where you start.",
-      "November 20, 2026 Bitcoin Academy Educators 2026 Three-day Bitcoin educator training in public speaking and persuasive presenting, limited to 10 spots.",
-      "September 26, 2026 Innovate Chiang Mai 2026 International Business Plan Competition International business plan competition for university students, held in English at NARIT Chiang Mai.",
-      "September 26, 2026 Fun Fam Run 2026 Family fun run at Sirindhorn AstroPark, free to enter, held as part of Innovate Chiang Mai 2026.",
-      "September 25, 2026 Innovate Chiang Mai 2026 Three-day expo of learning, innovation, and opportunity, free and open to the public at NARIT AstroPark.",
-      "September 25, 2026 Freedom Money 2026 Sixteen voices from Bitcoin, finance, technology, and AI on what financial freedom really means, in a TED Talk-style format.",
-      "September 19, 2026 Digital Future Lab 2026 A one-day workshop on digital finance and AI at the Faculty of Economics, Chiang Mai University.",
       "September 12, 2026 Entrepreneur Workshop 2026 A 90-minute workshop with Jimmy Kostro on entrepreneurship, career paths, and using AI to shape an idea.",
-      "August 8, 2026 BitDevs Q10: BIP110 activation Build on Bitcoin meetup on BIP110 activation and more, hosted by Piccolo and co-hosts.",
-      "July 18, 2026 Not your keys, not your coins Beginner-friendly workshop on safely storing Bitcoin with a hardware wallet, step-by-step.",
-      "An intro to SeedSigner, the open-source alternative to proprietary hardware wallets.",
-      "July 5, 2026 BLC and Dude Run Club A community run bringing the Bitcoin Learning Center together with Dude Run Club.",
-      "June 13, 2026 Not your keys, not your coins Beginner-friendly workshop on safely storing Bitcoin with a hardware wallet, step-by-step."
+      "An intro to SeedSigner, the open-source alternative to proprietary hardware wallets."
     ],
     "coverImages": [
       "/popups/blc/bitcoincentergallery1.webp",
@@ -745,7 +703,6 @@ export const popupData: Popup[] = [
       "The network now spans more than 80 countries with hundreds of events run by local ambassadors.",
       "Ambassadors receive playbooks to reserve cafes, coordinate RSVPs on Luma, and welcome local AI builders for a few hours of coworking.",
       "The format stays intentionally lightweight: no monthlong visas, just repeatable city-level events that scale through volunteers.",
-      "Cafe Cursor - Popup cafes for AI developers Cafe Cursor Popup cafe takeovers where Cursor users gather to code and build together over coffee and credits.",
       "Following initial events in San Francisco and New York, the project grew through community ambassadors.",
       "Nov 2025 Open call for hosts Applications opened for community hosts worldwide.",
       "Jan 2026 Global expansion The network expanded to Europe, Asia, Africa, and Latin America.",
@@ -809,7 +766,7 @@ export const popupData: Popup[] = [
         "date": "2026-04-29"
       }
     ],
-    "pricingSummary": null
+    "pricingSummary": "Most local Cafe Cursor editions are free or low-cost community gatherings · Host support may include Cursor credits depending on the edition"
   },
   {
     "slug": "morazan",
@@ -842,7 +799,6 @@ export const popupData: Popup[] = [
       "The charter-city model pairs private development with written rules so operators know how permits, security, and services work before they move in.",
       "International observers watch Morazán as a test of whether ZEDE-style governance can deliver safer housing for working families in northern Honduras.",
       "Distinctly focused on local blue-collar workers rather than expats, this self-sustaining community offers private security and customer-focused governance in a historically dangerous region.",
-      "2019 Ciudad Morazán Approved CAMP (Commission for the Adoption of Best Practices) officially approves the project.",
       "2022 ZEDE Law Repeal Honduran Congress repeals the ZEDE laws, triggering international arbitration.",
       "2025 Honduran Election New administration takes office, shaping the future of ZEDE protections."
     ],
@@ -875,8 +831,7 @@ export const popupData: Popup[] = [
     ],
     "locationDetails": [
       "Ciudad Morazán sits near Choloma in northern Honduras.",
-      "The site combines residential blocks with industrial workspace for local entrepreneurs.",
-      "Ciudad Morazan - Honduran blue collar startup city Ciudad Morazan A startup city in Honduras providing safe housing and modern amenities for blue collar families and entrepreneurs."
+      "The site combines residential blocks with industrial workspace for local entrepreneurs."
     ],
     "overview": [
       "Morazán markets itself as a blue-collar startup city with safe housing and modern amenities.",
@@ -937,10 +892,8 @@ export const popupData: Popup[] = [
       "The house includes makerspaces, gardens, a workshop, and a wood-fired hot tub, with hiking trails and a river nearby.",
       "Retreat organizers rent the Alpine house for multi-day regenerative commons gatherings without building a new venue each season.",
       "Hackers and artists share kitchen, garden, and workshop access during longer coliving stays.",
-      "Event Venue & Co-Living in the Austrian Alps | Commons Hub ACCOMMODATION VENUE EVENTS COMMUNITY ABOUT EN Loading… Welcome to the commons hub , a communal guesthouse and events venue in the Austrian Alps.",
       "A home to artists, hackers, and tinkerers exploring new perspectives across technology, economy, society, and nature.",
       "The kind of place that feels familiar, even if it’s your first time.",
-      "Commons Hub - Regenerative commons popup village Commons Hub A popup village for regenerative commons in the Austrian Alps.",
       "It is a home for artists, hackers, and tinkerers exploring new perspectives across technology, economy, society, and nature.",
       "The house has makerspaces, gardens, a workshop, and a wood-fired hot tub, with hiking trails and a river nearby."
     ],
@@ -1025,9 +978,7 @@ export const popupData: Popup[] = [
       "The work mixes blockchain tooling, local community organizing, and temporary city-scale gatherings in Buenos Aires.",
       "Crecimiento - Argentine tech innovation hub Crecimiento Making Argentina a global hub for tech innovation.",
       "2025 Aleph Editions Expand Popup events and programs grow the ecosystem with institutional partnerships.",
-      "Crecimiento is a global movement transforming Argentina into a hub for crypto and frontier tech innovation.",
-      "In 2025, Aleph March '25 set a record with 5,000+ attendees and Aleph Festival ran from August to November.",
-      "The movement has engaged 10,000 builders, supported 250+ start-ups, and secured backing from Protocol Labs , the Ethereum Foundation , and major Web3 protocols."
+      "Crecimiento is a global movement transforming Argentina into a hub for crypto and frontier tech innovation."
     ],
     "coverImages": [
       "/popups/xyz/crecimiento/crecimientogallery1.webp",
@@ -1043,7 +994,7 @@ export const popupData: Popup[] = [
       "Aleph de Verano and Aleph March '25",
       "Free admission with application required. Selected start-ups gain 24/7 Hub access, dedicated programming, mentorship, and investor networking"
     ],
-    "pricingSummary": "Aleph, Ciudad de Crecimiento Aleph Passport: $20/month. Access to social hangouts and most programming",
+    "pricingSummary": "Aleph, Ciudad de Crecimiento · Aleph Passport: $20/month. Access to social hangouts and most programming · Co-living: $200/month. Access to cultural, social, and wellness activities · Co-building: $600/month. Access to Aleph Hub co-working · Argentines received a 50% discount on all tickets · Aleph de Verano and Aleph March '25 · Free admission with application required. Selected start-ups gain 24/7 Hub access, dedicated programming, mentorship, and investor networking",
     "amenities": [
       "24/7 co-working (250-300 capacity)",
       "Wi-Fi, wellness sanctuary, fitness, and event spaces",
@@ -1060,25 +1011,18 @@ export const popupData: Popup[] = [
       "Unconference. Community-led events and workshops"
     ],
     "history": [
-      "Crecimiento was founded in 2024, hosting Aleph, Ciudad de Crecimiento in August - a month-long pop-up city that attracted over 2,500 participants and 60+ start-ups",
       "Later that summer, it hosted Aleph de Verano",
-      "In 2025, Aleph March '25 set a record with 5,000+ attendees and Aleph Festival ran from August to November",
-      "The movement has engaged 10,000 builders, supported 250+ start-ups, and secured backing from Protocol Labs, the Ethereum Foundation, and major Web3 protocols",
       "The naming inspiration for Crecimiento's events is The",
-      "Aleph, a short story by Jorge Luis Borges",
-      "which describes Aleph as a point in space that contains all other points"
+      "Aleph, a short story by Jorge Luis Borges which describes Aleph as a point in space that contains all other points"
     ],
     "durationNotes": [
       "Crecimiento's pop-up villages usually range from 2 weeks to 1 month",
       "The Aleph Hub operates as a year-round permanent co-working space",
       "Its cornerstone is Aleph, an annual, month-long popup village in Buenos Aires that gathers builders to live, build, and test real-world applications alongside local policymakers.",
       "Beyond the popup event, Crecimiento operates a year-round curated permanent hub in Buenos Aires.",
-      "August 2024 First Aleph Popup City Month-long Buenos Aires urban lab convenes 2,000+ builders and investors.",
       "April 2026 Uniswap Acceleration Season 6-week DeFi program with Uniswap Foundation."
     ],
-    "locationDetails": [
-      "Crecimiento centers operations in Buenos Aires, Argentina. Pop-up villages and the Aleph Hub co-working space are located in the Palermo and Colegiales neighborhoods"
-    ],
+    "locationDetails": [],
     "overview": [
       "Crecimiento is a global movement transforming Argentina into a hub for crypto and frontier tech innovation"
     ],
@@ -1137,15 +1081,12 @@ export const popupData: Popup[] = [
       "Phase-one openings in 2023 proved demand for car-free infill next to light rail in greater Phoenix.",
       "By 2025 Culdesac reports more than three hundred residents and twenty on-site businesses operating in the Tempe district.",
       "View Floor Plans Schedule Tour Welcome To Culdesac Tempe First walkable community of its kind — embracing a culture of belonging, transportation freedom, and thriving local businesses.",
-      "View Floor Plans Schedule Tour Come connect with us Come connect with us Living at Culdesac Tempe Culdesac Tempe means living connected with those around you — your neighbors, local businesses, and the broader city.",
       "Culdesac courtyards, shared spaces, and events make it easy to build community.",
       "As a resident, you'll receive unlimited free rides on the metro, free & discounted rideshare and ridehail, as well as Bird scooters just a moment away.",
       "You're just a quick stroll away from all your essentials at the corner market, a quick haircut, or a cozy dinner at Cocina Chiwas.",
       "Culdesac local community businesses provide goods and services for aesthetics, wellness, clothing, homemade goods, treats & accessories with even more coming soon.",
       "Check out all of Culdesac's small businesses or come visit and meet them!",
-      "View Retail Shops and Restaurants Award-Winning Retail Program At Culdesac Tempe, Culdesac's retailers are award-winners, community leaders, and visionaries.",
       "It has 17 acres of apartments, local shops, plazas, and paths situated right next to a light rail station in Tempe, Arizona.",
-      "Nov 2019 Groundbreaking Construction begins on Culdesac Tempe, the first project on a 17-acre infill site in Tempe, Arizona.",
       "May 2023 First Residents Phase one opens and initial residents move into the car-free community.",
       "2025 Community Expansion Culdesac Tempe reaches over 350 residents and 21 local businesses with additional buildings, mature landscaping, and full amenities operational."
     ],
@@ -1254,7 +1195,7 @@ export const popupData: Popup[] = [
       "Housing, meals, personal travel are not included",
       "Edge City usually runs early bird ticket campaigns"
     ],
-    "pricingSummary": "Ticket prices for Edge City's pop-up villages range from $1,000 to $3,000, depending on location, duration of stay, timing of booking, and ticket type Tickets include:",
+    "pricingSummary": "Ticket prices for Edge City's pop-up villages range from $1,000 to $3,000, depending on location, duration of stay, timing of booking, and ticket type · Tickets include: · Full programming access. Talks, hackathons, themed weeks, and spontaneous sessions · Shared spaces. Co-working, gym/fitness environments, social venues · Community rhythm. Group meals, workouts, and daily coordination tools · Network effects. Direct access to builders, funders, and collaborators · Housing, meals, personal travel are not included · Edge City usually runs early bird ticket campaigns",
     "amenities": [
       "Amenities in Edge City’s pop-up villages typically feature:",
       "Fitness classes (yoga, HIIT, strength training)",
@@ -1265,8 +1206,6 @@ export const popupData: Popup[] = [
     ],
     "history": [
       "Edge City emerged from the Zuzalu movement, with the goal of creating a network city",
-      "Inspired by the pioneer pop-up city in Montenegro, Edge City was launched in 2024 at Edge City Denver. That year, it hosted its first pop-up villages - Edge Esmeralda (California) and Edge City Lanna (Chiang Mai)",
-      "In 2025, apart from the recurring Edge Esmeralda, it expanded to South Africa, Bhutan, and Argentina",
       "For 2026, Edge Esmeralda returns for its third edition, running from May 30 to June 27",
       "Edge City’s co-founder Janine Leger was a core organizer at Zuzalu",
       "2024 - UP NEXT Edge Esmeralda '24 Healdsburg, CA June 2 – 29,",
@@ -1284,9 +1223,9 @@ export const popupData: Popup[] = [
       "2025 - Edge Esmeralda",
       "2026 - Edge Esmeralda",
       "2026 - Upcoming monthlong flagship popup village in Healdsburg, CA beginning May",
-      "2024 - Edge City Austin ,",
-      "2025 - Edge City South Africa ,",
-      "2025 - Edge City Bhutan ,"
+      "2024 - Edge City Austin,",
+      "2025 - Edge City South Africa,",
+      "2025 - Edge City Bhutan,"
     ],
     "durationNotes": [
       "The typical Edge City pop-up village runs for 1 to 2 months, grouping approximately 1,000 people with 200-300 full-time residents",
@@ -1301,7 +1240,6 @@ export const popupData: Popup[] = [
       "Edge City Bhutan, 2025"
     ],
     "overview": [
-      "Founded by Timour Kosters and Janine Leger, Edge City operates as a society incubator that hosts month-long pop-up villages worldwide",
       "Edge City emphasizes four core principles :",
       "Building and co-creating where everyone contributes",
       "Multidisciplinary connections for breakthroughs",
@@ -1364,14 +1302,11 @@ export const popupData: Popup[] = [
       "Builders use Eth-iopia editions to meet Ethiopia-based founders before committing to longer stays.",
       "ETHiopia's January 2025 pop-up brought together more than 100 participants for hackathons and conference programming.",
       "The initiative focuses on DeFi, governance, and crypto's role in African economies.",
-      "Participants joined from across Africa and abroad for talks on DeFi, local governance experiments, and Ethereum tooling.",
       "Organizers positioned the pop-up as a bridge between global Ethereum research circles and Addis Ababa builders.",
       "ETHiopia is a pop-up village initiative focused on advancing Ethereum and decentralized technologies in Africa through immersive co-living experiences.",
       "As of February 2026, ETHiopia appears inactive on social media.",
-      "The initiative supported local Ethereum projects and explored topics like DeFi, governance, and crypto's role in African economies.",
       "\" Dagim Jida, Ambassador at Base It was an eye-opening experience.",
       "The things I learned, the connections I made and the inspiration I gained were priceless.",
-      "\" Kevin Chibuoyim, Co-Founder at BlockchainUNN Made good friends from Kenya, Togo, Uganda, Eritrea, Ghana, France, and many more countries.",
       "To foster Ethereum innovation in Africa through pop-up villages that connect global builders with local communities for collaboration on decentralized tech.",
       "Ethereum developers, researchers, entrepreneurs, and enthusiasts interested in blockchain's impact on African economies and governance."
     ],
@@ -1395,8 +1330,7 @@ export const popupData: Popup[] = [
     ],
     "history": [
       "ETHiopia was launched in 2024, aiming to connect Ethereum innovation to African communities",
-      "In January 2025, it hosted ETHiopia Pop-up, a one-month event in Addis Ababa that brought together over 100 participants for hackathons, conferences, and discussions on blockchain adoption",
-      "The initiative supported local Ethereum projects and explored topics like DeFi, governance, and crypto's role in African economies"
+      "In January 2025, it hosted ETHiopia Pop-up, a one-month event in Addis Ababa that brought together over 100 participants for hackathons, conferences, and discussions on blockchain adoption"
     ],
     "durationNotes": [
       "ETHiopia's pop-up village lasted 1 month",
@@ -1443,11 +1377,11 @@ export const popupData: Popup[] = [
       "Forma began by running popup villages and Solana economic zone experiments in frontier markets.",
       "The team is now concentrating on a permanent campus direction, with the UK called out as a current build target.",
       "It sits in the overlap between temporary Zu-style gatherings and longer-horizon jurisdiction work.",
-      "Forma B u i l d s o m e t h i n g o n t h e i n t e r n e t , i t w i l l c h a n g e y o u r l i f e .",
+      "Forma B u i l d s o m e t h i n g o n t h e i n t e r n e t, i t w i l l c h a n g e y o u r l i f e.",
       "Forma is a home for the founders and artists building on it.",
-      "2 0 2 3 B u i l d s o m e t h i n g o n t h e i n t e r n e t , i t w i l l c h a n g e y o u r l i f e .",
-      "2 0 2 3 A n A I f r i e n d w h o h e l p s y o u t u r n y o u r i d e a o r p a s s i o n i n t o a b u s i n e s s .",
-      "Text Locky A n A I f r i e n d w h o h e l p s y o u t u r n y o u r i d e a o r p a s s i o n i n t o a b u s i n e s s ."
+      "2 0 2 3 B u i l d s o m e t h i n g o n t h e i n t e r n e t, i t w i l l c h a n g e y o u r l i f e.",
+      "2 0 2 3 A n A I f r i e n d w h o h e l p s y o u t u r n y o u r i d e a o r p a s s i o n i n t o a b u s i n e s s.",
+      "Text Locky A n A I f r i e n d w h o h e l p s y o u t u r n y o u r i d e a o r p a s s i o n i n t o a b u s i n e s s."
     ],
     "coverImages": [
       "/popups/xyz/forma/formagallery1.webp",
@@ -1460,14 +1394,12 @@ export const popupData: Popup[] = [
       "Tickets included access to the full program and shared spaces",
       "Accommodation, transportation, and most meals were not included in any of the pop-ups"
     ],
-    "pricingSummary": "Tickets were 1 SOL for both Forma Sri Lanka and Forma Georgia. Locals had free access Forma Argentina was free for everyone",
+    "pricingSummary": "Tickets were 1 SOL for both Forma Sri Lanka and Forma Georgia. Locals had free access · Forma Argentina was free for everyone · Tickets included access to the full program and shared spaces · Accommodation, transportation, and most meals were not included in any of the pop-ups",
     "amenities": [],
     "history": [
       "Forma emerged from the Solana ecosystem in 2024, transforming on-chain communities into real-world economic zones",
       "In March 2024, it hosted a two-week pop-up village, Forma Argentina, gathering 249 residents",
-      "In 2025, it ran the Forma Sri Lanka and Forma Georgia pop-up zones and hosted the 1-day Solana Economic Zone Kazakhstan",
-      "Forma plans to focus on building permanent Solana Economic Zones and is in late-stage",
-      "discussions with three countries"
+      "Forma plans to focus on building permanent Solana Economic Zones and is in late-stage discussions with three countries"
     ],
     "durationNotes": [
       "Forma’s pop-up villages last one to two weeks",
@@ -1553,7 +1485,7 @@ export const popupData: Popup[] = [
       "Access to the spaces, special voting rights, and discounted hotel stays",
       "Builders under 25, as well as university teachers, students, and researchers can apply for a scholarship"
     ],
-    "pricingSummary": "Citizen $190/month billed monthly",
+    "pricingSummary": "$190/month billed monthly · Access to the spaces · Founding Citizen · $150/month billed annually · Access to the spaces, special voting rights, and priority access to events · $500/month billed monthly · Access to the spaces, special voting rights, and discounted hotel stays · Builders under 25, as well as university teachers, students, and researchers can apply for a scholarship",
     "amenities": [
       "Amenities in Frontier Tower include:",
       "Co-working spaces",
@@ -1568,7 +1500,6 @@ export const popupData: Popup[] = [
     "history": [
       "Frontier Tower is inspired by the fall of the Berlin Wall",
       "In the 1990s, tens of thousands of people left East Berlin, leaving unoccupied buildings which came to serve as hubs for creative communities to emerge",
-      "The team at Frontier Tower sees that, nowadays, a lot of offices are being abandoned across cities and an analogous chance is emerging. In 2013, it built a co-living house in Leipzig called Ost-Apotheke, which brought together 35 students, artists and musicians",
       "In 2025, Deep Ink Ventures and Berlinhouse materialized this vision and bought the 16-story building for $11 million",
       "Throughout the first year, the place hosted network state-related events, like the Viva Frontier Tower pop-up village, and is expected to launch a residency program soon"
     ],
@@ -1577,7 +1508,6 @@ export const popupData: Popup[] = [
     ],
     "locationDetails": [
       "Frontier Tower is located at 995 Market Street, in downtown San Francisco",
-      "The team plans to expand to Buenos Aires, New York, Hong Kong, London, Toronto and Los Angeles in the future",
       "The next location for a Frontier Tower is chosen according to a competition between cities"
     ],
     "overview": [
@@ -1652,12 +1582,10 @@ export const popupData: Popup[] = [
       "Futura Camp, formerly ZuBerlin, runs immersive coliving residencies in Berlin, often at Funkhaus.",
       "Programs blend technical depth with small-group discussion for researchers, founders, and protocol designers.",
       "Editions align with Berlin Blockchain Week and partner summits hosted at the same venue complex.",
-      "June 2026 Futura Camp programming at Funkhaus includes partner tracks on neocypherpunk privacy, Ethereum infrastructure, and sovereign AI.",
       "ZuBerlin alumni describe the residency as a small-group alternative to conference halls during Berlin Blockchain Week.",
       "An immersion into the future blending cutting edge tech with deep human connection.",
       "Working, researching and personal time among the most impactful individuals of Futura Camp (ZuBerlin)'s current era.",
-      "13.06 Opening 🌱 14.06 Neocypherpunk Summit web3privacy 15.06 Ethereum Day Beach BBQ 16.06 Sovereign AI Sanctuary Tech 17.06.",
-      "June 2026 Futura Camp Rebrand Rebranded to Futura Camp for its third iteration, featuring partner summits at Funkhaus."
+      "13.06 Opening 🌱 14.06 Neocypherpunk Summit web3privacy 15.06 Ethereum Day Beach BBQ 16.06 Sovereign AI Sanctuary Tech 17.06."
     ],
     "coverImages": [
       "/popups/zuberlin/zuberlingallery1.webp",
@@ -1682,10 +1610,8 @@ export const popupData: Popup[] = [
       "Typical Futura Camp / ZuBerlin residencies run about two weeks.",
       "June 2026 programming is scheduled for June 13–22 at Funkhaus Berlin.",
       "A highly curated residency offering a unique blend of cutting edge learning and deep immersive experience.",
-      "Futura Camp (ZuBerlin) - Immersive tech coliving residency Futura Camp (ZuBerlin) An immersive coliving residency.",
       "They recently rebranded to Futura Camp and aim to create a highly curated residency that brings researchers, founders, and technologists together.",
       "Participants engage in principled discussions on topics like protocol architecture, cryptography, MEV, sovereign AI, future cities, and more while integrating with onsite partner events during Berlin Blockchain Week.",
-      "November 2024 ZuGarden Thailand Ran a three week popup village combining Devcon 7 in Bangkok with an immersive island retreat.",
       "June 2025 ZuBerlin 2.0 Expanded coliving and programming for its second edition during Berlin Blockchain Week."
     ],
     "locationDetails": [
@@ -1752,16 +1678,10 @@ export const popupData: Popup[] = [
       "GMC's public materials describe a “Mindful Prosperity” roadmap across multiple priority industries.",
       "GMC's public FAQ outlines investor incentives, sector priorities, and the separation between Bhutanese federal law and SAR governance.",
       "It seeks to offer the world a different path of development, one where traditional Bhutanese values of spirituality and harmony with nature, blends with innovation, technology and economic vibrancy.",
-      "GMC also serves as His Majesty’s local vision to act as a catalyst of change for Bhutan’s administrative reform and economic advancement under the concept of “One Country, Two Systems”.",
-      "Through this Royal mandate, GMC is accorded full executive and legislative powers, with an independent judiciary, to govern the SAR separate from the Royal Government of Bhutan.",
       "Under the direct guidance of His Majesty, GMC will be run by global and local talents to build an advanced economy by adopting and adapting the best governing policies and business practices from around the world.",
-      "Core Industries and Sectors The idea of “Mindful Prosperity” is a recognition by His Majesty that the world cannot continue to develop at breakneck pace with little regard for humanity’s need to be in harmony with nature and the spiritual.",
       "Development should not come at all costs, but neither can it be denied.",
-      "It should be carried out in balance where both Mindfulness and Prosperity blend modernity, development and economic prosperity with Bhutan’s traditional values.",
       "To help achieve this vision, GMC’s “Mindfulness Prosperity” road map focuses on eight core priority industries.",
-      "Gelephu Mindfulness City - Bhutanese special economic zone Gelephu Mindfulness City Gelephu Mindfulness City is an emerging startup city and Special Economic Zone (SEZ) in Bhutan.",
-      "Operating under a One Country, Two Systems model, it will feature independent and business-friendly laws.",
-      "Backed by a 10,000 Bitcoin development pledge , GMC has already started to collaborate with startup societies and ecosystems like Edge City , Ethereum , and Solana ."
+      "Operating under a One Country, Two Systems model, it will feature independent and business-friendly laws."
     ],
     "coverImages": [
       "/popups/gelephu/gelephugallery1.webp",
@@ -1777,8 +1697,7 @@ export const popupData: Popup[] = [
     "durationNotes": [],
     "locationDetails": [
       "Gelephu Mindfulness City is in southern Bhutan near the Indian border.",
-      "The SAR covers roughly ten percent of Bhutan's land area.",
-      "Located in Bhutan’s southern plains bordering the State of Assam in India and spanning over 4,046 km², or 10% of Bhutan, GMC was established by Royal Charter in February 2024 as a highly autonomous Special Administrative Region (SAR)."
+      "The SAR covers roughly ten percent of Bhutan's land area."
     ],
     "overview": [
       "GMC combines Bhutanese values around mindfulness and nature with economic development goals.",
@@ -1837,9 +1756,9 @@ export const popupData: Popup[] = [
       "Each cohort invites a small group of founders to live and build together in a villa with dedicated workspaces.",
       "The May 2026 batch advertises housing, food, laundry, and a private bedroom plus workstation for participants.",
       "The Da Nang villa cohort caps at about ten founders so everyone receives a private room and dedicated desk for the month.",
-      "Led by world-class hackers Travis Fischer Founder of Agentic .",
-      "USA Tony Dinh Making over $2M ARR solo while building typingmind.com and devutils.com .",
-      "Vietnam Minh-Phuc Tran Built 8 startups in 12 months • Sold 3/8 startups • Building vibingbase.com .",
+      "Led by world-class hackers Travis Fischer Founder of Agentic.",
+      "USA Tony Dinh Making over $2M ARR solo while building typingmind.com and devutils.com.",
+      "Vietnam Minh-Phuc Tran Built 8 startups in 12 months • Sold 3/8 startups • Building vibingbase.com.",
       "Vietnam David Park Built Raya & Kippo and then 120 other apps you've never heard of because they failed.",
       "USA The villa A stunning 14-bedroom villa with pool, workspace, and ocean views.",
       "HRG started as an experiment with a few goals in mind: 1.",
@@ -1864,7 +1783,6 @@ export const popupData: Popup[] = [
     "durationNotes": [
       "HRG residencies are structured as one-month live-in build sprints.",
       "The May 2026 program runs May 1 through May 31 in Da Nang.",
-      "HRG Apply FAQ Batches An Experimental Hacker Residency in Da Nang, Vietnam May 1st – May 31st, 2026 Hacker Residency Group're inviting 10 ambitious founders to come live and build with us for 1 month at a dope villa in SE Asia.",
       "Hacker Residency Group cover the villa, food, laundry, your own private bedroom + bathroom + workstation, a professional videographer, and Hacker Residency Group even have some surprises in store as well...",
       "Apply to come live & build with us for the month!",
       "Hacker Residency Group - Coliving residency for indie hackers Hacker Residency Group HRG is a new residency for ambitious indie hackers to lock in."
@@ -1927,7 +1845,7 @@ export const popupData: Popup[] = [
       "Gene therapies over breakfast, startups in swimsuits, billionaires dropping by.",
       "It is a network state on the marking, a model for the cities of tomorrow.",
       "You'll find yourself among a diverse set of builders, philosophers, BTC maxis and longevity enthusiasts.",
-      "‍ 5:29 AM · Feb 10, 2025 · 401 Views Erick A.",
+      "5:29 AM · Feb 10, 2025 · 401 Views Erick A.",
       "I'll review my experience & impressions and preview this article that will also compare \"startup societies\" to Infinita's legacy governments.",
       "This is my second time visiting to receive a safe therapy, in a clinical trial, on the frontiers of regenerative medicine.",
       "P r óspe r a, w h ere t h e f r o n tie r m eets r eality Próspera creates the conditions for experimentation, entrepreneurship, and ambitious collaboration to thrive."
@@ -1943,7 +1861,7 @@ export const popupData: Popup[] = [
       "Villas. 2-5 bedrooms",
       "Rooms or Villas. 1-3 bedrooms"
     ],
-    "pricingSummary": "Infinita City offers multiple housing options Beta Hostel",
+    "pricingSummary": "Infinita City offers multiple housing options · Private rooms. 1-2 bedrooms · Villas. 2-5 bedrooms · Rooms or Villas. 1-3 bedrooms",
     "amenities": [
       "Shared or private bedrooms",
       "Co-working space",
@@ -1961,23 +1879,16 @@ export const popupData: Popup[] = [
       "Professional service providers ranging from $349 to $10,000"
     ],
     "history": [
-      "Built on top of Próspera 's infrastructure, Infinita City is the continuation of the work behind Vitalia City",
-      "From January to March 2024, in Próspera, Vitalia City hosted Vitalia, one of the first pop-up villages focused on longevity and biotech",
-      "Later, Vitalia got rebranded to Infinita City under the leadership of Niklas Anzinger, one of the former co-founders",
       "During 2025, it launched a digital token - $LIVES - and hosted 3 pop-up villages",
       "Infinita City 2025",
       "In 2026, Infinita hosts BioHub Residency, Infinite Games, and a series of other events",
-      "2026 - Infinita Roatán LLC Incorporated in Próspera 9G9H+45 Crawfish Rock, Honduras Design by Apofenia Studio Sunset Flag",
       "2025 - January - March Crypto Cities June Bio-Frontiers September In"
     ],
     "durationNotes": [
       "Infinita's hub, home to its community, is permanent and hosts people all year round",
       "Its pop-up villages last 1 to 2 months"
     ],
-    "locationDetails": [
-      "Infinita has a physical hub with multiple buildings in Próspera, the special economic zone on the island of Roatán, Honduras, where it hosts pop-up villages and other events",
-      "‍ A place truly built for progress Located on Roatán Honduras and connected to the world, it's easy to get here and hard to leave Learn more Plan your stay  Have questions?"
-    ],
+    "locationDetails": [],
     "overview": [
       "Infinita is a layer-two network state at Próspera, Honduras, where founders create in longevity, biotech, science, and computation"
     ],
@@ -2027,16 +1938,14 @@ export const popupData: Popup[] = [
       "Invisible Garden moves as a developer academy wrapped in popup-city living.",
       "Curriculum themes include Ethereum, zero-knowledge proofs, AI, and cybersecurity.",
       "Buenos Aires is a frequent anchor, with community channels spanning Discord and Telegram.",
-      "Chiang Mai 2024 · Buenos Aires 2025 Past editions Get updates What next Invisible Garden Reunion, India 27 October to 7 November 2026 India Twelve days in India , with the community from previous editions.",
-      "It overlaps Devcon 8 in Mumbai , 3 to 6 November 2026 .",
+      "It overlaps Devcon 8 in Mumbai, 3 to 6 November 2026.",
       "Vitalik Buterin Co-founder, Ethereum Skylar Devcon, Ethereum Foundation Tomasz K.",
       "X Telegram Discord YouTube Editions © 2026 Invisible Garden Operations LLC.",
       "Invisible Garden is a pop-up dev city and developer academy that cultivates Ethereum, zero-knowledge, AI, and cybersecurity talent through immersive environments.",
       "An edition in Costa Rica was planned for early 2025 but postponed to Buenos Aires to align better with event calendars.",
       "The scholarship includes accommodation, co-working spaces, and advanced courses on Ethereum, ZKP, AI, and cybersecurity.",
       "“ I’ve met amazing and inspiring people from all over.",
-      "” Aaron Misash, Developer and Fellow at Invisible Garden These topics are truly my passion, they even shaped my university research phase, when I was exploring anonymous and scalable transactions on Ethereum Layer 2.",
-      "Apply for upcoming fellowships and residencies, often announced on X .",
+      "Apply for upcoming fellowships and residencies, often announced on X.",
       "Join as a mentor or speaker in pop-up dev cities."
     ],
     "coverImages": [
@@ -2051,18 +1960,16 @@ export const popupData: Popup[] = [
     "amenities": [],
     "history": [
       "Invisible Garden hosted Invisible Garden Chiang Mai in 2024, a six-week pop-up village where nearly 70 builders successfully completed the program",
-      "In 2025, it expanded to Latin America with Invisible Garden Buenos Aires, a three-week residency before Devcon, featuring mentors from Ethereum Foundation, OpenZeppelin, and the-mu",
       "An edition in Costa Rica was planned for early 2025 but postponed to Buenos",
       "Aires to align better with event",
       "2025 - Past editions Get updates What next Invisible Garden Reunion, India 27 October to 7 November",
-      "2024 - Read the recap Past edition Buenos Aires , Argentina Buenos Aires",
+      "2024 - Read the recap Past edition Buenos Aires, Argentina Buenos Aires",
       "2024 - and Buenos Aires",
       "2026 - Invisible Garden Operations LLC"
     ],
     "durationNotes": [
       "Invisible Garden's pop-up villages typically last 3 to 6 weeks",
-      "Since 2024 it has run as pop-up dev cities: a few weeks in one place, a cohort of builders, and mentors who teach in the room rather than over video.",
-      "In 2025, it expanded to Latin America with Invisible Garden Buenos Aires , a three-week residency before Devcon, featuring mentors from Ethereum Foundation, OpenZeppelin, and the-mu."
+      "Since 2024 it has run as pop-up dev cities: a few weeks in one place, a cohort of builders, and mentors who teach in the room rather than over video."
     ],
     "locationDetails": [
       "Invisible Garden is traveling, hosting pop-up cities in various locations",
@@ -2105,10 +2012,7 @@ export const popupData: Popup[] = [
       "Ipê City is known for Brazil’s early popup-city experiments around blockchain governance, AI tools, and startup-society practice.",
       "The community now frames itself more broadly as builders of social technologies for internet-native cities.",
       "Expect monthlong co-living intensity with a strong South American base and global participation.",
-      "Ipê City documents village governance and popup schedules for Brazil-focused editions on its public documentation site.",
-      "What Is Ipê Village | Ipê City 🇺🇸 Ipê City ⌘ Ctrl k 🇺🇸 Ipê City IPÊ VILLAGE 2026 🏗️ What Is Ipê Village 👩‍🔬 Ipê City's Concrete Vision 🛠️ How To Collaborate?",
-      "💲 Pricing - Ipê Passports 💲 How to pay any ticket in crypto IPÊ CITY 🌼 What is Ipê City ⛏️ Why Now?",
-      "🎯 Ipê City's Goals 💙 Ipê City's Values ⭐ Becoming a Member COMMUNITY ✅ Community Guidelines PULSE 🫀 What is PULSE?"
+      "Ipê City documents village governance and popup schedules for Brazil-focused editions on its public documentation site."
     ],
     "coverImages": [
       "/popups/xyz/ipe-city/ipecitygallery1.webp",
@@ -2129,25 +2033,18 @@ export const popupData: Popup[] = [
       "Architect passports are limited. Applicants must undergo a selection process and stay in the",
       "pop-up village for at least 3 weeks"
     ],
-    "pricingSummary": null,
+    "pricingSummary": "$400 full month or $150/wk · Access to coworking and events · 6-month access to Ipê community · Everything in Explorer · Access to $10k+ in grants · 1-year access to Ipê community · Price info upon request · Launch in real-world sandbox · Iterate daily with early adopters · Integrate product and collect data · Architect passports are limited. Applicants must undergo a selection process and stay in the · pop-up village for at least 3 weeks",
     "amenities": [
       "Fitness sessions",
       "Talks and conferences",
-      "Hacker houses hosting workshops, lectures, and events",
-      "Participants must book their own accommodation on Airbnb or hotels. Ipê City might share a list of discounted places"
+      "Hacker houses hosting workshops, lectures, and events"
     ],
-    "history": [
-      "Ipê City was founded in 2023 by Jean Hansen, driven by the frustration with the stagnant, deteriorating state of Western governance and culture",
-      "In 2025, it hosted Brazil's first pop-up city, Ipê Village I, a one-month event in Florianópolis. Over 300 participants lived together and prototyped solutions for governance",
-      "In 2026, Ipê City is hosting Ipê Village II, expanding on the previous edition with a focus on prototyping the operating system of a new city"
-    ],
+    "history": [],
     "durationNotes": [
-      "Both pop-up villages - Ipê Village I and Ipê Village II - run for 1 month. Participants can join for the full duration or shorter periods",
       "Ipê City aims to evolve into a permanent network of villages, condominiums, cottages, and",
       "small towns worldwide where members can move, stay, and own property"
     ],
     "locationDetails": [
-      "Ipê City runs its events in Florianópolis, Brazil, specifically in the Jurerê Internacional neighborhood for pop-up villages",
       "Florianópolis is one of Brazil's largest tech hubs with 2,000+ start-ups"
     ],
     "overview": [
@@ -2205,16 +2102,13 @@ export const popupData: Popup[] = [
       "IslandDAO runs monthlong coworking and community popups with a Solana-native culture.",
       "Mykonos is a named geography, but the operating pattern is location-flexible.",
       "Expect builder density first, jurisdiction theater second.",
-      "IslandDAO | Solana's Global Builder Community Events Hackathon App FAQ Brazil — 19 Oct – 11 Nov Connect Next up: IslandDAO Brazil — 19 Oct – 11 Nov 2026 IslandDAO — Solana Build Together.",
       "Every IslandDAO retreat is island-based and chosen for inspiration and productivity — fast wifi, coworking spots, always with the right people in the room.",
       "A team with an idea coming to the island to connect with mentors, builders and founders, and win.",
       "Solana curious — the best place to enter the ecosystem.",
       "Find your first users and power users, to give you invaluable feedback for your startup.",
       "Get first access to event applications, ecosystem updates, and what's happening in the IslandDAO community.",
-      "Community IslandDAO's Story Events Hackathon Governance FAQ Resources Brand Guidelines Terms of Service Privacy Policy © 2026 IslandDAO.",
       "IslandDAO, formerly known as Dean's List DAO, is a Web3-native network state on Solana.",
-      "In 2023, it formed regional teams in Nigeria and Brazil, bringing education and opportunities to communities.",
-      "For 2026, IslandDAO plans to organize two pop-up villages: IslandDAO Thailand and IslandDAO Brazil ."
+      "In 2023, it formed regional teams in Nigeria and Brazil, bringing education and opportunities to communities."
     ],
     "coverImages": [
       "/popups/xyz/islanddao/boat.webp",
@@ -2224,13 +2118,12 @@ export const popupData: Popup[] = [
       "To attend IslandDAO's events, one needs to be a member",
       "Membership is obtained via IslandDAO Perks NFTs, with a floor price around $200"
     ],
-    "pricingSummary": "To attend IslandDAO's events, one needs to be a member Membership is obtained via IslandDAO Perks NFTs, with a floor price around $200",
+    "pricingSummary": "To attend IslandDAO's events, one needs to be a member · Membership is obtained via IslandDAO Perks NFTs, with a floor price around $200",
     "amenities": [
       "IslandDAO's pop-up villages usually feature co-working spaces, social gatherings, hackathons, and workshops",
       "Travel and accommodation should be self-arranged"
     ],
     "history": [
-      "IslandDAO started in 2022 as Dean's List DAO, a service organization focusing on providing feedback to Solana protocols and supporting ecosystem growth",
       "In 2023, it formed regional teams in Nigeria and Brazil, bringing education and opportunities to communities",
       "By 2024, it rebranded to IslandDAO and hosted two pop-up cities:",
       "IslandDAO Koh Samui",
@@ -2247,10 +2140,7 @@ export const popupData: Popup[] = [
       "IslandDAO has helped more than 14 Colosseum winners, incubator and accelerator cohort members across the Solana ecosystem.",
       "Running month-long retreats, hackathons and events that bring the ecosystem together and help founders win."
     ],
-    "locationDetails": [
-      "IslandDAO hosts events and pop-up villages worldwide. It isn't tied to a specific location, though events frequently occur in Greece, Thailand, and Brazil",
-      "It isn't tied to a specific location, though events frequently occur in Greece , Thailand , and Brazil ."
-    ],
+    "locationDetails": [],
     "overview": [
       "IslandDAO, formerly known as Dean's List DAO, is a Web3-native network state on Solana",
       "Execution through trustless systems"
@@ -2298,14 +2188,6 @@ export const popupData: Popup[] = [
     "body": [
       "Itana is building a digital economic zone in Lagos for technology and service-based companies.",
       "Companies incorporate through Itana’s digital zone rather than joining a temporary coliving cohort.",
-      "Fast incorporation 3-day visa processing Data sovereignty assurance Ecosystem Access Connect to a curated ecosystem of talent, capital, strategic partners, and peer founders through the Itana Community.",
-      "3,000+ community members Vetted service providers Exclusive networking events Growth-Ready Infrastructure Digital and physical infrastructure, including world-class workspaces in the Itana District within Alaro City, Nigeria.",
-      "Elastic compute & AI capabilities Guaranteed internet uptime Premium physical facilities Trusted by Forward-Thinking Companies Join over 100 companies that chose Itana for their African market entry.",
-      "Additionally, Itana have expatriates from different parts of the world; not only is there a limited expatriate quota, but the cost is quite high.",
-      "I’m pumped that Itana is helping to solve all of these problems.",
-      "Their team is always quick to respond, and their fast-tracked immigration services have made it significantly easier for Itana's expatriates to settle in and start work without delays.",
-      "A great starting point to get support, privileged information, and a high-trust network of professionals with vast industry and ecosystem access.",
-      "Business Company Formation + Streamlined application process and one-stop-shop platform to fast-track your time-to-operation in Nigeria and across Africa.",
       "Perfect for businesses looking to scale operations in Africa, leveraging tax, banking, infrastructure, trade, and immigration benefits.",
       "Great for short-term in-person team sprints, company retreats, or long-term co-working and living with a full-scale residential and commercial ecosystem with in-built ESG considerations."
     ],
@@ -2318,30 +2200,23 @@ export const popupData: Popup[] = [
       "Setting up a business in Itana costs $2,000 for the first year, with a $1,150 renewal fee each year after",
       "Itana Digital Residency is $250 per year"
     ],
-    "pricingSummary": "Setting up a business in Itana costs $2,000 for the first year, with a $1,150 renewal fee each year after Itana Digital Residency is $250 per year",
+    "pricingSummary": "Setting up a business in Itana costs $2,000 for the first year, with a $1,150 renewal fee each year after · Itana Digital Residency is $250 per year",
     "amenities": [],
     "history": [
       "In 2023, Itana raised $2M pre-seed funding to become Africa's first digital free zone",
       "In 2024, it partnered with Africa Finance Corporation for a $100 million project to develop the zone",
       "By 2025, the zone hosted over 50 companies, with half founded by the African diaspora",
-      "Construction of Itana District in Alaro City is in progress, with the first phase set to welcome",
-      "residents by 2027"
+      "Construction of Itana District in Alaro City is in progress, with the first phase set to welcome residents by 2027"
     ],
     "durationNotes": [
       "Itana offers permanent digital residency and business operations with no fixed duration",
-      "Community Itana Digital Residency A private, curated community for founders, business owners, and professionals who want to build, grow, and invest in Africa."
+      "Itana Digital Residency is a private, curated community for founders, business owners, and professionals who want to build, grow, and invest in Africa."
     ],
     "locationDetails": [
       "Itana functions as a digital jurisdiction, allowing remote operations without physical presence in Nigeria",
-      "Its physical hub is planned for Alaro City, in Lagos, Nigeria",
-      "District Live - Work - Build Eco-friendly environment that fosters creativity, collaboration, and community for the digital economy, located in the economic capital of Africa – Lagos, Nigeria."
+      "Its physical hub is planned for Alaro City, in Lagos, Nigeria"
     ],
-    "overview": [
-      "Itana, formerly Talent City, operates as the first Digital Free Zone in Africa, a licensed special economic zone that allows global businesses to incorporate and operate in Nigeria remotely",
-      "companies incorporated",
-      "business setup time",
-      "community members"
-    ],
+    "overview": [],
     "xyzUrl": "https://xyz.city/network-states/itana",
     "posts": [],
     "socialEmbeds": [
@@ -2403,21 +2278,15 @@ export const popupData: Popup[] = [
       "Programming emphasizes slow-paced creative work beside the Kali River in Karnataka.",
       "Apply to Stay This is not a public hotel or resort.",
       "What residents are saying real comments, view on Instagram ↗ ★★★★★ Home away from home.",
-      "July - October 2026 Learn more What Jungli the Nomad're known for Colivings - with nomad needs sorted.",
       "Big, Soch, Serenne - each with its own character, all wired for deep work and easy belonging.",
-      "Explore Jungli the Nomad's colivings For the long-haul Villas - private, furnished, pet-friendly homes.",
       "Explore the villas Three meals a day, together The community gathers three times a day for meals.",
       "Authentic, home-cooked, generational recipes - made with a lot of love.",
       "And a meal here isn't a meal; it's a gathering.",
       "About Jungli the Nomad's food 150 acres The whole village, on one map.",
       "Jungli the Nomad pick you up from the airport, train station or bus stop, and bring you home.",
       "Jungli the Nomad lovingly handle the food, transport & community events so you earn that time back, to make your masterpiece or simply to breathe.",
-      "Life here can start from as little as $17 a day .",
-      "‹ The Team Your hosts, the Schae Family › Since Jungli the Nomad opened in April 2024 650+ people have found their way home.",
-      "Hear it from the Junglis Loading the wall of love… Built in consultation with hundreds of Junglis Be part of what's next .",
-      "Join the conversation Help shape Jungli's evolution in Jungli the Nomad's WhatsApp community.",
-      "Join the WhatsApp Community Stay in the loop Get Jungli the Nomad's newsletter on Jungli's evolution 🧬 Subscribe ✓ You're in!",
-      "▶ Jungli the Nomad's story, in 90 seconds × ‹ › Rotate this phone to landscape so you can see it in full screen Est."
+      "Life here can start from as little as $17 a day.",
+      "Join the conversation Help shape Jungli's evolution in Jungli the Nomad's WhatsApp community."
     ],
     "coverImages": [
       "/popups/jungli/cs-06-community-night.webp",
@@ -2472,11 +2341,9 @@ export const popupData: Popup[] = [
       "Expect software and organizing infrastructure more than a monthlong village calendar.",
       "Logos: Build the Parallel Testnet v0.2.1 is live for experimentation.",
       "Learn More LOGOS MENU Testnet v0.2.1 is live for experimentation.",
-      "Learn More LOGOS Take Action Explore Technology Research Install Basecamp Build the Parallel Build the Parallel Basecamp is the tool for living outside existing systems.",
       "Install Basecamp Start Building Logos is the private-by-default technology stack for parallel societies.",
       "Built for a world where existing systems have stopped working.",
       "Logos is for people who are done waiting for permission.",
-      "Read the manifesto 151 Contributors An open source community of builders, researchers, and technologists.",
       "226 Node Operators A decentralised network of independent Node operators ensuring Logos is secure.",
       "47 Circles Local chapters of activists and change seekers solving real world issues.",
       "19 Winnable Issues Local issues that Circles identify and solve – from privacy tech to community funding.",
@@ -2498,8 +2365,7 @@ export const popupData: Popup[] = [
       "Logos, founded in 2022 and publicly launched in 2023, emerged as a continuation of the cypherpunk movement",
       "It gained prominence in 2025 through events and presentations, including the co-founder Jarrad Hope 's talk at the Ethereum Cypherpunk Congress",
       "By late 2025, Logos had around 2,000 contributions, 100+ active contributors, 25+ repositories, and almost 20 local circles worldwide",
-      "Logos Circles are local, community-run meetups where people",
-      "discuss, ideate, and build solutions to solve local problems",
+      "Logos Circles are local, community-run meetups where people discuss, ideate, and build solutions to solve local problems",
       "2022 - and publicly launched in"
     ],
     "durationNotes": [
@@ -2508,8 +2374,7 @@ export const popupData: Popup[] = [
       "the technology stack"
     ],
     "locationDetails": [
-      "Logos is a decentralized, digital-first movement with no fixed physical location. The community is globally distributed, operating via online communities and local circles",
-      "There are Logos Circles in the US, UK, Costa Rica, Argentina, Portugal, Spain, Italy, Germany, Czechia, Kyrgyzstan, Saudi Arabia, Nigeria, Kenya, and Tanzania"
+      "Logos is a decentralized, digital-first movement with no fixed physical location. The community is globally distributed, operating via online communities and local circles"
     ],
     "overview": [
       "Logos is a social movement and a decentralized technology stack aimed at revitalizing civil society",
@@ -2562,7 +2427,7 @@ export const popupData: Popup[] = [
       "In 2023, a couple bought a 33sqm \"shell\" house for €27,000 in MTL City",
       "In the municipality of Bar, prices usually range from €1,200 to €3,000 per sqm for houses and cottages"
     ],
-    "pricingSummary": "There isn't a ticket sale, service fee or other direct purchasing options that Montelibero specifically provides In 2023, a couple bought a 33sqm \"shell\" house for €27,000 in MTL City",
+    "pricingSummary": "There isn't a ticket sale, service fee or other direct purchasing options that Montelibero specifically provides · In 2023, a couple bought a 33sqm \"shell\" house for €27,000 in MTL City · In the municipality of Bar, prices usually range from €1,200 to €3,000 per sqm for houses and cottages",
     "amenities": [
       "Amenities in MTL City include:",
       "Modular housing units",
@@ -2574,8 +2439,6 @@ export const popupData: Popup[] = [
     "history": [
       "Montelibero's movement began in December 2021 when the first settlers arrived in Montenegro",
       "It quickly experienced a significant inflow of Russians, and later attracted members from over-regulated EU countries, particularly Germany",
-      "Since its founding, the community has developed MTL City (a residential place on a hectare of land), the EURMTL stablecoin system for cashless payments, and has hosted annual MTL Fest libertarian festivals starting in September 2023",
-      "The first permanent resident moved to MTL City in May 2023. By mid-2024, MTL City had 17 residents across two buildings",
       "Currently, construction continues as the city also incorporates a modular home production facility",
       "The EURMTL is a stablecoin pegged to the euro, backed with fiat and other liquid assets like"
     ],
@@ -2583,7 +2446,6 @@ export const popupData: Popup[] = [
       "Montelibero is a permanent settlement project. Members can move to Montenegro indefinitely under standard visa or residency regulations, or visit for shorter periods to attend festivals and meetups"
     ],
     "locationDetails": [
-      "Montelibero is a transnational online community, but it focuses its physical activities in Montenegro, mainly in the coastal municipality of Bar, where MTL City is being built",
       "Montenegro's small size, strategic location, ethnic diversity, developed democracy, and relative tolerance create favorable conditions for libertarian reforms"
     ],
     "overview": [
@@ -2631,7 +2493,6 @@ export const popupData: Popup[] = [
       "There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.",
       "You can email the site owner to let them know you were blocked.",
       "Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
-      "Cloudflare Ray ID: a3b80cbeab8a5a14 • Your IP: Click to reveal 2401:4900:1f38:297d:b1d0:540d:5d9:d2c8 • Performance & security by Cloudflare.",
       "The program runs through bear markets and bull markets alike, with daily collaboration, sponsor workshops, and shipping pressure.",
       "2025 v7 Summit v7 summit runs in Salt Lake City; project directory launches.",
       "2026 v9 Summit v9 summit runs Feb 1–28 in Salt Lake City."
@@ -2656,7 +2517,6 @@ export const popupData: Popup[] = [
     "durationNotes": [
       "Core mtndao residencies run about one month in Salt Lake City.",
       "Programming mixes coworking, talks, and demo-day presentations.",
-      "Mtndao - Solana popup villages in Utah mtndao Month long popup in Salt Lake City for Solana founders and builders.",
       "The residency ends with Demo Day, where dozens of teams present live projects to the Solana community."
     ],
     "locationDetails": [
@@ -2716,7 +2576,8 @@ export const popupData: Popup[] = [
     "body": [
       "Network School turns online builder communities into a physical campus, with shared meals, gym access, and housing treated as part of the product.",
       "The campus is in Astana, Kazakhstan, in partnership with the Republic of Kazakhstan; ns.com lists the Astana Hub site and an all-in membership covering room, food, gym, and coworking.",
-      "The first v1 cohort ran in Forest City, Malaysia before the program reopened in Kazakhstan. The campus hosts Layer-2 efforts such as Arc alongside other startup-society projects."
+      "The first v1 cohort ran in Forest City, Malaysia before the program reopened in Kazakhstan.",
+      "The campus hosts Layer-2 efforts such as Arc alongside other startup-society projects."
     ],
     "coverImages": [
       "/popups/xyz/network-school/networkschoolgallery1.webp",
@@ -2727,7 +2588,7 @@ export const popupData: Popup[] = [
       "Network School costs $3,000/mo for a private room, or $1,500/mo with a roommate",
       "The goal at the Network School is to provide an all-inclusive society-as-a-service model so that members only worry about learning, burning, earning and having fun"
     ],
-    "pricingSummary": "Network School costs $3,000/mo for a private room, or $1,500/mo with a roommate The goal at the Network School is to provide an all-inclusive society-as-a-service model so that members only worry about learning, burning, earning and having fun",
+    "pricingSummary": "Network School costs $3,000/mo for a private room, or $1,500/mo with a roommate · The goal at the Network School is to provide an all-inclusive society-as-a-service model so that members only worry about learning, burning, earning and having fun",
     "amenities": [
       "Amenities in Network School include:",
       "3 nutritious meals (breakfast, lunch, dinner)",
@@ -2740,7 +2601,6 @@ export const popupData: Popup[] = [
     "history": [
       "After proving demand, by March 2025 it evolved into Network School v2, a year-round residency program with double the capacity, hosting ongoing cohorts, hundreds of speakers, high-profile events, and expanding facilities",
       "In parallel, the core team started building a permanent Network School campus around the same place, with the goal that it becomes the template for \"franchising\" and the launchpad for exogenous communities to emerge",
-      "At its peak the community counted 400+ members from 70+ nationalities, having drawn over 4,000 applications from more than 80 countries for the 128 spots in that first v1 cohort. The Forest City campus closed in July 2026, and Network School reopened in Kazakhstan on Sep 2",
       "Network School v1",
       "128 slots | 100 days",
       "Network School v2",
@@ -2749,7 +2609,6 @@ export const popupData: Popup[] = [
       "1024 slots | Permanent"
     ],
     "durationNotes": [
-      "The first iteration ( v1 ) of Network School lasted only 90 days, while ( v2 ) ran for a full year, from March 2025 to March 2026, on rotating monthly cohorts",
       "Throughout both iterations, members joined for a minimum of 1 month and extended their stay on"
     ],
     "locationDetails": [
@@ -2815,8 +2674,7 @@ export const popupData: Popup[] = [
       "Patagonia is the geographic signal most often attached to the project.",
       "Governance and biotech themes sit alongside community and startup coordination.",
       "NetX Gen is a network of regenerative nodes connecting bioregions, communities, startups, and technologies to co-create a new model of civilization.",
-      "It builds infrastructure across three layers - digital, legal, and physical - to prototype regenerative territories, decentralized governance, and cosmolocal solutions.",
-      "Right after, it organized Regen Hub at Devconnect Buenos Aires , connecting over 300 participants in a strategic meeting point between ReFi, Web3, DeSci, decentralized governance, and local regenerative projects."
+      "It builds infrastructure across three layers - digital, legal, and physical - to prototype regenerative territories, decentralized governance, and cosmolocal solutions."
     ],
     "coverImages": [
       "/popups/xyz/netx-gen/community.webp",
@@ -2824,34 +2682,28 @@ export const popupData: Popup[] = [
       "/popups/xyz/netx-gen/founder.webp"
     ],
     "pricing": [
-      "For reference, ReGen Haus was $1550 for the full month. Ticket included housing (shared rooms), breakfast, and full access to the program",
       "Payments were made via crypto, bank transfer (USD or ARS), ACH, or WIRE",
       "Fiber-optic Wi-Fi",
       "Kitchen and barbecue",
       "*From Regen Haus, at Edge Patagonia"
     ],
-    "pricingSummary": null,
+    "pricingSummary": "Payments were made via crypto, bank transfer (USD or ARS), ACH, or WIRE · Fiber-optic Wi-Fi · Kitchen and barbecue · *From Regen Haus, at Edge Patagonia",
     "amenities": [],
     "history": [
-      "Founded in 2024 as NetX State and rebranded to NetX Gen in 2026, the project centers its work on ecological regeneration and bioregional development",
-      "In October to November 2025, NetX Gen hosted ReGen Haus, a layer two residency at Edge Patagonia ’s pop-up village",
-      "Right after, it organized Regen Hub at Devconnect Buenos Aires, connecting over 300 participants in a strategic meeting point between ReFi, Web3, DeSci, decentralized governance, and local regenerative projects",
       "In 2026, NetX Gen Pop Up Island is happening at Próspera",
       "Territorial expansion and consolidation of the ecosystem are expected to develop from 2027 to 2030, and the building of regenerative cities until 2040",
       "2024 - as NetX State and rebranded to NetX Gen in",
-      "2027 - to 2030 , and the building of regenerative cities until"
+      "2027 - to 2030, and the building of regenerative cities until"
     ],
     "durationNotes": [
-      "NetX Gen runs temporary pop-up villages and small events, typically lasting one to four weeks",
-      "In October to November 2025, NetX Gen hosted ReGen Haus , a layer two residency at Edge Patagonia ’s pop-up village."
+      "NetX Gen runs temporary pop-up villages and small events, typically lasting one to four weeks"
     ],
     "locationDetails": [
       "NetX Gen is anchored in Patagonia, Argentina, and operates in temporary settings across America",
       "San Martín de los Andes, Argentina",
       "Buenos Aires, Argentina",
       "NetX Gen Pop Up Island",
-      "Roatán, Honduras",
-      "NetX Gen has established partnerships across multiple bioregions (ReGen Nodes), mainly in Latin America"
+      "Roatán, Honduras"
     ],
     "overview": [
       "NetX Gen is a network of regenerative nodes connecting bioregions, communities, startups, and technologies to co-create a new model of civilization",
@@ -2886,7 +2738,6 @@ export const popupData: Popup[] = [
       "Locations change, while the social graph and operating cadence stay consistent.",
       "It is popup-shaped, but the continuity lives in the collective more than the venue.",
       "Editions Ecosystem News Noma Collective's Story EN ES Book a Call EN ES EN ES Curated editions.",
-      "Editions Curated remote work editions, 30+ destinations Ecosystem The vision: editions, hubs, and beyond News Guides, stories, and Noma Collective's newsletter Noma Collective's Story Who Noma Collective are and why Noma Collective built Noma Book a Call Got questions?",
       "Message us on WhatsApp Now Booking 2027 Editions Work from Anywhere.",
       "Explore Editions Speak to the Team 4,000+ Alumni 4.9 ★ Google Rating 30+ Locations 89 NPS Score Featured Where to next?",
       "Noma Collective handle the housing, programme and the community, so you can arrive with everything you need and people around you from day one.",
@@ -2918,8 +2769,7 @@ export const popupData: Popup[] = [
       "2025 - schedule and initial"
     ],
     "durationNotes": [
-      "Month-long remote work travel programs, called 'Editions', built around structure, connection, and destinations worth visiting.",
-      "Barcelona · 7 months ago “ Little over a month ago I went on my first Noma trip to Japan, my first time in Asia."
+      "Month-long remote work travel programs, called 'Editions', built around structure, connection, and destinations worth visiting."
     ],
     "locationDetails": [],
     "overview": [],
@@ -2966,18 +2816,16 @@ export const popupData: Popup[] = [
       "Listed geographies include the USA and Honduras, putting it near other Central American experiments.",
       "Think infrastructure layer for nomads, not a one-off festival brand.",
       "NOMAD A B O U T N O D E S L O G I N A B O U T N O D E S L O G I N LIVE ANYWHERE.",
-      "Decentralized Living A c c o m m o d a t i o n f o r t h e m o d e r n n o m a d .",
-      "A p l a c e t o s t a y f o r t h o s e w h o l o v e t o m o v e .",
-      "A g l o b a l c o l i v i n g e c o s y s t e m .",
+      "Decentralized Living A c c o m m o d a t i o n f o r t h e m o d e r n n o m a d.",
+      "A p l a c e t o s t a y f o r t h o s e w h o l o v e t o m o v e.",
+      "A g l o b a l c o l i v i n g e c o s y s t e m.",
       "A place to stay for those who love to move.",
       "A global co-living ecosystem of modern, high-quality housing 400+ Members Become part of the nomad nation 12 NODES Buy floor plans to build your own NODE, or find a NODE to rent or buy in Nomad's global network.",
       "Apply To Join Why Nomad Nation Why Nomad Nation More than just a place to stay–build community, memories, and legacy with an aligned group of movers and shakers.",
-      "Apply To Join DOWNLOAD Nomad's DOWNLOAD Nomad's DOWNLOAD Nomad's MOBILE APP MOBILE APP MOBILE APP Want to get involved?",
       "Join for free by downloading Nomad's app or making an account on desktop today.",
       "Build or buy your own NODE and add it to the NOMAD network.",
       "Raleigh, USA 30 Rock Quarry Village Stage Renting Units Nomad are building a 30 unit community with a massive, black diamond shaped community building for co-living and co-working.",
       "Multiple units have already been completed and are currently renting to tenants.",
-      "Raleigh, USA 30 Roatán Village Stage Under Construction Nestle upon a tropical peak overlooking the Caribbean’s vivid blue waters, Prospera is Nomad's sister village.",
       "With stunning sunset views, rainforest canopies, and refreshing breezes, this beautiful Roatán project is underway.",
       "Raleigh, USA 2 Echo Creek Village Stage Renting Units Nomad's very first NODE and prototype community site is now welcoming guests.",
       "Durham, USA 10 Durham Village Stage Under Contract Nomad's second US NODE community is coming soon to 5+ wooded acres."
@@ -3052,18 +2900,16 @@ export const popupData: Popup[] = [
       "Praxis combines a large digital citizen base with occasional physical popups such as CAMPUS in Punta Cana.",
       "The long-term goal is crowdfunding and standing up a physical city, not only hosting temporary villages.",
       "Join Praxis Join Praxis Membership Content Market Magazine Home Contact Privacy The world's first digital nation.",
-      "Apply for membership Content Singularity Politics Life After Labor Sovereign Intelligence Declaration of Ascent | MMXXIV Praxis is an online community starting a new city.",
-      "Praxis purpose is to revitalize Western Civilization by creating a new culture focused on the pursuit of heroism , truth, and beauty.",
+      "Praxis purpose is to revitalize Western Civilization by creating a new culture focused on the pursuit of heroism, truth, and beauty.",
       "Applications 0 Population 0 GNP (Est.) $ 0 Billion How to become a Praxian Praxis Visa Flip Reset Enlarge Apply for membership to meet Praxians online, attend events, and contribute to projects.",
       "Members may be considered for leadership on the basis of demonstrated alignment and commitment.",
-      "Outstanding Members will be invited to move to the city .",
+      "Outstanding Members will be invited to move to the city.",
       "Praxis draw wisdom from the traditions of Praxis's ancestors and harness the power of technology to build the world to come.",
       "Praxis' purpose is to restore Western Civilization and pursue Praxis's ultimate destiny of life among the stars.",
       "Praxis is a digital nation crowdfunding a physical city to restore Western Civilization through crypto, AI, biotech, and energy innovation.",
-      "Past residential experiments occurred in Austin , San Francisco , Los Angeles , and Miami .",
+      "Past residential experiments occurred in Austin, San Francisco, Los Angeles, and Miami.",
       "” Austin King, CEO at Nomina Some examples of the people I met: The founder of a multi-billion dollar venture fund; A person who consults nation states on their nuclear strategy as part a nuclear advisory group they are on at MIT.",
-      "It gives access to Praxis Discord, where you can engage with other citizens, learn about upcoming events, and explore ways to contribute to the Nation.",
-      "Praxis has proposed Atlas, in California, which is the concept for a defense and spaceport city on 3,850 acres at Vandenberg Space Force Base."
+      "It gives access to Praxis Discord, where you can engage with other citizens, learn about upcoming events, and explore ways to contribute to the Nation."
     ],
     "coverImages": [
       "/popups/xyz/praxis/flags.webp",
@@ -3087,7 +2933,6 @@ export const popupData: Popup[] = [
       "Praxis hosts events year-round at its New York headquarters. CAMPUS pop-up village ran for 4 days"
     ],
     "locationDetails": [
-      "Praxis headquarters are located in New York City. Past residential experiments occurred in Austin, San Francisco, Los Angeles, and Miami",
       "CAMPUS, Praxis’s 4-day pop-up city, took place in Punta Cana, Dominican Republic",
       "CAMPUS , Praxis’s 4-day pop-up city, took place in Punta Cana, Dominican Republic ."
     ],
@@ -3126,7 +2971,6 @@ export const popupData: Popup[] = [
       "Próspera operates as a ZEDE-style startup city on the island of Roatán, Honduras, with its own civil code, tax structure, and governance stack.",
       "It is one of the most concrete permanent jurisdictions in the popup and network-state scene, and hosts nested projects such as Infinita.",
       "Builders use it as a base for company formation, residency experiments, and long-stay coliving around emerging tech.",
-      "Próspera | A governance platform where entrepreneurs are Free to Build Visit Business Real Estate Solutions Mission More Sign In Free to Build B u s i n e s s Próspera creates startup zones with unique laws, regulations and taxes.",
       "Doing business Get in touch What are people saying about Próspera?",
       "Prospera is the best place to do business on the planet.",
       "Less than 1% of the Cost Save more with operating costs under 1% of other jurisdictions."
@@ -3146,7 +2990,7 @@ export const popupData: Popup[] = [
       "Events like the recurring Próspera Weekend range from at $250 to $450 with housing, food,",
       "transportation, events and activities included"
     ],
-    "pricingSummary": "There are three main housing options for rent: Beta Hostel",
+    "pricingSummary": "There are three main housing options for rent: · Starts at $24/night · Starts at $100/night · Starts at $149/night · Alternatively, Airbnbs are available nearby · One can also buy real estate - starting at $120,000 for a studio in Duna Tower - and move to Próspera with the help of relocation partners · Events like the recurring Próspera Weekend range from at $250 to $450 with housing, food, · transportation, events and activities included",
     "amenities": [
       "Amenities in Próspera include:",
       "Co-working space",
@@ -3173,7 +3017,6 @@ export const popupData: Popup[] = [
       "$390$/year including mandatory insurance. Full business rights"
     ],
     "locationDetails": [
-      "Próspera is located on the island of Roatán, Honduras, approximately 20 minutes from Roatán International Airport",
       "It incorporates two districts, featuring a gym, infinity pool, sauna and cold plunge, Bitcoin ATM and co-working spaces"
     ],
     "overview": [
@@ -3182,7 +3025,6 @@ export const popupData: Popup[] = [
       "(e)residents from 40+ countries",
       "of real estate across 1,000 acres",
       "visitors to Roatán per year",
-      "ZEDE stands for Zone for Employment and Economic Development, a Special Economic Zone designed to have significant administrative and regulatory autonomy inside Honduras to attract investment and promote development",
       "The ZEDE framework has been declared unconstitutional by Honduras' Supreme Court in September",
       "2024. Established ZEDEs continue to function under political and investment uncertainty"
     ],
@@ -3252,10 +3094,7 @@ export const popupData: Popup[] = [
       "Founders live on-site to build and test physical technologies, including autonomous bulldozers, drones, robotics, and nuclear research equipment.",
       "Early-stage startups pay for room and board, while established companies lease land for scaled testing.",
       "The project is designed to be a dense American manufacturing ecosystem operating as a frontier outpost for physical production.",
-      "August 2025 County Development Agreement County unanimously approves the official development agreement for the 538 acre innovation hub.",
-      "Late 2025 $20M Seed Round Closed $20M seed round backed by Bill Ackman and Coinbase cofounder Fred Ehrsam.",
-      "March 2026 Nuclear Reactor Plans Filed Filed preliminary plans for a 7,600 sq ft nuclear research reactor in Lockhart with a $23M estimated cost.",
-      "April 2026 Ashlee Vance profile Bloomberg journalist Ashlee Vance publishes an in-depth feature on Proto-Town and its model for hardware reindustrialization."
+      "August 2025 County Development Agreement County unanimously approves the official development agreement for the 538 acre innovation hub."
     ],
     "coverImages": [
       "/popups/proto/prototowngallery1.webp",
@@ -3276,8 +3115,7 @@ export const popupData: Popup[] = [
     ],
     "locationDetails": [
       "Proto-Town is located in Lockhart, Texas.",
-      "The ranch layout keeps fabrication, housing, and outdoor testing in one place.",
-      "Late 2024 First Companies Move In Early hardware startups eg Pipedream Labs begin living and building on campus."
+      "The ranch layout keeps fabrication, housing, and outdoor testing in one place."
     ],
     "overview": [
       "Proto-Town targets physical-tech founders who need fabrication and testing at one ranch address.",
@@ -3336,13 +3174,13 @@ export const popupData: Popup[] = [
     },
     "summary": "A government-backed digital residency program issued with the Republic of Palau.",
     "body": [
-      "RNS.ID sells digital residency rather than a physical popup campus.",
+      "ID sells digital residency rather than a physical popup campus.",
       "The interesting part is the state partnership: Palau provides the government wrapper for a global digital ID product.",
       "Palau-backed digital residency is the product; rns.id covers enrollment and policy updates.",
-      "RNS.ID issues blockchain-based digital identity credentials tied to real-world verification.",
+      "ID issues blockchain-based digital identity credentials tied to real-world verification.",
       "The project targets sovereign digital identity for people who need portable, verifiable credentials.",
-      "RNS.ID sits in the identity layer of the network-state tool stack rather than running a physical village.",
-      "RNS.ID documents verification tiers and credential types on its homepage for travelers, founders, and remote workers who need portable proof of identity.",
+      "ID sits in the identity layer of the network-state tool stack rather than running a physical village.",
+      "ID documents verification tiers and credential types on its homepage for travelers, founders, and remote workers who need portable proof of identity.",
       "The product direction emphasizes user-held credentials rather than centralized databases controlled by a single platform.",
       "Hosted an Inauguration Ceremony with Founding Digital Resident Tim Draper.",
       "See on Twitter Watch the video Vitalik Buterin Ethereum co-founder, minted Voyager Pass #1430 at vitalik.eth, granting official Palau Digital Resident status and supporting his belief in individual sovereignty.",
@@ -3354,7 +3192,6 @@ export const popupData: Popup[] = [
       "The Palau ID supports KYC and identity verification for crypto exchanges, banks, hotels, flights, rentals, and everyday services.",
       "Applicants who pass screening obtain both a digital onchain credential and a physical plastic card mailed globally.",
       "Hosts event naming Tim Draper as the founding digital resident.",
-      "2023–2024 Blockchain Expansion Platform issues Legal Digital IDs on Ethereum and Solana with zkSync support for onchain KYC.",
       "2025+ Voyager Pass Rollout Enhanced benefits added including travel discounts and priority access for existing residents."
     ],
     "coverImages": [
@@ -3371,7 +3208,7 @@ export const popupData: Popup[] = [
       "Integration targets for wallets and governance apps"
     ],
     "history": [
-      "RNS.ID launched as a sovereign digital identity project for borderless credentials",
+      "RNS. ID launched as a sovereign digital identity project for borderless credentials",
       "The team publishes product updates and policy changes on rns.id",
       "2026 - All rights reserved"
     ],
@@ -3409,7 +3246,7 @@ export const popupData: Popup[] = [
         "date": "2024-01-02"
       }
     ],
-    "pricingSummary": null
+    "pricingSummary": "Credential pricing depends on verification tier and issuance type"
   },
   {
     "slug": "shw",
@@ -3437,9 +3274,7 @@ export const popupData: Popup[] = [
     "body": [
       "ShanHaiWoo organizes immersive popup villages where engineers, researchers, and founders live together and ship real applications.",
       "The Singapore Innovis editions and later roaming villages mix mythology, games, and builder culture on purpose.",
-      "If you want a Zu-like month with a distinct aesthetic, this is one of the main brands.",
-      "Apply to Join as a Woo Resident Apply to Join as a Woo Resident Building Tomorrow’s Tech, Together Go from design to site with Framer, the web builder for creative pros.",
-      "Apply to Join as a Woo Resident Apply to Join as a Woo Resident Apply to Join as a Woo Resident Apply to Join as a Woo Resident Building Tomorrow’s Tech, Together See What ShanHaiWoo Built in Singapore Missed it live?"
+      "If you want a Zu-like month with a distinct aesthetic, this is one of the main brands."
     ],
     "coverImages": [
       "/popups/xyz/shanhaiwoo/shanhaiwoogallery1.webp",
@@ -3458,12 +3293,11 @@ export const popupData: Popup[] = [
       "Closed the day the event started",
       "Ticket prices increased once the event began",
       "ShanHaiWoo Singapore",
-      "No participation fee was charged. Given the high costs of staying in Singapore, ShanHaiWoo offered a limited number of scholarships to students and builders",
       "Each scholarship was valued at around $2,500. A total of 121 scholarships were received,",
       "and only 28 (21.2%) were accepted",
       "*Values rounded from RMB to USD at the rate of 1 RMB = 0.14 USD"
     ],
-    "pricingSummary": "ShanHaiWoo Beidahu * Resident: $70/month or $17.5/week",
+    "pricingSummary": "ShanHaiWoo Beidahu * · Resident: $70/month or $17.5/week · Guest: $112/month or $28/week · Total ticket sales totaled roughly $1,932 · ShanHaiWoo Chiang Mai · Wave 01: $199/6-weeks or $50/week · Closed 15 days before event start · Wave 02: $269/6-weeks or $80/week · Closed the day the event started · Ticket prices increased once the event began · ShanHaiWoo Singapore · Each scholarship was valued at around $2,500. A total of 121 scholarships were received, · and only 28 (21.2%) were accepted · *Values rounded from RMB to USD at the rate of 1 RMB = 0.14 USD",
     "amenities": [
       "Co-working space",
       "Workshops, lectures, and events",
@@ -3472,8 +3306,6 @@ export const popupData: Popup[] = [
     "history": [
       "ShanHaiWoo was one of the earliest Zuzalu -inspired network state experiments. Since then, it has hosted several pop-up villages:",
       "2023 - The founding year. ShanHaiWoo Beidahu is hosted in a ski resort in Northeast China",
-      "2024 - Moving south, ShanHaiWoo hosts its second physical meetup, a co-learning and co-creating 6-week pop-up village in Thailand - ShanHaiWoo Chiang Mai",
-      "2025 - Further south, in Singapore, ShanHaiWoo organizes ShanHaiWoo Singapore, a one-month village that attracted over 200 builders",
       "In 2026, it plans to host a pop-up village before Devcon 2026",
       "2025 - Highlights & Projects Booklet View the",
       "2023 - Recap Woo",
@@ -3481,9 +3313,7 @@ export const popupData: Popup[] = [
     ],
     "durationNotes": [
       "ShanHaiWoo runs week-long and month-long temporary physical nodes",
-      "It isn’t yet established in a permanent spot",
-      "Apply to Join as a Woo Resident Apply to Join as a Woo Resident Building Tomorrow’s Tech, Together Building Tomorrow’s Tech, Together Beyond AI & Ethereum: Accelerating the Next-Gen Applications A one-month builder village in Singapore.",
-      "Get Started Beyond AI & Ethereum: Accelerating the Next-Gen Applications A one-month builder village in Singapore."
+      "It isn’t yet established in a permanent spot"
     ],
     "locationDetails": [
       "ShanHaiWoo has hosted events across Asia",
@@ -3542,7 +3372,6 @@ export const popupData: Popup[] = [
       "Incorporation gives residents a formal municipal voice over local services while SpaceX continues Starship operations next door.",
       "Community projects documented in 2026 include coastal cleanups, conservation acreage, and a resident-led library effort.",
       "Starbase is a launch site unlike any place on Earth, with humanity’s future in space unfolding in plain view for the public.",
-      "Explore View All Fun Stuff Beach Cleanup with Cameron County Boca Chica Beach Rockhands Mitigation Bank Quarterly Impact Report Updates from the Rio Grande Valley Sea Turtle Rescue SEA TURTLE INC.",
       "Just FOIA  Public Notices Community & Explore Open Records Request.",
       "Starbase - Aerospace startup city Starbase Starbase, Texas: Gateway to Mars.",
       "It is home to SpaceX's primary Starship production, testing, and orbital launch facilities where humanity's future in space unfolds in public view.",
@@ -3565,9 +3394,7 @@ export const popupData: Popup[] = [
     "history": [
       "2025 - Starbase incorporates after a resident vote in May",
       "2026 - Community programs include beach cleanups, land conservation, and a shared library effort",
-      "2026 - Download Notice of Public Hearing on Tax Rate for FY2026-27 (Form 50-876) Download Form 50-212 |",
-      "2026 - Download Proposed Budget FY",
-      "2026 - Download Public Notice of Potential Quorum - 05/27/2026 Download Public Notice of Potential Quorum - 02/24/26 Download Fiscal Year"
+      "2026 - Download Proposed Budget FY"
     ],
     "durationNotes": [],
     "locationDetails": [
@@ -3654,13 +3481,12 @@ export const popupData: Popup[] = [
       "the-mu’s pop-up villages often include hackathons featuring prize pools in the tens of",
       "thousands of dollars"
     ],
-    "pricingSummary": "Most pop-up villages that the-mu hosts are free to attend Accommodation is usually included, mainly for developers. It can also be partially covered by housing grants",
+    "pricingSummary": "Most pop-up villages that the-mu hosts are free to attend · Accommodation is usually included, mainly for developers. It can also be partially covered by housing grants · the-mu’s pop-up villages often include hackathons featuring prize pools in the tens of · thousands of dollars",
     "amenities": [],
     "history": [
       "the-mu has been organizing pop-up cities across various continents since 2023",
       "In 2023, it hosted muChiangMai, the first web3 pop-up city in Southeast Asia",
       "The year after, muBuenos ran for six weeks in Argentina and muAccra for two weeks in Ghana",
-      "In 2025, the-mu was present at Expo 2025 in Japan, and, in 2026, it hosts a one-month pop-up city in Shanghai - muShanghai",
       "2025 - in Japan, and, in"
     ],
     "durationNotes": [
@@ -3728,14 +3554,13 @@ export const popupData: Popup[] = [
       "The Oz City organizes popup villages and bootcamps where AI and Web3 builders colive and sprint together.",
       "San Martín de los Andes is the named Argentine base.",
       "Oz City is a pop-up village organizer that focuses on creating the right environment for AI and Web3 builders to accelerate their progress.",
-      "In June 2025, Oz City, supported by Epic Web3 , launched its first pop-up village, Oz City Cannes , bringing together over 50 builders from 20+ countries for an experiment in France.",
-      "Pop-up locations included Valbonne, France and San Martín de los Andes, Argentina .",
+      "Pop-up locations included Valbonne, France and San Martín de los Andes, Argentina.",
       "Oz City Patagonia $945 - Full access to Edge City Patagonia.",
       "*$699 for shared room with 1 roommate or $499 with 5 roommates.",
       "” Ileana Perez, Full-Stack Dev Thank you The Oz City for believing in me.",
       "I learned, failed, regrouped, laughed, almost cried, but most of all, I grew.",
       "” Maurits Bos, Co-Founder at 42 Agents Oz City was a blast!",
-      "Attend an upcoming pop-up village, usually announced on X and Substack .",
+      "Attend an upcoming pop-up village, usually announced on X and Substack.",
       "To create a hub for AI/Web3 builders to ship decentralized AI agents, protocols, and infrastructure through focused co-living sprints.",
       "AI engineers, crypto founders, hackers, and high-agency builders ready to prototype fast.",
       "How much does it cost to attend an Oz City pop-up village?",
@@ -3758,20 +3583,17 @@ export const popupData: Popup[] = [
       "*$699 for shared room with 1 roommate or $499 with 5 roommates",
       "Breakfast was included, and rooms were gender-separated"
     ],
-    "pricingSummary": "Oz City Cannes $100 *",
+    "pricingSummary": "Bootcamp program for startups and builders · Travel scholarships based on merit and need · Accommodation self-organized · *Commitment fee fully returned as a food coupon · Oz City Patagonia · Full access to Edge City Patagonia · Access to Oz City Residency’s amenities · Accommodation organized but not included* · *$699 for shared room with 1 roommate or $499 with 5 roommates · Breakfast was included, and rooms were gender-separated",
     "amenities": [
       "Oz City’s pop-up villages usually incorporate:",
       "Workshops, lectures, and events"
     ],
     "history": [
-      "Inspired by Zuzalu and the AI-blockchain synergy, Oz City has been creating pop-up environments focused on builders",
-      "In June 2025, Oz City, supported by Epic Web3, launched its first pop-up village, Oz City Cannes, bringing together over 50 builders from 20+ countries for an experiment in France",
-      "Later the same year, Oz City ran Oz City Patagonia, a two-week pop-up village with residency format on top of Edge City 's infrastructure in San Martín de los Andes"
+      "Inspired by Zuzalu and the AI-blockchain synergy, Oz City has been creating pop-up environments focused on builders"
     ],
     "durationNotes": [
       "Oz City operates as temporary pop-up villages, with duration depending on location and timing",
       "Oz City Cannes ran for one week. Oz City Patagonia lasted two weeks",
-      "Later the same year, Oz City ran Oz City Patagonia , a two-week pop-up village with residency format on top of Edge City 's infrastructure in San Martín de los Andes.",
       "Usually around $100 to $500 per week, no accommodation included."
     ],
     "locationDetails": [
@@ -3812,11 +3634,7 @@ export const popupData: Popup[] = [
       "Infrastructure includes glamping, solar power, Starlink connectivity, and on-site tokenized booking through $TDF.",
       "Residents join land-care rotations, glamping upgrades, and token-based bookings while the village funds water and pool infrastructure.",
       "TDF markets itself to remote workers who want regenerative community rather than a urban hacker hostel.",
-      "Signup Log in TDF $TDF Buy $TDF Tokens 🐛 Report a bug A regenerative village in Portugal Traditional Dream Factory are building a place where land is held in common, community is intentional, and belonging is not left to chance.",
-      "Join us Plan a visit What happens here Stay with us Book a room, a cabin or a camping spot and experience daily life on the land.",
       "See what's on Become part of it Members and citizens shape how this place is governed and cared for.",
-      "Learn more Come and see for yourself Create an account to book a stay, join events and follow what Traditional Dream Factory are building.",
-      "Traditional Dream Factory - Regenerative web3 village in Portugal Traditional Dream Factory A regenerative coliving village in Portugal.",
       "Web3 tools power governance through a DAO structure and $TDF tokens.",
       "2022 Operational coliving Built food forest, sauna, coworking barn, and DAO prototype.",
       "2023 Token launch Installed Starlink, expanded glamping and volunteer beds, and launched the booking platform and $TDF tokens.",
@@ -3900,7 +3718,7 @@ export const popupData: Popup[] = [
       "Wanna see what people did (and didn't) like about Vibecamp's events?",
       "675 survey responses — publicly browsable by gender, age, sexuality, and whether they'd attended before.",
       "(Yes, Vibecamp know the gender ratio could use some work, but hey, for an event attended by so many people in tech, it could be worse.) See the full data Who comes to Vibecamp?",
-      "The common thread among Vibecampers is being high in openness-to-experience and kind to strangers .",
+      "The common thread among Vibecampers is being high in openness-to-experience and kind to strangers.",
       "Attendees primarily come from a loose network of internet-adjacent communities: rationalists and post-rationalists, EAs, burners, tech folks of various stripes, along with writers, artists, therapists, lurkers, and various offline friends.",
       "You’ll be competing with the guy who comes dressed as a penguin handing out cans of sardines, and no fewer than four people who play theremins.",
       "The Discord is the easiest way in — lurk, ask questions, or just show up ready to make friends.",
@@ -3913,11 +3731,9 @@ export const popupData: Popup[] = [
       "Vibecamp'll continue adding to these over time, and have a few more posts Vibecamp're working on that should be live soon.",
       "Would you like to write your own explainer post, or write a better version of one of these?",
       "Drop your email and Vibecamp'll keep you posted on Vibecamp news, ticket updates, and related community projects.",
-      "Vibecamp - Festival for internet communities Vibecamp A recurring IRL festival for the TPOT (This Part Of Twitter) cloud community.",
       "Combating modern isolation, it gathers adults to play, build, and connect through high-agency, decentralized activities.",
       "Emphasizing \"fierce friendliness\" and deep conversation, Vibecamp inspires attendees to seed playful local communities back home.",
-      "2022 Vibecamp 1 Inaugural in-person gathering at Camp Champions in Austin, TX (~400 attendees).",
-      "2024 Vibecamp 3 & Vibeclipse Hosted the third main camp, plus a special \"Vibeclipse\" event in Texas for the solar eclipse."
+      "2022 Vibecamp 1 Inaugural in-person gathering at Camp Champions in Austin, TX (~400 attendees)."
     ],
     "coverImages": [
       "/popups/vibe/vibecampgallery1.webp",
@@ -3984,10 +3800,7 @@ export const popupData: Popup[] = [
       "Viva’s stated aim is a city-scale jurisdiction where longevity research and medical experimentation can move faster.",
       "San Francisco appears as a current community anchor while the larger city ambition remains ahead of it.",
       "Themes span biotech, AI, crypto, and governance because the bet is institutional, not just social.",
-      "Hear it from Laurence Ion Hear it from Laurence Ion Hear it from Laurence Ion Play vid Play vid Join us Viva need an \"Apollo Project\" for longevity Why join Viva City?",
       "Learn how you can have an impact Anyone can do *something* to increase the community's effectiveness.",
-      "Join us Upcoming gatherings When a lot of us live together, Viva can self-govern & accelerate innovation.",
-      "Pieces to the puzzle Themes Longevity Biotech Tackle the root cause of diseases like Alzheimer's, Cancer & Heart Disease.",
       "AI AI is one of the most important tools to help advance Viva's capabilities in science to solve the problem of aging, and much more.",
       "Crypto Viva are building a new model for a self-governing IRL community.",
       "Special jurisdictions Viva are creating new laws & regulations, to remove bottlenecks that stifle innovation.",
@@ -4011,18 +3824,14 @@ export const popupData: Popup[] = [
       "At Viva Frontier Tower, full six-week access was $1,900, and two-week access was $950.* Pricing included weekday lunches and full access to the space and programming",
       "*Tower citizens got $300 off and scholarships were available"
     ],
-    "pricingSummary": "Apart from specific events, Viva City uses a tiered pricing structure: Online Membership",
+    "pricingSummary": "Apart from specific events, Viva City uses a tiered pricing structure: · Online Membership · Free or heavily discounted access to diverse events · Founding Online Membership · $500/month or $5,000/year · Rare Viva.city NFT · Free and exclusive access to diverse events · At Viva Frontier Tower, full six-week access was $1,900, and two-week access was $950.* Pricing included weekday lunches and full access to the space and programming · *Tower citizens got $300 off and scholarships were available",
     "amenities": [],
     "history": [
       "Viva City, founded by Laurence Ion, emerged from the legacy of Vitalia City, a network state whose co-founders parted ways in early 2025",
-      "That year, Viva City hosted Viva Frontier Tower, a month-long pop-up village in San Francisco's Frontier Tower, gathering over 100 builders for workshops and an incubator program",
       "There are ongoing talks with governments for Viva City to establish a medical innovation zone",
-      "2040 - Join pioneers in Longevity, AI, Crypto & more Join us VIVA CITY Building a new city to make death optional by",
       "2040 - Building a new city to make death optional by"
     ],
-    "durationNotes": [
-      "Viva City's events are usually hours-long, except for pop-up villages. Viva Frontier Tower ran for 6 weeks between June and August 2025"
-    ],
+    "durationNotes": [],
     "locationDetails": [
       "Viva City does not own a permanent hub",
       "The community gathers often for events at Frontier Tower's longevity floor, in San Francisco"
@@ -4060,14 +3869,11 @@ export const popupData: Popup[] = [
       "Web3 Villages packages incubator energy into temporary villages for shipping projects in community.",
       "Bangkok editions anchor much of the programming, with Discord and Telegram coordinating between villages.",
       "The offer is practical: housing plus program density for people trying to launch.",
-      "Web3 Villages rotates incubator popups through partner cities while keeping Discord and Telegram as coordination layers between cohorts.",
       "Web3Village is not just a hackathon slapped onto a beach.",
-      "It's an ecosystem incubator — a full-stack engine for Web3 innovation, community, and lasting impact .",
-      "Since 2022, Web3 Villages’ve hosted immersive Web3Villages in Hội An , Chiang Mai , and Bangkok .",
+      "It's an ecosystem incubator — a full-stack engine for Web3 innovation, community, and lasting impact.",
+      "Since 2022, Web3 Villages’ve hosted immersive Web3Villages in Hội An, Chiang Mai, and Bangkok.",
       "Scaling from popups to permanent infrastructure is Web3 Villages's next big move, and Đà Nẵng is ground zero.",
-      "Web3 Villages Proven Model Popup Permanent Web3 Villages start with pop-up villages 1–2 months of immersive, semi-permanent co-living and building.",
       "The Format Shared dinners, daily rituals, flexible build hours Rapid iteration, social experimentation, deep collaboration A blend of “semester + startup sprint” that accelerates real outcomes Da Nang ?",
-      "Is becoming Web3 Villages's first permanent Web3Village HQ — an always-on engine for local and global Web3 innovation.",
       "This is the hub where Web3 Villages will connect with global hubs all over the world.",
       "Interdisciplinary collision Web3 meets AI, robotics, civic tech — sparks unpredictable breakthroughs."
     ],
@@ -4085,13 +3891,10 @@ export const popupData: Popup[] = [
     ],
     "history": [
       "Web3 Villages, founded in 2022, was one of the early hosts of pop-up villages",
-      "In 2023, it organized Web3 Village Hoi An, a one-week experience for Web3 builders, hackers, and creators",
       "In 2024, it hosted Web3 Village Chiang Mai and Web3 Village Bangkok",
       "It has supported 35+ startup ideas in areas like DeFi, identity, civic tech, and AI integration",
-      "There is no evidence that the announced Web3 Village Mui Ne (2024) and Web3 Village Osaka (2025) events took place",
       "2023 - Chiang Mai",
-      "2024 - Bangkok 2024 Showcase Contact TICKETS Open Menu Close Menu Attend Topics Past Event Hoi An",
-      "2024 - Bangkok 2024 Showcase Contact TICKETS Open Menu Close Menu Attend Topics Folder: Past Event Back Hoi An"
+      "2024 - Bangkok 2024 Showcase Contact TICKETS Open Menu Close Menu Attend Topics Past Event Hoi An"
     ],
     "durationNotes": [
       "Web3 Villages pop-up villages typically last 1 week, offering semi-permanent co-living and building experiences",
@@ -4146,7 +3949,6 @@ export const popupData: Popup[] = [
       "Find your people Meet friends and collaborators you’ll still be talking to in years.",
       "Upgrade your thinking Talks, workshops, and conversations on the most important trends shaping the globe.",
       "Live in paradise Warm waves and coworking amenities in East Africa’s top destination.",
-      "Zanzalu Home Fumba Town, Zanzibar Zanzalu takes place in Fumba Town, a waterfront neighborhood 20 minutes outside Zanzibar City.",
       "The town has apartments, cafés, a gym, a supermarket, and a coworking space all within a short distance.",
       "The airport is about 20 minutes away, and Stone Town is an easy drive for nights out, history, and food."
     ],
@@ -4161,7 +3963,7 @@ export const popupData: Popup[] = [
       "3-Week Pass - African Nationals",
       "Week Pass - African Nationals"
     ],
-    "pricingSummary": "Tickets for pop-up villages depend on the edition and often have 10-20% early bird discounts Base prices for Zanzalu 2026:",
+    "pricingSummary": "Tickets for pop-up villages depend on the edition and often have 10-20% early bird discounts · Base prices for Zanzalu 2026: · 3-Week Pass - African Nationals · Week Pass - African Nationals",
     "amenities": [
       "Co-working spaces",
       "Workshops, lectures, and events",
@@ -4169,8 +3971,6 @@ export const popupData: Popup[] = [
       "Accommodation, transportation, and meals should be arranged by the participant"
     ],
     "history": [
-      "Zanzalu launched its first edition - Zanzalu 1.0 - in 2024 as a five-week pop-up village in Zanzibar, focusing on workshops, talks on urban development, experimental governance, Web3 technologies, and cultural change",
-      "In 2025, Zanzalu hosted Zanzalu 2.0, collaborating with Logos for the Road to Parallel Society event",
       "The 2026 edition - Zanzalu 3.0 - runs from July 25 to August 14"
     ],
     "durationNotes": [
@@ -4179,9 +3979,7 @@ export const popupData: Popup[] = [
       "experimentation, and events",
       "For several weeks each year, it brings together founders, technologists, academics, artists, investors, policymakers, and creators to test ideas in the real world and to build toward an abundant future in Africa and beyond."
     ],
-    "locationDetails": [
-      "Zanzalu pop-up villages take place in Fumba Town, Zanzibar, Tanzania, an urbanization initiative within the area of the Fumba Special Economic Zone"
-    ],
+    "locationDetails": [],
     "overview": [
       "Zanzalu is a pop-up city and living laboratory where innovators from Africa and beyond collaborate toward an abundant future",
       "full-time residents"
@@ -4232,17 +4030,14 @@ export const popupData: Popup[] = [
       "Zu-Grama organizes onchain popup villages in India that fuse coliving with deep-tech and science work.",
       "The Kerala footprint is the geographic signal most often listed.",
       "It is part of the wider Zu- family while keeping an India-first builder mandate.",
-      "Apply Residents Residents Residents Catapulting India's innovation ecosystem by: Connecting local talent with international experts and Investors.",
-      "Building ties with USA, Europe and other Global tech hubs .",
+      "Building ties with USA, Europe and other Global tech hubs.",
       "Participants will design, test, and take part in governance experiments that allow communities to self-organize in a transparent, scalable way.",
       "The track will also organize dialogue with key policy makers and decision makers to understand the future of innovation in India.",
       "Learn More Impact & Public goods 02 This track focuses on creating systems and solutions that have a positive societal impact.",
       "It emphasizes the development of public goods—resources that benefit everyone but are often underfunded in traditional markets.",
       "Participants will explore innovative funding models and decentralized grant systems that support public goods, ranging from infrastructure projects to open-source technologies.",
-      "Learn More Longevity (Biotech, DeSci) 03 The longevity track will explore advancements in genetic research, bioengineering, and health tech.",
       "Zu-Grama will also explore the intersection of translational research in the longevity space and decentralized science (DeSci).",
       "The track aims to explore how AI can be used to solve global challenges, improve decentralized infrastructures and build systems that won't put humanity in a locked in state.",
-      "Cryptography 06 The cryptography track will explore layer 1 chains such as Ethereum and applications such as DeFi, Consumer crypto etc.",
       "The track will also explore advanced cryptographic technologies, particularly zero-knowledge proofs (zk) and Fully Homomorphic Encryption (FHE).",
       "These tools are essential for creating privacy-preserving and secure systems which are key to decentralized innovation."
     ],
@@ -4259,7 +4054,7 @@ export const popupData: Popup[] = [
       "Tickets usually include accommodation, partial meals, and full access to the program",
       "Zu-Grama offered fully funded fellowships for selected participants"
     ],
-    "pricingSummary": "For the Zu-Grama pop-up in 2025: Shared Room",
+    "pricingSummary": "For the Zu-Grama pop-up in 2025: · $1,600 - 6 weeks · $2,100 - 3 weeks · $3,500 - 6 weeks · Tickets usually include accommodation, partial meals, and full access to the program · Zu-Grama offered fully funded fellowships for selected participants",
     "amenities": [],
     "history": [
       "Zu-Grama emerged in 2024 as India's first pop-up village experiment, inspired by Zuzalu",
@@ -4329,7 +4124,6 @@ export const popupData: Popup[] = [
       "Investors and Ecosystem Leaders Looking to support Africa's onchain growth.",
       "“ZuAfrique can no longer afford to be spectators in conversations that define ZuAfrique's future.",
       "ZuAfrique exists to place African builders, thinkers, and creators at the centre of the table where ideas are shaped, decisions are made, and innovation reflects ZuAfrique's lived realities”.",
-      "Eric Annan Co-Lead, ZuAfrique | Founder/CEO, AyaHQ The ZuAfrique Experience ZuAfrique is more than a popcity event—it’s a movement.",
       "Live & Build Together Immersive co-living spaces designed for innovation.",
       "Cultural & Tech Fusion A space where tradition meets the future, & ideas become reality.",
       "ZuAfrique - Popup villages in Africa ZuAfrique Popup villages in Africa.",
@@ -4352,21 +4146,19 @@ export const popupData: Popup[] = [
       "Lisk donated $25,000, AyaHQ donated $50,000, and Zuzalu Quadratic Funding contributed 3.65 ETH",
       "The 3.65 ETH was untouched due to the price dip"
     ],
-    "pricingSummary": "ZuAfrique 1.0 was funded through a combination of sponsor support and direct organizational investment Lisk donated $25,000, AyaHQ donated $50,000, and Zuzalu Quadratic Funding contributed 3.65 ETH",
+    "pricingSummary": "ZuAfrique 1.0 was funded through a combination of sponsor support and direct organizational investment · Lisk donated $25,000, AyaHQ donated $50,000, and Zuzalu Quadratic Funding contributed 3.65 ETH · The 3.65 ETH was untouched due to the price dip",
     "amenities": [
       "Buffet meals (breakfast and dinner)",
       "Co-working space",
       "Workshops, lectures, and events"
     ],
     "history": [
-      "ZuAfrique emerged in 2024 from the Zuzalu movement and launched its first pop-up city — ZuAfrique 1.0 — in April 2025",
       "In 2026, ZuAfrique hosts ZuAfrique 2.0, a three-week pop-up village in Kenya"
     ],
     "durationNotes": [
       "ZuAfrique hosts temporary pop-up villages that typically last 3 weeks",
       "April 15 - May 6, 2025",
       "April 12 - May 3, 2026",
-      "Eric and The Mu organized muAccra, a 2-week popup village in Ghana to connect the local Web3 ecosystem.",
       "In 2026, ZuAfrique hosts ZuAfrique 2.0 , a three-week pop-up village in Kenya."
     ],
     "locationDetails": [
@@ -4423,7 +4215,6 @@ export const popupData: Popup[] = [
       "The project pairs housing reuse with community infrastructure, residencies, and events meant to revive local economies.",
       "It partners closely with Akiya Collective while keeping its own Zuzalu-lineage brand and channels.",
       "Build, farm, code, soak in the onsen, and meet the people who live here.",
-      "20% off with crypto Get a Day Pass Join the group chat Instagram · X · Substack How much does it cost to visit?",
       "A day pass starts at $21 and covers the desks, the venue, breakfast, and the people for a full day.",
       "Length-of-stay, group, and community discounts stack on top, and the checkout quotes the real price for your dates.",
       "Pay by card (default) or save 20% with USDC on Ethereum.",
@@ -4448,7 +4239,7 @@ export const popupData: Popup[] = [
       "All basics included",
       "24/7 free car access"
     ],
-    "pricingSummary": "Co-living options for flexible stays include: Nomad",
+    "pricingSummary": "Co-living options for flexible stays include: · $1,500/person/month · Access to community spaces · Access to events and socials · $2,500/person/month · All basics included · 24/7 free car access",
     "amenities": [],
     "history": [
       "Inspired by Zuzalu 's pop-up village movement, ZuCity created its own community in Japan",
@@ -4468,9 +4259,7 @@ export const popupData: Popup[] = [
       "Come for a day pass, a weekend, or a month.",
       "Everything ZuCity / ZuJapan make together stays, and compounds year over year."
     ],
-    "locationDetails": [
-      "ZuCity Japan restores homes across Nagano Prefecture, Japan, a rural area 90 minutes away from Tokyo by train"
-    ],
+    "locationDetails": [],
     "overview": [
       "ZuCity Japan is a co-living community that buys and restores abandoned homes in rural Japan, building a vertically integrated neighborhood to attract entrepreneurs, scientists, and artists"
     ],
@@ -4546,14 +4335,13 @@ export const popupData: Popup[] = [
       "Zuitzerland 2025 Summit, the culmination event of the Zuitzerland Residency, cost CHF 359 ($450) for the weekend. No accommodation included.*",
       "*Zuitzerland provided a discount code for attendees"
     ],
-    "pricingSummary": null,
+    "pricingSummary": "Zuitzerland 2025 Summit, the culmination event of the Zuitzerland Residency, cost CHF 359 ($450) for the weekend. No accommodation included.* · *Zuitzerland provided a discount code for attendees",
     "amenities": [],
     "history": [
       "Zuitzerland was founded in 2024 by Isla Munro-Hochmayr, a web3 researcher and economist",
       "By September 2024, it hosted Zuitzerland v0.1, a small pop-up village in Interlaken designed to prototype d/acc leadership and societal models",
       "In May 2025, it ran its first full-scale pop-up city, Zuitzerland Residency, which served as an initial prototype for a permanent hub. It grouped 200 researchers, philosophers, and builders in an alpine ski resort",
-      "In 2025, Vitalik donated $500,000 in ETH to support Zuitzerland's",
-      "development as a Zuzalu hub"
+      "In 2025, Vitalik donated $500,000 in ETH to support Zuitzerland's development as a Zuzalu hub"
     ],
     "durationNotes": [
       "Zuitzerland v0.1, the very early iteration, ran for 1 to 2 weeks in 2024. The full-scale, inaugural pop-up city lasted 3.5 weeks",
@@ -4607,17 +4395,15 @@ export const popupData: Popup[] = [
       "ZuKaş is a Zu-node in Kaş, Turkey with an explicit governance and Lycian democracy theme.",
       "Popup villages here lean into culturally rooted community practice rather than pure hacker-house energy.",
       "Longevity and crypto themes still appear, but participatory governance is the differentiator.",
-      "View in Telegram Preview channel If you have Telegram , you can view and join ZuzaluKaş right away.",
-      "ZuKaş - Governance focused popup village ZuKaş A Zu-village in Kaş, Turkey focused on Lycian democracy and participatory governance.",
+      "View in Telegram Preview channel If you have Telegram, you can view and join ZuzaluKaş right away.",
       "It draws on the ancient Lycian principles of democracy and commons to run residencies where builders, researchers, and creators colive and stress-test decentralized coordination and participatory governance.",
       "The project blends Web3 tools with plurality and regenerative practices.",
-      "Mar 2026 AI for Locals Held a free public AI workshop at the Kaş Municipality Hall featuring live idea-to-prototype building.",
       "ZuKas is a living hub uniting Lycian roots with longevity and civic innovation.",
-      "In 2025, it hosted its first pop-up village - ZuKas I .",
-      "The second edition, ZuKas II , in April 2026, explores open governance, identity, and phygital communities.",
+      "In 2025, it hosted its first pop-up village - ZuKas I.",
+      "The second edition, ZuKas II, in April 2026, explores open governance, identity, and phygital communities.",
       "Full event access for people buying before the programming is revealed.",
       "\" Lalena, Creative Designer at node101 How can you get involved?",
-      "Join an upcoming pop-up village, usually announced on X .",
+      "Join an upcoming pop-up village, usually announced on X.",
       "To experiment with plurality governance in a Web3 context, creating prototypes for decentralized decision-making and phygital commons."
     ],
     "coverImages": [
@@ -4638,7 +4424,7 @@ export const popupData: Popup[] = [
       "Resident Pass (Private Room) - $2,000",
       "Full event access, daily breakfast and co-working space. Accommodation in a private room"
     ],
-    "pricingSummary": "ZuKas tickets are often tiered and include scholarship options For ZuKas II :",
+    "pricingSummary": "ZuKas tickets are often tiered and include scholarship options · Locals/Students - $250 · Full event access · Blindspot - $500 · Full event access for people buying before the programming is revealed · Earlybird - $700 · Full event access, daily breakfast and co-working space. Accommodation not included · Resident Pass (Shared Room) - $1,300 · Full event access, daily breakfast and co-working space. Accommodation in a shared room · Resident Pass (Private Room) - $2,000 · Full event access, daily breakfast and co-working space. Accommodation in a private room",
     "amenities": [
       "Shared/private rooms",
       "Co-working spaces",
@@ -4646,7 +4432,6 @@ export const popupData: Popup[] = [
       "ZuKas arranges group-rate guesthouses for non-resident tickets"
     ],
     "history": [
-      "Emerged from the Zuzalu movement, ZuKas merges Web3 with principles from the Lycian Isonomia, the Ahi Commons, and plurality",
       "In 2025, it hosted its first pop-up village - ZuKas I. The cohort focused on the roots of ancient democracy",
       "The second edition, ZuKas II, in April 2026, explores open governance, identity, and phygital communities",
       "2026 - ZuKaş II (Season 02) 16-day residency September 4–19,"
@@ -4654,7 +4439,6 @@ export const popupData: Popup[] = [
     "durationNotes": [
       "ZuKas operates pop-up villages with varying durations",
       "ZuKas I lasted 10 days. ZuKas II runs for 30 days",
-      "Sep 2026 ZuKaş II (Season 02) 16-day residency September 4–19, 2026 in Kaş (Season 02: “The Crucible”).",
       "\" Michel Bauwens, Founder at P2P Foundation I strongly suggest you go to ZuKas next year...",
       "\" Not enough Kaş in a year… need 2–3 events."
     ],
@@ -4712,12 +4496,9 @@ export const popupData: Popup[] = [
     },
     "summary": "The original popup village network that kicked off the modern Zu- ecosystem.",
     "body": [
-      "Zuzalu started as the first high-profile popup village in Luštica Bay, Montenegro, and grew into a distributed network.",
       "It also pushed CommunityOS ideas and open-source coordination for temporary societies.",
       "Later Zu-branded villages and fellowships trace much of their culture back to Zuzalu’s Montenegro cohort.",
-      "Zuzalu - Ethereum popup village network Zuzalu An umbrella community of popup villages anchored to the Ethereum community.",
       "It brought together ~200 builders, thinkers, and researchers in longevity, crypto, AI, and network states for coliving and collaboration.",
-      "After the original event, Zuzalu decentralized into independently-run Zu-villages, supported by two Gitcoin funding rounds for both events and core infrastructure like Zupass.",
       "Zuzalu is especially important because it minted the popup village model that provided a concrete organizational form to the network state movement.",
       "Dec 2023 Decentralization Moment Vitalik proposed a shift from centralized events to independent, global popup villages."
     ],
@@ -4734,7 +4515,7 @@ export const popupData: Popup[] = [
       "Zuzalu Montenegro was invitation-based. Core organizers invited ~15 residents each, and",
       "each resident could invite 2 guests. Some participants were selected via application"
     ],
-    "pricingSummary": "Zuzalu Pop-up Montenegro $100/week for breakfast, co-working space, and access to events",
+    "pricingSummary": "Zuzalu Pop-up Montenegro · $100/week for breakfast, co-working space, and access to events · Food was estimated at an extra $50/day · Payments were made via crypto. Students and others needing financial support could apply for a subsidy · Zuzalu Montenegro was invitation-based. Core organizers invited ~15 residents each, and · each resident could invite 2 guests. Some participants were selected via application",
     "amenities": [
       "Co-working spaces",
       "Conference and workshop venues",
@@ -4748,9 +4529,6 @@ export const popupData: Popup[] = [
     ],
     "history": [
       "By 2022, Vitalik Buterin had long been thinking about topics like crypto cities and network states",
-      "In January 2023, a four-person team started scouting locations and settled on a Montenegro resort. It expanded to eight people by February and launched Zuzalu in March - a two-month pop-up city for 200 residents",
-      "That fall, the community ran ZuConnect Istanbul - a two-week pop-up village right before DevConnect, supported by ETHGlobal and HackZuzalu",
-      "Since then, Zuzalu has expanded into decentralized Zu-villages ( ZuVillage Georgia, Zu-Garden, ZuCity Japan, ZuBerlin ) focused on experimental co-living",
       "By 2026, Zuzalu.city is a decentralized",
       "open-source operating system that connects users to Ethereum's ecosystem applications"
     ],
@@ -4761,8 +4539,7 @@ export const popupData: Popup[] = [
       "1/9/2024 - 10/9/2024",
       "15/4/2025 - 5/5/2025",
       "Zuzalu Montenegro",
-      "25/3/2023 - 25/5/2023",
-      "Oct–Nov 2023 ZuConnect Istanbul A 2-week gathering (~300 attendees) featuring the community's first funding round."
+      "25/3/2023 - 25/5/2023"
     ],
     "locationDetails": [
       "Zuzalu Pop-up, the first pop-up village ever, was hosted in Luštica Bay, Montenegro",

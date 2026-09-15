@@ -1,5 +1,5 @@
 import { shouldDropPopupLine } from '@/lib/popup-copy-guard';
-import { formatPopupText, isPopupScrapeNoise } from '@/lib/popup-text';
+import { formatPopupText, isPopupScrapeNoise, mergeBrokenPopupLines } from '@/lib/popup-text';
 
 function cleanLine(line: string): string {
   const t = formatPopupText(line);
@@ -98,9 +98,10 @@ export type HistoryEntry = {
 
 export function parseHistoryLines(lines: string[]): HistoryEntry[] {
   const entries: HistoryEntry[] = [];
+  const merged = mergeBrokenPopupLines(lines);
 
-  for (let i = 0; i < lines.length; i += 1) {
-    const line = cleanLine(lines[i]);
+  for (let i = 0; i < merged.length; i += 1) {
+    const line = cleanLine(merged[i]);
     if (!line) continue;
 
     const yearLead = line.match(/^(\d{4})\s*[-–—]\s*(.+)$/);
@@ -115,7 +116,7 @@ export function parseHistoryLines(lines: string[]): HistoryEntry[] {
       continue;
     }
 
-    const next = cleanLine(lines[i + 1] ?? '');
+    const next = cleanLine(merged[i + 1] ?? '');
     const dateLike = /^(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)/i.test(next) || /^\d{4}$/.test(next);
     if (dateLike && line.length < 48 && !/^\d{4}\s*[-–—]/.test(line)) {
       entries.push({ heading: line, detail: next });
@@ -135,7 +136,7 @@ export function parseHistoryLines(lines: string[]): HistoryEntry[] {
 }
 
 export function proseLines(lines: string[]): string[] {
-  return lines
+  return mergeBrokenPopupLines(lines)
     .map(cleanLine)
     .filter((line) => line.length > 0 && !/^What (is|kind of|are)\b.+\?$/i.test(line));
 }

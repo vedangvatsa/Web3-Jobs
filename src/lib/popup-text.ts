@@ -22,7 +22,77 @@ export function formatPopupText(text: string): string {
 
   t = t.replace(/\s+/g, ' ').trim();
   t = t.replace(/\s+([.,;:])/g, '$1');
+  t = t.replace(/\s+([,;])\s*/g, '$1 ');
+  t = t.replace(/([.!?])\s*([A-Z])/g, '$1 $2');
   return t;
+}
+
+const MARKETING_PHRASE_BREAKS = [
+  'Data sovereignty',
+  'Ecosystem Access',
+  'Elastic compute',
+  'Guaranteed internet',
+  'Premium physical',
+  'Exclusive networking',
+  'Vetted service',
+  'Growth-Ready Infrastructure',
+  '3,000+ community',
+  'Trusted by Forward-Thinking',
+  'Business Company Formation',
+  'Itana Digital Residency',
+  'Community Itana Digital',
+];
+
+/** Insert periods only before known glued marketing phrases (not place names). */
+export function insertSentenceBreaksInRunOn(text: string): string {
+  let t = formatPopupParagraph(text);
+  if (t.length < 100 || (t.match(/[.!?]/g) ?? []).length >= 2) return t;
+
+  for (const phrase of MARKETING_PHRASE_BREAKS) {
+    const re = new RegExp(`([a-z0-9%])\\s+(?=${phrase.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})`, 'gi');
+    t = t.replace(re, '$1. ');
+  }
+  return formatPopupParagraph(t);
+}
+
+export function explodePopupTextLines(lines: string[]): string[] {
+  const out: string[] = [];
+  for (const raw of lines) {
+    const broken = insertSentenceBreaksInRunOn(raw);
+    if (broken.length > 220 && (broken.match(/[.!?]/g) ?? []).length === 0) {
+      continue;
+    }
+    const parts = splitPopupSentences(broken);
+    if (parts.length > 1) {
+      for (const p of parts) {
+        if (p.length > 20) out.push(p);
+      }
+    } else if (broken.length > 20) {
+      out.push(broken);
+    }
+  }
+  return out;
+}
+
+/** Join lines split mid-sentence (common in scraped history blocks). */
+export function mergeBrokenPopupLines(lines: string[]): string[] {
+  const merged: string[] = [];
+  for (const raw of lines) {
+    const t = formatPopupParagraph(raw);
+    if (!t) continue;
+    const prev = merged[merged.length - 1];
+    if (
+      prev &&
+      !/[.!?]$/.test(prev) &&
+      /^[a-z(]/.test(t) &&
+      t.length < 80
+    ) {
+      merged[merged.length - 1] = `${prev} ${t}`;
+      continue;
+    }
+    merged.push(t);
+  }
+  return merged;
 }
 
 export function formatPopupParagraph(text: string): string {
@@ -44,6 +114,8 @@ export function isPopupScrapeNoise(line: string): boolean {
   if (/shows up on the Network School dashboard/i.test(t)) return true;
   if (/listed on the Network School dashboard/i.test(t)) return true;
   if (/on the Network School (dashboard|list)\b/i.test(t)) return true;
+  if (/Also listed on the\b/i.test(t)) return true;
+  if (/ns\.com dashboard/i.test(t)) return true;
   if (/Network School directories/i.test(t)) return true;
   // Scrape section headers / FAQ prompts
   if (/^Amenities in .+ include:?$/i.test(t)) return true;
