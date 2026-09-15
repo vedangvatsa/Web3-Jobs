@@ -3489,5 +3489,22 @@
     "website": "https://indiablockchaintour.com/",
     "registrationUrl": "https://indiablockchaintour.com/2026-nodes/chandigarh/ticket",
     "sideEventFor": ["ibt"]
+  },
+  {
+    "twitter": null,
+    "source": "curated-premier",
+    "coverImage": null,
+    "id": "premier-bitmela-2026",
+    "slug": "bitmela",
+    "name": "Bitmela 2026",
+    "description": "India's first festival on the future of money — two days in Jaipur (30–31 October 2026) from The Bitmela team, capping the Road to Bitmela tour.",
+    "startDate": "2026-10-30T09:00:00+05:30",
+    "endDate": "2026-10-31T18:00:00+05:30",
+    "city": "Jaipur",
+    "country": "India",
+    "location": "Jaipur, India",
+    "url": "https://thebitmela.com/",
+    "website": "https://thebitmela.com/",
+    "registrationUrl": "https://thebitmela.com/"
   }
 ]

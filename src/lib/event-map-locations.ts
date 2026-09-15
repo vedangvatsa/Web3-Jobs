@@ -50,6 +50,7 @@ export const EVENT_MAP_COUNTRY_CODES: Record<string, string> = {
   netherlands: 'NL',
   australia: 'AU',
   austria: 'AT',
+  nepal: 'NP',
 };
 
 /** Normalized `city|CC` → [lat, lng]. */
@@ -113,11 +114,43 @@ export const EVENT_MAP_CITY_COORDINATES: Record<string, [number, number]> = {
   'sydney|AU': [-33.87, 151.21],
   'birmingham|GB': [52.48, -1.9],
   'london|GB': [51.51, -0.13],
+  'watford|GB': [51.66, -0.4],
+  'kathmandu|NP': [27.72, 85.32],
+  'iskandar puteri|MY': [1.42, 103.65],
   'addis ababa|ET': [9.03, 38.74],
   'bogota|CO': [4.71, -74.07],
   'roatan|HN': [16.32, -86.53],
   'mexico city|MX': [19.43, -99.13],
+  'alameda|US': [37.77, -122.26],
   'arlington|US': [38.88, -77.1],
+  'atherton|US': [37.46, -122.2],
+  'belmont|US': [37.52, -122.28],
+  'berkeley|US': [37.87, -122.27],
+  'burlingame|US': [37.58, -122.35],
+  'danville|US': [37.82, -122.0],
+  'dublin|US': [37.7, -121.94],
+  'fremont|US': [37.55, -121.99],
+  'hoboken|US': [40.74, -74.03],
+  'jersey city|US': [40.72, -74.04],
+  'menlo park|US': [37.45, -122.18],
+  'mountain view|US': [37.39, -122.08],
+  'newark|US': [40.74, -74.17],
+  'oakland|US': [37.8, -122.27],
+  'palo alto|US': [37.44, -122.14],
+  'queens|US': [40.73, -73.82],
+  'redwood city|US': [37.49, -122.23],
+  'san carlos|US': [37.51, -122.26],
+  'san jose|US': [37.34, -121.89],
+  'san mateo|US': [37.56, -122.32],
+  'san rafael|US': [37.97, -122.53],
+  'santa clara|US': [37.35, -121.96],
+  'sausalito|US': [37.86, -122.49],
+  'south san francisco|US': [37.65, -122.41],
+  'stanford|US': [37.43, -122.17],
+  'stamford|US': [41.05, -73.54],
+  'sunnyvale|US': [37.37, -122.04],
+  'walnut creek|US': [37.91, -122.06],
+  'woodside|US': [37.43, -122.25],
   'atlanta|US': [33.75, -84.39],
   'austin|US': [30.27, -97.74],
   'boston|US': [42.36, -71.06],
@@ -149,6 +182,7 @@ export const EVENT_MAP_CITY_ALIASES: Record<string, string> = {
   'new delhi': 'delhi',
   noida: 'delhi',
   'navi mumbai': 'mumbai',
+  'queens county': 'queens',
   gujarat: 'ahmedabad',
   bangalore: 'bengaluru',
   roatán: 'roatan',
@@ -156,6 +190,9 @@ export const EVENT_MAP_CITY_ALIASES: Record<string, string> = {
   'mexico city': 'mexico city',
   'bogotá': 'bogota',
   bogota: 'bogota',
+  sisli: 'istanbul',
+  'şişli': 'istanbul',
+  rooftop: 'singapore',
 };
 
 export const EVENT_MAP_CITY_DISPLAY_NAMES: Record<string, string> = {
@@ -186,6 +223,7 @@ export function normalizeEventMapCity(city: string): string {
   if (aliased) return aliased;
 
   if (/ظبي/.test(trimmed) && /أبو|ابو|abu/i.test(trimmed)) return 'abu dhabi';
+  if (/^دبي$/u.test(trimmed.normalize('NFC'))) return 'dubai';
 
   return normalized.split(',')[0].trim();
 }

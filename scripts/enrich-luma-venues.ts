@@ -76,6 +76,7 @@ const EVENT_FILES = [
   'content/kbw-luma-events.json',
   'content/ibw-side-events.json',
   'content/india-luma-events.json',
+  'content/luma-crypto-events.json',
   'content/events-cache.json',
 ];
 const URL_FIELDS = ['url', 'website', 'registrationUrl'] as const;
