@@ -1,0 +1,360 @@
+{
+  "generatedAt": "2026-09-15T12:34:51.883Z",
+  "snapshotLabel": "September 2026",
+  "listings": 6069,
+  "companies": 324,
+  "withDesc": 6050,
+  "withDescPct": 99.7,
+  "top10SharePct": 40,
+  "topCompanies": [
+    {
+      "name": "Stripe",
+      "count": 625
+    },
+    {
+      "name": "OKX",
+      "count": 339
+    },
+    {
+      "name": "Binance",
+      "count": 285
+    },
+    {
+      "name": "Coinbase",
+      "count": 210
+    },
+    {
+      "name": "Block",
+      "count": 205
+    },
+    {
+      "name": "Jane Street",
+      "count": 179
+    },
+    {
+      "name": "Tangem",
+      "count": 171
+    },
+    {
+      "name": "Ramp",
+      "count": 145
+    },
+    {
+      "name": "Bybit",
+      "count": 144
+    },
+    {
+      "name": "Ripple",
+      "count": 124
+    }
+  ],
+  "departments": [
+    {
+      "label": "Engineering",
+      "count": 2167,
+      "pct": 35.7
+    },
+    {
+      "label": "Sales & BD",
+      "count": 650,
+      "pct": 10.7
+    },
+    {
+      "label": "Product & Design",
+      "count": 598,
+      "pct": 9.9
+    },
+    {
+      "label": "Marketing",
+      "count": 470,
+      "pct": 7.7
+    },
+    {
+      "label": "Operations",
+      "count": 434,
+      "pct": 7.2
+    },
+    {
+      "label": "Compliance & Legal",
+      "count": 327,
+      "pct": 5.4
+    },
+    {
+      "label": "Finance",
+      "count": 252,
+      "pct": 4.2
+    }
+  ],
+  "otherDeptPct": 14.2,
+  "engineeringCount": 2167,
+  "seniority": {
+    "mid": {
+      "count": 3826,
+      "pct": 63
+    },
+    "senior": {
+      "count": 1539,
+      "pct": 25.4
+    },
+    "executive": {
+      "count": 535,
+      "pct": 8.8
+    },
+    "entry": {
+      "count": 169,
+      "pct": 2.8
+    },
+    "internTitlePct": 1.9
+  },
+  "location": {
+    "usa": {
+      "count": 1913,
+      "pct": 31.5
+    },
+    "europe": {
+      "count": 600,
+      "pct": 9.9
+    },
+    "singapore": {
+      "count": 372,
+      "pct": 6.1
+    },
+    "hongKong": {
+      "count": 264,
+      "pct": 4.3
+    },
+    "remoteField": {
+      "count": 1170,
+      "pct": 19.3
+    },
+    "middleEast": {
+      "count": 84,
+      "pct": 1.4
+    },
+    "latam": {
+      "count": 88,
+      "pct": 1.4
+    },
+    "africa": {
+      "count": 11,
+      "pct": 0.2
+    },
+    "other": {
+      "count": 1567,
+      "pct": 25.8
+    },
+    "remoteBucket": {
+      "count": 1170,
+      "pct": 19.3
+    }
+  },
+  "jdRemote": {
+    "count": 2148,
+    "pct": 35.4
+  },
+  "jdHybrid": {
+    "count": 655,
+    "pct": 10.8
+  },
+  "jdContract": {
+    "count": 548,
+    "pct": 9
+  },
+  "jdFullTime": {
+    "count": 695,
+    "pct": 11.5
+  },
+  "keywords": {
+    "dataAnalysis": {
+      "count": 864,
+      "pct": 14.2
+    },
+    "python": {
+      "count": 1091,
+      "pct": 18
+    },
+    "sql": {
+      "count": 752,
+      "pct": 12.4
+    },
+    "projectMgmt": {
+      "count": 454,
+      "pct": 7.5
+    },
+    "java": {
+      "count": 455,
+      "pct": 7.5
+    },
+    "blockchain": {
+      "count": 2272,
+      "pct": 37.4
+    },
+    "ai": {
+      "count": 3010,
+      "pct": 49.6
+    },
+    "typescript": {
+      "count": 350,
+      "pct": 5.8
+    },
+    "javascript": {
+      "count": 221,
+      "pct": 3.6
+    },
+    "react": {
+      "count": 315,
+      "pct": 5.2
+    },
+    "aws": {
+      "count": 591,
+      "pct": 9.7
+    },
+    "go": {
+      "count": 148,
+      "pct": 2.4
+    },
+    "communication": {
+      "count": 3055,
+      "pct": 50.3
+    },
+    "compliance": {
+      "count": 2186,
+      "pct": 36
+    },
+    "stakeholder": {
+      "count": 292,
+      "pct": 4.8
+    },
+    "risk": {
+      "count": 507,
+      "pct": 8.4
+    },
+    "aml": {
+      "count": 433,
+      "pct": 7.1
+    },
+    "negotiation": {
+      "count": 311,
+      "pct": 5.1
+    },
+    "analytical": {
+      "count": 560,
+      "pct": 9.2
+    },
+    "productMgmt": {
+      "count": 744,
+      "pct": 12.3
+    },
+    "rust": {
+      "count": 245,
+      "pct": 4
+    },
+    "solidity": {
+      "count": 82,
+      "pct": 1.4
+    },
+    "smartContract": {
+      "count": 266,
+      "pct": 4.4
+    },
+    "tokenComp": {
+      "count": 301,
+      "pct": 5
+    },
+    "equity": {
+      "count": 1538,
+      "pct": 25.3
+    },
+    "remote": {
+      "count": 2148,
+      "pct": 35.4
+    },
+    "hybrid": {
+      "count": 655,
+      "pct": 10.8
+    },
+    "fullTime": {
+      "count": 695,
+      "pct": 11.5
+    },
+    "contract": {
+      "count": 548,
+      "pct": 9
+    }
+  },
+  "compensation": {
+    "compContextN": 3900,
+    "equityMention": 1499,
+    "tokenMention": 298,
+    "equityPctOfCompContext": 38.4,
+    "tokenPctOfCompContext": 7.6,
+    "equityShareOfPayMix": 83.4,
+    "tokenShareOfPayMix": 16.6
+  },
+  "salary": {
+    "n": 1293,
+    "pctOfListings": 21.3,
+    "median": 203500,
+    "min": 32500,
+    "max": 600000,
+    "salaryFieldRows": 71,
+    "bands": {
+      "under100": {
+        "count": 60,
+        "pct": 4.6
+      },
+      "b100_150": {
+        "count": 151,
+        "pct": 11.7
+      },
+      "b150_200": {
+        "count": 375,
+        "pct": 29
+      },
+      "over200": {
+        "count": 707,
+        "pct": 54.7
+      }
+    }
+  },
+  "employerTypes": {
+    "exchange": {
+      "count": 1133,
+      "pct": 18.7
+    },
+    "infrastructure": {
+      "count": 438,
+      "pct": 7.2
+    },
+    "payments": {
+      "count": 1367,
+      "pct": 22.5
+    },
+    "trading": {
+      "count": 242,
+      "pct": 4
+    },
+    "defi": {
+      "count": 25,
+      "pct": 0.4
+    },
+    "other": {
+      "count": 2864,
+      "pct": 47.2
+    },
+    "taggedSharePct": 52.8
+  },
+  "velocity": {
+    "byDate": {
+      "2026-09-04": 337,
+      "2026-09-05": 52,
+      "2026-09-06": 8,
+      "2026-09-07": 40,
+      "2026-09-08": 98,
+      "2026-09-09": 100,
+      "2026-09-10": 88,
+      "2026-09-11": 107
+    },
+    "avgWeekday": 128
+  }
+}

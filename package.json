@@ -34,6 +34,7 @@
     "test:luma-venues": "npx tsx scripts/enrich-luma-venues.test.ts",
     "check:collisions": "npx tsx scripts/check-slug-collisions.ts",
     "shard:job-descriptions": "npx tsx scripts/shard-job-descriptions.ts",
+    "hiring-report:stats": "npx tsx scripts/compute-hiring-report-stats.ts --write",
     "test:job-description-shards": "npx tsx scripts/test-job-description-shards.ts",
     "ingest:all": "npx tsx scripts/ingest-all.ts",
     "ingest:yzilabs": "npx tsx scripts/ingest-yzilabs.ts",
