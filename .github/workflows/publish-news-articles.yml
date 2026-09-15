@@ -51,6 +51,14 @@ jobs:
       - name: Install opencode
         run: curl -fsSL https://opencode.ai/install | bash
 
+      - name: Disable push in dry-run mode
+        if: ${{ inputs.dry_run == true }}
+        run: git remote set-url origin ./__dryrun_disabled__
+
+      - name: Record HEAD for dry-run check
+        if: ${{ inputs.dry_run == true }}
+        run: echo "BASE_SHA=$(git rev-parse HEAD)" >> $GITHUB_ENV
+
       - name: Publish news run
         run: |
           PROMPT="$(cat scripts/news-agent-brief.md)"
@@ -58,3 +66,9 @@ jobs:
           PROMPT="${PROMPT//\$MAX_ARTICLES/$NEWS_MAX}"
           PROMPT="${PROMPT//\$DRY_RUN/$NEWS_DRY_RUN}"
           "$HOME/.opencode/bin/opencode" run --model "$NEWS_MODEL" "$PROMPT"
+
+      - name: Verify dry-run made no commits
+        if: ${{ inputs.dry_run == true }}
+        run: |
+          test "$(git rev-parse HEAD)" = "$BASE_SHA" || { echo "DRY-RUN VIOLATION: commits were created"; git log --oneline -3; exit 1; }
+          echo "Dry-run clean: no commits, no pushes."
