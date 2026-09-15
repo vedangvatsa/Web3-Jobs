@@ -809,17 +809,32 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                   contained on a muted backdrop instead. */}
               {/* Featured Image - render if explicitly defined in frontmatter */}
               {article.image && !article.image.includes('picsum.photos') && !article.image.includes('/api/og?') && (
-                <div className="relative w-full aspect-[16/9] sm:aspect-[2/1] max-h-[380px] overflow-hidden rounded-xl border border-border/70 shadow-none mb-10 bg-muted/30">
-                  <Image
-                    src={article.image}
-                    alt={`${article.title} - Hashtag Web3 article cover`}
-                    fill
-                     className={article.imageFit === 'contain' || article.image.toLowerCase().endsWith('.svg') ? 'object-contain p-4' : 'object-cover'}
-                    sizes="(max-width: 768px) 100vw, (max-width: 1200px) 800px, 900px"
-                    priority
-                    data-ai-hint={`${article['data-ai-hint'] || ''}`}
-                  />
-                </div>
+                <>
+                  <div className="relative w-full aspect-[16/9] sm:aspect-[2/1] max-h-[380px] overflow-hidden rounded-xl border border-border/70 shadow-none mb-2 bg-muted/30">
+                    <Image
+                      src={article.image}
+                      alt={`${article.title} - Hashtag Web3 article cover`}
+                      fill
+                       className={article.imageFit === 'contain' || article.image.toLowerCase().endsWith('.svg') ? 'object-contain p-4' : 'object-cover'}
+                      sizes="(max-width: 768px) 100vw, (max-width: 1200px) 800px, 900px"
+                      priority
+                      data-ai-hint={`${article['data-ai-hint'] || ''}`}
+                    />
+                  </div>
+                  {(article.imageCaption || article.imageCreditUrl) ? (
+                    <p className="mb-8 text-xs italic text-muted-foreground">
+                      {article.imageCaption}
+                      {article.imageCaption && article.imageCreditUrl ? ' ' : null}
+                      {article.imageCreditUrl && (
+                        <a href={article.imageCreditUrl} target="_blank" rel="noopener noreferrer nofollow" className="underline underline-offset-2">
+                          Source
+                        </a>
+                      )}
+                    </p>
+                  ) : (
+                    <div className="mb-8" />
+                  )}
+                </>
               )}
 
               {/* Prose Content */}

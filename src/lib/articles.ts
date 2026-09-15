@@ -58,6 +58,8 @@ function readArticlesFromDirectory(directory: string): ArticleMetadata[] {
     'data-ai-hint': data['data-ai-hint'],
     imageFit: data.imageFit === 'contain' ? 'contain' : undefined,
     image,
+    imageCaption: typeof data.imageCaption === 'string' && data.imageCaption ? data.imageCaption : undefined,
+    imageCreditUrl: typeof data.imageCreditUrl === 'string' && data.imageCreditUrl ? data.imageCreditUrl : undefined,
     publishedDate: typeof data.publishedDate === 'string' ? data.publishedDate : undefined,
     lastUpdated: typeof data.lastUpdated === 'string' ? data.lastUpdated : undefined,
    };
@@ -410,6 +412,8 @@ export async function getArticle(slug: string): Promise<Article | undefined> {
     'data-ai-hint': data['data-ai-hint'],
     imageFit: data.imageFit === 'contain' ? 'contain' : undefined,
     image,
+    imageCaption: typeof data.imageCaption === 'string' && data.imageCaption ? data.imageCaption : undefined,
+    imageCreditUrl: typeof data.imageCreditUrl === 'string' && data.imageCreditUrl ? data.imageCreditUrl : undefined,
    publishedDate: typeof data.publishedDate === 'string' ? data.publishedDate : undefined,
    lastUpdated: typeof data.lastUpdated === 'string' ? data.lastUpdated : undefined,
   };

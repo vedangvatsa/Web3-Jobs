@@ -21,6 +21,8 @@ export interface Article {
  title: string;
  ogTitle?: string;
  image: string;
+ imageCaption?: string;
+ imageCreditUrl?: string;
  description: string;
  content: string;
  rawContent?: string;
