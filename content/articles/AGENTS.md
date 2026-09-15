@@ -103,6 +103,7 @@ Replace stock language with a concrete fact, a stated limitation, or remove it. 
 - Use a relevant image with a stable URL from the official source whenever possible.
 - Confirm the image belongs to the stated source and supports the surrounding text.
 - Add an adjacent italic caption with a source link when an image appears in the body.
+- Credit the hero image with `imageCaption` (short description plus photographer and license) and `imageCreditUrl` (link to the source page) in front matter. The route renders the caption directly below the hero image.
 - Do not use an AI-generated illustration, an unrelated stock image, a screenshot with no source, or a decorative chart as evidence.
 - Ensure a remote image host is allowed in `next.config.mjs` before using it.
 - Do not repeat the front-matter hero image in the body; the renderer displays it above the article.
