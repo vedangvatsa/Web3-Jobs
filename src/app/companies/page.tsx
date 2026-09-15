@@ -71,12 +71,9 @@ export default async function CompaniesPage() {
         <main className="flex-1">
           <PageShell>
             <PageHeader title="Web3 Companies" />
-
-            <article className="site-container">
-              <TrustedBy />
-              <CommunityFeedBanner label="company & hiring feed" />
-              <CompaniesBoard initialCompanies={boardCompanies} companyLogos={companyLogos} />
-            </article>
+            <TrustedBy />
+            <CommunityFeedBanner label="company & hiring feed" />
+            <CompaniesBoard initialCompanies={boardCompanies} companyLogos={companyLogos} />
           </PageShell>
         </main>
       </div>

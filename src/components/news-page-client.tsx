@@ -1,99 +1,105 @@
 'use client';
 
 import * as React from 'react';
-import { Card, CardHeader, CardTitle, CardContent } from '@/components/ui/card';
-import { Input } from '@/components/ui/input';
+import { Card, CardTitle } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
-import { Search, Newspaper } from 'lucide-react';
 import { trackNewsClick, trackCTAClick } from '@/lib/posthog';
 import type { NewsItem } from '@/types';
+import { ListingEmptyState, ListingToolbar } from '@/components/listing-toolbar';
 
 export function NewsPageClient({ initialNewsItems }: { initialNewsItems: NewsItem[] }) {
- const [searchQuery, setSearchQuery] = React.useState('');
+  const [searchQuery, setSearchQuery] = React.useState('');
 
- const filteredNews = React.useMemo(() => {
-  if (!searchQuery) return initialNewsItems;
-  const q = searchQuery.toLowerCase();
-  return initialNewsItems.filter(item =>
-   item.title.toLowerCase().includes(q) ||
-   item.source.toLowerCase().includes(q) ||
-   (item.contentSnippet || '').toLowerCase().includes(q)
-  );
- }, [initialNewsItems, searchQuery]);
+  const filteredNews = React.useMemo(() => {
+    const q = searchQuery.toLowerCase().trim();
+    if (!q) return initialNewsItems;
+    return initialNewsItems.filter(
+      (item) =>
+        item.title.toLowerCase().includes(q) ||
+        item.source.toLowerCase().includes(q) ||
+        (item.contentSnippet || '').toLowerCase().includes(q)
+    );
+  }, [initialNewsItems, searchQuery]);
 
- return (
-  <article className="site-container">
-   {/* Search */}
-   <div className="mb-8 site-container">
-    <div className="relative">
-      <Input
-        placeholder="Search news..."
-        value={searchQuery}
-        onChange={(e) => setSearchQuery(e.target.value)}
-        className="w-full text-base pl-12 h-12 rounded-full shadow-sm focus-visible:ring-offset-4"
+  return (
+    <div>
+      <ListingToolbar
+        searchValue={searchQuery}
+        onSearchChange={setSearchQuery}
+        searchPlaceholder="Search headlines..."
+        searchAriaLabel="Search news"
+        resultCount={searchQuery ? filteredNews.length : null}
       />
-      <Search className="absolute left-5 top-1/2 -translate-y-1/2 h-5 w-5 text-muted-foreground" />
-    </div>
-    {searchQuery && (
-      <p className="text-center text-sm text-muted-foreground mt-3">
-        {filteredNews.length} result{filteredNews.length !== 1 ? 's' : ''} found
-      </p>
-    )}
-   </div>
 
-   {/* News Grid */}
-   <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 items-stretch">
-     {filteredNews.map((item, index) => (
-       <a
-         key={index}
-         href={item.link}
-         target={item.link.startsWith('http') ? '_blank' : undefined}
-         rel={item.link.startsWith('http') ? 'noopener noreferrer' : undefined}
-        onClick={() => trackNewsClick(item.title, item.link, item.source)}
-        className="block group"
-      >
-       <Card className="flex flex-col h-full rounded-lg shadow-sm hover:shadow border bg-card transition-all duration-200 p-4">
-        <div className="flex items-center justify-between gap-2 mb-2">
-          <Badge variant={
-           item.source === 'Decrypt' ? 'destructive' :
-           item.source === 'Cointelegraph' ? 'secondary' :
-           item.source === 'Coindesk' ? 'default' :
-           'outline'
-          } className="text-[10px] uppercase font-semibold">
-           {item.source}
-          </Badge>
-          <span className="text-xs text-muted-foreground">
-            {new Date(item.pubDate).toLocaleDateString('en-US', { month: 'short', day: 'numeric' })}
-          </span>
+      <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
+        {filteredNews.map((item, index) => (
+          <a
+            key={`${item.link}-${index}`}
+            href={item.link}
+            target={item.link.startsWith('http') ? '_blank' : undefined}
+            rel={item.link.startsWith('http') ? 'noopener noreferrer' : undefined}
+            onClick={() => trackNewsClick(item.title, item.link, item.source)}
+            className="group block h-full"
+          >
+            <Card className="flex h-full flex-col border-border/70 bg-card p-4 shadow-none transition-colors hover:border-foreground/25">
+              <div className="mb-2 flex items-center justify-between gap-2">
+                <Badge
+                  variant={
+                    item.source === 'Decrypt'
+                      ? 'destructive'
+                      : item.source === 'Cointelegraph'
+                        ? 'secondary'
+                        : item.source === 'Coindesk'
+                          ? 'default'
+                          : 'outline'
+                  }
+                  className="text-[10px] font-semibold uppercase"
+                >
+                  {item.source}
+                </Badge>
+                <span className="text-xs text-muted-foreground">
+                  {new Date(item.pubDate).toLocaleDateString('en-US', {
+                    month: 'short',
+                    day: 'numeric',
+                  })}
+                </span>
+              </div>
+              <CardTitle className="text-base font-semibold leading-snug transition-colors group-hover:text-primary">
+                {item.title}
+              </CardTitle>
+            </Card>
+          </a>
+        ))}
+      </div>
+
+      {filteredNews.length === 0 && (
+        <ListingEmptyState
+          title="No news found"
+          description="Try a different headline or source."
+          onClear={searchQuery ? () => setSearchQuery('') : undefined}
+          clearLabel="Clear search"
+        />
+      )}
+
+      <div className="mt-12 flex flex-col items-center justify-between gap-4 border-t pt-8 sm:flex-row">
+        <div>
+          <h3 className="mb-1 font-semibold text-foreground">Stay Ahead with Our News Feed</h3>
+          <p className="text-sm text-muted-foreground">
+            Get the latest Web3 updates delivered directly to your Telegram.
+          </p>
         </div>
-        <CardTitle className="text-base leading-snug font-semibold group-hover:text-primary transition-colors">
-         {item.title}
-        </CardTitle>
-       </Card>
-      </a>
-     ))
-    }
-   </div>
-
-   {filteredNews.length === 0 && (
-     <div className="text-center py-20 border-2 border-dashed rounded-lg col-span-full mt-8">
-       <Newspaper className="mx-auto h-12 w-12 text-muted-foreground/40 mb-4" />
-       <h3 className="text-xl font-semibold">No News Found</h3>
-       <p className="text-muted-foreground mt-2">Try adjusting your search query.</p>
-     </div>
-   )}
-
-   <div className="mt-12 pt-8 border-t flex flex-col sm:flex-row items-center justify-between gap-4">
-       <div>
-         <h3 className="font-semibold text-foreground mb-1">Stay Ahead with Our News Feed</h3>
-         <p className="text-sm text-muted-foreground">Get the latest Web3 updates delivered directly to your Telegram.</p>
-       </div>
-       <a href="https://t.me/web3newsfeed" target="_blank" rel="noopener noreferrer" onClick={() => trackCTAClick('join_news_feed', 'https://t.me/web3newsfeed')} className="flex-shrink-0">
-         <span className="inline-flex items-center justify-center rounded-md text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring bg-primary text-primary-foreground shadow hover:bg-primary/90 h-9 px-4 py-2">
-           Join Telegram
-         </span>
-       </a>
-   </div>
-  </article>
- );
+        <a
+          href="https://t.me/web3newsfeed"
+          target="_blank"
+          rel="noopener noreferrer"
+          onClick={() => trackCTAClick('join_news_feed', 'https://t.me/web3newsfeed')}
+          className="flex-shrink-0"
+        >
+          <span className="inline-flex h-9 items-center justify-center rounded-md bg-primary px-4 py-2 text-sm font-medium text-primary-foreground shadow transition-colors hover:bg-primary/90 focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring">
+            Join Telegram
+          </span>
+        </a>
+      </div>
+    </div>
+  );
 }

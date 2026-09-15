@@ -1,5 +1,6 @@
 import { Suspense } from 'react';
 import { DigitalNomadVisasContent } from '@/components/digital-nomad-visas-client';
+import { PageShell } from '@/components/page-shell';
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
@@ -31,17 +32,13 @@ export const metadata: Metadata = {
 export default function DigitalNomadVisasPage() {
  return (
   <div className="flex flex-col min-h-screen bg-background">
-      <main className="flex-grow">
-    <div className="container mx-auto px-4 page-section">
-     <Suspense fallback={
-      <div className="site-container text-center py-16 text-muted-foreground">
-       Loading database...
-      </div>
-     }>
-      <DigitalNomadVisasContent />
-     </Suspense>
-    </div>
-   </main>
+    <main className="flex-grow">
+      <PageShell>
+        <Suspense fallback={<div className="text-center py-16 text-muted-foreground">Loading database...</div>}>
+          <DigitalNomadVisasContent />
+        </Suspense>
+      </PageShell>
+    </main>
   </div>
  );
 }

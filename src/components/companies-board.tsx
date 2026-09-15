@@ -1,9 +1,8 @@
 'use client';
 
 import { useState, useMemo, useRef, useEffect } from 'react';
-import { Search } from 'lucide-react';
-import { Input } from '@/components/ui/input';
 import { CompanyCard } from '@/components/company-card';
+import { ListingEmptyState, ListingToolbar } from '@/components/listing-toolbar';
 import type { CompanySummary } from '@/types';
 import type { CompanyLogoMap } from '@/lib/job-listing';
 
@@ -56,29 +55,17 @@ export function CompaniesBoard({ initialCompanies, companyLogos = {} }: Companie
 
   return (
     <div>
-      {/* Search Bar - identical to JobBoard & EventsBoard */}
-      <div className="mb-6">
-        <div className="relative">
-          <Input
-            placeholder="Search companies"
-            value={searchQuery}
-            onChange={(e) => {
-              setSearchQuery(e.target.value);
-              setVisibleCount(INITIAL_COUNT);
-            }}
-            className="h-11 w-full rounded-md pl-10 pr-10 text-base"
-            aria-label="Search companies"
-          />
-          <Search className="absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-muted-foreground" aria-hidden="true" />
-        </div>
-        {searchQuery && (
-          <p className="mt-2 text-sm text-muted-foreground" aria-live="polite">
-            {filtered.length} result{filtered.length === 1 ? '' : 's'}
-          </p>
-        )}
-      </div>
+      <ListingToolbar
+        searchValue={searchQuery}
+        onSearchChange={(value) => {
+          setSearchQuery(value);
+          setVisibleCount(INITIAL_COUNT);
+        }}
+        searchPlaceholder="Search companies"
+        searchAriaLabel="Search companies"
+        resultCount={searchQuery ? filtered.length : null}
+      />
 
-      {/* Companies Grid - identical to JobBoard & EventsBoard */}
       <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
         {visibleCompanies.map((company) => {
           const logo = companyLogos[company.slug];
@@ -93,7 +80,6 @@ export function CompaniesBoard({ initialCompanies, companyLogos = {} }: Companie
         })}
       </div>
 
-      {/* Infinite scroll sentinel */}
       {hasMore && (
         <div ref={sentinelRef} className="flex justify-center py-8" aria-hidden="true">
           <div className="flex items-center gap-2 text-sm text-muted-foreground">
@@ -104,10 +90,12 @@ export function CompaniesBoard({ initialCompanies, companyLogos = {} }: Companie
       )}
 
       {filtered.length === 0 && (
-        <div className="py-16 text-center">
-          <h2 className="text-lg font-semibold">No companies found</h2>
-          <p className="mt-1 text-sm text-muted-foreground">Try a different company name.</p>
-        </div>
+        <ListingEmptyState
+          title="No companies found"
+          description="Try a different company name."
+          onClear={searchQuery ? () => setSearchQuery('') : undefined}
+          clearLabel="Clear search"
+        />
       )}
     </div>
   );

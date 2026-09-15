@@ -3,10 +3,10 @@
 import type { CompanyLogoMap } from '@/lib/job-listing';
 import { getCompanySlug, getJobSlug } from '@/lib/job-slugs';
 import type { Job } from '@/types';
-import { LoaderCircle, Search } from 'lucide-react';
+import { LoaderCircle } from 'lucide-react';
 import { useCallback, useEffect, useRef, useState } from 'react';
-import { Input } from '@/components/ui/input';
 import { JobCard } from './job-card';
+import { ListingEmptyState, ListingToolbar } from '@/components/listing-toolbar';
 
 const PAGE_SIZE = 50;
 
@@ -202,32 +202,26 @@ export function JobBoard({
 
   return (
     <div>
-      <div className="mb-6">
-        <div
-          className="relative"
-          role="search"
-          {...{ toolname: 'search_jobs', tooldescription: 'Search verified Web3 and crypto jobs by keyword or company' }}
-        >
-          <Input
-            placeholder="Search roles or companies"
-            value={inputValue}
-            onChange={(event) => setInputValue(event.target.value)}
-            className="h-11 w-full rounded-md pl-10 pr-10 text-base"
-            aria-label="Search jobs"
-            data-toolname="searchWeb3Jobs"
-            data-tooldescription="Search current Web3 job listings by role or company."
-          />
-          <Search className="absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-muted-foreground" aria-hidden="true" />
-          {isLoading && (
-            <LoaderCircle className="absolute right-3 top-1/2 h-4 w-4 -translate-y-1/2 animate-spin text-muted-foreground" aria-label="Loading jobs" />
-          )}
-        </div>
-        {searchQuery && !isLoading && (
-          <p className="mt-2 text-sm text-muted-foreground" aria-live="polite">
-            {total} result{total === 1 ? '' : 's'}
-          </p>
-        )}
-      </div>
+      <ListingToolbar
+        searchValue={inputValue}
+        onSearchChange={setInputValue}
+        searchPlaceholder="Search roles or companies"
+        searchAriaLabel="Search jobs"
+        searchEndAdornment={
+          isLoading ? (
+            <LoaderCircle className="h-4 w-4 animate-spin text-muted-foreground" aria-label="Loading jobs" />
+          ) : null
+        }
+        searchWrapperProps={{
+          toolname: 'search_jobs',
+          tooldescription: 'Search verified Web3 and crypto jobs by keyword or company',
+        }}
+        inputProps={{
+          'data-toolname': 'searchWeb3Jobs',
+          'data-tooldescription': 'Search current Web3 job listings by role or company.',
+        }}
+        resultCount={searchQuery && !isLoading ? total : null}
+      />
 
       <div ref={gridRef} className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
         {jobs.map((job) => {
@@ -262,10 +256,12 @@ export function JobBoard({
       )}
 
       {!isLoading && jobs.length === 0 && (
-        <div className="py-16 text-center">
-          <h2 className="text-lg font-semibold">No jobs found</h2>
-          <p className="mt-1 text-sm text-muted-foreground">Try a different role or company.</p>
-        </div>
+        <ListingEmptyState
+          title="No jobs found"
+          description="Try a different role or company."
+          onClear={searchQuery ? () => setInputValue('') : undefined}
+          clearLabel="Clear search"
+        />
       )}
 
       {error && (

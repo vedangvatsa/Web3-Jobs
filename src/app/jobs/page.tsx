@@ -83,24 +83,22 @@ export default async function JobsPage() {
          <main className="flex-1" data-job-page>
       <PageShell>
         <PageHeader title="Web3 Jobs" />
-       <div className="site-container">
-         <TrustedBy />
-          <div className="text-center my-4 space-y-2">
-            <div className="inline-flex items-center gap-3 text-sm text-muted-foreground flex-wrap justify-center">
-              <Link
-                href={SITE_STATS.telegramUrl}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="hover:text-foreground inline-flex items-center gap-2"
-              >
-                <Rss className="h-4 w-4" />
-                <span>Join our hiring feed with <strong className="text-foreground">{SITE_STATS.telegramSubscribersFormatted}</strong> subscribers.</span>
-              </Link>
-            </div>
+        <TrustedBy />
+        <div className="text-center my-4 space-y-2">
+          <div className="inline-flex items-center gap-3 text-sm text-muted-foreground flex-wrap justify-center">
+            <Link
+              href={SITE_STATS.telegramUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hover:text-foreground inline-flex items-center gap-2"
+            >
+              <Rss className="h-4 w-4" />
+              <span>Join our hiring feed with <strong className="text-foreground">{SITE_STATS.telegramSubscribersFormatted}</strong> subscribers.</span>
+            </Link>
           </div>
-          <JobBoard initialJobs={initialJobs} initialTotal={totalJobs} companyLogos={companyLogos} />
-       </div>
-     </PageShell>
+        </div>
+        <JobBoard initialJobs={initialJobs} initialTotal={totalJobs} companyLogos={companyLogos} />
+      </PageShell>
     </main>
    </div>
   </>
