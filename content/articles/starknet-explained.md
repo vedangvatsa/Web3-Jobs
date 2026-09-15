@@ -1,5 +1,5 @@
 ---
-title: Starknet Explained - The Cairo ZK Rollup Scaling Ethereum
+title: Starknet Explained
 ogTitle: "STARKNET EXPLAINED - THE CAIRO ZK ROLLUP SCALING ETHEREUM"
 description: >-
   Starknet is an Ethereum Layer 2 validity rollup that uses STARK proofs and the

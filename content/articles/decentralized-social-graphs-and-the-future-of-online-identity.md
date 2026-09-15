@@ -1,5 +1,5 @@
 ---
-title: Decentralized Social Graphs and the Future of Online Identity
+title: Decentralized Social Graphs and Online Identity
 ogTitle: "DECENTRALIZED SOCIAL GRAPHS AND THE FUTURE OF ONLINE IDENTITY"
 image: /images/andrea-de-santis-zwd435-ewb4-unsplash.jpg
 data-ai-hint: social network identity

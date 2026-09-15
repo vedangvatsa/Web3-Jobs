@@ -1,5 +1,5 @@
 ---
-title: What Web3 Means for the Future of Digital Communities
+title: Web3 and Digital Communities
 ogTitle: "WHAT WEB3 MEANS FOR THE FUTURE OF DIGITAL COMMUNITIES"
 image: /images/andrea-de-santis-zwd435-ewb4-unsplash.jpg
 data-ai-hint: digital community future

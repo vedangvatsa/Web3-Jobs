@@ -1,5 +1,5 @@
 ---
-title: Is a Career in Web3 Right for You? A Self-Assessment Guide
+title: "Is a Career in Web3 Right for You?"
 ogTitle: "IS A CAREER IN WEB3 RIGHT FOR YOU? A SELF-ASSESSMENT GUIDE"
 image: /images/linus-mimietz-gvptKmonylk-unsplash.jpg
 data-ai-hint: career choice person

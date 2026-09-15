@@ -1,5 +1,5 @@
 ---
-title: 'A Deep Dive into Rollups'
+title: Ethereum Rollups
 ogTitle: "A DEEP DIVE INTO ROLLUPS"
 image: /images/dell-8pb7Hq539Zw-unsplash.jpg
 description: >-

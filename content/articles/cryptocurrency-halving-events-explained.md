@@ -1,5 +1,5 @@
 ---
-title: "Cryptocurrency Halving Events Explained"
+title: Cryptocurrency Halving Events
 ogTitle: "CRYPTOCURRENCY HALVING EVENTS EXPLAINED"
 image: "/images/maximalfocus-naSAHDWRNbQ-unsplash.jpg"
 data-ai-hint: "crypto chart graph btc halving emission curve"

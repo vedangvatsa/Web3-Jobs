@@ -1,5 +1,5 @@
 ---
-title: What is a Nonce in Blockchain Mining and Smart Contracts?
+title: "What Is a Nonce in Blockchain?"
 ogTitle: "NONCE IN BLOCKCHAIN MINING AND SMART CONTRACTS? EXPLAINED"
 image: /images/articles/charts/blockchain-nonce-mechanics.svg
 data-ai-hint: nonce blockchain mining Proof of Work EVM Ethereum Bitcoin

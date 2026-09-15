@@ -1,5 +1,5 @@
 ---
-title: Web3 Legal Careers 2026 | $130K-$350K Lawyer & Compliance Jobs
+title: Web3 Legal Careers in 2026
 ogTitle: "WEB3 LEGAL CAREERS 2026 | $130K-$350K LAWYER & COMPLIANCE JOBS"
 image: /images/chris-ried-ieic5Tq8YMk-unsplash.jpg
 data-ai-hint: legal gavel law

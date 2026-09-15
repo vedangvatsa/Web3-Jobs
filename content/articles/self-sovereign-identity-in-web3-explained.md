@@ -1,5 +1,5 @@
 ---
-title: Self-Sovereign Identity in Web3 Explained
+title: Self-Sovereign Identity in Web3
 ogTitle: "SELF-SOVEREIGN IDENTITY IN WEB3 EXPLAINED"
 image: /images/kaitlyn-baker-vZJdYl5JVXY-unsplash.jpg
 data-ai-hint: digital identity key

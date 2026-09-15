@@ -1,5 +1,5 @@
 ---
-title: What is Quantum Computing for Beginners
+title: "What Is Quantum Computing?"
 ogTitle: "QUANTUM COMPUTING FOR BEGINNERS EXPLAINED"
 description: >-
   A simple introduction to the mind-bending world of quantum computing,

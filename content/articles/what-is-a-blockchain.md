@@ -1,5 +1,5 @@
 ---
-title: What Is a Blockchain? the best Guide for Beginners
+title: "What Is a Blockchain?"
 ogTitle: "BLOCKCHAIN? THE BEST GUIDE FOR BEGINNERS EXPLAINED"
 image: >-
   https://images.unsplash.com/photo-1639322537228-f710d846310a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxibG9ja2NoYWlufGVufDB8fHx8MTc1NDk0ODU1MXww&lib=rb-4.1.0&q=80&w=1080

@@ -1,5 +1,5 @@
 ---
-title: What is a Launchpad in Crypto Projects
+title: What Is a Launchpad in Crypto Projects
 ogTitle: "LAUNCHPAD IN CRYPTO PROJECTS EXPLAINED"
 image: /images/nasa-1lfI7wkGWZ4-unsplash.jpg
 data-ai-hint: rocket launch crypto

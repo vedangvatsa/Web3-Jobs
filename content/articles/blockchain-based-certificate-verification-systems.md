@@ -1,5 +1,5 @@
 ---
-title: Blockchain Based Certificate Verification Systems
+title: Blockchain Certificate Verification
 ogTitle: "BLOCKCHAIN BASED CERTIFICATE VERIFICATION SYSTEMS"
 image: /images/chris-ried-ieic5Tq8YMk-unsplash.jpg
 data-ai-hint: certificate verification blockchain
@@ -10,7 +10,6 @@ category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-15"
 ---
-
 A certificate verification system answers a narrow question: did a named issuer make this claim about this person, and is the claim still valid for the purpose at hand? A blockchain can be part of the answer, but it is not the certificate and it does not establish whether a student completed a course or a professional met a licensing rule. Those facts come from the issuer's records and the issuer's decision to sign a credential.
 
 The [W3C Verifiable Credentials Data Model 2.0](https://www.w3.org/TR/vc-data-model-2.0/) defines a verifiable credential as a set of claims made by an issuer about one or more subjects. A digital diploma might say that a university awarded a named person a particular degree on a date. A training provider might attest that the holder passed a defined assessment. The model separates three roles: the **issuer** makes claims, the **holder** stores and presents them, and the **verifier** checks them for a particular transaction.

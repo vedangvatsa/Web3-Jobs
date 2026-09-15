@@ -1,5 +1,5 @@
 ---
-title: How to Create and Deploy Your First Smart Contract
+title: Deploy Your First Smart Contract
 ogTitle: "CREATE AND DEPLOY YOUR FIRST SMART CONTRACT GUIDE"
 image: >-
   https://images.unsplash.com/photo-1639762681057-408e52192e50?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxzbWFydCUyMGNvbnRyYWN0fGVufDB8fHx8MTc2Mjg1NjQxM3ww&ixlib=rb-4.1.0&q=80&w=1080
@@ -10,8 +10,7 @@ category: Getting Started
 data-ai-hint: smart contract deployment
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-15"
----
-Deploying your first [smart contract](/what-are-smart-contracts) represents a significant milestone for anyone aspiring to become a [Web3](/what-is-web3) developer. While the process may initially appear intimidating, modern tools make it straightforward. This guide provides a detailed walkthrough of creating and deploying a basic smart contract using Remix, a popular web-based Integrated Development Environment (IDE).
+---Deploying your first [smart contract](/what-are-smart-contracts) represents a significant milestone for anyone aspiring to become a [Web3](/what-is-web3) developer. While the process may initially appear intimidating, modern tools make it straightforward. This guide provides a detailed walkthrough of creating and deploying a basic smart contract using Remix, a popular web-based Integrated Development Environment (IDE).
 
 ### Requirements
 

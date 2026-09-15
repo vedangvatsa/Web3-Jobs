@@ -1,5 +1,5 @@
 ---
-title: Build a Web3 Portfolio in 2026 That Lands $120K+ Jobs
+title: Build a Web3 Portfolio in 2026
 ogTitle: "BUILD A WEB3 PORTFOLIO IN 2026 THAT LANDS $120K+ JOBS"
 image: >-
   https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxQb3J0Zm9saW98ZW58MHx8fHwxNzU0OTUxNjI0fDA&ixlib=rb-4.1.0&q=80&w=1080

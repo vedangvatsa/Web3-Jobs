@@ -1,5 +1,5 @@
 ---
-title: How to Handle Job Interview Nerves and Turn Anxiety Into Confidence
+title: How to Handle Job Interview Nerves
 ogTitle: "HANDLE JOB INTERVIEW NERVES AND TURN ANXIETY INTO CONFIDENCE"
 date: '2025-08-16'
 image: /images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg

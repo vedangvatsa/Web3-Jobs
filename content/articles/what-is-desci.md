@@ -1,5 +1,5 @@
 ---
-title: What is DeSci? A Guide to Decentralized Science
+title: "What Is DeSci?"
 ogTitle: "DESCI? A GUIDE TO DECENTRALIZED SCIENCE EXPLAINED"
 image: /images/thisisengineering-ZPeXrWxOjRQ-unsplash.jpg
 data-ai-hint: decentralized science

@@ -1,5 +1,5 @@
 ---
-title: Governance Challenges in Agentic AI Frameworks Safeguards and Decentralized Oversight
+title: Governance Challenges in Agentic AI
 ogTitle: "GOVERNANCE CHALLENGES IN AGENTIC AI FRAMEWORKS SAFEGUARDS AND"
 image: /images/christina-wocintechchat-com-glRqyWJgUeY-unsplash.jpg
 data-ai-hint: ai governance challenges

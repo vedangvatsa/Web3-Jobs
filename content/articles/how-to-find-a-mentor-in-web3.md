@@ -1,5 +1,5 @@
 ---
-title: How to Find a Mentor in Web3 - Build Your Network
+title: How to Find a Mentor in Web3
 ogTitle: "FIND A MENTOR IN WEB3 - BUILD YOUR NETWORK GUIDE"
 description: >-
   Discover practical strategies for finding a mentor in Web3, building

@@ -1,5 +1,5 @@
 ---
-title: Has Web3 Developer Activity Slowed Down? Explained
+title: "Has Web3 Developer Activity Slowed Down?"
 ogTitle: "HAS WEB3 DEVELOPER ACTIVITY SLOWED DOWN? EXPLAINED"
 description: >-
   A detailed analysis of the slowdown in Web3 developer activity. Is it a sign

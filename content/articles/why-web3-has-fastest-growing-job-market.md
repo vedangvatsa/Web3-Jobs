@@ -1,5 +1,5 @@
 ---
-title: Why Web3 Has the Fastest-Growing Job Market in Tech
+title: "Web3's Fast-Growing Job Market"
 ogTitle: "WEB3 HAS THE FASTEST-GROWING JOB MARKET IN TECH"
 image: /images/thisisengineering-ZPeXrWxOjRQ-unsplash.jpg
 data-ai-hint: web3 job market

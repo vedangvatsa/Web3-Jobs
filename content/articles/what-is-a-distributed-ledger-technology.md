@@ -1,5 +1,5 @@
 ---
-title: What is a Distributed Ledger Technology
+title: What Is a Distributed Ledger Technology
 ogTitle: "DISTRIBUTED LEDGER TECHNOLOGY EXPLAINED"
 image: /images/nasa-Q1p7bh3SHj8-unsplash.jpg
 data-ai-hint: distributed ledger

@@ -1,5 +1,5 @@
 ---
-title: What is Yield Farming? A Guide to Earning Passive Income in DeFi
+title: "What Is Yield Farming?"
 ogTitle: "YIELD FARMING? A GUIDE TO EARNING PASSIVE INCOME IN DEFI"
 image: >-
   https://images.unsplash.com/photo-1518458028785-8fbcd101ebb9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxpbmNvbWV8ZW58MHx8fHwxNzU1MDA3MTkxfDA&lib=rb-4.1.0&q=80&w=1080

@@ -1,5 +1,5 @@
 ---
-title: How to Start Freelancing for Beginners
+title: How to Start Freelancing
 ogTitle: "START FREELANCING FOR BEGINNERS GUIDE"
 data-ai-hint: person typing laptop
 description: >-

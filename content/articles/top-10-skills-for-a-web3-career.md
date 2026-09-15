@@ -1,5 +1,5 @@
 ---
-title: The Top 10 Essential Skills for a growing Career in Web3
+title: Top 10 Skills for a Web3 Career
 ogTitle: "THE TOP 10 ESSENTIAL SKILLS FOR A GROWING CAREER IN WEB3"
 description: >-
   Want to break into Web3? The rules are different. This guide breaks down the

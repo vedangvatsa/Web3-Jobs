@@ -1,5 +1,5 @@
 ---
-title: 'Gas Fees Explained'
+title: Gas Fees
 ogTitle: "GAS FEES EXPLAINED"
 image: /images/articles/charts/gas-l2-fees.svg
 data-ai-hint: layer 2 fee comparison chart

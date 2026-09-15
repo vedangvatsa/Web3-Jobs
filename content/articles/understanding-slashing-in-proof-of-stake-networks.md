@@ -1,5 +1,5 @@
 ---
-title: Understanding Slashing in Proof of Stake Networks
+title: Slashing in Proof of Stake Networks
 ogTitle: "UNDERSTANDING SLASHING IN PROOF OF STAKE NETWORKS"
 image: /images/christin-hume-Hcfwew744z4-unsplash.jpg
 data-ai-hint: crypto security risk

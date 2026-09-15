@@ -1,5 +1,5 @@
 ---
-title: 'A Deep Dive into the Future of Web3 Wallets'
+title: The Future of Web3 Wallets
 ogTitle: "A DEEP DIVE INTO THE FUTURE OF WEB3 WALLETS"
 description: >-
   Account Abstraction (EIP-4337) is set to change Web3 user experience. This

@@ -1,5 +1,5 @@
 ---
-title: What is a Web3 DevRel Engineer? A Career Guide
+title: "What Is a Web3 DevRel Engineer? A Career Guide"
 ogTitle: "WEB3 DEVREL ENGINEER? A CAREER GUIDE EXPLAINED"
 image: /images/thisisengineering-32PpagSzeGs-unsplash.jpg
 data-ai-hint: developer relations talk

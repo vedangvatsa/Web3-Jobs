@@ -1,5 +1,5 @@
 ---
-title: a full guide to Working through Web3 Job Boards
+title: How to Navigate Web3 Job Boards
 ogTitle: "A FULL GUIDE TO WORKING THROUGH WEB3 JOB BOARDS"
 image: /images/bilge-tekin-GiATUqz4NYY-unsplash.jpg
 description: >-

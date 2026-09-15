@@ -1,5 +1,5 @@
 ---
-title: A Guide to Working With Different Personality Types
+title: Working With Different Personality Types
 ogTitle: "A GUIDE TO WORKING WITH DIFFERENT PERSONALITY TYPES"
 category: Career Guides
 date: '2025-09-12'

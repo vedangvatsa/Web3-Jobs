@@ -1,5 +1,5 @@
 ---
-title: How to Get Started as a Web3 Cryptocurrency Venture Capital Analyst
+title: How to Become a Web3 VC Analyst
 ogTitle: "GET STARTED AS A WEB3 CRYPTOCURRENCY VENTURE CAPITAL ANALYST"
 image: /images/possessed-photography-jIBMSMs4_kA-unsplash.jpg
 data-ai-hint: venture capital crypto

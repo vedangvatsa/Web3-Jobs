@@ -1,5 +1,5 @@
 ---
-title: Blockchain Yield Farming and Passive Income Strategies
+title: Blockchain Yield Farming
 ogTitle: "BLOCKCHAIN YIELD FARMING AND PASSIVE INCOME STRATEGIES"
 image: /images/javier-quesada-qYfwGVNJqSA-unsplash.jpg
 data-ai-hint: crypto yield farming

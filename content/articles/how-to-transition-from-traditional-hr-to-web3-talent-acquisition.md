@@ -1,5 +1,5 @@
 ---
-title: How to Transition from Traditional HR to Web3 Talent Acquisition
+title: From Traditional HR to Web3 Talent Acquisition
 ogTitle: "TRANSITION FROM TRADITIONAL HR TO WEB3 TALENT ACQUISITION GUIDE"
 image: /images/kevin-ku-w7ZyuGYNpRQ-unsplash.jpg
 data-ai-hint: human resources team

@@ -1,5 +1,5 @@
 ---
-title: Understanding the Constant Product Formula in AMMs
+title: Constant Product Formula in AMMs
 ogTitle: "UNDERSTANDING THE CONSTANT PRODUCT FORMULA IN AMMS"
 description: >-
   A clear and simple guide to the constant product formula (x * y = k), the core

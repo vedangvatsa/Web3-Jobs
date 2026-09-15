@@ -1,5 +1,5 @@
 ---
-title: Understanding Tokenomics and Supply Models
+title: Tokenomics and Supply Models
 ogTitle: "UNDERSTANDING TOKENOMICS AND SUPPLY MODELS"
 image: /images/articles/charts/tokenomics-supply-sink-model.svg
 data-ai-hint: tokenomics cryptoeconomics supply sink fdv vetoken models

@@ -1,5 +1,5 @@
 ---
-title: "How to Get Started as a Web3 NFT Marketplace Developer"
+title: Web3 NFT Marketplace Developer
 ogTitle: "GET STARTED AS A WEB3 NFT MARKETPLACE DEVELOPER GUIDE"
 image: "/images/maximalfocus-0n4jhVGS4zs-unsplash.jpg"
 data-ai-hint: "nft marketplace developer smart contract architecture"

@@ -1,5 +1,5 @@
 ---
-title: What is a Layer 3 in Blockchain?
+title: "What Is a Layer 3 in Blockchain?"
 ogTitle: "LAYER 3 IN BLOCKCHAIN? EXPLAINED"
 image: /images/articles/charts/layer-3-recursive-rollup-hierarchy.svg
 data-ai-hint: layer 3 blockchain appchains recursive rollups

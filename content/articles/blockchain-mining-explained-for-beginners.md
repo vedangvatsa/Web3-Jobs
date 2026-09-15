@@ -1,5 +1,5 @@
 ---
-title: Blockchain Mining Explained for Beginners
+title: Blockchain Mining
 ogTitle: "BLOCKCHAIN MINING EXPLAINED FOR BEGINNERS"
 image: /images/brian-kostiuk-S4jSvcHYcOs-unsplash.jpg
 data-ai-hint: blockchain mining hardware

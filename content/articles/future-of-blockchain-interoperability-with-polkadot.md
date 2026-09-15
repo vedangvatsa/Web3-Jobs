@@ -1,5 +1,5 @@
 ---
-title: The Future of Blockchain Interoperability with Polkadot
+title: Blockchain Interoperability and Polkadot
 ogTitle: "THE FUTURE OF BLOCKCHAIN INTEROPERABILITY WITH POLKADOT"
 image: /images/articles/charts/polkadot-relay-parachain-architecture.svg
 data-ai-hint: polkadot substrate parachains agile coretime xcm interoperability

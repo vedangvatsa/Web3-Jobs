@@ -1,5 +1,5 @@
 ---
-title: Understanding Concentrated Liquidity in Uniswap v3
+title: Concentrated Liquidity in Uniswap v3
 ogTitle: "UNDERSTANDING CONCENTRATED LIQUIDITY IN UNISWAP V3"
 description: A rigorous mathematical and architectural guide to Uniswap v3 concentrated liquidity, virtual reserves, discrete tick spaces, and LVR dynamics.
 category: Educational

@@ -1,5 +1,5 @@
 ---
-title: What is a Decentralized Physical Infrastructure Network DePIN
+title: "What is DePIN?"
 ogTitle: "DECENTRALIZED PHYSICAL INFRASTRUCTURE NETWORK DEPIN EXPLAINED"
 image: /images/articles/charts/depin-flywheel-architecture.svg
 description: A comprehensive technical and economic analysis of Decentralized Physical Infrastructure Networks (DePIN), exploring Proof of Physical Work, token flywheels, hardware coordination, and enterprise adoption.

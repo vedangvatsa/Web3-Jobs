@@ -1,5 +1,5 @@
 ---
-title: What You Need to Know About Web3 and Decentralized Apps
+title: Web3 and Decentralized Apps
 ogTitle: "WHAT YOU NEED TO KNOW ABOUT WEB3 AND DECENTRALIZED APPS"
 image: /images/alesia-kazantceva-XLm6-fPwK5Q-unsplash.jpg
 data-ai-hint: decentralized apps web3

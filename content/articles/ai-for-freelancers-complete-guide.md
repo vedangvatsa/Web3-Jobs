@@ -1,5 +1,5 @@
 ---
-title: AI for Freelancers Complete Guide
+title: AI for Freelancers
 ogTitle: "AI FOR FREELANCERS COMPLETE GUIDE"
 data-ai-hint: freelancer laptop work
 description: >-

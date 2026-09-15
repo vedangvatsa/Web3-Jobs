@@ -1,5 +1,5 @@
 ---
-title: How to Work From Anywhere in the Decentralized Economy
+title: How to Work From Anywhere in Web3
 ogTitle: "WORK FROM ANYWHERE IN THE DECENTRALIZED ECONOMY GUIDE"
 image: /images/alexandre-debieve-FO7JIlwjOtU-unsplash.jpg
 data-ai-hint: remote work anywhere

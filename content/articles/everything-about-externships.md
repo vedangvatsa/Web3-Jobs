@@ -1,5 +1,5 @@
 ---
-title: 'Everything About Externships'
+title: Externships Explained
 ogTitle: "EVERYTHING ABOUT EXTERNSHIPS"
 image: /images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg
 data-ai-hint: student learning career

@@ -1,5 +1,5 @@
 ---
-title: The 10 Skills That Will Get You Hired as a Web3 Developer
+title: 10 Skills to Get Hired as a Web3 Developer
 ogTitle: "THE 10 SKILLS THAT WILL GET YOU HIRED AS A WEB3 DEVELOPER"
 image: /images/alexandre-debieve-FO7JIlwjOtU-unsplash.jpg
 data-ai-hint: developer skills code

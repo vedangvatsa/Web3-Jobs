@@ -1,5 +1,5 @@
 ---
-title: Remote Work Strategies Every Digital Nomad Should Know
+title: Remote Work Strategies for Digital Nomads
 ogTitle: "REMOTE WORK STRATEGIES EVERY DIGITAL NOMAD SHOULD KNOW"
 image: /images/gilles-lambert-pb_lF8VWaPU-unsplash.jpg
 data-ai-hint: remote work strategy

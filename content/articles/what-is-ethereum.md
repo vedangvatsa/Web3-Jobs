@@ -1,5 +1,5 @@
 ---
-title: What is Ethereum? The World Computer
+title: "What Is Ethereum?"
 ogTitle: "ETHEREUM? THE WORLD COMPUTER EXPLAINED"
 image: /images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg
 data-ai-hint: ethereum network

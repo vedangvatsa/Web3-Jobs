@@ -1,5 +1,5 @@
 ---
-title: What is a Seed Phrase and Why It Matters
+title: What Is a Seed Phrase and Why It Matters
 ogTitle: "SEED PHRASE AND WHY IT MATTERS EXPLAINED"
 image: /images/brian-kostiuk-S4jSvcHYcOs-unsplash.jpg
 data-ai-hint: security key crypto

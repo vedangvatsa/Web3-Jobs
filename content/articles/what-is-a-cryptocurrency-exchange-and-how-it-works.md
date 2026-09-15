@@ -1,5 +1,5 @@
 ---
-title: What is a Cryptocurrency Exchange and How It Works
+title: What Is a Cryptocurrency Exchange
 ogTitle: "CRYPTOCURRENCY EXCHANGE AND HOW IT WORKS EXPLAINED"
 image: /images/nasa-Q1p7bh3SHj8-unsplash.jpg
 data-ai-hint: crypto exchange

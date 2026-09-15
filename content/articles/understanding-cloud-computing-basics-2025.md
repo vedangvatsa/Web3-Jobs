@@ -1,5 +1,5 @@
 ---
-title: Understanding Cloud Computing Basics 2025
+title: Cloud Computing Basics 2025
 ogTitle: "UNDERSTANDING CLOUD COMPUTING BASICS 2025"
 description: >-
   A simple guide to the fundamentals of cloud computing, explaining what it is,

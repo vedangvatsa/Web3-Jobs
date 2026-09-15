@@ -1,5 +1,5 @@
 ---
-title: The Role of a Web3 Financial Product Manager Mechanics Strategy and Career Path
+title: The Role of a Web3 Financial Product Manager
 ogTitle: "THE ROLE OF A WEB3 FINANCIAL PRODUCT MANAGER MECHANICS"
 image: /images/nasa-1lfI7wkGWZ4-unsplash.jpg
 data-ai-hint: web3 financial product manager

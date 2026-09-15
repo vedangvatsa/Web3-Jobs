@@ -1,5 +1,5 @@
 ---
-title: How to Effectively Work through Web3 Job Boards
+title: How to Use Web3 Job Boards Effectively
 ogTitle: "EFFECTIVELY WORK THROUGH WEB3 JOB BOARDS GUIDE"
 description: >-
   A strategic guide to using Web3 job boards. Learn how to filter out the noise,

@@ -1,5 +1,5 @@
 ---
-title: 'Bitcoin Pizza Day Explained'
+title: Bitcoin Pizza Day
 ogTitle: "BITCOIN PIZZA DAY EXPLAINED"
 description: >-
   On May 22, 2010, Laszlo Hanyecz paid 10,000 bitcoins for two pizzas, marking

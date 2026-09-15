@@ -16,7 +16,6 @@ import { ArticleContent } from '@/components/article-content';
 import { RelatedArticles } from '@/components/related-articles';
 import { ResourcePageView } from '@/components/pseo/resource-page-view';
 import { Suspense } from 'react';
-import { cn } from '@/lib/utils';
 import { addInternalLinksToContent, generateDefinedTermSchema, generateGlossaryMetaDescription, extractFAQSchema, extractHowToSchema } from '@/lib/seo-utils';
 import { GlossaryViewTracker } from '@/components/tracking/glossary-view-tracker';
 import { ArticleViewTracker } from '@/components/tracking/article-view-tracker';
@@ -831,13 +830,13 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
           <article className="w-full">
             <Suspense fallback={<div className="py-12 text-center text-muted-foreground">Loading article...</div>}>
               {/* Header: title and subtitle */}
-               <header className={cn('mb-10', isNews ? 'text-center' : 'text-left')}>
-                 <h1 className={cn('text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-foreground leading-[1.2] text-balance break-normal mb-4', isNews && 'mx-auto max-w-5xl')}>
+               <header className="mb-10 text-center">
+                 <h1 className="mx-auto max-w-5xl text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-foreground leading-[1.2] text-balance break-normal mb-4">
                    {article.title}
                  </h1>
 
                  {article.description && (
-                   <p className={cn('text-base sm:text-lg text-muted-foreground leading-relaxed mt-3', isNews && 'mx-auto max-w-4xl')}>
+                   <p className="mx-auto max-w-4xl text-base sm:text-lg text-muted-foreground leading-relaxed mt-3">
                      {article.description}
                    </p>
                 )}

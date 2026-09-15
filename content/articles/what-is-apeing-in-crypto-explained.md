@@ -1,5 +1,5 @@
 ---
-title: What is 'Apeing In'? The Crypto Term for High-Risk Trading Explained
+title: "What Is 'Apeing In' in Crypto?"
 ogTitle: "'APEING IN'? THE CRYPTO TERM FOR HIGH-RISK TRADING EXPLAINED"
 description: >-
   You've seen the term 'apeing in' on Crypto Twitter and Reddit. This guide

@@ -1,5 +1,5 @@
 ---
-title: Understanding Multi-Party Computation in Web3
+title: Multi-Party Computation in Web3
 ogTitle: "UNDERSTANDING MULTI-PARTY COMPUTATION IN WEB3"
 image: /images/christopher-gower-m_HRfLhgABo-unsplash.jpg
 data-ai-hint: computation security keys

@@ -1,5 +1,5 @@
 ---
-title: Understanding Verifiable Credentials in Blockchain
+title: Verifiable Credentials in Blockchain
 ogTitle: "UNDERSTANDING VERIFIABLE CREDENTIALS IN BLOCKCHAIN"
 image: /images/chris-ried-ieic5Tq8YMk-unsplash.jpg
 data-ai-hint: certificate verification blockchain

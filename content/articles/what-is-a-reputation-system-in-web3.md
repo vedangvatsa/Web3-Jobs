@@ -1,5 +1,5 @@
 ---
-title: "What is a Reputation System in Web3"
+title: What Is a Reputation System in Web3
 ogTitle: "REPUTATION SYSTEM IN WEB3 EXPLAINED"
 image: "/images/christopher-gower-m_HRfLhgABo-unsplash.jpg"
 data-ai-hint: "person reputation score onchain identity chart"

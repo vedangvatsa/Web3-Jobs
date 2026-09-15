@@ -1,5 +1,5 @@
 ---
-title: What Coding Language is Used for Web3? A Developer's Guide
+title: "What Coding Language Is Used for Web3?"
 ogTitle: "WHAT CODING LANGUAGE IS USED FOR WEB3? A DEVELOPER'S GUIDE"
 description: >-
   A guide to the most important programming languages in Web3. Learn about

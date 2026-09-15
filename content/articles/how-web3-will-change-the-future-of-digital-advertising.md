@@ -1,5 +1,5 @@
 ---
-title: How Web3 Will Change the Future of Digital Advertising
+title: Web3 and Digital Advertising
 ogTitle: "HOW WEB3 WILL CHANGE THE FUTURE OF DIGITAL ADVERTISING"
 image: /images/alex-knight-2EJCSULRwC8-unsplash.jpg
 data-ai-hint: digital advertising future

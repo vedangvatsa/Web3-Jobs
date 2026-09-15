@@ -1,5 +1,5 @@
 ---
-title: Understanding Natural User Interfaces
+title: Natural User Interfaces
 ogTitle: "UNDERSTANDING NATURAL USER INTERFACES"
 description: >-
   An introduction to Natural User Interfaces (NUI), exploring how technologies

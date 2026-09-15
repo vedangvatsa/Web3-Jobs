@@ -1,5 +1,5 @@
 ---
-title: What is a Balancer Weighted Pool and How Does It Work
+title: "What Is a Balancer Weighted Pool?"
 ogTitle: "BALANCER WEIGHTED POOL AND HOW DOES IT WORK EXPLAINED"
 description: A comprehensive technical guide to Balancer Weighted Pools, constant mean market maker mathematics, 80/20 pools, and single-vault liquidity architecture.
 category: Educational

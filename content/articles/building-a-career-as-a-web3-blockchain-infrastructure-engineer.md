@@ -1,5 +1,5 @@
 ---
-title: Building a Career as a Web3 Blockchain Infrastructure Engineer Roadmap and Systems Architecture
+title: Web3 Blockchain Infrastructure Engineer Career
 ogTitle: "BUILDING A CAREER AS A WEB3 BLOCKCHAIN INFRASTRUCTURE ENGINEER"
 description: A technical roadmap and systems architecture guide for blockchain infrastructure engineers, covering RPC node orchestration, validator sentry architecture, NVMe storage optimization, indexer pipelines, and career progression.
 date: 2026-03-28

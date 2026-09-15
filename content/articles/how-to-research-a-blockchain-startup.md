@@ -1,5 +1,5 @@
 ---
-title: How to Research a Blockchain Startup Before You Join
+title: How to Research a Blockchain Startup
 ogTitle: "RESEARCH A BLOCKCHAIN STARTUP BEFORE YOU JOIN GUIDE"
 image: /images/ilya-pavlov-OqtafYT5kTw-unsplash.jpg
 data-ai-hint: research analysis magnifying glass

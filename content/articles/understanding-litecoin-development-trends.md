@@ -1,5 +1,5 @@
 ---
-title: Understanding Litecoin's Development Trends Beyond the Slowdown
+title: "Litecoin's Development Trends"
 ogTitle: "UNDERSTANDING LITECOIN'S DEVELOPMENT TRENDS BEYOND THE SLOWDOWN"
 description: >-
   A deeper look into the metrics of Litecoin's developer activity. What does the

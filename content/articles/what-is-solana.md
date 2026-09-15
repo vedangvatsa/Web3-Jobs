@@ -1,5 +1,5 @@
 ---
-title: What is Solana? The High-Speed Blockchain
+title: "What Is Solana?"
 ogTitle: "SOLANA? THE HIGH-SPEED BLOCKCHAIN EXPLAINED"
 image: /images/nasa-1lfI7wkGWZ4-unsplash.jpg
 data-ai-hint: solana blockchain

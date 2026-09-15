@@ -1,5 +1,5 @@
 ---
-title: How to Showcase Skills on a Resume Without Experience
+title: Showcase Skills Without Experience
 ogTitle: "SHOWCASE SKILLS ON A RESUME WITHOUT EXPERIENCE GUIDE"
 data-ai-hint: skills resume presentation
 description: >-

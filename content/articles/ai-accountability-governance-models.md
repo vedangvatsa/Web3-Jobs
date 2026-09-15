@@ -1,5 +1,5 @@
 ---
-title: AI Accountability & Governance Models in a Web3 World
+title: AI Accountability in Web3
 ogTitle: "AI ACCOUNTABILITY & GOVERNANCE MODELS IN A WEB3 WORLD"
 image: /images/bilge-tekin-GiATUqz4NYY-unsplash.jpg
 description: >-

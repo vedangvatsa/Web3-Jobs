@@ -1,5 +1,5 @@
 ---
-title: CRISPR Technology Explained for Beginners
+title: CRISPR Technology
 ogTitle: "CRISPR TECHNOLOGY EXPLAINED FOR BEGINNERS"
 description: >-
   A simple and clear explanation of CRISPR, the new gene-editing tool, covering

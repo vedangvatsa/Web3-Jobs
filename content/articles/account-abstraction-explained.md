@@ -1,5 +1,5 @@
 ---
-title: 'Account Abstraction and EIP-4337 Explained'
+title: Account Abstraction and EIP-4337
 ogTitle: "ACCOUNT ABSTRACTION AND EIP-4337 EXPLAINED"
 description: >-
   ERC-4337 replaces traditional seed-phrase EOAs with programmable smart

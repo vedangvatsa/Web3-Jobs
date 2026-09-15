@@ -1,5 +1,5 @@
 ---
-title: "Mark Zuckerberg on Web3: The Metaverse, Centralization, and the Future of the Internet"
+title: Mark Zuckerberg on Web3
 ogTitle: "MARK ZUCKERBERG ON WEB3: THE METAVERSE, CENTRALIZATION, AND"
 description: >-
   Review Meta's metaverse strategy and Zuckerberg's perspective on

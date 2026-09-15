@@ -1,5 +1,5 @@
 ---
-title: Working through the Web3 Investment Analyst Career Path
+title: Web3 Investment Analyst Career Path
 ogTitle: "WORKING THROUGH THE WEB3 INVESTMENT ANALYST CAREER PATH"
 image: >-
   https://images.unsplash.com/photo-1554768804-50c1e2b50a6e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxpbnZlc3R8ZW58MHx8fHwxNzU1MDM2NDUzfDA&lib=rb-4.1.0&q=80&w=1080

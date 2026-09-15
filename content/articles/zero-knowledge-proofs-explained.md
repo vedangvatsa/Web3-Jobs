@@ -1,5 +1,5 @@
 ---
-title: Zero-Knowledge Proofs Explained
+title: Zero-Knowledge Proofs
 ogTitle: "ZERO-KNOWLEDGE PROOFS EXPLAINED"
 image: /images/articles/charts/zero-knowledge-proof-systems.svg
 description: An empirical analysis of zero-knowledge proof architectures, covering polynomial commitment schemes, arithmetization models, recursive verification, and hardware acceleration constraints.

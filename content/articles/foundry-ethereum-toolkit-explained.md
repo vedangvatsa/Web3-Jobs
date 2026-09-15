@@ -1,5 +1,5 @@
 ---
-title: 'Foundry Ethereum Toolkit Explained'
+title: Foundry Ethereum Toolkit
 ogTitle: "FOUNDRY ETHEREUM TOOLKIT EXPLAINED"
 image: /images/tommy-texter-T42j_xLOqw0-unsplash.jpg
 data-ai-hint: foundry software toolkit

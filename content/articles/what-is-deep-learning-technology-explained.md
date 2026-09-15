@@ -1,5 +1,5 @@
 ---
-title: What is Deep Learning Technology Explained
+title: "What Is Deep Learning?"
 ogTitle: "DEEP LEARNING TECHNOLOGY EXPLAINED EXPLAINED"
 description: >-
   A clear look at deep learning, a powerful type of machine learning that uses

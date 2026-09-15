@@ -3,6 +3,7 @@ import Image from 'next/image';
 export interface LogoItem {
   name: string;
   src: string;
+  alt?: string;
   /** Cap rendered height so edge-to-edge wordmarks match padded logos optically. */
   maxHeight?: number;
 }
@@ -30,13 +31,14 @@ export function LogoStrip({
                   <div key={logo.name} className="flex items-center justify-center h-8 w-[100px]">
                     <Image
                       src={logo.src}
-                      alt={`Logo of ${logo.name}`}
-                      width={100}
-                      height={maxHeight}
-                      className="object-contain w-auto"
-                      style={{ maxHeight }}
-                    />
-                    <span className="sr-only">{logo.name}</span>
+                    alt={logo.alt ?? `Logo of ${logo.name}`}
+                    width={100}
+                    height={maxHeight}
+                    className="object-contain w-auto"
+                    style={{ maxHeight }}
+                    unoptimized={logo.src.toLowerCase().endsWith('.svg')}
+                  />
+                  <span className="sr-only">{logo.name}</span>
                   </div>
                 );
               })}

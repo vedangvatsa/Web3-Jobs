@@ -1,5 +1,5 @@
 ---
-title: What are NFTs? An Explainer for Non-Fungible Tokens
+title: "What Are NFTs?"
 ogTitle: "WHAT ARE NFTS? AN EXPLAINER FOR NON-FUNGIBLE TOKENS"
 image: /images/austin-distel-tLZhFRLj6nY-unsplash.jpg
 description: >-

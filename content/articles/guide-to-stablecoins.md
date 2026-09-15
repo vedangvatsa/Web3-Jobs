@@ -1,5 +1,5 @@
 ---
-title: a full guide to Stablecoins
+title: Stablecoins Explained
 ogTitle: "A FULL GUIDE TO STABLECOINS"
 description: >-
   Stablecoins are the backbone of the DeFi economy, but not all are created

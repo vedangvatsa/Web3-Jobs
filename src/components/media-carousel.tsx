@@ -25,8 +25,10 @@ export function MediaCarousel({ logos }: MediaCarouselProps) {
 
   return (
     <div className="w-full">
-      <div className="text-center mb-6 sm:mb-10">
-        <p className="text-primary font-semibold tracking-wider text-xs sm:text-sm uppercase">AS SEEN ON</p>
+      <div className="text-center mb-3">
+        <h2 className="text-xs font-semibold text-muted-foreground tracking-wider uppercase">
+          As seen on
+        </h2>
       </div>
       <Carousel
         plugins={[plugin.current]}

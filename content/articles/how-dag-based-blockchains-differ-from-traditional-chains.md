@@ -1,5 +1,5 @@
 ---
-title: How DAG-Based Blockchains Differ From Traditional Chains
+title: DAG-Based Blockchains vs Traditional Chains
 ogTitle: "HOW DAG-BASED BLOCKCHAINS DIFFER FROM TRADITIONAL CHAINS"
 image: /images/nasa-Q1p7bh3SHj8-unsplash.jpg
 data-ai-hint: dag blockchain network

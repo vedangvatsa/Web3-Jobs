@@ -1,5 +1,5 @@
 ---
-title: 'Gaming Guilds and Web3 Explained'
+title: Gaming Guilds and Web3
 ogTitle: "GAMING GUILDS AND WEB3 EXPLAINED"
 image: >-
   https://images.unsplash.com/photo-1542751371-adc38448a05e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxnYW1pbmd8ZW58MHx8fHwxNzU1MDA4OTAyfDA&ixlib=rb-4.1.0&q=80&w=1080

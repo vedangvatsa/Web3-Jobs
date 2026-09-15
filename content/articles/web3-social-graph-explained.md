@@ -1,5 +1,5 @@
 ---
-title: 'The Web3 Social Graph Explained'
+title: The Web3 Social Graph
 ogTitle: "THE WEB3 SOCIAL GRAPH EXPLAINED"
 image: /images/sergey-zolkin-_UeY8aTI6d0-unsplash.jpg
 data-ai-hint: social network graph

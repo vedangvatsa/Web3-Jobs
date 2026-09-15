@@ -1,5 +1,5 @@
 ---
-title: How to Become a Web3 Blockchain Patent and IP Expert
+title: Web3 Blockchain Patent and IP Expert
 ogTitle: "BECOME A WEB3 BLOCKCHAIN PATENT AND IP EXPERT GUIDE"
 image: /images/pakata-goh-RDolnHtjVCY-unsplash.jpg
 data-ai-hint: law books intellectual property

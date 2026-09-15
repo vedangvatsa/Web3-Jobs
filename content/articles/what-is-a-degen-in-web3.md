@@ -1,5 +1,5 @@
 ---
-title: What is a 'Degen' in Web3?
+title: "What Is a 'Degen' in Web3?"
 ogTitle: "'DEGEN' IN WEB3? EXPLAINED"
 image: /images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg
 data-ai-hint: risky bet crypto

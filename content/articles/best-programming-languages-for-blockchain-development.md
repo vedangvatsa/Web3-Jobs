@@ -1,5 +1,5 @@
 ---
-title: Best Programming Languages for Blockchain Development by Use Case
+title: Best Programming Languages for Blockchain
 ogTitle: "BEST PROGRAMMING LANGUAGES FOR BLOCKCHAIN DEVELOPMENT BY USE CASE"
 image: /images/christopher-gower-m_HRfLhgABo-unsplash.jpg
 data-ai-hint: programming skill learn

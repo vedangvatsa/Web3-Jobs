@@ -1,5 +1,5 @@
 ---
-title: What is Augmented Reality Technology
+title: What Is Augmented Reality Technology
 ogTitle: "AUGMENTED REALITY TECHNOLOGY EXPLAINED"
 description: >-
   An introduction to augmented reality (AR), the technology that overlays

@@ -1,5 +1,5 @@
 ---
-title: What is Avalanche? A Guide to the High-Throughput Blockchain
+title: "What Is Avalanche?"
 ogTitle: "AVALANCHE? A GUIDE TO THE HIGH-THROUGHPUT BLOCKCHAIN EXPLAINED"
 image: /images/articles/charts/avalanche-multichain-subnets.svg
 data-ai-hint: avalanche avax snowball consensus subnets c-chain p-chain

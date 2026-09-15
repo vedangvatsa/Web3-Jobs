@@ -1,5 +1,5 @@
 ---
-title: The Role of Web3 Technical Writers in Blockchain Projects
+title: Web3 Technical Writers
 ogTitle: "THE ROLE OF WEB3 TECHNICAL WRITERS IN BLOCKCHAIN PROJECTS"
 image: /images/chris-ried-bN5XdU-bap4-unsplash.jpg
 data-ai-hint: technical writer keyboard

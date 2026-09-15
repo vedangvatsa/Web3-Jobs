@@ -1,5 +1,5 @@
 ---
-title: 'Charlie Lee, Litecoin, and the State of Developer Activity'
+title: Charlie Lee and Litecoin Developer Activity
 ogTitle: "CHARLIE LEE, LITECOIN, AND THE STATE OF DEVELOPER ACTIVITY"
 description: >-
   A look at Litecoin creator Charlie Lee's philosophy and how it shapes the

@@ -1,5 +1,5 @@
 ---
-title: Earning Stablecoins and Tokens as a DAO Contributor
+title: Getting Paid as a DAO Contributor
 ogTitle: "EARNING STABLECOINS AND TOKENS AS A DAO CONTRIBUTOR"
 image: /images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg
 data-ai-hint: dao crypto tokens
@@ -10,8 +10,7 @@ description: >-
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-15"
----
-A [DAO](/what-is-a-dao) is an organization whose rules and treasury live in [smart contracts](/what-are-smart-contracts) on a public [blockchain](/what-is-a-blockchain). Members propose and vote on how to spend funds, and the code executes the result. Contributing to a DAO and getting paid means doing useful work for that organization - writing, design, community support, analytics, development, or governance - and receiving compensation from its on-chain treasury, usually in stablecoins like USDC or in the DAO's governance [token](/what-is-a-token).
+---A [DAO](/what-is-a-dao) is an organization whose rules and treasury live in [smart contracts](/what-are-smart-contracts) on a public [blockchain](/what-is-a-blockchain). Members propose and vote on how to spend funds, and the code executes the result. Contributing to a DAO and getting paid means doing useful work for that organization - writing, design, community support, analytics, development, or governance - and receiving compensation from its on-chain treasury, usually in stablecoins like USDC or in the DAO's governance [token](/what-is-a-token).
 
 This guide explains who this work fits, how the payment mechanics actually work, the trade-offs, and the specific steps to go from newcomer to paid contributor without hype.
 

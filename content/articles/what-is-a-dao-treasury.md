@@ -1,5 +1,5 @@
 ---
-title: What is a DAO Treasury and How is it Managed
+title: What Is a DAO Treasury and How is it Managed
 ogTitle: "DAO TREASURY AND HOW IS IT MANAGED EXPLAINED"
 image: /images/articles/charts/dao-treasury-asset-allocation.svg
 data-ai-hint: dao treasury balance sheet safe gnosis timelock governance

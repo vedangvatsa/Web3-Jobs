@@ -1,5 +1,5 @@
 ---
-title: "NEAR Protocol Explained: Nightshade Sharding, Chain Abstraction and How to Build"
+title: NEAR Protocol
 ogTitle: "NEAR PROTOCOL EXPLAINED: NIGHTSHADE SHARDING, CHAIN"
 description: >-
   NEAR is a sharded, proof-of-stake layer-1 with human-readable accounts and low

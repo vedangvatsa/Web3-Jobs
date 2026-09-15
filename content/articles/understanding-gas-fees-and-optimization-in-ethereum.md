@@ -1,5 +1,5 @@
 ---
-title: Understanding Gas Fees and Optimization in Ethereum
+title: Gas Fees and Optimization on Ethereum
 ogTitle: "UNDERSTANDING GAS FEES AND OPTIMIZATION IN ETHEREUM"
 image: /images/nasa-1lfI7wkGWZ4-unsplash.jpg
 data-ai-hint: ethereum gas fees

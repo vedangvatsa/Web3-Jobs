@@ -1,5 +1,5 @@
 ---
-title: Common Smart Contract Vulnerabilities Explained
+title: Common Smart Contract Vulnerabilities
 ogTitle: "COMMON SMART CONTRACT VULNERABILITIES EXPLAINED"
 image: /images/christin-hume-Hcfwew744z4-unsplash.jpg
 data-ai-hint: security vulnerability lock

@@ -1,5 +1,5 @@
 ---
-title: Understanding ENS Domains in Ethereum
+title: ENS Domains in Ethereum
 ogTitle: "UNDERSTANDING ENS DOMAINS IN ETHEREUM"
 image: /images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg
 data-ai-hint: domain name service

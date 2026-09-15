@@ -1,5 +1,5 @@
 ---
-title: Understanding the Web3 Developer Activity Slowdown
+title: Web3 Developer Activity Slowdown
 ogTitle: "UNDERSTANDING THE WEB3 DEVELOPER ACTIVITY SLOWDOWN"
 image: /images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg
 data-ai-hint: developer activity decline

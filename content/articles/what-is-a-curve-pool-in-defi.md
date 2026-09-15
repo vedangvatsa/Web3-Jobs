@@ -1,5 +1,5 @@
 ---
-title: What is a Curve Pool in DeFi and How Does It Work
+title: What Is a Curve Pool in DeFi
 ogTitle: "CURVE POOL IN DEFI AND HOW DOES IT WORK EXPLAINED"
 image: /images/articles/charts/curveswap-invariant-curve.svg
 description: A comprehensive mathematical analysis of Curve Finance, exploring the StableSwap invariant, amplification coefficient A, CryptoSwap dynamic pegs, veCRV tokenomics, and depeg dynamics.

@@ -1,5 +1,5 @@
 ---
-title: Becoming a Web3 Digital Content Monetization Specialist
+title: Web3 Content Monetization Specialist
 ogTitle: "BECOMING A WEB3 DIGITAL CONTENT MONETIZATION SPECIALIST"
 image: /images/kaitlyn-baker-vZJdYl5JVXY-unsplash.jpg
 data-ai-hint: content monetization

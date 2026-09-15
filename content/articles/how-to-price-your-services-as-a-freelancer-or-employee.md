@@ -1,5 +1,5 @@
 ---
-title: How to Price Your Services as a Freelancer or Employee
+title: How to Price Your Services
 ogTitle: "PRICE YOUR SERVICES AS A FREELANCER OR EMPLOYEE GUIDE"
 image: /images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg
 data-ai-hint: money price tag

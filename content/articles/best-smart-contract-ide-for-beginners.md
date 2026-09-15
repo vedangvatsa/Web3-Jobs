@@ -1,5 +1,5 @@
 ---
-title: Best Smart Contract IDE for Beginners in 2026
+title: Best Smart Contract IDEs in 2026
 ogTitle: "BEST SMART CONTRACT IDE FOR BEGINNERS IN 2026"
 image: 'https://images.unsplash.com/photo-1461749280684-dccba630e2f6?q=80&w=1080'
 data-ai-hint: smart contract IDE beginner development tools

@@ -1,5 +1,5 @@
 ---
-title: What is a Token Swap in Cryptocurrency Architecture Mechanics and DEX Routing
+title: "What Is a Token Swap in Cryptocurrency?"
 ogTitle: "TOKEN SWAP IN CRYPTOCURRENCY ARCHITECTURE MECHANICS AND DEX"
 image: /images/maxim-hopman-8vn4KvfU640-unsplash.jpg
 data-ai-hint: token swap crypto

@@ -1,5 +1,5 @@
 ---
-title: Consensus Mechanisms in Blockchain Networks explained
+title: Consensus Mechanisms in Blockchain
 ogTitle: "CONSENSUS MECHANISMS IN BLOCKCHAIN NETWORKS EXPLAINED"
 image: /images/johannes-plenio-FZpCcPss9to-unsplash.jpg
 data-ai-hint: blockchain consensus team

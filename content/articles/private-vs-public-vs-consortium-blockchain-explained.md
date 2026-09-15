@@ -1,5 +1,5 @@
 ---
-title: Private vs Public vs Consortium Blockchain Explained
+title: Private vs Public vs Consortium Blockchains
 ogTitle: "PRIVATE VS PUBLIC VS CONSORTIUM BLOCKCHAIN EXPLAINED"
 image: /images/christopher-gower-m_HRfLhgABo-unsplash.jpg
 data-ai-hint: blockchain private public

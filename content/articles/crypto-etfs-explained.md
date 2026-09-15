@@ -1,5 +1,5 @@
 ---
-title: Crypto ETFs Explained
+title: Crypto ETFs
 ogTitle: "CRYPTO ETFS EXPLAINED"
 image: /images/pietro-jeng-n6B49lTx7NM-unsplash.jpg
 data-ai-hint: crypto etf fund

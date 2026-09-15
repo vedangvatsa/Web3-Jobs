@@ -1,5 +1,5 @@
 ---
-title: Best AI Courses for Beginners Online
+title: Best AI Courses Online
 ogTitle: "BEST AI COURSES FOR BEGINNERS ONLINE"
 data-ai-hint: person online learning
 description: >-

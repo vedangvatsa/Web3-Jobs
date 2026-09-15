@@ -1,5 +1,5 @@
 ---
-title: What is Unstoppable Domains Service Technical Architecture Registry Contracts and Web3 Resolution
+title: "What Is Unstoppable Domains?"
 ogTitle: "UNSTOPPABLE DOMAINS SERVICE TECHNICAL ARCHITECTURE REGISTRY"
 image: /images/maxim-hopman-8vn4KvfU640-unsplash.jpg
 data-ai-hint: domain name

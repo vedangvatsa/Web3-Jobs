@@ -1,5 +1,5 @@
 ---
-title: Understanding Machine Learning for Beginners
+title: Machine Learning Basics
 ogTitle: "UNDERSTANDING MACHINE LEARNING FOR BEGINNERS"
 description: >-
   A simple introduction to machine learning, explaining what it is, how it

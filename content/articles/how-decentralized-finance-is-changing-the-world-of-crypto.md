@@ -1,5 +1,5 @@
 ---
-title: How Decentralized Finance Is Changing the World of Crypto
+title: How DeFi Is Changing Crypto
 ogTitle: "HOW DECENTRALIZED FINANCE IS CHANGING THE WORLD OF CRYPTO"
 image: /images/alesia-kazantceva-XLm6-fPwK5Q-unsplash.jpg
 data-ai-hint: decentralized finance crypto

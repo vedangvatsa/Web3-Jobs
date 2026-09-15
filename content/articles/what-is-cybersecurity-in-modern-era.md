@@ -1,5 +1,5 @@
 ---
-title: What is Cybersecurity in Modern Era
+title: What Is Cybersecurity in Modern Era
 ogTitle: "CYBERSECURITY IN MODERN ERA EXPLAINED"
 description: >-
   An essential overview of cybersecurity in the modern era, covering common

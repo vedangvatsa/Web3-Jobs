@@ -1,5 +1,5 @@
 ---
-title: What is Neuromorphic Computing
+title: What Is Neuromorphic Computing
 ogTitle: "NEUROMORPHIC COMPUTING EXPLAINED"
 description: >-
   An introduction to neuromorphic computing, a field of computer science that

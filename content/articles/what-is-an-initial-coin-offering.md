@@ -1,5 +1,5 @@
 ---
-title: What is an Initial Coin Offering
+title: What Is an Initial Coin Offering
 ogTitle: "INITIAL COIN OFFERING EXPLAINED"
 image: /images/maxim-hopman-8vn4KvfU640-unsplash.jpg
 data-ai-hint: coins stacked crypto

@@ -1,5 +1,5 @@
 ---
-title: What is MEV? The Invisible Tax on Web3 Explained
+title: "What Is MEV?"
 ogTitle: "MEV? THE INVISIBLE TAX ON WEB3 EXPLAINED EXPLAINED"
 description: >-
   Maximal Extractable Value (MEV) is one of the most powerful and complex forces

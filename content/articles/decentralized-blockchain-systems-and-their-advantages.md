@@ -1,5 +1,5 @@
 ---
-title: Decentralized Blockchain Systems and Their Advantages
+title: Decentralized Blockchain Systems
 ogTitle: "DECENTRALIZED BLOCKCHAIN SYSTEMS AND THEIR ADVANTAGES"
 image: /images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg
 data-ai-hint: decentralized network nodes

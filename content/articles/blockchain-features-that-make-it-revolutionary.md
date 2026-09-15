@@ -1,5 +1,5 @@
 ---
-title: Blockchain Core Features Decentralization Immutability Transparency Automation
+title: Core Blockchain Features
 ogTitle: "BLOCKCHAIN CORE FEATURES DECENTRALIZATION IMMUTABILITY"
 image: /images/maxim-hopman-8vn4KvfU640-unsplash.jpg
 data-ai-hint: blockchain technology abstract

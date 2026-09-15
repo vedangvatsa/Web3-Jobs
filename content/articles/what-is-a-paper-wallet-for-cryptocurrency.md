@@ -1,5 +1,5 @@
 ---
-title: What is a Paper Wallet for Cryptocurrency
+title: What Is a Paper Wallet for Cryptocurrency
 ogTitle: "PAPER WALLET FOR CRYPTOCURRENCY EXPLAINED"
 image: /images/chris-ried-ieic5Tq8YMk-unsplash.jpg
 data-ai-hint: paper document

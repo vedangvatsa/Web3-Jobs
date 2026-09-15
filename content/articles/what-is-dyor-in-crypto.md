@@ -1,5 +1,5 @@
 ---
-title: What is DYOR in Crypto? Do Your Own Research Guide
+title: "What Is DYOR in Crypto?"
 ogTitle: "DYOR IN CRYPTO? DO YOUR OWN RESEARCH GUIDE EXPLAINED"
 image: /images/christopher-gower-m_HRfLhgABo-unsplash.jpg
 description: >-

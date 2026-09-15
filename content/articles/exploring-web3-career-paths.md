@@ -1,5 +1,5 @@
 ---
-title: Exploring the Most Promising Web3 Career Paths for 2026
+title: Promising Web3 Career Paths in 2026
 ogTitle: "EXPLORING THE MOST PROMISING WEB3 CAREER PATHS FOR 2026"
 description: >-
   A full guide to the diverse career paths available in the Web3 industry. From

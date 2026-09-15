@@ -1,5 +1,5 @@
 ---
-title: A Guide to Web3 Recruiting and Talent Acquisition
+title: Web3 Recruiting and Talent Acquisition
 ogTitle: "A GUIDE TO WEB3 RECRUITING AND TALENT ACQUISITION"
 image: /images/george-prentzas-SRFG7iwktDk-unsplash.jpg
 data-ai-hint: recruiting web3 talent

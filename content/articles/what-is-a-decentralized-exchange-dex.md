@@ -1,5 +1,5 @@
 ---
-title: What is a Decentralized Exchange (DEX)
+title: What Is a Decentralized Exchange (DEX)
 ogTitle: "DECENTRALIZED EXCHANGE (DEX) EXPLAINED"
 description: >-
   Explore how decentralized exchanges (DEXs) are changing crypto trading by

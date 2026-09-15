@@ -1,5 +1,5 @@
 ---
-title: Avalanche Blockchain Platform and Its Unique Features
+title: Avalanche Blockchain Platform
 ogTitle: "AVALANCHE BLOCKCHAIN PLATFORM AND ITS UNIQUE FEATURES"
 image: /images/nasa-Q1p7bh3SHj8-unsplash.jpg
 data-ai-hint: avalanche blockchain network

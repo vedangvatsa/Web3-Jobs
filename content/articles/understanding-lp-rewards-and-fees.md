@@ -1,5 +1,5 @@
 ---
-title: Understanding LP Rewards and Fees
+title: LP Rewards and Fees
 ogTitle: "UNDERSTANDING LP REWARDS AND FEES"
 description: >-
   A full breakdown of how liquidity providers earn money through trading fees

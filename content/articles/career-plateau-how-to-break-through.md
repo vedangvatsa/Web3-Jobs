@@ -1,5 +1,5 @@
 ---
-title: Career Plateau? Here's How to Break Through and Keep Growing
+title: How to Break Through a Career Plateau
 ogTitle: "CAREER PLATEAU? HERE'S HOW TO BREAK THROUGH AND KEEP GROWING"
 description: >-
   Feeling stuck in your job? A career plateau is common, but it doesn't have to

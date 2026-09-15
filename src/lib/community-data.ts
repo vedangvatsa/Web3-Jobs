@@ -1,5 +1,5 @@
 
-import { BookOpen, BrainCircuit, Calculator, FileSignature, FileText, ListChecks, ClipboardEdit, UserMinus, Milestone, Smile, Scale, Users, Rss, Newspaper, BotMessageSquare, Linkedin, Twitter, Globe, Mic } from 'lucide-react';
+import { BookOpen, BrainCircuit, Calculator, FileSignature, FileText, ListChecks, ClipboardEdit, UserMinus, Milestone, Smile, Scale, Users, Rss, Newspaper, BotMessageSquare, Linkedin, X, Globe, Mic } from 'lucide-react';
 
 export const stats = [
   { value: '100k+', label: 'Web3 Professionals' },
@@ -82,17 +82,22 @@ export const hiredCompanies = [
   { name: 'Circle', src: '/logo/job/circle.webp', alt: 'Circle logo' },
   { name: 'Coinbase', src: '/logo/job/coinbase.webp', alt: 'Coinbase logo' },
   { name: 'DePHY', src: '/logo/job/dephy.webp', alt: 'DePHY logo' },
+  { name: 'Dlicom', src: '/logo/job/dlicom.webp', alt: 'Dlicom logo' },
   { name: 'dYdX', src: '/logo/job/dydx.webp', alt: 'dYdX logo' },
   { name: 'Funtoken', src: '/logo/job/funtoken.webp', alt: 'Funtoken logo' },
   { name: 'Galxe', src: '/logo/job/galxe.webp', alt: 'Galxe logo' },
   { name: 'Glassnode', src: '/logo/job/glassnode.webp', alt: 'Glassnode logo' },
   { name: 'Jaya Talent', src: '/logo/job/jayatalent.webp', alt: 'Jaya Talent logo' },
   { name: 'KCEX', src: '/logo/job/kcex.webp', alt: 'KCEX logo' },
+  { name: 'Kakao Ventures', src: '/logo/job/kakao-ventures.png', alt: 'Kakao Ventures logo' },
+  { name: 'Kappa Lab', src: '/logo/job/kappa-lab.svg', alt: 'Kappa Lab logo' },
   { name: 'LBank', src: '/logo/job/lbank.webp', alt: 'LBank logo' },
   { name: 'LiquidX', src: '/logo/job/liquidx.webp', alt: 'LiquidX logo' },
   { name: 'Longhash', src: '/logo/job/longhash.webp', alt: 'Longhash logo'},
   { name: 'Mercuryo', src: '/logo/job/mercuryo.webp', alt: 'Mercuryo logo' },
+  { name: 'OneBullEx', src: '/logo/job/onebullex.webp', alt: 'OneBullEx logo' },
   { name: 'Overmind', src: '/logo/job/overmind.webp', alt: 'Overmind logo' },
+  { name: 'Particula', src: '/logo/job/particula.svg', alt: 'Particula logo' },
   { name: 'Peanut', src: '/logo/job/peanut.webp', alt: 'Peanut logo' },
   { name: 'Quantstamp', src: '/logo/job/quantstamp.webp', alt: 'Quantstamp logo' },
   { name: 'Rho', src: '/logo/job/rho.webp', alt: 'Rho logo'},
@@ -109,12 +114,12 @@ export const hiredCompanies = [
 ];
 
 export const channels = [
- { icon: Users, title: 'Networking Community', description: '21,000 member Telegram group with spam-bot-moderated topics for community-driven content.' },
- { icon: Twitter, title: 'Twitter & Spotify', description: 'Twitter Spaces with guests like a Pink Floyd member got up to 42k avg listeners. 50k tuned-in to our podcasts.' },
- { icon: Rss, title: 'Telegram Channels', description: '60,000 subscribers for Web3 job postings (one of the largest) and 13,000 for our news feed.' },
+ { icon: Users, title: 'Networking Community', description: '18,000 member Telegram group with spam-bot-moderated topics for community-driven content.' },
+ { icon: X, title: 'X & Spotify', description: 'Twitter Spaces with guests like a Pink Floyd member got up to 42k avg listeners. 50k tuned-in to our podcasts.' },
+ { icon: Rss, title: 'Telegram Channels', description: '60,000+ subscribers for Web3 job feed (one of the largest) and 11,000+ for our news feed.' },
  { icon: Newspaper, title: 'Newsletter', description: 'Delivered to 150,000 subscribers, averaging 5,700 views per issue, primarily from Europe and Asia.' },
  { icon: BotMessageSquare, title: 'Social Messaging', description: 'Regional WhatsApp groups with over 26,000 members including top VCs and founders.' },
- { icon: Linkedin, title: 'Professional Social Circle', description: '35,000 followers on LinkedIn for broad professional outreach; 35M+ annual post impressions.' },
+ { icon: Linkedin, title: 'Professional Social Circle', description: '36,000+ followers on LinkedIn for broad professional outreach; 35M+ annual post impressions.' },
 ];
 
 export const caseStudies = [
@@ -131,7 +136,7 @@ export const caseStudies = [
  },
  {
   title: 'Founder Interview with Obortech',
-  image: '/images/obortechinterview.png',
+  image: '/images/obortechinterview.jpg',
   data_ai_hint: 'founder interview',
   points: [
     'LinkedIn announcement achieved 925 likes and 23,000 impressions.',

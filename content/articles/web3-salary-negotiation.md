@@ -1,5 +1,5 @@
 ---
-title: How to Negotiate Your Web3 Salary and Compensation Package
+title: How to Negotiate Your Web3 Salary
 ogTitle: "NEGOTIATE YOUR WEB3 SALARY AND COMPENSATION PACKAGE GUIDE"
 image: /images/articles/charts/salary-negotiation-framework.svg
 data-ai-hint: web3 salary negotiation token compensation equity vesting

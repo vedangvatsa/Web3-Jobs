@@ -1,5 +1,5 @@
 ---
-title: Understanding the Line Between Marketing and Manipulation in Web3
+title: Marketing vs Manipulation in Web3
 ogTitle: "UNDERSTANDING THE LINE BETWEEN MARKETING AND MANIPULATION IN WEB3"
 image: /images/thisisengineering-83udtzyaTS4-unsplash.jpg
 data-ai-hint: ethics marketing manipulation

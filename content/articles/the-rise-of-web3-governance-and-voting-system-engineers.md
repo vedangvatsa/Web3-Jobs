@@ -1,5 +1,5 @@
 ---
-title: "The Rise of Web3 Governance and Voting System Engineers"
+title: Web3 Governance and Voting Engineers
 ogTitle: "THE RISE OF WEB3 GOVERNANCE AND VOTING SYSTEM ENGINEERS"
 image: "/images/christina-wocintechchat-com-glRqyWJgUeY-unsplash.jpg"
 data-ai-hint: "governance meeting voting system smart contract architecture"

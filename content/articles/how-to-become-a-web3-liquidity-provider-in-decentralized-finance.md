@@ -1,5 +1,5 @@
 ---
-title: Technical Guide to Becoming a Web3 Liquidity Provider and Quantitative Market Maker
+title: How to Become a Web3 Liquidity Provider
 ogTitle: "TECHNICAL GUIDE TO BECOMING A WEB3 LIQUIDITY PROVIDER AND"
 description: An architecture guide to decentralized liquidity provision, covering automated market maker mechanics, concentrated liquidity math, impermanent loss hedging, smart contract integration, and career pathways.
 date: 2026-03-28

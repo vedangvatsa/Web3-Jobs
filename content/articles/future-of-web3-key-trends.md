@@ -1,5 +1,5 @@
 ---
-title: 'Emerging Web3 Trends Modular Blockchains and Decentralized AI'
+title: Emerging Web3 Trends
 ogTitle: "EMERGING WEB3 TRENDS MODULAR BLOCKCHAINS AND DECENTRALIZED AI"
 image: /images/andrea-de-santis-zwd435-ewb4-unsplash.jpg
 description: >-

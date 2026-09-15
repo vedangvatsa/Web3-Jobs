@@ -1,5 +1,5 @@
 ---
-title: Smart Contracts in Blockchain and Their Applications
+title: Smart Contracts in Blockchain
 ogTitle: "SMART CONTRACTS IN BLOCKCHAIN AND THEIR APPLICATIONS"
 image: /images/christopher-gower-m_HRfLhgABo-unsplash.jpg
 data-ai-hint: smart contract code

@@ -1,5 +1,5 @@
 ---
-title: What is Web3? The Next Evolution of the Internet Explained
+title: "What Is Web3?"
 ogTitle: "WEB3? THE NEXT EVOLUTION OF THE INTERNET EXPLAINED EXPLAINED"
 image: /images/christopher-gower-vjMgqUkS8q8-unsplash.jpg
 description: >-

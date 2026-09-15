@@ -1,5 +1,5 @@
 ---
-title: How to Work through Generational Differences in the Workplace
+title: Working Across Generational Differences
 ogTitle: "WORK THROUGH GENERATIONAL DIFFERENCES IN THE WORKPLACE GUIDE"
 category: Career Guides
 date: '2025-09-12'

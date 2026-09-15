@@ -1,5 +1,5 @@
 ---
-title: Understanding the Litecoin Developer Activity Slowdown
+title: Litecoin Developer Activity Slowdown
 ogTitle: "UNDERSTANDING THE LITECOIN DEVELOPER ACTIVITY SLOWDOWN"
 description: >-
   An analysis of the perceived slowdown in Litecoin's developer activity. We

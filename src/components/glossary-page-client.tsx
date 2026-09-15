@@ -6,6 +6,7 @@ import { Card, CardContent } from '@/components/ui/card';
 import Link from 'next/link';
 import { usePathname, useRouter, useSearchParams } from 'next/navigation';
 import { PageHeader } from '@/components/page-header';
+import { CommunityFeedBanner } from '@/components/community-feed-banner';
 import { ListingEmptyState, ListingToolbar } from '@/components/listing-toolbar';
 
 export type GlossaryTermItem = {
@@ -134,6 +135,15 @@ export function GlossaryPageClient({
           <PageHeader title="Web3 Glossary" />
         )}
       </section>
+
+      <CommunityFeedBanner
+        href="https://t.me/hashtagweb3"
+        text={
+          <>
+            Join our Telegram community with <strong className="text-foreground">18,000+</strong> members
+          </>
+        }
+      />
 
       <div>
         <ListingToolbar

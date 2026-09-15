@@ -1,5 +1,5 @@
 ---
-title: A Guide to Working through Difficult Conversations at Work
+title: Difficult Conversations at Work
 ogTitle: "A GUIDE TO WORKING THROUGH DIFFICULT CONVERSATIONS AT WORK"
 category: Career Guides
 date: '2025-09-12'

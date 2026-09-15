@@ -1,5 +1,5 @@
 ---
-title: What is a 51 Percent Attack in Blockchain?
+title: "What Is a 51 Percent Attack in Blockchain?"
 ogTitle: "51 PERCENT ATTACK IN BLOCKCHAIN? EXPLAINED"
 description: >-
   A detailed explanation of the 51% attack, one of the most discussed security

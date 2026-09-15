@@ -1,5 +1,5 @@
 ---
-title: On-Chain Identity Verification Explained
+title: On-Chain Identity Verification
 ogTitle: "ON-CHAIN IDENTITY VERIFICATION EXPLAINED"
 image: /images/chris-ried-ieic5Tq8YMk-unsplash.jpg
 data-ai-hint: digital identity verification

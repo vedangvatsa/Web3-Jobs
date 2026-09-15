@@ -1,5 +1,5 @@
 ---
-title: Top 10 Crypto-Friendly Countries for Web3 Professionals
+title: Top 10 Crypto-Friendly Countries
 ogTitle: "TOP 10 CRYPTO-FRIENDLY COUNTRIES FOR WEB3 PROFESSIONALS"
 image: /images/anas-alshanti-feXpdV001o4-unsplash.jpg
 data-ai-hint: crypto country flag

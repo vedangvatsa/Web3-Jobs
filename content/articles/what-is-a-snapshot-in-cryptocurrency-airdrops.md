@@ -1,5 +1,5 @@
 ---
-title: What is a Snapshot in Cryptocurrency Airdrops
+title: What Is a Snapshot in Cryptocurrency Airdrops
 ogTitle: "SNAPSHOT IN CRYPTOCURRENCY AIRDROPS EXPLAINED"
 image: /images/maxim-hopman-8vn4KvfU640-unsplash.jpg
 data-ai-hint: camera snapshot

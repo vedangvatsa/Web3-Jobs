@@ -1,5 +1,5 @@
 ---
-title: "Understanding Network State in Blockchains"
+title: Network State in Blockchains
 ogTitle: "UNDERSTANDING NETWORK STATE IN BLOCKCHAINS"
 image: "/images/nasa-cIX5TlQ_FgM-unsplash.jpg"
 data-ai-hint: "blockchain network state trie structure database"

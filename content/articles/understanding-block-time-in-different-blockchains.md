@@ -1,5 +1,5 @@
 ---
-title: Understanding Block Time in Different Blockchains Architecture Trade-Offs and Finality
+title: Block Time Across Blockchains
 ogTitle: "UNDERSTANDING BLOCK TIME IN DIFFERENT BLOCKCHAINS ARCHITECTURE"
 image: /images/nasa-Q1p7bh3SHj8-unsplash.jpg
 data-ai-hint: blockchain time

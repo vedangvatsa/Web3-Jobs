@@ -1,5 +1,5 @@
 ---
-title: What is a Blockchain Fork Choice Rule
+title: What Is a Blockchain Fork Choice Rule
 ogTitle: "BLOCKCHAIN FORK CHOICE RULE EXPLAINED"
 description: >-
   A deep dive into how blockchain networks, from Bitcoin to Ethereum, use fork

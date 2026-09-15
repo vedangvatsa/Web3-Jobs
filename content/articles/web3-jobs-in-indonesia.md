@@ -1,5 +1,5 @@
 ---
-title: Web3 Jobs in Indonesia Complete Regional Career Guide Salary Benchmarks and Hub Dynamics
+title: Web3 Jobs in Indonesia
 ogTitle: "WEB3 JOBS IN INDONESIA COMPLETE REGIONAL CAREER GUIDE SALARY"
 image: >-
   https://images.unsplash.com/photo-1524675053444-52c3ca294ad2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8aW5kb25lc2lhfGVufDB8fHx8MTc1OTI2OTM0OHww&ixlib=rb-4.1.0&q=80&w=1080

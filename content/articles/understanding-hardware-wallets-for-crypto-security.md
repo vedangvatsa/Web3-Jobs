@@ -1,5 +1,5 @@
 ---
-title: Understanding Hardware Wallets for Crypto Security
+title: Hardware Wallets for Crypto Security
 ogTitle: "UNDERSTANDING HARDWARE WALLETS FOR CRYPTO SECURITY"
 image: /images/austin-distel-tLZhFRLj6nY-unsplash.jpg
 data-ai-hint: hardware wallet crypto

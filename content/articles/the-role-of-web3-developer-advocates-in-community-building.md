@@ -1,5 +1,5 @@
 ---
-title: The Role of Web3 Developer Advocates in Community Building
+title: Web3 Developer Advocates
 ogTitle: "THE ROLE OF WEB3 DEVELOPER ADVOCATES IN COMMUNITY BUILDING"
 image: /images/thisisengineering-32PpagSzeGs-unsplash.jpg
 data-ai-hint: developer advocate community

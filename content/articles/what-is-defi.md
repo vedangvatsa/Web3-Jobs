@@ -1,5 +1,5 @@
 ---
-title: What is DeFi? A Beginner's Guide to Decentralized Finance
+title: "What Is DeFi?"
 ogTitle: "DEFI? A BEGINNER'S GUIDE TO DECENTRALIZED FINANCE EXPLAINED"
 image: /images/carl-heyerdahl-KE0nC8-58MQ-unsplash.jpg
 description: >-

@@ -1,5 +1,5 @@
 ---
-title: Exploring Web3 Careers in Decentralized Autonomous Finance (DeFi)
+title: Web3 Careers in DeFi
 ogTitle: "EXPLORING WEB3 CAREERS IN DECENTRALIZED AUTONOMOUS FINANCE (DEFI)"
 image: /images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg
 data-ai-hint: decentralized finance defi

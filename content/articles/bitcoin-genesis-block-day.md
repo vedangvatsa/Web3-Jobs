@@ -1,5 +1,5 @@
 ---
-title: Bitcoin Genesis Block Day - Understanding the Birth of Bitcoin
+title: Bitcoin Genesis Block Day
 ogTitle: "BITCOIN GENESIS BLOCK DAY - UNDERSTANDING THE BIRTH OF BITCOIN"
 description: >-
   Explore the Bitcoin Genesis Block - its technical significance, historical

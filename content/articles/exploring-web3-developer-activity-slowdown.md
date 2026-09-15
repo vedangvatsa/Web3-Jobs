@@ -1,5 +1,5 @@
 ---
-title: Has Developer Activity in Web3 Really Slowed Down? A subtle Look
+title: Web3 Developer Activity Trends
 ogTitle: "HAS DEVELOPER ACTIVITY IN WEB3 REALLY SLOWED DOWN? A SUBTLE LOOK"
 description: >-
   An analysis of the narrative that Web3 developer activity is slowing down. We

@@ -1,5 +1,5 @@
 ---
-title: Ethereum Merge Explained
+title: Ethereum Merge
 ogTitle: "ETHEREUM MERGE EXPLAINED"
 description: >-
   What the Merge was, when it happened, and what it changed. Ethereum switched

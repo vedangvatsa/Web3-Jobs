@@ -1,5 +1,5 @@
 ---
-title: Blockchain in Healthcare Projects and Implementations
+title: Blockchain in Healthcare
 ogTitle: "BLOCKCHAIN IN HEALTHCARE PROJECTS AND IMPLEMENTATIONS"
 image: /images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg
 data-ai-hint: healthcare blockchain technology

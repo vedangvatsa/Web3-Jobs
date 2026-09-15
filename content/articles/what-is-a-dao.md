@@ -1,5 +1,5 @@
 ---
-title: What is a DAO? A Beginner's Guide to Decentralized Orgs
+title: "What Is a DAO?"
 ogTitle: "DAO? A BEGINNER'S GUIDE TO DECENTRALIZED ORGS EXPLAINED"
 image: /images/christina-wocintechchat-com-glRqyWJgUeY-unsplash.jpg
 description: >-

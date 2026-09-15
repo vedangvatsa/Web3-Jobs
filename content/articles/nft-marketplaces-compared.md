@@ -1,5 +1,5 @@
 ---
-title: "NFT Marketplaces Compared: OpenSea, Blur, Magic Eden, Rarible and SuperRare in 2026"
+title: NFT Marketplaces Compared in 2026
 ogTitle: "NFT MARKETPLACES COMPARED: OPENSEA, BLUR, MAGIC EDEN, RARIBLE"
 image: /images/ales-nesetril-Im7lZjxeLhg-unsplash.jpg
 data-ai-hint: nft marketplace comparison

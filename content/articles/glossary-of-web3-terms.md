@@ -1,5 +1,5 @@
 ---
-title: Glossary of Web3 Terms - 65 Definitions for Jobs and Interviews
+title: Glossary of Web3 Terms
 ogTitle: "GLOSSARY OF WEB3 TERMS - 65 DEFINITIONS FOR JOBS AND INTERVIEWS"
 image: 'https://images.unsplash.com/photo-1639762681057-408e52192e55?q=80&w=1080'
 description: >-

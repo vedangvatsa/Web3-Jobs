@@ -1,5 +1,5 @@
 ---
-title: Core Blockchain Development and Infrastructure Protocol Client Systems and DevOps
+title: Core Blockchain Development and Infrastructure
 ogTitle: "CORE BLOCKCHAIN DEVELOPMENT AND INFRASTRUCTURE PROTOCOL CLIENT"
 image: /images/nasa-Q1p7bh3SHj8-unsplash.jpg
 data-ai-hint: blockchain infrastructure core

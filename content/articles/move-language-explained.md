@@ -1,5 +1,5 @@
 ---
-title: 'Move Language Explained - Resources, Abilities, and How Aptos and Sui Run It'
+title: Move Language
 ogTitle: "MOVE LANGUAGE EXPLAINED - RESOURCES, ABILITIES, AND HOW APTOS"
 image: /images/christopher-gower-m_HRfLhgABo-unsplash.jpg
 data-ai-hint: code on screen

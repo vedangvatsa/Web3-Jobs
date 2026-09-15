@@ -1,5 +1,5 @@
 ---
-title: Understanding Web3 Developer Career Paths
+title: Web3 Developer Career Paths
 ogTitle: "UNDERSTANDING WEB3 DEVELOPER CAREER PATHS"
 image: /images/markus-spiske-iar-afB0QQw-unsplash.jpg
 data-ai-hint: developer career path

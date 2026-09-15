@@ -1,5 +1,5 @@
 ---
-title: "Supply Chain Blockchain Explained: How Shared Ledgers Track Goods From Source to Store"
+title: Supply Chain Blockchain
 ogTitle: "SUPPLY CHAIN BLOCKCHAIN EXPLAINED: HOW SHARED LEDGERS TRACK"
 image: /images/thisisengineering-zBLtU0zbJcU-unsplash.jpg
 data-ai-hint: supply chain logistics

@@ -1,5 +1,5 @@
 ---
-title: What Role Does Blockchain Play in Web3 Architecture and Foundation Guide
+title: "What Role Does Blockchain Play in Web3?"
 ogTitle: "WHAT ROLE DOES BLOCKCHAIN PLAY IN WEB3 ARCHITECTURE AND"
 image: /images/aideal-hwa-OYzbqk2y26c-unsplash.jpg
 data-ai-hint: blockchain web3 technology

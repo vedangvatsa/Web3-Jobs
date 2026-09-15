@@ -1,5 +1,5 @@
 ---
-title: What is Proof of Humanity Protocol
+title: What Is Proof of Humanity Protocol
 ogTitle: "PROOF OF HUMANITY PROTOCOL EXPLAINED"
 image: /images/christopher-gower-m_HRfLhgABo-unsplash.jpg
 data-ai-hint: person human identity

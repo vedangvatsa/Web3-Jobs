@@ -1,5 +1,5 @@
 ---
-title: Why Bleisure Travel is the Future of Work Flexibility
+title: Why Bleisure Travel Matters
 ogTitle: "BLEISURE TRAVEL IS THE FUTURE OF WORK FLEXIBILITY"
 image: /images/glenn-carstens-peters-P1qyEf1g0HU-unsplash.jpg
 data-ai-hint: travel work future

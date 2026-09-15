@@ -1,5 +1,5 @@
 ---
-title: Privacy Preserving AI Technologies Explained
+title: Privacy-Preserving AI
 ogTitle: "PRIVACY PRESERVING AI TECHNOLOGIES EXPLAINED"
 description: >-
   An overview of key privacy-preserving AI technologies, including Federated

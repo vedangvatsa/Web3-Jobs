@@ -1,5 +1,5 @@
 ---
-title: The Most In-Demand Web3 Careers and Blockchain Jobs
+title: In-Demand Web3 Careers
 ogTitle: "THE MOST IN-DEMAND WEB3 CAREERS AND BLOCKCHAIN JOBS"
 image: /images/bilge-tekin-GiATUqz4NYY-unsplash.jpg
 description: >-

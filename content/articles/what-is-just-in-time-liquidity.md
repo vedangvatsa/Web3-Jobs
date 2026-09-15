@@ -1,5 +1,5 @@
 ---
-title: What is Just-In-Time (JIT) Liquidity?
+title: "What Is Just-In-Time (JIT) Liquidity?"
 ogTitle: "JUST-IN-TIME (JIT) LIQUIDITY? EXPLAINED"
 description: >-
   A deep dive into Just-In-Time (JIT) liquidity, an advanced MEV strategy on

@@ -1,5 +1,5 @@
 ---
-title: Sui Blockchain Technology and Developer Ecosystem
+title: Sui Blockchain and Developer Ecosystem
 ogTitle: "SUI BLOCKCHAIN TECHNOLOGY AND DEVELOPER ECOSYSTEM"
 image: /images/maxim-hopman-8vn4KvfU640-unsplash.jpg
 data-ai-hint: sui blockchain
@@ -10,8 +10,7 @@ description: >-
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-15"
----
-Sui is a Layer 1 blockchain built for high throughput, low latency, and direct ownership of on-chain assets. It was developed by Mysten Labs, a team of former Meta engineers from the Novi and Diem projects, and launched on mainnet on May 3, 2023. Sui replaces the account-based state model used by Ethereum with an object-centric model, runs smart contracts in Sui Move, and processes many transactions in parallel instead of one after another.
+---Sui is a Layer 1 blockchain built for high throughput, low latency, and direct ownership of on-chain assets. It was developed by Mysten Labs, a team of former Meta engineers from the Novi and Diem projects, and launched on mainnet on May 3, 2023. Sui replaces the account-based state model used by Ethereum with an object-centric model, runs smart contracts in Sui Move, and processes many transactions in parallel instead of one after another.
 
 ## What is Sui
 

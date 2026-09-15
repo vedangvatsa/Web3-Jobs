@@ -1,5 +1,5 @@
 ---
-title: 'First Bitcoin Transaction Day Explained'
+title: First Bitcoin Transaction Day
 ogTitle: "FIRST BITCOIN TRANSACTION DAY EXPLAINED"
 description: >-
   On January 12, 2009, Satoshi Nakamoto sent 10 BTC to Hal Finney, marking the

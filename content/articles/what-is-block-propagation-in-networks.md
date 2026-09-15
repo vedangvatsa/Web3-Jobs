@@ -1,5 +1,5 @@
 ---
-title: What is Block Propagation in Blockchain Networks?
+title: "What Is Block Propagation?"
 ogTitle: "BLOCK PROPAGATION IN BLOCKCHAIN NETWORKS? EXPLAINED"
 description: >-
   Explore the critical process of block propagation, how new blocks travel

@@ -1,5 +1,5 @@
 ---
-title: The Future of Web3 in Digital Rights and Copyright Protection Jobs
+title: Web3 Digital Rights and Copyright Jobs
 ogTitle: "THE FUTURE OF WEB3 IN DIGITAL RIGHTS AND COPYRIGHT PROTECTION"
 image: /images/articles/charts/digital-rights-copyright-architecture.svg
 data-ai-hint: digital rights copyright IP NFT ERC-721 Lit Protocol Story

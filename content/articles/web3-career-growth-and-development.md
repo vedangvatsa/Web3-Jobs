@@ -1,5 +1,5 @@
 ---
-title: A Guide to Web3 Career Growth and Development
+title: Web3 Career Growth
 ogTitle: "A GUIDE TO WEB3 CAREER GROWTH AND DEVELOPMENT"
 image: /images/markus-spiske-iar-afB0QQw-unsplash.jpg
 data-ai-hint: career growth chart

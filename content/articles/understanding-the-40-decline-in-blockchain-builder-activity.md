@@ -1,5 +1,5 @@
 ---
-title: Understanding the Decline in Blockchain Dev Activity
+title: Decline in Blockchain Dev Activity
 ogTitle: "UNDERSTANDING THE DECLINE IN BLOCKCHAIN DEV ACTIVITY"
 image: /images/christopher-gower-m_HRfLhgABo-unsplash.jpg
 data-ai-hint: developer decline graph

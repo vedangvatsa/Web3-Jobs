@@ -1,5 +1,5 @@
 ---
-title: How Regulations and Culture Are Changing the Game in Web3 Compliance Guide
+title: How Regulations Are Changing Web3
 ogTitle: "HOW REGULATIONS AND CULTURE ARE CHANGING THE GAME IN WEB3"
 image: /images/thisisengineering-32PpagSzeGs-unsplash.jpg
 data-ai-hint: regulation law culture

@@ -1,5 +1,5 @@
 ---
-title: Initial DEX Offering Complete Guide
+title: Initial DEX Offering Guide
 ogTitle: "INITIAL DEX OFFERING COMPLETE GUIDE"
 image: /images/nasa-1lfI7wkGWZ4-unsplash.jpg
 data-ai-hint: rocket launch crypto

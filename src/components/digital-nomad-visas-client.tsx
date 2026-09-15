@@ -6,6 +6,7 @@ import { Badge } from '@/components/ui/badge';
 import type { DigitalNomadVisa } from '@/types';
 import { visaData } from '@/lib/visas';
 import { ToolUsageTracker } from '@/components/tracking/tool-usage-tracker';
+import { CommunityFeedBanner } from '@/components/community-feed-banner';
 import { CtaBanner } from '@/components/cta-banner';
 import { PageHeader } from '@/components/page-header';
 import { ListingEmptyState, ListingToolbar } from '@/components/listing-toolbar';
@@ -166,6 +167,14 @@ export function DigitalNomadVisasContent() {
     <div>
       <ToolUsageTracker toolName="Digital Nomad Visas" />
       <PageHeader title="Visas for Digital Nomads" />
+      <CommunityFeedBanner
+        href="https://t.me/hashtagweb3"
+        text={
+          <>
+            Join our Telegram community with <strong className="text-foreground">18,000+</strong> members
+          </>
+        }
+      />
 
       <ListingToolbar
         searchValue={searchTerm}
