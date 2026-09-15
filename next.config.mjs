@@ -79,6 +79,9 @@ const nextConfig = {
       { source: '/how-to-be-a-good-community-moderator', destination: '/web3-community-manager-career', permanent: true },
       { source: '/deprecation-policy', destination: '/api-policy', permanent: true },
       { source: '/versioning-policy', destination: '/api-policy', permanent: true },
+      // Renamed Sept 2026 news slugs
+      { source: '/crypto-tax-bills', destination: '/tax-bills', permanent: true },
+      { source: '/nasdaq-tokenized-stocks', destination: '/nasdaq-tokens', permanent: true },
       // Duplicate event slug redirects to canonical premier events
       { source: '/stablecon-26', destination: '/stablecon', permanent: true },
       { source: '/stablecon-26-washington-dc', destination: '/stablecon', permanent: true },
