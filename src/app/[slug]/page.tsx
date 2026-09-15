@@ -88,16 +88,12 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
 
   if (!currentEvent) {
   // Check if it's a job first (root-level: /trader, /bd).
-  // resolveJobSlug also finds retitled postings via the slug archive, so
-  // metadata always describes the live canonical (redirects supersede it).
    const jobResolution = await resolveJobSlug(params.slug);
-   const fallbackArticle = jobResolution.kind === 'fallback' ? await getArticle(params.slug) : undefined;
-   const jobMeta = fallbackArticle ? null : jobResolution.job;
+   const jobMeta = jobResolution.job;
   if (jobMeta) {
     const siteUrl = 'https://hashtagweb3.com';
-    const { getJobSlug } = await import('@/lib/job-slugs');
-    const slug = getJobSlug(jobMeta);
-    const canonicalUrl = `${siteUrl}/${slug}`;
+    const canonicalSlug = jobResolution.canonicalSlug || jobMeta.slug || params.slug;
+    const canonicalUrl = `${siteUrl}/${canonicalSlug}`;
     const title = `${jobMeta.title} at ${jobMeta.company}`;
     const description = buildUniqueJobMetaDescription(jobMeta);
     const ogImageUrl = buildJobOgImageUrl(jobMeta, siteUrl);
@@ -365,16 +361,14 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
   let fallbackArticle: Awaited<ReturnType<typeof getArticle>>;
 
   if (!event) {
-  // Check if it's a job (root-level: /trader, /bd).
-   // Retired slugs whose posting is still live elsewhere 308 to the live
-   // canonical instead of serving stale copies or 404ing.
+  // Check if it's a job (root-level: /trader, /product).
    const resolved = await resolveJobSlug(params.slug);
-   fallbackArticle = resolved.kind === 'fallback' ? await getArticle(params.slug) : undefined;
-   if (resolved.kind === 'moved' && resolved.canonicalSlug) {
-     permanentRedirect(`/${resolved.canonicalSlug}`);
-   }
-   const job = fallbackArticle ? null : resolved.job;
+   const job = resolved.job ?? null;
   if (job) {
+    const canonicalSlug = resolved.canonicalSlug || job.slug;
+    if (canonicalSlug && canonicalSlug.toLowerCase() !== params.slug.toLowerCase()) {
+      permanentRedirect(`/${canonicalSlug}`);
+    }
     const siteUrl = 'https://hashtagweb3.com';
     const companySlug = getCompanySlug(job.company);
     const company = await getCompanyBySlug(companySlug);
@@ -383,6 +377,8 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     const faviconUrl = getCompanyFaviconUrl(company?.website);
     return <JobDetailView job={job} contentHtml={contentHtml} company={company} siteUrl={siteUrl} logoSrc={logoSrc} faviconUrl={faviconUrl} />;
   }
+
+  fallbackArticle = await getArticle(params.slug);
 
   // Check if it's a company page first
   const companyPage = await getCompanyBySlug(params.slug);

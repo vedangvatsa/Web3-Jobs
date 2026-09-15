@@ -512,9 +512,7 @@ export function buildUniqueJobMetaDescription(job: Job): string {
  */
 export type JobSlugResolution =
   | { kind: 'exact'; job: Job; canonicalSlug: string }
-  | { kind: 'moved'; job: Job; canonicalSlug: string }
   | { kind: 'archived'; job: Job; canonicalSlug: string }
-  | { kind: 'fallback'; job: Job; canonicalSlug: string }
   | { kind: 'unknown'; job: null; canonicalSlug: null };
 
 interface ArchivedSlugRecord {
@@ -590,122 +588,25 @@ export async function resolveJobSlug(slug: string): Promise<JobSlugResolution> {
   const allJobs = await getJobs();
   const cleanSlug = slug.toLowerCase().trim();
 
-  const asExact = (job: Job): JobSlugResolution => {
-    const canonicalSlug = getJobSlug(job);
-    return { kind: 'exact', job, canonicalSlug };
-  };
-  const asFallback = (job: Job): JobSlugResolution => {
-    const canonicalSlug = getJobSlug(job);
-    return { kind: 'fallback', job, canonicalSlug };
-  };
+  const exact = allJobs.find((job) => job.slug?.toLowerCase() === cleanSlug);
+  if (exact) {
+    return { kind: 'exact', job: exact, canonicalSlug: exact.slug! };
+  }
 
-  // 1. Direct match with stored slug or calculated slug
-  const exact = allJobs.find((job) =>
-    (job.slug && job.slug.toLowerCase() === cleanSlug) ||
-    getJobSlug(job).toLowerCase() === cleanSlug
-  );
-  if (exact) return asExact(exact);
-
-  // 1b. Retired slug whose posting is still live under a new slug (rebakes
-  // re-mint slugs): 308 to the live canonical. Probed BEFORE the fuzzy ID
-  // fallbacks so a coincidental ID match can never serve the wrong job.
   const legacyMap = loadLegacyArchive();
-  const archivedEarly = legacyMap[cleanSlug];
-  if (archivedEarly) {
-    const liveTwin = findLiveJobForArchived(archivedEarly, allJobs);
-    if (liveTwin) {
-      const twinSlug = getJobSlug(liveTwin);
-      if (twinSlug.toLowerCase() !== cleanSlug) {
-        return { kind: 'moved', job: liveTwin, canonicalSlug: twinSlug };
-      }
-      return asExact(liveTwin);
-    }
-  }
-
-  // 2. Short ID fallback: match trailing digits (e.g. "64006" in "role64006" or "engineer64006")
-  // or trailing hex snippet (e.g. "85bda" in "marketing85bda")
-  // Only applies to single-token short slugs (no hyphens) with at least 4 digits or 5-char hex.
-  // The alphabetic prefix MUST match the job's role/slug prefix — otherwise
-  // /token2049 falsely matched any job whose id ended in "2049".
-  if (!cleanSlug.includes('-')) {
-    let prefix: string | null = null;
-    let trailingSnippet: string | null = null;
-    const digitMatch = cleanSlug.match(/^([a-z]+)(\d{4,})$/);
-    if (digitMatch) {
-      prefix = digitMatch[1];
-      trailingSnippet = digitMatch[2];
-    } else {
-      const hexMatch = cleanSlug.match(/^([a-z]+)([a-f0-9]{5})$/);
-      if (hexMatch && /\d/.test(hexMatch[2])) {
-        prefix = hexMatch[1];
-        trailingSnippet = hexMatch[2];
-      }
-    }
-
-    if (prefix && trailingSnippet) {
-      const matchByShortId = allJobs.find((job) => {
-        const cleanId = (job.id || '').replace(/[^a-z0-9]/gi, '').toLowerCase();
-        if (!cleanId.endsWith(trailingSnippet!)) return false;
-        const canonical = getJobSlug(job).toLowerCase();
-        if (canonical === cleanSlug) return true;
-        if (!canonical.startsWith(prefix!)) return false;
-        const role = getOneWordRole(job.title || '').toLowerCase();
-        return role === prefix || canonical.slice(0, -trailingSnippet!.length) === prefix;
-      });
-      if (matchByShortId) return asExact(matchByShortId);
-    }
-  }
-
-  // 3. Raw job ID match (e.g. UUID or Greenhouse integer ID in URL)
-  const matchById = allJobs.find((job) =>
-    job.id && job.id.toLowerCase() === cleanSlug
-  );
-  if (matchById) return asExact(matchById);
-
-  // 4. Legacy slugs archive with no live twin: serve the archived record so
-  // old links keep working instead of 404ing.
   const archived = legacyMap[cleanSlug];
   if (archived) {
-    return { kind: 'archived', job: reconstructArchivedJob(cleanSlug, archived), canonicalSlug: cleanSlug };
-  }
-
-  // 5. Backward compat & social share fallback: check prefix / ID matching for dash-separated slugs (e.g. devops-andromeda-15104 or frontend-company-12345)
-  const dashIdx = cleanSlug.lastIndexOf('-');
-  if (dashIdx !== -1) {
-    const prefix = cleanSlug.slice(0, dashIdx);
-    const suffixPart = cleanSlug.slice(dashIdx + 1);
-
-    // 5a. Match jobs whose stored/canonical slug has the full legacy prefix.
-    // Require an exact prefix token (`trader` or `trader-...`), never a bare
-    // string prefix (`crypto` must not match `cryptography293da`).
-    const matchByPrefix = allJobs.find((job) => {
-      const s = (job.slug || '').toLowerCase();
-      const canonical = getJobSlug(job).toLowerCase();
-      return s.startsWith(`${prefix}-`) || canonical.startsWith(`${prefix}-`);
-    });
-      if (matchByPrefix) return asFallback(matchByPrefix);
-
-    // 5b. Match by hash or ID suffix only when the prefix also matches the job role/slug.
-    if (suffixPart.length >= 4) {
-      for (const job of allJobs) {
-        const canonical = getJobSlug(job).toLowerCase();
-        const role = getOneWordRole(job.title || '').toLowerCase();
-        const prefixMatches = canonical.startsWith(prefix) || role === prefix
-          || (job.slug || '').toLowerCase().startsWith(prefix);
-        if (!prefixMatches) continue;
-        if (getJobContentKey(job).slice(4) === suffixPart) return asFallback(job);
-        const cleanId = (job.id || '').replace(/[^a-z0-9]/gi, '').toLowerCase();
-        if (cleanId.endsWith(suffixPart)) return asFallback(job);
-      }
+    const live = findLiveJobForArchived(archived, allJobs);
+    if (live?.slug) {
+      return { kind: 'exact', job: live, canonicalSlug: live.slug };
     }
+    return {
+      kind: 'archived',
+      job: reconstructArchivedJob(cleanSlug, archived),
+      canonicalSlug: cleanSlug,
+    };
   }
 
-  // NOTE: there is deliberately NO loose "startsWith" fallback here. A rule
-  // like `cleanSlug.startsWith(job.slug)` matched unrelated jobs by string
-  // coincidence (e.g. stale /compliance35218 served the /compliance3 posting
-  // with HTTP 200), creating duplicate URLs with mismatched content and
-  // schema url. Slugs unknown to both the live set and the archive fall
-  // through to null so routes 404.
   return { kind: 'unknown', job: null, canonicalSlug: null };
 }
 

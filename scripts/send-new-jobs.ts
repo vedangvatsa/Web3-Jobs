@@ -17,6 +17,7 @@
 
 import * as admin from 'firebase-admin';
 import { getJobs } from '@/lib/jobs';
+import { getJobPublicUrl } from '@/lib/job-slugs';
 import { sendBatchJobAlerts, type JobListing } from '@/lib/email';
 
 /**
@@ -178,7 +179,7 @@ async function sendNewJobAlerts() {
         company,
         location: job.location || 'Remote',
         salary: job.salary,
-        url: job.link || job.url || `${process.env.NEXT_PUBLIC_SITE_URL || 'https://hashtagweb3.com'}/jobs/${job.id}`,
+        url: getJobPublicUrl(job, process.env.NEXT_PUBLIC_SITE_URL || 'https://hashtagweb3.com'),
         tags: job.tags?.slice(0, 5) || [],
       });
     }

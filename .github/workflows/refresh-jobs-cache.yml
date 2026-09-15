@@ -179,6 +179,14 @@ jobs:
         run: npx tsx scripts/verify-jobs-integrity.ts
         continue-on-error: true
 
+      - name: Backfill Telegram URL audit log
+        run: npx tsx scripts/backfill-telegram-job-url-log.ts
+        continue-on-error: true
+
+      - name: Verify Telegram job URLs resolve
+        run: npx tsx scripts/verify-telegram-job-urls.ts
+        continue-on-error: true
+
       - name: Fetch Web3 Events from Luma
         run: node scripts/fetch-web3-events.mjs
         continue-on-error: true
@@ -280,7 +288,7 @@ jobs:
           npx tsx scripts/social/merge-state.ts
 
           # Stage all cache, state, and company logo files (OG job cards need local PNGs)
-          git add content/jobs-cache.json content/job-descriptions.json content/events-cache.json scripts/social/*.json .telegram*.json public/logo/companies/ 2>/dev/null || true
+          git add content/jobs-cache.json content/job-descriptions.json content/events-cache.json content/legacy-slugs-archive.json scripts/social/*.json .telegram*.json public/logo/companies/ 2>/dev/null || true
 
           if git diff --staged --quiet; then
             echo "No changes to commit"

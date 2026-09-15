@@ -121,23 +121,171 @@ export function getOneWordRole(title: string): string {
 }
 
 /**
- * Generates an extremely short, single-word-based slug followed by numbers
- * to guarantee absolute uniqueness and prevent collisions.
- * e.g. "/onboarding29373" -> sequential: /frontend1, /frontend2
+ * Next slug for a role word: `product`, then `product1`, `product2`, … on collision.
  */
+export function allocateSequentialRoleSlug(roleWord: string, usedSlugs: Set<string>): string {
+  const base = (roleWord || 'job').toLowerCase().replace(/[^a-z0-9]/g, '') || 'job';
+  if (!usedSlugs.has(base)) return base;
+  for (let n = 1; n <= 999_999; n += 1) {
+    const candidate = `${base}${n}`;
+    if (!usedSlugs.has(candidate)) return candidate;
+  }
+  throw new Error(`Could not allocate slug for role: ${base}`);
+}
+
+/** Mint a public slug from a job title, respecting slugs already in use. */
+export function mintJobSlugFromTitle(title: string, usedSlugs: Set<string>): string {
+  const roleWord = getOneWordRole(title || 'job');
+  return allocateSequentialRoleSlug(roleWord, usedSlugs);
+}
+
+/**
+ * Keeps slugs for known postings (by employer URL identity). New postings get a
+ * title keyword slug (`product`, `product1`, …) in oldest-first order.
+ */
+export function assignJobSlugsInCache(
+  jobs: Array<Pick<Job, 'id' | 'title' | 'company' | 'link' | 'date' | 'slug'>>,
+): void {
+  const usedSlugs = new Set<string>();
+  const identityToSlug = new Map<string, string>();
+
+  for (const job of jobs) {
+    const identity = getJobIdentity(job as Job);
+    const slug = job.slug?.trim();
+    if (slug && !usedSlugs.has(slug)) {
+      identityToSlug.set(identity, slug);
+      usedSlugs.add(slug);
+    }
+  }
+
+  const sorted = [...jobs].sort((a, b) => {
+    const ta = Date.parse(a.date || '') || 0;
+    const tb = Date.parse(b.date || '') || 0;
+    if (ta !== tb) return ta - tb;
+    return String(a.id).localeCompare(String(b.id));
+  });
+
+  for (const job of sorted) {
+    const identity = getJobIdentity(job as Job);
+    const preserved = identityToSlug.get(identity);
+    if (preserved) {
+      job.slug = preserved;
+      continue;
+    }
+    const slug = mintJobSlugFromTitle(job.title || 'job', usedSlugs);
+    job.slug = slug;
+    usedSlugs.add(slug);
+    identityToSlug.set(identity, slug);
+  }
+}
+
+/** @inheritdoc assignJobSlugsInCache */
+export function rebakeJobSlugsInPlace(
+  jobs: Array<Pick<Job, 'id' | 'title' | 'company' | 'link' | 'date' | 'slug'>>,
+): void {
+  assignJobSlugsInCache(jobs);
+}
+
+export type LegacySlugRecord = {
+  id?: string;
+  link?: string;
+  company?: string;
+  title?: string;
+};
+
+type JobSlugFields = Pick<Job, 'id' | 'title' | 'company' | 'link' | 'slug'>;
+
+/** Record a retired public slug so old links (e.g. Telegram) keep resolving. */
+export function retireJobSlugInArchive(
+  archive: Record<string, LegacySlugRecord>,
+  slug: string,
+  job: JobSlugFields,
+): boolean {
+  const clean = slug?.trim();
+  if (!clean || archive[clean]) return false;
+  archive[clean] = {
+    id: job.id,
+    link: job.link,
+    company: job.company,
+    title: job.title,
+  };
+  return true;
+}
+
+/**
+ * When a posting keeps the same identity but gets a new slug, retire the old slug.
+ * When a posting drops out of the cache, retire its last slug.
+ */
+export function syncLegacyArchiveAfterSlugChanges(
+  before: JobSlugFields[],
+  after: JobSlugFields[],
+  archive: Record<string, LegacySlugRecord>,
+): number {
+  let added = 0;
+  const beforeByIdentity = new Map<string, { slug: string; job: JobSlugFields }>();
+  for (const job of before) {
+    const identity = getJobIdentity(job);
+    if (job.slug?.trim()) {
+      beforeByIdentity.set(identity, { slug: job.slug.trim(), job });
+    }
+  }
+
+  const afterByIdentity = new Map<string, JobSlugFields>();
+  const afterSlugs = new Set<string>();
+  for (const job of after) {
+    afterByIdentity.set(getJobIdentity(job), job);
+    if (job.slug?.trim()) afterSlugs.add(job.slug.trim());
+  }
+
+  for (const [identity, { slug, job }] of beforeByIdentity) {
+    const live = afterByIdentity.get(identity);
+    if (live) {
+      const nextSlug = live.slug?.trim();
+      if (nextSlug && nextSlug !== slug) {
+        if (retireJobSlugInArchive(archive, slug, job)) added += 1;
+      }
+      continue;
+    }
+    if (!afterSlugs.has(slug)) {
+      if (retireJobSlugInArchive(archive, slug, job)) added += 1;
+    }
+  }
+
+  return added;
+}
+
+/** Assign slugs and merge any retired URLs into the legacy archive. */
+export function assignJobSlugsAndSyncLegacyArchive(
+  jobs: JobSlugFields[],
+  archive: Record<string, LegacySlugRecord>,
+): number {
+  const snapshot = jobs.map((job) => ({
+    id: job.id,
+    title: job.title,
+    company: job.company,
+    link: job.link,
+    slug: job.slug,
+  }));
+  assignJobSlugsInCache(jobs);
+  return syncLegacyArchiveAfterSlugChanges(snapshot, jobs, archive);
+}
+
+/** Public job detail path (always short slug at site root). */
+export function getJobPublicPath(job: Pick<Job, 'slug' | 'id' | 'title' | 'company' | 'link'>): string {
+  return `/${getJobSlug(job as Job)}`;
+}
+
+export function getJobPublicUrl(
+  job: Pick<Job, 'slug' | 'id' | 'title' | 'company' | 'link'>,
+  siteUrl = 'https://hashtagweb3.com',
+): string {
+  const base = siteUrl.replace(/\/+$/, '');
+  return `${base}${getJobPublicPath(job)}`;
+}
+
+/** Public URL slug — always `job.slug` from cache (minted via assignJobSlugsInCache). */
 export function getJobSlug(job: Job): string {
-  if (job.slug) {
-    return job.slug;
-  }
-  const roleWord = getOneWordRole(job.title || 'job');
-  const cleanId = (job.id || '').replace(/[^a-z0-9]/gi, '').toLowerCase();
-  let shortId = '';
-  if (/\d/.test(cleanId) || /[a-f0-9]{8,}/.test(cleanId)) {
-    shortId = cleanId.slice(-5);
-  } else {
-    shortId = stableHash(getJobIdentity(job)).slice(0, 5);
-  }
-  return shortId ? `${roleWord}${shortId}` : roleWord;
+  return job.slug || '';
 }
 
 export function getCompanySlug(company: string): string {

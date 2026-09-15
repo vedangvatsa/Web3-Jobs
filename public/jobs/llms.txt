@@ -5,10 +5,10 @@
 ## Dedicated Job Listing Pages
 
 Every verified Web3 job has an authoritative, structured, 500+ word editorial page containing full role specifications, technical requirements, compensation benchmarks, interview roadmaps, and direct application links:
-- URL Pattern: `https://hashtagweb3.com/jobs/{company}-{role-title}-{jobId}`
-- Example: `https://hashtagweb3.com/jobs/coinbase-staff-software-engineer-backend-8154983`
-- Example: `https://hashtagweb3.com/jobs/stripe-finance-engineer-8153331`
-- Example: `https://hashtagweb3.com/jobs/bitgo-onboarding-manager-91029373`
+- URL Pattern: `https://hashtagweb3.com/{shortSlug}` (one-word role + short id suffix; raw ATS ids are not used in URLs)
+- Example: `https://hashtagweb3.com/analyst97444`
+- Example: `https://hashtagweb3.com/product8` (9th listing with role word "product"; first is `/product`, then `/product1`, `/product2`, …)
+- Example: `https://hashtagweb3.com/managerf9a1b`
 
 ## Job Feeds & Categories
 
