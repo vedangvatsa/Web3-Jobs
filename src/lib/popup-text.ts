@@ -1,0 +1,52 @@
+/** Normalize popup copy for display (entities, mojibake, stray UI scrape). */
+export function formatPopupText(text: string): string {
+  let t = text
+    .replace(/\r\n/g, '\n')
+    .replace(/\u00a0/g, ' ')
+    .replace(/&amp;/g, '&')
+    .replace(/&quot;/g, '"')
+    .replace(/&#x27;/g, "'")
+    .replace(/&#39;/g, "'")
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/Â(?=[A-Za-z])/g, '')
+    .replace(/\s*\u2666\s*/g, ' ')
+    .replace(/♔/g, '')
+    .replace(/→/g, ' ')
+    .replace(/[\u200b-\u200d\ufeff]/g, '');
+
+  t = t.replace(/\s+/g, ' ').trim();
+  t = t.replace(/\s+([.,;:])/g, '$1');
+  return t;
+}
+
+export function formatPopupParagraph(text: string): string {
+  return formatPopupText(text).replace(/\n+/g, ' ');
+}
+
+/** Drop lines that are clearly nav/marketing scrape, not editorial copy. */
+export function isPopupScrapeNoise(line: string): boolean {
+  const t = formatPopupText(line);
+  if (t.length < 12) return true;
+  if (/^Read more/i.test(t)) return true;
+  if (/Get a job/i.test(t)) return true;
+  if (/All results go into/i.test(t)) return true;
+  if (/Burn Calories/i.test(t)) return true;
+  if (/^\d{2}\s*-\s*What .+ do /i.test(t)) return true;
+  if (/database\.\s*$/i.test(t) && t.length < 120) return true;
+  return false;
+}
+
+/** Tweet / post copy: keep paragraph breaks, normalize each line. */
+export function formatPopupPostText(text: string): string {
+  return text
+    .replace(/\r\n/g, '\n')
+    .split('\n')
+    .map((line) => formatPopupText(line))
+    .filter(Boolean)
+    .join('\n\n');
+}
+
+export function filterPopupBody(body: string[]): string[] {
+  return body.map(formatPopupParagraph).filter((p) => p.length > 0 && !isPopupScrapeNoise(p));
+}
