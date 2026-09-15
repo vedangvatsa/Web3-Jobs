@@ -4,9 +4,12 @@ description: >-
   EigenLayer activated slashing on Ethereum mainnet on April 17, 2025, making an
   operator's elected stake allocation slashable by individual AVS operator sets
   under rules the AVS defines.
-image: /logo/companies/eigenlayer.webp
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/6/65/Ethereum_was_invented_here_plaque.jpg
+imageCaption: "Plaque marking where Ethereum was invented. Photo: Oxyman via Wikimedia Commons (CC BY 2.0)."
+imageCreditUrl: https://commons.wikimedia.org/wiki/File:Ethereum_was_invented_here_plaque.jpg
 category: News
-data-ai-hint: EigenLayer operator set diagram
+data-ai-hint: ethereum invented here plaque
 publishedDate: '2026-09-12'
 lastUpdated: "2026-09-13"
 ogTitle: EIGENLAYER SLASHING GOES LIVE ON ETHEREUM

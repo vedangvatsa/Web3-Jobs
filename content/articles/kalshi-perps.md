@@ -5,9 +5,11 @@ description: >-
   individual stocks and ETFs; no product filing or contract specifications have
   been published.
 image: >-
-  /api/og?type=article&title=Kalshi%20Plans%2024%2F7%20Tesla%20and%20Nvidia%20Perpetual%20Futures
+  https://upload.wikimedia.org/wikipedia/commons/4/43/NYC_-_New_York_Stock_Exchange.JPG
+imageCaption: "Facade of the New York Stock Exchange in New York City's financial district. Photo: Jean-Christophe Benoist via Wikimedia Commons (CC BY 3.0)."
+imageCreditUrl: https://commons.wikimedia.org/wiki/File:NYC_-_New_York_Stock_Exchange.JPG
 category: News
-data-ai-hint: Tesla Nvidia perpetual futures
+data-ai-hint: new york stock exchange facade
 publishedDate: '2026-09-12'
 lastUpdated: "2026-09-13"
 ogTitle: KALSHI PLANS 24/7 TESLA & NVIDIA PERPETUALS

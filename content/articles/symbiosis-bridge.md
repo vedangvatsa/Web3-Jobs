@@ -5,9 +5,11 @@ description: >-
   that minted billions of unbacked synthetic bitcoin, and offered the attacker a
   20% bounty, while liquidity providers await a compensation plan.
 image: >-
-  /api/og?type=article&title=Symbiosis%20Recovers%2015%20BTC%20After%20Bitcoin%20Bridge%20Exploit
+  https://upload.wikimedia.org/wikipedia/commons/9/90/Bitcoins.jpg
+imageCaption: "Physical Bitcoin coins. Photo: Jorge Franganillo via Wikimedia Commons (CC BY 2.0)."
+imageCreditUrl: https://commons.wikimedia.org/wiki/File:Bitcoins.jpg
 category: News
-data-ai-hint: crypto bridge hack recovery
+data-ai-hint: physical bitcoin coins
 publishedDate: '2026-09-14'
 lastUpdated: "2026-09-14"
 ogTitle: SYMBIOSIS RECOVERS 15 BTC AFTER BRIDGE EXPLOIT

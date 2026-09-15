@@ -6,9 +6,11 @@ description: >-
   which would extend wash-sale restrictions to digital assets, though reports
   say Republicans may strip the mining provisions.
 image: >-
-  /api/og?type=article&title=House%20Weighs%20Two%20Crypto%20Tax%20Bills%20With%20Markup%20Scheduled%20for%20Sept.%2016
+  https://upload.wikimedia.org/wikipedia/commons/2/27/Capitol_Building_Full_View.jpg
+imageCaption: "Wide view of the western front of the U.S. Capitol, seat of the U.S. Congress. Photo: Noclip via Wikimedia Commons (public domain)."
+imageCreditUrl: https://commons.wikimedia.org/wiki/File:Capitol_Building_Full_View.jpg
 category: News
-data-ai-hint: crypto tax legislation
+data-ai-hint: us capitol congress washington
 publishedDate: '2026-09-14'
 lastUpdated: "2026-09-14"
 ogTitle: HOUSE WEIGHS TWO CRYPTO TAX BILLS FOR SEPT. 16 MARKUP

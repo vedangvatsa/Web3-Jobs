@@ -4,9 +4,11 @@ description: >-
   Starknet's v0.13.2 mainnet upgrade, deployed on August 28, 2024, introduced
   optimistic parallelization in the sequencer for independent transactions.
 image: >-
-  /api/og?type=article&title=Starknet%27s%202024%20Upgrade%20Added%20Parallel%20Execution
+  https://upload.wikimedia.org/wikipedia/commons/7/7f/Tel_Aviv_Skyline_03.jpg
+imageCaption: "Tel Aviv skyline. Photo: Ynhockey via Wikimedia Commons (CC BY-SA 4.0)."
+imageCreditUrl: https://commons.wikimedia.org/wiki/File:Tel_Aviv_Skyline_03.jpg
 category: News
-data-ai-hint: starknet parallel execution blockchain
+data-ai-hint: tel aviv skyline
 publishedDate: '2026-09-12'
 lastUpdated: "2026-09-13"
 ogTitle: STARKNET ENABLES OPTIMISTIC PARALLEL EXECUTION

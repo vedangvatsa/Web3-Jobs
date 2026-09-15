@@ -6,9 +6,11 @@ description: >-
   research, while the authors say the timing of cryptographically relevant
   quantum computing remains uncertain.
 image: >-
-  /api/og?type=article&title=Preprint%20Reports%20Lower%20Quantum%20Cost%20Metric%20for%20Bitcoin%27s%20Curve
+  https://upload.wikimedia.org/wikipedia/commons/9/91/IBM_Quantum_System_One.jpg
+imageCaption: "IBM Quantum System One quantum computer. Photo: OJB Quantum via Wikimedia Commons (CC BY 4.0)."
+imageCreditUrl: https://commons.wikimedia.org/wiki/File:IBM_Quantum_System_One.jpg
 category: News
-data-ai-hint: quantum circuit secp256k1 research
+data-ai-hint: ibm quantum computer dilution refrigerator
 publishedDate: '2026-09-12'
 lastUpdated: "2026-09-13"
 ogTitle: NEW PREPRINT REASSESSES BITCOIN QUANTUM RISK

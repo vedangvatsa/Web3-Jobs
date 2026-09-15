@@ -6,9 +6,11 @@ description: >-
   transferable shares, responding to AMC CEO Adam Aron's objections to
   AMC-linked tokens.
 image: >-
-  /api/og?type=article&title=Robinhood%20CEO%20Rejects%20Issuer%20Veto%20in%20AMC%20Stock-Token%20Dispute
+  https://upload.wikimedia.org/wikipedia/commons/e/ea/NY_stock_exchange_traders_floor_LC-U9-10548-6.jpg
+imageCaption: "Stock brokers on the New York Stock Exchange floor. Photo: Library of Congress via Wikimedia Commons (public domain)."
+imageCreditUrl: https://commons.wikimedia.org/wiki/File:NY_stock_exchange_traders_floor_LC-U9-10548-6.jpg
 category: News
-data-ai-hint: Robinhood AMC stock token dispute
+data-ai-hint: nyse trading floor brokers
 publishedDate: '2026-09-12'
 lastUpdated: "2026-09-13"
 ogTitle: ROBINHOOD REJECTS ISSUER VETO IN AMC DISPUTE

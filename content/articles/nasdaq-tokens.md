@@ -5,9 +5,11 @@ description: >-
   of Kraken, and the companies advanced their collaboration on Nasdaq Equity
   Tokens with an expected launch in the second quarter of 2027.
 image: >-
-  /api/og?type=article&title=Nasdaq%20Invests%20%24100%20Million%20in%20Payward%20to%20Advance%20Tokenized%20Equities
+  https://upload.wikimedia.org/wikipedia/commons/6/66/NASDAQ_stock_market_display.jpg
+imageCaption: "Nasdaq MarketSite tower at Times Square at night. Photo: bfishadow via Wikimedia Commons (CC BY 2.0)."
+imageCreditUrl: https://commons.wikimedia.org/wiki/File:NASDAQ_stock_market_display.jpg
 category: News
-data-ai-hint: nasdaq tokenized stocks
+data-ai-hint: nasdaq times square night
 publishedDate: '2026-09-14'
 lastUpdated: "2026-09-14"
 ogTitle: NASDAQ INVESTS $100M IN PAYWARD FOR TOKENIZED EQUITIES

@@ -5,9 +5,11 @@ description: >-
   settlement and servicing within India's existing regulated market
   infrastructure.
 image: >-
-  /api/og?type=article&title=SEBI%20launches%20Demat%202.0%20tokenised%20corporate%20bond%20pilot
+  https://upload.wikimedia.org/wikipedia/commons/0/04/BSE_-_Bombay_Stock_Exchange_Building.jpg
+imageCaption: "The Bombay Stock Exchange building on Dalal Street, Mumbai. Photo: Niyantha Shekhar via Wikimedia Commons (CC BY 2.0)."
+imageCreditUrl: https://commons.wikimedia.org/wiki/File:BSE_-_Bombay_Stock_Exchange_Building.jpg
 category: News
-data-ai-hint: India tokenised corporate bonds
+data-ai-hint: bombay stock exchange building
 publishedDate: '2026-09-12'
 lastUpdated: "2026-09-13"
 ogTitle: SEBI LAUNCHES DEMAT 2.0 TOKENISED BOND PILOT
