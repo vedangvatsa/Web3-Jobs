@@ -166,7 +166,16 @@ export function getEventType(event: Web3Event): EventType {
   if (text.includes('workshop') || text.includes('bootcamp') || text.includes('masterclass') || text.includes('developer day') || text.includes('demo day')) {
     return 'workshop';
   }
-  if (loc.includes('online') || loc.includes('virtual') || text.includes('webinar') || text.includes('ama ') || text.includes('twitter space')) {
+  if (
+    loc.includes('online') ||
+    loc.includes('virtual') ||
+    loc.includes('discord') ||
+    loc.includes('zoom') ||
+    loc.includes('google meet') ||
+    text.includes('webinar') ||
+    text.includes('ama ') ||
+    text.includes('twitter space')
+  ) {
     return 'online';
   }
   return 'meetup';
@@ -175,7 +184,15 @@ export function getEventType(event: Web3Event): EventType {
 export function getEventFormat(event: Web3Event): EventFormat {
   const loc = (event.location || '').toLowerCase();
   const name = event.name.toLowerCase();
-  if (loc.includes('online') || loc.includes('virtual') || name.includes('online') || name.includes('virtual')) {
+  if (
+    loc.includes('online') ||
+    loc.includes('virtual') ||
+    loc.includes('discord') ||
+    loc.includes('zoom') ||
+    loc.includes('google meet') ||
+    name.includes('online') ||
+    name.includes('virtual')
+  ) {
     return 'online';
   }
   return 'in-person';
