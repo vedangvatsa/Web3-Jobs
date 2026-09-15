@@ -1,0 +1,265 @@
+import { COUNTRY_NAMES, type PublicWeb3Event } from '@/lib/events';
+
+export type EventMapGroup = {
+  key: string;
+  label: string;
+  events: PublicWeb3Event[];
+  coordinates: [number, number];
+};
+
+/** Country names (and common aliases) → ISO code for map grouping. */
+export const EVENT_MAP_COUNTRY_CODES: Record<string, string> = {
+  'united arab emirates': 'AE',
+  uae: 'AE',
+  bolivia: 'BO',
+  brazil: 'BR',
+  bulgaria: 'BG',
+  canada: 'CA',
+  'dominican republic': 'DO',
+  finland: 'FI',
+  france: 'FR',
+  germany: 'DE',
+  ghana: 'GH',
+  'hong kong': 'HK',
+  india: 'IN',
+  italy: 'IT',
+  japan: 'JP',
+  malawi: 'MW',
+  portugal: 'PT',
+  rwanda: 'RW',
+  singapore: 'SG',
+  'south africa': 'ZA',
+  'south korea': 'KR',
+  'republic of korea': 'KR',
+  spain: 'ES',
+  switzerland: 'CH',
+  thailand: 'TH',
+  turkey: 'TR',
+  türkiye: 'TR',
+  'united kingdom': 'GB',
+  uk: 'GB',
+  'united states': 'US',
+  'united states of america': 'US',
+  usa: 'US',
+  mexico: 'MX',
+  ethiopia: 'ET',
+  honduras: 'HN',
+  malaysia: 'MY',
+  nigeria: 'NG',
+  colombia: 'CO',
+  netherlands: 'NL',
+  australia: 'AU',
+  austria: 'AT',
+};
+
+/** Normalized `city|CC` → [lat, lng]. */
+export const EVENT_MAP_CITY_COORDINATES: Record<string, [number, number]> = {
+  'abu dhabi|AE': [24.45, 54.38],
+  'dubai|AE': [25.2, 55.27],
+  'cochabamba|BO': [-17.39, -66.16],
+  'sao paulo|BR': [-23.55, -46.63],
+  'sofia|BG': [42.7, 23.32],
+  'toronto|CA': [43.65, -79.38],
+  'punta cana|DO': [18.56, -68.37],
+  'helsinki|FI': [60.17, 24.94],
+  'biarritz|FR': [43.48, -1.56],
+  'cannes|FR': [43.55, 7.02],
+  'nanterre|FR': [48.89, 2.21],
+  'paris|FR': [48.86, 2.35],
+  'berlin|DE': [52.52, 13.41],
+  'dortmund|DE': [51.51, 7.47],
+  'accra|GH': [5.56, -0.19],
+  'hong kong|HK': [22.32, 114.17],
+  'ahmedabad|IN': [23.02, 72.57],
+  'bengaluru|IN': [12.97, 77.59],
+  'bhopal|IN': [23.26, 77.41],
+  'chandigarh|IN': [30.73, 76.78],
+  'delhi|IN': [28.61, 77.21],
+  'hyderabad|IN': [17.39, 78.49],
+  'indore|IN': [22.72, 75.86],
+  'jaipur|IN': [26.91, 75.79],
+  'lucknow|IN': [26.85, 80.95],
+  'mumbai|IN': [19.08, 72.88],
+  'nashik|IN': [19.99, 73.79],
+  'pune|IN': [18.52, 73.86],
+  'surat|IN': [21.17, 72.83],
+  'pescara|IT': [42.46, 14.21],
+  'milan|IT': [45.46, 9.19],
+  'rome|IT': [41.9, 12.5],
+  'bunkyo city|JP': [35.71, 139.75],
+  'minato city|JP': [35.66, 139.75],
+  'nakano city|JP': [35.71, 139.67],
+  'tokyo|JP': [35.68, 139.76],
+  'blantyre|MW': [-15.79, 35.01],
+  'kuala lumpur|MY': [3.14, 101.69],
+  'amsterdam|NL': [52.37, 4.9],
+  'lagos|NG': [6.52, 3.38],
+  'lisbon|PT': [38.72, -9.14],
+  'kigali|RW': [-1.94, 30.06],
+  'singapore|SG': [1.35, 103.82],
+  'cape town|ZA': [-33.92, 18.42],
+  'johannesburg|ZA': [-26.2, 28.04],
+  'seoul|KR': [37.57, 126.98],
+  'barcelona|ES': [41.39, 2.17],
+  'madrid|ES': [40.42, -3.7],
+  'lugano|CH': [46, 8.95],
+  'zurich|CH': [47.38, 8.54],
+  'bangkok|TH': [13.76, 100.5],
+  'beyoglu|TR': [41.04, 28.98],
+  'istanbul|TR': [41.01, 28.98],
+  'vienna|AT': [48.21, 16.37],
+  'sydney|AU': [-33.87, 151.21],
+  'birmingham|GB': [52.48, -1.9],
+  'london|GB': [51.51, -0.13],
+  'addis ababa|ET': [9.03, 38.74],
+  'bogota|CO': [4.71, -74.07],
+  'roatan|HN': [16.32, -86.53],
+  'mexico city|MX': [19.43, -99.13],
+  'arlington|US': [38.88, -77.1],
+  'atlanta|US': [33.75, -84.39],
+  'austin|US': [30.27, -97.74],
+  'boston|US': [42.36, -71.06],
+  'brooklyn|US': [40.68, -73.94],
+  'columbus|US': [39.96, -82.99],
+  'culver city|US': [34.02, -118.4],
+  'davie|US': [26.08, -80.25],
+  'denver|US': [39.74, -104.99],
+  'fullerton|US': [33.87, -117.92],
+  'las vegas|US': [36.17, -115.14],
+  'miami|US': [25.76, -80.19],
+  'miami beach|US': [25.79, -80.13],
+  'new york|US': [40.71, -74.01],
+  'san francisco|US': [37.77, -122.42],
+  'washington dc|US': [38.91, -77.04],
+};
+
+export const EVENT_MAP_CITY_ALIASES: Record<string, string> = {
+  'abu dhabi uae': 'abu dhabi',
+  'dubai uae': 'dubai',
+  'new york city': 'new york',
+  'sao paulo': 'sao paulo',
+  'washington, dc': 'washington dc',
+  'washington d c': 'washington dc',
+  'أبو ظبي': 'abu dhabi',
+  'delhi ncr': 'delhi',
+  gurugram: 'delhi',
+  gurgaon: 'delhi',
+  'new delhi': 'delhi',
+  noida: 'delhi',
+  'navi mumbai': 'mumbai',
+  gujarat: 'ahmedabad',
+  roatán: 'roatan',
+  roatan: 'roatan',
+  'mexico city': 'mexico city',
+  'bogotá': 'bogota',
+  bogota: 'bogota',
+};
+
+export const EVENT_MAP_CITY_DISPLAY_NAMES: Record<string, string> = {
+  delhi: 'Delhi NCR',
+};
+
+const NON_MAP_CITY = /^(global|tba|virtual|online|\?)$/i;
+
+export function getEventMapCountryCode(country?: string): string | null {
+  const value = country?.trim();
+  if (!value) return null;
+  const code = value.toUpperCase();
+  if (COUNTRY_NAMES[code]) return code;
+  return EVENT_MAP_COUNTRY_CODES[value.toLowerCase()] || null;
+}
+
+export function normalizeEventMapCity(city: string): string {
+  const trimmed = city.trim();
+  const normalized = trimmed
+    .normalize('NFC')
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .replace(/\s+/g, ' ')
+    .trim()
+    .toLowerCase();
+
+  const aliased = EVENT_MAP_CITY_ALIASES[normalized] || EVENT_MAP_CITY_ALIASES[trimmed.normalize('NFC')];
+  if (aliased) return aliased;
+
+  if (/ظبي/.test(trimmed) && /أبو|ابو|abu/i.test(trimmed)) return 'abu dhabi';
+
+  return normalized.split(',')[0].trim();
+}
+
+export function getEventMapCoordinates(city: string, countryCode: string): [number, number] | null {
+  const normalizedCity = normalizeEventMapCity(city);
+  return EVENT_MAP_CITY_COORDINATES[`${normalizedCity}|${countryCode}`] || null;
+}
+
+export function shouldShowEventOnMap(event: Pick<PublicWeb3Event, 'city' | 'country'>): boolean {
+  if (!event.city || NON_MAP_CITY.test(event.city.trim())) return false;
+  const countryCode = getEventMapCountryCode(event.country);
+  if (!countryCode) return false;
+  return getEventMapCoordinates(event.city, countryCode) !== null;
+}
+
+export function groupEventsForMap(events: PublicWeb3Event[]): EventMapGroup[] {
+  const locations = new Map<string, EventMapGroup>();
+
+  events.forEach((event) => {
+    if (!shouldShowEventOnMap(event)) return;
+    const countryCode = getEventMapCountryCode(event.country)!;
+    const city = normalizeEventMapCity(event.city!);
+    const coordinates = EVENT_MAP_CITY_COORDINATES[`${city}|${countryCode}`]!;
+    const key = `${city}|${countryCode}`;
+    const displayCity = EVENT_MAP_CITY_DISPLAY_NAMES[city] || event.city!.split(',')[0].trim();
+    const label = `${displayCity}, ${COUNTRY_NAMES[countryCode] || event.country}`;
+    const group = locations.get(key) || { key, label, events: [], coordinates };
+    group.events.push(event);
+    locations.set(key, group);
+  });
+
+  return [...locations.values()].sort(
+    (a, b) => b.events.length - a.events.length || a.label.localeCompare(b.label),
+  );
+}
+
+/** Used by scripts/check-event-map-cities.ts */
+export function listUnmappedMapEvents(events: PublicWeb3Event[]): {
+  missingCoordinates: Array<{ key: string; count: number; rawCities: string[]; sample: string }>;
+  missingCountry: Array<{ country: string; city: string; count: number }>;
+} {
+  const missingCoordinates = new Map<string, { count: number; rawCities: Set<string>; sample: string }>();
+  const missingCountry = new Map<string, number>();
+
+  for (const event of events) {
+    if (!event.city || NON_MAP_CITY.test(event.city.trim())) continue;
+    const countryCode = getEventMapCountryCode(event.country);
+    if (!countryCode) {
+      const k = `${event.country || '?'}|${event.city}`;
+      missingCountry.set(k, (missingCountry.get(k) || 0) + 1);
+      continue;
+    }
+    const city = normalizeEventMapCity(event.city);
+    const key = `${city}|${countryCode}`;
+    if (!EVENT_MAP_CITY_COORDINATES[key]) {
+      const cur = missingCoordinates.get(key) || { count: 0, rawCities: new Set<string>(), sample: event.name };
+      cur.count += 1;
+      cur.rawCities.add(event.city);
+      missingCoordinates.set(key, cur);
+    }
+  }
+
+  return {
+    missingCoordinates: [...missingCoordinates.entries()]
+      .sort((a, b) => b[1].count - a[1].count)
+      .map(([key, v]) => ({
+        key,
+        count: v.count,
+        rawCities: [...v.rawCities],
+        sample: v.sample,
+      })),
+    missingCountry: [...missingCountry.entries()]
+      .sort((a, b) => b[1] - a[1])
+      .map(([k, count]) => {
+        const [country, city] = k.split('|');
+        return { country, city, count };
+      }),
+  };
+}
