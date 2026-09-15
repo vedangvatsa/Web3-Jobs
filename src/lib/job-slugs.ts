@@ -1,5 +1,4 @@
 import type { Job } from '@/types';
-import { loadReservedRootSlugsSync } from '@/lib/reserved-root-slugs';
 
 const TRACKING_QUERY_PARAMS = new Set([
   'gh_src',
@@ -259,10 +258,10 @@ function siteBlockedSlugs(
  * 3. Every job keeps a slug; nothing is removed from the cache for collisions.
  */
 export function assignJobSlugsInCache(
-  jobs: Array<Pick<Job, 'id' | 'title' | 'company' | 'link' | 'date' | 'slug'>>,
+  jobs: Array<Pick<Job, 'id' | 'title' | 'company' | 'link' | 'slug'> & { date?: string }>,
   options?: AssignJobSlugOptions,
 ): void {
-  const reservedRoot = options?.reservedRootSlugs ?? loadReservedRootSlugsSync();
+  const reservedRoot = options?.reservedRootSlugs ?? new Set<string>();
   const siteBlocked = siteBlockedSlugs(jobs, reservedRoot);
   const archiveBlocked = new Set<string>();
   if (options?.extraBlockedSlugs) {
@@ -303,6 +302,21 @@ export function assignJobSlugsInCache(
     usedSlugs.add(normalizeSlugToken(slug));
     identityToSlug.set(identity, slug);
   }
+
+  // Last pass: every row gets a unique, unshadowed slug even if an earlier
+  // preserve/mint step left a hole (duplicate identity, empty slug, etc.).
+  const claimed = new Set<string>();
+  for (const job of jobs) {
+    const token = normalizeSlugToken(job.slug || '');
+    if (token && !siteBlocked.has(token) && !claimed.has(token)) {
+      claimed.add(token);
+      continue;
+    }
+    const blocked = new Set([...claimed, ...siteBlocked, ...archiveBlocked]);
+    const slug = mintJobSlugFromTitle(job.title || 'job', blocked, job.company);
+    job.slug = slug;
+    claimed.add(normalizeSlugToken(slug));
+  }
 }
 
 /** @inheritdoc assignJobSlugsInCache */
@@ -319,7 +333,9 @@ export type LegacySlugRecord = {
   title?: string;
 };
 
-type JobSlugFields = Pick<Job, 'id' | 'title' | 'company' | 'link' | 'slug'>;
+type JobSlugFields = Pick<Job, 'id' | 'title' | 'company' | 'link' | 'slug'> & {
+  date?: string;
+};
 
 /** Record a retired public slug so old links (e.g. Telegram) keep resolving. */
 export function retireJobSlugInArchive(
@@ -330,7 +346,7 @@ export function retireJobSlugInArchive(
 ): boolean {
   const clean = slug?.trim();
   if (!clean || archive[clean]) return false;
-  const reserved = reservedRoot ?? loadReservedRootSlugsSync();
+  const reserved = reservedRoot ?? new Set<string>();
   if (reserved.has(clean.toLowerCase())) return false;
   archive[clean] = {
     id: job.id,
@@ -352,7 +368,7 @@ export function syncLegacyArchiveAfterSlugChanges(
   reservedRoot?: Set<string>,
 ): number {
   let added = 0;
-  const reserved = reservedRoot ?? loadReservedRootSlugsSync();
+  const reserved = reservedRoot ?? new Set<string>();
   const beforeByIdentity = new Map<string, { slug: string; job: JobSlugFields }>();
   for (const job of before) {
     const identity = getJobIdentity(job);
@@ -391,13 +407,14 @@ export function assignJobSlugsAndSyncLegacyArchive(
   archive: Record<string, LegacySlugRecord>,
   reservedRootSlugs?: Set<string>,
 ): number {
-  const reserved = reservedRootSlugs ?? loadReservedRootSlugsSync();
+  const reserved = reservedRootSlugs ?? new Set<string>();
   const snapshot = jobs.map((job) => ({
     id: job.id,
     title: job.title,
     company: job.company,
     link: job.link,
     slug: job.slug,
+    date: job.date,
   }));
   const extraBlockedSlugs = new Set(
     Object.keys(archive).map((slug) => slug.toLowerCase()),

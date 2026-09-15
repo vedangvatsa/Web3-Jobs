@@ -87,4 +87,26 @@ for (const item of jobs) {
   assert(!reserved.has(item.slug!), `job ${item.id} still on reserved /${item.slug}`);
 }
 
+const dupA = job({
+  id: '6',
+  title: 'Trader',
+  company: 'Alpha',
+  link: 'https://example.com/jobs/6',
+  slug: 'trader',
+  date: '2026-01-15',
+});
+const dupB = job({
+  id: '7',
+  title: 'Trader',
+  company: 'Beta',
+  link: 'https://example.com/jobs/7',
+  slug: 'trader',
+  date: '2026-01-16',
+});
+const dups: Job[] = [dupA, dupB];
+assignJobSlugsInCache(dups, { reservedRootSlugs: reserved });
+assert(dups.length === 2, 'duplicate-slug jobs are not dropped');
+assert(dups[0].slug !== dups[1].slug, `duplicate trader reminted apart: ${dups[0].slug} vs ${dups[1].slug}`);
+assert(!reserved.has(dups[0].slug!) && !reserved.has(dups[1].slug!), 'dup remints stay off reserved roots');
+
 console.log('✅ Job slug reserved-root regression passed');

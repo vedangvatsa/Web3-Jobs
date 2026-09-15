@@ -1,3 +1,7 @@
+/**
+ * Node-only occupancy list for job slug minting.
+ * Do not import from Client Components — this module uses `fs`.
+ */
 import fs from 'fs';
 import path from 'path';
 import { getAllResourcePages } from '@/lib/pseo/resources';
@@ -82,6 +86,41 @@ function appRouteSlugsFromDisk(): string[] {
     .map((name) => name.toLowerCase());
 }
 
+/** Extra company URLs resolved by getCompanyBySlug beyond the hyphenated name. */
+const COMPANY_ROOT_ALIASES: readonly string[] = [
+  'arbitrum',
+  'offchain-labs',
+  'arbitrum-offchain-labs',
+  'aztec',
+  'aztec-labs',
+  'aztec-labs-privacy-l2',
+  'symbiotic',
+  'symbiotic-restaking',
+  'wynd-labs',
+  'wynd-network',
+  'grass-wynd-labs-depin',
+  'helius',
+  'helius-solana-infra',
+  'liminal',
+  'liminal-custody',
+  'liminal-custody-tech',
+  'strategy',
+  'microstrategy',
+  'pwc',
+  'pricewaterhousecoopers',
+  'franklin-templeton',
+  'franklintempleton',
+  'ritual',
+  'ritual-ai-web3',
+  'ritual-net',
+  'nomic-foundation',
+  'nomic',
+  'nomicfoundation',
+  'optimism',
+  'op-labs',
+  'oplabs',
+];
+
 function eventSlugsFromCache(): string[] {
   const cachePath = path.join(process.cwd(), 'content', 'events-cache.json');
   if (!fs.existsSync(cachePath)) return [];
@@ -123,6 +162,9 @@ export function loadReservedRootSlugsSync(): Set<string> {
     reserved.add(slug);
   }
   for (const slug of companySlugsFromJobsCache()) {
+    reserved.add(slug);
+  }
+  for (const slug of COMPANY_ROOT_ALIASES) {
     reserved.add(slug);
   }
   for (const slug of getPopupSlugs()) {
