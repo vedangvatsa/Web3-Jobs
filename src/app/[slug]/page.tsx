@@ -87,7 +87,38 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
   const currentEvent = await getEventBySlug(params.slug);
 
   if (!currentEvent) {
-  // Check if it's a job first (root-level: /trader, /bd).
+  const companyMeta = await getCompanyBySlug(params.slug);
+  if (companyMeta) {
+    const siteUrl = 'https://hashtagweb3.com';
+    const canonicalUrl = `${siteUrl}/${companyMeta.slug}`;
+    const ogImageUrl = buildCompanyOgImageUrl(companyMeta, siteUrl);
+    const rawDesc = companyMeta.description
+      || `Browse ${companyMeta.jobCount} open positions at ${companyMeta.name} on Hashtag Web3.`;
+    const desc = rawDesc.length > 155 ? rawDesc.slice(0, 152) + '...' : rawDesc;
+
+    return {
+      title: `${companyMeta.name} Jobs`,
+      description: desc,
+      robots: companyMeta.jobCount >= 2
+        ? undefined
+        : { index: false, follow: true },
+      alternates: { canonical: canonicalUrl },
+      openGraph: {
+        type: 'website',
+        title: `${companyMeta.name} Jobs`,
+        description: desc,
+        url: canonicalUrl,
+        images: [{ url: ogImageUrl, width: 1200, height: 630, alt: `${companyMeta.name} Jobs` }],
+      },
+      twitter: {
+        card: 'summary_large_image',
+        title: `${companyMeta.name} Jobs`,
+        description: desc,
+        images: [ogImageUrl],
+      },
+    };
+  }
+
    const jobResolution = await resolveJobSlug(params.slug);
    const jobMeta = jobResolution.job;
   if (jobMeta) {
@@ -134,39 +165,6 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
             alt: `${title} - Hashtag Web3`,
           },
         ],
-      },
-    };
-  }
-
-  // Check if it's a company page
-  const companyMeta = await getCompanyBySlug(params.slug);
-  if (companyMeta) {
-    const siteUrl = 'https://hashtagweb3.com';
-    const canonicalUrl = `${siteUrl}/${companyMeta.slug}`;
-    const ogImageUrl = buildCompanyOgImageUrl(companyMeta, siteUrl);
-    const rawDesc = companyMeta.description
-      || `Browse ${companyMeta.jobCount} open positions at ${companyMeta.name} on Hashtag Web3.`;
-    const desc = rawDesc.length > 155 ? rawDesc.slice(0, 152) + '...' : rawDesc;
-
-    return {
-      title: `${companyMeta.name} Jobs`,
-      description: desc,
-      robots: companyMeta.jobCount >= 2
-        ? undefined
-        : { index: false, follow: true },
-      alternates: { canonical: canonicalUrl },
-      openGraph: {
-        type: 'website',
-        title: `${companyMeta.name} Jobs`,
-        description: desc,
-        url: canonicalUrl,
-        images: [{ url: ogImageUrl, width: 1200, height: 630, alt: `${companyMeta.name} Jobs` }],
-      },
-      twitter: {
-        card: 'summary_large_image',
-        title: `${companyMeta.name} Jobs`,
-        description: desc,
-        images: [ogImageUrl],
       },
     };
   }
@@ -361,7 +359,14 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
   let fallbackArticle: Awaited<ReturnType<typeof getArticle>>;
 
   if (!event) {
-  // Check if it's a job (root-level: /trader, /product).
+  const companyPage = await getCompanyBySlug(params.slug);
+  if (companyPage) {
+    if (params.slug !== companyPage.slug) {
+      redirect(`/${companyPage.slug}`);
+    }
+    return <CompanyDetailView slug={companyPage.slug} />;
+  }
+
    const resolved = await resolveJobSlug(params.slug);
    const job = resolved.job ?? null;
   if (job) {
@@ -379,15 +384,6 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
   }
 
   fallbackArticle = await getArticle(params.slug);
-
-  // Check if it's a company page first
-  const companyPage = await getCompanyBySlug(params.slug);
-  if (companyPage) {
-    if (params.slug !== companyPage.slug) {
-      redirect(`/${companyPage.slug}`);
-    }
-    return <CompanyDetailView slug={companyPage.slug} />;
-  }
 
   const popupSlug = resolvePopupSlug(params.slug);
   const popup = getPopupBySlug(popupSlug);

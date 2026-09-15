@@ -8,6 +8,7 @@ import {
   cleanCompanyName,
 } from '../src/lib/job-filters';
 import { getJobIdentity } from '../src/lib/job-slugs';
+import { loadReservedRootSlugsSync } from '../src/lib/reserved-root-slugs';
 
 const CACHE_PATH = path.join(process.cwd(), 'content/jobs-cache.json');
 
@@ -49,6 +50,7 @@ function verifyJobsIntegrity() {
 
   const violations: { id: string; company: string; title: string; slug?: string; reason: string }[] = [];
   const seenSlugs = new Map<string, string>(); // slug -> id
+  const reservedRoot = loadReservedRootSlugsSync();
 
   for (const job of jobs) {
     // 1. Slug check
@@ -67,6 +69,16 @@ function verifyJobsIntegrity() {
       });
     } else {
       seenSlugs.set(job.slug, job.id);
+    }
+
+    if (reservedRoot.has(job.slug.toLowerCase())) {
+      violations.push({
+        id: job.id,
+        company: job.company,
+        title: job.title,
+        slug: job.slug,
+        reason: `Job slug /${job.slug} is reserved by site content and would be shadowed`,
+      });
     }
 
     // 2. Company check
@@ -167,7 +179,7 @@ function verifyJobsIntegrity() {
       archive = JSON.parse(fs.readFileSync(path.join(process.cwd(), 'content/legacy-slugs-archive.json'), 'utf-8'));
     } catch { /* missing archive treated as empty below */ }
     for (const [slug, prev] of prevIdentityBySlug) {
-      if (!curIdentityBySlug.has(slug) && !archive[slug]) {
+      if (!curIdentityBySlug.has(slug) && !archive[slug] && !reservedRoot.has(slug.toLowerCase())) {
         violations.push({
           id: '',
           company: prev.company,

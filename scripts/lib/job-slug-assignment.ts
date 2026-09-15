@@ -4,6 +4,7 @@ import {
   assignJobSlugsAndSyncLegacyArchive,
   type LegacySlugRecord,
 } from '../../src/lib/job-slugs';
+import { loadReservedRootSlugsSync } from '../../src/lib/reserved-root-slugs';
 import type { Job } from '../../src/types';
 
 export const JOB_LEGACY_ARCHIVE_PATH = path.join(
@@ -36,7 +37,8 @@ export function assignJobSlugsInCacheFile(cachePath: string): {
 } {
   const jobs = JSON.parse(fs.readFileSync(cachePath, 'utf-8')) as Job[];
   const archive = loadJobLegacyArchive();
-  const legacyEntriesAdded = assignJobSlugsAndSyncLegacyArchive(jobs, archive);
+  const reservedRoot = loadReservedRootSlugsSync();
+  const legacyEntriesAdded = assignJobSlugsAndSyncLegacyArchive(jobs, archive, reservedRoot);
   jobs.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
   fs.writeFileSync(cachePath, `${JSON.stringify(jobs, null, 2)}\n`);
   if (legacyEntriesAdded > 0) {

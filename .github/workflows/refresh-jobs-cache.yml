@@ -171,6 +171,9 @@ jobs:
       - name: Pre-bake job slugs into cache
         run: node scripts/prebake_slugs.js
 
+      - name: Guard job slug uniqueness
+        run: npx tsx scripts/test-job-slug-reserved.ts && npx tsx scripts/check-slug-collisions.ts
+
       - name: Ensure company logo PNGs for OG cards
         run: npx tsx scripts/ensure-company-logos.ts
         continue-on-error: true

@@ -17,8 +17,8 @@
   },
   "scripts": {
     "dev": "next dev",
-    "prebuild": "npx tsx scripts/test-middleware.ts && npx tsx scripts/check-slug-collisions.ts && npx tsx scripts/check-event-map-cities.ts && (npx tsx scripts/stamp-article-dates.ts 2>/dev/null || true) && (npx tsx scripts/generate-latest-articles.ts 2>/dev/null || true) && (npx tsx scripts/generate-sitemap-json.ts 2>/dev/null || true)",
-    "test:middleware": "npx tsx scripts/test-middleware.ts",
+    "prebuild": "npx tsx scripts/test-middleware.ts && npx tsx scripts/test-job-slug-reserved.ts && npx tsx scripts/check-slug-collisions.ts && npx tsx scripts/check-event-map-cities.ts && (npx tsx scripts/stamp-article-dates.ts 2>/dev/null || true) && (npx tsx scripts/generate-latest-articles.ts 2>/dev/null || true) && (npx tsx scripts/generate-sitemap-json.ts 2>/dev/null || true)",
+    "test:job-slugs": "npx tsx scripts/test-job-slug-reserved.ts",
     "test:agent-readiness": "npx tsx scripts/test-agent-readiness.ts",
     "test:event-schema": "npx tsx scripts/test-event-schema.ts",
     "test:event-external-url": "npx tsx scripts/test-event-external-url.ts",
