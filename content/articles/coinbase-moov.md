@@ -12,7 +12,7 @@ imageCreditUrl: https://www.coinbase.com/blog/coinbase-brings-stablecoin-payment
 category: News
 data-ai-hint: stablecoin bank payments
 publishedDate: '2026-09-12'
-lastUpdated: "2026-09-13"
+lastUpdated: "2026-09-15"
 ogTitle: COINBASE & MOOV PARTNER ON STABLECOIN PAYMENTS
 ---
 

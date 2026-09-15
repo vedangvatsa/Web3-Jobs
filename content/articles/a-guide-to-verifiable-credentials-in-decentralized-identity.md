@@ -8,7 +8,7 @@ description: >-
   backbone of decentralized identity, enabling a future of user-owned.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-13"
+lastUpdated: "2026-09-15"
 ---
 A verifiable credential is a digital record of claims made by an issuer about a subject. A university can assert that a person earned a degree. An employer can assert that someone holds a role. A government authority can assert that a person is eligible for a service. The [W3C Verifiable Credentials Data Model v2.0](https://www.w3.org/TR/vc-data-model-2.0/) defines a common way to express those claims and attach cryptographic evidence of who issued them.
 

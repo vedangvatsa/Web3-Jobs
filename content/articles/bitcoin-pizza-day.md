@@ -8,7 +8,7 @@ image: /images/chris-ried-ieic5Tq8YMk-unsplash.jpg
 category: Industry Insights
 data-ai-hint: bitcoin pizza day
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-13"
+lastUpdated: "2026-09-15"
 ---
 
 On May 22, 2010, a Bitcointalk user named Laszlo Hanyecz reported that he had "successfully traded 10,000 bitcoins for pizza." The short [forum post](https://bitcointalk.org/index.php?topic=137.msg1195#msg1195), made under the handle `laszlo`, credited `jercos` and linked photographs of the meal. That confirmation is why May 22 is observed as Bitcoin Pizza Day.

@@ -10,7 +10,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Bitcoin_mining_farm.jpg
 category: News
 data-ai-hint: bitcoin mining farm hardware
 publishedDate: '2026-09-12'
-lastUpdated: "2026-09-13"
+lastUpdated: "2026-09-15"
 ogTitle: BLOCKSTREAM REJECTS RANSOM AS LIQUID RESTARTS
 ---
 

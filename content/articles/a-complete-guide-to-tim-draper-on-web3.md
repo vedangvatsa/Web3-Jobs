@@ -9,7 +9,7 @@ image: /images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg
 category: Industry Insights
 data-ai-hint: man confident
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-13"
+lastUpdated: "2026-09-15"
 ---
 Tim Draper is a venture capitalist, founder of Draper Associates, and a long-standing public supporter of bitcoin and blockchain businesses. His Web3 position is best understood as an investor's thesis rather than a neutral description of the technology. He argues that bitcoin can become a widely used currency and that blockchain-based systems can reduce the role of intermediaries. Those are predictions and opinions. The technical properties of Bitcoin, the record of his investments, and the results of his public-policy campaigns are separate questions.
 

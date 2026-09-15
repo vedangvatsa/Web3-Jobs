@@ -10,7 +10,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Head_of_the_Grenadian_De
 category: News
 data-ai-hint: justin sun tron wto geneva
 publishedDate: '2026-09-14'
-lastUpdated: "2026-09-14"
+lastUpdated: "2026-09-15"
 ogTitle: ETHENA AND TRON BRING USDE AND SUSDE TO TRON
 ---
 

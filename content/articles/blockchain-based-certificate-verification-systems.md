@@ -8,7 +8,7 @@ description: >-
   and instantly verifiable systems for academic and professional certificates.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-13"
+lastUpdated: "2026-09-15"
 ---
 
 A certificate verification system answers a narrow question: did a named issuer make this claim about this person, and is the claim still valid for the purpose at hand? A blockchain can be part of the answer, but it is not the certificate and it does not establish whether a student completed a course or a professional met a licensing rule. Those facts come from the issuer's records and the issuer's decision to sign a credential.

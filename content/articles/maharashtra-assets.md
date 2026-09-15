@@ -10,7 +10,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Mumbai_Bandra-Worli_Sea_
 category: News
 data-ai-hint: bandra worli sea link mumbai
 publishedDate: '2026-09-12'
-lastUpdated: "2026-09-13"
+lastUpdated: "2026-09-15"
 ogTitle: INDIAN STATE EXPLORES ASSET TOKENIZATION
 ---
 

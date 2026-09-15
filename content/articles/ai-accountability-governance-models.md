@@ -9,7 +9,7 @@ description: >-
 category: Industry Insights
 data-ai-hint: ai governance
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-13"
+lastUpdated: "2026-09-15"
 ---
 
 AI accountability means being able to identify who made a decision about an AI system, what they knew at the time, what evidence they relied on, and who must act when the system causes harm or fails. It is not a property a model acquires because its code, training run, or output is recorded. It is an operating arrangement between people and organizations.

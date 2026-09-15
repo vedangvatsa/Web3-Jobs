@@ -8,7 +8,7 @@ description: >-
   what mining can and cannot protect against.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-13"
+lastUpdated: "2026-09-15"
 ---
 
 Mining is the process by which participants in a proof-of-work blockchain compete to propose blocks under the network's rules. It is most closely associated with Bitcoin, though other networks have used proof-of-work as well. A miner does not "create money" by solving a puzzle in isolation. It assembles a candidate block, performs repeated hashing, and earns a reward only if other nodes accept the block as valid.

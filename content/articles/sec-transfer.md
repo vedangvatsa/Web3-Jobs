@@ -10,7 +10,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:U.S._Securities_and_Exch
 category: News
 data-ai-hint: sec headquarters washington dc
 publishedDate: '2026-09-12'
-lastUpdated: "2026-09-13"
+lastUpdated: "2026-09-15"
 ogTitle: SEC PROPOSES BLOCKCHAIN TRANSFER AGENT RULES
 ---
 

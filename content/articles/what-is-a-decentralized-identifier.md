@@ -7,7 +7,7 @@ author: Alex Rivera
 tags: Decentralized Identity, DIDs, Cryptography, Smart Contracts, W3C Standards
 slug: what-is-a-decentralized-identifier
 publishedDate: "2026-09-07"
-lastUpdated: "2026-09-13"
+lastUpdated: "2026-09-15"
 category: Educational
 ---
 

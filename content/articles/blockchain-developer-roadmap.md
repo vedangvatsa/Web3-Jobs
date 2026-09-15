@@ -8,7 +8,7 @@ description: >-
   projects, and preparing a portfolio for engineering roles.
 category: Getting Started
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-13"
+lastUpdated: "2026-09-15"
 ---
 
 A blockchain developer builds software that reads from, writes to, or maintains a distributed ledger. That description covers several jobs. A frontend engineer may build a wallet connection and transaction interface. A smart contract engineer may write the code that holds assets or enforces protocol rules. A protocol engineer may work on a client, peer-to-peer networking, or consensus code. The fastest learning path is to choose one starting point while learning enough of the surrounding system to understand its constraints.

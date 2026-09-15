@@ -9,7 +9,7 @@ image: /images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg
 category: Industry Insights
 data-ai-hint: man drawing
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-13"
+lastUpdated: "2026-09-15"
 ---
 
 Gary Vaynerchuk's Web3 case is about consumer brands, collectible media, and access. Where some crypto advocates focus on censorship resistance or financial systems, Vaynerchuk treats an NFT as a digital item that can also function as a ticket, membership record, or starting point for a character brand. His VeeFriends project put that view into a concrete product: a set of NFTs linked to conference access and a group of named characters.

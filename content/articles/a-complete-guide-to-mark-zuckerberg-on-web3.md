@@ -9,7 +9,7 @@ image: /images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg
 category: Industry Insights
 data-ai-hint: man face
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-13"
+lastUpdated: "2026-09-15"
 ---
 
 Mark Zuckerberg's public metaverse project was not a Web3 project in the usual crypto sense. It focused on virtual and augmented reality hardware, avatars, social spaces, and the software layers Meta operates. The company explored NFTs and digital goods at points, but it did not make public blockchains, wallet-based ownership, or token governance the foundation of its strategy.

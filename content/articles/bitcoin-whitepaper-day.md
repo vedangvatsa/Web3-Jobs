@@ -8,7 +8,7 @@ image: /images/chris-ried-ieic5Tq8YMk-unsplash.jpg
 category: Industry Insights
 data-ai-hint: bitcoin cryptocurrency
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-13"
+lastUpdated: "2026-09-15"
 ---
 
 Bitcoin Whitepaper Day is observed on October 31, the date in 2008 when someone using the name Satoshi Nakamoto posted a link to *Bitcoin: A Peer-to-Peer Electronic Cash System* on the Cryptography Mailing List. The original [nine-page paper](https://bitcoin.org/bitcoin.pdf) is short enough to read in one sitting. Its lasting relevance comes from its specific proposal: a system for online payments that does not need a payment processor to decide which payment happened first.

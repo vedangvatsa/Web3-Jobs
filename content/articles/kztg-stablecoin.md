@@ -11,7 +11,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Central_Downtown_Astana_
 category: News
 data-ai-hint: astana kazakhstan night panorama
 publishedDate: '2026-09-14'
-lastUpdated: "2026-09-14"
+lastUpdated: "2026-09-15"
 ogTitle: KAZAKHSTAN LAUNCHES KZTG STABLECOIN ON TELEGRAM
 ---
 

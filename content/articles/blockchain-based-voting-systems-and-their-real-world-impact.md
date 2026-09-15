@@ -6,7 +6,7 @@ data-ai-hint: blockchain voting systems governance quadratic maci snapshot
 description: An empirical technical thesis on blockchain-based voting systems, exploring token-weighted governance, quadratic preference aggregation, gasless off-chain signaling, and zero-knowledge anti-collusion infrastructure.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-13"
+lastUpdated: "2026-09-15"
 slug: blockchain-based-voting-systems-and-their-real-world-impact
 ---
 

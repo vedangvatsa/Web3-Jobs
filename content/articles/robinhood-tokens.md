@@ -11,7 +11,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:NY_stock_exchange_trader
 category: News
 data-ai-hint: nyse trading floor brokers
 publishedDate: '2026-09-12'
-lastUpdated: "2026-09-13"
+lastUpdated: "2026-09-15"
 ogTitle: ROBINHOOD REJECTS ISSUER VETO IN AMC DISPUTE
 ---
 
