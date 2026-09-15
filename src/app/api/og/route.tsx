@@ -482,77 +482,100 @@ export async function GET(request: NextRequest) {
       );
     }
 
-    // 2. Default & Tool template (Light Mode)
+    // 2. Default & Tool template — same card structure as job/event pages
     if (type === 'default') {
+      const displayTitle = title.length > 70 ? `${title.slice(0, 67)}...` : title;
+      const accentLine = (subtitle || 'hashtagweb3.com').trim();
+      const displayAccent =
+        accentLine.length > 70 ? `${accentLine.slice(0, 67)}...` : accentLine;
+
+      const titleFontSize =
+        displayTitle.length > 55
+          ? '60px'
+          : displayTitle.length > 35
+            ? '72px'
+            : displayTitle.length > 20
+              ? '86px'
+              : '100px';
+
+      const accentSize =
+        displayAccent.length > 55 ? '40px' : displayAccent.length > 35 ? '44px' : '48px';
+
+      const isSquare = format === 'square';
+      const cardWidth = isSquare ? '984px' : '1120px';
+      const cardHeight = isSquare ? '984px' : '550px';
+
       return new ImageResponse(
         (
           <div
             style={{
               ...baseContainerStyle,
+              width: isSquare ? '1080px' : '100%',
+              height: isSquare ? '1080px' : '100%',
               flexDirection: 'column',
               alignItems: 'center',
               justifyContent: 'center',
-              padding: '40px',
+              padding: isSquare ? '48px' : '40px',
             }}
           >
             <div
               style={{
                 ...baseCardStyle,
-                width: '1080px',
-                padding: '60px',
+                width: cardWidth,
+                height: cardHeight,
+                padding: isSquare ? '64px 56px' : '48px 64px',
+                flexDirection: 'column',
                 alignItems: 'center',
+                justifyContent: 'center',
                 textAlign: 'center',
+                gap: isSquare ? '40px' : '32px',
               }}
             >
               <div
                 style={{
                   display: 'flex',
                   alignItems: 'center',
-                  gap: '12px',
-                  marginBottom: '24px',
-                  padding: '8px 24px',
-                  backgroundColor: '#f0f9ff',
-                  border: '1px solid #bae6fd',
-                  borderRadius: '999px',
-                  fontSize: '20px',
-                  color: '#0284c7',
-                  fontWeight: '700',
-                  letterSpacing: '0.5px',
-                }}
-              >
-                HASHTAG WEB3
-              </div>
-              <div
-                style={{
-                  display: 'flex',
-                  fontSize: title.length > 35 ? '48px' : '58px',
-                  fontWeight: '800',
+                  justifyContent: 'center',
+                  textAlign: 'center',
+                  fontSize: isSquare && displayTitle.length > 55 ? '56px' : titleFontSize,
+                  fontWeight: '900',
                   color: '#0f172a',
-                  marginBottom: '20px',
-                  textAlign: 'center',
-                  letterSpacing: '-1px',
-                  lineHeight: '1.2',
+                  lineHeight: '1.14',
+                  letterSpacing: '-2px',
+                  maxWidth: isSquare ? '880px' : '1020px',
+                  padding: '0 20px',
                 }}
               >
-                {title}
+                {displayTitle}
               </div>
+
               <div
                 style={{
                   display: 'flex',
-                  fontSize: '24px',
-                  color: '#64748b',
-                  textAlign: 'center',
-                  fontWeight: '500',
+                  alignItems: 'center',
+                  justifyContent: 'center',
+                  flexWrap: 'wrap',
+                  maxWidth: isSquare ? '880px' : '1020px',
                 }}
               >
-                Web3 Careers • Verified Job Board • Salary Data • {date}
+                <div
+                  style={{
+                    display: 'flex',
+                    fontSize: isSquare ? '46px' : accentSize,
+                    fontWeight: '800',
+                    color: '#0284c7',
+                    letterSpacing: '-0.5px',
+                  }}
+                >
+                  {displayAccent}
+                </div>
               </div>
             </div>
           </div>
         ),
         {
-          width: 1200,
-          height: 630,
+          width: isSquare ? 1080 : 1200,
+          height: isSquare ? 1080 : 630,
           headers: {
             'Cache-Control': 'public, max-age=86400, s-maxage=604800, stale-while-revalidate=86400',
           },

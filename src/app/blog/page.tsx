@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   description: 'Actionable guides to land a job in Web3. Read deep-dives on blockchain developer resumes, salary negotiation, and smart contract interview prep.',
   url: 'https://hashtagweb3.com/blog',
   images: [{
-   url: 'https://hashtagweb3.com/api/og?type=default&title=Web3%20Career%20Playbook',
+   url: 'https://hashtagweb3.com/og-image-blog.png',
    width: 1200,
    height: 630,
    alt: 'Hashtag Web3 Career Playbook',
@@ -28,7 +28,7 @@ export const metadata: Metadata = {
   card: 'summary_large_image',
   title: 'Web3 Career Playbook | Hashtag Web3',
   description: 'Actionable guides to land a job in Web3. Read deep-dives on blockchain developer resumes, salary negotiation, and smart contract interview prep.',
-  images: ['https://hashtagweb3.com/api/og?type=default&title=Web3%20Career%20Playbook'],
+  images: ['https://hashtagweb3.com/og-image-blog.png'],
  },
 };
 

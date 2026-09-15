@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     description: 'Complete guide to Web3 terminology. Understand blockchain, DeFi, NFTs, and cryptocurrency concepts.',
     url: 'https://hashtagweb3.com/glossary',
     images: [{
-      url: 'https://hashtagweb3.com/api/og?type=default&title=Web3%20Glossary',
+      url: 'https://hashtagweb3.com/og-image.png',
       width: 1200,
       height: 630,
       alt: 'Web3 Glossary',
@@ -28,7 +28,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Web3 Glossary | Hashtag Web3',
     description: 'Explore 200+ Web3 and cryptocurrency terms. Complete guide to blockchain, DeFi, NFTs, and decentralized technology concepts.',
-    images: ['https://hashtagweb3.com/api/og?type=default&title=Web3%20Glossary'],
+    images: ['https://hashtagweb3.com/og-image.png'],
   },
 };
 

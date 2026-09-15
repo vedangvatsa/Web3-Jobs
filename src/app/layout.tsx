@@ -30,7 +30,7 @@ const siteConfig = {
  url:"https://hashtagweb3.com",
 };
 
-const ogImageUrl = `${siteConfig.url}/api/og?type=default&title=Hashtag%20Web3`;
+const ogImageUrl = `${siteConfig.url}/og-image.png`;
 
 export const viewport: Viewport = {
  width: 'device-width',

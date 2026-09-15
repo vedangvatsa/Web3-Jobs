@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   description: 'Free AI-powered job description builder for Web3 and crypto companies. Generate optimized JDs for Solidity, DeFi, smart contracts, Rust, and crypto roles.',
   url: 'https://hashtagweb3.com/jd-builder',
   images: [{
-   url: 'https://hashtagweb3.com/api/og?type=default&title=Web3%20JD%20Builder',
+   url: 'https://hashtagweb3.com/og-image-tools.png',
    width: 1200,
    height: 630,
    alt: 'Web3 Job Description Builder Tool',
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
   card: 'summary_large_image',
   title: 'JD Builder | Hashtag Web3',
   description: 'Free AI-powered job description builder for Web3 and crypto companies. Generate optimized JDs for Solidity, DeFi, smart contracts, Rust, and crypto roles.',
-  images: ['https://hashtagweb3.com/api/og?type=default&title=Web3%20JD%20Builder'],
+  images: ['https://hashtagweb3.com/og-image-tools.png'],
  },
 };
 

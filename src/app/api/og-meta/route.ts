@@ -146,41 +146,42 @@ async function resolveMetadata(path: string): Promise<PageMeta> {
   }
 
   // ── Static known pages ────────────────────────────────────────────────────
+  // Prefer assigned static PNGs over generated /api/og cards for section hubs.
   const PAGE_META: Record<string, Omit<PageMeta, 'canonicalUrl'>> = {
     '/': {
       title: `Web3 Jobs and Crypto Careers | ${SITE_NAME}`,
       description: 'Find verified Web3 jobs, crypto careers, salary data, and practical guides. Updated daily for builders, marketers, and product teams.',
-      ogImageUrl: `${SITE_URL}/api/og?type=default&title=Web3%20Jobs`,
+      ogImageUrl: `${SITE_URL}/og-image.png`,
     },
     '/jobs': {
       title: `Web3 Jobs & Crypto Careers | ${SITE_NAME}`,
       description: 'Find the best remote Web3 jobs. Discover verified opportunities in Solidity, blockchain development, DeFi, DAOs, and crypto marketing.',
-      ogImageUrl: `${SITE_URL}/api/og?type=default&title=Remote%20Web3%20Jobs`,
+      ogImageUrl: `${SITE_URL}/og-image-jobs.png`,
     },
     '/blog': {
       title: `Web3 Career Playbook | ${SITE_NAME}`,
       description: 'Practical guides, salary data, and career advice for Web3 professionals.',
-      ogImageUrl: `${SITE_URL}/api/og?type=default&title=Web3%20Career%20Playbook`,
+      ogImageUrl: `${SITE_URL}/og-image-blog.png`,
     },
     '/community': {
       title: `Web3 Community | ${SITE_NAME}`,
       description: 'Join 60,000+ Web3 builders and professionals across Telegram, Discord, and LinkedIn.',
-      ogImageUrl: `${SITE_URL}/api/og?type=default&title=Web3%20Community`,
+      ogImageUrl: `${SITE_URL}/og-image.png`,
     },
     '/companies': {
       title: `Web3 Companies Hiring | ${SITE_NAME}`,
       description: 'Browse 200+ Web3 companies actively hiring — from DeFi protocols to blockchain infrastructure.',
-      ogImageUrl: `${SITE_URL}/api/og?type=companies&title=Web3%20Companies`,
+      ogImageUrl: `${SITE_URL}/og-companies.png`,
     },
     '/glossary': {
       title: `Blockchain Glossary | ${SITE_NAME}`,
       description: '200+ blockchain and Web3 terms explained in plain English.',
-      ogImageUrl: `${SITE_URL}/api/og?type=default&title=Blockchain%20Glossary`,
+      ogImageUrl: `${SITE_URL}/og-image.png`,
     },
     '/salary-calculator': {
       title: `Web3 Salary Calculator | ${SITE_NAME}`,
       description: 'Find out what you should be earning in Web3. Compare salaries by role, skills, and location.',
-      ogImageUrl: `${SITE_URL}/api/og?type=default&title=Web3%20Salary%20Calculator`,
+      ogImageUrl: `${SITE_URL}/og-image-tools.png`,
     },
     '/events': {
       title: `Web3 Events & Conferences | ${SITE_NAME}`,
@@ -190,7 +191,7 @@ async function resolveMetadata(path: string): Promise<PageMeta> {
     '/news': {
       title: `Web3 & Crypto News | ${SITE_NAME}`,
       description: 'Latest Web3 and crypto news for blockchain professionals.',
-      ogImageUrl: `${SITE_URL}/api/og?type=news-page&title=Web3%20News`,
+      ogImageUrl: `${SITE_URL}/og-news.png`,
     },
     '/developers': {
       title: `Hashtag Web3 Developer Portal | ${SITE_NAME}`,
@@ -205,27 +206,27 @@ async function resolveMetadata(path: string): Promise<PageMeta> {
     '/jd-builder': {
       title: `JD Builder | ${SITE_NAME}`,
       description: 'Create structured job descriptions for Web3 and crypto roles.',
-      ogImageUrl: `${SITE_URL}/api/og?type=default&title=Web3%20JD%20Builder`,
+      ogImageUrl: `${SITE_URL}/og-image-tools.png`,
     },
     '/invoice-generator': {
       title: `Invoice Generator | ${SITE_NAME}`,
       description: 'Create invoices for Web3 freelance and contract work.',
-      ogImageUrl: `${SITE_URL}/api/og?type=default&title=Web3%20Invoice%20Generator`,
+      ogImageUrl: `${SITE_URL}/og-image-tools.png`,
     },
     '/resume-builder': {
       title: `Resume Builder | ${SITE_NAME}`,
       description: 'Build a resume tailored for blockchain and Web3 roles.',
-      ogImageUrl: `${SITE_URL}/api/og?type=default&title=Web3%20Resume%20Builder`,
+      ogImageUrl: `${SITE_URL}/og-image-tools.png`,
     },
     '/remote-work-checklist': {
       title: `Remote Work Checklist | ${SITE_NAME}`,
       description: 'Plan a secure, productive remote workspace.',
-      ogImageUrl: `${SITE_URL}/api/og?type=default&title=Remote%20Work%20Checklist`,
+      ogImageUrl: `${SITE_URL}/og-image-tools.png`,
     },
     '/digital-nomad-visas': {
       title: `Visas for Digital Nomads | ${SITE_NAME}`,
       description: 'Browse digital-nomad visa requirements for remote Web3 workers.',
-      ogImageUrl: `${SITE_URL}/api/og?type=default&title=Visas%20for%20Digital%20Nomads`,
+      ogImageUrl: `${SITE_URL}/og-image-tools.png`,
     },
     '/web3-hiring-report': {
       title: `Hiring Report 2026 | ${SITE_NAME}`,
@@ -271,7 +272,7 @@ async function resolveMetadata(path: string): Promise<PageMeta> {
   return {
     title: `${SITE_NAME} | Web3 Jobs & Crypto Careers`,
     description: 'Find verified Web3 jobs, crypto careers, salary data, and practical guides.',
-    ogImageUrl: `${SITE_URL}/api/og?type=default&title=Hashtag%20Web3`,
+    ogImageUrl: `${SITE_URL}/og-image.png`,
     canonicalUrl,
   };
 }
