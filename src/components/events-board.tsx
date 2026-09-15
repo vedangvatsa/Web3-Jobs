@@ -2,7 +2,7 @@
 
 import { useState, useMemo, useRef, useEffect } from 'react';
 import Link from 'next/link';
-import { type PublicWeb3Event, getEventSlug, getEventCity } from '@/lib/events';
+import { type PublicWeb3Event, getEventSlug, getEventCity, normalizeCountry } from '@/lib/events';
 import { Input } from '@/components/ui/input';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
@@ -13,39 +13,8 @@ import dynamic from 'next/dynamic';
 
 const EventMap = dynamic(() => import('@/components/event-map').then((module) => module.EventMap), { ssr: false });
 
-// ISO 3166-1 alpha-2 → full country name
-const COUNTRY_NAMES: Record<string, string> = {
-  AE: 'United Arab Emirates', AF: 'Afghanistan', AR: 'Argentina', AT: 'Austria',
-  AU: 'Australia', BD: 'Bangladesh', BE: 'Belgium', BG: 'Bulgaria', BN: 'Brunei',
-  BO: 'Bolivia', BR: 'Brazil', BS: 'Bahamas', CA: 'Canada', CH: 'Switzerland',
-  CL: 'Chile', CN: 'China', CO: 'Colombia', CR: 'Costa Rica', CZ: 'Czechia',
-  DE: 'Germany', DK: 'Denmark', DO: 'Dominican Republic', EC: 'Ecuador',
-  EE: 'Estonia', EG: 'Egypt', ES: 'Spain', FI: 'Finland', FR: 'France',
-  GB: 'United Kingdom', GE: 'Georgia', GF: 'French Guiana', GH: 'Ghana',
-  GR: 'Greece', GT: 'Guatemala', HK: 'Hong Kong', HR: 'Croatia', HU: 'Hungary',
-  ID: 'Indonesia', IE: 'Ireland', IL: 'Israel', IN: 'India', IS: 'Iceland',
-  IT: 'Italy', JM: 'Jamaica', JO: 'Jordan', JP: 'Japan', KE: 'Kenya',
-  KR: 'South Korea', KW: 'Kuwait', KZ: 'Kazakhstan', LB: 'Lebanon', LK: 'Sri Lanka',
-  LT: 'Lithuania', LU: 'Luxembourg', LV: 'Latvia', MA: 'Morocco', MC: 'Monaco',
-  MX: 'Mexico', MY: 'Malaysia', NG: 'Nigeria', NL: 'Netherlands', NO: 'Norway',
-  NZ: 'New Zealand', PA: 'Panama', PE: 'Peru', PH: 'Philippines', PK: 'Pakistan',
-  PL: 'Poland', PR: 'Puerto Rico', PT: 'Portugal', QA: 'Qatar', RO: 'Romania',
-  RS: 'Serbia', RU: 'Russia', RW: 'Rwanda', SA: 'Saudi Arabia', SE: 'Sweden',
-  SG: 'Singapore', SI: 'Slovenia', SK: 'Slovakia', TH: 'Thailand', TN: 'Tunisia',
-  TR: 'Turkey', TW: 'Taiwan', TZ: 'Tanzania', UA: 'Ukraine', UG: 'Uganda',
-  US: 'United States', UY: 'Uruguay', UZ: 'Uzbekistan', VE: 'Venezuela',
-  VN: 'Vietnam', ZA: 'South Africa',
-};
-
-function normalizeCountry(raw: string): string {
-  if (!raw) return '';
-  const upper = raw.trim().toUpperCase();
-  if (COUNTRY_NAMES[upper]) return COUNTRY_NAMES[upper];
-  return raw.trim();
-}
-
-const INITIAL_COUNT = 30;
-const LOAD_MORE_COUNT = 30;
+const INITIAL_COUNT = 48;
+const LOAD_MORE_COUNT = 48;
 
 const DATE_RANGES = [
   { label: 'Today', value: 'today' },
@@ -118,13 +87,15 @@ export function EventsBoard({ initialEvents }: { initialEvents: PublicWeb3Event[
 
       const matchesSearch = !q || nameStr.includes(q) || descStr.includes(q) || locStr.includes(q);
 
-      // Country
+      // Country — match on country field only. Venue names can contain country
+      // words (e.g. "Japan Innovation Campus" in Palo Alto) and must not
+      // pull a US event into the Japan filter via location substring.
       let matchesCountry = true;
       if (countryFilter) {
         if (countryFilter === 'Online') {
-          matchesCountry = locStr.includes('online');
+          matchesCountry = locStr.includes('online') || (event.city || '').toLowerCase() === 'online';
         } else {
-          matchesCountry = normalizeCountry(event.country || '') === countryFilter || locStr.includes(countryFilter.toLowerCase());
+          matchesCountry = normalizeCountry(event.country || '') === countryFilter;
         }
       }
 
@@ -226,7 +197,7 @@ export function EventsBoard({ initialEvents }: { initialEvents: PublicWeb3Event[
           setVisibleCount(prev => Math.min(prev + LOAD_MORE_COUNT, filteredEvents.length));
         }
       },
-      { rootMargin: '1200px' }
+      { rootMargin: '600px' }
     );
     observer.observe(sentinel);
     return () => observer.disconnect();
@@ -367,11 +338,8 @@ export function EventsBoard({ initialEvents }: { initialEvents: PublicWeb3Event[
           </div>
 
           {hasMore && (
-            <div ref={sentinelRef} className="flex justify-center py-8" aria-hidden="true">
-              <div className="flex items-center gap-2 text-sm text-muted-foreground">
-                <div className="h-4 w-4 border-2 border-muted-foreground/30 border-t-primary rounded-full animate-spin" />
-                Loading more events...
-              </div>
+            <div ref={sentinelRef} className="flex justify-center py-6" aria-hidden="true">
+              <p className="text-xs text-muted-foreground">Scroll for more</p>
             </div>
           )}
         </>

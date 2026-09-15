@@ -22,10 +22,6 @@ export function EventCard({ event, hideLocation = false, index }: { event: Publi
             type={eventType}
             format={eventFormat}
             index={index}
-            location={event.location}
-            city={event.city}
-            country={event.country}
-            startDate={event.startDate}
           />
         </div>
         <CardHeader className="pb-3 pt-4 px-4">

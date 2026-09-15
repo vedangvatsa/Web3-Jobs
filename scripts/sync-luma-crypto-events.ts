@@ -6,7 +6,7 @@
  */
 import fs from 'node:fs';
 import path from 'node:path';
-import { getEventBaseSlug } from '../src/lib/events';
+import { getEventBaseSlug, normalizeCountry } from '../src/lib/events';
 
 const OUTPUT = path.join('content', 'luma-crypto-events.json');
 const UA = 'HashtagWeb3 Luma Sync/1.0 (+https://hashtagweb3.com)';
@@ -188,18 +188,18 @@ function buildDescription(e: LumaApiEvent): string {
   const headline = e.name.split(/[|·]/)[0].trim();
   const virtual = lumaVirtualLocationLabel(e);
   if (virtual) {
-    return `${headline} — Web3 community event, ${virtual}.`;
+    return `${headline}. Web3 community event. ${virtual}.`;
   }
   const geo = e.geo_address_info || {};
   const city = extractLumaCity(geo);
-  const country = (geo.country || '').trim();
+  const country = normalizeCountry(geo.country || geo.country_code || '');
   const where =
     city && country && city.toLowerCase() === country.toLowerCase()
       ? city
       : city && country
         ? `${city}, ${country}`
         : city || country || 'TBA';
-  return `${headline} — Web3 community event in ${where}.`;
+  return `${headline}. Web3 community event in ${where}.`;
 }
 
 function buildLocation(e: LumaApiEvent): { city: string; country: string; location: string } {
@@ -209,7 +209,7 @@ function buildLocation(e: LumaApiEvent): { city: string; country: string; locati
   }
   const geo = e.geo_address_info || {};
   const city = extractLumaCity(geo);
-  const country = (geo.country || '').trim();
+  const country = normalizeCountry(geo.country || geo.country_code || '');
   const venue = (geo.full_address || geo.address || '').trim();
   const location =
     venue || (city && country ? `${city}, ${country}` : city || country || 'TBA');

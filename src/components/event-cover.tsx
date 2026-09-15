@@ -3,7 +3,6 @@
 import { useState } from 'react';
 import Image from 'next/image';
 import type { EventType } from '@/lib/events';
-import { resolveEventPreviewImageUrl } from '@/lib/event-og-url';
 
 const GRADIENTS = [
   'from-violet-600/80 via-purple-700/80 to-indigo-800/80',
@@ -26,16 +25,9 @@ function getInitial(name: string): string {
   return name.replace(/[^a-zA-Z0-9]/g, '').charAt(0).toUpperCase() || 'W';
 }
 
-type EventImageContext = {
-  name: string;
-  location?: string;
-  city?: string;
-  country?: string;
-  startDate?: string;
-};
-
-function getDynamicEventCover(context: EventImageContext): string {
-  return resolveEventPreviewImageUrl({ ...context, coverImage: null });
+function isRealEventPoster(src?: string | null): src is string {
+  const value = (src || '').trim();
+  return Boolean(value && !value.includes('/api/og'));
 }
 
 function canUseNextImage(src: string): boolean {
@@ -110,41 +102,33 @@ export function EventCardImage({
   type,
   format,
   index,
-  location,
-  city,
-  country,
-  startDate,
 }: {
   src?: string | null;
   name: string;
   type: EventType;
   format: string;
   index?: number;
-  location?: string;
-  city?: string;
-  country?: string;
-  startDate?: string;
 }) {
-  const context: EventImageContext = { name, location, city, country, startDate };
-  const generatedSrc = getDynamicEventCover(context);
-  const [failedSrc, setFailedSrc] = useState<string | null>(null);
-  const imageSrc = failedSrc ? generatedSrc : src ?? generatedSrc;
+  // Listing cards must not hit /api/og — each batch would generate dozens of
+  // dynamic PNGs and make infinite scroll feel stuck on "Loading more…".
+  const posterSrc = isRealEventPoster(src) ? src : null;
+  const [failed, setFailed] = useState(false);
 
-  if (failedSrc === generatedSrc) {
+  if (!posterSrc || failed) {
     return <EventCoverFallback name={name} type={type} format={format} />;
   }
 
-  const isAboveFold = index !== undefined && index < 3;
+  const isAboveFold = index !== undefined && index < 6;
 
   return (
     <img
-      src={imageSrc}
+      src={posterSrc}
       alt={name}
-      className="w-full h-full bg-muted object-contain transition-transform duration-500 ease-out"
-      loading={isAboveFold ? "eager" : "lazy"}
-      fetchPriority={index === 0 ? "high" : undefined}
+      className="w-full h-full bg-muted object-cover transition-transform duration-500 ease-out"
+      loading={isAboveFold ? 'eager' : 'lazy'}
+      fetchPriority={index === 0 ? 'high' : undefined}
       decoding="async"
-      onError={() => setFailedSrc(imageSrc)}
+      onError={() => setFailed(true)}
     />
   );
 }
@@ -152,10 +136,6 @@ export function EventCardImage({
 export function EventHeroImage({
   src,
   name,
-  location,
-  city,
-  country,
-  startDate,
 }: {
   src?: string | null;
   name: string;
@@ -164,12 +144,10 @@ export function EventHeroImage({
   country?: string;
   startDate?: string;
 }) {
-  const context: EventImageContext = { name, location, city, country, startDate };
-  const generatedSrc = getDynamicEventCover(context);
-  const [failedSrc, setFailedSrc] = useState<string | null>(null);
-  const imageSrc = failedSrc ? generatedSrc : src ?? generatedSrc;
+  const posterSrc = isRealEventPoster(src) ? src : null;
+  const [failed, setFailed] = useState(false);
 
-  if (failedSrc === generatedSrc) {
+  if (!posterSrc || failed) {
     return (
       <div className="w-full aspect-video rounded-2xl overflow-hidden border">
         <EventCoverFallback name={name} />
@@ -179,26 +157,26 @@ export function EventHeroImage({
 
   return (
     <div className="w-full rounded-2xl overflow-hidden bg-muted border">
-      {canUseNextImage(imageSrc) ? (
+      {canUseNextImage(posterSrc) ? (
         <Image
-          src={imageSrc}
+          src={posterSrc}
           alt={name}
           width={1600}
           height={900}
           className="mx-auto w-full h-auto max-h-[75vh] object-contain"
           sizes="(max-width: 1280px) calc(100vw - 2rem), 1280px"
           priority
-          onError={() => setFailedSrc(imageSrc)}
+          onError={() => setFailed(true)}
         />
       ) : (
         <img
-          src={imageSrc}
+          src={posterSrc}
           alt={name}
           className="mx-auto w-full h-auto max-h-[75vh] object-contain"
           loading="eager"
           fetchPriority="high"
           decoding="async"
-          onError={() => setFailedSrc(imageSrc)}
+          onError={() => setFailed(true)}
         />
       )}
     </div>

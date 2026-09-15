@@ -83,6 +83,7 @@ const nextConfig = {
       { source: '/crypto-tax-bills', destination: '/tax-bills', permanent: true },
       { source: '/nasdaq-tokenized-stocks', destination: '/nasdaq-tokens', permanent: true },
       // Duplicate event slug redirects to canonical premier events
+      { source: '/crypto', destination: '/cryptofest', permanent: true },
       { source: '/stablecon-26', destination: '/stablecon', permanent: true },
       { source: '/stablecon-26-washington-dc', destination: '/stablecon', permanent: true },
       { source: '/buildathon-cochabamba', destination: '/buildathon', permanent: true },

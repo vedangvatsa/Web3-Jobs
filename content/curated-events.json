@@ -179,7 +179,7 @@
     "id": "premier-ibw-2026",
     "slug": "istanbul",
     "name": "Istanbul Blockchain Week 2026",
-    "description": "Turkey's premier annual Web3 gathering at Hilton Istanbul Bomonti — keynotes, institutional markets summit, and ecosystem events.",
+    "description": "Turkey's premier annual Web3 gathering at Hilton Istanbul Bomonti  -  keynotes, institutional markets summit, and ecosystem events.",
     "startDate": "2026-06-02T09:00:00+03:00",
     "endDate": "2026-06-03T18:00:00+03:00",
     "city": "Istanbul",
@@ -197,7 +197,7 @@
     "id": "premier-signal-week-2027",
     "slug": "signal-week",
     "name": "Signal Week 2027",
-    "description": "Signal Week (successor to Paris Blockchain Week) — institutional digital-assets summit at Palais des Congrès, Paris, 6–7 July 2027.",
+    "description": "Signal Week (successor to Paris Blockchain Week)  -  institutional digital-assets summit at Palais des Congrès, Paris, 6-7 July 2027.",
     "startDate": "2027-07-06T09:00:00+02:00",
     "endDate": "2027-07-07T18:00:00+02:00",
     "city": "Paris",
@@ -327,7 +327,7 @@
     "id": "premier-modular-summit-2026",
     "slug": "modular",
     "name": "Modular Summit 2026",
-    "description": "The modular blockchain thesis's home conference — Celestia, EigenDA, rollup teams and shared sequencing protocols in Lisbon.",
+    "description": "The modular blockchain thesis's home conference  -  Celestia, EigenDA, rollup teams and shared sequencing protocols in Lisbon.",
     "startDate": "2026-09-15T09:00:00.000Z",
     "endDate": "2026-09-16T18:00:00.000Z",
     "city": "Lisbon",
@@ -380,7 +380,7 @@
     "id": "premier-ethtokyo-2026",
     "slug": "ethglobal",
     "name": "ETHGlobal Tokyo 2026",
-    "description": "Come build our decentralized future. ETHGlobal hackathons let you experiment with web3 technologies and develop an idea you're passionate about. Learn about crypto, expand your network, meet industry mentors, and ship working projects over one intense weekend in Tokyo — with 800+ attendees, 29+ workshops, and $75,000 in prizes.",
+    "description": "Come build our decentralized future. ETHGlobal hackathons let you experiment with web3 technologies and develop an idea you're passionate about. Learn about crypto, expand your network, meet industry mentors, and ship working projects over one intense weekend in Tokyo  -  with 800+ attendees, 29+ workshops, and $75,000 in prizes.",
     "startDate": "2026-09-25T00:00:00+09:00",
     "endDate": "2026-09-27T23:59:00+09:00",
     "city": "Tokyo",
@@ -1653,7 +1653,7 @@
     "id": "premier-devconnect-2026",
     "slug": "devconnect",
     "name": "Devconnect 2026",
-    "description": "An Ethereum Foundation week of independent events, co-working and protocol research sessions — the technical antidote to the conference circuit.",
+    "description": "An Ethereum Foundation week of independent events, co-working and protocol research sessions  -  the technical antidote to the conference circuit.",
     "startDate": "2026-11-09T09:00:00.000Z",
     "endDate": "2026-11-12T18:00:00.000Z",
     "city": "Bangkok",
@@ -1669,7 +1669,7 @@
     "id": "premier-breakpoint-2026",
     "slug": "solana-breakpoint",
     "name": "Solana Breakpoint 2026",
-    "description": "Breakpoint 2026 returns to Olympia London, November 15–17. Solana Foundation’s flagship conference for builders, institutions, and the broader Solana ecosystem.",
+    "description": "Breakpoint 2026 returns to Olympia London, November 15-17. Solana Foundation’s flagship conference for builders, institutions, and the broader Solana ecosystem.",
     "startDate": "2026-11-15T09:00:00+00:00",
     "endDate": "2026-11-17T18:00:00+00:00",
     "city": "London",
@@ -2128,7 +2128,7 @@
     "id": "premier-hackmeridian",
     "slug": "hackmeridian",
     "name": "HackMeridian 2026",
-    "description": "Two-day Stellar hackathon in Lisbon ahead of Meridian 2026 — builders ship products on Stellar alongside developers, founders, and technical teams.",
+    "description": "Two-day Stellar hackathon in Lisbon ahead of Meridian 2026  -  builders ship products on Stellar alongside developers, founders, and technical teams.",
     "startDate": "2026-10-25T09:00:00+01:00",
     "endDate": "2026-10-26T18:00:00+01:00",
     "city": "Lisbon",
@@ -2144,7 +2144,7 @@
     "id": "premier-meridian",
     "slug": "meridian",
     "name": "Meridian 2026",
-    "description": "Stellar Development Foundation's annual flagship gathering for payments, tokenization, and remittances — October 28–29 at Convento do Beato in Lisbon.",
+    "description": "Stellar Development Foundation's annual flagship gathering for payments, tokenization, and remittances  -  October 28-29 at Convento do Beato in Lisbon.",
     "startDate": "2026-10-28T09:00:00+01:00",
     "endDate": "2026-10-29T18:00:00+01:00",
     "city": "Lisbon",
@@ -2274,9 +2274,9 @@
   },
   {
     "id": "premier-cryptofest",
-    "slug": "crypto",
+    "slug": "cryptofest",
     "name": "Crypto Fest 2026",
-    "description": "Cape Town's annual crypto festival combining conference sessions with workshops during South Africa's summer buildup.",
+    "description": "Crypto Fest 2026 is the 8th edition of Cape Town's crypto festival on 20 November 2026, with talks and workshops on Web3, blockchain, and DeFi.",
     "startDate": "2026-11-20T09:00:00.000Z",
     "endDate": "2026-11-20T18:00:00.000Z",
     "city": "Cape Town",
@@ -2822,7 +2822,7 @@
     "id": "premier-blockchain-beach-2026",
     "slug": "blockchain-beach",
     "name": "Blockchain Beach 2026",
-    "description": "Two free days of blockchain, AI, education and networking in Pescara (18–19 September 2026).",
+    "description": "Two free days of blockchain, AI, education and networking in Pescara (18-19 September 2026).",
     "startDate": "2026-09-18T09:00:00+02:00",
     "endDate": "2026-09-19T18:00:00+02:00",
     "city": "Pescara",
@@ -2840,7 +2840,7 @@
     "id": "premier-crypto-finance-forum-2026",
     "slug": "crypto-finance-forum",
     "name": "Crypto Finance Forum 2026",
-    "description": "Crypto Finance Forum New York — institutional crypto and financial integrity conference on 22 September 2026.",
+    "description": "Crypto Finance Forum New York  -  institutional crypto and financial integrity conference on 22 September 2026.",
     "startDate": "2026-09-22T09:00:00-04:00",
     "endDate": "2026-09-22T18:00:00-04:00",
     "city": "New York",
@@ -2857,7 +2857,7 @@
     "id": "premier-shaka-biarritz-2026",
     "slug": "shaka",
     "name": "SHAKA Biarritz 2026",
-    "description": "SHAKA Biarritz — AI, blockchain and business festival at Cité de l'Océan, 24–26 September 2026.",
+    "description": "SHAKA Biarritz  -  AI, blockchain and business festival at Cité de l'Océan, 24-26 September 2026.",
     "startDate": "2026-09-24T09:00:00+02:00",
     "endDate": "2026-09-26T18:00:00+02:00",
     "city": "Biarritz",
@@ -2875,7 +2875,7 @@
     "id": "premier-metamorphosis-2026",
     "slug": "metamorphosis",
     "name": "Metamorphosis 2026",
-    "description": "Opening node of the India Blockchain & AI Tour 2026 — Web3 × AI infrastructure summit in Hyderabad: VIP reception 26 September, main event 27 September at T-Hub.",
+    "description": "Opening node of the India Blockchain & AI Tour 2026  -  Web3 × AI infrastructure summit in Hyderabad: VIP reception 26 September, main event 27 September at T-Hub.",
     "startDate": "2026-09-26T09:00:00+05:30",
     "endDate": "2026-09-27T18:00:00+05:30",
     "city": "Hyderabad",
@@ -2885,7 +2885,9 @@
     "website": "https://metamorphosisconf.com/",
     "registrationUrl": "https://metamorphosisconf.com/tickets/",
     "venueName": "T-Hub",
-    "sideEventFor": ["ibt"]
+    "sideEventFor": [
+      "ibt"
+    ]
   },
   {
     "twitter": null,
@@ -2894,7 +2896,7 @@
     "id": "premier-pragma-tokyo-2026",
     "slug": "pragma-tokyo",
     "name": "Pragma Tokyo 2026",
-    "description": "ETHGlobal Pragma Tokyo — one-day Ethereum builders summit on 26 September 2026 at Toranomon Hills Forum.",
+    "description": "ETHGlobal Pragma Tokyo  -  one-day Ethereum builders summit on 26 September 2026 at Toranomon Hills Forum.",
     "startDate": "2026-09-26T09:30:00+09:00",
     "endDate": "2026-09-26T18:00:00+09:00",
     "city": "Tokyo",
@@ -2930,7 +2932,7 @@
     "id": "premier-wob-madrid-2026",
     "slug": "wobitcoin",
     "name": "Watch Out Bitcoin 2026",
-    "description": "Spain’s Bitcoin-only conference — three days of workshops, debates, and community programming in Madrid.",
+    "description": "Spain’s Bitcoin-only conference  -  three days of workshops, debates, and community programming in Madrid.",
     "startDate": "2026-10-02T16:00:00+02:00",
     "endDate": "2026-10-04T18:00:00+02:00",
     "city": "Madrid",
@@ -2950,7 +2952,7 @@
     "id": "premier-rwa-week-2026",
     "slug": "rwa-week",
     "name": "RWA Week 2026",
-    "description": "RWA Week Singapore — curated real-world asset tokenization events, 5–9 October 2026.",
+    "description": "RWA Week Singapore  -  curated real-world asset tokenization events, 5-9 October 2026.",
     "startDate": "2026-10-05T09:00:00+08:00",
     "endDate": "2026-10-09T18:00:00+08:00",
     "city": "Singapore",
@@ -2967,7 +2969,7 @@
     "id": "premier-daweek-london-2026",
     "slug": "daweek-london",
     "name": "Digital Assets Week London 2026",
-    "description": "Digital Assets Week London — institutional tokenisation conference at The Tower Hotel, 6–7 October 2026.",
+    "description": "Digital Assets Week London  -  institutional tokenisation conference at The Tower Hotel, 6-7 October 2026.",
     "startDate": "2026-10-06T08:30:00+01:00",
     "endDate": "2026-10-07T19:00:00+01:00",
     "city": "London",
@@ -2985,7 +2987,7 @@
     "id": "premier-token2049-origins-2026",
     "slug": "token2049-origins",
     "name": "TOKEN2049 Origins Hackathon 2026",
-    "description": "Free 36-hour hackathon at Marina Bay Sands during TOKEN2049 Singapore — build, demo, and compete for prizes on the TOKEN2049 stage.",
+    "description": "Free 36-hour hackathon at Marina Bay Sands during TOKEN2049 Singapore  -  build, demo, and compete for prizes on the TOKEN2049 stage.",
     "startDate": "2026-10-06T09:00:00+08:00",
     "endDate": "2026-10-08T18:00:00+08:00",
     "city": "Singapore",
@@ -3003,7 +3005,7 @@
     "id": "premier-global-onchain-summit-sg-2026",
     "slug": "global-onchain-summit",
     "name": "Global Onchain Summit Singapore 2026",
-    "description": "CoinGape Global Onchain Summit Singapore — TradFi × Web3 gathering on 6 October 2026 (12:00–17:00 SGT).",
+    "description": "CoinGape Global Onchain Summit Singapore  -  TradFi × Web3 gathering on 6 October 2026 (12:00-17:00 SGT).",
     "startDate": "2026-10-06T12:00:00+08:00",
     "endDate": "2026-10-06T17:00:00+08:00",
     "city": "Singapore",
@@ -3055,7 +3057,7 @@
     "id": "premier-blockfest-africa-2026",
     "slug": "blockfest-africa",
     "name": "Blockf3st Africa 2026",
-    "description": "Blockf3st Africa '26 in Lagos at the National Art Theatre, 22–24 October 2026.",
+    "description": "Blockf3st Africa '26 in Lagos at the National Art Theatre, 22-24 October 2026.",
     "startDate": "2026-10-22T08:00:00+01:00",
     "endDate": "2026-10-24T22:00:00+01:00",
     "city": "Lagos",
@@ -3073,7 +3075,7 @@
     "id": "premier-blockchain-summit-latam-2026",
     "slug": "blockchain-summit-latam",
     "name": "Blockchain Summit Latam Colombia 2026",
-    "description": "Blockchain Summit Latam Colombia — institutional finance and digital assets in Bogotá, 4–6 November 2026.",
+    "description": "Blockchain Summit Latam Colombia  -  institutional finance and digital assets in Bogotá, 4-6 November 2026.",
     "startDate": "2026-11-04T08:00:00-05:00",
     "endDate": "2026-11-06T18:00:00-05:00",
     "city": "Bogotá",
@@ -3091,7 +3093,7 @@
     "id": "premier-unchained-summit-india-2026",
     "slug": "unchained-summit",
     "name": "Unchained Summit India 2026",
-    "description": "Unchained Summit India in Mumbai — Web3 conference and deal-flow, 5–6 November 2026.",
+    "description": "Unchained Summit India in Mumbai  -  Web3 conference and deal-flow, 5-6 November 2026.",
     "startDate": "2026-11-05T09:00:00+05:30",
     "endDate": "2026-11-06T18:00:00+05:30",
     "city": "Mumbai",
@@ -3126,7 +3128,7 @@
     "id": "premier-bitcoin-korea-2026",
     "slug": "bitcoin-korea",
     "name": "Bitcoin Korea Conference 2026",
-    "description": "Bitcoin Korea Conference — Day 1 at COEX (7 Nov) and Day 2 at Korea Federation of Banks (8 Nov 2026).",
+    "description": "Bitcoin Korea Conference  -  Day 1 at COEX (7 Nov) and Day 2 at Korea Federation of Banks (8 Nov 2026).",
     "startDate": "2026-11-07T09:00:00+09:00",
     "endDate": "2026-11-08T18:00:00+09:00",
     "city": "Seoul",
@@ -3144,7 +3146,7 @@
     "id": "premier-singapore-blockchain-week-2026",
     "slug": "singapore-blockchain-week",
     "name": "Singapore Blockchain Week 2026",
-    "description": "Cross-border institutional blockchain week spanning Johor and Singapore — RWA, compliance, AI, and digital-asset infrastructure (Nov 13–17).",
+    "description": "Cross-border institutional blockchain week spanning Johor and Singapore  -  RWA, compliance, AI, and digital-asset infrastructure (Nov 13-17).",
     "startDate": "2026-11-13T09:00:00+08:00",
     "endDate": "2026-11-17T18:00:00+08:00",
     "city": "Singapore",
@@ -3161,7 +3163,7 @@
     "id": "premier-world-token-congress-2026",
     "slug": "world-token-congress",
     "name": "World Token Congress 2026",
-    "description": "World Token Congress 2026 in Barcelona — blockchain and tokenization conference, 25–26 November 2026.",
+    "description": "World Token Congress 2026 in Barcelona  -  blockchain and tokenization conference, 25-26 November 2026.",
     "startDate": "2026-11-25T09:00:00+01:00",
     "endDate": "2026-11-26T18:00:00+01:00",
     "city": "Barcelona",
@@ -3196,7 +3198,7 @@
     "id": "premier-blockchain-life-2026",
     "slug": "blockchain-life",
     "name": "Blockchain Life 2026",
-    "description": "Blockchain Life 2026 in Dubai at Festival Arena, 1–2 December 2026.",
+    "description": "Blockchain Life 2026 in Dubai at Festival Arena, 1-2 December 2026.",
     "startDate": "2026-12-01T09:00:00+04:00",
     "endDate": "2026-12-02T18:00:00+04:00",
     "city": "Dubai",
@@ -3214,7 +3216,7 @@
     "id": "premier-consensus-miami-2027",
     "slug": "consensus-miami",
     "name": "Consensus Miami 2027",
-    "description": "CoinDesk Consensus returns to Miami Beach — institutional crypto, finance, and technology dealmaking.",
+    "description": "CoinDesk Consensus returns to Miami Beach  -  institutional crypto, finance, and technology dealmaking.",
     "startDate": "2027-05-04T09:00:00-04:00",
     "endDate": "2027-05-06T18:00:00-04:00",
     "city": "Miami Beach",
@@ -3232,7 +3234,7 @@
     "id": "premier-vienna-blockchain-week-2027",
     "slug": "vienna-blockchain-week",
     "name": "Vienna Blockchain Week 2027",
-    "description": "Vienna Blockchain Week 2027 — institutional digital assets and AI conference in Vienna, 2–3 June 2027.",
+    "description": "Vienna Blockchain Week 2027  -  institutional digital assets and AI conference in Vienna, 2-3 June 2027.",
     "startDate": "2027-06-02T09:00:00+02:00",
     "endDate": "2027-06-03T18:00:00+02:00",
     "city": "Vienna",
@@ -3266,7 +3268,7 @@
     "id": "premier-coinferencex-singapore-2026",
     "slug": "coinferencex-singapore",
     "name": "CoinFerenceX Singapore 2026",
-    "description": "CoinFerenceX Singapore 2026 — Web3 and blockchain conference, 5–6 October 2026 (venue announced via official site).",
+    "description": "CoinFerenceX Singapore 2026  -  Web3 and blockchain conference, 5-6 October 2026 (venue announced via official site).",
     "startDate": "2026-10-05T09:00:00+08:00",
     "endDate": "2026-10-06T18:00:00+08:00",
     "city": "Singapore",
@@ -3283,7 +3285,7 @@
     "id": "premier-bitchill-s04-2026",
     "slug": "bitchill",
     "name": "Bitchill s04",
-    "description": "Season 4 of The Bitcoin District’s multi-day Bitcoin retreat in Próspera, Roatán — builders, founders, and Bitcoin community programming.",
+    "description": "Season 4 of The Bitcoin District’s multi-day Bitcoin retreat in Próspera, Roatán  -  builders, founders, and Bitcoin community programming.",
     "startDate": "2026-10-01T09:00:00-06:00",
     "endDate": "2026-10-11T18:00:00-06:00",
     "city": "Roatán",
@@ -3301,7 +3303,7 @@
     "id": "premier-gts-2026",
     "slug": "gts",
     "name": "Global Trading Show 2026",
-    "description": "Multi-asset trading conference and expo at Emirates Palace, Abu Dhabi — forex, crypto, equities, AI trading, DeFi, and prediction markets.",
+    "description": "Multi-asset trading conference and expo at Emirates Palace, Abu Dhabi  -  forex, crypto, equities, AI trading, DeFi, and prediction markets.",
     "startDate": "2026-12-15T09:00:00+04:00",
     "endDate": "2026-12-16T20:00:00+04:00",
     "city": "Abu Dhabi",
@@ -3319,7 +3321,7 @@
     "id": "premier-ibt-tour-2026",
     "slug": "ibt",
     "name": "India Blockchain & AI Tour 2026",
-    "description": "Octaloop's 5th-edition tour — ten cities across India from September through November 2026, pairing Metamorphosis in Hyderabad with IBT nodes nationwide.",
+    "description": "Octaloop's 5th-edition tour  -  ten cities across India from September through November 2026, pairing Metamorphosis in Hyderabad with IBT nodes nationwide.",
     "startDate": "2026-09-26T10:00:00+05:30",
     "endDate": "2026-11-22T17:00:00+05:30",
     "country": "India",
@@ -3335,7 +3337,7 @@
     "id": "premier-ibt-chennai-2026",
     "slug": "ibt-chennai",
     "name": "India Blockchain & AI Tour 2026 — Chennai",
-    "description": "IBT Chennai node on 10 October 2026 — engineering the next wave of decentralization.",
+    "description": "IBT Chennai node on 10 October 2026  -  engineering the next wave of decentralization.",
     "startDate": "2026-10-10T10:00:00+05:30",
     "endDate": "2026-10-10T17:00:00+05:30",
     "city": "Chennai",
@@ -3344,7 +3346,9 @@
     "url": "https://indiablockchaintour.com/2026-nodes/chennai",
     "website": "https://indiablockchaintour.com/",
     "registrationUrl": "https://indiablockchaintour.com/2026-nodes/chennai/ticket",
-    "sideEventFor": ["ibt"]
+    "sideEventFor": [
+      "ibt"
+    ]
   },
   {
     "twitter": null,
@@ -3353,7 +3357,7 @@
     "id": "premier-ibt-bengaluru-2026",
     "slug": "ibt-bengaluru",
     "name": "India Blockchain & AI Tour 2026 — Bengaluru",
-    "description": "IBT Bengaluru node on 17 October 2026 — engineering the next wave of decentralization.",
+    "description": "IBT Bengaluru node on 17 October 2026  -  engineering the next wave of decentralization.",
     "startDate": "2026-10-17T10:00:00+05:30",
     "endDate": "2026-10-17T17:00:00+05:30",
     "city": "Bengaluru",
@@ -3362,7 +3366,9 @@
     "url": "https://indiablockchaintour.com/2026-nodes/bengaluru",
     "website": "https://indiablockchaintour.com/",
     "registrationUrl": "https://indiablockchaintour.com/2026-nodes/bengaluru/ticket",
-    "sideEventFor": ["ibt"]
+    "sideEventFor": [
+      "ibt"
+    ]
   },
   {
     "twitter": null,
@@ -3371,7 +3377,7 @@
     "id": "premier-ibt-mumbai-2026",
     "slug": "ibt-mumbai",
     "name": "India Blockchain & AI Tour 2026 — Mumbai",
-    "description": "IBT Mumbai node on 31 October 2026 — enterprise energy and Web3 momentum.",
+    "description": "IBT Mumbai node on 31 October 2026  -  enterprise energy and Web3 momentum.",
     "startDate": "2026-10-31T10:00:00+05:30",
     "endDate": "2026-10-31T17:00:00+05:30",
     "city": "Mumbai",
@@ -3380,7 +3386,9 @@
     "url": "https://indiablockchaintour.com/2026-nodes/mumbai",
     "website": "https://indiablockchaintour.com/",
     "registrationUrl": "https://indiablockchaintour.com/2026-nodes/mumbai/ticket",
-    "sideEventFor": ["ibt"]
+    "sideEventFor": [
+      "ibt"
+    ]
   },
   {
     "twitter": null,
@@ -3389,7 +3397,7 @@
     "id": "premier-ibt-pune-2026",
     "slug": "ibt-pune",
     "name": "India Blockchain & AI Tour 2026 — Pune",
-    "description": "IBT Pune node on 1 November 2026 — India's student power fueling Web3 breakthroughs.",
+    "description": "IBT Pune node on 1 November 2026  -  India's student power fueling Web3 breakthroughs.",
     "startDate": "2026-11-01T10:00:00+05:30",
     "endDate": "2026-11-01T17:00:00+05:30",
     "city": "Pune",
@@ -3398,7 +3406,9 @@
     "url": "https://indiablockchaintour.com/2026-nodes/pune",
     "website": "https://indiablockchaintour.com/",
     "registrationUrl": "https://indiablockchaintour.com/2026-nodes/pune/ticket",
-    "sideEventFor": ["ibt"]
+    "sideEventFor": [
+      "ibt"
+    ]
   },
   {
     "twitter": null,
@@ -3407,7 +3417,7 @@
     "id": "premier-ibt-goa-2026",
     "slug": "ibt-goa",
     "name": "India Blockchain & AI Tour 2026 — Goa",
-    "description": "IBT Goa node on 7 November 2026 — global ambition, creative energy, limitless possibilities.",
+    "description": "IBT Goa node on 7 November 2026  -  global ambition, creative energy, limitless possibilities.",
     "startDate": "2026-11-07T10:00:00+05:30",
     "endDate": "2026-11-07T17:00:00+05:30",
     "city": "Goa",
@@ -3416,7 +3426,9 @@
     "url": "https://indiablockchaintour.com/2026-nodes/goa",
     "website": "https://indiablockchaintour.com/",
     "registrationUrl": "https://indiablockchaintour.com/2026-nodes/goa/ticket",
-    "sideEventFor": ["ibt"]
+    "sideEventFor": [
+      "ibt"
+    ]
   },
   {
     "twitter": null,
@@ -3425,7 +3437,7 @@
     "id": "premier-ibt-delhi-2026",
     "slug": "ibt-delhi",
     "name": "India Blockchain & AI Tour 2026 — Delhi",
-    "description": "IBT Delhi node on 14 November 2026 — where policy meets the blockchain pulse.",
+    "description": "IBT Delhi node on 14 November 2026  -  where policy meets the blockchain pulse.",
     "startDate": "2026-11-14T10:00:00+05:30",
     "endDate": "2026-11-14T17:00:00+05:30",
     "city": "Delhi",
@@ -3434,7 +3446,9 @@
     "url": "https://indiablockchaintour.com/2026-nodes/delhi",
     "website": "https://indiablockchaintour.com/",
     "registrationUrl": "https://indiablockchaintour.com/2026-nodes/delhi/ticket",
-    "sideEventFor": ["ibt"]
+    "sideEventFor": [
+      "ibt"
+    ]
   },
   {
     "twitter": null,
@@ -3443,7 +3457,7 @@
     "id": "premier-ibt-jaipur-2026",
     "slug": "ibt-jaipur",
     "name": "India Blockchain & AI Tour 2026 — Jaipur",
-    "description": "IBT Jaipur node on 15 November 2026 — global ambition, creative energy, limitless possibilities.",
+    "description": "IBT Jaipur node on 15 November 2026  -  global ambition, creative energy, limitless possibilities.",
     "startDate": "2026-11-15T10:00:00+05:30",
     "endDate": "2026-11-15T17:00:00+05:30",
     "city": "Jaipur",
@@ -3452,7 +3466,9 @@
     "url": "https://indiablockchaintour.com/2026-nodes/jaipur",
     "website": "https://indiablockchaintour.com/",
     "registrationUrl": "https://indiablockchaintour.com/2026-nodes/jaipur/ticket",
-    "sideEventFor": ["ibt"]
+    "sideEventFor": [
+      "ibt"
+    ]
   },
   {
     "twitter": null,
@@ -3461,7 +3477,7 @@
     "id": "premier-ibt-lucknow-2026",
     "slug": "ibt-lucknow",
     "name": "India Blockchain & AI Tour 2026 — Lucknow",
-    "description": "IBT Lucknow node on 21 November 2026 — part of the India Blockchain & AI Tour city circuit.",
+    "description": "IBT Lucknow node on 21 November 2026  -  part of the India Blockchain & AI Tour city circuit.",
     "startDate": "2026-11-21T10:00:00+05:30",
     "endDate": "2026-11-21T17:00:00+05:30",
     "city": "Lucknow",
@@ -3470,7 +3486,9 @@
     "url": "https://indiablockchaintour.com/2026-nodes/lucknow",
     "website": "https://indiablockchaintour.com/",
     "registrationUrl": "https://indiablockchaintour.com/2026-nodes/lucknow/ticket",
-    "sideEventFor": ["ibt"]
+    "sideEventFor": [
+      "ibt"
+    ]
   },
   {
     "twitter": null,
@@ -3479,7 +3497,7 @@
     "id": "premier-ibt-chandigarh-2026",
     "slug": "ibt-chandigarh",
     "name": "India Blockchain & AI Tour 2026 — Chandigarh",
-    "description": "IBT Chandigarh node on 22 November 2026 — designing the blueprint for India's Web3 future.",
+    "description": "IBT Chandigarh node on 22 November 2026  -  designing the blueprint for India's Web3 future.",
     "startDate": "2026-11-22T10:00:00+05:30",
     "endDate": "2026-11-22T17:00:00+05:30",
     "city": "Chandigarh",
@@ -3488,7 +3506,9 @@
     "url": "https://indiablockchaintour.com/2026-nodes/chandigarh",
     "website": "https://indiablockchaintour.com/",
     "registrationUrl": "https://indiablockchaintour.com/2026-nodes/chandigarh/ticket",
-    "sideEventFor": ["ibt"]
+    "sideEventFor": [
+      "ibt"
+    ]
   },
   {
     "twitter": null,
@@ -3497,7 +3517,7 @@
     "id": "premier-bitmela-2026",
     "slug": "bitmela",
     "name": "Bitmela 2026",
-    "description": "India's first festival on the future of money — two days in Jaipur (30–31 October 2026) from The Bitmela team, capping the Road to Bitmela tour.",
+    "description": "India's first festival on the future of money  -  two days in Jaipur (30-31 October 2026) from The Bitmela team, capping the Road to Bitmela tour.",
     "startDate": "2026-10-30T09:00:00+05:30",
     "endDate": "2026-10-31T18:00:00+05:30",
     "city": "Jaipur",
