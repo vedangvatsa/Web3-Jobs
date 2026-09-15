@@ -11,10 +11,6 @@ on:
         description: 'Validate without sending (creates + deletes a draft)'
         type: boolean
         default: false
-      days:
-        description: 'Look back N days for new jobs'
-        default: '1'
-
 jobs:
   send-job-alerts:
     runs-on: ubuntu-latest
@@ -36,7 +32,7 @@ jobs:
         run: npm ci --no-audit --no-fund
 
       - name: Send job alerts broadcast
-        run: npx tsx scripts/send-resend-broadcast.ts --days ${{ inputs.days || '1' }} --limit 10 ${{ inputs.dry_run == true && '--dry-run' || '' }}
+        run: npx tsx scripts/send-resend-broadcast.ts --limit 10 ${{ inputs.dry_run == true && '--dry-run' || '' }}
         env:
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
           EMAIL_FROM: Alex <alex@hi.hashtagweb3.com>
