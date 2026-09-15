@@ -23,7 +23,7 @@ import { ArticleViewTracker } from '@/components/tracking/article-view-tracker';
 import { PageHeader } from "@/components/page-header";
 import { PageShell } from "@/components/page-shell";
 import { CtaBanner } from "@/components/cta-banner";
-import { getEventSlug, getEventEcosystems, getEventDatePill, formatEventDate, generateGoogleCalendarUrl } from '@/lib/events';
+import { getEventSlug, getEventEcosystems, getEventDatePill, formatEventDate, generateGoogleCalendarUrl, formatEventLocation, normalizeCountry } from '@/lib/events';
 import { getEventExternalUrl } from '@/lib/event-external-url';
 import { getPublicEvent } from '@/lib/event-public';
 import { buildGoogleEventSchema } from '@/lib/event-schema';
@@ -217,7 +217,11 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
 
     const title = `${event.name} - Dates, Venue & Registration`;
     const ogTitle = title;
-    const description = `${event.name} scheduled for ${formattedDate} in ${event.location}. Explore event agenda${ecoText}, venue guide, and official registration links.`;
+    const place =
+      event.city && event.country
+        ? `${event.city}, ${normalizeCountry(event.country)}`
+        : formatEventLocation(event);
+    const description = `${event.name} scheduled for ${formattedDate} in ${place}. Explore event agenda${ecoText}, venue guide, and official registration links.`;
 
     const ogImageUrl = resolveEventOgImageUrl(event, siteUrl);
     const ogImageType = eventOgImageMimeType(ogImageUrl);
@@ -452,8 +456,12 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                 metadata={
                   <>
                       <div className="flex min-w-0 items-center gap-1.5">
-                        <MapPin className="h-4 w-4 text-muted-foreground" />
-                        <span className="break-words">{event.location}</span>
+                        <MapPin className="h-4 w-4 shrink-0 text-muted-foreground" />
+                        <span className="break-words">
+                          {event.city && event.country
+                            ? `${event.city}, ${normalizeCountry(event.country)}`
+                            : formatEventLocation(event)}
+                        </span>
                       </div>
                   </>
                 }

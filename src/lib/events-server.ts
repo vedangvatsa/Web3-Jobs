@@ -4,6 +4,7 @@ import { Web3Event, formatEventLocation, getEventBaseSlug, getEventEcosystems, g
 import { getEventExternalUrl } from './event-external-url';
 import { cleanPublishText } from './noslop';
 import { resolveEventPreviewImageUrl } from './job-og';
+import { getEventDisplayCity } from './event-map-locations';
 
 // Explicitly blocked promotional posts that are not events
 const BLOCKED_EVENT_IDS = new Set([
@@ -364,6 +365,10 @@ async function loadEvents(): Promise<Web3Event[]> {
       let cleanDescription = cleanPublishText(e.description || '');
       if (isTruncatedEventDescription(cleanDescription)) {
         cleanDescription = '';
+      }
+
+      if (cleanCity) {
+        cleanCity = getEventDisplayCity(cleanCity) || cleanCity;
       }
 
       // Fix malformed double https:// url prefix

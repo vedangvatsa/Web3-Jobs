@@ -1,5 +1,5 @@
 import { getEvents } from '@/lib/events-server';
-import { getEventType } from '@/lib/events';
+import { getEventType, normalizeCountry } from '@/lib/events';
 import { getPublicEvent } from '@/lib/event-public';
 import { NextRequest, NextResponse } from 'next/server';
 import { getStandardApiHeaders } from '@/lib/api-headers';
@@ -79,8 +79,8 @@ export async function GET(request: NextRequest) {
     }
 
     if (country) {
-      const c = country.toLowerCase().trim();
-      filtered = filtered.filter((e) => (e.country || '').toLowerCase().includes(c));
+      const c = normalizeCountry(country).toLowerCase();
+      filtered = filtered.filter((e) => normalizeCountry(e.country || '').toLowerCase() === c);
     }
 
     const paginated = filtered.slice(offset, offset + limit);

@@ -64,18 +64,19 @@ export type PublicWeb3Event = Omit<Web3Event, 'source' | 'url' | 'website' | 're
 // Country code to clean name mapping
 export const COUNTRY_NAMES: Record<string, string> = {
   AE: 'United Arab Emirates', AF: 'Afghanistan', AR: 'Argentina', AT: 'Austria',
-  AU: 'Australia', BD: 'Bangladesh', BE: 'Belgium', BG: 'Bulgaria', BN: 'Brunei',
-  BO: 'Bolivia', BR: 'Brazil', BS: 'Bahamas', CA: 'Canada', CH: 'Switzerland',
-  CL: 'Chile', CN: 'China', CO: 'Colombia', CR: 'Costa Rica', CZ: 'Czechia',
-  DE: 'Germany', DK: 'Denmark', DO: 'Dominican Republic', EC: 'Ecuador',
-  EE: 'Estonia', EG: 'Egypt', ES: 'Spain', FI: 'Finland', FR: 'France',
-  GB: 'United Kingdom', GE: 'Georgia', GF: 'French Guiana', GH: 'Ghana',
-  GR: 'Greece', GT: 'Guatemala', HK: 'Hong Kong', HR: 'Croatia', HU: 'Hungary',
-  ID: 'Indonesia', IE: 'Ireland', IL: 'Israel', IN: 'India', IS: 'Iceland',
-  IT: 'Italy', JM: 'Jamaica', JO: 'Jordan', JP: 'Japan', KE: 'Kenya',
-  KR: 'South Korea', KW: 'Kuwait', KZ: 'Kazakhstan', LB: 'Lebanon', LK: 'Sri Lanka',
-  LT: 'Lithuania', LU: 'Luxembourg', LV: 'Latvia', MA: 'Morocco', MC: 'Monaco',
-  MX: 'Mexico', MY: 'Malaysia', NG: 'Nigeria', NL: 'Netherlands', NO: 'Norway',
+  AU: 'Australia', AZ: 'Azerbaijan', BD: 'Bangladesh', BE: 'Belgium', BG: 'Bulgaria',
+  BN: 'Brunei', BO: 'Bolivia', BR: 'Brazil', BS: 'Bahamas', CA: 'Canada',
+  CH: 'Switzerland', CL: 'Chile', CN: 'China', CO: 'Colombia', CR: 'Costa Rica',
+  CY: 'Cyprus', CZ: 'Czech Republic', DE: 'Germany', DK: 'Denmark',
+  DO: 'Dominican Republic', EC: 'Ecuador', EE: 'Estonia', EG: 'Egypt', ES: 'Spain',
+  ET: 'Ethiopia', FI: 'Finland', FR: 'France', GB: 'United Kingdom', GE: 'Georgia',
+  GF: 'French Guiana', GH: 'Ghana', GR: 'Greece', GT: 'Guatemala', HK: 'Hong Kong',
+  HN: 'Honduras', HR: 'Croatia', HU: 'Hungary', ID: 'Indonesia', IE: 'Ireland',
+  IL: 'Israel', IN: 'India', IS: 'Iceland', IT: 'Italy', JM: 'Jamaica', JO: 'Jordan',
+  JP: 'Japan', KE: 'Kenya', KR: 'South Korea', KW: 'Kuwait', KZ: 'Kazakhstan',
+  LB: 'Lebanon', LK: 'Sri Lanka', LT: 'Lithuania', LU: 'Luxembourg', LV: 'Latvia',
+  MA: 'Morocco', MC: 'Monaco', MG: 'Madagascar', MW: 'Malawi', MX: 'Mexico',
+  MY: 'Malaysia', NG: 'Nigeria', NL: 'Netherlands', NO: 'Norway', NP: 'Nepal',
   NZ: 'New Zealand', PA: 'Panama', PE: 'Peru', PH: 'Philippines', PK: 'Pakistan',
   PL: 'Poland', PR: 'Puerto Rico', PT: 'Portugal', QA: 'Qatar', RO: 'Romania',
   RS: 'Serbia', RU: 'Russia', RW: 'Rwanda', SA: 'Saudi Arabia', SE: 'Sweden',
@@ -85,11 +86,100 @@ export const COUNTRY_NAMES: Record<string, string> = {
   VN: 'Vietnam', ZA: 'South Africa',
 };
 
+/** Lowercase aliases / informal names → canonical COUNTRY_NAMES value. */
+const COUNTRY_ALIASES: Record<string, string> = {
+  usa: 'United States',
+  us: 'United States',
+  'u.s': 'United States',
+  'u.s.': 'United States',
+  'u.s.a': 'United States',
+  'u.s.a.': 'United States',
+  'united states of america': 'United States',
+  america: 'United States',
+  uk: 'United Kingdom',
+  'u.k': 'United Kingdom',
+  'u.k.': 'United Kingdom',
+  'great britain': 'United Kingdom',
+  britain: 'United Kingdom',
+  england: 'United Kingdom',
+  scotland: 'United Kingdom',
+  wales: 'United Kingdom',
+  'northern ireland': 'United Kingdom',
+  uae: 'United Arab Emirates',
+  'u.a.e': 'United Arab Emirates',
+  'u.a.e.': 'United Arab Emirates',
+  emirates: 'United Arab Emirates',
+  dubai: 'United Arab Emirates',
+  'abu dhabi': 'United Arab Emirates',
+  korea: 'South Korea',
+  rok: 'South Korea',
+  'republic of korea': 'South Korea',
+  'south korea': 'South Korea',
+  czechia: 'Czech Republic',
+  'czech republic': 'Czech Republic',
+  czech: 'Czech Republic',
+  türkiye: 'Turkey',
+  turkiye: 'Turkey',
+  turkey: 'Turkey',
+  'hong kong sar': 'Hong Kong',
+  'hong kong, china': 'Hong Kong',
+  hkg: 'Hong Kong',
+  'viet nam': 'Vietnam',
+  'russian federation': 'Russia',
+  'the netherlands': 'Netherlands',
+  holland: 'Netherlands',
+  deutschland: 'Germany',
+  espania: 'Spain',
+  'españa': 'Spain',
+  italia: 'Italy',
+  brasil: 'Brazil',
+  'méxico': 'Mexico',
+  mexico: 'Mexico',
+  swiss: 'Switzerland',
+  suisse: 'Switzerland',
+  oesterreich: 'Austria',
+  'österreich': 'Austria',
+  polska: 'Poland',
+  ind: 'India',
+  aus: 'Australia',
+  can: 'Canada',
+  prc: 'China',
+  "people's republic of china": 'China',
+  'chinese taipei': 'Taiwan',
+  roc: 'Taiwan',
+  'republic of china': 'Taiwan',
+  ksa: 'Saudi Arabia',
+  'kingdom of saudi arabia': 'Saudi Arabia',
+  rsa: 'South Africa',
+  singapura: 'Singapore',
+  eire: 'Ireland',
+};
+
+function aliasKeysForCountry(raw: string): string[] {
+  const base = raw.trim().toLowerCase().replace(/\s+/g, ' ');
+  const noDots = base.replace(/\./g, '');
+  return base === noDots ? [base] : [base, noDots];
+}
+
 export function normalizeCountry(raw?: string): string {
   if (!raw) return '';
-  const upper = raw.trim().toUpperCase();
+  const trimmed = raw.trim();
+  if (!trimmed) return '';
+
+  const upper = trimmed.toUpperCase();
   if (COUNTRY_NAMES[upper]) return COUNTRY_NAMES[upper];
-  return raw.trim();
+
+  for (const aliasKey of aliasKeysForCountry(trimmed)) {
+    if (COUNTRY_ALIASES[aliasKey]) return COUNTRY_ALIASES[aliasKey];
+  }
+
+  const aliasKey = trimmed.toLowerCase().replace(/\s+/g, ' ');
+  const canonical = Object.values(COUNTRY_NAMES).find(
+    (name) => name.toLowerCase() === aliasKey,
+  );
+  if (canonical) return canonical;
+
+  return trimmed;
 }
 
 /** Collapse repeated place segments like "London, United Kingdom, London, United Kingdom". */
@@ -568,63 +658,64 @@ export function getEventEditorialGuide(event: Web3Event): EventEditorialArticle 
   // Dynamic ticket, speakers, and attendance fields based on event type
   const isHackathon = type === 'hackathon';
   const isConference = type === 'conference';
+  const ownDescription = (event.description || '').trim();
 
-  let ticketPricing = 'Free / RSVP required';
-  let speakers = 'Ecosystem contributors, local builders';
-  let expectedAttendance = '150+ attendees';
+  let ticketPricing = 'See the official registration page';
+  let speakers = event.speakers?.length
+    ? event.speakers.slice(0, 8).join(', ')
+    : 'Listed on the official programme when announced';
+  let expectedAttendance = 'Confirm capacity on the official event page';
 
   if (isHackathon) {
-    ticketPricing = event.name.toLowerCase().includes('global') || event.name.toLowerCase().includes('online')
-      ? 'Free (Open Online)'
-      : 'Free (Application / RSVP Required)';
-    speakers = `${ecoStr} core contributors, ecosystem mentors, previous buildathon winners`;
-    expectedAttendance = '1,000+ developers';
+    ticketPricing = 'Usually free with an application or RSVP; confirm on the official page';
+    speakers = event.speakers?.length
+      ? event.speakers.slice(0, 8).join(', ')
+      : `${ecoStr} mentors and judges (when listed)`;
   } else if (isConference) {
-    ticketPricing = 'From $199 / Early bird discounts available';
-    speakers = `${ecoStr} project leads, smart contract developers, venture partners`;
-    expectedAttendance = '1,000+ attendees';
+    ticketPricing = 'Paid and free tiers vary; check the official tickets page';
   }
 
+  const aboutContent = ownDescription
+    ? [ownDescription]
+    : [
+        `${event.name} is a ${isHackathon ? 'hackathon' : isConference ? 'conference' : 'community event'} on ${formattedDates} in ${locationStr}.`,
+        ecosystems.length
+          ? `Listed themes include ${ecoStr}.`
+          : 'Details come from the organiser listing; confirm speakers and agenda on the official site.',
+      ];
+
   return {
-    summaryLead: event.description
-      ? `${event.name} takes place ${formattedDates} in ${locationStr}. ${event.description}`
-      : `${event.name} is a ${isHackathon ? 'Web3 hackathon and builder sprint' : isConference ? 'blockchain conference and ecosystem gathering' : 'Web3 community event'} taking place ${formattedDates} in ${locationStr}. The focus is on ${ecoStr}, bringing together developers, founders, and people working in the industry for hands-on learning and direct conversation.`,
+    summaryLead: ownDescription
+      ? `${event.name} takes place ${formattedDates} in ${locationStr}. ${ownDescription}`
+      : `${event.name} takes place ${formattedDates} in ${locationStr}.`,
     ticketPricing,
     speakers,
     expectedAttendance,
     sections: [
       {
         heading: 'About the event',
+        content: aboutContent,
+      },
+      {
+        heading: 'Format and location',
         content: [
-          `${event.name} is part of a growing calendar of focused ${ecoStr} gatherings where the people actually building protocols, writing contracts, and shipping products meet in person. The format is designed around real exchange, not broadcast.`,
-          `Sessions cover practical ground in ${ecoStr}: how protocols are architected, where security assumptions break down, how governance actually gets implemented, and what the current generation of tooling makes possible that was not feasible a year ago.`,
-          `The conversation tends to be specific rather than general. This is not an introduction to blockchain. It is a working gathering for people already in it.`,
+          format === 'online'
+            ? 'This listing is online. Join details are on the official registration page.'
+            : `Venue and city: ${locationStr}.`,
+          isHackathon
+            ? 'Expect build time, mentors, and demos of working projects rather than pitch-only sessions.'
+            : isConference
+              ? 'Expect talks, panels, and exhibition or networking time depending on the organiser programme.'
+              : 'Expect a meetup-style agenda: talks, demos, and informal networking.',
         ],
       },
       {
-        heading: 'What gets covered',
+        heading: 'Registration',
         content: [
-          `Smart contract development and tooling: Foundry, Hardhat, Anchor, and the frameworks being used in production across ${ecoStr}, with sessions on testing patterns, deployment workflows, and common failure modes.`,
-          `Protocol design and architecture: How to reason about state, composability, liquidity, and incentive design when building on a shared global ledger.`,
-          `Security and auditing: Practical approaches to reviewing code, running fuzzing campaigns, setting up bug bounty programs, and learning from recent exploits.`,
-          `Governance, DAOs, and treasury: How decentralized organizations make decisions at scale, manage protocol upgrades, and allocate community resources without capturing them.`,
-        ],
-      },
-      {
-        heading: 'Talks, demos, and the hallway',
-        content: [
-          `${isHackathon
-            ? `Teams form at the start and have the full event to build and ship something real. Sponsors post bounties and judges evaluate working prototypes, not decks. The best submissions often attract direct grant offers or follow-on investment.`
-            : `Sessions run across multiple stages with breakout rooms for smaller technical discussions. The most useful conversations often happen informally, between sessions, when the people running the protocols are accessible for real questions.`
-          }`,
-          `Side events and evening gatherings run around the main schedule in ${locationStr}. Check the satellite event calendar alongside the official agenda.`,
-        ],
-      },
-      {
-        heading: 'Getting there and registering',
-        content: [
-          `The event is in ${locationStr}. ${format === 'online' ? 'Access is fully virtual, with live streams, interactive breakout rooms, and async content available across time zones.' : 'Register through the official event website. Passes sell out, so do not wait.'}`,
-          `Book accommodation early if you are traveling. Conference week hotel prices in most cities spike significantly once the main block of rooms fills.`,
+          'Register through the official event link on this page. Passes and approvals can close early.',
+          format === 'online'
+            ? 'Check time zones before you join.'
+            : 'If you are travelling, book lodging early around the published dates.',
         ],
       },
     ],
