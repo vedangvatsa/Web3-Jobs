@@ -1,42 +1,42 @@
 [
   {
-    "slug": "base-wallet",
-    "title": "Coinbase Wallet and Base Are Again Presented as Separate Products",
-    "description": "Coinbase's current wallet, help and Base materials distinguish the Coinbase Wallet self-custody product from the Base blockchain, after Coinbase Wallet was introduced as the Base App in July 2025.",
+    "slug": "avalanche-uae",
+    "title": "UAE Identity Vault Moves to Avalanche Blockchain",
+    "description": "Avalanche says the UAE's UAEPASS Digital Vault serving 12.5 million people now runs on a dedicated Avalanche L1, though TDRA pages name no protocol.",
     "category": "News",
-    "publishedDate": "2026-09-12",
-    "image": "/images/news/base-wallet-cover.jpg"
+    "publishedDate": "2026-09-15",
+    "image": "/images/news/avalanche-uae.jpg"
   },
   {
-    "slug": "clarity-act",
-    "title": "Senate CLARITY Draft Would Set Tests for DeFi Controller Rules",
-    "description": "A Senate substitute for H.R. 3633 would direct the SEC, CFTC, and Treasury to write activity-based rules for people who control defined non-decentralized DeFi trading protocols.",
+    "slug": "circle-arc",
+    "title": "Circle Arc Public Mainnet Launches Sept 16",
+    "description": "Circle's stablecoin-native Arc blockchain opens its public mainnet on Sept. 16 with BlackRock, Visa, and DTCC among founding validators and USDC as the gas token.",
     "category": "News",
-    "publishedDate": "2026-09-12",
-    "image": "/api/og?type=article&title=Senate%20CLARITY%20Draft%20Would%20Set%20Tests%20for%20DeFi%20Controller%20Rules"
+    "publishedDate": "2026-09-15",
+    "image": "/images/news/circle-arc.jpg"
   },
   {
-    "slug": "coinbase-moov",
-    "title": "Coinbase and Moov Announce Stablecoin Payments and Custody Plan for Community Institutions",
-    "description": "Coinbase and Moov say they will add stablecoin acceptance, settlement, and real-time funding to Moov's payments platform, while key rollout, custody, and commercial details remain undisclosed.",
+    "slug": "ether-staking",
+    "title": "BlackRock Ether Staking ETF Extends Inflow Run to 20 Days",
+    "description": "BlackRock's ETHB has drawn $307.72 million across 20 trading days without a single outflow day as its assets pass $1 billion, while the larger ETHA still leads ether ETF demand.",
     "category": "News",
-    "publishedDate": "2026-09-12",
-    "image": "https://images.ctfassets.net/sygt3q11s4a9/5UxnOqGiIrqFR7ycz8JB1O/0f8b3acacd4091377cd79dd3c2784c77/IMG_0644.jpg"
+    "publishedDate": "2026-09-15",
+    "image": "/images/news/ether-staking.jpg"
   },
   {
-    "slug": "demat-2",
-    "title": "SEBI launches Demat 2.0 tokenised corporate bond pilot",
-    "description": "SEBI's Demat 2.0 pilot tests tokenised corporate-bond issuance, holding, settlement and servicing within India's existing regulated market infrastructure.",
+    "slug": "fca-gateway",
+    "title": "FCA Crypto Authorisation Window Opens Sept 30",
+    "description": "Britain's FCA will accept crypto authorisation applications from Sept. 30, 2026 to Feb. 28, 2027 ahead of full rules taking effect in October 2027.",
     "category": "News",
-    "publishedDate": "2026-09-12",
-    "image": "/api/og?type=article&title=SEBI%20launches%20Demat%202.0%20tokenised%20corporate%20bond%20pilot"
+    "publishedDate": "2026-09-15",
+    "image": "/images/news/fca-gateway.jpg"
   },
   {
-    "slug": "eigenlayer-slashing",
-    "title": "EigenLayer Slashing Went Live With AVS-Defined Penalties and Delayed Exits",
-    "description": "EigenLayer activated slashing on Ethereum mainnet on April 17, 2025, making an operator's elected stake allocation slashable by individual AVS operator sets under rules the AVS defines.",
+    "slug": "iran-forfeiture",
+    "title": "US Seeks Forfeiture of $61 Million in Crypto Tied to Iranian Oil Sales",
+    "description": "Federal prosecutors in Manhattan filed a civil forfeiture claim on Sept. 14 seeking about $61 million in USDT allegedly tied to black-market Iranian oil sales laundered through Binance accounts.",
     "category": "News",
-    "publishedDate": "2026-09-12",
-    "image": "/logo/companies/eigenlayer.webp"
+    "publishedDate": "2026-09-15",
+    "image": "/images/news/iran-forfeiture.jpg"
   }
 ]

@@ -21,7 +21,7 @@ function inferRegion(location: string): string {
   const l = location.toLowerCase();
   if (/global|various|network school/.test(l)) return 'Global';
   if (/nigeria|kenya|ghana|tanzania|zanzibar|ethiopia|africa|lagos/.test(l)) return 'Africa';
-  if (/japan|thailand|singapore|malaysia|china|shanghai|india|kerala|vietnam|philippines|bhutan|kazakhstan|sri lanka|mirissa|asia|chiang mai|bangkok|nagano|dandeli/.test(l)) return 'Asia';
+  if (/japan|thailand|singapore|malaysia|china|shanghai|india|kerala|vietnam|philippines|bhutan|kazakhstan|astana|sri lanka|mirissa|asia|chiang mai|bangkok|nagano|dandeli/.test(l)) return 'Asia';
   if (/switzerland|austria|germany|berlin|montenegro|portugal|greece|mykonos|uk|europe|swiss/.test(l)) return 'Europe';
   if (/argentina|brazil|honduras|roatán|roatan|patagonia|buenos|latin|punta cana|dominican/.test(l)) return 'Latin America';
   if (/palau/.test(l)) return 'Oceania';
