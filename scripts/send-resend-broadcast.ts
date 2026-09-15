@@ -1,0 +1,173 @@
+/**
+ * send-resend-broadcast.ts — daily job alerts via Resend Broadcasts.
+ *
+ * Builds the new-jobs email from recent listings and sends it as a
+ * Resend broadcast to a segment (default: General). Unsubscribed contacts
+ * are excluded by Resend automatically.
+ *
+ * Usage: npx tsx scripts/send-resend-broadcast.ts [--days 1] [--limit 15] [--dry-run]
+ * Env: RESEND_API_KEY (required), RESEND_SEGMENT_ID (default General),
+ *      EMAIL_FROM (default "Hashtag Web3 <hi@hashtagweb3.com>")
+ *
+ * Exits nonzero on ANY failure (no silent green runs).
+ */
+
+import { Resend } from 'resend';
+import { getJobs } from '@/lib/jobs';
+import type { JobListing } from '@/lib/email';
+
+const GENERAL_SEGMENT_ID = '2db4b31c-7b5b-46b9-b2b1-98ae142d289b';
+
+const args = process.argv.slice(2);
+const isDryRun = args.includes('--dry-run');
+const daysIdx = args.indexOf('--days');
+const daysBack = daysIdx > -1 ? Math.max(1, Number(args[daysIdx + 1]) || 1) : 1;
+const limitIdx = args.indexOf('--limit');
+const jobLimit = limitIdx > -1 ? Math.max(1, Number(args[limitIdx + 1]) || 15) : 15;
+
+const apiKey = process.env.RESEND_API_KEY;
+const segmentId = process.env.RESEND_SEGMENT_ID || GENERAL_SEGMENT_ID;
+const from = process.env.EMAIL_FROM || 'Hashtag Web3 <hi@hashtagweb3.com>';
+const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://hashtagweb3.com';
+
+function buildHtml(jobs: JobListing[]): string {
+  const jobsHTML = jobs.map((job) => `
+   <div style="padding: 14px 0; border-bottom: 1px solid #e5e7eb;">
+    <a href="${job.url}" style="text-decoration: none; color: #111827; font-size: 16px; font-weight: 600;">
+     ${job.title}
+    </a>
+    <div style="margin-top: 4px; font-size: 13px; color: #6b7280;">
+     ${job.company}${job.salary ? ` - ${job.salary}` : ''}
+    </div>
+   </div>
+  `).join('');
+
+  return `
+   <!DOCTYPE html>
+   <html>
+    <head>
+     <meta charset="utf-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; line-height: 1.5; color: #111827; background-color: #ffffff; margin: 0; padding: 0;">
+     <div style="max-width: 640px; margin: 0 auto; padding: 24px;">
+      <div style="padding: 8px 0 18px 0; border-bottom: 2px solid #111827;">
+       <div style="font-size: 18px; font-weight: 700; letter-spacing: 0.2px;">Hashtag Web3</div>
+       <div style="font-size: 13px; color: #6b7280; margin-top: 4px;">Daily Job Alerts</div>
+      </div>
+      <div style="padding: 18px 0;">
+       <div style="font-size: 20px; font-weight: 700; margin-bottom: 6px;">${jobs.length} new roles today</div>
+       <div style="font-size: 13px; color: #6b7280; margin-bottom: 14px;">Handpicked from the latest listings on Hashtag Web3.</div>
+       ${jobsHTML}
+       <div style="margin-top: 18px;">
+        <a href="${siteUrl}/jobs"
+          style="display: inline-block; color: #111827; text-decoration: underline; font-weight: 600;">
+         Browse all jobs →
+        </a>
+       </div>
+       <div style="margin-top: 18px; font-size: 12px; color: #9ca3af; border-top: 1px solid #e5e7eb; padding-top: 12px;">
+        <p style="margin: 6px 0;">Hashtag Web3 | Global Tech Recruitment</p>
+        <p style="margin: 8px 0; font-size: 11px;">
+         <a href="{{{RESEND_UNSUBSCRIBE_URL}}}" style="color: #9ca3af; text-decoration: underline;">Unsubscribe</a>
+        </p>
+       </div>
+      </div>
+     </div>
+    </body>
+   </html>
+  `;
+}
+
+function buildText(jobs: JobListing[]): string {
+  const lines = jobs.map((job) => {
+    const salary = job.salary ? ` | ${job.salary}` : '';
+    return `${job.title} - ${job.company}${salary}\n${job.url}`;
+  }).join('\n\n');
+  return `HASHTAG WEB3 DAILY JOB ALERTS\n\n${jobs.length} new roles today:\n\n${lines}\n\n---\nView all jobs at: ${siteUrl}/jobs\nUnsubscribe: {{{RESEND_UNSUBSCRIBE_URL}}}`;
+}
+
+async function main() {
+  if (!apiKey) {
+    console.error('Missing RESEND_API_KEY');
+    process.exit(1);
+  }
+  console.log(`Job broadcast (Resend) — ${isDryRun ? 'DRY RUN' : 'LIVE'}, last ${daysBack} day(s), limit ${jobLimit}`);
+
+  const allJobs = await getJobs();
+  const now = new Date();
+  const threshold = new Date(now.getTime() - daysBack * 24 * 3600 * 1000);
+  const companyCounts = new Map<string, number>();
+  const jobs: JobListing[] = [];
+  const MAX_PER_COMPANY = 2;
+
+  for (const job of (allJobs as any[])
+    .filter((j) => new Date(j.date) >= threshold)
+    .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime())) {
+    if (jobs.length >= jobLimit) break;
+    const company = job.company?.name || job.company || 'Unknown Company';
+    const key = company.toLowerCase();
+    const count = companyCounts.get(key) || 0;
+    if (count >= MAX_PER_COMPANY) continue;
+    companyCounts.set(key, count + 1);
+    jobs.push({
+      title: job.title,
+      company,
+      location: job.location || 'Remote',
+      salary: job.salary,
+      url: job.link || job.url || `${siteUrl}/jobs/${job.id}`,
+      tags: job.tags?.slice(0, 5) || [],
+    });
+  }
+
+  if (!jobs.length) {
+    console.log('No new jobs in window — nothing to send.');
+    return;
+  }
+  console.log(`Selected ${jobs.length} jobs.`);
+
+  const resend = new Resend(apiKey);
+  const subject = `${jobs.length} new Web3 roles today — ${jobs[0].title} @ ${jobs[0].company}`;
+  const html = buildHtml(jobs);
+  const text = buildText(jobs);
+
+  if (isDryRun) {
+    // Validate end-to-end by creating a draft, then delete it. Never sends.
+    const created = await resend.broadcasts.create({
+      segmentId,
+      from,
+      subject: `[DRY-RUN] ${subject}`,
+      html,
+      text,
+      name: `dry-run ${new Date().toISOString()}`,
+    });
+    if (created.error) {
+      console.error('Dry-run draft failed:', created.error);
+      process.exit(1);
+    }
+    const id = (created.data as any)?.id;
+    console.log(`Dry-run draft created: ${id}. Deleting.`);
+    if (id) await resend.broadcasts.remove(id);
+    console.log(`Dry run OK: ${jobs.length} jobs, subject ready, segment reachable.`);
+    return;
+  }
+
+  const sent = await resend.broadcasts.create({
+    segmentId,
+    from,
+    subject,
+    html,
+    text,
+    name: `job-alerts ${new Date().toISOString().slice(0, 10)}`,
+    send: true,
+  });
+  if (sent.error) {
+    console.error('Broadcast failed:', sent.error);
+    process.exit(1);
+  }
+  console.log(`Broadcast sent: ${(sent.data as any)?.id} (${jobs.length} jobs).`);
+}
+
+main().catch((e) => {
+  console.error('Fatal:', e?.message || e);
+  process.exit(1);
+});
