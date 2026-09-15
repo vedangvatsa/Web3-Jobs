@@ -1,6 +1,6 @@
 import { formatEventLocation } from './events';
 
-export const EVENT_OG_VERSION = '2';
+export const EVENT_OG_VERSION = '6';
 export const SITE_URL = 'https://hashtagweb3.com';
 
 export type EventOgInput = {
@@ -28,7 +28,7 @@ export function buildEventOgImageUrl(event: EventOgInput, siteUrl = SITE_URL): s
   return `${siteUrl}/api/og?type=event&v=${EVENT_OG_VERSION}&title=${encodeURIComponent(event.name)}&location=${encodeURIComponent(location)}${datePart ? `&date=${encodeURIComponent(datePart)}` : ''}`;
 }
 
-/** Prefer poster/coverImage for link previews; fall back to dynamic /api/og event card. */
+/** Prefer event poster/coverImage for previews; fall back to dynamic /api/og event card. */
 export function resolveEventOgImageUrl(event: EventOgInput, siteUrl = SITE_URL): string {
   const cover = (event.coverImage || '').trim();
   if (hasEventPosterCover(cover)) {
