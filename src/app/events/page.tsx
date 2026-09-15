@@ -77,18 +77,16 @@ export default async function EventsPage() {
         <main className="flex-1" data-event-page>
           <PageShell>
             <PageHeader title="Web3 Events" />
-            <article className="site-container">
-              <EventPartners />
-              <CommunityFeedBanner
-                href="https://t.me/hashtagweb3"
-                text={
-                  <>
-                    Join our Telegram community with <strong className="text-foreground">18,000+</strong> members
-                  </>
-                }
-              />
-              <EventsBoard initialEvents={events.slice(0, 30).map(getPublicEvent)} />
-            </article>
+            <EventPartners />
+            <CommunityFeedBanner
+              href="https://t.me/hashtagweb3"
+              text={
+                <>
+                  Join our Telegram community with <strong className="text-foreground">18,000+</strong> members
+                </>
+              }
+            />
+            <EventsBoard initialEvents={events.slice(0, 30).map(getPublicEvent)} />
           </PageShell>
         </main>
       </div>

@@ -3,14 +3,14 @@
 import * as React from 'react';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
-import { Input } from '@/components/ui/input';
-import { Button } from '@/components/ui/button';
-import { Search } from 'lucide-react';
 import type { DigitalNomadVisa } from '@/types';
 import { visaData } from '@/lib/visas';
 import { ToolUsageTracker } from '@/components/tracking/tool-usage-tracker';
 import { CtaBanner } from '@/components/cta-banner';
 import { PageHeader } from '@/components/page-header';
+import { ListingEmptyState, ListingToolbar } from '@/components/listing-toolbar';
+
+const CONTINENTS = ['Europe', 'Asia', 'North America', 'South America', 'Africa', 'Oceania'] as const;
 
 function VisaCard({ visa }: { visa: DigitalNomadVisa }) {
   return (
@@ -143,58 +143,47 @@ const countryMap: Record<string, string> = {
 
 export function DigitalNomadVisasContent() {
   const [searchTerm, setSearchTerm] = React.useState('');
-  const [selectedContinent, setSelectedContinent] = React.useState('All');
-
-  const continents = ['All', 'Europe', 'Asia', 'North America', 'South America', 'Africa', 'Oceania'];
+  const [continentFilter, setContinentFilter] = React.useState<string | null>(null);
 
   const filteredVisas = React.useMemo(() => {
     return visaData
       .filter((visa) => {
-        const matchesContinent = selectedContinent === 'All' || visa.continent === selectedContinent;
+        const matchesContinent = !continentFilter || visa.continent === continentFilter;
+        const q = searchTerm.toLowerCase();
         const matchesSearch =
-          searchTerm === '' ||
-          visa.country.toLowerCase().includes(searchTerm.toLowerCase()) ||
-          visa.description.toLowerCase().includes(searchTerm.toLowerCase()) ||
-          visa.requirements.join(' ').toLowerCase().includes(searchTerm.toLowerCase());
+          !q ||
+          visa.country.toLowerCase().includes(q) ||
+          visa.description.toLowerCase().includes(q) ||
+          visa.requirements.join(' ').toLowerCase().includes(q);
         return matchesContinent && matchesSearch;
       })
       .sort((a, b) => a.country.localeCompare(b.country));
-  }, [searchTerm, selectedContinent]);
+  }, [searchTerm, continentFilter]);
+
+  const isFiltering = searchTerm.length > 0 || Boolean(continentFilter);
 
   return (
-    <div className="site-container">
+    <div>
       <ToolUsageTracker toolName="Digital Nomad Visas" />
-      <section className="text-center mb-8 site-container">
-          <PageHeader
-            title="Visas for Digital Nomads"
-          />
-      </section>
+      <PageHeader title="Visas for Digital Nomads" />
 
-      <Card className="p-4 mb-8 sticky top-20 z-10 shadow-sm bg-background">
-        <div className="flex flex-col md:flex-row gap-4">
-          <div className="relative flex-grow">
-            <Input
-              placeholder="Search by country, requirements, etc..."
-              value={searchTerm}
-              onChange={(e) => setSearchTerm(e.target.value)}
-              className="w-full text-base pl-10 h-11"
-            />
-            <Search className="absolute left-3 top-1/2 -translate-y-1/2 h-5 w-5 text-muted-foreground" />
-          </div>
-          <div className="flex flex-wrap items-center gap-2">
-            {continents.map((continent) => (
-              <Button
-                key={continent}
-                variant={selectedContinent === continent ? 'default' : 'outline'}
-                onClick={() => setSelectedContinent(continent)}
-                className="rounded-full"
-              >
-                {continent}
-              </Button>
-            ))}
-          </div>
-        </div>
-      </Card>
+      <ListingToolbar
+        searchValue={searchTerm}
+        onSearchChange={setSearchTerm}
+        searchPlaceholder="Search countries, requirements..."
+        searchAriaLabel="Search visas"
+        selects={[
+          {
+            value: continentFilter || '',
+            onChange: (value) => setContinentFilter(value === '' ? null : value),
+            label: 'Filter by continent',
+            placeholder: 'Continents',
+            options: CONTINENTS.map((c) => ({ value: c, label: c })),
+            className: 'md:max-w-[180px]',
+          },
+        ]}
+        resultCount={isFiltering ? filteredVisas.length : null}
+      />
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
         {filteredVisas.map((visa) => <VisaCard key={visa.country} visa={visa} />)}
@@ -209,10 +198,17 @@ export function DigitalNomadVisasContent() {
       )}
 
       {filteredVisas.length === 0 && (
-        <div className="text-center py-16 text-muted-foreground bg-card rounded-lg mt-8">
-          <p className="font-medium text-lg">No countries found for your search.</p>
-          <p className="text-sm mt-2">Try adjusting your search filters.</p>
-        </div>
+        <ListingEmptyState
+          title="No visas found"
+          onClear={
+            isFiltering
+              ? () => {
+                  setSearchTerm('');
+                  setContinentFilter(null);
+                }
+              : undefined
+          }
+        />
       )}
     </div>
   );

@@ -3,12 +3,12 @@
 import { useState, useMemo, useRef, useEffect } from 'react';
 import Link from 'next/link';
 import { type PublicWeb3Event, getEventSlug, getEventCity, normalizeCountry } from '@/lib/events';
-import { Input } from '@/components/ui/input';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
-import { Search, Calendar, MapPin, ExternalLink, LayoutGrid, Map as MapIcon } from 'lucide-react';
+import { Calendar, MapPin, ExternalLink, LayoutGrid, Map as MapIcon } from 'lucide-react';
 import { Skeleton } from '@/components/ui/skeleton';
 import { EventCard } from '@/components/event-card';
+import { ListingEmptyState, ListingToolbar } from '@/components/listing-toolbar';
 import dynamic from 'next/dynamic';
 
 const EventMap = dynamic(() => import('@/components/event-map').then((module) => module.EventMap), { ssr: false });
@@ -239,94 +239,80 @@ export function EventsBoard({ initialEvents }: { initialEvents: PublicWeb3Event[
 
   return (
     <div>
-      {/* Search + Filters + Icon View Toggle in a single inline toolbar */}
-      <div className="mb-6 space-y-2">
-        <div className="flex flex-col md:flex-row gap-2.5 items-stretch md:items-center">
-          {/* Search Input */}
-          <div className="relative flex-1 min-w-0" role="search">
-            <Input
-              placeholder="Search events, locations..."
-              value={searchQuery}
-              onChange={(e) => { setSearchQuery(e.target.value); setVisibleCount(INITIAL_COUNT); }}
-              className="h-10 w-full rounded-md pl-9 pr-3 text-sm"
-              aria-label="Search events"
-            />
-            <Search className="absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-muted-foreground" aria-hidden="true" />
-          </div>
-
-          {/* Location & Date Filters + Icon-Only View Toggle */}
-          <div className="flex w-full items-center gap-2 md:w-auto md:shrink-0">
-            <select
-              value={countryFilter || ''}
-              onChange={(e) => { setCountryFilter(e.target.value === '' ? null : e.target.value); setVisibleCount(INITIAL_COUNT); }}
-              className="h-10 min-w-0 flex-1 truncate rounded-md border border-input bg-background px-3 text-sm text-foreground shadow-none focus:outline-none focus:ring-1 focus:ring-ring cursor-pointer md:flex-none md:max-w-[180px]"
-              aria-label="Filter by location"
+      <ListingToolbar
+        searchValue={searchQuery}
+        onSearchChange={(value) => {
+          setSearchQuery(value);
+          setVisibleCount(INITIAL_COUNT);
+        }}
+        searchPlaceholder="Search events, locations..."
+        searchAriaLabel="Search events"
+        selects={[
+          {
+            value: countryFilter || '',
+            onChange: (value) => {
+              setCountryFilter(value === '' ? null : value);
+              setVisibleCount(INITIAL_COUNT);
+            },
+            label: 'Filter by location',
+            placeholder: 'Locations',
+            options: countries.map((c) => ({ value: c, label: c })),
+            className: 'md:max-w-[180px]',
+          },
+          {
+            value: dateFilter || '',
+            onChange: (value) => {
+              setDateFilter(value === '' ? null : value);
+              setVisibleCount(INITIAL_COUNT);
+            },
+            label: 'Filter by date',
+            placeholder: 'Dates',
+            options: DATE_RANGES.map((r) => ({ value: r.value, label: r.label })),
+            className: 'md:max-w-[150px]',
+          },
+        ]}
+        trailing={
+          <div className="flex items-center gap-0.5 p-1 bg-muted/60 border border-border/60 rounded-md shrink-0 h-10">
+            <button
+              onClick={() => setViewMode('grid')}
+              className={`p-1.5 rounded transition-colors ${
+                viewMode === 'grid'
+                  ? 'bg-background text-foreground shadow-xs'
+                  : 'text-muted-foreground hover:text-foreground'
+              }`}
+              title="Grid View"
+              aria-label="Grid View"
             >
-              <option value="">All Locations</option>
-              {countries.map(c => (
-                <option key={c} value={c}>{c}</option>
-              ))}
-            </select>
-            <select
-              value={dateFilter || ''}
-              onChange={(e) => { setDateFilter(e.target.value === '' ? null : e.target.value); setVisibleCount(INITIAL_COUNT); }}
-              className="h-10 min-w-0 flex-1 truncate rounded-md border border-input bg-background px-3 text-sm text-foreground shadow-none focus:outline-none focus:ring-1 focus:ring-ring cursor-pointer md:flex-none md:max-w-[150px]"
-              aria-label="Filter by date"
+              <LayoutGrid className="w-4 h-4" />
+            </button>
+            <button
+              onClick={() => setViewMode('calendar')}
+              className={`p-1.5 rounded transition-colors ${
+                viewMode === 'calendar'
+                  ? 'bg-background text-foreground shadow-xs'
+                  : 'text-muted-foreground hover:text-foreground'
+              }`}
+              title="Calendar View"
+              aria-label="Calendar View"
             >
-              <option value="">All Dates</option>
-              {DATE_RANGES.map(r => (
-                <option key={r.value} value={r.value}>{r.label}</option>
-              ))}
-            </select>
-
-            {/* Icon-Only View Toggle */}
-            <div className="flex items-center gap-0.5 p-1 bg-muted/60 border border-border/60 rounded-md shrink-0 h-10">
-              <button
-                onClick={() => setViewMode('grid')}
-                className={`p-1.5 rounded transition-colors ${
-                  viewMode === 'grid'
-                    ? 'bg-background text-foreground shadow-xs'
-                    : 'text-muted-foreground hover:text-foreground'
-                }`}
-                title="Grid View"
-                aria-label="Grid View"
-              >
-                <LayoutGrid className="w-4 h-4" />
-              </button>
-              <button
-                onClick={() => setViewMode('calendar')}
-                className={`p-1.5 rounded transition-colors ${
-                  viewMode === 'calendar'
-                    ? 'bg-background text-foreground shadow-xs'
-                    : 'text-muted-foreground hover:text-foreground'
-                }`}
-                title="Calendar View"
-                aria-label="Calendar View"
-              >
-                <Calendar className="w-4 h-4" />
-              </button>
-              <button
-                onClick={() => setViewMode('map')}
-                className={`p-1.5 rounded transition-colors ${
-                  viewMode === 'map'
-                    ? 'bg-background text-foreground shadow-xs'
-                    : 'text-muted-foreground hover:text-foreground'
-                }`}
-                title="Map View"
-                aria-label="Map View"
-              >
-                <MapIcon className="w-4 h-4" />
-              </button>
-            </div>
+              <Calendar className="w-4 h-4" />
+            </button>
+            <button
+              onClick={() => setViewMode('map')}
+              className={`p-1.5 rounded transition-colors ${
+                viewMode === 'map'
+                  ? 'bg-background text-foreground shadow-xs'
+                  : 'text-muted-foreground hover:text-foreground'
+              }`}
+              title="Map View"
+              aria-label="Map View"
+            >
+              <MapIcon className="w-4 h-4" />
+            </button>
           </div>
-        </div>
-
-        {isSearching && (
-          <p className="text-xs text-muted-foreground pt-1" aria-live="polite">
-            Showing {filteredEvents.length} result{filteredEvents.length === 1 ? '' : 's'}
-          </p>
-        )}
-      </div>
+        }
+        resultCount={isSearching ? filteredEvents.length : null}
+      />
 
       {/* Grid View */}
       {viewMode === 'grid' && (
@@ -521,17 +507,14 @@ export function EventsBoard({ initialEvents }: { initialEvents: PublicWeb3Event[
       {viewMode === 'map' && <EventMap events={filteredEvents} />}
 
       {filteredEvents.length === 0 && (
-        <div className="text-center py-20 border-2 border-dashed rounded-lg col-span-full mt-8">
-          <Calendar className="mx-auto h-12 w-12 text-muted-foreground/40 mb-4" />
-          <h3 className="text-xl font-semibold">No Events Found</h3>
-          <p className="text-muted-foreground mt-2">Try adjusting your search or filters.</p>
-          <button
-            onClick={() => { setSearchQuery(''); setCountryFilter(null); setDateFilter(null); }}
-            className="mt-4 text-sm text-primary hover:underline"
-          >
-            Clear all filters
-          </button>
-        </div>
+        <ListingEmptyState
+          title="No events found"
+          onClear={() => {
+            setSearchQuery('');
+            setCountryFilter(null);
+            setDateFilter(null);
+          }}
+        />
       )}
     </div>
   );

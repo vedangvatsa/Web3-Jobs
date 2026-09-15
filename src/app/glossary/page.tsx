@@ -81,28 +81,22 @@ export default async function GlossaryPage({
       <main className="flex-grow">
         <PageShell>
           <section className="text-center mb-8">
-            <div className="site-container">
-              {searchParams.category ? (
-                <>
-                  <div className="mb-3">
-                    <Link href="/glossary" className="inline-flex items-center gap-1.5 text-xs text-muted-foreground hover:text-foreground">
-                      <ArrowLeft className="h-3.5 w-3.5" aria-hidden="true" />
-                      All Terms
-                    </Link>
-                  </div>
-                  <PageHeader
-                    title={searchParams.category}
-                    description={`Browse all ${searchParams.category} terms in our Web3 glossary.`}
-                  />
-                </>
-              ) : (
-                <>
-                  <PageHeader
-                    title="Web3 Glossary"
-                  />
-                </>
-              )}
-            </div>
+            {searchParams.category ? (
+              <>
+                <div className="mb-3">
+                  <Link href="/glossary" className="inline-flex items-center gap-1.5 text-xs text-muted-foreground hover:text-foreground">
+                    <ArrowLeft className="h-3.5 w-3.5" aria-hidden="true" />
+                    All Terms
+                  </Link>
+                </div>
+                <PageHeader
+                  title={searchParams.category}
+                  description={`Browse all ${searchParams.category} terms in our Web3 glossary.`}
+                />
+              </>
+            ) : (
+              <PageHeader title="Web3 Glossary" />
+            )}
           </section>
 
           <GlossaryPageClient

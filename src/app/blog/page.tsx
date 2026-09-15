@@ -1,5 +1,6 @@
 import { getAllArticles } from '@/lib/articles';
 import { BlogPageClientWrapper } from '@/components/blog-page-client-wrapper';
+import { PageShell } from '@/components/page-shell';
 import type { Metadata } from 'next';
 import type { CollectionPage, WithContext } from 'schema-dts';
 
@@ -31,11 +32,10 @@ export const metadata: Metadata = {
  },
 };
 
-// The page can be statically generated because useSearchParams is wrapped in a Suspense boundary in BlogPageClientWrapper
 export default async function PlaybookIndexPage() {
- const allArticles = await getAllArticles();
- const categories = ['All', ...[...new Set(allArticles.map(a => a.category))].sort()];
- 
+ const allArticles = (await getAllArticles()).filter((a) => a.category !== 'News');
+ const categories = [...new Set(allArticles.map((a) => a.category))].sort();
+
  const siteUrl = 'https://hashtagweb3.com';
  const blogSchema: WithContext<CollectionPage> = {
   '@context': 'https://schema.org',
@@ -46,18 +46,16 @@ export default async function PlaybookIndexPage() {
  };
 
  return (
-  <div className="bg-background">
+  <div className="flex flex-col min-h-screen bg-background">
    <script
     type="application/ld+json"
     dangerouslySetInnerHTML={{ __html: JSON.stringify(blogSchema) }}
    />
-   <div className="flex flex-col min-h-screen">
-        <main className="flex-1">
-     <div className="bg-background">
-       <BlogPageClientWrapper allArticles={allArticles.slice(0, INITIAL_ARTICLE_COUNT)} categories={categories} />
-     </div>
-    </main>
-   </div>
+   <main className="flex-1">
+    <PageShell>
+      <BlogPageClientWrapper allArticles={allArticles.slice(0, INITIAL_ARTICLE_COUNT)} categories={categories} />
+    </PageShell>
+   </main>
   </div>
  );
 }
