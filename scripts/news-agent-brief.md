@@ -94,6 +94,9 @@ When in doubt, shorter and plainer wins.
 
 - `npx tsx scripts/audit-article-quality.ts --report` → your files clean
   (pre-existing failures elsewhere are baseline; yours must be absent).
+- `npx tsx scripts/audit-article-images.ts` → zero failures repo-wide
+  (this is a hard gate: missing/tiny/placeholder heroes and absent photo
+  credits fail it).
 - `npx tsx scripts/audit-articles-formatting.ts` → zero issues in your files.
 - `npx tsc --noEmit` → zero errors (if unrelated files fail, report and stop
   without pushing anything — never push on a red tree).
