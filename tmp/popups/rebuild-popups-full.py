@@ -300,7 +300,7 @@ def apply_arc_site_facts(obj: dict) -> None:
     obj["history"] = [
         "2024 - Arc Lisbon pop-up (September–October), with Lisbon Web3 and tech community partners",
         "2025 - Arc Austin pop-up during Austin tech week (March); Singapore pop-up (September–October)",
-        "2025 to 2026 - Activation at Network School in the Singapore–Johor SEZ: 1,000 founders helped, 500+ events, accelerator cohorts, and fund deployment",
+        "2025 to 2026 - Activation at Network School in Kazakhstan (Astana campus; prior site in Forest City, Malaysia)",
         "2026 - Live on Mirissa Beach, Sri Lanka; First Capital Startup Nation with Hatch in Colombo (28 September–1 October)",
     ]
     obj["durationNotes"] = [
@@ -311,7 +311,7 @@ def apply_arc_site_facts(obj: dict) -> None:
     obj["locationDetails"] = [
         "Primary campus: Asaya, a beachfront campus in Mirissa, Sri Lanka",
         "Arc Sri Lanka connects builders to Colombo and national institutions",
-        "Prior activation: Network School in Forest City, Malaysia (Singapore–Johor SEZ)",
+        "Prior activation: Network School in Astana, Kazakhstan (formerly Forest City, Malaysia until 2026)",
     ]
     obj["overview"] = [
         "Arc accelerates the trajectory of people and places and ships legal, capital, and company infrastructure together.",
@@ -368,6 +368,9 @@ def main() -> None:
 
         if obj["slug"] == "arc":
             apply_arc_site_facts(obj)
+
+        if obj["slug"] == "ns":
+            obj["location"] = "Astana, Kazakhstan"
 
         sources = obj.get("sources") or []
         if "ns" in sources:

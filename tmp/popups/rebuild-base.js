@@ -16,7 +16,7 @@ const popups = [
     slug: 'ns',
     name: 'Network School',
     tagline: 'Cloud communities made physical',
-    location: 'Singapore / Kazakhstan',
+    location: 'Astana, Kazakhstan',
     type: 'permanent',
     themes: ['AI', 'Crypto', 'Business'],
     website: 'https://ns.com',
@@ -33,8 +33,8 @@ const popups = [
     summary: 'A society-as-a-service campus for techno-optimists building startup societies in person.',
     body: [
       'Network School turns online builder communities into a physical campus, with shared meals, gym access, and housing treated as part of the product.',
-      'It started in Forest City, Malaysia and has since moved toward a new campus footprint spanning Singapore and Kazakhstan.',
-      'The project sits at the center of the broader Network States dashboard and hosts Layer-2 efforts like Ârc.',
+      'The campus is in Astana, Kazakhstan, in partnership with the Republic of Kazakhstan; ns.com lists the Astana Hub site and an all-in membership covering room, food, gym, and coworking.',
+      'The first v1 cohort ran in Forest City, Malaysia before the program reopened in Kazakhstan. The project sits at the center of the broader Network States dashboard and hosts Layer-2 efforts like Arc.',
     ],
   },
   {
@@ -255,7 +255,7 @@ const popups = [
     body: [
       'Arc is a community of founders, engineers, investors, and creators who live, work, and build together. After experiments on three continents, it chose Sri Lanka as its first long-term place.',
       'The open home is Asaya, a beachfront campus on Mirissa Beach. Programming includes Ascend and the Fulgur, Curious, and Arc Angel funds.',
-      'Arc activated Network School in Malaysia from 2025 to 2026 before applying the same pop-up-then-permanent playbook in Sri Lanka, including First Capital Startup Nation in Colombo.',
+      'Arc activated Network School in Kazakhstan (Astana) and Malaysia before applying the same pop-up-then-permanent playbook in Sri Lanka, including First Capital Startup Nation in Colombo.',
     ],
   },
   {
