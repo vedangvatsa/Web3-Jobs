@@ -4,8 +4,7 @@ ogTitle: "FCA CRYPTO AUTHORISATION WINDOW OPENS SEPT 30"
 description: >-
   Britain's FCA will accept crypto authorisation applications from Sept. 30,
   2026 to Feb. 28, 2027 ahead of full rules taking effect in October 2027.
-image: >-
-  https://upload.wikimedia.org/wikipedia/commons/8/8b/London_financial_district.jpg
+image: /images/news/fca-gateway.jpg
 imageCaption: "The City of London financial district with the Gherkin. Photo: KrakenHammer via Wikimedia Commons (CC BY 3.0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:London_financial_district.jpg
 category: News

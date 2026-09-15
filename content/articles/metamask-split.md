@@ -4,8 +4,7 @@ description: >-
   MetaMask says it will become a consumer-focused company while a new Consensys
   takes on Linea, Besu, Teku, and institutional infrastructure. The plan is
   expected to complete by the end of 2026.
-image: >-
-  https://images.ctfassets.net/clixtyxoaeas/3YKpVQ1RIuH2HvXaS5uyVp/7c170e89b409902ff64c4e0856733341/20e287d7-55e5-4cea-994c-86dc7174e6cf.png
+image: /images/news/metamask-split.png
 imageFit: contain
 imageCaption: "MetaMask and Consensys separation announcement imagery. Image via MetaMask."
 imageCreditUrl: https://metamask.io/news/consensys-software-inc-to-become-two-independent-companies-metamask-and-consensys

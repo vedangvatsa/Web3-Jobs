@@ -5,8 +5,7 @@ description: >-
   BlackRock's ETHB has drawn $307.72 million across 20 trading days without a
   single outflow day as its assets pass $1 billion, while the larger ETHA still
   leads ether ETF demand.
-image: >-
-  https://upload.wikimedia.org/wikipedia/commons/4/45/50_Hudson_Yards.png
+image: /images/news/ether-staking.jpg
 imageCaption: "50 Hudson Yards, Manhattan, headquarters of BlackRock. Photo: Dazzling4 via Wikimedia Commons (CC BY-SA 4.0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:50_Hudson_Yards.png
 category: News

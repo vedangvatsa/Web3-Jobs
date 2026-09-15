@@ -4,8 +4,7 @@ description: >-
   SEBI's Demat 2.0 pilot tests tokenised corporate-bond issuance, holding,
   settlement and servicing within India's existing regulated market
   infrastructure.
-image: >-
-  https://upload.wikimedia.org/wikipedia/commons/0/04/BSE_-_Bombay_Stock_Exchange_Building.jpg
+image: /images/news/demat-2.jpg
 imageCaption: "The Bombay Stock Exchange building on Dalal Street, Mumbai. Photo: Niyantha Shekhar via Wikimedia Commons (CC BY 2.0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:BSE_-_Bombay_Stock_Exchange_Building.jpg
 category: News

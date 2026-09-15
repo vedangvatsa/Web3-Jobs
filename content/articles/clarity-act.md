@@ -4,8 +4,7 @@ description: >-
   A Senate substitute for H.R. 3633 would direct the SEC, CFTC, and Treasury to
   write activity-based rules for people who control defined non-decentralized
   DeFi trading protocols.
-image: >-
-  https://upload.wikimedia.org/wikipedia/commons/4/4f/US_Capitol_west_side.JPG
+image: /images/news/clarity-act.jpg
 imageCaption: "Panoramic daytime view of the west front of the U.S. Capitol in Washington, D.C. Photo: Martin Falbisoner via Wikimedia Commons (CC BY-SA 3.0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:US_Capitol_west_side.JPG
 category: News

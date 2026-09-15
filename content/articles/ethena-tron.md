@@ -4,8 +4,7 @@ description: >-
   Ethena Labs and TRON DAO announced that USDe and sUSDe are live on TRON via
   Stargate Finance for bridging, holding, and transfers, with DeFi
   integrations on JustLend DAO and SUN.io expected in coming weeks.
-image: >-
-  https://upload.wikimedia.org/wikipedia/commons/5/52/Head_of_the_Grenadian_Delegation_to_the_12th_World_Trade_Organization_Ministerial_Conference_Justin_Sun.jpg
+image: /images/news/ethena-tron.jpg
 imageCaption: "TRON founder Justin Sun at the 12th WTO Ministerial Conference in Geneva. Photo: World Trade Organization via Wikimedia Commons (CC BY-SA 2.0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Head_of_the_Grenadian_Delegation_to_the_12th_World_Trade_Organization_Ministerial_Conference_Justin_Sun.jpg
 category: News

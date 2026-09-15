@@ -5,8 +5,7 @@ description: >-
   tenge, positioning it as the first non-U.S.-dollar stablecoin on the TON
   network and the first national-currency stablecoin on Telegram in Central
   Asia.
-image: >-
-  https://upload.wikimedia.org/wikipedia/commons/4/42/Central_Downtown_Astana_pamorama.jpg
+image: /images/news/kztg-stablecoin.jpg
 imageCaption: "Night panorama of central Astana with the Ak Orda Presidential Palace. Photo: Ken and Nyetta via Wikimedia Commons (CC BY 2.0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Central_Downtown_Astana_pamorama.jpg
 category: News

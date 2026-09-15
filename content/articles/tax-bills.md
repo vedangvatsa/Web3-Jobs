@@ -5,8 +5,7 @@ description: >-
   let miners and stakers defer taxes on new token rewards, and H.R. 9172,
   which would extend wash-sale restrictions to digital assets, though reports
   say Republicans may strip the mining provisions.
-image: >-
-  https://upload.wikimedia.org/wikipedia/commons/2/27/Capitol_Building_Full_View.jpg
+image: /images/news/tax-bills.jpg
 imageCaption: "Wide view of the western front of the U.S. Capitol, seat of the U.S. Congress. Photo: Noclip via Wikimedia Commons (public domain)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Capitol_Building_Full_View.jpg
 category: News

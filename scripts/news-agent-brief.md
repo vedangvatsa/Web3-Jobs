@@ -75,11 +75,20 @@ When in doubt, shorter and plainer wins.
 - The host must already be in next.config.mjs `images.remotePatterns`
   (upload.wikimedia.org is). If the best image needs a new official host,
   add it to remotePatterns in the same run.
+- SELF-HOST the image: Wikimedia rate-limits hotlinked originals (HTTP 429),
+  which breaks on-site rendering. Download it with a descriptive User-Agent
+  (`HashtagWeb3NewsBot/1.0 (+https://hashtagweb3.com; editorial image use
+  with attribution)`), pause 2-3s between downloads, resize to max 1920px
+  wide (`sips -Z 1920 <tmp> --out public/images/news/<slug>.jpg`), and
+  reference the LOCAL path in front matter. Never hotlink upload.wikimedia.org
+  originals in `image:`.
 - Front matter MUST include:
+  image: /images/news/<slug>.jpg
   imageCaption: "<what the photo shows>. Photo: <author> via <source> (<license>)."
   imageCreditUrl: <source page URL>
   (Quote the caption value since it contains colons.)
-- Confirm the image URL returns HTTP 200 before using it.
+- Confirm the local file exists and renders (curl the page, check for the
+  /images/news/ path in the HTML) before publishing.
 
 ## 5. Gates (all must pass — repair once, else drop the story)
 
