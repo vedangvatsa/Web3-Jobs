@@ -1,5 +1,5 @@
 {
-  "lastIndex": 187,
+  "lastIndex": 188,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -80,7 +80,8 @@
     "engineer89005",
     "operations20004",
     "engineer66009",
-    "trader68003"
+    "trader68003",
+    "technology97b02"
   ],
   "history": [
     {
@@ -3428,6 +3429,63 @@
       "platform": "instagram",
       "postedAt": "2026-09-15T12:45:20.325Z",
       "postId": "18471611635112786",
+      "verification": "verified"
+    },
+    {
+      "slug": "technology97b02",
+      "company": "Coins.ph",
+      "title": "Technology Lead (Mandarin Speaking)",
+      "platform": "x",
+      "postedAt": "2026-09-15T17:42:41.390Z",
+      "postId": "2099916830047453186",
+      "verification": "verified"
+    },
+    {
+      "slug": "technology97b02",
+      "company": "Coins.ph",
+      "title": "Technology Lead (Mandarin Speaking)",
+      "platform": "threads",
+      "postedAt": "2026-09-15T17:42:41.390Z",
+      "postId": "18117302170747510",
+      "verification": "verified",
+      "expectedText": "Coins.ph is hiring Technology Lead (Mandarin Speaking): https://hashtagweb3.com/technology97b02/th?og=2",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DdURe6BFpR8",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "technology97b02",
+      "company": "Coins.ph",
+      "title": "Technology Lead (Mandarin Speaking)",
+      "platform": "bluesky",
+      "postedAt": "2026-09-15T17:42:41.390Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mvl6embud62g",
+      "verification": "verified"
+    },
+    {
+      "slug": "technology97b02",
+      "company": "Coins.ph",
+      "title": "Technology Lead (Mandarin Speaking)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-15T17:42:41.390Z",
+      "postId": "0xf1c7577801c757f16e198e1694c83e07c465385c",
+      "verification": "verified"
+    },
+    {
+      "slug": "technology97b02",
+      "company": "Coins.ph",
+      "title": "Technology Lead (Mandarin Speaking)",
+      "platform": "linkedin",
+      "postedAt": "2026-09-15T17:42:41.390Z",
+      "postId": "6aa983a928cae1bb91963cd5",
+      "verification": "verified"
+    },
+    {
+      "slug": "technology97b02",
+      "company": "Coins.ph",
+      "title": "Technology Lead (Mandarin Speaking)",
+      "platform": "facebook",
+      "postedAt": "2026-09-15T17:42:41.390Z",
+      "postId": "691827047618629_1089261217014446",
       "verification": "verified"
     }
   ]
