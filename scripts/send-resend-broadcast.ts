@@ -130,6 +130,11 @@ async function main() {
   const html = buildHtml(jobs);
   const text = buildText(jobs);
 
+  if (args.includes('--preview')) {
+    console.log('--- SUBJECT ---\n' + subject + '\n--- TEXT BODY ---\n' + text);
+    return;
+  }
+
   if (isDryRun) {
     // Validate end-to-end by creating a draft, then delete it. Never sends.
     const created = await resend.broadcasts.create({
