@@ -11,7 +11,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Marina_Bay_Singapore-349
 category: News
 data-ai-hint: singapore marina bay night
 publishedDate: '2026-09-15'
-lastUpdated: '2026-09-15'
+lastUpdated: "2026-09-15"
 ---
 
 VeChainThor activates its Interstellar hardfork on Sept. 16 at block 25,902,540, packing 11 Ethereum improvements into one upgrade, according to a [Sept. 14 report by CoinTrust](https://www.cointrust.com/market-news/vechain-interstellar-upgrade-set-to-transform-thor-network). Holders do not need to move tokens or change contract addresses.

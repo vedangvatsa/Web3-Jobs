@@ -10,7 +10,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Bitcoins.jpg
 category: News
 data-ai-hint: physical bitcoin coins
 publishedDate: '2026-09-14'
-lastUpdated: "2026-09-14"
+lastUpdated: "2026-09-15"
 ogTitle: SYMBIOSIS RECOVERS 15 BTC AFTER BRIDGE EXPLOIT
 ---
 

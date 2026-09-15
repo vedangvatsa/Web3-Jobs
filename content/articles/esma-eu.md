@@ -10,7 +10,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Representation_Europeenn
 category: News
 data-ai-hint: european union flags paris
 publishedDate: '2026-09-12'
-lastUpdated: "2026-09-13"
+lastUpdated: "2026-09-15"
 ogTitle: EU REGULATOR ESMA SETS PREDICTION MARKET RULES
 ---
 

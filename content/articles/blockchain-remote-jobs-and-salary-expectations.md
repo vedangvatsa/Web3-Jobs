@@ -8,7 +8,7 @@ description: >-
   risks, and the habits needed for distributed teams.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-13"
+lastUpdated: "2026-09-15"
 ---
 
 Remote work is common in blockchain companies and open-source projects because contributors, users, and infrastructure are often distributed across countries and time zones. "Remote" does not mean that location never matters. Employers may hire only in places where they have an entity or employer-of-record provider, restrict work for tax or regulatory reasons, require overlap with a team, or classify workers as employees or contractors under different terms.

@@ -7,7 +7,7 @@ description: >-
   faster.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-13"
+lastUpdated: "2026-09-15"
 ---
 ### 1. Observe - The Silent Curriculum
 

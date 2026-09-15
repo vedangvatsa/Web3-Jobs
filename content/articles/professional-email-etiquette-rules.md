@@ -8,7 +8,7 @@ description: >-
 category: Career Guides
 data-ai-hint: professional email
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-13"
+lastUpdated: "2026-09-15"
 ---
 ## Introduction: Your Emails Are Your Reputation
 

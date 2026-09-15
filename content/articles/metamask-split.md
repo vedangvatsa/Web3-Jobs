@@ -11,7 +11,7 @@ imageCreditUrl: https://metamask.io/news/consensys-software-inc-to-become-two-in
 category: News
 data-ai-hint: MetaMask Money Account
 publishedDate: '2026-09-12'
-lastUpdated: "2026-09-13"
+lastUpdated: "2026-09-15"
 ogTitle: METAMASK PREPARES CONSUMER SPLIT FROM CONSENSYS
 ---
 

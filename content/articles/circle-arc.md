@@ -11,7 +11,7 @@ imageCreditUrl: https://www.circle.com/pressroom/circle-announces-founding-valid
 category: News
 data-ai-hint: circle arc validator cohort announcement
 publishedDate: '2026-09-15'
-lastUpdated: '2026-09-15'
+lastUpdated: "2026-09-15"
 ---
 
 Circle's Arc network opens its public mainnet on Sept. 16, secured at launch by BlackRock, DTCC, Visa, Mastercard, and seven more financial institutions as founding validators. A Sept. 15 report [carried by Gate](https://www.gate.com/news/detail/pools-partners-with-arc-as-first-launchpad-arc-mainnet-launches-september-24279535) confirms the schedule.

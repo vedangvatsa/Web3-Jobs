@@ -10,7 +10,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Dubai_skyline_unsplash.j
 category: News
 data-ai-hint: dubai skyline night united arab emirates
 publishedDate: '2026-09-15'
-lastUpdated: '2026-09-15'
+lastUpdated: "2026-09-15"
 ---
 
 Avalanche announced Sept. 14 that the Digital Vault inside the UAE's UAEPASS national identity platform now runs on a dedicated Avalanche Layer 1, serving about 12.5 million people. The move was [reported as confirmed by federal regulator TDRA and Ava Labs](https://crypto-economy.com/uae-moves-national-digital-identity-vault-onto-avalanche-blockchain/), and Avalanche's official account [posted it the same day](https://coinlaw.io/avalanche-uaepass-vault-12-5-million-users/).

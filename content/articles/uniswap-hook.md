@@ -10,7 +10,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Vitalik_Buterin_TechCrun
 category: News
 data-ai-hint: vitalik buterin ethereum stage
 publishedDate: '2026-09-12'
-lastUpdated: "2026-09-13"
+lastUpdated: "2026-09-15"
 ogTitle: UNISWAP DEPLOYS STABLEPAIR HOOK ON ETHEREUM
 ---
 

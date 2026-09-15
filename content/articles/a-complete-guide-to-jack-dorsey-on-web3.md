@@ -9,7 +9,7 @@ image: /images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg
 category: Industry Insights
 data-ai-hint: man walking
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-13"
+lastUpdated: "2026-09-15"
 ---
 
 Jack Dorsey's public position is narrower than the term "Web3" suggests. He supports Bitcoin, open protocols, self-custody, and systems that reduce dependence on a single company. He has also argued that venture-funded token networks should not be described as user-owned. That is a critique of how many crypto projects were financed and governed, not a technical proof that every non-Bitcoin network is centralized.

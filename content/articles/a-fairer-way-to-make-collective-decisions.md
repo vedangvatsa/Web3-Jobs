@@ -8,7 +8,7 @@ description: >-
   pool to amplify the power of small community donations, creating a more.
 category: Industry Insights
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-13"
+lastUpdated: "2026-09-15"
 ---
 
 Quadratic funding is a rule for dividing a fixed matching pool among projects. It gives extra weight to broad support: many small donations can earn more matching money than the same dollar total from one donor. It is most often discussed for public goods such as open-source software, research, documentation, local projects, and shared infrastructure.

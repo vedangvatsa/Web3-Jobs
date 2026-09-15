@@ -10,7 +10,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:London_financial_distric
 category: News
 data-ai-hint: city of london financial district gherkin
 publishedDate: '2026-09-15'
-lastUpdated: '2026-09-15'
+lastUpdated: "2026-09-15"
 ---
 
 The Financial Conduct Authority opens its crypto authorisation gateway on Sept. 30, 2026 and closes it on Feb. 28, 2027, according to the FCA's [cryptoassets page](https://www.fca.org.uk/firms/cryptoassets-information). Full rules take effect Oct. 25, 2027.

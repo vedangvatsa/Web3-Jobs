@@ -9,7 +9,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Tel_Aviv_Skyline_03.jpg
 category: News
 data-ai-hint: tel aviv skyline
 publishedDate: '2026-09-12'
-lastUpdated: "2026-09-13"
+lastUpdated: "2026-09-15"
 ogTitle: STARKNET ENABLES OPTIMISTIC PARALLEL EXECUTION
 ---
 

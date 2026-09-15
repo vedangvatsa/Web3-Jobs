@@ -10,7 +10,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:NYC_-_New_York_Stock_Exc
 category: News
 data-ai-hint: new york stock exchange facade
 publishedDate: '2026-09-12'
-lastUpdated: "2026-09-13"
+lastUpdated: "2026-09-15"
 ogTitle: KALSHI PLANS 24/7 TESLA & NVIDIA PERPETUALS
 ---
 

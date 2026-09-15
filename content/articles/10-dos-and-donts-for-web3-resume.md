@@ -8,7 +8,7 @@ description: >-
   cut, and how to prepare for blockchain roles.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-13"
+lastUpdated: "2026-09-15"
 ---
 
 A Web3 resume should let a reviewer verify what you can do. The work may be public: a contract deployment, merged pull request, governance proposal, research note, design file, analytics query, or product release. That visibility is useful only when the link and the claim match.

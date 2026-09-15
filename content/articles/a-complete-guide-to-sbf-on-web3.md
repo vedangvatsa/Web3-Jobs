@@ -8,7 +8,7 @@ image: /images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg
 category: Industry Insights
 data-ai-hint: man portrait
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-13"
+lastUpdated: "2026-09-15"
 ---
 Sam Bankman-Fried, often called SBF, co-founded the crypto exchange FTX and the trading firm Alameda Research. By 2022, those companies had become major counterparties in crypto markets, investors in startups, and sponsors of sports and media deals. In November 2022, FTX entered Chapter 11 bankruptcy. A federal jury later found Bankman-Fried guilty of fraud and related offenses. In March 2024, a judge sentenced him to 25 years in prison. The [U.S. Attorney's Office for the Southern District of New York](https://www.justice.gov/usao-sdny/pr/samuel-bankman-fried-sentenced-25-years-prison-his-orchestration-multiple-fraudulent) said the sentence followed a scheme that stole more than $8 billion from FTX customers.
 

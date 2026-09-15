@@ -10,7 +10,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:NASDAQ_stock_market_disp
 category: News
 data-ai-hint: nasdaq times square night
 publishedDate: '2026-09-14'
-lastUpdated: "2026-09-14"
+lastUpdated: "2026-09-15"
 ogTitle: NASDAQ INVESTS $100M IN PAYWARD FOR TOKENIZED EQUITIES
 ---
 

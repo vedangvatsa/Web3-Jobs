@@ -8,7 +8,7 @@ description: >-
   skills, and a practical route into quality engineering for dApps.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-13"
+lastUpdated: "2026-09-15"
 ---
 
 A Web3 quality-assurance engineer checks whether a blockchain product behaves as intended across its contracts, interfaces, services, and user flows. The role overlaps with software QA, test engineering, and product quality work. It is different from a security audit, though the two disciplines share useful habits. QA asks whether the product meets its requirements under normal and unusual conditions. A security review asks how an attacker or unsafe assumption could cause harm.

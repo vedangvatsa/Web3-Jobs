@@ -11,7 +11,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:The_Grand_Palace_@_Bangk
 category: News
 data-ai-hint: grand palace bangkok thailand night
 publishedDate: '2026-09-15'
-lastUpdated: '2026-09-15'
+lastUpdated: "2026-09-15"
 ---
 
 Thailand's Securities and Exchange Commission board has approved principles capping stablecoin transfers at 5 million baht per day, roughly $151,000, and banning licensed operators from touching third-party wallets. The decision, published as [SEC announcement No. 183/2026 dated Sept. 3](https://www.sec.or.th/EN/Pages/News_Detail.aspx?SECID=13294), is out for public comment until Sept. 25, [Crypto Briefing reported](https://cryptobriefing.com/thailand-sec-stablecoin-transfer-cap/).

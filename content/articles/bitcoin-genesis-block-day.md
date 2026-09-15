@@ -7,7 +7,7 @@ description: >-
   professionals.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-13"
+lastUpdated: "2026-09-15"
 ---
 
 Bitcoin's genesis block is block height 0, the fixed starting point of the Bitcoin main chain. Its block hash is `000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f`. Every Bitcoin Core mainnet node carries this value in its chain parameters and checks that the locally constructed genesis block produces it. That is more precise than saying the block is merely "the first block mined." It is a shared protocol constant. Nodes need the same starting block before they can evaluate which later chain has the most accumulated proof of work.

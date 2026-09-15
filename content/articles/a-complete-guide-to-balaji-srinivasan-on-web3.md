@@ -8,7 +8,7 @@ image: /images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg
 category: Industry Insights
 data-ai-hint: man speech
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-13"
+lastUpdated: "2026-09-15"
 ---
 
 Balaji Srinivasan is an entrepreneur, investor, and writer whose Web3 arguments connect cryptography with political organization. His best-known statement of that argument is *The Network State*, a book published online in 2022. It asks whether internet-native communities could eventually establish physical territory and gain recognition from existing states. That is a proposal, not a description of an existing form of sovereignty.

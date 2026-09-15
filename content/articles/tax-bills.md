@@ -11,7 +11,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Capitol_Building_Full_Vi
 category: News
 data-ai-hint: us capitol congress washington
 publishedDate: '2026-09-14'
-lastUpdated: "2026-09-14"
+lastUpdated: "2026-09-15"
 ogTitle: HOUSE WEIGHS TWO CRYPTO TAX BILLS FOR SEPT. 16 MARKUP
 ---
 

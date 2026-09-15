@@ -10,7 +10,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:View_of_Financial_Distri
 category: News
 data-ai-hint: san francisco financial district
 publishedDate: '2026-09-12'
-lastUpdated: "2026-09-13"
+lastUpdated: "2026-09-15"
 ogTitle: COINBASE WALLET & BASE PRODUCT SEPARATION
 ---
 

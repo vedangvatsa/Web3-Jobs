@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Tanker_waiting_to_enter_
 category: News
 data-ai-hint: oil tanker at sea
 publishedDate: '2026-09-15'
-lastUpdated: '2026-09-15'
+lastUpdated: "2026-09-15"
 ---
 
 Federal prosecutors in Manhattan filed a civil forfeiture complaint on Sept. 14 seeking about $61 million in cryptocurrency allegedly from black-market sales of sanctioned Iranian crude oil and petroleum products. [Iran International reported](https://www.iranintl.com/en/202609151291) the filing on Sept. 15, identifying the US Attorney's Office for the Southern District of New York as the office bringing the case.

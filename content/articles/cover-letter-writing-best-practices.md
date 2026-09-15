@@ -7,7 +7,7 @@ description: >-
   repeatable structure, examples, and final review checklist.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-13"
+lastUpdated: "2026-09-15"
 ---
 
 A cover letter is useful when it answers questions that your [resume](/how-to-build-a-web3-resume-that-stands-out) cannot answer quickly: why this role, why this team, and which part of your record is most relevant. It is not a prose version of your resume. A hiring manager should be able to read it in a minute, understand your fit, and find evidence to verify in the resume or portfolio.

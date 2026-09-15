@@ -7,7 +7,7 @@ description: >-
 category: Educational
 data-ai-hint: price impact
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-13"
+lastUpdated: "2026-09-15"
 ---
 ## Understanding Price Impact in DEX Trading
 

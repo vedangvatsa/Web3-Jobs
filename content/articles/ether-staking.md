@@ -11,7 +11,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:50_Hudson_Yards.png
 category: News
 data-ai-hint: blackrock headquarters new york hudson yards
 publishedDate: '2026-09-15'
-lastUpdated: '2026-09-15'
+lastUpdated: "2026-09-15"
 ---
 
 Investors have put $307.72 million into BlackRock's ether staking ETF across 20 straight trading days without pulling a dollar out. The run started July 28 and was still intact on Sept. 11, according to SoSoValue data [reported Sept. 14 by news.bitcoin.com](https://news.bitcoin.com/finance/blackrock-ether-staking-etf-draws-308m-over-20-days-as-assets-top-1b/).
