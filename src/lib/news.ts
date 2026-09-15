@@ -1,4 +1,5 @@
 import type { NewsItem } from '@/types';
+import { sameEvent } from '@/lib/news-story-dedup';
 import * as fs from 'fs';
 import * as path from 'path';
 
@@ -76,12 +77,63 @@ function isDuplicate(title1: string, title2: string): boolean {
   return false;
 }
 
+const PREDICTION_TICKER_RE = /^([A-Z0-9]{2,10})\s+Price\s+Prediction\b/i;
+
+function extractPredictionTicker(title: string): string | null {
+  const match = PREDICTION_TICKER_RE.exec(title);
+  return match ? match[1].toUpperCase() : null;
+}
+
+function isNativeNewsItem(item: NewsItem): boolean {
+  return item.source === 'Hashtag Web3' || item.link.startsWith('/');
+}
+
+function textsLikelySameStory(a: string, b: string): boolean {
+  if (!a.trim() || !b.trim()) return false;
+  if (isDuplicate(a, b)) return true;
+  return sameEvent(a, b);
+}
+
+/** True when two feed rows cover the same story (including native vs RSS wording). */
+export function isSameNewsStory(a: NewsItem, b: NewsItem): boolean {
+  const tickA = extractPredictionTicker(a.title);
+  const tickB = extractPredictionTicker(b.title);
+  if (tickA && tickB && tickA !== tickB) return false;
+
+  if (textsLikelySameStory(a.title, b.title)) return true;
+
+  const nativePair = isNativeNewsItem(a) !== isNativeNewsItem(b);
+  if (nativePair) {
+    const native = isNativeNewsItem(a) ? a : b;
+    const external = isNativeNewsItem(a) ? b : a;
+    if (textsLikelySameStory(native.title, external.title)) return true;
+    if (textsLikelySameStory(native.title, external.contentSnippet)) return true;
+    if (
+      textsLikelySameStory(
+        `${native.title} ${native.contentSnippet}`,
+        `${external.title} ${external.contentSnippet}`,
+      )
+    ) {
+      return true;
+    }
+  }
+
+  return false;
+}
+
 export function deduplicateNewsItems(items: NewsItem[]): NewsItem[] {
   const uniqueItems: NewsItem[] = [];
 
   for (const item of items) {
-    if (!uniqueItems.some((unique) => isDuplicate(item.title, unique.title))) {
+    const matchIndex = uniqueItems.findIndex((existing) => isSameNewsStory(item, existing));
+    if (matchIndex === -1) {
       uniqueItems.push(item);
+      continue;
+    }
+
+    const existing = uniqueItems[matchIndex];
+    if (isNativeNewsItem(item) && !isNativeNewsItem(existing)) {
+      uniqueItems[matchIndex] = item;
     }
   }
 

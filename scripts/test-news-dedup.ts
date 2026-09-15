@@ -1,0 +1,70 @@
+import assert from 'node:assert/strict';
+import type { NewsItem } from '../src/types';
+import { deduplicateNewsItems, isSameNewsStory } from '../src/lib/news';
+import { sameEvent } from '../src/lib/news-story-dedup';
+
+function item(partial: Partial<NewsItem> & Pick<NewsItem, 'title' | 'link'>): NewsItem {
+  return {
+    pubDate: '2026-09-15T12:00:00.000Z',
+    creator: 'Author',
+    contentSnippet: 'Snippet text about web3.',
+    source: 'Example',
+    ...partial,
+  };
+}
+
+function main() {
+  const clarityNative = item({
+    title: 'Senate Blocks Clarity Act on Procedural Vote',
+    link: '/clarity-act',
+    source: 'Hashtag Web3',
+    contentSnippet: 'The Senate voted 49–50 on cloture for the Clarity Act.',
+  });
+  const clarityRss = item({
+    title: "Crypto's Clarity Act is a Schrödinger's cat in life-death limbo as U.S. Senate returns",
+    link: 'https://www.coindesk.com/news-analysis/clarity',
+    source: 'Coindesk',
+    contentSnippet: 'The Senate returns with the Clarity Act in limbo.',
+  });
+  assert.equal(isSameNewsStory(clarityNative, clarityRss), true);
+
+  const nasdaqNative = item({
+    title: 'Nasdaq Invests $100 Million in Payward to Advance Tokenization',
+    link: '/nasdaq-kraken',
+    source: 'Hashtag Web3',
+    contentSnippet: 'Nasdaq will invest $100 million in Payward.',
+  });
+  const nasdaqRss = item({
+    title: 'Nasdaq to invest $100 million in Kraken parent Payward',
+    link: 'https://example.com/nasdaq-payward',
+    source: 'The Block',
+    contentSnippet: 'The exchange backs Payward.',
+  });
+  assert.equal(isSameNewsStory(nasdaqNative, nasdaqRss), true);
+
+  const coin = item({
+    title: 'COIN Price Prediction: Oversold at $174 but Bears Hold the Keys',
+    link: 'https://example.com/coin',
+  });
+  const pepe = item({
+    title: 'PEPE Price Prediction: Bears Hold the Wheel but Oversold Stochastics Set a Trap',
+    link: 'https://example.com/pepe',
+  });
+  assert.equal(isSameNewsStory(coin, pepe), false);
+  assert.equal(sameEvent(coin.title, pepe.title), false);
+
+  const merged = deduplicateNewsItems(
+    [clarityRss, clarityNative, nasdaqRss, nasdaqNative, coin, pepe].sort(
+      (a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime(),
+    ),
+  );
+  assert.equal(merged.length, 4);
+  assert.ok(merged.some((row) => row.link === '/clarity-act'));
+  assert.ok(merged.some((row) => row.link === '/nasdaq-kraken'));
+  assert.ok(merged.some((row) => row.link === coin.link));
+  assert.ok(merged.some((row) => row.link === pepe.link));
+
+  console.log('News dedup tests passed.');
+}
+
+main();
