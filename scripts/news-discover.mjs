@@ -82,6 +82,35 @@ function overlapScore(title, toks) {
   return hit / words.length;
 }
 
+// Jaccard similarity of a candidate title against every existing article
+// title+slug. Catches same-story-different-words that token overlap misses.
+function titleSets() {
+  const dir = path.join(process.cwd(), 'content', 'articles');
+  const sets = [];
+  for (const f of fs.readdirSync(dir)) {
+    if (!f.endsWith('.md') || f === 'AGENTS.md') continue;
+    const raw = fs.readFileSync(path.join(dir, f), 'utf8');
+    const m = raw.match(/^title:\s*(.+)$/m);
+    const set = new Set((((m ? m[1] : '') + ' ' + f.replace(/\.md$/, '').replace(/-/g, ' '))
+      .toLowerCase().replace(/[^a-z0-9\s]/g, ' ').split(/\s+/).filter((w) => w.length > 3)));
+    if (set.size) sets.push({ file: f, set });
+  }
+  return sets;
+}
+
+function maxJaccard(title, sets) {
+  const mine = new Set(title.toLowerCase().replace(/[^a-z0-9\s]/g, ' ').split(/\s+/).filter((w) => w.length > 3));
+  if (!mine.size) return { score: 0, file: null };
+  let best = { score: 0, file: null };
+  for (const { file, set } of sets) {
+    let inter = 0;
+    for (const w of mine) if (set.has(w)) inter++;
+    const s = inter / (mine.size + set.size - inter);
+    if (s > best.score) best = { score: s, file };
+  }
+  return best;
+}
+
 // Prefer regulation, ETF, majors, launches; demote price-chatter and evergreen guides.
 function rankScore(title) {
   const t = title.toLowerCase();
@@ -96,6 +125,7 @@ function rankScore(title) {
 async function main() {
   const cutoff = Date.now() - hours * 3600 * 1000;
   const toks = existingTokens();
+  const sets = titleSets();
   const seen = new Set();
   const out = [];
   for (const feed of FEEDS) {
@@ -117,6 +147,8 @@ async function main() {
       seen.add(it.link);
       const overlap = overlapScore(it.title, toks);
       if (overlap >= 0.45) continue; // already covered
+      const near = maxJaccard(it.title, sets);
+      if (near.score >= 0.5) continue; // same story, different words
       out.push({ source: feed.name, title: it.title, link: it.link, published: new Date(ts).toISOString(), score: rankScore(it.title) });
     }
   }

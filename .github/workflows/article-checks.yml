@@ -45,5 +45,8 @@ jobs:
       - name: News hero image audit (hard gate)
         run: npx tsx scripts/audit-article-images.ts
 
+      - name: News duplicate-content audit (hard gate)
+        run: npx tsx scripts/audit-article-duplicates.ts
+
       - name: Typecheck
         run: npx tsc --noEmit
