@@ -1,5 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { getJobs } from '@/lib/jobs';
+import { getPublicJobUrl } from '@/lib/job-slugs';
 
 export async function POST(request: NextRequest) {
   let body: any = {};
@@ -33,7 +34,8 @@ export async function POST(request: NextRequest) {
       index: idx,
       query: q,
       total: filtered.length,
-      data: filtered.slice(0, limit),
+      // Public links stay on hashtagweb3.com (see api/jobs route).
+      data: filtered.slice(0, limit).map((job) => ({ ...job, link: getPublicJobUrl(job) })),
     };
   });
 

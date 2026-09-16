@@ -1,5 +1,5 @@
 import { getEvents } from '@/lib/events-server';
-import { getEventType, normalizeCountry } from '@/lib/events';
+import { getEventSlug, getEventType, normalizeCountry } from '@/lib/events';
 import { getPublicEvent } from '@/lib/event-public';
 import { NextRequest, NextResponse } from 'next/server';
 import { getStandardApiHeaders } from '@/lib/api-headers';
@@ -87,7 +87,26 @@ export async function GET(request: NextRequest) {
 
     return NextResponse.json(
       {
-        data: paginated.map(getPublicEvent),
+        // Public API links must stay on hashtagweb3.com: point url at our
+        // event page and strip nested external urls (organizer/performer/
+        // partnerOffer). The site itself keeps registration links via
+        // getPublicEvent elsewhere — this mapping is API-only.
+        data: paginated.map((event) => {
+          const pub = getPublicEvent(event) as Record<string, any>;
+          const { organizer, performer, partnerOffer, ...rest } = pub;
+          const stripUrl = (p: any) => {
+            if (!p || typeof p !== 'object') return p;
+            const { url: _u, ...kept } = p;
+            return kept;
+          };
+          return {
+            ...rest,
+            url: `https://hashtagweb3.com/${getEventSlug(event)}`,
+            ...(organizer ? { organizer: stripUrl(organizer) } : {}),
+            ...(performer ? { performer: stripUrl(performer) } : {}),
+            ...(partnerOffer ? { partnerOffer: stripUrl(partnerOffer) } : {}),
+          };
+        }),
         meta: {
           total: filtered.length,
           count: paginated.length,

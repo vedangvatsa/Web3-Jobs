@@ -1,5 +1,5 @@
 import { getJobs } from '@/lib/jobs';
-import { getJobSlug } from '@/lib/job-slugs';
+import { getPublicJobUrl } from '@/lib/job-slugs';
 import { buildSynthesizedJobContent } from '@/lib/job-guides';
 import { getFeedLocation, getRecentFeedJobs, isUsOrRemoteJob } from '@/lib/job-feed-helpers';
 import { NextResponse } from 'next/server';
@@ -14,14 +14,14 @@ export async function GET() {
   const siteUrl = 'https://hashtagweb3.com';
   const feedJobs = getRecentFeedJobs(await getJobs()).filter(isUsOrRemoteJob);
   const jobsXml = feedJobs.map((job) => {
-    const slug = getJobSlug(job);
-    const url = `${siteUrl}/${slug}`;
+    // Canonical page everywhere: never expose the internal ATS source URL.
+    const url = getPublicJobUrl(job, siteUrl);
     const location = getFeedLocation(job);
     const description = buildSynthesizedJobContent(job).replace(/https?:\/\/[^\s<>'"]+/gi, '');
     const date = job.date || new Date().toISOString().split('T')[0];
 
-    return `  <job id="${job.id || slug}">
-    <id><![CDATA[${cdata(job.id || slug)}]]></id>
+    return `  <job id="${job.id}">
+    <id><![CDATA[${cdata(job.id)}]]></id>
     <title><![CDATA[${cdata(job.title)}]]></title>
     <name><![CDATA[${cdata(job.title)}]]></name>
     <company><![CDATA[${cdata(job.company)}]]></company>

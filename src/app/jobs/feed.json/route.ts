@@ -1,5 +1,5 @@
 import { getJobs } from "@/lib/jobs";
-import { getJobSlug } from "@/lib/job-slugs";
+import { getPublicJobUrl } from "@/lib/job-slugs";
 import { NextResponse } from "next/server";
 
 export const revalidate = 3600; // Cache for 1 hour
@@ -10,16 +10,14 @@ export async function GET() {
   const feedJobs = allJobs.slice(0, 100);
 
   const items = feedJobs.map((job) => {
-    const slug = getJobSlug(job);
-    const url = `${siteUrl}/${slug}`;
-    const applyUrl = job.link || url;
+    // Canonical page only: never expose the internal ATS source URL.
+    const url = getPublicJobUrl(job, siteUrl);
 
     return {
       id: url,
       url,
-      external_url: applyUrl,
       title: `${job.title} at ${job.company}`,
-      content_text: `${job.title} at ${job.company} (${job.location || "Remote"}). Apply at: ${applyUrl}`,
+      content_text: `${job.title} at ${job.company} (${job.location || "Remote"}). Apply at: ${url}`,
       date_published: job.date ? new Date(job.date).toISOString() : new Date().toISOString(),
       authors: [{ name: job.company }],
       tags: [job.department || "Web3", "Crypto", "Blockchain"].filter(Boolean),

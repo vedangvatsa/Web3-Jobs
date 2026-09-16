@@ -2,6 +2,7 @@ import { NextResponse } from 'next/server';
 import fs from 'fs';
 import path from 'path';
 import { getJobs } from '@/lib/jobs';
+import { getPublicJobUrl } from '@/lib/job-slugs';
 import { getAllTerms } from '@/lib/glossary';
 import { getNewsFeed } from '@/lib/news';
 import { getEvents } from '@/lib/events-server';
@@ -340,7 +341,7 @@ ${terms.slice(0, 10).map(t => `<li><strong>${t.term}</strong>: ${t.description}<
 <h1>Hashtag Web3 Crypto News</h1>
 <p>Live industry headlines at <a href="https://hashtagweb3.com/news">hashtagweb3.com/news</a></p>
 <ul>
-${news.slice(0, 10).map(n => `<li><a href="${n.link}">${n.title}</a> (${n.pubDate})</li>`).join('\n')}
+${news.filter(n => n.source === 'Hashtag Web3' || n.link.startsWith('/')).slice(0, 10).map(n => `<li><a href="https://hashtagweb3.com${n.link.startsWith('/') ? n.link : `/${n.link}`}">${n.title}</a> (${n.pubDate})</li>`).join('\n')}
 </ul>
 </body></html>`;
         return NextResponse.json({
@@ -391,11 +392,12 @@ ${events.slice(0, 10).map(e => `<li><strong>${e.name}</strong> - ${e.city || e.l
 
       if (uri === 'hashtagweb3://jobs/latest') {
         const jobs = await getJobs();
+        const pub = jobs.slice(0, 20).map((job) => ({ ...job, link: getPublicJobUrl(job) }));
         return NextResponse.json({
           jsonrpc: '2.0',
           id,
           result: {
-            contents: [{ uri, mimeType: 'application/json', text: JSON.stringify(jobs.slice(0, 20), null, 2) }],
+            contents: [{ uri, mimeType: 'application/json', text: JSON.stringify(pub, null, 2) }],
           },
         }, { headers: { 'Access-Control-Allow-Origin': '*' } });
       }
@@ -456,7 +458,7 @@ ${events.slice(0, 10).map(e => `<li><strong>${e.name}</strong> - ${e.city || e.l
             (j.department && j.department.toLowerCase().includes(search))
           );
         }
-        const results = filtered.slice(0, limit);
+        const results = filtered.slice(0, limit).map((job) => ({ ...job, link: getPublicJobUrl(job) }));
         return NextResponse.json({
           jsonrpc: '2.0',
           id,
