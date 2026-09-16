@@ -48,6 +48,15 @@ names, or plans.
   with `according to X` / `reported Y`. Lead some sentences with the source
   ("Cointelegraph reported ..."), bury some mid-sentence, and let plain
   established facts stand with just the link.
+- Attribution economy (hard caps per article): the same "<Outlet> <verb>"
+  construction max 2x; the same outlet named max 3x. Beyond that use
+  link-only attribution (link on the claim itself), "the report" / "the
+  thread" / "the filing" / "the notice", or a primary-source subject
+  ("the company said", "the filing shows"). Never use the same verb twice
+  in a row. Prefer primary sources (announcement, filing, official post)
+  over outlet names when both support a fact.
+- Research from at least two independent sources whenever they exist, so
+  citation variety is natural, not manufactured.
 - No Sources/References section, no FAQ, no key-takeaway boxes, no tables,
   no bold inside prose, no em dashes, no curly quotes, straight ASCII only.
 - End on the last concrete reported fact. No summary, no moral, no mic-drop.
