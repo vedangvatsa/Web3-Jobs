@@ -118,9 +118,15 @@ export function parseJobAddress(location: unknown): ParsedJobAddress {
 
   if (parts.length === 1) {
     const only = parts[0]!;
-    // Bare country tokens ("Guatemala", "United States") carry no locality.
     const asCountry = normalizeCountryToken(only);
-    if (asCountry && !/^(singapore|hong kong|dubai)$/i.test(only)) return { addressCountry: asCountry };
+    if (/^(singapore|hong kong)$/i.test(only) && asCountry) {
+      return { addressLocality: only, addressCountry: asCountry };
+    }
+    if (/^dubai$/i.test(only)) {
+      return { addressLocality: only, addressCountry: 'AE' };
+    }
+    // Bare country tokens ("Guatemala", "United States") carry no locality.
+    if (asCountry) return { addressCountry: asCountry };
     return { addressLocality: only };
   }
 
@@ -128,7 +134,7 @@ export function parseJobAddress(location: unknown): ParsedJobAddress {
   if (parts.length >= 3) {
     const regionRaw = parts[1]!;
     out.addressRegion = US_STATE_ABBRS[regionRaw.toLowerCase()] ?? regionRaw;
-    out.addressCountry = normalizeCountryToken(parts[2]!) ?? parts[2];
+    out.addressCountry = normalizeCountryToken(parts[2]!) ?? undefined;
   } else {
     const tail = parts[1]!;
     const asCountry = normalizeCountryToken(tail);
@@ -136,11 +142,84 @@ export function parseJobAddress(location: unknown): ParsedJobAddress {
       out.addressCountry = asCountry;
     } else if (US_STATE_ABBRS[tail.toLowerCase()]) {
       out.addressRegion = US_STATE_ABBRS[tail.toLowerCase()];
+      out.addressCountry = 'US';
+    } else if (/^[A-Za-z]{2}$/.test(tail) && US_STATE_CODES.has(tail.toUpperCase())) {
+      out.addressRegion = tail.toUpperCase();
+      out.addressCountry = 'US';
     } else {
       out.addressRegion = tail;
     }
   }
   return out;
+}
+
+/** ISO 3166-1 alpha-2 for schema.org `addressCountry` when the value is known. */
+export function toAddressCountryCode(value: string | undefined): string | undefined {
+  if (!value?.trim()) return undefined;
+  const fromName = normalizeCountryToken(value);
+  if (fromName) return fromName;
+  const upper = value.trim().toUpperCase();
+  if (/^[A-Z]{2}$/.test(upper) && BARE_COUNTRY_CODES.has(upper)) return upper;
+  return undefined;
+}
+
+function inferCountryFromLocationText(location: string): string | undefined {
+  const locLower = location.toLowerCase();
+  if (/\b(us|usa|u\.s\.?|united states)\b/.test(locLower)) return 'US';
+  if (/\buk\b/.test(locLower) || locLower.includes('united kingdom') || locLower.includes('britain')) return 'GB';
+  if (locLower.includes('canada')) return 'CA';
+  if (locLower.includes('australia')) return 'AU';
+  if (locLower.includes('germany') || locLower.includes('deutschland')) return 'DE';
+  if (locLower.includes('france')) return 'FR';
+  if (locLower.includes('netherlands') || locLower.includes('holland')) return 'NL';
+  if (locLower.includes('switzerland')) return 'CH';
+  if (locLower.includes('india')) return 'IN';
+  if (locLower.includes('japan')) return 'JP';
+  if (locLower.includes('mexico')) return 'MX';
+  if (locLower.includes('brazil')) return 'BR';
+  if (locLower.includes('uae') || locLower.includes('united arab emirates') || locLower.includes('dubai')) {
+    return 'AE';
+  }
+  const segments = location.split(/[,;/|]/).map((s) => s.trim()).filter(Boolean);
+  for (let i = segments.length - 1; i >= 0; i--) {
+    const code = normalizeCountryToken(segments[i]!);
+    if (code) return code;
+  }
+  return undefined;
+}
+
+/** Ensures onsite JobPosting addresses include `addressCountry` when inferable from the source string. */
+export function ensureAddressCountry(parsed: ParsedJobAddress, rawLocation: string): ParsedJobAddress {
+  const existing = toAddressCountryCode(parsed.addressCountry);
+  if (existing) return { ...parsed, addressCountry: existing };
+
+  const next = { ...parsed };
+  if (next.addressRegion && US_STATE_CODES.has(next.addressRegion.toUpperCase())) {
+    next.addressCountry = 'US';
+    return next;
+  }
+
+  if (next.addressLocality) {
+    const fromLocality = toAddressCountryCode(next.addressLocality);
+    if (fromLocality && /^(singapore|hong kong)$/i.test(next.addressLocality)) {
+      next.addressCountry = fromLocality;
+      return next;
+    }
+    if (/^dubai$/i.test(next.addressLocality)) {
+      next.addressCountry = 'AE';
+      return next;
+    }
+  }
+
+  if (rawLocation.trim()) {
+    const inferred = inferCountryFromLocationText(rawLocation);
+    if (inferred) {
+      next.addressCountry = inferred;
+      return next;
+    }
+  }
+
+  return next;
 }
 
 export function JobDetailView({
@@ -215,18 +294,22 @@ export function JobDetailView({
   // Structured work address for non-remote postings. Only locality/region/
   // country are emitted: streetAddress and postalCode are unknowable from
   // ATS-sourced locations and must not be fabricated.
-  const jobAddress: ParsedJobAddress = !isRemote ? parseJobAddress(job.location) : {};
+  const rawLocation = typeof job.location === 'string' ? job.location : '';
+  let jobAddress: ParsedJobAddress = !isRemote ? parseJobAddress(job.location) : {};
   if (
     !isRemote &&
     !jobAddress.addressLocality &&
     !jobAddress.addressRegion &&
     !jobAddress.addressCountry &&
-    typeof job.location === 'string' &&
-    job.location.trim()
+    rawLocation.trim()
   ) {
     // Last resort: keep the raw string as the locality (previous behavior).
-    jobAddress.addressLocality = job.location.trim();
+    jobAddress.addressLocality = rawLocation.trim();
   }
+  if (!isRemote && rawLocation.trim()) {
+    jobAddress = ensureAddressCountry(jobAddress, rawLocation);
+  }
+  const jobAddressCountry = toAddressCountryCode(jobAddress.addressCountry);
 
   const salaryInfo = getJobSalaryInfo(job, contentHtml);
 
@@ -242,7 +325,9 @@ export function JobDetailView({
       name: 'hashtagweb3.com',
       value: job.id,
     },
-    ...(job.dateVerified !== false && isDateValid && { datePosted: datePostedIso }),
+    // Always emit datePosted for Google JobPosting (required). UI still hides
+    // relative "Posted …" when dateVerified is false (discovery time only).
+    datePosted: datePostedIso,
     validThrough: validThroughDate,
     employmentType,
     directApply: true,
@@ -266,17 +351,19 @@ export function JobDetailView({
               }
             : {}),
         }
-      : {
-          jobLocation: {
-            '@type': 'Place',
-            address: {
-              '@type': 'PostalAddress',
-              ...(jobAddress.addressLocality && { addressLocality: jobAddress.addressLocality }),
-              ...(jobAddress.addressRegion && { addressRegion: jobAddress.addressRegion }),
-              ...(jobAddress.addressCountry && { addressCountry: jobAddress.addressCountry }),
+      : jobAddressCountry
+        ? {
+            jobLocation: {
+              '@type': 'Place',
+              address: {
+                '@type': 'PostalAddress',
+                ...(jobAddress.addressLocality && { addressLocality: jobAddress.addressLocality }),
+                ...(jobAddress.addressRegion && { addressRegion: jobAddress.addressRegion }),
+                addressCountry: jobAddressCountry,
+              },
             },
-          },
-        }),
+          }
+        : {}),
     url: canonicalUrl,
   };
 
