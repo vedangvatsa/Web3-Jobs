@@ -65,7 +65,12 @@ export const partnersLogos = [
   { name: 'Jooble', src: '/logo/partners/jooble.svg', alt: 'Jooble logo' },
   { name: 'MyJobHelper', src: '/logo/partners/myjobhelper.webp', alt: 'MyJobHelper logo' },
   { name: 'European Blockchain Convention', src: '/logo/partners/ebc.webp', alt: 'European Blockchain Convention logo' },
-  { name: 'Metaverse Institute', src: '/logo/partners/metaverse-institute.webp', alt: 'Metaverse Institute logo' },
+  {
+    name: 'Metaverse Institute',
+    src: '/logo/partners/metaverse-institute.webp',
+    alt: 'Metaverse Institute logo',
+    scale: 1.35,
+  },
   { name: 'Digital South Trust', src: '/logo/partners/digital-south.webp', alt: 'Digital South Trust logo' },
   { name: 'Octaloop', src: '/logo/partners/octaloop.webp', alt: 'Octaloop logo' },
 ];
