@@ -61,6 +61,13 @@ export const partnersLogos = [
   { name: 'ETH Enugu', src: '/logo/partners/ethenugu.webp', alt: 'ETH Enugu logo'},
   { name: 'FBS', src: '/logo/partners/fbs.webp', alt: 'FBS logo'},
   { name: 'LBS', src: '/logo/partners/lbs.webp', alt: 'LBS logo'},
+  { name: 'Adzuna', src: '/logo/partners/adzuna.webp', alt: 'Adzuna logo' },
+  { name: 'Jooble', src: '/logo/partners/jooble.svg', alt: 'Jooble logo' },
+  { name: 'MyJobHelper', src: '/logo/partners/myjobhelper.webp', alt: 'MyJobHelper logo' },
+  { name: 'European Blockchain Convention', src: '/logo/partners/ebc.webp', alt: 'European Blockchain Convention logo' },
+  { name: 'Metaverse Institute', src: '/logo/partners/metaverse-institute.webp', alt: 'Metaverse Institute logo' },
+  { name: 'Digital South Trust', src: '/logo/partners/digital-south.webp', alt: 'Digital South Trust logo' },
+  { name: 'Octaloop', src: '/logo/partners/octaloop.webp', alt: 'Octaloop logo' },
 ];
 
 export const mediaLogos = [

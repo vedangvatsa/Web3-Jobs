@@ -340,6 +340,19 @@ export function buildSynthesizedJobContent(job: Job, rawContentOverride?: string
         const titleNorm = normHeading(job.title);
         if (titleNorm.length >= 8 && norm.includes(titleNorm) && spunHeading.length < 120) continue;
       }
+      // Greenhouse often stacks "Who we are" → About the Company, then "About {Company}".
+      if (isH3 && job?.company) {
+        const companyNorm = normHeading(job.company);
+        const aboutCompanyNorm = normHeading(`About ${job.company}`);
+        const isCompanyAboutHeading = norm === aboutCompanyNorm || norm === companyNorm;
+        if (
+          isCompanyAboutHeading &&
+          (lastEmittedH3Norm === 'aboutthecompany' || lastEmittedH3Norm === 'whoweare')
+        ) {
+          isAboutSection = true;
+          continue;
+        }
+      }
       const intro = isH3 ? getSectionIntro(spunHeading, job) : null;
       const rendered = renderInlineMd(escapeHtml(spunHeading));
       pendingHeading = isH3
@@ -438,6 +451,36 @@ export function buildUniqueJobPageContent(job: Job, employerHtml = ''): string {
   return cleanPublishHtml(html);
 }
 
+/** Strip ATS heading labels that survive plain-text extraction (no colon). */
+function stripJobPreviewBoilerplate(text: string, job: Job): string {
+  const company = (job.company || '').trim();
+  const escapedCompany = company.replace(/[-/\\^$*+?.()|[\]{}]/g, '\\$&');
+
+  let out = text
+    .replace(/\bWho we are\s+/gi, ' ')
+    .replace(/\bAbout the team\s+/gi, ' ')
+    .replace(/\bAbout us\s+/gi, ' ');
+
+  out = out.replace(/^About\s+(?:this role|the role|the opportunity|you|our team|our company)\s+/i, '');
+
+  // Greenhouse/Lever: "About StripeStripe is…" or "About WarpWarp is…" (label + brand glued).
+  out = out.replace(/^About\s+([A-Za-z0-9][A-Za-z0-9&.'-]{1,48}?)\1\b/i, '$1 ');
+
+  if (escapedCompany) {
+    out = out.replace(new RegExp(`\\bAbout (?:the )?${escapedCompany}\\s+`, 'gi'), '');
+    out = out.replace(new RegExp(`^${escapedCompany}\\s+${escapedCompany}\\b`, 'i'), `${company} `);
+    out = out.replace(
+      new RegExp(`^About\\s+${escapedCompany}${escapedCompany}\\b`, 'i'),
+      `${company} `,
+    );
+  }
+
+  // Sub-brand lines: "About Aura by Hex TrustAura by Hex Trust is…"
+  out = out.replace(/^About\s+[A-Za-z0-9][^.!?]{0,120}?\b([A-Za-z0-9][A-Za-z0-9\s.'-]{4,60}?)\1\b/i, '$1 ');
+
+  return out.replace(/\s+/g, ' ').trim();
+}
+
 export function buildUniqueJobMetaDescription(job: Job): string {
   const raw = getCachedRawContent(job);
   let text = plainTextFromHtml(raw);
@@ -466,6 +509,8 @@ export function buildUniqueJobMetaDescription(job: Job): string {
       .replace(/^Role Overview:?\s*/i, '')
       .trim();
 
+    text = stripJobPreviewBoilerplate(text, job);
+
     // Protect common abbreviations from splitting sentences falsely
     const normalized = text.replace(/\b(Inc|Corp|Ltd|Co|No|vs|approx|e\.g|i\.e)\.\s+/g, '$1_DOT_ ');
     const rawSentences = normalized.match(/[^.!?]+[.!?]+/g) || [];
@@ -486,6 +531,10 @@ export function buildUniqueJobMetaDescription(job: Job): string {
         .replace(/.*?\b(Who we are|About us|About the company|About our team):?\s*/i, '')
         .replace(/^[^a-zA-Z0-9"'(]+/, '')
         .trim();
+
+      clean = stripJobPreviewBoilerplate(clean, job);
+
+      if (/^About\b/i.test(clean)) continue;
 
       if (isJunk(clean)) continue;
 
