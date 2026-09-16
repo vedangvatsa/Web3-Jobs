@@ -117,7 +117,7 @@ function loadNativeArticles() {
     const pub = new Date(String(data.publishedDate || '').replace(/['"]/g, ''));
     out.push({
       title,
-      link: `${SITE_URL}/${slug}/tg`,
+      link: `${SITE_URL}/${slug}?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed`,
       snippet: clean(data.description).substring(0, 300),
       source: 'Hashtag Web3',
       date: pub && !isNaN(pub) ? pub : new Date(0),
@@ -352,8 +352,10 @@ function formatMessage(stories) {
   const lines = stories.map(s => {
     const headline = escapeHtml(s.headline);
     const summary = escapeHtml(s.summary);
-    const sep = s.link.includes('?') ? '&' : '?';
-    const trackedLink = `${s.link}${sep}utm_source=hashtagweb3&utm_medium=telegram&utm_campaign=news_digest`;
+    // Native links already carry their own UTM params; only tag bare RSS links.
+    const trackedLink = /[?&]utm_source=/.test(s.link)
+      ? s.link
+      : `${s.link}${s.link.includes('?') ? '&' : '?'}utm_source=hashtagweb3&utm_medium=telegram&utm_campaign=news_digest`;
     return `<a href="${trackedLink}"><b>${headline}</b></a>. ${summary}`;
   });
 
@@ -436,7 +438,9 @@ async function postOnce() {
   // ── Native first: our own reporting leads, RSS fills remaining slots ──
   const nativeAll = loadNativeArticles();
   const freshNative = nativeAll.filter((n) => {
-    if (normalizedPostedLinks.has(normalizeUrl(n.link))) return false;
+    const norm = normalizeUrl(n.link);
+    // Also match the older /tg-suffixed form so format switches never repost.
+    if (normalizedPostedLinks.has(norm) || normalizedPostedLinks.has(`${norm}/tg`)) return false;
     if (alreadyCovered(n.title, recentCovered)) return false;
     return true;
   });
