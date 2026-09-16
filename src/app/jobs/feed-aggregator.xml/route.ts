@@ -33,8 +33,12 @@ export async function GET() {
       const department = job.department || "Web3 / Blockchain";
       const date = job.date || new Date().toISOString().split("T")[0];
 
+      // Strip outbound URLs, then decode &amp; so aggregators that
+      // strip tags (instead of parsing HTML) show "&", not "&amp;".
+      // Bare & is valid inside CDATA and renders fine in real parsers.
       const rawDescription = buildSynthesizedJobContent(job)
-        .replace(/https?:\/\/[^\s<>'"]+/gi, '');
+        .replace(/https?:\/\/[^\s<>'"]+/gi, '')
+        .replace(/&amp;/g, '&');
 
       return `  <job id="${job.id || slug}">
     <id><![CDATA[${job.id || slug}]]></id>

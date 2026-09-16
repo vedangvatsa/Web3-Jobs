@@ -116,9 +116,12 @@ export async function GET(request: NextRequest) {
 
     return NextResponse.json(
       {
-        // Public links stay on hashtagweb3.com: replace the internal ATS
-        // source URL with our canonical job page (which carries Apply).
-        data: paginated.map((job) => ({ ...job, link: getPublicJobUrl(job) })),
+        // Public output stays on hashtagweb3.com: canonical job page link,
+        // and no internal sourcing metadata (ATS names are not disclosed).
+        data: paginated.map((job) => {
+          const { source: _source, ...rest } = job;
+          return { ...rest, link: getPublicJobUrl(job) };
+        }),
         companyLogos,
         meta: {
           total,

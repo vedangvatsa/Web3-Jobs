@@ -34,8 +34,12 @@ export async function POST(request: NextRequest) {
       index: idx,
       query: q,
       total: filtered.length,
-      // Public links stay on hashtagweb3.com (see api/jobs route).
-      data: filtered.slice(0, limit).map((job) => ({ ...job, link: getPublicJobUrl(job) })),
+      // Public output stays on hashtagweb3.com, no sourcing metadata
+      // (see api/jobs route).
+      data: filtered.slice(0, limit).map((job) => {
+        const { source: _source, ...rest } = job;
+        return { ...rest, link: getPublicJobUrl(job) };
+      }),
     };
   });
 

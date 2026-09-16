@@ -44,7 +44,8 @@ export async function GET() {
       // Strip outbound URLs from descriptions (same as sibling feeds):
       // public feeds must not hand out external links.
       const rawDescription = buildSynthesizedJobContent(job)
-        .replace(/https?:\/\/[^\s<>'"]+/gi, '');
+        .replace(/https?:\/\/[^\s<>'"]+/gi, '')
+        .replace(/&amp;/g, '&');
 
       return `  <job id="${job.id}">
     <id><![CDATA[${job.id}]]></id>
