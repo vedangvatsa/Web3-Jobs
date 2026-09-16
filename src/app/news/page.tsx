@@ -39,14 +39,19 @@ export default async function NewsPage() {
  const [feedItems, articles] = await Promise.all([getNewsFeed(), getAllArticles()]);
  const nativeNews = articles
   .filter((article) => article.category === 'News')
-  .map((article) => ({
+  .map((article) => {
+   const publishedMs = article.publishedDate ? Date.parse(article.publishedDate) : 0;
+   const updatedMs = article.lastUpdated ? Date.parse(article.lastUpdated) : 0;
+   const pubMs = Math.max(publishedMs, updatedMs);
+   return {
    title: article.title,
    link: `/${article.slug}`,
-   pubDate: article.publishedDate || article.lastUpdated || new Date().toISOString(),
+   pubDate: pubMs ? new Date(pubMs).toISOString() : new Date().toISOString(),
    creator: 'Hashtag Web3',
    contentSnippet: article.description,
    source: 'Hashtag Web3',
-  }));
+  };
+  });
   const newsItems = deduplicateNewsItems([...nativeNews, ...feedItems]
    .sort((a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime()));
  const siteUrl = 'https://hashtagweb3.com';

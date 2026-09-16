@@ -2,12 +2,12 @@
  * send-resend-broadcast.ts — daily job alerts via Resend Broadcasts.
  *
  * Builds the new-jobs email from recent listings and sends it as a
- * Resend broadcast to a segment (default: General). Unsubscribed contacts
- * are excluded by Resend automatically.
+ * Resend broadcast to your full audience (preferred) or a segment. Unsubscribed
+ * contacts are excluded by Resend automatically.
  *
  * Usage: npx tsx scripts/send-resend-broadcast.ts [--limit 10] [--dry-run] [--preview]
- * Env: RESEND_API_KEY (required), RESEND_SEGMENT_ID (default General),
- *      EMAIL_FROM (default "Hashtag Web3 <hi@hashtagweb3.com>")
+ * Env: RESEND_API_KEY (required), RESEND_AUDIENCE_ID (preferred — all contacts),
+ *      RESEND_SEGMENT_ID (optional subset), EMAIL_FROM
  *
  * Exits nonzero on ANY failure (no silent green runs).
  */
@@ -19,16 +19,77 @@ import { getJobPublicUrl } from '@/lib/job-slugs';
 import type { JobListing } from '@/lib/email';
 import type { Job } from '@/types';
 
-const GENERAL_SEGMENT_ID = '2db4b31c-7b5b-46b9-b2b1-98ae142d289b';
-
 const args = process.argv.slice(2);
 const isDryRun = args.includes('--dry-run');
 const limitIdx = args.indexOf('--limit');
 const jobLimit = limitIdx > -1 ? Math.max(1, Number(args[limitIdx + 1]) || 10) : 10;
 
+/** Hashtag Web3 "General" audience — all newsletter subscribers in Resend. */
+export const RESEND_GENERAL_AUDIENCE_ID = '2db4b31c-7b5b-46b9-b2b1-98ae142d289b';
+
 const apiKey = process.env.RESEND_API_KEY;
-const segmentId = process.env.RESEND_SEGMENT_ID || GENERAL_SEGMENT_ID;
 const from = process.env.EMAIL_FROM || 'Alex <alex@hi.hashtagweb3.com>';
+
+type BroadcastTarget =
+  | { kind: 'audience'; audienceId: string; label: string }
+  | { kind: 'segment'; segmentId: string; label: string };
+
+function broadcastCreatePayload(target: BroadcastTarget) {
+  return target.kind === 'audience' ? { audienceId: target.audienceId } : { segmentId: target.segmentId };
+}
+
+/** Daily job alerts go to the full subscribed audience (not an empty segment). */
+async function resolveBroadcastTarget(resendKey: string): Promise<BroadcastTarget> {
+  const envAudience = process.env.RESEND_AUDIENCE_ID?.trim();
+  if (envAudience) {
+    return { kind: 'audience', audienceId: envAudience, label: `audience ${envAudience}` };
+  }
+
+  const envSegment = process.env.RESEND_SEGMENT_ID?.trim();
+  if (envSegment) {
+    return { kind: 'segment', segmentId: envSegment, label: `segment ${envSegment}` };
+  }
+
+  try {
+    const res = await fetch('https://api.resend.com/audiences', {
+      headers: { Authorization: `Bearer ${resendKey}` },
+    });
+    if (res.ok) {
+      const json = (await res.json()) as { data?: Array<{ id: string; name: string }> };
+      const general = json.data?.find((a) => a.name === 'General');
+      if (general?.id) {
+        return { kind: 'audience', audienceId: general.id, label: `audience General (${general.id})` };
+      }
+      const first = json.data?.[0];
+      if (first?.id) {
+        return { kind: 'audience', audienceId: first.id, label: `audience ${first.name} (${first.id})` };
+      }
+    }
+  } catch {
+    /* use default */
+  }
+
+  return {
+    kind: 'audience',
+    audienceId: RESEND_GENERAL_AUDIENCE_ID,
+    label: `audience General (${RESEND_GENERAL_AUDIENCE_ID})`,
+  };
+}
+
+async function targetHasContacts(resendKey: string, target: BroadcastTarget): Promise<boolean> {
+  const param =
+    target.kind === 'audience'
+      ? `audience_id=${encodeURIComponent(target.audienceId)}`
+      : `segment_id=${encodeURIComponent(target.segmentId)}`;
+  const res = await fetch(`https://api.resend.com/contacts?${param}&limit=1`, {
+    headers: { Authorization: `Bearer ${resendKey}` },
+  });
+  if (!res.ok) {
+    throw new Error(`contacts list failed: ${res.status} ${await res.text()}`);
+  }
+  const json = (await res.json()) as { data?: unknown[] };
+  return Boolean(json.data?.length);
+}
 const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://hashtagweb3.com';
 const UTM = 'utm_source=newsletter&utm_medium=email&utm_campaign=daily-job-alerts';
 const STATE_FILE = new URL('../.resend-broadcast-sent.json', import.meta.url).pathname;
@@ -164,23 +225,16 @@ async function main() {
   console.log(`Selected ${jobs.length} jobs (newest unsent from 7-day pool, 0 repeats).`);
 
   const resend = new Resend(apiKey);
+  const target = await resolveBroadcastTarget(apiKey);
+  console.log(`Broadcast target: ${target.label}`);
 
-  const contacts = await resend.contacts.list({ segmentId, limit: 1 });
-  if (contacts.error) {
-    console.error('Could not verify Resend segment contacts:', contacts.error);
-    process.exit(1);
-  }
-  if (!contacts.data?.data?.length) {
-    console.error(
-      `Resend segment ${segmentId} has no contacts. Add subscribers in Resend (Audiences → Segments) or set RESEND_SEGMENT_ID to a segment with contacts.`,
-    );
-    const segments = await resend.segments.list();
-    if (!segments.error && segments.data?.data?.length) {
-      console.error('Segments in this Resend account:');
-      for (const seg of segments.data.data) {
-        console.error(`  ${seg.id}  ${seg.name}`);
-      }
+  try {
+    if (!(await targetHasContacts(apiKey, target))) {
+      console.error(`Resend ${target.label} has no contacts.`);
+      process.exit(1);
     }
+  } catch (err) {
+    console.error('Could not verify Resend contacts:', err);
     process.exit(1);
   }
   const subject = `${jobs.length} new Web3 roles today — ${jobs[0].title} @ ${jobs[0].company}`;
@@ -195,7 +249,7 @@ async function main() {
   if (isDryRun) {
     // Validate end-to-end by creating a draft, then delete it. Never sends.
     const created = await resend.broadcasts.create({
-      segmentId,
+      ...broadcastCreatePayload(target),
       from,
       subject: `[DRY-RUN] ${subject}`,
       html,
@@ -209,12 +263,12 @@ async function main() {
     const id = (created.data as any)?.id;
     console.log(`Dry-run draft created: ${id}. Deleting.`);
     if (id) await resend.broadcasts.remove(id);
-    console.log(`Dry run OK: ${jobs.length} jobs, subject ready, segment reachable.`);
+    console.log(`Dry run OK: ${jobs.length} jobs, subject ready, ${target.label} reachable.`);
     return;
   }
 
   const sent = await resend.broadcasts.create({
-    segmentId,
+    ...broadcastCreatePayload(target),
     from,
     subject,
     html,
