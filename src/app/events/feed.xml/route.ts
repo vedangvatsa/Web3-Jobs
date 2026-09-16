@@ -26,6 +26,7 @@ function feedDescription(event: { description: string; city?: string; country?: 
   const description = asText(event.description)
     .replace(/\s(?:href|src)\s*=\s*("[^"]*"|'[^']*'|[^\s>]+)/gi, '')
     .replace(/https?:\/\/[^\s<>'"]+/gi, '')
+    .replace(/&amp;/g, '&')
     .replace(/\s+/g, ' ')
     .trim();
   const place = formatEventLocation(event);

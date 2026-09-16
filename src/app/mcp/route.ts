@@ -392,7 +392,10 @@ ${events.slice(0, 10).map(e => `<li><strong>${e.name}</strong> - ${e.city || e.l
 
       if (uri === 'hashtagweb3://jobs/latest') {
         const jobs = await getJobs();
-        const pub = jobs.slice(0, 20).map((job) => ({ ...job, link: getPublicJobUrl(job) }));
+        const pub = jobs.slice(0, 20).map((job) => {
+          const { source: _s1, ...rest } = job;
+          return { ...rest, link: getPublicJobUrl(job) };
+        });
         return NextResponse.json({
           jsonrpc: '2.0',
           id,
@@ -458,7 +461,10 @@ ${events.slice(0, 10).map(e => `<li><strong>${e.name}</strong> - ${e.city || e.l
             (j.department && j.department.toLowerCase().includes(search))
           );
         }
-        const results = filtered.slice(0, limit).map((job) => ({ ...job, link: getPublicJobUrl(job) }));
+        const results = filtered.slice(0, limit).map((job) => {
+          const { source: _s2, ...rest } = job;
+          return { ...rest, link: getPublicJobUrl(job) };
+        });
         return NextResponse.json({
           jsonrpc: '2.0',
           id,

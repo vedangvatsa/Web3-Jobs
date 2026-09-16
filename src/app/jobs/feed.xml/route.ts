@@ -138,9 +138,12 @@ function buildItem(job: Job, siteUrl: string, nowRfc822: string): string {
   const bodyHtml = fullDesc ? truncateHtmlAtBoundary(fullDesc, MAX_DESC_CHARS) : "";
 
   const canonicalLine = `<p><a href="${url}">View full job details and apply on Hashtag Web3</a></p>`;
+  // Decode &amp; so tag-stripping readers show "&" (bare & is valid
+  // inside CDATA and renders fine in real HTML parsers).
   const descriptionHtml = [headerHtml, bodyHtml, canonicalLine]
     .filter(Boolean)
-    .join("\n");
+    .join("\n")
+    .replace(/&amp;/g, "&");
 
   return `    <item>
       <title><![CDATA[${cdata(title)}]]></title>

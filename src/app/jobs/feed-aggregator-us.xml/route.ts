@@ -17,7 +17,8 @@ export async function GET() {
     // Canonical page everywhere: never expose the internal ATS source URL.
     const url = getPublicJobUrl(job, siteUrl);
     const location = getFeedLocation(job);
-    const description = buildSynthesizedJobContent(job).replace(/https?:\/\/[^\s<>'"]+/gi, '');
+    // Decode &amp; so tag-stripping aggregators show "&" (see jobs aggregator feed).
+    const description = buildSynthesizedJobContent(job).replace(/https?:\/\/[^\s<>'"]+/gi, '').replace(/&amp;/g, '&');
     const date = job.date || new Date().toISOString().split('T')[0];
 
     return `  <job id="${job.id}">
