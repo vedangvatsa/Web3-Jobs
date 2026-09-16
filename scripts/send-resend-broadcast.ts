@@ -19,6 +19,16 @@ import { getJobs } from '@/lib/jobs';
 import { getJobPublicUrl } from '@/lib/job-slugs';
 import type { JobListing } from '@/lib/email';
 import type { Job } from '@/types';
+import {
+  countSegmentContacts,
+  findActiveJobAlertsBroadcasts,
+  jobAlertsBroadcastName,
+  loadLastBroadcastSend,
+  minSegmentContactsThreshold,
+  RESEND_GENERAL_SEGMENT_ID,
+  saveLastBroadcastSend,
+  utcDateKey,
+} from './resend-broadcast-guards';
 
 const args = process.argv.slice(2);
 const isDryRun = args.includes('--dry-run');
@@ -26,8 +36,8 @@ const forceSend = args.includes('--force');
 const limitIdx = args.indexOf('--limit');
 const jobLimit = limitIdx > -1 ? Math.max(1, Number(args[limitIdx + 1]) || 10) : 10;
 
-/** Hashtag Web3 "General" audience — all newsletter subscribers in Resend. */
-export const RESEND_GENERAL_AUDIENCE_ID = '2db4b31c-7b5b-46b9-b2b1-98ae142d289b';
+/** Hashtag Web3 "General" segment — all newsletter subscribers in Resend. */
+export const RESEND_GENERAL_AUDIENCE_ID = RESEND_GENERAL_SEGMENT_ID;
 
 const apiKey = process.env.RESEND_API_KEY;
 const from = process.env.EMAIL_FROM || 'Alex <alex@hi.hashtagweb3.com>';
@@ -65,57 +75,50 @@ async function resolveBroadcastTarget(resendKey: string): Promise<BroadcastTarge
   }
 
   return {
-    segmentId: RESEND_GENERAL_AUDIENCE_ID,
-    label: `segment General (${RESEND_GENERAL_AUDIENCE_ID})`,
+    segmentId: RESEND_GENERAL_SEGMENT_ID,
+    label: `segment General (${RESEND_GENERAL_SEGMENT_ID})`,
   };
 }
 
-async function segmentMemberCount(resendKey: string, segmentId: string): Promise<number> {
-  const res = await fetch(
-    `https://api.resend.com/segments/${encodeURIComponent(segmentId)}/contacts?limit=1`,
-    { headers: { Authorization: `Bearer ${resendKey}` } },
-  );
-  if (!res.ok) {
-    throw new Error(`segment contacts failed: ${res.status} ${await res.text()}`);
-  }
-  const json = (await res.json()) as { data?: unknown[]; has_more?: boolean };
-  if (!json.data?.length) return 0;
-  if (!json.has_more) return json.data.length;
-  return 1;
-}
-
-async function targetHasContacts(resendKey: string, target: BroadcastTarget): Promise<boolean> {
-  const n = await segmentMemberCount(resendKey, target.segmentId);
-  return n > 0;
-}
 const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://hashtagweb3.com';
 const UTM = 'utm_source=newsletter&utm_medium=email&utm_campaign=daily-job-alerts';
 const STATE_FILE = new URL('../.resend-broadcast-sent.json', import.meta.url).pathname;
-const LAST_SEND_FILE = new URL('../.resend-broadcast-last.json', import.meta.url).pathname;
 
-type LastBroadcastSend = { dateUtc: string; broadcastId?: string; at?: string };
-
-function utcDateKey(d = new Date()): string {
-  return d.toISOString().slice(0, 10);
-}
-
-function loadLastBroadcastSend(): LastBroadcastSend | null {
-  try {
-    const parsed = JSON.parse(fs.readFileSync(LAST_SEND_FILE, 'utf8')) as LastBroadcastSend;
-    if (parsed?.dateUtc) return parsed;
-  } catch {
-    /* no prior send recorded */
+async function assertSafeToSendLive(resendKey: string, forceSend: boolean): Promise<void> {
+  const today = utcDateKey();
+  const prior = loadLastBroadcastSend();
+  if (!forceSend && prior?.dateUtc === today) {
+    console.log(
+      `Skipping: daily broadcast already recorded for ${today}` +
+        (prior.broadcastId ? ` (${prior.broadcastId})` : '') +
+        '. Use --force to send again.',
+    );
+    process.exit(0);
   }
-  return null;
-}
 
-function saveLastBroadcastSend(broadcastId: string): void {
-  const record: LastBroadcastSend = {
-    dateUtc: utcDateKey(),
-    broadcastId,
-    at: new Date().toISOString(),
-  };
-  fs.writeFileSync(LAST_SEND_FILE, `${JSON.stringify(record)}\n`);
+  const active = await findActiveJobAlertsBroadcasts(resendKey, today);
+  if (!active.length) return;
+
+  if (forceSend) {
+    console.warn(
+      `Warning: ${active.length} active job-alerts broadcast(s) for ${today} already exist in Resend:`,
+    );
+    for (const row of active) {
+      console.warn(`  ${row.id} (${row.status}) ${row.name ?? ''}`);
+    }
+    return;
+  }
+
+  const canonical = prior?.broadcastId;
+  const primary = active.find((r) => r.id === canonical) ?? active[0];
+  if (primary?.id && primary.id !== canonical) {
+    saveLastBroadcastSend(primary.id);
+  }
+  console.log(
+    `Skipping: Resend already has an active broadcast for ${today}: ${primary.id} (${primary.status}). ` +
+      'Cancel duplicate drafts only — never cancel the primary send while queued. Use --force to override.',
+  );
+  process.exit(0);
 }
 
 function jobUrl(job: Job): string {
@@ -208,16 +211,8 @@ async function main() {
   }
   console.log(`Job broadcast (Resend) — ${isDryRun ? 'DRY RUN' : 'LIVE'}, 7-day pool, limit ${jobLimit}`);
 
-  if (!isDryRun && !forceSend && !args.includes('--preview')) {
-    const prior = loadLastBroadcastSend();
-    if (prior?.dateUtc === utcDateKey()) {
-      console.log(
-        `Skipping: daily broadcast already recorded for ${prior.dateUtc}` +
-          (prior.broadcastId ? ` (${prior.broadcastId})` : '') +
-          '. Use --force to send again.',
-      );
-      return;
-    }
+  if (!isDryRun && !args.includes('--preview')) {
+    await assertSafeToSendLive(apiKey, forceSend);
   }
 
   const allJobs = await getJobs();
@@ -264,10 +259,20 @@ async function main() {
   console.log(`Broadcast target: ${target.label}`);
 
   try {
-    if (!(await targetHasContacts(apiKey, target))) {
+    const segmentCount = await countSegmentContacts(apiKey, target.segmentId);
+    const minContacts = minSegmentContactsThreshold();
+    console.log(`Segment subscribers (subscribed): ${segmentCount.toLocaleString()} (min ${minContacts.toLocaleString()})`);
+    if (segmentCount === 0) {
       console.error(
-        `Resend ${target.label} has no segment members. Broadcasts need contacts in the segment — run:\n` +
+        `Resend ${target.label} has no segment members. Run:\n` +
           '  npx tsx scripts/sync-resend-broadcast-segment.ts',
+      );
+      process.exit(1);
+    }
+    if (segmentCount < minContacts) {
+      console.error(
+        `Segment ${target.segmentId} has only ${segmentCount} subscribed contacts (expected at least ${minContacts}). ` +
+          'Run sync-resend-broadcast-segment.ts or lower RESEND_MIN_SEGMENT_CONTACTS if intentional.',
       );
       process.exit(1);
     }
@@ -311,7 +316,7 @@ async function main() {
     subject,
     html,
     text,
-    name: `job-alerts ${new Date().toISOString().slice(0, 10)}`,
+    name: jobAlertsBroadcastName(),
     send: true,
   });
   if (sent.error) {

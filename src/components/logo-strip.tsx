@@ -6,6 +6,8 @@ export interface LogoItem {
   alt?: string;
   /** Cap rendered height so edge-to-edge wordmarks match padded logos optically. */
   maxHeight?: number;
+  /** Scale image inside its cell (e.g. 1.25 for small wordmarks). */
+  scale?: number;
 }
 
 export function LogoStrip({

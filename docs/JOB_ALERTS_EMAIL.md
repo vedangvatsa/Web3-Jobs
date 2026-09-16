@@ -143,6 +143,31 @@ Body:
 }
 ```
 
+## Resend broadcast safety (daily job alerts)
+
+Production sends use `scripts/send-resend-broadcast.ts` via `.github/workflows/daily-job-alerts.yml`.
+
+**One send per UTC day**
+
+- The script checks **`.resend-broadcast-last.json`** and the **Resend API** for an existing `job-alerts YYYY-MM-DD` broadcast in `sent`, `queued`, `scheduled`, or `pending` state.
+- If one exists, the run **exits without creating another** (unless you pass `--force`).
+
+**Never cancel the primary send while it is queued**
+
+- Resend stops delivery to **all remaining recipients** when a `queued` broadcast is canceled.
+- Use `scripts/cancel-queued-resend-broadcasts.ts` only to remove **duplicate** drafts/queued broadcasts.
+- That script **refuses to run** without a canonical id in `.resend-broadcast-last.json` and **never** touches that id.
+
+**Segment preflight**
+
+- Broadcasts target `RESEND_SEGMENT_ID` (General). Subscribers must be in the segment (`scripts/sync-resend-broadcast-segment.ts`).
+- Before send, the script counts subscribed segment members and aborts if below `RESEND_MIN_SEGMENT_CONTACTS` (default **50,000**).
+
+**Manual sends**
+
+- After a manual live send, commit and push `.resend-broadcast-last.json` before CI runs, or rely on the API duplicate guard.
+- Do not run cancel cleanup while a large broadcast is still draining unless you are sure you are canceling a **duplicate** id only.
+
 ## Monitoring
 
 Check script output for:

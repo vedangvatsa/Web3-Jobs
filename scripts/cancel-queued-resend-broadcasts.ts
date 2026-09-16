@@ -1,10 +1,20 @@
 #!/usr/bin/env tsx
 /**
- * Delete Resend broadcasts still in queued/draft state (stops accidental duplicate sends).
+ * Cancel duplicate job-alert broadcasts (draft / queued only).
+ * Never cancels the canonical broadcast id in .resend-broadcast-last.json.
+ *
  * Usage: RESEND_API_KEY=... npx tsx scripts/cancel-queued-resend-broadcasts.ts [--dry-run]
  */
 
 import { Resend } from 'resend';
+import {
+  cancelQueuedBroadcast,
+  isJobAlertsBroadcastForDate,
+  jobAlertsBroadcastName,
+  listRecentBroadcasts,
+  loadLastBroadcastSend,
+  utcDateKey,
+} from './resend-broadcast-guards';
 
 const dryRun = process.argv.includes('--dry-run');
 const apiKey = process.env.RESEND_API_KEY;
@@ -16,30 +26,47 @@ if (!apiKey) {
 const resend = new Resend(apiKey);
 
 async function main(): Promise<void> {
-  const list = await resend.broadcasts.list({ limit: 20 });
-  if (list.error) {
-    console.error('List failed:', list.error);
+  const today = utcDateKey();
+  const protectedId = loadLastBroadcastSend()?.broadcastId;
+  const rows = await listRecentBroadcasts(apiKey, 30);
+
+  const candidates = rows.filter((b) => {
+    if (!isJobAlertsBroadcastForDate(b, today)) return false;
+    if (protectedId && b.id === protectedId) return false;
+    const s = (b.status || '').toLowerCase();
+    return s === 'queued' || s === 'pending' || s === 'draft';
+  });
+
+  if (!protectedId) {
+    console.warn(
+      `No broadcast id in .resend-broadcast-last.json for ${today} — refusing to cancel queued sends. ` +
+        `Record today's send first (name: ${jobAlertsBroadcastName(today)}).`,
+    );
     process.exit(1);
   }
-  const rows = (list.data as { data?: Array<{ id: string; name?: string; status?: string }> })?.data ?? [];
-  const today = new Date().toISOString().slice(0, 10);
-  const queued = rows.filter((b) => {
-    const s = (b.status || '').toLowerCase();
-    if (s === 'queued' || s === 'pending') return true;
-    if (s === 'draft' && b.name?.includes(`job-alerts ${today}`)) return true;
-    return false;
-  });
-  if (!queued.length) {
-    console.log('No queued/draft broadcasts to cancel.');
+
+  if (!candidates.length) {
+    console.log(`No duplicate job-alerts broadcasts to clean (protected ${protectedId}).`);
     return;
   }
-  for (const b of queued) {
-    console.log(`${dryRun ? '[dry-run] would delete' : 'Deleting'} ${b.id} (${b.status}) ${b.name || ''}`);
-    if (!dryRun) {
+
+  for (const b of candidates) {
+    const s = (b.status || '').toLowerCase();
+    console.log(
+      `${dryRun ? '[dry-run] would clean' : 'Cleaning'} duplicate ${b.id} (${s}) ${b.name || ''} — protected ${protectedId}`,
+    );
+    if (dryRun) continue;
+
+    if (s === 'draft') {
       const removed = await resend.broadcasts.remove(b.id);
-      if (removed.error) {
-        console.error(`  Failed:`, removed.error);
-      }
+      if (removed.error) console.error('  remove failed:', removed.error);
+      continue;
+    }
+
+    try {
+      await cancelQueuedBroadcast(apiKey, b.id);
+    } catch (e) {
+      console.error('  cancel failed:', (e as Error).message);
     }
   }
 }

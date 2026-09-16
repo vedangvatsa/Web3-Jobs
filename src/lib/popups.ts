@@ -407,16 +407,16 @@ export const popupData: Popup[] = [
     "pricing": [
       "Campus access at Asaya is unbundled and pay-as-you-go rather than a single all-in bundle",
       "First Capital Startup Nation hosted packages are invitation-only (see thearccity.com/startup-nation)",
-      "Residency at rc in Network School is priced at $1,250/month for a shared room with all included",
+      "Residency at Arc in Network School is priced at $1,250/month for a shared room with all included",
       "Pop-up villages can range from $500 to $2,000, depending on the location and duration"
     ],
-    "pricingSummary": "Campus access at Asaya is unbundled and pay-as-you-go rather than a single all-in bundle · First Capital Startup Nation hosted packages are invitation-only (see thearccity.com/startup-nation) · Residency at rc in Network School is priced at $1,250/month for a shared room with all included · Pop-up villages can range from $500 to $2,000, depending on the location and duration",
+    "pricingSummary": "Campus access at Asaya is unbundled and pay-as-you-go rather than a single all-in bundle · First Capital Startup Nation hosted packages are invitation-only (see thearccity.com/startup-nation) · Residency at Arc in Network School is priced at $1,250/month for a shared room with all included · Pop-up villages can range from $500 to $2,000, depending on the location and duration",
     "amenities": [
       "Beachfront campus at Asaya, Mirissa Beach",
       "Founder community, events, and accelerator-style programming",
       "Ascend, Fulgur, Curious, and Arc Angel investor programming in Sri Lanka",
       "Member guide for relocators (password provided with membership)",
-      "In Network School, rc positions itself as a platform for founders to raise investment, hire local talent and drive GDP",
+      "In Network School, Arc positions itself as a platform for founders to raise investment, hire local talent and drive GDP",
       "3 nutritious meals (breakfast, lunch, dinner)",
       "Private co-working spaces",
       "Private office spaces",
@@ -425,33 +425,29 @@ export const popupData: Popup[] = [
     ],
     "history": [
       "2024 - Arc Lisbon pop-up (September-October), with Lisbon Web3 and tech community partners",
-      "As of 2026, rc is permanently and continuously at Network School",
-      "The project is looking for a special economic zone to build a city that will bring talent, capital and innovation to its"
+      "As of 2026, Arc is permanently and continuously at Network School",
+      "The project is looking for a special economic zone to build a city that will bring talent, capital, and innovation to its host country"
     ],
     "durationNotes": [
       "Permanent founder community at Asaya, Mirissa, with ongoing programming",
       "Historical pop-up villages typically ran about one to two months",
       "First Capital Startup Nation 2026: 28 September-1 October in Colombo",
-      "rc has a permanent residency at Network School and a permanent outpost in the charter city of Próspera",
-      "In addition, rc's pop-up villages last from 1 to 2 months",
-      "rc organizes pop-up villages as the means of drawing attention to the possibility and importance",
-      "of charter cities"
+      "Arc has a permanent residency at Network School and a permanent outpost in the charter city of Próspera",
+      "In addition, Arc's pop-up villages last from one to two months",
+      "Arc organizes pop-up villages as a way to draw attention to the possibility and importance of charter cities"
     ],
     "locationDetails": [
       "Primary campus: Asaya, a beachfront campus in Mirissa, Sri Lanka",
       "Arc Sri Lanka connects builders to Colombo and national institutions",
       "Prior activation: Network School in Astana, Kazakhstan (formerly Forest City, Malaysia until 2026)",
-      "rc's initial layer two base is located at Network School in Forest City, Malaysia"
+      "Arc's initial layer two base is at Network School in Astana, Kazakhstan"
     ],
     "overview": [
       "Arc accelerates the trajectory of people and places and ships legal, capital, and company infrastructure together.",
       "The Sri Lanka campus at Asaya on Mirissa Beach is open to the early community.",
-      "A layer two network state at Network School and a pop-up village organizer experimenting with new governance, organization, and legal models",
-      "A layer two network state is one which leverages the infrastructure of its parent to scale before",
-      "being independent",
-      "rc supports new societies by:",
-      "Helping recruit and retain citizens",
-      "Making it easier, faster and possible for organizations to do business"
+      "Arc is a layer two network state at Network School and a pop-up village organizer experimenting with new governance, organization, and legal models.",
+      "A layer two network state leverages the infrastructure of its parent to scale before becoming independent.",
+      "Arc supports new societies by helping recruit and retain citizens and making it easier, faster, and possible for organizations to do business."
     ],
     "posts": [
       {
