@@ -578,6 +578,9 @@
   "https://www.coindesk.com/business/2026/09/13/circle-s-usd400m-tazapay-deal-buys-emerging-market-links-that-take-years-to-build",
   "https://decrypt.co/378103/ai-agents-spending-money-research",
   "https://www.coindesk.com/news-analysis/2026/09/11/crypto-s-clarity-act-is-a-schroedinger-s-cat-in-life-death-limbo-as-u-s-senate-returns",
+  "https://decrypt.co/378324/coinex-shutting-down",
+  "https://www.coindesk.com/markets/2026/09/16/fed-meeting-is-shaping-up-to-be-a-nightmare-for-warsh-bitcoin-might-still-shine",
+  "https://www.theblock.co/news/regulation/2026-09-16-underdog-sues-connecticut-415242",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -1640,6 +1643,12 @@
   "AI Agents Spending Money Online? New Research Says Not Really",
   "U.S. Senate Vote on Crypto Legislation Faces Potential Delay",
   "Crypto's Clarity Act is a Schrödinger's cat in life-death limbo as U.S. Senate returns",
+  "Balancer proposes winding down protocol and distributing treasury",
+  "Crypto Exchange CoinEx Is Shutting Down After Nine Years, Giving Users Until December to Cash Out",
+  "US charges former Robinhood engineers with crypto insider trading",
+  "Fed meeting is shaping up to be a nightmare for Warsh. Bitcoin might still shine",
+  "Underdog Sues Connecticut Over Prediction Market Restrictions",
+  "Underdog sues Connecticut to stop sports prediction market crackdown",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -1750,5 +1759,8 @@
   "fp:befor|clear|foreign|get|help|hir|infiltrat|interview|job|korea",
   "fp:400m|acquir|border|bought|build|buy|circl|cross|develop|digital",
   "fp:527m|agent|found|generat|lab|littl|money|not|onlin|pay",
-  "fp:act|cancel|cat|clarity|cryptocurrency|death|delay|dinger|fac|lawmaker"
+  "fp:act|cancel|cat|clarity|cryptocurrency|death|delay|dinger|fac|lawmaker",
+  "fp:100m|asset|balancer|breach|cash|coinex|december|distribut|down|drain",
+  "fp:alleg|announcement|charg|earn|employe|engineer|federal|former|illicit|insider",
+  "fp:action|ceas|coinbas|connecticut|crackdown|desist|follow|includ|issu|legal"
 ]

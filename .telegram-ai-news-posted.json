@@ -575,6 +575,9 @@
   "https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/",
   "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/",
   "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
+  "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
+  "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+  "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1508,6 +1511,12 @@
   "Claude users found ways around safeguards for bioweapons research",
   "MIT Technology Review releases annual 35 Under 35 list",
   "The Download: biotech’s future and cheaper, cleaner steel",
+  "Profound raises $180 million at $1.8 billion valuation",
+  "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
+  "Philadelphia Faces Opposition to Proposed Data Center Construction",
+  "The AI data center boom is colliding with cities scarred by big industry",
+  "A list of failed and delayed AI projects",
+  "The AI graveyard: a running list of projects and startups that didn’t make it",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -1600,5 +1609,8 @@
   "fp:attorney|cit|citation|claim|court|defens|did|fact|fak|fictitious",
   "fp:attempt|befor|chatbot|delusion|delusional|feel|fil|insist|interactiv|jesus",
   "fp:anthropic|around|biological|bioweapon|bypass|complicat|control|distinguish|found|harmful",
-  "fp:annual35|biotech|biotechnology|cheaper|cleaner|download|fiv|futur|greener|list"
+  "fp:annual35|biotech|biotechnology|cheaper|cleaner|download|fiv|futur|greener|list",
+  "fp:180m|18b|aeo|engin|financ|fund|hit|last|month|optimization",
+  "fp:affect|big|boom|build|center|city|clos|collid|construction|data",
+  "fp:appl|delay|detail|didn|fac|fail|graveyard|initiativ|lik|list"
 ]

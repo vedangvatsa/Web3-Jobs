@@ -554,6 +554,9 @@
   "https://www.coindesk.com/business/2026/09/13/circle-s-usd400m-tazapay-deal-buys-emerging-market-links-that-take-years-to-build",
   "https://www.theblock.co/news/defi/2026-09-10-coinbase-rebrands-base-app-back-to-coinbase-wallet-after-just-over-a-year-as-social-experiment-falls-short-414115",
   "https://www.coindesk.com/markets/2026/09/13/fed-rate-hike-is-about-wall-street-not-inflation-says-economist",
+  "https://www.theblock.co/news/regulation/2026-09-16-underdog-sues-connecticut-415242",
+  "https://www.coindesk.com/markets/2026/09/16/fed-meeting-is-shaping-up-to-be-a-nightmare-for-warsh-bitcoin-might-still-shine",
+  "https://cointelegraph.com/news/ai-has-been-a-net-negative-for-crypto-phemex-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -1570,6 +1573,12 @@
   "Coinbase rebrands Base App back to Coinbase Wallet after just over a year as social experiment falls short",
   "Economist links Fed rate hike to Wall Street",
   "Fed rate hike is about Wall Street, not inflation, says economist",
+  "Balancer proposes winding down protocol and distributing treasury",
+  "Underdog sues Connecticut to stop sports prediction market crackdown",
+  "Crypto exchange CoinEx announces closure after nine years",
+  "Fed meeting is shaping up to be a nightmare for Warsh. Bitcoin might still shine",
+  "Phemex CEO Says AI Harms Crypto Security and Investment",
+  "AI has been a ‘net negative’ for crypto: Phemex CEO",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -1674,5 +1683,8 @@
   "fp:befor|contractor|employment|foreign|help|infiltrat|interview|korea|korean|north",
   "fp:400m|access|acquir|border|build|buy|circl|cross|emerg|expand",
   "fp:abandon|app|application|back|bas|coinbas|experiment|fall|initiativ|multi",
-  "fp:bank|becam|economist|federal|final|goldman|hik|inflation|interest|link"
+  "fp:bank|becam|economist|federal|final|goldman|hik|inflation|interest|link",
+  "fp:128m|balancer|connecticut|crackdown|decentraliz|distribut|down|exploit|financ|market",
+  "fp:announc|cash|cit|closur|coinex|complianc|customer|december|downturn|exchang",
+  "fp:aid|caus|centralization|ceo|cost|divert|federico|hacker|harm|higher"
 ]
