@@ -1,5 +1,5 @@
 {
-  "lastIndex": 196,
+  "lastIndex": 198,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -89,7 +89,8 @@
     "trader68003",
     "technology97b02",
     "product631",
-    "aso4"
+    "aso4",
+    "ddrm"
   ],
   "history": [
     {
@@ -3995,6 +3996,63 @@
       "platform": "instagram",
       "postedAt": "2026-09-16T17:47:18.956Z",
       "postId": "18079969373706521",
+      "verification": "verified"
+    },
+    {
+      "slug": "ddrm",
+      "company": "Zero Hash",
+      "title": "Director / Senior Director, Relationship Management",
+      "platform": "x",
+      "postedAt": "2026-09-16T22:14:24.905Z",
+      "postId": "2100347599840567571",
+      "verification": "verified"
+    },
+    {
+      "slug": "ddrm",
+      "company": "Zero Hash",
+      "title": "Director / Senior Director, Relationship Management",
+      "platform": "threads",
+      "postedAt": "2026-09-16T22:14:24.905Z",
+      "postId": "18111726995585354",
+      "verification": "verified",
+      "expectedText": "Zero Hash is hiring Director / Senior Director, Relationship Management: https://hashtagweb3.com/ddrm/th?og=2",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DdXVX65lWpQ",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "ddrm",
+      "company": "Zero Hash",
+      "title": "Director / Senior Director, Relationship Management",
+      "platform": "bluesky",
+      "postedAt": "2026-09-16T22:14:24.905Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mvo5zdku752j",
+      "verification": "verified"
+    },
+    {
+      "slug": "ddrm",
+      "company": "Zero Hash",
+      "title": "Director / Senior Director, Relationship Management",
+      "platform": "farcaster",
+      "postedAt": "2026-09-16T22:14:24.905Z",
+      "postId": "0xa197fabf05c88791b7874048d6bea14b157877db",
+      "verification": "verified"
+    },
+    {
+      "slug": "ddrm",
+      "company": "Zero Hash",
+      "title": "Director / Senior Director, Relationship Management",
+      "platform": "linkedin",
+      "postedAt": "2026-09-16T22:14:24.905Z",
+      "postId": "6aab14d5246d54e666ad9a88",
+      "verification": "verified"
+    },
+    {
+      "slug": "ddrm",
+      "company": "Zero Hash",
+      "title": "Director / Senior Director, Relationship Management",
+      "platform": "facebook",
+      "postedAt": "2026-09-16T22:14:24.905Z",
+      "postId": "691827047618629_1090251843582050",
       "verification": "verified"
     }
   ]
