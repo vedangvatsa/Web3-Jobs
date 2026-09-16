@@ -1543,6 +1543,14 @@
     "lastUrl": "https://hashtagweb3.com/sales256",
     "updatedAt": "2026-09-15T19:44:54.766Z"
   },
+  "8148731": {
+    "slugs": [
+      "sales330"
+    ],
+    "lastSlug": "sales330",
+    "lastUrl": "https://hashtagweb3.com/sales330",
+    "updatedAt": "2026-09-16T15:34:54.097Z"
+  },
   "8152994": {
     "slugs": [
       "product512",
@@ -2776,10 +2784,11 @@
   "7821268003": {
     "slugs": [
       "engineer68003",
-      "engineer658"
+      "engineer658",
+      "eng62"
     ],
-    "lastSlug": "engineer658",
-    "lastUrl": "https://hashtagweb3.com/engineer658",
+    "lastSlug": "eng62",
+    "lastUrl": "https://hashtagweb3.com/eng62",
     "updatedAt": "2026-09-15T19:44:54.906Z"
   },
   "a5248174-f846-49ce-924b-403a12914914": {
@@ -4442,10 +4451,11 @@
   "b6aed46a-ebce-4c0e-aee7-a63179a1f3bd": {
     "slugs": [
       "manager155",
-      "manager-0mb2m68"
+      "manager-0mb2m68",
+      "sls29"
     ],
-    "lastSlug": "manager-0mb2m68",
-    "lastUrl": "https://hashtagweb3.com/manager-0mb2m68",
+    "lastSlug": "sls29",
+    "lastUrl": "https://hashtagweb3.com/sls29",
     "updatedAt": "2026-09-15T19:44:58.073Z"
   },
   "7798187003": {
@@ -5214,42 +5224,87 @@
   },
   "f5200c58-cada-4e8b-b398-67175ec4bd6b": {
     "slugs": [
-      "engineer39"
+      "engineer39",
+      "engineer-0xmcf9r",
+      "engineer4bd6b"
     ],
-    "lastSlug": "engineer39",
-    "lastUrl": "https://hashtagweb3.com/engineer39",
+    "lastSlug": "engineer4bd6b",
+    "lastUrl": "https://hashtagweb3.com/engineer4bd6b",
     "updatedAt": "2026-09-16T08:17:58.135Z"
   },
   "7781607003": {
     "slugs": [
-      "market5"
+      "market5",
+      "market07003"
     ],
-    "lastSlug": "market5",
-    "lastUrl": "https://hashtagweb3.com/market5",
+    "lastSlug": "market07003",
+    "lastUrl": "https://hashtagweb3.com/market07003",
     "updatedAt": "2026-09-16T08:17:58.225Z"
   },
   "236d69b9-89c1-4a75-ada8-4896fb75b1a0": {
     "slugs": [
-      "fullstack47"
+      "fullstack47",
+      "fullstack5b1a0",
+      "fullstack68015",
+      "fullstack18"
     ],
-    "lastSlug": "fullstack47",
-    "lastUrl": "https://hashtagweb3.com/fullstack47",
+    "lastSlug": "fullstack18",
+    "lastUrl": "https://hashtagweb3.com/fullstack18",
     "updatedAt": "2026-09-16T08:17:58.557Z"
   },
   "c1f0e37d4f5c": {
     "slugs": [
-      "engineer844"
+      "engineer844",
+      "engineerd4f5c",
+      "engineer853",
+      "engineer276",
+      "engineer-1iztoev"
     ],
-    "lastSlug": "engineer844",
-    "lastUrl": "https://hashtagweb3.com/engineer844",
+    "lastSlug": "engineer-1iztoev",
+    "lastUrl": "https://hashtagweb3.com/engineer-1iztoev",
     "updatedAt": "2026-09-16T08:17:59.139Z"
   },
   "weex-backend-engineer-java-10004306059801": {
     "slugs": [
-      "backend116"
+      "backend116",
+      "backend59801",
+      "role59801",
+      "backend34"
     ],
-    "lastSlug": "backend116",
-    "lastUrl": "https://hashtagweb3.com/backend116",
+    "lastSlug": "backend34",
+    "lastUrl": "https://hashtagweb3.com/backend34",
     "updatedAt": "2026-09-16T08:17:59.865Z"
+  },
+  "c7c6097e-0ceb-4337-a846-29fd5ede3ed7": {
+    "slugs": [
+      "manager563"
+    ],
+    "lastSlug": "manager563",
+    "lastUrl": "https://hashtagweb3.com/manager563",
+    "updatedAt": "2026-09-16T15:34:53.785Z"
+  },
+  "5c28d417-ea14-40b5-a615-5d51c4f0d3a3": {
+    "slugs": [
+      "qa5"
+    ],
+    "lastSlug": "qa5",
+    "lastUrl": "https://hashtagweb3.com/qa5",
+    "updatedAt": "2026-09-16T15:34:54.399Z"
+  },
+  "5399853008": {
+    "slugs": [
+      "engineer834"
+    ],
+    "lastSlug": "engineer834",
+    "lastUrl": "https://hashtagweb3.com/engineer834",
+    "updatedAt": "2026-09-16T15:34:54.775Z"
+  },
+  "e0cbd0a8-7acf-4513-9f0b-1536624babc6": {
+    "slugs": [
+      "rust23"
+    ],
+    "lastSlug": "rust23",
+    "lastUrl": "https://hashtagweb3.com/rust23",
+    "updatedAt": "2026-09-16T15:34:55.164Z"
   }
 }
