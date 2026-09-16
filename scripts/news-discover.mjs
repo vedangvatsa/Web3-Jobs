@@ -12,10 +12,26 @@ import fs from 'fs';
 import path from 'path';
 
 const FEEDS = [
+  // Tier 1: major crypto outlets
   { name: 'CoinDesk', url: 'https://www.coindesk.com/arc/outboundfeeds/rss' },
-  { name: 'Crypto Briefing', url: 'https://cryptobriefing.com/feeds/' },
   { name: 'Cointelegraph', url: 'https://cointelegraph.com/rss' },
+  { name: 'The Block', url: 'https://www.theblock.co/rss.xml' },
+  { name: 'Blockworks', url: 'https://blockworks.com/feed' },
   { name: 'Decrypt', url: 'https://decrypt.co/feed' },
+  // Tier 2: more outlets (different editorial picks, faster on niche stories)
+  { name: 'Crypto Briefing', url: 'https://cryptobriefing.com/feeds/' },
+  { name: 'CryptoSlate', url: 'https://cryptoslate.com/feed/' },
+  { name: 'BeInCrypto', url: 'https://beincrypto.com/feed/' },
+  { name: 'Bitcoin Magazine', url: 'https://bitcoinmagazine.com/feed' },
+  { name: 'CoinJournal', url: 'https://coinjournal.net/feed/' },
+  { name: 'The Defiant', url: 'https://thedefiant.io/api/feed' },
+  { name: 'Unchained', url: 'https://unchainedcrypto.com/feed/' },
+  { name: 'Bankless', url: 'https://www.bankless.com/rss/feed' },
+  // Primary sources: announcements regulators/wires publish first,
+  // often hours before outlets (or never, for niche items)
+  { name: 'SEC Press Releases', url: 'https://www.sec.gov/news/pressreleases.rss' },
+  { name: 'Chainwire', url: 'https://chainwire.org/feed/' },
+  { name: 'Ethereum Foundation', url: 'https://blog.ethereum.org/en/feed.xml' },
 ];
 
 const args = process.argv.slice(2);
@@ -117,9 +133,35 @@ function rankScore(title) {
   let s = 0;
   if (/\b(sec|fca|cftc|senate|house|vote|bill|act|lawsuit|court|fine|ban|license|etf|staking|reserve|audit)\b/.test(t)) s += 3;
   if (/\b(launch|mainnet|upgrade|hardfork|raises|funding|invests|partnership|acquires)\b/.test(t)) s += 2;
+  if (/\b(hack|exploit|breach|drain|phishing|scam|rug)\b/.test(t)) s += 2;
+  if (/\b(prize|grant|bounty|hackathon|airdrop|rewards program)\b/.test(t)) s += 2;
   if (/\b(bitcoin|ethereum|solana|xrp|blackrock|coinbase|binance|circle|tether)\b/.test(t)) s += 1;
   if (/\b(price prediction|price analysis|will .* (hit|reach)|top .* to buy|explain(ed)?|what is|how to|guide)\b/.test(t)) s -= 4;
   return s;
+}
+
+async function fetchFeed(feed) {
+  try {
+    const res = await fetch(feed.url, {
+      headers: { 'User-Agent': 'HashtagWeb3NewsBot/1.0 (+https://hashtagweb3.com)', Accept: 'application/rss+xml, application/xml, text/xml' },
+      signal: AbortSignal.timeout(25000),
+    });
+    if (!res.ok) return [];
+    return parseFeed(await res.text()).map((it) => ({ ...it, source: feed.name }));
+  } catch {
+    return []; // a dead feed must never fail the run
+  }
+}
+
+function titleSetOf(title) {
+  return new Set(title.toLowerCase().replace(/[^a-z0-9\s]/g, ' ').split(/\s+/).filter((w) => w.length > 3));
+}
+
+function jaccardSets(a, b) {
+  if (!a.size || !b.size) return 0;
+  let inter = 0;
+  for (const w of a) if (b.has(w)) inter++;
+  return inter / (a.size + b.size - inter);
 }
 
 async function main() {
@@ -128,32 +170,33 @@ async function main() {
   const sets = titleSets();
   const seen = new Set();
   const out = [];
-  for (const feed of FEEDS) {
-    let xml = '';
-    try {
-      const res = await fetch(feed.url, {
-        headers: { 'User-Agent': 'HashtagWeb3NewsBot/1.0 (+https://hashtagweb3.com)', Accept: 'application/rss+xml, application/xml, text/xml' },
-        signal: AbortSignal.timeout(25000),
-      });
-      if (!res.ok) continue;
-      xml = await res.text();
-    } catch {
-      continue; // a dead feed must never fail the run
-    }
-    for (const it of parseFeed(xml)) {
-      const ts = it.pubDate ? Date.parse(it.pubDate) : NaN;
-      if (Number.isNaN(ts) || ts < cutoff) continue;
-      if (seen.has(it.link)) continue;
-      seen.add(it.link);
-      const overlap = overlapScore(it.title, toks);
-      if (overlap >= 0.45) continue; // already covered
-      const near = maxJaccard(it.title, sets);
-      if (near.score >= 0.5) continue; // same story, different words
-      out.push({ source: feed.name, title: it.title, link: it.link, published: new Date(ts).toISOString(), score: rankScore(it.title) });
-    }
+  const fetched = await Promise.all(FEEDS.map(fetchFeed));
+  for (const it of fetched.flat()) {
+    const ts = it.pubDate ? Date.parse(it.pubDate) : NaN;
+    if (Number.isNaN(ts) || ts < cutoff) continue;
+    if (seen.has(it.link)) continue;
+    seen.add(it.link);
+    const overlap = overlapScore(it.title, toks);
+    if (overlap >= 0.45) continue; // already covered
+    const near = maxJaccard(it.title, sets);
+    if (near.score >= 0.5) continue; // same story, different words
+    out.push({ source: it.source, title: it.title, link: it.link, published: new Date(ts).toISOString(), score: rankScore(it.title) });
   }
   out.sort((a, b) => b.score - a.score || (b.published > a.published ? 1 : -1));
-  console.log(JSON.stringify(out.slice(0, maxOut), null, 2));
+  // Cross-outlet dedup: 16 feeds report the same story with different
+  // URLs/titles. Keep the first (highest-ranked), merge sources into it.
+  const accepted = [];
+  for (const c of out) {
+    const cs = titleSetOf(c.title);
+    const dup = accepted.find((a) => jaccardSets(cs, titleSetOf(a.title)) >= 0.6);
+    if (dup) {
+      if (!dup.alsoCoveredBy.includes(c.source)) dup.alsoCoveredBy.push(c.source);
+      continue;
+    }
+    accepted.push({ ...c, alsoCoveredBy: [] });
+    if (accepted.length >= maxOut) break;
+  }
+  console.log(JSON.stringify(accepted, null, 2));
 }
 
 main();
