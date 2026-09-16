@@ -306,9 +306,10 @@ jobs:
           # Merge local state files with remote to prevent rebase conflicts
           npx tsx scripts/social/merge-state.ts
 
-          # Stage all cache, state, and company logo files (OG job cards need local PNGs).
-          # Descriptions live in content/job-description-shards/ (not the old monolith JSON).
-          git add content/jobs-cache.json content/job-description-shards/ content/events-cache.json content/legacy-slugs-archive.json scripts/social/*.json .telegram*.json .resend-broadcast-sent.json public/logo/companies/ 2>/dev/null || true
+          # Jobs cache + description shards are required; fail the step if they cannot be staged.
+          git add content/jobs-cache.json content/job-description-shards/
+          # Optional state / assets (missing paths must not block the jobs publish).
+          git add content/events-cache.json content/legacy-slugs-archive.json scripts/social/*.json .telegram*.json .resend-broadcast-sent.json public/logo/companies/ 2>/dev/null || true
 
           if git diff --staged --quiet; then
             echo "No changes to commit"
