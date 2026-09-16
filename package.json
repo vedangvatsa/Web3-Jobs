@@ -17,7 +17,7 @@
   },
   "scripts": {
     "dev": "next dev",
-    "prebuild": "npx tsx scripts/test-middleware.ts && npx tsx scripts/test-og-meta-articles.ts && npx tsx scripts/test-news-dedup.ts && npx tsx scripts/test-event-page-quality.ts && npx tsx scripts/test-job-slug-reserved.ts && npx tsx scripts/check-slug-collisions.ts && npx tsx scripts/check-event-map-cities.ts && (npx tsx scripts/stamp-article-dates.ts 2>/dev/null || true) && (npx tsx scripts/generate-latest-articles.ts 2>/dev/null || true) && (npx tsx scripts/generate-sitemap-json.ts 2>/dev/null || true)",
+    "prebuild": "npx tsx scripts/test-middleware.ts && npx tsx scripts/test-og-meta-articles.ts && npx tsx scripts/test-news-dedup.ts && npx tsx scripts/test-event-page-quality.ts && npx tsx scripts/test-job-page-content-quality.ts && npx tsx scripts/test-job-slug-reserved.ts && npx tsx scripts/check-slug-collisions.ts && npx tsx scripts/check-event-map-cities.ts && (npx tsx scripts/stamp-article-dates.ts 2>/dev/null || true) && (npx tsx scripts/generate-latest-articles.ts 2>/dev/null || true) && (npx tsx scripts/generate-sitemap-json.ts 2>/dev/null || true)",
     "test:job-slugs": "npx tsx scripts/test-job-slug-reserved.ts",
     "test:agent-readiness": "npx tsx scripts/test-agent-readiness.ts",
     "test:event-schema": "npx tsx scripts/test-event-schema.ts",
@@ -39,6 +39,8 @@
     "shard:job-descriptions": "npx tsx scripts/shard-job-descriptions.ts",
     "hiring-report:stats": "npx tsx scripts/compute-hiring-report-stats.ts --write",
     "test:job-description-shards": "npx tsx scripts/test-job-description-shards.ts",
+    "test:job-page-content": "npx tsx scripts/test-job-page-content-quality.ts",
+    "resanitize:job-descriptions": "npx tsx scripts/resanitize-job-description-shards.ts",
     "ingest:all": "npx tsx scripts/ingest-all.ts",
     "ingest:yzilabs": "npx tsx scripts/ingest-yzilabs.ts",
     "ingest:mercuryo": "npx tsx scripts/ingest-mercuryo-bamboo.ts",

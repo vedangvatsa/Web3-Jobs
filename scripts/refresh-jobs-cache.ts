@@ -255,6 +255,7 @@ function isUsableDescription(content: string | undefined): content is string {
 }
 
 import { isConcreteJobOpening, cleanCompanyName } from '../src/lib/job-filters';
+import { sanitizeJobDescriptionHtml } from '../src/lib/sanitize-html';
 
 function isConcreteOpening(title: string, link?: string): boolean {
   return isConcreteJobOpening(title, link);
@@ -354,7 +355,7 @@ async function refreshJobsCache() {
 
   const rememberDescription = (job: CachedJob, content: string | undefined): void => {
     if (isUsableDescription(content)) {
-      refreshedDescriptions.set(getJobContentKey(job), content);
+      refreshedDescriptions.set(getJobContentKey(job), sanitizeJobDescriptionHtml(content, job.company));
     }
   };
 

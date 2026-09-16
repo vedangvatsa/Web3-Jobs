@@ -142,6 +142,10 @@ export function cleanPublishHtml(input: string | null | undefined): string {
     .replace(/&lsquo;|&rsquo;/gi, "'");
 
   // Strip documentation site / GitBook & ATS leaked scraper artifacts
+  s = s.replace(
+    /(?:&nbsp;|&#160;|\s)*Need screen reading technology\?[\s\S]*?(?:compatible screen reader|view the)[\s\S]*?tutorial[\s\S]*?(?:\.|&lt;\/a&gt;|<\/a>)/gi,
+    '',
+  );
   s = s.replace(/<div class="sr-only">For the complete documentation index[\s\S]*?<\/div>/gi, '');
   s = s.replace(/For the complete documentation index, see[\s\S]*?\.(?:\s*This page is also available as Markdown\.)?/gi, '');
   s = s.replace(/This page is also available as (?:<a href="[^"]*">Markdown<\/a>|\[Markdown\]\([^)]*\)|Markdown|HTML|PDF)\.?/gi, '');
