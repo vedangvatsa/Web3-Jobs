@@ -1,5 +1,5 @@
 {
-  "lastIndex": 189,
+  "lastIndex": 190,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -57,7 +57,8 @@
     "marketingddc52",
     "analyst56101",
     "it4",
-    "sales65275"
+    "sales65275",
+    "trader119"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -3535,6 +3536,72 @@
       "platform": "linkedin",
       "postedAt": "2026-09-15T22:33:23.949Z",
       "postId": "6aa9c7ce4afcb5a41b05c12a",
+      "verification": "verified"
+    },
+    {
+      "slug": "trader119",
+      "company": "Robinhood",
+      "title": "Staff Data Scientist (Quantitative Researcher)",
+      "platform": "x",
+      "postedAt": "2026-09-16T00:32:46.546Z",
+      "postId": "2100020031580930500",
+      "verification": "verified"
+    },
+    {
+      "slug": "trader119",
+      "company": "Robinhood",
+      "title": "Staff Data Scientist (Quantitative Researcher)",
+      "platform": "threads",
+      "postedAt": "2026-09-16T00:32:46.546Z",
+      "postId": "18622161613061287",
+      "verification": "verified",
+      "expectedText": "Robinhood is hiring Staff Data Scientist (Quantitative Researcher): https://hashtagweb3.com/trader119/th?og=2",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DdVAaavm3YY",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "trader119",
+      "company": "Robinhood",
+      "title": "Staff Data Scientist (Quantitative Researcher)",
+      "platform": "bluesky",
+      "postedAt": "2026-09-16T00:32:46.546Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mvlvc6qdn72l",
+      "verification": "verified"
+    },
+    {
+      "slug": "trader119",
+      "company": "Robinhood",
+      "title": "Staff Data Scientist (Quantitative Researcher)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-16T00:32:46.546Z",
+      "postId": "0x3cbbeac73101fb76a6d7319508a7a72b0f81c6c2",
+      "verification": "verified"
+    },
+    {
+      "slug": "trader119",
+      "company": "Robinhood",
+      "title": "Staff Data Scientist (Quantitative Researcher)",
+      "platform": "linkedin",
+      "postedAt": "2026-09-16T00:32:46.546Z",
+      "postId": "6aa9e3cfce2285243e06b5c1",
+      "verification": "verified"
+    },
+    {
+      "slug": "trader119",
+      "company": "Robinhood",
+      "title": "Staff Data Scientist (Quantitative Researcher)",
+      "platform": "facebook",
+      "postedAt": "2026-09-16T00:32:46.546Z",
+      "postId": "691827047618629_1089474350326466",
+      "verification": "verified"
+    },
+    {
+      "slug": "trader119",
+      "company": "Robinhood",
+      "title": "Staff Data Scientist (Quantitative Researcher)",
+      "platform": "instagram",
+      "postedAt": "2026-09-16T00:32:46.546Z",
+      "postId": "18134673523727765",
       "verification": "verified"
     }
   ]
