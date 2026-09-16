@@ -1,5 +1,5 @@
 {
-  "lastIndex": 192,
+  "lastIndex": 194,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -60,7 +60,9 @@
     "sales65275",
     "trader119",
     "engineer1037",
-    "security257"
+    "security257",
+    "vip",
+    "cmp5"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -3736,6 +3738,138 @@
       "platform": "instagram",
       "postedAt": "2026-09-16T06:11:12.538Z",
       "postId": "18444193300124486",
+      "verification": "verified"
+    },
+    {
+      "slug": "vip",
+      "company": "OKX",
+      "title": "VIP业务策略与中台运营专家",
+      "platform": "x",
+      "postedAt": "2026-09-16T12:40:13.263Z",
+      "postId": "2100203100258931136",
+      "verification": "verified"
+    },
+    {
+      "slug": "vip",
+      "company": "OKX",
+      "title": "VIP业务策略与中台运营专家",
+      "platform": "threads",
+      "postedAt": "2026-09-16T12:40:13.263Z",
+      "postId": "18124386367641336",
+      "verification": "verified",
+      "expectedText": "OKX is hiring VIP业务策略与中台运营专家: https://hashtagweb3.com/vip/th?og=2",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DdWTqbWm1ah",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "vip",
+      "company": "OKX",
+      "title": "VIP业务策略与中台运营专家",
+      "platform": "bluesky",
+      "postedAt": "2026-09-16T12:40:13.263Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mvn5wpy5cx2i",
+      "verification": "verified"
+    },
+    {
+      "slug": "vip",
+      "company": "OKX",
+      "title": "VIP业务策略与中台运营专家",
+      "platform": "farcaster",
+      "postedAt": "2026-09-16T12:40:13.263Z",
+      "postId": "0x502be3a1786b0c84b1054b598e1104a2fd4c9c01",
+      "verification": "verified"
+    },
+    {
+      "slug": "vip",
+      "company": "OKX",
+      "title": "VIP业务策略与中台运营专家",
+      "platform": "linkedin",
+      "postedAt": "2026-09-16T12:40:13.263Z",
+      "postId": "6aaa8e4623fe21f44ed9e5b2",
+      "verification": "verified"
+    },
+    {
+      "slug": "vip",
+      "company": "OKX",
+      "title": "VIP业务策略与中台运营专家",
+      "platform": "facebook",
+      "postedAt": "2026-09-16T12:40:13.263Z",
+      "postId": "691827047618629_1089894000284501",
+      "verification": "verified"
+    },
+    {
+      "slug": "vip",
+      "company": "OKX",
+      "title": "VIP业务策略与中台运营专家",
+      "platform": "instagram",
+      "postedAt": "2026-09-16T12:40:13.263Z",
+      "postId": "18129969601673216",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp5",
+      "company": "Binance",
+      "title": "Legal Admin Executive - 12 months contract",
+      "platform": "x",
+      "postedAt": "2026-09-16T12:42:18.907Z",
+      "postId": "2100203626031693951",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp5",
+      "company": "Binance",
+      "title": "Legal Admin Executive - 12 months contract",
+      "platform": "threads",
+      "postedAt": "2026-09-16T12:42:18.907Z",
+      "postId": "18109934281926026",
+      "verification": "verified",
+      "expectedText": "Binance is hiring Legal Admin Executive - 12 months contract: https://hashtagweb3.com/cmp5/th?og=2",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DdWT5t1G6FG",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "cmp5",
+      "company": "Binance",
+      "title": "Legal Admin Executive - 12 months contract",
+      "platform": "bluesky",
+      "postedAt": "2026-09-16T12:42:18.907Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mvn62din4423",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp5",
+      "company": "Binance",
+      "title": "Legal Admin Executive - 12 months contract",
+      "platform": "farcaster",
+      "postedAt": "2026-09-16T12:42:18.907Z",
+      "postId": "0x5a949926af6850fb0dd67244ffee2150896199fa",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp5",
+      "company": "Binance",
+      "title": "Legal Admin Executive - 12 months contract",
+      "platform": "linkedin",
+      "postedAt": "2026-09-16T12:42:18.907Z",
+      "postId": "6aaa8ebfd692772a83ab725b",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp5",
+      "company": "Binance",
+      "title": "Legal Admin Executive - 12 months contract",
+      "platform": "facebook",
+      "postedAt": "2026-09-16T12:42:18.907Z",
+      "postId": "691827047618629_1089895386951029",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp5",
+      "company": "Binance",
+      "title": "Legal Admin Executive - 12 months contract",
+      "platform": "instagram",
+      "postedAt": "2026-09-16T12:42:18.907Z",
+      "postId": "18128329300763937",
       "verification": "verified"
     }
   ]
