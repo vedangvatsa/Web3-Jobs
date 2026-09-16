@@ -1,5 +1,5 @@
 {
-  "lastIndex": 194,
+  "lastIndex": 196,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -62,7 +62,8 @@
     "engineer1037",
     "security257",
     "vip",
-    "cmp5"
+    "cmp5",
+    "infra4"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -87,7 +88,8 @@
     "engineer66009",
     "trader68003",
     "technology97b02",
-    "product631"
+    "product631",
+    "aso4"
   ],
   "history": [
     {
@@ -3870,6 +3872,129 @@
       "platform": "instagram",
       "postedAt": "2026-09-16T12:42:18.907Z",
       "postId": "18128329300763937",
+      "verification": "verified"
+    },
+    {
+      "slug": "infra4",
+      "company": "Stripe",
+      "title": "Strategy & Operations, Infrastructure",
+      "platform": "x",
+      "postedAt": "2026-09-16T17:45:19.816Z",
+      "postId": "2100279882718626210",
+      "verification": "verified"
+    },
+    {
+      "slug": "infra4",
+      "company": "Stripe",
+      "title": "Strategy & Operations, Infrastructure",
+      "platform": "threads",
+      "postedAt": "2026-09-16T17:45:19.816Z",
+      "postId": "17917216506440725",
+      "verification": "verified",
+      "expectedText": "Stripe is hiring Strategy & Operations, Infrastructure: https://hashtagweb3.com/infra4/th?og=2",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DdW2lJCiRO8",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "infra4",
+      "company": "Stripe",
+      "title": "Strategy & Operations, Infrastructure",
+      "platform": "bluesky",
+      "postedAt": "2026-09-16T17:45:19.816Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mvnoydqy4q2i",
+      "verification": "verified"
+    },
+    {
+      "slug": "infra4",
+      "company": "Stripe",
+      "title": "Strategy & Operations, Infrastructure",
+      "platform": "farcaster",
+      "postedAt": "2026-09-16T17:45:19.816Z",
+      "postId": "0x9c83c4eed695814a6ad936f143a8fbf50ce5e620",
+      "verification": "verified"
+    },
+    {
+      "slug": "infra4",
+      "company": "Stripe",
+      "title": "Strategy & Operations, Infrastructure",
+      "platform": "linkedin",
+      "postedAt": "2026-09-16T17:45:19.816Z",
+      "postId": "6aaad5ca0ef3cc67c26e879b",
+      "verification": "verified"
+    },
+    {
+      "slug": "infra4",
+      "company": "Stripe",
+      "title": "Strategy & Operations, Infrastructure",
+      "platform": "facebook",
+      "postedAt": "2026-09-16T17:45:19.816Z",
+      "postId": "691827047618629_1090103676930200",
+      "verification": "verified"
+    },
+    {
+      "slug": "infra4",
+      "company": "Stripe",
+      "title": "Strategy & Operations, Infrastructure",
+      "platform": "instagram",
+      "postedAt": "2026-09-16T17:45:19.816Z",
+      "postId": "18124722259872305",
+      "verification": "verified"
+    },
+    {
+      "slug": "aso4",
+      "company": "Riot Platforms",
+      "title": "M&A Associate",
+      "platform": "x",
+      "postedAt": "2026-09-16T17:47:18.956Z",
+      "postId": "2100280382067233020",
+      "verification": "verified"
+    },
+    {
+      "slug": "aso4",
+      "company": "Riot Platforms",
+      "title": "M&A Associate",
+      "platform": "threads",
+      "postedAt": "2026-09-16T17:47:18.956Z",
+      "postId": "17889322104615316",
+      "verification": "verified",
+      "expectedText": "Riot Platforms is hiring M&A Associate: https://hashtagweb3.com/aso4/th?og=2",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DdW2zo4icgx",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "aso4",
+      "company": "Riot Platforms",
+      "title": "M&A Associate",
+      "platform": "bluesky",
+      "postedAt": "2026-09-16T17:47:18.956Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mvnp3zqsx62e",
+      "verification": "verified"
+    },
+    {
+      "slug": "aso4",
+      "company": "Riot Platforms",
+      "title": "M&A Associate",
+      "platform": "farcaster",
+      "postedAt": "2026-09-16T17:47:18.956Z",
+      "postId": "0xc8c281536b6a5216ee65b57fcfa826d9689fdd49",
+      "verification": "verified"
+    },
+    {
+      "slug": "aso4",
+      "company": "Riot Platforms",
+      "title": "M&A Associate",
+      "platform": "linkedin",
+      "postedAt": "2026-09-16T17:47:18.956Z",
+      "postId": "6aaad645ac5727150ae97b30",
+      "verification": "verified"
+    },
+    {
+      "slug": "aso4",
+      "company": "Riot Platforms",
+      "title": "M&A Associate",
+      "platform": "instagram",
+      "postedAt": "2026-09-16T17:47:18.956Z",
+      "postId": "18079969373706521",
       "verification": "verified"
     }
   ]
