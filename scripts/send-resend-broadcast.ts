@@ -164,6 +164,25 @@ async function main() {
   console.log(`Selected ${jobs.length} jobs (newest unsent from 7-day pool, 0 repeats).`);
 
   const resend = new Resend(apiKey);
+
+  const contacts = await resend.contacts.list({ segmentId, limit: 1 });
+  if (contacts.error) {
+    console.error('Could not verify Resend segment contacts:', contacts.error);
+    process.exit(1);
+  }
+  if (!contacts.data?.data?.length) {
+    console.error(
+      `Resend segment ${segmentId} has no contacts. Add subscribers in Resend (Audiences → Segments) or set RESEND_SEGMENT_ID to a segment with contacts.`,
+    );
+    const segments = await resend.segments.list();
+    if (!segments.error && segments.data?.data?.length) {
+      console.error('Segments in this Resend account:');
+      for (const seg of segments.data.data) {
+        console.error(`  ${seg.id}  ${seg.name}`);
+      }
+    }
+    process.exit(1);
+  }
   const subject = `${jobs.length} new Web3 roles today — ${jobs[0].title} @ ${jobs[0].company}`;
   const html = buildHtml(jobs);
   const text = buildText(jobs);

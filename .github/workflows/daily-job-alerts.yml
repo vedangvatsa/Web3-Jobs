@@ -32,9 +32,15 @@ jobs:
         run: npm ci --no-audit --no-fund
 
       - name: Send job alerts broadcast
-        run: npx tsx scripts/send-resend-broadcast.ts --limit 10 ${{ inputs.dry_run == true && '--dry-run' || '' }}
+        run: |
+          ARGS="--limit 10"
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.dry_run }}" = "true" ]; then
+            ARGS="$ARGS --dry-run"
+          fi
+          npx tsx scripts/send-resend-broadcast.ts $ARGS
         env:
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          RESEND_SEGMENT_ID: ${{ secrets.RESEND_SEGMENT_ID }}
           EMAIL_FROM: Alex <alex@hi.hashtagweb3.com>
           NEXT_PUBLIC_SITE_URL: https://hashtagweb3.com
 
