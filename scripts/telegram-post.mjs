@@ -331,10 +331,7 @@ function formatMessage(jobs) {
     return `• ${company} is hiring <a href="${j.url}">${title}</a>`;
   });
 
-  let text = lines.join('\n');
-  text += `\n\n_\n`;
-  text += `Tech Jobs: <a href="https://t.me/techjobsdaily">t.me/techjobsdaily</a>`;
-  return text;
+  return lines.join('\n');
 }
 
 function escapeHtml(text) {
