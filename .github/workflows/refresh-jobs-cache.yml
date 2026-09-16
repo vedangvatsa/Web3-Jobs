@@ -193,8 +193,8 @@ jobs:
         run: npx tsx scripts/send-resend-broadcast.ts --limit 10
         env:
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          RESEND_SEGMENT_ID: ${{ secrets.RESEND_SEGMENT_ID || secrets.RESEND_AUDIENCE_ID }}
           RESEND_AUDIENCE_ID: ${{ secrets.RESEND_AUDIENCE_ID }}
-          RESEND_SEGMENT_ID: ${{ secrets.RESEND_SEGMENT_ID }}
           EMAIL_FROM: Alex <alex@hi.hashtagweb3.com>
           NEXT_PUBLIC_SITE_URL: https://hashtagweb3.com
 
@@ -306,11 +306,13 @@ jobs:
           # Merge local state files with remote to prevent rebase conflicts
           npx tsx scripts/social/merge-state.ts
 
-          # Stage all cache, state, and company logo files (OG job cards need local PNGs)
-          git add content/jobs-cache.json content/job-descriptions.json content/events-cache.json content/legacy-slugs-archive.json scripts/social/*.json .telegram*.json .resend-broadcast-sent.json public/logo/companies/ 2>/dev/null || true
+          # Stage all cache, state, and company logo files (OG job cards need local PNGs).
+          # Descriptions live in content/job-description-shards/ (not the old monolith JSON).
+          git add content/jobs-cache.json content/job-description-shards/ content/events-cache.json content/legacy-slugs-archive.json scripts/social/*.json .telegram*.json .resend-broadcast-sent.json public/logo/companies/ 2>/dev/null || true
 
           if git diff --staged --quiet; then
             echo "No changes to commit"
+            git status --short content/jobs-cache.json content/job-description-shards/ | head -20
           else
             git commit -m "chore: refresh jobs cache + social post"
             for i in 1 2 3; do
