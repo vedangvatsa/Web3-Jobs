@@ -17,7 +17,7 @@
   },
   "scripts": {
     "dev": "next dev",
-    "prebuild": "npx tsx scripts/test-middleware.ts && npx tsx scripts/test-og-meta-articles.ts && npx tsx scripts/test-news-dedup.ts && npx tsx scripts/test-event-page-quality.ts && npx tsx scripts/test-job-page-content-quality.ts && npx tsx scripts/test-job-slug-reserved.ts && npx tsx scripts/check-slug-collisions.ts && npx tsx scripts/check-event-map-cities.ts && (npx tsx scripts/stamp-article-dates.ts 2>/dev/null || true) && (npx tsx scripts/generate-latest-articles.ts 2>/dev/null || true) && (npx tsx scripts/generate-sitemap-json.ts 2>/dev/null || true)",
+    "prebuild": "npx tsx scripts/test-middleware.ts && npx tsx scripts/test-og-meta-articles.ts && npx tsx scripts/test-news-dedup.ts && npx tsx scripts/test-event-page-quality.ts && npx tsx scripts/test-job-page-content-quality.ts && npx tsx scripts/test-job-slug-reserved.ts && npx tsx scripts/check-slug-collisions.ts && npx tsx scripts/check-event-map-cities.ts && (npx tsx scripts/generate-latest-articles.ts 2>/dev/null || true) && (npx tsx scripts/generate-sitemap-json.ts 2>/dev/null || true)",
     "test:job-slugs": "npx tsx scripts/test-job-slug-reserved.ts",
     "test:agent-readiness": "npx tsx scripts/test-agent-readiness.ts",
     "test:event-schema": "npx tsx scripts/test-event-schema.ts",
@@ -50,7 +50,7 @@
     "ingest:untracked": "npx tsx scripts/ingest-untracked-web3-companies.ts",
     "build": "next build",
     "postbuild": "mkdir -p .next/standalone/public && cp -r public/. .next/standalone/public/ 2>/dev/null || true && mkdir -p .next/standalone/.next/static && cp -r .next/static/* .next/standalone/.next/static/ 2>/dev/null || true",
-    "stamp-dates": "npx tsx scripts/stamp-article-dates.ts",
+
     "start": "node .next/standalone/server.js",
     "lint": "next lint",
     "cli": "node packages/cli/bin/hashtagweb3.js",
