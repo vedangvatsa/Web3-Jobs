@@ -3,9 +3,17 @@
 You are publishing 0-2 new News articles for hashtagweb3.com. Today is $TODAY (UTC).
 Work in /Users/vedang/ZCodeProject/Web3-Jobs (repo root is the working directory).
 
+## 0. Tips first (mandatory)
+
+Read `content/news-tips.md` FIRST. Every pending lead there was hand-picked
+because RSS missed it — verify its date/facts like any other story and cover
+it if it qualifies (fresh, verifiable, concrete, not a duplicate). In a live
+run, delete the lines you covered or rejected-as-stale in the same commit.
+
 ## 1. Discover (5 min)
 
-Run: `node scripts/news-discover.mjs --hours 10 --max 12`
+Run: `node scripts/news-discover.mjs --hours 12 --max 20`
+(Candidates with `alsoCoveredBy` are multi-outlet stories — prefer those.)
 Pick AT MOST $MAX_ARTICLES stories. A story qualifies ONLY if ALL hold:
 - Published within the lookback window (fresh news, not analysis of old events).
 - Has a verifiable primary source (official announcement, filing, regulator page,
