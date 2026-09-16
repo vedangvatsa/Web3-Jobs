@@ -584,6 +584,9 @@
   "https://hashtagweb3.com/zcash-vote?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/binance-etfs?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://www.coindesk.com/policy/2026/09/16/hamas-military-wing-told-donors-to-avoid-binance-use-bybit-okx-and-others-instead",
+  "https://hashtagweb3.com/fca-gateway?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://www.coindesk.com/markets/2026/09/16/payward-plans-to-offer-u-s-clients-onchain-perpetual-futures-on-hyperliquid",
+  "https://decrypt.co/378448/meta-fix-pervert-glasses",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -1658,6 +1661,12 @@
   "Binance Adds 11 US-Listed ETFs to Wealth Service",
   "Circle launches Arc blockchain with BlackRock and Visa",
   "Hamas’ military wing told donors to avoid Binance. Use Bybit, OKX and others instead",
+  "UK FCA Announces Crypto Authorisation Application Window",
+  "FCA Crypto Authorisation Window Opens Sept 30",
+  "Payward plans US onchain perpetual futures on Hyperliquid",
+  "Payward plans to offer U.S. clients onchain perpetual futures on Hyperliquid",
+  "Meta Reportedly Developing Smart Glasses Without Cameras",
+  "Meta May Have Found a Fix for Its 'Pervert Glasses'",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -1774,5 +1783,8 @@
   "fp:action|ceas|coinbas|connecticut|crackdown|desist|follow|includ|issu|legal",
   "fp:24m|almost|approve25|back|block|faster|fee|governanc|halv|holder",
   "fp:adds11|binanc|bond|broker|custody|earn|etf|execution|handl|introduces11",
-  "fp:arc|avoid|binanc|blackrock|blockchain|bybit|circl|donor|group|hama"
+  "fp:arc|avoid|binanc|blackrock|blockchain|bybit|circl|donor|group|hama",
+  "fp:announc|application|apply|authorisation|between|effect|fca|february2027|full|must",
+  "fp:acquir|american|client|decentraliz|derivativ|exchang|futur|hyperliquid|licens|offer",
+  "fp:aim|associat|camera|concern|develop|fix|found|glass|hav|may"
 ]
