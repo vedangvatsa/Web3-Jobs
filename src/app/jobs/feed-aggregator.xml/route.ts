@@ -1,5 +1,5 @@
 import { getJobs } from "@/lib/jobs";
-import { getJobSlug } from "@/lib/job-slugs";
+import { getJobSlug, getPublicJobUrl } from "@/lib/job-slugs";
 import { buildSynthesizedJobContent } from "@/lib/job-guides";
 import { getFeedLocation, getFeedRegion, getRecentFeedJobs } from "@/lib/job-feed-helpers";
 import { NextResponse } from "next/server";
@@ -24,8 +24,9 @@ export async function GET() {
   const jobsXml = feedJobs
     .map((job) => {
       const slug = getJobSlug(job);
-      const url = `${siteUrl}/${slug}`;
-      const applyUrl = job.link || url;
+      // Canonical page everywhere: never expose the internal ATS source URL.
+      const url = getPublicJobUrl(job, siteUrl);
+      const applyUrl = url;
       const title = job.title;
       const company = job.company;
       const location = getFeedLocation(job);

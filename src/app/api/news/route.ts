@@ -1,6 +1,6 @@
-import { getNewsFeed } from '@/lib/news';
 import { NextRequest, NextResponse } from 'next/server';
 import { getStandardApiHeaders } from '@/lib/api-headers';
+import { getAllArticles } from '@/lib/articles';
 
 export const revalidate = 300; // Cache on CDN for 5 minutes
 
@@ -33,9 +33,27 @@ export async function GET(request: NextRequest) {
       }
     }
 
-    const allNews = await getNewsFeed();
+    // Public API carries only our own reporting with absolute
+    // hashtagweb3.com links. Third-party RSS items have no page on our
+    // site, so they are excluded rather than leaking outlet URLs.
+    // (Same native mapping as the /news page.)
+    const siteUrl = 'https://hashtagweb3.com';
+    const articles = await getAllArticles();
+    const native = articles
+      .filter((article) => article.category === 'News')
+      .map((article) => ({
+        title: article.title,
+        link: `${siteUrl}/${article.slug}`,
+        pubDate: article.publishedDate
+          ? new Date(article.publishedDate).toISOString()
+          : new Date().toISOString(),
+        creator: 'Hashtag Web3',
+        contentSnippet: article.description,
+        source: 'Hashtag Web3',
+      }))
+      .sort((a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime());
 
-    let filtered = allNews;
+    let filtered = native;
     if (search) {
       const q = search.toLowerCase().trim();
       filtered = filtered.filter(

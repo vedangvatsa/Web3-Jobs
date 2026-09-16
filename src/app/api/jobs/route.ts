@@ -1,4 +1,5 @@
 import { getJobs } from '@/lib/jobs';
+import { getPublicJobUrl } from '@/lib/job-slugs';
 import { buildCompanyLogoMap } from '@/lib/job-listing';
 import { NextRequest, NextResponse } from 'next/server';
 import { getStandardApiHeaders } from '@/lib/api-headers';
@@ -115,7 +116,9 @@ export async function GET(request: NextRequest) {
 
     return NextResponse.json(
       {
-        data: paginated,
+        // Public links stay on hashtagweb3.com: replace the internal ATS
+        // source URL with our canonical job page (which carries Apply).
+        data: paginated.map((job) => ({ ...job, link: getPublicJobUrl(job) })),
         companyLogos,
         meta: {
           total,
