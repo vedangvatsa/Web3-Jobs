@@ -14,10 +14,6 @@ on:
         description: 'Bypass news cooldown and post digests now'
         type: boolean
         default: false
-      send_job_broadcast:
-        description: 'Send Resend daily job alerts broadcast (normally 9 AM IST schedule only)'
-        type: boolean
-        default: false
       diagnose_telegram:
         description: 'Only diagnose bot/channel access (no posts)'
         type: boolean
@@ -185,18 +181,6 @@ jobs:
       - name: Verify jobs cache integrity
         run: npx tsx scripts/verify-jobs-integrity.ts
         continue-on-error: true
-
-      - name: Send daily Resend job alerts broadcast (9 AM IST)
-        if: >-
-          (github.event_name == 'schedule' && github.event.schedule == '30 3 * * *')
-          || (github.event_name == 'workflow_dispatch' && inputs.send_job_broadcast == true)
-        run: npx tsx scripts/send-resend-broadcast.ts --limit 10
-        env:
-          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
-          RESEND_SEGMENT_ID: ${{ secrets.RESEND_SEGMENT_ID || secrets.RESEND_AUDIENCE_ID }}
-          RESEND_AUDIENCE_ID: ${{ secrets.RESEND_AUDIENCE_ID }}
-          EMAIL_FROM: Alex <alex@hi.hashtagweb3.com>
-          NEXT_PUBLIC_SITE_URL: https://hashtagweb3.com
 
       - name: Backfill Telegram URL audit log
         run: npx tsx scripts/backfill-telegram-job-url-log.ts

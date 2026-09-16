@@ -11,6 +11,10 @@ on:
         description: 'Validate without sending (creates + deletes a draft)'
         type: boolean
         default: false
+      force_send:
+        description: 'Send even if a broadcast was already sent today (UTC)'
+        type: boolean
+        default: false
 jobs:
   send-job-alerts:
     runs-on: ubuntu-latest
@@ -37,18 +41,22 @@ jobs:
           if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.dry_run }}" = "true" ]; then
             ARGS="$ARGS --dry-run"
           fi
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.force_send }}" = "true" ]; then
+            ARGS="$ARGS --force"
+          fi
           npx tsx scripts/send-resend-broadcast.ts $ARGS
         env:
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          # Broadcasts require RESEND_SEGMENT_ID (General = all subscribers). RESEND_AUDIENCE_ID is a legacy alias.
+          RESEND_SEGMENT_ID: ${{ secrets.RESEND_SEGMENT_ID || secrets.RESEND_AUDIENCE_ID }}
           RESEND_AUDIENCE_ID: ${{ secrets.RESEND_AUDIENCE_ID }}
-          RESEND_SEGMENT_ID: ${{ secrets.RESEND_SEGMENT_ID }}
           EMAIL_FROM: Alex <alex@hi.hashtagweb3.com>
           NEXT_PUBLIC_SITE_URL: https://hashtagweb3.com
 
       - name: Commit back sent-job state
         if: ${{ inputs.dry_run != true }}
         run: |
-          git add .resend-broadcast-sent.json 2>/dev/null || true
+          git add .resend-broadcast-sent.json .resend-broadcast-last.json 2>/dev/null || true
           if git diff --staged --quiet; then
             echo "No state changes"
           else
