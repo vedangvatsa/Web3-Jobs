@@ -318,6 +318,14 @@
     "lastUrl": "https://hashtagweb3.com/analyst-1dwunyg",
     "updatedAt": "2026-09-15T19:45:19.723Z"
   },
+  "8045862": {
+    "slugs": [
+      "operations75"
+    ],
+    "lastSlug": "operations75",
+    "lastUrl": "https://hashtagweb3.com/operations75",
+    "updatedAt": "2026-09-16T08:17:55.412Z"
+  },
   "8047129": {
     "slugs": [
       "designer-048k1xo"
@@ -613,10 +621,11 @@
   "8128629": {
     "slugs": [
       "manager28629",
-      "product620"
+      "product620",
+      "sls5"
     ],
-    "lastSlug": "product620",
-    "lastUrl": "https://hashtagweb3.com/product620",
+    "lastSlug": "sls5",
+    "lastUrl": "https://hashtagweb3.com/sls5",
     "updatedAt": "2026-09-15T19:45:17.828Z"
   },
   "8130725": {
@@ -1177,10 +1186,11 @@
       "web3",
       "web31",
       "web3-13n6xmb",
-      "web3b509b"
+      "web3b509b",
+      "web"
     ],
-    "lastSlug": "web3b509b",
-    "lastUrl": "https://hashtagweb3.com/web3b509b",
+    "lastSlug": "web",
+    "lastUrl": "https://hashtagweb3.com/web",
     "updatedAt": "2026-09-15T19:45:18.429Z"
   },
   "6011440004": {
@@ -2357,5 +2367,45 @@
     "lastSlug": "vp-0gytr4s",
     "lastUrl": "https://hashtagweb3.com/vp-0gytr4s",
     "updatedAt": "2026-09-15T19:45:20.411Z"
+  },
+  "4929522101": {
+    "slugs": [
+      "cmp2"
+    ],
+    "lastSlug": "cmp2",
+    "lastUrl": "https://hashtagweb3.com/cmp2",
+    "updatedAt": "2026-09-16T08:16:09.279Z"
+  },
+  "449ea855-3b3f-45cc-aa0d-90c084ec59eb": {
+    "slugs": [
+      "engineer655"
+    ],
+    "lastSlug": "engineer655",
+    "lastUrl": "https://hashtagweb3.com/engineer655",
+    "updatedAt": "2026-09-16T08:17:54.878Z"
+  },
+  "yzilabs-bd430bcc-0b07-491b-b84f-7b49747d7ef3": {
+    "slugs": [
+      "manager593"
+    ],
+    "lastSlug": "manager593",
+    "lastUrl": "https://hashtagweb3.com/manager593",
+    "updatedAt": "2026-09-16T08:17:55.097Z"
+  },
+  "4941499101": {
+    "slugs": [
+      "product381"
+    ],
+    "lastSlug": "product381",
+    "lastUrl": "https://hashtagweb3.com/product381",
+    "updatedAt": "2026-09-16T08:17:55.774Z"
+  },
+  "5405057008": {
+    "slugs": [
+      "operations143"
+    ],
+    "lastSlug": "operations143",
+    "lastUrl": "https://hashtagweb3.com/operations143",
+    "updatedAt": "2026-09-16T08:17:55.942Z"
   }
 }
