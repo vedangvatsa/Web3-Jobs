@@ -5,7 +5,10 @@ import * as fs from 'fs';
 import * as path from 'path';
 import { cleanPublishText, cleanPublishHtml } from './noslop';
 import { isGeneralOrPlaceholderJobTitle } from './job-filters';
-import { sanitizeHtml } from './sanitize-html';
+import {
+  decodeEntityEscapedMarkup,
+  sanitizeJobDescriptionHtml,
+} from './sanitize-html';
 import { COMPANY_RICH_ABOUT } from './company-profiles';
 import {
   getJobDescriptionShardFilename,
@@ -76,7 +79,7 @@ export function getCachedRawContent(job: Job, shardsPath = DESCRIPTIONS_SHARDS_P
     .find((content) => typeof content === 'string')
     || job.description
     || '';
-  return sanitizeHtml(raw);
+  return sanitizeJobDescriptionHtml(raw, job.company);
 }
 
 function plainTextFromHtml(value: string): string {
@@ -470,7 +473,7 @@ export function buildUniqueJobMetaDescription(job: Job): string {
 
     const isJunk = (s: string) => {
       return (
-        /equal opportunity|affirmative action|accommodations|privacy notice|background check|cookie|upgrade your browser|browser is not supported|all qualified applicants|without regard to|veteran status|disability status/i.test(s) ||
+        /equal opportunity|affirmative action|accommodations|privacy notice|background check|cookie|upgrade your browser|browser is not supported|all qualified applicants|without regard to|veteran status|disability status|screen reading technology|compatible screen reader/i.test(s) ||
         s.length < 40
       );
     };
@@ -630,12 +633,7 @@ export async function getAllJobsWithSlugs(): Promise<{ job: Job; slug: string }[
  * Clean up HTML tags and extract structured block elements using Cheerio.
  */
 function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'h4' | 'p' | 'li'; text: string }> {
-  let decoded = html
-    .replace(/&lt;/g, '<')
-    .replace(/&gt;/g, '>')
-    .replace(/&amp;/g, '&')
-    .replace(/&quot;/g, '"')
-    .replace(/&#39;/g, "'")
+  let decoded = decodeEntityEscapedMarkup(html)
     .replace(/&nbsp;/g, ' ');
 
   // Strip trailing dash after period before line/tag break
@@ -931,6 +929,9 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'h
     // Skip leaked / non-content noise
     if (/^#LI-[A-Z0-9-]+$/i.test(line)) continue;
     if (/^Skip to (main content|navigation|search)\b/i.test(line.trim())) continue;
+    if (/^Need screen reading technology\?/i.test(line.trim())) continue;
+    if (/\bcompatible screen reader\b.*\bview the\b.*tutorial\b/i.test(line.trim())) continue;
+    if (/^:+\s*$/.test(line.trim())) continue;
     if (/^page is loaded\.?\s*$/i.test(line.trim())) continue;
     if (/^It Pays to Work Here\.?$/i.test(line.trim())) continue;
     if (/^←\s*All open roles/i.test(line.trim())) continue;
@@ -1250,6 +1251,7 @@ const BOILER_SENTENCE_RES: RegExp[] = [
   /[^.!?]*\bdoes not make [\w\s]*decisions on the basis of\b[^.!?]*[.!?]*/gi,
   /[^.!?]*\bdo not discriminate\b[^.!?]*[.!?]*/gi,
   /[^.!?]*\bcelebrat\w+ (?:our |the )?(?:diverse|differences)\b[^.!?]*[.!?]*/gi,
+  /[^.!?]*\bNeed screen reading technology\?[\s\S]*?tutorial\b[^.!?]*[.!?]*/gi,
 ];
 
 function stripBoilerplateSentences(line: string): string {
@@ -1627,12 +1629,5 @@ export async function fetchJobOriginalContent(job: Job): Promise<string> {
  * the page renders raw HTML source as visible text (class names, tags).
  */
 function decodeDoubleEscapedHtml(html: string): string {
-  if (!html.includes('&lt;')) return html;
-  if (!/&lt;\/?(?:div|p|h[1-6]|ul|ol|li|a|strong|em|b|i|br|span|table|section|article)[\s>/]/i.test(html)) return html;
-  return html
-    .replace(/&lt;/g, '<')
-    .replace(/&gt;/g, '>')
-    .replace(/&quot;/g, '"')
-    .replace(/&#0?39;/g, "'")
-    .replace(/&amp;/g, '&');
+  return decodeEntityEscapedMarkup(html);
 }

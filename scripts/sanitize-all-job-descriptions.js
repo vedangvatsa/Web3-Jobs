@@ -49,6 +49,12 @@ function sanitizeHtml(html) {
   cleaned = cleaned.replace(/<p[^>]*>\s*#LI-[A-Z0-9]+\s*<\/p>/gi, "");
   cleaned = cleaned.replace(/#LI-[A-Z0-9]+/gi, "");
 
+  // Greenhouse/Coinbase accessibility screen-reader promo in EEO footers
+  cleaned = cleaned.replace(
+    /(?:&nbsp;|&#160;|\s)*Need screen reading technology\?[\s\S]*?(?:compatible screen reader|view the)[\s\S]*?tutorial[\s\S]*?(?:\.|&lt;\/a&gt;|<\/a>)/gi,
+    "",
+  );
+
   // 7. Convert trapped section headers inside <p><strong>...</strong></p> or <p><b>...</b></p> to <h3>
   const headerRegex = /<p[^>]*>\s*<(strong|b)>\s*(About Us|About|Overview|Responsibilities|Key Responsibilities|Qualifications|Requirements|What You'll Do|What You Need|Who You Are|Why Join Us|Why Work With Us|Benefits|Perks|Perks & Benefits|Benefits & Perks|How to Apply|Hiring Process|Where We Work|Culture|Equal Opportunity)\s*:?\s*<\/\1>\s*:?\s*<\/p>/gi;
   cleaned = cleaned.replace(headerRegex, (match, tag, headerText) => `<h3>${headerText.trim()}</h3>`);
