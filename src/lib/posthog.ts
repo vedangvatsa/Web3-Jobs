@@ -31,6 +31,39 @@ export function getPostHogClient(): Promise<PostHog | null> {
  return clientPromise;
 }
 
+const UTM_KEYS = [
+ '$utm_source',
+ '$utm_medium',
+ '$utm_campaign',
+ '$utm_term',
+ '$utm_content',
+ '$gclid',
+ '$gbraid',
+ '$wbraid',
+ '$fbclid',
+ '$msclkid',
+] as const;
+
+/**
+ * Parse campaign/click IDs from a query string. Manual $pageview captures
+ * do not get $utm_* automatically, so callers must attach these or all
+ * UTM attribution (telegram, newsletter, social links) goes blind.
+ */
+export function getUtmProps(search: string): Record<string, string> {
+ const props: Record<string, string> = {};
+ try {
+  const params = new URLSearchParams(search.startsWith('?') ? search : `?${search}`);
+  for (const key of UTM_KEYS) {
+   const plain = key.slice(1); // utm_source, gclid, ...
+   const value = params.get(plain) || params.get(key);
+   if (value) props[key] = value;
+  }
+ } catch {
+  // ignore malformed query strings
+ }
+ return props;
+}
+
 function withPostHog(action: (client: PostHog) => void): void {
  void getPostHogClient().then((client) => {
   if (client) action(client);

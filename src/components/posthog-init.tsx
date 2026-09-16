@@ -2,7 +2,7 @@
 
 import { useEffect } from 'react'
 import { usePathname } from 'next/navigation'
-import { getPostHogClient } from '@/lib/posthog'
+import { getPostHogClient, getUtmProps } from '@/lib/posthog'
 
 /**
  * Lightweight PostHog initializer. Avoids useSearchParams() so the root layout
@@ -19,7 +19,7 @@ export function PostHogInit() {
     void getPostHogClient().then((posthog) => {
       if (!posthog) return;
       const url = window.origin + pathname + window.location.search;
-      posthog.capture('$pageview', { '$current_url': url });
+      posthog.capture('$pageview', { '$current_url': url, ...getUtmProps(window.location.search) });
     });
    };
 
