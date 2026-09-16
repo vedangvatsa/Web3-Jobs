@@ -560,6 +560,9 @@
   "https://hashtagweb3.com/zcash-vote?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/avalanche-uae?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/binance-etfs?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/circle-arc?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/euro-pilot?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/fca-gateway?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -1588,6 +1591,12 @@
   "UAE Identity Vault Moves to Avalanche Blockchain",
   "Binance Adds 11 US Treasury and Bond ETFs",
   "Binance Adds 11 US-Listed ETFs to Wealth Service",
+  "Circle Launches Arc Blockchain Public Mainnet",
+  "Circle Arc Public Mainnet Is Live",
+  "ECB seeks online merchants for 2027 digital euro pilot",
+  "ECB Asks Online Merchants to Join Digital Euro Pilot Starting 2027",
+  "UK FCA to Accept Crypto Applications Starting September 2026",
+  "FCA Crypto Authorisation Window Opens Sept 30",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -1698,5 +1707,8 @@
   "fp:aid|caus|centralization|ceo|cost|divert|federico|hacker|harm|higher",
   "fp:24m|and2031|approv|back|block|faster|fee|for25|governanc|halv",
   "fp:125m|announc|avalanch|blockchain|claim|digital|documentation|host|identity|mov",
-  "fp:adds11|availabl|binanc|bond|broker|custody|earn|etf|execution|handl"
+  "fp:adds11|availabl|binanc|bond|broker|custody|earn|etf|execution|handl",
+  "fp:arc|blackrock|blockchain|circl|dtcc|fee|includ|liv|mainnet|network",
+  "fp:ask|beta|currency|digital|ecb|euro|for2027|in2029|join|long",
+  "fp:accept|application|apply|authorisation|between|effect|fca|february2027|full|must"
 ]
