@@ -149,7 +149,7 @@ export function EventHeroImage({
 
   if (!posterSrc || failed) {
     return (
-      <div className="w-full aspect-video rounded-2xl overflow-hidden border">
+      <div className="w-full aspect-video max-h-[320px] rounded-2xl overflow-hidden border">
         <EventCoverFallback name={name} />
       </div>
     );
@@ -163,7 +163,7 @@ export function EventHeroImage({
           alt={name}
           width={1600}
           height={900}
-          className="mx-auto w-full h-auto max-h-[75vh] object-contain"
+          className="mx-auto w-full h-auto max-h-[320px] object-contain"
           sizes="(max-width: 1280px) calc(100vw - 2rem), 1280px"
           priority
           onError={() => setFailed(true)}
@@ -172,7 +172,7 @@ export function EventHeroImage({
         <img
           src={posterSrc}
           alt={name}
-          className="mx-auto w-full h-auto max-h-[75vh] object-contain"
+          className="mx-auto w-full h-auto max-h-[320px] object-contain"
           loading="eager"
           fetchPriority="high"
           decoding="async"
