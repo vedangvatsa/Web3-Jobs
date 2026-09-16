@@ -40,6 +40,7 @@ jobs:
           npx tsx scripts/send-resend-broadcast.ts $ARGS
         env:
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          RESEND_AUDIENCE_ID: ${{ secrets.RESEND_AUDIENCE_ID }}
           RESEND_SEGMENT_ID: ${{ secrets.RESEND_SEGMENT_ID }}
           EMAIL_FROM: Alex <alex@hi.hashtagweb3.com>
           NEXT_PUBLIC_SITE_URL: https://hashtagweb3.com
