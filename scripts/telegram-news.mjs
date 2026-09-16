@@ -34,7 +34,8 @@ const STORIES_PER_POST = 3;
 // margin for GitHub cron drift and long earlier steps (~10–15m).
 const POST_COOLDOWN_HOURS = Number(process.env.NEWS_COOLDOWN_HOURS || 6);
 const FORCE_POST = process.argv.includes('--force') || process.env.FORCE_NEWS === '1';
-const CTA_URL = 'https://hashtagweb3.com/news?utm_source=telegram&utm_medium=social&utm_campaign=news_digest';
+const CTA_URL = 'https://hashtagweb3.com/news/tg?utm_source=telegram&utm_medium=social&utm_campaign=news_digest';
+const SITE_URL = 'https://hashtagweb3.com';
 // Use channel-specific state files so channel + group posts don't share cooldowns
 const channelSlug = (CHANNEL_ID || '').replace(/[^a-zA-Z0-9]/g, '');
 const POSTED_LOG = path.join(path.dirname(new URL(import.meta.url).pathname), `../.telegram-news-posted-${channelSlug}.json`);
@@ -70,6 +71,108 @@ function loadPosted() {
 
 function savePosted(posted) {
   fs.writeFileSync(POSTED_LOG, JSON.stringify(trimPostedLog(posted), null, 2));
+}
+
+// ── Native articles: our own reporting leads every digest ──
+function loadNativeArticles() {
+  const dir = path.join(path.dirname(new URL(import.meta.url).pathname), '../content/articles');
+  let files = [];
+  try {
+    files = fs.readdirSync(dir).filter((f) => f.endsWith('.md'));
+  } catch {
+    return [];
+  }
+  const clean = (s) => String(s || '')
+    .replace(/^>\s*-?\s*/, '')
+    .replace(/^["']|["']$/g, '')
+    .replace(/\s+/g, ' ')
+    .trim();
+  const out = [];
+  for (const f of files) {
+    let raw = '';
+    try {
+      raw = fs.readFileSync(path.join(dir, f), 'utf8');
+    } catch {
+      continue;
+    }
+    const fm = raw.match(/^---\r?\n([\s\S]*?)\r?\n---/);
+    if (!fm) continue;
+    const data = {};
+    let cur = null;
+    for (const line of fm[1].split('\n')) {
+      const kv = line.match(/^([A-Za-z0-9_-]+):\s*(.*)$/);
+      if (kv && !/^\s/.test(line)) {
+        cur = kv[1];
+        data[cur] = kv[2].trim();
+      } else if (cur && /^\s+\S/.test(line)) {
+        data[cur] += ' ' + line.trim();
+      } else {
+        cur = null;
+      }
+    }
+    if ((data.category || '').trim() !== 'News') continue;
+    const title = clean(data.title);
+    if (!title) continue;
+    const slug = f.replace(/\.md$/, '');
+    const pub = new Date(String(data.publishedDate || '').replace(/['"]/g, ''));
+    out.push({
+      title,
+      link: `${SITE_URL}/${slug}/tg`,
+      snippet: clean(data.description).substring(0, 300),
+      source: 'Hashtag Web3',
+      date: pub && !isNaN(pub) ? pub : new Date(0),
+      native: true,
+      slug,
+    });
+  }
+  out.sort((a, b) => b.date - a.date);
+  return out;
+}
+
+const SUMMARY_BANNED = '"signifies", "highlights", "underscores", "reshapes", "poised", "bolsters", "notably", "landscape", "paradigm", "innovative", "robust", "leveraging", "cutting-edge", "game-changer", "pivotal", "crucial", "essential", "transformative", "marks a", "reflects"';
+
+async function summarizeOne(item) {
+  const summaryPrompt = `Rewrite this Web3 news headline and description into a factual plain-English digest.
+Headline: ${item.title}
+Description: ${item.snippet}
+
+Write:
+- headline: factual, max 10 words, no hype.
+- summary: 1 sentence, max 20 words. Do not repeat the headline.
+
+BANNED WORDS: ${SUMMARY_BANNED}.
+
+Return ONLY JSON: {"headline": "...", "summary": "..."}`;
+  const sumText = await callGemini(summaryPrompt);
+  const jsonMatch = sumText.match(/\{[\s\S]*\}/);
+  return jsonMatch ? JSON.parse(jsonMatch[0]) : null;
+}
+
+// Summarize fresh native articles first so our own reporting leads the digest.
+async function summarizeNative(items, recentCovered, max = STORIES_PER_POST) {
+  const out = [];
+  for (const item of items.slice(0, max)) {
+    try {
+      const parsed = await summarizeOne(item);
+      if (!parsed || !parsed.headline) continue;
+      const candidate = `${parsed.headline} ${parsed.summary || ''} ${item.title}`;
+      if (alreadyCovered(candidate, recentCovered) || alreadyCovered(parsed.headline, recentCovered)) {
+        console.log(`⚠️ Pruned native story due to similarity with past headline: "${item.slug}"`);
+        continue;
+      }
+      out.push({
+        index: -1,
+        headline: parsed.headline,
+        summary: parsed.summary,
+        link: item.link,
+        source: item.source,
+        originalTitle: item.title,
+      });
+    } catch (e) {
+      console.warn(`  Failed to summarize native ${item.slug}: ${e.message}`);
+    }
+  }
+  return out;
 }
 
 // ── Fetch all RSS news ──
@@ -330,13 +433,28 @@ async function postOnce() {
     return;
   }
 
+  // ── Native first: our own reporting leads, RSS fills remaining slots ──
+  const nativeAll = loadNativeArticles();
+  const freshNative = nativeAll.filter((n) => {
+    if (normalizedPostedLinks.has(normalizeUrl(n.link))) return false;
+    if (alreadyCovered(n.title, recentCovered)) return false;
+    return true;
+  });
+  console.log(`  ${freshNative.length} fresh native articles`);
+  const nativeStories = await summarizeNative(freshNative, recentCovered);
+  console.log(`  ${nativeStories.length} native stories ready`);
+
+  const rssSlots = STORIES_PER_POST - nativeStories.length;
+  let stories = [];
+  if (rssSlots <= 0 || fresh.length === 0) {
+    console.log('  Native stories fill the digest, skipping RSS this run');
+  } else {
   console.log('🤖 Asking Gemini to filter & summarize...');
   const recentHeadlines = recentCovered.filter((h) => !String(h).startsWith('fp:')).slice(-80);
-  const pickCount = Math.min(STORIES_PER_POST, fresh.length);
+  const pickCount = Math.min(rssSlots, fresh.length);
   const rawStories = await filterAndSummarize(fresh, recentHeadlines, pickCount);
 
   // Programmatically validate and deduplicate Gemini's selection
-  const stories = [];
   const seenIndices = new Set();
   const seenUrls = new Set();
 
@@ -368,7 +486,7 @@ async function postOnce() {
   }
 
   // Dynamic Backfill Loop: if Gemini's returned selection is incomplete or had duplicates/errors
-  const targetCount = Math.min(STORIES_PER_POST, fresh.length);
+  const targetCount = Math.min(rssSlots, fresh.length);
   if (stories.length < targetCount) {
     console.log(`⚠️ Gemini selection had duplicates/errors. Got ${stories.length}/${targetCount}. Backfilling...`);
     for (let i = 0; i < fresh.length; i++) {
@@ -428,7 +546,11 @@ Return ONLY JSON: {"headline": "...", "summary": "..."}`;
     }
   }
 
-  console.log(`  Final validated ${stories.length} stories`);
+  } // end RSS fill
+
+  // Native stories lead the digest, RSS fills the rest.
+  stories = [...nativeStories, ...stories].slice(0, STORIES_PER_POST);
+  console.log(`  Final digest: ${stories.length} stories (${nativeStories.length} native)`);
 
   if (stories.length === 0) {
     console.log('  No valid stories after filtering, skipping this run');
