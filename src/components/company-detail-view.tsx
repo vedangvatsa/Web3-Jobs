@@ -28,8 +28,14 @@ export async function CompanyDetailView({ slug }: { slug: string }) {
     return company.name;
   })();
 
-  const logoSrc = resolveCompanyLogo(company.slug);
-  const faviconUrl = getCompanyFaviconUrl(company.website);
+  // Per-company override: Circle shows its circle.com favicon here.
+  // (The homepage "companies like" strip keeps using the file logo.)
+  const FAVICON_FIRST_SLUGS = new Set(['circle']);
+  const logoFile = resolveCompanyLogo(company.slug);
+  const favicon = getCompanyFaviconUrl(company.website);
+  const preferFavicon = FAVICON_FIRST_SLUGS.has(company.slug) && !!favicon;
+  const logoSrc = preferFavicon ? favicon : logoFile;
+  const faviconUrl = preferFavicon ? logoFile : favicon;
 
   const organizationSchema: WithContext<Organization> = {
     '@context': 'https://schema.org',
