@@ -40,9 +40,9 @@ export default async function NewsPage() {
  const nativeNews = articles
   .filter((article) => article.category === 'News')
   .map((article) => {
-   const publishedMs = article.publishedDate ? Date.parse(article.publishedDate) : 0;
-   const updatedMs = article.lastUpdated ? Date.parse(article.lastUpdated) : 0;
-   const pubMs = Math.max(publishedMs, updatedMs);
+   // Listing date is the original publish date only. lastUpdated reflects
+   // later edits and must never reorder or re-date older stories.
+   const pubMs = article.publishedDate ? Date.parse(article.publishedDate) : 0;
    return {
    title: article.title,
    link: `/${article.slug}`,
