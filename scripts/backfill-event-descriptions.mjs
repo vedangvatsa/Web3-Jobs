@@ -84,8 +84,21 @@ function extractLumaDescription(html) {
 function truncate(s) {
   if (s.length <= MAX_LEN) return s;
   const cut = s.slice(0, MAX_LEN);
-  const last = Math.max(cut.lastIndexOf('. '), cut.lastIndexOf('\n'));
-  return (last > MAX_LEN * 0.5 ? cut.slice(0, last + 1) : cut).trim();
+  // Prefer a sentence boundary; else a word boundary; never mid-word and
+  // never inside a URL.
+  const sent = Math.max(
+    cut.lastIndexOf('. '),
+    cut.lastIndexOf('.\n'),
+    cut.lastIndexOf('! '),
+    cut.lastIndexOf('? '),
+  );
+  if (sent > MAX_LEN * 0.4) return cut.slice(0, sent + 1).trim();
+  let end = cut.lastIndexOf(' ');
+  const urlStart = cut.lastIndexOf('http');
+  if (urlStart > -1 && urlStart < end && !cut.slice(urlStart, end).includes(' ')) {
+    end = cut.lastIndexOf(' ', urlStart);
+  }
+  return (end > MAX_LEN * 0.4 ? cut.slice(0, end) : cut).trim();
 }
 
 async function fetchLuma(url) {
