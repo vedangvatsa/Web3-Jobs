@@ -618,7 +618,15 @@
     "website": "https://luma.com/80q0842z",
     "coverImage": "/events/kbw-bridge-summit-2026.webp",
     "twitter": null,
-    "source": "curated-premier"
+    "source": "curated-premier",
+    "hosts": [
+      "Bridge34",
+      "Min H. Kim (TG: @therealminkim)"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Teheran-ro"
   },
   {
     "id": "kbw-crypto-house-seoul-2026",
@@ -634,7 +642,14 @@
     "website": "https://luma.com/r6iwcjcl",
     "coverImage": "/events/kbw-crypto-house-seoul-2026.webp",
     "twitter": null,
-    "source": "curated-premier"
+    "source": "curated-premier",
+    "hosts": [
+      "Team1 Korea",
+      "Team1"
+    ],
+    "price": "Free",
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Teheran-ro"
   },
   {
     "id": "kbw-gwdc-korea-2026",
@@ -650,7 +665,14 @@
     "website": "https://luma.com/cp87au4f",
     "coverImage": "/events/kbw-gwdc-korea-2026.webp",
     "twitter": null,
-    "source": "curated-premier"
+    "source": "curated-premier",
+    "hosts": [
+      "Web3Labs"
+    ],
+    "price": "$199 USD",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Gangnam-daero"
   },
   {
     "id": "kbw-bridge-seoul-2026",
@@ -666,7 +688,14 @@
     "website": "https://luma.com/ho64m7rb",
     "coverImage": "/events/kbw-bridge-seoul-2026.webp",
     "twitter": null,
-    "source": "curated-premier"
+    "source": "curated-premier",
+    "hosts": [
+      "Wavebridge"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Uisadang-daero"
   },
   {
     "id": "kbw-realfi-asia-stablecoin-2026",
@@ -682,7 +711,17 @@
     "website": "https://luma.com/nhi6rmrp",
     "coverImage": "/events/kbw-realfi-asia-stablecoin-2026.webp",
     "twitter": null,
-    "source": "curated-premier"
+    "source": "curated-premier",
+    "hosts": [
+      "Four Pillars",
+      "Heechang : : FourPillars",
+      "Alex Lim",
+      "THE CAPITAL SUMMIT"
+    ],
+    "price": "$100 USD",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Nonhyeon-ro"
   },
   {
     "id": "kbw-futuracanvas-2026",
@@ -698,7 +737,13 @@
     "website": "https://luma.com/9yusdba1",
     "coverImage": "/events/kbw-futuracanvas-2026.webp",
     "twitter": null,
-    "source": "curated-premier"
+    "source": "curated-premier",
+    "hosts": [
+      "FuturaCanvas"
+    ],
+    "price": "Free",
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Eonju-ro 133-gil"
   },
   {
     "id": "kbw-starkmart-seoul-2026",
@@ -714,7 +759,14 @@
     "website": "https://luma.com/StarkMart2026",
     "coverImage": "/events/kbw-starkmart-seoul-2026.webp",
     "twitter": null,
-    "source": "curated-premier"
+    "source": "curated-premier",
+    "hosts": [
+      "Starknet Foundation"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Yeoksam-dong"
   },
   {
     "id": "kbw-xrp-seoul-2026",
@@ -730,7 +782,10 @@
     "website": "https://luma.com/wm5ub5wk",
     "coverImage": "/events/kbw-xrp-seoul-2026.webp",
     "twitter": null,
-    "source": "curated-premier"
+    "source": "curated-premier",
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul"
   },
   {
     "id": "premier-token2049-singapore-2026",

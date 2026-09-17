@@ -14,7 +14,14 @@
     ],
     "url": "https://luma.com/ndrr1yqe",
     "coverImage": "/events/ibw-official-mip-20-road-to-devcon-10-24-ca376271.webp",
-    "source": "ibw-official"
+    "source": "ibw-official",
+    "hosts": [
+      "ETHMumbai"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Calcutta",
+    "neighborhood": "ONE BKC"
   },
   {
     "id": "ibw-official-ibw2026-pre-conference-vip-night-10-31",
@@ -65,7 +72,16 @@
     ],
     "url": "https://luma.com/multichaindaydevconmumbai",
     "coverImage": "/events/ibw-official-multichain-day-devcon-mumbai-2026wrap-6c5695e3.webp",
-    "source": "ibw-official"
+    "source": "ibw-official",
+    "hosts": [
+      "Marc Rose",
+      "Real Motion",
+      "Will G",
+      "Algorand Foundation"
+    ],
+    "price": "Free",
+    "timezone": "Asia/Kolkata",
+    "neighborhood": "Mount Mary"
   },
   {
     "id": "ibw-official-ethereum-cypherpunk-congress-3-11-02",
@@ -82,7 +98,13 @@
     ],
     "url": "https://luma.com/spsnos9t",
     "coverImage": "/events/ibw-official-ethereum-cypherpunk-congress-3-11-02-6e9a85b6.webp",
-    "source": "ibw-official"
+    "source": "ibw-official",
+    "hosts": [
+      "Mykola x Web3Privacy now",
+      "PG_CDG | Web3Privacy Now"
+    ],
+    "price": "Free",
+    "timezone": "Asia/Calcutta"
   },
   {
     "id": "ibw-official-ibw-institutional-forum-11-02",
@@ -116,7 +138,14 @@
     ],
     "url": "https://luma.com/solana-summit-india",
     "coverImage": "/events/ibw-official-solana-summit-india-11-02-5d0eab5b.webp",
-    "source": "ibw-official"
+    "source": "ibw-official",
+    "hosts": [
+      "Superteam India"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Kolkata",
+    "neighborhood": "Navpada"
   },
   {
     "id": "ibw-official-defi-security-summit-day-2-11-02",
@@ -150,7 +179,13 @@
     ],
     "url": "https://luma.com/n0a39ago",
     "coverImage": "/events/ibw-official-onchain-dev-city-india-11-02-4c32e03c.webp",
-    "source": "ibw-official"
+    "source": "ibw-official",
+    "hosts": [
+      "BackersStage Capital"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Kolkata"
   },
   {
     "id": "ibw-official-ibw-official-after-party-11-02",
@@ -184,7 +219,14 @@
     ],
     "url": "https://luma.com/quilla-vmnc",
     "coverImage": "/events/ibw-official-the-institutional-table-private-dinne-eb24494c.webp",
-    "source": "ibw-official"
+    "source": "ibw-official",
+    "hosts": [
+      "QuillAudits | Web3 Security"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Kolkata",
+    "neighborhood": "Bandra Kurla Complex"
   },
   {
     "id": "ibw-official-media-accelerator-startup-cohort-11-03",
@@ -201,7 +243,15 @@
     ],
     "url": "https://luma.com/mh0xmqg0",
     "coverImage": "/events/ibw-official-media-accelerator-startup-cohort-11-0-4072aef3.webp",
-    "source": "ibw-official"
+    "source": "ibw-official",
+    "hosts": [
+      "Meta Blockchain",
+      "Surya Gupta"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Calcutta",
+    "neighborhood": "Gate 20"
   },
   {
     "id": "ibw-official-ai-economic-forum-aief-truth-intelligence-summit-11-03",
@@ -218,7 +268,15 @@
     ],
     "url": "https://luma.com/a0e6b8at",
     "coverImage": "/events/ibw-official-ai-economic-forum-aief-truth-intellig-75f2082a.webp",
-    "source": "ibw-official"
+    "source": "ibw-official",
+    "hosts": [
+      "Tanmaya (Tan) Sharma",
+      "Omniscient AI • MSJ News • Tokenised News",
+      "Akanksha Sharma"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Kolkata"
   },
   {
     "id": "ibw-official-eip-hub-3-7-nov-11-03",
@@ -235,7 +293,15 @@
     ],
     "url": "https://luma.com/czi58jpe",
     "coverImage": "/events/ibw-official-eip-hub-3-7-nov-11-03-8ea01bf0.webp",
-    "source": "ibw-official"
+    "source": "ibw-official",
+    "hosts": [
+      "Pooja Ranjan",
+      "Akash Kshirsagar",
+      "MEENAKSHI SINGH"
+    ],
+    "price": "Free",
+    "timezone": "Asia/Kolkata",
+    "neighborhood": "G Block BKC"
   },
   {
     "id": "ibw-official-ravecon-b-ender-11-04",
@@ -252,7 +318,14 @@
     ],
     "url": "https://luma.com/1cnairat",
     "coverImage": "/events/ibw-official-ravecon-b-ender-11-04-a5517802.webp",
-    "source": "ibw-official"
+    "source": "ibw-official",
+    "hosts": [
+      "Jatin Kaul",
+      "Deepesh Sugnani"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Kolkata"
   },
   {
     "id": "ibw-official-pragma-mumbai-11-05",
@@ -320,6 +393,13 @@
     ],
     "url": "https://luma.com/quilla-rvp4",
     "coverImage": "/events/ibw-official-ship-safe-devcon-mumbai-security-sess-572793e5.webp",
-    "source": "ibw-official"
+    "source": "ibw-official",
+    "hosts": [
+      "QuillAudits | Web3 Security"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Kolkata",
+    "neighborhood": "Bandra Kurla Complex"
   }
 ]
