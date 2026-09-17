@@ -44,10 +44,26 @@ export function buildEditorialFromOrganizerDescription(event: Web3Event): EventE
   const ownDescription =
     rawDescription && !isThinEventListingDescription(rawDescription) ? rawDescription : '';
 
+  // Verifiable record facts only: hosts, price, approval, timezone.
+  const hostNames = Array.isArray(event.hosts)
+    ? event.hosts.filter((h): h is string => typeof h === 'string' && !!h.trim()).slice(0, 4)
+    : [];
+  const organizerName = event.organizer && event.organizer.name ? event.organizer.name : '';
+  const factsLine = [
+    hostNames.length ? `Hosted by ${hostNames.join(', ')}` : organizerName ? `Hosted by ${organizerName}` : '',
+    (event.price || '').trim() ? `Tickets ${(event.price || '').trim()}` : '',
+    event.approvalRequired ? 'approval required to attend' : '',
+    event.timezone ? `(${event.timezone} time)` : '',
+  ]
+    .filter(Boolean)
+    .join('. ');
+
   if (!ownDescription) {
     return {
-      summaryLead: `${event.name} on ${formattedDates} ${locationStr}. Register on Luma for the full description, agenda, and venue details.`,
-      sections: [],
+      summaryLead: factsLine
+        ? `${event.name} on ${formattedDates} ${locationStr}. ${factsLine}.`
+        : `${event.name} on ${formattedDates} ${locationStr}.`,
+      sections: factsLine ? [{ heading: 'Event facts', content: [`${factsLine}.`] }] : [],
     };
   }
 

@@ -251,7 +251,14 @@
     "coverImage": null,
     "source": "Hashtag Web3",
     "bypassedFilter": true,
-    "month": "September 2026"
+    "month": "September 2026",
+    "hosts": [
+      "Blooberries"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Europe/Madrid",
+    "neighborhood": "Sant Andreu de Palomar"
   },
   {
     "id": "luma-evt-IeQMUVoccMRtKpp",
@@ -478,7 +485,14 @@
     "coverImage": null,
     "source": "Hashtag Web3",
     "bypassedFilter": true,
-    "month": "September 2026"
+    "month": "September 2026",
+    "hosts": [
+      "Roosevelt Gordones",
+      "Aura Brito"
+    ],
+    "price": "Free",
+    "timezone": "Europe/Madrid",
+    "neighborhood": "Dreta de l'Eixample"
   },
   {
     "id": "luma-evt-f8Prol8DOi1m4Go",
@@ -549,7 +563,14 @@
     "coverImage": null,
     "source": "Hashtag Web3",
     "bypassedFilter": true,
-    "month": "September 2026"
+    "month": "September 2026",
+    "hosts": [
+      "Fireblocks"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Europe/Madrid",
+    "neighborhood": "La Maternitat i Sant Ramon"
   },
   {
     "id": "mu-314396577",
@@ -620,7 +641,14 @@
     "coverImage": null,
     "source": "Hashtag Web3",
     "bypassedFilter": true,
-    "month": "September 2026"
+    "month": "September 2026",
+    "hosts": [
+      "Trever GmbH"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Europe/Madrid",
+    "neighborhood": "La Maternitat i Sant Ramon"
   },
   {
     "id": "w3v-vaneck-investors-lunch",
@@ -635,7 +663,14 @@
     "coverImage": null,
     "source": "Hashtag Web3",
     "bypassedFilter": true,
-    "month": "September 2026"
+    "month": "September 2026",
+    "hosts": [
+      "Thijs Van boven"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Europe/Madrid",
+    "neighborhood": "La Maternitat i Sant Ramon"
   },
   {
     "id": "w3v-beyond-compliance",
@@ -650,7 +685,14 @@
     "coverImage": null,
     "source": "Hashtag Web3",
     "bypassedFilter": true,
-    "month": "September 2026"
+    "month": "September 2026",
+    "hosts": [
+      "Fireblocks"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Europe/Madrid",
+    "neighborhood": "La Maternitat i Sant Ramon"
   },
   {
     "id": "w3v-dutch-drinks-by-bcnl--bitvavo",
@@ -665,7 +707,15 @@
     "coverImage": null,
     "source": "Hashtag Web3",
     "bypassedFilter": true,
-    "month": "September 2026"
+    "month": "September 2026",
+    "hosts": [
+      "BCNL Foundation",
+      "Bitvavo Events"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Europe/Madrid",
+    "neighborhood": "La Barceloneta"
   },
   {
     "id": "w3v-vip-dinner-for-white--case-and-kbw",
@@ -680,7 +730,14 @@
     "coverImage": null,
     "source": "Hashtag Web3",
     "bypassedFilter": true,
-    "month": "September 2026"
+    "month": "September 2026",
+    "hosts": [
+      "European Blockchain Convention"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Europe/Madrid",
+    "neighborhood": "La Maternitat i Sant Ramon"
   },
   {
     "id": "w3v-art--digital-assets",
@@ -695,7 +752,16 @@
     "coverImage": null,
     "source": "Hashtag Web3",
     "bypassedFilter": true,
-    "month": "September 2026"
+    "month": "September 2026",
+    "hosts": [
+      "Hacken",
+      "Bryn Bennett",
+      "Boban"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Europe/Madrid",
+    "neighborhood": "Sant Antoni"
   },
   {
     "id": "w3v-dealflow-drinks-ebc",
@@ -710,7 +776,15 @@
     "coverImage": null,
     "source": "Hashtag Web3",
     "bypassedFilter": true,
-    "month": "September 2026"
+    "month": "September 2026",
+    "hosts": [
+      "Cryptic",
+      "Kenomic"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Europe/Madrid",
+    "neighborhood": "Les Corts"
   },
   {
     "id": "luma-evt-p6Unv9lQEqxP3st",
@@ -782,7 +856,13 @@
     "coverImage": null,
     "source": "Hashtag Web3",
     "bypassedFilter": true,
-    "month": "September 2026"
+    "month": "September 2026",
+    "hosts": [
+      "Fireblocks"
+    ],
+    "price": "Free",
+    "timezone": "Europe/Madrid",
+    "neighborhood": "La Maternitat i Sant Ramon"
   },
   {
     "id": "w3v-softstack-vip-dinner-1787258914817",
@@ -797,7 +877,15 @@
     "coverImage": "/events/w3v-softstack-vip-dinner-1787258914817-a05dcc00.webp",
     "source": "Hashtag Web3",
     "bypassedFilter": true,
-    "month": "September 2026"
+    "month": "September 2026",
+    "hosts": [
+      "Michael Van Baelen",
+      "Softstack.io ⧉"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Europe/Madrid",
+    "neighborhood": "La Nova Esquerra de l'Eixample"
   },
   {
     "id": "w3v-hackindia-spark-12-jaipur",
@@ -826,7 +914,14 @@
     "url": "https://luma.com/ispxo30p",
     "coverImage": "/events/ethorg-meetupweb3privacy-now-tokyo-meetupseptember-d9e2421b.webp",
     "source": "ethereum-org",
-    "month": "September 2026"
+    "month": "September 2026",
+    "hosts": [
+      "Mykola x Web3Privacy now",
+      "K is for Koss"
+    ],
+    "price": "Free",
+    "timezone": "Asia/Tokyo",
+    "neighborhood": "3"
   },
   {
     "id": "w3v-ethtokyo-2026",
@@ -1154,7 +1249,16 @@
     "coverImage": "/events/w3v-monad-blitz-berlin-hackathon-199c1bbd.webp",
     "source": "Hashtag Web3",
     "bypassedFilter": true,
-    "month": "September 2026"
+    "month": "September 2026",
+    "hosts": [
+      "Encode Club",
+      "Monad Foundation",
+      "AI Builders"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Europe/Berlin",
+    "neighborhood": "Berliner Innenstadt"
   },
   {
     "id": "ci-https---conferenceindex-org-event-international-conference-on-cryptocurrency-artificial-intelligence",
@@ -1229,7 +1333,14 @@
     "coverImage": "/events/w3v-perp-dex-day-with-reboundx-14ae8fef.webp",
     "source": "Hashtag Web3",
     "bypassedFilter": true,
-    "month": "September 2026"
+    "month": "September 2026",
+    "hosts": [
+      "ReboundX"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Eonju-ro 148-gil"
   },
   {
     "id": "w3v-ai-meets-the-chart--a-horizon-series-event",
@@ -1244,7 +1355,17 @@
     "coverImage": "/events/w3v-ai-meets-the-chart-a-horizon-series-event-401eadfe.webp",
     "source": "Hashtag Web3",
     "bypassedFilter": true,
-    "month": "September 2026"
+    "month": "September 2026",
+    "hosts": [
+      "GAEA Ventures",
+      "K1 Research",
+      "Becker Ventures",
+      "OriginsNetwork"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Gangnam-daero 102-gil"
   },
   {
     "id": "w3v-rayls-community-meetup-seoul",
@@ -1259,7 +1380,13 @@
     "coverImage": "/events/w3v-rayls-community-meetup-seoul-28bfb206.webp",
     "source": "Hashtag Web3",
     "bypassedFilter": true,
-    "month": "September 2026"
+    "month": "September 2026",
+    "hosts": [
+      "Rayls ."
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul"
   },
   {
     "id": "w3v-agentic-payments-onchain",
@@ -1274,7 +1401,16 @@
     "coverImage": "/events/w3v-agentic-payments-onchain-e64fe00a.webp",
     "source": "Hashtag Web3",
     "bypassedFilter": true,
-    "month": "September 2026"
+    "month": "September 2026",
+    "hosts": [
+      "Joel Mun",
+      "t54 Labs",
+      "Claire Jung",
+      "Bloom 🌸"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul"
   },
   {
     "id": "w3v-security-night-with-zircuit-finance-quantstamp-and-common-defense",
@@ -1289,7 +1425,16 @@
     "coverImage": "/events/w3v-security-night-with-zircuit-finance-quantstamp-42f3b7de.webp",
     "source": "Hashtag Web3",
     "bypassedFilter": true,
-    "month": "September 2026"
+    "month": "September 2026",
+    "hosts": [
+      "Zircuit",
+      "Common Defense",
+      "Quantstamp"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Gangnam-daero"
   },
   {
     "id": "w3v-connect-by-cointelegraph-seoul-edition",
@@ -1304,7 +1449,15 @@
     "coverImage": "/events/w3v-connect-by-cointelegraph-seoul-edition-6fa6b7d6.webp",
     "source": "Hashtag Web3",
     "bypassedFilter": true,
-    "month": "September 2026"
+    "month": "September 2026",
+    "hosts": [
+      "Cointelegraph Accelerator",
+      "Cointelegraph"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Eonju-ro"
   },
   {
     "id": "ma-korea-blockchain-week-2026--kbw2026-",
@@ -1375,7 +1528,13 @@
     "coverImage": "/events/w3v-onchain-capital-liquidity-defi-ai-e513c04f.webp",
     "source": "Hashtag Web3",
     "bypassedFilter": true,
-    "month": "September 2026"
+    "month": "September 2026",
+    "hosts": [
+      "lil room"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul"
   },
   {
     "id": "w3v-kbw2026-vcs--lps-cocktail-hour",
@@ -1390,7 +1549,14 @@
     "coverImage": "/events/w3v-kbw2026-vcs-lps-cocktail-hour-d9ddc29d.webp",
     "source": "Hashtag Web3",
     "bypassedFilter": true,
-    "month": "September 2026"
+    "month": "September 2026",
+    "hosts": [
+      "Claire Rennie",
+      "Rime Salmi"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul"
   },
   {
     "id": "w3v-digital-af--exhibition--side-events-space",
@@ -1405,7 +1571,17 @@
     "coverImage": "/events/w3v-digital-af-exhibition-side-events-space-27f9d01a.webp",
     "source": "Hashtag Web3",
     "bypassedFilter": true,
-    "month": "September 2026"
+    "month": "September 2026",
+    "hosts": [
+      "Comooooab",
+      "AI Builders",
+      "BuilderBase",
+      "RayRay"
+    ],
+    "price": "$25 EUR",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Yangjae-dong"
   },
   {
     "id": "w3v-crypto-compliance-and-legal-roundtable",
@@ -1420,7 +1596,15 @@
     "coverImage": "/events/w3v-crypto-compliance-and-legal-roundtable-45fbadd7.webp",
     "source": "Hashtag Web3",
     "bypassedFilter": true,
-    "month": "September 2026"
+    "month": "September 2026",
+    "hosts": [
+      "Delphine",
+      "Natalie Pi"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Teheran-ro"
   },
   {
     "id": "w3v-liquidity-evening-by-turtle",
@@ -1435,7 +1619,17 @@
     "coverImage": "/events/w3v-liquidity-evening-by-turtle-90039fb2.webp",
     "source": "Hashtag Web3",
     "bypassedFilter": true,
-    "month": "September 2026"
+    "month": "September 2026",
+    "hosts": [
+      "Tim Haldorsson",
+      "Luka Mrkic",
+      "Turtle XYZ",
+      "0G Foundation"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Teheran-ro"
   },
   {
     "id": "w3v-korea-blockchain-week-networking-rooftop",
@@ -1450,7 +1644,13 @@
     "coverImage": "/events/w3v-korea-blockchain-week-networking-rooftop-6a933967.webp",
     "source": "Hashtag Web3",
     "bypassedFilter": true,
-    "month": "September 2026"
+    "month": "September 2026",
+    "hosts": [
+      "Michael Coinfest"
+    ],
+    "price": "Free",
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Teheran-ro 25-gil"
   },
   {
     "id": "luma-evt-YpFXSHbNG9yCntK",
@@ -1479,7 +1679,15 @@
     "coverImage": "/events/w3v-solana-summit-korea-10bea678.webp",
     "source": "Hashtag Web3",
     "bypassedFilter": true,
-    "month": "September 2026"
+    "month": "September 2026",
+    "hosts": [
+      "Superteam Korea",
+      "Four Pillars"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Yeoui-daero"
   },
   {
     "id": "w3v-institutional-onchain-rwas--stablecoins",
@@ -1494,7 +1702,13 @@
     "coverImage": "/events/w3v-institutional-onchain-rwas-stablecoins-db27b76b.webp",
     "source": "Hashtag Web3",
     "bypassedFilter": true,
-    "month": "September 2026"
+    "month": "September 2026",
+    "hosts": [
+      "lil room"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul"
   },
   {
     "id": "w3v-perps--institutional-trading-liquidity--the-onchain-economy",
@@ -1509,7 +1723,13 @@
     "coverImage": "/events/w3v-perps-institutional-trading-liquidity-the-onch-6aa19afc.webp",
     "source": "Hashtag Web3",
     "bypassedFilter": true,
-    "month": "September 2026"
+    "month": "September 2026",
+    "hosts": [
+      "lil room"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul"
   },
   {
     "id": "mu-316361033",
@@ -1538,7 +1758,13 @@
     "coverImage": "/events/w3v-rayls-in-seoul-a6dc52f9.webp",
     "source": "Hashtag Web3",
     "bypassedFilter": true,
-    "month": "September 2026"
+    "month": "September 2026",
+    "hosts": [
+      "Rayls ."
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul"
   },
   {
     "id": "w3v-blockfesta-2026",
@@ -1553,7 +1779,16 @@
     "coverImage": "/events/w3v-blockfesta-2026-fab2c650.webp",
     "source": "Hashtag Web3",
     "bypassedFilter": true,
-    "month": "October 2026"
+    "month": "October 2026",
+    "hosts": [
+      "Ethan Choi",
+      "Jeyee(Jay) Kim",
+      "Tony Chung",
+      "Park Now"
+    ],
+    "price": "Free",
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Gukjegeumyung-ro"
   },
   {
     "id": "w3v-hsc-conference-seoul",
@@ -1568,7 +1803,14 @@
     "coverImage": "/events/w3v-hsc-conference-seoul-81af2c3a.webp",
     "source": "Hashtag Web3",
     "bypassedFilter": true,
-    "month": "October 2026"
+    "month": "October 2026",
+    "hosts": [
+      "Metaverse Post"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Bongeunsa-ro"
   },
   {
     "id": "w3v-yellow-korea-workshop--ai-agents",
@@ -1583,7 +1825,14 @@
     "coverImage": "/events/w3v-yellow-korea-workshop-ai-agents-eaea4065.webp",
     "source": "Hashtag Web3",
     "bypassedFilter": true,
-    "month": "October 2026"
+    "month": "October 2026",
+    "hosts": [
+      "CoinEasy",
+      "Yellow"
+    ],
+    "price": "Free",
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Gangnam-daero 102-gil"
   },
   {
     "id": "w3v-ps-lisbon",
@@ -1598,7 +1847,15 @@
     "coverImage": "/events/w3v-ps-lisbon-c5e5f26d.webp",
     "source": "Hashtag Web3",
     "bypassedFilter": true,
-    "month": "October 2026"
+    "month": "October 2026",
+    "hosts": [
+      "INPUT Global Events",
+      "PAYBIS",
+      "nSureAI"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Europe/Lisbon"
   },
   {
     "id": "luma-host-evt-evt-x18sFHsWoSwnaIP",
@@ -1630,7 +1887,13 @@
     "month": "October 2026",
     "category": "Networking",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Raphael | Taisu Ventures"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "w3v-0g-dev-day-zero-to-infinity",
@@ -1648,7 +1911,12 @@
     "month": "October 2026",
     "category": "Conference/Summit",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "0G Foundation"
+    ],
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "w3v-spacey-ventures-web3-synergy-night",
@@ -1665,8 +1933,14 @@
     "bypassedFilter": true,
     "month": "October 2026",
     "category": "Networking",
-    "price": "US$0-70",
-    "token2049SideEvent": true
+    "price": "Free",
+    "token2049SideEvent": true,
+    "hosts": [
+      "Spacey Ventures"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Central Area"
   },
   {
     "id": "w3v-skyline-social-singapore",
@@ -1684,7 +1958,13 @@
     "month": "October 2026",
     "category": "Party/Dinner",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Raphael | Taisu Ventures"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "w3v-digital-after-hours",
@@ -1702,7 +1982,16 @@
     "month": "October 2026",
     "category": "Networking",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Qore3",
+      "Jeffrey Cheong",
+      "Aneirin Flynn",
+      "Chainalysis APAC"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Central Area"
   },
   {
     "id": "w3v-exclusive-whiskey--cigar-evening",
@@ -1720,7 +2009,13 @@
     "month": "October 2026",
     "category": "Networking",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Janina Villapando"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Geylang"
   },
   {
     "id": "w3v-liquid-hours-by-libeara",
@@ -1738,7 +2033,13 @@
     "month": "October 2026",
     "category": "Party/Dinner",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Libeara Marketing",
+      "Surya Deepan Elango"
+    ],
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Central Area"
   },
   {
     "id": "w3v-blockchaincom-the-restaurant-at-the-end-of-the-conference",
@@ -1756,7 +2057,15 @@
     "month": "October 2026",
     "category": "Party/Dinner",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "James Maddison",
+      "Raaja Raikundalia",
+      "James Ambrose",
+      "LiangHan Koh"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore"
   },
   {
     "id": "mu-316461100",
@@ -1788,7 +2097,12 @@
     "month": "October 2026",
     "category": "Networking",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Sparky"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore"
   },
   {
     "id": "w3v-ai--formal-verification-for-onchain-finance",
@@ -1806,7 +2120,12 @@
     "month": "October 2026",
     "category": "Networking",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "QuillAudits | Web3 Security"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore"
   },
   {
     "id": "w3v-open",
@@ -1823,8 +2142,14 @@
     "bypassedFilter": true,
     "month": "October 2026",
     "category": "Party/Dinner",
-    "price": "Free",
-    "token2049SideEvent": true
+    "price": "$50 USD",
+    "token2049SideEvent": true,
+    "hosts": [
+      "Monad Foundation"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Singapore River"
   },
   {
     "id": "w3v-okx-dev-day-2026",
@@ -1842,7 +2167,14 @@
     "month": "October 2026",
     "category": "Workshop/Hackathon",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "OKX Events",
+      "OKX Developers"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "w3v-proof-of-health-2026",
@@ -1860,7 +2192,12 @@
     "month": "October 2026",
     "category": "Conference/Summit",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "AI X3"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore"
   },
   {
     "id": "w3v-solana-capital-forum-singapore",
@@ -1878,7 +2215,15 @@
     "month": "October 2026",
     "category": "Workshop/Hackathon",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Solana Foundation",
+      "Veronica",
+      "Daniel Zhang"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Orchard"
   },
   {
     "id": "w3v-mantle-rwa-day",
@@ -1896,7 +2241,15 @@
     "month": "October 2026",
     "category": "Conference/Summit",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Jared Chin | Mantle",
+      "Gemma | Mantle",
+      "Mantle Events"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "w3v-animoca-portfolio-day",
@@ -1911,7 +2264,16 @@
     "coverImage": "/events/w3v-animoca-portfolio-day-271fd2a0.webp",
     "source": "Hashtag Web3",
     "bypassedFilter": true,
-    "month": "October 2026"
+    "month": "October 2026",
+    "hosts": [
+      "Animoca Brands",
+      "Minds by Animoca Brands",
+      "Reap",
+      "Tatum"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore"
   },
   {
     "id": "w3v-agentic-money-2026",
@@ -1928,8 +2290,16 @@
     "bypassedFilter": true,
     "month": "October 2026",
     "category": "Conference/Summit",
-    "price": "Free",
-    "token2049SideEvent": true
+    "price": "$29.9 USD",
+    "token2049SideEvent": true,
+    "hosts": [
+      "LongTree Labs",
+      "Money in Motion",
+      "OSL Group"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "w3v-the-revo-connect-2026-singapore",
@@ -1947,7 +2317,12 @@
     "month": "October 2026",
     "category": "Networking",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Revo Digital Family Office"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore"
   },
   {
     "id": "w3v-web3-accountant-meet-2026",
@@ -1965,7 +2340,13 @@
     "month": "October 2026",
     "category": "Networking",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Chan Wei Xiang"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Hougang"
   },
   {
     "id": "w3v-alpha-after-hours--where-traders-meet",
@@ -1983,7 +2364,9 @@
     "month": "October 2026",
     "category": "Networking",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore"
   },
   {
     "id": "w3v-dwf-labs-haus",
@@ -2001,7 +2384,12 @@
     "month": "October 2026",
     "category": "Networking",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "DWF Labs"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore"
   },
   {
     "id": "w3v-open-board-founders-vcs",
@@ -2019,7 +2407,16 @@
     "month": "October 2026",
     "category": "Networking",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Cicada",
+      "Sal'Ad Labs",
+      "Sonic Labs",
+      "NELSA"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "w3v-okx-x-bitgo-after-hours--token2049",
@@ -2034,7 +2431,16 @@
     "coverImage": "/events/w3v-okx-x-bitgo-after-hours-token2049-27fc8c3e.webp",
     "source": "Hashtag Web3",
     "bypassedFilter": true,
-    "month": "October 2026"
+    "month": "October 2026",
+    "hosts": [
+      "OKX Events",
+      "BitGo Events",
+      "Qing Rui L"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "w3v-stablecoins-from-tokens-to-rails-a-debate",
@@ -2052,7 +2458,14 @@
     "month": "October 2026",
     "category": "Conference/Summit",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Fintech Guild",
+      "M0"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Central Area"
   },
   {
     "id": "w3v-the-future-of-money--payments",
@@ -2070,7 +2483,13 @@
     "month": "October 2026",
     "category": "Party/Dinner",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Raphael | Taisu Ventures"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Central Area"
   },
   {
     "id": "w3v-the-blue-party",
@@ -2088,7 +2507,15 @@
     "month": "October 2026",
     "category": "Networking",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Toobit",
+      "Coin Bureau",
+      "Cloudflare_Youjin W"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Central Area"
   },
   {
     "id": "w3v-10x-research-get-together",
@@ -2106,7 +2533,13 @@
     "month": "October 2026",
     "category": "Party/Dinner",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Markus Thielen",
+      "10x Research"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore"
   },
   {
     "id": "dtt-token2049-singapore-2026",
@@ -2138,7 +2571,14 @@
     "month": "October 2026",
     "category": "Conference/Summit",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Aleksandra Ziobro",
+      "Accountable"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Central Area"
   },
   {
     "id": "w3v-thought-leaders-summit",
@@ -2156,7 +2596,15 @@
     "month": "October 2026",
     "category": "Workshop/Hackathon",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Helen Lyu",
+      "Jonathan Gieg",
+      "Laura G"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "w3v-seracx-stablecoins-liquidity-meet-flow",
@@ -2174,7 +2622,12 @@
     "month": "October 2026",
     "category": "Networking",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Douglas Gan"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore"
   },
   {
     "id": "w3v-vcs--lps-cocktail-hour",
@@ -2192,7 +2645,14 @@
     "month": "October 2026",
     "category": "Party/Dinner",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Rime Salmi",
+      "fractl",
+      "Dave Rodman"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore"
   },
   {
     "id": "w3v-the-real-yield-happy-hour-by-honeyb",
@@ -2210,7 +2670,10 @@
     "month": "October 2026",
     "category": "Networking",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "w3v-sts-digital--derivexyz---its-good-to-have-options",
@@ -2228,7 +2691,14 @@
     "month": "October 2026",
     "category": "Party/Dinner",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Egon Feiner",
+      "Scott / sk @ STS Digital"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "w3v-institutions-x-whales-vvip-yatch-party",
@@ -2246,7 +2716,13 @@
     "month": "October 2026",
     "category": "Networking",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Capvise Global"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "w3v-night-by-the-pool",
@@ -2264,7 +2740,15 @@
     "month": "October 2026",
     "category": "Networking",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Ronghui Zhu @FOMO Pay",
+      "Jing Wen",
+      "Yingli from Sumsub",
+      "Ksenia Babochkina"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore"
   },
   {
     "id": "w3v-utxo-pitch-night",
@@ -2282,7 +2766,15 @@
     "month": "October 2026",
     "category": "Networking",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Samiz Bayan",
+      "Elis Moormaa",
+      "Jennifer Lee"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Central Area"
   },
   {
     "id": "w3v-anti-capital-private-reception-singapore",
@@ -2300,7 +2792,16 @@
     "month": "October 2026",
     "category": "Networking",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Kitty",
+      "Anti Capital",
+      "Maxim ｜Anti Capital",
+      "Nick | Anti Capital"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Central Area"
   },
   {
     "id": "w3v-mst-blockchain---offchain-hours--consensus--cocktails",
@@ -2318,7 +2819,12 @@
     "month": "October 2026",
     "category": "Party/Dinner",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "MST Blockchain"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore"
   },
   {
     "id": "w3v-mini-apps-after-dark",
@@ -2336,7 +2842,12 @@
     "month": "October 2026",
     "category": "Networking",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "MiniApps Store"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore"
   },
   {
     "id": "w3v-quantstamp-x-common-defense-singapore-sips",
@@ -2354,7 +2865,16 @@
     "month": "October 2026",
     "category": "Party/Dinner",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Quantstamp",
+      "Common Defense",
+      "Hypernative Events",
+      "Paige Connor"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Singapore River"
   },
   {
     "id": "w3v-institutional-soire",
@@ -2369,7 +2889,14 @@
     "coverImage": "/events/w3v-institutional-soire-0062e60a.webp",
     "source": "Hashtag Web3",
     "bypassedFilter": true,
-    "month": "October 2026"
+    "month": "October 2026",
+    "hosts": [
+      "INPUT Global Events"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "w3v-rwa-beyond-the-hype",
@@ -2387,7 +2914,13 @@
     "month": "October 2026",
     "category": "Networking",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "BiFu Global"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "w3v-retrofuture-soiree-by-changenow-singapore-edition",
@@ -2405,7 +2938,13 @@
     "month": "October 2026",
     "category": "Party/Dinner",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "ChangeNOW"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "w3v-payments-treasury-and-tokenization-summit-2026",
@@ -2423,7 +2962,16 @@
     "month": "October 2026",
     "category": "Conference/Summit",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Vidushan Premathiratne - Founder, 8 Circle",
+      "Uma Rudd Tan",
+      "Sonny Mohanty",
+      "XDC Network"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "w3v-on-chain-horizons-founders-x-funders",
@@ -2441,7 +2989,16 @@
     "month": "October 2026",
     "category": "Networking",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Kenneth Bok",
+      "Jen Hong",
+      "Mariana De Win Tricolici",
+      "SC Ventures by Standard Chartered"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "w3v-vntr-investor-forum-singapore",
@@ -2459,7 +3016,12 @@
     "month": "October 2026",
     "category": "Networking",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Yuri Rabinovich"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore"
   },
   {
     "id": "w3v-gm-ai-v2",
@@ -2477,7 +3039,16 @@
     "month": "October 2026",
     "category": "Networking",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "0xJeff",
+      "Kite AI",
+      "CodecFlow",
+      "BlockRun AI"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Singapore River"
   },
   {
     "id": "w3v-quantum--privacy-day",
@@ -2495,7 +3066,14 @@
     "month": "October 2026",
     "category": "Workshop/Hackathon",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "NEAR Foundation",
+      "Quantus"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "w3v-ethereum-ecosystem-summit",
@@ -2513,7 +3091,16 @@
     "month": "October 2026",
     "category": "Conference/Summit",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Hong Kong Ethereum Community Hub",
+      "Lido Events",
+      "Mandy Campbell (Sharplink)",
+      "Danny Scalone (Sharplink)"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "w3v-agentic-finance-summit--the-odds-prediction-markets-live",
@@ -2531,7 +3118,16 @@
     "month": "October 2026",
     "category": "Conference/Summit",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Tal Mor",
+      "MarketAcross Events",
+      "Mira (fka Crypto Nomads)",
+      "Alpaca"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "w3v-the-treasury-table-a-cfo-summit",
@@ -2549,7 +3145,13 @@
     "month": "October 2026",
     "category": "Conference/Summit",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Locus"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "w3v-proof-of-liquidity-singapore-edition-by-yield-network",
@@ -2567,7 +3169,16 @@
     "month": "October 2026",
     "category": "Party/Dinner",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Yield Network",
+      "Nexus Mutual",
+      "Ink Foundation",
+      "RockawayX"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "w3v-the-garden-room",
@@ -2585,7 +3196,15 @@
     "month": "October 2026",
     "category": "Party/Dinner",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "INPUT Global Events",
+      "PAYBIS",
+      "ChangeNOW"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Marina South"
   },
   {
     "id": "w3v-money-layer",
@@ -2603,7 +3222,14 @@
     "month": "October 2026",
     "category": "Conference/Summit",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Capvise Global",
+      "Sahil (TG:@sahilxdev)"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "w3v-above-the-rails",
@@ -2621,7 +3247,9 @@
     "month": "October 2026",
     "category": "Party/Dinner",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore"
   },
   {
     "id": "w3v-dat-summit---trackside-edition",
@@ -2639,7 +3267,13 @@
     "month": "October 2026",
     "category": "Networking",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Luna PR"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "w3v-yacht-party---crypto-whales",
@@ -2657,7 +3291,13 @@
     "month": "October 2026",
     "category": "Networking",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Converge Capital"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "w3v-builders-meet",
@@ -2675,7 +3315,13 @@
     "month": "October 2026",
     "category": "Networking",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Buildify"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "w3v-sparky-game-on",
@@ -2693,7 +3339,13 @@
     "month": "October 2026",
     "category": "Party/Dinner",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Sparky",
+      "MiniApps Store"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore"
   },
   {
     "id": "w3v-proof-of-liquidity-vip-dinner-by-yield-network-ink-chain-rockawayx-and-nexus-mutual",
@@ -2711,7 +3363,15 @@
     "month": "October 2026",
     "category": "Party/Dinner",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Yield Network",
+      "Ink Foundation",
+      "RockawayX",
+      "Nexus Mutual"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore"
   },
   {
     "id": "w3v-f1-sg-x-crypto-vc-qualifying-day",
@@ -2729,7 +3389,13 @@
     "month": "October 2026",
     "category": "Networking",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "WEB3 PADDOCK"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "w3v-padel-hangout-by-arc-trading",
@@ -2747,7 +3413,13 @@
     "month": "October 2026",
     "category": "Sport",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Arc Trading"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Bukit Merah"
   },
   {
     "id": "w3v-crypto-syndicate-party",
@@ -2765,7 +3437,13 @@
     "month": "October 2026",
     "category": "Party/Dinner",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "ABC.con"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Central Area"
   },
   {
     "id": "luma-host-evt-evt-T1nhxzU2JSJPAgq",
@@ -2797,7 +3475,13 @@
     "month": "October 2026",
     "category": "Networking",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "WEB3 PADDOCK"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "ma-money-20-20-usa",
@@ -2842,7 +3526,13 @@
     "coverImage": "/events/w3v-xrp-ledger-hackathon-5177a8e7.webp",
     "source": "Hashtag Web3",
     "bypassedFilter": true,
-    "month": "October 2026"
+    "month": "October 2026",
+    "hosts": [
+      "XRPL Commons"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "America/New_York"
   },
   {
     "id": "w3v-hackmeridian-lisbon-2026",
@@ -2946,7 +3636,14 @@
     "coverImage": "/events/w3v-solana-summit-india-6af3188b.webp",
     "source": "Hashtag Web3",
     "bypassedFilter": true,
-    "month": "November 2026"
+    "month": "November 2026",
+    "hosts": [
+      "Superteam India"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Kolkata",
+    "neighborhood": "Navpada"
   },
   {
     "id": "w3v-codecup-ai-x-solana-builder-arena-26-11-08",
@@ -2961,7 +3658,13 @@
     "coverImage": "/events/w3v-codecup-ai-x-solana-builder-arena-26-11-08-c205c922.webp",
     "source": "Hashtag Web3",
     "bypassedFilter": true,
-    "month": "November 2026"
+    "month": "November 2026",
+    "hosts": [
+      "CodeCupHQ"
+    ],
+    "price": "Free",
+    "timezone": "Europe/London",
+    "neighborhood": "Olympia"
   },
   {
     "id": "ci-https---conferenceindex-org-event-international-conference-on-smart-contracts-blockchain-and-cryptoc",
@@ -3006,7 +3709,15 @@
     "coverImage": "/events/w3v-the-unbanked-conference-london-13a1f887.webp",
     "source": "Hashtag Web3",
     "bypassedFilter": true,
-    "month": "November 2026"
+    "month": "November 2026",
+    "hosts": [
+      "INPUT Global Events",
+      "Introduction.com"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Europe/London",
+    "neighborhood": "Canary Wharf Estate"
   },
   {
     "id": "w3v-200ms-26-11-13",
@@ -3021,7 +3732,10 @@
     "coverImage": "/events/w3v-200ms-26-11-13-85a90100.webp",
     "source": "Hashtag Web3",
     "bypassedFilter": true,
-    "month": "November 2026"
+    "month": "November 2026",
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Europe/London"
   },
   {
     "id": "w3v-purple-table-breakpoint-edition-26-11-13",
@@ -3036,7 +3750,14 @@
     "coverImage": "/events/w3v-purple-table-breakpoint-edition-26-11-13-12161406.webp",
     "source": "Hashtag Web3",
     "bypassedFilter": true,
-    "month": "November 2026"
+    "month": "November 2026",
+    "hosts": [
+      "Mewtu",
+      "Junohauz ."
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Europe/London"
   },
   {
     "id": "w3v-founder-x-vc-summit-demo-day-26-11-14",
@@ -3051,7 +3772,15 @@
     "coverImage": "/events/w3v-founder-x-vc-summit-demo-day-26-11-14-c379aee2.webp",
     "source": "Hashtag Web3",
     "bypassedFilter": true,
-    "month": "November 2026"
+    "month": "November 2026",
+    "hosts": [
+      "BackersStage Capital",
+      "Atharv",
+      "Aditya | Wisdora"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Europe/London"
   },
   {
     "id": "w3v-blockzero-26-11-15",
@@ -3066,7 +3795,15 @@
     "coverImage": "/events/w3v-blockzero-26-11-15-13a09db9.webp",
     "source": "Hashtag Web3",
     "bypassedFilter": true,
-    "month": "November 2026"
+    "month": "November 2026",
+    "hosts": [
+      "Chainflow POS",
+      "Brian Long",
+      "Alejandro M."
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Europe/London"
   },
   {
     "id": "w3v-breakpoint-trading-battle-26-11-15",
@@ -3081,7 +3818,14 @@
     "coverImage": "/events/w3v-breakpoint-trading-battle-26-11-15-53821d4b.webp",
     "source": "Hashtag Web3",
     "bypassedFilter": true,
-    "month": "November 2026"
+    "month": "November 2026",
+    "hosts": [
+      "Trading Battles",
+      "Superteam UK",
+      "Superteam Poland"
+    ],
+    "price": "Free",
+    "timezone": "Europe/Warsaw"
   },
   {
     "id": "w3v-pr1me-london-series-exclusive-dinner-web3-26-11-16",
@@ -3096,7 +3840,16 @@
     "coverImage": "/events/w3v-pr1me-london-series-exclusive-dinner-web3-26-1-0ca6811e.webp",
     "source": "Hashtag Web3",
     "bypassedFilter": true,
-    "month": "November 2026"
+    "month": "November 2026",
+    "hosts": [
+      "Onchain Finance Institute",
+      "Breezing SA",
+      "Zac Hogg",
+      "Paige Connor"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Europe/London"
   },
   {
     "id": "w3v-beyond-frame-immersive-art-activation-render-26-11-16",
@@ -3111,7 +3864,13 @@
     "coverImage": "/events/w3v-beyond-frame-immersive-art-activation-render-2-3e56eeba.webp",
     "source": "Hashtag Web3",
     "bypassedFilter": true,
-    "month": "November 2026"
+    "month": "November 2026",
+    "hosts": [
+      "Render Network Foundation"
+    ],
+    "price": "Free",
+    "timezone": "Europe/London",
+    "neighborhood": "Hyde Park Estate"
   },
   {
     "id": "luma-evt-pJHThGT11BBYohC",
@@ -3140,7 +3899,15 @@
     "coverImage": "/events/w3v-founder-x-vc-summit-vip-dinner-26-11-17-c619aa28.webp",
     "source": "Hashtag Web3",
     "bypassedFilter": true,
-    "month": "November 2026"
+    "month": "November 2026",
+    "hosts": [
+      "BackersStage Capital",
+      "Atharv",
+      "Aditya | Wisdora"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Europe/London"
   },
   {
     "id": "w3v-global-ai-show-2026-abu-dhabi",
@@ -3472,8 +4239,13 @@
     "source": "token2049-official",
     "month": "October 2026",
     "category": "Conference/Summit",
-    "price": "US$99-299",
-    "token2049SideEvent": true
+    "price": "$229 USD",
+    "token2049SideEvent": true,
+    "hosts": [
+      "Sui"
+    ],
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "token2049-side-6a7445ef7ef1577c1e37eca1",
@@ -3507,7 +4279,13 @@
     "month": "October 2026",
     "category": "Networking",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Asia Web3 Ai Association (AWAA)",
+      "Insight Genesis"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore"
   },
   {
     "id": "token2049-side-6a8d73e281489b66e4942474",
@@ -3541,7 +4319,14 @@
     "month": "October 2026",
     "category": "Other",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "UVECON.VC",
+      "Joao Raza"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "token2049-side-6a531b033438be070d7a9a98",
@@ -3558,7 +4343,15 @@
     "month": "October 2026",
     "category": "Networking",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Abhay S",
+      "HyprEarn",
+      "DappLooker",
+      "Abhinav"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore"
   },
   {
     "id": "token2049-side-6a534c0347aa29a148924641",
@@ -3575,7 +4368,11 @@
     "month": "October 2026",
     "category": "Other",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Trading Battles"
+    ],
+    "timezone": "Asia/Singapore"
   },
   {
     "id": "token2049-side-6aa026db967be0befa88cabc",
@@ -3592,7 +4389,16 @@
     "month": "October 2026",
     "category": "Workshop/Hackathon",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "The Best Event",
+      "CoinFerenceX",
+      "Tobias Bauer",
+      "Brent Fulfer"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Marina South"
   },
   {
     "id": "token2049-side-6aa02681967be0befa88cab6",
@@ -3608,8 +4414,14 @@
     "source": "token2049-official",
     "month": "October 2026",
     "category": "Party/Dinner",
-    "price": "US$0-99",
-    "token2049SideEvent": true
+    "price": "Free",
+    "token2049SideEvent": true,
+    "hosts": [
+      "Tobias Bauer",
+      "Brent Fulfer",
+      "Mihir Odhrani"
+    ],
+    "timezone": "Asia/Singapore"
   },
   {
     "id": "token2049-side-6aa2607dd567345aad685524",
@@ -3626,7 +4438,16 @@
     "month": "October 2026",
     "category": "Party/Dinner",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Charles-Nicolas Gaubert-Amy",
+      "Alice Liu",
+      "Vigil",
+      "Jiayi"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Central Area"
   },
   {
     "id": "token2049-side-6a968fcd967be0befa88a520",
@@ -3643,7 +4464,14 @@
     "month": "October 2026",
     "category": "Networking",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Chris Mihos | MakeBanc",
+      "Alex Zonneveld | MakeBanc"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Outram"
   },
   {
     "id": "token2049-side-6a9a8978967be0befa88b76c",
@@ -3660,7 +4488,15 @@
     "month": "October 2026",
     "category": "Workshop/Hackathon",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Gamma Prime",
+      "Sui",
+      "DFG"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "token2049-side-6aa13a9bd567345aad685089",
@@ -3677,7 +4513,16 @@
     "month": "October 2026",
     "category": "Networking",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "James Maddison",
+      "James Ambrose",
+      "Raaja Raikundalia",
+      "LiangHan Koh"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "token2049-side-6a511b9110f84b19adc7284c",
@@ -3694,7 +4539,15 @@
     "month": "October 2026",
     "category": "Conference/Summit",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Gamma Prime",
+      "Sui",
+      "DFG"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "token2049-side-6a7a76aa3647af5c01c0653d",
@@ -3711,7 +4564,15 @@
     "month": "October 2026",
     "category": "Conference/Summit",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Solana Summit",
+      "Superteam SG",
+      "Superteam Australia"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "token2049-side-6a8d73e381489b66e4942476",
@@ -3745,7 +4606,14 @@
     "month": "October 2026",
     "category": "Workshop/Hackathon",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Damien Czapla",
+      "Elis Moormaa"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Singapore River"
   },
   {
     "id": "token2049-side-6a98c2e2967be0befa88b05e",
@@ -3761,8 +4629,16 @@
     "source": "token2049-official",
     "month": "October 2026",
     "category": "Networking",
-    "price": "Free",
-    "token2049SideEvent": true
+    "price": "$50 USD",
+    "token2049SideEvent": true,
+    "hosts": [
+      "THE CAPITAL SUMMIT",
+      "Four Pillars",
+      "Alex Lim"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Orchard"
   },
   {
     "id": "token2049-side-6aa25e1fd567345aad685507",
@@ -3779,7 +4655,16 @@
     "month": "October 2026",
     "category": "Networking",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Danielle Marie",
+      "Take3",
+      "Nexa Cryptocurrency",
+      "WeSo"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Singapore River"
   },
   {
     "id": "token2049-side-6a534c0447aa29a148924643",
@@ -3796,7 +4681,11 @@
     "month": "October 2026",
     "category": "Other",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Trading Battles"
+    ],
+    "timezone": "Asia/Singapore"
   },
   {
     "id": "token2049-side-6a6cdc395a75007b41000850",
@@ -3813,7 +4702,16 @@
     "month": "October 2026",
     "category": "Conference/Summit",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Marc Rose",
+      "Max Kaufman",
+      "Real Motion",
+      "Will G"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "token2049-side-6a6cdbf1d1b48ddf39d095e1",
@@ -3830,7 +4728,16 @@
     "month": "October 2026",
     "category": "Conference/Summit",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Marc Rose",
+      "Max Kaufman",
+      "Real Motion",
+      "Will G"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "token2049-side-6a841e58244677004e8f4431",
@@ -3864,7 +4771,16 @@
     "month": "October 2026",
     "category": "Workshop/Hackathon",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "The Best Event",
+      "CoinFerenceX",
+      "Tobias Bauer",
+      "Brent Fulfer"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Marina South"
   },
   {
     "id": "token2049-side-6a6a54acd1b48ddf39d0929b",
@@ -3880,8 +4796,15 @@
     "source": "token2049-official",
     "month": "October 2026",
     "category": "Conference/Summit",
-    "price": "US$0-149",
-    "token2049SideEvent": true
+    "price": "$149 USD",
+    "token2049SideEvent": true,
+    "hosts": [
+      "BackersStage Capital",
+      "Amazon Web Services Web3"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Singapore River"
   },
   {
     "id": "token2049-side-6a9fb489967be0befa88c886",
@@ -3898,7 +4821,13 @@
     "month": "October 2026",
     "category": "Networking",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "KANGA EVENTS"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Central Area"
   },
   {
     "id": "token2049-side-6a82cebe298f21044c271646",
@@ -3915,7 +4844,13 @@
     "month": "October 2026",
     "category": "Networking",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Raphael | Taisu Ventures"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "token2049-side-6a50a69910f84b19adc7276d",
@@ -3932,7 +4867,13 @@
     "month": "October 2026",
     "category": "Conference/Summit",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Coingape Events"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Central Area"
   },
   {
     "id": "token2049-side-6a98c34d967be0befa88b066",
@@ -3948,8 +4889,16 @@
     "source": "token2049-official",
     "month": "October 2026",
     "category": "Conference/Summit",
-    "price": "US$0-100",
-    "token2049SideEvent": true
+    "price": "$100 USD",
+    "token2049SideEvent": true,
+    "hosts": [
+      "Four Pillars",
+      "THE CAPITAL SUMMIT",
+      "Alex Lim"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Orchard"
   },
   {
     "id": "token2049-side-6aa3f7fe967be0befa88dd54",
@@ -4000,7 +4949,13 @@
     "month": "October 2026",
     "category": "Party/Dinner",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Kyle"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Outram"
   },
   {
     "id": "token2049-side-6aa18218967be0befa88d05a",
@@ -4017,7 +4972,16 @@
     "month": "October 2026",
     "category": "Conference/Summit",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Cregis IO",
+      "Ronghui Zhu @FOMO Pay",
+      "Jing Wen",
+      "Futurecloud"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "token2049-side-6aa39d98d567345aad685d4d",
@@ -4034,7 +4998,16 @@
     "month": "October 2026",
     "category": "Party/Dinner",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "The Best Event",
+      "Sam",
+      "Acurast",
+      "EAK Digital"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "token2049-side-6aa25cf5d567345aad685500",
@@ -4051,7 +5024,14 @@
     "month": "October 2026",
     "category": "Sport",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Ethena Labs",
+      "Alisha Thapa"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Tanglin"
   },
   {
     "id": "token2049-side-6a7d3455d354d830a2240048",
@@ -4067,8 +5047,14 @@
     "source": "token2049-official",
     "month": "October 2026",
     "category": "Networking",
-    "price": "US$295-395",
-    "token2049SideEvent": true
+    "price": "$349 USD",
+    "token2049SideEvent": true,
+    "hosts": [
+      "SunDAO Ventures",
+      "Chris Zhong",
+      "Daiana Marculescu"
+    ],
+    "timezone": "Asia/Singapore"
   },
   {
     "id": "token2049-side-6a996e9c967be0befa88b3d7",
@@ -4085,7 +5071,14 @@
     "month": "October 2026",
     "category": "Party/Dinner",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Quants.Space",
+      "Cathal - POD"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Singapore River"
   },
   {
     "id": "token2049-side-6aa15389d567345aad685118",
@@ -4102,7 +5095,14 @@
     "month": "October 2026",
     "category": "Networking",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Sorted Wallet",
+      "Dermot O Reilly"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Central Area"
   },
   {
     "id": "token2049-side-6a98d712d567345aad683326",
@@ -4119,7 +5119,13 @@
     "month": "October 2026",
     "category": "Networking",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Optimism Events"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "token2049-side-6a6976bed1b48ddf39d09146",
@@ -4135,8 +5141,15 @@
     "source": "token2049-official",
     "month": "October 2026",
     "category": "Networking",
-    "price": "Free",
-    "token2049SideEvent": true
+    "price": "$300 USD",
+    "token2049SideEvent": true,
+    "hosts": [
+      "UVECON.VC",
+      "YJ Wang | TRM Labs"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "token2049-side-6a59152b0aadc8b6ce22f4ee",
@@ -4153,7 +5166,13 @@
     "month": "October 2026",
     "category": "Workshop/Hackathon",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "NonLocal"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "token2049-side-6aa25b8fd567345aad6854f5",
@@ -4170,7 +5189,16 @@
     "month": "October 2026",
     "category": "Networking",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Danielle Marie",
+      "Nexa Cryptocurrency",
+      "Take3",
+      "WeSo"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Central Area"
   },
   {
     "id": "token2049-side-6a7d349a298f21044c270cbd",
@@ -4186,8 +5214,15 @@
     "source": "token2049-official",
     "month": "October 2026",
     "category": "Networking",
-    "price": "US$0-12",
-    "token2049SideEvent": true
+    "price": "$12 USD",
+    "token2049SideEvent": true,
+    "hosts": [
+      "SunDAO Ventures",
+      "Daiana Marculescu",
+      "Chris Zhong"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore"
   },
   {
     "id": "token2049-side-6a865a0a81489b66e4941879",
@@ -4204,7 +5239,16 @@
     "month": "October 2026",
     "category": "Networking",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Bear",
+      "Pramodya De Alwis",
+      "Victoria",
+      "Aleksandra Ziobro"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Central Area"
   },
   {
     "id": "token2049-side-6a9ecc22967be0befa88c4ee",
@@ -4221,7 +5265,15 @@
     "month": "October 2026",
     "category": "Networking",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Canton | Anney",
+      "Asad",
+      "Zainab Ajao"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "token2049-side-6aa04805d567345aad684d01",
@@ -4237,8 +5289,17 @@
     "source": "token2049-official",
     "month": "October 2026",
     "category": "Networking",
-    "price": "US$0-109",
-    "token2049SideEvent": true
+    "price": "Free",
+    "token2049SideEvent": true,
+    "hosts": [
+      "Meerkat",
+      "Lunartha ‍",
+      "DevenMat",
+      "Sokio"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Central Area"
   },
   {
     "id": "token2049-side-6aa39a83967be0befa88db2b",
@@ -4255,7 +5316,14 @@
     "month": "October 2026",
     "category": "Party/Dinner",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "BigONE",
+      "Mixin"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Central Area"
   },
   {
     "id": "token2049-side-6aa343c3967be0befa88d72f",
@@ -4272,7 +5340,14 @@
     "month": "October 2026",
     "category": "Networking",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Midas RWA",
+      "Quinn Papworth"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "token2049-side-6a98c303d567345aad6832c8",
@@ -4288,8 +5363,16 @@
     "source": "token2049-official",
     "month": "October 2026",
     "category": "Party/Dinner",
-    "price": "Free",
-    "token2049SideEvent": true
+    "price": "$100 USD",
+    "token2049SideEvent": true,
+    "hosts": [
+      "THE CAPITAL SUMMIT",
+      "Four Pillars",
+      "Alex Lim"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Orchard"
   },
   {
     "id": "token2049-side-6a7e862dd354d830a224026c",
@@ -4305,8 +5388,14 @@
     "source": "token2049-official",
     "month": "October 2026",
     "category": "Networking",
-    "price": "US$0-288",
-    "token2049SideEvent": true
+    "price": "$288 USD",
+    "token2049SideEvent": true,
+    "hosts": [
+      "ChainUp"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "token2049-side-6a9e61c1967be0befa88c279",
@@ -4323,7 +5412,16 @@
     "month": "October 2026",
     "category": "Party/Dinner",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Comma3 Ventures",
+      "BTSE Enterprise Solutions",
+      "CryptoMiles",
+      "Ivan Li"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Central Area"
   },
   {
     "id": "token2049-side-6aa193abd567345aad685259",
@@ -4340,7 +5438,14 @@
     "month": "October 2026",
     "category": "Party/Dinner",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Lynn",
+      "Nitin G",
+      "Will"
+    ],
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Central Area"
   },
   {
     "id": "token2049-side-6aa3f80a967be0befa88dd56",
@@ -4391,7 +5496,16 @@
     "month": "October 2026",
     "category": "Sport",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Sui Run Club",
+      "Bruce .",
+      "Christina Chung",
+      "GK"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "token2049-side-6a54a1483438be070d7a9bdb",
@@ -4425,7 +5539,12 @@
     "month": "October 2026",
     "category": "Sport",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Ben Lakoff"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore"
   },
   {
     "id": "token2049-side-6a7399105a75007b41001064",
@@ -4458,8 +5577,13 @@
     "source": "token2049-official",
     "month": "October 2026",
     "category": "Party/Dinner",
-    "price": "US$99",
-    "token2049SideEvent": true
+    "price": "$229 USD",
+    "token2049SideEvent": true,
+    "hosts": [
+      "Sui"
+    ],
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "token2049-side-6a8d73e481489b66e4942478",
@@ -4493,7 +5617,14 @@
     "month": "October 2026",
     "category": "Party/Dinner",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Seb",
+      "Superteam SG"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "token2049-side-6a9fb074d567345aad684a03",
@@ -4510,7 +5641,15 @@
     "month": "October 2026",
     "category": "Networking",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Zenith Network",
+      "Kaiko",
+      "T-REX Network"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Central Area"
   },
   {
     "id": "token2049-side-6a534c0647aa29a148924645",
@@ -4527,7 +5666,11 @@
     "month": "October 2026",
     "category": "Other",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Trading Battles"
+    ],
+    "timezone": "Asia/Singapore"
   },
   {
     "id": "token2049-side-6a9ab836d567345aad683a98",
@@ -4544,7 +5687,13 @@
     "month": "October 2026",
     "category": "Networking",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Starknet Foundation"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Singapore River"
   },
   {
     "id": "token2049-side-6a9f1f8cd567345aad6847e6",
@@ -4561,7 +5710,13 @@
     "month": "October 2026",
     "category": "Networking",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Tristyn Pawson"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Singapore River"
   },
   {
     "id": "token2049-side-6a9064774ee2bfcc8598306c",
@@ -4578,7 +5733,15 @@
     "month": "October 2026",
     "category": "Networking",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Rime Salmi",
+      "fractl",
+      "Timothee Semelin",
+      "Justin Andrieu"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore"
   },
   {
     "id": "token2049-side-6aa17366d567345aad6851a6",
@@ -4595,7 +5758,16 @@
     "month": "October 2026",
     "category": "Party/Dinner",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "The Best Event",
+      "Tobias Bauer",
+      "Brent Fulfer",
+      "Mihir Odhrani"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "token2049-side-6aa13e9a967be0befa88cee0",
@@ -4612,7 +5784,14 @@
     "month": "October 2026",
     "category": "Networking",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Spectrum Nodes",
+      "Lido Events"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "token2049-side-6aa06361967be0befa88cbb6",
@@ -4629,7 +5808,13 @@
     "month": "October 2026",
     "category": "Party/Dinner",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Arrakis ."
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "token2049-side-6aa63467c0426d278bd882e1",
@@ -4646,7 +5831,15 @@
     "month": "October 2026",
     "category": "Party/Dinner",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Jocelyn Robancho",
+      "Will Robinson",
+      "Danny",
+      "Simon Chamorro"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore"
   },
   {
     "id": "token2049-side-6a8eb797e258d468339534a1",
@@ -4663,7 +5856,13 @@
     "month": "October 2026",
     "category": "Networking",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "ATFX"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Central Area"
   },
   {
     "id": "token2049-side-6a9e7f72d567345aad684576",
@@ -4680,7 +5879,12 @@
     "month": "October 2026",
     "category": "Conference/Summit",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "TokenMinds"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore"
   },
   {
     "id": "token2049-side-6aa296c8d567345aad685661",
@@ -4697,7 +5901,14 @@
     "month": "October 2026",
     "category": "Conference/Summit",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Arbitrum",
+      "Aditi Chopra"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "token2049-side-6aa29585967be0befa88d478",
@@ -4714,7 +5925,14 @@
     "month": "October 2026",
     "category": "Conference/Summit",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Arbitrum",
+      "Aditi Chopra"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "token2049-side-6aa41c8ec0426d278bd87ce5",
@@ -4748,7 +5966,13 @@
     "month": "October 2026",
     "category": "Party/Dinner",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "BiFu Global"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "token2049-side-6aa16257967be0befa88cf91",
@@ -4765,7 +5989,14 @@
     "month": "October 2026",
     "category": "Conference/Summit",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Helium Ventures",
+      "Alex Thorne"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Central Area"
   },
   {
     "id": "token2049-side-6aa41e96c0426d278bd87cfe",
@@ -4799,7 +6030,13 @@
     "month": "October 2026",
     "category": "Networking",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "American Blockchain Association"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Central Area"
   },
   {
     "id": "token2049-side-6a9e3058d567345aad6843d5",
@@ -4816,7 +6053,13 @@
     "month": "October 2026",
     "category": "Party/Dinner",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "ZOOMEX LAB",
+      "GAEA Ventures"
+    ],
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "token2049-side-6a7ea639d354d830a22402c7",
@@ -4833,7 +6076,15 @@
     "month": "October 2026",
     "category": "Party/Dinner",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Surgence Labs",
+      "Ruthy Builds",
+      "Rishab Dugar",
+      "Vinh"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Ho_Chi_Minh"
   },
   {
     "id": "token2049-side-6a9bdd92967be0befa88badc",
@@ -4850,7 +6101,9 @@
     "month": "October 2026",
     "category": "Party/Dinner",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore"
   },
   {
     "id": "token2049-side-6a9912ffd567345aad68344b",
@@ -4867,7 +6120,13 @@
     "month": "October 2026",
     "category": "Party/Dinner",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Leo Electric"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "token2049-side-6aa12348967be0befa88ce4e",
@@ -4884,7 +6143,16 @@
     "month": "October 2026",
     "category": "Party/Dinner",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Mark",
+      "n.exchange",
+      "Bassam",
+      "Oleg"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "token2049-side-6aa41330967be0befa88de0c",
@@ -4901,7 +6169,13 @@
     "month": "October 2026",
     "category": "Networking",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Rare Network",
+      "ONLY BULLS"
+    ],
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "token2049-side-6aa29151d567345aad685635",
@@ -4918,7 +6192,16 @@
     "month": "October 2026",
     "category": "Party/Dinner",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Safeheron",
+      "Lim Teck San",
+      "daniel santos",
+      "Jag Foo"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "token2049-side-6a5800e4695677e454daf3f5",
@@ -4935,7 +6218,13 @@
     "month": "October 2026",
     "category": "Party/Dinner",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "NonLocal"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Tanjong Pagar"
   },
   {
     "id": "token2049-side-6a9a9f20967be0befa88b7d8",
@@ -4952,7 +6241,16 @@
     "month": "October 2026",
     "category": "Networking",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "The Best Event",
+      "Vivian Laurant",
+      "Tobias Bauer",
+      "Brent Fulfer"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "token2049-side-6a4fb19510f84b19adc72510",
@@ -4968,8 +6266,13 @@
     "source": "token2049-official",
     "month": "October 2026",
     "category": "Party/Dinner",
-    "price": "US$99",
-    "token2049SideEvent": true
+    "price": "$229 USD",
+    "token2049SideEvent": true,
+    "hosts": [
+      "Sui"
+    ],
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "token2049-side-6a51f5783438be070d7a99e0",
@@ -5036,8 +6339,13 @@
     "source": "token2049-official",
     "month": "October 2026",
     "category": "Conference/Summit",
-    "price": "US$99-299",
-    "token2049SideEvent": true
+    "price": "$229 USD",
+    "token2049SideEvent": true,
+    "hosts": [
+      "Sui"
+    ],
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "token2049-side-6a6711ea5a75007b41000117",
@@ -5070,8 +6378,13 @@
     "source": "token2049-official",
     "month": "October 2026",
     "category": "Conference/Summit",
-    "price": "US$0-375",
-    "token2049SideEvent": true
+    "price": "Free",
+    "token2049SideEvent": true,
+    "hosts": [
+      "Metaverse Post"
+    ],
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "token2049-side-6aa190ac967be0befa88d09a",
@@ -5088,7 +6401,13 @@
     "month": "October 2026",
     "category": "Networking",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Noves | Christian"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "token2049-side-6a534c0647aa29a148924647",
@@ -5105,7 +6424,11 @@
     "month": "October 2026",
     "category": "Other",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Trading Battles"
+    ],
+    "timezone": "Asia/Singapore"
   },
   {
     "id": "token2049-side-6a9c22bdd567345aad683ddc",
@@ -5122,7 +6445,13 @@
     "month": "October 2026",
     "category": "Networking",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Catrina",
+      "Gil Rosen"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore"
   },
   {
     "id": "token2049-side-6a9f5ba7967be0befa88c687",
@@ -5139,7 +6468,13 @@
     "month": "October 2026",
     "category": "Networking",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Amigoo Ventures"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Tanjong Pagar"
   },
   {
     "id": "token2049-side-6a9a41d8d567345aad68388e",
@@ -5156,7 +6491,13 @@
     "month": "October 2026",
     "category": "Networking",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Tacnode Inc."
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "token2049-side-6aa3dc84d567345aad685ed8",
@@ -5173,7 +6514,13 @@
     "month": "October 2026",
     "category": "Workshop/Hackathon",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Kirby | HypurrCo",
+      "Noel | Hypurrco, Theo"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore"
   },
   {
     "id": "token2049-side-6a71f32ad1b48ddf39d09b86",
@@ -5207,7 +6554,13 @@
     "month": "October 2026",
     "category": "Networking",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "ATFX"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Central Area"
   },
   {
     "id": "token2049-side-6aa41f2ac0426d278bd87d05",
@@ -5241,7 +6594,16 @@
     "month": "October 2026",
     "category": "Party/Dinner",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "The Best Event",
+      "Tobias Bauer",
+      "Brent Fulfer",
+      "Mihir Odhrani"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "token2049-side-6aa00746967be0befa88ca3f",
@@ -5258,7 +6620,13 @@
     "month": "October 2026",
     "category": "Conference/Summit",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Cointelegraph"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Tanjong Pagar"
   },
   {
     "id": "token2049-side-6aa41d6d8ffcc4e5ece10d0f",
@@ -5292,7 +6660,13 @@
     "month": "October 2026",
     "category": "Networking",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "American Blockchain Association"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Central Area"
   },
   {
     "id": "token2049-side-6a92a6f5967be0befa889bd3",
@@ -5309,7 +6683,12 @@
     "month": "October 2026",
     "category": "Party/Dinner",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "MST Blockchain"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore"
   },
   {
     "id": "token2049-side-6a9f79f3967be0befa88c736",
@@ -5326,7 +6705,13 @@
     "month": "October 2026",
     "category": "Party/Dinner",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "BTCC"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Chinatown"
   },
   {
     "id": "token2049-side-6aa634b38ffcc4e5ece11347",
@@ -5343,7 +6728,13 @@
     "month": "October 2026",
     "category": "Party/Dinner",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Coinbase Events"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Central Area"
   },
   {
     "id": "token2049-side-6a9ab0b3d567345aad683a7f",
@@ -5360,7 +6751,11 @@
     "month": "October 2026",
     "category": "Other",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Lenka Roz"
+    ],
+    "timezone": "Europe/Prague"
   },
   {
     "id": "token2049-side-6a9a7f7b967be0befa88b723",
@@ -5377,7 +6772,14 @@
     "month": "October 2026",
     "category": "Party/Dinner",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Fancon Events",
+      "FutureXCon"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "token2049-side-6aa173a9967be0befa88cff5",
@@ -5394,7 +6796,16 @@
     "month": "October 2026",
     "category": "Party/Dinner",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "The Best Event",
+      "Adeola Adedewe",
+      "Tobias Bauer",
+      "Brent Fulfer"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "token2049-side-6a73992d5a75007b41001068",
@@ -5445,7 +6856,15 @@
     "month": "October 2026",
     "category": "Conference/Summit",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Ethene Labs",
+      "Four Pillars",
+      "Mira (fka Crypto Nomads)"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "token2049-side-6a6026bf5a75007b41fff94b",
@@ -5461,8 +6880,14 @@
     "source": "token2049-official",
     "month": "October 2026",
     "category": "Conference/Summit",
-    "price": "US$0-300",
-    "token2049SideEvent": true
+    "price": "$300 USD",
+    "token2049SideEvent": true,
+    "hosts": [
+      "UVECON.VC"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Marina One Show Gallery"
   },
   {
     "id": "token2049-side-6a534c0747aa29a148924649",
@@ -5479,7 +6904,11 @@
     "month": "October 2026",
     "category": "Other",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Trading Battles"
+    ],
+    "timezone": "Asia/Singapore"
   },
   {
     "id": "token2049-side-6aa51a468ffcc4e5ece11007",
@@ -5495,8 +6924,17 @@
     "source": "token2049-official",
     "month": "October 2026",
     "category": "Networking",
-    "price": "US$0-25",
-    "token2049SideEvent": true
+    "price": "Free",
+    "token2049SideEvent": true,
+    "hosts": [
+      "Richard Stangland",
+      "BitAngels",
+      "Joyce Chow",
+      "AI Seer Singapore"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "token2049-side-6aa173bdd567345aad6851b8",
@@ -5513,7 +6951,16 @@
     "month": "October 2026",
     "category": "Party/Dinner",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "The Best Event",
+      "Tobias Bauer",
+      "Brent Fulfer",
+      "Mihir Odhrani"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "token2049-side-6a739bc8d1b48ddf39d09e32",
@@ -5546,8 +6993,15 @@
     "source": "token2049-official",
     "month": "October 2026",
     "category": "Networking",
-    "price": "US$0-149",
-    "token2049SideEvent": true
+    "price": "$149 USD",
+    "token2049SideEvent": true,
+    "hosts": [
+      "BackersStage Capital",
+      "Atharv"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Singapore River"
   },
   {
     "id": "token2049-side-6a9a8659d567345aad6839ac",
@@ -5564,7 +7018,12 @@
     "month": "October 2026",
     "category": "Party/Dinner",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "QuillAudits | Web3 Security"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore"
   },
   {
     "id": "token2049-side-6aa3a7bdd567345aad685d8d",
@@ -5581,7 +7040,13 @@
     "month": "October 2026",
     "category": "Networking",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "UniqueBloom"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Queenstown"
   },
   {
     "id": "token2049-side-6aa173ecd567345aad6851be",
@@ -5598,7 +7063,16 @@
     "month": "October 2026",
     "category": "Party/Dinner",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "The Best Event",
+      "Tobias Bauer",
+      "Brent Fulfer",
+      "Mihir Odhrani"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "token2049-side-6a9f15a0967be0befa88c5ea",
@@ -5615,7 +7089,14 @@
     "month": "October 2026",
     "category": "Networking",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Wesley O",
+      "Tyler Lefko"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Orchard"
   },
   {
     "id": "token2049-side-6a534c0847aa29a14892464b",
@@ -5632,7 +7113,11 @@
     "month": "October 2026",
     "category": "Other",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Trading Battles"
+    ],
+    "timezone": "Asia/Singapore"
   },
   {
     "id": "token2049-side-6aa1740b967be0befa88cffc",
@@ -5649,7 +7134,16 @@
     "month": "October 2026",
     "category": "Party/Dinner",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "The Best Event",
+      "Tobias Bauer",
+      "Brent Fulfer",
+      "Mihir Odhrani"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "token2049-side-6a739c525a75007b4100108c",
@@ -5683,7 +7177,16 @@
     "month": "October 2026",
     "category": "Party/Dinner",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "The Best Event",
+      "Tobias Bauer",
+      "Brent Fulfer",
+      "Edwin Mata"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "token2049-side-6aa454d7c0426d278bd87ddd",
@@ -5700,7 +7203,13 @@
     "month": "October 2026",
     "category": "Sport",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "Ian"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Tanjong Pagar"
   },
   {
     "id": "token2049-side-6aa17432967be0befa88d00d",
@@ -5717,7 +7226,16 @@
     "month": "October 2026",
     "category": "Party/Dinner",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "The Best Event",
+      "Tobias Bauer",
+      "Brent Fulfer",
+      "Pritam Dutta"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "token2049-side-6aa1744c967be0befa88d013",
@@ -5734,7 +7252,16 @@
     "month": "October 2026",
     "category": "Party/Dinner",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "hosts": [
+      "The Best Event",
+      "Tobias Bauer",
+      "Brent Fulfer",
+      "Mihir Odhrani"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "token2049-side-6a739ce35a75007b41001095",
@@ -5767,8 +7294,17 @@
     "source": "token2049-official",
     "month": "October 2026",
     "category": "Party/Dinner",
-    "price": "Free",
-    "token2049SideEvent": true
+    "price": "$999 USD",
+    "token2049SideEvent": true,
+    "hosts": [
+      "The Best Event",
+      "Tobias Bauer",
+      "Brent Fulfer",
+      "Mihir Odhrani"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "token2049-side-6a5dff0dd1b48ddf39d0827c",
