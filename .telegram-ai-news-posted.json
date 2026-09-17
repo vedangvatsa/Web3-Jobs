@@ -578,6 +578,9 @@
   "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
   "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
   "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+  "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
+  "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
+  "https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1517,6 +1520,12 @@
   "The AI data center boom is colliding with cities scarred by big industry",
   "A list of failed and delayed AI projects",
   "The AI graveyard: a running list of projects and startups that didn’t make it",
+  "Apple designs custom M-series servers for AI processing",
+  "Apple reportedly building server packed with M-series Ultra chips for AI",
+  "OpenAI funds biological data acquisition for model training",
+  "AI models need more data about biology, and OpenAI is paying to create it",
+  "Researchers develop mice with human brain cells",
+  "The Download: mice with part-human brains and climate tech innovators",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -1612,5 +1621,8 @@
   "fp:annual35|biotech|biotechnology|cheaper|cleaner|download|fiv|futur|greener|list",
   "fp:180m|18b|aeo|engin|financ|fund|hit|last|month|optimization",
   "fp:affect|big|boom|build|center|city|clos|collid|construction|data",
-  "fp:appl|delay|detail|didn|fac|fail|graveyard|initiativ|lik|list"
+  "fp:appl|delay|detail|didn|fac|fail|graveyard|initiativ|lik|list",
+  "fp:appl|build|by2029|chip|custom|deploy|design|enterpris|pack|plan",
+  "fp:acquisition|bankrupt|biological|biology|biotechnology|clinical|creat|data|firm|fund",
+  "fp:brain|camera|cell|climat|computer|contain|develop|download|human|innovator"
 ]
