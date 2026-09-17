@@ -12,7 +12,16 @@
     "url": "https://luma.com/gepb0cmv",
     "registrationUrl": "https://luma.com/gepb0cmv",
     "coverImage": "/events/luma-crypto-lifv34zztygz7ny-2df835fd.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "OnlyFounders",
+      "Superteam Thailand",
+      "Superteam TH"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Bangkok",
+    "neighborhood": "Phrom Phong"
   },
   {
     "id": "luma-crypto-8r1XuPjp1xyA9EO",
@@ -27,7 +36,16 @@
     "url": "https://luma.com/nqz7gjqc",
     "registrationUrl": "https://luma.com/nqz7gjqc",
     "coverImage": "/events/luma-crypto-8r1xupjp1xya9eo-32d1f2b4.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "henry chan",
+      "Stan",
+      "Lv",
+      "Paul Chan"
+    ],
+    "price": "Free",
+    "timezone": "Asia/Hong_Kong",
+    "neighborhood": "Central"
   },
   {
     "id": "luma-crypto-A7U4SwG0pRYBHPa",
@@ -42,7 +60,16 @@
     "url": "https://luma.com/dubaitechtues115",
     "registrationUrl": "https://luma.com/dubaitechtues115",
     "coverImage": "/events/luma-crypto-a7u4swg0prybhpa-b26584b0.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Gordon Einstein",
+      "Mohamad Siam Al Hosseini",
+      "Iryna Erzen",
+      "World Token Summit"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Dubai"
   },
   {
     "id": "luma-crypto-z6IEGsiZumLi2vk",
@@ -57,7 +84,16 @@
     "url": "https://luma.com/cvpxxlpq",
     "registrationUrl": "https://luma.com/cvpxxlpq",
     "coverImage": "/events/luma-crypto-z6iegsizumli2vk-68b06848.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Melanie Preen",
+      "Saskia Munks",
+      "Francisco Terpolilli 🤌",
+      "Mathusa Thiruchenthoor"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Europe/London"
   },
   {
     "id": "luma-crypto-zuDksxJDUNwJPeA",
@@ -72,7 +108,15 @@
     "url": "https://luma.com/yu2ik5pq",
     "registrationUrl": "https://luma.com/yu2ik5pq",
     "coverImage": "/events/luma-crypto-zudksxjdunwjpea-cb5fb3bb.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Arielle Nissenblatt",
+      "Well It Depends Labs",
+      "lauren"
+    ],
+    "price": "Free",
+    "timezone": "America/New_York",
+    "neighborhood": "Bowery"
   },
   {
     "id": "luma-crypto-zl6DtS5kcStwRD4",
@@ -87,7 +131,16 @@
     "url": "https://luma.com/f09ijm3n",
     "registrationUrl": "https://luma.com/f09ijm3n",
     "coverImage": "/events/luma-crypto-zl6dts5kcstwrd4-ca065b09.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Pat LaVecchia",
+      "Jason Cabral",
+      "David Mikulecky",
+      "Keith Styrcula"
+    ],
+    "price": "Free",
+    "timezone": "America/New_York",
+    "neighborhood": "South End"
   },
   {
     "id": "luma-crypto-6yaihxXw5L1PwvS",
@@ -102,7 +155,14 @@
     "url": "https://luma.com/tech-tuesdays",
     "registrationUrl": "https://luma.com/tech-tuesdays",
     "coverImage": "/events/luma-crypto-6yaihxxw5l1pwvs-ea7ce7ac.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Bruce Porter Jr",
+      "David Porter"
+    ],
+    "price": "Free",
+    "timezone": "America/New_York",
+    "neighborhood": "Theater District"
   },
   {
     "id": "luma-crypto-jveLeulkGyCSqU2",
@@ -117,7 +177,15 @@
     "url": "https://luma.com/clarify-aonz",
     "registrationUrl": "https://luma.com/clarify-aonz",
     "coverImage": "/events/luma-crypto-jveleulkgycsqu2-df507f13.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Patrick Thompson",
+      "Graham Murphy"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "America/Los_Angeles",
+    "neighborhood": "Mission District"
   },
   {
     "id": "luma-crypto-yrF0xKNWJBIqfo2",
@@ -132,7 +200,14 @@
     "url": "https://luma.com/t8gq934u",
     "registrationUrl": "https://luma.com/t8gq934u",
     "coverImage": "/events/luma-crypto-yrf0xknwjbiqfo2-06046d28.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Superteam Nepal",
+      "Ronak Raj Rauniyar"
+    ],
+    "price": "Free",
+    "timezone": "Asia/Kathmandu",
+    "neighborhood": "Charkhal Adda"
   },
   {
     "id": "luma-crypto-SmEV1KL3URBkN1p",
@@ -147,7 +222,14 @@
     "url": "https://luma.com/26fqf3hy",
     "registrationUrl": "https://luma.com/26fqf3hy",
     "coverImage": "/events/luma-crypto-smev1kl3urbkn1p-375b7830.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Tencent - Tencent Cloud"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "luma-crypto-CDd03W9DGurs9Es",
@@ -162,7 +244,14 @@
     "url": "https://luma.com/impact-q274",
     "registrationUrl": "https://luma.com/impact-q274",
     "coverImage": "/events/luma-crypto-cdd03w9dgurs9es-f9d231eb.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Impact House"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Kolkata",
+    "neighborhood": "Institutional Area"
   },
   {
     "id": "luma-crypto-EjoD89X0CHsHeV7",
@@ -177,7 +266,14 @@
     "url": "https://luma.com/wvj4gjep",
     "registrationUrl": "https://luma.com/wvj4gjep",
     "coverImage": "/events/luma-crypto-ejod89x0chshev7-1014e2f5.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Matthew Ng",
+      "Longbridegecafe"
+    ],
+    "price": "Free",
+    "timezone": "Asia/Hong_Kong",
+    "neighborhood": "Tsim Sha Tsui"
   },
   {
     "id": "luma-crypto-bqI9LfgAu67H9Zb",
@@ -192,7 +288,15 @@
     "url": "https://luma.com/u4rnpi51",
     "registrationUrl": "https://luma.com/u4rnpi51",
     "coverImage": "/events/luma-crypto-bqi9lfgau67h9zb-cc6e9377.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "BLOCK71 SEC",
+      "BLOCK71 Singapore"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Queenstown"
   },
   {
     "id": "luma-crypto-7BZOrpnKYojGaRB",
@@ -205,7 +309,9 @@
     "url": "https://luma.com/colosseum-winners-playbook",
     "registrationUrl": "https://luma.com/colosseum-winners-playbook",
     "coverImage": "/events/luma-crypto-7bzorpnkyojgarb-152189f1.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "price": "Free",
+    "timezone": "Asia/Tokyo"
   },
   {
     "id": "luma-crypto-AmIuE47cLpCMRzA",
@@ -220,7 +326,15 @@
     "url": "https://luma.com/913voyqv",
     "registrationUrl": "https://luma.com/913voyqv",
     "coverImage": "/events/luma-crypto-amiue47clpcmrza-9d967697.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Ryan MacDowell",
+      "David"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "America/New_York",
+    "neighborhood": "Flatiron District"
   },
   {
     "id": "luma-crypto-HwPpT83iiCzXDlJ",
@@ -235,7 +349,14 @@
     "url": "https://luma.com/equisafemegaparty",
     "registrationUrl": "https://luma.com/equisafemegaparty",
     "coverImage": "/events/luma-crypto-hwppt83iiczxdlj-328d55fb.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Starknet Foundation"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Europe/Paris",
+    "neighborhood": "Champs-Élysées"
   },
   {
     "id": "luma-crypto-ecYSpzgJcgQSWfi",
@@ -250,7 +371,14 @@
     "url": "https://luma.com/bitwave-pmuu",
     "registrationUrl": "https://luma.com/bitwave-pmuu",
     "coverImage": "/events/luma-crypto-ecyspzgjcgqswfi-1da699cc.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Amy Kalnoki"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "America/New_York",
+    "neighborhood": "Gramercy Park"
   },
   {
     "id": "luma-crypto-DyWseSsKyWgf30g",
@@ -265,7 +393,16 @@
     "url": "https://luma.com/cwuvgsop",
     "registrationUrl": "https://luma.com/cwuvgsop",
     "coverImage": "/events/luma-crypto-dywsesskywgf30g-0db7efcb.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "The Chancery",
+      "The Letter Company",
+      "Mehul Jindal"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "America/New_York",
+    "neighborhood": "West Village"
   },
   {
     "id": "luma-crypto-A1I9w7kTgTbv6Gg",
@@ -280,7 +417,15 @@
     "url": "https://luma.com/ciolirkj",
     "registrationUrl": "https://luma.com/ciolirkj",
     "coverImage": "/events/luma-crypto-a1i9w7ktgtbv6gg-6b175ba4.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Amy Quan",
+      "Brderless"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "America/Los_Angeles",
+    "neighborhood": "Union Street"
   },
   {
     "id": "luma-crypto-wCndLTQpb6cwxbh",
@@ -295,7 +440,14 @@
     "url": "https://luma.com/cxos1yb9",
     "registrationUrl": "https://luma.com/cxos1yb9",
     "coverImage": "/events/luma-crypto-wcndltqpb6cwxbh-506680f7.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Michael Raspuzzi",
+      "Nate Padgett",
+      "Sarah Charlton"
+    ],
+    "timezone": "America/Los_Angeles",
+    "neighborhood": "Rincon Hill"
   },
   {
     "id": "luma-crypto-N7kJzcfPHUAgLTn",
@@ -310,7 +462,14 @@
     "url": "https://luma.com/9dsyw7iy",
     "registrationUrl": "https://luma.com/9dsyw7iy",
     "coverImage": "https://images.lumacdn.com/uploads/l1/ad0ecaa8-0218-47af-9e5d-d013948bffc9.png",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "V11"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "America/Los_Angeles",
+    "neighborhood": "Financial District"
   },
   {
     "id": "luma-crypto-CXEnXQMqj1Meuty",
@@ -325,7 +484,16 @@
     "url": "https://luma.com/miro-codex",
     "registrationUrl": "https://luma.com/miro-codex",
     "coverImage": "/events/luma-crypto-cxenxqmqj1meuty-90a31ee2.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Miro Community Team",
+      "Gabriel Chua",
+      "Lorong AI"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Queenstown"
   },
   {
     "id": "luma-crypto-AMhTnCWXTOkbooi",
@@ -340,7 +508,17 @@
     "url": "https://luma.com/1czivcbs",
     "registrationUrl": "https://luma.com/1czivcbs",
     "coverImage": "/events/luma-crypto-amhtncwxtokbooi-83bda8d4.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Teodora Irimia",
+      "Lorraine Li",
+      "Debra Au",
+      "Angelina Kwan"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Hong_Kong",
+    "neighborhood": "Tsim Sha Tsui East"
   },
   {
     "id": "luma-crypto-bggUZdKABBZZcLz",
@@ -355,7 +533,14 @@
     "url": "https://luma.com/hos-workshops-privacy",
     "registrationUrl": "https://luma.com/hos-workshops-privacy",
     "coverImage": "/events/luma-crypto-bgguzdkabbzzclz-46b667db.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "House of Sol",
+      "Solana Foundation"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Europe/London"
   },
   {
     "id": "luma-crypto-zjtEvb04wHyQJgV",
@@ -370,7 +555,13 @@
     "url": "https://luma.com/b80wzjig",
     "registrationUrl": "https://luma.com/b80wzjig",
     "coverImage": "/events/luma-crypto-zjtevb04whyqjgv-ac9c2971.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Superteam UK"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Europe/London"
   },
   {
     "id": "luma-crypto-ha5kCXkEPytNhvM",
@@ -385,7 +576,13 @@
     "url": "https://luma.com/lmralyot",
     "registrationUrl": "https://luma.com/lmralyot",
     "coverImage": "/events/luma-crypto-ha5kcxkepytnhvm-822f2eb9.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Superteam UK"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Europe/London"
   },
   {
     "id": "luma-crypto-GDvXlADsEWJ30es",
@@ -400,7 +597,15 @@
     "url": "https://luma.com/xr38ua38",
     "registrationUrl": "https://luma.com/xr38ua38",
     "coverImage": "/events/luma-crypto-gdvxladsewj30es-50b5dc3d.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Tu Nguyen, Team1 Vietnam",
+      "Thao",
+      "Team1"
+    ],
+    "price": "Free",
+    "timezone": "America/New_York",
+    "neighborhood": "Theater District"
   },
   {
     "id": "luma-crypto-O5yIm9jHUFEK4Sn",
@@ -415,7 +620,16 @@
     "url": "https://luma.com/d6g5mb9o",
     "registrationUrl": "https://luma.com/d6g5mb9o",
     "coverImage": "/events/luma-crypto-o5yim9jhufek4sn-927267ac.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Owen Li",
+      "Kandan Kathirvel",
+      "Randolph Chung"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "America/Los_Angeles",
+    "neighborhood": "Fairmeadow"
   },
   {
     "id": "luma-crypto-NhNHlkuRIWWeHcN",
@@ -430,7 +644,14 @@
     "url": "https://luma.com/pjkzox1s",
     "registrationUrl": "https://luma.com/pjkzox1s",
     "coverImage": "/events/luma-crypto-nhnhlkuriwwehcn-1791fe82.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Musly Team",
+      "Yas Muneer"
+    ],
+    "price": "$90 USD",
+    "approvalRequired": true,
+    "timezone": "Europe/London"
   },
   {
     "id": "luma-crypto-l4oAFIzgsjHGUbR",
@@ -445,7 +666,15 @@
     "url": "https://luma.com/hkfo1rv9",
     "registrationUrl": "https://luma.com/hkfo1rv9",
     "coverImage": "/events/luma-crypto-l4oafizgsjhgubr-73524ff9.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Sumeet Chugani",
+      "Steve Gannon",
+      "Dave Stier"
+    ],
+    "price": "Free",
+    "timezone": "America/New_York",
+    "neighborhood": "Midtown West"
   },
   {
     "id": "luma-crypto-K0dmnW28nE7WIoA",
@@ -460,7 +689,14 @@
     "url": "https://luma.com/tpafd0917",
     "registrationUrl": "https://luma.com/tpafd0917",
     "coverImage": "/events/luma-crypto-k0dmnw28ne7wioa-7de65843.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "T Palmer Agency"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "America/New_York",
+    "neighborhood": "Midtown South"
   },
   {
     "id": "luma-crypto-EdxcyBvKjWGpHRo",
@@ -475,7 +711,16 @@
     "url": "https://luma.com/you-9pwk",
     "registrationUrl": "https://luma.com/you-9pwk",
     "coverImage": "/events/luma-crypto-edxcybvkjwgphro-b1d5b54b.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Jon Avezbaki",
+      "Filip Brdarić",
+      "Svetlana",
+      "Darko Fabijan"
+    ],
+    "price": "Free",
+    "timezone": "America/New_York",
+    "neighborhood": "Manhattan"
   },
   {
     "id": "luma-crypto-59e3uEcrxQW20PU",
@@ -490,7 +735,16 @@
     "url": "https://luma.com/0lpo6cho",
     "registrationUrl": "https://luma.com/0lpo6cho",
     "coverImage": "/events/luma-crypto-59e3uecrxqw20pu-9b0aa054.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "The Chancery",
+      "Saad Bin Shafiq",
+      "The Letter Company"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "America/New_York",
+    "neighborhood": "Rose Hill"
   },
   {
     "id": "luma-crypto-mZIljCm2XCvGbtQ",
@@ -505,7 +759,16 @@
     "url": "https://luma.com/udfkr3mz",
     "registrationUrl": "https://luma.com/udfkr3mz",
     "coverImage": "/events/luma-crypto-mziljcm2xcvgbtq-8457e9e3.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Diego Iturralde",
+      "Jaimin Desai",
+      "Julia Pintar"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "America/New_York",
+    "neighborhood": "Chelsea"
   },
   {
     "id": "luma-crypto-6LIYnYgQg83xqIJ",
@@ -520,7 +783,16 @@
     "url": "https://luma.com/bitcoinpaloozaunga81",
     "registrationUrl": "https://luma.com/bitcoinpaloozaunga81",
     "coverImage": "/events/luma-crypto-6liynygqg83xqij-a0be315f.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Bruce Porter Jr",
+      "David Porter",
+      "David Fung",
+      "Space DAO"
+    ],
+    "price": "$97.01 USD",
+    "timezone": "America/New_York",
+    "neighborhood": "East Village"
   },
   {
     "id": "luma-crypto-MjQiOCDFo3HCHGp",
@@ -535,7 +807,14 @@
     "url": "https://luma.com/j4o3tf37",
     "registrationUrl": "https://luma.com/j4o3tf37",
     "coverImage": "/events/luma-crypto-mjqiocdfo3hchgp-144ffa35.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Francesca Malayeri",
+      "Maria Gorskikh"
+    ],
+    "price": "Free",
+    "timezone": "America/Los_Angeles",
+    "neighborhood": "Main Post"
   },
   {
     "id": "luma-crypto-auNiKwVWsEADEz2",
@@ -550,7 +829,14 @@
     "url": "https://luma.com/f2agbtho",
     "registrationUrl": "https://luma.com/f2agbtho",
     "coverImage": "/events/luma-crypto-aunikwvwseadez2-2aa146fe.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Dar Patel"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "America/Los_Angeles",
+    "neighborhood": "Union Street"
   },
   {
     "id": "luma-crypto-eGhHQz8y2WSda3Z",
@@ -565,7 +851,12 @@
     "url": "https://luma.com/psea3jry",
     "registrationUrl": "https://luma.com/psea3jry",
     "coverImage": "/events/luma-crypto-eghhqz8y2wsda3z-1a3c16be.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Superteam Türkiye"
+    ],
+    "price": "Free",
+    "timezone": "Europe/Istanbul"
   },
   {
     "id": "luma-crypto-IGJw8bkmSkQW3r1",
@@ -578,7 +869,12 @@
     "url": "https://luma.com/gxhipc87",
     "registrationUrl": "https://luma.com/gxhipc87",
     "coverImage": "/events/luma-crypto-igjw8bkmskqw3r1-e82bcc11.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "OnlyFounders"
+    ],
+    "price": "Free",
+    "timezone": "Asia/Bangkok"
   },
   {
     "id": "luma-crypto-ojo8Xh2wktYW9od",
@@ -593,7 +889,16 @@
     "url": "https://luma.com/wuo6ynis",
     "registrationUrl": "https://luma.com/wuo6ynis",
     "coverImage": "/events/luma-crypto-ojo8xh2wktyw9od-ed260c07.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Camila Lamoratta",
+      "Alyssa Demirjian",
+      "Shannon Bradshaw"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "America/New_York",
+    "neighborhood": "Lincoln Square"
   },
   {
     "id": "luma-crypto-LX1ZgHPjJxfSRg4",
@@ -608,7 +913,14 @@
     "url": "https://luma.com/emeraldsummitwm26",
     "registrationUrl": "https://luma.com/emeraldsummitwm26",
     "coverImage": "/events/luma-crypto-lx1zghpjjxfsrg4-8b5b736e.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Bhuva Shakti",
+      "Wallet Max",
+      "Bhuva's Impact Global"
+    ],
+    "price": "$100 USD",
+    "timezone": "America/New_York"
   },
   {
     "id": "luma-crypto-Dja1fFLflKdoc3r",
@@ -623,7 +935,15 @@
     "url": "https://luma.com/gehfjmwq",
     "registrationUrl": "https://luma.com/gehfjmwq",
     "coverImage": "/events/luma-crypto-dja1fflflkdoc3r-7a573f4f.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Jack Free",
+      "ShallWe Tech",
+      "Rhiannon Hames"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Europe/London"
   },
   {
     "id": "luma-crypto-hzgEMbo2e4w1juo",
@@ -638,7 +958,11 @@
     "url": "https://luma.com/arts-4qgu",
     "registrationUrl": "https://luma.com/arts-4qgu",
     "coverImage": "/events/luma-crypto-hzgembo2e4w1juo-a0168879.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "price": "$70 AED",
+    "approvalRequired": true,
+    "timezone": "Asia/Dubai",
+    "neighborhood": "Dubai Harbour"
   },
   {
     "id": "luma-crypto-x8a9zaULCtPZTV2",
@@ -653,7 +977,14 @@
     "url": "https://luma.com/metropolis-nyc-sep-2026",
     "registrationUrl": "https://luma.com/metropolis-nyc-sep-2026",
     "coverImage": "/events/luma-crypto-x8a9zaulctpztv2-a5246958.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Monad Foundation"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "America/New_York",
+    "neighborhood": "Manhattan"
   },
   {
     "id": "luma-crypto-8KyAuou22sLR6WZ",
@@ -668,7 +999,14 @@
     "url": "https://luma.com/databricks-hackathon",
     "registrationUrl": "https://luma.com/databricks-hackathon",
     "coverImage": "/events/luma-crypto-8kyauou22slr6wz-a696ef35.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Priyanka"
+    ],
+    "price": "$10 USD",
+    "approvalRequired": true,
+    "timezone": "America/New_York",
+    "neighborhood": "Kew Gardens Hills"
   },
   {
     "id": "luma-crypto-FaqnWiHbv5fjS7g",
@@ -683,7 +1021,15 @@
     "url": "https://luma.com/zgiywrhk",
     "registrationUrl": "https://luma.com/zgiywrhk",
     "coverImage": "/events/luma-crypto-faqnwihbv5fjs7g-905cf69b.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "USTPN Contact",
+      "Govind Gopal",
+      "govind@ustpn.org",
+      "Events USTPN"
+    ],
+    "price": "$10 USD",
+    "timezone": "America/Los_Angeles"
   },
   {
     "id": "luma-crypto-1o1FB3qFyWCYtEi",
@@ -698,7 +1044,13 @@
     "url": "https://luma.com/vpjma1oe",
     "registrationUrl": "https://luma.com/vpjma1oe",
     "coverImage": "/events/luma-crypto-1o1fb3qfywcytei-7f33fc65.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Mahshid Atabaki"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Europe/London"
   },
   {
     "id": "luma-crypto-miNdmkakNF9C33M",
@@ -713,7 +1065,16 @@
     "url": "https://luma.com/n8n-wuqj",
     "registrationUrl": "https://luma.com/n8n-wuqj",
     "coverImage": "/events/luma-crypto-mindmkaknf9c33m-8563085f.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "n8n",
+      "Aya Sayed",
+      "IFM Community"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Dubai",
+    "neighborhood": "Trade Center Second"
   },
   {
     "id": "luma-crypto-PJA3o7ucniYAKBP",
@@ -728,7 +1089,13 @@
     "url": "https://luma.com/of9hwrqv",
     "registrationUrl": "https://luma.com/of9hwrqv",
     "coverImage": "/events/luma-crypto-pja3o7ucniyakbp-4f2f1801.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Sagar Balwani"
+    ],
+    "price": "Free",
+    "timezone": "Asia/Kolkata",
+    "neighborhood": "Extn"
   },
   {
     "id": "luma-crypto-gNAU0bATPxVTH63",
@@ -743,7 +1110,12 @@
     "url": "https://luma.com/kun14koi",
     "registrationUrl": "https://luma.com/kun14koi",
     "coverImage": "/events/luma-crypto-gnau0batpxvth63-fad391f9.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Mason & Fifth"
+    ],
+    "price": "Free",
+    "timezone": "Europe/London"
   },
   {
     "id": "luma-crypto-j11uBoW2oHUUFkW",
@@ -758,7 +1130,16 @@
     "url": "https://luma.com/kiztd80e",
     "registrationUrl": "https://luma.com/kiztd80e",
     "coverImage": "/events/luma-crypto-j11ubow2ohuufkw-8df9f49a.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Ripple Team",
+      "anna nguyen",
+      "reese wong",
+      "sienna leung"
+    ],
+    "price": "$10 GBP",
+    "approvalRequired": true,
+    "timezone": "Europe/London"
   },
   {
     "id": "luma-crypto-01e817k9Btt06et",
@@ -773,7 +1154,17 @@
     "url": "https://luma.com/ka3uxc6b",
     "registrationUrl": "https://luma.com/ka3uxc6b",
     "coverImage": "/events/luma-crypto-01e817k9btt06et-f3da660d.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Seema Wadhwa",
+      "Chethan Sarabu",
+      "Manali Amitav",
+      "Rishabh Surendran"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "America/New_York",
+    "neighborhood": "Roosevelt Island"
   },
   {
     "id": "luma-crypto-Z0WFxEEVYs4zahG",
@@ -788,7 +1179,17 @@
     "url": "https://luma.com/hr-hack-nyc",
     "registrationUrl": "https://luma.com/hr-hack-nyc",
     "coverImage": "/events/luma-crypto-z0wfxeevys4zahg-63f6e8f5.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Somya Gupta",
+      "Alex Marcus",
+      "Celia Davis",
+      "Dominic Smith"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "America/New_York",
+    "neighborhood": "Downtown Brooklyn"
   },
   {
     "id": "luma-crypto-XIU0SEGvG15wUVr",
@@ -803,7 +1204,14 @@
     "url": "https://luma.com/n0hzmjij",
     "registrationUrl": "https://luma.com/n0hzmjij",
     "coverImage": "/events/luma-crypto-xiu0segvg15wuvr-89acdde2.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Dan Bakke"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "America/New_York",
+    "neighborhood": "Manhattan"
   },
   {
     "id": "luma-crypto-8UrKJM3a64tNN6e",
@@ -818,7 +1226,14 @@
     "url": "https://luma.com/pausetheworldforpeace",
     "registrationUrl": "https://luma.com/pausetheworldforpeace",
     "coverImage": "/events/luma-crypto-8urkjm3a64tnn6e-8d01c6e5.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Bruce Porter Jr",
+      "David Porter"
+    ],
+    "price": "Free",
+    "timezone": "America/New_York",
+    "neighborhood": "Theater District"
   },
   {
     "id": "luma-crypto-8prxWB24DCRknYE",
@@ -833,7 +1248,17 @@
     "url": "https://luma.com/upjkn37w",
     "registrationUrl": "https://luma.com/upjkn37w",
     "coverImage": "/events/luma-crypto-8prxwb24dcrknye-bc6fead3.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "LIKELION US",
+      "Serephina Ha",
+      "Grace Kim",
+      "Uri Lee"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "America/Los_Angeles",
+    "neighborhood": "Mid-Market"
   },
   {
     "id": "luma-crypto-sZ0E2VnbKsJm90t",
@@ -848,7 +1273,17 @@
     "url": "https://luma.com/exruwpkp",
     "registrationUrl": "https://luma.com/exruwpkp",
     "coverImage": "/events/luma-crypto-sz0e2vnbksjm90t-66d516fa.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Fig Studio",
+      "VeloDB Inc",
+      "Coco Wang",
+      "Vicky L"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "America/Los_Angeles",
+    "neighborhood": "Nob Hill"
   },
   {
     "id": "luma-crypto-x4XWFqVISgA8ctG",
@@ -863,7 +1298,16 @@
     "url": "https://luma.com/truefoundry-agent-harness-hackathon-sep19-2026",
     "registrationUrl": "https://luma.com/truefoundry-agent-harness-hackathon-sep19-2026",
     "coverImage": "/events/luma-crypto-x4xwfqvisga8ctg-4ff9d2c4.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Adam Chan",
+      "Sai Krishna",
+      "TrueFoundry",
+      "HackerSquad"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "America/Los_Angeles"
   },
   {
     "id": "luma-crypto-KHFO8PYdAo9iSsq",
@@ -878,7 +1322,15 @@
     "url": "https://luma.com/st9fa3gb",
     "registrationUrl": "https://luma.com/st9fa3gb",
     "coverImage": "/events/luma-crypto-khfo8pydao9issq-e36d1f9c.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Lordphone Wen",
+      "Jesscia Chen"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "America/Los_Angeles",
+    "neighborhood": "Old Mountain View"
   },
   {
     "id": "luma-crypto-9ALKhzfyHNOLmPZ",
@@ -893,7 +1345,12 @@
     "url": "https://luma.com/vxyn32lw",
     "registrationUrl": "https://luma.com/vxyn32lw",
     "coverImage": "/events/luma-crypto-9alkhzfyhnolmpz-f9308a67.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Tech Incubator at Queens College"
+    ],
+    "price": "Free",
+    "timezone": "America/New_York"
   },
   {
     "id": "luma-crypto-M1pQPPWlrttT8E0",
@@ -908,7 +1365,12 @@
     "url": "https://luma.com/f8x5s6ik",
     "registrationUrl": "https://luma.com/f8x5s6ik",
     "coverImage": "/events/luma-crypto-m1pqppwlrttt8e0-bcad1181.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Tech Incubator at Queens College"
+    ],
+    "price": "Free",
+    "timezone": "America/New_York"
   },
   {
     "id": "luma-crypto-JrCiiIu7jmCwsnU",
@@ -923,7 +1385,14 @@
     "url": "https://luma.com/ct3wqjvg",
     "registrationUrl": "https://luma.com/ct3wqjvg",
     "coverImage": "/events/luma-crypto-jrciiiu7jmcwsnu-442ca918.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Gwen Pelfini",
+      "Sura Hertzberg"
+    ],
+    "price": "$100 USD",
+    "timezone": "America/Los_Angeles",
+    "neighborhood": "Noe Valley"
   },
   {
     "id": "luma-crypto-wrdOXqFaeJnpiIZ",
@@ -938,7 +1407,16 @@
     "url": "https://luma.com/wq8cj18o",
     "registrationUrl": "https://luma.com/wq8cj18o",
     "coverImage": "/events/luma-crypto-wrdoxqfaejnpiiz-0d11c687.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Canaan Poh (lythe)",
+      "Rajvee Saraf",
+      "Superteam SG"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Outram"
   },
   {
     "id": "luma-crypto-GAXtNbuvGQjuuBp",
@@ -953,7 +1431,12 @@
     "url": "https://luma.com/luw5vqd9",
     "registrationUrl": "https://luma.com/luw5vqd9",
     "coverImage": "/events/luma-crypto-gaxtnbuvgqjuubp-91c43f42.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Sapan Choudhary"
+    ],
+    "price": "Free",
+    "timezone": "Asia/Kolkata"
   },
   {
     "id": "luma-crypto-PfVTljhAgjnvSF4",
@@ -968,7 +1451,15 @@
     "url": "https://luma.com/r58e2nbe",
     "registrationUrl": "https://luma.com/r58e2nbe",
     "coverImage": "/events/luma-crypto-pfvtljhagjnvsf4-d83bf19a.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "1% for the Planet",
+      "Toni Finnimore"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "America/New_York",
+    "neighborhood": "Union Square"
   },
   {
     "id": "luma-crypto-43a6FFWG3SgKDEs",
@@ -983,7 +1474,14 @@
     "url": "https://luma.com/ecox-5ucp",
     "registrationUrl": "https://luma.com/ecox-5ucp",
     "coverImage": "/events/luma-crypto-43a6ffwg3sgkdes-322e633a.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Franco Fiore",
+      "Jorge Sebastiao"
+    ],
+    "price": "Free",
+    "timezone": "Asia/Dubai",
+    "neighborhood": "Business Bay"
   },
   {
     "id": "luma-crypto-nAX1igzjCLW48OD",
@@ -998,7 +1496,14 @@
     "url": "https://luma.com/w378lww4",
     "registrationUrl": "https://luma.com/w378lww4",
     "coverImage": "/events/luma-crypto-nax1igzjclw48od-05e3c65e.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Shuhaela Fabya Haqim"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "America/New_York",
+    "neighborhood": "Manhattan"
   },
   {
     "id": "luma-crypto-wo4i2z8B7f2iTSR",
@@ -1013,7 +1518,12 @@
     "url": "https://luma.com/10hexs52",
     "registrationUrl": "https://luma.com/10hexs52",
     "coverImage": "/events/luma-crypto-wo4i2z8b7f2itsr-4318dc29.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "TAO Socials"
+    ],
+    "price": "Free",
+    "timezone": "Europe/London"
   },
   {
     "id": "luma-crypto-XDAGPCSADvOPMzB",
@@ -1028,7 +1538,14 @@
     "url": "https://luma.com/4ps0ow9b",
     "registrationUrl": "https://luma.com/4ps0ow9b",
     "coverImage": "/events/luma-crypto-xdagpcsadvopmzb-440a6619.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Lou Kerner",
+      "David Fung"
+    ],
+    "price": "Free",
+    "timezone": "America/New_York",
+    "neighborhood": "Greenwich Village"
   },
   {
     "id": "luma-crypto-sBdX3tSZl05miG7",
@@ -1043,7 +1560,15 @@
     "url": "https://luma.com/sep-21-cognee-aws",
     "registrationUrl": "https://luma.com/sep-21-cognee-aws",
     "coverImage": "/events/luma-crypto-sbdx3tszl05mig7-b0fcc504.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Bright Data",
+      "Dave Nielsen",
+      "cognee"
+    ],
+    "price": "Free",
+    "timezone": "America/Los_Angeles",
+    "neighborhood": "South Beach"
   },
   {
     "id": "luma-crypto-5HYUcgc37GdMikW",
@@ -1058,7 +1583,14 @@
     "url": "https://luma.com/jwlfj1v7",
     "registrationUrl": "https://luma.com/jwlfj1v7",
     "coverImage": "/events/luma-crypto-5hyucgc37gdmikw-2e736e00.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Carmack Productions",
+      "Climate Town"
+    ],
+    "price": "Free",
+    "timezone": "America/New_York",
+    "neighborhood": "Gowanus"
   },
   {
     "id": "luma-crypto-wS5uSGcrOLwYI20",
@@ -1073,7 +1605,13 @@
     "url": "https://luma.com/17vw5jy7",
     "registrationUrl": "https://luma.com/17vw5jy7",
     "coverImage": "/events/luma-crypto-ws5usgcrolwyi20-d741acbd.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Honordex LTD"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Europe/London"
   },
   {
     "id": "luma-crypto-f6vuH9lCivEjvZR",
@@ -1088,7 +1626,17 @@
     "url": "https://luma.com/cffny2026",
     "registrationUrl": "https://luma.com/cffny2026",
     "coverImage": "/events/luma-crypto-f6vuh9lcivejvzr-83a83219.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Chloe Noble",
+      "Melania Pruiti",
+      "Hemant Pandit",
+      "Justyna Figueiredo"
+    ],
+    "price": "$999 USD",
+    "approvalRequired": true,
+    "timezone": "America/New_York",
+    "neighborhood": "Lower Manhattan"
   },
   {
     "id": "luma-crypto-hL1iAImGIYcVtNi",
@@ -1103,7 +1651,13 @@
     "url": "https://luma.com/unga2026",
     "registrationUrl": "https://luma.com/unga2026",
     "coverImage": "/events/luma-crypto-hl1iaimgiycvtni-48e554d4.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "GBBC"
+    ],
+    "price": "Free",
+    "timezone": "America/New_York",
+    "neighborhood": "Theater District"
   },
   {
     "id": "luma-crypto-50RsAgEYpgtrlwq",
@@ -1118,7 +1672,12 @@
     "url": "https://luma.com/eh7vkmvy",
     "registrationUrl": "https://luma.com/eh7vkmvy",
     "coverImage": "/events/luma-crypto-50rsageypgtrlwq-b1ab515d.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "National Identity Management Commission"
+    ],
+    "price": "Free",
+    "timezone": "America/New_York"
   },
   {
     "id": "luma-crypto-G4GEQLl03JkFaWN",
@@ -1133,7 +1692,14 @@
     "url": "https://luma.com/455ti5r5",
     "registrationUrl": "https://luma.com/455ti5r5",
     "coverImage": "/events/luma-crypto-g4geqll03jkfawn-206b18d9.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "DAA UK",
+      "Komainu Marketing"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Europe/London"
   },
   {
     "id": "luma-crypto-nQcoeJRArxAyFvy",
@@ -1148,7 +1714,15 @@
     "url": "https://luma.com/ua0i7a2x",
     "registrationUrl": "https://luma.com/ua0i7a2x",
     "coverImage": "/events/luma-crypto-nqcoejrarxayfvy-6163d479.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "UN Global Compact Network Nigeria",
+      "UN Global Compact Network Caribbean"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "America/New_York",
+    "neighborhood": "Midtown Manhattan"
   },
   {
     "id": "luma-crypto-X9jW4fpZYmhxXVG",
@@ -1163,7 +1737,17 @@
     "url": "https://luma.com/5ua8i1gw",
     "registrationUrl": "https://luma.com/5ua8i1gw",
     "coverImage": "/events/luma-crypto-x9jw4fpzymhxxvg-02fa4c72.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Ashton Moody",
+      "kate martin",
+      "Annika Langbein",
+      "Donna Lee"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "America/New_York",
+    "neighborhood": "Murray Hill"
   },
   {
     "id": "luma-crypto-blcNdHgHuRW0Okz",
@@ -1178,7 +1762,15 @@
     "url": "https://luma.com/cffnydrinks",
     "registrationUrl": "https://luma.com/cffnydrinks",
     "coverImage": "/events/luma-crypto-blcndhghurw0okz-a796fe68.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Melania Pruiti",
+      "Justyna Figueiredo"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "America/New_York",
+    "neighborhood": "Lower Manhattan"
   },
   {
     "id": "luma-crypto-wZxpOx7q4EJDyqE",
@@ -1193,7 +1785,15 @@
     "url": "https://luma.com/5y958qv8",
     "registrationUrl": "https://luma.com/5y958qv8",
     "coverImage": "/events/luma-crypto-wzxpox7q4ejdyqe-148ad86f.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Urban Future Lab",
+      "Austin Evarts"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "America/New_York",
+    "neighborhood": "Clinton Hill"
   },
   {
     "id": "luma-crypto-JyKG7U4110cFMjH",
@@ -1208,7 +1808,16 @@
     "url": "https://luma.com/5cewfkx1",
     "registrationUrl": "https://luma.com/5cewfkx1",
     "coverImage": "/events/luma-crypto-jykg7u4110cfmjh-8c159a0e.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "George Pickett",
+      "WorkOS",
+      "Parallel Web Systems"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "America/Los_Angeles",
+    "neighborhood": "Union Square"
   },
   {
     "id": "luma-crypto-PiRQi9wnOxyveK3",
@@ -1223,7 +1832,14 @@
     "url": "https://luma.com/33uip58p",
     "registrationUrl": "https://luma.com/33uip58p",
     "coverImage": "/events/luma-crypto-pirqi9wnoxyvek3-dd48f454.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Zaeem Bhanji",
+      "Olly Hudson"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Europe/London"
   },
   {
     "id": "luma-crypto-dv6ybcPFmCqTA0V",
@@ -1238,7 +1854,15 @@
     "url": "https://luma.com/e3pdbyfr",
     "registrationUrl": "https://luma.com/e3pdbyfr",
     "coverImage": "/events/luma-crypto-dv6ybcpfmcqta0v-4d2d89c0.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Calyx Global",
+      "Beyond Alliance"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "America/New_York",
+    "neighborhood": "Midtown Manhattan"
   },
   {
     "id": "luma-crypto-t4hEnBsbFRmstlp",
@@ -1253,7 +1877,13 @@
     "url": "https://luma.com/qij60sdb",
     "registrationUrl": "https://luma.com/qij60sdb",
     "coverImage": "/events/luma-crypto-t4henbsbfrmstlp-b0afefd2.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "UCL CSRI",
+      "Narmin Rahimli"
+    ],
+    "price": "Free",
+    "timezone": "Europe/London"
   },
   {
     "id": "luma-crypto-nF5sO8DSZQqZAyQ",
@@ -1268,7 +1898,15 @@
     "url": "https://luma.com/m4u3u0j4",
     "registrationUrl": "https://luma.com/m4u3u0j4",
     "coverImage": "/events/luma-crypto-nf5so8dszqqzayq-135cd0b2.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Yorke Rhodes III",
+      "Shiran Mlamdovsky Somech",
+      "Ethical Tech CoLab"
+    ],
+    "price": "Free",
+    "timezone": "America/New_York",
+    "neighborhood": "Midtown South"
   },
   {
     "id": "luma-crypto-OkQNSxjLO2nH6WD",
@@ -1283,7 +1921,14 @@
     "url": "https://luma.com/or8vn8ix",
     "registrationUrl": "https://luma.com/or8vn8ix",
     "coverImage": "/events/luma-crypto-okqnsxjlo2nh6wd-34ca153c.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Beyond Alliance"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "America/New_York",
+    "neighborhood": "Midtown Manhattan"
   },
   {
     "id": "luma-crypto-slMHV4kfSyFQt7c",
@@ -1298,7 +1943,13 @@
     "url": "https://luma.com/x4ha29w0",
     "registrationUrl": "https://luma.com/x4ha29w0",
     "coverImage": "/events/luma-crypto-slmhv4kfsyfqt7c-8be0ff48.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Terry Lurie"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Europe/London"
   },
   {
     "id": "luma-crypto-KFzHnmUFY8BIh7x",
@@ -1313,7 +1964,11 @@
     "url": "https://luma.com/g0f8f1k7",
     "registrationUrl": "https://luma.com/g0f8f1k7",
     "coverImage": "/events/luma-crypto-kfzhnmufy8bih7x-50b45ada.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "America/New_York",
+    "neighborhood": "Manhattan"
   },
   {
     "id": "luma-crypto-0lJNFheoD81nPZS",
@@ -1328,7 +1983,16 @@
     "url": "https://luma.com/ukf0gv9s",
     "registrationUrl": "https://luma.com/ukf0gv9s",
     "coverImage": "/events/luma-crypto-0ljnfheod81npzs-c078abd7.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Theo Burns",
+      "Hannah",
+      "Valeria Granda",
+      "Hannah Callaghan"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Europe/London"
   },
   {
     "id": "luma-crypto-uhw289wfAXAVAdO",
@@ -1343,7 +2007,15 @@
     "url": "https://luma.com/itqo25g6",
     "registrationUrl": "https://luma.com/itqo25g6",
     "coverImage": "/events/luma-crypto-uhw289wfaxavado-30833eca.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Johnny Chang",
+      "Tatijana Janko"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "America/Los_Angeles",
+    "neighborhood": "Yerba Buena"
   },
   {
     "id": "luma-crypto-EUH18Uaonj0rgDj",
@@ -1358,7 +2030,15 @@
     "url": "https://luma.com/ma7uryic",
     "registrationUrl": "https://luma.com/ma7uryic",
     "coverImage": "/events/luma-crypto-euh18uaonj0rgdj-dcc90e6e.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Ems",
+      "Team1",
+      "Diya Ranka"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Europe/London"
   },
   {
     "id": "luma-crypto-ZrfxC8a0HeH1ldQ",
@@ -1373,7 +2053,15 @@
     "url": "https://luma.com/women-nklb",
     "registrationUrl": "https://luma.com/women-nklb",
     "coverImage": "/events/luma-crypto-zrfxc8a0heh1ldq-bf0f5849.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Women Defining AI .org",
+      "Rajni Rughwani",
+      "Sumathi Menon"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Europe/London"
   },
   {
     "id": "luma-crypto-iSsgtX8txkWC11L",
@@ -1388,7 +2076,14 @@
     "url": "https://luma.com/t9hadxgx",
     "registrationUrl": "https://luma.com/t9hadxgx",
     "coverImage": "/events/luma-crypto-issgtx8txkwc11l-263f6fc6.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "TatianaSF com"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "America/Los_Angeles",
+    "neighborhood": "Mission District"
   },
   {
     "id": "luma-crypto-GEzYcX1i5FjiSGT",
@@ -1403,7 +2098,17 @@
     "url": "https://luma.com/sdth-2026",
     "registrationUrl": "https://luma.com/sdth-2026",
     "coverImage": "/events/luma-crypto-gezycx1i5fjisgt-6de16cdc.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "EDTH",
+      "Benjamin Wolba",
+      "Gary Ang",
+      "Jennifer Toh"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "National University of Singapore"
   },
   {
     "id": "luma-crypto-BavsKnnpoAOSM59",
@@ -1418,7 +2123,16 @@
     "url": "https://luma.com/hbo5481d",
     "registrationUrl": "https://luma.com/hbo5481d",
     "coverImage": "/events/luma-crypto-bavsknnpoaosm59-c679d264.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "LetMeDo",
+      "Wasim Fukase",
+      "Kanishk Khurana"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Dubai",
+    "neighborhood": "Al Barsha"
   },
   {
     "id": "luma-crypto-bSHlHyFbLpWkxET",
@@ -1433,7 +2147,16 @@
     "url": "https://luma.com/horizonagentshack",
     "registrationUrl": "https://luma.com/horizonagentshack",
     "coverImage": "/events/luma-crypto-bshlhyfblpwkxet-69ba8c9a.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "tokens&",
+      "Alessandro Amenta",
+      "Jacopo Piazza"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "America/Los_Angeles",
+    "neighborhood": "Financial District"
   },
   {
     "id": "luma-crypto-fRkk67UNiklXIIp",
@@ -1448,7 +2171,13 @@
     "url": "https://luma.com/tsjh0lm9",
     "registrationUrl": "https://luma.com/tsjh0lm9",
     "coverImage": "/events/luma-crypto-frkk67uniklxiip-efe3e8ca.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Jam Coombes"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Europe/London"
   },
   {
     "id": "luma-crypto-oesgABTmPAizIxy",
@@ -1463,7 +2192,16 @@
     "url": "https://luma.com/zr87gmkt",
     "registrationUrl": "https://luma.com/zr87gmkt",
     "coverImage": "/events/luma-crypto-oesgabtmpaizixy-70d66866.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Ayush Ojha",
+      "articuler.ai",
+      "Sahar Mor (Bond AI)",
+      "Kyle Morrison"
+    ],
+    "price": "Free",
+    "timezone": "America/Los_Angeles",
+    "neighborhood": "Financial District"
   },
   {
     "id": "luma-crypto-9n9wgikVI6ZuXCq",
@@ -1478,7 +2216,14 @@
     "url": "https://luma.com/metropolis-sf-sep-2026",
     "registrationUrl": "https://luma.com/metropolis-sf-sep-2026",
     "coverImage": "/events/luma-crypto-9n9wgikvi6zuxcq-678d11db.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Monad Foundation"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "America/Los_Angeles",
+    "neighborhood": "SoMa"
   },
   {
     "id": "luma-crypto-JoOSLiKtxjk0MZL",
@@ -1493,7 +2238,17 @@
     "url": "https://luma.com/kbk3wqgu",
     "registrationUrl": "https://luma.com/kbk3wqgu",
     "coverImage": "/events/luma-crypto-joosliktxjk0mzl-9997591e.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Hamzeh Abu Qamar",
+      "Julien Rosilio",
+      "Abdul Aldhalaan",
+      "Oriane.xyz Video Intelligence"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Dubai",
+    "neighborhood": "Trade Center Second"
   },
   {
     "id": "luma-crypto-IJQxzk3Y9DouLNr",
@@ -1508,7 +2263,13 @@
     "url": "https://luma.com/solana-capital-forum",
     "registrationUrl": "https://luma.com/solana-capital-forum",
     "coverImage": "/events/luma-crypto-ijqxzk3y9doulnr-b70db7bb.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Solana Foundation"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "America/Los_Angeles"
   },
   {
     "id": "luma-crypto-lGebHHYYw3c9yBA",
@@ -1523,7 +2284,15 @@
     "url": "https://luma.com/j79caynh",
     "registrationUrl": "https://luma.com/j79caynh",
     "coverImage": "/events/luma-crypto-lgebhhyyw3c9yba-3119b831.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "John Miller",
+      "Dave Nielsen",
+      "Divya Koppolu",
+      "Silicon Valley AI Hub"
+    ],
+    "price": "Free",
+    "timezone": "America/Los_Angeles"
   },
   {
     "id": "luma-crypto-ujvKacbC5DsvFEC",
@@ -1538,7 +2307,16 @@
     "url": "https://luma.com/claudeweb3",
     "registrationUrl": "https://luma.com/claudeweb3",
     "coverImage": "/events/luma-crypto-ujvkacbc5dsvfec-f4381ff2.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Freddy Lim",
+      "Kimberly Tan",
+      "Amelia C"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "luma-crypto-Ks1XgEhMaGtqKer",
@@ -1553,7 +2331,15 @@
     "url": "https://luma.com/flwrlabs-bamu",
     "registrationUrl": "https://luma.com/flwrlabs-bamu",
     "coverImage": "/events/luma-crypto-ks1xgehmagtqker-08e7b7e8.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Nicolas Heinz",
+      "Nic Lane",
+      "Ruth Galindo",
+      "Pedro Mesa"
+    ],
+    "price": "Free",
+    "timezone": "America/Los_Angeles"
   },
   {
     "id": "luma-crypto-SIDB65YWRiPF0ZH",
@@ -1568,7 +2354,13 @@
     "url": "https://luma.com/softr-build-day-london",
     "registrationUrl": "https://luma.com/softr-build-day-london",
     "coverImage": "/events/luma-crypto-sidb65ywripf0zh-dd3ebb2f.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Francisco Opazo"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Europe/London"
   },
   {
     "id": "luma-crypto-RvnjOCvIWttcRXU",
@@ -1583,7 +2375,14 @@
     "url": "https://luma.com/techweeksg",
     "registrationUrl": "https://luma.com/techweeksg",
     "coverImage": "/events/luma-crypto-rvnjocviwttcrxu-7c619104.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "EpicConnector"
+    ],
+    "price": "$30 USD",
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "luma-crypto-bjFFo8TJeoWZLmW",
@@ -1598,7 +2397,17 @@
     "url": "https://luma.com/ysnawrb2",
     "registrationUrl": "https://luma.com/ysnawrb2",
     "coverImage": "/events/luma-crypto-bjffo8tjeowzlmw-b87bc772.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Michael Raspuzzi",
+      "Nate Padgett",
+      "Tarlon Khoubyari",
+      "Francesca Malayeri"
+    ],
+    "price": "$25 USD",
+    "approvalRequired": true,
+    "timezone": "America/Los_Angeles",
+    "neighborhood": "Bernal Heights"
   },
   {
     "id": "luma-crypto-Som3hML2sfbwc5R",
@@ -1613,7 +2422,15 @@
     "url": "https://luma.com/hdf7uc43",
     "registrationUrl": "https://luma.com/hdf7uc43",
     "coverImage": "/events/luma-crypto-som3hml2sfbwc5r-c13142a8.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Gianni Austin",
+      "Oriol Morros Vilaseca",
+      "Sophie Yau"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Europe/London"
   },
   {
     "id": "luma-crypto-9G13qSATpaiBBSX",
@@ -1628,7 +2445,16 @@
     "url": "https://luma.com/6bbloggr",
     "registrationUrl": "https://luma.com/6bbloggr",
     "coverImage": "/events/luma-crypto-9g13qsatpaibbsx-a390ffde.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "AI Valley",
+      "ZooWork Team",
+      "Courtney Ko"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "America/Los_Angeles",
+    "neighborhood": "Main Post"
   },
   {
     "id": "luma-crypto-1QNFYg0hnersq5F",
@@ -1646,7 +2472,16 @@
     "source": "luma-crypto",
     "sideEventFor": [
       "token2049"
-    ]
+    ],
+    "hosts": [
+      "Anna Gates",
+      "Lucas Nicolet-Serra",
+      "Jussi AITTOLA"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Central Area"
   },
   {
     "id": "luma-crypto-bGWgAlfUqt19gq7",
@@ -1664,7 +2499,15 @@
     "source": "luma-crypto",
     "sideEventFor": [
       "token2049"
-    ]
+    ],
+    "hosts": [
+      "Utila .io",
+      "Paz"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Marina South"
   },
   {
     "id": "luma-crypto-yx5TMJkA5A4WXw1",
@@ -1679,7 +2522,17 @@
     "url": "https://luma.com/76y5n0b7",
     "registrationUrl": "https://luma.com/76y5n0b7",
     "coverImage": "/events/luma-crypto-yx5tmjka5a4wxw1-ee9f31f3.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Team DAA",
+      "Lionel Seah",
+      "Danny Chong",
+      "Jag Foo"
+    ],
+    "price": "$88 SGD",
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "luma-crypto-cLpIcq4MIfm8jHk",
@@ -1694,7 +2547,17 @@
     "url": "https://luma.com/rlfbd858",
     "registrationUrl": "https://luma.com/rlfbd858",
     "coverImage": "/events/luma-crypto-clpicq4mifm8jhk-3bdff502.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Anir Bhattacharyya",
+      "Ali Burney",
+      "Anna Gates",
+      "Peter Woo"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Central Area"
   },
   {
     "id": "luma-crypto-Qm3jiCrG5WYct6j",
@@ -1709,7 +2572,14 @@
     "url": "https://luma.com/hyperliquid-forum",
     "registrationUrl": "https://luma.com/hyperliquid-forum",
     "coverImage": "/events/luma-crypto-qm3jicrg5wyct6j-940b63f4.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "DAYS"
+    ],
+    "price": "$445 USD",
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "luma-crypto-CuBqqXAPJTj9BgU",
@@ -1724,7 +2594,17 @@
     "url": "https://luma.com/frontier-traders-sg-2026",
     "registrationUrl": "https://luma.com/frontier-traders-sg-2026",
     "coverImage": "/events/luma-crypto-cubqqxapjtj9bgu-10702e2e.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "matthew 💭",
+      "Solana Foundation",
+      "Ramzy Ali",
+      "Seraphim Cz"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "luma-crypto-QF47atVqujSc4Gq",
@@ -1739,7 +2619,17 @@
     "url": "https://luma.com/partnerbrunch_tokensg",
     "registrationUrl": "https://luma.com/partnerbrunch_tokensg",
     "coverImage": "/events/luma-crypto-qf47atvqujsc4gq-40b4f061.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "WalletConnect",
+      "Turnkey",
+      "OpenFX",
+      "Canton | Anney"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "luma-crypto-B5mJHVEwxexR70t",
@@ -1754,7 +2644,17 @@
     "url": "https://luma.com/pgh8dk05",
     "registrationUrl": "https://luma.com/pgh8dk05",
     "coverImage": "/events/luma-crypto-b5mjhvewxexr70t-ff295041.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Thibaut Gravelle-Vivien",
+      "Merkle Science",
+      "TM",
+      "Christopher McArthur"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Central Area"
   },
   {
     "id": "luma-crypto-VWA51AyjG3qdtpb",
@@ -1772,7 +2672,16 @@
     "source": "luma-crypto",
     "sideEventFor": [
       "token2049"
-    ]
+    ],
+    "hosts": [
+      "GMA",
+      "Nann",
+      "Apple"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Museum"
   },
   {
     "id": "luma-crypto-C7HgzUqyCNyMBPO",
@@ -1790,7 +2699,11 @@
     "source": "luma-crypto",
     "sideEventFor": [
       "token2049"
-    ]
+    ],
+    "price": "$3,250 AED",
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Central Area"
   },
   {
     "id": "luma-crypto-b6043GGltQOzJWN",
@@ -1808,7 +2721,16 @@
     "source": "luma-crypto",
     "sideEventFor": [
       "token2049"
-    ]
+    ],
+    "hosts": [
+      "TokenizeThis",
+      "RedStone",
+      "Alchemy"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Central Area"
   },
   {
     "id": "luma-crypto-lt0WbNw6gENsUVZ",
@@ -1826,7 +2748,14 @@
     "source": "luma-crypto",
     "sideEventFor": [
       "token2049"
-    ]
+    ],
+    "hosts": [
+      "NEAR Foundation"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Outram"
   },
   {
     "id": "luma-crypto-5HegHUeX2yJ5ltO",
@@ -1841,7 +2770,14 @@
     "url": "https://luma.com/hacken-qhdh",
     "registrationUrl": "https://luma.com/hacken-qhdh",
     "coverImage": "/events/luma-crypto-5heghuex2yj5lto-7d44753c.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Hacken"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Chinatown"
   },
   {
     "id": "luma-crypto-XNWUe6lrUbzompQ",
@@ -1859,7 +2795,16 @@
     "source": "luma-crypto",
     "sideEventFor": [
       "token2049"
-    ]
+    ],
+    "hosts": [
+      "Filiz Atak",
+      "Christina Stoney",
+      "Benjamin Jun Tai"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "luma-crypto-cdFGjoHECrRoJVA",
@@ -1874,7 +2819,17 @@
     "url": "https://luma.com/g9ajr0gx",
     "registrationUrl": "https://luma.com/g9ajr0gx",
     "coverImage": "/events/luma-crypto-cdfgjohecrrojva-431234d3.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "OpenEden",
+      "Utila .io",
+      "Charles",
+      "Blockaid"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "luma-crypto-8OBtqWxTbNAz1r8",
@@ -1889,7 +2844,14 @@
     "url": "https://luma.com/lcv40t0m",
     "registrationUrl": "https://luma.com/lcv40t0m",
     "coverImage": "/events/luma-crypto-8obtqwxtbnaz1r8-94f89548.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Min"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Tanjong Pagar"
   },
   {
     "id": "luma-crypto-EIeXOplHoF0mz7E",
@@ -1904,7 +2866,14 @@
     "url": "https://luma.com/dasasia2026",
     "registrationUrl": "https://luma.com/dasasia2026",
     "coverImage": "/events/luma-crypto-eiexoplhof0mz7e-4677f9bb.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Carolyn Wyatt"
+    ],
+    "price": "$434.91 USD",
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "luma-crypto-2ygHIALwkuZ84ZR",
@@ -1919,7 +2888,15 @@
     "url": "https://luma.com/6dl04lu7",
     "registrationUrl": "https://luma.com/6dl04lu7",
     "coverImage": "/events/luma-crypto-2yghialwkuz84zr-edfb5bd1.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "NEAR Foundation",
+      "Introduction.com"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "America/Los_Angeles",
+    "neighborhood": "Financial District"
   },
   {
     "id": "luma-crypto-q2d3rNyeBNrqk1s",
@@ -1937,7 +2914,16 @@
     "source": "luma-crypto",
     "sideEventFor": [
       "token2049"
-    ]
+    ],
+    "hosts": [
+      "Dion Guillaume",
+      "Min H. Kim (TG: @therealminkim)",
+      "Goose",
+      "Hack VC"
+    ],
+    "price": "Free",
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "luma-crypto-AxvuEgt2SBXjO1I",
@@ -1952,7 +2938,15 @@
     "url": "https://luma.com/altitude-oplabs-affogato",
     "registrationUrl": "https://luma.com/altitude-oplabs-affogato",
     "coverImage": "/events/luma-crypto-axvuegt2sbxjo1i-eec8c5b5.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Altitude",
+      "Optimism Events"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Chinatown"
   },
   {
     "id": "luma-crypto-rNQE894TJApNgnb",
@@ -1970,7 +2964,13 @@
     "source": "luma-crypto",
     "sideEventFor": [
       "token2049"
-    ]
+    ],
+    "hosts": [
+      "Jenna"
+    ],
+    "price": "Free",
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "luma-crypto-BjNTZDBANAPAjYl",
@@ -1988,7 +2988,16 @@
     "source": "luma-crypto",
     "sideEventFor": [
       "token2049"
-    ]
+    ],
+    "hosts": [
+      "BitGo Events",
+      "HashKey On-Chain",
+      "UstarPay"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "luma-crypto-yVvzhRKJfiM98cK",
@@ -2006,7 +3015,16 @@
     "source": "luma-crypto",
     "sideEventFor": [
       "token2049"
-    ]
+    ],
+    "hosts": [
+      "Quantova Team",
+      "Anna Tutova",
+      "HackenProof"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "luma-crypto-akDCfULmtdYHvAh",
@@ -2024,7 +3042,15 @@
     "source": "luma-crypto",
     "sideEventFor": [
       "token2049"
-    ]
+    ],
+    "hosts": [
+      "EpicConnector",
+      "OGBC Hub"
+    ],
+    "price": "$30 USD",
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Central Area"
   },
   {
     "id": "luma-crypto-cxEYky3mSNGbtEH",
@@ -2042,7 +3068,13 @@
     "source": "luma-crypto",
     "sideEventFor": [
       "token2049"
-    ]
+    ],
+    "hosts": [
+      "Michael Coinfest"
+    ],
+    "price": "Free",
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "luma-crypto-KD6jLHimnBO4KxZ",
@@ -2060,7 +3092,14 @@
     "source": "luma-crypto",
     "sideEventFor": [
       "token2049"
-    ]
+    ],
+    "hosts": [
+      "Kraken"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Central Area"
   },
   {
     "id": "luma-crypto-XeNEjxuPS7Ubymi",
@@ -2075,7 +3114,13 @@
     "url": "https://luma.com/builde-q0bj",
     "registrationUrl": "https://luma.com/builde-q0bj",
     "coverImage": "/events/luma-crypto-xenejxups7ubymi-9da4cfe9.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "BuilderBase"
+    ],
+    "price": "Free",
+    "timezone": "America/Los_Angeles",
+    "neighborhood": "Financial District"
   },
   {
     "id": "luma-crypto-1vMPCKsGTGq54i7",
@@ -2090,7 +3135,15 @@
     "url": "https://luma.com/hn4u80ws",
     "registrationUrl": "https://luma.com/hn4u80ws",
     "coverImage": "/events/luma-crypto-1vmpcksgtgq54i7-67b2fccd.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Laurent Stieger",
+      "Superteam SG"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Central Area"
   },
   {
     "id": "luma-crypto-bGC23AEnuTIp9Ot",
@@ -2108,7 +3161,13 @@
     "source": "luma-crypto",
     "sideEventFor": [
       "token2049"
-    ]
+    ],
+    "hosts": [
+      "Midnight"
+    ],
+    "price": "Free",
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "luma-crypto-gaN3evDFpV0ktFD",
@@ -2126,7 +3185,17 @@
     "source": "luma-crypto",
     "sideEventFor": [
       "token2049"
-    ]
+    ],
+    "hosts": [
+      "Reap",
+      "Bruno Betenson",
+      "Esther Wong",
+      "Mariangel Garcia"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Singapore River"
   },
   {
     "id": "luma-crypto-BXcUM9r7XEws7Fa",
@@ -2144,7 +3213,14 @@
     "source": "luma-crypto",
     "sideEventFor": [
       "token2049"
-    ]
+    ],
+    "hosts": [
+      "Midnight",
+      "Tom Humber"
+    ],
+    "price": "Free",
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "luma-crypto-r9i9A4Xqub15b04",
@@ -2159,7 +3235,14 @@
     "url": "https://luma.com/09pd8o7a",
     "registrationUrl": "https://luma.com/09pd8o7a",
     "coverImage": "/events/luma-crypto-r9i9a4xqub15b04-3e659224.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Jane BiXin",
+      "Soren Feig｜Principia Labs"
+    ],
+    "price": "Free",
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Kallang"
   },
   {
     "id": "luma-crypto-gHEGbdLMBoj9JDY",
@@ -2177,7 +3260,14 @@
     "source": "luma-crypto",
     "sideEventFor": [
       "token2049"
-    ]
+    ],
+    "hosts": [
+      "Websea"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "luma-crypto-5RMBYdKS7czHCfB",
@@ -2195,7 +3285,14 @@
     "source": "luma-crypto",
     "sideEventFor": [
       "token2049"
-    ]
+    ],
+    "hosts": [
+      "BitGo Events"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "luma-crypto-LEYEvg6H3jz4yW1",
@@ -2213,7 +3310,17 @@
     "source": "luma-crypto",
     "sideEventFor": [
       "token2049"
-    ]
+    ],
+    "hosts": [
+      "Irene Liao",
+      "VKTR",
+      "John Wang",
+      "ico beast"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Downtown Core"
   },
   {
     "id": "luma-crypto-Idth15LWAl7MhKh",
@@ -2228,7 +3335,15 @@
     "url": "https://luma.com/qzct3ybt",
     "registrationUrl": "https://luma.com/qzct3ybt",
     "coverImage": "/events/luma-crypto-idth15lwal7mhkh-ff1762fa.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "TatianaSF com",
+      "Yar Doroshenko"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "America/Los_Angeles",
+    "neighborhood": "Northern Waterfront"
   },
   {
     "id": "luma-crypto-iuFabSnK5cWmb7t",
@@ -2243,7 +3358,16 @@
     "url": "https://luma.com/w2vo3svp",
     "registrationUrl": "https://luma.com/w2vo3svp",
     "coverImage": "/events/luma-crypto-iufabsnk5cwmb7t-968a964c.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Yuna",
+      "Sarah McNally Sony Group",
+      "Soneium"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Singapore",
+    "neighborhood": "Central Area"
   },
   {
     "id": "luma-crypto-mZkvPeUErlCZWoG",
@@ -2258,7 +3382,16 @@
     "url": "https://luma.com/oct-hackathon",
     "registrationUrl": "https://luma.com/oct-hackathon",
     "coverImage": "/events/luma-crypto-mzkvpeuerlczwog-714e029a.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "TechEquity Ai",
+      "Sheena Tu",
+      "Mahan Soltanzadeh",
+      "Dave Nielsen"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "America/Los_Angeles"
   },
   {
     "id": "luma-crypto-VcpyfOM9tAtGEBi",
@@ -2273,7 +3406,16 @@
     "url": "https://luma.com/5rg1dsx5",
     "registrationUrl": "https://luma.com/5rg1dsx5",
     "coverImage": "/events/luma-crypto-vcpyfom9tatgebi-bb825917.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Yeyang Zhang",
+      "Sophie Chen",
+      "Dominique Reese",
+      "Rahul Kay"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "America/Los_Angeles"
   },
   {
     "id": "luma-crypto-DW1mNXiXnvQ42Bi",
@@ -2288,7 +3430,14 @@
     "url": "https://luma.com/kdci5gdv",
     "registrationUrl": "https://luma.com/kdci5gdv",
     "coverImage": "/events/luma-crypto-dw1mnxixnvq42bi-20d79871.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Breakpoint Co.,Ltd."
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "America/Los_Angeles",
+    "neighborhood": "University South"
   },
   {
     "id": "luma-crypto-i7agflP95FW2Y66",
@@ -2303,7 +3452,14 @@
     "url": "https://luma.com/juntofounderdinneroct14",
     "registrationUrl": "https://luma.com/juntofounderdinneroct14",
     "coverImage": "/events/luma-crypto-i7agflp95fw2y66-5333d63a.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Andrew Yeung"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "America/Los_Angeles",
+    "neighborhood": "Japantown"
   },
   {
     "id": "luma-crypto-yB1Ga9TIhcXOMJA",
@@ -2318,7 +3474,16 @@
     "url": "https://luma.com/stablecoinconnectsolanaaquanowuniversal",
     "registrationUrl": "https://luma.com/stablecoinconnectsolanaaquanowuniversal",
     "coverImage": "/events/luma-crypto-yb1ga9tihcxomja-a233bce6.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Superteam Middle East",
+      "Aquanow",
+      "Universal"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Dubai",
+    "neighborhood": "Palm Jumeirah"
   },
   {
     "id": "luma-crypto-yogNb1gnuUEJWFz",
@@ -2333,7 +3498,14 @@
     "url": "https://luma.com/extraordinaryfoundersdinneroct15",
     "registrationUrl": "https://luma.com/extraordinaryfoundersdinneroct15",
     "coverImage": "/events/luma-crypto-yognb1gnuuejwfz-c7da82de.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Andrew Yeung"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "America/Los_Angeles",
+    "neighborhood": "Chinatown"
   },
   {
     "id": "luma-crypto-rHjDzQ9Ow33bh2U",
@@ -2348,7 +3520,17 @@
     "url": "https://luma.com/hmo88s8e",
     "registrationUrl": "https://luma.com/hmo88s8e",
     "coverImage": "/events/luma-crypto-rhjdzq9ow33bh2u-894ff306.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "RWA Labs",
+      "Juliet Su",
+      "Anton Golub",
+      "0.Irina Heaver- UAE Crypto Lawyer"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Dubai",
+    "neighborhood": "Al Thanyah Fifth"
   },
   {
     "id": "luma-crypto-T8jvG7h5xieJmQL",
@@ -2363,7 +3545,16 @@
     "url": "https://luma.com/mvcg9eyw",
     "registrationUrl": "https://luma.com/mvcg9eyw",
     "coverImage": "/events/luma-crypto-t8jvg7h5xiejmql-e963d79a.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Mind the Bridge",
+      "Luisa Caluri",
+      "Silicon Mountain"
+    ],
+    "price": "$20 USD",
+    "approvalRequired": true,
+    "timezone": "America/Los_Angeles",
+    "neighborhood": "SoMa"
   },
   {
     "id": "luma-crypto-uY7AwaQhqCO2Ejy",
@@ -2378,7 +3569,17 @@
     "url": "https://luma.com/executorch-hackathon",
     "registrationUrl": "https://luma.com/executorch-hackathon",
     "coverImage": "/events/luma-crypto-uy7awaqhqco2ejy-131c9316.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "HackerSquad",
+      "Qualcomm",
+      "GitHub",
+      "Meta"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "America/Los_Angeles",
+    "neighborhood": "Fort Mason"
   },
   {
     "id": "luma-crypto-KdgiJ5gO82TXRB9",
@@ -2393,7 +3594,15 @@
     "url": "https://luma.com/bo69pa9j",
     "registrationUrl": "https://luma.com/bo69pa9j",
     "coverImage": "/events/luma-crypto-kdgij5go82txrb9-fb2599bb.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Yuan Zi",
+      "李晓君",
+      "Xavier Huang"
+    ],
+    "price": "$25 USD",
+    "approvalRequired": true,
+    "timezone": "America/Los_Angeles"
   },
   {
     "id": "luma-crypto-pMblGmFDgWwshUx",
@@ -2408,7 +3617,12 @@
     "url": "https://luma.com/jgl2tejn",
     "registrationUrl": "https://luma.com/jgl2tejn",
     "coverImage": "/events/luma-crypto-pmblgmfdgwwshux-5bd53a7a.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Chris Anderson"
+    ],
+    "price": "Free",
+    "timezone": "America/Los_Angeles"
   },
   {
     "id": "luma-crypto-Q9pqBMhbxoTeN4u",
@@ -2423,7 +3637,14 @@
     "url": "https://luma.com/solanaskydiving",
     "registrationUrl": "https://luma.com/solanaskydiving",
     "coverImage": "/events/luma-crypto-q9pqbmhbxoten4u-6568778e.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Superteam Middle East"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Dubai",
+    "neighborhood": "Mirdif"
   },
   {
     "id": "luma-crypto-5FMmAfCas90BSxo",
@@ -2438,7 +3659,14 @@
     "url": "https://luma.com/tyjq8g49",
     "registrationUrl": "https://luma.com/tyjq8g49",
     "coverImage": "/events/luma-crypto-5fmmafcas90bsxo-800e6b20.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "TatianaSF com"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "America/Los_Angeles",
+    "neighborhood": "Mission District"
   },
   {
     "id": "luma-crypto-8dntupEO60aiWT5",
@@ -2453,7 +3681,13 @@
     "url": "https://luma.com/london-hh-26",
     "registrationUrl": "https://luma.com/london-hh-26",
     "coverImage": "/events/luma-crypto-8dntupeo60aiwt5-2eca9903.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Solana Foundation"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Europe/London"
   },
   {
     "id": "luma-crypto-ktYtj2edpeRFLQd",
@@ -2468,6 +3702,12 @@
     "url": "https://luma.com/cosmoversehongkong",
     "registrationUrl": "https://luma.com/cosmoversehongkong",
     "coverImage": "/events/luma-crypto-ktytj2edperflqd-791f87eb.webp",
-    "source": "luma-crypto"
+    "source": "luma-crypto",
+    "hosts": [
+      "Cosmoverse Labs"
+    ],
+    "price": "$288 USD",
+    "timezone": "Asia/Hong_Kong",
+    "neighborhood": "Wan Chai"
   }
 ]

@@ -14,7 +14,16 @@
     ],
     "url": "https://luma.com/oc5uk7rc",
     "coverImage": "/events/kbw-official-namsan-hike-with-t1gers-09-26-686e369c.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "Margot | Tiger Research",
+      "Team1 Korea",
+      "Ferien Lee",
+      "Team1"
+    ],
+    "price": "Free",
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Jangchungdan-ro"
   },
   {
     "id": "kbw-official-celo-espresso-brews-09-27",
@@ -31,7 +40,14 @@
     ],
     "url": "https://luma.com/espresso-hh",
     "coverImage": "/events/kbw-official-celo-espresso-brews-09-27-05cb3f91.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "Espresso Systems",
+      "Celo Core Co."
+    ],
+    "price": "Free",
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Seolleung-ro 162-gil"
   },
   {
     "id": "kbw-official-tangem-house-seoul-09-27",
@@ -48,7 +64,15 @@
     ],
     "url": "https://luma.com/mwwro11j",
     "coverImage": "/events/kbw-official-tangem-house-seoul-09-27-41927fa1.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "Tangem",
+      "Sean Kim"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Gangnam-daero"
   },
   {
     "id": "kbw-official-the-bridge-summit-09-28",
@@ -65,7 +89,15 @@
     ],
     "url": "https://luma.com/80q0842z",
     "coverImage": "/events/kbw-official-the-bridge-summit-09-28-cb5e5d6b.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "Bridge34",
+      "Min H. Kim (TG: @therealminkim)"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Teheran-ro"
   },
   {
     "id": "kbw-official-hyperliquid-seminar-korea-09-28",
@@ -82,7 +114,16 @@
     ],
     "url": "https://luma.com/eei081l4",
     "coverImage": "/events/kbw-official-hyperliquid-seminar-korea-09-28-fe75c522.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "HypurrCorea",
+      "Tenet",
+      "Christy Choi",
+      "Joony Koo"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul"
   },
   {
     "id": "kbw-official-crypto-house-seoul-26-09-28",
@@ -99,7 +140,14 @@
     ],
     "url": "https://luma.com/r6iwcjcl",
     "coverImage": "/events/kbw-official-crypto-house-seoul-26-09-28-a8fe8dec.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "Team1 Korea",
+      "Team1"
+    ],
+    "price": "Free",
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Teheran-ro"
   },
   {
     "id": "kbw-official-perp-dex-day-with-reboundx-09-28",
@@ -116,7 +164,14 @@
     ],
     "url": "https://luma.com/fbbbu498",
     "coverImage": "/events/kbw-official-perp-dex-day-with-reboundx-09-28-6b320348.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "ReboundX"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Eonju-ro 148-gil"
   },
   {
     "id": "kbw-official-ai-meets-the-chart-a-horizon-series-event-09-28",
@@ -133,7 +188,17 @@
     ],
     "url": "https://luma.com/5mgf0u76",
     "coverImage": "/events/kbw-official-ai-meets-the-chart-a-horizon-series-e-69004237.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "GAEA Ventures",
+      "K1 Research",
+      "Becker Ventures",
+      "OriginsNetwork"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Gangnam-daero 102-gil"
   },
   {
     "id": "kbw-official-kbw-2026-private-yacht-soir-e-epoch-1-09-28",
@@ -150,7 +215,15 @@
     ],
     "url": "https://luma.com/YachtEpoch1",
     "coverImage": "/events/kbw-official-kbw-2026-private-yacht-soir-e-epoch-1-543b6200.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "Hans - Highlyliquid & Covey",
+      "Joey",
+      "CryptosBatman"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul"
   },
   {
     "id": "kbw-official-global-financial-institution-vip-seminar-dinner-09-28",
@@ -167,7 +240,16 @@
     ],
     "url": "https://luma.com/i0cqkgyt",
     "coverImage": "/events/kbw-official-global-financial-institution-vip-semi-21629ea6.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "Sean Chung",
+      "Jonathan Kim",
+      "JCLTD"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Gukjegeumyung-ro"
   },
   {
     "id": "kbw-official-agentic-payments-onchain-09-28",
@@ -184,7 +266,16 @@
     ],
     "url": "https://luma.com/mw84pfjm",
     "coverImage": "/events/kbw-official-agentic-payments-onchain-09-28-28656ca2.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "Joel Mun",
+      "t54 Labs",
+      "Claire Jung",
+      "Bloom 🌸"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul"
   },
   {
     "id": "kbw-official-trade-the-wave-sma-trading-vip-exclusive-meetup-09-28",
@@ -201,7 +292,14 @@
     ],
     "url": "https://luma.com/2be4gqlc",
     "coverImage": "/events/kbw-official-trade-the-wave-sma-trading-vip-exclus-ac8e9d76.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "kimparity",
+      "Kim"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul"
   },
   {
     "id": "kbw-official-hyperliquid-community-dinner-seoul-09-28",
@@ -218,7 +316,13 @@
     ],
     "url": "https://luma.com/5ltxvfi7",
     "coverImage": "/events/kbw-official-hyperliquid-community-dinner-seoul-09-b87a8706.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "HypurrCorea"
+    ],
+    "price": "$200 USD",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul"
   },
   {
     "id": "kbw-official-security-night-with-zircuit-finance-quantstamp-and-common-defense-09-28",
@@ -235,7 +339,16 @@
     ],
     "url": "https://luma.com/SecurityNight",
     "coverImage": "/events/kbw-official-security-night-with-zircuit-finance-q-00e2761a.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "Zircuit",
+      "Common Defense",
+      "Quantstamp"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Gangnam-daero"
   },
   {
     "id": "kbw-official-gwdc-2026-korea-09-29",
@@ -252,7 +365,14 @@
     ],
     "url": "https://luma.com/cp87au4f",
     "coverImage": "/events/kbw-official-gwdc-2026-korea-09-29-eedb4dbe.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "Web3Labs"
+    ],
+    "price": "$199 USD",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Gangnam-daero"
   },
   {
     "id": "kbw-official-connect-by-cointelegraph-seoul-edition-09-29",
@@ -269,7 +389,15 @@
     ],
     "url": "https://luma.com/xxwrhox8",
     "coverImage": "/events/kbw-official-connect-by-cointelegraph-seoul-editio-ef7d36c2.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "Cointelegraph Accelerator",
+      "Cointelegraph"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Eonju-ro"
   },
   {
     "id": "kbw-official-open-agi-frontier-ai-meets-robotics-09-29",
@@ -286,7 +414,16 @@
     ],
     "url": "https://luma.com/0kun5o5z",
     "coverImage": "/events/kbw-official-open-agi-frontier-ai-meets-robotics-0-70c8092d.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "Sentient Foundation",
+      "Kaito AI",
+      "Axis Robotics"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Seoulsup 4-gil"
   },
   {
     "id": "kbw-official-coded-kbw-connecting-with-high-signal-leaders-across-infrastructure-ai-a-09-29",
@@ -307,7 +444,17 @@
     "venueName": "b2, 417 Yeongdong-daero",
     "streetAddress": "b2, 417 Yeongdong-daero",
     "addressRegion": "Seoul",
-    "addressCountry": "KR"
+    "addressCountry": "KR",
+    "hosts": [
+      "Optimum",
+      "Four Pillars",
+      "LINE NEXT",
+      "Jimi Lee"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Yeongdong-daero"
   },
   {
     "id": "kbw-official-builders-meet-09-29",
@@ -324,7 +471,13 @@
     ],
     "url": "https://luma.com/cnp7d806",
     "coverImage": "/events/kbw-official-builders-meet-09-29-7385b2b6.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "Buildify"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul"
   },
   {
     "id": "kbw-official-han-river-sunset-the-next-onchain-economy-09-29",
@@ -341,7 +494,16 @@
     ],
     "url": "https://luma.com/w4cjeate",
     "coverImage": "/events/kbw-official-han-river-sunset-the-next-onchain-eco-08f5d472.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "Stable",
+      "Quack AI",
+      "Jane BiXin",
+      "DavidLee"
+    ],
+    "price": "Free",
+    "timezone": "Asia/Seoul",
+    "neighborhood": "압구정동"
   },
   {
     "id": "kbw-official-reboundx-in-wonderland-09-29",
@@ -358,7 +520,14 @@
     ],
     "url": "https://luma.com/9db984wd",
     "coverImage": "/events/kbw-official-reboundx-in-wonderland-09-29-ee5eab2a.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "ReboundX"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Eonju-ro 148-gil"
   },
   {
     "id": "kbw-official-crypto-compliance-and-legal-roundtable-09-29",
@@ -375,7 +544,15 @@
     ],
     "url": "https://luma.com/fop77t0t",
     "coverImage": "/events/kbw-official-crypto-compliance-and-legal-roundtabl-e857cd1f.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "Delphine",
+      "Natalie Pi"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Teheran-ro"
   },
   {
     "id": "kbw-official-trust404-09-29",
@@ -392,7 +569,14 @@
     ],
     "url": "https://luma.com/mbhofe9t",
     "coverImage": "/events/kbw-official-trust404-09-29-bd9bf115.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "Anam145"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Gangnam-daero"
   },
   {
     "id": "kbw-official-blockfesta-vip-night-kbw2026-edition-09-29",
@@ -409,7 +593,16 @@
     ],
     "url": "https://luma.com/zcitdnu8",
     "coverImage": "/events/kbw-official-blockfesta-vip-night-kbw2026-edition--7cc91fd3.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "Ethan Choi",
+      "Tony Chung",
+      "Jeyee(Jay) Kim"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Gangnam-daero"
   },
   {
     "id": "kbw-official-tokenizing-k-pop-wavist-night-09-29",
@@ -426,7 +619,16 @@
     ],
     "url": "https://luma.com/ee54irda",
     "coverImage": "/events/kbw-official-tokenizing-k-pop-wavist-night-09-29-5afd17b7.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "Soneium",
+      "DayOneDream",
+      "Optimism Events"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Eonju-ro"
   },
   {
     "id": "kbw-official-yieldmaxxing-kbw-happy-hour-09-29",
@@ -443,7 +645,16 @@
     ],
     "url": "https://luma.com/7nqix5pw",
     "coverImage": "/events/kbw-official-yieldmaxxing-kbw-happy-hour-09-29-b32f850d.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "Max Windhagen",
+      "Apyx",
+      "Elixi. | MinGoo"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Gangnam District"
   },
   {
     "id": "kbw-official-seoul-index-09-29",
@@ -460,7 +671,16 @@
     ],
     "url": "https://luma.com/0f9doy66",
     "coverImage": "/events/kbw-official-seoul-index-09-29-6127de9a.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "071Labs",
+      "CoinNess",
+      "Y Strategy"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Dosan-daero 81-gil"
   },
   {
     "id": "kbw-official-liquidity-evening-by-turtle-09-29",
@@ -477,7 +697,17 @@
     ],
     "url": "https://luma.com/lunar-wbcs",
     "coverImage": "/events/kbw-official-liquidity-evening-by-turtle-09-29-e7a5b08d.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "Tim Haldorsson",
+      "Luka Mrkic",
+      "Turtle XYZ",
+      "0G Foundation"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Teheran-ro"
   },
   {
     "id": "kbw-official-stabull-dinner-09-29",
@@ -494,7 +724,17 @@
     ],
     "url": "https://luma.com/f4ucwh96",
     "coverImage": "/events/kbw-official-stabull-dinner-09-29-f2720c54.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "Yunsoo Kim",
+      "Ellena Ki",
+      "Jaeha",
+      "Victor Kim"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Nonhyeon-dong"
   },
   {
     "id": "kbw-official-private-seminar-south-korea-s-crypto-tax-implementation-in-2027-09-29",
@@ -511,7 +751,14 @@
     ],
     "url": "https://luma.com/zug37y0d",
     "coverImage": "/events/kbw-official-private-seminar-south-korea-s-crypto--e8101063.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "PARKIRIS"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Bongeunsa-ro"
   },
   {
     "id": "kbw-official-the-private-table-after-dark-gangnam-09-29",
@@ -528,7 +775,15 @@
     ],
     "url": "https://luma.com/TPT_KBW2026",
     "coverImage": "/events/kbw-official-the-private-table-after-dark-gangnam--aaa0c1d9.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "0G Foundation",
+      "Bridge34"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Yeoksam-dong"
   },
   {
     "id": "kbw-official-seoul-settlement-kbw-cross-border-payments-night-09-29",
@@ -545,7 +800,15 @@
     ],
     "url": "https://luma.com/8dheox73",
     "coverImage": "/events/kbw-official-seoul-settlement-kbw-cross-border-pay-4b577728.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "Native",
+      "BDACS"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Tongin-dong"
   },
   {
     "id": "kbw-official-capital-at-sunset-kbw-exclusive-dinner-09-29",
@@ -562,7 +825,17 @@
     ],
     "url": "https://luma.com/2h7d0o6r",
     "coverImage": "/events/kbw-official-capital-at-sunset-kbw-exclusive-dinne-540120e5.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "EAK Digital",
+      "Acurast",
+      "Sam",
+      "Beldex"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Bongeunsa-ro"
   },
   {
     "id": "kbw-official-chimaek-chill-09-29",
@@ -579,7 +852,13 @@
     ],
     "url": "https://luma.com/er5akv9e",
     "coverImage": "/events/kbw-official-chimaek-chill-09-29-9321c8c2.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "Savior Of Health"
+    ],
+    "price": "Free",
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Gangnam-daero 98-gil"
   },
   {
     "id": "kbw-official-dwf-labs-haus-09-29",
@@ -596,7 +875,13 @@
     ],
     "url": "https://luma.com/DWFLabsHaus-KBW2026",
     "coverImage": "/events/kbw-official-dwf-labs-haus-09-29-a5991a63.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "DWF Labs"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul"
   },
   {
     "id": "kbw-official-the-local-pints-as-a-service-in-seoul-for-founders-funders-friends-09-29",
@@ -613,7 +898,17 @@
     ],
     "url": "https://luma.com/8jrm86vk",
     "coverImage": "/events/kbw-official-the-local-pints-as-a-service-in-seoul-514d9ee0.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "LO:TECH",
+      "Stephen Duffy",
+      "Laurence Lewars",
+      "Rad Poljasevic"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Bogwang-ro 60-gil"
   },
   {
     "id": "kbw-official-digital-af-exhibition-side-events-space-korea-blockchain-week-09-29",
@@ -630,7 +925,17 @@
     ],
     "url": "https://luma.com/zecq09tp",
     "coverImage": "/events/kbw-official-digital-af-exhibition-side-events-spa-4e92cf1c.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "Comooooab",
+      "AI Builders",
+      "BuilderBase",
+      "RayRay"
+    ],
+    "price": "$25 EUR",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Yangjae-dong"
   },
   {
     "id": "kbw-official-the-capital-forum-canton-network-at-institutional-scale-09-30",
@@ -647,7 +952,17 @@
     ],
     "url": "https://luma.com/g5dczrl8",
     "coverImage": "/events/kbw-official-the-capital-forum-canton-network-at-i-3ce1e2bb.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "Canton Foundation",
+      "Margot | Tiger Research",
+      "Noves | Christian",
+      "Wenny Ow"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Nonhyeon-ro"
   },
   {
     "id": "kbw-official-wiring-korea-to-the-world-the-institutional-case-for-cross-border-digita-09-30",
@@ -664,7 +979,14 @@
     ],
     "url": "https://luma.com/y2cqlrik",
     "coverImage": "/events/kbw-official-wiring-korea-to-the-world-the-institu-ca698c54.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "sooho"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Gangnam-daero"
   },
   {
     "id": "kbw-official-solana-summit-korea-09-30",
@@ -681,7 +1003,15 @@
     ],
     "url": "https://luma.com/solana-summit-korea-2026",
     "coverImage": "/events/kbw-official-solana-summit-korea-09-30-c578c3b7.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "Superteam Korea",
+      "Four Pillars"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Yeoui-daero"
   },
   {
     "id": "kbw-official-alpha-in-seoul-korean-sma-trading-house-meetup-09-30",
@@ -698,7 +1028,17 @@
     ],
     "url": "https://luma.com/vefqyxer",
     "coverImage": "/events/kbw-official-alpha-in-seoul-korean-sma-trading-hou-65158447.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "Silentist",
+      "Hanbit Kim",
+      "Jungwun Kim",
+      "김승덕"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Gangnam District"
   },
   {
     "id": "kbw-official-where-ai-meets-realfi-at-kbw-2026-09-30",
@@ -715,7 +1055,17 @@
     ],
     "url": "https://luma.com/b76kor0e",
     "coverImage": "/events/kbw-official-where-ai-meets-realfi-at-kbw-2026-09--b77cd1bf.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "Pharos Network",
+      "Michelle Kang",
+      "THE CAPITAL SUMMIT",
+      "TopNod"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Dosan-daero 81-gil"
   },
   {
     "id": "kbw-official-the-next-ai-payment-carnival-09-30",
@@ -732,7 +1082,15 @@
     ],
     "url": "https://luma.com/zoplh23g",
     "coverImage": "/events/kbw-official-the-next-ai-payment-carnival-09-30-5178154a.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "LeeJustin",
+      "LINE NEXT",
+      "INF CryptoLab"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul"
   },
   {
     "id": "kbw-official-token-sale-summit-2026-09-30",
@@ -749,7 +1107,13 @@
     ],
     "url": "https://luma.com/jh3ulvtq",
     "coverImage": "/events/kbw-official-token-sale-summit-2026-09-30-a37e9cc0.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "TokenMinds"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul"
   },
   {
     "id": "kbw-official-r25-2-0-genesis-curator-meetup-seoul-09-30",
@@ -766,7 +1130,15 @@
     ],
     "url": "https://luma.com/cdq9hzss",
     "coverImage": "/events/kbw-official-r25-2-0-genesis-curator-meetup-seoul--5a904038.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "Sean Chung",
+      "Eva"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Dosan-daero 81-gil"
   },
   {
     "id": "kbw-official-the-best-event-sundown-09-30",
@@ -783,7 +1155,15 @@
     ],
     "url": "https://luma.com/tbe-kbw26",
     "coverImage": "/events/kbw-official-the-best-event-sundown-09-30-e78b6d45.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "The Best Event",
+      "Tobias Bauer",
+      "Brent Fulfer"
+    ],
+    "price": "Free",
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Itaewon-dong"
   },
   {
     "id": "kbw-official-stellar-night-seoul-09-30",
@@ -800,7 +1180,17 @@
     ],
     "url": "https://luma.com/rx85jwn8",
     "coverImage": "/events/kbw-official-stellar-night-seoul-09-30-11a73358.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "Tani | DCENT Wallet",
+      "James | DCENT Wallet",
+      "DCENTWallet",
+      "Stellar Development Foundation"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Yeongdong-daero 96-gil"
   },
   {
     "id": "kbw-official-kyobo-x-sbi-holdings-x-ripple-onchain-finance-exchange-tokenization-at-i-09-30",
@@ -817,7 +1207,16 @@
     ],
     "url": "https://luma.com/854sn50i",
     "coverImage": "/events/kbw-official-kyobo-x-sbi-holdings-x-ripple-onchain-e27c059a.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "Ripple",
+      "SBI Holdings,inc",
+      "Kyobo Securities"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Gukjegeumyung-ro"
   },
   {
     "id": "kbw-official-bitgo-x-op-labs-x-plan-g-networking-drinks-seoul-09-30",
@@ -834,7 +1233,16 @@
     ],
     "url": "https://luma.com/wnhqbxad",
     "coverImage": "/events/kbw-official-bitgo-x-op-labs-x-plan-g-networking-d-591120c5.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "BitGo Events",
+      "Optimism Events",
+      "Plan G Research"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Dosan-daero 57-gil"
   },
   {
     "id": "kbw-official-mining-the-night-09-30",
@@ -851,7 +1259,15 @@
     ],
     "url": "https://luma.com/13yz9wdm",
     "coverImage": "/events/kbw-official-mining-the-night-09-30-a8813789.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "Bjorn Wee",
+      "Aaron Cho",
+      "henry Kim"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul"
   },
   {
     "id": "kbw-official-proof-of-liquidity-seoul-edition-by-yield-network-09-30",
@@ -868,7 +1284,17 @@
     ],
     "url": "https://luma.com/50jiymfq",
     "coverImage": "/events/kbw-official-proof-of-liquidity-seoul-edition-by-y-b2be5b2d.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "Yield Network",
+      "Monad Foundation",
+      "Frankencoin Association",
+      "Shift DeFi"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Teheran-ro 25-gil"
   },
   {
     "id": "kbw-official-altus-x-decipher-career-meet-up-the-first-penguin-09-30",
@@ -885,7 +1311,15 @@
     ],
     "url": "https://luma.com/npkndq0l",
     "coverImage": "/events/kbw-official-altus-x-decipher-career-meet-up-the-f-b56ddd34.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "Altus",
+      "Decipher"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Yeoui-daero"
   },
   {
     "id": "kbw-official-variational-private-event-09-30",
@@ -902,7 +1336,17 @@
     ],
     "url": "https://luma.com/yshhlbpb",
     "coverImage": "/events/kbw-official-variational-private-event-09-30-505ba7c5.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "ReboundX",
+      "SJ",
+      "Variational",
+      "Han Solar"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Gangnam-daero"
   },
   {
     "id": "kbw-official-ourbit-kbw-after-hours-vip-party-09-30",
@@ -919,7 +1363,16 @@
     ],
     "url": "https://luma.com/rkxifw17",
     "coverImage": "/events/kbw-official-ourbit-kbw-after-hours-vip-party-09-3-74b08f64.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "아워빗Ourbit",
+      "jennie",
+      "EricKim"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Gangnam District"
   },
   {
     "id": "kbw-official-quantstamp-x-common-defense-gangnam-mixer-09-30",
@@ -936,7 +1389,15 @@
     ],
     "url": "https://luma.com/wslf2frf",
     "coverImage": "/events/kbw-official-quantstamp-x-common-defense-gangnam-m-beaebc3f.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "Quantstamp",
+      "Common Defense"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Cheongdam-dong"
   },
   {
     "id": "kbw-official-kbw-vip-party-beldex-x-acurast-09-30",
@@ -953,7 +1414,17 @@
     ],
     "url": "https://luma.com/8v33uuug",
     "coverImage": "/events/kbw-official-kbw-vip-party-beldex-x-acurast-09-30-e7d7d81f.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "EAK Digital",
+      "Acurast",
+      "Sam",
+      "Beldex"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Itaewon-dong"
   },
   {
     "id": "kbw-official-institutional-privacy-day-09-30",
@@ -970,7 +1441,16 @@
     ],
     "url": "https://luma.com/xnzbz5c6",
     "coverImage": "/events/kbw-official-institutional-privacy-day-09-30-856ccd02.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "Ethene Labs",
+      "Citrea",
+      "Four Pillars"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Seocho-daero"
   },
   {
     "id": "kbw-official-echo-in-color-where-web3-comes-alive-09-30",
@@ -987,7 +1467,13 @@
     ],
     "url": "https://luma.com/2yfkn28q",
     "coverImage": "/events/kbw-official-echo-in-color-where-web3-comes-alive--6c950fb2.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "Echobit Labs"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul"
   },
   {
     "id": "kbw-official-new-friendship-tech-seoul-09-30",
@@ -1004,7 +1490,14 @@
     ],
     "url": "https://luma.com/irlh9ytr",
     "coverImage": "/events/kbw-official-new-friendship-tech-seoul-09-30-fa820c7b.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "Eric Spivak",
+      "Alex Bowman"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul"
   },
   {
     "id": "kbw-official-blockfesta-2026-10-01",
@@ -1021,7 +1514,16 @@
     ],
     "url": "https://luma.com/dblx9nwo",
     "coverImage": "/events/kbw-official-blockfesta-2026-10-01-18a329aa.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "Ethan Choi",
+      "Jeyee(Jay) Kim",
+      "Tony Chung",
+      "Park Now"
+    ],
+    "price": "Free",
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Gukjegeumyung-ro"
   },
   {
     "id": "kbw-official-hsc-conference-seoul-10-01",
@@ -1038,7 +1540,14 @@
     ],
     "url": "https://luma.com/HSC_Seoul",
     "coverImage": "/events/kbw-official-hsc-conference-seoul-10-01-c9cc50b3.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "Metaverse Post"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Bongeunsa-ro"
   },
   {
     "id": "kbw-official-amigoo-ventures-coffee-capita-10-01",
@@ -1055,7 +1564,13 @@
     ],
     "url": "https://luma.com/faufjh92",
     "coverImage": "/events/kbw-official-amigoo-ventures-coffee-capita-10-01-a6efbd41.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "Amigoo Ventures"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul"
   },
   {
     "id": "kbw-official-realfi-x-asia-stablecoin-conference-10-01",
@@ -1072,7 +1587,17 @@
     ],
     "url": "https://luma.com/nhi6rmrp",
     "coverImage": "/events/kbw-official-realfi-x-asia-stablecoin-conference-1-580e61ad.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "Four Pillars",
+      "Heechang : : FourPillars",
+      "Alex Lim",
+      "THE CAPITAL SUMMIT"
+    ],
+    "price": "$100 USD",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Nonhyeon-ro"
   },
   {
     "id": "kbw-official-bridge-seoul-2026-10-01",
@@ -1089,7 +1614,14 @@
     ],
     "url": "https://luma.com/ho64m7rb",
     "coverImage": "/events/kbw-official-bridge-seoul-2026-10-01-0360f3bf.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "Wavebridge"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Uisadang-daero"
   },
   {
     "id": "kbw-official-yellow-korea-workshop-ai-agents-10-01",
@@ -1106,7 +1638,14 @@
     ],
     "url": "https://luma.com/Yellowkorea",
     "coverImage": "/events/kbw-official-yellow-korea-workshop-ai-agents-10-01-28a8cb06.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "CoinEasy",
+      "Yellow"
+    ],
+    "price": "Free",
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Gangnam-daero 102-gil"
   },
   {
     "id": "kbw-official-sanc-nine-10-01",
@@ -1123,7 +1662,15 @@
     ],
     "url": "https://luma.com/1p9onaut",
     "coverImage": "/events/kbw-official-sanc-nine-10-01-a237fc7c.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "Sanctum",
+      "Superteam Korea"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Yeoksam-dong"
   },
   {
     "id": "kbw-official-seoul-on-chain-10-01",
@@ -1140,7 +1687,15 @@
     ],
     "url": "https://luma.com/mcfqg53e",
     "coverImage": "/events/kbw-official-seoul-on-chain-10-01-df4a0bed.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "EMERGE GROUP",
+      "Elissa"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Gangnam-daero 102-gil"
   },
   {
     "id": "kbw-official-bridging-finance-onchain-a-korea-blockchain-week-2026-side-event-with-ky-10-01",
@@ -1157,7 +1712,17 @@
     ],
     "url": "https://luma.com/bridgingfinanceonchain",
     "coverImage": "/events/kbw-official-bridging-finance-onchain-a-korea-bloc-3c9810fa.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "KYOBO Life",
+      "Circle",
+      "SBI Holdings,inc",
+      "BDACS"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Saemunan-ro"
   },
   {
     "id": "kbw-official-secure-crypto-asset-network-2026-scan-10-01",
@@ -1191,7 +1756,13 @@
     ],
     "url": "https://luma.com/house_of_ai_kbw2026?tk=Ugcgli",
     "coverImage": "/events/kbw-official-house-of-ai-kbw2026-10-01-fe0c25e3.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "0G Foundation"
+    ],
+    "price": "Free",
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Gangnam District"
   },
   {
     "id": "kbw-official-tch-venture-connect-10-01",
@@ -1208,7 +1779,14 @@
     ],
     "url": "https://luma.com/5pn4rjyy",
     "coverImage": "/events/kbw-official-tch-venture-connect-10-01-8a301156.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "The Crypto Hub (TCH)",
+      "Shafeeq A. Qureshi"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul"
   },
   {
     "id": "kbw-official-on-chain-night-10-01",
@@ -1225,7 +1803,14 @@
     ],
     "url": "https://luma.com/n61tjj9r",
     "coverImage": "/events/kbw-official-on-chain-night-10-01-2e94dbce.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "Edward Park",
+      "Eddy (ORBS)"
+    ],
+    "price": "Free",
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Samseong-ro"
   },
   {
     "id": "kbw-official-easycon-seoul-social-intelligence-workshop-community-night-10-01",
@@ -1242,7 +1827,13 @@
     ],
     "url": "https://luma.com/EASYSeoul2026",
     "coverImage": "/events/kbw-official-easycon-seoul-social-intelligence-wor-5fd63fae.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "CoinEasy"
+    ],
+    "price": "Free",
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Gangnam-daero 102-gil"
   },
   {
     "id": "kbw-official-perpdex-night-10-01",
@@ -1259,7 +1850,17 @@
     ],
     "url": "https://luma.com/lplcwljs",
     "coverImage": "/events/kbw-official-perpdex-night-10-01-dfb9e031.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "071Labs",
+      "TurboFlow",
+      "RISEx Team",
+      "StandX"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Eonju-ro 148-gil"
   },
   {
     "id": "kbw-official-liquidity-table-by-turtle-with-compound-10-01",
@@ -1276,7 +1877,17 @@
     ],
     "url": "https://luma.com/lunar-z7m7",
     "coverImage": "/events/kbw-official-liquidity-table-by-turtle-with-compou-ed5e75b3.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "Tim Haldorsson",
+      "Luka Mrkic",
+      "Turtle XYZ",
+      "Doo Wan Nam"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Seolleung-ro 158-gil"
   },
   {
     "id": "kbw-official-four-pillars-research-challenge-2026-awards-ceremony-10-01",
@@ -1293,7 +1904,15 @@
     ],
     "url": "https://luma.com/fy078hev",
     "coverImage": "/events/kbw-official-four-pillars-research-challenge-2026--be22106d.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "Four Pillars",
+      "100y",
+      "Jun : : Four Pillars"
+    ],
+    "price": "Free",
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Gangnam-daero"
   },
   {
     "id": "kbw-official-lighter-meetup-10-01",
@@ -1310,7 +1929,11 @@
     ],
     "url": "https://luma.com/ud9lrdgr",
     "coverImage": "/events/kbw-official-lighter-meetup-10-01-ec663d39.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Teheran-ro 25-gil"
   },
   {
     "id": "kbw-official-satoshi-dinner-club-seoul-10-01",
@@ -1327,7 +1950,16 @@
     ],
     "url": "https://luma.com/w9w5k8ku",
     "coverImage": "/events/kbw-official-satoshi-dinner-club-seoul-10-01-ee144823.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "Cryptic",
+      "Gavin Vanderlooven",
+      "Inna S",
+      "Gilles"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul"
   },
   {
     "id": "kbw-official-shard-vip-dinner-10-01",
@@ -1344,7 +1976,14 @@
     ],
     "url": "https://luma.com/amy4nwf0",
     "coverImage": "/events/kbw-official-shard-vip-dinner-10-01-87011ffb.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "Sharding Capital"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Eonju-ro"
   },
   {
     "id": "kbw-official-kbw-vip-mixer-10-01",
@@ -1361,7 +2000,16 @@
     ],
     "url": "https://luma.com/x1fve74y",
     "coverImage": "/events/kbw-official-kbw-vip-mixer-10-01-67aec2e2.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "Pascal Kurzawa",
+      "Max OSL",
+      "Stellar Development Foundation"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Dosan-daero 49-gil"
   },
   {
     "id": "kbw-official-futuracanvas-2026-10-01",
@@ -1378,7 +2026,13 @@
     ],
     "url": "https://luma.com/9yusdba1",
     "coverImage": "/events/kbw-official-futuracanvas-2026-10-01-8d25b07a.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "FuturaCanvas"
+    ],
+    "price": "Free",
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Eonju-ro 133-gil"
   },
   {
     "id": "kbw-official-tradfi-on-chain-10-01",
@@ -1395,7 +2049,13 @@
     ],
     "url": "https://luma.com/nl4bsys6",
     "coverImage": "/events/kbw-official-tradfi-on-chain-10-01-dfa11055.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "LinChilli"
+    ],
+    "price": "Free",
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Teheran-ro 92-gil"
   },
   {
     "id": "kbw-official-ravedao-presents-baddiejuice-at-soap-seoul-10-01",
@@ -1412,7 +2072,14 @@
     ],
     "url": "https://luma.com/z0h15i8u",
     "coverImage": "/events/kbw-official-ravedao-presents-baddiejuice-at-soap--f4d98612.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "RaveDAO"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Itaewon-ro"
   },
   {
     "id": "kbw-official-starkmart-seoul-10-02",
@@ -1429,7 +2096,14 @@
     ],
     "url": "https://luma.com/StarkMart2026",
     "coverImage": "/events/kbw-official-starkmart-seoul-10-02-5c09270f.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "Starknet Foundation"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Yeoksam-dong"
   },
   {
     "id": "kbw-official-trader-gathering-10-02",
@@ -1446,7 +2120,14 @@
     ],
     "url": "https://luma.com/r86vvn9s",
     "coverImage": "/events/kbw-official-trader-gathering-10-02-a2c33afd.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "Sharding Capital"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Gangnam-daero 102-gil"
   },
   {
     "id": "kbw-official-bnb-seoul-10-02",
@@ -1463,7 +2144,14 @@
     ],
     "url": "https://luma.com/99ipn3wu",
     "coverImage": "/events/kbw-official-bnb-seoul-10-02-db897058.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "Yena"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Hannam-dong"
   },
   {
     "id": "kbw-official-enter-the-night-10-02",
@@ -1480,7 +2168,13 @@
     ],
     "url": "https://luma.com/zwb1a9m1",
     "coverImage": "/events/kbw-official-enter-the-night-10-02-bb9f78ec.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "Midnight Korea"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul"
   },
   {
     "id": "kbw-official-xrpfi-night-seoul-10-02",
@@ -1497,7 +2191,17 @@
     ],
     "url": "https://luma.com/ikda4x51",
     "coverImage": "/events/kbw-official-xrpfi-night-seoul-10-02-4d26b2ff.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "DCENTWallet",
+      "Tani | DCENT Wallet",
+      "SOIL .CO",
+      "Flare"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Yeongdong-daero 96-gil"
   },
   {
     "id": "kbw-official-kbw-2026-private-yacht-soir-e-epoch-2-10-02",
@@ -1514,7 +2218,15 @@
     ],
     "url": "https://luma.com/YachtEpoch2",
     "coverImage": "/events/kbw-official-kbw-2026-private-yacht-soir-e-epoch-2-a05f47cc.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "Hans - Highlyliquid & Covey",
+      "Joey",
+      "CryptosBatman"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul"
   },
   {
     "id": "kbw-official-the-private-table-seoul-vip-dinner-10-02",
@@ -1531,7 +2243,13 @@
     ],
     "url": "https://luma.com/0g_KBW_VIP",
     "coverImage": "/events/kbw-official-the-private-table-seoul-vip-dinner-10-221dcc06.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "0G Foundation"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul"
   },
   {
     "id": "kbw-official-xrp-seoul-2026-10-03",
@@ -1548,7 +2266,10 @@
     ],
     "url": "https://luma.com/wm5ub5wk",
     "coverImage": "/events/kbw-official-xrp-seoul-2026-10-03-051182c8.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul"
   },
   {
     "id": "kbw-official-lambda256-join-the-blockchain-node-crew-10-03",
@@ -1565,7 +2286,13 @@
     ],
     "url": "https://luma.com/e9vm2gbc",
     "coverImage": "/events/kbw-official-lambda256-join-the-blockchain-node-cr-c20ba6e1.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "Lambda256"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul"
   },
   {
     "id": "kbw-official-xrp-seoul-2026-vip-afterparty-10-03",
@@ -1582,6 +2309,13 @@
     ],
     "url": "https://luma.com/q0wmg82n",
     "coverImage": "/events/kbw-official-xrp-seoul-2026-vip-afterparty-10-03-2796996f.webp",
-    "source": "kbw-official"
+    "source": "kbw-official",
+    "hosts": [
+      "XRPL Korea"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Seoul",
+    "neighborhood": "Sowol-ro"
   }
 ]
