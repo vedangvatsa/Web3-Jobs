@@ -96,9 +96,11 @@ When in doubt, shorter and plainer wins.
   which breaks on-site rendering. Download it with a descriptive User-Agent
   (`HashtagWeb3NewsBot/1.0 (+https://hashtagweb3.com; editorial image use
   with attribution)`), pause 2-3s between downloads, resize to max 1920px
-  wide (`sips -Z 1920 <tmp> --out public/images/news/<slug>.jpg`), and
-  reference the LOCAL path in front matter. Never hotlink upload.wikimedia.org
-  originals in `image:`.
+  wide, and reference the LOCAL path in front matter. Never hotlink
+  upload.wikimedia.org originals in `image:`. Resize with Pillow
+  (`python3 -c "from PIL import Image; im=Image.open('<tmp>'); im.thumbnail((1920,1920)); im.convert('RGB').save('public/images/news/<slug>.jpg', quality=88)"`;
+  Pillow is pre-installed on the runner — do NOT use `sips`, it exists only
+  on macOS and will fail on Linux).
 - Front matter MUST include:
   image: /images/news/<slug>.jpg
   imageCaption: "<what the photo shows>. Photo: <author> via <source> (<license>)."
@@ -133,7 +135,13 @@ DRY-RUN VALUE FOR THIS RUN: $DRY_RUN
   (The git remote is also disabled in dry-run mode, so any push attempt
   will fail — treat that failure as confirmation, not as something to fix.)
 - In a live run, `git add` ONLY your new article files (+ next.config.mjs
-  only if you added an image host). Nothing else.
+  only if you added an image host). Nothing else. Git identity is already
+  configured on the runner — do NOT pass `-c user.name`/`-c user.email`,
+  and do NOT run `git rebase --continue` unless a rebase is actually
+  stopped on a conflict.
 - Commit message: `news: add <slug>[, <slug>] for <YYYY-MM-DD>`.
 - Push with rebase retry (max 3): pull --rebase, push; never force-push.
+  If a pull --rebase reports conflicts you cannot resolve cleanly, stop
+  WITHOUT pushing: exit 0 with drafts uncommitted in the working tree and
+  print PUSH_BLOCKED plus the conflicting files.
 - Print a final summary: files added, word counts, sources used, audits green.
