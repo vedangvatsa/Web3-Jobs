@@ -15,7 +15,7 @@ export function FooterContent() {
   const popularArticles = [
    { href: '/how-to-start-a-web3-career', label: 'How to Start a Career in Web3' },
    { href: '/how-to-become-a-solidity-developer', label: 'How to Become a Solidity Developer' },
-   { href: '/web3-salary-negotiation', label: 'How to Negotiate Your Web3 Salary and Compensation Package' },
+   { href: '/web3-salary-negotiation', label: 'How to Negotiate Your Web3 Salary' },
    { href: '/resume-writing-tips-that-get-interviews', label: 'Resume Writing Tips That Get Interviews' },
    { href: '/remote-work-in-web3', label: 'Remote Work in Web3' },
   ];
