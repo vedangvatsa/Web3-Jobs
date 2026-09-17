@@ -216,6 +216,8 @@ export function formatEventLocation(
   const rawCity = (event.city || '').trim();
   // Placeholder cities ("Global", "Online", ...) are data noise, not places.
   const GENERIC_CITIES = new Set(['global', 'virtual', 'online', 'tba', 'tbd', 'worldwide', 'remote', 'hybrid', 'various']);
+  // Placeholder segments inside location strings ("TBD - Han River").
+  const PLACEHOLDER_SEGMENT = /\b(tba|tbd|to be announced|to be determined|unknown|coming soon|venue\s+tba)\b/i;
   const city = GENERIC_CITIES.has(rawCity.toLowerCase()) ? '' : rawCity;
   const country = normalizeCountry(event.country);
   // City-states (Singapore, Dubai reports, etc.): never render "X, X".
@@ -224,7 +226,9 @@ export function formatEventLocation(
   const raw = (event.location || '').trim();
   // Drop placeholder segments ("Global, SG" → "SG") before dedup.
   const rawParts = raw.split(',').map((part) => part.trim()).filter(Boolean);
-  const cleanedParts = rawParts.filter((part) => !GENERIC_CITIES.has(part.toLowerCase()));
+  const cleanedParts = rawParts.filter(
+    (part) => !GENERIC_CITIES.has(part.toLowerCase()) && !PLACEHOLDER_SEGMENT.test(part),
+  );
   const strippedGeneric = cleanedParts.length < rawParts.length;
   const cleaned = cleanedParts.join(', ');
   const deduped = cleaned ? dedupeEventLocation(cleaned) : '';
