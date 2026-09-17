@@ -13,9 +13,9 @@ function canUseNextImage(src: string): boolean {
   return src.startsWith('/') && !src.startsWith('//') && !path.endsWith('.gif');
 }
 
-/** Detail-page hero: fit any aspect ratio inside one bounded frame (no crop, no viewport takeover). */
+/** Detail-page hero: fit any aspect ratio inside one bounded frame (no crop, no viewport takeover). Frame is fully transparent. */
 const EVENT_HERO_FRAME_CLASS =
-  'relative mx-auto mt-8 flex h-[min(280px,32vh)] w-full max-w-3xl items-center justify-center overflow-hidden rounded-2xl border border-transparent bg-muted/25 sm:h-[min(320px,36vh)] sm:max-w-4xl';
+  'relative mx-auto mt-8 flex h-[min(280px,32vh)] w-full max-w-3xl items-center justify-center overflow-hidden rounded-2xl border border-transparent bg-transparent sm:h-[min(320px,36vh)] sm:max-w-4xl';
 
 const EVENT_HERO_IMAGE_CLASS =
   'h-auto w-auto max-h-full max-w-full object-contain object-center';
