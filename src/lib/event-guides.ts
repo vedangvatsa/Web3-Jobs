@@ -1382,7 +1382,7 @@ export const EVENT_GUIDES: Record<string, EventEditorialArticle> = {
         ],
       },
       {
-        heading: "Speakers named so far",
+        heading: "Leadership & Speaker Roster",
         content: [
           "The highlights list mixes crypto founders, fund voices, and policy figures. Balaji Srinivasan appears as a virtual speaker, alongside Hyperliquid CEO Jeff Yan, Maelstrom CIO Arthur Hayes, and BitMine chairman Tom Lee. Consensys founder and CEO Joseph Lubin represents the Ethereum side.",
           "Korean market and policy voices include Upbit CEO Kyoungsuk Oh, Tether USA CEO Bo Hines, and former CFTC commissioner Brian Quintenz. A full speakers page holds the wider roster, and a speaker application form remains open. Last year the event cites more than 340 speakers.",
