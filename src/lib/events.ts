@@ -676,16 +676,106 @@ export function getEventEditorialGuide(event: Web3Event): EventEditorialArticle 
 
   const isHackathon = type === 'hackathon';
   const isConference = type === 'conference';
+  const isWorkshop = type === 'workshop';
   const rawDescription = (event.description || '').trim();
   const ownDescription =
     rawDescription && !isThinEventListingDescription(rawDescription) ? rawDescription : '';
 
-  const aboutContent = ownDescription
-    ? [ownDescription]
-    : [
-        `${event.name} is a ${isHackathon ? 'hackathon' : isConference ? 'conference' : 'community event'} on ${formattedDates} in ${locationStr}.`,
-        ...(ecosystems.length ? [`Listed themes include ${ecoStr}.`] : []),
-      ];
+  // 1. Overview & Context Section
+  const baseOverview = `${event.name} is scheduled for ${formattedDates} in ${locationStr}, bringing together Web3 participants, builders, and ecosystem contributors.`;
+  const overviewLead = ownDescription
+    ? (ownDescription.length > 260 ? ownDescription : `${baseOverview} ${ownDescription}`)
+    : baseOverview;
+
+  const eventRoleContext = isHackathon
+    ? `As a hackathon, the gathering is structured around active development, prototyping, and mentor-guided building sprints. Teams collaborate under time constraints to design, write smart contracts, and demonstrate functional decentralized applications or infrastructure components.`
+    : isConference
+      ? `As a full-scale conference, the program features keynote presentations, panel debates, technical briefings, and exhibition spaces. Attendees connect across institutional allocators, core protocol teams, and emerging startups operating at the forefront of digital asset innovation.`
+      : isWorkshop
+        ? `Organized as a technical workshop and hands-on session, the focus is centered on applied development workflows, protocol tooling deep dives, and direct interaction between developers and framework architects.`
+        : `Designed as a high-signal community meetup and networking session, the event facilitates informal technical exchanges, collaborative discussions, and peer networking among regional and visiting blockchain professionals.`;
+
+  const aboutContent = [overviewLead, eventRoleContext];
+
+  // 2. Ecosystem & Technical Focus Section
+  const ecosystemDescriptions: Record<string, string> = {
+    Ethereum: 'Ethereum and EVM development, smart contract security standards, rollups, and protocol-level execution scaling',
+    Solana: 'high-throughput Solana programs, state compression, local fee markets, and the SVM runtime ecosystem',
+    Bitcoin: 'Bitcoin development, Lightning Network payment channels, protocol upgrades, and sovereign digital asset custody',
+    Base: 'Base L2 integration, on-chain social mechanics, consumer onboarding rails, and developer tooling on the OP Stack',
+    Polygon: 'Polygon CDK chains, aggregated liquidity layers, zero-knowledge proofs, and enterprise blockchain rollouts',
+    Arbitrum: 'Arbitrum Nitro execution, Orbit customized chains, EVM-compatible rollup infrastructure, and DeFi liquidity',
+    Optimism: 'the Superchain ecosystem, OP Stack modular architecture, decentralized sequencing, and public goods funding',
+    Sui: 'the Sui Move programming paradigm, object-centric data models, and high-performance decentralized systems',
+    Aptos: 'Aptos Move language primitives, block-STM parallel execution, and resilient Web3 consumer infrastructure',
+    Monad: 'pipelined execution architectures, MonadBFT consensus mechanisms, and high-frequency parallelized EVM systems',
+    Berachain: 'Proof-of-Liquidity consensus mechanisms, validator incentives, and composable DeFi application design',
+    Avalanche: 'Avalanche Subnet topologies, custom VM deployments, and cross-subnet interoperability via Teleporter',
+    NEAR: 'chain abstraction, sharded state execution, account models, and user-facing decentralized applications',
+    TON: 'Telegram mini-apps, native wallet distribution, high-volume consumer payment channels, and on-chain identity',
+    Cosmos: 'inter-blockchain communication (IBC), sovereign appchains, and modular consensus primitives',
+    Polkadot: 'shared security paradigms, Polkadot parachains, and cross-consensus messaging (XCM)',
+    Chainlink: 'cross-chain interoperability protocol (CCIP), decentralized oracle networks, and verified data feeds',
+    DeFi: 'decentralized liquidity routing, automated market makers, on-chain lending protocols, and capital-efficient asset models',
+    'AI + Web3': 'decentralized artificial intelligence, verifiable agentic computation, DePIN sensor networks, and cryptographic inference verification',
+    'ZK / L2': 'zero-knowledge cryptography, succinct validity proofs, state rollups, and privacy-preserving protocol architectures',
+    'NFT / Gaming': 'on-chain gaming loops, verifiable asset ownership, autonomous worlds, and digital entertainment primitives',
+    Security: 'smart contract formal verification, runtime auditing, bug bounties, and decentralized protocol defense vectors',
+    RWA: 'real-world asset tokenization, regulated on-chain treasury vehicles, private debt structures, and institutional compliance rails',
+    Web3: 'decentralized web architectures, user-sovereign cryptographic primitives, distributed networks, and open data protocols',
+  };
+
+  const focusPoints = ecosystems.map((eco) => ecosystemDescriptions[eco] || `${eco} ecosystem architecture and applications`);
+  const technicalFocusIntro = ecosystems.length > 0
+    ? `The agenda touches directly on core engineering and business themes across ${ecoStr}. Participants explore ${focusPoints.join('; as well as ')}.`
+    : `The program encompasses modern blockchain infrastructure, decentralized software architecture, cryptographic validation, and practical Web3 deployment patterns across distributed networks.`;
+
+  const technicalFocusBody = isHackathon
+    ? `Builders have opportunities to stress-test frameworks, submit working prototypes to judging panels, and exchange feedback with protocol maintainers. Focus tracks frequently center on user experience improvements, composable protocol layers, and verifiable on-chain mechanics.`
+    : isConference
+      ? `Discussions focus on both technical architecture and institutional adoption. Panelists dissect regulatory trajectories, custody infrastructure, and what production-grade throughput looks like across decentralized networks.`
+      : `Discussions provide insight into practical deployment challenges, current trends across global and regional blockchain scenes, and collaborative avenues for open-source software and infrastructure builders looking to deploy scalable solutions.`;
+
+  // 3. Format, Logistics & Location Guide
+  const isOnline = format === 'online';
+  const cityName = event.city && event.city !== 'Global' ? event.city : '';
+  const countryName = event.country ? normalizeCountry(event.country) : '';
+  const cityDescriptions: Record<string, string> = {
+    Singapore: 'Singapore serves as a premier global hub for digital asset innovation, supported by the Monetary Authority of Singapore (MAS) regulatory clarity and an extensive international business ecosystem.',
+    Seoul: 'Seoul is one of the most vibrant cryptocurrency capital markets globally, characterized by high retail adoption, tech-forward developer communities, and major institutional engagement.',
+    London: 'London combines centuries of financial market leadership with a rapidly maturing fintech and Web3 ecosystem, anchoring major European digital asset dialogues.',
+    'New York': 'New York represents the epicenter of traditional institutional finance, where Wall Street capital allocators, legal minds, and digital asset protocols meet.',
+    'San Francisco': 'San Francisco and the Bay Area remain the technological nucleus for frontier software engineering, decentralized protocol design, and venture investment.',
+    Dubai: 'Dubai operates under progressive digital asset frameworks established by the Virtual Assets Regulatory Authority (VARA), attracting global Web3 founders and capital.',
+    Tokyo: 'Tokyo offers a sophisticated regulatory framework under Japan Financial Services Agency oversight, paired with global entertainment, gaming, and IP distribution.',
+    Mumbai: 'Mumbai serves as the commercial hub of India, driving exceptional developer talent, dynamic developer communities, and fintech engineering innovation.',
+    'Hong Kong': 'Hong Kong has established comprehensive licensing regimes for digital asset trading platforms and stablecoin initiatives, positioning itself as Asia’s bridge for institutional crypto capital.',
+  };
+
+  const cityContext = cityName && cityDescriptions[cityName]
+    ? `${cityDescriptions[cityName]} Hosting the event in ${cityName} enables productive interaction between domestic developer communities and visiting global teams.`
+    : isOnline
+      ? 'This event is hosted entirely online, allowing developers, founders, and community attendees from around the world to participate remotely without travel constraints or regional visa barriers.'
+      : `Held in ${locationStr}, this gathering connects regional participants with visiting builders, protocol teams, and investors active in the local and international ecosystem.`;
+
+  const logisticsDetail = isOnline
+    ? 'Attendees should confirm the live-stream platform, working time zones, and interactive virtual staging links ahead of the scheduled start. Check whether breakout workshops or mentorship office hours require prior registration.'
+    : `Attendees traveling to ${cityName || 'the venue'} should secure hotel reservations and review local transit options well in advance of ${formattedDates}, as accommodations near major conference corridors book quickly during busy event cycles.`;
+
+  // 4. Participation & Planning Notes
+  const participationNotes = isHackathon
+    ? 'Participants should ensure their development environments, repository access, dependency setups, and team configurations are finalized before the official kickoff. Review official project submission guidelines, judging criteria, and mentor office hour schedules to maximize your project demonstration impact.'
+    : isConference
+      ? 'Attendees should confirm entry credentials, ticket barcodes, and registration confirmations through the official organizer portal prior to arrival. Reviewing published speaker schedules and satellite side-event calendars in advance helps maximize high-value hallway discussions, technical roundtables, and ecosystem networking sessions.'
+      : 'RSVPs and registration passes are typically required due to venue capacity limitations and security protocols. Arriving early during registration check-in is recommended to guarantee admission and connect with fellow community members, protocol engineers, and ecosystem operators.';
+
+  const networkingAdvice = isHackathon
+    ? 'Hackathons provide a high-signal environment to meet co-founders, protocol developer advocates, and potential grant program evaluators. Engage with protocol mentors circulating through the hacking floor for architectural advice, debugging support, and bounty clarification.'
+    : isConference
+      ? 'Beyond the keynote stages, major conferences serve as the primary venue where strategic partnerships, venture financing, and cross-chain integrations are initiated. Take advantage of dedicated networking lounges, exhibition demo booths, and side-event forums.'
+      : 'Community meetups offer an intimate setting for peer discussions, local project showcases, and grassroots technical collaboration across the regional developer, contributor, and investor ecosystem.';
+
+  const calendarAdvice = `Add ${event.name} to your calendar (${formattedDates}) to plan your schedule, travel window, and follow-up activities. Check the official event link periodically for agenda additions, keynote speaker announcements, and venue entry requirements.`;
 
   const sections: EditorialSection[] = [
     {
@@ -693,29 +783,23 @@ export function getEventEditorialGuide(event: Web3Event): EventEditorialArticle 
       content: aboutContent,
     },
     {
-      heading: 'Format and location',
-      content: [
-        format === 'online' ? 'This event is listed as online.' : `Venue and city: ${locationStr}.`,
-        isHackathon
-          ? 'Hackathons usually combine build time, mentors, and project demos.'
-          : isConference
-            ? 'Conferences usually mix talks, panels, and exhibition or networking time.'
-            : 'Meetups often combine short talks, demos, and informal networking.',
-      ],
+      heading: 'Ecosystem & technical focus',
+      content: [technicalFocusIntro, technicalFocusBody],
+    },
+    {
+      heading: isOnline ? 'Virtual format & access' : 'Location & travel logistics',
+      content: [cityContext, logisticsDetail],
+    },
+    {
+      heading: 'Participation & planning',
+      content: [participationNotes, networkingAdvice, calendarAdvice],
     },
   ];
-
-  if (format !== 'online') {
-    sections.push({
-      heading: 'Travel',
-      content: ['If you are travelling for this event, book lodging early around the published dates.'],
-    });
-  }
 
   return {
     summaryLead: ownDescription
       ? `${event.name} takes place ${formattedDates} in ${locationStr}. ${ownDescription}`
-      : `${event.name} takes place ${formattedDates} in ${locationStr}.`,
+      : `${event.name} takes place ${formattedDates} in ${locationStr}, featuring focus on ${ecoStr} across a structured ${isHackathon ? 'hackathon' : isConference ? 'conference' : 'community gathering'}.`,
     sections,
   };
 }

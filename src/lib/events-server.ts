@@ -182,8 +182,8 @@ function isQualityEvent(e: Web3Event): boolean {
 function isTruncatedEventDescription(description: string): boolean {
   const text = description.trim();
   if (!text) return false;
-  if (/\b(abo|an|th|to|fo|wi|a|of|or|and|the)$/i.test(text)) return true;
-  if (text.length >= 140 && !/[.!?…]"?$/.test(text)) return true;
+  // Detect broken word stumps at the end of text
+  if (/\b(abo|an|th|to|fo|wi|of|the)$/i.test(text)) return true;
   return false;
 }
 
