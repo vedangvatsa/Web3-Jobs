@@ -566,6 +566,9 @@
   "https://hashtagweb3.com/iran-forfeiture?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/kamino-ceo?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/kelp-intercept?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/bitcoin-reserve?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/sun-prize?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://www.theblock.co/news/business/2026-09-17-sp-global-agrees-to-acquire-openzeppelin-in-onchain-security-push-415360",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -1606,6 +1609,12 @@
   "Kamino Names Yieldstreet Co-Founder Michael Weisz as CEO",
   "MEV Bot Intercepts $7.7 Million From Ethereum Wallet Exploit",
   "MEV Bot Yoink Seized $7.7M in rsETH After Ethereum Wallet Exploit",
+  "House Panel Approves Bill for Federal Bitcoin Reserve",
+  "House Panel Advances Bitcoin Reserve Bill in 28-21 Vote",
+  "Justin Sun Launches $1 Million Machine-Verified Math Prize",
+  "Justin Sun Launches $1 Million Math Prize for Machine-Checked Proofs",
+  "S&P Global to acquire smart contract security firm OpenZeppelin",
+  "S&P Global agrees to acquire OpenZeppelin in onchain security push",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -1722,5 +1731,8 @@
   "fp:accept|application|apply|authorisation|between|effect|fca|february2027|full|must",
   "fp:61m|binanc|claim|crud|fil|forfeitur|illicit|iranian|launder|manhattan",
   "fp:appoint|asset|ceo|chief|establish|executiv|expand|founder|headquarter|kamino",
-  "fp:77m|900|address|bot|exploit|for24|front|hour|intercept|kelp"
+  "fp:77m|900|address|bot|exploit|for24|front|hour|intercept|kelp",
+  "fp:advanc|approv|bill|creat|federal|full|hous|in28|lawmaker|panel",
+  "fp:check|computer|fund|justin|machin|math|mathematical|openai|priz|proof",
+  "fp:acquir|agre|auditor|business|contract|expand|financial|firm|giant|global"
 ]

@@ -495,10 +495,13 @@
   },
   "8097731": {
     "slugs": [
-      "product383"
+      "product383",
+      "product97731",
+      "product529",
+      "product-1dqis5g"
     ],
-    "lastSlug": "product383",
-    "lastUrl": "https://hashtagweb3.com/product383",
+    "lastSlug": "product-1dqis5g",
+    "lastUrl": "https://hashtagweb3.com/product-1dqis5g",
     "updatedAt": "2026-09-17T08:51:14.771Z"
   },
   "8097880": {
@@ -662,10 +665,13 @@
   },
   "8144836": {
     "slugs": [
-      "engineer813"
+      "engineer813",
+      "engineer44836",
+      "engineer827",
+      "engineer303"
     ],
-    "lastSlug": "engineer813",
-    "lastUrl": "https://hashtagweb3.com/engineer813",
+    "lastSlug": "engineer303",
+    "lastUrl": "https://hashtagweb3.com/engineer303",
     "updatedAt": "2026-09-17T08:51:13.383Z"
   },
   "8155035": {
@@ -1427,10 +1433,11 @@
   "5413459008": {
     "slugs": [
       "sales59008",
-      "product59008"
+      "product59008",
+      "sls50"
     ],
-    "lastSlug": "product59008",
-    "lastUrl": "https://hashtagweb3.com/product59008",
+    "lastSlug": "sls50",
+    "lastUrl": "https://hashtagweb3.com/sls50",
     "updatedAt": "2026-09-15T19:45:19.014Z"
   },
   "66b5410f-339d-4656-92a6-cf4e31285bc9": {
@@ -2483,26 +2490,34 @@
   },
   "b19b7ecb-6f08-4558-a14f-ab92024b9146": {
     "slugs": [
-      "security147"
+      "security147",
+      "securityb9146",
+      "security160",
+      "security-1lz2fsr"
     ],
-    "lastSlug": "security147",
-    "lastUrl": "https://hashtagweb3.com/security147",
+    "lastSlug": "security-1lz2fsr",
+    "lastUrl": "https://hashtagweb3.com/security-1lz2fsr",
     "updatedAt": "2026-09-17T08:51:13.676Z"
   },
   "JR2001145": {
     "slugs": [
-      "engineer665"
+      "engineer665",
+      "engineer01145",
+      "engineer99476",
+      "engineer148",
+      "engineer140"
     ],
-    "lastSlug": "engineer665",
-    "lastUrl": "https://hashtagweb3.com/engineer665",
+    "lastSlug": "engineer140",
+    "lastUrl": "https://hashtagweb3.com/engineer140",
     "updatedAt": "2026-09-17T08:51:14.025Z"
   },
   "5399796008": {
     "slugs": [
-      "mgr2"
+      "mgr2",
+      "manager579"
     ],
-    "lastSlug": "mgr2",
-    "lastUrl": "https://hashtagweb3.com/mgr2",
+    "lastSlug": "manager579",
+    "lastUrl": "https://hashtagweb3.com/manager579",
     "updatedAt": "2026-09-17T08:51:14.392Z"
   }
 }
