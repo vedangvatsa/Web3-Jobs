@@ -81,6 +81,14 @@ jobs:
       - name: Install opencode
         run: curl -fsSL https://opencode.ai/install | bash
 
+      - name: Configure git identity (agent commits as bot)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Install image tooling (Pillow fallback for Linux resize)
+        run: pip install --quiet pillow
+
       - name: Disable push in dry-run mode
         if: ${{ inputs.news_dry_run == true }}
         run: git remote set-url origin ./__dryrun_disabled__
