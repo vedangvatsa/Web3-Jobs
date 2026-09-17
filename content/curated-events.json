@@ -2784,7 +2784,7 @@
   {
     "twitter": null,
     "source": "curated-premier",
-    "coverImage": null,
+    "coverImage": "/events/premier-afrochain-2026-19a5907f.webp",
     "id": "premier-afrochain-2026",
     "slug": "afrochain",
     "name": "AfroChain 2026",
@@ -2802,7 +2802,7 @@
   {
     "twitter": null,
     "source": "curated-premier",
-    "coverImage": null,
+    "coverImage": "/events/premier-blockchain-beach-2026-60db2f28.webp",
     "id": "premier-blockchain-beach-2026",
     "slug": "blockchain-beach",
     "name": "Blockchain Beach 2026",
@@ -2820,7 +2820,7 @@
   {
     "twitter": null,
     "source": "curated-premier",
-    "coverImage": null,
+    "coverImage": "/events/luma-crypto-f6vuh9lcivejvzr-83a83219.webp",
     "id": "premier-crypto-finance-forum-2026",
     "slug": "crypto-finance-forum",
     "name": "Crypto Finance Forum 2026",
@@ -2837,7 +2837,7 @@
   {
     "twitter": null,
     "source": "curated-premier",
-    "coverImage": null,
+    "coverImage": "/events/premier-shaka-biarritz-2026-0a2e39f2.webp",
     "id": "premier-shaka-biarritz-2026",
     "slug": "shaka",
     "name": "SHAKA Biarritz 2026",
@@ -2855,7 +2855,7 @@
   {
     "twitter": null,
     "source": "curated-premier",
-    "coverImage": null,
+    "coverImage": "/events/premier-metamorphosis-2026-737f9457.webp",
     "id": "premier-metamorphosis-2026",
     "slug": "metamorphosis",
     "name": "Metamorphosis 2026",
@@ -2876,7 +2876,7 @@
   {
     "twitter": null,
     "source": "curated-premier",
-    "coverImage": null,
+    "coverImage": "/events/premier-pragma-tokyo-2026-f8a4a18a.webp",
     "id": "premier-pragma-tokyo-2026",
     "slug": "pragma-tokyo",
     "name": "Pragma Tokyo 2026",
@@ -2894,7 +2894,7 @@
   {
     "twitter": null,
     "source": "curated-premier",
-    "coverImage": null,
+    "coverImage": "/events/premier-bitcoin-treasuries-2026-cfe75369.webp",
     "id": "premier-bitcoin-treasuries-2026",
     "slug": "bitcoin-treasuries",
     "name": "Bitcoin Treasuries Conference 2026",
@@ -2912,7 +2912,7 @@
   {
     "twitter": null,
     "source": "curated-premier",
-    "coverImage": null,
+    "coverImage": "/events/premier-wob-madrid-2026-d6a188a8.webp",
     "id": "premier-wob-madrid-2026",
     "slug": "wobitcoin",
     "name": "Watch Out Bitcoin 2026",
@@ -2932,7 +2932,7 @@
   {
     "twitter": null,
     "source": "curated-premier",
-    "coverImage": null,
+    "coverImage": "/events/premier-rwa-week-2026-6e41e5be.webp",
     "id": "premier-rwa-week-2026",
     "slug": "rwa-week",
     "name": "RWA Week 2026",
@@ -2949,7 +2949,7 @@
   {
     "twitter": null,
     "source": "curated-premier",
-    "coverImage": null,
+    "coverImage": "/events/premier-daweek-london-2026-9c85e8e6.webp",
     "id": "premier-daweek-london-2026",
     "slug": "daweek-london",
     "name": "Digital Assets Week London 2026",
@@ -2967,7 +2967,7 @@
   {
     "twitter": null,
     "source": "curated-premier",
-    "coverImage": null,
+    "coverImage": "/events/premier-token2049-origins-2026-10414ba3.webp",
     "id": "premier-token2049-origins-2026",
     "slug": "token2049-origins",
     "name": "TOKEN2049 Origins Hackathon 2026",
@@ -2985,7 +2985,7 @@
   {
     "twitter": null,
     "source": "curated-premier",
-    "coverImage": null,
+    "coverImage": "/events/premier-global-onchain-summit-sg-2026-c34c099c.webp",
     "id": "premier-global-onchain-summit-sg-2026",
     "slug": "global-onchain-summit",
     "name": "Global Onchain Summit Singapore 2026",
@@ -3002,7 +3002,7 @@
   {
     "twitter": null,
     "source": "curated-premier",
-    "coverImage": null,
+    "coverImage": "/events/premier-coinalts-2026-13936ffa.webp",
     "id": "premier-coinalts-2026",
     "slug": "coinalts",
     "name": "CoinAlts 2026",
@@ -3020,7 +3020,7 @@
   {
     "twitter": null,
     "source": "curated-premier",
-    "coverImage": null,
+    "coverImage": "/events/premier-blockchain-africa-2026-7e6ea8f5.webp",
     "id": "premier-blockchain-africa-2026",
     "slug": "blockchain-africa",
     "name": "Blockchain Africa Conference 2026",
@@ -3037,7 +3037,7 @@
   {
     "twitter": null,
     "source": "curated-premier",
-    "coverImage": null,
+    "coverImage": "/events/premier-blockfest-africa-2026-dc43909f.webp",
     "id": "premier-blockfest-africa-2026",
     "slug": "blockfest-africa",
     "name": "Blockf3st Africa 2026",
@@ -3055,7 +3055,7 @@
   {
     "twitter": null,
     "source": "curated-premier",
-    "coverImage": null,
+    "coverImage": "/events/premier-blockchain-summit-latam-2026-016016ad.webp",
     "id": "premier-blockchain-summit-latam-2026",
     "slug": "blockchain-summit-latam",
     "name": "Blockchain Summit Latam Colombia 2026",
@@ -3073,7 +3073,7 @@
   {
     "twitter": null,
     "source": "curated-premier",
-    "coverImage": null,
+    "coverImage": "/events/premier-unchained-summit-india-2026-a27d19f0.webp",
     "id": "premier-unchained-summit-india-2026",
     "slug": "unchained-summit",
     "name": "Unchained Summit India 2026",
@@ -3090,7 +3090,7 @@
   {
     "twitter": null,
     "source": "curated-premier",
-    "coverImage": null,
+    "coverImage": "/events/premier-bitcoin-amsterdam-2026-20089934.webp",
     "id": "premier-bitcoin-amsterdam-2026",
     "slug": "bitcoin-amsterdam",
     "name": "Bitcoin Amsterdam 2026",
@@ -3108,7 +3108,7 @@
   {
     "twitter": null,
     "source": "curated-premier",
-    "coverImage": null,
+    "coverImage": "/events/premier-bitcoin-korea-2026-648d9456.webp",
     "id": "premier-bitcoin-korea-2026",
     "slug": "bitcoin-korea",
     "name": "Bitcoin Korea Conference 2026",
@@ -3126,7 +3126,7 @@
   {
     "twitter": null,
     "source": "curated-premier",
-    "coverImage": null,
+    "coverImage": "/events/premier-singapore-blockchain-week-2026-a470789f.webp",
     "id": "premier-singapore-blockchain-week-2026",
     "slug": "singapore-blockchain-week",
     "name": "Singapore Blockchain Week 2026",
@@ -3143,7 +3143,7 @@
   {
     "twitter": null,
     "source": "curated-premier",
-    "coverImage": null,
+    "coverImage": "/events/premier-world-token-congress-2026-7d8074c1.webp",
     "id": "premier-world-token-congress-2026",
     "slug": "world-token-congress",
     "name": "World Token Congress 2026",
@@ -3160,7 +3160,7 @@
   {
     "twitter": null,
     "source": "curated-premier",
-    "coverImage": null,
+    "coverImage": "/events/premier-auscryptocon-2026-256f4e02.webp",
     "id": "premier-auscryptocon-2026",
     "slug": "auscryptocon",
     "name": "CryptoCon Sydney 2026",
@@ -3178,7 +3178,7 @@
   {
     "twitter": null,
     "source": "curated-premier",
-    "coverImage": null,
+    "coverImage": "/events/premier-blockchain-life-2026-5e896934.webp",
     "id": "premier-blockchain-life-2026",
     "slug": "blockchain-life",
     "name": "Blockchain Life 2026",
@@ -3196,7 +3196,7 @@
   {
     "twitter": null,
     "source": "curated-premier",
-    "coverImage": null,
+    "coverImage": "/events/premier-consensus-miami-2027-35eee6f0.webp",
     "id": "premier-consensus-miami-2027",
     "slug": "consensus-miami",
     "name": "Consensus Miami 2027",
@@ -3214,7 +3214,7 @@
   {
     "twitter": null,
     "source": "curated-premier",
-    "coverImage": null,
+    "coverImage": "/events/premier-vienna-blockchain-week-2027-7b886096.webp",
     "id": "premier-vienna-blockchain-week-2027",
     "slug": "vienna-blockchain-week",
     "name": "Vienna Blockchain Week 2027",
@@ -3231,7 +3231,7 @@
   {
     "twitter": null,
     "source": "curated-premier",
-    "coverImage": null,
+    "coverImage": "/events/premier-edcon-2026-594160dc.webp",
     "id": "premier-edcon-2026",
     "slug": "edcon",
     "name": "EDCON 2026",
@@ -3248,7 +3248,7 @@
   {
     "twitter": null,
     "source": "curated-premier",
-    "coverImage": null,
+    "coverImage": "/events/premier-coinferencex-singapore-2026-e3d0a0fc.webp",
     "id": "premier-coinferencex-singapore-2026",
     "slug": "coinferencex-singapore",
     "name": "CoinFerenceX Singapore 2026",
@@ -3265,7 +3265,7 @@
   {
     "twitter": null,
     "source": "curated-premier",
-    "coverImage": null,
+    "coverImage": "/events/premier-bitchill-s04-2026-b704b400.webp",
     "id": "premier-bitchill-s04-2026",
     "slug": "bitchill",
     "name": "Bitchill s04",
@@ -3283,7 +3283,7 @@
   {
     "twitter": null,
     "source": "curated-premier",
-    "coverImage": null,
+    "coverImage": "/events/premier-gts-2026-3dc84af3.webp",
     "id": "premier-gts-2026",
     "slug": "gts",
     "name": "Global Trading Show 2026",
@@ -3301,7 +3301,7 @@
   {
     "twitter": null,
     "source": "curated-premier",
-    "coverImage": null,
+    "coverImage": "/events/premier-ibt-tour-2026-4190c881.webp",
     "id": "premier-ibt-tour-2026",
     "slug": "ibt",
     "name": "India Blockchain & AI Tour 2026",
@@ -3317,7 +3317,7 @@
   {
     "twitter": null,
     "source": "curated-premier",
-    "coverImage": null,
+    "coverImage": "/events/premier-ibt-tour-2026-4190c881.webp",
     "id": "premier-ibt-chennai-2026",
     "slug": "ibt-chennai",
     "name": "India Blockchain & AI Tour 2026 — Chennai",
@@ -3337,7 +3337,7 @@
   {
     "twitter": null,
     "source": "curated-premier",
-    "coverImage": null,
+    "coverImage": "/events/premier-ibt-tour-2026-4190c881.webp",
     "id": "premier-ibt-bengaluru-2026",
     "slug": "ibt-bengaluru",
     "name": "India Blockchain & AI Tour 2026 — Bengaluru",
@@ -3357,7 +3357,7 @@
   {
     "twitter": null,
     "source": "curated-premier",
-    "coverImage": null,
+    "coverImage": "/events/premier-ibt-tour-2026-4190c881.webp",
     "id": "premier-ibt-mumbai-2026",
     "slug": "ibt-mumbai",
     "name": "India Blockchain & AI Tour 2026 — Mumbai",
@@ -3377,7 +3377,7 @@
   {
     "twitter": null,
     "source": "curated-premier",
-    "coverImage": null,
+    "coverImage": "/events/premier-ibt-tour-2026-4190c881.webp",
     "id": "premier-ibt-pune-2026",
     "slug": "ibt-pune",
     "name": "India Blockchain & AI Tour 2026 — Pune",
@@ -3397,7 +3397,7 @@
   {
     "twitter": null,
     "source": "curated-premier",
-    "coverImage": null,
+    "coverImage": "/events/premier-ibt-tour-2026-4190c881.webp",
     "id": "premier-ibt-goa-2026",
     "slug": "ibt-goa",
     "name": "India Blockchain & AI Tour 2026 — Goa",
@@ -3417,7 +3417,7 @@
   {
     "twitter": null,
     "source": "curated-premier",
-    "coverImage": null,
+    "coverImage": "/events/premier-ibt-tour-2026-4190c881.webp",
     "id": "premier-ibt-delhi-2026",
     "slug": "ibt-delhi",
     "name": "India Blockchain & AI Tour 2026 — Delhi",
@@ -3437,7 +3437,7 @@
   {
     "twitter": null,
     "source": "curated-premier",
-    "coverImage": null,
+    "coverImage": "/events/premier-ibt-tour-2026-4190c881.webp",
     "id": "premier-ibt-jaipur-2026",
     "slug": "ibt-jaipur",
     "name": "India Blockchain & AI Tour 2026 — Jaipur",
@@ -3457,7 +3457,7 @@
   {
     "twitter": null,
     "source": "curated-premier",
-    "coverImage": null,
+    "coverImage": "/events/premier-ibt-tour-2026-4190c881.webp",
     "id": "premier-ibt-lucknow-2026",
     "slug": "ibt-lucknow",
     "name": "India Blockchain & AI Tour 2026 — Lucknow",
@@ -3477,7 +3477,7 @@
   {
     "twitter": null,
     "source": "curated-premier",
-    "coverImage": null,
+    "coverImage": "/events/premier-ibt-tour-2026-4190c881.webp",
     "id": "premier-ibt-chandigarh-2026",
     "slug": "ibt-chandigarh",
     "name": "India Blockchain & AI Tour 2026 — Chandigarh",
@@ -3497,7 +3497,7 @@
   {
     "twitter": null,
     "source": "curated-premier",
-    "coverImage": null,
+    "coverImage": "/events/premier-bitmela-2026-d653bea9.webp",
     "id": "premier-bitmela-2026",
     "slug": "bitmela",
     "name": "Bitmela 2026",

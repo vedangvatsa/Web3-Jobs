@@ -13,6 +13,7 @@ const cachePath = path.join(rootDir, 'content', 'events-cache.json');
 const ibwSideEventsPath = path.join(rootDir, 'content', 'ibw-side-events.json');
 const kbwSideEventsPath = path.join(rootDir, 'content', 'kbw-luma-events.json');
 const indiaLumaEventsPath = path.join(rootDir, 'content', 'india-luma-events.json');
+const lumaCryptoEventsPath = path.join(rootDir, 'content', 'luma-crypto-events.json');
 const publicEventsDir = path.join(rootDir, 'public', 'events');
 const sourceFilter = process.env.EVENT_SOURCE;
 const refreshImages = process.env.EVENT_IMAGE_REFRESH === '1';
@@ -40,6 +41,18 @@ function cleanUrl(raw) {
   if (u.includes('https://lu.ma/http://')) u = u.replace('https://lu.ma/http://', 'http://');
   if (!u.startsWith('http')) return null;
   return u;
+}
+
+function eventImageSourceUrls(event) {
+  const seen = new Set();
+  const out = [];
+  for (const item of [event.url, event.website, event.registrationUrl]) {
+    const u = cleanUrl(item);
+    if (!u || seen.has(u)) continue;
+    seen.add(u);
+    out.push(u);
+  }
+  return out;
 }
 
 async function extractImageFromUrl(url) {
@@ -102,11 +115,11 @@ async function extractImageFromUrl(url) {
             continue;
           }
         }
-        return c;
+        if (await verifyImage(c)) return c;
       }
     }
 
-    // 2. Next.js / Nuxt hydration state (especially for Luma, Eventbrite, etc.)
+    // 2. Next.js / Nuxt hydration state (especially for Luma, Eventbrite, EthGlobal, etc.)
     const nextData = $('script#__NEXT_DATA__').html();
     if (nextData) {
       try {
@@ -119,6 +132,17 @@ async function extractImageFromUrl(url) {
           return match[0].replace(/\\u0026/g, '&');
         }
       } catch {}
+    }
+
+    const ethglobalCdn = html.match(
+      /https:\/\/ethglobal\.b-cdn\.net\/events\/[^"'\\]+\.(jpg|jpeg|png|webp)/i,
+    );
+    if (ethglobalCdn?.[0] && (await verifyImage(ethglobalCdn[0]))) return ethglobalCdn[0];
+
+    const bannerFullUrl = html.match(/"fullUrl":"(https:[^"]+(?:banner|Banner)[^"]+)"/i);
+    if (bannerFullUrl?.[1]) {
+      const decoded = bannerFullUrl[1].replace(/\\u0026/g, '&');
+      if (await verifyImage(decoded)) return decoded;
     }
 
     // 3. Schema.org JSON-LD
@@ -143,7 +167,11 @@ async function extractImageFromUrl(url) {
     }
 
     // 4. Hero / banner images in DOM
-    const heroImg = $('img[src*="banner"], img[src*="cover"], img[src*="hero"], img[src*="poster"]').first().attr('src');
+    const heroImg = $(
+      'img.hero-img, img[class*="hero"], img[src*="banner"], img[src*="cover"], img[src*="hero"], img[src*="poster"], img[src*="Hero"]',
+    )
+      .first()
+      .attr('src');
     if (heroImg) {
       let c = heroImg.trim();
       if (!c.startsWith('http')) {
@@ -153,13 +181,29 @@ async function extractImageFromUrl(url) {
           return null;
         }
       }
-      return c;
+      if (await verifyImage(c)) return c;
     }
 
     return null;
   } catch {
     return null;
   }
+}
+
+async function resolveCoverForEvent(event, eventsDir, log) {
+  const sourceUrls = eventImageSourceUrls(event);
+  if (sourceUrls.length === 0) return null;
+
+  for (const tryUrl of sourceUrls) {
+    const extracted = await extractImageFromUrl(tryUrl);
+    if (!extracted) continue;
+    event.coverImage = extracted;
+    const local = await downloadCover(event, eventsDir, log);
+    if (local && local !== 'rate_limited') return local;
+    if (local === 'rate_limited') return 'rate_limited';
+    return extracted;
+  }
+  return null;
 }
 
 async function verifyImage(imgUrl) {
@@ -217,15 +261,16 @@ async function processEventsFile(filePath, label) {
 
     await Promise.all(
       batch.map(async (event) => {
-        const url = cleanUrl(event.url) || cleanUrl(event.website);
-        if (!url) {
+        const sourceUrls = eventImageSourceUrls(event);
+        if (sourceUrls.length === 0) {
           failedCount++;
           return;
         }
 
+        const primaryUrl = sourceUrls[0];
         const matchingEvent = events.find((candidate) =>
           candidate !== event &&
-          cleanUrl(candidate.url) === url &&
+          eventImageSourceUrls(candidate).some((u) => sourceUrls.includes(u)) &&
           !isGenericOrBroken(candidate.coverImage)
         );
         if (matchingEvent && !refreshImages) {
@@ -234,19 +279,28 @@ async function processEventsFile(filePath, label) {
           return;
         }
 
-        const candidateImage = await extractImageFromUrl(url);
-        if (candidateImage) {
-          const isValid = await verifyImage(candidateImage);
+        let candidateImage = null;
+        let foundFrom = null;
+        for (const tryUrl of sourceUrls) {
+          const extracted = await extractImageFromUrl(tryUrl);
+          if (!extracted) continue;
+          const isValid = await verifyImage(extracted);
           if (isValid) {
-            console.log(`  ✓ [${event.name}]`);
-            console.log(`    From: ${url}`);
-            console.log(`    Found: ${candidateImage}`);
-            event.coverImage = candidateImage;
-            const local = await downloadCover(event, publicEventsDir, console.log);
-            if (local && local !== 'rate_limited') event.coverImage = local;
-            updatedCount++;
-            return;
+            candidateImage = extracted;
+            foundFrom = tryUrl;
+            break;
           }
+        }
+
+        if (candidateImage) {
+          console.log(`  ✓ [${event.name}]`);
+          console.log(`    From: ${foundFrom}`);
+          console.log(`    Found: ${candidateImage}`);
+          event.coverImage = candidateImage;
+          const local = await downloadCover(event, publicEventsDir, console.log);
+          if (local && local !== 'rate_limited') event.coverImage = local;
+          updatedCount++;
+          return;
         }
         failedCount++;
       })
@@ -268,6 +322,7 @@ async function main() {
     [ibwSideEventsPath, 'IBW Side Events'],
     [kbwSideEventsPath, 'KBW Side Events'],
     [indiaLumaEventsPath, 'India Luma Events'],
+    [lumaCryptoEventsPath, 'Luma Crypto Events'],
   ];
   for (const [filePath, label] of eventFiles) await processEventsFile(filePath, label);
 
