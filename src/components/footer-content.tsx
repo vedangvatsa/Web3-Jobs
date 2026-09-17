@@ -73,7 +73,7 @@ export function FooterContent() {
      </div>
 
      <div className="lg:col-span-1">
-        <h4 className="font-semibold text-foreground mb-3">Popular guides</h4>
+        <h4 className="font-semibold text-foreground mb-3">Career Guides</h4>
         <ul className="space-y-2">
         {popularArticles.map(article => (
          <li key={article.href}>
