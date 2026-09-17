@@ -11,7 +11,7 @@ lastUpdated: "2026-09-15"
 ---
 AI for freelancers is the practical use of generative and automation tools to handle repetitive parts of independent work. It covers drafting, research, code suggestions, image generation, transcription, time tracking, and scheduling. You keep the judgment and final quality. The tools handle the repetitive drafts and admin so you can bill more hours on the core craft.
 
-This guide explains who benefits most, how each type of tool works in a freelance workflow, what it actually costs in 2026, and where the limits are. Every price and feature below was checked against the vendor's official pricing page in August 2026.
+This guide explains who benefits most, how each type of tool works in a freelance workflow, and where the limits are.
 
 ## What AI for freelancers means
 
@@ -106,17 +106,17 @@ For deeper productivity options across roles, see [top AI productivity tools you
 
 You do not need a large stack. Start with one general assistant, one tool for your craft, and one for meetings or time. Add only when a clear bottleneck remains.
 
-Here is a lean stack that covers most solo freelancers, with pricing checked August 2026 on each vendor's official page.
+Here is a lean stack that covers most solo freelancers.
 
-| Stack layer | Tool example | What it does | Cost in 2026 |
-| --- | --- | --- | --- |
-| General assistant | ChatGPT or Google Gemini | Drafting, research, summarizing, brainstorming | ChatGPT: Free, Plus $20 per month, Pro $100 or $200 per month, Business $20 per user per month billed annually. Gemini: Free, Google AI Plus $4.99 to $7.99 per month, Pro $19.99 per month, Ultra from $99.99 per month. |
-| Writing quality | Grammarly | Grammar, tone, clarity, plagiarism check | Free $0, Pro $12 per month billed annually ($144 per year) or $30 monthly, Enterprise custom. 100 prompts per month on Free, 2,000 on Pro. |
-| Marketing drafting | Jasper | Brand voice, long-form content, team workflows | Pro $59 per month per seat billed annually ($69 monthly), 7-day trial, Business custom. |
-| Code | GitHub Copilot | Completions, chat, agent mode, test generation | Free $0 with 2,000 completions, Pro $10 per month, Pro+ $39 per month, Business $19 per user per month, Enterprise $39 per user per month, Max $100 per month. Since June 2026, premium requests use AI Credits. |
-| Images | Midjourney and DALL-E 3 | Text to image starting points | Midjourney: Basic $10 per month ($8 annual), Standard $30 ($24 annual), Pro $60 ($48 annual), Mega $120 ($96 annual). DALL-E 3: included with ChatGPT Plus $20, or API at about $0.04 per image at 1024x1024 standard quality. |
-| Meetings | Otter.ai or Fireflies.ai | Transcription, searchable records, summaries | Otter: Free 300 minutes per month with 30-minute cap, Pro $8.33 per user per month annual ($16.99 monthly) for 1,200 minutes with 90-minute cap, Business $19.99 annual ($30 monthly) for unlimited with 4-hour cap. Fireflies: Free unlimited transcription with 800 minutes storage, Pro about $10 per user per month, Business about $19 per user per month, 100-plus language support. |
-| Time and calendar | RescueTime and Clockwise | Automatic time tracking, focus time protection | RescueTime: Solo $7 per user per month, Solo+ $12, Team $10, Team+ $16. Clockwise: Free $0, Teams $6.75 per user per month, Business $11.50, Enterprise custom. |
+| Stack layer | Tool example | What it does |
+| --- | --- | --- |
+| General assistant | ChatGPT or Google Gemini | Drafting, research, summarizing, brainstorming |
+| Writing quality | Grammarly | Grammar, tone, clarity, plagiarism check |
+| Marketing drafting | Jasper | Brand voice, long-form content, team workflows |
+| Code | GitHub Copilot | Completions, chat, agent mode, test generation |
+| Images | Midjourney and DALL-E 3 | Text to image starting points |
+| Meetings | Otter.ai or Fireflies.ai | Transcription, searchable records, summaries |
+| Time and calendar | RescueTime and Clockwise | Automatic time tracking, focus time protection |
 
 **Steps to get started this week** 1. Pick one bottleneck. Example: proposal writing takes more than 30 minutes per job.
 2. Choose one tool for that bottleneck. For proposals, start with ChatGPT Free or Gemini Free.
