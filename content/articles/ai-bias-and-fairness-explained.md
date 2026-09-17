@@ -26,11 +26,13 @@ If you commission, design, deploy, or rely on an AI system, you are in scope for
 
 NIST defines three categories that interact. They are useful because they force you to look beyond the dataset.
 
-#### 1. Systemic bias.
-Procedures and norms in institutions that advantage some groups and disadvantage others. Examples include historic hiring patterns, segregated healthcare access, or lending histories shaped by prior discrimination. The system learns the pattern even without an explicit label for race or gender. 2. Statistical and computational bias.
+#### 1. Systemic bias
+Procedures and norms in institutions that advantage some groups and disadvantage others. Examples include historic hiring patterns, segregated healthcare access, or lending histories shaped by prior discrimination. The system learns the pattern even without an explicit label for race or gender.
 
-**Errors from how data are sampled, measured, and modeled when the sample does not represent the population. These occur without intent. Examples include undercounting certain groups, using a proxy that is weaker for one group than another, or overfitting to the majority.** 3. Human-cognitive bias.
+#### 2. Statistical and computational bias
+Errors from how data are sampled, measured, and modeled when the sample does not represent the population. These occur without intent. Examples include undercounting certain groups, using a proxy that is weaker for one group than another, or overfitting to the majority.
 
+#### 3. Human-cognitive bias
 How people perceive and use system outputs, or embed assumptions in problem formulation and labeling. Examples include confirmation bias when reviewing model recommendations, anchoring on a score, or choosing what counts as "success" in a way that reflects a narrow viewpoint.
 
 A frequent misunderstanding is that bias is only a data problem. Data matters, but bias also enters through problem definition, objective functions, evaluation, and human oversight.
@@ -39,13 +41,11 @@ A frequent misunderstanding is that bias is only a data problem. Data matters, b
 
 #### Data
 
-Historical bias.
+**Historical bias:** The data reflect past decisions that were themselves uneven. Train on that history without correction, and the model repeats it.
 
-**The data reflect past decisions that were themselves uneven. Train on that history without correction, and the model repeats it.** Representation bias.
+**Representation bias:** Some groups are missing or thin in the dataset. The model sees few examples, so it performs worse for them.
 
-**Some groups are missing or thin in the dataset. The model sees few examples, so it performs worse for them.** Measurement and label bias.
-
-The thing you want to predict is hard to observe, so you use a proxy. If the proxy means something different across groups, the model learns the wrong signal.
+**Measurement and label bias:** The thing you want to predict is hard to observe, so you use a proxy. If the proxy means something different across groups, the model learns the wrong signal.
 
 Concrete, verified case: a hospital risk algorithm studied in Science on October 25, 2019 by Obermeyer, Powers, Vogeli, and Mullainathan. The system was used to identify patients for high-risk care management. It predicted healthcare costs to estimate need. At the same risk score, Black patients were sicker than White patients as shown by counts of chronic conditions and lab markers. The cause: Black patients generated lower costs than White patients at the same level of health due to unequal access and use of care, so costs were a poorer proxy for need for Black patients. The authors estimated that fixing the label choice to use health measures rather than costs would raise the share of Black patients automatically flagged for extra help from 17.7 percent to 46.5 percent. The manufacturer later replicated the finding on a national dataset of 3,695,943 commercially insured patients.
 
@@ -98,9 +98,7 @@ Excluding race, gender, or other protected fields from training data does not ma
 In the fairness literature, a model can be evaluated in several ways. The three most used group metrics are:
 
 - **Demographic or statistical parity:** P(Y-hat = 1 | A = 0) = P(Y-hat = 1 | A = 1). The share receiving the favorable prediction is equal across groups. It asks about predictions, not accuracy. It makes sense when the label itself is contaminated or when equal access is the policy goal, but it can conflict with accuracy when base rates legitimately differ.
-
 - **Equalized odds and equal opportunity:** equalized odds requires equal true positive rates and equal false positive rates across groups, P(Y-hat = 1 | Y = y, A = 0) = P(Y-hat = 1 | Y = y, A = 1) for y = 0,1. Equal opportunity is the true positive rate part only. These metrics condition on ground truth, so they reward accuracy for everyone who qualifies. They are common in risk assessment and diagnosis.
-
 - **Predictive parity and calibration:** at a given predicted score, actual outcomes are similar across groups. Calibration, P(Y = 1 | S = s, A = 0) = P(Y = 1 | S = s, A = 1), means a score means the same thing for each group.
 
 As noted above, these cannot all hold when base rates differ except in edge cases. NIST AI RMF and ISO/IEC TR 24027:2021, which catalogs bias types and fairness metrics, both advise that the choice be explicit, justified, and revisited over time. The choice should follow from the harm you most want to avoid: who bears the cost of a false positive versus a false negative, and what recourse they have.
@@ -111,18 +109,10 @@ Use a lifecycle approach. Bias checks should appear at pre-design, development, 
 
 #### 1. Data practices
 
-- **Audit who is counted.
-
-Profile training data by source, time window, geography, and subgroup coverage. Report gaps and why they exist. Document data sheets for datasets.
-- **Check the label.
-
-Validate that the proxy you optimize for predicts what you think it does for each group. Replace costs with health need, arrest with offense, or clicks with stated goals where feasible, or adjust with additional signals such as avoidable costs or active chronic conditions as the Obermeyer study did.
-- **Measure proxies.
-
-Compute correlations between candidate features and protected attributes. Flag zip code, school, healthcare expenditure patterns, and text n-grams. Treat flagged features as candidates for removal, transformation, or constraint.
-- **Fix representation honestly.
-
-Options include targeted collection, stratified sampling, reweighting underrepresented examples, or generating synthetic data. None are free. Synthetic data can preserve errors if the generator is itself tilted. Reweighting helps only if the additional weight reflects real population prevalence.
+- **Audit who is counted:** Profile training data by source, time window, geography, and subgroup coverage. Report gaps and why they exist. Document data sheets for datasets.
+- **Check the label:** Validate that the proxy you optimize for predicts what you think it does for each group. Replace costs with health need, arrest with offense, or clicks with stated goals where feasible, or adjust with additional signals such as avoidable costs or active chronic conditions as the Obermeyer study did.
+- **Measure proxies:** Compute correlations between candidate features and protected attributes. Flag zip code, school, healthcare expenditure patterns, and text n-grams. Treat flagged features as candidates for removal, transformation, or constraint.
+- **Fix representation honestly:** Options include targeted collection, stratified sampling, reweighting underrepresented examples, or generating synthetic data. None are free. Synthetic data can preserve errors if the generator is itself tilted. Reweighting helps only if the additional weight reflects real population prevalence.
 
 #### 2. Modeling techniques
 
@@ -134,44 +124,24 @@ No method dominates. Pilot with held-out slices, view accuracy and chosen fairne
 
 #### 3. Evaluation before you ship
 
-- **Slice metrics.
-
-Report performance disaggregated by race, gender, age, disability, language, and intersectional groups where sample allows. Report false positive and false negative rates, not just AUC.
-- **Separate image quality from demographic effect.
-
-For face or speech systems, control for lighting, pose, microphone type, and language variety. NIST found many false negative gaps were explained by quality.
-- **Test for proxies and adversarial cases.
-
-Probe with pairs that differ only in a name or zip code. Check stability across time and site.
-- **External validation.
-
-Run an independent replication on data the training team has not seen, as the healthcare manufacturer did on 3.7 million records.
+- **Slice metrics:** Report performance disaggregated by race, gender, age, disability, language, and intersectional groups where sample allows. Report false positive and false negative rates, not just AUC.
+- **Separate image quality from demographic effect:** For face or speech systems, control for lighting, pose, microphone type, and language variety. NIST found many false negative gaps were explained by quality.
+- **Test for proxies and adversarial cases:** Probe with pairs that differ only in a name or zip code. Check stability across time and site.
+- **External validation:** Run an independent replication on data the training team has not seen, as the healthcare manufacturer did on 3.7 million records.
 
 A practical gate: if a model shows higher error for any protected group beyond the tolerance you set and documented, do not release it until you understand why and can mitigate or explain.
 
 #### 4. People and process
 
-- **Diverse teams and reviewers.
-
-Lived experience helps spot missing groups and labeling flaws, but diversity without process does not fix bias by itself. Pair reviewer diversity with checklists, blinded review of recommendations, and participatory design sessions with affected users.
-- **Human-centered design.
-
-Use methods referenced in ISO 9241-210:2019 to involve users throughout, not only at the end, and to keep traceability of decisions.
-- **Documentation.
-
-Write a model card that states intended use, training data composition, metrics by group, known limits, and chosen fairness definition with rationale. Update it when data or use shifts.
+- **Diverse teams and reviewers:** Lived experience helps spot missing groups and labeling flaws, but diversity without process does not fix bias by itself. Pair reviewer diversity with checklists, blinded review of recommendations, and participatory design sessions with affected users.
+- **Human-centered design:** Use methods referenced in ISO 9241-210:2019 to involve users throughout, not only at the end, and to keep traceability of decisions.
+- **Documentation:** Write a model card that states intended use, training data composition, metrics by group, known limits, and chosen fairness definition with rationale. Update it when data or use shifts.
 
 #### 5. Governance and compliance
 
-- **Map to a framework.
-
-NIST AI RMF 1.0, released January 2023, organizes work into Govern, Map, Measure, and Manage. Bias is managed under Map, Measure, and Govern, where you set fairness goals and justify metric choice. Use the companion Playbook for implementation tasks.
-- **Meet legal duties.
-
-In the EU, the AI Act, Regulation (EU) 2024/1689, published July 12, 2024 and in force August 1, 2024, treats many uses discussed here as high-risk, including CV screening, credit scoring, and healthcare triage listed in Annex III. High-risk systems must have risk management, data governance that examines and mitigates bias, human oversight, logging, and technical documentation per Articles 9 through 15 and Annex IV. Bans on prohibited practices applied from February 2, 2025, general-purpose AI transparency from August 2, 2025, and most high-risk duties from August 2, 2026, with extensions to August 2, 2027 for embedded systems in regulated products. Check the EUR-Lex official text for your exact use case.
-- **Provide recourse.
-
-Allow affected people to contest automated decisions, receive a readable explanation, and request human review. Keep audit trails of inputs, thresholds, and overrides.
+- **Map to a framework:** NIST AI RMF 1.0, released January 2023, organizes work into Govern, Map, Measure, and Manage. Bias is managed under Map, Measure, and Govern, where you set fairness goals and justify metric choice. Use the companion Playbook for implementation tasks.
+- **Meet legal duties:** In the EU, the AI Act, Regulation (EU) 2024/1689, published July 12, 2024 and in force August 1, 2024, treats many uses discussed here as high-risk, including CV screening, credit scoring, and healthcare triage listed in Annex III. High-risk systems must have risk management, data governance that examines and mitigates bias, human oversight, logging, and technical documentation per Articles 9 through 15 and Annex IV. Bans on prohibited practices applied from February 2, 2025, general-purpose AI transparency from August 2, 2025, and most high-risk duties from August 2, 2026, with extensions to August 2, 2027 for embedded systems in regulated products. Check the EUR-Lex official text for your exact use case.
+- **Provide recourse:** Allow affected people to contest automated decisions, receive a readable explanation, and request human review. Keep audit trails of inputs, thresholds, and overrides.
 
 ### Trade-offs to state plainly
 
@@ -205,7 +175,8 @@ Not in the statistical sense. A model that identifies a genetic marker that vari
 
 Responsibility is shared across those who commission, build, deploy, and use the system. In the United States, regulators assess both disparate treatment, intentional use of a protected attribute, and disparate impact, a neutral policy that produces unequal outcomes without sufficient justification. In the EU, the AI Act allocates duties to providers and deployers of high-risk systems. Contracts should state who owns data governance, testing, documentation, monitoring, and appeals, and organizations should keep records that allow an audit.
 
-**4. How can users spot bias when using a tool?**
+#### 4. How can users spot bias when using a tool?
+
 Look for patterns across many outputs, not one answer. If an image generator shows only men as CEOs or doctors, or a resume helper assigns higher scores to one demographic when other qualifications are held constant, that indicates skew. Try paired prompts that change only a name or gendered term, check sources and confidence scores, and report systematic skew to the provider. Useful signals include whether the tool explains its recommendation, provides citations, and allows you to override or correct it.
 
 Building fairer AI is not about achieving perfect neutrality. It is about choosing the right fairness objective for the decision, measuring gaps for the people affected, correcting data and proxy problems at the source, and keeping humans accountable for oversight. The practices are documented, the trade-offs are known, and the expectations are now written into measurement standards and law. Applying them consistently is the work.
