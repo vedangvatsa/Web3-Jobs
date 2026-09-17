@@ -499,7 +499,13 @@ export function getEventEditorialGuide(event: Web3Event): EventEditorialArticle 
   const type = getEventType(event);
   const format = getEventFormat(event);
   const ecosystems = getEventEcosystems(event);
-  const ecoStr = ecosystems.length > 0 ? ecosystems.join(', ') : 'Web3 and blockchain';
+  const ecoStr = ecosystems.length === 0
+    ? 'Web3 and blockchain'
+    : ecosystems.length === 1
+      ? ecosystems[0]
+      : ecosystems.length === 2
+        ? `${ecosystems[0]} and ${ecosystems[1]}`
+        : `${ecosystems.slice(0, -1).join(', ')}, and ${ecosystems[ecosystems.length - 1]}`;
   const locationStr = event.location || 'Virtual / TBA';
   const formattedDates = formatEventDate(event.startDate, event.endDate);
 
@@ -726,8 +732,14 @@ export function getEventEditorialGuide(event: Web3Event): EventEditorialArticle 
   };
 
   const focusPoints = ecosystems.map((eco) => ecosystemDescriptions[eco] || `${eco} ecosystem architecture and applications`);
+  const formattedFocusList = focusPoints.length === 1
+    ? focusPoints[0]
+    : focusPoints.length === 2
+      ? `${focusPoints[0]}, as well as ${focusPoints[1]}`
+      : `${focusPoints.slice(0, -1).join(', ')}, and ${focusPoints[focusPoints.length - 1]}`;
+
   const technicalFocusIntro = ecosystems.length > 0
-    ? `The agenda touches directly on core engineering and business themes across ${ecoStr}. Participants explore ${focusPoints.join('; as well as ')}.`
+    ? `The agenda touches directly on core engineering and business themes across ${ecoStr}. Participants explore ${formattedFocusList}.`
     : `The program encompasses modern blockchain infrastructure, decentralized software architecture, cryptographic validation, and practical Web3 deployment patterns across distributed networks.`;
 
   const technicalFocusBody = isHackathon
