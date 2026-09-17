@@ -4,11 +4,11 @@
 <style>
 text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;font-size:12px;fill:#334155}
 .header{font-weight:700;fill:#1e293b;font-size:12px}
-.row-bg{fill:#f8fafc}.card{fill:#ffffff;stroke:#e2e8f0}.grid{stroke:#e2e8f0}
+.row-bg{fill:none}.card{fill:none;stroke:none}.grid{stroke:#e2e8f0}
 .tag1{fill:#3b82f6}.tag2{fill:#10b981}.tag3{fill:#d97706}.tag4{fill:#8b5cf6}
 .badge-text{fill:#ffffff !important}
 @media (prefers-color-scheme:dark){
-text{fill:#cbd5e1}.header{fill:#f1f5f9}.row-bg{fill:#1e293b}.card{fill:#0f172a;stroke:#1e293b}.grid{stroke:#334155}
+text{fill:#cbd5e1}.header{fill:#f1f5f9}.row-bg{fill:none}.card{fill:none;stroke:none}.grid{stroke:#334155}
 .badge-text{fill:#ffffff !important}
 }
 </style>
