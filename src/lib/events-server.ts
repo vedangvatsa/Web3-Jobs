@@ -517,7 +517,7 @@ export async function getEventBySlug(slug: string): Promise<Web3Event | null> {
   found = events.find(e => e.id.toLowerCase() === normalized || e.id.replace(/^(premier|side)-/, '').toLowerCase() === normalized);
   if (found) return found;
 
-  // 3. Fallback match for legacy URLs with trailing numbers or year/date suffixes
+  // 3. Fallback match for legacy URLs with trailing numbers (e.g. institutional-onchain2 -> institutional-onchain) or date suffixes
   if (/-\d{4}-\d{2}-\d{2}$/.test(normalized)) {
     const baseSlug = normalized.replace(/-\d{4}-\d{2}-\d{2}$/, '');
     found = events.find(e => getEventSlug(e) === baseSlug);
@@ -525,7 +525,7 @@ export async function getEventBySlug(slug: string): Promise<Web3Event | null> {
   }
   if (/\d+$/.test(normalized)) {
     const baseSlug = normalized.replace(/\d+$/, '');
-    found = events.find(e => getEventSlug(e) === baseSlug || getEventSlug(e).replace(/\d+$/, '') === baseSlug);
+    found = events.find(e => getEventSlug(e) === baseSlug);
     if (found) return found;
   }
 
