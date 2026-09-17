@@ -1,4 +1,7 @@
-import { isThinEventListingDescription } from '@/lib/event-editorial-facts';
+import {
+  buildEditorialFromOrganizerDescription,
+  isLumaListedEvent,
+} from '@/lib/luma-event-content';
 import { EVENT_GUIDES } from './event-guides';
 import { isGoogleEventSchemaEligible } from './event-schema';
 
@@ -499,17 +502,11 @@ export function getEventEditorialGuide(event: Web3Event): EventEditorialArticle 
   const slug = (event.slug || '').toLowerCase().trim();
   if (slug && EVENT_GUIDES[slug]) return EVENT_GUIDES[slug];
 
+  if (isLumaListedEvent(event)) {
+    return buildEditorialFromOrganizerDescription(event);
+  }
+
   const name = event.name.toLowerCase();
-  const type = getEventType(event);
-  const format = getEventFormat(event);
-  const ecosystems = getEventEcosystems(event);
-  const ecoStr = ecosystems.length === 0
-    ? 'Web3 and blockchain'
-    : ecosystems.length === 1
-      ? ecosystems[0]
-      : ecosystems.length === 2
-        ? `${ecosystems[0]} and ${ecosystems[1]}`
-        : `${ecosystems.slice(0, -1).join(', ')}, and ${ecosystems[ecosystems.length - 1]}`;
   const resolvedPlace = formatEventLocation(event);
   const locationStr = resolvedPlace === 'Virtual / TBA' ? 'online' : `in ${resolvedPlace}`;
   const formattedDates = formatEventDate(event.startDate, event.endDate);
@@ -685,167 +682,5 @@ export function getEventEditorialGuide(event: Web3Event): EventEditorialArticle 
     };
   }
 
-  const isHackathon = type === 'hackathon';
-  const isConference = type === 'conference';
-  const isWorkshop = type === 'workshop';
-  const rawDescription = (event.description || '').trim();
-  const ownDescription =
-    rawDescription && !isThinEventListingDescription(rawDescription) ? rawDescription : '';
-  // Evening socials (parties, dinners, mixers) often trip the conference
-  // keyword match ("conference-floor"); detect them directly so the guide
-  // never describes a party as keynotes and panels.
-  const socialText = `${event.name} ${rawDescription}`.toLowerCase();
-  const isSocial = !isHackathon && /\b(afterparty|after-party|after party|\bparty\b|dinner|gala|mixer|breakfast|brunch|drinks|cocktails?|reception|celebration|soir[eé]e|banquet|luncheon|happy hour|closing (party|night)|after-party)\b/.test(socialText);
-
-  // 1. Overview & Context Section
-  const baseOverview = `${event.name} is scheduled for ${formattedDates} ${locationStr}, bringing together Web3 participants, builders, and ecosystem contributors.`;
-
-  // Format organizer description into discrete readable paragraphs
-  const rawParagraphs = ownDescription
-    ? ownDescription
-        .split(/\n\n+/)
-        .map((p) => p.trim())
-        .filter((p) => p.length > 0)
-    : [];
-
-  const eventRoleContext = isSocial
-    ? `Organized as an evening social rather than a conference program, the gathering centers on food, drinks, and unstructured conversation with founders, builders, investors, and ecosystem operators. Expect introductions and relationship-building over presentations.`
-    : isHackathon
-    ? `As a hackathon, the gathering is structured around active development, prototyping, and mentor-guided building sprints. Teams collaborate under time constraints to design, write smart contracts, and demonstrate functional decentralized applications or infrastructure components.`
-    : isConference
-      ? `As a full-scale conference, the program features keynote presentations, panel debates, technical briefings, and exhibition spaces. Attendees connect across institutional allocators, core protocol teams, and emerging startups operating at the forefront of digital asset innovation.`
-      : isWorkshop
-        ? `Organized as a technical workshop and hands-on session, the focus is centered on applied development workflows, protocol tooling deep dives, and direct interaction between developers and framework architects.`
-        : `Designed as a high-signal community meetup and networking session, the event facilitates informal technical exchanges, collaborative discussions, and peer networking among regional and visiting blockchain professionals.`;
-
-  // Build the About section content without duplicating the summary lead
-  let aboutContent: string[];
-  if (rawParagraphs.length > 1) {
-    // We have multiple paragraphs: the lead highlights paragraph 0, so the About section presents the remaining detail
-    aboutContent = [...rawParagraphs.slice(1, 5), eventRoleContext];
-  } else if (rawParagraphs.length === 1) {
-    aboutContent = [rawParagraphs[0], eventRoleContext];
-  } else {
-    aboutContent = [baseOverview, eventRoleContext];
-  }
-
-  // 2. Ecosystem & Technical Focus Section
-  const ecosystemDescriptions: Record<string, string> = {
-    Ethereum: 'Ethereum and EVM development, smart contract security standards, rollups, and protocol-level execution scaling',
-    Solana: 'high-throughput Solana programs, state compression, local fee markets, and the SVM runtime ecosystem',
-    Bitcoin: 'Bitcoin development, Lightning Network payment channels, protocol upgrades, and sovereign digital asset custody',
-    Base: 'Base L2 integration, on-chain social mechanics, consumer onboarding rails, and developer tooling on the OP Stack',
-    Polygon: 'Polygon CDK chains, aggregated liquidity layers, zero-knowledge proofs, and enterprise blockchain rollouts',
-    Arbitrum: 'Arbitrum Nitro execution, Orbit customized chains, EVM-compatible rollup infrastructure, and DeFi liquidity',
-    Optimism: 'the Superchain ecosystem, OP Stack modular architecture, decentralized sequencing, and public goods funding',
-    Sui: 'the Sui Move programming paradigm, object-centric data models, and high-performance decentralized systems',
-    Aptos: 'Aptos Move language primitives, block-STM parallel execution, and resilient Web3 consumer infrastructure',
-    Monad: 'pipelined execution architectures, MonadBFT consensus mechanisms, and high-frequency parallelized EVM systems',
-    Berachain: 'Proof-of-Liquidity consensus mechanisms, validator incentives, and composable DeFi application design',
-    Avalanche: 'Avalanche Subnet topologies, custom VM deployments, and cross-subnet interoperability via Teleporter',
-    NEAR: 'chain abstraction, sharded state execution, account models, and user-facing decentralized applications',
-    TON: 'Telegram mini-apps, native wallet distribution, high-volume consumer payment channels, and on-chain identity',
-    Cosmos: 'inter-blockchain communication (IBC), sovereign appchains, and modular consensus primitives',
-    Polkadot: 'shared security paradigms, Polkadot parachains, and cross-consensus messaging (XCM)',
-    Chainlink: 'cross-chain interoperability protocol (CCIP), decentralized oracle networks, and verified data feeds',
-    DeFi: 'decentralized liquidity routing, automated market makers, on-chain lending protocols, and capital-efficient asset models',
-    'AI + Web3': 'decentralized artificial intelligence, verifiable agentic computation, DePIN sensor networks, and cryptographic inference verification',
-    'ZK / L2': 'zero-knowledge cryptography, succinct validity proofs, state rollups, and privacy-preserving protocol architectures',
-    'NFT / Gaming': 'on-chain gaming loops, verifiable asset ownership, autonomous worlds, and digital entertainment primitives',
-    Security: 'smart contract formal verification, runtime auditing, bug bounties, and decentralized protocol defense vectors',
-    RWA: 'real-world asset tokenization, regulated on-chain treasury vehicles, private debt structures, and institutional compliance rails',
-    Web3: 'decentralized web architectures, user-sovereign cryptographic primitives, distributed networks, and open data protocols',
-  };
-
-  const focusPoints = ecosystems.map((eco) => ecosystemDescriptions[eco] || `${eco} ecosystem architecture and applications`);
-  const formattedFocusList = focusPoints.length === 1
-    ? focusPoints[0]
-    : focusPoints.length === 2
-      ? `${focusPoints[0]}, as well as ${focusPoints[1]}`
-      : `${focusPoints.slice(0, -1).join(', ')}, and ${focusPoints[focusPoints.length - 1]}`;
-
-  const technicalFocusIntro = ecosystems.length > 0
-    ? `The agenda touches directly on core engineering and business themes across ${ecoStr}. Participants explore ${formattedFocusList}.`
-    : `The program encompasses modern blockchain infrastructure, decentralized software architecture, cryptographic validation, and practical Web3 deployment patterns across distributed networks.`;
-
-  const technicalFocusBody = isSocial
-    ? `Conversation ranges across whatever guests are building and backing: protocol launches, fund theses, hiring needs, and ecosystem gossip that never reaches a stage. The value is who is in the room, so skim the co-hosts and sponsors to decide if your people will be there.`
-    : isHackathon
-    ? `Builders have opportunities to stress-test frameworks, submit working prototypes to judging panels, and exchange feedback with protocol maintainers. Focus tracks frequently center on user experience improvements, composable protocol layers, and verifiable on-chain mechanics.`
-    : isConference
-      ? `Discussions focus on both technical architecture and institutional adoption. Panelists dissect regulatory trajectories, custody infrastructure, and what production-grade throughput looks like across decentralized networks.`
-      : `Discussions provide insight into practical deployment challenges, current trends across global and regional blockchain scenes, and collaborative avenues for open-source software and infrastructure builders looking to deploy scalable solutions.`;
-
-  // 3. Format, Logistics & Location Guide
-  const isOnline = format === 'online';
-  const cityName = event.city && event.city !== 'Global' ? event.city : '';
-  const countryName = event.country ? normalizeCountry(event.country) : '';
-  const cityDescriptions: Record<string, string> = {
-    Singapore: 'Singapore serves as a premier global hub for digital asset innovation, supported by the Monetary Authority of Singapore (MAS) regulatory clarity and an extensive international business ecosystem.',
-    Seoul: 'Seoul is one of the most vibrant cryptocurrency capital markets globally, characterized by high retail adoption, tech-forward developer communities, and major institutional engagement.',
-    London: 'London combines centuries of financial market leadership with a rapidly maturing fintech and Web3 ecosystem, anchoring major European digital asset dialogues.',
-    'New York': 'New York represents the epicenter of traditional institutional finance, where Wall Street capital allocators, legal minds, and digital asset protocols meet.',
-    'San Francisco': 'San Francisco and the Bay Area remain the technological nucleus for frontier software engineering, decentralized protocol design, and venture investment.',
-    Dubai: 'Dubai operates under progressive digital asset frameworks established by the Virtual Assets Regulatory Authority (VARA), attracting global Web3 founders and capital.',
-    Tokyo: 'Tokyo offers a sophisticated regulatory framework under Japan Financial Services Agency oversight, paired with global entertainment, gaming, and IP distribution.',
-    Mumbai: 'Mumbai serves as the commercial hub of India, driving exceptional developer talent, dynamic developer communities, and fintech engineering innovation.',
-    'Hong Kong': 'Hong Kong has established comprehensive licensing regimes for digital asset trading platforms and stablecoin initiatives, positioning itself as Asia’s bridge for institutional crypto capital.',
-  };
-
-  const cityContext = cityName && cityDescriptions[cityName]
-    ? `${cityDescriptions[cityName]} Hosting the event in ${cityName} enables productive interaction between domestic developer communities and visiting global teams.`
-    : isOnline
-      ? 'This event is hosted entirely online, allowing developers, founders, and community attendees from around the world to participate remotely without travel constraints or regional visa barriers.'
-      : `Held ${locationStr}, this gathering connects regional participants with visiting builders, protocol teams, and investors active in the local and international ecosystem.`;
-
-  const logisticsDetail = isOnline
-    ? 'Attendees should confirm the live-stream platform, working time zones, and interactive virtual staging links ahead of the scheduled start. Check whether breakout workshops or mentorship office hours require prior registration.'
-    : `Attendees traveling to ${cityName || 'the venue'} should secure hotel reservations and review local transit options well in advance of ${formattedDates}, as accommodations near major conference corridors book quickly during busy event cycles.`;
-
-  // 4. Participation & Planning Notes
-  const participationNotes = isSocial
-    ? 'Entry is typically RSVP or guest-list based with limited capacity, so register early and arrive on time. Dress codes and plus-one rules vary by host; check the event page before heading over.'
-    : isHackathon
-    ? 'Participants should ensure their development environments, repository access, dependency setups, and team configurations are finalized before the official kickoff. Review official project submission guidelines, judging criteria, and mentor office hour schedules to maximize your project demonstration impact.'
-    : isConference
-      ? 'Attendees should confirm entry credentials, ticket barcodes, and registration confirmations through the official organizer portal prior to arrival. Reviewing published speaker schedules and satellite side-event calendars in advance helps maximize high-value hallway discussions, technical roundtables, and ecosystem networking sessions.'
-      : 'RSVPs and registration passes are typically required due to venue capacity limitations and security protocols. Arriving early during registration check-in is recommended to guarantee admission and connect with fellow community members, protocol engineers, and ecosystem operators.';
-
-  const networkingAdvice = isSocial
-    ? 'Evening events reward working the room over collecting contacts: a few real conversations beat a stack of scanned badges. Eat first, introduce people to each other, and follow up the next morning while names are fresh.'
-    : isHackathon
-    ? 'Hackathons provide a high-signal environment to meet co-founders, protocol developer advocates, and potential grant program evaluators. Engage with protocol mentors circulating through the hacking floor for architectural advice, debugging support, and bounty clarification.'
-    : isConference
-      ? 'Beyond the keynote stages, major conferences serve as the primary venue where strategic partnerships, venture financing, and cross-chain integrations are initiated. Take advantage of dedicated networking lounges, exhibition demo booths, and side-event forums.'
-      : 'Community meetups offer an intimate setting for peer discussions, local project showcases, and grassroots technical collaboration across the regional developer, contributor, and investor ecosystem.';
-
-  const calendarAdvice = `Add ${event.name} to your calendar (${formattedDates}) to plan your schedule, travel window, and follow-up activities. Check the official event link periodically for agenda additions, keynote speaker announcements, and venue entry requirements.`;
-
-  const sections: EditorialSection[] = [
-    {
-      heading: 'About the event',
-      content: aboutContent,
-    },
-    {
-      heading: 'Ecosystem & technical focus',
-      content: [technicalFocusIntro, technicalFocusBody],
-    },
-    {
-      heading: isOnline ? 'Virtual format & access' : 'Location & travel logistics',
-      content: [cityContext, logisticsDetail],
-    },
-    {
-      heading: 'Participation & planning',
-      content: [participationNotes, networkingAdvice, calendarAdvice],
-    },
-  ];
-
-  const firstSummarySentence = rawParagraphs.length > 0
-    ? (rawParagraphs[0].endsWith('.') ? rawParagraphs[0] : `${rawParagraphs[0]}.`)
-    : `${event.name} brings together builders and ecosystem contributors.`;
-
-  return {
-    summaryLead: `${event.name} takes place ${formattedDates} ${locationStr}. ${firstSummarySentence}`,
-    sections,
-  };
+  return buildEditorialFromOrganizerDescription(event);
 }

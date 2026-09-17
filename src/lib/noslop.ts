@@ -100,7 +100,9 @@ export function cleanPublishText(
     .replace(/&#8230;/g, '...')
     .replace(/&nbsp;/gi, ' ')
     .replace(/&ldquo;|&rdquo;/gi, '"')
-    .replace(/&lsquo;|&rsquo;/gi, "'");
+    .replace(/&lsquo;|&rsquo;/gi, "'")
+    .replace(/&#x27;|&#39;/gi, "'")
+    .replace(/&#8217;/g, "'");
 
   if (opts?.stripFiller) {
     for (const [re, rep] of FILLER_PHRASES) {
@@ -139,7 +141,9 @@ export function cleanPublishHtml(input: string | null | undefined): string {
     .replace(/&#8230;/g, '...')
     .replace(/&nbsp;/gi, ' ')
     .replace(/&ldquo;|&rdquo;/gi, '"')
-    .replace(/&lsquo;|&rsquo;/gi, "'");
+    .replace(/&lsquo;|&rsquo;/gi, "'")
+    .replace(/&#x27;|&#39;/gi, "'")
+    .replace(/&#8217;/g, "'");
 
   // Strip documentation site / GitBook & ATS leaked scraper artifacts
   s = s.replace(

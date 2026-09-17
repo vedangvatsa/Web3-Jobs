@@ -2,28 +2,6 @@
 
 import { useState } from 'react';
 import Image from 'next/image';
-import type { EventType } from '@/lib/events';
-
-const GRADIENTS = [
-  'from-violet-600/80 via-purple-700/80 to-indigo-800/80',
-  'from-blue-600/80 via-cyan-700/80 to-teal-800/80',
-  'from-emerald-600/80 via-teal-700/80 to-cyan-800/80',
-  'from-amber-600/80 via-orange-700/80 to-rose-800/80',
-  'from-rose-600/80 via-pink-700/80 to-fuchsia-800/80',
-  'from-indigo-600/80 via-blue-700/80 to-sky-800/80',
-];
-
-export function getEventGradient(name: string): string {
-  let hash = 0;
-  for (let i = 0; i < name.length; i++) {
-    hash = name.charCodeAt(i) + ((hash << 5) - hash);
-  }
-  return GRADIENTS[Math.abs(hash) % GRADIENTS.length];
-}
-
-function getInitial(name: string): string {
-  return name.replace(/[^a-zA-Z0-9]/g, '').charAt(0).toUpperCase() || 'W';
-}
 
 function isRealEventPoster(src?: string | null): src is string {
   const value = (src || '').trim();
@@ -35,88 +13,26 @@ function canUseNextImage(src: string): boolean {
   return src.startsWith('/') && !src.startsWith('//') && !path.endsWith('.gif');
 }
 
-export function EventCoverFallback({
-  name,
-  type,
-  format,
-}: {
-  name: string;
-  type?: EventType;
-  format?: string;
-}) {
-  const gradient = getEventGradient(name);
-  const initial = getInitial(name);
-  const label =
-    type === 'hackathon'
-      ? 'Hackathon'
-      : type === 'conference'
-      ? 'Conference'
-      : format === 'online'
-      ? 'Virtual Event'
-      : type
-      ? 'Web3 Event'
-      : null;
+/** Detail-page hero: fit any aspect ratio inside one bounded frame (no crop, no viewport takeover). */
+const EVENT_HERO_FRAME_CLASS =
+  'relative mx-auto mt-8 flex h-[min(280px,32vh)] w-full max-w-3xl items-center justify-center overflow-hidden rounded-2xl border border-transparent bg-muted/25 sm:h-[min(320px,36vh)] sm:max-w-4xl';
 
-  return (
-    <div className={`relative w-full h-full overflow-hidden bg-gradient-to-br ${gradient}`}>
-      {/* Layered light blooms */}
-      <div className="absolute inset-0" aria-hidden="true">
-        <div className="absolute -top-1/3 -left-1/4 w-3/4 h-3/4 rounded-full bg-white/20 blur-3xl" />
-        <div className="absolute -bottom-1/3 -right-1/4 w-2/3 h-2/3 rounded-full bg-black/25 blur-3xl" />
-        <div className="absolute top-1/3 right-1/4 w-1/3 h-1/3 rounded-full bg-white/10 blur-2xl" />
-      </div>
-      {/* Dot grid texture */}
-      <div
-        className="absolute inset-0 opacity-25"
-        aria-hidden="true"
-        style={{
-          backgroundImage: 'radial-gradient(rgba(255,255,255,0.55) 1px, transparent 1px)',
-          backgroundSize: '16px 16px',
-        }}
-      />
-      {/* Giant watermark initial, cropped by overflow */}
-      <div className="absolute inset-0 flex items-center justify-center" aria-hidden="true">
-        <span className="text-[11rem] leading-none font-black text-white/10 select-none tracking-tighter">
-          {initial}
-        </span>
-      </div>
-      {/* Centered identity */}
-      <div className="relative z-10 h-full flex flex-col items-center justify-center gap-2.5 px-6 text-center">
-        {label && (
-          <span className="text-[10px] font-bold uppercase tracking-[0.25em] text-white/70">
-            {label}
-          </span>
-        )}
-        <span className="text-lg sm:text-xl font-extrabold text-white leading-tight line-clamp-2 drop-shadow-md max-w-md">
-          {name}
-        </span>
-        <span className="mt-1 h-0.5 w-10 rounded-full bg-white/50" aria-hidden="true" />
-      </div>
-    </div>
-  );
-}
+const EVENT_HERO_IMAGE_CLASS =
+  'h-auto w-auto max-h-full max-w-full object-contain object-center';
 
 export function EventCardImage({
   src,
   name,
-  type,
-  format,
   index,
 }: {
   src?: string | null;
   name: string;
-  type: EventType;
-  format: string;
   index?: number;
 }) {
-  // Listing cards must not hit /api/og — each batch would generate dozens of
-  // dynamic PNGs and make infinite scroll feel stuck on "Loading more…".
   const posterSrc = isRealEventPoster(src) ? src : null;
   const [failed, setFailed] = useState(false);
 
-  if (!posterSrc || failed) {
-    return <EventCoverFallback name={name} type={type} format={format} />;
-  }
+  if (!posterSrc || failed) return null;
 
   const isAboveFold = index !== undefined && index < 6;
 
@@ -139,32 +55,24 @@ export function EventHeroImage({
 }: {
   src?: string | null;
   name: string;
-  location?: string;
-  city?: string;
-  country?: string;
-  startDate?: string;
 }) {
   const posterSrc = isRealEventPoster(src) ? src : null;
   const [failed, setFailed] = useState(false);
 
-  if (!posterSrc || failed) {
-    return (
-      <div className="w-full aspect-video max-h-[320px] rounded-2xl overflow-hidden border">
-        <EventCoverFallback name={name} />
-      </div>
-    );
-  }
+  if (!posterSrc || failed) return null;
+
+  const useNext = canUseNextImage(posterSrc);
 
   return (
-    <div className="relative w-full rounded-2xl overflow-hidden border border-transparent">
-      {canUseNextImage(posterSrc) ? (
+    <div className={EVENT_HERO_FRAME_CLASS}>
+      {useNext ? (
         <Image
           src={posterSrc}
           alt={name}
           width={1600}
           height={900}
-          className="relative mx-auto w-full h-auto max-h-[320px] object-contain"
-          sizes="(max-width: 1280px) calc(100vw - 2rem), 1280px"
+          className={EVENT_HERO_IMAGE_CLASS}
+          sizes="(max-width: 640px) calc(100vw - 2rem), (max-width: 1280px) 896px, 896px"
           priority
           onError={() => setFailed(true)}
         />
@@ -172,7 +80,7 @@ export function EventHeroImage({
         <img
           src={posterSrc}
           alt={name}
-          className="relative mx-auto w-full h-auto max-h-[320px] object-contain"
+          className={EVENT_HERO_IMAGE_CLASS}
           loading="eager"
           fetchPriority="high"
           decoding="async"

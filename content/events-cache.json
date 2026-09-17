@@ -438,20 +438,6 @@
     "month": "September 2026"
   },
   {
-    "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-technology-icbt-2026-septem",
-    "name": "International Conference on Blockchain Technology (ICBT)",
-    "description": "International Conference on Blockchain Technology scheduled on September 14-15, 2026 at Santiago, Chile is for the researchers, scientists, scholars, engineers, academic, scientific and university practitioners to present research activities that might want to attend events, meetings, seminars, congresses, workshops, summit, and symposiums.",
-    "startDate": "2026-09-14T00:00:00.000Z",
-    "endDate": "2026-09-14T00:00:00.000Z",
-    "city": "Santiago",
-    "country": "Chile",
-    "location": "Santiago, Chile",
-    "url": "https://conferenceindex.org/event/international-conference-on-blockchain-technology-icbt-2026-september-santiago-cl",
-    "coverImage": null,
-    "source": "conferenceindex",
-    "month": "September 2026"
-  },
-  {
     "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-and-cryptocurrencies-icbc-2",
     "name": "International Conference on Blockchain and Cryptocurrencies (ICBC)",
     "description": "International Conference on Blockchain and Cryptocurrencies scheduled on September 14-15, 2026 at Seoul, Republic of Korea is for the researchers, scientists, scholars, engineers, academic, scientific and university practitioners to present research activities that might want to attend events, meetings, seminars, congresses, workshops, summit, and symposiums.",
@@ -1081,7 +1067,8 @@
     "url": "https://conferenceindex.org/event/driving-platforms-and-decentralized-tech-in-healthcare-life-sciences-2026-september-cambridge-us",
     "coverImage": null,
     "source": "conferenceindex",
-    "month": "September 2026"
+    "month": "September 2026",
+    "website": "https://conv2xsymposium.com/?utm_source=conferenceindex&utm_medium=referral&utm_campaign=listing"
   },
   {
     "id": "w3v-ethereum-institutional-summit-2026",
@@ -1122,7 +1109,7 @@
     "country": "Japan",
     "location": "Tokyo, Japan",
     "url": "https://ethglobal.com/events/tokyo2026",
-    "coverImage": null,
+    "coverImage": "/events/ma-ethglobal-tokyo-2026-7af8facf.webp",
     "source": "marketacross",
     "month": "September 2026"
   },
@@ -1181,7 +1168,8 @@
     "url": "https://conferenceindex.org/event/international-conference-on-cryptocurrency-artificial-intelligence-and-machine-learning-iccaiml-2026-september-kowloon-hk",
     "coverImage": null,
     "source": "conferenceindex",
-    "month": "September 2026"
+    "month": "September 2026",
+    "website": "https://conferencefora.org/Conference/76995/ICCAIML/?utm_source=conferenceindex&utm_medium=referral&utm_campaign=listing"
   },
   {
     "id": "w3v-eastpoint2026",
@@ -1210,7 +1198,8 @@
     "url": "https://conferenceindex.org/event/international-conference-on-cryptography-and-information-security-iccis-2026-september-vancouver-ca",
     "coverImage": null,
     "source": "conferenceindex",
-    "month": "September 2026"
+    "month": "September 2026",
+    "website": "https://waset.org/cryptography-and-information-security-conference-in-september-2026-in-vancouver?utm_source=conferenceindex&utm_medium=referral&utm_campaign=listing"
   },
   {
     "id": "w3v-ethereum-korea-one",
@@ -1222,7 +1211,7 @@
     "country": "South Korea",
     "location": "Global, KR",
     "url": "https://one.ethereumkorea.io",
-    "coverImage": null,
+    "coverImage": "/events/w3v-ethereum-korea-one-53d19a94.webp",
     "source": "Hashtag Web3",
     "bypassedFilter": true,
     "month": "September 2026"
@@ -1550,20 +1539,6 @@
     "source": "Hashtag Web3",
     "bypassedFilter": true,
     "month": "September 2026"
-  },
-  {
-    "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-technology-icbt-2026-octobe",
-    "name": "International Conference on Blockchain Technology (ICBT)",
-    "description": "International Conference on Blockchain Technology scheduled on October 01-02, 2026 at Madagascar, Madagascar is for the researchers, scientists, scholars, engineers, academic, scientific and university practitioners to present research activities that might want to attend events, meetings, seminars, congresses, workshops, summit, and symposiums.",
-    "startDate": "2026-10-01T00:00:00.000Z",
-    "endDate": "2026-10-01T00:00:00.000Z",
-    "city": "Madagascar",
-    "country": "Madagascar",
-    "location": "Madagascar",
-    "url": "https://conferenceindex.org/event/international-conference-on-blockchain-technology-icbt-2026-october-madagascar-mg",
-    "coverImage": null,
-    "source": "conferenceindex",
-    "month": "October 2026"
   },
   {
     "id": "w3v-blockfesta-2026",
@@ -2826,15 +2801,16 @@
   },
   {
     "id": "ma-money-20-20-usa",
-    "name": "Money 20/20 USA",
-    "description": "Money 20/20 is the collective designation for a series of blockchain events spanning three continents, with the next edition of Money 20/20 USA scheduled for October 2026 in Las Vegas. This event will",
+    "name": "Money20/20 USA",
+    "description": "Money20/20 USA runs October 18-21, 2026 in Las Vegas. The official site describes it as the USA's #1 fintech event, where financial services innovators connect to create the future of money. Listed scale: 11,000+ senior attendees, 3,400+ companies, 85+ countries, 630+ speakers, and 320+ media and analysts. Agenda themes on us.money2020.com include agentic AI, fraud, FaaS, payments, and regulation.",
     "startDate": "2026-10-18T00:00:00.000Z",
     "endDate": "2026-10-21T00:00:00.000Z",
-    "city": "Las Vegas, USA",
+    "city": "Las Vegas",
     "country": "United States",
-    "location": "Las Vegas, USA",
+    "location": "Las Vegas, Nevada, United States",
     "url": "https://us.money2020.com/",
-    "coverImage": "https://us.money2020.com//images.ctfassets.net/zfifjkc7y6ct/4hDO2Qx8wLOVdRQLwZMZH5/e231c6e317c3f2b7244a5f44f2f1b944/US26_web_social_share.png",
+    "website": "https://us.money2020.com/",
+    "coverImage": "/events/ma-money-20-20-usa-cover.webp",
     "source": "marketacross",
     "month": "October 2026"
   },
@@ -2848,9 +2824,10 @@
     "country": "Australia",
     "location": "Sydney, Australia",
     "url": "https://conferenceindex.org/event/international-conference-on-advances-in-generative-ai-large-language-models-and-blockchain-technology-icagllmbt-2026-october-sydney-au",
-    "coverImage": null,
+    "coverImage": "/events/ci-https-conferenceindex-org-event-international-c-3263ad46.webp",
     "source": "conferenceindex",
-    "month": "October 2026"
+    "month": "October 2026",
+    "website": "https://www.iastem.org/Conference/26615/ICAGLLMBT/?utm_source=conferenceindex&utm_medium=referral&utm_campaign=listing"
   },
   {
     "id": "w3v-xrp-ledger-hackathon",
@@ -2928,20 +2905,6 @@
     "month": "November 2026"
   },
   {
-    "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-technology-icbt-2026-novemb",
-    "name": "International Conference on Blockchain Technology (ICBT)",
-    "description": "International Conference on Blockchain Technology scheduled on November 02-03, 2026 at Nicosia, Cyprus is for the researchers, scientists, scholars, engineers, academic, scientific and university practitioners to present research activities that might want to attend events, meetings, seminars, congresses, workshops, summit, and symposiums.",
-    "startDate": "2026-11-02T00:00:00.000Z",
-    "endDate": "2026-11-02T00:00:00.000Z",
-    "city": "Nicosia",
-    "country": "Cyprus",
-    "location": "Nicosia, Cyprus",
-    "url": "https://conferenceindex.org/event/international-conference-on-blockchain-technology-icbt-2026-november-nicosia-cy",
-    "coverImage": null,
-    "source": "conferenceindex",
-    "month": "November 2026"
-  },
-  {
     "id": "ci-https---conferenceindex-org-event-international-conference-on-financial-cryptography-and-data-securi",
     "name": "International Conference on Financial Cryptography and Data Security (ICFCDS)",
     "description": "International Conference on Financial Cryptography and Data Security scheduled on November 02-03, 2026 at New York, United States is for the researchers, scientists, scholars, engineers, academic, scientific and university practitioners to present research activities that might want to attend events, meetings, seminars, congresses, workshops, summit, and symposiums.",
@@ -2953,7 +2916,8 @@
     "url": "https://conferenceindex.org/event/international-conference-on-financial-cryptography-and-data-security-icfcds-2026-november-new-york-us",
     "coverImage": null,
     "source": "conferenceindex",
-    "month": "November 2026"
+    "month": "November 2026",
+    "website": "https://waset.org/financial-cryptography-and-data-security-conference-in-november-2026-in-new-york?utm_source=conferenceindex&utm_medium=referral&utm_campaign=listing"
   },
   {
     "id": "ma-aibc-world",
@@ -2965,7 +2929,7 @@
     "country": "Italy",
     "location": "Rome, Italy",
     "url": "https://aibc.world/europe/",
-    "coverImage": null,
+    "coverImage": "https://aibc.world/app/uploads/2026/01/cropped-AIBC-to-unveil-global-roadmap-at-AIBC-Eurasia-Dubai.png",
     "source": "marketacross",
     "month": "November 2026"
   },
@@ -3011,7 +2975,8 @@
     "url": "https://conferenceindex.org/event/international-conference-on-smart-contracts-blockchain-and-cryptocurrencies-icscbc-2026-november-rome-it",
     "coverImage": null,
     "source": "conferenceindex",
-    "month": "November 2026"
+    "month": "November 2026",
+    "website": "https://waset.org/smart-contracts-blockchain-and-cryptocurrencies-conference-in-november-2026-in-rome?utm_source=conferenceindex&utm_medium=referral&utm_campaign=listing"
   },
   {
     "id": "ci-https---conferenceindex-org-event-international-conference-on-smart-contracts-and-blockchain-icscb-2",
@@ -3025,7 +2990,8 @@
     "url": "https://conferenceindex.org/event/international-conference-on-smart-contracts-and-blockchain-icscb-2026-november-dubai-ae",
     "coverImage": null,
     "source": "conferenceindex",
-    "month": "November 2026"
+    "month": "November 2026",
+    "website": "https://waset.org/smart-contracts-and-blockchain-conference-in-november-2026-in-dubai?utm_source=conferenceindex&utm_medium=referral&utm_campaign=listing"
   },
   {
     "id": "w3v-the-unbanked-conference-london",
@@ -3217,7 +3183,8 @@
     "url": "https://conferenceindex.org/event/international-artificial-intelligence-and-blockchain-conference-aibc-2026-november-osaka-jp-1",
     "coverImage": null,
     "source": "conferenceindex",
-    "month": "November 2026"
+    "month": "November 2026",
+    "website": "http://www.aibc.org/?utm_source=conferenceindex&utm_medium=referral&utm_campaign=listing"
   },
   {
     "id": "ma-blockcon-punta-cana-2026",
@@ -3243,14 +3210,14 @@
     "country": "Brazil",
     "location": "Sao Paulo, Brazil",
     "url": "https://www.blockchainconferencebrasil.com/ ",
-    "coverImage": "https://pages.greatpages.com.br/www.blockchainconferencebrasil.com/1788904519/imagens/desktop/pages/3619993/seo_cover/H3HbgHDDDAJh34xb9YaUOTUV.png",
+    "coverImage": "https://pages.greatpages.com.br/www.blockchainconferencebrasil.com/1789655745/imagens/desktop/pages/3619993/seo_cover/H3HbgHDDDAJh34xb9YaUOTUV.png",
     "source": "marketacross",
     "month": "November 2026"
   },
   {
     "id": "ma-blockchain-life",
     "name": "Blockchain Life",
-    "description": "Crypto whales from all over the world will convene at Blockchain Life in Dubai in December 2026, which will welcome 15,000+ attendees from 130+ countries, 200+ speakers, and features more than 200 exh",
+    "description": "The 17th International Forum/Conference on Web3, Cryptocurrencies and Mining in Dubai, UAE. Join 15,000 attendees from 130 countries. The world's largest crypto event, featuring an exhibition, networking and startup competitions.",
     "startDate": "2026-12-01T00:00:00.000Z",
     "endDate": "2026-12-02T00:00:00.000Z",
     "city": "Dubai, UAE",
@@ -3277,20 +3244,6 @@
     "month": "December 2026"
   },
   {
-    "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-technology-icbt-2026-decemb",
-    "name": "International Conference on Blockchain Technology (ICBT)",
-    "description": "International Conference on Blockchain Technology scheduled on December 03-04, 2026 at Sydney, Australia is for the researchers, scientists, scholars, engineers, academic, scientific and university practitioners to present research activities that might want to attend events, meetings, seminars, congresses, workshops, summit, and symposiums.",
-    "startDate": "2026-12-03T00:00:00.000Z",
-    "endDate": "2026-12-03T00:00:00.000Z",
-    "city": "Sydney",
-    "country": "Australia",
-    "location": "Sydney, Australia",
-    "url": "https://conferenceindex.org/event/international-conference-on-blockchain-technology-icbt-2026-december-sydney-au",
-    "coverImage": null,
-    "source": "conferenceindex",
-    "month": "December 2026"
-  },
-  {
     "id": "ma-bitcoin-mena",
     "name": "Bitcoin Mena",
     "description": "Bitcoin MENA is an influential Bitcoin gathering for the MENA region, where participants discuss the future of Bitcoin, crypto adoption, investment, infrastructure, and policy. Founders, executives, i",
@@ -3314,9 +3267,10 @@
     "country": "United Arab Emirates",
     "location": "Abu Dhabi, United Arab Emirates",
     "url": "https://conferenceindex.org/event/global-blockchain-show-gbs-2026-december-abu-dhabi-ae",
-    "coverImage": null,
+    "coverImage": "/events/w3v-global-blockchain-show-2026-abu-dhabi-65f98bd6.webp",
     "source": "conferenceindex",
-    "month": "December 2026"
+    "month": "December 2026",
+    "website": "https://www.globalblockchainshow.com/abu-dhabi/?utm_source=conferenceindex&utm_medium=referral&utm_campaign=listing"
   },
   {
     "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-icb-2026-december-kuala-lum",
@@ -3330,7 +3284,8 @@
     "url": "https://conferenceindex.org/event/international-conference-on-blockchain-icb-2026-december-kuala-lumpur-my",
     "coverImage": null,
     "source": "conferenceindex",
-    "month": "December 2026"
+    "month": "December 2026",
+    "website": "https://waset.org/blockchain-conference-in-december-2026-in-kuala-lumpur?utm_source=conferenceindex&utm_medium=referral&utm_campaign=listing"
   },
   {
     "id": "w3v-global-blockchain-show-2026-abu-dhabi",
@@ -3359,7 +3314,8 @@
     "url": "https://conferenceindex.org/event/international-conference-on-blockchain-technology-and-applications-icbta-2026-december-seoul-kr-1",
     "coverImage": null,
     "source": "conferenceindex",
-    "month": "December 2026"
+    "month": "December 2026",
+    "website": "https://www.icbta.net/?utm_source=conferenceindex&utm_medium=referral&utm_campaign=listing"
   },
   {
     "id": "w3v-global-trading-show-2026-abu-dhabi",
@@ -3380,20 +3336,6 @@
     "venueName": "Emirates Palace"
   },
   {
-    "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-technology-icbt-2027-januar",
-    "name": "International Conference on Blockchain Technology (ICBT)",
-    "description": "International Conference on Blockchain Technology scheduled on January 07-08, 2027 at Singapore, Singapore is for the researchers, scientists, scholars, engineers, academic, scientific and university practitioners to present research activities that might want to attend events, meetings, seminars, congresses, workshops, summit, and symposiums.",
-    "startDate": "2027-01-07T00:00:00.000Z",
-    "endDate": "2027-01-07T00:00:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Singapore",
-    "url": "https://conferenceindex.org/event/international-conference-on-blockchain-technology-icbt-2027-january-singapore-sg",
-    "coverImage": null,
-    "source": "conferenceindex",
-    "month": "January 2027"
-  },
-  {
     "id": "w3v-global-games-show-2027-abu-dhabi",
     "name": "Global Games Show 2027 Abu Dhabi",
     "description": "Global Games Show Abu Dhabi: a B2B gaming event with 5,000+ attendees across game development, publishing, and esports.",
@@ -3409,34 +3351,6 @@
     "month": "January 2027"
   },
   {
-    "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-technology-icbt-2027-februa",
-    "name": "International Conference on Blockchain Technology (ICBT)",
-    "description": "International Conference on Blockchain Technology scheduled on February 04-05, 2027 at Guangzhou, China is for the researchers, scientists, scholars, engineers, academic, scientific and university practitioners to present research activities that might want to attend events, meetings, seminars, congresses, workshops, summit, and symposiums.",
-    "startDate": "2027-02-04T00:00:00.000Z",
-    "endDate": "2027-02-04T00:00:00.000Z",
-    "city": "Guangzhou",
-    "country": "China",
-    "location": "Guangzhou, China",
-    "url": "https://conferenceindex.org/event/international-conference-on-blockchain-technology-icbt-2027-february-guangzhou-cn",
-    "coverImage": null,
-    "source": "conferenceindex",
-    "month": "February 2027"
-  },
-  {
-    "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-technology-icbt-2027-march-",
-    "name": "International Conference on Blockchain Technology (ICBT)",
-    "description": "International Conference on Blockchain Technology scheduled on March 04-05, 2027 at Taipei, Taiwan is for the researchers, scientists, scholars, engineers, academic, scientific and university practitioners to present research activities that might want to attend events, meetings, seminars, congresses, workshops, summit, and symposiums.",
-    "startDate": "2027-03-04T00:00:00.000Z",
-    "endDate": "2027-03-04T00:00:00.000Z",
-    "city": "Taipei",
-    "country": "Taiwan",
-    "location": "Taipei, Taiwan",
-    "url": "https://conferenceindex.org/event/international-conference-on-blockchain-technology-icbt-2027-march-taipei-tw",
-    "coverImage": null,
-    "source": "conferenceindex",
-    "month": "March 2027"
-  },
-  {
     "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-technology-icbct-2027-march",
     "name": "International Conference on Blockchain Technology (ICBCT)",
     "description": "International Conference on Blockchain Technology scheduled on March 27-29, 2027 at Sapporo, Japan is for the researchers, scientists, scholars, engineers, academic, scientific and university practitioners to present research activities that might want to attend events, meetings, seminars, congresses, workshops, summit, and symposiums.",
@@ -3448,7 +3362,8 @@
     "url": "https://conferenceindex.org/event/international-conference-on-blockchain-technology-icbct-2027-march-sapporo-jp-1",
     "coverImage": null,
     "source": "conferenceindex",
-    "month": "March 2027"
+    "month": "March 2027",
+    "website": "https://www.icbct.org/?utm_source=conferenceindex&utm_medium=referral&utm_campaign=listing"
   },
   {
     "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-icb-2027-april-mexico-city-",
@@ -3462,21 +3377,8 @@
     "url": "https://conferenceindex.org/event/international-conference-on-blockchain-icb-2027-april-mexico-city-mx",
     "coverImage": null,
     "source": "conferenceindex",
-    "month": "April 2027"
-  },
-  {
-    "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-technology-icbt-2027-april-",
-    "name": "International Conference on Blockchain Technology (ICBT)",
-    "description": "International Conference on Blockchain Technology scheduled on April 01-02, 2027 at Rome, Italy is for the researchers, scientists, scholars, engineers, academic, scientific and university practitioners to present research activities that might want to attend events, meetings, seminars, congresses, workshops, summit, and symposiums.",
-    "startDate": "2027-04-01T00:00:00.000Z",
-    "endDate": "2027-04-01T00:00:00.000Z",
-    "city": "Rome",
-    "country": "Italy",
-    "location": "Rome, Italy",
-    "url": "https://conferenceindex.org/event/international-conference-on-blockchain-technology-icbt-2027-april-rome-it",
-    "coverImage": null,
-    "source": "conferenceindex",
-    "month": "April 2027"
+    "month": "April 2027",
+    "website": "https://waset.org/blockchain-conference-in-april-2027-in-mexico-city?utm_source=conferenceindex&utm_medium=referral&utm_campaign=listing"
   },
   {
     "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-icb-2027-april-boston-us",
@@ -3490,105 +3392,8 @@
     "url": "https://conferenceindex.org/event/international-conference-on-blockchain-icb-2027-april-boston-us",
     "coverImage": null,
     "source": "conferenceindex",
-    "month": "April 2027"
-  },
-  {
-    "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-technology-icbt-2027-may-pa",
-    "name": "International Conference on Blockchain Technology (ICBT)",
-    "description": "International Conference on Blockchain Technology scheduled on May 13-14, 2027 at Paris, France is for the researchers, scientists, scholars, engineers, academic, scientific and university practitioners to present research activities that might want to attend events, meetings, seminars, congresses, workshops, summit, and symposiums.",
-    "startDate": "2027-05-13T00:00:00.000Z",
-    "endDate": "2027-05-13T00:00:00.000Z",
-    "city": "Paris",
-    "country": "France",
-    "location": "Paris, France",
-    "url": "https://conferenceindex.org/event/international-conference-on-blockchain-technology-icbt-2027-may-paris-fr",
-    "coverImage": null,
-    "source": "conferenceindex",
-    "month": "May 2027"
-  },
-  {
-    "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-technology-icbt-2027-may-be",
-    "name": "International Conference on Blockchain Technology (ICBT)",
-    "description": "International Conference on Blockchain Technology scheduled on May 20-21, 2027 at Berlin, Germany is for the researchers, scientists, scholars, engineers, academic, scientific and university practitioners to present research activities that might want to attend events, meetings, seminars, congresses, workshops, summit, and symposiums.",
-    "startDate": "2027-05-20T00:00:00.000Z",
-    "endDate": "2027-05-20T00:00:00.000Z",
-    "city": "Berlin",
-    "country": "Germany",
-    "location": "Berlin, Germany",
-    "url": "https://conferenceindex.org/event/international-conference-on-blockchain-technology-icbt-2027-may-berlin-de",
-    "coverImage": null,
-    "source": "conferenceindex",
-    "month": "May 2027"
-  },
-  {
-    "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-technology-icbt-2027-may-sy",
-    "name": "International Conference on Blockchain Technology (ICBT)",
-    "description": "International Conference on Blockchain Technology scheduled on May 20-21, 2027 at Sydney, Australia is for the researchers, scientists, scholars, engineers, academic, scientific and university practitioners to present research activities that might want to attend events, meetings, seminars, congresses, workshops, summit, and symposiums.",
-    "startDate": "2027-05-20T00:00:00.000Z",
-    "endDate": "2027-05-20T00:00:00.000Z",
-    "city": "Sydney",
-    "country": "Australia",
-    "location": "Sydney, Australia",
-    "url": "https://conferenceindex.org/event/international-conference-on-blockchain-technology-icbt-2027-may-sydney-au",
-    "coverImage": null,
-    "source": "conferenceindex",
-    "month": "May 2027"
-  },
-  {
-    "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-technology-icbt-2027-may-ba",
-    "name": "International Conference on Blockchain Technology (ICBT)",
-    "description": "International Conference on Blockchain Technology scheduled on May 27-28, 2027 at Barcelona, Spain is for the researchers, scientists, scholars, engineers, academic, scientific and university practitioners to present research activities that might want to attend events, meetings, seminars, congresses, workshops, summit, and symposiums.",
-    "startDate": "2027-05-27T00:00:00.000Z",
-    "endDate": "2027-05-27T00:00:00.000Z",
-    "city": "Barcelona",
-    "country": "Spain",
-    "location": "Barcelona, Spain",
-    "url": "https://conferenceindex.org/event/international-conference-on-blockchain-technology-icbt-2027-may-barcelona-es",
-    "coverImage": null,
-    "source": "conferenceindex",
-    "month": "May 2027"
-  },
-  {
-    "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-technology-icbt-2027-may-ne",
-    "name": "International Conference on Blockchain Technology (ICBT)",
-    "description": "International Conference on Blockchain Technology scheduled on May 27-28, 2027 at New York, United States is for the researchers, scientists, scholars, engineers, academic, scientific and university practitioners to present research activities that might want to attend events, meetings, seminars, congresses, workshops, summit, and symposiums.",
-    "startDate": "2027-05-27T00:00:00.000Z",
-    "endDate": "2027-05-27T00:00:00.000Z",
-    "city": "New York",
-    "country": "United States",
-    "location": "New York, United States",
-    "url": "https://conferenceindex.org/event/international-conference-on-blockchain-technology-icbt-2027-may-new-york-us",
-    "coverImage": null,
-    "source": "conferenceindex",
-    "month": "May 2027"
-  },
-  {
-    "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-technology-icbt-2027-june-t",
-    "name": "International Conference on Blockchain Technology (ICBT)",
-    "description": "International Conference on Blockchain Technology scheduled on June 03-04, 2027 at Tokyo, Japan is for the researchers, scientists, scholars, engineers, academic, scientific and university practitioners to present research activities that might want to attend events, meetings, seminars, congresses, workshops, summit, and symposiums.",
-    "startDate": "2027-06-03T00:00:00.000Z",
-    "endDate": "2027-06-03T00:00:00.000Z",
-    "city": "Tokyo",
-    "country": "Japan",
-    "location": "Tokyo, Japan",
-    "url": "https://conferenceindex.org/event/international-conference-on-blockchain-technology-icbt-2027-june-tokyo-jp",
-    "coverImage": null,
-    "source": "conferenceindex",
-    "month": "June 2027"
-  },
-  {
-    "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-technology-icbt-2027-june-l",
-    "name": "International Conference on Blockchain Technology (ICBT)",
-    "description": "International Conference on Blockchain Technology scheduled on June 10-11, 2027 at Ljubljana, Slovenia is for the researchers, scientists, scholars, engineers, academic, scientific and university practitioners to present research activities that might want to attend events, meetings, seminars, congresses, workshops, summit, and symposiums.",
-    "startDate": "2027-06-10T00:00:00.000Z",
-    "endDate": "2027-06-10T00:00:00.000Z",
-    "city": "Ljubljana",
-    "country": "Slovenia",
-    "location": "Ljubljana, Slovenia",
-    "url": "https://conferenceindex.org/event/international-conference-on-blockchain-technology-icbt-2027-june-ljubljana-si",
-    "coverImage": null,
-    "source": "conferenceindex",
-    "month": "June 2027"
+    "month": "April 2027",
+    "website": "https://waset.org/blockchain-conference-in-april-2027-in-boston?utm_source=conferenceindex&utm_medium=referral&utm_campaign=listing"
   },
   {
     "id": "luma-host-evt-evt-r6tADv4L8KdncKD",
@@ -3603,132 +3408,6 @@
     "coverImage": "/events/luma-host-evt-evt-r6tadv4l8kdnckd-d2dd4ff0.webp",
     "source": "official",
     "month": "June 2027"
-  },
-  {
-    "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-technology-icbt-2027-june-v",
-    "name": "International Conference on Blockchain Technology (ICBT)",
-    "description": "International Conference on Blockchain Technology scheduled on June 17-18, 2027 at Venice, Italy is for the researchers, scientists, scholars, engineers, academic, scientific and university practitioners to present research activities that might want to attend events, meetings, seminars, congresses, workshops, summit, and symposiums.",
-    "startDate": "2027-06-17T00:00:00.000Z",
-    "endDate": "2027-06-17T00:00:00.000Z",
-    "city": "Venice",
-    "country": "Italy",
-    "location": "Venice, Italy",
-    "url": "https://conferenceindex.org/event/international-conference-on-blockchain-technology-icbt-2027-june-venice-it",
-    "coverImage": null,
-    "source": "conferenceindex",
-    "month": "June 2027"
-  },
-  {
-    "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-technology-icbt-2027-june-o",
-    "name": "International Conference on Blockchain Technology (ICBT)",
-    "description": "International Conference on Blockchain Technology scheduled on June 24-25, 2027 at Oslo, Norway is for the researchers, scientists, scholars, engineers, academic, scientific and university practitioners to present research activities that might want to attend events, meetings, seminars, congresses, workshops, summit, and symposiums.",
-    "startDate": "2027-06-24T00:00:00.000Z",
-    "endDate": "2027-06-24T00:00:00.000Z",
-    "city": "Oslo",
-    "country": "Norway",
-    "location": "Oslo, Norway",
-    "url": "https://conferenceindex.org/event/international-conference-on-blockchain-technology-icbt-2027-june-oslo-no",
-    "coverImage": null,
-    "source": "conferenceindex",
-    "month": "June 2027"
-  },
-  {
-    "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-technology-icbt-2027-july-s",
-    "name": "International Conference on Blockchain Technology (ICBT)",
-    "description": "International Conference on Blockchain Technology scheduled on July 01-02, 2027 at Singapore, Singapore is for the researchers, scientists, scholars, engineers, academic, scientific and university practitioners to present research activities that might want to attend events, meetings, seminars, congresses, workshops, summit, and symposiums.",
-    "startDate": "2027-07-01T00:00:00.000Z",
-    "endDate": "2027-07-01T00:00:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Singapore",
-    "url": "https://conferenceindex.org/event/international-conference-on-blockchain-technology-icbt-2027-july-singapore-sg",
-    "coverImage": null,
-    "source": "conferenceindex",
-    "month": "July 2027"
-  },
-  {
-    "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-technology-icbt-2027-july-p",
-    "name": "International Conference on Blockchain Technology (ICBT)",
-    "description": "International Conference on Blockchain Technology scheduled on July 01-02, 2027 at Prague, Czechia is for the researchers, scientists, scholars, engineers, academic, scientific and university practitioners to present research activities that might want to attend events, meetings, seminars, congresses, workshops, summit, and symposiums.",
-    "startDate": "2027-07-01T00:00:00.000Z",
-    "endDate": "2027-07-01T00:00:00.000Z",
-    "city": "Prague",
-    "country": "Czech Republic",
-    "location": "Prague, Czechia",
-    "url": "https://conferenceindex.org/event/international-conference-on-blockchain-technology-icbt-2027-july-prague-cz",
-    "coverImage": null,
-    "source": "conferenceindex",
-    "month": "July 2027"
-  },
-  {
-    "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-technology-icbt-2027-july-c",
-    "name": "International Conference on Blockchain Technology (ICBT)",
-    "description": "International Conference on Blockchain Technology scheduled on July 01-02, 2027 at Corfu, Greece is for the researchers, scientists, scholars, engineers, academic, scientific and university practitioners to present research activities that might want to attend events, meetings, seminars, congresses, workshops, summit, and symposiums.",
-    "startDate": "2027-07-01T00:00:00.000Z",
-    "endDate": "2027-07-01T00:00:00.000Z",
-    "city": "Corfu",
-    "country": "Greece",
-    "location": "Corfu, Greece",
-    "url": "https://conferenceindex.org/event/international-conference-on-blockchain-technology-icbt-2027-july-corfu-gr",
-    "coverImage": null,
-    "source": "conferenceindex",
-    "month": "July 2027"
-  },
-  {
-    "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-technology-icbt-2027-july-t",
-    "name": "International Conference on Blockchain Technology (ICBT)",
-    "description": "International Conference on Blockchain Technology scheduled on July 22-23, 2027 at Tokyo, Japan is for the researchers, scientists, scholars, engineers, academic, scientific and university practitioners to present research activities that might want to attend events, meetings, seminars, congresses, workshops, summit, and symposiums.",
-    "startDate": "2027-07-22T00:00:00.000Z",
-    "endDate": "2027-07-22T00:00:00.000Z",
-    "city": "Tokyo",
-    "country": "Japan",
-    "location": "Tokyo, Japan",
-    "url": "https://conferenceindex.org/event/international-conference-on-blockchain-technology-icbt-2027-july-tokyo-jp",
-    "coverImage": null,
-    "source": "conferenceindex",
-    "month": "July 2027"
-  },
-  {
-    "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-technology-icbt-2027-july-b",
-    "name": "International Conference on Blockchain Technology (ICBT)",
-    "description": "International Conference on Blockchain Technology scheduled on July 22-23, 2027 at Berlin, Germany is for the researchers, scientists, scholars, engineers, academic, scientific and university practitioners to present research activities that might want to attend events, meetings, seminars, congresses, workshops, summit, and symposiums.",
-    "startDate": "2027-07-22T00:00:00.000Z",
-    "endDate": "2027-07-22T00:00:00.000Z",
-    "city": "Berlin",
-    "country": "Germany",
-    "location": "Berlin, Germany",
-    "url": "https://conferenceindex.org/event/international-conference-on-blockchain-technology-icbt-2027-july-berlin-de",
-    "coverImage": null,
-    "source": "conferenceindex",
-    "month": "July 2027"
-  },
-  {
-    "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-technology-icbt-2027-august",
-    "name": "International Conference on Blockchain Technology (ICBT)",
-    "description": "International Conference on Blockchain Technology scheduled on August 05-06, 2027 at Baku, Azerbaijan is for the researchers, scientists, scholars, engineers, academic, scientific and university practitioners to present research activities that might want to attend events, meetings, seminars, congresses, workshops, summit, and symposiums.",
-    "startDate": "2027-08-05T00:00:00.000Z",
-    "endDate": "2027-08-05T00:00:00.000Z",
-    "city": "Baku",
-    "country": "Azerbaijan",
-    "location": "Baku, Azerbaijan",
-    "url": "https://conferenceindex.org/event/international-conference-on-blockchain-technology-icbt-2027-august-baku-az",
-    "coverImage": null,
-    "source": "conferenceindex",
-    "month": "August 2027"
-  },
-  {
-    "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-technology-icbt-2027-septem",
-    "name": "International Conference on Blockchain Technology (ICBT)",
-    "description": "International Conference on Blockchain Technology scheduled on September 06-07, 2027 at Rome, Italy is for the researchers, scientists, scholars, engineers, academic, scientific and university practitioners to present research activities that might want to attend events, meetings, seminars, congresses, workshops, summit, and symposiums.",
-    "startDate": "2027-09-06T00:00:00.000Z",
-    "endDate": "2027-09-06T00:00:00.000Z",
-    "city": "Rome",
-    "country": "Italy",
-    "location": "Rome, Italy",
-    "url": "https://conferenceindex.org/event/international-conference-on-blockchain-technology-icbt-2027-september-rome-it",
-    "coverImage": null,
-    "source": "conferenceindex",
-    "month": "September 2027"
   },
   {
     "id": "token2049-side-6a4fab1c10f84b19adc724c0",
@@ -4309,7 +3988,7 @@
   {
     "id": "token2049-side-6a982b78d567345aad682ccf",
     "name": "zeroxkyle's Frens Hotpot 2",
-    "description": "zeroxkyle's Frens Hotpot 2 is a free community dinner during TOKEN2049 Week Singapore, running October 6 from 1:00 PM to 4:00 PM SGT. See the official event page for the venue and registration.",
+    "description": "Kyle is hosting a small hotpot ahead of TOKEN2049 week in Singapore—a casual dinner for friends he has made over the past five years across trading, founding, and investing.\n\nThe listing on Luma places the event in Singapore; the exact venue is shared after registration. Check the host page on Luma for whether registration is open, closed, or waitlisted, and for any updates from Kyle.",
     "startDate": "2026-10-06T13:00:00+08:00",
     "endDate": "2026-10-06T16:00:00+08:00",
     "city": "Singapore",

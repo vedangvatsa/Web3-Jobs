@@ -4,6 +4,7 @@ import { Web3Event, formatEventLocation, getEventBaseSlug, getEventEcosystems, g
 import { getEventExternalUrl } from './event-external-url';
 import { cleanPublishText } from './noslop';
 import { getEventDisplayCity } from './event-map-locations';
+import { isWasetIcbtDuplicateEvent, WASET_ICBT_SERIES_ID } from './waset-icbt';
 
 // Explicitly blocked promotional posts that are not events
 const BLOCKED_EVENT_IDS = new Set([
@@ -153,7 +154,7 @@ async function assignUniqueEventSlugs(events: Web3Event[]): Promise<Web3Event[]>
   return events.map((event) => {
     // Prefer explicit curated slugs so premier pages keep stable, human URLs.
     const curatedSlug =
-      event.source === 'curated-premier' || event.source === 'luma-crypto'
+      event.source === 'curated-premier' || event.source === 'luma-crypto' || event.source === 'curated-series'
         ? event.slug?.toLowerCase().trim()
         : undefined;
     const baseSlug = curatedSlug || getEventBaseSlug(event);
@@ -166,7 +167,7 @@ async function assignUniqueEventSlugs(events: Web3Event[]): Promise<Web3Event[]>
 }
 
 function isQualityEvent(e: Web3Event): boolean {
-  if (e.source === 'curated-premier' || e.source === 'luma-crypto') return true;
+  if (e.source === 'curated-premier' || e.source === 'luma-crypto' || e.source === 'curated-series') return true;
   // ConferenceIndex listings do not provide a native organizer destination.
   if (e.source === 'conferenceindex') return false;
   const text = `${e.name} ${e.description ?? ''}`;
@@ -187,8 +188,7 @@ function isTruncatedEventDescription(description: string): boolean {
   return false;
 }
 
-// Luma's grey "add a cover photo" placeholder is not real event art;
-// treat it as missing so cards/heroes fall back to the gradient cover.
+// Luma's grey "add a cover photo" placeholder is not real event art; treat as missing (no UI placeholder).
 function isLumaDefaultPlaceholder(img?: string | null): boolean {
   return !!img && /images\.lumacdn\.com\/social-images\/default-\d+\.png/i.test(img);
 }
@@ -351,6 +351,7 @@ async function loadEvents(): Promise<Web3Event[]> {
       if (!e.name || !e.startDate) continue;
       if (e.id.startsWith('side-ibw2026-')) continue;
       if (BLOCKED_EVENT_IDS.has(e.id)) continue;
+      if (isWasetIcbtDuplicateEvent(e)) continue;
       if (/participant list/i.test(e.name)) continue;
       if (!isQualityEvent(e)) continue;
 
@@ -498,10 +499,11 @@ export async function getEventBySlug(slug: string): Promise<Web3Event | null> {
   const LEGACY_SLUG_ALIASES: Record<string, string> = {
     pbw: 'signal-week',
     'paris-blockchain-week': 'signal-week',
+    icbti: 'waset-icbt',
   };
   const aliased = LEGACY_SLUG_ALIASES[normalized];
   if (aliased) {
-    found = events.find(e => getEventSlug(e) === aliased);
+    found = events.find(e => getEventSlug(e) === aliased || e.id === WASET_ICBT_SERIES_ID);
     if (found) return found;
   }
 

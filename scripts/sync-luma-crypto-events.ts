@@ -407,8 +407,16 @@ async function main() {
     return;
   }
 
-  fs.writeFileSync(OUTPUT, `${JSON.stringify(nextEvents, null, 2)}\n`);
-  console.log(`Wrote ${OUTPUT}`);
+  for (const e of nextEvents) {
+    existingById.set(e.id, e);
+  }
+
+  const allEvents = [...existingById.values()].sort(
+    (a, b) => a.startDate.localeCompare(b.startDate) || a.name.localeCompare(b.name),
+  );
+
+  fs.writeFileSync(OUTPUT, `${JSON.stringify(allEvents, null, 2)}\n`);
+  console.log(`Wrote ${OUTPUT} (${allEvents.length} records, ${nextEvents.length} new)`);
 }
 
 main().catch((err) => {
