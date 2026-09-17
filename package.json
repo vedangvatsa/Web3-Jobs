@@ -25,6 +25,7 @@
     "test:event-public-data": "npx tsx scripts/test-event-public-data.ts",
     "optimize:event-covers": "npx tsx scripts/optimize-event-covers.ts",
     "optimize:event-covers:dry": "npx tsx scripts/optimize-event-covers.ts --dry-run",
+    "enrich:event-images": "node scripts/enrich-event-images.mjs",
     "optimize:static-images": "npx tsx scripts/optimize-static-images.ts",
     "optimize:static-images:dry": "npx tsx scripts/optimize-static-images.ts --dry-run",
     "refresh:news": "npx tsx scripts/refresh-news-cache.ts",
