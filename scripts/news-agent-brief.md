@@ -101,6 +101,10 @@ When in doubt, shorter and plainer wins.
   (`python3 -c "from PIL import Image; im=Image.open('<tmp>'); im.thumbnail((1920,1920)); im.convert('RGB').save('public/images/news/<slug>.jpg', quality=88)"`;
   Pillow is pre-installed on the runner — do NOT use `sips`, it exists only
   on macOS and will fail on Linux).
+- COMPRESS the hero before publishing (repo rule, max 350KB):
+  `node scripts/compress-news-image.mjs <downloaded-tmp-file> <slug>`
+  (resizes to 1920px, JPEG q78 mozjpeg; falls back to q75/1600px automatically).
+  Keep PNG only when the image needs transparency.
 - Front matter MUST include:
   image: /images/news/<slug>.jpg
   imageCaption: "<what the photo shows>. Photo: <author> via <source> (<license>)."
