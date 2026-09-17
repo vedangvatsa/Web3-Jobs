@@ -93,21 +93,21 @@ const InvoicePreview = ({ data }: { data: InvoiceFormData }) => {
           )}
         </div>
         <div className="text-right">
-          <h2 className="text-3xl font-bold uppercase text-gray-800 tracking-wider">INVOICE</h2>
+          <h2 className="text-3xl font-bold uppercase text-foreground tracking-wider">INVOICE</h2>
           <p className="text-muted-foreground mt-1">#{data.invoiceNumber || 'INV-001'}</p>
         </div>
       </div>
 
       <div className="grid grid-cols-2 gap-8 mb-10">
         <div>
-          <h3 className="font-semibold text-gray-500 mb-2">From:</h3>
+          <h3 className="font-semibold text-muted-foreground mb-2">From:</h3>
           <p className="font-bold">{data.fromName || 'Your Name'}</p>
           <p>{data.fromAddress || 'Your Address'}</p>
           <p>{data.fromEmail || 'your@email.com'}</p>
           <p>{data.fromPhone}</p>
         </div>
         <div className="text-right">
-           <h3 className="font-semibold text-gray-500 mb-2">Bill To:</h3>
+           <h3 className="font-semibold text-muted-foreground mb-2">Bill To:</h3>
           <p className="font-bold">{data.toName || 'Client Name'}</p>
           <p>{data.toAddress || 'Client Address'}</p>
           <p>{data.toEmail || 'client@email.com'}</p>
@@ -117,23 +117,23 @@ const InvoicePreview = ({ data }: { data: InvoiceFormData }) => {
       
        <div className="grid grid-cols-2 gap-8 mb-8">
         <div className="text-left">
-          <p className="text-sm text-gray-500">Issue Date</p>
+          <p className="text-sm text-muted-foreground">Issue Date</p>
           <p className="font-medium">{data.issueDate ? data.issueDate.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' }) : '-'}</p>
         </div>
          <div className="text-right">
-          <p className="text-sm text-gray-500">Due Date</p>
+          <p className="text-sm text-muted-foreground">Due Date</p>
           <p className="font-medium">{data.dueDate ? data.dueDate.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' }) : '-'}</p>
         </div>
        </div>
 
 
       <table className="w-full mb-8">
-        <thead className="bg-gray-100">
+        <thead className="bg-muted/50">
           <tr>
-            <th className="p-2 text-left font-semibold text-gray-600">Description</th>
-            <th className="p-2 text-center font-semibold text-gray-600">Qty</th>
-            <th className="p-2 text-right font-semibold text-gray-600">Rate</th>
-            <th className="p-2 text-right font-semibold text-gray-600">Total</th>
+            <th className="p-2 text-left font-semibold text-foreground">Description</th>
+            <th className="p-2 text-center font-semibold text-foreground">Qty</th>
+            <th className="p-2 text-right font-semibold text-foreground">Rate</th>
+            <th className="p-2 text-right font-semibold text-foreground">Total</th>
           </tr>
         </thead>
         <tbody>
@@ -151,18 +151,18 @@ const InvoicePreview = ({ data }: { data: InvoiceFormData }) => {
       <div className="flex justify-end mb-8">
         <div className="w-full max-w-xs space-y-2">
           <div className="flex justify-between">
-            <span className="text-gray-500">Subtotal:</span>
+            <span className="text-muted-foreground">Subtotal:</span>
             <span>{currencySymbol}{subtotal.toFixed(2)}</span>
           </div>
            {(data.tax ?? 0) > 0 && (
             <div className="flex justify-between">
-              <span className="text-gray-500">Tax ({data.tax}%):</span>
+              <span className="text-muted-foreground">Tax ({data.tax}%):</span>
               <span>{currencySymbol}{taxAmount.toFixed(2)}</span>
             </div>
           )}
           {(data.discount ?? 0) > 0 && (
             <div className="flex justify-between">
-              <span className="text-gray-500">Discount:</span>
+              <span className="text-muted-foreground">Discount:</span>
               <span>-{currencySymbol}{discountAmount.toFixed(2)}</span>
             </div>
           )}
