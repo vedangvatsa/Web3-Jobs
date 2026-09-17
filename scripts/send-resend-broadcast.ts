@@ -259,8 +259,8 @@ async function main() {
   console.log(`Broadcast target: ${target.label}`);
 
   try {
-    const segmentCount = await countSegmentContacts(apiKey, target.segmentId);
     const minContacts = minSegmentContactsThreshold();
+    const segmentCount = await countSegmentContacts(apiKey, target.segmentId, 3000, minContacts);
     console.log(`Segment subscribers (subscribed): ${segmentCount.toLocaleString()} (min ${minContacts.toLocaleString()})`);
     if (segmentCount === 0) {
       console.error(

@@ -89,11 +89,17 @@ export async function cancelQueuedBroadcast(resendKey: string, broadcastId: stri
   }
 }
 
-/** Paginated subscribed contact count in a segment (for preflight). */
+/**
+ * Paginated subscribed contact count in a segment (for preflight).
+ * Stops early once stopAt is reached: a full 150k-contact walk takes
+ * ~15 min and risks the job timeout; the gate only needs to know the
+ * segment is healthy, not its exact size.
+ */
 export async function countSegmentContacts(
   resendKey: string,
   segmentId: string,
   maxPages = 3000,
+  stopAt = Infinity,
 ): Promise<number> {
   let after: string | undefined;
   let total = 0;
@@ -111,6 +117,7 @@ export async function countSegmentContacts(
     };
     const batch = json.data ?? [];
     total += batch.filter((c) => !c.unsubscribed).length;
+    if (total >= stopAt) return total;
     if (!batch.length || !json.has_more) return total;
     after = batch[batch.length - 1]?.id;
     if (!after) return total;
