@@ -97,6 +97,7 @@ const nextConfig = {
       { source: '/institutional-onchain-rwas-stablecoins', destination: '/institutional', permanent: true },
       { source: '/rayls-in-seoul', destination: '/rayls', permanent: true },
       { source: '/p-s-lisbon', destination: '/ps', permanent: true },
+      { source: '/institutional-onchain2', destination: '/institutional-onchain', permanent: true },
       { source: '/vntr-investor-forum', destination: '/vntr', permanent: true },
       { source: '/ethereum-cypherpunk-congress-mumbai', destination: '/ethereum2', permanent: true },
       { source: '/the-un-banked-conference', destination: '/the', permanent: true },
