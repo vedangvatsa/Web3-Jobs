@@ -1,17 +1,21 @@
 ---
 title: Resume Writing Tips That Get Interviews
 ogTitle: "RESUME WRITING TIPS THAT GET INTERVIEWS"
+image: /images/articles/charts/resume-optimization-framework.svg
 data-ai-hint: resume paper interview
 description: >-
   Learn advanced resume writing tips that will help you stand out and land more
   interviews. Go beyond the basics and craft a truly compelling resume.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-15"
+lastUpdated: "2026-09-17"
 ---
 You've crafted a solid [resume](/how-to-build-a-web3-resume-that-stands-out) that outlines your work experience, education, and skills. However, in a competitive job market, a basic resume often fails to make an impact. To secure interviews for your desired positions, your resume must transform from a simple list of qualifications into a compelling marketing document that highlights your unique value.
 
 If your resume isn't generating the responses you anticipated, consider implementing the following advanced strategies to enhance its effectiveness and help you secure an [interview](/how-to-prepare-for-job-interview).
+
+![Resume Optimization & Interview Conversion Strategy Framework](/images/articles/charts/resume-optimization-framework.svg)
+*Figure 1: Five-step strategy framework for optimizing Web3 resume bullet points, applicant tracking system (ATS) parser alignment, and proof of work verification.*
 
 ### 1. Start with a Compelling "Professional Summary"
 

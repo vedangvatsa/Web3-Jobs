@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 340" role="img" aria-labelledby="rso-title rso-desc">
+<title id="rso-title">Resume Optimization &amp; Interview Conversion Strategy</title>
+<desc id="rso-desc">Framework for tailoring Web3 resumes, optimizing ATS keywords, quantifying achievements, and linking proof of work.</desc>
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;font-size:12px;fill:#334155}
+.header{font-weight:700;fill:#1e293b;font-size:12px}
+.grid{stroke:#e2e8f0}
+.tag1{fill:#3b82f6}.tag2{fill:#10b981}.tag3{fill:#8b5cf6}.tag4{fill:#f59e0b}
+.badge-text{fill:#ffffff !important}
+@media (prefers-color-scheme:dark){
+text{fill:#cbd5e1}.header{fill:#f1f5f9}.grid{stroke:#334155}
+.badge-text{fill:#ffffff !important}
+}
+</style>
+
+<text x="24" y="32" font-weight="700" font-size="15">Resume Optimization &amp; Interview Conversion Strategy</text>
+<text x="24" y="50" font-size="11" fill="#64748b">Five-step tactical blueprint for converting applications into high-paying Web3 offers</text>
+
+<!-- Header -->
+<line class="grid" x1="20" y1="65" x2="760" y2="65"/>
+<text x="28" y="82" class="header">Strategy Component</text>
+<text x="200" y="82" class="header">Execution &amp; Action</text>
+<text x="440" y="82" class="header">Key Outcome</text>
+<text x="660" y="82" class="header">Impact Level</text>
+<line class="grid" x1="20" y1="92" x2="760" y2="92"/>
+
+<!-- Row 1 -->
+<text x="28" y="116" font-weight="600">1. Professional Summary</text>
+<text x="28" y="132" font-size="10" fill="#64748b">Elevator Pitch</text>
+<text x="200" y="116">3-4 sentence value proposition</text>
+<text x="200" y="132" font-size="10" fill="#64748b">Hook recruiters in first 6 seconds</text>
+<text x="440" y="116">Establishes core domain expertise</text>
+<text x="440" y="132" font-size="10" fill="#64748b">Framed around target role</text>
+<rect class="tag1" x="660" y="110" width="85" height="16" rx="4"/>
+<text x="666" y="122" font-size="10" fill="#ffffff" font-weight="700" class="badge-text">High Priority</text>
+
+<!-- Row 2 -->
+<text x="28" y="168" font-weight="600">2. Quantified Metrics</text>
+<text x="28" y="184" font-size="10" fill="#64748b">Empirical Evidence</text>
+<text x="200" y="168">TVL growth, TPS, revenue, team size</text>
+<text x="200" y="184" font-size="10" fill="#64748b">Transform duties to dollar/percent impact</text>
+<text x="440" y="168">Proves tangible business value</text>
+<text x="440" y="184" font-size="10" fill="#64748b">Builds immediate credibility</text>
+<rect class="tag2" x="660" y="162" width="76" height="16" rx="4"/>
+<text x="666" y="174" font-size="10" fill="#ffffff" font-weight="700" class="badge-text">Critical</text>
+
+<!-- Row 3 -->
+<text x="28" y="220" font-weight="600">3. ATS Keyword Parsing</text>
+<text x="28" y="236" font-size="10" fill="#64748b">System Optimization</text>
+<text x="200" y="220">Mirror exact JD skills &amp; tooling</text>
+<text x="200" y="236" font-size="10" fill="#64748b">Clean single-column layout formatting</text>
+<text x="440" y="220">Passes automated screening gates</text>
+<text x="440" y="236" font-size="10" fill="#64748b">Ranks top in applicant tracking</text>
+<rect class="tag1" x="660" y="214" width="85" height="16" rx="4"/>
+<text x="666" y="226" font-size="10" fill="#ffffff" font-weight="700" class="badge-text">High Priority</text>
+
+<!-- Row 4 -->
+<text x="28" y="272" font-weight="600">4. Proof of Work Links</text>
+<text x="28" y="288" font-size="10" fill="#64748b">Verified Artifacts</text>
+<text x="200" y="272">GitHub, Safe contracts, Dune dashboards</text>
+<text x="200" y="288" font-size="10" fill="#64748b">Link live mainnet deployments</text>
+<text x="440" y="272">Bypasses initial technical screen</text>
+<text x="440" y="288" font-size="10" fill="#64748b">Direct code &amp; analytics verification</text>
+<rect class="tag3" x="660" y="266" width="82" height="16" rx="4"/>
+<text x="666" y="278" font-size="10" fill="#ffffff" font-weight="700" class="badge-text">High Signal</text>
+
+<line class="grid" x1="20" y1="306" x2="760" y2="306"/>
+</svg>
