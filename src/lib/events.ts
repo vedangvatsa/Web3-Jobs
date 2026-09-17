@@ -691,6 +691,11 @@ export function getEventEditorialGuide(event: Web3Event): EventEditorialArticle 
   const rawDescription = (event.description || '').trim();
   const ownDescription =
     rawDescription && !isThinEventListingDescription(rawDescription) ? rawDescription : '';
+  // Evening socials (parties, dinners, mixers) often trip the conference
+  // keyword match ("conference-floor"); detect them directly so the guide
+  // never describes a party as keynotes and panels.
+  const socialText = `${event.name} ${rawDescription}`.toLowerCase();
+  const isSocial = !isHackathon && /\b(afterparty|after-party|after party|\bparty\b|dinner|gala|mixer|breakfast|brunch|drinks|cocktails?|reception|celebration|soir[eé]e|banquet|luncheon|happy hour|closing (party|night)|after-party)\b/.test(socialText);
 
   // 1. Overview & Context Section
   const baseOverview = `${event.name} is scheduled for ${formattedDates} ${locationStr}, bringing together Web3 participants, builders, and ecosystem contributors.`;
@@ -703,7 +708,9 @@ export function getEventEditorialGuide(event: Web3Event): EventEditorialArticle 
         .filter((p) => p.length > 0)
     : [];
 
-  const eventRoleContext = isHackathon
+  const eventRoleContext = isSocial
+    ? `Organized as an evening social rather than a conference program, the gathering centers on food, drinks, and unstructured conversation with founders, builders, investors, and ecosystem operators. Expect introductions and relationship-building over presentations.`
+    : isHackathon
     ? `As a hackathon, the gathering is structured around active development, prototyping, and mentor-guided building sprints. Teams collaborate under time constraints to design, write smart contracts, and demonstrate functional decentralized applications or infrastructure components.`
     : isConference
       ? `As a full-scale conference, the program features keynote presentations, panel debates, technical briefings, and exhibition spaces. Attendees connect across institutional allocators, core protocol teams, and emerging startups operating at the forefront of digital asset innovation.`
@@ -761,7 +768,9 @@ export function getEventEditorialGuide(event: Web3Event): EventEditorialArticle 
     ? `The agenda touches directly on core engineering and business themes across ${ecoStr}. Participants explore ${formattedFocusList}.`
     : `The program encompasses modern blockchain infrastructure, decentralized software architecture, cryptographic validation, and practical Web3 deployment patterns across distributed networks.`;
 
-  const technicalFocusBody = isHackathon
+  const technicalFocusBody = isSocial
+    ? `Conversation ranges across whatever guests are building and backing: protocol launches, fund theses, hiring needs, and ecosystem gossip that never reaches a stage. The value is who is in the room, so skim the co-hosts and sponsors to decide if your people will be there.`
+    : isHackathon
     ? `Builders have opportunities to stress-test frameworks, submit working prototypes to judging panels, and exchange feedback with protocol maintainers. Focus tracks frequently center on user experience improvements, composable protocol layers, and verifiable on-chain mechanics.`
     : isConference
       ? `Discussions focus on both technical architecture and institutional adoption. Panelists dissect regulatory trajectories, custody infrastructure, and what production-grade throughput looks like across decentralized networks.`
@@ -794,13 +803,17 @@ export function getEventEditorialGuide(event: Web3Event): EventEditorialArticle 
     : `Attendees traveling to ${cityName || 'the venue'} should secure hotel reservations and review local transit options well in advance of ${formattedDates}, as accommodations near major conference corridors book quickly during busy event cycles.`;
 
   // 4. Participation & Planning Notes
-  const participationNotes = isHackathon
+  const participationNotes = isSocial
+    ? 'Entry is typically RSVP or guest-list based with limited capacity, so register early and arrive on time. Dress codes and plus-one rules vary by host; check the event page before heading over.'
+    : isHackathon
     ? 'Participants should ensure their development environments, repository access, dependency setups, and team configurations are finalized before the official kickoff. Review official project submission guidelines, judging criteria, and mentor office hour schedules to maximize your project demonstration impact.'
     : isConference
       ? 'Attendees should confirm entry credentials, ticket barcodes, and registration confirmations through the official organizer portal prior to arrival. Reviewing published speaker schedules and satellite side-event calendars in advance helps maximize high-value hallway discussions, technical roundtables, and ecosystem networking sessions.'
       : 'RSVPs and registration passes are typically required due to venue capacity limitations and security protocols. Arriving early during registration check-in is recommended to guarantee admission and connect with fellow community members, protocol engineers, and ecosystem operators.';
 
-  const networkingAdvice = isHackathon
+  const networkingAdvice = isSocial
+    ? 'Evening events reward working the room over collecting contacts: a few real conversations beat a stack of scanned badges. Eat first, introduce people to each other, and follow up the next morning while names are fresh.'
+    : isHackathon
     ? 'Hackathons provide a high-signal environment to meet co-founders, protocol developer advocates, and potential grant program evaluators. Engage with protocol mentors circulating through the hacking floor for architectural advice, debugging support, and bounty clarification.'
     : isConference
       ? 'Beyond the keynote stages, major conferences serve as the primary venue where strategic partnerships, venture financing, and cross-chain integrations are initiated. Take advantage of dedicated networking lounges, exhibition demo booths, and side-event forums.'
