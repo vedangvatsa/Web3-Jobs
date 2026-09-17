@@ -42,7 +42,7 @@
     "link": "https://stripe.com/jobs/search?gh_jid=8190416",
     "date": "2026-09-17T04:29:07-04:00",
     "source": "Greenhouse: Stripe [stripe]",
-    "location": "New York ",
+    "location": "New York",
     "department": "1642 Product Sales - MaaS",
     "active": true,
     "slug": "pm44"
@@ -713,7 +713,7 @@
     "link": "https://job-boards.greenhouse.io/breezecash/jobs/5426219008",
     "date": "2026-09-16T15:35:14-04:00",
     "source": "Greenhouse: Breeze Cash [breezecash]",
-    "location": "Sofia Bulgaria ",
+    "location": "Sofia Bulgaria",
     "department": "Legal, Compliance & Risk",
     "active": true,
     "slug": "ops18"
@@ -725,7 +725,7 @@
     "link": "https://job-boards.greenhouse.io/breezecash/jobs/5426182008",
     "date": "2026-09-16T15:27:54-04:00",
     "source": "Greenhouse: Breeze Cash [breezecash]",
-    "location": "New York City ",
+    "location": "New York City",
     "department": "Go To Market ",
     "active": true,
     "slug": "sls44"
@@ -845,7 +845,7 @@
     "link": "https://job-boards.greenhouse.io/alpaca/jobs/6194973004",
     "date": "2026-09-16T13:34:21-04:00",
     "source": "Greenhouse: Alpaca [alpaca]",
-    "location": "Remote - Americas ",
+    "location": "Remote - Americas",
     "department": "Engineering",
     "active": true,
     "slug": "eng80"
@@ -1253,7 +1253,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8810604002?gh_jid=8810604002",
     "date": "2026-09-16T09:12:13-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "Hong Kong, Hong Kong",
+    "location": "Hong Kong",
     "department": "Cybersecurity",
     "active": true,
     "slug": "sec15"
@@ -1481,7 +1481,7 @@
     "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4977307101",
     "date": "2026-09-16T04:16:01-04:00",
     "source": "Greenhouse: Bitpanda [bitpanda]",
-    "location": "Paris, Paris, France",
+    "location": "Paris, France",
     "department": "Operations & Customer Service",
     "active": true,
     "slug": "psaf"
@@ -1589,7 +1589,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7799516003",
     "date": "2026-09-16T00:46:20-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Australia; Sydney, New South Wales, Australia",
+    "location": "Sydney, New South Wales, Australia",
     "department": "Strategic Markets",
     "active": true,
     "slug": "cda"
@@ -1661,7 +1661,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7996702003",
     "date": "2026-09-15T23:09:17-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Product Management",
     "active": true,
     "slug": "ops16"
@@ -1709,7 +1709,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7996698003",
     "date": "2026-09-15T22:46:39-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Product Management",
     "active": true,
     "slug": "pm31"
@@ -1721,7 +1721,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7996697003",
     "date": "2026-09-15T22:45:59-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Product Management",
     "active": true,
     "slug": "pm30"
@@ -1769,7 +1769,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7984217003",
     "date": "2026-09-15T22:03:42-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR; Singapore, Singapore",
+    "location": "Hong Kong; Singapore",
     "department": "Product Management",
     "active": true,
     "slug": "pm28"
@@ -2054,7 +2054,7 @@
     "link": "https://job-boards.greenhouse.io/alpaca/jobs/6187272004",
     "date": "2026-09-15T16:57:15-04:00",
     "source": "Greenhouse: Alpaca [alpaca]",
-    "location": "Remote - America ",
+    "location": "Remote - America",
     "department": "Finance",
     "active": true,
     "slug": "tax8"
@@ -2895,7 +2895,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8783529002?gh_jid=8783529002",
     "date": "2026-09-14T23:26:56-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "Hong Kong, Hong Kong",
+    "location": "Hong Kong",
     "department": "Real Estate Engineering",
     "active": true,
     "slug": "eng41"
@@ -3232,7 +3232,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8807307002?gh_jid=8807307002",
     "date": "2026-09-14T16:55:51-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Legal and Compliance",
     "active": true,
     "slug": "crs"
@@ -3748,7 +3748,7 @@
     "link": "https://job-boards.greenhouse.io/alpaca/jobs/6184934004",
     "date": "2026-09-14T09:26:03-04:00",
     "source": "Greenhouse: Alpaca [alpaca]",
-    "location": "Remote - Americas ",
+    "location": "Remote - Americas",
     "department": "Sales",
     "active": true,
     "slug": "eng25"
@@ -4180,7 +4180,7 @@
     "link": "https://stripe.com/jobs/search?gh_jid=8195483",
     "date": "2026-09-14T06:02:54-04:00",
     "source": "Greenhouse: Stripe [stripe]",
-    "location": "Dublin ",
+    "location": "Dublin",
     "department": "1520 Sales Operations (SS&O)",
     "active": true,
     "slug": "ops6"
@@ -4799,7 +4799,7 @@
     "link": "https://stripe.com/jobs/search?gh_jid=8175633",
     "date": "2026-09-11T15:24:59-04:00",
     "source": "Greenhouse: Stripe [stripe]",
-    "location": "San Francisco, CA ",
+    "location": "San Francisco, CA",
     "department": "1150 Solutions Architecture",
     "active": true,
     "slug": "manager759"
@@ -4943,7 +4943,7 @@
     "link": "https://job-boards.greenhouse.io/alpaca/jobs/6187326004",
     "date": "2026-09-11T13:18:22-04:00",
     "source": "Greenhouse: Alpaca [alpaca]",
-    "location": "Remote - North America ",
+    "location": "Remote - North America",
     "department": "Product",
     "active": true,
     "slug": "product642"
@@ -5457,7 +5457,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7992250003",
     "date": "2026-09-11T03:32:32-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Product Design",
     "active": true,
     "slug": "designer44"
@@ -5469,7 +5469,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7992244003",
     "date": "2026-09-11T03:24:59-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Product Design",
     "active": true,
     "slug": "product638"
@@ -5481,7 +5481,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7992242003",
     "date": "2026-09-11T03:10:08-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Product Design",
     "active": true,
     "slug": "product637"
@@ -5693,7 +5693,7 @@
     "link": "https://everstake.bamboohr.com/careers/59",
     "date": "2026-09-11",
     "source": "BambooHR: Everstake [everstake]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Go-to-Market",
     "active": true,
     "slug": "manager750"
@@ -5741,7 +5741,7 @@
     "link": "https://stripe.com/jobs/search?gh_jid=8165278",
     "date": "2026-09-10T19:02:20-04:00",
     "source": "Greenhouse: Stripe [stripe]",
-    "location": "Seattle, San Francisco ",
+    "location": "Seattle, San Francisco",
     "department": "6420 Accounting",
     "active": true,
     "slug": "manager748"
@@ -6005,7 +6005,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8746100002?gh_jid=8746100002",
     "date": "2026-09-10T13:44:09-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Banking",
     "active": true,
     "slug": "banking"
@@ -6306,7 +6306,7 @@
     "link": "https://job-boards.eu.greenhouse.io/straitsx/jobs/4972997101",
     "date": "2026-09-10T07:14:32-04:00",
     "source": "Greenhouse: StraitsX [straitsx]",
-    "location": "Kuala Lumpur, Kuala Lumpur, Malaysia",
+    "location": "Kuala Lumpur, Malaysia",
     "department": "STX - Commercial",
     "active": true,
     "slug": "manager735"
@@ -6414,7 +6414,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7990945003",
     "date": "2026-09-10T05:41:50-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Finance Department",
     "active": true,
     "slug": "manager733"
@@ -6534,7 +6534,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7990868003",
     "date": "2026-09-10T03:33:27-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Engineering",
     "active": true,
     "slug": "trader120"
@@ -6558,7 +6558,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7990820003",
     "date": "2026-09-10T01:46:33-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR; Singapore, Singapore",
+    "location": "Hong Kong; Singapore",
     "department": "Compliance",
     "active": true,
     "slug": "product631"
@@ -6594,7 +6594,7 @@
     "link": "https://stripe.com/jobs/search?gh_jid=8174965",
     "date": "2026-09-09T20:41:43-04:00",
     "source": "Greenhouse: Stripe [stripe]",
-    "location": "US Remote ",
+    "location": "US Remote",
     "department": "8611 Security Analytics",
     "active": true,
     "slug": "security257"
@@ -7243,7 +7243,7 @@
     "link": "https://stripe.com/jobs/search?gh_jid=8181024",
     "date": "2026-09-09T12:47:02-04:00",
     "source": "Greenhouse: Stripe [stripe]",
-    "location": "Chicago, Seattle, NYC, San Francisco, Remote ",
+    "location": "Chicago, Seattle, NYC, San Francisco, Remote",
     "department": "1640 Product Sales - Payments",
     "active": true,
     "slug": "product624"
@@ -7483,7 +7483,7 @@
     "link": "https://job-boards.greenhouse.io/alpaca/jobs/6167239004",
     "date": "2026-09-09T08:11:29-04:00",
     "source": "Greenhouse: Alpaca [alpaca]",
-    "location": "Remote - Americas ",
+    "location": "Remote - Americas",
     "department": "Data Engineering",
     "active": true,
     "slug": "engineer1017"
@@ -8576,7 +8576,7 @@
     "link": "https://job-boards.greenhouse.io/alpaca/jobs/6175220004",
     "date": "2026-09-08T12:19:55-04:00",
     "source": "Greenhouse: Alpaca [alpaca]",
-    "location": "Remote - North America ",
+    "location": "Remote - North America",
     "department": "Sales",
     "active": true,
     "slug": "sales402"
@@ -8612,7 +8612,7 @@
     "link": "https://stripe.com/jobs/search?gh_jid=8178881",
     "date": "2026-09-08T11:55:39-04:00",
     "source": "Greenhouse: Stripe [stripe]",
-    "location": "Chicago, IL ",
+    "location": "Chicago, IL",
     "department": "1175 Enterprise - Account Executives (NA)",
     "active": true,
     "slug": "marketing255"
@@ -8852,7 +8852,7 @@
     "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4969921101",
     "date": "2026-09-08T08:12:18-04:00",
     "source": "Greenhouse: Bitpanda [bitpanda]",
-    "location": "Vienna, Vienna, Austria",
+    "location": "Vienna, Austria",
     "department": "Commercial, Marketing & Comms",
     "active": true,
     "slug": "product613"
@@ -8886,7 +8886,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7988766003",
     "date": "2026-09-08T06:26:30-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Product Management",
     "active": true,
     "slug": "product612"
@@ -8934,7 +8934,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7988635003",
     "date": "2026-09-08T03:23:17-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Engineering",
     "active": true,
     "slug": "engineer991"
@@ -9006,7 +9006,7 @@
     "link": "https://job-boards.greenhouse.io/alpaca/jobs/6161890004",
     "date": "2026-09-07T22:45:36-04:00",
     "source": "Greenhouse: Alpaca [alpaca]",
-    "location": "Remote ",
+    "location": "Remote",
     "department": "Brokerage",
     "active": true,
     "slug": "operations159"
@@ -9261,7 +9261,7 @@
     "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4969789101",
     "date": "2026-09-07T07:59:41-04:00",
     "source": "Greenhouse: Bitpanda [bitpanda]",
-    "location": "Vienna, Vienna, Austria",
+    "location": "Vienna, Austria",
     "department": "Operations & Customer Service",
     "active": true,
     "slug": "associate99"
@@ -9297,7 +9297,7 @@
     "link": "https://job-boards.eu.greenhouse.io/straitsx/jobs/4938123101",
     "date": "2026-09-07T07:33:05-04:00",
     "source": "Greenhouse: StraitsX [straitsx]",
-    "location": "Jakarta, Jakarta, Indonesia",
+    "location": "Jakarta, Indonesia",
     "department": "STX - Operations",
     "active": true,
     "slug": "product611"
@@ -9441,7 +9441,7 @@
     "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4959756101",
     "date": "2026-09-07T03:08:56-04:00",
     "source": "Greenhouse: Bitpanda [bitpanda]",
-    "location": "Vienna, Vienna, Austria",
+    "location": "Vienna, Austria",
     "department": "R&D",
     "active": true,
     "slug": "intern25"
@@ -10922,7 +10922,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7983459003",
     "date": "2026-09-04T14:23:42-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Budapest, Budapest, Hungary",
+    "location": "Budapest, Hungary",
     "department": "Strategic Markets",
     "active": true,
     "slug": "manager685"
@@ -11054,7 +11054,7 @@
     "link": "https://stripe.com/jobs/search?gh_jid=8172491",
     "date": "2026-09-04T11:26:03-04:00",
     "source": "Greenhouse: Stripe [stripe]",
-    "location": "US Remote ",
+    "location": "US Remote",
     "department": "8611 Security Analytics",
     "active": true,
     "slug": "investigator2"
@@ -11234,7 +11234,7 @@
     "link": "https://jobs.lever.co/coins/4f0c6cd9-e9e7-401a-99d6-f54e6f59a6ca",
     "date": "2026-09-04T09:48:52.221Z",
     "source": "Lever: Coins.ph [coins]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Finance",
     "active": true,
     "slug": "manager682"
@@ -17329,7 +17329,7 @@
     "link": "https://complyadvantage.com/careers/jobs/8781414002?gh_jid=8781414002",
     "date": "2026-09-03T17:37:42-04:00",
     "source": "Greenhouse: ComplyAdvantage [complyadvantage]",
-    "location": "New York, New York, United States; North Carolina, United States",
+    "location": "New York, United States; North Carolina, United States",
     "department": "Marketing",
     "active": true,
     "slug": "e2"
@@ -17353,7 +17353,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8782908002?gh_jid=8782908002",
     "date": "2026-09-03T17:00:17-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Creative Engagement",
     "active": true,
     "slug": "manager633"
@@ -18025,7 +18025,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7985107003",
     "date": "2026-09-03T03:00:41-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Product Management",
     "active": true,
     "slug": "product568"
@@ -18109,7 +18109,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7985087003",
     "date": "2026-09-03T00:15:30-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Product Design",
     "active": true,
     "slug": "product565"
@@ -18121,7 +18121,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7985080003",
     "date": "2026-09-02T23:51:59-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Strategic Markets",
     "active": true,
     "slug": "manager620"
@@ -18385,7 +18385,7 @@
     "link": "https://a16z.com/about/jobs/?gh_jid=7982026003",
     "date": "2026-09-02T17:29:26-04:00",
     "source": "Greenhouse: a16z [a16z]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Crypto",
     "active": true,
     "slug": "associate86"
@@ -18781,7 +18781,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8675914002?gh_jid=8675914002",
     "date": "2026-09-02T08:59:51-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "IT and Systems Engineering",
     "active": true,
     "slug": "procurement5"
@@ -18805,7 +18805,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8773051002?gh_jid=8773051002",
     "date": "2026-09-02T08:51:37-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "Hong Kong, Hong Kong",
+    "location": "Hong Kong",
     "department": "Recruiting",
     "active": true,
     "slug": "recruiting94"
@@ -18841,7 +18841,7 @@
     "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4966607101",
     "date": "2026-09-02T07:58:27-04:00",
     "source": "Greenhouse: Bitpanda [bitpanda]",
-    "location": "Vienna, Vienna, Austria",
+    "location": "Vienna, Austria",
     "department": "Engineering & Technology",
     "active": true,
     "slug": "security238"
@@ -18949,7 +18949,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7984224003",
     "date": "2026-09-02T06:31:08-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Product Design",
     "active": true,
     "slug": "product559"
@@ -18997,7 +18997,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7984213003",
     "date": "2026-09-02T05:09:50-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Strategic Markets",
     "active": true,
     "slug": "marketing215"
@@ -19069,7 +19069,7 @@
     "link": "https://careers.sagalegal.io/o/account-executive-legal-ai-nordics",
     "date": "2026-09-02 07:37:50 UTC",
     "source": "Recruitee: Saga [saga]",
-    "location": "Oslo, Oslo, Norway",
+    "location": "Oslo, Norway",
     "department": null,
     "active": true,
     "slug": "compliance155"
@@ -20240,7 +20240,7 @@
     "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4951483101",
     "date": "2026-09-01T03:54:07-04:00",
     "source": "Greenhouse: Bitpanda [bitpanda]",
-    "location": "Vienna, Vienna, Austria",
+    "location": "Vienna, Austria",
     "department": "Other",
     "active": true,
     "slug": "associate84"
@@ -21168,7 +21168,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8733113002?gh_jid=8733113002",
     "date": "2026-08-30T22:52:25-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "Hong Kong, Hong Kong",
+    "location": "Hong Kong",
     "department": "Legal and Compliance",
     "active": true,
     "slug": "compliance146"
@@ -21321,7 +21321,7 @@
     "link": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=8164166&gh_jid=8164166",
     "date": "2026-08-30T11:24:33-04:00",
     "source": "Greenhouse: Gemini [gemini]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Invest / Trade",
     "active": true,
     "slug": "fullstack53"
@@ -21747,7 +21747,7 @@
     "link": "https://stripe.com/jobs/search?gh_jid=8164479",
     "date": "2026-08-28T13:29:15-04:00",
     "source": "Greenhouse: Stripe [stripe]",
-    "location": "New York, NY ",
+    "location": "New York, NY",
     "department": "Global Operations",
     "active": true,
     "slug": "product544"
@@ -22083,7 +22083,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7795765003",
     "date": "2026-08-28T04:04:06-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Engineering",
     "active": true,
     "slug": "security228"
@@ -22119,7 +22119,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7552818003",
     "date": "2026-08-27T23:45:04-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Product Management",
     "active": true,
     "slug": "product539"
@@ -22269,7 +22269,7 @@
     "link": "https://bitcoin.bamboohr.com/careers/45",
     "date": "2026-08-28",
     "source": "BambooHR: Bitcoin.com [bitcoin]",
-    "location": "Malta, Malta, Malta",
+    "location": "Malta, Malta",
     "department": "Media Sales",
     "active": true,
     "slug": "analyst147"
@@ -22711,7 +22711,7 @@
     "link": "https://job-boards.greenhouse.io/alpaca/jobs/6162099004",
     "date": "2026-08-27T12:54:17-04:00",
     "source": "Greenhouse: Alpaca [alpaca]",
-    "location": "Remote - Americas ",
+    "location": "Remote - Americas",
     "department": "Engineering",
     "active": true,
     "slug": "team2"
@@ -22963,7 +22963,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7978927003",
     "date": "2026-08-26T23:17:07-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Engineering",
     "active": true,
     "slug": "marketing204"
@@ -23409,7 +23409,7 @@
     "link": "https://stripe.com/jobs/search?gh_jid=8154531",
     "date": "2026-08-26T15:13:50-04:00",
     "source": "Greenhouse: Stripe [stripe]",
-    "location": "Seattle, San Francisco, New York, Chicago ",
+    "location": "Seattle, San Francisco, New York, Chicago",
     "department": "6453 MaaS F&S",
     "active": true,
     "slug": "head70"
@@ -23889,7 +23889,7 @@
     "link": "https://stripe.com/jobs/search?gh_jid=8102597",
     "date": "2026-08-26T05:59:47-04:00",
     "source": "Greenhouse: Stripe [stripe]",
-    "location": "Bangalore ",
+    "location": "Bangalore",
     "department": "3313 SDC - Financial Crimes",
     "active": true,
     "slug": "operations124"
@@ -23925,7 +23925,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7977917003",
     "date": "2026-08-26T04:54:42-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Product Management",
     "active": true,
     "slug": "product522"
@@ -23937,7 +23937,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7977916003",
     "date": "2026-08-26T04:54:08-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Product Management",
     "active": true,
     "slug": "product521"
@@ -23949,7 +23949,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7977905003",
     "date": "2026-08-26T04:41:20-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Product Management",
     "active": true,
     "slug": "product520"
@@ -23961,7 +23961,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7977904003",
     "date": "2026-08-26T04:40:09-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Product Management",
     "active": true,
     "slug": "product519"
@@ -24532,7 +24532,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7977145003",
     "date": "2026-08-25T16:56:39-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "San Jose, California, United States; United States (US)",
+    "location": "San Jose, California, United States",
     "department": "Human Resources",
     "active": true,
     "slug": "recruiting78"
@@ -24772,7 +24772,7 @@
     "link": "https://job-boards.greenhouse.io/alpaca/jobs/6146873004",
     "date": "2026-08-25T13:55:38-04:00",
     "source": "Greenhouse: Alpaca [alpaca]",
-    "location": "Dubai, Abu Dhabi, Riyadh ",
+    "location": "Dubai, Abu Dhabi, Riyadh",
     "department": "Sales",
     "active": true,
     "slug": "sales338"
@@ -25048,7 +25048,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7974408003",
     "date": "2026-08-25T11:00:21-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Crypto Ecosystem Development",
     "active": true,
     "slug": "marketing199"
@@ -25072,7 +25072,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7974390003",
     "date": "2026-08-25T10:53:51-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Crypto Ecosystem Development",
     "active": true,
     "slug": "marketing198"
@@ -25216,7 +25216,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7971851003",
     "date": "2026-08-25T06:11:01-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Admin Department",
     "active": true,
     "slug": "receptionist"
@@ -25348,7 +25348,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7970789003",
     "date": "2026-08-25T02:51:03-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Legal",
     "active": true,
     "slug": "deputy6"
@@ -25360,7 +25360,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7969747003",
     "date": "2026-08-25T02:49:13-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Legal",
     "active": true,
     "slug": "deputy5"
@@ -25526,7 +25526,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7966539003",
     "date": "2026-08-24T19:20:33-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "San Jose, California, United States; United States (US)",
+    "location": "San Jose, California, United States",
     "department": "Finance Department",
     "active": true,
     "slug": "analyst136"
@@ -25622,7 +25622,7 @@
     "link": "https://complyadvantage.com/careers/jobs/8743285002?gh_jid=8743285002",
     "date": "2026-08-24T16:58:37-04:00",
     "source": "Greenhouse: ComplyAdvantage [complyadvantage]",
-    "location": "Austin, Texas, United States; California, United States; Chicago, Illinois, United States; Dallas, Texas, United States; Denver, Colorado, United States; New York, New York, United States; North Carolina, United States; Washington, United States",
+    "location": "Austin, Texas, United States; California, United States; Chicago, Illinois, United States; Dallas, Texas, United States; Denver, Colorado, United States; New York, United States; North Carolina, United States; Washington, United States",
     "department": "Marketing",
     "active": true,
     "slug": "marketing196"
@@ -25778,7 +25778,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8675822002?gh_jid=8675822002",
     "date": "2026-08-24T13:20:06-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "IT and Systems Engineering",
     "active": true,
     "slug": "engineer833"
@@ -25790,7 +25790,7 @@
     "link": "https://job-boards.greenhouse.io/hut8/jobs/5399792008",
     "date": "2026-08-24T13:14:29-04:00",
     "source": "Greenhouse: Hut 8 [hut8]",
-    "location": "Miami, FL / Corpus Christi, TX ",
+    "location": "Miami, FL / Corpus Christi, TX",
     "department": "Engineering, Procurement, and Construction",
     "active": true,
     "slug": "manager529"
@@ -25802,7 +25802,7 @@
     "link": "https://job-boards.greenhouse.io/hut8/jobs/5399546008",
     "date": "2026-08-24T13:09:34-04:00",
     "source": "Greenhouse: Hut 8 [hut8]",
-    "location": "St. Francisville, LA ",
+    "location": "St. Francisville, LA",
     "department": "Engineering, Procurement, and Construction",
     "active": true,
     "slug": "superintendent4"
@@ -25826,7 +25826,7 @@
     "link": "https://job-boards.greenhouse.io/hut8/jobs/5399578008",
     "date": "2026-08-24T13:08:46-04:00",
     "source": "Greenhouse: Hut 8 [hut8]",
-    "location": "Miami, FL / Corpus Christi, TX ",
+    "location": "Miami, FL / Corpus Christi, TX",
     "department": "Engineering, Procurement, and Construction",
     "active": true,
     "slug": "manager528"
@@ -26006,7 +26006,7 @@
     "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4959025101",
     "date": "2026-08-24T07:54:21-04:00",
     "source": "Greenhouse: Bitpanda [bitpanda]",
-    "location": "Vienna, Vienna, Austria",
+    "location": "Vienna, Austria",
     "department": "Product & Design",
     "active": true,
     "slug": "product510"
@@ -26066,7 +26066,7 @@
     "link": "https://job-boards.eu.greenhouse.io/straitsx/jobs/4958915101",
     "date": "2026-08-24T06:02:34-04:00",
     "source": "Greenhouse: StraitsX [straitsx]",
-    "location": "Jakarta, Jakarta, Indonesia",
+    "location": "Jakarta, Indonesia",
     "department": "STX - Engineering",
     "active": true,
     "slug": "engineer829"
@@ -26078,7 +26078,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7960057003",
     "date": "2026-08-24T05:45:45-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Northeast Asia (Remote) ",
+    "location": "Northeast Asia (Remote)",
     "department": "Strategic Markets",
     "active": true,
     "slug": "marketing193"
@@ -26090,7 +26090,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7883615003",
     "date": "2026-08-24T05:42:28-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Strategic Markets",
     "active": true,
     "slug": "marketing192"
@@ -26102,7 +26102,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7883614003",
     "date": "2026-08-24T05:41:49-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Strategic Markets",
     "active": true,
     "slug": "marketing191"
@@ -26417,7 +26417,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7941620003",
     "date": "2026-08-22T13:40:41-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Crypto Ecosystem Development",
     "active": true,
     "slug": "marketing190"
@@ -26969,7 +26969,7 @@
     "link": "https://stripe.com/jobs/search?gh_jid=8143563",
     "date": "2026-08-21T09:35:21-04:00",
     "source": "Greenhouse: Stripe [stripe]",
-    "location": "Dublin, Ireland ",
+    "location": "Dublin, Ireland",
     "department": "4900 Support Eng & PM",
     "active": true,
     "slug": "product501"
@@ -27286,7 +27286,7 @@
     "link": "https://bitcoin.bamboohr.com/careers/42",
     "date": "2026-08-21",
     "source": "BambooHR: Bitcoin.com [bitcoin]",
-    "location": "Poland, Poland, Poland",
+    "location": "Poland, Poland",
     "department": "HR, Administrative & Legal",
     "active": true,
     "slug": "compliance125"
@@ -27358,7 +27358,7 @@
     "link": "https://a16z.com/about/jobs/?gh_jid=7814393003",
     "date": "2026-08-20T17:50:54-04:00",
     "source": "Greenhouse: a16z [a16z]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "American Dynamism",
     "active": true,
     "slug": "associate67"
@@ -27814,7 +27814,7 @@
     "link": "https://www.fireblocks.com/careers/position?gh_jid=4705808006",
     "date": "2026-08-20T07:22:08-04:00",
     "source": "Greenhouse: Fireblocks [fireblocks]",
-    "location": "Berlin, Berlin, Germany",
+    "location": "Berlin, Germany",
     "department": "Sales",
     "active": true,
     "slug": "sales318"
@@ -27862,7 +27862,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7913915003",
     "date": "2026-08-20T05:36:06-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Australia; Sydney, New South Wales, Australia",
+    "location": "Sydney, New South Wales, Australia",
     "department": "Strategic Markets",
     "active": true,
     "slug": "marketing183"
@@ -28143,7 +28143,7 @@
     "link": "https://job-boards.greenhouse.io/hut8/jobs/5395526008",
     "date": "2026-08-19T17:45:30-04:00",
     "source": "Greenhouse: Hut 8 [hut8]",
-    "location": "St. Francisville, LA ",
+    "location": "St. Francisville, LA",
     "department": "Engineering, Procurement, and Construction",
     "active": true,
     "slug": "superintendent3"
@@ -28191,7 +28191,7 @@
     "link": "https://job-boards.greenhouse.io/hut8/jobs/5396113008",
     "date": "2026-08-19T17:44:03-04:00",
     "source": "Greenhouse: Hut 8 [hut8]",
-    "location": "St. Francisville, LA & Corpus Christi, TX ",
+    "location": "St. Francisville, LA & Corpus Christi, TX",
     "department": "Managed Services",
     "active": true,
     "slug": "mechanical"
@@ -28203,7 +28203,7 @@
     "link": "https://job-boards.greenhouse.io/hut8/jobs/5396177008",
     "date": "2026-08-19T17:43:53-04:00",
     "source": "Greenhouse: Hut 8 [hut8]",
-    "location": "Corpus Christi, TX ",
+    "location": "Corpus Christi, TX",
     "department": "Engineering, Procurement, and Construction",
     "active": true,
     "slug": "manager509"
@@ -28251,7 +28251,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8631912002?gh_jid=8631912002",
     "date": "2026-08-19T17:15:50-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Accounting",
     "active": true,
     "slug": "sales317"
@@ -28455,7 +28455,7 @@
     "link": "https://stripe.com/jobs/search?gh_jid=8138662",
     "date": "2026-08-19T13:05:25-04:00",
     "source": "Greenhouse: Stripe [stripe]",
-    "location": "Madrid ",
+    "location": "Madrid",
     "department": "1185 Account Executives (EMEA)",
     "active": true,
     "slug": "sales314"
@@ -28467,7 +28467,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8728357002?gh_jid=8728357002",
     "date": "2026-08-19T13:03:24-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Legal and Compliance",
     "active": true,
     "slug": "manager508"
@@ -28587,7 +28587,7 @@
     "link": "https://job-boards.eu.greenhouse.io/straitsx/jobs/4956246101",
     "date": "2026-08-19T11:34:43-04:00",
     "source": "Greenhouse: StraitsX [straitsx]",
-    "location": "Kuala Lumpur, Kuala Lumpur, Malaysia; Taichung, Taiwan; Taipei, Taiwan",
+    "location": "Kuala Lumpur, Malaysia; Taichung, Taiwan; Taipei, Taiwan",
     "department": "STX - Engineering",
     "active": true,
     "slug": "backend109"
@@ -28599,7 +28599,7 @@
     "link": "https://job-boards.eu.greenhouse.io/straitsx/jobs/4956245101",
     "date": "2026-08-19T11:32:49-04:00",
     "source": "Greenhouse: StraitsX [straitsx]",
-    "location": "Kuala Lumpur, Kuala Lumpur, Malaysia; Taichung, Taiwan; Taipei, Taiwan",
+    "location": "Kuala Lumpur, Malaysia; Taichung, Taiwan; Taipei, Taiwan",
     "department": "STX - Engineering",
     "active": true,
     "slug": "engineer801"
@@ -28734,7 +28734,7 @@
     "link": "https://jobs.ashbyhq.com/ethereum-foundation/9c3ff46b-62ab-48cf-87a4-9ef4cc05fb5d",
     "date": "2026-08-19T08:24:53.915+00:00",
     "source": "Ashby: Ethereum Foundation [ethereum-foundation]",
-    "location": "Global ",
+    "location": "Global",
     "department": "Ethereum Foundation",
     "active": true,
     "slug": "devops113"
@@ -28771,7 +28771,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7899835003",
     "date": "2026-08-19T02:44:39-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Product Management",
     "active": true,
     "slug": "product483"
@@ -28905,7 +28905,7 @@
     "link": "https://bitcoin.bamboohr.com/careers/43",
     "date": "2026-08-19",
     "source": "BambooHR: Bitcoin.com [bitcoin]",
-    "location": "Poland, Poland, Poland",
+    "location": "Poland, Poland",
     "department": "HR, Administrative & Legal",
     "active": true,
     "slug": "analyst128"
@@ -29471,7 +29471,7 @@
     "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4954936101",
     "date": "2026-08-18T05:53:13-04:00",
     "source": "Greenhouse: Bitpanda [bitpanda]",
-    "location": "Vienna, Vienna, Austria",
+    "location": "Vienna, Austria",
     "department": "Product & Design",
     "active": true,
     "slug": "product472"
@@ -29507,7 +29507,7 @@
     "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4954725101",
     "date": "2026-08-18T05:50:41-04:00",
     "source": "Greenhouse: Bitpanda [bitpanda]",
-    "location": "Vienna, Vienna, Austria",
+    "location": "Vienna, Austria",
     "department": "Product & Design",
     "active": true,
     "slug": "product471"
@@ -29519,7 +29519,7 @@
     "link": "https://stripe.com/jobs/search?gh_jid=8114458",
     "date": "2026-08-18T05:46:54-04:00",
     "source": "Greenhouse: Stripe [stripe]",
-    "location": "Israel ",
+    "location": "Israel",
     "department": "1185 Account Executives (EMEA)",
     "active": true,
     "slug": "sales306"
@@ -30156,7 +30156,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7885503003",
     "date": "2026-08-17T07:36:39-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR; Singapore, Singapore",
+    "location": "Hong Kong; Singapore",
     "department": "Finance Department",
     "active": true,
     "slug": "group"
@@ -30382,7 +30382,7 @@
     "link": "https://job-boards.greenhouse.io/hut8/jobs/5391926008",
     "date": "2026-08-14T17:47:41-04:00",
     "source": "Greenhouse: Hut 8 [hut8]",
-    "location": "Corpus Christi, TX and St. Francisville, LA ",
+    "location": "Corpus Christi, TX and St. Francisville, LA",
     "department": "Engineering, Procurement, and Construction",
     "active": true,
     "slug": "planner"
@@ -31144,7 +31144,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8687964002?gh_jid=8687964002",
     "date": "2026-08-13T14:31:35-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Recruiting",
     "active": true,
     "slug": "operations111"
@@ -31469,7 +31469,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7863574003",
     "date": "2026-08-13T05:52:45-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Human Resources",
     "active": true,
     "slug": "recruiting63"
@@ -31553,7 +31553,7 @@
     "link": "https://job-boards.eu.greenhouse.io/straitsx/jobs/4951944101",
     "date": "2026-08-13T02:03:51-04:00",
     "source": "Greenhouse: StraitsX [straitsx]",
-    "location": "Jakarta, Jakarta, Indonesia",
+    "location": "Jakarta, Indonesia",
     "department": "STX - Engineering",
     "active": true,
     "slug": "backend105"
@@ -31565,7 +31565,7 @@
     "link": "https://job-boards.eu.greenhouse.io/straitsx/jobs/4951942101",
     "date": "2026-08-13T01:55:05-04:00",
     "source": "Greenhouse: StraitsX [straitsx]",
-    "location": "Jakarta, Jakarta, Indonesia",
+    "location": "Jakarta, Indonesia",
     "department": "STX - Commercial",
     "active": true,
     "slug": "operations109"
@@ -31925,7 +31925,7 @@
     "link": "https://job-boards.greenhouse.io/mesh/jobs/5388064008",
     "date": "2026-08-12T16:52:12-04:00",
     "source": "Greenhouse: Mesh [mesh]",
-    "location": "New York, New York, United States, San Francisco, California, United States",
+    "location": "New York, United States, San Francisco, California, United States",
     "department": "Legal",
     "active": true,
     "slug": "compliance109"
@@ -32199,7 +32199,7 @@
     "link": "https://job-boards.greenhouse.io/digitalcurrencygroup/jobs/4723579005",
     "date": "2026-08-12T13:40:04-04:00",
     "source": "Greenhouse: DCG [digitalcurrencygroup]",
-    "location": "Stamford Connecticut ",
+    "location": "Stamford Connecticut",
     "department": "DCG",
     "active": true,
     "slug": "analyst121"
@@ -32271,7 +32271,7 @@
     "link": "https://stripe.com/jobs/search?gh_jid=8126047",
     "date": "2026-08-12T13:14:52-04:00",
     "source": "Greenhouse: Stripe [stripe]",
-    "location": "South San Francisco, CA ",
+    "location": "South San Francisco, CA",
     "department": "Global Operations",
     "active": true,
     "slug": "devops105"
@@ -32849,7 +32849,7 @@
     "link": "https://stripe.com/jobs/search?gh_jid=8114272",
     "date": "2026-08-11T18:16:55-04:00",
     "source": "Greenhouse: Stripe [stripe]",
-    "location": "San Francisco ",
+    "location": "San Francisco",
     "department": "2413 Communications",
     "active": true,
     "slug": "comms"
@@ -32957,7 +32957,7 @@
     "link": "https://job-boards.greenhouse.io/mesh/jobs/5386514008",
     "date": "2026-08-11T14:34:19-04:00",
     "source": "Greenhouse: Mesh [mesh]",
-    "location": "New York, New York, United States, San Francisco, California, United States",
+    "location": "New York, United States, San Francisco, California, United States",
     "department": "Legal",
     "active": true,
     "slug": "senior41"
@@ -33895,7 +33895,7 @@
     "link": "https://stripe.com/jobs/search?gh_jid=8107136",
     "date": "2026-08-10T09:19:03-04:00",
     "source": "Greenhouse: Stripe [stripe]",
-    "location": "US-San Francisco, US-Seattle, US-West Coast (Remote) ",
+    "location": "US-San Francisco, US-Seattle, US-West Coast (Remote)",
     "department": "1175 Enterprise - Account Executives (NA)",
     "active": true,
     "slug": "sales272"
@@ -34015,7 +34015,7 @@
     "link": "https://job-boards.eu.greenhouse.io/straitsx/jobs/4944906101",
     "date": "2026-08-10T05:00:44-04:00",
     "source": "Greenhouse: StraitsX [straitsx]",
-    "location": "Jakarta, Jakarta, Indonesia",
+    "location": "Jakarta, Indonesia",
     "department": "STX - Finance",
     "active": true,
     "slug": "operations103"
@@ -34063,7 +34063,7 @@
     "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4939865101",
     "date": "2026-08-10T03:32:28-04:00",
     "source": "Greenhouse: Bitpanda [bitpanda]",
-    "location": "Vienna, Vienna, Austria",
+    "location": "Vienna, Austria",
     "department": "Commercial, Marketing & Comms",
     "active": true,
     "slug": "junior"
@@ -34372,7 +34372,7 @@
     "link": "https://stripe.com/jobs/search?gh_jid=8114397",
     "date": "2026-08-07T13:12:13-04:00",
     "source": "Greenhouse: Stripe [stripe]",
-    "location": "Toronto, Remote Canada ",
+    "location": "Toronto, Remote Canada",
     "department": "8414 MerchantXP - Eng",
     "active": true,
     "slug": "marketing167"
@@ -34396,7 +34396,7 @@
     "link": "https://a16z.com/about/jobs/?gh_jid=7828581003",
     "date": "2026-08-07T12:48:08-04:00",
     "source": "Greenhouse: a16z [a16z]",
-    "location": "New York, New York, United States; San Francisco, California, United States",
+    "location": "New York, United States; San Francisco, California, United States",
     "department": "Crypto",
     "active": true,
     "slug": "associate54"
@@ -34505,7 +34505,7 @@
     "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4944654101",
     "date": "2026-08-07T10:20:47-04:00",
     "source": "Greenhouse: Bitpanda [bitpanda]",
-    "location": "Vienna, Vienna, Austria",
+    "location": "Vienna, Austria",
     "department": "Engineering & Technology",
     "active": true,
     "slug": "intern14"
@@ -34673,7 +34673,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/6543531003",
     "date": "2026-08-07T05:52:57-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Engineering",
     "active": true,
     "slug": "engineer722"
@@ -34685,7 +34685,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8690499002?gh_jid=8690499002",
     "date": "2026-08-07T05:19:50-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Software Engineering",
     "active": true,
     "slug": "data18"
@@ -34709,7 +34709,7 @@
     "link": "https://stripe.com/jobs/search?gh_jid=8104748",
     "date": "2026-08-07T04:58:44-04:00",
     "source": "Greenhouse: Stripe [stripe]",
-    "location": "Bangalore ",
+    "location": "Bangalore",
     "department": "4168 SDC - Credit Operations",
     "active": true,
     "slug": "operations102"
@@ -34960,7 +34960,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8686227002?gh_jid=8686227002",
     "date": "2026-08-06T16:36:09-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Workplace Services & Experience",
     "active": true,
     "slug": "events2"
@@ -35164,7 +35164,7 @@
     "link": "https://stripe.com/jobs/search?gh_jid=8110261",
     "date": "2026-08-06T12:45:57-04:00",
     "source": "Greenhouse: Stripe [stripe]",
-    "location": "San Francisco, Seattle ",
+    "location": "San Francisco, Seattle",
     "department": "1175 Enterprise - Account Executives (NA)",
     "active": true,
     "slug": "sales264"
@@ -35332,7 +35332,7 @@
     "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4945283101",
     "date": "2026-08-06T08:54:27-04:00",
     "source": "Greenhouse: Bitpanda [bitpanda]",
-    "location": "Vienna, Vienna, Austria",
+    "location": "Vienna, Austria",
     "department": "Engineering & Technology",
     "active": true,
     "slug": "engineer710"
@@ -35465,7 +35465,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7830763003",
     "date": "2026-08-06T00:22:27-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Compliance",
     "active": true,
     "slug": "compliance98"
@@ -35526,7 +35526,7 @@
     "link": "https://job-boards.eu.greenhouse.io/straitsx/jobs/4938122101",
     "date": "2026-08-05T22:17:17-04:00",
     "source": "Greenhouse: StraitsX [straitsx]",
-    "location": "Jakarta, Jakarta, Indonesia",
+    "location": "Jakarta, Indonesia",
     "department": "STX - Operations",
     "active": true,
     "slug": "product404"
@@ -36483,7 +36483,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7825780003",
     "date": "2026-08-04T05:00:18-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR; Singapore, Singapore",
+    "location": "Hong Kong; Singapore",
     "department": "Engineering",
     "active": true,
     "slug": "cryptography3"
@@ -36580,7 +36580,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7825508003",
     "date": "2026-08-04T01:25:56-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR; Singapore, Singapore",
+    "location": "Hong Kong; Singapore",
     "department": "Engineering",
     "active": true,
     "slug": "security180"
@@ -36628,7 +36628,7 @@
     "link": "https://job-boards.eu.greenhouse.io/straitsx/jobs/4936579101",
     "date": "2026-08-03T23:29:43-04:00",
     "source": "Greenhouse: StraitsX [straitsx]",
-    "location": "Jakarta, Jakarta, Indonesia",
+    "location": "Jakarta, Indonesia",
     "department": "STX - Engineering",
     "active": true,
     "slug": "engineer684"
@@ -36723,7 +36723,7 @@
     "link": "https://uphold.bamboohr.com/careers/868",
     "date": "2026-08-04",
     "source": "BambooHR: Uphold [uphold]",
-    "location": "Pennsylvania, Pennsylvania, United States",
+    "location": "Pennsylvania, United States",
     "department": "Engineering",
     "active": true,
     "slug": "engineer679"
@@ -37179,7 +37179,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7823908003",
     "date": "2026-08-03T03:37:59-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Finance Department",
     "active": true,
     "slug": "manager389"
@@ -37191,7 +37191,7 @@
     "link": "https://www.fireblocks.com/careers/position?gh_jid=4698039006",
     "date": "2026-08-03T03:27:55-04:00",
     "source": "Greenhouse: Fireblocks [fireblocks]",
-    "location": "Seoul, Seoul, South Korea",
+    "location": "Seoul, South Korea",
     "department": "Sales",
     "active": true,
     "slug": "sales250"
@@ -37927,7 +37927,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7822600003",
     "date": "2026-07-31T05:55:09-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Crypto Ecosystem Development",
     "active": true,
     "slug": "manager379"
@@ -37963,7 +37963,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7822538003",
     "date": "2026-07-31T03:15:13-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Product Management",
     "active": true,
     "slug": "product385"
@@ -37987,7 +37987,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7822428003",
     "date": "2026-07-30T23:24:45-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Remote Roles - EMEA; Sliema, Malta",
+    "location": "Sliema, Malta",
     "department": "Legal",
     "active": true,
     "slug": "compliance94"
@@ -38023,7 +38023,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7822479003",
     "date": "2026-07-30T22:20:54-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "User Risk Management",
     "active": true,
     "slug": "operations90"
@@ -38456,7 +38456,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7821268003",
     "date": "2026-07-30T06:05:14-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR; Singapore, Singapore",
+    "location": "Hong Kong; Singapore",
     "department": "Engineering",
     "active": true,
     "slug": "eng66"
@@ -38492,7 +38492,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7821253003",
     "date": "2026-07-30T05:18:12-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Strategic Markets",
     "active": true,
     "slug": "manager370"
@@ -38588,7 +38588,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7820269003",
     "date": "2026-07-30T02:04:06-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Budapest, Budapest, Hungary",
+    "location": "Budapest, Hungary",
     "department": "Customer Service Operations",
     "active": true,
     "slug": "senior31"
@@ -38600,7 +38600,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7820209003",
     "date": "2026-07-30T02:03:32-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Budapest, Budapest, Hungary",
+    "location": "Budapest, Hungary",
     "department": "Customer Service Operations",
     "active": true,
     "slug": "senior30"
@@ -39071,7 +39071,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7820159003",
     "date": "2026-07-29T06:39:59-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Engineering",
     "active": true,
     "slug": "security170"
@@ -40053,7 +40053,7 @@
     "link": "https://jobs.ashbyhq.com/Sardine/1d62d40a-7066-4193-8af6-6b84e4eb96ef",
     "date": "2026-07-27T13:07:27.571+00:00",
     "source": "Ashby: Sardine [Sardine]",
-    "location": "Ireland ",
+    "location": "Ireland",
     "department": "Engineering",
     "active": true,
     "slug": "devops92"
@@ -40621,7 +40621,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7814862003",
     "date": "2026-07-24T05:34:50-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR; Singapore, Singapore",
+    "location": "Hong Kong; Singapore",
     "department": "CEO Office",
     "active": true,
     "slug": "ai4"
@@ -40669,7 +40669,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7814914003",
     "date": "2026-07-24T00:12:07-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Australia; Sydney, New South Wales, Australia",
+    "location": "Sydney, New South Wales, Australia",
     "department": "Strategic Markets",
     "active": true,
     "slug": "manager344"
@@ -40791,7 +40791,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8647730002?gh_jid=8647730002",
     "date": "2026-07-23T15:32:37-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Human Resources",
     "active": true,
     "slug": "workday"
@@ -41055,7 +41055,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8630687002?gh_jid=8630687002",
     "date": "2026-07-23T03:16:58-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "Hong Kong, Hong Kong",
+    "location": "Hong Kong",
     "department": "Sales & Trading",
     "active": true,
     "slug": "sales226"
@@ -41414,7 +41414,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8635672002?gh_jid=8635672002",
     "date": "2026-07-22T11:45:51-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "IT and Systems Engineering",
     "active": true,
     "slug": "eng60"
@@ -41558,7 +41558,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7812572003",
     "date": "2026-07-22T06:06:57-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Australia; Sydney, New South Wales, Australia",
+    "location": "Sydney, New South Wales, Australia",
     "department": "Strategic Markets",
     "active": true,
     "slug": "sales221"
@@ -41570,7 +41570,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7812562003",
     "date": "2026-07-22T05:51:09-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Australia; Sydney, New South Wales, Australia",
+    "location": "Sydney, New South Wales, Australia",
     "department": "Strategic Markets",
     "active": true,
     "slug": "manager333"
@@ -41726,7 +41726,7 @@
     "link": "https://stripe.com/jobs/search?gh_jid=8054241",
     "date": "2026-07-21T20:04:24-04:00",
     "source": "Greenhouse: Stripe [stripe]",
-    "location": "Canada ",
+    "location": "Canada",
     "department": "8548 Payins - Eng",
     "active": true,
     "slug": "engineer600"
@@ -41991,7 +41991,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8625946002?gh_jid=8625946002",
     "date": "2026-07-21T13:11:33-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "Hong Kong, Hong Kong",
+    "location": "Hong Kong",
     "department": "IT and Systems Engineering",
     "active": true,
     "slug": "eng59"
@@ -42003,7 +42003,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8641377002?gh_jid=8641377002",
     "date": "2026-07-21T13:09:51-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "Hong Kong, Hong Kong",
+    "location": "Hong Kong",
     "department": "IT and Systems Engineering",
     "active": true,
     "slug": "eng56"
@@ -42197,7 +42197,7 @@
     "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4933367101",
     "date": "2026-07-21T04:59:22-04:00",
     "source": "Greenhouse: Bitpanda [bitpanda]",
-    "location": "Vienna, Vienna, Austria",
+    "location": "Vienna, Austria",
     "department": "Commercial, Marketing & Comms",
     "active": true,
     "slug": "product345"
@@ -42341,7 +42341,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8630713002?gh_jid=8630713002",
     "date": "2026-07-21T02:05:45-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "Hong Kong, Hong Kong",
+    "location": "Hong Kong",
     "department": "Strategy and Product",
     "active": true,
     "slug": "product342"
@@ -42353,7 +42353,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8623868002?gh_jid=8623868002",
     "date": "2026-07-21T01:59:58-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "Hong Kong, Hong Kong",
+    "location": "Hong Kong",
     "department": "Quantitative Research",
     "active": true,
     "slug": "tr11"
@@ -42365,7 +42365,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8620505002?gh_jid=8620505002",
     "date": "2026-07-21T01:59:07-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "Hong Kong, Hong Kong",
+    "location": "Hong Kong",
     "department": "Trading Desk Operations",
     "active": true,
     "slug": "eng58"
@@ -42860,7 +42860,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8639148002?gh_jid=8639148002",
     "date": "2026-07-20T11:12:19-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Human Resources",
     "active": true,
     "slug": "recruiting52"
@@ -42956,7 +42956,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7809311003",
     "date": "2026-07-20T01:29:15-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Product Management",
     "active": true,
     "slug": "product335"
@@ -42968,7 +42968,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7809310003",
     "date": "2026-07-20T01:29:14-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Product Management",
     "active": true,
     "slug": "product334"
@@ -42980,7 +42980,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7809304003",
     "date": "2026-07-20T00:46:16-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Budapest, Budapest, Hungary",
+    "location": "Budapest, Hungary",
     "department": "Customer Service Operations",
     "active": true,
     "slug": "senior28"
@@ -43138,7 +43138,7 @@
     "link": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=8072662&gh_jid=8072662",
     "date": "2026-07-17T16:25:49-04:00",
     "source": "Greenhouse: Gemini [gemini]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Trading Systems",
     "active": true,
     "slug": "engineer571"
@@ -43258,7 +43258,7 @@
     "link": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=8069402&gh_jid=8069402",
     "date": "2026-07-17T13:04:17-04:00",
     "source": "Greenhouse: Gemini [gemini]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Regional Ops",
     "active": true,
     "slug": "marketing132"
@@ -43402,7 +43402,7 @@
     "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4930651101",
     "date": "2026-07-17T05:46:07-04:00",
     "source": "Greenhouse: Bitpanda [bitpanda]",
-    "location": "Vienna, Vienna, Austria",
+    "location": "Vienna, Austria",
     "department": "Product & Design",
     "active": true,
     "slug": "product332"
@@ -43462,7 +43462,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7749092003",
     "date": "2026-07-17T03:00:30-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Engineering",
     "active": true,
     "slug": "backend84"
@@ -43474,7 +43474,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7749091003",
     "date": "2026-07-17T03:00:29-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR; Singapore, Singapore",
+    "location": "Hong Kong; Singapore",
     "department": "Engineering",
     "active": true,
     "slug": "backend83"
@@ -43783,7 +43783,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7806737003",
     "date": "2026-07-16T06:25:52-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Engineering",
     "active": true,
     "slug": "engineer564"
@@ -43795,7 +43795,7 @@
     "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4929522101",
     "date": "2026-07-16T06:17:49-04:00",
     "source": "Greenhouse: Bitpanda [bitpanda]",
-    "location": "Vienna, Vienna, Austria",
+    "location": "Vienna, Austria",
     "department": "Legal & Compliance & Risk",
     "active": true,
     "slug": "cmp2"
@@ -43807,7 +43807,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7806585003",
     "date": "2026-07-16T06:11:49-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Human Resources",
     "active": true,
     "slug": "recruiting50"
@@ -44421,7 +44421,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7805494003",
     "date": "2026-07-15T01:21:10-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Engineering",
     "active": true,
     "slug": "engineer555"
@@ -44759,7 +44759,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7804806003",
     "date": "2026-07-14T12:23:47-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Engineering",
     "active": true,
     "slug": "engineer551"
@@ -44917,7 +44917,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8631973002?gh_jid=8631973002",
     "date": "2026-07-13T20:19:37-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Software Engineering",
     "active": true,
     "slug": "eng57"
@@ -45276,7 +45276,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7802448003",
     "date": "2026-07-13T06:27:05-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR; Singapore, Singapore",
+    "location": "Hong Kong; Singapore",
     "department": "Engineering",
     "active": true,
     "slug": "engineer542"
@@ -45336,7 +45336,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7802313003",
     "date": "2026-07-13T03:33:56-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Strategic Markets",
     "active": true,
     "slug": "manager293"
@@ -45385,7 +45385,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7802200003",
     "date": "2026-07-12T22:09:57-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Finance Department",
     "active": true,
     "slug": "manager292"
@@ -45471,7 +45471,7 @@
     "link": "https://www.fireblocks.com/careers/position?gh_jid=4692079006",
     "date": "2026-07-12T04:43:51-04:00",
     "source": "Greenhouse: Fireblocks [fireblocks]",
-    "location": "Berlin, Berlin, Germany",
+    "location": "Berlin, Germany",
     "department": "Security",
     "active": true,
     "slug": "grc"
@@ -45603,7 +45603,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8624440002?gh_jid=8624440002",
     "date": "2026-07-10T13:26:06-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Software Engineering",
     "active": true,
     "slug": "eng18"
@@ -45675,7 +45675,7 @@
     "link": "https://stripe.com/jobs/search?gh_jid=8052814",
     "date": "2026-07-09T23:06:46-04:00",
     "source": "Greenhouse: Stripe [stripe]",
-    "location": "San Francisco, CA; Chicago, IL; Seattle, WA; New York, NY ",
+    "location": "San Francisco, CA; Chicago, IL; Seattle, WA; New York, NY",
     "department": "1340 Customer Success Management",
     "active": true,
     "slug": "manager289"
@@ -45832,7 +45832,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7800111003",
     "date": "2026-07-09T14:49:40-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR; Singapore, Singapore",
+    "location": "Hong Kong; Singapore",
     "department": "Product Management",
     "active": true,
     "slug": "product307"
@@ -46085,7 +46085,7 @@
     "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4914511101",
     "date": "2026-07-09T03:45:13-04:00",
     "source": "Greenhouse: Bitpanda [bitpanda]",
-    "location": "Vienna, Vienna, Austria",
+    "location": "Vienna, Austria",
     "department": "Finance",
     "active": true,
     "slug": "expert"
@@ -46121,7 +46121,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8617298002?gh_jid=8617298002",
     "date": "2026-07-09T03:28:52-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "Hong Kong, Hong Kong",
+    "location": "Hong Kong",
     "department": "Software Engineering",
     "active": true,
     "slug": "eng14"
@@ -46264,7 +46264,7 @@
     "link": "https://stripe.com/jobs/search?gh_jid=8052468",
     "date": "2026-07-08T17:30:41-04:00",
     "source": "Greenhouse: Stripe [stripe]",
-    "location": "United States ",
+    "location": "United States",
     "department": "3130 Risk & Reward",
     "active": true,
     "slug": "credit3"
@@ -46348,7 +46348,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8624941002?gh_jid=8624941002",
     "date": "2026-07-08T15:52:47-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Physical Security",
     "active": true,
     "slug": "security144"
@@ -46840,7 +46840,7 @@
     "link": "https://job-boards.greenhouse.io/flowtraders/jobs/8035201",
     "date": "2026-07-08T07:57:38-04:00",
     "source": "Greenhouse: Flow Traders [flowtraders]",
-    "location": "Amsterdam ",
+    "location": "Amsterdam",
     "department": "Product Development",
     "active": true,
     "slug": "backend81"
@@ -47249,7 +47249,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8621450002?gh_jid=8621450002",
     "date": "2026-07-07T10:25:28-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Trading Desk Operations",
     "active": true,
     "slug": "engineer511"
@@ -47479,7 +47479,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8621552002?gh_jid=8621552002",
     "date": "2026-07-06T16:00:00-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Strategy and Product",
     "active": true,
     "slug": "product293"
@@ -47503,7 +47503,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8620793002?gh_jid=8620793002",
     "date": "2026-07-06T15:26:31-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Network Engineering",
     "active": true,
     "slug": "engineer509"
@@ -47539,7 +47539,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8611307002?gh_jid=8611307002",
     "date": "2026-07-06T15:01:29-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Machine Learning",
     "active": true,
     "slug": "engineer508"
@@ -47551,7 +47551,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8384490002?gh_jid=8384490002",
     "date": "2026-07-06T14:59:10-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Machine Learning",
     "active": true,
     "slug": "mlr3"
@@ -47635,7 +47635,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8613910002?gh_jid=8613910002",
     "date": "2026-07-06T09:59:44-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Cybersecurity",
     "active": true,
     "slug": "sec4"
@@ -47647,7 +47647,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7795796003",
     "date": "2026-07-06T07:53:35-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Engineering",
     "active": true,
     "slug": "engineer506"
@@ -47683,7 +47683,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7795778003",
     "date": "2026-07-06T06:10:57-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR; Singapore, Singapore",
+    "location": "Hong Kong; Singapore",
     "department": "Engineering",
     "active": true,
     "slug": "engineer505"
@@ -47695,7 +47695,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7795777003",
     "date": "2026-07-06T06:08:05-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR; Singapore, Singapore",
+    "location": "Hong Kong; Singapore",
     "department": "Engineering",
     "active": true,
     "slug": "product291"
@@ -47707,7 +47707,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7795773003",
     "date": "2026-07-06T06:06:47-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR; Singapore, Singapore",
+    "location": "Hong Kong; Singapore",
     "department": "Engineering",
     "active": true,
     "slug": "engineer504"
@@ -47719,7 +47719,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7795766003",
     "date": "2026-07-06T05:16:35-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Engineering",
     "active": true,
     "slug": "security132"
@@ -47731,7 +47731,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7795714003",
     "date": "2026-07-06T04:39:32-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR; Singapore, Singapore",
+    "location": "Hong Kong; Singapore",
     "department": "Engineering",
     "active": true,
     "slug": "security131"
@@ -47743,7 +47743,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7795698003",
     "date": "2026-07-06T04:33:02-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR; Singapore, Singapore",
+    "location": "Hong Kong; Singapore",
     "department": "Engineering",
     "active": true,
     "slug": "engineer503"
@@ -47910,7 +47910,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7793630003",
     "date": "2026-07-03T08:24:57-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Budapest, Budapest, Hungary",
+    "location": "Budapest, Hungary",
     "department": "Customer Service Operations",
     "active": true,
     "slug": "senior25"
@@ -47970,7 +47970,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7793440003",
     "date": "2026-07-03T05:32:27-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR; Singapore, Singapore",
+    "location": "Hong Kong; Singapore",
     "department": "Human Resources",
     "active": true,
     "slug": "head37"
@@ -47982,7 +47982,7 @@
     "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4918366101",
     "date": "2026-07-03T05:16:24-04:00",
     "source": "Greenhouse: Bitpanda [bitpanda]",
-    "location": "Vienna, Vienna, Austria",
+    "location": "Vienna, Austria",
     "department": "Product & Design",
     "active": true,
     "slug": "manager275"
@@ -48030,7 +48030,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7793353003",
     "date": "2026-07-03T00:16:33-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Product Management",
     "active": true,
     "slug": "product289"
@@ -48042,7 +48042,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7793352003",
     "date": "2026-07-03T00:14:43-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Product Management",
     "active": true,
     "slug": "product288"
@@ -48218,7 +48218,7 @@
     "link": "https://job-boards.eu.greenhouse.io/straitsx/jobs/4907654101",
     "date": "2026-07-02T07:40:19-04:00",
     "source": "Greenhouse: StraitsX [straitsx]",
-    "location": "Kuala Lumpur, Kuala Lumpur, Malaysia; Singapore",
+    "location": "Kuala Lumpur, Malaysia; Singapore",
     "department": "STX - Finance",
     "active": true,
     "slug": "trader78"
@@ -48242,7 +48242,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7762046003",
     "date": "2026-07-02T06:22:03-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Global Commercial Center",
     "active": true,
     "slug": "marketing107"
@@ -48290,7 +48290,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7792230003",
     "date": "2026-07-02T01:37:30-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Product Management",
     "active": true,
     "slug": "product286"
@@ -48302,7 +48302,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7792229003",
     "date": "2026-07-02T01:37:15-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Product Management",
     "active": true,
     "slug": "product285"
@@ -48554,7 +48554,7 @@
     "link": "https://job-boards.greenhouse.io/flowtraders/jobs/7835758",
     "date": "2026-07-01T04:14:30-04:00",
     "source": "Greenhouse: Flow Traders [flowtraders]",
-    "location": "Amsterdam ",
+    "location": "Amsterdam",
     "department": "Product Development",
     "active": true,
     "slug": "manager270"
@@ -48566,7 +48566,7 @@
     "link": "https://job-boards.greenhouse.io/digitalassetcorp/jobs/4303331009",
     "date": "2026-07-01T00:56:21-04:00",
     "source": "Greenhouse: Digital Asset [digitalassetcorp]",
-    "location": "New York City, US; Zurich, CH;  London, UK",
+    "location": "New York City, US; Zurich, CH; London, UK",
     "department": "Product - DevRel",
     "active": true,
     "slug": "documentation"
@@ -48951,7 +48951,7 @@
     "link": "https://stripe.com/jobs/search?gh_jid=8035723",
     "date": "2026-06-30T12:52:52-04:00",
     "source": "Greenhouse: Stripe [stripe]",
-    "location": "Dublin ",
+    "location": "Dublin",
     "department": "8125 Core Compute",
     "active": true,
     "slug": "backend75"
@@ -49059,7 +49059,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7789825003",
     "date": "2026-06-30T05:58:11-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Engineering",
     "active": true,
     "slug": "engineer484"
@@ -49095,7 +49095,7 @@
     "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4911699101",
     "date": "2026-06-30T03:30:28-04:00",
     "source": "Greenhouse: Bitpanda [bitpanda]",
-    "location": "Berlin, Berlin, Germany; Vienna, Vienna, Austria",
+    "location": "Berlin, Germany; Vienna, Austria",
     "department": "Legal & Compliance & Risk",
     "active": true,
     "slug": "security127"
@@ -49432,7 +49432,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7788717003",
     "date": "2026-06-29T11:14:32-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Engineering",
     "active": true,
     "slug": "engineer476"
@@ -49444,7 +49444,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7788716003",
     "date": "2026-06-29T11:08:34-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Engineering",
     "active": true,
     "slug": "marketing101"
@@ -49456,7 +49456,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7777038003",
     "date": "2026-06-29T10:36:59-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Engineering",
     "active": true,
     "slug": "devops74"
@@ -49468,7 +49468,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7777037003",
     "date": "2026-06-29T10:35:47-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Engineering",
     "active": true,
     "slug": "devops73"
@@ -49528,7 +49528,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7788203003",
     "date": "2026-06-29T05:01:54-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Enterprise Development",
     "active": true,
     "slug": "supervisor2"
@@ -49564,7 +49564,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7788114003",
     "date": "2026-06-29T02:01:34-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Engineering",
     "active": true,
     "slug": "recruiting38"
@@ -49576,7 +49576,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7777032003",
     "date": "2026-06-29T01:53:10-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Engineering",
     "active": true,
     "slug": "devops72"
@@ -49588,7 +49588,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7777031003",
     "date": "2026-06-29T01:49:51-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Engineering",
     "active": true,
     "slug": "devops71"
@@ -49625,7 +49625,7 @@
     "link": "https://apply.workable.com/j/75DC512940",
     "date": "2026-06-29T00:00:00.000Z",
     "source": "Workable: Hex Trust [hextrust]",
-    "location": "Hong Kong, Hong Kong",
+    "location": "Hong Kong",
     "department": [
       "Legal & Compliance"
     ],
@@ -49782,7 +49782,7 @@
     "link": "https://complyadvantage.com/careers/jobs/8610403002?gh_jid=8610403002",
     "date": "2026-06-26T12:24:52-04:00",
     "source": "Greenhouse: ComplyAdvantage [complyadvantage]",
-    "location": "Austin, Texas, United States; California, United States; Chicago, Illinois, United States; Dallas, Texas, United States; Denver, Colorado, United States; New York, New York, United States; North Carolina, United States",
+    "location": "Austin, Texas, United States; California, United States; Chicago, Illinois, United States; Dallas, Texas, United States; Denver, Colorado, United States; New York, United States; North Carolina, United States",
     "department": "Commercial",
     "active": true,
     "slug": "sales173"
@@ -49830,7 +49830,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7786596003",
     "date": "2026-06-26T06:40:28-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Budapest, Budapest, Hungary",
+    "location": "Budapest, Hungary",
     "department": "Customer Service Operations",
     "active": true,
     "slug": "senior24"
@@ -49842,7 +49842,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7786609003",
     "date": "2026-06-26T06:39:53-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Budapest, Budapest, Hungary",
+    "location": "Budapest, Hungary",
     "department": "Customer Service Operations",
     "active": true,
     "slug": "senior23"
@@ -49854,7 +49854,7 @@
     "link": "https://www.fireblocks.com/careers/position?gh_jid=4689163006",
     "date": "2026-06-26T05:18:34-04:00",
     "source": "Greenhouse: Fireblocks [fireblocks]",
-    "location": "Berlin, Berlin, Germany",
+    "location": "Berlin, Germany",
     "department": "Sales",
     "active": true,
     "slug": "sales172"
@@ -50480,7 +50480,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7783020003",
     "date": "2026-06-24T06:53:43-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Engineering",
     "active": true,
     "slug": "engineer458"
@@ -50540,7 +50540,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7782668003",
     "date": "2026-06-23T22:56:36-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Product Management",
     "active": true,
     "slug": "product259"
@@ -50552,7 +50552,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7782667003",
     "date": "2026-06-23T22:56:17-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Product Management",
     "active": true,
     "slug": "product258"
@@ -50564,7 +50564,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7782666003",
     "date": "2026-06-23T22:55:45-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Product Management",
     "active": true,
     "slug": "product257"
@@ -50576,7 +50576,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7782665003",
     "date": "2026-06-23T22:55:02-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Product Management",
     "active": true,
     "slug": "product256"
@@ -50926,7 +50926,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7780897003",
     "date": "2026-06-23T01:26:00-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR; Singapore, Singapore",
+    "location": "Hong Kong; Singapore",
     "department": "Engineering",
     "active": true,
     "slug": "devops68"
@@ -50987,7 +50987,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8596771002?gh_jid=8596771002",
     "date": "2026-06-22T16:14:59-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "Hong Kong, Hong Kong",
+    "location": "Hong Kong",
     "department": "Machine Learning",
     "active": true,
     "slug": "achine"
@@ -51083,7 +51083,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8599605002?gh_jid=8599605002",
     "date": "2026-06-22T08:47:20-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Procurement",
     "active": true,
     "slug": "devops67"
@@ -51107,7 +51107,7 @@
     "link": "https://www.fireblocks.com/careers/position?gh_jid=4684189006",
     "date": "2026-06-22T06:18:37-04:00",
     "source": "Greenhouse: Fireblocks [fireblocks]",
-    "location": "Berlin, Berlin, Germany; Netherlands, Netherlands; Zürich, Switzerland",
+    "location": "Berlin, Germany; Netherlands, Netherlands; Zürich, Switzerland",
     "department": "Sales",
     "active": true,
     "slug": "engineer452"
@@ -51119,7 +51119,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7774787003",
     "date": "2026-06-22T05:56:48-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Finance Department",
     "active": true,
     "slug": "manager248"
@@ -51155,7 +51155,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7778748003",
     "date": "2026-06-22T02:47:14-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Engineering",
     "active": true,
     "slug": "engineer450"
@@ -51167,7 +51167,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7778747003",
     "date": "2026-06-22T02:44:35-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Engineering",
     "active": true,
     "slug": "engineer449"
@@ -51179,7 +51179,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7777044003",
     "date": "2026-06-22T02:43:26-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Engineering",
     "active": true,
     "slug": "engineer448"
@@ -51191,7 +51191,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7777043003",
     "date": "2026-06-22T02:43:24-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Engineering",
     "active": true,
     "slug": "engineer447"
@@ -51383,7 +51383,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7777048003",
     "date": "2026-06-19T11:25:57-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Engineering",
     "active": true,
     "slug": "marketing94"
@@ -51407,7 +51407,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7778818003",
     "date": "2026-06-19T09:15:09-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Northeast Asia (Remote) ",
+    "location": "Northeast Asia (Remote)",
     "department": "Strategic Markets",
     "active": true,
     "slug": "manager246"
@@ -51419,7 +51419,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7778808003",
     "date": "2026-06-19T09:07:09-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Northeast Asia (Remote) ",
+    "location": "Northeast Asia (Remote)",
     "department": "Strategic Markets",
     "active": true,
     "slug": "manager245"
@@ -51443,7 +51443,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7777138003",
     "date": "2026-06-19T06:45:19-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Engineering",
     "active": true,
     "slug": "engineer439"
@@ -51455,7 +51455,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7777137003",
     "date": "2026-06-19T06:42:33-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Engineering",
     "active": true,
     "slug": "engineer438"
@@ -51491,7 +51491,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7777902003",
     "date": "2026-06-18T21:58:40-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR; Singapore, Singapore",
+    "location": "Hong Kong; Singapore",
     "department": "Product Management",
     "active": true,
     "slug": "product252"
@@ -51553,7 +51553,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8599917002?gh_jid=8599917002",
     "date": "2026-06-18T17:47:52-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Workplace Services & Experience",
     "active": true,
     "slug": "workplace2"
@@ -51685,7 +51685,7 @@
     "link": "https://stripe.com/jobs/search?gh_jid=8014786",
     "date": "2026-06-18T14:13:54-04:00",
     "source": "Greenhouse: Stripe [stripe]",
-    "location": "New York City, San Francisco ",
+    "location": "New York City, San Francisco",
     "department": "8417 Accounting Products",
     "active": true,
     "slug": "product250"
@@ -51902,7 +51902,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7777063003",
     "date": "2026-06-18T02:13:04-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR; Singapore, Singapore",
+    "location": "Hong Kong; Singapore",
     "department": "Engineering",
     "active": true,
     "slug": "security115"
@@ -51962,7 +51962,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7777029003",
     "date": "2026-06-17T22:33:39-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Product Management",
     "active": true,
     "slug": "product247"
@@ -51974,7 +51974,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7777028003",
     "date": "2026-06-17T22:33:38-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Product Management",
     "active": true,
     "slug": "product246"
@@ -52201,7 +52201,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8596433002?gh_jid=8596433002",
     "date": "2026-06-17T11:03:49-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Cybersecurity",
     "active": true,
     "slug": "security114"
@@ -52213,7 +52213,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8596349002?gh_jid=8596349002",
     "date": "2026-06-17T10:50:25-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Software Engineering",
     "active": true,
     "slug": "engineer427"
@@ -52237,7 +52237,7 @@
     "link": "https://job-boards.eu.greenhouse.io/straitsx/jobs/4898899101",
     "date": "2026-06-17T10:21:46-04:00",
     "source": "Greenhouse: StraitsX [straitsx]",
-    "location": "Jakarta, Jakarta, Indonesia",
+    "location": "Jakarta, Indonesia",
     "department": "STX - Compliance",
     "active": true,
     "slug": "financial5"
@@ -52561,7 +52561,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7774178003",
     "date": "2026-06-16T03:49:53-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR; Singapore, Singapore",
+    "location": "Hong Kong; Singapore",
     "department": "Engineering",
     "active": true,
     "slug": "engineer422"
@@ -52861,7 +52861,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7773207003",
     "date": "2026-06-15T06:12:46-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Product Management",
     "active": true,
     "slug": "product241"
@@ -52873,7 +52873,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7773206003",
     "date": "2026-06-15T06:12:44-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Product Management",
     "active": true,
     "slug": "product240"
@@ -53032,7 +53032,7 @@
     "link": "https://a16z.com/about/jobs/?gh_jid=7738096003",
     "date": "2026-06-12T19:24:28-04:00",
     "source": "Greenhouse: a16z [a16z]",
-    "location": "New York, New York, United States; San Francisco, California, United States",
+    "location": "New York, United States; San Francisco, California, United States",
     "department": "Operations",
     "active": true,
     "slug": "partner2"
@@ -53116,7 +53116,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8589762002?gh_jid=8589762002",
     "date": "2026-06-12T11:16:17-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Procurement",
     "active": true,
     "slug": "it5"
@@ -53270,7 +53270,7 @@
     "link": "https://job-boards.greenhouse.io/alpaca/jobs/6020810004",
     "date": "2026-06-11T22:07:50-04:00",
     "source": "Greenhouse: Alpaca [alpaca]",
-    "location": "Remote - Americas ",
+    "location": "Remote - Americas",
     "department": "Data Analytics",
     "active": true,
     "slug": "senior16"
@@ -53536,7 +53536,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8585303002?gh_jid=8585303002",
     "date": "2026-06-11T11:06:51-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Software Engineering",
     "active": true,
     "slug": "engineer409"
@@ -53608,7 +53608,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8585152002?gh_jid=8585152002",
     "date": "2026-06-11T02:24:55-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "Hong Kong, Hong Kong",
+    "location": "Hong Kong",
     "department": "Financial Resource Management",
     "active": true,
     "slug": "financing"
@@ -53620,7 +53620,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8401383002?gh_jid=8401383002",
     "date": "2026-06-11T00:20:32-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "Hong Kong, Hong Kong",
+    "location": "Hong Kong",
     "department": "Procurement",
     "active": true,
     "slug": "it4"
@@ -53765,7 +53765,7 @@
     "link": "https://job-boards.greenhouse.io/hut8/jobs/5254290008",
     "date": "2026-06-10T16:59:04-04:00",
     "source": "Greenhouse: Hut 8 [hut8]",
-    "location": "St. Francisville, LA ",
+    "location": "St. Francisville, LA",
     "department": "Managed Services",
     "active": true,
     "slug": "manager220"
@@ -53993,7 +53993,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7768122003",
     "date": "2026-06-10T06:20:58-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Engineering",
     "active": true,
     "slug": "engineer403"
@@ -54005,7 +54005,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7768121003",
     "date": "2026-06-10T06:20:57-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Engineering",
     "active": true,
     "slug": "engineer402"
@@ -54017,7 +54017,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7768054003",
     "date": "2026-06-10T04:52:35-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Product Management",
     "active": true,
     "slug": "product232"
@@ -54029,7 +54029,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7768053003",
     "date": "2026-06-10T04:52:05-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Product Management",
     "active": true,
     "slug": "product231"
@@ -54053,7 +54053,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7746610003",
     "date": "2026-06-10T03:25:33-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Engineering",
     "active": true,
     "slug": "security103"
@@ -54065,7 +54065,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8582063002?gh_jid=8582063002",
     "date": "2026-06-10T01:47:07-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "Hong Kong, Hong Kong",
+    "location": "Hong Kong",
     "department": "Sales & Trading",
     "active": true,
     "slug": "trader69"
@@ -54077,7 +54077,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7767880003",
     "date": "2026-06-10T00:40:03-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Engineering",
     "active": true,
     "slug": "engineer401"
@@ -54089,7 +54089,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7767872003",
     "date": "2026-06-10T00:37:12-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Engineering",
     "active": true,
     "slug": "devops55"
@@ -54113,7 +54113,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7767815003",
     "date": "2026-06-09T23:54:19-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Engineering",
     "active": true,
     "slug": "engineer400"
@@ -54376,7 +54376,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8583968002?gh_jid=8583968002",
     "date": "2026-06-09T11:12:18-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "Hong Kong, Hong Kong",
+    "location": "Hong Kong",
     "department": "Workplace Services & Experience",
     "active": true,
     "slug": "workplace"
@@ -54412,7 +54412,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7766919003",
     "date": "2026-06-09T09:05:29-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Engineering",
     "active": true,
     "slug": "database"
@@ -54460,7 +54460,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7766851003",
     "date": "2026-06-09T06:01:05-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Product Management",
     "active": true,
     "slug": "product228"
@@ -54472,7 +54472,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7766850003",
     "date": "2026-06-09T06:00:27-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Product Management",
     "active": true,
     "slug": "product227"
@@ -54508,7 +54508,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7766838003",
     "date": "2026-06-09T05:23:36-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR; Singapore, Singapore",
+    "location": "Hong Kong; Singapore",
     "department": "Engineering",
     "active": true,
     "slug": "architect26"
@@ -54857,7 +54857,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8564603002?gh_jid=8564603002",
     "date": "2026-06-08T09:30:38-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "Hong Kong, Hong Kong",
+    "location": "Hong Kong",
     "department": "Accounting",
     "active": true,
     "slug": "sales142"
@@ -54869,7 +54869,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8564592002?gh_jid=8564592002",
     "date": "2026-06-08T09:29:48-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "Hong Kong, Hong Kong",
+    "location": "Hong Kong",
     "department": "Accounting",
     "active": true,
     "slug": "sales141"
@@ -54941,7 +54941,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7765814003",
     "date": "2026-06-08T04:30:18-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR; Singapore, Singapore",
+    "location": "Hong Kong; Singapore",
     "department": "Engineering",
     "active": true,
     "slug": "compliance42"
@@ -54953,7 +54953,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7765811003",
     "date": "2026-06-08T04:22:49-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR; Singapore, Singapore",
+    "location": "Hong Kong; Singapore",
     "department": "Engineering",
     "active": true,
     "slug": "engineer393"
@@ -55038,7 +55038,7 @@
     "link": "https://stripe.com/jobs/search?gh_jid=7982720",
     "date": "2026-06-05T16:09:40-04:00",
     "source": "Greenhouse: Stripe [stripe]",
-    "location": "New York, New York ",
+    "location": "New York, New York",
     "department": "8612 Security Infrastructure",
     "active": true,
     "slug": "security101"
@@ -55112,7 +55112,7 @@
     "link": "https://job-boards.eu.greenhouse.io/bvnk/jobs/4876678101",
     "date": "2026-06-05T10:28:32-04:00",
     "source": "Greenhouse: BVNK [bvnk]",
-    "location": "New York / US ",
+    "location": "New York / US",
     "department": "Commercial",
     "active": true,
     "slug": "manager206"
@@ -55160,7 +55160,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8559416002?gh_jid=8559416002",
     "date": "2026-06-05T06:55:08-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "Hong Kong, Hong Kong",
+    "location": "Hong Kong",
     "department": "Tax",
     "active": true,
     "slug": "tax3"
@@ -55328,7 +55328,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8576934002?gh_jid=8576934002",
     "date": "2026-06-04T12:40:37-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "Hong Kong, Hong Kong",
+    "location": "Hong Kong",
     "department": "Machine Learning",
     "active": true,
     "slug": "mlr2"
@@ -55640,7 +55640,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7762217003",
     "date": "2026-06-03T07:12:02-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Global Institutions",
     "active": true,
     "slug": "managing"
@@ -55724,7 +55724,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7762034003",
     "date": "2026-06-02T22:07:18-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "CEO Office",
     "active": true,
     "slug": "marketing77"
@@ -55736,7 +55736,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7762033003",
     "date": "2026-06-02T22:06:14-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "CEO Office",
     "active": true,
     "slug": "marketing76"
@@ -56034,7 +56034,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8573726002?gh_jid=8573726002",
     "date": "2026-06-02T07:19:31-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Quantitative Research",
     "active": true,
     "slug": "tr4"
@@ -56095,7 +56095,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7761002003",
     "date": "2026-06-02T04:38:47-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Engineering",
     "active": true,
     "slug": "architect25"
@@ -56167,7 +56167,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8573523002?gh_jid=8573523002",
     "date": "2026-06-01T14:04:10-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Quantitative Trading",
     "active": true,
     "slug": "trader66"
@@ -56384,7 +56384,7 @@
     "link": "https://job-boards.greenhouse.io/alpaca/jobs/6008797004",
     "date": "2026-05-29T10:07:29-04:00",
     "source": "Greenhouse: Alpaca [alpaca]",
-    "location": "Remote - North America ",
+    "location": "Remote - North America",
     "department": "Finance",
     "active": true,
     "slug": "manager195"
@@ -56457,7 +56457,7 @@
     "link": "https://apply.workable.com/j/A56A5FE285",
     "date": "2026-05-29T00:00:00.000Z",
     "source": "Workable: Hex Trust [hextrust]",
-    "location": "Hong Kong, Hong Kong",
+    "location": "Hong Kong",
     "department": [
       "Clients Team"
     ],
@@ -56471,7 +56471,7 @@
     "link": "https://apply.workable.com/j/C36808103B",
     "date": "2026-05-29T00:00:00.000Z",
     "source": "Workable: Hex Trust [hextrust]",
-    "location": "Hong Kong, Hong Kong",
+    "location": "Hong Kong",
     "department": [
       "CEO's Office"
     ],
@@ -56509,7 +56509,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8551902002?gh_jid=8551902002",
     "date": "2026-05-28T17:01:11-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Portfolio Finance",
     "active": true,
     "slug": "securities2"
@@ -56521,7 +56521,7 @@
     "link": "https://complyadvantage.com/careers/jobs/8569102002?gh_jid=8569102002",
     "date": "2026-05-28T15:43:20-04:00",
     "source": "Greenhouse: ComplyAdvantage [complyadvantage]",
-    "location": "New York, New York, United States; North Carolina, United States",
+    "location": "New York, United States; North Carolina, United States",
     "department": "Legal",
     "active": true,
     "slug": "manager191"
@@ -57256,7 +57256,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7747651003",
     "date": "2026-05-25T05:51:09-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Product Design",
     "active": true,
     "slug": "product205"
@@ -57508,7 +57508,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8560087002?gh_jid=8560087002",
     "date": "2026-05-21T13:28:48-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Recruiting",
     "active": true,
     "slug": "recruiting24"
@@ -57580,7 +57580,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7742384003",
     "date": "2026-05-21T00:52:17-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Product Management",
     "active": true,
     "slug": "product199"
@@ -57592,7 +57592,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7742382003",
     "date": "2026-05-21T00:52:16-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Product Management",
     "active": true,
     "slug": "product198"
@@ -57742,7 +57742,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7736833003",
     "date": "2026-05-20T11:08:39-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Dubai, United Arab Emirates; Remote Roles - EMEA",
+    "location": "Dubai, United Arab Emirates",
     "department": "Strategic Markets",
     "active": true,
     "slug": "manager177"
@@ -57838,7 +57838,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7741411003",
     "date": "2026-05-20T07:14:20-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Australia; Sydney, New South Wales, Australia",
+    "location": "Sydney, New South Wales, Australia",
     "department": "Global Marketing and Growth",
     "active": true,
     "slug": "head27"
@@ -57850,7 +57850,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7741364003",
     "date": "2026-05-20T07:07:27-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Global Marketing and Growth",
     "active": true,
     "slug": "head26"
@@ -57862,7 +57862,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7741363003",
     "date": "2026-05-20T07:05:20-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Global Marketing and Growth",
     "active": true,
     "slug": "head25"
@@ -57994,7 +57994,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8556795002?gh_jid=8556795002",
     "date": "2026-05-19T13:10:18-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Human Resources",
     "active": true,
     "slug": "learning"
@@ -58126,7 +58126,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8549353002?gh_jid=8549353002",
     "date": "2026-05-19T06:09:40-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "Hong Kong, Hong Kong",
+    "location": "Hong Kong",
     "department": "Quantitative Trading",
     "active": true,
     "slug": "korea"
@@ -58150,7 +58150,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7739163003",
     "date": "2026-05-19T05:14:50-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "CEO Office",
     "active": true,
     "slug": "manager171"
@@ -58162,7 +58162,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7739162003",
     "date": "2026-05-19T05:13:12-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "CEO Office",
     "active": true,
     "slug": "manager170"
@@ -58186,7 +58186,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8436765002?gh_jid=8436765002",
     "date": "2026-05-19T03:56:04-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "Hong Kong, Hong Kong",
+    "location": "Hong Kong",
     "department": "Human Resources",
     "active": true,
     "slug": "recruiting23"
@@ -58210,7 +58210,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7739031003",
     "date": "2026-05-19T03:14:15-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Product Management",
     "active": true,
     "slug": "devops43"
@@ -58222,7 +58222,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7739030003",
     "date": "2026-05-19T03:14:14-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Product Management",
     "active": true,
     "slug": "devops42"
@@ -58246,7 +58246,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7738699003",
     "date": "2026-05-18T22:51:52-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Product Management",
     "active": true,
     "slug": "product190"
@@ -58258,7 +58258,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7738698003",
     "date": "2026-05-18T22:51:51-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Product Management",
     "active": true,
     "slug": "product189"
@@ -58440,7 +58440,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7736921003",
     "date": "2026-05-17T23:37:22-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Engineering",
     "active": true,
     "slug": "compliance36"
@@ -58452,7 +58452,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7736920003",
     "date": "2026-05-17T23:37:21-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR; Singapore, Singapore",
+    "location": "Hong Kong; Singapore",
     "department": "Engineering",
     "active": true,
     "slug": "compliance35"
@@ -58722,7 +58722,7 @@
     "link": "https://fasset.bamboohr.com/careers/291",
     "date": "2026-05-15",
     "source": "BambooHR: Fasset [fasset]",
-    "location": "All Region Mentioned, All region mentioned, United Arab Emirates",
+    "location": "All Region Mentioned, United Arab Emirates",
     "department": "Growth & Marketing",
     "active": true,
     "slug": "community7"
@@ -58817,7 +58817,7 @@
     "link": "https://stripe.com/jobs/search?gh_jid=7927330",
     "date": "2026-05-14T17:02:31-04:00",
     "source": "Greenhouse: Stripe [stripe]",
-    "location": "USA ",
+    "location": "USA",
     "department": "1160 Partner Solution Engineering",
     "active": true,
     "slug": "architect20"
@@ -59348,7 +59348,7 @@
     "link": "https://job-boards.eu.greenhouse.io/straitsx/jobs/4863091101",
     "date": "2026-05-12T11:00:49-04:00",
     "source": "Greenhouse: StraitsX [straitsx]",
-    "location": "Jakarta, Jakarta, Indonesia",
+    "location": "Jakarta, Indonesia",
     "department": "STX - Product",
     "active": true,
     "slug": "product185"
@@ -59432,7 +59432,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7731745003",
     "date": "2026-05-12T03:00:11-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Engineering",
     "active": true,
     "slug": "product184"
@@ -59803,7 +59803,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7728124003",
     "date": "2026-05-08T02:39:19-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "User Risk Management",
     "active": true,
     "slug": "marketing59"
@@ -60173,7 +60173,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7724455003",
     "date": "2026-05-06T02:37:32-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Product Management",
     "active": true,
     "slug": "trader55"
@@ -60197,7 +60197,7 @@
     "link": "https://stripe.com/jobs/search?gh_jid=7896151",
     "date": "2026-05-05T17:52:10-04:00",
     "source": "Greenhouse: Stripe [stripe]",
-    "location": "Toronto, Canada ",
+    "location": "Toronto, Canada",
     "department": "8127 Core Infrastructure",
     "active": true,
     "slug": "product173"
@@ -60737,7 +60737,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8531243002?gh_jid=8531243002",
     "date": "2026-04-30T09:45:21-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Software Engineering",
     "active": true,
     "slug": "engineer329"
@@ -61050,7 +61050,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7650023003",
     "date": "2026-04-29T03:23:55-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "APAC; Hong Kong, Hong Kong SAR; Singapore, Singapore",
+    "location": "Hong Kong; Singapore",
     "department": "Engineering",
     "active": true,
     "slug": "security75"
@@ -61122,7 +61122,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7718886003",
     "date": "2026-04-28T15:25:40-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Product Management",
     "active": true,
     "slug": "manager131"
@@ -61134,7 +61134,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7718885003",
     "date": "2026-04-28T15:25:09-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Product Management",
     "active": true,
     "slug": "manager130"
@@ -61158,7 +61158,7 @@
     "link": "https://stripe.com/jobs/search?gh_jid=7825578",
     "date": "2026-04-28T10:29:58-04:00",
     "source": "Greenhouse: Stripe [stripe]",
-    "location": "Germany ",
+    "location": "Germany",
     "department": "1185 Account Executives (EMEA)",
     "active": true,
     "slug": "sales87"
@@ -61194,7 +61194,7 @@
     "link": "https://stripe.com/jobs/search?gh_jid=7805386",
     "date": "2026-04-28T03:00:19-04:00",
     "source": "Greenhouse: Stripe [stripe]",
-    "location": "India, Bangalore ",
+    "location": "India, Bangalore",
     "department": "4135 SDC - Marketing",
     "active": true,
     "slug": "marketing55"
@@ -61388,7 +61388,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8469230002?gh_jid=8469230002",
     "date": "2026-04-27T07:56:58-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "Hong Kong, Hong Kong",
+    "location": "Hong Kong",
     "department": "Recruiting",
     "active": true,
     "slug": "recruiting20"
@@ -61400,7 +61400,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7714574003",
     "date": "2026-04-27T02:39:39-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Product Management",
     "active": true,
     "slug": "trader46"
@@ -61448,7 +61448,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7712939003",
     "date": "2026-04-24T06:46:16-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Engineering",
     "active": true,
     "slug": "frontend33"
@@ -61460,7 +61460,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7712938003",
     "date": "2026-04-24T06:46:15-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Engineering",
     "active": true,
     "slug": "frontend32"
@@ -61484,7 +61484,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7712845003",
     "date": "2026-04-24T03:51:48-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Product Management",
     "active": true,
     "slug": "product155"
@@ -61496,7 +61496,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7712844003",
     "date": "2026-04-24T03:51:47-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Product Management",
     "active": true,
     "slug": "product154"
@@ -61664,7 +61664,7 @@
     "link": "https://a16z.com/about/jobs/?gh_jid=7698497003",
     "date": "2026-04-22T20:18:00-04:00",
     "source": "Greenhouse: a16z [a16z]",
-    "location": "Menlo Park, California, United States; New York, New York, United States; San Francisco, California, United States",
+    "location": "Menlo Park, California, United States; New York, United States; San Francisco, California, United States",
     "department": "New Media",
     "active": true,
     "slug": "partner"
@@ -61748,7 +61748,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8516108002?gh_jid=8516108002",
     "date": "2026-04-22T06:28:07-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "Hong Kong, Hong Kong",
+    "location": "Hong Kong",
     "department": "Cybersecurity",
     "active": true,
     "slug": "security73"
@@ -61760,7 +61760,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7710486003",
     "date": "2026-04-22T00:51:14-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Crypto Ecosystem Development",
     "active": true,
     "slug": "manager122"
@@ -61772,7 +61772,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7710480003",
     "date": "2026-04-22T00:44:08-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Crypto Ecosystem Development",
     "active": true,
     "slug": "manager121"
@@ -61808,7 +61808,7 @@
     "link": "https://a16z.com/about/jobs/?gh_jid=7597930003",
     "date": "2026-04-21T19:06:52-04:00",
     "source": "Greenhouse: a16z [a16z]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Bio + Health",
     "active": true,
     "slug": "sales83"
@@ -62062,7 +62062,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8515327002?gh_jid=8515327002",
     "date": "2026-04-20T14:20:33-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Cybersecurity",
     "active": true,
     "slug": "security68"
@@ -62303,7 +62303,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7703881003",
     "date": "2026-04-17T04:44:03-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Engineering",
     "active": true,
     "slug": "engineer307"
@@ -62351,7 +62351,7 @@
     "link": "https://stripe.com/jobs/search?gh_jid=7815794",
     "date": "2026-04-16T15:47:40-04:00",
     "source": "Greenhouse: Stripe [stripe]",
-    "location": "US-NYC or US-SF ",
+    "location": "US-NYC or US-SF",
     "department": "8526 Product Experience Operations",
     "active": true,
     "slug": "manager118"
@@ -62423,7 +62423,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7702525003",
     "date": "2026-04-15T23:02:35-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Engineering",
     "active": true,
     "slug": "architect17"
@@ -62591,7 +62591,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8497319002?gh_jid=8497319002",
     "date": "2026-04-14T17:09:28-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Quantitative Trading",
     "active": true,
     "slug": "trader43"
@@ -62675,7 +62675,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7699601003",
     "date": "2026-04-14T01:45:50-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Engineering",
     "active": true,
     "slug": "devops35"
@@ -62687,7 +62687,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7699598003",
     "date": "2026-04-14T01:40:09-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Engineering",
     "active": true,
     "slug": "engineer300"
@@ -62833,7 +62833,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7697795003",
     "date": "2026-04-13T04:05:49-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "CEO Office",
     "active": true,
     "slug": "associate12"
@@ -62857,7 +62857,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7684590003",
     "date": "2026-04-13T02:58:43-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Engineering",
     "active": true,
     "slug": "frontend27"
@@ -62991,7 +62991,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8483248002?gh_jid=8483248002",
     "date": "2026-04-09T14:02:05-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "Hong Kong, Hong Kong",
+    "location": "Hong Kong",
     "department": "Workplace Services & Experience",
     "active": true,
     "slug": "es"
@@ -63267,7 +63267,7 @@
     "link": "https://apply.workable.com/j/BEAAFBDD01",
     "date": "2026-04-08T00:00:00.000Z",
     "source": "Workable: Hex Trust [hextrust]",
-    "location": "Hong Kong, Hong Kong",
+    "location": "Hong Kong",
     "department": [
       "Finance"
     ],
@@ -63375,7 +63375,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7691999003",
     "date": "2026-04-07T06:57:53-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Product Management",
     "active": true,
     "slug": "product140"
@@ -63387,7 +63387,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7691998003",
     "date": "2026-04-07T06:57:53-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Product Management",
     "active": true,
     "slug": "product139"
@@ -63471,7 +63471,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7690776003",
     "date": "2026-04-06T11:17:50-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Product Management",
     "active": true,
     "slug": "product138"
@@ -63719,7 +63719,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7687326003",
     "date": "2026-04-02T05:30:09-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Engineering",
     "active": true,
     "slug": "frontend24"
@@ -63731,7 +63731,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7687329003",
     "date": "2026-04-02T05:30:08-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Engineering",
     "active": true,
     "slug": "frontend23"
@@ -63827,7 +63827,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7686177003",
     "date": "2026-04-01T03:52:57-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Engineering",
     "active": true,
     "slug": "engineer283"
@@ -63947,7 +63947,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7684888003",
     "date": "2026-03-31T03:09:42-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "CEO Office",
     "active": true,
     "slug": "vice2"
@@ -63959,7 +63959,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7684887003",
     "date": "2026-03-31T03:09:41-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "CEO Office",
     "active": true,
     "slug": "vice"
@@ -63983,7 +63983,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8441121002?gh_jid=8441121002",
     "date": "2026-03-30T22:07:09-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "Hong Kong, Hong Kong",
+    "location": "Hong Kong",
     "department": "Cybersecurity",
     "active": true,
     "slug": "security56"
@@ -64394,7 +64394,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7678394003",
     "date": "2026-03-25T03:30:49-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Engineering",
     "active": true,
     "slug": "architect15"
@@ -64406,7 +64406,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7678350003",
     "date": "2026-03-25T01:49:57-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Engineering",
     "active": true,
     "slug": "engineer273"
@@ -64418,7 +64418,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7678342003",
     "date": "2026-03-25T01:37:03-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Engineering",
     "active": true,
     "slug": "engineer272"
@@ -64430,7 +64430,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7678331003",
     "date": "2026-03-25T01:11:44-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Engineering",
     "active": true,
     "slug": "engineer271"
@@ -64620,7 +64620,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7668551003",
     "date": "2026-03-23T01:23:41-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Strategic Markets",
     "active": true,
     "slug": "marketing44"
@@ -64632,7 +64632,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7675050003",
     "date": "2026-03-23T01:15:09-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Engineering",
     "active": true,
     "slug": "engineer266"
@@ -64656,7 +64656,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7675035003",
     "date": "2026-03-22T23:15:06-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Engineering",
     "active": true,
     "slug": "security50"
@@ -64668,7 +64668,7 @@
     "link": "https://job-boards.greenhouse.io/alpaca/jobs/5833647004",
     "date": "2026-03-20T21:28:06-04:00",
     "source": "Greenhouse: Alpaca [alpaca]",
-    "location": "Remote - North America - EU - UK ",
+    "location": "Remote - North America - EU - UK",
     "department": "Data Analytics",
     "active": true,
     "slug": "director8"
@@ -64728,7 +64728,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7673564003",
     "date": "2026-03-20T08:58:31-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Engineering",
     "active": true,
     "slug": "engineer265"
@@ -64740,7 +64740,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7673466003",
     "date": "2026-03-20T06:58:56-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Engineering",
     "active": true,
     "slug": "engineer264"
@@ -64752,7 +64752,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7673457003",
     "date": "2026-03-20T06:41:57-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Engineering",
     "active": true,
     "slug": "engineer263"
@@ -64764,7 +64764,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7673443003",
     "date": "2026-03-20T06:33:37-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Engineering",
     "active": true,
     "slug": "rust8"
@@ -64776,7 +64776,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7673432003",
     "date": "2026-03-20T06:20:54-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Engineering",
     "active": true,
     "slug": "rust7"
@@ -64788,7 +64788,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7673170003",
     "date": "2026-03-20T02:11:12-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR; Singapore, Singapore",
+    "location": "Hong Kong; Singapore",
     "department": "Engineering",
     "active": true,
     "slug": "engineer262"
@@ -64824,7 +64824,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7671640003",
     "date": "2026-03-19T05:20:13-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Product Management",
     "active": true,
     "slug": "product128"
@@ -64836,7 +64836,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7671639003",
     "date": "2026-03-19T05:20:12-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Product Management",
     "active": true,
     "slug": "product127"
@@ -64848,7 +64848,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7671615003",
     "date": "2026-03-19T04:49:27-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Product Management",
     "active": true,
     "slug": "product126"
@@ -64860,7 +64860,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7671614003",
     "date": "2026-03-19T04:49:26-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Product Management",
     "active": true,
     "slug": "product125"
@@ -64992,7 +64992,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7668932003",
     "date": "2026-03-18T06:08:53-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Product Management",
     "active": true,
     "slug": "product124"
@@ -65004,7 +65004,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7668933003",
     "date": "2026-03-18T06:08:52-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Product Management",
     "active": true,
     "slug": "product123"
@@ -65040,7 +65040,7 @@
     "link": "https://job-boards.greenhouse.io/dvtrading/jobs/4674275005",
     "date": "2026-03-17T15:58:36-04:00",
     "source": "Greenhouse: DV Trading [dvtrading]",
-    "location": "Dubai, Dubai, United Arab Emirates; Singapore",
+    "location": "Dubai, United Arab Emirates; Singapore",
     "department": "DV Commodities",
     "active": true,
     "slug": "trader39"
@@ -65234,7 +65234,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8459402002?gh_jid=8459402002",
     "date": "2026-03-12T12:20:39-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Human Resources",
     "active": true,
     "slug": "immigration"
@@ -65306,7 +65306,7 @@
     "link": "https://www.fireblocks.com/careers/position?gh_jid=4662147006",
     "date": "2026-03-11T15:43:29-04:00",
     "source": "Greenhouse: Fireblocks [fireblocks]",
-    "location": "Miami, Florida, United States; New York; United States",
+    "location": "Miami, Florida, United States; New York",
     "department": "R&D",
     "active": true,
     "slug": "engineer248"
@@ -65437,7 +65437,7 @@
     "link": "https://job-boards.greenhouse.io/21shares/jobs/5823209004",
     "date": "2026-03-10T13:56:19-04:00",
     "source": "Greenhouse: 21Shares [21shares]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Technology",
     "active": true,
     "slug": "product117"
@@ -65605,7 +65605,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7655633003",
     "date": "2026-03-06T10:20:22-05:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "LATAM; Mexico (Remote); Remote Roles - LATAM",
+    "location": "Mexico (Remote)",
     "department": "Product Management",
     "active": true,
     "slug": "product114"
@@ -65617,7 +65617,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7655632003",
     "date": "2026-03-06T10:18:56-05:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Brazil; LATAM; Remote Roles - LATAM; São Paulo, Brazil",
+    "location": "São Paulo, Brazil",
     "department": "Product Management",
     "active": true,
     "slug": "product113"
@@ -65629,7 +65629,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7655609003",
     "date": "2026-03-06T10:11:56-05:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Product Management",
     "active": true,
     "slug": "product112"
@@ -65641,7 +65641,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7655610003",
     "date": "2026-03-06T10:11:55-05:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Product Management",
     "active": true,
     "slug": "product111"
@@ -65870,7 +65870,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8448713002?gh_jid=8448713002",
     "date": "2026-03-04T10:49:19-05:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Recruiting",
     "active": true,
     "slug": "recruiting14"
@@ -65907,7 +65907,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8429265002?gh_jid=8429265002",
     "date": "2026-03-04T04:43:36-05:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "Hong Kong, Hong Kong",
+    "location": "Hong Kong",
     "department": "Sales & Trading",
     "active": true,
     "slug": "sales67"
@@ -65979,7 +65979,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8434049002?gh_jid=8434049002",
     "date": "2026-03-03T10:36:30-05:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Real Estate Engineering",
     "active": true,
     "slug": "manager86"
@@ -65991,7 +65991,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7650513003",
     "date": "2026-03-03T01:54:22-05:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "CEO Office",
     "active": true,
     "slug": "manager85"
@@ -66003,7 +66003,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7650512003",
     "date": "2026-03-03T01:54:21-05:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR; Singapore, Singapore",
+    "location": "Hong Kong; Singapore",
     "department": "CEO Office",
     "active": true,
     "slug": "manager84"
@@ -66051,7 +66051,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8443094002?gh_jid=8443094002",
     "date": "2026-03-02T09:10:35-05:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Quantitative Trading",
     "active": true,
     "slug": "trader35"
@@ -66063,7 +66063,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7648794003",
     "date": "2026-03-02T06:17:20-05:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR; Singapore, Singapore",
+    "location": "Hong Kong; Singapore",
     "department": "Engineering",
     "active": true,
     "slug": "devops27"
@@ -66075,7 +66075,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7648781003",
     "date": "2026-03-02T05:52:35-05:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR; Singapore, Singapore",
+    "location": "Hong Kong; Singapore",
     "department": "Engineering",
     "active": true,
     "slug": "engineer235"
@@ -66099,7 +66099,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7648699003",
     "date": "2026-03-02T01:57:46-05:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Strategic Markets",
     "active": true,
     "slug": "associate7"
@@ -66135,7 +66135,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8442082002?gh_jid=8442082002",
     "date": "2026-02-27T16:18:05-05:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Procurement",
     "active": true,
     "slug": "indirect2"
@@ -66267,7 +66267,7 @@
     "link": "https://jobs.ashbyhq.com/Blockworks/6b0b650d-fae6-4cf1-b70f-8225eb7f77f3",
     "date": "2026-02-26T15:16:40.598+00:00",
     "source": "Ashby: Blockworks [Blockworks]",
-    "location": "New York ",
+    "location": "New York",
     "department": "Engineering",
     "active": true,
     "slug": "engineer233"
@@ -66387,7 +66387,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8433793002?gh_jid=8433793002",
     "date": "2026-02-24T11:09:15-05:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "Hong Kong, Hong Kong",
+    "location": "Hong Kong",
     "department": "Quantitative Trading",
     "active": true,
     "slug": "trader32"
@@ -66399,7 +66399,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7641861003",
     "date": "2026-02-23T21:40:14-05:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Product Management",
     "active": true,
     "slug": "product101"
@@ -66566,7 +66566,7 @@
     "link": "https://stripe.com/jobs/search?gh_jid=7612192",
     "date": "2026-02-20T13:00:18-05:00",
     "source": "Greenhouse: Stripe [stripe]",
-    "location": "Toronto, Remote-Canada ",
+    "location": "Toronto, Remote-Canada",
     "department": "3130 Risk & Reward",
     "active": true,
     "slug": "analyst20"
@@ -66686,7 +66686,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8428218002?gh_jid=8428218002",
     "date": "2026-02-19T13:09:50-05:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "IT and Systems Engineering",
     "active": true,
     "slug": "security46"
@@ -66904,7 +66904,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8413554002?gh_jid=8413554002",
     "date": "2026-02-13T11:51:20-05:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Quantitative Trading",
     "active": true,
     "slug": "trader31"
@@ -67144,7 +67144,7 @@
     "link": "https://job-boards.greenhouse.io/brave/jobs/7604091",
     "date": "2026-02-10T16:12:56-05:00",
     "source": "Greenhouse: Brave [brave]",
-    "location": "United States ",
+    "location": "United States",
     "department": "Sales",
     "active": true,
     "slug": "sales61"
@@ -67638,7 +67638,7 @@
     "link": "https://www.fireblocks.com/careers/position?gh_jid=4652122006",
     "date": "2026-02-06T11:02:15-05:00",
     "source": "Greenhouse: Fireblocks [fireblocks]",
-    "location": "Bogotá, Bogotá, Colombia; Buenos Aires, Buenos Aires, Argentina; Mexico City, Mexico City, Mexico; São Paulo, São Paulo, Brazil; Toronto, Ontario, Canada",
+    "location": "Bogotá, Colombia; Buenos Aires, Argentina; Mexico City, Mexico; São Paulo, Brazil; Toronto, Ontario, Canada",
     "department": "R&D",
     "active": true,
     "slug": "engineer217"
@@ -67662,7 +67662,7 @@
     "link": "https://jobs.ashbyhq.com/Blockworks/86416d5e-8ae0-453a-abf3-4ac369a14bb4",
     "date": "2026-02-05T18:31:04.323+00:00",
     "source": "Ashby: Blockworks [Blockworks]",
-    "location": "New York ",
+    "location": "New York",
     "department": "Engineering",
     "active": true,
     "slug": "backend40"
@@ -67914,7 +67914,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7611329003",
     "date": "2026-01-30T05:56:16-05:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR; Singapore, Singapore",
+    "location": "Hong Kong; Singapore",
     "department": "Engineering",
     "active": true,
     "slug": "engineer215"
@@ -68070,7 +68070,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8377639002?gh_jid=8377639002",
     "date": "2026-01-28T04:56:13-05:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "Hong Kong, Hong Kong",
+    "location": "Hong Kong",
     "department": "Legal and Compliance",
     "active": true,
     "slug": "compliance14"
@@ -68153,7 +68153,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7596531003",
     "date": "2026-01-27T05:43:10-05:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Engineering",
     "active": true,
     "slug": "engineer211"
@@ -68248,7 +68248,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8391254002?gh_jid=8391254002",
     "date": "2026-01-26T13:47:36-05:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Workplace Services & Experience",
     "active": true,
     "slug": "manager56"
@@ -68380,7 +68380,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7601762003",
     "date": "2026-01-23T02:50:58-05:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Engineering",
     "active": true,
     "slug": "engineer203"
@@ -68392,7 +68392,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7601723003",
     "date": "2026-01-23T01:16:16-05:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Engineering",
     "active": true,
     "slug": "product90"
@@ -68692,7 +68692,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8347385002?gh_jid=8347385002",
     "date": "2026-01-16T07:41:15-05:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Sales & Trading",
     "active": true,
     "slug": "sales50"
@@ -68704,7 +68704,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7594323003",
     "date": "2026-01-16T05:37:28-05:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Engineering",
     "active": true,
     "slug": "marketing32"
@@ -68859,7 +68859,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8345570002?gh_jid=8345570002",
     "date": "2026-01-13T13:22:00-05:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Recruiting",
     "active": true,
     "slug": "recruiting10"
@@ -69222,7 +69222,7 @@
     "link": "https://apply.workable.com/j/BDD63370C2",
     "date": "2026-01-08T00:00:00.000Z",
     "source": "Workable: Hex Trust [hextrust]",
-    "location": "Hong Kong, Hong Kong",
+    "location": "Hong Kong",
     "department": [],
     "active": true,
     "slug": "manager44"
@@ -69294,7 +69294,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8360490002?gh_jid=8360490002",
     "date": "2026-01-06T09:45:26-05:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Operations",
     "active": true,
     "slug": "operations18"
@@ -69413,7 +69413,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7575853003",
     "date": "2026-01-02T02:37:43-05:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Product Management",
     "active": true,
     "slug": "senior4"
@@ -69437,7 +69437,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8355894002?gh_jid=8355894002",
     "date": "2025-12-30T11:58:12-05:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "IT and Systems Engineering",
     "active": true,
     "slug": "engineer175"
@@ -69461,7 +69461,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7559099003",
     "date": "2025-12-30T02:51:04-05:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Strategic Markets",
     "active": true,
     "slug": "head7"
@@ -69473,7 +69473,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7559098003",
     "date": "2025-12-30T02:51:03-05:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Strategic Markets",
     "active": true,
     "slug": "head6"
@@ -69593,7 +69593,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8347286002?gh_jid=8347286002",
     "date": "2025-12-19T15:07:28-05:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Fundamental Research",
     "active": true,
     "slug": "analyst17"
@@ -69868,7 +69868,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7552817003",
     "date": "2025-12-10T01:49:19-05:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Product Management",
     "active": true,
     "slug": "product79"
@@ -69964,7 +69964,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8324512002?gh_jid=8324512002",
     "date": "2025-12-08T17:00:39-05:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Legal and Compliance",
     "active": true,
     "slug": "compliance9"
@@ -69988,7 +69988,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8209005002?gh_jid=8209005002",
     "date": "2025-12-05T03:21:34-05:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "Hong Kong, Hong Kong",
+    "location": "Hong Kong",
     "department": "Sales & Trading",
     "active": true,
     "slug": "sales42"
@@ -70072,7 +70072,7 @@
     "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4721614101",
     "date": "2025-12-02T05:55:37-05:00",
     "source": "Greenhouse: Bitpanda [bitpanda]",
-    "location": "Vienna, Vienna, Austria",
+    "location": "Vienna, Austria",
     "department": "Operations & Customer Service",
     "active": true,
     "slug": "associate4"
@@ -70515,7 +70515,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7531920003",
     "date": "2025-11-18T02:55:48-05:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Product Management",
     "active": true,
     "slug": "product73"
@@ -70527,7 +70527,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7531921003",
     "date": "2025-11-18T02:55:47-05:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Product Management",
     "active": true,
     "slug": "product72"
@@ -70708,7 +70708,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7525131003",
     "date": "2025-11-11T04:33:35-05:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Product Management",
     "active": true,
     "slug": "product69"
@@ -71233,7 +71233,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8213653002?gh_jid=8213653002",
     "date": "2025-10-29T10:54:57-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Software Engineering",
     "active": true,
     "slug": "engineer142"
@@ -71269,7 +71269,7 @@
     "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4699355101",
     "date": "2025-10-28T06:16:56-04:00",
     "source": "Greenhouse: Bitpanda [bitpanda]",
-    "location": "Vienna, Vienna, Austria",
+    "location": "Vienna, Austria",
     "department": "Engineering & Technology",
     "active": true,
     "slug": "security25"
@@ -71281,7 +71281,7 @@
     "link": "https://stripe.com/jobs/search?gh_jid=7337544",
     "date": "2025-10-28T04:53:42-04:00",
     "source": "Greenhouse: Stripe [stripe]",
-    "location": "Dublin ",
+    "location": "Dublin",
     "department": "1130 Global Sales Development Mgrs",
     "active": true,
     "slug": "manager30"
@@ -71293,7 +71293,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8229056002?gh_jid=8229056002",
     "date": "2025-10-27T14:06:05-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Recruiting",
     "active": true,
     "slug": "trader27"
@@ -71377,7 +71377,7 @@
     "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4691242101",
     "date": "2025-10-21T06:34:50-04:00",
     "source": "Greenhouse: Bitpanda [bitpanda]",
-    "location": "Barcelona, Spain; Vienna, Vienna, Austria",
+    "location": "Barcelona, Spain; Vienna, Austria",
     "department": "Operations & Customer Service",
     "active": true,
     "slug": "operations12"
@@ -71919,7 +71919,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7477322003",
     "date": "2025-09-24T22:46:44-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR; Singapore, Singapore",
+    "location": "Hong Kong; Singapore",
     "department": "Engineering",
     "active": true,
     "slug": "devops14"
@@ -71977,7 +71977,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8180726002?gh_jid=8180726002",
     "date": "2025-09-22T14:58:33-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Quantitative Trading",
     "active": true,
     "slug": "analyst15"
@@ -72133,7 +72133,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8161177002?gh_jid=8161177002",
     "date": "2025-09-11T23:57:49-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "Hong Kong, Hong Kong",
+    "location": "Hong Kong",
     "department": "Software Engineering",
     "active": true,
     "slug": "onboarding2"
@@ -72313,7 +72313,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8155302002?gh_jid=8155302002",
     "date": "2025-09-05T17:07:15-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "IT and Systems Engineering",
     "active": true,
     "slug": "security20"
@@ -72337,7 +72337,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8151903002?gh_jid=8151903002",
     "date": "2025-09-04T21:43:41-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "Hong Kong, Hong Kong",
+    "location": "Hong Kong",
     "department": "Recruiting",
     "active": true,
     "slug": "recruiting6"
@@ -72409,7 +72409,7 @@
     "link": "https://stripe.com/jobs/search?gh_jid=7202953",
     "date": "2025-08-29T13:10:20-04:00",
     "source": "Greenhouse: Stripe [stripe]",
-    "location": "Mexico City ",
+    "location": "Mexico City",
     "department": "3313 SDC - Financial Crimes",
     "active": true,
     "slug": "operations9"
@@ -72481,7 +72481,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/6690158003",
     "date": "2025-08-22T03:00:55-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR; Singapore, Singapore",
+    "location": "Hong Kong; Singapore",
     "department": "Engineering",
     "active": true,
     "slug": "engineer118"
@@ -72567,7 +72567,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8121906002?gh_jid=8121906002",
     "date": "2025-08-15T13:32:18-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Network Engineering",
     "active": true,
     "slug": "security19"
@@ -72591,7 +72591,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/7731614002?gh_jid=7731614002",
     "date": "2025-08-15T03:07:26-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "Hong Kong, Hong Kong",
+    "location": "Hong Kong",
     "department": "Quantitative Trading",
     "active": true,
     "slug": "analyst12"
@@ -72699,7 +72699,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/6679538003",
     "date": "2025-08-11T23:40:12-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Product Management",
     "active": true,
     "slug": "product56"
@@ -72711,7 +72711,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/6679537003",
     "date": "2025-08-11T23:39:55-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Product Management",
     "active": true,
     "slug": "product55"
@@ -72819,7 +72819,7 @@
     "link": "https://stripe.com/jobs/search?gh_jid=7091959",
     "date": "2025-08-04T11:42:07-04:00",
     "source": "Greenhouse: Stripe [stripe]",
-    "location": "NYC-Privy, US-Remote ",
+    "location": "NYC-Privy, US-Remote",
     "department": "9001 Privy - R&D",
     "active": true,
     "slug": "fullstack8"
@@ -72891,7 +72891,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/6664617003",
     "date": "2025-07-29T05:42:26-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Engineering",
     "active": true,
     "slug": "engineer109"
@@ -73011,7 +73011,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/6656607003",
     "date": "2025-07-22T03:16:25-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR; Singapore, Singapore",
+    "location": "Hong Kong; Singapore",
     "department": "Engineering",
     "active": true,
     "slug": "engineer105"
@@ -73023,7 +73023,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/6656277003",
     "date": "2025-07-21T23:03:04-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Product Management",
     "active": true,
     "slug": "product53"
@@ -73035,7 +73035,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/6656276003",
     "date": "2025-07-21T23:02:45-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Product Management",
     "active": true,
     "slug": "product52"
@@ -73119,7 +73119,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8056116002?gh_jid=8056116002",
     "date": "2025-07-10T13:05:32-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Strategy and Product",
     "active": true,
     "slug": "product51"
@@ -73167,7 +73167,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/6642975003",
     "date": "2025-07-08T21:59:20-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Product Management",
     "active": true,
     "slug": "product50"
@@ -73203,7 +73203,7 @@
     "link": "https://job-boards.greenhouse.io/alpaca/jobs/4431262004",
     "date": "2025-07-07T10:26:15-04:00",
     "source": "Greenhouse: Alpaca [alpaca]",
-    "location": "Remote - Anywhere ",
+    "location": "Remote - Anywhere",
     "department": "Crypto",
     "active": true,
     "slug": "operations6"
@@ -73251,7 +73251,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8056588002?gh_jid=8056588002",
     "date": "2025-06-30T14:41:46-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Machine Learning",
     "active": true,
     "slug": "machine2"
@@ -73299,7 +73299,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8034317002?gh_jid=8034317002",
     "date": "2025-06-23T05:19:52-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "Hong Kong, Hong Kong",
+    "location": "Hong Kong",
     "department": "IT and Systems Engineering",
     "active": true,
     "slug": "engineer98"
@@ -73323,7 +73323,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/6615074003",
     "date": "2025-06-18T21:35:21-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR; Singapore, Singapore",
+    "location": "Hong Kong; Singapore",
     "department": "Engineering",
     "active": true,
     "slug": "engineer96"
@@ -73335,7 +73335,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/6610645003",
     "date": "2025-06-18T10:51:57-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR; Singapore, Singapore",
+    "location": "Hong Kong; Singapore",
     "department": "Engineering",
     "active": true,
     "slug": "engineer95"
@@ -73515,7 +73515,7 @@
     "link": "https://jobs.lever.co/coins/02c868de-b322-498d-b799-8e6396755402",
     "date": "2025-06-04T09:53:01.192Z",
     "source": "Lever: Coins.ph [coins]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Crypto Exchange",
     "active": true,
     "slug": "product47"
@@ -73587,7 +73587,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/8018160002?gh_jid=8018160002",
     "date": "2025-05-30T13:41:48-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "IT and Systems Engineering",
     "active": true,
     "slug": "eng9"
@@ -73685,7 +73685,7 @@
     "link": "https://jobs.lever.co/coins/acc7b3c7-a201-4c3c-a280-2f976dd7a749",
     "date": "2025-05-27T05:32:23.865Z",
     "source": "Lever: Coins.ph [coins]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Crypto Exchange",
     "active": true,
     "slug": "product45"
@@ -73757,7 +73757,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/6584033003",
     "date": "2025-05-21T04:56:02-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Product Management",
     "active": true,
     "slug": "product43"
@@ -73769,7 +73769,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/6584031003",
     "date": "2025-05-21T04:56:02-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Product Management",
     "active": true,
     "slug": "product42"
@@ -73817,7 +73817,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/7998232002?gh_jid=7998232002",
     "date": "2025-05-15T21:13:55-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "Hong Kong, Hong Kong",
+    "location": "Hong Kong",
     "department": "Cybersecurity",
     "active": true,
     "slug": "security17"
@@ -73841,7 +73841,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/6576781003",
     "date": "2025-05-15T02:43:37-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR; Singapore, Singapore",
+    "location": "Hong Kong; Singapore",
     "department": "Engineering",
     "active": true,
     "slug": "engineer87"
@@ -73974,7 +73974,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/6569486003",
     "date": "2025-05-08T08:48:51-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Engineering",
     "active": true,
     "slug": "engineer86"
@@ -74154,7 +74154,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/7970447002?gh_jid=7970447002",
     "date": "2025-04-23T14:02:44-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Recruiting",
     "active": true,
     "slug": "recruiting3"
@@ -74190,7 +74190,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/7961674002?gh_jid=7961674002",
     "date": "2025-04-17T22:35:10-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "Hong Kong, Hong Kong",
+    "location": "Hong Kong",
     "department": "Real Estate Engineering",
     "active": true,
     "slug": "engineer82"
@@ -74298,7 +74298,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/7950706002?gh_jid=7950706002",
     "date": "2025-04-09T16:36:33-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Quantitative Trading",
     "active": true,
     "slug": "trader22"
@@ -74394,7 +74394,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/7934336002?gh_jid=7934336002",
     "date": "2025-03-28T14:02:36-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Real Estate Engineering",
     "active": true,
     "slug": "engineer77"
@@ -74406,7 +74406,7 @@
     "link": "https://jobs.lever.co/coins/0ef90e86-1a40-41c3-b541-fd32863b2e17",
     "date": "2025-03-28T08:59:45.148Z",
     "source": "Lever: Coins.ph [coins]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Crypto Exchange",
     "active": true,
     "slug": "product33"
@@ -74418,7 +74418,7 @@
     "link": "https://jobs.ashbyhq.com/alpenlabs/03fb8763-273b-409d-8eac-86116f5c93e6",
     "date": "2025-03-28T04:51:26.592+00:00",
     "source": "Ashby: Alpen Labs [alpenlabs]",
-    "location": "Remote ",
+    "location": "Remote",
     "department": "Engineering",
     "active": true,
     "slug": "engineer76"
@@ -74466,7 +74466,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/7921972002?gh_jid=7921972002",
     "date": "2025-03-20T14:40:29-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Financial Resource Management",
     "active": true,
     "slug": "financial"
@@ -74610,7 +74610,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/6507075003",
     "date": "2025-03-12T05:54:58-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Engineering",
     "active": true,
     "slug": "devops10"
@@ -74826,7 +74826,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/7880424002?gh_jid=7880424002",
     "date": "2025-02-26T06:51:39-05:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "Hong Kong, Hong Kong",
+    "location": "Hong Kong",
     "department": "Procurement",
     "active": true,
     "slug": "ps"
@@ -74910,7 +74910,7 @@
     "link": "https://www.alphalab.capital/career/5445840004?gh_jid=5445840004",
     "date": "2025-02-11T02:01:17-05:00",
     "source": "Greenhouse: Caladan [caladan]",
-    "location": "Ho Chi Minh City, Ho Chi Minh City, Vietnam",
+    "location": "Ho Chi Minh City, Vietnam",
     "department": "Engineering & Trading",
     "active": true,
     "slug": "engineer67"
@@ -74934,7 +74934,7 @@
     "link": "https://jobs.lever.co/coins/44cd6290-ccfb-4163-8b2d-74b566026262",
     "date": "2025-02-05T07:47:37.120Z",
     "source": "Lever: Coins.ph [coins]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Marketing",
     "active": true,
     "slug": "marketing9"
@@ -75164,7 +75164,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/6325652003",
     "date": "2025-01-14T06:29:44-05:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Engineering",
     "active": true,
     "slug": "engineer60"
@@ -75379,7 +75379,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/6278887003",
     "date": "2024-11-20T22:13:31-05:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Product Design",
     "active": true,
     "slug": "product20"
@@ -75391,7 +75391,7 @@
     "link": "https://jobs.lever.co/coins/e7d72125-09e7-47f2-a431-85b16af99694",
     "date": "2024-11-19T09:44:06.007Z",
     "source": "Lever: Coins.ph [coins]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Compliance",
     "active": true,
     "slug": "compliance5"
@@ -75500,7 +75500,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/6246532003",
     "date": "2024-10-18T03:03:51-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Product Design",
     "active": true,
     "slug": "designer4"
@@ -75584,7 +75584,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/7668113002?gh_jid=7668113002",
     "date": "2024-10-03T20:16:05-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "Hong Kong, Hong Kong",
+    "location": "Hong Kong",
     "department": "Software Engineering",
     "active": true,
     "slug": "engineer52"
@@ -75656,7 +75656,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/7642886002?gh_jid=7642886002",
     "date": "2024-09-17T12:53:15-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "Hong Kong, Hong Kong",
+    "location": "Hong Kong",
     "department": "Cybersecurity",
     "active": true,
     "slug": "security7"
@@ -75668,7 +75668,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/6194768003",
     "date": "2024-09-15T22:35:57-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Product Management",
     "active": true,
     "slug": "product18"
@@ -75716,7 +75716,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/7604415002?gh_jid=7604415002",
     "date": "2024-09-05T09:36:16-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Software Engineering",
     "active": true,
     "slug": "engineer49"
@@ -75848,7 +75848,7 @@
     "link": "https://jobs.lever.co/coins/8ec7a959-f9aa-41d2-a518-8baf0a78fd7a",
     "date": "2024-06-10T05:16:34.391Z",
     "source": "Lever: Coins.ph [coins]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "TradeDesk",
     "active": true,
     "slug": "sales9"
@@ -75860,7 +75860,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/6016126003",
     "date": "2024-06-07T01:18:09-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Product Design",
     "active": true,
     "slug": "designer3"
@@ -75944,7 +75944,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/7449190002?gh_jid=7449190002",
     "date": "2024-05-20T17:22:15-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Machine Learning",
     "active": true,
     "slug": "eng8"
@@ -76028,7 +76028,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/7419948002?gh_jid=7419948002",
     "date": "2024-04-24T16:35:42-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Procurement",
     "active": true,
     "slug": "procurement2"
@@ -76040,7 +76040,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/7419820002?gh_jid=7419820002",
     "date": "2024-04-24T16:35:23-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Procurement",
     "active": true,
     "slug": "procurement"
@@ -76064,7 +76064,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/5949501003",
     "date": "2024-04-10T01:24:50-04:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Hong Kong, Hong Kong SAR",
+    "location": "Hong Kong",
     "department": "Admin Department",
     "active": true,
     "slug": "administration"
@@ -76460,7 +76460,7 @@
     "link": "https://jobs.lever.co/coins/805f6d21-c6e8-41e6-9466-568af4288d30",
     "date": "2024-01-29T05:48:27.090Z",
     "source": "Lever: Coins.ph [coins]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Product",
     "active": true,
     "slug": "product11"
@@ -76484,7 +76484,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/7111147002?gh_jid=7111147002",
     "date": "2024-01-25T22:13:18-05:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "Hong Kong, Hong Kong",
+    "location": "Hong Kong",
     "department": "Network Engineering",
     "active": true,
     "slug": "engineer35"
@@ -76496,7 +76496,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/7090529002?gh_jid=7090529002",
     "date": "2024-01-16T14:22:43-05:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Software Engineering",
     "active": true,
     "slug": "product10"
@@ -76556,7 +76556,7 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/5831629003",
     "date": "2023-12-12T03:39:12-05:00",
     "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
+    "location": "Singapore",
     "department": "Product Design",
     "active": true,
     "slug": "product9"
@@ -76783,7 +76783,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/6802323002?gh_jid=6802323002",
     "date": "2023-06-13T16:46:07-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "Hong Kong, Hong Kong",
+    "location": "Hong Kong",
     "department": "Machine Learning",
     "active": true,
     "slug": "engineer25"
@@ -76879,7 +76879,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/6673515002?gh_jid=6673515002",
     "date": "2023-03-20T11:58:34-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Quantitative Trading",
     "active": true,
     "slug": "trader12"
@@ -77024,7 +77024,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/6485460002?gh_jid=6485460002",
     "date": "2022-11-18T15:30:44-05:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Machine Learning",
     "active": true,
     "slug": "engineer22"
@@ -77191,7 +77191,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/6300684002?gh_jid=6300684002",
     "date": "2022-08-02T04:20:47-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "Hong Kong, Hong Kong",
+    "location": "Hong Kong",
     "department": "Network Engineering",
     "active": true,
     "slug": "engineer18"
@@ -77239,7 +77239,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/6254435002?gh_jid=6254435002",
     "date": "2022-07-06T17:45:24-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Software Engineering",
     "active": true,
     "slug": "engineer15"
@@ -77275,7 +77275,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/6184529002?gh_jid=6184529002",
     "date": "2022-06-24T14:37:47-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Software Engineering",
     "active": true,
     "slug": "engineer13"
@@ -77359,7 +77359,7 @@
     "link": "https://job-boards.greenhouse.io/dvtrading/jobs/4018000005",
     "date": "2022-05-12T11:15:08-04:00",
     "source": "Greenhouse: DV Trading [dvtrading]",
-    "location": "Chicago; Dubai, Dubai, United Arab Emirates; London; New York",
+    "location": "Chicago; Dubai, United Arab Emirates; London; New York",
     "department": "Trading",
     "active": true,
     "slug": "trader7"
@@ -77394,7 +77394,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/6110602002?gh_jid=6110602002",
     "date": "2022-05-03T16:15:55-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Software Engineering",
     "active": true,
     "slug": "data"
@@ -77621,7 +77621,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/5869205002?gh_jid=5869205002",
     "date": "2022-01-28T20:09:12-05:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Software Engineering",
     "active": true,
     "slug": "tools2"
@@ -77693,7 +77693,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/5807402002?gh_jid=5807402002",
     "date": "2022-01-10T02:56:14-05:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "Hong Kong, Hong Kong",
+    "location": "Hong Kong",
     "department": "Software Engineering",
     "active": true,
     "slug": "product4"
@@ -77767,7 +77767,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/5625787002?gh_jid=5625787002",
     "date": "2021-12-10T17:02:07-05:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "IT and Systems Engineering",
     "active": true,
     "slug": "manager2"
@@ -77887,7 +77887,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/5108180002?gh_jid=5108180002",
     "date": "2021-03-28T12:43:44-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Software Engineering",
     "active": true,
     "slug": "product"
@@ -77947,7 +77947,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/5002846002?gh_jid=5002846002",
     "date": "2021-01-08T17:39:10-05:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Network Engineering",
     "active": true,
     "slug": "engineer6"
@@ -77959,7 +77959,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/4902080002?gh_jid=4902080002",
     "date": "2020-12-11T16:22:51-05:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Software Engineering",
     "active": true,
     "slug": "manager"
@@ -77971,7 +77971,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/4839146002?gh_jid=4839146002",
     "date": "2020-09-03T02:50:55-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "Hong Kong, Hong Kong",
+    "location": "Hong Kong",
     "department": "Quantitative Trading",
     "active": true,
     "slug": "tr2"
@@ -77995,7 +77995,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/4760538002?gh_jid=4760538002",
     "date": "2020-06-11T09:10:33-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "Hong Kong, Hong Kong",
+    "location": "Hong Kong",
     "department": "Operations",
     "active": true,
     "slug": "devops"
@@ -78007,7 +78007,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/4432196002?gh_jid=4432196002",
     "date": "2019-09-13T13:43:11-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Network Engineering",
     "active": true,
     "slug": "engineer3"
@@ -78019,7 +78019,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/4276263002?gh_jid=4276263002",
     "date": "2019-05-06T15:27:27-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "IT and Systems Engineering",
     "active": true,
     "slug": "eng4"
@@ -78031,7 +78031,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/4274288002?gh_jid=4274288002",
     "date": "2019-05-06T15:18:54-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Software Engineering",
     "active": true,
     "slug": "eng2"
@@ -78055,7 +78055,7 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/4275921002?gh_jid=4275921002",
     "date": "2019-05-02T16:54:30-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
+    "location": "New York, United States",
     "department": "Software Engineering",
     "active": true,
     "slug": "engineer"

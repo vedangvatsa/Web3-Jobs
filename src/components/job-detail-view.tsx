@@ -7,6 +7,7 @@ import { DirectoryDisclaimer } from '@/components/directory-disclaimer';
 import { DetailPageHeader } from '@/components/detail-page-header';
 import { getCompanySlug, getJobSlug } from '@/lib/job-slugs';
 import { getJobSalaryInfo } from '@/lib/job-salary';
+import { cleanJobLocation, getPrimaryJobLocation } from '@/lib/job-location';
 
 interface JobDetailViewProps {
   job: Job;
@@ -106,8 +107,9 @@ export interface ParsedJobAddress {
 export function parseJobAddress(location: unknown): ParsedJobAddress {
   if (typeof location !== 'string') return {};
   // First site wins for multi-site postings ("Abu Dhabi, UAE; Kuala Lumpur",
-  // "Cyprus / Georgia / Poland" multi-country lists).
-  let text = location.split(';')[0] ?? '';
+  // "Cyprus / Georgia / Poland" multi-country lists). Use primary cleaned location
+  // to avoid picking broad parent country tags ("Australia; Sydney, NSW, Australia").
+  let text = getPrimaryJobLocation(location);
   text = text.split('/')[0] ?? '';
   // Alternatives ("Vancouver, BC or New York City") and trailing qualifiers
   // ("New York, NY / Hybrid", "Bengaluru, India (Hybrid)", "New York Office").
@@ -410,7 +412,7 @@ export function JobDetailView({
               {job.location && (
                 <span className="flex items-center gap-1.5">
                   <MapPin className="h-4 w-4" aria-hidden="true" />
-                  {job.location}
+                  {cleanJobLocation(job.location)}
                 </span>
               )}
               {salaryInfo.display && (

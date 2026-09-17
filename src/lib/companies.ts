@@ -6,6 +6,7 @@ import fs from 'fs/promises';
 import path from 'path';
 import matter from 'gray-matter';
 import { COMPANY_RICH_ABOUT } from './company-profiles';
+import { cleanJobLocation } from './job-location';
 
 interface CompanyContent {
  website?: string;
@@ -470,7 +471,7 @@ function createSlug(companyName: string): string {
 function buildListingDescription(companyName: string, jobs: Job[]): string {
  const countLabel = jobs.length === 1 ? '1 active role' : `${jobs.length} active roles`;
  const titles = [...new Set(jobs.map((job) => job.title.trim()).filter(Boolean))].slice(0, 3);
- const locations = [...new Set(jobs.map((job) => job.location?.trim()).filter((value): value is string => Boolean(value)))].slice(0, 3);
+ const locations = [...new Set(jobs.map((job) => cleanJobLocation(job.location)).filter((value): value is string => Boolean(value) && value !== 'Remote'))].slice(0, 3);
 
  if (titles.length === 0) {
   return `${companyName} currently has no active roles listed on Hashtag Web3.`;

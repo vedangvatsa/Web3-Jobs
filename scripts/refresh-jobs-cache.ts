@@ -22,6 +22,7 @@ import {
   readJobDescriptionStore,
   writeJobDescriptionStore,
 } from './lib/job-description-store';
+import { cleanJobLocation } from '../src/lib/job-location';
 
 interface GetroBoard {
   url: string;
@@ -2071,6 +2072,7 @@ async function refreshJobsCache() {
   allJobs = allJobs.map(job => ({
     ...job,
     company: cleanCompanyName(job.company),
+    location: cleanJobLocation(job.location),
   })).filter(job => {
     const titleLower = job.title.toLowerCase().trim();
     const companyLower = job.company.toLowerCase().trim();
