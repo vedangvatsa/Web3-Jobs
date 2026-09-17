@@ -1,42 +1,42 @@
 [
   {
+    "slug": "bitcoin-reserve",
+    "title": "House Panel Advances Bitcoin Reserve Bill in 28-21 Vote",
+    "description": "The House Financial Services Committee voted 28-21 on Sept. 16, 2026 to send the American Reserve Modernization Act, which would place federal Bitcoin in a 20-year Treasury reserve, to the full House.",
+    "category": "News",
+    "publishedDate": "2026-09-17",
+    "image": "/images/news/bitcoin-reserve.jpg"
+  },
+  {
+    "slug": "sun-prize",
+    "title": "Justin Sun Launches $1 Million Math Prize for Machine-Checked Proofs",
+    "description": "TRON founder Justin Sun announced the Justin Sun Prize on Sept. 16, 2026, offering up to $1 million per top-tier problem for mathematical proofs verified by machine, with OpenAI named as the first $1 million recipient.",
+    "category": "News",
+    "publishedDate": "2026-09-17",
+    "image": "/images/news/sun-prize.jpg"
+  },
+  {
+    "slug": "coinex-shutdown",
+    "title": "CoinEx to Shut Down Exchange After Nine Years",
+    "description": "CoinEx will end spot trading on Sept. 29 and close withdrawals on Dec. 22, 2026, unwinding nine years of operation as founder Haipo Yang cited weak markets and rising compliance costs.",
+    "category": "News",
+    "publishedDate": "2026-09-16",
+    "image": "/images/news/coinex-shutdown.jpg"
+  },
+  {
+    "slug": "zcash-vote",
+    "title": "Zcash Holders Back Faster Blocks and Halving Schedule",
+    "description": "Nearly 2.4 million ZEC voted in Zcash's NU7 governance poll, with holders backing 25-second blocks, unchanged halvings, and a 2031 start for recycled fee payouts.",
+    "category": "News",
+    "publishedDate": "2026-09-16",
+    "image": "/images/news/zcash-vote.jpg"
+  },
+  {
     "slug": "avalanche-uae",
     "title": "UAE Identity Vault Moves to Avalanche Blockchain",
     "description": "Avalanche says the UAE's UAEPASS Digital Vault serving 12.5 million people now runs on a dedicated Avalanche L1, though TDRA pages name no protocol.",
     "category": "News",
     "publishedDate": "2026-09-15",
     "image": "/images/news/avalanche-uae.jpg"
-  },
-  {
-    "slug": "circle-arc",
-    "title": "Circle Arc Public Mainnet Launches Sept 16",
-    "description": "Circle's stablecoin-native Arc blockchain opens its public mainnet on Sept. 16 with BlackRock, Visa, and DTCC among founding validators and USDC as the gas token.",
-    "category": "News",
-    "publishedDate": "2026-09-15",
-    "image": "/images/news/circle-arc.jpg"
-  },
-  {
-    "slug": "ether-staking",
-    "title": "BlackRock Ether Staking ETF Extends Inflow Run to 20 Days",
-    "description": "BlackRock's ETHB has drawn $307.72 million across 20 trading days without a single outflow day as its assets pass $1 billion, while the larger ETHA still leads ether ETF demand.",
-    "category": "News",
-    "publishedDate": "2026-09-15",
-    "image": "/images/news/ether-staking.jpg"
-  },
-  {
-    "slug": "euro-pilot",
-    "title": "ECB Asks Online Merchants to Join Digital Euro Pilot Starting 2027",
-    "description": "The European Central Bank opened a call on Sept. 15 for e-commerce and mobile merchants to test a beta digital euro in a 12-month pilot starting in the second half of 2027, ahead of a possible 2029 launch.",
-    "category": "News",
-    "publishedDate": "2026-09-15",
-    "image": "/images/news/euro-pilot.jpg"
-  },
-  {
-    "slug": "fca-gateway",
-    "title": "FCA Crypto Authorisation Window Opens Sept 30",
-    "description": "Britain's FCA will accept crypto authorisation applications from Sept. 30, 2026 to Feb. 28, 2027 ahead of full rules taking effect in October 2027.",
-    "category": "News",
-    "publishedDate": "2026-09-15",
-    "image": "/images/news/fca-gateway.jpg"
   }
 ]
