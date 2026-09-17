@@ -4,10 +4,19 @@ import type { Web3Event, EventEditorialArticle } from './events';
 import { EVENT_GUIDES } from './event-guides';
 import { getEventEditorialGuide } from './events';
 import { sanitizeEventEditorial } from './event-editorial-facts';
+import {
+  buildEditorialFromOrganizerDescription,
+  isLumaListedEvent,
+} from './luma-event-content';
 
 // Server-only store for per-event guides.
-// Precedence: hand-curated EVENT_GUIDES (by slug) -> generated per-event guide (by id) -> legacy fallback.
+// Luma listings: organiser description only. Else: EVENT_GUIDES -> generated JSON -> getEventEditorialGuide.
 let cachedGenerated: Record<string, EventEditorialArticle> | null = null;
+
+/** Generated guides keyed by a different event id (e.g. premier vs marketacross). */
+const GENERATED_EVENT_GUIDE_ALIASES: Record<string, string> = {
+  'premier-blockchain-life-2026': 'ma-blockchain-life',
+};
 
 function loadGenerated(): Record<string, EventEditorialArticle> {
   if (cachedGenerated !== null) return cachedGenerated;
@@ -26,11 +35,20 @@ function loadGenerated(): Record<string, EventEditorialArticle> {
 }
 
 export async function resolveEventGuide(event: Web3Event): Promise<EventEditorialArticle> {
+  if (isLumaListedEvent(event)) {
+    return sanitizeEventEditorial(buildEditorialFromOrganizerDescription(event));
+  }
+
   const slug = (event.slug || '').toLowerCase().trim();
   if (slug && EVENT_GUIDES[slug]) return sanitizeEventEditorial(EVENT_GUIDES[slug]);
 
   const generated = loadGenerated();
-  if (event.id && generated[event.id]) return sanitizeEventEditorial(generated[event.id]);
+  const generatedKey = (event.id && generated[event.id])
+    ? event.id
+    : event.id && GENERATED_EVENT_GUIDE_ALIASES[event.id];
+  if (generatedKey && generated[generatedKey]) {
+    return sanitizeEventEditorial(generated[generatedKey]);
+  }
 
   return sanitizeEventEditorial(getEventEditorialGuide(event));
 }

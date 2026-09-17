@@ -2,6 +2,7 @@ import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
 import { isLumaDefaultPlaceholder, enrichLocalCovers } from './lib/event-image-utils.mjs';
+import { isWasetIcbtDuplicateEvent } from './lib/waset-icbt.mjs';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -1358,8 +1359,14 @@ async function fetchWeb3Events() {
   });
   console.log(`[Local Covers] Saved ${okCount} local, deferred ${rateLimited} (rate-limited), failed ${failed}.`);
 
+  const cacheEvents = validEvents.filter((e) => !isWasetIcbtDuplicateEvent(e));
+  const icbtDropped = validEvents.length - cacheEvents.length;
+  if (icbtDropped > 0) {
+    console.log(`[WASET ICBT] Collapsed ${icbtDropped} duplicate city listings (see curated-waset-icbt-series).`);
+  }
+
   const cachePath = path.join(__dirname, '../content/events-cache.json');
-  fs.writeFileSync(cachePath, JSON.stringify(validEvents, null, 2));
+  fs.writeFileSync(cachePath, JSON.stringify(cacheEvents, null, 2));
   console.log(`Saved to ${cachePath}`);
 
   // Also purge past events from curated-events.json

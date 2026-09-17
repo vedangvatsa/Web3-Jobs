@@ -77,7 +77,9 @@ export async function generateStaticParams() {
    .sort((a, b) => new Date(b.publishedDate || 0).getTime() - new Date(a.publishedDate || 0).getTime())
    .slice(0, 20);
 
-  const curatedEvents = events.filter(e => e.source === 'curated-premier').slice(0, 10);
+  const curatedEvents = events
+    .filter(e => e.source === 'curated-premier' || e.source === 'curated-series')
+    .slice(0, 15);
 
   return [
    ...topArticles.map((article) => ({ slug: article.slug })),
@@ -407,14 +409,19 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     const editorial = await resolveEventGuide(event);
     const speakerSummary = event.speakerDetails?.length
       ? event.speakerDetails
-          .map((speaker) => (speaker.organization ? `${speaker.name} (${speaker.organization})` : speaker.name))
+          .map((speaker) => {
+            const detail = speaker.organization || speaker.title;
+            return detail ? `${speaker.name} (${detail})` : speaker.name;
+          })
           .join(', ')
-      : event.speakers?.join(', ');
+      : editorial.speakers || event.speakers?.join(', ');
     const speakerFact = event.speakerDetails?.length
-      ? `${event.speakerDetails.length} speakers & mentors announced`
-      : event.speakers?.length
-        ? `${event.speakers.length} speakers announced`
-        : undefined;
+      ? `${event.speakerDetails.length} speaker${event.speakerDetails.length === 1 ? '' : 's'} listed`
+      : editorial.speakers
+        ? editorial.speakers
+        : event.speakers?.length
+          ? `${event.speakers.length} speaker${event.speakers.length === 1 ? '' : 's'} announced`
+          : undefined;
     const ticketPricing = editorial.ticketPricing;
     const expectedAttendance = editorial.expectedAttendance;
     const eventExternalUrl = getEventExternalUrl(event);
@@ -504,9 +511,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                 }
               />
 
-              <div className="mt-8">
-                <EventHeroImage src={event.coverImage} name={event.name} location={event.location} city={event.city} country={event.country} startDate={event.startDate} />
-              </div>
+              <EventHeroImage src={event.coverImage} name={event.name} />
 
               {/* Quick Facts Grid */}
               {(event.partnerOffer || ticketPricing || expectedAttendance || speakerFact) && (

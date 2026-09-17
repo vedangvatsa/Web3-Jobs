@@ -20,13 +20,16 @@ const THIN_LISTING_DESCRIPTION_PATTERNS = [
   /web3 community event\b/i,
   /is listed in the official/i,
   /is listed as a .+ during/i,
-  /during (TOKEN2049|TOKEN 2049|Korea Blockchain Week|KBW|India Blockchain Week|IBW)\b/i,
 ];
+
+/** Matches sync-luma-crypto-events.ts stub until enrich-luma-crypto-descriptions runs. */
+const LUMA_SYNC_STUB = /^(.+\.\s*)?Web3 community event(\.| in .+\.)?$/i;
 
 /** Auto-generated listing blurbs (sync stubs), not organiser copy on Luma. */
 export function isThinEventListingDescription(description: string): boolean {
   const text = description.trim();
   if (!text) return true;
+  if (LUMA_SYNC_STUB.test(text)) return true;
   if (THIN_LISTING_DESCRIPTION_PATTERNS.some((pattern) => pattern.test(text)) && text.length < 320) {
     return true;
   }

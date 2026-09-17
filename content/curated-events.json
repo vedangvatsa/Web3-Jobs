@@ -3178,11 +3178,11 @@
   {
     "twitter": null,
     "source": "curated-premier",
-    "coverImage": "/events/premier-blockchain-life-2026-5e896934.webp",
+    "coverImage": "/events/premier-blockchain-life-2026-cover.webp",
     "id": "premier-blockchain-life-2026",
     "slug": "blockchain-life",
     "name": "Blockchain Life 2026",
-    "description": "The 17th International Forum/Conference on Web3, Cryptocurrencies and Mining in Dubai, UAE. Join 15,000 attendees from 130 countries. The world&#x27;s largest crypto event, featuring an exhibition, networking and startup competitions.",
+    "description": "The 17th International Forum/Conference on Web3, Cryptocurrencies and Mining in Dubai, UAE. Join 15,000 attendees from 130 countries. The world's largest crypto event, featuring an exhibition, networking and startup competitions.",
     "startDate": "2026-12-01T09:00:00+04:00",
     "endDate": "2026-12-02T18:00:00+04:00",
     "city": "Dubai",
@@ -3191,7 +3191,230 @@
     "venueName": "Festival Arena, Dubai Festival City",
     "url": "https://blockchain-life.com/",
     "website": "https://blockchain-life.com/",
-    "registrationUrl": "https://blockchain-life.com/"
+    "registrationUrl": "https://blockchain-life.com/",
+    "speakerDetails": [
+      {
+        "name": "Paolo Ardoino",
+        "title": "CEO of Tether"
+      },
+      {
+        "name": "Sergey Nazarov",
+        "title": "Co-Founder of Chainlink"
+      },
+      {
+        "name": "Errol Musk",
+        "title": "Entrepreneur, Digital Assets & AI Investor, Elon Musk’s father"
+      },
+      {
+        "name": "Bobby Ong",
+        "title": "Co-Founder of CoinGecko"
+      },
+      {
+        "name": "Ben Zhou",
+        "title": "Co-Founder and CEO of Bybit"
+      },
+      {
+        "name": "Reeve Collins",
+        "title": "Co-Founder Tether/STBL/WeFi & Pending Chairman of ReserveOne"
+      },
+      {
+        "name": "Sandeep Nailwal",
+        "title": "Co-Founder of Polygon"
+      },
+      {
+        "name": "Sergei Khitrov",
+        "title": "Founder of Listing.Help, Jets.Capital, Blockchain Life"
+      },
+      {
+        "name": "Justin Sun",
+        "title": "Founder of TRON & Advisor to HTX"
+      },
+      {
+        "name": "Arthur Breitman",
+        "title": "Co-Founder of Tezos"
+      },
+      {
+        "name": "Kostas Chalkias",
+        "title": "Co-Founder & Chief Cryptographer of Mysten Labs"
+      },
+      {
+        "name": "Brandon Green",
+        "title": "Chief of Staff at BTC Inc"
+      },
+      {
+        "name": "Yat Siu",
+        "title": "Co-Founder & Executive Chairman of Animoca Brands"
+      },
+      {
+        "name": "Yoann Turpin",
+        "title": "Co-Founder of Wintermute"
+      },
+      {
+        "name": "Pascal Gauthier",
+        "title": "Chairman and CEO of Ledger"
+      },
+      {
+        "name": "Dr. Zuoxing Yang",
+        "title": "Founder & CEO of MicroBT"
+      },
+      {
+        "name": "Dr. Marwan Alzarouni",
+        "title": "CEO of Dubai Blockchain Center"
+      },
+      {
+        "name": "Frederik Gregaard",
+        "title": "CEO of Cardano Foundation"
+      },
+      {
+        "name": "Tim Draper",
+        "title": "Founder of Draper Associates and DFJ"
+      },
+      {
+        "name": "Xinxi Wang",
+        "title": "Co-Founder of Litecoin"
+      },
+      {
+        "name": "Dominic Williams",
+        "title": "Founder & Chief Scientist of DFINITY (ICP)"
+      },
+      {
+        "name": "Fred Thiel",
+        "title": "CEO of Marathon Digital Holdings"
+      },
+      {
+        "name": "Xmei Lin",
+        "title": "President of Mining Division, Bitmain"
+      },
+      {
+        "name": "Eowyn Chen",
+        "title": "CEO of Trust Wallet"
+      },
+      {
+        "name": "Andrei Grachev",
+        "title": "Managing Partner of DWF Labs"
+      },
+      {
+        "name": "Dmitry Fedotov",
+        "title": "Head of EMERGING TECH at ADGM"
+      },
+      {
+        "name": "Sunny Lu",
+        "title": "Co-Founder and CEO of Vechain"
+      },
+      {
+        "name": "Rachel Conlan",
+        "title": "CMO of Binance"
+      },
+      {
+        "name": "Bhavik Patel",
+        "title": "CIO of Arrington Capital"
+      },
+      {
+        "name": "Alice Liu",
+        "title": "Research Lead at CoinMarketCap"
+      },
+      {
+        "name": "Gracy Chen",
+        "title": "CEO of Bitget"
+      },
+      {
+        "name": "Alicia Kao",
+        "title": "Managing Director at KuCoin"
+      },
+      {
+        "name": "Brock Pierce",
+        "title": "Co-Founder of DNA Fund"
+      },
+      {
+        "name": "Jason Lau",
+        "title": "Chief Innovation Officer at OKX"
+      },
+      {
+        "name": "Roger Ver",
+        "title": "Founder of Bitcoin.com"
+      },
+      {
+        "name": "Chef Kids",
+        "title": "Co-Founder of PancakeSwap"
+      },
+      {
+        "name": "Ben Goertzel",
+        "title": "CEO of SingularityNET"
+      },
+      {
+        "name": "Charles d&#8217;Haussy",
+        "title": "CEO of dYdX Foundation"
+      },
+      {
+        "name": "Zied Brini",
+        "title": "Program Lead for MetaMask at Consensys"
+      },
+      {
+        "name": "Miriam Kiwan",
+        "title": "Vice President at Circle"
+      },
+      {
+        "name": "Reece Merrick",
+        "title": "Senior Director, Global Strategic Partnerships at Ripple"
+      },
+      {
+        "name": "Mohammad Alblooshi",
+        "title": "CEO of DIFC Innovation Hub"
+      },
+      {
+        "name": "Sunny Aggarwal",
+        "title": "Co-Founder of Osmosis Labs"
+      },
+      {
+        "name": "Koray Koska",
+        "title": "CEO of Ether.fi Cash"
+      },
+      {
+        "name": "Yves La Rose",
+        "title": "Co-Founder & CEO of EOS Network Foundation"
+      },
+      {
+        "name": "Danilo S. Carlucci",
+        "title": "Founder & CEO of Morningstar Ventures"
+      },
+      {
+        "name": "Rajat Sakhuja",
+        "title": "Director of Blockchain & Digital Assets at Mastercard"
+      },
+      {
+        "name": "Tiago Henriques",
+        "title": "Head of AI/ML Technology Practice, Google Cloud EMEA"
+      },
+      {
+        "name": "Pär Helgosson",
+        "title": "Head of PSG Labs"
+      },
+      {
+        "name": "Nikita Anufriev",
+        "title": "Founder of Headliners Podcast"
+      },
+      {
+        "name": "Alex Falcon",
+        "title": "Founder of X Empire, Biggest CIS Podcast Host"
+      }
+    ]
+  },
+  {
+    "twitter": null,
+    "source": "curated-premier",
+    "coverImage": "/events/ma-money-20-20-usa-cover.webp",
+    "id": "ma-money-20-20-usa",
+    "slug": "m22u",
+    "name": "Money20/20 USA",
+    "description": "Money20/20 USA runs October 18-21, 2026 in Las Vegas. The official site describes it as the USA's #1 fintech event, where financial services innovators connect to create the future of money. Listed scale: 11,000+ senior attendees, 3,400+ companies, 85+ countries, 630+ speakers, and 320+ media and analysts. Agenda themes on us.money2020.com include agentic AI, fraud, FaaS, payments, and regulation.",
+    "startDate": "2026-10-18T00:00:00.000Z",
+    "endDate": "2026-10-21T00:00:00.000Z",
+    "city": "Las Vegas",
+    "country": "United States",
+    "location": "Las Vegas, Nevada, United States",
+    "url": "https://us.money2020.com/",
+    "website": "https://us.money2020.com/",
+    "registrationUrl": "https://us.money2020.com/"
   },
   {
     "twitter": null,
@@ -3544,5 +3767,20 @@
     "url": "https://thebitmela.com/",
     "website": "https://thebitmela.com/",
     "registrationUrl": "https://thebitmela.com/"
+  },
+  {
+    "id": "curated-waset-icbt-series",
+    "slug": "waset-icbt",
+    "name": "International Conference on Blockchain Technology (ICBT)",
+    "description": "WASET (World Academy of Science, Engineering and Technology) lists the International Conference on Blockchain Technology (ICBT) as a recurring two-day academic meeting. The program template is the same across cities; only the venue and dates change. Check WASET for the edition you want before you book travel.\n\nUpcoming editions:\n\n• Sep 14, 2026 — Santiago, Chile\n• Oct 1, 2026 — Madagascar, Madagascar\n• Nov 2, 2026 — Nicosia, Cyprus\n• Dec 3, 2026 — Sydney, Australia\n• Jan 7, 2027 — Singapore, Singapore\n• Feb 4, 2027 — Guangzhou, China\n• Mar 4, 2027 — Taipei, Taiwan\n• Apr 1, 2027 — Rome, Italy\n• May 13, 2027 — Paris, France\n• May 20, 2027 — Berlin, Germany\n• May 20, 2027 — Sydney, Australia\n• May 27, 2027 — Barcelona, Spain\n• May 27, 2027 — New York, United States\n• Jun 3, 2027 — Tokyo, Japan\n• Jun 10, 2027 — Ljubljana, Slovenia\n• Jun 17, 2027 — Venice, Italy\n• Jun 24, 2027 — Oslo, Norway\n• Jul 1, 2027 — Singapore, Singapore\n• Jul 1, 2027 — Prague, Czech Republic\n• Jul 1, 2027 — Corfu, Greece\n• Jul 22, 2027 — Tokyo, Japan\n• Jul 22, 2027 — Berlin, Germany\n• Aug 5, 2027 — Baku, Azerbaijan\n• Sep 6, 2027 — Rome, Italy",
+    "startDate": "2026-09-14T00:00:00.000Z",
+    "endDate": "2027-09-06T00:00:00.000Z",
+    "city": "",
+    "country": "",
+    "location": "Multiple cities worldwide",
+    "url": "https://waset.org/blockchain-technology-conference",
+    "website": "https://waset.org/blockchain-technology-conference",
+    "coverImage": null,
+    "source": "curated-series"
   }
 ]
