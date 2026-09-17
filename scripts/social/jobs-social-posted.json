@@ -1,5 +1,5 @@
 {
-  "lastIndex": 203,
+  "lastIndex": 204,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -95,7 +95,8 @@
     "aso4",
     "ddrm",
     "sls20",
-    "pm21"
+    "pm21",
+    "tax8"
   ],
   "history": [
     {
@@ -4853,6 +4854,215 @@
       "platform": "instagram",
       "postedAt": "2026-09-17T17:42:11.746Z",
       "postId": "18482350075129106",
+      "verification": "verified"
+    },
+    {
+      "slug": "tax8",
+      "company": "Alpaca",
+      "title": "Head of Tax",
+      "platform": "x",
+      "postedAt": "2026-09-17T22:17:24.248Z",
+      "postId": "2100710739916853467",
+      "verification": "verified"
+    },
+    {
+      "slug": "tax8",
+      "company": "Alpaca",
+      "title": "Head of Tax",
+      "platform": "threads",
+      "postedAt": "2026-09-17T22:17:24.248Z",
+      "postId": "18105755047935769",
+      "verification": "verified",
+      "expectedText": "Alpaca is hiring Head of Tax: https://hashtagweb3.com/tax8/th?og=2",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DdZ6gsmleNp",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "tax8",
+      "company": "Alpaca",
+      "title": "Head of Tax",
+      "platform": "bluesky",
+      "postedAt": "2026-09-17T22:17:24.248Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mvqonwan722n",
+      "verification": "verified"
+    },
+    {
+      "slug": "tax8",
+      "company": "Alpaca",
+      "title": "Head of Tax",
+      "platform": "farcaster",
+      "postedAt": "2026-09-17T22:17:24.248Z",
+      "postId": "0xcd3f3f51371b3f016e643e788772ba96080155bd",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "tax8",
+      "company": "Alpaca",
+      "title": "Head of Tax",
+      "platform": "farcaster",
+      "postedAt": "2026-09-17T22:17:24.248Z",
+      "postId": "0x7d88f3ec13d9a052593a5214325423cecf9ba7d3",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "tax8",
+      "company": "Alpaca",
+      "title": "Head of Tax",
+      "platform": "farcaster",
+      "postedAt": "2026-09-17T22:17:24.248Z",
+      "postId": "0x34394c79edffbf0bc886474bacd5eca61948254c",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "tax8",
+      "company": "Alpaca",
+      "title": "Head of Tax",
+      "platform": "farcaster",
+      "postedAt": "2026-09-17T22:17:24.248Z",
+      "postId": "0xa19e72bfce65281b9111b6688e23801d231b2f91",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "tax8",
+      "company": "Alpaca",
+      "title": "Head of Tax",
+      "platform": "farcaster",
+      "postedAt": "2026-09-17T22:17:24.248Z",
+      "postId": "0x2eb01f1334daa06c3017fe79138460d4708637f9",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "tax8",
+      "company": "Alpaca",
+      "title": "Head of Tax",
+      "platform": "farcaster",
+      "postedAt": "2026-09-17T22:17:24.248Z",
+      "postId": "0xc9d95dfb1c567194b6bf699cff25eb71bffcd582",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "tax8",
+      "company": "Alpaca",
+      "title": "Head of Tax",
+      "platform": "farcaster",
+      "postedAt": "2026-09-17T22:17:24.248Z",
+      "postId": "0xb923287611a5084b2bc5c6c6373800420b672b04",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "tax8",
+      "company": "Alpaca",
+      "title": "Head of Tax",
+      "platform": "farcaster",
+      "postedAt": "2026-09-17T22:17:24.248Z",
+      "postId": "0xd430559f13bac2153c06d2eb26797096f9b93920",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "tax8",
+      "company": "Alpaca",
+      "title": "Head of Tax",
+      "platform": "farcaster",
+      "postedAt": "2026-09-17T22:17:24.248Z",
+      "postId": "0x471c0b012a6fb3b9df3438bb5a4fa1272909dbd3",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "tax8",
+      "company": "Alpaca",
+      "title": "Head of Tax",
+      "platform": "farcaster",
+      "postedAt": "2026-09-17T22:17:24.248Z",
+      "postId": "0xe675ac7f4e900962e4ad21a0f154e6a8a5be76bc",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "tax8",
+      "company": "Alpaca",
+      "title": "Head of Tax",
+      "platform": "farcaster",
+      "postedAt": "2026-09-17T22:17:24.248Z",
+      "postId": "0x9eceb54931733afc39dfeb411df4f410503d0dca",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "tax8",
+      "company": "Alpaca",
+      "title": "Head of Tax",
+      "platform": "farcaster",
+      "postedAt": "2026-09-17T22:17:24.248Z",
+      "postId": "0x6696f4054b1a1aa6ddd42b6cd4252c5906785d76",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "tax8",
+      "company": "Alpaca",
+      "title": "Head of Tax",
+      "platform": "farcaster",
+      "postedAt": "2026-09-17T22:17:24.248Z",
+      "postId": "0xcc884b3621d1eb6ea793accd29be9bbc002f0b26",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "tax8",
+      "company": "Alpaca",
+      "title": "Head of Tax",
+      "platform": "farcaster",
+      "postedAt": "2026-09-17T22:17:24.248Z",
+      "postId": "0xee361e8d764a5cde086096c05f6d8884e83b462f",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "tax8",
+      "company": "Alpaca",
+      "title": "Head of Tax",
+      "platform": "farcaster",
+      "postedAt": "2026-09-17T22:17:24.248Z",
+      "postId": "0xc191a9982ae26cec60c9033c9bd7281d93dc3ed2",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "tax8",
+      "company": "Alpaca",
+      "title": "Head of Tax",
+      "platform": "farcaster",
+      "postedAt": "2026-09-17T22:17:24.248Z",
+      "postId": "0xbb10054127f6f4ce90e9bd69569ecd4e2020647b",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "tax8",
+      "company": "Alpaca",
+      "title": "Head of Tax",
+      "platform": "farcaster",
+      "postedAt": "2026-09-17T22:17:24.248Z",
+      "postId": "0xe21646c4b9e545236f35bdc189ab619f9ae49ddb",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "tax8",
+      "company": "Alpaca",
+      "title": "Head of Tax",
+      "platform": "linkedin",
+      "postedAt": "2026-09-17T22:17:24.248Z",
+      "postId": "6aac67157ef82440293150fc",
       "verification": "verified"
     }
   ]
