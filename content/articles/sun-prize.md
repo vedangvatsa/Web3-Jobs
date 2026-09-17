@@ -1,0 +1,52 @@
+---
+title: Justin Sun Launches $1 Million Math Prize for Machine-Checked Proofs
+ogTitle: "JUSTIN SUN LAUNCHES $1 MILLION MATH PRIZE FOR MACHINE-CHECKED PROOFS"
+description: TRON founder Justin Sun announced the Justin Sun Prize on Sept. 16, 2026, offering up to $1 million per top-tier problem for mathematical proofs verified by machine, with OpenAI named as the first $1 million recipient.
+image: /images/news/sun-prize.jpg
+imageCaption: "A blackboard covered with pure mathematics formulas. Photo: Wallpoper via Wikimedia Commons (Public domain)."
+imageCreditUrl: https://commons.wikimedia.org/wiki/File:Pure-mathematics-formul%C3%A6-blackboard.jpg
+category: News
+data-ai-hint: blackboard with mathematics formulas
+publishedDate: '2026-09-17'
+lastUpdated: '2026-09-17'
+---
+
+TRON founder Justin Sun announced a new mathematics prize on Sept. 16, 2026 offering up to $1 million for solutions to hard open problems, provided the proofs can be checked by machine. [The Cryptonomist](https://en.cryptonomist.ch/2026/09/16/justin-sun-mathematics-prize/) reported that Sun made the announcement on X. The prize site stamps its launch message [ANNOUNCEMENT SEP 16, 2026](https://www.hejustinsun.com/prize).
+
+"More importantly, it gives me an answer to myself, my wealth is rooted in mathematics," Sun said. "It came from mathematics, and it will return to mathematics," as quoted by [FinanceFeeds](https://financefeeds.com/justin-sun-offers-up-to-1-million-for-machine-verified-math-proofs/).
+
+The Justin Sun Prize is built around a public list of problems rather than nominations, academic posts, or fixed award cycles. Researchers qualify by solving listed problems and meeting the program's formal verification bar, [FinanceFeeds](https://financefeeds.com/justin-sun-offers-up-to-1-million-for-machine-verified-math-proofs/) reported. The [prize site](https://www.hejustinsun.com/prize) calls the setup the world's first zero-trust, decentralized academic bounty mechanism organized around a curated problem list.
+
+Money scales with difficulty across five tiers named Pinnacle, Breakthrough, Landmark, Advance, and Contribution. Each Pinnacle problem carries $1 million, according to the [Pinnacle page](https://www.hejustinsun.com/prize/pinnacle). The [about page](https://www.hejustinsun.com/prize/about) says prize tiers reach up to $1 million and that amounts below Pinnacle are set after formal verification and Academic Committee review.
+
+Anyone can enter. The prize is open to all eligible contributions regardless of nationality, institutional affiliation, or status, and it makes no distinction between human and AI contributors, the [prize site](https://www.hejustinsun.com/prize) states. Professional researchers, independent enthusiasts, and human-AI teams are all named as eligible in the [about page](https://www.hejustinsun.com/prize/about).
+
+Winners fall into two roles. The prover presents the working solution to a hard problem. The formalizer converts that solution into code a computer can check on its own. That two-step design separates the creative act of solving from the technical work of showing beyond doubt that the solution holds, [The Cryptonomist](https://en.cryptonomist.ch/2026/09/16/justin-sun-mathematics-prize/) reported.
+
+The sequence runs in order. Once a proof clears review by the mathematics community, the prover's name is registered first and the problem status shifts to proof completed, awaiting formalization. Only after the formalized version passes machine checks without errors does the payment process begin, according to [the outlet's account](https://en.cryptonomist.ch/2026/09/16/justin-sun-mathematics-prize/).
+
+The technical bar is a Lean submission. Eligibility requires a verified Lean pull request filed through the prize's GitHub repository, the [about page](https://www.hejustinsun.com/prize/about) says. Where a Lean formalization was already released in public and is broadly accepted by community consensus as peer-verified, re-verification is waived and the submission takes the form of a registration application instead. Final awards are adjusted for completeness across four bands: fully closed, substantially closed, partial progress, or no progress, the page says.
+
+Judging sits with a committee, not the donor. Tier evaluations are jointly signed by the Academic Committee, with conflicted members recused and independent members handling reviews, the [about page](https://www.hejustinsun.com/prize/about) states. Sun acts only as donor and presenter and takes no part in evaluation, under the funder-independence rule on the same page. He has said he will decide only the problem list and the size of each award, staying out of verification, winner selection, and payment, [The Cryptonomist](https://en.cryptonomist.ch/2026/09/16/justin-sun-mathematics-prize/) reported.
+
+The operation runs in the open. All official information is published through the GitHub organization [TheJustinSunPrize](https://github.com/TheJustinSunPrize), which hosts an awards repository holding the rules, awards, candidates, and verification evidence. The organization's GitHub page shows the awards repository was updated on Sept. 16, 2026. Submissions, candidate records, verification materials, and award information are meant to live there as a public record of how each result was evaluated, [FinanceFeeds](https://financefeeds.com/justin-sun-offers-up-to-1-million-for-machine-verified-math-proofs/) reported.
+
+The prize is a non-profit initiative set up for public benefit, with all funds assigned to prize disbursements and related open-access steps and no commercial aim, the [prize site](https://www.hejustinsun.com/prize) states. Problem lists, verification criteria, proofs, and verification materials are public where third-party rights allow, and selection rules and outcomes stay open to scrutiny, the site says. Once a problem is listed it cannot later be removed, which locks the bounty list against quiet edits, [FinanceFeeds](https://financefeeds.com/justin-sun-offers-up-to-1-million-for-machine-verified-math-proofs/) reported.
+
+Payment runs on crypto rails. Winners can take awards in USDT on the TRON network or USDC on Ethereum, with payment records kept visible on chain, [CoinScreamer](https://coinscreamer.com/justin-sun-1m-award-ai/) reported. The [about page](https://www.hejustinsun.com/prize/about) confirms disbursement in cryptocurrency and requires winners to pass compliance and identity checks set by the prize operator. Where an account raises compliance risks or breaks applicable law, the operator may ask for an alternate payout method or suspend disbursement, the page says.
+
+Recipients also get a certificate and a medal carrying the Latin phrase Quod probatur, solvitur, rendered by the organizers as Proved, then paid, [FinanceFeeds](https://financefeeds.com/justin-sun-offers-up-to-1-million-for-machine-verified-math-proofs/) reported. The motto appears on the [prize site](https://www.hejustinsun.com/prize) as the program's headline promise.
+
+Eligibility reaches back to the start of the year. Bounty eligibility covers qualifying achievements completed on or after Jan. 1, 2026, the [about page](https://www.hejustinsun.com/prize/about) states. That retroactive window matters because the first headline award recognizes work announced earlier this month.
+
+The launch named its first wave of laureates across 66 listed mathematical problems. The top $1 million award went to the OpenAI research team for a complete solution and machine-verified proof of the three-dimensional Navier-Stokes existence and smoothness problem, one of the Clay Mathematics Institute's Millennium Prize Problems, [CoinScreamer](https://coinscreamer.com/justin-sun-1m-award-ai/) reported. [FinanceFeeds](https://financefeeds.com/justin-sun-offers-up-to-1-million-for-machine-verified-math-proofs/) recorded the same first-round count of 66 problems and the same inaugural $1 million award.
+
+OpenAI had announced on Sept. 8 that an internal AI system produced a solution showing Navier-Stokes dynamics can develop a singularity in finite time. The company said the result came from an internal model more capable than GPT-6 Astra, with Astra then used in formalization and verification through the Lean theorem prover, according to [FinanceFeeds](https://financefeeds.com/justin-sun-offers-up-to-1-million-for-machine-verified-math-proofs/). The Navier-Stokes equations describe fluid motion and sit at the center of physics and engineering, the outlet noted.
+
+The Clay Mathematics Institute has not awarded its own $1 million Millennium Prize for the work. It said on Sept. 10 that the problem had apparently been settled while stressing that its established process for evaluating the result and assigning credit would continue, [FinanceFeeds](https://financefeeds.com/justin-sun-offers-up-to-1-million-for-machine-verified-math-proofs/) reported. The Sun prize operates independently, so it could recognize the OpenAI work without waiting for the Clay review to conclude.
+
+The Pinnacle list reads like a greatest-hits set of hard mathematics. It names the Riemann hypothesis, the P versus NP problem, the Birch and Swinnerton-Dyer conjecture, the Hodge conjecture, the 3D Navier-Stokes existence and smoothness question, Yang-Mills existence and the mass gap, and the Poincare conjecture, each with a short technical description on the [Pinnacle page](https://www.hejustinsun.com/prize/pinnacle). The published list also reaches to the Goldbach conjecture, the Riemann hypothesis, the Poincare conjecture, and problems associated with Paul Erdos, [FinanceFeeds](https://financefeeds.com/justin-sun-offers-up-to-1-million-for-machine-verified-math-proofs/) reported.
+
+The timing puts the prize inside an open argument about AI and proof. OpenAI's Sept. 8 claim arrived about a week before Sun's announcement, and mathematicians have spent the days since debating what machine-generated proofs mean for human researchers, [The Cryptonomist](https://en.cryptonomist.ch/2026/09/16/justin-sun-mathematics-prize/) reported. Sun's answer is structural: judge the proof, not the prover, and let a machine check the work before money moves.
+
+The site directs participants to explore open problems and submit through GitHub, and lists [email protected] as its contact, according to the [prize pages](https://www.hejustinsun.com/prize/about).
