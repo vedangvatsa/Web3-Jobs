@@ -4688,32 +4688,32 @@
     "expectedAttendance": "1,000+ builders, creators, and fintech professionals",
     "sections": [
       {
-        heading: "What the festival brings to Cape Town",
-        content: [
+        "heading": "What the festival brings to Cape Town",
+        "content": [
           "Crypto Fest is organized by Bitcoin Events, an organization that has championed South African digital asset education and industry connectivity since 2015. Unlike purely corporate expos, Crypto Fest blends technical briefings with crypto culture, creative showcases, and community discussions.",
           "The official site confirms the 2026 edition on 20 November as its eighth annual installment. Over its history, the event has spotlighted practical crypto adoption across Southern Africa, exploring remittance rails, inflation hedging, peer-to-peer liquidity, and decentralized finance infrastructure.",
           "Attendees can register and review updated session streams on the official portal at cryptofest.co.za."
         ]
       },
       {
-        heading: "Programme streams and technical tracks",
-        content: [
+        "heading": "Programme streams and technical tracks",
+        "content": [
           "The program covers decentralized finance (DeFi), layer-1 and layer-2 scaling solutions, stablecoin payment channels, and Web3 creator economies. Hands-on workshop tracks allow local developers to engage directly with protocol mentors and tooling teams.",
           "Panels feature regional exchange leaders, compliance specialists operating under South Africa's Financial Sector Conduct Authority (FSCA) licensing framework, and international founders exploring market entry across Sub-Saharan Africa.",
           "Check the official schedule closer to the event date for verified speaker announcements, stage schedules, and interactive demo stages."
         ]
       },
       {
-        heading: "Cape Town travel and logistics",
-        content: [
+        "heading": "Cape Town travel and logistics",
+        "content": [
           "Held in Cape Town, South Africa, the festival takes advantage of one of the world's most scenic coastal tech hubs. Cape Town's Silicon Cape community offers an energetic backdrop of fintech startups, software houses, and digital nomads.",
           "Late November marks the beginning of South Africa's peak summer tourist season, meaning flights into Cape Town International Airport (CPT) and hotels around the Atlantic Seaboard and City Bowl fill up rapidly. Visitors are advised to book accommodations and airport transfers well in advance.",
           "Ridesharing is widely available across Cape Town, making transit between central lodging and the event venue seamless."
         ]
       },
       {
-        heading: "Participation and registration note",
-        content: [
+        "heading": "Participation and registration note",
+        "content": [
           "Tickets are tiered across early bird, general access, and VIP networking passes via cryptofest.co.za. Review official guidelines regarding pass transfers and check-in procedures.",
           "Bring photo identification matching your registration name to ensure rapid badge collection at morning registration desks."
         ]

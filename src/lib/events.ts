@@ -690,9 +690,16 @@ export function getEventEditorialGuide(event: Web3Event): EventEditorialArticle 
 
   // 1. Overview & Context Section
   const baseOverview = `${event.name} is scheduled for ${formattedDates} ${locationStr}, bringing together Web3 participants, builders, and ecosystem contributors.`;
-  const overviewLead = ownDescription
-    ? (ownDescription.length > 260 ? ownDescription : `${baseOverview} ${ownDescription}`)
-    : baseOverview;
+
+  // Format organizer description into discrete readable paragraphs
+  const rawParagraphs = ownDescription
+    ? ownDescription
+        .split(/\n\n+/)
+        .map((p) => p.trim())
+        .filter((p) => p.length > 0)
+    : [];
+
+  const overviewLead = rawParagraphs.length > 0 ? rawParagraphs[0] : baseOverview;
 
   const eventRoleContext = isHackathon
     ? `As a hackathon, the gathering is structured around active development, prototyping, and mentor-guided building sprints. Teams collaborate under time constraints to design, write smart contracts, and demonstrate functional decentralized applications or infrastructure components.`
@@ -702,7 +709,9 @@ export function getEventEditorialGuide(event: Web3Event): EventEditorialArticle 
         ? `Organized as a technical workshop and hands-on session, the focus is centered on applied development workflows, protocol tooling deep dives, and direct interaction between developers and framework architects.`
         : `Designed as a high-signal community meetup and networking session, the event facilitates informal technical exchanges, collaborative discussions, and peer networking among regional and visiting blockchain professionals.`;
 
-  const aboutContent = [overviewLead, eventRoleContext];
+  const aboutContent = rawParagraphs.length > 1
+    ? [...rawParagraphs.slice(0, 4), eventRoleContext]
+    : [overviewLead, eventRoleContext];
 
   // 2. Ecosystem & Technical Focus Section
   const ecosystemDescriptions: Record<string, string> = {
@@ -809,10 +818,12 @@ export function getEventEditorialGuide(event: Web3Event): EventEditorialArticle 
     },
   ];
 
+  const firstSummarySentence = rawParagraphs.length > 0
+    ? (rawParagraphs[0].endsWith('.') ? rawParagraphs[0] : `${rawParagraphs[0]}.`)
+    : `${event.name} brings together builders and ecosystem contributors.`;
+
   return {
-    summaryLead: ownDescription
-      ? `${event.name} takes place ${formattedDates} ${locationStr}. ${ownDescription}`
-      : `${event.name} takes place ${formattedDates} ${locationStr}, featuring focus on ${ecoStr} across a structured ${isHackathon ? 'hackathon' : isConference ? 'conference' : 'community gathering'}.`,
+    summaryLead: `${event.name} takes place ${formattedDates} ${locationStr}. ${firstSummarySentence}`,
     sections,
   };
 }
