@@ -506,7 +506,8 @@ export function getEventEditorialGuide(event: Web3Event): EventEditorialArticle 
       : ecosystems.length === 2
         ? `${ecosystems[0]} and ${ecosystems[1]}`
         : `${ecosystems.slice(0, -1).join(', ')}, and ${ecosystems[ecosystems.length - 1]}`;
-  const locationStr = event.location || 'Virtual / TBA';
+  const resolvedPlace = formatEventLocation(event);
+  const locationStr = resolvedPlace === 'Virtual / TBA' ? 'online' : `in ${resolvedPlace}`;
   const formattedDates = formatEventDate(event.startDate, event.endDate);
 
   // Editorial guide for Solana Breakpoint
@@ -688,7 +689,7 @@ export function getEventEditorialGuide(event: Web3Event): EventEditorialArticle 
     rawDescription && !isThinEventListingDescription(rawDescription) ? rawDescription : '';
 
   // 1. Overview & Context Section
-  const baseOverview = `${event.name} is scheduled for ${formattedDates} in ${locationStr}, bringing together Web3 participants, builders, and ecosystem contributors.`;
+  const baseOverview = `${event.name} is scheduled for ${formattedDates} ${locationStr}, bringing together Web3 participants, builders, and ecosystem contributors.`;
   const overviewLead = ownDescription
     ? (ownDescription.length > 260 ? ownDescription : `${baseOverview} ${ownDescription}`)
     : baseOverview;
@@ -768,7 +769,7 @@ export function getEventEditorialGuide(event: Web3Event): EventEditorialArticle 
     ? `${cityDescriptions[cityName]} Hosting the event in ${cityName} enables productive interaction between domestic developer communities and visiting global teams.`
     : isOnline
       ? 'This event is hosted entirely online, allowing developers, founders, and community attendees from around the world to participate remotely without travel constraints or regional visa barriers.'
-      : `Held in ${locationStr}, this gathering connects regional participants with visiting builders, protocol teams, and investors active in the local and international ecosystem.`;
+      : `Held ${locationStr}, this gathering connects regional participants with visiting builders, protocol teams, and investors active in the local and international ecosystem.`;
 
   const logisticsDetail = isOnline
     ? 'Attendees should confirm the live-stream platform, working time zones, and interactive virtual staging links ahead of the scheduled start. Check whether breakout workshops or mentorship office hours require prior registration.'
@@ -810,8 +811,8 @@ export function getEventEditorialGuide(event: Web3Event): EventEditorialArticle 
 
   return {
     summaryLead: ownDescription
-      ? `${event.name} takes place ${formattedDates} in ${locationStr}. ${ownDescription}`
-      : `${event.name} takes place ${formattedDates} in ${locationStr}, featuring focus on ${ecoStr} across a structured ${isHackathon ? 'hackathon' : isConference ? 'conference' : 'community gathering'}.`,
+      ? `${event.name} takes place ${formattedDates} ${locationStr}. ${ownDescription}`
+      : `${event.name} takes place ${formattedDates} ${locationStr}, featuring focus on ${ecoStr} across a structured ${isHackathon ? 'hackathon' : isConference ? 'conference' : 'community gathering'}.`,
     sections,
   };
 }
