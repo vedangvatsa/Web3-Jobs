@@ -41,12 +41,12 @@ function cleanJobTitle(title: string, company?: string): string {
     }
   }
 
-  // Strip a16z style "Partner <number>" prefixes and parenthetical suffixes
-  // e.g. "Partner 16, Data Engineer" -> "Data Engineer", "Software Engineer (Partner 16, Partner 18)" -> "Software Engineer"
+  // Strip a16z / ATS style "Partner <number>" tags (prefixes, suffixes, parentheticals, or brackets)
+  // e.g. "Partner 16, Data Engineer" -> "Data Engineer", "Software Engineer (Partner 16, Partner 18)" -> "Software Engineer", "Data Engineer - Partner 16" -> "Data Engineer"
   cleaned = cleaned
-    .replace(/^Partner\s+\d+\s*,\s*/i, '')
-    .replace(/^Partner\s+\d+\s*[-\u2013:]\s*/i, '')
-    .replace(/\s*\(\s*Partner\s+\d+\s*(?:,\s*Partner\s+\d+\s*)*\)/gi, '')
+    .replace(/\s*[\(\[]\s*Partner\s+\d+(?:\s*,\s*Partner\s+\d+)*\s*[\)\]]/gi, '')
+    .replace(/^Partner\s+\d+\s*(?:,\s*|[-\u2013:]\s*|\s+)/i, '')
+    .replace(/(?:\s*,\s*|\s*[-\u2013:]\s*|\s+)Partner\s+\d+(?:\s*,\s*Partner\s+\d+)*/gi, '')
     .trim();
 
   cleaned = cleaned.replace(/\s+/g, ' ').trim();
