@@ -156,14 +156,25 @@ export function EventHeroImage({
   }
 
   return (
-    <div className="w-full rounded-2xl overflow-hidden bg-muted border">
+    <div className="relative w-full rounded-2xl overflow-hidden bg-muted border">
+      {/* Blurred fill of the same poster: no flat grey gutters on narrow images. */}
+      {/* eslint-disable-next-line @next/next/no-img-element */}
+      <img
+        src={posterSrc}
+        alt=""
+        aria-hidden="true"
+        className="pointer-events-none absolute inset-0 h-full w-full scale-110 object-cover blur-2xl brightness-[0.55] saturate-150"
+        loading="lazy"
+        decoding="async"
+        onError={() => setFailed(true)}
+      />
       {canUseNextImage(posterSrc) ? (
         <Image
           src={posterSrc}
           alt={name}
           width={1600}
           height={900}
-          className="mx-auto w-full h-auto max-h-[320px] object-contain"
+          className="relative mx-auto w-full h-auto max-h-[320px] object-contain"
           sizes="(max-width: 1280px) calc(100vw - 2rem), 1280px"
           priority
           onError={() => setFailed(true)}
@@ -172,7 +183,7 @@ export function EventHeroImage({
         <img
           src={posterSrc}
           alt={name}
-          className="mx-auto w-full h-auto max-h-[320px] object-contain"
+          className="relative mx-auto w-full h-auto max-h-[320px] object-contain"
           loading="eager"
           fetchPriority="high"
           decoding="async"
