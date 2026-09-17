@@ -31,6 +31,10 @@
  *   npx tsx scripts/social/post-job-openings.ts --platform threads --dry-run
  *   npx tsx scripts/social/post-job-openings.ts --platform bluesky --dry-run
  *   npx tsx scripts/social/post-job-openings.ts --platform farcaster --dry-run
+ *
+ * Farcaster targets (env):
+ *   FARCASTER_CHANNEL_IDS — comma-separated channel ids (default: jobs), e.g. jobs,web3
+ *   FARCASTER_POST_TO_PROFILE — also cast to main profile feed (default: true; set false to disable)
  *   npx tsx scripts/social/post-job-openings.ts --platform linkedin --dry-run
  *   npx tsx scripts/social/post-job-openings.ts --platform facebook --dry-run
  *   npx tsx scripts/social/post-job-openings.ts --platform instagram --dry-run
@@ -191,11 +195,15 @@ function verifiedPlatformsForSlug(state: SocialState, slug: string): Set<SocialP
     if (
       entry.slug === slug &&
       isSocialPlatform(entry.platform) &&
+      entry.platform !== 'farcaster' &&
       hasVerifiedPostReceipt(entry) &&
       !(entry.platform === 'threads' && state.pendingSlugs.includes(slug) && entry.verification !== 'verified')
     ) {
       platforms.add(entry.platform);
     }
+  }
+  if (isFarcasterComplete(state, slug)) {
+    platforms.add('farcaster');
   }
   return platforms;
 }
@@ -682,10 +690,85 @@ async function postToBluesky(
 
 // ── Farcaster / Neynar ──
 
+interface FarcasterCastTarget {
+  /** Stable key stored in history.account for idempotent retries. */
+  key: string;
+  /** Omit for main profile feed; set for channel casts (e.g. jobs → /jobs). */
+  channelId?: string;
+}
+
+/**
+ * Full static set of top Farcaster channels to maximize reach on every job cast.
+ * Includes major general Web3, hiring, builder, developer, and ecosystem hubs.
+ */
+const DEFAULT_FARCASTER_CHANNELS = [
+  'jobs',
+  'web3',
+  'bounties',
+  'crypto',
+  'dev',
+  'developers',
+  'build',
+  'founders',
+  'base',
+  'ethereum',
+  'solana',
+  'defi',
+  'ai',
+  'product',
+  'design',
+  'growth',
+].join(',');
+
+function parseFarcasterCastTargets(): FarcasterCastTarget[] {
+  const targets: FarcasterCastTarget[] = [];
+  const postProfile = process.env.FARCASTER_POST_TO_PROFILE !== 'false';
+  if (postProfile) {
+    targets.push({ key: 'profile' });
+  }
+
+  const raw = process.env.FARCASTER_CHANNEL_IDS ?? DEFAULT_FARCASTER_CHANNELS;
+  const seen = new Set<string>();
+
+  for (const part of raw.split(',')) {
+    const clean = part.trim().toLowerCase().replace(/^\//, '');
+    if (!clean) continue;
+    const key = `channel:${clean}`;
+    if (seen.has(key)) continue;
+    seen.add(key);
+    targets.push({ key, channelId: clean });
+  }
+
+  return targets;
+}
+
+function farcasterTargetLabel(target: FarcasterCastTarget): string {
+  return target.channelId ? `/${target.channelId}` : 'main profile';
+}
+
+function isFarcasterTargetVerified(state: SocialState, slug: string, target: FarcasterCastTarget): boolean {
+  for (const entry of state.history) {
+    if (entry.slug !== slug || entry.platform !== 'farcaster' || !hasVerifiedPostReceipt(entry)) {
+      continue;
+    }
+    const account = entry.account ?? 'legacy';
+    if (account === target.key) return true;
+    // Runs before multi-target support: single cast to /jobs only.
+    if (account === 'legacy' && target.key === 'channel:jobs') return true;
+  }
+  return false;
+}
+
+function isFarcasterComplete(state: SocialState, slug: string): boolean {
+  const targets = parseFarcasterCastTargets();
+  if (targets.length === 0) return true;
+  return targets.every((target) => isFarcasterTargetVerified(state, slug, target));
+}
+
 async function postToFarcaster(
   text: string,
   linkUrl: string,
-  channelId: string = 'jobs'
+  channelId?: string,
 ): Promise<string> {
   const apiKey = process.env.NEYNAR_API_KEY;
   const signerUuid = process.env.FARCASTER_SIGNER_UUID;
@@ -1427,7 +1510,10 @@ async function main() {
   console.log(blueskyPostText);
   console.log(`-----------------------------`);
 
-  console.log(`\n--- Preview: Farcaster Post (Channel: /jobs) ---`);
+  const farcasterTargets = parseFarcasterCastTargets();
+  console.log(
+    `\n--- Preview: Farcaster (${farcasterTargets.map(farcasterTargetLabel).join(', ') || 'no targets'}) ---`,
+  );
   console.log(farcasterPostText);
   console.log(`-----------------------------------------------`);
 
@@ -1591,22 +1677,43 @@ async function main() {
 
    if (shouldPublishPlatform('farcaster')) {
     attemptedPlatforms.add('farcaster');
-    try {
-      console.log('Publishing to Farcaster / Warpcast...');
-      const castHash = await postToFarcaster(farcasterPostText, farcasterUrl, 'jobs');
-      console.log(`✓ Successfully published to Farcaster! Cast Hash: ${castHash}`);
-      recordVerifiedPost(state, {
-        slug,
-        company,
-        title,
-        platform: 'farcaster',
-        postedAt: now,
-        postId: castHash,
-      });
-      newlyVerifiedPlatforms.add('farcaster');
-      postedSuccessCount++;
-    } catch (err) {
-      console.error(`✗ Failed to post to Farcaster:`, (err as Error).message);
+    const targets = parseFarcasterCastTargets();
+    if (targets.length === 0) {
+      console.warn('✗ Farcaster skipped: no targets configured (set FARCASTER_CHANNEL_IDS and/or FARCASTER_POST_TO_PROFILE).');
+    } else {
+      let farcasterFailures = 0;
+      for (const target of targets) {
+        if (!force && isFarcasterTargetVerified(state, slug, target)) {
+          console.log(`Farcaster ${farcasterTargetLabel(target)} already verified for ${slug}, skipping.`);
+          continue;
+        }
+        try {
+          console.log(`Publishing to Farcaster (${farcasterTargetLabel(target)})...`);
+          const castHash = await postToFarcaster(farcasterPostText, farcasterUrl, target.channelId);
+          console.log(`✓ Farcaster ${farcasterTargetLabel(target)} cast hash: ${castHash}`);
+          recordVerifiedPost(state, {
+            slug,
+            company,
+            title,
+            platform: 'farcaster',
+            postedAt: now,
+            postId: castHash,
+            account: target.key,
+          });
+          postedSuccessCount++;
+        } catch (err) {
+          farcasterFailures++;
+          console.error(
+            `✗ Failed to post to Farcaster (${farcasterTargetLabel(target)}):`,
+            (err as Error).message,
+          );
+        }
+      }
+      if (isFarcasterComplete(state, slug)) {
+        newlyVerifiedPlatforms.add('farcaster');
+      } else if (farcasterFailures > 0) {
+        console.warn('Farcaster incomplete: some targets failed or were skipped; will retry missing targets on next run.');
+      }
     }
   }
 

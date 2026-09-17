@@ -52,7 +52,7 @@ export async function sendJobAlertEmail(
    Content: {
     Simple: {
      Subject: {
-      Data: `New Web3 Jobs - ${jobs.length} Positions Available (${new Date().toLocaleDateString('en-US', { month: 'short', day: 'numeric' })})`,
+      Data: `${jobs.length} new Web3 roles today`,
       Charset: 'UTF-8',
      },
       Body: {
@@ -194,8 +194,7 @@ export async function sendBatchJobAlerts(
 
      <!-- Content -->
      <div style="padding: 18px 0;">
-      <div style="font-size: 20px; font-weight: 700; margin-bottom: 6px;">${jobs.length} roles worth a look</div>
-      <div style="font-size: 13px; color: #6b7280; margin-bottom: 14px;">Handpicked from the latest listings on Hashtag Web3.</div>
+      <div style="font-size: 20px; font-weight: 700; margin-bottom: 14px;">${jobs.length} roles worth a look</div>
 
       ${jobsHTML}
 
