@@ -110,11 +110,31 @@ export async function CompanyDetailView({ slug }: { slug: string }) {
 
             <section className="mt-10">
               <h2 className="text-lg font-bold tracking-tight mb-4">Open roles</h2>
-              <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
-                {company.jobs.map((job) => (
-                  <JobCard key={getJobSlug(job)} job={job} logoUrl={logoSrc} faviconUrl={faviconUrl} />
-                ))}
-              </div>
+              {company.jobs.length > 0 ? (
+                <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+                  {company.jobs.map((job) => (
+                    <JobCard key={getJobSlug(job)} job={job} logoUrl={logoSrc} faviconUrl={faviconUrl} />
+                  ))}
+                </div>
+              ) : (
+                <div className="rounded-xl border bg-card/50 p-8 text-center sm:p-12">
+                  <div className="mx-auto flex h-12 w-12 items-center justify-center rounded-full bg-muted text-muted-foreground mb-4">
+                    <Briefcase className="h-6 w-6" aria-hidden="true" />
+                  </div>
+                  <h3 className="text-base font-semibold text-foreground">No open roles currently listed</h3>
+                  <p className="mt-2 text-sm text-muted-foreground max-w-md mx-auto">
+                    {displayName} has no active job postings on Hashtag Web3 at this time. Check back soon or explore open roles across other top Web3 companies.
+                  </p>
+                  <div className="mt-6">
+                    <Link
+                      href="/jobs"
+                      className="inline-flex items-center justify-center rounded-lg bg-primary px-4 py-2 text-sm font-medium text-primary-foreground hover:bg-primary/90 transition-colors"
+                    >
+                      Browse All Web3 Jobs
+                    </Link>
+                  </div>
+                </div>
+              )}
             </section>
           </article>
         </main>
