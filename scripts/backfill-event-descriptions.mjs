@@ -16,6 +16,7 @@ const limitIdx = args.indexOf('--limit');
 const LIMIT = limitIdx > -1 ? Number(args[limitIdx + 1]) || Infinity : Infinity;
 const fileIdx = args.indexOf('--file');
 const ONLY_FILE = fileIdx > -1 ? args[fileIdx + 1] : null;
+const INCLUDE_OFFICIAL = args.includes('--include-official');
 
 const MIN_LEN = 150;
 const MAX_LEN = 1800;
@@ -50,9 +51,19 @@ function prosemirrorText(node, out) {
   }
 }
 
+function extractMetaDescription(html) {
+  const m =
+    html.match(/<meta[^>]+property="og:description"[^>]+content="([^"]{100,})"/i) ||
+    html.match(/<meta[^>]+content="([^"]{100,})"[^>]+property="og:description"/i) ||
+    html.match(/<meta[^>]+name="description"[^>]+content="([^"]{100,})"/i) ||
+    html.match(/<meta[^>]+content="([^"]{100,})"[^>]+name="description"/i);
+  if (!m) return '';
+  return m[1].replace(/&amp;/g, '&').replace(/&quot;/g, '"').replace(/&#39;/g, "'").replace(/&lt;/g, '<').replace(/&gt;/g, '>').trim();
+}
+
 function extractLumaDescription(html) {
   const m = html.match(/<script id="__NEXT_DATA__" type="application\/json">(.*?)<\/script>/s);
-  if (!m) return '';
+  if (!m) return extractMetaDescription(html);
   let data;
   try {
     data = JSON.parse(m[1]);
@@ -113,7 +124,8 @@ async function main() {
       if (!e || typeof e !== 'object') continue;
       const desc = e.description || '';
       const url = e.url || '';
-      if (desc.length < MIN_LEN && url.includes('luma.com/') && done < LIMIT) {
+      const isLuma = url.includes('luma.com/') || url.includes('lu.ma/');
+      if (desc.length < MIN_LEN && (isLuma || (INCLUDE_OFFICIAL && /^https?:\/\//.test(url))) && done < LIMIT) {
         targets.push(e);
         done++;
       }
