@@ -1,5 +1,5 @@
 import type { EventEditorialArticle } from '@/lib/events';
-import { formatEventDate, formatEventLocation, normalizeCountry, type Web3Event } from '@/lib/events';
+import { formatEventDate, formatEventLocation, type Web3Event } from '@/lib/events';
 
 /** Quick-fact strings we should not show — they admit we lack the data. */
 const NON_FACT_PATTERNS = [
@@ -52,14 +52,13 @@ export function sanitizeEventEditorial(editorial: EventEditorialArticle): EventE
 
 export function buildEventMetaDescription(event: Web3Event, hasEditorialGuide: boolean): string {
   const formattedDate = formatEventDate(event.startDate, event.endDate);
-  const place =
-    event.city && event.country
-      ? `${event.city}, ${normalizeCountry(event.country)}`
-      : formatEventLocation(event);
+  const place = formatEventLocation(event);
+  // Never render "in Virtual / TBA": virtual events happen online.
+  const where = place === 'Virtual / TBA' ? 'online' : `in ${place}`;
 
   if (hasEditorialGuide) {
-    return `${event.name} on ${formattedDate} in ${place}. Dates, venue, and practical notes for attendees.`;
+    return `${event.name} on ${formattedDate} ${where}. Dates, venue, and practical notes for attendees.`;
   }
 
-  return `${event.name} on ${formattedDate} in ${place}. Date, venue, and registration details.`;
+  return `${event.name} on ${formattedDate} ${where}. Date, venue, and registration details.`;
 }
