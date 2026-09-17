@@ -493,6 +493,14 @@
     "lastUrl": "https://hashtagweb3.com/product560",
     "updatedAt": "2026-09-15T19:45:17.604Z"
   },
+  "8097731": {
+    "slugs": [
+      "product383"
+    ],
+    "lastSlug": "product383",
+    "lastUrl": "https://hashtagweb3.com/product383",
+    "updatedAt": "2026-09-17T08:51:14.771Z"
+  },
   "8097880": {
     "slugs": [
       "engineer664"
@@ -651,6 +659,14 @@
     "lastSlug": "fullstack17",
     "lastUrl": "https://hashtagweb3.com/fullstack17",
     "updatedAt": "2026-09-15T19:45:20.085Z"
+  },
+  "8144836": {
+    "slugs": [
+      "engineer813"
+    ],
+    "lastSlug": "engineer813",
+    "lastUrl": "https://hashtagweb3.com/engineer813",
+    "updatedAt": "2026-09-17T08:51:13.383Z"
   },
   "8155035": {
     "slugs": [
@@ -2464,5 +2480,29 @@
     "lastSlug": "manager72101",
     "lastUrl": "https://hashtagweb3.com/manager72101",
     "updatedAt": "2026-09-16T15:34:51.023Z"
+  },
+  "b19b7ecb-6f08-4558-a14f-ab92024b9146": {
+    "slugs": [
+      "security147"
+    ],
+    "lastSlug": "security147",
+    "lastUrl": "https://hashtagweb3.com/security147",
+    "updatedAt": "2026-09-17T08:51:13.676Z"
+  },
+  "JR2001145": {
+    "slugs": [
+      "engineer665"
+    ],
+    "lastSlug": "engineer665",
+    "lastUrl": "https://hashtagweb3.com/engineer665",
+    "updatedAt": "2026-09-17T08:51:14.025Z"
+  },
+  "5399796008": {
+    "slugs": [
+      "mgr2"
+    ],
+    "lastSlug": "mgr2",
+    "lastUrl": "https://hashtagweb3.com/mgr2",
+    "updatedAt": "2026-09-17T08:51:14.392Z"
   }
 }

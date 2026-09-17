@@ -587,6 +587,9 @@
   "https://hashtagweb3.com/fca-gateway?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://www.coindesk.com/markets/2026/09/16/payward-plans-to-offer-u-s-clients-onchain-perpetual-futures-on-hyperliquid",
   "https://decrypt.co/378448/meta-fix-pervert-glasses",
+  "https://hashtagweb3.com/iran-forfeiture?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://www.theblock.co/news/regulation/2026-09-16-house-committee-moves-bitcoin-reserve-bill-415317",
+  "https://www.coindesk.com/markets/2026/09/17/bitcoin-faces-2022-parallels-as-federal-reserve-resumes-rate-hikes",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -1667,6 +1670,12 @@
   "Payward plans to offer U.S. clients onchain perpetual futures on Hyperliquid",
   "Meta Reportedly Developing Smart Glasses Without Cameras",
   "Meta May Have Found a Fix for Its 'Pervert Glasses'",
+  "US Seeks $61 Million Crypto Tied to Iranian Oil",
+  "US Seeks Forfeiture of $61 Million in Crypto Tied to Iranian Oil Sales",
+  "US House committee advances Strategic Bitcoin Reserve bill",
+  "House committee moves to codify Trump’s Strategic Bitcoin Reserve",
+  "Bitcoin Pullback Resembles Conditions Before 2022 Fed Hikes",
+  "Bitcoin faces 2022 parallels as federal reserve resumes rate hikes",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -1786,5 +1795,8 @@
   "fp:arc|avoid|binanc|blackrock|blockchain|bybit|circl|donor|group|hama",
   "fp:announc|application|apply|authorisation|between|effect|fca|february2027|full|must",
   "fp:acquir|american|client|decentraliz|derivativ|exchang|futur|hyperliquid|licens|offer",
-  "fp:aim|associat|camera|concern|develop|fix|found|glass|hav|may"
+  "fp:aim|associat|camera|concern|develop|fix|found|glass|hav|may",
+  "fp:61m|account|binanc|black|civil|claim|fil|forfeitur|iranian|launder",
+  "fp:advanc|bill|codify|committe|establish|federal|government|hous|legislation|mov",
+  "fp:analyst|before2022|condition|faces2022|federal|further|hik|interest|loss|parallel"
 ]
