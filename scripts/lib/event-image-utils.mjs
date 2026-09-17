@@ -12,15 +12,16 @@ export function isLumaDefaultPlaceholder(img) {
   return !!img && typeof img === 'string' && /images\.lumacdn\.com\/social-images\/default-\d+\.png/i.test(img);
 }
 
-// Rewrite any image on images.lumacdn.com through their cdn-cgi resizer at a
-// canonical high-res 16:9 crop so self-hosted copies stay crisp in heroes.
+// Rewrite any image on images.lumacdn.com through their cdn-cgi resizer.
+// fit=contain (width only, no height) preserves the full poster: a forced
+// 16:9 cover crop decapitates square/portrait artwork (titles, logos).
 export function canonicalLumaUrl(url) {
   if (!url || typeof url !== 'string') return url;
   const u = url.startsWith('http') ? url : `https:${url}`;
   if (!/images\.lumacdn\.com/.test(u)) return u;
   const m = u.match(/^https:\/\/images\.lumacdn\.com\/(?:cdn-cgi\/image\/[^/]+\/)?(.+)$/);
   if (!m || !m[1]) return u;
-  return `https://images.lumacdn.com/cdn-cgi/image/format=webp,fit=cover,dpr=1,anim=false,background=white,quality=85,width=1600,height=900/${m[1]}`;
+  return `https://images.lumacdn.com/cdn-cgi/image/format=webp,fit=contain,dpr=1,anim=false,background=white,quality=85,width=1600/${m[1]}`;
 }
 
 export function safeFileStem(id) {
@@ -66,17 +67,19 @@ async function toWebpBytes(buf) {
     try {
       execFileSync('/usr/bin/sips', ['-s', 'format', 'png', tmp], { stdio: 'pipe' });
       const webp = await sharp(tmp, { density: 96 })
-        .resize({ width: 1600, height: 900, fit: 'contain', background: '#ffffff', withoutEnlargement: true })
-        .webp({ quality: 78, alphaQuality: 85 })
+        .resize({ width: 1600, height: 1600, fit: 'inside', withoutEnlargement: true })
+        .webp({ quality: 80, alphaQuality: 85 })
         .toBuffer();
       return webp;
     } finally {
       try { fs.unlinkSync(tmp); } catch { /* ignore */ }
     }
   }
+  // Fit inside 1600px preserving aspect: never crop, never pad. The detail
+  // page displays covers uncropped on a transparent frame.
   return sharp(buf, { density: 96 })
-    .resize({ width: 1600, height: 900, fit: 'contain', background: '#ffffff', withoutEnlargement: true })
-    .webp({ quality: 78, alphaQuality: 85 })
+    .resize({ width: 1600, height: 1600, fit: 'inside', withoutEnlargement: true })
+    .webp({ quality: 80, alphaQuality: 85 })
     .toBuffer()
     .catch(() => null);
 }
