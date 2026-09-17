@@ -1,5 +1,5 @@
 {
-  "lastIndex": 201,
+  "lastIndex": 203,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -64,7 +64,9 @@
     "vip",
     "cmp5",
     "infra4",
-    "mgr8"
+    "mgr8",
+    "pm24",
+    "aso9"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -4397,6 +4399,460 @@
       "platform": "facebook",
       "postedAt": "2026-09-17T12:39:30.653Z",
       "postId": "691827047618629_1090731676867400",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm24",
+      "company": "Magic Eden",
+      "title": "Senior Product Designer, Sportsbook",
+      "platform": "x",
+      "postedAt": "2026-09-17T17:40:32.494Z",
+      "postId": "2100641065036558636",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm24",
+      "company": "Magic Eden",
+      "title": "Senior Product Designer, Sportsbook",
+      "platform": "threads",
+      "postedAt": "2026-09-17T17:40:32.494Z",
+      "postId": "18076527425710572",
+      "verification": "verified",
+      "expectedText": "Magic Eden is hiring Senior Product Designer, Sportsbook: https://hashtagweb3.com/pm24/th?og=2",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DdZa07Jm5nh",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "pm24",
+      "company": "Magic Eden",
+      "title": "Senior Product Designer, Sportsbook",
+      "platform": "bluesky",
+      "postedAt": "2026-09-17T17:40:32.494Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mvq76liggz2j",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm24",
+      "company": "Magic Eden",
+      "title": "Senior Product Designer, Sportsbook",
+      "platform": "farcaster",
+      "postedAt": "2026-09-17T17:40:32.494Z",
+      "postId": "0x3b8642f887d45ba6345fe282ff55b5f5fd73ab63",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm24",
+      "company": "Magic Eden",
+      "title": "Senior Product Designer, Sportsbook",
+      "platform": "farcaster",
+      "postedAt": "2026-09-17T17:40:32.494Z",
+      "postId": "0xe35cc674bcbeaaf411d9cbdb1133b902289ce485",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm24",
+      "company": "Magic Eden",
+      "title": "Senior Product Designer, Sportsbook",
+      "platform": "farcaster",
+      "postedAt": "2026-09-17T17:40:32.494Z",
+      "postId": "0xabf2afdf602ea93c2afb5f37c93d6f6af2180dbf",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm24",
+      "company": "Magic Eden",
+      "title": "Senior Product Designer, Sportsbook",
+      "platform": "farcaster",
+      "postedAt": "2026-09-17T17:40:32.494Z",
+      "postId": "0x63e7d4971e20e4908c0b266be32e9569045ce59b",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm24",
+      "company": "Magic Eden",
+      "title": "Senior Product Designer, Sportsbook",
+      "platform": "farcaster",
+      "postedAt": "2026-09-17T17:40:32.494Z",
+      "postId": "0xddccb0d2e35f841ee1686a9b729af8cb209696e7",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm24",
+      "company": "Magic Eden",
+      "title": "Senior Product Designer, Sportsbook",
+      "platform": "farcaster",
+      "postedAt": "2026-09-17T17:40:32.494Z",
+      "postId": "0xaaf0c4b5a487dad6cd90ede5ec66b004d98e21d4",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm24",
+      "company": "Magic Eden",
+      "title": "Senior Product Designer, Sportsbook",
+      "platform": "farcaster",
+      "postedAt": "2026-09-17T17:40:32.494Z",
+      "postId": "0xf656cf2c3c74426e3bc24693882198b3a06bab30",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm24",
+      "company": "Magic Eden",
+      "title": "Senior Product Designer, Sportsbook",
+      "platform": "farcaster",
+      "postedAt": "2026-09-17T17:40:32.494Z",
+      "postId": "0x8459015b41c9ea8f804e3864abc1e2eb5b846f0b",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm24",
+      "company": "Magic Eden",
+      "title": "Senior Product Designer, Sportsbook",
+      "platform": "farcaster",
+      "postedAt": "2026-09-17T17:40:32.494Z",
+      "postId": "0xe3a16446da88e3f505344bc0ed4760cb4e11ccc2",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm24",
+      "company": "Magic Eden",
+      "title": "Senior Product Designer, Sportsbook",
+      "platform": "farcaster",
+      "postedAt": "2026-09-17T17:40:32.494Z",
+      "postId": "0x9f55a4b00b809c076eae8cd3d52dada0b92e7ceb",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm24",
+      "company": "Magic Eden",
+      "title": "Senior Product Designer, Sportsbook",
+      "platform": "farcaster",
+      "postedAt": "2026-09-17T17:40:32.494Z",
+      "postId": "0x992631c93f8f6d11043ba0c38f348a0051deb21a",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm24",
+      "company": "Magic Eden",
+      "title": "Senior Product Designer, Sportsbook",
+      "platform": "farcaster",
+      "postedAt": "2026-09-17T17:40:32.494Z",
+      "postId": "0x786edef2f4832d8297f8aef717ae85cd9417a06c",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm24",
+      "company": "Magic Eden",
+      "title": "Senior Product Designer, Sportsbook",
+      "platform": "farcaster",
+      "postedAt": "2026-09-17T17:40:32.494Z",
+      "postId": "0xb3fd14961a43a4c48dba20aaab164a43bc25a9fc",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm24",
+      "company": "Magic Eden",
+      "title": "Senior Product Designer, Sportsbook",
+      "platform": "farcaster",
+      "postedAt": "2026-09-17T17:40:32.494Z",
+      "postId": "0xb152e1d9d92d0edd687b0d70c8eafd07b1559466",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm24",
+      "company": "Magic Eden",
+      "title": "Senior Product Designer, Sportsbook",
+      "platform": "farcaster",
+      "postedAt": "2026-09-17T17:40:32.494Z",
+      "postId": "0x77381fe278a6a2d68618d8649b56a19312c01c1c",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm24",
+      "company": "Magic Eden",
+      "title": "Senior Product Designer, Sportsbook",
+      "platform": "farcaster",
+      "postedAt": "2026-09-17T17:40:32.494Z",
+      "postId": "0x045be1c34e7fabaf99d99474be643c99fb776a03",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm24",
+      "company": "Magic Eden",
+      "title": "Senior Product Designer, Sportsbook",
+      "platform": "farcaster",
+      "postedAt": "2026-09-17T17:40:32.494Z",
+      "postId": "0x1be2c7b277d7bc71bc30df5e15f80bb3a6329b39",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm24",
+      "company": "Magic Eden",
+      "title": "Senior Product Designer, Sportsbook",
+      "platform": "linkedin",
+      "postedAt": "2026-09-17T17:40:32.494Z",
+      "postId": "6aac2629845053aaaf2387ae",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm24",
+      "company": "Magic Eden",
+      "title": "Senior Product Designer, Sportsbook",
+      "platform": "facebook",
+      "postedAt": "2026-09-17T17:40:32.494Z",
+      "postId": "691827047618629_1090936410180260",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm24",
+      "company": "Magic Eden",
+      "title": "Senior Product Designer, Sportsbook",
+      "platform": "instagram",
+      "postedAt": "2026-09-17T17:40:32.494Z",
+      "postId": "18138760123720185",
+      "verification": "verified"
+    },
+    {
+      "slug": "aso9",
+      "company": "Oasis Network",
+      "title": "Physical Therapist Assistant",
+      "platform": "x",
+      "postedAt": "2026-09-17T17:42:11.746Z",
+      "postId": "2100641481400995993",
+      "verification": "verified"
+    },
+    {
+      "slug": "aso9",
+      "company": "Oasis Network",
+      "title": "Physical Therapist Assistant",
+      "platform": "threads",
+      "postedAt": "2026-09-17T17:42:11.746Z",
+      "postId": "17879731857534084",
+      "verification": "verified",
+      "expectedText": "Oasis Network is hiring Physical Therapist Assistant: https://hashtagweb3.com/aso9/th?og=2",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DdZbBCKGF2g",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "aso9",
+      "company": "Oasis Network",
+      "title": "Physical Therapist Assistant",
+      "platform": "bluesky",
+      "postedAt": "2026-09-17T17:42:11.746Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mvq7bsby332j",
+      "verification": "verified"
+    },
+    {
+      "slug": "aso9",
+      "company": "Oasis Network",
+      "title": "Physical Therapist Assistant",
+      "platform": "farcaster",
+      "postedAt": "2026-09-17T17:42:11.746Z",
+      "postId": "0x66867dcc44930efc81a94fb36eaeb519ff512da9",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "aso9",
+      "company": "Oasis Network",
+      "title": "Physical Therapist Assistant",
+      "platform": "farcaster",
+      "postedAt": "2026-09-17T17:42:11.746Z",
+      "postId": "0xc329f37d915e0557fb4a509e8e3e65a7eedec4c5",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "aso9",
+      "company": "Oasis Network",
+      "title": "Physical Therapist Assistant",
+      "platform": "farcaster",
+      "postedAt": "2026-09-17T17:42:11.746Z",
+      "postId": "0x668802ef28301d8aa51292e6ad41564a2a42ba38",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "aso9",
+      "company": "Oasis Network",
+      "title": "Physical Therapist Assistant",
+      "platform": "farcaster",
+      "postedAt": "2026-09-17T17:42:11.746Z",
+      "postId": "0xf133688909b64b615f8ccf60feea0796621c217e",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "aso9",
+      "company": "Oasis Network",
+      "title": "Physical Therapist Assistant",
+      "platform": "farcaster",
+      "postedAt": "2026-09-17T17:42:11.746Z",
+      "postId": "0x1ed1ae21d7f50a18685916178f84357d2aceb371",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "aso9",
+      "company": "Oasis Network",
+      "title": "Physical Therapist Assistant",
+      "platform": "farcaster",
+      "postedAt": "2026-09-17T17:42:11.746Z",
+      "postId": "0x53e0f9feeff3be294a88315e25aa750ba605ac4a",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "aso9",
+      "company": "Oasis Network",
+      "title": "Physical Therapist Assistant",
+      "platform": "farcaster",
+      "postedAt": "2026-09-17T17:42:11.746Z",
+      "postId": "0x80b5ed25d5a62bb44f0a2eb1eb7973515b0059ff",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "aso9",
+      "company": "Oasis Network",
+      "title": "Physical Therapist Assistant",
+      "platform": "farcaster",
+      "postedAt": "2026-09-17T17:42:11.746Z",
+      "postId": "0xb7cc54ecb75d72adc4455bf9a69f50d4f6124be6",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "aso9",
+      "company": "Oasis Network",
+      "title": "Physical Therapist Assistant",
+      "platform": "farcaster",
+      "postedAt": "2026-09-17T17:42:11.746Z",
+      "postId": "0xd72ba244ce9d5cf53122cc251a8824dd6105198f",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "aso9",
+      "company": "Oasis Network",
+      "title": "Physical Therapist Assistant",
+      "platform": "farcaster",
+      "postedAt": "2026-09-17T17:42:11.746Z",
+      "postId": "0x0a71e8dd5d26a909ba450f340838bc69ce1a978e",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "aso9",
+      "company": "Oasis Network",
+      "title": "Physical Therapist Assistant",
+      "platform": "farcaster",
+      "postedAt": "2026-09-17T17:42:11.746Z",
+      "postId": "0x3198e67732a3b1343df4fd941feabdd577b94e3e",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "aso9",
+      "company": "Oasis Network",
+      "title": "Physical Therapist Assistant",
+      "platform": "farcaster",
+      "postedAt": "2026-09-17T17:42:11.746Z",
+      "postId": "0x5929753c2a5ffce43455f45afca6d91cb7782cb0",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "aso9",
+      "company": "Oasis Network",
+      "title": "Physical Therapist Assistant",
+      "platform": "farcaster",
+      "postedAt": "2026-09-17T17:42:11.746Z",
+      "postId": "0x908ac767c408e63187e25e8edbd1634896f7fd41",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "aso9",
+      "company": "Oasis Network",
+      "title": "Physical Therapist Assistant",
+      "platform": "farcaster",
+      "postedAt": "2026-09-17T17:42:11.746Z",
+      "postId": "0x4cb0a9d69b6010997f6a8d9dd3288336c10e882f",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "aso9",
+      "company": "Oasis Network",
+      "title": "Physical Therapist Assistant",
+      "platform": "farcaster",
+      "postedAt": "2026-09-17T17:42:11.746Z",
+      "postId": "0x5953835a5db55fe782ac9667f6d7fb4b60a4a773",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "aso9",
+      "company": "Oasis Network",
+      "title": "Physical Therapist Assistant",
+      "platform": "farcaster",
+      "postedAt": "2026-09-17T17:42:11.746Z",
+      "postId": "0x729a149561240281b2175f92730be32510cc5a8a",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "aso9",
+      "company": "Oasis Network",
+      "title": "Physical Therapist Assistant",
+      "platform": "farcaster",
+      "postedAt": "2026-09-17T17:42:11.746Z",
+      "postId": "0x18d1781cf6c2f715db75b7efa28c138cd99fcc1a",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "aso9",
+      "company": "Oasis Network",
+      "title": "Physical Therapist Assistant",
+      "platform": "linkedin",
+      "postedAt": "2026-09-17T17:42:11.746Z",
+      "postId": "6aac269557239da1608501fc",
+      "verification": "verified"
+    },
+    {
+      "slug": "aso9",
+      "company": "Oasis Network",
+      "title": "Physical Therapist Assistant",
+      "platform": "facebook",
+      "postedAt": "2026-09-17T17:42:11.746Z",
+      "postId": "691827047618629_1090938226846745",
+      "verification": "verified"
+    },
+    {
+      "slug": "aso9",
+      "company": "Oasis Network",
+      "title": "Physical Therapist Assistant",
+      "platform": "instagram",
+      "postedAt": "2026-09-17T17:42:11.746Z",
+      "postId": "18482350075129106",
       "verification": "verified"
     }
   ]
