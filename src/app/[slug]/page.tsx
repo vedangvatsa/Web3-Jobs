@@ -373,8 +373,11 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     const companySlug = getCompanySlug(job.company);
     const company = await getCompanyBySlug(companySlug);
     const contentHtml = buildSynthesizedJobContent(job);
-    const logoSrc = resolveCompanyLogo(companySlug);
-    const faviconUrl = getCompanyFaviconUrl(company?.website);
+    const rawLogoFile = resolveCompanyLogo(companySlug);
+    const rawFavicon = getCompanyFaviconUrl(company?.website);
+    const preferFavicon = FAVICON_FIRST_SLUGS.has(companySlug) && !!rawFavicon;
+    const logoSrc = preferFavicon ? rawFavicon : rawLogoFile;
+    const faviconUrl = preferFavicon ? rawLogoFile : rawFavicon;
     return <JobDetailView job={job} contentHtml={contentHtml} company={company} siteUrl={siteUrl} logoSrc={logoSrc} faviconUrl={faviconUrl} />;
   }
 
