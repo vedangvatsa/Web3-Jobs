@@ -3296,7 +3296,41 @@
     "venueName": "Emirates Palace",
     "url": "https://www.globaltradingshow.com/",
     "website": "https://www.globaltradingshow.com/",
-    "registrationUrl": "https://www.globaltradingshow.com/tickets/"
+    "registrationUrl": "https://www.globaltradingshow.com/tickets/",
+    "speakers": [
+      "Christos Christou",
+      "Marcin Kaźmierczak",
+      "Evgeny Gokhberg",
+      "Mahmoud Hamouda",
+      "John Lilic"
+    ],
+    "speakerDetails": [
+      {
+        "name": "Christos Christou",
+        "title": "Chief Compliance Officer",
+        "organization": "Lulu Financial Holdings"
+      },
+      {
+        "name": "Marcin Kaźmierczak",
+        "title": "Co-Founder",
+        "organization": "RedStone"
+      },
+      {
+        "name": "Evgeny Gokhberg",
+        "title": "Founder",
+        "organization": "Re7 Capital"
+      },
+      {
+        "name": "Mahmoud Hamouda",
+        "title": "Deputy Chief Strategy Officer",
+        "organization": "Banque Misr"
+      },
+      {
+        "name": "John Lilic",
+        "title": "Chief Advisor",
+        "organization": "Hilbert Group"
+      }
+    ]
   },
   {
     "twitter": null,
