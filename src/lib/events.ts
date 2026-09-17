@@ -41,6 +41,14 @@ export interface Web3Event {
   addressCountry?: string;
   organizer?: EventParty;
   performer?: EventParty;
+  /** Host names from the source page (e.g. Luma hosts). */
+  hosts?: string[];
+  /** IANA timezone from the source page (e.g. Asia/Singapore). */
+  timezone?: string;
+  /** True when the source page requires approval to attend. */
+  approvalRequired?: boolean;
+  /** Neighborhood/district from the source page (e.g. Orchard). */
+  neighborhood?: string;
   token2049SideEvent?: boolean;
   sideEventFor?: string[];
   url: string;
