@@ -749,7 +749,30 @@ export async function getCompanyBySlug(slug: string): Promise<Company | null> {
   }
  });
  
- if (!targetCanonicalName) return null;
+  if (!targetCanonicalName) {
+    const content = (await loadCompanyContent(slug)) || (await loadCompanyContent(slug.replace(/-labs$|-foundation$|-crypto$/, '')));
+    const richDesc = COMPANY_RICH_ABOUT[slug] || COMPANY_RICH_ABOUT[slug.replace(/-labs$|-foundation$|-crypto$/, '')];
+    
+    if (content || richDesc || COMPANY_WEBSITE_OVERRIDES[slug]) {
+      const formattedName = slug
+        .split('-')
+        .map((w) => w.charAt(0).toUpperCase() + w.slice(1))
+        .join(' ');
+      const website = COMPANY_WEBSITE_OVERRIDES[slug] || content?.website || `https://${slug.replace(/-labs$|-foundation$|-crypto$/, '')}.com`;
+      const description = richDesc || content?.description || `${formattedName} is a leading Web3 & blockchain organization. There are currently no active job openings listed.`;
+      
+      return {
+        slug,
+        name: formattedName,
+        website,
+        jobCount: 0,
+        jobs: [],
+        lastUpdated: new Date().toISOString(),
+        description,
+      };
+    }
+    return null;
+  }
  
  const canonicalSlug = createSlug(targetCanonicalName);
  const companyJobs = companyMap.get(targetCanonicalName) || [];
