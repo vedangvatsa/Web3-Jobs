@@ -213,13 +213,21 @@ export function dedupeEventLocation(location: string): string {
 export function formatEventLocation(
   event: Pick<Web3Event, 'location' | 'city' | 'country'>,
 ): string {
-  const city = (event.city || '').trim();
+  const rawCity = (event.city || '').trim();
+  // Placeholder cities ("Global", "Online", ...) are data noise, not places.
+  const GENERIC_CITIES = new Set(['global', 'virtual', 'online', 'tba', 'tbd', 'worldwide', 'remote', 'hybrid', 'various']);
+  const city = GENERIC_CITIES.has(rawCity.toLowerCase()) ? '' : rawCity;
   const country = normalizeCountry(event.country);
   // City-states (Singapore, Dubai reports, etc.): never render "X, X".
   if (city && country && city.toLowerCase() === country.toLowerCase()) return city;
   const preferred = city && country && !city.includes(',') ? `${city}, ${country}` : '';
   const raw = (event.location || '').trim();
-  const deduped = raw ? dedupeEventLocation(raw) : '';
+  // Drop placeholder segments ("Global, SG" → "SG") before dedup.
+  const rawParts = raw.split(',').map((part) => part.trim()).filter(Boolean);
+  const cleanedParts = rawParts.filter((part) => !GENERIC_CITIES.has(part.toLowerCase()));
+  const strippedGeneric = cleanedParts.length < rawParts.length;
+  const cleaned = cleanedParts.join(', ');
+  const deduped = cleaned ? dedupeEventLocation(cleaned) : '';
 
   if (preferred) {
     if (!deduped || deduped.toLowerCase() === `${preferred}, ${preferred}`.toLowerCase()) {
@@ -229,7 +237,15 @@ export function formatEventLocation(
     if (cityCount > 1) return preferred;
   }
 
-  return deduped || preferred || 'Virtual / TBA';
+  // A bare leftover code from generic-stripping ("SG") resolves to the
+  // full country name.
+  if (strippedGeneric && deduped && country && deduped.length <= 3) {
+    const rawCountry = (event.country || '').trim();
+    if (rawCountry.length > 3) return rawCountry;
+    if (country.length > 3) return country;
+  }
+
+  return deduped || preferred || country || 'Virtual / TBA';
 }
 
 export function getEventType(event: Pick<Web3Event, 'name' | 'description' | 'location'>): EventType {
