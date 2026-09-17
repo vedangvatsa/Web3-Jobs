@@ -44,7 +44,7 @@ export function DetailPageHeader({
               {metadata && <div className="mt-2 flex flex-wrap gap-x-4 gap-y-1.5 text-sm text-muted-foreground">{metadata}</div>}
             </div>
           </div>
-          {actions && <div className="flex w-full shrink-0 flex-wrap gap-2 lg:basis-full">{actions}</div>}
+          {actions && <div className="flex w-full shrink-0 flex-wrap gap-2 lg:ml-auto lg:w-auto">{actions}</div>}
         </div>
       </header>
     </>
