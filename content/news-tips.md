@@ -8,4 +8,4 @@ Format: `- <url> — <one-line note>`
 
 ## Pending
 
-- https://www.hejustinsun.com/prize — Justin Sun Prize announcement (also https://x.com/JustinSunPrize). Missed by RSS; check date and cover if fresh.
+(none)
