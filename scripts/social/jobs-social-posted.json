@@ -1,5 +1,5 @@
 {
-  "lastIndex": 198,
+  "lastIndex": 199,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -63,7 +63,8 @@
     "security257",
     "vip",
     "cmp5",
-    "infra4"
+    "infra4",
+    "mgr8"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -4053,6 +4054,72 @@
       "platform": "facebook",
       "postedAt": "2026-09-16T22:14:24.905Z",
       "postId": "691827047618629_1090251843582050",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr8",
+      "company": "Binance",
+      "title": "Regional Branding Manager - GC",
+      "platform": "x",
+      "postedAt": "2026-09-17T00:39:26.987Z",
+      "postId": "2100384098954989726",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr8",
+      "company": "Binance",
+      "title": "Regional Branding Manager - GC",
+      "platform": "threads",
+      "postedAt": "2026-09-17T00:39:26.987Z",
+      "postId": "18091547414447591",
+      "verification": "verified",
+      "expectedText": "Binance is hiring Regional Branding Manager - GC: https://hashtagweb3.com/mgr8/th?og=2",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DdXl-OFkWx8",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "mgr8",
+      "company": "Binance",
+      "title": "Regional Branding Manager - GC",
+      "platform": "bluesky",
+      "postedAt": "2026-09-17T00:39:26.987Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mvog4pix742i",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr8",
+      "company": "Binance",
+      "title": "Regional Branding Manager - GC",
+      "platform": "farcaster",
+      "postedAt": "2026-09-17T00:39:26.987Z",
+      "postId": "0x520c836430e5c34cbbeb8ebcf6f7a87b7b0b29a6",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr8",
+      "company": "Binance",
+      "title": "Regional Branding Manager - GC",
+      "platform": "linkedin",
+      "postedAt": "2026-09-17T00:39:26.987Z",
+      "postId": "6aab36d409abc694db770c69",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr8",
+      "company": "Binance",
+      "title": "Regional Branding Manager - GC",
+      "platform": "facebook",
+      "postedAt": "2026-09-17T00:39:26.987Z",
+      "postId": "691827047618629_1090323420241559",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr8",
+      "company": "Binance",
+      "title": "Regional Branding Manager - GC",
+      "platform": "instagram",
+      "postedAt": "2026-09-17T00:39:26.987Z",
+      "postId": "18444114721124840",
       "verification": "verified"
     }
   ]
