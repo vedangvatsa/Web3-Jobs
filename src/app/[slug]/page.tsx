@@ -220,8 +220,8 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
     const eventSlug = getEventSlug(event);
     const canonicalUrl = `${siteUrl}/${eventSlug}`;
     const formattedDate = formatEventDate(event.startDate, event.endDate);
-    const title = `${event.name} - Dates, Venue & Registration`;
-    const ogTitle = title;
+    const title = event.name;
+    const ogTitle = `${event.name} | Hashtag Web3`;
     const description = buildEventMetaDescription(event, hasCuratedEventGuide(event));
 
     const ogImageUrl = resolveEventOgImageUrl(event, siteUrl);
