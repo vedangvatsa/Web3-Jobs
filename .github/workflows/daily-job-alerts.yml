@@ -5,6 +5,10 @@ on:
     # Run daily at 9:00 AM IST (03:30 UTC; GitHub cron is UTC-only)
     # Sends to the Resend audience segment as a broadcast (unlimited capacity)
     - cron: '30 3 * * *'
+    # Backup firing 90 min later: GitHub occasionally skips scheduled runs.
+    # The per-UTC-day send lock makes a second send impossible, so this only
+    # fires when the primary run was missed.
+    - cron: '00 5 * * *'
   workflow_dispatch:
     inputs:
       dry_run:
