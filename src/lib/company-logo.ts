@@ -195,6 +195,13 @@ const LOGO_PATHS = (slug: string): string[] => {
   });
 };
 
+/**
+ * Company slugs whose circle.com-style favicon is preferred over the file
+ * logo — on company pages AND job cards. (The homepage "companies like"
+ * strip keeps using explicit file paths and is unaffected.)
+ */
+export const FAVICON_FIRST_SLUGS: ReadonlySet<string> = new Set(['circle']);
+
 export function resolveCompanyLogo(companySlug: string): string | null {
   for (const relPath of LOGO_PATHS(companySlug)) {
     try {
