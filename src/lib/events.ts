@@ -699,8 +699,6 @@ export function getEventEditorialGuide(event: Web3Event): EventEditorialArticle 
         .filter((p) => p.length > 0)
     : [];
 
-  const overviewLead = rawParagraphs.length > 0 ? rawParagraphs[0] : baseOverview;
-
   const eventRoleContext = isHackathon
     ? `As a hackathon, the gathering is structured around active development, prototyping, and mentor-guided building sprints. Teams collaborate under time constraints to design, write smart contracts, and demonstrate functional decentralized applications or infrastructure components.`
     : isConference
@@ -709,9 +707,16 @@ export function getEventEditorialGuide(event: Web3Event): EventEditorialArticle 
         ? `Organized as a technical workshop and hands-on session, the focus is centered on applied development workflows, protocol tooling deep dives, and direct interaction between developers and framework architects.`
         : `Designed as a high-signal community meetup and networking session, the event facilitates informal technical exchanges, collaborative discussions, and peer networking among regional and visiting blockchain professionals.`;
 
-  const aboutContent = rawParagraphs.length > 1
-    ? [...rawParagraphs.slice(0, 4), eventRoleContext]
-    : [overviewLead, eventRoleContext];
+  // Build the About section content without duplicating the summary lead
+  let aboutContent: string[];
+  if (rawParagraphs.length > 1) {
+    // We have multiple paragraphs: the lead highlights paragraph 0, so the About section presents the remaining detail
+    aboutContent = [...rawParagraphs.slice(1, 5), eventRoleContext];
+  } else if (rawParagraphs.length === 1) {
+    aboutContent = [rawParagraphs[0], eventRoleContext];
+  } else {
+    aboutContent = [baseOverview, eventRoleContext];
+  }
 
   // 2. Ecosystem & Technical Focus Section
   const ecosystemDescriptions: Record<string, string> = {
