@@ -563,6 +563,9 @@
   "https://hashtagweb3.com/circle-arc?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/euro-pilot?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/fca-gateway?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/iran-forfeiture?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/kamino-ceo?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/kelp-intercept?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -1597,6 +1600,12 @@
   "ECB Asks Online Merchants to Join Digital Euro Pilot Starting 2027",
   "UK FCA to Accept Crypto Applications Starting September 2026",
   "FCA Crypto Authorisation Window Opens Sept 30",
+  "US Seeks $61 Million Crypto Tied to Iranian Oil",
+  "US Seeks Forfeiture of $61 Million in Crypto Tied to Iranian Oil Sales",
+  "Kamino Appoints Michael Weisz as Chief Executive",
+  "Kamino Names Yieldstreet Co-Founder Michael Weisz as CEO",
+  "MEV Bot Intercepts $7.7 Million From Ethereum Wallet Exploit",
+  "MEV Bot Yoink Seized $7.7M in rsETH After Ethereum Wallet Exploit",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -1710,5 +1719,8 @@
   "fp:adds11|availabl|binanc|bond|broker|custody|earn|etf|execution|handl",
   "fp:arc|blackrock|blockchain|circl|dtcc|fee|includ|liv|mainnet|network",
   "fp:ask|beta|currency|digital|ecb|euro|for2027|in2029|join|long",
-  "fp:accept|application|apply|authorisation|between|effect|fca|february2027|full|must"
+  "fp:accept|application|apply|authorisation|between|effect|fca|february2027|full|must",
+  "fp:61m|binanc|claim|crud|fil|forfeitur|illicit|iranian|launder|manhattan",
+  "fp:appoint|asset|ceo|chief|establish|executiv|expand|founder|headquarter|kamino",
+  "fp:77m|900|address|bot|exploit|for24|front|hour|intercept|kelp"
 ]
