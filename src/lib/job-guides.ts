@@ -20,6 +20,7 @@ import {
 
 export { getJobSlug, getOneWordRole } from './job-slugs';
 import { getJobContentKey, getJobSlug, getCompanySlug, getOneWordRole, normalizeJobLink } from './job-slugs';
+import { cleanJobLocation } from './job-location';
 
 const DESCRIPTIONS_SHARDS_PATH = path.join(process.cwd(), 'content', JOB_DESCRIPTION_SHARDS_DIRECTORY);
 const LEGACY_ARCHIVE_PATH = path.join(process.cwd(), 'content/legacy-slugs-archive.json');
@@ -265,7 +266,7 @@ export function buildSynthesizedJobContent(job: Job, rawContentOverride?: string
   const blocks = cleanAndExtractBlocks(raw, job);
   if (blocks.length === 0) return buildUniqueJobPageContent(job);
 
-  const location = job.location?.trim() || 'the employer-specified location';
+  const location = cleanJobLocation(job.location) || 'the employer-specified location';
   const department = getDepartmentLabel(job);
   const isDeptSameAsCompany = department && department.toLowerCase().trim() === job.company.toLowerCase().trim();
   const teamLine = department && !isDeptSameAsCompany ? ` in ${escapeHtml(department)}` : '';
@@ -422,7 +423,7 @@ export function buildUniqueJobPageContent(job: Job, employerHtml = ''): string {
   const sourceText = plainTextFromHtml(employerHtml || getCachedRawContent(job));
   const family = inferRoleFamily(job);
   const signals = extractRoleSignals(job, sourceText);
-  const location = job.location?.trim() || 'Remote';
+  const location = cleanJobLocation(job.location) || 'Remote';
   const department = getDepartmentLabel(job);
 
   const focus = signals.length > 1

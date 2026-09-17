@@ -1,3 +1,5 @@
+import { cleanJobLocation } from './job-location';
+
 /**
  * Authoritative guard rules for identifying general applications, talent pools,
  * ATS placeholder / test job postings, and non-Web3/unrelated domain roles
@@ -136,7 +138,7 @@ export function validateJobPosting(job: {
  */
 export function normalizeSingleLocation(rawLocation?: string | null): string {
   if (!rawLocation || !rawLocation.trim()) return 'Remote';
-  let loc = rawLocation.trim();
+  let loc = cleanJobLocation(rawLocation);
 
   // If semicolon-separated, take the first location segment
   if (loc.includes(';')) {
