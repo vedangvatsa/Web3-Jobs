@@ -6,29 +6,83 @@
  * - Redundant broad regional tags: "Brazil; LATAM; Remote Roles - LATAM; São Paulo, Brazil"
  * - Duplicate city/country names: "Singapore, Singapore", "Budapest, Budapest, Hungary", "Hong Kong, Hong Kong SAR"
  * - Multi-office semicolon-delimited lists: "Menlo Park, CA; New York, NY"
+ * - ATS codes and internal placeholders: "US-NYC", "Office - Chicago", "Remote Roles - EMEA"
+ * - Double commas/punctuation artifacts: "Belgrade, , Serbia"
  */
 
 const REGION_ONLY_RE = /^(?:LATAM|APAC|EMEA|AMER|Remote Roles\s*-\s*(?:LATAM|APAC|EMEA|AMER)|United States\s*\(US\)|US|USA)$/i;
+
+const ATS_CODE_MAP: Record<string, string> = {
+  'US-NYC': 'New York, NY',
+  'US-NY': 'New York, NY',
+  'US-New York City': 'New York, NY',
+  'US-New York': 'New York, NY',
+  'US-SF-HQ': 'San Francisco, CA',
+  'US-SF': 'San Francisco, CA',
+  'US-San Francisco': 'San Francisco, CA',
+  'US-SEA': 'Seattle, WA',
+  'US-Seattle': 'Seattle, WA',
+  'US-CHI': 'Chicago, IL',
+  'US-Chicago': 'Chicago, IL',
+  'US-Atlanta': 'Atlanta, GA',
+  'US-Georgia': 'Georgia',
+  'US-Remote-CA': 'Remote (California)',
+  'US-West Coast (Remote)': 'Remote (US West Coast)',
+  'US-Remote': 'Remote (US)',
+  'US-REM': 'Remote (US)',
+  'CA-Toronto': 'Toronto, Canada',
+  'CA-Remote': 'Remote (Canada)',
+  'AMER-US-Remote': 'Remote (US)',
+};
+
+const SORTED_ATS_CODES = Object.keys(ATS_CODE_MAP).sort((a, b) => b.length - a.length);
 
 /**
  * Cleans a single location part (e.g. "Sydney, New South Wales, Australia" or "Singapore, Singapore").
  */
 export function cleanSingleLocationPart(part: string): string {
   let s = part.trim();
-  s = s.replace(/^[,\s;]+|[,\s;]+$/g, '');
+
+  // Whitespace & punctuation artifacts
+  s = s.replace(/\s*,\s*,\s*/g, ', ');
+  s = s.replace(/\s+,\s*/g, ', ');
+  s = s.replace(/\s+;\s*/g, '; ');
+  s = s.replace(/^[,\s;/]+|[,\s;/]+$/g, '');
+
+  // Strip ATS internal office prefixes
+  s = s.replace(/\bOffice\s*-\s*NYC\b/g, 'New York, NY');
+  s = s.replace(/\bOffice\s*-\s*Chicago\b/g, 'Chicago, IL');
+
+  // Replace ATS shorthand codes (US-NYC, US-Remote, etc.)
+  for (const code of SORTED_ATS_CODES) {
+    s = s.split(code).join(ATS_CODE_MAP[code]);
+  }
+
+  // Common country/city redundancies & specific typos
+  s = s.replace(/\bCananda\b/g, 'Canada');
+  s = s.replace(/\bMexico,\s*Mexico City\b/gi, 'Mexico City, Mexico');
+  s = s.replace(/\bSingapore,\s*Central Singapore,\s*Singapore\b/gi, 'Singapore');
+  s = s.replace(/\bSingapore,\s*Singapore\b/gi, 'Singapore');
+  s = s.replace(/\bHong Kong,\s*Hong Kong(?:\s*SAR)?\b/gi, 'Hong Kong');
+  s = s.replace(/\bNetherlands,\s*Netherlands\b/gi, 'Netherlands');
+
+  // Exact duplicate single country/city: 'Luxembourg, Luxembourg', 'Poland, Poland', 'Malta, Malta'
+  s = s.replace(/^([A-Za-z\u00C0-\u024F]+),\s*\1$/iu, '$1');
+
+  // ATS pattern 'Remote Roles - EMEA' -> 'EMEA (Remote)'
+  s = s.replace(/^Remote Roles\s*-\s*([A-Za-z]+)$/i, '$1 (Remote)');
 
   // Budapest, Budapest, Hungary -> Budapest, Hungary
   // Vienna, Vienna, Austria -> Vienna, Austria
   // Bogotá, Bogotá, Colombia -> Bogotá, Colombia
   s = s.replace(/^([^\s,]+(?:\s+[^\s,]+)*),\s*\1,\s*(.+)$/iu, '$1, $2');
 
-  // Singapore, Singapore -> Singapore
-  if (/^singapore,\s*singapore$/i.test(s)) {
-    s = 'Singapore';
+  // Slashes deduplication: 'Taiwan / Taiwan / South Korea / Japan'
+  if (s.includes(' / ')) {
+    const parts = s.split(' / ').map((p) => p.trim()).filter(Boolean);
+    const unique = [...new Set(parts)];
+    s = unique.join(' / ');
   }
-
-  // Hong Kong, Hong Kong SAR -> Hong Kong
-  s = s.replace(/^Hong Kong,\s*Hong Kong(?:\s*SAR)?$/i, 'Hong Kong');
 
   return s;
 }
