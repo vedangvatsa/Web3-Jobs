@@ -3822,20 +3822,5 @@
     "url": "https://thebitmela.com/",
     "website": "https://thebitmela.com/",
     "registrationUrl": "https://thebitmela.com/"
-  },
-  {
-    "id": "curated-waset-icbt-series",
-    "slug": "waset-icbt",
-    "name": "International Conference on Blockchain Technology (ICBT)",
-    "description": "WASET (World Academy of Science, Engineering and Technology) lists the International Conference on Blockchain Technology (ICBT) as a recurring two-day academic meeting. The program template is the same across cities; only the venue and dates change. Check WASET for the edition you want before you book travel.\n\nUpcoming editions:\n\n• Sep 14, 2026 — Santiago, Chile\n• Oct 1, 2026 — Madagascar, Madagascar\n• Nov 2, 2026 — Nicosia, Cyprus\n• Dec 3, 2026 — Sydney, Australia\n• Jan 7, 2027 — Singapore, Singapore\n• Feb 4, 2027 — Guangzhou, China\n• Mar 4, 2027 — Taipei, Taiwan\n• Apr 1, 2027 — Rome, Italy\n• May 13, 2027 — Paris, France\n• May 20, 2027 — Berlin, Germany\n• May 20, 2027 — Sydney, Australia\n• May 27, 2027 — Barcelona, Spain\n• May 27, 2027 — New York, United States\n• Jun 3, 2027 — Tokyo, Japan\n• Jun 10, 2027 — Ljubljana, Slovenia\n• Jun 17, 2027 — Venice, Italy\n• Jun 24, 2027 — Oslo, Norway\n• Jul 1, 2027 — Singapore, Singapore\n• Jul 1, 2027 — Prague, Czech Republic\n• Jul 1, 2027 — Corfu, Greece\n• Jul 22, 2027 — Tokyo, Japan\n• Jul 22, 2027 — Berlin, Germany\n• Aug 5, 2027 — Baku, Azerbaijan\n• Sep 6, 2027 — Rome, Italy",
-    "startDate": "2026-09-14T00:00:00.000Z",
-    "endDate": "2027-09-06T00:00:00.000Z",
-    "city": "",
-    "country": "",
-    "location": "Multiple cities worldwide",
-    "url": "https://waset.org/blockchain-technology-conference",
-    "website": "https://waset.org/blockchain-technology-conference",
-    "coverImage": null,
-    "source": "curated-series"
   }
 ]
