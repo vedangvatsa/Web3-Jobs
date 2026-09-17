@@ -276,36 +276,6 @@ export const EVENT_GUIDES: Record<string, EventEditorialArticle> = {
     ],
   },
 
-  ethrome: {
-    summaryLead:
-      "ETHRome lands September 11 to 13, organized by urbe.eth, the Italian builder collective behind one of Europe's most respected community education programs. It is a conference and hackathon that treats Rome as a backdrop, not a theme: the program is about shipping audited code, funding public goods, and widening who gets to build on Ethereum, all executed with a community warmth that bigger events struggle to manufacture.",
-    sections: [
-      {
-        heading: "Builder-first by design",
-        content: [
-          "urbe.eth runs year-round cohorts teaching Solidity, security, and protocol engineering to new developers, and ETHRome functions as their annual gathering point. The hackathon draws teams from across Southern Europe with mentor coverage that is generous relative to event size, and past editions have fed graduates directly into grants programs, audit firms, and protocol security roles.",
-          "Talks favor practitioners over promoters: auditors walking through real exploit post-mortems, client maintainers explaining recent hard forks, and public-goods funders explaining what actually got funded and why. If you want to understand Ethereum's Italian and Southern European community specifically, this is its center of gravity once a year.",
-        ],
-      },
-      {
-        heading: "Venue and city notes",
-        content: [
-          "Rome in mid-September delivers warm evenings without peak-season crowds, and the city's transit and accommodation costs run below northern European capitals. Venues sit reachable from Termini station; budget extra time for the city's famously chaotic traffic around event hours.",
-          "Evening programming leans communal, long dinners rather than sponsored open bars, and that pace is intentional. Arrive ready to talk code and stay for the parts of the week that do not appear on the agenda.",
-        ],
-      },
-      {
-        heading: "Community beyond the event",
-        content: [
-          "urbe.eth's year-round presence means ETHRome connects into something permanent: Italian-language learning cohorts, regular audit challenges, and a hiring network spanning Southern European protocols. Attendees who plug into those channels before arriving extract far more from the event than drop-in visitors.",
-          "Rome's accommodation spreads across charming neighborhoods with Trastevere and Monti offering the best evening atmosphere near transit. Conference-ticket proceeds historically support public-goods funding, aligning attendee spend with Ethereum values, and vegetarian-friendly Roman food keeps hackathon weeks sustainable. Flights through Fiumicino connect globally; the Leonardo Express train reaches Termini in thirty-two minutes flat.",
-                  "Italy's broader Web3 trajectory frames ETHRome's significance. The country implemented MiCA transposition early among major EU economies, Milan competes as a post-Brexit financial destination, and Italian universities increasingly offer blockchain engineering curricula feeding urbe.eth's pipeline. Conference sessions address this ecosystem maturation directly: Italian bank pilots, art-world NFT initiatives leveraging national cultural heritage, and the practical mechanics of operating compliant exchanges under Italian oversight. For founders considering Southern European bases, Rome presents cost advantages over Milan alongside improving flight connectivity, and ETHRome functions as the annual due-diligence visit where those considerations get tested against lived reality rather than brochure claims.",
-                  "The hackathon's judging emphasizes security awareness and code quality alongside ambition, reflecting urbe.eth's audit-industry roots. Vegetarian-friendly Roman cuisine keeps long building days sustainable, and the venue's central location means accommodation within walking distance remains affordable by European capital standards.",
-                  "September evenings in Rome reward the unhurried, and ETHRome's organizers design the schedule accordingly, trusting builders to choose substance over spectacle week after week.",
-        ],
-      },
-    ],
-  },
 
   conf3rence: {
     summaryLead:
@@ -467,37 +437,6 @@ export const EVENT_GUIDES: Record<string, EventEditorialArticle> = {
     ],
   },
 
-  kbw: {
-    summaryLead:
-      "Korea Blockchain Week, organized by FACTBLOCK since 2018, fills Seoul from September 29 to October 1, anchored by the IMPACT mainstage conference at Walkerhill Hotels & Resorts. The official speaker page lists Balaji Srinivasan, Arthur Hayes, Tom Lee, Joseph Lubin, Kyoungsuk Oh, Jeff Yan, Bo Hines, Monica Long, Mike Belshe, Arjun Sethi, Guy Young, Michael Heinrich, Austin Federa, and Miles Jennings among the announced guests. The week surrounding it has become the densest exchange-and-fund business calendar in Asia, drawing tens of thousands of participants across the official program and a sprawling side-event circuit through Gangnam.",
-    expectedAttendance: "Tens of thousands across the full week",
-    sections: [
-      {
-        heading: "IMPACT and everything around it",
-        content: [
-          "The IMPACT conference brings global protocol founders, investors, policymakers, and Korean institutional players onto one stage, with programming that treats Korea's specific market structure as a feature: won-denominated liquidity, retail participation levels unmatched in the West, and exchanges whose listing decisions move global prices.",
-          "Around IMPACT, the week runs BUIDL Asia for developers, the invite-only Upbit Institutional Summit for traditional finance, and dozens of ecosystem houses, dinners, and demo days across Seoul. Korean exchanges respond best to warm introductions from already-listed projects, so teams pursuing Korean distribution should spend weeks before flying arranging those meetings rather than improvising on site.",
-        ],
-      },
-      {
-        heading: "Practical notes",
-        content: [
-          "Walkerhill sits on a mountainside above the Han River in Gwangjin-gu, away from central Gangnam; shuttles and rideshares cover the gap, but plan transport between the mainstage and side events rather than assuming walkability. T-money cards handle metro and buses everywhere, English navigation works well, and September weather is Seoul at its best.",
-          "Accommodation near Gangnam station books out weeks in advance for KBW dates; consider Seongsu or Konkuk University areas as alternatives with good nightlife proximity and cheaper rates.",
-        ],
-      },
-      {
-        heading: "Korean market specifics",
-        content: [
-          "Upbit, Bithumb, and Coinone command a retail trading culture whose intensity surprises Western visitors; won-denominated volumes regularly rival USD pairs globally. Korean exchanges evaluate listings with institutional rigor, requiring documented liquidity commitments and compliance packages, so preparation separates productive KBW trips from expensive sightseeing.",
-          "Seoul's Gangnam district hosts most side events, from Hashed-adjacent dinners to protocol houses running all week. Korean BBQ dinners lubricate negotiations traditionally, business cards exchanged formally, and KakaoTalk replaces WhatsApp locally. T-money cards handle transit universally, airport express trains reach downtown in under an hour, and October-opening weather delivers Seoul at its clearest.",
-                  "KBW's structure rewards preparation over improvisation. IMPACT conference passes tier from standard through VIP, but experienced attendees emphasize the surrounding unofficial calendar: protocol houses operating all week in Gangnam venues, fund-hosted dinners requiring weeks-ahead RSVPs, and demo-day showcases where accelerator cohorts pitch. FACTBLOCK curates official side events through the KBW platform, while much of the week's real business happens through relationships maintained since previous editions. Korean hospitality customs influence proceedings: introductions through mutual contacts carry weight cold outreach cannot match, seniority matters in meeting protocols, and prompt follow-up distinguishes serious partners from conference tourists in follow-up rounds.",
-                  "IMPACT passes sell through tiered waves that escalate predictably, and the Walkerhill setting means booking the resort's own rooms eliminates daily mountain commutes entirely. Korean business culture rewards advance scheduling; exchange meetings arranged during KBW week itself rarely materialize before Q4.",
-                  "Seoul's metro signage includes English universally, T-money cards work everywhere from buses to convenience stores, and October-opening weather delivers the city at its clearest, coolest best.",
-        ],
-      },
-    ],
-  },
 
   cardanosummit: {
     summaryLead:
@@ -629,68 +568,7 @@ export const EVENT_GUIDES: Record<string, EventEditorialArticle> = {
     ],
   },
 
-  ibw: {
-    summaryLead:
-      "India Blockchain Week anchors in Mumbai on November 1 and 2, convening the country's policy makers, exchanges, investors, and its enormous developer base for the flagship edition of a week-long city-wide program. India combines world-leading grassroots crypto adoption with a regulatory framework still being written, and the conference sits precisely at that intersection.",
-    sections: [
-      {
-        heading: "Adoption at population scale",
-        content: [
-          "India consistently tops global grassroots adoption indices, powered by UPI-era payment expectations, a young mobile-first population, and offshore earning patterns that made stablecoins practically useful years before institutions noticed. Sessions examine what compliant retail products look like under Indian tax and reporting rules, how homegrown exchanges position domestically while serving global books, and where the RBI's digital rupee pilot intersects, or competes, with public chains.",
-          "Policy presence distinguishes IBW from imported conference brands: government think-tank figures, state-level officials, and regulators participate in formats that allow actual dialogue, which matters in a market where regulatory clarity is the primary catalyst.",
-        ],
-      },
-      {
-        heading: "The wider week",
-        content: [
-          "IBW anchors a broader Mumbai program including ETHGlobal Mumbai and Pragma immediately after, keeping international visitors in-country for a continuous build-and-network stretch. Delhi and Bengaluru communities run satellite events, reflecting India's multi-city ecosystem rather than a single-hub reality.",
-          "Mumbai logistics reward planning: domestic flight connections are frequent but festive-season pricing bites, the Metro and local trains beat taxis at rush hour, and November delivers the city's most pleasant weather window. Visa processing for Indian entry can take longer than expected, so initiate paperwork early.",
-        ],
-      },
-      {
-        heading: "Mumbai as India's financial capital",
-        content: [
-          "Hosting in Mumbai places IBW beside India's banking headquarters, stock exchanges, and growing fund-management industry, giving policy discussions immediate commercial context. Sessions frequently feature former regulators now advising exchanges, think-tank economists drafting framework recommendations, and bankers describing pilot programs candidly.",
-          "November delivers Mumbai's best weather, dry and temperate compared with monsoon months. The Bandra-Kurla Complex financial district anchors much of the week's formal programming, Colaba and Lower Parel host evening events, and domestic flight connections make Delhi and Bengaluru satellite attendance feasible. Indian visa processing varies widely by nationality, so initiate applications well ahead.",
-                  "India Blockchain Week emerged from Hashed Emergent's initiative to consolidate India's fragmented Web3 calendar into a flagship week, and its Mumbai anchoring reflects deliberate positioning beside the country's financial establishment. The event attracts Indian policymakers engaging publicly with industry questions, venture funds maintaining India theses, and global foundations viewing India as strategic developer pipeline territory. Previous editions featured industry association participation representing self-regulatory approaches amid evolving central government positions. International attendees consistently report surprise at the sophistication of Indian consumer Web3 products, many designed domestically yet achieving global traction, validating India-first design as viable strategy rather than compromise.",
-                  "IBW passes span student through VIP tiers with meaningful early-bird spreads, and the surrounding city-wide calendar publishes through official channels progressively. Mumbai accommodation near BKC books earliest; Andheri alternatives trade commute time for availability during the November cluster.",
-                  "Mumbai's Bandra-Kurla Complex hosts much of the formal programming near India's financial institutions, and November's post-monsoon clarity delivers the city at its most navigable for international visitors.",
-        ],
-      },
-    ],
-  },
 
-  devcon: {
-    summaryLead:
-      "Devcon, the Ethereum Foundation's flagship gathering, reaches Mumbai on November 3 to 6. It is where core protocol researchers, client maintainers, EIP authors, L2 teams, and the widest slice of the Ethereum application ecosystem meet in person, and where the protocol's multi-year direction gets argued and socialized before it ships.",
-    expectedAttendance: "Thousands of Ethereum developers and researchers",
-    sections: [
-      {
-        heading: "Not a business conference",
-        content: [
-          "Devcon deliberately avoids sponsor-booth culture and paid speaking slots. Talks are recorded and published free afterward, which regulars interpret as permission to spend entire days in hallways: the unscheduled conversations between sessions carry at least as much weight as the program. Content depth runs from zero-knowledge proof systems and statelessness research to account abstraction adoption data and L2 interop standards, pitched at people who work on Ethereum professionally.",
-          "Announcements matter here because the room contains the people who will implement them. Major EIP milestones, client releases, and ecosystem funding commitments have historically debuted on Devcon stages precisely because the audience could pressure-test them in real time.",
-        ],
-      },
-      {
-        heading: "Mumbai and the Indian ecosystem",
-        content: [
-          "Choosing Mumbai signals continued commitment to India, home to one of Ethereum's largest developer populations and its fastest-growing user bases. Expect substantial Indian student and builder attendance supported by foundation programs, and content tracks addressing emerging-market use cases without condescension.",
-          "Tickets tier by purchase time through devcon.org and sell predictably; there is no VIP tier by design. Book Mumbai accommodation near the venue early, sort visas well ahead, and leave buffer days around the event: Devcon weeks generate their own gravitational pull of hackathons, residencies, and side gatherings before and after.",
-        ],
-      },
-      {
-        heading: "Devcon culture essentials",
-        content: [
-          "Lightning talks, afternoon unconference slots, and the legendary hallway track reward spontaneity; the most valuable conversations happen between scheduled items, so resist over-planning. Recording releases come later and free, meaning live attendance buys presence, not content access, and regulars optimize accordingly.",
-          "Mumbai venues handle thousands with Indian logistical flair, and the Foundation typically publishes detailed neighborhood guides for accommodation. Indian visa processing requires lead time measured in weeks for many nationalities, so begin immediately upon ticket purchase. The surrounding week accumulates community-organized hackathons and retreats across Goa and Bengaluru for those extending their stay.",
-                  "Devcon's Mumbai edition carries symbolic weight beyond logistics. Ethereum's Indian community has grown into one of its largest, spanning student-led campus clubs, professional contribution teams employed by global client developers, and consumer applications built for Indian markets. Foundation representatives have emphasized India commitments through grants programs and Devcon itself. Expect programming acknowledging this context: emerging-market application tracks, community meetups in local languages surrounding the main event, and infrastructure sessions addressing the specific constraints, intermittent connectivity, low-end devices, UPI-competing payment expectations, that Indian builders engineer around brilliantly. First-time attendees should consult the survival guides returning veterans publish annually.",
-                  "Devcon tickets release in wave pricing that rewards fast action, wave one historically selling within hours. The Foundation publishes accessibility guides, childcare options, and community support programs reflecting the event's public-goods ethos, all documented thoroughly on devcon.org well ahead.",
-                  "Devcon's wave-based ticket pricing sells out predictably, community translation services cover major languages including several Indian ones, and the Foundation's published city guides have become beloved artifacts of each edition.",
-        ],
-      },
-    ],
-  },
 
   cosmoverse: {
     summaryLead:
@@ -715,7 +593,7 @@ export const EVENT_GUIDES: Record<string, EventEditorialArticle> = {
         content: [
           "Cosmos governance debates carry real consequences: shared-security parameter changes, hub spending decisions, and IBC upgrades all pass through community processes that Cosmoverse convenes physically. Validator operators and large delegators hold side caucuses whose outcomes shape on-chain votes in subsequent weeks, making attendance strategically relevant beyond content consumption.",
           "Grand Hyatt Hong Kong places attendees above the Wan Chai harbourfront with MRT access beneath the building. Hong Kong's November climate is the year's finest, dry days in the mid-twenties Celsius, and Victoria Peak hikes before morning sessions become a tradition among regulars. Regional flights converge efficiently on HKG from every Asian hub.",
-                  "Cosmos's technological contributions understate its market visibility, and Cosmoverse serves as corrective education. IBC facilitates billions in monthly cross-chain transfers across dozens of connected zones, CometBFT consensus powers chains far beyond Cosmos branding, and interchain security lets consumer chains rent validator security from the ATOM-staked set. Sessions quantify these contributions with usage data rarely surfaced elsewhere. Hong Kong hosting adds regulatory relevance: the city's licensed exchanges evaluate Cosmos-based infrastructure for custody and settlement products, and previous Cosmoverse editions attracted fund managers seeking appchain-thesis exposure through liquid staking derivatives and MEV infrastructure plays rather than direct token accumulation alone.",
+                  "Cosmos's technological contributions understate its market visibility, and Cosmoverse serves as corrective education. IBC carries billions in monthly cross-chain transfers across dozens of connected zones, CometBFT consensus powers chains far beyond Cosmos branding, and interchain security lets consumer chains rent validator security from the ATOM-staked set. Sessions quantify these contributions with usage data rarely surfaced elsewhere. Hong Kong hosting adds regulatory relevance: the city's licensed exchanges evaluate Cosmos-based infrastructure for custody and settlement products, and previous Cosmoverse editions attracted fund managers seeking appchain-thesis exposure through liquid staking derivatives and MEV infrastructure plays rather than direct token accumulation alone.",
                   "Cosmoverse tickets historically include workshop access tiers, and hands-on sessions require separate capacity reservations once the schedule publishes. Hong Kong's Grand Hyatt books out for conference dates quickly, though Wan Chai and Causeway Bay alternatives keep commutes under fifteen minutes.",
                   "Cosmoverse recordings publish free afterward like Devcon content, reinforcing attendance-as-access philosophy, and Hong Kong's harbourfront setting gives interchain discussions a fittingly global backdrop each morning and evening.",
                   "Interchain Foundation staff distribute governance participation guides at registration, and first-time attendees benefit from the validator-hosted orientation sessions scheduled before main programming begins each morning.",
@@ -787,36 +665,6 @@ export const EVENT_GUIDES: Record<string, EventEditorialArticle> = {
     ],
   },
 
-  devconnect: {
-    summaryLead:
-      "Devconnect, the Ethereum Foundation's city-wide gathering of independent Ethereum events, occupies Bangkok from November 9 to 12. There is no single mainstage: dozens of self-organized events, co-working hubs, workshops, and hackathons run in parallel across the city, unified by a shared calendar rather than a shared gate.",
-    sections: [
-      {
-        heading: "A week, not a conference",
-        content: [
-          "Devconnect inverts the standard format. The Foundation curates venues, provides infrastructure, and publishes the schedule; communities run everything else. L2-specific dev days, ZK research salons, account abstraction workshops, local DAO gatherings, and regional community summits each set their own agendas and admission. Attendees pick two or three threads and go deep; attempting everything produces nothing.",
-          "The format rewards residents and return visitors: knowing which rooms host the people you need precedes the week itself. Co-working hubs function as the event's true center of mass, where serendipity compounds across days rather than concentrating in coffee-break intervals.",
-        ],
-      },
-      {
-        heading: "Bangkok advantages",
-        content: [
-          "Bangkok combines low costs, deep hospitality infrastructure, superb food, and an existing builder community seasoned by previous Thai conference seasons. Accommodation spans every budget, transit via BTS/MRT covers the main districts, and evening networking spills into some of the world's best street dining, which keeps side-event costs trivially low compared with Western capitals.",
-          "It follows Devcon Mumbai by days, letting international visitors chain both, and precedes Binance Blockchain Week in the same city later in November, making Bangkok the logical base for a full Southeast Asian November circuit. Visa-on-arrival and exemption policies cover many nationalities; confirm current terms before flying.",
-        ],
-      },
-      {
-        heading: "Navigating a distributed week",
-        content: [
-          "Success at Devconnect requires choosing lanes early. L2-focused developers gravitate toward rollup dev days, cryptography researchers follow the ZK salon circuit, and public-goods contributors orbit Gitcoin-adjacent gatherings. The Foundation publishes the full calendar weeks ahead, and popular individual events implement their own registrations with capacity limits independent of general attendance.",
-          "Bangkok's Sukhumvit and Sathorn corridors host most venues, BTS Skytrain connections keep movement sane despite traffic, and co-working hubs operate extended hours for teams treating the week as a working residency. Costs run low enough that solo founders and students attend comfortably, preserving the format's accessibility mission.",
-                  "Devconnect Bangkok follows format refinements from earlier editions in Istanbul and elsewhere. The Foundation designates official venues hosting concurrent programming, publishes comprehensive schedules coordinating independently organized events, and provides wayfinding infrastructure making a distributed format navigable. Bangkok's selection acknowledges Thai community strength: local universities contribute blockchain engineering graduates, Thai exchanges operate under licensed regimes, and the city previously hosted major crypto conferences demonstrating venue capability. Attendees extending stays find Thailand's remote-work infrastructure, coworking memberships, visa options, reliable connectivity, supports productive decompression, and November's shoulder season prices accommodation favorably before December high-season rates arrive.",
-                  "Individual Devconnect events manage their own admissions, many free with capacity limits, so registering for specific sessions matters more than a general pass. Bangkok BTS Skytrain Rabbit cards simplify venue-hopping, and riverside piers add scenic commuting between far-flung community spaces.",
-                  "Bangkok's co-working spaces offer Devconnect attendee discounts throughout the week, and the Foundation's published neighborhood guide maps venues against accommodation zones with typical Ethereum-community thoroughness.",
-        ],
-      },
-    ],
-  },
 
   binancebw: {
     summaryLead:
@@ -982,7 +830,7 @@ export const EVENT_GUIDES: Record<string, EventEditorialArticle> = {
 
   'signal-week': {
     summaryLead:
-      "Signal Week succeeds Paris Blockchain Week as Europe's institutional digital-assets forum, convening July 6–7, 2027 at the Palais des Congrès in Paris. Expect regulators, banks, funds, and builders focused on MiCA-era markets, custody, and tokenization.",
+      "Signal Week succeeds Paris Blockchain Week as Europe's institutional digital-assets forum, convening July 6-7, 2027 at the Palais des Congrès in Paris. Expect regulators, banks, funds, and builders focused on MiCA-era markets, custody, and tokenization.",
     expectedAttendance: "Institutional and industry attendees across Europe",
     sections: [
       {
@@ -995,7 +843,7 @@ export const EVENT_GUIDES: Record<string, EventEditorialArticle> = {
       {
         heading: "Venue and timing",
         content: [
-          "Palais des Congrès de Paris (Porte Maillot) hosts the two-day conference on July 6–7, 2027. Plan for metro Line 1 access and typical Paris July crowds around major congress weeks.",
+          "Palais des Congrès de Paris (Porte Maillot) hosts the two-day conference on July 6-7, 2027. Plan for metro Line 1 access and typical Paris July crowds around major congress weeks.",
           "Carry government photo ID matching your registration name; institutional accreditation lines can move slowly at opening.",
         ],
       },
@@ -1003,7 +851,7 @@ export const EVENT_GUIDES: Record<string, EventEditorialArticle> = {
         heading: "What the room optimizes for",
         content: [
           "Tracks lean institutional: MiCA compliance, custody, RWA tokenization, and enterprise blockchain deployment rather than pure hackathon building.",
-          "Side events and dinners still cluster across central Paris during the week—treat Signal Week as the anchor and verify each satellite listing independently.",
+          "Side events and dinners still cluster across central Paris during the week, so treat Signal Week as the anchor and verify each satellite listing independently.",
         ],
       },
     ],
@@ -1011,7 +859,7 @@ export const EVENT_GUIDES: Record<string, EventEditorialArticle> = {
   // Legacy slug alias for older /pbw links while the live page is signal-week.
   pbw: {
     summaryLead:
-      "Signal Week succeeds Paris Blockchain Week as Europe's institutional digital-assets forum, convening July 6–7, 2027 at the Palais des Congrès in Paris. Expect regulators, banks, funds, and builders focused on MiCA-era markets, custody, and tokenization.",
+      "Signal Week succeeds Paris Blockchain Week as Europe's institutional digital-assets forum, convening July 6-7, 2027 at the Palais des Congrès in Paris. Expect regulators, banks, funds, and builders focused on MiCA-era markets, custody, and tokenization.",
     expectedAttendance: "Institutional and industry attendees across Europe",
     sections: [
       {
@@ -1032,7 +880,7 @@ export const EVENT_GUIDES: Record<string, EventEditorialArticle> = {
       {
         heading: "Turkey's unique adoption profile",
         content: [
-          "Turkey consistently ranks in the top five globally for digital asset volume, where millions of citizens actively utilize stablecoins and decentralized protocols for economic resilience, remittances, and everyday commerce. This produces an exceptionally receptive, crypto-native audience that understands on-chain mechanics intuitively.",
+          "Turkey consistently ranks in the top five globally for digital asset volume, where millions of citizens actively use stablecoins and decentralized protocols for economic resilience, remittances, and everyday commerce. This produces an exceptionally receptive, crypto-native audience that understands on-chain mechanics intuitively.",
           "For international protocols and layer-1/layer-2 networks, Istanbul is one of the highest-ROI markets for community growth and ecosystem grants. Local university blockchain clubs, which number over 60 across Turkey, send hundreds of motivated student developers eager to build production applications.",
         ],
       },
@@ -1131,7 +979,7 @@ export const EVENT_GUIDES: Record<string, EventEditorialArticle> = {
       {
         heading: "The Municipal House setting & venue logistics",
         content: [
-          "Obecní dům is one of Prague's most celebrated Art Nouveau architectural treasures, located right in the center of the Old Town (Staré Město) next to the Powder Tower. Attendees hack and collaborate beneath ornate frescoed ceilings, stained glass, and marble colonnades, creating a surreal juxtaposition of cutting-edge cryptography within 20th-century architectural elegance.",
+          "Obecní dům is one of Prague's most celebrated Art Nouveau architectural treasures, located right in the center of the Old Town (Staré Město) next to the Powder Tower. Attendees hack and collaborate beneath ornate frescoed ceilings, stained glass, and marble colonnades, creating a surreal juxtaposition of new cryptography within 20th-century architectural elegance.",
           "The Náměstí Republiky metro station (Line B) is directly outside, connecting quickly to Prague's main train station (Hlavní nádraží) and Václav Havel Airport via transit.",
         ],
       },
@@ -1216,96 +1064,10 @@ export const EVENT_GUIDES: Record<string, EventEditorialArticle> = {
     ],
   },
 
-  ethbelgrade: {
-    summaryLead:
-      "ETHBelgrade serves as the flagship Ethereum gathering in the Balkan region, held annually at the iconic Sava Congress Center as the anchor of Belgrade Blockchain Week. Belgrade's burgeoning cryptographic developer scene and low living costs have turned the city into an emerging European Web3 powerhouse, with ETHBelgrade emphasizing technical depth, security audits, and decentralized governance.",
-    expectedAttendance: "1,200+ attendees and builders",
-    sections: [
-      {
-        heading: "The Sava Congress Center architecture and venue",
-        content: [
-          "The Sava Congress Center in New Belgrade is a brutalist architectural marvel recently modernized to state-of-the-art conference standards. With expansive auditorium halls and open networking atriums, it provides an ideal space for large technical gatherings.",
-          "Located just across the river from Belgrade's historic Stari Grad, attendees can commute in minutes by taxi or public transit.",
-        ],
-      },
-      {
-        heading: "Balkan engineering hub and developer density",
-        content: [
-          "Serbia has cultivated a prominent Web3 talent pool, with multiple unicorn engineering teams and security audit firms rooted in Belgrade. ETHBelgrade showcases local and regional innovations across DeFi primitives, zero-knowledge scaling, and Web3 security.",
-        ],
-      },
-    ],
-  },
 
-  ethlisbon: {
-    summaryLead:
-      "ETHLisbon is Europe's iconic builder-first hackathon and conference, hosted at AIhub by Unicorn Factory in Lisbon. Since 2021, Lisbon has transformed into one of the crypto capital hubs of Europe, and ETHLisbon channels that raw builder energy into intense 48-hour hacking sprints focused on smart contract design, EVM innovations, and user-centric dApps.",
-    expectedAttendance: "2,000+ builders, founders, and hackers",
-    sections: [
-      {
-        heading: "Lisbon's Web3 capital status",
-        content: [
-          "Lisbon has become a primary European home for nomadic crypto founders, DAO contributors, and protocol teams due to its favorable climate, vibrant expat builder community, and collaborative startup culture.",
-          "ETHLisbon is renowned for its unconference format and high density of technical builders working directly alongside leading protocol mentors.",
-        ],
-      },
-      {
-        heading: "The AIhub hackathon and mentorship",
-        content: [
-          "Held at AIhub by Unicorn Factory, the hackathon floor runs continuously over the weekend with round-the-clock mentorship, technical workshops, and direct protocol bounties rewarding novel on-chain solutions.",
-        ],
-      },
-    ],
-  },
 
-  ethseoul: {
-    summaryLead:
-      "ETHSeoul is South Korea's premier Ethereum developer hackathon and technical conference, bringing global protocol foundations directly into contact with the country's world-renowned developer community. With Korea boasting immense retail adoption and exceptional developer talent, ETHSeoul focuses on EVM scalability, consumer applications, and high-performance infrastructure.",
-    expectedAttendance: "2,500+ builders and developers",
-    sections: [
-      {
-        heading: "Bridging global protocols and Korean builders",
-        content: [
-          "Korean developers are widely recognized for pushing the limits of gaming, consumer UX, and mobile infrastructure. ETHSeoul offers international protocol teams an unparalleled channel to recruit top engineering talent and launch regional hackathon bounties.",
-          "Simultaneous translation and local Korean community liaisons ensure international and local teams collaborate smoothly during the 48-hour build cycle.",
-        ],
-      },
-    ],
-  },
 
-  ethmilan: {
-    summaryLead:
-      "ETHMilan is Italy's premier annual Ethereum and Web3 conference, blending high-level cryptographic research with Italy's world-class design, luxury, and fintech traditions. Held in the financial heart of Milan, the conference attracts European protocol designers, enterprise leaders, and indie developers exploring decentralized finance, luxury provenance, and digital identity.",
-    expectedAttendance: "1,500+ European builders, designers, and investors",
-    sections: [
-      {
-        heading: "Design meets decentralization in Milan",
-        content: [
-          "Milan provides a distinct cultural backdrop where user experience, industrial design, and cryptographic systems intersect. Sessions explore high-end consumer luxury provenance on Ethereum, digital fashion, and innovative UI/UX patterns.",
-        ],
-      },
-      {
-        heading: "Italian regulatory context and MiCA transition",
-        content: [
-          "With the rollout of MiCA across the European Union, ETHMilan gathers Italian financial institutions, compliance officers, and fintech startups adapting to unified European digital asset regulations.",
-        ],
-      },
-    ],
-  },
 
-  ethbucharest: {
-    summaryLead:
-      "ETHBucharest is Romania's annual Ethereum conference and hackathon, tapping into Romania's deep software development heritage and top-tier computer science academies. The event gathers developers, security researchers, and Web3 enthusiasts from across Central and Eastern Europe to collaborate on layer-2 scaling, open-source privacy tooling, and EVM contract security.",
-    expectedAttendance: "1,000+ Eastern European developers and researchers",
-    sections: [
-      {
-        heading: "Romania's dense developer pipeline",
-        content: [
-          "Romania produces exceptional mathematical and software engineering talent, with Bucharest serving as a regional tech capital. ETHBucharest focuses strictly on technical curriculum, open-source grants, and builder hackathons.",
-        ],
-      },
-    ],
-  },
 
   ethkl: {
     summaryLead:
@@ -1316,6 +1078,627 @@ export const EVENT_GUIDES: Record<string, EventEditorialArticle> = {
         heading: "Southeast Asia's emerging developer hub",
         content: [
           "Malaysia is rapidly emerging as a crypto-forward nation in Southeast Asia with active university blockchain chapters and progressive digital economy initiatives. ETHKL provides a welcoming entry point for regional talent into the global Ethereum ecosystem.",
+        ],
+      },
+    ],
+  },
+  un: {
+    summaryLead:
+      "UN Blockchain Week runs September 10 to 19 across New York City, timed to overlap with the UN General Assembly and New York Fashion Week. It is organized as a series rather than a single conference, with tracks covering Bitcoin and money, AI agents, the space economy, energy, identity, and a fashion-tech summit tied to NYFW. The site lists General Admission at $399 and a VIP pass at $1,499 that includes the Washington Elite Investment Summit and Gala on September 18 at Gallery MC. The organizers describe it as an independent initiative with no UN affiliation.",
+    ticketPricing: "General Admission $399 / VIP Pass $1,499 (includes Sept 18 gala)",
+    speakers: "Brock Pierce, Vit Jedlicka, Michael Terpin, Hugh Dugan, Lou Kerner, Karla Ballard, Alex Lightman, Jimmy Nguyen",
+    expectedAttendance: "1,000+ visionaries (per ticket page)",
+    sections: [
+      {
+        heading: "A series, not a single conference",
+        content: [
+          "The week bundles several distinct programs under one banner. The site lists a flagship two-day conference, an AI and blockchain summit, a fashion-tech summit timed to NYFW, space economy programming under the SpaceDAO name, and the Washington Elite Investment Summit and Gala. Focus areas named on the page are Bitcoin and money, autonomous AI agents, orbital assets, fashion and technology, energy markets, and decentralized identity.",
+          "General Admission covers public events, panels, and runways across the ten days, according to the ticket bullets. The gala and investment summit are reserved for VIP pass holders. Visitors with a narrow interest should pick the days matching their track rather than attending end to end.",
+        ],
+      },
+      {
+        heading: "Tickets and the gala",
+        content: [
+          "General Admission is listed at $399 and includes panels, runways, networking, the live calendar of side events, and a digital pass with recordings. The $1,499 VIP pass adds the September 18 summit and gala, a premium lounge, priority seating, a swag bag, photo opportunities, and private after-parties and investor dinners. Both tiers check out through Stripe.",
+          "The gala takes place September 18 at Gallery MC, 549 West 52nd Street, and the page describes it as a black-tie evening with investors, officials, and fashion figures. Since the gala is the priciest single component of the week, buyers who only want the conference days can stop at General Admission.",
+        ],
+      },
+      {
+        heading: "Getting around during UNGA week",
+        content: [
+          "The event calendar runs on Luma and is updated through the week, with side events, panels, runways, and networking nights across the city. The listed contact address is 26 Broadway in Manhattan, and the organizers note the program is an independent initiative with no UN affiliation. Booking lodging early is standard advice for this week, when delegations fill Midtown hotels.",
+          "Subway travel beats cars during General Assembly week, when motorcades slow Midtown traffic. Evening programming spreads beyond the main venues, so grouping meetings by neighborhood keeps days workable. Anyone needing a visa invitation should use the dedicated page on the official site.",
+        ],
+      },
+    ],
+  },
+  avalanche: {
+    summaryLead:
+      "Avalanche Summit takes place September 16 and 17 at Chelsea Industrial, 535 West 28th Street in New York. The program centers on two tracks, onchain finance and consumer applications, with keynotes, panels, and fireside chats aimed at companies and investors using the network. The site names Kevin O'Leary as headline speaker and lists Ava Labs CEO Emin Gun Sirer as a keynote speaker. General Admission is listed at $150 with a Student Pass at $50, and tickets cover both days including sessions, builder activations, and food. Main-stage sessions will be livestreamed.",
+    ticketPricing: "General Admission $150 (last-minute $200 listed) / Student Pass $50",
+    speakers: "Kevin O'Leary (headliner), Emin Gun Sirer (Ava Labs CEO)",
+    sections: [
+      {
+        heading: "Two tracks for business and builders",
+        content: [
+          "The agenda divides into onchain finance and consumer applications. The finance side covers tokenized assets, blockchain-native liquidity, and regulated capital markets, while the consumer side covers digital experiences, ownership, and fan-driven economies. The framing throughout is commercial rather than academic, with enterprises, financial institutions, and investors as the stated audience.",
+          "Keynotes, panels, and fireside chats carry the program rather than workshops. The site links a full agenda page and invites speaker and sponsor applications through posted forms, which suggests the lineup is still being filled out.",
+        ],
+      },
+      {
+        heading: "Speakers named so far",
+        content: [
+          "Kevin O'Leary is billed as the headline speaker, described on the site as an entrepreneur, investor, and star of ABC's Shark Tank. Emin Gun Sirer, CEO of Ava Labs, is listed for a keynote on the changing Web3 landscape. The speakers page holds the rest of the lineup.",
+          "Past editions in London, Buenos Aires, and Barcelona are recapped on the page with video links. Those archives give a fair read on tone and production before committing to travel.",
+        ],
+      },
+      {
+        heading: "Tickets and venue",
+        content: [
+          "General Admission is listed at $150 with a $200 last-minute rate also shown, and the Student Pass is $50 with ID required at check-in. Tickets cover both days, all sessions, builder and ecosystem activations, networking, and food and drinks. Payment is by credit card or crypto in USD, and the FAQ states there are no refunds, though tickets can be transferred to another person.",
+          "The venue is Chelsea Industrial in West Chelsea, reachable by subway on the C and E to 23rd Street or the 1 to 28th Street. The organizers point hotel bookers to a TravelCare portal where rooms can be paid by card or crypto including AVAX. Main-stage sessions stream live and other stages are recorded, with recordings expected about a month after the event.",
+        ],
+      },
+    ],
+  },
+  sui: {
+    summaryLead:
+      "Sui Basecamp runs October 7 and 8 at Marina Bay Sands in Singapore, staged alongside TOKEN2049. The site prices a standard pass at $299 with a $229 rate available until September 30, covering both days of talks, workshops, and expo areas. Programming runs across four areas, the Summit Stage, the X Stage, the AI Builder Lab, and the SUIG Arena, with product reveals and hands-on demos promised. Listed speakers include Mysten Labs CEO Evan Cheng, CPO Adeniyi Abiodun, chief cryptographer Kostas Chalkias, and Real Vision CEO Raoul Pal. Registration runs through the event Luma page.",
+    ticketPricing: "$229 until Sept 30, then $299",
+    speakers: "Evan Cheng, Adeniyi Abiodun, Kostas Chalkias, Raoul Pal, Richard Socher, Hilmar Veigar Petursson",
+    sections: [
+      {
+        heading: "Co-located with TOKEN2049",
+        content: [
+          "Basecamp shares its dates and venue with TOKEN2049 week, placing the Sui community gathering inside Singapore's biggest crypto fortnight. The FAQ confirms October 7 and 8 at Marina Bay Sands, with badge pickup starting October 6. A standard pass covers both days including presentations, workshops, expo areas, and official evening events.",
+          "Registration goes through Luma rather than a native checkout. The discounted $229 rate holds until September 30 before the $299 full price applies. Press passes are handled by email, and a limited number of invite-only travel grants are available for ecosystem builders.",
+        ],
+      },
+      {
+        heading: "Stages and the TPS record attempt",
+        content: [
+          "The program runs across the Summit Stage for keynotes and reveals, the X Stage for demos and AMAs, the AI Builder Lab for hands-on workshops, and the SUIG Arena for DeFi programming. The framing is agentic finance, with instant settlement, autonomous payments, stable dollars, and post-quantum security named as themes. Product launches are promised before the rest of the world hears about them.",
+          "Day one includes a live throughput experiment aiming to repeat a July test the site says pushed past 6 million transactions per second. Visitors can guess the final figure for SUI prizes of 10,000, 5,000, and 1,000 for the three closest entries. A linked blog post documents the July run.",
+        ],
+      },
+      {
+        heading: "Speakers and track record",
+        content: [
+          "Mysten Labs leadership anchors the list, with CEO Evan Cheng, CPO Adeniyi Abiodun, president Kevin Boon, and chief cryptographer Kostas Chalkias all named. Outside voices include Real Vision's Raoul Pal and Jamie Coutts, Google DeepMind's Alexandre Moufarek, You.com's Richard Socher, Grayscale's Zach Pandl, and Circle's Matt Stafford, alongside ecosystem founders. A speaker application form remains open.",
+          "The page cites the 2025 edition as a baseline, with more than 80 sessions, 2,000 attendees, 100 speakers, 30 sponsors, and representation from more than 90 countries and 1,000 companies. Recordings from that year are linked. Practical notes cover the SG Arrival Card requirement, Bayfront MRT access to halls D and E, and visa-free entry for most nationalities.",
+        ],
+      },
+    ],
+  },
+  "ripple-swell-2026": {
+    summaryLead:
+      "Ripple Swell runs October 27 to 29 in New York City at The Shed, 545 West 30th Street. The site describes it as Ripple's annual event and says the 2026 edition combines the Swell and Apex conferences for the first time, with tracks on payments, stablecoins, tokenization, policy, and the XRP Ledger. Listed figures are 1,500 attendees, more than 80 sessions, more than 100 speakers, and three stages. Announced keynote speakers are Water.org co-founder Matt Damon and Bullish chairman and CEO Tom Farley. Passes are tiered from a $600 Super Early Bird to a $1,500 Last Chance rate.",
+    ticketPricing: "Super Early Bird $600 / Early Bird $1,000 / Standard $1,200 / Last Chance $1,500",
+    speakers: "Matt Damon (Water.org co-founder), Tom Farley (Bullish chairman and CEO)",
+    expectedAttendance: "1,500+ attendees, 80+ sessions, 100+ speakers, 3 stages",
+    sections: [
+      {
+        heading: "Swell and Apex combined",
+        content: [
+          "The 2026 edition merges two Ripple conferences into one experience across multiple programming tracks. The stated theme is the meeting point of traditional finance and the onchain economy, aimed at financial leaders, fintech founders, developers, and researchers. Topic tracks include AI and agentic finance, capital markets and settlement, crypto markets and ETFs, DeFi, interoperability, payments, policy and regulation, stablecoins, tokenization, and XRP utility.",
+          "The full agenda is posted on the site with a sessions page to browse. A call for speakers, a hackathon, and an institutional summit run alongside the main program. The audience is grouped into finance leaders, developers, researchers, community members, and press.",
+        ],
+      },
+      {
+        heading: "Speakers and scale",
+        content: [
+          "The two announced keynote speakers are Matt Damon, co-founder of Water.org, and Tom Farley, chairman and CEO of Bullish. The site notes more speaker announcements are coming. A dedicated 2026 speakers page carries the full list as it grows.",
+          "The published scale figures are more than 1,500 attendees, more than 80 sessions, more than 100 speakers, and three stages. That makes Swell a mid-sized institutional event rather than a mass expo, with finance, developer, and policy content sharing one venue.",
+        ],
+      },
+      {
+        heading: "Tickets and venue",
+        content: [
+          "Four pricing windows are listed. The Super Early Bird at $600 covered April 22 to May 31, Early Bird at $1,000 ran June 1 to July 11, Standard at $1,200 runs July 12 to October 5, and Last Chance at $1,500 runs October 6 to 20. Registration goes through the official Ripple registration page.",
+          "The venue is The Shed in Hudson Yards, with the address given as 545 West 30th Street and a map link on the page. Hotels and travel plus an FAQ page are linked for trip planning. Parties interested in exhibiting go through the partnerships page.",
+        ],
+      },
+    ],
+  },
+  chainlink: {
+    summaryLead:
+      "Chainlink SmartCon is Chainlink's annual conference, and the official site currently presents the 2025 edition rather than 2026 details. That edition ran November 4 and 5 at the Metropolitan Pavilion in New York, with recorded talks now posted. The 2025 agenda centered on tokenized funds, stablecoins, cross-chain infrastructure, and bank pilots, with speakers including Chainlink's Sergey Nazarov and guests from Swift, UBS, and Aave Labs. No verified 2026 dates, venue, prices, or speakers appear on the site today, so treat this guide as provisional until organizers publish the next edition.",
+    sections: [
+      {
+        heading: "What the site shows today",
+        content: [
+          "The SmartCon homepage is a recap of the November 2025 gathering, headlined as a thank-you to attendees. Session recordings are linked through YouTube, and a recap blog plus product announcements for the Runtime Environment, Confidential Compute, and Chainlink Rewards are posted. Navigation covers recordings, speakers, agenda, sponsors, visits, and FAQs for the past edition.",
+          "No 2026 edition page, dates, or ticket link appears on the site. The safest reading is that organizers have not yet published the next edition. Anyone planning travel should wait for an official announcement rather than assuming a repeat slot.",
+        ],
+      },
+      {
+        heading: "The 2025 program as context",
+        content: [
+          "The 2025 agenda leaned institutional, with tokenized funds, stablecoin infrastructure, collateral mobility, delivery versus payment, and unified ledgers among the session titles. Bank and market voices appeared throughout, including a Swift keynote, a UBS tokenization session, and a Lido session on adopting CCIP as cross-chain infrastructure. A White House fireside and an Aave Labs fireside with Sergey Nazarov drew attention.",
+          "Sponsors listed for 2025 include Swift, Euroclear, Space and Time, Aptos, OKX, Plasma, Polygon, The Graph, and X Layer. That roster signals where the conference sits in the market, at the overlap of banks, market infrastructure, and oracle and interoperability providers.",
+        ],
+      },
+      {
+        heading: "Planning for the next edition",
+        content: [
+          "With no verified 2026 facts on the official pages, there is nothing firm to book around. Past form points to New York in the fall, but that is pattern rather than confirmation and should not be treated as a date. Watch the SmartCon site and Chainlink's official channels for the announcement.",
+          "When the next edition posts, check the same details that made 2025 plannable, namely the venue, the dated ticket tiers, and whether main-stage sessions stream. Until then, this guide stays deliberately thin.",
+        ],
+      },
+    ],
+  },
+  bbw: {
+    summaryLead:
+      "Binance Blockchain Week runs November 28 and 29 in Bangkok, Thailand, at the Queen Sirikit National Convention Center. The event page calls it a special Asia edition run in partnership with Binance TH. Early-bird tickets are listed at $29 against a full price of $129. The page points to 2025 highlights and past speakers without naming the full 2026 lineup, and it links forms for speaking and sponsorship inquiries. No attendance figure or agenda appears on the page, so visitors should check the official site as the program is published.",
+    ticketPricing: "Early-bird $29 (full price $129)",
+    sections: [
+      {
+        heading: "A Bangkok Asia edition",
+        content: [
+          "The event page places the 2026 edition at the Queen Sirikit National Convention Center on November 28 and 29. It is presented as a special Asia edition in partnership with Binance TH. The page carries 2025 highlights and a previous speakers section for flavor, but the current lineup is not yet named.",
+          "Speaking and sponsorship interest go through dedicated 2026 forms linked on the page. That setup suggests the program is still being assembled. Social links are posted for updates as names and sessions land.",
+        ],
+      },
+      {
+        heading: "Tickets",
+        content: [
+          "Early-bird tickets are listed at $29 against a stated full price of $129. Buy-now buttons appear in several spots on the page and lead to the official checkout. The discount framing rewards early commitment, as usual for this series.",
+          "No ticket tiers beyond the early-bird and full price appear on the page. What each tier includes is not spelled out in the fetched content, so buyers should read the checkout terms before paying.",
+        ],
+      },
+      {
+        heading: "Program status",
+        content: [
+          "No agenda, session list, or attendance figure appears on the page. The 2025 highlights section is the only programming evidence offered. Visitors deciding between this and neighboring events should wait for the schedule before comparing.",
+          "Bangkok in late November is a workable conference season, and the QSNCC is the city's main convention venue. None of that substitutes for a published program, so treat this guide as a placeholder until the organizers post sessions and speakers.",
+        ],
+      },
+    ],
+  },
+  messari: {
+    summaryLead:
+      "Messari Mainnet is the 2026 edition of Messari's annual conference. The official site at mainnet.events did not load at research time, returning an error on both the bare and www addresses, so no dates, city, venue, prices, speakers, or attendance figures could be verified from an official page. This guide therefore stays general until the organizers publish details. Readers should confirm timing and location through Messari's own channels before booking travel or lodging. No concrete planning claims follow in the sections below. Check back once the official calendar posts confirmed facts.",
+    sections: [
+      {
+        heading: "Status of the 2026 details",
+        content: [
+          "The official events page could not be opened during research. Both the bare domain and the www variant failed, one with a not-found status and the other with a transport error. That leaves no verified source for when or where the 2026 edition takes place.",
+          "Because no official page could be read, this guide names no dates, venue, prices, speakers, or attendance total. Any third-party listing that fills in those blanks should be treated as unconfirmed until Messari itself publishes them.",
+        ],
+      },
+      {
+        heading: "How to track the announcement",
+        content: [
+          "The reliable path is Messari's own site and events channels. When the edition posts, look for the dates, the venue, the dated ticket tiers, and the refund and transfer terms before spending. Speaker and agenda pages typically follow the initial announcement.",
+          "Past Mainnet editions were New York gatherings with institutional programming, but that history does not confirm the 2026 plan. Use it only as background while waiting for the official word.",
+        ],
+      },
+      {
+        heading: "Planning without confirmed facts",
+        content: [
+          "Do not book flights, hotels, or side-event venues around an unconfirmed listing. Hold off on visa paperwork that depends on event dates until the organizers publish them. If budgets must be set now, keep them provisional and cancellable.",
+          "Revisit this guide once the official calendar is live. At that point the summary, pricing, speakers, and attendance fields can be filled from the published pages.",
+        ],
+      },
+    ],
+  },
+  consensus: {
+    summaryLead:
+      "Consensus Hong Kong runs February 1 to 3, 2027, at the Hong Kong Convention and Exhibition Centre, with the exhibition open February 2 and 3. Produced by CoinDesk, the site says more than 20,000 executives, investors, builders, and policymakers have gathered across its editions since the 2025 debut. The 2027 page projects 10,000 attendees from over 100 countries and cites $87 trillion in assets managed by finance firms present in 2026. Program themes are digital assets at scale, AI adoption across Asian finance, and the agentic economy. Registration and sponsorship links are live on the site.",
+    expectedAttendance: "10,000 attendees from 100+ countries",
+    sections: [
+      {
+        heading: "Dates and venue",
+        content: [
+          "The event runs February 1 to 3, 2027, at the Hong Kong Convention and Exhibition Centre in Wan Chai. The exhibition component opens February 2 and runs through February 3. The page carries the tagline Money Markets Machines and positions the show as a deal-flow destination.",
+          "Registration and sponsor pages are open through the site navigation. Travel and FAQ pages are posted for trip planning. The event is supported by the listed Hong Kong partner body shown on the homepage.",
+        ],
+      },
+      {
+        heading: "Program themes",
+        content: [
+          "Three themes anchor the 2027 program. Digital assets at scale covers tokenization of equities and real-world assets, stablecoins as payments infrastructure, and DeFi as a credit and market layer. The AI theme covers quant funds, capital markets use, and enterprise adoption stories from across Asia.",
+          "The third theme is the agentic economy, with AI agents described as active market participants that trade, manage portfolios, and create new economic models. Session videos from 2026 on the page include boardroom AI adoption, institutional transformation of finance, and agentic commerce onchain.",
+        ],
+      },
+      {
+        heading: "Scale and history",
+        content: [
+          "The site projects 10,000 attendees from over 100 countries for 2027 and cites $87 trillion in assets managed by finance firms present at the 2026 edition. Across editions since the 2025 debut, it says more than 20,000 people have gathered. Quoted past speakers include Michael Saylor, Amy Oldenburg, and Kevin O'Leary.",
+          "The homepage frames Hong Kong as the gateway for global capital into Asian digital assets. With institutions putting tokenization and stablecoins into production, the pitch is that Asia is building rather than waiting. That is the organizer's framing, and the session archive is the best check on substance.",
+        ],
+      },
+    ],
+  },
+  "consensus-miami": {
+    summaryLead:
+      "Consensus returns to Miami on May 4 to 6, 2027, at the Miami Beach Convention Center. Produced by CoinDesk, the 2027 page projects more than 15,000 senior leaders from over 100 countries across crypto, finance, technology, and policy. It cites $87 trillion in assets managed by finance firms that gathered at the 2026 edition. Program themes are crypto at scale, institutional integration of tokenized securities and on-chain revenue, and agentic commerce. The site carries session videos from 2026, including a fireside with CZ and a keynote from Michael Saylor, plus registration and sponsorship links.",
+    expectedAttendance: "15,000+ attendees from 100+ countries",
+    sections: [
+      {
+        heading: "Return to Miami",
+        content: [
+          "The 2027 edition runs May 4 to 6 at the Miami Beach Convention Center. The page positions it as the flagship Consensus, where crypto, finance, tech, and policy leaders meet for deals, demos, and decisions. The tagline on the page reads Money Markets Machines.",
+          "Registration and sponsor links are live in the navigation, alongside networking, hotels, why-attend, FAQ, and speaker-application pages. The site structure suggests the program and lineup will fill in through those pages as the date nears.",
+        ],
+      },
+      {
+        heading: "Program themes",
+        content: [
+          "Three themes are posted. Crypto at scale addresses infrastructure, policy, and protocol decisions as value moves onchain. Institutional integration covers tokenized securities, real on-chain revenue at B2B firms, and frameworks turning institutional interest into income. Agentic commerce covers AI agents trading, managing portfolios, and forming new economic models.",
+          "The 2026 session videos on the page preview the register of the show, with a CZ fireside, a scaling-agentic-commerce panel, a Michael Saylor keynote, and a policy fireside with Chairman Selig. Those recordings are a useful sample of depth and tone.",
+        ],
+      },
+      {
+        heading: "Scale and past voices",
+        content: [
+          "The site projects more than 15,000 attendees from over 100 countries for 2027 and cites $87 trillion in assets managed by finance firms at the 2026 edition. Quoted past participants include Ripple CEO Brad Garlinghouse, Fortune editor Jeff Roberts, and Kevin O'Leary, who is quoted calling the show 18 months ahead of the market.",
+          "Top attending companies are shown as logo boards on the page. The overall pitch is deal flow rather than spectacle, with networking pages and experiences listed alongside the stage program. Institutional buyers should weigh the app-driven meeting setup against their own calendars.",
+        ],
+      },
+    ],
+  },
+  kbw: {
+    summaryLead:
+      "Korea Blockchain Week centers on September 30 to October 1 in Seoul at Walkerhill Hotels and Resorts, preceded by the invite-only Upbit Institutional Summit on September 29. The site frames the week as three stages with more than 100 sessions and more than 300 speakers, plus more than 300 side events across the city. Listed speaker highlights include Balaji Srinivasan, Hyperliquid CEO Jeff Yan, Arthur Hayes, BitMine chairman Tom Lee, Consensys CEO Joseph Lubin, Upbit CEO Kyoungsuk Oh, Tether USA CEO Bo Hines, and former CFTC commissioner Brian Quintenz. The 2025 edition drew more than 13,000 attendees.",
+    speakers: "Balaji Srinivasan, Jeff Yan, Arthur Hayes, Tom Lee, Joseph Lubin, Kyoungsuk Oh, Bo Hines, Brian Quintenz",
+    expectedAttendance: "13,000+ attended in 2025; 2026 lists 300+ speakers and 300+ side events",
+    sections: [
+      {
+        heading: "How the week is structured",
+        content: [
+          "The main conference runs September 30 to October 1 at Walkerhill Hotels and Resorts, with three stages, more than 100 sessions, and more than 300 speakers listed. The Upbit Institutional Summit on September 29 opens the week as an invite-only affair. An agenda page and a side-events page carry the schedules as they are released.",
+          "Side events are a major part of the format, with more than 300 listed across Seoul. Institutions, investors, founders, and policymakers host gatherings beyond the main venue. A side-event application form is posted for teams that want to add their own.",
+        ],
+      },
+      {
+        heading: "Speakers named so far",
+        content: [
+          "The highlights list mixes crypto founders, fund voices, and policy figures. Balaji Srinivasan appears as a virtual speaker, alongside Hyperliquid CEO Jeff Yan, Maelstrom CIO Arthur Hayes, and BitMine chairman Tom Lee. Consensys founder and CEO Joseph Lubin represents the Ethereum side.",
+          "Korean market and policy voices include Upbit CEO Kyoungsuk Oh, Tether USA CEO Bo Hines, and former CFTC commissioner Brian Quintenz. A full speakers page holds the wider roster, and a speaker application form remains open. Last year the event cites more than 340 speakers.",
+        ],
+      },
+      {
+        heading: "Scale, lodging, and applications",
+        content: [
+          "The 2025 highlights cited on the page put attendance above 13,000. For 2026 the published scale markers are the 300-plus speakers and 300-plus side events. Ticket sales run through the official ticketing subdomain linked from the homepage.",
+          "The organizers flag official Walkerhill hotel rates with a direct booking link, which matters because the venue sits outside central Seoul. Sponsor, speaker, side-event, and media-pass applications are all posted. The event is produced by FACTBLOCK, described on the page as a Korean ecosystem builder.",
+        ],
+      },
+    ],
+  },
+  ibw: {
+    summaryLead:
+      "India Blockchain Week runs November 1 to 2, 2026 at the Fairmont Mumbai for its fourth edition after three years in Bangalore. Hosted by Hashed Emergent, the two-day conference anchors a wider week of hackathons, workshops and side events across the city. The site lists tiered passes from general to executive VIP, with Binance named as title sponsor. The 2026 speaker lineup is listed as coming soon, and the agenda is still being finalized. The move to Mumbai places the event near financial firms and investors in India's financial capital.",
+    ticketPricing: "General INR 1,199, Priority INR 2,799, VIP INR 29,999, Executive VIP INR 59,999, Student INR 999, plus taxes",
+    sections: [
+      {
+        heading: "A move to Mumbai",
+        content: [
+          "The official site says the 2026 conference takes place November 1 to 2 at the Fairmont Mumbai. It is the fourth edition, after three editions in Bangalore. The organizers frame the move as a step closer to capital and institutions in India's financial capital.",
+          "Hashed Emergent is named as host. The conference is described as the two-day flagship inside a wider India Blockchain Week of side events, workshops and networking sessions. The site mentions more than 90 independent side events during the week.",
+        ],
+      },
+      {
+        heading: "Passes and pricing",
+        content: [
+          "The site lists a General pass at INR 1,199, a Priority pass at INR 2,799, a VIP pass at INR 29,999, an Executive VIP pass at INR 59,999 and a Student pass at INR 999. It notes prices exclude taxes and that a code named GANESHA gave 20 percent off General and Priority passes until September 18.",
+          "General covers two-day access plus the event app and expo areas. Priority adds lunch and forum eligibility. VIP and Executive VIP add lounge access, dinner and hotel and transfer options. Buy only through links on the official site.",
+        ],
+      },
+      {
+        heading: "Who goes and what is set",
+        content: [
+          "The site breaks past attendance into builders and developers at 30 percent, founders at 22 percent, protocol teams at 18 percent, investors at 15 percent and policy and media making up the rest. The 2026 speaker list and agenda are both marked as coming soon.",
+          "Binance is named as title sponsor for 2026. Speaker and sponsor applications run through forms linked on the site. A travel and visa guide for Mumbai is also linked for visitors from abroad.",
+        ],
+      },
+    ],
+  },
+  devcon: {
+    summaryLead:
+      "Devcon 8 runs November 3 to 6, 2026 at the Jio World Centre in Bandra Kurla Complex, Mumbai. Organized by the Ethereum Foundation, it spans four days of talks, workshops, coworking and community-led hubs. The site lists general admission from 499 dollars via ETH and 999 dollars via fiat, plus reduced community and application-based tiers, all including 18 percent GST. Tracks include core protocol, security, privacy and governance. The travel guide notes the overlap with Diwali season and urges early hotel booking near the venue. Ticket sales began with an ETH-only early bird wave followed by additional waves in July.",
+    ticketPricing: "General Admission from $499 via ETH and $999 via fiat, Community from $149, Applications from $25, includes 18 percent GST",
+    sections: [
+      {
+        heading: "Venue and dates",
+        content: [
+          "The official site names Mumbai, India and November 3 to 6, 2026. The venue is the Jio World Centre at G Block, Bandra Kurla Complex in Mumbai. The event is presented as Devcon 8 India, the Ethereum Foundation's annual developer conference.",
+          "The format mixes talks, workshops, coworking, art and community hubs. Community hubs are described as community-led spaces built around a set topic. Volunteer applications for this edition are listed as closed.",
+        ],
+      },
+      {
+        heading: "Tickets",
+        content: [
+          "The site lists General Admission in sale waves, priced at 499 dollars when paid in ETH and 999 dollars when paid in fiat. Community discounts start from 149 dollars and application-based discounts start from 25 dollars. All prices are shown as including 18 percent GST.",
+          "General tickets are anon-friendly with a limit of two per order and are transferable. Discounted tickets must be claimed by the attendee and are not transferable. Indian resident discounts are verified through the ticket shop.",
+        ],
+      },
+      {
+        heading: "Program and trip notes",
+        content: [
+          "Listed tracks include Core Protocol, Privacy and Consent, Security, Futures Worth Building, Users Builders and Agents, Rights Freedoms and Governance, Applied Cryptography, Permissionless Networks and Open and Verifiable Stack. Speaker applications and supporter applications are linked on the site.",
+          "The travel guide notes a welcome booth at the airport and metro access near the venue. It warns that Devcon overlaps Diwali season and advises booking lodging early. Past speaker names shown on the site include Vitalik Buterin, Aya Miyaguchi and Justin Drake.",
+        ],
+      },
+    ],
+  },
+  devconnect: {
+    summaryLead:
+      "Devconnect is the Ethereum Foundation's community gathering built around independent events rather than a single main stage. The current site recaps the 2025 edition in Buenos Aires, held November 17 to 22 at La Rural in Palermo, with more than 14,000 attendees from over 130 countries. It lists over 80 exhibiting teams across eight districts and more than 500 community events around the city. No dates or host city for a 2026 edition are published on the official site. Travelers should check devconnect.org for updates before making travel plans this year.",
+    expectedAttendance: "14,000+ attendees from 130+ countries (2025 edition)",
+    sections: [
+      {
+        heading: "What Devconnect is",
+        content: [
+          "The site describes the Buenos Aires event as the first Ethereum World's Fair, with districts for DeFi, privacy, L2s, social, hardware and wallets, AI, gaming and art. More than 40 events took place inside La Rural, with over 500 community-run events across the city.",
+          "Support came from more than 200 volunteers. Recordings from many 2025 sessions are linked as playlists. No 2026 host city or dates are shown on the homepage.",
+        ],
+      },
+      {
+        heading: "Scale in 2025",
+        content: [
+          "The site reports more than 14,000 attendees from more than 130 countries at the 2025 edition. It lists more than 80 exhibitors and more than 40 indoor events. These figures describe the past edition only.",
+          "For 2026, the site gives no ticket prices, no speaker list and no attendance target. Readers should not rely on third-party dates until the organizers publish them.",
+        ],
+      },
+      {
+        heading: "Planning note",
+        content: [
+          "Since no 2026 details are published, the practical step is to watch devconnect.org for an announcement. Past editions rotated cities, with Istanbul in 2023 and Amsterdam in 2022 also linked.",
+          "Anyone booking travel now should treat timing and location as unconfirmed. Pricing is listed on the official site when announced.",
+        ],
+      },
+    ],
+  },
+  "bitcoin-amsterdam": {
+    summaryLead:
+      "Bitcoin Amsterdam runs November 5 to 6, 2026 at the Sugarfactory in Halfweg, near Amsterdam. The site lists a two-day conference pass at 197 euros and a Whale pass at 2121 euros, with a 5 percent discount for bitcoin payment. Programming centers on Bitcoin as money, mining, policy and financial infrastructure, with stages, an expo and side events. Past speakers named on the site include Jack Mallers, Adam Back, Elizabeth Stark and Edward Snowden. The venue address is listed as Kristalpromenade 7 in the Netherlands. A Bitcoin for Corporations symposium is linked as a companion program for attendees.",
+    ticketPricing: "Two-day pass EUR 197, Whale pass EUR 2121, 5 percent off when paid in bitcoin",
+    speakers: "Previous speakers include Jack Mallers, Adam Back, Elizabeth Stark, Edward Snowden, Pierre Rochard and Obi Nwosu",
+    sections: [
+      {
+        heading: "Dates and venue",
+        content: [
+          "The site gives November 5 to 6, 2026 and names the Sugarfactory as venue. The contact address is listed as Kristalpromenade 7, Halfweg in the Netherlands. The event is presented as a two-day Bitcoin conference with stages and an expo.",
+          "A Bitcoin for Corporations symposium in Amsterdam is linked alongside the main program. Travel, press, sponsor and FAQ pages are linked from the main nav.",
+        ],
+      },
+      {
+        heading: "Tickets",
+        content: [
+          "The site lists a two-day conference pass at 197 euros covering stages, keynotes, panels and the expo. A Whale pass is listed at 2121 euros with access to a curated lounge, a second stage, Whale Night and side events. Both offer 5 percent off when paid in bitcoin.",
+          "Sales run through linked euro and bitcoin checkout pages. The site notes a price increase timer but gives no future price on the fetched page. Check the tickets page before paying.",
+        ],
+      },
+      {
+        heading: "Speakers and focus",
+        content: [
+          "The site labels its speaker lists as previous speakers. Names shown include Jack Mallers of Strike, Adam Back of Blockstream, Elizabeth Stark of Lightning Labs, Edward Snowden, Pierre Rochard and Obi Nwosu of Fedi.",
+          "The agenda focus is Bitcoin growth, technical work and policy in Europe. Speaker applications run through an apply page. No attendance figure is published on the fetched page.",
+        ],
+      },
+    ],
+  },
+  edcon: {
+    summaryLead:
+      "EDCON runs October 17 to 18, 2026 in Kuala Lumpur. The Community Ethereum Development Conference describes itself as a nonprofit annual gathering for Ethereum builders, researchers and community members. The site lists open applications for sponsors, community side events, speakers and volunteers, with tickets linked through Luma. Geode Labs is named as strategic partner. Past editions listed run from Paris in 2017 through Tokyo in 2024 and Osaka in 2025. Pricing, venue details and attendance figures are not published on the official site at this time for the 2026 edition.",
+    sections: [
+      {
+        heading: "Dates and format",
+        content: [
+          "The site gives October 17 to 18, 2026 and names Kuala Lumpur as host city. EDCON is described as a nonprofit annual conference for the Ethereum ecosystem. It says the event gathers speakers, mentors and projects to share ideas and link communities.",
+          "Four application paths are listed as open. They cover sponsorship, community side events, speaking and volunteering. Tickets are linked through Luma.",
+        ],
+      },
+      {
+        heading: "Partners and history",
+        content: [
+          "Geode Labs is named as strategic partner and described as an Ethereum ecosystem development group. No other 2026 sponsors are named on the fetched page. The history line lists Paris 2017, Toronto 2018, Sydney 2019, online editions in 2020 and 2021, San Francisco 2022, Montenegro 2023, Tokyo 2024 and Osaka 2025.",
+          "The site gives no speaker names for 2026 on the fetched page. It also gives no ticket prices and no attendance figure. Readers should use the official forms for current status.",
+        ],
+      },
+      {
+        heading: "Planning note",
+        content: [
+          "With venue and schedule details still thin, the practical step is to apply early if you want to speak, volunteer or host a side event. The forms are linked directly from the homepage.",
+          "For travel, confirm venue and hotel advice on edcon.io before booking. Pricing is listed on the official site when released.",
+        ],
+      },
+    ],
+  },
+  "vienna-blockchain-week": {
+    summaryLead:
+      "Vienna Blockchain Week runs June 2 to 3, 2027 in Vienna, framed as an institutional digital asset and AI gathering. The site reports more than 500 attendees at the 2026 edition, with 80 percent international visitors from over 40 countries and more than 100 speakers. Six themes are listed for 2027, covering institutional assets, stablecoins, tokenization, MiCA regulation, infrastructure and AI in finance. A Super Early Bird ticket window ending August 31 is noted, with sales through events.neob.ai. Pricing is listed on the official site. Banks, asset managers, regulators and infrastructure firms form the stated audience.",
+    expectedAttendance: "500+ attendees at VBW26, 80 percent international, 40+ countries",
+    speakers: "VBW26 selection includes Michael Huertas, Cristiano Ventricelli, Nina-Luisa Siedler, Martin Bohm and Marina Markezic; VBW27 announced on rolling basis",
+    sections: [
+      {
+        heading: "Dates and audience",
+        content: [
+          "The site gives June 2 to 3, 2027 in Vienna and calls the event Austria's institutional digital assets and AI conference. It says the 2026 edition drew more than 500 attendees, with 80 percent from abroad across 40-plus countries.",
+          "The stated audience spans banks, asset managers, exchanges, investors, regulators, infrastructure firms and tech providers. Past attending firms named include PwC, EY, BCG, Moody's Ratings and Chainalysis.",
+        ],
+      },
+      {
+        heading: "Program",
+        content: [
+          "Six themes are listed for 2027. They are institutional digital assets, stablecoins and payments, tokenization and real world assets, regulation and MiCA, infrastructure and AI times finance. The full agenda with times is marked as to follow.",
+          "The 2026 speaker set shown includes Michael Huertas, Cristiano Ventricelli, Nina-Luisa Siedler, Martin Bohm, Maximilian Bruckner, Marina Markezic and Mariana de la Roche Wills. The 2027 lineup is announced on a rolling basis.",
+        ],
+      },
+      {
+        heading: "Tickets and meetings",
+        content: [
+          "The site notes a Super Early Bird ending August 31 and links sales to events.neob.ai. No prices appear on the fetched page. An institutional access track offers hosted entry to qualified leaders by application.",
+          "Networking runs through an app with one-to-one meetings, roundtables, a VIP dinner and an investor breakfast. Side events and venue and hotel pages are linked for trip planning.",
+        ],
+      },
+    ],
+  },
+  ethbucharest: {
+    summaryLead:
+      "ETHBucharest states on its official site that it will not hold a main conference and hackathon in 2026, calling the year a strategic pause. The team says smaller events will continue during 2026 and asks readers to subscribe for updates on what comes next. The site links prior editions from 2024 and 2025 but publishes no dates, venue, pricing or speaker names for 2027. Visitors should treat any 2027 timing found elsewhere as unconfirmed until the organizers post it. Pricing is listed on the official site when announced directly there first.",
+    sections: [
+      {
+        heading: "A pause year",
+        content: [
+          "The homepage headline reads as a strategic pause to build what matters. The body text says ETHBucharest will not host its main conference and hackathon in 2026. It frames the step as a pause, not an end.",
+          "The team says it will reflect and rethink the event before returning. It thanks past attendees and points to future updates. No 2027 dates are given.",
+        ],
+      },
+      {
+        heading: "What continues",
+        content: [
+          "The site says smaller events will continue through 2026. Readers are asked to subscribe through a linked page to hear about them. Links to the 2024 and 2025 editions are provided.",
+          "No venue, ticket or speaker details for 2027 appear on the fetched page. Any third-party listing for 2027 should be treated as unconfirmed.",
+        ],
+      },
+      {
+        heading: "Planning note",
+        content: [
+          "Do not book travel for a 2027 main event based on the current page. Watch ethbucharest.xyz for a return announcement.",
+          "For past work, the 2024 and 2025 pages remain linked. Pricing is listed on the official site when announced.",
+        ],
+      },
+    ],
+  },
+  ethmilan: {
+    summaryLead:
+      "ETHMilan describes its May 21 to 22 event in Milan as Italy's largest Ethereum and Web3 conference. The site states the 2026 edition is complete and points readers to a 2027 waitlist linked to Milan Blockchain Week. Sponsors named include MoonPay as main sponsor alongside Lido, OKX, Pear Protocol and others. Speakers listed include staff from Tether, MoonPay, Ledger Enterprise, OKX, Trezor, 21Shares and Arbitrum builder Offchain Labs. An agenda app and photo gallery are linked. Ticket pricing is listed on the official site. The venue and attendance figures are not stated in the fetched pages.",
+    speakers: "Francesco Ranieri Fabracci (Tether), Andres Lamothe (MoonPay), Andri C. Gmunder (Ledger Enterprise), Roy van Krimpen (OKX), Jan Setina (Trezor), Chiara El Rikabi (21Shares), Kean Gilbert (Lido)",
+    sections: [
+      {
+        heading: "Status and dates",
+        content: [
+          "The site headline gives ETHMilan 2026, May 21 to 22 in Milan. The body says the 2026 edition is a wrap and points to a 2027 return. A join-2027 waitlist links to Milan Blockchain Week.",
+          "An agenda app and a photo gallery are linked for review. Speaker applications are marked as closed on the fetched page.",
+        ],
+      },
+      {
+        heading: "Sponsors and speakers",
+        content: [
+          "MoonPay is listed as main sponsor. Other sponsors named include Pear Protocol, KLEOS, Raven, Axis Group, Lido, IPOR, Rysk, Matcha, Thalex, OKX and BlockInvest. Partners named include Binance and Ethereum Everywhere.",
+          "Speakers shown include Francesco Ranieri Fabracci of Tether, Andres Lamothe of MoonPay, Andri C. Gmunder of Ledger Enterprise, Roy van Krimpen of OKX, Jan Setina of Trezor, Chiara El Rikabi of 21Shares and Kean Gilbert of Lido. Many more names appear on the page.",
+        ],
+      },
+      {
+        heading: "Planning note",
+        content: [
+          "Since the 2026 show is marked complete, travelers should use the 2027 waitlist link for next steps. No ticket prices appear on the fetched page.",
+          "No venue address or attendance figure appears on the fetched page. Check the official site before booking.",
+        ],
+      },
+    ],
+  },
+  ethseoul: {
+    summaryLead:
+      "ETHSeoul is a one-day Ethereum summit in South Korea organized with Krypto Seoul and Ludium. The official site currently details the April 14, 2025 edition at Sky 31 Convention in Lotte Tower, described as the fourth running since 2022. The 2025 agenda lists talks on rollups, privacy, zk systems, wallets and blobs, with speakers from Aztec, Succinct, ENS Labs, Uniswap Labs and EigenLayer. No dates, venue, pricing or attendance figures for 2027 are published on the official site. Readers should confirm future plans through ethseoul.org before booking travel or lodging for Seoul.",
+    speakers: "2025 speakers include Zac Williamson, Uma Roy, Makoto Inoue, Christine Kim, Charles Lu and Austin Federa",
+    sections: [
+      {
+        heading: "What the site shows",
+        content: [
+          "The homepage centers on April 14, 2025 at Sky 31 Convention, Lotte Tower. It calls ETHSeoul a one-day summit and the fourth event since 2022. Krypto Seoul and Ludium are named as organizers.",
+          "The 2025 agenda runs afternoon talks of 20 minutes each plus a closing panel. Topics include rollup risks, privacy, zkVMs, blob storage, wallets and network upgrades.",
+        ],
+      },
+      {
+        heading: "Speakers and sponsors",
+        content: [
+          "Speaker images and agenda names include Matt Murray, Zac Williamson, Uma Roy, Makoto Inoue, Gen Lee, Taem Park, Qi Zhou, Christine Kim, Charles Lu, Austin Federa and others. Team links include Aztec Labs, Succinct, ENS Labs, Uniswap Labs, World Foundation and EigenLayer.",
+          "Sponsors and partners shown are tied to 2025, with community and media partners listed at length. No 2027 sponsors are named.",
+        ],
+      },
+      {
+        heading: "Planning note",
+        content: [
+          "No 2027 dates, venue, prices or attendance figures appear on the fetched page. Treat any 2027 listing elsewhere as unconfirmed until ethseoul.org posts it.",
+          "If you plan around Seoul, use the 2025 venue district only as background. Pricing is listed on the official site when released.",
+        ],
+      },
+    ],
+  },
+  ethlisbon: {
+    summaryLead:
+      "ETHLisbon is a builder gathering in Lisbon organized around a hackathon, running since 2021. The official site currently details the May 9 to 11, 2025 edition at AIhub by Unicorn Factory in the Alvalade district, with 15,000 dollars in listed bounties. Named participants span Gnosis, Kusama, Rootstock, Filecoin Foundation, Wormhole and Bankless Ventures. The 2025 venue is described as a hacker house for collaboration and testing. No dates, ticket prices or attendance figures for 2026 are published on the official site at this time for the next edition in Portugal's capital.",
+    speakers: "2025 names include builders from Gnosis, Kusama, Rootstock, Filecoin Foundation, Wormhole, Fuel Network and Bankless Ventures",
+    sections: [
+      {
+        heading: "Format and venue",
+        content: [
+          "The site frames ETHLisbon as a hackathon-led builder event. The 2025 edition is listed as May 9 to 11 at AIhub by Unicorn Factory in Lisbon's Alvalade district. The venue is pitched as a hacker house for working and testing.",
+          "The 2025 bounty pool is listed at 15,000 dollars across tracks tied to Olas, Gnosis Pay, Rootstock and Kusama. A hacker pack link holds full bounty terms.",
+        ],
+      },
+      {
+        heading: "People",
+        content: [
+          "Speakers, judges and mentors named for 2025 span Stefan George of Gnosis, Jose Macedo of Delphi, Raul Kripalani of the Ethereum Foundation, David Mihal of Fuel, Simao Cruz of Lightshift and teams from Wormhole, Filecoin Foundation and Rootstock.",
+          "No 2026 speaker list appears on the fetched page. No ticket prices or attendance figures appear either. Past partners and highlights are linked for background.",
+        ],
+      },
+      {
+        heading: "Planning note",
+        content: [
+          "Since no 2026 dates are published, confirm timing on ethlisbon.org before booking. The FAQ covers team size, cost, remote access and scholarships for the 2025 setup only.",
+          "Contact runs through a linked form. Pricing is listed on the official site when announced.",
+        ],
+      },
+    ],
+  },
+  ethbelgrade: {
+    summaryLead:
+      "ETHBelgrade runs August 26 to 27, 2026 at the Sava Congress Center in Belgrade as part of Belgrade Blockchain Week. The site bills it as a welcoming Ethereum event for builders and researchers, with two stages and an agenda covering Solidity, Glamsterdam, stablecoins, DeFi and tokenization. Speakers named include staff from geth, Lido, CoW Protocol, Yearn, L2BEAT, Canton Foundation and the University of Belgrade. Sponsors listed include Tenderly, DeFi Saver, Yearn and Lido. Ticket sales are linked through an external platform. Pricing and attendance figures are listed on the official site when confirmed.",
+    speakers: "TokenBrice, Guillaume Ballet (geth), Nikola Matic (Argot Collective), Sasha Kazachenko (CoW Protocol), Dmitry C (Lido), Paolo Di Stefano (Frankencoin)",
+    sections: [
+      {
+        heading: "Dates and venue",
+        content: [
+          "The site gives August 26 to 27, 2026 at the Sava Congress Center. It notes the building dates to 1976 and its recent renovation as a congress center. The event sits inside Belgrade Blockchain Week.",
+          "The agenda spans two stages over two days. Day one and day two sessions cover Solidity, state archival, Glamsterdam, stablecoins, DeFi safety, swaps, RWAs and CBDCs.",
+        ],
+      },
+      {
+        heading: "Speakers and sponsors",
+        content: [
+          "Names on the agenda and speaker wall include TokenBrice, Guillaume Ballet of geth, Nikola Matic of Argot Collective, Sasha Kazachenko of CoW Protocol, Dmitry C of Lido, Paolo Di Stefano of Frankencoin, Radina Talanova of L2BEAT and Jatin Pandya of Canton Foundation.",
+          "Sponsors shown include Polaris, Pharos, Tenderly, DeFi Saver, Decenter, Yearn, Ambire, Lido, Curvy, Geode Labs, Tangem and LiFi. Speaker and sponsor forms are linked.",
+        ],
+      },
+      {
+        heading: "City note",
+        content: [
+          "The site points to local teams such as DeFi Saver, Tenderly and Solflare as roots of the Belgrade scene. It counts more than 50 Web3 firms in the city. Side events are linked through Belgrade Blockchain Week.",
+          "Tickets link to an external platform with no price on the fetched page. Maps links and social channels are listed for updates.",
+        ],
+      },
+    ],
+  },
+  ethrome: {
+    summaryLead:
+      "ETHRome runs September 11 to 13, 2026 at Urbe Hub in Testaccio, Rome, hosted by urbe.eth. The site frames the 2026 edition as a small hackathon for 40 selected builders focused on AI, finance and privacy, with doors opening Friday afternoon and awards Sunday afternoon. Sponsors named include Team1 and Arkiv at top level plus Swarm and ENS. The 2025 report lists more than 250 attendees, 14 sponsors and 65 projects. Applications run through Luma. Pricing is listed on the official site. The venue address is listed as Largo Dino Frisullo in Rome.",
+    expectedAttendance: "40 selected builders (2026 edition); 250+ attendees, 14 sponsors, 65 projects in 2025",
+    sections: [
+      {
+        heading: "Dates and format",
+        content: [
+          "The site gives September 11 to 13, 2026 at Urbe Hub, Largo Dino Frisullo in Testaccio, Rome. It calls the 2026 edition a smaller hackathon for 40 selected builders. Themes are listed as AI, finance and privacy.",
+          "Doors open Friday at 4 PM with hacking from 6 PM, all-day hacking Saturday and a Sunday submission deadline at 10 AM with awards at 3 PM. The venue is listed as open around the clock during the build.",
+        ],
+      },
+      {
+        heading: "Hosts and sponsors",
+        content: [
+          "The event is marked as hosted by urbe.eth, with contact through hello at urbe.build. Patrician sponsors named are Team1 and Arkiv. Citizen sponsors named are Swarm and ENS.",
+          "The 2025 report linked on the page lists more than 250 attendees, 14 sponsors and 65 projects. Applications for 2026 run through Luma with a follow link on X.",
+        ],
+      },
+      {
+        heading: "Venue note",
+        content: [
+          "The location section shows coworking floors, a main hall and focus rooms inside Urbe Hub. The organizers present it as their own space in the Citta dell'Altra Economia area.",
+          "Food is listed across the weekend, including breakfasts, lunches, dinners and midnight street food. No ticket prices appear on the fetched page.",
         ],
       },
     ],
