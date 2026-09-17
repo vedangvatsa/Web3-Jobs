@@ -215,6 +215,8 @@ export function formatEventLocation(
 ): string {
   const city = (event.city || '').trim();
   const country = normalizeCountry(event.country);
+  // City-states (Singapore, Dubai reports, etc.): never render "X, X".
+  if (city && country && city.toLowerCase() === country.toLowerCase()) return city;
   const preferred = city && country && !city.includes(',') ? `${city}, ${country}` : '';
   const raw = (event.location || '').trim();
   const deduped = raw ? dedupeEventLocation(raw) : '';
