@@ -25,12 +25,20 @@ export type GoogleEventSchema = {
   startDate: string;
   endDate?: string;
   description?: string;
-  eventAttendanceMode: 'https://schema.org/OfflineEventAttendanceMode';
-  location: {
-    '@type': 'Place';
-    name: string;
-    address: PostalAddress;
-  };
+  eventStatus?: 'https://schema.org/EventScheduled';
+  eventAttendanceMode:
+    | 'https://schema.org/OfflineEventAttendanceMode'
+    | 'https://schema.org/OnlineEventAttendanceMode';
+  location:
+    | {
+        '@type': 'Place';
+        name: string;
+        address: PostalAddress;
+      }
+    | {
+        '@type': 'VirtualLocation';
+        url: string;
+      };
   url: string;
   sameAs?: string;
   image?: string[];
@@ -161,14 +169,24 @@ function sourceParty(party?: SourceEventParty): SchemaParty | undefined {
   };
 }
 
+/** Online when the venue fields (not the prose) say so. */
+export function isOnlineEventVenue(event: Pick<Web3Event, 'location' | 'city' | 'country'>): boolean {
+  return VIRTUAL_ONLY.test(`${text(event.location)} ${text(event.city)}`);
+}
+
 export function isGoogleEventSchemaEligible(event: Web3Event): boolean {
   const name = text(event.name);
   const location = text(event.location);
-  const allEventText = `${name} ${location} ${text(event.description)}`;
-  if (!name || !location || VIRTUAL_ONLY.test(allEventText) || UNKNOWN_LOCATION.test(allEventText)) return false;
-  if (PRIVATE_EVENT.test(allEventText) || !isValidIsoDate(event.startDate)) return false;
+  if (!name || !isValidIsoDate(event.startDate)) return false;
   if (event.endDate && (!isValidIsoDate(event.endDate) || Date.parse(event.endDate) < Date.parse(event.startDate))) return false;
-  return hasDetailedSourceLocation(event);
+  const allEventText = `${name} ${location} ${text(event.description)}`;
+  if (PRIVATE_EVENT.test(allEventText)) return false;
+  // Online events are fully eligible via VirtualLocation. Physical events
+  // need any real place — city-level is enough; Google does not require a
+  // street address for a Valid rating.
+  if (isOnlineEventVenue(event)) return true;
+  if (!location || UNKNOWN_LOCATION.test(`${location} ${text(event.city)}`)) return false;
+  return true;
 }
 
 export function buildGoogleEventSchema(event: Web3Event, context: EventSchemaContext): GoogleEventSchema | null {
@@ -179,6 +197,9 @@ export function buildGoogleEventSchema(event: Web3Event, context: EventSchemaCon
   const venueName = text(event.venueName) || text(event.location);
   const organizer = sourceParty(event.organizer);
   const performer = sourceParty(event.performer);
+  const online = isOnlineEventVenue(event);
+  const city = text(event.city);
+  const country = text(event.country);
 
   return {
     '@context': 'https://schema.org',
@@ -187,12 +208,24 @@ export function buildGoogleEventSchema(event: Web3Event, context: EventSchemaCon
     startDate: event.startDate,
     ...(event.endDate ? { endDate: event.endDate } : {}),
     ...(text(event.description) ? { description: text(event.description) } : {}),
-    eventAttendanceMode: 'https://schema.org/OfflineEventAttendanceMode',
-    location: {
-      '@type': 'Place',
-      name: venueName,
-      address: sourceAddress(event),
-    },
+    eventStatus: 'https://schema.org/EventScheduled',
+    eventAttendanceMode: online
+      ? 'https://schema.org/OnlineEventAttendanceMode'
+      : 'https://schema.org/OfflineEventAttendanceMode',
+    location: online
+      ? {
+          '@type': 'VirtualLocation',
+          url: context.pageUrl,
+        }
+      : {
+          '@type': 'Place',
+          name: venueName,
+          address: {
+            ...sourceAddress(event),
+            ...(city ? { addressLocality: city } : {}),
+            ...(country ? { addressCountry: country } : {}),
+          },
+        },
     url: context.pageUrl,
     ...(externalUrl && externalUrl !== context.pageUrl ? { sameAs: externalUrl } : {}),
     ...(isHttpUrl(context.imageUrl) ? { image: [context.imageUrl] } : {}),

@@ -50,7 +50,7 @@ import {
   resolveJobSlug,
 } from '@/lib/job-guides';
 import { JobDetailView } from '@/components/job-detail-view';
-import { resolveCompanyLogo, getCompanyFaviconUrl } from '@/lib/company-logo';
+import { FAVICON_FIRST_SLUGS, resolveCompanyLogo, getCompanyFaviconUrl } from '@/lib/company-logo';
 import { getCompanySlug } from '@/lib/job-slugs';
 import { buildJobOgImageUrl, buildArticleOgImageUrl, buildCompanyOgImageUrl, resolveEventOgImageUrl, eventOgImageMimeType } from '@/lib/job-og';
 import { PopupDetailPage } from '@/components/popup-detail-page';
