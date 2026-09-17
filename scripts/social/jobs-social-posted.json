@@ -1,5 +1,5 @@
 {
-  "lastIndex": 199,
+  "lastIndex": 200,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -91,7 +91,8 @@
     "technology97b02",
     "product631",
     "aso4",
-    "ddrm"
+    "ddrm",
+    "sls20"
   ],
   "history": [
     {
@@ -4120,6 +4121,63 @@
       "platform": "instagram",
       "postedAt": "2026-09-17T00:39:26.987Z",
       "postId": "18444114721124840",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls20",
+      "company": "Block",
+      "title": "Mid-Market Account Executive, Commerce",
+      "platform": "x",
+      "postedAt": "2026-09-17T06:13:09.872Z",
+      "postId": "2100468081063805422",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls20",
+      "company": "Block",
+      "title": "Mid-Market Account Executive, Commerce",
+      "platform": "threads",
+      "postedAt": "2026-09-17T06:13:09.872Z",
+      "postId": "18104314616203288",
+      "verification": "verified",
+      "expectedText": "Block is hiring Mid-Market Account Executive, Commerce: https://hashtagweb3.com/sls20/th?og=2",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DdYMKa7ld1L",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "sls20",
+      "company": "Block",
+      "title": "Mid-Market Account Executive, Commerce",
+      "platform": "bluesky",
+      "postedAt": "2026-09-17T06:13:09.872Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mvoyswop3k27",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls20",
+      "company": "Block",
+      "title": "Mid-Market Account Executive, Commerce",
+      "platform": "farcaster",
+      "postedAt": "2026-09-17T06:13:09.872Z",
+      "postId": "0xbaf221d6b5a57406aa91657812e06a2ae27324aa",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls20",
+      "company": "Block",
+      "title": "Mid-Market Account Executive, Commerce",
+      "platform": "linkedin",
+      "postedAt": "2026-09-17T06:13:09.872Z",
+      "postId": "6aab853edd75fed8a09e9ea6",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls20",
+      "company": "Block",
+      "title": "Mid-Market Account Executive, Commerce",
+      "platform": "facebook",
+      "postedAt": "2026-09-17T06:13:09.872Z",
+      "postId": "691827047618629_1090498946890673",
       "verification": "verified"
     }
   ]
