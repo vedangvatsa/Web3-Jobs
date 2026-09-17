@@ -1749,26 +1749,15 @@ export const EVENT_GUIDES: Record<string, EventEditorialArticle> = {
   },
   gts: {
     summaryLead:
-      "Global Trading Show (GTS) 2026 runs December 15 to 16, 2026 at the Emirates Palace in Abu Dhabi, UAE. Presented by Times of Trading and organized by VAP Group, it is a premier multi-asset trading conference and expo uniting forex, crypto, equities, AI trading, DeFi, and prediction markets. The 2026 speaker lineup brings together executive leaders in compliance, oracle infrastructure, quantitative digital asset funds, institutional banking, and Web3 venture advisory.",
+      "Global Trading Show (GTS) 2026 runs December 15 to 16, 2026 at the Emirates Palace in Abu Dhabi, UAE. Presented by Times of Trading and organized by VAP Group, it is a premier multi-asset trading conference and expo uniting forex, crypto, equities, AI trading, DeFi, and prediction markets. The 2026 speaker lineup features key industry leaders including Christos Christou (Chief Compliance Officer at Lulu Financial Holdings), Marcin Kaźmierczak (Co-Founder of RedStone), Evgeny Gokhberg (Founder of Re7 Capital), Mahmoud Hamouda (Deputy Chief Strategy Officer at Banque Misr), and John Lilic (Chief Advisor at Hilbert Group).",
     speakers: "Christos Christou (Lulu Financial), Marcin Kaźmierczak (RedStone), Evgeny Gokhberg (Re7 Capital), Mahmoud Hamouda (Banque Misr), John Lilic (Hilbert Group)",
     expectedAttendance: "Multi-asset institutional traders, fund managers, and Web3 founders",
     sections: [
       {
-        heading: "Featured Speakers & Roster",
-        content: [
-          "The official Global Trading Show 2026 speaker directory features key multi-asset and blockchain leaders, including:",
-          "• Christos Christou — Chief Compliance Officer at Lulu Financial Holdings, chairing compliance, risk, and audit committees across GCC and APAC regions with over 30 years of banking and RegTech experience.",
-          "• Marcin Kaźmierczak — Co-Founder of RedStone, the oracle infrastructure securing over $10B in assets across tokenized funds including BlackRock BUIDL, Securitize, and Apollo ACRED.",
-          "• Evgeny Gokhberg — Founder of Re7 Capital, managing over $1 billion in digital asset AUM with deep specialization in DeFi and yield infrastructure.",
-          "• Mahmoud Hamouda — Deputy Chief Strategy Officer at Banque Misr, leading strategic tech initiatives and startup innovation at Egypt's second-largest bank.",
-          "• John Lilic — Chief Advisor at Hilbert Group, early Consensys core member, and founding contributor to Polygon.",
-        ],
-      },
-      {
         heading: "Multi-Asset & Institutional Focus",
         content: [
           "GTS 2026 bridges institutional finance with decentralized markets, hosting specialized tracks for algorithmic trading, cross-chain oracle infrastructure, regulatory compliance, and tokenized real-world asset (RWA) funds.",
-          "The agenda provides direct access to GCC banking executives, licensed Middle East crypto exchanges, asset managers, and market makers operating under UAE regulatory frameworks.",
+          "The speaker directory pairs traditional finance executives like Christos Christou (Lulu Financial) and Mahmoud Hamouda (Banque Misr) with Web3 leaders including Marcin Kaźmierczak (RedStone), Evgeny Gokhberg (Re7 Capital), and John Lilic (Hilbert Group), offering direct access to GCC banking leaders and crypto operators under UAE regulatory frameworks.",
         ],
       },
       {
