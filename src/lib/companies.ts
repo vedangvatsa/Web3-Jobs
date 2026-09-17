@@ -731,7 +731,7 @@ export async function getCompanyBySlug(slug: string): Promise<Company | null> {
   const canonicalName = nameMap.get(normalized)!;
   companyMap.get(canonicalName)!.push(job);
   if (
-    createSlug(canonicalName) === slug ||
+    createSlug(canonicalName) === slug || createSlug(canonicalName) === slug.replace(/\d+$/, "") || createSlug(canonicalName).replace(/\d+$/, "") === slug.replace(/\d+$/, "") ||
     (['arbitrum', 'offchain-labs', 'arbitrum-offchain-labs'].includes(slug) && canonicalName === 'Offchain Labs') ||
     (['aztec', 'aztec-labs', 'aztec-labs-privacy-l2'].includes(slug) && canonicalName === 'Aztec Labs') ||
     (['symbiotic', 'symbiotic-restaking'].includes(slug) && canonicalName === 'Symbiotic') ||
