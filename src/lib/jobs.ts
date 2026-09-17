@@ -49,6 +49,9 @@ function cleanJobTitle(title: string, company?: string): string {
     .replace(/(?:\s*,\s*|\s*[-\u2013:]\s*|\s+)Partner\s+\d+(?:\s*,\s*Partner\s+\d+)*/gi, '')
     .trim();
 
+  // Replace specific redundant internal team qualifiers
+  cleaned = cleaned.replace(/^Software Engineer,\s*Software Factory$/i, 'Software Engineer');
+
   cleaned = cleaned.replace(/\s+/g, ' ').trim();
 
   // Standardize acronym casing in titles (e.g. Ux -> UX, Ui -> UI, Devops -> DevOps)
