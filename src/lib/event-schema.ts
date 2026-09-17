@@ -179,13 +179,14 @@ export function isGoogleEventSchemaEligible(event: Web3Event): boolean {
   const location = text(event.location);
   if (!name || !isValidIsoDate(event.startDate)) return false;
   if (event.endDate && (!isValidIsoDate(event.endDate) || Date.parse(event.endDate) < Date.parse(event.startDate))) return false;
-  const allEventText = `${name} ${location} ${text(event.description)}`;
-  if (PRIVATE_EVENT.test(allEventText)) return false;
+  // Note: invite-only / approval-based events stay eligible — anyone can
+  // still discover and apply for approval, so they are public listings.
   // Online events are fully eligible via VirtualLocation. Physical events
   // need any real place — city-level is enough; Google does not require a
-  // street address for a Valid rating.
+  // street address for a Valid rating. A concrete city salvages a TBD venue.
   if (isOnlineEventVenue(event)) return true;
-  if (!location || UNKNOWN_LOCATION.test(`${location} ${text(event.city)}`)) return false;
+  const cityKnown = Boolean(text(event.city)) && !UNKNOWN_LOCATION.test(text(event.city));
+  if (!location || (!cityKnown && UNKNOWN_LOCATION.test(location))) return false;
   return true;
 }
 
