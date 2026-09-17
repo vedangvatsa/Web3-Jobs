@@ -41,6 +41,14 @@ function cleanJobTitle(title: string, company?: string): string {
     }
   }
 
+  // Strip a16z style "Partner <number>" prefixes and parenthetical suffixes
+  // e.g. "Partner 16, Data Engineer" -> "Data Engineer", "Software Engineer (Partner 16, Partner 18)" -> "Software Engineer"
+  cleaned = cleaned
+    .replace(/^Partner\s+\d+\s*,\s*/i, '')
+    .replace(/^Partner\s+\d+\s*[-\u2013:]\s*/i, '')
+    .replace(/\s*\(\s*Partner\s+\d+\s*(?:,\s*Partner\s+\d+\s*)*\)/gi, '')
+    .trim();
+
   cleaned = cleaned.replace(/\s+/g, ' ').trim();
 
   // Standardize acronym casing in titles (e.g. Ux -> UX, Ui -> UI, Devops -> DevOps)
