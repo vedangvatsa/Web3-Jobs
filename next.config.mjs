@@ -263,6 +263,42 @@ const nextConfig = {
         ],
       },
       {
+        source: '/',
+        headers: [
+          {
+            key: 'Cache-Control',
+            value: 'public, max-age=0, s-maxage=3600, stale-while-revalidate=86400',
+          },
+        ],
+      },
+      {
+        source: '/jobs',
+        headers: [
+          {
+            key: 'Cache-Control',
+            value: 'public, max-age=0, s-maxage=3600, stale-while-revalidate=86400',
+          },
+        ],
+      },
+      {
+        source: '/news',
+        headers: [
+          {
+            key: 'Cache-Control',
+            value: 'public, max-age=0, s-maxage=1800, stale-while-revalidate=86400',
+          },
+        ],
+      },
+      {
+        source: '/events',
+        headers: [
+          {
+            key: 'Cache-Control',
+            value: 'public, max-age=0, s-maxage=1800, stale-while-revalidate=86400',
+          },
+        ],
+      },
+      {
         source: '/(.*)\\.(jpg|jpeg|png|gif|svg|webp|avif)$',
         headers: [
           {

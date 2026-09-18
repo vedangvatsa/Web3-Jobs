@@ -31,9 +31,11 @@ export async function loadStaticJson<T>(filename: string): Promise<T> {
     return local as T;
   }
 
-  const res = await fetch(`${SITE_ORIGIN}/data/${filename}`, {
-    headers: { Accept: 'application/json' },
-  });
+  const headers = { Accept: 'application/json' };
+  let res = await fetch(`/data/${filename}`, { headers }).catch(() => null);
+  if (!res?.ok) {
+    res = await fetch(`${SITE_ORIGIN}/data/${filename}`, { headers });
+  }
   if (!res.ok) {
     throw new Error(`[loadStaticJson] ${filename}: HTTP ${res.status}`);
   }
