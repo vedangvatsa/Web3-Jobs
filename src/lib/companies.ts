@@ -167,7 +167,6 @@ const COMPANY_WEBSITE_OVERRIDES: Record<string, string> = {
  'hashkey-group': 'https://group.hashkey.com',
  'osl': 'https://osl.com',
  'matrixport': 'https://www.matrixport.com',
- 'gsr': 'https://www.gsr.io',
  'the-sandbox': 'https://www.sandbox.game',
  'sandbox': 'https://www.sandbox.game',
  'moca-network': 'https://www.mocaverse.xyz',
