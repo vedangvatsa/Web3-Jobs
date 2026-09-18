@@ -2,9 +2,7 @@
 const nextConfig = {
   output: 'standalone',
   experimental: {
-    outputFileTracingIncludes: {
-      '/*': ['./content/job-description-shards/*.json'],
-    },
+    // Job description shards are served from /public/job-description-shards (CDN), not bundled in the Worker.
     // Trim compile time + client bundles: per-icon/cherry-picked imports.
     optimizePackageImports: [
       'lucide-react',

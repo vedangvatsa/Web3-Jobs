@@ -179,6 +179,9 @@ jobs:
       - name: Pre-bake job slugs into cache
         run: node scripts/prebake_slugs.js
 
+      - name: Precompute jobs runtime listing
+        run: npx tsx scripts/precompute-jobs-runtime.ts
+
       - name: Guard job slug uniqueness
         run: npx tsx scripts/test-job-slug-reserved.ts && npx tsx scripts/check-slug-collisions.ts
 
@@ -302,7 +305,7 @@ jobs:
           npx tsx scripts/social/merge-state.ts
 
           # Jobs cache + description shards are required; fail the step if they cannot be staged.
-          git add content/jobs-cache.json content/job-description-shards/
+          git add content/jobs-cache.json content/jobs-runtime.json content/job-description-shards/
           # Optional state / assets (missing paths must not block the jobs publish).
           git add content/events-cache.json content/legacy-slugs-archive.json scripts/social/*.json .telegram*.json .resend-broadcast-sent.json public/logo/companies/ 2>/dev/null || true
 

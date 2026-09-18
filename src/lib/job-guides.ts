@@ -13,16 +13,16 @@ import { COMPANY_RICH_ABOUT } from './company-profiles';
 import {
   getJobDescriptionShardFilename,
   getJobDescriptionShardIndex,
-  isJobDescriptionShard,
   JOB_DESCRIPTION_SHARDS_DIRECTORY,
   type JobDescriptionShard,
 } from './job-description-shards';
+import { ensureDescriptionShardLoaded, getCachedDescriptionShard } from './job-description-shard-loader';
 
 export { getJobSlug, getOneWordRole } from './job-slugs';
 import { getJobContentKey, getJobSlug, getCompanySlug, getOneWordRole, normalizeJobLink } from './job-slugs';
 import { cleanJobLocation } from './job-location';
 
-const DESCRIPTIONS_SHARDS_PATH = path.join(process.cwd(), 'content', JOB_DESCRIPTION_SHARDS_DIRECTORY);
+const DESCRIPTIONS_SHARDS_PATH = JOB_DESCRIPTION_SHARDS_DIRECTORY;
 const LEGACY_ARCHIVE_PATH = path.join(process.cwd(), 'content/legacy-slugs-archive.json');
 
 let legacyArchiveCache: Record<string, { id?: string; link?: string; company?: string; title?: string }> | null = null;
@@ -42,37 +42,15 @@ function loadLegacyArchive(): Record<string, { id?: string; link?: string; compa
   return legacyArchiveCache;
 }
 
-const descriptionsShardCache = new Map<string, JobDescriptionShard>();
-
-function loadDescriptionShard(job: Job, shardsPath: string): JobDescriptionShard {
-  const shardPath = path.join(
-    shardsPath,
-    getJobDescriptionShardFilename(getJobDescriptionShardIndex(job)),
-  );
-  const cached = descriptionsShardCache.get(shardPath);
-  if (cached) return cached;
-
-  try {
-    if (fs.existsSync(shardPath)) {
-      const start = Date.now();
-      const raw = fs.readFileSync(shardPath, 'utf-8');
-      const parsed: unknown = JSON.parse(raw);
-      if (!isJobDescriptionShard(parsed)) throw new Error('Invalid shard structure');
-      const ms = Date.now() - start;
-      descriptionsShardCache.set(shardPath, parsed);
-      console.log(`[job-descriptions] Loaded shard ${path.basename(shardPath)} (${Object.keys(parsed.descriptions).length} entries) in ${ms}ms (${Math.round(raw.length / 1024)}KB)`);
-      return parsed;
-    }
-  } catch (err) {
-    console.error(`[job-descriptions] Failed to read shard ${path.basename(shardPath)}:`, err);
-  }
-  const empty: JobDescriptionShard = { version: 1, descriptions: {}, aliases: {} };
-  descriptionsShardCache.set(shardPath, empty);
-  return empty;
+function loadDescriptionShard(job: Job): JobDescriptionShard {
+  const filename = getJobDescriptionShardFilename(getJobDescriptionShardIndex(job));
+  const fromRemoteCache = getCachedDescriptionShard(filename);
+  if (fromRemoteCache) return fromRemoteCache;
+  return { version: 1, descriptions: {}, aliases: {} };
 }
 
-export function getCachedRawContent(job: Job, shardsPath = DESCRIPTIONS_SHARDS_PATH): string {
-  const shard = loadDescriptionShard(job, shardsPath);
+export function getCachedRawContent(job: Job, _shardsPath = DESCRIPTIONS_SHARDS_PATH): string {
+  const shard = loadDescriptionShard(job);
   const slugKey = job.slug;
   const raw = [getJobContentKey(job), job.id, slugKey]
     .filter((key): key is string => Boolean(key))
@@ -207,6 +185,7 @@ function formatLeverSalaryRange(range: { min?: number; max?: number; currency?: 
  * keeps the page useful and index-worthy without being a mirror of the ATS.
  */
 export async function getOrFetchRawJobContent(job: Job): Promise<string> {
+  await ensureDescriptionShardLoaded(job);
   const cached = getCachedRawContent(job);
   const isFlattened = Boolean(cached && cached.length > 200 && !cached.includes('\n') && !cached.includes('<p') && !cached.includes('<div') && !cached.includes('<li') && !cached.includes('<h'));
   if (cached && plainTextFromHtml(cached).length >= 100 && !isFlattened) return cached;
@@ -1414,6 +1393,7 @@ function formatJobContent(originalHtml: string): string {
  * request-time rendering never rewrites the deployment filesystem.
  */
 export async function fetchJobOriginalContent(job: Job): Promise<string> {
+  await ensureDescriptionShardLoaded(job);
   let rawContent = getCachedRawContent(job);
   const isFlattened = Boolean(rawContent && rawContent.length > 200 && !rawContent.includes('\n') && !rawContent.includes('<p') && !rawContent.includes('<div') && !rawContent.includes('<li') && !rawContent.includes('<h'));
   if (isFlattened) {

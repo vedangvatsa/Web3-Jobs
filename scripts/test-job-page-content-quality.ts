@@ -12,6 +12,21 @@ import {
 } from '../src/lib/sanitize-html';
 import { getJobContentKey } from '../src/lib/job-slugs';
 import { readJobDescriptionStore } from './lib/job-description-store';
+import {
+  getJobDescriptionShardFilename,
+  getJobDescriptionShardIndex,
+  isJobDescriptionShard,
+} from '../src/lib/job-description-shards';
+import { seedDescriptionShardCache } from '../src/lib/job-description-shard-loader';
+
+function preloadDescriptionShardForJob(job: Job): void {
+  const filename = getJobDescriptionShardFilename(getJobDescriptionShardIndex(job));
+  const shardPath = path.join(process.cwd(), 'content/job-description-shards', filename);
+  if (!fs.existsSync(shardPath)) return;
+  const parsed: unknown = JSON.parse(fs.readFileSync(shardPath, 'utf8'));
+  if (!isJobDescriptionShard(parsed)) return;
+  seedDescriptionShardCache(filename, parsed);
+}
 
 function assertNoLeaks(label: string, html: string): void {
   for (const { name, re } of JOB_DESCRIPTION_LEAK_PATTERNS) {
@@ -23,6 +38,7 @@ async function main(): Promise<void> {
   const jobs = await getJobs();
   const dev5 = jobs.find((j) => j.slug === 'dev5');
   assert.ok(dev5, 'dev5 fixture job missing from cache');
+  preloadDescriptionShardForJob(dev5);
 
   const dev5Html = buildSynthesizedJobContent(dev5);
   assertNoLeaks('dev5', dev5Html);
@@ -60,6 +76,7 @@ async function main(): Promise<void> {
   for (const slug of goldenSlugs) {
     const job = jobs.find((j) => j.slug === slug);
     if (!job) continue;
+    preloadDescriptionShardForJob(job);
     assert.ok(hasSubstantialJobContent(job), `${slug}: expected indexable cached body`);
     assertNoLeaks(slug, buildSynthesizedJobContent(job));
   }
