@@ -1,5 +1,5 @@
 import { getEvents } from '@/lib/events-server';
-import { getEventSlug, getEventType, normalizeCountry } from '@/lib/events';
+import { getEventSlug, getEventType, isEventUpcoming, normalizeCountry } from '@/lib/events';
 import { getPublicEvent } from '@/lib/event-public';
 import { NextRequest, NextResponse } from 'next/server';
 import { getStandardApiHeaders } from '@/lib/api-headers';
@@ -59,7 +59,7 @@ export async function GET(request: NextRequest) {
 
     const allEvents = await getEvents();
 
-    let filtered = allEvents;
+    let filtered = allEvents.filter(isEventUpcoming);
 
     if (search) {
       const q = search.toLowerCase().trim();

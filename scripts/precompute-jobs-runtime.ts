@@ -7,7 +7,7 @@ import { buildCompanyLogoMapSync } from '../src/lib/job-logo-map';
 const CACHE_PATH = path.join(process.cwd(), 'content/jobs-cache.json');
 const OUT_PATH = path.join(process.cwd(), 'content/jobs-runtime.json');
 const HOMEPAGE_PATH = path.join(process.cwd(), 'content/homepage-jobs.json');
-const HOMEPAGE_INITIAL = 12;
+const HOMEPAGE_INITIAL = 50;
 
 function main() {
   const raw = JSON.parse(fs.readFileSync(CACHE_PATH, 'utf-8')) as Job[];

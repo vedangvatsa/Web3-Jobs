@@ -1,6 +1,6 @@
 import { EventsBoard } from '@/components/events-board';
 import { getEvents } from '@/lib/events-server';
-import { getEventSlug, type Web3Event } from '@/lib/events';
+import { getEventSlug, isEventUpcoming, type Web3Event } from '@/lib/events';
 import { getPublicEvent } from '@/lib/event-public';
 import type { Metadata } from 'next';
 import { PageHeader } from "@/components/page-header";
@@ -33,6 +33,7 @@ export const revalidate = 300;
 
 export default async function EventsPage() {
   const events = await getEvents();
+  const upcomingEvents = events.filter(isEventUpcoming).map(getPublicEvent);
   const siteUrl = 'https://hashtagweb3.com';
 
   const pageSchema = {
@@ -53,8 +54,8 @@ export default async function EventsPage() {
       {
         '@type': 'ItemList',
         name: 'Upcoming Web3 Conferences & Events',
-        numberOfItems: events.length,
-        itemListElement: events.slice(0, 25).map((event: Web3Event, index: number) => ({
+        numberOfItems: upcomingEvents.length,
+        itemListElement: upcomingEvents.slice(0, 25).map((event, index: number) => ({
           '@type': 'ListItem',
           position: index + 1,
             item: {
@@ -86,7 +87,7 @@ export default async function EventsPage() {
                 </>
               }
             />
-            <EventsBoard initialEvents={events.slice(0, 30).map(getPublicEvent)} />
+            <EventsBoard initialEvents={upcomingEvents} />
           </PageShell>
         </main>
       </div>
