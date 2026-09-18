@@ -2,7 +2,8 @@ import type { Article } from '@/types';
 import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
-import { loadStaticJson } from '@/lib/load-static-json';
+import { fetchSiteAsset } from '@/lib/load-static-json';
+import articlesIndexJson from '../../content/articles-index.json';
 import { replaceArticleTweetEmbeds } from '@/lib/article-tweet-embed';
 import { remark } from 'remark';
 import remarkGfm from 'remark-gfm';
@@ -342,15 +343,10 @@ export async function getAllArticles(): Promise<ArticleMetadata[]> {
  }
 
  if (!articleMetadataCache) {
-  try {
-   const indexed = await loadStaticJson<ArticleMetadata[]>('articles-index.json');
-   if (Array.isArray(indexed) && indexed.length > 0) {
-    articleMetadataCache = indexed;
-   }
-  } catch {
-   // Fall through to filesystem (local Node / build).
-  }
-  if (!articleMetadataCache?.length) {
+  const indexed = articlesIndexJson as ArticleMetadata[];
+  if (Array.isArray(indexed) && indexed.length > 0) {
+   articleMetadataCache = indexed;
+  } else {
    articleMetadataCache = readArticlesFromDirectory(contentArticlesDirectory)
     .sort((a, b) => a.title.localeCompare(b.title));
   }
@@ -445,9 +441,7 @@ export async function getArticle(slug: string): Promise<Article | undefined> {
 
  // Cloudflare Edge: fetch pre-rendered static JSON from CDN
  try {
-  const res = await fetch(`${SITE_ORIGIN}/articles-data/${slug}.json`, {
-   headers: { Accept: 'application/json' },
-  });
+  const res = await fetchSiteAsset(`/articles-data/${slug}.json`);
   if (res.ok) {
    const articleResult = (await res.json()) as Article;
    fullArticleCache.set(slug, articleResult);

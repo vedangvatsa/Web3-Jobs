@@ -20,22 +20,28 @@ function readLocalDataFile(filename: string): unknown | null {
   return null;
 }
 
-async function fetchJsonFromOrigin(relativePath: string): Promise<Response> {
+/** Fetch a static path from the Worker assets binding (no full app re-entry). */
+export async function fetchSiteAsset(relativePath: string, init?: RequestInit): Promise<Response> {
   const urlPath = relativePath.startsWith('/') ? relativePath : `/${relativePath}`;
   const url = `${SITE_ORIGIN}${urlPath}`;
-  const init: RequestInit = { headers: { Accept: 'application/json' } };
+  const requestInit: RequestInit = {
+    ...init,
+    headers: { Accept: 'application/json', ...(init?.headers ?? {}) },
+  };
 
   try {
     const { getCloudflareContext } = await import('@opennextjs/cloudflare');
-    const service = getCloudflareContext()?.env?.WORKER_SELF_REFERENCE;
-    if (service) {
-      return service.fetch(new Request(url, init));
+    const env = getCloudflareContext()?.env;
+    const assets = env?.ASSETS;
+    if (assets) {
+      const assetRes = await assets.fetch(new Request(url, requestInit));
+      if (assetRes.ok) return assetRes;
     }
   } catch {
-    // Not running on Cloudflare Workers (local Node, tests).
+    // Not on Cloudflare Workers (local Node, tests).
   }
 
-  return fetch(url, init);
+  return fetch(url, requestInit);
 }
 
 /** Load large JSON from static /data assets (not bundled in the Worker). */
@@ -49,7 +55,7 @@ export async function loadStaticJson<T>(filename: string): Promise<T> {
     return local as T;
   }
 
-  const res = await fetchJsonFromOrigin(`/data/${filename}`);
+  const res = await fetchSiteAsset(`/data/${filename}`);
   if (!res.ok) {
     throw new Error(`[loadStaticJson] ${filename}: HTTP ${res.status}`);
   }
