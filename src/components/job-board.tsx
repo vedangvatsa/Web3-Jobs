@@ -1,6 +1,7 @@
 'use client';
 
 import type { CompanyLogoMap } from '@/lib/job-listing';
+import { loadJobsCatalog, queryJobsCatalog } from '@/lib/jobs-client-catalog';
 import { getCompanySlug, getJobSlug } from '@/lib/job-slugs';
 import type { Job } from '@/types';
 import { LoaderCircle } from 'lucide-react';
@@ -9,14 +10,6 @@ import { JobCard } from './job-card';
 import { ListingEmptyState, ListingToolbar } from '@/components/listing-toolbar';
 
 const PAGE_SIZE = 50;
-
-interface JobsApiResponse {
-  data: Job[];
-  companyLogos?: CompanyLogoMap;
-  meta: {
-    total: number;
-  };
-}
 
 let trackingModule: Promise<typeof import('@/lib/posthog')> | null = null;
 
@@ -113,23 +106,13 @@ export function JobBoard({
     setIsLoading(true);
     setError(null);
 
-    const params = new URLSearchParams({
-      limit: String(PAGE_SIZE),
-      offset: String(offset),
-    });
-    if (query) params.set('search', query);
-
     try {
-      const response = await fetch(`/api/jobs?${params.toString()}`, {
-        signal: controller.signal,
-        headers: { Accept: 'application/json' },
+      const allJobs = await loadJobsCatalog(controller.signal);
+      const result = queryJobsCatalog(allJobs, {
+        search: query || undefined,
+        limit: PAGE_SIZE,
+        offset,
       });
-      if (!response.ok) throw new Error(`Jobs request failed with ${response.status}`);
-
-      const result = await response.json() as JobsApiResponse;
-      if (!Array.isArray(result.data) || typeof result.meta?.total !== 'number') {
-        throw new Error('Jobs response was malformed');
-      }
 
       setJobs((current) => replace ? result.data : mergeJobs(current, result.data));
       setLogoMap((current) => replace
