@@ -1,15 +1,35 @@
+import fs from 'fs';
+import path from 'path';
 import type { Job } from '@/types';
+import { fetchSiteAsset } from './load-static-json';
 import {
+  createEmptyJobDescriptionShard,
   getJobDescriptionShardFilename,
   getJobDescriptionShardIndex,
   isJobDescriptionShard,
   type JobDescriptionShard,
 } from './job-description-shards';
 
-const SITE_ORIGIN = process.env.NEXT_PUBLIC_SITE_URL?.replace(/\/$/, '') || 'https://hashtagweb3.com';
-
 const descriptionsShardCache = new Map<string, JobDescriptionShard>();
 const shardLoadPromises = new Map<string, Promise<JobDescriptionShard>>();
+
+function readLocalDescriptionShard(filename: string): JobDescriptionShard | null {
+  try {
+    if (typeof fs === 'undefined' || !fs.existsSync) return null;
+    for (const dir of [
+      path.join('public', 'job-description-shards'),
+      path.join('content', 'job-description-shards'),
+    ]) {
+      const filePath = path.join(process.cwd(), dir, filename);
+      if (!fs.existsSync(filePath)) continue;
+      const parsed: unknown = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+      if (isJobDescriptionShard(parsed)) return parsed;
+    }
+  } catch {
+    return null;
+  }
+  return null;
+}
 
 export function getCachedDescriptionShard(filename: string): JobDescriptionShard | undefined {
   return descriptionsShardCache.get(filename);
@@ -25,9 +45,15 @@ export async function ensureDescriptionShardLoaded(job: Job): Promise<JobDescrip
   const cached = descriptionsShardCache.get(filename);
   if (cached) return cached;
 
+  const local = readLocalDescriptionShard(filename);
+  if (local) {
+    descriptionsShardCache.set(filename, local);
+    return local;
+  }
+
   let pending = shardLoadPromises.get(filename);
   if (!pending) {
-    pending = fetch(`${SITE_ORIGIN}/job-description-shards/${filename}`)
+    pending = fetchSiteAsset(`/job-description-shards/${filename}`)
       .then(async (res) => {
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
         const parsed: unknown = await res.json();
@@ -36,10 +62,9 @@ export async function ensureDescriptionShardLoaded(job: Job): Promise<JobDescrip
         return parsed;
       })
       .catch((err) => {
-        console.error(`[job-descriptions] Failed to fetch shard ${filename}:`, err);
-        const empty: JobDescriptionShard = { version: 1, descriptions: {}, aliases: {} };
-        descriptionsShardCache.set(filename, empty);
-        return empty;
+        console.error(`[job-descriptions] Failed to load shard ${filename}:`, err);
+        // Do not cache empty shards — a failed self-fetch must not poison the isolate.
+        return createEmptyJobDescriptionShard();
       })
       .finally(() => {
         shardLoadPromises.delete(filename);
