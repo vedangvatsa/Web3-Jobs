@@ -2,6 +2,8 @@
 
 Hashtag Web3 is **served on Cloudflare Workers** (OpenNext). Firebase is **not** the web host anymore; it is optional **backend data** for a few features.
 
+**High GCP bills?** See [`GCP_COST_AND_SHUTDOWN.md`](GCP_COST_AND_SHUTDOWN.md) — turn off Firebase App Hosting on `web3-job-board-aggregator`; do not re-enable billing just to fix Artifact Registry errors.
+
 ## What Firebase is used for
 
 | Feature | API / code | Needs |

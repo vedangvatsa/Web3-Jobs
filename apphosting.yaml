@@ -1,4 +1,6 @@
-# Settings to manage and configure a Firebase App Hosting backend.
+# LEGACY — production is Cloudflare Workers (see docs/FIREBASE_AND_CLOUDFLARE.md).
+# Firebase App Hosting on this repo is expensive (Cloud Build + always-on instances).
+# Disable backends in Firebase Console and disconnect GitHub before re-enabling GCP billing.
 # https://firebase.google.com/docs/app-hosting/configure
 
 # The command that installs dependencies.
@@ -43,12 +45,10 @@ env:
       - RUNTIME
 
 runConfig:
-  cpu: 2
-  memoryMiB: 4096
-  # Keep one instance always warm to eliminate cold-start latency (15-30s).
-  minInstances: 1
-  # Increase this value if you'd like to automatically spin up
-  # more instances in response to increased traffic.
-  maxInstances: 2
+  cpu: 1
+  memoryMiB: 2048
+  # minInstances: 1 costs ~24/7 Cloud Run-style billing (was a major GCP bill driver).
+  minInstances: 0
+  maxInstances: 1
   # Number of concurrent requests a single instance can handle.
   concurrency: 80
