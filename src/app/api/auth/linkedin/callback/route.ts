@@ -3,7 +3,7 @@
  * GET /api/auth/linkedin/callback?code=...&state=...
  */
 
-import admin from 'firebase-admin';
+import { getAdminFirestore } from '@/lib/firebase-admin-server';
 import { getLinkedInAccessToken } from '@/lib/linkedin';
 import { NextRequest, NextResponse } from 'next/server';
 
@@ -42,8 +42,16 @@ export async function GET(request: NextRequest) {
   // Exchange code for access token
   const accessToken = await getLinkedInAccessToken(code);
 
-  // Store access token in Firestore admin config
-  const db = admin.firestore();
+  const db = getAdminFirestore();
+  if (!db) {
+    return apiError(
+      'DB_NOT_CONFIGURED',
+      'Firebase Admin is not configured.',
+      'Set FIREBASE_SERVICE_ACCOUNT_KEY on the Worker for the target Firebase project.',
+      503
+    );
+  }
+
   await db.collection('config').doc('linkedin').set(
    {
     accessToken,

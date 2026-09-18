@@ -1,6 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { collection, getDocs } from 'firebase/firestore';
-import { serverFirestore } from '@/firebase/server-init';
+import { getAdminFirestore } from '@/lib/firebase-admin-server';
 import { sendBatchJobAlerts, type JobListing } from '@/lib/email';
 
 export const dynamic = 'force-dynamic';
@@ -52,13 +51,16 @@ export async function POST(request: NextRequest) {
     return apiError('MISSING_JOBS', 'No jobs provided.', 'POST { "jobs": [{...}], "dryRun": true } to test without sending.', 400);
   }
 
-  // Fetch all subscribers from Firestore
-  const db = serverFirestore;
+  const db = getAdminFirestore();
   if (!db) {
-    return apiError('DB_NOT_CONFIGURED', 'Database not configured.', 'Configure Firestore server credentials.', 503);
+    return apiError(
+      'DB_NOT_CONFIGURED',
+      'Database not configured.',
+      'Set FIREBASE_SERVICE_ACCOUNT_KEY and NEXT_PUBLIC_FIREBASE_* for your Firebase project, then sync Cloudflare Worker secrets.',
+      503
+    );
   }
-  const subscribersCol = collection(db, 'subscribers');
-  const snapshot = await getDocs(subscribersCol);
+  const snapshot = await db.collection('subscribers').get();
 
   if (snapshot.empty) {
     return apiOk({
