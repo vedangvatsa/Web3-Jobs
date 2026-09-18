@@ -1,0 +1,22 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "hashtagweb3",
+  "main": ".open-next/worker.js",
+  "account_id": "90e3caa7ef0a0ac0c1fd38c05b458183",
+  "compatibility_date": "2025-09-01",
+  "compatibility_flags": ["nodejs_compat", "global_fetch_strictly_public"],
+  "assets": {
+    "directory": ".open-next/assets",
+    "binding": "ASSETS"
+  },
+  "services": [
+    {
+      "binding": "WORKER_SELF_REFERENCE",
+      "service": "hashtagweb3"
+    }
+  ],
+  "routes": [
+    { "pattern": "hashtagweb3.com", "zone_name": "hashtagweb3.com", "custom_domain": true },
+    { "pattern": "www.hashtagweb3.com", "zone_name": "hashtagweb3.com", "custom_domain": true }
+  ]
+}
