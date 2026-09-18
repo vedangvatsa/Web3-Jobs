@@ -1,6 +1,6 @@
 import { getJobs } from '@/lib/jobs';
 import { getPublicJobUrl } from '@/lib/job-slugs';
-import { buildCompanyLogoMap } from '@/lib/job-listing';
+import { buildCompanyLogoMapSync } from '@/lib/job-listing';
 import { NextRequest, NextResponse } from 'next/server';
 import { getStandardApiHeaders } from '@/lib/api-headers';
 import type { Job } from '@/types';
@@ -106,7 +106,7 @@ export async function GET(request: NextRequest) {
 
     const total = filtered.length;
     const paginated = filtered.slice(offset, offset + limit);
-    const companyLogos = await buildCompanyLogoMap(paginated);
+    const companyLogos = buildCompanyLogoMapSync(paginated);
 
     const nextOffset = offset + limit < total ? offset + limit : null;
     const prevOffset = offset - limit >= 0 ? offset - limit : null;

@@ -151,10 +151,6 @@ const nextConfig = {
       { source: '/logo-bimi.svg', destination: '/logo/logo-bimi.svg' },
       { source: '/bimi.svg', destination: '/logo/bimi.svg' },
       { source: '/bimi.png', destination: '/logo/bimi.png' },
-      {
-        source: '/api/v1/:path*',
-        destination: '/api/:path*',
-      },
     ];
   },
   async headers() {
