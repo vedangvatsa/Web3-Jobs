@@ -177,7 +177,7 @@ const LOGO_PATHS = (slug: string): string[] => {
 
   return candidates.flatMap((candidate) => {
     const lower = candidate.toLowerCase();
-    // Prefer PNG first — /api/og job cards rewrite webp→png and need a real PNG file.
+    // Prefer PNG first — sharper on job cards and company pages than webp/svg.
     return [
       `/logo/companies/${candidate}.png`,
       `/logo/companies/${lower}.png`,

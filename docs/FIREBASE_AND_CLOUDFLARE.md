@@ -6,12 +6,9 @@ Hashtag Web3 is **served on Cloudflare Workers** (OpenNext). Firebase is **not**
 
 ## What Firebase is used for
 
-| Feature | API / code | Needs |
-|---------|------------|--------|
-| Legacy job-alert subscriber list | `POST /api/send-job-alerts` | Firestore `subscribers` + Admin SDK |
-| LinkedIn OAuth token storage | `GET /api/auth/linkedin/callback` | Firestore `config/linkedin` + Admin SDK |
+LinkedIn/Threads social posting uses **env tokens** (`LINKEDIN_ACCESS_TOKEN`, `THREADS_ACCESS_TOKEN`) refreshed via local scripts — not production OAuth callback routes.
 
-Public job board, Resend broadcasts, and unsubscribe use **Resend** and **static JSON** — not Firestore.
+Public job board, Resend broadcasts (`daily-job-alerts.yml`), and unsubscribe (`/api/email/unsubscribe`) use **Resend** and **static JSON** — not Firestore.
 
 **Switching Firebase projects does not fix Cloudflare Error 1102.** That is Worker CPU/memory on the Next.js bundle. Keep the static-json and precompute work on Cloudflare; use Firebase only where Firestore is required.
 
@@ -44,9 +41,10 @@ Public job board, Resend broadcasts, and unsubscribe use **Resend** and **static
 npx tsx scripts/verify-firebase-connection.ts
 ```
 
-Then on production (with `CRON_SECRET`):
+Then on production:
 
-- `POST /api/send-job-alerts` with `{ "jobs": [...], "dryRun": true }` should not return `DB_NOT_CONFIGURED`.
+- `npx tsx scripts/verify-firebase-connection.ts` should succeed if Admin SDK credentials are set (optional).
+- Social posting needs `LINKEDIN_ACCESS_TOKEN` / `THREADS_ACCESS_TOKEN` in Worker/Action secrets — obtain via local OAuth scripts, not site callbacks.
 
 ## Cloudflare stays primary
 

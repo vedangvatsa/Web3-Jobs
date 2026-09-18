@@ -15,7 +15,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
  if (!category) return {};
  const siteUrl = 'https://hashtagweb3.com';
  const pageTitle = `${category.title} - Learn Web3`;
- const ogImageUrl = `${siteUrl}/api/og?type=article&title=${encodeURIComponent(category.title)}&category=Learn%20Web3`;
+ const ogImageUrl = `${siteUrl}/og-image-blog.png`;
  return {
   title: pageTitle,
   description: category.description,

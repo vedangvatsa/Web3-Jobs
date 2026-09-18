@@ -6,7 +6,9 @@
     "description": "Public REST API for Hashtag Web3 (hashtagweb3.com). Search live Web3 jobs, crypto industry news, global blockchain conferences & hackathons, and the 200+ term Web3 glossary. Optimized for LLM agents, automated scripts, and developer integrations.",
     "x-api-versioning": {
       "policy": "URI path versioning (/api/v1/)",
-      "deprecation": "We signal deprecation using standard Deprecation and Sunset HTTP headers in API responses, with a minimum 6-month notice period."
+      "deprecation": "We signal deprecation using standard Deprecation and Sunset HTTP headers in API responses, with a minimum 12-month advance notice period.",
+      "policyUrl": "https://hashtagweb3.com/api-policy",
+      "documentationUrl": "https://hashtagweb3.com/developers"
     },
     "contact": {
       "name": "Hashtag Web3 Developer Support",
@@ -17,16 +19,26 @@
     "license": {
       "name": "MIT",
       "url": "https://opensource.org/licenses/MIT"
+    },
+    "x-payment-info": {
+      "pricing": "free",
+      "currency": "USD",
+      "model": "open_access",
+      "description": "Public REST API endpoints and MCP servers are 100% free and open-access. No payment required."
     }
   },
   "servers": [
     {
       "url": "https://hashtagweb3.com/api/v1",
-      "description": "Production server (v1 API)"
+      "description": "Production Server (Live Data)"
+    },
+    {
+      "url": "https://hashtagweb3.com/api/sandbox",
+      "description": "Sandbox / Test Environment (Mock Data, Zero-Auth, Safe Testing)"
     },
     {
       "url": "https://hashtagweb3.com",
-      "description": "Production server root"
+      "description": "Production Server Root"
     }
   ],
   "paths": {
@@ -128,7 +140,7 @@
             }
           },
           "400": {
-            "description": "Bad Request — Invalid query parameters.",
+            "description": "Bad Request \u2014 Invalid query parameters.",
             "content": {
               "application/json": {
                 "schema": {
@@ -248,7 +260,7 @@
             }
           },
           "400": {
-            "description": "Bad Request — Invalid query parameters.",
+            "description": "Bad Request \u2014 Invalid query parameters.",
             "content": {
               "application/json": {
                 "schema": {
@@ -1015,7 +1027,8 @@
           "link": {
             "type": "string",
             "format": "uri",
-            "example": "https://hashtagweb3.com/jobs"
+            "description": "Canonical Hashtag Web3 job page. All job links stay on hashtagweb3.com; the page carries the Apply action.",
+            "example": "https://hashtagweb3.com/jobs/job-1049"
           },
           "tags": {
             "type": "array",
@@ -1097,7 +1110,8 @@
           "link": {
             "type": "string",
             "format": "uri",
-            "example": "https://cointelegraph.com/..."
+            "description": "Hashtag Web3 article page. The news API returns our own reporting only.",
+            "example": "https://hashtagweb3.com/ethereum-layer-2-surge"
           },
           "pubDate": {
             "type": "string",
@@ -1106,7 +1120,8 @@
           },
           "source": {
             "type": "string",
-            "example": "Cointelegraph"
+            "description": "Always Hashtag Web3 for API results.",
+            "example": "Hashtag Web3"
           },
           "contentSnippet": {
             "type": "string",
@@ -1191,7 +1206,8 @@
           "url": {
             "type": "string",
             "format": "uri",
-            "example": "https://hashtagweb3.com/events/ethdenver-2026"
+            "description": "Canonical Hashtag Web3 event page. All event links stay on hashtagweb3.com; the page carries registration details.",
+            "example": "https://hashtagweb3.com/ethdenver-2026"
           }
         }
       },

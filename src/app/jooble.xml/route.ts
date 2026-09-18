@@ -1,7 +1,7 @@
-import { GET as getJoobleFeed } from '../jobs/feed-aggregator.xml/route';
+import { buildJoobleFeedResponse } from '@/lib/job-aggregator-feed';
 
 export const revalidate = 3600;
 
 export async function GET() {
-  return getJoobleFeed();
+  return buildJoobleFeedResponse();
 }

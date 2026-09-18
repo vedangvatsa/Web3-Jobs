@@ -2,12 +2,12 @@
   "$schema": "https://schema.org/sitemap",
   "name": "Hashtag Web3",
   "url": "https://hashtagweb3.com",
-  "generatedAt": "2026-09-18T16:13:12.958Z",
+  "generatedAt": "2026-09-18T20:12:11.150Z",
   "publisher": {
     "name": "Hashtag Web3",
     "url": "https://hashtagweb3.com"
   },
-  "count": 8349,
+  "count": 8347,
   "urls": [
     {
       "url": "https://hashtagweb3.com",
@@ -49888,12 +49888,6 @@
       "priority": 0.7
     },
     {
-      "url": "https://hashtagweb3.com/wsad",
-      "lastmod": "2026-09-18",
-      "changefreq": "weekly",
-      "priority": 0.6
-    },
-    {
       "url": "https://hashtagweb3.com/xapo-bank",
       "lastmod": "2026-09-15",
       "changefreq": "weekly",
@@ -49991,12 +49985,6 @@
     },
     {
       "url": "https://hashtagweb3.com/zanzalu",
-      "lastmod": "2026-09-18",
-      "changefreq": "weekly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/zbha",
       "lastmod": "2026-09-18",
       "changefreq": "weekly",
       "priority": 0.6

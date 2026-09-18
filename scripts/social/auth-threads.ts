@@ -12,7 +12,7 @@ const APP_ID = '1504312414704579';
 const APP_SECRET = '***REMOVED-THREADS-SECRET***';
 
 // HTTPS Redirect URI compliant with Meta Security Rules
-const REDIRECT_URI = `https://hashtagweb3.com/api/auth/threads/callback`;
+const REDIRECT_URI = `http://localhost:3001/auth`;
 
 app.get('/', (req, res) => {
  const authUrl = `https://threads.net/oauth/authorize?client_id=${APP_ID}&redirect_uri=${encodeURIComponent(REDIRECT_URI)}&scope=threads_basic,threads_content_publish&response_type=code`;

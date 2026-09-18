@@ -13,10 +13,8 @@ Allow: /agents.txt
 Allow: /llms.txt
 Allow: /llms-full.txt
 Allow: /.well-known/
-Allow: /api/auth/
 Allow: /_next/static/
 Disallow: /_next/
-Disallow: /api/send-job-alerts
 
 # ─── AI SEARCH & AGENT CRAWLERS (Explicitly Allowed) ───
 
@@ -154,8 +152,8 @@ Sitemap: https://hashtagweb3.com/sitemap.xml
 Sitemap: https://hashtagweb3.com/.well-known/sitemap.json
 Agents-txt: https://hashtagweb3.com/agents.txt
 schemamap: https://hashtagweb3.com/schemamap.xml
-# Job Feeds (RSS / XML Aggregator / JSON Feed)
+# Job Feeds (RSS / Jooble XML / JSON Feed)
 # RSS Feed: https://hashtagweb3.com/jobs/feed.xml
-# Aggregator XML: https://hashtagweb3.com/jobs/feed-aggregator.xml
+# Jooble XML: https://hashtagweb3.com/jooble.xml
 # JSON Feed: https://hashtagweb3.com/jobs/feed.json
 Content-Signal: search=yes, ai-train=no

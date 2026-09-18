@@ -38,7 +38,7 @@ const articles: FooterArticle[] = files
     const image =
       typeof data.image === 'string' && data.image && !data.image.includes('picsum.photos')
         ? data.image
-        : `https://hashtagweb3.com/api/og?type=article&title=${encodeURIComponent(data.title)}&category=${encodeURIComponent(category)}`;
+        : category === 'News' ? 'https://hashtagweb3.com/og-news.png' : 'https://hashtagweb3.com/og-image-blog.png';
 
     return {
       slug,

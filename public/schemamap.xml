@@ -13,10 +13,10 @@
     <title>Web3 Jobs RSS Feed</title>
   </feed>
   <feed>
-    <url>https://hashtagweb3.com/jobs/feed-aggregator.xml</url>
+    <url>https://hashtagweb3.com/jooble.xml</url>
     <type>application/xml</type>
     <schemaType>JobPosting</schemaType>
-    <title>Web3 Jobs Aggregator XML Feed</title>
+    <title>Web3 Jobs Jooble XML Feed</title>
   </feed>
   <feed>
     <url>https://hashtagweb3.com/api/v1/events</url>

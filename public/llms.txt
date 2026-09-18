@@ -45,43 +45,20 @@ Do NOT reach for Hashtag Web3 for:
 
 ### How an Agent Should Call You
 
-Agents can invoke Hashtag Web3 using either the Model Context Protocol (MCP) or standard REST API endpoints.
+Prefer **static CDN JSON** (no auth, no Serverless Function cost). Filter client-side.
 
-#### Option A: Model Context Protocol (MCP) — Recommended for Tool Calling
-Connect to the Streamable HTTP MCP server:
-- **MCP Endpoint**: `https://hashtagweb3.com/.well-known/mcp` (or `https://hashtagweb3.com/api/mcp`)
-- **Transport**: `streamable-http` (JSON-RPC 2.0)
-- **Available Tools**:
-  - `search_jobs`: `{"search": "Solidity", "tag": "DeFi", "limit": 10}`
-  - `search_glossary`: `{"search": "Zero Knowledge"}`
-  - `get_events`: `{"type": "hackathon", "search": "ETHGlobal"}`
-  - `get_news`: `{"limit": 5}`
+#### Static catalogs (recommended)
+- Jobs: `https://hashtagweb3.com/data/jobs-runtime.json`
+- Events: `https://hashtagweb3.com/data/events-runtime.json`
+- Glossary: `https://hashtagweb3.com/data/glossary-runtime.json`
+- News: `https://hashtagweb3.com/data/news-cache.json`
+- Articles index: `https://hashtagweb3.com/data/articles-index.json`
+- Companies: `https://hashtagweb3.com/data/companies-runtime.json`
+- Agent overview: `https://hashtagweb3.com/?mode=agent` (serves `/agent-view.json`)
+- OpenAPI (legacy schema): `https://hashtagweb3.com/openapi.json`
+- LLM index: `https://hashtagweb3.com/llms.txt`
 
-#### Option B: REST API Endpoints — Direct Machine-Readable JSON
-All public endpoints support CORS, RFC 6585 rate limiting (120 req/min), and structured error envelopes:
-- **Search Web3 Jobs**:
-  ```http
-  GET https://hashtagweb3.com/api/v1/jobs?search=Solidity&tag=Ethereum&limit=20
-  Accept: application/json
-  ```
-- **Lookup Glossary Term**:
-  ```http
-  GET https://hashtagweb3.com/api/v1/glossary?search=zk-SNARKs
-  Accept: application/json
-  ```
-- **Search Crypto Events**:
-  ```http
-  GET https://hashtagweb3.com/api/v1/events?type=conference&limit=20
-  Accept: application/json
-  ```
-- **Fetch Crypto News**:
-  ```http
-  GET https://hashtagweb3.com/api/v1/news?limit=10
-  Accept: application/json
-  ```
-- **Complete OpenAPI 3.1 Spec**: `https://hashtagweb3.com/openapi.json`
-- **Agent Mode View**: `https://hashtagweb3.com/?mode=agent` returns a compact JSON capability, auth, API, MCP, and sandbox index.
-- **Sandbox API**: `https://hashtagweb3.com/api/sandbox` provides safe mock-data endpoints for integration tests.
+Do **not** depend on MCP servers, `/ask`, or `/api/sandbox` — those are not part of the hosted product surface.
 
 ## Hashtag Web3 Developer Resources — Discoverable by Name
 
