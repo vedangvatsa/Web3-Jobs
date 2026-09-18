@@ -1237,7 +1237,7 @@ async function postToInstagram(
 // ── Deploy-quiet gate ──
 
 // Social crawlers scrape new post URLs within minutes of publishing. If an
-// App Hosting rollout is in flight (cold starts, traffic migration), the
+// A production deploy is in flight (Cloudflare Worker / legacy App Hosting), the
 // scrape fails and the miss is cached for days — the #1 observed cause of
 // cardless posts. So before publishing, wait for any in-flight production
 // rollout to finish. If the status API is unavailable or the rollout takes
@@ -1266,17 +1266,19 @@ async function waitForQuietDeploy(): Promise<void> {
       if (!checksRes.ok) throw new Error(`check-runs API HTTP ${checksRes.status}`);
       const runs = (((await checksRes.json()) as any)?.check_runs || []) as Array<{ name: string; status: string }>;
       const busy = runs.some(
-        (r) => /app hosting/i.test(r.name) && (r.status === 'in_progress' || r.status === 'queued')
+        (r) =>
+          (/deploy cloudflare worker/i.test(r.name) || /app hosting/i.test(r.name)) &&
+          (r.status === 'in_progress' || r.status === 'queued')
       );
       if (!busy) {
-        console.log('Deploy gate: no App Hosting rollout in flight — prod stable, publishing.');
+        console.log('Deploy gate: no production deploy in flight — prod stable, publishing.');
         return;
       }
       if (Date.now() >= deadline) {
-        console.warn('Deploy gate: rollout still in flight after 15 min — proceeding to candidate preview checks.');
+        console.warn('Deploy gate: deploy still in flight after 15 min — proceeding to candidate preview checks.');
         return;
       }
-      console.log('Deploy gate: App Hosting rollout in flight — waiting 60s before publishing...');
+      console.log('Deploy gate: production deploy in flight — waiting 60s before publishing...');
       await new Promise((r) => setTimeout(r, 60000));
     } catch (err) {
       console.warn(`Deploy gate check failed: ${(err as Error).message} — proceeding to candidate preview checks.`);
