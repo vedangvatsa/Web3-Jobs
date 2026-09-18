@@ -2,7 +2,7 @@
 
 import { useState, useMemo, useRef, useEffect } from 'react';
 import Link from 'next/link';
-import { type PublicWeb3Event, getEventSlug, getEventCity, normalizeCountry } from '@/lib/events';
+import { type PublicWeb3Event, getEventSlug, getEventCity, normalizeCountry, isEventUpcoming } from '@/lib/events';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
 import { Calendar, MapPin, ExternalLink, LayoutGrid, Map as MapIcon } from 'lucide-react';
@@ -72,12 +72,7 @@ export function EventsBoard({ initialEvents }: { initialEvents: PublicWeb3Event[
     if (!Array.isArray(events)) return [];
     return events.filter(event => {
       if (!event || typeof event !== 'object') return false;
-
-      // Exclude past events safely
-      const rawEnd = event.endDate || event.startDate;
-      if (!rawEnd) return false;
-      const eventEnd = new Date(rawEnd);
-      if (!isNaN(eventEnd.getTime()) && eventEnd < now) return false;
+      if (!isEventUpcoming(event, now)) return false;
 
       // Search
       const q = searchQuery.toLowerCase();
@@ -206,35 +201,8 @@ export function EventsBoard({ initialEvents }: { initialEvents: PublicWeb3Event[
   const [selectedDateEvents, setSelectedDateEvents] = useState<{ date: Date; events: PublicWeb3Event[] } | null>(null);
 
   useEffect(() => {
-    const loadRemainingEvents = async () => {
-      let offset = initialEvents.length;
-      let allEvents = initialEvents;
-
-      while (true) {
-        const response = await fetch(`/api/events?limit=200&offset=${offset}`, {
-          headers: { Accept: 'application/json' },
-        });
-        if (!response.ok) return;
-
-        const result = await response.json() as { data?: PublicWeb3Event[]; meta?: { total?: number } };
-        const nextEvents = result.data || [];
-        if (nextEvents.length === 0) return;
-
-        allEvents = [...allEvents, ...nextEvents];
-        setEvents(allEvents);
-        offset = allEvents.length;
-        if (offset >= (result.meta?.total || 0)) return;
-      }
-    };
-
-    if (document.readyState === 'complete') {
-      void loadRemainingEvents();
-      return;
-    }
-
-    const onLoad = () => void loadRemainingEvents();
-    window.addEventListener('load', onLoad, { once: true });
-    return () => window.removeEventListener('load', onLoad);
+    setEvents(initialEvents);
+    setVisibleCount(INITIAL_COUNT);
   }, [initialEvents]);
 
   return (

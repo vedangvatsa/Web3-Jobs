@@ -138,6 +138,10 @@ export function JobBoard({
   }, []);
 
   useEffect(() => {
+    void requestJobs('', 0, true);
+  }, [requestJobs]);
+
+  useEffect(() => {
     if (isFirstSearchEffect.current) {
       isFirstSearchEffect.current = false;
       return;
@@ -147,16 +151,12 @@ export function JobBoard({
     loadingRef.current = false;
 
     if (!searchQuery) {
-      setJobs(initialJobs);
-      setTotal(initialTotal);
-      setLogoMap(companyLogos);
-      setError(null);
-      setIsLoading(false);
+      void requestJobs('', 0, true);
       return;
     }
 
     void requestJobs(searchQuery, 0, true);
-  }, [companyLogos, initialJobs, initialTotal, requestJobs, searchQuery]);
+  }, [requestJobs, searchQuery]);
 
   const hasMore = jobs.length < total;
 
@@ -205,7 +205,7 @@ export function JobBoard({
           'data-toolname': 'searchWeb3Jobs',
           'data-tooldescription': 'Search current Web3 job listings by role or company.',
         }}
-        resultCount={searchQuery && !isLoading ? total : null}
+        resultCount={!isLoading ? total : null}
       />
 
       <div ref={gridRef} className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">

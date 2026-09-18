@@ -374,6 +374,17 @@ export function getEventEcosystems(event: Web3Event): string[] {
   return Array.from(matched).slice(0, 3);
 }
 
+/** True if the event has not ended yet (matches /events listing filter). */
+export function isEventUpcoming(
+  event: Pick<Web3Event, 'startDate' | 'endDate'>,
+  now: Date = new Date(),
+): boolean {
+  const rawEnd = event.endDate || event.startDate;
+  if (!rawEnd) return false;
+  const eventEnd = new Date(rawEnd);
+  return !isNaN(eventEnd.getTime()) && eventEnd >= now;
+}
+
 export function formatEventDate(startDate: string, endDate?: string): string {
   if (!startDate) return 'TBA';
   const start = new Date(startDate);
