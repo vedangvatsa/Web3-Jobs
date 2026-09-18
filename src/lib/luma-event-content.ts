@@ -67,33 +67,88 @@ export function buildEditorialFromOrganizerDescription(event: Web3Event): EventE
     };
   }
 
-  const rawParagraphs = ownDescription
-    .split(/\n\n+/)
-    .map((p) => p.trim())
-    .filter((p) => p.length > 0);
+function isHeaderLine(line: string): boolean {
+  const trimmed = line.trim();
+  if (!trimmed || trimmed.length > 60 || trimmed.length < 2) return false;
+  if (/^[-*•·▪–—#]/.test(trimmed)) return false;
+  if (/^[A-Za-z0-9\s&/'°!?,.-]{2,50}:$/.test(trimmed)) return true;
+  if (/^(?:agenda|schedule|speakers|hosts|co-hosts?|partners|community partners|venue|location|rules|about the event)$/i.test(trimmed)) return true;
+  return false;
+}
 
-  const firstSummarySentence =
-    rawParagraphs.length > 0
-      ? rawParagraphs[0].endsWith('.')
-        ? rawParagraphs[0]
-        : `${rawParagraphs[0]}.`
-      : '';
+function parseOrganizerDescriptionSections(ownDescription: string): { lead: string; sections: Array<{ heading: string; content: string[] }> } {
+  const lines = ownDescription.split('\n');
+  const normalizedBlocks: string[] = [];
+  let currentBlockLines: string[] = [];
+
+  for (let i = 0; i < lines.length; i++) {
+    const line = lines[i];
+    const trimmed = line.trim();
+    if (isHeaderLine(trimmed) && currentBlockLines.length > 0) {
+      normalizedBlocks.push(currentBlockLines.join('\n').trim());
+      currentBlockLines = [line];
+    } else {
+      if (trimmed === '') {
+        if (currentBlockLines.length > 0) {
+          normalizedBlocks.push(currentBlockLines.join('\n').trim());
+          currentBlockLines = [];
+        }
+      } else {
+        currentBlockLines.push(line);
+      }
+    }
+  }
+  if (currentBlockLines.length > 0) {
+    normalizedBlocks.push(currentBlockLines.join('\n').trim());
+  }
+
+  const rawParagraphs = normalizedBlocks.filter((p) => p.length > 0);
+  if (rawParagraphs.length === 0) return { lead: '', sections: [] };
+
+  const lead = rawParagraphs[0];
+  const remaining = rawParagraphs.slice(1);
+
+  const sections: Array<{ heading: string; content: string[] }> = [];
+  let currentHeading = 'About the event';
+  let currentContent: string[] = [];
+
+  for (const block of remaining) {
+    const blockLines = block.split('\n');
+    const firstLine = blockLines[0].trim();
+    if (isHeaderLine(firstLine)) {
+      if (currentContent.length > 0) {
+        sections.push({ heading: currentHeading, content: currentContent });
+        currentContent = [];
+      }
+      currentHeading = firstLine.replace(/:$/, '').trim();
+      const rest = blockLines.slice(1).join('\n').trim();
+      if (rest) currentContent.push(rest);
+    } else {
+      currentContent.push(block);
+    }
+  }
+
+  if (currentContent.length > 0) {
+    sections.push({ heading: currentHeading, content: currentContent });
+  }
+
+  return { lead, sections };
+}
+
+  const { lead: firstSummaryParagraph, sections } = parseOrganizerDescriptionSections(ownDescription);
+
+  const firstSummarySentence = firstSummaryParagraph
+    ? firstSummaryParagraph.endsWith('.')
+      ? firstSummaryParagraph
+      : `${firstSummaryParagraph}.`
+    : '';
 
   const summaryLead = firstSummarySentence
     ? `${event.name} on ${formattedDates} ${locationStr}. ${firstSummarySentence}`
     : `${event.name} on ${formattedDates} ${locationStr}.`;
 
-  if (rawParagraphs.length <= 1) {
-    return { summaryLead, sections: [] };
-  }
-
   return {
     summaryLead,
-    sections: [
-      {
-        heading: 'About the event',
-        content: rawParagraphs.slice(1),
-      },
-    ],
+    sections,
   };
 }
