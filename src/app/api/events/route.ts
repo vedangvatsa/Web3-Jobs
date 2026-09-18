@@ -59,7 +59,7 @@ export async function GET(request: NextRequest) {
 
     const allEvents = await getEvents();
 
-    let filtered = allEvents.filter(isEventUpcoming);
+    let filtered = allEvents.filter((event) => isEventUpcoming(event));
 
     if (search) {
       const q = search.toLowerCase().trim();
