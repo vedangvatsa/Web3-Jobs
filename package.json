@@ -53,8 +53,8 @@
     "ingest:global": "npx tsx scripts/ingest-global-ecosystem-feeds.ts",
     "ingest:untracked": "npx tsx scripts/ingest-untracked-web3-companies.ts",
     "build": "next build",
-    "build:cloudflare": "opennextjs-cloudflare build",
-    "deploy:cloudflare": "opennextjs-cloudflare build && opennextjs-cloudflare deploy",
+    "build:cloudflare": "env -u CLOUDFLARE_API_KEY -u CLOUDFLARE_EMAIL opennextjs-cloudflare build",
+    "deploy:cloudflare": "env -u CLOUDFLARE_API_KEY -u CLOUDFLARE_EMAIL opennextjs-cloudflare build && env -u CLOUDFLARE_API_KEY -u CLOUDFLARE_EMAIL opennextjs-cloudflare deploy",
     "postbuild": "mkdir -p public/data public/job-description-shards && cp content/jobs-runtime.json content/events-runtime.json public/data/ 2>/dev/null || true && cp -r content/job-description-shards/. public/job-description-shards/ 2>/dev/null || true && mkdir -p .next/standalone/public && cp -r public/. .next/standalone/public/ 2>/dev/null || true && mkdir -p .next/standalone/.next/static && cp -r .next/static/* .next/standalone/.next/static/ 2>/dev/null || true",
 
     "start": "node .next/standalone/server.js",
