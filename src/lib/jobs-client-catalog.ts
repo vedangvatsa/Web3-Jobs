@@ -13,7 +13,6 @@ function getJobTags(job: Job): string[] {
 export function loadJobsCatalog(signal?: AbortSignal): Promise<Job[]> {
   if (!catalogPromise) {
     catalogPromise = fetch('/data/jobs-runtime.json', {
-      signal,
       headers: { Accept: 'application/json' },
       cache: 'force-cache',
     }).then(async (res) => {
@@ -27,6 +26,9 @@ export function loadJobsCatalog(signal?: AbortSignal): Promise<Job[]> {
         throw new Error('Jobs catalog malformed');
       }
       return data as Job[];
+    }).catch((err) => {
+      catalogPromise = null;
+      throw err;
     });
   }
   return catalogPromise;
