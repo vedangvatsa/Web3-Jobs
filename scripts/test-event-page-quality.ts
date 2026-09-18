@@ -5,6 +5,7 @@ import {
   isThinEventListingDescription,
   sanitizeEventEditorial,
 } from '../src/lib/event-editorial-facts';
+import { buildEditorialFromOrganizerDescription } from '../src/lib/luma-event-content';
 
 const cryptoBlo: Web3Event = {
   id: 'luma-crypto-PJA3o7ucniYAKBP',
@@ -48,5 +49,30 @@ const sanitized = sanitizeEventEditorial({
 });
 assert.equal(sanitized.ticketPricing, undefined);
 assert.equal(sanitized.expectedAttendance, '10,000+ attendees');
+
+const lumaMultiParagraph: Web3Event = {
+  id: 'luma-test-multiline',
+  slug: 'luma-test-multiline',
+  name: 'Sample Luma Event',
+  description:
+    'Opening paragraph about the event.\nSecond paragraph with more detail.\nWhat to expect\nCo-working all day\nSchedule\n11:00 AM - Brunch\n12:00 PM - Panel',
+  startDate: '2026-09-19T12:00:00.000Z',
+  endDate: '2026-09-19T20:00:00.000Z',
+  city: 'New York',
+  country: 'United States',
+  location: 'New York, United States',
+  url: 'https://luma.com/example',
+  source: 'luma-crypto',
+  price: 'Free',
+};
+
+const lumaEditorial = buildEditorialFromOrganizerDescription(lumaMultiParagraph);
+assert.ok(lumaEditorial.summaryLead.length < 160, 'summary lead should be date/meta only');
+assert.equal(lumaEditorial.sections.some((s) => s.heading === 'What to expect'), true);
+assert.equal(lumaEditorial.sections.some((s) => s.heading === 'Schedule'), true);
+assert.ok(
+  lumaEditorial.sections.find((s) => s.heading === 'About the event')!.content.length >= 2,
+  'intro paragraphs should land in About the event',
+);
 
 console.log('Event page quality tests passed.');
