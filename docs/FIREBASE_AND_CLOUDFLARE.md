@@ -51,3 +51,42 @@ Then on production (with `CRON_SECRET`):
 - Deploy site: **Deploy Cloudflare Worker** workflow or `npm run deploy:cloudflare`.
 - Do **not** point `hashtagweb3.com` DNS back to Firebase App Hosting if Workers is production.
 - `apphosting.yaml` is legacy; safe to ignore unless you run a staging backend on Firebase.
+
+For **Firestore + Cloudflare only**, you can skip App Hosting entirely: complete steps 1–7 above and ignore Firebase App Hosting rollouts.
+
+## Optional: Firebase App Hosting on a new project
+
+If you connect GitHub to **App Hosting** in `web3-jobs-aggregator` (or any new project), Cloud Build runs **before** `npm run build`. Step **preparer** reads secrets named in [`apphosting.yaml`](../apphosting.yaml) from **Google Cloud Secret Manager** in that same GCP project.
+
+### Error: `fah/misconfigured-secret` / `secretmanager.versions.get` PermissionDenied
+
+The secret is missing **or** the App Hosting backend service account cannot read it. GitHub Actions secrets do **not** apply to App Hosting; you must configure secrets in the **new** Firebase/GCP project.
+
+1. Install/login Firebase CLI and select the project:
+   ```bash
+   firebase login
+   firebase use web3-jobs-aggregator
+   ```
+2. Create each secret (repeat for every `secret:` entry in `apphosting.yaml`):
+   ```bash
+   firebase apphosting:secrets:set NEXT_PUBLIC_FIREBASE_API_KEY
+   firebase apphosting:secrets:set NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN
+   firebase apphosting:secrets:set NEXT_PUBLIC_FIREBASE_PROJECT_ID
+   firebase apphosting:secrets:set NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET
+   firebase apphosting:secrets:set NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID
+   firebase apphosting:secrets:set NEXT_PUBLIC_FIREBASE_APP_ID
+   firebase apphosting:secrets:set NEXT_PUBLIC_FIREBASE_MEASUREMENT_ID
+   firebase apphosting:secrets:set RESEND_API_KEY
+   firebase apphosting:secrets:set CRON_SECRET
+   ```
+   Paste the same values you use in GitHub (new Firebase web config + Resend + cron secret).
+
+3. Grant the backend access (use your backend ID from **Firebase → App Hosting → Backend settings**):
+   ```bash
+   firebase apphosting:secrets:grantaccess NEXT_PUBLIC_FIREBASE_API_KEY --backend <backend-id>
+   ```
+   Grant access for **each** secret above, or use the bulk grant flow shown in the [secret parameters doc](https://firebase.google.com/docs/app-hosting/configure#secret-parameters).
+
+4. **Redeploy** the App Hosting backend (new rollout from console or push to the connected branch).
+
+Also add **`FIREBASE_SERVICE_ACCOUNT_KEY`** (or JSON) to **GitHub** and sync to Cloudflare if job alerts / LinkedIn need Admin SDK on Workers — App Hosting does not use that variable from `apphosting.yaml` today; Workers do.
