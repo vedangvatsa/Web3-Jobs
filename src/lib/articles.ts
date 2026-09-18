@@ -362,82 +362,103 @@ export async function getAllArticles(): Promise<ArticleMetadata[]> {
  return [...(articleMetadataCache ?? [])];
 }
 
+const SITE_ORIGIN = process.env.NEXT_PUBLIC_SITE_URL?.replace(/\/$/, '') || 'https://hashtagweb3.com';
+const fullArticleCache = new Map<string, Article>();
+
 export async function getArticle(slug: string): Promise<Article | undefined> {
+ const cached = fullArticleCache.get(slug);
+ if (cached) return cached;
+
  const fullPath = path.join(contentArticlesDirectory, `${slug}.md`);
 
- if (!fs.existsSync(fullPath)) {
-  return undefined;
- }
-
  try {
-  const fileContents = fs.readFileSync(fullPath, 'utf8');
-  const matterResult = matter(fileContents);
+  if (typeof fs !== 'undefined' && fs.existsSync && fs.existsSync(fullPath)) {
+   const fileContents = fs.readFileSync(fullPath, 'utf8');
+   const matterResult = matter(fileContents);
 
    const data = matterResult.data;
    const sanitizedContent = normalizeArticleMarkdown(matterResult.content, typeof data.image === 'string' ? data.image : undefined);
 
-  const processedContent = await remark()
-   .use(remarkGfm)
-   .use(html, { sanitize: false }) // We will sanitize manually with a better library
-   .process(sanitizedContent);
-  const contentHtml = processedContent.toString();
+   const processedContent = await remark()
+    .use(remarkGfm)
+    .use(html, { sanitize: false })
+    .process(sanitizedContent);
+   const contentHtml = processedContent.toString();
 
-  // Sanitize HTML on the server, preserving inline SVGs for diagrams
-  const content = sanitizeHtml(contentHtml, {
-   allowedTags: sanitizeHtml.defaults.allowedTags.concat([
-    'img', 'div', 'span', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'figure', 'figcaption',
-    'svg', 'g', 'path', 'rect', 'circle', 'line', 'polygon', 'polyline', 'text', 'tspan', 'defs', 'use', 'marker'
-   ]),
-   allowedAttributes: {
-    ...sanitizeHtml.defaults.allowedAttributes,
-    '*': [
-      'class', 'style', 'id',
-       'viewBox', 'viewbox', 'xmlns', 'cx', 'cy', 'r', 'x', 'y', 'x1', 'y1', 'x2', 'y2',
-      'width', 'height', 'rx', 'ry', 'fill', 'fill-opacity', 'stroke',
-      'stroke-width', 'stroke-opacity', 'stroke-dasharray', 'stroke-linecap',
-      'stroke-linejoin', 'transform', 'text-anchor', 'font-family', 'font-size',
-      'font-weight', 'marker-end', 'marker-start', 'd', 'points'
-    ],
-    'a': ['href', 'name', 'target', 'rel', 'class'],
-    'img': ['src', 'alt', 'title', 'width', 'height', 'data-ai-hint'],
-    'blockquote': ['class', 'data-dnt', 'cite', 'data-tweet-id'],
-    'figure': ['class'],
-    'time': ['class', 'datetime'],
-    'div': ['class', 'data-tweet-id'],
-   },
-  });
+   // Sanitize HTML on the server, preserving inline SVGs for diagrams
+   const content = sanitizeHtml(contentHtml, {
+    allowedTags: sanitizeHtml.defaults.allowedTags.concat([
+     'img', 'div', 'span', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'figure', 'figcaption',
+     'svg', 'g', 'path', 'rect', 'circle', 'line', 'polygon', 'polyline', 'text', 'tspan', 'defs', 'use', 'marker'
+    ]),
+    allowedAttributes: {
+     ...sanitizeHtml.defaults.allowedAttributes,
+     '*': [
+       'class', 'style', 'id',
+        'viewBox', 'viewbox', 'xmlns', 'cx', 'cy', 'r', 'x', 'y', 'x1', 'y1', 'x2', 'y2',
+       'width', 'height', 'rx', 'ry', 'fill', 'fill-opacity', 'stroke',
+       'stroke-width', 'stroke-opacity', 'stroke-dasharray', 'stroke-linecap',
+       'stroke-linejoin', 'transform', 'text-anchor', 'font-family', 'font-size',
+       'font-weight', 'marker-end', 'marker-start', 'd', 'points'
+     ],
+     'a': ['href', 'name', 'target', 'rel', 'class'],
+     'img': ['src', 'alt', 'title', 'width', 'height', 'data-ai-hint'],
+     'blockquote': ['class', 'data-dnt', 'cite', 'data-tweet-id'],
+     'figure': ['class'],
+     'time': ['class', 'datetime'],
+     'div': ['class', 'data-tweet-id'],
+    },
+   });
 
-  const { html: contentWithTweets, tweets: tweetEmbeds } = await replaceArticleTweetEmbeds(content);
+   const { html: contentWithTweets, tweets: tweetEmbeds } = await replaceArticleTweetEmbeds(content);
 
    if (typeof data.title !== 'string' || !data.title) {
-   console.error(`Article with slug"${slug}" is missing a title.`);
-   return undefined;
+    console.error(`Article with slug "${slug}" is missing a title.`);
+    return undefined;
+   }
+
+   const image = typeof data.image === 'string' && data.image && !data.image.includes('picsum.photos')
+     ? data.image
+     : `https://hashtagweb3.com/api/og?type=article&title=${encodeURIComponent(data.title)}&category=${encodeURIComponent(typeof data.category === 'string' ? data.category : 'General')}`;
+   const description = typeof data.description === 'string' && data.description ? data.description : 'No description provided.';
+   const category = typeof data.category === 'string' && data.category ? data.category : 'General';
+
+   const articleResult: Article = {
+    slug,
+    content: contentWithTweets,
+    tweetEmbeds: tweetEmbeds.length ? tweetEmbeds : undefined,
+    rawContent: sanitizedContent,
+    title: data.title,
+    description,
+     category,
+     'data-ai-hint': data['data-ai-hint'],
+     imageFit: data.imageFit === 'contain' ? 'contain' : undefined,
+     image,
+     imageCaption: typeof data.imageCaption === 'string' && data.imageCaption ? data.imageCaption : undefined,
+     imageCreditUrl: typeof data.imageCreditUrl === 'string' && data.imageCreditUrl ? data.imageCreditUrl : undefined,
+    publishedDate: typeof data.publishedDate === 'string' ? data.publishedDate : undefined,
+    lastUpdated: typeof data.lastUpdated === 'string' ? data.lastUpdated : undefined,
+   };
+   fullArticleCache.set(slug, articleResult);
+   return articleResult;
   }
-
-  const image = typeof data.image === 'string' && data.image && !data.image.includes('picsum.photos')
-    ? data.image
-    : `https://hashtagweb3.com/api/og?type=article&title=${encodeURIComponent(data.title)}&category=${encodeURIComponent(typeof data.category === 'string' ? data.category : 'General')}`;
-  const description = typeof data.description === 'string' && data.description ? data.description : 'No description provided.';
-  const category = typeof data.category === 'string' && data.category ? data.category : 'General';
-
-  return {
-   slug,
-   content: contentWithTweets,
-   tweetEmbeds: tweetEmbeds.length ? tweetEmbeds : undefined,
-   rawContent: sanitizedContent,
-   title: data.title,
-   description,
-    category,
-    'data-ai-hint': data['data-ai-hint'],
-    imageFit: data.imageFit === 'contain' ? 'contain' : undefined,
-    image,
-    imageCaption: typeof data.imageCaption === 'string' && data.imageCaption ? data.imageCaption : undefined,
-    imageCreditUrl: typeof data.imageCreditUrl === 'string' && data.imageCreditUrl ? data.imageCreditUrl : undefined,
-   publishedDate: typeof data.publishedDate === 'string' ? data.publishedDate : undefined,
-   lastUpdated: typeof data.lastUpdated === 'string' ? data.lastUpdated : undefined,
-  };
- } catch (err) {
-  console.error(`Error reading or processing article ${slug}:`, err);
-  return undefined;
+ } catch {
+  // Fall through to precomputed static data fetch (Edge Worker)
  }
+
+ // Cloudflare Edge: fetch pre-rendered static JSON from CDN
+ try {
+  const res = await fetch(`${SITE_ORIGIN}/articles-data/${slug}.json`, {
+   headers: { Accept: 'application/json' },
+  });
+  if (res.ok) {
+   const articleResult = (await res.json()) as Article;
+   fullArticleCache.set(slug, articleResult);
+   return articleResult;
+  }
+ } catch (err) {
+  console.error(`[getArticle] Failed to fetch precomputed article for "${slug}":`, err);
+ }
+
+ return undefined;
 }

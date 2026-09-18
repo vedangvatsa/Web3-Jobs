@@ -4,8 +4,7 @@ import { getNewsFeed } from '@/lib/news';
 import { getTerm, getAllTerms } from '@/lib/glossary';
 import { getResourceByCanonicalSlug, getAllResourcePages } from '@/lib/pseo';
 import { notFound, permanentRedirect, redirect } from 'next/navigation';
-import * as fs from 'fs';
-import * as path from 'path';
+import { classifySlug } from '@/lib/slug-classifier';
 import { getCompanyBySlug, getCompanies } from '@/lib/companies';
 import { CompanyDetailView } from '@/components/company-detail-view';
 import Image from 'next/image';
@@ -90,285 +89,304 @@ export async function generateStaticParams() {
 }
 
 export async function generateMetadata({ params }: ArticlePageProps): Promise<Metadata> {
-  const currentEvent = await getEventBySlug(params.slug);
+  const slugType = classifySlug(params.slug);
 
-  if (!currentEvent) {
-  const companyMeta = await getCompanyBySlug(params.slug);
-  if (companyMeta) {
-    const siteUrl = 'https://hashtagweb3.com';
-    const canonicalUrl = `${siteUrl}/${companyMeta.slug}`;
-    const ogImageUrl = buildCompanyOgImageUrl(companyMeta, siteUrl);
-    const rawDesc = companyMeta.description
-      || `Browse ${companyMeta.jobCount} open positions at ${companyMeta.name} on Hashtag Web3.`;
-    const desc = rawDesc.length > 155 ? rawDesc.slice(0, 152) + '...' : rawDesc;
-
-    return {
-      title: `${companyMeta.name} Jobs`,
-      description: desc,
-      robots: companyMeta.jobCount >= 2
-        ? undefined
-        : { index: false, follow: true },
-      alternates: { canonical: canonicalUrl },
-      openGraph: {
-        type: 'website',
-        title: `${companyMeta.name} Jobs`,
-        description: desc,
-        url: canonicalUrl,
-        images: [{ url: ogImageUrl, width: 1200, height: 630, alt: `${companyMeta.name} Jobs` }],
-      },
-      twitter: {
-        card: 'summary_large_image',
-        title: `${companyMeta.name} Jobs`,
-        description: desc,
-        images: [ogImageUrl],
-      },
-    };
-  }
-
-   const jobResolution = await resolveJobSlug(params.slug);
-   const jobMeta = jobResolution.job;
-  if (jobMeta) {
-    await ensureDescriptionShardLoaded(jobMeta);
-    const siteUrl = 'https://hashtagweb3.com';
-    const canonicalSlug = jobResolution.canonicalSlug || jobMeta.slug || params.slug;
-    const canonicalUrl = `${siteUrl}/${canonicalSlug}`;
-    const title = `${jobMeta.title} at ${jobMeta.company}`;
-    const description = buildUniqueJobMetaDescription(jobMeta);
-    const ogImageUrl = buildJobOgImageUrl(jobMeta, siteUrl);
-    const hasVerifiedContent = hasSubstantialJobContent(jobMeta);
-    return {
-      title,
-      description,
-      metadataBase: new URL(siteUrl),
-      alternates: { canonical: canonicalUrl },
-      robots: hasVerifiedContent ? { index: true, follow: true } : { index: false, follow: true },
-      openGraph: {
+  if (slugType === 'event') {
+    const event = await getEventBySlug(params.slug);
+    if (event) {
+      const siteUrl = 'https://hashtagweb3.com';
+      const eventSlug = getEventSlug(event);
+      const canonicalUrl = `${siteUrl}/${eventSlug}`;
+      const title = event.name;
+      const ogTitle = `${event.name} | Hashtag Web3`;
+      const description = buildEventMetaDescription(event, hasCuratedEventGuide(event));
+      const ogImageUrl = resolveEventOgImageUrl(event, siteUrl);
+      const ogImageType = eventOgImageMimeType(ogImageUrl);
+      return {
         title,
         description,
-        url: canonicalUrl,
-        type: 'website',
-        siteName: 'Hashtag Web3',
-        images: [
-          {
-            url: ogImageUrl,
-            width: 1200,
-            height: 630,
-            alt: title,
-            type: 'image/png',
-          },
-        ],
-      },
-      twitter: {
-        card: 'summary_large_image',
-        title,
-        description,
-        site: '@hashtag_web3',
-        creator: '@hashtag_web3',
-        images: [
-          {
-            url: ogImageUrl,
-            width: 1200,
-            height: 630,
-            alt: `${title} - Hashtag Web3`,
-          },
-        ],
-      },
-    };
+        metadataBase: new URL(siteUrl),
+        alternates: {
+          canonical: canonicalUrl,
+        },
+        openGraph: {
+          type: 'website',
+          siteName: 'Hashtag Web3',
+          title: ogTitle,
+          description,
+          url: canonicalUrl,
+          images: [
+            {
+              url: ogImageUrl,
+              width: 1200,
+              height: 630,
+              alt: event.name,
+              type: ogImageType,
+            },
+          ],
+        },
+        twitter: {
+          card: 'summary_large_image',
+          title: ogTitle,
+          description,
+          site: '@hashtag_web3',
+          images: [ogImageUrl],
+        },
+      };
+    }
   }
 
-  const popupSlug = resolvePopupSlug(params.slug);
-  const popupMeta = getPopupBySlug(popupSlug);
-  if (popupMeta && params.slug === popupSlug) {
-    const articleCollision = await getArticle(params.slug);
-    if (!articleCollision) {
+  if (slugType === 'company') {
+    const companyMeta = await getCompanyBySlug(params.slug);
+    if (companyMeta) {
+      const siteUrl = 'https://hashtagweb3.com';
+      const canonicalUrl = `${siteUrl}/${companyMeta.slug}`;
+      const ogImageUrl = buildCompanyOgImageUrl(companyMeta, siteUrl);
+      const rawDesc = companyMeta.description
+        || `Browse ${companyMeta.jobCount} open positions at ${companyMeta.name} on Hashtag Web3.`;
+      const desc = rawDesc.length > 155 ? rawDesc.slice(0, 152) + '...' : rawDesc;
+
+      return {
+        title: `${companyMeta.name} Jobs`,
+        description: desc,
+        robots: companyMeta.jobCount >= 2
+          ? undefined
+          : { index: false, follow: true },
+        alternates: { canonical: canonicalUrl },
+        openGraph: {
+          type: 'website',
+          title: `${companyMeta.name} Jobs`,
+          description: desc,
+          url: canonicalUrl,
+          images: [{ url: ogImageUrl, width: 1200, height: 630, alt: `${companyMeta.name} Jobs` }],
+        },
+        twitter: {
+          card: 'summary_large_image',
+          title: `${companyMeta.name} Jobs`,
+          description: desc,
+          images: [ogImageUrl],
+        },
+      };
+    }
+  }
+
+  if (slugType === 'popup') {
+    const popupSlug = resolvePopupSlug(params.slug);
+    const popupMeta = getPopupBySlug(popupSlug);
+    if (popupMeta && params.slug === popupSlug) {
       return popupPageMetadata(popupMeta);
     }
   }
 
-  // Check if it's a glossary term first
-  const term = await getTerm(params.slug);
-  if (term) {
-    const siteUrl = 'https://hashtagweb3.com';
-    const termUrl = `${siteUrl}/${term.slug}`;
-    const metaDescription = generateGlossaryMetaDescription(term);
-    const ogImageUrl = `${siteUrl}/api/og?type=default&title=${encodeURIComponent(term.term)}`;
-    
-    return {
-      title: `${term.term} - Web3 Glossary`,
-      description: metaDescription,
-      keywords: [term.term, ...term.synonyms || [], term.category, 'web3', 'crypto', 'blockchain', 'glossary'],
-      alternates: {
-        canonical: termUrl,
-      },
-      openGraph: {
+  if (slugType === 'glossary') {
+    const term = await getTerm(params.slug);
+    if (term) {
+      const siteUrl = 'https://hashtagweb3.com';
+      const termUrl = `${siteUrl}/${term.slug}`;
+      const metaDescription = generateGlossaryMetaDescription(term);
+      const ogImageUrl = `${siteUrl}/api/og?type=default&title=${encodeURIComponent(term.term)}`;
+      
+      return {
         title: `${term.term} - Web3 Glossary`,
         description: metaDescription,
-        url: termUrl,
-        type: 'article',
-        images: [{ url: ogImageUrl, width: 1200, height: 630, alt: term.term }],
-      },
-      twitter: {
-        card: 'summary_large_image',
-        title: `${term.term} - Web3 Glossary`,
-        description: metaDescription,
-        images: [ogImageUrl],
-      },
-    };
-  }
-  }
-
-  // Check if it's an event page
-  const event = currentEvent;
-  if (event) {
-    const siteUrl = 'https://hashtagweb3.com';
-    const eventSlug = getEventSlug(event);
-    const canonicalUrl = `${siteUrl}/${eventSlug}`;
-    const formattedDate = formatEventDate(event.startDate, event.endDate);
-    const title = event.name;
-    const ogTitle = `${event.name} | Hashtag Web3`;
-    const description = buildEventMetaDescription(event, hasCuratedEventGuide(event));
-
-    const ogImageUrl = resolveEventOgImageUrl(event, siteUrl);
-    const ogImageType = eventOgImageMimeType(ogImageUrl);
-    return {
-      title,
-      description,
-      metadataBase: new URL(siteUrl),
-      alternates: {
-        canonical: canonicalUrl,
-      },
-      openGraph: {
-        type: 'website',
-        siteName: 'Hashtag Web3',
-        title: ogTitle,
-        description,
-        url: canonicalUrl,
-        images: [
-          {
-            url: ogImageUrl,
-            width: 1200,
-            height: 630,
-            alt: event.name,
-            type: ogImageType,
-          },
-        ],
-      },
-      twitter: {
-        card: 'summary_large_image',
-        title: ogTitle,
-        description,
-        site: '@hashtag_web3',
-        images: [ogImageUrl],
-      },
-    };
+        keywords: [term.term, ...(term.synonyms || []), term.category, 'web3', 'crypto', 'blockchain', 'glossary'],
+        alternates: {
+          canonical: termUrl,
+        },
+        openGraph: {
+          title: `${term.term} - Web3 Glossary`,
+          description: metaDescription,
+          url: termUrl,
+          type: 'article',
+          images: [{ url: ogImageUrl, width: 1200, height: 630, alt: term.term }],
+        },
+        twitter: {
+          card: 'summary_large_image',
+          title: `${term.term} - Web3 Glossary`,
+          description: metaDescription,
+          images: [ogImageUrl],
+        },
+      };
+    }
   }
 
-  // Check if it's a resource page
-  const resource = getResourceByCanonicalSlug(params.slug);
-  if (resource) {
-    const siteUrl = 'https://hashtagweb3.com';
-    const resourceUrl = `${siteUrl}/${resource.seo.canonicalSlug}`;
-    const ogImageUrl = `${siteUrl}/api/og?type=default&title=${encodeURIComponent(resource.seo.title)}`;
-    return {
-      title: resource.seo.title,
-      description: resource.seo.description,
-      keywords: resource.seo.keywords,
-      alternates: { canonical: resourceUrl },
-      openGraph: {
+  if (slugType === 'resource') {
+    const resource = getResourceByCanonicalSlug(params.slug);
+    if (resource) {
+      const siteUrl = 'https://hashtagweb3.com';
+      const resourceUrl = `${siteUrl}/${resource.seo.canonicalSlug}`;
+      const ogImageUrl = `${siteUrl}/api/og?type=default&title=${encodeURIComponent(resource.seo.title)}`;
+      return {
         title: resource.seo.title,
         description: resource.seo.description,
-        type: 'article',
-        url: resourceUrl,
-        images: [{ url: ogImageUrl, width: 1200, height: 630, alt: resource.seo.title }],
-      },
-      twitter: {
-        card: 'summary_large_image',
-        title: resource.seo.title,
-        description: resource.seo.description,
-        images: [ogImageUrl],
-      },
-    };
+        keywords: resource.seo.keywords,
+        alternates: { canonical: resourceUrl },
+        openGraph: {
+          title: resource.seo.title,
+          description: resource.seo.description,
+          type: 'article',
+          url: resourceUrl,
+          images: [{ url: ogImageUrl, width: 1200, height: 630, alt: resource.seo.title }],
+        },
+        twitter: {
+          card: 'summary_large_image',
+          title: resource.seo.title,
+          description: resource.seo.description,
+          images: [ogImageUrl],
+        },
+      };
+    }
   }
 
+  if (slugType === 'article') {
+    const article = await getArticle(params.slug);
+    if (article) {
+      const siteUrl = 'https://hashtagweb3.com';
+      const articleUrl = `${siteUrl}/${article.slug}`;
+      const ogImageUrl = buildArticleOgImageUrl(article, siteUrl);
+
+      const keywords = [
+        'web3', 'crypto', 'blockchain',
+        article.title,
+        article.category,
+        ...(article['data-ai-hint'] ? [article['data-ai-hint']] : []),
+      ].filter((v, i, a) => a.indexOf(v) === i);
+
+      const truncatedTitle = article.title.length > 44 ? article.title.slice(0, 41) + '...' : article.title;
+      const truncatedDescription = article.description.length > 155 ? article.description.slice(0, 152) + '...' : article.description;
+
+      return {
+        title: truncatedTitle,
+        description: truncatedDescription,
+        keywords: keywords,
+        alternates: {
+          canonical: articleUrl,
+        },
+        openGraph: {
+          title: article.title,
+          description: article.description,
+          type: 'article',
+          url: articleUrl,
+          images: [
+            {
+              url: ogImageUrl,
+              width: 1200,
+              height: 630,
+              alt: `${article.title} - Hashtag Web3`,
+            },
+          ],
+        },
+        twitter: {
+          card: 'summary_large_image',
+          title: article.title,
+          description: article.description,
+          images: [ogImageUrl],
+        },
+      };
+    }
+  }
+
+  if (slugType === 'job') {
+    const jobResolution = await resolveJobSlug(params.slug);
+    const jobMeta = jobResolution.job;
+    if (jobMeta) {
+      await ensureDescriptionShardLoaded(jobMeta);
+      const siteUrl = 'https://hashtagweb3.com';
+      const canonicalSlug = jobResolution.canonicalSlug || jobMeta.slug || params.slug;
+      const canonicalUrl = `${siteUrl}/${canonicalSlug}`;
+      const title = `${jobMeta.title} at ${jobMeta.company}`;
+      const description = buildUniqueJobMetaDescription(jobMeta);
+      const ogImageUrl = buildJobOgImageUrl(jobMeta, siteUrl);
+      const hasVerifiedContent = hasSubstantialJobContent(jobMeta);
+      return {
+        title,
+        description,
+        metadataBase: new URL(siteUrl),
+        alternates: { canonical: canonicalUrl },
+        robots: hasVerifiedContent ? { index: true, follow: true } : { index: false, follow: true },
+        openGraph: {
+          title,
+          description,
+          url: canonicalUrl,
+          type: 'website',
+          siteName: 'Hashtag Web3',
+          images: [
+            {
+              url: ogImageUrl,
+              width: 1200,
+              height: 630,
+              alt: title,
+              type: 'image/png',
+            },
+          ],
+        },
+        twitter: {
+          card: 'summary_large_image',
+          title,
+          description,
+          site: '@hashtag_web3',
+          creator: '@hashtag_web3',
+          images: [
+            {
+              url: ogImageUrl,
+              width: 1200,
+              height: 630,
+              alt: `${title} - Hashtag Web3`,
+            },
+          ],
+        },
+      };
+    }
+  }
+
+  // Final fallback
   if (params.slug.includes('.')) {
     notFound();
   }
 
-  // Fall back to article
- const article = await getArticle(params.slug);
- if (!article) {
-  const popup = getPopupBySlug(resolvePopupSlug(params.slug));
-  if (popup) {
-    return popupPageMetadata(popup);
+  const articleFallback = await getArticle(params.slug);
+  if (articleFallback) {
+    const siteUrl = 'https://hashtagweb3.com';
+    const articleUrl = `${siteUrl}/${articleFallback.slug}`;
+    const ogImageUrl = buildArticleOgImageUrl(articleFallback, siteUrl);
+    return {
+      title: articleFallback.title,
+      description: articleFallback.description,
+      alternates: { canonical: articleUrl },
+      openGraph: {
+        title: articleFallback.title,
+        description: articleFallback.description,
+        url: articleUrl,
+        images: [{ url: ogImageUrl }],
+      },
+    };
   }
+
+  const popupFallback = getPopupBySlug(resolvePopupSlug(params.slug));
+  if (popupFallback) {
+    return popupPageMetadata(popupFallback);
+  }
+
   notFound();
- }
-
- const siteUrl = 'https://hashtagweb3.com';
- const articleUrl = `${siteUrl}/${article.slug}`;
-
- // Extract salary data from title if present
- const salaryMatch = article.title.match(/\$[\d,]+-\$[\d,]+K?/);
- const salary = salaryMatch ? salaryMatch[0] : undefined;
-  // Generate dynamic OG image URL
-  const ogImageUrl = buildArticleOgImageUrl(article, siteUrl);
-
- const keywords = [
-  'web3', 'crypto', 'blockchain',
-  article.title,
-  article.category,
-  ...(article['data-ai-hint'] ? [article['data-ai-hint']] : [])
- ].filter((v, i, a) => a.indexOf(v) === i);
-
- const truncatedTitle = article.title.length > 44 ? article.title.slice(0, 41) + '...' : article.title;
- const truncatedDescription = article.description.length > 155 ? article.description.slice(0, 152) + '...' : article.description;
-
- return {
-  title: truncatedTitle,
-  description: truncatedDescription,
-  keywords: keywords,
-  alternates: {
-   canonical: articleUrl,
-  },
-  openGraph: {
-   title: article.title,
-   description: article.description,
-   type: 'article',
-   url: articleUrl,
-   images: [
-    {
-     url: ogImageUrl,
-     width: 1200,
-     height: 630,
-     alt: `${article.title} - Hashtag Web3`,
-    },
-   ],
-  },
-  twitter: {
-   card: 'summary_large_image',
-   title: article.title,
-   description: article.description,
-   images: [ogImageUrl],
-  },
- };
 }
 
 export default async function ArticlePage({ params }: ArticlePageProps) {
-  const event = await getEventBySlug(params.slug);
-  let fallbackArticle: Awaited<ReturnType<typeof getArticle>>;
+  const slugType = classifySlug(params.slug);
 
-  if (!event) {
-  const companyPage = await getCompanyBySlug(params.slug);
-  if (companyPage) {
+  if (slugType === 'company') {
+    const companyPage = await getCompanyBySlug(params.slug);
+    if (!companyPage) notFound();
     if (params.slug !== companyPage.slug) {
       redirect(`/${companyPage.slug}`);
     }
     return <CompanyDetailView slug={companyPage.slug} />;
   }
 
-   const resolved = await resolveJobSlug(params.slug);
-   const job = resolved.job ?? null;
-  if (job) {
+  if (slugType === 'job') {
+    const resolved = await resolveJobSlug(params.slug);
+    const job = resolved.job ?? null;
+    if (!job) notFound();
+
     const canonicalSlug = resolved.canonicalSlug || job.slug;
     if (canonicalSlug && canonicalSlug.toLowerCase() !== params.slug.toLowerCase()) {
       permanentRedirect(`/${canonicalSlug}`);
@@ -386,23 +404,20 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     return <JobDetailView job={job} contentHtml={contentHtml} company={company} siteUrl={siteUrl} logoSrc={logoSrc} faviconUrl={faviconUrl} />;
   }
 
-  fallbackArticle = await getArticle(params.slug);
-
-  const popupSlug = resolvePopupSlug(params.slug);
-  const popup = getPopupBySlug(popupSlug);
-  if (popup) {
+  if (slugType === 'popup') {
+    const popupSlug = resolvePopupSlug(params.slug);
+    const popup = getPopupBySlug(popupSlug);
+    if (!popup) notFound();
     if (params.slug !== popup.slug) {
       permanentRedirect(getPopupPath(popup.slug));
     }
-    const articleCollision = fallbackArticle ?? (await getArticle(params.slug));
-    if (!articleCollision) {
-      return <PopupDetailPage popup={popup} />;
-    }
-  }
+    return <PopupDetailPage popup={popup} />;
   }
 
-  // Check if it's an event page
-  if (event) {
+  // Event page
+  if (slugType === 'event') {
+    const event = await getEventBySlug(params.slug);
+    if (!event) notFound();
     const siteUrl = 'https://hashtagweb3.com';
     const eventSlug = getEventSlug(event);
     const isToken2049Page = eventSlug === 'token2049';
@@ -600,153 +615,150 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     );
   }
 
- // Check if it's a resource page first
- const resource = getResourceByCanonicalSlug(params.slug);
- if (resource) {
-  // Warn if multiple content types match the same slug
-  const termCollision = await getTerm(params.slug);
-  const articleCollision = await getArticle(params.slug);
-  if (termCollision || articleCollision) {
-   console.warn(`[slug collision]"${params.slug}" resolved as resource, but also matches: ${[termCollision ? 'glossary term' : '', articleCollision ? 'article' : ''].filter(Boolean).join(', ')}`);
+  // Resource page
+  if (slugType === 'resource') {
+    const resource = getResourceByCanonicalSlug(params.slug);
+    if (!resource) notFound();
+    const siteUrl = 'https://hashtagweb3.com';
+    const pageUrl = `${siteUrl}/${resource.seo.canonicalSlug}`;
+    const articleSchema: WithContext<ArticleSchema> = {
+      '@context': 'https://schema.org',
+      '@type': 'Article',
+      headline: resource.seo.title,
+      description: resource.seo.description,
+      url: pageUrl,
+      datePublished: resource.meta.generatedAt,
+      dateModified: resource.meta.generatedAt,
+      author: { '@type': 'Organization', name: 'Hashtag Web3', url: siteUrl },
+      publisher: {
+        '@type': 'Organization',
+        name: 'Hashtag Web3',
+        url: siteUrl,
+        logo: { '@type': 'ImageObject', url: `${siteUrl}/logo.png` },
+      },
+      mainEntityOfPage: { '@type': 'WebPage', '@id': pageUrl },
+      keywords: resource.seo.keywords.join(', '),
+    };
+    const breadcrumbSchema: WithContext<BreadcrumbList> = {
+      '@context': 'https://schema.org',
+      '@type': 'BreadcrumbList',
+      itemListElement: [
+        { '@type': 'ListItem', position: 1, name: 'Home', item: siteUrl },
+        { '@type': 'ListItem', position: 2, name: 'Resources', item: `${siteUrl}/resources` },
+        { '@type': 'ListItem', position: 3, name: resource.seo.title, item: pageUrl },
+      ],
+    };
+    const nicheResources = getAllResourcePages().filter(
+      (p) => p.meta.niche === resource.meta.niche && p.seo.canonicalSlug !== resource.seo.canonicalSlug
+    );
+    return (
+      <>
+        <JsonLd data={articleSchema} />
+        <JsonLd data={breadcrumbSchema} />
+        <ResourcePageView page={resource} nicheResources={nicheResources} />
+      </>
+    );
   }
-  const siteUrl = 'https://hashtagweb3.com';
-  const pageUrl = `${siteUrl}/${resource.seo.canonicalSlug}`;
-  const articleSchema: WithContext<ArticleSchema> = {
-   '@context': 'https://schema.org',
-   '@type': 'Article',
-   headline: resource.seo.title,
-   description: resource.seo.description,
-   url: pageUrl,
-   datePublished: resource.meta.generatedAt,
-   dateModified: resource.meta.generatedAt,
-   author: { '@type': 'Organization', name: 'Hashtag Web3', url: siteUrl },
-   publisher: {
-    '@type': 'Organization',
-    name: 'Hashtag Web3',
-    url: siteUrl,
-    logo: { '@type': 'ImageObject', url: `${siteUrl}/logo.png` },
-   },
-   mainEntityOfPage: { '@type': 'WebPage', '@id': pageUrl },
-   keywords: resource.seo.keywords.join(', '),
-  };
-  const breadcrumbSchema: WithContext<BreadcrumbList> = {
-   '@context': 'https://schema.org',
-   '@type': 'BreadcrumbList',
-   itemListElement: [
-    { '@type': 'ListItem', position: 1, name: 'Home', item: siteUrl },
-    { '@type': 'ListItem', position: 2, name: 'Resources', item: `${siteUrl}/resources` },
-    { '@type': 'ListItem', position: 3, name: resource.seo.title, item: pageUrl },
-   ],
-  };
-  const nicheResources = getAllResourcePages().filter(
-   (p) => p.meta.niche === resource.meta.niche && p.seo.canonicalSlug !== resource.seo.canonicalSlug
-  );
-  return (
-   <>
-    <JsonLd data={articleSchema} />
-    <JsonLd data={breadcrumbSchema} />
-    <ResourcePageView page={resource} nicheResources={nicheResources} />
-   </>
-  );
- }
 
-
-  // Check if it's a glossary term
-  const term = await getTerm(params.slug);
-  if (term) {
-   const siteUrl = 'https://hashtagweb3.com';
-   const allTerms = await getAllTerms();
-  const relatedTermsData = term.relatedTerms
-   .map(relatedSlug => allTerms.find(t => t.slug === relatedSlug || t.term === relatedSlug))
-   .filter((t): t is NonNullable<typeof t> => t != null);
-  
-  // Add internal links to content for related terms
-  const enhancedContent = addInternalLinksToContent(term.content, term, allTerms);
-  
-  const definedTermSchema = generateDefinedTermSchema(term, siteUrl, relatedTermsData);
-  
-  const breadcrumbSchema: WithContext<BreadcrumbList> = {
-   '@context': 'https://schema.org',
-   '@type': 'BreadcrumbList',
-   itemListElement: [
-    {
-     '@type': 'ListItem',
-     position: 1,
-     name: 'Home',
-     item: siteUrl,
-    },
-    {
-     '@type': 'ListItem',
-     position: 2,
-     name: 'Glossary',
-     item: `${siteUrl}/glossary`,
-    },
-    {
-     '@type': 'ListItem',
-     position: 3,
-     name: term.term,
-     item: `${siteUrl}/${term.slug}`,
-    },
-   ],
-  };
-  
-  return (
-   <div className="flex flex-col min-h-screen bg-background">
-    <GlossaryViewTracker term={term.term} category={term.category} difficulty={term.difficulty} />
-    <JsonLd data={definedTermSchema} />
-    <JsonLd data={breadcrumbSchema} />
+  // Glossary term
+  if (slugType === 'glossary') {
+    const term = await getTerm(params.slug);
+    if (!term) notFound();
+    const siteUrl = 'https://hashtagweb3.com';
+    const allTerms = await getAllTerms();
+    const relatedTermsData = term.relatedTerms
+      .map(relatedSlug => allTerms.find(t => t.slug === relatedSlug || t.term === relatedSlug))
+      .filter((t): t is NonNullable<typeof t> => t != null);
+    
+    // Add internal links to content for related terms
+    const enhancedContent = addInternalLinksToContent(term.content, term, allTerms);
+    
+    const definedTermSchema = generateDefinedTermSchema(term, siteUrl, relatedTermsData);
+    
+    const breadcrumbSchema: WithContext<BreadcrumbList> = {
+      '@context': 'https://schema.org',
+      '@type': 'BreadcrumbList',
+      itemListElement: [
+        {
+          '@type': 'ListItem',
+          position: 1,
+          name: 'Home',
+          item: siteUrl,
+        },
+        {
+          '@type': 'ListItem',
+          position: 2,
+          name: 'Glossary',
+          item: `${siteUrl}/glossary`,
+        },
+        {
+          '@type': 'ListItem',
+          position: 3,
+          name: term.term,
+          item: `${siteUrl}/${term.slug}`,
+        },
+      ],
+    };
+    
+    return (
+      <div className="flex flex-col min-h-screen bg-background">
+        <GlossaryViewTracker term={term.term} category={term.category} difficulty={term.difficulty} />
+        <JsonLd data={definedTermSchema} />
+        <JsonLd data={breadcrumbSchema} />
         <main className="flex-1">
-     <div className="bg-background">
-      <article className="max-w-4xl mx-auto w-full px-4 page-section">
-         <header className="mb-8">
-          <div className="flex items-center gap-2 mb-4">
-           <Link href="/glossary" className="inline-flex items-center gap-1.5 text-sm text-muted-foreground hover:text-primary">
-            <ArrowLeft className="h-4 w-4" aria-hidden="true" />
-            Web3 Glossary
-           </Link>
+          <div className="bg-background">
+            <article className="max-w-4xl mx-auto w-full px-4 page-section">
+              <header className="mb-8">
+                <div className="flex items-center gap-2 mb-4">
+                  <Link href="/glossary" className="inline-flex items-center gap-1.5 text-sm text-muted-foreground hover:text-primary">
+                    <ArrowLeft className="h-4 w-4" aria-hidden="true" />
+                    Web3 Glossary
+                  </Link>
+                </div>
+                <PageHeader title={term.term} align="left" className="mb-0" />
+                <p className="text-xl text-muted-foreground mb-4">
+                  {term.description}
+                </p>
+              </header>
+              
+              {term.image && (
+                <div className="relative w-full aspect-[21/9] overflow-hidden rounded-lg mb-8">
+                  <Image
+                    src={term.image}
+                    alt={term.imageAlt || term.term}
+                    fill
+                    className="object-cover"
+                    sizes="(max-width: 768px) 100vw, 900px"
+                    priority
+                  />
+                </div>
+              )}
+              
+              <div 
+                className="prose prose-base dark:prose-invert max-w-none prose-headings:font-bold prose-a:text-primary prose-a:underline"
+                dangerouslySetInnerHTML={{ __html: enhancedContent }}
+              />
+            </article>
           </div>
-          <PageHeader title={term.term} align="left" className="mb-0" />
-          <p className="text-xl text-muted-foreground mb-4">
-           {term.description}
-          </p>
-
-         </header>
-         
-         {term.image && (
-          <div className="relative w-full aspect-[21/9] overflow-hidden rounded-lg mb-8">
-           <Image
-            src={term.image}
-            alt={term.imageAlt || term.term}
-            fill
-            className="object-cover"
-            sizes="(max-width: 768px) 100vw, 900px"
-            priority
-           />
-          </div>
-         )}
-         
-         <div 
-          className="prose prose-base dark:prose-invert max-w-none prose-headings:font-bold prose-a:text-primary prose-a:underline"
-          dangerouslySetInnerHTML={{ __html: enhancedContent }}
-         />
-      </article>
-     </div>
-    </main>
-   </div>
-  );
- }
- 
- // Fall back to article
-  const article = fallbackArticle || await getArticle(params.slug);
- const allArticles = await getAllArticles();
-
- if (!article) {
-  const popup = getPopupBySlug(resolvePopupSlug(params.slug));
-  if (popup) {
-    return <PopupDetailPage popup={popup} />;
+        </main>
+      </div>
+    );
   }
-  notFound();
- }
+
+  // Article or fallback
+  if (params.slug.includes('.')) {
+    notFound();
+  }
+
+  let article = await getArticle(params.slug);
+  if (!article) {
+    const popup = getPopupBySlug(resolvePopupSlug(params.slug));
+    if (popup) {
+      return <PopupDetailPage popup={popup} />;
+    }
+    notFound();
+  }
+  const allArticles = await getAllArticles();
  
  const siteUrl = 'https://hashtagweb3.com';
  const imageUrl = article.image.startsWith('http') ? article.image : `${siteUrl}${article.image}`;

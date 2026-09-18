@@ -1,8 +1,5 @@
 import type { NewsItem } from '@/types';
 import { sameEvent } from '@/lib/news-story-dedup';
-import * as fs from 'fs';
-import * as path from 'path';
-
 export const NEWS_FEEDS = [
  { url: 'https://decrypt.co/feed', source: 'Decrypt' },
  { url: 'https://cointelegraph.com/rss', source: 'Cointelegraph' },
@@ -12,7 +9,6 @@ export const NEWS_FEEDS = [
  { url: 'https://dailyhodl.com/feed/', source: 'Daily Hodl' }
 ];
 
-const CACHE_PATH = path.join(process.cwd(), 'content/news-cache.json');
 const NEWS_CACHE_TTL_MS = 60 * 1000;
 const RSS_TIMEOUT_MS = 8000;
 const RSS_CONCURRENCY = 3;

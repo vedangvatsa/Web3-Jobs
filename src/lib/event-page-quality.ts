@@ -2,21 +2,16 @@ import type { Web3Event } from '@/lib/events';
 import { EVENT_GUIDES } from '@/lib/event-guides';
 import { isThinEventListingDescription } from '@/lib/event-editorial-facts';
 import { isLumaListedEvent } from '@/lib/luma-event-content';
-import fs from 'fs';
-import path from 'path';
+import generatedEventGuidesJson from '../../content/generated-event-guides.json';
 
 const GENERATED_EVENT_GUIDE_ALIASES: Record<string, string> = {
   'premier-blockchain-life-2026': 'ma-blockchain-life',
 };
 
+const generatedGuideIds = new Set(Object.keys(generatedEventGuidesJson as Record<string, unknown>));
+
 function hasGeneratedEventGuide(eventId: string): boolean {
-  try {
-    const guidePath = path.join(process.cwd(), 'content', 'generated-event-guides.json');
-    const parsed = JSON.parse(fs.readFileSync(guidePath, 'utf8')) as Record<string, unknown>;
-    return Boolean(parsed[eventId]);
-  } catch {
-    return false;
-  }
+  return generatedGuideIds.has(eventId);
 }
 
 export function hasCuratedEventGuide(event: Web3Event): boolean {

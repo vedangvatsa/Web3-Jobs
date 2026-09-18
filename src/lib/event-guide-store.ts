@@ -1,5 +1,3 @@
-import fs from 'fs';
-import path from 'path';
 import type { Web3Event, EventEditorialArticle } from './events';
 import { EVENT_GUIDES } from './event-guides';
 import { getEventEditorialGuide, getEventSlug } from './events';
