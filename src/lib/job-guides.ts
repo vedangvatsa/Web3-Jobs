@@ -25,20 +25,13 @@ import { cleanJobLocation } from './job-location';
 const DESCRIPTIONS_SHARDS_PATH = JOB_DESCRIPTION_SHARDS_DIRECTORY;
 const LEGACY_ARCHIVE_PATH = path.join(process.cwd(), 'content/legacy-slugs-archive.json');
 
+import legacyArchiveJson from '../../content/legacy-slugs-archive.json';
+
 let legacyArchiveCache: Record<string, { id?: string; link?: string; company?: string; title?: string }> | null = null;
 
 function loadLegacyArchive(): Record<string, { id?: string; link?: string; company?: string; title?: string }> {
   if (legacyArchiveCache !== null) return legacyArchiveCache;
-  try {
-    if (fs.existsSync(LEGACY_ARCHIVE_PATH)) {
-      const raw = fs.readFileSync(LEGACY_ARCHIVE_PATH, 'utf-8');
-      legacyArchiveCache = JSON.parse(raw);
-      return legacyArchiveCache!;
-    }
-  } catch (err) {
-    console.error('[legacy-slugs-archive] Failed to read archive:', err);
-  }
-  legacyArchiveCache = {};
+  legacyArchiveCache = legacyArchiveJson as Record<string, { id?: string; link?: string; company?: string; title?: string }>;
   return legacyArchiveCache;
 }
 
