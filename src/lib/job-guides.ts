@@ -1225,7 +1225,7 @@ function escapeHtml(value: string): string {
  * Deliberately avoids cheerio (buildSynthesizedJobContent costs ~50ms/job —
  * 500 jobs blows past edge/worker CPU limits). Fast path for XML feeds.
  */
-export function buildFeedDescription(job: Job, maxLen = 600): string {
+export function buildFeedDescription(job: Job, maxLen = 350): string {
   const raw = getCachedRawContent(job) || '';
   let text = raw
     .replace(/<script[\s\S]*?<\/script\s*>/gi, ' ')

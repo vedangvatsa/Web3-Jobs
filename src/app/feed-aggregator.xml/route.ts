@@ -28,7 +28,7 @@ export async function GET() {
   });
 
   // Include up to 500 verified recent jobs
-  const feedJobs = recentJobs.slice(0, 500);
+  const feedJobs = recentJobs.slice(0, 250);
 
   const jobsXml = feedJobs
     .map((job) => {
