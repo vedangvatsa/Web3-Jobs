@@ -1,7 +1,7 @@
 'use client';
 
 import type { CompanyLogoMap } from '@/lib/job-listing';
-import { loadJobsCatalog, queryJobsCatalog } from '@/lib/jobs-client-catalog';
+import { fetchJobsPage } from '@/lib/jobs-client-catalog';
 import { getCompanySlug, getJobSlug } from '@/lib/job-slugs';
 import type { Job } from '@/types';
 import { LoaderCircle } from 'lucide-react';
@@ -107,17 +107,19 @@ export function JobBoard({
     setError(null);
 
     try {
-      const allJobs = await loadJobsCatalog(controller.signal);
-      const result = queryJobsCatalog(allJobs, {
+      const result = await fetchJobsPage({
         search: query || undefined,
         limit: PAGE_SIZE,
         offset,
+        signal: controller.signal,
       });
 
-      setJobs((current) => replace ? result.data : mergeJobs(current, result.data));
-      setLogoMap((current) => replace
-        ? (result.companyLogos ?? {})
-        : { ...current, ...(result.companyLogos ?? {}) });
+      setJobs((current) => (replace ? result.data : mergeJobs(current, result.data)));
+      setLogoMap((current) =>
+        replace
+          ? (result.companyLogos ?? {})
+          : { ...current, ...(result.companyLogos ?? {}) }
+      );
       setTotal(result.meta.total);
       if (replace && query && trackedSearch.current !== query) {
         trackedSearch.current = query;

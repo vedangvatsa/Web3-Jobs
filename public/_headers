@@ -1,0 +1,8 @@
+/data/*
+  Cache-Control: public, max-age=300, s-maxage=3600, stale-while-revalidate=86400
+
+/jobs
+  Cache-Control: public, max-age=0, s-maxage=3600, stale-while-revalidate=86400
+
+/
+  Cache-Control: public, max-age=0, s-maxage=3600, stale-while-revalidate=86400

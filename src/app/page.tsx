@@ -89,83 +89,11 @@ export default function JobsPage() {
           <PageShell>
             <PageHeader title="Web3 Jobs" />
 
-            {/* Semantic SSR content for search engines, AI agents, and non-JS crawlers */}
-            <section className="sr-only" aria-hidden="false">
-              <h2>Verified Web3 &amp; Blockchain Career Directory</h2>
+            <section className="sr-only">
+              <h2>Verified Web3 jobs and crypto careers</h2>
               <p>
-                Hashtag Web3 is the authoritative decentralized talent network and career resource platform indexing thousands of verified Web3 jobs. Every opening is verified directly against official applicant tracking systems (Greenhouse, Lever, Ashby, Workable) and authentic protocol repositories.
-              </p>
-              
-              <h3>Smart Contract &amp; Protocol Engineering Roles</h3>
-              <p>
-                Browse high-impact engineering opportunities for Solidity, Vyper, Rust, Go, Cairo, and Move developers building next-generation Layer 1 blockchains, Layer 2 rollups, and DeFi protocols.
-              </p>
-
-              <h3>Zero-Knowledge, Cryptography &amp; Security Auditing</h3>
-              <p>
-                Discover specialized roles in zero-knowledge proof cryptography (ZK-SNARKs, ZK-STARKs), smart contract security audits, protocol formal verification, and cryptographic vulnerability research.
-              </p>
-
-              <h3>Product, Marketing &amp; DAO Community Leadership</h3>
-              <p>
-                Explore leadership and growth positions across decentralized autonomous organizations (DAOs), tokenomics strategy, decentralized marketing, community management, and technical developer relations.
-              </p>
-
-              <h2>Top Blockchain Ecosystems &amp; Protocols Hiring Now</h2>
-              <p>
-                Access verified job listings across major cryptocurrency ecosystems including Ethereum, Solana, Bitcoin, Arbitrum, Optimism, Base, Polygon, Cosmos, and Avalanche.
-              </p>
-
-              <h3>Ethereum &amp; Layer 2 Scaling Networks</h3>
-              <p>
-                Explore opportunities at core Layer 2 scaling teams and EVM ecosystems working on state-of-the-art modular execution environments and rollups.
-              </p>
-
-              <h3>Solana, Cosmos &amp; High-Throughput Layer 1s</h3>
-              <p>
-                Find roles at high-performance parallel execution chains, interchain communication networks, and decentralized state machine builders.
-              </p>
-
-              <h3>DeFi Protocols &amp; Institutional Crypto Custody</h3>
-              <p>
-                Work with top decentralized finance protocols, automated market makers (AMMs), lending markets, and qualified institutional crypto custody providers.
-              </p>
-
-              <h2>Comprehensive Web3 Career Resources &amp; Tools</h2>
-              <p>
-                Accelerate your Web3 career transition with our free suite of builder tools, salary benchmarks, and educational materials.
-              </p>
-
-              <h3>Web3 Salary Calculator &amp; Compensation Benchmarks</h3>
-              <p>
-                Calculate real-time market rate salaries, equity packages, token grants, and remote contractor hourly rates across blockchain engineering, product management, and marketing disciplines.
-              </p>
-
-              <h3>Free Crypto Resume Builder &amp; Interview Question Banks</h3>
-              <p>
-                Create crypto-native resumes tailored for protocol hiring managers and practice with hundreds of real-world Web3 technical and behavioral interview questions.
-              </p>
-
-              <h3>200+ Term Blockchain &amp; DeFi Technical Glossary</h3>
-              <p>
-                Master technical Web3 concepts with comprehensive, human-curated explanations of consensus algorithms, cryptographic primitives, smart contract mechanics, and tokenomics.
-              </p>
-
-              <h2>Frequently Asked Questions About Web3 Careers</h2>
-              
-              <h3>How are job listings verified on Hashtag Web3?</h3>
-              <p>
-                Every listing is verified against first-party employer career portals to eliminate ghost and duplicate postings. Verified listings carry direct application links without middleman redirects.
-              </p>
-
-              <h3>Does Hashtag Web3 offer public developer APIs and MCP tools?</h3>
-              <p>
-                Yes, Hashtag Web3 provides free, unauthenticated REST APIs at https://hashtagweb3.com/api/v1/jobs and Streamable HTTP Model Context Protocol (MCP) servers at https://hashtagweb3.com/.well-known/mcp for autonomous AI agents.
-              </p>
-
-              <h3>Is Hashtag Web3 free for job seekers and AI agents?</h3>
-              <p>
-                All job search, salary calculations, career playbooks, and developer API endpoints are completely free with zero authentication required.
+                Hashtag Web3 indexes {totalJobs.toLocaleString()} verified Web3 jobs from official employer career pages.
+                See <a href="/index.md">index.md</a> and <a href="/llms.txt">llms.txt</a> for agents.
               </p>
             </section>
 
