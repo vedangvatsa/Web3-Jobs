@@ -1,5 +1,7 @@
 /**
- * Build-time dynamic OG PNGs (1200×630).
+ * Dynamic OG PNGs (1200×630) for jobs/companies — not part of `npm run build`.
+ * Run after jobs refresh: `npm run precompute:og-images` (or `precompute:og`).
+ * CI: refresh-jobs-cache + deploy cache restore; uses `--if-missing` for incremental runs.
  * Served from /public/og/** as static CDN assets — no Serverless /api/og.
  */
 import * as fs from 'fs';
@@ -19,8 +21,10 @@ const MANIFEST_PATH = path.join(ROOT, 'public', 'og', 'manifest.json');
 const FONT_PATH = path.join(ROOT, 'scripts', 'social', 'fonts', 'Inter-Bold.ttf');
 const WIDTH = 1200;
 const HEIGHT = 630;
-const VERSION = 'og-v4';
-const CONCURRENCY = 10;
+const VERSION = 'og-v5';
+const CONCURRENCY = 20;
+const WITH_LOGOS = process.argv.includes('--logos');
+const IF_MISSING = process.argv.includes('--if-missing');
 
 type Manifest = Record<string, string>;
 
@@ -143,9 +147,7 @@ function jobCardElement(opts: {
         justifyContent: 'center',
         padding: 40,
         fontFamily: 'Inter',
-        backgroundColor: '#f8fafc',
-        backgroundImage:
-          'radial-gradient(circle at 10% 15%, rgba(2, 132, 199, 0.08), transparent 35%), radial-gradient(circle at 90% 85%, rgba(14, 165, 233, 0.06), transparent 35%), linear-gradient(135deg, #ffffff 0%, #f1f5f9 100%)',
+        backgroundColor: '#f1f5f9',
       },
       children: [
         {
@@ -291,6 +293,11 @@ async function main() {
   let jobs = await getAllJobsWithSlugs();
   if (limit) jobs = jobs.slice(0, limit);
 
+  const missingJobs = jobs.filter(({ slug }) => !fs.existsSync(path.join(OUT_JOBS, `${slug}.png`))).length;
+  console.log(
+    `[precompute-og-images] start jobs=${jobs.length} missing=${missingJobs} logos=${WITH_LOGOS} ifMissing=${IF_MISSING} concurrency=${CONCURRENCY}`,
+  );
+
   let written = 0;
   let skipped = 0;
   const t0 = Date.now();
@@ -298,10 +305,15 @@ async function main() {
   let done = 0;
   await mapPool(jobs, CONCURRENCY, async ({ job, slug }) => {
     const key = `job:${slug}`;
-    const logoRel = resolveCompanyLogo(getCompanySlug(job.company)) || '';
+    const logoRel = WITH_LOGOS ? resolveCompanyLogo(getCompanySlug(job.company)) || '' : '';
     const fingerprint = sha(`${VERSION}|${job.title}|${job.company}|${logoRel}`);
     const outFile = path.join(OUT_JOBS, `${slug}.png`);
-    if (manifest[key] === fingerprint && fs.existsSync(outFile)) {
+    if (IF_MISSING && fs.existsSync(outFile)) {
+      skipped += 1;
+      done += 1;
+      return;
+    }
+    if (!IF_MISSING && manifest[key] === fingerprint && fs.existsSync(outFile)) {
       skipped += 1;
       done += 1;
       return;
@@ -311,7 +323,7 @@ async function main() {
         jobCardElement({
           title: job.title,
           company: job.company,
-          logoDataUrl: logoDataUrlForCompany(job.company),
+          logoDataUrl: WITH_LOGOS ? logoDataUrlForCompany(job.company) : null,
         }),
         font,
       );
@@ -319,7 +331,6 @@ async function main() {
       manifest[key] = fingerprint;
       written += 1;
     } catch (err) {
-      // Logo-less retry once, then leave static fallback URL for this slug.
       try {
         const png = await renderPng(
           jobCardElement({ title: job.title, company: job.company, logoDataUrl: null }),
@@ -345,11 +356,15 @@ async function main() {
   await mapPool(companies, CONCURRENCY, async (company) => {
     const slug = getCompanySlug(company.name);
     const key = `company:${slug}`;
-    const logoRel = resolveCompanyLogo(slug) || '';
+    const logoRel = WITH_LOGOS ? resolveCompanyLogo(slug) || '' : '';
     const jobCount = 'jobCount' in company ? Number((company as { jobCount?: number }).jobCount || 0) : 0;
     const fingerprint = sha(`${VERSION}|${company.name}|${jobCount}|${logoRel}`);
     const outFile = path.join(OUT_COMPANIES, `${slug}.png`);
-    if (manifest[key] === fingerprint && fs.existsSync(outFile)) {
+    if (IF_MISSING && fs.existsSync(outFile)) {
+      skipped += 1;
+      return;
+    }
+    if (!IF_MISSING && manifest[key] === fingerprint && fs.existsSync(outFile)) {
       skipped += 1;
       return;
     }
@@ -358,7 +373,7 @@ async function main() {
         companyCardElement({
           name: company.name,
           jobCount,
-          logoDataUrl: logoDataUrlForCompany(company.name),
+          logoDataUrl: WITH_LOGOS ? logoDataUrlForCompany(company.name) : null,
         }),
         font,
       );

@@ -49,4 +49,4 @@ jobs:
         run: npx tsx scripts/audit-article-duplicates.ts
 
       - name: Typecheck
-        run: npx tsc --noEmit
+        run: npm run typecheck

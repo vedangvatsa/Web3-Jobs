@@ -1,0 +1,45 @@
+name: Precompute OG share images
+
+on:
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: 'Max jobs to render (empty = all missing)'
+        required: false
+        default: ''
+
+jobs:
+  og-images:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: 'npm'
+
+      - run: npm ci --no-audit --no-fund
+
+      - name: Restore job/company OG PNG cache
+        uses: actions/cache@v4
+        with:
+          path: public/og
+          key: og-cards-${{ hashFiles('content/jobs-runtime.json', 'scripts/precompute-og-images.ts') }}
+          restore-keys: |
+            og-cards-
+
+      - name: Runtime JSON for catalogs
+        run: |
+          npx tsx scripts/precompute-jobs-runtime.ts
+          npx tsx scripts/precompute-companies-runtime.ts
+
+      - name: Render missing PNGs
+        run: |
+          if [ -n "${{ inputs.limit }}" ]; then
+            npx tsx scripts/precompute-og-images.ts --if-missing --limit "${{ inputs.limit }}"
+          else
+            npm run precompute:og-images
+          fi
