@@ -2,7 +2,7 @@
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "hashtagweb3",
   "main": ".open-next/worker.js",
-  "account_id": "98dc3d9d6a9efe3231032ff064ac0a01",
+  "account_id": "90e3caa7ef0a0ac0c1fd38c05b458183",
   "compatibility_date": "2025-09-01",
   "compatibility_flags": ["nodejs_compat", "global_fetch_strictly_public"],
   "placement": { "mode": "smart" },

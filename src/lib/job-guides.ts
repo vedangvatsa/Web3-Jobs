@@ -51,7 +51,18 @@ export function getCachedRawContent(job: Job, _shardsPath = JOB_DESCRIPTION_SHAR
 
 function plainTextFromHtml(value: string): string {
   if (!value) return '';
-  return cheerio.load(decodeDoubleEscapedHtml(value)).text().replace(/\s+/g, ' ').trim();
+  return decodeDoubleEscapedHtml(value)
+    .replace(/<style[^>]*>[\s\S]*?<\/style>/gi, '')
+    .replace(/<script[^>]*>[\s\S]*?<\/script>/gi, '')
+    .replace(/<[^>]+>/g, ' ')
+    .replace(/&nbsp;/g, ' ')
+    .replace(/&amp;/g, '&')
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/&quot;/g, '"')
+    .replace(/&#39;/g, "'")
+    .replace(/\s+/g, ' ')
+    .trim();
 }
 
 const FABRICATED_CONTENT_MARKERS = [
@@ -227,6 +238,9 @@ function spinJobPostingBlock(text: string, type: 'h3' | 'h4' | 'p' | 'li', isAbo
 
 export function buildSynthesizedJobContent(job: Job, rawContentOverride?: string): string {
   const raw = rawContentOverride || getCachedRawContent(job);
+  if (raw && (raw.startsWith('<div class="space-y-6">') || raw.startsWith('<div class="space-y-'))) {
+    return raw;
+  }
   const plainLen = plainTextFromHtml(raw).length;
   if (!raw || plainLen < 100) return buildUniqueJobPageContent(job);
 

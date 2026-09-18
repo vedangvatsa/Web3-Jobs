@@ -1,4 +1,5 @@
 
+import React from 'react';
 import { getArticle, getAllArticles } from '@/lib/articles';
 import { getNewsFeed } from '@/lib/news';
 import { getTerm, getAllTerms } from '@/lib/glossary';

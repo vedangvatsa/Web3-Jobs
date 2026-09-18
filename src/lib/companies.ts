@@ -604,194 +604,79 @@ function resolveCanonicalCompanyName(normalized: string, originalName: string): 
   return originalName;
 }
 
+import companiesRuntimeJson from '../../content/companies-runtime.json';
+
+interface PrecomputedCompany {
+  slug: string;
+  name: string;
+  website: string;
+  description: string;
+  jobCount: number;
+  lastUpdated: string;
+  jobIds: string[];
+}
+
+const companiesRuntimeMap = (companiesRuntimeJson as Record<string, PrecomputedCompany>) || {};
+
 /**
- * Extract unique companies from job listings
+ * Extract unique companies from precomputed runtime data
  */
 export async function getCompanies(): Promise<Company[]> {
- const jobs = await getJobs();
- 
- // Group jobs by company with normalized matching
- const companyMap = new Map<string, Job[]>();
- const nameMap = new Map<string, string>(); // normalized -> original name
- 
- jobs.forEach(job => {
-  const companyName = job.company.trim();
-  const normalized = normalizeCompanyName(companyName);
-  
-  // Use the first occurrence as the canonical name
-  if (!nameMap.has(normalized)) {
-   const canonicalName = resolveCanonicalCompanyName(normalized, companyName);
-   nameMap.set(normalized, canonicalName);
-   companyMap.set(canonicalName, []);
-  }
-  
-  const canonicalName = nameMap.get(normalized)!;
-  companyMap.get(canonicalName)!.push(job);
- });
- 
- // Create company objects
- const companies: Company[] = [];
- 
- companyMap.forEach((companyJobs, companyName) => {
-  const slug = createSlug(companyName);
-  
-  // Extract website from job links, filtering out ATS platforms
-  const firstJobLink = companyJobs[0]?.link || '';
-  let website = '';
-  try {
-   const url = new URL(firstJobLink);
-   if (!isAtsHostname(url.hostname)) {
-    website = sanitizeCompanyDomain(url);
-   }
-  } catch (e) {
-   // Invalid URL, leave empty
-  }
-
-  if (COMPANY_WEBSITE_OVERRIDES[slug] || COMPANY_WEBSITE_OVERRIDES[slug.replace(/-labs$|-foundation$/, '')]) {
-    website = COMPANY_WEBSITE_OVERRIDES[slug] || COMPANY_WEBSITE_OVERRIDES[slug.replace(/-labs$|-foundation$/, '')];
-  }
-  if (!website) {
-    const cleanSlug = slug.replace(/-labs$|-foundation$|-crypto$/, '');
-    website = `https://${cleanSlug}.com`;
-  }
-
-    // Use most recent job date as lastUpdated instead of build time
-   const latestJobDate = companyJobs.reduce((latest, j) => {
-    const d = new Date(j.date);
-    return d > latest ? d : latest;
-   }, new Date(0));
-
-   companies.push({
-    slug,
-    name: companyName,
-    website,
-    jobCount: companyJobs.length,
-    jobs: companyJobs,
-    lastUpdated: latestJobDate.toISOString(),
-   });
- });
- 
-  // Load enriched content for each company
-   await Promise.all(
-    companies.map(async (company) => {
-     const content = await loadCompanyContent(company.slug);
-     if (content?.website) company.website = content.website;
-     const desc = COMPANY_RICH_ABOUT[company.slug] || content?.description;
-     company.description = desc ? desc : buildListingDescription(company.name, company.jobs);
-    })
-   );
- 
- // Sort by job count (most jobs first)
- companies.sort((a, b) => b.jobCount - a.jobCount);
- 
- return companies;
+  const list = Object.values(companiesRuntimeMap).sort((a, b) => b.jobCount - a.jobCount);
+  return list.map((pre) => ({
+    slug: pre.slug,
+    name: pre.name,
+    website: pre.website,
+    description: pre.description,
+    jobCount: pre.jobCount,
+    lastUpdated: pre.lastUpdated,
+    jobs: [],
+  }));
 }
 
 /**
- * Get a single company by slug
+ * Get a single company by slug using precomputed runtime data
  */
 export async function getCompanyBySlug(slug: string): Promise<Company | null> {
- const jobs = await getJobs();
- 
- // Find all jobs for the target company without computing everything
- const companyMap = new Map<string, Job[]>();
- const nameMap = new Map<string, string>();
- let targetCanonicalName: string | null = null;
- 
- jobs.forEach(job => {
-  const companyName = job.company.trim();
-  const normalized = normalizeCompanyName(companyName);
-  
-  if (!nameMap.has(normalized)) {
-   const canonicalName = resolveCanonicalCompanyName(normalized, companyName);
-   nameMap.set(normalized, canonicalName);
-   companyMap.set(canonicalName, []);
+  const norm = slug.toLowerCase().trim();
+  const pre = companiesRuntimeMap[norm] || companiesRuntimeMap[norm.replace(/-labs$|-foundation$|-crypto$/, '')];
+  if (pre) {
+    const jobs = await getJobs();
+    const idSet = new Set(pre.jobIds);
+    const companyJobs = jobs.filter((j) => (j.id && idSet.has(j.id)) || (Boolean(j.slug) && idSet.has(j.slug!)) || idSet.has(j.link));
+
+    return {
+      slug: pre.slug,
+      name: pre.name,
+      website: pre.website,
+      description: pre.description,
+      jobCount: pre.jobCount,
+      lastUpdated: pre.lastUpdated,
+      jobs: companyJobs,
+    };
   }
+
+  const content = (await loadCompanyContent(slug)) || (await loadCompanyContent(slug.replace(/-labs$|-foundation$|-crypto$/, '')));
+  const richDesc = COMPANY_RICH_ABOUT[slug] || COMPANY_RICH_ABOUT[slug.replace(/-labs$|-foundation$|-crypto$/, '')];
   
-  const canonicalName = nameMap.get(normalized)!;
-  companyMap.get(canonicalName)!.push(job);
-  if (
-    createSlug(canonicalName) === slug ||
-    (['arbitrum', 'offchain-labs', 'arbitrum-offchain-labs'].includes(slug) && canonicalName === 'Offchain Labs') ||
-    (['aztec', 'aztec-labs', 'aztec-labs-privacy-l2'].includes(slug) && canonicalName === 'Aztec Labs') ||
-    (['symbiotic', 'symbiotic-restaking'].includes(slug) && canonicalName === 'Symbiotic') ||
-    (['wynd-labs', 'wynd-network', 'grass-wynd-labs-depin'].includes(slug) && canonicalName === 'Wynd Labs') ||
-    (['helius', 'helius-solana-infra'].includes(slug) && canonicalName === 'Helius') ||
-    (['liminal', 'liminal-custody', 'liminal-custody-tech'].includes(slug) && canonicalName === 'Liminal Custody') ||
-    (['strategy', 'microstrategy'].includes(slug) && canonicalName === 'Strategy') ||
-    (['pwc', 'pricewaterhousecoopers'].includes(slug) && canonicalName === 'PwC') ||
-    (['franklin-templeton', 'franklintempleton'].includes(slug) && canonicalName === 'Franklin Templeton') ||
-    (['ritual', 'ritual-ai-web3', 'ritual-net'].includes(slug) && canonicalName === 'Ritual') ||
-    (['nomic-foundation', 'nomic', 'nomicfoundation'].includes(slug) && canonicalName === 'Nomic Foundation') ||
-    (['optimism', 'op-labs', 'oplabs'].includes(slug) && canonicalName === 'Optimism')
-  ) {
-   targetCanonicalName = canonicalName;
-  }
- });
- 
-  if (!targetCanonicalName) {
-    const content = (await loadCompanyContent(slug)) || (await loadCompanyContent(slug.replace(/-labs$|-foundation$|-crypto$/, '')));
-    const richDesc = COMPANY_RICH_ABOUT[slug] || COMPANY_RICH_ABOUT[slug.replace(/-labs$|-foundation$|-crypto$/, '')];
+  if (content || richDesc || COMPANY_WEBSITE_OVERRIDES[slug]) {
+    const formattedName = slug
+      .split('-')
+      .map((w) => w.charAt(0).toUpperCase() + w.slice(1))
+      .join(' ');
+    const website = COMPANY_WEBSITE_OVERRIDES[slug] || content?.website || `https://${slug.replace(/-labs$|-foundation$|-crypto$/, '')}.com`;
+    const description = richDesc || content?.description || `${formattedName} is a leading Web3 & blockchain organization. There are currently no active job openings listed.`;
     
-    if (content || richDesc || COMPANY_WEBSITE_OVERRIDES[slug]) {
-      const formattedName = slug
-        .split('-')
-        .map((w) => w.charAt(0).toUpperCase() + w.slice(1))
-        .join(' ');
-      const website = COMPANY_WEBSITE_OVERRIDES[slug] || content?.website || `https://${slug.replace(/-labs$|-foundation$|-crypto$/, '')}.com`;
-      const description = richDesc || content?.description || `${formattedName} is a leading Web3 & blockchain organization. There are currently no active job openings listed.`;
-      
-      return {
-        slug,
-        name: formattedName,
-        website,
-        jobCount: 0,
-        jobs: [],
-        lastUpdated: new Date().toISOString(),
-        description,
-      };
-    }
-    return null;
-  }
- 
- const canonicalSlug = createSlug(targetCanonicalName);
- const companyJobs = companyMap.get(targetCanonicalName) || [];
- const firstJobLink = companyJobs[0]?.link || '';
- let website = '';
- try {
-  const url = new URL(firstJobLink);
-   if (!isAtsHostname(url.hostname)) {
-    website = sanitizeCompanyDomain(url);
-   }
- } catch (e) {}
-
-  if (COMPANY_WEBSITE_OVERRIDES[canonicalSlug] || COMPANY_WEBSITE_OVERRIDES[slug] || COMPANY_WEBSITE_OVERRIDES[canonicalSlug.replace(/-labs$|-foundation$/, '')]) {
-    website = COMPANY_WEBSITE_OVERRIDES[canonicalSlug] || COMPANY_WEBSITE_OVERRIDES[slug] || COMPANY_WEBSITE_OVERRIDES[canonicalSlug.replace(/-labs$|-foundation$/, '')];
-  }
-  if (!website) {
-    const cleanSlug = canonicalSlug.replace(/-labs$|-foundation$|-crypto$/, '');
-    website = `https://${cleanSlug}.com`;
+    return {
+      slug,
+      name: formattedName,
+      website,
+      jobCount: 0,
+      jobs: [],
+      lastUpdated: new Date().toISOString(),
+      description,
+    };
   }
 
- const latestJobDate = companyJobs.reduce((latest, j) => {
-  const d = new Date(j.date);
-  return d > latest ? d : latest;
- }, new Date(0));
-
- const company: Company = {
-  slug: canonicalSlug,
-  name: targetCanonicalName,
-  website,
-  jobCount: companyJobs.length,
-  jobs: companyJobs,
-  lastUpdated: latestJobDate.toISOString(),
- };
- 
-  // Try to load enriched content using canonicalSlug first, then requested slug
-  const content = (await loadCompanyContent(canonicalSlug)) || (await loadCompanyContent(slug));
-  if (content?.website) company.website = content.website;
-  const desc = COMPANY_RICH_ABOUT[canonicalSlug] || COMPANY_RICH_ABOUT[slug] || content?.description;
-  company.description = desc ? desc : buildListingDescription(company.name, company.jobs);
- 
- return company;
+  return null;
 }
