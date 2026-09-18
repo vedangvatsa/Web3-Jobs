@@ -182,6 +182,22 @@ jobs:
       - name: Precompute jobs runtime listing
         run: npx tsx scripts/precompute-jobs-runtime.ts
 
+      - name: Restore job/company OG PNG cache
+        uses: actions/cache@v4
+        with:
+          path: public/og
+          key: og-cards-${{ hashFiles('content/jobs-runtime.json', 'scripts/precompute-og-images.ts') }}
+          restore-keys: |
+            og-cards-
+
+      - name: Precompute companies runtime (OG company cards)
+        run: npx tsx scripts/precompute-companies-runtime.ts
+        continue-on-error: true
+
+      - name: Precompute missing job/company OG PNGs
+        run: npm run precompute:og-images
+        continue-on-error: true
+
       - name: Guard job slug uniqueness
         run: npx tsx scripts/test-job-slug-reserved.ts && npx tsx scripts/check-slug-collisions.ts
 
