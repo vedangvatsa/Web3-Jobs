@@ -1768,4 +1768,41 @@ export const EVENT_GUIDES: Record<string, EventEditorialArticle> = {
       },
     ],
   },
+  rrdn: {
+    summaryLead:
+      "Ready for the Run @ Delhi NCR takes place on September 19, 2026 in Gurugram, India. Organized as a community-first meetup circuit, the gathering unites builders, investors, traders, founders, and researchers for grounded discussions on where AI and Web3 are headed next. Operating under the theme Signals, Delhi NCR serves as the opening leg of a 9-city nationwide circuit across India, setting the baseline for ecosystem sentiment, capital allocation, and builder conviction before the next market cycle.",
+    ticketPricing: "Free (RSVP / approval required via Luma)",
+    speakers: "Raajeev Anand (TechHybr) and community leaders across AI & Web3",
+    expectedAttendance: "Builders, founders, allocators, and researchers",
+    sections: [
+      {
+        heading: "The 9-City Circuit & Delhi NCR Signals",
+        content: [
+          "Ready for the Run is designed as a focused discussion format rather than a traditional pitch fest. The tour captures candid perspectives, real-time polling data, and collective intelligence directly from founders and operators building across India.",
+          "As the region closest to capital, policy, and national infrastructure, Delhi NCR opens the circuit to establish core benchmarks. The agenda focuses on pragmatic evaluation of emerging AI agents, decentralized applications, and liquidity flows.",
+        ],
+      },
+      {
+        heading: "Leadership & Co-Hosts",
+        content: [
+          "The circuit is co-led by Raajeev Anand (TechHybr), bringing on-ground community reach into every stop of the nationwide tour. Through TechHybr, his work centers on making emerging technology, Web3 frameworks, and AI workflows accessible and actionable for builders and creators across India.",
+        ],
+      },
+      {
+        heading: "Ecosystem & Community Partners",
+        content: [
+          "OroPocket joins as a featured partner, bringing perspectives on tokenized precious metals and real-world asset (RWA) access adjacent to crypto-native products.",
+          "Community partners supporting the event include KoinX, Web3 Events, Web3 Aligarh, Bhopal DAO, Zyphar Community, and Collably Network.",
+        ],
+      },
+      {
+        heading: "Organizers & Strategic Advisory",
+        content: [
+          "Infini3 produces the series as an intellectual property of 28° North, an advisory firm for early-stage Web3 and AI ventures. Infini3 hosts meetups, technical panels, and AMAs to document ground-level builder sentiment and industry signals.",
+          "28° North provides strategic advisory across positioning, go-to-market architecture, and fundraising with an operator-first methodology.",
+        ],
+      },
+    ],
+  },
 };
+

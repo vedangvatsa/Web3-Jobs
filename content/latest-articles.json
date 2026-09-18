@@ -1,5 +1,21 @@
 [
   {
+    "slug": "bitbank-sanctions",
+    "title": "US Sanctions BitBank Exchange Over Bitcoin Transfers to Iranian Guards",
+    "description": "The US Treasury on Sept. 17, 2026 sanctioned Tehran exchange BitBank, its software developer and three men, saying the exchange moved hundreds of millions of dollars in bitcoin to the Islamic Revolutionary Guard Corps.",
+    "category": "News",
+    "publishedDate": "2026-09-18",
+    "image": "/images/news/bitbank-sanctions.jpg"
+  },
+  {
+    "slug": "dtcpay-funding",
+    "title": "dtcpay Closes $25 Million Series A With SBI Group Investment",
+    "description": "Singapore payments company dtcpay said on Sept. 18, 2026 it closed a $25 million Series A round anchored by Japan's SBI Group to expand its licensed stablecoin payment network.",
+    "category": "News",
+    "publishedDate": "2026-09-18",
+    "image": "/images/news/dtcpay-funding.jpg"
+  },
+  {
     "slug": "bitcoin-reserve",
     "title": "House Panel Advances Bitcoin Reserve Bill in 28-21 Vote",
     "description": "The House Financial Services Committee voted 28-21 on Sept. 16, 2026 to send the American Reserve Modernization Act, which would place federal Bitcoin in a 20-year Treasury reserve, to the full House.",
@@ -8,35 +24,19 @@
     "image": "/images/news/bitcoin-reserve.jpg"
   },
   {
-    "slug": "sun-prize",
-    "title": "Justin Sun Launches $1 Million Math Prize for Machine-Checked Proofs",
-    "description": "TRON founder Justin Sun announced the Justin Sun Prize on Sept. 16, 2026, offering up to $1 million per top-tier problem for mathematical proofs verified by machine, with OpenAI named as the first $1 million recipient.",
+    "slug": "cftc-relief",
+    "title": "CFTC Opens Broker Relief to All Passive Trading Software",
+    "description": "The CFTC's Market Participants Division said on Sept. 17, 2026 it will not recommend enforcement against passive software providers that route users to registered derivatives venues without registering as brokers, extending March relief first granted to Phantom.",
     "category": "News",
     "publishedDate": "2026-09-17",
-    "image": "/images/news/sun-prize.jpg"
+    "image": "/images/news/cftc-relief.jpg"
   },
   {
-    "slug": "coinex-shutdown",
-    "title": "CoinEx to Shut Down Exchange After Nine Years",
-    "description": "CoinEx will end spot trading on Sept. 29 and close withdrawals on Dec. 22, 2026, unwinding nine years of operation as founder Haipo Yang cited weak markets and rising compliance costs.",
+    "slug": "glamsterdam",
+    "title": "Ethereum Glamsterdam Rehearsal Clears Path to Sepolia Test",
+    "description": "Ethereum's Glamsterdam upgrade kept confirming blocks on its Devnet-11 rehearsal network this week, with Nethermind passing all 2,302 performance tests and the gas limit raised to 200 million, ahead of a proposed Oct. 6 Sepolia deployment.",
     "category": "News",
-    "publishedDate": "2026-09-16",
-    "image": "/images/news/coinex-shutdown.jpg"
-  },
-  {
-    "slug": "zcash-vote",
-    "title": "Zcash Holders Back Faster Blocks and Halving Schedule",
-    "description": "Nearly 2.4 million ZEC voted in Zcash's NU7 governance poll, with holders backing 25-second blocks, unchanged halvings, and a 2031 start for recycled fee payouts.",
-    "category": "News",
-    "publishedDate": "2026-09-16",
-    "image": "/images/news/zcash-vote.jpg"
-  },
-  {
-    "slug": "avalanche-uae",
-    "title": "UAE Identity Vault Moves to Avalanche Blockchain",
-    "description": "Avalanche says the UAE's UAEPASS Digital Vault serving 12.5 million people now runs on a dedicated Avalanche L1, though TDRA pages name no protocol.",
-    "category": "News",
-    "publishedDate": "2026-09-15",
-    "image": "/images/news/avalanche-uae.jpg"
+    "publishedDate": "2026-09-17",
+    "image": "/images/news/glamsterdam.jpg"
   }
 ]
