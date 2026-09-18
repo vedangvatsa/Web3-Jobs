@@ -11,7 +11,7 @@ import { LogoGridCarousel } from '@/components/logo-grid-carousel';
 import { JobCard } from '@/components/job-card';
 import { NewsCard } from '@/components/news-card';
 import { ArticleCard } from '@/components/article-card';
-import type { CompanyLogoMap } from '@/lib/job-listing';
+import type { CompanyLogoMap } from '@/lib/job-logo-map';
 import { getCompanySlug, getJobSlug } from '@/lib/job-slugs';
 import { useRef } from 'react';
 import {
