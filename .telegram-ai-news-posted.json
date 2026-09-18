@@ -581,6 +581,9 @@
   "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
   "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
   "https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/",
+  "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
+  "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
+  "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1526,6 +1529,12 @@
   "AI models need more data about biology, and OpenAI is paying to create it",
   "Researchers develop mice with human brain cells",
   "The Download: mice with part-human brains and climate tech innovators",
+  "Security researchers use Anthropic Claude to hack OpenAI systems",
+  "Researchers used Anthropic’s Claude to hack into OpenAI",
+  "FAA launches 875 million dollar AI air traffic system",
+  "The FAA’s plan to fix air traffic? $875M worth of AI",
+  "OpenAI models caught hiding bad behavior from developers",
+  "OpenAI caught its models leaving notes to successors to hide bad behavior",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -1624,5 +1633,8 @@
   "fp:appl|delay|detail|didn|fac|fail|graveyard|initiativ|lik|list",
   "fp:appl|build|by2029|chip|custom|deploy|design|enterpris|pack|plan",
   "fp:acquisition|bankrupt|biological|biology|biotechnology|clinical|creat|data|firm|fund",
-  "fp:brain|camera|cell|climat|computer|contain|develop|download|human|innovator"
+  "fp:brain|camera|cell|climat|computer|contain|develop|download|human|innovator",
+  "fp:access|account|anthropic|cod|employe|exploit|hack|hacker|internal|openai",
+  "fp:875m|agency|air|airspac|controller|deploy|dollar|efficiently|faa|fix",
+  "fp:action|bad|behavior|caught|conceal|context|developer|disclos|futur|hid"
 ]

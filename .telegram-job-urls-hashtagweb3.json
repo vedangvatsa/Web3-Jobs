@@ -133,6 +133,14 @@
     "lastUrl": "https://hashtagweb3.com/compliance-1aixj9a",
     "updatedAt": "2026-09-15T19:44:59.759Z"
   },
+  "7634113": {
+    "slugs": [
+      "marketing37"
+    ],
+    "lastSlug": "marketing37",
+    "lastUrl": "https://hashtagweb3.com/marketing37",
+    "updatedAt": "2026-09-18T15:11:54.482Z"
+  },
   "7684298": {
     "slugs": [
       "engineer242",
@@ -1358,6 +1366,14 @@
     "lastUrl": "https://hashtagweb3.com/manager170",
     "updatedAt": "2026-09-15T19:44:52.793Z"
   },
+  "8098699": {
+    "slugs": [
+      "manager380"
+    ],
+    "lastSlug": "manager380",
+    "lastUrl": "https://hashtagweb3.com/manager380",
+    "updatedAt": "2026-09-18T15:12:05.430Z"
+  },
   "8100029": {
     "slugs": [
       "bdr2",
@@ -2267,10 +2283,11 @@
   "8589868002": {
     "slugs": [
       "engineer669",
-      "engineer672"
+      "engineer672",
+      "eng90"
     ],
-    "lastSlug": "engineer672",
-    "lastUrl": "https://hashtagweb3.com/engineer672",
+    "lastSlug": "eng90",
+    "lastUrl": "https://hashtagweb3.com/eng90",
     "updatedAt": "2026-09-15T19:44:53.803Z"
   },
   "3d9efc42-b297-4707-8e00-4c665411a47a": {
@@ -5372,5 +5389,13 @@
     "lastSlug": "technicalc0ff0",
     "lastUrl": "https://hashtagweb3.com/technicalc0ff0",
     "updatedAt": "2026-09-17T08:51:17.834Z"
+  },
+  "tangem-multitasking-coordinator": {
+    "slugs": [
+      "multitasking"
+    ],
+    "lastSlug": "multitasking",
+    "lastUrl": "https://hashtagweb3.com/multitasking",
+    "updatedAt": "2026-09-18T15:12:08.332Z"
   }
 }

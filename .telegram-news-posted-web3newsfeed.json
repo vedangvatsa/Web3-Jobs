@@ -593,6 +593,9 @@
   "https://hashtagweb3.com/sun-prize?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://cointelegraph.com/news/sec-temporary-exemption-tokenized-us-stock-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "https://www.theblock.co/news/business/2026-09-17-sp-global-agrees-to-acquire-openzeppelin-in-onchain-security-push-415360",
+  "https://hashtagweb3.com/bitbank-sanctions?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/cftc-relief?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://www.theblock.co/news/markets/2026-09-18-grayscales-zcash-etf-plans-3-for-1-split-233-million-inflow-surge-415520",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -1685,6 +1688,12 @@
   "SEC grants temporary exemption for tokenized US stock trading",
   "S&P Global acquires blockchain security firm OpenZeppelin.",
   "S&P Global agrees to acquire OpenZeppelin in onchain security push",
+  "US Sanctions BitBank Exchange Over Iranian Military Bitcoin Transfers",
+  "US Sanctions BitBank Exchange Over Bitcoin Transfers to Iranian Guards",
+  "CFTC extends broker registration relief to passive software providers",
+  "CFTC Opens Broker Relief to All Passive Trading Software",
+  "US commodities regulator allows software providers to connect to derivatives",
+  "Grayscale’s Zcash ETF plans 3-for-1 split after $233 million inflow surge",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -1810,5 +1819,8 @@
   "fp:analyst|before2022|condition|faces2022|federal|further|hik|interest|loss|parallel",
   "fp:2026|announc|check|justin|machin|math|mathematical|openai|payout|priz",
   "fp:agency|allow|bas|blockchain|disclosur|exemption|grant|limit|permit|rul",
-  "fp:acquir|agre|blockchain|business|financial|firm|global|independent|onchain|openzeppelin"
+  "fp:acquir|agre|blockchain|business|financial|firm|global|independent|onchain|openzeppelin",
+  "fp:associat|bitbank|corp|developer|exchang|guard|hundr|iran|iranian|military",
+  "fp:all|broker|cftc|derivativ|enforc|extend|not|open|passiv|platform",
+  "fp:233m|access|action|allow|commission|commodity|connect|derivativ|developer|etf"
 ]
