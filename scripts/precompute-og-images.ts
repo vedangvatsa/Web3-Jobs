@@ -22,9 +22,15 @@ const FONT_PATH = path.join(ROOT, 'scripts', 'social', 'fonts', 'Inter-Bold.ttf'
 const WIDTH = 1200;
 const HEIGHT = 630;
 const VERSION = 'og-v5';
-const CONCURRENCY = 20;
+const CONCURRENCY = Math.max(
+  1,
+  Math.min(32, Number(process.env.OG_CONCURRENCY) || (process.env.CI ? 6 : 12)),
+);
+const LOG_EVERY = process.env.CI ? 50 : 200;
 const WITH_LOGOS = process.argv.includes('--logos');
 const IF_MISSING = process.argv.includes('--if-missing');
+const SKIP_COMPANIES = process.argv.includes('--skip-companies');
+const COMPANIES_ONLY = process.argv.includes('--companies-only');
 
 type Manifest = Record<string, string>;
 
@@ -33,6 +39,13 @@ function parseLimit(): number | null {
   if (idx < 0) return null;
   const n = Number(process.argv[idx + 1]);
   return Number.isFinite(n) && n > 0 ? n : null;
+}
+
+function parseOffset(): number {
+  const idx = process.argv.indexOf('--offset');
+  if (idx < 0) return 0;
+  const n = Number(process.argv[idx + 1]);
+  return Number.isFinite(n) && n >= 0 ? Math.floor(n) : 0;
 }
 
 function sha(input: string): string {
@@ -285,17 +298,26 @@ async function mapPool<T>(
 
 async function main() {
   const limit = parseLimit();
+  const offset = parseOffset();
   const font = fs.readFileSync(FONT_PATH);
   const manifest = loadManifest();
   fs.mkdirSync(OUT_JOBS, { recursive: true });
   fs.mkdirSync(OUT_COMPANIES, { recursive: true });
 
+  if (COMPANIES_ONLY) {
+    await renderCompanies(font, manifest, limit, 0);
+    saveManifest(manifest);
+    return;
+  }
+
   let jobs = await getAllJobsWithSlugs();
-  if (limit) jobs = jobs.slice(0, limit);
+  if (offset > 0 || limit) {
+    jobs = jobs.slice(offset, limit ? offset + limit : undefined);
+  }
 
   const missingJobs = jobs.filter(({ slug }) => !fs.existsSync(path.join(OUT_JOBS, `${slug}.png`))).length;
   console.log(
-    `[precompute-og-images] start jobs=${jobs.length} missing=${missingJobs} logos=${WITH_LOGOS} ifMissing=${IF_MISSING} concurrency=${CONCURRENCY}`,
+    `[precompute-og-images] start jobs=${jobs.length} offset=${offset} missing=${missingJobs} logos=${WITH_LOGOS} ifMissing=${IF_MISSING} concurrency=${CONCURRENCY}`,
   );
 
   let written = 0;
@@ -303,6 +325,13 @@ async function main() {
   const t0 = Date.now();
 
   let done = 0;
+  const heartbeat = setInterval(() => {
+    console.log(
+      `[precompute-og-images] heartbeat jobs ${done}/${jobs.length} (wrote ${written}, skipped ${skipped}, ${((Date.now() - t0) / 1000).toFixed(0)}s elapsed)`,
+    );
+  }, 60_000);
+  heartbeat.unref?.();
+
   await mapPool(jobs, CONCURRENCY, async ({ job, slug }) => {
     const key = `job:${slug}`;
     const logoRel = WITH_LOGOS ? resolveCompanyLogo(getCompanySlug(job.company)) || '' : '';
@@ -319,6 +348,7 @@ async function main() {
       return;
     }
     try {
+      const renderStarted = Date.now();
       const png = await renderPng(
         jobCardElement({
           title: job.title,
@@ -327,6 +357,10 @@ async function main() {
         }),
         font,
       );
+      const renderMs = Date.now() - renderStarted;
+      if (renderMs > 10_000) {
+        console.warn(`[precompute-og-images] slow render ${slug} ${renderMs}ms`);
+      }
       fs.writeFileSync(outFile, png);
       manifest[key] = fingerprint;
       written += 1;
@@ -344,11 +378,36 @@ async function main() {
       }
     }
     done += 1;
-    if (done % 200 === 0 || done === jobs.length) {
+    if (done % LOG_EVERY === 0 || done === jobs.length) {
       console.log(`[precompute-og-images] jobs ${done}/${jobs.length} (wrote ${written}, skipped ${skipped})`);
       saveManifest(manifest);
     }
   });
+
+  clearInterval(heartbeat);
+
+  if (SKIP_COMPANIES) {
+    saveManifest(manifest);
+    console.log(
+      `[precompute-og-images] batch done wrote ${written}, skipped ${skipped}, jobs=${jobs.length} in ${((Date.now() - t0) / 1000).toFixed(1)}s (companies skipped)`,
+    );
+    return;
+  }
+
+  await renderCompanies(font, manifest, limit, written, skipped, jobs.length, t0);
+}
+
+async function renderCompanies(
+  font: Buffer,
+  manifest: Manifest,
+  limit: number | null,
+  writtenJobs = 0,
+  skippedJobs = 0,
+  jobCount = 0,
+  t0 = Date.now(),
+): Promise<void> {
+  let written = writtenJobs;
+  let skipped = skippedJobs;
 
   let companies = await getCompanies();
   if (limit) companies = companies.slice(0, Math.min(limit, companies.length));
@@ -397,7 +456,7 @@ async function main() {
 
   saveManifest(manifest);
   console.log(
-    `[precompute-og-images] wrote ${written}, skipped ${skipped}, jobs=${jobs.length}, companies=${companies.length} in ${((Date.now() - t0) / 1000).toFixed(1)}s → public/og/`,
+    `[precompute-og-images] wrote ${written}, skipped ${skipped}, jobs=${jobCount}, companies=${companies.length} in ${((Date.now() - t0) / 1000).toFixed(1)}s → public/og/`,
   );
 }
 
