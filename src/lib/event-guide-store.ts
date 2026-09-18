@@ -13,6 +13,8 @@ import {
 // Luma listings: organiser description only. Else: EVENT_GUIDES -> generated JSON -> getEventEditorialGuide.
 let cachedGenerated: Record<string, EventEditorialArticle> | null = null;
 
+import generatedEventGuidesJson from '../../content/generated-event-guides.json';
+
 /** Generated guides keyed by a different event id (e.g. premier vs marketacross). */
 const GENERATED_EVENT_GUIDE_ALIASES: Record<string, string> = {
   'premier-blockchain-life-2026': 'ma-blockchain-life',
@@ -20,18 +22,8 @@ const GENERATED_EVENT_GUIDE_ALIASES: Record<string, string> = {
 
 function loadGenerated(): Record<string, EventEditorialArticle> {
   if (cachedGenerated !== null) return cachedGenerated;
-  let loaded: Record<string, EventEditorialArticle> = {};
-  try {
-    const p = path.join(process.cwd(), 'content', 'generated-event-guides.json');
-    const parsed: unknown = JSON.parse(fs.readFileSync(p, 'utf8'));
-    if (parsed && typeof parsed === 'object') {
-      loaded = parsed as Record<string, EventEditorialArticle>;
-    }
-  } catch {
-    loaded = {};
-  }
-  cachedGenerated = loaded;
-  return loaded;
+  cachedGenerated = generatedEventGuidesJson as Record<string, EventEditorialArticle>;
+  return cachedGenerated;
 }
 
 export async function resolveEventGuide(event: Web3Event): Promise<EventEditorialArticle> {
