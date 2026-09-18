@@ -1,8 +1,7 @@
-'use server';
-
 import type { Company, Job } from '@/types';
 import { getJobs } from './jobs';
 import companyProfilesJson from '../../content/company-profiles-runtime.json';
+import companiesRuntimeJson from '../../content/companies-runtime.json';
 import { COMPANY_RICH_ABOUT } from './company-profiles';
 import { cleanJobLocation } from './job-location';
 
@@ -603,8 +602,6 @@ function resolveCanonicalCompanyName(normalized: string, originalName: string): 
   if (normalized === 'certik') return 'CertiK';
   return originalName;
 }
-
-import companiesRuntimeJson from '../../content/companies-runtime.json';
 
 interface PrecomputedCompany {
   slug: string;

@@ -1,6 +1,3 @@
-
-'use server';
-
 import type { Job } from '@/types';
 import { loadStaticJson } from './load-static-json';
 

@@ -11,8 +11,6 @@ import { getEventBySlug } from '@/lib/events-server';
 import { getEventSlug } from '@/lib/events';
 import { stripSocialPathSuffix } from '@/lib/social-share';
 
-export const runtime = 'nodejs';
-
 const SITE_NAME = 'Hashtag Web3';
 
 /**

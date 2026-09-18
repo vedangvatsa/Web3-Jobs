@@ -1,5 +1,3 @@
-'use server';
-
 import type { GlossaryTerm, GlossaryCategory } from '@/types/glossary';
 import { GLOSSARY_CATEGORIES } from '@/types/glossary';
 import glossaryRuntimeJson from '../../content/glossary-runtime.json';

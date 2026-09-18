@@ -1,41 +1,28 @@
 import { Web3Event, getEventEcosystems, getEventSlug, getEventType } from './events';
-import { loadStaticJson } from './load-static-json';
 import { WASET_ICBT_SERIES_ID } from './waset-icbt';
+import eventsRuntimeJson from '../../content/events-runtime.json';
 
-function getLegacyEventSlugFromName(name: string): string {
-  return name
-    .toLowerCase()
-    .replace(/[^a-z0-9]+/g, '-')
-    .replace(/^-+|-+$/g, '')
-    .slice(0, 80);
+const allEventsList: Web3Event[] = (eventsRuntimeJson as Web3Event[]) || [];
+const eventBySlugMap = new Map<string, Web3Event>();
+
+for (const event of allEventsList) {
+  const s = getEventSlug(event);
+  if (s) eventBySlugMap.set(s.toLowerCase().trim(), event);
+  if (event.id) {
+    const id = event.id.toLowerCase().trim();
+    eventBySlugMap.set(id, event);
+    eventBySlugMap.set(id.replace(/^(premier|side)-/, ''), event);
+  }
 }
-
-function getLegacyEventSlug(event: Web3Event): string {
-  return getLegacyEventSlugFromName(event.name);
-}
-
-function getReadableLegacyEventSlug(event: Web3Event): string {
-  const name = event.name.replace(/\s+\[\d+\]$/g, '').trim();
-  return getLegacyEventSlugFromName(name);
-}
-
-const EVENTS_CACHE_TTL_MS = 5 * 60 * 1000;
-let eventsCache: { value: Web3Event[]; expiresAt: number } | null = null;
 
 export async function getEvents(): Promise<Web3Event[]> {
-  if (eventsCache && eventsCache.expiresAt > Date.now()) return eventsCache.value;
-
-  const events = await loadStaticJson<Web3Event[]>('events-runtime.json');
-  eventsCache = { value: events, expiresAt: Date.now() + EVENTS_CACHE_TTL_MS };
-  return events;
+  return allEventsList;
 }
 
 export async function getEventBySlug(slug: string): Promise<Web3Event | null> {
-  const events = await getEvents();
   const normalized = slug.toLowerCase().trim();
-
-  let found = events.find((e) => getEventSlug(e) === normalized);
-  if (found) return found;
+  const direct = eventBySlugMap.get(normalized);
+  if (direct) return direct;
 
   const LEGACY_SLUG_ALIASES: Record<string, string> = {
     pbw: 'signal-week',
@@ -44,26 +31,13 @@ export async function getEventBySlug(slug: string): Promise<Web3Event | null> {
   };
   const aliased = LEGACY_SLUG_ALIASES[normalized];
   if (aliased) {
-    found = events.find((e) => getEventSlug(e) === aliased || e.id === WASET_ICBT_SERIES_ID);
+    const found = eventBySlugMap.get(aliased) || allEventsList.find((e) => e.id === WASET_ICBT_SERIES_ID);
     if (found) return found;
   }
 
-  const legacyMatches = events.filter(
-    (event) =>
-      getLegacyEventSlug(event) === normalized || getReadableLegacyEventSlug(event) === normalized,
-  );
-  if (legacyMatches.length === 1) return legacyMatches[0];
-
-  found = events.find(
-    (e) =>
-      e.id.toLowerCase() === normalized
-      || e.id.replace(/^(premier|side)-/, '').toLowerCase() === normalized,
-  );
-  if (found) return found;
-
   if (/-\d{4}-\d{2}-\d{2}$/.test(normalized)) {
     const baseSlug = normalized.replace(/-\d{4}-\d{2}-\d{2}$/, '');
-    found = events.find((e) => getEventSlug(e) === baseSlug);
+    const found = eventBySlugMap.get(baseSlug);
     if (found) return found;
   }
 
