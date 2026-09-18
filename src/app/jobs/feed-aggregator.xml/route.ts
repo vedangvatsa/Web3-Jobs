@@ -1,6 +1,6 @@
 import { getJobs } from "@/lib/jobs";
 import { getJobSlug, getPublicJobUrl } from "@/lib/job-slugs";
-import { buildSynthesizedJobContent } from "@/lib/job-guides";
+import { buildFeedDescription } from "@/lib/job-guides";
 import { getFeedLocation, getFeedRegion, getRecentFeedJobs } from "@/lib/job-feed-helpers";
 import { NextResponse } from "next/server";
 
@@ -36,7 +36,7 @@ export async function GET() {
       // Strip outbound URLs, then decode &amp; so aggregators that
       // strip tags (instead of parsing HTML) show "&", not "&amp;".
       // Bare & is valid inside CDATA and renders fine in real parsers.
-      const rawDescription = buildSynthesizedJobContent(job)
+      const rawDescription = buildFeedDescription(job)
         .replace(/https?:\/\/[^\s<>'"]+/gi, '')
         .replace(/&amp;/g, '&');
 

@@ -1221,6 +1221,37 @@ function escapeHtml(value: string): string {
 }
 
 /**
+ * Lightweight feed description: plain-text excerpt wrapped in a single <p>.
+ * Deliberately avoids cheerio (buildSynthesizedJobContent costs ~50ms/job —
+ * 500 jobs blows past edge/worker CPU limits). Fast path for XML feeds.
+ */
+export function buildFeedDescription(job: Job, maxLen = 600): string {
+  const raw = getCachedRawContent(job) || '';
+  let text = raw
+    .replace(/<script[\s\S]*?<\/script\s*>/gi, ' ')
+    .replace(/<style[\s\S]*?<\/style\s*>/gi, ' ')
+    .replace(/<[^>]+>/g, ' ')
+    .replace(/&nbsp;|&#160;/g, ' ')
+    .replace(/&amp;/g, '&')
+    .replace(/&quot;/g, '"')
+    .replace(/&#0?39;/g, "'")
+    .replace(/\s+/g, ' ')
+    .trim();
+  // Drop leftover tag soup from malformed ATS markup. (&lt;/&gt; stay
+  // encoded: they are correct HTML and decoding them could eat real text.)
+  text = text.replace(/(<[^>]*>)+/g, ' ').replace(/\s+/g, ' ').trim();
+  if (text.length < 100) {
+    text = `${job.title} at ${job.company}${job.location ? ` (${job.location})` : ''}. ${text}`.trim();
+  }
+  if (text.length > maxLen) {
+    const cut = text.slice(0, maxLen);
+    const sent = Math.max(cut.lastIndexOf('. '), cut.lastIndexOf('! '), cut.lastIndexOf('? '));
+    text = (sent > maxLen * 0.4 ? cut.slice(0, sent + 1) : cut).trim();
+  }
+  return `<p>${escapeHtml(text)}</p>`;
+}
+
+/**
  * Shared inline-markdown renderer for ALREADY-ESCAPED text. Applies to every
  * block type (h3/h4/p/li): previously headings skipped this, leaking raw
  * `**bold**` markers into <h3> on dozens of pages (e.g. `**expanding**`).

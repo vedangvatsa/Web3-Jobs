@@ -1,6 +1,6 @@
 import { getJobs } from "@/lib/jobs";
 import { getPublicJobUrl } from "@/lib/job-slugs";
-import { buildSynthesizedJobContent } from "@/lib/job-guides";
+import { buildFeedDescription } from "@/lib/job-guides";
 import { normalizeSingleLocation } from "@/lib/job-filters";
 import { NextResponse } from "next/server";
 
@@ -43,7 +43,7 @@ export async function GET() {
 
       // Strip outbound URLs from descriptions (same as sibling feeds):
       // public feeds must not hand out external links.
-      const rawDescription = buildSynthesizedJobContent(job)
+      const rawDescription = buildFeedDescription(job)
         .replace(/https?:\/\/[^\s<>'"]+/gi, '')
         .replace(/&amp;/g, '&');
 

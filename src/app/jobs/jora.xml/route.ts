@@ -1,6 +1,6 @@
 import { getJobs } from '@/lib/jobs';
 import { getPublicJobUrl } from '@/lib/job-slugs';
-import { buildSynthesizedJobContent } from '@/lib/job-guides';
+import { buildFeedDescription } from '@/lib/job-guides';
 import { getRecentFeedJobs } from '@/lib/job-feed-helpers';
 import { NextResponse } from 'next/server';
 import type { Job } from '@/types';
@@ -79,7 +79,7 @@ export async function GET() {
     const url = `${getPublicJobUrl(job, siteUrl)}?utm_source=jora&utm_medium=xml&utm_campaign=feed`;
     const location = (job.location || 'Remote').trim();
     const { city, country } = splitLocation(location);
-    const description = buildSynthesizedJobContent(job)
+    const description = buildFeedDescription(job)
       .replace(/https?:\/\/[^\s<>'"]+/gi, '')
       .replace(/&amp;/g, '&');
     const salary = parseSalary((job as Job & { salary?: unknown }).salary);
