@@ -33,7 +33,7 @@ export const revalidate = 300;
 
 export default async function EventsPage() {
   const events = await getEvents();
-  const upcomingEvents = events.filter(isEventUpcoming).map(getPublicEvent);
+  const upcomingEvents = events.filter((event) => isEventUpcoming(event)).map(getPublicEvent);
   const siteUrl = 'https://hashtagweb3.com';
 
   const pageSchema = {
