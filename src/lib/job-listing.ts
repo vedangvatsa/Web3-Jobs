@@ -1,5 +1,5 @@
 
-import { FAVICON_FIRST_SLUGS, getCompanyFaviconUrl, resolveCompanyLogo } from '@/lib/company-logo';
+import { FAVICON_FIRST_SLUGS, getCompanyFaviconUrl, getCompanyFaviconUrlBySlug, resolveCompanyLogo } from '@/lib/company-logo';
 import { getCompanyBySlug } from '@/lib/companies';
 import { getCompanySlug } from '@/lib/job-slugs';
 import type { Job } from '@/types';
@@ -22,7 +22,8 @@ export async function buildCompanyLogoMap(jobs: Job[]): Promise<CompanyLogoMap> 
       if (logo) return [slug, { logo, favicon: null }];
 
       const company = await getCompanyBySlug(slug);
-      return [slug, { logo: null, favicon: getCompanyFaviconUrl(company?.website) }];
+      const favicon = getCompanyFaviconUrl(company?.website) ?? getCompanyFaviconUrlBySlug(slug);
+      return [slug, { logo: null, favicon }];
     })
   );
 

@@ -62,10 +62,7 @@ function splitParagraphIntoBlocks(paragraph: string): Block[] {
 
   for (const line of lines) {
     const trimmed = line.trim();
-    if (
-      /^[-*•·▪–—]\s+/.test(trimmed) ||
-      /^\d{1,2}(?::\d{2})?\s*(?:AM|PM)\b/i.test(trimmed)
-    ) {
+    if (/^[-*•·▪–—]\s+/.test(trimmed)) {
       flushText();
       currentBullets.push(trimmed.replace(/^[-*•·▪–—]\s+/, ''));
     } else {
@@ -81,7 +78,7 @@ function splitParagraphIntoBlocks(paragraph: string): Block[] {
 
 export function EventGuideContent({ editorial, speakerSummary }: EventGuideContentProps) {
   return (
-    <section className="mt-8 max-w-3xl space-y-10 font-sans text-base text-muted-foreground">
+    <section className="mt-8 w-full space-y-10 font-sans text-base text-muted-foreground">
       <p className="text-base leading-relaxed whitespace-pre-line">{renderTextWithLinks(editorial.summaryLead)}</p>
 
       {editorial.sections.map((section, idx) => (

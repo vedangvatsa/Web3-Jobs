@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:White%20House%20lawn.jpg
 category: News
 data-ai-hint: white house lawn washington dc
 publishedDate: '2026-09-18'
-lastUpdated: '2026-09-18'
+lastUpdated: '2026-09-19'
 ---
 
 The Commodity Futures Trading Commission sent a crypto market rulemaking to the White House for review this week, opening a federal review step days after the Senate refused to advance market structure legislation. The Block [reported](https://www.theblock.co/news/regulation/2026-09-18-cftc-files-crypto-asset-rulemaking-with-white-house-pressing-ahead-without-congress-415510) on Sept. 18 that the agency filed an action titled "Regulation Crypto Asset Transactions and Regulation Crypto Asset Markets" with the Office of Information and Regulatory Affairs, the White House office that examines agency rules before publication.
@@ -46,5 +46,3 @@ The two regulators have been coordinating. The CFTC and the SEC run a formal har
 Review mechanics set the near-term calendar. Under Executive Order 12866, the White House review office examines agency actions before they advance, and outsiders may ask for meetings while an item sits in the queue. The office can clear the action, seek changes, or send it back. None of those outcomes creates law by itself. A cleared prerule would still need later documents, a formal proposal, public comment, and a final vote before any obligation attaches.
 
 That is why the next milestone is paper, not policy. Because RIN 3038-AF80 sits at the prerule stage, the telling development will be the release of CFTC documents explaining which markets and activities the agency wants to reach. Until then, traders, exchanges, and developers face no new filing or registration step from this docket line, [the Crypto Times account stresses](https://www.cryptotimes.io/2026/09/18/cftc-sends-crypto-market-rulemaking-to-white-house-for-review/).
-
-The entry as published contains no proposed text, no deadline, and no list of covered platforms.

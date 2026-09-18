@@ -51,7 +51,7 @@ import {
 } from '@/lib/job-guides';
 import { ensureDescriptionShardLoaded } from '@/lib/job-description-shard-loader';
 import { JobDetailView } from '@/components/job-detail-view';
-import { FAVICON_FIRST_SLUGS, resolveCompanyLogo, getCompanyFaviconUrl } from '@/lib/company-logo';
+import { FAVICON_FIRST_SLUGS, resolveCompanyLogo, getCompanyFaviconUrl, getCompanyFaviconUrlBySlug } from '@/lib/company-logo';
 import { getCompanySlug } from '@/lib/job-slugs';
 import { buildJobOgImageUrl, buildArticleOgImageUrl, buildCompanyOgImageUrl, resolveEventOgImageUrl, eventOgImageMimeType } from '@/lib/job-og';
 import { PopupDetailPage } from '@/components/popup-detail-page';
@@ -401,9 +401,9 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     const company = await getCompanyBySlug(companySlug);
     const contentHtml = buildSynthesizedJobContent(job);
     const rawLogoFile = resolveCompanyLogo(companySlug);
-    const rawFavicon = getCompanyFaviconUrl(company?.website);
+    const rawFavicon = getCompanyFaviconUrl(company?.website) ?? getCompanyFaviconUrlBySlug(companySlug);
     const preferFavicon = FAVICON_FIRST_SLUGS.has(companySlug) && !!rawFavicon;
-    const logoSrc = preferFavicon ? rawFavicon : rawLogoFile;
+    const logoSrc = preferFavicon ? rawFavicon : rawLogoFile ?? rawFavicon;
     const faviconUrl = preferFavicon ? rawLogoFile : rawFavicon;
     return <JobDetailView job={job} contentHtml={contentHtml} company={company} siteUrl={siteUrl} logoSrc={logoSrc} faviconUrl={faviconUrl} />;
   }

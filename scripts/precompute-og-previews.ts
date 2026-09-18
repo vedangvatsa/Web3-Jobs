@@ -10,7 +10,7 @@ import {
 const OUT_ROOT = path.join(process.cwd(), 'public', 'preview');
 
 async function main() {
-  fs.rmSync(OUT_ROOT, { recursive: true, force: true });
+  fs.rmSync(OUT_ROOT, { recursive: true, force: true, maxRetries: 3, retryDelay: 100 });
   fs.mkdirSync(OUT_ROOT, { recursive: true });
 
   const paths = await collectOgPreviewPaths();
