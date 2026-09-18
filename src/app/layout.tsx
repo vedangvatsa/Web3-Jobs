@@ -1,7 +1,3 @@
-import React from 'react';
-if (typeof (globalThis as any).React === 'undefined') {
-  (globalThis as any).React = React;
-}
 import type { Metadata, Viewport } from 'next';
 import { Toaster } from '@/components/ui/toaster';
 import { cn } from '@/lib/utils';

@@ -1,5 +1,6 @@
 import type { NewsItem } from '@/types';
 import { sameEvent } from '@/lib/news-story-dedup';
+import { loadStaticJson } from './load-static-json';
 export const NEWS_FEEDS = [
  { url: 'https://decrypt.co/feed', source: 'Decrypt' },
  { url: 'https://cointelegraph.com/rss', source: 'Cointelegraph' },
@@ -343,20 +344,36 @@ function isNewsItem(value: unknown): value is NewsItem {
     .every((key) => typeof item[key] === 'string');
 }
 
-import newsCacheJson from '../../content/news-cache.json';
+let newsSnapshotCache: NewsItem[] | null = null;
+let newsSnapshotLoad: Promise<NewsItem[]> | null = null;
+
+async function loadNewsSnapshot(): Promise<NewsItem[]> {
+  if (newsSnapshotCache) return newsSnapshotCache;
+  if (!newsSnapshotLoad) {
+    newsSnapshotLoad = loadStaticJson<{ generatedAt?: unknown; items?: unknown }>('news-cache.json')
+      .then((snapshot) => {
+        if (typeof snapshot.generatedAt !== 'string' || Number.isNaN(Date.parse(snapshot.generatedAt))) {
+          newsSnapshotCache = [];
+          return newsSnapshotCache;
+        }
+        if (!Array.isArray(snapshot.items) || !snapshot.items.every(isNewsItem)) {
+          newsSnapshotCache = [];
+          return newsSnapshotCache;
+        }
+        newsSnapshotCache = snapshot.items.filter((item) => !isExcludedNewsItem(item));
+        return newsSnapshotCache;
+      })
+      .catch(() => {
+        newsSnapshotCache = [];
+        return newsSnapshotCache;
+      });
+  }
+  return newsSnapshotLoad;
+}
 
 export function readNewsSnapshot(): NewsItem[] {
-  try {
-    const snapshot = newsCacheJson as {
-      generatedAt?: unknown;
-      items?: unknown;
-    };
-    if (typeof snapshot.generatedAt !== 'string' || Number.isNaN(Date.parse(snapshot.generatedAt))) return [];
-    if (!Array.isArray(snapshot.items) || !snapshot.items.every(isNewsItem)) return [];
-    return snapshot.items.filter((item) => !isExcludedNewsItem(item));
-  } catch {
-    return [];
-  }
+  if (newsSnapshotCache) return newsSnapshotCache;
+  return [];
 }
 
 export async function getNewsFeed(): Promise<NewsItem[]> {
@@ -365,7 +382,7 @@ export async function getNewsFeed(): Promise<NewsItem[]> {
     return newsCache.items;
   }
 
-  const items = readNewsSnapshot();
+  const items = await loadNewsSnapshot();
   newsCache = { timestamp: now, items };
   return items;
 }

@@ -1,27 +1,45 @@
 import { Web3Event, getEventEcosystems, getEventSlug, getEventType } from './events';
 import { WASET_ICBT_SERIES_ID } from './waset-icbt';
-import eventsRuntimeJson from '../../content/events-runtime.json';
+import { loadStaticJson } from './load-static-json';
 
-const allEventsList: Web3Event[] = (eventsRuntimeJson as Web3Event[]) || [];
-const eventBySlugMap = new Map<string, Web3Event>();
+type EventsIndex = {
+  list: Web3Event[];
+  bySlug: Map<string, Web3Event>;
+};
 
-for (const event of allEventsList) {
-  const s = getEventSlug(event);
-  if (s) eventBySlugMap.set(s.toLowerCase().trim(), event);
-  if (event.id) {
-    const id = event.id.toLowerCase().trim();
-    eventBySlugMap.set(id, event);
-    eventBySlugMap.set(id.replace(/^(premier|side)-/, ''), event);
+let eventsIndex: EventsIndex | null = null;
+let eventsLoad: Promise<EventsIndex> | null = null;
+
+async function ensureEventsIndex(): Promise<EventsIndex> {
+  if (eventsIndex) return eventsIndex;
+  if (!eventsLoad) {
+    eventsLoad = loadStaticJson<Web3Event[]>('events-runtime.json').then((allEventsList) => {
+      const list = Array.isArray(allEventsList) ? allEventsList : [];
+      const bySlug = new Map<string, Web3Event>();
+      for (const event of list) {
+        const s = getEventSlug(event);
+        if (s) bySlug.set(s.toLowerCase().trim(), event);
+        if (event.id) {
+          const id = event.id.toLowerCase().trim();
+          bySlug.set(id, event);
+          bySlug.set(id.replace(/^(premier|side)-/, ''), event);
+        }
+      }
+      eventsIndex = { list, bySlug };
+      return eventsIndex;
+    });
   }
+  return eventsLoad;
 }
 
 export async function getEvents(): Promise<Web3Event[]> {
-  return allEventsList;
+  return (await ensureEventsIndex()).list;
 }
 
 export async function getEventBySlug(slug: string): Promise<Web3Event | null> {
+  const { list, bySlug } = await ensureEventsIndex();
   const normalized = slug.toLowerCase().trim();
-  const direct = eventBySlugMap.get(normalized);
+  const direct = bySlug.get(normalized);
   if (direct) return direct;
 
   const LEGACY_SLUG_ALIASES: Record<string, string> = {
@@ -31,13 +49,13 @@ export async function getEventBySlug(slug: string): Promise<Web3Event | null> {
   };
   const aliased = LEGACY_SLUG_ALIASES[normalized];
   if (aliased) {
-    const found = eventBySlugMap.get(aliased) || allEventsList.find((e) => e.id === WASET_ICBT_SERIES_ID);
+    const found = bySlug.get(aliased) || list.find((e) => e.id === WASET_ICBT_SERIES_ID);
     if (found) return found;
   }
 
   if (/-\d{4}-\d{2}-\d{2}$/.test(normalized)) {
     const baseSlug = normalized.replace(/-\d{4}-\d{2}-\d{2}$/, '');
-    const found = eventBySlugMap.get(baseSlug);
+    const found = bySlug.get(baseSlug);
     if (found) return found;
   }
 
