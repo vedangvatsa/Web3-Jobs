@@ -9,8 +9,8 @@
  * Env: RESEND_API_KEY (required), RESEND_SEGMENT_ID (default General),
  *      EMAIL_FROM (default "Hashtag Web3 <hi@hashtagweb3.com>")
  *
- * Implementation lives in src/lib/resend-daily.ts (shared with the
- * cron-job.org API route). This file is the CLI wrapper.
+ * Implementation lives in src/lib/resend-daily.ts.
+ * This file is the CLI wrapper for GitHub Actions / npm run send-alerts.
  *
  * Exits nonzero on ANY failure (no silent green runs).
  */

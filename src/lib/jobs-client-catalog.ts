@@ -1,5 +1,6 @@
 import type { Job } from '@/types';
 import type { CompanyLogoMap } from '@/lib/job-listing';
+import { paginatePublicJobs } from '@/lib/jobs-public-listing';
 
 export type JobsApiResponse = {
   data: Job[];
@@ -7,32 +8,48 @@ export type JobsApiResponse = {
   meta: { total: number };
 };
 
-/** Paginated jobs from public API — avoids downloading the full ~5MB jobs-runtime.json in the browser. */
+let catalogPromise: Promise<Job[]> | null = null;
+
+async function loadJobsCatalog(): Promise<Job[]> {
+  if (!catalogPromise) {
+    catalogPromise = fetch('/data/jobs-runtime.json', { cache: 'force-cache' })
+      .then((res) => {
+        if (!res.ok) throw new Error(`jobs-runtime HTTP ${res.status}`);
+        return res.json() as Promise<Job[]>;
+      })
+      .catch((error) => {
+        catalogPromise = null;
+        throw error;
+      });
+  }
+  return catalogPromise;
+}
+
+/** Paginated jobs from static build output (no Serverless Function on the host). */
 export async function fetchJobsPage(options: {
   search?: string;
   limit: number;
   offset: number;
   signal?: AbortSignal;
 }): Promise<JobsApiResponse> {
-  const params = new URLSearchParams();
-  params.set('limit', String(options.limit));
-  params.set('offset', String(options.offset));
-  const search = options.search?.trim();
-  if (search) params.set('search', search);
+  if (options.signal?.aborted) {
+    throw new DOMException('Aborted', 'AbortError');
+  }
 
-  const res = await fetch(`/api/jobs?${params.toString()}`, {
-    headers: { Accept: 'application/json' },
-    cache: 'no-store',
-    signal: options.signal,
+  const allJobs = await loadJobsCatalog();
+  if (options.signal?.aborted) {
+    throw new DOMException('Aborted', 'AbortError');
+  }
+
+  const page = paginatePublicJobs(allJobs, {
+    search: options.search,
+    limit: options.limit,
+    offset: options.offset,
   });
 
-  if (!res.ok) {
-    throw new Error(`Jobs API HTTP ${res.status}`);
-  }
-
-  const body = (await res.json()) as JobsApiResponse;
-  if (!Array.isArray(body.data) || !body.meta || typeof body.meta.total !== 'number') {
-    throw new Error('Jobs API malformed');
-  }
-  return body;
+  return {
+    data: page.data,
+    companyLogos: page.companyLogos,
+    meta: { total: page.meta.total },
+  };
 }

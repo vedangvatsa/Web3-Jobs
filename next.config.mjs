@@ -1,3 +1,8 @@
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
+
+const projectRoot = path.dirname(fileURLToPath(import.meta.url));
+
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: 'standalone',
@@ -31,6 +36,13 @@ const nextConfig = {
   eslint: {
     ignoreDuringBuilds: true,
   },
+  webpack(config) {
+    config.resolve.alias = {
+      ...config.resolve.alias,
+      '@': path.join(projectRoot, 'src'),
+    };
+    return config;
+  },
   async redirects() {
     return [
       {
@@ -44,6 +56,8 @@ const nextConfig = {
         destination: 'https://hashtagweb3.com/:path*',
         permanent: true,
       },
+      // Same jobs RSS as /jobs/feed.xml (legacy short URL)
+      { source: '/feed.xml', destination: '/jobs/feed.xml', permanent: true },
       {
         source: '/blog/:slug((?!llms\\.txt$).*)',
         destination: '/:slug',
@@ -146,7 +160,6 @@ const nextConfig = {
       { source: '/logo/companies/JP_Morgan.webp', destination: '/logo/companies/jp_morgan.webp' },
       { source: '/logo/companies/KPMG.webp', destination: '/logo/companies/kpmg.webp' },
       { source: '/logo/hashtagweb3.png', destination: '/logo/HashtagWeb3.png' },
-      { source: '/feed-aggregator.xml', destination: '/jobs/feed-aggregator.xml' },
       { source: '/logo-bimi.svg', destination: '/logo/logo-bimi.svg' },
       { source: '/bimi.svg', destination: '/logo/bimi.svg' },
       { source: '/bimi.png', destination: '/logo/bimi.png' },
@@ -168,6 +181,14 @@ const nextConfig = {
     `.replace(/\s{2,}/g, ' ').trim();
 
     return [
+      {
+        source: '/.well-known/:path*',
+        headers: [
+          { key: 'Access-Control-Allow-Origin', value: '*' },
+          { key: 'Access-Control-Allow-Methods', value: 'GET, OPTIONS' },
+          { key: 'Access-Control-Allow-Headers', value: 'Content-Type, Authorization, Accept' },
+        ],
+      },
       {
         source: '/:path*',
         headers: [
@@ -196,60 +217,8 @@ const nextConfig = {
             value: 'Accept, Accept-Encoding',
           },
           {
-            key: 'X-AI-Usage',
-            value: 'indexing=yes, search=yes, inference=yes, citation=yes',
-          },
-          {
             key: 'Link',
-            value: [
-              '</llms.txt>; rel="ai-context"; type="text/plain"',
-              '<https://hashtagweb3.com/llms.txt>; rel="ai-context"',
-              '</sitemap.xml>; rel="sitemap"; type="application/xml"',
-              '</.well-known/sitemap.json>; rel="sitemap"; type="application/json"',
-              '</.well-known/agents.json>; rel="agents"; type="application/json"',
-              '</agents.txt>; rel="agent-permissions"; type="text/plain"',
-              '</.well-known/api-catalog>; rel="api-catalog"',
-              '</.well-known/tdmrep.json>; rel="tdmrep"; type="application/json"',
-              '</openapi.json>; rel="service-desc"',
-              '</404.md>; rel="404-recovery"; type="text/markdown"',
-              '</terms-of-use.md>; rel="terms-of-service"; type="text/markdown"',
-            ].join(', '),
-          },
-          {
-            key: 'RateLimit-Limit',
-            value: '120',
-          },
-          {
-            key: 'RateLimit-Remaining',
-            value: '119',
-          },
-          {
-            key: 'RateLimit-Reset',
-            value: '60',
-          },
-          {
-            key: 'RateLimit-Policy',
-            value: '120;w=60',
-          },
-          {
-            key: 'RateLimit',
-            value: 'limit=120, remaining=119, reset=60',
-          },
-          {
-            key: 'X-RateLimit-Limit',
-            value: '120',
-          },
-          {
-            key: 'X-RateLimit-Remaining',
-            value: '119',
-          },
-          {
-            key: 'X-RateLimit-Reset',
-            value: '60',
-          },
-          {
-            key: 'Access-Control-Expose-Headers',
-            value: 'RateLimit, RateLimit-Limit, RateLimit-Remaining, RateLimit-Reset, RateLimit-Policy, Retry-After, API-Version, Sunset, Deprecation, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset',
+            value: '</sitemap.xml>; rel="sitemap"; type="application/xml"',
           },
           {
             key: 'Content-Security-Policy',

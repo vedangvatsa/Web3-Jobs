@@ -41,7 +41,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '24'
       - name: Diagnose Telegram access
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
@@ -72,7 +72,7 @@ jobs:
 
       - uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '24'
           cache: 'npm'
 
       - name: Install dependencies
@@ -126,7 +126,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '24'
           cache: 'npm'
 
       - name: Install dependencies
@@ -305,13 +305,13 @@ jobs:
           npx tsx scripts/social/merge-state.ts
 
           # Jobs cache + description shards are required; fail the step if they cannot be staged.
-          git add content/jobs-cache.json content/jobs-runtime.json content/job-description-shards/
+          git add content/jobs-cache.json content/jobs-runtime.json content/homepage-jobs.json content/job-description-shards/
           # Optional state / assets (missing paths must not block the jobs publish).
           git add content/events-cache.json content/legacy-slugs-archive.json scripts/social/*.json .telegram*.json .resend-broadcast-sent.json public/logo/companies/ 2>/dev/null || true
 
           if git diff --staged --quiet; then
             echo "No changes to commit"
-            git status --short content/jobs-cache.json content/job-description-shards/ | head -20
+            git status --short content/jobs-cache.json content/homepage-jobs.json content/job-description-shards/ | head -20
           else
             git commit -m "chore: refresh jobs cache + social post"
             for i in 1 2 3; do

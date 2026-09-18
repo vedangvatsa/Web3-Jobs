@@ -1,7 +1,8 @@
-import { NextRequest } from 'next/server';
 import { getAllArticles } from '../src/lib/articles';
 import { buildArticlePageMeta } from '../src/lib/article-og-meta';
+import { previewAssetPath } from '../src/lib/og-preview';
 import { SOCIAL_UTM_MAP } from '../src/lib/social-share';
+import { NextRequest } from 'next/server';
 import { middleware } from '../src/middleware';
 
 async function main() {
@@ -32,7 +33,7 @@ async function main() {
       `title="${meta.title}" url="${meta.canonicalUrl}"`,
     );
     assert(
-      meta.ogImageUrl.includes('/api/og?type=article'),
+      !meta.ogImageUrl.includes('/api/og') && /^https?:\/\//i.test(meta.ogImageUrl),
       `Article OG image for /${article.slug}`,
       meta.ogImageUrl,
     );
@@ -40,6 +41,7 @@ async function main() {
 
   const sample = articles.find((a) => a.slug === 'clarity-act') ?? articles[0];
   const suffixKeys = Object.keys(SOCIAL_UTM_MAP);
+  const expectedPreview = previewAssetPath(`/${sample.slug}`);
 
   console.log(`\nSocial suffix rewrites for /${sample.slug} (${suffixKeys.length} suffixes)...`);
   for (const suffix of suffixKeys) {
@@ -51,9 +53,7 @@ async function main() {
     const rewrite = res.headers.get('x-middleware-rewrite') || '';
     const rewriteUrl = rewrite ? new URL(rewrite) : null;
     assert(
-      res.status === 200 &&
-        rewriteUrl?.pathname === '/api/og-meta' &&
-        rewriteUrl.searchParams.get('path') === `/${sample.slug}`,
+      res.status === 200 && rewriteUrl?.pathname === expectedPreview,
       `Bot preview rewrite ${path}`,
       rewrite || '(no rewrite)',
     );

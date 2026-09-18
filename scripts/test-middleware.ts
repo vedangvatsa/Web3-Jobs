@@ -101,8 +101,7 @@ async function runMiddlewareTests() {
       const rewriteUrl = new URL(rewrite);
       assert(
         res.status === 200 &&
-          rewriteUrl.pathname === '/api/og-meta' &&
-          rewriteUrl.searchParams.get('path') === test.expectedOgPath,
+          rewriteUrl.pathname === `/preview${test.expectedOgPath}.html`,
         `Suffixed ${test.name} crawler rewrites to canonical page metadata`,
         `Got "${rewrite}"`
       );
@@ -117,8 +116,8 @@ async function runMiddlewareTests() {
     const req = new NextRequest('https://hashtagweb3.com/jobs?mode=agent');
     const res = middleware(req);
     assert(
-      res.headers.get('x-middleware-rewrite')?.endsWith('/api/agent-view'),
-      '?mode=agent rewrites to /api/agent-view'
+      res.status === 200 && Boolean(res.headers.get('x-middleware-rewrite')?.includes('/agent-view.json')),
+      '?mode=agent rewrites to /agent-view.json'
     );
   } catch (err: any) {
     assert(false, '?mode=agent runtime execution', err?.message || String(err));
@@ -148,17 +147,17 @@ async function runMiddlewareTests() {
     assert(false, 'AI bot markdown negotiation runtime execution', err?.message || String(err));
   }
 
-  // 5. Test /api Route Rate Limiting Headers
-  console.log('\n5. Testing /api/ Rate Limiting Headers...');
+  // 5. Test /api path passthrough
+  console.log('\n5. Testing /api/ path passthrough...');
   try {
-    const apiReq = new NextRequest('https://hashtagweb3.com/api/jobs');
+    const apiReq = new NextRequest('https://hashtagweb3.com/api/email/unsubscribe');
     const apiRes = middleware(apiReq);
     assert(
       apiRes.status === 200,
-      '/api/jobs passes middleware with status 200'
+      '/api/email/unsubscribe passes middleware with status 200'
     );
   } catch (err: any) {
-    assert(false, '/api/ jobs middleware runtime execution', err?.message || String(err));
+    assert(false, '/api/ path passthrough runtime execution', err?.message || String(err));
   }
 
   console.log(`\n========================================`);

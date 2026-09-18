@@ -118,12 +118,11 @@ export function middleware(request: NextRequest) {
       // Strip /ig, /th, /wa, etc. so previews match the canonical page (e.g. /clarity-act).
       const contentPath = stripSocialPathSuffix(pathname);
       const rewriteUrl = request.nextUrl.clone();
-      rewriteUrl.pathname = '/api/og-meta';
+      // Static ~2KB HTML shells from prebuild (public/preview/**) — no Serverless Function.
+      rewriteUrl.pathname =
+        contentPath === '/' ? '/preview/index.html' : `/preview${contentPath}.html`;
       rewriteUrl.search = '';
-      rewriteUrl.searchParams.set('path', contentPath);
-      const rewriteHeaders = new Headers(request.headers);
-      rewriteHeaders.set('x-og-source-path', contentPath);
-      return NextResponse.rewrite(rewriteUrl, { request: { headers: rewriteHeaders } });
+      return NextResponse.rewrite(rewriteUrl);
     }
   }
 
@@ -203,16 +202,13 @@ export function middleware(request: NextRequest) {
           fetchMode === 'navigate' || fetchDest === 'document' || fetchUser === '?1';
         const isSocialCrawler = LINK_PREVIEW_BOT_RE.test(ua);
         if (isSocialCrawler) {
-          // Keep crawler responses tiny. Full RSC job pages can exceed
-          // LinkedIn's scraper limit; og-meta resolves the same job and emits
-          // only the metadata needed for the card.
+          // Keep crawler responses tiny. Full RSC pages can exceed LinkedIn's
+          // scraper limit; serve static preview HTML from public/preview.
           const crawlerRewrite = request.nextUrl.clone();
-          crawlerRewrite.pathname = '/api/og-meta';
+          crawlerRewrite.pathname =
+            basePath === '/' ? '/preview/index.html' : `/preview${basePath}.html`;
           crawlerRewrite.search = '';
-          crawlerRewrite.searchParams.set('path', basePath);
-          const crawlerHeaders = new Headers(request.headers);
-          crawlerHeaders.set('x-og-source-path', basePath);
-          return NextResponse.rewrite(crawlerRewrite, { request: { headers: crawlerHeaders } });
+          return NextResponse.rewrite(crawlerRewrite);
         }
 
         // For human visitors, redirect with absolute URL and UTM parameters
@@ -226,12 +222,12 @@ export function middleware(request: NextRequest) {
     }
   }
 
-  // 2. ?mode=agent → rewrite to /api/agent-view for structured JSON response.
+  // 2. ?mode=agent → static JSON catalog (CDN; no Serverless Function).
   // Never intercept /api/* paths: hijacking e.g. /api/jobs?mode=agent would
   // silently return the wrong payload on a public API.
   if (!pathname.startsWith('/api') && searchParams.get('mode') === 'agent') {
     const rewrite = request.nextUrl.clone();
-    rewrite.pathname = '/api/agent-view';
+    rewrite.pathname = '/agent-view.json';
     rewrite.search = '';
     return NextResponse.rewrite(rewrite);
   }
@@ -282,9 +278,8 @@ export const config = {
      * - _next/image (image optimization files)
      * - favicon.ico / icon.png
      * - Binary static assets (images, fonts, etc.)
-     * Note: /api routes ARE included so that ?mode=agent can be intercepted
-     * on any URL and rewritten to /api/agent-view before the API handler runs.
-     * The bot-UA and UTM logic explicitly skip /api/* paths internally.
+     * Note: /api routes ARE included so social crawler / UTM logic can run;
+     * ?mode=agent rewrites to static /agent-view.json and skips /api/*.
      */
     '/((?!_next/static|_next/image|favicon.ico|icon.png|logo-bimi.svg|.*\\.(?:svg|png|jpg|jpeg|gif|webp|ico|pdf)$).*)',
   ],

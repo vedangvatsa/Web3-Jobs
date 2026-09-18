@@ -26,7 +26,7 @@ export function popupPageMetadata(popup: Popup): Metadata {
   const cover = popup.coverImages?.[0];
   const ogImage = cover
     ? `${siteUrl}${cover}`
-    : `${siteUrl}/api/og?type=default&title=${encodeURIComponent(popup.name)}`;
+    : `${siteUrl}/og-image.png`;
 
   return {
     title,

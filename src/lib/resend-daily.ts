@@ -1,11 +1,10 @@
 /**
  * resend-daily.ts — shared daily job-alerts broadcast logic.
  *
- * Used by BOTH scripts/send-resend-broadcast.ts (GitHub Action) and
- * src/app/api/cron/daily-alerts/route.ts (cron-job.org). Keep this as the
- * single implementation; callers are thin wrappers.
+ * Used by scripts/send-resend-broadcast.ts (GitHub Action:
+ * .github/workflows/daily-job-alerts.yml). Callers are thin wrappers.
  *
- * Throws on failure (callers map to exit codes / HTTP 500). Never exits.
+ * Throws on failure (callers map to exit codes). Never exits.
  */
 
 import fs from 'fs';

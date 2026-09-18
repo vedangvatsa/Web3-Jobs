@@ -47,7 +47,9 @@ function readArticlesFromDirectory(directory: string): ArticleMetadata[] {
    const displayOgTitle = ogTitle || data.title;
    const image = typeof data.image === 'string' && data.image && !data.image.includes('picsum.photos')
     ? data.image
-    : `https://hashtagweb3.com/api/og?type=article&title=${encodeURIComponent(displayOgTitle)}&category=${encodeURIComponent(category)}`;
+    : category === 'News'
+      ? 'https://hashtagweb3.com/og-news.png'
+      : 'https://hashtagweb3.com/og-image-blog.png';
    const description = typeof data.description === 'string' && data.description ? data.description : 'No description provided.';
 
    return {
@@ -414,11 +416,13 @@ export async function getArticle(slug: string): Promise<Article | undefined> {
     return undefined;
    }
 
-   const image = typeof data.image === 'string' && data.image && !data.image.includes('picsum.photos')
-     ? data.image
-     : `https://hashtagweb3.com/api/og?type=article&title=${encodeURIComponent(data.title)}&category=${encodeURIComponent(typeof data.category === 'string' ? data.category : 'General')}`;
    const description = typeof data.description === 'string' && data.description ? data.description : 'No description provided.';
    const category = typeof data.category === 'string' && data.category ? data.category : 'General';
+   const image = typeof data.image === 'string' && data.image && !data.image.includes('picsum.photos')
+     ? data.image
+     : category === 'News'
+       ? 'https://hashtagweb3.com/og-news.png'
+       : 'https://hashtagweb3.com/og-image-blog.png';
 
    const articleResult: Article = {
     slug,

@@ -189,7 +189,7 @@ export function formatJobForLinkedIn(job: any): LinkedInPostOptions {
 export async function getLinkedInAccessToken(code: string): Promise<string> {
  const clientId = process.env.LINKEDIN_CLIENT_ID;
  const clientSecret = process.env.LINKEDIN_CLIENT_SECRET;
- const redirectUri = process.env.LINKEDIN_REDIRECT_URI || 'http://localhost:3000/api/auth/linkedin/callback';
+ const redirectUri = process.env.LINKEDIN_REDIRECT_URI || 'http://localhost:3000/linkedin-oauth';
 
  if (!clientId || !clientSecret) {
   throw new Error('LinkedIn credentials not configured');
@@ -227,7 +227,7 @@ export async function getLinkedInAccessToken(code: string): Promise<string> {
  */
 export function getLinkedInAuthUrl(state: string): string {
  const clientId = process.env.LINKEDIN_CLIENT_ID;
- const redirectUri = process.env.LINKEDIN_REDIRECT_URI || 'http://localhost:3000/api/auth/linkedin/callback';
+ const redirectUri = process.env.LINKEDIN_REDIRECT_URI || 'http://localhost:3000/linkedin-oauth';
 
  const params = new URLSearchParams({
   response_type: 'code',

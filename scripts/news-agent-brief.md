@@ -1,7 +1,7 @@
 # News Publishing Run — Hashtag Web3
 
 You are publishing 0-2 new News articles for hashtagweb3.com. Today is $TODAY (UTC).
-Work in /Users/vedang/ZCodeProject/Web3-Jobs (repo root is the working directory).
+Work in the repository root (current working directory on the runner).
 
 ## 0. Tips first (mandatory)
 

@@ -73,10 +73,10 @@ export async function generateStaticParams() {
   const resources = getAllResourcePages();
   const events = await getEvents();
 
-  // Pre-render top 20 most recent articles + key resources. All other pages use ISR dynamically on first request.
+  // Pre-render recent articles/news + key resources/events. Jobs and the rest use dynamicParams.
   const topArticles = articles
    .sort((a, b) => new Date(b.publishedDate || 0).getTime() - new Date(a.publishedDate || 0).getTime())
-   .slice(0, 20);
+   .slice(0, 80);
 
   const curatedEvents = events
     .filter(e => e.source === 'curated-premier' || e.source === 'curated-series')
@@ -185,7 +185,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
       const siteUrl = 'https://hashtagweb3.com';
       const termUrl = `${siteUrl}/${term.slug}`;
       const metaDescription = generateGlossaryMetaDescription(term);
-      const ogImageUrl = `${siteUrl}/api/og?type=default&title=${encodeURIComponent(term.term)}`;
+      const ogImageUrl = `${siteUrl}/og-image.png`;
       
       return {
         title: `${term.term} - Web3 Glossary`,
@@ -216,7 +216,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
     if (resource) {
       const siteUrl = 'https://hashtagweb3.com';
       const resourceUrl = `${siteUrl}/${resource.seo.canonicalSlug}`;
-      const ogImageUrl = `${siteUrl}/api/og?type=default&title=${encodeURIComponent(resource.seo.title)}`;
+      const ogImageUrl = `${siteUrl}/og-image.png`;
       return {
         title: resource.seo.title,
         description: resource.seo.description,
@@ -297,7 +297,10 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
       const canonicalUrl = `${siteUrl}/${canonicalSlug}`;
       const title = `${jobMeta.title} at ${jobMeta.company}`;
       const description = buildUniqueJobMetaDescription(jobMeta);
-      const ogImageUrl = buildJobOgImageUrl(jobMeta, siteUrl);
+      const ogImageUrl = buildJobOgImageUrl(
+        { ...jobMeta, slug: canonicalSlug },
+        siteUrl,
+      );
       const hasVerifiedContent = hasSubstantialJobContent(jobMeta);
       return {
         title,

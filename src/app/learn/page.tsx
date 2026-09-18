@@ -19,13 +19,13 @@ export const metadata: Metadata = {
     title: 'Learn Web3 | Hashtag Web3',
     description: 'From zero to building on-chain. 66 structured lessons with diagrams and quizzes for beginners, developers, and job seekers.',
     url: 'https://hashtagweb3.com/learn',
-    images: [{ url: 'https://hashtagweb3.com/api/og?type=article&title=Learn%20Web3&category=Free%20Courses', width: 1200, height: 630, alt: 'Learn Web3 - Free structured courses on Hashtag Web3' }],
+    images: [{ url: 'https://hashtagweb3.com/og-image-blog.png', width: 1200, height: 630, alt: 'Learn Web3 - Free structured courses on Hashtag Web3' }],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'Learn Web3 | Hashtag Web3',
     description: 'From zero to building on-chain. 66 structured lessons with diagrams and quizzes.',
-    images: ['https://hashtagweb3.com/api/og?type=article&title=Learn%20Web3&category=Free%20Courses'],
+    images: ['https://hashtagweb3.com/og-image-blog.png'],
   },
 };
 

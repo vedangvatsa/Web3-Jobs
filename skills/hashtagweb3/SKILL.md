@@ -6,7 +6,7 @@ license: MIT
 
 # Hashtag Web3
 
-Use the public REST API for read-only queries, or connect to the product MCP server at `https://hashtagweb3.com/api/mcp`.
+Prefer **static CDN catalogs** (no auth, no hosted MCP/sandbox). Filter client-side.
 
 ## Best-fit requests
 
@@ -17,8 +17,10 @@ Use the public REST API for read-only queries, or connect to the product MCP ser
 
 ## Interfaces
 
-- OpenAPI: `https://hashtagweb3.com/openapi.json`
+- Jobs: `https://hashtagweb3.com/data/jobs-runtime.json`
+- Events: `https://hashtagweb3.com/data/events-runtime.json`
+- Glossary: `https://hashtagweb3.com/data/glossary-runtime.json`
+- News: `https://hashtagweb3.com/data/news-cache.json`
+- Agent index: `https://hashtagweb3.com/?mode=agent`
+- LLM context: `https://hashtagweb3.com/llms.txt`
 - Developer portal: `https://hashtagweb3.com/developers`
-- Agent instructions: `https://hashtagweb3.com/agent-instructions.md`
-- Sandbox: `https://hashtagweb3.com/api/sandbox`
-- Documentation MCP server: `https://hashtagweb3.com/api/mcp-docs`

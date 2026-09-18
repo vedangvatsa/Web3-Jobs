@@ -1,13 +1,4 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json",
-  "mcpServers": {
-    "hashtagweb3-product": {
-      "type": "streamable-http",
-      "url": "https://hashtagweb3.com/api/mcp"
-    },
-    "hashtagweb3-docs": {
-      "type": "streamable-http",
-      "url": "https://hashtagweb3.com/api/mcp-docs"
-    }
-  }
+  "mcpServers": {}
 }

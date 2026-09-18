@@ -185,19 +185,6 @@ export default async function RootLayout({
   return (
    <html lang="en" suppressHydrationWarning className={`${inter.variable}`}>
     <head>
-      <meta name="ai-content-declaration" content="Human-created content. AI systems may index, summarize, and cite. See /llms.txt for context." />
-      <meta name="mcp-registry" content="https://smithery.ai/server/@hashtagweb3/mcp" />
-      <meta name="mcp-server" content="https://hashtagweb3.com/api/mcp" />
-      <meta name="ai-catalog" content="https://hashtagweb3.com/.well-known/ai-catalog.json" />
-      <link rel="ai-context" href="/llms.txt" />
-      <link rel="alternate" type="text/markdown" href="https://hashtagweb3.com/index.md" />
-      <link rel="alternate" type="application/json" href="https://hashtagweb3.com/?mode=agent" title="Agent View" />
-      <link rel="alternate" type="application/json" href="https://hashtagweb3.com/.well-known/sitemap.json" title="Machine-readable JSON Sitemap" />
-      <link rel="sitemap" type="application/json" href="https://hashtagweb3.com/.well-known/sitemap.json" />
-      <link rel="developer-docs" href="/developers" />
-      <link rel="service-desc" type="application/vnd.oai.openapi+json;version=3.1" href="https://hashtagweb3.com/openapi.json" />
-      <link rel="mcp-registry" href="https://smithery.ai/server/@hashtagweb3/mcp" />
-      <link rel="mcp-server" href="https://hashtagweb3.com/api/mcp" />
       {/* Preconnect to external image CDNs to reduce LCP on pages with Unsplash images */}
       <link rel="preconnect" href="https://images.unsplash.com" />
       <link rel="dns-prefetch" href="https://images.unsplash.com" />
@@ -213,72 +200,6 @@ export default async function RootLayout({
       type="application/ld+json"
       dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationSchema) }}
      />
-     <Script
-       id="webmcp-registration"
-       strategy="afterInteractive"
-      dangerouslySetInnerHTML={{
-        __html: `
-          (function() {
-            if (typeof window === 'undefined') return;
-            function registerWebMCPTools(mc) {
-              if (!mc) return;
-              try {
-                if (typeof mc.registerTool === 'function') {
-                  mc.registerTool({
-                    name: 'search_jobs',
-                    description: 'Search verified Web3, crypto, DeFi, and blockchain jobs',
-                    parameters: { type: 'object', properties: { search: { type: 'string' }, tag: { type: 'string' }, limit: { type: 'number' } } },
-                    execute: async function(args) {
-                      const res = await fetch('/api/v1/jobs?search=' + encodeURIComponent(args.search || ''));
-                      return await res.json();
-                    }
-                  });
-                  mc.registerTool({
-                    name: 'search_glossary',
-                    description: 'Search 200+ blockchain glossary definitions',
-                    parameters: { type: 'object', properties: { search: { type: 'string' } } },
-                    execute: async function(args) {
-                      const res = await fetch('/api/v1/glossary?search=' + encodeURIComponent(args.search || ''));
-                      return await res.json();
-                    }
-                  });
-                  mc.registerTool({
-                    name: 'get_events',
-                    description: 'List upcoming Web3 conferences, hackathons, and crypto summits',
-                    parameters: { type: 'object', properties: { search: { type: 'string' } } },
-                    execute: async function(args) {
-                      const res = await fetch('/api/v1/events?search=' + encodeURIComponent(args.search || ''));
-                      return await res.json();
-                    }
-                  });
-                  mc.registerTool({
-                    name: 'get_news',
-                    description: 'Retrieve the latest Web3 and crypto news headlines',
-                    parameters: { type: 'object', properties: { search: { type: 'string' } } },
-                    execute: async function(args) {
-                      const res = await fetch('/api/v1/news?search=' + encodeURIComponent(args.search || ''));
-                      return await res.json();
-                    }
-                  });
-                }
-              } catch(e){}
-            }
-
-            const check = () => {
-              const mc = window.modelContext || document.modelContext || (navigator && navigator.modelContext) || window.webMCP;
-              registerWebMCPTools(mc);
-            };
-
-            if (document.readyState === 'loading') {
-              document.addEventListener('DOMContentLoaded', check);
-            } else {
-              check();
-            }
-            window.addEventListener('modelcontextready', check);
-          })();
-        `,
-      }}
-    />
      <Script
        id="gtag-script"
        strategy="lazyOnload"

@@ -1,0 +1,68 @@
+{
+  "_type": "agent_mode_view",
+  "name": "Hashtag Web3",
+  "url": "https://hashtagweb3.com",
+  "version": "1.1.0",
+  "last_updated": "2026-09-19",
+  "description": "Hashtag Web3 is a Web3 job board and career resource site. Agents should prefer static JSON catalogs (CDN) over serverless APIs.",
+  "documentation": "https://hashtagweb3.com/developers",
+  "agent_mode": "https://hashtagweb3.com/?mode=agent",
+  "openapi": "https://hashtagweb3.com/openapi.json",
+  "llms_txt": "https://hashtagweb3.com/llms.txt",
+  "agents_txt": "https://hashtagweb3.com/agents.txt",
+  "terms_of_use": "https://hashtagweb3.com/terms-of-use.md",
+  "agent_instructions": "https://hashtagweb3.com/agent-instructions.md",
+  "repository": "https://github.com/vedangvatsa/Web3-Jobs",
+  "agent_plugin": "https://hashtagweb3.com/plugin.json",
+  "authentication": {
+    "type": "zero-auth",
+    "required": false,
+    "description": "Static catalogs and public pages require no authentication."
+  },
+  "static_catalogs": [
+    {
+      "name": "Jobs",
+      "url": "https://hashtagweb3.com/data/jobs-runtime.json",
+      "description": "Full jobs listing snapshot (no descriptions). Filter client-side."
+    },
+    {
+      "name": "Events",
+      "url": "https://hashtagweb3.com/data/events-runtime.json",
+      "description": "Events catalog snapshot."
+    },
+    {
+      "name": "Glossary",
+      "url": "https://hashtagweb3.com/data/glossary-runtime.json",
+      "description": "Glossary terms snapshot."
+    },
+    {
+      "name": "News",
+      "url": "https://hashtagweb3.com/data/news-cache.json",
+      "description": "News headlines cache."
+    },
+    {
+      "name": "Articles index",
+      "url": "https://hashtagweb3.com/data/articles-index.json",
+      "description": "Article metadata index."
+    },
+    {
+      "name": "Companies",
+      "url": "https://hashtagweb3.com/data/companies-runtime.json",
+      "description": "Companies derived from jobs."
+    }
+  ],
+  "capabilities": [
+    "jobs-catalog",
+    "glossary-catalog",
+    "events-catalog",
+    "news-catalog",
+    "static-discovery"
+  ],
+  "links": {
+    "homepage": "https://hashtagweb3.com",
+    "jobs": "https://hashtagweb3.com/jobs",
+    "sitemap": "https://hashtagweb3.com/sitemap.xml",
+    "agents_manifest": "https://hashtagweb3.com/.well-known/agents.json",
+    "llms_txt": "https://hashtagweb3.com/llms.txt"
+  }
+}

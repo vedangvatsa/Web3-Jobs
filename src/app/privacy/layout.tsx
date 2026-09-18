@@ -10,7 +10,7 @@ export const metadata: Metadata = {
     title: 'Privacy Policy | Hashtag Web3',
     description: 'Hashtag Web3 Privacy Policy. Data protection and user rights.',
     url: 'https://hashtagweb3.com/privacy',
-    images: [{ url: 'https://hashtagweb3.com/api/og?type=default&title=Privacy%20Policy', width: 1200, height: 630 }],
+    images: [{ url: 'https://hashtagweb3.com/og-image.png', width: 1200, height: 630 }],
   },
 };
 

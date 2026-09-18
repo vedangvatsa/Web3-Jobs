@@ -23,15 +23,8 @@ src/lib/email.ts     ← Uses process.env.RESEND_API_KEY
 
 ## 🛡️ Additional Security Measures
 
-### API Endpoint Protection
-The `/api/send-job-alerts` endpoint is protected with:
-
-```typescript
-// Required authorization header
-Authorization: Bearer YOUR_CRON_SECRET
-```
-
-This prevents unauthorized users from triggering mass emails.
+### Daily job alerts
+Sends run from **GitHub Actions** (`.github/workflows/daily-job-alerts.yml` → `scripts/send-resend-broadcast.ts`), not a public HTTP cron endpoint. Protect Resend keys in GitHub secrets; do not expose them to the browser.
 
 ### Rate Limiting
 Built-in protections:

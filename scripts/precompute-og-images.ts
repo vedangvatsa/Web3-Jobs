@@ -1,0 +1,392 @@
+/**
+ * Build-time dynamic OG PNGs (1200×630).
+ * Served from /public/og/** as static CDN assets — no Serverless /api/og.
+ */
+import * as fs from 'fs';
+import * as path from 'path';
+import { createHash } from 'crypto';
+import satori from 'satori';
+import { Resvg } from '@resvg/resvg-js';
+import { getAllJobsWithSlugs } from '../src/lib/job-guides';
+import { getCompanies } from '../src/lib/companies';
+import { getCompanySlug } from '../src/lib/job-slugs';
+import { resolveCompanyLogo } from '../src/lib/company-logo';
+
+const ROOT = process.cwd();
+const OUT_JOBS = path.join(ROOT, 'public', 'og', 'jobs');
+const OUT_COMPANIES = path.join(ROOT, 'public', 'og', 'companies');
+const MANIFEST_PATH = path.join(ROOT, 'public', 'og', 'manifest.json');
+const FONT_PATH = path.join(ROOT, 'scripts', 'social', 'fonts', 'Inter-Bold.ttf');
+const WIDTH = 1200;
+const HEIGHT = 630;
+const VERSION = 'og-v4';
+const CONCURRENCY = 10;
+
+type Manifest = Record<string, string>;
+
+function parseLimit(): number | null {
+  const idx = process.argv.indexOf('--limit');
+  if (idx < 0) return null;
+  const n = Number(process.argv[idx + 1]);
+  return Number.isFinite(n) && n > 0 ? n : null;
+}
+
+function sha(input: string): string {
+  return createHash('sha1').update(input).digest('hex').slice(0, 16);
+}
+
+function loadManifest(): Manifest {
+  try {
+    return JSON.parse(fs.readFileSync(MANIFEST_PATH, 'utf8')) as Manifest;
+  } catch {
+    return {};
+  }
+}
+
+function saveManifest(manifest: Manifest): void {
+  fs.mkdirSync(path.dirname(MANIFEST_PATH), { recursive: true });
+  fs.writeFileSync(MANIFEST_PATH, JSON.stringify(manifest), 'utf8');
+}
+
+function truncate(text: string, max: number): string {
+  const t = text.trim();
+  if (t.length <= max) return t;
+  return `${t.slice(0, max - 3)}...`;
+}
+
+function titleFontSize(title: string): number {
+  if (title.length > 55) return 60;
+  if (title.length > 35) return 72;
+  if (title.length > 20) return 86;
+  return 100;
+}
+
+function fileToDataUrl(absPath: string): string | null {
+  try {
+    if (!fs.existsSync(absPath)) return null;
+    const buf = fs.readFileSync(absPath);
+    if (buf.byteLength === 0 || buf.byteLength > 500_000) return null;
+    const ext = path.extname(absPath).toLowerCase();
+    const mime =
+      ext === '.jpg' || ext === '.jpeg'
+        ? 'image/jpeg'
+        : ext === '.webp'
+          ? 'image/webp'
+          : 'image/png';
+    return `data:${mime};base64,${buf.toString('base64')}`;
+  } catch {
+    return null;
+  }
+}
+
+function logoDataUrlForCompany(companyName: string): string | null {
+  const logoPath = resolveCompanyLogo(getCompanySlug(companyName));
+  if (!logoPath) return null;
+  // PNG/JPEG only — webp data URLs can hang satori/resvg.
+  const pngCandidate = logoPath.replace(/\.(webp|svg)$/i, '.png');
+  for (const rel of [pngCandidate, logoPath]) {
+    if (!/\.(png|jpe?g)$/i.test(rel)) continue;
+    const data = fileToDataUrl(path.join(ROOT, 'public', rel.replace(/^\//, '')));
+    if (data) return data;
+  }
+  return null;
+}
+
+function jobCardElement(opts: {
+  title: string;
+  company: string;
+  logoDataUrl: string | null;
+}) {
+  const displayTitle = truncate(opts.title, 70);
+  const displayCompany = truncate(opts.company || 'Web3 Company', 40);
+  const fontSize = titleFontSize(displayTitle);
+
+  const logoBlock = opts.logoDataUrl
+    ? {
+        type: 'div',
+        props: {
+          style: {
+            display: 'flex',
+            alignItems: 'center',
+            justifyContent: 'center',
+            width: 96,
+            height: 96,
+            borderRadius: 24,
+            backgroundColor: '#ffffff',
+            border: '1.5px solid #e2e8f0',
+            padding: 12,
+          },
+          children: [
+            {
+              type: 'img',
+              props: {
+                src: opts.logoDataUrl,
+                width: 72,
+                height: 72,
+                style: { borderRadius: 16 },
+              },
+            },
+          ],
+        },
+      }
+    : null;
+
+  return {
+    type: 'div',
+    props: {
+      style: {
+        width: '100%',
+        height: '100%',
+        display: 'flex',
+        flexDirection: 'column',
+        alignItems: 'center',
+        justifyContent: 'center',
+        padding: 40,
+        fontFamily: 'Inter',
+        backgroundColor: '#f8fafc',
+        backgroundImage:
+          'radial-gradient(circle at 10% 15%, rgba(2, 132, 199, 0.08), transparent 35%), radial-gradient(circle at 90% 85%, rgba(14, 165, 233, 0.06), transparent 35%), linear-gradient(135deg, #ffffff 0%, #f1f5f9 100%)',
+      },
+      children: [
+        {
+          type: 'div',
+          props: {
+            style: {
+              width: 1120,
+              height: 550,
+              display: 'flex',
+              flexDirection: 'column',
+              alignItems: 'center',
+              justifyContent: 'center',
+              textAlign: 'center',
+              gap: 32,
+              padding: '48px 64px',
+              borderRadius: 32,
+              backgroundColor: '#ffffff',
+              border: '1px solid #e2e8f0',
+            },
+            children: [
+              ...(logoBlock ? [logoBlock] : []),
+              {
+                type: 'div',
+                props: {
+                  style: {
+                    display: 'flex',
+                    alignItems: 'center',
+                    justifyContent: 'center',
+                    gap: 16,
+                  },
+                  children: [
+                    {
+                      type: 'div',
+                      props: {
+                        style: {
+                          display: 'flex',
+                          fontSize: 48,
+                          fontWeight: 800,
+                          color: '#0284c7',
+                          letterSpacing: -0.5,
+                        },
+                        children: displayCompany,
+                      },
+                    },
+                    {
+                      type: 'div',
+                      props: {
+                        style: {
+                          display: 'flex',
+                          fontSize: 48,
+                          fontWeight: 500,
+                          color: '#475569',
+                          letterSpacing: -0.5,
+                        },
+                        children: 'is hiring for',
+                      },
+                    },
+                  ],
+                },
+              },
+              {
+                type: 'div',
+                props: {
+                  style: {
+                    display: 'flex',
+                    alignItems: 'center',
+                    justifyContent: 'center',
+                    textAlign: 'center',
+                    fontSize,
+                    fontWeight: 900,
+                    color: '#0f172a',
+                    lineHeight: 1.14,
+                    letterSpacing: -2,
+                    maxWidth: 1020,
+                    padding: '0 20px',
+                  },
+                  children: displayTitle,
+                },
+              },
+            ],
+          },
+        },
+      ],
+    },
+  };
+}
+
+function companyCardElement(opts: { name: string; jobCount?: number; logoDataUrl: string | null }) {
+  const name = truncate(opts.name, 48);
+  const subtitle =
+    typeof opts.jobCount === 'number' && opts.jobCount > 0
+      ? `${opts.jobCount} open role${opts.jobCount === 1 ? '' : 's'}`
+      : 'Web3 careers';
+
+  return jobCardElement({
+    title: subtitle,
+    company: name,
+    logoDataUrl: opts.logoDataUrl,
+  });
+}
+
+async function renderPng(element: unknown, font: Buffer): Promise<Buffer> {
+  const work = (async () => {
+    const svg = await satori(element as Parameters<typeof satori>[0], {
+      width: WIDTH,
+      height: HEIGHT,
+      fonts: [{ name: 'Inter', data: font, weight: 700, style: 'normal' }],
+    });
+    const resvg = new Resvg(svg, {
+      fitTo: { mode: 'width', value: WIDTH },
+    });
+    return Buffer.from(resvg.render().asPng());
+  })();
+
+  const timeout = new Promise<never>((_, reject) => {
+    setTimeout(() => reject(new Error('og render timeout')), 15_000);
+  });
+  return Promise.race([work, timeout]);
+}
+
+async function mapPool<T>(
+  items: T[],
+  concurrency: number,
+  fn: (item: T, index: number) => Promise<void>,
+): Promise<void> {
+  let i = 0;
+  const workers = Array.from({ length: Math.min(concurrency, items.length) }, async () => {
+    while (i < items.length) {
+      const idx = i++;
+      await fn(items[idx], idx);
+    }
+  });
+  await Promise.all(workers);
+}
+
+async function main() {
+  const limit = parseLimit();
+  const font = fs.readFileSync(FONT_PATH);
+  const manifest = loadManifest();
+  fs.mkdirSync(OUT_JOBS, { recursive: true });
+  fs.mkdirSync(OUT_COMPANIES, { recursive: true });
+
+  let jobs = await getAllJobsWithSlugs();
+  if (limit) jobs = jobs.slice(0, limit);
+
+  let written = 0;
+  let skipped = 0;
+  const t0 = Date.now();
+
+  let done = 0;
+  await mapPool(jobs, CONCURRENCY, async ({ job, slug }) => {
+    const key = `job:${slug}`;
+    const logoRel = resolveCompanyLogo(getCompanySlug(job.company)) || '';
+    const fingerprint = sha(`${VERSION}|${job.title}|${job.company}|${logoRel}`);
+    const outFile = path.join(OUT_JOBS, `${slug}.png`);
+    if (manifest[key] === fingerprint && fs.existsSync(outFile)) {
+      skipped += 1;
+      done += 1;
+      return;
+    }
+    try {
+      const png = await renderPng(
+        jobCardElement({
+          title: job.title,
+          company: job.company,
+          logoDataUrl: logoDataUrlForCompany(job.company),
+        }),
+        font,
+      );
+      fs.writeFileSync(outFile, png);
+      manifest[key] = fingerprint;
+      written += 1;
+    } catch (err) {
+      // Logo-less retry once, then leave static fallback URL for this slug.
+      try {
+        const png = await renderPng(
+          jobCardElement({ title: job.title, company: job.company, logoDataUrl: null }),
+          font,
+        );
+        fs.writeFileSync(outFile, png);
+        manifest[key] = fingerprint;
+        written += 1;
+      } catch (err2) {
+        console.warn(`[precompute-og-images] skip job ${slug}:`, (err2 as Error).message || err);
+      }
+    }
+    done += 1;
+    if (done % 200 === 0 || done === jobs.length) {
+      console.log(`[precompute-og-images] jobs ${done}/${jobs.length} (wrote ${written}, skipped ${skipped})`);
+      saveManifest(manifest);
+    }
+  });
+
+  let companies = await getCompanies();
+  if (limit) companies = companies.slice(0, Math.min(limit, companies.length));
+
+  await mapPool(companies, CONCURRENCY, async (company) => {
+    const slug = getCompanySlug(company.name);
+    const key = `company:${slug}`;
+    const logoRel = resolveCompanyLogo(slug) || '';
+    const jobCount = 'jobCount' in company ? Number((company as { jobCount?: number }).jobCount || 0) : 0;
+    const fingerprint = sha(`${VERSION}|${company.name}|${jobCount}|${logoRel}`);
+    const outFile = path.join(OUT_COMPANIES, `${slug}.png`);
+    if (manifest[key] === fingerprint && fs.existsSync(outFile)) {
+      skipped += 1;
+      return;
+    }
+    try {
+      const png = await renderPng(
+        companyCardElement({
+          name: company.name,
+          jobCount,
+          logoDataUrl: logoDataUrlForCompany(company.name),
+        }),
+        font,
+      );
+      fs.writeFileSync(outFile, png);
+      manifest[key] = fingerprint;
+      written += 1;
+    } catch {
+      try {
+        const png = await renderPng(
+          companyCardElement({ name: company.name, jobCount, logoDataUrl: null }),
+          font,
+        );
+        fs.writeFileSync(outFile, png);
+        manifest[key] = fingerprint;
+        written += 1;
+      } catch (err2) {
+        console.warn(`[precompute-og-images] skip company ${slug}:`, (err2 as Error).message);
+      }
+    }
+  });
+
+  saveManifest(manifest);
+  console.log(
+    `[precompute-og-images] wrote ${written}, skipped ${skipped}, jobs=${jobs.length}, companies=${companies.length} in ${((Date.now() - t0) / 1000).toFixed(1)}s → public/og/`,
+  );
+}
+
+main().catch((err) => {
+  console.error(err);
+  process.exit(1);
+});

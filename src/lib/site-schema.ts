@@ -61,10 +61,10 @@ export const faqSchema = {
     },
     {
       '@type': 'Question',
-      name: 'Does Hashtag Web3 provide developer APIs and MCP servers for AI agents?',
+      name: 'Can developers and agents use Hashtag Web3 data?',
       acceptedAnswer: {
         '@type': 'Answer',
-        text: 'Yes, Hashtag Web3 provides public REST endpoints (GET /api/v1/jobs, /api/v1/glossary, /api/v1/events, /api/v1/news), OpenAPI 3.1 specifications, and a Streamable HTTP Model Context Protocol (MCP) server at /.well-known/mcp.',
+        text: 'Yes. Build-time JSON catalogs are available under /data/ (jobs, events, glossary, news). Prefer those static files over hosted APIs.',
       },
     },
   ],

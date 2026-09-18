@@ -21,6 +21,10 @@
 /public/job-description-shards/
 /public/data/
 /public/articles-data/
+/public/preview/
+/public/og/jobs/
+/public/og/companies/
+/public/og/manifest.json
 /tmp/
 .resend-segment-sync.*
 

@@ -1,5 +1,3 @@
-import { formatEventLocation } from './events';
-
 export const EVENT_OG_VERSION = '6';
 export const SITE_URL = 'https://hashtagweb3.com';
 
@@ -17,18 +15,12 @@ export function hasEventPosterCover(cover?: string | null): boolean {
   return Boolean(value && !value.includes('/api/og'));
 }
 
-/** Dynamic Hashtag event card (fallback when no poster image exists). */
-export function buildEventOgImageUrl(event: EventOgInput, siteUrl = SITE_URL): string {
-  const location = formatEventLocation({
-    location: event.location || '',
-    city: event.city,
-    country: event.country,
-  });
-  const datePart = event.startDate?.slice(0, 10) || '';
-  return `${siteUrl}/api/og?type=event&v=${EVENT_OG_VERSION}&title=${encodeURIComponent(event.name)}&location=${encodeURIComponent(location)}${datePart ? `&date=${encodeURIComponent(datePart)}` : ''}`;
+/** Static events card when no poster/cover exists (no Serverless OG renderer). */
+export function buildEventOgImageUrl(_event: EventOgInput, siteUrl = SITE_URL): string {
+  return `${siteUrl}/og-image.png`;
 }
 
-/** Prefer event poster/coverImage for previews; fall back to dynamic /api/og event card. */
+/** Prefer event poster/coverImage for previews; fall back to static site card. */
 export function resolveEventOgImageUrl(event: EventOgInput, siteUrl = SITE_URL): string {
   const cover = (event.coverImage || '').trim();
   if (hasEventPosterCover(cover)) {

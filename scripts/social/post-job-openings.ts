@@ -960,15 +960,13 @@ async function verifySocialServing(
     }
     const image = m[1].replace(/&amp;/g, '&');
     const imageUrl = new URL(image, SITE_URL);
-    if (
-      imageUrl.origin !== SITE_URL ||
-      imageUrl.pathname !== '/api/og' ||
-      imageUrl.searchParams.get('type') !== 'job' ||
-      imageUrl.searchParams.get('v') !== JOB_OG_VERSION ||
-      imageUrl.searchParams.get('title') !== title ||
-      imageUrl.searchParams.get('company') !== company
-    ) {
-      console.error(`Preview readiness: og:image does not identify ${company}/${title} — aborting publish`);
+    // Per-job PNGs from build: /og/jobs/{slug}.png (no request-time /api/og).
+    const isJobOg =
+      imageUrl.origin === SITE_URL &&
+      (/^\/og\/jobs\/[^/]+\.png$/.test(imageUrl.pathname) ||
+        imageUrl.pathname === '/og-image-jobs.png');
+    if (!isJobOg) {
+      console.error(`Preview readiness: og:image is not a job OG asset for ${company}/${title} — aborting publish`);
       return null;
     }
     const imgRes = await fetch(imageUrl, {
