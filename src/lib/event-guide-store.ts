@@ -2,7 +2,7 @@ import fs from 'fs';
 import path from 'path';
 import type { Web3Event, EventEditorialArticle } from './events';
 import { EVENT_GUIDES } from './event-guides';
-import { getEventEditorialGuide } from './events';
+import { getEventEditorialGuide, getEventSlug } from './events';
 import { sanitizeEventEditorial } from './event-editorial-facts';
 import {
   buildEditorialFromOrganizerDescription,
@@ -35,12 +35,12 @@ function loadGenerated(): Record<string, EventEditorialArticle> {
 }
 
 export async function resolveEventGuide(event: Web3Event): Promise<EventEditorialArticle> {
+  const slug = (event.slug || getEventSlug(event) || '').toLowerCase().trim();
+  if (slug && EVENT_GUIDES[slug]) return sanitizeEventEditorial(EVENT_GUIDES[slug]);
+
   if (isLumaListedEvent(event)) {
     return sanitizeEventEditorial(buildEditorialFromOrganizerDescription(event));
   }
-
-  const slug = (event.slug || '').toLowerCase().trim();
-  if (slug && EVENT_GUIDES[slug]) return sanitizeEventEditorial(EVENT_GUIDES[slug]);
 
   const generated = loadGenerated();
   const generatedKey = (event.id && generated[event.id])

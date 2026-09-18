@@ -507,7 +507,7 @@ export interface EventEditorialArticle {
 }
 
 export function getEventEditorialGuide(event: Web3Event): EventEditorialArticle {
-  const slug = (event.slug || '').toLowerCase().trim();
+  const slug = (event.slug || getEventSlug(event) || '').toLowerCase().trim();
   if (slug && EVENT_GUIDES[slug]) return EVENT_GUIDES[slug];
 
   if (isLumaListedEvent(event)) {
