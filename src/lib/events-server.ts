@@ -1,3 +1,10 @@
+import curatedEventsJson from '../../content/curated-events.json';
+import kbwLumaEventsJson from '../../content/kbw-luma-events.json';
+import ibwSideEventsJson from '../../content/ibw-side-events.json';
+import indiaLumaEventsJson from '../../content/india-luma-events.json';
+import lumaCryptoEventsJson from '../../content/luma-crypto-events.json';
+import eventsCacheJson from '../../content/events-cache.json';
+import eventImageOverridesJson from '../../content/event-image-overrides.json';
 import fs from 'fs';
 import path from 'path';
 import { Web3Event, formatEventLocation, getEventBaseSlug, getEventEcosystems, getEventSlug, getEventType, normalizeCountry } from './events';
@@ -108,14 +115,8 @@ const KBW_LUMA_IMAGE_OVERRIDES: Record<string, string> = {
   'kbw-luma-xrp-afterparty-2026': 'https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/r1/96efe20d-1f2b-4666-a8b9-1403a160ddc0.png',
 };
 
-function loadEventImageOverrides(cwd: string): Record<string, string> {
-  const imagePath = path.join(cwd, 'content', 'event-image-overrides.json');
-  try {
-    return fs.existsSync(imagePath) ? JSON.parse(fs.readFileSync(imagePath, 'utf8')) : {};
-  } catch (err) {
-    console.error('Failed to read event-image-overrides.json:', err);
-    return {};
-  }
+function loadEventImageOverrides(): Record<string, string> {
+  return eventImageOverridesJson as Record<string, string>;
 }
 
 let rootContentSlugs: Promise<Set<string>> | undefined;
@@ -280,64 +281,14 @@ function linkSideEventParents(event: Web3Event): Web3Event {
 
 async function loadEvents(): Promise<Web3Event[]> {
   try {
-    const cwd = process.cwd();
-    const curatedPath = path.join(cwd, 'content', 'curated-events.json');
-    const kbwLumaPath = path.join(cwd, 'content', 'kbw-luma-events.json');
-    const ibwSideEventsPath = path.join(cwd, 'content', 'ibw-side-events.json');
-    const indiaLumaEventsPath = path.join(cwd, 'content', 'india-luma-events.json');
-    const lumaCryptoEventsPath = path.join(cwd, 'content', 'luma-crypto-events.json');
-     const cachePath = path.join(cwd, 'content', 'events-cache.json');
-     const eventImageOverrides = loadEventImageOverrides(cwd);
+    const eventImageOverrides = loadEventImageOverrides();
 
-    let curatedEvents: Web3Event[] = [];
-    let kbwLumaEvents: Web3Event[] = [];
-    let ibwSideEvents: Web3Event[] = [];
-    let indiaLumaEvents: Web3Event[] = [];
-    let lumaCryptoEvents: Web3Event[] = [];
-    let cachedEvents: Web3Event[] = [];
-
-    if (fs.existsSync(curatedPath)) {
-      try {
-        curatedEvents = JSON.parse(fs.readFileSync(curatedPath, 'utf8'));
-      } catch (err) {
-        console.error('Failed to read curated-events.json:', err);
-      }
-    }
-
-    if (fs.existsSync(kbwLumaPath)) {
-      try {
-        kbwLumaEvents = JSON.parse(fs.readFileSync(kbwLumaPath, 'utf8'));
-      } catch (err) {
-        console.error('Failed to read kbw-luma-events.json:', err);
-      }
-    }
-
-    for (const [filePath, target] of [[ibwSideEventsPath, 'ibw'], [indiaLumaEventsPath, 'india']] as const) {
-      if (!fs.existsSync(filePath)) continue;
-      try {
-        const events = JSON.parse(fs.readFileSync(filePath, 'utf8')) as Web3Event[];
-        if (target === 'ibw') ibwSideEvents = events;
-        else indiaLumaEvents = events;
-      } catch (err) {
-        console.error(`Failed to read ${path.basename(filePath)}:`, err);
-      }
-    }
-
-    if (fs.existsSync(lumaCryptoEventsPath)) {
-      try {
-        lumaCryptoEvents = JSON.parse(fs.readFileSync(lumaCryptoEventsPath, 'utf8'));
-      } catch (err) {
-        console.error('Failed to read luma-crypto-events.json:', err);
-      }
-    }
-
-    if (fs.existsSync(cachePath)) {
-      try {
-        cachedEvents = JSON.parse(fs.readFileSync(cachePath, 'utf8'));
-      } catch (err) {
-        console.error('Failed to read events-cache.json:', err);
-      }
-    }
+    const curatedEvents = curatedEventsJson as Web3Event[];
+    const kbwLumaEvents = kbwLumaEventsJson as Web3Event[];
+    const ibwSideEvents = ibwSideEventsJson as Web3Event[];
+    const indiaLumaEvents = indiaLumaEventsJson as Web3Event[];
+    const lumaCryptoEvents = lumaCryptoEventsJson as Web3Event[];
+    const cachedEvents = eventsCacheJson as Web3Event[];
 
     // Combine all events - curated premier takes precedence
     const rawAll = [...curatedEvents, ...kbwLumaEvents, ...ibwSideEvents, ...indiaLumaEvents, ...lumaCryptoEvents, ...cachedEvents].map(linkSideEventParents);
@@ -424,7 +375,7 @@ async function loadEvents(): Promise<Web3Event[]> {
         country: normalizedCountry,
       });
       const posterCover = resolveEventCoverImage(
-        cwd,
+        '',
         eventImageOverrides[e.id] || KBW_LUMA_IMAGE_OVERRIDES[e.id] || e.coverImage,
       );
 

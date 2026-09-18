@@ -348,9 +348,11 @@ function isNewsItem(value: unknown): value is NewsItem {
     .every((key) => typeof item[key] === 'string');
 }
 
-export function readNewsSnapshot(snapshotPath = CACHE_PATH): NewsItem[] {
+import newsCacheJson from '../../content/news-cache.json';
+
+export function readNewsSnapshot(): NewsItem[] {
   try {
-    const snapshot = JSON.parse(fs.readFileSync(snapshotPath, 'utf8')) as {
+    const snapshot = newsCacheJson as {
       generatedAt?: unknown;
       items?: unknown;
     };
