@@ -15,7 +15,7 @@ function canUseNextImage(src: string): boolean {
 
 /** Detail-page hero: fit any aspect ratio inside one bounded frame (no crop, no viewport takeover). Frame is fully transparent. */
 const EVENT_HERO_FRAME_CLASS =
-  'relative mx-auto mt-8 flex h-[min(280px,32vh)] w-full max-w-3xl items-center justify-center overflow-hidden rounded-2xl border border-transparent bg-transparent sm:h-[min(320px,36vh)] sm:max-w-4xl';
+  'relative mt-8 flex h-[min(280px,32vh)] w-full items-center justify-center overflow-hidden rounded-2xl border border-transparent bg-transparent sm:h-[min(320px,36vh)]';
 
 const EVENT_HERO_IMAGE_CLASS =
   'h-auto w-auto max-h-full max-w-full object-contain object-center';
@@ -72,7 +72,7 @@ export function EventHeroImage({
           width={1600}
           height={900}
           className={EVENT_HERO_IMAGE_CLASS}
-          sizes="(max-width: 640px) calc(100vw - 2rem), (max-width: 1280px) 896px, 896px"
+          sizes="(max-width: 640px) calc(100vw - 2rem), (max-width: 1280px) 1152px, 1152px"
           priority
           onError={() => setFailed(true)}
         />
