@@ -89,4 +89,16 @@ The secret is missing **or** the App Hosting backend service account cannot read
 
 4. **Redeploy** the App Hosting backend (new rollout from console or push to the connected branch).
 
+### Automated sync from GitHub (recommended)
+
+**Actions → Sync Firebase App Hosting secrets** runs [`scripts/sync-firebase-apphosting-secrets.sh`](../scripts/sync-firebase-apphosting-secrets.sh) with values from GitHub secrets.
+
+Requirements:
+
+1. **`FIREBASE_APPHOSTING_SERVICE_ACCOUNT_KEY`** — service account JSON from the **App Hosting** project (`web3-jobs-aggregator`), **or** grant your existing `FIREBASE_SERVICE_ACCOUNT_KEY` principal access **on that project** (see failed workflow log: it prints `client_email` to add in [IAM](https://console.cloud.google.com/iam-admin/iam?project=web3-jobs-aggregator)).
+2. **`NEXT_PUBLIC_FIREBASE_*`** in GitHub must match the **same** Firebase project as App Hosting (not the old `web3-job-board-aggregator` values).
+3. Re-run the workflow, then trigger a new App Hosting rollout.
+
+**Actions → Sync Cloudflare Worker secrets** is separate — run that after updating GitHub Firebase secrets so Workers stay in sync.
+
 Also add **`FIREBASE_SERVICE_ACCOUNT_KEY`** (or JSON) to **GitHub** and sync to Cloudflare if job alerts / LinkedIn need Admin SDK on Workers — App Hosting does not use that variable from `apphosting.yaml` today; Workers do.
