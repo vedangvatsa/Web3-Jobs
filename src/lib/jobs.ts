@@ -1,14 +1,9 @@
 
-'use server';
-
 import type { Job } from '@/types';
-import * as fs from 'fs';
-import * as path from 'path';
 import { cleanPublishText } from '@/lib/noslop';
 import { getJobIdentity } from './job-slugs';
 import { isGeneralOrPlaceholderJobTitle, isConcreteJobOpening, cleanCompanyName } from './job-filters';
-
-const CACHE_PATH = path.join(process.cwd(), 'content/jobs-cache.json');
+import jobsCacheJson from '../../content/jobs-cache.json';
 
 /**
  * Non-Web3 companies that leak through portfolio job boards (e.g. Coinbase GetRo).
@@ -116,8 +111,7 @@ export async function getJobs(): Promise<Job[]> {
   if (jobsCache) return jobsCache;
 
  try {
-  const data = fs.readFileSync(CACHE_PATH, 'utf-8');
-  const jobs: Job[] = JSON.parse(data).map((job: Job) => {
+  const jobs: Job[] = (jobsCacheJson as Job[]).map((job: Job) => {
     let loc = job.location || '';
     if (typeof loc === 'string' && loc.includes(',')) {
       const parts = loc.split(',').map(p => p.trim()).filter(Boolean);
