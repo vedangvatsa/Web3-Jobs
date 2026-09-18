@@ -12,7 +12,7 @@ function cdata(value: unknown): string {
 
 export async function GET() {
   const siteUrl = 'https://hashtagweb3.com';
-  const feedJobs = getRecentFeedJobs(await getJobs()).filter(isUsOrRemoteJob);
+  const feedJobs = getRecentFeedJobs(await getJobs()).filter(isUsOrRemoteJob).slice(0, 250);
   const jobsXml = feedJobs.map((job) => {
     // Canonical page everywhere: never expose the internal ATS source URL.
     const url = getPublicJobUrl(job, siteUrl);

@@ -19,7 +19,7 @@ export async function GET() {
   const siteUrl = "https://hashtagweb3.com";
   const allJobs = await getJobs();
 
-  const feedJobs = getRecentFeedJobs(allJobs);
+  const feedJobs = getRecentFeedJobs(allJobs).slice(0, 250);
 
   const jobsXml = feedJobs
     .map((job) => {
