@@ -138,12 +138,9 @@ export function JobBoard({
   }, []);
 
   useEffect(() => {
-    void requestJobs('', 0, true);
-  }, [requestJobs]);
-
-  useEffect(() => {
     if (isFirstSearchEffect.current) {
       isFirstSearchEffect.current = false;
+      void requestJobs('', 0, true);
       return;
     }
 
