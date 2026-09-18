@@ -5,6 +5,7 @@ import type { Article } from '@/types';
 import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
+import { loadStaticJson } from '@/lib/load-static-json';
 import { replaceArticleTweetEmbeds } from '@/lib/article-tweet-embed';
 import { remark } from 'remark';
 import remarkGfm from 'remark-gfm';
@@ -344,13 +345,21 @@ export async function getAllArticles(): Promise<ArticleMetadata[]> {
  }
 
  if (!articleMetadataCache) {
-  articleMetadataCache = readArticlesFromDirectory(contentArticlesDirectory)
-   .sort((a, b) => a.title.localeCompare(b.title));
+  try {
+   const indexed = await loadStaticJson<ArticleMetadata[]>('articles-index.json');
+   if (Array.isArray(indexed) && indexed.length > 0) {
+    articleMetadataCache = indexed;
+   }
+  } catch {
+   // Fall through to filesystem (local Node / build).
+  }
+  if (!articleMetadataCache?.length) {
+   articleMetadataCache = readArticlesFromDirectory(contentArticlesDirectory)
+    .sort((a, b) => a.title.localeCompare(b.title));
+  }
  }
 
- // Callers sort the result for their own views, so return a fresh array while
- // retaining the cached metadata objects and their existing visible values.
- return [...articleMetadataCache];
+ return [...(articleMetadataCache ?? [])];
 }
 
 export async function getArticle(slug: string): Promise<Article | undefined> {
