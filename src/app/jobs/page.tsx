@@ -10,7 +10,7 @@ import { PageHeader } from "@/components/page-header";
 
 import { SITE_STATS } from '@/lib/constants';
 import { PageShell } from '@/components/page-shell';
-import type { CompanyLogoMap } from '@/lib/job-listing';
+import type { CompanyLogoMap } from '@/lib/job-logo-map';
 
 export const dynamic = 'force-static';
 

@@ -1,6 +1,5 @@
 import { getPublicJobUrl } from '@/lib/job-slugs';
-import { buildCompanyLogoMapSync } from '@/lib/job-listing';
-import type { CompanyLogoMap } from '@/lib/job-listing';
+import { buildCompanyLogoMapSync, type CompanyLogoMap } from '@/lib/job-logo-map';
 import type { Job } from '@/types';
 
 export function getJobTags(job: Job): string[] {

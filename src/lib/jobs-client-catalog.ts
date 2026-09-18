@@ -1,5 +1,5 @@
 import type { Job } from '@/types';
-import type { CompanyLogoMap } from '@/lib/job-listing';
+import type { CompanyLogoMap } from '@/lib/job-logo-map';
 import { paginatePublicJobs } from '@/lib/jobs-public-listing';
 
 export type JobsApiResponse = {

@@ -4,7 +4,7 @@ import { useState, useMemo, useRef, useEffect } from 'react';
 import { CompanyCard } from '@/components/company-card';
 import { ListingEmptyState, ListingToolbar } from '@/components/listing-toolbar';
 import type { CompanySummary } from '@/types';
-import type { CompanyLogoMap } from '@/lib/job-listing';
+import type { CompanyLogoMap } from '@/lib/job-logo-map';
 
 const INITIAL_COUNT = 48;
 const LOAD_MORE_COUNT = 30;

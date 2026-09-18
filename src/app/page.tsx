@@ -8,7 +8,7 @@ import { PageHeader } from "@/components/page-header";
 import { PageShell } from '@/components/page-shell';
 import { breadcrumbSchema, faqSchema, serviceSchema } from '@/lib/site-schema';
 import type { Metadata } from 'next';
-import type { CompanyLogoMap } from '@/lib/job-listing';
+import type { CompanyLogoMap } from '@/lib/job-logo-map';
 
 // Static HTML from build — avoid bundling full jobs-runtime.json in the Worker (Cloudflare 1102).
 export const dynamic = 'force-static';
