@@ -1,3 +1,4 @@
+import React from 'react';
 import { deduplicateNewsItems, getNewsFeed } from '@/lib/news';
 import { getAllArticles } from '@/lib/articles';
 import { NewsPageClient } from '@/components/news-page-client';

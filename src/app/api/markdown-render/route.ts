@@ -78,15 +78,23 @@ ${trimmed}
 `;
 }
 
+function safeReadFile(filePath: string): string | null {
+  try {
+    if (typeof fs !== 'undefined' && typeof fs.existsSync === 'function' && fs.existsSync(filePath)) {
+      if (typeof fs.statSync === 'function' && fs.statSync(filePath).isFile()) {
+        return fs.readFileSync(filePath, 'utf8');
+      }
+    }
+  } catch {}
+  return null;
+}
+
 export async function GET(request: NextRequest) {
   try {
-    const originalUrl = request.headers.get('x-original-url') || request.url;
-    const url = new URL(originalUrl);
-    const pathname = url.pathname;
-
-    // Strip .md suffix if present for route lookup
-    const cleanPath = pathname.replace(/\.md$/, '') || '/';
-    const slug = cleanPath.replace(/^\//, '');
+    const { searchParams } = new URL(request.url);
+    const rawPath = searchParams.get('path') || '/';
+    const cleanPath = rawPath.replace(/\/+$/, '') || '/';
+    const slug = cleanPath.startsWith('/') ? cleanPath.slice(1) : cleanPath;
     const canonical = `https://hashtagweb3.com${cleanPath === '/' ? '' : cleanPath}`;
     const todayStr = '2026-08-28';
 
@@ -97,8 +105,8 @@ export async function GET(request: NextRequest) {
       path.join(process.cwd(), `${slug}.md`),
     ];
     for (const p of directPublicFiles) {
-      if (fs.existsSync(p) && fs.statSync(p).isFile()) {
-        const rawContent = fs.readFileSync(p, 'utf8');
+      const rawContent = safeReadFile(p);
+      if (rawContent !== null) {
         const trimmed = rawContent.trim();
         const outputMd = trimmed.startsWith('# ') ? rawContent : ensureFrontmatter(rawContent, {
           title: `Hashtag Web3 - ${slug}`,
@@ -123,7 +131,7 @@ export async function GET(request: NextRequest) {
     // 1. Homepage / index.md
     if (cleanPath === '/' || cleanPath === '/index') {
       const filePath = path.join(process.cwd(), 'public', 'llms.txt');
-      const rawContent = fs.existsSync(filePath) ? fs.readFileSync(filePath, 'utf8') : '# Hashtag Web3\n';
+      const rawContent = safeReadFile(filePath) || '# Hashtag Web3\n';
       const mdWithFm = ensureFrontmatter(rawContent, {
         title: 'Hashtag Web3 - Web3 Jobs, Blockchain Careers & Intelligence Network',
         description: 'Premier Web3 job board, crypto career resource platform, developer APIs, and intelligence network.',
@@ -146,7 +154,7 @@ export async function GET(request: NextRequest) {
     // 2. Core Section Hubs
     if (cleanPath === '/jobs') {
       const filePath = path.join(process.cwd(), 'public', 'jobs', 'llms.txt');
-      const rawContent = fs.existsSync(filePath) ? fs.readFileSync(filePath, 'utf8') : '# Web3 Jobs Directory\n';
+      const rawContent = safeReadFile(filePath) || '# Web3 Jobs Directory\n';
       const mdWithFm = ensureFrontmatter(rawContent, {
         title: 'Hashtag Web3 - Web3 Jobs & Crypto Careers Directory',
         description: 'Browse thousands of verified smart contract, blockchain engineering, DeFi, and crypto jobs.',
@@ -161,7 +169,7 @@ export async function GET(request: NextRequest) {
 
     if (cleanPath === '/developers' || cleanPath === '/docs' || cleanPath === '/api-docs') {
       const filePath = path.join(process.cwd(), 'public', 'developers', 'llms.txt');
-      const rawContent = fs.existsSync(filePath) ? fs.readFileSync(filePath, 'utf8') : '# Developer Portal\n';
+      const rawContent = safeReadFile(filePath) || '# Developer Portal\n';
       const mdWithFm = ensureFrontmatter(rawContent, {
         title: 'Hashtag Web3 API Docs & Developer Portal',
         description: 'Official Hashtag Web3 API documentation, OpenAPI 3.1 specifications, REST endpoint reference, and MCP servers.',
@@ -176,7 +184,7 @@ export async function GET(request: NextRequest) {
 
     if (cleanPath === '/glossary') {
       const filePath = path.join(process.cwd(), 'public', 'glossary-scoped.txt');
-      const rawContent = fs.existsSync(filePath) ? fs.readFileSync(filePath, 'utf8') : '# Web3 Glossary\n';
+      const rawContent = safeReadFile(filePath) || '# Web3 Glossary\n';
       const mdWithFm = ensureFrontmatter(rawContent, {
         title: 'Hashtag Web3 - 200+ Blockchain & Crypto Glossary Definitions',
         description: 'Comprehensive dictionary and reference for Web3, DeFi, Zero Knowledge, and blockchain concepts.',
@@ -191,7 +199,7 @@ export async function GET(request: NextRequest) {
 
     if (cleanPath === '/learn') {
       const filePath = path.join(process.cwd(), 'public', 'learn', 'llms.txt');
-      const rawContent = fs.existsSync(filePath) ? fs.readFileSync(filePath, 'utf8') : '# Web3 Learn\n';
+      const rawContent = safeReadFile(filePath) || '# Web3 Learn\n';
       const mdWithFm = ensureFrontmatter(rawContent, {
         title: 'Hashtag Web3 - Interactive Web3 Learning Courses & Lessons',
         description: 'Structured Web3 development curricula covering Solidity, Rust, DeFi protocols, and security audits.',
@@ -206,7 +214,7 @@ export async function GET(request: NextRequest) {
 
     if (cleanPath === '/auth') {
       const filePath = path.join(process.cwd(), 'public', 'auth.md');
-      const rawContent = fs.existsSync(filePath) ? fs.readFileSync(filePath, 'utf8') : '# Agent Authentication Guide\n';
+      const rawContent = safeReadFile(filePath) || '# Agent Authentication Guide\n';
       const mdWithFm = ensureFrontmatter(rawContent, {
         title: 'Hashtag Web3 - Agent Authentication Guide & Token Reference',
         description: 'WorkOS auth.md compliant agent registration, OAuth metadata, and bearer token workflow for Hashtag Web3.',

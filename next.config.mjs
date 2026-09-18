@@ -21,9 +21,8 @@ const nextConfig = {
       '@radix-ui/react-tabs',
       '@radix-ui/react-toast',
     ],
+    serverComponentsExternalPackages: ['firebase-admin', '@neynar/nodejs-sdk', '@farcaster/hub-nodejs'],
   },
-  // Skip bundling these CJS-heavy server libs; load from node_modules instead.
-  serverExternalPackages: ['firebase-admin', '@neynar/nodejs-sdk', '@farcaster/hub-nodejs'],
   /* config options here */
   trailingSlash: false,
   typescript: {
