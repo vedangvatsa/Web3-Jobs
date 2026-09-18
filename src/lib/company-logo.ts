@@ -1,5 +1,6 @@
-import fs from 'fs';
-import path from 'path';
+import companyLogosIndexJson from '../../content/company-logos-index.json';
+
+const availableLogoPaths = new Set<string>(companyLogosIndexJson as string[]);
 
 const COMPANY_LOGO_ALIASES: Record<string, string> = {
   '1inch-network': '1inch',
@@ -207,12 +208,8 @@ export const FAVICON_FIRST_SLUGS: ReadonlySet<string> = new Set(['circle', 'gsr'
 
 export function resolveCompanyLogo(companySlug: string): string | null {
   for (const relPath of LOGO_PATHS(companySlug)) {
-    try {
-      if (fs.existsSync(path.join(process.cwd(), 'public', relPath))) {
-        return relPath;
-      }
-    } catch {
-      continue;
+    if (availableLogoPaths.has(relPath)) {
+      return relPath;
     }
   }
   return null;

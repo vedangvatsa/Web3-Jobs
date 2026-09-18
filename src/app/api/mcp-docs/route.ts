@@ -1,31 +1,19 @@
 import { NextResponse } from 'next/server';
-import fs from 'fs';
-import path from 'path';
+import mcpDocsServerCardJson from '../../../../public/.well-known/mcp-docs/server-card.json';
 
 export const revalidate = 86400;
 
 export async function GET() {
-  try {
-    const filePath = path.join(process.cwd(), 'public', '.well-known', 'mcp-docs', 'server-card.json');
-    const content = fs.readFileSync(filePath, 'utf8');
-    const json = JSON.parse(content);
-
-    return NextResponse.json(json, {
-      status: 200,
-      headers: {
-        'Content-Type': 'application/json; charset=utf-8',
-        'Access-Control-Allow-Origin': '*',
-        'Access-Control-Allow-Methods': 'GET, POST, OPTIONS',
-        'Access-Control-Allow-Headers': 'Content-Type, Authorization, Accept, MCP-Protocol-Version',
-        'Cache-Control': 'public, max-age=86400, s-maxage=604800, stale-while-revalidate=86400',
-      },
-    });
-  } catch {
-    return NextResponse.json(
-      { error: { code: 'NOT_FOUND', message: 'MCP documentation server card not found.', hint: 'Use POST /api/mcp-docs for JSON-RPC.', docUrl: 'https://hashtagweb3.com/developers' } },
-      { status: 404, headers: { 'Access-Control-Allow-Origin': '*' } }
-    );
-  }
+  return NextResponse.json(mcpDocsServerCardJson, {
+    status: 200,
+    headers: {
+      'Content-Type': 'application/json; charset=utf-8',
+      'Access-Control-Allow-Origin': '*',
+      'Access-Control-Allow-Methods': 'GET, POST, OPTIONS',
+      'Access-Control-Allow-Headers': 'Content-Type, Authorization, Accept, MCP-Protocol-Version',
+      'Cache-Control': 'public, max-age=86400, s-maxage=604800, stale-while-revalidate=86400',
+    },
+  });
 }
 
 export async function OPTIONS() {
@@ -157,8 +145,12 @@ export async function POST(request: Request) {
   if (method === 'resources/read') {
     const uri = String(params.uri || '');
     if (uri === 'hashtagweb3-docs://api/reference') {
-      const p = path.join(process.cwd(), 'public', 'developers', 'llms.txt');
-      const text = fs.existsSync(p) ? fs.readFileSync(p, 'utf8') : '# API Reference\n';
+      let text = '# API Reference\n';
+      try {
+        const siteOrigin = process.env.NEXT_PUBLIC_SITE_URL?.replace(/\/$/, '') || 'https://hashtagweb3.com';
+        const res = await fetch(`${siteOrigin}/developers/llms.txt`);
+        if (res.ok) text = await res.text();
+      } catch {}
       return NextResponse.json({
         jsonrpc: '2.0',
         id,
@@ -168,8 +160,12 @@ export async function POST(request: Request) {
       }, { headers: { 'Access-Control-Allow-Origin': '*' } });
     }
     if (uri === 'hashtagweb3-docs://auth/agent') {
-      const p = path.join(process.cwd(), 'public', 'auth.md');
-      const text = fs.existsSync(p) ? fs.readFileSync(p, 'utf8') : '# Agent Authentication Guide\n';
+      let text = '# Agent Authentication Guide\n';
+      try {
+        const siteOrigin = process.env.NEXT_PUBLIC_SITE_URL?.replace(/\/$/, '') || 'https://hashtagweb3.com';
+        const res = await fetch(`${siteOrigin}/auth.md`);
+        if (res.ok) text = await res.text();
+      } catch {}
       return NextResponse.json({
         jsonrpc: '2.0',
         id,

@@ -1,6 +1,5 @@
 import { NextResponse } from 'next/server';
-import fs from 'fs';
-import path from 'path';
+import mcpServerCardJson from '../../../public/.well-known/mcp/server-card.json';
 import { getJobs } from '@/lib/jobs';
 import { getPublicJobUrl } from '@/lib/job-slugs';
 import { getAllTerms } from '@/lib/glossary';
@@ -13,28 +12,17 @@ export const revalidate = 86400;
 const MCP_CSP = "default-src 'self'; connect-src 'self' https://hashtagweb3.com; frame-ancestors 'self' https://chatgpt.com https://claude.ai; form-action 'self' https://hashtagweb3.com; img-src 'self' https://hashtagweb3.com; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline';";
 
 export async function GET() {
-  try {
-    const filePath = path.join(process.cwd(), 'public', '.well-known', 'mcp', 'server-card.json');
-    const content = fs.readFileSync(filePath, 'utf8');
-    const json = JSON.parse(content);
-
-    return NextResponse.json(json, {
-      status: 200,
-      headers: {
-        'Content-Type': 'application/json; charset=utf-8',
-        'Access-Control-Allow-Origin': '*',
-        'Access-Control-Allow-Methods': 'GET, POST, OPTIONS',
-        'Access-Control-Allow-Headers': 'Content-Type, Authorization, Accept, MCP-Protocol-Version',
-        'Cache-Control': 'public, max-age=86400, s-maxage=604800, stale-while-revalidate=86400',
-        'Content-Security-Policy': MCP_CSP,
-      },
-    });
-  } catch {
-    return NextResponse.json(
-      { error: { code: 'NOT_FOUND', message: 'MCP server card not found.', hint: 'Use POST /api/mcp for JSON-RPC.', docUrl: 'https://hashtagweb3.com/developers' } },
-      { status: 404, headers: { 'Access-Control-Allow-Origin': '*' } }
-    );
-  }
+  return NextResponse.json(mcpServerCardJson, {
+    status: 200,
+    headers: {
+      'Content-Type': 'application/json; charset=utf-8',
+      'Access-Control-Allow-Origin': '*',
+      'Access-Control-Allow-Methods': 'GET, POST, OPTIONS',
+      'Access-Control-Allow-Headers': 'Content-Type, Authorization, Accept, MCP-Protocol-Version',
+      'Cache-Control': 'public, max-age=86400, s-maxage=604800, stale-while-revalidate=86400',
+      'Content-Security-Policy': MCP_CSP,
+    },
+  });
 }
 
 export async function OPTIONS() {
@@ -417,8 +405,12 @@ ${events.slice(0, 10).map(e => `<li><strong>${e.name}</strong> - ${e.city || e.l
       }
 
       if (uri === 'hashtagweb3://docs/overview') {
-        const docPath = path.join(process.cwd(), 'public', 'developers', 'llms.txt');
-        const text = fs.existsSync(docPath) ? fs.readFileSync(docPath, 'utf8') : '# Hashtag Web3 Developer Overview\n';
+        let text = '# Hashtag Web3 Developer Overview\n';
+        try {
+          const siteOrigin = process.env.NEXT_PUBLIC_SITE_URL?.replace(/\/$/, '') || 'https://hashtagweb3.com';
+          const res = await fetch(`${siteOrigin}/developers/llms.txt`);
+          if (res.ok) text = await res.text();
+        } catch {}
         return NextResponse.json({
           jsonrpc: '2.0',
           id,

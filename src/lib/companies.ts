@@ -2,9 +2,7 @@
 
 import type { Company, Job } from '@/types';
 import { getJobs } from './jobs';
-import fs from 'fs/promises';
-import path from 'path';
-import matter from 'gray-matter';
+import companyProfilesJson from '../../content/company-profiles-runtime.json';
 import { COMPANY_RICH_ABOUT } from './company-profiles';
 import { cleanJobLocation } from './job-location';
 
@@ -505,36 +503,16 @@ function getSafeProfileWebsite(value: unknown): string | undefined {
  }
 }
 
-/**
- * Read only a company's canonical website from legacy markdown. The prose in
- * those files is intentionally not rendered: company-page copy is derived from
- * current, company-specific job facts instead of copied marketing language.
- */
+const companyProfilesMap = (companyProfilesJson as Record<string, { website?: string; description?: string }>) || {};
+
 async function loadCompanyContent(slug: string): Promise<{ website?: string; description?: string } | null> {
-  try {
-    const companiesDir = path.join(process.cwd(), 'content', 'companies');
-    const filePath = path.join(companiesDir, `${slug}.md`);
-    const fileContent = await fs.readFile(filePath, 'utf-8');
-    const { data, content } = matter(fileContent);
-    const website = getSafeProfileWebsite(data.website);
-
-    const bodyPlain = content.replace(/^#+.*$/gm, '').replace(/[\r\n]+/g, ' ').trim();
-    const frontDesc = typeof data.description === 'string' && data.description.trim() ? data.description.trim() : '';
-
-    let description = '';
-    if (frontDesc && bodyPlain && frontDesc !== bodyPlain) {
-      description = `${frontDesc}\n\n${bodyPlain}`.trim();
-    } else {
-      description = frontDesc || bodyPlain;
-    }
-
-    return {
-      ...(website && { website }),
-      ...(description && { description }),
-    };
-  } catch {
-    return null;
-  }
+  const profile = companyProfilesMap[slug.toLowerCase().trim()];
+  if (!profile) return null;
+  const website = getSafeProfileWebsite(profile.website);
+  return {
+    ...(website && { website }),
+    ...(profile.description && { description: profile.description }),
+  };
 }
 
 /**

@@ -1,11 +1,27 @@
 [
   {
+    "slug": "binance-mica",
+    "title": "WSJ Reports Lagarde Intervened to Stall Binance MiCA License",
+    "description": "The Wall Street Journal reported on Sept. 18, 2026 that ECB President Christine Lagarde personally intervened to stall Binance's MiCA license bid in Greece, an account Binance declined to address beyond reaffirming its Europe plans.",
+    "category": "News",
+    "publishedDate": "2026-09-18",
+    "image": "/images/news/binance-mica.jpg"
+  },
+  {
     "slug": "bitbank-sanctions",
     "title": "US Sanctions BitBank Exchange Over Bitcoin Transfers to Iranian Guards",
     "description": "The US Treasury on Sept. 17, 2026 sanctioned Tehran exchange BitBank, its software developer and three men, saying the exchange moved hundreds of millions of dollars in bitcoin to the Islamic Revolutionary Guard Corps.",
     "category": "News",
     "publishedDate": "2026-09-18",
     "image": "/images/news/bitbank-sanctions.jpg"
+  },
+  {
+    "slug": "cftc-markets",
+    "title": "CFTC Sends Crypto Market Rulemaking to White House Review",
+    "description": "The CFTC sent a prerule action titled \"Regulation Crypto Asset Transactions and Regulation Crypto Asset Markets\" to White House review on Sept. 17, 2026, days after the Senate blocked the Clarity Act.",
+    "category": "News",
+    "publishedDate": "2026-09-18",
+    "image": "/images/news/cftc-markets.jpg"
   },
   {
     "slug": "dtcpay-funding",
@@ -22,21 +38,5 @@
     "category": "News",
     "publishedDate": "2026-09-17",
     "image": "/images/news/bitcoin-reserve.jpg"
-  },
-  {
-    "slug": "cftc-relief",
-    "title": "CFTC Opens Broker Relief to All Passive Trading Software",
-    "description": "The CFTC's Market Participants Division said on Sept. 17, 2026 it will not recommend enforcement against passive software providers that route users to registered derivatives venues without registering as brokers, extending March relief first granted to Phantom.",
-    "category": "News",
-    "publishedDate": "2026-09-17",
-    "image": "/images/news/cftc-relief.jpg"
-  },
-  {
-    "slug": "glamsterdam",
-    "title": "Ethereum Glamsterdam Rehearsal Clears Path to Sepolia Test",
-    "description": "Ethereum's Glamsterdam upgrade kept confirming blocks on its Devnet-11 rehearsal network this week, with Nethermind passing all 2,302 performance tests and the gas limit raised to 200 million, ahead of a proposed Oct. 6 Sepolia deployment.",
-    "category": "News",
-    "publishedDate": "2026-09-17",
-    "image": "/images/news/glamsterdam.jpg"
   }
 ]

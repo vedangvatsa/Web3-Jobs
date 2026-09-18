@@ -20,6 +20,9 @@
 /.wrangler/
 /public/job-description-shards/
 /public/data/
+/public/articles-data/
+/tmp/
+.resend-segment-sync.*
 
 # production
 /build

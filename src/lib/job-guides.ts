@@ -1,8 +1,6 @@
 import type { Job, Company } from '@/types';
 import { getJobs } from './jobs';
 import * as cheerio from 'cheerio';
-import * as fs from 'fs';
-import * as path from 'path';
 import { cleanPublishText, cleanPublishHtml } from './noslop';
 import { isGeneralOrPlaceholderJobTitle } from './job-filters';
 import {
@@ -22,9 +20,6 @@ export { getJobSlug, getOneWordRole } from './job-slugs';
 import { getJobContentKey, getJobSlug, getCompanySlug, getOneWordRole, normalizeJobLink } from './job-slugs';
 import { cleanJobLocation } from './job-location';
 
-const DESCRIPTIONS_SHARDS_PATH = JOB_DESCRIPTION_SHARDS_DIRECTORY;
-const LEGACY_ARCHIVE_PATH = path.join(process.cwd(), 'content/legacy-slugs-archive.json');
-
 import legacyArchiveJson from '../../content/legacy-slugs-archive.json';
 
 let legacyArchiveCache: Record<string, { id?: string; link?: string; company?: string; title?: string }> | null = null;
@@ -42,7 +37,7 @@ function loadDescriptionShard(job: Job): JobDescriptionShard {
   return { version: 1, descriptions: {}, aliases: {} };
 }
 
-export function getCachedRawContent(job: Job, _shardsPath = DESCRIPTIONS_SHARDS_PATH): string {
+export function getCachedRawContent(job: Job, _shardsPath = JOB_DESCRIPTION_SHARDS_DIRECTORY): string {
   const shard = loadDescriptionShard(job);
   const slugKey = job.slug;
   const raw = [getJobContentKey(job), job.id, slugKey]
