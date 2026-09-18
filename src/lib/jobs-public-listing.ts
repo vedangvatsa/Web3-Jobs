@@ -41,10 +41,11 @@ export function filterJobsList(
   return filtered;
 }
 
+/** Strip ATS `source` from public listing payloads; cast keeps Job shape for callers. */
 export function toPublicJobRows(jobs: Job[]): Job[] {
   return jobs.map((job) => {
     const { source: _source, ...rest } = job;
-    return { ...rest, link: getPublicJobUrl(job) };
+    return { ...rest, link: getPublicJobUrl(job) } as Job;
   });
 }
 
