@@ -1,6 +1,6 @@
 import { getJobs } from '@/lib/jobs';
 import { getPublicJobUrl } from '@/lib/job-slugs';
-import { buildSynthesizedJobContent } from '@/lib/job-guides';
+import { buildFeedDescription } from '@/lib/job-guides';
 import { getFeedLocation, getRecentFeedJobs, isUsOrRemoteJob } from '@/lib/job-feed-helpers';
 import { NextResponse } from 'next/server';
 
@@ -18,7 +18,7 @@ export async function GET() {
     const url = getPublicJobUrl(job, siteUrl);
     const location = getFeedLocation(job);
     // Decode &amp; so tag-stripping aggregators show "&" (see jobs aggregator feed).
-    const description = buildSynthesizedJobContent(job).replace(/https?:\/\/[^\s<>'"]+/gi, '').replace(/&amp;/g, '&');
+    const description = buildFeedDescription(job).replace(/https?:\/\/[^\s<>'"]+/gi, '').replace(/&amp;/g, '&');
     const date = job.date || new Date().toISOString().split('T')[0];
 
     return `  <job id="${job.id}">
