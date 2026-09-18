@@ -17,6 +17,8 @@ const NEWS_CACHE_TTL_MS = 60 * 1000;
 const RSS_TIMEOUT_MS = 8000;
 const RSS_CONCURRENCY = 3;
 
+let newsCache: { timestamp: number; items: NewsItem[] } | null = null;
+
 const STOP_WORDS = new Set([
   'a', 'about', 'above', 'after', 'again', 'against', 'all', 'am', 'an', 'and', 'any', 'are', 'aren\'t', 'as', 'at',
   'be', 'because', 'been', 'before', 'being', 'below', 'between', 'both', 'but', 'by', 'can', 'cannot', 'could',
