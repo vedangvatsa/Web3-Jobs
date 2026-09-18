@@ -1,7 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { collection, getDocs, query, updateDoc, where } from 'firebase/firestore';
-import { serverFirestore } from '@/firebase/server-init';
 import { verifyUnsubscribeToken } from '@/lib/email-unsubscribe';
+import { unsubscribeEmailInResend } from '@/lib/resend-unsubscribe';
 
 export const dynamic = 'force-dynamic';
 
@@ -13,14 +12,22 @@ function result(message: string, status = 200) {
 }
 
 async function unsubscribe(token: string | null) {
-  const email = token ? verifyUnsubscribeToken(token) : null;
-  if (!email || !serverFirestore) return result('Invalid unsubscribe link.', 400);
+  if (!process.env.RESEND_API_KEY) {
+    return result('Email unsubscribe is temporarily unavailable.', 503);
+  }
 
-  const matches = await getDocs(query(collection(serverFirestore, 'subscribers'), where('email', '==', email)));
-  await Promise.all(matches.docs.map((subscriber) => updateDoc(subscriber.ref, {
-    subscribed: false,
-    unsubscribedAt: new Date().toISOString(),
-  })));
+  const email = token ? verifyUnsubscribeToken(token) : null;
+  if (!email) return result('Invalid unsubscribe link.', 400);
+
+  try {
+    const ok = await unsubscribeEmailInResend(email);
+    if (!ok) {
+      return result('We could not update your subscription. Try again or contact support@hashtagweb3.com.', 502);
+    }
+  } catch (err) {
+    console.error('[unsubscribe]', err);
+    return result('We could not update your subscription. Try again later.', 500);
+  }
 
   return result('You have been unsubscribed from Hashtag Web3 job alerts.');
 }
