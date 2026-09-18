@@ -142,9 +142,6 @@ export function deduplicateNewsItems(items: NewsItem[]): NewsItem[] {
   return uniqueItems;
 }
 
-// In-memory cache for the local snapshot.
-let newsCache: { timestamp: number; items: NewsItem[] } | null = null;
-
 const WEB3_CRYPTO_KEYWORDS = [
   'web3', 'crypto', 'cryptocurrency', 'blockchain', 'bitcoin', 'btc', 'ethereum', 'eth', 'solana', 'sol',
   'defi', 'dao', 'daos', 'nft', 'nfts', 'token', 'tokens', 'tokenomics', 'stablecoin', 'stablecoins',

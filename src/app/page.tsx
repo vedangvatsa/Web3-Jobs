@@ -1,18 +1,16 @@
 import { JobBoard } from '@/components/job-board';
-import { buildCompanyLogoMap } from '@/lib/job-listing';
 import { getJobSlug } from '@/lib/job-slugs';
 import type { Job } from '@/types';
-import jobsRuntimeJson from '../../content/jobs-runtime.json';
+import homepageJobs from '../../content/homepage-jobs.json';
 import { TrustedBy } from '@/components/trusted-by';
 import { CommunityFeedBanner } from '@/components/community-feed-banner';
 import { PageHeader } from "@/components/page-header";
 import { PageShell } from '@/components/page-shell';
 import { breadcrumbSchema, faqSchema, serviceSchema } from '@/lib/site-schema';
 import type { Metadata } from 'next';
+import type { CompanyLogoMap } from '@/lib/job-listing';
 
-const JOBS_PER_PAGE = 12;
-
-// Static HTML from build — avoids Worker CPU/memory on every homepage visit (Cloudflare 1102).
+// Static HTML from build — avoid bundling full jobs-runtime.json in the Worker (Cloudflare 1102).
 export const dynamic = 'force-static';
 
 export const metadata: Metadata = {
@@ -36,10 +34,14 @@ export const metadata: Metadata = {
   },
 };
 
-export default async function JobsPage() {
-  const allJobs = jobsRuntimeJson as Job[];
-  const initialJobs = allJobs.slice(0, JOBS_PER_PAGE);
-  const companyLogos = await buildCompanyLogoMap(initialJobs);
+type HomepageJobsSnapshot = {
+  total: number;
+  initialJobs: Job[];
+  companyLogos: CompanyLogoMap;
+};
+
+export default function JobsPage() {
+  const { total: totalJobs, initialJobs, companyLogos } = homepageJobs as HomepageJobsSnapshot;
 
   const siteUrl = 'https://hashtagweb3.com';
   const pageSchema = {
@@ -49,11 +51,11 @@ export default async function JobsPage() {
         '@type': 'WebPage',
         url: siteUrl,
         name: 'Web3 Jobs & Crypto Careers | Hashtag Web3',
-        description: `Browse ${allJobs.length} verified Web3, smart contract, DeFi, and crypto job openings.`,
+        description: `Browse ${totalJobs} verified Web3, smart contract, DeFi, and crypto job openings.`,
       },
       {
         '@type': 'ItemList',
-        numberOfItems: allJobs.length,
+        numberOfItems: totalJobs,
         itemListElement: initialJobs.map((job, index) => ({
           '@type': 'ListItem',
           position: index + 1,
@@ -172,7 +174,7 @@ export default async function JobsPage() {
               <CommunityFeedBanner label="hiring feed" />
               <JobBoard
                 initialJobs={initialJobs}
-                initialTotal={allJobs.length}
+                initialTotal={totalJobs}
                 companyLogos={companyLogos}
               />
             </article>
