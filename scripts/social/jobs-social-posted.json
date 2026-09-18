@@ -1,5 +1,5 @@
 {
-  "lastIndex": 204,
+  "lastIndex": 205,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -96,7 +96,8 @@
     "ddrm",
     "sls20",
     "pm21",
-    "tax8"
+    "tax8",
+    "spyc"
   ],
   "history": [
     {
@@ -5063,6 +5064,224 @@
       "platform": "linkedin",
       "postedAt": "2026-09-17T22:17:24.248Z",
       "postId": "6aac67157ef82440293150fc",
+      "verification": "verified"
+    },
+    {
+      "slug": "spyc",
+      "company": "Stripe",
+      "title": "Startup Partnerships - Y Combinator",
+      "platform": "x",
+      "postedAt": "2026-09-18T00:28:50.769Z",
+      "postId": "2100743818383446108",
+      "verification": "verified"
+    },
+    {
+      "slug": "spyc",
+      "company": "Stripe",
+      "title": "Startup Partnerships - Y Combinator",
+      "platform": "threads",
+      "postedAt": "2026-09-18T00:28:50.769Z",
+      "postId": "18114575884983848",
+      "verification": "verified",
+      "expectedText": "Stripe is hiring Startup Partnerships - Y Combinator: https://hashtagweb3.com/spyc/th?og=2",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DdaJjc3kbPx",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "spyc",
+      "company": "Stripe",
+      "title": "Startup Partnerships - Y Combinator",
+      "platform": "bluesky",
+      "postedAt": "2026-09-18T00:28:50.769Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mvqvyz4s5j2l",
+      "verification": "verified"
+    },
+    {
+      "slug": "spyc",
+      "company": "Stripe",
+      "title": "Startup Partnerships - Y Combinator",
+      "platform": "farcaster",
+      "postedAt": "2026-09-18T00:28:50.769Z",
+      "postId": "0x9595489edca803dfe4c4322abc45a20380fd26ae",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "spyc",
+      "company": "Stripe",
+      "title": "Startup Partnerships - Y Combinator",
+      "platform": "farcaster",
+      "postedAt": "2026-09-18T00:28:50.769Z",
+      "postId": "0x8039e6b310e8674522c45e3777a9bc71776c7762",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "spyc",
+      "company": "Stripe",
+      "title": "Startup Partnerships - Y Combinator",
+      "platform": "farcaster",
+      "postedAt": "2026-09-18T00:28:50.769Z",
+      "postId": "0x34027d5800689d14890039bfadbbfb6a7b46779d",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "spyc",
+      "company": "Stripe",
+      "title": "Startup Partnerships - Y Combinator",
+      "platform": "farcaster",
+      "postedAt": "2026-09-18T00:28:50.769Z",
+      "postId": "0xf3956b1f72601aeba51631ca48549106b1974145",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "spyc",
+      "company": "Stripe",
+      "title": "Startup Partnerships - Y Combinator",
+      "platform": "farcaster",
+      "postedAt": "2026-09-18T00:28:50.769Z",
+      "postId": "0x1e23dbbbe8e76cd637da2a52df023037d76ec516",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "spyc",
+      "company": "Stripe",
+      "title": "Startup Partnerships - Y Combinator",
+      "platform": "farcaster",
+      "postedAt": "2026-09-18T00:28:50.769Z",
+      "postId": "0x873c063d6397118a228900a12594eb642d893e2f",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "spyc",
+      "company": "Stripe",
+      "title": "Startup Partnerships - Y Combinator",
+      "platform": "farcaster",
+      "postedAt": "2026-09-18T00:28:50.769Z",
+      "postId": "0x4c695b8ba3bf2706be9cfb72e151e2fd79fe7d4f",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "spyc",
+      "company": "Stripe",
+      "title": "Startup Partnerships - Y Combinator",
+      "platform": "farcaster",
+      "postedAt": "2026-09-18T00:28:50.769Z",
+      "postId": "0xa9ef6eb9be1c2fdd11722edf82585632e74f1389",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "spyc",
+      "company": "Stripe",
+      "title": "Startup Partnerships - Y Combinator",
+      "platform": "farcaster",
+      "postedAt": "2026-09-18T00:28:50.769Z",
+      "postId": "0x625b7c1cf0db030343ed26e39566d23654939879",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "spyc",
+      "company": "Stripe",
+      "title": "Startup Partnerships - Y Combinator",
+      "platform": "farcaster",
+      "postedAt": "2026-09-18T00:28:50.769Z",
+      "postId": "0x01b141ed52bb2993973c0c3ee605840a8dfb559a",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "spyc",
+      "company": "Stripe",
+      "title": "Startup Partnerships - Y Combinator",
+      "platform": "farcaster",
+      "postedAt": "2026-09-18T00:28:50.769Z",
+      "postId": "0xbbd40b3865a7417481e42fba7ad89a3430c45d34",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "spyc",
+      "company": "Stripe",
+      "title": "Startup Partnerships - Y Combinator",
+      "platform": "farcaster",
+      "postedAt": "2026-09-18T00:28:50.769Z",
+      "postId": "0xd7093f9c0fa31b07be4fb8beccb65043bae46cdf",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "spyc",
+      "company": "Stripe",
+      "title": "Startup Partnerships - Y Combinator",
+      "platform": "farcaster",
+      "postedAt": "2026-09-18T00:28:50.769Z",
+      "postId": "0xe43493065bf0144e91dc9f61e7a1daddc050e501",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "spyc",
+      "company": "Stripe",
+      "title": "Startup Partnerships - Y Combinator",
+      "platform": "farcaster",
+      "postedAt": "2026-09-18T00:28:50.769Z",
+      "postId": "0xdc38c99949eaed5d97affab7c8f14d05af0d74a9",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "spyc",
+      "company": "Stripe",
+      "title": "Startup Partnerships - Y Combinator",
+      "platform": "farcaster",
+      "postedAt": "2026-09-18T00:28:50.769Z",
+      "postId": "0x793f2c5c6d005050554eaad2eb346ca2af1cb62c",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "spyc",
+      "company": "Stripe",
+      "title": "Startup Partnerships - Y Combinator",
+      "platform": "farcaster",
+      "postedAt": "2026-09-18T00:28:50.769Z",
+      "postId": "0x8074c3910f5e93aef08cfaf102587741dca8b489",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "spyc",
+      "company": "Stripe",
+      "title": "Startup Partnerships - Y Combinator",
+      "platform": "farcaster",
+      "postedAt": "2026-09-18T00:28:50.769Z",
+      "postId": "0x175143fb9cfbd7a043857d254afe0beb7bcb937f",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "spyc",
+      "company": "Stripe",
+      "title": "Startup Partnerships - Y Combinator",
+      "platform": "linkedin",
+      "postedAt": "2026-09-18T00:28:50.769Z",
+      "postId": "6aac85e5ea02db373dddb46b",
+      "verification": "verified"
+    },
+    {
+      "slug": "spyc",
+      "company": "Stripe",
+      "title": "Startup Partnerships - Y Combinator",
+      "platform": "facebook",
+      "postedAt": "2026-09-18T00:28:50.769Z",
+      "postId": "691827047618629_1091155000158401",
       "verification": "verified"
     }
   ]
