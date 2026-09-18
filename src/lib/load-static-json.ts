@@ -7,6 +7,7 @@ const jsonCache = new Map<string, unknown>();
 
 function readLocalDataFile(filename: string): unknown | null {
   try {
+    if (typeof fs === 'undefined' || !fs.existsSync) return null;
     for (const dir of ['content', path.join('public', 'data')]) {
       const filePath = path.join(process.cwd(), dir, filename);
       if (fs.existsSync(filePath)) {
