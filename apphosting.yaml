@@ -33,6 +33,8 @@ env:
     value: https://hashtagweb3.com
   - variable: RESEND_API_KEY
     secret: RESEND_API_KEY
+  - variable: CRON_SECRET
+    secret: CRON_SECRET
 
   - variable: NODE_OPTIONS
     value: --max-old-space-size=3072
