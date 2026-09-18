@@ -34,6 +34,93 @@ export function isLumaListedEvent(
   return false;
 }
 
+function isHeaderLine(line: string): boolean {
+  const trimmed = line.trim();
+  if (!trimmed || trimmed.length > 60 || trimmed.length < 2) return false;
+  if (/^[-*•·▪–—#]/.test(trimmed)) return false;
+  if (/^[A-Za-z0-9\s&/'°!?,.-]{2,50}:$/.test(trimmed)) return true;
+  const headerLabel = trimmed.replace(/:$/, '').trim();
+  if (
+    /^(?:agenda|schedule|speakers|hosts|co-hosts?|partners|community partners|venue|location|rules|about the event|what to expect|event description|the challenge|disclaimer|inspiration tracks(?:\s+for\s+solutions)?)$/i.test(
+      headerLabel,
+    )
+  ) {
+    return true;
+  }
+  return false;
+}
+
+/** Luma exports use single newlines between paragraphs; blank lines often separate list items only. */
+function normalizeDescriptionParagraphBlocks(ownDescription: string): string[] {
+  const lines = ownDescription.split('\n');
+  const trimmedLines = lines.map((line) => line.trim()).filter(Boolean);
+  if (trimmedLines.length <= 1) return trimmedLines;
+
+  const blocks: string[] = [];
+  let bulletRun: string[] = [];
+
+  const flushBullets = () => {
+    if (bulletRun.length > 0) {
+      blocks.push(bulletRun.join('\n'));
+      bulletRun = [];
+    }
+  };
+
+  for (const line of trimmedLines) {
+    if (/^[-*•·▪–—]\s+/.test(line)) {
+      bulletRun.push(line);
+      continue;
+    }
+    flushBullets();
+    blocks.push(line);
+  }
+  flushBullets();
+  return blocks;
+}
+
+function parseOrganizerDescriptionSections(ownDescription: string): {
+  lead: string;
+  sections: Array<{ heading: string; content: string[] }>;
+} {
+  const rawParagraphs = normalizeDescriptionParagraphBlocks(ownDescription);
+  if (rawParagraphs.length === 0) return { lead: '', sections: [] };
+
+  const lead = rawParagraphs[0];
+  const remaining = rawParagraphs.slice(1);
+
+  const sections: Array<{ heading: string; content: string[] }> = [];
+  let currentHeading = 'About the event';
+  let currentContent: string[] = [];
+
+  for (const block of remaining) {
+    const blockLines = block.split('\n');
+    const firstLine = blockLines[0].trim();
+    if (isHeaderLine(firstLine) && blockLines.length === 1) {
+      if (currentContent.length > 0) {
+        sections.push({ heading: currentHeading, content: currentContent });
+        currentContent = [];
+      }
+      currentHeading = firstLine.replace(/:$/, '').trim();
+    } else if (isHeaderLine(firstLine) && blockLines.length > 1) {
+      if (currentContent.length > 0) {
+        sections.push({ heading: currentHeading, content: currentContent });
+        currentContent = [];
+      }
+      currentHeading = firstLine.replace(/:$/, '').trim();
+      const rest = blockLines.slice(1).join('\n').trim();
+      if (rest) currentContent.push(rest);
+    } else {
+      currentContent.push(block);
+    }
+  }
+
+  if (currentContent.length > 0) {
+    sections.push({ heading: currentHeading, content: currentContent });
+  }
+
+  return { lead, sections };
+}
+
 /** Build detail-page editorial from `event.description` only (Luma organiser copy in JSON). */
 export function buildEditorialFromOrganizerDescription(event: Web3Event): EventEditorialArticle {
   const resolvedPlace = formatEventLocation(event);
@@ -67,85 +154,30 @@ export function buildEditorialFromOrganizerDescription(event: Web3Event): EventE
     };
   }
 
-function isHeaderLine(line: string): boolean {
-  const trimmed = line.trim();
-  if (!trimmed || trimmed.length > 60 || trimmed.length < 2) return false;
-  if (/^[-*•·▪–—#]/.test(trimmed)) return false;
-  if (/^[A-Za-z0-9\s&/'°!?,.-]{2,50}:$/.test(trimmed)) return true;
-  if (/^(?:agenda|schedule|speakers|hosts|co-hosts?|partners|community partners|venue|location|rules|about the event)$/i.test(trimmed)) return true;
-  return false;
-}
+  const { lead: firstSummaryParagraph, sections: parsedSections } =
+    parseOrganizerDescriptionSections(ownDescription);
 
-function parseOrganizerDescriptionSections(ownDescription: string): { lead: string; sections: Array<{ heading: string; content: string[] }> } {
-  const lines = ownDescription.split('\n');
-  const normalizedBlocks: string[] = [];
-  let currentBlockLines: string[] = [];
-
-  for (let i = 0; i < lines.length; i++) {
-    const line = lines[i];
-    const trimmed = line.trim();
-    if (isHeaderLine(trimmed) && currentBlockLines.length > 0) {
-      normalizedBlocks.push(currentBlockLines.join('\n').trim());
-      currentBlockLines = [line];
-    } else {
-      if (trimmed === '') {
-        if (currentBlockLines.length > 0) {
-          normalizedBlocks.push(currentBlockLines.join('\n').trim());
-          currentBlockLines = [];
-        }
-      } else {
-        currentBlockLines.push(line);
-      }
-    }
-  }
-  if (currentBlockLines.length > 0) {
-    normalizedBlocks.push(currentBlockLines.join('\n').trim());
-  }
-
-  const rawParagraphs = normalizedBlocks.filter((p) => p.length > 0);
-  if (rawParagraphs.length === 0) return { lead: '', sections: [] };
-
-  const lead = rawParagraphs[0];
-  const remaining = rawParagraphs.slice(1);
-
-  const sections: Array<{ heading: string; content: string[] }> = [];
-  let currentHeading = 'About the event';
-  let currentContent: string[] = [];
-
-  for (const block of remaining) {
-    const blockLines = block.split('\n');
-    const firstLine = blockLines[0].trim();
-    if (isHeaderLine(firstLine)) {
-      if (currentContent.length > 0) {
-        sections.push({ heading: currentHeading, content: currentContent });
-        currentContent = [];
-      }
-      currentHeading = firstLine.replace(/:$/, '').trim();
-      const rest = blockLines.slice(1).join('\n').trim();
-      if (rest) currentContent.push(rest);
-    } else {
-      currentContent.push(block);
-    }
-  }
-
-  if (currentContent.length > 0) {
-    sections.push({ heading: currentHeading, content: currentContent });
-  }
-
-  return { lead, sections };
-}
-
-  const { lead: firstSummaryParagraph, sections } = parseOrganizerDescriptionSections(ownDescription);
-
-  const firstSummarySentence = firstSummaryParagraph
-    ? firstSummaryParagraph.endsWith('.')
-      ? firstSummaryParagraph
-      : `${firstSummaryParagraph}.`
-    : '';
-
-  const summaryLead = firstSummarySentence
-    ? `${event.name} on ${formattedDates} ${locationStr}. ${firstSummarySentence}`
+  const summaryLead = factsLine
+    ? `${event.name} on ${formattedDates} ${locationStr}. ${factsLine}.`
     : `${event.name} on ${formattedDates} ${locationStr}.`;
+
+  let sections = parsedSections;
+  if (firstSummaryParagraph) {
+    if (sections.length === 0) {
+      sections = [{ heading: 'About the event', content: [firstSummaryParagraph] }];
+    } else {
+      const aboutIndex = sections.findIndex((s) => s.heading.toLowerCase() === 'about the event');
+      if (aboutIndex >= 0) {
+        sections = sections.map((section, index) =>
+          index === aboutIndex
+            ? { ...section, content: [firstSummaryParagraph, ...section.content] }
+            : section,
+        );
+      } else {
+        sections = [{ heading: 'About the event', content: [firstSummaryParagraph] }, ...sections];
+      }
+    }
+  }
 
   return {
     summaryLead,
