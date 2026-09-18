@@ -2,7 +2,7 @@ import * as fs from 'fs';
 import * as path from 'path';
 import type { Job } from '../src/types';
 import { buildJobsListing } from '../src/lib/jobs-listing-build';
-import { buildCompanyLogoMapSync } from '../src/lib/job-listing';
+import { buildCompanyLogoMapSync } from '../src/lib/job-logo-map';
 
 const CACHE_PATH = path.join(process.cwd(), 'content/jobs-cache.json');
 const OUT_PATH = path.join(process.cwd(), 'content/jobs-runtime.json');
