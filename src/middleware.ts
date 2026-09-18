@@ -20,6 +20,8 @@ interface RateLimitBucket {
 
 const RATE_LIMIT_MAX = 300;
 const RATE_LIMIT_WINDOW_MS = 60 * 1000;
+/** Cap in-memory buckets so Worker isolates do not grow without bound (1102). */
+const RATE_LIMIT_MAX_IPS = 512;
 const ipBuckets = new Map<string, RateLimitBucket>();
 
 let lastCleanup = Date.now();
@@ -54,6 +56,10 @@ function getRateLimitInfo(request: NextRequest) {
   let bucket = ipBuckets.get(ip);
 
   if (!bucket || now >= bucket.resetTime) {
+    if (!bucket && ipBuckets.size >= RATE_LIMIT_MAX_IPS) {
+      const oldestKey = ipBuckets.keys().next().value;
+      if (oldestKey) ipBuckets.delete(oldestKey);
+    }
     bucket = { count: 1, resetTime: now + RATE_LIMIT_WINDOW_MS };
     ipBuckets.set(ip, bucket);
   } else {
