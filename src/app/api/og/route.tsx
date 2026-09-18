@@ -1,8 +1,6 @@
 import { ImageResponse } from 'next/og';
 import { NextRequest, NextResponse } from 'next/server';
 
-export const runtime = 'edge';
-
 function renderJobFallback(searchParams: URLSearchParams): ImageResponse {
   const rawTitle = searchParams.get('title') || 'Web3 Job Opening';
   const displayTitle = rawTitle.length > 70 ? `${rawTitle.slice(0, 67)}...` : rawTitle;
