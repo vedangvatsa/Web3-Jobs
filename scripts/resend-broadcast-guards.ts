@@ -3,6 +3,11 @@
  */
 
 import fs from 'fs';
+import path from 'path';
+
+// Repo root in tsx scripts AND App Hosting runtime (import.meta.url is
+// unreliable once Next bundles server code, so never derive paths from it).
+const dataFile = (name: string) => path.join(process.cwd(), name);
 
 export const RESEND_GENERAL_SEGMENT_ID = '2db4b31c-7b5b-46b9-b2b1-98ae142d289b';
 
@@ -15,7 +20,7 @@ export type ResendBroadcastRow = {
 
 export type LastBroadcastSend = { dateUtc: string; broadcastId?: string; at?: string };
 
-const LAST_SEND_FILE = new URL('../.resend-broadcast-last.json', import.meta.url).pathname;
+const LAST_SEND_FILE = dataFile('.resend-broadcast-last.json');
 
 export function utcDateKey(d = new Date()): string {
   return d.toISOString().slice(0, 10);
