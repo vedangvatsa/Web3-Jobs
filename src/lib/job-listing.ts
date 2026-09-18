@@ -3,32 +3,10 @@ import { FAVICON_FIRST_SLUGS, getCompanyFaviconUrl, resolveCompanyLogo } from '@
 import { getCompanyBySlug } from '@/lib/companies';
 import { getCompanySlug } from '@/lib/job-slugs';
 import type { Job } from '@/types';
+import type { CompanyLogoData, CompanyLogoMap } from '@/lib/job-logo-map';
 
-export interface CompanyLogoData {
-  logo: string | null;
-  favicon: string | null;
-}
-
-export type CompanyLogoMap = Record<string, CompanyLogoData>;
-
-/** Sync logo resolution for build-time snapshots (no company FS reads). */
-export function buildCompanyLogoMapSync(jobs: Job[]): CompanyLogoMap {
-  const slugs = Array.from(new Set(jobs.map((job) => getCompanySlug(job.company))));
-  const map: CompanyLogoMap = {};
-  for (const slug of slugs) {
-    const logo = resolveCompanyLogo(slug);
-    if (logo) {
-      map[slug] = { logo, favicon: null };
-      continue;
-    }
-    if (FAVICON_FIRST_SLUGS.has(slug)) {
-      map[slug] = { logo: null, favicon: null };
-      continue;
-    }
-    map[slug] = { logo: null, favicon: null };
-  }
-  return map;
-}
+export type { CompanyLogoData, CompanyLogoMap } from '@/lib/job-logo-map';
+export { buildCompanyLogoMapSync } from '@/lib/job-logo-map';
 
 /** Resolve logo data only for the jobs included in the current response page. */
 export async function buildCompanyLogoMap(jobs: Job[]): Promise<CompanyLogoMap> {

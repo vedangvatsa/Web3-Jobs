@@ -1,5 +1,5 @@
 import type { Job } from '@/types';
-import { buildCompanyLogoMapSync, type CompanyLogoMap } from '@/lib/job-listing';
+import { buildCompanyLogoMapSync, type CompanyLogoMap } from '@/lib/job-logo-map';
 import { getPublicJobUrl } from '@/lib/job-slugs';
 
 let catalogPromise: Promise<Job[]> | null = null;
@@ -57,9 +57,9 @@ export function queryJobsCatalog(
 
   const total = filtered.length;
   const paginated = filtered.slice(options.offset, options.offset + options.limit);
-  const data = paginated.map((job) => {
+  const data: Job[] = paginated.map((job) => {
     const { source: _source, ...rest } = job;
-    return { ...rest, link: getPublicJobUrl(job) };
+    return { ...rest, link: getPublicJobUrl(job) } as Job;
   });
 
   return {
