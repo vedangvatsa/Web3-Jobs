@@ -569,6 +569,9 @@
   "https://hashtagweb3.com/bitcoin-reserve?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/sun-prize?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://www.theblock.co/news/business/2026-09-17-sp-global-agrees-to-acquire-openzeppelin-in-onchain-security-push-415360",
+  "https://hashtagweb3.com/bitbank-sanctions?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/dtcpay-funding?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/cftc-relief?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -1615,6 +1618,12 @@
   "Justin Sun Launches $1 Million Math Prize for Machine-Checked Proofs",
   "S&P Global to acquire smart contract security firm OpenZeppelin",
   "S&P Global agrees to acquire OpenZeppelin in onchain security push",
+  "US Sanctions BitBank Over Bitcoin Transfers to Iranian Military",
+  "US Sanctions BitBank Exchange Over Bitcoin Transfers to Iranian Guards",
+  "dtcpay Raises $25 Million From SBI Group",
+  "dtcpay Closes $25 Million Series A With SBI Group Investment",
+  "CFTC Grants Broker Relief to Passive Trading Software",
+  "CFTC Opens Broker Relief to All Passive Trading Software",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -1734,5 +1743,8 @@
   "fp:77m|900|address|bot|exploit|for24|front|hour|intercept|kelp",
   "fp:advanc|approv|bill|creat|federal|full|hous|in28|lawmaker|panel",
   "fp:check|computer|fund|justin|machin|math|mathematical|openai|priz|proof",
-  "fp:acquir|agre|auditor|business|contract|expand|financial|firm|giant|global"
+  "fp:acquir|agre|auditor|business|contract|expand|financial|firm|giant|global",
+  "fp:bitbank|corp|exchang|firm|four|guard|individual|iranian|islamic|military",
+  "fp:25m|capital|clos|dtcpay|expand|firm|group|investment|licens|network",
+  "fp:all|broker|cftc|derivativ|developer|grant|not|open|passiv|penaliz"
 ]
