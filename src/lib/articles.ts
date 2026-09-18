@@ -2,8 +2,7 @@ import type { Article } from '@/types';
 import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
-import { fetchSiteAsset } from '@/lib/load-static-json';
-import articlesIndexJson from '../../content/articles-index.json';
+import { fetchSiteAsset, loadStaticJson } from '@/lib/load-static-json';
 import { replaceArticleTweetEmbeds } from '@/lib/article-tweet-embed';
 import { remark } from 'remark';
 import remarkGfm from 'remark-gfm';
@@ -343,10 +342,15 @@ export async function getAllArticles(): Promise<ArticleMetadata[]> {
  }
 
  if (!articleMetadataCache) {
-  const indexed = articlesIndexJson as ArticleMetadata[];
-  if (Array.isArray(indexed) && indexed.length > 0) {
-   articleMetadataCache = indexed;
-  } else {
+  try {
+   const indexed = await loadStaticJson<ArticleMetadata[]>('articles-index.json');
+   if (Array.isArray(indexed) && indexed.length > 0) {
+    articleMetadataCache = indexed;
+   }
+  } catch {
+   // Fall through to filesystem (local Node / build).
+  }
+  if (!articleMetadataCache?.length) {
    articleMetadataCache = readArticlesFromDirectory(contentArticlesDirectory)
     .sort((a, b) => a.title.localeCompare(b.title));
   }

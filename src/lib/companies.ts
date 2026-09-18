@@ -1,7 +1,6 @@
 import type { Company, Job } from '@/types';
 import { getJobs } from './jobs';
-import companyProfilesJson from '../../content/company-profiles-runtime.json';
-import companiesRuntimeJson from '../../content/companies-runtime.json';
+import { loadStaticJson } from './load-static-json';
 import { COMPANY_RICH_ABOUT } from './company-profiles';
 import { cleanJobLocation } from './job-location';
 
@@ -502,10 +501,44 @@ function getSafeProfileWebsite(value: unknown): string | undefined {
  }
 }
 
-const companyProfilesMap = (companyProfilesJson as Record<string, { website?: string; description?: string }>) || {};
+type CompanyProfileRow = { website?: string; description?: string };
+
+interface PrecomputedCompany {
+  slug: string;
+  name: string;
+  website: string;
+  description: string;
+  jobCount: number;
+  lastUpdated: string;
+  jobIds: string[];
+}
+
+let companyProfilesMap: Record<string, CompanyProfileRow> | null = null;
+let companiesRuntimeMap: Record<string, PrecomputedCompany> | null = null;
+let companiesCatalogLoad: Promise<void> | null = null;
+
+async function ensureCompaniesCatalog(): Promise<void> {
+  if (companyProfilesMap && companiesRuntimeMap) return;
+  if (!companiesCatalogLoad) {
+    companiesCatalogLoad = Promise.all([
+      loadStaticJson<Record<string, PrecomputedCompany>>('companies-runtime.json'),
+      loadStaticJson<Record<string, CompanyProfileRow>>('company-profiles-runtime.json'),
+    ])
+      .then(([runtime, profiles]) => {
+        companiesRuntimeMap = runtime || {};
+        companyProfilesMap = profiles || {};
+      })
+      .catch(() => {
+        companiesRuntimeMap = {};
+        companyProfilesMap = {};
+      });
+  }
+  await companiesCatalogLoad;
+}
 
 async function loadCompanyContent(slug: string): Promise<{ website?: string; description?: string } | null> {
-  const profile = companyProfilesMap[slug.toLowerCase().trim()];
+  await ensureCompaniesCatalog();
+  const profile = companyProfilesMap![slug.toLowerCase().trim()];
   if (!profile) return null;
   const website = getSafeProfileWebsite(profile.website);
   return {
@@ -603,23 +636,12 @@ function resolveCanonicalCompanyName(normalized: string, originalName: string): 
   return originalName;
 }
 
-interface PrecomputedCompany {
-  slug: string;
-  name: string;
-  website: string;
-  description: string;
-  jobCount: number;
-  lastUpdated: string;
-  jobIds: string[];
-}
-
-const companiesRuntimeMap = (companiesRuntimeJson as Record<string, PrecomputedCompany>) || {};
-
 /**
  * Extract unique companies from precomputed runtime data
  */
 export async function getCompanies(): Promise<Company[]> {
-  const list = Object.values(companiesRuntimeMap).sort((a, b) => b.jobCount - a.jobCount);
+  await ensureCompaniesCatalog();
+  const list = Object.values(companiesRuntimeMap!).sort((a, b) => b.jobCount - a.jobCount);
   return list.map((pre) => ({
     slug: pre.slug,
     name: pre.name,
@@ -635,8 +657,9 @@ export async function getCompanies(): Promise<Company[]> {
  * Get a single company by slug using precomputed runtime data
  */
 export async function getCompanyBySlug(slug: string): Promise<Company | null> {
+  await ensureCompaniesCatalog();
   const norm = slug.toLowerCase().trim();
-  const pre = companiesRuntimeMap[norm] || companiesRuntimeMap[norm.replace(/-labs$|-foundation$|-crypto$/, '')];
+  const pre = companiesRuntimeMap![norm] || companiesRuntimeMap![norm.replace(/-labs$|-foundation$|-crypto$/, '')];
   if (pre) {
     const jobs = await getJobs();
     const idSet = new Set(pre.jobIds);

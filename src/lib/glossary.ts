@@ -1,30 +1,40 @@
 import type { GlossaryTerm, GlossaryCategory } from '@/types/glossary';
 import { GLOSSARY_CATEGORIES } from '@/types/glossary';
-import glossaryRuntimeJson from '../../content/glossary-runtime.json';
+import { loadStaticJson } from './load-static-json';
 
-const allTermsList: GlossaryTerm[] = (glossaryRuntimeJson as GlossaryTerm[]) || [];
-const termBySlugMap = new Map<string, GlossaryTerm>();
-for (const term of allTermsList) {
-  termBySlugMap.set(term.slug.toLowerCase().trim(), term);
+type GlossaryIndex = {
+  allTermsList: GlossaryTerm[];
+  termBySlugMap: Map<string, GlossaryTerm>;
+};
+
+let glossaryIndex: GlossaryIndex | null = null;
+let glossaryLoad: Promise<GlossaryIndex> | null = null;
+
+async function ensureGlossaryIndex(): Promise<GlossaryIndex> {
+  if (glossaryIndex) return glossaryIndex;
+  if (!glossaryLoad) {
+    glossaryLoad = loadStaticJson<GlossaryTerm[]>('glossary-runtime.json').then((raw) => {
+      const allTermsList = Array.isArray(raw) ? raw : [];
+      const termBySlugMap = new Map<string, GlossaryTerm>();
+      for (const term of allTermsList) {
+        termBySlugMap.set(term.slug.toLowerCase().trim(), term);
+      }
+      glossaryIndex = { allTermsList, termBySlugMap };
+      return glossaryIndex;
+    });
+  }
+  return glossaryLoad;
 }
 
-/**
- * Loads all glossary terms (precomputed at build time).
- */
 export async function getAllTerms(): Promise<GlossaryTerm[]> {
-  return allTermsList;
+  return (await ensureGlossaryIndex()).allTermsList;
 }
 
-/**
- * Get a single term by slug: O(1) lookup.
- */
 export async function getTerm(slug: string): Promise<GlossaryTerm | null> {
+  const { termBySlugMap } = await ensureGlossaryIndex();
   return termBySlugMap.get(slug.toLowerCase().trim()) || null;
 }
 
-/**
- * Get terms by category
- */
 export async function getTermsByCategory(categorySlug: string): Promise<GlossaryTerm[]> {
  const allTerms = await getAllTerms();
  const category = GLOSSARY_CATEGORIES.find(cat => cat.slug === categorySlug);
@@ -36,17 +46,11 @@ export async function getTermsByCategory(categorySlug: string): Promise<Glossary
  );
 }
 
-/**
- * Get category by slug
- */
 export async function getCategory(categorySlug: string): Promise<GlossaryCategory | null> {
  const categories = await getCategoriesWithCounts();
  return categories.find(cat => cat.slug === categorySlug) || null;
 }
 
-/**
- * Get all category slugs for static generation
- */
 export async function getAllCategorySlugs(): Promise<string[]> {
  const categories = await getCategoriesWithCounts();
  return categories
@@ -54,9 +58,6 @@ export async function getAllCategorySlugs(): Promise<string[]> {
   .map(cat => cat.slug);
 }
 
-/**
- * Get terms by first letter
- */
 export async function getTermsByLetter(letter: string): Promise<GlossaryTerm[]> {
  const allTerms = await getAllTerms();
  return allTerms.filter(term => 
@@ -64,9 +65,6 @@ export async function getTermsByLetter(letter: string): Promise<GlossaryTerm[]> 
  );
 }
 
-/**
- * Search terms by query
- */
 export async function searchTerms(query: string): Promise<GlossaryTerm[]> {
  const allTerms = await getAllTerms();
  const lowercaseQuery = query.toLowerCase();
@@ -78,9 +76,6 @@ export async function searchTerms(query: string): Promise<GlossaryTerm[]> {
  );
 }
 
-/**
- * Get categories with term counts
- */
 export async function getCategoriesWithCounts(): Promise<GlossaryCategory[]> {
  const allTerms = await getAllTerms();
  
@@ -92,9 +87,6 @@ export async function getCategoriesWithCounts(): Promise<GlossaryCategory[]> {
  }));
 }
 
-/**
- * Get glossary statistics
- */
 export async function getGlossaryStats() {
  const allTerms = await getAllTerms();
  const categories = await getCategoriesWithCounts();
