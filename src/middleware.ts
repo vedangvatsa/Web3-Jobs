@@ -201,9 +201,7 @@ export function middleware(request: NextRequest) {
         const fetchUser = request.headers.get('sec-fetch-user');
         const hasBrowserNavigationSignal =
           fetchMode === 'navigate' || fetchDest === 'document' || fetchUser === '?1';
-        const isSocialCrawler =
-          LINK_PREVIEW_BOT_RE.test(ua) ||
-          !hasBrowserNavigationSignal;
+        const isSocialCrawler = LINK_PREVIEW_BOT_RE.test(ua);
         if (isSocialCrawler) {
           // Keep crawler responses tiny. Full RSC job pages can exceed
           // LinkedIn's scraper limit; og-meta resolves the same job and emits
