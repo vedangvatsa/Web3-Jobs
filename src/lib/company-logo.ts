@@ -159,6 +159,9 @@ const COMPANY_FAVICON_DOMAINS: Record<string, string> = {
   'bitway': 'bitway.io',
   'paribu': 'paribu.com',
   'gensyn': 'gensyn.ai',
+  'gsr': 'gsr.io',
+  'gsr-markets': 'gsr.io',
+  'gsrmarkets': 'gsr.io',
 };
 
 function faviconUrlForDomain(domain: string): string {
@@ -200,7 +203,7 @@ const LOGO_PATHS = (slug: string): string[] => {
  * logo — on company pages AND job cards. (The homepage "companies like"
  * strip keeps using explicit file paths and is unaffected.)
  */
-export const FAVICON_FIRST_SLUGS: ReadonlySet<string> = new Set(['circle']);
+export const FAVICON_FIRST_SLUGS: ReadonlySet<string> = new Set(['circle', 'gsr', 'gsr-markets', 'gsrmarkets']);
 
 export function resolveCompanyLogo(companySlug: string): string | null {
   for (const relPath of LOGO_PATHS(companySlug)) {

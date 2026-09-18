@@ -49,6 +49,7 @@ import {
   hasSubstantialJobContent,
   resolveJobSlug,
 } from '@/lib/job-guides';
+import { ensureDescriptionShardLoaded } from '@/lib/job-description-shard-loader';
 import { JobDetailView } from '@/components/job-detail-view';
 import { FAVICON_FIRST_SLUGS, resolveCompanyLogo, getCompanyFaviconUrl } from '@/lib/company-logo';
 import { getCompanySlug } from '@/lib/job-slugs';
@@ -127,6 +128,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
    const jobResolution = await resolveJobSlug(params.slug);
    const jobMeta = jobResolution.job;
   if (jobMeta) {
+    await ensureDescriptionShardLoaded(jobMeta);
     const siteUrl = 'https://hashtagweb3.com';
     const canonicalSlug = jobResolution.canonicalSlug || jobMeta.slug || params.slug;
     const canonicalUrl = `${siteUrl}/${canonicalSlug}`;
@@ -372,6 +374,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
       permanentRedirect(`/${canonicalSlug}`);
     }
     const siteUrl = 'https://hashtagweb3.com';
+    await ensureDescriptionShardLoaded(job);
     const companySlug = getCompanySlug(job.company);
     const company = await getCompanyBySlug(companySlug);
     const contentHtml = buildSynthesizedJobContent(job);
