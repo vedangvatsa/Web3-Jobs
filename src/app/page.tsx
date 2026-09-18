@@ -1,7 +1,8 @@
 import { JobBoard } from '@/components/job-board';
 import { buildCompanyLogoMap } from '@/lib/job-listing';
 import { getJobSlug } from '@/lib/job-slugs';
-import { getJobs } from '@/lib/jobs';
+import type { Job } from '@/types';
+import jobsRuntimeJson from '../../content/jobs-runtime.json';
 import { TrustedBy } from '@/components/trusted-by';
 import { CommunityFeedBanner } from '@/components/community-feed-banner';
 import { PageHeader } from "@/components/page-header";
@@ -11,7 +12,8 @@ import type { Metadata } from 'next';
 
 const JOBS_PER_PAGE = 12;
 
-export const revalidate = 3600; // Revalidate every hour (ISR); cache refreshes every 8h via GitHub Actions
+// Static HTML from build — avoids Worker CPU/memory on every homepage visit (Cloudflare 1102).
+export const dynamic = 'force-static';
 
 export const metadata: Metadata = {
   title: 'Web3 Jobs and Crypto Careers',
@@ -35,7 +37,7 @@ export const metadata: Metadata = {
 };
 
 export default async function JobsPage() {
-  const allJobs = await getJobs();
+  const allJobs = jobsRuntimeJson as Job[];
   const initialJobs = allJobs.slice(0, JOBS_PER_PAGE);
   const companyLogos = await buildCompanyLogoMap(initialJobs);
 
