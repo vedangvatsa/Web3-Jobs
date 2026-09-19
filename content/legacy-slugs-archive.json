@@ -122864,5 +122864,35 @@
     "link": "https://job-boards.greenhouse.io/groma/jobs/4281337005",
     "company": "Groma",
     "title": "Maintenance Technician"
+  },
+  "concierge": {
+    "newSlug": "cs2"
+  },
+  "sales324": {
+    "newSlug": "sales256"
+  },
+  "recruiting108": {
+    "title": "Web3 Opportunity",
+    "company": "Web3 Company",
+    "link": "https://hashtagweb3.com/jobs"
+  },
+  "recruiting53": {
+    "title": "Web3 Opportunity",
+    "company": "Web3 Company",
+    "link": "https://hashtagweb3.com/jobs"
+  },
+  "secops": {
+    "newSlug": "secops2"
+  },
+  "token": {
+    "newSlug": "tlc"
+  },
+  "web3": {
+    "newSlug": "web"
+  },
+  "secops3": {
+    "title": "Web3 Opportunity",
+    "company": "Web3 Company",
+    "link": "https://hashtagweb3.com/jobs"
   }
 }

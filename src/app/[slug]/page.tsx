@@ -44,6 +44,8 @@ import { Calendar, MapPin, ExternalLink, ArrowLeft, ArrowRight } from 'lucide-re
 import {
   buildUniqueJobMetaDescription,
   buildJobDetailContentHtml,
+  buildSynthesizedJobContent,
+  getOrFetchRawJobContent,
   jobPageShouldIndex,
   getAllJobsWithSlugs,
   getJobBySlug,
@@ -301,7 +303,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
     const jobMeta = jobResolution.job;
     if (jobMeta) {
       await ensureDescriptionShardLoaded(jobMeta);
-      const contentHtml = await buildJobDetailContentHtml(jobMeta);
+      await getOrFetchRawJobContent(jobMeta);
       const siteUrl = 'https://hashtagweb3.com';
       const canonicalSlug = jobResolution.canonicalSlug || jobMeta.slug || params.slug;
       const canonicalUrl = `${siteUrl}/${canonicalSlug}`;
@@ -311,7 +313,8 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
         { ...jobMeta, slug: canonicalSlug },
         siteUrl,
       );
-      const hasVerifiedContent = await jobPageShouldIndex(jobMeta, contentHtml);
+      const previewHtml = buildSynthesizedJobContent(jobMeta);
+      const hasVerifiedContent = await jobPageShouldIndex(jobMeta, previewHtml);
       return {
         title,
         description,
