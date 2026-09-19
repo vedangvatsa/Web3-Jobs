@@ -264,11 +264,6 @@ export async function resolveOgPreviewMeta(path: string): Promise<OgPreviewMeta>
       };
     }
 
-    const article = await getArticle(slug);
-    if (article) {
-      return buildArticlePageMeta(article);
-    }
-
     try {
       const companies = await getCompanies();
       const company = companies.find((c) => getCompanySlug(c.name) === slug);
@@ -282,6 +277,11 @@ export async function resolveOgPreviewMeta(path: string): Promise<OgPreviewMeta>
       }
     } catch {
       // ignore
+    }
+
+    const article = await getArticle(slug);
+    if (article) {
+      return buildArticlePageMeta(article);
     }
   }
 

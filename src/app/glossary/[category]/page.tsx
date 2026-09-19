@@ -1,4 +1,4 @@
-import { getTermsByCategory, getCategory } from '@/lib/glossary';
+import { getTermsByCategory, getCategory, getAllCategorySlugs } from '@/lib/glossary';
 import { Card, CardContent } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
 import { ArrowLeft, BookOpen } from 'lucide-react';
@@ -46,8 +46,8 @@ export const revalidate = 3600;
 export const dynamicParams = true;
 
 export async function generateStaticParams() {
- // All glossary categories are generated on-demand via ISR.
- return [];
+ const categories = await getAllCategorySlugs();
+ return categories.map((category) => ({ category }));
 }
 
 export async function generateMetadata({ params }: { params: { category: string } }): Promise<Metadata> {

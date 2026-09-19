@@ -8,8 +8,12 @@ import { remark } from 'remark';
 import remarkGfm from 'remark-gfm';
 import html from 'remark-html';
 import sanitizeHtml from 'sanitize-html';
+import slugTypesJson from '../../content/slug-types.json';
 
 const contentArticlesDirectory = path.join(process.cwd(), 'content/articles');
+const ARTICLE_SLUG_SET = new Set(
+  ((slugTypesJson as { articles?: string[] }).articles ?? []).map((s) => s.toLowerCase().trim()),
+);
 /** Editorial/agent docs in content/articles — not published articles. */
 const NON_ARTICLE_MARKDOWN = new Set(['AGENTS.md', 'README.md']);
 type ArticleMetadata = Omit<Article, 'content' | 'rawContent'>;
@@ -445,6 +449,11 @@ export async function getArticle(slug: string): Promise<Article | undefined> {
   }
  } catch {
   // Fall through to precomputed static data fetch (Edge Worker)
+ }
+
+ const normSlug = slug.toLowerCase().trim();
+ if (!ARTICLE_SLUG_SET.has(normSlug)) {
+  return undefined;
  }
 
  // Cloudflare Edge: fetch pre-rendered static JSON from CDN
