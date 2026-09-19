@@ -7,7 +7,7 @@ type PopupPageProps = {
   params: { slug: string };
 };
 
-export const dynamicParams = true;
+export const dynamicParams = false;
 export const revalidate = 3600;
 
 export function generateStaticParams() {

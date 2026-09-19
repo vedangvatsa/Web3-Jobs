@@ -1,4 +1,4 @@
-import { getCategory, getLessons } from '@/lib/learn';
+import { getCategories, getCategory, getLessons } from '@/lib/learn';
 import { Badge } from '@/components/ui/badge';
 import { ChevronRight, Clock, ArrowLeft } from 'lucide-react';
 import Link from 'next/link';
@@ -8,6 +8,14 @@ import { PageHeader } from "@/components/page-header";
 
 interface Props {
  params: { category: string };
+}
+
+export const revalidate = 3600;
+export const dynamicParams = false;
+
+export async function generateStaticParams() {
+ const categories = getCategories();
+ return categories.map((category) => ({ category: category.slug }));
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
