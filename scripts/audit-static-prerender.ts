@@ -10,8 +10,10 @@ import { getPopupSlugs } from '../src/lib/popups';
 const SITE = 'https://hashtagweb3.com';
 
 function pathFromUrl(url: string): string {
-  if (!url.startsWith(`${SITE}/`)) return url === SITE ? '/' : url;
-  return `/${url.slice(SITE.length)}`;
+  if (url === SITE || url === `${SITE}/`) return '/';
+  if (!url.startsWith(`${SITE}/`)) return url;
+  const path = url.slice(SITE.length);
+  return path.replace(/\/+$/, '') || '/';
 }
 
 async function main(): Promise<void> {
@@ -59,7 +61,7 @@ async function main(): Promise<void> {
   // Fix: catchAllSlugs already include leading path without duplicate
   preRenderedPaths.clear();
   for (const s of catchAllSlugs) preRenderedPaths.add(`/${s}`);
-  for (const p of learnCategoryPaths) preRenderedPaths.add(p);
+  // /learn/[category] has no generateStaticParams — not build-pre-rendered
   for (const p of learnLessonPaths) preRenderedPaths.add(p);
   for (const p of glossaryCategoryPaths) preRenderedPaths.add(p);
   for (const p of popupDetailPaths) preRenderedPaths.add(p);
@@ -129,7 +131,7 @@ async function main(): Promise<void> {
   console.log(`  /popups/[slug]:           ${popupDetailPaths.size}`);
   console.log(`  fixed listing/tool pages: ${fixedStaticPages.size}`);
   console.log('');
-  console.log(`In sitemap, NOT in static params: ${inSitemapNotPreRendered.length}`);
+  console.log(`In sitemap, NOT pre-rendered at build: ${inSitemapNotPreRendered.length}`);
   if (inSitemapNotPreRendered.length > 0) {
     console.log('  Examples:');
     for (const p of inSitemapNotPreRendered.slice(0, 20)) console.log(`    ${p}`);
@@ -153,12 +155,16 @@ async function main(): Promise<void> {
   // Wait - learn category IS in preRenderedPaths via learnCategoryPaths loop
 
   // Double-check learn categories in sitemap
-  const learnCatInSitemap = [...sitemapPaths].filter((p) => p.startsWith('/learn/') && p.split('/').length === 3);
+  const learnCatInSitemap = [...sitemapPaths].filter(
+    (p) => p.startsWith('/learn/') && p.split('/').filter(Boolean).length === 2,
+  );
   const learnCatMissing = learnCatInSitemap.filter((p) => !preRenderedPaths.has(p));
   console.log('');
   console.log(`Learn category pages in sitemap: ${learnCatInSitemap.length}, missing from static set: ${learnCatMissing.length}`);
 
-  const learnLessonsInSitemap = [...sitemapPaths].filter((p) => p.startsWith('/learn/') && p.split('/').length === 4);
+  const learnLessonsInSitemap = [...sitemapPaths].filter(
+    (p) => p.startsWith('/learn/') && p.split('/').filter(Boolean).length === 3,
+  );
   const learnLessonsMissing = learnLessonsInSitemap.filter((p) => !preRenderedPaths.has(p));
   console.log(`Learn lesson pages in sitemap: ${learnLessonsInSitemap.length}, missing from static set: ${learnLessonsMissing.length}`);
 

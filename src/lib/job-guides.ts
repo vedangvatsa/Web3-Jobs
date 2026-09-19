@@ -817,6 +817,15 @@ export async function resolveJobSlug(slug: string): Promise<JobSlugResolution> {
     return { kind: 'exact', job: exact, canonicalSlug: exact.slug! };
   }
 
+  // Feeds and APIs advertise /jobs/{id} (see getPublicJobUrl): resolve raw
+  // ids to the canonical short slug so those URLs redirect instead of 404.
+  // (Catalog scan runs only on slug-miss; getJobs() is isolate-cached.)
+  const allJobs = await getJobs();
+  const byId = allJobs.find((job) => job.id?.toLowerCase() === cleanSlug);
+  if (byId?.slug) {
+    return { kind: 'exact', job: byId, canonicalSlug: byId.slug };
+  }
+
   const legacyMap = loadLegacyArchive();
   const archived = legacyMap[cleanSlug];
   if (archived) {

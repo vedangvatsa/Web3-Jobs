@@ -59,6 +59,8 @@ export type EventSchemaContext = {
 };
 
 const VIRTUAL_ONLY = /\b(?:online|virtual|remote|webinar|livestream|live[- ]stream|zoom|google meet|discord|(?:twitter|x) spaces?)\b/i;
+/** The event itself is held online (not incidental words like Discord links or "released online"). */
+const VIRTUAL_EVENT_MODE = /\b(?:virtual|online)[- ](?:only|event|events|meetup|meetups|summit|conference|hackathon|livestream|live[- ]?stream)\b|\bjoin (?:us )?(?:online|virtually)\b|\b100%\s+(?:virtual|online)\b|\bheld (?:entirely )?online\b/i;
 const UNKNOWN_LOCATION = /\b(?:tba|tbd|to be (?:announced|determined)|unknown|coming soon)\b/i;
 const PRIVATE_EVENT = /\b(?:invite[- ]only|invitation[- ]only|members?[- ]only|approval[- ]based|application[- ]only|closed event|private\b(?!\s+(?:credit|equity|key|sale|network|chain)))\b/i;
 const ISO_CURRENCIES = new Set([
@@ -178,16 +180,24 @@ export function isGoogleEventSchemaEligible(event: Web3Event): boolean {
   const name = text(event.name);
   const location = text(event.location);
   if (!name || !isValidIsoDate(event.startDate)) return false;
+  // A virtual-only description against a physical venue is contradictory —
+  // suppress rather than emit a Place schema for an event held online.
+  // (Genuinely online events have virtual venue fields and are unaffected.
+  // Incidental words like Discord links or "released online" don't count —
+  // only explicit online-attendance mode.)
+  if (VIRTUAL_EVENT_MODE.test(text(event.description)) && !isOnlineEventVenue(event)) return false;
   if (event.endDate && (!isValidIsoDate(event.endDate) || Date.parse(event.endDate) < Date.parse(event.startDate))) return false;
-  // Note: invite-only / approval-based events stay eligible — anyone can
-  // still discover and apply for approval, so they are public listings.
+  // Note: invite-only / approval-based copy is treated as gated (no schema).
   // Online events are fully eligible via VirtualLocation. Physical events
-  // need any real place — city-level is enough; Google does not require a
-  // street address for a Valid rating. A concrete city salvages a TBD venue.
+  // need a detailed street address — city-level or venue-label alone is not
+  // enough for a Place schema; a concrete street address is required.
   if (isOnlineEventVenue(event)) return true;
-  const cityKnown = Boolean(text(event.city)) && !UNKNOWN_LOCATION.test(text(event.city));
-  if (!location || (!cityKnown && UNKNOWN_LOCATION.test(location))) return false;
-  return true;
+  // Gated/private events are not public listings — never emit schema for them.
+  if (PRIVATE_EVENT.test(`${text(event.name)} ${text(event.description)}`)) return false;
+  if (!location || UNKNOWN_LOCATION.test(location)) return false;
+  // Physical events need a detailed street address. City-only, venue-label,
+  // or TBD locations must not emit a Place schema.
+  return hasDetailedSourceLocation(event);
 }
 
 export function buildGoogleEventSchema(event: Web3Event, context: EventSchemaContext): GoogleEventSchema | null {
@@ -209,7 +219,8 @@ export function buildGoogleEventSchema(event: Web3Event, context: EventSchemaCon
     startDate: event.startDate,
     ...(event.endDate ? { endDate: event.endDate } : {}),
     ...(text(event.description) ? { description: text(event.description) } : {}),
-    eventStatus: 'https://schema.org/EventScheduled',
+    // No eventStatus: Web3Event carries no stated status, and fabricating
+    // EventScheduled would mislabel postponed/cancelled events.
     eventAttendanceMode: online
       ? 'https://schema.org/OnlineEventAttendanceMode'
       : 'https://schema.org/OfflineEventAttendanceMode',

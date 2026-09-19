@@ -16,7 +16,7 @@ export type CompanyLogoMap = Record<string, CompanyLogoData>;
 function logoEntryForSlug(slug: string): CompanyLogoData {
   if (FAVICON_FIRST_SLUGS.has(slug)) {
     const favicon = getCompanyFaviconUrlBySlug(slug);
-    return { logo: favicon, favicon: null };
+    return { logo: favicon, favicon: resolveCompanyLogo(slug) };
   }
   const logo = resolveCompanyLogo(slug);
   if (logo) return { logo, favicon: null };
