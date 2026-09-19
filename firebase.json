@@ -1,4 +1,8 @@
 {
+  "apphosting": {
+    "backendId": "web3-jobs-aggregator",
+    "rootDir": "/"
+  },
   "firestore": {
     "rules": "firestore.rules"
   }
