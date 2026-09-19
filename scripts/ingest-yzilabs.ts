@@ -136,10 +136,11 @@ export async function ingestYZiLabs(
     match[0].replace(/\\"/g, '"').replace(/\\\\/g, '\\')
   );
 
-  // Exclude non-web3 companies
+  // Exclude non-web3 or blocked companies
   const web3Jobs = rawJobs.filter((j) => {
     const comp = (j.company || '').toLowerCase();
     if (comp.includes('agridynamics')) return false;
+    if (comp.includes('sats terminal') || comp.includes('satsterminal')) return false;
     return true;
   });
 
