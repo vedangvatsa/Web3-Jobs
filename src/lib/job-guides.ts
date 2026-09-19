@@ -103,12 +103,19 @@ export function hasSubstantialJobContent(job: Job): boolean {
   return !FABRICATED_CONTENT_MARKERS.some((marker) => text.includes(marker));
 }
 
-/** True when the page body is the generic Role Overview template (not employer copy). */
+/** True when the page body is synthesized fallback copy (not employer ATS text). */
 export function isGenericJobTemplateHtml(html: string): boolean {
-  return (
+  if (
     html.includes('Role Overview &amp; Responsibilities') ||
     html.includes('Role Overview & Responsibilities') ||
     (html.includes('What to Expect</h3>') && html.includes('Drive key projects and deliverables'))
+  ) {
+    return true;
+  }
+  return (
+    html.includes('Position Overview</h3>') &&
+    html.includes('Application &amp; Next Steps</h3>') &&
+    html.includes('Use <strong>Apply Now</strong> above to open')
   );
 }
 
@@ -333,11 +340,11 @@ function spinJobPostingBlock(text: string, type: 'h3' | 'h4' | 'p' | 'li', isAbo
 export function buildSynthesizedJobContent(job: Job, rawContentOverride?: string): string {
   const raw = rawContentOverride || getCachedRawContent(job);
   if (raw && (raw.startsWith('<div class="space-y-6">') || raw.startsWith('<div class="space-y-'))) {
-    if (isGenericJobTemplateHtml(raw)) return buildUniqueJobPageContent(job);
+    if (isGenericJobTemplateHtml(raw)) return buildJobContentFallbackHtml(job);
     return cleanPublishHtml(applyJobDescriptionProseClasses(raw));
   }
   const plainLen = plainTextFromHtml(raw).length;
-  if (!raw || plainLen < 100) return buildUniqueJobPageContent(job);
+  if (!raw || plainLen < 100) return buildJobContentFallbackHtml(job);
 
   const blocks = cleanAndExtractBlocks(raw, job);
   if (blocks.length === 0) {
@@ -518,40 +525,74 @@ export function buildSynthesizedJobContent(job: Job, rawContentOverride?: string
   if (visibleText.length >= minVisibleChars) return cleanedHtml;
   if (visibleText.length >= 100 && blocks.length >= 2) return cleanedHtml;
   if (plainLen >= 100) return renderEmployerDescriptionFallback(job, raw);
-  return buildUniqueJobPageContent(job, raw);
+  return buildJobContentFallbackHtml(job, raw);
 }
 
-export function buildUniqueJobPageContent(job: Job, employerHtml = ''): string {
+/** Last-resort job body when ATS/shard text is missing or too short — uses company profile when available. */
+export function buildJobContentFallbackHtml(job: Job, employerHtml = ''): string {
   const sourceText = plainTextFromHtml(employerHtml || getCachedRawContent(job));
   const family = inferRoleFamily(job);
   const signals = extractRoleSignals(job, sourceText);
-  const location = cleanJobLocation(job.location) || 'Remote';
-  const department = getDepartmentLabel(job);
+  const title = escapeHtml(job.title);
+  const companyName = escapeHtml(job.company);
+  const companySlug = getCompanySlug(job.company);
+  const companyAbout =
+    COMPANY_RICH_ABOUT[companySlug] ||
+    COMPANY_RICH_ABOUT[companySlug.replace(/-labs$|-foundation$/, '')];
+  const location = escapeHtml(cleanJobLocation(job.location) || 'Remote / Hybrid');
+  const department = escapeHtml(getDepartmentLabel(job) || family);
 
   const focus = signals.length > 1
     ? `${signals.slice(0, -1).join(', ')}, and ${signals.at(-1)}`
     : signals[0];
-  const teamLine = department ? `in ${department}` : `in the ${family} department`;
 
-  let html = `<div class="space-y-6">\n`;
-  html += `<h2 class="text-xl font-bold tracking-tight text-foreground">Role Overview &amp; Responsibilities</h2>\n`;
-  html += `<p class="leading-relaxed text-muted-foreground"><strong>${escapeHtml(job.company)}</strong> is actively recruiting for a <strong>${escapeHtml(job.title)}</strong> position (${escapeHtml(location)}) ${escapeHtml(teamLine)}.</p>\n`;
-  
-  if (focus) {
-    html += `<p class="leading-relaxed text-muted-foreground">Key technical competencies and focus areas for this role include: <strong>${escapeHtml(focus)}</strong>.</p>\n`;
+  let html = `<div class="space-y-6">`;
+
+  if (companyAbout) {
+    html += `<div class="rounded-xl border border-border/50 bg-muted/30 p-6 space-y-3">
+      <h3 class="text-lg font-semibold text-foreground">About ${companyName}</h3>
+      <p class="text-sm leading-relaxed text-muted-foreground">${escapeHtml(companyAbout)}</p>
+    </div>`;
   }
 
-  html += `<h3 class="text-lg font-bold tracking-tight text-foreground mt-6">What to Expect</h3>\n`;
-  html += `<ul class="list-disc pl-5 space-y-2 my-4 text-muted-foreground">\n`;
-  html += `<li>Drive key projects and deliverables within ${escapeHtml(job.company)}'s ${escapeHtml(family)} function.</li>\n`;
-  html += `<li>Collaborate across cross-functional engineering, product, and operations teams.</li>\n`;
-  html += `<li>Contribute to production-grade Web3, blockchain, and decentralized infrastructure solutions.</li>\n`;
-  html += `</ul>\n`;
+  html += `<div class="space-y-4">
+    <h3 class="text-lg font-semibold text-foreground">Position Overview</h3>
+    <p class="text-sm leading-relaxed text-muted-foreground">
+      <strong>${companyName}</strong> is recruiting for a <strong>${title}</strong> role (${department}).
+      This opening is listed for <strong>${location}</strong> and sits within ${companyName}'s ${escapeHtml(family)} workstream on Web3 and blockchain products.
+    </p>`;
 
-  html += `<h3 class="text-lg font-bold tracking-tight text-foreground mt-6">How to Apply</h3>\n`;
-  html += `<p class="leading-relaxed text-muted-foreground">Click <strong>Apply Now</strong> above to submit your application and review the full role specifications directly on <strong>${escapeHtml(job.company)}</strong>'s official careers portal.</p>\n`;
-  html += `</div>`;
+  if (focus) {
+    html += `<p class="text-sm leading-relaxed text-muted-foreground">
+      Based on the posting title and team context, likely focus areas include <strong>${escapeHtml(focus)}</strong>.
+      Full requirements, compensation bands, and interview steps are maintained on ${companyName}'s official careers site.
+    </p>`;
+  }
+
+  html += `<div class="grid grid-cols-1 md:grid-cols-2 gap-4 my-4">
+      <div class="p-4 rounded-lg border border-border/40 bg-card">
+        <div class="text-xs font-medium text-muted-foreground uppercase tracking-wider">Department</div>
+        <div class="text-sm font-semibold text-foreground mt-1">${department}</div>
+      </div>
+      <div class="p-4 rounded-lg border border-border/40 bg-card">
+        <div class="text-xs font-medium text-muted-foreground uppercase tracking-wider">Location / Setup</div>
+        <div class="text-sm font-semibold text-foreground mt-1">${location}</div>
+      </div>
+    </div>
+
+    <h3 class="text-lg font-semibold text-foreground mt-6">Application &amp; Next Steps</h3>
+    <p class="text-sm leading-relaxed text-muted-foreground">
+      Use <strong>Apply Now</strong> above to open ${companyName}'s live application page.
+      That source lists the authoritative job description, eligibility, and any updates published after this listing was indexed.
+    </p>
+  </div></div>`;
+
   return cleanPublishHtml(html);
+}
+
+/** @deprecated Prefer {@link buildJobContentFallbackHtml} — kept for scripts/tests that reference the old name. */
+export function buildUniqueJobPageContent(job: Job, employerHtml = ''): string {
+  return buildJobContentFallbackHtml(job, employerHtml);
 }
 
 /** Strip ATS heading labels that survive plain-text extraction (no colon). */
@@ -1830,48 +1871,7 @@ export async function fetchJobOriginalContent(job: Job): Promise<string> {
   }
 
   if (!rawContent || plainTextFromHtml(rawContent).length < 80) {
-    const title = escapeHtml(job.title);
-    const companyName = escapeHtml(job.company);
-    const companySlug = getCompanySlug(job.company);
-    const companyAbout = COMPANY_RICH_ABOUT[companySlug] || COMPANY_RICH_ABOUT[companySlug.replace(/-labs$|-foundation$/, '')];
-    const location = escapeHtml(job.location || 'Remote / Hybrid');
-    const department = getDepartmentLabel(job) || 'Engineering / Web3';
-
-    let fallbackHtml = `<div class="space-y-6">`;
-
-    if (companyAbout) {
-      fallbackHtml += `<div class="rounded-xl border border-border/50 bg-muted/30 p-6 space-y-3">
-        <h3 class="text-lg font-semibold text-foreground">About ${companyName}</h3>
-        <p class="text-sm leading-relaxed text-muted-foreground">${escapeHtml(companyAbout)}</p>
-      </div>`;
-    }
-
-    fallbackHtml += `<div class="space-y-4">
-      <h3 class="text-lg font-semibold text-foreground">Position Overview</h3>
-      <p class="text-sm leading-relaxed text-muted-foreground">
-        <strong>${companyName}</strong> is actively recruiting for a <strong>${title}</strong> (${escapeHtml(department)}). 
-        This position is based in <strong>${location}</strong> and offers an opportunity to contribute directly to ${companyName}'s core Web3 and blockchain initiatives.
-      </p>
-
-      <div class="grid grid-cols-1 md:grid-cols-2 gap-4 my-4">
-        <div class="p-4 rounded-lg border border-border/40 bg-card">
-          <div class="text-xs font-medium text-muted-foreground uppercase tracking-wider">Department</div>
-          <div class="text-sm font-semibold text-foreground mt-1">${escapeHtml(department)}</div>
-        </div>
-        <div class="p-4 rounded-lg border border-border/40 bg-card">
-          <div class="text-xs font-medium text-muted-foreground uppercase tracking-wider">Location / Setup</div>
-          <div class="text-sm font-semibold text-foreground mt-1">${location}</div>
-        </div>
-      </div>
-
-      <h3 class="text-lg font-semibold text-foreground mt-6">Application & Next Steps</h3>
-      <p class="text-sm leading-relaxed text-muted-foreground">
-        Complete job requirements, team specifics, and candidate qualifications are hosted directly on ${companyName}'s official application site. 
-        Click the button below to submit your application and view real-time posting updates.
-      </p>
-    </div></div>`;
-
-    return fallbackHtml;
+    return buildJobContentFallbackHtml(job);
   }
 
   const formatted = formatJobContent(decodeDoubleEscapedHtml(rawContent));
