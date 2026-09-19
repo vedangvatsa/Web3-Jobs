@@ -6,6 +6,8 @@ import { buildSitemapRoutes } from '../src/lib/sitemap-build';
 import { getCategories, getLessons } from '../src/lib/learn';
 import { getAllCategorySlugs } from '../src/lib/glossary';
 import { getPopupSlugs } from '../src/lib/popups';
+import { getAllJobsWithSlugs, getLegacyJobSlugs } from '../src/lib/job-guides';
+import { getJobs } from '../src/lib/jobs';
 
 const SITE = 'https://hashtagweb3.com';
 
@@ -108,6 +110,22 @@ async function main(): Promise<void> {
   ]);
   for (const p of fixedStaticPages) preRenderedPaths.add(p);
 
+  const jobRedirectPaths = new Set<string>();
+  const [jobsWithSlugs, allJobs] = await Promise.all([getAllJobsWithSlugs(), getJobs()]);
+  const jobRedirectSlugs = new Set<string>();
+  for (const { slug } of jobsWithSlugs) {
+    if (slug) jobRedirectSlugs.add(slug);
+  }
+  for (const job of allJobs) {
+    if (job.id) jobRedirectSlugs.add(job.id);
+  }
+  for (const legacy of getLegacyJobSlugs()) {
+    jobRedirectSlugs.add(legacy);
+  }
+  for (const slug of jobRedirectSlugs) {
+    jobRedirectPaths.add(`/jobs/${slug}`);
+  }
+
   const inSitemapNotPreRendered: string[] = [];
   for (const p of sitemapPaths) {
     if (!preRenderedPaths.has(p)) inSitemapNotPreRendered.push(p);
@@ -127,6 +145,7 @@ async function main(): Promise<void> {
   console.log(`  /glossary/[cat]:          ${glossaryCategoryPaths.size}`);
   console.log(`  /popups/[slug]:           ${popupDetailPaths.size}`);
   console.log(`  fixed listing/tool pages: ${fixedStaticPages.size}`);
+  console.log(`  /jobs/[slug] redirects:   ${jobRedirectPaths.size}`);
   console.log('');
   console.log(`In sitemap, NOT pre-rendered at build: ${inSitemapNotPreRendered.length}`);
   if (inSitemapNotPreRendered.length > 0) {
@@ -138,11 +157,10 @@ async function main(): Promise<void> {
   }
 
   console.log('');
-  console.log('--- Routes that render on demand (no generateStaticParams) ---');
-  console.log('/jobs/[slug]:               on-demand redirect (legacy URLs only)');
-  console.log('/popups/[slug]:             pre-rendered for known slugs; dynamicParams=true allows extras');
+  console.log('--- HTML routes still generated on first request ---');
+  console.log('(none — all App Router page.tsx routes use generateStaticParams and/or force-static/revalidate)');
   console.log('');
-  console.log('--- Non-HTML (always dynamic at request time) ---');
+  console.log('--- Non-HTML (request-time by design) ---');
   console.log('API / feeds / XML route handlers: 11 route.ts files (expected dynamic)');
   console.log('  /api/email/unsubscribe: force-dynamic');
   console.log('  job/event XML + JSON feeds: revalidate ISR');

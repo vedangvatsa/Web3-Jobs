@@ -39,6 +39,9 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
  };
 }
 
+export const revalidate = 3600;
+export const dynamicParams = false;
+
 export async function generateStaticParams() {
  const { getCategories } = await import('@/lib/learn');
  const categories = getCategories();
