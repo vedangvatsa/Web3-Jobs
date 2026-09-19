@@ -46,7 +46,20 @@ function loadDescriptionShard(job: Job): JobDescriptionShard {
   return { version: 1, descriptions: {}, aliases: {} };
 }
 
+const runtimeRawContentByKey = new Map<string, string>();
+
+function rememberRuntimeRawContent(job: Job, raw: string): void {
+  const key = getJobContentKey(job);
+  if (!key || plainTextFromHtml(raw).length < 100) return;
+  runtimeRawContentByKey.set(key, raw);
+}
+
 export function getCachedRawContent(job: Job, _shardsPath = JOB_DESCRIPTION_SHARDS_DIRECTORY): string {
+  const contentKey = getJobContentKey(job);
+  const runtime = contentKey ? runtimeRawContentByKey.get(contentKey) : undefined;
+  if (runtime) {
+    return sanitizeJobDescriptionHtml(runtime, job.company);
+  }
   const shard = loadDescriptionShard(job);
   const slugKey = job.slug;
   const raw = [getJobContentKey(job), job.id, slugKey]
@@ -88,6 +101,57 @@ export function hasSubstantialJobContent(job: Job): boolean {
   const text = plainTextFromHtml(raw);
   if (text.length < 100) return false;
   return !FABRICATED_CONTENT_MARKERS.some((marker) => text.includes(marker));
+}
+
+/** True when the page body is the generic Role Overview template (not employer copy). */
+export function isGenericJobTemplateHtml(html: string): boolean {
+  return (
+    html.includes('Role Overview &amp; Responsibilities') ||
+    html.includes('Role Overview & Responsibilities') ||
+    (html.includes('What to Expect</h3>') && html.includes('Drive key projects and deliverables'))
+  );
+}
+
+function renderEmployerDescriptionFallback(job: Job, raw: string): string {
+  const sanitized = sanitizeJobDescriptionHtml(raw, job.company);
+  const plain = plainTextFromHtml(sanitized);
+  if (plain.length < 80) return buildUniqueJobPageContent(job, raw);
+  if (sanitized.includes('<p') || sanitized.includes('<li') || sanitized.includes('<h')) {
+    return cleanPublishHtml(`<div class="space-y-6">${sanitized}</div>`);
+  }
+  const paragraphs = plain.split(/\n{2,}/).map((p) => p.trim()).filter(Boolean);
+  let html = '<div class="space-y-6">';
+  for (const paragraph of paragraphs.length > 0 ? paragraphs : [plain]) {
+    html += `<p class="text-muted-foreground leading-relaxed">${escapeHtml(paragraph)}</p>`;
+  }
+  html += '</div>';
+  return cleanPublishHtml(html);
+}
+
+const jobDetailHtmlInflight = new Map<string, Promise<string>>();
+
+/** Load shard (with ATS fallback) and render job detail HTML for the page. */
+export async function buildJobDetailContentHtml(job: Job): Promise<string> {
+  const slug = job.slug || getJobSlug(job);
+  const inflight = jobDetailHtmlInflight.get(slug);
+  if (inflight) return inflight;
+
+  const work = (async () => {
+    const raw = await getOrFetchRawJobContent(job);
+    return buildSynthesizedJobContent(job, raw);
+  })();
+
+  jobDetailHtmlInflight.set(slug, work);
+  try {
+    return await work;
+  } finally {
+    jobDetailHtmlInflight.delete(slug);
+  }
+}
+
+export async function jobPageShouldIndex(job: Job, contentHtml: string): Promise<boolean> {
+  if (isGenericJobTemplateHtml(contentHtml)) return false;
+  return hasSubstantialJobContent(job);
 }
 
 export function getCachedJobSummary(job: Job, maxLength = 155): string | null {
@@ -196,8 +260,15 @@ export async function getOrFetchRawJobContent(job: Job): Promise<string> {
   await ensureDescriptionShardLoaded(job);
   const cached = getCachedRawContent(job);
   const isFlattened = Boolean(cached && cached.length > 200 && !cached.includes('\n') && !cached.includes('<p') && !cached.includes('<div') && !cached.includes('<li') && !cached.includes('<h'));
-  if (cached && plainTextFromHtml(cached).length >= 100 && !isFlattened) return cached;
-  return await fetchJobOriginalContent(job);
+  if (cached && plainTextFromHtml(cached).length >= 100 && !isFlattened) {
+    rememberRuntimeRawContent(job, cached);
+    return cached;
+  }
+  const fetched = await fetchJobOriginalContent(job);
+  if (plainTextFromHtml(fetched).length >= 100 && !fetched.includes('Role Overview &amp; Responsibilities')) {
+    rememberRuntimeRawContent(job, fetched);
+  }
+  return fetched;
 }
 
 function spinJobPostingBlock(text: string, type: 'h3' | 'h4' | 'p' | 'li', isAboutSection: boolean): string {
@@ -254,7 +325,10 @@ export function buildSynthesizedJobContent(job: Job, rawContentOverride?: string
   if (!raw || plainLen < 100) return buildUniqueJobPageContent(job);
 
   const blocks = cleanAndExtractBlocks(raw, job);
-  if (blocks.length === 0) return buildUniqueJobPageContent(job);
+  if (blocks.length === 0) {
+    if (plainLen >= 100) return renderEmployerDescriptionFallback(job, raw);
+    return buildUniqueJobPageContent(job);
+  }
 
   const location = cleanJobLocation(job.location) || 'the employer-specified location';
   const department = getDepartmentLabel(job);
@@ -404,6 +478,7 @@ export function buildSynthesizedJobContent(job: Job, rawContentOverride?: string
   const cleanedHtml = cleanPublishHtml(html.replace(/#{2,}HEADING###/g, ''));
   const visibleText = plainTextFromHtml(cleanedHtml);
   if (visibleText.length < 350 || blocks.length < 3) {
+    if (plainLen >= 100) return renderEmployerDescriptionFallback(job, raw);
     return buildUniqueJobPageContent(job, raw);
   }
   return cleanedHtml;
@@ -1727,7 +1802,9 @@ export async function fetchJobOriginalContent(job: Job): Promise<string> {
     return fallbackHtml;
   }
 
-  return formatJobContent(decodeDoubleEscapedHtml(rawContent));
+  const formatted = formatJobContent(decodeDoubleEscapedHtml(rawContent));
+  rememberRuntimeRawContent(job, formatted);
+  return formatted;
 }
 
 /**
