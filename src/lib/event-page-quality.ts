@@ -1,4 +1,5 @@
 import type { Web3Event } from '@/lib/events';
+import { getEventSlug } from '@/lib/events';
 import { EVENT_GUIDES } from '@/lib/event-guides';
 import { isThinEventListingDescription } from '@/lib/event-editorial-facts';
 import { isLumaListedEvent } from '@/lib/luma-event-content';
@@ -20,7 +21,8 @@ export function hasCuratedEventGuide(event: Web3Event): boolean {
     return Boolean(description && !isThinEventListingDescription(description));
   }
 
-  const slug = (event.slug || '').toLowerCase().trim();
+  // Same slug key as resolveEventGuide so meta and body agree on curated vs generic.
+  const slug = (event.slug || getEventSlug(event) || '').toLowerCase().trim();
   if (slug && EVENT_GUIDES[slug]) return true;
   const aliasedId = event.id ? GENERATED_EVENT_GUIDE_ALIASES[event.id] : undefined;
   if (aliasedId && hasGeneratedEventGuide(aliasedId)) return true;

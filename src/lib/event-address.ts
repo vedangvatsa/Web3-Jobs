@@ -1,4 +1,4 @@
-const STREET_DESIGNATOR = /(?:\b(?:street|st\.?|road|rd\.?|avenue|ave\.?|boulevard|blvd\.?|lane|ln\.?|drive|dr\.?|way|place|pl\.?|square|sq\.?|terrace|highway|hwy\.?|parkway|pkwy\.?|court|ct\.?|close|crescent|mews|quay|wharf|esplanade|promenade|plaza|rue|chemin|allee|allée|route|strasse|straße|platz|gasse|via|viale|piazza|calle|carrera|avenida|av\.?|rua|travessa|estrada|jalan|lorong|soi|ro|gil|daero)\b|[路街道巷])/i;
+const STREET_DESIGNATOR = /(?:\b(?:street|st\.?|road|rd\.?|avenue|ave\.?|boulevard|blvd\.?|lane|ln\.?|drive|dr\.?|way|place|pl\.?|square|sq\.?|terrace|highway|hwy\.?|parkway|pkwy\.?|court|ct\.?|close|crescent|mews|quay|wharf|esplanade|promenade|plaza|broadway|green|grn\.?|hill|center|centre|ctr\.?|marg|tower|city|ward|chome|rue|chemin|allee|allée|route|strasse|straße|platz|gasse|via|viale|piazza|calle|carrera|avenida|av\.?|rua|travessa|estrada|jalan|lorong|soi|ro|gil|daero)\b|[路街道巷])/i;
 const HOUSE_NUMBER = /(?:^|[\s,])#?\d{1,5}[a-z]?(?:-\d{1,5}[a-z]?)?(?:\/\d{1,5})?(?=$|[\s,])/i;
 const KOREAN_LOT_ADDRESS = /\b\d{1,4}(?:-\d{1,4})?\s+[\p{Script=Hangul}A-Za-z0-9-]+-dong\b/iu;
 

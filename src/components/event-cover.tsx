@@ -59,7 +59,11 @@ export function EventHeroImage({
   const posterSrc = isRealEventPoster(src) ? src : null;
   const [failed, setFailed] = useState(false);
 
-  if (!posterSrc || failed) return null;
+  // Keep the bounded frame mounted even without a poster so the page layout
+  // doesn't collapse/shift between hero, facts, and guide sections.
+  if (!posterSrc || failed) {
+    return <div className={EVENT_HERO_FRAME_CLASS} aria-hidden="true" />;
+  }
 
   const useNext = canUseNextImage(posterSrc);
 

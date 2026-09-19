@@ -46,6 +46,11 @@ export function seedDescriptionShardCache(filename: string, shard: JobDescriptio
   descriptionsShardCache.set(filename, shard);
 }
 
+/** Test only: reset the in-memory shard cache between cases. */
+export function clearDescriptionShardCache(): void {
+  descriptionsShardCache.clear();
+}
+
 export async function ensureDescriptionShardLoaded(job: Job): Promise<JobDescriptionShard> {
   const filename = getJobDescriptionShardFilename(getJobDescriptionShardIndex(job));
   const cached = descriptionsShardCache.get(filename);

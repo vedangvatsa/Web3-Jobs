@@ -168,7 +168,7 @@
     "endDate": "2027-04-15T18:00:00.000Z",
     "city": "Cannes",
     "country": "France",
-    "location": "Palais des Festivals, Cannes, France",
+    "location": "Palais des Festivals, 1 Boulevard de la Croisette, 06400 Cannes, France",
     "url": "https://ethcc.io",
     "website": "https://ethcc.io",
     "coverImage": "/events/ethcc.webp",
@@ -2884,7 +2884,7 @@
     "endDate": "2026-09-22T18:00:00-04:00",
     "city": "New York",
     "country": "United States",
-    "location": "New York City, NY, USA",
+    "location": "Tribeca360, 10 Desbrosses Street, New York, NY 10013, USA",
     "url": "https://cryptofinanceforum.nyc/",
     "website": "https://cryptofinanceforum.nyc/",
     "registrationUrl": "https://cryptofinanceforum.nyc/"
