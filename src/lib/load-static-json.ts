@@ -34,8 +34,10 @@ export async function fetchSiteAsset(relativePath: string, init?: RequestInit): 
     const env = getCloudflareContext()?.env;
     const assets = env?.ASSETS;
     if (assets) {
-      const assetRes = await assets.fetch(new Request(url, requestInit));
-      if (assetRes.ok) return assetRes;
+      // Always return the assets binding response (including 404). Falling back to
+      // fetch(SITE_ORIGIN) re-enters the Worker and can exhaust CPU under burst
+      // loads (e.g. getArticle probing /articles-data for company slugs).
+      return assets.fetch(new Request(url, requestInit));
     }
   } catch {
     // Not on Cloudflare Workers (local Node, tests).

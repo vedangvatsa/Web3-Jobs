@@ -59,9 +59,24 @@ import { buildJobOgImageUrl, buildArticleOgImageUrl, buildCompanyOgImageUrl, res
 import { PopupDetailPage } from '@/components/popup-detail-page';
 import { getPopupBySlug } from '@/lib/popups';
 import { getPopupPath, popupPageMetadata, resolvePopupSlug } from '@/lib/popup-seo';
-import homepageJobs from '../../../content/homepage-jobs.json';
-import type { Job } from '@/types';
-import { getJobSlug } from '@/lib/job-slugs';
+import { buildSitemapRoutes } from '@/lib/sitemap-build';
+
+const SITE_URL = 'https://hashtagweb3.com';
+
+async function getCatchAllStaticSlugsFromSitemap(): Promise<string[]> {
+  const routes = await buildSitemapRoutes();
+  const prefix = `${SITE_URL}/`;
+  const slugs = new Set<string>();
+
+  for (const route of routes) {
+    if (!route.url.startsWith(prefix)) continue;
+    const segment = route.url.slice(prefix.length);
+    if (!segment || segment.includes('/')) continue;
+    slugs.add(segment);
+  }
+
+  return [...slugs].sort((a, b) => a.localeCompare(b));
+}
 
 
 type ArticlePageProps = {
@@ -71,33 +86,13 @@ type ArticlePageProps = {
 };
 
 
-export const dynamicParams = true;
-export const revalidate = 3600; // ISR: revalidate every hour
+/** Every indexed `/[slug]` route is pre-rendered at build; no first-request SSR for sitemap URLs. */
+export const dynamicParams = false;
+export const revalidate = 3600;
 
 export async function generateStaticParams() {
-  const articles = await getAllArticles();
-  const resources = getAllResourcePages();
-  const events = await getEvents();
-
-  // Pre-render recent articles/news + key resources/events. Jobs and the rest use dynamicParams.
-  const topArticles = articles
-   .sort((a, b) => new Date(b.publishedDate || 0).getTime() - new Date(a.publishedDate || 0).getTime())
-   .slice(0, 80);
-
-  const curatedEvents = events
-    .filter(e => e.source === 'curated-premier' || e.source === 'curated-series')
-    .slice(0, 15);
-
-  const hotJobSlugs = (homepageJobs as { initialJobs: Job[] }).initialJobs
-    .map((job) => getJobSlug(job))
-    .filter(Boolean);
-
-  return [
-   ...topArticles.map((article) => ({ slug: article.slug })),
-   ...resources.slice(0, 10).map((r) => ({ slug: r.seo.canonicalSlug })),
-   ...curatedEvents.map((event) => ({ slug: getEventSlug(event) })),
-   ...hotJobSlugs.map((slug) => ({ slug })),
-  ];
+  const slugs = await getCatchAllStaticSlugsFromSitemap();
+  return slugs.map((slug) => ({ slug }));
 }
 
 export async function generateMetadata({ params }: ArticlePageProps): Promise<Metadata> {
