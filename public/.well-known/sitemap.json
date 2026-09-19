@@ -2,12 +2,12 @@
   "$schema": "https://schema.org/sitemap",
   "name": "Hashtag Web3",
   "url": "https://hashtagweb3.com",
-  "generatedAt": "2026-09-19T11:19:10.439Z",
+  "generatedAt": "2026-09-19T12:14:34.583Z",
   "publisher": {
     "name": "Hashtag Web3",
     "url": "https://hashtagweb3.com"
   },
-  "count": 8485,
+  "count": 8483,
   "urls": [
     {
       "url": "https://hashtagweb3.com",
@@ -40114,12 +40114,6 @@
       "priority": 0.6
     },
     {
-      "url": "https://hashtagweb3.com/rxbf",
-      "lastmod": "2026-09-19",
-      "changefreq": "weekly",
-      "priority": 0.6
-    },
-    {
       "url": "https://hashtagweb3.com/rxscd",
       "lastmod": "2026-09-22",
       "changefreq": "weekly",
@@ -48330,12 +48324,6 @@
     {
       "url": "https://hashtagweb3.com/trezor",
       "lastmod": "2026-09-15",
-      "changefreq": "weekly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/trezor-academy",
-      "lastmod": "2026-09-17",
       "changefreq": "weekly",
       "priority": 0.6
     },
