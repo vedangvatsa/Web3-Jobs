@@ -1,6 +1,7 @@
 import { cleanPublishText } from '@/lib/noslop';
 import { isThinEventListingDescription } from '@/lib/event-editorial-facts';
 import { EVENT_GUIDES } from './event-guides';
+import { hasDetailedStreetAddress } from './event-address';
 import { isGoogleEventSchemaEligible } from './event-schema';
 
 export type EventType = 'conference' | 'hackathon' | 'meetup' | 'workshop' | 'online';
@@ -229,9 +230,6 @@ export function formatEventLocation(
   const PLACEHOLDER_SEGMENT = /\b(tba|tbd|to be announced|to be determined|unknown|coming soon|venue\s+tba)\b/i;
   const city = GENERIC_CITIES.has(rawCity.toLowerCase()) ? '' : rawCity;
   const country = normalizeCountry(event.country);
-  // City-states (Singapore, Dubai reports, etc.): never render "X, X".
-  if (city && country && city.toLowerCase() === country.toLowerCase()) return city;
-  const preferred = city && country && !city.includes(',') ? `${city}, ${country}` : '';
   const raw = (event.location || '').trim();
   // Drop placeholder segments ("Global, SG" → "SG") before dedup.
   const rawParts = raw.split(',').map((part) => part.trim()).filter(Boolean);
@@ -242,12 +240,24 @@ export function formatEventLocation(
   const cleaned = cleanedParts.join(', ');
   const deduped = cleaned ? dedupeEventLocation(cleaned) : '';
 
+  // City-states (Singapore, Dubai reports, etc.): never render "X, X" —
+  // but keep a stated street address instead of collapsing it to the city.
+  if (city && country && city.toLowerCase() === country.toLowerCase()) {
+    if (deduped && deduped.toLowerCase() !== city.toLowerCase() && hasDetailedStreetAddress(deduped)) {
+      return deduped;
+    }
+    return city;
+  }
+  const preferred = city && country && !city.includes(',') ? `${city}, ${country}` : '';
+
   if (preferred) {
     if (!deduped || deduped.toLowerCase() === `${preferred}, ${preferred}`.toLowerCase()) {
       return preferred;
     }
     const cityCount = deduped.toLowerCase().split(city.toLowerCase()).length - 1;
-    if (cityCount > 1) return preferred;
+    // Repeated city mentions collapse to "City, Country" — unless the full
+    // string carries a stated street address worth preserving.
+    if (cityCount > 1 && !hasDetailedStreetAddress(deduped)) return preferred;
   }
 
   // A bare leftover code from generic-stripping ("SG") resolves to the
