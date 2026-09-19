@@ -47,8 +47,9 @@ import {
   getAllJobsWithSlugs,
   getJobBySlug,
   hasSubstantialJobContent,
-  resolveJobSlug,
+  resolveJobSlug as resolveJobSlugBase,
 } from '@/lib/job-guides';
+import { cache } from 'react';
 import { ensureDescriptionShardLoaded } from '@/lib/job-description-shard-loader';
 import { JobDetailView } from '@/components/job-detail-view';
 import { FAVICON_FIRST_SLUGS, resolveCompanyLogo, getCompanyFaviconUrl, getCompanyFaviconUrlBySlug } from '@/lib/company-logo';
@@ -57,6 +58,9 @@ import { buildJobOgImageUrl, buildArticleOgImageUrl, buildCompanyOgImageUrl, res
 import { PopupDetailPage } from '@/components/popup-detail-page';
 import { getPopupBySlug } from '@/lib/popups';
 import { getPopupPath, popupPageMetadata, resolvePopupSlug } from '@/lib/popup-seo';
+import homepageJobs from '../../../content/homepage-jobs.json';
+import type { Job } from '@/types';
+import { getJobSlug } from '@/lib/job-slugs';
 
 
 type ArticlePageProps = {
@@ -64,6 +68,8 @@ type ArticlePageProps = {
   slug: string;
  };
 };
+
+const resolveJobSlug = cache(resolveJobSlugBase);
 
 export const dynamicParams = true;
 export const revalidate = 3600; // ISR: revalidate every hour
@@ -82,10 +88,15 @@ export async function generateStaticParams() {
     .filter(e => e.source === 'curated-premier' || e.source === 'curated-series')
     .slice(0, 15);
 
+  const hotJobSlugs = (homepageJobs as { initialJobs: Job[] }).initialJobs
+    .map((job) => getJobSlug(job))
+    .filter(Boolean);
+
   return [
    ...topArticles.map((article) => ({ slug: article.slug })),
    ...resources.slice(0, 10).map((r) => ({ slug: r.seo.canonicalSlug })),
    ...curatedEvents.map((event) => ({ slug: getEventSlug(event) })),
+   ...hotJobSlugs.map((slug) => ({ slug })),
   ];
 }
 
@@ -376,6 +387,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
 
 export default async function ArticlePage({ params }: ArticlePageProps) {
   const slugType = classifySlug(params.slug);
+  const articlesPromise = slugType === 'article' ? getAllArticles() : null;
 
   if (slugType === 'company') {
     const companyPage = await getCompanyBySlug(params.slug);
@@ -396,9 +408,11 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
       permanentRedirect(`/${canonicalSlug}`);
     }
     const siteUrl = 'https://hashtagweb3.com';
-    await ensureDescriptionShardLoaded(job);
     const companySlug = getCompanySlug(job.company);
-    const company = await getCompanyBySlug(companySlug);
+    const [, company] = await Promise.all([
+      ensureDescriptionShardLoaded(job),
+      getCompanyBySlug(companySlug),
+    ]);
     const contentHtml = buildSynthesizedJobContent(job);
     const rawLogoFile = resolveCompanyLogo(companySlug);
     const rawFavicon = getCompanyFaviconUrl(company?.website) ?? getCompanyFaviconUrlBySlug(companySlug);
@@ -762,8 +776,8 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     }
     notFound();
   }
-  const allArticles = await getAllArticles();
- 
+  const allArticles = articlesPromise ? await articlesPromise : await getAllArticles();
+
  const siteUrl = 'https://hashtagweb3.com';
  const imageUrl = article.image.startsWith('http') ? article.image : `${siteUrl}${article.image}`;
 

@@ -8,7 +8,24 @@ const CACHE_PATH = path.join(process.cwd(), 'content/jobs-cache.json');
 const OUT_PATH = path.join(process.cwd(), 'content/jobs-runtime.json');
 const PUBLIC_DATA_PATH = path.join(process.cwd(), 'public/data/jobs-runtime.json');
 const HOMEPAGE_PATH = path.join(process.cwd(), 'content/homepage-jobs.json');
+const JOBS_BY_SLUG_DIR = path.join(process.cwd(), 'content/jobs-by-slug');
+const PUBLIC_JOBS_BY_SLUG_DIR = path.join(process.cwd(), 'public/jobs-by-slug');
 const HOMEPAGE_INITIAL = 50;
+
+function writeJobsBySlug(listing: Job[]) {
+  fs.mkdirSync(JOBS_BY_SLUG_DIR, { recursive: true });
+  fs.mkdirSync(PUBLIC_JOBS_BY_SLUG_DIR, { recursive: true });
+  let written = 0;
+  for (const job of listing) {
+    const slug = job.slug?.toLowerCase().trim();
+    if (!slug) continue;
+    const json = `${JSON.stringify(job)}\n`;
+    fs.writeFileSync(path.join(JOBS_BY_SLUG_DIR, `${slug}.json`), json, 'utf-8');
+    fs.writeFileSync(path.join(PUBLIC_JOBS_BY_SLUG_DIR, `${slug}.json`), json, 'utf-8');
+    written += 1;
+  }
+  console.log(`Wrote ${written} per-slug job records to ${JOBS_BY_SLUG_DIR}`);
+}
 
 function main() {
   const raw = JSON.parse(fs.readFileSync(CACHE_PATH, 'utf-8')) as Job[];
@@ -31,6 +48,7 @@ function main() {
   };
   fs.writeFileSync(HOMEPAGE_PATH, `${JSON.stringify(homepage)}\n`, 'utf-8');
   console.log(`Wrote homepage snapshot (${initialJobs.length} jobs) to ${HOMEPAGE_PATH}`);
+  writeJobsBySlug(listing);
 }
 
 main();

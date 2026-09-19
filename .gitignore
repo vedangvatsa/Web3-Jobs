@@ -19,6 +19,8 @@
 /.open-next/
 /.wrangler/
 /public/job-description-shards/
+/public/jobs-by-slug/
+/content/jobs-by-slug/
 /public/data/
 /public/articles-data/
 /public/preview/
