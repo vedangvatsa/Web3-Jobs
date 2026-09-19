@@ -445,7 +445,7 @@ export function buildSynthesizedJobContent(job: Job, rawContentOverride?: string
     if (block.type === 'li') {
       const spunText = spinJobPostingBlock(block.text, 'li', isAboutSection);
       let text = renderInlineMd(escapeHtml(spunText));
-      text = text.replace(/^[-*•·▪–—]\s+/, '');
+      text = text.replace(/^[-*•·▪–—\u2010-\u2015]\s+/, '');
       // Trailing section labels glued to the last bullet ("...temperatures
       // Safety Requirements", "...skills Physical requirements and work
       // environment") become a pending sub-heading for what follows instead
@@ -476,6 +476,29 @@ export function buildSynthesizedJobContent(job: Job, rawContentOverride?: string
       html += `<li>${text}</li>`;
       continue;
     }
+
+    // Paragraph branch: intercept markdown headings and bullet lines that slipped through
+    if (block.type === 'p' && /^#{2,4}\s+/.test(block.text)) {
+      flushList();
+      dropTrailPendingHeading();
+      emitPendingHeading();
+      const hText = block.text.replace(/^#{2,4}\s+/, '').replace(/[:]+$/, '').trim();
+      const rendered = renderInlineMd(escapeHtml(hText));
+      pendingHeading = `<h3 class="text-xl font-bold tracking-tight text-foreground mt-8 mb-3">${rendered}</h3>`;
+      continue;
+    }
+
+    if (block.type === 'p' && /^[-*•·▪–—\u2010-\u2015]\s+/.test(block.text)) {
+      let text = renderInlineMd(escapeHtml(block.text));
+      text = text.replace(/^[-*•·▪–—\u2010-\u2015]\s+/, '');
+      const colonMatch = text.match(/^([A-Za-z0-9\s/&-]+):(\s+.*)$/);
+      if (colonMatch && colonMatch[1].length < 40) text = `<strong>${colonMatch[1]}:</strong>${colonMatch[2]}`;
+      emitPendingHeading();
+      if (!currentListOpen) { html += '<ul class="list-disc pl-5 space-y-2 my-4">'; currentListOpen = true; }
+      html += `<li>${text}</li>`;
+      continue;
+    }
+
     flushList();
     const spunPara = spinJobPostingBlock(block.text, 'p', isAboutSection);
     const text = renderInlineMd(escapeHtml(spunPara));
@@ -799,8 +822,14 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'h
   let decoded = decodeEntityEscapedMarkup(html)
     .replace(/&nbsp;/g, ' ');
 
+  // Normalize non-breaking hyphens (\u2010, \u2011, \u2012)
+  decoded = decoded.replace(/[\u2010\u2011\u2012]/g, '-');
+
+  // Pre-split markdown headings: "## Heading", "### Heading", "<p>## Heading</p>"
+  decoded = decoded.replace(/(?:<p>|<br\s*\/?>|\n|^)\s*#{2,4}\s+([^<\n]+?)(?:<\/p>|\n|$)/gi, '\n\n###HEADING###$1\n');
+
   // Strip trailing dash after period before line/tag break
-  decoded = decoded.replace(/\.\s*[-–—]\s*(?=<\/p>|\n|$)/g, '.');
+  decoded = decoded.replace(/\.\s*[-–—\u2010-\u2015]\s*(?=<\/p>|\n|$)/g, '.');
 
   // Pre-split headings that collide with sentence end or start of text.
   // NOTE: the space-separated (colon-less) form must only fire when the next
@@ -833,9 +862,9 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'h
   decoded = decoded.replace(/(?:<br\s*\/?>|\n)\s*(\d+[、．])/g, '\n- $1');
 
   // Pre-split inline bullets (run after cleanPublishText so converted dashes are caught)
-  decoded = decoded.replace(/([;\.\?!])\s*[-*•·▪–—]\s+([A-Z0-9])/g, '$1\n- $2');
+  decoded = decoded.replace(/([;\.\?!])\s*[-*•·▪–—\u2010-\u2015]\s+([A-Z0-9])/g, '$1\n- $2');
   decoded = decoded.replace(/([a-z0-9\)])\s*\.-\s*([A-Z])/g, '$1.\n- $2');
-  decoded = decoded.replace(/:\s*[-*•·▪–—]\s+([A-Z0-9])/g, ':\n- $1');
+  decoded = decoded.replace(/:\s*[-*•·▪–—\u2010-\u2015]\s+([A-Z0-9])/g, ':\n- $1');
   decoded = decoded.replace(/([;\.\?!:])\s*\*\s+([A-Z0-9])/g, '$1\n- $2');
 
   let $ = cheerio.load(decoded);
@@ -900,6 +929,10 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'h
       const labelNorm = label.replace(/[.\s]+$/g, '').toLowerCase();
       const bareWord = label.replace(/[^a-z]/gi, '').toLowerCase();
       const isRootPath = parsed.pathname === '/' || parsed.pathname === '';
+      if (/^\d+(\.\d+)*$/.test(host)) {
+        $el.replaceWith(` ${label} `);
+        return;
+      }
       if (isRootPath && (host === labelNorm || (label.trim().length <= 4 && ['us', 'me', 'we', 'our', 'you'].includes(bareWord)))) {
         $el.replaceWith(` ${label} `);
         return;
@@ -1021,11 +1054,11 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'h
     const text = $el.text().trim();
     if (text) {
       const items = text
-        .split(/\s+[•·]\s+|\s+\*\s+(?=[A-Z0-9])|(?<=\.)\s+[-*•·▪–—]\s+(?=[A-Z])/)
+        .split(/\s+[•·]\s+|\s+\*\s+(?=[A-Z0-9])|(?<=\.)\s+[-*•·▪–—\u2010-\u2015]\s+(?=[A-Z])/)
         // ATS-fused dash chains ("Afines. - Experiencia...") split further;
         // ranges ("1 - 3 years") and hyphens ("full-time") are untouched.
         .flatMap((item) => splitFusedDashItems(item))
-        .map((item) => item.replace(/^[-*•·▪–—]\s+/, '').replace(/\s+/g, ' ').trim())
+        .map((item) => item.replace(/^[-*•·▪–—\u2010-\u2015]\s+/, '').replace(/\s+/g, ' ').trim())
         .filter(Boolean);
       $el.replaceWith(items.map((item) => `\n- ${item}\n`).join(''));
     }
@@ -1086,8 +1119,19 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'h
       continue;
     }
 
+    // Direct markdown header: "## Heading", "### Heading"
+    const mdHeaderMatch = line.match(/^#{2,4}\s+(.*)$/);
+    if (mdHeaderMatch) {
+      const hText = mdHeaderMatch[1].replace(/[:]+$/, '').trim();
+      if (/^(equal opportunity|eeo)\b/i.test(hText)) continue;
+      if (hText && hText.length < 100) {
+        rawBlocks.push({ type: 'h3', text: hText });
+        continue;
+      }
+    }
+
     // Skip decorative divider lines (____, ----, ====, ****)
-    if (/^[-_=*~\u2022\u00b7\u2013\u2014\s]{3,}$/.test(line)) continue;
+    if (/^[-_=*~\u2022\u00b7\u2013\u2014\u2010-\u2015\s]{3,}$/.test(line)) continue;
 
     // Skip leaked / non-content noise
     if (/^#LI-[A-Z0-9-]+$/i.test(line)) continue;
@@ -1131,12 +1175,12 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'h
     if (job?.department && typeof job.department === 'string' && line.trim().toLowerCase() === job.department.trim().toLowerCase()) continue;
 
     // Bullet item
-    const bulletMatch = line.match(/^[-*•·▪–—]\s*(.*)$/);
+    const bulletMatch = line.match(/^[-*•·▪–—\u2010-\u2015]\s*(.*)$/);
     if (bulletMatch) {
       const bulletItems = bulletMatch[1]
-        .split(/\s+[•·]\s+|\s+\*\s+(?=[A-Z0-9])|(?<=\.)\s+[-*•·▪–—]\s+(?=[A-Z])/)
+        .split(/\s+[•·]\s+|\s+\*\s+(?=[A-Z0-9])|(?<=\.)\s+[-*•·▪–—\u2010-\u2015]\s+(?=[A-Z])/)
         .flatMap((item) => splitFusedDashItems(item))
-        .map((item) => item.replace(/^[-*•·▪–—]\s*/, '').trim())
+        .map((item) => item.replace(/^[-*•·▪–—\u2010-\u2015]\s*/, '').trim())
         .filter(Boolean);
       for (const item of bulletItems) {
         // A previous bullet ending with a trailing dash usually soft-wraps
@@ -1144,12 +1188,12 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'h
         // ("afines.- / Experiencia requerida...") is a NEW bullet whose
         // stray dash must be stripped instead of fused.
         const last = rawBlocks[rawBlocks.length - 1];
-        if (last && last.type === 'li' && /[-–—]$/.test(last.text)) {
+        if (last && last.type === 'li' && /[-–—\u2010-\u2015]$/.test(last.text)) {
           const looksContinuation = /^[a-z]/.test(item) || item.length < 40;
           if (looksContinuation) {
-            last.text = last.text.replace(/[-–—]+$/, '').trim() + ' - ' + item;
+            last.text = last.text.replace(/[-–—\u2010-\u2015]+$/, '').trim() + ' - ' + item;
           } else {
-            last.text = last.text.replace(/[-–—]+$/, '').trim();
+            last.text = last.text.replace(/[-–—\u2010-\u2015]+$/, '').trim();
             rawBlocks.push({ type: 'li', text: item });
           }
         } else {
@@ -1163,7 +1207,7 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'h
     const numSubheadingMatch = line.match(/^(\d+)[\.\)]\s+([A-Z][^.!?]{2,80})$/);
     if (numSubheadingMatch) {
       const nextLine = lines[i + 1] || '';
-      const isNextBullet = /^[-*•·▪–—]/.test(nextLine);
+      const isNextBullet = /^[-*•·▪–—\u2010-\u2015]/.test(nextLine);
       const isNextNum = /^\d+[\.\)]/.test(nextLine);
       if (isNextBullet || (!isNextNum && nextLine.length > 25)) {
         rawBlocks.push({ type: 'h4', text: line.replace(/[:]+$/, '').trim() });
@@ -1413,11 +1457,11 @@ function renderInlineMd(escaped: string): string {
  * hyphens ("full-time") and prose ("Austin - Remote") are untouched.
  */
 function splitFusedDashItems(text: string): string[] {
-  const folded = text.replace(/:\s*[-–—]\s+(?=[A-Z])/g, ': ');
+  const folded = text.replace(/:\s*[-–—\u2010-\u2015]\s+(?=[A-Z])/g, ': ');
   return folded
-    .split(/\.\s*[-–—]\s+(?=[A-Z])/)
+    .split(/\.\s*[-–—\u2010-\u2015]\s+(?=[A-Z])/)
     .map((part, i, arr) => (i < arr.length - 1 ? `${part.trim()}.` : part.trim()))
-    .map((part) => part.replace(/^[-*•·▪–—]\s+/, '').replace(/\s+/g, ' ').trim())
+    .map((part) => part.replace(/^[-*•·▪–—\u2010-\u2015]\s+/, '').replace(/\s+/g, ' ').trim())
     .filter(Boolean);
 }
 
@@ -1514,8 +1558,22 @@ function formatJobContent(originalHtml: string): string {
         return `<a href="${url}" target="_blank" rel="noopener noreferrer nofollow" class="text-primary hover:underline">${label}</a>`;
       });
 
-    if (block.type === 'li') {
-      text = text.replace(/^[-*•·▪–—]\s+/, '');
+    // Check if block is a markdown heading that slipped into a paragraph
+    if (block.type === 'p' && /^#{2,4}\s+/.test(text)) {
+      if (currentListOpen) {
+        html += '</ul>';
+        currentListOpen = false;
+      }
+      const hText = text.replace(/^#{2,4}\s+/, '').trim();
+      html += `<h3 class="text-lg font-bold tracking-tight text-foreground mt-6">${hText}</h3>`;
+      continue;
+    }
+
+    // Check if block starts with a bullet marker (even if classified as 'p')
+    const isBullet = block.type === 'li' || (block.type === 'p' && /^[-*•·▪–—\u2010-\u2015]\s+/.test(text));
+
+    if (isBullet) {
+      text = text.replace(/^[-*•·▪–—\u2010-\u2015]\s+/, '');
       if (!currentListOpen) {
         html += '<ul class="list-disc pl-5 space-y-2 my-4 text-muted-foreground">';
         currentListOpen = true;

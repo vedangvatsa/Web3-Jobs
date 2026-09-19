@@ -72,13 +72,17 @@ async function main(): Promise<void> {
     );
   }
 
-  const goldenSlugs = ['dev5', 'tr10'];
+  const goldenSlugs = ['dev5', 'tr10', 'manager593', 'compliance154', 'engineer457', 'mkt30'];
   for (const slug of goldenSlugs) {
     const job = jobs.find((j) => j.slug === slug);
     if (!job) continue;
     preloadDescriptionShardForJob(job);
     assert.ok(hasSubstantialJobContent(job), `${slug}: expected indexable cached body`);
-    assertNoLeaks(slug, buildSynthesizedJobContent(job));
+    const html = buildSynthesizedJobContent(job);
+    assertNoLeaks(slug, html);
+    assert.ok(html.length >= 600, `${slug}: expected at least 600 chars of HTML`);
+    assert.doesNotMatch(html, /<p[^>]*>\s*#{2,4}\s+/, `${slug}: raw markdown header in HTML`);
+    assert.doesNotMatch(html, /<p[^>]*>\s*[-*•·▪–—\u2010-\u2015]\s+/, `${slug}: raw bullet paragraph`);
   }
 
   console.log(

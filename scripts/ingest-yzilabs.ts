@@ -63,7 +63,8 @@ function formatDescription(rawText: string): string {
     .replace(/&lt;/g, '<')
     .replace(/&gt;/g, '>')
     .replace(/&quot;/g, '"')
-    .replace(/&#39;/g, "'");
+    .replace(/&#39;/g, "'")
+    .replace(/[\u2010\u2011\u2012]/g, '-');
 
   const lines = unescaped.split('\n').map((l) => l.trim());
   const htmlParts: string[] = [];
@@ -77,12 +78,19 @@ function formatDescription(rawText: string): string {
       }
       continue;
     }
-    if (line.startsWith('- ') || line.startsWith('* ') || line.startsWith('• ')) {
+    if (/^#{2,4}\s+/.test(line)) {
+      if (inList) {
+        htmlParts.push('</ul>');
+        inList = false;
+      }
+      const hText = line.replace(/^#{2,4}\s+/, '').trim();
+      htmlParts.push(`<h3>${hText}</h3>`);
+    } else if (/^[-*•·▪–—\u2010-\u2015]\s+/.test(line)) {
       if (!inList) {
         htmlParts.push('<ul>');
         inList = true;
       }
-      htmlParts.push(`<li>${line.slice(2).trim()}</li>`);
+      htmlParts.push(`<li>${line.replace(/^[-*•·▪–—\u2010-\u2015]\s+/, '').trim()}</li>`);
     } else if (line.endsWith(':') && line.length < 80) {
       if (inList) {
         htmlParts.push('</ul>');
@@ -163,9 +171,10 @@ export async function ingestYZiLabs(
 
         let descHtml = '';
         if (detailHtml) {
-          const pMatch = detailHtml.match(/<p class="whitespace-pre-wrap[^"]*">([\s\S]*?)<\/p>/i);
-          if (pMatch) {
-            descHtml = formatDescription(pMatch[1]);
+          const pMatches = [...detailHtml.matchAll(/<p class="whitespace-pre-wrap[^"]*">([\s\S]*?)<\/p>/gi)];
+          if (pMatches.length > 0) {
+            const combined = pMatches.map((m) => m[1]).join('\n\n');
+            descHtml = formatDescription(combined);
           } else {
             // Fallback: extract between "About the role" and form
             const m = detailHtml.match(/About the role[\s\S]*?(?=Submit application|<form|<footer|$)/i);
