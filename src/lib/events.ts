@@ -653,6 +653,39 @@ export function getEventEditorialGuide(event: Web3Event): EventEditorialArticle 
     };
   }
 
+  // Editorial guide for ETHGlobal Pragma (one-day summit)
+  if (name.includes('pragma') && (name.includes('tokyo') || slug.includes('pragma-tokyo'))) {
+    return {
+      summaryLead: `${event.name} is a one-day Ethereum builders summit on ${formattedDates} at Toranomon Hills Forum in Minato City, Tokyo. ETHGlobal runs the program as dense keynotes, interviews, and panels with founders and protocol leaders — a paid, in-person event with no livestream.`,
+      ticketPricing: 'Paid tickets via ETHGlobal / Luma (discounts for Pack holders and past hackers)',
+      speakers: 'Takashi Tezuka (Startale Japan), Armani Ferrante (Backpack), Mai Fujimoto (zERC20), plus ETHGlobal mentors',
+      expectedAttendance: 'Hundreds of builders and ecosystem leaders',
+      sections: [
+        {
+          heading: 'What the day is for',
+          content: [
+            'Pragma compresses a conference into a single high-signal day: onstage conversations about what teams are shipping, how they make decisions, and where they see Ethereum heading next.',
+            'Expect substantive talks and structured networking blocks rather than a multi-track expo floor. The format rewards arriving with a short list of people and topics you want to follow up on.',
+          ],
+        },
+        {
+          heading: 'Venue and timing',
+          content: [
+            'Toranomon Hills Forum sits in the Mori Tower complex with straightforward subway access across central Tokyo. Plan transit between Pragma, ETHGlobal Tokyo hackathon week, and any satellite meetups you add to your calendar.',
+            'Food and beverages are typically included for ticket holders so attendees can stay in the building between sessions — confirm current perks on the official registration page before you travel.',
+          ],
+        },
+        {
+          heading: 'Registration',
+          content: [
+            'Tickets sell through ETHGlobal and Luma listings linked from the official event page. Past ETHGlobal hackers and Pack holders may qualify for discounts — check eligibility on ethglobal.com before purchasing.',
+            'Because the event is not livestreamed, registration is the only way to access the program. Watch the speaker list on the official site for late additions.',
+          ],
+        },
+      ],
+    };
+  }
+
   // Editorial guide for ETHDenver
   if (name.includes('ethdenver')) {
     return {

@@ -13,6 +13,7 @@ import generatedEventGuidesJson from '../../content/generated-event-guides.json'
 /** Generated guides keyed by a different event id (e.g. premier vs marketacross). */
 const GENERATED_EVENT_GUIDE_ALIASES: Record<string, string> = {
   'premier-blockchain-life-2026': 'ma-blockchain-life',
+  'premier-pragma-tokyo-2026': 'luma-host-evt-HVi8pTdZBEHTVLR',
 };
 
 function loadGenerated(): Record<string, EventEditorialArticle> {

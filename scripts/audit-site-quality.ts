@@ -10,10 +10,16 @@ import { getEvents } from '../src/lib/events-server';
 import { getEventSlug } from '../src/lib/events';
 import { getJobs } from '../src/lib/jobs';
 import { getJobContentKey, getJobIdentity, getJobSlug } from '../src/lib/job-slugs';
-import { buildUniqueJobPageContent } from '../src/lib/job-guides';
+import { buildSynthesizedJobContent, buildUniqueJobPageContent, getCachedRawContent, isGenericJobTemplateHtml } from '../src/lib/job-guides';
 import { getAllResourcePages } from '../src/lib/pseo/resources';
 import type { Job } from '../src/types';
 import { readJobDescriptionStore } from './lib/job-description-store';
+import {
+  JOB_DESCRIPTION_SHARD_COUNT,
+  getJobDescriptionShardFilename,
+  isJobDescriptionShard,
+} from '../src/lib/job-description-shards';
+import { seedDescriptionShardCache } from '../src/lib/job-description-shard-loader';
 
 const ROOT = path.resolve(import.meta.dirname, '..');
 const SITE_URL = 'https://hashtagweb3.com';
@@ -69,6 +75,17 @@ interface RouteOwner {
 }
 
 const findings: Finding[] = [];
+
+function preloadJobDescriptionShards(): void {
+  const shardsDir = path.join(ROOT, 'content', 'job-description-shards');
+  for (let i = 0; i < JOB_DESCRIPTION_SHARD_COUNT; i++) {
+    const filename = getJobDescriptionShardFilename(i);
+    const shardPath = path.join(shardsDir, filename);
+    if (!fs.existsSync(shardPath)) continue;
+    const parsed: unknown = JSON.parse(fs.readFileSync(shardPath, 'utf8'));
+    if (isJobDescriptionShard(parsed)) seedDescriptionShardCache(filename, parsed);
+  }
+}
 
 function addFinding(
   severity: Severity,
@@ -422,9 +439,12 @@ async function main(): Promise<void> {
 
   const rawJobsPath = path.join(ROOT, 'content', 'jobs-cache.json');
   const rawJobs = JSON.parse(fs.readFileSync(rawJobsPath, 'utf8')) as Job[];
+  preloadJobDescriptionShards();
   const descriptionStore = readJobDescriptionStore(ROOT);
   const descriptions = descriptionStore.descriptions;
   const getDescription = (job: Job): string => {
+    const cached = getCachedRawContent(job);
+    if (cached && htmlToPlainText(cached).length > 0) return cached;
     for (const key of [getJobContentKey(job), job.id, job.slug]) {
       if (!key) continue;
       const content = descriptions[descriptionStore.aliases[key] || key];
@@ -433,19 +453,54 @@ async function main(): Promise<void> {
     return '';
   };
 
+  const renderedJobPages = jobs.map((job) => {
+    const raw = getDescription(job);
+    const html = buildSynthesizedJobContent(job, raw || undefined);
+    return {
+      job,
+      html,
+      brief: normalizeText(htmlToPlainText(html)),
+      generic: isGenericJobTemplateHtml(html),
+    };
+  });
+
+  const genericTemplateJobs = renderedJobPages.filter((record) => record.generic);
+  addFinding(
+    'warning',
+    'active jobs rendering synthesized fallback copy (no employer body)',
+    genericTemplateJobs.length,
+    genericTemplateJobs.slice(0, EXAMPLE_LIMIT).map(
+      (record) => `${record.job.company} / ${record.job.title} [${getJobSlug(record.job)}]`,
+    ),
+  );
+
+  const duplicateFallbackJobCopy = duplicateGroups(
+    genericTemplateJobs,
+    (record) => record.brief,
+  );
+  addFinding(
+    'warning',
+    'duplicate normalized fallback copy across job pages',
+    duplicateFallbackJobCopy.length,
+    formatDuplicateExamples(
+      duplicateFallbackJobCopy,
+      (record) => `${record.job.company} / ${record.job.title} [${getJobSlug(record.job)}]`,
+    ),
+  );
+
   const duplicateGeneratedJobBriefs = duplicateGroups(
     jobs.map((job) => ({
       job,
-      brief: normalizeText(buildUniqueJobPageContent(
+      brief: normalizeText(htmlToPlainText(buildUniqueJobPageContent(
         job,
         getDescription(job),
-      )),
+      ))),
     })),
     (record) => record.brief,
   );
   addFinding(
-    'critical',
-    'duplicate normalized copy generated for canonical job pages',
+    'warning',
+    'duplicate normalized legacy job fallback briefs (script compat)',
     duplicateGeneratedJobBriefs.length,
     formatDuplicateExamples(
       duplicateGeneratedJobBriefs,
@@ -634,8 +689,8 @@ async function main(): Promise<void> {
       + `${fabricatedJobs.length.toLocaleString()} fabricated-marker matches`,
   );
   console.log(
-    `  Generated job copy: ${jobs.length.toLocaleString()} briefs; `
-      + `${duplicateGeneratedJobBriefs.length.toLocaleString()} duplicate groups`,
+    `  Rendered job pages: ${genericTemplateJobs.length.toLocaleString()} fallback templates; `
+      + `${duplicateFallbackJobCopy.length.toLocaleString()} duplicate fallback groups`,
   );
   console.log(
     `  Editorial: ${articles.length.toLocaleString()} articles; ${companyProfiles.length.toLocaleString()} company profiles; `

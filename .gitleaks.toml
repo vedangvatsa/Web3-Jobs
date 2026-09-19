@@ -1,0 +1,11 @@
+title = "gitleaks config"
+
+[allowlist]
+description = "Ignore false positive API keys in generated job description shards and slug indices"
+paths = [
+  '''content/job-description-shards/.*''',
+  '''public/job-description-shards/.*''',
+  '''content/slug-types\.json''',
+  '''content/jobs-runtime\.json''',
+  '''public/data/.*'''
+]
