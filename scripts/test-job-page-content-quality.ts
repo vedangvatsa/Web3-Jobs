@@ -72,7 +72,7 @@ async function main(): Promise<void> {
     );
   }
 
-  const goldenSlugs = ['dev5', 'tr10', 'manager593', 'compliance154', 'engineer457', 'mkt30'];
+  const goldenSlugs = ['dev5', 'tr10', 'manager593', 'compliance154', 'eng159', 'mkt30'];
   for (const slug of goldenSlugs) {
     const job = jobs.find((j) => j.slug === slug);
     if (!job) continue;
