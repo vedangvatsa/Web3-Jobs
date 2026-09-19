@@ -533,13 +533,14 @@ export function buildJobContentFallbackHtml(job: Job, employerHtml = ''): string
   const sourceText = plainTextFromHtml(employerHtml || getCachedRawContent(job));
   const family = inferRoleFamily(job);
   const signals = extractRoleSignals(job, sourceText);
-  const title = escapeHtml(job.title);
-  const companyName = escapeHtml(job.company);
-  const companySlug = getCompanySlug(job.company);
-  const companyAbout =
-    COMPANY_RICH_ABOUT[companySlug] ||
-    COMPANY_RICH_ABOUT[companySlug.replace(/-labs$|-foundation$/, '')];
-  const location = escapeHtml(cleanJobLocation(job.location) || 'Remote / Hybrid');
+  const title = escapeHtml(job?.title || 'Role');
+  const companyName = escapeHtml(job?.company || 'Company');
+  const companySlug = getCompanySlug(job?.company || '');
+  const companyAbout = companySlug
+    ? COMPANY_RICH_ABOUT[companySlug] ||
+      COMPANY_RICH_ABOUT[companySlug.replace(/-labs$|-foundation$/, '')]
+    : undefined;
+  const location = escapeHtml(cleanJobLocation(job?.location) || 'Remote / Hybrid');
   const department = escapeHtml(getDepartmentLabel(job) || family);
 
   const focus = signals.length > 1
@@ -1430,8 +1431,9 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'h
   return deduped;
 }
 
-function escapeHtml(value: string): string {
-  return value
+function escapeHtml(value: string | undefined | null): string {
+  if (value == null) return '';
+  return String(value)
     .replace(/&/g, '&amp;')
     .replace(/</g, '&lt;')
     .replace(/>/g, '&gt;')
@@ -1719,6 +1721,9 @@ export async function fetchJobOriginalContent(job: Job): Promise<string> {
             if (data.salaryDescription) html += data.salaryDescription;
             html += formatLeverSalaryRange(data.salaryRange);
             if (data.additional) html += data.additional;
+            if (!html && typeof data.text === 'string' && data.text.trim().length > 40) {
+              html = `<p>${data.text.trim()}</p>`;
+            }
             if (html.length > 50) {
               rawContent = html;
             }
@@ -1793,25 +1798,80 @@ export async function fetchJobOriginalContent(job: Job): Promise<string> {
         }
       }
 
-      // 3c. Workday URL (e.g. circle.wd1.myworkdayjobs.com/Circle/job/...)
+      // 3c. Workday URL (supports locale prefixes, e.g. /en-US/External/job/slug)
       if (!rawContent) {
-        const workdayMatch = url.match(/([a-z0-9-]+)\.(wd\d+)\.myworkdayjobs\.com\/([^\/]+)\/job\/([^?#]+)/i);
-        if (workdayMatch) {
-          const [, tenant, wdShard, boardName, jobPath] = workdayMatch;
+        const workdayHostMatch = url.match(/([a-z0-9-]+)\.(wd\d+)\.myworkdayjobs\.com\/(.+)/i);
+        if (workdayHostMatch) {
+          const [, tenant, wdShard, pathTail] = workdayHostMatch;
+          const pathParts = pathTail.split('?')[0].split('/').filter(Boolean);
+          const jobIndex = pathParts.findIndex((part) => part.toLowerCase() === 'job');
+          if (jobIndex >= 1 && jobIndex + 1 < pathParts.length) {
+            const site = pathParts[jobIndex - 1];
+            const jobPath = pathParts.slice(jobIndex + 1).join('/');
+            try {
+              const endpoint = `https://${tenant}.${wdShard}.myworkdayjobs.com/wday/cxs/${tenant}/${site}/job/${jobPath}`;
+              const res = await fetch(endpoint, {
+                headers: {
+                  Accept: 'application/json',
+                  'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36',
+                },
+                next: { revalidate: 86400 },
+              });
+              if (res.ok) {
+                const data = await res.json();
+                const desc = data?.jobPostingInfo?.jobDescription;
+                if (desc && desc.length > 50) {
+                  rawContent = desc;
+                }
+              }
+            } catch {}
+          }
+        }
+      }
+
+      // 3c2. BambooHR (e.g. mercuryo.bamboohr.com/careers/448)
+      if (!rawContent) {
+        const bambooMatch = url.match(/https?:\/\/([a-z0-9-]+)\.bamboohr\.com\/careers\/(\d+)/i);
+        if (bambooMatch) {
+          const [, board, openingId] = bambooMatch;
           try {
-            const endpoint = `https://${tenant}.${wdShard}.myworkdayjobs.com/wday/cxs/${tenant}/${boardName}/job/${jobPath}`;
-            const res = await fetch(endpoint, {
-              headers: {
-                'Accept': 'application/json',
-                'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36',
-              },
+            const res = await fetch(`https://${board}.bamboohr.com/careers/${openingId}/detail`, {
+              headers: { Accept: 'application/json', 'User-Agent': 'HashtagWeb3/1.0' },
               next: { revalidate: 86400 },
             });
             if (res.ok) {
-              const data = await res.json();
-              const desc = data?.jobPostingInfo?.jobDescription;
+              const data = await res.json() as {
+                result?: { jobOpening?: { description?: string } };
+              };
+              const desc = data?.result?.jobOpening?.description;
               if (desc && desc.length > 50) {
                 rawContent = desc;
+              }
+            }
+          } catch {}
+        }
+      }
+
+      // 3c3. Workable short links (apply.workable.com/j/SHORTCODE) — board from source tag [board]
+      if (!rawContent) {
+        const workableMatch = url.match(/apply\.workable\.com\/j\/([A-Z0-9]+)/i);
+        const boardFromSource = job.source?.match(/\[([^\]]+)\]\s*$/)?.[1]?.toLowerCase();
+        if (workableMatch && boardFromSource) {
+          const shortcode = workableMatch[1];
+          try {
+            const res = await fetch(
+              `https://apply.workable.com/api/v1/accounts/${boardFromSource}/jobs/${shortcode}`,
+              { headers: { Accept: 'application/json', 'User-Agent': 'HashtagWeb3/1.0' }, next: { revalidate: 86400 } },
+            );
+            if (res.ok) {
+              const data = await res.json() as {
+                description?: string;
+                requirements?: string;
+                benefits?: string;
+              };
+              const html = [data.description, data.requirements, data.benefits].filter(Boolean).join('\n');
+              if (html.length > 50) {
+                rawContent = html;
               }
             }
           } catch {}
