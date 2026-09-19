@@ -10,10 +10,13 @@ import { getJobPublicPath } from '@/lib/job-slugs';
  * handler always answers with the exact status. Cheaper on Workers too —
  * no RSC tree is rendered for a pure redirect.
  */
-export const dynamicParams = false;
+export const dynamicParams = true;
 export const revalidate = 3600;
 
 export async function generateStaticParams() {
+  if (process.env.IS_DOCKER_BUILD === '1') {
+    return [];
+  }
   const [jobsWithSlugs, allJobs] = await Promise.all([getAllJobsWithSlugs(), getJobs()]);
   const slugs = new Set<string>();
   for (const { slug } of jobsWithSlugs) {
