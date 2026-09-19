@@ -25,12 +25,6 @@ function main() {
       eventSlugs.add(id);
       eventSlugs.add(id.replace(/^(premier|side)-/, ''));
     }
-    if (e.name) {
-      const legacy = e.name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '').slice(0, 80);
-      eventSlugs.add(legacy);
-      const readable = e.name.replace(/\s+\[\d+\]$/g, '').trim().toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '').slice(0, 80);
-      eventSlugs.add(readable);
-    }
   });
   Object.keys(LEGACY_SLUG_ALIASES).forEach((k) => eventSlugs.add(k));
 
