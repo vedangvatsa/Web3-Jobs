@@ -566,10 +566,11 @@
   "8112938": {
     "slugs": [
       "operations12938",
-      "operations100"
+      "operations100",
+      "ops22"
     ],
-    "lastSlug": "operations100",
-    "lastUrl": "https://hashtagweb3.com/operations100",
+    "lastSlug": "ops22",
+    "lastUrl": "https://hashtagweb3.com/ops22",
     "updatedAt": "2026-09-15T19:45:18.639Z"
   },
   "8112966": {
@@ -1654,19 +1655,21 @@
   "ashby-wynd-labs-8aa370f3-8e80-44d4-aa9f-c28296d43efd": {
     "slugs": [
       "engineer43efd",
-      "job43efd"
+      "job43efd",
+      "eng148"
     ],
-    "lastSlug": "job43efd",
-    "lastUrl": "https://hashtagweb3.com/job43efd",
+    "lastSlug": "eng148",
+    "lastUrl": "https://hashtagweb3.com/eng148",
     "updatedAt": "2026-09-15T19:45:19.361Z"
   },
   "ashby-render-8815f772-6895-4383-a9e5-6c7bdc2bf141": {
     "slugs": [
       "engineerbf141",
-      "jobbf141"
+      "jobbf141",
+      "eng140"
     ],
-    "lastSlug": "jobbf141",
-    "lastUrl": "https://hashtagweb3.com/jobbf141",
+    "lastSlug": "eng140",
+    "lastUrl": "https://hashtagweb3.com/eng140",
     "updatedAt": "2026-09-15T19:45:19.365Z"
   },
   "ashby-turnkey-e25672d6-ab3e-437f-ba4d-8fe8931a8789": {
@@ -2147,10 +2150,11 @@
       "security146",
       "security-16qjio8",
       "security10002-0h3h",
-      "sec4"
+      "sec4",
+      "sec37"
     ],
-    "lastSlug": "sec4",
-    "lastUrl": "https://hashtagweb3.com/sec4",
+    "lastSlug": "sec37",
+    "lastUrl": "https://hashtagweb3.com/sec37",
     "updatedAt": "2026-09-15T19:45:20.071Z"
   },
   "7789846003": {
@@ -2338,10 +2342,11 @@
       "compliance78101",
       "compliance54",
       "compliance-11q015t",
-      "cmp"
+      "cmp",
+      "cmp25"
     ],
-    "lastSlug": "cmp",
-    "lastUrl": "https://hashtagweb3.com/cmp",
+    "lastSlug": "cmp25",
+    "lastUrl": "https://hashtagweb3.com/cmp25",
     "updatedAt": "2026-09-15T19:45:20.293Z"
   },
   "4706203006": {
@@ -2522,18 +2527,67 @@
   },
   "8531243002": {
     "slugs": [
-      "engineer329"
+      "engineer329",
+      "engineer43002",
+      "engineer-148wmvk"
     ],
-    "lastSlug": "engineer329",
-    "lastUrl": "https://hashtagweb3.com/engineer329",
+    "lastSlug": "engineer-148wmvk",
+    "lastUrl": "https://hashtagweb3.com/engineer-148wmvk",
     "updatedAt": "2026-09-18T15:11:39.407Z"
   },
   "4303293009": {
     "slugs": [
-      "engineer491"
+      "engineer491",
+      "engineer93009",
+      "role93009",
+      "engineer485",
+      "engineer194",
+      "engineer-02ic60s"
     ],
-    "lastSlug": "engineer491",
-    "lastUrl": "https://hashtagweb3.com/engineer491",
+    "lastSlug": "engineer-02ic60s",
+    "lastUrl": "https://hashtagweb3.com/engineer-02ic60s",
     "updatedAt": "2026-09-18T15:11:46.123Z"
+  },
+  "127cf582-aabd-4ee7-9352-4a8280635632": {
+    "slugs": [
+      "bc"
+    ],
+    "lastSlug": "bc",
+    "lastUrl": "https://hashtagweb3.com/bc",
+    "updatedAt": "2026-09-19T14:41:47.390Z"
+  },
+  "044457c2-be99-4101-ae60-6e61ce2d5d2f": {
+    "slugs": [
+      "manager236",
+      "manager98709",
+      "manager-1ge9gz4",
+      "managerd5d2f"
+    ],
+    "lastSlug": "managerd5d2f",
+    "lastUrl": "https://hashtagweb3.com/managerd5d2f",
+    "updatedAt": "2026-09-19T14:41:49.913Z"
+  },
+  "4905676101": {
+    "slugs": [
+      "devops69",
+      "devops76101",
+      "job76101",
+      "devops57",
+      "devops22",
+      "devops-0rjy2e0"
+    ],
+    "lastSlug": "devops-0rjy2e0",
+    "lastUrl": "https://hashtagweb3.com/devops-0rjy2e0",
+    "updatedAt": "2026-09-19T14:41:49.928Z"
+  },
+  "db41b8575133": {
+    "slugs": [
+      "engineer572",
+      "engineer75133",
+      "engineer-0jspu6n"
+    ],
+    "lastSlug": "engineer-0jspu6n",
+    "lastUrl": "https://hashtagweb3.com/engineer-0jspu6n",
+    "updatedAt": "2026-09-19T14:41:49.944Z"
   }
 }

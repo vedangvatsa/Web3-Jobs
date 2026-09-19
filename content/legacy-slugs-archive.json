@@ -122894,5 +122894,839 @@
     "title": "Web3 Opportunity",
     "company": "Web3 Company",
     "link": "https://hashtagweb3.com/jobs"
+  },
+  "fe5": {
+    "id": "ashby-biti-f88a45f4-c6cc-4d7f-a117-4b04fef6f4dc",
+    "link": "https://jobs.ashbyhq.com/biti/f88a45f4-c6cc-4d7f-a117-4b04fef6f4dc",
+    "company": "Biti",
+    "title": "UI/UX Designer"
+  },
+  "mgr43": {
+    "id": "ashby-biti-f0f83396-ff2e-472a-b267-0a8bd430dd1f",
+    "link": "https://jobs.ashbyhq.com/biti/f0f83396-ff2e-472a-b267-0a8bd430dd1f",
+    "company": "Biti",
+    "title": "Social Media Manager"
+  },
+  "rec6": {
+    "id": "ashby-biti-cdc98d2d-6a3f-42e7-abfc-875ce6ac4269",
+    "link": "https://jobs.ashbyhq.com/biti/cdc98d2d-6a3f-42e7-abfc-875ce6ac4269",
+    "company": "Biti",
+    "title": "HR"
+  },
+  "qa68": {
+    "id": "ashby-biti-6f8cc05f-c795-4667-906c-9e6ae6ae685f",
+    "link": "https://jobs.ashbyhq.com/biti/6f8cc05f-c795-4667-906c-9e6ae6ae685f",
+    "company": "Biti",
+    "title": "QA Engineer"
+  },
+  "be19": {
+    "id": "ashby-biti-3b42b9ac-57d4-4701-bb92-92a08c28e8ef",
+    "link": "https://jobs.ashbyhq.com/biti/3b42b9ac-57d4-4701-bb92-92a08c28e8ef",
+    "company": "Biti",
+    "title": "Backend Engineer"
+  },
+  "fe4": {
+    "id": "ashby-biti-e3ee7e6e-300d-469c-887e-bbf66c77e0ef",
+    "link": "https://jobs.ashbyhq.com/biti/e3ee7e6e-300d-469c-887e-bbf66c77e0ef",
+    "company": "Biti",
+    "title": "Frontend Engineer"
+  },
+  "eng131": {
+    "id": "ashby-biti-067c14e2-a137-4d16-a98d-c2bdb7df2c4a",
+    "link": "https://jobs.ashbyhq.com/biti/067c14e2-a137-4d16-a98d-c2bdb7df2c4a",
+    "company": "Biti",
+    "title": "Wallet Engineer"
+  },
+  "do5": {
+    "id": "ashby-biti-9c6f0046-27a8-4d51-935b-fbfa4fa319ec",
+    "link": "https://jobs.ashbyhq.com/biti/9c6f0046-27a8-4d51-935b-fbfa4fa319ec",
+    "company": "Biti",
+    "title": "DevOps Engineer"
+  },
+  "eng135": {
+    "id": "ashby-meow-56e3b840-11a0-4e98-baca-44e8e26b5218",
+    "link": "https://jobs.ashbyhq.com/meow/56e3b840-11a0-4e98-baca-44e8e26b5218",
+    "company": "Meow",
+    "title": "Software Engineer - New graduate"
+  },
+  "aso15": {
+    "id": "ashby-meow-a34ce20f-809a-4c58-bb20-d938d43777a5",
+    "link": "https://jobs.ashbyhq.com/meow/a34ce20f-809a-4c58-bb20-d938d43777a5",
+    "company": "Meow",
+    "title": "Incoming GTM Associate - December 2026 Graduates"
+  },
+  "cmp29": {
+    "id": "ashby-meow-5bfc8626-5533-4911-8202-4a8e10ab019c",
+    "link": "https://jobs.ashbyhq.com/meow/5bfc8626-5533-4911-8202-4a8e10ab019c",
+    "company": "Meow",
+    "title": "Compliance Operations Analyst"
+  },
+  "aso16": {
+    "id": "ashby-meow-d6a23f3e-d568-4d6d-9eb6-1773b288e1aa",
+    "link": "https://jobs.ashbyhq.com/meow/d6a23f3e-d568-4d6d-9eb6-1773b288e1aa",
+    "company": "Meow",
+    "title": "GTM Associate"
+  },
+  "eng134": {
+    "id": "ashby-meow-0db09b6a-9ee7-4787-997c-5aace86322d1",
+    "link": "https://jobs.ashbyhq.com/meow/0db09b6a-9ee7-4787-997c-5aace86322d1",
+    "company": "Meow",
+    "title": "Software Engineer"
+  },
+  "sls81": {
+    "id": "ashby-meow-0921a96a-5167-44a9-8ae5-ff4020a6975e",
+    "link": "https://jobs.ashbyhq.com/meow/0921a96a-5167-44a9-8ae5-ff4020a6975e",
+    "company": "Meow",
+    "title": "Account Executive"
+  },
+  "eng147": {
+    "id": "ashby-wynd-labs-216d74ef-d925-4bf1-ae4f-9eedc3e145f8",
+    "link": "https://jobs.ashbyhq.com/wynd-labs/216d74ef-d925-4bf1-ae4f-9eedc3e145f8",
+    "company": "Grass",
+    "title": "Data Engineer"
+  },
+  "be21": {
+    "id": "ashby-wynd-labs-900e79ba-5668-4a43-9065-3f4bf7db6aa4",
+    "link": "https://jobs.ashbyhq.com/wynd-labs/900e79ba-5668-4a43-9065-3f4bf7db6aa4",
+    "company": "Grass",
+    "title": "Backend Engineer (TypeScript)"
+  },
+  "eng150": {
+    "id": "ashby-wynd-labs-e7ffd2fb-23cb-4d21-ac89-06b846a2f728",
+    "link": "https://jobs.ashbyhq.com/wynd-labs/e7ffd2fb-23cb-4d21-ac89-06b846a2f728",
+    "company": "Grass",
+    "title": "Junior Software Engineer"
+  },
+  "be20": {
+    "id": "ashby-wynd-labs-1e0ceb41-435e-48f7-b70d-4e6b8ed2df0a",
+    "link": "https://jobs.ashbyhq.com/wynd-labs/1e0ceb41-435e-48f7-b70d-4e6b8ed2df0a",
+    "company": "Grass",
+    "title": "Senior Software Engineer (Backend)"
+  },
+  "eng148": {
+    "id": "ashby-wynd-labs-8aa370f3-8e80-44d4-aa9f-c28296d43efd",
+    "link": "https://jobs.ashbyhq.com/wynd-labs/8aa370f3-8e80-44d4-aa9f-c28296d43efd",
+    "company": "Grass",
+    "title": "Research Crawling Engineer"
+  },
+  "mkt34": {
+    "id": "ashby-wynd-labs-dad06add-f092-4204-8eca-453097b59118",
+    "link": "https://jobs.ashbyhq.com/wynd-labs/dad06add-f092-4204-8eca-453097b59118",
+    "company": "Grass",
+    "title": "Growth & Communications Lead"
+  },
+  "eng149": {
+    "id": "ashby-wynd-labs-a148c710-7685-4184-9be8-c4d46a0a8f04",
+    "link": "https://jobs.ashbyhq.com/wynd-labs/a148c710-7685-4184-9be8-c4d46a0a8f04",
+    "company": "Grass",
+    "title": "Machine Learning Engineer"
+  },
+  "do6": {
+    "id": "ashby-wynd-labs-6a11b221-5dc2-4bd7-9ec5-70e5c11c1e33",
+    "link": "https://jobs.ashbyhq.com/wynd-labs/6a11b221-5dc2-4bd7-9ec5-70e5c11c1e33",
+    "company": "Grass",
+    "title": "Network Infrastructure Engineer (DevOps)"
+  },
+  "wss": {
+    "id": "ashby-wynd-labs-e1415ae0-801b-45ec-bab6-624d71f07b44",
+    "link": "https://jobs.ashbyhq.com/wynd-labs/e1415ae0-801b-45ec-bab6-624d71f07b44",
+    "company": "Grass",
+    "title": "Web Scraping Specialist"
+  },
+  "tr23": {
+    "id": "ashby-hyperbolic-fd861fe3-88a2-436d-8391-c5c8f35e5793",
+    "link": "https://jobs.ashbyhq.com/hyperbolic/fd861fe3-88a2-436d-8391-c5c8f35e5793",
+    "company": "Hyperbolic",
+    "title": "Quantitative Researcher"
+  },
+  "eng132": {
+    "id": "ashby-hyperbolic-38121cf9-aa24-44f6-a500-ebcd2d3ca3ef",
+    "link": "https://jobs.ashbyhq.com/hyperbolic/38121cf9-aa24-44f6-a500-ebcd2d3ca3ef",
+    "company": "Hyperbolic",
+    "title": "Inference Engineer"
+  },
+  "ops23": {
+    "id": "ashby-hyperbolic-51206c65-0350-4b22-8340-e86f70debb70",
+    "link": "https://jobs.ashbyhq.com/hyperbolic/51206c65-0350-4b22-8340-e86f70debb70",
+    "company": "Hyperbolic",
+    "title": "GTM (Operations)"
+  },
+  "ss": {
+    "id": "ashby-hyperbolic-5cb67735-7b31-407f-b136-77b8b7854a16",
+    "link": "https://jobs.ashbyhq.com/hyperbolic/5cb67735-7b31-407f-b136-77b8b7854a16",
+    "company": "Hyperbolic",
+    "title": "Supply Specialist"
+  },
+  "wr": {
+    "id": "ashby-hyperbolic-388e76f5-1eeb-40df-9b0a-c381715c0f57",
+    "link": "https://jobs.ashbyhq.com/hyperbolic/388e76f5-1eeb-40df-9b0a-c381715c0f57",
+    "company": "Hyperbolic",
+    "title": "Technical Writer"
+  },
+  "sup3": {
+    "id": "ashby-hyperbolic-9d1d8e21-a7eb-46a3-bc70-d01536ff79e9",
+    "link": "https://jobs.ashbyhq.com/hyperbolic/9d1d8e21-a7eb-46a3-bc70-d01536ff79e9",
+    "company": "Hyperbolic",
+    "title": "Head of Supply"
+  },
+  "infra14": {
+    "id": "ashby-hyperbolic-7032b5b6-3ecf-447f-a40c-e522807d807b",
+    "link": "https://jobs.ashbyhq.com/hyperbolic/7032b5b6-3ecf-447f-a40c-e522807d807b",
+    "company": "Hyperbolic",
+    "title": "Forward Deployed Infrastructure Engineer - Eastern US"
+  },
+  "mtp": {
+    "id": "ashby-hyperbolic-78ff7797-58d4-435a-a229-58425036d716",
+    "link": "https://jobs.ashbyhq.com/hyperbolic/78ff7797-58d4-435a-a229-58425036d716",
+    "company": "Hyperbolic",
+    "title": "Member of Technical Staff - Platform"
+  },
+  "infra13": {
+    "id": "ashby-hyperbolic-0cd2cbf3-bc38-4e02-84c1-ac7a7c285105",
+    "link": "https://jobs.ashbyhq.com/hyperbolic/0cd2cbf3-bc38-4e02-84c1-ac7a7c285105",
+    "company": "Hyperbolic",
+    "title": "Member of Technical Staff - GPU Infrastructure"
+  },
+  "mkt31": {
+    "id": "ashby-hyperbolic-d502a262-5764-4505-a00c-67a0b403664a",
+    "link": "https://jobs.ashbyhq.com/hyperbolic/d502a262-5764-4505-a00c-67a0b403664a",
+    "company": "Hyperbolic",
+    "title": "Head of Marketing"
+  },
+  "dat": {
+    "id": "ashby-hyperbolic-87282817-fd20-415c-bd9f-7e06d1f9f114",
+    "link": "https://jobs.ashbyhq.com/hyperbolic/87282817-fd20-415c-bd9f-7e06d1f9f114",
+    "company": "Hyperbolic",
+    "title": "Senior Data Lead"
+  },
+  "eng133": {
+    "id": "ashby-hyperbolic-c6039f86-4915-4d1d-9e10-ac7c2a484d5c",
+    "link": "https://jobs.ashbyhq.com/hyperbolic/c6039f86-4915-4d1d-9e10-ac7c2a484d5c",
+    "company": "Hyperbolic",
+    "title": "VP of Engineering"
+  },
+  "fs6": {
+    "id": "ashby-hyperbolic-668d9b32-b1f5-41a6-9e8e-5e3978ec555c",
+    "link": "https://jobs.ashbyhq.com/hyperbolic/668d9b32-b1f5-41a6-9e8e-5e3978ec555c",
+    "company": "Hyperbolic",
+    "title": "Member of Technical Staff - Full Stack"
+  },
+  "be23": {
+    "id": "greenhouse-bybit-4973946101",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4973946101",
+    "company": "Bybit",
+    "title": "Lead Backend Development Engineer"
+  },
+  "eng154": {
+    "id": "greenhouse-bybit-4971554101",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4971554101",
+    "company": "Bybit",
+    "title": "[Intern] Test Development Engineer Intern"
+  },
+  "eng139": {
+    "id": "ashby-render-68a1d88b-6cc4-4303-b2c6-5405a22bb48b",
+    "link": "https://jobs.ashbyhq.com/render/68a1d88b-6cc4-4303-b2c6-5405a22bb48b",
+    "company": "Render Network",
+    "title": "Senior/Staff Analytics Engineer"
+  },
+  "ds3": {
+    "id": "ashby-render-8685ba32-883a-42e5-b98b-f3c51a77bceb",
+    "link": "https://jobs.ashbyhq.com/render/8685ba32-883a-42e5-b98b-f3c51a77bceb",
+    "company": "Render Network",
+    "title": "Senior/Staff Data Scientist"
+  },
+  "rec8": {
+    "id": "ashby-render-9d06aad8-dc0b-41a1-a4fa-7952430c0d88",
+    "link": "https://jobs.ashbyhq.com/render/9d06aad8-dc0b-41a1-a4fa-7952430c0d88",
+    "company": "Render Network",
+    "title": "Talent Operations Manager"
+  },
+  "eng146": {
+    "id": "ashby-render-f846e1fc-0099-4456-9232-9abe83dff272",
+    "link": "https://jobs.ashbyhq.com/render/f846e1fc-0099-4456-9232-9abe83dff272",
+    "company": "Render Network",
+    "title": "Senior/Staff Data Engineer"
+  },
+  "spe": {
+    "id": "ashby-render-a08513c2-b39d-45d6-9194-348d38035f55",
+    "link": "https://jobs.ashbyhq.com/render/a08513c2-b39d-45d6-9194-348d38035f55",
+    "company": "Render Network",
+    "title": "Head of Strategic Partnerships & Ecosystem"
+  },
+  "eng137": {
+    "id": "ashby-render-324ad170-5bdd-44c7-becf-9c30a696178e",
+    "link": "https://jobs.ashbyhq.com/render/324ad170-5bdd-44c7-becf-9c30a696178e",
+    "company": "Render Network",
+    "title": "Customer Engineer"
+  },
+  "eng142": {
+    "id": "ashby-render-b29de212-fcca-4b5d-8640-a165b23d5d6c",
+    "link": "https://jobs.ashbyhq.com/render/b29de212-fcca-4b5d-8640-a165b23d5d6c",
+    "company": "Render Network",
+    "title": "Forward Deployed Engineer"
+  },
+  "sls82": {
+    "id": "ashby-render-54aaceee-1aa8-4f47-a77c-9f9597a99903",
+    "link": "https://jobs.ashbyhq.com/render/54aaceee-1aa8-4f47-a77c-9f9597a99903",
+    "company": "Render Network",
+    "title": "Account Manager"
+  },
+  "eng144": {
+    "id": "ashby-render-e1f2d6a2-b9e2-4f16-b863-3ca228c83e75",
+    "link": "https://jobs.ashbyhq.com/render/e1f2d6a2-b9e2-4f16-b863-3ca228c83e75",
+    "company": "Render Network",
+    "title": "Engineering Manager, Postgres"
+  },
+  "eng143": {
+    "id": "ashby-render-d326d138-568f-49b7-a560-da42a0742886",
+    "link": "https://jobs.ashbyhq.com/render/d326d138-568f-49b7-a560-da42a0742886",
+    "company": "Render Network",
+    "title": "Engineering Manager, Object Storage"
+  },
+  "rp": {
+    "id": "ashby-render-0f8243b0-2610-4e7d-935b-0abed0bde208",
+    "link": "https://jobs.ashbyhq.com/render/0f8243b0-2610-4e7d-935b-0abed0bde208",
+    "company": "Render Network",
+    "title": "Head of Revenue Partnerships"
+  },
+  "pm68": {
+    "id": "ashby-render-b4a86799-59d4-4bf3-9681-23264550f1ea",
+    "link": "https://jobs.ashbyhq.com/render/b4a86799-59d4-4bf3-9681-23264550f1ea",
+    "company": "Render Network",
+    "title": "Staff Product Designer - Agent Experience"
+  },
+  "eng140": {
+    "id": "ashby-render-8815f772-6895-4383-a9e5-6c7bdc2bf141",
+    "link": "https://jobs.ashbyhq.com/render/8815f772-6895-4383-a9e5-6c7bdc2bf141",
+    "company": "Render Network",
+    "title": "Software Engineer, Agent Auth Experience"
+  },
+  "ebpc": {
+    "id": "ashby-render-1fffd796-b589-4cc1-9664-ed1d2c3d9938",
+    "link": "https://jobs.ashbyhq.com/render/1fffd796-b589-4cc1-9664-ed1d2c3d9938",
+    "company": "Render Network",
+    "title": "Executive Business Partner (CEO, VP of Finance, VP of People)"
+  },
+  "mkt32": {
+    "id": "ashby-render-503569c8-f629-44fa-9d69-72e2c6c532f1",
+    "link": "https://jobs.ashbyhq.com/render/503569c8-f629-44fa-9d69-72e2c6c532f1",
+    "company": "Render Network",
+    "title": "Startup Marketing"
+  },
+  "pm65": {
+    "id": "ashby-render-3ec7433c-efbc-42f2-8f28-b8eca42f384c",
+    "link": "https://jobs.ashbyhq.com/render/3ec7433c-efbc-42f2-8f28-b8eca42f384c",
+    "company": "Render Network",
+    "title": "Staff Product Manager - Agent & Systems Observability"
+  },
+  "pm66": {
+    "id": "ashby-render-40378b18-ad46-4040-9514-121ec5eb047f",
+    "link": "https://jobs.ashbyhq.com/render/40378b18-ad46-4040-9514-121ec5eb047f",
+    "company": "Render Network",
+    "title": "Object Storage Product Engineer"
+  },
+  "pm67": {
+    "id": "ashby-render-b011a0c1-eed8-4afd-ab8b-3b4f974df199",
+    "link": "https://jobs.ashbyhq.com/render/b011a0c1-eed8-4afd-ab8b-3b4f974df199",
+    "company": "Render Network",
+    "title": "Valkey Product Engineer"
+  },
+  "pm75": {
+    "id": "ashby-render-f4883b3d-ada1-4859-931b-61881f7f9c00",
+    "link": "https://jobs.ashbyhq.com/render/f4883b3d-ada1-4859-931b-61881f7f9c00",
+    "company": "Render Network",
+    "title": "Postgres Product Engineer"
+  },
+  "pm73": {
+    "id": "ashby-render-eec2ab67-ea1c-4f1c-9119-51e1235f2593",
+    "link": "https://jobs.ashbyhq.com/render/eec2ab67-ea1c-4f1c-9119-51e1235f2593",
+    "company": "Render Network",
+    "title": "Senior Engineering Manager, Product"
+  },
+  "pm70": {
+    "id": "ashby-render-b847e042-6be5-4f8b-b36e-fe6a462cbb63",
+    "link": "https://jobs.ashbyhq.com/render/b847e042-6be5-4f8b-b36e-fe6a462cbb63",
+    "company": "Render Network",
+    "title": "Staff Product Designer"
+  },
+  "pm64": {
+    "id": "ashby-render-0f0ccf3e-4caf-4586-9a66-411dbf49fcc5",
+    "link": "https://jobs.ashbyhq.com/render/0f0ccf3e-4caf-4586-9a66-411dbf49fcc5",
+    "company": "Render Network",
+    "title": "Senior Product Designer"
+  },
+  "infra16": {
+    "id": "ashby-render-af5b6699-2e4a-47de-99f7-664baa738190",
+    "link": "https://jobs.ashbyhq.com/render/af5b6699-2e4a-47de-99f7-664baa738190",
+    "company": "Render Network",
+    "title": "Software Engineer, Compute Infrastructure"
+  },
+  "eng141": {
+    "id": "ashby-render-a3f88090-5e37-43a7-b392-04b02056db6d",
+    "link": "https://jobs.ashbyhq.com/render/a3f88090-5e37-43a7-b392-04b02056db6d",
+    "company": "Render Network",
+    "title": "Software Engineer, Dev Velocity (all levels)"
+  },
+  "pm72": {
+    "id": "ashby-render-d0860ea9-fdbd-4a66-82bc-1d75228cf594",
+    "link": "https://jobs.ashbyhq.com/render/d0860ea9-fdbd-4a66-82bc-1d75228cf594",
+    "company": "Render Network",
+    "title": "Staff /Principal Product Manager - Data and Storage"
+  },
+  "pm74": {
+    "id": "ashby-render-f1ed029b-9119-4c3d-bd3c-2ce0b9717ee8",
+    "link": "https://jobs.ashbyhq.com/render/f1ed029b-9119-4c3d-bd3c-2ce0b9717ee8",
+    "company": "Render Network",
+    "title": "Engineering Manager, Product"
+  },
+  "pm69": {
+    "id": "ashby-render-b7508c39-c91f-405a-bdef-9c6b6eca1fee",
+    "link": "https://jobs.ashbyhq.com/render/b7508c39-c91f-405a-bdef-9c6b6eca1fee",
+    "company": "Render Network",
+    "title": "Staff Product Manager, CI/CD & Developer Productivity"
+  },
+  "sm": {
+    "id": "ashby-render-4611bde4-47ac-45fc-ab56-235489e52682",
+    "link": "https://jobs.ashbyhq.com/render/4611bde4-47ac-45fc-ab56-235489e52682",
+    "company": "Render Network",
+    "title": "Social Media Lead"
+  },
+  "rec7": {
+    "id": "ashby-render-59234af4-4139-443d-9924-f39a7e39210d",
+    "link": "https://jobs.ashbyhq.com/render/59234af4-4139-443d-9924-f39a7e39210d",
+    "company": "Render Network",
+    "title": "Senior Technical Recruiter, Engineering"
+  },
+  "infra15": {
+    "id": "ashby-render-88cb74a4-bc28-40b1-b792-d3041e3e17d3",
+    "link": "https://jobs.ashbyhq.com/render/88cb74a4-bc28-40b1-b792-d3041e3e17d3",
+    "company": "Render Network",
+    "title": "Software Engineer, Network Infrastructure"
+  },
+  "eng145": {
+    "id": "ashby-render-f26084f3-992a-4fd3-8065-40cd51a8688f",
+    "link": "https://jobs.ashbyhq.com/render/f26084f3-992a-4fd3-8065-40cd51a8688f",
+    "company": "Render Network",
+    "title": "Engineering Manager, Platform"
+  },
+  "infra18": {
+    "id": "ashby-render-d5f62097-29f5-4078-ad24-3b604380c1c0",
+    "link": "https://jobs.ashbyhq.com/render/d5f62097-29f5-4078-ad24-3b604380c1c0",
+    "company": "Render Network",
+    "title": "Staff / Principal Product Manager, Platform & Infrastructure"
+  },
+  "eng136": {
+    "id": "ashby-render-06377f8a-a255-412a-8032-18ace1d005a5",
+    "link": "https://jobs.ashbyhq.com/render/06377f8a-a255-412a-8032-18ace1d005a5",
+    "company": "Render Network",
+    "title": "Software Engineer, Expansion (all levels)"
+  },
+  "mkt33": {
+    "id": "ashby-render-62ea10c7-ad69-444f-9632-dd4b50b8c805",
+    "link": "https://jobs.ashbyhq.com/render/62ea10c7-ad69-444f-9632-dd4b50b8c805",
+    "company": "Render Network",
+    "title": "Software Engineer, Growth (all levels)"
+  },
+  "eng138": {
+    "id": "ashby-render-57a61c00-fa74-402d-89cd-1a1b936e14d5",
+    "link": "https://jobs.ashbyhq.com/render/57a61c00-fa74-402d-89cd-1a1b936e14d5",
+    "company": "Render Network",
+    "title": "Software Engineer, Billing (all levels)"
+  },
+  "infra17": {
+    "id": "ashby-render-d52dc923-1641-4386-b8ba-5c15e1d7028d",
+    "link": "https://jobs.ashbyhq.com/render/d52dc923-1641-4386-b8ba-5c15e1d7028d",
+    "company": "Render Network",
+    "title": "Software Engineer, Infrastructure (all levels)"
+  },
+  "sec34": {
+    "id": "ashby-render-226a1b3b-5937-4880-817b-4beb1f72ecc6",
+    "link": "https://jobs.ashbyhq.com/render/226a1b3b-5937-4880-817b-4beb1f72ecc6",
+    "company": "Render Network",
+    "title": "Software Engineer, Security (all levels)"
+  },
+  "pm71": {
+    "id": "ashby-render-c7d896f2-20a9-4b44-9f7d-13929a0fe453",
+    "link": "https://jobs.ashbyhq.com/render/c7d896f2-20a9-4b44-9f7d-13929a0fe453",
+    "company": "Render Network",
+    "title": "Software Engineer, Product (all levels)"
+  },
+  "pm63": {
+    "id": "8190416",
+    "link": "https://stripe.com/jobs/search?gh_jid=8190416",
+    "company": "Stripe",
+    "title": "Account Executive, Product Sales - Currency Management"
+  },
+  "tr22": {
+    "id": "61f162a0-b51b-44ed-b2b9-9d7260eee6f2",
+    "link": "https://jobs.lever.co/wintermute-trading/61f162a0-b51b-44ed-b2b9-9d7260eee6f2",
+    "company": "Wintermute",
+    "title": "Wintermute Trader Assessment Day | October 2026"
+  },
+  "an14": {
+    "id": "7724777",
+    "link": "https://www.coinbase.com/careers/positions/7724777?gh_jid=7724777",
+    "company": "Coinbase",
+    "title": "Complaints Analyst II"
+  },
+  "eng77": {
+    "id": "4971608101",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4971608101",
+    "company": "Bybit",
+    "title": "[Intern] Test Development Engineer Intern"
+  },
+  "eng129": {
+    "id": "4971542101",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4971542101",
+    "company": "Bybit",
+    "title": "[Intern] Test Development Engineer Intern"
+  },
+  "bc": {
+    "id": "127cf582-aabd-4ee7-9352-4a8280635632",
+    "link": "https://jobs.ashbyhq.com/Bastion/127cf582-aabd-4ee7-9352-4a8280635632",
+    "company": "Bastion",
+    "title": "Brand and Communications Lead"
+  },
+  "eng128": {
+    "id": "8646746002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8646746002?gh_jid=8646746002",
+    "company": "Jane Street",
+    "title": "Software Engineer"
+  },
+  "mgr41": {
+    "id": "franklin-defi-portfolio-manager",
+    "link": "https://franklintempleton.wd5.myworkdayjobs.com/en-US/External/job/DeFi-Portfolio-Manager",
+    "company": "Franklin Templeton",
+    "title": "DeFi Portfolio Manager"
+  },
+  "an17": {
+    "id": "franklin-blockchain-analyst",
+    "link": "https://franklintempleton.wd5.myworkdayjobs.com/en-US/External/job/Blockchain-Analyst",
+    "company": "Franklin Templeton",
+    "title": "Blockchain Analyst"
+  },
+  "cda2": {
+    "id": "franklin-digital-assets-counsel",
+    "link": "https://franklintempleton.wd5.myworkdayjobs.com/en-US/External/job/Counsel-Digital-Assets",
+    "company": "Franklin Templeton",
+    "title": "Counsel, Digital Assets"
+  },
+  "pm62": {
+    "id": "franklin-digital-assets-product-manager",
+    "link": "https://franklintempleton.wd5.myworkdayjobs.com/en-US/External/job/Product-Manager-Digital-Assets",
+    "company": "Franklin Templeton",
+    "title": "Product Manager, Digital Assets"
+  },
+  "eng127": {
+    "id": "franklin-blockchain-engineer",
+    "link": "https://franklintempleton.wd5.myworkdayjobs.com/en-US/External/job/Blockchain-Engineer",
+    "company": "Franklin Templeton",
+    "title": "Blockchain Engineer"
+  },
+  "sec33": {
+    "id": "c3c57c4d-033e-4c3c-812f-2713baa5bce6",
+    "link": "https://jobs.ashbyhq.com/jito-labs/c3c57c4d-033e-4c3c-812f-2713baa5bce6",
+    "company": "Jito Labs",
+    "title": "Senior Security Engineer"
+  },
+  "cmp28": {
+    "id": "mudrex-compliance-officer",
+    "link": "https://mudrex.com/careers/compliance-officer",
+    "company": "Mudrex",
+    "title": "Compliance & AML Officer"
+  },
+  "mkt29": {
+    "id": "mudrex-growth-marketing-lead",
+    "link": "https://mudrex.com/careers/growth-marketing-lead",
+    "company": "Mudrex",
+    "title": "Growth Marketing Lead"
+  },
+  "sls60": {
+    "id": "5406427008",
+    "link": "http://block.xyz/careers/jobs/5406427008?gh_jid=5406427008",
+    "company": "Block",
+    "title": "Mid-Market Account Executive"
+  },
+  "eng126": {
+    "id": "8700980002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8700980002?gh_jid=8700980002",
+    "company": "Jane Street",
+    "title": "Trading Desk Operations Engineer"
+  },
+  "tr21": {
+    "id": "yzilabs-7f457f35-6108-4bf3-9407-bfbb0f2d4304",
+    "link": "https://talent.yzilabs.com/jobs/7f457f35-6108-4bf3-9407-bfbb0f2d4304",
+    "company": "Bitway",
+    "title": "Quantitative Researcher"
+  },
+  "eng125": {
+    "id": "8647260002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8647260002?gh_jid=8647260002",
+    "company": "Jane Street",
+    "title": "Software Engineer"
+  },
+  "fs5": {
+    "id": "6122806004",
+    "link": "https://job-boards.greenhouse.io/alpaca/jobs/6122806004",
+    "company": "Alpaca",
+    "title": "Senior Fullstack Engineer - Operational Automations"
+  },
+  "eng124": {
+    "id": "yzilabs-9d45dfdf-e411-42d3-ab57-9c4cf31a3ead",
+    "link": "https://talent.yzilabs.com/jobs/9d45dfdf-e411-42d3-ab57-9c4cf31a3ead",
+    "company": "Perena",
+    "title": "Solana Protocol Engineer"
+  },
+  "mkt27": {
+    "id": "yzilabs-88c76883-7cc4-4043-a7e9-501ed81016cd",
+    "link": "https://talent.yzilabs.com/jobs/88c76883-7cc4-4043-a7e9-501ed81016cd",
+    "company": "Perena",
+    "title": "Marketing Lead"
+  },
+  "mkt28": {
+    "id": "yzilabs-b471eb5b-1456-4d76-829c-52521f6afeb9",
+    "link": "https://talent.yzilabs.com/jobs/b471eb5b-1456-4d76-829c-52521f6afeb9",
+    "company": "Perena",
+    "title": "Perenimals Growth Lead"
+  },
+  "cmp27": {
+    "id": "yzilabs-68a8802b-7e22-4c0b-a281-112a5d9e8c3f",
+    "link": "https://talent.yzilabs.com/jobs/68a8802b-7e22-4c0b-a281-112a5d9e8c3f",
+    "company": "Perena",
+    "title": "Legal & Regulatory Counsel"
+  },
+  "eng123": {
+    "id": "8651286002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8651286002?gh_jid=8651286002",
+    "company": "Jane Street",
+    "title": "Linux Engineer"
+  },
+  "eng122": {
+    "id": "8651323002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8651323002?gh_jid=8651323002",
+    "company": "Jane Street",
+    "title": "Hardware Engineer (FPGA/ASIC)"
+  },
+  "eng121": {
+    "id": "yzilabs-25c6f7b9-1dd6-41e0-be3c-dacd70ad462d",
+    "link": "https://talent.yzilabs.com/jobs/25c6f7b9-1dd6-41e0-be3c-dacd70ad462d",
+    "company": "OneKey Limited",
+    "title": "Hardware Engineer (Consumer Electronics)"
+  },
+  "eng120": {
+    "id": "7821268003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7821268003",
+    "company": "OKX",
+    "title": "Staff/Senior Java Engineer, OKX Web3 Wallet"
+  },
+  "eng119": {
+    "id": "8628843002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8628843002?gh_jid=8628843002",
+    "company": "Jane Street",
+    "title": "Windows Engineer"
+  },
+  "tr20": {
+    "id": "8623868002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8623868002?gh_jid=8623868002",
+    "company": "Jane Street",
+    "title": "Quantitative Researcher"
+  },
+  "cmp26": {
+    "id": "4932856101",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4932856101",
+    "company": "Bybit",
+    "title": "MLRO & Compliance Officer, UAE (ADGM) - RIE & RCH"
+  },
+  "sec32": {
+    "id": "8632723002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8632723002?gh_jid=8632723002",
+    "company": "Jane Street",
+    "title": "Cybersecurity Engineer - Security Operations Center (SOC)"
+  },
+  "pm61": {
+    "id": "4928053101",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4928053101",
+    "company": "Bybit",
+    "title": "Senior Growth Product Manager - User Activation"
+  },
+  "eng118": {
+    "id": "8624440002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8624440002?gh_jid=8624440002",
+    "company": "Jane Street",
+    "title": "Hardware Engineer (FPGA/ASIC)"
+  },
+  "sls78": {
+    "id": "yzilabs-f48032a0-8cbb-4ea3-8e0a-68231daf0fd2",
+    "link": "https://talent.yzilabs.com/jobs/f48032a0-8cbb-4ea3-8e0a-68231daf0fd2",
+    "company": "Aster",
+    "title": "Business Development Manager"
+  },
+  "pm60": {
+    "id": "yzilabs-4240dfeb-bf0a-452d-840e-35b89b630002",
+    "link": "https://talent.yzilabs.com/jobs/4240dfeb-bf0a-452d-840e-35b89b630002",
+    "company": "Aster",
+    "title": "Product Manager – Derivatives Trading"
+  },
+  "sls77": {
+    "id": "yzilabs-6c2ec394-a85e-4515-87a2-5ef72d0f2b22",
+    "link": "https://talent.yzilabs.com/jobs/6c2ec394-a85e-4515-87a2-5ef72d0f2b22",
+    "company": "Aster",
+    "title": "Senior BD Manager"
+  },
+  "tr19": {
+    "id": "yzilabs-ac782403-dfba-4780-bc30-89673bd984ae",
+    "link": "https://talent.yzilabs.com/jobs/ac782403-dfba-4780-bc30-89673bd984ae",
+    "company": "Frontrun",
+    "title": "Growth & Trader Success Lead"
+  },
+  "be18": {
+    "id": "yzilabs-5fe29765-3ba8-4829-a77a-486cc143d96b",
+    "link": "https://talent.yzilabs.com/jobs/5fe29765-3ba8-4829-a77a-486cc143d96b",
+    "company": "Manifolds.ai",
+    "title": "Backend Engineering Intern"
+  },
+  "eng117": {
+    "id": "yzilabs-089f729a-a9bb-42a5-b79f-bf2aefa886db",
+    "link": "https://talent.yzilabs.com/jobs/089f729a-a9bb-42a5-b79f-bf2aefa886db",
+    "company": "Vibe",
+    "title": "Mobile Senior Engineer"
+  },
+  "cs2": {
+    "id": "8031253",
+    "link": "https://www.coinbase.com/careers/positions/8031253?gh_jid=8031253",
+    "company": "Coinbase",
+    "title": "Concierge Specialist IV"
+  },
+  "be17": {
+    "id": "4908935101",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4908935101",
+    "company": "Bybit",
+    "title": "Lead Backend Development Engineer"
+  },
+  "md": {
+    "id": "yzilabs-29b1f25b-9257-4781-8cc1-d74013de38ac",
+    "link": "https://talent.yzilabs.com/jobs/29b1f25b-9257-4781-8cc1-d74013de38ac",
+    "company": "TermiX",
+    "title": "Market Development Lead"
+  },
+  "pm59": {
+    "id": "yzilabs-14a9c157-fa08-432b-8066-1f5becebf131",
+    "link": "https://talent.yzilabs.com/jobs/14a9c157-fa08-432b-8066-1f5becebf131",
+    "company": "TermiX",
+    "title": "Product Manager"
+  },
+  "cmp25": {
+    "id": "4882378101",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4882378101",
+    "company": "Bybit",
+    "title": "MLRO & Compliance Officer, UAE (ADGM) - Broker Dealer Entity"
+  },
+  "qa67": {
+    "id": "yzilabs-0854ff24-e5b6-4257-ac37-586de47e26e3",
+    "link": "https://talent.yzilabs.com/jobs/0854ff24-e5b6-4257-ac37-586de47e26e3",
+    "company": "Stablestock",
+    "title": "QA Engineer"
+  },
+  "mkt26": {
+    "id": "yzilabs-57e3db17-ddbb-499a-9d90-76203ff3cdd8",
+    "link": "https://talent.yzilabs.com/jobs/57e3db17-ddbb-499a-9d90-76203ff3cdd8",
+    "company": "Stablestock",
+    "title": "Regional Growth Manager"
+  },
+  "mo": {
+    "id": "yzilabs-b5a0ceff-4712-4ea1-9f5a-6fe442818fa9",
+    "link": "https://talent.yzilabs.com/jobs/b5a0ceff-4712-4ea1-9f5a-6fe442818fa9",
+    "company": "Predict.fun",
+    "title": "Markets Operator"
+  },
+  "mkt25": {
+    "id": "yzilabs-0a11126f-096c-43be-a4b7-41e895a1bcb7",
+    "link": "https://talent.yzilabs.com/jobs/0a11126f-096c-43be-a4b7-41e895a1bcb7",
+    "company": "Hertzflow",
+    "title": "AI Marketing Manager"
+  },
+  "sls76": {
+    "id": "yzilabs-188fd6ca-9701-4a45-bbb0-c897f3b9f96c",
+    "link": "https://talent.yzilabs.com/jobs/188fd6ca-9701-4a45-bbb0-c897f3b9f96c",
+    "company": "Hertzflow",
+    "title": "Senior Business Development Manager"
+  },
+  "sec31": {
+    "id": "yzilabs-53ce6fb4-9fa8-4979-921f-cd54c3eee49d",
+    "link": "https://talent.yzilabs.com/jobs/53ce6fb4-9fa8-4979-921f-cd54c3eee49d",
+    "company": "OpenEden",
+    "title": "Web3 Security Lead"
+  },
+  "mlr5": {
+    "id": "8576931002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8576931002?gh_jid=8576931002",
+    "company": "Jane Street",
+    "title": "Machine Learning Researcher"
+  },
+  "mgr39": {
+    "id": "yzilabs-e708fb94-e9ea-4020-be20-ad58dd94cef3",
+    "link": "https://talent.yzilabs.com/jobs/e708fb94-e9ea-4020-be20-ad58dd94cef3",
+    "company": "YZi Labs",
+    "title": "Finance Manager/Senior Finance Manager - Investment Reporting"
+  },
+  "pm58": {
+    "id": "yzilabs-3eebe631-95f5-4850-a6cd-279c83daf517",
+    "link": "https://talent.yzilabs.com/jobs/3eebe631-95f5-4850-a6cd-279c83daf517",
+    "company": "OptimAI Network",
+    "title": "Growth Product Manager"
+  },
+  "awr": {
+    "id": "yzilabs-934d1eb2-3a2e-44ce-a15e-9ed7845dd080",
+    "link": "https://talent.yzilabs.com/jobs/934d1eb2-3a2e-44ce-a15e-9ed7845dd080",
+    "company": "OptimAI Network",
+    "title": "AI & Web3 Researcher"
+  },
+  "eng116": {
+    "id": "yzilabs-8996d0f2-784d-4a7b-b45b-733787e4b10f",
+    "link": "https://talent.yzilabs.com/jobs/8996d0f2-784d-4a7b-b45b-733787e4b10f",
+    "company": "ICME",
+    "title": "Engineering"
+  },
+  "ao": {
+    "id": "yzilabs-60b60721-6ed4-4e12-8050-3744816c9af8",
+    "link": "https://talent.yzilabs.com/jobs/60b60721-6ed4-4e12-8050-3744816c9af8",
+    "company": "Predict.fun",
+    "title": "AI Operator"
+  },
+  "be16": {
+    "id": "yzilabs-4e71c5d7-29af-41a7-b6f2-4de4d1ade172",
+    "link": "https://talent.yzilabs.com/jobs/4e71c5d7-29af-41a7-b6f2-4de4d1ade172",
+    "company": "Predict.fun",
+    "title": "Principal Backend Engineer"
+  },
+  "eng115": {
+    "id": "8025274002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8025274002?gh_jid=8025274002",
+    "company": "Jane Street",
+    "title": "IT Operations Engineer"
+  },
+  "mlr4": {
+    "id": "7246309002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/7246309002?gh_jid=7246309002",
+    "company": "Jane Street",
+    "title": "Machine Learning Researcher"
+  },
+  "eng114": {
+    "id": "5548184002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/5548184002?gh_jid=5548184002",
+    "company": "Jane Street",
+    "title": "Linux Engineer"
+  },
+  "tr18": {
+    "id": "4808264002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/4808264002?gh_jid=4808264002",
+    "company": "Jane Street",
+    "title": "Quantitative Researcher"
+  },
+  "tr17": {
+    "id": "4794171002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/4794171002?gh_jid=4794171002",
+    "company": "Jane Street",
+    "title": "Quantitative Trader"
   }
 }

@@ -584,6 +584,9 @@
   "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
   "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
   "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
+  "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
+  "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
+  "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1535,6 +1538,12 @@
   "The FAA’s plan to fix air traffic? $875M worth of AI",
   "OpenAI models caught hiding bad behavior from developers",
   "OpenAI caught its models leaving notes to successors to hide bad behavior",
+  "US military nearly launched attack due to AI hallucination",
+  "AI hallucination of Chinese nuclear components almost led to US military attack",
+  "Manus seeks five hundred million dollars at four billion valuation",
+  "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
+  "Anthropic operates physical laboratory for biological research",
+  "Anthropic is operating a lab that conducts biology experiments",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -1636,5 +1645,8 @@
   "fp:brain|camera|cell|climat|computer|contain|develop|download|human|innovator",
   "fp:access|account|anthropic|cod|employe|exploit|hack|hacker|internal|openai",
   "fp:875m|agency|air|airspac|controller|deploy|dollar|efficiently|faa|fix",
-  "fp:action|bad|behavior|caught|conceal|context|developer|disclos|futur|hid"
+  "fp:action|bad|behavior|caught|conceal|context|developer|disclos|futur|hid",
+  "fp:almost|attack|bring|chines|clos|component|due|hallucination|identifi|incorrectly",
+  "fp:500m|agent|corporation|dollar|fiv|four|fund|fundrais|hundr|independent",
+  "fp:anthropic|biological|biology|conduct|cur|developer|diseas|evaluat|experiment|lab"
 ]

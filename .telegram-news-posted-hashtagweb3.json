@@ -572,6 +572,9 @@
   "https://hashtagweb3.com/bitbank-sanctions?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/dtcpay-funding?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/cftc-relief?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/morpho-stocks?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/binance-mica?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://www.coindesk.com/markets/2026/09/17/we-have-lost-control-crypto-pioneer-warns-ai-could-trigger-systemic-banking-and-infrastructure-shocks",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -1624,6 +1627,12 @@
   "dtcpay Closes $25 Million Series A With SBI Group Investment",
   "CFTC Grants Broker Relief to Passive Trading Software",
   "CFTC Opens Broker Relief to All Passive Trading Software",
+  "Morpho enables USDC borrowing against tokenized stocks on Base.",
+  "Morpho Launches USDC Borrowing Against Coinbase Tokenized Stocks on Base",
+  "Lagarde Reportedly Intervened to Stall Binance License in Greece",
+  "WSJ Reports Lagarde Intervened to Stall Binance MiCA License",
+  "Investor warns AI could cause systemic banking shocks",
+  "'We have lost control': Crypto pioneer warns AI could trigger systemic banking and infrastructure shocks",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -1746,5 +1755,8 @@
   "fp:acquir|agre|auditor|business|contract|expand|financial|firm|giant|global",
   "fp:bitbank|corp|exchang|firm|four|guard|individual|iranian|islamic|military",
   "fp:25m|capital|clos|dtcpay|expand|firm|group|investment|licens|network",
-  "fp:all|broker|cftc|derivativ|developer|grant|not|open|passiv|penaliz"
+  "fp:all|broker|cftc|derivativ|developer|grant|not|open|passiv|penaliz",
+  "fp:against|bas|borrow|can|coinbas|collateral|curat|enabl|financial|loan",
+  "fp:address|application|binanc|declin|delay|ecb|exchang|greec|greek|interven",
+  "fp:back|bank|caus|chij|concern|control|cryptocurrency|der|due|grow"
 ]
