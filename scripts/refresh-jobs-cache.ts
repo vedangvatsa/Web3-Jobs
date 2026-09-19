@@ -1450,6 +1450,8 @@ async function refreshJobsCache() {
     { board: 'trmlabs', company: 'TRM Labs' },
     { board: 'particle', company: 'Particle Network' },
     { board: 'lido', company: 'Lido' },
+    { board: 'mercuryo', company: 'Mercuryo' },
+    { board: 'ambergroup', company: 'Amber Group' },
   ];
 
   for (const bh of BAMBOO_BOARDS) {

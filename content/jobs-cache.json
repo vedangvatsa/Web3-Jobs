@@ -9367,7 +9367,7 @@
     "source": "Lever: Wintermute [wintermute-trading]",
     "location": "London",
     "department": "Trading",
-    "active": true,
+    "active": false,
     "slug": "tr22"
   },
   {
@@ -25432,7 +25432,7 @@
     "source": "Franklin Templeton Careers [franklintempletonjobs]",
     "location": "New York, NY / Remote",
     "department": "Investment Management",
-    "active": true,
+    "active": false,
     "slug": "mgr41",
     "link": "https://franklintempleton.wd5.myworkdayjobs.com/en-US/External/job/DeFi-Portfolio-Manager"
   },
@@ -25444,7 +25444,7 @@
     "source": "Franklin Templeton Careers [franklintempletonjobs]",
     "location": "Remote",
     "department": "Digital Assets Research",
-    "active": true,
+    "active": false,
     "slug": "an17",
     "link": "https://franklintempleton.wd5.myworkdayjobs.com/en-US/External/job/Blockchain-Analyst"
   },
@@ -25456,7 +25456,7 @@
     "source": "Franklin Templeton Careers [franklintempletonjobs]",
     "location": "New York, NY / Hybrid",
     "department": "Legal & Compliance",
-    "active": true,
+    "active": false,
     "slug": "cda2",
     "link": "https://franklintempleton.wd5.myworkdayjobs.com/en-US/External/job/Counsel-Digital-Assets"
   },
@@ -25468,7 +25468,7 @@
     "source": "Franklin Templeton Careers [franklintempletonjobs]",
     "location": "San Mateo, CA / Remote",
     "department": "Digital Assets Product",
-    "active": true,
+    "active": false,
     "slug": "pm62",
     "link": "https://franklintempleton.wd5.myworkdayjobs.com/en-US/External/job/Product-Manager-Digital-Assets"
   },
@@ -25480,7 +25480,7 @@
     "source": "Franklin Templeton Careers [franklintempletonjobs]",
     "location": "San Mateo, CA / Hybrid",
     "department": "Digital Assets Engineering",
-    "active": true,
+    "active": false,
     "slug": "eng127",
     "link": "https://franklintempleton.wd5.myworkdayjobs.com/en-US/External/job/Blockchain-Engineer"
   },
@@ -27227,7 +27227,7 @@
     "source": "Manatal: Mudrex [mudrex]",
     "location": "Bengaluru, India / Remote",
     "department": "Compliance & Legal",
-    "active": true,
+    "active": false,
     "slug": "cmp28",
     "link": "https://mudrex.com/careers/compliance-officer"
   },
@@ -27239,7 +27239,7 @@
     "source": "Manatal: Mudrex [mudrex]",
     "location": "Bengaluru, India (Hybrid)",
     "department": "Marketing",
-    "active": true,
+    "active": false,
     "slug": "mkt29",
     "link": "https://mudrex.com/careers/growth-marketing-lead"
   },
