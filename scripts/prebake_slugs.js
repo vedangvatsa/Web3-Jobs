@@ -102,7 +102,7 @@ function distributeJobsByCompany(jobs) {
 
 const GENERAL_APP_REGEX = /(general application|general interest|general opening|general opportunity|expression of interest|talent community|talent pool|talent network|future opportunities|future consideration|future builders|future roles|join our talent|dream job|spontaneous application|open position|open application|speculative application|unsolicited application|general pool|general submission|register your interest|submit your (?:cv|resume)|create your own role|don.?t see (?:a|your|the|any) role|role that fits|can.?t find (?:a|your) role|looking for something else|stay in touch|keep in touch|connect with us|work with us|join our team\s*\(general\)|general candidate pool)/i;
 
-const NON_WEB3_DISQUALIFIED_REGEX = /\b(flow cytometry|profiling lab|wet lab|histology|assay development|molecular biology|in vitro|in vivo|clinical trial|physician|surgeon|dentist|dental hygienist|registered nurse|nurse|injector|med spa|spa coordinator|pharmacist|pharmacology|medical doctor|veterinarian|livestock|agronomist|personal banker|mortgage lender|teller|lending officer|special assets officer)\b/i;
+const NON_WEB3_DISQUALIFIED_REGEX = /\b(flow cytometry|profiling lab|wet lab|histology|assay development|molecular biology|in vitro|in vivo|clinical trial|physician|surgeon|dentist|dental hygienist|registered nurse|nurse|injector|med spa|spa coordinator|pharmacist|pharmacology|medical doctor|veterinarian|livestock|agronomist|personal banker|mortgage lender|teller|lending officer|special assets officer|physical therapist|technician|driver|maid|cleaner|janitor|custodian|housekeeper|warehouse|forklift|security guard|receptionist|plumber|electrician|mechanic|repair|hvac|data centre mechanical|data center mechanical|maintenance|assembly technician|quality technician|field service technician)\b/i;
 
 function isConcreteJobOpening(title, link) {
   if (!title) return false;
@@ -161,16 +161,18 @@ const rawJobs = JSON.parse(raw);
 console.log(`  ${rawJobs.length} raw jobs (${Math.round(raw.length/1024)}KB)`);
 
 // Normalize company names, titles, and prune non-standalone/placeholder roles
-const validJobs = rawJobs
-  .filter(job => {
-    if (BLOCKED_COMPANIES.has((job.company || '').toLowerCase())) return false;
-    return isConcreteJobOpening(job.title, job.link);
-  })
-  .map(job => ({
-    ...job,
-    title: cleanJobTitle(job.title, job.company),
-    company: cleanCompanyName(cleanText(job.company)),
-  }));
+const validJobs = deduplicateJobs(
+  rawJobs
+    .filter(job => {
+      if (BLOCKED_COMPANIES.has((job.company || '').toLowerCase())) return false;
+      return isConcreteJobOpening(job.title, job.link);
+    })
+    .map(job => ({
+      ...job,
+      title: cleanJobTitle(job.title, job.company),
+      company: cleanCompanyName(cleanText(job.company)),
+    }))
+);
 
 const ARCHIVE_PATH = path.join(__dirname, '../content/legacy-slugs-archive.json');
 let legacyArchive = {};

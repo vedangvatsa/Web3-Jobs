@@ -586,7 +586,6 @@ async function refreshJobsCache() {
     { board: 'janestreet', company: 'Jane Street' },
     // --- Regional Exchanges & Protocols ---
     { board: 'coinme', company: 'Coinme' },
-    { board: 'oasis', company: 'Oasis Network' },
     { board: 'plume', company: 'Plume Network' },
     { board: 'eclipse', company: 'Eclipse' },
     { board: 'apex', company: 'Apex Protocol' },

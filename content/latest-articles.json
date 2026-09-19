@@ -1,5 +1,21 @@
 [
   {
+    "slug": "morpho-stocks",
+    "title": "Morpho Launches USDC Borrowing Against Coinbase Tokenized Stocks on Base",
+    "description": "Morpho deployed lending markets on Base allowing non-US users to borrow USDC against Coinbase tokenized stocks curated by Steakhouse Financial.",
+    "category": "News",
+    "publishedDate": "2026-09-19",
+    "image": "/images/news/morpho-stocks.jpg"
+  },
+  {
+    "slug": "zcash-upgrade",
+    "title": "Zcash Community Approves NU7 Upgrade With 25-Second Blocks and 2031 Reserve Plan",
+    "description": "Zcash coinholders approved preserving scheduled halvings and delaying the release of Network Sustainability Mechanism funds to 2031 in an advisory poll for the upcoming NU7 upgrade.",
+    "category": "News",
+    "publishedDate": "2026-09-19",
+    "image": "/images/news/zcash-upgrade.jpg"
+  },
+  {
     "slug": "binance-mica",
     "title": "WSJ Reports Lagarde Intervened to Stall Binance MiCA License",
     "description": "The Wall Street Journal reported on Sept. 18, 2026 that ECB President Christine Lagarde personally intervened to stall Binance's MiCA license bid in Greece, an account Binance declined to address beyond reaffirming its Europe plans.",
@@ -22,21 +38,5 @@
     "category": "News",
     "publishedDate": "2026-09-18",
     "image": "/images/news/cftc-markets.jpg"
-  },
-  {
-    "slug": "dtcpay-funding",
-    "title": "dtcpay Closes $25 Million Series A With SBI Group Investment",
-    "description": "Singapore payments company dtcpay said on Sept. 18, 2026 it closed a $25 million Series A round anchored by Japan's SBI Group to expand its licensed stablecoin payment network.",
-    "category": "News",
-    "publishedDate": "2026-09-18",
-    "image": "/images/news/dtcpay-funding.jpg"
-  },
-  {
-    "slug": "bitcoin-reserve",
-    "title": "House Panel Advances Bitcoin Reserve Bill in 28-21 Vote",
-    "description": "The House Financial Services Committee voted 28-21 on Sept. 16, 2026 to send the American Reserve Modernization Act, which would place federal Bitcoin in a 20-year Treasury reserve, to the full House.",
-    "category": "News",
-    "publishedDate": "2026-09-17",
-    "image": "/images/news/bitcoin-reserve.jpg"
   }
 ]

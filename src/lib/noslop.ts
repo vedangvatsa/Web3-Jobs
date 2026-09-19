@@ -213,8 +213,9 @@ export function cleanPublishHtml(input: string | null | undefined): string {
   s = s.replace(/#LI-[A-Za-z0-9_-]+/gi, '');
   s = s.replace(EMOJI_RE, '').replace(EMOJI_VARIATION_RE, '');
 
-  // Tighten double spaces
+  // Tighten double spaces and strip empty paragraphs
   s = s.replace(/[ \t]{2,}/g, ' ');
+  s = s.replace(/<p[^>]*>\s*<\/p>/gi, '');
   return s;
 }
 

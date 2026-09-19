@@ -10,8 +10,13 @@ import {
 const OUT_ROOT = path.join(process.cwd(), 'public', 'preview');
 
 async function main() {
-  fs.rmSync(OUT_ROOT, { recursive: true, force: true, maxRetries: 3, retryDelay: 100 });
-  fs.mkdirSync(OUT_ROOT, { recursive: true });
+  if (fs.existsSync(OUT_ROOT)) {
+    for (const entry of fs.readdirSync(OUT_ROOT)) {
+      fs.rmSync(path.join(OUT_ROOT, entry), { recursive: true, force: true, maxRetries: 5, retryDelay: 150 });
+    }
+  } else {
+    fs.mkdirSync(OUT_ROOT, { recursive: true });
+  }
 
   const paths = await collectOgPreviewPaths();
   let written = 0;

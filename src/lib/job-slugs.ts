@@ -331,34 +331,44 @@ export type LegacySlugRecord = {
   link?: string;
   company?: string;
   title?: string;
+  newSlug?: string;
 };
 
 type JobSlugFields = Pick<Job, 'id' | 'title' | 'company' | 'link' | 'slug'> & {
   date?: string;
 };
 
-/** Record a retired public slug so old links (e.g. Telegram) keep resolving. */
+/** Record a retired public slug so old links (e.g. Telegram, search) keep resolving and redirecting to the new slug. */
 export function retireJobSlugInArchive(
   archive: Record<string, LegacySlugRecord>,
   slug: string,
   job: JobSlugFields,
   reservedRoot?: Set<string>,
+  newSlug?: string,
 ): boolean {
   const clean = slug?.trim();
-  if (!clean || archive[clean]) return false;
+  if (!clean) return false;
   const reserved = reservedRoot ?? new Set<string>();
   if (reserved.has(clean.toLowerCase())) return false;
+  if (archive[clean]) {
+    if (newSlug && archive[clean].newSlug !== newSlug) {
+      archive[clean].newSlug = newSlug;
+      return true;
+    }
+    return false;
+  }
   archive[clean] = {
     id: job.id,
     link: job.link,
     company: job.company,
     title: job.title,
+    ...(newSlug ? { newSlug } : {}),
   };
   return true;
 }
 
 /**
- * When a posting keeps the same identity but gets a new slug, retire the old slug.
+ * When a posting keeps the same identity but gets a new slug, retire the old slug and point it to the new slug.
  * When a posting drops out of the cache, retire its last slug.
  */
 export function syncLegacyArchiveAfterSlugChanges(
@@ -389,7 +399,7 @@ export function syncLegacyArchiveAfterSlugChanges(
     if (live) {
       const nextSlug = live.slug?.trim();
       if (nextSlug && nextSlug !== slug) {
-        if (retireJobSlugInArchive(archive, slug, job, reserved)) added += 1;
+        if (retireJobSlugInArchive(archive, slug, job, reserved, nextSlug)) added += 1;
       }
       continue;
     }

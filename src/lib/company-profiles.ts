@@ -736,4 +736,16 @@ export const COMPANY_RICH_ABOUT: Record<string, string> = {
 
   "horizon": `Horizon Blockchain Games is the creator of Sequence—the leading smart wallet and developer platform for Web3 games—and Skyweaver, an acclaimed digital trading card game. Horizon provides game studios with turn-key account abstraction, invisible wallet onboarding, and full-stack game infrastructure. Horizon Blockchain Games builds Sequence smart wallet APIs and Skyweaver trading card games, providing game studios with full-stack Web3 account abstraction tooling. Sequence enables web3 game developers to offer invisible wallet creation, gasless transactions, and seamless NFT marketplace integration to mainstream players. Horizon Blockchain Games builds Sequence smart wallet APIs and Skyweaver trading card games, providing game studios with full-stack Web3 account abstraction tooling.`,
 
+  "quicknode": `QuickNode is a premier blockchain infrastructure and node API provider delivering fast, reliable RPC access, dedicated nodes, and developer tooling across more than 40 blockchain networks. Powering thousands of Web3 applications, exchanges, and institutions, QuickNode ensures high-availability global endpoints and real-time on-chain data streaming for decentralized finance and digital asset developers worldwide.`,
+
+  "4dlabs": `4Dlabs is a Web3 venture studio and research lab incubating decentralized infrastructure, consumer crypto applications, and decentralized AI protocols. Partnering with top ecosystem builders, 4Dlabs accelerates early-stage protocol development, smart contract security engineering, and tokenomics architecture.`,
+
+  "exponent": `Exponent is an institutional decentralized finance and yield structuring protocol on Solana, providing automated yield vaults, fixed-rate lending instruments, and capital-efficient liquidity primitives for digital asset investors.`,
+
+  "de": `De¹ is a decentralized finance protocol and algorithmic trading engine engineered for high-throughput automated execution, capital efficiency, and liquidity aggregation across multi-chain ecosystems.`,
+
+  "de1": `De¹ is a decentralized finance protocol and algorithmic trading engine engineered for high-throughput automated execution, capital efficiency, and liquidity aggregation across multi-chain ecosystems.`,
+
+  "cournot": `Cournot is a quantitative decentralized finance protocol and risk-modeling laboratory building autonomous liquidity management algorithms, automated market-making primitives, and institutional risk metrics for Web3 ecosystems.`,
+
 };
