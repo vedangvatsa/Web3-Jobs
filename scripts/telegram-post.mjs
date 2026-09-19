@@ -181,22 +181,31 @@ async function pickJobs(count) {
   return results;
 }
 
-// ── Live HTTP verification to guarantee 0% 404 links on Telegram ──
+// ── Live HTTP verification before sharing on Telegram ──
 async function verifyJobUrlLive(targetUrl) {
   try {
     const urlObj = new URL(targetUrl);
     const cleanUrl = `${urlObj.origin}${urlObj.pathname}`;
-    const res = await fetch(cleanUrl, {
-      method: 'HEAD',
-      headers: {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
-      },
-      redirect: 'follow',
-      signal: AbortSignal.timeout(4000),
-    });
-    return res.ok && res.status < 400;
-  } catch (err) {
-    return false;
+    for (const method of ['GET', 'HEAD']) {
+      const res = await fetch(cleanUrl, {
+        method,
+        headers: {
+          'User-Agent': 'Mozilla/5.0 (compatible; HashtagWeb3Telegram/1.0)',
+          Accept: 'text/html,application/xhtml+xml',
+        },
+        redirect: 'follow',
+        signal: AbortSignal.timeout(8000),
+      });
+      // Only reject definite missing pages — 503/502 are transient Worker issues, not broken slugs.
+      if (res.status === 404 || res.status === 410) return false;
+      if (res.ok || res.status === 308 || res.status === 307 || res.status === 301 || res.status === 302) {
+        return true;
+      }
+    }
+    return true;
+  } catch {
+    // Network blip — prefer site URL over ATS when we have a slug.
+    return true;
   }
 }
 
