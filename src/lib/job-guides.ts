@@ -1,5 +1,6 @@
 import type { Job, Company } from '@/types';
 import { getJobs } from './jobs';
+import { fetchJobBySlug } from './job-by-slug-record';
 import * as cheerio from 'cheerio';
 import { cleanPublishText, cleanPublishHtml } from './noslop';
 import { isGeneralOrPlaceholderJobTitle } from './job-filters';
@@ -22,11 +23,19 @@ import { cleanJobLocation } from './job-location';
 
 import legacyArchiveJson from '../../content/legacy-slugs-archive.json';
 
-let legacyArchiveCache: Record<string, { id?: string; link?: string; company?: string; title?: string }> | null = null;
+export interface ArchivedSlugRecord {
+  id?: string;
+  link?: string;
+  company?: string;
+  title?: string;
+  newSlug?: string;
+}
 
-function loadLegacyArchive(): Record<string, { id?: string; link?: string; company?: string; title?: string }> {
+let legacyArchiveCache: Record<string, ArchivedSlugRecord> | null = null;
+
+function loadLegacyArchive(): Record<string, ArchivedSlugRecord> {
   if (legacyArchiveCache !== null) return legacyArchiveCache;
-  legacyArchiveCache = legacyArchiveJson as Record<string, { id?: string; link?: string; company?: string; title?: string }>;
+  legacyArchiveCache = legacyArchiveJson as Record<string, ArchivedSlugRecord>;
   return legacyArchiveCache;
 }
 
@@ -549,12 +558,6 @@ export type JobSlugResolution =
   | { kind: 'archived'; job: Job; canonicalSlug: string }
   | { kind: 'unknown'; job: null; canonicalSlug: null };
 
-interface ArchivedSlugRecord {
-  id?: string;
-  link?: string;
-  company?: string;
-  title?: string;
-}
 
 function isUsableArchiveLink(link?: string): link is string {
   if (!link || typeof link !== 'string') return false;
@@ -586,17 +589,51 @@ function normalizedLinkCached(link: string): string {
   return v;
 }
 
+/**
+ * Find the live job that corresponds to an archived/retired slug so old slugs
+ * redirect seamlessly to the new slug instead of 404ing.
+ */
 export function findLiveJobForArchived(
   archived: ArchivedSlugRecord,
   liveJobs: Job[]
 ): Job | null {
-  if (!isUsableArchiveLink(archived.link)) return null;
-  const want = normalizedLinkCached(archived.link!);
-  if (!want) return null;
-  for (const job of liveJobs) {
-    if (!job.link) continue;
-    if (normalizedLinkCached(job.link) === want) return job;
+  // 1. Direct newSlug pointer
+  if (archived.newSlug) {
+    const target = liveJobs.find((j) => j.slug === archived.newSlug);
+    if (target) return target;
   }
+
+  // 2. Exact job ID match
+  if (archived.id) {
+    const target = liveJobs.find((j) => j.id === archived.id);
+    if (target) return target;
+  }
+
+  // 3. Match by normalized source link
+  if (isUsableArchiveLink(archived.link)) {
+    const want = normalizedLinkCached(archived.link!);
+    if (want) {
+      for (const job of liveJobs) {
+        if (!job.link) continue;
+        if (normalizedLinkCached(job.link) === want) return job;
+      }
+    }
+  }
+
+  // 4. Match by exact company and title
+  if (archived.company && archived.title) {
+    const wantCompany = archived.company.toLowerCase().trim();
+    const wantTitle = archived.title.toLowerCase().trim();
+    for (const job of liveJobs) {
+      if (
+        (job.company || '').toLowerCase().trim() === wantCompany &&
+        (job.title || '').toLowerCase().trim() === wantTitle
+      ) {
+        return job;
+      }
+    }
+  }
+
   return null;
 }
 
@@ -619,10 +656,9 @@ export function getLegacyJobSlugs(): string[] {
 }
 
 export async function resolveJobSlug(slug: string): Promise<JobSlugResolution> {
-  const allJobs = await getJobs();
   const cleanSlug = slug.toLowerCase().trim();
 
-  const exact = allJobs.find((job) => job.slug?.toLowerCase() === cleanSlug);
+  const exact = await fetchJobBySlug(cleanSlug);
   if (exact) {
     return { kind: 'exact', job: exact, canonicalSlug: exact.slug! };
   }
@@ -630,6 +666,13 @@ export async function resolveJobSlug(slug: string): Promise<JobSlugResolution> {
   const legacyMap = loadLegacyArchive();
   const archived = legacyMap[cleanSlug];
   if (archived) {
+    if (archived.newSlug) {
+      const targetJob = await fetchJobBySlug(archived.newSlug);
+      if (targetJob?.slug) {
+        return { kind: 'exact', job: targetJob, canonicalSlug: targetJob.slug };
+      }
+    }
+    const allJobs = await getJobs();
     const live = findLiveJobForArchived(archived, allJobs);
     if (live?.slug) {
       return { kind: 'exact', job: live, canonicalSlug: live.slug };

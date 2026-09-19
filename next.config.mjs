@@ -254,6 +254,33 @@ const nextConfig = {
         ],
       },
       {
+        source: '/data/:path*',
+        headers: [
+          {
+            key: 'Cache-Control',
+            value: 'public, max-age=300, s-maxage=3600, stale-while-revalidate=86400',
+          },
+        ],
+      },
+      {
+        source: '/jobs-by-slug/:path*',
+        headers: [
+          {
+            key: 'Cache-Control',
+            value: 'public, max-age=300, s-maxage=3600, stale-while-revalidate=86400',
+          },
+        ],
+      },
+      {
+        source: '/job-description-shards/:path*',
+        headers: [
+          {
+            key: 'Cache-Control',
+            value: 'public, max-age=300, s-maxage=3600, stale-while-revalidate=86400',
+          },
+        ],
+      },
+      {
         source: '/events',
         headers: [
           {
