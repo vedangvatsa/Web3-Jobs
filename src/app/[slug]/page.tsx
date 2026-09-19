@@ -87,7 +87,7 @@ type ArticlePageProps = {
 
 
 /** Every indexed `/[slug]` route is pre-rendered at build; no first-request SSR for sitemap URLs. */
-export const dynamicParams = false;
+export const dynamicParams = true;
 export const revalidate = 3600;
 
 export async function generateStaticParams() {
