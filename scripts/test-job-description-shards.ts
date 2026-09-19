@@ -7,9 +7,15 @@ import path from 'node:path';
 import type { Job } from '../src/types';
 import { getCachedRawContent } from '../src/lib/job-guides';
 import {
+  clearDescriptionShardCache,
+  seedDescriptionShardCache,
+} from '../src/lib/job-description-shard-loader';
+import {
   getJobDescriptionShardFilename,
   getJobDescriptionShardIndex,
   getJobDescriptionShardIndexForContentKey,
+  isJobDescriptionShard,
+  type JobDescriptionShard,
 } from '../src/lib/job-description-shards';
 import { getJobContentKey } from '../src/lib/job-slugs';
 import {
@@ -43,10 +49,17 @@ function main(): void {
     writeJobDescriptionStore(migration, root);
     const stored = readJobDescriptionStore(root);
     assert.deepEqual(stored, migration);
-    assert.equal(
-      getCachedRawContent(job, getJobDescriptionShardsPath(root)),
-      '<p>legacy content</p>',
-    );
+
+    // Runtime reads go through the seeded in-memory cache (shards are served
+    // as static assets via fetchSiteAsset, never fs-read at runtime).
+    clearDescriptionShardCache();
+    const filename = getJobDescriptionShardFilename(getJobDescriptionShardIndex(job));
+    const seeded = JSON.parse(
+      fs.readFileSync(path.join(getJobDescriptionShardsPath(root), filename), 'utf8'),
+    ) as unknown;
+    assert.ok(isJobDescriptionShard(seeded));
+    seedDescriptionShardCache(filename, seeded as JobDescriptionShard);
+    assert.equal(getCachedRawContent(job), '<p>legacy content</p>');
 
     const legacyLookupJob = {
       ...job,
@@ -76,25 +89,26 @@ function main(): void {
         [legacyLookupJob.slug!]: legacyTargetKey,
       },
     }, root);
-    assert.equal(
-      getCachedRawContent(legacyLookupJob, getJobDescriptionShardsPath(root)),
-      '<p>legacy alias content</p>',
-    );
+    clearDescriptionShardCache();
+    const legacyFilename = getJobDescriptionShardFilename(legacyLookupShard);
+    const legacySeeded = JSON.parse(
+      fs.readFileSync(path.join(getJobDescriptionShardsPath(root), legacyFilename), 'utf8'),
+    ) as unknown;
+    assert.ok(isJobDescriptionShard(legacySeeded));
+    seedDescriptionShardCache(legacyFilename, legacySeeded as JobDescriptionShard);
+    assert.equal(getCachedRawContent(legacyLookupJob), '<p>legacy alias content</p>');
 
     const fallbackJob = { ...job, id: 'missing-shard', description: '<p>fallback</p>' };
-    assert.equal(
-      getCachedRawContent(fallbackJob, path.join(root, 'missing-shards')),
-      '<p>fallback</p>',
-    );
+    clearDescriptionShardCache();
+    assert.equal(getCachedRawContent(fallbackJob), '<p>fallback</p>');
 
+    // Malformed shard payloads never reach the cache: the loader validates
+    // with isJobDescriptionShard and leaves the isolate unpoisoned.
+    assert.equal(isJobDescriptionShard({}), false);
+    assert.equal(isJobDescriptionShard({ version: 1, descriptions: {}, aliases: {} }), true);
     const corruptJob = { ...job, id: 'corrupt-shard', link: 'https://jobs.example.com/corrupt', description: '<h2>safe</h2>' };
-    const corruptShardsPath = path.join(root, 'corrupt-shards');
-    fs.mkdirSync(corruptShardsPath, { recursive: true });
-    fs.writeFileSync(
-      path.join(corruptShardsPath, getJobDescriptionShardFilename(getJobDescriptionShardIndex(corruptJob))),
-      '{not valid json',
-    );
-    const corruptResult = getCachedRawContent(corruptJob, corruptShardsPath);
+    clearDescriptionShardCache();
+    const corruptResult = getCachedRawContent(corruptJob);
     assert.equal(corruptResult, '<h3>safe</h3>');
 
     const runtimeSource = fs.readFileSync(path.join(process.cwd(), 'src/lib/job-guides.ts'), 'utf8');

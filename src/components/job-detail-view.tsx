@@ -238,6 +238,16 @@ export function JobDetailView({
   const companyUrl = `${siteUrl}/${companySlug}`;
   const postedLabel = job.dateVerified === false ? null : getPostedLabel(job.date);
   const postedDate = new Date(job.date);
+  const websiteHostname = (() => {
+    // A malformed company.website must never 500 the whole page.
+    if (!company?.website) return null;
+    try {
+      const value = company.website.startsWith('http') ? company.website : `https://${company.website}`;
+      return new URL(value).hostname.replace(/^www\./, '');
+    } catch {
+      return null;
+    }
+  })();
   const absoluteLogoUrl = logoSrc
     ? logoSrc.startsWith('http')
       ? logoSrc
@@ -456,9 +466,9 @@ export function JobDetailView({
           <h2 className="text-lg font-bold tracking-tight mb-3">About {company.name}</h2>
           <p className="text-sm text-muted-foreground leading-relaxed">{company.description}</p>
           <div className="mt-4 flex flex-wrap gap-3 text-sm">
-            {company.website && (
+            {websiteHostname && (
               <a href={company.website} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-1.5 font-medium hover:text-primary">
-                {new URL(company.website).hostname.replace(/^www\./, '')}
+                {websiteHostname}
                 <ExternalLink className="h-3.5 w-3.5" aria-hidden="true" />
               </a>
             )}
