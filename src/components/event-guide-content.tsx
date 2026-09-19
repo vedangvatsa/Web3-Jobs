@@ -62,9 +62,9 @@ function splitParagraphIntoBlocks(paragraph: string): Block[] {
 
   for (const line of lines) {
     const trimmed = line.trim();
-    if (/^[-*•·▪–—]\s+/.test(trimmed)) {
+    if (/^(?:[-*•·▪–—]|\d+[.)])\s*/.test(trimmed) && trimmed.length > 1) {
       flushText();
-      currentBullets.push(trimmed.replace(/^[-*•·▪–—]\s+/, ''));
+      currentBullets.push(trimmed.replace(/^(?:[-*•·▪–—]|\d+[.)])\s*/, ''));
     } else {
       flushBullets();
       currentTextLines.push(line);
