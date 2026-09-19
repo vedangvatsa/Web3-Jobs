@@ -102,6 +102,27 @@ export function middleware(request: NextRequest) {
   const pathname = request.nextUrl.pathname;
   const searchParams = request.nextUrl.searchParams;
 
+  // Fast 404 for missing static json/asset directory requests that bypass edge asset cache.
+  // When run_worker_first is false, Cloudflare Assets serves valid files directly.
+  // If a request for /articles-data/*, /data/*, /job-shards/*, or /job-description-shards/*
+  // reaches this Worker, the file does not exist on disk. Returning a clean 404 JSON immediately
+  // avoids running heavy Next.js SSR/page rendering, which exceeds the 10ms Worker CPU limit.
+  if (
+    pathname.startsWith('/articles-data/') ||
+    pathname.startsWith('/data/') ||
+    pathname.startsWith('/job-shards/') ||
+    pathname.startsWith('/job-description-shards/')
+  ) {
+    return new NextResponse(JSON.stringify({ error: 'Not Found', path: pathname }), {
+      status: 404,
+      headers: {
+        'Content-Type': 'application/json; charset=utf-8',
+        'Cache-Control': 'public, max-age=300',
+        'Access-Control-Allow-Origin': '*',
+      },
+    });
+  }
+
   // 0. LinkedIn / social link-preview crawlers — serve a minimal OG-only HTML shell.
   //
   // LinkedIn's scraper silently fails ("Scraping error") on pages larger than ~120 KB.

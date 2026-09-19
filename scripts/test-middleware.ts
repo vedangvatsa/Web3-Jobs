@@ -160,6 +160,23 @@ async function runMiddlewareTests() {
     assert(false, '/api/ path passthrough runtime execution', err?.message || String(err));
   }
 
+  // 6. Test Static Asset Fast 404
+  console.log('\n6. Testing Static Asset Fast 404...');
+  try {
+    const staticReq = new NextRequest('https://hashtagweb3.com/articles-data/taiko-labs.json');
+    const staticRes = middleware(staticReq);
+    assert(
+      staticRes.status === 404,
+      'Missing static asset /articles-data/taiko-labs.json returns status 404'
+    );
+    assert(
+      staticRes.headers.get('content-type')?.includes('application/json') ?? false,
+      'Missing static asset returns application/json header'
+    );
+  } catch (err: any) {
+    assert(false, 'Static asset fast 404 runtime execution', err?.message || String(err));
+  }
+
   console.log(`\n========================================`);
   console.log(`Middleware Test Results: ${passed} passed, ${failed} failed.`);
   console.log(`========================================\n`);
