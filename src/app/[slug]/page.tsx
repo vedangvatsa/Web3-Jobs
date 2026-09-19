@@ -86,11 +86,16 @@ type ArticlePageProps = {
 };
 
 
-/** Every indexed `/[slug]` route is pre-rendered at build; no first-request SSR for sitemap URLs. */
-export const dynamicParams = false;
+/** Pre-render top essential hub pages & recent jobs for Docker/Cloud Run; Cloudflare prebuild pre-renders 100%. */
+export const dynamicParams = true;
 export const revalidate = 3600;
 
 export async function generateStaticParams() {
+  if (process.env.IS_DOCKER_BUILD === '1') {
+    const slugs = await getCatchAllStaticSlugsFromSitemap();
+    // Pre-render top 250 essential hub pages & recent jobs in Docker for ~30s builds; rest render on-demand (SSR)
+    return slugs.slice(0, 250).map((slug) => ({ slug }));
+  }
   const slugs = await getCatchAllStaticSlugsFromSitemap();
   return slugs.map((slug) => ({ slug }));
 }

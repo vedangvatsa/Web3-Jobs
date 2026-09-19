@@ -1,5 +1,6 @@
 FROM node:20-alpine AS builder
 WORKDIR /app
+ENV IS_DOCKER_BUILD=1
 COPY package*.json ./
 RUN npm ci
 COPY . .
