@@ -47,9 +47,8 @@ import {
   getAllJobsWithSlugs,
   getJobBySlug,
   hasSubstantialJobContent,
-  resolveJobSlug as resolveJobSlugBase,
+  resolveJobSlug,
 } from '@/lib/job-guides';
-import { cache } from 'react';
 import { ensureDescriptionShardLoaded } from '@/lib/job-description-shard-loader';
 import { JobDetailView } from '@/components/job-detail-view';
 import { FAVICON_FIRST_SLUGS, resolveCompanyLogo, getCompanyFaviconUrl, getCompanyFaviconUrlBySlug } from '@/lib/company-logo';
@@ -69,7 +68,6 @@ type ArticlePageProps = {
  };
 };
 
-const resolveJobSlug = cache(resolveJobSlugBase);
 
 export const dynamicParams = true;
 export const revalidate = 3600; // ISR: revalidate every hour
