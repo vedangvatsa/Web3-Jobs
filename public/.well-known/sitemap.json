@@ -2,12 +2,12 @@
   "$schema": "https://schema.org/sitemap",
   "name": "Hashtag Web3",
   "url": "https://hashtagweb3.com",
-  "generatedAt": "2026-09-19T15:05:42.813Z",
+  "generatedAt": "2026-09-19T16:09:06.976Z",
   "publisher": {
     "name": "Hashtag Web3",
     "url": "https://hashtagweb3.com"
   },
-  "count": 8361,
+  "count": 8359,
   "urls": [
     {
       "url": "https://hashtagweb3.com",
@@ -4772,12 +4772,6 @@
       "lastmod": "2026-04-27",
       "changefreq": "monthly",
       "priority": 0.7
-    },
-    {
-      "url": "https://hashtagweb3.com/blockchain-beach",
-      "lastmod": "2026-09-18",
-      "changefreq": "weekly",
-      "priority": 0.6
     },
     {
       "url": "https://hashtagweb3.com/blockchain-com",
@@ -29826,12 +29820,6 @@
     {
       "url": "https://hashtagweb3.com/mbh",
       "lastmod": "2026-09-26",
-      "changefreq": "weekly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/mbmv",
-      "lastmod": "2026-09-19",
       "changefreq": "weekly",
       "priority": 0.6
     },
