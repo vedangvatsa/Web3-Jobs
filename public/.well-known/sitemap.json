@@ -2,12 +2,12 @@
   "$schema": "https://schema.org/sitemap",
   "name": "Hashtag Web3",
   "url": "https://hashtagweb3.com",
-  "generatedAt": "2026-09-19T11:06:23.461Z",
+  "generatedAt": "2026-09-19T11:19:10.439Z",
   "publisher": {
     "name": "Hashtag Web3",
     "url": "https://hashtagweb3.com"
   },
-  "count": 8492,
+  "count": 8485,
   "urls": [
     {
       "url": "https://hashtagweb3.com",
@@ -48220,42 +48220,6 @@
       "priority": 0.8
     },
     {
-      "url": "https://hashtagweb3.com/traders-week",
-      "lastmod": "2026-10-05",
-      "changefreq": "weekly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/traders-week2",
-      "lastmod": "2026-10-06",
-      "changefreq": "weekly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/traders-week3",
-      "lastmod": "2026-10-07",
-      "changefreq": "weekly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/traders-week4",
-      "lastmod": "2026-10-08",
-      "changefreq": "weekly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/traders-week5",
-      "lastmod": "2026-10-09",
-      "changefreq": "weekly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/traders-week6",
-      "lastmod": "2026-10-10",
-      "changefreq": "weekly",
-      "priority": 0.6
-    },
-    {
       "url": "https://hashtagweb3.com/tradfi-chain",
       "lastmod": "2026-10-01",
       "changefreq": "weekly",
@@ -48266,12 +48230,6 @@
       "lastmod": "2026-04-03",
       "changefreq": "daily",
       "priority": 0.8
-    },
-    {
-      "url": "https://hashtagweb3.com/trading-tournament",
-      "lastmod": "2026-10-08",
-      "changefreq": "weekly",
-      "priority": 0.6
     },
     {
       "url": "https://hashtagweb3.com/traditional",

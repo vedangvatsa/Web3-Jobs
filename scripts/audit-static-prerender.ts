@@ -61,7 +61,7 @@ async function main(): Promise<void> {
   // Fix: catchAllSlugs already include leading path without duplicate
   preRenderedPaths.clear();
   for (const s of catchAllSlugs) preRenderedPaths.add(`/${s}`);
-  // /learn/[category] has no generateStaticParams — not build-pre-rendered
+  for (const p of learnCategoryPaths) preRenderedPaths.add(p);
   for (const p of learnLessonPaths) preRenderedPaths.add(p);
   for (const p of glossaryCategoryPaths) preRenderedPaths.add(p);
   for (const p of popupDetailPaths) preRenderedPaths.add(p);
@@ -118,9 +118,6 @@ async function main(): Promise<void> {
     if (!sitemapPaths.has(p) && p !== '/') preRenderedNotInSitemap.push(p);
   }
 
-  // On-demand dynamic HTML routes (not in sitemap, may still be hit)
-  const learnCategoriesOnDemand = [...learnCategoryPaths].filter((p) => !preRenderedPaths.has(p));
-
   console.log('=== Static pre-render audit (App Router HTML pages) ===\n');
   console.log(`Sitemap URLs (HTML):        ${sitemapPaths.size}`);
   console.log(`Pre-render param paths:     ${preRenderedPaths.size}`);
@@ -142,7 +139,6 @@ async function main(): Promise<void> {
 
   console.log('');
   console.log('--- Routes that render on demand (no generateStaticParams) ---');
-  console.log('/learn/[category]:          on-demand ISR (no generateStaticParams)');
   console.log('/jobs/[slug]:               on-demand redirect (legacy URLs only)');
   console.log('/popups/[slug]:             pre-rendered for known slugs; dynamicParams=true allows extras');
   console.log('');
@@ -150,9 +146,6 @@ async function main(): Promise<void> {
   console.log('API / feeds / XML route handlers: 11 route.ts files (expected dynamic)');
   console.log('  /api/email/unsubscribe: force-dynamic');
   console.log('  job/event XML + JSON feeds: revalidate ISR');
-
-  // Learn category: we ADDED generateStaticParams - they're in glossaryCategoryPaths style - learnCategoryPaths IS in preRenderedPaths
-  // Wait - learn category IS in preRenderedPaths via learnCategoryPaths loop
 
   // Double-check learn categories in sitemap
   const learnCatInSitemap = [...sitemapPaths].filter(
@@ -168,7 +161,9 @@ async function main(): Promise<void> {
   const learnLessonsMissing = learnLessonsInSitemap.filter((p) => !preRenderedPaths.has(p));
   console.log(`Learn lesson pages in sitemap: ${learnLessonsInSitemap.length}, missing from static set: ${learnLessonsMissing.length}`);
 
-  const glossaryCatInSitemap = [...sitemapPaths].filter((p) => p.startsWith('/glossary/') && p.split('/').length === 3);
+  const glossaryCatInSitemap = [...sitemapPaths].filter(
+    (p) => p.startsWith('/glossary/') && p.split('/').filter(Boolean).length === 2,
+  );
   const glossaryCatMissing = glossaryCatInSitemap.filter((p) => !preRenderedPaths.has(p));
   console.log(`Glossary category in sitemap: ${glossaryCatInSitemap.length}, missing: ${glossaryCatMissing.length}`);
 
