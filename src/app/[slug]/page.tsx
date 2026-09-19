@@ -42,11 +42,11 @@ import { getEventBySlug, getEvents, getRelatedEvents } from '@/lib/events-server
 import { Button } from '@/components/ui/button';
 import { Calendar, MapPin, ExternalLink, ArrowLeft, ArrowRight } from 'lucide-react';
 import {
-  buildSynthesizedJobContent,
   buildUniqueJobMetaDescription,
+  buildJobDetailContentHtml,
+  jobPageShouldIndex,
   getAllJobsWithSlugs,
   getJobBySlug,
-  hasSubstantialJobContent,
   resolveJobSlug,
 } from '@/lib/job-guides';
 import { ensureDescriptionShardLoaded } from '@/lib/job-description-shard-loader';
@@ -301,6 +301,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
     const jobMeta = jobResolution.job;
     if (jobMeta) {
       await ensureDescriptionShardLoaded(jobMeta);
+      const contentHtml = await buildJobDetailContentHtml(jobMeta);
       const siteUrl = 'https://hashtagweb3.com';
       const canonicalSlug = jobResolution.canonicalSlug || jobMeta.slug || params.slug;
       const canonicalUrl = `${siteUrl}/${canonicalSlug}`;
@@ -310,7 +311,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
         { ...jobMeta, slug: canonicalSlug },
         siteUrl,
       );
-      const hasVerifiedContent = hasSubstantialJobContent(jobMeta);
+      const hasVerifiedContent = await jobPageShouldIndex(jobMeta, contentHtml);
       return {
         title,
         description,
@@ -407,11 +408,11 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     }
     const siteUrl = 'https://hashtagweb3.com';
     const companySlug = getCompanySlug(job.company);
-    const [, company] = await Promise.all([
+    const [, company, contentHtml] = await Promise.all([
       ensureDescriptionShardLoaded(job),
       getCompanyBySlug(companySlug),
+      buildJobDetailContentHtml(job),
     ]);
-    const contentHtml = buildSynthesizedJobContent(job);
     const rawLogoFile = resolveCompanyLogo(companySlug);
     const rawFavicon = getCompanyFaviconUrl(company?.website) ?? getCompanyFaviconUrlBySlug(companySlug);
     const preferFavicon = FAVICON_FIRST_SLUGS.has(companySlug) && !!rawFavicon;
