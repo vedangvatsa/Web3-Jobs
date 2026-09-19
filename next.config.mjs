@@ -263,7 +263,7 @@ const nextConfig = {
         ],
       },
       {
-        source: '/jobs-by-slug/:path*',
+        source: '/job-shards/:path*',
         headers: [
           {
             key: 'Cache-Control',
