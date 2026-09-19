@@ -112,13 +112,27 @@ export function isGenericJobTemplateHtml(html: string): boolean {
   );
 }
 
+function applyJobDescriptionProseClasses(html: string): string {
+  return html
+    .replace(/<h3(?![^>]*\bclass=)/gi, '<h3 class="text-lg font-bold tracking-tight text-foreground mt-6"')
+    .replace(/<h4(?![^>]*\bclass=)/gi, '<h4 class="text-base font-semibold text-foreground mt-4"')
+    .replace(/<p(?![^>]*\bclass=)/gi, '<p class="text-muted-foreground leading-relaxed"')
+    .replace(/<ul(?![^>]*\bclass=)/gi, '<ul class="list-disc pl-5 space-y-2 my-4 text-muted-foreground"')
+    .replace(/<li(?![^>]*\bclass=)/gi, '<li class="leading-relaxed"');
+}
+
+/** Plain employer text when block extraction fails — never inject unstyled ATS HTML. */
 function renderEmployerDescriptionFallback(job: Job, raw: string): string {
+  const formatted = formatJobContent(raw);
+  const formattedPlain = plainTextFromHtml(formatted);
+  if (formattedPlain.length >= 80) {
+    return cleanPublishHtml(applyJobDescriptionProseClasses(formatted));
+  }
+
   const sanitized = sanitizeJobDescriptionHtml(raw, job.company);
   const plain = plainTextFromHtml(sanitized);
   if (plain.length < 80) return buildUniqueJobPageContent(job, raw);
-  if (sanitized.includes('<p') || sanitized.includes('<li') || sanitized.includes('<h')) {
-    return cleanPublishHtml(`<div class="space-y-6">${sanitized}</div>`);
-  }
+
   const paragraphs = plain.split(/\n{2,}/).map((p) => p.trim()).filter(Boolean);
   let html = '<div class="space-y-6">';
   for (const paragraph of paragraphs.length > 0 ? paragraphs : [plain]) {
@@ -319,15 +333,15 @@ function spinJobPostingBlock(text: string, type: 'h3' | 'h4' | 'p' | 'li', isAbo
 export function buildSynthesizedJobContent(job: Job, rawContentOverride?: string): string {
   const raw = rawContentOverride || getCachedRawContent(job);
   if (raw && (raw.startsWith('<div class="space-y-6">') || raw.startsWith('<div class="space-y-'))) {
-    return raw;
+    if (isGenericJobTemplateHtml(raw)) return buildUniqueJobPageContent(job);
+    return cleanPublishHtml(applyJobDescriptionProseClasses(raw));
   }
   const plainLen = plainTextFromHtml(raw).length;
   if (!raw || plainLen < 100) return buildUniqueJobPageContent(job);
 
   const blocks = cleanAndExtractBlocks(raw, job);
   if (blocks.length === 0) {
-    if (plainLen >= 100) return renderEmployerDescriptionFallback(job, raw);
-    return buildUniqueJobPageContent(job);
+    return renderEmployerDescriptionFallback(job, raw);
   }
 
   const location = cleanJobLocation(job.location) || 'the employer-specified location';
@@ -477,11 +491,11 @@ export function buildSynthesizedJobContent(job: Job, rawContentOverride?: string
   html = html.replace(/<\/ul>\s*<ul[^>]*>/g, '');
   const cleanedHtml = cleanPublishHtml(html.replace(/#{2,}HEADING###/g, ''));
   const visibleText = plainTextFromHtml(cleanedHtml);
-  if (visibleText.length < 350 || blocks.length < 3) {
-    if (plainLen >= 100) return renderEmployerDescriptionFallback(job, raw);
-    return buildUniqueJobPageContent(job, raw);
-  }
-  return cleanedHtml;
+  const minVisibleChars = 180;
+  if (visibleText.length >= minVisibleChars) return cleanedHtml;
+  if (visibleText.length >= 100 && blocks.length >= 2) return cleanedHtml;
+  if (plainLen >= 100) return renderEmployerDescriptionFallback(job, raw);
+  return buildUniqueJobPageContent(job, raw);
 }
 
 export function buildUniqueJobPageContent(job: Job, employerHtml = ''): string {
@@ -1503,7 +1517,7 @@ function formatJobContent(originalHtml: string): string {
     if (block.type === 'li') {
       text = text.replace(/^[-*•·▪–—]\s+/, '');
       if (!currentListOpen) {
-        html += '<ul class="list-disc pl-5 space-y-2 my-4">';
+        html += '<ul class="list-disc pl-5 space-y-2 my-4 text-muted-foreground">';
         currentListOpen = true;
       }
 
@@ -1521,11 +1535,11 @@ function formatJobContent(originalHtml: string): string {
       }
       
       if (block.type === 'h3') {
-        html += `<h3>${text}</h3>`;
+        html += `<h3 class="text-lg font-bold tracking-tight text-foreground mt-6">${text}</h3>`;
       } else if (block.type === 'h4') {
-        html += `<h4>${text}</h4>`;
+        html += `<h4 class="text-base font-semibold text-foreground mt-4">${text}</h4>`;
       } else {
-        html += `<p>${text}</p>`;
+        html += `<p class="text-muted-foreground leading-relaxed">${text}</p>`;
       }
     }
   }
