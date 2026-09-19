@@ -75,4 +75,44 @@ assert.ok(
   'intro paragraphs should land in About the event',
 );
 
-console.log('Event page quality tests passed.');
+// Verify that thin listing descriptions are elevated to rich editorial guides
+async function runAudits() {
+  const { resolveEventGuide } = await import('../src/lib/event-guide-store');
+  const cryptoBloGuide = await resolveEventGuide(cryptoBlo);
+  assert.ok(cryptoBloGuide.sections.length >= 4, 'crypto-blo should have at least 4 synthesized sections');
+  const cryptoBloText = (cryptoBloGuide.summaryLead || '') + ' ' + cryptoBloGuide.sections.map(s => s.heading + ' ' + s.content.join(' ')).join(' ');
+  assert.ok(cryptoBloText.length >= 600, `crypto-blo text length (${cryptoBloText.length}) should be >= 600`);
+
+  const kbwGuide = await resolveEventGuide(kbwSide);
+  assert.ok(kbwGuide.sections.length >= 4, 'kbwSide should have at least 4 synthesized sections');
+  const kbwText = (kbwGuide.summaryLead || '') + ' ' + kbwGuide.sections.map(s => s.heading + ' ' + s.content.join(' ')).join(' ');
+  assert.ok(kbwText.length >= 600, `kbwSide text length (${kbwText.length}) should be >= 600`);
+
+  // Audit all events in events-runtime.json
+  const { default: runtimeEvents } = await import('../content/events-runtime.json');
+  let thinCount = 0;
+  for (const ev of runtimeEvents as Web3Event[]) {
+    const guide = await resolveEventGuide(ev);
+    const text = (guide.summaryLead || '') + ' ' + (guide.sections || []).map(s => s.heading + ' ' + s.content.join(' ')).join(' ');
+    if (text.length < 500) {
+      thinCount++;
+    }
+    assert.ok(
+      guide.sections && guide.sections.length >= 1,
+      `Event ${ev.slug || ev.id} has no sections`,
+    );
+    assert.ok(
+      text.length >= 600,
+      `Event ${ev.slug || ev.id} has thin content (${text.length} chars)`,
+    );
+  }
+  assert.equal(thinCount, 0, 'No event should have thin content (<500 chars)');
+
+  console.log(`Event page quality tests passed across all ${runtimeEvents.length} events (0 thin pages).`);
+}
+
+runAudits().catch((err) => {
+  console.error(err);
+  process.exit(1);
+});
+

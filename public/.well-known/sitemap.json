@@ -2,12 +2,12 @@
   "$schema": "https://schema.org/sitemap",
   "name": "Hashtag Web3",
   "url": "https://hashtagweb3.com",
-  "generatedAt": "2026-09-19T01:28:24.697Z",
+  "generatedAt": "2026-09-19T08:17:37.688Z",
   "publisher": {
     "name": "Hashtag Web3",
     "url": "https://hashtagweb3.com"
   },
-  "count": 8494,
+  "count": 8493,
   "urls": [
     {
       "url": "https://hashtagweb3.com",
@@ -6272,12 +6272,6 @@
       "lastmod": "2026-09-15",
       "changefreq": "daily",
       "priority": 0.8
-    },
-    {
-      "url": "https://hashtagweb3.com/cmpn",
-      "lastmod": "2026-09-19",
-      "changefreq": "weekly",
-      "priority": 0.6
     },
     {
       "url": "https://hashtagweb3.com/cmsl",
