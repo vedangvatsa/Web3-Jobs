@@ -599,6 +599,9 @@
   "https://hashtagweb3.com/bastion-charter?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/solana-slots?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://www.coindesk.com/policy/2026/09/18/ecb-president-christine-lagarde-intervened-to-block-binance-s-eu-mica-license-wsj",
+  "https://cointelegraph.com/news/banks-double-eu-mica-crypto-register-esma?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "https://www.theblock.co/news/regulation/2026-09-20-polymarket-faced-10-million-fraud-attempt-as-its-ceo-pushed-growth-over-compliance-concerns-wsj-415875",
+  "https://decrypt.co/378697/visa-close-meme-coin-credit-card-rewards-loophole",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -1703,6 +1706,12 @@
   "Solana Cuts Slot Time to 250 Milliseconds in Third Speed Step",
   "European Central Bank President Blocked Binance License",
   "ECB President Christine Lagarde intervened to block Binance’s EU MiCA license: WSJ",
+  "Banks make up quarter of European crypto service providers",
+  "Banks double on EU MiCA crypto provider list as share hits 23%",
+  "Polymarket Faced $10 Million Fraud Attempt, WSJ Reports",
+  "Polymarket faced $10 million fraud attempt as its CEO pushed growth over compliance concerns: WSJ",
+  "Visa Ends Credit Card Rewards for Meme Coin Purchases",
+  "Visa Moves to Close Meme Coin Credit Card Rewards Loophole",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -1834,5 +1843,8 @@
   "fp:233m|access|action|allow|commission|commodity|connect|derivativ|developer|etf",
   "fp:advisor|alongsid|appointment|approval|bank|bastion|charter|conditional|cover|custody",
   "fp:capacity|comput|cut|down|dur|keep|millisecond|network|per|reduc",
-  "fp:application|bank|binanc|block|central|christin|complet|deem|ecb|european"
+  "fp:application|bank|binanc|block|central|christin|complet|deem|ecb|european",
+  "fp:account|authoriz|bank|doubl|european|financial|firm|for23|hits23|institution",
+  "fp:10m|account|attempt|ceo|complianc|compromis|concern|data|fac|fraud",
+  "fp:card|classify|clos|coin|credit|digital|eligibl|end|follow|loophol"
 ]

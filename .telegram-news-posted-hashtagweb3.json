@@ -578,6 +578,9 @@
   "https://hashtagweb3.com/bastion-charter?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://cointelegraph.com/news/anthropic-tabs-accenture-as-embedded-evaluator-to-help-with-ai-slowdown-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "https://cointelegraph.com/news/rex-launches-2x-leveraged-etf-tied-to-bitcoin-treasury-firm-strive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "https://hashtagweb3.com/fetch-hack?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/xrpl-batch?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://www.theblock.co/news/defi/2026-09-20-zetachain-votes-to-shut-down-layer-1-network-and-move-zeta-to-solana-415878",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -1642,6 +1645,12 @@
   "Anthropic tabs Accenture as embedded evaluator to help with AI slowdown proposal",
   "REX Launches 2x Leveraged ETF for Strive Shares",
   "REX launches 2x leveraged ETF tied to Bitcoin treasury firm Strive",
+  "Attacker Exploits Fetch.ai and NuNet for $2 Million",
+  "Same Attacker Drained Fetch.ai Converter and Minted NuNet Tokens in $2M Exploit",
+  "XRP Ledger Nears Batch Payments Upgrade",
+  "XRP Ledger Nears Activation of Batch Payments Upgrade",
+  "ZetaChain votes to close network and migrate to Solana",
+  "ZetaChain votes to shut down Layer 1 network and move ZETA to Solana",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -1770,5 +1779,8 @@
   "fp:back|bank|caus|chij|concern|control|cryptocurrency|der|due|grow",
   "fp:advisor|approval|bank|bastion|charter|conditional|cover|custody|director|four",
   "fp:accentur|additional|agreement|allow|anthropic|com|embedd|evaluation|evaluator|exclusiv",
-  "fp:assx|daily|doubl|etf|exposur|firm|fund|leverag|provid|rex"
+  "fp:assx|daily|doubl|etf|exposur|firm|fund|leverag|provid|rex",
+  "fp:attacker|converter|digital|drain|exploit|fet|fetch|firm|link|mint",
+  "fp:activation|allow|batch|bundl|eight|ledger|near|payment|september29|singl",
+  "fp:anuma|application|clos|down|final|focus|layer1|migrat|mov|network"
 ]
