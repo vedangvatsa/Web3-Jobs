@@ -13,7 +13,9 @@ let eventsLoad: Promise<EventsIndex> | null = null;
 async function ensureEventsIndex(): Promise<EventsIndex> {
   if (eventsIndex) return eventsIndex;
   if (!eventsLoad) {
-    eventsLoad = loadStaticJson<Web3Event[]>('events-runtime.json').then((allEventsList) => {
+    eventsLoad = loadStaticJson<Web3Event[]>('events-runtime.json', value => Array.isArray(value) && value.every((event: unknown) =>
+      !!event && typeof event === 'object' && 'id' in event && typeof event.id === 'string' && 'name' in event && typeof event.name === 'string'
+    )).then((allEventsList) => {
       const list = Array.isArray(allEventsList) ? allEventsList : [];
       const bySlug = new Map<string, Web3Event>();
       for (const event of list) {
@@ -27,7 +29,7 @@ async function ensureEventsIndex(): Promise<EventsIndex> {
       }
       eventsIndex = { list, bySlug };
       return eventsIndex;
-    });
+    }).finally(() => { eventsLoad = null; });
   }
   return eventsLoad;
 }
@@ -49,7 +51,7 @@ export async function getEventBySlug(slug: string): Promise<Web3Event | null> {
   };
   const aliased = LEGACY_SLUG_ALIASES[normalized];
   if (aliased) {
-    const found = bySlug.get(aliased) || list.find((e) => e.id === WASET_ICBT_SERIES_ID);
+    const found = bySlug.get(aliased) || (aliased === 'waset-icbt' ? list.find((e) => e.id === WASET_ICBT_SERIES_ID) : undefined);
     if (found) return found;
   }
 

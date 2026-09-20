@@ -7,7 +7,7 @@ let jobsLoad: Promise<Job[]> | null = null;
 export async function getJobs(): Promise<Job[]> {
   if (jobsCache) return jobsCache;
   if (!jobsLoad) {
-    jobsLoad = loadStaticJson<Job[]>('jobs-runtime.json')
+    jobsLoad = loadStaticJson<Job[]>('jobs-runtime.json', Array.isArray)
       .then((runtime) => {
         if (!Array.isArray(runtime)) throw new Error('Invalid jobs runtime catalog');
         jobsCache = runtime.filter(job => job.active !== false);

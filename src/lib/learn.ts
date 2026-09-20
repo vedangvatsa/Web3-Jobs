@@ -74,6 +74,7 @@ export function getAdjacentLessons(categorySlug: string, lessonSlug: string): {
 } {
  const lessons = getLessons(categorySlug);
  const idx = lessons.findIndex(l => l.slug === lessonSlug);
+ if (idx === -1) return { prev: null, next: null };
  return {
   prev: idx > 0 ? lessons[idx - 1] : null,
   next: idx < lessons.length - 1 ? lessons[idx + 1] : null,

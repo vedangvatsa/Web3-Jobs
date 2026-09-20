@@ -347,26 +347,26 @@ function isNewsItem(value: unknown): value is NewsItem {
 let newsSnapshotCache: NewsItem[] | null = null;
 let newsSnapshotLoad: Promise<NewsItem[]> | null = null;
 
+function isNewsSnapshot(value: unknown): value is { generatedAt: string; items: NewsItem[] } {
+  if (!value || typeof value !== 'object') return false;
+  const snapshot = value as { generatedAt?: unknown; items?: unknown };
+  return typeof snapshot.generatedAt === 'string' && Number.isFinite(Date.parse(snapshot.generatedAt))
+    && Array.isArray(snapshot.items) && snapshot.items.every(isNewsItem);
+}
+
+export function parseNewsSnapshot(value: unknown): NewsItem[] {
+  return isNewsSnapshot(value) ? value.items.filter(item => !isExcludedNewsItem(item)) : [];
+}
+
 async function loadNewsSnapshot(): Promise<NewsItem[]> {
   if (newsSnapshotCache) return newsSnapshotCache;
   if (!newsSnapshotLoad) {
-    newsSnapshotLoad = loadStaticJson<{ generatedAt?: unknown; items?: unknown }>('news-cache.json')
+    newsSnapshotLoad = loadStaticJson<{ generatedAt: string; items: NewsItem[] }>('news-cache.json', isNewsSnapshot)
       .then((snapshot) => {
-        if (typeof snapshot.generatedAt !== 'string' || Number.isNaN(Date.parse(snapshot.generatedAt))) {
-          newsSnapshotCache = [];
-          return newsSnapshotCache;
-        }
-        if (!Array.isArray(snapshot.items) || !snapshot.items.every(isNewsItem)) {
-          newsSnapshotCache = [];
-          return newsSnapshotCache;
-        }
-        newsSnapshotCache = snapshot.items.filter((item) => !isExcludedNewsItem(item));
+        newsSnapshotCache = parseNewsSnapshot(snapshot);
         return newsSnapshotCache;
       })
-      .catch(() => {
-        newsSnapshotCache = [];
-        return newsSnapshotCache;
-      });
+      .finally(() => { newsSnapshotLoad = null; });
   }
   return newsSnapshotLoad;
 }
@@ -382,7 +382,12 @@ export async function getNewsFeed(): Promise<NewsItem[]> {
     return newsCache.items;
   }
 
-  const items = await loadNewsSnapshot();
-  newsCache = { timestamp: now, items };
-  return items;
+  try {
+    const items = await loadNewsSnapshot();
+    newsCache = { timestamp: now, items };
+    return items;
+  } catch (error) {
+    console.error('[news] Snapshot unavailable:', error);
+    return [];
+  }
 }

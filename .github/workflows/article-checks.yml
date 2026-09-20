@@ -75,7 +75,7 @@ jobs:
         run: npm run typecheck
 
       - name: Job and event formatting regression tests
-        run: npm run test:jobs-catalog && npm run test:detail-formatting
+        run: npm run test:catalog-recovery && npm run test:jobs-catalog && npm run test:detail-formatting
 
       - name: Validate company job associations
         run: npx tsx scripts/precompute-companies-runtime.ts && npx tsx scripts/generate-slug-types.ts && npm run test:company-jobs

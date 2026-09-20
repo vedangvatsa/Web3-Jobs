@@ -4,6 +4,7 @@ import path from 'path';
 const SITE_ORIGIN = process.env.NEXT_PUBLIC_SITE_URL?.replace(/\/$/, '') || 'https://hashtagweb3.com';
 
 const jsonCache = new Map<string, unknown>();
+const jsonLoads = new Map<string, Promise<unknown>>();
 
 function readLocalDataFile(filename: string): unknown | null {
   try {
@@ -47,21 +48,25 @@ export async function fetchSiteAsset(relativePath: string, init?: RequestInit): 
 }
 
 /** Load large JSON from static /data assets (not bundled in the Worker). */
-export async function loadStaticJson<T>(filename: string): Promise<T> {
+export async function loadStaticJson<T>(filename: string, validate?: (value: unknown) => boolean): Promise<T> {
   const cached = jsonCache.get(filename);
-  if (cached !== undefined) return cached as T;
-
-  const local = readLocalDataFile(filename);
-  if (local !== null) {
-    jsonCache.set(filename, local);
-    return local as T;
+  if (cached !== undefined) {
+    if (!validate || validate(cached)) return cached as T;
+    jsonCache.delete(filename);
   }
-
-  const res = await fetchSiteAsset(`/data/${filename}`);
-  if (!res.ok) {
-    throw new Error(`[loadStaticJson] ${filename}: HTTP ${res.status}`);
+  let pending = jsonLoads.get(filename);
+  if (!pending) {
+    pending = Promise.resolve().then(async () => {
+      const local = readLocalDataFile(filename);
+      if (local !== null) return local;
+      const res = await fetchSiteAsset(`/data/${filename}`);
+      if (!res.ok) throw new Error(`[loadStaticJson] ${filename}: HTTP ${res.status}`);
+      return res.json() as Promise<unknown>;
+    }).finally(() => { jsonLoads.delete(filename); });
+    jsonLoads.set(filename, pending);
   }
-  const data = (await res.json()) as T;
+  const data = await pending;
+  if (validate && !validate(data)) throw new Error(`[loadStaticJson] ${filename}: invalid catalog`);
   jsonCache.set(filename, data);
-  return data;
+  return data as T;
 }

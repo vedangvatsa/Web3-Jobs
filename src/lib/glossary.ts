@@ -13,7 +13,9 @@ let glossaryLoad: Promise<GlossaryIndex> | null = null;
 async function ensureGlossaryIndex(): Promise<GlossaryIndex> {
   if (glossaryIndex) return glossaryIndex;
   if (!glossaryLoad) {
-    glossaryLoad = loadStaticJson<GlossaryTerm[]>('glossary-runtime.json').then((raw) => {
+    glossaryLoad = loadStaticJson<GlossaryTerm[]>('glossary-runtime.json', value => Array.isArray(value) && value.every((term: unknown) =>
+      !!term && typeof term === 'object' && 'slug' in term && typeof term.slug === 'string' && 'term' in term && typeof term.term === 'string'
+    )).then((raw) => {
       const allTermsList = Array.isArray(raw) ? raw : [];
       const termBySlugMap = new Map<string, GlossaryTerm>();
       for (const term of allTermsList) {
@@ -21,7 +23,7 @@ async function ensureGlossaryIndex(): Promise<GlossaryIndex> {
       }
       glossaryIndex = { allTermsList, termBySlugMap };
       return glossaryIndex;
-    });
+    }).finally(() => { glossaryLoad = null; });
   }
   return glossaryLoad;
 }
