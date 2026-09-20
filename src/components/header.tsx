@@ -12,8 +12,7 @@ import {
   DropdownMenuSeparator,
 } from '@/components/ui/dropdown-menu';
 import { MobileNav } from './mobile-nav';
-import { PostJobNavCta } from './post-job-nav-cta';
-import { PostEventNavCta } from './post-event-nav-cta';
+import { PostNavCta } from './post-nav-cta';
 import {
   MAIN_NAV_LINKS,
   SITELINK_NAVIGATION_ITEMS,
@@ -44,35 +43,35 @@ export function Header() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(navigationSchema) }}
       />
-      <div className="mx-auto w-full max-w-6xl flex h-14 items-center justify-between px-4">
-        <Link href="/" className="flex items-center gap-2" aria-label="Hashtag Web3 Homepage">
+      <div className="site-container flex h-14 items-center justify-between gap-2 lg:grid lg:grid-cols-[minmax(0,1fr)_auto_minmax(0,1fr)] lg:gap-6">
+        <Link href="/" className="flex min-h-11 shrink-0 items-center justify-self-start rounded-sm focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2" aria-label="Hashtag Web3 Homepage">
           <Image
             src="/logo/HashtagWeb3.png"
             alt="Hashtag Web3 Logo"
-            width={140}
-            height={24}
-            className="h-6 w-auto"
+            width={144}
+            height={48}
+            className="h-6 w-[72px] object-contain dark:invert"
             priority
           />
         </Link>
 
         <nav
-          className="hidden lg:flex items-center gap-6 text-sm font-medium"
+          className="hidden items-center justify-self-center gap-6 whitespace-nowrap text-sm font-medium lg:flex"
           aria-label="Main Navigation"
         >
           {MAIN_NAV_LINKS.map((link) => (
             <Link
               key={link.label}
               href={link.href}
-              className="text-muted-foreground transition-colors hover:text-foreground"
+              className="inline-flex min-h-11 items-center rounded-sm text-muted-foreground transition-colors hover:text-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2"
             >
               {link.label}
             </Link>
           ))}
 
-          <DropdownMenu>
+          <DropdownMenu modal={false}>
             <DropdownMenuTrigger
-              className="flex items-center gap-1 text-muted-foreground transition-colors hover:text-foreground text-sm font-medium focus:outline-none"
+              className="flex min-h-11 items-center gap-1 rounded-sm text-sm font-medium text-muted-foreground transition-colors hover:text-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2"
               aria-label="Toggle resources menu"
             >
               Resources <ChevronDown className="h-4 w-4" />
@@ -121,9 +120,10 @@ export function Header() {
           </DropdownMenu>
         </nav>
 
-        <div className="flex items-center gap-3">
-           <PostJobNavCta />
-           <PostEventNavCta />
+        <div className="flex shrink-0 items-center justify-end justify-self-end gap-2">
+          <div className="h-11 w-32 shrink-0" data-header-action-slot>
+            <PostNavCta />
+          </div>
           <div className="lg:hidden">
             <MobileNav />
           </div>

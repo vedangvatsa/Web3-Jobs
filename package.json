@@ -92,7 +92,9 @@
     "check:logos": "node scripts/check-logo-case.js",
     "clean:slop": "node scripts/clean-slop.js --apply",
     "ingest:paradigm": "npx tsx scripts/ingest-paradigm.ts",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "test:header-cta": "tsx scripts/test-header-cta.ts",
+    "test:header-browser": "tsx scripts/test-header-navigation.ts"
   },
   "engines": {
     "node": "24.x"

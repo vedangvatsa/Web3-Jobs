@@ -1,7 +1,5 @@
 'use client';
 
-import { useLayoutEffect, useState } from 'react';
-import { usePathname } from 'next/navigation';
 import { Button } from '@/components/ui/button';
 import {
   Sheet,
@@ -21,7 +19,7 @@ import {
   AccordionItem,
   AccordionTrigger,
 } from '@/components/ui/accordion';
-import { trackCTAClick, trackOutboundClick } from '@/lib/posthog';
+import { trackOutboundClick } from '@/lib/posthog';
 import {
   MAIN_NAV_LINKS,
   RESOURCE_LINKS,
@@ -31,72 +29,32 @@ import {
 } from '@/lib/nav-config';
 
 export function MobileNav() {
-  const pathname = usePathname();
-  const isJobsIndex = pathname === '/' || pathname === '/jobs';
-  const isEventsIndex = pathname === '/events';
-  const [isJobDetail, setIsJobDetail] = useState(false);
-  const [isEventDetail, setIsEventDetail] = useState(false);
-
-  useLayoutEffect(() => {
-    setIsJobDetail(!isJobsIndex && document.querySelector('[data-job-page]') !== null);
-    setIsEventDetail(!isEventsIndex && document.querySelector('[data-event-page]') !== null);
-  }, [isEventsIndex, isJobsIndex, pathname]);
-
-  const showPostJobCta = isJobsIndex || isJobDetail;
-  const showPostEventCta = isEventsIndex || isEventDetail;
-
   return (
     <Sheet>
       <SheetTrigger asChild>
-        <Button variant="ghost" size="icon" aria-label="Toggle navigation menu">
-          <Menu className="h-6 w-6" />
-          <span className="sr-only">Toggle navigation menu</span>
+        <Button variant="ghost" size="icon" className="h-11 w-11 flex-col gap-0.5 [&_svg]:size-5" aria-label="Toggle navigation menu">
+          <Menu aria-hidden="true" />
+          <span className="text-[10px] leading-3">Menu</span>
         </Button>
       </SheetTrigger>
-      <SheetContent side="right" className="w-[300px] flex flex-col bg-card p-0">
+      <SheetContent side="right" className="flex w-[min(300px,100vw)] max-w-full flex-col bg-card p-0 [&>button]:right-2 [&>button]:top-2 [&>button]:flex [&>button]:h-11 [&>button]:w-11 [&>button]:items-center [&>button]:justify-center">
         <SheetHeader className="p-4 border-b flex flex-row items-center justify-between space-y-0 pr-12">
           <SheetTitle className="sr-only">Mobile Navigation</SheetTitle>
           <SheetDescription className="sr-only">Hashtag Web3 Navigation Menu</SheetDescription>
           <SheetClose asChild>
-            <Link href="/" className="flex items-center gap-2" aria-label="Hashtag Web3 Homepage">
+            <Link href="/" className="flex min-h-11 items-center rounded-sm focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2" aria-label="Hashtag Web3 Homepage">
               <Image
                 src="/logo/HashtagWeb3.png"
                 alt="Hashtag Web3 Logo"
-                width={120}
-                height={20}
-                className="h-5 w-auto"
+                width={144}
+                height={48}
+                className="h-5 w-[60px] object-contain dark:invert"
               />
             </Link>
           </SheetClose>
         </SheetHeader>
         <nav className="flex-grow flex flex-col p-4 overflow-y-auto">
           <div className="flex-grow space-y-2">
-            {showPostJobCta && (
-              <SheetClose asChild>
-                <a
-                  className="mobile-post-job-nav-cta"
-                  href="https://t.me/web3jobs_rep"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  onClick={() => trackCTAClick('post_a_job', 'https://t.me/web3jobs_rep')}
-                >
-                  <Button className="w-full">Post a Job</Button>
-                </a>
-              </SheetClose>
-            )}
-            {showPostEventCta && (
-              <SheetClose asChild>
-                <a
-                  className="mobile-post-event-nav-cta"
-                  href="https://t.me/web3jobs_rep"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  onClick={() => trackCTAClick('post_an_event', 'https://t.me/web3jobs_rep')}
-                >
-                  <Button className="w-full">Post an Event</Button>
-                </a>
-              </SheetClose>
-            )}
             {MAIN_NAV_LINKS.map((link) => {
               const IconComponent = link.icon;
               return (
@@ -132,7 +90,7 @@ export function MobileNav() {
                             href={link.href}
                             target={link.target}
                             rel={link.target ? 'noopener noreferrer' : undefined}
-                            className="flex items-center gap-3 p-2 rounded-lg text-sm font-medium text-muted-foreground transition-colors hover:bg-accent hover:text-accent-foreground"
+                            className="flex min-h-11 items-center gap-3 p-2 rounded-lg text-sm font-medium text-muted-foreground transition-colors hover:bg-accent hover:text-accent-foreground"
                           >
                             {IconComponent && <IconComponent className="h-4 w-4" />}
                             {link.label}
@@ -149,7 +107,7 @@ export function MobileNav() {
                         <SheetClose key={link.label} asChild>
                           <Link
                             href={link.href}
-                            className="flex items-center gap-3 p-2 rounded-lg text-sm font-medium text-muted-foreground transition-colors hover:bg-accent hover:text-accent-foreground"
+                            className="flex min-h-11 items-center gap-3 p-2 rounded-lg text-sm font-medium text-muted-foreground transition-colors hover:bg-accent hover:text-accent-foreground"
                           >
                             {IconComponent && <IconComponent className="h-4 w-4" />}
                             {link.label}
@@ -166,7 +124,7 @@ export function MobileNav() {
                         <SheetClose key={link.label} asChild>
                           <Link
                             href={link.href}
-                            className="flex items-center gap-3 p-2 rounded-lg text-sm font-medium text-muted-foreground transition-colors hover:bg-accent hover:text-accent-foreground"
+                            className="flex min-h-11 items-center gap-3 p-2 rounded-lg text-sm font-medium text-muted-foreground transition-colors hover:bg-accent hover:text-accent-foreground"
                           >
                             {IconComponent && <IconComponent className="h-4 w-4" />}
                             {link.label}
@@ -181,7 +139,7 @@ export function MobileNav() {
           </div>
         </nav>
         <div className="p-4 border-t bg-secondary/30 mt-auto">
-          <div className="flex items-center justify-center gap-5">
+          <div className="flex flex-wrap items-center justify-center">
             {SOCIAL_LINKS.map((link) => {
               const IconComponent = link.icon;
               return (
@@ -191,7 +149,7 @@ export function MobileNav() {
                   target="_blank"
                   rel="noopener noreferrer"
                   onClick={() => trackOutboundClick(link.href, link.label)}
-                  className="text-muted-foreground transition-colors hover:text-foreground p-1"
+                  className="flex h-11 w-11 items-center justify-center rounded-sm text-muted-foreground transition-colors hover:text-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring"
                   aria-label={link.ariaLabel || link.label}
                 >
                   {IconComponent && <IconComponent className="h-5 w-5" />}

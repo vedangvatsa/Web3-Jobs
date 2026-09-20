@@ -97,7 +97,7 @@ export default function JobsPage() {
               </p>
             </section>
 
-            <article className="site-container">
+            <article>
               <TrustedBy />
               <CommunityFeedBanner label="hiring feed" />
               <JobBoard

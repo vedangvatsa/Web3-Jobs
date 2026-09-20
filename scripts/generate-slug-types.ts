@@ -2,6 +2,7 @@ import * as fs from 'fs';
 import * as path from 'path';
 import type { Web3Event } from '../src/lib/events';
 import type { ResourcePage } from '../src/types/pseo';
+import type { Job } from '../src/types';
 
 const OUT_FILE = path.join(process.cwd(), 'content', 'slug-types.json');
 
@@ -57,6 +58,21 @@ function main() {
     'jungli', 'cabin', 'infinita', 'culdesac', 'afropolitan', 'liberty-island',
   ]);
 
+  const appDir = path.join(process.cwd(), 'src', 'app');
+  const staticPageSlugs = new Set(fs.readdirSync(appDir, { withFileTypes: true })
+    .filter((entry) => entry.isDirectory() && !entry.name.startsWith('[')
+      && fs.existsSync(path.join(appDir, entry.name, 'page.tsx')))
+    .map((entry) => entry.name.toLowerCase()));
+  const jobs: Job[] = JSON.parse(fs.readFileSync(path.join(process.cwd(), 'content/jobs-runtime.json'), 'utf8'));
+  const legacyJobs: Record<string, unknown> = JSON.parse(fs.readFileSync(path.join(process.cwd(), 'content/legacy-slugs-archive.json'), 'utf8'));
+  const legacyJobSlugs = new Set(Object.keys(legacyJobs).map((slug) => slug.toLowerCase().trim()));
+  const jobSlugs = new Set([
+    ...jobs.map((job) => job.slug?.toLowerCase().trim()).filter((slug): slug is string => Boolean(slug)),
+    ...legacyJobSlugs,
+  ].filter((slug) => !staticPageSlugs.has(slug) && !eventSlugs.has(slug)
+    && !companySlugs.has(slug) && !popupSlugs.has(slug)
+    && (legacyJobSlugs.has(slug) || (!glossarySlugs.has(slug) && !resourceSlugs.has(slug) && !articleSlugs.has(slug)))));
+
   const out = {
     events: Array.from(eventSlugs),
     companies: Array.from(companySlugs),
@@ -64,6 +80,8 @@ function main() {
     resources: Array.from(resourceSlugs),
     articles: Array.from(articleSlugs),
     popups: Array.from(popupSlugs),
+    jobs: Array.from(jobSlugs).sort(),
+    staticPages: Array.from(staticPageSlugs).sort(),
   };
 
   fs.writeFileSync(OUT_FILE, JSON.stringify(out));

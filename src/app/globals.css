@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+html {
+  scrollbar-gutter: stable;
+}
+
 @keyframes gradient-animation {
   0% {
     background-position: 0% 50%;
