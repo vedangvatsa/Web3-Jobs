@@ -4,6 +4,8 @@
  * without corrupted attributes, Slack/Greenhouse/Ashby junk data, or bad linebreaks.
  */
 
+import { hasVerbatimText, transformOutsideVerbatim } from './preserve-verbatim';
+
 /** Greenhouse/Coinbase accessibility promo leaked from ATS equal-opportunity footers. */
 export function stripAtsScreenReaderPromo(html: string): string {
   if (!html) return html;
@@ -93,7 +95,13 @@ export function sanitizeHtml(
   options?: { company?: string; forJobDescription?: boolean },
 ): string {
   if (!html || typeof html !== 'string') return '';
+  if (options?.forJobDescription && hasVerbatimText(html)) {
+    return transformOutsideVerbatim(html, part => sanitizeHtmlPart(part, options));
+  }
+  return sanitizeHtmlPart(html, options);
+}
 
+function sanitizeHtmlPart(html: string, options?: { company?: string; forJobDescription?: boolean }): string {
   const company = options?.company;
   let cleaned = decodeEntityEscapedMarkup(html);
   cleaned = stripAtsScreenReaderPromo(cleaned);
@@ -155,8 +163,10 @@ export function sanitizeHtml(
   cleaned = cleaned.replace(/<h2([^>]*)>(.*?)<\/h2>/gi, '<h3$1>$2</h3>');
 
   // 8. Fix mid-sentence line breaks (<br> followed by lowercase letter)
-  cleaned = cleaned.replace(/<br\s*\/?>\s*([a-z0-9,;\.])/g, ' $1');
-  cleaned = cleaned.replace(/([a-z0-9,;])\s*<br\s*\/?>\s*/gi, '$1 ');
+  if (!options?.forJobDescription) {
+    cleaned = cleaned.replace(/<br\s*\/?>\s*([a-z0-9,;\.])/g, ' $1');
+    cleaned = cleaned.replace(/([a-z0-9,;])\s*<br\s*\/?>\s*/gi, '$1 ');
+  }
 
   // 9. Convert pseudo-bullets (* item, - item, • item) inside <p> or separated by <br> into <ul><li>
   cleaned = cleaned.replace(/(?:<p[^>]*>\s*[*•\-]\s+(.*?)<\/p>\s*)+/gi, (match) => {

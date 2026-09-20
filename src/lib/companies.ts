@@ -3,6 +3,7 @@ import { getJobs } from './jobs';
 import { loadStaticJson } from './load-static-json';
 import { COMPANY_RICH_ABOUT } from './company-profiles';
 import { cleanJobLocation } from './job-location';
+import { getCompanySlug } from './job-slugs';
 
 interface CompanyContent {
  website?: string;
@@ -501,7 +502,7 @@ function getSafeProfileWebsite(value: unknown): string | undefined {
  }
 }
 
-type CompanyProfileRow = { website?: string; description?: string };
+export type CompanyProfileRow = { website?: string; description?: string };
 
 interface PrecomputedCompany {
   slug: string;
@@ -514,24 +515,21 @@ interface PrecomputedCompany {
 }
 
 let companyProfilesMap: Record<string, CompanyProfileRow> | null = null;
-let companiesRuntimeMap: Record<string, PrecomputedCompany> | null = null;
+let companiesRuntimeMap: Record<string, Company> | null = null;
 let companiesCatalogLoad: Promise<void> | null = null;
 
 async function ensureCompaniesCatalog(): Promise<void> {
   if (companyProfilesMap && companiesRuntimeMap) return;
   if (!companiesCatalogLoad) {
     companiesCatalogLoad = Promise.all([
-      loadStaticJson<Record<string, PrecomputedCompany>>('companies-runtime.json'),
+      getJobs(),
       loadStaticJson<Record<string, CompanyProfileRow>>('company-profiles-runtime.json'),
     ])
-      .then(([runtime, profiles]) => {
-        companiesRuntimeMap = runtime || {};
-        companyProfilesMap = profiles || {};
+      .then(([jobs, profiles]) => {
+        companyProfilesMap = profiles;
+        companiesRuntimeMap = Object.fromEntries(buildCompaniesFromJobs(jobs, profiles).map(company => [company.slug, company]));
       })
-      .catch(() => {
-        companiesRuntimeMap = {};
-        companyProfilesMap = {};
-      });
+      .finally(() => { companiesCatalogLoad = null; });
   }
   await companiesCatalogLoad;
 }
@@ -552,6 +550,7 @@ async function loadCompanyContent(slug: string): Promise<{ website?: string; des
  */
 function normalizeCompanyName(name: string): string {
   const lower = name.toLowerCase().trim();
+  if (['op labs', 'op-labs', 'oplabs', 'optimism'].includes(lower)) return 'op-labs';
   if (lower.includes('offchain') || lower.includes('arbitrum')) {
     return 'arbitrum';
   }
@@ -636,6 +635,38 @@ function resolveCanonicalCompanyName(normalized: string, originalName: string): 
   return originalName;
 }
 
+export function buildCompaniesFromJobs(jobs: Job[], profiles: Record<string, CompanyProfileRow>): Company[] {
+  const groups = new Map<string, { name: string; jobs: Job[] }>();
+  for (const job of jobs) {
+    if (job.active === false) continue;
+    const normalized = normalizeCompanyName(job.company);
+    const name = resolveCanonicalCompanyName(normalized, job.company);
+    const slug = getCompanySlug(name);
+    const group = groups.get(slug);
+    if (group) group.jobs.push(job);
+    else groups.set(slug, { name, jobs: [job] });
+  }
+  return [...groups.entries()].map(([slug, group]) => {
+    const shortSlug = slug.replace(/-labs$|-foundation$|-crypto$/, '');
+    const profile = profiles[slug] || profiles[shortSlug];
+    const normalized = normalizeCompanyName(group.name);
+    let website = COMPANY_WEBSITE_OVERRIDES[slug] || COMPANY_WEBSITE_OVERRIDES[normalized] || getSafeProfileWebsite(profile?.website) || '';
+    if (!website) {
+      try {
+        const source = new URL(group.jobs[0].link);
+        if (!isAtsHostname(source.hostname)) website = sanitizeCompanyDomain(source);
+      } catch {}
+    }
+    const dates = group.jobs.map(job => job.date).filter(date => Number.isFinite(Date.parse(date))).sort((a, b) => Date.parse(b) - Date.parse(a));
+    return {
+      slug, name: group.name, website,
+      description: COMPANY_RICH_ABOUT[slug] || COMPANY_RICH_ABOUT[shortSlug] || profile?.description || buildListingDescription(group.name, group.jobs),
+      jobCount: group.jobs.length, jobs: group.jobs,
+      lastUpdated: dates[0] || '1970-01-01T00:00:00.000Z',
+    };
+  }).sort((a, b) => b.jobCount - a.jobCount);
+}
+
 /**
  * Extract unique companies from precomputed runtime data
  */
@@ -659,21 +690,10 @@ export async function getCompanies(): Promise<Company[]> {
 export async function getCompanyBySlug(slug: string): Promise<Company | null> {
   await ensureCompaniesCatalog();
   const norm = slug.toLowerCase().trim();
-  const pre = companiesRuntimeMap![norm] || companiesRuntimeMap![norm.replace(/-labs$|-foundation$|-crypto$/, '')];
+  const alias = getCompanySlug(resolveCanonicalCompanyName(normalizeCompanyName(norm.replace(/-/g, ' ')), norm));
+  const pre = companiesRuntimeMap![norm] || companiesRuntimeMap![alias] || companiesRuntimeMap![norm.replace(/-labs$|-foundation$|-crypto$/, '')];
   if (pre) {
-    const jobs = await getJobs();
-    const idSet = new Set(pre.jobIds);
-    const companyJobs = jobs.filter((j) => (j.id && idSet.has(j.id)) || (Boolean(j.slug) && idSet.has(j.slug!)) || idSet.has(j.link));
-
-    return {
-      slug: pre.slug,
-      name: pre.name,
-      website: pre.website,
-      description: pre.description,
-      jobCount: pre.jobCount,
-      lastUpdated: pre.lastUpdated,
-      jobs: companyJobs,
-    };
+    return { ...pre, jobCount: pre.jobs.length };
   }
 
   const content = (await loadCompanyContent(slug)) || (await loadCompanyContent(slug.replace(/-labs$|-foundation$|-crypto$/, '')));

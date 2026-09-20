@@ -144,6 +144,7 @@ export function buildJobsListing(rawJobs: Job[]): Job[] {
   });
 
   const web3Jobs = jobs.filter((job) => {
+    if (job.active === false) return false;
     if (BLOCKED_COMPANIES.has(job.company.toLowerCase())) return false;
     if (BLOCKED_JOB_TITLE.test(job.title)) return false;
     if (!isConcreteJobOpening(job.title, job.link)) return false;

@@ -34,6 +34,11 @@ function main() {
     ? JSON.parse(fs.readFileSync(companyProfilesFile, 'utf-8'))
     : {};
   const companySlugs = new Set<string>(Object.keys(companyProfiles).map((s) => s.toLowerCase().trim()));
+  const companiesRuntimeFile = path.join(process.cwd(), 'content', 'companies-runtime.json');
+  if (fs.existsSync(companiesRuntimeFile)) {
+    const companies = JSON.parse(fs.readFileSync(companiesRuntimeFile, 'utf8')) as Record<string, unknown>;
+    for (const slug of Object.keys(companies)) companySlugs.add(slug.toLowerCase().trim());
+  }
 
   const glossaryDir = path.join(process.cwd(), 'content', 'glossary');
   const glossaryFiles = fs.existsSync(glossaryDir)

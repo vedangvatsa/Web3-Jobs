@@ -12,10 +12,14 @@ let catalogPromise: Promise<Job[]> | null = null;
 
 async function loadJobsCatalog(): Promise<Job[]> {
   if (!catalogPromise) {
-    catalogPromise = fetch('/data/jobs-runtime.json', { cache: 'force-cache' })
-      .then((res) => {
+    catalogPromise = fetch('/data/jobs-runtime.json', { cache: 'no-cache' })
+      .then(async (res) => {
         if (!res.ok) throw new Error(`jobs-runtime HTTP ${res.status}`);
-        return res.json() as Promise<Job[]>;
+        const catalog: unknown = await res.json();
+        if (!Array.isArray(catalog) || catalog.some(job =>
+          !job || typeof job !== 'object' || ['id', 'title', 'company', 'slug'].some(key => typeof job[key] !== 'string')
+        )) throw new Error('Invalid jobs catalog');
+        return catalog as Job[];
       })
       .catch((error) => {
         catalogPromise = null;

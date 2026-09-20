@@ -1,4 +1,9 @@
-name: Refresh Jobs Cache & Post Social
+name: Publish Jobs, Events & Social
+
+# Lightweight 3x/day publisher: news (separate job below), Luma events,
+# social distribution and Telegram posts, committing state back.
+# Heavy jobs ingestion runs once daily in refresh-jobs-ingest.yml (02:30
+# UTC). Publishing uses the most recently completed ingest.
 
 on:
   schedule:
@@ -132,83 +137,6 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Fetch RSS feeds and update cache
-        run: npx tsx scripts/refresh-jobs-cache.ts
-        continue-on-error: true
-
-      - name: Ingest Mercuryo BambooHR jobs
-        run: npx tsx scripts/ingest-mercuryo-bamboo.ts
-        continue-on-error: true
-
-      - name: Ingest Official CoinDCX job openings
-        run: npx tsx scripts/ingest-coindcx-official.ts
-        continue-on-error: true
-
-      - name: Ingest Regional ATS Web3 feeds (Africa, Japan, Singapore, HK)
-        run: npx tsx scripts/ingest-regional-feeds.ts
-        continue-on-error: true
-
-      - name: Ingest Global Ecosystem Web3 ATS feeds (Fireblocks, Gemini, BitGo, Render, Phantom, Uniswap)
-        run: npx tsx scripts/ingest-global-ecosystem-feeds.ts
-        continue-on-error: true
-
-      - name: Ingest Untracked Web3, AI & Security ATS feeds (Cantina, Switchboard, Turnkey, Hyperbolic, Grass, Chainstack, Magic Eden)
-        run: npx tsx scripts/ingest-untracked-web3-companies.ts
-        continue-on-error: true
-
-      - name: Ingest Franklin Templeton Official Jobs
-        run: npx tsx scripts/ingest-franklin-templeton-jobs.ts
-        continue-on-error: true
-
-      - name: Ingest PwC Crypto & Web3 Jobs
-        run: npx tsx scripts/ingest-pwc-jobs.ts
-        continue-on-error: true
-
-      - name: Ingest KuCoin Official MokaHR Jobs
-        run: npx tsx scripts/ingest-kucoin-mokahr-jobs.ts
-        continue-on-error: true
-
-      - name: Ingest Marketnode Official Openings
-        run: npx tsx scripts/ingest-marketnode-xt-jobs.ts
-        continue-on-error: true
-
-      - name: Ingest Revolut Crypto Jobs
-        run: npx tsx scripts/ingest-revolut-crypto-job.ts
-        continue-on-error: true
-
-      - name: Pre-bake job slugs into cache
-        run: node scripts/prebake_slugs.js
-
-      - name: Precompute jobs runtime listing
-        run: npx tsx scripts/precompute-jobs-runtime.ts
-
-      - name: Restore job/company OG PNG cache
-        uses: actions/cache@v4
-        with:
-          path: public/og
-          key: og-cards-${{ hashFiles('content/jobs-runtime.json', 'scripts/precompute-og-images.ts') }}
-          restore-keys: |
-            og-cards-
-
-      - name: Precompute companies runtime (OG company cards)
-        run: npx tsx scripts/precompute-companies-runtime.ts
-        continue-on-error: true
-
-      - name: Precompute missing job/company OG PNGs
-        run: npm run precompute:og-images
-        continue-on-error: true
-
-      - name: Guard job slug uniqueness
-        run: npx tsx scripts/test-job-slug-reserved.ts && npx tsx scripts/check-slug-collisions.ts
-
-      - name: Ensure company logo PNGs for OG cards
-        run: npx tsx scripts/ensure-company-logos.ts
-        continue-on-error: true
-
-      - name: Verify jobs cache integrity
-        run: npx tsx scripts/verify-jobs-integrity.ts
-        continue-on-error: true
-
       - name: Backfill Telegram URL audit log
         run: npx tsx scripts/backfill-telegram-job-url-log.ts
         continue-on-error: true
@@ -226,6 +154,9 @@ jobs:
       - name: Enrich event speakers from official pages
         run: node scripts/enrich-event-speakers.mjs
         continue-on-error: true
+
+      - name: Validate event description formatting before publishing
+        run: npx tsx scripts/test-event-formatting.ts && npx tsx scripts/audit-detail-formatting.ts --events
       # Note: X and Threads postings have been migrated to the dedicated
       # job openings workflow (.github/workflows/post-job-openings-social.yml)
       - name: Post to Bluesky
@@ -320,16 +251,15 @@ jobs:
           # Merge local state files with remote to prevent rebase conflicts
           npx tsx scripts/social/merge-state.ts
 
-          # Jobs cache + description shards are required; fail the step if they cannot be staged.
-          git add content/jobs-cache.json content/jobs-runtime.json content/homepage-jobs.json content/job-description-shards/
-          # Optional state / assets (missing paths must not block the jobs publish).
-          git add content/events/ content/legacy-slugs-archive.json scripts/social/*.json .telegram*.json .resend-broadcast-sent.json public/logo/companies/ 2>/dev/null || true
+          # Events + social/Telegram state only. Jobs cache files are owned
+          # by the daily ingest (refresh-jobs-ingest.yml) — never stage them
+          # here, or intraday runs will fight the morning ingest on rebase.
+          git add content/events/ content/legacy-slugs-archive.json scripts/social/*.json .telegram*.json .resend-broadcast-sent.json 2>/dev/null || true
 
           if git diff --staged --quiet; then
             echo "No changes to commit"
-            git status --short content/jobs-cache.json content/homepage-jobs.json content/job-description-shards/ | head -20
           else
-            git commit -m "chore: refresh jobs cache + social post"
+            git commit -m "chore: publish jobs/events/social state"
             for i in 1 2 3; do
               git pull --rebase origin main || git pull --rebase -X theirs origin main || true
               git push origin main && break

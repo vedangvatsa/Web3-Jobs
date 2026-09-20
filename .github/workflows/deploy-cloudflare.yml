@@ -16,6 +16,10 @@ on:
       - 'package.json'
       - 'package-lock.json'
 
+concurrency:
+  group: cloudflare-deploy
+  cancel-in-progress: false
+
 jobs:
   deploy:
     runs-on: ubuntu-latest

@@ -160,21 +160,15 @@ async function runMiddlewareTests() {
     assert(false, '/api/ path passthrough runtime execution', err?.message || String(err));
   }
 
-  // 6. Test Static Asset Fast 404
-  console.log('\n6. Testing Static Asset Fast 404...');
-  try {
-    const staticReq = new NextRequest('https://hashtagweb3.com/articles-data/taiko-labs.json');
-    const staticRes = middleware(staticReq);
-    assert(
-      staticRes.status === 404,
-      'Missing static asset /articles-data/taiko-labs.json returns status 404'
-    );
-    assert(
-      staticRes.headers.get('content-type')?.includes('application/json') ?? false,
-      'Missing static asset returns application/json header'
-    );
-  } catch (err: any) {
-    assert(false, 'Static asset fast 404 runtime execution', err?.message || String(err));
+  console.log('\n6. Testing static catalog and content asset passthrough...');
+  for (const assetPath of ['/data/jobs-runtime.json', '/data/events-runtime.json', '/job-shards/jobs-00.json', '/job-description-shards/job-descriptions-00.json', '/articles-data/taiko-labs.json', '/data/missing.json']) {
+    for (const userAgent of ['Mozilla/5.0', 'GPTBot/1.0', 'LinkedInBot/1.0']) {
+      const response = middleware(new NextRequest(`https://hashtagweb3.com${assetPath}?mode=agent`, {
+        headers: { 'user-agent': userAgent, accept: 'text/markdown' },
+      }));
+      assert(response.headers.get('x-middleware-next') === '1' && !response.headers.has('x-middleware-rewrite'),
+        `${assetPath} reaches the static handler (${userAgent})`);
+    }
   }
 
   console.log(`\n========================================`);

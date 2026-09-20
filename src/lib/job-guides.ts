@@ -1,5 +1,8 @@
 import type { Job, Company } from '@/types';
 import { getJobs } from './jobs';
+import { repairFlattenedJobParagraphs } from './job-paragraph-formatting';
+import { formatJobStructuredContent } from './job-structured-content';
+import { transformOutsideVerbatim } from './preserve-verbatim';
 import { fetchJobBySlug } from './job-by-slug-record';
 import * as cheerio from 'cheerio';
 import { cleanPublishText, cleanPublishHtml } from './noslop';
@@ -341,7 +344,7 @@ export function buildSynthesizedJobContent(job: Job, rawContentOverride?: string
   const raw = rawContentOverride || getCachedRawContent(job);
   if (raw && (raw.startsWith('<div class="space-y-6">') || raw.startsWith('<div class="space-y-'))) {
     if (isGenericJobTemplateHtml(raw)) return buildJobContentFallbackHtml(job);
-    return cleanPublishHtml(applyJobDescriptionProseClasses(raw));
+    return repairFlattenedJobParagraphs(cleanPublishHtml(applyJobDescriptionProseClasses(raw)));
   }
   const plainLen = plainTextFromHtml(raw).length;
   if (!raw || plainLen < 100) return buildJobContentFallbackHtml(job);
@@ -404,6 +407,13 @@ export function buildSynthesizedJobContent(job: Job, rawContentOverride?: string
   };
 
   for (const block of blocks) {
+    if (block.type === 'html') {
+      flushList();
+      dropTrailPendingHeading();
+      emitPendingHeading();
+      html += block.text;
+      continue;
+    }
     if (block.type === 'h3' || block.type === 'h4') {
       flushList();
       dropTrailPendingHeading();
@@ -519,7 +529,7 @@ export function buildSynthesizedJobContent(job: Job, rawContentOverride?: string
   // Fuse back-to-back lists (e.g. after a duplicate-heading merge) so one
   // section renders as one continuous bullet list, not two stacked ones.
   html = html.replace(/<\/ul>\s*<ul[^>]*>/g, '');
-  const cleanedHtml = cleanPublishHtml(html.replace(/#{2,}HEADING###/g, ''));
+  const cleanedHtml = repairFlattenedJobParagraphs(cleanPublishHtml(html.replace(/#{2,}HEADING###/g, '')));
   const visibleText = plainTextFromHtml(cleanedHtml);
   const minVisibleChars = 180;
   if (visibleText.length >= minVisibleChars) return cleanedHtml;
@@ -869,15 +879,27 @@ export async function getAllJobsWithSlugs(): Promise<{ job: Job; slug: string }[
 /**
  * Clean up HTML tags and extract structured block elements using Cheerio.
  */
-function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'h4' | 'p' | 'li'; text: string }> {
-  let decoded = decodeEntityEscapedMarkup(html)
-    .replace(/&nbsp;/g, ' ');
+function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'h4' | 'p' | 'li' | 'html'; text: string }> {
+  const decoded = transformOutsideVerbatim(transformOutsideVerbatim(html, decodeEntityEscapedMarkup), prepareJobBlockMarkup);
+  let $ = cheerio.load(decoded);
+
+  // If a scoped job description container exists (e.g. Ripple / custom ATS wrapper dumps), focus on it
+  if ($('.single-job-content').length > 0) {
+    const sub = $('.single-job-content').html();
+    if (sub) $ = cheerio.load(sub);
+  }
+
+  return extractJobBlocks($, html, job);
+}
+
+function prepareJobBlockMarkup(html: string): string {
+  let decoded = html.replace(/&nbsp;/g, ' ');
 
   // Normalize non-breaking hyphens (\u2010, \u2011, \u2012)
   decoded = decoded.replace(/[\u2010\u2011\u2012]/g, '-');
 
   // Pre-split markdown headings: "## Heading", "### Heading", "<p>## Heading</p>"
-  decoded = decoded.replace(/(?:<p>|<br\s*\/?>|\n|^)\s*#{2,4}\s+([^<\n]+?)(?:<\/p>|\n|$)/gi, '\n\n###HEADING###$1\n');
+  decoded = decoded.replace(/(?:<p>|<br\s*\/?>|\n|^)\s*#{1,6}\s+([^<\n]+?)(?:<\/p>|\n|$)/gi, '\n\n###HEADING###$1\n');
 
   // Strip trailing dash after period before line/tag break
   decoded = decoded.replace(/\.\s*[-–—\u2010-\u2015]\s*(?=<\/p>|\n|$)/g, '.');
@@ -918,19 +940,23 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'h
   decoded = decoded.replace(/:\s*[-*•·▪–—\u2010-\u2015]\s+([A-Z0-9])/g, ':\n- $1');
   decoded = decoded.replace(/([;\.\?!:])\s*\*\s+([A-Z0-9])/g, '$1\n- $2');
 
-  let $ = cheerio.load(decoded);
+  return decoded;
+}
 
-  // If a scoped job description container exists (e.g. Ripple / custom ATS wrapper dumps), focus on it
-  if ($('.single-job-content').length > 0) {
-    const sub = $('.single-job-content').html();
-    if (sub) $ = cheerio.load(sub);
-  }
-
+function extractJobBlocks($: cheerio.CheerioAPI, html: string, job?: Job): Array<{ type: 'h3' | 'h4' | 'p' | 'li' | 'html'; text: string }> {
   // Remove non-content tags and navigation / apply button boilerplate
   $('script, style, iframe, noscript, svg, button, form, input, select, nav, footer, header, .navbar, .logo, .role-back, .apply-row, .role-meta, .job-details-content__sidebar, .job-details-content__apply-section, .share-links, .fb-xfbml-parse-ignore, [class*="share-button"], [class*="social-share"], [class*="sharethis"], [class*="addthis"], #apply, .h-header, .h-header-content, .h-header-menu, .custom-footer, .custom-footer-social-link, .boards-cookie-banner, .hosted-job-header, .hosted-job-office-locations, .hosted-job-preheader, [data-component="pf-popover"], [data-controller*="clipboard"], .credit, .sr-only, .visually-hidden').remove();
 
-  // Convert <br> and <hr> tags to newlines before text extraction
-  $('br, hr').replaceWith('\n');
+  const structures: string[] = [];
+  const structureNodes = $('table, pre, blockquote, ol, ul').toArray()
+    .filter(el => el.tagName !== 'ul' || $(el).find('ul,ol').length > 0);
+  const structureSet = new Set(structureNodes);
+  $(structureNodes).filter((_, el) => !$(el).parents().toArray().some(parent => structureSet.has(parent))).each((_, el) => {
+    structures.push(formatJobStructuredContent($.html(el)));
+    $(el).replaceWith(`\n###STRUCTURE:${structures.length - 1}###\n`);
+  });
+
+  $('h1 br,h2 br,h3 br,h4 br,h5 br,h6 br').replaceWith(' ');
 
   // Flatten definition lists (Workday metadata: <dt>locations</dt>
   // <dd>New York</dd>) with explicit separators — otherwise text extraction
@@ -1009,6 +1035,7 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'h
   // a fragment ("pportunity...") as body text.
   $('strong, b').each((_, el) => {
     const $el = $(el);
+    if ($el.parents('h1,h2,h3,h4,h5,h6').length) return;
     let combined = $el.text();
     let mergedSiblings = false;
     // Climb through single-child wrappers (<b><strong>X</strong></b>) so the
@@ -1078,6 +1105,10 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'h
       }
     }
     if (!standsAlone) return;
+    if (/^(application guidelines|use of ai in our hiring process)$/i.test(text)) {
+      $el.replaceWith(`\n###HEADING###${text}\n`);
+      return;
+    }
     // Single generic words ("What", "About", "Bonus") are heading fragments,
     // not headings — headifying them orphans the rest ("What" + "you'll do
     // Payroll..."). Only complete single-word sections qualify alone.
@@ -1099,6 +1130,9 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'h
   });
 
   // Normalize list items (process bottom-up so container <li> tags don't flatten nested elements)
+  $('br,hr').each((_, el) => {
+    $(el).replaceWith($(el).parents('li').length ? '\n' : '\n###BLOCK###\n');
+  });
   $('li').get().reverse().forEach((el) => {
     const $el = $(el);
     if ($el.find('li, h1, h2, h3, h4, h5, h6').length > 0) return;
@@ -1117,11 +1151,12 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'h
 
   // Append newlines after block containers and headings
   $('p, div, section, article, h1, h2, h3, h4, h5, h6').each((_, el) => {
-    $(el).append('\n\n');
+    $(el).prepend('\n###BLOCK###\n');
+    $(el).append('\n###BLOCK###\n');
   });
 
   const fullText = $('body').text();
-  const rawBlocks: Array<{ type: 'h3' | 'h4' | 'p' | 'li'; text: string }> = [];
+  const rawBlocks: Array<{ type: 'h3' | 'h4' | 'p' | 'li' | 'html' | 'boundary'; text: string }> = [];
 
   const MAJOR_HEADING_REGEX = /^(?:the opportunity|about (?:the |our )?(?:company|organization|foundation|team|us|you|the role)|who (?:you are|we are)|what (?:you(?:'ll| will) do|you(?:'ll| will) be doing|you bring|we(?:'re| are) looking for|we look for|we offer)|responsibilities|key responsibilities|core responsibilities|the role|role overview|requirements|key requirements|qualifications|minimum qualifications|basic qualifications|preferred qualifications|nice to have|bonus points|benefits|perks|compensation|our values|culture|company culture|working terms|hiring process|our interview process|interview process|where we work|how to apply|your journey with us|you(?:'ll| will) excel in this role(?: if you)?|you(?:'ll| will) know you(?:'re| are) winning(?: when)?|why this role matters(?: & what(?:'s| is) in it for you)?|perks that empower you|ready to build what(?:'s| is) next\??)[:]?$/i;
 
@@ -1130,6 +1165,15 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'h
   const lines = fullText.split('\n').map((l) => l.trim()).filter(Boolean);
   for (let i = 0; i < lines.length; i++) {
     let line = lines[i];
+    const structure = /^###STRUCTURE:(\d+)###$/.exec(line);
+    if (structure) {
+      rawBlocks.push({ type: 'html', text: structures[Number(structure[1])] });
+      continue;
+    }
+    if (line === '###BLOCK###') {
+      rawBlocks.push({ type: 'boundary', text: '' });
+      continue;
+    }
 
     // Strip boilerplate sentences (privacy-consent footers, equal-opportunity
     // boilerplate) before classification so the remainder re-classifies
@@ -1338,10 +1382,16 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'h
   // continuation word ("As the role...", "At Ethena...") or a lowercase
   // token ("eToro is...") is a new block, not a heading continuation.
   // Merging those swallowed whole paragraphs into <h3> on 400+ pages.
-  const blocks: Array<{ type: 'h3' | 'h4' | 'p' | 'li'; text: string }> = [];
+  const blocks: Array<{ type: 'h3' | 'h4' | 'p' | 'li' | 'html'; text: string }> = [];
+  let sourceBoundary = false;
   for (const block of rawBlocks) {
+    if (block.type === 'boundary') {
+      sourceBoundary = true;
+      continue;
+    }
     const prev = blocks[blocks.length - 1];
     if (
+      !sourceBoundary &&
       prev &&
       (prev.type === 'p' || prev.type === 'li') &&
       block.type === 'p' &&
@@ -1354,8 +1404,9 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'h
     ) {
       prev.text += ' ' + block.text;
     } else {
-      blocks.push(block);
+      blocks.push({ type: block.type, text: block.text });
     }
+    sourceBoundary = false;
   }
 
   // Re-strip boilerplate on MERGED blocks: trigger phrases split across source

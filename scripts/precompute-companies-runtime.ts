@@ -2,9 +2,11 @@
 
 import fs from 'node:fs';
 import path from 'node:path';
-import { getCompanies } from '../src/lib/companies';
+import { buildCompaniesFromJobs, type CompanyProfileRow } from '../src/lib/companies';
+import { buildJobsListing } from '../src/lib/jobs-listing-build';
+import type { Job } from '../src/types';
 
-const ROOT = path.resolve(import.meta.dirname, '..');
+const ROOT = process.cwd();
 const OUTPUT_CONTENT_PATH = path.join(ROOT, 'content', 'companies-runtime.json');
 const OUTPUT_PUBLIC_PATH = path.join(ROOT, 'public', 'data', 'companies-runtime.json');
 
@@ -21,7 +23,9 @@ export interface PrecomputedCompany {
 async function main(): Promise<void> {
   console.log('[precompute-companies] Computing companies from jobs...');
   const t0 = Date.now();
-  const companies = await getCompanies();
+  const jobs = buildJobsListing(JSON.parse(fs.readFileSync(path.join(ROOT, 'content/jobs-cache.json'), 'utf8')) as Job[]);
+  const profiles = JSON.parse(fs.readFileSync(path.join(ROOT, 'content/company-profiles-runtime.json'), 'utf8')) as Record<string, CompanyProfileRow>;
+  const companies = buildCompaniesFromJobs(jobs, profiles);
   console.log(`[precompute-companies] Found ${companies.length} companies in ${Date.now() - t0}ms.`);
 
   const map: Record<string, PrecomputedCompany> = {};
@@ -31,7 +35,7 @@ async function main(): Promise<void> {
       name: company.name,
       website: company.website,
       description: company.description || '',
-      jobCount: company.jobCount,
+      jobCount: company.jobs.length,
       lastUpdated: company.lastUpdated,
       jobIds: company.jobs.map((j) => j.id || j.slug || j.link).filter(Boolean),
     };

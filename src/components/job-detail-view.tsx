@@ -457,7 +457,7 @@ export function JobDetailView({
       />
 
       <section
-        className="prose prose-slate mt-10 max-w-none dark:prose-invert prose-headings:tracking-tight prose-a:text-primary"
+        className="prose prose-slate mt-10 min-w-0 max-w-none break-words [overflow-wrap:anywhere] dark:prose-invert prose-headings:tracking-tight prose-a:text-primary"
         dangerouslySetInnerHTML={{ __html: contentHtml }}
       />
 

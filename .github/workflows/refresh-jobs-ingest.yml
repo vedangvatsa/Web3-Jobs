@@ -1,0 +1,140 @@
+name: Refresh Jobs Ingest (daily)
+
+# Heavy once-a-day ingestion: RSS + all ATS feeds, slug prebake, runtime
+# precompute, OG images, integrity guards. Runs at 02:30 UTC so the 03:30
+# publish run (refresh-jobs-cache.yml) picks up a fresh cache.
+# Intraday runs intentionally skip ingestion — see refresh-jobs-cache.yml.
+
+on:
+  schedule:
+    # 8 AM IST / 10:30 AM SGT = 2:30 AM UTC
+    - cron: '30 2 * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: jobs-ingest
+  cancel-in-progress: false
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Fetch RSS feeds and update cache
+        run: npx tsx scripts/refresh-jobs-cache.ts
+        continue-on-error: true
+
+      - name: Ingest Mercuryo BambooHR jobs
+        run: npx tsx scripts/ingest-mercuryo-bamboo.ts
+        continue-on-error: true
+
+      - name: Ingest Official CoinDCX job openings
+        run: npx tsx scripts/ingest-coindcx-official.ts
+        continue-on-error: true
+
+      - name: Ingest Regional ATS Web3 feeds (Africa, Japan, Singapore, HK)
+        run: npx tsx scripts/ingest-regional-feeds.ts
+        continue-on-error: true
+
+      - name: Ingest Global Ecosystem Web3 ATS feeds (Fireblocks, Gemini, BitGo, Render, Phantom, Uniswap)
+        run: npx tsx scripts/ingest-global-ecosystem-feeds.ts
+        continue-on-error: true
+
+      - name: Ingest Untracked Web3, AI & Security ATS feeds (Cantina, Switchboard, Turnkey, Hyperbolic, Grass, Chainstack, Magic Eden)
+        run: npx tsx scripts/ingest-untracked-web3-companies.ts
+        continue-on-error: true
+
+      - name: Ingest Franklin Templeton Official Jobs
+        run: npx tsx scripts/ingest-franklin-templeton-jobs.ts
+        continue-on-error: true
+
+      - name: Ingest PwC Crypto & Web3 Jobs
+        run: npx tsx scripts/ingest-pwc-jobs.ts
+        continue-on-error: true
+
+      - name: Ingest KuCoin Official MokaHR Jobs
+        run: npx tsx scripts/ingest-kucoin-mokahr-jobs.ts
+        continue-on-error: true
+
+      - name: Ingest Marketnode Official Openings
+        run: npx tsx scripts/ingest-marketnode-xt-jobs.ts
+        continue-on-error: true
+
+      - name: Ingest Revolut Crypto Jobs
+        run: npx tsx scripts/ingest-revolut-crypto-job.ts
+        continue-on-error: true
+
+      - name: Pre-bake job slugs into cache
+        run: node scripts/prebake_slugs.js
+
+      - name: Precompute jobs runtime listing
+        run: npx tsx scripts/precompute-jobs-runtime.ts
+
+      - name: Validate job description formatting before publishing
+        run: npx tsx scripts/test-job-description-formatting.ts && npx tsx scripts/audit-detail-formatting.ts --jobs
+
+      - name: Restore job/company OG PNG cache
+        uses: actions/cache@v4
+        with:
+          path: public/og
+          key: og-cards-${{ hashFiles('content/jobs-runtime.json', 'scripts/precompute-og-images.ts') }}
+          restore-keys: |
+            og-cards-
+
+      - name: Precompute companies runtime (OG company cards)
+        run: npx tsx scripts/precompute-companies-runtime.ts
+
+      - name: Verify company role counts and associations
+        run: npx tsx scripts/generate-slug-types.ts && npm run test:company-jobs
+
+      - name: Precompute missing job/company OG PNGs
+        run: npm run precompute:og-images
+        continue-on-error: true
+
+      - name: Guard job slug uniqueness
+        run: npx tsx scripts/test-job-slug-reserved.ts && npx tsx scripts/check-slug-collisions.ts
+
+      - name: Ensure company logo PNGs for OG cards
+        run: npx tsx scripts/ensure-company-logos.ts
+        continue-on-error: true
+
+      - name: Verify jobs cache integrity
+        run: npx tsx scripts/verify-jobs-integrity.ts
+        continue-on-error: true
+
+      - name: Commit and push refreshed jobs cache
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git fetch origin main
+          npx tsx scripts/social/merge-state.ts
+          git add content/jobs-cache.json content/jobs-runtime.json content/homepage-jobs.json content/companies-runtime.json content/slug-types.json content/job-description-shards/
+          git add public/logo/companies/ 2>/dev/null || true
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: refresh jobs cache (daily ingest)"
+            for i in 1 2 3; do
+              git pull --rebase origin main || git pull --rebase -X theirs origin main || true
+              git push origin main && break
+              echo "Push attempt $i failed, reconciling and retrying..."
+              sleep 2
+            done
+          fi

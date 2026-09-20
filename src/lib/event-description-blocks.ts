@@ -3,13 +3,29 @@ export type EventDescriptionBlock =
   | { type: 'ul'; items: string[]; children?: Record<number, EventDescriptionBlock[]> }
   | { type: 'ol'; items: Array<{ number: number; text: string }>; children?: Record<number, EventDescriptionBlock[]> };
 
+function separateAgendaEntries(text: string): string {
+  const time = '\\d{1,2}:\\d{2}(?:\\s*[ap]\\.?m\\.?)?';
+  const slot = new RegExp(`\\b${time}(?:\\s*(?:to|[-–—])\\s*${time})?\\s*(?:[-:|]\\s*|\\s+)(?![ap]\\.?m\\.?\\b)(?=[\\p{L}])`, 'giu');
+  return text.split('\n').map(line => {
+    const starts = Array.from(line.matchAll(slot), match => match.index!);
+    if (starts.length < 2) return line;
+    for (let i = starts.length - 1; i >= 0; i--) {
+      const index = starts[i];
+      const label = /\b[A-Z][\p{L} &/\-]{1,30}:\s*$/u.exec(line.slice(0, index));
+      const boundary = label ? label.index : index;
+      line = `${line.slice(0, boundary).trimEnd()}\n${line.slice(boundary)}`;
+    }
+    return line;
+  }).join('\n');
+}
+
 export function splitEventDescriptionBlocks(text: string): EventDescriptionBlock[] {
   const blocks: EventDescriptionBlock[] = [];
   let separated = true;
   let code: string[] | null = null;
   const lists: Array<{ indent: number; block: Extract<EventDescriptionBlock, { type: 'ul' | 'ol' }> }> = [];
 
-  for (const line of text.replace(/\r\n?/g, '\n').replace(/\s+\|\s+(?=\d{1,2}:\d{2})/g, '\n').split('\n')) {
+  for (const line of separateAgendaEntries(text.replace(/\r\n?/g, '\n')).replace(/\s+\|\s+(?=\d{1,2}:\d{2})/g, '\n').split('\n')) {
     const trimmed = line.trim();
     if (/^```/.test(trimmed)) {
       if (code) { blocks.push({ type: 'code', text: code.join('\n') }); code = null; }
