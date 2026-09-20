@@ -1,6 +1,5 @@
 import { NextResponse } from 'next/server';
-import { getAllJobsWithSlugs, getJobBySlug, getLegacyJobSlugs } from '@/lib/job-guides';
-import { getJobs } from '@/lib/jobs';
+import { getJobBySlug } from '@/lib/job-guides';
 import { getJobPublicPath } from '@/lib/job-slugs';
 
 /**
@@ -13,22 +12,8 @@ import { getJobPublicPath } from '@/lib/job-slugs';
 export const dynamicParams = true;
 export const revalidate = 3600;
 
-export async function generateStaticParams() {
-  if (process.env.IS_DOCKER_BUILD === '1') {
-    return [];
-  }
-  const [jobsWithSlugs, allJobs] = await Promise.all([getAllJobsWithSlugs(), getJobs()]);
-  const slugs = new Set<string>();
-  for (const { slug } of jobsWithSlugs) {
-    if (slug) slugs.add(slug);
-  }
-  for (const job of allJobs) {
-    if (job.id) slugs.add(job.id);
-  }
-  for (const legacy of getLegacyJobSlugs()) {
-    slugs.add(legacy);
-  }
-  return [...slugs].map((slug) => ({ slug }));
+export async function generateStaticParams(): Promise<{ slug: string }[]> {
+  return [];
 }
 
 export async function GET(request: Request, { params }: { params: { slug: string } }) {

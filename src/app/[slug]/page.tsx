@@ -58,24 +58,6 @@ import { buildJobOgImageUrl, buildArticleOgImageUrl, buildCompanyOgImageUrl, res
 import { PopupDetailPage } from '@/components/popup-detail-page';
 import { getPopupBySlug } from '@/lib/popups';
 import { getPopupPath, popupPageMetadata, resolvePopupSlug } from '@/lib/popup-seo';
-import { buildSitemapRoutes } from '@/lib/sitemap-build';
-
-const SITE_URL = 'https://hashtagweb3.com';
-
-async function getCatchAllStaticSlugsFromSitemap(): Promise<string[]> {
-  const routes = await buildSitemapRoutes();
-  const prefix = `${SITE_URL}/`;
-  const slugs = new Set<string>();
-
-  for (const route of routes) {
-    if (!route.url.startsWith(prefix)) continue;
-    const segment = route.url.slice(prefix.length);
-    if (!segment || segment.includes('/')) continue;
-    slugs.add(segment);
-  }
-
-  return [...slugs].sort((a, b) => a.localeCompare(b));
-}
 
 
 type ArticlePageProps = {
@@ -85,18 +67,12 @@ type ArticlePageProps = {
 };
 
 
-/** Pre-render top essential hub pages & recent jobs for Docker/Cloud Run; Cloudflare prebuild pre-renders 100%. */
+export const dynamic = 'force-static';
 export const dynamicParams = true;
 export const revalidate = 3600;
 
-export async function generateStaticParams() {
-  if (process.env.IS_DOCKER_BUILD === '1') {
-    const slugs = await getCatchAllStaticSlugsFromSitemap();
-    // Pre-render top 250 essential hub pages & recent jobs in Docker for ~30s builds; rest render on-demand (SSR)
-    return slugs.slice(0, 250).map((slug) => ({ slug }));
-  }
-  const slugs = await getCatchAllStaticSlugsFromSitemap();
-  return slugs.map((slug) => ({ slug }));
+export async function generateStaticParams(): Promise<{ slug: string }[]> {
+  return [];
 }
 
 export async function generateMetadata({ params }: ArticlePageProps): Promise<Metadata> {
