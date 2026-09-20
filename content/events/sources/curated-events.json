@@ -650,7 +650,7 @@
     "location": "Josun Palace, A Luxury Collection Hotel, Seoul Gangnam, Teheran-ro, 231 Gangnam District, Seoul, South Korea",
     "url": "https://luma.com/80q0842z",
     "website": "https://luma.com/80q0842z",
-    "coverImage": "https://images.lumacdn.com/uploads/6j/002fb138-8478-4715-9f85-d10579894bd8.jpg",
+    "coverImage": "/events/kbw-bridge-summit-2026-c6dc85dc.webp",
     "twitter": null,
     "source": "curated-premier",
     "hosts": [
@@ -709,7 +709,7 @@
     "location": "위워크 선릉 2호점, 427 Teheran-ro, Gangnam District, Seoul, South Korea",
     "url": "https://luma.com/r6iwcjcl",
     "website": "https://luma.com/r6iwcjcl",
-    "coverImage": "https://images.lumacdn.com/uploads/l6/cf1f7414-3f13-427f-9e5e-3abf1b21d23b.png",
+    "coverImage": "/events/kbw-crypto-house-seoul-2026-e814e193.webp",
     "twitter": null,
     "source": "curated-premier",
     "hosts": [
@@ -767,7 +767,7 @@
     "location": "aT Center, South Korea, Seoul, Seocho District, Gangnam-daero, 27 aT센터",
     "url": "https://luma.com/cp87au4f",
     "website": "https://luma.com/cp87au4f",
-    "coverImage": "https://images.lumacdn.com/uploads/xa/b351573a-f6a0-4153-a2c3-a953ad1e30d4.png",
+    "coverImage": "/events/kbw-gwdc-korea-2026-e56bab89.webp",
     "twitter": null,
     "source": "curated-premier",
     "hosts": [
@@ -826,7 +826,7 @@
     "location": "Seoul, South Korea",
     "url": "https://luma.com/ho64m7rb",
     "website": "https://luma.com/ho64m7rb",
-    "coverImage": "https://images.lumacdn.com/uploads/ba/f4206e0c-7e20-48cb-a1f4-fbef64045d6e.png",
+    "coverImage": "/events/kbw-bridge-seoul-2026-f02e0685.webp",
     "twitter": null,
     "source": "curated-premier",
     "hosts": [
@@ -872,7 +872,7 @@
     "location": "Seoul, South Korea",
     "url": "https://luma.com/nhi6rmrp",
     "website": "https://luma.com/nhi6rmrp",
-    "coverImage": "https://images.lumacdn.com/uploads/1n/d18b5ab9-571a-4743-bf01-efa27e8286d6.png",
+    "coverImage": "/events/kbw-realfi-asia-stablecoin-2026-bb19197b.webp",
     "twitter": null,
     "source": "curated-premier",
     "hosts": [
@@ -942,7 +942,7 @@
     "location": "Platform-L Contemporary Art Center, 11 Eonju-ro 133-gil, Gangnam District, Seoul, South Korea",
     "url": "https://luma.com/9yusdba1",
     "website": "https://luma.com/9yusdba1",
-    "coverImage": "https://images.lumacdn.com/uploads/wb/23ec76fb-9355-4c82-aa4a-288ff04a18bc.png",
+    "coverImage": "/events/kbw-futuracanvas-2026-695a4648.webp",
     "twitter": null,
     "source": "curated-premier",
     "hosts": [
@@ -993,7 +993,7 @@
     "location": "609-1 Yeoksam-dong, Gangnam District, Seoul, South Korea",
     "url": "https://luma.com/StarkMart2026",
     "website": "https://luma.com/StarkMart2026",
-    "coverImage": "https://images.lumacdn.com/uploads/n2/5630f274-5f18-4f52-bf1f-23e801f5e2a7.jpg",
+    "coverImage": "/events/kbw-starkmart-seoul-2026-64f32477.webp",
     "twitter": null,
     "source": "curated-premier",
     "hosts": [
@@ -1050,7 +1050,7 @@
     "location": "Grand Hyatt Seoul, Seoul",
     "url": "https://luma.com/wm5ub5wk",
     "website": "https://luma.com/wm5ub5wk",
-    "coverImage": "https://images.lumacdn.com/uploads/d3/8e5d48b2-b6af-4a8e-8f69-9d322be94363.png",
+    "coverImage": "/events/kbw-xrp-seoul-2026-a2e91503.webp",
     "twitter": null,
     "source": "curated-premier",
     "price": "Free",
@@ -3540,7 +3540,7 @@
   {
     "twitter": null,
     "source": "curated-premier",
-    "coverImage": "https://images.lumacdn.com/uploads/80/fb3e9b27-bd82-4036-a136-b4d1428bcb78.png",
+    "coverImage": "/events/premier-pragma-tokyo-2026-824d2fa1.webp",
     "id": "premier-pragma-tokyo-2026",
     "slug": "pragma-tokyo",
     "name": "Pragma Tokyo 2026",
@@ -3736,7 +3736,7 @@
   {
     "twitter": null,
     "source": "curated-premier",
-    "coverImage": "https://images.lumacdn.com/uploads/48/ed21c209-853f-4e89-a257-1cc1b80c703b.jpg",
+    "coverImage": "/events/premier-global-onchain-summit-sg-2026-8fa96fdd.webp",
     "id": "premier-global-onchain-summit-sg-2026",
     "slug": "global-onchain-summit",
     "name": "Global Onchain Summit Singapore 2026",

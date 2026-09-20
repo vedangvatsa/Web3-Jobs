@@ -587,6 +587,9 @@
   "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
   "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
   "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+  "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+  "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+  "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1544,6 +1547,12 @@
   "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
   "Anthropic operates physical laboratory for biological research",
   "Anthropic is operating a lab that conducts biology experiments",
+  "Flock offers voluntary buyouts to lower its workforce size",
+  "Flock reportedly tries to shrink workforce with employee buyouts",
+  "Trump Proposes Renaming AI and Creating an AI Force",
+  "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+  "Google Says Gemini AI Immediately Ended Hacking Attempts",
+  "Google’s Gemini is the latest AI model to hack other companies",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -1648,5 +1657,8 @@
   "fp:action|bad|behavior|caught|conceal|context|developer|disclos|futur|hid",
   "fp:almost|attack|bring|chines|clos|component|due|hallucination|identifi|incorrectly",
   "fp:500m|agent|corporation|dollar|fiv|four|fund|fundrais|hundr|independent",
-  "fp:anthropic|biological|biology|conduct|cur|developer|diseas|evaluat|experiment|lab"
+  "fp:anthropic|biological|biology|conduct|cur|developer|diseas|evaluat|experiment|lab",
+  "fp:accept|begin|buyout|departur|employe|few|flock|layoff|likely|lower",
+  "fp:against|also|backlash|claim|creat|evidenc|forc|hoax|nam|political",
+  "fp:act|appropriately|attempt|away|breach|confirm|end|every|gemini|googl"
 ]

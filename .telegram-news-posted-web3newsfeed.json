@@ -596,6 +596,9 @@
   "https://hashtagweb3.com/bitbank-sanctions?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/cftc-relief?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://www.theblock.co/news/markets/2026-09-18-grayscales-zcash-etf-plans-3-for-1-split-233-million-inflow-surge-415520",
+  "https://hashtagweb3.com/bastion-charter?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/solana-slots?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://www.coindesk.com/policy/2026/09/18/ecb-president-christine-lagarde-intervened-to-block-binance-s-eu-mica-license-wsj",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -1694,6 +1697,12 @@
   "CFTC Opens Broker Relief to All Passive Trading Software",
   "US commodities regulator allows software providers to connect to derivatives",
   "Grayscale’s Zcash ETF plans 3-for-1 split after $233 million inflow surge",
+  "Bastion Receives Conditional National Trust Bank Charter Approval",
+  "Bastion Wins Conditional OCC Approval for National Trust Bank Charter",
+  "Solana Reduces Slot Time to 250 Milliseconds",
+  "Solana Cuts Slot Time to 250 Milliseconds in Third Speed Step",
+  "European Central Bank President Blocked Binance License",
+  "ECB President Christine Lagarde intervened to block Binance’s EU MiCA license: WSJ",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -1822,5 +1831,8 @@
   "fp:acquir|agre|blockchain|business|financial|firm|global|independent|onchain|openzeppelin",
   "fp:associat|bitbank|corp|developer|exchang|guard|hundr|iran|iranian|military",
   "fp:all|broker|cftc|derivativ|enforc|extend|not|open|passiv|platform",
-  "fp:233m|access|action|allow|commission|commodity|connect|derivativ|developer|etf"
+  "fp:233m|access|action|allow|commission|commodity|connect|derivativ|developer|etf",
+  "fp:advisor|alongsid|appointment|approval|bank|bastion|charter|conditional|cover|custody",
+  "fp:capacity|comput|cut|down|dur|keep|millisecond|network|per|reduc",
+  "fp:application|bank|binanc|block|central|christin|complet|deem|ecb|european"
 ]
