@@ -34,30 +34,34 @@ export function isLumaListedEvent(
   return false;
 }
 
+const SECTION_LABELS =
+  /^(?:agenda|schedule|itinerary|program(?:me)?|speakers|hosts|co-hosts?|partners|community partners|venue|location|rules|about(?: the event| us| [\p{L}\p{N} &'’.-]{2,45})?|what to expect|who should attend|event (?:description|details|info)|hike info|how to get (?:here|there)|registration|tickets|please note|important (?:notes|information)|the challenge|disclaimer|inspiration tracks(?:\s+for\s+solutions)?)$/iu;
+
+function headingText(line: string): string {
+  return line.trim().replace(/^#{1,6}\s+/, '').replace(/^\*\*(.+)\*\*$/, '$1').replace(/[:.]$/, '').trim();
+}
+
 function isHeaderLine(line: string): boolean {
   const trimmed = line.trim();
+  if (trimmed.length <= 160 && /^#{1,6}\s+\S/.test(trimmed)) return true;
   if (!trimmed || trimmed.length > 60 || trimmed.length < 2) return false;
-  if (/^[-*•·▪–—#]/.test(trimmed)) return false;
-  if (/^[A-Za-z0-9\s&/'°!?,.-]{2,50}:$/.test(trimmed)) return true;
-  const headerLabel = trimmed.replace(/:$/, '').trim();
-  if (
-    /^(?:agenda|schedule|speakers|hosts|co-hosts?|partners|community partners|venue|location|rules|about the event|what to expect|event description|the challenge|disclaimer|inspiration tracks(?:\s+for\s+solutions)?)$/i.test(
-      headerLabel,
-    )
-  ) {
-    return true;
-  }
-  return false;
+  if (/^[-*•·▪–—]\s+/.test(trimmed)) return false;
+  // A trailing colon alone does not make a heading: agenda sub-labels like
+  // "Participants:", "Speaker:" or "Time:" must stay in the text flow,
+  // otherwise every agenda slot fragments into its own H2 section.
+  const headerLabel = headingText(trimmed);
+  return SECTION_LABELS.test(headerLabel);
 }
 
 /** Luma exports use single newlines between paragraphs; blank lines often separate list items only. */
 function normalizeDescriptionParagraphBlocks(ownDescription: string): string[] {
   const lines = ownDescription.split('\n');
-  const trimmedLines = lines.map((line) => line.trim()).filter(Boolean);
+  const trimmedLines = lines.filter(line => line.trim());
   if (trimmedLines.length <= 1) return trimmedLines;
 
   const blocks: string[] = [];
   let bulletRun: string[] = [];
+  let codeRun: string[] | null = null;
 
   const flushBullets = () => {
     if (bulletRun.length > 0) {
@@ -67,13 +71,25 @@ function normalizeDescriptionParagraphBlocks(ownDescription: string): string[] {
   };
 
   for (const line of trimmedLines) {
-    if (/^[-*•·▪–—]\s+/.test(line)) {
+    if (/^\s*```/.test(line)) {
+      flushBullets();
+      if (codeRun) { blocks.push([...codeRun, line].join('\n')); codeRun = null; }
+      else codeRun = [line];
+      continue;
+    }
+    if (codeRun) { codeRun.push(line); continue; }
+    if (/^\s*(?:[-*•·▪–—]|\d+[.)])\s+/.test(line)) {
+      bulletRun.push(line);
+      continue;
+    }
+    if (bulletRun.length && /^\s{2,}\S/.test(line)) {
       bulletRun.push(line);
       continue;
     }
     flushBullets();
-    blocks.push(line);
+    blocks.push(line.trim());
   }
+  if (codeRun) blocks.push(codeRun.join('\n'));
   flushBullets();
   return blocks;
 }
@@ -85,8 +101,9 @@ function parseOrganizerDescriptionSections(ownDescription: string): {
   const rawParagraphs = normalizeDescriptionParagraphBlocks(ownDescription);
   if (rawParagraphs.length === 0) return { lead: '', sections: [] };
 
-  const lead = rawParagraphs[0];
-  const remaining = rawParagraphs.slice(1);
+  const startsWithHeading = isHeaderLine(rawParagraphs[0]);
+  const lead = startsWithHeading ? '' : rawParagraphs[0];
+  const remaining = startsWithHeading ? rawParagraphs : rawParagraphs.slice(1);
 
   const sections: Array<{ heading: string; content: string[] }> = [];
   let currentHeading = 'About the event';
@@ -100,13 +117,13 @@ function parseOrganizerDescriptionSections(ownDescription: string): {
         sections.push({ heading: currentHeading, content: currentContent });
         currentContent = [];
       }
-      currentHeading = firstLine.replace(/:$/, '').trim();
+      currentHeading = headingText(firstLine);
     } else if (isHeaderLine(firstLine) && blockLines.length > 1) {
       if (currentContent.length > 0) {
         sections.push({ heading: currentHeading, content: currentContent });
         currentContent = [];
       }
-      currentHeading = firstLine.replace(/:$/, '').trim();
+      currentHeading = headingText(firstLine);
       const rest = blockLines.slice(1).join('\n').trim();
       if (rest) currentContent.push(rest);
     } else {
@@ -124,8 +141,9 @@ function parseOrganizerDescriptionSections(ownDescription: string): {
 /** Build detail-page editorial from `event.description` only (Luma organiser copy in JSON). */
 export function buildEditorialFromOrganizerDescription(event: Web3Event): EventEditorialArticle {
   const resolvedPlace = formatEventLocation(event);
-  const locationStr = resolvedPlace === 'Virtual / TBA' ? 'online' : `in ${resolvedPlace}`;
-  const formattedDates = formatEventDate(event.startDate, event.endDate);
+  const online = event.attendanceMode === 'online' || /^(?:online|virtual)(?:\b|\s*\/)/i.test(event.location || '') && event.location !== 'Virtual / TBA';
+  const locationStr = online ? 'online' : resolvedPlace === 'Virtual / TBA' ? '(venue to be announced)' : `in ${resolvedPlace}`;
+  const formattedDates = formatEventDate(event.startDate, event.endDate, event.timezone);
 
   const rawDescription = cleanPublishText((event.description || '').trim());
   const ownDescription =
@@ -166,18 +184,52 @@ export function buildEditorialFromOrganizerDescription(event: Web3Event): EventE
     if (sections.length === 0) {
       sections = [{ heading: 'About the event', content: [firstSummaryParagraph] }];
     } else {
-      const aboutIndex = sections.findIndex((s) => s.heading.toLowerCase() === 'about the event');
+      // Last matching index: sections[0] is often the implicit lead-in bucket
+      // carrying the same default heading, so a first-match search would stop
+      // there and leave the organizer's own About section duplicated.
+      let aboutIndex = -1;
+      for (let i = sections.length - 1; i >= 0; i -= 1) {
+        if (sections[i].heading.toLowerCase() === 'about the event') {
+          aboutIndex = i;
+          break;
+        }
+      }
       if (aboutIndex >= 0) {
-        sections = sections.map((section, index) =>
-          index === aboutIndex
-            ? { ...section, content: [firstSummaryParagraph, ...section.content] }
-            : section,
-        );
+        // Fold the implicit lead-in bucket (sections[0] when it carries the
+        // default heading) into the organizer's own About section, so the
+        // heading never renders twice back-to-back.
+        const leadIn =
+          aboutIndex > 0 && sections[0].heading.toLowerCase() === 'about the event'
+            ? sections[0].content
+            : [];
+        sections = sections
+          .map((section, index) =>
+            index === aboutIndex
+              ? { ...section, content: [firstSummaryParagraph, ...leadIn, ...section.content] }
+              : section,
+          )
+          .filter((_, index) => !(index === 0 && aboutIndex > 0 && leadIn.length > 0));
       } else {
         sections = [{ heading: 'About the event', content: [firstSummaryParagraph] }, ...sections];
       }
     }
   }
+
+  // Fold repeated headings (multi-day agendas reusing "Agenda" / "What to
+  // expect") into their first occurrence, preserving content order.
+  const seenHeadings = new Map<string, number>();
+  const folded: typeof sections = [];
+  for (const section of sections) {
+    const key = section.heading.toLowerCase().trim();
+    const at = seenHeadings.get(key);
+    if (at === undefined) {
+      seenHeadings.set(key, folded.length);
+      folded.push(section);
+    } else {
+      folded[at] = { ...folded[at], content: [...folded[at].content, ...section.content] };
+    }
+  }
+  sections = folded;
 
   return {
     summaryLead,

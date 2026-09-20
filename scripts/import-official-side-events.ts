@@ -119,10 +119,13 @@ async function importKbw() {
 async function main() {
   const [ibw, kbw] = await Promise.all([importIbw(), importKbw()]);
   const write = (fileName: string, events: SideEvent[]) => {
-    const filePath = path.join(process.cwd(), 'content', fileName);
+    const filePath = path.join(process.cwd(), 'content', 'events', 'sources', fileName);
     const existing: SideEvent[] = fs.existsSync(filePath) ? JSON.parse(fs.readFileSync(filePath, 'utf8')) : [];
-    const images = new Map(existing.map((event) => [event.id, event.coverImage]));
-    fs.writeFileSync(filePath, `${JSON.stringify(events.map((event) => ({ ...event, coverImage: images.get(event.id) || null })), null, 2)}\n`);
+    const previous = new Map(existing.map((event) => [event.id, event]));
+    fs.writeFileSync(filePath, `${JSON.stringify(events.map((event) => {
+      const stored = previous.get(event.id);
+      return stored ? { ...event, ...stored } : event;
+    }), null, 2)}\n`);
   };
   write('ibw-side-events.json', ibw);
   write('kbw-luma-events.json', kbw);

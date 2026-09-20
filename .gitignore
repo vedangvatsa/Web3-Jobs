@@ -92,6 +92,7 @@ scripts/manual-emails*.json
 
 # Scratch scrape dumps and social generation outputs
 /.cache/luma-venue-enrichment.json
+/.cache/event-verification/
 /scripts/social/output/
 /hashed_*.json
 /*_scraped_jobs.json

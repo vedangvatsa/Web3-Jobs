@@ -1,13 +1,9 @@
-import curatedEventsJson from '../../content/curated-events.json';
-import kbwLumaEventsJson from '../../content/kbw-luma-events.json';
-import ibwSideEventsJson from '../../content/ibw-side-events.json';
-import indiaLumaEventsJson from '../../content/india-luma-events.json';
-import lumaCryptoEventsJson from '../../content/luma-crypto-events.json';
-import eventsCacheJson from '../../content/events-cache.json';
+import { EVENT_SOURCES } from './event-sources';
 import eventImageOverridesJson from '../../content/event-image-overrides.json';
 import { Web3Event, formatEventLocation, getEventBaseSlug, getEventSlug, normalizeCountry } from './events';
 import { getEventExternalUrl } from './event-external-url';
 import { cleanPublishText } from './noslop';
+import { getVerifiedEventDescription } from './event-description-source';
 import { getEventDisplayCity } from './event-map-locations';
 import { isWasetIcbtDuplicateEvent, WASET_ICBT_SERIES_ID } from './waset-icbt';
 
@@ -153,7 +149,7 @@ async function assignUniqueEventSlugs(events: Web3Event[]): Promise<Web3Event[]>
   return events.map((event) => {
     // Prefer explicit curated slugs so premier pages keep stable, human URLs.
     const curatedSlug =
-      event.source === 'curated-premier' || event.source === 'luma-crypto' || event.source === 'curated-series'
+      event.sourceVerification || event.source === 'curated-premier' || event.source === 'luma-crypto' || event.source === 'curated-series'
         ? event.slug?.toLowerCase().trim()
         : undefined;
     const baseSlug = curatedSlug || getEventBaseSlug(event);
@@ -171,7 +167,6 @@ function isQualityEvent(e: Web3Event): boolean {
   if (e.source === 'conferenceindex') return false;
   const text = `${e.name} ${e.description ?? ''}`;
   if (SPAMMY.test(text)) return false;
-  if (/cancel/i.test(text)) return false;
   if (NON_WEB3_NAME.test(e.name)) return false;
   if (AMA.test(e.name)) return false;
   if (ONLINE.test(e.name) || ONLINE.test(e.location ?? '')) return false;
@@ -282,15 +277,8 @@ export async function buildEventsListing(): Promise<Web3Event[]> {
   try {
     const eventImageOverrides = loadEventImageOverrides();
 
-    const curatedEvents = curatedEventsJson as Web3Event[];
-    const kbwLumaEvents = kbwLumaEventsJson as Web3Event[];
-    const ibwSideEvents = ibwSideEventsJson as Web3Event[];
-    const indiaLumaEvents = indiaLumaEventsJson as Web3Event[];
-    const lumaCryptoEvents = lumaCryptoEventsJson as Web3Event[];
-    const cachedEvents = eventsCacheJson as Web3Event[];
-
     // Combine all events - curated premier takes precedence
-    const rawAll = [...curatedEvents, ...kbwLumaEvents, ...ibwSideEvents, ...indiaLumaEvents, ...lumaCryptoEvents, ...cachedEvents].map(linkSideEventParents);
+    const rawAll = EVENT_SOURCES.flatMap((source) => source.events).map(linkSideEventParents);
 
     // Clean & normalize
     const seenTitles = new Set<string>();
@@ -312,8 +300,8 @@ export async function buildEventsListing(): Promise<Web3Event[]> {
       let cleanCity = cleanPublishText(e.city || '');
       let cleanCountry = cleanPublishText(e.country || '');
       let cleanLocation = cleanPublishText(e.location || '');
-      let cleanDescription = cleanPublishText(e.description || '');
-      if (isTruncatedEventDescription(cleanDescription)) {
+      let cleanDescription = cleanPublishText(getVerifiedEventDescription(e));
+      if (!e.sourceVerification && !e.descriptionSource && isTruncatedEventDescription(cleanDescription)) {
         cleanDescription = '';
       }
 
@@ -375,7 +363,7 @@ export async function buildEventsListing(): Promise<Web3Event[]> {
       });
       const posterCover = resolveEventCoverImage(
         '',
-        eventImageOverrides[e.id] || KBW_LUMA_IMAGE_OVERRIDES[e.id] || e.coverImage,
+        e.sourceVerification ? e.coverImage : eventImageOverrides[e.id] || KBW_LUMA_IMAGE_OVERRIDES[e.id] || e.coverImage,
       );
 
       cleaned.push({
@@ -425,4 +413,3 @@ export async function buildEventsListing(): Promise<Web3Event[]> {
     return [];
   }
 }
-

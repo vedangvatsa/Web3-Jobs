@@ -3,7 +3,7 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const cachePath = path.join(__dirname, '../content/events-cache.json');
+const cachePath = path.join(__dirname, '../content/events/sources/events-cache.json');
 const USER_AGENT = 'HashtagWeb3 Event Speaker Verifier/1.0 (+https://hashtagweb3.com)';
 const CONCURRENCY = 8;
 

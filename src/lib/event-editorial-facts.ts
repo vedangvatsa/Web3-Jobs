@@ -1,5 +1,7 @@
 import type { EventEditorialArticle } from '@/lib/events';
 import { formatEventDate, formatEventLocation, type Web3Event } from '@/lib/events';
+import { getVerifiedEventDescription } from './event-description-source';
+import { cleanPublishText } from './noslop';
 
 /** Quick-fact strings we should not show — they admit we lack the data. */
 const NON_FACT_PATTERNS = [
@@ -53,15 +55,18 @@ export function sanitizeEventEditorial(editorial: EventEditorialArticle): EventE
   };
 }
 
-export function buildEventMetaDescription(event: Web3Event, hasEditorialGuide: boolean): string {
-  const formattedDate = formatEventDate(event.startDate, event.endDate);
+export function buildEventMetaDescription(event: Web3Event, _hasEditorialGuide: boolean): string {
+  const description = cleanPublishText(getVerifiedEventDescription(event)).replace(/^\s*(?:#{1,6}|>|[-•])\s+/gm, '').replace(/\s+/g, ' ').trim();
+  if (description) {
+    if (description.length <= 160) return description;
+    const cut = description.slice(0, 157);
+    return `${cut.slice(0, cut.lastIndexOf(' '))}...`;
+  }
+  const formattedDate = formatEventDate(event.startDate, event.endDate, event.timezone);
   const place = formatEventLocation(event);
   // Never render "in Virtual / TBA": virtual events happen online.
-  const where = place === 'Virtual / TBA' ? 'online' : `in ${place}`;
+  const online = event.attendanceMode === 'online' || /^(?:online|virtual)\b/i.test(event.location || '') && event.location !== 'Virtual / TBA';
+  const where = online ? 'online' : place === 'Virtual / TBA' ? '(venue to be announced)' : `in ${place}`;
 
-  if (hasEditorialGuide) {
-    return `${event.name} on ${formattedDate} ${where}. Dates, venue, and practical notes for attendees.`;
-  }
-
-  return `${event.name} on ${formattedDate} ${where}. Date, venue, and registration details.`;
+  return `${event.name} on ${formattedDate} ${where}.`;
 }

@@ -14,12 +14,12 @@ import {
 } from './luma-page-description';
 
 const TARGET_FILES = [
-  path.join('content', 'kbw-luma-events.json'),
-  path.join('content', 'luma-crypto-events.json'),
-  path.join('content', 'ibw-side-events.json'),
-  path.join('content', 'india-luma-events.json'),
-  path.join('content', 'curated-events.json'),
-  path.join('content', 'token2049-side-events.json'),
+  path.join('content', 'events', 'sources', 'kbw-luma-events.json'),
+  path.join('content', 'events', 'sources', 'luma-crypto-events.json'),
+  path.join('content', 'events', 'sources', 'ibw-side-events.json'),
+  path.join('content', 'events', 'sources', 'india-luma-events.json'),
+  path.join('content', 'events', 'sources', 'curated-events.json'),
+  path.join('content', 'events', 'sources', 'events-cache.json'),
 ];
 
 type StoredEvent = {

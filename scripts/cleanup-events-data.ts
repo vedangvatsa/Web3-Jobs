@@ -2,8 +2,8 @@ import fs from 'fs';
 import path from 'path';
 
 const rootDir = process.cwd();
-const cachePath = path.join(rootDir, 'content', 'events-cache.json');
-const curatedPath = path.join(rootDir, 'content', 'curated-events.json');
+const cachePath = path.join(rootDir, 'content', 'events', 'sources', 'events-cache.json');
+const curatedPath = path.join(rootDir, 'content', 'events', 'sources', 'curated-events.json');
 
 interface Web3Event {
   id: string;

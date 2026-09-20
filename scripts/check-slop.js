@@ -32,7 +32,7 @@ const SCAN_DIRS = [
 const EXTRA_FILES = [
   // Do not treat employer-authored job titles or generated feed caches as
   // editorial copy. Job content has its own source/quality audit.
-  'content/events-cache.json',
+  'content/events/sources/events-cache.json',
 ];
 
 function getFiles(dir, exts = ['.ts', '.tsx', '.js', '.jsx', '.md', '.mdx', '.json']) {

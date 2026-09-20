@@ -123,6 +123,8 @@ export const EVENT_MAP_CITY_COORDINATES: Record<string, [number, number]> = {
   'lagos|NG': [6.52, 3.38],
   'lisbon|PT': [38.72, -9.14],
   'kigali|RW': [-1.94, 30.06],
+  'nairobi|KE': [-1.29, 36.82],
+  'belgrade|RS': [44.81, 20.46],
   'singapore|SG': [1.35, 103.82],
   'cape town|ZA': [-33.92, 18.42],
   'johannesburg|ZA': [-26.2, 28.04],
@@ -193,6 +195,8 @@ export const EVENT_MAP_CITY_COORDINATES: Record<string, [number, number]> = {
 };
 
 export const EVENT_MAP_CITY_ALIASES: Record<string, string> = {
+  beograd: 'belgrade',
+  'hong kong island': 'hong kong',
   'abu dhabi uae': 'abu dhabi',
   'dubai uae': 'dubai',
   'new york city': 'new york',

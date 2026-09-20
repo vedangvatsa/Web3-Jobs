@@ -1,0 +1,2292 @@
+{
+  "total": 134,
+  "sourceBacked": 101,
+  "unavailable": 33,
+  "applied": true,
+  "records": [
+    {
+      "id": "premier-ethmilan-2026",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://www.ethmilan.xyz/",
+        "fetchedAt": "2026-09-20T00:20:05.603Z",
+        "method": "event-jsonld",
+        "pageTitle": "ETHMilan 2026 — Italy's Largest Ethereum & Web3 Conference | May 21-22, Milan",
+        "sha256": "5ac4bf5de3ae7f0842e9450919a7b851e696274555b4eb16a6297b8e95be5d37"
+      },
+      "eventFacts": {
+        "startDate": "2026-05-21T09:00:00+02:00",
+        "endDate": "2026-05-22T18:00:00+02:00",
+        "venueName": "Museo Nazionale della Scienza e della Tecnologia Leonardo da Vinci",
+        "streetAddress": "Via San Vittore, 21",
+        "addressLocality": "Milan",
+        "addressRegion": "MI",
+        "postalCode": "20123",
+        "addressCountry": "IT",
+        "city": "Milan",
+        "country": "IT",
+        "location": "Museo Nazionale della Scienza e della Tecnologia Leonardo da Vinci, Via San Vittore, 21, Milan, MI, 20123, IT"
+      },
+      "previousStartDate": "2026-10-08T09:00:00.000Z",
+      "characters": 168,
+      "preview": "ETHMilan 2026 is Italy's largest Ethereum and Web3 conference, bringing together 2,000+ attendees, 100+ speakers, and leading blockchain projects on May 21-22 in Milan."
+    },
+    {
+      "id": "premier-ethcc-2027",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://ethcc.io/",
+        "fetchedAt": "2026-09-20T00:20:05.648Z",
+        "method": "official-section",
+        "pageTitle": "EthCC[10] — April 12 to April 15, 2027",
+        "sha256": "017acc1e07e36d40fe3f8697dabc7c90040d1b2ace4e61624fc41af0991dd396"
+      },
+      "previousStartDate": "2027-04-12T09:00:00.000Z",
+      "characters": 1820,
+      "preview": "## Where ideas become industries\n\nAs the industries longest-running European conference, every year, Cannes becomes the meeting point for the people shaping the digital economy, bringing together the industry's top builders, investors, policymakers, institutions, and users to reconnect, collaborate and build what's next.\n\n## Speakers\n\n## Vitalik Buterin\n\n## Charles Guillemet\n\n## Stani Kulechov\n\n## Andrew O'Neill\n\n## Ambre Soubiran\n\n## Jean-Marc Stenger\n\n## Nicolas Consigny\n\n## Merlin Egalite\n\n## Pedro Gomes\n\n## Ellie Davidson\n\n## Faustine Fleuret\n\n## Sergej Kunz\n\n## Patrick Hansen\n\n## Juan David Mendieta\n\n## Johann Eid\n\n## Fredrik Haga\n\n## Ed Felten\n\n## Friederike Ernst\n\n## Become asponsor\n\nJoin us in Cannes for a milestone year to celebrate a decade of ideas, people and progress. Get in t"
+    },
+    {
+      "id": "premier-signal-week-2027",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://signalweek.com/",
+        "fetchedAt": "2026-09-20T00:20:06.852Z",
+        "method": "official-meta",
+        "pageTitle": "Signal Week 2027",
+        "sha256": "0af569996ae64b6485a850f50838dd46b465f826dbfd3dec8ea2177fa8544150"
+      },
+      "previousStartDate": "2027-07-06T09:00:00+02:00",
+      "characters": 111,
+      "preview": "The Bridge Between TradFi & Digital Assets. The Institutional Summit for Digital Assets. Paris, July 6-7, 2027."
+    },
+    {
+      "id": "premier-ethtokyo-2026",
+      "file": "curated-events.json",
+      "name": "ETHGlobal Tokyo 2026",
+      "status": "unavailable",
+      "attempts": [
+        {
+          "url": "https://ethglobal.com/events/tokyo2026",
+          "reason": "HTTP 500"
+        }
+      ]
+    },
+    {
+      "id": "premier-kbw-2026",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://koreablockchainweek.com/",
+        "fetchedAt": "2026-09-20T00:20:07.364Z",
+        "method": "official-section",
+        "pageTitle": "KBW2026 | Asia's Premier Crypto Event (Sep. 29 - Oct 1, Seoul)",
+        "sha256": "74cd90b63e96e8a8974b1cc3a25f4df6bf35d745f93c4cce8c723932aec410d2"
+      },
+      "previousStartDate": "2026-09-29T09:00:00.000Z",
+      "characters": 7239,
+      "preview": "## Asia’s Premier Crypto Event\n\nJoin the global industry leaders in Seoul for KBW2026. This is where the next cycle begins, and where the world’s most influential founders and institutions congregate.\n\n## Explore the Week at KBW2026\n\nDiscover the conference agenda and side events happening across Seoul during Korea Blockchain Week.\n\n## Agenda\n\nThe KBW2026 agenda features three days of conversations shaping the future of Web3. From keynote presentations to in-depth panel discussions, the program brings together global founders, investors and builders across multiple stages.\n\n## Events\n\nKBW2026 events extend the opportunity to connect far beyond the main conference. Institutions, investors, founders and policymakers gather throughout the week for conversations shaping the future of Web3.\n\n##"
+    },
+    {
+      "id": "premier-token2049-singapore-2026",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://www.token2049.com/singapore",
+        "fetchedAt": "2026-09-20T00:20:07.728Z",
+        "method": "event-jsonld",
+        "pageTitle": "TOKEN2049 | 7-8 October 2026 | Singapore",
+        "sha256": "672897156638babb2793dee3e4989b27b99702bc19e851da891e4538fda8499e"
+      },
+      "eventFacts": {
+        "startDate": "2026-10-07",
+        "endDate": "2026-10-08",
+        "venueName": "Marina Bay Sands",
+        "addressLocality": "Singapore",
+        "addressCountry": "SG",
+        "city": "Singapore",
+        "country": "SG",
+        "location": "Marina Bay Sands, Singapore, SG"
+      },
+      "previousStartDate": "2026-10-07T09:00:00.000Z",
+      "characters": 164,
+      "preview": "TOKEN2049 is the world's largest crypto event. Join the crypto ecosystem's decision-makers in Singapore to connect, exchange ideas, network, and shape the industry."
+    },
+    {
+      "id": "premier-sui-basecamp-2026",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://www.sui.io/basecamp",
+        "fetchedAt": "2026-09-20T00:20:07.745Z",
+        "method": "official-meta",
+        "pageTitle": "Sui Basecamp 2026 | Sui’s global conference",
+        "sha256": "f7c01bee292af9d612535f1b9bdfecd4d5f5851a9c5d08ba28c4cf2c381a2c67"
+      },
+      "previousStartDate": "2026-10-07T09:00:00.000Z",
+      "characters": 132,
+      "preview": "The next $5 trillion in transactions won't be human. Join the global Sui community in Singapore on Oct 7–8 to shape what comes next."
+    },
+    {
+      "id": "premier-swell-2026",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://swell.ripple.com/",
+        "fetchedAt": "2026-09-20T00:20:07.852Z",
+        "method": "official-meta",
+        "pageTitle": "Swell 2026 | New York City, October 27-29",
+        "sha256": "a49447793eee045ac4a0748241075bc6d29700e08a25a6d3394a3e0b83c831fc"
+      },
+      "previousStartDate": "2026-10-27T09:00:00.000Z",
+      "characters": 150,
+      "preview": "Ripple’s premier conference where industry pioneers, developers, and innovators to bridge traditional finance and the onchain economy. Register today."
+    },
+    {
+      "id": "premier-indiabw-2026",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://indiablockchainweek.com/",
+        "fetchedAt": "2026-09-20T00:20:08.299Z",
+        "method": "event-jsonld",
+        "pageTitle": "India Blockchain Week 2026 — Nov 1–2, Fairmont Mumbai",
+        "sha256": "7b95485e49c60ec01215f0fd86b99d5fec4d4c5caf00a79dbc95c776a236ba8e"
+      },
+      "eventFacts": {
+        "startDate": "2026-11-01",
+        "endDate": "2026-11-02",
+        "venueName": "Fairmont Mumbai",
+        "streetAddress": "Fairmont Mumbai Airport, Andheri",
+        "addressLocality": "Mumbai",
+        "addressRegion": "MH",
+        "addressCountry": "IN",
+        "city": "Mumbai",
+        "country": "IN",
+        "location": "Fairmont Mumbai, Fairmont Mumbai Airport, Andheri, Mumbai, MH, IN"
+      },
+      "previousStartDate": "2026-11-01T09:00:00+05:30",
+      "characters": 162,
+      "preview": "India Blockchain Week 2026 — Accelerating India's Digital Renaissance. The two-day flagship conference anchoring India Blockchain Week, hosted by Hashed Emergent."
+    },
+    {
+      "id": "premier-devcon-2026",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://devcon.org/en/",
+        "fetchedAt": "2026-09-20T00:20:08.322Z",
+        "method": "event-jsonld",
+        "pageTitle": "Devcon 8 India",
+        "sha256": "23c0939dcec56f6ea8ac7bf2adc599d09721e60cd5067aa105ff8d5c549e4cef"
+      },
+      "eventFacts": {
+        "startDate": "2026-11-03",
+        "endDate": "2026-11-07",
+        "venueName": "Jio World Centre",
+        "streetAddress": "G Block BKC, Bandra Kurla Complex, Bandra East",
+        "addressLocality": "Mumbai",
+        "addressRegion": "Maharashtra",
+        "postalCode": "400051",
+        "addressCountry": "IN",
+        "city": "Mumbai",
+        "country": "IN",
+        "location": "Jio World Centre, G Block BKC, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra, 400051, IN"
+      },
+      "previousStartDate": "2026-11-03T09:00:00.000Z",
+      "characters": 128,
+      "preview": "Devcon is the Ethereum conference for developers, researchers, thinkers, and makers. Join us 3–6 November 2026 in Mumbai, India."
+    },
+    {
+      "id": "premier-cosmoverse-2026",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://www.cosmoverse.org/",
+        "fetchedAt": "2026-09-20T00:20:08.439Z",
+        "method": "event-jsonld",
+        "pageTitle": "Cosmoverse | Institutional Digital Assets & Finance Summit — 2026 in Hong Kong",
+        "sha256": "c7ae293f7106b6e765a0e3bee2280095a9b56166f64056dc25f6b81cdc184104"
+      },
+      "eventFacts": {
+        "startDate": "2026-11-01T09:00:00+08:00",
+        "endDate": "2026-11-02T18:00:00+08:00",
+        "venueName": "Grand Hyatt Hong Kong",
+        "streetAddress": "1 Harbour Road, Wan Chai",
+        "addressLocality": "Hong Kong",
+        "addressCountry": "HK",
+        "city": "Hong Kong",
+        "country": "HK",
+        "location": "Grand Hyatt Hong Kong, 1 Harbour Road, Wan Chai, Hong Kong, HK"
+      },
+      "previousStartDate": "2026-11-05T09:00:00+08:00",
+      "characters": 118,
+      "preview": "Premier summit connecting central banks, regulators, and financial institutions with blockchain infrastructure leaders"
+    },
+    {
+      "id": "premier-labitconf-2026",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://www.labitconf.com/",
+        "fetchedAt": "2026-09-20T00:20:08.909Z",
+        "method": "official-section",
+        "pageTitle": "LABITCONF 26 — ¿Por qué hodleás?",
+        "sha256": "9a483a61dd257b6845f05636edbc0c4141870895aab9cf6d5d2dcebc8813eaf4"
+      },
+      "eventFacts": {
+        "startDate": "2026-10-30",
+        "endDate": "2026-10-31"
+      },
+      "previousStartDate": "2026-11-05T09:00:00.000Z",
+      "characters": 1595,
+      "preview": "## ¿Qué querés saber de LABITCONF?\n\nNo todo el mundo llega con la misma intención. Elegí por dónde empezar.\n\nDesde 2013, LABITCONF reúne en América Latina a quienes están construyendo el futuro de la tecnología y las finanzas. El viernes 30 y sábado 31 de octubre, Costa Salguero, Buenos Aires, será nuevamente el punto de encuentro de la comunidad.\n\nEsta edición pone a Bitcoin, Blockchain e Inteligencia Artificial en la misma conversación. Dos días de charlas, experiencias y encuentros con referentes de la industria y quienes están dando forma a lo que viene.\n\nHODL no es esperar: es tener la convicción de seguir construyendo. ¿Y vos, por qué hodleás?\n\n## Media Partners\n\n## Sponsor Deck\n\nConocé las propuestas para sponsors y sé parte del evento más relevante de Bitcoin y Blockchain en LATAM."
+    },
+    {
+      "id": "premier-ethmumbai-2026",
+      "file": "curated-events.json",
+      "name": "ETHGlobal Mumbai 2026",
+      "status": "unavailable",
+      "attempts": [
+        {
+          "url": "https://ethglobal.com/events/mumbai",
+          "reason": "HTTP 500"
+        }
+      ]
+    },
+    {
+      "id": "premier-breakpoint-2026",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://solana.com/breakpoint",
+        "fetchedAt": "2026-09-20T00:20:09.392Z",
+        "method": "official-section",
+        "pageTitle": "Breakpoint 2026 — Solana's flagship conference in London",
+        "sha256": "67f5910f7556df07b9cfa57ab9418d15bb92b5fec0bae6558e858076150059ea"
+      },
+      "previousStartDate": "2026-11-15T09:00:00+00:00",
+      "characters": 933,
+      "preview": "## The Token Supercycle Is Here\n\n## Tickets\n\n## General Admission\n\n## Developers\n\n## Students\n\n## Late Bird\n\n## Find ways to take part\n\n## Why Breakpoint\n\nLast year, J.P. Morgan, Goldman Sachs, BlackRock, State Street, and Citigroup all deployed production capital on Solana. At Breakpoint, the teams behind these integrations share what's next - and what they need from builders.\n\n• Balaji SrinivasanNetwork StateCEO and Founder Network School\n\n## Explore events across the Breakpoint ecosystem\n\n• Solana Hacker House - London1–12 NOVEMBER, 202610:00–20:00(opens in a new tab)\n\n• Scale or Die14 NOVEMBER, 202609:30–18:30(opens in a new tab)\n\n• BlockZero 202615 NOVEMBER, 202608:30–17:00(opens in a new tab)\n\n## Highlights from Solana builders at Breakpoint\n\n## Latest announcements\n\n• EventsSolana H"
+    },
+    {
+      "id": "premier-binancebw-2026",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://www.binanceblockchainweek.com/event/Bangkok2026/Home",
+        "fetchedAt": "2026-09-20T00:20:09.477Z",
+        "method": "official-section",
+        "pageTitle": "Home - Binance Blockchain Week 2026 | Bangkok, Nov 28–29",
+        "sha256": "c88e8b74fa183a4dd6ac7a03f3157705bdca1db8a5e7c92b3b81bd44e727ca1f"
+      },
+      "previousStartDate": "2026-11-28T09:00:00.000Z",
+      "characters": 768,
+      "preview": "One of the biggest dates in the crypto calendar returns for a special Asia edition live from Bangkok, Thailand, this November.\n\nFinance is making an evolutionary leap and this year's Binance Blockchain Week theme, EVOLVE, is built around it.\n\nTradFi and blockchain are converging, and the markets that once ran on business hours are becoming global, open and always-on.\n\nAt the same time, AI is transforming how freely people move, manage and grow their money carrying us toward a world where financial freedom is effortless and self-directed.\n\nThe definition of finance is being rewritten in real time. EVOLVE is our recognition that we're not just watching that happen - we’re part of the evolution.\n\nFor Speaking opportunities, please submit interest via this form."
+    },
+    {
+      "id": "premier-consensus-hk-2027",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://consensus-hongkong.coindesk.com/",
+        "fetchedAt": "2026-09-20T00:20:09.717Z",
+        "method": "official-section",
+        "pageTitle": "Consensus Hong Kong 2027: Digital Assets, Tokenization, Institutional Finance & AI in Asia",
+        "sha256": "4d7757cfb41a1bea0752b4ed3890fa5d27c4acd52548c4f0a47da7c7bbb13fd7"
+      },
+      "previousStartDate": "2027-02-01T09:00:00.000Z",
+      "characters": 1074,
+      "preview": "## Money. Markets. Machines.\n\n## Consensus Hong Kong Returns\n\nAcross Asia, digital assets are reaching mass adoption, institutions are putting tokenization and stablecoins into production, and AI is creating an entirely new class of economic participants.\n\nConsensus Hong Kong is the gateway for global capital to understand Asia, and where its story meets the world.\n\nProduced by CoinDesk, more than 20,000 executives, investors, builders and policymakers have gathered at Consensus Hong Kong since its debut in 2025 to understand what’s next, and meet the people forging its path.\n\n## 01\n\n## Digital Assets at Scale\n\n## 02\n\n## AI\n\n## 03\n\n## Agentic Economy\n\n## Top Companies That Attend Consensus\n\n## AI in Practice: The Real Conversations happening in the Boardroom\n\n## The Institutions Are Here: "
+    },
+    {
+      "id": "premier-token2049-dubai-2027",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://token2049.com/dubai",
+        "fetchedAt": "2026-09-20T00:20:10.901Z",
+        "method": "event-jsonld",
+        "pageTitle": "TOKEN2049 | 21-22 April 2027 | Dubai",
+        "sha256": "7166dab618a74e90cb819c8a3f9cfe2f38e6ba8546eb002d0f14e3077fb4aa46"
+      },
+      "eventFacts": {
+        "startDate": "2027-04-21",
+        "endDate": "2027-04-22",
+        "addressLocality": "Dubai",
+        "addressCountry": "AE",
+        "city": "Dubai",
+        "country": "AE"
+      },
+      "previousStartDate": "2027-04-21T09:00:00.000Z",
+      "characters": 190,
+      "preview": "TOKEN2049 Dubai brings together the global Web3 industry, uniting entrepreneurs, investors, developers, industry insiders and global media, and creates unparalleled networking opportunities."
+    },
+    {
+      "id": "premier-ethtokyoweek",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://www.ethtokyo.org/",
+        "fetchedAt": "2026-09-20T00:20:11.399Z",
+        "method": "official-section",
+        "pageTitle": "ETHTokyo 2026",
+        "sha256": "696b23cce3cede01a1577b42fb3761f17bc1318a44a68c8fc3bc8279684afa8f"
+      },
+      "previousStartDate": "2026-09-19T09:00:00.000Z",
+      "characters": 11633,
+      "preview": "## ETHTokyo 2026\n\n## What is ETHTokyo?\n\nETHTokyo is a Tokyo-based Ethereum community and coordination layer, bringing together builders, researchers, artists, founders, institutions, public-goods contributors, and independent communities around a shared cypherpunk ethos and optimism for the future.\n\nWe exist to advance the development, adoption, and cultural relevance of Ethereum from Tokyo — through credible, open, permissionless spaces for people building the next generation of programmable, verifiable, and privacy-preserving systems. Our role is to help Ethereum in Tokyo become more connected, credible, permissionless, and alive — not through one venue or one official narrative, but through a city-wide network of people and events.\n\nETHTokyo Week 2026 will take place from September 19 t"
+    },
+    {
+      "id": "premier-freedomtech",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://www.btcpolicy.org/summit",
+        "fetchedAt": "2026-09-20T00:39:52.581Z",
+        "method": "official-section",
+        "pageTitle": "Freedom Tech DC | September 22-23, 2026",
+        "sha256": "967066da2f4c8eb3a5c2a184ab568a8e3905da33277ffe312795015c52262253"
+      },
+      "previousStartDate": "2026-09-22T09:00:00.000Z",
+      "characters": 1179,
+      "preview": "For most of the last century, national power was counted in steel, oil, and warheads. In this one it runs on the technologies of money, speech, and compute, the rails beneath economic life and public argument, and now intelligence itself.\n\nIf we get this right, America compounds a generational advantage; get it wrong and we cede the century to surveillance, capture, and rivals who have already chosen control.\n\nWho gets access to the most capable systems, and on whose authority?\n\nDoes the enormous build-out of energy and compute we need to outpace China become an engine of broad competition, or a set of chokepoints a few firms and agencies can throttle?\n\nCan frontier capability stay open and lawful without being surrendered either to a handful of incumbents or to the most dangerous people o"
+    },
+    {
+      "id": "premier-midwestbtc",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://midwestbtc.com/",
+        "fetchedAt": "2026-09-20T00:20:11.830Z",
+        "method": "official-meta",
+        "pageTitle": "Midwest Bitcoin Summit",
+        "sha256": "dc64e4f4f4ca90b43ffef9f915c7377da13ec921ec1a46ff374ca36f948e578f"
+      },
+      "previousStartDate": "2026-09-23T09:00:00.000Z",
+      "characters": 166,
+      "preview": "The Midwest Bitcoin Summit brings thousands of attendees, 150+ speakers, and the brightest minds in Bitcoin to Columbus, OH on Sept 23-24, 2026. Get your tickets now."
+    },
+    {
+      "id": "premier-ethsofia",
+      "file": "curated-events.json",
+      "name": "ETHSofia 2026",
+      "status": "unavailable",
+      "attempts": [
+        {
+          "url": "https://drive.google.com/file/d/1EBXbTYap_bOnnqeYZxNIyk4D3tJNVfyj/view?usp=sharing",
+          "reason": "no-event-description"
+        },
+        {
+          "url": "https://drive.google.com/file/d/1JHMpDrZc7gXI-NuOgpxTXA-dxbBOhBNk/view?usp=sharing",
+          "reason": "no-event-description"
+        },
+        {
+          "url": "https://www.blockchainweek.bg/",
+          "reason": "event-not-matched"
+        },
+        {
+          "url": "https://www.blockchainweek.bg",
+          "reason": "event-not-matched"
+        }
+      ]
+    },
+    {
+      "id": "premier-btchel",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://btchel.com/",
+        "fetchedAt": "2026-09-20T00:20:12.355Z",
+        "method": "official-section",
+        "pageTitle": "BTCHEL2026 – The Nordic Bitcoin Conference.",
+        "sha256": "307dd99355f648474f804b0ea56ef2f3c0fa2589ac299a5be4e4d8fd668eda71"
+      },
+      "previousStartDate": "2026-09-25T09:00:00.000Z",
+      "characters": 1422,
+      "preview": "## THE NORDIC BITCOIN CONFERENCE\n\n## The Nordic Bitcoin Conference\n\nConnect with community, builders, and experts in the field, shaping the future of a decentralised world.​\n\n## 2026\n\n## Helsinki\n\n## #1\n\n## Innovation First\n\nFeaturing cutting-edge developments in Bitcoin payments, finances, and mining. BTCHEL demonstrates the real-world use of Bitcoin as money.\n\n## Nordic Focus\n\nThe only Bitcoin conference dedicated to the Nordic region, bringing local and international perspectives together. BTCHEL advances local adoption and creates virality among the public.\n\n## Community Driven\n\nConnecting all Bitcoiners in the Nordics, while staying true to the Bitcoin culture and ethos. BTCHEL is an independent, bootstrapped, grassroots conference.\n\n## Sponsors\n\n## Main\n\n## Innovators\n\n## Early Adopt"
+    },
+    {
+      "id": "premier-cvsummit",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://www.cvsummit.ch/",
+        "fetchedAt": "2026-09-20T00:20:12.817Z",
+        "method": "official-meta",
+        "pageTitle": "CV Summit Zurich - Join The Room",
+        "sha256": "6b82373d5b19d5d8151fe354679b937450aef1d9d94275397483b5a4b9fe7f49"
+      },
+      "previousStartDate": "2026-09-29T09:00:00.000Z",
+      "characters": 113,
+      "preview": "Switzerland's largest institutional digital assets & AI conference is back! Join us for CV Summit 2026 in Zürich."
+    },
+    {
+      "id": "premier-ethkorea",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://one.ethereumkorea.io/",
+        "fetchedAt": "2026-09-20T00:20:13.338Z",
+        "method": "official-section",
+        "pageTitle": "Ethereum Korea Week | Two Days, Two Worlds · Sept 28-29, 2026",
+        "sha256": "5c4c400ddf496bc0f266168319a287ed4b6b33052e829a2e3ef4d86f58d75f68"
+      },
+      "previousStartDate": "2026-09-28T09:00:00.000Z",
+      "characters": 1699,
+      "preview": "## Ethereum Korea One\n\nTwo days in Seoul where institutions & builders write Ethereum's next chapter.\n\n같은 체인을 두고 서로 다른 언어를 씁니다.한쪽은 자본과 정책으로, 다른 한쪽은 코드와 커뮤니티로.그 두 대화를 서울에서 잇습니다. One chain, two languages.Two audiences, one city.One speaks in capital and policy,the other in code and community.\n\n## Day 01 · 제도권의 언어The Institutional Voice\n\n토큰화, 스테이블코인, RWA, 디지털 자본시장을 다룹니다. 자산운용사와 은행, 증권사, 정책 입안자가 함께하는 키노트와 라운드테이블로 하루를 채웁니다. Tokenization, stablecoins, RWAs, the digital capital stack. Keynotes and roundtables built for asset managers, banks, brokerages, and regulators.\n\n## Day 02 · 빌더의 언어The Builder Voice\n\n코어 컨트리뷰터부터 이제 막 시작한 프로토콜 팀까지 모입니다. 토크와 패널, 라이트닝 데모, 파이어사이드가 종일 이어지는 한국 빌더 커뮤니티의 하루입니다. From core contributors to emerging protocol teams. Talks, panels, lightning demos, and firesides: a day by"
+    },
+    {
+      "id": "premier-cdnbitcoin",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://canadianbitcoinconf.com/",
+        "fetchedAt": "2026-09-20T00:45:01.213Z",
+        "method": "official-section",
+        "pageTitle": "",
+        "sha256": "019257556ce6b170a2938a46797a4e79180cee1336c8d5d8ee328420a41fc575"
+      },
+      "previousStartDate": "2026-10-02T09:00:00.000Z",
+      "characters": 213,
+      "preview": "## 2026 Canadian Bitcoin Conference Update\n\nRather than delivering an experience that falls short, we have made the difficult decision to cancel this year’s Canadian Bitcoin Conference and Industry Day in Toronto."
+    },
+    {
+      "id": "premier-pslisbon",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://luma.com/P.S.Lisbon",
+        "fetchedAt": "2026-09-19T23:54:12.641Z",
+        "method": "matched-organizer-record",
+        "pageTitle": "P.S. Lisbon",
+        "sha256": "287ee0a2786c6bad8214cf4414768efad532855b5eeaebebd3495af5efe73374"
+      },
+      "matchedRecordId": "w3v-ps-lisbon",
+      "characters": 4658,
+      "preview": "Lisbon has always been a city for the people who explore and build. Following that same spirit, INPUT, Paybis  and nSureAI (https://Nsure.ai) are bringing together the founders, investors and operators reshaping iGaming and payments, for an evening in Alfama, the oldest neighbourhood in Lisbon.\n\nOctober 1st, at La Distillerie, a 19th century distillery at the heart of the neighbourhood. Music, Portuguese wine, and the kind of company worth writing home about.\n\nWhat to expect\n\n\n• Founders, investors, and leaders from across iGaming and payments\n• Portuguese wine tasting led by a sommelier\n• Cocktails and canapés throughout\n• DJ set through the night\n• Postcard Corner: pick a card, write something worth sending, and drop it in the box. It gets stamped and mailed straight to your door.\n• A re"
+    },
+    {
+      "id": "premier-stablecoinsg",
+      "file": "curated-events.json",
+      "name": "Stablecoin Summit Singapore 2026",
+      "status": "unavailable",
+      "attempts": [
+        {
+          "url": "https://xrex.io/",
+          "reason": "event-not-matched"
+        },
+        {
+          "url": "https://xrex.io",
+          "reason": "event-not-matched"
+        }
+      ]
+    },
+    {
+      "id": "premier-vntr",
+      "file": "curated-events.json",
+      "name": "VNTR Investor Forum Singapore 2026",
+      "status": "unavailable",
+      "attempts": [
+        {
+          "url": "https://www.vntr.vc/",
+          "reason": "event-not-matched"
+        },
+        {
+          "url": "https://www.vntr.vc",
+          "reason": "event-not-matched"
+        }
+      ]
+    },
+    {
+      "id": "premier-tabconf",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://8.tabconf.com/",
+        "fetchedAt": "2026-09-20T00:39:52.881Z",
+        "method": "official-section",
+        "pageTitle": "Home · TABConf 8",
+        "sha256": "6639eb81d7a76e4408bc77cca4318cbb7fecfe544823785508957f83ca3aaddd"
+      },
+      "previousStartDate": "2026-10-12T09:00:00.000Z",
+      "characters": 611,
+      "preview": "## When you’re here\n\n• Oct 12–13 — Builder Days & workshops (hands-on building and deep dive workshops).\n\n• Oct 14–15 — Conference sessions (villages, main stage, and community-led programming).\n\nVenue: Georgia Tech Exhibition Hall. Need a room? See Hotels (options near the venue; book directly with properties).\n\n## Mission\n\nTABConf’s mission is to create a forum for protocol and application developers to collaborate, debate, and innovate on Bitcoin.\n\nWe bring together sharp minds to share what they’re building — from core devs to new contributors. If you want signal, not hype, you’re in the right place."
+    },
+    {
+      "id": "premier-ethbrasil",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://www.ethereumbrasil.com/",
+        "fetchedAt": "2026-09-20T00:20:17.365Z",
+        "method": "official-section",
+        "pageTitle": "Ethereum Brasil",
+        "sha256": "876c7ec1fc25d3432fb16c8b16ed9b4e5d677f188ac445719d1c2449c6bb2104"
+      },
+      "previousStartDate": "2026-10-05T09:00:00.000Z",
+      "characters": 2111,
+      "preview": "## Brazil's main layer for the Ethereum ecosystem\n\n## layer\n\nThe strategic bridge for scaling Ethereum products in LATAM.\n\n## Flagship events of Ethereum in Brazil\n\n## ETH Brasil\n\nLarge-scale community conference in São Paulo bringing together the broader ecosystem, protocols, projects, companies and institutions building on Ethereum in Brazil.\n\n## ETH Rio\n\nHigh-level gathering in Rio de Janeiro focused on founders, builders, partners, investors, researchers and global guests.\n\n## Together\n\nThese two events form Brazil’s main entrypoint and activation layer for the Ethereum ecosystem from deep technical builders to ecosystem scale and adoption.\n\n## Designed for High-Quality In-Person Ethereum Interaction\n\nWhere founders, builders, institutions and partners connect, build relationships, and"
+    },
+    {
+      "id": "premier-planblugano",
+      "file": "curated-events.json",
+      "name": "Plan B Forum Lugano 2026",
+      "status": "unavailable",
+      "attempts": [
+        {
+          "url": "https://planb.lugano.ch/",
+          "reason": "event-not-matched"
+        },
+        {
+          "url": "https://planb.lugano.ch",
+          "reason": "event-not-matched"
+        }
+      ]
+    },
+    {
+      "id": "premier-toksummituk",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://www.tokenisation.org.uk/",
+        "fetchedAt": "2026-09-20T00:45:08.870Z",
+        "method": "official-section",
+        "pageTitle": "UK Tokenisation Summit 2026",
+        "sha256": "1f9a01819756257f6ccf313d3f0c4165e7782e9d181d619c138c7d98a91d3694"
+      },
+      "previousStartDate": "2026-10-23T09:00:00.000Z",
+      "characters": 1342,
+      "preview": "## The TokenisationLandscape\n\nTokenisation is reshaping every sector. From decentralised finance and creator economies to enterprise supply chains and public infrastructure, distributed ledger technology is delivering measurable results today.\n\n## Real-World Assets\n\nFrom bonds and equities to real estate, tokenisation is enabling fractional ownership, 24/7 settlement, and dramatically lower transaction costs across global markets.\n\n## DeFi & Digital Finance\n\nDecentralised finance protocols are reshaping lending, trading, and payments -- creating open, permissionless financial infrastructure accessible to everyone.\n\n## Supply Chain & Provenance\n\nBlockchain verifies product origin, reduces fraud, and gives consumers transparent, tamper-proof records from source to shelf.\n\n## Digital Identity"
+    },
+    {
+      "id": "premier-hackmeridian",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://meridian.stellar.org/hackmeridian",
+        "fetchedAt": "2026-09-20T00:39:52.890Z",
+        "method": "official-section",
+        "pageTitle": "Meridian 2026 - HackMeridian",
+        "sha256": "34db854ee2a82f1da14fba5ee3041639ef0625191941d682b4831028c671c75c"
+      },
+      "previousStartDate": "2026-10-25T09:00:00+01:00",
+      "characters": 248,
+      "preview": "## Build something worth shipping.\n\nTwo days of building alongside developers, founders, designers, and technical teams in Lisbon. HackMeridian brings together builders from around the world to turn ambitious ideas into working products on Stellar."
+    },
+    {
+      "id": "premier-meridian",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://meridian.stellar.org/",
+        "fetchedAt": "2026-09-20T00:20:18.763Z",
+        "method": "official-section",
+        "pageTitle": "Meridian 2026 - Meridian 2026",
+        "sha256": "41e819c900f69d9c91fab0532a425696cd4c63868088a2e2d6ce5491fa73c8f9"
+      },
+      "previousStartDate": "2026-10-28T09:00:00+01:00",
+      "characters": 1458,
+      "preview": "## Two days of insights, connections, and opportunities shaping the future of global finance.\n\nAssembling the visionaries of tomorrow. Industry leaders, innovators, developers, builders, and policymakers shaping Stellar.\n\n## Meet the speakers driving the dialogue.\n\nThrough keynote presentations, panel discussions, and in-depth sessions, they explore emerging trends, practical challenges, and new opportunities.\n\n## Anthony Scaramucci\n\n## Jamie Walker\n\n## Nadine Chakar\n\n## Michael Shaulov\n\n## Ginger Baker\n\n## Meridian focuses on how the Stellar network is used in the real world. The program balances learning, collaboration, and product discovery, giving attendees direct access to the people and organizations actively building the ecosystem.\n\n## HackMeridian is coming to Lisbon.\n\nTwo days of "
+    },
+    {
+      "id": "premier-cypherpunk",
+      "file": "curated-events.json",
+      "name": "Ethereum Cypherpunk Congress Mumbai 2026",
+      "status": "unavailable",
+      "attempts": [
+        {
+          "url": "https://web3privacy.info/",
+          "reason": "event-not-matched"
+        },
+        {
+          "url": "https://web3privacy.info",
+          "reason": "event-not-matched"
+        }
+      ]
+    },
+    {
+      "id": "premier-africabcfest",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://africablockchainfestival.com/",
+        "fetchedAt": "2026-09-20T00:20:18.867Z",
+        "method": "official-section",
+        "pageTitle": "Africa Blockchain Festival – Shaping Africa's Decentralized Future",
+        "sha256": "4cd300313908360e475aa8933b7e03690194598b728f93d5bbc8f81731886927"
+      },
+      "eventFacts": {
+        "startDate": "2026-10-15",
+        "endDate": "2026-10-17",
+        "venueName": "Sarit Expo Centre",
+        "location": "Sarit Expo Centre, Nairobi, Kenya",
+        "city": "Nairobi",
+        "country": "Kenya"
+      },
+      "previousStartDate": "2026-11-07T09:00:00.000Z",
+      "characters": 3158,
+      "preview": "## Africa’s Largest Blockchain Festival & Tokenization Summit\n\nThe continent’s most significant convergence of policymakers, investors, builders, and global Web3 leaders.\n\n## ● AFRICA BLOCKCHAIN FESTIVAL 2026 ● October 15-17, 2026 ● WORLD TOKEN SUMMIT 2026 ● Sarit Expo Centre, Nairobi, Kenya ● AFRICA BLOCKCHAIN FESTIVAL 2026 ● October 15-17, 2026 ● WORLD TOKEN SUMMIT 2026 ● Sarit Expo Centre, Nairobi, Kenya ● AFRICA BLOCKCHAIN FESTIVAL 2026 ● October 15-17, 2026 ● WORLD TOKEN SUMMIT 2026 ● Sarit Expo Centre, Nairobi, Kenya ● AFRICA BLOCKCHAIN FESTIVAL 2026 ● October 15-17, 2026 ● WORLD TOKEN SUMMIT 2026 ● Sarit Expo Centre, Nairobi, Kenya\n\n## Africa Blockchain Festival™ (ABF) X WORLD TOKEN SUMMIT (WTS) is the continent’s most high-conviction gathering dedicated to the intersection of block"
+    },
+    {
+      "id": "premier-unbanked",
+      "file": "curated-events.json",
+      "name": "The (un)Banked Conference 2026",
+      "status": "unavailable",
+      "attempts": [
+        {
+          "url": "https://input.global/",
+          "reason": "event-not-matched"
+        },
+        {
+          "url": "https://input.global",
+          "reason": "event-not-matched"
+        }
+      ]
+    },
+    {
+      "id": "premier-bitcoinhistorico",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://bitcoinhistorico.com/",
+        "fetchedAt": "2026-09-20T00:45:22.449Z",
+        "method": "official-section",
+        "pageTitle": "Home - Bitcoin Histórico",
+        "sha256": "365ff7c0ae6aa62541bad6c76ca54dc6ec878abef230e641609baf34f94ac18c"
+      },
+      "previousStartDate": "2026-11-11T09:00:00.000Z",
+      "characters": 1513,
+      "preview": "## A Conference by the National Bitcoin Office of El Salvador\n\nBitcoin Histórico celebrates financial freedom in the heart of San Salvador, itself the living example of the liberation of the people of El Salvador. Participate in two days of immersive activities across the landmarks of our capital.\n\n## National Palace\n\nKeynote speeches live-streamed to giant LED screens on Plaza Gerardo Barrios\n\n## Speakers 2026\n\n## Main Stage\n\n## Max Keiser\n\n## Stacy Herbert\n\n## Jimmy Song\n\n## Giacomo Zucco\n\n## Saifedean Ammous\n\n## Pierre Rochard\n\n## Knut Svanholm\n\n## Jon Atack\n\n## Lina Seiche\n\n## Fadi Elsalameen\n\n## Milena Mayorga\n\n## Isabella Santos\n\n## Julian Liniger\n\n## Seb Gouspillou\n\n## Roman Martínez\n\n## Eric Yakes\n\n## Gerson Martinez\n\n## Katie Ananina\n\n## George McBride\n\n## Pamela Posada\n\n## Bitste"
+    },
+    {
+      "id": "premier-africastablecoin",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://africastablecoinsummit.io/",
+        "fetchedAt": "2026-09-20T00:20:20.984Z",
+        "method": "official-section",
+        "pageTitle": "Africa Stablecoin Summit - Cape Town",
+        "sha256": "c54f40731b778ce9ad9c0808886552f77c75f56fc315f870982ef12419402c79"
+      },
+      "previousStartDate": "2026-11-12T09:00:00.000Z",
+      "characters": 2204,
+      "preview": "## SEE YOU AT AFRICA STABLECOIN SUMMIT 2026\n\nA high-level, summit targeting C-suite executives, regulators, central bankers, stablecoin issuers, and leaders in finance and cross-border trade.\n\n## Summit Objectives\n\n## Advance Institutional Adoption\n\nFacilitate structured engagement between regulators, banks, fintechs, and stablecoin issuers.\n\n## Support Policy Convergence\n\nEncourage dialogue on licensing, supervision, AML/CFT, accounting standards, and cross-border compliance.\n\n## Showcase Proven Use Cases\n\nHighlight enterprise and treasury implementations across trade, remittances, FX, and liquidity management.\n\n## Strengthen Infrastructure\n\nEnable partnerships across custody, payments, liquidity provision, and compliance technology.\n\n## Generate Commercial Outcomes\n\nCreate direct pathway"
+    },
+    {
+      "id": "premier-bigwhale",
+      "file": "curated-events.json",
+      "name": "The Big Whale Summit 2026",
+      "status": "unavailable",
+      "attempts": [
+        {
+          "url": "https://www.thebigwhale.io/",
+          "reason": "event-not-matched"
+        },
+        {
+          "url": "https://www.thebigwhale.io",
+          "reason": "event-not-matched"
+        }
+      ]
+    },
+    {
+      "id": "premier-nabsummit",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://www.northamericanblockchainsummit.com/",
+        "fetchedAt": "2026-09-20T00:20:23.048Z",
+        "method": "official-section",
+        "pageTitle": "NABS - The Energy and Digital Infrastructure Conference",
+        "sha256": "1f37d45447e45533ca42a932e7097760da7aa65541edeb65ec2fea3691ff2a1d"
+      },
+      "previousStartDate": "2026-11-18T09:00:00.000Z",
+      "characters": 1770,
+      "preview": "The era of speculation is over. Blueprints reflects our collective mission to finalize the technical, energetic, and regulatory frameworks that will define North American leadership for decades to come. Attend NABS to get hands-on with the people securing our digital future and deploying the next generation of infrastructure.\n\nNABS is the conference for the leaders architecting the future of digital infrastructure. Focused on the core pillars of strategic infrastructure, capital, partnerships, and global leadership, the Summit convenes C-suite executives, policymakers, and innovators to secure and deploy the next generation of North American legacy.\n\nThis is where the industry’s blueprints are refined and the partnerships that drive global scale are solidified.Hosted by the Digital Infrast"
+    },
+    {
+      "id": "premier-cryptofest",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://cryptofest.co.za/",
+        "fetchedAt": "2026-09-20T00:20:23.709Z",
+        "method": "official-section",
+        "pageTitle": "Crypto Fest 2026 | 20 Nov 2026 | 8th Edition | Get Your Tickets",
+        "sha256": "29794c9205f2fa93f2da6fefff23a827042e0414703f8dede43cef72ae164335"
+      },
+      "previousStartDate": "2026-11-20T09:00:00.000Z",
+      "characters": 5815,
+      "preview": "• Previous Events Blockchain Africa Conferences Crypto Fest Strategic Bitcoin Reserve Summit DeFi Conferences\n\n## Cape Town\n\n## Crypto Fest 2026\n\nWelcome to a premier Web3 gathering in the stunning city of Cape Town, South Africa, where we’ll explore blockchain and digital asset innovations with industry-leading speakers and provide valuable networking opportunities.\n\n## Cape Town, South Africa | 8th Edition\n\nGet ready for an unforgettable experience as Crypto Fest, hosted by Bitcoin Events, returns for its highly anticipated eighth edition, set against the breathtaking backdrop of Cape Town, South Africa!\n\nAs Cape Town’s premier annual Web3 event, Crypto Fest brings together a diverse community of innovators, industry leaders, and blockchain enthusiasts to explore the rapidly evolving wor"
+    },
+    {
+      "id": "premier-planx",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://planxconf.com/",
+        "fetchedAt": "2026-09-20T00:45:36.084Z",
+        "method": "event-jsonld",
+        "pageTitle": "PlanX Dubai 2026 | Founder-Growth Conference",
+        "sha256": "96c7675a7f9634cc2bafe848991e91841bed17c983d96dacfc0f60876b7a5fd6"
+      },
+      "eventFacts": {
+        "startDate": "2026-11-25T07:00:00+00:00",
+        "endDate": "2026-11-26T20:00:00+00:00",
+        "venueName": "Grand Hyatt Dubai Conference &amp; Exhibition Centre",
+        "streetAddress": "Riyadh Street, Sheikh Rashid Road, Dubai Healthcare City",
+        "addressLocality": "Dubai",
+        "addressRegion": "AE",
+        "addressCountry": "United Arab Emirates",
+        "city": "Dubai",
+        "country": "United Arab Emirates",
+        "location": "Grand Hyatt Dubai Conference &amp; Exhibition Centre, Riyadh Street, Sheikh Rashid Road, Dubai Healthcare City, Dubai, AE, United Arab Emirates"
+      },
+      "previousStartDate": "2026-11-25T09:00:00.000Z",
+      "characters": 97,
+      "preview": "A founder-growth conference and exhibition in Dubai for founders scaling to 7 figures and beyond."
+    },
+    {
+      "id": "premier-africapredict",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://www.africapredictionmarketssummit.com/",
+        "fetchedAt": "2026-09-20T00:20:29.896Z",
+        "method": "official-section",
+        "pageTitle": "APMS 2026 - Africa Prediction Markets Summit",
+        "sha256": "d86dbbde1930978512140743f8cb2bafdb4eb680610a2c59dee49721895a7199"
+      },
+      "previousStartDate": "2026-11-26T09:00:00.000Z",
+      "characters": 678,
+      "preview": "## Pioneering the Future of Prediction Markets in Africa\n\nThe Africa Prediction Markets Summit brings together thought leaders, technologists, policymakers, and innovators to explore how prediction markets can drive economic growth, improve decision-making, and create new opportunities across the continent.\n\nFrom forecasting to risk management, discover how prediction markets are transforming industries and empowering communities throughout Africa.\n\n## Networking\n\nConnect with industry pioneers and innovators\n\n## Insights\n\nLearn from market leaders and experts\n\n## Workshops\n\nHands-on sessions and practical training\n\n## Cape Town\n\nWorld-class venue in a stunning location"
+    },
+    {
+      "id": "premier-africabitcoin",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://afrobitcoin.org/",
+        "fetchedAt": "2026-09-20T00:20:31.160Z",
+        "method": "official-section",
+        "pageTitle": "AFRICA BITCOIN CONFERENCE - Africa Bitcoin Conference",
+        "sha256": "4db5f0220fb8a990f8f940b4c8cdee9405f079c746a139291340dd0306eb79c3"
+      },
+      "previousStartDate": "2026-12-02T09:00:00.000Z",
+      "characters": 3917,
+      "preview": "## 2026\n\nAfrica’s largest gathering of the Bitcoin & freedom-tech community.\n\n## 2 – 5 December 2026, Amaryllis Hotel in Blantyre, Malawi\n\n## What is The Africa Bitcoin Conference ?\n\nEvery year, we bring together activists, innovators, and decision-makers to explore how Bitcoin safeguards fundamental freedoms, strengthens economic autonomy, and paves the way for lasting sovereignty.\n\n## Take the stage at ABC26\n\n## Let’s amplify Africa’s voice in the global Bitcoin story\n\nEvery year, the Africa Bitcoin Conference features dozens of inspiring speakers. Would you like to be part of this journey and share your insights and perspective on Bitcoin’s role in shaping a more liberated Africa and world?\n\n## ABC 26 Speakers\n\nEach Year, Visionary Leaders Share Their Insights at the Africa Bitcoin Conf"
+    },
+    {
+      "id": "premier-agenticpay",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://luma.com/mw84pfjm",
+        "fetchedAt": "2026-09-19T23:29:49.798Z",
+        "method": "matched-organizer-record",
+        "pageTitle": "Agentic Payments Onchain",
+        "sha256": "db0818c5f9169b6f24c5b417a01f084a029e576e45654272b6bba194cd62d8c7"
+      },
+      "matchedRecordId": "w3v-agentic-payments-onchain",
+      "characters": 2458,
+      "preview": "## Agentic Payments Onchain\n\n\n> 행사는 한국어로 진행됩니다.\n> \n> The event is going to be conducted in Korean.\n\nRipple (https://ripple.com), t54 (https://t54.ai), Tenity (https://www.tenity.com/), Bloom (https://bloomworld.ai/community/)이 함께하는 KBW 공식 사이드 이벤트입니다.\n\n📅 2026.09.28 (월) 18:00–23:00 KST   📍 강남 (신청 승인 후 안내)   🎟 무료 · 승인제\n\n\n## 이런 분들을 환영합니다\n\n\n• XRPL (https://xrpl.org) 및 온체인 AI 인프라에 관심 있는 빌더/개발자\n• Agentic payment, x402, MPP, AP2, ACP 등 machine to machine 결제 표준에 관심 있는 분\n• 자율 금융 에이전트(autonomous financial agent)의 보안 모델에 관심 있는 리서처/엔지니어\n• 블록체인과 t54 생태계 위에서 프로젝트를 구상 중인 빌더\n• 웹3 x AI 생태계 네트워킹을 희망하는 분\n\n직종 관련없이 위 항목 중 하나라도 해당된다면 모두 환영입니다.\n\n\n## 시간표\n\n18:00 – 19:00 · 입장, 다과 및 네트워킹\n\n19:00 – 19:15 · 오프닝\n\n\n• 오프닝: Joel Mun (Sr. Devrel, Ripple) (https://www.linkedin.com/in/7oelm/)\n• t54 소개: Claire Jung (APAC Reg"
+    },
+    {
+      "id": "premier-finalityforum",
+      "file": "curated-events.json",
+      "name": "Finality Forum Singapore 2026",
+      "status": "unavailable",
+      "attempts": [
+        {
+          "url": "https://ethenelabs.xyz/",
+          "reason": "event-not-matched"
+        },
+        {
+          "url": "https://ethenelabs.xyz",
+          "reason": "event-not-matched"
+        }
+      ]
+    },
+    {
+      "id": "premier-theodds",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://mnm.live/theodds/t2049singapore",
+        "fetchedAt": "2026-09-20T00:20:34.737Z",
+        "method": "event-jsonld",
+        "pageTitle": "The Odds: Prediction Markets Summit Singapore 2026",
+        "sha256": "9b0cb49d44d0ac827cfdc94f2e11705572ad851eb4820807e9deb83d9b30dc3d"
+      },
+      "eventFacts": {
+        "startDate": "2026-10-08T14:00:00+08:00",
+        "endDate": "2026-10-08T20:00:00+08:00",
+        "venueName": "Suntec Convention Centre",
+        "streetAddress": "1 Raffles Boulevard, Suntec City",
+        "addressLocality": "Singapore",
+        "addressCountry": "SG",
+        "city": "Singapore",
+        "country": "SG",
+        "location": "Suntec Convention Centre, 1 Raffles Boulevard, Suntec City, Singapore, SG"
+      },
+      "previousStartDate": "2026-10-06T09:00:00.000Z",
+      "characters": 167,
+      "preview": "A curated prediction markets summit - 400 attendees, 50+ speakers, two stages across four hours - at Suntec City, Singapore, on October 8, 2026, during TOKEN2049 week."
+    },
+    {
+      "id": "premier-solidusroundtable",
+      "file": "curated-events.json",
+      "name": "Crypto Compliance & Legal Roundtable Seoul 2026",
+      "status": "unavailable",
+      "attempts": [
+        {
+          "url": "https://www.soliduslabs.com/",
+          "reason": "event-not-matched"
+        },
+        {
+          "url": "https://www.soliduslabs.com",
+          "reason": "event-not-matched"
+        }
+      ]
+    },
+    {
+      "id": "premier-onchaincapital",
+      "file": "curated-events.json",
+      "name": "Onchain Capital & Liquidity Seoul 2026",
+      "status": "unavailable",
+      "attempts": [
+        {
+          "url": "https://lilroom.xyz/",
+          "reason": "event-not-matched"
+        },
+        {
+          "url": "https://lilroom.xyz",
+          "reason": "event-not-matched"
+        }
+      ]
+    },
+    {
+      "id": "premier-instonchain",
+      "file": "curated-events.json",
+      "name": "Institutional Onchain: RWAs & Stablecoins Seoul 2026",
+      "status": "unavailable",
+      "attempts": [
+        {
+          "url": "https://lilroom.xyz/",
+          "reason": "event-not-matched"
+        },
+        {
+          "url": "https://lilroom.xyz",
+          "reason": "event-not-matched"
+        }
+      ]
+    },
+    {
+      "id": "premier-raylsseoul",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://luma.com/r5p3iwb8",
+        "fetchedAt": "2026-09-19T23:54:12.111Z",
+        "method": "matched-organizer-record",
+        "pageTitle": "Rayls in Seoul | KBW",
+        "sha256": "70671a274708ce7bb60401707e7ad77e6170e07015d5e79b3acaac9e1d58f410"
+      },
+      "matchedRecordId": "w3v-rayls-in-seoul",
+      "characters": 767,
+      "preview": "Rayls will be in Seoul during Korea Blockchain Week, bringing together leaders across financial services, digital assets and onchain infrastructure.\n\nMore details will be announced soon.\n\nRegister now to receive priority access and be first to hear about what’s planned.\n\n\n\nAbout Rayls (https://www.rayls.com/?utm_source=luma)\n\nRayls (https://www.rayls.com/?utm_source=luma) is a blockchain ecosystem that bridges traditional finance with decentralized finance by providing a compliant, private, and scalable infrastructure for financial institutions. Its hybrid architecture combines permissioned private networks with an EVM-compatible public chain to facilitate use cases like asset tokenization, cross-border payments, and central bank digital currency settlement"
+    },
+    {
+      "id": "premier-gbshow",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://www.globalblockchainshow.com/abu-dhabi/",
+        "fetchedAt": "2026-09-20T00:20:37.342Z",
+        "method": "event-jsonld",
+        "pageTitle": "Global Blockchain Show Abu Dhabi - Premier Crypto Event",
+        "sha256": "acc9f3d367a22ff23c711f37d3a3abd5cee5e5e1c99cc3253c267e11367d6df4"
+      },
+      "eventFacts": {
+        "startDate": "2026-11-26T09:00:00+00:00",
+        "endDate": "2026-11-27T18:00:00+00:00",
+        "venueName": "Abu Dhabi",
+        "addressLocality": "Abu Dhabi",
+        "addressCountry": "UAE",
+        "city": "Abu Dhabi",
+        "country": "UAE",
+        "location": "Abu Dhabi, UAE"
+      },
+      "previousStartDate": "2026-11-26T09:00:00.000Z",
+      "characters": 138,
+      "preview": "Join the Global Blockchain Show Abu Dhabi 2026 - the premier crypto event uniting top Web3 leaders, innovators & investors across the UAE."
+    },
+    {
+      "id": "premier-ethwomen",
+      "file": "curated-events.json",
+      "name": "ETHWomen Florida 2026",
+      "status": "unavailable",
+      "attempts": [
+        {
+          "url": "https://www.futuristconference.com/",
+          "reason": "event-not-matched"
+        },
+        {
+          "url": "https://www.futuristconference.com",
+          "reason": "event-not-matched"
+        }
+      ]
+    },
+    {
+      "id": "premier-crypto-finance-forum-2026",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://cryptofinanceforum.nyc/",
+        "fetchedAt": "2026-09-20T00:20:38.130Z",
+        "method": "official-section",
+        "pageTitle": "Crypto Finance Forum | Cryptio",
+        "sha256": "5d8919b693b684bcfe10c6016ba4807ccc0ac6ef1cebb5f703a00c079e0a9366"
+      },
+      "previousStartDate": "2026-09-22T09:00:00-04:00",
+      "characters": 507,
+      "preview": "## Agenda\n\nThis session is eligible for up to 1.0 CPE credit (pending approval).View CPE Information\n\n• Institutional adoption of digital assets across banks, asset managers and regulated financial institutions\n\n• Keeping pace with fast‑shifting global regulation and expectations.\n\n• Translating staking, DeFi, stablecoins, tokenized assets and other new primitives activity into clear accounting treatments.\n\n• Building resilient treasury, risk, lending and reporting frameworks that stand up to scrutiny."
+    },
+    {
+      "id": "premier-shaka-biarritz-2026",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://shaka.events/",
+        "fetchedAt": "2026-09-20T00:20:38.642Z",
+        "method": "event-jsonld",
+        "pageTitle": "SHAKA Festival Biarritz 2026 | IA, Blockchain & Business",
+        "sha256": "29b3bbb719af7e9262ee1379723b7b581f1aa5098853a589b7d8cb040c703481"
+      },
+      "eventFacts": {
+        "startDate": "2026-09-24",
+        "endDate": "2026-09-26",
+        "venueName": "Cité de l'Océan",
+        "addressLocality": "Biarritz",
+        "addressRegion": "Nouvelle-Aquitaine",
+        "addressCountry": "FR",
+        "city": "Biarritz",
+        "country": "FR",
+        "location": "Cité de l'Océan, Biarritz, Nouvelle-Aquitaine, FR"
+      },
+      "previousStartDate": "2026-09-24T09:00:00+02:00",
+      "characters": 143,
+      "preview": "Le festival IA, blockchain et business à Biarritz: 3 jours de talks, workshops, startups, networking, surf et soirées pour prendre de l'avance."
+    },
+    {
+      "id": "premier-metamorphosis-2026",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://metamorphosisconf.com/tickets/",
+        "fetchedAt": "2026-09-20T00:20:39.112Z",
+        "method": "official-meta",
+        "pageTitle": "Metamorphosis 2026 | India's Premier Web3 & AI Gala",
+        "sha256": "b1f8e93bee0664251d8004c9eb4e00345eb8318421cc727c32b9b3d35326b010"
+      },
+      "previousStartDate": "2026-09-26T09:00:00+05:30",
+      "characters": 192,
+      "preview": "Join Metamorphosis 2026 in Hyderabad on September 26–27 for India's largest\nWeb3 and AI event. Connect with global thought leaders, developers, and innovators shaping the future of\ntechnology."
+    },
+    {
+      "id": "premier-bitcoin-treasuries-2026",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://bitcointreasuries.net/conference",
+        "fetchedAt": "2026-09-20T00:20:39.559Z",
+        "method": "event-jsonld",
+        "pageTitle": "Bitcoin Treasuries Conference - September 28, 2026 - NYC",
+        "sha256": "40d167a12ad99faec9689c252c56296454a98a438220eff8cbcf6f9a2a7b12be"
+      },
+      "eventFacts": {
+        "startDate": "2026-09-28T08:00:00-04:00",
+        "endDate": "2026-09-28T17:30:00-04:00",
+        "venueName": "SECOND",
+        "streetAddress": "849 6th Avenue",
+        "addressLocality": "New York",
+        "addressRegion": "NY",
+        "postalCode": "10001",
+        "addressCountry": "US",
+        "city": "New York",
+        "country": "US",
+        "location": "SECOND, 849 6th Avenue, New York, NY, 10001, US"
+      },
+      "previousStartDate": "2026-09-28T08:00:00-04:00",
+      "characters": 155,
+      "preview": "A closed-door conference on corporate bitcoin treasury strategy — allocators, executives, and strategists in one room. September 28, 2026 in New York City."
+    },
+    {
+      "id": "premier-wob-madrid-2026",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://wobitcoin.org/",
+        "fetchedAt": "2026-09-20T00:20:39.704Z",
+        "method": "official-section",
+        "pageTitle": "Watch out, Bitcoin! — WOB 5",
+        "sha256": "bef494f089711e3e19acec092871c9b8431ac81de2668985e6260a5573cc87e2"
+      },
+      "previousStartDate": "2026-10-02T16:00:00+02:00",
+      "characters": 1831,
+      "preview": "Cinco años de debate global sobre Bitcoin. Tres días de paneles, talleres y networking en Madrid.\n\n## Cinco bloques. Una cadena.\n\nCinco años construyendo sobre principios. Cinco años minando comunidad.\n\n## Madrid.Octubre.Bitcoin.\n\n## Tres días. Una forma de entender Bitcoin.\n\n## Talleres\n\nViernes práctico. Lightning, multisig, nodos, privacidad. Trae tu portátil.\n\n## Debates\n\nSábado y domingo de paneles sin filtros. Las preguntas difíciles, las que importan.\n\n## Comunidad\n\nCocktails, cenas y la red WoB. El motivo real por el que la gente vuelve cada año.\n\n## Quiénes hablan.\n\n## Quienes hacen posible WOB 5\n\n## Qué ocurre cada día.\n\nLos talleres son a la misma hora. Tu entrada te da acceso a uno: lo eliges después de comprar.\n\n## Compras la entrada y te escribimos por email para que elijas t"
+    },
+    {
+      "id": "premier-rwa-week-2026",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://rwaweek.com/",
+        "fetchedAt": "2026-09-20T00:20:40.087Z",
+        "method": "official-meta",
+        "pageTitle": "RWA WEEK - Online & Offline Ecosystem for Real-World Assets tokenization industry",
+        "sha256": "9b63d6dea36b0737bb04691ee90de6c5d1f8091d33efb83f6ec8d6f0ab294597"
+      },
+      "previousStartDate": "2026-10-05T09:00:00+08:00",
+      "characters": 197,
+      "preview": "RWA WEEK — Online & Offline Ecosystem Platform for Real-World Assets tokenization community. Latest news, event calendar, online and offline events, interviews, networking and matchmaking platform."
+    },
+    {
+      "id": "premier-daweek-london-2026",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://daweek.org/london/",
+        "fetchedAt": "2026-09-20T00:20:40.865Z",
+        "method": "official-section",
+        "pageTitle": "Digital Assets Week in London - October 2026",
+        "sha256": "6d1af912ee9a88fc4bfecd908521158434d26167aef288382c4a6eabb7f00124"
+      },
+      "previousStartDate": "2026-10-06T08:30:00+01:00",
+      "characters": 1245,
+      "preview": "## DA Week Series Sponsors\n\nDigital Assets Week is the world’s leading institutional conference series focused on the digitisation and tokenisation of all asset classes.\n\nThe series is the forum where capital markets transformation is examined in depth, from issuance and market structure to settlement, custody, liquidity and regulatory alignment.\n\nThe underlying foundation of Digital Assets Week is Global Asset Digitisation Projects, making it the only venue where the commercialisation of tokenising assets is discussed comprehensively and at scale.\n\n• The only event focused on bringing digital assets and institutions together\n\n• Highly curated invite-only audience of financial institutions, institutional investors, brokers, private equity and venture capital firms, infrastructure providers"
+    },
+    {
+      "id": "premier-token2049-origins-2026",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://www.token2049.com/singapore/2049-origins",
+        "fetchedAt": "2026-09-20T00:20:41.129Z",
+        "method": "official-section",
+        "pageTitle": "Origins Hackathon  | TOKEN2049 | Singapore",
+        "sha256": "83372b84559ec039975bb42b50485879b6c5786933f9cc59fda75bc6863db5ac"
+      },
+      "previousStartDate": "2026-10-06T09:00:00+08:00",
+      "characters": 2287,
+      "preview": "## Access\n\nAccess the world's largest crypto event. Connect with 25,000 attendees, media, and industry leaders shaping Web3.\n\n## Build\n\nTake your idea from concept to working product in 36 hours. Free meals, rest zones, and snacks keep you locked in.\n\n## Demo\n\nBuild in DeFi, infrastructure, NFTs, or AI. Get mentorship. Demo on the TOKEN2049 stage to 25,000 attendees.\n\n## Win\n\nCompete for prizes, grants, and accelerator spots. Pitch for funding and global recognition.\n\n## 36 hours.\n\n## 19 Aug\n\n## 18 Sep\n\n## 28 Sep\n\n## 6-8 Oct\n\n## $150,000\n\n## Agentic Commerce\n\n## Best Workflow with CRE\n\n## Multichain Infrastructure Challenge\n\nBuild a working Web3 product using NOWNodes blockchain infrastructure.\n\n## Best Use of Solana\n\nBuild on Solana and turn your idea into a working onchain product.\n\n## 3"
+    },
+    {
+      "id": "premier-coinalts-2026",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://coinalts.xyz/",
+        "fetchedAt": "2026-09-20T00:20:41.188Z",
+        "method": "official-section",
+        "pageTitle": "CoinAlts | Discover the Future of Finance | October 14, 2026",
+        "sha256": "b86eb2184d2ffe142d37efabd0ee4abadc2ec79d26fcdd5a21bccb4a4c246983"
+      },
+      "previousStartDate": "2026-10-14T09:00:00-07:00",
+      "characters": 482,
+      "preview": "## Shaping the Future of Digital Assets\n\nOn October 14, 2026, CoinAlts will host the latest in a series of events for the digital asset community addressing investment, legal, and operational issues pertaining to private fund managers.\n\nEstablished in 2017, CoinAlts is an annual gathering and forum for the digital asset community. 2026 Premier Sponsors Cole-Frieman & Mallon LLP, MG Stover LLC, Harneys, and KPMG have practices devoted to fund managers in the digital asset space."
+    },
+    {
+      "id": "premier-blockchain-africa-2026",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://blockchainafrica.co/",
+        "fetchedAt": "2026-09-20T00:20:42.357Z",
+        "method": "official-section",
+        "pageTitle": "Blockchain Africa Conference 2026 | 15 Oct 2026 | 12th Edition",
+        "sha256": "e9c98af37b6dfd51397fda3f7f45ebcd8a46f2418b10084ffa6c48ffaa123e9a"
+      },
+      "previousStartDate": "2026-10-15T09:00:00+02:00",
+      "characters": 4915,
+      "preview": "• Previous Conferences Blockchain Africa Conference 2025 Strategic Bitcoin Reserve Summit 2025 Blockchain Africa Conference 2024 Crypto Fest 2024 Crypto Fest 2023 Blockchain Africa Conference 2023 Crypto Fest 2022 Blockchain Africa Conference 2022 Crypto Fest 2021 DeFi Conference 2021 Blockchain Africa Conference 2021 Crypto Fest 2020 DeFi Conference 2020 Blockchain Africa Conference 2020 Crypto Fest 2019 Blockchain Africa Conference 2019 Blockchain Africa Conference 2019 Blockchain Africa Conference 2018 Blockchain Africa Conference 2017 Blockchain and Bitcoin Africa Conference 2016 Bitcoin Africa Conference 2015\n\n## 12th Annual Edition\n\n## Blockchain Africa Conference 2026\n\n## BLOCKCHAIN AFRICA CONFERENCE OVER THE YEARS\n\n## 11,270+\n\n## 410+\n\n## 165+\n\n## ABOUT BLOCKCHAIN AFRICA CONFERENCE"
+    },
+    {
+      "id": "premier-blockfest-africa-2026",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://blockfestafrica.com/",
+        "fetchedAt": "2026-09-20T00:20:43.409Z",
+        "method": "event-jsonld",
+        "pageTitle": "Blockf3st Africa 2026 - The Superbowl of Web3",
+        "sha256": "87d87e4e8784ec0259e3928789cc1e09b14e91ffdc2ee2e9c2cd50ef061796b7"
+      },
+      "eventFacts": {
+        "startDate": "2026-10-22T08:00:00+01:00",
+        "endDate": "2026-10-24T22:00:00+01:00",
+        "venueName": "National Art Theatre, Lagos",
+        "streetAddress": "National Art Theatre, Lagos",
+        "addressLocality": "Lagos",
+        "addressRegion": "Lagos State",
+        "addressCountry": "NG",
+        "city": "Lagos",
+        "country": "NG",
+        "location": "National Art Theatre, Lagos, Lagos, Lagos State, NG"
+      },
+      "previousStartDate": "2026-10-22T08:00:00+01:00",
+      "characters": 184,
+      "preview": "New Trade Routes: Bringing Africa Onchain. Three days of building, networking and dealmaking with 5,000+ founders, engineers, investors and policymakers at National Art Theatre, Lagos."
+    },
+    {
+      "id": "premier-blockchain-summit-latam-2026",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://blockchainsummit.la/colombia2026/",
+        "fetchedAt": "2026-09-20T00:20:43.960Z",
+        "method": "official-section",
+        "pageTitle": "Blockchain Summit Latam Colombia 2026",
+        "sha256": "e8658c145b2e229bb55806240d7874a140710c6e87d4b8bcc52ed4d586382c70"
+      },
+      "previousStartDate": "2026-11-04T08:00:00-05:00",
+      "characters": 6293,
+      "preview": "## BLOCKCHAIN SUMMIT LATAM\n\n## 4, 5 y 6 de Noviembre\n\n## BlockchainSummitLatamBlockchainSummitLatamBogotá, Colombia\n\n## El futuro del sistema financiero: una mirada regional\n\nBSL Colombia 2026 reunirá a autoridades, líderes del sistema financiero, representantes de la academia y actores del ecosistema tecnológico de América Latina para analizar los principales desafíos y oportunidades de la transformación financiera.\n\nLas conversaciones abordarán la innovación financiera, la modernización de los sistemas de pago, la evolución regulatoria, los activos digitales, tokenización y las nuevas formas de dinero e infraestructura financiera.\n\nUn espacio regional de diálogo y análisis para conectar experiencias, perspectivas y aprendizajes, promoviendo la colaboración entre el sector público y priva"
+    },
+    {
+      "id": "premier-unchained-summit-india-2026",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://unchainedsummit.com/india/",
+        "fetchedAt": "2026-09-20T00:20:45.316Z",
+        "method": "official-section",
+        "pageTitle": "Unchained Summit India | Top Web3 & Crypto Conference | 5-6 Nov 2026",
+        "sha256": "75526574aa84f60e5335a8e6fd289e8b56830997f30183af5a835f6113f083a8"
+      },
+      "previousStartDate": "2026-11-05T09:00:00+05:30",
+      "characters": 14657,
+      "preview": "## #1 Web3 & Crypto Event in India for High-impact Networking and Deal-flow\n\n## India’s Web3 & Crypto Summit for Builders, Investors and Institutions\n\n• Unchained Summit brings together the institutions, investors, founders, policymakers, traders and technology leaders shaping the next era of digital assets, financial markets and Web3.\n\n• India combines massive digital-asset adoption, deep technical talent and a rapidly evolving ecosystem of financial institutions, capital and Web3 companies. Unchained Summit connects these worlds through business opportunities, partnerships, investment and global market access.\n\nFollowing successful international editions in Dubai and Vietnam, Unchained Summit now comes to India. For those looking to invest, build, enter the market or shape its next chapt"
+    },
+    {
+      "id": "premier-bitcoin-amsterdam-2026",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://www.bitcoin.amsterdam/",
+        "fetchedAt": "2026-09-20T00:20:45.951Z",
+        "method": "official-section",
+        "pageTitle": "Bitcoin.Amsterdam",
+        "sha256": "d0536f73a70ea23c389983313af4621ba195d4fe93cb687336fe62ee0a7192b8"
+      },
+      "previousStartDate": "2026-11-05T09:00:00+01:00",
+      "characters": 4596,
+      "preview": "## 2026 tickets\n\n## PAST Sponsors\n\n## Title\n\n## MOON\n\n## 2 Block\n\n## 1 Block\n\n## official Venue Partner\n\n## Our Stage is Set for Those Who Dare to Dream\n\n## European focused\n\nBitcoin Amsterdam is the premier forum to explore Bitcoin’s rapid growth, innovations, and transformative applications shaping its future.\n\n## Driving bitcoin Forward\n\nThis year, Bitcoin Amsterdam is returning to the Sugar Factory and joining the builders, capital allocators, and pioneers on one pivotal stage.\n\n## experience\n\nBitcoin is at the center of politics and regulation—Bitcoin Amsterdam unites leaders to shape a fair, thriving future across Europe.\n\n## An Unprecedented Conference Experience\n\n## Jack Mallers\n\nStrike Jack Mallers is the Founder and CEO of Strike, the global Bitcoin app. Prior to Strike, Jack was"
+    },
+    {
+      "id": "premier-bitcoin-korea-2026",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://www.bitcoinkoreaconference.com/en",
+        "fetchedAt": "2026-09-20T00:20:46.364Z",
+        "method": "event-jsonld",
+        "pageTitle": "Bitcoin Korea Conference - COEX",
+        "sha256": "54b78d0b56eaadcc1880584fa6718cbb0b353b822f29447d0aa0c16767b3c311"
+      },
+      "eventFacts": {
+        "startDate": "2026-11-07T09:00:00+09:00",
+        "endDate": "2026-11-08T18:00:00+09:00"
+      },
+      "previousStartDate": "2026-11-07T09:00:00+09:00",
+      "characters": 146,
+      "preview": "Bitcoin Korea Conference in Seoul led by Community, South Korea. Two days of Bitcoin education, workshop, lightning market, and community building"
+    },
+    {
+      "id": "premier-singapore-blockchain-week-2026",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://singaporeblockchainweek.org/",
+        "fetchedAt": "2026-09-20T00:20:46.368Z",
+        "method": "official-section",
+        "pageTitle": "SINGAPORE BLOCKCHAIN WEEK",
+        "sha256": "0785b14f4b4651754a5239a6e378d173b901f5c1afb28dffaa4b6deb5ab93a55"
+      },
+      "previousStartDate": "2026-11-13T09:00:00+08:00",
+      "characters": 6256,
+      "preview": "## World's First Cross Border Blockchain Week\n\n## Gateway to Southeast Asia's Web3 Economy\n\n## 13 November 2026\n\n## 14–17 November 2026\n\n## What to expect\n\nA curated week of institutional programming designed to bridge traditional finance, regulatory frameworks, and Web3 infrastructure.\n\n## Institutional RWA\n\nExplore enterprise-grade Real-World Asset (RWA) tokenization, CBDCs, and the next generation of capital market infrastructure.\n\n## Global Compliance\n\nEngage directly with global policymakers to navigate stablecoin frameworks, digital asset security, and cross-jurisdictional standards.\n\n## Strategic Gateway\n\nCapitalize on the Singapore-Johor economic zone to unlock institutional investment and infrastructure synergies across the pan-regional ecosystem.\n\n## Want to be involved?\n\n## Agen"
+    },
+    {
+      "id": "premier-world-token-congress-2026",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://worldtokencongress.com/",
+        "fetchedAt": "2026-09-20T00:20:46.611Z",
+        "method": "event-jsonld",
+        "pageTitle": "World Token Congress 2026 — Barcelona",
+        "sha256": "ca1e7877f52d6b578e5bc57984210cdcf99d471627571fcc273060137baa875a"
+      },
+      "eventFacts": {
+        "startDate": "2026-11-25T09:00:00+01:00",
+        "endDate": "2026-11-26T18:00:00+01:00",
+        "venueName": "Barcelona",
+        "addressLocality": "Barcelona",
+        "addressRegion": "Cataluña",
+        "addressCountry": "ES",
+        "city": "Barcelona",
+        "country": "ES",
+        "location": "Barcelona, Cataluña, ES"
+      },
+      "previousStartDate": "2026-11-25T09:00:00+01:00",
+      "characters": 141,
+      "preview": "The premier global gathering for blockchain innovators, investors, and thought leaders shaping the future of digital assets and tokenization."
+    },
+    {
+      "id": "premier-auscryptocon-2026",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://auscryptocon.com/",
+        "fetchedAt": "2026-09-20T00:20:47.943Z",
+        "method": "official-section",
+        "pageTitle": "Home - CryptoCon Sydney",
+        "sha256": "2a17fda5cf11577b78ec0a29a7e7a50846b418c9029ad38a35eb165f323b89b0"
+      },
+      "previousStartDate": "2026-11-28T09:00:00+11:00",
+      "characters": 4391,
+      "preview": "## Australia's flagship crypto, blockchain and Web3 event\n\nCryptoCon Sydney brings founders, investors, builders, institutions, industry professionals and the wider crypto community together for two days of insight, networking, startup discovery and premium networking events.\n\n## Built for Australia's crypto community\n\nFrom market trends and regulation to startups, investing, blockchain infrastructure and brand growth, CryptoCon Sydney is designed for people who want to understand where the industry is going and meet the people shaping it.\n\n## Hear from the people building the future of crypto\n\nMeet founders, investors, operators, creators, VCs, builders, policy voices and Web3 leaders sharing practical insight from across the industry.\n\n## Your Access to Australia’s Biggest Crypto Event S"
+    },
+    {
+      "id": "premier-blockchain-life-2026",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://blockchain-life.com/",
+        "fetchedAt": "2026-09-20T00:20:48.147Z",
+        "method": "official-section",
+        "pageTitle": "Blockchain Life 2026 | December 1-2, Dubai, UAE | Top Web3 & Crypto Event",
+        "sha256": "2cad5026acda342c64cd40841f41603003d353e5717ba5e6ac245d3b1a8d5d1c"
+      },
+      "previousStartDate": "2026-12-01T09:00:00+04:00",
+      "characters": 5505,
+      "preview": "## THE GLOBAL CRYPTO MARKET IN ONE PLACE. THE PEOPLE YOU NEED TO MEET.\n\nCo-located with AI Future Forum — our dedicated event on artificial intelligence, emerging technologies, and Web3.\n\n## The World's Leading Blockchain, Crypto & Web3 Forum hosted in Dubai, UAE\n\n## Why attend\n\n## 2 days can save you a year of work\n\nThe quality of connections and insights saves you a year of hard work\n\n## Tips to earn more\n\nDiscover strategies for profiting from the hottest crypto trends\n\n## Meet Crypto Founders\n\nMeet founders and top executives from the most promising crypto companies and projects\n\n## Global crypto community\n\nThe forum will bring together over 15,000 prominent figures from 130 countries\n\n## Insider information first-hand\n\nGain exclusive insights before they hit the mainstream from the le"
+    },
+    {
+      "id": "ma-money-20-20-usa",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://us.money2020.com/",
+        "fetchedAt": "2026-09-20T00:20:48.463Z",
+        "method": "official-section",
+        "pageTitle": "Money20/20 USA in Las Vegas | October 18-21, 2026",
+        "sha256": "e26059b2a85b1b23e79654dcd0632e2d7fd2a24976a9dc678e53c2a43c4443c9"
+      },
+      "previousStartDate": "2026-10-18T00:00:00.000Z",
+      "characters": 2398,
+      "preview": "## USA's #1 Fintech Event\n\n## Our Latest Show Updates\n\n## THE STRATEGIC INSIGHTS YOU'LL LEARN.\n\n## THE LEADERS YOU'LL DO BUSINESS WITH.\n\n## ALL THE WAYS YOU WILL NETWORK HERE.\n\n## MEET WITH FINTECH'S BIGGEST BRANDS\n\n## Why Join Money20/20 USA?\n\nMoney20/20 USA is where senior leaders from banks, payments, tech, retail, startups, and more gather to move fintech forward. Join to:\n\n• Accelerate Deals: Leverage our global network to supercharge your deal flow. See who attends.\n\n• Build Partnerships: Experience high-impact opportunities to meet new partners and grow existing relationships.\n\n• Raise Your Profile: Embrace the visibility and show your solutions to a global senior audience.\n\n• Make Breakthroughs: Stay current (and ahead!) of shifts and trends that address your challenges from top in"
+    },
+    {
+      "id": "premier-consensus-miami-2027",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://consensus.coindesk.com/",
+        "fetchedAt": "2026-09-20T00:20:48.865Z",
+        "method": "official-section",
+        "pageTitle": "Consensus Miami 2027: Most Influential Event in digital assets, finance, and technology.",
+        "sha256": "f85491bcb3d9bcd9752e03a7820bbd0aa50b6a4488412bbd12a4831946e1719c"
+      },
+      "previousStartDate": "2027-05-04T09:00:00-04:00",
+      "characters": 677,
+      "preview": "## Money. Markets. Machines.\n\n## Consensus returns to Miami\n\nThe global economy is being rewritten. Consensus 2027 is where the architects of that new economy meet. Join 15,000+ senior leaders from crypto, finance, tech, and policy for three days of deals, demos, and decisions that will define the next era.\n\n## 01\n\n## Crypto at Scale\n\n## 02\n\n## Institutional Integration\n\n## 03\n\n## Agentic Commerce\n\n## Top Companies That Attend Consensus\n\n## Fireside: CZ\n\n## Scaling Agentic Commerce through Crypto-Rails and Open Protocols\n\n## Keynote: Michael Saylor\n\n## Fireside: Chairman Selig\n\n## Stay Connected\n\nSign up for promotions, program updates, speaker announcements, and more."
+    },
+    {
+      "id": "premier-vienna-blockchain-week-2027",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://viennablockchainweek.org/",
+        "fetchedAt": "2026-09-20T00:20:49.330Z",
+        "method": "event-jsonld",
+        "pageTitle": "Vienna Blockchain Week 2027 | Largest Institutional Digital Assets & AI Conference in Austria | June 2–3, 2027",
+        "sha256": "8c546096b8ea54d33950d36f74dc0dccaba0c7ee5f3e6aa4759b095b27f72435"
+      },
+      "eventFacts": {
+        "startDate": "2027-06-02T09:00:00+02:00",
+        "endDate": "2027-06-03T22:00:00+02:00",
+        "venueName": "Vienna, Austria",
+        "addressLocality": "Vienna",
+        "addressCountry": "AT",
+        "city": "Vienna",
+        "country": "AT",
+        "location": "Vienna, Austria, Vienna, AT"
+      },
+      "previousStartDate": "2027-06-02T09:00:00+02:00",
+      "characters": 183,
+      "preview": "Two focused days connecting banks, asset managers, regulators, investors, exchanges, infrastructure providers and technology leaders from across Europe. VBW27: June 2–3, 2027, Vienna."
+    },
+    {
+      "id": "premier-edcon-2026",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://www.edcon.io/en/",
+        "fetchedAt": "2026-09-20T00:20:49.682Z",
+        "method": "official-section",
+        "pageTitle": "EDCON Kuala Lumpur",
+        "sha256": "057de2665f3981dacb3d16f37f417cdc03d980695d4a4b29846449a8aa5a6f11"
+      },
+      "previousStartDate": "2026-10-17T09:00:00+08:00",
+      "characters": 742,
+      "preview": "## Get involved\n\n## Sponsorship Application\n\nPartner with EDCON 2026 and put your brand in front of the global Ethereum community.\n\n## Community Events Application\n\nHost your own EDCON side event, from networking and talks to workshops, exhibitions, meals, or any format you choose.\n\n## Apply to Speak\n\nSpeaker applications are open. Submit your talk, workshop or panel proposal for EDCON 2026.\n\n## Join as Volunteer\n\nVolunteer applications are open. Join the EDCON crew and help make EDCON 2026 happen.\n\n## Strategic Partner: Geode Labs\n\nGeode Labs is an Ethereum ecosystem development organisation and product studio, spun out of Ethereum Foundation to make Ethereum more accessible, resilient, and available to the people who need it most."
+    },
+    {
+      "id": "premier-coinferencex-singapore-2026",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://coinferencex.com/singapore/tickets",
+        "fetchedAt": "2026-09-20T00:20:50.277Z",
+        "method": "event-jsonld",
+        "pageTitle": "Secure Your Pass | CoinFerenceX Singapore 2026",
+        "sha256": "cc07a8e5314308d4f4e8397b1ff80c44404a3e4c8495e7101c353588df62d08f"
+      },
+      "eventFacts": {
+        "startDate": "2026-10-05T09:00:00+08:00",
+        "endDate": "2026-10-06T18:00:00+08:00",
+        "venueName": "Singapore Venue",
+        "addressLocality": "Singapore",
+        "addressCountry": "SG",
+        "city": "Singapore",
+        "country": "SG",
+        "location": "Singapore Venue, Singapore, SG"
+      },
+      "previousStartDate": "2026-10-05T09:00:00+08:00",
+      "characters": 86,
+      "preview": "Asia's leading decentralized Web3 summit hosting 7,500+ crypto founders and investors."
+    },
+    {
+      "id": "premier-bitchill-s04-2026",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://thebitcoindistrict.com/bitchill/",
+        "fetchedAt": "2026-09-20T00:20:50.933Z",
+        "method": "official-section",
+        "pageTitle": "Bitchill 🏝️ s04 // October 1-11, Roatan | The Bitcoin District Prospera",
+        "sha256": "1d7b52ce00f8fedff99734e7b1fce913233cf75cd2dcca1ecacfbd9d524c03e2"
+      },
+      "previousStartDate": "2026-10-01T09:00:00-06:00",
+      "characters": 7981,
+      "preview": "network, learn & leisue - bitcoin retreat comes back with season 4!\n\nIt’s not a conference. It’s not a business trip.It’s a one-week tropical reset with Bitcoiners from around the world — diving, tennis, open mics, barbecues, workshops, and sunset beers… all in the most Bitcoin-friendly jurisdiction on Earth — Próspera on Roatan.\n\n🏠 Coliving with fellow Bitcoiners in one of the world's most exciting experiments— Próspera special economic zone.\n\n🌊 Activities to fill your days: diving, sailing, yoga, sports, BBQ nights, pool parties.\n\n🎤 Community stage: open mic, lightning talks and debates about the future of Bitcoin and freedom.\n\n🏝️ Island exploration — hidden beaches, local food spots, and off-the-map adventures.\n\n🚀 A soft landing into Próspera — meet residents, explore business oppo"
+    },
+    {
+      "id": "premier-gts-2026",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://www.globaltradingshow.com/tickets/",
+        "fetchedAt": "2026-09-20T00:20:51.091Z",
+        "method": "event-jsonld",
+        "pageTitle": "Global Trading Show Tickets 2026 | Book Your Pass",
+        "sha256": "d4709fb50f7313d06951272bdc8be92e3ee49e97047fefa77b39002a2477cb6c"
+      },
+      "eventFacts": {
+        "startDate": "2026-12-15T08:00:00+00:00",
+        "endDate": "2026-12-16T18:00:00+00:00",
+        "venueName": "Abu Dhabi",
+        "addressLocality": "Abu Dhabi",
+        "addressCountry": "UAE",
+        "city": "Abu Dhabi",
+        "country": "UAE",
+        "location": "Abu Dhabi, UAE"
+      },
+      "previousStartDate": "2026-12-15T09:00:00+04:00",
+      "characters": 137,
+      "preview": "Connect with 5000+ traders, elite speakers, and industry leaders at the Global Trading Show. Explore the future of trading. Register now!"
+    },
+    {
+      "id": "premier-ibt-tour-2026",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://indiablockchaintour.com/",
+        "fetchedAt": "2026-09-20T00:20:52.308Z",
+        "method": "official-section",
+        "pageTitle": "India Blockchain & AI Tour 2026",
+        "sha256": "ccce6e43a6fe12a78cd1fe368f620279ded4b71c318fb3d886b105abc05e2b77"
+      },
+      "previousStartDate": "2026-09-26T10:00:00+05:30",
+      "characters": 2664,
+      "preview": "## India Blockchain & AI Tour 2026\n\n## The Heartbeat of India’s Web3 Revolution - Edition 5\n\n## 1\n\n## MM Hyderabad\n\n## 2\n\n## IBT Chennai\n\n## 3\n\n## IBT Bengaluru\n\n## 4\n\n## IBT Mumbai\n\n## 5\n\n## IBT Pune\n\n## 6\n\n## IBT Goa\n\n## 7\n\n## IBT Delhi\n\n## 8\n\n## IBT Jaipur\n\n## 9\n\n## IBT Lucknow\n\n## 10\n\n## IBT Chandigarh\n\n## Welcome to India Blockchain & AI Tour 2026\n\nWelcome to the 5th Edition of the India Blockchain & AI Tour; our most ambitious journey through the heart of the world’s fastest-growing Web3 economy. As the global spotlight turns to India for Devcon 2026, IBT returns to 10 cities to bridge the gap between global innovation and local grassroots talent.\n\nThis is our biggest year yet, designed to connect 15,000+ builders, founders, and leaders across Tier 1 and Tier 2 hubs. We aren’t just h"
+    },
+    {
+      "id": "premier-ibt-chennai-2026",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://indiablockchaintour.com/",
+        "fetchedAt": "2026-09-20T00:20:52.308Z",
+        "method": "official-section",
+        "pageTitle": "India Blockchain & AI Tour 2026",
+        "sha256": "ccce6e43a6fe12a78cd1fe368f620279ded4b71c318fb3d886b105abc05e2b77"
+      },
+      "previousStartDate": "2026-10-10T10:00:00+05:30",
+      "characters": 2664,
+      "preview": "## India Blockchain & AI Tour 2026\n\n## The Heartbeat of India’s Web3 Revolution - Edition 5\n\n## 1\n\n## MM Hyderabad\n\n## 2\n\n## IBT Chennai\n\n## 3\n\n## IBT Bengaluru\n\n## 4\n\n## IBT Mumbai\n\n## 5\n\n## IBT Pune\n\n## 6\n\n## IBT Goa\n\n## 7\n\n## IBT Delhi\n\n## 8\n\n## IBT Jaipur\n\n## 9\n\n## IBT Lucknow\n\n## 10\n\n## IBT Chandigarh\n\n## Welcome to India Blockchain & AI Tour 2026\n\nWelcome to the 5th Edition of the India Blockchain & AI Tour; our most ambitious journey through the heart of the world’s fastest-growing Web3 economy. As the global spotlight turns to India for Devcon 2026, IBT returns to 10 cities to bridge the gap between global innovation and local grassroots talent.\n\nThis is our biggest year yet, designed to connect 15,000+ builders, founders, and leaders across Tier 1 and Tier 2 hubs. We aren’t just h"
+    },
+    {
+      "id": "premier-ibt-bengaluru-2026",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://indiablockchaintour.com/",
+        "fetchedAt": "2026-09-20T00:20:52.308Z",
+        "method": "official-section",
+        "pageTitle": "India Blockchain & AI Tour 2026",
+        "sha256": "ccce6e43a6fe12a78cd1fe368f620279ded4b71c318fb3d886b105abc05e2b77"
+      },
+      "previousStartDate": "2026-10-17T10:00:00+05:30",
+      "characters": 2664,
+      "preview": "## India Blockchain & AI Tour 2026\n\n## The Heartbeat of India’s Web3 Revolution - Edition 5\n\n## 1\n\n## MM Hyderabad\n\n## 2\n\n## IBT Chennai\n\n## 3\n\n## IBT Bengaluru\n\n## 4\n\n## IBT Mumbai\n\n## 5\n\n## IBT Pune\n\n## 6\n\n## IBT Goa\n\n## 7\n\n## IBT Delhi\n\n## 8\n\n## IBT Jaipur\n\n## 9\n\n## IBT Lucknow\n\n## 10\n\n## IBT Chandigarh\n\n## Welcome to India Blockchain & AI Tour 2026\n\nWelcome to the 5th Edition of the India Blockchain & AI Tour; our most ambitious journey through the heart of the world’s fastest-growing Web3 economy. As the global spotlight turns to India for Devcon 2026, IBT returns to 10 cities to bridge the gap between global innovation and local grassroots talent.\n\nThis is our biggest year yet, designed to connect 15,000+ builders, founders, and leaders across Tier 1 and Tier 2 hubs. We aren’t just h"
+    },
+    {
+      "id": "premier-ibt-mumbai-2026",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://indiablockchaintour.com/",
+        "fetchedAt": "2026-09-20T00:20:52.308Z",
+        "method": "official-section",
+        "pageTitle": "India Blockchain & AI Tour 2026",
+        "sha256": "ccce6e43a6fe12a78cd1fe368f620279ded4b71c318fb3d886b105abc05e2b77"
+      },
+      "previousStartDate": "2026-10-31T10:00:00+05:30",
+      "characters": 2664,
+      "preview": "## India Blockchain & AI Tour 2026\n\n## The Heartbeat of India’s Web3 Revolution - Edition 5\n\n## 1\n\n## MM Hyderabad\n\n## 2\n\n## IBT Chennai\n\n## 3\n\n## IBT Bengaluru\n\n## 4\n\n## IBT Mumbai\n\n## 5\n\n## IBT Pune\n\n## 6\n\n## IBT Goa\n\n## 7\n\n## IBT Delhi\n\n## 8\n\n## IBT Jaipur\n\n## 9\n\n## IBT Lucknow\n\n## 10\n\n## IBT Chandigarh\n\n## Welcome to India Blockchain & AI Tour 2026\n\nWelcome to the 5th Edition of the India Blockchain & AI Tour; our most ambitious journey through the heart of the world’s fastest-growing Web3 economy. As the global spotlight turns to India for Devcon 2026, IBT returns to 10 cities to bridge the gap between global innovation and local grassroots talent.\n\nThis is our biggest year yet, designed to connect 15,000+ builders, founders, and leaders across Tier 1 and Tier 2 hubs. We aren’t just h"
+    },
+    {
+      "id": "premier-ibt-pune-2026",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://indiablockchaintour.com/",
+        "fetchedAt": "2026-09-20T00:20:52.308Z",
+        "method": "official-section",
+        "pageTitle": "India Blockchain & AI Tour 2026",
+        "sha256": "ccce6e43a6fe12a78cd1fe368f620279ded4b71c318fb3d886b105abc05e2b77"
+      },
+      "previousStartDate": "2026-11-01T10:00:00+05:30",
+      "characters": 2664,
+      "preview": "## India Blockchain & AI Tour 2026\n\n## The Heartbeat of India’s Web3 Revolution - Edition 5\n\n## 1\n\n## MM Hyderabad\n\n## 2\n\n## IBT Chennai\n\n## 3\n\n## IBT Bengaluru\n\n## 4\n\n## IBT Mumbai\n\n## 5\n\n## IBT Pune\n\n## 6\n\n## IBT Goa\n\n## 7\n\n## IBT Delhi\n\n## 8\n\n## IBT Jaipur\n\n## 9\n\n## IBT Lucknow\n\n## 10\n\n## IBT Chandigarh\n\n## Welcome to India Blockchain & AI Tour 2026\n\nWelcome to the 5th Edition of the India Blockchain & AI Tour; our most ambitious journey through the heart of the world’s fastest-growing Web3 economy. As the global spotlight turns to India for Devcon 2026, IBT returns to 10 cities to bridge the gap between global innovation and local grassroots talent.\n\nThis is our biggest year yet, designed to connect 15,000+ builders, founders, and leaders across Tier 1 and Tier 2 hubs. We aren’t just h"
+    },
+    {
+      "id": "premier-ibt-goa-2026",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://indiablockchaintour.com/",
+        "fetchedAt": "2026-09-20T00:20:52.308Z",
+        "method": "official-section",
+        "pageTitle": "India Blockchain & AI Tour 2026",
+        "sha256": "ccce6e43a6fe12a78cd1fe368f620279ded4b71c318fb3d886b105abc05e2b77"
+      },
+      "previousStartDate": "2026-11-07T10:00:00+05:30",
+      "characters": 2664,
+      "preview": "## India Blockchain & AI Tour 2026\n\n## The Heartbeat of India’s Web3 Revolution - Edition 5\n\n## 1\n\n## MM Hyderabad\n\n## 2\n\n## IBT Chennai\n\n## 3\n\n## IBT Bengaluru\n\n## 4\n\n## IBT Mumbai\n\n## 5\n\n## IBT Pune\n\n## 6\n\n## IBT Goa\n\n## 7\n\n## IBT Delhi\n\n## 8\n\n## IBT Jaipur\n\n## 9\n\n## IBT Lucknow\n\n## 10\n\n## IBT Chandigarh\n\n## Welcome to India Blockchain & AI Tour 2026\n\nWelcome to the 5th Edition of the India Blockchain & AI Tour; our most ambitious journey through the heart of the world’s fastest-growing Web3 economy. As the global spotlight turns to India for Devcon 2026, IBT returns to 10 cities to bridge the gap between global innovation and local grassroots talent.\n\nThis is our biggest year yet, designed to connect 15,000+ builders, founders, and leaders across Tier 1 and Tier 2 hubs. We aren’t just h"
+    },
+    {
+      "id": "premier-ibt-delhi-2026",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://indiablockchaintour.com/",
+        "fetchedAt": "2026-09-20T00:20:52.308Z",
+        "method": "official-section",
+        "pageTitle": "India Blockchain & AI Tour 2026",
+        "sha256": "ccce6e43a6fe12a78cd1fe368f620279ded4b71c318fb3d886b105abc05e2b77"
+      },
+      "previousStartDate": "2026-11-14T10:00:00+05:30",
+      "characters": 2664,
+      "preview": "## India Blockchain & AI Tour 2026\n\n## The Heartbeat of India’s Web3 Revolution - Edition 5\n\n## 1\n\n## MM Hyderabad\n\n## 2\n\n## IBT Chennai\n\n## 3\n\n## IBT Bengaluru\n\n## 4\n\n## IBT Mumbai\n\n## 5\n\n## IBT Pune\n\n## 6\n\n## IBT Goa\n\n## 7\n\n## IBT Delhi\n\n## 8\n\n## IBT Jaipur\n\n## 9\n\n## IBT Lucknow\n\n## 10\n\n## IBT Chandigarh\n\n## Welcome to India Blockchain & AI Tour 2026\n\nWelcome to the 5th Edition of the India Blockchain & AI Tour; our most ambitious journey through the heart of the world’s fastest-growing Web3 economy. As the global spotlight turns to India for Devcon 2026, IBT returns to 10 cities to bridge the gap between global innovation and local grassroots talent.\n\nThis is our biggest year yet, designed to connect 15,000+ builders, founders, and leaders across Tier 1 and Tier 2 hubs. We aren’t just h"
+    },
+    {
+      "id": "premier-ibt-jaipur-2026",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://indiablockchaintour.com/",
+        "fetchedAt": "2026-09-20T00:20:52.308Z",
+        "method": "official-section",
+        "pageTitle": "India Blockchain & AI Tour 2026",
+        "sha256": "ccce6e43a6fe12a78cd1fe368f620279ded4b71c318fb3d886b105abc05e2b77"
+      },
+      "previousStartDate": "2026-11-15T10:00:00+05:30",
+      "characters": 2664,
+      "preview": "## India Blockchain & AI Tour 2026\n\n## The Heartbeat of India’s Web3 Revolution - Edition 5\n\n## 1\n\n## MM Hyderabad\n\n## 2\n\n## IBT Chennai\n\n## 3\n\n## IBT Bengaluru\n\n## 4\n\n## IBT Mumbai\n\n## 5\n\n## IBT Pune\n\n## 6\n\n## IBT Goa\n\n## 7\n\n## IBT Delhi\n\n## 8\n\n## IBT Jaipur\n\n## 9\n\n## IBT Lucknow\n\n## 10\n\n## IBT Chandigarh\n\n## Welcome to India Blockchain & AI Tour 2026\n\nWelcome to the 5th Edition of the India Blockchain & AI Tour; our most ambitious journey through the heart of the world’s fastest-growing Web3 economy. As the global spotlight turns to India for Devcon 2026, IBT returns to 10 cities to bridge the gap between global innovation and local grassroots talent.\n\nThis is our biggest year yet, designed to connect 15,000+ builders, founders, and leaders across Tier 1 and Tier 2 hubs. We aren’t just h"
+    },
+    {
+      "id": "premier-ibt-lucknow-2026",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://indiablockchaintour.com/",
+        "fetchedAt": "2026-09-20T00:20:52.308Z",
+        "method": "official-section",
+        "pageTitle": "India Blockchain & AI Tour 2026",
+        "sha256": "ccce6e43a6fe12a78cd1fe368f620279ded4b71c318fb3d886b105abc05e2b77"
+      },
+      "previousStartDate": "2026-11-21T10:00:00+05:30",
+      "characters": 2664,
+      "preview": "## India Blockchain & AI Tour 2026\n\n## The Heartbeat of India’s Web3 Revolution - Edition 5\n\n## 1\n\n## MM Hyderabad\n\n## 2\n\n## IBT Chennai\n\n## 3\n\n## IBT Bengaluru\n\n## 4\n\n## IBT Mumbai\n\n## 5\n\n## IBT Pune\n\n## 6\n\n## IBT Goa\n\n## 7\n\n## IBT Delhi\n\n## 8\n\n## IBT Jaipur\n\n## 9\n\n## IBT Lucknow\n\n## 10\n\n## IBT Chandigarh\n\n## Welcome to India Blockchain & AI Tour 2026\n\nWelcome to the 5th Edition of the India Blockchain & AI Tour; our most ambitious journey through the heart of the world’s fastest-growing Web3 economy. As the global spotlight turns to India for Devcon 2026, IBT returns to 10 cities to bridge the gap between global innovation and local grassroots talent.\n\nThis is our biggest year yet, designed to connect 15,000+ builders, founders, and leaders across Tier 1 and Tier 2 hubs. We aren’t just h"
+    },
+    {
+      "id": "premier-ibt-chandigarh-2026",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://indiablockchaintour.com/",
+        "fetchedAt": "2026-09-20T00:20:52.308Z",
+        "method": "official-section",
+        "pageTitle": "India Blockchain & AI Tour 2026",
+        "sha256": "ccce6e43a6fe12a78cd1fe368f620279ded4b71c318fb3d886b105abc05e2b77"
+      },
+      "previousStartDate": "2026-11-22T10:00:00+05:30",
+      "characters": 2664,
+      "preview": "## India Blockchain & AI Tour 2026\n\n## The Heartbeat of India’s Web3 Revolution - Edition 5\n\n## 1\n\n## MM Hyderabad\n\n## 2\n\n## IBT Chennai\n\n## 3\n\n## IBT Bengaluru\n\n## 4\n\n## IBT Mumbai\n\n## 5\n\n## IBT Pune\n\n## 6\n\n## IBT Goa\n\n## 7\n\n## IBT Delhi\n\n## 8\n\n## IBT Jaipur\n\n## 9\n\n## IBT Lucknow\n\n## 10\n\n## IBT Chandigarh\n\n## Welcome to India Blockchain & AI Tour 2026\n\nWelcome to the 5th Edition of the India Blockchain & AI Tour; our most ambitious journey through the heart of the world’s fastest-growing Web3 economy. As the global spotlight turns to India for Devcon 2026, IBT returns to 10 cities to bridge the gap between global innovation and local grassroots talent.\n\nThis is our biggest year yet, designed to connect 15,000+ builders, founders, and leaders across Tier 1 and Tier 2 hubs. We aren’t just h"
+    },
+    {
+      "id": "premier-bitmela-2026",
+      "file": "curated-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://thebitmela.com/",
+        "fetchedAt": "2026-09-20T00:20:53.427Z",
+        "method": "event-jsonld",
+        "pageTitle": "Bitmela · Most People Never Understand Money",
+        "sha256": "52208d9c4b46374ca51b45758b61bf6a25951e6a67a6f51f28445e3732445526"
+      },
+      "eventFacts": {
+        "startDate": "2026-10-30",
+        "endDate": "2026-10-31",
+        "venueName": "Intercontinental Jaipur",
+        "addressLocality": "Jaipur",
+        "addressRegion": "Rajasthan",
+        "addressCountry": "IN",
+        "city": "Jaipur",
+        "country": "IN",
+        "location": "Intercontinental Jaipur, Jaipur, Rajasthan, IN"
+      },
+      "previousStartDate": "2026-10-30T09:00:00+05:30",
+      "characters": 94,
+      "preview": "India's first festival for what comes next for money. Two days in Jaipur, October 30-31, 2026."
+    },
+    {
+      "id": "kbw-official-secure-crypto-asset-network-2026-scan-10-01",
+      "file": "kbw-luma-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://scan.sx/",
+        "fetchedAt": "2026-09-20T00:20:53.449Z",
+        "method": "official-section",
+        "pageTitle": "SCAN 2026 | Official Event of KBW2026",
+        "sha256": "398558cd7b57dbe0524fb9f9df46e615a55c957d336bacabc070d07a6d20a651"
+      },
+      "previousStartDate": "2026-10-01T15:00:00+09:00",
+      "characters": 319,
+      "preview": "2026. 9. 28. 10am(KST) Monaco Space(B1F), Seoul, South Korea\n\n2026. 10. 1. 10:30am(KST) Théâtre des Lumières(B1F), Walkerhill Hotel, Seoul, South Korea\n\n## Meet the Top 20\n\n## Rank & Prize\n\n## As Featured In\n\n## The Room Where It Matters\n\nA look back at the teams, talks, and award moments from the previous SCAN event."
+    },
+    {
+      "id": "ibw-official-ibw2026-pre-conference-vip-night-10-31",
+      "file": "ibw-side-events.json",
+      "name": "IBW2026 Pre-Conference VIP Night",
+      "status": "unavailable",
+      "attempts": [
+        {
+          "url": "https://indiablockchainweek.com/",
+          "reason": "event-not-matched"
+        }
+      ]
+    },
+    {
+      "id": "ibw-official-defi-security-summit-day-1-11-01",
+      "file": "ibw-side-events.json",
+      "name": "DeFi Security Summit - Day 1",
+      "status": "unavailable",
+      "attempts": [
+        {
+          "url": "https://defisecuritysummit.org/events/dss-2025",
+          "reason": "different-event-edition"
+        },
+        {
+          "url": "https://defisecuritysummit.org/events/dss-2024",
+          "reason": "different-event-edition"
+        },
+        {
+          "url": "https://defisecuritysummit.org/events/dss-2023",
+          "reason": "different-event-edition"
+        },
+        {
+          "url": "https://defisecuritysummit.org/",
+          "reason": "different-event-edition"
+        }
+      ]
+    },
+    {
+      "id": "ibw-official-ibw-institutional-forum-11-02",
+      "file": "ibw-side-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://indiablockchainweek.com/institutional-forum",
+        "fetchedAt": "2026-09-20T00:20:54.599Z",
+        "method": "event-jsonld",
+        "pageTitle": "IBW Institutional Forum 2026 · Fairmont Mumbai",
+        "sha256": "836a83348f6bbc9558e31db17f7a35131280f1e9a406daf05c6ba481119fb134"
+      },
+      "eventFacts": {
+        "startDate": "2026-11-01",
+        "endDate": "2026-11-02",
+        "venueName": "Fairmont Mumbai",
+        "addressLocality": "Mumbai",
+        "addressCountry": "IN",
+        "city": "Mumbai",
+        "country": "IN",
+        "location": "Fairmont Mumbai, Mumbai, IN"
+      },
+      "previousStartDate": "2026-11-02T10:00:00+05:30",
+      "characters": 99,
+      "preview": "India's invite-only, closed-door institutional blockchain forum, held under the Chatham House Rule."
+    },
+    {
+      "id": "ibw-official-defi-security-summit-day-2-11-02",
+      "file": "ibw-side-events.json",
+      "name": "DeFi Security Summit - Day 2",
+      "status": "unavailable",
+      "attempts": [
+        {
+          "url": "https://defisecuritysummit.org/events/dss-2025",
+          "reason": "different-event-edition"
+        },
+        {
+          "url": "https://defisecuritysummit.org/events/dss-2024",
+          "reason": "different-event-edition"
+        },
+        {
+          "url": "https://defisecuritysummit.org/events/dss-2023",
+          "reason": "different-event-edition"
+        },
+        {
+          "url": "https://defisecuritysummit.org/",
+          "reason": "different-event-edition"
+        }
+      ]
+    },
+    {
+      "id": "ibw-official-ibw-official-after-party-11-02",
+      "file": "ibw-side-events.json",
+      "name": "⚡ IBW Official After-Party 🕺",
+      "status": "unavailable",
+      "attempts": [
+        {
+          "url": "https://indiablockchainweek.com/",
+          "reason": "event-not-matched"
+        }
+      ]
+    },
+    {
+      "id": "ibw-official-pragma-mumbai-11-05",
+      "file": "ibw-side-events.json",
+      "name": "Pragma Mumbai",
+      "status": "unavailable",
+      "attempts": [
+        {
+          "url": "https://ethglobal.com/events/pragma-mumbai",
+          "reason": "HTTP 500"
+        }
+      ]
+    },
+    {
+      "id": "ibw-official-unchained-summit-day-2-11-06",
+      "file": "ibw-side-events.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://unchainedsummit.com/india/",
+        "fetchedAt": "2026-09-20T00:20:54.984Z",
+        "method": "official-section",
+        "pageTitle": "Unchained Summit India | Top Web3 & Crypto Conference | 5-6 Nov 2026",
+        "sha256": "75526574aa84f60e5335a8e6fd289e8b56830997f30183af5a835f6113f083a8"
+      },
+      "previousStartDate": "2026-11-06T10:00:00+05:30",
+      "characters": 14657,
+      "preview": "## #1 Web3 & Crypto Event in India for High-impact Networking and Deal-flow\n\n## India’s Web3 & Crypto Summit for Builders, Investors and Institutions\n\n• Unchained Summit brings together the institutions, investors, founders, policymakers, traders and technology leaders shaping the next era of digital assets, financial markets and Web3.\n\n• India combines massive digital-asset adoption, deep technical talent and a rapidly evolving ecosystem of financial institutions, capital and Web3 companies. Unchained Summit connects these worlds through business opportunities, partnerships, investment and global market access.\n\nFollowing successful international editions in Dubai and Vietnam, Unchained Summit now comes to India. For those looking to invest, build, enter the market or shape its next chapt"
+    },
+    {
+      "id": "india-luma-scetu",
+      "file": "india-luma-events.json",
+      "name": "Team1 India University Workshop - SCET",
+      "status": "unavailable",
+      "attempts": [
+        {
+          "url": "https://luma.com/SCETU",
+          "reason": "HTTP 404"
+        }
+      ]
+    },
+    {
+      "id": "w3v-crypto-worlds-fair-hackathon-by-colosseum",
+      "file": "events-cache.json",
+      "name": "Crypto World´s Fair Hackathon by Colosseum",
+      "status": "unavailable",
+      "attempts": [
+        {
+          "url": "https://discord.com/events/1273743461601902789/1548869069057294386",
+          "reason": "event-not-matched"
+        },
+        {
+          "url": "https://colosseum.com/worldsfair",
+          "reason": "event-not-matched"
+        }
+      ]
+    },
+    {
+      "id": "w3v-stellar-pro-hackathon",
+      "file": "events-cache.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://www.risein.com/programs/stellar-pro-hackathon",
+        "fetchedAt": "2026-09-20T00:20:55.581Z",
+        "method": "official-section",
+        "pageTitle": "Stellar Pro Hackathon  | Rise In",
+        "sha256": "ae37335aab312254051f7e8e551483e99d15a924b2201c6a889f09019cc9d246"
+      },
+      "previousStartDate": "2026-09-19T07:00:00.000Z",
+      "characters": 1480,
+      "preview": "## Stellar Pro Hackathon\n\n36 hours to build, meet ambitious builders, get hands-on support, and put your work in front of the Stellar ecosystem. Come with an idea, leave with something real!\n\n## Register to attend\n\nIt's free! Confirm the consents, then apply with your email or sign in to your Rise In account.\n\n## Join the Rise In x Stellar Pro Hackathon\n\n## September 19–20, 2026 · Grand Pera, Beyoğlu, Istanbul\n\n## Two Tracks. Two Different Starting Points.\n\n## Genesis Track\n\n## Scale Track\n\n## Submission & Final Presentations\n\n• Submission (required for everyone): Every team in both the Genesis and Scale Tracks must submit their project by the deadline.\n\n• Shortlisting: The Stellar team will review all submissions based on the hackathon criteria and the quality and progress of each project"
+    },
+    {
+      "id": "w3v-ethereum-institutional-summit-2026",
+      "file": "events-cache.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://eis.fracton.ventures/",
+        "fetchedAt": "2026-09-20T00:20:56.083Z",
+        "method": "official-section",
+        "pageTitle": "Ethereum Institutional Summit 2026 · Tokyo · Sep 25, 2026",
+        "sha256": "9e061ebf9f348f487d0e178c5ea10ba0466054e78270900ab3c22cbff29a8465"
+      },
+      "previousStartDate": "2026-09-25T08:00:00.000Z",
+      "characters": 1358,
+      "preview": "## About\n\nA one-day, invitation-only summit in Tokyo for institutional decision-makers and the founders and researchers shaping the institutional layer of Ethereum.\n\nThe summit brings together global institutional investors, Japanese financial institutions, and project leaders for the first time in Japan at this scale.\n\nThe summit takes up the moment Ethereum evolves beyond a digital asset into the financial infrastructure of enterprises.\n\nStablecoin payments connecting corporate treasuries, tokenized real-world assets entering institutional portfolios, onchain treasury operations restructuring accounting and audit, and institutional-grade DeFi protocols — these are no longer thought experiments. They are working systems being built, deployed, and evaluated right now.\n\nHeld in English, wit"
+    },
+    {
+      "id": "w3v-eastpoint2026",
+      "file": "events-cache.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://www.eastpoint.xyz/",
+        "fetchedAt": "2026-09-20T00:20:56.327Z",
+        "method": "event-jsonld",
+        "pageTitle": "EastPoint:Seoul 2026 | Digital Asset & AI Summit",
+        "sha256": "c041c7ccf874b3597da21309520c88d6c2f6b7326adfae664b6b3555088c7930"
+      },
+      "eventFacts": {
+        "startDate": "2026-09-28T09:00:00+09:00",
+        "endDate": "2026-09-28T22:00:00+09:00",
+        "venueName": "The Westin Seoul Parnas",
+        "streetAddress": "524 Bongeunsa-ro, Gangnam-gu",
+        "addressLocality": "Seoul",
+        "addressRegion": "Seoul",
+        "postalCode": "06164",
+        "addressCountry": "KR",
+        "city": "Seoul",
+        "country": "KR",
+        "location": "The Westin Seoul Parnas, 524 Bongeunsa-ro, Gangnam-gu, Seoul, 06164, KR"
+      },
+      "previousStartDate": "2026-09-28T07:00:00.000Z",
+      "characters": 247,
+      "preview": "EastPoint:Seoul 2026 — Korea's premier private, invitation-only summit on digital assets, stablecoins, RWA tokenization, and the AI economy. Co-hosted by Hashed, Bloomingbit, and The Korea Economic Daily. September 28, 2026 at Westin Seoul Parnas."
+    },
+    {
+      "id": "ma-money-20-20-usa",
+      "file": "events-cache.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://us.money2020.com/",
+        "fetchedAt": "2026-09-20T00:20:48.463Z",
+        "method": "official-section",
+        "pageTitle": "Money20/20 USA in Las Vegas | October 18-21, 2026",
+        "sha256": "e26059b2a85b1b23e79654dcd0632e2d7fd2a24976a9dc678e53c2a43c4443c9"
+      },
+      "previousStartDate": "2026-10-18T00:00:00.000Z",
+      "characters": 2398,
+      "preview": "## USA's #1 Fintech Event\n\n## Our Latest Show Updates\n\n## THE STRATEGIC INSIGHTS YOU'LL LEARN.\n\n## THE LEADERS YOU'LL DO BUSINESS WITH.\n\n## ALL THE WAYS YOU WILL NETWORK HERE.\n\n## MEET WITH FINTECH'S BIGGEST BRANDS\n\n## Why Join Money20/20 USA?\n\nMoney20/20 USA is where senior leaders from banks, payments, tech, retail, startups, and more gather to move fintech forward. Join to:\n\n• Accelerate Deals: Leverage our global network to supercharge your deal flow. See who attends.\n\n• Build Partnerships: Experience high-impact opportunities to meet new partners and grow existing relationships.\n\n• Raise Your Profile: Embrace the visibility and show your solutions to a global senior audience.\n\n• Make Breakthroughs: Stay current (and ahead!) of shifts and trends that address your challenges from top in"
+    },
+    {
+      "id": "ma-aibc-world",
+      "file": "events-cache.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://aibc.world/",
+        "fetchedAt": "2026-09-20T00:20:56.493Z",
+        "method": "official-meta",
+        "pageTitle": "Home",
+        "sha256": "3b92a67dbeddd649c2c4eda7b4c3a2856b5d625c9808f3aacb0e3a0cfce48f09"
+      },
+      "previousStartDate": "2026-11-02T00:00:00.000Z",
+      "characters": 147,
+      "preview": "Discover AIBC World, connecting innovators in AI, blockchain, and emerging tech through global events, networking, and insights shaping the future."
+    },
+    {
+      "id": "ma-blockcon-punta-cana-2026",
+      "file": "events-cache.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://www.blockcon.co/",
+        "fetchedAt": "2026-09-20T00:20:57.161Z",
+        "method": "event-jsonld",
+        "pageTitle": "BlockCon Punta Cana | Web3 & iGaming Business Retreat | November 25th-28th, 2026",
+        "sha256": "c813c64dd2ab134b933e45fced310f3f77efdd09b7195be49aa8b2af52d944a9"
+      },
+      "eventFacts": {
+        "startDate": "2026-11-25T09:00:00-04:00",
+        "endDate": "2026-11-28T18:00:00-04:00",
+        "venueName": "Barcelo Bavaro Beach",
+        "addressLocality": "Punta Cana",
+        "addressRegion": "La Altagracia",
+        "addressCountry": "DO",
+        "city": "Punta Cana",
+        "country": "DO",
+        "location": "Barcelo Bavaro Beach, Punta Cana, La Altagracia, DO"
+      },
+      "previousStartDate": "2026-11-25T00:00:00.000Z",
+      "characters": 107,
+      "preview": "The high-end all-inclusive Web3 & iGaming Business Retreat bridging Finance, iGaming & the Digital Economy."
+    },
+    {
+      "id": "ma-blockchain-conference-brasil",
+      "file": "events-cache.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://www.blockchainconferencebrasil.com/",
+        "fetchedAt": "2026-09-20T00:20:57.239Z",
+        "method": "official-section",
+        "pageTitle": "Blockchain Conference Brasil",
+        "sha256": "d600cad29d2f5295f3c3c92224d249cb7c2d42c12df22633c44ce95cdd88aaf1"
+      },
+      "previousStartDate": "2026-11-28T00:00:00.000Z",
+      "characters": 2910,
+      "preview": "## O MAIOR EVENTO SOBRE BITCOIN, CRIPTO E BLOCKCHAIN DO BRASIL.\n\nConectando as principais lideranças, empresas e investidores do ecossistema blockchain.\n\n## 150\n\n## +10.000\n\n## 50\n\n## PALESTRANTES\n\n## PARTICIPANTES\n\n## EXPOSITORES\n\n## 30 WORKSHOPS\n\n## 2 DIAS\n\n## 2 PALCOS\n\n## MÃO NA MASSA\n\n## DE EVENTO\n\n## SIMULTÂNEOS\n\n## BCB25\n\n## O BCB É DE VERDADE\n\n## MAIS DO QUE UM EVENTO. UMENCONTRO REAL DO ECOSSISTEMA.\n\nO BCB nasceu dentro da própria comunidade cripto. Mais do que um evento, é um ponto de encontro para quem constrói, investe e lidera o setor no Brasil.\n\n## NETWORKING ESTRATÉGICOE NEGÓCIOS DE VERDADE\n\n## CONTEÚDODE ALTO NIVEL\n\nUm ambiente que conecta empresas, investidores, desenvolvedores e empreendedores em busca de parcerias, investimentos e novos negócios.\n\nPainéis, debates e apres"
+    },
+    {
+      "id": "w3v-proof-of-talk-abu-dhabi",
+      "file": "events-cache.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://proofoftalk.io/abu-dhabi/",
+        "fetchedAt": "2026-09-20T00:20:57.713Z",
+        "method": "event-jsonld",
+        "pageTitle": "Proof of Talk Abu Dhabi 2026",
+        "sha256": "7eab7dd3a4a6e95802c541b7b2a8e1fdd78bef29a2cd0e2b78af581e6657c0ed"
+      },
+      "eventFacts": {
+        "startDate": "2026-12-03",
+        "endDate": "2026-12-04",
+        "venueName": "Louvre Abu Dhabi",
+        "addressLocality": "Abu Dhabi",
+        "addressCountry": "United Arab Emirates",
+        "city": "Abu Dhabi",
+        "country": "United Arab Emirates",
+        "location": "Louvre Abu Dhabi, Abu Dhabi, United Arab Emirates"
+      },
+      "previousStartDate": "2026-12-03T08:00:00.000Z",
+      "characters": 101,
+      "preview": "The most exclusive room for capital, digital assets and AI. C-suite decision-makers, no pay-to-speak."
+    },
+    {
+      "id": "ma-bitcoin-mena",
+      "file": "events-cache.json",
+      "name": "Bitcoin Mena",
+      "status": "unavailable",
+      "attempts": [
+        {
+          "url": "https://mena.b.tc/",
+          "reason": "different-event-edition"
+        }
+      ]
+    },
+    {
+      "id": "w3v-global-blockchain-show-2026-abu-dhabi",
+      "file": "events-cache.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://www.globalblockchainshow.com/abu-dhabi/",
+        "fetchedAt": "2026-09-20T00:20:37.342Z",
+        "method": "event-jsonld",
+        "pageTitle": "Global Blockchain Show Abu Dhabi - Premier Crypto Event",
+        "sha256": "acc9f3d367a22ff23c711f37d3a3abd5cee5e5e1c99cc3253c267e11367d6df4"
+      },
+      "eventFacts": {
+        "startDate": "2026-11-26T09:00:00+00:00",
+        "endDate": "2026-11-27T18:00:00+00:00",
+        "venueName": "Abu Dhabi",
+        "addressLocality": "Abu Dhabi",
+        "addressCountry": "UAE",
+        "city": "Abu Dhabi",
+        "country": "UAE",
+        "location": "Abu Dhabi, UAE"
+      },
+      "previousStartDate": "2026-12-10T08:00:00.000Z",
+      "characters": 138,
+      "preview": "Join the Global Blockchain Show Abu Dhabi 2026 - the premier crypto event uniting top Web3 leaders, innovators & investors across the UAE."
+    },
+    {
+      "id": "luma-host-evt-evt-r6tADv4L8KdncKD",
+      "file": "events-cache.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://ethconf.com/",
+        "fetchedAt": "2026-09-20T00:20:58.275Z",
+        "method": "event-jsonld",
+        "pageTitle": "ETHConf — June 14–16, 2027 | The World's Largest Institutional Ethereum Event",
+        "sha256": "a2be8757bb23983d0188180568113c686fc28cf244e56b3d02593f6eb885a83e"
+      },
+      "eventFacts": {
+        "startDate": "2027-06-14T08:30:00-04:00",
+        "endDate": "2027-06-16T18:00:00-04:00",
+        "venueName": "Javits Center",
+        "streetAddress": "429 11th Avenue",
+        "addressLocality": "New York",
+        "addressRegion": "NY",
+        "postalCode": "10001",
+        "addressCountry": "US",
+        "city": "New York",
+        "country": "US",
+        "location": "Javits Center, 429 11th Avenue, New York, NY, 10001, US"
+      },
+      "previousStartDate": "2027-06-14T12:30:00.000Z",
+      "characters": 131,
+      "preview": "ETHConf is ETHGlobal's three-day institutional Ethereum event, taking place June 14–16, 2027 at the Javits Center in New York City."
+    },
+    {
+      "id": "token2049-side-6a4fab1c10f84b19adc724c0",
+      "file": "events-cache.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://blockworks.com/event/digital-asset-summit-asia",
+        "fetchedAt": "2026-09-20T00:20:58.660Z",
+        "method": "event-jsonld",
+        "pageTitle": "Digital Asset Summit Asia 2026",
+        "sha256": "166a9fc5c162b03929a9b31879efb9c27e020ee06f80f7b871ec51e9869e486d"
+      },
+      "eventFacts": {
+        "startDate": "2026-10-07T14:00:00.000Z",
+        "endDate": "2026-10-07T23:00:00.000Z",
+        "venueName": "Marina Bay Sands Singapore",
+        "streetAddress": "10 Bayfront Ave, Singapore 018956",
+        "location": "Marina Bay Sands Singapore, 10 Bayfront Ave, Singapore 018956"
+      },
+      "previousStartDate": "2026-10-07T08:00:00+08:00",
+      "characters": 52,
+      "preview": "Crypto's Premier Institutional Event Arrives In Asia"
+    },
+    {
+      "id": "token2049-side-6a7445ef7ef1577c1e37eca1",
+      "file": "events-cache.json",
+      "name": "AFTER 2049: The official closing party of TOKEN2049",
+      "status": "unavailable",
+      "attempts": [
+        {
+          "url": "https://megatix.com.sg/events/after2049",
+          "reason": "event-not-matched"
+        }
+      ]
+    },
+    {
+      "id": "token2049-side-6a841e58244677004e8f4431",
+      "file": "events-cache.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://deltav.monad.xyz/programs/deltav-demo-day",
+        "fetchedAt": "2026-09-20T00:20:59.492Z",
+        "method": "official-meta",
+        "pageTitle": "DeltaV Demo Day @ Open",
+        "sha256": "4056d4f589646377f6d703f8e0342cf0bec7f8d7a2a5c5c2f9d6babef3914e9c"
+      },
+      "previousStartDate": "2026-10-06T10:00:00+08:00",
+      "characters": 146,
+      "preview": "For the top 1% of founders.\nA chance to pitch in a closed, invite-only demo day inside Monad Foundation's flagship event Open\n\nAttended by 50+ VCs"
+    },
+    {
+      "id": "token2049-side-6a8c0860244677004e8f54a5",
+      "file": "events-cache.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://portfolioday.animocabrands.com/",
+        "fetchedAt": "2026-09-20T00:20:59.855Z",
+        "method": "official-section",
+        "pageTitle": "Animoca Portfolio Day 2026 — GTM in the Agentic Era",
+        "sha256": "62fa12e7db41209041daa4017bf115419b0c62c75aa08e84fcdd0f7c934a497c"
+      },
+      "previousStartDate": "2026-10-06T13:00:00+08:00",
+      "characters": 2956,
+      "preview": "## Animoca Portfolio Day\n\nRegistration is required, with priority given to Animoca Brands portfolio companies, investors, and strategic partners.\n\n## Doors Open & Registration\n\nLight lunch is provided — meet the ecosystem before the programme begins.\n\n## Welcome Remarks\n\n## Keynote — GTM in the Agentic Era\n\n## Panel — Agents as Economic Actors: Intelligence, Infrastructure and Money\n\nModerator: Sam Tse, Head of Investment, Advisory & Portfolio, Animoca Brands\n\nGlendon Thaiw, Head of Startups Solutions Architecture ASEAN, AWS\n\n## Panel — Agentic Identity and Trust Framework for AI Agents by AIR\n\n## Keynote — Animoca Brands' Institutional Roadmap\n\n## Panel — Institutional Assets On-Chain: From Fund Structures to Tokenised Vaults\n\nModerator: Brian Chan, Chief Development Officer, Animoca Bran"
+    },
+    {
+      "id": "token2049-side-6aa3f80a967be0befa88dd56",
+      "file": "events-cache.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://www.token2049.com/singapore/2049-origins",
+        "fetchedAt": "2026-09-20T00:20:41.129Z",
+        "method": "event-jsonld",
+        "pageTitle": "Origins Hackathon  | TOKEN2049 | Singapore",
+        "sha256": "b86efaf38ce581aecf4a038346c252f9625f4f3ab9ece483fedfb8c5ddcd4852"
+      },
+      "eventFacts": {
+        "venueName": "Marina Bay Sands",
+        "addressLocality": "Singapore",
+        "addressCountry": "SG",
+        "city": "Singapore",
+        "country": "SG",
+        "location": "Marina Bay Sands, Singapore, SG"
+      },
+      "previousStartDate": "2026-10-07T00:00:00+08:00",
+      "characters": 196,
+      "preview": "36-hour crypto hackathon at TOKEN2049 Singapore. 200 participants build projects in DeFi, infrastructure, NFTs, or AI, with mentorship and demo opportunities on the main stage to 25,000 attendees."
+    },
+    {
+      "id": "token2049-side-6a51f5763438be070d7a99de",
+      "file": "events-cache.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://t.me/CollablyNetworkEventBot?referrer=luma",
+        "fetchedAt": "2026-09-20T00:21:00.523Z",
+        "method": "official-meta",
+        "pageTitle": "Collably Network",
+        "sha256": "69fe54c76e5d9c3616eb6152e477fd383e903ced8648155e80bb01df5f51df65"
+      },
+      "previousStartDate": "2026-10-07T07:00:00+08:00",
+      "characters": 108,
+      "preview": "Stop random networking. Connect with high-intent partners at events & online. Turn conversations into deals."
+    },
+    {
+      "id": "token2049-side-6a7399105a75007b41001064",
+      "file": "events-cache.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://milkeninstitute.org/events/asia-summit-2026",
+        "fetchedAt": "2026-09-20T00:21:00.681Z",
+        "method": "official-section",
+        "pageTitle": "Asia Summit 2026 | Milken Institute",
+        "sha256": "273107efc012d42e075297c1a7725cb44d2495585878f0300a23e4cd509dd05f"
+      },
+      "previousStartDate": "2026-10-07T08:00:00+08:00",
+      "characters": 4174,
+      "preview": "## Asia Summit 2026\n\nThe 2026 Milken Institute Asia Summit brings together a global community of influential leaders shaping the next era of intelligence, collaboration, and growth. The event is where capital comes to find the best ideas and participants forge new partnerships to lead transformation at scale toward greater shared prosperity.Under the theme Leading with Intelligence, the 13th Asia Summit explores how technology, information, and human judgment can address the defining economic, geopolitical, demographic, and environmental challenges facing Asia and the world. Across our core programmatic themes of business, finance, philanthropy, and health, and a new track on AI innovation, investment, and sovereignty, the event convenes leaders from across industries and sectors for thoug"
+    },
+    {
+      "id": "token2049-side-6aa41e96c0426d278bd87cfe",
+      "file": "events-cache.json",
+      "name": "NEXUS Startup Competition First Round",
+      "status": "unavailable",
+      "attempts": [
+        {
+          "url": "https://www.token2049.com/singapore/nexus-startup-competition",
+          "reason": "event-not-matched"
+        }
+      ]
+    },
+    {
+      "id": "token2049-side-6a51f5783438be070d7a99e0",
+      "file": "events-cache.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://t.me/CollablyNetworkEventBot?referrer=luma",
+        "fetchedAt": "2026-09-20T00:21:00.523Z",
+        "method": "official-meta",
+        "pageTitle": "Collably Network",
+        "sha256": "69fe54c76e5d9c3616eb6152e477fd383e903ced8648155e80bb01df5f51df65"
+      },
+      "previousStartDate": "2026-10-08T07:00:00+08:00",
+      "characters": 108,
+      "preview": "Stop random networking. Connect with high-intent partners at events & online. Turn conversations into deals."
+    },
+    {
+      "id": "token2049-side-6a54a1523438be070d7a9bdd",
+      "file": "events-cache.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://token2049.com/singapore",
+        "fetchedAt": "2026-09-20T00:21:00.781Z",
+        "method": "event-jsonld",
+        "pageTitle": "TOKEN2049 | 7-8 October 2026 | Singapore",
+        "sha256": "672897156638babb2793dee3e4989b27b99702bc19e851da891e4538fda8499e"
+      },
+      "eventFacts": {
+        "venueName": "Marina Bay Sands",
+        "addressLocality": "Singapore",
+        "addressCountry": "SG",
+        "city": "Singapore",
+        "country": "SG",
+        "location": "Marina Bay Sands, Singapore, SG"
+      },
+      "previousStartDate": "2026-10-08T07:30:00+08:00",
+      "characters": 164,
+      "preview": "TOKEN2049 is the world's largest crypto event. Join the crypto ecosystem's decision-makers in Singapore to connect, exchange ideas, network, and shape the industry."
+    },
+    {
+      "id": "token2049-side-6a7399235a75007b41001066",
+      "file": "events-cache.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://milkeninstitute.org/events/asia-summit-2026",
+        "fetchedAt": "2026-09-20T00:21:00.681Z",
+        "method": "official-section",
+        "pageTitle": "Asia Summit 2026 | Milken Institute",
+        "sha256": "273107efc012d42e075297c1a7725cb44d2495585878f0300a23e4cd509dd05f"
+      },
+      "previousStartDate": "2026-10-08T08:00:00+08:00",
+      "characters": 4174,
+      "preview": "## Asia Summit 2026\n\nThe 2026 Milken Institute Asia Summit brings together a global community of influential leaders shaping the next era of intelligence, collaboration, and growth. The event is where capital comes to find the best ideas and participants forge new partnerships to lead transformation at scale toward greater shared prosperity.Under the theme Leading with Intelligence, the 13th Asia Summit explores how technology, information, and human judgment can address the defining economic, geopolitical, demographic, and environmental challenges facing Asia and the world. Across our core programmatic themes of business, finance, philanthropy, and health, and a new track on AI innovation, investment, and sovereignty, the event convenes leaders from across industries and sectors for thoug"
+    },
+    {
+      "id": "token2049-side-6a6711ea5a75007b41000117",
+      "file": "events-cache.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://stablecoinsummit.com/",
+        "fetchedAt": "2026-09-20T00:21:00.833Z",
+        "method": "official-section",
+        "pageTitle": "Stablecoin Summit 2026",
+        "sha256": "3d2f8302146a7eb8d5e9fe6da1d241fb2be0d6dfbf57e7f73e9e2e7ce2ce19b3"
+      },
+      "previousStartDate": "2026-10-08T09:00:00+08:00",
+      "characters": 457,
+      "preview": "## Stablecoin Summit 26\n\nAsia's premier event for stablecoin innovation. We bring together government, institutions, fintech leaders, and blockchain pioneers to explore the future of digital money. Designed for enterprises and financial institutions engaged in high-volume cross-border payments, we focus on real-world use cases, trustless transactions, transparency, and security. Join us for expert insights, technical deep dives, and top-tier networking."
+    },
+    {
+      "id": "token2049-side-6a71f32ad1b48ddf39d09b86",
+      "file": "events-cache.json",
+      "name": "Agentic Finance Summit",
+      "status": "unavailable",
+      "attempts": []
+    },
+    {
+      "id": "token2049-side-6aa41f2ac0426d278bd87d05",
+      "file": "events-cache.json",
+      "name": "NEXUS Startup Competition Final Round",
+      "status": "unavailable",
+      "attempts": [
+        {
+          "url": "https://www.token2049.com/singapore/nexus-startup-competition",
+          "reason": "event-not-matched"
+        }
+      ]
+    },
+    {
+      "id": "token2049-side-6aa41d6d8ffcc4e5ece10d0f",
+      "file": "events-cache.json",
+      "name": "Origins Hackathon Prize Ceremony",
+      "status": "unavailable",
+      "attempts": [
+        {
+          "url": "https://www.token2049.com/singapore/2049-origins",
+          "reason": "event-not-matched"
+        }
+      ]
+    },
+    {
+      "id": "token2049-side-6a73992d5a75007b41001068",
+      "file": "events-cache.json",
+      "status": "source-backed",
+      "source": {
+        "url": "https://milkeninstitute.org/events/asia-summit-2026",
+        "fetchedAt": "2026-09-20T00:21:00.681Z",
+        "method": "official-section",
+        "pageTitle": "Asia Summit 2026 | Milken Institute",
+        "sha256": "273107efc012d42e075297c1a7725cb44d2495585878f0300a23e4cd509dd05f"
+      },
+      "previousStartDate": "2026-10-09T08:00:00+08:00",
+      "characters": 4174,
+      "preview": "## Asia Summit 2026\n\nThe 2026 Milken Institute Asia Summit brings together a global community of influential leaders shaping the next era of intelligence, collaboration, and growth. The event is where capital comes to find the best ideas and participants forge new partnerships to lead transformation at scale toward greater shared prosperity.Under the theme Leading with Intelligence, the 13th Asia Summit explores how technology, information, and human judgment can address the defining economic, geopolitical, demographic, and environmental challenges facing Asia and the world. Across our core programmatic themes of business, finance, philanthropy, and health, and a new track on AI innovation, investment, and sovereignty, the event convenes leaders from across industries and sectors for thoug"
+    },
+    {
+      "id": "token2049-side-6a622e12d1b48ddf39d08981",
+      "file": "events-cache.json",
+      "name": "Vault Summit",
+      "status": "unavailable",
+      "attempts": [
+        {
+          "url": "https://sg2026.vaultsummit.xyz/",
+          "reason": "no-event-description"
+        }
+      ]
+    },
+    {
+      "id": "token2049-side-6a739bc8d1b48ddf39d09e32",
+      "file": "events-cache.json",
+      "name": "F1 Practice and Sprint Qualifying",
+      "status": "unavailable",
+      "attempts": [
+        {
+          "url": "https://singaporegp.sg/en",
+          "reason": "event-not-matched"
+        }
+      ]
+    },
+    {
+      "id": "token2049-side-6a739c525a75007b4100108c",
+      "file": "events-cache.json",
+      "name": "F1 Sprint Race and Grand Prix Qualifying",
+      "status": "unavailable",
+      "attempts": [
+        {
+          "url": "https://singaporegp.sg/en",
+          "reason": "event-not-matched"
+        }
+      ]
+    },
+    {
+      "id": "token2049-side-6a739ce35a75007b41001095",
+      "file": "events-cache.json",
+      "name": "F1 Singapore Grand Prix Night Race",
+      "status": "unavailable",
+      "attempts": [
+        {
+          "url": "https://singaporegp.sg/",
+          "reason": "event-not-matched"
+        }
+      ]
+    },
+    {
+      "id": "token2049-side-6a5dff0dd1b48ddf39d0827c",
+      "file": "events-cache.json",
+      "name": "CoinFerenceX the best event - Day 1",
+      "status": "unavailable",
+      "attempts": [
+        {
+          "url": "https://coinferencex.com/singapore",
+          "reason": "event-not-matched"
+        }
+      ]
+    },
+    {
+      "id": "token2049-side-6a5dff0ed1b48ddf39d0827e",
+      "file": "events-cache.json",
+      "name": "CoinFerenceX the best event - Day 2",
+      "status": "unavailable",
+      "attempts": [
+        {
+          "url": "https://coinferencex.com/singapore",
+          "reason": "event-not-matched"
+        }
+      ]
+    }
+  ]
+}

@@ -21,7 +21,7 @@ type CachedEvent = {
 };
 
 const spreadsheetUrl = 'https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/export?format=xlsx';
-const cachePath = path.join(process.cwd(), 'content', 'events-cache.json');
+const cachePath = path.join(process.cwd(), 'content', 'events', 'sources', 'events-cache.json');
 
 function getLink(formula?: string): string | null {
   const match = formula?.match(/^HYPERLINK\("([^"]+)"/i);

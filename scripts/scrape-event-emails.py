@@ -100,9 +100,9 @@ def scrape_event(event_name, base_url):
 
 
 # Load events
-with open('content/curated-events.json') as f:
+with open('content/events/sources/curated-events.json') as f:
     curated = json.load(f)
-with open('content/events-cache.json') as f:
+with open('content/events/sources/events-cache.json') as f:
     cached = json.load(f)
 
 all_events = curated + cached

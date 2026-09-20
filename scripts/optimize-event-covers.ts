@@ -7,7 +7,7 @@ const MAX_WIDTH = 1600;
 const MAX_HEIGHT = 900;
 const WEBP_OPTIONS = { quality: 76, effort: 5 } as const;
 const STATIC_RASTER_FORMATS = new Set(['avif', 'jpeg', 'png', 'webp']);
-const REFERENCE_FILES = ['content/events-cache.json', 'content/curated-events.json'];
+const REFERENCE_FILES = ['content/events/sources/events-cache.json', 'content/events/sources/curated-events.json'];
 const MANIFEST_PATH = 'content/event-cover-optimization.json';
 
 type PlannedChange = {

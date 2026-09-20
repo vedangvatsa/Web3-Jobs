@@ -8,12 +8,12 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const rootDir = path.resolve(__dirname, '..');
 
-const curatedPath = path.join(rootDir, 'content', 'curated-events.json');
-const cachePath = path.join(rootDir, 'content', 'events-cache.json');
-const ibwSideEventsPath = path.join(rootDir, 'content', 'ibw-side-events.json');
-const kbwSideEventsPath = path.join(rootDir, 'content', 'kbw-luma-events.json');
-const indiaLumaEventsPath = path.join(rootDir, 'content', 'india-luma-events.json');
-const lumaCryptoEventsPath = path.join(rootDir, 'content', 'luma-crypto-events.json');
+const curatedPath = path.join(rootDir, 'content', 'events', 'sources', 'curated-events.json');
+const cachePath = path.join(rootDir, 'content', 'events', 'sources', 'events-cache.json');
+const ibwSideEventsPath = path.join(rootDir, 'content', 'events', 'sources', 'ibw-side-events.json');
+const kbwSideEventsPath = path.join(rootDir, 'content', 'events', 'sources', 'kbw-luma-events.json');
+const indiaLumaEventsPath = path.join(rootDir, 'content', 'events', 'sources', 'india-luma-events.json');
+const lumaCryptoEventsPath = path.join(rootDir, 'content', 'events', 'sources', 'luma-crypto-events.json');
 const publicEventsDir = path.join(rootDir, 'public', 'events');
 const sourceFilter = process.env.EVENT_SOURCE;
 const refreshImages = process.env.EVENT_IMAGE_REFRESH === '1';

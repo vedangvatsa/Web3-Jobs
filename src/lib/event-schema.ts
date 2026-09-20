@@ -1,6 +1,7 @@
 import type { EventParty as SourceEventParty, Web3Event } from './events';
 import { getEventExternalUrl } from './event-external-url';
 import { hasDetailedStreetAddress } from './event-address';
+import { getVerifiedEventDescription } from './event-description-source';
 
 type SchemaParty = {
   '@type': 'Organization' | 'Person' | 'PerformingGroup';
@@ -18,6 +19,16 @@ type PostalAddress = {
   addressCountry?: string;
 };
 
+type SchemaOffer = {
+  '@type': 'Offer';
+  name?: string;
+  url: string;
+  price: number;
+  priceCurrency?: string;
+  availability?: 'https://schema.org/InStock' | 'https://schema.org/SoldOut' | 'https://schema.org/PreOrder';
+  validFrom?: string;
+};
+
 export type GoogleEventSchema = {
   '@context': 'https://schema.org';
   '@type': 'Event';
@@ -25,30 +36,20 @@ export type GoogleEventSchema = {
   startDate: string;
   endDate?: string;
   description?: string;
-  eventStatus?: 'https://schema.org/EventScheduled';
+  eventStatus?: `https://schema.org/${NonNullable<Web3Event['eventStatus']>}`;
+  previousStartDate?: string;
   eventAttendanceMode:
     | 'https://schema.org/OfflineEventAttendanceMode'
-    | 'https://schema.org/OnlineEventAttendanceMode';
-  location:
-    | {
-        '@type': 'Place';
-        name: string;
-        address: PostalAddress;
-      }
-    | {
-        '@type': 'VirtualLocation';
-        url: string;
-      };
+    | 'https://schema.org/MixedEventAttendanceMode';
+  location: {
+    '@type': 'Place';
+    name: string;
+    address: PostalAddress;
+  };
   url: string;
   sameAs?: string;
   image?: string[];
-  offers?: {
-    '@type': 'Offer';
-    url: string;
-    price: number;
-    priceCurrency?: string;
-    availability: 'https://schema.org/InStock';
-  };
+  offers?: SchemaOffer | SchemaOffer[];
   organizer?: SchemaParty;
   performer?: SchemaParty;
 };
@@ -172,32 +173,28 @@ function sourceParty(party?: SourceEventParty): SchemaParty | undefined {
 }
 
 /** Online when the venue fields (not the prose) say so. */
-export function isOnlineEventVenue(event: Pick<Web3Event, 'location' | 'city' | 'country'>): boolean {
-  return VIRTUAL_ONLY.test(`${text(event.location)} ${text(event.city)}`);
+export function isOnlineEventVenue(event: Pick<Web3Event, 'location' | 'city' | 'country' | 'attendanceMode'>): boolean {
+  return event.attendanceMode === 'online' || VIRTUAL_ONLY.test(`${text(event.location)} ${text(event.city)}`);
+}
+
+export function getGoogleEventSchemaIssues(event: Web3Event): string[] {
+  const issues: string[] = [];
+  const name = text(event.name);
+  const location = text(event.location);
+  if (!name) issues.push('missing-name');
+  if (!isValidIsoDate(event.startDate)) issues.push('invalid-start-date');
+  if (event.endDate && (!isValidIsoDate(event.endDate) || Date.parse(event.endDate) < Date.parse(event.startDate))) issues.push('invalid-end-date');
+  // Google's Event experience excludes virtual-only and invitation/membership-gated events.
+  if (isOnlineEventVenue(event) || (event.attendanceMode !== 'mixed' && VIRTUAL_EVENT_MODE.test(text(event.description)))) issues.push('online-only');
+  if (event.approvalRequired || event.visibility === 'private' || event.visibility === 'unlisted' || PRIVATE_EVENT.test(`${name} ${text(event.description)}`)) issues.push('restricted-registration');
+  if (event.locationHidden) issues.push('hidden-address');
+  if (!location || UNKNOWN_LOCATION.test(location)) issues.push('missing-location');
+  if (!hasDetailedSourceLocation(event)) issues.push('missing-detailed-address');
+  return issues;
 }
 
 export function isGoogleEventSchemaEligible(event: Web3Event): boolean {
-  const name = text(event.name);
-  const location = text(event.location);
-  if (!name || !isValidIsoDate(event.startDate)) return false;
-  // A virtual-only description against a physical venue is contradictory —
-  // suppress rather than emit a Place schema for an event held online.
-  // (Genuinely online events have virtual venue fields and are unaffected.
-  // Incidental words like Discord links or "released online" don't count —
-  // only explicit online-attendance mode.)
-  if (VIRTUAL_EVENT_MODE.test(text(event.description)) && !isOnlineEventVenue(event)) return false;
-  if (event.endDate && (!isValidIsoDate(event.endDate) || Date.parse(event.endDate) < Date.parse(event.startDate))) return false;
-  // Note: invite-only / approval-based copy is treated as gated (no schema).
-  // Online events are fully eligible via VirtualLocation. Physical events
-  // need a detailed street address — city-level or venue-label alone is not
-  // enough for a Place schema; a concrete street address is required.
-  if (isOnlineEventVenue(event)) return true;
-  // Gated/private events are not public listings — never emit schema for them.
-  if (PRIVATE_EVENT.test(`${text(event.name)} ${text(event.description)}`)) return false;
-  if (!location || UNKNOWN_LOCATION.test(location)) return false;
-  // Physical events need a detailed street address. City-only, venue-label,
-  // or TBD locations must not emit a Place schema.
-  return hasDetailedSourceLocation(event);
+  return getGoogleEventSchemaIssues(event).length === 0;
 }
 
 export function buildGoogleEventSchema(event: Web3Event, context: EventSchemaContext): GoogleEventSchema | null {
@@ -208,9 +205,27 @@ export function buildGoogleEventSchema(event: Web3Event, context: EventSchemaCon
   const venueName = text(event.venueName) || text(event.location);
   const organizer = sourceParty(event.organizer);
   const performer = sourceParty(event.performer);
-  const online = isOnlineEventVenue(event);
   const city = text(event.city);
   const country = text(event.country);
+  const address = sourceAddress(event);
+  const offers: SchemaOffer[] = (event.ticketOffers || []).flatMap((offer) => {
+    const currency = text(offer.priceCurrency).toUpperCase();
+    if (!Number.isFinite(offer.price) || offer.price < 0 || (offer.price > 0 && !ISO_CURRENCIES.has(currency))) return [];
+    if (!isHttpUrl(offer.url)) return [];
+    return [{
+      '@type': 'Offer' as const,
+      ...(text(offer.name) ? { name: text(offer.name) } : {}),
+      url: offer.url,
+      price: offer.price,
+      ...(ISO_CURRENCIES.has(currency) ? { priceCurrency: currency } : {}),
+      ...(['InStock', 'SoldOut', 'PreOrder'].includes(offer.availability || '') ? { availability: `https://schema.org/${offer.availability}` as SchemaOffer['availability'] } : {}),
+      ...(isValidIsoDate(offer.validFrom) ? { validFrom: offer.validFrom } : {}),
+    }];
+  });
+  if (!offers.length && !event.ticketOffers && parsedPrice && externalUrl) {
+    offers.push({ '@type': 'Offer', url: externalUrl, ...parsedPrice });
+  }
+  const status = event.eventStatus && ['EventScheduled', 'EventCancelled', 'EventPostponed', 'EventRescheduled'].includes(event.eventStatus) ? event.eventStatus : undefined;
 
   return {
     '@context': 'https://schema.org',
@@ -218,38 +233,25 @@ export function buildGoogleEventSchema(event: Web3Event, context: EventSchemaCon
     name: text(event.name),
     startDate: event.startDate,
     ...(event.endDate ? { endDate: event.endDate } : {}),
-    ...(text(event.description) ? { description: text(event.description) } : {}),
-    // No eventStatus: Web3Event carries no stated status, and fabricating
-    // EventScheduled would mislabel postponed/cancelled events.
-    eventAttendanceMode: online
-      ? 'https://schema.org/OnlineEventAttendanceMode'
+    ...(getVerifiedEventDescription(event) ? { description: getVerifiedEventDescription(event).replace(/^\s*(?:#{1,6}|>)\s+/gm, '') } : {}),
+    ...(status ? { eventStatus: `https://schema.org/${status}` as GoogleEventSchema['eventStatus'] } : {}),
+    ...(status === 'EventRescheduled' && isValidIsoDate(event.previousStartDate) ? { previousStartDate: event.previousStartDate } : {}),
+    eventAttendanceMode: event.attendanceMode === 'mixed'
+      ? 'https://schema.org/MixedEventAttendanceMode'
       : 'https://schema.org/OfflineEventAttendanceMode',
-    location: online
-      ? {
-          '@type': 'VirtualLocation',
-          url: context.pageUrl,
-        }
-      : {
-          '@type': 'Place',
-          name: venueName,
-          address: {
-            ...sourceAddress(event),
-            ...(city ? { addressLocality: city } : {}),
-            ...(country ? { addressCountry: country } : {}),
-          },
-        },
+    location: {
+      '@type': 'Place',
+      name: venueName,
+      address: {
+        ...address,
+        ...(!address.addressLocality && city ? { addressLocality: city } : {}),
+        ...(!address.addressCountry && country ? { addressCountry: country } : {}),
+      },
+    },
     url: context.pageUrl,
     ...(externalUrl && externalUrl !== context.pageUrl ? { sameAs: externalUrl } : {}),
     ...(isHttpUrl(context.imageUrl) ? { image: [context.imageUrl] } : {}),
-    ...(parsedPrice && externalUrl ? {
-      offers: {
-        '@type': 'Offer',
-        url: externalUrl,
-        price: parsedPrice.price,
-        ...(parsedPrice.priceCurrency ? { priceCurrency: parsedPrice.priceCurrency } : {}),
-        availability: 'https://schema.org/InStock',
-      },
-    } : {}),
+    ...(offers.length ? { offers: offers.length === 1 ? offers[0] : offers } : {}),
     ...(organizer ? { organizer } : {}),
     ...(performer ? { performer } : {}),
   };

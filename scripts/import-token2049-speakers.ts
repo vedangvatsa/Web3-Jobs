@@ -6,7 +6,7 @@ type Speaker = { name: string; title?: string; organization?: string };
 type EventRecord = { id: string; speakers?: string[]; speakerDetails?: Speaker[] };
 
 const sourceUrl = 'https://token2049.com/singapore/speakers';
-const curatedPath = path.join(process.cwd(), 'content', 'curated-events.json');
+const curatedPath = path.join(process.cwd(), 'content', 'events', 'sources', 'curated-events.json');
 
 async function main() {
   const response = await fetch(sourceUrl, { headers: { 'User-Agent': 'HashtagWeb3 event directory' } });

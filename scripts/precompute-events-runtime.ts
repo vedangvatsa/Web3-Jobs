@@ -1,11 +1,13 @@
 import * as fs from 'fs';
 import * as path from 'path';
 import { buildEventsListing } from '../src/lib/events-listing-build';
+import { writeEventContentCatalog } from './event-content-catalog';
 
 const OUT_PATH = path.join(process.cwd(), 'content/events-runtime.json');
 const PUBLIC_DATA_PATH = path.join(process.cwd(), 'public/data/events-runtime.json');
 
 async function main() {
+  writeEventContentCatalog();
   const events = await buildEventsListing();
   const json = `${JSON.stringify(events)}\n`;
   fs.writeFileSync(OUT_PATH, json, 'utf-8');

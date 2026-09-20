@@ -1,11 +1,11 @@
 /**
- * One-shot noslop scrub for content/generated-event-guides.json
+ * One-shot noslop scrub for content/events/editorial/generated-event-guides.json
  * Usage: npx tsx scripts/scrub-event-guide-slop.ts
  */
 import fs from 'node:fs';
 import { cleanPublishText } from '../src/lib/noslop';
 
-const PATH = 'content/generated-event-guides.json';
+const PATH = 'content/events/editorial/generated-event-guides.json';
 
 const AI_REPLACEMENTS: Array<[RegExp, string]> = [
   [/\bIt'?s not just\b[^.?!]*[.?!]\s*/gi, ''],

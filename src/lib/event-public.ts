@@ -1,5 +1,6 @@
 import type { EventParty, PublicWeb3Event, Web3Event } from './events';
 import { getEventExternalUrl } from './event-external-url';
+import { getVerifiedEventDescription } from './event-description-source';
 
 function getPublicParty(party?: EventParty): EventParty | undefined {
   if (!party) return undefined;
@@ -14,6 +15,7 @@ function getPublicParty(party?: EventParty): EventParty | undefined {
 export function getPublicEvent(event: Web3Event): PublicWeb3Event {
   const {
     source: _source,
+    sourceVerification: _sourceVerification,
     url: _url,
     website: _website,
     registrationUrl: _registrationUrl,
@@ -29,6 +31,7 @@ export function getPublicEvent(event: Web3Event): PublicWeb3Event {
 
   return {
     ...eventData,
+    description: getVerifiedEventDescription(event),
     ...(externalUrl ? { url: externalUrl } : {}),
     ...(organizer ? { organizer: getPublicParty(organizer) } : {}),
     ...(performer ? { performer: getPublicParty(performer) } : {}),

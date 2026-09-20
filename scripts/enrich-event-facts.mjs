@@ -20,12 +20,12 @@ const DELAY_MS = Number(process.env.BACKFILL_DELAY_MS || 4000);
 const UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36';
 
 const FILES = [
-  'content/events-cache.json',
-  'content/luma-crypto-events.json',
-  'content/curated-events.json',
-  'content/kbw-luma-events.json',
-  'content/ibw-side-events.json',
-  'content/india-luma-events.json',
+  'content/events/sources/events-cache.json',
+  'content/events/sources/luma-crypto-events.json',
+  'content/events/sources/curated-events.json',
+  'content/events/sources/kbw-luma-events.json',
+  'content/events/sources/ibw-side-events.json',
+  'content/events/sources/india-luma-events.json',
 ];
 
 function hostName(h) {

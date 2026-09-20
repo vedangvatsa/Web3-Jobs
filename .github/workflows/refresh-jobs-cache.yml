@@ -323,7 +323,7 @@ jobs:
           # Jobs cache + description shards are required; fail the step if they cannot be staged.
           git add content/jobs-cache.json content/jobs-runtime.json content/homepage-jobs.json content/job-description-shards/
           # Optional state / assets (missing paths must not block the jobs publish).
-          git add content/events-cache.json content/legacy-slugs-archive.json scripts/social/*.json .telegram*.json .resend-broadcast-sent.json public/logo/companies/ 2>/dev/null || true
+          git add content/events/ content/legacy-slugs-archive.json scripts/social/*.json .telegram*.json .resend-broadcast-sent.json public/logo/companies/ 2>/dev/null || true
 
           if git diff --staged --quiet; then
             echo "No changes to commit"

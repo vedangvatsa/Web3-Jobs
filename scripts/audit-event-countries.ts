@@ -6,7 +6,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { normalizeCountry, COUNTRY_NAMES } from '../src/lib/events';
 
-const ROOT = path.join(process.cwd(), 'content');
+const ROOT = path.join(process.cwd(), 'content', 'events', 'sources');
 const FILES = [
   'events-cache.json',
   'luma-crypto-events.json',

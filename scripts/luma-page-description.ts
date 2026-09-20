@@ -11,32 +11,52 @@ function unescapeEmbeddedJsonString(fragment: string): string {
   }
 }
 
-/** Recursively format a ProseMirror document object into structured text. */
-export function proseMirrorToFormattedText(node: any): string {
+/** Keep block boundaries and source links when flattening Luma's rich-text document. */
+export function proseMirrorToFormattedText(node: unknown): string {
   if (!node) return '';
   if (typeof node === 'string') return node;
-  if (node.text) return node.text;
-
-  const type = node.type;
-  const content = Array.isArray(node.content) ? node.content.map(proseMirrorToFormattedText).join('') : '';
+  if (Array.isArray(node)) return node.map(proseMirrorToFormattedText).join('');
+  if (typeof node !== 'object') return '';
+  const value = node as Record<string, unknown>;
+  if (typeof value.text === 'string') {
+    let text = value.text;
+    if (Array.isArray(value.marks)) {
+      for (const mark of value.marks) {
+        if (mark?.type === 'link' && typeof mark.attrs?.href === 'string' && /^https?:\/\//i.test(mark.attrs.href) && mark.attrs.href !== text) {
+          text += ` (${mark.attrs.href})`;
+        }
+      }
+    }
+    return text;
+  }
+  const type = value.type;
+  const children: unknown[] = Array.isArray(value.content) ? value.content : [];
+  const content = children.map(proseMirrorToFormattedText).join('');
 
   if (type === 'paragraph') {
     return content ? `${content}\n\n` : '\n';
   }
   if (type === 'heading') {
-    return `\n${content}\n\n`;
+    return `\n## ${content.trim()}\n\n`;
   }
-  if (type === 'bulletList' || type === 'orderedList') {
-    return `\n${content}\n`;
+  if (type === 'bulletList' || type === 'bullet_list' || type === 'orderedList' || type === 'ordered_list') {
+    const ordered = type === 'orderedList' || type === 'ordered_list';
+    const attrs = value.attrs as Record<string, unknown> | undefined;
+    const start = typeof attrs?.start === 'number' ? attrs.start : typeof attrs?.order === 'number' ? attrs.order : 1;
+    const items = children.map((child, index) => {
+      const body = proseMirrorToFormattedText(child).trim().replace(/\n+/g, '\n  ');
+      return `${ordered ? `${start + index}.` : '•'} ${body}`;
+    });
+    return `\n${items.join('\n')}\n\n`;
   }
-  if (type === 'listItem') {
-    return `• ${content.trim()}\n`;
+  if (type === 'listItem' || type === 'list_item') {
+    return content;
   }
-  if (type === 'hardBreak') {
+  if (type === 'hardBreak' || type === 'hard_break') {
     return '\n';
   }
   if (type === 'blockquote') {
-    return `\n> ${content.trim()}\n\n`;
+    return `\n${content.trim().split('\n').map((line) => `> ${line}`).join('\n')}\n\n`;
   }
   return content;
 }
@@ -128,7 +148,7 @@ export function pickBestLumaOrganizerDescription(candidates: string[]): string |
 }
 
 /** Plain text for JSON / meta (keeps sentence structure, cleans excessive whitespace). */
-export function normalizeLumaDescriptionForStorage(text: string, maxLen = 3500): string {
+export function normalizeLumaDescriptionForStorage(text: string, maxLen?: number): string {
   const withoutEmoji = text.replace(
     /[\u{1F300}-\u{1FAFF}\u{2600}-\u{27BF}\u{FE0F}\u{200D}]/gu,
     '',
@@ -143,7 +163,7 @@ export function normalizeLumaDescriptionForStorage(text: string, maxLen = 3500):
 
 export async function fetchLumaOrganizerDescription(eventUrl: string): Promise<string | null> {
   const url = eventUrl.replace(/^https?:\/\/lu\.ma\//i, 'https://luma.com/');
-  const res = await fetch(url, { headers: { 'user-agent': UA, accept: 'text/html' } });
+  const res = await fetch(url, { headers: { 'user-agent': UA, accept: 'text/html' }, signal: AbortSignal.timeout(30_000) });
   if (!res.ok) return null;
   const html = await res.text();
   const best = pickBestLumaOrganizerDescription(extractLumaDescriptionsFromHtml(html));

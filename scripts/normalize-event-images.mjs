@@ -6,7 +6,7 @@ import { execFileSync } from 'child_process';
 import sharp from 'sharp';
 
 const eventsDir = path.resolve('public/events');
-const dirs = { cache: 'content/events-cache.json', curated: 'content/curated-events.json' };
+const dirs = { cache: 'content/events/sources/events-cache.json', curated: 'content/events/sources/curated-events.json' };
 
 function magicOf(file) {
   const b = fs.readFileSync(file);

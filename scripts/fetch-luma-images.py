@@ -43,9 +43,9 @@ def fetch_luma_cover_image(url, timeout=10):
 def main():
     print("Loading events files...")
     
-    with open('content/curated-events.json') as f:
+    with open('content/events/sources/curated-events.json') as f:
         curated = json.load(f)
-    with open('content/events-cache.json') as f:
+    with open('content/events/sources/events-cache.json') as f:
         cached = json.load(f)
 
     updated_curated = 0
@@ -80,9 +80,9 @@ def main():
             time.sleep(0.2)
 
     print(f"\nWriting updated files... (curated +{updated_curated}, cached +{updated_cached})")
-    with open('content/curated-events.json', 'w') as f:
+    with open('content/events/sources/curated-events.json', 'w') as f:
         json.dump(curated, f, indent=2)
-    with open('content/events-cache.json', 'w') as f:
+    with open('content/events/sources/events-cache.json', 'w') as f:
         json.dump(cached, f, indent=2)
 
     print("Done!")

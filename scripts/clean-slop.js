@@ -212,7 +212,7 @@ const TARGET_DIRS = [
 
 const TARGET_FILES = [
   'content/jobs-cache.json',
-  'content/events-cache.json',
+  'content/events/sources/events-cache.json',
   'content/jobs-full-text.json',
 ];
 

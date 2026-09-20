@@ -122,7 +122,7 @@ const COMPANY_ROOT_ALIASES: readonly string[] = [
 ];
 
 function eventSlugsFromCache(): string[] {
-  const cachePath = path.join(process.cwd(), 'content', 'events-cache.json');
+  const cachePath = path.join(process.cwd(), 'content', 'events', 'sources', 'events-cache.json');
   if (!fs.existsSync(cachePath)) return [];
   try {
     const events = JSON.parse(fs.readFileSync(cachePath, 'utf-8')) as Array<{ slug?: string; name?: string }>;

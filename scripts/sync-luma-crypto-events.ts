@@ -1,14 +1,14 @@
 /**
  * Sync upcoming Web3 events from Luma's /crypto category (multi-geo discover API)
- * and linked hub calendars into content/luma-crypto-events.json.
+ * and linked hub calendars into content/events/sources/luma-crypto-events.json.
  *
  * Usage: npx tsx scripts/sync-luma-crypto-events.ts [--dry-run]
  */
 import fs from 'node:fs';
 import path from 'node:path';
-import { getEventBaseSlug, normalizeCountry } from '../src/lib/events';
+import { getEventBaseSlug, normalizeCountry, type Web3Event } from '../src/lib/events';
 
-const OUTPUT = path.join('content', 'luma-crypto-events.json');
+const OUTPUT = path.join('content', 'events', 'sources', 'luma-crypto-events.json');
 const UA = 'HashtagWeb3 Luma Sync/1.0 (+https://hashtagweb3.com)';
 
 const GEO_HUBS = [
@@ -32,11 +32,11 @@ const WEB3_VOCAB =
   /crypto|bitcoin|btc\b|ethereum|\beth\b|ethglobal|ethcc|blockchain|web ?3|defi|nfts?|solana|dao|token2049|xrp|ripple|zk\b|zksync|zero.?knowledge|superteam|pragma|hyperliquid|onchain|on-chain|lido|polygon|arbitrum|optimism|base chain|coinbase|binance|airdrop|wallet|dapp|smart contract|layer ?2|metaverse|gamefi|staking|yield|digital asset|decentralized|cardano|cosmos|polkadot|monad|aptos|\bsui\b|chainlink|devcon|breakpoint|kbw|ibw|unchained|founders? dinner|vip dinner|afterparty|rooftop|networking|mixer|side event|coworking|co-working|launchpad|happy hour|lounge|meetup|hackathon|hacker ?house|builder ?house|buidl|solidity|uniswap|aave|makerdao|starknet|near protocol|near\b|toncoin|\bton\b|encode|trading|stablecoin|perp|dex\b|rwa|depin|vc\b|investor|capital|finance onchain|tradfi|web3/i;
 
 const SOURCE_FILES = [
-  'content/curated-events.json',
-  'content/kbw-luma-events.json',
-  'content/ibw-side-events.json',
-  'content/india-luma-events.json',
-  'content/events-cache.json',
+  'content/events/sources/curated-events.json',
+  'content/events/sources/kbw-luma-events.json',
+  'content/events/sources/ibw-side-events.json',
+  'content/events/sources/india-luma-events.json',
+  'content/events/sources/events-cache.json',
 ];
 
 type LumaGeo = {
@@ -79,6 +79,7 @@ type StoredEvent = {
   coverImage?: string | null;
   source: 'luma-crypto';
   sideEventFor?: string[];
+  sourceVerification?: Web3Event['sourceVerification'];
 };
 
 function normLumaUrl(urlOrSlug: string): string {
@@ -372,10 +373,16 @@ async function main() {
 
     const id = `luma-crypto-${e.api_id.replace(/^evt-/, '')}`;
     const prev = existingById.get(id);
+    if (prev?.sourceVerification) {
+      nextEvents.push(prev);
+      knownUrls.add(url);
+      continue;
+    }
     const { city, country, location } = buildLocation(e);
     const slug = prev?.slug || proposeSlug(e.name, lumaSlugFromUrl(url), takenSlugs, e.start_at);
 
     nextEvents.push({
+      ...prev,
       id,
       slug,
       name: e.name.trim(),

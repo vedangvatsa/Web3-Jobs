@@ -37,7 +37,6 @@ import { EventGuideContent } from '@/components/event-guide-content';
 import { DetailPageHeader } from '@/components/detail-page-header';
 import { EventSideEvents } from '@/components/token2049-side-events';
 import { DirectoryDisclaimer } from '@/components/directory-disclaimer';
-import { Token2049Details } from '@/components/token2049-details';
 import { getEventBySlug, getEvents, getRelatedEvents } from '@/lib/events-server';
 import { Button } from '@/components/ui/button';
 import { Calendar, MapPin, ExternalLink, ArrowLeft, ArrowRight } from 'lucide-react';
@@ -440,7 +439,6 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     if (!event) notFound();
     const siteUrl = 'https://hashtagweb3.com';
     const eventSlug = getEventSlug(event);
-    const isToken2049Page = eventSlug === 'token2049';
     if (params.slug !== eventSlug) {
       permanentRedirect(`/${eventSlug}`);
     }
@@ -460,7 +458,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
         : event.speakers?.length
           ? `${event.speakers.length} speaker${event.speakers.length === 1 ? '' : 's'} announced`
           : undefined;
-    const ticketPricing = editorial.ticketPricing;
+    const ticketPricing = event.price || editorial.ticketPricing;
     const expectedAttendance = editorial.expectedAttendance;
     const eventExternalUrl = getEventExternalUrl(event);
     const partnerOfferUrl = event.partnerOffer?.url
@@ -472,16 +470,16 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     const sideEvents = allEvents
       .filter((sideEvent) => sideEvent.sideEventFor?.includes(eventSlug))
       .map(getPublicEvent);
-    const eventTimeZone = eventSlug === 'token2049' ? 'Asia/Singapore'
+    const eventTimeZone = event.timezone || (eventSlug === 'token2049' ? 'Asia/Singapore'
       : eventSlug === 'kbw' ? 'Asia/Seoul'
       : eventSlug === 'ibw' || eventSlug === 'devcon' ? 'Asia/Kolkata'
-      : 'UTC';
+      : 'UTC');
 
     const eventPageUrl = `${siteUrl}/${eventSlug}`;
     const eventImageUrl = resolveEventOgImageUrl(event, siteUrl);
     const eventSchema = buildGoogleEventSchema(event, {
       pageUrl: eventPageUrl,
-      imageUrl: eventImageUrl,
+      imageUrl: event.coverImage ? eventImageUrl : undefined,
     });
 
     // Schema.org Breadcrumbs
@@ -509,10 +507,10 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                   <div className="flex h-full w-full flex-col items-center justify-center rounded-md border border-border/60 bg-muted/40 text-center">
                     <Calendar className="h-4 w-4 text-muted-foreground" aria-hidden="true" />
                     <span className="mt-1 text-[10px] font-bold uppercase leading-none text-primary">
-                      {getEventDatePill(event.startDate).month}
+                      {getEventDatePill(event.startDate, event.timezone).month}
                     </span>
                     <span className="mt-0.5 text-base font-extrabold leading-none text-foreground">
-                      {getEventDatePill(event.startDate).day}
+                      {getEventDatePill(event.startDate, event.timezone).day}
                     </span>
                   </div>
                 }
@@ -587,14 +585,11 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                 </div>
               )}
 
-              {!isToken2049Page && (
-                <EventGuideContent
-                  editorial={editorial}
-                  speakerSummary={speakerSummary}
-                />
-              )}
-
-              {isToken2049Page && <Token2049Details speakers={event.speakerDetails || []} />}
+              <EventGuideContent
+                editorial={editorial}
+                speakerSummary={speakerSummary}
+                officialUrl={eventExternalUrl}
+              />
 
               {sideEvents.length > 0 && <EventSideEvents eventName={event.name} events={sideEvents} timeZone={eventTimeZone} />}
               <DirectoryDisclaimer />

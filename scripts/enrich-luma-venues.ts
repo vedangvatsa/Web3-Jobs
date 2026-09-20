@@ -72,12 +72,12 @@ type Candidate = {
 };
 
 const EVENT_FILES = [
-  'content/curated-events.json',
-  'content/kbw-luma-events.json',
-  'content/ibw-side-events.json',
-  'content/india-luma-events.json',
-  'content/luma-crypto-events.json',
-  'content/events-cache.json',
+  'content/events/sources/curated-events.json',
+  'content/events/sources/kbw-luma-events.json',
+  'content/events/sources/ibw-side-events.json',
+  'content/events/sources/india-luma-events.json',
+  'content/events/sources/luma-crypto-events.json',
+  'content/events/sources/events-cache.json',
 ];
 const URL_FIELDS = ['url', 'website', 'registrationUrl'] as const;
 const TIMEOUT_MS = 10_000;

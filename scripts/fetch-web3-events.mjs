@@ -1365,26 +1365,18 @@ async function fetchWeb3Events() {
     console.log(`[WASET ICBT] Collapsed ${icbtDropped} duplicate city listings (see curated-waset-icbt-series).`);
   }
 
-  const cachePath = path.join(__dirname, '../content/events-cache.json');
-  fs.writeFileSync(cachePath, JSON.stringify(cacheEvents, null, 2));
-  console.log(`Saved to ${cachePath}`);
-
-  // Also purge past events from curated-events.json
-  const curatedPath = path.join(__dirname, '../content/curated-events.json');
-  if (fs.existsSync(curatedPath)) {
-    try {
-      const curated = JSON.parse(fs.readFileSync(curatedPath, 'utf-8'));
-      const futureCurated = curated.filter(e => {
-        if (!e.startDate) return false;
-        const endDate = e.endDate ? new Date(e.endDate) : new Date(e.startDate);
-        return isNaN(endDate.getTime()) || endDate >= new Date();
-      });
-      fs.writeFileSync(curatedPath, JSON.stringify(futureCurated, null, 2));
-      console.log(`Purged past events from curated-events.json (${curated.length} -> ${futureCurated.length})`);
-    } catch (e) {
-      console.warn('Could not clean curated-events.json:', e.message);
-    }
+  const cachePath = path.join(__dirname, '../content/events/sources/events-cache.json');
+  const previous = fs.existsSync(cachePath) ? JSON.parse(fs.readFileSync(cachePath, 'utf8')) : [];
+  const storedById = new Map(previous.map((event) => [event.id, event]));
+  for (const event of cacheEvents) {
+    const stored = storedById.get(event.id);
+    storedById.set(event.id, stored?.sourceVerification ? { ...event, ...stored } : stored?.descriptionSource ? {
+      ...event, description: stored.description, descriptionSource: stored.descriptionSource,
+    } : event);
   }
+  // Runtime generation filters ended events. Keep source copy and verified fields for future audits.
+  fs.writeFileSync(cachePath, `${JSON.stringify([...storedById.values()], null, 2)}\n`);
+  console.log(`Saved to ${cachePath}`);
 }
 
 fetchWeb3Events();

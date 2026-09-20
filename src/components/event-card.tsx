@@ -7,7 +7,7 @@ import { getEventSlug, getEventDatePill, getEventCity, type PublicWeb3Event } fr
 
 export function EventCard({ event, hideLocation = false }: { event: PublicWeb3Event; hideLocation?: boolean }) {
   const slug = getEventSlug(event);
-  const datePill = getEventDatePill(event.startDate);
+  const datePill = getEventDatePill(event.startDate, event.timezone);
   const city = getEventCity(event) || 'Online';
 
   return (

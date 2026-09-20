@@ -25,12 +25,12 @@ const CONCURRENCY = Number(process.env.BACKFILL_CONCURRENCY || 5);
 const DELAY_MS = Number(process.env.BACKFILL_DELAY_MS || 800);
 
 const FILES = [
-  'content/events-cache.json',
-  'content/luma-crypto-events.json',
-  'content/curated-events.json',
-  'content/kbw-luma-events.json',
-  'content/ibw-side-events.json',
-  'content/india-luma-events.json',
+  'content/events/sources/events-cache.json',
+  'content/events/sources/luma-crypto-events.json',
+  'content/events/sources/curated-events.json',
+  'content/events/sources/kbw-luma-events.json',
+  'content/events/sources/ibw-side-events.json',
+  'content/events/sources/india-luma-events.json',
 ].filter((f) => !ONLY_FILE || f.endsWith(ONLY_FILE));
 
 function prosemirrorText(node, out) {

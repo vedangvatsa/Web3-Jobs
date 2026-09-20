@@ -5,8 +5,8 @@ import * as cheerio from 'cheerio';
 const rootDir = process.cwd();
 const csvPath = '/tmp/google_sheet_events.csv';
 const xmlPath = '/tmp/sheet_extracted/xl/worksheets/sheet1.xml';
-const curatedPath = path.join(rootDir, 'content', 'curated-events.json');
-const cachePath = path.join(rootDir, 'content', 'events-cache.json');
+const curatedPath = path.join(rootDir, 'content', 'events', 'sources', 'curated-events.json');
+const cachePath = path.join(rootDir, 'content', 'events', 'sources', 'events-cache.json');
 
 interface RawEvent {
   excelRow: number;
@@ -399,7 +399,7 @@ async function main() {
 
   console.log(`\nSuccessfully enriched ${newEvents.length} new events!`);
 
-  // 6. Append to content/events-cache.json
+  // 6. Append to content/events/sources/events-cache.json
   const updatedCache = [...cache, ...newEvents];
   fs.writeFileSync(cachePath, JSON.stringify(updatedCache, null, 2), 'utf8');
   console.log(`✅ Saved ${newEvents.length} events to ${cachePath}. Total cache size: ${updatedCache.length}`);

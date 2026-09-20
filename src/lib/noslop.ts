@@ -5,6 +5,8 @@
  * cleanPublishText (plain) or cleanPublishHtml (HTML bodies).
  */
 
+import { hasVerbatimText, transformOutsideVerbatim } from './preserve-verbatim';
+
 /** Typographic junk -> plain ASCII-friendly forms */
 const PUNCT_REPLACEMENTS: Array<[RegExp, string]> = [
   [/—/g, ' - '], // em dash
@@ -57,6 +59,11 @@ export function cleanPublishText(
   opts?: { stripFiller?: boolean }
 ): string {
   if (!input) return '';
+  if (hasVerbatimText(input)) return transformOutsideVerbatim(input, part => cleanPublishTextPart(part, opts));
+  return cleanPublishTextPart(input, opts);
+}
+
+function cleanPublishTextPart(input: string, opts?: { stripFiller?: boolean }): string {
   let s = String(input);
 
   for (const [re, rep] of PUNCT_REPLACEMENTS) {
@@ -114,7 +121,7 @@ export function cleanPublishText(
   s = s
     .replace(/[ \t]+\n/g, '\n')
     .replace(/\n{3,}/g, '\n\n')
-    .replace(/[ \t]{2,}/g, ' ')
+    .replace(/(?<=\S)[ \t]{2,}/g, ' ')
     .replace(/ +\./g, '.')
     .replace(/ +,/g, ',')
     .trim();
@@ -127,6 +134,11 @@ export function cleanPublishText(
  */
 export function cleanPublishHtml(input: string | null | undefined): string {
   if (!input) return '';
+  if (hasVerbatimText(input)) return transformOutsideVerbatim(input, cleanPublishHtmlPart);
+  return cleanPublishHtmlPart(input);
+}
+
+function cleanPublishHtmlPart(input: string): string {
   let s = String(input);
 
   // Entity forms first
