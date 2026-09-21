@@ -32,9 +32,12 @@ function eventPlace(event: { location?: string; city?: string; country?: string;
   const city = generic.has((event.city || '').trim().toLowerCase()) ? '' : (event.city || '').trim();
   const normalized = normalizeCountry(event.country);
   const country = normalized === 'United States' ? 'USA' : normalized;
-  if (city && country && city.toLowerCase() === country.toLowerCase()) return city;
-  if (city && country) return `${city}, ${country}`;
-  return city || country || 'Online';
+  const place = city && country
+    ? (city.toLowerCase() === country.toLowerCase() ? city : `${city}, ${country}`)
+    : (city || country || 'Online');
+  const parts = place.split(',').map((part) => part.trim()).filter(Boolean);
+  if (parts.length === 2 && parts[0].toLowerCase() === parts[1].toLowerCase()) return parts[0];
+  return place;
 }
 
 function loadIds(filePath: string): Set<string> {
