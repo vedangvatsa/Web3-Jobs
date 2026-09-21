@@ -26,7 +26,7 @@ const nextConfig = {
       '@radix-ui/react-tabs',
       '@radix-ui/react-toast',
     ],
-    serverComponentsExternalPackages: ['firebase-admin', '@neynar/nodejs-sdk', '@farcaster/hub-nodejs'],
+    serverComponentsExternalPackages: ['firebase-admin', '@neynar/nodejs-sdk', '@farcaster/hub-nodejs', '@resvg/resvg-js', 'sharp'],
   },
   /* config options here */
   trailingSlash: false,
