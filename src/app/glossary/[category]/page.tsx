@@ -1,7 +1,7 @@
 import { getTermsByCategory, getCategory, getAllCategorySlugs } from '@/lib/glossary';
 import { Card, CardContent } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
-import { ArrowLeft, BookOpen } from 'lucide-react';
+import { BookOpen } from 'lucide-react';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import type { Metadata } from 'next';
@@ -145,12 +145,13 @@ export default async function CategoryPage({
     <section className="border-b">
       <div className="site-container page-section">
       <div className="max-w-3xl">
-       <div className="mb-4">
-        <Link href="/glossary" className="inline-flex items-center gap-1.5 text-sm text-muted-foreground hover:text-primary">
-         <ArrowLeft className="h-4 w-4" aria-hidden="true" />
-         Web3 Glossary
-        </Link>
-       </div>
+       <nav className="mb-8 flex flex-wrap gap-2 text-sm text-muted-foreground" aria-label="Breadcrumb">
+        <Link href="/" className="hover:text-foreground">Home</Link>
+        <span aria-hidden="true">/</span>
+        <Link href="/glossary" className="hover:text-foreground">Glossary</Link>
+        <span aria-hidden="true">/</span>
+        <span className="text-foreground">{category.name}</span>
+       </nav>
         <p className="text-sm font-medium text-muted-foreground mb-2">{category.name}</p>
         <PageHeader title="Web3 Glossary" align="left" className="mb-0" />
         <p className="text-xl text-muted-foreground mb-8 leading-relaxed">

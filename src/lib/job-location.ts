@@ -12,6 +12,40 @@
 
 const REGION_ONLY_RE = /^(?:LATAM|APAC|EMEA|AMER|Remote Roles\s*-\s*(?:LATAM|APAC|EMEA|AMER)|United States\s*\(US\)|US|USA)$/i;
 
+const US_STATE_ABBREV: Record<string, string> = {
+  alabama: 'AL', alaska: 'AK', arizona: 'AZ', arkansas: 'AR', california: 'CA',
+  colorado: 'CO', connecticut: 'CT', delaware: 'DE', florida: 'FL', georgia: 'GA',
+  hawaii: 'HI', idaho: 'ID', illinois: 'IL', indiana: 'IN', iowa: 'IA',
+  kansas: 'KS', kentucky: 'KY', louisiana: 'LA', maine: 'ME', maryland: 'MD',
+  massachusetts: 'MA', michigan: 'MI', minnesota: 'MN', mississippi: 'MS', missouri: 'MO',
+  montana: 'MT', nebraska: 'NE', nevada: 'NV', 'new hampshire': 'NH', 'new jersey': 'NJ',
+  'new mexico': 'NM', 'new york': 'NY', 'north carolina': 'NC', 'north dakota': 'ND',
+  ohio: 'OH', oklahoma: 'OK', oregon: 'OR', pennsylvania: 'PA', 'rhode island': 'RI',
+  'south carolina': 'SC', 'south dakota': 'SD', tennessee: 'TN', texas: 'TX', utah: 'UT',
+  vermont: 'VT', virginia: 'VA', washington: 'WA', 'west virginia': 'WV', wisconsin: 'WI',
+  wyoming: 'WY', 'district of columbia': 'DC',
+};
+
+function formatUnitedStatesLocation(value: string): string {
+  const parts = value.split(',').map((part) => part.trim()).filter(Boolean);
+  if (parts.length < 2) return value;
+  const country = parts[parts.length - 1]!.toLowerCase();
+  if (country !== 'united states' && country !== 'usa' && country !== 'us') return value;
+
+  if (parts.length === 2) {
+    const name = parts[0]!.toLowerCase();
+    if (name === 'new york') return 'New York, NY';
+    const state = US_STATE_ABBREV[name];
+    return state ? parts[0]! : value;
+  }
+
+  const stateName = parts[parts.length - 2]!.toLowerCase();
+  const abbrev = US_STATE_ABBREV[stateName];
+  if (!abbrev) return value;
+  const city = parts.slice(0, -2).join(', ');
+  return `${city}, ${abbrev}`;
+}
+
 const ATS_CODE_MAP: Record<string, string> = {
   'US-NYC': 'New York, NY',
   'US-NY': 'New York, NY',
@@ -71,6 +105,11 @@ export function cleanSingleLocationPart(part: string): string {
 
   // ATS pattern 'Remote Roles - EMEA' -> 'EMEA (Remote)'
   s = s.replace(/^Remote Roles\s*-\s*([A-Za-z]+)$/i, '$1 (Remote)');
+
+  // "Austin, Texas, United States" -> "Austin, TX"
+  // "New York, New York, United States" -> "New York, NY"
+  // "North Carolina, United States" -> "North Carolina"
+  s = formatUnitedStatesLocation(s);
 
   // Budapest, Budapest, Hungary -> Budapest, Hungary
   // Vienna, Vienna, Austria -> Vienna, Austria

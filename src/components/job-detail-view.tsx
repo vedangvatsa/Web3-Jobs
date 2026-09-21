@@ -306,7 +306,7 @@ export function JobDetailView({
   // Structured work address for non-remote postings. Only locality/region/
   // country are emitted: streetAddress and postalCode are unknowable from
   // ATS-sourced locations and must not be fabricated.
-  const rawLocation = typeof job.location === 'string' ? job.location : '';
+  const rawLocation = cleanJobLocation(typeof job.location === 'string' ? job.location : '');
   let jobAddress: ParsedJobAddress = !isRemote ? parseJobAddress(job.location) : {};
   if (
     !isRemote &&
@@ -422,7 +422,7 @@ export function JobDetailView({
               {job.location && (
                 <span className="flex items-center gap-1.5">
                   <MapPin className="h-4 w-4" aria-hidden="true" />
-                  {cleanJobLocation(job.location)}
+                  {rawLocation}
                 </span>
               )}
               {salaryInfo.display && (

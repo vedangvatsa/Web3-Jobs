@@ -39,7 +39,7 @@ import { EventSideEvents } from '@/components/token2049-side-events';
 import { DirectoryDisclaimer } from '@/components/directory-disclaimer';
 import { getEventBySlug, getEvents, getRelatedEvents } from '@/lib/events-server';
 import { Button } from '@/components/ui/button';
-import { Calendar, MapPin, ExternalLink, ArrowLeft, ArrowRight } from 'lucide-react';
+import { Calendar, MapPin, ExternalLink, ArrowRight } from 'lucide-react';
 import {
   buildUniqueJobMetaDescription,
   buildJobDetailContentHtml,
@@ -716,12 +716,13 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
           <div className="bg-background">
             <article className="site-container page-section">
               <header className="mb-8">
-                <div className="flex items-center gap-2 mb-4">
-                  <Link href="/glossary" className="inline-flex items-center gap-1.5 text-sm text-muted-foreground hover:text-primary">
-                    <ArrowLeft className="h-4 w-4" aria-hidden="true" />
-                    Web3 Glossary
-                  </Link>
-                </div>
+                <nav className="mb-8 flex flex-wrap gap-2 text-sm text-muted-foreground" aria-label="Breadcrumb">
+                  <Link href="/" className="hover:text-foreground">Home</Link>
+                  <span aria-hidden="true">/</span>
+                  <Link href="/glossary" className="hover:text-foreground">Glossary</Link>
+                  <span aria-hidden="true">/</span>
+                  <span className="text-foreground">{term.term}</span>
+                </nav>
                 <PageHeader title={term.term} align="left" className="mb-0" />
                 <p className="text-xl text-muted-foreground mb-4">
                   {term.description}

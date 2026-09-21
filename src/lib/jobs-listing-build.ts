@@ -2,6 +2,7 @@ import type { Job } from '@/types';
 import { cleanPublishText } from '@/lib/noslop';
 import { getJobIdentity } from './job-slugs';
 import { isConcreteJobOpening, cleanCompanyName } from './job-filters';
+import { cleanJobLocation } from './job-location';
 
 const BLOCKED_COMPANIES = new Set([
   'notion', 'ashby', 'merge', 'salt ai', 'workable',
@@ -124,20 +125,9 @@ function distributeJobsByCompany(jobs: Job[]): Job[] {
 /** Build the listing order used by the site/API (run at build/refresh time on Node). */
 export function buildJobsListing(rawJobs: Job[]): Job[] {
   const jobs: Job[] = rawJobs.map((job: Job) => {
-    let loc = job.location || '';
-    if (typeof loc === 'string' && loc.includes(',')) {
-      const parts = loc.split(',').map((p) => p.trim()).filter(Boolean);
-      const unique: string[] = [];
-      for (const p of parts) {
-        if (!unique.some((u) => u.toLowerCase() === p.toLowerCase())) {
-          unique.push(p);
-        }
-      }
-      loc = unique.join(', ');
-    }
     return {
       ...job,
-      location: loc,
+      location: cleanJobLocation(job.location),
       title: cleanJobTitle(job.title, job.company),
       company: cleanCompanyName(cleanPublishText(job.company)),
     };
