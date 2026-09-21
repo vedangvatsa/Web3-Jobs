@@ -79,7 +79,7 @@
     "build:full": "FAH_FAST_PREBUILD=0 npm run prebuild && npm run build",
     "build:cloudflare": "env -u CLOUDFLARE_API_KEY -u CLOUDFLARE_EMAIL opennextjs-cloudflare build",
     "deploy:cloudflare": "env -u CLOUDFLARE_API_KEY -u CLOUDFLARE_EMAIL opennextjs-cloudflare build && env -u CLOUDFLARE_API_KEY -u CLOUDFLARE_EMAIL opennextjs-cloudflare deploy",
-    "postbuild": "tsx scripts/test-prerender-budget.ts && (mkdir -p public/data public/job-description-shards public/job-shards && cp content/jobs-runtime.json content/events-runtime.json content/glossary-runtime.json content/companies-runtime.json content/company-profiles-runtime.json content/articles-index.json content/news-cache.json public/data/ 2>/dev/null || true && cp -r content/job-description-shards/. public/job-description-shards/ 2>/dev/null || true && cp -r content/job-shards/. public/job-shards/ 2>/dev/null || true)",
+    "postbuild": "tsx scripts/test-prerender-budget.ts",
     "start": "node .next/standalone/server.js",
     "lint": "next lint",
     "cli": "node packages/cli/bin/hashtagweb3.js",

@@ -1,6 +1,6 @@
 # Firebase App Hosting (production)
 
-**Hashtagweb3.com** is served on **Firebase App Hosting** (GCP project **`web3-jobs-aggregator`**, backend in [`firebase.json`](../firebase.json)). Builds use [`apphosting.yaml`](../apphosting.yaml) (`npm run build`; **`OG_PRECOMPUTE=0`**, **`OG_FILL_MISSING=1`** — OG PNGs come from git, filled incrementally in CI).
+**Hashtagweb3.com** is served on **Firebase App Hosting** (GCP project **`web3-jobs-aggregator`**, backend in [`firebase.json`](../firebase.json)). Builds use [`apphosting.yaml`](../apphosting.yaml) (`npm run build`; **`OG_PRECOMPUTE=0`**, **`OG_FILL_MISSING=0`** — OG PNGs come from git via daily ingest).
 
 OpenNext / Cloudflare Workers paths in this repo are **legacy** (workflows and scripts may remain for reference). Do not treat Cloudflare as production when changing deploy or DNS docs.
 

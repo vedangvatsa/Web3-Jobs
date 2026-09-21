@@ -7,7 +7,7 @@ Production HTML for **hashtagweb3.com** runs on **Firebase App Hosting** in **`w
 | Item | Why it adds up |
 |------|----------------|
 | **Cloud Build (App Hosting rollouts)** | Every **`main` push** with GitHub connected runs `npm ci` + full `npm run build` + prebuild scripts |
-| **`OG_PRECOMPUTE=0`** on FAH; **`OG_FILL_MISSING=1`** only renders missing PNGs | Build time drops when `public/og` is in git (committed by daily ingest) |
+| **`OG_PRECOMPUTE=0`** on FAH; **`OG_FILL_MISSING=0`** (OG PNGs from ingest commits) | No build-time OG pass on deploy |
 | **Incremental `precompute:og-incremental`** on ingest + event publish | New/changed jobs/companies/events only |
 | **Review `OG_PRECOMPUTE`** — set `1` only for one-off full regen (`--full` previews) | Emergency only |
 | **Automated commits to `main`** | Daily jobs ingest + 3×/day publish workflows commit **`content/**`** → new rollouts. Social/alerts commits use `[skip ci]` but **still trigger App Hosting** |

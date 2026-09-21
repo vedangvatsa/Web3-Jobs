@@ -34,9 +34,9 @@ env:
     availability:
       - BUILD
 
-  # Safety net: render only missing job/company PNGs (seconds when assets are in git).
+  # Ingest commits public/og; no build-time OG pass on FAH.
   - variable: OG_FILL_MISSING
-    value: "1"
+    value: "0"
     availability:
       - BUILD
 

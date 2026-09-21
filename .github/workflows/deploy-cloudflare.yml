@@ -1,21 +1,8 @@
-name: Deploy Cloudflare Worker
+name: Deploy Cloudflare Worker (disabled)
 
+# Production is Firebase App Hosting only. Re-enable only if Cloudflare is live again.
 on:
   workflow_dispatch:
-  push:
-    branches: [main]
-    paths:
-      - 'src/**'
-      - 'content/**'
-      - 'public/**'
-      - 'scripts/precompute-*.ts'
-      - 'scripts/assert-og-assets.ts'
-      - 'scripts/generate-sitemap-json.ts'
-      - 'wrangler.jsonc'
-      - 'open-next.config.ts'
-      - 'next.config.mjs'
-      - 'package.json'
-      - 'package-lock.json'
 
 concurrency:
   group: cloudflare-deploy
@@ -23,6 +10,7 @@ concurrency:
 
 jobs:
   deploy:
+    if: false
     runs-on: ubuntu-latest
     timeout-minutes: 45
 
