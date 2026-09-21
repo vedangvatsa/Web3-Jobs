@@ -157,6 +157,11 @@ jobs:
 
       - name: Validate event description formatting before publishing
         run: npx tsx scripts/test-event-formatting.ts && npx tsx scripts/audit-detail-formatting.ts --events
+
+      - name: Precompute events runtime (listing + previews)
+        run: npx tsx scripts/precompute-events-runtime.ts && npm run precompute:og-previews
+        continue-on-error: true
+
       # Note: X and Threads postings have been migrated to the dedicated
       # job openings workflow (.github/workflows/post-job-openings-social.yml)
       - name: Post to Bluesky
@@ -254,7 +259,7 @@ jobs:
           # Events + social/Telegram state only. Jobs cache files are owned
           # by the daily ingest (refresh-jobs-ingest.yml) — never stage them
           # here, or intraday runs will fight the morning ingest on rebase.
-          git add content/events/ content/legacy-slugs-archive.json scripts/social/*.json .telegram*.json .resend-broadcast-sent.json 2>/dev/null || true
+          git add content/events/ content/events-runtime.json content/legacy-slugs-archive.json scripts/social/*.json .telegram*.json .resend-broadcast-sent.json public/preview/ 2>/dev/null || true
 
           if git diff --staged --quiet; then
             echo "No changes to commit"

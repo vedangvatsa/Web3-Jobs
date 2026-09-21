@@ -105,7 +105,7 @@ jobs:
         run: npx tsx scripts/generate-slug-types.ts && npm run test:company-jobs
 
       - name: Precompute missing job/company OG PNGs
-        run: npm run precompute:og-images
+        run: npm run precompute:og-incremental
         continue-on-error: true
 
       - name: Guard job slug uniqueness
@@ -126,6 +126,7 @@ jobs:
           git fetch origin main
           npx tsx scripts/social/merge-state.ts
           git add content/jobs-cache.json content/jobs-runtime.json content/homepage-jobs.json content/companies-runtime.json content/slug-types.json content/job-description-shards/
+          git add public/og/ public/preview/ 2>/dev/null || true
           git add public/logo/companies/ 2>/dev/null || true
           if git diff --staged --quiet; then
             echo "No changes to commit"

@@ -279,7 +279,7 @@ async function renderPng(element: unknown, font: Buffer): Promise<Buffer> {
     // fall back to the raw resvg bytes if sharp is unavailable.
     try {
       return await sharp(raw)
-        .png({ compressionLevel: 9, palette: true, quality: 82 })
+        .png({ compressionLevel: 9, palette: true, colors: 128, effort: 10, quality: 80 })
         .toBuffer();
     } catch {
       return raw;

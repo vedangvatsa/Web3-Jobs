@@ -1,6 +1,5 @@
-# LEGACY — production is Cloudflare Workers (see docs/FIREBASE_AND_CLOUDFLARE.md).
-# Firebase App Hosting on this repo is expensive (Cloud Build + always-on instances).
-# Disable backends in Firebase Console and disconnect GitHub before re-enabling GCP billing.
+# Production: Firebase App Hosting on GCP (project web3-jobs-aggregator).
+# See docs/FIREBASE_AND_CLOUDFLARE.md and docs/GCP_COST_OPTIMIZATION.md.
 # https://firebase.google.com/docs/app-hosting/configure
 
 # The command that installs dependencies.
@@ -28,11 +27,16 @@ env:
       - BUILD
       - RUNTIME
 
-  # Full OG card + preview render during the build (public/og is gitignored,
-  # so git-built hosts would otherwise serve 404 share cards). Fingerprint-
-  # gated in steady state, but a fresh build renders everything (~6.3k cards).
+  # Per-job PNGs + bot previews live in git (refresh-jobs-ingest / publish workflows).
+  # Do not set OG_PRECOMPUTE=1 on FAH unless forcing a full regen.
   - variable: OG_PRECOMPUTE
-    value: 1
+    value: "0"
+    availability:
+      - BUILD
+
+  # Safety net: render only missing job/company PNGs (seconds when assets are in git).
+  - variable: OG_FILL_MISSING
+    value: "1"
     availability:
       - BUILD
 

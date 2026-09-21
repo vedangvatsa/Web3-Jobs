@@ -1,104 +1,57 @@
-# Firebase + Cloudflare Workers (dual setup)
+# Firebase App Hosting (production)
 
-Hashtag Web3 is **served on Cloudflare Workers** (OpenNext). Firebase is **not** the web host anymore; it is optional **backend data** for a few features.
+**Hashtagweb3.com** is served on **Firebase App Hosting** (GCP project **`web3-jobs-aggregator`**, backend in [`firebase.json`](../firebase.json)). Builds use [`apphosting.yaml`](../apphosting.yaml) (`npm run build`; **`OG_PRECOMPUTE=0`**, **`OG_FILL_MISSING=1`** — OG PNGs come from git, filled incrementally in CI).
 
-**High GCP bills?** See [`GCP_COST_AND_SHUTDOWN.md`](GCP_COST_AND_SHUTDOWN.md) — turn off Firebase App Hosting on `web3-job-board-aggregator`; do not re-enable billing just to fix Artifact Registry errors.
+OpenNext / Cloudflare Workers paths in this repo are **legacy** (workflows and scripts may remain for reference). Do not treat Cloudflare as production when changing deploy or DNS docs.
 
 ## What Firebase is used for
 
-LinkedIn/Threads social posting uses **env tokens** (`LINKEDIN_ACCESS_TOKEN`, `THREADS_ACCESS_TOKEN`) refreshed via local scripts — not production OAuth callback routes.
+| Layer | Role |
+|-------|------|
+| **App Hosting** | Next.js 14 HTML, middleware, `/api/*` route handlers |
+| **Firestore** | Optional product data (rules in [`firestore.rules`](../firestore.rules)) |
+| **Secret Manager** | App Hosting env via `firebase apphosting:secrets:*` |
+| **Cloud Build** | Every App Hosting rollout (`npm ci` + full prebuild/build) |
 
-Public job board, Resend broadcasts (`daily-job-alerts.yml`), and unsubscribe (`/api/email/unsubscribe`) use **Resend** and **static JSON** — not Firestore.
+Public job board, Resend broadcasts, and unsubscribe use **Resend** + **static JSON** under `content/` and `public/data/` — not Firestore for the main catalog.
 
-**Switching Firebase projects does not fix Cloudflare Error 1102.** That is Worker CPU/memory on the Next.js bundle. Keep the static-json and precompute work on Cloudflare; use Firebase only where Firestore is required.
+LinkedIn/Threads posting uses **GitHub/Action secrets** (`LINKEDIN_ACCESS_TOKEN`, etc.), refreshed via local scripts — not production OAuth callbacks on the site.
 
-## Connect a new Firebase project
+## Connect / verify Firebase
 
-1. [Firebase Console](https://console.firebase.google.com/) → **Add project** (or pick an existing one).
-2. **Build → Firestore Database** → create DB (production mode is fine; deploy rules below).
-3. **Project settings → General → Your apps → Web** → register app → copy the `firebaseConfig` values.
-4. **Project settings → Service accounts → Generate new private key** → save JSON (never commit it).
-5. Deploy Firestore rules from this repo:
-   ```bash
-   firebase use <your-project-id>
-   firebase deploy --only firestore:rules
-   ```
-6. Put secrets in **GitHub → Settings → Secrets** (same names as today, **new values**):
-   - `NEXT_PUBLIC_FIREBASE_API_KEY`
-   - `NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN`
-   - `NEXT_PUBLIC_FIREBASE_PROJECT_ID`
-   - `NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET`
-   - `NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID`
-   - `NEXT_PUBLIC_FIREBASE_APP_ID`
-   - `NEXT_PUBLIC_FIREBASE_MEASUREMENT_ID` (optional)
-   - `FIREBASE_SERVICE_ACCOUNT_KEY` — entire service-account JSON as one line, **or** base64-encoded JSON
-7. **Actions → Sync Cloudflare Worker secrets** (workflow_dispatch) to push them to the `hashtagweb3` Worker.
-8. Local dev: mirror the same vars in `.env.local` (see `.env.example`).
+1. [Firebase Console](https://console.firebase.google.com/) → project **`web3-jobs-aggregator`**.
+2. **App Hosting** → confirm backend **`web3-jobs-aggregator`** is connected to this repo and **`main`** (or your deploy branch).
+3. **Build → Firestore** (if used) → deploy rules: `firebase deploy --only firestore:rules`.
+4. GitHub secrets: `NEXT_PUBLIC_FIREBASE_*`, `FIREBASE_SERVICE_ACCOUNT_KEY`, `RESEND_API_KEY`, `CRON_SECRET`, etc. (see `.env.example`).
+5. Local: `npx tsx scripts/verify-firebase-connection.ts`.
 
-## Verify
+## App Hosting secrets (Secret Manager)
+
+GitHub Actions secrets **do not** automatically apply to App Hosting. Use **Actions → Sync Firebase App Hosting secrets** or:
 
 ```bash
-npx tsx scripts/verify-firebase-connection.ts
+firebase login
+firebase use web3-jobs-aggregator
+firebase apphosting:secrets:set NEXT_PUBLIC_FIREBASE_API_KEY
+# … repeat for each secret in apphosting.yaml / sync script
+firebase apphosting:secrets:grantaccess SECRET_NAME --backend web3-jobs-aggregator
 ```
 
-Then on production:
+Script: [`scripts/sync-firebase-apphosting-secrets.sh`](../scripts/sync-firebase-apphosting-secrets.sh).
 
-- `npx tsx scripts/verify-firebase-connection.ts` should succeed if Admin SDK credentials are set (optional).
-- Social posting needs `LINKEDIN_ACCESS_TOKEN` / `THREADS_ACCESS_TOKEN` in Worker/Action secrets — obtain via local OAuth scripts, not site callbacks.
+## Deploy flow
 
-## Cloudflare stays primary
+1. Push to **`main`** (or trigger rollout in Firebase Console).
+2. App Hosting runs Cloud Build → `npm run build` (prebuild gates; OG PNGs/previews from git — see [`GCP_COST_OPTIMIZATION.md`](GCP_COST_OPTIMIZATION.md)).
+3. New revision serves traffic when rollout completes.
 
-- Deploy site: **Deploy Cloudflare Worker** workflow or `npm run deploy:cloudflare`.
-- Do **not** point `hashtagweb3.com` DNS back to Firebase App Hosting if Workers is production.
-- `apphosting.yaml` is legacy; safe to ignore unless you run a staging backend on Firebase.
+**Note:** `[skip ci]` in commit messages skips many **GitHub Actions** workflows; it does **not** skip Firebase App Hosting when GitHub is connected to the backend.
 
-For **Firestore + Cloudflare only**, you can skip App Hosting entirely: complete steps 1–7 above and ignore Firebase App Hosting rollouts.
+## Cost
 
-## Optional: Firebase App Hosting on a new project
+See [`GCP_COST_OPTIMIZATION.md`](GCP_COST_OPTIMIZATION.md) — build frequency, `OG_PRECOMPUTE`, duplicate Cloud Build rollouts, and the old **`web3-job-board-aggregator`** project.
 
-If you connect GitHub to **App Hosting** in `web3-jobs-aggregator` (or any new project), Cloud Build runs **before** `npm run build`. Step **preparer** reads secrets named in [`apphosting.yaml`](../apphosting.yaml) from **Google Cloud Secret Manager** in that same GCP project.
+## Legacy Cloudflare (optional cleanup)
 
-### Error: `fah/misconfigured-secret` / `secretmanager.versions.get` PermissionDenied
-
-The secret is missing **or** the App Hosting backend service account cannot read it. GitHub Actions secrets do **not** apply to App Hosting; you must configure secrets in the **new** Firebase/GCP project.
-
-1. Install/login Firebase CLI and select the project:
-   ```bash
-   firebase login
-   firebase use web3-jobs-aggregator
-   ```
-2. Create each secret (repeat for every `secret:` entry in `apphosting.yaml`):
-   ```bash
-   firebase apphosting:secrets:set NEXT_PUBLIC_FIREBASE_API_KEY
-   firebase apphosting:secrets:set NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN
-   firebase apphosting:secrets:set NEXT_PUBLIC_FIREBASE_PROJECT_ID
-   firebase apphosting:secrets:set NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET
-   firebase apphosting:secrets:set NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID
-   firebase apphosting:secrets:set NEXT_PUBLIC_FIREBASE_APP_ID
-   firebase apphosting:secrets:set NEXT_PUBLIC_FIREBASE_MEASUREMENT_ID
-   firebase apphosting:secrets:set RESEND_API_KEY
-   firebase apphosting:secrets:set CRON_SECRET
-   ```
-   Paste the same values you use in GitHub (new Firebase web config + Resend + cron secret).
-
-3. Grant the backend access (use your backend ID from **Firebase → App Hosting → Backend settings**):
-   ```bash
-   firebase apphosting:secrets:grantaccess NEXT_PUBLIC_FIREBASE_API_KEY --backend <backend-id>
-   ```
-   Grant access for **each** secret above, or use the bulk grant flow shown in the [secret parameters doc](https://firebase.google.com/docs/app-hosting/configure#secret-parameters).
-
-4. **Redeploy** the App Hosting backend (new rollout from console or push to the connected branch).
-
-### Automated sync from GitHub (recommended)
-
-**Actions → Sync Firebase App Hosting secrets** runs [`scripts/sync-firebase-apphosting-secrets.sh`](../scripts/sync-firebase-apphosting-secrets.sh) with values from GitHub secrets.
-
-Requirements:
-
-1. **`FIREBASE_APPHOSTING_SERVICE_ACCOUNT_KEY`** — service account JSON from the **App Hosting** project (`web3-jobs-aggregator`), **or** grant your existing `FIREBASE_SERVICE_ACCOUNT_KEY` principal access **on that project** (see failed workflow log: it prints `client_email` to add in [IAM](https://console.cloud.google.com/iam-admin/iam?project=web3-jobs-aggregator)).
-2. **`NEXT_PUBLIC_FIREBASE_*`** in GitHub must match the **same** Firebase project as App Hosting (not the old `web3-job-board-aggregator` values).
-3. Re-run the workflow, then trigger a new App Hosting rollout.
-
-**Actions → Sync Cloudflare Worker secrets** is separate — run that after updating GitHub Firebase secrets so Workers stay in sync.
-
-Also add **`FIREBASE_SERVICE_ACCOUNT_KEY`** (or JSON) to **GitHub** and sync to Cloudflare if job alerts / LinkedIn need Admin SDK on Workers — App Hosting does not use that variable from `apphosting.yaml` today; Workers do.
+- Workflow [`.github/workflows/deploy-cloudflare.yml`](../.github/workflows/deploy-cloudflare.yml) — disable in GitHub if unused.
+- [`wrangler.jsonc`](../wrangler.jsonc), `npm run deploy:cloudflare` — not production path.
