@@ -50,8 +50,13 @@ export async function generateStaticParams() {
  return categories.map((category) => ({ category }));
 }
 
-export async function generateMetadata({ params }: { params: { category: string } }): Promise<Metadata> {
- const category = await getCategory(params.category);
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ category: string }>;
+}): Promise<Metadata> {
+ const { category: categorySlug } = await params;
+ const category = await getCategory(categorySlug);
  
  if (!category) {
   return {
@@ -59,9 +64,9 @@ export async function generateMetadata({ params }: { params: { category: string 
   };
  }
 
- const content = CATEGORY_CONTENT[params.category];
+ const content = CATEGORY_CONTENT[categorySlug];
  const siteUrl = 'https://hashtagweb3.com';
- const categoryUrl = `${siteUrl}/glossary/${params.category}`;
+ const categoryUrl = `${siteUrl}/glossary/${categorySlug}`;
  const categoryDescription = content?.description || category.description;
 
  return {
@@ -99,15 +104,20 @@ export async function generateMetadata({ params }: { params: { category: string 
  };
 }
 
-export default async function CategoryPage({ params }: { params: { category: string } }) {
- const category = await getCategory(params.category);
- const terms = await getTermsByCategory(params.category);
+export default async function CategoryPage({
+  params,
+}: {
+  params: Promise<{ category: string }>;
+}) {
+ const { category: categorySlug } = await params;
+ const category = await getCategory(categorySlug);
+ const terms = await getTermsByCategory(categorySlug);
 
  if (!category || terms.length === 0) {
   notFound();
  }
 
- const content = CATEGORY_CONTENT[params.category];
+ const content = CATEGORY_CONTENT[categorySlug];
  
  // Generate schema markup for the collection page
  const collectionPageSchema = generateCollectionPageSchema(
@@ -115,7 +125,7 @@ export default async function CategoryPage({ params }: { params: { category: str
   content?.description || category.description,
   category.termCount ?? 0,
   terms,
-  params.category,
+  categorySlug,
   'https://hashtagweb3.com'
  );
 

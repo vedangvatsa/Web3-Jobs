@@ -7,7 +7,7 @@ import type { Metadata } from 'next';
 import { PageHeader } from "@/components/page-header";
 
 interface Props {
- params: { category: string };
+ params: Promise<{ category: string }>;
 }
 
 export const revalidate = 3600;
@@ -19,7 +19,8 @@ export async function generateStaticParams() {
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
- const category = getCategory(params.category);
+ const { category: categorySlug } = await params;
+ const category = getCategory(categorySlug);
  if (!category) return {};
  const siteUrl = 'https://hashtagweb3.com';
  const pageTitle = `${category.title} - Learn Web3`;
@@ -27,11 +28,11 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
  return {
   title: pageTitle,
   description: category.description,
-  alternates: { canonical: `https://hashtagweb3.com/learn/${params.category}` },
+  alternates: { canonical: `https://hashtagweb3.com/learn/${categorySlug}` },
   openGraph: {
    title: pageTitle,
    description: category.description,
-   url: `https://hashtagweb3.com/learn/${params.category}`,
+   url: `https://hashtagweb3.com/learn/${categorySlug}`,
    images: [{ url: ogImageUrl, width: 1200, height: 630, alt: category.title }],
   },
   twitter: {
@@ -49,11 +50,12 @@ const difficultyColors: Record<string, string> = {
  advanced: 'bg-red-100 text-red-800 dark:bg-red-900 dark:text-red-200',
 };
 
-export default function CategoryPage({ params }: Props) {
- const category = getCategory(params.category);
+export default async function CategoryPage({ params }: Props) {
+ const { category: categorySlug } = await params;
+ const category = getCategory(categorySlug);
  if (!category) notFound();
 
- const lessons = getLessons(params.category);
+ const lessons = getLessons(categorySlug);
 
  return (
   <div className="flex flex-col min-h-screen">
@@ -81,7 +83,7 @@ export default function CategoryPage({ params }: Props) {
       {lessons.map((lesson, index) => (
        <Link
         key={lesson.slug}
-        href={`/learn/${params.category}/${lesson.slug}`}
+        href={`/learn/${categorySlug}/${lesson.slug}`}
         className="block hover:bg-muted/50 transition-colors"
        >
         <div className="flex items-center gap-4 p-5">

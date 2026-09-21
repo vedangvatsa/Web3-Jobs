@@ -61,9 +61,9 @@ import { getPopupPath, popupPageMetadata, resolvePopupForPathSegment, resolvePop
 
 
 type ArticlePageProps = {
- params: {
+ params: Promise<{
   slug: string;
- };
+ }>;
 };
 
 
@@ -76,10 +76,11 @@ export async function generateStaticParams(): Promise<{ slug: string }[]> {
 }
 
 export async function generateMetadata({ params }: ArticlePageProps): Promise<Metadata> {
-  const slugType = classifySlug(params.slug);
+  const { slug } = await params;
+  const slugType = classifySlug(slug);
 
   if (slugType === 'event') {
-    const event = await getEventBySlug(params.slug);
+    const event = await getEventBySlug(slug);
     if (event) {
       const siteUrl = 'https://hashtagweb3.com';
       const eventSlug = getEventSlug(event);
@@ -124,7 +125,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
   }
 
   if (slugType === 'company') {
-    const companyMeta = await getCompanyBySlug(params.slug);
+    const companyMeta = await getCompanyBySlug(slug);
     if (companyMeta) {
       const siteUrl = 'https://hashtagweb3.com';
       const canonicalUrl = `${siteUrl}/${companyMeta.slug}`;
@@ -158,15 +159,15 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
   }
 
   if (slugType === 'popup') {
-    const popupSlug = resolvePopupSlug(params.slug);
+    const popupSlug = resolvePopupSlug(slug);
     const popupMeta = getPopupBySlug(popupSlug);
-    if (popupMeta && params.slug === popupSlug) {
+    if (popupMeta && slug === popupSlug) {
       return popupPageMetadata(popupMeta);
     }
   }
 
   if (slugType === 'glossary') {
-    const term = await getTerm(params.slug);
+    const term = await getTerm(slug);
     if (term) {
       const siteUrl = 'https://hashtagweb3.com';
       const termUrl = `${siteUrl}/${term.slug}`;
@@ -198,7 +199,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
   }
 
   if (slugType === 'resource') {
-    const resource = getResourceByCanonicalSlug(params.slug);
+    const resource = getResourceByCanonicalSlug(slug);
     if (resource) {
       const siteUrl = 'https://hashtagweb3.com';
       const resourceUrl = `${siteUrl}/${resource.seo.canonicalSlug}`;
@@ -226,7 +227,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
   }
 
   if (slugType === 'article') {
-    const article = await getArticle(params.slug);
+    const article = await getArticle(slug);
     if (article) {
       const siteUrl = 'https://hashtagweb3.com';
       const articleUrl = `${siteUrl}/${article.slug}`;
@@ -274,13 +275,13 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
   }
 
   if (slugType === 'job') {
-    const jobResolution = await resolveJobSlug(params.slug);
+    const jobResolution = await resolveJobSlug(slug);
     const jobMeta = jobResolution.job;
     if (jobMeta) {
       await ensureDescriptionShardLoaded(jobMeta);
       await getOrFetchRawJobContent(jobMeta);
       const siteUrl = 'https://hashtagweb3.com';
-      const canonicalSlug = jobResolution.canonicalSlug || jobMeta.slug || params.slug;
+      const canonicalSlug = jobResolution.canonicalSlug || jobMeta.slug || slug;
       const canonicalUrl = `${siteUrl}/${canonicalSlug}`;
       const title = `${jobMeta.title} at ${jobMeta.company}`;
       const description = buildUniqueJobMetaDescription(jobMeta);
@@ -332,11 +333,11 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
   }
 
   // Final fallback
-  if (params.slug.includes('.')) {
+  if (slug.includes('.')) {
     notFound();
   }
 
-  const articleFallback = await getArticle(params.slug);
+  const articleFallback = await getArticle(slug);
   if (articleFallback) {
     const siteUrl = 'https://hashtagweb3.com';
     const articleUrl = `${siteUrl}/${articleFallback.slug}`;
@@ -354,7 +355,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
     };
   }
 
-  const popupFallback = getPopupBySlug(resolvePopupSlug(params.slug));
+  const popupFallback = getPopupBySlug(resolvePopupSlug(slug));
   if (popupFallback) {
     return popupPageMetadata(popupFallback);
   }
@@ -363,33 +364,34 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
 }
 
 export default async function ArticlePage({ params }: ArticlePageProps) {
-  const slugType = classifySlug(params.slug);
+  const { slug } = await params;
+  const slugType = classifySlug(slug);
   const articlesPromise = slugType === 'article' ? getAllArticles() : null;
 
   if (slugType === 'company') {
-    const companyPage = await getCompanyBySlug(params.slug);
+    const companyPage = await getCompanyBySlug(slug);
     if (!companyPage) notFound();
-    if (params.slug !== companyPage.slug) {
+    if (slug !== companyPage.slug) {
       redirect(`/${companyPage.slug}`);
     }
     return <CompanyDetailView slug={companyPage.slug} />;
   }
 
-  const popupAtRoot = resolvePopupForPathSegment(params.slug);
+  const popupAtRoot = resolvePopupForPathSegment(slug);
   if (popupAtRoot) {
-    if (params.slug.toLowerCase() !== popupAtRoot.slug.toLowerCase()) {
+    if (slug.toLowerCase() !== popupAtRoot.slug.toLowerCase()) {
       permanentRedirect(getPopupPath(popupAtRoot.slug));
     }
     return <PopupDetailPage popup={popupAtRoot} />;
   }
 
   if (slugType === 'job') {
-    const resolved = await resolveJobSlug(params.slug);
+    const resolved = await resolveJobSlug(slug);
     const job = resolved.job ?? null;
     if (!job) notFound();
 
     const canonicalSlug = resolved.canonicalSlug || job.slug;
-    if (canonicalSlug && canonicalSlug.toLowerCase() !== params.slug.toLowerCase()) {
+    if (canonicalSlug && canonicalSlug.toLowerCase() !== slug.toLowerCase()) {
       permanentRedirect(`/${canonicalSlug}`);
     }
     const siteUrl = 'https://hashtagweb3.com';
@@ -408,10 +410,10 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
   }
 
   if (slugType === 'popup') {
-    const popupSlug = resolvePopupSlug(params.slug);
+    const popupSlug = resolvePopupSlug(slug);
     const popup = getPopupBySlug(popupSlug);
     if (!popup) notFound();
-    if (params.slug !== popup.slug) {
+    if (slug !== popup.slug) {
       permanentRedirect(getPopupPath(popup.slug));
     }
     return <PopupDetailPage popup={popup} />;
@@ -419,11 +421,11 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
 
   // Event page
   if (slugType === 'event') {
-    const event = await getEventBySlug(params.slug);
+    const event = await getEventBySlug(slug);
     if (!event) notFound();
     const siteUrl = 'https://hashtagweb3.com';
     const eventSlug = getEventSlug(event);
-    if (params.slug !== eventSlug) {
+    if (slug !== eventSlug) {
       permanentRedirect(`/${eventSlug}`);
     }
     const editorial = await resolveEventGuide(event);
@@ -619,7 +621,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
 
   // Resource page
   if (slugType === 'resource') {
-    const resource = getResourceByCanonicalSlug(params.slug);
+    const resource = getResourceByCanonicalSlug(slug);
     if (!resource) notFound();
     const siteUrl = 'https://hashtagweb3.com';
     const pageUrl = `${siteUrl}/${resource.seo.canonicalSlug}`;
@@ -664,7 +666,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
 
   // Glossary term
   if (slugType === 'glossary') {
-    const term = await getTerm(params.slug);
+    const term = await getTerm(slug);
     if (!term) notFound();
     const siteUrl = 'https://hashtagweb3.com';
     const allTerms = await getAllTerms();
@@ -748,13 +750,13 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
   }
 
   // Article or fallback
-  if (params.slug.includes('.')) {
+  if (slug.includes('.')) {
     notFound();
   }
 
-  let article = await getArticle(params.slug);
+  let article = await getArticle(slug);
   if (!article) {
-    const popup = getPopupBySlug(resolvePopupSlug(params.slug));
+    const popup = getPopupBySlug(resolvePopupSlug(slug));
     if (popup) {
       return <PopupDetailPage popup={popup} />;
     }

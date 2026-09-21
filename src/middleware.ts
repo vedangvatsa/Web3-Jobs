@@ -51,7 +51,7 @@ function getClientIp(request: NextRequest): string {
   if (xRealIp) {
     return xRealIp.trim();
   }
-  return request.ip || '127.0.0.1';
+  return '127.0.0.1';
 }
 
 function getRateLimitInfo(request: NextRequest) {

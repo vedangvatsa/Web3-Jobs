@@ -22,8 +22,12 @@ export async function generateStaticParams(): Promise<{ slug: string }[]> {
   return [];
 }
 
-export async function GET(request: Request, { params }: { params: { slug: string } }) {
-  const segment = params.slug?.trim();
+export async function GET(
+  request: Request,
+  { params }: { params: Promise<{ slug: string }> },
+) {
+  const { slug: slugParam } = await params;
+  const segment = slugParam?.trim();
   if (!segment || RESERVED.has(segment.toLowerCase())) {
     return NextResponse.json(
       {

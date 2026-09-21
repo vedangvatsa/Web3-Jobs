@@ -9,24 +9,25 @@ import type { Metadata } from 'next';
 import type { TechArticle, BreadcrumbList, WithContext } from 'schema-dts';
 
 interface Props {
- params: { category: string; slug: string };
+ params: Promise<{ category: string; slug: string }>;
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
- const lesson = getLesson(params.category, params.slug);
+ const { category: categorySlug, slug: lessonSlug } = await params;
+ const lesson = getLesson(categorySlug, lessonSlug);
  if (!lesson) return {};
- const category = getCategory(params.category);
+ const category = getCategory(categorySlug);
  const siteUrl = 'https://hashtagweb3.com';
  const pageTitle = `${lesson.title} - ${category?.title || 'Learn'}`;
  const ogImageUrl = `${siteUrl}/og-image-blog.png`;
  return {
   title: pageTitle,
   description: lesson.description,
-  alternates: { canonical: `https://hashtagweb3.com/learn/${params.category}/${params.slug}` },
+  alternates: { canonical: `https://hashtagweb3.com/learn/${categorySlug}/${lessonSlug}` },
   openGraph: {
    title: pageTitle,
    description: lesson.description,
-   url: `https://hashtagweb3.com/learn/${params.category}/${params.slug}`,
+   url: `https://hashtagweb3.com/learn/${categorySlug}/${lessonSlug}`,
    type: 'article',
    images: [{ url: ogImageUrl, width: 1200, height: 630, alt: lesson.title }],
   },
@@ -61,16 +62,17 @@ const difficultyColors: Record<string, string> = {
  advanced: 'bg-red-100 text-red-800 dark:bg-red-900 dark:text-red-200',
 };
 
-export default function LessonPage({ params }: Props) {
- const lesson = getLesson(params.category, params.slug);
+export default async function LessonPage({ params }: Props) {
+ const { category: categorySlug, slug: lessonSlug } = await params;
+ const lesson = getLesson(categorySlug, lessonSlug);
  if (!lesson) notFound();
 
- const category = getCategory(params.category);
- const allLessons = getLessons(params.category);
- const { prev, next } = getAdjacentLessons(params.category, params.slug);
+ const category = getCategory(categorySlug);
+ const allLessons = getLessons(categorySlug);
+ const { prev, next } = getAdjacentLessons(categorySlug, lessonSlug);
 
  const siteUrl = 'https://hashtagweb3.com';
- const lessonUrl = `${siteUrl}/learn/${params.category}/${params.slug}`;
+ const lessonUrl = `${siteUrl}/learn/${categorySlug}/${lessonSlug}`;
 
  const articleSchema: WithContext<TechArticle> = {
   '@context': 'https://schema.org',
@@ -105,7 +107,7 @@ export default function LessonPage({ params }: Props) {
   itemListElement: [
    { '@type': 'ListItem', position: 1, name: 'Home', item: siteUrl },
    { '@type': 'ListItem', position: 2, name: 'Learn', item: `${siteUrl}/learn` },
-   { '@type': 'ListItem', position: 3, name: category?.title || 'Course', item: `${siteUrl}/learn/${params.category}` },
+   { '@type': 'ListItem', position: 3, name: category?.title || 'Course', item: `${siteUrl}/learn/${categorySlug}` },
    { '@type': 'ListItem', position: 4, name: lesson.title, item: lessonUrl },
   ],
  };
@@ -130,7 +132,7 @@ export default function LessonPage({ params }: Props) {
       <aside className="hidden lg:block w-56 shrink-0">
        <div className="sticky top-24">
         <Link
-         href={`/learn/${params.category}`}
+         href={`/learn/${categorySlug}`}
          className="text-sm font-semibold text-foreground mb-4 block"
         >
          {category?.title}
@@ -139,9 +141,9 @@ export default function LessonPage({ params }: Props) {
          {allLessons.map((l) => (
           <Link
            key={l.slug}
-           href={`/learn/${params.category}/${l.slug}`}
+           href={`/learn/${categorySlug}/${l.slug}`}
            className={`block text-sm py-2 px-3 rounded-md transition-colors ${
-            l.slug === params.slug
+            l.slug === lessonSlug
              ? 'bg-primary/10 text-primary font-medium border-l-2 border-primary'
              : 'text-muted-foreground hover:text-foreground hover:bg-muted/50'
            }`}
@@ -159,7 +161,7 @@ export default function LessonPage({ params }: Props) {
        <nav className="flex items-center gap-2 text-sm text-muted-foreground mb-6">
         <Link href="/learn" className="hover:text-foreground transition-colors">Learn</Link>
         <ChevronRight className="h-3 w-3" />
-        <Link href={`/learn/${params.category}`} className="hover:text-foreground transition-colors">
+        <Link href={`/learn/${categorySlug}`} className="hover:text-foreground transition-colors">
          {category?.title}
         </Link>
         <ChevronRight className="h-3 w-3" />
@@ -193,7 +195,7 @@ export default function LessonPage({ params }: Props) {
        <div className="flex items-center justify-between mt-12 pt-8 border-t gap-4">
         {prev ? (
          <Link
-          href={`/learn/${params.category}/${prev.slug}`}
+          href={`/learn/${categorySlug}/${prev.slug}`}
           className="flex items-center gap-2 text-sm text-muted-foreground hover:text-foreground transition-colors group"
          >
           <ArrowLeft className="h-4 w-4 group-hover:-translate-x-1 transition-transform" />
@@ -205,7 +207,7 @@ export default function LessonPage({ params }: Props) {
         ) : <div />}
         {next ? (
          <Link
-          href={`/learn/${params.category}/${next.slug}`}
+          href={`/learn/${categorySlug}/${next.slug}`}
           className="flex items-center gap-2 text-sm text-muted-foreground hover:text-foreground transition-colors group text-right"
          >
           <div>

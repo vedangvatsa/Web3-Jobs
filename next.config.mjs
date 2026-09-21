@@ -6,6 +6,7 @@ const projectRoot = path.dirname(fileURLToPath(import.meta.url));
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: 'standalone',
+  serverExternalPackages: ['firebase-admin', '@neynar/nodejs-sdk'],
   experimental: {
     // Job description shards are served from /public/job-description-shards (CDN), not bundled in the Worker.
     // Trim compile time + client bundles: per-icon/cherry-picked imports.
@@ -26,7 +27,6 @@ const nextConfig = {
       '@radix-ui/react-tabs',
       '@radix-ui/react-toast',
     ],
-    serverComponentsExternalPackages: ['firebase-admin', '@neynar/nodejs-sdk'],
   },
   /* config options here */
   trailingSlash: false,
