@@ -30,7 +30,8 @@ function eventPlace(event: { location?: string; city?: string; country?: string;
   }
   const generic = new Set(['global', 'virtual', 'online', 'tba', 'tbd', 'worldwide', 'remote', 'hybrid', 'various']);
   const city = generic.has((event.city || '').trim().toLowerCase()) ? '' : (event.city || '').trim();
-  const country = normalizeCountry(event.country);
+  const normalized = normalizeCountry(event.country);
+  const country = normalized === 'United States' ? 'USA' : normalized;
   if (city && country && city.toLowerCase() === country.toLowerCase()) return city;
   if (city && country) return `${city}, ${country}`;
   return city || country || 'Online';
@@ -73,7 +74,7 @@ async function main() {
 
   const message = selected.map((event) => {
     const url = `https://hashtagweb3.com/${getEventSlug(event)}?utm_source=telegram&utm_medium=social&utm_campaign=event_post`;
-    const date = formatEventDate(event.startDate, event.endDate).replace(/ - /g, '–');
+    const date = formatEventDate(event.startDate, event.endDate).replace(/ - /g, '–').replace(/, \d{4}/g, '');
     const line = `${event.name} in ${eventPlace(event)} on ${date}`;
     return `<a href="${url}">${escapeHtml(line)}</a>`;
   }).join('\n\n');
