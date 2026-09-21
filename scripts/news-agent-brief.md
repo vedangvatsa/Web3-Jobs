@@ -1,6 +1,6 @@
 # News Publishing Run — Hashtag Web3
 
-You are publishing 0-2 new News articles for hashtagweb3.com. Today is $TODAY (UTC).
+You are publishing every qualifying News article for hashtagweb3.com. Today is $TODAY (UTC).
 Work in the repository root (current working directory on the runner).
 
 ## 0. Tips first (mandatory)
@@ -12,9 +12,9 @@ run, delete the lines you covered or rejected-as-stale in the same commit.
 
 ## 1. Discover (5 min)
 
-Run: `node scripts/news-discover.mjs --hours 12 --max 20`
+Run: `node scripts/news-discover.mjs --hours 24 --max 40`
 (Candidates with `alsoCoveredBy` are multi-outlet stories — prefer those.)
-Pick AT MOST $MAX_ARTICLES stories. A story qualifies ONLY if ALL hold:
+Write every story that qualifies. There is no article-count cap. A story qualifies ONLY if ALL hold:
 - Published within the lookback window (fresh news, not analysis of old events).
 - Has a verifiable primary source (official announcement, filing, regulator page,
   company pressroom) OR two independent reputable reports you can open and read.
@@ -128,7 +128,7 @@ When in doubt, shorter and plainer wins.
   without pushing anything — never push on a red tree).
 - Every outbound link in your articles returns HTTP 200 (curl check).
 - Slug is 1-2 lowercase hyphenated words, no collision with existing files.
-- Max $MAX_ARTICLES articles per run. Never touch unrelated files.
+- Never touch unrelated files.
 
 ## 6. Publish
 

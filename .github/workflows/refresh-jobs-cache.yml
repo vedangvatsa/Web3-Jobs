@@ -3,7 +3,8 @@ name: Publish Jobs, Events & Social
 # Three scheduled runs a day, 8 hours apart. Each run posts two job
 # openings to X, Threads, Bluesky, Farcaster, LinkedIn, Facebook, and
 # Instagram, and one Telegram post each for jobs, news, and events.
-# The 03:30 UTC run also ingests jobs and sends the Resend alert.
+# The 03:30 UTC run also ingests jobs, drafts every qualifying news
+# article from the last 24 hours, and sends the Resend alert.
 
 on:
   schedule:
@@ -23,9 +24,6 @@ on:
         description: 'Only diagnose bot/channel access (no posts)'
         type: boolean
         default: false
-      news_max:
-        description: 'Max native articles this run (1-3)'
-        default: '3'
       news_model:
         description: 'Zen model override for article drafting'
         default: ''
@@ -83,9 +81,9 @@ jobs:
         run: node scripts/telegram-diagnose.mjs
 
   publish-news:
-    if: ${{ github.event.inputs.diagnose_telegram != 'true' }}
+    if: ${{ github.event.inputs.diagnose_telegram != 'true' && (github.event_name == 'workflow_dispatch' || github.event.schedule == '30 3 * * *') }}
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 180
     permissions:
       contents: write
     concurrency:
@@ -94,7 +92,6 @@ jobs:
     env:
       OPENCODE_API_KEY: ${{ secrets.OPENCODE_API_KEY }}
       NEWS_MODEL: ${{ inputs.news_model || 'opencode/muse-spark-1.3-contributor-free' }}
-      NEWS_MAX: ${{ inputs.news_max || '3' }}
       NEWS_DRY_RUN: ${{ inputs.news_dry_run || 'false' }}
     steps:
       - uses: actions/checkout@v4
@@ -130,7 +127,6 @@ jobs:
         run: |
           PROMPT="$(cat scripts/news-agent-brief.md)"
           PROMPT="${PROMPT//\$TODAY/$(date -u +%F)}"
-          PROMPT="${PROMPT//\$MAX_ARTICLES/$NEWS_MAX}"
           PROMPT="${PROMPT//\$DRY_RUN/$NEWS_DRY_RUN}"
           "$HOME/.opencode/bin/opencode" run --model "$NEWS_MODEL" "$PROMPT"
 
