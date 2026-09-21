@@ -1,0 +1,57 @@
+name: FAH trigger hunt
+on: workflow_dispatch
+jobs:
+  hunt:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: google-github-actions/auth@v2
+        with:
+          credentials_json: ${{ secrets.FIREBASE_APPHOSTING_SERVICE_ACCOUNT_KEY }}
+      - uses: google-github-actions/setup-gcloud@v2
+      - name: Hunt deploy triggers
+        run: |
+          set +e
+          TOKEN=$(gcloud auth print-access-token)
+          echo "=== SA ==="
+          python3 -c "import json,os; print(json.load(open(os.environ['GOOGLE_APPLICATION_CREDENTIALS']))['client_email'])"
+          echo "=== Cloud Build triggers ==="
+          gcloud builds triggers list --project=web3-jobs-aggregator --region=us-central1 2>&1 | head -40
+          gcloud builds triggers list --project=web3-jobs-aggregator 2>&1 | head -40
+          echo "=== PATCH backend try enable ==="
+          # Get full backend
+          curl -s -H "Authorization: Bearer $TOKEN" \
+            'https://firebaseapphosting.googleapis.com/v1beta/projects/web3-jobs-aggregator/locations/us-central1/backends/studio' \
+            | tee /tmp/be.json | python3 -m json.tool 2>/dev/null | head -80
+          echo "=== try update annotations / environment ==="
+          # Common field attempts
+          for BODY in \
+            '{"annotations":{"firebaseapphosting.googleapis.com/automatic-rollouts":"enabled"}}' \
+            '{"codebase":{"branch":"main"}}' \
+            '{}'
+          do
+            echo "BODY=$BODY"
+            curl -s -X PATCH -H "Authorization: Bearer $TOKEN" -H 'Content-Type: application/json' \
+              "https://firebaseapphosting.googleapis.com/v1beta/projects/web3-jobs-aggregator/locations/us-central1/backends/studio?updateMask=annotations" \
+              -d "$BODY" | head -c 1500
+            echo
+          done
+          echo "=== list operations ==="
+          curl -s -H "Authorization: Bearer $TOKEN" \
+            'https://firebaseapphosting.googleapis.com/v1beta/projects/web3-jobs-aggregator/locations/us-central1/operations?pageSize=5' | head -c 2000
+          echo
+          echo "=== Developer Connect get (expect 403) ==="
+          curl -s -H "Authorization: Bearer $TOKEN" \
+            'https://developerconnect.googleapis.com/v1/projects/web3-jobs-aggregator/locations/us-central1/connections/apphosting-github-conn-fb1z6mk/gitRepositoryLinks/vedangvatsa-Web3-Jobs' | head -c 800
+          echo
+          echo "=== Try create rollout from READY build 026 ==="
+          # Won't help for fix but tests rollouts.create perm
+          RID="rollout-retry-$(date +%s)"
+          curl -s -X POST -H "Authorization: Bearer $TOKEN" -H 'Content-Type: application/json' \
+            "https://firebaseapphosting.googleapis.com/v1beta/projects/web3-jobs-aggregator/locations/us-central1/backends/studio/rollouts?rolloutId=$RID" \
+            -d '{"build":"projects/web3-jobs-aggregator/locations/us-central1/backends/studio/builds/build-2026-09-21-026"}' | head -c 1500
+          echo
+          echo "=== Cloud Build submit noop? ==="
+          gcloud builds list --project=web3-jobs-aggregator --limit=3 --format=json 2>&1 | head -c 500
+          echo
+          echo "=== IAM test: get project ==="
+          gcloud projects describe web3-jobs-aggregator 2>&1 | head -10
