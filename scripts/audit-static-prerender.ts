@@ -46,9 +46,9 @@ async function main(): Promise<void> {
     glossaryCategoryPaths.add(`/glossary/${cat}`);
   }
 
-  const popupDetailPaths = new Set<string>();
+  const popupLegacyRedirectPaths = new Set<string>();
   for (const slug of getPopupSlugs()) {
-    popupDetailPaths.add(`/popups/${slug}`);
+    popupLegacyRedirectPaths.add(`/popups/${slug}`);
   }
 
   const preRenderedPaths = new Set<string>([
@@ -57,7 +57,6 @@ async function main(): Promise<void> {
     ...learnCategoryPaths,
     ...learnLessonPaths,
     ...glossaryCategoryPaths,
-    ...popupDetailPaths,
   ]);
 
   // Fix: catchAllSlugs already include leading path without duplicate
@@ -66,7 +65,6 @@ async function main(): Promise<void> {
   for (const p of learnCategoryPaths) preRenderedPaths.add(p);
   for (const p of learnLessonPaths) preRenderedPaths.add(p);
   for (const p of glossaryCategoryPaths) preRenderedPaths.add(p);
-  for (const p of popupDetailPaths) preRenderedPaths.add(p);
 
   // Fixed app pages (no dynamic segments) — SSG at build via force-static or revalidate.
   const fixedStaticPages = new Set([
@@ -143,7 +141,7 @@ async function main(): Promise<void> {
   console.log(`  /learn/[cat]:             ${learnCategoryPaths.size}`);
   console.log(`  /learn/[cat]/[lesson]:    ${learnLessonPaths.size}`);
   console.log(`  /glossary/[cat]:          ${glossaryCategoryPaths.size}`);
-  console.log(`  /popups/[slug]:           ${popupDetailPaths.size}`);
+  console.log(`  /popups/:slug → /[slug]:  ${popupLegacyRedirectPaths.size} (redirect only)`);
   console.log(`  fixed listing/tool pages: ${fixedStaticPages.size}`);
   console.log(`  /jobs/[slug] redirects:   ${jobRedirectPaths.size}`);
   console.log('');

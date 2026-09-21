@@ -108,6 +108,8 @@ const nextConfig = {
       { source: '/popups/ns', destination: '/ns', permanent: true },
       { source: '/popups/logos', destination: '/logos-society', permanent: true },
       { source: '/popups/logos-society', destination: '/logos-society', permanent: true },
+      // Legacy /popups/:slug bookmarks → canonical root popup pages (content only on /[slug]).
+      { source: '/popups/:slug', destination: '/:slug', permanent: true },
       // Renamed Sept 2026 news slugs
       { source: '/crypto-tax-bills', destination: '/tax-bills', permanent: true },
       { source: '/nasdaq-tokenized-stocks', destination: '/nasdaq-tokens', permanent: true },
