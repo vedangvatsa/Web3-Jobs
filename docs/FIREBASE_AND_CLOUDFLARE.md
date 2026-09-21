@@ -20,7 +20,7 @@ LinkedIn/Threads posting uses **GitHub/Action secrets** (`LINKEDIN_ACCESS_TOKEN`
 ## Connect / verify Firebase
 
 1. [Firebase Console](https://console.firebase.google.com/) → project **`web3-jobs-aggregator`**.
-2. **App Hosting** → confirm backend **`web3-jobs-aggregator`** is connected to this repo and **`main`** (or your deploy branch).
+2. **App Hosting** → confirm backend **`studio`** is connected to this repo and **`main`** (or your deploy branch).
 3. **Build → Firestore** (if used) → deploy rules: `firebase deploy --only firestore:rules`.
 4. GitHub secrets: `NEXT_PUBLIC_FIREBASE_*`, `FIREBASE_SERVICE_ACCOUNT_KEY`, `RESEND_API_KEY`, `CRON_SECRET`, etc. (see `.env.example`).
 5. Local: `npx tsx scripts/verify-firebase-connection.ts`.
@@ -34,7 +34,7 @@ firebase login
 firebase use web3-jobs-aggregator
 firebase apphosting:secrets:set NEXT_PUBLIC_FIREBASE_API_KEY
 # … repeat for each secret in apphosting.yaml / sync script
-firebase apphosting:secrets:grantaccess SECRET_NAME --backend web3-jobs-aggregator
+firebase apphosting:secrets:grantaccess SECRET_NAME --backend studio --project web3-jobs-aggregator
 ```
 
 Script: [`scripts/sync-firebase-apphosting-secrets.sh`](../scripts/sync-firebase-apphosting-secrets.sh).
