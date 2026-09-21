@@ -78,5 +78,5 @@ Do **not** use this checklist on **`web3-jobs-aggregator`** if that is your live
 
 ## Repo guardrails
 
-- [`apphosting.yaml`](../apphosting.yaml): `minInstances: 0`, `OG_PRECOMPUTE=0`, `OG_FILL_MISSING=1` at BUILD.  
+- [`apphosting.yaml`](../apphosting.yaml): `minInstances: 0`, `OG_PRECOMPUTE=0`, `OG_FILL_MISSING=1`, **`FAH_FAST_PREBUILD=1`** at BUILD.  
 - [`docs/FIREBASE_AND_CLOUDFLARE.md`](FIREBASE_AND_CLOUDFLARE.md): production hosting reference (filename kept for existing links).

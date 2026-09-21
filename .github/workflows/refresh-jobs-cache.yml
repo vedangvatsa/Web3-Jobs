@@ -162,6 +162,9 @@ jobs:
         run: npx tsx scripts/precompute-events-runtime.ts && npm run precompute:og-previews
         continue-on-error: true
 
+      - name: Refresh prebuild input hashes
+        run: npm run update:prebuild-hashes
+
       # Note: X and Threads postings have been migrated to the dedicated
       # job openings workflow (.github/workflows/post-job-openings-social.yml)
       - name: Post to Bluesky
@@ -259,7 +262,7 @@ jobs:
           # Events + social/Telegram state only. Jobs cache files are owned
           # by the daily ingest (refresh-jobs-ingest.yml) — never stage them
           # here, or intraday runs will fight the morning ingest on rebase.
-          git add content/events/ content/events-runtime.json content/legacy-slugs-archive.json scripts/social/*.json .telegram*.json .resend-broadcast-sent.json public/preview/ 2>/dev/null || true
+          git add content/events/ content/events-runtime.json content/legacy-slugs-archive.json content/prebuild-input-hashes.json scripts/social/*.json .telegram*.json .resend-broadcast-sent.json public/preview/ 2>/dev/null || true
 
           if git diff --staged --quiet; then
             echo "No changes to commit"

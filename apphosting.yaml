@@ -40,6 +40,12 @@ env:
     availability:
       - BUILD
 
+  # Skip heavy prebuild/regen on App Hosting (ingest commits data + OG + sitemap).
+  - variable: FAH_FAST_PREBUILD
+    value: "1"
+    availability:
+      - BUILD
+
 runConfig:
   cpu: 1
   memoryMiB: 2048

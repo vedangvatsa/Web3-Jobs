@@ -108,6 +108,12 @@ jobs:
         run: npm run precompute:og-incremental
         continue-on-error: true
 
+      - name: Refresh prebuild input hashes
+        run: npm run update:prebuild-hashes
+
+      - name: Regenerate sitemap (ingest owns route list)
+        run: npx tsx scripts/generate-sitemap-json.ts
+
       - name: Guard job slug uniqueness
         run: npx tsx scripts/test-job-slug-reserved.ts && npx tsx scripts/check-slug-collisions.ts
 
@@ -125,7 +131,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git fetch origin main
           npx tsx scripts/social/merge-state.ts
-          git add content/jobs-cache.json content/jobs-runtime.json content/homepage-jobs.json content/companies-runtime.json content/slug-types.json content/job-description-shards/
+          git add content/jobs-cache.json content/jobs-runtime.json content/homepage-jobs.json content/companies-runtime.json content/slug-types.json content/job-description-shards/ content/prebuild-input-hashes.json content/sitemap-routes.json public/sitemap.xml public/.well-known/sitemap.json 2>/dev/null || true
           git add public/og/ public/preview/ 2>/dev/null || true
           git add public/logo/companies/ 2>/dev/null || true
           if git diff --staged --quiet; then

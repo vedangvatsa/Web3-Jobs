@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "steps": {
+    "company-logos-index": {
+      "inputHash": "aa31c197c684d002"
+    },
+    "learn-runtime": {
+      "inputHash": "8348f3675784195b"
+    },
+    "pseo-resources": {
+      "inputHash": "71d4f4faa4501181"
+    },
+    "jobs-runtime": {
+      "inputHash": "08ed15e622c0a8f8"
+    },
+    "events-runtime": {
+      "inputHash": "33efb41c60fa861a"
+    },
+    "glossary-runtime": {
+      "inputHash": "f97f77423cbe4d90"
+    },
+    "companies-runtime": {
+      "inputHash": "5f324b1af000700e"
+    },
+    "company-profiles": {
+      "inputHash": "b3e3790b48407762"
+    },
+    "articles-index": {
+      "inputHash": "bf1192f35aadef6d"
+    },
+    "articles-data": {
+      "inputHash": "dfa3cf7a9eb0515d"
+    },
+    "slug-types": {
+      "inputHash": "1438b1e6851a3a09"
+    },
+    "sitemap": {
+      "inputHash": "aac929ffbc6a4dfb"
+    }
+  }
+}
