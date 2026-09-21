@@ -1,7 +1,8 @@
 /**
  * Dynamic OG PNGs (1200×630) for jobs/companies — not part of `npm run build`.
  * Run after jobs refresh: `npm run precompute:og-images` (or `precompute:og`).
- * CI: refresh-jobs-cache + deploy cache restore; uses `--if-missing` for incremental runs.
+ * CI: refresh-jobs-cache + deploy cache restore; `--if-missing` skips only when PNG exists
+ * and manifest fingerprint still matches job title/company/logo.
  * Served from /public/og/** as static CDN assets — no Serverless /api/og.
  */
 import * as fs from 'fs';
@@ -10,6 +11,7 @@ import { createHash } from 'crypto';
 import satori from 'satori';
 import sharp from 'sharp';
 import { Resvg } from '@resvg/resvg-js';
+import { compressOgPng } from './lib/og-png-compress';
 import { getAllJobsWithSlugs } from '../src/lib/job-guides';
 import { getCompanies } from '../src/lib/companies';
 import { getCompanySlug } from '../src/lib/job-slugs';
@@ -274,16 +276,8 @@ async function renderPng(element: unknown, font: Buffer): Promise<Buffer> {
       fitTo: { mode: 'width', value: WIDTH },
     });
     const raw = Buffer.from(resvg.render().asPng());
-    // Flat-design cards compress extremely well as palette PNGs
-    // (typically 7–15KB vs 100–300KB raw). Never fail the render:
-    // fall back to the raw resvg bytes if sharp is unavailable.
-    try {
-      return await sharp(raw)
-        .png({ compressionLevel: 9, palette: true, colors: 128, effort: 10, quality: 80 })
-        .toBuffer();
-    } catch {
-      return raw;
-    }
+    // Flat cards target ~7–15KB palette PNG; unpalettized resvg RGBA is ~60–90KB.
+    return compressOgPng(raw);
   })();
 
   const timeout = new Promise<never>((_, reject) => {
@@ -348,7 +342,7 @@ async function main() {
     const logoRel = WITH_LOGOS ? resolveCompanyLogo(getCompanySlug(job.company)) || '' : '';
     const fingerprint = sha(`${VERSION}|${job.title}|${job.company}|${logoRel}`);
     const outFile = path.join(OUT_JOBS, `${slug}.png`);
-    if (IF_MISSING && fs.existsSync(outFile)) {
+    if (IF_MISSING && fs.existsSync(outFile) && manifest[key] === fingerprint) {
       skipped += 1;
       done += 1;
       return;
@@ -430,7 +424,7 @@ async function renderCompanies(
     const jobCount = 'jobCount' in company ? Number((company as { jobCount?: number }).jobCount || 0) : 0;
     const fingerprint = sha(`${VERSION}|${company.name}|${jobCount}|${logoRel}`);
     const outFile = path.join(OUT_COMPANIES, `${slug}.png`);
-    if (IF_MISSING && fs.existsSync(outFile)) {
+    if (IF_MISSING && fs.existsSync(outFile) && manifest[key] === fingerprint) {
       skipped += 1;
       return;
     }

@@ -20,6 +20,7 @@
     "precompute:og-images": "npx tsx scripts/precompute-og-images.ts",
     "precompute:og-previews": "npx tsx scripts/precompute-og-previews.ts",
     "precompute:og-incremental": "npx tsx scripts/precompute-og-images.ts && npx tsx scripts/prune-stale-og-pngs.ts && npx tsx scripts/precompute-og-previews.ts",
+    "recompress:og-pngs": "npx tsx scripts/recompress-og-pngs.ts",
     "precompute:og": "npm run precompute:og-incremental",
     "precompute:jobs-runtime": "npx tsx scripts/precompute-jobs-runtime.ts",
     "test:detail-formatting": "tsx scripts/test-job-description-formatting.ts && tsx scripts/test-event-formatting.ts",
