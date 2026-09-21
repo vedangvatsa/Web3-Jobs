@@ -1,16 +1,25 @@
 {
-  "total": 541,
-  "sourceBacked": 508,
-  "unavailable": 33,
+  "total": 530,
+  "sourceBacked": 530,
+  "unavailable": 0,
   "generated": 0,
   "templates": 0,
   "events": [
     {
       "id": "w3v-crypto-worlds-fair-hackathon-by-colosseum",
       "slug": "cwsfhc",
-      "name": "Crypto World´s Fair Hackathon by Colosseum",
-      "status": "unavailable",
-      "sections": []
+      "name": "Crypto World's Fair Hackathon by Colosseum",
+      "status": "source-backed",
+      "source": {
+        "url": "https://colosseum.com/worldsfair",
+        "fetchedAt": "2026-09-20T07:56:52.564Z"
+      },
+      "sections": [
+        "About the event",
+        "Crypto World's Fair",
+        "Awards and opportunities",
+        "Livestream workshops"
+      ]
     },
     {
       "id": "token2049-side-6a9ab0b3d567345aad683a7f",
@@ -30,20 +39,6 @@
       ]
     },
     {
-      "id": "luma-crypto-yrF0xKNWJBIqfo2",
-      "slug": "cwfbk",
-      "name": "Crypto World's Fair Buildstation, Kathmandu",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/t8gq934u",
-        "fetchedAt": "2026-09-19T23:45:14.430Z"
-      },
-      "sections": [
-        "About the event",
-        "Schedule"
-      ]
-    },
-    {
       "id": "luma-crypto-SmEV1KL3URBkN1p",
       "slug": "tcacdihkoe",
       "name": "Tencent Cloud AI CAN DO IT Hackathon Singapore 2026",
@@ -57,19 +52,6 @@
         "Five Industry Tracks. Real Challenges. Real Impact",
         "Hackathon Journey",
         "Prizes & Participant Benefits"
-      ]
-    },
-    {
-      "id": "luma-crypto-8KyAuou22sLR6WZ",
-      "slug": "adhnm",
-      "name": "AI Databricks Hackathon + Networking Mixer NYC",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/databricks-hackathon",
-        "fetchedAt": "2026-09-19T23:45:35.638Z"
-      },
-      "sections": [
-        "About the event"
       ]
     },
     {
@@ -119,63 +101,6 @@
         "POST-TOKYO",
         "Hackatsuon 2026",
         "Urban Transportation"
-      ]
-    },
-    {
-      "id": "luma-crypto-01e817k9Btt06et",
-      "slug": "hcah",
-      "name": "Health in Climate AI Hackathon NYC",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/ka3uxc6b",
-        "fetchedAt": "2026-09-19T23:45:38.768Z"
-      },
-      "sections": [
-        "About the event"
-      ]
-    },
-    {
-      "id": "india-luma-team1-indore",
-      "slug": "tiw",
-      "name": "Team1 India Workshop | Indore",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/team1-indore",
-        "fetchedAt": "2026-09-19T23:30:15.642Z"
-      },
-      "sections": [
-        "Introduction",
-        "Event Program",
-        "Who Should Attend?",
-        "What You'll Build",
-        "Workshop Outcomes",
-        "About Team1"
-      ]
-    },
-    {
-      "id": "luma-crypto-wrdOXqFaeJnpiIZ",
-      "slug": "bhs",
-      "name": "builders hangout @ superteams singapore",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/wq8cj18o",
-        "fetchedAt": "2026-09-19T23:45:46.183Z"
-      },
-      "sections": [
-        "About the event"
-      ]
-    },
-    {
-      "id": "luma-crypto-GAXtNbuvGQjuuBp",
-      "slug": "cmwgozm",
-      "name": "CRYPTO MARKET & WEB3 - Global Online Zoom Meetup",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/luw5vqd9",
-        "fetchedAt": "2026-09-19T23:45:46.640Z"
-      },
-      "sections": [
-        "About the event"
       ]
     },
     {
@@ -494,20 +419,6 @@
       ]
     },
     {
-      "id": "premier-ethsofia",
-      "slug": "ethsofia",
-      "name": "ETHSofia 2026",
-      "status": "unavailable",
-      "sections": []
-    },
-    {
-      "id": "india-luma-scetu",
-      "slug": "tiuws",
-      "name": "Team1 India University Workshop - SCET",
-      "status": "unavailable",
-      "sections": []
-    },
-    {
       "id": "luma-crypto-PiRQi9wnOxyveK3",
       "slug": "cglbhys",
       "name": "Consumer Growth Leaders London Breakfast hosted by Yolodex and SOAR",
@@ -656,6 +567,22 @@
       ]
     },
     {
+      "id": "premier-ethsofia",
+      "slug": "ethsofia",
+      "name": "ETHSofia 2026",
+      "status": "source-backed",
+      "source": {
+        "url": "https://www.ethsofia.com/",
+        "fetchedAt": "2026-09-20T07:56:52.274Z"
+      },
+      "sections": [
+        "About the event",
+        "Main themes",
+        "Who attends",
+        "Venue"
+      ]
+    },
+    {
       "id": "premier-shaka-biarritz-2026",
       "slug": "shaka",
       "name": "SHAKA Biarritz 2026",
@@ -704,8 +631,18 @@
       "id": "premier-ethtokyo-2026",
       "slug": "ethglobal",
       "name": "ETHGlobal Tokyo 2026",
-      "status": "unavailable",
-      "sections": []
+      "status": "source-backed",
+      "source": {
+        "url": "https://ethglobal.com/events/tokyo2026",
+        "fetchedAt": "2026-09-20T08:54:15.141Z"
+      },
+      "sections": [
+        "About the event",
+        "Tokyo 2026",
+        "Themes and topics",
+        "Building formats",
+        "Participation"
+      ]
     },
     {
       "id": "luma-crypto-EUH18Uaonj0rgDj",
@@ -1450,6 +1387,24 @@
       ]
     },
     {
+      "id": "premier-onchaincapital",
+      "slug": "onchain",
+      "name": "Onchain Capital & Liquidity: DeFi & AI Seoul, South Korea | Sep 29 - Oct 1 | During Korea Blockchain Week",
+      "status": "source-backed",
+      "source": {
+        "url": "https://luma.com/uz21gg7p",
+        "fetchedAt": "2026-09-20T07:56:54.708Z"
+      },
+      "sections": [
+        "About the Event",
+        "Topics You'll See",
+        "What to Expect",
+        "Agenda (Indicative)",
+        "Sponsorship",
+        "Past Events"
+      ]
+    },
+    {
       "id": "kbw-official-open-agi-frontier-ai-meets-robotics-09-29",
       "slug": "oaf",
       "name": "Open AGI Frontier: AI Meets Robotics with Open AGI Salon",
@@ -1563,13 +1518,13 @@
       ]
     },
     {
-      "id": "kbw-official-crypto-compliance-and-legal-roundtable-09-29",
-      "slug": "cclr",
+      "id": "premier-solidusroundtable",
+      "slug": "crypto-compliance-roundtable-seoul-2026",
       "name": "Crypto Compliance and Legal Roundtable, hosted by Solidus Labs and Yulchon",
       "status": "source-backed",
       "source": {
         "url": "https://luma.com/fop77t0t",
-        "fetchedAt": "2026-09-19T23:29:51.614Z"
+        "fetchedAt": "2026-09-20T07:56:54.017Z"
       },
       "sections": [
         "About the event",
@@ -1628,20 +1583,6 @@
       "sections": [
         "About the event"
       ]
-    },
-    {
-      "id": "premier-solidusroundtable",
-      "slug": "crypto-compliance-roundtable-seoul-2026",
-      "name": "Crypto Compliance & Legal Roundtable Seoul 2026",
-      "status": "unavailable",
-      "sections": []
-    },
-    {
-      "id": "premier-onchaincapital",
-      "slug": "onchain",
-      "name": "Onchain Capital & Liquidity Seoul 2026",
-      "status": "unavailable",
-      "sections": []
     },
     {
       "id": "kbw-official-trade-the-wave-sma-trading-vip-exclusive-meetup-09-28",
@@ -2011,13 +1952,13 @@
       ]
     },
     {
-      "id": "w3v-institutional-onchain-rwas--stablecoins",
-      "slug": "institutional-onchain",
+      "id": "premier-instonchain",
+      "slug": "institutional5",
       "name": "Institutional Onchain: RWAs & StablecoinsSeoul, South Korea | Sep 29 - Oct 1| During Korea Blockchain Week",
       "status": "source-backed",
       "source": {
         "url": "https://luma.com/qsfjc56x",
-        "fetchedAt": "2026-09-19T23:54:10.800Z"
+        "fetchedAt": "2026-09-20T07:56:54.945Z"
       },
       "sections": [
         "About the Event",
@@ -2133,13 +2074,13 @@
       ]
     },
     {
-      "id": "w3v-perps--institutional-trading-liquidity--the-onchain-economy",
-      "slug": "perps-institutional",
+      "id": "premier-perpsinst",
+      "slug": "perps2",
       "name": "Perps × Institutional: Trading, Liquidity & the Onchain Economy | Seoul | 30th September | During Korea Blockchain Week",
       "status": "source-backed",
       "source": {
         "url": "https://luma.com/v6bkeysx",
-        "fetchedAt": "2026-09-19T23:54:11.312Z"
+        "fetchedAt": "2026-09-20T09:02:12.688Z"
       },
       "sections": [
         "About the Event",
@@ -2192,13 +2133,6 @@
         "About Kyobo Securities",
         "About SBI Holdings, Inc"
       ]
-    },
-    {
-      "id": "premier-instonchain",
-      "slug": "institutional5",
-      "name": "Institutional Onchain: RWAs & Stablecoins Seoul 2026",
-      "status": "unavailable",
-      "sections": []
     },
     {
       "id": "premier-raylsseoul",
@@ -3186,13 +3120,6 @@
       ]
     },
     {
-      "id": "token2049-side-6a5dff0dd1b48ddf39d0827c",
-      "slug": "cbed1",
-      "name": "CoinFerenceX the best event - Day 1",
-      "status": "unavailable",
-      "sections": []
-    },
-    {
       "id": "premier-rwa-week-2026",
       "slug": "rwa-week",
       "name": "RWA Week 2026",
@@ -3365,6 +3292,19 @@
       ]
     },
     {
+      "id": "w3v-skyline-social-singapore",
+      "slug": "skyline-social",
+      "name": "Skyline Social Singapore",
+      "status": "source-backed",
+      "source": {
+        "url": "https://luma.com/q22mvxx7",
+        "fetchedAt": "2026-09-19T23:54:16.031Z"
+      },
+      "sections": [
+        "About the event"
+      ]
+    },
+    {
       "id": "w3v-digital-after-hours",
       "slug": "dah",
       "name": "Digital After Hours: Connecting Digital Assets, Trusts & Institutional Finance",
@@ -3431,11 +3371,35 @@
       ]
     },
     {
+      "id": "token2049-side-6aa01b2fd567345aad684c08",
+      "slug": "arwwbv",
+      "name": "AM Run & Workout w/ Bankless VC",
+      "status": "source-backed",
+      "source": {
+        "url": "https://luma.com/07wqstj3",
+        "fetchedAt": "2026-09-19T23:55:33.463Z"
+      },
+      "sections": [
+        "About the event"
+      ]
+    },
+    {
       "id": "token2049-side-6a5dff0ed1b48ddf39d0827e",
       "slug": "cbed2",
-      "name": "CoinFerenceX the best event - Day 2",
-      "status": "unavailable",
-      "sections": []
+      "name": "CoinFerenceX Singapore 2026 - Day 2",
+      "status": "source-backed",
+      "source": {
+        "url": "https://luma.com/cfx-tbe-summit",
+        "fetchedAt": "2026-09-20T07:56:57.150Z"
+      },
+      "sections": [
+        "About the event",
+        "CoinFerenceX The Best Event Singapore",
+        "What to expect",
+        "Hosted by",
+        "Partners",
+        "Media Partners"
+      ]
     },
     {
       "id": "luma-crypto-yx5TMJkA5A4WXw1",
@@ -3652,13 +3616,13 @@
       ]
     },
     {
-      "id": "w3v-vntr-investor-forum-singapore",
-      "slug": "vif",
+      "id": "premier-vntr",
+      "slug": "vntr",
       "name": "VNTR Capital Allocators Forum Singapore",
       "status": "source-backed",
       "source": {
         "url": "https://luma.com/w5ck9zwq",
-        "fetchedAt": "2026-09-19T23:54:43.072Z"
+        "fetchedAt": "2026-09-20T07:56:55.584Z"
       },
       "sections": [
         "About the event",
@@ -3797,6 +3761,19 @@
       "sections": [
         "About the event",
         "What to expect"
+      ]
+    },
+    {
+      "id": "token2049-side-6a82cebe298f21044c271646",
+      "slug": "afif",
+      "name": "AI Founders & Investors Forum",
+      "status": "source-backed",
+      "source": {
+        "url": "https://luma.com/bwcw51rz",
+        "fetchedAt": "2026-09-19T23:55:17.643Z"
+      },
+      "sections": [
+        "About the event"
       ]
     },
     {
@@ -3976,6 +3953,19 @@
         "Agenda / 活动议程",
         "Past Events / 往期活动",
         "About GMA / 关于 GMA"
+      ]
+    },
+    {
+      "id": "token2049-side-6aa25cf5d567345aad685500",
+      "slug": "epw",
+      "name": "Ethena Padel & Wellness Singapore",
+      "status": "source-backed",
+      "source": {
+        "url": "https://luma.com/qim2vicq",
+        "fetchedAt": "2026-09-19T23:55:20.621Z"
+      },
+      "sections": [
+        "About the event"
       ]
     },
     {
@@ -4938,13 +4928,6 @@
       ]
     },
     {
-      "id": "premier-finalityforum",
-      "slug": "finality-forum-2026",
-      "name": "Finality Forum Singapore 2026",
-      "status": "unavailable",
-      "sections": []
-    },
-    {
       "id": "w3v-the-real-yield-happy-hour-by-honeyb",
       "slug": "ryhhh",
       "name": "The Real Yield Happy Hour by HoneyB",
@@ -5026,8 +5009,17 @@
       "id": "token2049-side-6aa41e96c0426d278bd87cfe",
       "slug": "nscfr",
       "name": "NEXUS Startup Competition First Round",
-      "status": "unavailable",
-      "sections": []
+      "status": "source-backed",
+      "source": {
+        "url": "https://www.token2049.com/singapore/nexus-startup-competition",
+        "fetchedAt": "2026-09-20T07:56:56.531Z"
+      },
+      "sections": [
+        "About the event",
+        "Competition",
+        "Finalist access",
+        "Application status"
+      ]
     },
     {
       "id": "luma-crypto-BjNTZDBANAPAjYl",
@@ -5411,6 +5403,20 @@
       ]
     },
     {
+      "id": "premier-stablecoinsg",
+      "slug": "stablecoin-summit-2026",
+      "name": "Stablecoin Summit Singapore 2026",
+      "status": "source-backed",
+      "source": {
+        "url": "https://stablecoinsummit.com/",
+        "fetchedAt": "2026-09-20T07:56:57.430Z"
+      },
+      "sections": [
+        "About the event",
+        "Stablecoin Summit 2026"
+      ]
+    },
+    {
       "id": "w3v-on-chain-horizons-founders-x-funders",
       "slug": "chain-horizons",
       "name": "On-Chain Horizons: Founders x Funders",
@@ -5455,19 +5461,6 @@
         "Payments, Treasury and Tokenization Summit 2026",
         "AGENDA",
         "EVENT DETAILS"
-      ]
-    },
-    {
-      "id": "token2049-side-6a6711ea5a75007b41000117",
-      "slug": "stablecoin-summit",
-      "name": "Stablecoin Summit",
-      "status": "source-backed",
-      "source": {
-        "url": "https://stablecoinsummit.com/",
-        "fetchedAt": "2026-09-20T00:21:00.833Z"
-      },
-      "sections": [
-        "Stablecoin Summit 26"
       ]
     },
     {
@@ -5697,13 +5690,6 @@
       ]
     },
     {
-      "id": "token2049-side-6a71f32ad1b48ddf39d09b86",
-      "slug": "afs",
-      "name": "Agentic Finance Summit",
-      "status": "unavailable",
-      "sections": []
-    },
-    {
       "id": "token2049-side-6a8eb7cae258d468339534a6",
       "slug": "pizza-break2",
       "name": "Pizza Break at TOKEN2049 | AT Digital by ATFX Connect - Day 2",
@@ -5720,8 +5706,17 @@
       "id": "token2049-side-6aa41f2ac0426d278bd87d05",
       "slug": "nscfr2",
       "name": "NEXUS Startup Competition Final Round",
-      "status": "unavailable",
-      "sections": []
+      "status": "source-backed",
+      "source": {
+        "url": "https://www.token2049.com/singapore/nexus-startup-competition",
+        "fetchedAt": "2026-09-20T07:56:56.531Z"
+      },
+      "sections": [
+        "About the event",
+        "Finalists and prizes",
+        "What finalists receive",
+        "Applications"
+      ]
     },
     {
       "id": "token2049-side-6aa00746967be0befa88ca3f",
@@ -5784,22 +5779,16 @@
       "id": "token2049-side-6aa41d6d8ffcc4e5ece10d0f",
       "slug": "ohpc",
       "name": "Origins Hackathon Prize Ceremony",
-      "status": "unavailable",
-      "sections": []
-    },
-    {
-      "id": "premier-stablecoinsg",
-      "slug": "stablecoin-summit-2026",
-      "name": "Stablecoin Summit Singapore 2026",
-      "status": "unavailable",
-      "sections": []
-    },
-    {
-      "id": "premier-vntr",
-      "slug": "vntr",
-      "name": "VNTR Investor Forum Singapore 2026",
-      "status": "unavailable",
-      "sections": []
+      "status": "source-backed",
+      "source": {
+        "url": "https://www.token2049.com/singapore/2049-origins",
+        "fetchedAt": "2026-09-20T07:56:56.870Z"
+      },
+      "sections": [
+        "About the event",
+        "Prizes and tracks",
+        "Participation"
+      ]
     },
     {
       "id": "luma-crypto-gHEGbdLMBoj9JDY",
@@ -5985,9 +5974,30 @@
     {
       "id": "token2049-side-6a622e12d1b48ddf39d08981",
       "slug": "vault-summit",
-      "name": "Vault Summit",
-      "status": "unavailable",
-      "sections": []
+      "name": "Vault Summit: Singapore",
+      "status": "source-backed",
+      "source": {
+        "url": "https://sg2026.vaultsummit.xyz/",
+        "fetchedAt": "2026-09-20T08:01:29.223Z"
+      },
+      "sections": [
+        "About the event",
+        "Hosts and venue"
+      ]
+    },
+    {
+      "id": "premier-finalityforum",
+      "slug": "finality-forum-2026",
+      "name": "Finality Forum @ Token2049 SG 2026",
+      "status": "source-backed",
+      "source": {
+        "url": "https://luma.com/g2lg0htf",
+        "fetchedAt": "2026-09-20T07:56:55.046Z"
+      },
+      "sections": [
+        "About the event",
+        "About Finality Forum"
+      ]
     },
     {
       "id": "luma-crypto-iuFabSnK5cWmb7t",
@@ -6041,20 +6051,6 @@
       ]
     },
     {
-      "id": "token2049-side-6a5ea218d1b48ddf39d0835f",
-      "slug": "finality-forum",
-      "name": "Finality Forum @ Token2049 SG 2026",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/g2lg0htf",
-        "fetchedAt": "2026-09-19T23:56:00.152Z"
-      },
-      "sections": [
-        "About the event",
-        "About Finality Forum"
-      ]
-    },
-    {
       "id": "token2049-side-6a6026bf5a75007b41fff94b",
       "slug": "rwa-summit",
       "name": "RWA SUMMIT SINGAPORE",
@@ -6095,13 +6091,6 @@
       ]
     },
     {
-      "id": "token2049-side-6a739bc8d1b48ddf39d09e32",
-      "slug": "fpsq",
-      "name": "F1 Practice and Sprint Qualifying",
-      "status": "unavailable",
-      "sections": []
-    },
-    {
       "id": "w3v-yacht-party---crypto-whales",
       "slug": "ypcw",
       "name": "Yacht Party- Crypto Whales",
@@ -6128,6 +6117,20 @@
         "What to expect?",
         "For Sponsorships & Partnerships",
         "Previous Events"
+      ]
+    },
+    {
+      "id": "token2049-side-6a739bc8d1b48ddf39d09e32",
+      "slug": "fpsq",
+      "name": "F1 Practice and Sprint Qualifying",
+      "status": "source-backed",
+      "source": {
+        "url": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE",
+        "fetchedAt": "2026-09-20T07:56:58.376Z"
+      },
+      "sections": [
+        "About the event",
+        "Friday, 9 October"
       ]
     },
     {
@@ -6183,6 +6186,21 @@
       ]
     },
     {
+      "id": "token2049-side-6a7445ef7ef1577c1e37eca1",
+      "slug": "after-2049",
+      "name": "AFTER 2049: The official closing party of TOKEN2049",
+      "status": "source-backed",
+      "source": {
+        "url": "https://megatix.com.sg/events/after2049",
+        "fetchedAt": "2026-09-20T07:56:59.763Z"
+      },
+      "sections": [
+        "About the event",
+        "Access and timings",
+        "Dress code"
+      ]
+    },
+    {
       "id": "token2049-side-6a9a8659d567345aad6839ac",
       "slug": "institutional-table",
       "name": "The Institutional Table: Private Dinner on Tokenization, Stablecoins and Security | Token2049 Singapore",
@@ -6208,13 +6226,6 @@
       "sections": [
         "About the event"
       ]
-    },
-    {
-      "id": "token2049-side-6a7445ef7ef1577c1e37eca1",
-      "slug": "after-2049",
-      "name": "AFTER 2049: The official closing party of TOKEN2049",
-      "status": "unavailable",
-      "sections": []
     },
     {
       "id": "token2049-side-6aa173ecd567345aad6851be",
@@ -6280,13 +6291,6 @@
       ]
     },
     {
-      "id": "token2049-side-6a739c525a75007b4100108c",
-      "slug": "fsrgpq",
-      "name": "F1 Sprint Race and Grand Prix Qualifying",
-      "status": "unavailable",
-      "sections": []
-    },
-    {
       "id": "india-luma-3qtj8ogp",
       "slug": "rdvipfe",
       "name": "Road to Devcon VIII India - PUNE Final Edition",
@@ -6324,6 +6328,20 @@
       "sections": [
         "About the event",
         "Hosts"
+      ]
+    },
+    {
+      "id": "token2049-side-6a739c525a75007b4100108c",
+      "slug": "fsrgpq",
+      "name": "F1 Sprint Race and Grand Prix Qualifying",
+      "status": "source-backed",
+      "source": {
+        "url": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE",
+        "fetchedAt": "2026-09-20T07:56:58.376Z"
+      },
+      "sections": [
+        "About the event",
+        "Saturday, 10 October"
       ]
     },
     {
@@ -6416,13 +6434,6 @@
       ]
     },
     {
-      "id": "token2049-side-6a739ce35a75007b41001095",
-      "slug": "fgpnr",
-      "name": "F1 Singapore Grand Prix Night Race",
-      "status": "unavailable",
-      "sections": []
-    },
-    {
       "id": "token2049-side-6aa1745c967be0befa88d018",
       "slug": "best-event11",
       "name": "The Best Event: Grand Prix Trackside Penthouse Viewing",
@@ -6436,6 +6447,20 @@
         "THE EXPERIENCE",
         "Your Hosts",
         "Powered By"
+      ]
+    },
+    {
+      "id": "token2049-side-6a739ce35a75007b41001095",
+      "slug": "fgpnr",
+      "name": "F1 Singapore Grand Prix Night Race",
+      "status": "source-backed",
+      "source": {
+        "url": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE",
+        "fetchedAt": "2026-09-20T07:56:58.376Z"
+      },
+      "sections": [
+        "About the event",
+        "Sunday race program"
       ]
     },
     {
@@ -6760,8 +6785,17 @@
       "id": "premier-planblugano",
       "slug": "plan",
       "name": "Plan B Forum Lugano 2026",
-      "status": "unavailable",
-      "sections": []
+      "status": "source-backed",
+      "source": {
+        "url": "https://planb.lugano.ch/planb-forum/",
+        "fetchedAt": "2026-09-20T07:56:59.896Z"
+      },
+      "sections": [
+        "About the event",
+        "Two-day conference",
+        "Languages",
+        "Passes"
+      ]
     },
     {
       "id": "premier-toksummituk",
@@ -7041,8 +7075,16 @@
       "id": "ibw-official-ibw2026-pre-conference-vip-night-10-31",
       "slug": "ipcvn",
       "name": "IBW2026 Pre-Conference VIP Night",
-      "status": "unavailable",
-      "sections": []
+      "status": "source-backed",
+      "source": {
+        "url": "https://docs.google.com/spreadsheets/d/1NZ09OVlqElsM64oUm-8i1yh_A-U0p39BJECthwHCsLA/htmlview/sheet?headers=true&gid=0",
+        "fetchedAt": "2026-09-20T07:57:00.927Z"
+      },
+      "sections": [
+        "About the event",
+        "Access",
+        "Organizer"
+      ]
     },
     {
       "id": "premier-indiabw-2026",
@@ -7110,8 +7152,15 @@
       "id": "ibw-official-defi-security-summit-day-1-11-01",
       "slug": "dssd1",
       "name": "DeFi Security Summit - Day 1",
-      "status": "unavailable",
-      "sections": []
+      "status": "source-backed",
+      "source": {
+        "url": "https://defisecuritysummit.org/",
+        "fetchedAt": "2026-09-20T08:54:16.486Z"
+      },
+      "sections": [
+        "About the event",
+        "Day 1: 1 November 2026"
+      ]
     },
     {
       "id": "luma-crypto-8dntupEO60aiWT5",
@@ -7140,6 +7189,26 @@
       ]
     },
     {
+      "id": "premier-cypherpunk",
+      "slug": "ethereum2",
+      "name": "Ethereum Cypherpunk Congress #3",
+      "status": "source-backed",
+      "source": {
+        "url": "https://luma.com/spsnos9t",
+        "fetchedAt": "2026-09-20T07:56:56.136Z"
+      },
+      "sections": [
+        "About the event",
+        "The first batch of highly-curated speakers are here",
+        "COMMUNITY PARTNERS",
+        "Lasting cultural phenomenon",
+        "Connecting web2 + web3",
+        "Ethereum Social Layer (ESL)",
+        "Activation",
+        "High-level agenda"
+      ]
+    },
+    {
       "id": "ibw-official-multichain-day-devcon-mumbai-2026wrapped-11-02",
       "slug": "multichain-day2",
       "name": "Multichain Day | Devcon Mumbai 2026",
@@ -7151,26 +7220,6 @@
       "sections": [
         "About the event",
         "Partners"
-      ]
-    },
-    {
-      "id": "ibw-official-ethereum-cypherpunk-congress-3-11-02",
-      "slug": "ecc3",
-      "name": "Ethereum Cypherpunk Congress #3",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/spsnos9t",
-        "fetchedAt": "2026-09-19T23:30:10.478Z"
-      },
-      "sections": [
-        "About the event",
-        "The first batch of highly-curated speakers are here",
-        "COMMUNITY PARTNERS",
-        "Lasting cultural phenomenon",
-        "Connecting web2 + web3",
-        "Ethereum Social Layer (ESL)",
-        "Activation",
-        "High-level agenda"
       ]
     },
     {
@@ -7190,15 +7239,15 @@
       "id": "ibw-official-defi-security-summit-day-2-11-02",
       "slug": "dssd2",
       "name": "DeFi Security Summit - Day 2",
-      "status": "unavailable",
-      "sections": []
-    },
-    {
-      "id": "premier-cypherpunk",
-      "slug": "ethereum2",
-      "name": "Ethereum Cypherpunk Congress Mumbai 2026",
-      "status": "unavailable",
-      "sections": []
+      "status": "source-backed",
+      "source": {
+        "url": "https://defisecuritysummit.org/",
+        "fetchedAt": "2026-09-20T08:54:16.486Z"
+      },
+      "sections": [
+        "About the event",
+        "Day 2: 2 November 2026"
+      ]
     },
     {
       "id": "ibw-official-onchain-dev-city-india-11-02",
@@ -7221,8 +7270,16 @@
       "id": "ibw-official-ibw-official-after-party-11-02",
       "slug": "ioap",
       "name": "IBW Official After-Party",
-      "status": "unavailable",
-      "sections": []
+      "status": "source-backed",
+      "source": {
+        "url": "https://docs.google.com/spreadsheets/d/1NZ09OVlqElsM64oUm-8i1yh_A-U0p39BJECthwHCsLA/htmlview/sheet?headers=true&gid=0",
+        "fetchedAt": "2026-09-20T07:57:00.927Z"
+      },
+      "sections": [
+        "About the event",
+        "Organizer and schedule",
+        "Registration"
+      ]
     },
     {
       "id": "ibw-official-the-institutional-table-private-dinner-on-tokenization-stablecoins-and-s-11-02",
@@ -7311,6 +7368,22 @@
       ]
     },
     {
+      "id": "ibw-official-pragma-mumbai-11-05",
+      "slug": "pragma-mumbai",
+      "name": "Pragma Mumbai",
+      "status": "source-backed",
+      "source": {
+        "url": "https://ethglobal.com/events/pragma-mumbai",
+        "fetchedAt": "2026-09-20T08:54:20.881Z"
+      },
+      "sections": [
+        "About the event",
+        "Mumbai summit",
+        "What makes Pragma special",
+        "Tickets"
+      ]
+    },
+    {
       "id": "premier-blockchain-summit-latam-2026",
       "slug": "blockchain-summit-latam",
       "name": "Blockchain Summit Latam Colombia 2026",
@@ -7343,6 +7416,23 @@
       },
       "sections": [
         "About the event"
+      ]
+    },
+    {
+      "id": "premier-ethmumbai-2026",
+      "slug": "ethglobal1",
+      "name": "ETHGlobal Mumbai 2026",
+      "status": "source-backed",
+      "source": {
+        "url": "https://ethglobal.com/events/mumbai",
+        "fetchedAt": "2026-09-20T08:54:26.824Z"
+      },
+      "sections": [
+        "About the event",
+        "Mumbai 2026",
+        "Building formats",
+        "Themes",
+        "Venue"
       ]
     },
     {
@@ -7411,13 +7501,6 @@
         "Unlocking Endless Possibilities",
         "Want to Host Your Event?"
       ]
-    },
-    {
-      "id": "ibw-official-pragma-mumbai-11-05",
-      "slug": "pragma-mumbai",
-      "name": "Pragma Mumbai",
-      "status": "unavailable",
-      "sections": []
     },
     {
       "id": "premier-bitcoin-amsterdam-2026",
@@ -7496,13 +7579,6 @@
       ]
     },
     {
-      "id": "premier-ethmumbai-2026",
-      "slug": "ethglobal1",
-      "name": "ETHGlobal Mumbai 2026",
-      "status": "unavailable",
-      "sections": []
-    },
-    {
       "id": "ibw-official-ship-safe-devcon-mumbai-security-sessions-11-06",
       "slug": "ship-safe",
       "name": "Ship Safe: Devcon Mumbai Security Sessions by QuillAudits",
@@ -7569,9 +7645,19 @@
     {
       "id": "premier-unbanked",
       "slug": "the",
-      "name": "The (un)Banked Conference 2026",
-      "status": "unavailable",
-      "sections": []
+      "name": "The (un)Banked London 2026",
+      "status": "source-backed",
+      "source": {
+        "url": "https://theunbanked.finance/london",
+        "fetchedAt": "2026-09-20T08:01:42.139Z"
+      },
+      "sections": [
+        "About the event",
+        "London edition",
+        "Program",
+        "Attendance",
+        "Partnerships"
+      ]
     },
     {
       "id": "premier-bitcoinhistorico",
@@ -7586,6 +7672,22 @@
         "A Conference by the National Bitcoin Office of El Salvador",
         "National Palace",
         "Bitcoin Office & CUBO+"
+      ]
+    },
+    {
+      "id": "premier-bigwhale",
+      "slug": "the1",
+      "name": "The Big Whale Geneva Summit 2026",
+      "status": "source-backed",
+      "source": {
+        "url": "https://www.thebigwhale.io/summit",
+        "fetchedAt": "2026-09-20T08:54:27.848Z"
+      },
+      "sections": [
+        "About the event",
+        "Program",
+        "Attendance and discussion rules",
+        "Venue"
       ]
     },
     {
@@ -7606,13 +7708,6 @@
         "Generate Commercial Outcomes",
         "Who Attends"
       ]
-    },
-    {
-      "id": "premier-bigwhale",
-      "slug": "the1",
-      "name": "The Big Whale Summit 2026",
-      "status": "unavailable",
-      "sections": []
     },
     {
       "id": "premier-singapore-blockchain-week-2026",
@@ -7832,6 +7927,20 @@
       ]
     },
     {
+      "id": "premier-ethwomen",
+      "slug": "ethwomen",
+      "name": "ETHWomen Florida",
+      "status": "source-backed",
+      "source": {
+        "url": "https://luma.com/ETHWomen_FL",
+        "fetchedAt": "2026-09-20T07:56:56.828Z"
+      },
+      "sections": [
+        "Join us for the 6th Edition of ETHWomen, a free, female-focused, and inclusive event taking place on November 17-18, 2026",
+        "Running alongside Blockchain Futurist Conference, all participants of ETHWomen will also get access to the 2nd US edition of Canada's Largest Web3 event"
+      ]
+    },
+    {
       "id": "premier-nabsummit",
       "slug": "north",
       "name": "North American Blockchain Summit 2026",
@@ -7843,13 +7952,6 @@
       "sections": [
         "About the event"
       ]
-    },
-    {
-      "id": "premier-ethwomen",
-      "slug": "ethwomen",
-      "name": "ETHWomen Florida 2026",
-      "status": "unavailable",
-      "sections": []
     },
     {
       "id": "premier-cryptofest",
@@ -8161,8 +8263,17 @@
       "id": "ma-bitcoin-mena",
       "slug": "bitcoin-mena",
       "name": "Bitcoin Mena",
-      "status": "unavailable",
-      "sections": []
+      "status": "source-backed",
+      "source": {
+        "url": "https://mena.b.tc/event-update",
+        "fetchedAt": "2026-09-20T07:57:02.155Z"
+      },
+      "sections": [
+        "About the event",
+        "Organizer update",
+        "Existing tickets",
+        "Sponsors"
+      ]
     },
     {
       "id": "premier-gts-2026",

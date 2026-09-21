@@ -175,7 +175,9 @@ export function buildEditorialFromOrganizerDescription(event: Web3Event): EventE
   const { lead: firstSummaryParagraph, sections: parsedSections } =
     parseOrganizerDescriptionSections(ownDescription);
 
-  const summaryLead = factsLine
+  const summaryLead = event.eventStatus === 'EventPostponed'
+    ? `${event.name} has been postponed. New dates have not been announced.`
+    : factsLine
     ? `${event.name} on ${formattedDates} ${locationStr}. ${factsLine}.`
     : `${event.name} on ${formattedDates} ${locationStr}.`;
 

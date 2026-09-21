@@ -1,0 +1,192 @@
+{
+  "repairs": [
+    {
+      "id": "w3v-crypto-worlds-fair-hackathon-by-colosseum",
+      "kind": "reviewed",
+      "sourceUrl": "https://colosseum.com/worldsfair",
+      "contains": ["Crypto World's Fair", "An online hackathon bringing together builders and founders across all crypto ecosystems to launch breakout startups.", "Submissions due October 12, 2026", "$840,000"],
+      "description": "An online hackathon bringing together builders and founders across all crypto ecosystems to launch breakout startups.\n\n## Crypto World's Fair\n\nCrypto World’s Fair is an open competition of the ideas, technologies, and communities shaping the blockchain ecosystem.\n\nInspired by the historic world’s fairs, it brings together builders and founders who are ready to exhibit the products and innovations that are going to drive the next wave of crypto startups that bring the world's markets onchain.\n\n## Awards and opportunities\n\nCompete for $840,000 in prizes and $2.5 million in seed funding. Submissions are due October 12, 2026.\n\nAll Hackathon winners will be interviewed and considered for Colosseum’s accelerator program.\n\n## Livestream workshops\n\nAll workshops stream live on Discord. Join the Colosseum Discord to watch live, ask questions, and never miss a session.",
+      "patch": { "name": "Crypto World's Fair Hackathon by Colosseum", "attendanceMode": "online", "location": "Online", "city": "Online" },
+      "reason": "The source title and image-based heading did not match the old punctuation variant; the organizer's event-specific page provides the full program."
+    },
+    {
+      "id": "premier-ethsofia",
+      "kind": "reviewed",
+      "sourceUrl": "https://www.ethsofia.com/",
+      "contains": ["24 September 2026", "Sofia Tech Park", "ETHSofia is Bulgaria’s premier Ethereum-focused conference"],
+      "description": "ETHSofia is Bulgaria’s premier Ethereum-focused conference, bringing together builders, researchers, and institutions shaping the future of the original smart contract blockchain. With a strong regional lens and a global perspective, ETHSofia brings together local leaders and international experts to explore the latest Ethereum trends and use cases, from privacy-preserving infrastructure to real-world asset tokenization.\n\n## Main themes\n\n• Onchain privacy and scaling\n• Smart contract security and OPSEC\n• Consumer DeFi\n• Ethereum integrations into Web2\n\n## Who attends\n\nThe program brings together Ethereum teams building applications and core infrastructure, service providers supporting production-grade crypto experience, teams integrating Ethereum in Web2, security professionals focused on audits, risk and resilience, and developers and researchers across scaling, privacy, UX and protocol development.\n\n## Venue\n\nThe conference takes place on 24 September 2026 at Sofia Tech Park. The John Atanasoff Forum is part of Bulgaria's first science and technology park.",
+      "patch": { "startDate": "2026-09-24", "endDate": "2026-09-24", "timezone": "Europe/Sofia", "venueName": "John Atanasoff Forum, Sofia Tech Park", "location": "Sofia Tech Park, Sofia, Bulgaria" },
+      "reason": "Replaced the parent Blockchain Week homepage with ETHSofia's own 2026 event page and corrected the conference from a three-day listing to 24 September."
+    },
+    {
+      "id": "india-luma-scetu",
+      "kind": "quarantine",
+      "sourceUrl": "https://luma.com/SCETU",
+      "contains": ["Page Not Found"],
+      "reason": "The registration page now returns HTTP 404 and the current Team1 India calendar no longer lists this workshop. The archived organizer poster at /events/india-luma-scetu-c0944911.webp states 10 September 2026, while the stored listing states 23 September. Retain the original record for review; do not advertise an unconfirmed date or invent cancellation details."
+    },
+    {
+      "id": "premier-ethtokyo-2026",
+      "kind": "reviewed",
+      "sourceUrl": "https://ethglobal.com/events/tokyo2026",
+      "variant": "reader",
+      "contains": ["ETHGlobal Tokyo 2026", "September 25 – 27, 2026", "Toranomon Hills Forum", "ETHGlobal hackathons enable you to experiment"],
+      "description": "ETHGlobal hackathons enable you to experiment with cutting edge web3 technologies and develop an idea you're passionate about. This is your opportunity to learn about crypto, expand your network, meet industry professionals, and find like-minded people who are collectively creating a new kind of web.\n\n## Tokyo 2026\n\nThe Tokyo hackathon runs September 25–27, 2026 at Toranomon Hills Forum, on the fifth floor of Toranomon Hills Mori Tower. The organizer lists $75,000 available in prizes.\n\n## Themes and topics\n\n• Zero knowledge proofs\n• AI x Crypto\n• DeFi and crypto consumer applications\n• Layer 2s and interoperability\n• Public goods\n• Privacy, security and TEEs\n• Data availability, identity and developer tools\n\n## Building formats\n\nFor the first time ever, your project doesn't have to start at zero. Bring what you've already built.\n\nThe organizer offers three formats: From Scratch, Extend Open Source, and Ship a Feature. The published rules specify teams of 1–5 members and up to three sponsor SDKs.\n\n## Participation\n\nThe event is beginner friendly and includes technical mentorship, curated content, exclusive swag, and free food and drinks.",
+      "patch": { "timezone": "Asia/Tokyo", "venueName": "Toranomon Hills Forum (5th floor)", "streetAddress": "1 Chome-23-3 Toranomon, Toranomon Hills Mori Tower 5F", "addressLocality": "Minato City", "addressCountry": "JP", "postalCode": "105-0001", "location": "Toranomon Hills Forum, 1 Chome-23-3 Toranomon, Minato City, Tokyo 105-0001, Japan" },
+      "reason": "Recovered the organizer's page through a readable public rendering; the direct endpoint returns HTTP 500 despite publishing event content."
+    },
+    { "id": "premier-solidusroundtable", "kind": "luma", "sourceUrl": "https://luma.com/fop77t0t", "contains": ["Crypto Compliance and Legal Roundtable", "Solidus Labs", "Yulchon"], "eventId": "evt-1XCx48uyAdwb72y", "reason": "Matched the shortened curated title to the exact Solidus Labs and Yulchon event instead of the company homepage." },
+    { "id": "premier-onchaincapital", "kind": "luma", "sourceUrl": "https://luma.com/uz21gg7p", "contains": ["Onchain Capital & Liquidity", "Seoul"], "eventId": "evt-SZI6XvDhbmFz2tH", "reason": "Located the organizer's exact Seoul registration page instead of lil room's general homepage." },
+    { "id": "premier-instonchain", "kind": "luma", "sourceUrl": "https://luma.com/qsfjc56x", "contains": ["Institutional Onchain", "RWAs & Stablecoins", "Seoul"], "eventId": "evt-a0PGWXfAij4vNVH", "reason": "Located the exact institutional forum source and verified its identity against the existing Luma record." },
+    { "id": "token2049-side-6a5dff0dd1b48ddf39d0827c", "kind": "luma", "sourceUrl": "https://luma.com/event/evt-SRSeRqJykejGWY3", "contains": ["CoinFerenceX The Best Event Singapore"], "eventId": "evt-SRSeRqJykejGWY3", "keepSession": true, "patch": { "name": "CoinFerenceX Singapore 2026 - Day 1", "startDate": "2026-10-05", "endDate": "2026-10-05" }, "reason": "Use the organizer's conference description for its first day; do not retain unverified clock times from the older side-event listing." },
+    { "id": "token2049-side-6a5dff0ed1b48ddf39d0827e", "kind": "luma", "sourceUrl": "https://luma.com/event/evt-SRSeRqJykejGWY3", "contains": ["CoinFerenceX The Best Event Singapore"], "eventId": "evt-SRSeRqJykejGWY3", "keepSession": true, "patch": { "name": "CoinFerenceX Singapore 2026 - Day 2", "startDate": "2026-10-06", "endDate": "2026-10-06" }, "reason": "Use the organizer's conference description for its second day while preserving its separate calendar date." },
+    { "id": "premier-finalityforum", "kind": "luma", "sourceUrl": "https://luma.com/g2lg0htf", "contains": ["Finality Forum", "Token2049", "Singapore"], "eventId": "evt-l0Q2lprJGf8HgEj", "reason": "The event-specific registration page confirms 9 October, replacing the incorrect 7 October record linked to a company homepage." },
+    {
+      "id": "token2049-side-6aa41e96c0426d278bd87cfe", "kind": "reviewed", "sourceUrl": "https://www.token2049.com/singapore/nexus-startup-competition",
+      "contains": ["NEXUS 2026 applications are closed", "7-8 Oct", "Startup Competition", "Applying is free, and selection is merit-based"],
+      "description": "NEXUS is TOKEN2049's startup competition for early-stage crypto companies. The organizer's 2026 competition runs on 7–8 October in Singapore, with founders pitching for equity-free prizes and meeting Web3 investors.\n\n## Competition\n\nThe organizer lists a $250,000 prize pool and ten finalists. Startups must have been incorporated from 2023 onwards and raised less than $5 million in investments. Applying is free, and selection is merit-based.\n\n## Finalist access\n\nTop ten finalists receive a complimentary startup stand, full TOKEN2049 access on 7–8 October, speaker perks, three complimentary team tickets, photography and session recordings, and event marketing coverage.\n\n## Application status\n\nNEXUS 2026 applications are closed. The organizer is accepting waitlist registrations for NEXUS 2027.",
+      "patch": { "venueName": "Marina Bay Sands", "registrationAvailability": "applications-closed" },
+      "reason": "This is a session of NEXUS, not a separately titled conference. Verified the program-level description without replacing the first round's calendar date."
+    },
+    { "id": "token2049-side-6a71f32ad1b48ddf39d09b86", "kind": "luma", "sourceUrl": "https://luma.com/8oxs8lco", "contains": ["Agentic Finance Summit", "Suntec", "October 8, 2026"], "eventId": "evt-qX07lwutcaNh5Fn", "reason": "Replaced the discarded URL shortener with the matching organizer registration page." },
+    {
+      "id": "token2049-side-6aa41f2ac0426d278bd87d05", "kind": "reviewed", "sourceUrl": "https://www.token2049.com/singapore/nexus-startup-competition",
+      "contains": ["NEXUS 2026 applications are closed", "Top 10 Finalist", "7-8 Oct", "The jury will be able to make offers to invest outside of the prize grant"],
+      "description": "The NEXUS final round is part of TOKEN2049's 7–8 October 2026 startup competition in Singapore. Early-stage crypto startups pitch for equity-free prizes before an expert jury and the TOKEN2049 community.\n\n## Finalists and prizes\n\nThe organizer lists ten finalists and a $250,000 prize pool. The jury may make investment offers outside the prize grant.\n\n## What finalists receive\n\n• An opportunity to compete for partner prizes\n• A complimentary startup stand at TOKEN2049 Singapore\n• Full access to TOKEN2049 on 7–8 October\n• Speaker reception, networking drinks and lounge access\n• Three complimentary tickets for the team and its network\n• Photography, on-stage pitch recordings and marketing coverage\n\n## Applications\n\nApplying is free and selection is merit-based. Applications for NEXUS 2026 have closed; the organizer now offers a 2027 waitlist.",
+      "patch": { "venueName": "Marina Bay Sands", "registrationAvailability": "applications-closed" },
+      "reason": "Verified the named competition and its finalist program rather than rejecting the final-round session label."
+    },
+    {
+      "id": "token2049-side-6aa41d6d8ffcc4e5ece10d0f", "kind": "reviewed", "sourceUrl": "https://www.token2049.com/singapore/2049-origins",
+      "contains": ["Compete for prizes, grants, and accelerator spots", "6-8 Oct", "$150,000", "Demo on the TOKEN2049 stage"],
+      "description": "The Origins prize ceremony concludes the TOKEN2049 Origins hackathon program in Singapore. The organizer's 6–8 October program gives builders 36 hours to develop a working product, receive mentorship and demo on the TOKEN2049 stage.\n\n## Prizes and tracks\n\nThe organizer lists a $150,000 prize pool. Tracks include agentic commerce on Cardano, workflows using the Chainlink Runtime Environment, multichain infrastructure with NOWNodes, and applications built on Solana. Teams compete for prizes, grants and accelerator opportunities.\n\n## Participation\n\nOrigins is free, including food, drinks and conference access. Physical attendance at Marina Bay Sands is required for the full hackathon; remote participation is not offered. Teams may have up to four members, and solo applicants are welcome.",
+      "patch": { "venueName": "Marina Bay Sands", "price": "Free" },
+      "reason": "Matched the ceremony to the organizer's Origins program and used its published prize and participation details without inventing a ceremony agenda."
+    },
+    {
+      "id": "premier-stablecoinsg", "kind": "reviewed", "sourceUrl": "https://stablecoinsummit.com/",
+      "contains": ["8 October 2026", "Andaz Singapore", "Designed for enterprises and financial institutions engaged in high-volume cross-border payments"],
+      "description": "Asia's premier event for stablecoin innovation. We bring together government, institutions, fintech leaders, and blockchain pioneers to explore the future of digital money.\n\nDesigned for enterprises and financial institutions engaged in high-volume cross-border payments, we focus on real-world use cases, trustless transactions, transparency, and security.\n\nJoin us for expert insights, technical deep dives, and top-tier networking.\n\n## Stablecoin Summit 2026\n\nThe XREX event takes place on 8 October 2026 at Andaz Singapore.",
+      "patch": { "startDate": "2026-10-08", "endDate": "2026-10-08", "timezone": "Asia/Singapore", "venueName": "Andaz Singapore", "location": "Andaz Singapore, Singapore" },
+      "reason": "Replaced XREX's company homepage with the summit's official event website."
+    },
+    { "id": "premier-vntr", "kind": "luma", "sourceUrl": "https://luma.com/w5ck9zwq", "contains": ["VNTR Capital Allocators Forum Singapore"], "eventId": "evt-2bmdPRcv3J5m1I5", "reason": "Matched the renamed forum and corrected the older 8 October listing to the organizer's actual 6 October event." },
+    {
+      "id": "token2049-side-6a622e12d1b48ddf39d08981", "kind": "reviewed", "sourceUrl": "https://sg2026.vaultsummit.xyz/", "variant": "rendered",
+      "contains": ["Fri, Oct 9 2026, 9:00 AM", "6:00 PM", "Vault Summit is a global conference series focused on onchain vault infrastructure for institutional asset management", "Morpho", "DigiFT"],
+      "description": "Vault Summit is a global conference series focused on onchain vault infrastructure for institutional asset management.\n\nInstitutional confidence in on-chain asset management, built vault by vault.\n\nThis is Vault Summit: Singapore.\n\n## Hosts and venue\n\nMorpho and DigiFT host the Singapore summit at Andaz Singapore on 9 October 2026, from 9:00 AM to 6:00 PM Singapore time.",
+      "patch": { "name": "Vault Summit: Singapore", "timezone": "Asia/Singapore", "venueName": "Andaz Singapore", "location": "Andaz Singapore, 5 Fraser St, Singapore 189354", "streetAddress": "5 Fraser St", "addressLocality": "Singapore", "addressCountry": "SG", "postalCode": "189354", "hosts": ["Morpho", "DigiFT"] },
+      "reason": "Recovered the organizer's BlockLive event content after client-side rendering; the initial HTML body was empty."
+    },
+    {
+      "id": "token2049-side-6a739bc8d1b48ddf39d09e32", "kind": "reviewed", "sourceUrl": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE",
+      "contains": ["FRIDAY 9 OCTOBER", "FIRST PRACTICE SESSION16:30 - 17:30", "SPRINT QUALIFYING20:30 - 21:14", "Singapore is 8 hours ahead of UTC"],
+      "description": "Friday's Formula 1 program at the 2026 Singapore Grand Prix includes the first practice session and Sprint Qualifying at the Marina Bay Street Circuit.\n\n## Friday, 9 October\n\n• 16:30–17:30: Formula 1 first practice session\n• 18:30–19:30: Teams' press conference\n• 20:30–21:14: Sprint Qualifying\n\nTimes are local to Singapore, which is eight hours ahead of UTC. The official timetable is subject to change.",
+      "patch": { "startDate": "2026-10-09T16:30:00+08:00", "endDate": "2026-10-09T21:14:00+08:00", "timezone": "Asia/Singapore", "location": "Marina Bay Street Circuit, Singapore", "venueName": "Marina Bay Street Circuit" },
+      "reason": "Replaced the generic circuit homepage and incorrect daytime hours with Formula 1's session-specific official timetable."
+    },
+    {
+      "id": "token2049-side-6a7445ef7ef1577c1e37eca1", "kind": "reviewed", "sourceUrl": "https://megatix.com.sg/events/after2049",
+      "contains": ["AFTER 2049 presents Claptone and Crusy", "Doors open: 7:00 pm", "Marina Bay Sands SkyPark Observation Deck", "Minimum age: 18 years old"],
+      "description": "AFTER 2049 presents Claptone and Crusy.\n\nAFTER 2049 returns to the roof on Friday, 9 October 2026, at the Marina Bay Sands SkyPark Observation Deck.\n\nClaptone takes over the MBS SkyPark for this year’s AFTER 2049, joined by Crusy and returning AFTER 2049 residents ANONM, Leon, Milam and Mo-Shi.\n\n360° spatial audio by Polygon Live is exclusive to AFTER 2049 in Asia for 2026.\n\n## Access and timings\n\n• Doors open at 7:00 PM.\n• Entry is not guaranteed after 11:00 PM.\n• There is no re-entry after midnight; entry is subject to venue capacity.\n• The minimum age is 18, and valid photo ID is required.\n\n## Dress code\n\nSmart casual. No athletic wear, leisure wear, flip flops or shorts. Management reserves the right to deny entry.",
+      "patch": { "startDate": "2026-10-09T19:00:00+08:00", "timezone": "Asia/Singapore", "venueName": "Marina Bay Sands SkyPark Observation Deck", "location": "Marina Bay Sands SkyPark Observation Deck, 10 Bayfront Avenue, Singapore 018956", "streetAddress": "10 Bayfront Avenue", "addressLocality": "Singapore", "addressCountry": "SG", "postalCode": "018956" },
+      "clearFields": ["endDate"],
+      "reason": "Verified the authorized ticket seller's full description and 7 PM doors time. Removed the unsupported fixed closing time because the source says 'until late'."
+    },
+    {
+      "id": "token2049-side-6a739c525a75007b4100108c", "kind": "reviewed", "sourceUrl": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE",
+      "contains": ["SATURDAY 10 OCTOBER", "SPRINT (21 Laps or 60 Mins)17:00 - 17:30", "QUALIFYING SESSION21:00 - 22:00"],
+      "description": "Saturday's Formula 1 program at the 2026 Singapore Grand Prix includes the Sprint and Grand Prix qualifying at the Marina Bay Street Circuit.\n\n## Saturday, 10 October\n\n• 17:00–17:30: Formula 1 Sprint, listed as 21 laps or 60 minutes\n• 17:30–18:00: Formula 1 press conference\n• 21:00–22:00: Grand Prix qualifying session\n• 22:00–23:00: Formula 1 press conference\n\nTimes are local to Singapore. The organizer notes that the timetable is subject to change.",
+      "patch": { "startDate": "2026-10-10T17:00:00+08:00", "endDate": "2026-10-10T22:00:00+08:00", "timezone": "Asia/Singapore", "location": "Marina Bay Street Circuit, Singapore", "venueName": "Marina Bay Street Circuit" },
+      "reason": "Used the sport organizer's exact Sprint and qualifying sessions instead of a generic parent-page description."
+    },
+    {
+      "id": "token2049-side-6a739ce35a75007b41001095", "kind": "reviewed", "sourceUrl": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE",
+      "contains": ["SUNDAY 11 OCTOBER", "GRAND PRIX (62 LAPS OR 120 MINS)20:00 - 22:00", "4.927-kilometre Marina Bay Street Circuit"],
+      "description": "The Formula 1 Singapore Airlines Singapore Grand Prix 2026 takes place over 62 laps of the 4.927-kilometre Marina Bay Street Circuit on Sunday, 11 October.\n\n## Sunday race program\n\n• 18:00–18:30: Drivers' parade\n• 19:44–19:46: National anthem\n• 20:00–22:00: Grand Prix, listed as 62 laps or 120 minutes\n\nTimes are local to Singapore, eight hours ahead of UTC. The official timetable is subject to change.",
+      "patch": { "startDate": "2026-10-11T20:00:00+08:00", "endDate": "2026-10-11T22:00:00+08:00", "timezone": "Asia/Singapore", "location": "Marina Bay Street Circuit, Singapore", "venueName": "Marina Bay Street Circuit" },
+      "reason": "Corrected the race start from the older 4 PM listing to Formula 1's official 8 PM Singapore start."
+    },
+    {
+      "id": "premier-planblugano", "kind": "reviewed", "sourceUrl": "https://planb.lugano.ch/planb-forum/",
+      "contains": ["PLAN ₿ FORUM, 23-24 OCTOBER 2026, LUGANO", "Lugano’s Plan ₿ Forum is the premier Bitcoin conference", "Palazzo dei Congressi"],
+      "description": "Lugano’s Plan ₿ Forum is the premier Bitcoin conference bringing together world leaders, technologists, and entrepreneurs to discuss nation-state Bitcoin adoption, economics, financial freedom, and freedom of speech.\n\n## Two-day conference\n\nThe forum takes place on 23–24 October 2026 in Lugano. Conference access covers the Convention Centre, Villa Ciani and Ex-Asilo Ciani, with keynotes, panels, workshops, a Bitcoin art gallery, and startup and sponsor exhibitions.\n\n## Languages\n\nThe event will be conducted in English, but real-time translations in Italian will be provided for the main keynotes and panels. Headsets will be provided on premise.\n\n## Passes\n\nThe published Peer ticket includes keynotes, panels, masterclasses, sponsor exhibitions and one-to-one matched networking. The Cyber Punk ticket adds VIP check-in, front-row seating, speaker meals on both days and VIP-lounge access.",
+      "patch": { "startDate": "2026-10-23", "endDate": "2026-10-24", "timezone": "Europe/Zurich", "venueName": "Palazzo dei Congressi", "location": "Palazzo dei Congressi, Lugano, Switzerland" },
+      "reason": "Found the event-specific Plan B Forum page rather than the city's general Bitcoin initiative homepage."
+    },
+    {
+      "id": "ibw-official-ibw2026-pre-conference-vip-night-10-31", "kind": "reviewed", "sourceUrl": "https://docs.google.com/spreadsheets/d/1NZ09OVlqElsM64oUm-8i1yh_A-U0p39BJECthwHCsLA/htmlview/sheet?headers=true&gid=0",
+      "contains": ["India Blockchain Week (IBW) 2026 Events", "Oct-31 (Sat)19:00:0023:00:00IBW2026 Pre-Conference VIP NightHashed EmergentPartyTBD"],
+      "evidence": [{ "url": "https://indiablockchainweek.com/", "contains": ["VIP Dinner Night (pre-conference)", "VIP Pass", "Nov 1 & 2, 2026"] }],
+      "description": "Hashed Emergent's IBW2026 Pre-Conference VIP Night takes place on Saturday, 31 October, from 7:00 PM to 11:00 PM, ahead of the two-day India Blockchain Week conference in Mumbai.\n\n## Access\n\nThe organizer includes the pre-conference VIP Dinner Night in its VIP Pass benefits. The official event calendar currently lists the separate registration link as TBD, so VIP access should be arranged through the organizer's ticket page.\n\n## Organizer\n\nHashed Emergent hosts the VIP night and the IBW2026 Conference, which runs on 1–2 November at Fairmont Mumbai. The calendar does not separately confirm the VIP-night venue.",
+      "patch": { "approvalRequired": true, "registrationUrl": "https://indiablockchainweek.com/", "timezone": "Asia/Kolkata" },
+      "reason": "Combined the exact organizer calendar row with the official VIP-pass benefit; did not infer the dinner venue from the main conference venue."
+    },
+    {
+      "id": "ibw-official-defi-security-summit-day-1-11-01", "kind": "reviewed", "sourceUrl": "https://defisecuritysummit.org/", "variant": "reader",
+      "contains": ["1-2 November 2026 / Mumbai, India", "DSS returns during Devcon week in Mumbai for two days of talks, workshops, and community work on practical DeFi security"],
+      "description": "DSS returns during Devcon week in Mumbai for two days of talks, workshops, and community work on practical DeFi security.\n\n## Day 1: 1 November 2026\n\nThe first day of DeFi Security Summit is included in the official India Blockchain Week calendar from 10:00 AM to 7:00 PM. The summit continues on 2 November.\n\nThe organizer's site also contains the 2025 Buenos Aires recap and timetable. Those historical sessions are not the 2026 Mumbai program.",
+      "evidence": [{ "url": "https://docs.google.com/spreadsheets/d/1NZ09OVlqElsM64oUm-8i1yh_A-U0p39BJECthwHCsLA/htmlview/sheet?headers=true&gid=0", "contains": ["Nov-1 (Sun)10:00:0019:00:00DeFi Security Summit - Day 1"] }],
+      "patch": { "timezone": "Asia/Kolkata" },
+      "reason": "Recovered the organizer's 2026 announcement from its rendered page and separated it from the much longer 2025 recap."
+    },
+    {
+      "id": "ibw-official-defi-security-summit-day-2-11-02", "kind": "reviewed", "sourceUrl": "https://defisecuritysummit.org/", "variant": "reader",
+      "contains": ["1-2 November 2026 / Mumbai, India", "DSS returns during Devcon week in Mumbai for two days of talks, workshops, and community work on practical DeFi security"],
+      "description": "DSS returns during Devcon week in Mumbai for two days of talks, workshops, and community work on practical DeFi security.\n\n## Day 2: 2 November 2026\n\nThe second day of DeFi Security Summit is included in the official India Blockchain Week calendar from 10:00 AM to 7:00 PM. It concludes the organizer's 1–2 November summit in Mumbai.\n\nThe detailed 2025 Buenos Aires sessions displayed elsewhere on the organizer's site belong to the previous edition, not this Mumbai event.",
+      "evidence": [{ "url": "https://docs.google.com/spreadsheets/d/1NZ09OVlqElsM64oUm-8i1yh_A-U0p39BJECthwHCsLA/htmlview/sheet?headers=true&gid=0", "contains": ["Nov-2 (Mon)10:00:0019:00:00DeFi Security Summit - Day 2"] }],
+      "patch": { "timezone": "Asia/Kolkata" },
+      "reason": "Verified the second-day calendar entry and used only the organizer's current Mumbai announcement."
+    },
+    { "id": "premier-cypherpunk", "kind": "luma", "sourceUrl": "https://luma.com/spsnos9t", "contains": ["Ethereum Cypherpunk Congress #3", "Cypherpunk Congress is coming to India"], "eventId": "evt-CyZRiDdLECiCPRS", "reason": "Located the exact Congress #3 registration page instead of the parent Web3Privacy organization website." },
+    {
+      "id": "ibw-official-ibw-official-after-party-11-02", "kind": "reviewed", "sourceUrl": "https://docs.google.com/spreadsheets/d/1NZ09OVlqElsM64oUm-8i1yh_A-U0p39BJECthwHCsLA/htmlview/sheet?headers=true&gid=0",
+      "contains": ["India Blockchain Week (IBW) 2026 Events", "Nov-2 (Mon)19:00:0023:00:00⚡ IBW Official After-Party 🕺Hashed EmergentPartyTBD"],
+      "description": "The official India Blockchain Week after-party is hosted by Hashed Emergent on Monday, 2 November 2026, from 7:00 PM to 11:00 PM. It follows the second day of the IBW2026 Conference in Mumbai.\n\n## Organizer and schedule\n\nThe organizer's IBW2026 event calendar identifies this as a party hosted by Hashed Emergent. The same calendar lists the main conference on 1–2 November.\n\n## Registration\n\nThe separate after-party registration link is marked TBD in the official calendar. The calendar does not provide a confirmed party venue or ticket price; the organizer's source should be checked for those details before attending.",
+      "patch": { "registrationUrl": "https://indiablockchainweek.com/ibw_2026/side-events", "timezone": "Asia/Kolkata" },
+      "clearFields": ["price", "venueName", "streetAddress", "ticketOffers"],
+      "reason": "Verified the actual closing-party row and organizer without inventing entertainment, admission terms, venue or price."
+    },
+    {
+      "id": "ibw-official-pragma-mumbai-11-05", "kind": "reviewed", "sourceUrl": "https://ethglobal.com/events/pragma-mumbai", "variant": "reader",
+      "contains": ["Join us on November 4, 2026 in Mumbai", "Pragma is designed to be a different kind of event", "Grand Hyatt Mumbai"],
+      "description": "Pragma is designed to be a different kind of event. We bring together a small group of founders and builders to discuss the future of web3 and reflect on the past.\n\n## Mumbai summit\n\nJoin ETHGlobal on 4 November 2026 in Mumbai for a summit showcasing the best of Web3. The venue is Grand Hyatt Mumbai.\n\n## What makes Pragma special\n\n• No parallel sessions\n• Invite only\n• Top founders\n• Curated content\n• Beginner friendly\n• Intimate discussions\n\n## Tickets\n\nThe organizer lists early-bird Network, Hacker and General passes. Full access covers talks, interviews and panels, with opportunities to connect with speakers and attendees. See the organizer's checkout for the current pass conditions.",
+      "patch": { "startDate": "2026-11-04", "endDate": "2026-11-04", "timezone": "Asia/Kolkata", "venueName": "Grand Hyatt Mumbai", "location": "Grand Hyatt Mumbai, Bandra Kurla Complex, Siddharath Nagar, Vakola, Mumbai, Maharashtra 400055, India", "postalCode": "400055", "approvalRequired": true },
+      "reason": "The organizer's event page confirms 4 November, correcting the older 5 November side-calendar entry."
+    },
+    {
+      "id": "premier-ethmumbai-2026", "kind": "reviewed", "sourceUrl": "https://ethglobal.com/events/mumbai", "variant": "reader",
+      "contains": ["November 5 – 7, 2026", "Jio World Convention Centre", "$175,000", "ETHGlobal hackathons enable you to experiment"],
+      "description": "ETHGlobal hackathons enable you to experiment with cutting edge web3 technologies and develop an idea you're passionate about. This is your opportunity to learn about crypto, expand your network, meet industry professionals, and find like-minded people who are collectively creating a new kind of web.\n\n## Mumbai 2026\n\nThe Mumbai hackathon runs 5–7 November 2026 at Jio World Convention Centre. The organizer lists $175,000 available in prizes.\n\n## Building formats\n\nProjects can start from scratch, extend an open-source repository, or ship a new open-source feature on an existing product during the event. The published rules specify teams of 1–5 members and up to three sponsor SDKs.\n\n## Themes\n\nThe published themes include zero knowledge proofs, AI x Crypto, DeFi, crypto consumer applications, Layer 2s, interoperability, public goods, privacy and security, TEEs, data availability, identity and developer tools.\n\n## Venue\n\nJio World Centre, G Block, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400098, India.",
+      "patch": { "startDate": "2026-11-05", "endDate": "2026-11-07", "timezone": "Asia/Kolkata", "venueName": "Jio World Convention Centre", "location": "Jio World Centre, G Block, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400098, India", "postalCode": "400098" },
+      "reason": "Recovered the organizer's complete event page and corrected the listing from 6–8 November to the published 5–7 November dates."
+    },
+    {
+      "id": "premier-unbanked", "kind": "reviewed", "sourceUrl": "https://theunbanked.finance/london", "variant": "rendered",
+      "contains": ["The (un)Banked lands in London", "November 9", "Landing Canary Wharf", "The (un)Banked is invite-only"],
+      "description": "The (un)Banked lands in London — an invite-only gathering of banks, fintechs, and digital asset leaders shaping the next chapter of European finance.\n\n## London edition\n\nThe conference takes place on 9 November 2026 at Landing Canary Wharf, a waterside venue in London's Canary Wharf business district.\n\n## Program\n\nThe published program covers institutional tokenisation, custody and board-level risk, stablecoin payments, institutional capital and digital assets, and the FCA, MiCA and regulatory landscape. Registration and coffee begin at 10:00 AM, with closing remarks and networking at 4:30 PM.\n\n## Attendance\n\nThe (un)Banked is invite-only. Register your interest and our team will be in touch with confirmed guests.\n\n## Partnerships\n\nSponsorship, media, community partnerships and speakership for the London Edition are open.",
+      "patch": { "name": "The (un)Banked London 2026", "startDate": "2026-11-09", "endDate": "2026-11-09", "city": "London", "country": "United Kingdom", "attendanceMode": "offline", "timezone": "Europe/London", "venueName": "Landing Canary Wharf", "location": "Landing Canary Wharf, London, United Kingdom", "approvalRequired": true },
+      "reason": "Found the organizer's client-rendered London edition. Corrected the older two-day online listing to the one-day London event."
+    },
+    {
+      "id": "premier-bigwhale", "kind": "reviewed", "sourceUrl": "https://www.thebigwhale.io/summit",
+      "contains": ["Geneva Summit2026", "12–13November 2026", "Hotel President Wilson", "47, Quai Wilson", "In November 2026, we host the inaugural edition"],
+      "description": "In November 2026, we host the inaugural edition of the Geneva Summit in Geneva. Join your peers in a cohort of 300 hand-picked decision-makers from leading banks and asset management firms to define the standards of tomorrow's finance industry together.\n\n## Program\n\nTwo days of panels, workshops and closed-door sessions cover custody, institutional infrastructure, stablecoins, cross-border settlement, real-asset tokenization, regulated AI agents and capital strategy.\n\n## Attendance and discussion rules\n\nThe Summit is invitation-only and reserved for senior decision-makers from financial institutions, asset managers, regulators and enterprise firms. The Big Whale Corporate Members receive priority access.\n\nAll discussions are held under Chatham House Rule. There are no recordings or press access. No participation fee applies; attendance conditions are communicated after application approval.\n\n## Venue\n\nHotel President Wilson, 47 Quai Wilson, 1211 Geneva 8, Switzerland. The summit runs on 12–13 November 2026.",
+      "patch": { "name": "The Big Whale Geneva Summit 2026", "startDate": "2026-11-12", "endDate": "2026-11-13", "city": "Geneva", "country": "Switzerland", "timezone": "Europe/Zurich", "venueName": "Hotel President Wilson", "location": "Hotel President Wilson, 47 Quai Wilson, 1211 Geneva, Switzerland", "streetAddress": "47 Quai Wilson", "addressLocality": "Geneva", "addressCountry": "CH", "postalCode": "1211", "approvalRequired": true, "price": "Free" },
+      "reason": "Found the publisher's summit microsite and corrected the outdated Paris location to Geneva."
+    },
+    { "id": "premier-ethwomen", "kind": "luma", "sourceUrl": "https://luma.com/ETHWomen_FL", "contains": ["ETHWomen Florida", "November 17–18, 2026", "Entice Nightclub"], "eventId": "evt-32pSpWnXECleHBG", "reason": "Located the exact ETHWomen registration page and corrected its dates and Florida venue from the organizer's current event data." },
+    {
+      "id": "ma-bitcoin-mena", "kind": "reviewed", "sourceUrl": "https://mena.b.tc/event-update",
+      "contains": ["Bitcoin MENA is moving to 2027", "reschedule Bitcoin MENA to 2027", "We will share the precise dates in the upcoming months"],
+      "description": "Following extensive discussions with our local partners we have decided to reschedule Bitcoin MENA to 2027. We will share the precise dates in the upcoming months.\n\n## Organizer update\n\nThe organizer is committed to returning to the UAE in Winter 2027. Exact new dates have not been announced. The previous December 2026 dates should not be used for travel planning.\n\n## Existing tickets\n\nYour ticket automatically carries over to the new dates. You do not need to do anything. Ticket holders may also request a refund through the organizer's contact form.\n\n## Sponsors\n\nYour commitment carries forward to 2027, and our team will be in touch directly to walk through the details and make sure everything you planned for still delivers.",
+      "patch": { "eventStatus": "EventPostponed", "registrationAvailability": "postponed" },
+      "clearFields": ["ticketOffers", "price"],
+      "reason": "The 2026 event has officially been moved to 2027 without precise replacement dates. Publish the actual postponement announcement instead of a fabricated description or new date."
+    }
+  ],
+  "relatedRepairs": [
+    { "id": "premier-perpsinst", "kind": "luma", "sourceUrl": "https://luma.com/v6bkeysx", "contains": ["Perps", "Institutional", "Seoul"], "eventId": "evt-USmNC1PxmwCRB7C", "reason": "A second curated lil room entry became visible when the earlier generic-homepage duplicate was corrected. Match it to the verified Perps event rather than leave an uncovered duplicate." },
+    { "id": "w3v-ethereum-cypherpunk-congress-mumbai", "kind": "luma", "sourceUrl": "https://luma.com/spsnos9t", "contains": ["Ethereum Cypherpunk Congress #3", "Cypherpunk Congress is coming to India"], "eventId": "evt-CyZRiDdLECiCPRS", "reason": "Align the duplicate feed entry with the same verified Congress #3 record so both legacy URLs resolve to sourced content." }
+  ]
+}

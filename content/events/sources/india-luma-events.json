@@ -657,7 +657,14 @@
     "location": "Sarvajanik College of Engineering & Technology",
     "url": "https://luma.com/SCETU",
     "coverImage": "/events/india-luma-scetu-c0944911.webp",
-    "source": "luma-india"
+    "source": "luma-india",
+    "publicationStatus": "needs-review",
+    "sourceReview": {
+      "checkedAt": "2026-09-20T07:57:03.608Z",
+      "url": "https://luma.com/SCETU",
+      "reason": "The registration page now returns HTTP 404 and the current Team1 India calendar no longer lists this workshop. The archived organizer poster at /events/india-luma-scetu-c0944911.webp states 10 September 2026, while the stored listing states 23 September. Retain the original record for review; do not advertise an unconfirmed date or invent cancellation details."
+    },
+    "slug": "tiuws"
   },
   {
     "id": "india-luma-zd0c5ys7",

@@ -38,6 +38,8 @@
     "refresh:official-event-descriptions": "tsx scripts/refresh-official-event-descriptions.ts",
     "audit:event-content": "tsx scripts/audit-event-content-origin.ts",
     "test:official-event-descriptions": "tsx scripts/test-official-event-description.ts",
+    "recover:event-sources": "tsx scripts/recover-event-source-gaps.ts",
+    "test:event-source-recovery": "tsx scripts/test-event-source-recovery.ts",
     "test:job-slugs": "npx tsx scripts/test-job-slug-reserved.ts",
     "test:agent-readiness": "npx tsx scripts/test-agent-readiness.ts",
     "test:event-schema": "npx tsx scripts/test-event-schema.ts",

@@ -89,3 +89,18 @@ The fetcher checks event identity and edition before accepting Event JSON-LD, or
 - Historical handwritten guides remain in `src/lib/event-guides.ts` as an unused reference; image overrides remain in `content/event-image-overrides.json`.
 
 The page presentation follows the existing Hashtagweb3 event typography and colors. Section spacing separates topics; list markers distinguish steps from prose. The content remains static for reading (energy 1, rhythm 1, motion 1).
+
+## Reviewed source recovery
+
+`source-recovery.json` records the reviewed event-specific sources used to resolve missing descriptions. It includes explicit evidence checks, session-level context, and confirmed date/venue corrections.
+
+```sh
+npm run recover:event-sources
+npm run recover:event-sources -- --apply
+npm run precompute:events-runtime
+npx tsx scripts/generate-slug-types.ts
+npm run audit:event-content
+npm run test:event-source-recovery
+```
+
+The recovery script validates every source before applying any changes. When corrected sources identify duplicate records, their previous slugs are retained as aliases of the canonical event. Postponed events show dates as pending and do not offer a calendar action using superseded dates.

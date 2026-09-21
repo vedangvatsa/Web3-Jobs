@@ -1,6 +1,7 @@
 import { Web3Event, getEventEcosystems, getEventSlug, getEventType } from './events';
 import { WASET_ICBT_SERIES_ID } from './waset-icbt';
 import { loadStaticJson } from './load-static-json';
+import { buildEventSlugIndex } from './event-slug-index';
 
 type EventsIndex = {
   list: Web3Event[];
@@ -17,16 +18,7 @@ async function ensureEventsIndex(): Promise<EventsIndex> {
       !!event && typeof event === 'object' && 'id' in event && typeof event.id === 'string' && 'name' in event && typeof event.name === 'string'
     )).then((allEventsList) => {
       const list = Array.isArray(allEventsList) ? allEventsList : [];
-      const bySlug = new Map<string, Web3Event>();
-      for (const event of list) {
-        const s = getEventSlug(event);
-        if (s) bySlug.set(s.toLowerCase().trim(), event);
-        if (event.id) {
-          const id = event.id.toLowerCase().trim();
-          bySlug.set(id, event);
-          bySlug.set(id.replace(/^(premier|side)-/, ''), event);
-        }
-      }
+      const bySlug = buildEventSlugIndex(list);
       eventsIndex = { list, bySlug };
       return eventsIndex;
     }).finally(() => { eventsLoad = null; });

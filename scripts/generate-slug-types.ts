@@ -21,6 +21,7 @@ function main() {
 
   events.forEach((e) => {
     if (e.slug) eventSlugs.add(e.slug.toLowerCase().trim());
+    for (const alias of e.aliases || []) eventSlugs.add(alias.toLowerCase().trim());
     if (e.id) {
       const id = e.id.toLowerCase().trim();
       eventSlugs.add(id);

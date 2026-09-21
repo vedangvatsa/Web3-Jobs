@@ -526,11 +526,29 @@ The Midwest Bitcoin Summit brings thousands of attendees, 150+ speakers, and the
 
 - Record: `premier-ethsofia`
 - Source: [curated-events.json](sources/curated-events.json)
-- Starts: 2026-09-23T09:00:00+03:00
-- Description: Unverified stored copy
+- Starts: 2026-09-24
+- Description: Source-backed
 - Original page: <https://www.blockchainweek.bg>
+- Original page: <https://www.ethsofia.com/>
 
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+### About the event
+
+ETHSofia is Bulgaria's premier Ethereum-focused conference, bringing together builders, researchers, and institutions shaping the future of the original smart contract blockchain. With a strong regional lens and a global perspective, ETHSofia brings together local leaders and international experts to explore the latest Ethereum trends and use cases, from privacy-preserving infrastructure to real-world asset tokenization.
+
+### Main themes
+
+- Onchain privacy and scaling
+- Smart contract security and OPSEC
+- Consumer DeFi
+- Ethereum integrations into Web2
+
+### Who attends
+
+The program brings together Ethereum teams building applications and core infrastructure, service providers supporting production-grade crypto experience, teams integrating Ethereum in Web2, security professionals focused on audits, risk and resilience, and developers and researchers across scaling, privacy, UX and protocol development.
+
+### Venue
+
+The conference takes place on 24 September 2026 at Sofia Tech Park. The John Atanasoff Forum is part of Bulgaria's first science and technology park.
 
 <a id="event-9d854602aa5172f3"></a>
 
@@ -554,10 +572,36 @@ Le festival IA, blockchain et business à Biarritz: 3 jours de talks, workshops,
 - Record: `premier-ethtokyo-2026`
 - Source: [curated-events.json](sources/curated-events.json)
 - Starts: 2026-09-25T00:00:00+09:00
-- Description: Unverified stored copy
+- Description: Source-backed
 - Original page: <https://ethglobal.com/events/tokyo2026>
 
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+### About the event
+
+ETHGlobal hackathons enable you to experiment with cutting edge web3 technologies and develop an idea you're passionate about. This is your opportunity to learn about crypto, expand your network, meet industry professionals, and find like-minded people who are collectively creating a new kind of web.
+
+### Tokyo 2026
+
+The Tokyo hackathon runs September 25-27, 2026 at Toranomon Hills Forum, on the fifth floor of Toranomon Hills Mori Tower. The organizer lists $75,000 available in prizes.
+
+### Themes and topics
+
+- Zero knowledge proofs
+- AI x Crypto
+- DeFi and crypto consumer applications
+- Layer 2s and interoperability
+- Public goods
+- Privacy, security and TEEs
+- Data availability, identity and developer tools
+
+### Building formats
+
+For the first time ever, your project doesn't have to start at zero. Bring what you've already built.
+
+The organizer offers three formats: From Scratch, Extend Open Source, and Ship a Feature. The published rules specify teams of 1-5 members and up to three sponsor SDKs.
+
+### Participation
+
+The event is beginner friendly and includes technical mentorship, curated content, exclusive swag, and free food and drinks.
 
 <a id="event-57f9234e29ce39ec"></a>
 
@@ -1222,6 +1266,121 @@ Media Cooperation (TG) : @hhtyng (https://t.me/hhtyng)
   - Web3Labs serves as a one-stop gateway for Web3.0 entrepreneurship. Aiming to respond to global market trends and policy declarations, Web3Labs supports global Web3 enterprises in expanding internationally through landing services, investment acceleration, technical cooperation, PR support, and compliance assistance. Currently, it operates offline incubators in Hong Kong, Singapore, Malaysia, South Korea, Hangzhou, Beijing, and other locations. Additionally, Web3Labs has launched a $10M Web3.0 Global Accelerator Program, establishing strategic partnerships with leading global organizations such as Neo, Zetrix, ICP, KuCoin Labs, TON, Mango, 0G LABS, Plume, etc., providing comprehensive empowerment and acceleration for high-quality global projects.(Web3Labs는 Web3.0 창업을 위한 원스톱 관문입니다. 글로벌 시장의 흐름과 정책 선언에 발맞추어 현지화 서비스, 투자 가속화, 기술 협력, PR 지원, 컴플라이언스 어시스턴스 등을 통해 글로벌 Web3 기업의 해외 진출과 글로벌 연결을 지원합니다. 현재 서울, 홍콩, 싱가포르, 말레이시아, 항저우, 베이징 등지에 오프라인 인큐베이터를 보유하고 있습니다. 또한 Web3Labs는 총 1,000만 달러 규모의 글로벌 액셀러레이팅 프로그램을 출시하여 Neo, Zetrix, ICP, KuCoin Labs, TON, Mango, 0G LABS, Plume 등 다수의 글로벌 선두 기관과 전략적 파트너십을 체결하고 우수한 글로벌 프로젝트에 전방위적 역량 강화 및 가속화를 제공하고 있습니다.)
     X (https://x.com/LabsWeb368672?utm_source=luma)｜
 
+<a id="event-248ca6f2dbe3ac77"></a>
+
+## Onchain Capital & Liquidity: DeFi & AI📍 Seoul, South Korea \| 🗓 Sep 29 - Oct 1 \| During Korea Blockchain Week
+
+- Record: `premier-onchaincapital`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-09-29T05:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/uz21gg7p>
+
+### About the Event
+
+Onchain Capital & Liquidity: DeFi & AI is a curated gathering of builders, founders, liquidity providers, and investors shaping the next generation of decentralized financial markets.
+
+As DeFi continues to evolve, liquidity infrastructure, capital efficiency, and sustainable token economies are becoming the backbone of the onchain financial system. This event focuses on how protocols, market makers, and funds are designing new models for liquidity, trading, and capital coordination across crypto networks.
+
+This is a capital-first room. High signal. No fluff.
+
+Previous Speakers
+
+### Topics You'll See
+
+- Liquidity design and market structure in DeFi
+- Capital efficiency and onchain yield strategies
+- Tokenomics and sustainable liquidity models
+- Market making and institutional liquidity in crypto
+- Cross-chain liquidity infrastructure
+- The future of onchain financial markets
+
+### What to Expect
+
+- Curated founders, DeFi builders, and liquidity providers
+- Deep discussions on market structure and capital flows
+- Insights from teams actively deploying capital onchain
+- High-quality networking with DeFi-focused investors and funds
+- A relaxed, closed-door environment for real conversations
+
+Past Activations
+
+### Agenda (Indicative)
+
+4:00 - 4:45 PM | Arrival & Networking
+
+4:45 - 5:30 PM | Panel: Liquidity Wars - Designing Sustainable DeFi Markets
+
+5:30 - 6:00 PM | Talk: Capital Efficiency & DeFi Market Infrastructure
+
+6:00 - 6:30 PM | Keynote: The Future of Onchain Capital
+
+6:30 - 8:00 PM | Networking & Social
+
+### Sponsorship
+
+To discuss sponsorship opportunities, feel free to reach out on Telegram: @saurabh_0x
+
+### Past Events
+
+https://luma.com/3loqk0iz
+
+https://luma.com/zn02vlx2
+
+https://luma.com/wxa40k7a
+
+https://luma.com/7obq3bf2
+
+<a id="event-c6a7d32bcedc3260"></a>
+
+## Crypto Compliance and Legal Roundtable, hosted by Solidus Labs and Yulchon
+
+- Record: `premier-solidusroundtable`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-09-29T07:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/fop77t0t>
+
+### About the event
+
+Crypto Compliance & Legal Roundtable | Seoul
+
+Join us on September 29 during the Korea Blockchain Week in Seoul for an exclusive, invitation-only Crypto Compliance and Legal Roundtable, bringing together a selected group of compliance and legal leaders, regulators, and policy experts.
+
+Hosted by Solidus Labs and Yulchon, this in-person session will focus on advancing global crypto compliance through practical discussion. The roundtable is designed to foster open dialogue, share best practices, and identify actionable solutions to today's most pressing regulatory and compliance challenges.
+
+### Agenda
+
+16:30 - Registration
+
+17:00 - 18:30- Roundtable discussions: Best practices, challenges, and actionable solutions across key crypto compliance and legal topics, including:
+
+- Tokenization and Implementation of the amended Capital Markets Act and Electronic Securities Act
+  - How the recently enacted framework will be implemented in practice, including issuance, distribution and the treatment of investment contract securities.
+    - Speaker: Ik Hyun Kim, Partner at Yulchon leading the blockchain and digital assets practice
+- Cross-border VASP compliance -
+  - Korea's planned extension of the Travel Rule to transfers below KRW 1 million
+  - Growing regulatory focus on foreign and unregistered VASPs.
+  - Stablecoins transfers and future challenges.
+    - Speaker: Claire Lee, CEO of CODE
+- Unfair Coin Trading Regulatory Frameworks in Korea
+  - Overview of actual prosecution and referral cases over the past two years to examine the rankings of the most prevalent types of unfair trading practices and sheds light on the specific schemes and deceptive methods unique to the Korean virtual asset market
+    - Speakers: Jackie Baek, Compliance Head of Korea at Crypto.com (https://Crypto.com)
+
+18:30 - Networking
+
+Address: Yulchon, Parnas Tower, 38F 521 Teheran-ro, Gangnam-gu Seoul Republic of Korea
+
+Places are limited. Registration is subject to approval.
+
+### About Yulchon
+
+Yulchon is a full-service law firm headquartered in Seoul, Korea, advising on a full range of specialized practice areas, including corporate & finance, antitrust, tax, real estate & construction, dispute resolution, intellectual property & technology, and labor & employment. The firm was established in 1997 and has about 700 professionals. In addition to our main offices in Seoul, Yulchon has six overseas offices across five jurisdictions and 10 regional practice teams worldwide. The firm provides the highest quality of legal services to its clients around the globe, including their most complex legal matters. Yulchon's Blockchain/Virtual Assets Team consists of seasoned experts who bring a wealth of experience and exceptional knowledge to deliver the highest standard of legal services in Korea's finance, blockchain, and virtual asset sectors.
+
+### About Solidus Labs
+
+Born in crypto and built for efficiency across all asset classes, Solidus Labs is the category-definer for agentic-based compliance in trade surveillance and risk monitoring. At its core is HALO, an AI-powered, risk-based platform trusted globally by financial institutions, crypto firms, and regulators to enable proactive, intelligence-led oversight across any product, venue, or asset class.
+
 <a id="event-f5700723435473ca"></a>
 
 ## CV Summit 2026
@@ -1315,53 +1474,137 @@ Copyright © 2026, Korea Blockchain Week KBW 사무국, 상호: 팩트블록(주
 
 Copyright © 2026, Korea Blockchain Week KBW 사무국, 상호: 팩트블록(주) 대표: 박위익, 사업자등록번호: 5718800913, 통신판매업 신고번호: 제 2020-서울서초-2780호, 주소: 서울특별시 서초구 강남대로 337, 9Fl, 06626. 1) This payment method is provided by Eximbay and is billed as www.eximbay.com. 2) Note: Please note that the billing descriptor will be listed as EXIMBAY.COM.
 
-<a id="event-248ca6f2dbe3ac77"></a>
-
-## Onchain Capital & Liquidity Seoul 2026
-
-- Record: `premier-onchaincapital`
-- Source: [curated-events.json](sources/curated-events.json)
-- Starts: 2026-09-29T09:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://lilroom.xyz>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-c6a7d32bcedc3260"></a>
-
-## Crypto Compliance & Legal Roundtable Seoul 2026
-
-- Record: `premier-solidusroundtable`
-- Source: [curated-events.json](sources/curated-events.json)
-- Starts: 2026-09-29T09:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://www.soliduslabs.com>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-669c7ba061c93a95"></a>
 
-## Institutional Onchain: RWAs & Stablecoins Seoul 2026
+## Institutional Onchain: RWAs & Stablecoins📍Seoul, South Korea \| 🗓 Sep 29 - Oct 1\| During Korea Blockchain Week
 
 - Record: `premier-instonchain`
 - Source: [curated-events.json](sources/curated-events.json)
-- Starts: 2026-09-30T09:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://lilroom.xyz>
+- Starts: 2026-09-30T05:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/qsfjc56x>
 
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+### About the Event
+
+Institutional Onchain: RWAs & Stablecoins is a focused forum for institutions, funds, market makers, and protocol teams exploring how real-world assets and stablecoin infrastructure are reshaping global capital markets.
+
+This event is designed to cut through narratives and focus on what is actually being deployed onchain today and what institutions need next in terms of settlement, compliance, liquidity, and capital efficiency.
+
+Previous Speakers
+
+### Topics You'll See
+
+- Tokenized RWAs: bonds, funds, and real-world yield
+- Stablecoin infrastructure and settlement layers
+- Institutional capital flows into DeFi
+- Compliance, custody, and onchain risk frameworks
+- Market design for institutional liquidity
+- Cross-border payments and onchain treasuries
+
+### What to Expect
+
+- Senior operators from funds, TradFi, and crypto infrastructure
+- Case studies from live institutional deployments
+- Thoughtful panels and closed-door discussions
+- High-quality networking with capital allocators and builders
+- A serious, signal-driven environment
+
+Past Activations
+
+##
+
+### Agenda (Indicative)
+
+16:00 - 16:30 | Institutional Networking & Welcome
+
+16:30 - 17:00 | Panel: RWAs & Stablecoin Settlement
+
+17:15 - 17:30 | Keynote: Institutional Onchain Infrastructure
+
+17:45 - 18:15 | Panel: AI in Institutional Markets
+
+18:20 - 18:35 | Fireside Chat
+
+18:35 - 19:00 | Open Roundtable & Networking
+
+19:00 | Close
+
+- To discuss sponsorship opportunities, feel free to reach out on Telegram: @saurabh_0x
+
+### Past Events
+
+https://luma.com/3loqk0iz
+
+https://luma.com/zn02vlx2
+
+https://luma.com/wxa40k7a
+
+https://luma.com/7obq3bf2
 
 <a id="event-965d9cc63451aed0"></a>
 
-## Perps x Institutional Seoul 2026
+## Perps × Institutional: Trading, Liquidity & the Onchain Economy \| Seoul \| 🗓 30th September \| During Korea Blockchain Week
 
 - Record: `premier-perpsinst`
 - Source: [curated-events.json](sources/curated-events.json)
-- Starts: 2026-09-30T09:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://lilroom.xyz>
+- Starts: 2026-09-30T07:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/v6bkeysx>
 
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+### About the Event
+
+Perps × Institutional is where onchain markets meet institutional capital a live gathering during Korea Blockchain Week bringing together perps, exchanges, funds, and the projects building the onchain economy.
+
+Across one stage: Sessions spanning perps and market structure, institutional onchain, RWAs, stablecoins, DeFi liquidity, and AI. Alongside it runs a live trading floor a competition that turns the room into the most active table in Seoul during KBW.
+
+Previous Speakers
+
+### On the Stage
+
+- Perps & Market Structure - where onchain leverage and volume head next
+- Institutional Onchain - how capital and desks are deploying into crypto
+- RWAs & the Real Economy - tokenizing real assets and their yield
+- Stablecoins & Settlement - the rail under every trade and treasury
+- DeFi & Onchain Liquidity - moving capital without intermediaries
+- AI × Crypto - the intelligence layer reshaping how markets trade
+  What to Expect
+- Senior operators from funds, TradFi, and crypto infrastructure
+- Case studies from live institutional deployments
+- Thoughtful panels and closed-door discussions
+- High-quality networking with capital allocators and builders
+- A serious, signal-driven environment
+
+Past Activations
+
+### Agenda (Indicative)
+
+16:00 - 16:45 - Arrival, registration & networking
+
+16:45 - 17:15 - Opening keynote - State of Onchain Markets in Asia (title partner)
+
+17:15 - 17:45 - Panel 1 - Perps & Market Structure: where leverage and volume head next
+
+17:45 - 18:15 - Panel 2 - Institutional Onchain: how capital and desks are deploying
+
+18:15 - 18:30 - Fireside - RWAs & the Real Economy
+
+18:30 - 19:00 - Panel 3 - Stablecoins, DeFi & Onchain Liquidity
+
+19:00 - 19:20 - AI × Crypto - the intelligence layer reshaping how markets trade
+
+19:20 - 19:40 - closing remarks
+
+- To discuss sponsorship opportunities, feel free to reach out on Telegram: @saurabh_0x
+
+### Past Events
+
+https://luma.com/3loqk0iz
+
+https://luma.com/zn02vlx2
+
+https://luma.com/wxa40k7a
+
+https://luma.com/7obq3bf2
 
 <a id="event-1f5b6d670db996a8"></a>
 
@@ -2036,6 +2279,88 @@ Asia's leading decentralized Web3 summit hosting 7,500+ crypto founders and inve
 
 RWA WEEK - Online & Offline Ecosystem Platform for Real-World Assets tokenization community. Latest news, event calendar, online and offline events, interviews, networking and matchmaking platform.
 
+<a id="event-726836a7ffaac96f"></a>
+
+## VNTR Capital Allocators Forum Singapore
+
+- Record: `premier-vntr`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-10-06T01:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/w5ck9zwq>
+
+### About the event
+
+Join a curated circle of global capital allocators - active LPs, institutional LPs, family offices, Fund of Funds, and UHNWs - for a forum focused on the trends shaping private capital and exclusive co-investment opportunities emerging from the VNTR global community. This is not a traditional conference. It's a highly curated capital allocators and LPs forum designed for meaningful connections, quality deal flow exchange, and peer-level conversations
+
+### Approval Mandatory
+
+Registration is open, but participation requires vetting. We review every application to ensure alignment with the VNTR community and event format.
+
+Only approved investors will receive access to attend.
+
+> We curate the room. You make the connections.
+
+### Ticketing
+
+- Standard Ticket - Complimentary
+  Event access, Networking, and Coffee Breaks
+- VIP Ticket - TBA after registration
+  Includes everything above + Lunch, Front-row seating, connect with attendees, Introductions Concierge
+
+Tickets are released only upon approval.
+
+### Agenda
+
+- 09:30 - Registration and Coffee
+- 10:00 - Welcome to VNTR Forum and Introduction to Partners
+- 10:15 - Keynote
+- ⁠10:30 - Panel Discussion
+- ⁠11:00 - Deal Room
+- ⁠11:30 - Thematic Roundtables
+- ⁠13:00 - Closing Remarks
+- ⁠14:00 - Lunch Break
+- 16:00 - Gamma Prime Programming
+
+### What to Expect
+
+- Keynotes & Panels with top-tier investors
+- Enjoy networking with fellow investment decision-makers
+- Get acquainted through discussions and private chats
+- Learn about new investment trends and opportunities
+- Stay in touch with attendees via a curated WhatsApp group
+- Find new collaboration and co-investment partners
+
+### Who Should Join
+
+- Institutional Capital Allocators
+- Active LPs in Venture Capital, Private Equity & Private Markets
+- Family Office Principals & Investment Decision-Makers
+- HNWI & UHNW Investors actively allocating to Funds, Syndicates & Direct Investments
+- Sovereign Wealth Fund Investment Professionals
+- Fund of Funds Partners & Investment Decision-Makers
+- Endowment, Foundation & Pension Fund Investment Professionals
+- Corporate & Strategic Capital Allocators
+
+Companies and Startups that would like to connect with investors can apply to Sponsor: isha@vntr.vc
+
+Sponsorship Deck: https://vntr.docsend.com/view/49biiev28wbidxt8
+
+THANK YOU TO OUR PARTNERS:
+
+- Stellar (https://www.stellar.org/) is a decentralized, fast, scalable, and uniquely sustainable network for financial products and services. It is both a cross-currency transaction system and a platform for digital asset issuance, designed to connect the world's financial infrastructure.
+- Gamma Prime (https://www.gammaprime.fi/) is the Marketplace to launch and invest in Alternative Funds. Investors gain seamless access to truly diversified alternative investments. Hedge funds reach new institutions, family offices, and accredited investors worldwide.
+- Instaswap (https://instaswap.com/?utm_source=luma) is the infrastructure powering private, seamless cross-chain execution. Think 1inch meets THORChain, fully abstracted into a single transaction, with privacy native to the swap.
+- Darknight Labs (https://darknightlabs.com/?utm_source=luma) is a Web3 ecosystem deploying smart capital through elite investment syndicates, strategic leverage, and community distribution - built to win for investors, founders, and users.
+
+### Q&A
+
+- Can I bring along a friend or team member? No. Every guest must apply and be approved separately. Plus-ones and walk-ins are not permitted.
+- What is the dress code? Business Casual
+- How do I reach out to our team? If you have any other questions, contact us by WhatsApp https://wa.me/16507625826 or Telegram https://t.me/VNTR_bot
+
+By participating in the Event, the Attendee acknowledges and agrees that all Event content is provided for educational purposes only and does not constitute investment or any other form of advice. The Attendee grants the Company rights to record, photograph, and use the Attendee's likeness and participation for promotional, marketing, and business purposes in any media without any compensation.
+
 <a id="event-10d7190c91769be2"></a>
 
 ## Global Onchain Summit Singapore 2026
@@ -2249,18 +2574,6 @@ No. To maintain fairness, all project work must begin after the official hacking
 
 TOKEN2049 is the world's largest crypto event. Join the crypto ecosystem's decision-makers in Singapore to connect, exchange ideas, network, and shape the industry.
 
-<a id="event-467a691911b38aa4"></a>
-
-## Finality Forum Singapore 2026
-
-- Record: `premier-finalityforum`
-- Source: [curated-events.json](sources/curated-events.json)
-- Starts: 2026-10-07T09:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://ethenelabs.xyz>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-14df72e9594dc005"></a>
 
 ## Sui Basecamp 2026
@@ -2281,23 +2594,22 @@ The next $5 trillion in transactions won't be human. Join the global Sui communi
 
 - Record: `premier-stablecoinsg`
 - Source: [curated-events.json](sources/curated-events.json)
-- Starts: 2026-10-08T09:00:00.000Z
-- Description: Unverified stored copy
+- Starts: 2026-10-08
+- Description: Source-backed
 - Original page: <https://xrex.io>
+- Original page: <https://stablecoinsummit.com/>
 
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+### About the event
 
-<a id="event-726836a7ffaac96f"></a>
+Asia's premier event for stablecoin innovation. We bring together government, institutions, fintech leaders, and blockchain pioneers to explore the future of digital money.
 
-## VNTR Investor Forum Singapore 2026
+Designed for enterprises and financial institutions engaged in high-volume cross-border payments, we focus on real-world use cases, trustless transactions, transparency, and security.
 
-- Record: `premier-vntr`
-- Source: [curated-events.json](sources/curated-events.json)
-- Starts: 2026-10-08T09:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://www.vntr.vc>
+Join us for expert insights, technical deep dives, and top-tier networking.
 
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+### Stablecoin Summit 2026
+
+The XREX event takes place on 8 October 2026 at Andaz Singapore.
 
 <a id="event-c7a04d91ec43b6f9"></a>
 
@@ -2312,6 +2624,41 @@ An organizer description has not been verified for this record. Any previous cop
 ### About the event
 
 A curated prediction markets summit - 400 attendees, 50+ speakers, two stages across four hours - at Suntec City, Singapore, on October 8, 2026, during TOKEN2049 week.
+
+<a id="event-467a691911b38aa4"></a>
+
+## Finality Forum @ Token2049 SG 2026
+
+- Record: `premier-finalityforum`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-10-09T02:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/g2lg0htf>
+
+### About the event
+
+Finality Forum is an invite-only forum focused on institutional digital assets, and will be capped at 300 attendees. Please apply in the link and await your confirmation.
+
+### About Finality Forum
+
+Held on 9 Oct 2026, Finality Forum is a full-day conference focused on institutional digital assets - with tracks across Infrastructure, Payments & Stablecoins, RWA & Tokenization, Agentic Commerce, Trading & Institutional Liquidity, and Institutional Privacy.
+
+This edition of Finality Forum will be held during Token2049 Singapore Week, and will feature the following tracks:
+
+- Infrastructure: The foundational layers - chains, custody, and the systems institutions are actually building on.
+- Payments & Stablecoins: Where stablecoins stop being a crypto story and start being the global payments story.
+- Real World Assets & Tokenization: Real assets, on-chain. The bridge between traditional finance and programmable markets.
+- Agentic Commerce: Autonomous agents, on-chain compute, and what happens when AI needs a wallet.
+- Trading & Institutional Liquidity: The desks, market makers, and infrastructure moving institutional-scale capital on-chain.
+- Institutional Privacy: Confidentiality without compromise - the privacy infrastructure institutions need to participate.
+
+Current speakers for Finality Forum include Avalanche, Base, Bitgo, Bloomberg, Canton, Chainlink, Coingecko, FalconX, Flow Traders, Flowdesk, Four Pillars, Google Gemini, GSR, Kaito, Kraken, Miden, Nansen, Nethermind, Ondo, Osero, Paxos, Pyth, Stripe, Tether, Visa, Wintermute, Wormhole, xStocks.
+
+For more information, visit:
+
+- Website: https://finalityforum.xyz
+- X: https://x.com/FinalityForum
+- LinkedIn: https://www.linkedin.com/company/finality-forum/
 
 <a id="event-5ecdadb4607140a3"></a>
 
@@ -2699,6 +3046,33 @@ Amplify your brand presence and maximize ROI with curated sponsorship packages b
 
 New Trade Routes: Bringing Africa Onchain. Three days of building, networking and dealmaking with 5,000+ founders, engineers, investors and policymakers at National Art Theatre, Lagos.
 
+<a id="event-bb9b15ba8e97af97"></a>
+
+## Plan B Forum Lugano 2026
+
+- Record: `premier-planblugano`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-10-23
+- Description: Source-backed
+- Original page: <https://planb.lugano.ch>
+- Original page: <https://planb.lugano.ch/planb-forum/>
+
+### About the event
+
+Lugano's Plan ₿ Forum is the premier Bitcoin conference bringing together world leaders, technologists, and entrepreneurs to discuss nation-state Bitcoin adoption, economics, financial freedom, and freedom of speech.
+
+### Two-day conference
+
+The forum takes place on 23-24 October 2026 in Lugano. Conference access covers the Convention Centre, Villa Ciani and Ex-Asilo Ciani, with keynotes, panels, workshops, a Bitcoin art gallery, and startup and sponsor exhibitions.
+
+### Languages
+
+The event will be conducted in English, but real-time translations in Italian will be provided for the main keynotes and panels. Headsets will be provided on premise.
+
+### Passes
+
+The published Peer ticket includes keynotes, panels, masterclasses, sponsor exhibitions and one-to-one matched networking. The Cyber Punk ticket adds VIP check-in, front-row seating, speaker meals on both days and VIP-lounge access.
+
 <a id="event-698d6e083e57477b"></a>
 
 ## ETHKL 2026
@@ -2708,18 +3082,6 @@ New Trade Routes: Bringing Africa Onchain. Three days of building, networking an
 - Starts: 2026-10-23T09:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://ethkl.org>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-bb9b15ba8e97af97"></a>
-
-## Plan B Forum Lugano 2026
-
-- Record: `premier-planblugano`
-- Source: [curated-events.json](sources/curated-events.json)
-- Starts: 2026-10-23T09:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://planb.lugano.ch>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -3085,15 +3447,177 @@ Engage with regulators and industry titans to lead the institutional adoption of
 
 <a id="event-bf253049734d9657"></a>
 
-## Ethereum Cypherpunk Congress Mumbai 2026
+## Ethereum Cypherpunk Congress #3
 
 - Record: `premier-cypherpunk`
 - Source: [curated-events.json](sources/curated-events.json)
-- Starts: 2026-11-02T09:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://web3privacy.info>
+- Starts: 2026-11-02T04:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/spsnos9t>
 
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+### About the event
+
+Cypherpunk Congress is coming to India!
+
+Expect the biggest human rights x neo-cypherpunk festival. Buenos Aires edition hit 4500 people, 100 speakers from Vitalik Buterin/Ethereum to Roger Dinglerine/Tor & long-lasting impact.
+
+### The first batch of highly-curated speakers are here
+
+Curatorial note: we assemble speakers on intersection between digital rights, FOSS, decentralisation & cryptography.
+
+They propose practical solutions for global challenges from polarisation in social media to raise of dictatorships. Challenge internet shutdowns, abuse of digital identity, & attacks on encryption. With proven track record from @EFF (https://x.com/EFF) to @brave (https://x.com/brave).
+
+Welcome to Mumbai!
+
+@kurtopsahl (https://x.com/kurtopsahl) x @FilFoundation (https://x.com/FilFoundation) for long-lasting defence of encryption in EFF, exceptional human qualities and bridging gap betwen old & new cypherpunks
+
+@Isa (https://x.com/Isa) x @torproject (https://x.com/torproject) for exceptional work on harmonizing network-level privacy and digital rights
+
+@ghappour (https://x.com/ghappour) x flashbots for matching digital rights & web3 culture. Being a real representative of privacy-first, encryption-centric narrative across borders & ecosystems.
+
+@therealyingtong (https://x.com/therealyingtong) for proving that real-world cryptography exists in practice & can serve marginalized people
+
+Justin Drake (https://x.com/drakefjustin) - key Ethereum Foundation protocol researcher
+
+@lunardragon420 (https://x.com/lunardragon420) x @DarkFiSquad (https://x.com/DarkFiSquad) for uncompromising values & visionary ideas on both tech activism & role of code
+
+@mala (https://x.com/mala) x @FilFoundation (https://x.com/FilFoundation) for openness to transition old cypherpunk narratives into compeling and positive knowledge for the future to come
+
+@jaromil (https://x.com/jaromil) x @DyneOrg (https://x.com/DyneOrg) for balancing hacktivist culture with digital identity challenges, defending civic society by representing us in institutions
+
+@ml_sudo (https://x.com/ml_sudo) x @ethereumfndn (https://x.com/ethereumfndn)'s Silviculture for accelerating meaningful cryptography & culture across ecosystems
+
+@PryvitKyle (https://x.com/PryvitKyle) x @brave (https://x.com/brave) for brinding gap between already proven privacy tech & emerging innovations - showing how crypto can plug'n'play in traditional tech
+
+@SCBuergel (https://x.com/SCBuergel) x @gnosis_ (https://x.com/gnosis_) + @hoprnet (https://x.com/hoprnet) for dedicating years of life to deliver network-level privacy, staying for the culture and diversifying VPN market.
+
+@jbaylina (https://x.com/jbaylina) x @ziskvm (https://x.com/ziskvm) for tech dedication to solve digital rights in practice, growing a group of cryptographers, scaling & securing millions of people.
+
+FOCUS AREAS
+
+@AndyGuzmanEth (https://x.com/AndyGuzmanEth) x @PrivacyEthereum (https://x.com/PrivacyEthereum) for proving that the future of privacy ecosystem depends on decency and positive communication.
+
+@Fatalmeh (https://x.com/Fatalmeh) for caring about human rights now, legal web3 policies, & decentralised tech that will shift global power dynamics
+
+@miroyato (https://x.com/miroyato) x @fileverse (https://x.com/fileverse) for by-week practical deGoogling at scale via http://ddocs.new & bringing deep academical approach to decentralised tech culture
+
+@auryn_macmillan (https://x.com/auryn_macmillan) x @EnclaveE3 (https://x.com/EnclaveE3) for long-lasting representation of human values where code really becomes a speech. Delivering complex encryption for confidential computation.
+
+@hebbianloop (https://x.com/hebbianloop) x @humntech (https://x.com/humntech) for protecting identity at scale & bridging traditional digital rights with emerging tech
+
+@Cryptic_cm (https://x.com/Cryptic_cm) x @session_app (https://x.com/session_app) for providing vocal alternatives to how we securely communicate & collaborate online
+
+@kassandraETH (https://x.com/kassandraETH) x @ethereumfndn (https://x.com/ethereumfndn) for proving that code is an art, & cultural diversity can bring striking change - uniting ecosystems & voices beyond tribalism
+
+@Pol_Lanski (https://x.com/Pol_Lanski) x @dappnode (https://x.com/dappnode) for proving that node-running isn't a rocket science, but active contribution to both decentralisation and censorship resistance
+
+@LoringHarkness (https://x.com/LoringHarkness) x @ShutterNetwork (https://x.com/ShutterNetwork) for pushing new cryptographic primitives to life, alligning different actords towards Encrypted Mempools
+
+@TMIYChao (https://x.com/TMIYChao) x @ethereumfndn (https://x.com/ethereumfndn) + @BordelWTF (https://x.com/BordelWTF) for keeping reminding that original cypherpunks were build on values & not shiny merch (we translate: use @GrapheneOS (https://x.com/GrapheneOS), run your own node, visit CCC etc)
+
+@0xMeTony (https://x.com/0xMeTony) x @fluidkey (https://x.com/fluidkey) for proving that hackathons can create decent privacy-projects positively evolving over time
+
+Daniel x @invisiblgarden (https://x.com/invisiblgarden) for matching digital rights with commons, practical web3 aplicability to the endangered societies
+
+@ncsgy (https://x.com/ncsgy) x @ethereumfndn (https://x.com/ethereumfndn) for bringing tangible privacy via Kohaku, chancing the whole wallet-domain for better, and activating positive side of web3 to millions of people.
+
+@willscott (https://x.com/willscott) for representing man of action approach, helping, supporting, activating. Together.
+
+### COMMUNITY PARTNERS
+
+SPONSORS
+
+CONTRIBUTE
+
+Partner: https://tally.so/r/mVxvgN
+
+Speak (CfP): https://tally.so/r/nrOzXl
+
+Volunteer: https://tally.so/r/3lLqKo
+
+Join our community to receive latest news: https://t.me/+QOj6126xlEs0OTQ0
+
+Watch Congress #2 talks: https://youtu.be/XKJ1ZJrkKWA?si=eZNEZQri3uheJgrN
+
+### Lasting cultural phenomenon
+
+Focusing on values, active political stance, and cutting-edge research will help Ethereum become a cultural & resilient to change phenomenon.
+
+watch aftermovie: https://www.youtube.com/watch?v=97-qkXRmMlk
+
+expect phenomenal lineup [Congress #2 example]
+
+We are talking not only about the existence of privacy-preservation dapps, but Free & Open-source software development, support for free speech and whistleblowers around the world, helping marginalized people get access to the decolonial money system, safe & empowered tech, and last but not least - diverse and active communities of care.
+
+Supporting privacy developers
+
+Roman Storm Congress #2 opening https://youtu.be/XKJ1ZJrkKWA?si=GGrhiF5TOZcfjUqy&t=811
+
+### Connecting web2 + web3
+
+Vitalik Buterin + Naomi Brockwell fireside https://www.youtube.com/watch?v=5At5_GiQNEA
+
+### Ethereum Social Layer (ESL)
+
+It is being formed before our eyes - an active ecosystem of thousands of thinkers, developers, analysts, human-rights DAOs, coordinators, and even ravers. Inspired by cypherpunks of the past, they create a foundation for the digital community of the future (explore our Cyherpunk personas (https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/u4ELDt0YkpCe272kD2f5kTThJsILg1pgaOeBsTSGV0I) article). Based on permissionless & censorship-resistance ideology. Follow Paul-Dylan Ennis (https://x.com/post_polar_/status/1813275641954877709) on ESL.
+
+### Activation
+
+The debut Ethereum Cypherpunk Congress assembles an active part of Ethereum. These people and organizations want to stand at the foundations of the unstoppable socio-techno-cultural movement.
+
+Special rituals help us to share Cypherpunk culture & build care for each other.
+
+They are activists, developers, cryptographers, ethical investors, philosophers, and researchers who are changing the possibilities for Ethereum on the path to freedom.
+
+Hackathon track
+
+Events for developers are critical activation points behind any cultural change. Every protocol from Aztec to Ethereum needs devs to build on top of it & deliver decentralized, permissionless & privacy-enhancing applications. We invited current privacy hackathon devs to reflect on their experience.
+
+Women in web3 privacy track
+
+Diversity in the web3 industry is a critical challenge, let alone in the privacy market. Let's discuss how we can be more open, diverse & inclusive to different opinions and opportunities.
+
+Activation track
+
+We want everyone to feel, use and contribute to practical privacy tooling. So we will showcase existing tools empowering your journey in decentralized world: Fileverse (http://fileverse.io), Rotki (http://rotki.com), Fluidkey (http://fluidkey.com), Radicle, GnosisVPN.
+
+Stunning merch delivered by Coinmandeer
+
+### High-level agenda
+
+- craft conditions needed to overcome challenges mapped in "Make Ethereum Cypherpunk again" essay
+- present Ethereum Privacy Ecosystem (https://docs.web3privacy.info/research/ethereum-privacy-ecosystem/) and its key players
+- explore socio-cultural conditions re-wiring degens into cypher-activists
+- build a mainstream culture around cypherpunk - make it an open and inclusive movement
+- remind of the origins of Ethereum ethos
+- articulate balance between open-source culture & financial sustainability behind projects
+- map the way to onboard 100K developers & 10M users experiencing safe Ethereum-centric privacy tech
+
+Contribute to the development of the cypherpunk culture of Ethereum. Everyone will be welcome here, from activists defending the rights of developers to degens who finally want to find a strong meaning in life.
+
+Contribute
+
+Speak (CfP): https://tally.so/r/nrOzXl
+
+Partner:
+
+- web3privacynow 'at' protonmail.com (http://protonmail.com) or
+- https://x.com/PG_CDG
+
+Volunteer: https://tally.so/r/3lLqKo
+
+Our previous events (feel the vibe)
+
+- Privacy Summit II (https://summit.web3privacy.info/) - Paralelni Polis, Prague 2024
+- Privacy Summit I (https://prague.web3privacy.info) - X10, Prague 2023
+- ETHRome Meetup (https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/bzv735Bc1zak7Yi-NcxWavMQKgt2ANXQtpkrSp8Xg3o)- Villaggio Globale, Rome 2023
+  Useful resources (for real)
+  Website: https://web3privacy.info/
+  Latest news: http://twitter.com/web3privacy
+  Github: http://www.github.com/web3privacy
+  Privacy market dashboard: http://explorer.web3privacy.info
+
+#Ethereum #cypherpunk #privacy #freedom #community #you
 
 <a id="event-86cc5261bc19f62a"></a>
 
@@ -3236,6 +3760,36 @@ Un entorno académico y profesional alineado con el carácter de BSL Colombia, p
 - Original page: <https://quantstamp.com>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-5c1fe3fdffde2832"></a>
+
+## ETHGlobal Mumbai 2026
+
+- Record: `premier-ethmumbai-2026`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-11-05
+- Description: Source-backed
+- Original page: <https://ethglobal.com/events/mumbai>
+
+### About the event
+
+ETHGlobal hackathons enable you to experiment with cutting edge web3 technologies and develop an idea you're passionate about. This is your opportunity to learn about crypto, expand your network, meet industry professionals, and find like-minded people who are collectively creating a new kind of web.
+
+### Mumbai 2026
+
+The Mumbai hackathon runs 5-7 November 2026 at Jio World Convention Centre. The organizer lists $175,000 available in prizes.
+
+### Building formats
+
+Projects can start from scratch, extend an open-source repository, or ship a new open-source feature on an existing product during the event. The published rules specify teams of 1-5 members and up to three sponsor SDKs.
+
+### Themes
+
+The published themes include zero knowledge proofs, AI x Crypto, DeFi, crypto consumer applications, Layer 2s, interoperability, public goods, privacy and security, TEEs, data availability, identity and developer tools.
+
+### Venue
+
+Jio World Centre, G Block, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400098, India.
 
 <a id="event-f2020f957d2f6539"></a>
 
@@ -3581,18 +4135,6 @@ If you're building in Web3 and want your narrative to land with the right people
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-5c1fe3fdffde2832"></a>
-
-## ETHGlobal Mumbai 2026
-
-- Record: `premier-ethmumbai-2026`
-- Source: [curated-events.json](sources/curated-events.json)
-- Starts: 2026-11-06T09:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://ethglobal.com/events/mumbai>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-9d021eddb7b0eabe"></a>
 
 ## Ship Safe: Devcon Mumbai Security Sessions
@@ -3679,6 +4221,37 @@ Deploy your GTM strategy across 10 strategic nodes and integrate with the world'
 
 Engage with regulators and industry titans to lead the institutional adoption of blockchain in Bharat.
 
+<a id="event-29b8aa3a9877ec5b"></a>
+
+## The (un)Banked London 2026
+
+- Record: `premier-unbanked`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-11-09
+- Description: Source-backed
+- Original page: <https://input.global>
+- Original page: <https://theunbanked.finance/london>
+
+### About the event
+
+The (un)Banked lands in London - an invite-only gathering of banks, fintechs, and digital asset leaders shaping the next chapter of European finance.
+
+### London edition
+
+The conference takes place on 9 November 2026 at Landing Canary Wharf, a waterside venue in London's Canary Wharf business district.
+
+### Program
+
+The published program covers institutional tokenisation, custody and board-level risk, stablecoin payments, institutional capital and digital assets, and the FCA, MiCA and regulatory landscape. Registration and coffee begin at 10:00 AM, with closing remarks and networking at 4:30 PM.
+
+### Attendance
+
+The (un)Banked is invite-only. Register your interest and our team will be in touch with confirmed guests.
+
+### Partnerships
+
+Sponsorship, media, community partnerships and speakership for the London Edition are open.
+
 <a id="event-ff97c6544eaee797"></a>
 
 ## Devconnect 2026
@@ -3688,18 +4261,6 @@ Engage with regulators and industry titans to lead the institutional adoption of
 - Starts: 2026-11-09T09:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://devconnect.org>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-29b8aa3a9877ec5b"></a>
-
-## The (un)Banked Conference 2026
-
-- Record: `premier-unbanked`
-- Source: [curated-events.json](sources/curated-events.json)
-- Starts: 2026-11-09T09:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://input.global>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -3724,6 +4285,35 @@ Keynote speeches live-streamed to giant LED screens on Plaza Gerardo Barrios
 ### Bitcoin Office & CUBO+
 
 Bitcoin Histórico is put together by the National Bitcoin Office and CUBO+, the team behind Bitcoin education in El Salvador. They built the conference, and they are the ones who will meet you at the door.
+
+<a id="event-66fb176a2bb6d0c2"></a>
+
+## The Big Whale Geneva Summit 2026
+
+- Record: `premier-bigwhale`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-11-12
+- Description: Source-backed
+- Original page: <https://www.thebigwhale.io>
+- Original page: <https://www.thebigwhale.io/summit>
+
+### About the event
+
+In November 2026, we host the inaugural edition of the Geneva Summit in Geneva. Join your peers in a cohort of 300 hand-picked decision-makers from leading banks and asset management firms to define the standards of tomorrow's finance industry together.
+
+### Program
+
+Two days of panels, workshops and closed-door sessions cover custody, institutional infrastructure, stablecoins, cross-border settlement, real-asset tokenization, regulated AI agents and capital strategy.
+
+### Attendance and discussion rules
+
+The Summit is invitation-only and reserved for senior decision-makers from financial institutions, asset managers, regulators and enterprise firms. The Big Whale Corporate Members receive priority access.
+
+All discussions are held under Chatham House Rule. There are no recordings or press access. No participation fee applies; attendance conditions are communicated after application approval.
+
+### Venue
+
+Hotel President Wilson, 47 Quai Wilson, 1211 Geneva 8, Switzerland. The summit runs on 12-13 November 2026.
 
 <a id="event-0570634dd5627598"></a>
 
@@ -3772,18 +4362,6 @@ Corporate Treasurers, CFOs, and Trade Finance Heads managing cross-border settle
 Executives from Stablecoin Issuers, Custody Providers, Blockchain Infrastructure Firms, On/Off-Ramp Platforms, and RegTech companies building scalable settlement rails.
 
 Senior representatives from DFIs and regional economic bodies influencing capital flows and financial modernization initiatives.
-
-<a id="event-66fb176a2bb6d0c2"></a>
-
-## The Big Whale Summit 2026
-
-- Record: `premier-bigwhale`
-- Source: [curated-events.json](sources/curated-events.json)
-- Starts: 2026-11-12T09:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://www.thebigwhale.io>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-47d1cfc8b0a73aa5"></a>
 
@@ -4047,15 +4625,35 @@ Engage with regulators and industry titans to lead the institutional adoption of
 
 <a id="event-f94e6ef13e1c7201"></a>
 
-## ETHWomen Florida 2026
+## ETHWomen Florida
 
 - Record: `premier-ethwomen`
 - Source: [curated-events.json](sources/curated-events.json)
-- Starts: 2026-11-18T09:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://www.futuristconference.com>
+- Starts: 2026-11-17T13:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/ETHWomen_FL>
 
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+### Join us for the 6th Edition of ETHWomen, a free, female-focused, and inclusive event taking place on November 17-18, 2026
+
+## This event invites women to dive into the world of Web3 through an educational program featuring inspiring speakers, hands-on learning, and valuable networking opportunities.
+
+### Running alongside Blockchain Futurist Conference, all participants of ETHWomen will also get access to the 2nd US edition of Canada's Largest Web3 event
+
+Register now to be part of the future!
+
+For more info go to: https://www.ethwomen.com/
+
+ - IMPORTANT INFO--
+
+ETHWomen Location: Entice Nightclub
+
+ETHWomen Address: 1 Lucky St. Hollywood, Florida 33314
+
+When taking an uber select DAER Nightclub as your destination. This will take you to the 1 Lucky Street entrance located inside the Seminole Hard Rock Hotel.
+
+Free Parking is also available. Use the Lucky Street Garage located at 1 Lucky Street, Hollywood, Florida.
+
+This event is located inside the Seminole Hard Rock Hotel property, which is quite large. Please make your way to Entice Nightclub or DAER Nightclub and follow the event signage from there.
 
 <a id="event-ed9a908c0ce606a6"></a>
 
@@ -12777,10 +13375,21 @@ Follow Devcon on: X (https://x.com/EFDevcon) | Telegram (https://t.me/+sitvvHw8D
 - Record: `ibw-official-ibw2026-pre-conference-vip-night-10-31`
 - Source: [ibw-side-events.json](sources/ibw-side-events.json)
 - Starts: 2026-10-31T19:00:00+05:30
-- Description: Unverified stored copy
+- Description: Source-backed
 - Original page: <https://indiablockchainweek.com/>
+- Original page: <https://docs.google.com/spreadsheets/d/1NZ09OVlqElsM64oUm-8i1yh_A-U0p39BJECthwHCsLA/htmlview/sheet?headers=true&gid=0>
 
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+### About the event
+
+Hashed Emergent's IBW2026 Pre-Conference VIP Night takes place on Saturday, 31 October, from 7:00 PM to 11:00 PM, ahead of the two-day India Blockchain Week conference in Mumbai.
+
+### Access
+
+The organizer includes the pre-conference VIP Dinner Night in its VIP Pass benefits. The official event calendar currently lists the separate registration link as TBD, so VIP access should be arranged through the organizer's ticket page.
+
+### Organizer
+
+Hashed Emergent hosts the VIP night and the IBW2026 Conference, which runs on 1-2 November at Fairmont Mumbai. The calendar does not separately confirm the VIP-night venue.
 
 <a id="event-5ae275253034b22c"></a>
 
@@ -12803,10 +13412,18 @@ India's invite-only, closed-door institutional blockchain forum, held under the 
 - Record: `ibw-official-defi-security-summit-day-1-11-01`
 - Source: [ibw-side-events.json](sources/ibw-side-events.json)
 - Starts: 2026-11-01T10:00:00+05:30
-- Description: Unverified stored copy
+- Description: Source-backed
 - Original page: <https://defisecuritysummit.org/>
 
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+### About the event
+
+DSS returns during Devcon week in Mumbai for two days of talks, workshops, and community work on practical DeFi security.
+
+### Day 1: 1 November 2026
+
+The first day of DeFi Security Summit is included in the official India Blockchain Week calendar from 10:00 AM to 7:00 PM. The summit continues on 2 November.
+
+The organizer's site also contains the 2025 Buenos Aires recap and timetable. Those historical sessions are not the 2026 Mumbai program.
 
 <a id="event-c3424eadb6bdbbe9"></a>
 
@@ -13062,10 +13679,18 @@ Registration will be open onsite from 10:00 am to 5:00 pm.
 - Record: `ibw-official-defi-security-summit-day-2-11-02`
 - Source: [ibw-side-events.json](sources/ibw-side-events.json)
 - Starts: 2026-11-02T10:00:00+05:30
-- Description: Unverified stored copy
+- Description: Source-backed
 - Original page: <https://defisecuritysummit.org/>
 
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+### About the event
+
+DSS returns during Devcon week in Mumbai for two days of talks, workshops, and community work on practical DeFi security.
+
+### Day 2: 2 November 2026
+
+The second day of DeFi Security Summit is included in the official India Blockchain Week calendar from 10:00 AM to 7:00 PM. It concludes the organizer's 1-2 November summit in Mumbai.
+
+The detailed 2025 Buenos Aires sessions displayed elsewhere on the organizer's site belong to the previous edition, not this Mumbai event.
 
 <a id="event-bdef4e3b9ee43908"></a>
 
@@ -13218,10 +13843,22 @@ Seats are confirmed personally. Registering here is a request, not a confirmatio
 - Record: `ibw-official-ibw-official-after-party-11-02`
 - Source: [ibw-side-events.json](sources/ibw-side-events.json)
 - Starts: 2026-11-02T19:00:00+05:30
-- Description: Unverified stored copy
+- Description: Source-backed
 - Original page: <https://indiablockchainweek.com/>
+- Original page: <https://indiablockchainweek.com/ibw_2026/side-events>
+- Original page: <https://docs.google.com/spreadsheets/d/1NZ09OVlqElsM64oUm-8i1yh_A-U0p39BJECthwHCsLA/htmlview/sheet?headers=true&gid=0>
 
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+### About the event
+
+The official India Blockchain Week after-party is hosted by Hashed Emergent on Monday, 2 November 2026, from 7:00 PM to 11:00 PM. It follows the second day of the IBW2026 Conference in Mumbai.
+
+### Organizer and schedule
+
+The organizer's IBW2026 event calendar identifies this as a party hosted by Hashed Emergent. The same calendar lists the main conference on 1-2 November.
+
+### Registration
+
+The separate after-party registration link is marked TBD in the official calendar. The calendar does not provide a confirmed party venue or ticket price; the organizer's source should be checked for those details before attending.
 
 <a id="event-4e6126d3438b853d"></a>
 
@@ -13344,6 +13981,37 @@ Explore. Innovate. Participate.
 
 Note: The EIP Hub is only accessible to Devcon 8 ticket holders. A valid Devcon ticket is required to enter.
 
+<a id="event-1df2e4cbfa87a614"></a>
+
+## Pragma Mumbai
+
+- Record: `ibw-official-pragma-mumbai-11-05`
+- Source: [ibw-side-events.json](sources/ibw-side-events.json)
+- Starts: 2026-11-04
+- Description: Source-backed
+- Original page: <https://ethglobal.com/events/pragma-mumbai>
+
+### About the event
+
+Pragma is designed to be a different kind of event. We bring together a small group of founders and builders to discuss the future of web3 and reflect on the past.
+
+### Mumbai summit
+
+Join ETHGlobal on 4 November 2026 in Mumbai for a summit showcasing the best of Web3. The venue is Grand Hyatt Mumbai.
+
+### What makes Pragma special
+
+- No parallel sessions
+- Invite only
+- Top founders
+- Curated content
+- Beginner friendly
+- Intimate discussions
+
+### Tickets
+
+The organizer lists early-bird Network, Hacker and General passes. Full access covers talks, interviews and panels, with opportunities to connect with speakers and attendees. See the organizer's checkout for the current pass conditions.
+
 <a id="event-341efe25b6b59410"></a>
 
 ## Ravecon BEnder
@@ -13367,18 +14035,6 @@ No stages. No speeches. No networking session disguised as a party.
 Just good house music, drinks and a bunch of people from the crypto world in one place.
 
 21+ only :*
-
-<a id="event-1df2e4cbfa87a614"></a>
-
-## Pragma Mumbai
-
-- Record: `ibw-official-pragma-mumbai-11-05`
-- Source: [ibw-side-events.json](sources/ibw-side-events.json)
-- Starts: 2026-11-05T10:00:00+05:30
-- Description: Unverified stored copy
-- Original page: <https://ethglobal.com/events/pragma-mumbai>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-38ade2d577e1f1bb"></a>
 
@@ -25409,15 +26065,33 @@ An organizer description has not been verified for this record. Any previous cop
 
 <a id="event-40861364655f00c3"></a>
 
-## Crypto World´s Fair Hackathon by Colosseum
+## Crypto World's Fair Hackathon by Colosseum
 
 - Record: `w3v-crypto-worlds-fair-hackathon-by-colosseum`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-09-14T06:00:00.000Z
-- Description: Unverified stored copy
+- Description: Source-backed
 - Original page: <https://colosseum.com/worldsfair>
 
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+### About the event
+
+An online hackathon bringing together builders and founders across all crypto ecosystems to launch breakout startups.
+
+### Crypto World's Fair
+
+Crypto World's Fair is an open competition of the ideas, technologies, and communities shaping the blockchain ecosystem.
+
+Inspired by the historic world's fairs, it brings together builders and founders who are ready to exhibit the products and innovations that are going to drive the next wave of crypto startups that bring the world's markets onchain.
+
+### Awards and opportunities
+
+Compete for $840,000 in prizes and $2.5 million in seed funding. Submissions are due October 12, 2026.
+
+All Hackathon winners will be interviewed and considered for Colosseum's accelerator program.
+
+### Livestream workshops
+
+All workshops stream live on Discord. Join the Colosseum Discord to watch live, ask questions, and never miss a session.
 
 <a id="event-7cb0a898ed6d817e"></a>
 
@@ -29256,6 +29930,59 @@ As this is an invite-only event, please be aware that registering does not guara
 
 Please note that entry will be granted only to ticketed guests, and tickets are not transferable.
 
+<a id="event-c25323b91ea10b08"></a>
+
+## CoinFerenceX Singapore 2026 - Day 1
+
+- Record: `token2049-side-6a5dff0dd1b48ddf39d0827c`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-05
+- Description: Source-backed
+- Original page: <https://luma.com/cfx-tbe-summit>
+
+### About the event
+
+Stay in the loop for what's happening at CoinFerenceX The Best Event Singapore! Join our Telegram group for all the latest updates https://t.me/+5KzXYg2cridmOGRl
+
+For sponsor inquiries, please contact Mihir via email or Telegram (https://t.me/mihirohdrani).
+
+Follow The Best Event on Instagram for event information, recaps, features, and giveaways https://instagram.com/ (https://instagram.com/_thebestevent)thebestevent (https://instagram.com/thebestevent)
+
+### CoinFerenceX The Best Event Singapore
+
+Our biggest summit to date, co-created with CoinFerenceX. Two days of high-impact Web3 programming at Gardens by the Bay, Singapore's biggest Decentralised Summit.
+
+5-6 October 2026 | Gardens by the Bay, Singapore
+
+### What to expect
+
+This summit brings TBE's production scale together with CoinFerenceX's curation, built around four experience tracks:
+
+- 100+ C-level speakers across key Web3 & Web2 verticals
+- Booth & exhibition area for brands and builders
+- The Leaders Summit, an invite-only gathering for governance decisions and strategic partnerships
+- Protocol Deep Dives, technical workshops where protocols demo what they're actually shipping
+- The Founders' Den, where early-stage builders pitch directly to 500+ VCs and investors
+- 4,000+ curated attendees and 8,000+ total event registrations
+
+A curated environment built for deal-making, discovery, and real conversations.
+
+This is where partnerships start, ideas move forward, and visibility turns into momentum.
+
+### Hosted by
+
+CoinFerenceX (https://coinferencex.com) is the Web3 conference series known for curating high-signal gatherings of founders, investors, and builders. Partners help shape the agenda itself rather than simply buying booth space and a speaking slot.
+
+The Best Event (https://thebestevent.com) is the global series where Web3 comes to life, blending culture, tech, music, and community in iconic venues around the world. TBE brings together the boldest creators, top brands, and visionaries shaping the future for unforgettable, high-energy experiences.
+
+### Partners
+
+TBV (https://tbv.xyz) (TB Ventures) is a VC fund focused on leading rounds in early-stage web3 companies in South East Asia and North America. TBV is supported by TBE (TB Events) and TBA (TB Advisory), creating a network of services underpinned by a 100k+ social following and 10k+ active TG community.
+
+### Media Partners
+
+MarketAcross (https://marketacross.com) is the world's leading PR firm in Web3, with clients such as Binance, Crypto.com (https://Crypto.com), dYdX, KuCoin & Cardano.
+
 <a id="event-c666484d94174426"></a>
 
 ## 0G Dev Day: ZERO TO INFINITY
@@ -29483,18 +30210,6 @@ Hosted by Taisu Ventures, the forum connects capital with a curated group of com
 The afternoon will feature perspectives from active market participants, a curated showcase of RWA opportunities from the Taisu ecosystem, and dedicated time for direct conversations between capital providers and builders.
 
 Lunch will be served. Please register in advance to help us plan accordingly.
-
-<a id="event-c25323b91ea10b08"></a>
-
-## CoinFerenceX the best event - Day 1
-
-- Record: `token2049-side-6a5dff0dd1b48ddf39d0827c`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-05T07:00:00+08:00
-- Description: Unverified stored copy
-- Original page: <https://coinferencex.com/singapore>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-e980f25320b9da9c"></a>
 
@@ -30191,6 +30906,59 @@ If you want to invest in Bankless Ventures, you can submit an interest form as a
 If you're a startup that wants to be reviewed by our investment team, show us what you're building here. (https://forms.gle/trJtadR5rcBLzT3j8?utm_source=luma)
 
 Updates → https:/ (http://twitter.com/benlakoff?utm_source=luma)/benlakoff (http://twitter.com/benlakoff?utm_source=luma)
+
+<a id="event-679b7f1ed9a1949b"></a>
+
+## CoinFerenceX Singapore 2026 - Day 2
+
+- Record: `token2049-side-6a5dff0ed1b48ddf39d0827e`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-06
+- Description: Source-backed
+- Original page: <https://luma.com/cfx-tbe-summit>
+
+### About the event
+
+Stay in the loop for what's happening at CoinFerenceX The Best Event Singapore! Join our Telegram group for all the latest updates https://t.me/+5KzXYg2cridmOGRl
+
+For sponsor inquiries, please contact Mihir via email or Telegram (https://t.me/mihirohdrani).
+
+Follow The Best Event on Instagram for event information, recaps, features, and giveaways https://instagram.com/ (https://instagram.com/_thebestevent)thebestevent (https://instagram.com/thebestevent)
+
+### CoinFerenceX The Best Event Singapore
+
+Our biggest summit to date, co-created with CoinFerenceX. Two days of high-impact Web3 programming at Gardens by the Bay, Singapore's biggest Decentralised Summit.
+
+5-6 October 2026 | Gardens by the Bay, Singapore
+
+### What to expect
+
+This summit brings TBE's production scale together with CoinFerenceX's curation, built around four experience tracks:
+
+- 100+ C-level speakers across key Web3 & Web2 verticals
+- Booth & exhibition area for brands and builders
+- The Leaders Summit, an invite-only gathering for governance decisions and strategic partnerships
+- Protocol Deep Dives, technical workshops where protocols demo what they're actually shipping
+- The Founders' Den, where early-stage builders pitch directly to 500+ VCs and investors
+- 4,000+ curated attendees and 8,000+ total event registrations
+
+A curated environment built for deal-making, discovery, and real conversations.
+
+This is where partnerships start, ideas move forward, and visibility turns into momentum.
+
+### Hosted by
+
+CoinFerenceX (https://coinferencex.com) is the Web3 conference series known for curating high-signal gatherings of founders, investors, and builders. Partners help shape the agenda itself rather than simply buying booth space and a speaking slot.
+
+The Best Event (https://thebestevent.com) is the global series where Web3 comes to life, blending culture, tech, music, and community in iconic venues around the world. TBE brings together the boldest creators, top brands, and visionaries shaping the future for unforgettable, high-energy experiences.
+
+### Partners
+
+TBV (https://tbv.xyz) (TB Ventures) is a VC fund focused on leading rounds in early-stage web3 companies in South East Asia and North America. TBV is supported by TBE (TB Events) and TBA (TB Advisory), creating a network of services underpinned by a 100k+ social following and 10k+ active TG community.
+
+### Media Partners
+
+MarketAcross (https://marketacross.com) is the world's leading PR firm in Web3, with clients such as Binance, Crypto.com (https://Crypto.com), dYdX, KuCoin & Cardano.
 
 <a id="event-2989377393cfa9a6"></a>
 
@@ -31763,18 +32531,6 @@ Just like Sorted Wallet makes digital finance more accessible, Sorted Swing is a
 Simple. Social. Sorted.
 
 Community Partner: Artsdao traveling tribe
-
-<a id="event-679b7f1ed9a1949b"></a>
-
-## CoinFerenceX the best event - Day 2
-
-- Record: `token2049-side-6a5dff0ed1b48ddf39d0827e`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-06T07:00:00+08:00
-- Description: Unverified stored copy
-- Original page: <https://coinferencex.com/singapore>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-b91f603e1a4d52cd"></a>
 
@@ -36312,10 +37068,24 @@ An organizer description has not been verified for this record. Any previous cop
 - Record: `token2049-side-6aa41e96c0426d278bd87cfe`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-10-07T17:00:00+08:00
-- Description: Listing stub
+- Description: Source-backed
 - Original page: <https://www.token2049.com/singapore/nexus-startup-competition>
 
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+### About the event
+
+NEXUS is TOKEN2049's startup competition for early-stage crypto companies. The organizer's 2026 competition runs on 7-8 October in Singapore, with founders pitching for equity-free prizes and meeting Web3 investors.
+
+### Competition
+
+The organizer lists a $250,000 prize pool and ten finalists. Startups must have been incorporated from 2023 onwards and raised less than $5 million in investments. Applying is free, and selection is merit-based.
+
+### Finalist access
+
+Top ten finalists receive a complimentary startup stand, full TOKEN2049 access on 7-8 October, speaker perks, three complimentary team tickets, photography and session recordings, and event marketing coverage.
+
+### Application status
+
+NEXUS 2026 applications are closed. The organizer is accepting waitlist registrations for NEXUS 2027.
 
 <a id="event-daf31ac6f97a7978"></a>
 
@@ -36952,6 +37722,137 @@ OpenServ is an R&D lab building novel agentic architectures and products, bridgi
 Reppo | @Reppo (https://x.com/reppo)
 
 Reppo is a decentralized protocol and platform for sourcing, curating, verifying, and monetizing high-quality AI training data through domain-specific onchain prediction markets and stake-backed incentives.
+
+<a id="event-5edb9f768691ad2f"></a>
+
+## Agentic Finance Summit + The Odds: Prediction Markets Live
+
+- Record: `token2049-side-6a71f32ad1b48ddf39d09b86`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-08T06:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/8oxs8lco>
+
+### Institutional Summit | 2 Tracks: Agentic Finance and Prediction Markets
+
+Suntec City | Suntec Convention Centre, Singapore (https://www.evasuntec.com/49734-getting-here/342301-getting-here?from_search#0112831)
+
+October 8, 2026
+
+14:00 - 20:00
+
+During TOKEN2049 Week
+
+400 curated attendees
+
+50+ speakers planned across the program
+
+Attendees will experience executive-level panels, curated introductions, private meetings, product showcases, and structured networking, with food, drinks, and surprises
+
+### Who's in the Room
+
+The summit is built for senior decision-makers from across institutional finance, AI and market infrastructure, including:
+
+- Banks, financial institutions and payment networks
+- Exchanges, trading platforms and prediction markets
+- Hedge funds, asset managers and institutional investors
+- Market makers and liquidity providers
+- AI and agentic-finance companies
+- Data providers, research platforms and oracles
+- Compliance, regulatory and financial infrastructure providers
+- Venture-capital firms and strategic investors
+- Founders, CEOs and C-level executives
+
+### Speakers
+
+50 TOP-leaders of Global Agentic Finance:
+
+- Yoni Assia, CEO and Co-Founder, eToro
+- Scott Lawin, President, Pantera Capital
+- Stani Kulechov, Founder and CEO, Aave Labs
+- Manideep "Mani" Gupta, Vice President, AP Head of Consulting & AI, Visa
+- Joanna Ossinger, Managing Editor/Head of Digital APAC, CNBC
+- Anton Ruddenklau, Head of Financial Services, KPMG
+- Henri Arslanian, Co-Founder, ACX Compliance
+- Megan Otway, FCA Financial Services Attaché, British High Commission in Singapore
+- Guillaume Poncin, Chief Technology Officer, Alchemy
+- Yoshi Yokokawa, Co-Founder and CEO, Alpaca
+- Anil Nadiminti, Senior Solutions Architect, AWS
+- Xen Baynham-Herd, Head of Marketing and Global Expansion, Base
+- Ouriel Ohayon, Managing Director, Zengo (acquired by eToro)
+- Omri Ross, Chief Blockchain Officer, eToro
+- Nitin Gaur, Head of Institutions, Nethermind
+- Marcin Kaźmierczak, Co-Founder & COO, RedStone
+- James Beck, Head of Growth, ENS
+- Shiliang Tang, Managing Partner, Monarq Asset Management
+- Pei Chen, CEO, Theoriq
+- Jacquelyn Melinek, Founder & CEO, StrataMedia
+- Sergio Chan, Founder, t54 Labs
+- Omar-Shakeeb Zahir, Co-Founder & CEO, SecondLane
+- Heslin Kim, Co-Founder, Chief Business Officer, Zenith
+- Avital Haitovich, Partner and Lead of the Crypto and Blockchain Practice, Gornitzky & Co.
+- Franklyn Wang, CEO, Liquid
+- Ofir Eliasi, DeFi Expert, Chief Technology Officer, Lava Network
+- Anne-Grace Kleczewski, Independent Legal Advisor, Call the Human
+
+Organizer:
+
+- Tal Mor, Founder & Summit Chair, More & More
+
+### Track 1: Agentic Finance
+
+Institutional Finance Meets Agentic AI
+
+The Agentic Finance Track examines how autonomous and AI-powered systems are moving from experimentation into the infrastructure of global finance. Designed for institutions, founders, investors, and technology leaders who are deploying, regulating, and building the next generation of financial systems.
+
+Agentic Trading
+
+Autonomous execution, trading intelligence, institutional risk management, and AI-powered decision-making at scale.
+
+Agentic Payments & Infrastructure
+
+AI agents operating across payment rails, stablecoins and next-generation financial infrastructure.
+
+Regulation & Compliance in the AI Era
+
+How financial institutions, regulators and compliance providers are approaching AI monitoring, risk detection, enforcement and accountability inside regulated workflows.
+
+Building Agentic Startups with Financial Institutions
+
+The realities of building, implementing and scaling agentic technology with banks and financial institutions, including trust, procurement, security, regulation and institutional adoption.
+
+Wallets, Vaults, Staking & Asset Management
+
+How agentic systems are transforming wallets, digital-asset vaults, staking, institutional asset management and the infrastructure used to manage onchain capital.
+
+### Track 2: The Odds, Prediction Markets Live
+
+The Room Where the Future of Prediction Markets Is Decided
+
+Core Themes
+
+- Institutional Adoption & Market Structure
+- Prediction Markets & Exchanges
+- Liquidity & Market Making
+- AI Forecasting & Autonomous Agents
+- Data, Oracles & Research Infrastructure
+- Regulation & Compliance
+- Prediction-Market Infrastructure
+- New Products and Use Cases
+
+For more information:
+
+Agentic Finance:
+
+https://mnm.live/agentic-finance
+
+The Odds:
+
+https://mnm.live/theodds/t2049singapore
+
+### Produced by More & More
+
+More & More creates curated conferences, executive gatherings, VIP delegations, and strategic business development environments across global technology and institutional markets.
 
 <a id="event-411e0b50f550ccb2"></a>
 
@@ -37792,18 +38693,6 @@ Hosted by BFinance, this is a chance to unwind after a full day around the confe
 
 // To be anounced
 
-<a id="event-5edb9f768691ad2f"></a>
-
-## Agentic Finance Summit
-
-- Record: `token2049-side-6a71f32ad1b48ddf39d09b86`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-08T14:00:00+08:00
-- Description: Unverified stored copy
-- Original page: <https://bit.ly/4gAgyfJ>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-bfe6f9cb24d1b005"></a>
 
 ## NEXUS Startup Competition Final Round
@@ -37811,10 +38700,29 @@ An organizer description has not been verified for this record. Any previous cop
 - Record: `token2049-side-6aa41f2ac0426d278bd87d05`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-10-08T15:00:00+08:00
-- Description: Listing stub
+- Description: Source-backed
 - Original page: <https://www.token2049.com/singapore/nexus-startup-competition>
 
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+### About the event
+
+The NEXUS final round is part of TOKEN2049's 7-8 October 2026 startup competition in Singapore. Early-stage crypto startups pitch for equity-free prizes before an expert jury and the TOKEN2049 community.
+
+### Finalists and prizes
+
+The organizer lists ten finalists and a $250,000 prize pool. The jury may make investment offers outside the prize grant.
+
+### What finalists receive
+
+- An opportunity to compete for partner prizes
+- A complimentary startup stand at TOKEN2049 Singapore
+- Full access to TOKEN2049 on 7-8 October
+- Speaker reception, networking drinks and lounge access
+- Three complimentary tickets for the team and its network
+- Photography, on-stage pitch recordings and marketing coverage
+
+### Applications
+
+Applying is free and selection is merit-based. Applications for NEXUS 2026 have closed; the organizer now offers a 2027 waitlist.
 
 <a id="event-ac66f71715e8c7ee"></a>
 
@@ -37823,10 +38731,20 @@ An organizer description has not been verified for this record. Any previous cop
 - Record: `token2049-side-6aa41d6d8ffcc4e5ece10d0f`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-10-08T16:40:00+08:00
-- Description: Listing stub
+- Description: Source-backed
 - Original page: <https://www.token2049.com/singapore/2049-origins>
 
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+### About the event
+
+The Origins prize ceremony concludes the TOKEN2049 Origins hackathon program in Singapore. The organizer's 6-8 October program gives builders 36 hours to develop a working product, receive mentorship and demo on the TOKEN2049 stage.
+
+### Prizes and tracks
+
+The organizer lists a $150,000 prize pool. Tracks include agentic commerce on Cardano, workflows using the Chainlink Runtime Environment, multichain infrastructure with NOWNodes, and applications built on Solana. Teams compete for prizes, grants and accelerator opportunities.
+
+### Participation
+
+Origins is free, including food, drinks and conference access. Physical attendance at Marina Bay Sands is required for the full hackathon; remote participation is not offered. Teams may have up to four members, and solo applicants are welcome.
 
 <a id="event-a1d4f8fc940fcf0b"></a>
 
@@ -38186,15 +39104,26 @@ The Milken Institute welcomes speaker recommendations for Asia Summit 2026. Reco
 
 <a id="event-7a67932a6a959efc"></a>
 
-## Vault Summit
+## Vault Summit: Singapore
 
 - Record: `token2049-side-6a622e12d1b48ddf39d08981`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-10-09T09:00:00+08:00
-- Description: Listing stub
+- Description: Source-backed
 - Original page: <https://sg2026.vaultsummit.xyz>
+- Original page: <https://sg2026.vaultsummit.xyz/>
 
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+### About the event
+
+Vault Summit is a global conference series focused on onchain vault infrastructure for institutional asset management.
+
+Institutional confidence in on-chain asset management, built vault by vault.
+
+This is Vault Summit: Singapore.
+
+### Hosts and venue
+
+Morpho and DigiFT host the Singapore summit at Andaz Singapore on 9 October 2026, from 9:00 AM to 6:00 PM Singapore time.
 
 <a id="event-eb435b8eb1449910"></a>
 
@@ -38695,18 +39624,6 @@ The Best Event (https://www.instagram.com/_thebestevent?utm_source=luma) is the 
 
 For sponsor inquiries for the penthouse editions, please contact Mihir via Telegram (https://t.me/mihirodhrani) or email mihir@tbv.xyz.
 
-<a id="event-7c492ebc8ae7ee25"></a>
-
-## F1 Practice and Sprint Qualifying
-
-- Record: `token2049-side-6a739bc8d1b48ddf39d09e32`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-09T12:30:00+08:00
-- Description: Listing stub
-- Original page: <https://singaporegp.sg/en>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-19124289235f1298"></a>
 
 ## Central Command x Blofin - Chill And Spill
@@ -38731,17 +39648,59 @@ Invite only, Hope to see you!
 
 https://centralcommand.io
 
+<a id="event-7c492ebc8ae7ee25"></a>
+
+## F1 Practice and Sprint Qualifying
+
+- Record: `token2049-side-6a739bc8d1b48ddf39d09e32`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-09T16:30:00+08:00
+- Description: Source-backed
+- Original page: <https://singaporegp.sg/en>
+- Original page: <https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE>
+
+### About the event
+
+Friday's Formula 1 program at the 2026 Singapore Grand Prix includes the first practice session and Sprint Qualifying at the Marina Bay Street Circuit.
+
+### Friday, 9 October
+
+- 16:30-17:30: Formula 1 first practice session
+- 18:30-19:30: Teams' press conference
+- 20:30-21:14: Sprint Qualifying
+
+Times are local to Singapore, which is eight hours ahead of UTC. The official timetable is subject to change.
+
 <a id="event-b2867bc5ef2589f6"></a>
 
 ## AFTER 2049: The official closing party of TOKEN2049
 
 - Record: `token2049-side-6a7445ef7ef1577c1e37eca1`
 - Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-09T20:00:00+08:00
-- Description: Listing stub
+- Starts: 2026-10-09T19:00:00+08:00
+- Description: Source-backed
 - Original page: <https://megatix.com.sg/events/after2049>
 
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+### About the event
+
+AFTER 2049 presents Claptone and Crusy.
+
+AFTER 2049 returns to the roof on Friday, 9 October 2026, at the Marina Bay Sands SkyPark Observation Deck.
+
+Claptone takes over the MBS SkyPark for this year's AFTER 2049, joined by Crusy and returning AFTER 2049 residents ANONM, Leon, Milam and Mo-Shi.
+
+360° spatial audio by Polygon Live is exclusive to AFTER 2049 in Asia for 2026.
+
+### Access and timings
+
+- Doors open at 7:00 PM.
+- Entry is not guaranteed after 11:00 PM.
+- There is no re-entry after midnight; entry is subject to venue capacity.
+- The minimum age is 18, and valid photo ID is required.
+
+### Dress code
+
+Smart casual. No athletic wear, leisure wear, flip flops or shorts. Management reserves the right to deny entry.
 
 <a id="event-7a471a93c94b596d"></a>
 
@@ -39008,11 +39967,23 @@ Selini (https://www.selinicapital.com/)is a global trading firm focused on syste
 
 - Record: `token2049-side-6a739c525a75007b4100108c`
 - Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-10T13:00:00+08:00
-- Description: Listing stub
+- Starts: 2026-10-10T17:00:00+08:00
+- Description: Source-backed
 - Original page: <https://singaporegp.sg/en>
+- Original page: <https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE>
 
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+### About the event
+
+Saturday's Formula 1 program at the 2026 Singapore Grand Prix includes the Sprint and Grand Prix qualifying at the Marina Bay Street Circuit.
+
+### Saturday, 10 October
+
+- 17:00-17:30: Formula 1 Sprint, listed as 21 laps or 60 minutes
+- 17:30-18:00: Formula 1 press conference
+- 21:00-22:00: Grand Prix qualifying session
+- 22:00-23:00: Formula 1 press conference
+
+Times are local to Singapore. The organizer notes that the timetable is subject to change.
 
 <a id="event-cb4b241e7530810c"></a>
 
@@ -39320,11 +40291,22 @@ For sponsor inquiries for the penthouse editions, please contact Mihir via Teleg
 
 - Record: `token2049-side-6a739ce35a75007b41001095`
 - Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-11T16:00:00+08:00
-- Description: Listing stub
+- Starts: 2026-10-11T20:00:00+08:00
+- Description: Source-backed
 - Original page: <https://singaporegp.sg>
+- Original page: <https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE>
 
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+### About the event
+
+The Formula 1 Singapore Airlines Singapore Grand Prix 2026 takes place over 62 laps of the 4.927-kilometre Marina Bay Street Circuit on Sunday, 11 October.
+
+### Sunday race program
+
+- 18:00-18:30: Drivers' parade
+- 19:44-19:46: National anthem
+- 20:00-22:00: Grand Prix, listed as 62 laps or 120 minutes
+
+Times are local to Singapore, eight hours ahead of UTC. The official timetable is subject to change.
 
 <a id="event-8bcb9920c89cf38d"></a>
 
@@ -39599,6 +40581,180 @@ An organizer description has not been verified for this record. Any previous cop
 
 Discover AIBC World, connecting innovators in AI, blockchain, and emerging tech through global events, networking, and insights shaping the future.
 
+<a id="event-9c005b033cc84c96"></a>
+
+## Ethereum Cypherpunk Congress #3
+
+- Record: `w3v-ethereum-cypherpunk-congress-mumbai`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-02T04:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/spsnos9t>
+
+### About the event
+
+Cypherpunk Congress is coming to India!
+
+Expect the biggest human rights x neo-cypherpunk festival. Buenos Aires edition hit 4500 people, 100 speakers from Vitalik Buterin/Ethereum to Roger Dinglerine/Tor & long-lasting impact.
+
+### The first batch of highly-curated speakers are here
+
+Curatorial note: we assemble speakers on intersection between digital rights, FOSS, decentralisation & cryptography.
+
+They propose practical solutions for global challenges from polarisation in social media to raise of dictatorships. Challenge internet shutdowns, abuse of digital identity, & attacks on encryption. With proven track record from @EFF (https://x.com/EFF) to @brave (https://x.com/brave).
+
+Welcome to Mumbai!
+
+@kurtopsahl (https://x.com/kurtopsahl) x @FilFoundation (https://x.com/FilFoundation) for long-lasting defence of encryption in EFF, exceptional human qualities and bridging gap betwen old & new cypherpunks
+
+@Isa (https://x.com/Isa) x @torproject (https://x.com/torproject) for exceptional work on harmonizing network-level privacy and digital rights
+
+@ghappour (https://x.com/ghappour) x flashbots for matching digital rights & web3 culture. Being a real representative of privacy-first, encryption-centric narrative across borders & ecosystems.
+
+@therealyingtong (https://x.com/therealyingtong) for proving that real-world cryptography exists in practice & can serve marginalized people
+
+Justin Drake (https://x.com/drakefjustin) - key Ethereum Foundation protocol researcher
+
+@lunardragon420 (https://x.com/lunardragon420) x @DarkFiSquad (https://x.com/DarkFiSquad) for uncompromising values & visionary ideas on both tech activism & role of code
+
+@mala (https://x.com/mala) x @FilFoundation (https://x.com/FilFoundation) for openness to transition old cypherpunk narratives into compeling and positive knowledge for the future to come
+
+@jaromil (https://x.com/jaromil) x @DyneOrg (https://x.com/DyneOrg) for balancing hacktivist culture with digital identity challenges, defending civic society by representing us in institutions
+
+@ml_sudo (https://x.com/ml_sudo) x @ethereumfndn (https://x.com/ethereumfndn)'s Silviculture for accelerating meaningful cryptography & culture across ecosystems
+
+@PryvitKyle (https://x.com/PryvitKyle) x @brave (https://x.com/brave) for brinding gap between already proven privacy tech & emerging innovations - showing how crypto can plug'n'play in traditional tech
+
+@SCBuergel (https://x.com/SCBuergel) x @gnosis_ (https://x.com/gnosis_) + @hoprnet (https://x.com/hoprnet) for dedicating years of life to deliver network-level privacy, staying for the culture and diversifying VPN market.
+
+@jbaylina (https://x.com/jbaylina) x @ziskvm (https://x.com/ziskvm) for tech dedication to solve digital rights in practice, growing a group of cryptographers, scaling & securing millions of people.
+
+FOCUS AREAS
+
+@AndyGuzmanEth (https://x.com/AndyGuzmanEth) x @PrivacyEthereum (https://x.com/PrivacyEthereum) for proving that the future of privacy ecosystem depends on decency and positive communication.
+
+@Fatalmeh (https://x.com/Fatalmeh) for caring about human rights now, legal web3 policies, & decentralised tech that will shift global power dynamics
+
+@miroyato (https://x.com/miroyato) x @fileverse (https://x.com/fileverse) for by-week practical deGoogling at scale via http://ddocs.new & bringing deep academical approach to decentralised tech culture
+
+@auryn_macmillan (https://x.com/auryn_macmillan) x @EnclaveE3 (https://x.com/EnclaveE3) for long-lasting representation of human values where code really becomes a speech. Delivering complex encryption for confidential computation.
+
+@hebbianloop (https://x.com/hebbianloop) x @humntech (https://x.com/humntech) for protecting identity at scale & bridging traditional digital rights with emerging tech
+
+@Cryptic_cm (https://x.com/Cryptic_cm) x @session_app (https://x.com/session_app) for providing vocal alternatives to how we securely communicate & collaborate online
+
+@kassandraETH (https://x.com/kassandraETH) x @ethereumfndn (https://x.com/ethereumfndn) for proving that code is an art, & cultural diversity can bring striking change - uniting ecosystems & voices beyond tribalism
+
+@Pol_Lanski (https://x.com/Pol_Lanski) x @dappnode (https://x.com/dappnode) for proving that node-running isn't a rocket science, but active contribution to both decentralisation and censorship resistance
+
+@LoringHarkness (https://x.com/LoringHarkness) x @ShutterNetwork (https://x.com/ShutterNetwork) for pushing new cryptographic primitives to life, alligning different actords towards Encrypted Mempools
+
+@TMIYChao (https://x.com/TMIYChao) x @ethereumfndn (https://x.com/ethereumfndn) + @BordelWTF (https://x.com/BordelWTF) for keeping reminding that original cypherpunks were build on values & not shiny merch (we translate: use @GrapheneOS (https://x.com/GrapheneOS), run your own node, visit CCC etc)
+
+@0xMeTony (https://x.com/0xMeTony) x @fluidkey (https://x.com/fluidkey) for proving that hackathons can create decent privacy-projects positively evolving over time
+
+Daniel x @invisiblgarden (https://x.com/invisiblgarden) for matching digital rights with commons, practical web3 aplicability to the endangered societies
+
+@ncsgy (https://x.com/ncsgy) x @ethereumfndn (https://x.com/ethereumfndn) for bringing tangible privacy via Kohaku, chancing the whole wallet-domain for better, and activating positive side of web3 to millions of people.
+
+@willscott (https://x.com/willscott) for representing man of action approach, helping, supporting, activating. Together.
+
+### COMMUNITY PARTNERS
+
+SPONSORS
+
+CONTRIBUTE
+
+Partner: https://tally.so/r/mVxvgN
+
+Speak (CfP): https://tally.so/r/nrOzXl
+
+Volunteer: https://tally.so/r/3lLqKo
+
+Join our community to receive latest news: https://t.me/+QOj6126xlEs0OTQ0
+
+Watch Congress #2 talks: https://youtu.be/XKJ1ZJrkKWA?si=eZNEZQri3uheJgrN
+
+### Lasting cultural phenomenon
+
+Focusing on values, active political stance, and cutting-edge research will help Ethereum become a cultural & resilient to change phenomenon.
+
+watch aftermovie: https://www.youtube.com/watch?v=97-qkXRmMlk
+
+expect phenomenal lineup [Congress #2 example]
+
+We are talking not only about the existence of privacy-preservation dapps, but Free & Open-source software development, support for free speech and whistleblowers around the world, helping marginalized people get access to the decolonial money system, safe & empowered tech, and last but not least - diverse and active communities of care.
+
+Supporting privacy developers
+
+Roman Storm Congress #2 opening https://youtu.be/XKJ1ZJrkKWA?si=GGrhiF5TOZcfjUqy&t=811
+
+### Connecting web2 + web3
+
+Vitalik Buterin + Naomi Brockwell fireside https://www.youtube.com/watch?v=5At5_GiQNEA
+
+### Ethereum Social Layer (ESL)
+
+It is being formed before our eyes - an active ecosystem of thousands of thinkers, developers, analysts, human-rights DAOs, coordinators, and even ravers. Inspired by cypherpunks of the past, they create a foundation for the digital community of the future (explore our Cyherpunk personas (https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/u4ELDt0YkpCe272kD2f5kTThJsILg1pgaOeBsTSGV0I) article). Based on permissionless & censorship-resistance ideology. Follow Paul-Dylan Ennis (https://x.com/post_polar_/status/1813275641954877709) on ESL.
+
+### Activation
+
+The debut Ethereum Cypherpunk Congress assembles an active part of Ethereum. These people and organizations want to stand at the foundations of the unstoppable socio-techno-cultural movement.
+
+Special rituals help us to share Cypherpunk culture & build care for each other.
+
+They are activists, developers, cryptographers, ethical investors, philosophers, and researchers who are changing the possibilities for Ethereum on the path to freedom.
+
+Hackathon track
+
+Events for developers are critical activation points behind any cultural change. Every protocol from Aztec to Ethereum needs devs to build on top of it & deliver decentralized, permissionless & privacy-enhancing applications. We invited current privacy hackathon devs to reflect on their experience.
+
+Women in web3 privacy track
+
+Diversity in the web3 industry is a critical challenge, let alone in the privacy market. Let's discuss how we can be more open, diverse & inclusive to different opinions and opportunities.
+
+Activation track
+
+We want everyone to feel, use and contribute to practical privacy tooling. So we will showcase existing tools empowering your journey in decentralized world: Fileverse (http://fileverse.io), Rotki (http://rotki.com), Fluidkey (http://fluidkey.com), Radicle, GnosisVPN.
+
+Stunning merch delivered by Coinmandeer
+
+### High-level agenda
+
+- craft conditions needed to overcome challenges mapped in "Make Ethereum Cypherpunk again" essay
+- present Ethereum Privacy Ecosystem (https://docs.web3privacy.info/research/ethereum-privacy-ecosystem/) and its key players
+- explore socio-cultural conditions re-wiring degens into cypher-activists
+- build a mainstream culture around cypherpunk - make it an open and inclusive movement
+- remind of the origins of Ethereum ethos
+- articulate balance between open-source culture & financial sustainability behind projects
+- map the way to onboard 100K developers & 10M users experiencing safe Ethereum-centric privacy tech
+
+Contribute to the development of the cypherpunk culture of Ethereum. Everyone will be welcome here, from activists defending the rights of developers to degens who finally want to find a strong meaning in life.
+
+Contribute
+
+Speak (CfP): https://tally.so/r/nrOzXl
+
+Partner:
+
+- web3privacynow 'at' protonmail.com (http://protonmail.com) or
+- https://x.com/PG_CDG
+
+Volunteer: https://tally.so/r/3lLqKo
+
+Our previous events (feel the vibe)
+
+- Privacy Summit II (https://summit.web3privacy.info/) - Paralelni Polis, Prague 2024
+- Privacy Summit I (https://prague.web3privacy.info) - X10, Prague 2023
+- ETHRome Meetup (https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/bzv735Bc1zak7Yi-NcxWavMQKgt2ANXQtpkrSp8Xg3o)- Villaggio Globale, Rome 2023
+  Useful resources (for real)
+  Website: https://web3privacy.info/
+  Latest news: http://twitter.com/web3privacy
+  Github: http://www.github.com/web3privacy
+  Privacy market dashboard: http://explorer.web3privacy.info
+
+#Ethereum #cypherpunk #privacy #freedom #community #you
+
 <a id="event-6d630becee151776"></a>
 
 ## Solana Summit India
@@ -39629,18 +40785,6 @@ During the event, you can expect:
 Solana Summit India is open to all who register ahead of time and are approved, so we kindly request that you keep your registration up to date so that someone from the waitlist can attend in your place if you are no longer able to.
 
 Registration will be open onsite from 10:00 am to 5:00 pm.
-
-<a id="event-9c005b033cc84c96"></a>
-
-## Ethereum Cypherpunk Congress Mumbai
-
-- Record: `w3v-ethereum-cypherpunk-congress-mumbai`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-11-02T08:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://congress.web3privacy.info>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-e3df002d8dfd3938"></a>
 
@@ -40318,10 +41462,25 @@ The most exclusive room for capital, digital assets and AI. C-suite decision-mak
 - Record: `ma-bitcoin-mena`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-12-07T00:00:00.000Z
-- Description: Unverified stored copy
+- Description: Source-backed
 - Original page: <https://mena.b.tc/>
+- Original page: <https://mena.b.tc/event-update>
 
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+### About the event
+
+Following extensive discussions with our local partners we have decided to reschedule Bitcoin MENA to 2027. We will share the precise dates in the upcoming months.
+
+### Organizer update
+
+The organizer is committed to returning to the UAE in Winter 2027. Exact new dates have not been announced. The previous December 2026 dates should not be used for travel planning.
+
+### Existing tickets
+
+Your ticket automatically carries over to the new dates. You do not need to do anything. Ticket holders may also request a refund through the organizer's contact form.
+
+### Sponsors
+
+Your commitment carries forward to 2027, and our team will be in touch directly to walk through the details and make sure everything you planned for still delivers.
 
 <a id="event-1b8747f5f539b7eb"></a>
 

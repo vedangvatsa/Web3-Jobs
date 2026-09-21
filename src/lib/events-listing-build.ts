@@ -146,10 +146,11 @@ async function getRootContentSlugs(): Promise<Set<string>> {
 
 async function assignUniqueEventSlugs(events: Web3Event[]): Promise<Web3Event[]> {
   const reserved = await getRootContentSlugs();
-  return events.map((event) => {
+  const rootReserved = new Set(reserved);
+  const assigned = events.map((event) => {
     // Prefer explicit curated slugs so premier pages keep stable, human URLs.
     const curatedSlug =
-      event.sourceVerification || event.source === 'curated-premier' || event.source === 'luma-crypto' || event.source === 'curated-series'
+      event.sourceVerification || event.descriptionSource || event.source === 'curated-premier' || event.source === 'luma-crypto' || event.source === 'curated-series'
         ? event.slug?.toLowerCase().trim()
         : undefined;
     const baseSlug = curatedSlug || getEventBaseSlug(event);
@@ -159,6 +160,11 @@ async function assignUniqueEventSlugs(events: Web3Event[]): Promise<Web3Event[]>
     reserved.add(slug);
     return { ...event, slug };
   });
+  const canonicalSlugs = new Set(assigned.map((event) => event.slug));
+  for (const event of assigned) {
+    if (event.aliases) event.aliases = event.aliases.filter((alias) => !rootReserved.has(alias) && !canonicalSlugs.has(alias));
+  }
+  return assigned;
 }
 
 function isQualityEvent(e: Web3Event): boolean {
@@ -169,8 +175,8 @@ function isQualityEvent(e: Web3Event): boolean {
   if (SPAMMY.test(text)) return false;
   if (NON_WEB3_NAME.test(e.name)) return false;
   if (AMA.test(e.name)) return false;
-  if (ONLINE.test(e.name) || ONLINE.test(e.location ?? '')) return false;
-  return WEB3_VOCAB.test(text);
+  if ((ONLINE.test(e.name) || ONLINE.test(e.location ?? '')) && !getVerifiedEventDescription(e)) return false;
+  return Boolean(e.sideEventFor?.length && getVerifiedEventDescription(e)) || WEB3_VOCAB.test(text);
 }
 
 /** Drop scraped blurbs that were cut mid-sentence (e.g. "...learn abo"). */
@@ -281,12 +287,14 @@ export async function buildEventsListing(): Promise<Web3Event[]> {
     const rawAll = EVENT_SOURCES.flatMap((source) => source.events).map(linkSideEventParents);
 
     // Clean & normalize
-    const seenTitles = new Set<string>();
-    const seenUrls = new Set<string>();
+    const seenTitles = new Map<string, Web3Event>();
+    const seenUrls = new Map<string, Web3Event>();
     const cleaned: Web3Event[] = [];
 
     for (const e of rawAll) {
       if (!e.name || !e.startDate) continue;
+      if (e.publicationStatus === 'needs-review') continue;
+      if (!getVerifiedEventDescription(e)) continue;
       if (e.id.startsWith('side-ibw2026-')) continue;
       if (BLOCKED_EVENT_IDS.has(e.id)) continue;
       if (isWasetIcbtDuplicateEvent(e)) continue;
@@ -336,19 +344,12 @@ export async function buildEventsListing(): Promise<Web3Event[]> {
       const normTitle = normalizeEventTitle(cleanName);
       const normUrl = normalizeEventDomainUrl(externalUrl);
 
-      // Check URL match (same website domain/path on the same date)
-      if (normUrl && seenUrls.has(`${normUrl}|${datePart}`)) {
-        continue;
-      }
-
-      // Check normalized title + date match
       const titleKey = `${normTitle}|${datePart}`;
-      if (normTitle && seenTitles.has(titleKey)) {
+      const existing = (normUrl ? seenUrls.get(`${normUrl}|${datePart}`) : undefined) || (normTitle ? seenTitles.get(titleKey) : undefined);
+      if (existing) {
+        existing.aliases = [...new Set([...(existing.aliases || []), ...(e.aliases || []), getEventSlug(e), e.id].filter(Boolean).map((alias) => alias.toLowerCase().trim()))];
         continue;
       }
-
-      if (normTitle) seenTitles.add(titleKey);
-      if (normUrl) seenUrls.add(`${normUrl}|${datePart}`);
 
       const d = new Date(e.startDate);
       const monthStr = !isNaN(d.getTime())
@@ -366,7 +367,7 @@ export async function buildEventsListing(): Promise<Web3Event[]> {
         e.sourceVerification ? e.coverImage : eventImageOverrides[e.id] || KBW_LUMA_IMAGE_OVERRIDES[e.id] || e.coverImage,
       );
 
-      cleaned.push({
+      const normalizedEvent: Web3Event = {
         ...e,
         coverImage: posterCover,
         name: cleanName,
@@ -378,7 +379,10 @@ export async function buildEventsListing(): Promise<Web3Event[]> {
         registrationUrl: cleanRegistrationUrl,
         website: cleanWebsite,
         url: externalUrl || '',
-      });
+      };
+      cleaned.push(normalizedEvent);
+      if (normTitle) seenTitles.set(titleKey, normalizedEvent);
+      if (normUrl) seenUrls.set(`${normUrl}|${datePart}`, normalizedEvent);
     }
 
     // Sort chronologically:

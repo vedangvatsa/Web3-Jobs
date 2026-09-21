@@ -34,9 +34,10 @@ export interface Web3Event {
   descriptionSource?: {
     url: string;
     fetchedAt: string;
-    method: 'event-jsonld' | 'official-section' | 'official-meta' | 'matched-organizer-record';
+    method: 'event-jsonld' | 'official-section' | 'official-meta' | 'matched-organizer-record' | 'reviewed-primary-sources';
     pageTitle: string;
     sha256: string;
+    evidence?: Array<{ url: string; fetchedAt: string; sha256: string; retrievedVia?: string }>;
   };
   startDate: string;
   endDate?: string;
@@ -88,6 +89,9 @@ export interface Web3Event {
   twitter?: string | null;
   source?: string;
   slug?: string;
+  aliases?: string[];
+  publicationStatus?: 'needs-review';
+  sourceReview?: { checkedAt: string; url: string; reason: string };
   partnerOffer?: {
     text: string;
     url?: string;
@@ -251,8 +255,9 @@ export function dedupeEventLocation(location: string): string {
 
 /** Prefer a clean city/country pair when location is missing or duplicated. */
 export function formatEventLocation(
-  event: Pick<Web3Event, 'location' | 'city' | 'country'>,
+  event: Pick<Web3Event, 'location' | 'city' | 'country' | 'attendanceMode'>,
 ): string {
+  if (event.attendanceMode === 'online' || /^(?:online|virtual|remote|zoom|google meet|webinar)$/i.test((event.location || '').trim())) return 'Online';
   const rawCity = (event.city || '').trim();
   // Placeholder cities ("Global", "Online", ...) are data noise, not places.
   const GENERIC_CITIES = new Set(['global', 'virtual', 'online', 'tba', 'tbd', 'worldwide', 'remote', 'hybrid', 'various']);
@@ -461,7 +466,8 @@ export function formatEventDate(startDate: string, endDate?: string, timezone?: 
   return `${startMonth} ${startDay}, ${startYear} - ${endMonth} ${endDay}, ${endYear}`;
 }
 
-export function getEventDatePill(startDate: string, timezone?: string): { month: string; day: string; dayName: string } {
+export function getEventDatePill(startDate: string, timezone?: string, status?: Web3Event['eventStatus']): { month: string; day: string; dayName: string } {
+  if (status === 'EventPostponed') return { month: 'DATE', day: 'TBA', dayName: 'Postponed' };
   const start = new Date(startDate);
   if (isNaN(start.getTime())) return { month: 'TBA', day: '-', dayName: '' };
   const parts = eventDateParts(startDate, timezone);

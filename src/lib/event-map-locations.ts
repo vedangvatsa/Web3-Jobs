@@ -132,6 +132,7 @@ export const EVENT_MAP_CITY_COORDINATES: Record<string, [number, number]> = {
   'barcelona|ES': [41.39, 2.17],
   'madrid|ES': [40.42, -3.7],
   'lugano|CH': [46, 8.95],
+  'geneva|CH': [46.2, 6.15],
   'zurich|CH': [47.38, 8.54],
   'bangkok|TH': [13.76, 100.5],
   'beyoglu|TR': [41.04, 28.98],

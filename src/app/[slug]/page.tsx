@@ -483,10 +483,10 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                   <div className="flex h-full w-full flex-col items-center justify-center rounded-md border border-border/60 bg-muted/40 text-center">
                     <Calendar className="h-4 w-4 text-muted-foreground" aria-hidden="true" />
                     <span className="mt-1 text-[10px] font-bold uppercase leading-none text-primary">
-                      {getEventDatePill(event.startDate, event.timezone).month}
+                      {getEventDatePill(event.startDate, event.timezone, event.eventStatus).month}
                     </span>
                     <span className="mt-0.5 text-base font-extrabold leading-none text-foreground">
-                      {getEventDatePill(event.startDate, event.timezone).day}
+                      {getEventDatePill(event.startDate, event.timezone, event.eventStatus).day}
                     </span>
                   </div>
                 }
@@ -496,7 +496,10 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                       <div className="flex min-w-0 items-center gap-1.5">
                         <MapPin className="h-4 w-4 shrink-0 text-muted-foreground" />
                         <span className="break-words">
-                          {event.city && event.country
+                          {event.city &&
+                          event.country &&
+                          event.city.trim().toLowerCase() !==
+                            normalizeCountry(event.country).trim().toLowerCase()
                             ? `${event.city}, ${normalizeCountry(event.country)}`
                             : formatEventLocation(event)}
                         </span>
@@ -513,12 +516,12 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                         </a>
                       </Button>
                     )}
-                    <Button asChild variant="outline" className="flex-1 gap-2 whitespace-nowrap sm:flex-none">
+                    {event.eventStatus !== 'EventPostponed' && <Button asChild variant="outline" className="flex-1 gap-2 whitespace-nowrap sm:flex-none">
                       <a href={googleCalendarUrl} target="_blank" rel="noopener noreferrer" className="whitespace-nowrap">
                         <Calendar className="h-4 w-4 shrink-0 text-muted-foreground" />
                         <span className="whitespace-nowrap">Add to Calendar</span>
                       </a>
-                    </Button>
+                    </Button>}
                   </>
                 }
               />

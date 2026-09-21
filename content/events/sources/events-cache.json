@@ -1391,18 +1391,36 @@
   },
   {
     "id": "w3v-crypto-worlds-fair-hackathon-by-colosseum",
-    "name": "Crypto World´s Fair Hackathon by Colosseum",
-    "description": "Crypto World’s Fair: a September 14–October 12, 2026 online Colosseum hackathon open to builders across all blockchain ecosystems.",
+    "name": "Crypto World's Fair Hackathon by Colosseum",
+    "description": "An online hackathon bringing together builders and founders across all crypto ecosystems to launch breakout startups.\n\n## Crypto World's Fair\n\nCrypto World’s Fair is an open competition of the ideas, technologies, and communities shaping the blockchain ecosystem.\n\nInspired by the historic world’s fairs, it brings together builders and founders who are ready to exhibit the products and innovations that are going to drive the next wave of crypto startups that bring the world's markets onchain.\n\n## Awards and opportunities\n\nCompete for $840,000 in prizes and $2.5 million in seed funding. Submissions are due October 12, 2026.\n\nAll Hackathon winners will be interviewed and considered for Colosseum’s accelerator program.\n\n## Livestream workshops\n\nAll workshops stream live on Discord. Join the Colosseum Discord to watch live, ask questions, and never miss a session.",
     "startDate": "2026-09-14T06:00:00.000Z",
     "endDate": "2026-10-12T19:00:00.000Z",
-    "city": "Global",
+    "city": "Online",
     "country": "",
-    "location": "Global",
+    "location": "Online",
     "url": "https://colosseum.com/worldsfair",
     "coverImage": "/events/w3v-crypto-worlds-fair-hackathon-by-colosseum-4b0c1d92.webp",
     "source": "Hashtag Web3",
     "bypassedFilter": true,
-    "month": "September 2026"
+    "month": "September 2026",
+    "descriptionSource": {
+      "url": "https://colosseum.com/worldsfair",
+      "fetchedAt": "2026-09-20T07:56:52.564Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Crypto World's Fair Hackathon - Colosseum",
+      "sha256": "30e26ee384512156385b382e7240030558431c745a2ec8c382bf51a3bed2db6c",
+      "evidence": [
+        {
+          "url": "https://colosseum.com/worldsfair",
+          "fetchedAt": "2026-09-20T07:56:52.564Z",
+          "sha256": "38fdaaff6401954e792561b41b2efcfef35adff7c7ad11880da6c57230f60bf9"
+        }
+      ]
+    },
+    "website": "https://colosseum.com/worldsfair",
+    "registrationUrl": "https://colosseum.com/worldsfair",
+    "attendanceMode": "online",
+    "slug": "cwsfhc"
   },
   {
     "id": "luma-host-evt-evt-Uyvg6H6qZ48FU0Y",
@@ -8659,18 +8677,59 @@
   },
   {
     "id": "w3v-ethereum-cypherpunk-congress-mumbai",
-    "name": "Ethereum Cypherpunk Congress Mumbai",
-    "description": "2 Nov 2026 - The Ancestral Fork - a gathering focused on human rights, privacy, and digital autonomy. It explores how inherited systems shape our digital choices in the AI Age. Two previous Congresses in Bangkok & Buenos Aires made a change: 7000 people, 100 speakers, 50 partners, visionaries from whistleblowers like Chelsea Manning & or Vitalik Buterin.",
-    "startDate": "2026-11-02T08:00:00.000Z",
-    "endDate": "2026-11-02T20:00:00.000Z",
+    "name": "Ethereum Cypherpunk Congress #3",
+    "description": "Cypherpunk Congress is coming to India!\n\nExpect the biggest human rights x neo-cypherpunk festival. Buenos Aires edition hit 4500 people, 100 speakers from Vitalik Buterin/Ethereum to Roger Dinglerine/Tor & long-lasting impact.\n\n\n## The first batch of highly-curated speakers are here\n\nCuratorial note: we assemble speakers on intersection between digital rights, FOSS, decentralisation & cryptography.  \n\nThey propose practical solutions for global challenges from polarisation in social media to raise of dictatorships. Challenge internet shutdowns, abuse of digital identity, & attacks on encryption. With proven track record from @EFF (https://x.com/EFF) to @brave (https://x.com/brave).\n\nWelcome to Mumbai!\n\n@kurtopsahl (https://x.com/kurtopsahl) x  @FilFoundation (https://x.com/FilFoundation) for long-lasting defence of encryption in EFF, exceptional human qualities and bridging gap betwen old & new cypherpunks\n\n@Isa (https://x.com/Isa) x @torproject (https://x.com/torproject) for exceptional work on harmonizing network-level privacy and digital rights\n\n@ghappour (https://x.com/ghappour) x flashbots for matching digital rights & web3 culture. Being a real representative of privacy-first, encryption-centric narrative across borders & ecosystems.\n\n@therealyingtong (https://x.com/therealyingtong) for proving that real-world cryptography exists in practice & can serve marginalized people\n\nJustin Drake (https://x.com/drakefjustin) - key Ethereum Foundation protocol researcher\n\n@lunardragon420 (https://x.com/lunardragon420) x @DarkFiSquad (https://x.com/DarkFiSquad) for uncompromising values & visionary ideas on both tech activism & role of code\n\n@mala (https://x.com/mala) x @FilFoundation (https://x.com/FilFoundation) for openness to transition old cypherpunk narratives into compeling and positive knowledge for the future to come\n\n@jaromil (https://x.com/jaromil) x @DyneOrg (https://x.com/DyneOrg) for balancing hacktivist culture with digital identity challenges, defending civic society by representing us in institutions\n\n@ml_sudo (https://x.com/ml_sudo) x  @ethereumfndn (https://x.com/ethereumfndn)'s Silviculture for accelerating meaningful cryptography & culture across ecosystems\n\n@PryvitKyle (https://x.com/PryvitKyle) x @brave (https://x.com/brave) for brinding gap between already proven privacy tech & emerging innovations - showing how crypto can plug'n'play in traditional tech\n\n@SCBuergel (https://x.com/SCBuergel) x @gnosis_ (https://x.com/gnosis_) + @hoprnet (https://x.com/hoprnet) for dedicating years of life to deliver network-level privacy, staying for the culture and diversifying VPN market.\n\n@jbaylina (https://x.com/jbaylina) x @ziskvm (https://x.com/ziskvm) for tech dedication to solve digital rights in practice, growing a group of cryptographers, scaling & securing millions of people.\n\nFOCUS AREAS\n\n@AndyGuzmanEth (https://x.com/AndyGuzmanEth) x @PrivacyEthereum (https://x.com/PrivacyEthereum) for proving that the future of privacy ecosystem depends on decency and positive communication.\n\n@Fatalmeh (https://x.com/Fatalmeh) for caring about human rights now, legal web3 policies, & decentralised tech that will shift global power dynamics\n\n@miroyato (https://x.com/miroyato) x @fileverse (https://x.com/fileverse) for by-week practical deGoogling at scale via http://ddocs.new & bringing deep academical approach to decentralised tech culture\n\n@auryn_macmillan (https://x.com/auryn_macmillan) x  @EnclaveE3 (https://x.com/EnclaveE3) for long-lasting representation of human values where code really becomes a speech. Delivering complex encryption for confidential computation.\n\n@hebbianloop (https://x.com/hebbianloop) x @humntech (https://x.com/humntech) for protecting identity at scale & bridging traditional digital rights with emerging tech\n\n@Cryptic_cm (https://x.com/Cryptic_cm) x @session_app (https://x.com/session_app)  for providing vocal alternatives to how we securely communicate & collaborate online\n\n@kassandraETH (https://x.com/kassandraETH) x @ethereumfndn (https://x.com/ethereumfndn) for proving that code is an art, & cultural diversity can bring striking change - uniting ecosystems & voices beyond tribalism\n\n@Pol_Lanski (https://x.com/Pol_Lanski) x @dappnode (https://x.com/dappnode) for proving that node-running isn't a rocket science, but active contribution to both decentralisation and censorship resistance\n\n@LoringHarkness (https://x.com/LoringHarkness) x @ShutterNetwork (https://x.com/ShutterNetwork) for pushing new cryptographic primitives to life, alligning different actords towards Encrypted Mempools\n\n@TMIYChao (https://x.com/TMIYChao) x @ethereumfndn (https://x.com/ethereumfndn) + @BordelWTF (https://x.com/BordelWTF) for keeping reminding that original cypherpunks were build on values & not shiny merch (we translate: use @GrapheneOS (https://x.com/GrapheneOS), run your own node, visit CCC etc)\n\n@0xMeTony (https://x.com/0xMeTony) x @fluidkey (https://x.com/fluidkey) for proving that hackathons can create decent privacy-projects positively evolving over time  \n\nDaniel x @invisiblgarden (https://x.com/invisiblgarden) for matching digital rights with commons, practical web3 aplicability to the endangered societies\n\n@ncsgy (https://x.com/ncsgy) x @ethereumfndn (https://x.com/ethereumfndn) for bringing tangible privacy via Kohaku, chancing the whole wallet-domain for better, and activating positive side of web3 to millions of people.\n\n@willscott (https://x.com/willscott) for representing man of action approach, helping, supporting, activating. Together.\n\n\n## Great privacy, internet of freedoms organisations will be present at Cognress\n\nCOMMUNITY PARTNERS\n\nSPONSORS\n\nCONTRIBUTE\n\nPartner: https://tally.so/r/mVxvgN\nSpeak (CfP): https://tally.so/r/nrOzXl\n​Volunteer: https://tally.so/r/3lLqKo\n\nJoin our community to receive latest news: https://t.me/+QOj6126xlEs0OTQ0\n\nWatch Congress #2 talks: https://youtu.be/XKJ1ZJrkKWA?si=eZNEZQri3uheJgrN\n\n\n## Lasting cultural phenomenon\n\nFocusing on values, active political stance, and cutting-edge research will help Ethereum become a cultural & resilient to change phenomenon.\n\nwatch aftermovie: https://www.youtube.com/watch?v=97-qkXRmMlk\n\nexpect phenomenal lineup [Congress #2 example]\n\nWe are talking not only about the existence of privacy-preservation dapps, but Free & Open-source software development, support for free speech and whistleblowers around the world, helping marginalized people get access to the decolonial money system, safe & empowered tech, and last but not least - diverse and active communities of care.\n\nSupporting privacy developers\n\nRoman Storm Congress #2 opening https://youtu.be/XKJ1ZJrkKWA?si=GGrhiF5TOZcfjUqy&t=811\n\n\n## Connec​ting web2 + web3\n\nVitalik Buterin + Naomi Brockwell fireside https://www.youtube.com/watch?v=5At5_GiQNEA\n\n\n## ​Ethereum Social Layer (ESL)\n\nIt is being formed before our eyes - an active ecosystem of thousands of thinkers, developers, analysts, human-rights DAOs, coordinators, and even ravers. Inspired by cypherpunks of the past, they create a foundation for the digital community of the future (explore our Cyherpunk personas (https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/u4ELDt0YkpCe272kD2f5kTThJsILg1pgaOeBsTSGV0I) article). Based on permissionless & censorship-resistance ideology. Follow Paul-Dylan Ennis (https://x.com/post_polar_/status/1813275641954877709) on ESL.\n\n\n## ​​Activation\n\nThe debut Ethereum Cypherpunk Congress assembles an active part of Ethereum. These people and organizations want to stand at the foundations of the unstoppable socio-techno-cultural movement.\n\nSpecial rituals help us to share Cypherpunk culture & build care for each other.\n\nThey are activists, developers, cryptographers, ethical investors, philosophers, and researchers who are changing the possibilities for Ethereum on the path to freedom.\n\nHackathon track\nEvents for developers are critical activation points behind any cultural change. Every protocol from Aztec to Ethereum needs devs to build on top of it & deliver decentralized, permissionless & privacy-enhancing applications. We invited current privacy hackathon devs to reflect on their experience.\n\nWomen in web3 privacy track\nDiversity in the web3 industry is a critical challenge, let alone in the privacy market. Let's discuss how we can be more open, diverse & inclusive to different opinions and opportunities.\n\nActivation track\nWe want everyone to feel, use and contribute to practical privacy tooling. So we will showcase existing tools empowering your journey in decentralized world: Fileverse (http://fileverse.io), Rotki (http://rotki.com), Fluidkey (http://fluidkey.com), Radicle, GnosisVPN.\n\nStunning merch delivered by Coinmandeer\n\n\n## ​​High-level agenda\n\n\n• craft conditions needed to overcome challenges mapped in “Make Ethereum Cypherpunk again” essay\n• present Ethereum Privacy Ecosystem (https://docs.web3privacy.info/research/ethereum-privacy-ecosystem/) and its key players\n• explore socio-cultural conditions re-wiring degens into cypher-activists\n• build a mainstream culture around cypherpunk - make it an open and inclusive movement\n• remind of the origins of Ethereum ethos\n• articulate balance between open-source culture & financial sustainability behind projects\n• map the way to onboard 100K developers & 10M users experiencing safe Ethereum-centric privacy tech\n\nContribute to the development of the cypherpunk culture of Ethereum. Everyone will be welcome here, from activists defending the rights of developers to degens who finally want to find a strong meaning in life.\n\nContribute\n\nSpeak (CfP): https://tally.so/r/nrOzXl\n\nPartner: \n- web3privacynow 'at' protonmail.com (http://protonmail.com) or\n- https://x.com/PG_CDG\n\nVolunteer: https://tally.so/r/3lLqKo\n\nOur previous events (feel the vibe)\n\n\n• Privacy Summit II (https://summit.web3privacy.info/) - Paralelni Polis, Prague 2024\n• Privacy Summit I (https://prague.web3privacy.info) - X10, Prague 2023\n• ETHRome Meetup  (https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/bzv735Bc1zak7Yi-NcxWavMQKgt2ANXQtpkrSp8Xg3o)- Villaggio Globale, Rome 2023\n  Useful resources (for real)\n  Website: https://web3privacy.info/\n  Latest news: http://twitter.com/web3privacy\n  Github: http://www.github.com/web3privacy\n  Privacy market dashboard: http://explorer.web3privacy.info\n\n#Ethereum #cypherpunk #privacy #freedom #community #you",
+    "startDate": "2026-11-02T04:30:00.000Z",
+    "endDate": "2026-11-02T13:30:00.000Z",
     "city": "Mumbai",
     "country": "India",
-    "location": "Mumbai, IN",
-    "url": "https://congress.web3privacy.info",
-    "coverImage": "/events/w3v-ethereum-cypherpunk-congress-mumbai-dac00d14.webp",
+    "location": "Mumbai, Maharashtra, India",
+    "url": "https://luma.com/spsnos9t",
+    "coverImage": "https://images.lumacdn.com/event-covers/cv/284c4fdb-ab37-4cb2-9981-12311c5d62f0.png",
     "source": "Hashtag Web3",
     "bypassedFilter": true,
-    "month": "November 2026"
+    "month": "November 2026",
+    "timezone": "Asia/Calcutta",
+    "registrationUrl": "https://luma.com/spsnos9t",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": false,
+    "venueName": "Mumbai",
+    "addressLocality": "Mumbai",
+    "addressRegion": "Maharashtra",
+    "addressCountry": "IN",
+    "coordinates": {
+      "latitude": 18.9581934,
+      "longitude": 72.8320729
+    },
+    "hosts": [
+      "Mykola x Web3Privacy now",
+      "PG_CDG | Web3Privacy Now"
+    ],
+    "organizer": {
+      "type": "Organization",
+      "name": "Web3Privacy Now Events",
+      "url": "https://web3privacy.info/events"
+    },
+    "price": "Free",
+    "approvalRequired": false,
+    "ticketOffers": [
+      {
+        "name": "Standard",
+        "url": "https://luma.com/spsnos9t",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/spsnos9t",
+      "eventId": "evt-CyZRiDdLECiCPRS",
+      "fetchedAt": "2026-09-20T07:56:56.136Z",
+      "method": "luma-page"
+    },
+    "website": "https://luma.com/spsnos9t",
+    "slug": "eccm"
   },
   {
     "id": "ci-https---conferenceindex-org-event-international-conference-on-financial-cryptography-and-data-securi",
@@ -9544,7 +9603,7 @@
   {
     "id": "ma-bitcoin-mena",
     "name": "Bitcoin Mena",
-    "description": "Bitcoin MENA is an influential Bitcoin gathering for the MENA region, where participants discuss the future of Bitcoin, crypto adoption, investment, infrastructure, and policy. Founders, executives, i",
+    "description": "Following extensive discussions with our local partners we have decided to reschedule Bitcoin MENA to 2027. We will share the precise dates in the upcoming months.\n\n## Organizer update\n\nThe organizer is committed to returning to the UAE in Winter 2027. Exact new dates have not been announced. The previous December 2026 dates should not be used for travel planning.\n\n## Existing tickets\n\nYour ticket automatically carries over to the new dates. You do not need to do anything. Ticket holders may also request a refund through the organizer's contact form.\n\n## Sponsors\n\nYour commitment carries forward to 2027, and our team will be in touch directly to walk through the details and make sure everything you planned for still delivers.",
     "startDate": "2026-12-07T00:00:00.000Z",
     "endDate": "2026-12-08T00:00:00.000Z",
     "city": "Abu Dhabi, UAE",
@@ -9553,7 +9612,26 @@
     "url": "https://mena.b.tc/",
     "coverImage": "/events/ma-bitcoin-mena-bfc9c9d4.webp",
     "source": "marketacross",
-    "month": "December 2026"
+    "month": "December 2026",
+    "descriptionSource": {
+      "url": "https://mena.b.tc/event-update",
+      "fetchedAt": "2026-09-20T07:57:02.155Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Bitcoin MENA - Event Update",
+      "sha256": "c3dd242039583b7b7b44a25554b7aa6b9406f61509178185a9ac9a784fc9f2e5",
+      "evidence": [
+        {
+          "url": "https://mena.b.tc/event-update",
+          "fetchedAt": "2026-09-20T07:57:02.155Z",
+          "sha256": "06c5dadf6dc99cb71544a02fed3b67b0563336ba6c3d3303c6f6e58658f5bb20"
+        }
+      ]
+    },
+    "website": "https://mena.b.tc/event-update",
+    "registrationUrl": "https://mena.b.tc/event-update",
+    "eventStatus": "EventPostponed",
+    "registrationAvailability": "postponed",
+    "slug": "bitcoin-mena"
   },
   {
     "id": "ci-https---conferenceindex-org-event-global-blockchain-show-gbs-2026-december-abu-dhabi-ae",
@@ -9874,19 +9952,41 @@
   {
     "id": "token2049-side-6a7445ef7ef1577c1e37eca1",
     "name": "AFTER 2049: The official closing party of TOKEN2049",
-    "description": "AFTER 2049: The official closing party of TOKEN2049 is listed as a Party/Dinner during TOKEN2049 Week Singapore.",
-    "startDate": "2026-10-09T20:00:00+08:00",
-    "endDate": "2026-10-09T20:00:00.000Z",
+    "description": "AFTER 2049 presents Claptone and Crusy.\n\nAFTER 2049 returns to the roof on Friday, 9 October 2026, at the Marina Bay Sands SkyPark Observation Deck.\n\nClaptone takes over the MBS SkyPark for this year’s AFTER 2049, joined by Crusy and returning AFTER 2049 residents ANONM, Leon, Milam and Mo-Shi.\n\n360° spatial audio by Polygon Live is exclusive to AFTER 2049 in Asia for 2026.\n\n## Access and timings\n\n• Doors open at 7:00 PM.\n• Entry is not guaranteed after 11:00 PM.\n• There is no re-entry after midnight; entry is subject to venue capacity.\n• The minimum age is 18, and valid photo ID is required.\n\n## Dress code\n\nSmart casual. No athletic wear, leisure wear, flip flops or shorts. Management reserves the right to deny entry.",
+    "startDate": "2026-10-09T19:00:00+08:00",
     "city": "Singapore",
     "country": "Singapore",
-    "location": "Marina Bay Sands SkyPark Observation Deck, 10 Bayfront Avenue, Hotel Tower 3 Level 56, Singapore 018956",
+    "location": "Marina Bay Sands SkyPark Observation Deck, 10 Bayfront Avenue, Singapore 018956",
     "url": "https://megatix.com.sg/events/after2049",
     "coverImage": "https://static.megatix.com.au/images/cover.png",
     "source": "token2049-official",
     "month": "October 2026",
     "category": "Party/Dinner",
     "price": "US$120",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "descriptionSource": {
+      "url": "https://megatix.com.sg/events/after2049",
+      "fetchedAt": "2026-09-20T07:56:59.763Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "\n        Megatix - AFTER 2049 presents: Claptone & Crusy\n    ",
+      "sha256": "ed2a1db3b81acfa898faed257817de2287210f1a87d2194e61e958e055a92613",
+      "evidence": [
+        {
+          "url": "https://megatix.com.sg/events/after2049",
+          "fetchedAt": "2026-09-20T07:56:59.763Z",
+          "sha256": "43c621b2eeaf0bbc71c59a21164cb3cab5aeef411f7e7cb72502967301fdf57a"
+        }
+      ]
+    },
+    "website": "https://megatix.com.sg/events/after2049",
+    "registrationUrl": "https://megatix.com.sg/events/after2049",
+    "timezone": "Asia/Singapore",
+    "venueName": "Marina Bay Sands SkyPark Observation Deck",
+    "streetAddress": "10 Bayfront Avenue",
+    "addressLocality": "Singapore",
+    "addressCountry": "SG",
+    "postalCode": "018956",
+    "slug": "after-2049"
   },
   {
     "id": "token2049-side-6a7fe7d3298f21044c271195",
@@ -13679,7 +13779,7 @@
   {
     "id": "token2049-side-6aa41e96c0426d278bd87cfe",
     "name": "NEXUS Startup Competition First Round",
-    "description": "NEXUS Startup Competition First Round is listed as a Conference/Summit during TOKEN2049 Week Singapore.",
+    "description": "NEXUS is TOKEN2049's startup competition for early-stage crypto companies. The organizer's 2026 competition runs on 7–8 October in Singapore, with founders pitching for equity-free prizes and meeting Web3 investors.\n\n## Competition\n\nThe organizer lists a $250,000 prize pool and ten finalists. Startups must have been incorporated from 2023 onwards and raised less than $5 million in investments. Applying is free, and selection is merit-based.\n\n## Finalist access\n\nTop ten finalists receive a complimentary startup stand, full TOKEN2049 access on 7–8 October, speaker perks, three complimentary team tickets, photography and session recordings, and event marketing coverage.\n\n## Application status\n\nNEXUS 2026 applications are closed. The organizer is accepting waitlist registrations for NEXUS 2027.",
     "startDate": "2026-10-07T17:00:00+08:00",
     "endDate": "2026-10-07T18:00:00+08:00",
     "city": "Singapore",
@@ -13691,7 +13791,26 @@
     "month": "October 2026",
     "category": "Conference/Summit",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "descriptionSource": {
+      "url": "https://www.token2049.com/singapore/nexus-startup-competition",
+      "fetchedAt": "2026-09-20T07:56:56.531Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "NEXUS Startup Competition | TOKEN2049 | 7-8 October 2026 | Singapore",
+      "sha256": "051cf9dba8c5d261b0a16fb869941722873d7186a50ffce6f3bb257727aa92af",
+      "evidence": [
+        {
+          "url": "https://www.token2049.com/singapore/nexus-startup-competition",
+          "fetchedAt": "2026-09-20T07:56:56.531Z",
+          "sha256": "d0cc573cdaf8fca01b446865341b6e66e468550982e4dd1f7615378903f9facc"
+        }
+      ]
+    },
+    "website": "https://www.token2049.com/singapore/nexus-startup-competition",
+    "registrationUrl": "https://www.token2049.com/singapore/nexus-startup-competition",
+    "venueName": "Marina Bay Sands",
+    "registrationAvailability": "applications-closed",
+    "slug": "nscfr"
   },
   {
     "id": "token2049-side-6a8eb8a0e258d468339534b0",
@@ -14819,20 +14938,70 @@
   },
   {
     "id": "token2049-side-6a71f32ad1b48ddf39d09b86",
-    "name": "Agentic Finance Summit",
-    "description": "Agentic Finance Summit & The Odds: Prediction Markets Live - Institutional finance meets agentic AI \n Institutional Summit | 2 Tracks: Agentic Finance and Prediction Markets \n 📍 Suntec City | Suntec Convention Centre, Singapore 🗓 October 8, 2026 ⏱ 14:00 - 20:00 🌏 During TOKEN2049 Week 👥 400 curated attendees 🎤 50+ speakers planned across the program \n Attendees will experience executive-level panels , curated introductions , private meetings , product showcases, and structured networking , with food , drinks, and surprises 🎁 \n 👥 Who’s in the Room \n The summit is built for senior decision-makers from across institutional finance, AI and market infrastructure, including: \n Banks, financial institutions and payment networks \n \n Exchanges, trading platforms and prediction markets \n \n Hedge funds, asset managers and institutional investors \n \n Market makers and liquidity providers \n \n AI and agentic-finance companies \n \n Data providers, research platforms and oracles \n \n Compliance, regulatory and financial infrastructure providers \n \n Venture-capital firms and strategic investors \n \n Founders, CEOs and C-level executives \n\n 🎤 Speakers \n 50 TOP-leaders of Global Agentic Finance: \n Yoni Assia, CEO and Co-Founder, eToro \n \n Scott Lawin, President, Pantera Capital \n \n Stani Kulechov, Founder and CEO, Aave Labs \n \n Manideep \"Mani\" Gupta, Vice President, AP Head of Consulting & AI, Visa \n \n Joanna Ossinger, Managing Editor/Head of Digital APAC, CNBC \n\n Anton Ruddenklau, Head of Financial Services, KPMG \n \n Henri Arslanian, Co-Founder, ACX Compliance \n \n Megan Otway, FCA Financial Services Attaché, British High Commission in Singapore \n \n Guillaume Poncin, Chief Technology Officer, Alchemy \n \n Yoshi Yokokawa, Co-Founder and CEO, Alpaca",
-    "startDate": "2026-10-08T14:00:00+08:00",
-    "endDate": "2026-10-08T20:00:00+08:00",
+    "name": "Agentic Finance Summit + The Odds: Prediction Markets Live",
+    "description": "## Agentic Finance Summit & The Odds: Prediction Markets Live - Institutional finance meets agentic AI\n\n\n## Institutional Summit | 2 Tracks: Agentic Finance and Prediction Markets\n\n📍 Suntec City | Suntec Convention Centre, Singapore (https://www.evasuntec.com/49734-getting-here/342301-getting-here?from_search#0112831)\n🗓 October 8, 2026\n⏱ 14:00 - 20:00\n🌏 During TOKEN2049 Week\n👥 400 curated attendees\n🎤 50+ speakers planned across the program\n\nAttendees will experience executive-level panels, curated introductions, private meetings, product showcases, and structured networking, with food, drinks, and surprises 🎁\n\n\n## 👥 Who’s in the Room\n\nThe summit is built for senior decision-makers from across institutional finance, AI and market infrastructure, including:\n\n\n• Banks, financial institutions and payment networks\n• Exchanges, trading platforms and prediction markets\n• Hedge funds, asset managers and institutional investors\n• Market makers and liquidity providers\n• AI and agentic-finance companies\n• Data providers, research platforms and oracles\n• Compliance, regulatory and financial infrastructure providers\n• Venture-capital firms and strategic investors\n• Founders, CEOs and C-level executives\n\n\n## 🎤 Speakers\n\n50 TOP-leaders of Global Agentic Finance:\n\n\n• Yoni Assia, CEO and Co-Founder, eToro\n• Scott Lawin, President, Pantera Capital\n• Stani Kulechov, Founder and CEO, Aave Labs\n• Manideep \"Mani\" Gupta, Vice President, AP Head of Consulting & AI, Visa\n• Joanna Ossinger, Managing Editor/Head of Digital APAC, CNBC\n\n\n• Anton Ruddenklau, Head of Financial Services, KPMG\n• Henri Arslanian, Co-Founder, ACX Compliance\n• Megan Otway, FCA Financial Services Attaché, British High Commission in Singapore\n• Guillaume Poncin, Chief Technology Officer, Alchemy\n• Yoshi Yokokawa, Co-Founder and CEO, Alpaca\n\n\n• Anil Nadiminti, Senior Solutions Architect, AWS\n• Xen Baynham-Herd, Head of Marketing and Global Expansion, Base\n• Ouriel Ohayon, Managing Director, Zengo (acquired by eToro)\n• Omri Ross, Chief Blockchain Officer, eToro\n• Nitin Gaur, Head of Institutions, Nethermind\n\n\n• Marcin Kaźmierczak, Co-Founder & COO, RedStone\n• James Beck, Head of Growth, ENS\n• Shiliang Tang, Managing Partner, Monarq Asset Management\n• Pei Chen, CEO, Theoriq\n• Jacquelyn Melinek, Founder & CEO, StrataMedia\n\n\n• Sergio Chan, Founder, t54 Labs\n• Omar-Shakeeb Zahir, Co-Founder & CEO, SecondLane\n• Heslin Kim, Co-Founder, Chief Business Officer, Zenith\n• Avital Haitovich, Partner and Lead of the Crypto and Blockchain Practice, Gornitzky & Co.\n• Franklyn Wang, CEO, Liquid\n\n\n• Ofir Eliasi, DeFi Expert, Chief Technology Officer, Lava Network\n• Anne-Grace Kleczewski, Independent Legal Advisor, Call the Human\n\nOrganizer:\n\n\n• Tal Mor, Founder & Summit Chair, More & More\n\n\n## 🔀 Agenda Topics\n\n\n## 🤖 Track 1: Agentic Finance\n\nInstitutional Finance Meets Agentic AI\n\nThe Agentic Finance Track examines how autonomous and AI-powered systems are moving from experimentation into the infrastructure of global finance. Designed for institutions, founders, investors, and technology leaders who are deploying, regulating, and building the next generation of financial systems.\n\n📈 Agentic Trading\n\nAutonomous execution, trading intelligence, institutional risk management, and AI-powered decision-making at scale.\n\n💳 Agentic Payments & Infrastructure\n\nAI agents operating across payment rails, stablecoins and next-generation financial infrastructure.\n\n🛡️ Regulation & Compliance in the AI Era\n\nHow financial institutions, regulators and compliance providers are approaching AI monitoring, risk detection, enforcement and accountability inside regulated workflows.\n\n🏦 Building Agentic Startups with Financial Institutions\n\nThe realities of building, implementing and scaling agentic technology with banks and financial institutions, including trust, procurement, security, regulation and institutional adoption.\n\n🔐 Wallets, Vaults, Staking & Asset Management\n\nHow agentic systems are transforming wallets, digital-asset vaults, staking, institutional asset management and the infrastructure used to manage onchain capital.\n\n\n## 🔮 Track 2: The Odds, Prediction Markets Live\n\nThe Room Where the Future of Prediction Markets Is Decided\n\nCore Themes\n\n\n• Institutional Adoption & Market Structure\n• Prediction Markets & Exchanges\n• Liquidity & Market Making\n• AI Forecasting & Autonomous Agents\n• Data, Oracles & Research Infrastructure\n• Regulation & Compliance\n• Prediction-Market Infrastructure\n• New Products and Use Cases\n\nFor more information:\n\nAgentic Finance:\nhttps://mnm.live/agentic-finance\n\nThe Odds:\nhttps://mnm.live/theodds/t2049singapore\n\n\n## Produced by More & More\n\nMore & More creates curated conferences, executive gatherings, VIP delegations, and strategic business development environments across global technology and institutional markets.",
+    "startDate": "2026-10-08T06:00:00.000Z",
+    "endDate": "2026-10-08T12:00:00.000Z",
     "city": "Singapore",
     "country": "Singapore",
-    "location": "Singapore, SG",
-    "url": "https://bit.ly/4gAgyfJ",
-    "coverImage": "/events/token2049-side-6a71f32ad1b48ddf39d09b86-2818e3ea.webp",
+    "location": "Suntec Singapore Convention & Exhibition Centre, 1 Raffles Blvd, Singapore 039593",
+    "url": "https://luma.com/8oxs8lco",
+    "coverImage": "https://images.lumacdn.com/uploads/dr/040155c8-89ef-493a-adfd-99887cf03339.png",
     "source": "token2049-official",
     "month": "October 2026",
     "category": "Conference/Summit",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "timezone": "Asia/Singapore",
+    "registrationUrl": "https://luma.com/8oxs8lco",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": false,
+    "venueName": "Suntec Singapore Convention & Exhibition Centre",
+    "streetAddress": "1 Raffles Blvd, #326, Singapore",
+    "addressLocality": "Singapore",
+    "addressCountry": "SG",
+    "neighborhood": "Downtown Core",
+    "coordinates": {
+      "latitude": 1.2936739,
+      "longitude": 103.8572447
+    },
+    "hosts": [
+      "Tal Mor",
+      "MarketAcross Events",
+      "Mira (fka Crypto Nomads)",
+      "Alpaca",
+      "etoro Events"
+    ],
+    "organizer": {
+      "type": "Organization",
+      "name": "More & More Events",
+      "url": "https://mnm.live/"
+    },
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "Standard",
+        "url": "https://luma.com/8oxs8lco",
+        "price": 0,
+        "availability": "InStock"
+      },
+      {
+        "name": "Speaker/VIP",
+        "url": "https://luma.com/8oxs8lco",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/8oxs8lco",
+      "eventId": "evt-qX07lwutcaNh5Fn",
+      "fetchedAt": "2026-09-20T07:56:55.779Z",
+      "method": "luma-page"
+    },
+    "website": "https://luma.com/8oxs8lco",
+    "slug": "afs"
   },
   {
     "id": "token2049-side-6a8eb7cae258d468339534a6",
@@ -14884,7 +15053,7 @@
   {
     "id": "token2049-side-6aa41f2ac0426d278bd87d05",
     "name": "NEXUS Startup Competition Final Round",
-    "description": "NEXUS Startup Competition Final Round is listed as a Conference/Summit during TOKEN2049 Week Singapore.",
+    "description": "The NEXUS final round is part of TOKEN2049's 7–8 October 2026 startup competition in Singapore. Early-stage crypto startups pitch for equity-free prizes before an expert jury and the TOKEN2049 community.\n\n## Finalists and prizes\n\nThe organizer lists ten finalists and a $250,000 prize pool. The jury may make investment offers outside the prize grant.\n\n## What finalists receive\n\n• An opportunity to compete for partner prizes\n• A complimentary startup stand at TOKEN2049 Singapore\n• Full access to TOKEN2049 on 7–8 October\n• Speaker reception, networking drinks and lounge access\n• Three complimentary tickets for the team and its network\n• Photography, on-stage pitch recordings and marketing coverage\n\n## Applications\n\nApplying is free and selection is merit-based. Applications for NEXUS 2026 have closed; the organizer now offers a 2027 waitlist.",
     "startDate": "2026-10-08T15:00:00+08:00",
     "endDate": "2026-10-08T16:00:00+08:00",
     "city": "Singapore",
@@ -14896,7 +15065,26 @@
     "month": "October 2026",
     "category": "Conference/Summit",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "descriptionSource": {
+      "url": "https://www.token2049.com/singapore/nexus-startup-competition",
+      "fetchedAt": "2026-09-20T07:56:56.531Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "NEXUS Startup Competition | TOKEN2049 | 7-8 October 2026 | Singapore",
+      "sha256": "e9b77b979fecf33dca99749954a07a41c923a37256308cc27af0a433c3702449",
+      "evidence": [
+        {
+          "url": "https://www.token2049.com/singapore/nexus-startup-competition",
+          "fetchedAt": "2026-09-20T07:56:56.531Z",
+          "sha256": "d0cc573cdaf8fca01b446865341b6e66e468550982e4dd1f7615378903f9facc"
+        }
+      ]
+    },
+    "website": "https://www.token2049.com/singapore/nexus-startup-competition",
+    "registrationUrl": "https://www.token2049.com/singapore/nexus-startup-competition",
+    "venueName": "Marina Bay Sands",
+    "registrationAvailability": "applications-closed",
+    "slug": "nscfr2"
   },
   {
     "id": "token2049-side-6aa17395d567345aad6851af",
@@ -15004,7 +15192,7 @@
   {
     "id": "token2049-side-6aa41d6d8ffcc4e5ece10d0f",
     "name": "Origins Hackathon Prize Ceremony",
-    "description": "Origins Hackathon Prize Ceremony is listed as a Workshop/Hackathon during TOKEN2049 Week Singapore.",
+    "description": "The Origins prize ceremony concludes the TOKEN2049 Origins hackathon program in Singapore. The organizer's 6–8 October program gives builders 36 hours to develop a working product, receive mentorship and demo on the TOKEN2049 stage.\n\n## Prizes and tracks\n\nThe organizer lists a $150,000 prize pool. Tracks include agentic commerce on Cardano, workflows using the Chainlink Runtime Environment, multichain infrastructure with NOWNodes, and applications built on Solana. Teams compete for prizes, grants and accelerator opportunities.\n\n## Participation\n\nOrigins is free, including food, drinks and conference access. Physical attendance at Marina Bay Sands is required for the full hackathon; remote participation is not offered. Teams may have up to four members, and solo applicants are welcome.",
     "startDate": "2026-10-08T16:40:00+08:00",
     "endDate": "2026-10-08T17:15:00+08:00",
     "city": "Singapore",
@@ -15016,7 +15204,25 @@
     "month": "October 2026",
     "category": "Workshop/Hackathon",
     "price": "Free",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "descriptionSource": {
+      "url": "https://www.token2049.com/singapore/2049-origins",
+      "fetchedAt": "2026-09-20T07:56:56.870Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Origins Hackathon  | TOKEN2049 | Singapore",
+      "sha256": "5837c3ad4c4605dd870bdeef04fb32cd5c039b8f985183613a170bf6b023753a",
+      "evidence": [
+        {
+          "url": "https://www.token2049.com/singapore/2049-origins",
+          "fetchedAt": "2026-09-20T07:56:56.870Z",
+          "sha256": "5b8cb75e42e5145f10fa744a462e6bd5d6fcf7c8cb99f3e665ff35290af921da"
+        }
+      ]
+    },
+    "website": "https://www.token2049.com/singapore/2049-origins",
+    "registrationUrl": "https://www.token2049.com/singapore/2049-origins",
+    "venueName": "Marina Bay Sands",
+    "slug": "ohpc"
   },
   {
     "id": "token2049-side-6a8eb93ae258d468339534ba",
@@ -15390,20 +15596,47 @@
   },
   {
     "id": "token2049-side-6a622e12d1b48ddf39d08981",
-    "name": "Vault Summit",
-    "description": "Vault Summit is listed as a Conference/Summit during TOKEN2049 Week Singapore.",
+    "name": "Vault Summit: Singapore",
+    "description": "Vault Summit is a global conference series focused on onchain vault infrastructure for institutional asset management.\n\nInstitutional confidence in on-chain asset management, built vault by vault.\n\nThis is Vault Summit: Singapore.\n\n## Hosts and venue\n\nMorpho and DigiFT host the Singapore summit at Andaz Singapore on 9 October 2026, from 9:00 AM to 6:00 PM Singapore time.",
     "startDate": "2026-10-09T09:00:00+08:00",
     "endDate": "2026-10-09T18:00:00+08:00",
     "city": "Singapore",
     "country": "Singapore",
-    "location": "Singapore, SG",
+    "location": "Andaz Singapore, 5 Fraser St, Singapore 189354",
     "url": "https://sg2026.vaultsummit.xyz",
     "coverImage": "/events/token2049-side-6a622e12d1b48ddf39d08981-837c2be4.webp",
     "source": "token2049-official",
     "month": "October 2026",
     "category": "Conference/Summit",
     "price": "US$500-750",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "descriptionSource": {
+      "url": "https://sg2026.vaultsummit.xyz/",
+      "fetchedAt": "2026-09-20T08:01:29.223Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Vault Summit: Singapore",
+      "sha256": "d58afd11d0a03d7bd79210e30c0e0c5a866df4331e51120a2fdf84e4d8fd654c",
+      "evidence": [
+        {
+          "url": "https://sg2026.vaultsummit.xyz/",
+          "fetchedAt": "2026-09-20T08:01:29.223Z",
+          "sha256": "8ac897788481204994a5828f82c2595e5e266c373245580770d8ad68beef01e9"
+        }
+      ]
+    },
+    "website": "https://sg2026.vaultsummit.xyz/",
+    "registrationUrl": "https://sg2026.vaultsummit.xyz/",
+    "timezone": "Asia/Singapore",
+    "venueName": "Andaz Singapore",
+    "streetAddress": "5 Fraser St",
+    "addressLocality": "Singapore",
+    "addressCountry": "SG",
+    "postalCode": "189354",
+    "hosts": [
+      "Morpho",
+      "DigiFT"
+    ],
+    "slug": "vault-summit"
   },
   {
     "id": "token2049-side-6a5ea218d1b48ddf39d0835f",
@@ -15663,19 +15896,38 @@
   {
     "id": "token2049-side-6a739bc8d1b48ddf39d09e32",
     "name": "F1 Practice and Sprint Qualifying",
-    "description": "F1 Practice and Sprint Qualifying is listed as a Sport during TOKEN2049 Week Singapore.",
-    "startDate": "2026-10-09T12:30:00+08:00",
-    "endDate": "2026-10-09T18:00:00+08:00",
+    "description": "Friday's Formula 1 program at the 2026 Singapore Grand Prix includes the first practice session and Sprint Qualifying at the Marina Bay Street Circuit.\n\n## Friday, 9 October\n\n• 16:30–17:30: Formula 1 first practice session\n• 18:30–19:30: Teams' press conference\n• 20:30–21:14: Sprint Qualifying\n\nTimes are local to Singapore, which is eight hours ahead of UTC. The official timetable is subject to change.",
+    "startDate": "2026-10-09T16:30:00+08:00",
+    "endDate": "2026-10-09T21:14:00+08:00",
     "city": "Singapore",
     "country": "Singapore",
-    "location": "Singapore, SG",
+    "location": "Marina Bay Street Circuit, Singapore",
     "url": "https://singaporegp.sg/en",
     "coverImage": "/events/token2049-side-6a739bc8d1b48ddf39d09e32-795dbe32.webp",
     "source": "token2049-official",
     "month": "October 2026",
     "category": "Sport",
     "price": "US$200-12000",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "descriptionSource": {
+      "url": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE",
+      "fetchedAt": "2026-09-20T07:56:58.376Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026 - full timetable | Formula 1®",
+      "sha256": "6b5f010f47713e3097faa6948da24460f56eccebf1baf4a457d90b0cb7d7e3fe",
+      "evidence": [
+        {
+          "url": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE",
+          "fetchedAt": "2026-09-20T07:56:58.376Z",
+          "sha256": "2620e2d38605804e1b965b90f8b36a5ca28a0dc12d0c60944bd2ae6a27786e73"
+        }
+      ]
+    },
+    "website": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE",
+    "registrationUrl": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE",
+    "timezone": "Asia/Singapore",
+    "venueName": "Marina Bay Street Circuit",
+    "slug": "fpsq"
   },
   {
     "id": "token2049-side-6a6a54add1b48ddf39d0929d",
@@ -16043,19 +16295,38 @@
   {
     "id": "token2049-side-6a739c525a75007b4100108c",
     "name": "F1 Sprint Race and Grand Prix Qualifying",
-    "description": "F1 Sprint Race and Grand Prix Qualifying is listed as a Sport during TOKEN2049 Week Singapore.",
-    "startDate": "2026-10-10T13:00:00+08:00",
-    "endDate": "2026-10-10T18:00:00+08:00",
+    "description": "Saturday's Formula 1 program at the 2026 Singapore Grand Prix includes the Sprint and Grand Prix qualifying at the Marina Bay Street Circuit.\n\n## Saturday, 10 October\n\n• 17:00–17:30: Formula 1 Sprint, listed as 21 laps or 60 minutes\n• 17:30–18:00: Formula 1 press conference\n• 21:00–22:00: Grand Prix qualifying session\n• 22:00–23:00: Formula 1 press conference\n\nTimes are local to Singapore. The organizer notes that the timetable is subject to change.",
+    "startDate": "2026-10-10T17:00:00+08:00",
+    "endDate": "2026-10-10T22:00:00+08:00",
     "city": "Singapore",
     "country": "Singapore",
-    "location": "Singapore, SG",
+    "location": "Marina Bay Street Circuit, Singapore",
     "url": "https://singaporegp.sg/en",
     "coverImage": "/events/token2049-side-6a739c525a75007b4100108c-4449e2e6.webp",
     "source": "token2049-official",
     "month": "October 2026",
     "category": "Sport",
     "price": "US$200-12000",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "descriptionSource": {
+      "url": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE",
+      "fetchedAt": "2026-09-20T07:56:58.376Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026 - full timetable | Formula 1®",
+      "sha256": "fc4ea6054db7a2447290a91b915ab7d0784301dab41355abed919409bc896f16",
+      "evidence": [
+        {
+          "url": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE",
+          "fetchedAt": "2026-09-20T07:56:58.376Z",
+          "sha256": "2620e2d38605804e1b965b90f8b36a5ca28a0dc12d0c60944bd2ae6a27786e73"
+        }
+      ]
+    },
+    "website": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE",
+    "registrationUrl": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE",
+    "timezone": "Asia/Singapore",
+    "venueName": "Marina Bay Street Circuit",
+    "slug": "fsrgpq"
   },
   {
     "id": "token2049-side-6aa1741e967be0befa88d006",
@@ -16270,19 +16541,38 @@
   {
     "id": "token2049-side-6a739ce35a75007b41001095",
     "name": "F1 Singapore Grand Prix Night Race",
-    "description": "F1 Singapore Grand Prix Night Race is listed as a Sport during TOKEN2049 Week Singapore.",
-    "startDate": "2026-10-11T16:00:00+08:00",
+    "description": "The Formula 1 Singapore Airlines Singapore Grand Prix 2026 takes place over 62 laps of the 4.927-kilometre Marina Bay Street Circuit on Sunday, 11 October.\n\n## Sunday race program\n\n• 18:00–18:30: Drivers' parade\n• 19:44–19:46: National anthem\n• 20:00–22:00: Grand Prix, listed as 62 laps or 120 minutes\n\nTimes are local to Singapore, eight hours ahead of UTC. The official timetable is subject to change.",
+    "startDate": "2026-10-11T20:00:00+08:00",
     "endDate": "2026-10-11T22:00:00+08:00",
     "city": "Singapore",
     "country": "Singapore",
-    "location": "Singapore, SG",
+    "location": "Marina Bay Street Circuit, Singapore",
     "url": "https://singaporegp.sg",
     "coverImage": "/events/token2049-side-6a739ce35a75007b41001095-cd08b915.webp",
     "source": "token2049-official",
     "month": "October 2026",
     "category": "Sport",
     "price": "US$200-12000",
-    "token2049SideEvent": true
+    "token2049SideEvent": true,
+    "descriptionSource": {
+      "url": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE",
+      "fetchedAt": "2026-09-20T07:56:58.376Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026 - full timetable | Formula 1®",
+      "sha256": "f5c4fd76fffe5df8ff2446154ba1ee29ce015b01b85877c0c510a1c3a869c4a6",
+      "evidence": [
+        {
+          "url": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE",
+          "fetchedAt": "2026-09-20T07:56:58.376Z",
+          "sha256": "2620e2d38605804e1b965b90f8b36a5ca28a0dc12d0c60944bd2ae6a27786e73"
+        }
+      ]
+    },
+    "website": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE",
+    "registrationUrl": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE",
+    "timezone": "Asia/Singapore",
+    "venueName": "Marina Bay Street Circuit",
+    "slug": "fgpnr"
   },
   {
     "id": "token2049-side-6aa1745c967be0befa88d018",
@@ -16350,36 +16640,176 @@
   },
   {
     "id": "token2049-side-6a5dff0dd1b48ddf39d0827c",
-    "name": "CoinFerenceX the best event - Day 1",
-    "description": "CoinFerenceX Singapore 2026 is a leading Web3 conference bringing together 7,500+ builders, investors, and innovators. Explore blockchain, DeFi, AI, and crypto ecosystems through high-impact networking and discussions.",
-    "startDate": "2026-10-05T07:00:00+08:00",
-    "endDate": "2026-10-05T17:30:00+08:00",
+    "name": "CoinFerenceX Singapore 2026 - Day 1",
+    "description": "Stay in the loop for what's happening at CoinFerenceX The Best Event Singapore! Join our Telegram group for all the latest updates 👉 https://t.me/+5KzXYg2cridmOGRl\n\nFor sponsor inquiries, please contact Mihir via email or Telegram (https://t.me/mihirohdrani).\n\nFollow The Best Event on Instagram for event information, recaps, features, and giveaways 👉 https://instagram.com/ (https://instagram.com/_thebestevent)thebestevent (https://instagram.com/thebestevent)\n\n\n## CoinFerenceX The Best Event Singapore\n\nOur biggest summit to date, co-created with CoinFerenceX. Two days of high-impact Web3 programming at Gardens by the Bay, Singapore's biggest Decentralised Summit.\n\n5-6 October 2026 | Gardens by the Bay, Singapore\n\n\n## What to expect\n\nThis summit brings TBE's production scale together with CoinFerenceX's curation, built around four experience tracks:\n\n\n• 🎤 100+ C-level speakers across key Web3 & Web2 verticals\n• 🏢 Booth & exhibition area for brands and builders\n• 🤝 The Leaders Summit, an invite-only gathering for governance decisions and strategic partnerships\n• 🔧 Protocol Deep Dives, technical workshops where protocols demo what they're actually shipping\n• 🎯 The Founders' Den, where early-stage builders pitch directly to 500+ VCs and investors\n• 👥 4,000+ curated attendees and 8,000+ total event registrations\n\nA curated environment built for deal-making, discovery, and real conversations.\n\nThis is where partnerships start, ideas move forward, and visibility turns into momentum.\n\n\n## Hosted by:\n\nCoinFerenceX (https://coinferencex.com) is the Web3 conference series known for curating high-signal gatherings of founders, investors, and builders. Partners help shape the agenda itself rather than simply buying booth space and a speaking slot.\n\nThe Best Event (https://thebestevent.com) is the global series where Web3 comes to life, blending culture, tech, music, and community in iconic venues around the world. TBE brings together the boldest creators, top brands, and visionaries shaping the future for unforgettable, high-energy experiences.\n\n\n## Partners:\n\nTBV (https://tbv.xyz) (TB Ventures) is a VC fund focused on leading rounds in early-stage web3 companies in South East Asia and North America. TBV is supported by TBE (TB Events) and TBA (TB Advisory), creating a network of services underpinned by a 100k+ social following and 10k+ active TG community.\n\n\n## Media Partners:\n\nMarketAcross (https://marketacross.com) is the world's leading PR firm in Web3, with clients such as Binance, Crypto.com (https://Crypto.com), dYdX, KuCoin & Cardano.",
+    "startDate": "2026-10-05",
+    "endDate": "2026-10-05",
     "city": "Singapore",
     "country": "Singapore",
-    "location": "Singapore, SG",
-    "url": "https://coinferencex.com/singapore",
-    "coverImage": "/events/token2049-side-6a5dff0dd1b48ddf39d0827c-627d1961.webp",
+    "location": "Gardens by the Bay, 18 Marina Gardens Dr, Singapore 018953",
+    "url": "https://luma.com/cfx-tbe-summit",
+    "coverImage": "https://images.lumacdn.com/uploads/32/5a989aea-c0a8-44c7-9701-d0a15021fe2f.png",
     "source": "token2049-official",
     "month": "October 2026",
     "category": "Conference/Summit",
-    "price": "US$0-399",
-    "token2049SideEvent": true
+    "price": "Free",
+    "token2049SideEvent": true,
+    "timezone": "Asia/Singapore",
+    "registrationUrl": "https://luma.com/cfx-tbe-summit",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": false,
+    "venueName": "Gardens by the Bay",
+    "streetAddress": "18 Marina Gardens Dr, Singapore",
+    "addressLocality": "Singapore",
+    "addressCountry": "SG",
+    "neighborhood": "Marina South",
+    "coordinates": {
+      "latitude": 1.2815683,
+      "longitude": 103.8636132
+    },
+    "hosts": [
+      "The Best Event",
+      "CoinFerenceX",
+      "Tobias Bauer",
+      "Brent Fulfer",
+      "Radhe Gupta",
+      "Mihir Odhrani"
+    ],
+    "organizer": {
+      "type": "Organization",
+      "name": "The Best Event",
+      "url": "https://thebestevent.com/"
+    },
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "Explorer Pass",
+        "url": "https://luma.com/cfx-tbe-summit",
+        "price": 0,
+        "availability": "InStock"
+      },
+      {
+        "name": "VIP Pass",
+        "url": "https://luma.com/cfx-tbe-summit",
+        "price": 399,
+        "priceCurrency": "USD",
+        "availability": "InStock"
+      },
+      {
+        "name": "Media Pass",
+        "url": "https://luma.com/cfx-tbe-summit",
+        "price": 0,
+        "availability": "InStock"
+      },
+      {
+        "name": "Sponsor Pass (VIP)",
+        "url": "https://luma.com/cfx-tbe-summit",
+        "price": 0,
+        "availability": "InStock"
+      },
+      {
+        "name": "Speaker Pass (VIP)",
+        "url": "https://luma.com/cfx-tbe-summit",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/cfx-tbe-summit",
+      "eventId": "evt-SRSeRqJykejGWY3",
+      "fetchedAt": "2026-09-20T07:56:57.150Z",
+      "method": "luma-page"
+    },
+    "website": "https://luma.com/cfx-tbe-summit",
+    "slug": "cbed1"
   },
   {
     "id": "token2049-side-6a5dff0ed1b48ddf39d0827e",
-    "name": "CoinFerenceX the best event - Day 2",
-    "description": "CoinFerenceX Singapore 2026 is a leading Web3 conference bringing together 7,500+ builders, investors, and innovators. Explore blockchain, DeFi, AI, and crypto ecosystems through high-impact networking and discussions.",
-    "startDate": "2026-10-06T07:00:00+08:00",
-    "endDate": "2026-10-06T17:30:00+08:00",
+    "name": "CoinFerenceX Singapore 2026 - Day 2",
+    "description": "Stay in the loop for what's happening at CoinFerenceX The Best Event Singapore! Join our Telegram group for all the latest updates 👉 https://t.me/+5KzXYg2cridmOGRl\n\nFor sponsor inquiries, please contact Mihir via email or Telegram (https://t.me/mihirohdrani).\n\nFollow The Best Event on Instagram for event information, recaps, features, and giveaways 👉 https://instagram.com/ (https://instagram.com/_thebestevent)thebestevent (https://instagram.com/thebestevent)\n\n\n## CoinFerenceX The Best Event Singapore\n\nOur biggest summit to date, co-created with CoinFerenceX. Two days of high-impact Web3 programming at Gardens by the Bay, Singapore's biggest Decentralised Summit.\n\n5-6 October 2026 | Gardens by the Bay, Singapore\n\n\n## What to expect\n\nThis summit brings TBE's production scale together with CoinFerenceX's curation, built around four experience tracks:\n\n\n• 🎤 100+ C-level speakers across key Web3 & Web2 verticals\n• 🏢 Booth & exhibition area for brands and builders\n• 🤝 The Leaders Summit, an invite-only gathering for governance decisions and strategic partnerships\n• 🔧 Protocol Deep Dives, technical workshops where protocols demo what they're actually shipping\n• 🎯 The Founders' Den, where early-stage builders pitch directly to 500+ VCs and investors\n• 👥 4,000+ curated attendees and 8,000+ total event registrations\n\nA curated environment built for deal-making, discovery, and real conversations.\n\nThis is where partnerships start, ideas move forward, and visibility turns into momentum.\n\n\n## Hosted by:\n\nCoinFerenceX (https://coinferencex.com) is the Web3 conference series known for curating high-signal gatherings of founders, investors, and builders. Partners help shape the agenda itself rather than simply buying booth space and a speaking slot.\n\nThe Best Event (https://thebestevent.com) is the global series where Web3 comes to life, blending culture, tech, music, and community in iconic venues around the world. TBE brings together the boldest creators, top brands, and visionaries shaping the future for unforgettable, high-energy experiences.\n\n\n## Partners:\n\nTBV (https://tbv.xyz) (TB Ventures) is a VC fund focused on leading rounds in early-stage web3 companies in South East Asia and North America. TBV is supported by TBE (TB Events) and TBA (TB Advisory), creating a network of services underpinned by a 100k+ social following and 10k+ active TG community.\n\n\n## Media Partners:\n\nMarketAcross (https://marketacross.com) is the world's leading PR firm in Web3, with clients such as Binance, Crypto.com (https://Crypto.com), dYdX, KuCoin & Cardano.",
+    "startDate": "2026-10-06",
+    "endDate": "2026-10-06",
     "city": "Singapore",
     "country": "Singapore",
-    "location": "Singapore, SG",
-    "url": "https://coinferencex.com/singapore",
-    "coverImage": "/events/token2049-side-6a5dff0ed1b48ddf39d0827e-44df198a.webp",
+    "location": "Gardens by the Bay, 18 Marina Gardens Dr, Singapore 018953",
+    "url": "https://luma.com/cfx-tbe-summit",
+    "coverImage": "https://images.lumacdn.com/uploads/32/5a989aea-c0a8-44c7-9701-d0a15021fe2f.png",
     "source": "token2049-official",
     "month": "October 2026",
     "category": "Conference/Summit",
-    "price": "US$0-399",
-    "token2049SideEvent": true
+    "price": "Free",
+    "token2049SideEvent": true,
+    "timezone": "Asia/Singapore",
+    "registrationUrl": "https://luma.com/cfx-tbe-summit",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": false,
+    "venueName": "Gardens by the Bay",
+    "streetAddress": "18 Marina Gardens Dr, Singapore",
+    "addressLocality": "Singapore",
+    "addressCountry": "SG",
+    "neighborhood": "Marina South",
+    "coordinates": {
+      "latitude": 1.2815683,
+      "longitude": 103.8636132
+    },
+    "hosts": [
+      "The Best Event",
+      "CoinFerenceX",
+      "Tobias Bauer",
+      "Brent Fulfer",
+      "Radhe Gupta",
+      "Mihir Odhrani"
+    ],
+    "organizer": {
+      "type": "Organization",
+      "name": "The Best Event",
+      "url": "https://thebestevent.com/"
+    },
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "Explorer Pass",
+        "url": "https://luma.com/cfx-tbe-summit",
+        "price": 0,
+        "availability": "InStock"
+      },
+      {
+        "name": "VIP Pass",
+        "url": "https://luma.com/cfx-tbe-summit",
+        "price": 399,
+        "priceCurrency": "USD",
+        "availability": "InStock"
+      },
+      {
+        "name": "Media Pass",
+        "url": "https://luma.com/cfx-tbe-summit",
+        "price": 0,
+        "availability": "InStock"
+      },
+      {
+        "name": "Sponsor Pass (VIP)",
+        "url": "https://luma.com/cfx-tbe-summit",
+        "price": 0,
+        "availability": "InStock"
+      },
+      {
+        "name": "Speaker Pass (VIP)",
+        "url": "https://luma.com/cfx-tbe-summit",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/cfx-tbe-summit",
+      "eventId": "evt-SRSeRqJykejGWY3",
+      "fetchedAt": "2026-09-20T07:56:57.150Z",
+      "method": "luma-page"
+    },
+    "website": "https://luma.com/cfx-tbe-summit",
+    "slug": "cbed2"
   }
 ]

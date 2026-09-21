@@ -7,7 +7,7 @@ import { getEventSlug, getEventDatePill, getEventCity, type PublicWeb3Event } fr
 
 export function EventCard({ event, hideLocation = false }: { event: PublicWeb3Event; hideLocation?: boolean }) {
   const slug = getEventSlug(event);
-  const datePill = getEventDatePill(event.startDate, event.timezone);
+  const datePill = getEventDatePill(event.startDate, event.timezone, event.eventStatus);
   const city = getEventCity(event) || 'Online';
 
   return (
@@ -20,6 +20,7 @@ export function EventCard({ event, hideLocation = false }: { event: PublicWeb3Ev
               <CardTitle className="text-base leading-snug font-semibold line-clamp-2" title={event.name}>
                 {event.name}
               </CardTitle>
+              {event.eventStatus === 'EventPostponed' && <p className="mt-0.5 text-xs text-muted-foreground">Postponed · New dates pending</p>}
               {!hideLocation && (
                 <p className="text-xs text-muted-foreground truncate mt-0.5" title={city}>
                   {city}
