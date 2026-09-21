@@ -18,6 +18,7 @@ const REQUIRED = [
   'public/images/demodayonepiece.png',
   'public/images/obortechinterview.jpg',
   'public/images/altlayerrollupday.png',
+  'public/og-image.png',
 ];
 
 function main(): void {

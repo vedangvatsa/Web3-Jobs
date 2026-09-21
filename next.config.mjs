@@ -38,6 +38,7 @@ const nextConfig = {
       './public/events/**/*',
       './public/images/**/*',
       './public/preview/**/*',
+      './public/og/**/*',
       './public/favicon.ico',
       './public/icon.png',
     ],

@@ -45,6 +45,7 @@ const DIRS = [
   ['public/preview', 'public/preview'],
   ['public/popups', 'public/popups'],
   ['public/visualizers', 'public/visualizers'],
+  ['public/og', 'public/og'],
 ];
 
 /** Top-level public/ entries copied wholesale (dirs above are copied explicitly). */
@@ -59,7 +60,6 @@ const PUBLIC_ROOT_SKIP = new Set([
   'preview',
   'popups',
   'visualizers',
-  // Precomputed per-job PNGs; not required for in-app logos/covers (large).
   'og',
 ]);
 
