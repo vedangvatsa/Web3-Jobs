@@ -1,5 +1,53 @@
 [
   {
+    "id": "124599379112665798",
+    "title": "Senior Staff Software Engineer, Video Playback, YouTube",
+    "company": "Google",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/124599379112665798-senior-staff-software-engineer-video-playback-youtube",
+    "date": "2026-09-21T10:07:42.875Z",
+    "source": "Google Careers",
+    "location": "San Bruno, CA, USA",
+    "department": "YouTube",
+    "active": true,
+    "slug": "eng58"
+  },
+  {
+    "id": "135536861224280774",
+    "title": "Strategic Missions and Partnerships Sales Leader, Google Cloud Universal Ledger",
+    "company": "Google",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/135536861224280774-strategic-missions-and-partnerships-sales-leader-google-cloud-universal-ledger",
+    "date": "2026-09-21T10:07:42.875Z",
+    "source": "Google Careers",
+    "location": "New York, NY, USA",
+    "department": "Google Cloud",
+    "active": true,
+    "slug": "sls75"
+  },
+  {
+    "id": "132277607038100166",
+    "title": "Industry Principal Architect, Web3",
+    "company": "Google",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/132277607038100166-industry-principal-architect-web3",
+    "date": "2026-09-21T10:07:42.875Z",
+    "source": "Google Careers",
+    "location": "Hong Kong",
+    "department": "Google Cloud",
+    "active": true,
+    "slug": "arc4"
+  },
+  {
+    "id": "137522277502591686",
+    "title": "Solutions Architect, Digital Platforms, Google Cloud",
+    "company": "Google",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/137522277502591686-solutions-architect-digital-platforms-google-cloud",
+    "date": "2026-09-21T10:07:42.875Z",
+    "source": "Google Careers",
+    "location": "Frankfurt am Main, Germany",
+    "department": "Google Cloud",
+    "active": true,
+    "slug": "arc5"
+  },
+  {
     "id": "200679993-0836",
     "title": "Apple Pay Financial Product Strategy Lead",
     "company": "Apple",
