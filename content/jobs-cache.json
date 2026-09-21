@@ -1,5 +1,77 @@
 [
   {
+    "id": "10537187",
+    "title": "Senior BDM Law Enforcement, Global Government Business Development",
+    "company": "Amazon",
+    "link": "https://www.amazon.jobs/en/jobs/10537187/senior-bdm-law-enforcement-global-government-business-development",
+    "date": "2026-09-21T10:25:29.300Z",
+    "source": "Amazon.jobs",
+    "location": "London, United Kingdom",
+    "department": "AWS Global Public Sector",
+    "active": true,
+    "slug": "sls92"
+  },
+  {
+    "id": "10483695",
+    "title": "Internal Risk Specialist, Special Projects & Investigations",
+    "company": "Amazon",
+    "link": "https://www.amazon.jobs/en/jobs/10483695/internal-risk-specialist-special-projects-investigations",
+    "date": "2026-09-21T10:25:29.300Z",
+    "source": "Amazon.jobs",
+    "location": "Singapore, Singapore",
+    "department": "Amazon",
+    "active": true,
+    "slug": "int12"
+  },
+  {
+    "id": "10472950",
+    "title": "Industry Specialist, Capital Markets and Banking, APJ Financial Services Industry Development, AWS",
+    "company": "Amazon",
+    "link": "https://www.amazon.jobs/en/jobs/10472950/industry-specialist-capital-markets-and-banking-apj-financial-services-industry-development-aws",
+    "date": "2026-09-21T10:25:29.300Z",
+    "source": "Amazon.jobs",
+    "location": "Seoul, South Korea",
+    "department": "AWS Financial Services",
+    "active": true,
+    "slug": "iscm"
+  },
+  {
+    "id": "10482747",
+    "title": "Senior Software Dev Engineer (UM), Bespoke Solutions",
+    "company": "Amazon",
+    "link": "https://www.amazon.jobs/en/jobs/10482747/senior-software-dev-engineer-um-bespoke-solutions",
+    "date": "2026-09-21T10:25:29.300Z",
+    "source": "Amazon.jobs",
+    "location": "Jessup, MD, United States; Arlington, VA, United States; Denver, CO, United States; Herndon, VA, United States",
+    "department": "AWS",
+    "active": true,
+    "slug": "eng62"
+  },
+  {
+    "id": "10535100",
+    "title": "Senior Delivery Consultant, Emerging Tech",
+    "company": "Amazon",
+    "link": "https://www.amazon.jobs/en/jobs/10535100/senior-delivery-consultant-emerging-tech",
+    "date": "2026-09-21T10:25:29.300Z",
+    "source": "Amazon.jobs",
+    "location": "9 locations — Boston, MA, United States; Nashville, TN, United States; Arlington, VA, United States; Bellevue, WA, United States; +5 more",
+    "department": "AWS Professional Services",
+    "active": true,
+    "slug": "dcet"
+  },
+  {
+    "id": "10552800",
+    "title": "Senior Delivery Consultant, Emerging Tech",
+    "company": "Amazon",
+    "link": "https://www.amazon.jobs/en/jobs/10552800/senior-delivery-consultant-emerging-tech",
+    "date": "2026-09-21T10:25:29.300Z",
+    "source": "Amazon.jobs",
+    "location": "10 locations — Jersey City, NJ, United States; Miami, FL, United States; Bellevue, WA, United States; Atlanta, GA, United States; +6 more",
+    "department": "AWS Professional Services",
+    "active": true,
+    "slug": "dcet2"
+  },
+  {
     "id": "124599379112665798",
     "title": "Senior Staff Software Engineer, Video Playback, YouTube",
     "company": "Google",
