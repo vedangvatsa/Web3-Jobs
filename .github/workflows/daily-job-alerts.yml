@@ -2,6 +2,15 @@ name: Daily Job Alerts (Resend Broadcast)
 
 on:
   workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Validate without sending (creates + deletes a draft)'
+        type: boolean
+        default: false
+      force_send:
+        description: 'Send even if a broadcast was already sent today (UTC)'
+        type: boolean
+        default: false
   workflow_call:
     inputs:
       dry_run:

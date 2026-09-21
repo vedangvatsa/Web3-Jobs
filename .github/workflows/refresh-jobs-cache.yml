@@ -40,18 +40,25 @@ concurrency:
 jobs:
   ingest:
     if: ${{ github.event.schedule == '30 3 * * *' }}
+    permissions:
+      contents: write
     uses: ./.github/workflows/refresh-jobs-ingest.yml
     secrets: inherit
 
   job-alerts:
     needs: [ingest]
     if: ${{ always() && github.event.schedule == '30 3 * * *' && needs.ingest.result != 'cancelled' }}
+    permissions:
+      contents: write
     uses: ./.github/workflows/daily-job-alerts.yml
     secrets: inherit
 
   post-openings:
     needs: [ingest]
     if: ${{ always() && github.event.schedule == '30 3 * * *' && needs.ingest.result != 'cancelled' }}
+    permissions:
+      contents: write
+      checks: read
     uses: ./.github/workflows/post-job-openings-social.yml
     secrets: inherit
 

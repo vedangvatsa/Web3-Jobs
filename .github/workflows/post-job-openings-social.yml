@@ -2,6 +2,32 @@ name: Post Job Openings to X, Threads, Bluesky, Farcaster, LinkedIn, Facebook & 
 
 on:
   workflow_dispatch:
+    inputs:
+      platform:
+        description: 'Target platform (all, x, threads, bluesky, farcaster, linkedin, facebook, instagram)'
+        type: choice
+        options:
+          - all
+          - x
+          - threads
+          - bluesky
+          - farcaster
+          - linkedin
+          - facebook
+          - instagram
+        default: all
+      dry_run:
+        description: 'Dry run mode (preview without posting)'
+        type: boolean
+        default: false
+      slug:
+        description: 'Optional specific job slug to post'
+        type: string
+        default: ''
+      force:
+        description: 'Republish a platform even if its post was already recorded'
+        type: boolean
+        default: false
   workflow_call:
     inputs:
       platform:
