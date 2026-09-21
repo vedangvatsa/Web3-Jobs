@@ -39,11 +39,34 @@ if [ -z "${BACKEND}" ]; then
   npx --yes firebase-tools@latest apphosting:backends:list --project "${PROJECT_ID}" || true
   echo "If grantaccess is still needed, set FIREBASE_APPHOSTING_BACKEND and re-run grant step in the workflow."
 else
-  SECRETS="NEXT_PUBLIC_FIREBASE_API_KEY,NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN,NEXT_PUBLIC_FIREBASE_PROJECT_ID,NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET,NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID,NEXT_PUBLIC_FIREBASE_APP_ID,NEXT_PUBLIC_FIREBASE_MEASUREMENT_ID,RESEND_API_KEY,CRON_SECRET"
-  npx --yes firebase-tools@latest apphosting:secrets:grantaccess "${SECRETS}" \
-    --backend "${BACKEND}" \
-    --project "${PROJECT_ID}"
-  echo "Granted backend ${BACKEND} access to secrets."
+  SECRETS=()
+  for name in \
+    NEXT_PUBLIC_FIREBASE_API_KEY \
+    NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN \
+    NEXT_PUBLIC_FIREBASE_PROJECT_ID \
+    NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET \
+    NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID \
+    NEXT_PUBLIC_FIREBASE_APP_ID \
+    NEXT_PUBLIC_FIREBASE_MEASUREMENT_ID \
+    RESEND_API_KEY \
+    CRON_SECRET
+  do
+    # Only grant secrets that exist (skip empty / never-created ones).
+    if npx --yes firebase-tools@latest apphosting:secrets:access "${name}" --project "${PROJECT_ID}" >/dev/null 2>&1; then
+      SECRETS+=("${name}")
+    else
+      echo "Skip grant for ${name} (secret missing)"
+    fi
+  done
+  if [ "${#SECRETS[@]}" -eq 0 ]; then
+    echo "No secrets to grant"
+  else
+    JOINED=$(IFS=,; echo "${SECRETS[*]}")
+    npx --yes firebase-tools@latest apphosting:secrets:grantaccess "${JOINED}" \
+      --backend "${BACKEND}" \
+      --project "${PROJECT_ID}"
+    echo "Granted backend ${BACKEND} access to: ${JOINED}"
+  fi
 fi
 
 echo "Done. Trigger a new App Hosting rollout in Firebase console."
