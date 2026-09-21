@@ -34,9 +34,8 @@ jobs:
               echo
             fi
           done
-          echo "=== List FAH builds ==="
+          echo "=== List FAH builds (raw head) ==="
           curl -s -H "Authorization: Bearer $TOKEN" \
-            'https://firebaseapphosting.googleapis.com/v1beta/projects/web3-jobs-aggregator/locations/us-central1/backends/studio/builds?pageSize=15' \
-            > /tmp/builds.json
-          python3 -c 'import json;d=json.load(open("/tmp/builds.json"));
-[print(b.get("state"), (b.get("createTime") or "")[:19], b.get("name","").split("/")[-1], ((b.get("source") or {}).get("codebase") or {}).get("hash","")[:8], (((b.get("source") or {}).get("codebase") or {}).get("commitMessage") or "")[:60]) for b in d.get("builds") or []]'
+            'https://firebaseapphosting.googleapis.com/v1beta/projects/web3-jobs-aggregator/locations/us-central1/backends/studio/builds?pageSize=10' \
+            | head -c 5000
+          echo
