@@ -41,7 +41,7 @@ names, or plans.
 - File: content/articles/<one-or-two-word-slug>.md, `category: News`, complete
   front matter (title, ogTitle UPPER, description, image, data-ai-hint,
   publishedDate/lastUpdated = today, never future).
-- 800+ words of body prose (target 850-1000).
+- 600+ words of body prose (target 650-900).
 - Inline hyperlinks at each claim. Attribute everything (`said`, `according to`,
   `reported`, `plans`). Preserve uncertainty from sources.
 - Vary attribution placement: never end more than two consecutive sentences
