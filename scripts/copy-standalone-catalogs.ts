@@ -25,6 +25,9 @@ const FILES = [
   'content/company-logos-index.json',
   'content/latest-articles.json',
   'content/sitemap-routes.json',
+  'public/favicon.ico',
+  'public/icon.png',
+  'public/logo/HashtagWeb3.png',
 ];
 
 const DIRS = [
@@ -36,6 +39,7 @@ const DIRS = [
   ['public/job-shards', 'public/job-shards'],
   ['public/job-description-shards', 'public/job-description-shards'],
   ['public/articles-data', 'public/articles-data'],
+  ['public/logo', 'public/logo'],
 ];
 
 function copyFile(rel: string): void {
@@ -67,6 +71,12 @@ function main(): void {
   }
   for (const file of FILES) copyFile(file);
   for (const [src, dest] of DIRS) copyDir(src, dest);
+
+  const brandLogo = path.join(STANDALONE, 'public/logo/HashtagWeb3.png');
+  if (!fs.existsSync(brandLogo)) {
+    console.error('[copy-standalone-catalogs] missing brand logo in standalone — header will break on FAH');
+    process.exit(1);
+  }
   console.log('[copy-standalone-catalogs] site catalogs copied into .next/standalone');
 }
 
