@@ -1,12 +1,27 @@
 import { NextRequest } from 'next/server';
 import { middleware } from '../src/middleware';
+import { getJobShardFilename, getJobSlugShardIndex } from '../src/lib/job-shards';
 
 async function runMiddlewareTests() {
   console.log('🧪 Running automated middleware regression & integration tests...\n');
 
   const originalFetch = globalThis.fetch;
-  // Keep fetch available for non-catalog middleware paths; job redirects use local jobs-runtime.
-  globalThis.fetch = originalFetch;
+  const arc6ShardFile = getJobShardFilename(getJobSlugShardIndex('arc6'));
+  globalThis.fetch = async (input, init) => {
+    const url =
+      typeof input === 'string'
+        ? input
+        : input instanceof URL
+          ? input.href
+          : input.url;
+    if (url.includes(`/job-shards/${arc6ShardFile}`)) {
+      return new Response(JSON.stringify({ arc6: { slug: 'arc6' } }), {
+        status: 200,
+        headers: { 'Content-Type': 'application/json' },
+      });
+    }
+    return originalFetch(input, init);
+  };
 
   let passed = 0;
   let failed = 0;
