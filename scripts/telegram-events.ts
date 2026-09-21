@@ -2,7 +2,7 @@ import fs from 'fs';
 import path from 'path';
 import dotenv from 'dotenv';
 import { getEvents } from '../src/lib/events-server';
-import { formatEventDate, formatEventLocation, getEventSlug } from '../src/lib/events';
+import { formatEventDate, getEventSlug, normalizeCountry } from '../src/lib/events';
 
 dotenv.config({ path: path.join(process.cwd(), '.env.local') });
 
@@ -21,6 +21,19 @@ if (!dryRun && (!botToken || !channelId || !threadId)) {
 
 function escapeHtml(value: string): string {
   return value.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+}
+
+function eventPlace(event: { location?: string; city?: string; country?: string; attendanceMode?: string }): string {
+  const location = (event.location || '').trim();
+  if (event.attendanceMode === 'online' || /^(?:online|virtual|remote|zoom|google meet|webinar)$/i.test(location)) {
+    return 'Online';
+  }
+  const generic = new Set(['global', 'virtual', 'online', 'tba', 'tbd', 'worldwide', 'remote', 'hybrid', 'various']);
+  const city = generic.has((event.city || '').trim().toLowerCase()) ? '' : (event.city || '').trim();
+  const country = normalizeCountry(event.country);
+  if (city && country && city.toLowerCase() === country.toLowerCase()) return city;
+  if (city && country) return `${city}, ${country}`;
+  return city || country || 'Online';
 }
 
 function loadIds(filePath: string): Set<string> {
@@ -55,12 +68,16 @@ async function main() {
   );
   const available = upcoming.filter((event) => !posted.has(event.id));
   const candidates = available.length >= 1 ? available : upcoming;
-  const selected = candidates.slice(0, 1);
+  const selected = candidates.slice(0, 3);
   if (!selected.length) throw new Error('No upcoming events available to post.');
 
-  const [event] = selected;
-  const url = `https://hashtagweb3.com/${getEventSlug(event)}?utm_source=telegram&utm_medium=social&utm_campaign=event_post`;
-  const message = `<a href="${url}"><b>${escapeHtml(event.name)}</b></a>\n${escapeHtml(formatEventDate(event.startDate, event.endDate))} · ${escapeHtml(formatEventLocation(event))}`;
+  const message = selected.map((event) => {
+    const url = `https://hashtagweb3.com/${getEventSlug(event)}?utm_source=telegram&utm_medium=social&utm_campaign=event_post`;
+    const date = formatEventDate(event.startDate, event.endDate).replace(/ - /g, '–');
+    const line = `${event.name} in ${eventPlace(event)} on ${date}`;
+    return `<a href="${url}">${escapeHtml(line)}</a>`;
+  }).join('\n\n');
+  const url = `https://hashtagweb3.com/${getEventSlug(selected[0])}?utm_source=telegram&utm_medium=social&utm_campaign=event_post`;
 
   if (dryRun) {
     console.log(message.replace(/<[^>]+>/g, ''));
