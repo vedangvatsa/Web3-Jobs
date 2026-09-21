@@ -62,6 +62,7 @@ function normalizeDescriptionParagraphBlocks(ownDescription: string): string[] {
 
   const blocks: string[] = [];
   let bulletRun: string[] = [];
+  let numberedRun: string[] = [];
   let codeRun: string[] | null = null;
 
   const flushBullets = () => {
@@ -69,6 +70,15 @@ function normalizeDescriptionParagraphBlocks(ownDescription: string): string[] {
       blocks.push(bulletRun.join('\n'));
       bulletRun = [];
     }
+  };
+
+  const flushNumbered = () => {
+    if (numberedRun.length >= 2) {
+      blocks.push(numberedRun.map((entry) => entry.replace(/^(\d{1,2})\s*[-–]\s+/, '$1. ')).join('\n'));
+    } else {
+      blocks.push(...numberedRun);
+    }
+    numberedRun = [];
   };
 
   for (const rawLine of trimmedLines) {
@@ -85,6 +95,15 @@ function normalizeDescriptionParagraphBlocks(ownDescription: string): string[] {
       continue;
     }
     if (codeRun) { codeRun.push(line); continue; }
+    // "1 - Item" style numbered lines only form a list when 2+ run together,
+    // so quantities ("10 - 20 attendees"), years and times stay body copy.
+    const dashNumbered = /^\s*(\d{1,2})\s*[-–]\s+(\S.*)$/.exec(line);
+    if (/^\s*\d{1,2}\s*[-–]\s+\S/.test(line) && !/^\s*\d{1,2}:\d{2}/.test(line) && !/^\s*\d{3,}/.test(line)) {
+      flushBullets();
+      numberedRun.push(line.trim());
+      continue;
+    }
+    flushNumbered();
     if (/^\s*(?:[-*•·▪–—]|\d+[.)])\s+/.test(line)) {
       bulletRun.push(line);
       continue;
@@ -94,10 +113,12 @@ function normalizeDescriptionParagraphBlocks(ownDescription: string): string[] {
       continue;
     }
     flushBullets();
+    flushNumbered();
     blocks.push(line.trim());
   }
   if (codeRun) blocks.push(codeRun.join('\n'));
   flushBullets();
+  flushNumbered();
   return blocks;
 }
 
@@ -224,6 +245,10 @@ export function buildEditorialFromOrganizerDescription(event: Web3Event): EventE
     }
   }
 
+  // Strip URLs out of headings first, so repeats that differ only by a link
+  // ("Schedule (https://x)" vs "Schedule") fold together below.
+  sections = stripHeadingUrls(sections);
+
   // Fold repeated headings (multi-day agendas reusing "Agenda" / "What to
   // expect") into their first occurrence, preserving content order.
   const seenHeadings = new Map<string, number>();
@@ -239,9 +264,83 @@ export function buildEditorialFromOrganizerDescription(event: Web3Event): EventE
     }
   }
   sections = folded;
+  sections = finalizeSectionContent(sections);
 
   return {
     summaryLead,
     sections,
   };
+}
+
+/** Abbreviations and initials that must not end a sentence when splitting. */
+const SENTENCE_GUARD = /(?:\b(?:e\.g|i\.e|Mr|Mrs|Ms|Dr|St|vs|etc|Fig|approx|U\.S|U\.K|D\.C|a\.m|p\.m)|\b[A-Z]\.|^\d+\.)$/i;
+
+/** Split a very long paragraph into readable chunks at sentence boundaries. */
+function splitLongParagraph(block: string, max = 700): string[] {
+  if (block.length <= max || block.includes('\n')) return [block];
+  const flat = block.replace(/\s+/g, ' ');
+  const raw = flat.match(/[^.!?]+[.!?]+["'”)\]]*\s*/g) || [flat];
+  const sentences: string[] = [];
+  for (const sentence of raw) {
+    const last = sentences[sentences.length - 1];
+    if (last && SENTENCE_GUARD.test(last.trimEnd())) sentences[sentences.length - 1] = last + sentence;
+    else sentences.push(sentence);
+  }
+  if (sentences.length < 2) return [block];
+  const chunks: string[] = [];
+  let current = '';
+  for (const sentence of sentences) {
+    if (current && current.length + sentence.length > max) {
+      chunks.push(current.trim());
+      current = sentence;
+    } else {
+      current += sentence;
+    }
+  }
+  if (current.trim()) chunks.push(current.trim());
+  return chunks.length > 1 ? chunks : [block];
+}
+
+const HEADING_URL = /https?:\/\/[^\s<>"')\]]+/gi;
+
+/** Headings should name the topic, not carry raw URLs: move links out of
+ * headings into link lines under the heading so no source link is lost. */
+function stripHeadingUrls(
+  sections: Array<{ heading: string; content: string[] }>,
+): Array<{ heading: string; content: string[] }> {
+  const cleaned: Array<{ heading: string; content: string[] }> = [];
+  for (const section of sections) {
+    const urls = [...new Set(section.heading.match(HEADING_URL) || [])];
+    const heading = section.heading
+      .replace(/\(\s*https?:\/\/[^\s<>"')\]]+\s*\)/gi, '')
+      .replace(HEADING_URL, '')
+      .replace(/\s{2,}/g, ' ')
+      .replace(/[\s(\[{\-–—:;,.]+$/, '')
+      .trim();
+    if (!heading) {
+      // A heading that was only a URL becomes body copy under the previous section.
+      const linkLines = [...urls, ...section.content];
+      if (cleaned.length > 0) cleaned[cleaned.length - 1].content.push(...linkLines);
+      else cleaned.push({ heading: 'About the event', content: linkLines });
+      continue;
+    }
+    cleaned.push({ heading, content: urls.length ? [...urls, ...section.content] : section.content });
+  }
+  return cleaned;
+}
+
+/** Split over-long paragraphs and drop exact-duplicate blocks in a section. */
+function finalizeSectionContent(
+  sections: Array<{ heading: string; content: string[] }>,
+): Array<{ heading: string; content: string[] }> {
+  return sections.map((section) => ({
+    ...section,
+    content: section.content
+      .filter((block, index, all) => {
+        // An exact repeat inside one section is pasted duplication, not emphasis.
+        if (block.trim().length <= 60) return true;
+        return all.findIndex((other) => other.trim() === block.trim()) === index;
+      })
+      .flatMap((block) => splitLongParagraph(block)),
+  }));
 }

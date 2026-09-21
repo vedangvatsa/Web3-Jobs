@@ -54,6 +54,23 @@ async function main() {
   const labelGuide = buildEditorialFromOrganizerDescription(labels);
   assert.deepEqual(labelGuide.sections.map((section) => section.heading), ['About the event', 'Our Mission', 'Focus Areas', 'Track A', 'Prizes', 'Who is this for?', 'Participants']);
   assert.deepEqual(labelGuide.sections[3].content, ['First track question?']);
+  const messy: Web3Event = { ...example,
+    description: '## MegaHit.ai (https://megahit.ai)\nSummit intro sentence here.\n## Schedule\n1 - Doors open\n2 - Keynotes\nRepeated paragraph that is long enough to trigger the duplication filter for this test case here.\nRepeated paragraph that is long enough to trigger the duplication filter for this test case here.\n10 - 20 attendees expected at the venue for this particular evening session.',
+  };
+  const messyGuide = buildEditorialFromOrganizerDescription(messy);
+  const sponsor = messyGuide.sections.find((section) => section.heading === 'MegaHit.ai')!;
+  assert.deepEqual(sponsor.content[0], 'https://megahit.ai', 'heading URLs move into link lines without loss');
+  const schedule = messyGuide.sections.find((section) => section.heading === 'Schedule')!;
+  assert.ok(schedule.content.join('\n').includes('1. Doors open'), 'dash-numbered runs become ordered lists');
+  assert.ok(schedule.content.every((block) => !block.includes('Repeated paragraph') || schedule.content.indexOf(block) === schedule.content.findIndex((other) => other === block)), 'exact-duplicate paragraphs are removed');
+  assert.equal(schedule.content.filter((block) => block.includes('Repeated paragraph')).length, 1);
+  assert.ok(schedule.content.some((block) => block === '10 - 20 attendees expected at the venue for this particular evening session.'), 'single quantities stay body copy');
+
+  const wallSentences = ['The program opens with a keynote on builder infrastructure', 'Mentors from three protocol teams will hold office hours', 'Workshops cover wallets, signing flows and account recovery', 'A panel discusses stablecoin settlement at noon', 'The venue provides food, drinks and quiet hacking space', 'Judges announce winners before the closing reception'];
+  const wall: Web3Event = { ...example, description: `${wallSentences.map((sentence, k) => `Part ${k + 1}: ${sentence}.`).join(' ').repeat(6)}` };
+  const wallGuide = buildEditorialFromOrganizerDescription(wall);
+  assert.ok(wallGuide.sections[0].content.length > 1, 'very long paragraphs split at sentence boundaries');
+  assert.ok(wallGuide.sections[0].content.every((block) => block.length <= 700));
   const editorial = buildEditorialFromOrganizerDescription(example);
   assert.deepEqual(editorial.sections.map((section) => section.heading), ['About the event', 'Schedule', 'Registration']);
   assert.deepEqual(editorial.sections[0].content, ['Opening paragraph.', 'Second paragraph.', 'Closing paragraph.']);
