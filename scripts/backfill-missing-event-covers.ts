@@ -6,8 +6,8 @@ import * as fs from 'fs';
 import * as path from 'path';
 import type { Web3Event } from '../src/types';
 import { buildEventsListing } from '../src/lib/events-listing-build';
-import { collectLiveEventCoverBasenames } from './lib/event-cover-refs';
-import { canonicalLumaUrl, downloadCover, enrichLocalCovers, UA } from './lib/event-image-utils.mjs';
+import * as cheerio from 'cheerio';
+import { canonicalLumaUrl, downloadCover, enrichLocalCovers, isLumaDefaultPlaceholder, UA } from './lib/event-image-utils.mjs';
 
 const ROOT = process.cwd();
 const EVENTS_DIR = path.join(ROOT, 'public', 'events');
@@ -47,6 +47,44 @@ function remoteCoverForEvent(
   const fromSource = source?.coverImage;
   if (typeof fromSource === 'string' && fromSource.startsWith('http')) return fromSource;
 
+  return null;
+}
+
+function cleanUrl(raw: string | null | undefined): string | null {
+  if (!raw) return null;
+  const u = raw.trim();
+  if (!u.startsWith('http')) return null;
+  return u;
+}
+
+/** og:image / Luma CDN URL from the public event page when sources only store a local path. */
+async function scrapeCoverUrl(pageUrl: string): Promise<string | null> {
+  let res: Response;
+  try {
+    res = await fetch(pageUrl, {
+      headers: { 'User-Agent': UA, Accept: 'text/html' },
+      signal: AbortSignal.timeout(12000),
+      redirect: 'follow',
+    });
+  } catch {
+    return null;
+  }
+  if (res.status === 429) return 'rate_limited';
+  if (!res.ok) return null;
+  const html = await res.text();
+  const $ = cheerio.load(html);
+  const candidates = [
+    $('meta[property="og:image"]').attr('content'),
+    $('meta[name="twitter:image"]').attr('content'),
+  ];
+  for (const raw of candidates) {
+    if (!raw || raw.length < 15) continue;
+    const absolute = raw.startsWith('http') ? raw : new URL(raw, pageUrl).toString();
+    if (isLumaDefaultPlaceholder(absolute)) continue;
+    return absolute;
+  }
+  const luma = html.match(/https:\/\/images\.lumacdn\.com\/[^"'\\\s]+/);
+  if (luma && !isLumaDefaultPlaceholder(luma[0])) return luma[0];
   return null;
 }
 
@@ -99,17 +137,20 @@ async function main(): Promise<void> {
     );
   }
 
-  const liveBasenames = await collectLiveEventCoverBasenames();
   const byId = loadSourcesById();
   const overrides: Record<string, string> = fs.existsSync(OVERRIDES_PATH)
     ? (JSON.parse(fs.readFileSync(OVERRIDES_PATH, 'utf8')) as Record<string, string>)
     : {};
 
-  const missingEvents = listing.filter((e) => {
+  const runtimePath = path.join(ROOT, 'content/events-runtime.json');
+  const runtime = fs.existsSync(runtimePath)
+    ? (JSON.parse(fs.readFileSync(runtimePath, 'utf8')) as Web3Event[])
+    : listing;
+  const missingEvents = runtime.filter((e) => {
     const cover = e.coverImage?.trim();
     if (!cover?.startsWith('/events/')) return false;
     const base = path.basename(cover.split(/[?#]/, 1)[0]);
-    return liveBasenames.has(base) && !fs.existsSync(path.join(EVENTS_DIR, base));
+    return !fs.existsSync(path.join(EVENTS_DIR, base));
   });
 
   console.log(`[backfill-missing-event-covers] ${missingEvents.length} listing cover(s) missing on disk`);
@@ -120,7 +161,21 @@ async function main(): Promise<void> {
 
   for (const event of missingEvents) {
     const basename = path.basename(event.coverImage!.split(/[?#]/, 1)[0]);
-    const remote = remoteCoverForEvent(event, byId, overrides);
+    let remote = remoteCoverForEvent(event, byId, overrides);
+    if (!remote) {
+      const page = cleanUrl(event.url) || cleanUrl(event.website) || cleanUrl(event.registrationUrl);
+      if (!page) {
+        skipped += 1;
+        continue;
+      }
+      const scraped = await scrapeCoverUrl(page);
+      if (scraped === 'rate_limited') {
+        failed += 1;
+        await new Promise((r) => setTimeout(r, 4000));
+        continue;
+      }
+      remote = scraped;
+    }
     if (!remote) {
       skipped += 1;
       continue;
