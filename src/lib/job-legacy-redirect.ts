@@ -16,9 +16,13 @@ export async function resolveJobForLegacyRedirect(segment: string): Promise<Job 
   const bySlug = await fetchJobBySlug(clean);
   if (bySlug?.slug) return bySlug;
 
-  const jobs = await getJobs();
-  const byId = jobs.find((job) => job.id?.toLowerCase() === clean);
-  if (byId?.slug) return byId;
+  try {
+    const jobs = await getJobs();
+    const byId = jobs.find((job) => job.id?.toLowerCase() === clean);
+    if (byId?.slug) return byId;
+  } catch (err) {
+    console.error('[job-legacy-redirect] jobs-runtime lookup failed:', err);
+  }
 
   const archived = legacyArchive[clean];
   if (archived?.newSlug) {

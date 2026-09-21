@@ -4,6 +4,18 @@ import { middleware } from '../src/middleware';
 async function runMiddlewareTests() {
   console.log('🧪 Running automated middleware regression & integration tests...\n');
 
+  const originalFetch = globalThis.fetch;
+  globalThis.fetch = async (input: RequestInfo | URL, init?: RequestInit) => {
+    const url = String(input);
+    if (url.includes('/job-shards/job-shard-02.json')) {
+      return new Response(JSON.stringify({ sales386: { slug: 'sales386', title: 'T', company: 'C' } }), {
+        status: 200,
+        headers: { 'Content-Type': 'application/json' },
+      });
+    }
+    return originalFetch(input, init);
+  };
+
   let passed = 0;
   let failed = 0;
 
@@ -18,7 +30,20 @@ async function runMiddlewareTests() {
     }
   }
 
-  // 1. Test Social UTM Suffix Redirects for Root and Nested Routes
+  console.log('1. Testing legacy /jobs/:slug → /:slug redirects...');
+  try {
+    const req = new NextRequest('https://hashtagweb3.com/jobs/sales386');
+    const res = await middleware(req);
+    assert(
+      res.status === 308 && res.headers.get('location') === 'https://hashtagweb3.com/sales386',
+      'Legacy /jobs/sales386 redirects to canonical job page',
+      `Got ${res.status} ${res.headers.get('location')}`,
+    );
+  } catch (err: any) {
+    assert(false, 'Legacy job redirect', err?.message || String(err));
+  }
+
+  // 2. Test Social UTM Suffix Redirects for Root and Nested Routes
   const socialTests = [
     { input: '/x', expectedBase: '/', utm_source: 'x' },
     { input: '/tg', expectedBase: '/', utm_source: 'telegram' },
@@ -30,7 +55,7 @@ async function runMiddlewareTests() {
     { input: '/company/binance/th', expectedBase: '/company/binance', utm_source: 'threads' },
   ];
 
-  console.log('1. Testing Social UTM Suffix Shortcuts...');
+  console.log('2. Testing Social UTM Suffix Shortcuts...');
   for (const t of socialTests) {
     try {
       const req = new NextRequest(`https://hashtagweb3.com${t.input}`, {
@@ -41,7 +66,7 @@ async function runMiddlewareTests() {
           'sec-fetch-user': '?1',
         },
       });
-      const res = middleware(req);
+      const res = await middleware(req);
 
       assert(res.status === 307, `Redirect status 307 for ${t.input}`);
       const location = res.headers.get('location');
@@ -74,7 +99,7 @@ async function runMiddlewareTests() {
       const req = new NextRequest('https://hashtagweb3.com/bd/tg', {
         headers: { 'user-agent': bot.ua },
       });
-      const res = middleware(req);
+      const res = await middleware(req);
       const rewrite = res.headers.get('x-middleware-rewrite') || '';
       assert(
         res.status === 200 && (rewrite.includes('/bd') || rewrite.includes('%2Fbd')),
@@ -90,7 +115,7 @@ async function runMiddlewareTests() {
     const req = new NextRequest('https://hashtagweb3.com/sales386/x?og=4', {
       headers: { 'user-agent': 'node-fetch/1.0' },
     });
-    const res = middleware(req);
+    const res = await middleware(req);
     const rewrite = res.headers.get('x-middleware-rewrite') || '';
     assert(
       res.status === 200 && rewrite.endsWith('/preview/sales386.html'),
@@ -112,7 +137,7 @@ async function runMiddlewareTests() {
       const req = new NextRequest(`https://hashtagweb3.com${test.path}`, {
         headers: { 'user-agent': test.ua },
       });
-      const res = middleware(req);
+      const res = await middleware(req);
       const rewrite = res.headers.get('x-middleware-rewrite') || '';
       const rewriteUrl = new URL(rewrite);
       assert(
@@ -130,7 +155,7 @@ async function runMiddlewareTests() {
   console.log('\n3. Testing ?mode=agent rewrite...');
   try {
     const req = new NextRequest('https://hashtagweb3.com/jobs?mode=agent');
-    const res = middleware(req);
+    const res = await middleware(req);
     assert(
       res.status === 200 && Boolean(res.headers.get('x-middleware-rewrite')?.includes('/agent-view.json')),
       '?mode=agent rewrites to /agent-view.json'
@@ -145,7 +170,7 @@ async function runMiddlewareTests() {
     const knownMdReq = new NextRequest('https://hashtagweb3.com/auth', {
       headers: { 'user-agent': 'GPTBot/1.0' },
     });
-    const knownMdRes = middleware(knownMdReq);
+    const knownMdRes = await middleware(knownMdReq);
     assert(
       knownMdRes.headers.get('x-middleware-rewrite')?.endsWith('/auth.md'),
       'GPTBot on /auth rewrites to /auth.md'
@@ -154,7 +179,7 @@ async function runMiddlewareTests() {
     const unknownMdReq = new NextRequest('https://hashtagweb3.com/some-path-that-does-not-exist', {
       headers: { 'user-agent': 'GPTBot/1.0' },
     });
-    const unknownMdRes = middleware(unknownMdReq);
+    const unknownMdRes = await middleware(unknownMdReq);
     assert(
       !unknownMdRes.headers.get('x-middleware-rewrite'),
       'GPTBot unknown paths continue to the route-level 404 handler'
@@ -167,7 +192,7 @@ async function runMiddlewareTests() {
   console.log('\n5. Testing /api/ path passthrough...');
   try {
     const apiReq = new NextRequest('https://hashtagweb3.com/api/email/unsubscribe');
-    const apiRes = middleware(apiReq);
+    const apiRes = await middleware(apiReq);
     assert(
       apiRes.status === 200,
       '/api/email/unsubscribe passes middleware with status 200'
@@ -177,15 +202,17 @@ async function runMiddlewareTests() {
   }
 
   console.log('\n6. Testing static catalog and content asset passthrough...');
-  for (const assetPath of ['/data/jobs-runtime.json', '/data/events-runtime.json', '/job-shards/jobs-00.json', '/job-description-shards/job-descriptions-00.json', '/articles-data/taiko-labs.json', '/data/missing.json']) {
+  for (const assetPath of ['/data/jobs-runtime.json', '/data/events-runtime.json', '/job-shards/job-shard-00.json', '/job-description-shards/job-descriptions-00.json', '/articles-data/taiko-labs.json', '/data/missing.json']) {
     for (const userAgent of ['Mozilla/5.0', 'GPTBot/1.0', 'LinkedInBot/1.0']) {
-      const response = middleware(new NextRequest(`https://hashtagweb3.com${assetPath}?mode=agent`, {
+      const response = await middleware(new NextRequest(`https://hashtagweb3.com${assetPath}?mode=agent`, {
         headers: { 'user-agent': userAgent, accept: 'text/markdown' },
       }));
       assert(response.headers.get('x-middleware-next') === '1' && !response.headers.has('x-middleware-rewrite'),
         `${assetPath} reaches the static handler (${userAgent})`);
     }
   }
+
+  globalThis.fetch = originalFetch;
 
   console.log(`\n========================================`);
   console.log(`Middleware Test Results: ${passed} passed, ${failed} failed.`);

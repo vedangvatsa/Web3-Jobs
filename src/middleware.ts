@@ -1,6 +1,7 @@
 import { NextResponse } from 'next/server';
 import type { NextRequest } from 'next/server';
 import { isLinkPreviewCrawlerRequest, LINK_PREVIEW_BOT_RE, SOCIAL_UTM_MAP, stripSocialPathSuffix } from '@/lib/social-share';
+import { parseLegacyJobPathSegment, resolveLegacyJobRedirectPath } from '@/lib/legacy-job-path';
 
 /**
  * Social media suffix shortcuts mapping to standardized UTM attribution parameters.
@@ -98,7 +99,7 @@ function applyRateLimitHeaders(response: NextResponse, limit: number, remaining:
   return response;
 }
 
-export function middleware(request: NextRequest) {
+export async function middleware(request: NextRequest) {
   const pathname = request.nextUrl.pathname;
   const searchParams = request.nextUrl.searchParams;
   const host = request.headers.get('host')?.split(':')[0]?.toLowerCase();
@@ -117,6 +118,21 @@ export function middleware(request: NextRequest) {
     pathname.startsWith('/job-description-shards/')
   ) {
     return NextResponse.next();
+  }
+
+  const legacyJobSegment = parseLegacyJobPathSegment(pathname);
+  if (legacyJobSegment) {
+    try {
+      const canonicalPath = await resolveLegacyJobRedirectPath(
+        legacyJobSegment,
+        request.nextUrl.origin,
+      );
+      if (canonicalPath) {
+        return NextResponse.redirect(new URL(canonicalPath, request.url), 308);
+      }
+    } catch (err) {
+      console.error('[middleware] legacy /jobs redirect lookup failed:', err);
+    }
   }
 
   // 0. LinkedIn / social link-preview crawlers — serve a minimal OG-only HTML shell.
