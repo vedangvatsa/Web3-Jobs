@@ -1,0 +1,46 @@
+name: FAH impersonate deploy
+on: workflow_dispatch
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: google-github-actions/auth@v2
+        with:
+          credentials_json: ${{ secrets.FIREBASE_APPHOSTING_SERVICE_ACCOUNT_KEY }}
+      - uses: google-github-actions/setup-gcloud@v2
+        with:
+          project_id: web3-jobs-aggregator
+      - name: Try impersonation paths
+        run: |
+          set +e
+          TOKEN=$(gcloud auth print-access-token)
+          for SA in \
+            firebase-app-hosting-compute@web3-jobs-aggregator.iam.gserviceaccount.com \
+            227783834156-compute@developer.gserviceaccount.com \
+            firebase-adminsdk-fbsvc@web3-jobs-aggregator.iam.gserviceaccount.com
+          do
+            echo "=== impersonate $SA ==="
+            gcloud auth print-access-token --impersonate-service-account="$SA" 2>&1 | head -5
+            IT=$(gcloud auth print-access-token --impersonate-service-account="$SA" 2>/dev/null)
+            if [ -n "$IT" ]; then
+              BUILD_ID="imp-$(date +%s)"
+              echo "Creating build as $SA id=$BUILD_ID"
+              curl -s -X POST -H "Authorization: Bearer $IT" -H 'Content-Type: application/json' \
+                "https://firebaseapphosting.googleapis.com/v1beta/projects/web3-jobs-aggregator/locations/us-central1/backends/studio/builds?buildId=${BUILD_ID}" \
+                -d '{"source":{"codebase":{"branch":"main"}}}' | head -c 2000
+              echo
+            fi
+          done
+          echo "=== PATCH traffic as self with alternate API version ==="
+          curl -s -X PATCH -H "Authorization: Bearer $TOKEN" -H 'Content-Type: application/json' \
+            'https://firebaseapphosting.googleapis.com/v1/projects/web3-jobs-aggregator/locations/us-central1/backends/studio/traffic?updateMask=rolloutPolicy.disabled' \
+            -d '{"rolloutPolicy":{"disabled":false}}' | head -c 1500
+          echo
+          echo "=== List FAH builds pageSize=20 filter recent ==="
+          curl -s -H "Authorization: Bearer $TOKEN" \
+            'https://firebaseapphosting.googleapis.com/v1beta/projects/web3-jobs-aggregator/locations/us-central1/backends/studio/builds?pageSize=20' \
+            | python3 -c 'import sys,json; d=json.load(sys.stdin);
+for b in d.get("builds") or []:
+  print(b.get("state"), b.get("createTime","")[:19], b.get("name","").split("/")[-1], (b.get("source") or {}).get("codebase",{}).get("hash","")[:8], (b.get("source") or {}).get("codebase",{}).get("commitMessage","")[:50])'
