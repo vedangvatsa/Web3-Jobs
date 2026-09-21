@@ -34,6 +34,12 @@ const nextConfig = {
       './public/job-shards/**/*',
       './public/job-description-shards/**/*',
       './public/articles-data/**/*',
+      './public/logo/**/*',
+      './public/events/**/*',
+      './public/images/**/*',
+      './public/preview/**/*',
+      './public/favicon.ico',
+      './public/icon.png',
     ],
   },
   experimental: {

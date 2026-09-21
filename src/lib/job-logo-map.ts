@@ -3,6 +3,10 @@ import {
   getCompanyFaviconUrlBySlug,
   resolveCompanyLogo,
 } from '@/lib/company-logo';
+
+function faviconFallbackForSlug(slug: string): string {
+  return getCompanyFaviconUrlBySlug(slug);
+}
 import { getCompanySlug } from '@/lib/job-slugs';
 import type { Job } from '@/types';
 
@@ -19,8 +23,9 @@ function logoEntryForSlug(slug: string): CompanyLogoData {
     return { logo: favicon, favicon: resolveCompanyLogo(slug) };
   }
   const logo = resolveCompanyLogo(slug);
-  if (logo) return { logo, favicon: null };
-  return { logo: null, favicon: getCompanyFaviconUrlBySlug(slug) };
+  const favicon = faviconFallbackForSlug(slug);
+  if (logo) return { logo, favicon };
+  return { logo: null, favicon };
 }
 
 /** Sync logo resolution for client-side and build-time snapshots (index-only, no fs). */

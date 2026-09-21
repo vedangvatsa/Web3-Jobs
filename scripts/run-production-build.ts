@@ -14,6 +14,8 @@ function main(): void {
     run('npm run test:jobs-catalog');
     run('npm run test:company-jobs');
     run('next build');
+    run('tsx scripts/copy-standalone-catalogs.ts');
+    run('tsx scripts/test-standalone-public-assets.ts');
     return;
   }
 
@@ -23,6 +25,8 @@ function main(): void {
   run('npm run test:detail-formatting');
   run('npm run audit:detail-formatting');
   run('next build');
+  run('tsx scripts/copy-standalone-catalogs.ts');
+  run('tsx scripts/test-standalone-public-assets.ts');
 }
 
 main();

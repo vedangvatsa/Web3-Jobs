@@ -40,7 +40,28 @@ const DIRS = [
   ['public/job-description-shards', 'public/job-description-shards'],
   ['public/articles-data', 'public/articles-data'],
   ['public/logo', 'public/logo'],
+  ['public/events', 'public/events'],
+  ['public/images', 'public/images'],
+  ['public/preview', 'public/preview'],
+  ['public/popups', 'public/popups'],
+  ['public/visualizers', 'public/visualizers'],
 ];
+
+/** Top-level public/ entries copied wholesale (dirs above are copied explicitly). */
+const PUBLIC_ROOT_SKIP = new Set([
+  'data',
+  'job-shards',
+  'job-description-shards',
+  'articles-data',
+  'logo',
+  'events',
+  'images',
+  'preview',
+  'popups',
+  'visualizers',
+  // Precomputed per-job PNGs; not required for in-app logos/covers (large).
+  'og',
+]);
 
 function copyFile(rel: string): void {
   const src = path.join(ROOT, rel);
@@ -64,6 +85,22 @@ function copyDir(srcRel: string, destRel: string): void {
   fs.cpSync(src, dest, { recursive: true });
 }
 
+function copyPublicRootFiles(): void {
+  const publicRoot = path.join(ROOT, 'public');
+  if (!fs.existsSync(publicRoot)) return;
+  for (const name of fs.readdirSync(publicRoot)) {
+    if (PUBLIC_ROOT_SKIP.has(name)) continue;
+    const rel = path.join('public', name);
+    const src = path.join(ROOT, rel);
+    const dest = path.join(STANDALONE, rel);
+    if (fs.statSync(src).isDirectory()) {
+      copyDir(rel, rel);
+    } else {
+      copyFile(rel);
+    }
+  }
+}
+
 function main(): void {
   if (!fs.existsSync(STANDALONE)) {
     console.log('[copy-standalone-catalogs] no .next/standalone — skip');
@@ -71,11 +108,18 @@ function main(): void {
   }
   for (const file of FILES) copyFile(file);
   for (const [src, dest] of DIRS) copyDir(src, dest);
+  copyPublicRootFiles();
 
-  const brandLogo = path.join(STANDALONE, 'public/logo/HashtagWeb3.png');
-  if (!fs.existsSync(brandLogo)) {
-    console.error('[copy-standalone-catalogs] missing brand logo in standalone — header will break on FAH');
-    process.exit(1);
+  const checks = [
+    'public/logo/HashtagWeb3.png',
+    'public/events/ethsofia.webp',
+    'public/images/demodayonepiece.png',
+  ];
+  for (const rel of checks) {
+    if (!fs.existsSync(path.join(STANDALONE, rel))) {
+      console.error(`[copy-standalone-catalogs] missing ${rel} in standalone — static UI assets will 404 on FAH`);
+      process.exit(1);
+    }
   }
   console.log('[copy-standalone-catalogs] site catalogs copied into .next/standalone');
 }

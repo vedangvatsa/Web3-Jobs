@@ -117,7 +117,10 @@ export async function middleware(request: NextRequest) {
     pathname.startsWith('/articles-data/') ||
     pathname.startsWith('/data/') ||
     pathname.startsWith('/job-shards/') ||
-    pathname.startsWith('/job-description-shards/')
+    pathname.startsWith('/job-description-shards/') ||
+    pathname.startsWith('/logo/') ||
+    pathname.startsWith('/images/') ||
+    pathname.startsWith('/events/')
   ) {
     return NextResponse.next();
   }
