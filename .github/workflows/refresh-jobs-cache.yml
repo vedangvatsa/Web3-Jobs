@@ -199,29 +199,6 @@ jobs:
       - name: Refresh prebuild input hashes
         run: npm run update:prebuild-hashes
 
-      # Note: X and Threads postings have been migrated to the dedicated
-      # job openings workflow (.github/workflows/post-job-openings-social.yml)
-      - name: Post to Bluesky
-        env:
-          BLUESKY_HANDLE: hashtagweb3.bsky.social
-          BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
-        run: npx tsx scripts/social/publish-social.ts --platform bluesky
-        continue-on-error: true
-
-      - name: Post to LinkedIn
-        env:
-          LINKEDIN_ACCESS_TOKEN: ${{ secrets.LINKEDIN_ACCESS_TOKEN }}
-          LINKEDIN_ORG_ID: ${{ secrets.LINKEDIN_ORG_ID }}
-        run: npx tsx scripts/social/publish-social.ts --platform linkedin
-        continue-on-error: true
-
-      - name: Refill Buffer queue (LinkedIn + Instagram)
-        env:
-          BUFFER_ACCESS_TOKEN: ${{ secrets.BUFFER_ACCESS_TOKEN }}
-          BUFFER_ORG_ID: ${{ secrets.BUFFER_ORG_ID }}
-        run: npx tsx scripts/social/buffer-refill.ts
-        continue-on-error: true
-
       - name: Post to Telegram (Jobs → @web3hiring + @jobsweb3)
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
