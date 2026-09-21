@@ -1,0 +1,55 @@
+name: FAH enable traffic rollouts
+on: workflow_dispatch
+jobs:
+  enable:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: google-github-actions/auth@v2
+        with:
+          credentials_json: ${{ secrets.FIREBASE_APPHOSTING_SERVICE_ACCOUNT_KEY }}
+      - uses: google-github-actions/setup-gcloud@v2
+      - name: Enable automatic rollouts + trigger
+        run: |
+          set -euo pipefail
+          TOKEN=$(gcloud auth print-access-token)
+          echo "=== GET traffic ==="
+          curl -s -H "Authorization: Bearer $TOKEN" \
+            'https://firebaseapphosting.googleapis.com/v1beta/projects/web3-jobs-aggregator/locations/us-central1/backends/studio/traffic' \
+            | tee /tmp/traffic.json | head -c 3000
+          echo
+          ETAG=$(python3 -c 'import json; print(json.load(open("/tmp/traffic.json")).get("etag",""))')
+          echo "etag=$ETAG"
+          echo "=== PATCH enable rolloutPolicy ==="
+          RESP=$(curl -s -X PATCH \
+            -H "Authorization: Bearer $TOKEN" \
+            -H 'Content-Type: application/json' \
+            -H "X-Firebase-Etag: $ETAG" \
+            -H "If-Match: $ETAG" \
+            'https://firebaseapphosting.googleapis.com/v1beta/projects/web3-jobs-aggregator/locations/us-central1/backends/studio/traffic?updateMask=rolloutPolicy.disabled' \
+            -d '{"rolloutPolicy":{"codebaseBranch":"main","disabled":false}}')
+          echo "$RESP" | head -c 3000
+          echo
+          # Alternate without etag
+          RESP2=$(curl -s -X PATCH \
+            -H "Authorization: Bearer $TOKEN" \
+            -H 'Content-Type: application/json' \
+            'https://firebaseapphosting.googleapis.com/v1beta/projects/web3-jobs-aggregator/locations/us-central1/backends/studio/traffic?updateMask=rolloutPolicy' \
+            -d '{"rolloutPolicy":{"codebaseBranch":"main","disabled":false}}')
+          echo "$RESP2" | head -c 3000
+          echo
+          echo "=== Cloud Build triggers detail ==="
+          gcloud builds triggers list --project=web3-jobs-aggregator --region=global --format=json 2>&1 | head -c 4000 || true
+          gcloud builds triggers list --project=web3-jobs-aggregator --region=asia-south1 --format=json 2>&1 | head -c 4000 || true
+          gcloud builds triggers list --project=web3-jobs-aggregator --region=us-central1 --format=json 2>&1 | head -c 4000 || true
+          echo "=== Try run trigger 93fa7e84 ==="
+          gcloud builds triggers run 93fa7e84-db0f-4e83-bdcc-75633460b34c \
+            --project=web3-jobs-aggregator \
+            --branch=main \
+            --region=asia-south1 2>&1 | head -c 2000 || true
+          gcloud builds triggers run 93fa7e84-db0f-4e83-bdcc-75633460b34c \
+            --project=web3-jobs-aggregator \
+            --branch=main 2>&1 | head -c 2000 || true
+          echo "=== firebase CLI traffic? ==="
+          npm install -g firebase-tools@latest >/dev/null
+          firebase apphosting:rollouts:create studio --project web3-jobs-aggregator --git-branch main --force --non-interactive 2>&1 | head -c 2000 || true
