@@ -81,7 +81,6 @@ async function main() {
     const line = `${event.name} in ${eventPlace(event)} on ${date}`;
     return `<a href="${url}">${escapeHtml(line)}</a>`;
   }).join('\n\n');
-  const url = `https://hashtagweb3.com/${getEventSlug(selected[0])}?utm_source=telegram&utm_medium=social&utm_campaign=event_post`;
 
   if (dryRun) {
     console.log(message.replace(/<[^>]+>/g, ''));
@@ -96,12 +95,8 @@ async function main() {
       message_thread_id: Number(threadId),
       text: message,
       parse_mode: 'HTML',
-      disable_web_page_preview: false,
-      link_preview_options: {
-        is_disabled: false,
-        url,
-        prefer_large_media: true,
-      },
+      disable_web_page_preview: true,
+      link_preview_options: { is_disabled: true },
       reply_markup: {
         inline_keyboard: [[
           {
