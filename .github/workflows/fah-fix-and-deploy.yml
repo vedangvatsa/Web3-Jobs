@@ -1,0 +1,87 @@
+name: FAH fix secrets and deploy
+on: workflow_dispatch
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: google-github-actions/auth@v2
+        with:
+          credentials_json: ${{ secrets.FIREBASE_APPHOSTING_SERVICE_ACCOUNT_KEY || secrets.FIREBASE_SERVICE_ACCOUNT_KEY }}
+      - uses: google-github-actions/setup-gcloud@v2
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Grant App Hosting secret access + sync values
+        env:
+          FIREBASE_APPHOSTING_PROJECT_ID: web3-jobs-aggregator
+          FIREBASE_APPHOSTING_BACKEND: studio
+          NEXT_PUBLIC_FIREBASE_API_KEY: ${{ secrets.NEXT_PUBLIC_FIREBASE_API_KEY }}
+          NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN: ${{ secrets.NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN }}
+          NEXT_PUBLIC_FIREBASE_PROJECT_ID: ${{ secrets.NEXT_PUBLIC_FIREBASE_PROJECT_ID }}
+          NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET: ${{ secrets.NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET }}
+          NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID: ${{ secrets.NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID }}
+          NEXT_PUBLIC_FIREBASE_APP_ID: ${{ secrets.NEXT_PUBLIC_FIREBASE_APP_ID }}
+          NEXT_PUBLIC_FIREBASE_MEASUREMENT_ID: ${{ secrets.NEXT_PUBLIC_FIREBASE_MEASUREMENT_ID }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          CRON_SECRET: ${{ secrets.CRON_SECRET }}
+        run: |
+          set -euo pipefail
+          npm install -g firebase-tools@latest
+          chmod +x scripts/sync-firebase-apphosting-secrets.sh
+          bash scripts/sync-firebase-apphosting-secrets.sh
+          # Explicit grant for the key that broke builds
+          firebase apphosting:secrets:grantaccess NEXT_PUBLIC_FIREBASE_API_KEY \
+            --project web3-jobs-aggregator \
+            --backend studio \
+            --non-interactive || true
+      - name: Create build + rollout for main
+        run: |
+          set -euo pipefail
+          TOKEN=$(gcloud auth print-access-token)
+          BUILD_ID="manual-$(date +%s)"
+          echo "Creating build $BUILD_ID"
+          RESP=$(curl -s -X POST \
+            -H "Authorization: Bearer $TOKEN" \
+            -H 'Content-Type: application/json' \
+            "https://firebaseapphosting.googleapis.com/v1beta/projects/web3-jobs-aggregator/locations/us-central1/backends/studio/builds?buildId=${BUILD_ID}" \
+            -d '{"source":{"codebase":{"branch":"main"}}}')
+          echo "$RESP" | head -c 3000
+          echo
+          # Poll build until READY or FAILED
+          for i in $(seq 1 60); do
+            B=$(curl -s -H "Authorization: Bearer $TOKEN" \
+              "https://firebaseapphosting.googleapis.com/v1beta/projects/web3-jobs-aggregator/locations/us-central1/backends/studio/builds/${BUILD_ID}")
+            STATE=$(echo "$B" | python3 -c 'import sys,json; d=json.load(sys.stdin); print(d.get("state") or d.get("error",{}).get("message","unknown"))')
+            echo "build state: $STATE"
+            if echo "$STATE" | grep -qiE 'READY|FAILED|error|PERMISSION'; then
+              echo "$B" | head -c 4000
+              break
+            fi
+            sleep 30
+          done
+          if ! echo "$STATE" | grep -qi READY; then
+            echo "Build did not become READY"
+            exit 1
+          fi
+          ROLLOUT_ID="rollout-manual-$(date +%s)"
+          echo "Creating rollout $ROLLOUT_ID"
+          curl -s -X POST \
+            -H "Authorization: Bearer $TOKEN" \
+            -H 'Content-Type: application/json' \
+            "https://firebaseapphosting.googleapis.com/v1beta/projects/web3-jobs-aggregator/locations/us-central1/backends/studio/rollouts?rolloutId=${ROLLOUT_ID}" \
+            -d "{\"build\":\"projects/web3-jobs-aggregator/locations/us-central1/backends/studio/builds/${BUILD_ID}\"}" | head -c 3000
+          echo
+          for i in $(seq 1 40); do
+            R=$(curl -s -H "Authorization: Bearer $TOKEN" \
+              "https://firebaseapphosting.googleapis.com/v1beta/projects/web3-jobs-aggregator/locations/us-central1/backends/studio/rollouts/${ROLLOUT_ID}")
+            RS=$(echo "$R" | python3 -c 'import sys,json; d=json.load(sys.stdin); print(d.get("state") or d.get("error",{}).get("message","unknown"))')
+            echo "rollout state: $RS"
+            if echo "$RS" | grep -qiE 'SUCCEEDED|FAILED|error'; then
+              echo "$R" | head -c 2000
+              break
+            fi
+            sleep 30
+          done
+          echo "$RS" | grep -qi SUCCEEDED
