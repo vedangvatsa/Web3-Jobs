@@ -35,7 +35,7 @@ export function isLumaListedEvent(
 }
 
 const SECTION_LABELS =
-  /^(?:agenda|schedule|itinerary|program(?:me)?|speakers|hosts|co-hosts?|partners|community partners|venue|location|rules|about(?: the event| us| [\p{L}\p{N} &'’.-]{2,45})?|what to expect|who should attend|event (?:description|details|info)|hike info|how to get (?:here|there)|registration|tickets|please note|important (?:notes|information)|the challenge|disclaimer|inspiration tracks(?:\s+for\s+solutions)?)$/iu;
+  /^(?:agenda|schedule|itinerary|program(?:me)?|speakers|hosts|co-hosts?|partners|community partners|media partners?|sponsors?|venue|location|rules|about(?: the event| us| the hosts| [\p{L}\p{N} &'’.-]{2,45})?|what to expect|who should attend|who it'?s for|who is this for|how we network|event (?:description|details|info|highlights)|highlights|details|format|event format|(?:the )?prizes?|participants?|panels?|the panels?|mission|our mission|focus areas?|previous speakers|past activations|past events|hike info|how to get (?:here|there)|registration|tickets|please note|important (?:notes|information)|the challenge|disclaimer|track [a-z0-9]+|inspiration tracks(?:\s+for\s+solutions)?)$/iu;
 
 function headingText(line: string): string {
   return line.trim().replace(/^#{1,6}\s+/, '').replace(/^\*\*(.+)\*\*$/, '$1').replace(/[:.]$/, '').trim();
@@ -47,9 +47,10 @@ function isHeaderLine(line: string): boolean {
   if (!trimmed || trimmed.length > 60 || trimmed.length < 2) return false;
   if (/^[-*•·▪–—]\s+/.test(trimmed)) return false;
   // A trailing colon alone does not make a heading: agenda sub-labels like
-  // "Participants:", "Speaker:" or "Time:" must stay in the text flow,
-  // otherwise every agenda slot fragments into its own H2 section.
-  const headerLabel = headingText(trimmed);
+  // "Speaker:" or "Time:" must stay in the text flow, otherwise every agenda
+  // slot fragments into its own H2 section. A trailing question mark is
+  // ignored for matching only ("Who is this for?" still displays as written).
+  const headerLabel = headingText(trimmed).replace(/\?$/, '').trim();
   return SECTION_LABELS.test(headerLabel);
 }
 
@@ -70,7 +71,13 @@ function normalizeDescriptionParagraphBlocks(ownDescription: string): string[] {
     }
   };
 
-  for (const line of trimmedLines) {
+  for (const rawLine of trimmedLines) {
+    // Organizers sometimes style full sentences as headings for emphasis.
+    // A sentence-long "heading" renders as an oversized H2, so demote it to
+    // body copy while keeping the text.
+    const line = /^\s*#{1,6}\s+\S/.test(rawLine) && rawLine.trim().length > 100
+      ? rawLine.replace(/^\s*#{1,6}\s+/, '')
+      : rawLine;
     if (/^\s*```/.test(line)) {
       flushBullets();
       if (codeRun) { blocks.push([...codeRun, line].join('\n')); codeRun = null; }

@@ -41,6 +41,19 @@ async function main() {
   assert.equal(privateAddress.location, 'Seoul, South Korea');
   assert.equal(privateAddress.price, 'Free');
   assert.equal(privateAddress.approvalRequired, true);
+  const longHeading: Web3Event = { ...example,
+    description: '## We extend our sincere gratitude to our lead supporters and partners for making this event possible with a very long sentence that keeps going.\nDate: Tuesday.',
+  };
+  const longGuide = buildEditorialFromOrganizerDescription(longHeading);
+  assert.ok(longGuide.sections.every((section) => section.heading.length <= 100), 'sentence-long headings must be demoted to body copy');
+  assert.ok(longGuide.sections[0].content.join(' ').includes('sincere gratitude'), 'demoted heading text must be kept');
+
+  const labels: Web3Event = { ...example,
+    description: 'Intro paragraph.\nOur Mission\nMission statement here.\nFocus Areas\n- Area one\n- Area two\nTrack A\nFirst track question?\nPrizes\nTop prize details.\nWho is this for?\nBuilders.\nParticipants\nAlice\nBob',
+  };
+  const labelGuide = buildEditorialFromOrganizerDescription(labels);
+  assert.deepEqual(labelGuide.sections.map((section) => section.heading), ['About the event', 'Our Mission', 'Focus Areas', 'Track A', 'Prizes', 'Who is this for?', 'Participants']);
+  assert.deepEqual(labelGuide.sections[3].content, ['First track question?']);
   const editorial = buildEditorialFromOrganizerDescription(example);
   assert.deepEqual(editorial.sections.map((section) => section.heading), ['About the event', 'Schedule', 'Registration']);
   assert.deepEqual(editorial.sections[0].content, ['Opening paragraph.', 'Second paragraph.', 'Closing paragraph.']);

@@ -152,7 +152,8 @@
         "fetchedAt": "2026-09-19T23:45:49.249Z"
       },
       "sections": [
-        "About the event"
+        "About the event",
+        "Details"
       ]
     },
     {
@@ -269,8 +270,7 @@
         "fetchedAt": "2026-09-19T23:45:53.198Z"
       },
       "sections": [
-        "About the event",
-        "We extend our sincere gratitude to our lead supporters & partners - DLA Piper, OKX, and AI 2030 - for making this event possible"
+        "About the event"
       ]
     },
     {
@@ -283,7 +283,8 @@
         "fetchedAt": "2026-09-19T23:49:48.077Z"
       },
       "sections": [
-        "Toronto's leading gathering for digital assets, financial innovation and the future of market infrastructure",
+        "About the event",
+        "Who should attend?",
         "Event Details"
       ]
     },
@@ -310,7 +311,8 @@
         "fetchedAt": "2026-09-19T23:45:54.501Z"
       },
       "sections": [
-        "About the event"
+        "About the event",
+        "The Panels"
       ]
     },
     {
@@ -608,7 +610,8 @@
         "About the event",
         "Half-day dedicated to fostering solidarity and understanding among",
         "DISCLAIMER: the event is first come, first served",
-        "ABOUT US"
+        "ABOUT US",
+        "OUR MISSION"
       ]
     },
     {
@@ -670,7 +673,8 @@
         "fetchedAt": "2026-09-19T23:46:04.706Z"
       },
       "sections": [
-        "About the event"
+        "About the event",
+        "Who is this for?"
       ]
     },
     {
@@ -726,7 +730,14 @@
         "fetchedAt": "2026-09-19T23:46:06.024Z"
       },
       "sections": [
-        "Co-organized with NUS Enterprise and TUM Venture Labs"
+        "Co-organized with NUS Enterprise and TUM Venture Labs",
+        "Our Mission",
+        "Focus Areas",
+        "Track A",
+        "Track B",
+        "Track C",
+        "Track D",
+        "The Prizes"
       ]
     },
     {
@@ -921,7 +932,7 @@
         "fetchedAt": "2026-09-19T23:30:16.695Z"
       },
       "sections": [
-        "How does Bitcoin work without a bank or a central server? And what actually happens when you send a bitcoin transaction?",
+        "About the event",
         "AGENDA",
         "WHO'S GUIDING",
         "WHAT TO EXPECT",
@@ -995,7 +1006,9 @@
         "fetchedAt": "2026-09-19T23:30:16.051Z"
       },
       "sections": [
-        "About the event"
+        "About the event",
+        "How We Network",
+        "Who is this for?"
       ]
     },
     {
@@ -1039,7 +1052,8 @@
       },
       "sections": [
         "About the event",
-        "Agenda"
+        "Agenda",
+        "Prizes"
       ]
     },
     {
@@ -1052,7 +1066,7 @@
         "fetchedAt": "2026-09-19T23:30:16.403Z"
       },
       "sections": [
-        "When you click \"Send,\" your wallet doesn't transfer money, it broadcasts a cryptographic signature directly to a global, ownerless network",
+        "About the event",
         "AGENDA",
         "WHO'S GUIDING",
         "WHAT TO EXPECT",
@@ -1479,11 +1493,13 @@
       "sections": [
         "Event Overview",
         "Event Description",
+        "Event Format",
         "Key Topics",
         "Why Attend",
         "Event Agenda",
         "Partners",
-        "Co-host"
+        "Co-host",
+        "Sponsors"
       ]
     },
     {
@@ -1543,7 +1559,8 @@
         "fetchedAt": "2026-09-19T23:46:11.785Z"
       },
       "sections": [
-        "About the event"
+        "About the event",
+        "Details"
       ]
     },
     {
@@ -1739,6 +1756,7 @@
       "sections": [
         "About the event",
         "Who Should Attend",
+        "Details",
         "About the hosts"
       ]
     },
@@ -1793,7 +1811,7 @@
         "fetchedAt": "2026-09-19T23:29:55.444Z"
       },
       "sections": [
-        "An infamous series of pub events for the London crypto community, now LO:TECH are bringing THE LOCAL to Seoul for the first time ever.."
+        "THE LOCAL W.M.C. comes to Seoul for one night only, as part of Korea Blockchain Week 2026"
       ]
     },
     {
@@ -1820,7 +1838,8 @@
         "fetchedAt": "2026-09-19T23:30:19.161Z"
       },
       "sections": [
-        "About the event"
+        "About the event",
+        "Event Format"
       ]
     },
     {
@@ -1836,7 +1855,9 @@
         "About the event",
         "About This Morning",
         "Agenda",
-        "Speakers"
+        "The Panel",
+        "Speakers",
+        "Media Partner"
       ]
     },
     {
@@ -1863,7 +1884,7 @@
       },
       "sections": [
         "Build open agents that work together",
-        "Build an open-source agent or multi-agent system using Flower in which the safe collaboration of agent teams is central to the solution",
+        "The hackathon challenge",
         "Team formation",
         "Awards",
         "Schedule"
@@ -1929,7 +1950,6 @@
         "참석 대상",
         "솔라나 서밋 참여 신청",
         "Solana Summit is Coming To Korea 🇰🇷",
-        "The defining institutional gathering shaping the future of stablecoins, regulatory frameworks, and capital markets in Korea",
         "What To Expect",
         "Who Should Attend?",
         "Join Us"
@@ -1964,6 +1984,7 @@
         "About the Event",
         "Topics You'll See",
         "What to Expect",
+        "Past Activations",
         "Agenda (Indicative)",
         "Past Events"
       ]
@@ -2404,6 +2425,7 @@
       },
       "sections": [
         "Agenda",
+        "Participants",
         "Community Partners",
         "Travel Partner",
         "Official PR Partner",
@@ -2544,6 +2566,7 @@
       },
       "sections": [
         "About the event",
+        "Highlights",
         "About Host"
       ]
     },
@@ -2827,7 +2850,8 @@
         "fetchedAt": "2026-09-19T23:46:03.145Z"
       },
       "sections": [
-        "About the event"
+        "About the event",
+        "Who it's for"
       ]
     },
     {
@@ -2895,6 +2919,7 @@
         "우승 팀 소개",
         "타임테이블",
         "주최 - 파트너",
+        "Media Partner",
         "참가 안내",
         "About Midnight",
         "About CertiK",
@@ -2902,6 +2927,7 @@
         "Where a month of privacy-first building meets Seoul",
         "Event at a Glance",
         "Venue",
+        "Event Format",
         "From a Month of Building to Seoul",
         "What to Expect",
         "Who You'll Meet",
@@ -3256,7 +3282,8 @@
         "fetchedAt": "2026-09-19T23:54:15.251Z"
       },
       "sections": [
-        "About the event"
+        "About the event",
+        "Event Highlights"
       ]
     },
     {
@@ -3659,7 +3686,8 @@
       },
       "sections": [
         "About the event",
-        "Partners"
+        "Partners",
+        "Media Partner"
       ]
     },
     {
@@ -3673,7 +3701,8 @@
       },
       "sections": [
         "About the event",
-        "Partners"
+        "Partners",
+        "Media Partner"
       ]
     },
     {
@@ -3746,6 +3775,7 @@
         "Hosted by BackersStage (https://www.backersstage.com)",
         "Cohosted by Amazon Web Services (AWS) (http://aws.amazon.com/)",
         "Media",
+        "Media Partners",
         "Previous Experiences"
       ]
     },
@@ -3978,7 +4008,8 @@
         "fetchedAt": "2026-09-19T23:55:21.581Z"
       },
       "sections": [
-        "About the event"
+        "About the event",
+        "Who it's for"
       ]
     },
     {
@@ -4158,6 +4189,7 @@
       "sections": [
         "About the event",
         "WHAT TO EXPECT",
+        "WHO SHOULD ATTEND?",
         "EVENT DETAILS"
       ]
     },
@@ -4215,6 +4247,7 @@
       },
       "sections": [
         "About the event",
+        "Format",
         "Schedule"
       ]
     },
@@ -4228,7 +4261,8 @@
         "fetchedAt": "2026-09-19T23:55:25.785Z"
       },
       "sections": [
-        "About the event"
+        "About the event",
+        "Who it's for"
       ]
     },
     {
@@ -4256,7 +4290,9 @@
       },
       "sections": [
         "About the event",
-        "Tickets"
+        "Highlights",
+        "Tickets",
+        "Media Partner"
       ]
     },
     {
@@ -4331,7 +4367,7 @@
         "fetchedAt": "2026-09-19T23:46:25.704Z"
       },
       "sections": [
-        "Join OpenEden, United Stables, Blockaid, Utila, BNY, Darley Technologies, S&P Global Ratings and Anchorage Digital at The Onchain Lounge",
+        "About the event",
         "Event Agenda",
         "Important Notes",
         "Address",
@@ -4461,7 +4497,7 @@
         "About BSquared Network (https://bsquared.network/)",
         "About CZR (https://www.czrex.com/en_US/?utm_source=luma)",
         "About Sumsub (https://sumsub.com/?utm_source=luma)",
-        "About AWS (https://aws.amazon.com/?utm_source=luma) & eCloudrover (https://www.ecloudrover.com/en/?utm_source=luma)",
+        "Strategic Partners",
         "About Coincall (https://www.coincall.com/)",
         "About DBS Private Bank (https://www.dbs.com.sg/private-banking/default.page)",
         "About PayFun (https://www.payfun.com/)",
@@ -4822,7 +4858,8 @@
       },
       "sections": [
         "About the event",
-        "This is a small, closed-door gathering to bring that flow together with the people who can deepen it"
+        "Who it's for",
+        "Format"
       ]
     },
     {
@@ -4890,7 +4927,7 @@
         "fetchedAt": "2026-09-19T23:55:41.337Z"
       },
       "sections": [
-        "Join us for Arbitrum Founders Eve and Pitch Competition, a dedicated founder-focused gathering hosted by Arbitrum during TOKEN2049 Singapore",
+        "Arbitrum Founders Eve and Pitch Competition, Singapore 🇸🇬",
         "What to Expect",
         "Agenda",
         "Who Should Attend",
@@ -4910,7 +4947,7 @@
       },
       "sections": [
         "About the event",
-        "For Sponsorships and inquiries, please get in touch with Carl via Telegram (https://t.me/CarlAtlassoit)",
+        "What to expect?",
         "About us -"
       ]
     },
@@ -5111,6 +5148,7 @@
       },
       "sections": [
         "About the event",
+        "Event Highlights",
         "Event Details"
       ]
     },
@@ -5310,7 +5348,8 @@
       "sections": [
         "About the event",
         "What to expect",
-        "About Surgence Labs"
+        "About Surgence Labs",
+        "Details"
       ]
     },
     {
@@ -5386,7 +5425,9 @@
       "sections": [
         "About the event",
         "Schedule",
-        "About us"
+        "Highlights",
+        "About us",
+        "Media Partner"
       ]
     },
     {
@@ -5474,6 +5515,7 @@
       },
       "sections": [
         "Grand Stage",
+        "Participants",
         "Global Stage",
         "Community Partners",
         "Official PR Partner",
@@ -5605,7 +5647,8 @@
       },
       "sections": [
         "About the event",
-        "Speakers"
+        "Speakers",
+        "Sponsors"
       ]
     },
     {
@@ -5681,6 +5724,7 @@
         "fetchedAt": "2026-09-19T23:54:45.683Z"
       },
       "sections": [
+        "About the event",
         "Institutional Summit | 2 Tracks: Agentic Finance and Prediction Markets",
         "Who's in the Room",
         "Speakers",
@@ -5917,6 +5961,7 @@
       },
       "sections": [
         "About the event",
+        "Event Highlights",
         "Hosted By"
       ]
     },
@@ -5944,8 +5989,9 @@
         "fetchedAt": "2026-09-19T23:49:05.343Z"
       },
       "sections": [
-        "Venture Mindset Hackathon - Reinvent Yourself in SF - builders, founders and judges: GSB/MSx, YC..",
+        "About the event",
         "Schedule",
+        "Prizes",
         "Judges",
         "Hosts",
         "Why Join?",
@@ -6211,6 +6257,7 @@
       },
       "sections": [
         "About the event",
+        "Format",
         "About QuillAudits"
       ]
     },
@@ -6238,6 +6285,7 @@
       },
       "sections": [
         "About the event",
+        "Event Highlights",
         "Hosts"
       ]
     },
@@ -6264,7 +6312,8 @@
         "fetchedAt": "2026-09-19T23:56:06.143Z"
       },
       "sections": [
-        "About the event"
+        "About the event",
+        "Event Highlights"
       ]
     },
     {
@@ -6327,7 +6376,9 @@
       },
       "sections": [
         "About the event",
-        "Hosts"
+        "Event Highlights",
+        "Hosts",
+        "Media Partner"
       ]
     },
     {
@@ -6382,6 +6433,7 @@
       },
       "sections": [
         "About the event",
+        "Details",
         "About Your Hosts"
       ]
     },
@@ -6396,6 +6448,7 @@
       },
       "sections": [
         "About the event",
+        "Event Highlights",
         "Hosted By"
       ]
     },
@@ -6534,6 +6587,7 @@
       },
       "sections": [
         "About the event",
+        "Event Highlights",
         "Who Should Attend"
       ]
     },
@@ -6733,6 +6787,7 @@
       },
       "sections": [
         "About the event",
+        "Prizes",
         "About Open Intelligence Foundation"
       ]
     },
@@ -7200,7 +7255,8 @@
       "sections": [
         "About the event",
         "The first batch of highly-curated speakers are here",
-        "COMMUNITY PARTNERS",
+        "FOCUS AREAS",
+        "SPONSORS",
         "Lasting cultural phenomenon",
         "Connecting web2 + web3",
         "Ethereum Social Layer (ESL)",
@@ -7219,7 +7275,8 @@
       },
       "sections": [
         "About the event",
-        "Partners"
+        "Partners",
+        "Media Partner"
       ]
     },
     {
@@ -7292,6 +7349,7 @@
       },
       "sections": [
         "About the event",
+        "Format",
         "About QuillAudits"
       ]
     },
@@ -7399,6 +7457,12 @@
         "Diálogo estratégico regional",
         "Impacto económico y financiero",
         "Agenda",
+        "Palabras de Apertura",
+        "Keynote - \"Finanzas abiertas y tokenización: la próxima agenda regulatoria de Colombia\"",
+        "Keynote - \"Cómo integrar stablecoins en banca: controles, gobernanza y operación\"",
+        "Keynote - \"Autocustodia para mercados emergentes: inclusión financiera desde Fedi\"",
+        "Keynote - Cuando el avance en infraestructura financiera modifica el mercado de capitales*",
+        "Panel - \"De la innovación a escala: nuevos modelos financieros en Colombia\"",
         "Workshops",
         "Ubicación Estratégica",
         "Infraestructura de primer nivel",
@@ -7484,7 +7548,7 @@
         "Stablecoins, Payments & Programmable Money",
         "Digital Assets, Regulation & Institutional Adoption",
         "Hash It Over - Where the power of Web3 meet raw insights",
-        "Introducing the Unchained Summit Pitch Competition - taking place alongside the main conference in Mumbai, India, on 05 -06 November 2026",
+        "Building What Matters? Showcase it at Pitch Competition",
         "From Those Who Experienced",
         "Who you will meet?",
         "News & Articles",
@@ -7560,7 +7624,7 @@
         "Stablecoins, Payments & Programmable Money",
         "Digital Assets, Regulation & Institutional Adoption",
         "Hash It Over - Where the power of Web3 meet raw insights",
-        "Introducing the Unchained Summit Pitch Competition - taking place alongside the main conference in Mumbai, India, on 05 -06 November 2026",
+        "Building What Matters? Showcase it at Pitch Competition",
         "From Those Who Experienced",
         "Who you will meet?",
         "News & Articles",
@@ -7910,7 +7974,8 @@
         "fetchedAt": "2026-09-19T23:55:02.241Z"
       },
       "sections": [
-        "About the event"
+        "About the event",
+        "Details"
       ]
     },
     {
@@ -7936,8 +8001,7 @@
         "fetchedAt": "2026-09-20T07:56:56.828Z"
       },
       "sections": [
-        "Join us for the 6th Edition of ETHWomen, a free, female-focused, and inclusive event taking place on November 17-18, 2026",
-        "Running alongside Blockchain Futurist Conference, all participants of ETHWomen will also get access to the 2nd US edition of Canada's Largest Web3 event"
+        "About the event"
       ]
     },
     {
