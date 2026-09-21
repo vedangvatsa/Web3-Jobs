@@ -9,7 +9,7 @@ You are an AI coding agent assisting with the Hashtagweb3.com codebase.
 - Deployment: Firebase App Hosting (GCP); legacy OpenNext/Cloudflare paths may remain in repo
 
 ## API Conventions
-- **Integrator surface:** `/data/*.json` (CDN) plus filtered **`/api/jobs|news|events|glossary`** and **`POST /api/mcp`**, **`GET /ask`** route handlers reading the same catalogs.
+- **Integrator surface:** `/data/*.json` (CDN) and **`GET /api/email/unsubscribe`** only.
 - OpenAPI: `public/openapi.json` (mirror: `public/api/openapi.json`).
 - JSON errors on route handlers: `{ "error": { "code", "message", "hint", "docUrl" } }`.
 
@@ -17,7 +17,7 @@ You are an AI coding agent assisting with the Hashtagweb3.com codebase.
 - LLMs Index: `/llms.txt`
 - OpenAPI: `/openapi.json` (mirror: `/api/openapi.json`)
 - Agent manifests: `/.well-known/agents.json`, `/.well-known/plugin.json`
-- MCP server cards: `/.well-known/mcp/server-card.json` (discovery metadata)
+- Integrator linkset: `/.well-known/api-catalog.linkset.json` (no hosted MCP or OAuth on production)
 - WorkOS Agent Auth guide: `/auth.md`
 
 ## Coding Standards

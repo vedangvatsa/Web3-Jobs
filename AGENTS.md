@@ -18,7 +18,7 @@
 ├── src/
 │   ├── app/                  # Next.js App Router pages
 │   │   ├── api/              # Minimal routes (e.g. email unsubscribe)
-│   │   ├── jobs/             # Jobs listing + legacy /jobs/[slug] redirects
+│   │   ├── jobs/             # Jobs listing and XML/JSON feeds
 │   │   ├── news/             # News listing page
 │   │   ├── events/           # Events listing page
 │   │   ├── community/        # Community hub page
@@ -51,17 +51,11 @@ Machine-readable catalogs are **static JSON** on the CDN (no API key, no per-req
 | `GET /data/articles-index.json` | Articles index |
 | `GET /agent-view.json` | Agent capability overview |
 | `GET /?mode=agent` | Rewrites to `agent-view.json` |
-| `GET /api/jobs` | Paginated job list (filters; backed by jobs-runtime) |
-| `GET /api/news` | Native news headlines |
-| `GET /api/events` | Upcoming events |
-| `GET /api/glossary` | Glossary terms |
-| `GET /api/v1/*` | Aliases of the `/api/*` list routes |
-| `POST /api/mcp` | MCP JSON-RPC |
-| `GET /ask` | NLWeb-style guidance (query param `q`) |
+| `GET /api/email/unsubscribe` | Email list unsubscribe (token query param) |
 
 OpenAPI spec: `https://hashtagweb3.com/openapi.json` (legacy mirror: `/api/openapi.json`).
 
-**Not hosted on production:** `/api/sandbox/*`.
+**Not hosted on production:** catalog REST, MCP, `/ask`, `/api/sandbox/*`, `/api/auth/*` (see `/auth.md`).
 
 ## Agent discovery
 
@@ -72,7 +66,6 @@ OpenAPI spec: `https://hashtagweb3.com/openapi.json` (legacy mirror: `/api/opena
 | `GET /auth.md` | WorkOS-spec agent auth guide (optional integrations) |
 | `GET /.well-known/agents.json` | Agent discovery manifest |
 | `GET /.well-known/plugin.json` | Agent Plugins manifest |
-| `GET /.well-known/mcp/server-card.json` | MCP server card metadata (discovery) |
 
 ## Development Commands
 

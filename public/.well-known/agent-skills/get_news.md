@@ -3,22 +3,24 @@ name: get_news
 description: Retrieve aggregated news headlines from premier blockchain publications.
 ---
 
-# Fetch Crypto News Headlines
+# Get Web3 News Headlines
 
-Retrieve aggregated news headlines from premier blockchain publications.
-
-## Endpoint
+## Data source
 
 ```
-GET https://hashtagweb3.com/api/v1/news?limit={limit}
+GET https://hashtagweb3.com/data/news-cache.json
 ```
 
-## Authentication
-
-None required. All Hashtag Web3 public API endpoints are unauthenticated and CORS-enabled.
+Download the news cache, then slice or filter client-side. No authentication.
 
 ## Example
 
 ```bash
-curl -s "https://hashtagweb3.com/api/v1/news?limit={limit}&limit=5"
+npx hashtagweb3 news --limit 5
 ```
+
+```bash
+curl -sS https://hashtagweb3.com/data/news-cache.json | head -c 2000
+```
+
+OpenAPI: https://hashtagweb3.com/openapi.json

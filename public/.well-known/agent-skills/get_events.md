@@ -3,22 +3,24 @@ name: get_events
 description: Search upcoming global crypto conferences, hackathons, and developer summits by type and country.
 ---
 
-# Discover Web3 Events & Conferences
+# Get Web3 Events
 
-Search upcoming global crypto conferences, hackathons, and developer summits by type and country.
-
-## Endpoint
+## Data source
 
 ```
-GET https://hashtagweb3.com/api/v1/events?type={type}&country={country}
+GET https://hashtagweb3.com/data/events-runtime.json
 ```
 
-## Authentication
-
-None required. All Hashtag Web3 public API endpoints are unauthenticated and CORS-enabled.
+Download the events snapshot, then filter client-side by `type`, country, or search text. No authentication.
 
 ## Example
 
 ```bash
-curl -s "https://hashtagweb3.com/api/v1/events?type=conference&country&limit=5"
+npx hashtagweb3 events --type conference --limit 5
 ```
+
+```bash
+curl -sS https://hashtagweb3.com/data/events-runtime.json | head -c 2000
+```
+
+OpenAPI: https://hashtagweb3.com/openapi.json

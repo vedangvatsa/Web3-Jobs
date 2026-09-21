@@ -15,24 +15,18 @@ Use this skill when an autonomous agent or developer needs to:
 4. Discover upcoming crypto hackathons, conferences, and summits.
 5. Summarize daily blockchain and cryptocurrency industry news.
 
-## Endpoints
+## Static catalogs (production)
 
-### 1. Search Web3 Jobs
-```http
-GET https://hashtagweb3.com/api/v1/jobs?search=Solidity&limit=10
-```
+Download once, filter client-side. No API key.
 
-### 2. Blockchain Glossary Lookup
-```http
-GET https://hashtagweb3.com/api/v1/glossary?search=Zero+Knowledge
-```
+| Catalog | URL |
+|---------|-----|
+| Jobs | `GET https://hashtagweb3.com/data/jobs-runtime.json` |
+| Glossary | `GET https://hashtagweb3.com/data/glossary-runtime.json` |
+| Events | `GET https://hashtagweb3.com/data/events-runtime.json` |
+| News | `GET https://hashtagweb3.com/data/news-cache.json` |
 
-### 3. Events & Hackathons Calendar
-```http
-GET https://hashtagweb3.com/api/v1/events?type=hackathon
-```
+OpenAPI: https://hashtagweb3.com/openapi.json  
+CLI: `npx hashtagweb3 jobs --search Solidity --limit 10`
 
-### 4. Crypto Industry News Feed
-```http
-GET https://hashtagweb3.com/api/v1/news?limit=10
-```
+Legacy REST `/api/v1/*`, MCP, and NLWeb `/ask` are not hosted on hashtagweb3.com.

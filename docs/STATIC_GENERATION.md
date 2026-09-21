@@ -2,7 +2,7 @@
 
 The September 20 build generated 37,174 routes: approximately 8,265 root detail URLs, 28,757 job aliases/IDs, and the directory/tool/course pages. A Docker-only flag limited that work, but Firebase App Hosting uses buildpacks and did not set the flag.
 
-The root detail route and `/jobs/[slug]` now return an empty `generateStaticParams()` array on every deployment target. The public detail route uses `dynamic = 'force-static'`, `dynamicParams = true`, and a one-hour revalidation interval. A detail page is server-rendered on its first request and cached; it remains available without having been built in advance. The first visitor to an uncached URL pays the rendering cost.
+The root `[slug]` detail route returns an empty `generateStaticParams()` array on every deployment target. Job pages use `dynamic = 'force-static'`, `dynamicParams = true`, and a one-hour revalidation interval. A detail page is server-rendered on its first request and cached; it remains available without having been built in advance. The first visitor to an uncached URL pays the rendering cost.
 
 The homepage, job/event/news/company directories, tools, glossary categories, and the finite course pages remain prebuilt. Data preparation still generates all runtime catalogs and job shards. The sitemap still advertises all canonical URLs; it no longer drives HTML generation.
 

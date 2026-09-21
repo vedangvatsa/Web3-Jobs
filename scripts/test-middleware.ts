@@ -1,27 +1,8 @@
 import { NextRequest } from 'next/server';
 import { middleware } from '../src/middleware';
-import { getJobShardFilename, getJobSlugShardIndex } from '../src/lib/job-shards';
 
 async function runMiddlewareTests() {
   console.log('🧪 Running automated middleware regression & integration tests...\n');
-
-  const originalFetch = globalThis.fetch;
-  const arc6ShardFile = getJobShardFilename(getJobSlugShardIndex('arc6'));
-  globalThis.fetch = async (input, init) => {
-    const url =
-      typeof input === 'string'
-        ? input
-        : input instanceof URL
-          ? input.href
-          : input.url;
-    if (url.includes(`/job-shards/${arc6ShardFile}`)) {
-      return new Response(JSON.stringify({ arc6: { slug: 'arc6' } }), {
-        status: 200,
-        headers: { 'Content-Type': 'application/json' },
-      });
-    }
-    return originalFetch(input, init);
-  };
 
   let passed = 0;
   let failed = 0;
@@ -37,20 +18,7 @@ async function runMiddlewareTests() {
     }
   }
 
-  console.log('1. Testing legacy /jobs/:slug → /:slug redirects...');
-  try {
-    const req = new NextRequest('https://hashtagweb3.com/jobs/arc6');
-    const res = await middleware(req);
-    assert(
-      res.status === 308 && res.headers.get('location') === 'https://hashtagweb3.com/arc6',
-      'Legacy /jobs/arc6 redirects to canonical job page',
-      `Got ${res.status} ${res.headers.get('location')}`,
-    );
-  } catch (err: any) {
-    assert(false, 'Legacy job redirect', err?.message || String(err));
-  }
-
-  // 2. Test Social UTM Suffix Redirects for Root and Nested Routes
+  // 1. Test Social UTM Suffix Redirects for Root and Nested Routes
   const socialTests = [
     { input: '/x', expectedBase: '/', utm_source: 'x' },
     { input: '/tg', expectedBase: '/', utm_source: 'telegram' },
@@ -218,8 +186,6 @@ async function runMiddlewareTests() {
         `${assetPath} reaches the static handler (${userAgent})`);
     }
   }
-
-  globalThis.fetch = originalFetch;
 
   console.log(`\n========================================`);
   console.log(`Middleware Test Results: ${passed} passed, ${failed} failed.`);

@@ -827,8 +827,7 @@ export async function resolveJobSlug(slug: string): Promise<JobSlugResolution> {
     return { kind: 'exact', job: exact, canonicalSlug: exact.slug! };
   }
 
-  // Feeds and APIs advertise /jobs/{id} (see getPublicJobUrl): resolve raw
-  // ids to the canonical short slug so those URLs redirect instead of 404.
+  // Root URLs may use employer posting ids; map id → canonical short slug.
   const byId = await fetchJobById(cleanSlug);
   if (byId?.slug) {
     return { kind: 'exact', job: byId, canonicalSlug: byId.slug };

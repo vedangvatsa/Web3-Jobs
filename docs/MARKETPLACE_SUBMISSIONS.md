@@ -1,92 +1,36 @@
-# Agent Marketplace & Registry Submissions Guide — Hashtag Web3
+# Agent marketplace submissions — Hashtag Web3
 
-This document lists the submission manifests, endpoints, and exact steps to submit **Hashtag Web3 (`Web3-Jobs`)** across all 18+ major agent marketplaces, registries, and platforms.
+Production discovery for integrators: **`/openapi.json`** and **`/.well-known/api-catalog.linkset.json`**. Data lives in **`/data/*.json`** (filter client-side). No hosted MCP, catalog REST, or OAuth on hashtagweb3.com.
 
----
+## Canonical URLs
 
-## 1. Canonical Registries (The "npm" Layer for AI)
+| Asset | URL |
+|-------|-----|
+| OpenAPI 3.1 | `https://hashtagweb3.com/openapi.json` |
+| RFC 9727 linkset | `https://hashtagweb3.com/.well-known/api-catalog.linkset.json` |
+| Agent manifest | `https://hashtagweb3.com/.well-known/agents.json` |
+| Agent skills index | `https://hashtagweb3.com/.well-known/agent-skills/index.json` |
+| LLM index | `https://hashtagweb3.com/llms.txt` |
+| Developer portal | `https://hashtagweb3.com/developers` |
+| CLI | `npx hashtagweb3 jobs --search solidity` |
 
-### A. Official MCP Registry (`registry.modelcontextprotocol.io`)
-- **Submission Manifest**: `public/.well-known/mcp-registry-submission.json`
-- **Target Repository**: [`modelcontextprotocol/registry`](https://github.com/modelcontextprotocol/registry)
-- **PR Steps**:
-  1. Fork `https://github.com/modelcontextprotocol/registry`
-  2. Add `com.hashtagweb3.mcp.json` under `servers/` containing the content of `public/.well-known/mcp-registry-submission.json`.
-  3. Submit PR titled `feat: add Hashtag Web3 MCP server`.
+## Where to publish (static-data friendly)
 
-### B. Agent Skills Standard (`agentskills.io` / `SKILL.md`)
-- **Manifest**: Root `SKILL.md`
-- **Verification**: Conforms to frontmatter specification (`name`, `description`, `version`, `license`).
-- **Publishing**: `npx agentskills publish` or register on [`agentskills.io`](https://agentskills.io).
+- **Agent Skills** — root `SKILL.md` / `skills/hashtagweb3/SKILL.md`; [`agentskills.io`](https://agentskills.io) or `npx agentskills publish`.
+- **skills.sh** — `npx skills add vedangvatsa/Web3-Jobs`
+- **ClawHub** — `public/.well-known/clawhub.json` (`status: not_hosted`; update listing when republishing)
+- **ChatGPT Actions** — OpenAPI URL above (GET `/data/*` only)
+- **Community plugin PRs** — `public/.well-known/plugin.json` + `SKILL.md`
 
-### C. Vercel Skills Leaderboard (`skills.sh`)
-- **Command**:
-  ```bash
-  npx skills add vedangvatsa/Web3-Jobs
-  ```
-- **CLI Registration**: Automatically resolves `SKILL.md` at repo root.
+Do **not** submit MCP registry PRs, Docker MCP images, or remote MCP URLs for this site — there is no JSON-RPC server on production.
 
-### D. ClawHub / OpenClaw (`clawhub.ai`)
-- **Manifest**: `public/.well-known/clawhub.json`
-- **Command**:
-  ```bash
-  npx clawhub publish
-  ```
-- **Web Registry**: Direct import via [`clawhub.ai`](https://clawhub.ai).
+## NLWeb schemamap (optional)
 
-### E. Docker MCP Catalog (`hub.docker.com/mcp`)
-- **Build Tag**: `hashtagweb3/mcp-server:latest`
-- **Labeling**: `org.opencontainers.image.title="hashtagweb3-mcp"`
-- **Publish**: `docker push hashtagweb3/mcp-server:latest` and register on Docker Hub MCP catalog.
+`https://hashtagweb3.com/schemamap.xml` — feed map pointing at `/data/*` snapshots and job RSS/XML feeds.
 
----
+## Verification
 
-## 2. First-Party Agent Stores & Marketplaces
-
-### A. OpenAI / ChatGPT Apps & Custom GPT
-- **AI Plugin Manifest**: `https://hashtagweb3.com/.well-known/ai-plugin.json`
-- **OpenAPI Spec**: `https://hashtagweb3.com/openapi.json`
-- **Action**: Add custom GPT at [`chatgpt.com/gpts`](https://chatgpt.com/gpts) with Action pointing to `https://hashtagweb3.com/openapi.json`.
-
-### B. Anthropic / Claude Marketplace & Community Plugins
-- **Skill File**: `SKILL.md`
-- **Target Repositories**:
-  - [`anthropics/claude-plugins-community`](https://github.com/anthropics/claude-plugins-community)
-  - [`anthropics/skills`](https://github.com/anthropics/skills)
-- **PR Steps**: Submit PR adding `hashtagweb3` plugin package pointing to `/.well-known/agent-plugin.json` and `SKILL.md`.
-
-### C. Cursor & Cline MCP Marketplace
-- **Server Card**: `https://hashtagweb3.com/.well-known/mcp/server-card.json`
-- **Target Repo**: [`cline/marketplace`](https://github.com/cline/marketplace)
-- **Configuration snippet for `.cursor/mcp.json` / `cline_mcp_settings.json`**:
-  ```json
-  {
-    "mcpServers": {
-      "hashtagweb3": {
-        "url": "https://hashtagweb3.com/api/mcp",
-        "transport": "streamable-http"
-      }
-    }
-  }
-  ```
-
-### D. Grok (xAI) Plugin Marketplace & Agensi
-- **Manifest**: `public/.well-known/grok-plugin.json`
-- **Target Repositories**:
-  - [`xai-org/plugin-marketplace`](https://github.com/xai-org/plugin-marketplace)
-  - [`ZeroPointRepo/awesome-grok-bot`](https://github.com/ZeroPointRepo/awesome-grok-bot)
-  - [`agensi.io/grok-marketplace`](https://agensi.io/grok-marketplace)
-
-### E. Google Antigravity & Gemini CLI Extensions
-- **Manifest**: `plugin.json` and `SKILL.md`
-- **Docs**: `https://hashtagweb3.com/AGENTS.md`
-- **Registration**: Add to Gemini CLI extension registry via `geminicli.com/docs/extensions`.
-
----
-
-## 3. Automated Verification
-
-Run local audit to verify all files before submitting:
 ```bash
-node scripts/verify-agent-readiness.js
+npx tsx scripts/verify-agent-readiness.ts
+npx tsx scripts/test-agent-readiness.ts
 ```

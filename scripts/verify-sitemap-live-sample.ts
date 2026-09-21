@@ -61,7 +61,6 @@ async function main() {
     '/sas',
     '/india',
     '/sales386',
-    '/jobs/sales386',
   ];
   const randomRoots = paths
     .filter((p) => p.startsWith('/') && !p.includes('/', 2) && p !== '/')
@@ -73,7 +72,7 @@ async function main() {
   const failures: string[] = [];
   for (const p of toCheck) {
     const status = await head(p);
-    const ok = status === 200 || (p.startsWith('/jobs/') && status === 308);
+    const ok = status === 200;
     console.log(`  ${ok ? 'OK' : 'BAD'}\t${status}\t${p}`);
     if (!ok) failures.push(`${p} → ${status}`);
     await sleep(350);

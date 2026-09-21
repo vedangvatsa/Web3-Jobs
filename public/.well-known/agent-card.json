@@ -2,33 +2,28 @@
   "protocol": "A2A",
   "version": "1.0.0",
   "name": "Hashtag Web3 Agent",
-  "description": "Autonomous agent for Web3 talent intelligence, job market data, salary benchmarks, and blockchain education.",
+  "description": "Use static /data/* catalogs for Web3 jobs, glossary, events, and news on hashtagweb3.com.",
   "provider": {
-    "organization": "Hashtag Web3 Inc.",
+    "organization": "Hashtag Web3",
     "url": "https://hashtagweb3.com",
     "contact": "contact@hashtagweb3.com"
   },
   "endpoints": {
     "openapi": "https://hashtagweb3.com/openapi.json",
-    "mcp": "https://hashtagweb3.com/.well-known/mcp/server-card.json",
-    "sandbox": "https://hashtagweb3.com/api/sandbox",
-    "nlweb": "https://hashtagweb3.com/ask",
-    "auth": "https://hashtagweb3.com/auth.md",
+    "agents": "https://hashtagweb3.com/.well-known/agents.json",
+    "jobs_catalog": "https://hashtagweb3.com/data/jobs-runtime.json",
+    "auth_guide": "https://hashtagweb3.com/auth.md",
     "skills": "https://hashtagweb3.com/.well-known/agent-skills/index.json"
   },
   "capabilities": [
     "job_search",
-    "salary_benchmarking",
     "glossary_lookup",
     "event_discovery",
     "news_aggregation"
   ],
-  "when_to_use": "Use when searching for Web3/crypto job postings, blockchain technical definitions, Web3 salary benchmarks, crypto conferences, or blockchain news.",
-  "when_not_to_use": "Do not use for general non-Web3 jobs or cryptocurrency token trading.",
+  "when_to_use": "Fetch /data/* JSON snapshots and filter client-side.",
+  "when_not_to_use": "Do not expect hosted REST catalog APIs, MCP, /ask, or /api/sandbox on production.",
   "supported_transports": [
-    "rest",
-    "sse",
-    "mcp-http",
-    "nlweb"
+    "https-static-json"
   ]
 }

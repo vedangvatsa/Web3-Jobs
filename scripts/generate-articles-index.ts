@@ -1,5 +1,5 @@
 /**
- * Full article metadata for /api/articles and /api/news on Cloudflare Workers
+ * Full article metadata for articles index / news cache (static /data/* on production)
  * (avoids reading 800+ markdown files per request).
  */
 import fs from 'fs';

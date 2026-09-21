@@ -331,30 +331,6 @@ const nextConfig = {
           },
         ],
       },
-      {
-        source: '/api/:path*',
-        headers: [
-          { key: 'API-Version', value: '1.0.0' },
-          { key: 'Deprecation', value: '@1767225600' },
-          { key: 'Sunset', value: 'Wed, 31 Dec 2026 23:59:59 GMT' },
-          { key: 'Access-Control-Allow-Origin', value: '*' },
-          { key: 'Link', value: '<https://hashtagweb3.com/developers>; rel="deprecation"; type="text/html", <https://hashtagweb3.com/developers>; rel="sunset"; type="text/html", </openapi.json>; rel="service-desc"' },
-        ],
-      },
-      {
-        source: '/mcp',
-        headers: [
-          { key: 'Content-Security-Policy', value: "default-src 'self'; connect-src 'self' https://hashtagweb3.com; frame-ancestors 'self' https://chatgpt.com https://claude.ai; form-action 'self' https://hashtagweb3.com; img-src 'self' https://hashtagweb3.com; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline';" },
-          { key: 'Link', value: '<https://hashtagweb3.com/api/mcp-docs>; rel="mcp-docs-server"' },
-        ],
-      },
-      {
-        source: '/api/mcp',
-        headers: [
-          { key: 'Content-Security-Policy', value: "default-src 'self'; connect-src 'self' https://hashtagweb3.com; frame-ancestors 'self' https://chatgpt.com https://claude.ai; form-action 'self' https://hashtagweb3.com; img-src 'self' https://hashtagweb3.com; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline';" },
-          { key: 'Link', value: '<https://hashtagweb3.com/api/mcp-docs>; rel="mcp-docs-server"' },
-        ],
-      },
       // Serve .md files with correct Content-Type for content negotiation (agents/bots)
       {
         source: '/:path*.md',

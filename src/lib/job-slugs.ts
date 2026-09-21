@@ -452,12 +452,13 @@ export function getJobSlug(job: Job): string {
 }
 
 /**
- * Canonical public job page URL. /jobs/{id} resolves for every job
- * (slugs included, UUID ids only here), so all public feeds and APIs
- * must use this form and never expose the original ATS/source URL.
+ * Canonical public job page URL for feeds, API, and MCP (`/:slug` at site root).
  */
-export function getPublicJobUrl(job: Pick<Job, 'id'>, siteUrl = 'https://hashtagweb3.com'): string {
-  return `${siteUrl}/jobs/${job.id}`;
+export function getPublicJobUrl(
+  job: Pick<Job, 'slug' | 'id' | 'title' | 'company' | 'link'>,
+  siteUrl = 'https://hashtagweb3.com',
+): string {
+  return getJobPublicUrl(job, siteUrl);
 }
 
 export function getCompanySlug(company: string): string {

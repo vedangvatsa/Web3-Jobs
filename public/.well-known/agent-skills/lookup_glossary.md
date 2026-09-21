@@ -3,22 +3,24 @@ name: lookup_glossary
 description: Retrieve comprehensive definitions and technical explanations for 200+ blockchain, consensus, and cryptography concepts.
 ---
 
-# Lookup Blockchain Glossary Terms
+# Lookup Glossary Terms
 
-Retrieve comprehensive definitions and technical explanations for 200+ blockchain, consensus, and cryptography concepts.
-
-## Endpoint
+## Data source
 
 ```
-GET https://hashtagweb3.com/api/v1/glossary?search={term}
+GET https://hashtagweb3.com/data/glossary-runtime.json
 ```
 
-## Authentication
-
-None required. All Hashtag Web3 public API endpoints are unauthenticated and CORS-enabled.
+Download the glossary snapshot, then filter client-side by term name, slug, or description. No authentication.
 
 ## Example
 
 ```bash
-curl -s "https://hashtagweb3.com/api/v1/glossary?search=staking&limit=5"
+npx hashtagweb3 glossary --search staking --limit 5
 ```
+
+```bash
+curl -sS https://hashtagweb3.com/data/glossary-runtime.json | head -c 2000
+```
+
+OpenAPI: https://hashtagweb3.com/openapi.json

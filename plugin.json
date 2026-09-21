@@ -2,7 +2,7 @@
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "hashtagweb3",
   "version": "1.0.0",
-  "description": "Search verified Web3 jobs, blockchain definitions, crypto events, and news through public REST APIs and MCP servers.",
+  "description": "Search verified Web3 jobs, blockchain definitions, crypto events, and news via static /data/* catalogs and OpenAPI.",
   "author": {
     "name": "Hashtag Web3",
     "url": "https://hashtagweb3.com"

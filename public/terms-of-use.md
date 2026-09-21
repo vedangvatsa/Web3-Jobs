@@ -16,7 +16,7 @@ contact: "contact@hashtagweb3.com"
 
 ## 1. Acceptance of Terms & Scope
 
-1. **Applicability**: These Terms of Use ("Terms") constitute a legally binding agreement between **Hashtag Web3** ("we", "us", "our") and any entity, developer, autonomous AI agent, LLM crawler, or automated system ("Agent", "You", or "Operator") accessing or interacting with `hashtagweb3.com`, its subdomains, REST API endpoints (`/api/*`), Model Context Protocol (MCP) servers (`/api/mcp`, `/api/mcp-docs`), and associated discovery assets.
+1. **Applicability**: These Terms govern access to **hashtagweb3.com**, its static catalogs under `/data/*`, HTML pages, syndication feeds, and the product route **`/api/email/unsubscribe`**. Hosted catalog REST (`/api/jobs`, `/api/v1/*`), MCP (`/api/mcp`), NLWeb (`/ask`), sandbox (`/api/sandbox/*`), and agent OAuth (`/api/auth/*`) are **not** operated on the public site.
 2. **Operator Responsibility**: The individual, company, or legal entity operating, deploying, or directing the Agent is fully responsible for all actions, API calls, transactions, and state changes initiated by the Agent.
 3. **Machine Acceptance**: By transmitting an HTTP request, establishing a WebSocket/SSE connection, initiating an MCP session, or executing an automated query against any Hashtag Web3 resource, the Agent and its Operator accept these Terms in full. If the Operator does not agree, the Agent must immediately cease all access.
 
@@ -43,7 +43,7 @@ In accordance with our published [`/agents.txt`](https://hashtagweb3.com/agents.
 ## 3. Commercial Usage & Agent Transactions
 
 1. **Non-Commercial & Public Research**:
-   - Unauthenticated public endpoints (`/api/jobs`, `/api/glossary`, `/api/news`, `/api/events`, `/api/mcp`) are freely accessible for personal research, educational inquiry, and non-commercial open-source agents, subject to standard rate limits.
+   - Static catalogs (`/data/*.json`) and HTML pages are freely accessible for personal research, educational inquiry, and non-commercial agents, subject to reasonable automated access limits.
 2. **Commercial Indexing & Tool Calling**:
    - Commercial AI platforms (including search engines, agentic browsers, and enterprise developer assistants) are permitted to query and cite Hashtag Web3 data commercially, provided:
      - Clear attribution is preserved (e.g., *"Source: Hashtag Web3 (https://hashtagweb3.com)"*).
@@ -82,15 +82,11 @@ In accordance with our published [`/agents.txt`](https://hashtagweb3.com/agents.
 
 ---
 
-## 5. Sandbox & Test Environment
+## 5. Static data & integrators
 
-1. **Zero-Auth Test Endpoints**:
-   - Base URL: `https://hashtagweb3.com/api/sandbox`
-   - Endpoints: `/api/sandbox/jobs`, `/api/sandbox/glossary`, `/api/sandbox/news`, `/api/sandbox/events`
-2. **Instant Registration**:
-   - `POST https://hashtagweb3.com/api/sandbox/auth/register` provides immediate mock credentials for automated CI/CD pipelines.
-3. **No Financial Risk**:
-   - Sandbox endpoints return synthetic mock data, never touch production hiring databases, and never incur real financial transactions or fees.
+1. **Machine-readable catalogs** are published at `https://hashtagweb3.com/data/*.json` (see [`/openapi.json`](https://hashtagweb3.com/openapi.json)).
+2. **No sandbox** — mock API environments are not hosted on production.
+3. **Forks** — optional agent-auth flows documented in [`/auth.md`](https://hashtagweb3.com/auth.md) apply only to private deployments, not hashtagweb3.com.
 
 ---
 
@@ -109,7 +105,7 @@ In accordance with our published [`/agents.txt`](https://hashtagweb3.com/agents.
 ## 7. Liability Boundaries & Disclaimers
 
 1. **"AS IS" Provision**:
-   - All data, APIs, MCP servers, and career tools are provided on an **"AS IS"** and **"AS AVAILABLE"** basis without warranty of any kind, whether express, implied, statutory, or otherwise.
+   - All data and career tools are provided on an **"AS IS"** basis without warranty of any kind, whether express, implied, statutory, or otherwise.
 2. **No Guarantee of Employment or Hiring Accuracy**:
    - Job listings reflect third-party employer openings collected at the time of publication. Hashtag Web3 does not guarantee that any listed position remains open, that candidate applications will be reviewed, or that hiring terms will not change.
 3. **Autonomous Agent Execution Risk**:
@@ -121,12 +117,10 @@ In accordance with our published [`/agents.txt`](https://hashtagweb3.com/agents.
 
 ---
 
-## 8. API Stability, Deprecation & Sunset Guarantee (RFC 8594)
+## 8. Catalog stability
 
-1. **12-Month Notice**:
-   - As documented in our [`/api-policy`](https://hashtagweb3.com/api-policy), we guarantee a minimum of **12 months advance notice** prior to sunsetting or introducing breaking changes to major API versions.
-2. **Signaling**:
-   - Deprecated endpoints will signal end-of-life through standard `Sunset`, `Deprecation`, and `Link` HTTP headers.
+1. **Static snapshots** under `/data/*` may change when the site ingests new jobs, news, or events; integrators should use `ETag` / `Cache-Control` or re-fetch on a schedule.
+2. **Breaking URL changes** to catalog paths are announced on [`/developers`](https://hashtagweb3.com/developers) with reasonable notice.
 
 ---
 
@@ -135,12 +129,11 @@ In accordance with our published [`/agents.txt`](https://hashtagweb3.com/agents.
 - **Terms of Use**: [https://hashtagweb3.com/terms-of-use.md](https://hashtagweb3.com/terms-of-use.md)
 - **Agent Directives (`agents.txt`)**: [https://hashtagweb3.com/agents.txt](https://hashtagweb3.com/agents.txt)
 - **Agent Discovery (`agents.json`)**: [https://hashtagweb3.com/.well-known/agents.json](https://hashtagweb3.com/.well-known/agents.json)
-- **Model Context Protocol (MCP)**: [https://hashtagweb3.com/api/mcp](https://hashtagweb3.com/api/mcp)
 - **LLMs Context (`llms.txt`)**: [https://hashtagweb3.com/llms.txt](https://hashtagweb3.com/llms.txt)
 - **OpenAPI 3.1 Specification**: [https://hashtagweb3.com/openapi.json](https://hashtagweb3.com/openapi.json)
-- **API Catalog (RFC 9727)**: [https://hashtagweb3.com/.well-known/api-catalog](https://hashtagweb3.com/.well-known/api-catalog)
+- **API Catalog (RFC 9727)**: [https://hashtagweb3.com/.well-known/api-catalog.linkset.json](https://hashtagweb3.com/.well-known/api-catalog.linkset.json)
 - **Developer Documentation**: [https://hashtagweb3.com/developers](https://hashtagweb3.com/developers)
-- **Sandbox Environment**: [https://hashtagweb3.com/api/sandbox](https://hashtagweb3.com/api/sandbox)
+- **Static jobs catalog**: [https://hashtagweb3.com/data/jobs-runtime.json](https://hashtagweb3.com/data/jobs-runtime.json)
 
 ---
 

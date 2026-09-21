@@ -111,22 +111,6 @@ export async function resolveOgPreviewMeta(path: string): Promise<OgPreviewMeta>
     };
   }
 
-  if (path.startsWith('/jobs/') && path !== '/jobs') {
-    const slug = path.replace('/jobs/', '');
-    const jobMeta = await resolveJobMetadata(slug);
-    if (jobMeta) return jobMeta;
-    const parts = slug.replace(/^job[a-z0-9]{4,6}$/, '').split('-').filter(Boolean);
-    const readableTitle = parts.length > 0
-      ? parts.map((p) => p.charAt(0).toUpperCase() + p.slice(1)).join(' ')
-      : 'Web3 Job Opening';
-    return {
-      title: `${readableTitle} | ${SITE_NAME}`,
-      description: `Apply for ${readableTitle} on Hashtag Web3 — the leading Web3 job board.`,
-      ogImageUrl: STATIC_OG.jobs,
-      canonicalUrl: `${SITE_URL}/${slug}`,
-    };
-  }
-
   const PAGE_META: Record<string, Omit<OgPreviewMeta, 'canonicalUrl'>> = {
     '/': {
       title: `Web3 Jobs and Crypto Careers | ${SITE_NAME}`,

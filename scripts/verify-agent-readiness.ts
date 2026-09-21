@@ -69,18 +69,18 @@ async function testAll() {
     throw new Error('llms.txt missing When to Use section');
   }
   const agentsJson = JSON.parse(fs.readFileSync(path.join(process.cwd(), 'public', '.well-known', 'agents.json'), 'utf8'));
-  if (!agentsJson.when_to_use || (!agentsJson.mcp_server && !agentsJson.mcp_servers)) {
-    throw new Error('agents.json missing when_to_use or mcp_server');
+  if (!agentsJson.when_to_use || !Array.isArray(agentsJson.capabilities)) {
+    throw new Error('agents.json missing when_to_use or capabilities');
   }
-  console.log('  ✓ llms.txt and .well-known/agents.json include explicit When to Use guidance and MCP configurations.');
+  console.log('  ✓ llms.txt and .well-known/agents.json include explicit When to Use guidance and catalog capabilities.');
 
   // 5. Test CLI tool
   console.log('\n5. Checking CLI tool...');
   const binScript = fs.readFileSync(path.join(process.cwd(), 'packages', 'cli', 'bin', 'hashtagweb3.js'), 'utf8');
-  if (!binScript.includes('#!/usr/bin/env node') || !binScript.includes('jobs') || !binScript.includes('glossary')) {
+  if (!binScript.includes('#!/usr/bin/env node') || !binScript.includes('jobs') || !binScript.includes('/data/')) {
     throw new Error('CLI script invalid');
   }
-  console.log('  ✓ bin/hashtagweb3.js verified.');
+  console.log('  ✓ packages/cli/bin/hashtagweb3.js verified.');
 
   console.log('\n=== ALL AGENT READINESS AUDIT CHECKS PASSED ===\n');
 }

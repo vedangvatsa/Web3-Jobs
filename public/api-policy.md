@@ -1,32 +1,29 @@
 ---
-title: "Hashtag Web3 API Versioning & Deprecation Policy"
-description: "Official API versioning strategy, RFC 8594 Sunset/Deprecation HTTP header specifications, minimum 12-month notice guarantee, and breaking change schedule."
+title: "Hashtag Web3 data catalog policy"
+description: "How static /data/* catalogs are versioned and updated on hashtagweb3.com."
 canonical: "https://hashtagweb3.com/api-policy"
-last-updated: "2026-08-28"
+last-updated: "2026-09-21"
 ---
 
-# Hashtag Web3 API Versioning & Deprecation Policy
+# Hashtag Web3 data catalog policy
 
-## 1. Scope and Stability Guarantee
-Hashtag Web3 guarantees a stable, predictable REST API and Model Context Protocol (MCP) surface for autonomous AI agents, enterprise partners, and developers.
+Production integrators use **static JSON** under `/data/*`, not hosted REST catalog APIs.
 
-## 2. Versioning Strategy
-- **Major Versions**: Encoded directly into URI path structures (e.g. `/api/v1/jobs`, `/api/v1/glossary`).
-- **Minor / Non-Breaking Additions**: New query parameters, optional fields, and expanded response properties are deployed seamlessly without breaking backwards compatibility.
-- **Response Header**: All API endpoints return the `API-Version: 1.0.0` header.
+## Catalog URLs
 
-## 3. Deprecation & Sunset Timeline (RFC 8594)
-- **Minimum Notice**: We provide a guaranteed minimum of **12 months advance notice** before deprecating or sunsetting any major API version.
-- **Machine-Readable Signaling**:
-  - `Deprecation: @1767225600` (Unix timestamp of deprecation announcement)
-  - `Sunset: Wed, 31 Dec 2026 23:59:59 GMT` (HTTP-date when endpoint will cease service)
-  - `Link: <https://hashtagweb3.com/api-policy>; rel="deprecation"`
+- `/data/jobs-runtime.json`
+- `/data/news-cache.json`
+- `/data/events-runtime.json`
+- `/data/glossary-runtime.json`
+- `/agent-view.json` (capability index)
 
-## 4. Sandbox Environment
-- Base URL: `https://hashtagweb3.com/api/sandbox`
-- Provides zero-auth test mocks and echo probes for safe automated testing without touching production databases.
+OpenAPI: [`/openapi.json`](https://hashtagweb3.com/openapi.json)
 
-## 5. Contact & Migration Assistance
+## Updates
+
+Snapshots refresh on site ingest/deploy cycles. Use HTTP caching headers and re-fetch periodically. Filter and paginate client-side.
+
+## Contact
+
 - Email: contact@hashtagweb3.com
 - Documentation: https://hashtagweb3.com/developers
-- OpenAPI Spec: https://hashtagweb3.com/openapi.json

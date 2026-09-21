@@ -1,16 +1,13 @@
-# Hashtag Web3 API Catalog (RFC 9727)
+# Hashtag Web3 — API catalog (static integrator surface)
 
-Linkset catalog of machine-readable API specifications and service descriptions for Hashtag Web3.
+Production serves **static JSON** on the CDN. Filter client-side after download.
 
-## Items
+- [OpenAPI 3.1 spec](https://hashtagweb3.com/openapi.json) — documents `/data/*` catalog URLs
+- [RFC 9727 linkset](https://hashtagweb3.com/.well-known/api-catalog.linkset.json) — machine-readable catalog index
+- [Jobs snapshot](https://hashtagweb3.com/data/jobs-runtime.json) — `application/json`
+- [Events snapshot](https://hashtagweb3.com/data/events-runtime.json) — `application/json`
+- [News cache](https://hashtagweb3.com/data/news-cache.json) — `application/json`
+- [Glossary snapshot](https://hashtagweb3.com/data/glossary-runtime.json) — `application/json`
+- [Agent overview](https://hashtagweb3.com/agent-view.json) — `application/json`
 
-- [OpenAPI 3.1 Specification (JSON)](https://hashtagweb3.com/openapi.json) — application/vnd.oai.openapi+json;version=3.1
-- [Web3 Jobs Search API](https://hashtagweb3.com/api/v1/jobs) — application/json
-- [Web3 Events & Conferences API](https://hashtagweb3.com/api/v1/events) — application/json
-- [Web3 News API](https://hashtagweb3.com/api/v1/news) — application/json
-- [Web3 Glossary API](https://hashtagweb3.com/api/v1/glossary) — application/json
-- [MCP Server Card](https://hashtagweb3.com/.well-known/mcp/server-card.json) — Model Context Protocol server definition
-
-## Raw Linkset
-
-The canonical JSON linkset is served at `/.well-known/api-catalog` with Content-Type `application/linkset+json`.
+Legacy REST (`/api/v1/*`), MCP, and NLWeb `/ask` are **not** hosted on hashtagweb3.com.

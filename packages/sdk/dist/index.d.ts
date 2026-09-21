@@ -35,10 +35,11 @@ export interface SearchJobsOptions {
     offset?: number;
 }
 export declare class HashtagWeb3Client {
-    private baseUrl;
+    private origin;
     constructor(options?: {
         baseUrl?: string;
     });
+    private fetchCatalog;
     getJobs(options?: SearchJobsOptions): Promise<Job[]>;
     getNews(limit?: number): Promise<NewsItem[]>;
     getEvents(limit?: number): Promise<EventItem[]>;

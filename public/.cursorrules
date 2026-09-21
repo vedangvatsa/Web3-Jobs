@@ -5,21 +5,21 @@ You are an AI coding agent assisting with the Hashtagweb3.com codebase.
 ## Codebase Principles
 - Framework: Next.js 14 App Router (TypeScript)
 - Styling: Tailwind CSS & Lucide Icons
-- Database & Storage: Supabase (PostgreSQL), static jobs cache (`content/jobs-cache.json`)
-- Deployment: Vercel
+- Database & Storage: Static runtime JSON (`content/*-runtime.json`, `public/data/`), job shards, Supabase where used
+- Deployment: Firebase App Hosting (GCP)
 
-## API Conventions
-- Public REST APIs located under `src/app/api/` (CORS enabled `Access-Control-Allow-Origin: *`).
-- OpenAPI spec: `public/openapi.json`.
-- All JSON errors follow standard envelope: `{ "error": { "code": string, "message": string, "docUrl": string } }`.
+## Integrator surface (production)
+- Static catalogs: `/data/*.json` (CDN), filter client-side
+- OpenAPI: `public/openapi.json` (static catalog contract)
+- Only product API route: `GET /api/email/unsubscribe`
+- Hosted catalog REST, MCP, `/ask`, sandbox, and `/api/auth/*` are **not** deployed
 
-## Agent Capabilities & Endpoints
-- LLMs Index: `/llms.txt`
-- MCP Product Server: `/api/mcp` and `/.well-known/mcp/server-card.json`
-- MCP Docs Server: `/api/mcp-docs` and `/.well-known/mcp-docs/server-card.json`
-- Agent Plugin Manifest: `/.well-known/plugin.json`
-- WorkOS Agent Auth: `/auth.md`
+## Agent discovery
+- LLMs index: `/llms.txt`
+- Agent manifest: `/.well-known/agents.json`
+- Linkset: `/.well-known/api-catalog.linkset.json`
+- Optional auth patterns for forks: `/auth.md`
 
 ## Coding Standards
-- Do NOT introduce breaking API schema changes without updating `openapi.json` and `llms.txt`.
+- Update `openapi.json` and `llms.txt` when changing public catalog URLs or discovery.
 - Server Components by default; add `'use client'` only for interactive components.

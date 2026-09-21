@@ -12,8 +12,6 @@
 
 ## API Access
 
-- Endpoint: `GET https://hashtagweb3.com/api/glossary`
-- Query parameters:
-  - `search` (term name or concept)
-  - `category` (category filter)
-  - `limit` (default 50, max 250)
+- Catalog: `GET https://hashtagweb3.com/data/glossary-runtime.json`
+- Filter client-side by term name, slug, category, or description text.
+- OpenAPI: `https://hashtagweb3.com/openapi.json`

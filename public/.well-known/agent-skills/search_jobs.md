@@ -5,20 +5,22 @@ description: Search verified Web3, crypto, DeFi, and blockchain jobs with title,
 
 # Search Web3 Jobs
 
-Search verified Web3, crypto, DeFi, and blockchain jobs with title, company, tag, and salary filters.
-
-## Endpoint
+## Data source
 
 ```
-GET https://hashtagweb3.com/api/v1/jobs?search={keyword}&tag={tag}&limit={limit}
+GET https://hashtagweb3.com/data/jobs-runtime.json
 ```
 
-## Authentication
-
-None required. All Hashtag Web3 public API endpoints are unauthenticated and CORS-enabled.
+Download the jobs snapshot, then filter client-side (`active !== false`, match `search` on title/company/location, match `tag` on `tags[]`). No authentication.
 
 ## Example
 
 ```bash
-curl -s "https://hashtagweb3.com/api/v1/jobs?search=solidity&tag=&limit={limit}&limit=5"
+npx hashtagweb3 jobs --search solidity --limit 5
 ```
+
+```bash
+curl -sS https://hashtagweb3.com/data/jobs-runtime.json | head -c 2000
+```
+
+OpenAPI: https://hashtagweb3.com/openapi.json

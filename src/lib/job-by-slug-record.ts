@@ -51,7 +51,7 @@ export async function fetchJobBySlug(slug: string): Promise<Job | null> {
   return bySlug.get(clean) ?? null;
 }
 
-/** Resolve a job by employer posting id (feeds advertise /jobs/{id}). */
+/** Resolve a job by employer posting id when the URL segment is an id, not a short slug. */
 export async function fetchJobById(id: string): Promise<Job | null> {
   const clean = id.toLowerCase().trim();
   if (!clean) return null;

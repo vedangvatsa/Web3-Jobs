@@ -66,7 +66,7 @@
       "Event discovery via /data/events-runtime.json",
       "News pulse via /data/news-cache.json"
     ],
-    "guidance": "Prefer static CDN JSON under /data/. Filter client-side. Do not depend on hosted MCP, /ask, or /api/sandbox."
+    "guidance": "Use static CDN JSON under /data/. Filter client-side."
   },
 
   "capabilities": [

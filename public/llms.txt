@@ -58,39 +58,31 @@ Prefer **static CDN JSON** (no auth, no Serverless Function cost). Filter client
 - OpenAPI (static catalogs): `https://hashtagweb3.com/openapi.json`
 - Legacy OpenAPI mirror: `https://hashtagweb3.com/api/openapi.json` (same schema as `/openapi.json`)
 - LLM index: `https://hashtagweb3.com/llms.txt`
+- Full corpus index: `https://hashtagweb3.com/llms-full.txt`
 
-Prefer **static CDN JSON** (`/data/*.json`) for high-volume agents. **REST list APIs** (`/api/jobs`, `/api/events`, `/api/news`, `/api/glossary`, and `/api/v1/*` aliases) filter the same catalogs server-side. **MCP:** `POST /api/mcp` (JSON-RPC). **NLWeb:** `GET|POST /ask?q=…` returns a short guidance string (not a search backend).
-
-Do **not** depend on `/api/sandbox` — sandbox routes are not hosted on production.
+Hosted catalog REST (`/api/jobs`, `/api/v1/*`), MCP (`/mcp`, `/api/mcp`), `/ask`, sandbox, and OAuth token endpoints are **not** deployed on production. Use **`/data/*.json`** (filter client-side) or the CLI/SDK packages below.
 
 ## Hashtag Web3 Developer Resources — Discoverable by Name
 
 All developer resources below include "Hashtag Web3" in their title and are published at predictable URLs for name-based search:
 
-- [Hashtag Web3 API Docs](https://hashtagweb3.com/developers): Official Hashtag Web3 API documentation with quickstarts, endpoint guides, curl examples, and response schemas.
-- [Hashtag Web3 API Documentation (Alias)](https://hashtagweb3.com/api-docs): Direct URL for Hashtag Web3 API docs.
-- [Hashtag Web3 Developer Portal](https://hashtagweb3.com/developers): Developer portal, API credentials, and integration guide for Hashtag Web3.
+- [Hashtag Web3 Developer Portal](https://hashtagweb3.com/developers): Static catalog integration guide, OpenAPI, CLI, and agent discovery links.
+- [Hashtag Web3 Developer Docs (Alias)](https://hashtagweb3.com/api-docs): Alias of the developer portal.
 - [Hashtag Web3 OpenAPI Specification (JSON)](https://hashtagweb3.com/openapi.json): OpenAPI 3.1.0 — static `/data/*` catalog URLs.
 - [Hashtag Web3 OpenAPI Specification (YAML)](https://hashtagweb3.com/api/openapi.yaml): YAML mirror of the static catalog spec.
-- [Hashtag Web3 Authentication Docs](https://hashtagweb3.com/auth.md): Hashtag Web3 WorkOS auth.md compliant authentication guide and token reference.
-- [Hashtag Web3 MCP Server (JSON-RPC)](https://hashtagweb3.com/api/mcp): `POST` MCP tools backed by live catalog reads.
-- [Hashtag Web3 NLWeb / Ask](https://hashtagweb3.com/ask): Lightweight natural-language pointer to jobs, news, events, and glossary APIs.
-- [Hashtag Web3 MCP Server Card](https://hashtagweb3.com/.well-known/mcp/server-card.json): MCP discovery metadata.
-- [Hashtag Web3 Agent Manifest](https://hashtagweb3.com/.well-known/agents.json): Hashtag Web3 Agent Manifest — capabilities and tool definitions.
-- [Hashtag Web3 Agent-to-Agent Card](https://hashtagweb3.com/.well-known/agent-card.json): Hashtag Web3 A2A interoperability metadata.
-- [Hashtag Web3 Agentic Resource Discovery](https://hashtagweb3.com/.well-known/ai-catalog.json): Hashtag Web3 AI catalog and MCP tool discovery.
-- [Hashtag Web3 Agent Skills Index](https://hashtagweb3.com/.well-known/agent-skills/index.json): Hashtag Web3 scoped skill taxonomy (v0.2.0).
-- [Hashtag Web3 RFC 9727 API Catalog](https://hashtagweb3.com/.well-known/api-catalog): Hashtag Web3 standardized linkset API catalog.
-- [Hashtag Web3 RFC 9728 Protected Resource Metadata](https://hashtagweb3.com/.well-known/oauth-protected-resource): Hashtag Web3 OAuth protected-resource metadata.
-- [Hashtag Web3 RFC 8414 Authorization Server Metadata](https://hashtagweb3.com/.well-known/oauth-authorization-server): Hashtag Web3 OAuth authorization-server metadata.
-- [Hashtag Web3 Agent Plugin Manifest](https://hashtagweb3.com/.well-known/plugin.json): Hashtag Web3 Agent-plugins.org bundle.
-- [Hashtag Web3 Agent Permissions](https://hashtagweb3.com/agents.txt): Hashtag Web3 operational permissions, action boundaries, and protocol declarations for autonomous AI agents.
-- [Hashtag Web3 AGENTS.md Repo Guide](https://hashtagweb3.com/AGENTS.md): Hashtag Web3 coding agent instructions.
-- [Hashtag Web3 Source Repository & Agent Config](https://github.com/vedangvatsa/Web3-Jobs): Public repository containing `AGENTS.md`, `plugin.json`, `mcp.json`, and reusable agent skills.
-- [Hashtag Web3 Agent Plugin Manifest](https://hashtagweb3.com/plugin.json): Agent Plugins 1.0 manifest; its `mcp.json` config exposes separate product and documentation MCP servers.
-- **NPM SDK Package**: [`@hashtag_web3_/sdk`](https://www.npmjs.com/package/@hashtag_web3_/sdk) (homepage: `https://hashtagweb3.com`)
-- **CLI Tool**: [`hashtagweb3`](https://www.npmjs.com/package/hashtagweb3) — `npx hashtagweb3 jobs --search Solidity`
-- [Hashtag Web3 API Versioning & Deprecation Policy](https://hashtagweb3.com/api-policy): Hashtag Web3 official API versioning strategy, RFC 8594 Sunset/Deprecation headers, and 12-month advance notice guarantee.
+- [Hashtag Web3 Optional Auth Guide](https://hashtagweb3.com/auth.md): Fork/private deployment auth patterns (public read uses `/data/*` without credentials).
+- [Hashtag Web3 Agent Manifest](https://hashtagweb3.com/.well-known/agents.json): Capabilities and static catalog entry points.
+- [Hashtag Web3 Agent-to-Agent Card](https://hashtagweb3.com/.well-known/agent-card.json): A2A interoperability metadata.
+- [Hashtag Web3 Agentic Resource Discovery](https://hashtagweb3.com/.well-known/ai-catalog.json): Machine-readable discovery index (static catalogs).
+- [Hashtag Web3 Agent Skills Index](https://hashtagweb3.com/.well-known/agent-skills/index.json): Scoped skill taxonomy (v0.2.0).
+- [Hashtag Web3 RFC 9727 Linkset Catalog](https://hashtagweb3.com/.well-known/api-catalog.linkset.json): Linkset describing public static catalogs.
+- [Hashtag Web3 Agent Plugin Manifest](https://hashtagweb3.com/.well-known/plugin.json): Agent-plugins.org bundle (discovery metadata).
+- [Hashtag Web3 Agent Permissions](https://hashtagweb3.com/agents.txt): Crawl and usage boundaries for autonomous agents.
+- [Hashtag Web3 AGENTS.md Repo Guide](https://hashtagweb3.com/AGENTS.md): Coding agent instructions for contributors.
+- [Hashtag Web3 Source Repository](https://github.com/vedangvatsa/Web3-Jobs): Public repo with `AGENTS.md`, catalogs, and agent skills.
+- **NPM SDK**: [`@hashtag_web3_/sdk`](https://www.npmjs.com/package/@hashtag_web3_/sdk) (homepage: `https://hashtagweb3.com`)
+- **CLI**: [`hashtagweb3`](https://www.npmjs.com/package/hashtagweb3) — `npx hashtagweb3 jobs --search Solidity` (reads `/data/*`)
+- [Hashtag Web3 Integrator Policy](https://hashtagweb3.com/api-policy): Static catalog stability and deprecation notice for integrators.
 
 ## Official CLI Tool & SDKs
 
@@ -107,8 +99,6 @@ Official TypeScript / JavaScript SDK & Multi-Language Packages:
 - **PyPI SDK Package**: [`hashtagweb3`](https://pypi.org/project/hashtagweb3/)
 - **RubyGems Package**: [`hashtagweb3`](https://rubygems.org/gems/hashtagweb3)
 - **Go Module**: [`github.com/hashtagweb3/sdk`](https://github.com/hashtagweb3/sdk)
-- **Smithery MCP Registry**: [`smithery.ai/servers/hi-qiwk/hashtagweb3-mcp`](https://smithery.ai/servers/hi-qiwk/hashtagweb3-mcp)
-- **mcp.so Registry**: [`mcp.so/server/hashtagweb3`](https://mcp.so/server/hashtagweb3)
 - **Agent Plugins Manifest**: [`/.well-known/plugin.json`](https://hashtagweb3.com/.well-known/plugin.json)
 ```bash
 npm install @hashtag_web3_/sdk
@@ -120,7 +110,7 @@ npm install @hashtag_web3_/sdk
 - [XML Sitemap](https://hashtagweb3.com/sitemap.xml): Standard XML sitemap index.
 - [Agents Manifest](https://hashtagweb3.com/.well-known/agents.json): Standard agents.json capability declaration.
 - [OpenAPI 3.1 Spec](https://hashtagweb3.com/openapi.json): Static `/data/*` catalog contract.
-- [MCP Server Card](https://hashtagweb3.com/.well-known/mcp/server-card.json): Model Context Protocol server metadata.
+- [Agent View JSON](https://hashtagweb3.com/agent-view.json): Compact capability overview for agents.
 
 ## Modular Scoped Context Files
 

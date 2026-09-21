@@ -18,29 +18,28 @@ Hashtagweb3.com connects over 60,000 Web3 professionals with opportunities acros
 ### Web3 Jobs
 Browse 10,000+ curated Web3 job listings from leading blockchain companies. Filter by role type (full-time, part-time, contract), location (remote, on-site), and specialization (Solidity development, smart contracts, DeFi, NFT, Web3 product management, blockchain security, and more).
 
-API: `GET https://hashtagweb3.com/api/jobs?limit=20&search=solidity`
+Data: `GET https://hashtagweb3.com/data/jobs-runtime.json`
 
 ### Web3 News
 Stay up to date with daily curated news from the Web3 ecosystem. Our editorial team surfaces the most relevant developments across DeFi protocols, NFT markets, Layer 2 networks, regulatory updates, and blockchain infrastructure.
 
-API: `GET https://hashtagweb3.com/api/news?limit=20`
+Data: `GET https://hashtagweb3.com/data/news-cache.json`
 
 ### Web3 Events
 Discover upcoming Web3 conferences, hackathons, and community meetups worldwide. From ETHGlobal hackathons to major blockchain summits, find events to grow your network and skills.
 
-API: `GET https://hashtagweb3.com/api/events?limit=20`
+Data: `GET https://hashtagweb3.com/data/events-runtime.json`
 
 ### Web3 Glossary
 A comprehensive reference of 500+ Web3, blockchain, and crypto terms. From "AAVE" to "Zero-Knowledge Proof", our glossary is the definitive educational resource for newcomers and veterans alike.
 
-API: `GET https://hashtagweb3.com/api/glossary?search=defi`
+Data: `GET https://hashtagweb3.com/data/glossary-runtime.json`
 
 ## For AI Agents
 
 - **OpenAPI Spec**: https://hashtagweb3.com/openapi.json
 - **LLMs Navigation**: https://hashtagweb3.com/llms.txt
-- **Auth Guide**: https://hashtagweb3.com/auth.md
-- **NLWeb Q&A**: POST https://hashtagweb3.com/ask
+- **Auth / integration guide**: https://hashtagweb3.com/auth.md
 - **Agent Mode**: https://hashtagweb3.com/?mode=agent
 - **Developer Portal**: https://hashtagweb3.com/developers
 

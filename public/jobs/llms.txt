@@ -22,7 +22,7 @@ Every verified Web3 job has an authoritative, structured, 500+ word editorial pa
 
 ## REST API Access
 
-- Endpoint: `GET https://hashtagweb3.com/api/v1/jobs`
+- Endpoint: `GET https://hashtagweb3.com/data/jobs-runtime.json`
 - Query parameters:
   - `search` (e.g. `Solidity`, `Auditor`, `Frontend`)
   - `tag` (e.g. `Ethereum`, `Solana`, `DeFi`)

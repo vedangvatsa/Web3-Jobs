@@ -3,11 +3,7 @@
 
 User-agent: *
 Allow: /
-Allow: /api/jobs
-Allow: /api/news
-Allow: /api/events
-Allow: /api/glossary
-Allow: /api/openapi.yaml
+Allow: /data/
 Allow: /openapi.json
 Allow: /agents.txt
 Allow: /llms.txt

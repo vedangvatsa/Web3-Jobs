@@ -1,96 +1,150 @@
 #!/usr/bin/env node
 
 /**
- * Hashtag Web3 CLI
- * Usage: npx hashtagweb3 <command> [options]
- * Examples:
- *   npx hashtagweb3 jobs --search "Solidity"
- *   npx hashtagweb3 news --limit 5
- *   npx hashtagweb3 events --type conference
- *   npx hashtagweb3 glossary --search "Zero Knowledge"
+ * Hashtag Web3 CLI — reads static /data/* catalogs (same as the website).
  */
 
-const API_BASE = process.env.HASHTAGWEB3_API_URL || 'https://hashtagweb3.com';
+const API_BASE = (process.env.HASHTAGWEB3_API_URL || 'https://hashtagweb3.com').replace(/\/+$/, '');
+
+async function fetchCatalog(path) {
+  const res = await fetch(`${API_BASE}${path}`, { headers: { Accept: 'application/json' } });
+  if (!res.ok) {
+    throw new Error(`GET ${path} failed (${res.status})`);
+  }
+  return res.json();
+}
+
+function parseArgs(argv) {
+  const params = {};
+  for (let i = 0; i < argv.length; i++) {
+    if (argv[i].startsWith('--')) {
+      const key = argv[i].slice(2);
+      const val = argv[i + 1] && !argv[i + 1].startsWith('--') ? argv[++i] : 'true';
+      params[key] = val;
+    }
+  }
+  return params;
+}
+
+function paginate(items, params) {
+  const limit = Math.min(200, Math.max(1, parseInt(String(params.limit || '50'), 10) || 50));
+  const offset = Math.max(0, parseInt(String(params.offset || '0'), 10) || 0);
+  return { slice: items.slice(offset, offset + limit), total: items.length, limit, offset };
+}
 
 async function main() {
   const args = process.argv.slice(2);
   const command = args[0] || 'help';
-
-  const params = {};
-  for (let i = 1; i < args.length; i++) {
-    if (args[i].startsWith('--')) {
-      const key = args[i].slice(2);
-      const val = args[i + 1] && !args[i + 1].startsWith('--') ? args[++i] : 'true';
-      params[key] = val;
-    }
-  }
-
-  const query = new URLSearchParams(params).toString();
+  const params = parseArgs(args.slice(1));
 
   switch (command) {
     case 'jobs': {
-      const url = `${API_BASE}/api/jobs${query ? `?${query}` : ''}`;
-      const res = await fetch(url);
-      const json = await res.json();
-      if (!res.ok) {
-        console.error('Error:', json.error || json);
-        process.exit(1);
+      const raw = await fetchCatalog('/data/jobs-runtime.json');
+      const all = Array.isArray(raw) ? raw : raw.jobs || [];
+      let filtered = all.filter((j) => j.active !== false);
+      const search = String(params.search || params.q || '').toLowerCase().trim();
+      const tag = String(params.tag || '').toLowerCase().trim();
+      const company = String(params.company || '').toLowerCase().trim();
+      if (search) {
+        filtered = filtered.filter(
+          (j) =>
+            j.title?.toLowerCase().includes(search) ||
+            j.company?.toLowerCase().includes(search) ||
+            j.location?.toLowerCase().includes(search),
+        );
       }
-      console.log(`\nFound ${json.meta.total} jobs (showing ${json.data.length}):\n`);
-      json.data.forEach((j, idx) => {
+      if (tag) {
+        filtered = filtered.filter((j) =>
+          (Array.isArray(j.tags) ? j.tags : []).some((t) => String(t).toLowerCase().includes(tag)),
+        );
+      }
+      if (company) {
+        filtered = filtered.filter((j) => j.company?.toLowerCase().includes(company));
+      }
+      const { slice, total } = paginate(filtered, params);
+      console.log(`\nFound ${total} jobs (showing ${slice.length}):\n`);
+      for (const [idx, j] of slice.entries()) {
+        const link = j.slug ? `${API_BASE}/${j.slug}` : j.link;
         console.log(`${idx + 1}. \x1b[36m${j.title}\x1b[0m at \x1b[32m${j.company}\x1b[0m`);
         if (j.salary) console.log(`   Salary: ${j.salary}`);
-        console.log(`   Link: ${j.link}\n`);
-      });
+        console.log(`   Link: ${link}\n`);
+      }
       break;
     }
 
     case 'news': {
-      const url = `${API_BASE}/api/news${query ? `?${query}` : ''}`;
-      const res = await fetch(url);
-      const json = await res.json();
-      if (!res.ok) {
-        console.error('Error:', json.error || json);
-        process.exit(1);
+      const raw = await fetchCatalog('/data/news-cache.json');
+      let items = Array.isArray(raw) ? raw : raw.items || [];
+      const search = String(params.search || params.q || '').toLowerCase().trim();
+      if (search) {
+        items = items.filter(
+          (n) =>
+            n.title?.toLowerCase().includes(search) ||
+            n.contentSnippet?.toLowerCase().includes(search),
+        );
       }
-      console.log(`\nLatest Web3 & Crypto News (${json.data.length} articles):\n`);
-      json.data.forEach((n, idx) => {
+      const { slice } = paginate(items, params);
+      console.log(`\nLatest Web3 & Crypto News (${slice.length} articles):\n`);
+      slice.forEach((n, idx) => {
         console.log(`${idx + 1}. \x1b[1m${n.title}\x1b[0m`);
-        console.log(`   Source: ${n.source} | Link: ${n.link}\n`);
+        console.log(`   Source: ${n.source || 'News'} | Link: ${n.link}\n`);
       });
       break;
     }
 
     case 'events': {
-      const url = `${API_BASE}/api/events${query ? `?${query}` : ''}`;
-      const res = await fetch(url);
-      const json = await res.json();
-      if (!res.ok) {
-        console.error('Error:', json.error || json);
-        process.exit(1);
+      const raw = await fetchCatalog('/data/events-runtime.json');
+      let items = Array.isArray(raw) ? raw : raw.events || [];
+      const search = String(params.search || params.q || '').toLowerCase().trim();
+      const type = String(params.type || '').toLowerCase().trim();
+      const country = String(params.country || '').toLowerCase().trim();
+      if (search) {
+        items = items.filter(
+          (e) =>
+            e.name?.toLowerCase().includes(search) ||
+            e.location?.toLowerCase().includes(search),
+        );
       }
-      console.log(`\nUpcoming Web3 Events & Conferences (${json.data.length} events):\n`);
-      json.data.forEach((e, idx) => {
+      if (type) {
+        items = items.filter((e) => String(e.type || e.eventType || '').toLowerCase().includes(type));
+      }
+      if (country) {
+        items = items.filter((e) => String(e.country || e.location || '').toLowerCase().includes(country));
+      }
+      const { slice } = paginate(items, params);
+      console.log(`\nUpcoming Web3 Events (${slice.length} events):\n`);
+      slice.forEach((e, idx) => {
+        const url = e.slug ? `${API_BASE}/${e.slug}` : e.url || e.link;
         console.log(`${idx + 1}. \x1b[36m${e.name}\x1b[0m (${e.startDate || 'Upcoming'})`);
         console.log(`   Location: ${e.location || 'Online'}`);
-        console.log(`   Link: ${e.url}\n`);
+        console.log(`   Link: ${url}\n`);
       });
       break;
     }
 
     case 'glossary': {
-      const url = `${API_BASE}/api/glossary${query ? `?${query}` : ''}`;
-      const res = await fetch(url);
-      const json = await res.json();
-      if (!res.ok) {
-        console.error('Error:', json.error || json);
-        process.exit(1);
+      const raw = await fetchCatalog('/data/glossary-runtime.json');
+      let items = Array.isArray(raw) ? raw : [];
+      const search = String(params.search || params.q || '').toLowerCase().trim();
+      const category = String(params.category || '').toLowerCase().trim();
+      if (search) {
+        items = items.filter(
+          (t) =>
+            t.term?.toLowerCase().includes(search) ||
+            t.description?.toLowerCase().includes(search) ||
+            t.slug?.toLowerCase().includes(search),
+        );
       }
-      console.log(`\nWeb3 Glossary Terms (${json.data.length} matches):\n`);
-      json.data.forEach((t, idx) => {
+      if (category) {
+        items = items.filter((t) => String(t.category || '').toLowerCase().includes(category));
+      }
+      const { slice } = paginate(items, params);
+      console.log(`\nWeb3 Glossary Terms (${slice.length} matches):\n`);
+      slice.forEach((t, idx) => {
+        const url = t.slug ? `${API_BASE}/${t.slug}` : `${API_BASE}/glossary/${t.slug}`;
         console.log(`${idx + 1}. \x1b[33m${t.term}\x1b[0m [${t.category}]`);
-        console.log(`   ${t.definition}`);
-        console.log(`   Read more: ${t.url}\n`);
+        console.log(`   ${t.description?.slice(0, 160) || ''}`);
+        console.log(`   Read more: ${url}\n`);
       });
       break;
     }
@@ -101,17 +155,18 @@ async function main() {
 \x1b[1mHashtag Web3 Official CLI\x1b[0m
 https://hashtagweb3.com
 
+Reads static catalogs under /data/* (filter client-side).
+
 Commands:
-  jobs      Search Web3 job listings (--search, --tag, --company, --limit, --offset)
-  news      Fetch aggregated crypto industry news (--search, --limit)
-  events    Browse Web3 conferences and hackathons (--search, --type, --country, --limit)
-  glossary  Search 200+ blockchain glossary definitions (--search, --category, --limit)
-  help      Display this help message
+  jobs      (--search, --tag, --company, --limit, --offset)
+  news      (--search, --limit)
+  events    (--search, --type, --country, --limit)
+  glossary  (--search, --category, --limit)
+  help
 
 Examples:
   npx hashtagweb3 jobs --search "Solidity" --limit 10
-  npx hashtagweb3 events --type conference --country "United States"
-  npx hashtagweb3 glossary --search "Zero Knowledge"
+  npx hashtagweb3 events --type conference
 `);
       break;
   }

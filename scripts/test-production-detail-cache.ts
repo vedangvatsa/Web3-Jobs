@@ -28,14 +28,7 @@ async function main() {
     assert.ok(cached, `/${slug} must be cached after its first production request`);
     console.log(`/${slug}: 200, first cache=${first}, subsequent cache=HIT`);
   }
-  for (const alias of [job.slug, job.id]) {
-    const redirect = await fetch(`${origin}/jobs/${alias}`, { redirect: 'manual', signal: AbortSignal.timeout(30_000) });
-    assert.equal(redirect.status, 308);
-    assert.equal(new URL(redirect.headers.get('location')!).pathname, `/${job.slug}`);
-  }
-  const unknown = await fetch(`${origin}/jobs/this-job-does-not-exist`, { redirect: 'manual', signal: AbortSignal.timeout(30_000) });
-  assert.equal(unknown.status, 404);
-  console.log('Production ISR and job redirect checks passed.');
+  console.log('Production ISR checks passed.');
 }
 
 main().catch((error) => { console.error(error); process.exitCode = 1; });

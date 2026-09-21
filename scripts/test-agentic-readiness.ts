@@ -52,83 +52,45 @@ async function runTests() {
     }
   });
 
-  // 3. Rate limit response headers
-  await test('3. REST endpoints return RFC RateLimit, Sunset, and Deprecation headers', async () => {
-    const res = await fetch(`${BASE_URL}/api/v1/jobs?limit=2`);
+  // 3. Static catalog JSON on CDN
+  await test('3. /data/jobs-runtime.json is reachable JSON', async () => {
+    const res = await fetch(`${BASE_URL}/data/jobs-runtime.json`);
     if (res.status !== 200) {
-      throw new Error(`GET /api/v1/jobs failed with status ${res.status}`);
+      throw new Error(`GET /data/jobs-runtime.json failed with status ${res.status}`);
     }
-    const rlLimit = res.headers.get('RateLimit-Limit') || res.headers.get('X-RateLimit-Limit');
-    const rlReset = res.headers.get('RateLimit-Reset') || res.headers.get('X-RateLimit-Reset');
-    const sunset = res.headers.get('Sunset');
-    const apiVer = res.headers.get('API-Version');
-
-    if (!rlLimit) throw new Error('Missing RateLimit-Limit header');
-    if (!rlReset) throw new Error('Missing RateLimit-Reset header');
-    if (!sunset) throw new Error('Missing Sunset header');
-    if (!apiVer) throw new Error('Missing API-Version header');
+    const json = await res.json();
+    const jobs = Array.isArray(json) ? json : json.jobs;
+    if (!Array.isArray(jobs) || jobs.length < 1) {
+      throw new Error('jobs-runtime.json missing job array');
+    }
   });
 
   // 4 & 5 & 8. Developer resource discoverability & portal
-  await test('4, 5, 8. Developer portal (/developers) is reachable with OpenAPI and Auth docs', async () => {
+  await test('4, 5, 8. Developer portal (/developers) is reachable with OpenAPI', async () => {
     const res = await fetch(`${BASE_URL}/developers`);
     if (res.status !== 200) {
       throw new Error(`GET /developers returned ${res.status}`);
     }
     const html = await res.text();
-    if (!html.includes('openapi.json') || !html.includes('API Quickstart') || !html.includes('Authentication')) {
-      throw new Error('Developer portal missing core documentation sections');
+    if (!html.includes('openapi.json') || !html.includes('jobs-runtime.json')) {
+      throw new Error('Developer portal missing static catalog documentation');
     }
   });
 
-  // 6. MCP Server / Manifest
-  await test('6. MCP Streamable HTTP endpoint and manifest are accessible', async () => {
-    const manifestRes = await fetch(`${BASE_URL}/.well-known/mcp`);
-    if (manifestRes.status !== 200) {
-      throw new Error(`GET /.well-known/mcp returned ${manifestRes.status}`);
-    }
-    const manifest = await manifestRes.json();
-    if (!manifest.tools || !Array.isArray(manifest.tools)) {
-      throw new Error('MCP manifest missing tools array');
-    }
-
-    // Test MCP tools/list JSON-RPC POST call
-    const rpcRes = await fetch(`${BASE_URL}/api/mcp`, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ jsonrpc: '2.0', id: '1', method: 'tools/list' })
-    });
-    if (rpcRes.status !== 200) {
-      throw new Error(`POST /api/mcp tools/list returned ${rpcRes.status}`);
-    }
-    const rpcJson = await rpcRes.json();
-    if (!rpcJson.result?.tools) {
-      throw new Error('MCP tools/list JSON-RPC call did not return tools');
-    }
-  });
-
-  // 7. Public API with reachable endpoints
-  await test('7. Public REST API endpoints (/api/v1/* and /api/*) return valid JSON data', async () => {
-    const endpoints = [
-      '/api/v1/jobs?limit=2',
-      '/api/jobs?limit=2',
-      '/api/v1/news?limit=2',
-      '/api/news?limit=2',
-      '/api/v1/events?limit=2',
-      '/api/events?limit=2',
-      '/api/v1/glossary?limit=2',
-      '/api/glossary?limit=2',
+  // 7. Core static catalogs
+  await test('7. Static /data/* catalogs return JSON', async () => {
+    const paths = [
+      '/data/jobs-runtime.json',
+      '/data/news-cache.json',
+      '/data/events-runtime.json',
+      '/data/glossary-runtime.json',
     ];
-
-    for (const ep of endpoints) {
-      const res = await fetch(`${BASE_URL}${ep}`);
+    for (const p of paths) {
+      const res = await fetch(`${BASE_URL}${p}`);
       if (res.status !== 200) {
-        throw new Error(`GET ${ep} returned ${res.status}`);
+        throw new Error(`GET ${p} returned ${res.status}`);
       }
-      const json = await res.json();
-      if (!json.data || !Array.isArray(json.data)) {
-        throw new Error(`GET ${ep} response missing 'data' array`);
-      }
+      await res.json();
     }
   });
 
@@ -148,21 +110,18 @@ async function runTests() {
     }
   });
 
-  // 10. REST versioning & deprecation policy
-  await test('10. REST versioning and deprecation policy documented and functional', async () => {
+  // 10. OpenAPI documents static catalogs
+  await test('10. openapi.json documents /data/* catalogs', async () => {
     const openapiRes = await fetch(`${BASE_URL}/openapi.json`);
     const openapi = await openapiRes.json();
-    if (!openapi.paths['/api/v1/jobs'] || !openapi.paths['/api/jobs']) {
-      throw new Error('openapi.json missing /api/v1/jobs or /api/jobs path definitions');
-    }
-    if (!openapi.info['x-api-versioning']) {
-      throw new Error('openapi.json missing x-api-versioning declaration');
+    if (!openapi.paths['/data/jobs-runtime.json']) {
+      throw new Error('openapi.json missing /data/jobs-runtime.json');
     }
   });
 
   // 11. CLI tool available
   await test('11. Official CLI tool executes with valid output', async () => {
-    const output = execSync('node bin/hashtagweb3.js jobs --limit 2', { encoding: 'utf8' });
+    const output = execSync('node packages/cli/bin/hashtagweb3.js jobs --limit 2', { encoding: 'utf8', cwd: process.cwd() });
     if (!output.includes('Found') && !output.includes('jobs')) {
       throw new Error(`CLI output unexpected: ${output}`);
     }

@@ -5,8 +5,6 @@ import {
   linkPreviewPreviewPath,
   SOCIAL_UTM_MAP,
 } from '@/lib/social-share';
-import { parseLegacyJobPathSegment, resolveLegacyJobRedirectPath } from '@/lib/legacy-job-path';
-
 /**
  * Social media suffix shortcuts mapping to standardized UTM attribution parameters.
  */
@@ -124,29 +122,6 @@ export async function middleware(request: NextRequest) {
     return NextResponse.next();
   }
 
-  const legacyJobSegment = parseLegacyJobPathSegment(pathname);
-  if (legacyJobSegment) {
-    try {
-      const canonicalPath = await resolveLegacyJobRedirectPath(
-        legacyJobSegment,
-        request.nextUrl.origin,
-      );
-      if (canonicalPath) {
-        return NextResponse.redirect(new URL(canonicalPath, request.url), 308);
-      }
-    } catch (err) {
-      console.error('[middleware] legacy /jobs redirect lookup failed:', err);
-    }
-  }
-
-  // 0. LinkedIn / social link-preview crawlers — serve a minimal OG-only HTML shell.
-  //
-  // LinkedIn's scraper silently fails ("Scraping error") on pages larger than ~120 KB.
-  // Our pages range from 265 KB (homepage) to 511 KB (blog) due to embedded RSC
-  // payloads and job data. We detect social link-preview bots early and return a
-  // tiny HTML document (~2 KB) that contains only the OG/Twitter meta tags.
-  // The bot reads the tags, fetches the og:image directly, and renders the card.
-  // Human visitors and other bots are unaffected.
   if (!pathname.startsWith('/api') && !pathname.startsWith('/_next') && !pathname.includes('.')) {
     const ua = request.headers.get('user-agent') || '';
     const previewPath = linkPreviewPreviewPath(pathname, ua, isLinkPreviewCrawlerRequest(request));
@@ -246,7 +221,7 @@ export async function middleware(request: NextRequest) {
   }
 
   // 2. ?mode=agent → static JSON catalog (CDN; no Serverless Function).
-  // Never intercept /api/* paths: hijacking e.g. /api/jobs?mode=agent would
+  // Never intercept /api/* paths (e.g. /api/email/unsubscribe).
   // silently return the wrong payload on a public API.
   if (!pathname.startsWith('/api') && searchParams.get('mode') === 'agent') {
     const rewrite = request.nextUrl.clone();

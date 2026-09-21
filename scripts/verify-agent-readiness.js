@@ -16,7 +16,7 @@ async function testAll() {
   if (/Disallow:\s*\/api\/?[\r\n]/.test(robots)) {
     throw new Error('robots.txt still has broad Disallow: /api/');
   }
-  console.log('  ✓ robots.txt explicitly allows all top AI crawlers and public APIs.');
+  console.log('  ✓ robots.txt explicitly allows AI crawlers and static data paths.');
 
   // 2. Check ai.json and ai.txt
   console.log('\n2. Checking ai.json & ai.txt...');
@@ -31,25 +31,26 @@ async function testAll() {
   // 3. Check OpenAPI specs
   console.log('\n3. Checking OpenAPI specs...');
   const openapiJson = JSON.parse(fs.readFileSync(path.join(process.cwd(), 'public', 'openapi.json'), 'utf8'));
-  if (openapiJson.openapi !== '3.1.0' || !openapiJson.paths['/api/jobs'] || !openapiJson.paths['/api/news'] || !openapiJson.paths['/api/events'] || !openapiJson.paths['/api/glossary']) {
-    throw new Error('OpenAPI JSON is missing required paths');
+  const requiredCatalogPaths = [
+    '/data/jobs-runtime.json',
+    '/data/events-runtime.json',
+    '/data/glossary-runtime.json',
+    '/data/news-cache.json',
+    '/agent-view.json',
+  ];
+  if (openapiJson.openapi !== '3.1.0') {
+    throw new Error('OpenAPI JSON must declare openapi 3.1.0');
   }
-  // Check operationId on each path
-  for (const p of Object.keys(openapiJson.paths)) {
-    const pathObj = openapiJson.paths[p];
-    const methods = Object.keys(pathObj).filter((m) => ['get', 'post', 'put', 'delete', 'patch'].includes(m));
-    for (const m of methods) {
-      const op = pathObj[m];
-      if (!op || !op.operationId || !op.summary) {
-        throw new Error(`OpenAPI path ${p} [${m}] missing operationId or summary`);
-      }
+  for (const catalogPath of requiredCatalogPaths) {
+    if (!openapiJson.paths[catalogPath]) {
+      throw new Error(`OpenAPI JSON missing catalog path: ${catalogPath}`);
     }
   }
-  console.log('  ✓ openapi.json is valid OpenAPI 3.1.0 with typed operations, operationIds, and error schemas.');
+  console.log('  ✓ openapi.json documents static /data/* catalogs.');
 
   const openapiYaml = fs.readFileSync(path.join(process.cwd(), 'public', 'api', 'openapi.yaml'), 'utf8');
-  if (!openapiYaml.includes('openapi: 3.1.0') || !openapiYaml.includes('listJobs') || !openapiYaml.includes('listNews')) {
-    throw new Error('OpenAPI YAML invalid');
+  if (!openapiYaml.includes('openapi: 3.1.0') || !openapiYaml.includes('getJobsCatalog')) {
+    throw new Error('OpenAPI YAML invalid or missing static catalog operations');
   }
   console.log('  ✓ api/openapi.yaml verified.');
 
@@ -60,18 +61,18 @@ async function testAll() {
     throw new Error('llms.txt missing When to Use section');
   }
   const agentsJson = JSON.parse(fs.readFileSync(path.join(process.cwd(), 'public', '.well-known', 'agents.json'), 'utf8'));
-  if (!agentsJson.when_to_use || (!agentsJson.mcp_server && !agentsJson.mcp_servers)) {
-    throw new Error('agents.json missing when_to_use or mcp_server');
+  if (!agentsJson.when_to_use || !Array.isArray(agentsJson.capabilities)) {
+    throw new Error('agents.json missing when_to_use or capabilities');
   }
-  console.log('  ✓ llms.txt and .well-known/agents.json include explicit When to Use guidance and MCP configurations.');
+  console.log('  ✓ llms.txt and .well-known/agents.json include explicit When to Use guidance and catalog capabilities.');
 
   // 5. Test CLI tool
   console.log('\n5. Checking CLI tool...');
-  const binScript = fs.readFileSync(path.join(process.cwd(), 'bin', 'hashtagweb3.js'), 'utf8');
-  if (!binScript.includes('#!/usr/bin/env node') || !binScript.includes('jobs') || !binScript.includes('glossary')) {
+  const binScript = fs.readFileSync(path.join(process.cwd(), 'packages', 'cli', 'bin', 'hashtagweb3.js'), 'utf8');
+  if (!binScript.includes('#!/usr/bin/env node') || !binScript.includes('jobs') || !binScript.includes('/data/')) {
     throw new Error('CLI script invalid');
   }
-  console.log('  ✓ bin/hashtagweb3.js verified.');
+  console.log('  ✓ packages/cli/bin/hashtagweb3.js verified.');
 
   console.log('\n=== ALL AGENT READINESS AUDIT CHECKS PASSED ===\n');
 }

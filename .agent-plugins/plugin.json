@@ -19,8 +19,10 @@
   "skills": [
     "https://hashtagweb3.com/SKILL.md"
   ],
-  "mcp": {
-    "server": "https://hashtagweb3.com/api/mcp",
-    "transport": "streamable-http"
-  }
+  "dataCatalogs": [
+    "https://hashtagweb3.com/data/jobs-runtime.json",
+    "https://hashtagweb3.com/data/events-runtime.json",
+    "https://hashtagweb3.com/data/glossary-runtime.json",
+    "https://hashtagweb3.com/data/news-cache.json"
+  ]
 }

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <schemamap xmlns="https://nlweb.org/schema/schemamap/0.1">
   <feed>
-    <url>https://hashtagweb3.com/api/v1/jobs</url>
+    <url>https://hashtagweb3.com/data/jobs-runtime.json</url>
     <type>application/json</type>
     <schemaType>JobPosting</schemaType>
-    <title>Web3 Jobs Feed</title>
+    <title>Web3 Jobs catalog snapshot</title>
   </feed>
   <feed>
     <url>https://hashtagweb3.com/jobs/feed.xml</url>
@@ -19,21 +19,21 @@
     <title>Web3 Jobs Jooble XML Feed</title>
   </feed>
   <feed>
-    <url>https://hashtagweb3.com/api/v1/events</url>
+    <url>https://hashtagweb3.com/data/events-runtime.json</url>
     <type>application/json</type>
     <schemaType>Event</schemaType>
-    <title>Web3 Events Feed</title>
+    <title>Web3 Events catalog snapshot</title>
   </feed>
   <feed>
-    <url>https://hashtagweb3.com/api/v1/glossary</url>
+    <url>https://hashtagweb3.com/data/glossary-runtime.json</url>
     <type>application/json</type>
     <schemaType>DefinedTerm</schemaType>
-    <title>Web3 Glossary Feed</title>
+    <title>Web3 Glossary catalog snapshot</title>
   </feed>
   <feed>
-    <url>https://hashtagweb3.com/api/v1/news</url>
+    <url>https://hashtagweb3.com/data/news-cache.json</url>
     <type>application/json</type>
     <schemaType>NewsArticle</schemaType>
-    <title>Crypto News Feed</title>
+    <title>Crypto News catalog snapshot</title>
   </feed>
 </schemamap>

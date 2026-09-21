@@ -22,7 +22,7 @@ I hire and place in Web3. I check these seven channels every week. This guide ex
 
 **Who it is for:** Generalists and specialists who want filtered, recent roles. Good for engineering, product, marketing, community, design, legal, and operations. Works for entry to senior levels because listings include clear seniority tags.
 
-**How to use it:**- Start at [hashtagweb3.com](https://hashtagweb3.com). Use search filters for keyword, tag, and company. Example: search `Solidity`, tag `Ethereum`, company `Uniswap Labs`. API docs show the same params: `GET https://hashtagweb3.com/api/v1/jobs?search=Solidity&tag=Ethereum&limit=50`.
+**How to use it:**- Start at [hashtagweb3.com](https://hashtagweb3.com). Use search filters for keyword, tag, and company. Example: search `Solidity`, tag `Ethereum`, company `Uniswap Labs`. Integrators fetch `https://hashtagweb3.com/data/jobs-runtime.json` and filter client-side.
 - Join the Telegram feed for alerts. You see new posts in real time instead of checking the site twice a day.
 - Open a role page and use the salary calculator and interview question bank linked from the job to prep before you apply.
 

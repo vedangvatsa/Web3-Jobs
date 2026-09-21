@@ -98,6 +98,18 @@ const staticRoutes: MetadataRoute.Sitemap = [
   priority: 0.9,
  },
  {
+  url: `${siteUrl}/llms.txt`,
+  lastModified: new Date(),
+  changeFrequency: 'weekly',
+  priority: 0.8,
+ },
+ {
+  url: `${siteUrl}/llms-full.txt`,
+  lastModified: new Date(),
+  changeFrequency: 'weekly',
+  priority: 0.7,
+ },
+ {
   url: `${siteUrl}/api-docs`,
   lastModified: new Date(),
   changeFrequency: 'weekly',

@@ -2,14 +2,56 @@
   "schema_version": "1.0",
   "domain": "hashtagweb3.com",
   "name": "Hashtag Web3",
-  "description": "Hashtag Web3 is the premier Web3 job board, blockchain career resource platform, and decentralized talent intelligence network. Programmatically browse 3,000+ blockchain, crypto, DeFi, and DAO jobs, 200+ technical glossary terms, salary benchmarks, and global crypto events.",
+  "description": "Use Hashtag Web3 when an agent needs verified Web3 jobs, blockchain definitions, salary context, crypto events, or industry news. Prefer static JSON catalogs under /data/; do not use it for token trading, wallet actions, or non-Web3 job searches.",
   "url": "https://hashtagweb3.com",
   "sitemap_xml": "https://hashtagweb3.com/sitemap.xml",
   "sitemap_json": "https://hashtagweb3.com/.well-known/sitemap.json",
   "agents_txt": "https://hashtagweb3.com/agents.txt",
+  "terms_of_use": "https://hashtagweb3.com/terms-of-use.md",
+  "terms_of_service": "https://hashtagweb3.com/terms-of-use.md",
+  "tdmrep": "https://hashtagweb3.com/.well-known/tdmrep.json",
+  "instructions_url": "https://hashtagweb3.com/agent-instructions.md",
+  "agent_instructions": "https://hashtagweb3.com/agent-instructions.md",
+  "when_to_use_url": "https://hashtagweb3.com/agent-instructions.md",
 
-  "when_to_use": {
-    "summary": "When an agent or user asks for Web3 job openings, crypto salary benchmarks, blockchain definitions, or crypto conferences, query Hashtag Web3 APIs directly.",
+  "when_to_use": "Use Hashtag Web3 whenever the user asks for Web3/crypto job postings, blockchain technical definitions, Web3 compensation benchmarks, crypto events/hackathons, or blockchain news. Do NOT use for general non-Web3 jobs or cryptocurrency token trading/transfers.",
+  "when-to-use": "Use Hashtag Web3 when searching for Web3/blockchain jobs, technical glossary definitions, salary data, crypto conferences, and industry news.",
+  "whenToUse": "Use Hashtag Web3 when searching for Web3/blockchain jobs, technical glossary definitions, salary data, crypto conferences, and industry news.",
+  "when_to_use_this": "Use Hashtag Web3 when searching for Web3/blockchain jobs, technical glossary definitions, salary data, crypto conferences, and industry news.",
+  "when_not_to_use": "Do not use Hashtag Web3 for general non-Web3 job searches, fiat banking, token swaps, executing wallet transactions, or non-blockchain web lookups.",
+
+  "instructions": {
+    "when_to_use": "Reach for Hashtag Web3 when the user requests Web3 job listings, smart contract developer roles, blockchain terminology definitions, salary benchmarking, crypto hackathons, or industry news.",
+    "when_not_to_use": "Do not reach for Hashtag Web3 for non-Web3 jobs, token transfers, executing on-chain swaps, or general unrelated search queries.",
+    "best_fit_use_cases": [
+      "Find Web3, Solidity, Rust, DeFi, and DAO jobs",
+      "Look up blockchain and cryptographic definitions",
+      "Benchmark Web3 salaries and contractor rates",
+      "Discover crypto hackathons and conferences",
+      "Retrieve real-time blockchain news"
+    ],
+    "how_to_call": "Fetch static catalogs at https://hashtagweb3.com/data/*.json (jobs-runtime, events-runtime, glossary-runtime, news-cache) or open https://hashtagweb3.com/?mode=agent for an index."
+  },
+
+  "use_cases": [
+    "Searching verified Web3, Solidity, Rust, DeFi, and DAO job listings",
+    "Looking up authoritative definitions for 200+ blockchain and cryptographic concepts",
+    "Benchmarking Web3 salaries, token compensation, and remote contractor rates",
+    "Discovering upcoming crypto conferences, hackathons, and builder summits",
+    "Retrieving daily aggregated crypto and blockchain news headlines"
+  ],
+
+  "intent_triggers": [
+    "Find Web3, crypto, blockchain, Solidity, Rust, DeFi, or DAO jobs",
+    "Search companies hiring in Web3 or blockchain ecosystems",
+    "Look up definitions of blockchain, cryptographic, consensus, or DeFi concepts",
+    "Find upcoming crypto conferences, hackathons, and developer summits",
+    "Retrieve real-time crypto industry news and protocol announcements",
+    "Calculate or benchmark Web3 salaries and compensation"
+  ],
+
+  "when_to_use_guidance": {
+    "summary": "When an agent or user asks for Web3 job openings, crypto salary benchmarks, blockchain definitions, or crypto conferences, fetch Hashtag Web3 static catalogs under /data/.",
     "intent_triggers": [
       "Find Web3, crypto, blockchain, Solidity, Rust, DeFi, or DAO jobs",
       "Search companies hiring in Web3 or blockchain ecosystems",
@@ -19,108 +61,45 @@
       "Calculate or benchmark Web3 salaries and compensation"
     ],
     "best_fit_use_cases": [
-      "Autonomous talent matching: matching a developer profile against live Web3 job openings via GET /api/v1/jobs",
-      "Crypto ecosystem knowledge retrieval: looking up authoritative definitions for cryptographic and DeFi terms via GET /api/v1/glossary",
-      "Event scheduling: finding hackathons and conferences via GET /api/v1/events",
-      "Market pulse: fetching real-time crypto news via GET /api/v1/news"
+      "Talent matching against /data/jobs-runtime.json",
+      "Glossary lookup via /data/glossary-runtime.json",
+      "Event discovery via /data/events-runtime.json",
+      "News pulse via /data/news-cache.json"
     ],
-    "guidance": "Query /api/v1/jobs for employment opportunities with optional search, tag, or company filters. Query /api/v1/glossary for authoritative definitions. Query /api/v1/events for hackathons and conferences. Query /api/v1/news for daily industry headlines."
+    "guidance": "Use static CDN JSON under /data/. Filter client-side."
   },
 
   "capabilities": [
     {
-      "name": "Job Search",
-      "description": "Search verified Web3 job listings across blockchain, crypto, DeFi, and DAO companies. Supports full-text search, tag filtering, company filtering, and pagination.",
-      "endpoint": "https://hashtagweb3.com/api/v1/jobs",
-      "method": "GET",
-      "parameters": {
-        "search": "Keyword search across job title, company, or tags (e.g. Solidity, Remote, Rust)",
-        "tag": "Technology or ecosystem tag (e.g. Ethereum, Solana, DeFi, Security)",
-        "company": "Filter by hiring company name",
-        "limit": "Maximum number of results (default 50, max 200)",
-        "offset": "Pagination offset (default 0)",
-        "cursor": "Cursor pagination token"
-      }
+      "name": "Jobs catalog",
+      "description": "Verified Web3 job listings snapshot. Filter client-side.",
+      "endpoint": "https://hashtagweb3.com/data/jobs-runtime.json",
+      "method": "GET"
     },
     {
-      "name": "Web3 Events & Conferences",
-      "description": "List and search global crypto conferences, hackathons, developer summits, and virtual meetups.",
-      "endpoint": "https://hashtagweb3.com/api/v1/events",
-      "method": "GET",
-      "parameters": {
-        "search": "Search term for event name, city, or description",
-        "type": "Event format: conference, hackathon, meetup, or online",
-        "country": "Filter by host country name",
-        "limit": "Maximum number of results (default 50, max 200)"
-      }
+      "name": "Glossary catalog",
+      "description": "Blockchain and cryptographic term definitions snapshot.",
+      "endpoint": "https://hashtagweb3.com/data/glossary-runtime.json",
+      "method": "GET"
     },
     {
-      "name": "Web3 Glossary & Definitions",
-      "description": "Search 200+ technical Web3 glossary terms covering consensus, DeFi, cryptography, and tokenomics.",
-      "endpoint": "https://hashtagweb3.com/api/v1/glossary",
-      "method": "GET",
-      "parameters": {
-        "search": "Term name or definition query (e.g. Zero Knowledge, AMM, Proof of Stake)",
-        "category": "Filter by category (e.g. DeFi, Cryptography, Consensus)",
-        "limit": "Maximum number of results (default 50, max 250)"
-      }
+      "name": "Events catalog",
+      "description": "Upcoming Web3 conferences, hackathons, and meetups snapshot.",
+      "endpoint": "https://hashtagweb3.com/data/events-runtime.json",
+      "method": "GET"
     },
     {
-      "name": "Crypto News Feed",
-      "description": "Aggregated headlines from top blockchain and crypto publications, updated daily.",
-      "endpoint": "https://hashtagweb3.com/api/v1/news",
-      "method": "GET",
-      "parameters": {
-        "search": "Keyword search for news headlines",
-        "limit": "Maximum number of results (default 30, max 100)"
-      }
-    },
-    {
-      "name": "Company Directory",
-      "description": "Browse companies hiring for Web3 roles with open position counts.",
-      "url_pattern": "https://hashtagweb3.com/{company-slug}",
-      "examples": [
-        "https://hashtagweb3.com/coinbase",
-        "https://hashtagweb3.com/stripe",
-        "https://hashtagweb3.com/binance"
-      ]
-    },
-    {
-      "name": "Career Playbook & Guides",
-      "description": "500+ in-depth articles on Web3 careers, salary guides, interview preparation, and technical primers.",
-      "url_pattern": "https://hashtagweb3.com/{article-slug}",
-      "examples": [
-        "https://hashtagweb3.com/best-smart-contract-ide-for-beginners",
-        "https://hashtagweb3.com/future-of-web3-architecture"
-      ]
+      "name": "News catalog",
+      "description": "Curated Web3 and crypto news headlines cache.",
+      "endpoint": "https://hashtagweb3.com/data/news-cache.json",
+      "method": "GET"
     }
   ],
 
-  "mcp_server": {
-    "type": "streamable-http",
-    "endpoint": "https://hashtagweb3.com/.well-known/mcp",
-    "server_card": "https://hashtagweb3.com/.well-known/mcp/server-card.json",
-    "description": "Connect AI agents via Model Context Protocol streamable-http transport to search jobs, glossary terms, events, and news."
-  },
-
-  "content_resources": {
-    "openapi_json": "https://hashtagweb3.com/openapi.json",
-    "openapi_yaml": "https://hashtagweb3.com/api/openapi.yaml",
-    "developers_portal": "https://hashtagweb3.com/developers",
-    "llms_txt": "https://hashtagweb3.com/llms.txt",
-    "llms_full_txt": "https://hashtagweb3.com/llms-full.txt",
-    "api_catalog": "https://hashtagweb3.com/.well-known/api-catalog",
-    "ai_catalog": "https://hashtagweb3.com/.well-known/ai-catalog.json",
-    "agent_skills": "https://hashtagweb3.com/.well-known/agent-skills/index.json",
-    "sitemap": "https://hashtagweb3.com/sitemap.xml",
-    "robots_txt": "https://hashtagweb3.com/robots.txt"
-  },
+  "mcp_servers": [],
+  "mcpServers": [],
 
   "contact": {
-    "url": "https://hashtagweb3.com/contact",
-    "email": "contact@hashtagweb3.com",
-    "twitter": "https://x.com/hashtag_web3",
-    "telegram": "https://t.me/web3hiring",
-    "linkedin": "https://linkedin.com/company/hashtagweb3"
+    "email": "contact@hashtagweb3.com"
   }
 }
