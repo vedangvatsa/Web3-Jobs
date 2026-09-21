@@ -2,9 +2,8 @@ name: Post Job Openings to X, Threads, Bluesky, Farcaster, LinkedIn, Facebook & 
 
 on:
   schedule:
-    # Runs 8 times a day (every 3 hours): 01:21, 04:21, 07:21, 10:21, 13:21, 16:21, 19:21, 22:21 UTC
-    # Off-peak minute :21 prevents GitHub Actions queue delays and dropped events
-    - cron: '21 1,4,7,10,13,16,19,22 * * *'
+    # Four posts a day. Publish Jobs already covers Bluesky, LinkedIn, Buffer, and Telegram.
+    - cron: '21 1,7,13,19 * * *'
   workflow_dispatch:
     inputs:
       platform:
@@ -98,16 +97,6 @@ jobs:
           fi
           echo "Running social poster for platform: $SOCIAL_PLATFORM"
           npx tsx scripts/social/post-job-openings.ts "${ARGS[@]}"
-
-      - name: Let scrapers fetch before redeploy
-        # LinkedIn/Meta/X scrape new post URLs within minutes of publishing.
-        # Pushing state to main can still trigger legacy Firebase App Hosting if
-        # GitHub is connected there (expensive). Hold so scrapers cache first.
-        # Cloudflare deploy only runs on src/content/public path changes, not this file.
-        if: ${{ github.event.inputs.dry_run != 'true' }}
-        run: |
-          echo "Waiting 15 minutes for link-preview scrapes before pushing state (avoids deploy collision)..."
-          sleep 900
 
       - name: Commit and Push Posted State
         id: persist_state
