@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "web3-job-board-aggregator"
+    "default": "web3-jobs-aggregator",
+    "production": "web3-jobs-aggregator",
+    "legacy": "web3-job-board-aggregator"
   }
 }

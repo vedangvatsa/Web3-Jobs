@@ -1,0 +1,20 @@
+# Archived Cloud Run deploy (retired). Do not attach a Cloud Build trigger.
+steps:
+- name: 'gcr.io/kaniko-project/executor:latest'
+  args:
+  - '--destination=asia-south1-docker.pkg.dev/web3-jobs-aggregator/cloud-run-source-deploy/web3-jobs/web3-jobs:$COMMIT_SHA'
+  - '--cache=true'
+  - '--cache-ttl=24h'
+- name: 'gcr.io/google.com/cloudsdktool/cloud-sdk:slim'
+  entrypoint: 'gcloud'
+  args:
+  - 'run'
+  - 'services'
+  - 'update'
+  - 'web3-jobs'
+  - '--platform=managed'
+  - '--image=asia-south1-docker.pkg.dev/web3-jobs-aggregator/cloud-run-source-deploy/web3-jobs/web3-jobs:$COMMIT_SHA'
+  - '--region=asia-south1'
+  - '--quiet'
+options:
+  machineType: 'E2_HIGHCPU_8'
