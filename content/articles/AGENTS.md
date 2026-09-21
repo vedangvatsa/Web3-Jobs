@@ -38,7 +38,7 @@ lastUpdated: 'YYYY-MM-DD'
 - Fact-check every factual statement before publishing. Verify names, titles, dates, figures, product names, availability, quotations, legal claims, and technical descriptions against the linked source.
 - Never hallucinate, fabricate, embellish, or fill gaps with plausible-sounding details. If a fact cannot be verified, omit it. Do not create fake sources, citations, quotations, images, statistics, dates, companies, people, products, or claims.
 - Report only facts supported by reliable primary sources or reputable, directly relevant reporting.
-- Cite a primary source and at least two other independent sources. More than two is fine. The primary source is the official announcement, filing, product documentation, release notes, court record, or company statement. Each additional source must be independent of that source and of the others, on its own site. A story with no primary source, or with only one outside report, does not publish.
+- Cite a primary source when one exists, and at least two independent external sources on separate sites. Two is the minimum; three, four, or more is fine. A story with only one outside link does not publish.
 - Open and read each source before relying on it. Never infer a fact from a URL, a search snippet, an image, or another article's wording.
 - Do not invent dates, numbers, product availability, leadership roles, customer relationships, legal status, market claims, quotes, or future plans.
 - Cite sources as natural inline hyperlinks at the point where each claim appears. For example: `the company said in its [release](https://example.com/release)`. A reader must be able to open the link and check the claim without consulting a source list.

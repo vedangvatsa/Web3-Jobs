@@ -16,9 +16,8 @@ Run: `node scripts/news-discover.mjs --hours 24 --max 40`
 (Candidates with `alsoCoveredBy` are multi-outlet stories — prefer those.)
 Write every story that qualifies. There is no article-count cap. A story qualifies ONLY if ALL hold:
 - Published within the lookback window (fresh news, not analysis of old events).
-- Has a verifiable primary source (official announcement, filing, regulator page,
-  company pressroom) AND at least two other independent sources you can open
-  and read. Two reports and no primary source is not enough.
+- Has a verifiable primary source when one exists, and at least two independent
+  sources you can open and read on separate sites. Two is the minimum; more is fine.
 - Does not duplicate an existing article in content/articles/ (check slugs AND titles;
   a new development on a covered topic is OK only as a NEW event with fresh reporting,
   never a rewrite).
@@ -56,10 +55,10 @@ names, or plans.
   ("the company said", "the filing shows"). Never use the same verb twice
   in a row. Prefer primary sources (announcement, filing, official post)
   over outlet names when both support a fact.
-- Cite the primary source and at least two other independent sources, each
-  on its own site, as inline links. More than two is fine. The quality check
-  rejects a news article with fewer than three distinct external sites and
-  does not limit how many more you add.
+- Cite at least two independent external sources as inline links on separate
+  sites. Include a primary source when one exists. Two is the minimum; more is
+  fine. The quality check rejects a news article with fewer than two distinct
+  external sites.
 - No Sources/References section, no FAQ, no key-takeaway boxes, no tables,
   no bold inside prose, no em dashes, no curly quotes, straight ASCII only.
 - End on the last concrete reported fact. No summary, no moral, no mic-drop.

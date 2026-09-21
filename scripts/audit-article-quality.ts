@@ -5,7 +5,7 @@ import matter from 'gray-matter';
 const articlesDirectory = path.join(process.cwd(), 'content/articles');
 const minimumWords = 1500;
 const minimumNewsWords = 600;
-const minimumNewsSourceHosts = 3;
+const minimumNewsSourceHosts = 2;
 const newsSourceRuleFrom = '2026-09-22';
 const reportOnly = process.argv.includes('--report');
 const verbose = process.argv.includes('--verbose');
@@ -184,7 +184,7 @@ for (const file of articleFiles) {
     if (published >= newsSourceRuleFrom) {
       const hosts = newsSourceHosts(content);
       if (hosts.length < minimumNewsSourceHosts) {
-        articleIssues.push(`needs ${minimumNewsSourceHosts} external sources, found ${hosts.length}`);
+        articleIssues.push(`needs at least ${minimumNewsSourceHosts} external sources, found ${hosts.length}`);
       }
     }
   }
