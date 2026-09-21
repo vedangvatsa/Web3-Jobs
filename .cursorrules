@@ -9,8 +9,8 @@ You are an AI coding agent assisting with the Hashtagweb3.com codebase.
 - Deployment: Firebase App Hosting + Cloudflare Workers (OpenNext)
 
 ## API Conventions
-- **Public integrator surface:** static catalogs under `/data/*.json` (CDN). OpenAPI: `public/openapi.json`.
-- **Do not** add hosted REST `/api/jobs|news|events|glossary` without an explicit product decision and doc updates.
+- **Integrator surface:** `/data/*.json` (CDN) plus filtered **`/api/jobs|news|events|glossary`** and **`POST /api/mcp`**, **`GET /ask`** route handlers reading the same catalogs.
+- OpenAPI: `public/openapi.json` (mirror: `public/api/openapi.json`).
 - JSON errors on route handlers: `{ "error": { "code", "message", "hint", "docUrl" } }`.
 
 ## Agent Capabilities & Endpoints

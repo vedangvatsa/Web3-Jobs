@@ -51,10 +51,17 @@ Machine-readable catalogs are **static JSON** on the CDN (no API key, no per-req
 | `GET /data/articles-index.json` | Articles index |
 | `GET /agent-view.json` | Agent capability overview |
 | `GET /?mode=agent` | Rewrites to `agent-view.json` |
+| `GET /api/jobs` | Paginated job list (filters; backed by jobs-runtime) |
+| `GET /api/news` | Native news headlines |
+| `GET /api/events` | Upcoming events |
+| `GET /api/glossary` | Glossary terms |
+| `GET /api/v1/*` | Aliases of the `/api/*` list routes |
+| `POST /api/mcp` | MCP JSON-RPC |
+| `GET /ask` | NLWeb-style guidance (query param `q`) |
 
 OpenAPI spec: `https://hashtagweb3.com/openapi.json` (legacy mirror: `/api/openapi.json`).
 
-**Not hosted:** `GET /api/jobs`, `/api/news`, `/api/events`, `/api/glossary`, `/api/mcp`, `POST /ask` — do not depend on these on production.
+**Not hosted on production:** `/api/sandbox/*`.
 
 ## Agent discovery
 

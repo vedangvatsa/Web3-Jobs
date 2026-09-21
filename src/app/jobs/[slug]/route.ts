@@ -1,25 +1,44 @@
 import { NextResponse } from 'next/server';
-import { getJobBySlug } from '@/lib/job-guides';
-import { getJobPublicPath } from '@/lib/job-slugs';
+import { legacyJobRedirectTarget, resolveJobForLegacyRedirect } from '@/lib/job-legacy-redirect';
 
 /**
  * Legacy `/jobs/:slug` (and `/jobs/:id`, see getPublicJobUrl) → canonical
- * `/:shortSlug`. Explicit Response redirect: a page-component redirect throw
- * can lose its status once jobs/loading.tsx streams the shell, but a route
- * handler always answers with the exact status. Cheaper on Workers too —
- * no RSC tree is rendered for a pure redirect.
+ * `/:shortSlug`. Uses shard lookup + jobs-runtime only (no job-guides/cheerio).
  */
+export const dynamic = 'force-dynamic';
 export const dynamicParams = true;
-export const revalidate = 3600;
+export const revalidate = 0;
 export const runtime = 'nodejs';
+
+const RESERVED = new Set([
+  'feed.xml',
+  'feed.json',
+  'jora.xml',
+  'adzuna.xml',
+  'feed-aggregator-us.xml',
+]);
 
 export async function generateStaticParams(): Promise<{ slug: string }[]> {
   return [];
 }
 
 export async function GET(request: Request, { params }: { params: { slug: string } }) {
+  const segment = params.slug?.trim();
+  if (!segment || RESERVED.has(segment.toLowerCase())) {
+    return NextResponse.json(
+      {
+        error: {
+          code: 'NOT_FOUND',
+          message: 'Not found.',
+          docUrl: 'https://hashtagweb3.com/developers',
+        },
+      },
+      { status: 404 },
+    );
+  }
+
   try {
-    const job = await getJobBySlug(params.slug);
+    const job = await resolveJobForLegacyRedirect(segment);
     if (!job) {
       return NextResponse.json(
         {
@@ -33,7 +52,8 @@ export async function GET(request: Request, { params }: { params: { slug: string
         { status: 404 },
       );
     }
-    return NextResponse.redirect(new URL(getJobPublicPath(job), request.url), 308);
+    const target = new URL(legacyJobRedirectTarget(job), request.url);
+    return NextResponse.redirect(target, 308);
   } catch (error) {
     console.error('[jobs/[slug]] redirect failed:', error);
     return NextResponse.json(
