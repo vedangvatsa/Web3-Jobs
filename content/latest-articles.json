@@ -1,42 +1,42 @@
 [
   {
-    "slug": "bastion-charter",
-    "title": "Bastion Wins Conditional OCC Approval for National Trust Bank Charter",
-    "description": "Bastion said the OCC granted preliminary conditional approval for a national trust bank charter covering custody, payments, and white-label stablecoin issuance, and named four new directors and advisors.",
+    "slug": "hana-bond",
+    "title": "Hana Bank Issues $100M Digital Bond on Euroclear Blockchain",
+    "description": "Hana Bank says it issued a $100 million five-year digital bond on Euroclear's D-FMI ledger with same-day settlement, a first for a Korean institution.",
     "category": "News",
-    "publishedDate": "2026-09-19",
-    "image": "/images/news/bastion-charter.jpg"
+    "publishedDate": "2026-09-21",
+    "image": "/images/news/hana-bond.jpg"
   },
   {
-    "slug": "morpho-stocks",
-    "title": "Morpho Launches USDC Borrowing Against Coinbase Tokenized Stocks on Base",
-    "description": "Morpho deployed lending markets on Base allowing non-US users to borrow USDC against Coinbase tokenized stocks curated by Steakhouse Financial.",
+    "slug": "waterplum",
+    "title": "North Korean WaterPlum Crew Stole $10.7M in Fake-Job Crypto Raids",
+    "description": "A joint advisory from Japanese, US, Australian and German agencies says North Korea's WaterPlum group hit 30,000 devices and took $10.7 million through bogus recruiter approaches.",
     "category": "News",
-    "publishedDate": "2026-09-19",
-    "image": "/images/news/morpho-stocks.jpg"
+    "publishedDate": "2026-09-21",
+    "image": "/images/news/waterplum.jpg"
   },
   {
-    "slug": "solana-slots",
-    "title": "Solana Cuts Slot Time to 250 Milliseconds in Third Speed Step",
-    "description": "Solana activated 250-millisecond slots at epoch 1037 on Sept. 18, the third cut under SIMD-0525, with per-slot compute scaled down so total capacity stays flat.",
+    "slug": "fetch-hack",
+    "title": "Same Attacker Drained Fetch.ai Converter and Minted NuNet Tokens in $2M Exploit",
+    "description": "Security firms tied a Sept. 19 attack on Fetch.ai and NuNet to one wallet, with about 8.7 million FET drained and 408.5 million NTX minted for a combined $2 million in affected assets.",
     "category": "News",
-    "publishedDate": "2026-09-19",
-    "image": "/images/news/solana-slots.jpg"
+    "publishedDate": "2026-09-20",
+    "image": "/images/news/fetch-hack.jpg"
   },
   {
-    "slug": "zcash-upgrade",
-    "title": "Zcash Community Approves NU7 Upgrade With 25-Second Blocks and 2031 Reserve Plan",
-    "description": "Zcash coinholders approved preserving scheduled halvings and delaying the release of Network Sustainability Mechanism funds to 2031 in an advisory poll for the upcoming NU7 upgrade.",
+    "slug": "polymarket-fraud",
+    "title": "Polymarket Faced $10M Stolen-Card Fraud Attempt, Journal Reported",
+    "description": "The Wall Street Journal reported that fraudsters used stolen debit cards on Polymarket US in February to attempt at least $10 million in illicit moves, with Checkout.com rejecting over 80 percent of deposits at the peak.",
     "category": "News",
-    "publishedDate": "2026-09-19",
-    "image": "/images/news/zcash-upgrade.jpg"
+    "publishedDate": "2026-09-20",
+    "image": "/images/news/polymarket-fraud.jpg"
   },
   {
-    "slug": "binance-mica",
-    "title": "WSJ Reports Lagarde Intervened to Stall Binance MiCA License",
-    "description": "The Wall Street Journal reported on Sept. 18, 2026 that ECB President Christine Lagarde personally intervened to stall Binance's MiCA license bid in Greece, an account Binance declined to address beyond reaffirming its Europe plans.",
+    "slug": "visa-memecoins",
+    "title": "Visa Moves to Close Meme Coin Credit Card Rewards Loophole",
+    "description": "Visa told processors including Checkout.com to stop coding Crossmint-powered meme coin buys as digital media, ending credit card rewards on those purchases after a grace period expected to end next week.",
     "category": "News",
-    "publishedDate": "2026-09-18",
-    "image": "/images/news/binance-mica.jpg"
+    "publishedDate": "2026-09-20",
+    "image": "/images/news/visa-memecoins.jpg"
   }
 ]

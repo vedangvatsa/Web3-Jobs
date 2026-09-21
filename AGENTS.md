@@ -9,7 +9,7 @@
 - **Framework**: Next.js 14 App Router (TypeScript)
 - **Styling**: Tailwind CSS
 - **Data**: Static runtime JSON under `content/` and `public/data/` (jobs, events, glossary, news); Supabase where noted for product features
-- **Deployment**: Firebase App Hosting (primary HTML) and Cloudflare Workers (OpenNext); not Vercel-only
+- **Deployment**: Firebase App Hosting on GCP (`web3-jobs-aggregator`); OpenNext/Cloudflare scripts in repo are legacy
 
 ## Repository Structure
 

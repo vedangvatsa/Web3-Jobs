@@ -6,7 +6,7 @@ You are an AI coding agent assisting with the Hashtagweb3.com codebase.
 - Framework: Next.js 14 App Router (TypeScript)
 - Styling: Tailwind CSS & Lucide Icons
 - Database & Storage: Static runtime JSON (`content/*-runtime.json`, `public/data/`), job shards, Supabase where used
-- Deployment: Firebase App Hosting + Cloudflare Workers (OpenNext)
+- Deployment: Firebase App Hosting (GCP); legacy OpenNext/Cloudflare paths may remain in repo
 
 ## API Conventions
 - **Integrator surface:** `/data/*.json` (CDN) plus filtered **`/api/jobs|news|events|glossary`** and **`POST /api/mcp`**, **`GET /ask`** route handlers reading the same catalogs.
