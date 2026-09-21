@@ -52,3 +52,21 @@ export function stripSocialPathSuffix(pathname: string): string {
   }
   return parts.length ? `/${parts.join('/')}` : '/';
 }
+
+/** Detect link-preview crawlers and headless fetchers (no Sec-Fetch navigation signals). */
+export function isLinkPreviewCrawlerRequest(request: {
+  headers: Headers;
+  method: string;
+}): boolean {
+  const ua = request.headers.get('user-agent') || '';
+  if (LINK_PREVIEW_BOT_RE.test(ua)) return true;
+  const method = request.method.toUpperCase();
+  if (method !== 'GET' && method !== 'HEAD') return false;
+
+  const fetchMode = request.headers.get('sec-fetch-mode');
+  const fetchDest = request.headers.get('sec-fetch-dest');
+  const fetchUser = request.headers.get('sec-fetch-user');
+  const hasBrowserNavigationSignal =
+    fetchMode === 'navigate' || fetchDest === 'document' || fetchUser === '?1';
+  return !hasBrowserNavigationSignal;
+}

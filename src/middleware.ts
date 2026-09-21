@@ -1,6 +1,6 @@
 import { NextResponse } from 'next/server';
 import type { NextRequest } from 'next/server';
-import { LINK_PREVIEW_BOT_RE, SOCIAL_UTM_MAP, stripSocialPathSuffix } from '@/lib/social-share';
+import { isLinkPreviewCrawlerRequest, LINK_PREVIEW_BOT_RE, SOCIAL_UTM_MAP, stripSocialPathSuffix } from '@/lib/social-share';
 
 /**
  * Social media suffix shortcuts mapping to standardized UTM attribution parameters.
@@ -101,6 +101,12 @@ function applyRateLimitHeaders(response: NextResponse, limit: number, remaining:
 export function middleware(request: NextRequest) {
   const pathname = request.nextUrl.pathname;
   const searchParams = request.nextUrl.searchParams;
+  const host = request.headers.get('host')?.split(':')[0]?.toLowerCase();
+  if (host === 'www.hashtagweb3.com') {
+    const canonical = request.nextUrl.clone();
+    canonical.host = 'hashtagweb3.com';
+    return NextResponse.redirect(canonical, 308);
+  }
 
   // Node/Firebase run middleware before public-file serving. Let the static
   // handler decide whether an asset exists, without content negotiation.
@@ -123,11 +129,14 @@ export function middleware(request: NextRequest) {
   // Human visitors and other bots are unaffected.
   if (!pathname.startsWith('/api') && !pathname.startsWith('/_next') && !pathname.includes('.')) {
     const ua = request.headers.get('user-agent') || '';
-    const isLinkPreviewBot = LINK_PREVIEW_BOT_RE.test(ua);
+    const normalizedPath = pathname.replace(/\/+$/, '') || '/';
+    const contentPath = stripSocialPathSuffix(normalizedPath);
+    const hasSocialSuffix = contentPath !== normalizedPath;
+    const isLinkPreviewBot =
+      LINK_PREVIEW_BOT_RE.test(ua) || (hasSocialSuffix && isLinkPreviewCrawlerRequest(request));
 
     if (isLinkPreviewBot) {
       // Strip /ig, /th, /wa, etc. so previews match the canonical page (e.g. /clarity-act).
-      const contentPath = stripSocialPathSuffix(pathname);
       const rewriteUrl = request.nextUrl.clone();
       // Static ~2KB HTML shells from prebuild (public/preview/**) — no Serverless Function.
       rewriteUrl.pathname =
@@ -205,14 +214,7 @@ export function middleware(request: NextRequest) {
         // bots in production. Every modern browser sets the Sec-Fetch-* headers on
         // navigation; bot stacks (LinkedInBot, Meta-ExternalAgent, etc.) do not.
         // Treat "bot UA OR no browser navigation signals" as a crawler.
-        const ua = request.headers.get('user-agent') || '';
-        const fetchMode = request.headers.get('sec-fetch-mode');
-        const fetchDest = request.headers.get('sec-fetch-dest');
-        const fetchUser = request.headers.get('sec-fetch-user');
-        const hasBrowserNavigationSignal =
-          fetchMode === 'navigate' || fetchDest === 'document' || fetchUser === '?1';
-        const isSocialCrawler = LINK_PREVIEW_BOT_RE.test(ua);
-        if (isSocialCrawler) {
+        if (isLinkPreviewCrawlerRequest(request)) {
           // Keep crawler responses tiny. Full RSC pages can exceed LinkedIn's
           // scraper limit; serve static preview HTML from public/preview.
           const crawlerRewrite = request.nextUrl.clone();

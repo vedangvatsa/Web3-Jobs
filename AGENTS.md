@@ -8,68 +8,64 @@
 
 - **Framework**: Next.js 14 App Router (TypeScript)
 - **Styling**: Tailwind CSS
-- **Data**: Supabase (PostgreSQL)
-- **Deployment**: Vercel
+- **Data**: Static runtime JSON under `content/` and `public/data/` (jobs, events, glossary, news); Supabase where noted for product features
+- **Deployment**: Firebase App Hosting (primary HTML) and Cloudflare Workers (OpenNext); not Vercel-only
 
 ## Repository Structure
 
 ```
 /
 ├── src/
-│   ├── app/                  # Next.js App Router pages and API routes
-│   │   ├── api/              # Public REST API (jobs, news, events, glossary, auth)
-│   │   ├── jobs/             # Jobs listing page
+│   ├── app/                  # Next.js App Router pages
+│   │   ├── api/              # Minimal routes (e.g. email unsubscribe)
+│   │   ├── jobs/             # Jobs listing + legacy /jobs/[slug] redirects
 │   │   ├── news/             # News listing page
 │   │   ├── events/           # Events listing page
 │   │   ├── community/        # Community hub page
-│   │   ├── developers/       # Developer portal and API docs
+│   │   ├── developers/       # Developer portal and catalog docs
 │   │   └── layout.tsx        # Root layout with JSON-LD schemas
 │   ├── components/           # Shared React components
-│   └── middleware.ts         # Content negotiation, Vary headers
+│   └── middleware.ts         # Social UTM, link-preview shells, rate limits
 ├── public/
-│   ├── robots.txt            # Crawler policy (AI crawlers allowed)
-│   ├── llms.txt              # Navigation index for LLMs
-│   ├── openapi.json          # OpenAPI 3.1.0 specification
-│   ├── auth.md               # Agent authentication guide (WorkOS auth.md)
-│   ├── plugin.json           # Agent plugin manifest
-│   ├── sitemap.xml           # XML sitemap
-│   └── .well-known/          # Discovery endpoints
-│       ├── agents.json
-│       ├── agent-card.json
-│       ├── ai-catalog.json
-│       ├── api-catalog       # RFC 9727 linkset
-│       ├── mcp/server-card.json
-│       ├── oauth-protected-resource   # RFC 9728
-│       └── oauth-authorization-server # RFC 8414
+│   ├── data/                 # CDN copies of runtime catalogs
+│   ├── preview/              # Precomputed OG HTML shells for crawlers
+│   ├── robots.txt
+│   ├── llms.txt
+│   ├── openapi.json          # OpenAPI 3.1.0 — static /data/* catalogs
+│   └── .well-known/          # Agent discovery manifests
 └── bin/
     └── hashtagweb3.js        # CLI tool
 ```
 
-## Public API Endpoints
+## Public data (integrators)
 
-All public API endpoints are unauthenticated (CORS enabled):
+Machine-readable catalogs are **static JSON** on the CDN (no API key, no per-request Serverless Function):
 
-| Endpoint | Description |
-|----------|-------------|
-| `GET /api/jobs` | List Web3 jobs. Params: `limit`, `offset`, `search`, `location`, `type` |
-| `GET /api/news` | List Web3 news. Params: `limit`, `offset`, `search`, `category` |
-| `GET /api/events` | List Web3 events. Params: `limit`, `offset`, `search`, `type` |
-| `GET /api/glossary` | List glossary terms. Params: `limit`, `offset`, `search`, `letter` |
+| URL | Description |
+|-----|-------------|
+| `GET /data/jobs-runtime.json` | Active jobs snapshot (filter client-side) |
+| `GET /data/events-runtime.json` | Events snapshot |
+| `GET /data/glossary-runtime.json` | Glossary snapshot |
+| `GET /data/news-cache.json` | News headlines cache |
+| `GET /data/companies-runtime.json` | Companies snapshot |
+| `GET /data/articles-index.json` | Articles index |
+| `GET /agent-view.json` | Agent capability overview |
+| `GET /?mode=agent` | Rewrites to `agent-view.json` |
 
-Full OpenAPI spec: `https://hashtagweb3.com/openapi.json`
+OpenAPI spec: `https://hashtagweb3.com/openapi.json` (legacy mirror: `/api/openapi.json`).
 
-## Agent-Specific Endpoints
+**Not hosted:** `GET /api/jobs`, `/api/news`, `/api/events`, `/api/glossary`, `/api/mcp`, `POST /ask` — do not depend on these on production.
+
+## Agent discovery
 
 | Endpoint | Description |
 |----------|-------------|
 | `GET /llms.txt` | Navigation index for LLMs |
-| `GET /openapi.json` | OpenAPI 3.1.0 spec |
-| `GET /auth.md` | WorkOS-spec agent auth guide |
-| `POST /ask` | NLWeb natural language query endpoint |
-| `GET /?mode=agent` | Machine-readable JSON platform overview |
-| `GET /index.md` | Markdown version of homepage |
+| `GET /openapi.json` | OpenAPI 3.1.0 static catalog spec |
+| `GET /auth.md` | WorkOS-spec agent auth guide (optional integrations) |
 | `GET /.well-known/agents.json` | Agent discovery manifest |
-| `GET /.well-known/api-catalog` | RFC 9727 API catalog |
+| `GET /.well-known/plugin.json` | Agent Plugins manifest |
+| `GET /.well-known/mcp/server-card.json` | MCP server card metadata (discovery) |
 
 ## Development Commands
 
@@ -77,31 +73,26 @@ Full OpenAPI spec: `https://hashtagweb3.com/openapi.json`
 npm install          # Install dependencies
 npm run dev          # Start development server (http://localhost:3000)
 npm run build        # Build for production
-npm run lint         # ESLint check
-npm run hashtagweb3  # Run the CLI tool
+npm run lint         # ESLint (next/core-web-vitals)
+npm run typecheck    # tsc --noEmit
 ```
 
 ## Coding Conventions
 
 - **TypeScript**: All source files use TypeScript. Avoid `any` types.
 - **Components**: Server Components by default; add `'use client'` only when necessary.
-- **API Routes**: All API routes must return structured JSON errors: `{ error: { code, message, hint, docUrl } }`.
-- **CORS**: All `/api/*` routes include `Access-Control-Allow-Origin: *`.
+- **Errors**: Prefer structured JSON for API-style routes: `{ error: { code, message, hint, docUrl } }`.
 - **Content-Type**: Serve `.md` files as `text/markdown; charset=utf-8`.
 - **Styles**: Use Tailwind CSS utility classes; no CSS-in-JS.
+- **OpenAPI / llms.txt**: Update when changing public catalog URLs or agent discovery.
 
 ## Native News Content
 
-News-specific editorial, sourcing, image, URL, and structured-data requirements live in [`content/articles/AGENTS.md`](content/articles/AGENTS.md). Read and follow that guide only before creating or materially revising a native article with `category: News`; it does not apply to jobs, events, glossary pages, resources, or other article categories.
+News-specific editorial requirements live in [`content/articles/AGENTS.md`](content/articles/AGENTS.md). Read that guide before creating or materially revising a native article with `category: News`.
 
-## Agent Auth Flow
+## Optional agent auth
 
-1. `POST /api/auth/register` → receive `registration_token`
-2. `POST /api/auth/claim` → exchange for `access_token`
-3. Use `Authorization: Bearer <access_token>` on subsequent requests
-4. `POST /api/auth/revoke` → invalidate token when done
-
-See `/auth.md` for full details.
+WorkOS-style registration flows are documented in `/auth.md` for agents that need authenticated access in forked or private deployments. The public site does not require auth to read `/data/*` catalogs.
 
 <!-- antislop:start -->
 ## antislop

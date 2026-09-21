@@ -85,6 +85,22 @@ async function runMiddlewareTests() {
     }
   }
 
+  console.log('\n2a. Testing headless fetchers without Sec-Fetch on suffixed job URLs...');
+  try {
+    const req = new NextRequest('https://hashtagweb3.com/sales386/x?og=4', {
+      headers: { 'user-agent': 'node-fetch/1.0' },
+    });
+    const res = middleware(req);
+    const rewrite = res.headers.get('x-middleware-rewrite') || '';
+    assert(
+      res.status === 200 && rewrite.endsWith('/preview/sales386.html'),
+      'Headless GET on /sales386/x rewrites to static preview shell',
+      `Got "${rewrite}"`
+    );
+  } catch (err: any) {
+    assert(false, 'Headless suffixed job URL runtime execution', err?.message || String(err));
+  }
+
   console.log('\n2b. Testing crawler handling for platform-suffixed job URLs...');
   const suffixedCrawlerTests = [
     { name: 'Facebook', ua: 'facebookexternalhit/1.1', path: '/engineer442/fb?og=2', expectedOgPath: '/engineer442' },

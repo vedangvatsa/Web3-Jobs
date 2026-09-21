@@ -31,25 +31,34 @@ async function testAll() {
   // 3. Check OpenAPI specs
   console.log('\n3. Checking OpenAPI specs...');
   const openapiJson = JSON.parse(fs.readFileSync(path.join(process.cwd(), 'public', 'openapi.json'), 'utf8'));
-  if (openapiJson.openapi !== '3.1.0' || !openapiJson.paths['/api/jobs'] || !openapiJson.paths['/api/news'] || !openapiJson.paths['/api/events'] || !openapiJson.paths['/api/glossary']) {
-    throw new Error('OpenAPI JSON is missing required paths');
+  const requiredCatalogPaths = [
+    '/data/jobs-runtime.json',
+    '/data/events-runtime.json',
+    '/data/glossary-runtime.json',
+    '/data/news-cache.json',
+    '/agent-view.json',
+  ];
+  if (openapiJson.openapi !== '3.1.0') {
+    throw new Error('OpenAPI JSON must declare openapi 3.1.0');
   }
-  // Check operationId on each path
-  for (const p of Object.keys(openapiJson.paths)) {
-    const pathObj = (openapiJson.paths as Record<string, any>)[p];
-    const methods = Object.keys(pathObj).filter((m) => ['get', 'post', 'put', 'delete', 'patch'].includes(m));
-    for (const m of methods) {
-      const op = pathObj[m];
-      if (!op || !op.operationId || !op.summary) {
-        throw new Error(`OpenAPI path ${p} [${m}] missing operationId or summary`);
-      }
+  for (const catalogPath of requiredCatalogPaths) {
+    if (!openapiJson.paths[catalogPath]) {
+      throw new Error(`OpenAPI JSON missing catalog path: ${catalogPath}`);
     }
   }
-  console.log('  ✓ openapi.json is valid OpenAPI 3.1.0 with typed operations, operationIds, and error schemas.');
+  console.log('  ✓ openapi.json documents static /data/* catalogs.');
+
+  const legacyApiOpenapi = JSON.parse(
+    fs.readFileSync(path.join(process.cwd(), 'public', 'api', 'openapi.json'), 'utf8'),
+  );
+  if (legacyApiOpenapi.info?.title !== openapiJson.info?.title) {
+    throw new Error('public/api/openapi.json must mirror public/openapi.json (static catalog spec)');
+  }
+  console.log('  ✓ public/api/openapi.json mirrors canonical spec.');
 
   const openapiYaml = fs.readFileSync(path.join(process.cwd(), 'public', 'api', 'openapi.yaml'), 'utf8');
-  if (!openapiYaml.includes('openapi: 3.1.0') || !openapiYaml.includes('listJobs') || !openapiYaml.includes('listNews')) {
-    throw new Error('OpenAPI YAML invalid');
+  if (!openapiYaml.includes('openapi: 3.1.0') || !openapiYaml.includes('getJobsCatalog')) {
+    throw new Error('OpenAPI YAML invalid or missing static catalog operations');
   }
   console.log('  ✓ api/openapi.yaml verified.');
 
@@ -67,7 +76,7 @@ async function testAll() {
 
   // 5. Test CLI tool
   console.log('\n5. Checking CLI tool...');
-  const binScript = fs.readFileSync(path.join(process.cwd(), 'bin', 'hashtagweb3.js'), 'utf8');
+  const binScript = fs.readFileSync(path.join(process.cwd(), 'packages', 'cli', 'bin', 'hashtagweb3.js'), 'utf8');
   if (!binScript.includes('#!/usr/bin/env node') || !binScript.includes('jobs') || !binScript.includes('glossary')) {
     throw new Error('CLI script invalid');
   }

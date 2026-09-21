@@ -3,6 +3,7 @@ import * as path from 'path';
 import type { Web3Event } from '../src/lib/events';
 import type { ResourcePage } from '../src/types/pseo';
 import type { Job } from '../src/types';
+import { getPopupSlugs } from '../src/lib/popups';
 
 const OUT_FILE = path.join(process.cwd(), 'content', 'slug-types.json');
 
@@ -41,11 +42,16 @@ function main() {
     for (const slug of Object.keys(companies)) companySlugs.add(slug.toLowerCase().trim());
   }
 
-  const glossaryDir = path.join(process.cwd(), 'content', 'glossary');
-  const glossaryFiles = fs.existsSync(glossaryDir)
-    ? fs.readdirSync(glossaryDir).filter((f) => f.endsWith('.md'))
-    : [];
-  const glossarySlugs = new Set<string>(glossaryFiles.map((f) => f.replace('.md', '').toLowerCase().trim()));
+  const glossaryRuntimeFile = path.join(process.cwd(), 'content', 'glossary-runtime.json');
+  const glossarySlugs = new Set<string>();
+  if (fs.existsSync(glossaryRuntimeFile)) {
+    const glossaryTerms = JSON.parse(fs.readFileSync(glossaryRuntimeFile, 'utf8')) as { slug?: string }[];
+    if (Array.isArray(glossaryTerms)) {
+      for (const term of glossaryTerms) {
+        if (term.slug) glossarySlugs.add(term.slug.toLowerCase().trim());
+      }
+    }
+  }
 
   const pseoFile = path.join(process.cwd(), 'content', 'pseo-resources-runtime.json');
   const pseoResources: ResourcePage[] = fs.existsSync(pseoFile)
@@ -59,10 +65,7 @@ function main() {
     : [];
   const articleSlugs = new Set<string>(articleFiles.map((f) => f.replace('.md', '').toLowerCase().trim()));
 
-  const popupSlugs = new Set<string>([
-    'zuzalu', 'edge-city', 'network-school', 'prospera', 'praxis',
-    'jungli', 'cabin', 'infinita', 'culdesac', 'afropolitan', 'liberty-island',
-  ]);
+  const popupSlugs = new Set<string>(getPopupSlugs().map((slug) => slug.toLowerCase().trim()));
 
   const appDir = path.join(process.cwd(), 'src', 'app');
   const staticPageSlugs = new Set(fs.readdirSync(appDir, { withFileTypes: true })

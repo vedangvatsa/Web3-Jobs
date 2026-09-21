@@ -11,25 +11,41 @@ import { getJobPublicPath } from '@/lib/job-slugs';
  */
 export const dynamicParams = true;
 export const revalidate = 3600;
+export const runtime = 'nodejs';
 
 export async function generateStaticParams(): Promise<{ slug: string }[]> {
   return [];
 }
 
 export async function GET(request: Request, { params }: { params: { slug: string } }) {
-  const job = await getJobBySlug(params.slug);
-  if (!job) {
+  try {
+    const job = await getJobBySlug(params.slug);
+    if (!job) {
+      return NextResponse.json(
+        {
+          error: {
+            code: 'NOT_FOUND',
+            message: 'Job not found. It may have expired or the link is outdated.',
+            hint: 'Browse open roles at https://hashtagweb3.com/jobs.',
+            docUrl: 'https://hashtagweb3.com/developers',
+          },
+        },
+        { status: 404 },
+      );
+    }
+    return NextResponse.redirect(new URL(getJobPublicPath(job), request.url), 308);
+  } catch (error) {
+    console.error('[jobs/[slug]] redirect failed:', error);
     return NextResponse.json(
       {
         error: {
-          code: 'NOT_FOUND',
-          message: 'Job not found. It may have expired or the link is outdated.',
-          hint: 'Browse open roles at https://hashtagweb3.com/jobs.',
+          code: 'INTERNAL_ERROR',
+          message: 'Could not resolve this job link.',
+          hint: 'Try the canonical URL at https://hashtagweb3.com/jobs or search by company.',
           docUrl: 'https://hashtagweb3.com/developers',
         },
       },
-      { status: 404 },
+      { status: 500 },
     );
   }
-  return NextResponse.redirect(new URL(getJobPublicPath(job), request.url), 308);
 }

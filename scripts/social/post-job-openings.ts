@@ -912,6 +912,19 @@ function normalizeTitleForCompare(value: string): string {
     .toLowerCase();
 }
 
+const SITE_TITLE_SUFFIX = ' | hashtag web3';
+
+/** Match preview shells and Next.js metadata (root layout may append site name). */
+function jobPreviewTitleMatches(resolvedTitle: string, title: string, company: string): boolean {
+  const expected = normalizeTitleForCompare(`${title} at ${company}`);
+  const normalized = normalizeTitleForCompare(resolvedTitle);
+  if (normalized === expected) return true;
+  if (normalized.endsWith(SITE_TITLE_SUFFIX)) {
+    return normalized.slice(0, -SITE_TITLE_SUFFIX.length).trimEnd() === expected;
+  }
+  return false;
+}
+
 export interface LinkedInPreview {
   title: string;
   description: string;
@@ -949,7 +962,7 @@ async function verifySocialServing(
       return null;
     }
     const resolvedTitle = decodeEntities(titleMatch[1]);
-    if (normalizeTitleForCompare(resolvedTitle) !== normalizeTitleForCompare(`${title} at ${company}`)) {
+    if (!jobPreviewTitleMatches(resolvedTitle, title, company)) {
       console.error(`Preview readiness: wrong og:title "${resolvedTitle}" for ${pageUrl} — aborting publish`);
       return null;
     }
@@ -1288,7 +1301,7 @@ async function waitForQuietDeploy(): Promise<void> {
 const PREVIEW_TARGETS = [
   { platform: 'x', suffix: 'x', userAgent: 'Twitterbot/1.0' },
   { platform: 'threads', suffix: 'th', userAgent: 'Meta-ExternalAgent/1.1' },
-  { platform: 'bluesky', suffix: 'bsky', userAgent: 'Mozilla/5.0' },
+  { platform: 'bluesky', suffix: 'bsky', userAgent: 'Bluesky/1.0' },
   { platform: 'farcaster', suffix: 'fc', userAgent: 'Warpcast/1.0' },
   { platform: 'linkedin', suffix: 'li', userAgent: LINKEDIN_BOT_UA },
   { platform: 'facebook', suffix: 'fb', userAgent: 'facebookexternalhit/1.1' },

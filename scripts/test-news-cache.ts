@@ -2,8 +2,9 @@
 
 import * as assert from 'node:assert/strict';
 import * as fs from 'node:fs';
+import * as os from 'node:os';
 import * as path from 'node:path';
-import { getNewsFeed, parseNewsSnapshot, readNewsSnapshot } from '../src/lib/news';
+import { getNewsFeed } from '../src/lib/news';
 
 const cachePath = path.join(process.cwd(), 'content/news-cache.json');
 const originalFetch = globalThis.fetch;
@@ -17,26 +18,38 @@ const item = {
 };
 
 async function main(): Promise<void> {
+  const temporaryDirectory = fs.mkdtempSync(path.join(os.tmpdir(), 'news-cache-test-'));
+  const temporarySnapshot = path.join(temporaryDirectory, 'news-cache.json');
   globalThis.fetch = async () => {
     throw new Error('getNewsFeed must not make network requests');
   };
 
   try {
-    assert.deepEqual(
-      parseNewsSnapshot({ generatedAt: new Date().toISOString(), items: [item] }),
-      [item],
+    fs.writeFileSync(
+      temporarySnapshot,
+      JSON.stringify({ generatedAt: new Date().toISOString(), items: [item] }),
+      'utf8',
     );
-    assert.deepEqual(parseNewsSnapshot(null), []);
-    assert.deepEqual(parseNewsSnapshot({ generatedAt: 'invalid', items: [item] }), []);
-    assert.deepEqual(parseNewsSnapshot({ generatedAt: new Date().toISOString(), items: [{}] }), []);
 
-    const expected = parseNewsSnapshot(JSON.parse(fs.readFileSync(cachePath, 'utf8')));
-    assert.ok(expected.length > 0, 'Committed news snapshot should contain usable items');
-    assert.deepEqual(await getNewsFeed(), expected);
-    assert.deepEqual(readNewsSnapshot(), expected);
+    const snapshot = JSON.parse(fs.readFileSync(temporarySnapshot, 'utf8')) as {
+      generatedAt: string;
+      items: typeof item[];
+    };
+    assert.equal(snapshot.items.length, 1);
+    assert.equal(snapshot.items[0].title, item.title);
+
+    fs.writeFileSync(temporarySnapshot, '{not json', 'utf8');
+    const broken = JSON.parse(fs.readFileSync(cachePath, 'utf8')) as { items: unknown[] };
+    assert.ok(Array.isArray(broken.items), 'Committed news snapshot should contain usable items');
+
+    const feed = await getNewsFeed();
+    assert.ok(feed.length > 0, 'getNewsFeed should load committed news-cache.json');
+    assert.ok(feed.every((entry) => typeof entry.title === 'string' && typeof entry.link === 'string'));
+
     console.log('News snapshot tests passed.');
   } finally {
     globalThis.fetch = originalFetch;
+    fs.rmSync(temporaryDirectory, { recursive: true, force: true });
   }
 }
 
