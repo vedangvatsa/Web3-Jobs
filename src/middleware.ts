@@ -1,6 +1,10 @@
 import { NextResponse } from 'next/server';
 import type { NextRequest } from 'next/server';
-import { isLinkPreviewCrawlerRequest, LINK_PREVIEW_BOT_RE, SOCIAL_UTM_MAP, stripSocialPathSuffix } from '@/lib/social-share';
+import {
+  isLinkPreviewCrawlerRequest,
+  linkPreviewPreviewPath,
+  SOCIAL_UTM_MAP,
+} from '@/lib/social-share';
 import { parseLegacyJobPathSegment, resolveLegacyJobRedirectPath } from '@/lib/legacy-job-path';
 
 /**
@@ -145,18 +149,10 @@ export async function middleware(request: NextRequest) {
   // Human visitors and other bots are unaffected.
   if (!pathname.startsWith('/api') && !pathname.startsWith('/_next') && !pathname.includes('.')) {
     const ua = request.headers.get('user-agent') || '';
-    const normalizedPath = pathname.replace(/\/+$/, '') || '/';
-    const contentPath = stripSocialPathSuffix(normalizedPath);
-    const hasSocialSuffix = contentPath !== normalizedPath;
-    const isLinkPreviewBot =
-      LINK_PREVIEW_BOT_RE.test(ua) || (hasSocialSuffix && isLinkPreviewCrawlerRequest(request));
-
-    if (isLinkPreviewBot) {
-      // Strip /ig, /th, /wa, etc. so previews match the canonical page (e.g. /clarity-act).
+    const previewPath = linkPreviewPreviewPath(pathname, ua, isLinkPreviewCrawlerRequest(request));
+    if (previewPath) {
       const rewriteUrl = request.nextUrl.clone();
-      // Static ~2KB HTML shells from prebuild (public/preview/**) — no Serverless Function.
-      rewriteUrl.pathname =
-        contentPath === '/' ? '/preview/index.html' : `/preview${contentPath}.html`;
+      rewriteUrl.pathname = previewPath;
       rewriteUrl.search = '';
       return NextResponse.rewrite(rewriteUrl);
     }
@@ -231,13 +227,13 @@ export async function middleware(request: NextRequest) {
         // navigation; bot stacks (LinkedInBot, Meta-ExternalAgent, etc.) do not.
         // Treat "bot UA OR no browser navigation signals" as a crawler.
         if (isLinkPreviewCrawlerRequest(request)) {
-          // Keep crawler responses tiny. Full RSC pages can exceed LinkedIn's
-          // scraper limit; serve static preview HTML from public/preview.
-          const crawlerRewrite = request.nextUrl.clone();
-          crawlerRewrite.pathname =
-            basePath === '/' ? '/preview/index.html' : `/preview${basePath}.html`;
-          crawlerRewrite.search = '';
-          return NextResponse.rewrite(crawlerRewrite);
+          const previewPath = linkPreviewPreviewPath(basePath, request.headers.get('user-agent') || '', true);
+          if (previewPath) {
+            const crawlerRewrite = request.nextUrl.clone();
+            crawlerRewrite.pathname = previewPath;
+            crawlerRewrite.search = '';
+            return NextResponse.rewrite(crawlerRewrite);
+          }
         }
 
         // For human visitors, redirect with absolute URL and UTM parameters

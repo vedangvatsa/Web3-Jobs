@@ -1,12 +1,12 @@
+import * as fs from 'fs';
+import * as path from 'path';
 import { getAllArticles } from '../src/lib/articles';
 import { buildArticlePageMeta } from '../src/lib/article-og-meta';
 import { previewAssetPath } from '../src/lib/og-preview';
-import { SOCIAL_UTM_MAP } from '../src/lib/social-share';
-import { NextRequest } from 'next/server';
-import { middleware } from '../src/middleware';
+import { isLinkPreviewCrawlerRequest, linkPreviewPreviewPath, SOCIAL_UTM_MAP } from '../src/lib/social-share';
 
 async function main() {
-  console.log('🧪 Article OG meta + social suffix middleware checks...\n');
+  console.log('🧪 Article OG meta + social suffix preview checks...\n');
 
   let passed = 0;
   let failed = 0;
@@ -42,20 +42,18 @@ async function main() {
   const sample = articles.find((a) => a.slug === 'clarity-act') ?? articles[0];
   const suffixKeys = Object.keys(SOCIAL_UTM_MAP);
   const expectedPreview = previewAssetPath(`/${sample.slug}`);
+  const botHeaders = new Headers({ 'user-agent': 'LinkedInBot/1.0' });
+  const headlessOrBot = isLinkPreviewCrawlerRequest({ headers: botHeaders, method: 'GET' });
 
-  console.log(`\nSocial suffix rewrites for /${sample.slug} (${suffixKeys.length} suffixes)...`);
+  console.log(`\nSocial suffix preview paths for /${sample.slug} (${suffixKeys.length} suffixes)...`);
   for (const suffix of suffixKeys) {
-    const path = `/${sample.slug}/${suffix}`;
-    const req = new NextRequest(`https://hashtagweb3.com${path}`, {
-      headers: { 'user-agent': 'LinkedInBot/1.0' },
-    });
-    const res = await middleware(req);
-    const rewrite = res.headers.get('x-middleware-rewrite') || '';
-    const rewriteUrl = rewrite ? new URL(rewrite) : null;
+    const socialPath = `/${sample.slug}/${suffix}`;
+    const rewritePath = linkPreviewPreviewPath(socialPath, 'LinkedInBot/1.0', headlessOrBot);
+    const previewFile = rewritePath ? path.join(process.cwd(), 'public', rewritePath.slice(1)) : '';
     assert(
-      res.status === 200 && rewriteUrl?.pathname === expectedPreview,
-      `Bot preview rewrite ${path}`,
-      rewrite || '(no rewrite)',
+      rewritePath === expectedPreview && Boolean(previewFile && fs.existsSync(previewFile)),
+      `Bot preview path ${socialPath}`,
+      rewritePath || '(no preview path)',
     );
   }
 

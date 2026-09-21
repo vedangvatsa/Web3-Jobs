@@ -70,3 +70,25 @@ export function isLinkPreviewCrawlerRequest(request: {
     fetchMode === 'navigate' || fetchDest === 'document' || fetchUser === '?1';
   return !hasBrowserNavigationSignal;
 }
+
+/** Static preview shell path for bots (must match middleware rewrite targets). */
+export function linkPreviewPreviewPath(
+  pathname: string,
+  userAgent: string,
+  headlessOrBot: boolean,
+): string | null {
+  const normalizedPath = pathname.replace(/\/+$/, '') || '/';
+  if (
+    normalizedPath.startsWith('/api') ||
+    normalizedPath.startsWith('/_next') ||
+    normalizedPath.includes('.')
+  ) {
+    return null;
+  }
+  const contentPath = stripSocialPathSuffix(normalizedPath);
+  const hasSocialSuffix = contentPath !== normalizedPath;
+  const isLinkPreviewBot =
+    LINK_PREVIEW_BOT_RE.test(userAgent) || (hasSocialSuffix && headlessOrBot);
+  if (!isLinkPreviewBot) return null;
+  return contentPath === '/' ? '/preview/index.html' : `/preview${contentPath}.html`;
+}
