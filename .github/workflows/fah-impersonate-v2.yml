@@ -1,9 +1,10 @@
-name: FAH impersonate deploy
-on: workflow_dispatch
+name: FAH impersonate v2
+on:
+  workflow_dispatch:
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
       - uses: google-github-actions/auth@v2
@@ -22,14 +23,14 @@ jobs:
             firebase-adminsdk-fbsvc@web3-jobs-aggregator.iam.gserviceaccount.com
           do
             echo "=== impersonate $SA ==="
-            gcloud auth print-access-token --impersonate-service-account="$SA" 2>&1 | head -5
+            gcloud auth print-access-token --impersonate-service-account="$SA" 2>&1 | head -8
             IT=$(gcloud auth print-access-token --impersonate-service-account="$SA" 2>/dev/null || true)
             if [ -n "$IT" ]; then
               BUILD_ID="imp-$(date +%s)"
               echo "Creating build as $SA id=$BUILD_ID"
               curl -s -X POST -H "Authorization: Bearer $IT" -H 'Content-Type: application/json' \
                 "https://firebaseapphosting.googleapis.com/v1beta/projects/web3-jobs-aggregator/locations/us-central1/backends/studio/builds?buildId=${BUILD_ID}" \
-                -d '{"source":{"codebase":{"branch":"main"}}}' | head -c 2000
+                -d '{"source":{"codebase":{"branch":"main"}}}' | head -c 2500
               echo
             fi
           done
