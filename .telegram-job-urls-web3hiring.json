@@ -88,6 +88,14 @@
     "lastUrl": "https://hashtagweb3.com/engineer-0l5dxqf",
     "updatedAt": "2026-09-20T21:47:01.594Z"
   },
+  "7440963": {
+    "slugs": [
+      "manager124"
+    ],
+    "lastSlug": "manager124",
+    "lastUrl": "https://hashtagweb3.com/manager124",
+    "updatedAt": "2026-09-21T17:11:30.446Z"
+  },
   "7489707": {
     "slugs": [
       "engineer651",
@@ -470,6 +478,14 @@
     "lastSlug": "manager403",
     "lastUrl": "https://hashtagweb3.com/manager403",
     "updatedAt": "2026-09-15T19:45:17.848Z"
+  },
+  "8084381": {
+    "slugs": [
+      "engineer718"
+    ],
+    "lastSlug": "engineer718",
+    "lastUrl": "https://hashtagweb3.com/engineer718",
+    "updatedAt": "2026-09-21T17:11:30.259Z"
   },
   "8084476": {
     "slugs": [
@@ -2754,34 +2770,71 @@
   },
   "tangem-head-of-ai-driven-support-support-automation": {
     "slugs": [
-      "head85"
+      "head85",
+      "head7",
+      "head-of8",
+      "head3e186"
     ],
-    "lastSlug": "head85",
-    "lastUrl": "https://hashtagweb3.com/head85",
+    "lastSlug": "head3e186",
+    "lastUrl": "https://hashtagweb3.com/head3e186",
     "updatedAt": "2026-09-21T09:12:07.191Z"
   },
   "acf80ca2-7073-49aa-ab4a-7064f852d94f": {
     "slugs": [
-      "frontend54"
+      "frontend54",
+      "frontend2d94f",
+      "frontend214",
+      "frontend25",
+      "frontend-1nlit9v"
     ],
-    "lastSlug": "frontend54",
-    "lastUrl": "https://hashtagweb3.com/frontend54",
+    "lastSlug": "frontend-1nlit9v",
+    "lastUrl": "https://hashtagweb3.com/frontend-1nlit9v",
     "updatedAt": "2026-09-21T09:12:07.516Z"
   },
   "7795766003": {
     "slugs": [
-      "security132"
+      "security132",
+      "security66003",
+      "security144",
+      "security-1ume5fr"
     ],
-    "lastSlug": "security132",
-    "lastUrl": "https://hashtagweb3.com/security132",
+    "lastSlug": "security-1ume5fr",
+    "lastUrl": "https://hashtagweb3.com/security-1ume5fr",
     "updatedAt": "2026-09-21T09:12:07.819Z"
   },
   "4705306006": {
     "slugs": [
-      "sales292"
+      "sales292",
+      "sales06006",
+      "sales233",
+      "sales183"
     ],
-    "lastSlug": "sales292",
-    "lastUrl": "https://hashtagweb3.com/sales292",
+    "lastSlug": "sales183",
+    "lastUrl": "https://hashtagweb3.com/sales183",
     "updatedAt": "2026-09-21T09:12:08.097Z"
+  },
+  "4701826006": {
+    "slugs": [
+      "security177"
+    ],
+    "lastSlug": "security177",
+    "lastUrl": "https://hashtagweb3.com/security177",
+    "updatedAt": "2026-09-21T17:11:29.911Z"
+  },
+  "57f4a6737b1c": {
+    "slugs": [
+      "eng54"
+    ],
+    "lastSlug": "eng54",
+    "lastUrl": "https://hashtagweb3.com/eng54",
+    "updatedAt": "2026-09-21T17:11:30.675Z"
+  },
+  "1d398ae5f95b01": {
+    "slugs": [
+      "engineer816"
+    ],
+    "lastSlug": "engineer816",
+    "lastUrl": "https://hashtagweb3.com/engineer816",
+    "updatedAt": "2026-09-21T17:11:30.854Z"
   }
 }

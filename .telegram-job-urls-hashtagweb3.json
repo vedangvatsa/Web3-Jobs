@@ -720,6 +720,14 @@
     "lastUrl": "https://hashtagweb3.com/manager-0ptcxgh",
     "updatedAt": "2026-09-15T19:44:56.309Z"
   },
+  "8024814": {
+    "slugs": [
+      "engineer456"
+    ],
+    "lastSlug": "engineer456",
+    "lastUrl": "https://hashtagweb3.com/engineer456",
+    "updatedAt": "2026-09-21T17:11:34.211Z"
+  },
   "8025635": {
     "slugs": [
       "trader75",
@@ -1433,10 +1441,11 @@
   },
   "8110261": {
     "slugs": [
-      "sales264"
+      "sales264",
+      "sales10261"
     ],
-    "lastSlug": "sales264",
-    "lastUrl": "https://hashtagweb3.com/sales264",
+    "lastSlug": "sales10261",
+    "lastUrl": "https://hashtagweb3.com/sales10261",
     "updatedAt": "2026-09-21T09:12:10.815Z"
   },
   "8112043": {
@@ -5602,34 +5611,75 @@
   },
   "mn-senior-java-engineer-full-stack": {
     "slugs": [
-      "fullstack51"
+      "fullstack51",
+      "fullstack10"
     ],
-    "lastSlug": "fullstack51",
-    "lastUrl": "https://hashtagweb3.com/fullstack51",
+    "lastSlug": "fullstack10",
+    "lastUrl": "https://hashtagweb3.com/fullstack10",
     "updatedAt": "2026-09-21T09:12:10.239Z"
   },
   "7552818003": {
     "slugs": [
-      "product539"
+      "product539",
+      "product18003",
+      "product141"
     ],
-    "lastSlug": "product539",
-    "lastUrl": "https://hashtagweb3.com/product539",
+    "lastSlug": "product141",
+    "lastUrl": "https://hashtagweb3.com/product141",
     "updatedAt": "2026-09-21T09:12:10.588Z"
   },
   "5791948002": {
     "slugs": [
-      "eng162"
+      "eng162",
+      "engineer48002",
+      "engineer-0ecy170",
+      "eng16"
     ],
-    "lastSlug": "eng162",
-    "lastUrl": "https://hashtagweb3.com/eng162",
+    "lastSlug": "eng16",
+    "lastUrl": "https://hashtagweb3.com/eng16",
     "updatedAt": "2026-09-21T09:12:11.006Z"
   },
   "93496f20-c474-476f-80e2-e8a1ff76054f": {
     "slugs": [
-      "manager518"
+      "manager518",
+      "manager6054f",
+      "manager542",
+      "manager-1i88s9z"
     ],
-    "lastSlug": "manager518",
-    "lastUrl": "https://hashtagweb3.com/manager518",
+    "lastSlug": "manager-1i88s9z",
+    "lastUrl": "https://hashtagweb3.com/manager-1i88s9z",
     "updatedAt": "2026-09-21T09:12:11.527Z"
+  },
+  "647299a3933801": {
+    "slugs": [
+      "analyst30"
+    ],
+    "lastSlug": "analyst30",
+    "lastUrl": "https://hashtagweb3.com/analyst30",
+    "updatedAt": "2026-09-21T17:11:33.165Z"
+  },
+  "7650512003": {
+    "slugs": [
+      "manager84"
+    ],
+    "lastSlug": "manager84",
+    "lastUrl": "https://hashtagweb3.com/manager84",
+    "updatedAt": "2026-09-21T17:11:33.489Z"
+  },
+  "695bb715-230d-4394-aacd-b717d2973f12": {
+    "slugs": [
+      "sales90"
+    ],
+    "lastSlug": "sales90",
+    "lastUrl": "https://hashtagweb3.com/sales90",
+    "updatedAt": "2026-09-21T17:11:33.790Z"
+  },
+  "03fb8763-273b-409d-8eac-86116f5c93e6": {
+    "slugs": [
+      "engineer76"
+    ],
+    "lastSlug": "engineer76",
+    "lastUrl": "https://hashtagweb3.com/engineer76",
+    "updatedAt": "2026-09-21T17:11:33.991Z"
   }
 }

@@ -605,6 +605,9 @@
   "https://hashtagweb3.com/xrpl-batch?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/dtcpay-funding?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://www.coindesk.com/business/2026/09/21/live-updates-bitcoin-rises-above-usd82-000-as-falling-oil-lifts-risk-assets",
+  "https://hashtagweb3.com/waterplum?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/fca-perimeter?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://decrypt.co/378745/sony-dont-own-games-you-bought-crypto-fix-that",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -1721,6 +1724,12 @@
   "dtcpay Closes $25 Million Series A With SBI Group Investment",
   "Bitcoin rises above $83,500 as oil prices fall",
   "Live updates: Bitcoin rockets above $83,500 as falling oil lifts risk assets",
+  "North Korean group steals $10.7 million via fake job scams",
+  "North Korean WaterPlum Crew Stole $10.7M in Fake-Job Crypto Raids",
+  "FCA Releases Final Crypto Authorization Guidance for 2027",
+  "FCA Publishes Crypto Perimeter Guidance for 2027 Regime",
+  "Sony clarifies digital game ownership as crypto proposes NFT solutions",
+  "Sony Says You Don't Own the Games You Bought. Crypto Says It Can Fix That",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -1858,5 +1867,8 @@
   "fp:card|classify|clos|coin|credit|digital|eligibl|end|follow|loophol",
   "fp:activation|around|batch|bundl|eight|enabl|expect|featur|ledger|near",
   "fp:25m|capital|clos|dtcpay|expand|firm|group|investment|licens|network",
-  "fp:500|abov|ahead|asset|between|chines|cryptocurrency|equity|fall|futur"
+  "fp:500|abov|ahead|asset|between|chines|cryptocurrency|equity|fall|futur",
+  "fp:000|107m|agency|compromised30|crew|cryptocurrency|devic|fak|fraudulent|group",
+  "fp:authorization|document|domestic|effect|explain|fca|final|for2027|guidanc|licens",
+  "fp:argu|bought|can|clarify|concern|despit|digital|don|fix|gam"
 ]
