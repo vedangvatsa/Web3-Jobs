@@ -1,5 +1,5 @@
 {
-  "lastIndex": 205,
+  "lastIndex": 207,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -66,7 +66,9 @@
     "infra4",
     "mgr8",
     "pm24",
-    "aso9"
+    "aso9",
+    "sls47",
+    "pm41"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -5282,6 +5284,451 @@
       "platform": "facebook",
       "postedAt": "2026-09-18T00:28:50.769Z",
       "postId": "691827047618629_1091155000158401",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls47",
+      "company": "Coins.ph",
+      "title": "Sales Associate (Vismin)",
+      "platform": "x",
+      "postedAt": "2026-09-21T14:20:04.113Z",
+      "postId": "2102040166256816236",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls47",
+      "company": "Coins.ph",
+      "title": "Sales Associate (Vismin)",
+      "platform": "threads",
+      "postedAt": "2026-09-21T14:20:04.113Z",
+      "postId": "18133643620640172",
+      "verification": "verified",
+      "expectedText": "Coins.ph is hiring Sales Associate (Vismin): https://hashtagweb3.com/sls47/th?og=6",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DdjXEHhG6HC",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "sls47",
+      "company": "Coins.ph",
+      "title": "Sales Associate (Vismin)",
+      "platform": "bluesky",
+      "postedAt": "2026-09-21T14:20:04.113Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mvzvtkp2nt2e",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls47",
+      "company": "Coins.ph",
+      "title": "Sales Associate (Vismin)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-21T14:20:04.113Z",
+      "postId": "0x7af9e00fd564c7819837f7ca84c82d423b7b2c74",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls47",
+      "company": "Coins.ph",
+      "title": "Sales Associate (Vismin)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-21T14:20:04.113Z",
+      "postId": "0x29d09e613a43f21c6ed1c00d825a0a3c43505b13",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls47",
+      "company": "Coins.ph",
+      "title": "Sales Associate (Vismin)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-21T14:20:04.113Z",
+      "postId": "0x0a8d7b7e83d288411ad5700458b8dcdde67d98b0",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls47",
+      "company": "Coins.ph",
+      "title": "Sales Associate (Vismin)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-21T14:20:04.113Z",
+      "postId": "0x3ce2fe5c0a7e11a0bcd47730a035c4ca886364c0",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls47",
+      "company": "Coins.ph",
+      "title": "Sales Associate (Vismin)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-21T14:20:04.113Z",
+      "postId": "0xc14a53c368c6b314d20f55c6f7bbadd414352da6",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls47",
+      "company": "Coins.ph",
+      "title": "Sales Associate (Vismin)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-21T14:20:04.113Z",
+      "postId": "0x9f4f090d5ede2d1f765de09dd1ef1a0f4a977ce2",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls47",
+      "company": "Coins.ph",
+      "title": "Sales Associate (Vismin)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-21T14:20:04.113Z",
+      "postId": "0xa52e7e1f24179bae94ddca59e2656aa02567a823",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls47",
+      "company": "Coins.ph",
+      "title": "Sales Associate (Vismin)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-21T14:20:04.113Z",
+      "postId": "0x0284f8aed00222760bf1fce98b653742d3599c52",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls47",
+      "company": "Coins.ph",
+      "title": "Sales Associate (Vismin)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-21T14:20:04.113Z",
+      "postId": "0x4a00b49a30a43f2aff7ca8007c841f41ee099271",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls47",
+      "company": "Coins.ph",
+      "title": "Sales Associate (Vismin)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-21T14:20:04.113Z",
+      "postId": "0x14a02dee9fca366381b8ac82ddf474b1185c4a80",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls47",
+      "company": "Coins.ph",
+      "title": "Sales Associate (Vismin)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-21T14:20:04.113Z",
+      "postId": "0x3b411150183af63b3d6ecc80d87f73f6ba4aabd8",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls47",
+      "company": "Coins.ph",
+      "title": "Sales Associate (Vismin)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-21T14:20:04.113Z",
+      "postId": "0xdfd8a75711badec39cfc8d7405eb5c43b98dd059",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls47",
+      "company": "Coins.ph",
+      "title": "Sales Associate (Vismin)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-21T14:20:04.113Z",
+      "postId": "0x31942b9ea2229bf545b65b6eeb11c8afe8aa090a",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls47",
+      "company": "Coins.ph",
+      "title": "Sales Associate (Vismin)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-21T14:20:04.113Z",
+      "postId": "0x24bd2ca5507b06f306ed8921605760ab82519392",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls47",
+      "company": "Coins.ph",
+      "title": "Sales Associate (Vismin)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-21T14:20:04.113Z",
+      "postId": "0x33c6a3ae334855e2011011032d668d90fb7a0299",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls47",
+      "company": "Coins.ph",
+      "title": "Sales Associate (Vismin)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-21T14:20:04.113Z",
+      "postId": "0x1db53e4dcb1b73442ca9684d257365a8566741ea",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls47",
+      "company": "Coins.ph",
+      "title": "Sales Associate (Vismin)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-21T14:20:04.113Z",
+      "postId": "0x8a99ea62c54bb1ba00bb27c550e54103ec7ffa6e",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls47",
+      "company": "Coins.ph",
+      "title": "Sales Associate (Vismin)",
+      "platform": "linkedin",
+      "postedAt": "2026-09-21T14:20:04.113Z",
+      "postId": "6ab13d250774ddfe8f757b1b",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls47",
+      "company": "Coins.ph",
+      "title": "Sales Associate (Vismin)",
+      "platform": "facebook",
+      "postedAt": "2026-09-21T14:20:04.113Z",
+      "postId": "691827047618629_1094171546523413",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls47",
+      "company": "Coins.ph",
+      "title": "Sales Associate (Vismin)",
+      "platform": "instagram",
+      "postedAt": "2026-09-21T14:20:04.113Z",
+      "postId": "18045569117632788",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm41",
+      "company": "Merkle Science",
+      "title": "Senior Product Manager",
+      "platform": "threads",
+      "postedAt": "2026-09-21T14:20:56.737Z",
+      "postId": "17883648810620635",
+      "verification": "verified",
+      "expectedText": "Merkle Science is hiring Senior Product Manager: https://hashtagweb3.com/pm41/th?og=6",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DdjXKczG6Dd",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "pm41",
+      "company": "Merkle Science",
+      "title": "Senior Product Manager",
+      "platform": "bluesky",
+      "postedAt": "2026-09-21T14:20:56.737Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mvzvv3enws2n",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm41",
+      "company": "Merkle Science",
+      "title": "Senior Product Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-21T14:20:56.737Z",
+      "postId": "0x6c5cb1440ba56d84a90ab20a49e820d2b33c0a46",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm41",
+      "company": "Merkle Science",
+      "title": "Senior Product Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-21T14:20:56.737Z",
+      "postId": "0x615b75611ac133da62e1bebd20917d4fbf904661",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm41",
+      "company": "Merkle Science",
+      "title": "Senior Product Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-21T14:20:56.737Z",
+      "postId": "0x06333635789e81910b03d0e72c1647d44075c466",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm41",
+      "company": "Merkle Science",
+      "title": "Senior Product Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-21T14:20:56.737Z",
+      "postId": "0x9ad4c3eead0c8e8c5002b869132e0d1384b3b11c",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm41",
+      "company": "Merkle Science",
+      "title": "Senior Product Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-21T14:20:56.737Z",
+      "postId": "0x4a9de422b7f99fa0c19f8ae3bcef5755fd3c8d07",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm41",
+      "company": "Merkle Science",
+      "title": "Senior Product Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-21T14:20:56.737Z",
+      "postId": "0xe992aa015592f3197ed772ba99b20d0445f02952",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm41",
+      "company": "Merkle Science",
+      "title": "Senior Product Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-21T14:20:56.737Z",
+      "postId": "0x62c446c14fab7cea553bcf6f903bedb6ec437e70",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm41",
+      "company": "Merkle Science",
+      "title": "Senior Product Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-21T14:20:56.737Z",
+      "postId": "0xd4a91e4f60cb7607e1ac72242620c6706811d007",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm41",
+      "company": "Merkle Science",
+      "title": "Senior Product Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-21T14:20:56.737Z",
+      "postId": "0xad552095f1db25a5776ccb14e986baf434d95621",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm41",
+      "company": "Merkle Science",
+      "title": "Senior Product Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-21T14:20:56.737Z",
+      "postId": "0xcd2b2383bdf23a895ee5ea323191e434c56e659a",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm41",
+      "company": "Merkle Science",
+      "title": "Senior Product Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-21T14:20:56.737Z",
+      "postId": "0x3fba84ea158522b320309eddec1479fc0a55fc37",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm41",
+      "company": "Merkle Science",
+      "title": "Senior Product Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-21T14:20:56.737Z",
+      "postId": "0xf5fa5f31ebc5d1015596dd9763cc9a52dc8dfd50",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm41",
+      "company": "Merkle Science",
+      "title": "Senior Product Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-21T14:20:56.737Z",
+      "postId": "0xb95ffb487d39e4fcf67e349d7ec18dc7530890ad",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm41",
+      "company": "Merkle Science",
+      "title": "Senior Product Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-21T14:20:56.737Z",
+      "postId": "0xb115eac5c6d9937dc40a789e000463040b6bab1a",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm41",
+      "company": "Merkle Science",
+      "title": "Senior Product Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-21T14:20:56.737Z",
+      "postId": "0x57366771d06c3a5eea2a7efbc3a09b926d7ac80e",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm41",
+      "company": "Merkle Science",
+      "title": "Senior Product Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-21T14:20:56.737Z",
+      "postId": "0x9c633149c44a6955e0a0b77b34dd25da02eb388d",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm41",
+      "company": "Merkle Science",
+      "title": "Senior Product Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-21T14:20:56.737Z",
+      "postId": "0xc3d1c26ca098c636df629db125fa741ec939af9e",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm41",
+      "company": "Merkle Science",
+      "title": "Senior Product Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-09-21T14:20:56.737Z",
+      "postId": "6ab13d58b71f96bd812efad9",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm41",
+      "company": "Merkle Science",
+      "title": "Senior Product Manager",
+      "platform": "facebook",
+      "postedAt": "2026-09-21T14:20:56.737Z",
+      "postId": "691827047618629_1094171989856702",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm41",
+      "company": "Merkle Science",
+      "title": "Senior Product Manager",
+      "platform": "instagram",
+      "postedAt": "2026-09-21T14:20:56.737Z",
+      "postId": "18109336895131793",
       "verification": "verified"
     }
   ]
