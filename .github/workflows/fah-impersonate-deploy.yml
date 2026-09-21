@@ -23,7 +23,7 @@ jobs:
           do
             echo "=== impersonate $SA ==="
             gcloud auth print-access-token --impersonate-service-account="$SA" 2>&1 | head -5
-            IT=$(gcloud auth print-access-token --impersonate-service-account="$SA" 2>/dev/null)
+            IT=$(gcloud auth print-access-token --impersonate-service-account="$SA" 2>/dev/null || true)
             if [ -n "$IT" ]; then
               BUILD_ID="imp-$(date +%s)"
               echo "Creating build as $SA id=$BUILD_ID"
@@ -33,14 +33,9 @@ jobs:
               echo
             fi
           done
-          echo "=== PATCH traffic as self with alternate API version ==="
-          curl -s -X PATCH -H "Authorization: Bearer $TOKEN" -H 'Content-Type: application/json' \
-            'https://firebaseapphosting.googleapis.com/v1/projects/web3-jobs-aggregator/locations/us-central1/backends/studio/traffic?updateMask=rolloutPolicy.disabled' \
-            -d '{"rolloutPolicy":{"disabled":false}}' | head -c 1500
-          echo
-          echo "=== List FAH builds pageSize=20 filter recent ==="
+          echo "=== List FAH builds ==="
           curl -s -H "Authorization: Bearer $TOKEN" \
-            'https://firebaseapphosting.googleapis.com/v1beta/projects/web3-jobs-aggregator/locations/us-central1/backends/studio/builds?pageSize=20' \
-            | python3 -c 'import sys,json; d=json.load(sys.stdin);
-for b in d.get("builds") or []:
-  print(b.get("state"), b.get("createTime","")[:19], b.get("name","").split("/")[-1], (b.get("source") or {}).get("codebase",{}).get("hash","")[:8], (b.get("source") or {}).get("codebase",{}).get("commitMessage","")[:50])'
+            'https://firebaseapphosting.googleapis.com/v1beta/projects/web3-jobs-aggregator/locations/us-central1/backends/studio/builds?pageSize=15' \
+            > /tmp/builds.json
+          python3 -c 'import json;d=json.load(open("/tmp/builds.json"));
+[print(b.get("state"), (b.get("createTime") or "")[:19], b.get("name","").split("/")[-1], ((b.get("source") or {}).get("codebase") or {}).get("hash","")[:8], (((b.get("source") or {}).get("codebase") or {}).get("commitMessage") or "")[:60]) for b in d.get("builds") or []]'
