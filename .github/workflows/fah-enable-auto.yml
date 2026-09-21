@@ -1,0 +1,32 @@
+name: FAH enable automatic rollouts
+on: workflow_dispatch
+jobs:
+  enable:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: google-github-actions/auth@v2
+        with:
+          credentials_json: ${{ secrets.FIREBASE_APPHOSTING_SERVICE_ACCOUNT_KEY || secrets.FIREBASE_SERVICE_ACCOUNT_KEY }}
+      - uses: google-github-actions/setup-gcloud@v2
+      - name: Dump backend and try update
+        run: |
+          set +e
+          TOKEN=$(gcloud auth print-access-token)
+          echo "=== GET backend ==="
+          curl -s -H "Authorization: Bearer $TOKEN" \
+            'https://firebaseapphosting.googleapis.com/v1beta/projects/web3-jobs-aggregator/locations/us-central1/backends/studio' | tee /tmp/backend.json | head -c 4000
+          echo
+          echo "=== GET builds ==="
+          curl -s -H "Authorization: Bearer $TOKEN" \
+            'https://firebaseapphosting.googleapis.com/v1beta/projects/web3-jobs-aggregator/locations/us-central1/backends/studio/builds?pageSize=5' | head -c 4000
+          echo
+          echo "=== GET rollouts ==="
+          curl -s -H "Authorization: Bearer $TOKEN" \
+            'https://firebaseapphosting.googleapis.com/v1beta/projects/web3-jobs-aggregator/locations/us-central1/backends/studio/rollouts?pageSize=5' | head -c 4000
+          echo
+          # Try create build from main tip
+          echo "=== CREATE build ==="
+          curl -s -X POST -H "Authorization: Bearer $TOKEN" -H 'Content-Type: application/json' \
+            'https://firebaseapphosting.googleapis.com/v1beta/projects/web3-jobs-aggregator/locations/us-central1/backends/studio/builds?buildId=manual-$(date +%s)' \
+            -d '{"source":{"codebase":{"branch":"main"}}}' | tee /tmp/create-build.json | head -c 4000
+          echo
