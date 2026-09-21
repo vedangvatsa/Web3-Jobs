@@ -47,6 +47,26 @@ const JOB_URLS: Array<{ id: string; link: string; department?: string }> = [
     link: 'https://www.amazon.jobs/en/jobs/10537187/senior-bdm-law-enforcement-global-government-business-development',
     department: 'AWS Global Public Sector',
   },
+  {
+    id: '3184340',
+    link: 'https://www.amazon.jobs/en/jobs/3184340/senior-portfolio-growth-manager-digital-native-aws-worldwide-startups',
+    department: 'AWS Worldwide Startups',
+  },
+  {
+    id: '10452715',
+    link: 'https://www.amazon.jobs/en/jobs/10452715/sr-account-manager-startups',
+    department: 'AWS Startups',
+  },
+  {
+    id: '10458549',
+    link: 'https://www.amazon.jobs/en/jobs/10458549/business-development-representative-web3-fsi-dnb',
+    department: 'AWS Financial Services',
+  },
+  {
+    id: '10479738',
+    link: 'https://www.amazon.jobs/en/jobs/10479738/solutions-architect-web3',
+    department: 'AWS',
+  },
 ];
 
 function decodeHtml(text: string): string {
