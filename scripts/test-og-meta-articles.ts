@@ -49,7 +49,7 @@ async function main() {
     const req = new NextRequest(`https://hashtagweb3.com${path}`, {
       headers: { 'user-agent': 'LinkedInBot/1.0' },
     });
-    const res = middleware(req);
+    const res = await middleware(req);
     const rewrite = res.headers.get('x-middleware-rewrite') || '';
     const rewriteUrl = rewrite ? new URL(rewrite) : null;
     assert(
