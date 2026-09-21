@@ -19,7 +19,7 @@
     "prebuild": "npx tsx scripts/prebuild-data-prep.ts && npx tsx scripts/prebuild-deploy-gates.ts && npx tsx scripts/prebuild-sitemap-if-needed.ts && npx tsx scripts/prebuild-og-step.ts",
     "precompute:og-images": "npx tsx scripts/precompute-og-images.ts",
     "precompute:og-previews": "npx tsx scripts/precompute-og-previews.ts",
-    "precompute:og-incremental": "npx tsx scripts/precompute-og-images.ts && npx tsx scripts/prune-stale-og-pngs.ts && npx tsx scripts/precompute-og-previews.ts",
+    "precompute:og-incremental": "npx tsx scripts/precompute-og-images.ts --if-missing && npx tsx scripts/prune-stale-og-pngs.ts && npx tsx scripts/precompute-og-previews.ts",
     "recompress:og-pngs": "npx tsx scripts/recompress-og-pngs.ts",
     "prune:stale-event-covers": "npx tsx scripts/prune-stale-event-covers.ts",
     "backfill:missing-event-covers": "npx tsx scripts/backfill-missing-event-covers.ts",
