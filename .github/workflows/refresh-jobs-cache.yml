@@ -1,8 +1,8 @@
 name: Publish Jobs, Events & Social
 
-# Three scheduled runs a day. The 03:30 UTC run also ingests jobs, sends
-# the Resend alert, and posts one job opening. 11:30 and 19:30 only publish
-# news, events, and Telegram.
+# Three scheduled runs a day, 8 hours apart. Each run posts to every
+# social platform and to Telegram. The 03:30 UTC run also ingests jobs
+# and sends the Resend alert.
 
 on:
   schedule:
@@ -55,7 +55,7 @@ jobs:
 
   post-openings:
     needs: [ingest]
-    if: ${{ always() && github.event.schedule == '30 3 * * *' && needs.ingest.result != 'cancelled' }}
+    if: ${{ always() && github.event_name == 'schedule' && needs.ingest.result != 'cancelled' }}
     permissions:
       contents: write
       checks: read
