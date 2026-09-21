@@ -449,14 +449,16 @@ async function postOnce() {
   console.log(`  ${nativeStories.length} native stories ready`);
 
   const rssSlots = STORIES_PER_POST - nativeStories.length;
+  const nativeTitles = freshNative.map((item) => item.title);
+  const freshExternal = fresh.filter((item) => !alreadyCovered(item.title, nativeTitles) && !nativeTitles.some((title) => sameEvent(item.title, title)));
   let stories = [];
-  if (rssSlots <= 0 || fresh.length === 0) {
+  if (rssSlots <= 0 || freshExternal.length === 0) {
     console.log('  Native stories fill the digest, skipping RSS this run');
   } else {
   console.log('🤖 Asking Gemini to filter & summarize...');
   const recentHeadlines = recentCovered.filter((h) => !String(h).startsWith('fp:')).slice(-80);
-  const pickCount = Math.min(rssSlots, fresh.length);
-  const rawStories = await filterAndSummarize(fresh, recentHeadlines, pickCount);
+  const pickCount = Math.min(rssSlots, freshExternal.length);
+  const rawStories = await filterAndSummarize(freshExternal, recentHeadlines, pickCount);
 
   // Programmatically validate and deduplicate Gemini's selection
   const seenIndices = new Set();
@@ -464,7 +466,7 @@ async function postOnce() {
 
   for (const story of rawStories) {
     const idx = story.index;
-    const originalItem = fresh[idx - 1];
+    const originalItem = freshExternal[idx - 1];
     if (!originalItem) continue; // Out of bounds
     if (seenIndices.has(idx)) continue; // Duplicate index selection
 
