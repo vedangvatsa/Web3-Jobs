@@ -7,7 +7,7 @@
     "name": "Hashtag Web3",
     "url": "https://hashtagweb3.com"
   },
-  "count": 8363,
+  "count": 8361,
   "urls": [
     {
       "url": "https://hashtagweb3.com",
@@ -60,12 +60,6 @@
     {
       "url": "https://hashtagweb3.com/1inch",
       "lastmod": "2026-09-14",
-      "changefreq": "weekly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/1pvh",
-      "lastmod": "2026-09-21",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -47498,12 +47492,6 @@
       "lastmod": "2026-04-03",
       "changefreq": "daily",
       "priority": 0.8
-    },
-    {
-      "url": "https://hashtagweb3.com/trading-tournament",
-      "lastmod": "2026-09-14",
-      "changefreq": "weekly",
-      "priority": 0.6
     },
     {
       "url": "https://hashtagweb3.com/traditional",
