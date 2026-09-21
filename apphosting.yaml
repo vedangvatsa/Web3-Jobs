@@ -28,6 +28,14 @@ env:
       - BUILD
       - RUNTIME
 
+  # Full OG card + preview render during the build (public/og is gitignored,
+  # so git-built hosts would otherwise serve 404 share cards). Fingerprint-
+  # gated in steady state, but a fresh build renders everything (~6.3k cards).
+  - variable: OG_PRECOMPUTE
+    value: 1
+    availability:
+      - BUILD
+
 runConfig:
   cpu: 1
   memoryMiB: 2048
