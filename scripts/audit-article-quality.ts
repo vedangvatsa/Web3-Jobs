@@ -5,6 +5,8 @@ import matter from 'gray-matter';
 const articlesDirectory = path.join(process.cwd(), 'content/articles');
 const minimumWords = 1500;
 const minimumNewsWords = 600;
+const minimumNewsSourceHosts = 3;
+const newsSourceRuleFrom = '2026-09-22';
 const reportOnly = process.argv.includes('--report');
 const verbose = process.argv.includes('--verbose');
 const articleFiles = fs.readdirSync(articlesDirectory)
@@ -126,6 +128,20 @@ function hasReferenceDump(content: string): boolean {
   return false;
 }
 
+function newsSourceHosts(content: string): string[] {
+  const hosts = new Set<string>();
+  for (const match of content.matchAll(/\[[^\]]*\]\((https?:\/\/[^)\s]+)\)/g)) {
+    try {
+      const host = new URL(match[1]).hostname.replace(/^www\./, '').toLowerCase();
+      if (host === 'hashtagweb3.com' || host.endsWith('.hashtagweb3.com')) continue;
+      hosts.add(host);
+    } catch {
+      continue;
+    }
+  }
+  return [...hosts];
+}
+
 const issues: ArticleIssue[] = [];
 for (const file of articleFiles) {
   const { data, content } = matter(fs.readFileSync(path.join(articlesDirectory, file), 'utf8'));
@@ -164,6 +180,13 @@ for (const file of articleFiles) {
       })
       .map((pattern) => pattern.source.replace(/\\b|\\/g, ''));
     if (matchedNewsPatterns.length) articleIssues.push(`news template phrasing: ${matchedNewsPatterns.join(', ')}`);
+    const published = typeof data.publishedDate === 'string' ? data.publishedDate.slice(0, 10) : '';
+    if (published >= newsSourceRuleFrom) {
+      const hosts = newsSourceHosts(content);
+      if (hosts.length < minimumNewsSourceHosts) {
+        articleIssues.push(`needs ${minimumNewsSourceHosts} external sources, found ${hosts.length}`);
+      }
+    }
   }
 
   if (articleIssues.length) issues.push({ file, words, issues: articleIssues });
