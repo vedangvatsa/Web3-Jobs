@@ -6,7 +6,7 @@ on:
       backend:
         description: App Hosting backend ID
         required: true
-        default: web3-jobs-aggregator
+        default: studio
       project_id:
         description: Firebase / GCP project ID
         required: true
@@ -42,14 +42,20 @@ jobs:
         run: |
           set -euo pipefail
           npm install -g firebase-tools@latest
-          COMMIT="${GIT_COMMIT:-}"
-          if [ -z "$COMMIT" ]; then
-            COMMIT="$(git rev-parse HEAD)"
+          echo "Listing backends..."
+          firebase apphosting:backends:list --project "$PROJECT_ID" --non-interactive
+          if [ -n "${GIT_COMMIT:-}" ]; then
+            echo "Creating rollout for backend=$BACKEND_ID project=$PROJECT_ID commit=$GIT_COMMIT"
+            firebase apphosting:rollouts:create "$BACKEND_ID" \
+              --project "$PROJECT_ID" \
+              --git-commit "$GIT_COMMIT" \
+              --force \
+              --non-interactive
+          else
+            echo "Creating rollout for backend=$BACKEND_ID project=$PROJECT_ID branch=main"
+            firebase apphosting:rollouts:create "$BACKEND_ID" \
+              --project "$PROJECT_ID" \
+              --git-branch main \
+              --force \
+              --non-interactive
           fi
-          echo "Creating rollout for backend=$BACKEND_ID project=$PROJECT_ID commit=$COMMIT"
-          firebase apphosting:backends:list --project "$PROJECT_ID" --non-interactive || true
-          firebase apphosting:rollouts:create "$BACKEND_ID" \
-            --project "$PROJECT_ID" \
-            --git-commit "$COMMIT" \
-            --force \
-            --non-interactive

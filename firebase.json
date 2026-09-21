@@ -1,6 +1,6 @@
 {
   "apphosting": {
-    "backendId": "web3-jobs-aggregator",
+    "backendId": "studio",
     "rootDir": "/"
   },
   "firestore": {
