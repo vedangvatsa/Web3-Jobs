@@ -99,7 +99,7 @@ export default function JobsPage() {
             </Link>
           </div>
         </div>
-        <JobBoard initialJobs={initialJobs} initialTotal={totalJobs} companyLogos={companyLogos} />
+        <JobBoard initialJobs={initialJobs} initialTotal={totalJobs} companyLogos={companyLogos} showResultCount={false} />
       </PageShell>
     </main>
    </div>
