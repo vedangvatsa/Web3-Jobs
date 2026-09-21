@@ -593,6 +593,9 @@
   "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
   "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
   "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
+  "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/",
+  "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/",
+  "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1562,6 +1565,12 @@
   "6 days left to save up to $200 to TechCrunch Disrupt 2026",
   "World model AI companies keep their projects secret",
   "World model companies are keeping a lot of secrets",
+  "Mozilla report shows open AI models closing capability gap",
+  "Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost",
+  "Federal website briefly used Chinese AI model flagged by FBI",
+  "US government website used Chinese model the FBI called \"malicious\"",
+  "Former accountant creates AI tool Tabby for real-time bookkeeping",
+  "With Tabby, a former accountant is using AI to make accountants obsolete",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -1672,5 +1681,8 @@
   "fp:act|appropriately|attempt|away|breach|confirm|end|every|gemini|googl",
   "fp:accidentally|bypass|can|caus|differently|digital|discover|embedd|fulfill|googl",
   "fp:200|attende|can|day|discount|disrupt2026|end|fee|increas|left",
-  "fp:are|build|despit|disclos|fund|interest|keep|lot|project|public"
+  "fp:are|build|despit|disclos|fund|interest|keep|lot|project|public",
+  "fp:buys4|capability|clos|cost|despit|develop|exclusiv|fiv|four|frontier",
+  "fp:briefly|call|chines|develop|fbi|federal|firm|flagg|government|integrat",
+  "fp:accountant|bookkeep|business|client|creat|data|former|loss|mak|manag"
 ]

@@ -90,10 +90,12 @@
   },
   "7440963": {
     "slugs": [
-      "manager124"
+      "manager124",
+      "manager40963",
+      "manager-1riw49c"
     ],
-    "lastSlug": "manager124",
-    "lastUrl": "https://hashtagweb3.com/manager124",
+    "lastSlug": "manager-1riw49c",
+    "lastUrl": "https://hashtagweb3.com/manager-1riw49c",
     "updatedAt": "2026-09-21T17:11:30.446Z"
   },
   "7489707": {
@@ -481,10 +483,13 @@
   },
   "8084381": {
     "slugs": [
-      "engineer718"
+      "engineer718",
+      "engineer84381",
+      "engineer723",
+      "engineer-15je4go"
     ],
-    "lastSlug": "engineer718",
-    "lastUrl": "https://hashtagweb3.com/engineer718",
+    "lastSlug": "engineer-15je4go",
+    "lastUrl": "https://hashtagweb3.com/engineer-15je4go",
     "updatedAt": "2026-09-21T17:11:30.259Z"
   },
   "8084476": {
@@ -2815,10 +2820,12 @@
   },
   "4701826006": {
     "slugs": [
-      "security177"
+      "security177",
+      "security26006",
+      "security-1d09o1j"
     ],
-    "lastSlug": "security177",
-    "lastUrl": "https://hashtagweb3.com/security177",
+    "lastSlug": "security-1d09o1j",
+    "lastUrl": "https://hashtagweb3.com/security-1d09o1j",
     "updatedAt": "2026-09-21T17:11:29.911Z"
   },
   "57f4a6737b1c": {
@@ -2831,10 +2838,14 @@
   },
   "1d398ae5f95b01": {
     "slugs": [
-      "engineer816"
+      "engineer816",
+      "engineer95b01",
+      "engineer829",
+      "engineer300",
+      "engineer-0tewxyy"
     ],
-    "lastSlug": "engineer816",
-    "lastUrl": "https://hashtagweb3.com/engineer816",
+    "lastSlug": "engineer-0tewxyy",
+    "lastUrl": "https://hashtagweb3.com/engineer-0tewxyy",
     "updatedAt": "2026-09-21T17:11:30.854Z"
   }
 }
