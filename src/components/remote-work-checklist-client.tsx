@@ -185,9 +185,9 @@ export function RemoteWorkChecklistClient() {
   };
 
   return (
-    <div className="site-container space-y-8">
+    <div className="space-y-8">
       <ToolUsageTracker toolName="Remote Work Checklist" />
-      <section className="text-center mb-8 site-container">
+      <section className="text-center mb-8">
         <PageHeader
           title="Remote Work Readiness Checklist"
           description="Optimize your workspace, digital security, communication tools, and workflow for peak productivity."

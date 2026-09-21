@@ -148,11 +148,11 @@ export function WorkLifeBalanceSurveyForm() {
   );
 
   return (
-    <div className="container mx-auto py-12">
-      <Card className="site-container">
+    <div className="space-y-8">
+      <Card>
         <CardHeader className="text-center">
           <CardTitle className="text-3xl">Work-Life Balance Survey Builder</CardTitle>
-          <CardDescription className="site-container">
+          <CardDescription>
             Use this anonymous survey to get an honest assessment of your team&apos;s work-life
             balance. Understanding workload, stress levels, and support systems is key to
             preventing burnout and building a sustainable, high-performing team.

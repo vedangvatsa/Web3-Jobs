@@ -118,11 +118,11 @@ export function InterviewFeedbackForm() {
   });
 
   return (
-    <div className="container mx-auto py-12">
-      <Card className="site-container">
+    <div className="space-y-8">
+      <Card>
         <CardHeader className="text-center">
           <CardTitle className="text-3xl">Interview Feedback Template</CardTitle>
-          <CardDescription className="site-container">
+          <CardDescription>
             A structured feedback form is essential for a fair and effective hiring process. It helps
             reduce bias by ensuring all candidates are evaluated against the same criteria and provides
             clear, actionable data for debrief sessions.

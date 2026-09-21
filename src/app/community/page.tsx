@@ -1,6 +1,6 @@
 import { getAllArticles } from '@/lib/articles';
 import { getJobs } from '@/lib/jobs';
-import { getNewsFeed } from '@/lib/news';
+import { getNewsListingItems } from '@/lib/news';
 import { buildCompanyLogoMap } from '@/lib/job-listing';
 import { CommunityPageContent } from '@/components/community-page-content';
 import { Metadata } from 'next';
@@ -39,8 +39,8 @@ export default async function Page() {
   const allJobs = await getJobs();
   const latestJobs = allJobs.slice(0, 9);
   const companyLogos = await buildCompanyLogoMap(latestJobs);
-  const latestArticles = (await getAllArticles()).slice(0, 6);
-  const latestNews = (await getNewsFeed()).slice(0, 9);
+  const latestArticles = (await getAllArticles()).slice(0, 9);
+  const latestNews = (await getNewsListingItems()).slice(0, 9);
 
   const siteUrl = 'https://hashtagweb3.com';
   const pageSchema: WithContext<WebPage> = {

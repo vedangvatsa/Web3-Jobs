@@ -203,11 +203,11 @@ export function EmployeeMilestonesForm() {
   };
 
   return (
-    <div className="container mx-auto py-12">
-      <Card className="site-container">
+    <div className="space-y-8">
+      <Card>
         <CardHeader className="text-center">
           <CardTitle className="text-3xl">Employee Milestones Tracker</CardTitle>
-          <CardDescription className="site-container">
+          <CardDescription>
             A structured 30-60-90 day plan is crucial for aligning new hires with company goals and
             ensuring their success. This tool helps managers and employees collaboratively define key
             objectives and measurable milestones for the initial period of employment.

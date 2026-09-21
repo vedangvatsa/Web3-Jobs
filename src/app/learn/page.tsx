@@ -51,14 +51,12 @@ export default function LearnPage() {
       <main className="flex-grow">
         <PageShell>
           <section className="text-center mb-8">
-            <div className="site-container">
               <PageHeader
                 title="Learn Web3"
               />
-            </div>
           </section>
 
-          <div className="site-container space-y-10">
+          <div className="space-y-10">
             {/* Core course - prominent */}
             {coreCategory && (
               <div>

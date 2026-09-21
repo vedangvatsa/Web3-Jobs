@@ -3,6 +3,7 @@
 
 import { Web3CareerQuiz } from '@/components/web3-career-quiz';
 import { ToolUsageTracker } from '@/components/tracking/tool-usage-tracker';
+import { ToolPageFrame } from '@/components/page-shell';
 
 const schemaJson = JSON.stringify({
  '@context': 'https://schema.org',
@@ -18,13 +19,11 @@ const schemaJson = JSON.stringify({
 
 export default function Web3CareerQuizPage() {
  return (
-  <div className="flex flex-col min-h-screen">
+  <ToolPageFrame>
    <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: schemaJson }} />
-      <main className="flex-1 flex items-center justify-center p-4">
-    <h1 className="sr-only">Web3 Career Archetype Quiz</h1>
-    <ToolUsageTracker toolName="Web3 Career Quiz" />
-    <Web3CareerQuiz />
-   </main>
-  </div>
+   <h1 className="sr-only">Web3 Career Archetype Quiz</h1>
+   <ToolUsageTracker toolName="Web3 Career Quiz" />
+   <Web3CareerQuiz />
+  </ToolPageFrame>
  );
 }

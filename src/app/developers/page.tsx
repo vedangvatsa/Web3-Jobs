@@ -64,7 +64,7 @@ export default function DevelopersPage() {
     <main>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schemaData) }} />
       <PageShell>
-        <div className="site-container space-y-16 py-6 sm:space-y-20 sm:py-10">
+        <div className="space-y-16 py-6 sm:space-y-20 sm:py-10">
           <EditorialPageHero
             eyebrow="Developer portal"
             title="Hashtag Web3 API & Developer Portal"

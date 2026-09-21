@@ -102,8 +102,8 @@ export function EmployeeExitSurveyForm() {
   const watchedForm = useWatch({ control: form.control });
 
   return (
-    <div className="container mx-auto py-12">
-      <Card className="site-container">
+    <div className="space-y-8">
+      <Card>
         <CardHeader className="text-center">
           <CardTitle className="text-3xl">Employee Exit Survey Tool</CardTitle>
           <CardDescription>Gather valuable feedback from departing employees.</CardDescription>

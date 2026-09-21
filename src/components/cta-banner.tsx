@@ -47,7 +47,7 @@ const PRESET_CONFIG: Record<
   },
   news: {
     title: 'Stay Ahead of Web3 News',
-    description: `Join over ${SITE_STATS.telegramNewsSubscribersFormatted} readers for instant breaking news, protocol updates, and industry insights.`,
+    description: `Join ${SITE_STATS.telegramNewsSubscribersFormatted} subscribers for instant web3-news notifications.`,
     buttonText: 'Join News Feed',
     href: SITE_STATS.telegramNewsUrl,
     trackingAction: 'join_news_feed',
@@ -83,7 +83,7 @@ export function CtaBanner({
   };
 
   return (
-    <Card className={cn('mt-12 site-container bg-muted/30 border shadow-none', className)}>
+    <Card className={cn('mt-12 w-full bg-muted/30 border shadow-none', className)}>
       <CardContent className="p-8 flex flex-col md:flex-row items-center justify-between gap-6 text-center md:text-left">
         <div>
           <h3 className="text-xl font-bold text-foreground mb-1">{finalTitle}</h3>

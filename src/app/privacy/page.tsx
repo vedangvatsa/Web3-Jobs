@@ -8,7 +8,7 @@ export default function PrivacyPage() {
     <div className="flex flex-col min-h-screen">
       <main className="flex-1">
         <PageShell>
-          <div className="site-container space-y-10">
+          <div className="space-y-10">
             
             {/* Header */}
             <section className="text-center">

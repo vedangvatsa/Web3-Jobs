@@ -149,7 +149,6 @@ export default function FreelanceRatesPage() {
         <ToolUsageTracker toolName="Freelance Rates by Industry" />
         <PageShell>
           <section className="text-center mb-8">
-            <div className="site-container">
               <PageHeader
                 title="Freelance Rates by Industry"
                 description="Compare benchmark ranges by industry and estimate your pricing by experience, region, and project scope."
@@ -157,10 +156,9 @@ export default function FreelanceRatesPage() {
               <Badge variant="secondary" className="mt-3">
                 2026 Benchmarks
               </Badge>
-            </div>
           </section>
 
-          <section className="site-container">
+          <section>
             <h2 className="sr-only">Freelance rate calculator and benchmarks</h2>
             <div className="mb-8 grid gap-6 md:grid-cols-2">
               <Card className="border-border/70 bg-card shadow-none">

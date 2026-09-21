@@ -1,7 +1,7 @@
 
 import React from 'react';
 import { getArticle, getAllArticles } from '@/lib/articles';
-import { getNewsFeed } from '@/lib/news';
+import { getNewsListingItems } from '@/lib/news';
 import { getTerm, getAllTerms } from '@/lib/glossary';
 import { getResourceByCanonicalSlug, getAllResourcePages } from '@/lib/pseo';
 import { notFound, permanentRedirect, redirect } from 'next/navigation';
@@ -23,7 +23,7 @@ import { ArticleViewTracker } from '@/components/tracking/article-view-tracker';
 import { PageHeader } from "@/components/page-header";
 import { PageShell } from "@/components/page-shell";
 import { CtaBanner } from "@/components/cta-banner";
-import { getEventSlug, getEventEcosystems, getEventDatePill, formatEventDate, generateGoogleCalendarUrl, formatEventLocation, normalizeCountry } from '@/lib/events';
+import { getEventSlug, getEventEcosystems, getEventDatePill, formatEventDate, formatEventLocation, normalizeCountry } from '@/lib/events';
 import { getEventExternalUrl } from '@/lib/event-external-url';
 import { getPublicEvent } from '@/lib/event-public';
 import { buildGoogleEventSchema } from '@/lib/event-schema';
@@ -39,6 +39,7 @@ import { EventSideEvents } from '@/components/token2049-side-events';
 import { DirectoryDisclaimer } from '@/components/directory-disclaimer';
 import { getEventBySlug, getEvents, getRelatedEvents } from '@/lib/events-server';
 import { Button } from '@/components/ui/button';
+import { PrimaryActionLink } from '@/components/primary-action-link';
 import { Calendar, MapPin, ExternalLink, ArrowRight } from 'lucide-react';
 import {
   buildUniqueJobMetaDescription,
@@ -453,7 +454,6 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     const partnerOfferUrl = event.partnerOffer?.url
       ? getEventExternalUrl({ registrationUrl: event.partnerOffer.url, website: undefined, url: '' })
       : undefined;
-    const googleCalendarUrl = generateGoogleCalendarUrl(event, eventExternalUrl);
     const allEvents = await getEvents();
     const relatedEvents = (await getRelatedEvents(event, 3, allEvents)).map(getPublicEvent);
     const sideEvents = allEvents
@@ -520,22 +520,12 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                   </>
                 }
                 actions={
-                  <>
-                    {eventExternalUrl && (
-                      <Button asChild className="flex-1 gap-2 whitespace-nowrap sm:flex-none">
-                        <a href={eventExternalUrl} target="_blank" rel="noopener noreferrer nofollow" className="whitespace-nowrap">
-                          <span>Details</span>
-                          <ExternalLink className="h-4 w-4 shrink-0" />
-                        </a>
-                      </Button>
-                    )}
-                    {event.eventStatus !== 'EventPostponed' && <Button asChild variant="outline" className="flex-1 gap-2 whitespace-nowrap sm:flex-none">
-                      <a href={googleCalendarUrl} target="_blank" rel="noopener noreferrer" className="whitespace-nowrap">
-                        <Calendar className="h-4 w-4 shrink-0 text-muted-foreground" />
-                        <span className="whitespace-nowrap">Add to Calendar</span>
-                      </a>
-                    </Button>}
-                  </>
+                  eventExternalUrl ? (
+                    <PrimaryActionLink href={eventExternalUrl} target="_blank" rel="noopener noreferrer nofollow">
+                      Details
+                      <ExternalLink className="h-4 w-4" aria-hidden="true" />
+                    </PrimaryActionLink>
+                  ) : undefined
                 }
               />
 
@@ -774,7 +764,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
   const scholarlyCategories = ["AI & The Future of Work","Web3 Career Guides"];
   const isScholarly = scholarlyCategories.includes(article.category);
   const isNews = article.category === 'News';
-  const newsItems = isNews ? await getNewsFeed() : undefined;
+  const newsItems = isNews ? await getNewsListingItems() : undefined;
 
  const faqSchema = article.rawContent ? extractFAQSchema(article.rawContent) : null;
  const howToSchema = article.rawContent ? extractHowToSchema(article.rawContent, article.title, article.description) : null;

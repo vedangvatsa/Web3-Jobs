@@ -19,7 +19,7 @@ export default function AboutPage() {
   return (
     <main>
       <PageShell>
-        <div className="site-container space-y-16 py-6 sm:space-y-20 sm:py-10">
+        <div className="space-y-16 py-6 sm:space-y-20 sm:py-10">
           <EditorialPageHero
             eyebrow="About Hashtag Web3"
             title="Career infrastructure for an open internet."

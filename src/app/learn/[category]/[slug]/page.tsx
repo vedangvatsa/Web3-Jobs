@@ -7,6 +7,7 @@ import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import type { Metadata } from 'next';
 import type { TechArticle, BreadcrumbList, WithContext } from 'schema-dts';
+import { PageShell } from '@/components/page-shell';
 
 interface Props {
  params: Promise<{ category: string; slug: string }>;
@@ -126,7 +127,7 @@ export default async function LessonPage({ params }: Props) {
     dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
    />
       <main className="flex-grow">
-    <div className="site-container page-section">
+    <PageShell>
      <div className="flex flex-col lg:flex-row gap-8 lg:gap-12">
       {/* Sidebar */}
       <aside className="hidden lg:block w-56 shrink-0">
@@ -220,7 +221,7 @@ export default async function LessonPage({ params }: Props) {
        </div>
       </article>
      </div>
-    </div>
+    </PageShell>
    </main>
   </div>
  );

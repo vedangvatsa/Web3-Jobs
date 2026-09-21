@@ -169,7 +169,7 @@ export const popupData: Popup[] = [
       "Longevity"
     ],
     "website": "https://www.akiyacollective.org",
-    "image": "/popups/akiyacollective.webp",
+    "image": "/images/popups/akiyacollective.webp",
     "foundedYear": 2024,
     "sources": [
       "ns"
@@ -307,7 +307,7 @@ export const popupData: Popup[] = [
       "Governance"
     ],
     "website": "https://amagi.life",
-    "image": "/popups/amagilife.webp",
+    "image": "/images/popups/amagilife.webp",
     "sources": [
       "ns"
     ],
@@ -381,7 +381,7 @@ export const popupData: Popup[] = [
       "Business"
     ],
     "website": "https://thearccity.com",
-    "image": "/popups/arc.webp",
+    "image": "/images/popups/arc.webp",
     "foundedYear": 2024,
     "sources": [
       "ns",
@@ -483,7 +483,7 @@ export const popupData: Popup[] = [
       "Tech"
     ],
     "website": "https://arkpad.co",
-    "image": "/popups/arkpad.webp",
+    "image": "/images/popups/arkpad.webp",
     "sources": [
       "ns"
     ],
@@ -608,7 +608,7 @@ export const popupData: Popup[] = [
       "Crypto"
     ],
     "website": "https://www.bitcoinchiangmai.org",
-    "image": "/popups/bitcoincenter.webp",
+    "image": "/images/popups/bitcoincenter.webp",
     "sources": [
       "ns"
     ],
@@ -650,7 +650,7 @@ export const popupData: Popup[] = [
       "AI"
     ],
     "website": "https://luma.com/cursorcommunity",
-    "image": "/popups/cafecursor.webp",
+    "image": "/images/popups/cafecursor.webp",
     "sources": [
       "ns"
     ],
@@ -742,7 +742,7 @@ export const popupData: Popup[] = [
       "Governance"
     ],
     "website": "https://www.morazan.city",
-    "image": "/popups/morazan.webp",
+    "image": "/images/popups/morazan.webp",
     "sources": [
       "ns"
     ],
@@ -832,7 +832,7 @@ export const popupData: Popup[] = [
       "Governance"
     ],
     "website": "https://www.commons-hub.at",
-    "image": "/popups/commonshub.webp",
+    "image": "/images/popups/commonshub.webp",
     "sources": [
       "ns"
     ],
@@ -1011,7 +1011,7 @@ export const popupData: Popup[] = [
       "Culture"
     ],
     "website": "https://culdesac.com",
-    "image": "/popups/culdesac.webp",
+    "image": "/images/popups/culdesac.webp",
     "sources": [
       "ns"
     ],
@@ -1475,7 +1475,7 @@ export const popupData: Popup[] = [
       "Tech"
     ],
     "website": "https://futura.camp",
-    "image": "/popups/zuberlin.webp",
+    "image": "/images/popups/zuberlin.webp",
     "sources": [
       "ns"
     ],
@@ -1562,7 +1562,7 @@ export const popupData: Popup[] = [
       "Business"
     ],
     "website": "https://gmc.bt",
-    "image": "/popups/gelephu.webp",
+    "image": "/images/popups/gelephu.webp",
     "sources": [
       "ns"
     ],
@@ -1639,7 +1639,7 @@ export const popupData: Popup[] = [
       "Tech"
     ],
     "website": "https://www.hackerresidencygroup.com",
-    "image": "/popups/hrg.webp",
+    "image": "/images/popups/hrg.webp",
     "sources": [
       "ns"
     ],
@@ -2330,7 +2330,7 @@ export const popupData: Popup[] = [
       "Crypto"
     ],
     "website": "https://lnk.bio/mtndao",
-    "image": "/popups/mountaindao.webp",
+    "image": "/images/popups/mountaindao.webp",
     "sources": [
       "ns"
     ],
@@ -2573,7 +2573,7 @@ export const popupData: Popup[] = [
       "Tech"
     ],
     "website": "https://www.noma-collective.com",
-    "image": "/popups/nomacollective.webp",
+    "image": "/images/popups/nomacollective.webp",
     "sources": [
       "ns"
     ],
@@ -2648,7 +2648,7 @@ export const popupData: Popup[] = [
       "Tech"
     ],
     "website": "https://nomad.homes",
-    "image": "/popups/nomad.webp",
+    "image": "/images/popups/nomad.webp",
     "sources": [
       "ns"
     ],
@@ -2868,7 +2868,7 @@ export const popupData: Popup[] = [
       "Tech"
     ],
     "website": "https://www.proto.town",
-    "image": "/popups/prototown.webp",
+    "image": "/images/popups/prototown.webp",
     "sources": [
       "ns"
     ],
@@ -2963,7 +2963,7 @@ export const popupData: Popup[] = [
       "Governance"
     ],
     "website": "https://rns.id",
-    "image": "/popups/rnsid.webp",
+    "image": "/images/popups/rnsid.webp",
     "sources": [
       "ns"
     ],
@@ -3144,7 +3144,7 @@ export const popupData: Popup[] = [
       "Business"
     ],
     "website": "https://www.starbase.texas.gov",
-    "image": "/popups/starbase.webp",
+    "image": "/images/popups/starbase.webp",
     "sources": [
       "ns"
     ],
@@ -3383,7 +3383,7 @@ export const popupData: Popup[] = [
       "Culture"
     ],
     "website": "https://www.traditionaldreamfactory.com",
-    "image": "/popups/traditionaldreamfactory.webp",
+    "image": "/images/popups/traditionaldreamfactory.webp",
     "sources": [
       "ns"
     ],
@@ -3465,7 +3465,7 @@ export const popupData: Popup[] = [
       "Culture"
     ],
     "website": "https://vibe.camp",
-    "image": "/popups/vibecamp.webp",
+    "image": "/images/popups/vibecamp.webp",
     "sources": [
       "ns"
     ],

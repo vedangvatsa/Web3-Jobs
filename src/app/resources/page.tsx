@@ -128,15 +128,13 @@ export default function ResourcesPage() {
       <main className="flex-1">
         <PageShell>
           <section className="text-center mb-8">
-            <div className="site-container">
               <PageHeader
                 title="Web3 Career Resources & Tools"
                 description="Free calculators, interview kits, and role-specific guides for Web3 professionals and decentralized teams."
               />
-            </div>
           </section>
 
-          <div className="site-container space-y-12">
+          <div className="space-y-12">
             {/* For Job Seekers */}
             <section>
               <div className="mb-4">

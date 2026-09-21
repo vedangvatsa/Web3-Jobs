@@ -7,6 +7,7 @@ import { notFound } from 'next/navigation';
 import type { Metadata } from 'next';
 import { generateCollectionPageSchema } from '@/lib/seo-utils';
 import { PageHeader } from "@/components/page-header";
+import { PageShell } from '@/components/page-shell';
 
 // Category descriptions
 const CATEGORY_CONTENT: Record<string, { description: string }> = {
@@ -143,7 +144,7 @@ export default async function CategoryPage({
       <main className="flex-grow">
     {/* Hero Section */}
     <section className="border-b">
-      <div className="site-container page-section">
+      <PageShell>
       <div className="max-w-3xl">
        <nav className="mb-8 flex flex-wrap gap-2 text-sm text-muted-foreground" aria-label="Breadcrumb">
         <Link href="/" className="hover:text-foreground">Home</Link>
@@ -181,12 +182,12 @@ export default async function CategoryPage({
          </div>
         )}
        </div>
-      </div>
-     </div>
+       </div>
+      </PageShell>
     </section>
 
     {/* Terms Grid */}
-    <section className="site-container py-12">{/* Beginner Terms */}
+    <PageShell className="py-12">{/* Beginner Terms */}
      {beginnerTerms.length > 0 && (
       <div className="mb-12">
        <div className="flex items-center gap-3 mb-6">
@@ -263,7 +264,7 @@ export default async function CategoryPage({
        </div>
       </div>
      )}
-    </section>
+    </PageShell>
    </main>
   </div>
  );

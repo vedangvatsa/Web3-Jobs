@@ -113,7 +113,7 @@
     "clean:slop": "node scripts/clean-slop.js --apply",
     "ingest:paradigm": "npx tsx scripts/ingest-paradigm.ts",
     "typecheck": "tsc --noEmit",
-    "test:header-cta": "tsx scripts/test-header-cta.ts",
+    "generate:site-favicons": "node scripts/generate-site-favicons.mjs",
     "test:header-browser": "tsx scripts/test-header-navigation.ts",
     "test:prerender-budget": "tsx scripts/test-prerender-budget.ts",
     "test:production-detail-cache": "tsx scripts/test-production-detail-cache.ts"

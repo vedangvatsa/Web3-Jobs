@@ -17,6 +17,7 @@ const BLOCKED_COMPANIES = new Set([
   'button', 'breeze', 'citadel securities', 'zipline',
   'greenhouse', 'lever', 'greenhouse io', 'ad-shield', 'adshield', 'vivident', 'hyperithm',
   'sats terminal', 'sats-terminal', 'satsterminal',
+  '4dlabs',
 ]);
 
 const PARENTHETICAL_TAG_REGEX = /\s*\((?:ai\s*\+?\s*web3|solana\s*infra|privacy\s*l2|depin|zk|aleo|sui|market\s*maker|build\s*on\s*bitcoin|makerdao|op\s*labs|offchain\s*labs|metamask|gnosis)\)/i;

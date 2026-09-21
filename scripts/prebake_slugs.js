@@ -16,6 +16,7 @@ const BLOCKED_COMPANIES = new Set([
   'notion', 'ashby', 'merge', 'salt ai', 'workable',
   'button', 'breeze', 'citadel securities', 'zipline',
   'greenhouse', 'lever', 'greenhouse io',
+  '4dlabs',
 ]);
 
 function cleanText(text) { return (text || '').replace(/[\u200B-\u200D\uFEFF]/g, '').trim(); }

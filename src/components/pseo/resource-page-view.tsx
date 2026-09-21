@@ -8,6 +8,7 @@ import {
 import { Badge } from '@/components/ui/badge';
 import { Button } from '@/components/ui/button';
 import { ChecklistContent } from '@/components/pseo/checklist-content';
+import { PageShell } from '@/components/page-shell';
 
 interface ResourcePageViewProps {
   page: ResourcePage;
@@ -72,7 +73,7 @@ export function ResourcePageView({ page, nicheResources }: ResourcePageViewProps
       <main className="flex-1">
         {/* Clean Editorial Header */}
         <section className="border-b border-border bg-card/40">
-          <div className="site-container py-10 md:py-14">
+          <PageShell className="py-10 md:py-14">
             {/* Breadcrumb */}
             <nav className="mb-4 text-xs font-mono text-muted-foreground flex items-center gap-1.5" aria-label="Breadcrumb">
               <Link href="/resources" className="hover:text-foreground transition-colors">
@@ -106,11 +107,11 @@ export function ResourcePageView({ page, nicheResources }: ResourcePageViewProps
                 Updated {formatDate(page.meta.generatedAt)}
               </span>
             </div>
-          </div>
+          </PageShell>
         </section>
 
         {/* Content Body */}
-        <article className="site-container py-10 md:py-12">
+        <PageShell className="py-10 md:py-12">
           {contentType === 'ideas' && <IdeasContent sections={page.content.sections as any} />}
           {contentType === 'checklists' && (
             <ChecklistContent
@@ -235,7 +236,7 @@ export function ResourcePageView({ page, nicheResources }: ResourcePageViewProps
               <ArrowLeft className="h-3 w-3" /> Back to All Resources
             </Link>
           </div>
-        </article>
+        </PageShell>
       </main>
     </div>
   );

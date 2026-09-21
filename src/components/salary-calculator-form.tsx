@@ -13,6 +13,7 @@ import { Slider } from '@/components/ui/slider';
 import { useState, useEffect } from 'react';
 import { CtaBanner } from '@/components/cta-banner';
 import { PageHeader } from '@/components/page-header';
+import { PageShell } from '@/components/page-shell';
 
 const salarySchema = z.object({
  role: z.string().min(1, 'Please select a role'),
@@ -122,7 +123,7 @@ export function SalaryCalculatorForm() {
  ];
 
  return (
-    <div className="site-container py-8">
+    <PageShell className="pt-8">
       <section className="text-center mb-8">
         <PageHeader
           title="Web3 Salary Calculator"
@@ -375,6 +376,6 @@ export function SalaryCalculatorForm() {
         className="col-span-full"
       />
      </div>
-    </div>
+    </PageShell>
   );
 }

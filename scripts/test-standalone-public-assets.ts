@@ -14,6 +14,7 @@ const REQUIRED = [
   'public/logo/companies/google.webp',
   'public/favicon.ico',
   'public/icon.png',
+  'public/apple-icon.png',
   'public/events/ethsofia.webp',
   'public/images/demodayonepiece.png',
   'public/images/obortechinterview.jpg',

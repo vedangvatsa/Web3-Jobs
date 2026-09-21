@@ -8,6 +8,7 @@ import { Button } from '@/components/ui/button';
 import { Card, CardHeader, CardTitle, CardContent } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
 import { PageHeader } from '@/components/page-header';
+import { PageShell } from '@/components/page-shell';
 import { Input } from '@/components/ui/input';
 import { Label } from '@/components/ui/label';
 import { Textarea } from '@/components/ui/textarea';
@@ -445,7 +446,8 @@ export function InvoiceForm() {
 
  return (
   <>
-    <section className="text-center mb-12 pt-8">
+    <PageShell className="pt-8 pb-8">
+    <section className="text-center mb-12">
       <PageHeader title="Invoice Generator" />
       <p className="mt-2 text-muted-foreground">
         Create professional invoices with crypto or fiat payment options and download them as print-ready PDFs.
@@ -455,7 +457,6 @@ export function InvoiceForm() {
       </Badge>
     </section>
 
-    <div className="site-container pb-8">
      <div className="grid grid-cols-1 lg:grid-cols-5 gap-8">
       {/* Form Column */}
       <div className="lg:col-span-3 space-y-6">
@@ -620,7 +621,7 @@ export function InvoiceForm() {
        </div>
       </div>
      </div>
-    </div>
+    </PageShell>
   </>
  );
 }

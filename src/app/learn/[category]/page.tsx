@@ -5,6 +5,7 @@ import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import type { Metadata } from 'next';
 import { PageHeader } from "@/components/page-header";
+import { PageShell } from '@/components/page-shell';
 
 interface Props {
  params: Promise<{ category: string }>;
@@ -60,7 +61,7 @@ export default async function CategoryPage({ params }: Props) {
  return (
   <div className="flex flex-col min-h-screen">
       <main className="flex-grow">
-    <div className="site-container page-section">
+    <PageShell>
      {/* Breadcrumb */}
      <nav className="flex items-center gap-2 text-sm text-muted-foreground mb-8">
       <Link href="/learn" className="hover:text-foreground transition-colors">Learn</Link>
@@ -129,7 +130,7 @@ export default async function CategoryPage({ params }: Props) {
        All tracks
       </Link>
      </div>
-    </div>
+    </PageShell>
    </main>
   </div>
  );

@@ -738,8 +738,6 @@ export const COMPANY_RICH_ABOUT: Record<string, string> = {
 
   "quicknode": `QuickNode is a premier blockchain infrastructure and node API provider delivering fast, reliable RPC access, dedicated nodes, and developer tooling across more than 40 blockchain networks. Powering thousands of Web3 applications, exchanges, and institutions, QuickNode ensures high-availability global endpoints and real-time on-chain data streaming for decentralized finance and digital asset developers worldwide.`,
 
-  "4dlabs": `4Dlabs is a Web3 venture studio and research lab incubating decentralized infrastructure, consumer crypto applications, and decentralized AI protocols. Partnering with top ecosystem builders, 4Dlabs accelerates early-stage protocol development, smart contract security engineering, and tokenomics architecture.`,
-
   "exponent": `Exponent is an institutional decentralized finance and yield structuring protocol on Solana, providing automated yield vaults, fixed-rate lending instruments, and capital-efficient liquidity primitives for digital asset investors.`,
 
   "de": `De¹ is a decentralized finance protocol and algorithmic trading engine engineered for high-throughput automated execution, capital efficiency, and liquidity aggregation across multi-chain ecosystems.`,

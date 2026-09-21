@@ -47,7 +47,7 @@ export function CommunityPageContent({
   const conversationCompanies = companies.filter(c => c.name !== 'Bitget' && c.name !== 'Binance');
 
   return (
-    <div className="site-container space-y-12 sm:space-y-16">
+    <div className="space-y-12 sm:space-y-16">
       
       {/* Hero Section */}
       <section className="w-full">

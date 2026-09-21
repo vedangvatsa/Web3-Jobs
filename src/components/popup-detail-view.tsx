@@ -1,5 +1,6 @@
 import Image from 'next/image';
 import Link from 'next/link';
+import { PrimaryActionLink } from '@/components/primary-action-link';
 import {
   ExternalLink,
   MapPin,
@@ -50,14 +51,6 @@ function socialEntries(socials: PopupSocials) {
   if (socials.linktree) entries.push({ key: 'linktree', label: 'Linktree', href: socials.linktree, icon: Link2 });
 
   return entries;
-}
-
-function websiteHost(url: string) {
-  try {
-    return new URL(url).hostname.replace(/^www\./, '');
-  } catch {
-    return url;
-  }
 }
 
 function ProseSection({
@@ -182,14 +175,14 @@ function HistorySection({
   return (
     <section className="mt-10">
       <h2 className="mb-3 text-lg font-bold tracking-tight">History</h2>
-      <ol className="space-y-4 border-l border-border/70 pl-4">
+      <ol className="space-y-4 border-l border-foreground pl-4">
         {entries.map((entry) => {
           const yearLike = /^\d{4}(\s+to\s+\d{4})?$/i.test(entry.heading);
           const shortLabel = entry.heading.length <= 48 && !entry.detail;
           return (
             <li key={`${entry.heading}-${entry.detail ?? ''}`} className="relative">
               <span
-                className="absolute -left-[21px] top-1.5 h-2.5 w-2.5 rounded-full border border-border bg-background"
+                className="absolute -left-[21px] top-1.5 h-2.5 w-2.5 rounded-full bg-foreground"
                 aria-hidden="true"
               />
               {yearLike || shortLabel ? (
@@ -286,7 +279,8 @@ export function PopupDetailView({ popup }: { popup: Popup }) {
         </nav>
 
         <header className="border-b border-border/70 pb-8">
-          <div className="flex flex-col items-start gap-4 sm:flex-row sm:items-center sm:gap-5">
+          <div className="flex flex-col gap-6 lg:flex-row lg:flex-wrap lg:items-start">
+            <div className="flex min-w-0 flex-row items-start gap-4 sm:gap-5 lg:contents">
             <div className="relative flex h-16 w-16 shrink-0 items-center justify-center overflow-hidden rounded-lg border border-border/60 bg-muted/40">
               {popup.image ? (
                 <Image
@@ -330,16 +324,6 @@ export function PopupDetailView({ popup }: { popup: Popup }) {
                     Residents {popup.residents}
                   </span>
                 ) : null}
-                {popup.website ? (
-                  <OutboundLink
-                    href={popup.website}
-                    label={`${popup.name} website`}
-                    className="inline-flex items-center gap-1.5 hover:text-foreground"
-                  >
-                    <ExternalLink className="h-4 w-4 shrink-0" aria-hidden="true" />
-                    {websiteHost(popup.website)}
-                  </OutboundLink>
-                ) : null}
                 {socials.map(({ key, label, href, icon: Icon }) => (
                   <OutboundLink
                     key={key}
@@ -352,6 +336,15 @@ export function PopupDetailView({ popup }: { popup: Popup }) {
                 ))}
               </div>
             </div>
+            </div>
+            {popup.website ? (
+              <div className="flex w-full shrink-0 lg:ml-auto lg:w-auto">
+                <PrimaryActionLink href={popup.website} target="_blank" rel="noopener noreferrer">
+                  Details
+                  <ExternalLink className="h-4 w-4" aria-hidden="true" />
+                </PrimaryActionLink>
+              </div>
+            ) : null}
           </div>
         </header>
 

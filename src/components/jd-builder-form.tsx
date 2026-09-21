@@ -13,6 +13,7 @@ import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@
 import { Download, Trash2, Plus } from 'lucide-react';
 import { useToast } from '@/hooks/use-toast';
 import { CtaBanner } from '@/components/cta-banner';
+import { PageShell } from '@/components/page-shell';
 
 
 const jobDescriptionSchema = z.object({
@@ -230,7 +231,7 @@ export function JDBuilderForm() {
     </Button>
    </div>
 
-    <div className="site-container py-8">
+    <PageShell className="pt-8 pb-0">
     <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
      {/* Form Column */}
      <div className="space-y-6">
@@ -300,7 +301,7 @@ export function JDBuilderForm() {
       </div>
      </div>
     </div>
-   </div>
+   </PageShell>
   </>
  );
 }

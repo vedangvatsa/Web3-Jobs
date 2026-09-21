@@ -15,6 +15,7 @@ import { useToast } from '@/hooks/use-toast';
 import { ResumePreview } from './resume-preview';
 import type { ResumeData } from '@/types';
 import { CtaBanner } from '@/components/cta-banner';
+import { PageShell } from '@/components/page-shell';
 
 const contributionSchema = z.object({
  project: z.string().min(1, 'Project name is required'),
@@ -263,7 +264,7 @@ export function ResumeForm() {
 
  return (
   <>
-   <div className="site-container py-6">
+   <PageShell className="pt-6">
     <div className="flex flex-col sm:flex-row sm:items-start sm:justify-between gap-4 border-b border-border/60 pb-6 mb-8">
      <div className="min-w-0">
       <h1 className="text-2xl font-bold tracking-tight text-foreground">Resume Builder</h1>
@@ -521,7 +522,7 @@ export function ResumeForm() {
       </div>
      </div>
     </div>
-   </div>
+   </PageShell>
   </>
  );
 }

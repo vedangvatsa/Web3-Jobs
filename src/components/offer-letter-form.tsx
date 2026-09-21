@@ -143,8 +143,8 @@ export function OfferLetterForm() {
   });
 
   return (
-    <div className="container mx-auto py-12">
-      <Card className="site-container">
+    <div className="space-y-8">
+      <Card>
         <CardHeader className="text-center">
           <CardTitle className="text-3xl">Web3 Offer Letter Customizer</CardTitle>
           <CardDescription>

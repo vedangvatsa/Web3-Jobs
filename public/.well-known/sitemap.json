@@ -2,12 +2,12 @@
   "$schema": "https://schema.org/sitemap",
   "name": "Hashtag Web3",
   "url": "https://hashtagweb3.com",
-  "generatedAt": "2026-09-21T17:01:51.171Z",
+  "generatedAt": "2026-09-21T21:33:33.984Z",
   "publisher": {
     "name": "Hashtag Web3",
     "url": "https://hashtagweb3.com"
   },
-  "count": 8361,
+  "count": 8366,
   "urls": [
     {
       "url": "https://hashtagweb3.com",
@@ -84,12 +84,6 @@
     {
       "url": "https://hashtagweb3.com/2ctufd",
       "lastmod": "2026-10-02",
-      "changefreq": "weekly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/4dlabs",
-      "lastmod": "2026-09-16",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -5890,6 +5884,12 @@
       "priority": 0.7
     },
     {
+      "url": "https://hashtagweb3.com/circle-borrow",
+      "lastmod": "2026-04-27",
+      "changefreq": "monthly",
+      "priority": 0.7
+    },
+    {
       "url": "https://hashtagweb3.com/circuit-breaker",
       "lastmod": "2026-04-27",
       "changefreq": "monthly",
@@ -5964,12 +5964,6 @@
     {
       "url": "https://hashtagweb3.com/cm2",
       "lastmod": "2026-05-04",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
-      "url": "https://hashtagweb3.com/cm3",
-      "lastmod": "2026-09-16",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -6221,6 +6215,12 @@
     },
     {
       "url": "https://hashtagweb3.com/coinbase-moov",
+      "lastmod": "2026-04-27",
+      "changefreq": "monthly",
+      "priority": 0.7
+    },
+    {
+      "url": "https://hashtagweb3.com/coinbase-oura",
       "lastmod": "2026-04-27",
       "changefreq": "monthly",
       "priority": 0.7
@@ -11042,6 +11042,12 @@
       "lastmod": "2026-10-01",
       "changefreq": "weekly",
       "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/ecb-pontes",
+      "lastmod": "2026-04-27",
+      "changefreq": "monthly",
+      "priority": 0.7
     },
     {
       "url": "https://hashtagweb3.com/eclipse",
@@ -18155,6 +18161,12 @@
     },
     {
       "url": "https://hashtagweb3.com/facial-recognition-systems-explained",
+      "lastmod": "2026-04-27",
+      "changefreq": "monthly",
+      "priority": 0.7
+    },
+    {
+      "url": "https://hashtagweb3.com/fairshake-ohio",
       "lastmod": "2026-04-27",
       "changefreq": "monthly",
       "priority": 0.7
@@ -31256,6 +31268,12 @@
       "lastmod": "2026-09-18",
       "changefreq": "weekly",
       "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/ondo-shares",
+      "lastmod": "2026-04-27",
+      "changefreq": "monthly",
+      "priority": 0.7
     },
     {
       "url": "https://hashtagweb3.com/oneplanet",
@@ -49954,6 +49972,12 @@
       "priority": 0.7
     },
     {
+      "url": "https://hashtagweb3.com/x-payout",
+      "lastmod": "2026-04-27",
+      "changefreq": "monthly",
+      "priority": 0.7
+    },
+    {
       "url": "https://hashtagweb3.com/xapo-bank",
       "lastmod": "2026-09-15",
       "changefreq": "weekly",
@@ -50105,6 +50129,12 @@
     },
     {
       "url": "https://hashtagweb3.com/zero-knowledge-proofs-explained",
+      "lastmod": "2026-04-27",
+      "changefreq": "monthly",
+      "priority": 0.7
+    },
+    {
+      "url": "https://hashtagweb3.com/zeta-solana",
       "lastmod": "2026-04-27",
       "changefreq": "monthly",
       "priority": 0.7

@@ -1,6 +1,8 @@
 import type { NewsItem } from '@/types';
+import type { Article } from '@/types';
 import { sameEvent } from '@/lib/news-story-dedup';
 import { loadStaticJson } from './load-static-json';
+import { getAllArticles } from '@/lib/articles';
 export const NEWS_FEEDS = [
  { url: 'https://decrypt.co/feed', source: 'Decrypt' },
  { url: 'https://cointelegraph.com/rss', source: 'Cointelegraph' },
@@ -85,6 +87,16 @@ function extractPredictionTicker(title: string): string | null {
 
 function isNativeNewsItem(item: NewsItem): boolean {
   return item.source === 'Hashtag Web3' || item.link.startsWith('/');
+}
+
+/** Native Hashtag Web3 stories first, then syndicated feeds; newest first within each group. */
+export function sortNewsListingItems(items: NewsItem[]): NewsItem[] {
+  return [...items].sort((a, b) => {
+    const aNative = isNativeNewsItem(a);
+    const bNative = isNativeNewsItem(b);
+    if (aNative !== bNative) return aNative ? -1 : 1;
+    return new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime();
+  });
 }
 
 function textsLikelySameStory(a: string, b: string): boolean {
@@ -390,4 +402,31 @@ export async function getNewsFeed(): Promise<NewsItem[]> {
     console.error('[news] Snapshot unavailable:', error);
     return [];
   }
+}
+
+type ArticleListing = Omit<Article, 'content' | 'rawContent'>;
+
+/** Map native `category: News` articles to listing rows (on-site URLs, Hashtag Web3 source). */
+export function nativeArticlesToNewsItems(articles: ArticleListing[]): NewsItem[] {
+  return articles
+    .filter((article) => article.category === 'News')
+    .map((article) => {
+      const pubMs = article.publishedDate ? Date.parse(article.publishedDate) : 0;
+      return {
+        title: article.title,
+        link: `/${article.slug}`,
+        pubDate: pubMs ? new Date(pubMs).toISOString() : new Date().toISOString(),
+        creator: 'Hashtag Web3',
+        contentSnippet: article.description,
+        source: 'Hashtag Web3',
+      };
+    });
+}
+
+/** RSS syndication plus native news articles, deduped with native winning over matching RSS rows. */
+export async function getNewsListingItems(): Promise<NewsItem[]> {
+  const [feedItems, articles] = await Promise.all([getNewsFeed(), getAllArticles()]);
+  return sortNewsListingItems(
+    deduplicateNewsItems([...nativeArticlesToNewsItems(articles), ...feedItems]),
+  );
 }

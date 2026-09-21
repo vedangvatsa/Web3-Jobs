@@ -106,15 +106,13 @@ export default function InterviewQuestionBankPage() {
         <ToolUsageTracker toolName="Interview Questions" />
         <PageShell>
           <section className="text-center mb-8">
-            <div className="site-container">
               <PageHeader
                 title="Web3 Interview Question Bank"
                 description="Comprehensive interview questions, ideal answers, red flags, and scoring rubrics across engineering, product, and leadership roles."
               />
-            </div>
           </section>
 
-          <div className="site-container">
+          <div>
             <div className="grid grid-cols-1 md:grid-cols-12 gap-8">
               <aside className="md:col-span-3 md:sticky top-[72px] self-start">
                 <Card className="border-border/70 bg-card shadow-none">

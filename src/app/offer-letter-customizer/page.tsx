@@ -1,30 +1,22 @@
 'use client';
 
 import dynamic from 'next/dynamic';
-import { Skeleton } from '@/components/ui/skeleton';
 import { ToolUsageTracker } from '@/components/tracking/tool-usage-tracker';
+import { ToolFormLoadingSkeleton, ToolPageFrame } from '@/components/page-shell';
 
 const OfferLetterForm = dynamic(
  () => import('@/components/offer-letter-form').then(m => ({ default: m.OfferLetterForm })),
  {
-  loading: () => (
-   <div className="site-container p-8 space-y-4">
-    <Skeleton className="h-10 w-full" />
-    <Skeleton className="h-32 w-full" />
-    <Skeleton className="h-10 w-full" />
-   </div>
-  ),
+  loading: () => <ToolFormLoadingSkeleton />,
  }
 );
 
 export default function OfferLetterCustomizerPage() {
  return (
-  <div className="flex flex-col min-h-screen bg-background">
-      <main className="flex-1">
+  <ToolPageFrame>
     <h1 className="sr-only">Offer Letter Customizer</h1>
     <ToolUsageTracker toolName="Offer Letter Customizer" />
     <OfferLetterForm />
-   </main>
-  </div>
+  </ToolPageFrame>
  );
 }

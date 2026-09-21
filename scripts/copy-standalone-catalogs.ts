@@ -27,6 +27,7 @@ const FILES = [
   'content/sitemap-routes.json',
   'public/favicon.ico',
   'public/icon.png',
+  'public/apple-icon.png',
   'public/logo/HashtagWeb3.png',
 ];
 

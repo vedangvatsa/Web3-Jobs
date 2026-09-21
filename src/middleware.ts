@@ -120,7 +120,8 @@ export async function middleware(request: NextRequest) {
     pathname.startsWith('/job-description-shards/') ||
     pathname.startsWith('/logo/') ||
     pathname.startsWith('/images/') ||
-    pathname.startsWith('/events/')
+    pathname.startsWith('/events/') ||
+    pathname === '/favicon-preview.html'
   ) {
     return NextResponse.next();
   }
@@ -282,6 +283,6 @@ export const config = {
      * Note: /api routes ARE included so social crawler / UTM logic can run;
      * ?mode=agent rewrites to static /agent-view.json and skips /api/*.
      */
-    '/((?!_next/static|_next/image|favicon.ico|icon.png|logo-bimi.svg|.*\\.(?:svg|png|jpg|jpeg|gif|webp|ico|pdf)$).*)',
+    '/((?!_next/static|_next/image|favicon.ico|favicon-preview.html|icon.png|logo-bimi.svg|.*\\.(?:svg|png|jpg|jpeg|gif|webp|ico|pdf)$).*)',
   ],
 };

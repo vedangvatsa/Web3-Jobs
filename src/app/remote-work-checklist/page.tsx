@@ -1,4 +1,5 @@
 import { RemoteWorkChecklistClient } from '@/components/remote-work-checklist-client';
+import { PageShell } from '@/components/page-shell';
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
@@ -31,9 +32,9 @@ export default function RemoteWorkChecklistPage() {
  return (
   <div className="flex flex-col min-h-screen bg-background">
       <main className="flex-1">
-    <div className="site-container page-section">
+    <PageShell>
      <RemoteWorkChecklistClient />
-    </div>
+    </PageShell>
    </main>
   </div>
  );

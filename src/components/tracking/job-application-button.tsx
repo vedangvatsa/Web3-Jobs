@@ -1,5 +1,6 @@
 'use client';
 
+import { PrimaryActionLink } from '@/components/primary-action-link';
 import { trackJobApplicationClick, trackOutboundClick } from '@/lib/posthog';
 
 export function JobApplicationButton({
@@ -25,14 +26,13 @@ export function JobApplicationButton({
  };
 
  return (
-  <a 
-   href={jobUrl} 
-   target="_blank" 
-   rel="noopener noreferrer" 
+  <PrimaryActionLink
+   href={jobUrl}
+   target="_blank"
+   rel="noopener noreferrer"
    onClick={handleClick}
-    className="block h-full w-full"
   >
    {children}
-  </a>
+  </PrimaryActionLink>
  );
 }

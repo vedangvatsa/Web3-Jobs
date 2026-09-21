@@ -448,10 +448,8 @@ export function JobDetailView({
             source={job.source}
             date={job.dateVerified === false ? undefined : job.date}
           >
-            <span className="inline-flex h-11 w-full items-center justify-center gap-2 whitespace-nowrap rounded-md bg-primary px-8 text-sm font-medium text-primary-foreground hover:bg-primary/90">
-              Apply
-              <ExternalLink className="h-4 w-4" aria-hidden="true" />
-            </span>
+            Apply
+            <ExternalLink className="h-4 w-4" aria-hidden="true" />
           </JobApplicationButton>
         }
       />

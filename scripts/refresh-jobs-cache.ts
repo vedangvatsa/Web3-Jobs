@@ -2055,6 +2055,7 @@ async function refreshJobsCache() {
     'katana',          // Restaurant chain, not web3
     'fuse energy',     // Energy company, not web3
     'ashby',           // ATS software, not web3 (leaks through VC feeds)
+    '4dlabs',
   ]);
 
   const BLOCKED_TITLE_KEYWORDS = [

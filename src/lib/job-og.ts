@@ -25,7 +25,7 @@ export const STATIC_OG = {
 } as const;
 
 /** Bump when the precompute card layout changes (cache-bust share URLs). */
-export const JOB_OG_VERSION = '6';
+export const JOB_OG_VERSION = '7';
 
 function absoluteSiteAsset(pathOrUrl: string, siteUrl = SITE_URL): string {
   if (/^https?:\/\//i.test(pathOrUrl)) return pathOrUrl;
@@ -41,6 +41,18 @@ export function buildJobOgImageUrl(
   const slug = (job.slug || '').trim();
   if (slug) {
     return `${siteUrl}/og/jobs/${encodeURIComponent(slug)}.png?v=${JOB_OG_VERSION}`;
+  }
+  return `${siteUrl}/og-image-jobs.png`;
+}
+
+/** Square Instagram asset: same job card letterboxed (`public/og/jobs/{slug}-ig.png`). */
+export function buildJobInstagramImageUrl(
+  job: Pick<Job, 'title' | 'company' | 'location' | 'department' | 'slug'>,
+  siteUrl = SITE_URL,
+): string {
+  const slug = (job.slug || '').trim();
+  if (slug) {
+    return `${siteUrl}/og/jobs/${encodeURIComponent(slug)}-ig.png?v=${JOB_OG_VERSION}`;
   }
   return `${siteUrl}/og-image-jobs.png`;
 }

@@ -145,6 +145,7 @@ const COMPANY_FAVICON_DOMAINS: Record<string, string> = {
   'waymo': 'waymo.com',
   'webflow': 'webflow.com',
   'ziprecruiter': 'ziprecruiter.com',
+  'google': 'google.com',
   'mantra-chain': 'mantrachain.io',
   'mantra': 'mantrachain.io',
   'skip-protocol': 'skip.money',
@@ -204,7 +205,13 @@ const LOGO_PATHS = (slug: string): string[] => {
  * logo — on company pages AND job cards. (The homepage "companies like"
  * strip keeps using explicit file paths and is unaffected.)
  */
-export const FAVICON_FIRST_SLUGS: ReadonlySet<string> = new Set(['circle', 'gsr', 'gsr-markets', 'gsrmarkets']);
+export const FAVICON_FIRST_SLUGS: ReadonlySet<string> = new Set([
+  'circle',
+  'google',
+  'gsr',
+  'gsr-markets',
+  'gsrmarkets',
+]);
 
 export function resolveCompanyLogo(companySlug: string): string | null {
   for (const relPath of LOGO_PATHS(companySlug)) {

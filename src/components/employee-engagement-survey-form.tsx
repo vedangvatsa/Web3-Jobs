@@ -81,11 +81,11 @@ export function EmployeeEngagementSurveyForm() {
   });
 
   return (
-    <div className="container mx-auto py-12">
-      <Card className="site-container">
+    <div className="space-y-8">
+      <Card>
         <CardHeader className="text-center">
           <CardTitle className="text-3xl">Employee Engagement Pulse Survey</CardTitle>
-          <CardDescription className="site-container">
+          <CardDescription>
             Quickly gauge team morale, satisfaction, and overall engagement with this pulse survey.
             Regular feedback is key to building a thriving culture and identifying potential issues
             before they become major problems.

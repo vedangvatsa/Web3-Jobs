@@ -1,6 +1,6 @@
 import dynamic from 'next/dynamic';
-import { Skeleton } from '@/components/ui/skeleton';
 import { ToolUsageTracker } from '@/components/tracking/tool-usage-tracker';
+import { ToolFormLoadingSkeleton } from '@/components/page-shell';
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
@@ -32,13 +32,7 @@ export const metadata: Metadata = {
 const ResumeForm = dynamic(
  () => import('@/components/resume-form').then(m => ({ default: m.ResumeForm })),
  {
-  loading: () => (
-   <div className="site-container p-8 space-y-4">
-    <Skeleton className="h-10 w-full" />
-    <Skeleton className="h-32 w-full" />
-    <Skeleton className="h-10 w-full" />
-   </div>
-  ),
+  loading: () => <ToolFormLoadingSkeleton />,
  }
 );
 

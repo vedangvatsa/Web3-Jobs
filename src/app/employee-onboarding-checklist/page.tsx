@@ -8,7 +8,7 @@ import { ArrowRight } from 'lucide-react';
 import Link from 'next/link';
 import { ToolUsageTracker } from '@/components/tracking/tool-usage-tracker';
 import { PageHeader } from '@/components/page-header';
-import { PageShell } from '@/components/page-shell';
+import { ToolPageFrame } from '@/components/page-shell';
 import { CtaBanner } from '@/components/cta-banner';
 
 const checklistData = {
@@ -76,20 +76,16 @@ function ChecklistItem({ id, label }: { id: string; label: string }) {
 
 export default function EmployeeOnboardingChecklistPage() {
   return (
-    <div className="flex flex-col min-h-screen">
-      <main className="flex-1">
+    <ToolPageFrame>
         <ToolUsageTracker toolName="Employee Onboarding Checklist" />
-        <PageShell>
           <section className="text-center mb-8">
-            <div className="site-container">
               <PageHeader
                 title="Web3 Onboarding Checklist"
                 description="A practical onboarding checklist for Web3 teams, from pre-boarding to 90-day execution."
               />
-            </div>
           </section>
 
-          <div className="site-container space-y-8">
+          <div className="space-y-8">
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
               {checklistData.sections.map((section) => (
                 <Card key={section.title} className="flex flex-col border-border/70 bg-card shadow-none">
@@ -125,8 +121,6 @@ export default function EmployeeOnboardingChecklistPage() {
               </Link>
             </div>
           </div>
-        </PageShell>
-      </main>
-    </div>
+    </ToolPageFrame>
   );
 }

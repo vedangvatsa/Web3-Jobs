@@ -3,15 +3,14 @@
 
 import { CompanyCultureGuideForm } from '@/components/company-culture-guide-form';
 import { ToolUsageTracker } from '@/components/tracking/tool-usage-tracker';
+import { ToolPageFrame } from '@/components/page-shell';
 
 export default function CompanyCultureGuidePage() {
  return (
-  <div className="flex flex-col min-h-screen bg-background">
-      <main className="flex-1">
+  <ToolPageFrame>
     <h1 className="sr-only">Company Culture Guide</h1>
     <ToolUsageTracker toolName="Company Culture Guide" />
     <CompanyCultureGuideForm />
-   </main>
-  </div>
+  </ToolPageFrame>
  );
 }

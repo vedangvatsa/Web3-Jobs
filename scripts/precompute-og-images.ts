@@ -1,5 +1,8 @@
 /**
  * Dynamic OG PNGs (1200×630) for jobs/companies — not part of `npm run build`.
+ * Also writes Instagram-safe squares (`{slug}-ig.png`) by letterboxing the same
+ * landscape card onto 1080×1080 — no second design. `--ig-pad-only` regenerates
+ * squares from existing landscape PNGs without re-running Satori.
  * Run after jobs refresh: `npm run precompute:og-images` (or `precompute:og`).
  * CI: refresh-jobs-cache + deploy cache restore; `--if-missing` skips only when PNG exists
  * and manifest fingerprint still matches job title/company/logo.
@@ -24,7 +27,11 @@ const MANIFEST_PATH = path.join(ROOT, 'public', 'og', 'manifest.json');
 const FONT_PATH = path.join(ROOT, 'scripts', 'social', 'fonts', 'Inter-Bold.ttf');
 const WIDTH = 1200;
 const HEIGHT = 630;
-const VERSION = 'og-v6-compressed';
+/** Instagram feed square; landscape OG is letterboxed onto this with the same slate bg. */
+const IG_WIDTH = 1080;
+const IG_HEIGHT = 1080;
+const OG_BG = { r: 241, g: 245, b: 249 }; // #f1f5f9 — matches job card canvas
+const VERSION = 'og-v7-ig-pad';
 const CONCURRENCY = Math.max(
   1,
   Math.min(32, Number(process.env.OG_CONCURRENCY) || (process.env.CI ? 6 : 12)),
@@ -34,6 +41,8 @@ const WITH_LOGOS = process.argv.includes('--logos');
 const IF_MISSING = process.argv.includes('--if-missing');
 const SKIP_COMPANIES = process.argv.includes('--skip-companies');
 const COMPANIES_ONLY = process.argv.includes('--companies-only');
+/** Pad existing landscape job PNGs to Instagram squares without re-rendering cards. */
+const IG_PAD_ONLY = process.argv.includes('--ig-pad-only');
 
 type Manifest = Record<string, string>;
 
@@ -251,6 +260,28 @@ function jobCardElement(opts: {
   };
 }
 
+/**
+ * Reuse the landscape job OG as-is: scale to IG width and letterbox onto a
+ * square with the same slate background so Instagram does not crop/distort.
+ */
+async function landscapeOgToInstagramSquare(landscapePng: Buffer): Promise<Buffer> {
+  const scaledH = Math.round((IG_WIDTH * HEIGHT) / WIDTH);
+  const top = Math.floor((IG_HEIGHT - scaledH) / 2);
+  const bottom = IG_HEIGHT - scaledH - top;
+  const padded = await sharp(landscapePng)
+    .resize(IG_WIDTH, scaledH, { fit: 'fill' })
+    .extend({
+      top,
+      bottom,
+      left: 0,
+      right: 0,
+      background: OG_BG,
+    })
+    .png()
+    .toBuffer();
+  return compressOgPng(padded);
+}
+
 function companyCardElement(opts: { name: string; jobCount?: number; logoDataUrl: string | null }) {
   const name = truncate(opts.name, 48);
   const subtitle =
@@ -339,19 +370,76 @@ async function main() {
 
   await mapPool(jobs, CONCURRENCY, async ({ job, slug }) => {
     const key = `job:${slug}`;
+    const igKey = `job-ig:${slug}`;
     const logoRel = WITH_LOGOS ? resolveCompanyLogo(getCompanySlug(job.company)) || '' : '';
     const fingerprint = sha(`${VERSION}|${job.title}|${job.company}|${logoRel}`);
     const outFile = path.join(OUT_JOBS, `${slug}.png`);
-    if (IF_MISSING && fs.existsSync(outFile) && manifest[key] === fingerprint) {
+    const igOutFile = path.join(OUT_JOBS, `${slug}-ig.png`);
+
+    const writeIgPadFromLandscape = async (): Promise<boolean> => {
+      if (!fs.existsSync(outFile)) return false;
+      const igPng = await landscapeOgToInstagramSquare(fs.readFileSync(outFile));
+      fs.writeFileSync(igOutFile, igPng);
+      manifest[igKey] = manifest[key] || fingerprint;
+      return true;
+    };
+
+    if (IG_PAD_ONLY) {
+      try {
+        if (await writeIgPadFromLandscape()) written += 1;
+      } catch (err) {
+        console.warn(`[precompute-og-images] ig-pad skip ${slug}:`, (err as Error).message);
+      }
+      done += 1;
+      if (done % LOG_EVERY === 0 || done === jobs.length) {
+        console.log(`[precompute-og-images] jobs ${done}/${jobs.length} (wrote ${written}, skipped ${skipped})`);
+        saveManifest(manifest);
+      }
+      return;
+    }
+
+    if (
+      IF_MISSING &&
+      fs.existsSync(outFile) &&
+      fs.existsSync(igOutFile) &&
+      manifest[key] === fingerprint &&
+      manifest[igKey] === fingerprint
+    ) {
       skipped += 1;
       done += 1;
       return;
     }
-    if (!IF_MISSING && manifest[key] === fingerprint && fs.existsSync(outFile)) {
+    if (
+      !IF_MISSING &&
+      manifest[key] === fingerprint &&
+      manifest[igKey] === fingerprint &&
+      fs.existsSync(outFile) &&
+      fs.existsSync(igOutFile)
+    ) {
       skipped += 1;
       done += 1;
       return;
     }
+
+    // Landscape is current — only need Instagram letterbox.
+    if (
+      fs.existsSync(outFile) &&
+      manifest[key] === fingerprint &&
+      (!fs.existsSync(igOutFile) || manifest[igKey] !== fingerprint)
+    ) {
+      try {
+        if (await writeIgPadFromLandscape()) written += 1;
+      } catch (err) {
+        console.warn(`[precompute-og-images] ig-pad skip ${slug}:`, (err as Error).message);
+      }
+      done += 1;
+      if (done % LOG_EVERY === 0 || done === jobs.length) {
+        console.log(`[precompute-og-images] jobs ${done}/${jobs.length} (wrote ${written}, skipped ${skipped})`);
+        saveManifest(manifest);
+      }
+      return;
+    }
+
     try {
       const renderStarted = Date.now();
       const png = await renderPng(
@@ -362,12 +450,15 @@ async function main() {
         }),
         font,
       );
+      const igPng = await landscapeOgToInstagramSquare(png);
       const renderMs = Date.now() - renderStarted;
       if (renderMs > 10_000) {
         console.warn(`[precompute-og-images] slow render ${slug} ${renderMs}ms`);
       }
       fs.writeFileSync(outFile, png);
+      fs.writeFileSync(igOutFile, igPng);
       manifest[key] = fingerprint;
+      manifest[igKey] = fingerprint;
       written += 1;
     } catch (err) {
       try {
@@ -375,8 +466,11 @@ async function main() {
           jobCardElement({ title: job.title, company: job.company, logoDataUrl: null }),
           font,
         );
+        const igPng = await landscapeOgToInstagramSquare(png);
         fs.writeFileSync(outFile, png);
+        fs.writeFileSync(igOutFile, igPng);
         manifest[key] = fingerprint;
+        manifest[igKey] = fingerprint;
         written += 1;
       } catch (err2) {
         console.warn(`[precompute-og-images] skip job ${slug}:`, (err2 as Error).message || err);
@@ -391,7 +485,7 @@ async function main() {
 
   clearInterval(heartbeat);
 
-  if (SKIP_COMPANIES) {
+  if (SKIP_COMPANIES || IG_PAD_ONLY) {
     saveManifest(manifest);
     console.log(
       `[precompute-og-images] batch done wrote ${written}, skipped ${skipped}, jobs=${jobs.length} in ${((Date.now() - t0) / 1000).toFixed(1)}s (companies skipped)`,

@@ -1,6 +1,5 @@
 import React from 'react';
-import { deduplicateNewsItems, getNewsFeed } from '@/lib/news';
-import { getAllArticles } from '@/lib/articles';
+import { getNewsListingItems } from '@/lib/news';
 import { NewsPageClient } from '@/components/news-page-client';
 import type { Metadata } from 'next';
 import type { WebPage, WithContext } from 'schema-dts';
@@ -37,24 +36,7 @@ export const metadata: Metadata = {
 };
 
 export default async function NewsPage() {
- const [feedItems, articles] = await Promise.all([getNewsFeed(), getAllArticles()]);
- const nativeNews = articles
-  .filter((article) => article.category === 'News')
-  .map((article) => {
-   // Listing date is the original publish date only. lastUpdated reflects
-   // later edits and must never reorder or re-date older stories.
-   const pubMs = article.publishedDate ? Date.parse(article.publishedDate) : 0;
-   return {
-   title: article.title,
-   link: `/${article.slug}`,
-   pubDate: pubMs ? new Date(pubMs).toISOString() : new Date().toISOString(),
-   creator: 'Hashtag Web3',
-   contentSnippet: article.description,
-   source: 'Hashtag Web3',
-  };
-  });
-  const newsItems = deduplicateNewsItems([...nativeNews, ...feedItems]
-   .sort((a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime()));
+ const newsItems = await getNewsListingItems();
  const siteUrl = 'https://hashtagweb3.com';
 
  const pageSchema: WithContext<WebPage> = {

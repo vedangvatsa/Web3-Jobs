@@ -158,11 +158,11 @@ export function CompanyCultureGuideForm() {
   );
 
   return (
-    <div className="container mx-auto py-12">
-      <Card className="site-container">
+    <div className="space-y-8">
+      <Card>
         <CardHeader className="text-center">
           <CardTitle className="text-3xl">Company Culture Guide Builder</CardTitle>
-          <CardDescription className="site-container">
+          <CardDescription>
             A strong, well-defined culture is the foundation of any successful company, especially in a
             remote-first Web3 environment. This tool helps you articulate and document your company&apos;s
             core principles, creating a guide to align your team and attract the right talent.

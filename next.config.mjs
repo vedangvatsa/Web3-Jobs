@@ -41,6 +41,7 @@ const nextConfig = {
       './public/og/**/*',
       './public/favicon.ico',
       './public/icon.png',
+      './public/apple-icon.png',
     ],
   },
   experimental: {

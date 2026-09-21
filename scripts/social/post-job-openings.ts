@@ -47,7 +47,7 @@ import * as path from 'path';
 import * as crypto from 'crypto';
 import dotenv from 'dotenv';
 import { buildUniqueJobMetaDescription } from '../../src/lib/job-guides';
-import { buildJobOgImageUrl, JOB_OG_VERSION, SITE_URL } from '../../src/lib/job-og';
+import { buildJobOgImageUrl, buildJobInstagramImageUrl, JOB_OG_VERSION, SITE_URL } from '../../src/lib/job-og';
 
 // Load environment variables
 const rootDir = path.resolve(__dirname, '../../');
@@ -1451,6 +1451,7 @@ async function main() {
     // the card uses high-res art. PNG twin is preferred because Satori embeds
     // it consistently across cold and warm renders.
     const ogImageUrl = buildJobOgImageUrl(currentJob);
+    const igImageUrl = buildJobInstagramImageUrl(currentJob);
 
     // Formats strictly adhering to:
     //   Company is hiring role
@@ -1474,7 +1475,8 @@ async function main() {
   console.log(`  Company : ${company}`);
   console.log(`  Role    : ${title}`);
   console.log(`  Slug    : ${slug}`);
-  console.log(`  OG Image: ${ogImageUrl}\n`);
+  console.log(`  OG Image: ${ogImageUrl}`);
+  console.log(`  IG Image: ${igImageUrl}\n`);
 
   // Do this before warming or publishing. The state commit is deliberately
   // delayed until after publishing, so this run must not begin during a
@@ -1491,10 +1493,8 @@ async function main() {
     console.warn(`Warning: OG Image check encountered error:`, (err as Error).message);
   }
 
-  // Warm the OG render + edge cache with full GETs (landscape + square) so
-  // Meta's and Bluesky's fetchers — which time out on cold ~3s renders —
-  // hit a hot cache when building link cards and IG containers.
-  for (const warmUrl of [ogImageUrl, `${ogImageUrl}&format=square`]) {
+  // Warm landscape OG + square Instagram PNGs so Meta's fetchers hit hot CDN assets.
+  for (const warmUrl of [ogImageUrl, igImageUrl]) {
     try {
       const warmRes = await fetch(warmUrl);
       await warmRes.arrayBuffer();
@@ -1791,7 +1791,6 @@ async function main() {
       ];
       const activeTagline = TAGLINES[state.history.length % TAGLINES.length];
       const igCaption = `${company} is hiring ${title} (${location || 'Remote'}).\n\nWeb3 jobs: hashtagweb3.com\n\n${activeTagline}\n\n#web3 #web3jobs #hashtagweb3`;
-      const igImageUrl = `${ogImageUrl}&format=square`;
       const igPostId = await postToInstagram(igCaption, [igImageUrl]);
        console.log(`✓ Successfully published Instagram image post! Post ID: ${igPostId}`);
       recordVerifiedPost(state, {
