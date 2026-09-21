@@ -1433,18 +1433,11 @@ async function main() {
     return null;
   };
 
-  // Catch-up arming: GitHub cron slots are routinely skipped or delayed
-  // (observed ~3-5 posting runs/day vs 8 scheduled). If the last successful
-  // post is older than ~4.5h, this run posts a second, different-company job
-  // to hold the visible daily cadence. Single-slug and single-platform
-  // invocations never catch up.
-  let catchUpArmed = false;
-  if (!targetSlug && (platform === 'all' || platform === 'both') && state.history.length > 0) {
-    const lastPostedAt = Date.parse(state.history[state.history.length - 1].postedAt);
-    if (!Number.isNaN(lastPostedAt) && Date.now() - lastPostedAt > 4.5 * 3600 * 1000) {
-      catchUpArmed = true;
-      console.log(`Catch-up armed: last successful post was ${new Date(lastPostedAt).toISOString()}.`);
-    }
+  // Each full run posts two different jobs (6/day across the 3 scheduled runs).
+  // A chosen slug or a single platform stays at one job.
+  const catchUpArmed = !targetSlug && (platform === 'all' || platform === 'both');
+  if (catchUpArmed) {
+    console.log('Second job armed: this run will post two different openings when the first completes.');
   }
 
   const jobsToPost: Job[] = [selectedJob as Job];

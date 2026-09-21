@@ -1,8 +1,9 @@
 name: Publish Jobs, Events & Social
 
-# Three scheduled runs a day, 8 hours apart. Each run posts to every
-# social platform and to Telegram. The 03:30 UTC run also ingests jobs
-# and sends the Resend alert.
+# Three scheduled runs a day, 8 hours apart. Each run posts two job
+# openings to X, Threads, Bluesky, Farcaster, LinkedIn, Facebook, and
+# Instagram, and one Telegram post each for jobs, news, and events.
+# The 03:30 UTC run also ingests jobs and sends the Resend alert.
 
 on:
   schedule:
