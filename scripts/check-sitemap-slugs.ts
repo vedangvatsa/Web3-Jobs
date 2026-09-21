@@ -31,6 +31,8 @@ function main(): void {
     const pathname = new URL(route.url).pathname.replace(/\/+$/, '');
     if (!pathname || pathname === '/' || pathname.includes('/', 1)) continue;
     const slug = pathname.slice(1).toLowerCase();
+    // Root static assets (public/*.txt, etc.) are not slug-types entries.
+    if (slug.includes('.')) continue;
     if (!known.has(slug)) orphans.push(slug);
   }
 
