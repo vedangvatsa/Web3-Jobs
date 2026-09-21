@@ -1,15 +1,12 @@
 name: Refresh Jobs Ingest (daily)
 
-# Heavy once-a-day ingestion: RSS + all ATS feeds, slug prebake, runtime
-# precompute, OG images, integrity guards. Runs at 02:30 UTC so the 03:30
-# publish run (refresh-jobs-cache.yml) picks up a fresh cache.
-# Intraday runs intentionally skip ingestion — see refresh-jobs-cache.yml.
+# Once-a-day ingestion: RSS + ATS feeds, slug prebake, runtime
+# precompute, OG images, integrity guards. Called by the 03:30 UTC
+# publish run. Intraday publish runs skip this workflow.
 
 on:
-  schedule:
-    # 8 AM IST / 10:30 AM SGT = 2:30 AM UTC
-    - cron: '30 2 * * *'
   workflow_dispatch:
+  workflow_call:
 
 concurrency:
   group: jobs-ingest

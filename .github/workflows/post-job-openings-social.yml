@@ -1,11 +1,8 @@
 name: Post Job Openings to X, Threads, Bluesky, Farcaster, LinkedIn, Facebook & Instagram
 
 on:
-  schedule:
-    # Once a day, 13:21 UTC (6:51 PM IST / 9:21 AM ET).
-    # Publish Jobs already covers Bluesky, LinkedIn, Buffer, and Telegram.
-    - cron: '21 13 * * *'
   workflow_dispatch:
+  workflow_call:
     inputs:
       platform:
         description: 'Target platform (all, x, threads, bluesky, farcaster, linkedin, facebook, instagram)'

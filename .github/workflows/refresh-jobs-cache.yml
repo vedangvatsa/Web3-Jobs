@@ -1,9 +1,8 @@
 name: Publish Jobs, Events & Social
 
-# Lightweight 3x/day publisher: news (separate job below), Luma events,
-# social distribution and Telegram posts, committing state back.
-# Heavy jobs ingestion runs once daily in refresh-jobs-ingest.yml (02:30
-# UTC). Publishing uses the most recently completed ingest.
+# Three scheduled runs a day. The 03:30 UTC run also ingests jobs, sends
+# the Resend alert, and posts one job opening. 11:30 and 19:30 only publish
+# news, events, and Telegram.
 
 on:
   schedule:
@@ -39,6 +38,23 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
+  ingest:
+    if: ${{ github.event.schedule == '30 3 * * *' }}
+    uses: ./.github/workflows/refresh-jobs-ingest.yml
+    secrets: inherit
+
+  job-alerts:
+    needs: [ingest]
+    if: ${{ always() && github.event.schedule == '30 3 * * *' && needs.ingest.result != 'cancelled' }}
+    uses: ./.github/workflows/daily-job-alerts.yml
+    secrets: inherit
+
+  post-openings:
+    needs: [ingest]
+    if: ${{ always() && github.event.schedule == '30 3 * * *' && needs.ingest.result != 'cancelled' }}
+    uses: ./.github/workflows/post-job-openings-social.yml
+    secrets: inherit
+
   diagnose:
     if: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.diagnose_telegram == 'true' }}
     runs-on: ubuntu-latest
@@ -117,7 +133,8 @@ jobs:
           echo "Dry-run clean: no commits, no pushes."
 
   refresh-and-post:
-    if: ${{ github.event.inputs.diagnose_telegram != 'true' }}
+    needs: [ingest]
+    if: ${{ always() && needs.ingest.result != 'cancelled' && github.event.inputs.diagnose_telegram != 'true' }}
     runs-on: ubuntu-latest
     permissions:
       contents: write
