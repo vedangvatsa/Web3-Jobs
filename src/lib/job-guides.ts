@@ -3,7 +3,7 @@ import { getJobs } from './jobs';
 import { repairFlattenedJobParagraphs } from './job-paragraph-formatting';
 import { formatJobStructuredContent } from './job-structured-content';
 import { transformOutsideVerbatim } from './preserve-verbatim';
-import { fetchJobBySlug } from './job-by-slug-record';
+import { fetchJobById, fetchJobBySlug } from './job-by-slug-record';
 import * as cheerio from 'cheerio';
 import { cleanPublishText, cleanPublishHtml } from './noslop';
 import { isGeneralOrPlaceholderJobTitle } from './job-filters';
@@ -829,9 +829,7 @@ export async function resolveJobSlug(slug: string): Promise<JobSlugResolution> {
 
   // Feeds and APIs advertise /jobs/{id} (see getPublicJobUrl): resolve raw
   // ids to the canonical short slug so those URLs redirect instead of 404.
-  // (Catalog scan runs only on slug-miss; getJobs() is isolate-cached.)
-  const allJobs = await getJobs();
-  const byId = allJobs.find((job) => job.id?.toLowerCase() === cleanSlug);
+  const byId = await fetchJobById(cleanSlug);
   if (byId?.slug) {
     return { kind: 'exact', job: byId, canonicalSlug: byId.slug };
   }

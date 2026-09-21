@@ -15,6 +15,8 @@ function fullGates(): void {
   run('npx tsx scripts/test-event-page-quality.ts');
   run('npx tsx scripts/test-job-page-content-quality.ts');
   run('npx tsx scripts/test-job-slug-reserved.ts');
+  run('npx tsx scripts/test-job-slug-resolution.ts');
+  run('npx tsx scripts/test-site-catalog-integrity.ts');
   run('npx tsx scripts/check-slug-collisions.ts');
   run('npx tsx scripts/check-sitemap-slugs.ts');
   run('npx tsx scripts/check-event-map-cities.ts');
@@ -26,6 +28,8 @@ function fastGates(): void {
   run('npx tsx scripts/test-link-preview-preview-path.ts');
   run('npx tsx scripts/test-popup-root-pages.ts');
   run('npx tsx scripts/test-job-slug-reserved.ts');
+  run('npx tsx scripts/test-job-slug-resolution.ts');
+  run('npx tsx scripts/test-site-catalog-integrity.ts');
   run('npx tsx scripts/check-slug-collisions.ts');
   run('npx tsx scripts/check-sitemap-slugs.ts');
 }

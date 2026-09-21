@@ -1,78 +1,60 @@
-import fs from "fs";
-import path from "path";
 import type { Job } from "@/types";
-import { fetchSiteAsset } from "./load-static-json";
-import { getJobSlugShardIndex, getJobShardFilename } from "./job-shards";
+import { getJobSlug } from "./job-slugs";
+import { getJobs } from "./jobs";
 
-const shardCache = new Map<number, Record<string, Job>>();
-const shardLoadPromises = new Map<number, Promise<Record<string, Job> | null>>();
+let runtimeSlugIndex: Map<string, Job> | null = null;
+let runtimeSlugIndexLoad: Promise<Map<string, Job>> | null = null;
+let runtimeIdIndex: Map<string, Job> | null = null;
 
-function readLocalJobShard(filename: string): Record<string, Job> | null {
-  try {
-    if (typeof fs === "undefined" || !fs.existsSync) return null;
-    for (const dir of [
-      path.join("public", "job-shards"),
-      path.join("content", "job-shards"),
-    ]) {
-      const filePath = path.join(process.cwd(), dir, filename);
-      if (!fs.existsSync(filePath)) continue;
-      return JSON.parse(fs.readFileSync(filePath, "utf8")) as Record<string, Job>;
-    }
-  } catch {
-    return null;
+async function getRuntimeIndexes(): Promise<{
+  bySlug: Map<string, Job>;
+  byId: Map<string, Job>;
+}> {
+  if (runtimeSlugIndex && runtimeIdIndex) {
+    return { bySlug: runtimeSlugIndex, byId: runtimeIdIndex };
   }
-  return null;
+  if (!runtimeSlugIndexLoad) {
+    runtimeSlugIndexLoad = getJobs()
+      .then((jobs) => {
+        const bySlug = new Map<string, Job>();
+        const byId = new Map<string, Job>();
+        for (const job of jobs) {
+          const slug = getJobSlug(job).toLowerCase().trim();
+          if (slug) bySlug.set(slug, job);
+          const id = job.id?.toLowerCase().trim();
+          if (id) byId.set(id, job);
+        }
+        runtimeSlugIndex = bySlug;
+        runtimeIdIndex = byId;
+        return bySlug;
+      })
+      .finally(() => {
+        runtimeSlugIndexLoad = null;
+      });
+  }
+  await runtimeSlugIndexLoad;
+  return {
+    bySlug: runtimeSlugIndex!,
+    byId: runtimeIdIndex!,
+  };
 }
 
-async function loadJobShardFile(shardIndex: number): Promise<Record<string, Job> | null> {
-  const filename = getJobShardFilename(shardIndex);
-  const local = readLocalJobShard(filename);
-  if (local) return local;
-
-  let lastError: unknown;
-  for (let attempt = 0; attempt < 2; attempt++) {
-    try {
-      const res = await fetchSiteAsset(`/job-shards/${filename}`);
-      if (!res.ok) throw new Error(`HTTP ${res.status}`);
-      const parsed: unknown = await res.json();
-      if (!parsed || typeof parsed !== "object") throw new Error("Invalid shard JSON");
-      return parsed as Record<string, Job>;
-    } catch (err) {
-      lastError = err;
-      if (attempt === 0) {
-        await new Promise((resolve) => setTimeout(resolve, 200));
-      }
-    }
-  }
-  console.error(`[fetchJobBySlug] shard ${filename} unavailable:`, lastError);
-  return null;
-}
-
-/** Load a single job record by slug from a 64-shard partitioned catalog instead of 6,000+ files or the full catalog. */
+/**
+ * Resolve a job by short slug from the committed jobs-runtime catalog.
+ * Does not depend on gitignored job-shards or CDN shard fetches — those were
+ * the source of intermittent /:slug 404s on Firebase standalone.
+ */
 export async function fetchJobBySlug(slug: string): Promise<Job | null> {
   const clean = slug.toLowerCase().trim();
   if (!clean) return null;
+  const { bySlug } = await getRuntimeIndexes();
+  return bySlug.get(clean) ?? null;
+}
 
-  const shardIndex = getJobSlugShardIndex(clean);
-  const cachedShard = shardCache.get(shardIndex);
-  if (cachedShard) {
-    return cachedShard[clean] ?? null;
-  }
-
-  let pending = shardLoadPromises.get(shardIndex);
-  if (!pending) {
-    pending = loadJobShardFile(shardIndex);
-    shardLoadPromises.set(shardIndex, pending);
-  }
-
-  try {
-    const shard = await pending;
-    if (shard) {
-      shardCache.set(shardIndex, shard);
-      return shard[clean] ?? null;
-    }
-    return null;
-  } finally {
-    shardLoadPromises.delete(shardIndex);
-  }
+/** Resolve a job by employer posting id (feeds advertise /jobs/{id}). */
+export async function fetchJobById(id: string): Promise<Job | null> {
+  const clean = id.toLowerCase().trim();
+  if (!clean) return null;
+  const { byId } = await getRuntimeIndexes();
+  return byId.get(clean) ?? null;
 }

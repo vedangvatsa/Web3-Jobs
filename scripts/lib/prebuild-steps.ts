@@ -1,9 +1,15 @@
+import { JOB_SHARD_COUNT, getJobShardFilename } from '../../src/lib/job-shards';
+
 export type PrebuildStep = {
   id: string;
   inputs: string[];
   outputs: string[];
   command: string;
 };
+
+const JOB_SHARD_OUTPUTS = Array.from({ length: JOB_SHARD_COUNT }, (_, i) =>
+  `content/job-shards/${getJobShardFilename(i)}`,
+);
 
 /** Input → output prep steps (order matters). */
 export const PREBUILD_DATA_STEPS: PrebuildStep[] = [
@@ -28,7 +34,11 @@ export const PREBUILD_DATA_STEPS: PrebuildStep[] = [
   {
     id: 'jobs-runtime',
     inputs: ['content/jobs-cache.json'],
-    outputs: ['content/jobs-runtime.json', 'content/homepage-jobs.json'],
+    outputs: [
+      'content/jobs-runtime.json',
+      'content/homepage-jobs.json',
+      ...JOB_SHARD_OUTPUTS,
+    ],
     command: 'npx tsx scripts/precompute-jobs-runtime.ts',
   },
   {

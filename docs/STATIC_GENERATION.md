@@ -19,3 +19,5 @@ The check reads the actual Next.js prerender manifest, enforces a 300-route budg
 `Generating static pages` will still appear in build logs. Its total should be a small, fixed set of pages, not tens of thousands of catalog entries. Build/prebuild caches and this route budget solve different problems: restoring prepared JSON does not stop Next.js from rendering every URL returned by `generateStaticParams`.
 
 For self-hosted Next.js, keep the standalone server's incremental cache writable. Each instance initially has a cold cache unless the hosting platform supplies a shared incremental cache. Do not set `dynamicParams = false` as a speed fix; that would turn unbuilt job, event, and article URLs into 404s.
+
+**Catalog integrity (all page types):** detail pages must resolve from local catalogs inside `.next/standalone` (jobs, events, glossary, companies, articles, news, description shards, articles-data). They must not depend on opportunistic CDN fetches. Postbuild runs `copy-standalone-catalogs.ts`. Deploy gates run `test-site-catalog-integrity.ts` so a missing catalog fails the build before rollout.

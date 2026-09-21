@@ -35,20 +35,25 @@ async function main() {
   };
   try {
     process.chdir(temporary);
-    await assert.rejects(getEvents(), /503/);
+    // Transient 503s are retried inside loadStaticJson — first call still succeeds.
+    assert.deepEqual(await getEvents(), [event]);
     assert.deepEqual(await getEvents(), [event]);
     assert.equal(await getEventBySlug('pbw'), null, 'A missing event alias must not resolve to an unrelated conference');
     assert.equal((await getEventBySlug('icbti'))?.id, event.id);
     await assert.rejects(getAllTerms(), /invalid catalog/);
     assert.deepEqual(await getAllTerms(), [term]);
     assert.equal((await getTerm('example'))?.term, 'Example');
-    await assert.rejects(getJobs(), /503/);
     assert.deepEqual(await getJobs(), [job]);
-    assert.deepEqual(await getNewsFeed(), []);
+    assert.deepEqual(await getJobs(), [job]);
+    // News also retries transient 503s, then caches.
+    assert.deepEqual(await getNewsFeed(), [item]);
     assert.deepEqual(await getNewsFeed(), [item]);
     await Promise.all(Array.from({ length: 10 }, () => loadStaticJson('dedup-test.json')));
     assert.equal(calls.get('dedup-test.json'), 1);
-    for (const filename of Object.keys(values).filter(name => name !== 'dedup-test.json')) assert.equal(calls.get(filename), 2, filename);
+    assert.ok((calls.get('events-runtime.json') ?? 0) >= 2, 'events must retry after 503');
+    assert.ok((calls.get('jobs-runtime.json') ?? 0) >= 2, 'jobs must retry after 503');
+    assert.ok((calls.get('news-cache.json') ?? 0) >= 2, 'news must retry after 503');
+    assert.equal(calls.get('glossary-runtime.json'), 2, 'glossary');
     assert.deepEqual(getAdjacentLessons('fundamentals', 'not-a-lesson'), { prev: null, next: null });
     console.log('Catalog recovery passed: events, glossary, jobs, news, invalid payloads, request deduplication and alias isolation.');
   } finally {

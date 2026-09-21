@@ -18,6 +18,7 @@ async function ensureEventsIndex(): Promise<EventsIndex> {
       !!event && typeof event === 'object' && 'id' in event && typeof event.id === 'string' && 'name' in event && typeof event.name === 'string'
     )).then((allEventsList) => {
       const list = Array.isArray(allEventsList) ? allEventsList : [];
+      if (list.length === 0) throw new Error('Empty events runtime catalog');
       const bySlug = buildEventSlugIndex(list);
       eventsIndex = { list, bySlug };
       return eventsIndex;

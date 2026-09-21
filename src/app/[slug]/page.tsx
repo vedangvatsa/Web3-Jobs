@@ -277,59 +277,62 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
   if (slugType === 'job') {
     const jobResolution = await resolveJobSlug(slug);
     const jobMeta = jobResolution.job;
-    if (jobMeta) {
-      await ensureDescriptionShardLoaded(jobMeta);
-      await getOrFetchRawJobContent(jobMeta);
-      const siteUrl = 'https://hashtagweb3.com';
-      const canonicalSlug = jobResolution.canonicalSlug || jobMeta.slug || slug;
-      const canonicalUrl = `${siteUrl}/${canonicalSlug}`;
-      const title = `${jobMeta.title} at ${jobMeta.company}`;
-      const description = buildUniqueJobMetaDescription(jobMeta);
-      const ogImageUrl = buildJobOgImageUrl(
-        { ...jobMeta, slug: canonicalSlug },
-        siteUrl,
-      );
-      const previewHtml = buildSynthesizedJobContent(jobMeta);
-      const hasVerifiedContent = await jobPageShouldIndex(jobMeta, previewHtml);
-      return {
+    if (!jobMeta) {
+      // Known job-shaped URL with no catalog hit — soft 404 metadata only.
+      // Do not fall through to article probes (extra IO) before notFound.
+      notFound();
+    }
+    await ensureDescriptionShardLoaded(jobMeta);
+    await getOrFetchRawJobContent(jobMeta);
+    const siteUrl = 'https://hashtagweb3.com';
+    const canonicalSlug = jobResolution.canonicalSlug || jobMeta.slug || slug;
+    const canonicalUrl = `${siteUrl}/${canonicalSlug}`;
+    const title = `${jobMeta.title} at ${jobMeta.company}`;
+    const description = buildUniqueJobMetaDescription(jobMeta);
+    const ogImageUrl = buildJobOgImageUrl(
+      { ...jobMeta, slug: canonicalSlug },
+      siteUrl,
+    );
+    const previewHtml = buildSynthesizedJobContent(jobMeta);
+    const hasVerifiedContent = await jobPageShouldIndex(jobMeta, previewHtml);
+    return {
+      title,
+      description,
+      metadataBase: new URL(siteUrl),
+      alternates: { canonical: canonicalUrl },
+      robots: hasVerifiedContent ? { index: true, follow: true } : { index: false, follow: true },
+      openGraph: {
         title,
         description,
-        metadataBase: new URL(siteUrl),
-        alternates: { canonical: canonicalUrl },
-        robots: hasVerifiedContent ? { index: true, follow: true } : { index: false, follow: true },
-        openGraph: {
-          title,
-          description,
-          url: canonicalUrl,
-          type: 'website',
-          siteName: 'Hashtag Web3',
-          images: [
-            {
-              url: ogImageUrl,
-              width: 1200,
-              height: 630,
-              alt: title,
-              type: 'image/png',
-            },
-          ],
-        },
-        twitter: {
-          card: 'summary_large_image',
-          title,
-          description,
-          site: '@hashtag_web3',
-          creator: '@hashtag_web3',
-          images: [
-            {
-              url: ogImageUrl,
-              width: 1200,
-              height: 630,
-              alt: `${title} - Hashtag Web3`,
-            },
-          ],
-        },
-      };
-    }
+        url: canonicalUrl,
+        type: 'website',
+        siteName: 'Hashtag Web3',
+        images: [
+          {
+            url: ogImageUrl,
+            width: 1200,
+            height: 630,
+            alt: title,
+            type: 'image/png',
+          },
+        ],
+      },
+      twitter: {
+        card: 'summary_large_image',
+        title,
+        description,
+        site: '@hashtag_web3',
+        creator: '@hashtag_web3',
+        images: [
+          {
+            url: ogImageUrl,
+            width: 1200,
+            height: 630,
+            alt: `${title} - Hashtag Web3`,
+          },
+        ],
+      },
+    };
   }
 
   // Final fallback

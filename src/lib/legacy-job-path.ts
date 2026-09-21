@@ -1,4 +1,4 @@
-import { getJobShardFilename, getJobSlugShardIndex } from '@/lib/job-shards';
+import { fetchJobBySlug } from '@/lib/job-by-slug-record';
 
 /** Paths under /jobs that are feeds, not job slugs. */
 export const LEGACY_JOB_PATH_RESERVED = new Set([
@@ -17,26 +17,15 @@ export function parseLegacyJobPathSegment(pathname: string): string | null {
   return segment;
 }
 
-/** Resolve /jobs/:segment → canonical /:slug using one job-shard fetch (edge/FAH-safe). */
+/** Resolve /jobs/:segment → canonical /:slug using shard + runtime catalog. */
 export async function resolveLegacyJobRedirectPath(
   segment: string,
-  origin: string,
+  _origin: string,
 ): Promise<string | null> {
   const clean = segment.toLowerCase().trim();
   if (!clean) return null;
 
-  const shardUrl = new URL(`/job-shards/${getJobShardFilename(getJobSlugShardIndex(clean))}`, origin);
-  try {
-    const res = await fetch(shardUrl, {
-      headers: { Accept: 'application/json' },
-      next: { revalidate: 300 },
-    });
-    if (!res.ok) return null;
-    const shard = (await res.json()) as Record<string, { slug?: string }>;
-    const job = shard[clean];
-    if (job?.slug) return `/${job.slug}`;
-  } catch {
-    return null;
-  }
+  const job = await fetchJobBySlug(clean);
+  if (job?.slug) return `/${job.slug}`;
   return null;
 }

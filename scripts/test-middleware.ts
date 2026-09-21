@@ -5,16 +5,8 @@ async function runMiddlewareTests() {
   console.log('🧪 Running automated middleware regression & integration tests...\n');
 
   const originalFetch = globalThis.fetch;
-  globalThis.fetch = async (input: RequestInfo | URL, init?: RequestInit) => {
-    const url = String(input);
-    if (url.includes('/job-shards/job-shard-02.json')) {
-      return new Response(JSON.stringify({ sales386: { slug: 'sales386', title: 'T', company: 'C' } }), {
-        status: 200,
-        headers: { 'Content-Type': 'application/json' },
-      });
-    }
-    return originalFetch(input, init);
-  };
+  // Keep fetch available for non-catalog middleware paths; job redirects use local jobs-runtime.
+  globalThis.fetch = originalFetch;
 
   let passed = 0;
   let failed = 0;
@@ -32,11 +24,11 @@ async function runMiddlewareTests() {
 
   console.log('1. Testing legacy /jobs/:slug → /:slug redirects...');
   try {
-    const req = new NextRequest('https://hashtagweb3.com/jobs/sales386');
+    const req = new NextRequest('https://hashtagweb3.com/jobs/arc6');
     const res = await middleware(req);
     assert(
-      res.status === 308 && res.headers.get('location') === 'https://hashtagweb3.com/sales386',
-      'Legacy /jobs/sales386 redirects to canonical job page',
+      res.status === 308 && res.headers.get('location') === 'https://hashtagweb3.com/arc6',
+      'Legacy /jobs/arc6 redirects to canonical job page',
       `Got ${res.status} ${res.headers.get('location')}`,
     );
   } catch (err: any) {

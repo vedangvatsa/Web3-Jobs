@@ -1,0 +1,73 @@
+#!/usr/bin/env tsx
+/**
+ * Copy every runtime catalog the site needs into `.next/standalone`.
+ * Without this, FAH cold starts miss content/public files and detail pages 404.
+ */
+import fs from 'node:fs';
+import path from 'node:path';
+
+const ROOT = process.cwd();
+const STANDALONE = path.join(ROOT, '.next', 'standalone');
+
+const FILES = [
+  'content/jobs-runtime.json',
+  'content/homepage-jobs.json',
+  'content/events-runtime.json',
+  'content/glossary-runtime.json',
+  'content/companies-runtime.json',
+  'content/company-profiles-runtime.json',
+  'content/articles-index.json',
+  'content/news-cache.json',
+  'content/slug-types.json',
+  'content/legacy-slugs-archive.json',
+  'content/learn-runtime.json',
+  'content/pseo-resources-runtime.json',
+  'content/company-logos-index.json',
+  'content/latest-articles.json',
+  'content/sitemap-routes.json',
+];
+
+const DIRS = [
+  ['content/job-shards', 'content/job-shards'],
+  ['content/job-description-shards', 'content/job-description-shards'],
+  ['content/articles', 'content/articles'],
+  ['content/glossary', 'content/glossary'],
+  ['public/data', 'public/data'],
+  ['public/job-shards', 'public/job-shards'],
+  ['public/job-description-shards', 'public/job-description-shards'],
+  ['public/articles-data', 'public/articles-data'],
+];
+
+function copyFile(rel: string): void {
+  const src = path.join(ROOT, rel);
+  if (!fs.existsSync(src)) {
+    console.warn(`[copy-standalone-catalogs] skip missing ${rel}`);
+    return;
+  }
+  const dest = path.join(STANDALONE, rel);
+  fs.mkdirSync(path.dirname(dest), { recursive: true });
+  fs.copyFileSync(src, dest);
+}
+
+function copyDir(srcRel: string, destRel: string): void {
+  const src = path.join(ROOT, srcRel);
+  if (!fs.existsSync(src)) {
+    console.warn(`[copy-standalone-catalogs] skip missing dir ${srcRel}`);
+    return;
+  }
+  const dest = path.join(STANDALONE, destRel);
+  fs.mkdirSync(dest, { recursive: true });
+  fs.cpSync(src, dest, { recursive: true });
+}
+
+function main(): void {
+  if (!fs.existsSync(STANDALONE)) {
+    console.log('[copy-standalone-catalogs] no .next/standalone — skip');
+    return;
+  }
+  for (const file of FILES) copyFile(file);
+  for (const [src, dest] of DIRS) copyDir(src, dest);
+  console.log('[copy-standalone-catalogs] site catalogs copied into .next/standalone');
+}
+
+main();

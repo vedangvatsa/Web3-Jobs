@@ -9,8 +9,13 @@ export async function getJobs(): Promise<Job[]> {
   if (!jobsLoad) {
     jobsLoad = loadStaticJson<Job[]>('jobs-runtime.json', Array.isArray)
       .then((runtime) => {
-        if (!Array.isArray(runtime)) throw new Error('Invalid jobs runtime catalog');
+        if (!Array.isArray(runtime) || runtime.length === 0) {
+          throw new Error('Invalid or empty jobs runtime catalog');
+        }
         jobsCache = runtime.filter(job => job.active !== false);
+        if (jobsCache.length === 0) {
+          throw new Error('Jobs runtime catalog has no active jobs');
+        }
         return jobsCache;
       })
       .catch((error) => {

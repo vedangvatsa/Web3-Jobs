@@ -1,7 +1,7 @@
 import fs from 'fs';
-import path from 'path';
 import type { Job } from '@/types';
 import { fetchSiteAsset } from './load-static-json';
+import { findLocalFile } from './catalog-fs';
 import {
   createEmptyJobDescriptionShard,
   getJobDescriptionShardFilename,
@@ -14,17 +14,13 @@ const descriptionsShardCache = new Map<string, JobDescriptionShard>();
 const shardLoadPromises = new Map<string, Promise<JobDescriptionShard>>();
 
 function readLocalDescriptionShard(filename: string): JobDescriptionShard | null {
+  const filePath =
+    findLocalFile('content', 'job-description-shards', filename) ??
+    findLocalFile('public', 'job-description-shards', filename);
+  if (!filePath) return null;
   try {
-    if (typeof fs === 'undefined' || !fs.existsSync) return null;
-    for (const dir of [
-      path.join('public', 'job-description-shards'),
-      path.join('content', 'job-description-shards'),
-    ]) {
-      const filePath = path.join(process.cwd(), dir, filename);
-      if (!fs.existsSync(filePath)) continue;
-      const parsed: unknown = JSON.parse(fs.readFileSync(filePath, 'utf8'));
-      if (isJobDescriptionShard(parsed)) return parsed;
-    }
+    const parsed: unknown = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+    if (isJobDescriptionShard(parsed)) return parsed;
   } catch {
     return null;
   }
@@ -64,7 +60,7 @@ export async function ensureDescriptionShardLoaded(job: Job): Promise<JobDescrip
 
   const loadShard = async (): Promise<JobDescriptionShard> => {
     let lastError: unknown;
-    for (let attempt = 0; attempt < 2; attempt++) {
+    for (let attempt = 0; attempt < 3; attempt++) {
       try {
         const res = await fetchSiteAsset(`/job-description-shards/${filename}`);
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
@@ -75,8 +71,8 @@ export async function ensureDescriptionShardLoaded(job: Job): Promise<JobDescrip
         return parsed;
       } catch (err) {
         lastError = err;
-        if (attempt === 0) {
-          await new Promise((resolve) => setTimeout(resolve, 200));
+        if (attempt < 2) {
+          await new Promise((resolve) => setTimeout(resolve, 150 * (attempt + 1)));
         }
       }
     }

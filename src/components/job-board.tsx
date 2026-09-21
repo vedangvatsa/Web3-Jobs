@@ -69,10 +69,13 @@ export function JobBoard({
   initialJobs,
   initialTotal = initialJobs.length,
   companyLogos = {},
+  showResultCount = true,
 }: {
   initialJobs: Job[];
   initialTotal?: number;
   companyLogos?: CompanyLogoMap;
+  /** When false, hides “Showing N results” until the user searches (homepage). */
+  showResultCount?: boolean;
 }) {
   const [inputValue, setInputValue] = useState('');
   const [searchQuery, setSearchQuery] = useState('');
@@ -204,7 +207,13 @@ export function JobBoard({
           'data-toolname': 'searchWeb3Jobs',
           'data-tooldescription': 'Search current Web3 job listings by role or company.',
         }}
-        resultCount={!isLoading ? total : null}
+        resultCount={
+          !showResultCount && !searchQuery
+            ? null
+            : !isLoading
+              ? total
+              : null
+        }
       />
 
       <div ref={gridRef} className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">

@@ -3,6 +3,7 @@ import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
 import { fetchSiteAsset, loadStaticJson } from '@/lib/load-static-json';
+import { findLocalDir, findLocalFile } from '@/lib/catalog-fs';
 import { replaceArticleTweetEmbeds } from '@/lib/article-tweet-embed';
 import { remark } from 'remark';
 import remarkGfm from 'remark-gfm';
@@ -10,7 +11,10 @@ import html from 'remark-html';
 import sanitizeHtml from 'sanitize-html';
 import slugTypesJson from '../../content/slug-types.json';
 
-const contentArticlesDirectory = path.join(process.cwd(), 'content/articles');
+function articlesDirectory(): string {
+  return findLocalDir('content', 'articles') ?? path.join(process.cwd(), 'content/articles');
+}
+
 const ARTICLE_SLUG_SET = new Set(
   ((slugTypesJson as { articles?: string[] }).articles ?? []).map((s) => s.toLowerCase().trim()),
 );
@@ -317,11 +321,15 @@ function normalizeArticleMarkdown(content: string, heroImage?: string): string {
   );
 }
 
-const latestArticlesPath = path.join(process.cwd(), 'content/latest-articles.json');
+const latestArticlesPathCandidates = () =>
+  [findLocalFile('content', 'latest-articles.json'), path.join(process.cwd(), 'content/latest-articles.json')].filter(
+    Boolean,
+  ) as string[];
 
 /** Footer-only: reads precomputed JSON instead of scanning all article files. */
 export async function getFooterArticles(): Promise<ArticleMetadata[]> {
- if (fs.existsSync(latestArticlesPath)) {
+ for (const latestArticlesPath of latestArticlesPathCandidates()) {
+  if (!fs.existsSync(latestArticlesPath)) continue;
   try {
    const data = JSON.parse(fs.readFileSync(latestArticlesPath, 'utf8')) as ArticleMetadata[];
    if (Array.isArray(data) && data.length > 0) {
@@ -343,7 +351,7 @@ export async function getFooterArticles(): Promise<ArticleMetadata[]> {
 
 export async function getAllArticles(): Promise<ArticleMetadata[]> {
  if (process.env.NODE_ENV !== 'production') {
-  return readArticlesFromDirectory(contentArticlesDirectory)
+  return readArticlesFromDirectory(articlesDirectory())
    .sort((a, b) => a.title.localeCompare(b.title));
  }
 
@@ -357,7 +365,7 @@ export async function getAllArticles(): Promise<ArticleMetadata[]> {
    // Fall through to filesystem (local Node / build).
   }
   if (!articleMetadataCache?.length) {
-   articleMetadataCache = readArticlesFromDirectory(contentArticlesDirectory)
+   articleMetadataCache = readArticlesFromDirectory(articlesDirectory())
     .sort((a, b) => a.title.localeCompare(b.title));
   }
  }
@@ -365,14 +373,15 @@ export async function getAllArticles(): Promise<ArticleMetadata[]> {
  return [...(articleMetadataCache ?? [])];
 }
 
-const SITE_ORIGIN = process.env.NEXT_PUBLIC_SITE_URL?.replace(/\/$/, '') || 'https://hashtagweb3.com';
 const fullArticleCache = new Map<string, Article>();
 
 export async function getArticle(slug: string): Promise<Article | undefined> {
  const cached = fullArticleCache.get(slug);
  if (cached) return cached;
 
- const fullPath = path.join(contentArticlesDirectory, `${slug}.md`);
+ const fullPath =
+  findLocalFile('content', 'articles', `${slug}.md`) ??
+  path.join(articlesDirectory(), `${slug}.md`);
 
  try {
   if (typeof fs !== 'undefined' && fs.existsSync && fs.existsSync(fullPath)) {
@@ -456,17 +465,37 @@ export async function getArticle(slug: string): Promise<Article | undefined> {
   return undefined;
  }
 
- // Cloudflare Edge: fetch pre-rendered static JSON from CDN
- try {
-  const res = await fetchSiteAsset(`/articles-data/${slug}.json`);
-  if (res.ok) {
-   const articleResult = (await res.json()) as Article;
+ // Local precomputed JSON (standalone / FAH) before any CDN round-trip.
+ const localJsonPath = findLocalFile('public', 'articles-data', `${slug}.json`);
+ if (localJsonPath) {
+  try {
+   const articleResult = JSON.parse(fs.readFileSync(localJsonPath, 'utf8')) as Article;
    fullArticleCache.set(slug, articleResult);
    return articleResult;
+  } catch (err) {
+   console.error(`[getArticle] Corrupt local articles-data for "${slug}":`, err);
   }
- } catch (err) {
-  console.error(`[getArticle] Failed to fetch precomputed article for "${slug}":`, err);
  }
+
+ // CDN / assets binding fallback with retries
+ let lastError: unknown;
+ for (let attempt = 0; attempt < 3; attempt++) {
+  try {
+   const res = await fetchSiteAsset(`/articles-data/${slug}.json`);
+   if (res.ok) {
+    const articleResult = (await res.json()) as Article;
+    fullArticleCache.set(slug, articleResult);
+    return articleResult;
+   }
+   lastError = new Error(`HTTP ${res.status}`);
+  } catch (err) {
+   lastError = err;
+  }
+  if (attempt < 2) {
+   await new Promise((resolve) => setTimeout(resolve, 150 * (attempt + 1)));
+  }
+ }
+ console.error(`[getArticle] Failed to fetch precomputed article for "${slug}":`, lastError);
 
  return undefined;
 }

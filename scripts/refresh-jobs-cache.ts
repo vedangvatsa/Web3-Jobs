@@ -23,6 +23,7 @@ import {
   writeJobDescriptionStore,
 } from './lib/job-description-store';
 import { cleanJobLocation } from '../src/lib/job-location';
+import { enrichMultiOfficeLocations } from './lib/enrich-multi-office-locations';
 
 interface GetroBoard {
   url: string;
@@ -2099,6 +2100,11 @@ async function refreshJobsCache() {
 
     return true;
   });
+
+  const locationEnriched = await enrichMultiOfficeLocations(allJobs);
+  if (locationEnriched > 0) {
+    console.log(`  📍 Expanded multi-office locations for ${locationEnriched} posting(s)`);
+  }
 
   // Deduplicate identical postings (same company + title + location)
   const seenJobKeys = new Set<string>();

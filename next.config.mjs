@@ -7,6 +7,35 @@ const projectRoot = path.dirname(fileURLToPath(import.meta.url));
 const nextConfig = {
   output: 'standalone',
   serverExternalPackages: ['firebase-admin', '@neynar/nodejs-sdk'],
+  // Keep job/event catalogs inside the standalone server image. Without this,
+  // FAH cold starts miss content/*.json, fall back to HTTP shard/catalog fetches,
+  // and intermittently 404 job URLs (then ISR caches the 404).
+  outputFileTracingIncludes: {
+    '/*': [
+      './content/jobs-runtime.json',
+      './content/homepage-jobs.json',
+      './content/events-runtime.json',
+      './content/glossary-runtime.json',
+      './content/companies-runtime.json',
+      './content/company-profiles-runtime.json',
+      './content/articles-index.json',
+      './content/news-cache.json',
+      './content/slug-types.json',
+      './content/legacy-slugs-archive.json',
+      './content/learn-runtime.json',
+      './content/pseo-resources-runtime.json',
+      './content/company-logos-index.json',
+      './content/latest-articles.json',
+      './content/job-shards/**/*',
+      './content/job-description-shards/**/*',
+      './content/articles/**/*',
+      './content/glossary/**/*',
+      './public/data/**/*',
+      './public/job-shards/**/*',
+      './public/job-description-shards/**/*',
+      './public/articles-data/**/*',
+    ],
+  },
   experimental: {
     // Job description shards are served from /public/job-description-shards (CDN), not bundled in the Worker.
     // Trim compile time + client bundles: per-icon/cherry-picked imports.

@@ -17,6 +17,7 @@ async function ensureGlossaryIndex(): Promise<GlossaryIndex> {
       !!term && typeof term === 'object' && 'slug' in term && typeof term.slug === 'string' && 'term' in term && typeof term.term === 'string'
     )).then((raw) => {
       const allTermsList = Array.isArray(raw) ? raw : [];
+      if (allTermsList.length === 0) throw new Error('Empty glossary runtime catalog');
       const termBySlugMap = new Map<string, GlossaryTerm>();
       for (const term of allTermsList) {
         termBySlugMap.set(term.slug.toLowerCase().trim(), term);

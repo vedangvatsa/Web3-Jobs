@@ -36,6 +36,11 @@ function writeJobShards(listing: Job[]) {
     fs.writeFileSync(path.join(JOB_SHARDS_DIR, filename), json, "utf-8");
     fs.writeFileSync(path.join(PUBLIC_JOB_SHARDS_DIR, filename), json, "utf-8");
   }
+
+  const written = fs.readdirSync(JOB_SHARDS_DIR).filter((name) => /^job-shard-\d{2}\.json$/.test(name));
+  if (written.length !== JOB_SHARD_COUNT) {
+    throw new Error(`Expected ${JOB_SHARD_COUNT} job shards, found ${written.length}`);
+  }
   console.log(`Wrote ${JOB_SHARD_COUNT} job shards (${listing.length} total jobs) to ${JOB_SHARDS_DIR}`);
 }
 

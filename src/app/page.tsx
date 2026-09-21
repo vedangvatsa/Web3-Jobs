@@ -104,6 +104,7 @@ export default function JobsPage() {
                 initialJobs={initialJobs}
                 initialTotal={totalJobs}
                 companyLogos={companyLogos}
+                showResultCount={false}
               />
             </article>
           </PageShell>
