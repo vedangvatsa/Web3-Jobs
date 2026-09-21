@@ -32,16 +32,7 @@ on:
     inputs:
       platform:
         description: 'Target platform (all, x, threads, bluesky, farcaster, linkedin, facebook, instagram)'
-        type: choice
-        options:
-          - all
-          - x
-          - threads
-          - bluesky
-          - farcaster
-          - linkedin
-          - facebook
-          - instagram
+        type: string
         default: all
       dry_run:
         description: 'Dry run mode (preview without posting)'
