@@ -80,10 +80,12 @@
   },
   "7208537": {
     "slugs": [
-      "engineer138"
+      "engineer138",
+      "engineer08537",
+      "engineer-0l5dxqf"
     ],
-    "lastSlug": "engineer138",
-    "lastUrl": "https://hashtagweb3.com/engineer138",
+    "lastSlug": "engineer-0l5dxqf",
+    "lastUrl": "https://hashtagweb3.com/engineer-0l5dxqf",
     "updatedAt": "2026-09-20T21:47:01.594Z"
   },
   "7489707": {
@@ -2705,10 +2707,13 @@
   },
   "tangem-product-discovery-lead-web3": {
     "slugs": [
-      "product586"
+      "product586",
+      "product19",
+      "product-discovery",
+      "productdweb3"
     ],
-    "lastSlug": "product586",
-    "lastUrl": "https://hashtagweb3.com/product586",
+    "lastSlug": "productdweb3",
+    "lastUrl": "https://hashtagweb3.com/productdweb3",
     "updatedAt": "2026-09-20T21:47:00.915Z"
   },
   "7999893003": {
@@ -2721,10 +2726,14 @@
   },
   "748c7b6322e6": {
     "slugs": [
-      "manager752"
+      "manager752",
+      "manager322e6",
+      "manager561",
+      "manager251",
+      "manager-118wnw0"
     ],
-    "lastSlug": "manager752",
-    "lastUrl": "https://hashtagweb3.com/manager752",
+    "lastSlug": "manager-118wnw0",
+    "lastUrl": "https://hashtagweb3.com/manager-118wnw0",
     "updatedAt": "2026-09-20T21:47:01.191Z"
   },
   "yzilabs-7c2aa732-e7d3-4801-92e2-22899ce75897": {
@@ -2734,5 +2743,45 @@
     "lastSlug": "tc",
     "lastUrl": "https://hashtagweb3.com/tc",
     "updatedAt": "2026-09-20T21:47:01.333Z"
+  },
+  "ada91c04-22a5-4f89-b49e-b3f834c40180": {
+    "slugs": [
+      "pm9"
+    ],
+    "lastSlug": "pm9",
+    "lastUrl": "https://hashtagweb3.com/pm9",
+    "updatedAt": "2026-09-21T09:12:07.006Z"
+  },
+  "tangem-head-of-ai-driven-support-support-automation": {
+    "slugs": [
+      "head85"
+    ],
+    "lastSlug": "head85",
+    "lastUrl": "https://hashtagweb3.com/head85",
+    "updatedAt": "2026-09-21T09:12:07.191Z"
+  },
+  "acf80ca2-7073-49aa-ab4a-7064f852d94f": {
+    "slugs": [
+      "frontend54"
+    ],
+    "lastSlug": "frontend54",
+    "lastUrl": "https://hashtagweb3.com/frontend54",
+    "updatedAt": "2026-09-21T09:12:07.516Z"
+  },
+  "7795766003": {
+    "slugs": [
+      "security132"
+    ],
+    "lastSlug": "security132",
+    "lastUrl": "https://hashtagweb3.com/security132",
+    "updatedAt": "2026-09-21T09:12:07.819Z"
+  },
+  "4705306006": {
+    "slugs": [
+      "sales292"
+    ],
+    "lastSlug": "sales292",
+    "lastUrl": "https://hashtagweb3.com/sales292",
+    "updatedAt": "2026-09-21T09:12:08.097Z"
   }
 }

@@ -590,6 +590,9 @@
   "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
   "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
   "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+  "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
+  "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
+  "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1553,6 +1556,12 @@
   "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
   "Google Says Gemini AI Immediately Ended Hacking Attempts",
   "Google’s Gemini is the latest AI model to hack other companies",
+  "Google SynthID watermarking can cause models to bypass safety",
+  "LLMs respond differently to harmful prompts when AI watermarking is used",
+  "TechCrunch Disrupt 2026 ticket discounts end soon",
+  "6 days left to save up to $200 to TechCrunch Disrupt 2026",
+  "World model AI companies keep their projects secret",
+  "World model companies are keeping a lot of secrets",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -1660,5 +1669,8 @@
   "fp:anthropic|biological|biology|conduct|cur|developer|diseas|evaluat|experiment|lab",
   "fp:accept|begin|buyout|departur|employe|few|flock|layoff|likely|lower",
   "fp:against|also|backlash|claim|creat|evidenc|forc|hoax|nam|political",
-  "fp:act|appropriately|attempt|away|breach|confirm|end|every|gemini|googl"
+  "fp:act|appropriately|attempt|away|breach|confirm|end|every|gemini|googl",
+  "fp:accidentally|bypass|can|caus|differently|digital|discover|embedd|fulfill|googl",
+  "fp:200|attende|can|day|discount|disrupt2026|end|fee|increas|left",
+  "fp:are|build|despit|disclos|fund|interest|keep|lot|project|public"
 ]

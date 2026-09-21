@@ -581,6 +581,9 @@
   "https://hashtagweb3.com/fetch-hack?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/xrpl-batch?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://www.theblock.co/news/defi/2026-09-20-zetachain-votes-to-shut-down-layer-1-network-and-move-zeta-to-solana-415878",
+  "https://hashtagweb3.com/visa-memecoins?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://www.coindesk.com/business/2026/09/21/live-updates-bitcoin-rises-above-usd82-000-as-falling-oil-lifts-risk-assets",
+  "https://cointelegraph.com/markets/bitcoin-reclaims-50-week-moving-average-is-the-bear-market-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -1651,6 +1654,12 @@
   "XRP Ledger Nears Activation of Batch Payments Upgrade",
   "ZetaChain votes to close network and migrate to Solana",
   "ZetaChain votes to shut down Layer 1 network and move ZETA to Solana",
+  "Visa Ends Credit Card Rewards on Meme Coin Purchases",
+  "Visa Moves to Close Meme Coin Credit Card Rewards Loophole",
+  "Bitcoin Rises Above $83,500 as Oil Prices Drop",
+  "Live updates: Bitcoin rockets above $83,500 as falling oil lifts risk assets",
+  "Bitcoin climbs above 50-week moving average",
+  "Bitcoin reclaims 50-week moving average as analysts eye end of bear market",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -1782,5 +1791,8 @@
   "fp:assx|daily|doubl|etf|exposur|firm|fund|leverag|provid|rex",
   "fp:attacker|converter|digital|drain|exploit|fet|fetch|firm|link|mint",
   "fp:activation|allow|batch|bundl|eight|ledger|near|payment|september29|singl",
-  "fp:anuma|application|clos|down|final|focus|layer1|migrat|mov|network"
+  "fp:anuma|application|clos|down|final|focus|layer1|migrat|mov|network",
+  "fp:card|categoriz|clos|coin|credit|digital|eligibility|end|loophol|media",
+  "fp:500|abov|advanc|ahead|asset|between|chines|cryptocurrency|drop|fall",
+  "fp:abov|above50|analyst|averag|caution|climb|clos|confirm|doe|end"
 ]
