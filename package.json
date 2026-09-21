@@ -26,6 +26,7 @@
     "prune:untracked-og-pngs": "npx tsx scripts/prune-untracked-og-pngs.ts",
     "stage:missing-og-pngs": "npx tsx scripts/stage-missing-og-pngs.ts",
     "test:stale-event-covers": "npx tsx scripts/test-prune-stale-event-covers.ts",
+    "test:link-preview-preview-path": "npx tsx scripts/test-link-preview-preview-path.ts",
     "update:prebuild-hashes": "npx tsx scripts/update-prebuild-input-hashes.ts",
     "precompute:og": "npm run precompute:og-incremental",
     "precompute:jobs-runtime": "npx tsx scripts/precompute-jobs-runtime.ts",

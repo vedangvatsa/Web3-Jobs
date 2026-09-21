@@ -23,6 +23,7 @@ function fullGates(): void {
 function fastGates(): void {
   console.log('[prebuild-gates] FAH_FAST_PREBUILD — smoke gates only');
   run('npx tsx scripts/test-middleware.ts');
+  run('npx tsx scripts/test-link-preview-preview-path.ts');
   run('npx tsx scripts/test-popup-root-pages.ts');
   run('npx tsx scripts/test-job-slug-reserved.ts');
   run('npx tsx scripts/check-slug-collisions.ts');

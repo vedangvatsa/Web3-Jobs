@@ -227,13 +227,11 @@ export async function middleware(request: NextRequest) {
         // navigation; bot stacks (LinkedInBot, Meta-ExternalAgent, etc.) do not.
         // Treat "bot UA OR no browser navigation signals" as a crawler.
         if (isLinkPreviewCrawlerRequest(request)) {
-          const previewPath = linkPreviewPreviewPath(basePath, request.headers.get('user-agent') || '', true);
-          if (previewPath) {
-            const crawlerRewrite = request.nextUrl.clone();
-            crawlerRewrite.pathname = previewPath;
-            crawlerRewrite.search = '';
-            return NextResponse.rewrite(crawlerRewrite);
-          }
+          const crawlerRewrite = request.nextUrl.clone();
+          crawlerRewrite.pathname =
+            basePath === '/' ? '/preview/index.html' : `/preview${basePath}.html`;
+          crawlerRewrite.search = '';
+          return NextResponse.rewrite(crawlerRewrite);
         }
 
         // For human visitors, redirect with absolute URL and UTM parameters
