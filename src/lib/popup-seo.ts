@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import type { Popup } from '@/types/popup';
 import { formatPopupField } from '@/lib/popup-narrative';
+import { getPopupBySlug } from '@/lib/popups';
 
 /** Old popup slugs → current slug. */
 const POPUP_SLUG_ALIASES: Record<string, string> = {
@@ -15,6 +16,12 @@ export function resolvePopupSlug(segment: string): string {
 export function getPopupPath(slug: string): string {
   const canonical = resolvePopupSlug(slug);
   return `/${canonical}`;
+}
+
+/** Resolve a root path segment to a popup record (aliases included). */
+export function resolvePopupForPathSegment(segment: string): Popup | undefined {
+  const canonical = resolvePopupSlug(segment);
+  return getPopupBySlug(canonical);
 }
 
 export function popupPageMetadata(popup: Popup): Metadata {

@@ -57,7 +57,7 @@ import { getCompanySlug } from '@/lib/job-slugs';
 import { buildJobOgImageUrl, buildArticleOgImageUrl, buildCompanyOgImageUrl, resolveEventOgImageUrl, eventOgImageMimeType } from '@/lib/job-og';
 import { PopupDetailPage } from '@/components/popup-detail-page';
 import { getPopupBySlug } from '@/lib/popups';
-import { getPopupPath, popupPageMetadata, resolvePopupSlug } from '@/lib/popup-seo';
+import { getPopupPath, popupPageMetadata, resolvePopupForPathSegment, resolvePopupSlug } from '@/lib/popup-seo';
 
 
 type ArticlePageProps = {
@@ -373,6 +373,14 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
       redirect(`/${companyPage.slug}`);
     }
     return <CompanyDetailView slug={companyPage.slug} />;
+  }
+
+  const popupAtRoot = resolvePopupForPathSegment(params.slug);
+  if (popupAtRoot) {
+    if (params.slug.toLowerCase() !== popupAtRoot.slug.toLowerCase()) {
+      permanentRedirect(getPopupPath(popupAtRoot.slug));
+    }
+    return <PopupDetailPage popup={popupAtRoot} />;
   }
 
   if (slugType === 'job') {

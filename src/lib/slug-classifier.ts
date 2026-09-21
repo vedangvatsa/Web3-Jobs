@@ -1,5 +1,6 @@
 import slugTypesJson from '../../content/slug-types.json';
 import legacyArchiveJson from '../../content/legacy-slugs-archive.json';
+import { getPopupSlugs } from '@/lib/popups';
 
 export type SlugType = 'event' | 'company' | 'popup' | 'glossary' | 'resource' | 'article' | 'job';
 
@@ -23,7 +24,7 @@ const data = (slugTypesJson as SlugTypesData) || {
 
 const eventSet = new Set(data.events);
 const companySet = new Set(data.companies);
-const popupSet = new Set(data.popups);
+const popupSet = new Set([...(data.popups ?? []), ...getPopupSlugs()].map((s) => s.toLowerCase().trim()));
 const glossarySet = new Set(data.glossary);
 const resourceSet = new Set(data.resources);
 const articleSet = new Set(data.articles);

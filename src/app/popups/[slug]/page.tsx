@@ -1,5 +1,6 @@
 import { notFound, permanentRedirect } from 'next/navigation';
 import type { Metadata } from 'next';
+import { PopupDetailPage } from '@/components/popup-detail-page';
 import { getPopupBySlug, getPopupSlugs } from '@/lib/popups';
 import { getPopupPath, popupPageMetadata, resolvePopupSlug } from '@/lib/popup-seo';
 
@@ -7,7 +8,7 @@ type PopupPageProps = {
   params: { slug: string };
 };
 
-export const dynamicParams = false;
+export const dynamicParams = true;
 export const revalidate = 3600;
 
 export function generateStaticParams() {
@@ -30,5 +31,9 @@ export default function PopupSlugPage({ params }: PopupPageProps) {
     notFound();
   }
 
-  permanentRedirect(getPopupPath(popup.slug));
+  if (params.slug.toLowerCase() !== popup.slug.toLowerCase()) {
+    permanentRedirect(getPopupPath(popup.slug));
+  }
+
+  return <PopupDetailPage popup={popup} />;
 }
