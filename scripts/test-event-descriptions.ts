@@ -66,6 +66,14 @@ async function main() {
   assert.equal(schedule.content.filter((block) => block.includes('Repeated paragraph')).length, 1);
   assert.ok(schedule.content.some((block) => block === '10 - 20 attendees expected at the venue for this particular evening session.'), 'single quantities stay body copy');
 
+  const restated: Web3Event = { ...example,
+    description: 'Intro line.\n## About Blockchain (https://blockchain.example)\nBlockchain (https://blockchain.example) is a platform for institutions worldwide with history.',
+  };
+  const restatedGuide = buildEditorialFromOrganizerDescription(restated);
+  const aboutSection = restatedGuide.sections.find((section) => section.heading === 'About Blockchain')!;
+  assert.deepEqual(aboutSection.content[0], 'https://blockchain.example');
+  assert.ok(aboutSection.content.join(' ').includes('Blockchain is a platform'), 'restated heading links are not repeated');
+  assert.ok(!aboutSection.content.join(' ').includes('(https://blockchain.example)'));
   const wallSentences = ['The program opens with a keynote on builder infrastructure', 'Mentors from three protocol teams will hold office hours', 'Workshops cover wallets, signing flows and account recovery', 'A panel discusses stablecoin settlement at noon', 'The venue provides food, drinks and quiet hacking space', 'Judges announce winners before the closing reception'];
   const wall: Web3Event = { ...example, description: `${wallSentences.map((sentence, k) => `Part ${k + 1}: ${sentence}.`).join(' ').repeat(6)}` };
   const wallGuide = buildEditorialFromOrganizerDescription(wall);

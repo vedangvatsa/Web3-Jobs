@@ -24,6 +24,12 @@ export default function NotFound() {
             >
               Browse jobs
             </Link>
+            <Link
+              href="/events"
+              className="inline-flex items-center justify-center rounded-md border border-input bg-background px-6 py-3 text-sm font-medium shadow-sm transition-colors hover:bg-accent hover:text-accent-foreground"
+            >
+              Browse events
+            </Link>
           </div>
         </div>
       </main>

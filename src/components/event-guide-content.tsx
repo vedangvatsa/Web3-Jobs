@@ -71,13 +71,6 @@ export function EventGuideContent({ editorial, speakerSummary, officialUrl }: Ev
         </section>
       )}
 
-      {editorial.descriptionSource && (
-        <p className="text-sm">
-          <a href={editorial.descriptionSource.url} target="_blank" rel="noopener noreferrer" className="text-foreground underline underline-offset-4">Description source</a>
-          {' · Checked '}
-          <time dateTime={editorial.descriptionSource.fetchedAt}>{editorial.descriptionSource.fetchedAt.slice(0, 10)}</time>
-        </p>
-      )}
     </section>
   );
 }

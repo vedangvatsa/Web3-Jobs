@@ -533,22 +533,23 @@ The Midwest Bitcoin Summit brings thousands of attendees, 150+ speakers, and the
 
 ### About the event
 
-ETHSofia is Bulgaria's premier Ethereum-focused conference, bringing together builders, researchers, and institutions shaping the future of the original smart contract blockchain. With a strong regional lens and a global perspective, ETHSofia brings together local leaders and international experts to explore the latest Ethereum trends and use cases, from privacy-preserving infrastructure to real-world asset tokenization.
+ETHSofia is Bulgaria's premier Ethereum-focused conference, bringing together builders, researchers, and institutions shaping the future of the original smart contract blockchain.
+
+### Conference
+
+The conference takes place on 24 September 2026 at Sofia Tech Park. With a strong regional lens and a global perspective, ETHSofia brings together local leaders and international experts to explore Ethereum trends and use cases, from privacy-preserving infrastructure to real-world asset tokenization.
 
 ### Main themes
 
-- Onchain privacy and scaling
-- Smart contract security and OPSEC
-- Consumer DeFi
-- Ethereum integrations into Web2
+The program covers onchain privacy and scaling, smart contract security and operations security, consumer DeFi, and Ethereum integrations into Web2 products, delivered by Ethereum teams, service providers, integrating enterprises and security professionals.
 
-### Who attends
+### Speakers
 
-The program brings together Ethereum teams building applications and core infrastructure, service providers supporting production-grade crypto experience, teams integrating Ethereum in Web2, security professionals focused on audits, risk and resilience, and developers and researchers across scaling, privacy, UX and protocol development.
+Published speakers include Viktor Uzunov (UEB3 Fund), Krum Pashov (Pashov Audit Group), Marc Zeller (Aave Chan Initiative), Nicolas Bacca (Ledger, ZKnox), TokenBrice (Polaris), Klara Kovacevic (ChainSecurity), Jonathan Riss (CertiK), Todor Karaivanov (Chainlink Labs), Mark Richardson (Bancor), Steffen Kux (corpus.core), Josef Gattermayer (ack3) and Vyara Savova (European Ethereum Institute).
 
 ### Venue
 
-The conference takes place on 24 September 2026 at Sofia Tech Park. The John Atanasoff Forum is part of Bulgaria's first science and technology park.
+The John Atanasoff Forum is part of Bulgaria's first science and technology park, surrounded by startups, enterprises, investment funds, a laboratory complex and the Discoverer supercomputer. Tickets are available through Blockchain Week Bulgaria, with speaker, partner and volunteer applications open.
 
 <a id="event-9d854602aa5172f3"></a>
 
@@ -581,27 +582,19 @@ ETHGlobal hackathons enable you to experiment with cutting edge web3 technologie
 
 ### Tokyo 2026
 
-The Tokyo hackathon runs September 25-27, 2026 at Toranomon Hills Forum, on the fifth floor of Toranomon Hills Mori Tower. The organizer lists $75,000 available in prizes.
+The Tokyo hackathon runs September 25-27, 2026 at Toranomon Hills Forum, on the fifth floor of Toranomon Hills Mori Tower. The organizer lists $75,000 available in prizes from World, ENS, Uniswap Foundation, 1inch, Sui, Curvegrid and Web3Antivirus.
 
 ### Themes and topics
 
-- Zero knowledge proofs
-- AI x Crypto
-- DeFi and crypto consumer applications
-- Layer 2s and interoperability
-- Public goods
-- Privacy, security and TEEs
-- Data availability, identity and developer tools
+The published tracks include zero knowledge proofs, AI x Crypto, DeFi and crypto consumer applications, Layer 2s and interoperability, public goods, privacy, security and TEEs, data availability, identity and developer tools.
 
 ### Building formats
 
-For the first time ever, your project doesn't have to start at zero. Bring what you've already built.
-
-The organizer offers three formats: From Scratch, Extend Open Source, and Ship a Feature. The published rules specify teams of 1-5 members and up to three sponsor SDKs.
+For the first time ever, a project does not have to start at zero. The organizer offers three formats: From Scratch, Extend Open Source, and Ship a Feature. The published rules specify teams of 1-5 members and up to three sponsor SDKs.
 
 ### Participation
 
-The event is beginner friendly and includes technical mentorship, curated content, exclusive swag, and free food and drinks.
+The event is beginner friendly and includes technical mentorship, curated content, exclusive swag, and free food and drinks. Pragma Tokyo runs as a one-day summit alongside the hackathon week.
 
 <a id="event-57f9234e29ce39ec"></a>
 
@@ -1616,9 +1609,11 @@ More details will be announced soon.
 
 Register now to receive priority access and be first to hear about what's planned.
 
-About Rayls (https://www.rayls.com/?utm_source=luma)
+### About Rayls
 
-Rayls (https://www.rayls.com/?utm_source=luma) is a blockchain ecosystem that bridges traditional finance with decentralized finance by providing a compliant, private, and scalable infrastructure for financial institutions. Its hybrid architecture combines permissioned private networks with an EVM-compatible public chain to facilitate use cases like asset tokenization, cross-border payments, and central bank digital currency settlement
+https://www.rayls.com/?utm_source=luma
+
+Rayls is a blockchain ecosystem that bridges traditional finance with decentralized finance by providing a compliant, private, and scalable infrastructure for financial institutions. Its hybrid architecture combines permissioned private networks with an EVM-compatible public chain to facilitate use cases like asset tokenization, cross-border payments, and central bank digital currency settlement
 
 <a id="event-a6ae3cc1566f34aa"></a>
 
@@ -2593,13 +2588,11 @@ The next $5 trillion in transactions won't be human. Join the global Sui communi
 
 Asia's premier event for stablecoin innovation. We bring together government, institutions, fintech leaders, and blockchain pioneers to explore the future of digital money.
 
-Designed for enterprises and financial institutions engaged in high-volume cross-border payments, we focus on real-world use cases, trustless transactions, transparency, and security.
-
-Join us for expert insights, technical deep dives, and top-tier networking.
+Designed for enterprises and financial institutions engaged in high-volume cross-border payments, the summit focuses on real-world use cases, trustless transactions, transparency, and security, with expert insights, technical deep dives, and top-tier networking.
 
 ### Stablecoin Summit 2026
 
-The XREX event takes place on 8 October 2026 at Andaz Singapore.
+The XREX event takes place on 8 October 2026 at Andaz Singapore, during TOKEN2049 week. Tickets are available through the organizer's ticketing page. The summit runs alongside TOKEN2049 week programming in Singapore.
 
 <a id="event-c7a04d91ec43b6f9"></a>
 
@@ -3049,19 +3042,23 @@ New Trade Routes: Bringing Africa Onchain. Three days of building, networking an
 
 ### About the event
 
-Lugano's Plan ₿ Forum is the premier Bitcoin conference bringing together world leaders, technologists, and entrepreneurs to discuss nation-state Bitcoin adoption, economics, financial freedom, and freedom of speech.
+Lugano's Plan B Forum is the premier Bitcoin conference bringing together world leaders, technologists, and entrepreneurs to discuss nation-state Bitcoin adoption, economics, financial freedom, and freedom of speech.
 
 ### Two-day conference
 
-The forum takes place on 23-24 October 2026 in Lugano. Conference access covers the Convention Centre, Villa Ciani and Ex-Asilo Ciani, with keynotes, panels, workshops, a Bitcoin art gallery, and startup and sponsor exhibitions.
+The forum takes place on 23-24 October 2026 in Lugano at the Palazzo dei Congressi. Conference access covers the Convention Centre, Villa Ciani and Ex-Asilo Ciani, with keynotes, panels, workshops, a Bitcoin art gallery, and startup and sponsor exhibitions.
 
-### Languages
+### Speakers
 
-The event will be conducted in English, but real-time translations in Italian will be provided for the main keynotes and panels. Headsets will be provided on premise.
+Confirmed speakers include Paolo Ardoino (Tether), Elizabeth Stark (Lightning Labs), Adam Back (Blockstream), Saifedean Ammous, Roy Sheinfeld (Breez), Samson Mow (JAN3), Stephan Livera and BTC Sessions.
 
 ### Passes
 
-The published Peer ticket includes keynotes, panels, masterclasses, sponsor exhibitions and one-to-one matched networking. The Cyber Punk ticket adds VIP check-in, front-row seating, speaker meals on both days and VIP-lounge access.
+The published Peer ticket includes keynotes, panels, masterclasses, sponsor exhibitions and one-to-one matched networking. The Cyber Punk ticket adds VIP check-in, front-row seating, speaker meals on both days and VIP-lounge access, a combo pass covers El Salvador and Lugano, and students can apply for a discounted pass. The Cyber Punk ticket adds VIP check-in, front-row seating, speaker meals on both days and VIP-lounge access, and students can apply for a discounted pass.
+
+### Languages
+
+The event is conducted in English, with real-time Italian translations for the main keynotes and panels. Headsets are provided on premise.
 
 <a id="event-698d6e083e57477b"></a>
 
@@ -3335,7 +3332,23 @@ An organizer description has not been verified for this record. Any previous cop
 
 ### About the event
 
-India Blockchain Week 2026 - Accelerating India's Digital Renaissance. The two-day flagship conference anchoring India Blockchain Week, hosted by Hashed Emergent.
+India Blockchain Week 2026 is India's flagship Web3 gathering, hosted by Hashed Emergent. The two-day flagship conference anchors India Blockchain Week on 1-2 November at Fairmont Mumbai.
+
+### Fourth edition in Mumbai
+
+After three landmark editions in Bangalore, the conference moves to Mumbai, India's financial capital, for its fourth edition: closer to capital, institutions and the conversations shaping the next phase of growth.
+
+### Program
+
+The week features more than 50 side events alongside flagship conferences such as the IBW Conference, Devcon and EthGlobal, with hackathons, lounges, investor dinners, workshops, networking sessions and community parties hosted by Indian and global ecosystem players.
+
+### Passes
+
+General passes cover two conference days with the IBW Connect app and expo access. Priority adds the Fairmont lunch buffet and Institutional Forum eligibility. VIP adds the lounge and the pre-conference VIP dinner night, with an Executive tier adding a Fairmont stay and transfers, plus student passes with workshop and hackathon access. Prices exclude GST.
+
+### Who attends
+
+The audience mix spans builders and developers, founders and CEOs, protocol and project teams, investors and capital, policy and institutions, and media and ecosystem contributors. The 2026 speaker lineup and final agenda are announced closer to the event, with speaker, sponsor and partner applications open.
 
 <a id="event-5a90a4056685d05d"></a>
 
@@ -3679,7 +3692,23 @@ An organizer description has not been verified for this record. Any previous cop
 
 ### About the event
 
-Devcon is the Ethereum conference for developers, researchers, thinkers, and makers. Join us 3-6 November 2026 in Mumbai, India.
+Devcon is the annual global event for the movement building free, open, private, and verifiable systems. In 2026 it comes to Mumbai, India, on 3-6 November at G Block, Bandra Kurla Complex.
+
+### Why Mumbai
+
+Devcon calls Mumbai home in 2026 to champion what India is building: deep engineering talent, an open-source community expanding faster than almost any other in the world, and the world's largest public open-source contributor base.
+
+### Program
+
+Programming spans Core Protocol, Privacy and Consent, Security, Futures Worth Building, Users Builders and Agents, Rights Freedoms and Governance, Applied Cryptography, Permissionless Networks, and Open and Verifiable Stack. Formats include talks, workshops, experiences, coworking, art, community hubs, music and hands-on spaces created by the community.
+
+### Tickets
+
+General Admission starts at $499 and is anon-friendly and transferrable with a limit of two per order. Community discounts from $149 cover Indian residents and open-source contributors, with application-based Sanctuary Tech Builder, student and youth passes from $25. All passes include four-day access, catering and swag, plus 18% GST.
+
+### Getting there
+
+The organizer runs an airport welcome booth, with the metro reaching the venue in about five minutes. The event overlaps with Diwali season, so the travel guide advises booking stays early. Speaker, supporter, volunteer and media applications run through the organizer's site.
 
 <a id="event-df26f71b598fc8ab"></a>
 
@@ -3799,7 +3828,7 @@ ETHGlobal hackathons enable you to experiment with cutting edge web3 technologie
 
 ### Mumbai 2026
 
-The Mumbai hackathon runs 5-7 November 2026 at Jio World Convention Centre. The organizer lists $175,000 available in prizes.
+The Mumbai hackathon runs 5-7 November 2026 at Jio World Convention Centre. The organizer lists $175,000 available in prizes across tracks from World, 1inch, 0G, Uniswap Foundation, Arc, Hedera, Arkiv, Whitechain, ENS, Definitive and Chainlink. The published roster spans judges, mentors and speakers from ETHGlobal, Ethereum Foundation, Backpack, MetaMask and ENS.
 
 ### Building formats
 
@@ -3812,6 +3841,10 @@ The published themes include zero knowledge proofs, AI x Crypto, DeFi, crypto co
 ### Venue
 
 Jio World Centre, G Block, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400098, India.
+
+### Around the hackathon
+
+Partners for the weekend include World, 1inch, 0G, ENS, Uniswap Foundation, Arc, Hedera, Arkiv, Definitive Finance and Chainlink Labs. Pragma Mumbai, ETHGlobal's one-day builders summit, takes place on 4 November at Grand Hyatt Mumbai on 26 September alongside the hackathon week.
 
 <a id="event-f2020f957d2f6539"></a>
 
@@ -4258,23 +4291,23 @@ Engage with regulators and industry titans to lead the institutional adoption of
 
 ### About the event
 
-The (un)Banked lands in London - an invite-only gathering of banks, fintechs, and digital asset leaders shaping the next chapter of European finance.
+The (un)Banked lands in London, an invite-only gathering of banks, fintechs, and digital asset leaders shaping the next chapter of European finance.
 
 ### London edition
 
-The conference takes place on 9 November 2026 at Landing Canary Wharf, a waterside venue in London's Canary Wharf business district.
+The conference takes place on 9 November 2026 at Landing Canary Wharf, a waterside venue in London's Canary Wharf business district. The one-day program brings together more than 500 leaders across banking, fintech, crypto and regulation.
 
 ### Program
 
-The published program covers institutional tokenisation, custody and board-level risk, stablecoin payments, institutional capital and digital assets, and the FCA, MiCA and regulatory landscape. Registration and coffee begin at 10:00 AM, with closing remarks and networking at 4:30 PM.
+The published program covers institutional tokenisation, custody and board-level risk, stablecoin payments, institutional capital and digital assets, and the FCA and MiCA regulatory landscape. Registration and coffee begin at 10:00 AM, with closing remarks and networking at 4:30 PM.
 
 ### Attendance
 
-The (un)Banked is invite-only. Register your interest and our team will be in touch with confirmed guests.
+The (un)Banked is invite-only. Register interest through the organizer and the team follows up with confirmed guests. One day. One room. London's most senior finance minds.
 
-### Partnerships
+### Speakers
 
-Sponsorship, media, community partnerships and speakership for the London Edition are open.
+Published speakers include Giovanni Everduin (Commercial Bank International), Laurent Marochini (Standard Chartered), Daniel Rowlands (Wirex), Oleg Bevz (INPUT Global), Rob Hadick (Dragonfly), Alice Li (Foresight Ventures), Jody Mettler (BitGo), James Butterfill (Coinshares) and Artem Stopnevich (The Vault). Sponsors include Paybis, Foresight Ventures, Purewallet and The Vault. Sponsorship, media, community partnerships and speakership for the London edition are open.
 
 <a id="event-ff97c6544eaee797"></a>
 
@@ -4323,21 +4356,21 @@ Bitcoin Histórico is put together by the National Bitcoin Office and CUBO+, the
 
 ### About the event
 
-In November 2026, we host the inaugural edition of the Geneva Summit in Geneva. Join your peers in a cohort of 300 hand-picked decision-makers from leading banks and asset management firms to define the standards of tomorrow's finance industry together.
+In November 2026, the inaugural edition of the Geneva Summit takes place in Geneva. Join a cohort of 300 hand-picked decision-makers from leading banks and asset management firms to define the standards of tomorrow's finance industry together.
 
 ### Program
 
-Two days of panels, workshops and closed-door sessions cover custody, institutional infrastructure, stablecoins, cross-border settlement, real-asset tokenization, regulated AI agents and capital strategy.
+Two days of panels, workshops and closed-door sessions cover custody and institutional infrastructure, stablecoins and cross-border settlement, real-asset tokenization, regulated AI agents and capital strategy. All discussions are held under Chatham House Rule, with no recordings or press access. Three sponsorship levels are available, and a dedicated room block is reserved at Hotel President Wilson for participants.
 
-### Attendance and discussion rules
+The published program spans custody and institutional infrastructure, stablecoins and cross-border settlement, real-asset tokenization, regulated AI agents and capital strategy, with institutions such as JP Morgan, BlackRock, Franklin Templeton, BNP Paribas, Societe Generale and KPMG represented in the room.
 
-The Summit is invitation-only and reserved for senior decision-makers from financial institutions, asset managers, regulators and enterprise firms. The Big Whale Corporate Members receive priority access.
+### Attendance
 
-All discussions are held under Chatham House Rule. There are no recordings or press access. No participation fee applies; attendance conditions are communicated after application approval.
+The Summit is invitation-only and reserved for senior decision-makers from financial institutions, asset managers, regulators and enterprise firms. Corporate members of The Big Whale receive priority access. No participation fee applies; attendance conditions are communicated after application approval.
 
 ### Venue
 
-Hotel President Wilson, 47 Quai Wilson, 1211 Geneva 8, Switzerland. The summit runs on 12-13 November 2026.
+Hotel President Wilson, 47 Quai Wilson, 1211 Geneva, Switzerland. The summit runs on 12-13 November 2026 with plenary, breakout, dining and networking spaces.
 
 <a id="event-0570634dd5627598"></a>
 
@@ -5495,7 +5528,23 @@ An organizer description has not been verified for this record. Any previous cop
 
 ### About the event
 
-The Bridge Between TradFi & Digital Assets. The Institutional Summit for Digital Assets. Paris, July 6-7, 2027.
+The Bridge Between TradFi and Digital Assets. The Institutional Summit for Digital Assets. Paris, July 6-7, 2027.
+
+### What it is
+
+Signal Week is the summit for the institutional digital-assets sector, set in Paris. It succeeds seven years of Paris Blockchain Week as its elevation for the decade ahead: where Paris Blockchain Week built credibility as Europe's leading institutional digital asset conference, Signal Week positions it for the decade ahead.
+
+### Audience
+
+The organizer inherits an audience with more than 70% C-suite or investment decision-makers, 36,000-plus facilitated networking meetings, $50 trillion-plus in assets under management represented, and 389 government officials and policymakers. It is built for banking and financial services, asset management, enterprise, digital-asset native firms, traditional finance, infrastructure providers and family offices.
+
+### Speakers
+
+Past stages have hosted Changpeng Zhao (Binance), Jeremy Allaire (Circle), Lily Liu (Solana Foundation), Silvio Micali (Algorand), Charles Hoskinson, Joseph Lubin (ConsenSys), Tim Draper, Jan Van Eck (VanEck), Yoni Assia (eToro) and Arianna Simpson (a16z), alongside French ministers Anne Le Henanff, Clara Chappaz and Marina Ferrari. Featured faces for 2027 include Adam Back, Nikhil Sharma (BlackRock), Kara Kennedy (JP Morgan), Amy Oldenburg (Morgan Stanley), Ben Slavin (BNY), Christian Rau (Mastercard) and Daniel Seifert (Coinbase).
+
+### Participation
+
+Participants span digital-asset native builders, TradFi and fintech institutions deploying at scale, AI-for-finance providers and ecosystem partners. Founding partnerships for Signal Week 2027 are open.
 
 <a id="event-c5411b5e597d3ec0"></a>
 
@@ -6994,27 +7043,35 @@ Speaker Line ups
 
 #Please register using your company email address for priority approval.
 
-### <Cohosts>
+### About Optimum
 
-About Optimum (https://getoptimum.xyz/?utm_source=luma)
+https://getoptimum.xyz/?utm_source=luma
 
 Optimum is building the universal data acceleration network for blockchains - a high-throughput, low-latency networking protocol powered by Random Linear Network Coding (RLNC). We can integrate with any blockchain permissionlessly, delivering more efficient block propagation, by fixing data movement at the foundation. By redesigning how data is transmitted and accessed, Optimum transforms today's fragmented networking systems into a globally efficient coded network.
 
-About Google Cloud (https://cloud.google.com/)
+### About Google Cloud
+
+https://cloud.google.com/
 
 Google Cloud is powering the future of decentralized innovation and the autonomous agentic economy. By bridging enterprise-grade AI with resilient Web3 infrastructure, Google Cloud enables autonomous AI agents, fintech innovators, and institutions to securely execute real-time on-chain payments and programmable commerce.
 
 Offering an end-to-end AI and Web3 stack - from custom TPUs and foundation models to high-performance blockchain node infrastructure, BigQuery on-chain data analytics, and enterprise key management - Google Cloud empowers builders to scale the next generation of agentic payment rails. Visionary Web3 projects and global enterprises across more than 200 countries and territories partner with Google Cloud as their trusted technology foundation.
 
-About Four Pillars (https://4pillars.io/en?utm_source=luma)
+### About Four Pillars
+
+https://4pillars.io/en?utm_source=luma
 
 Four Pillars is Asia's leading crypto research house, composed of sector-specialized researchers covering markets across Korea, Japan, Hong Kong, and Singapore. Four Pillars has published 600+ articles in both Korean and English, and hosted 20+ seminars and lectures - delivering actionable insights to builders, institutions, and policymakers while raising the industry standard. Four Pillars also operates an institutional-grade validator arm called : : Validated (FP Validated).
 
-About LINE NEXT (https://linenextcorp.com)
+### About LINE NEXT
+
+https://linenextcorp.com
 
 LINE NEXT Inc., LY's web3 affiliate dedicated to developing and expanding the Web3 ecosystem, providing new digital experiences and leading Web3 innovation. Unifi is a dedicated stablecoin wallet accessible directly through LINE App provided by LINE NEXT. By supporting social logins via LINE, Apple, Google, and Naver, Unifi enables users worldwide - regardless of their blockchain experience - to manage digital assets with ease. Unifi aims to seamlessly integrate diverse stablecoin capabilities, encompassing payments, rewards, transfers, and interest features into a single ecosystem.
 
-About Auros (https://www.auros.global/?utm_source=luma)
+### About Auros
+
+https://www.auros.global/?utm_source=luma
 
 Auros is a leading global market-making and algorithmic trading firm, leveraging advanced liquidity solutions to stabilize markets and foster growth across the digital asset ecosystem. Beyond trading, Auros also offers a suite of tailored services to support token projects and crypto ecosystems throughout their lifecycle, including its distinctive Strategic Market Making service, DeFi and on-chain engineering solutions, bespoke OTC execution, and strategic investment support. We work closely with numerous crypto ecosystems, builders, exchanges, VCs, capital allocators, and institutional investors.
 
@@ -8315,17 +8372,21 @@ Strictly Invite-Only | Guest List Subject to Approval
 
 Due to venue capacity and our commitment to maintaining a high-signal environment, attendance is capped and registrations are reviewed on a rolling basis. Early application is strongly recommended.
 
-### Hosts & Partners
+### About DayOneDream
 
-About DayOneDream (https://www.dayonedream.com/)
+https://www.dayonedream.com/
 
 DayOneDream is a K-content entertainment group that directly manages the full lifecycle of artist businesses, operating across music production and publishing, video content, artist IP management, live entertainment and IP commerce through its in-house ecosystem.
 
-About Soneium (https://x.com/soneium?utm_source=luma)
+### About Soneium
+
+https://x.com/soneium?utm_source=luma
 
 Soneium, an Ethereum layer-2 developed by Sony Block Solutions Labs, is a versatile general-purpose blockchain platform that aims to evoke emotion, empower creativity, and realize the open internet that transcends boundaries. By transcending cultural differences and bringing together people with diverse values, Soneium reimagines how we interact with the internet, opening up a world of innovative applications that fill the world with emotion.
 
-About Optimism (https://optimism.io/)
+### About Optimism
+
+https://optimism.io/
 
 Optimism is the blockchain platform behind several of the world's leading exchanges, fintechs, and financial institutions. We handle operations, security, and upgrades - so you can focus on your business, not your infrastructure.
 
@@ -13435,11 +13496,11 @@ Follow Devcon on: X (https://x.com/EFDevcon) | Telegram (https://t.me/+sitvvHw8D
 
 ### About the event
 
-Hashed Emergent's IBW2026 Pre-Conference VIP Night takes place on Saturday, 31 October, from 7:00 PM to 11:00 PM, ahead of the two-day India Blockchain Week conference in Mumbai.
+Hashed Emergent's IBW2026 Pre-Conference VIP Night takes place on Saturday, 31 October 2026, from 7:00 PM to 11:00 PM, ahead of the two-day India Blockchain Week conference in Mumbai.
 
 ### Access
 
-The organizer includes the pre-conference VIP Dinner Night in its VIP Pass benefits. The official event calendar currently lists the separate registration link as TBD, so VIP access should be arranged through the organizer's ticket page.
+The organizer includes the pre-conference VIP Dinner Night in its VIP Pass benefits alongside the VIP Lounge and Grand Terminus access. The official event calendar lists the separate celebration registration as to be announced, so VIP access should be arranged through the organizer's ticket page. Published passes range from General and Student passes to Priority, VIP and Executive VIP experiences.
 
 ### Organizer
 
@@ -13471,13 +13532,15 @@ India's invite-only, closed-door institutional blockchain forum, held under the 
 
 ### About the event
 
-DSS returns during Devcon week in Mumbai for two days of talks, workshops, and community work on practical DeFi security.
+The DeFi Security Summit returns during Devcon week in Mumbai for two days of talks, workshops, and community work on practical DeFi security.
 
 ### Day 1: 1 November 2026
 
-The first day of DeFi Security Summit is included in the official India Blockchain Week calendar from 10:00 AM to 7:00 PM. The summit continues on 2 November.
+The first day of the summit is included in the official India Blockchain Week calendar from 10:00 AM to 7:00 PM. The summit continues on 2 November with a second day of sessions.
 
-The organizer's site also contains the 2025 Buenos Aires recap and timetable. Those historical sessions are not the 2026 Mumbai program.
+### Focus
+
+The summit brings together security researchers, developers, and academics working on smart contract exploits, cross-chain vulnerabilities, and governance threats. Session-level programming follows the organizer's published agenda.
 
 <a id="event-c3424eadb6bdbbe9"></a>
 
@@ -13736,13 +13799,15 @@ Registration will be open onsite from 10:00 am to 5:00 pm.
 
 ### About the event
 
-DSS returns during Devcon week in Mumbai for two days of talks, workshops, and community work on practical DeFi security.
+The DeFi Security Summit returns during Devcon week in Mumbai for two days of talks, workshops, and community work on practical DeFi security.
 
 ### Day 2: 2 November 2026
 
-The second day of DeFi Security Summit is included in the official India Blockchain Week calendar from 10:00 AM to 7:00 PM. It concludes the organizer's 1-2 November summit in Mumbai.
+The second day of the summit is included in the official India Blockchain Week calendar from 10:00 AM to 7:00 PM. It concludes the organizer's 1-2 November summit in Mumbai.
 
-The detailed 2025 Buenos Aires sessions displayed elsewhere on the organizer's site belong to the previous edition, not this Mumbai event.
+### Focus
+
+The summit brings together security researchers, developers, and academics working on smart contract exploits, cross-chain vulnerabilities, and governance threats. Session-level programming follows the organizer's published agenda.
 
 <a id="event-bdef4e3b9ee43908"></a>
 
@@ -13906,11 +13971,11 @@ The official India Blockchain Week after-party is hosted by Hashed Emergent on M
 
 ### Organizer and schedule
 
-The organizer's IBW2026 event calendar identifies this as a party hosted by Hashed Emergent. The same calendar lists the main conference on 1-2 November.
+The organizer's IBW2026 event calendar identifies this as a party hosted by Hashed Emergent. The same calendar lists the main conference on 1-2 November at Fairmont Mumbai.
 
 ### Registration
 
-The separate after-party registration link is marked TBD in the official calendar. The calendar does not provide a confirmed party venue or ticket price; the organizer's source should be checked for those details before attending.
+The separate after-party registration link is marked to be announced in the official calendar. The calendar does not provide a confirmed party venue or ticket price; the organizer's source should be checked for those details before attending.
 
 <a id="event-4e6126d3438b853d"></a>
 
@@ -14049,20 +14114,15 @@ Pragma is designed to be a different kind of event. We bring together a small gr
 
 ### Mumbai summit
 
-Join ETHGlobal on 4 November 2026 in Mumbai for a summit showcasing the best of Web3. The venue is Grand Hyatt Mumbai.
+Join ETHGlobal on 4 November 2026 in Mumbai for a summit showcasing the best of Web3. The venue is Grand Hyatt Mumbai in Bandra Kurla Complex.
 
 ### What makes Pragma special
 
-- No parallel sessions
-- Invite only
-- Top founders
-- Curated content
-- Beginner friendly
-- Intimate discussions
+The summit features no parallel sessions and an invite-only guest list of top founders with curated content and intimate discussions. Full access covers talks, interviews and panels, with opportunities to connect with speakers and attendees over free beverages and bites.
 
 ### Tickets
 
-The organizer lists early-bird Network, Hacker and General passes. Full access covers talks, interviews and panels, with opportunities to connect with speakers and attendees. See the organizer's checkout for the current pass conditions.
+The organizer lists early-bird Network, Hacker and General passes, including a guest pass for a friend with the General pass. Published early-bird prices start at $29 for the Network pass, $49 for hackers attending ETHGlobal Mumbai, and $69 for General admission. Partners for the summit include Uniswap, 0G, World, Arc, 1inch and Arkiv. ETHGlobal Plus at $828 per year covers all Pragma events plus more than 100 global side events with travel credits and free onchain transactions. See the organizer's checkout for the current pass conditions.
 
 <a id="event-341efe25b6b59410"></a>
 
@@ -21805,9 +21865,9 @@ AKOOL Inc. is a leading enterprise-grade multimodal AI and large language model 
 
 https://MegaHit.ai
 
-MegaHit.ai (https://MegaHit.ai) - Your Growth Co-Founder.
+MegaHit.ai - Your Growth Co-Founder.
 
-MegaHit.ai (https://MegaHit.ai) is an AI growth agent platform for startups and growth teams. It goes beyond giving advice: it understands your brand, goals, and long-term context, then continuously plans, executes, and optimizes your growth strategy. From social media, content, and SEO to KOLs, ads, and customer acquisition, MegaHit turns fragmented growth workflows into one proactive, continuously learning AI growth team.
+MegaHit.ai is an AI growth agent platform for startups and growth teams. It goes beyond giving advice: it understands your brand, goals, and long-term context, then continuously plans, executes, and optimizes your growth strategy. From social media, content, and SEO to KOLs, ads, and customer acquisition, MegaHit turns fragmented growth workflows into one proactive, continuously learning AI growth team.
 
 ### NevaMind
 
@@ -22377,7 +22437,9 @@ About WalletConnect (https://walletconnect.com/?utm_source=luma):
 
 WalletConnect is the digital asset infrastructure powering payments, trading, and compliance at global scale. Founded in 2018, the WalletConnect network connects over 900 million users and thousands of institutions across 700+ wallets, all major blockchains, and powered more than $400 billion in transaction volume in 2025.
 
-About ChangeNOW (https://ChangeNOW.io)
+### About ChangeNOW
+
+https://ChangeNOW.io
 
 ChangeNOW.io (https://ChangeNOW.io) is a crypto super app built for every crypto move, giving newcomers, professionals, and businesses the tools they need to access Web3 finance in a simple and secure way.
 
@@ -22391,11 +22453,15 @@ Canton is the only public, permissionless blockchain purpose-built for instituti
 
 It's the proven link between the promise of blockchain and the power of global finance, making finance flow the way it should. Learn more at: canton.network (https://canton.
 
-About Turnkey (https://www.turnkey.com/):
+### About Turnkey
+
+https://www.turnkey.com/
 
 Turnkey provides secure, scalable, and programmable crypto infrastructure with built-in verifiability for embedded wallets and onchain transaction automation. Create wallets, sign transactions, and automate onchain actions - all with one flexible API.
 
-About OpenFX (https://www.openfx.com/?utm_source=luma):
+### About OpenFX
+
+https://www.openfx.com/?utm_source=luma
 
 OpenFX is a stablecoin powered cross-border payments platform that enables near instant settlement and 24/7 liquidity at the fraction of the cost of traditional banking. Recently backed by a $94M Series A.
 
@@ -26209,19 +26275,27 @@ An online hackathon bringing together builders and founders across all crypto ec
 
 ### Crypto World's Fair
 
-Crypto World's Fair is an open competition of the ideas, technologies, and communities shaping the blockchain ecosystem.
-
-Inspired by the historic world's fairs, it brings together builders and founders who are ready to exhibit the products and innovations that are going to drive the next wave of crypto startups that bring the world's markets onchain.
+Crypto World's Fair is an open competition of the ideas, technologies, and communities shaping the blockchain ecosystem. Builders and founders exhibit the products and innovations driving the next wave of crypto startups that bring the world's markets onchain. Submissions are due October 12, 2026.
 
 ### Awards and opportunities
 
-Compete for $840,000 in prizes and $2.5 million in seed funding. Submissions are due October 12, 2026.
+Teams compete for $840,000 in prizes and $2.5 million in seed funding, including a $30,000 grand prize and $300,000 shared across the next 20 best projects. All hackathon winners are interviewed and considered for Colosseum's accelerator program with pre-seed funding, founder network access and mentorship.
 
-All Hackathon winners will be interviewed and considered for Colosseum's accelerator program.
+### Tracks
+
+Ecosystem tracks with dedicated prize pools include Solana, Ethereum, Hyperliquid, Base, Tempo, Arbitrum, Zcash and Robinhood Chain, each judged with builders, investors and operators from those ecosystems.
+
+### Judges
+
+The Colosseum team reviews all submissions, joined by track judges including Clay Robbins, Matty Taylor and Nate Levine alongside builders and investors from Phantom, Base, Arcium, MetaDAO and Ellipsis Labs.
+
+### Accelerator
+
+All hackathon winners are interviewed and considered for the Colosseum accelerator program with pre-seed funding, founder network access and mentorship, including a residency collaborating directly with the Colosseum team.
 
 ### Livestream workshops
 
-All workshops stream live on Discord. Join the Colosseum Discord to watch live, ask questions, and never miss a session.
+All workshops stream live on Discord, including the kickoff with the Colosseum founders. Participants can watch live, ask questions and follow the program through the event.
 
 <a id="event-7cb0a898ed6d817e"></a>
 
@@ -27471,11 +27545,15 @@ The conversation is changing, and the honest read on where revenue is heading ra
 
 So Scalestack and Ripple Ventures are getting a small group of CROs around one table in Toronto, over dinner and good wine, to work through what AI actually means for next fiscal year. Come for the kind of conversation you leave a little sharper than you walked in. We'd love to have you :)
 
-About Ripple Ventures (http://www.rippleventures.com)
+### About Ripple Ventures
+
+http://www.rippleventures.com
 
 We are inception stage partners to founders building advanced technologies. Our goal is to be the earliest backers in a founder's journey, and to amplify their life's work through hands on support + opening up customer/ talent networks.
 
-About Scalestack (https://scalestack.ai/)
+### About Scalestack
+
+https://scalestack.ai/
 
 Data infrastructure agents and humans can trust. A system of intelligence on top of your system of record, delivering clean, governed, AI-ready data for the enterprise.
 
@@ -28047,7 +28125,9 @@ THE SCHEDULE
 - 6:00 PM - Pitches
 - 7:30 PM - Prizes, Networking & Closing Remarks
 
-About Monad (https://www.monad.xyz/?utm_source=luma)
+### About Monad
+
+https://www.monad.xyz/?utm_source=luma
 
 Monad is a highly performant and EVM compatible layer 1 blockchain. Re-inventing from the ground up, the innovations in both consensus and execution make it possible to achieve throughput up to 10,000 transactions per second (TPS).
 
@@ -28055,7 +28135,9 @@ Monad is a highly performant and EVM compatible layer 1 blockchain. Re-inventing
 
 Monad Blitz is a high-energy, one-day hackathon series designed to empower builders on Monad's high-performance EVM. We've traveled from Shenzhen to San Francisco, bringing together developers to learn, squad up, and ship real projects in a single day. With thousands of participants and hundreds of prototypes shipped to date, Blitz is the ultimate venue for fast execution and high-throughput results. Whether you're an EVM veteran or just starting out, this is your invitation to build the future on Monad.
 
-About Encode Club (https://www.encodeclub.com/)
+### About Encode Club
+
+https://www.encodeclub.com/
 
 Encode Club is London's leading community for founders and builders in AI and Web3. With weekly events, hackathons, and accelerator programmes, and the Encode Hub (https://hub.encodeclub.com/) coworking space in Shoreditch, it's where ambitious founders come to learn, connect, and grow.
 
@@ -28111,7 +28193,9 @@ THE SCHEDULE
 - 6:00 PM - Pitches
 - 7:30 PM - Prizes, Networking & Closing Remarks
 
-About Monad (https://www.monad.xyz/?utm_source=luma)
+### About Monad
+
+https://www.monad.xyz/?utm_source=luma
 
 Monad is a highly performant and EVM compatible layer 1 blockchain. Re-inventing from the ground up, the innovations in both consensus and execution make it possible to achieve throughput up to 10,000 transactions per second (TPS).
 
@@ -28119,7 +28203,9 @@ Monad is a highly performant and EVM compatible layer 1 blockchain. Re-inventing
 
 Monad Blitz is a high-energy, one-day hackathon series designed to empower builders on Monad's high-performance EVM. We've traveled from Shenzhen to San Francisco, bringing together developers to learn, squad up, and ship real projects in a single day. With thousands of participants and hundreds of prototypes shipped to date, Blitz is the ultimate venue for fast execution and high-throughput results. Whether you're an EVM veteran or just starting out, this is your invitation to build the future on Monad.
 
-About Encode Club (https://www.encodeclub.com/)
+### About Encode Club
+
+https://www.encodeclub.com/
 
 Encode Club is London's leading community for founders and builders in AI and Web3. With weekly events, hackathons, and accelerator programmes, and the Encode Hub (https://hub.encodeclub.com/) coworking space in Shoreditch, it's where ambitious founders come to learn, connect, and grow.
 
@@ -28525,11 +28611,11 @@ Bloom은 AI 얼리어답터를 위한 커뮤니티입니다. 4월부터 서른�
 - Description: Source-backed
 - Original page: <https://luma.com/blzswe27>
 
-### More details to be shared soon
+### About Rayls
 
-About Rayls (https://www.rayls.com/?utm_source=luma)
+https://www.rayls.com/?utm_source=luma
 
-Rayls (https://www.rayls.com/?utm_source=luma) is a blockchain ecosystem that bridges traditional finance with decentralized finance by providing a compliant, private, and scalable infrastructure for financial institutions. Its hybrid architecture combines permissioned private networks with an EVM-compatible public chain to facilitate use cases like asset tokenization, cross-border payments, and central bank digital currency settlement.
+Rayls is a blockchain ecosystem that bridges traditional finance with decentralized finance by providing a compliant, private, and scalable infrastructure for financial institutions. Its hybrid architecture combines permissioned private networks with an EVM-compatible public chain to facilitate use cases like asset tokenization, cross-border payments, and central bank digital currency settlement.
 
 Register to secure your spot and we'll share more details soon.
 
@@ -29425,9 +29511,11 @@ More details will be announced soon.
 
 Register now to receive priority access and be first to hear about what's planned.
 
-About Rayls (https://www.rayls.com/?utm_source=luma)
+### About Rayls
 
-Rayls (https://www.rayls.com/?utm_source=luma) is a blockchain ecosystem that bridges traditional finance with decentralized finance by providing a compliant, private, and scalable infrastructure for financial institutions. Its hybrid architecture combines permissioned private networks with an EVM-compatible public chain to facilitate use cases like asset tokenization, cross-border payments, and central bank digital currency settlement
+https://www.rayls.com/?utm_source=luma
+
+Rayls is a blockchain ecosystem that bridges traditional finance with decentralized finance by providing a compliant, private, and scalable infrastructure for financial institutions. Its hybrid architecture combines permissioned private networks with an EVM-compatible public chain to facilitate use cases like asset tokenization, cross-border payments, and central bank digital currency settlement
 
 <a id="event-c4b803e8d4bdbfc0"></a>
 
@@ -31189,9 +31277,11 @@ Lean markets require hearty breakfasts. Join us this Token, and let's chew over 
 
 Chowtime.
 
-About Blockchain.com (https://Blockchain.com)
+### About Blockchain.com
 
-Blockchain.com (https://Blockchain.com) is an AI-enabled technology platform that manages and trades digital assets on behalf of people and institutions around the world. Founded in 2011, we're an OG in the space - probably the first place you ever looked up a Bitcoin transaction - now with over 94M wallets created in 100+ countries. Our Institutional arm works with 1500 counterparties worldwide, and is custom-built to serve the cutting-edge demands of our new financial world.
+https://Blockchain.com
+
+Blockchain.com is an AI-enabled technology platform that manages and trades digital assets on behalf of people and institutions around the world. Founded in 2011, we're an OG in the space - probably the first place you ever looked up a Bitcoin transaction - now with over 94M wallets created in 100+ countries. Our Institutional arm works with 1500 counterparties worldwide, and is custom-built to serve the cutting-edge demands of our new financial world.
 
 *This information is used by Blockchain to register attendance and discuss partnership opportunities. To learn more about your rights, see our Privacy Policy (https://www.blockchain.com/legal/privacy?utm_source=luma).
 
@@ -33430,11 +33520,23 @@ By registering for the Web3 Accountant Meet, you consent to the collection and u
 
 ### About the event
 
-For the top 1% of founders.
+DeltaV Demo Day
 
-A chance to pitch in a closed, invite-only demo day inside Monad Foundation's flagship event Open
+One room. 50+ investors. The top 1% of founders.
 
-Attended by 50+ VCs
+DeltaV Demo Day takes place on October 6 in Singapore during TOKEN2049 Week. The event is part of Open, the inaugural flagship event of the Monad ecosystem, and founders can apply to pitch through the organizer's application page.
+
+### Who attends
+
+More than 50 investors from previous demo days attend the event, including Paradigm, Dragonfly, Pantera, Castle Island Ventures, Electric Capital, Blockchain Capital, Variant, Framework Ventures, Animoca Brands, Hashed, BITKRAFT Ventures, CoinFund, Archetype, ParaFi Capital, Maelstrom, GSR, Brevan Howard Digital, Spartan Group, IOSG Ventures, Faction, HTX Ventures, White Star Capital, Flowdesk, Mercuryo, Bankless Ventures, Reverie, Greenfield, RockawayX, SevenX Ventures, Fabric Ventures, CMCC Global, Superscrypt, Volt Capital, Eon Capital, Primitive Ventures, Metalayer Ventures and Collab+Currency.
+
+### Format
+
+At most 10 teams pitch to the room of investors. Applications are currently open, and selected founders receive details on timing and attendance through the organizer.
+
+### Event details
+
+The demo day runs on October 6 in Singapore during TOKEN2049 Week. Attendance is free. Founders apply to pitch in advance, and the organizer confirms timing and attendance details with selected teams. The demo day runs alongside TOKEN2049 Singapore week programming in Singapore.
 
 <a id="event-a345729e1da4154a"></a>
 
@@ -37223,19 +37325,23 @@ An organizer description has not been verified for this record. Any previous cop
 
 ### About the event
 
-NEXUS is TOKEN2049's startup competition for early-stage crypto companies. The organizer's 2026 competition runs on 7-8 October in Singapore, with founders pitching for equity-free prizes and meeting Web3 investors.
+NEXUS is TOKEN2049's startup competition for early-stage crypto companies. The organizer's 2026 competition runs on 7-8 October in Singapore, with founders pitching for equity-free prizes before an expert jury and the TOKEN2049 community.
 
 ### Competition
 
-The organizer lists a $250,000 prize pool and ten finalists. Startups must have been incorporated from 2023 onwards and raised less than $5 million in investments. Applying is free, and selection is merit-based.
+The organizer lists a $250,000 prize pool, more than 1,000 applicants and ten finalists. The competition takes place at Marina Bay Sands during TOKEN2049 Singapore on 7-8 October. Startups must have been incorporated from 2023 onwards and raised less than $5 million in investments. Applying is free, and selection is merit-based. The jury includes Tom Schmidt (Dragonfly), Akshat Vaidya (Maelstrom) and Spencer Applebaum (Multicoin Capital).
 
-### Finalist access
+### What finalists receive
 
-Top ten finalists receive a complimentary startup stand, full TOKEN2049 access on 7-8 October, speaker perks, three complimentary team tickets, photography and session recordings, and event marketing coverage.
+Top ten finalists receive a complimentary startup stand, full TOKEN2049 access on 7-8 October, speaker perks including the speaker reception, networking drinks and lounge access, three complimentary team tickets, photography and session recordings, and event marketing coverage. The jury may make investment offers outside the prize grant.
 
-### Application status
+### First round
 
-NEXUS 2026 applications are closed. The organizer is accepting waitlist registrations for NEXUS 2027.
+The first round takes place on 7 October 2026 as part of the TOKEN2049 Singapore program at Marina Bay Sands.
+
+### Applications
+
+NEXUS 2026 applications closed after the 18 September deadline, with the top 50 announcement on 21 September. The organizer is accepting waitlist registrations for NEXUS 2027.
 
 <a id="event-daf31ac6f97a7978"></a>
 
@@ -38837,24 +38943,23 @@ Hosted by BFinance, this is a chance to unwind after a full day around the confe
 
 ### About the event
 
-The NEXUS final round is part of TOKEN2049's 7-8 October 2026 startup competition in Singapore. Early-stage crypto startups pitch for equity-free prizes before an expert jury and the TOKEN2049 community.
+NEXUS is TOKEN2049's startup competition for early-stage crypto companies. The organizer's 2026 competition runs on 7-8 October in Singapore, with founders pitching for equity-free prizes before an expert jury and the TOKEN2049 community.
 
-### Finalists and prizes
+### Competition
 
-The organizer lists ten finalists and a $250,000 prize pool. The jury may make investment offers outside the prize grant.
+The organizer lists a $250,000 prize pool, more than 1,000 applicants and ten finalists. The competition takes place at Marina Bay Sands during TOKEN2049 Singapore on 7-8 October. Startups must have been incorporated from 2023 onwards and raised less than $5 million in investments. Applying is free, and selection is merit-based. The jury includes Tom Schmidt (Dragonfly), Akshat Vaidya (Maelstrom) and Spencer Applebaum (Multicoin Capital).
 
 ### What finalists receive
 
-- An opportunity to compete for partner prizes
-- A complimentary startup stand at TOKEN2049 Singapore
-- Full access to TOKEN2049 on 7-8 October
-- Speaker reception, networking drinks and lounge access
-- Three complimentary tickets for the team and its network
-- Photography, on-stage pitch recordings and marketing coverage
+Top ten finalists receive a complimentary startup stand, full TOKEN2049 access on 7-8 October, speaker perks including the speaker reception, networking drinks and lounge access, three complimentary team tickets, photography and session recordings, and event marketing coverage. The jury may make investment offers outside the prize grant.
+
+### Final round
+
+The final round takes place on 8 October 2026 as part of the TOKEN2049 Singapore program at Marina Bay Sands.
 
 ### Applications
 
-Applying is free and selection is merit-based. Applications for NEXUS 2026 have closed; the organizer now offers a 2027 waitlist.
+NEXUS 2026 applications closed after the 18 September deadline, with the top 50 announcement on 21 September. The organizer is accepting waitlist registrations for NEXUS 2027.
 
 <a id="event-ac66f71715e8c7ee"></a>
 
@@ -38868,15 +38973,23 @@ Applying is free and selection is merit-based. Applications for NEXUS 2026 have 
 
 ### About the event
 
-The Origins prize ceremony concludes the TOKEN2049 Origins hackathon program in Singapore. The organizer's 6-8 October program gives builders 36 hours to develop a working product, receive mentorship and demo on the TOKEN2049 stage.
+The Origins prize ceremony concludes the TOKEN2049 Origins hackathon in Singapore. The organizer's 6-8 October program gives builders 36 hours to develop a working product, receive mentorship and demo on the TOKEN2049 stage at Marina Bay Sands.
 
 ### Prizes and tracks
 
-The organizer lists a $150,000 prize pool. Tracks include agentic commerce on Cardano, workflows using the Chainlink Runtime Environment, multichain infrastructure with NOWNodes, and applications built on Solana. Teams compete for prizes, grants and accelerator opportunities.
+The organizer lists a $150,000 prize pool. Tracks include agentic commerce on Cardano, workflows using the Chainlink Runtime Environment, multichain infrastructure with NOWNodes, and applications built on Solana. Teams compete for prizes, grants and accelerator opportunities, and standout teams pitch for funding and global recognition.
 
 ### Participation
 
-Origins is free, including food, drinks and conference access. Physical attendance at Marina Bay Sands is required for the full hackathon; remote participation is not offered. Teams may have up to four members, and solo applicants are welcome.
+Origins is free, including food, drinks and full access to the TOKEN2049 conference. Physical attendance at Marina Bay Sands is required for the full 36 hours; remote participation is not offered. Teams may have up to four members, and solo applicants are welcome. Applications opened on 19 August with participants announced on 28 September.
+
+### Schedule
+
+Registrations opened on 19 August with an application deadline of 18 September and participants announced on 28 September, ahead of the 6-8 October hackathon.
+
+### Rules
+
+To keep the competition fair, all project work must begin after the official hacking period starts. Participants may brainstorm ideas in advance, but no code, designs or prototypes before kickoff. The venue provides rest and chill-out spaces on a first-come, first-served basis.
 
 <a id="event-a1d4f8fc940fcf0b"></a>
 
@@ -39251,13 +39364,11 @@ The Milken Institute welcomes speaker recommendations for Asia Summit 2026. Reco
 
 Vault Summit is a global conference series focused on onchain vault infrastructure for institutional asset management.
 
-Institutional confidence in on-chain asset management, built vault by vault.
-
-This is Vault Summit: Singapore.
+Institutional confidence in on-chain asset management, built vault by vault. This is Vault Summit: Singapore.
 
 ### Hosts and venue
 
-Morpho and DigiFT host the Singapore summit at Andaz Singapore on 9 October 2026, from 9:00 AM to 6:00 PM Singapore time.
+Morpho and DigiFT host the Singapore summit at Andaz Singapore, 5 Fraser Street, Singapore 189354, on 9 October 2026, from 9:00 AM to 6:00 PM Singapore time.
 
 <a id="event-eb435b8eb1449910"></a>
 
@@ -39801,11 +39912,17 @@ Friday's Formula 1 program at the 2026 Singapore Grand Prix includes the first p
 
 ### Friday, 9 October
 
-- 16:30-17:30: Formula 1 first practice session
-- 18:30-19:30: Teams' press conference
-- 20:30-21:14: Sprint Qualifying
+The track program runs on local Singapore time, eight hours ahead of UTC: Porsche Carrera Cup Asia practice at 14:05-14:50, the Formula 1 car presentation at 15:00-16:00, the first practice session at 16:30-17:30, the teams' press conference at 18:30-19:30, and Sprint Qualifying at 20:30-21:14. The Porsche Carrera Cup Asia support series shares the Friday program with its practice session.
 
-Times are local to Singapore, which is eight hours ahead of UTC. The official timetable is subject to change.
+### Circuit
+
+The race takes place over 62 laps of the 4.927-kilometre Marina Bay Street Circuit. The official timetable is subject to change.
+
+The Marina Bay Circuit arrived on the scene in 2008 with the city skyline as its backdrop, hosting the first night-time race in Formula 1 history. After a 2023 layout change the lap runs 19 corners over 4.927 kilometres, and the bumpy street surface plus humidity make it one of the most physically demanding races on the calendar.
+
+### Following the weekend
+
+The sessions can be followed live on F1 TV, with tickets and hospitality packages available through Formula 1 official channels.
 
 <a id="event-b2867bc5ef2589f6"></a>
 
@@ -39821,22 +39938,23 @@ Times are local to Singapore, which is eight hours ahead of UTC. The official ti
 
 AFTER 2049 presents Claptone and Crusy.
 
-AFTER 2049 returns to the roof on Friday, 9 October 2026, at the Marina Bay Sands SkyPark Observation Deck.
+AFTER 2049 returns to the roof on Friday, 9 October 2026 at the Marina Bay Sands SkyPark Observation Deck, 57 floors above the city. Claptone takes over the MBS SkyPark for this year's AFTER 2049, joined by Crusy and returning AFTER 2049 residents ANONM, Leon, Milam and Mo-Shi.
 
-Claptone takes over the MBS SkyPark for this year's AFTER 2049, joined by Crusy and returning AFTER 2049 residents ANONM, Leon, Milam and Mo-Shi.
+### Music
 
-360° spatial audio by Polygon Live is exclusive to AFTER 2049 in Asia for 2026.
+360-degree spatial audio by Polygon Live is exclusive to AFTER 2049 in Asia for 2026. The night runs during the Singapore Grand Prix weekend.
+
+### Tickets
+
+Tickets sell in releases: First Release on 10 September, Second Release on 24 September and Final Release on 1 October. Partners for the night include Moet Hennessy Diageo, Heaven Sake, Aria One, BTCC, DWF Labs and Midnight.
 
 ### Access and timings
 
-- Doors open at 7:00 PM.
-- Entry is not guaranteed after 11:00 PM.
-- There is no re-entry after midnight; entry is subject to venue capacity.
-- The minimum age is 18, and valid photo ID is required.
+Doors open at 7:00 PM. Entry is not guaranteed after 11:00 PM, there is no re-entry after midnight, and entry is subject to venue capacity. The minimum age is 18 and valid photo ID is required.
 
-### Dress code
+### Dress code and policies
 
-Smart casual. No athletic wear, leisure wear, flip flops or shorts. Management reserves the right to deny entry.
+Smart casual dress applies: no athletic wear, leisure wear, flip flops or shorts, and management reserves the right to deny entry. The event runs rain or shine with no cancellation, postponement or refunds for adverse weather.
 
 <a id="event-7a471a93c94b596d"></a>
 
@@ -40114,12 +40232,17 @@ Saturday's Formula 1 program at the 2026 Singapore Grand Prix includes the Sprin
 
 ### Saturday, 10 October
 
-- 17:00-17:30: Formula 1 Sprint, listed as 21 laps or 60 minutes
-- 17:30-18:00: Formula 1 press conference
-- 21:00-22:00: Grand Prix qualifying session
-- 22:00-23:00: Formula 1 press conference
+The track program runs on local Singapore time: the Porsche Carrera Cup Asia qualifying session at 15:00-15:30, the Formula 1 Sprint of 21 laps or 60 minutes at 17:00-17:30, the Formula 1 press conference at 17:30-18:00, the Porsche Carrera Cup Asia first race at 19:45-20:20, the Grand Prix qualifying session at 21:00-22:00, and a further press conference at 22:00-23:00.
 
-Times are local to Singapore. The organizer notes that the timetable is subject to change.
+### Circuit
+
+The night race takes place at the 4.927-kilometre Marina Bay Street Circuit. The official timetable is subject to change.
+
+The Marina Bay Circuit arrived on the scene in 2008 with the city skyline as its backdrop, hosting the first night-time race in Formula 1 history. After a 2023 layout change the lap runs 19 corners over 4.927 kilometres, and the bumpy street surface plus humidity make it one of the most physically demanding races on the calendar.
+
+### Following the weekend
+
+The sessions can be followed live on F1 TV, with tickets and hospitality packages available through Formula 1 official channels.
 
 <a id="event-cb4b241e7530810c"></a>
 
@@ -40438,11 +40561,17 @@ The Formula 1 Singapore Airlines Singapore Grand Prix 2026 takes place over 62 l
 
 ### Sunday race program
 
-- 18:00-18:30: Drivers' parade
-- 19:44-19:46: National anthem
-- 20:00-22:00: Grand Prix, listed as 62 laps or 120 minutes
+The track program runs on local Singapore time, eight hours ahead of UTC: the Porsche Carrera Cup Asia second race at 15:40-16:15, the drivers' parade at 18:00-18:30, the national anthem at 19:44-19:46, and the Grand Prix of 62 laps or 120 minutes at 20:00-22:00.
 
-Times are local to Singapore, eight hours ahead of UTC. The official timetable is subject to change.
+### Circuit
+
+The Marina Bay Circuit is a street track with the city's skyline as its backdrop and has hosted the night race since 2008. The official timetable is subject to change.
+
+The Marina Bay Circuit arrived on the scene in 2008 with the city skyline as its backdrop, hosting the first night-time race in Formula 1 history. After a 2023 layout change the lap runs 19 corners over 4.927 kilometres, and the bumpy street surface plus humidity make it one of the most physically demanding races on the calendar.
+
+### Following the weekend
+
+The sessions can be followed live on F1 TV, with tickets and hospitality packages available through Formula 1 official channels.
 
 <a id="event-8bcb9920c89cf38d"></a>
 

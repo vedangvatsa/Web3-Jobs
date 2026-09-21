@@ -48,9 +48,15 @@ function isHeaderLine(line: string): boolean {
   if (/^[-*•·▪–—]\s+/.test(trimmed)) return false;
   // A trailing colon alone does not make a heading: agenda sub-labels like
   // "Speaker:" or "Time:" must stay in the text flow, otherwise every agenda
-  // slot fragments into its own H2 section. A trailing question mark is
-  // ignored for matching only ("Who is this for?" still displays as written).
-  const headerLabel = headingText(trimmed).replace(/\?$/, '').trim();
+  // slot fragments into its own H2 section. A trailing question mark and any
+  // inline URLs are ignored for matching only ("About X (https://...)" still
+  // displays as written before display cleanup).
+  const headerLabel = headingText(trimmed)
+    .replace(/\?$/, '')
+    .replace(/\(\s*https?:\/\/[^\s)]+\s*\)/gi, '')
+    .replace(/https?:\/\/\S+/gi, '')
+    .replace(/\s{2,}/g, ' ')
+    .trim();
   return SECTION_LABELS.test(headerLabel);
 }
 
@@ -324,9 +330,30 @@ function stripHeadingUrls(
       else cleaned.push({ heading: 'About the event', content: linkLines });
       continue;
     }
-    cleaned.push({ heading, content: urls.length ? [...urls, ...section.content] : section.content });
+    let content = section.content;
+    if (urls.length) {
+      // A paragraph restating the heading ("Name (url) is ...") would repeat
+      // the extracted link, so drop the parenthesized copy and keep the name.
+      const restated = new RegExp(
+        `^(.+?)\\s*\\(\\s*(${urls.map(escapeRegExp).join('|')})\\s*\\)`,
+        'i',
+      );
+      content = content.map((block) => {
+        const match = restated.exec(block);
+        if (match && heading.toLowerCase().includes(match[1].toLowerCase())) {
+          return block.replace(restated, '$1');
+        }
+        return block;
+      });
+      content = [...urls, ...content];
+    }
+    cleaned.push({ heading, content });
   }
   return cleaned;
+}
+
+function escapeRegExp(value: string): string {
+  return value.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 }
 
 /** Split over-long paragraphs and drop exact-duplicate blocks in a section. */

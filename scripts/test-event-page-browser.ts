@@ -33,7 +33,7 @@ async function main() {
       if (guide.descriptionStatus === 'unavailable') {
         await page.getByText('An organizer description has not been verified for this event.', { exact: true }).waitFor();
       } else {
-        assert.equal(await page.getByRole('link', { name: 'Description source', exact: true }).getAttribute('href'), guide.descriptionSource?.url);
+        assert.equal(await page.getByText('Description source', { exact: true }).count(), 0, `${slug}: provenance footer must not render`);
       }
       for (const section of guide.sections) {
         assert.ok((await page.locator('[data-event-page] h2').allTextContents()).includes(section.heading), `${slug}: missing ${section.heading}`);

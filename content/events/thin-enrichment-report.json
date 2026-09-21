@@ -1,0 +1,269 @@
+{
+  "applied": true,
+  "records": [
+    {
+      "id": "token2049-side-6aa41e96c0426d278bd87cfe",
+      "words": 202,
+      "source": {
+        "url": "https://www.token2049.com/singapore/nexus-startup-competition",
+        "fetchedAt": "2026-09-21T05:12:52.947Z",
+        "method": "reviewed-primary-sources",
+        "pageTitle": "NEXUS Startup Competition | TOKEN2049 | 7-8 October 2026 | Singapore",
+        "sha256": "ecde96c36405ad85a9fb05dd26a11ad9af6328a05abaf4f62605a0dd09df0c92"
+      }
+    },
+    {
+      "id": "token2049-side-6aa41f2ac0426d278bd87d05",
+      "words": 202,
+      "source": {
+        "url": "https://www.token2049.com/singapore/nexus-startup-competition",
+        "fetchedAt": "2026-09-21T05:12:52.952Z",
+        "method": "reviewed-primary-sources",
+        "pageTitle": "NEXUS Startup Competition | TOKEN2049 | 7-8 October 2026 | Singapore",
+        "sha256": "b4c214cfee88f10a9c1201088704b90e8fc7f32d02723c5e9ac7c34b33e9d624"
+      }
+    },
+    {
+      "id": "token2049-side-6aa41d6d8ffcc4e5ece10d0f",
+      "words": 212,
+      "source": {
+        "url": "https://www.token2049.com/singapore/2049-origins",
+        "fetchedAt": "2026-09-21T05:12:52.958Z",
+        "method": "reviewed-primary-sources",
+        "pageTitle": "Origins Hackathon | TOKEN2049 | Singapore",
+        "sha256": "9140b7d0abe0aa1f1176ff58f31aefec8dfa3d9948c12ca204b2431d3283ee66"
+      }
+    },
+    {
+      "id": "token2049-side-6a7445ef7ef1577c1e37eca1",
+      "words": 200,
+      "source": {
+        "url": "https://megatix.com.sg/events/after2049",
+        "fetchedAt": "2026-09-21T05:12:52.962Z",
+        "method": "reviewed-primary-sources",
+        "pageTitle": "Megatix - AFTER 2049 presents: Claptone & Crusy",
+        "sha256": "aa00bf417009503f06feddac7789da628749b000fad4f79c76ecb69dfca25faa"
+      }
+    },
+    {
+      "id": "premier-planblugano",
+      "words": 195,
+      "source": {
+        "url": "https://planb.lugano.ch/planb-forum/",
+        "fetchedAt": "2026-09-21T05:12:52.967Z",
+        "method": "reviewed-primary-sources",
+        "pageTitle": "Lugano's Plan B Forum 2026",
+        "sha256": "badbe6dae301d27581e133b0644818e8b5bfef63658b41a792c0a2d24d28f802"
+      }
+    },
+    {
+      "id": "token2049-side-6a739bc8d1b48ddf39d09e32",
+      "words": 194,
+      "source": {
+        "url": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE",
+        "fetchedAt": "2026-09-21T05:12:52.969Z",
+        "method": "reviewed-primary-sources",
+        "pageTitle": "FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026 - full timetable",
+        "sha256": "7fcd150f47347053385be93dd29ee5a85e70baaa82a2547483d651d6c5d55865"
+      }
+    },
+    {
+      "id": "token2049-side-6a739c525a75007b4100108c",
+      "words": 191,
+      "source": {
+        "url": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE",
+        "fetchedAt": "2026-09-21T05:12:52.973Z",
+        "method": "reviewed-primary-sources",
+        "pageTitle": "FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026 - full timetable",
+        "sha256": "1f30d6f4fa66a44a820c896bc46b7ed648ff96e8d4ea00a43598199c88500ad4"
+      }
+    },
+    {
+      "id": "token2049-side-6a739ce35a75007b41001095",
+      "words": 189,
+      "source": {
+        "url": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE",
+        "fetchedAt": "2026-09-21T05:12:52.977Z",
+        "method": "reviewed-primary-sources",
+        "pageTitle": "FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026 - full timetable",
+        "sha256": "cd695cc52e05d3dfbca37d0c1b4c89fb74dee62a6bd0e763a2c4647db2b057c2"
+      }
+    },
+    {
+      "id": "premier-stablecoinsg",
+      "words": 91,
+      "source": {
+        "url": "https://stablecoinsummit.com/",
+        "fetchedAt": "2026-09-21T05:12:52.981Z",
+        "method": "reviewed-primary-sources",
+        "pageTitle": "Stablecoin Summit 2026",
+        "sha256": "4b4c18ae118ebbc660bec5615887af967d17557d20d7e2e843267819a4472c6c"
+      }
+    },
+    {
+      "id": "token2049-side-6a622e12d1b48ddf39d08981",
+      "words": 62,
+      "source": {
+        "url": "https://sg2026.vaultsummit.xyz/",
+        "fetchedAt": "2026-09-21T05:12:52.983Z",
+        "method": "reviewed-primary-sources",
+        "pageTitle": "Vault Summit: Singapore",
+        "sha256": "b4a3c26acdeea06fd604bae0fd06e1ec91a31dadeeaae699142de129f3c3c5fd"
+      }
+    },
+    {
+      "id": "ibw-official-ibw2026-pre-conference-vip-night-10-31",
+      "words": 120,
+      "source": {
+        "url": "https://indiablockchainweek.com/",
+        "fetchedAt": "2026-09-21T05:12:52.986Z",
+        "method": "reviewed-primary-sources",
+        "pageTitle": "India Blockchain Week 2026",
+        "sha256": "a826198b7027060310625aaca7faa124986d200cdd220ecced2dca280f4cd843"
+      }
+    },
+    {
+      "id": "ibw-official-defi-security-summit-day-1-11-01",
+      "words": 90,
+      "source": {
+        "url": "https://defisecuritysummit.org/",
+        "fetchedAt": "2026-09-21T05:12:52.987Z",
+        "method": "reviewed-primary-sources",
+        "pageTitle": "DeFi Security Summit",
+        "sha256": "45a504e0188ee877ecf31d23b12c87f0452c0232bea5f2ac22b1b94e9dea67ea"
+      }
+    },
+    {
+      "id": "ibw-official-defi-security-summit-day-2-11-02",
+      "words": 87,
+      "source": {
+        "url": "https://defisecuritysummit.org/",
+        "fetchedAt": "2026-09-21T05:12:52.987Z",
+        "method": "reviewed-primary-sources",
+        "pageTitle": "DeFi Security Summit",
+        "sha256": "74e43f56f29b67d146bf58de20bce1bd565c5d3faf9c7e8b23613081731a5972"
+      }
+    },
+    {
+      "id": "ibw-official-ibw-official-after-party-11-02",
+      "words": 103,
+      "source": {
+        "url": "https://indiablockchainweek.com/ibw_2026/side-events",
+        "fetchedAt": "2026-09-21T05:12:52.987Z",
+        "method": "reviewed-primary-sources",
+        "pageTitle": "Side Events | India Blockchain Week 2026",
+        "sha256": "56e6e873a0db774da2d914bc8099e5f88e27cd9548f4edf49cbe29d48fa09067"
+      }
+    },
+    {
+      "id": "ibw-official-pragma-mumbai-11-05",
+      "words": 193,
+      "source": {
+        "url": "https://ethglobal.com/events/pragma-mumbai",
+        "fetchedAt": "2026-09-21T05:12:52.988Z",
+        "method": "reviewed-primary-sources",
+        "pageTitle": "Pragma Mumbai",
+        "sha256": "29adc3c3078ed915db7c2edff92424fb8109fb5ad8a6153c61bdcb16fb499f6f"
+      }
+    },
+    {
+      "id": "premier-ethmumbai-2026",
+      "words": 230,
+      "source": {
+        "url": "https://ethglobal.com/events/mumbai",
+        "fetchedAt": "2026-09-21T05:12:52.988Z",
+        "method": "reviewed-primary-sources",
+        "pageTitle": "ETHGlobal Mumbai",
+        "sha256": "84611f3b7b78ec199437adb5464a317277b01216ca9a840f8c4f77d090425934"
+      }
+    },
+    {
+      "id": "premier-unbanked",
+      "words": 190,
+      "source": {
+        "url": "https://theunbanked.finance/london",
+        "fetchedAt": "2026-09-21T05:12:52.990Z",
+        "method": "reviewed-primary-sources",
+        "pageTitle": "The (un)Banked London 2026",
+        "sha256": "455ef8e286b8db887b5cfa4b4b72564809660aa3b7d1f59c3d22ecdbc1387237"
+      }
+    },
+    {
+      "id": "premier-bigwhale",
+      "words": 200,
+      "source": {
+        "url": "https://www.thebigwhale.io/summit",
+        "fetchedAt": "2026-09-21T05:12:52.991Z",
+        "method": "reviewed-primary-sources",
+        "pageTitle": "The Big Whale Geneva Summit 2026",
+        "sha256": "85103dcff8f4994280966dbc11f91647240d76ae55e016a406a590cef5b44df2"
+      }
+    },
+    {
+      "id": "w3v-crypto-worlds-fair-hackathon-by-colosseum",
+      "words": 234,
+      "source": {
+        "url": "https://colosseum.com/worldsfair",
+        "fetchedAt": "2026-09-21T05:12:52.992Z",
+        "method": "reviewed-primary-sources",
+        "pageTitle": "Crypto World's Fair Hackathon - Colosseum",
+        "sha256": "0d609b90e1a916a3d4fc4f158fb37b630146d9623ce4d4fbc745d7e26640209a"
+      }
+    },
+    {
+      "id": "premier-ethsofia",
+      "words": 193,
+      "source": {
+        "url": "https://www.ethsofia.com/",
+        "fetchedAt": "2026-09-21T05:12:52.996Z",
+        "method": "reviewed-primary-sources",
+        "pageTitle": "ETHSofia 2026",
+        "sha256": "d94999b343af179180aaa1db38eac9e7a6e4e0b741cd84bf7337d6a6d57ea345"
+      }
+    },
+    {
+      "id": "premier-ethtokyo-2026",
+      "words": 196,
+      "source": {
+        "url": "https://ethglobal.com/events/tokyo2026",
+        "fetchedAt": "2026-09-21T05:12:52.997Z",
+        "method": "reviewed-primary-sources",
+        "pageTitle": "ETHGlobal Tokyo 2026",
+        "sha256": "285246d1cb1a06af1c5e80578294258b033c30e2ff76c3b15abfec40abd81872"
+      }
+    },
+    {
+      "id": "premier-signal-week-2027",
+      "words": 226,
+      "source": {
+        "url": "https://signalweek.com/",
+        "fetchedAt": "2026-09-21T05:12:52.999Z",
+        "method": "reviewed-primary-sources",
+        "pageTitle": "Signal Week 2027",
+        "sha256": "a5910fd60d2417cbc775d8ac4687a057aa1aee73d2c671086a895e01ba36f028"
+      }
+    },
+    {
+      "id": "premier-devcon-2026",
+      "words": 213,
+      "source": {
+        "url": "https://devcon.org/en/",
+        "fetchedAt": "2026-09-21T05:12:53.000Z",
+        "method": "reviewed-primary-sources",
+        "pageTitle": "Devcon 8 India",
+        "sha256": "34dfa6ca4ad1e1decc33508d9952ec24082a971202152512891c5bad6d213364"
+      }
+    },
+    {
+      "id": "premier-indiabw-2026",
+      "words": 207,
+      "source": {
+        "url": "https://indiablockchainweek.com/",
+        "fetchedAt": "2026-09-21T05:12:53.001Z",
+        "method": "reviewed-primary-sources",
+        "pageTitle": "India Blockchain Week 2026",
+        "sha256": "ea2dc311c2e2e54ff31955b3e245cf258eb55c2a5edff50f8468ba12355a4823"
+      }
+    }
+  ]
+}

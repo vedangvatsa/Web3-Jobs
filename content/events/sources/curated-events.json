@@ -217,7 +217,7 @@
     "id": "premier-signal-week-2027",
     "slug": "signal-week",
     "name": "Signal Week 2027",
-    "description": "The Bridge Between TradFi & Digital Assets. The Institutional Summit for Digital Assets. Paris, July 6-7, 2027.",
+    "description": "The Bridge Between TradFi and Digital Assets. The Institutional Summit for Digital Assets. Paris, July 6-7, 2027.\n\n## What it is\n\nSignal Week is the summit for the institutional digital-assets sector, set in Paris. It succeeds seven years of Paris Blockchain Week as its elevation for the decade ahead: where Paris Blockchain Week built credibility as Europe's leading institutional digital asset conference, Signal Week positions it for the decade ahead.\n\n## Audience\n\nThe organizer inherits an audience with more than 70% C-suite or investment decision-makers, 36,000-plus facilitated networking meetings, $50 trillion-plus in assets under management represented, and 389 government officials and policymakers. It is built for banking and financial services, asset management, enterprise, digital-asset native firms, traditional finance, infrastructure providers and family offices.\n\n## Speakers\n\nPast stages have hosted Changpeng Zhao (Binance), Jeremy Allaire (Circle), Lily Liu (Solana Foundation), Silvio Micali (Algorand), Charles Hoskinson, Joseph Lubin (ConsenSys), Tim Draper, Jan Van Eck (VanEck), Yoni Assia (eToro) and Arianna Simpson (a16z), alongside French ministers Anne Le Henanff, Clara Chappaz and Marina Ferrari. Featured faces for 2027 include Adam Back, Nikhil Sharma (BlackRock), Kara Kennedy (JP Morgan), Amy Oldenburg (Morgan Stanley), Ben Slavin (BNY), Christian Rau (Mastercard) and Daniel Seifert (Coinbase).\n\n## Participation\n\nParticipants span digital-asset native builders, TradFi and fintech institutions deploying at scale, AI-for-finance providers and ecosystem partners. Founding partnerships for Signal Week 2027 are open.",
     "startDate": "2027-07-06T09:00:00+02:00",
     "endDate": "2027-07-07T18:00:00+02:00",
     "city": "Paris",
@@ -232,10 +232,10 @@
     "source": "curated-premier",
     "descriptionSource": {
       "url": "https://signalweek.com/",
-      "fetchedAt": "2026-09-20T00:20:06.852Z",
-      "method": "official-meta",
+      "fetchedAt": "2026-09-21T05:12:52.999Z",
+      "method": "reviewed-primary-sources",
       "pageTitle": "Signal Week 2027",
-      "sha256": "0af569996ae64b6485a850f50838dd46b465f826dbfd3dec8ea2177fa8544150"
+      "sha256": "a5910fd60d2417cbc775d8ac4687a057aa1aee73d2c671086a895e01ba36f028"
     }
   },
   {
@@ -407,7 +407,7 @@
     "id": "premier-ethtokyo-2026",
     "slug": "ethglobal",
     "name": "ETHGlobal Tokyo 2026",
-    "description": "ETHGlobal hackathons enable you to experiment with cutting edge web3 technologies and develop an idea you're passionate about. This is your opportunity to learn about crypto, expand your network, meet industry professionals, and find like-minded people who are collectively creating a new kind of web.\n\n## Tokyo 2026\n\nThe Tokyo hackathon runs September 25–27, 2026 at Toranomon Hills Forum, on the fifth floor of Toranomon Hills Mori Tower. The organizer lists $75,000 available in prizes.\n\n## Themes and topics\n\n• Zero knowledge proofs\n• AI x Crypto\n• DeFi and crypto consumer applications\n• Layer 2s and interoperability\n• Public goods\n• Privacy, security and TEEs\n• Data availability, identity and developer tools\n\n## Building formats\n\nFor the first time ever, your project doesn't have to start at zero. Bring what you've already built.\n\nThe organizer offers three formats: From Scratch, Extend Open Source, and Ship a Feature. The published rules specify teams of 1–5 members and up to three sponsor SDKs.\n\n## Participation\n\nThe event is beginner friendly and includes technical mentorship, curated content, exclusive swag, and free food and drinks.",
+    "description": "ETHGlobal hackathons enable you to experiment with cutting edge web3 technologies and develop an idea you're passionate about. This is your opportunity to learn about crypto, expand your network, meet industry professionals, and find like-minded people who are collectively creating a new kind of web.\n\n## Tokyo 2026\n\nThe Tokyo hackathon runs September 25-27, 2026 at Toranomon Hills Forum, on the fifth floor of Toranomon Hills Mori Tower. The organizer lists $75,000 available in prizes from World, ENS, Uniswap Foundation, 1inch, Sui, Curvegrid and Web3Antivirus.\n\n## Themes and topics\n\nThe published tracks include zero knowledge proofs, AI x Crypto, DeFi and crypto consumer applications, Layer 2s and interoperability, public goods, privacy, security and TEEs, data availability, identity and developer tools.\n\n## Building formats\n\nFor the first time ever, a project does not have to start at zero. The organizer offers three formats: From Scratch, Extend Open Source, and Ship a Feature. The published rules specify teams of 1-5 members and up to three sponsor SDKs.\n\n## Participation\n\nThe event is beginner friendly and includes technical mentorship, curated content, exclusive swag, and free food and drinks. Pragma Tokyo runs as a one-day summit alongside the hackathon week.",
     "startDate": "2026-09-25T00:00:00+09:00",
     "endDate": "2026-09-27T23:59:00+09:00",
     "city": "Tokyo",
@@ -616,18 +616,10 @@
     ],
     "descriptionSource": {
       "url": "https://ethglobal.com/events/tokyo2026",
-      "fetchedAt": "2026-09-20T08:54:15.141Z",
+      "fetchedAt": "2026-09-21T05:12:52.997Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "ETHGlobal Tokyo 2026",
-      "sha256": "3ad2428a85f167d06f0e39f72fab61b4a55df1baef6eaa6925e5f3208bd86e78",
-      "evidence": [
-        {
-          "url": "https://ethglobal.com/events/tokyo2026",
-          "fetchedAt": "2026-09-20T08:54:15.141Z",
-          "sha256": "cccb7015bb6a5758f4927f1ee91a6c05019dfb8c7e75a969b494cc3b9158ed2f",
-          "retrievedVia": "https://r.jina.ai/https://ethglobal.com/events/tokyo2026"
-        }
-      ]
+      "sha256": "285246d1cb1a06af1c5e80578294258b033c30e2ff76c3b15abfec40abd81872"
     },
     "timezone": "Asia/Tokyo"
   },
@@ -1952,7 +1944,7 @@
     "id": "premier-indiabw-2026",
     "slug": "ibw",
     "name": "India Blockchain Week 2026",
-    "description": "India Blockchain Week 2026 — Accelerating India's Digital Renaissance. The two-day flagship conference anchoring India Blockchain Week, hosted by Hashed Emergent.",
+    "description": "India Blockchain Week 2026 is India's flagship Web3 gathering, hosted by Hashed Emergent. The two-day flagship conference anchors India Blockchain Week on 1-2 November at Fairmont Mumbai.\n\n## Fourth edition in Mumbai\n\nAfter three landmark editions in Bangalore, the conference moves to Mumbai, India's financial capital, for its fourth edition: closer to capital, institutions and the conversations shaping the next phase of growth.\n\n## Program\n\nThe week features more than 50 side events alongside flagship conferences such as the IBW Conference, Devcon and EthGlobal, with hackathons, lounges, investor dinners, workshops, networking sessions and community parties hosted by Indian and global ecosystem players.\n\n## Passes\n\nGeneral passes cover two conference days with the IBW Connect app and expo access. Priority adds the Fairmont lunch buffet and Institutional Forum eligibility. VIP adds the lounge and the pre-conference VIP dinner night, with an Executive tier adding a Fairmont stay and transfers, plus student passes with workshop and hackathon access. Prices exclude GST.\n\n## Who attends\n\nThe audience mix spans builders and developers, founders and CEOs, protocol and project teams, investors and capital, policy and institutions, and media and ecosystem contributors. The 2026 speaker lineup and final agenda are announced closer to the event, with speaker, sponsor and partner applications open.",
     "startDate": "2026-11-01",
     "endDate": "2026-11-02",
     "city": "Mumbai",
@@ -1970,17 +1962,17 @@
     "addressCountry": "IN",
     "descriptionSource": {
       "url": "https://indiablockchainweek.com/",
-      "fetchedAt": "2026-09-20T00:20:08.299Z",
-      "method": "event-jsonld",
-      "pageTitle": "India Blockchain Week 2026 — Nov 1–2, Fairmont Mumbai",
-      "sha256": "7b95485e49c60ec01215f0fd86b99d5fec4d4c5caf00a79dbc95c776a236ba8e"
+      "fetchedAt": "2026-09-21T05:12:53.001Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "India Blockchain Week 2026",
+      "sha256": "ea2dc311c2e2e54ff31955b3e245cf258eb55c2a5edff50f8468ba12355a4823"
     }
   },
   {
     "id": "premier-devcon-2026",
     "slug": "devcon",
     "name": "Devcon 2026",
-    "description": "Devcon is the Ethereum conference for developers, researchers, thinkers, and makers. Join us 3–6 November 2026 in Mumbai, India.",
+    "description": "Devcon is the annual global event for the movement building free, open, private, and verifiable systems. In 2026 it comes to Mumbai, India, on 3-6 November at G Block, Bandra Kurla Complex.\n\n## Why Mumbai\n\nDevcon calls Mumbai home in 2026 to champion what India is building: deep engineering talent, an open-source community expanding faster than almost any other in the world, and the world's largest public open-source contributor base.\n\n## Program\n\nProgramming spans Core Protocol, Privacy and Consent, Security, Futures Worth Building, Users Builders and Agents, Rights Freedoms and Governance, Applied Cryptography, Permissionless Networks, and Open and Verifiable Stack. Formats include talks, workshops, experiences, coworking, art, community hubs, music and hands-on spaces created by the community.\n\n## Tickets\n\nGeneral Admission starts at $499 and is anon-friendly and transferrable with a limit of two per order. Community discounts from $149 cover Indian residents and open-source contributors, with application-based Sanctuary Tech Builder, student and youth passes from $25. All passes include four-day access, catering and swag, plus 18% GST.\n\n## Getting there\n\nThe organizer runs an airport welcome booth, with the metro reaching the venue in about five minutes. The event overlaps with Diwali season, so the travel guide advises booking stays early. Speaker, supporter, volunteer and media applications run through the organizer's site.",
     "startDate": "2026-11-03",
     "endDate": "2026-11-07",
     "city": "Mumbai",
@@ -1999,10 +1991,10 @@
     "addressCountry": "IN",
     "descriptionSource": {
       "url": "https://devcon.org/en/",
-      "fetchedAt": "2026-09-20T00:20:08.322Z",
-      "method": "event-jsonld",
+      "fetchedAt": "2026-09-21T05:12:53.000Z",
+      "method": "reviewed-primary-sources",
       "pageTitle": "Devcon 8 India",
-      "sha256": "23c0939dcec56f6ea8ac7bf2adc599d09721e60cd5067aa105ff8d5c549e4cef"
+      "sha256": "34dfa6ca4ad1e1decc33508d9952ec24082a971202152512891c5bad6d213364"
     }
   },
   {
@@ -2059,7 +2051,7 @@
     "id": "premier-ethmumbai-2026",
     "slug": "ethglobal1",
     "name": "ETHGlobal Mumbai 2026",
-    "description": "ETHGlobal hackathons enable you to experiment with cutting edge web3 technologies and develop an idea you're passionate about. This is your opportunity to learn about crypto, expand your network, meet industry professionals, and find like-minded people who are collectively creating a new kind of web.\n\n## Mumbai 2026\n\nThe Mumbai hackathon runs 5–7 November 2026 at Jio World Convention Centre. The organizer lists $175,000 available in prizes.\n\n## Building formats\n\nProjects can start from scratch, extend an open-source repository, or ship a new open-source feature on an existing product during the event. The published rules specify teams of 1–5 members and up to three sponsor SDKs.\n\n## Themes\n\nThe published themes include zero knowledge proofs, AI x Crypto, DeFi, crypto consumer applications, Layer 2s, interoperability, public goods, privacy and security, TEEs, data availability, identity and developer tools.\n\n## Venue\n\nJio World Centre, G Block, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400098, India.",
+    "description": "ETHGlobal hackathons enable you to experiment with cutting edge web3 technologies and develop an idea you're passionate about. This is your opportunity to learn about crypto, expand your network, meet industry professionals, and find like-minded people who are collectively creating a new kind of web.\n\n## Mumbai 2026\n\nThe Mumbai hackathon runs 5-7 November 2026 at Jio World Convention Centre. The organizer lists $175,000 available in prizes across tracks from World, 1inch, 0G, Uniswap Foundation, Arc, Hedera, Arkiv, Whitechain, ENS, Definitive and Chainlink. The published roster spans judges, mentors and speakers from ETHGlobal, Ethereum Foundation, Backpack, MetaMask and ENS.\n\n## Building formats\n\nProjects can start from scratch, extend an open-source repository, or ship a new open-source feature on an existing product during the event. The published rules specify teams of 1-5 members and up to three sponsor SDKs.\n\n## Themes\n\nThe published themes include zero knowledge proofs, AI x Crypto, DeFi, crypto consumer applications, Layer 2s, interoperability, public goods, privacy and security, TEEs, data availability, identity and developer tools.\n\n## Venue\n\nJio World Centre, G Block, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400098, India.\n\n## Around the hackathon\n\nPartners for the weekend include World, 1inch, 0G, ENS, Uniswap Foundation, Arc, Hedera, Arkiv, Definitive Finance and Chainlink Labs. Pragma Mumbai, ETHGlobal's one-day builders summit, takes place on 4 November at Grand Hyatt Mumbai on 26 September alongside the hackathon week.",
     "startDate": "2026-11-05",
     "endDate": "2026-11-07",
     "city": "Mumbai",
@@ -2072,18 +2064,10 @@
     "source": "curated-premier",
     "descriptionSource": {
       "url": "https://ethglobal.com/events/mumbai",
-      "fetchedAt": "2026-09-20T08:54:26.824Z",
+      "fetchedAt": "2026-09-21T05:12:52.988Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "ETHGlobal Mumbai",
-      "sha256": "31e29471be32ca25340bb7ba6b9ae1d1334be81f51b6c308201fd1deda691de8",
-      "evidence": [
-        {
-          "url": "https://ethglobal.com/events/mumbai",
-          "fetchedAt": "2026-09-20T08:54:26.824Z",
-          "sha256": "ea507bc0ced45baf1fa7f62c8e8ecbbf6642af932c974ab242fa96515e364cd1",
-          "retrievedVia": "https://r.jina.ai/https://ethglobal.com/events/mumbai"
-        }
-      ]
+      "sha256": "84611f3b7b78ec199437adb5464a317277b01216ca9a840f8c4f77d090425934"
     },
     "registrationUrl": "https://ethglobal.com/events/mumbai",
     "timezone": "Asia/Kolkata",
@@ -2394,7 +2378,7 @@
     "id": "premier-ethsofia",
     "slug": "ethsofia",
     "name": "ETHSofia 2026",
-    "description": "ETHSofia is Bulgaria’s premier Ethereum-focused conference, bringing together builders, researchers, and institutions shaping the future of the original smart contract blockchain. With a strong regional lens and a global perspective, ETHSofia brings together local leaders and international experts to explore the latest Ethereum trends and use cases, from privacy-preserving infrastructure to real-world asset tokenization.\n\n## Main themes\n\n• Onchain privacy and scaling\n• Smart contract security and OPSEC\n• Consumer DeFi\n• Ethereum integrations into Web2\n\n## Who attends\n\nThe program brings together Ethereum teams building applications and core infrastructure, service providers supporting production-grade crypto experience, teams integrating Ethereum in Web2, security professionals focused on audits, risk and resilience, and developers and researchers across scaling, privacy, UX and protocol development.\n\n## Venue\n\nThe conference takes place on 24 September 2026 at Sofia Tech Park. The John Atanasoff Forum is part of Bulgaria's first science and technology park.",
+    "description": "ETHSofia is Bulgaria's premier Ethereum-focused conference, bringing together builders, researchers, and institutions shaping the future of the original smart contract blockchain.\n\n## Conference\n\nThe conference takes place on 24 September 2026 at Sofia Tech Park. With a strong regional lens and a global perspective, ETHSofia brings together local leaders and international experts to explore Ethereum trends and use cases, from privacy-preserving infrastructure to real-world asset tokenization.\n\n## Main themes\n\nThe program covers onchain privacy and scaling, smart contract security and operations security, consumer DeFi, and Ethereum integrations into Web2 products, delivered by Ethereum teams, service providers, integrating enterprises and security professionals.\n\n## Speakers\n\nPublished speakers include Viktor Uzunov (UEB3 Fund), Krum Pashov (Pashov Audit Group), Marc Zeller (Aave Chan Initiative), Nicolas Bacca (Ledger, ZKnox), TokenBrice (Polaris), Klara Kovacevic (ChainSecurity), Jonathan Riss (CertiK), Todor Karaivanov (Chainlink Labs), Mark Richardson (Bancor), Steffen Kux (corpus.core), Josef Gattermayer (ack3) and Vyara Savova (European Ethereum Institute).\n\n## Venue\n\nThe John Atanasoff Forum is part of Bulgaria's first science and technology park, surrounded by startups, enterprises, investment funds, a laboratory complex and the Discoverer supercomputer. Tickets are available through Blockchain Week Bulgaria, with speaker, partner and volunteer applications open.",
     "startDate": "2026-09-24",
     "endDate": "2026-09-24",
     "city": "Sofia",
@@ -2408,17 +2392,10 @@
     "venueName": "John Atanasoff Forum, Sofia Tech Park",
     "descriptionSource": {
       "url": "https://www.ethsofia.com/",
-      "fetchedAt": "2026-09-20T07:56:52.274Z",
+      "fetchedAt": "2026-09-21T05:12:52.996Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "ETHSofia - Cypherpunk Technology for Institutional Capital",
-      "sha256": "4e6be8c5e8566b8d0f0f003d7aa0e82cb21d3629b3fda3c5bf21dab0bf15e7ea",
-      "evidence": [
-        {
-          "url": "https://www.ethsofia.com/",
-          "fetchedAt": "2026-09-20T07:56:52.274Z",
-          "sha256": "d440ad4eb6bad72ca86a25883fc5320990a2b45282ab3ed1e08d343234708242"
-        }
-      ]
+      "pageTitle": "ETHSofia 2026",
+      "sha256": "d94999b343af179180aaa1db38eac9e7a6e4e0b741cd84bf7337d6a6d57ea345"
     },
     "registrationUrl": "https://www.ethsofia.com/",
     "timezone": "Europe/Sofia"
@@ -2575,7 +2552,7 @@
     "id": "premier-stablecoinsg",
     "slug": "stablecoin-summit-2026",
     "name": "Stablecoin Summit Singapore 2026",
-    "description": "Asia's premier event for stablecoin innovation. We bring together government, institutions, fintech leaders, and blockchain pioneers to explore the future of digital money.\n\nDesigned for enterprises and financial institutions engaged in high-volume cross-border payments, we focus on real-world use cases, trustless transactions, transparency, and security.\n\nJoin us for expert insights, technical deep dives, and top-tier networking.\n\n## Stablecoin Summit 2026\n\nThe XREX event takes place on 8 October 2026 at Andaz Singapore.",
+    "description": "Asia's premier event for stablecoin innovation. We bring together government, institutions, fintech leaders, and blockchain pioneers to explore the future of digital money.\n\nDesigned for enterprises and financial institutions engaged in high-volume cross-border payments, the summit focuses on real-world use cases, trustless transactions, transparency, and security, with expert insights, technical deep dives, and top-tier networking.\n\n## Stablecoin Summit 2026\n\nThe XREX event takes place on 8 October 2026 at Andaz Singapore, during TOKEN2049 week. Tickets are available through the organizer's ticketing page. The summit runs alongside TOKEN2049 week programming in Singapore.",
     "startDate": "2026-10-08",
     "endDate": "2026-10-08",
     "city": "Singapore",
@@ -2588,17 +2565,10 @@
     "source": "curated-premier",
     "descriptionSource": {
       "url": "https://stablecoinsummit.com/",
-      "fetchedAt": "2026-09-20T07:56:57.430Z",
+      "fetchedAt": "2026-09-21T05:12:52.981Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Stablecoin Summit 2026",
-      "sha256": "925efd6367aebb8494e7ca83f61e18b09e992847d7e515805c48546e86bf8727",
-      "evidence": [
-        {
-          "url": "https://stablecoinsummit.com/",
-          "fetchedAt": "2026-09-20T07:56:57.430Z",
-          "sha256": "ff7b16499225e8a9afc56b4c1ca4dd9c92b500baf2f2a1c665d2fa3d9a6a9a2f"
-        }
-      ]
+      "sha256": "4b4c18ae118ebbc660bec5615887af967d17557d20d7e2e843267819a4472c6c"
     },
     "registrationUrl": "https://stablecoinsummit.com/",
     "timezone": "Asia/Singapore",
@@ -2698,7 +2668,7 @@
     "id": "premier-planblugano",
     "slug": "plan",
     "name": "Plan B Forum Lugano 2026",
-    "description": "Lugano’s Plan ₿ Forum is the premier Bitcoin conference bringing together world leaders, technologists, and entrepreneurs to discuss nation-state Bitcoin adoption, economics, financial freedom, and freedom of speech.\n\n## Two-day conference\n\nThe forum takes place on 23–24 October 2026 in Lugano. Conference access covers the Convention Centre, Villa Ciani and Ex-Asilo Ciani, with keynotes, panels, workshops, a Bitcoin art gallery, and startup and sponsor exhibitions.\n\n## Languages\n\nThe event will be conducted in English, but real-time translations in Italian will be provided for the main keynotes and panels. Headsets will be provided on premise.\n\n## Passes\n\nThe published Peer ticket includes keynotes, panels, masterclasses, sponsor exhibitions and one-to-one matched networking. The Cyber Punk ticket adds VIP check-in, front-row seating, speaker meals on both days and VIP-lounge access.",
+    "description": "Lugano's Plan B Forum is the premier Bitcoin conference bringing together world leaders, technologists, and entrepreneurs to discuss nation-state Bitcoin adoption, economics, financial freedom, and freedom of speech.\n\n## Two-day conference\n\nThe forum takes place on 23-24 October 2026 in Lugano at the Palazzo dei Congressi. Conference access covers the Convention Centre, Villa Ciani and Ex-Asilo Ciani, with keynotes, panels, workshops, a Bitcoin art gallery, and startup and sponsor exhibitions.\n\n## Speakers\n\nConfirmed speakers include Paolo Ardoino (Tether), Elizabeth Stark (Lightning Labs), Adam Back (Blockstream), Saifedean Ammous, Roy Sheinfeld (Breez), Samson Mow (JAN3), Stephan Livera and BTC Sessions.\n\n## Passes\n\nThe published Peer ticket includes keynotes, panels, masterclasses, sponsor exhibitions and one-to-one matched networking. The Cyber Punk ticket adds VIP check-in, front-row seating, speaker meals on both days and VIP-lounge access, a combo pass covers El Salvador and Lugano, and students can apply for a discounted pass. The Cyber Punk ticket adds VIP check-in, front-row seating, speaker meals on both days and VIP-lounge access, and students can apply for a discounted pass.\n\n## Languages\n\nThe event is conducted in English, with real-time Italian translations for the main keynotes and panels. Headsets are provided on premise.",
     "startDate": "2026-10-23",
     "endDate": "2026-10-24",
     "city": "Lugano",
@@ -2711,17 +2681,10 @@
     "source": "curated-premier",
     "descriptionSource": {
       "url": "https://planb.lugano.ch/planb-forum/",
-      "fetchedAt": "2026-09-20T07:56:59.896Z",
+      "fetchedAt": "2026-09-21T05:12:52.967Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "Lugano's Plan ₿ | Every City Needs a Plan B",
-      "sha256": "6ca3a770ec3355459758c36918bc77b293c7c7aad7a3432e5b1623edd92c26cc",
-      "evidence": [
-        {
-          "url": "https://planb.lugano.ch/planb-forum/",
-          "fetchedAt": "2026-09-20T07:56:59.896Z",
-          "sha256": "140ac8b7508d2678d19beafe2dad379aa2ae0099c5a60bdddadeda702be91cf0"
-        }
-      ]
+      "pageTitle": "Lugano's Plan B Forum 2026",
+      "sha256": "badbe6dae301d27581e133b0644818e8b5bfef63658b41a792c0a2d24d28f802"
     },
     "registrationUrl": "https://planb.lugano.ch/planb-forum/",
     "timezone": "Europe/Zurich",
@@ -2883,7 +2846,7 @@
     "id": "premier-unbanked",
     "slug": "the",
     "name": "The (un)Banked London 2026",
-    "description": "The (un)Banked lands in London — an invite-only gathering of banks, fintechs, and digital asset leaders shaping the next chapter of European finance.\n\n## London edition\n\nThe conference takes place on 9 November 2026 at Landing Canary Wharf, a waterside venue in London's Canary Wharf business district.\n\n## Program\n\nThe published program covers institutional tokenisation, custody and board-level risk, stablecoin payments, institutional capital and digital assets, and the FCA, MiCA and regulatory landscape. Registration and coffee begin at 10:00 AM, with closing remarks and networking at 4:30 PM.\n\n## Attendance\n\nThe (un)Banked is invite-only. Register your interest and our team will be in touch with confirmed guests.\n\n## Partnerships\n\nSponsorship, media, community partnerships and speakership for the London Edition are open.",
+    "description": "The (un)Banked lands in London, an invite-only gathering of banks, fintechs, and digital asset leaders shaping the next chapter of European finance.\n\n## London edition\n\nThe conference takes place on 9 November 2026 at Landing Canary Wharf, a waterside venue in London's Canary Wharf business district. The one-day program brings together more than 500 leaders across banking, fintech, crypto and regulation.\n\n## Program\n\nThe published program covers institutional tokenisation, custody and board-level risk, stablecoin payments, institutional capital and digital assets, and the FCA and MiCA regulatory landscape. Registration and coffee begin at 10:00 AM, with closing remarks and networking at 4:30 PM.\n\n## Attendance\n\nThe (un)Banked is invite-only. Register interest through the organizer and the team follows up with confirmed guests. One day. One room. London's most senior finance minds.\n\n## Speakers\n\nPublished speakers include Giovanni Everduin (Commercial Bank International), Laurent Marochini (Standard Chartered), Daniel Rowlands (Wirex), Oleg Bevz (INPUT Global), Rob Hadick (Dragonfly), Alice Li (Foresight Ventures), Jody Mettler (BitGo), James Butterfill (Coinshares) and Artem Stopnevich (The Vault). Sponsors include Paybis, Foresight Ventures, Purewallet and The Vault. Sponsorship, media, community partnerships and speakership for the London edition are open.",
     "startDate": "2026-11-09",
     "endDate": "2026-11-09",
     "city": "London",
@@ -2896,17 +2859,10 @@
     "source": "curated-premier",
     "descriptionSource": {
       "url": "https://theunbanked.finance/london",
-      "fetchedAt": "2026-09-20T08:01:42.139Z",
+      "fetchedAt": "2026-09-21T05:12:52.990Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "The (un)Banked Conference 2026 · Recap",
-      "sha256": "fee66092005e3a104d17729077ed373f61bf40a3cd48931bdd36adfc457f6f51",
-      "evidence": [
-        {
-          "url": "https://theunbanked.finance/london",
-          "fetchedAt": "2026-09-20T08:01:42.139Z",
-          "sha256": "d856db2448ea544c690f29b143a83103e3afd2102b81eb1831f600709eb8a961"
-        }
-      ]
+      "pageTitle": "The (un)Banked London 2026",
+      "sha256": "455ef8e286b8db887b5cfa4b4b72564809660aa3b7d1f59c3d22ecdbc1387237"
     },
     "registrationUrl": "https://theunbanked.finance/london",
     "attendanceMode": "offline",
@@ -2964,7 +2920,7 @@
     "id": "premier-bigwhale",
     "slug": "the1",
     "name": "The Big Whale Geneva Summit 2026",
-    "description": "In November 2026, we host the inaugural edition of the Geneva Summit in Geneva. Join your peers in a cohort of 300 hand-picked decision-makers from leading banks and asset management firms to define the standards of tomorrow's finance industry together.\n\n## Program\n\nTwo days of panels, workshops and closed-door sessions cover custody, institutional infrastructure, stablecoins, cross-border settlement, real-asset tokenization, regulated AI agents and capital strategy.\n\n## Attendance and discussion rules\n\nThe Summit is invitation-only and reserved for senior decision-makers from financial institutions, asset managers, regulators and enterprise firms. The Big Whale Corporate Members receive priority access.\n\nAll discussions are held under Chatham House Rule. There are no recordings or press access. No participation fee applies; attendance conditions are communicated after application approval.\n\n## Venue\n\nHotel President Wilson, 47 Quai Wilson, 1211 Geneva 8, Switzerland. The summit runs on 12–13 November 2026.",
+    "description": "In November 2026, the inaugural edition of the Geneva Summit takes place in Geneva. Join a cohort of 300 hand-picked decision-makers from leading banks and asset management firms to define the standards of tomorrow's finance industry together.\n\n## Program\n\nTwo days of panels, workshops and closed-door sessions cover custody and institutional infrastructure, stablecoins and cross-border settlement, real-asset tokenization, regulated AI agents and capital strategy. All discussions are held under Chatham House Rule, with no recordings or press access. Three sponsorship levels are available, and a dedicated room block is reserved at Hotel President Wilson for participants. The published program spans custody and institutional infrastructure, stablecoins and cross-border settlement, real-asset tokenization, regulated AI agents and capital strategy, with institutions such as JP Morgan, BlackRock, Franklin Templeton, BNP Paribas, Societe Generale and KPMG represented in the room.\n\n## Attendance\n\nThe Summit is invitation-only and reserved for senior decision-makers from financial institutions, asset managers, regulators and enterprise firms. Corporate members of The Big Whale receive priority access. No participation fee applies; attendance conditions are communicated after application approval.\n\n## Venue\n\nHotel President Wilson, 47 Quai Wilson, 1211 Geneva, Switzerland. The summit runs on 12-13 November 2026 with plenary, breakout, dining and networking spaces.",
     "startDate": "2026-11-12",
     "endDate": "2026-11-13",
     "city": "Geneva",
@@ -2977,17 +2933,10 @@
     "source": "curated-premier",
     "descriptionSource": {
       "url": "https://www.thebigwhale.io/summit",
-      "fetchedAt": "2026-09-20T08:54:27.848Z",
+      "fetchedAt": "2026-09-21T05:12:52.991Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "Geneva Summit 2026 — Geneva, 12–13 November",
-      "sha256": "57536ee3763e4eda375744c06ad17ac79cd09be333aa48ab0cce8e721262bc41",
-      "evidence": [
-        {
-          "url": "https://www.thebigwhale.io/summit",
-          "fetchedAt": "2026-09-20T08:54:27.848Z",
-          "sha256": "a5eb75874108ba21dd66125f085c6bda66db81e654bbfcef6ec9f08c56d173d5"
-        }
-      ]
+      "pageTitle": "The Big Whale Geneva Summit 2026",
+      "sha256": "85103dcff8f4994280966dbc11f91647240d76ae55e016a406a590cef5b44df2"
     },
     "registrationUrl": "https://www.thebigwhale.io/summit",
     "timezone": "Europe/Zurich",

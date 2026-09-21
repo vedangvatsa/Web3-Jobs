@@ -12,12 +12,15 @@
       "status": "source-backed",
       "source": {
         "url": "https://colosseum.com/worldsfair",
-        "fetchedAt": "2026-09-20T07:56:52.564Z"
+        "fetchedAt": "2026-09-21T05:11:35.904Z"
       },
       "sections": [
         "About the event",
         "Crypto World's Fair",
         "Awards and opportunities",
+        "Tracks",
+        "Judges",
+        "Accelerator",
         "Livestream workshops"
       ]
     },
@@ -364,7 +367,9 @@
         "fetchedAt": "2026-09-19T23:49:49.398Z"
       },
       "sections": [
-        "About the event"
+        "About the event",
+        "About Ripple Ventures",
+        "About Scalestack"
       ]
     },
     {
@@ -575,12 +580,13 @@
       "status": "source-backed",
       "source": {
         "url": "https://www.ethsofia.com/",
-        "fetchedAt": "2026-09-20T07:56:52.274Z"
+        "fetchedAt": "2026-09-21T05:11:35.914Z"
       },
       "sections": [
         "About the event",
+        "Conference",
         "Main themes",
-        "Who attends",
+        "Speakers",
         "Venue"
       ]
     },
@@ -637,7 +643,7 @@
       "status": "source-backed",
       "source": {
         "url": "https://ethglobal.com/events/tokyo2026",
-        "fetchedAt": "2026-09-20T08:54:15.141Z"
+        "fetchedAt": "2026-09-21T05:11:35.915Z"
       },
       "sections": [
         "About the event",
@@ -966,7 +972,9 @@
       "sections": [
         "About the event",
         "What to expect",
+        "About Monad",
         "About Monad Blitz",
+        "About Encode Club",
         "Disclaimer"
       ]
     },
@@ -1272,7 +1280,7 @@
         "fetchedAt": "2026-09-19T23:49:54.624Z"
       },
       "sections": [
-        "More details to be shared soon"
+        "About Rayls"
       ]
     },
     {
@@ -1448,7 +1456,11 @@
         "About the event",
         "Venue",
         "Agenda",
-        "<Cohosts>"
+        "About Optimum",
+        "About Google Cloud",
+        "About Four Pillars",
+        "About LINE NEXT",
+        "About Auros"
       ]
     },
     {
@@ -1644,7 +1656,9 @@
         "Event Highlights",
         "Event Program",
         "Registration",
-        "Hosts & Partners"
+        "About DayOneDream",
+        "About Soneium",
+        "About Optimism"
       ]
     },
     {
@@ -1679,18 +1693,18 @@
         "Date & Location",
         "Time Schedule",
         "Who's In The Room",
-        "에코빗 랩스(Echobit Labs) (https://www.echobit.com/en-us/labs)",
-        "티오십사(T54) (https://www.t54.ai/)",
-        "포탈(Portals) (https://t.me/portals_community)",
-        "AEON(AI Economy) (https://aeon.xyz/about)",
-        "오토린타(AutoLinta) (http://www.autolinta.com/)",
-        "아발론랩스(Avalon Labs) (https://www.avalonfinance.xyz/)",
-        "트리아(Tria) (https://apps.apple.com/us/app/tria-crypto-cards/id6745908653)",
-        "오브스(ORBS) (https://www.orbs.com/ko/overview/)",
-        "라이즈엑스(RISEx) (https://www.rise.trade/ko/trade/BTC)",
-        "스탠드엑스(StandX) (https://standx.com/)",
-        "터보플로우(TurboFlow) (https://www.turboflow.xyz/)",
-        "젝토(ZEKTO) (https://zekto.co.kr/)",
+        "에코빗 랩스(Echobit Labs)",
+        "티오십사(T54)",
+        "포탈(Portals)",
+        "AEON(AI Economy)",
+        "오토린타(AutoLinta)",
+        "아발론랩스(Avalon Labs)",
+        "트리아(Tria)",
+        "오브스(ORBS)",
+        "라이즈엑스(RISEx)",
+        "스탠드엑스(StandX)",
+        "터보플로우(TurboFlow)",
+        "젝토(ZEKTO)",
         "Backed by Host",
         "How to get People The Terrace?"
       ]
@@ -2165,7 +2179,8 @@
         "fetchedAt": "2026-09-19T23:54:12.111Z"
       },
       "sections": [
-        "About the event"
+        "About the event",
+        "About Rayls"
       ]
     },
     {
@@ -2297,7 +2312,8 @@
         "fetchedAt": "2026-09-19T23:54:12.111Z"
       },
       "sections": [
-        "About the event"
+        "About the event",
+        "About Rayls"
       ]
     },
     {
@@ -2365,7 +2381,7 @@
         "ABOUT US",
         "Agnes AI",
         "AKOOL",
-        "MegaHit.ai (https://MegaHit.ai)",
+        "MegaHit.ai",
         "NevaMind"
       ]
     },
@@ -2630,12 +2646,12 @@
         "On-ChAIn NIGHT in Korea",
         "Where On-Chain meet Finance",
         "Program",
-        "ORBS (https://www.orbs.com/ko/?utm_source=luma)",
-        "INJECTIVE (https://injective.com/)",
-        "STABLE (https://www.stable.xyz/)",
-        "PEAR (https://www.pear.garden/)",
+        "ORBS",
+        "INJECTIVE",
+        "STABLE",
+        "PEAR",
         "Stagraph by Ginco",
-        "DeltaForesight (https://deltaforesight.com/en/)",
+        "DeltaForesight",
         "Media partners"
       ]
     },
@@ -2703,9 +2719,9 @@
       },
       "sections": [
         "About the event",
-        "스탠드엑스(StandX) (https://standx.com/?utm_source=luma)",
-        "라이즈엑스(RISEx) (https://www.rise.trade/ko/trade/BTC?utm_source=luma)",
-        "터보플로우(TurboFlow) (https://www.turboflow.xyz/?utm_source=luma)"
+        "스탠드엑스(StandX)",
+        "라이즈엑스(RISEx)",
+        "터보플로우(TurboFlow)"
       ]
     },
     {
@@ -3056,7 +3072,7 @@
         "India's AI & Web3 community is preparing for the next market cycle - and we want to know how",
         "Partners",
         "Community Partners",
-        "Raajeev Anand (@cryptomargofficial (https://www.instagram.com/cryptomargofficial/))/ TechHybr",
+        "Raajeev Anand (@cryptomargofficial )/ TechHybr",
         "About Infini3",
         "About 28° North"
       ]
@@ -3487,7 +3503,8 @@
         "fetchedAt": "2026-09-19T23:55:11.459Z"
       },
       "sections": [
-        "About the event"
+        "About the event",
+        "About Blockchain.com"
       ]
     },
     {
@@ -3555,7 +3572,7 @@
       },
       "sections": [
         "One year of mainnet. One open economy",
-        "Welcome to Open (https://open.monad.xyz/)",
+        "Welcome to Open",
         "Disclaimer"
       ]
     },
@@ -3729,10 +3746,13 @@
       "status": "source-backed",
       "source": {
         "url": "https://deltav.monad.xyz/programs/deltav-demo-day",
-        "fetchedAt": "2026-09-20T00:20:59.492Z"
+        "fetchedAt": "2026-09-21T04:47:58.568397+00:00"
       },
       "sections": [
-        "About the event"
+        "About the event",
+        "Who attends",
+        "Format",
+        "Event details"
       ]
     },
     {
@@ -3758,7 +3778,10 @@
         "fetchedAt": "2026-09-19T23:46:20.440Z"
       },
       "sections": [
-        "About the event"
+        "About the event",
+        "About ChangeNOW",
+        "About Turnkey",
+        "About OpenFX"
       ]
     },
     {
@@ -3772,8 +3795,8 @@
       },
       "sections": [
         "About the event",
-        "Hosted by BackersStage (https://www.backersstage.com)",
-        "Cohosted by Amazon Web Services (AWS) (http://aws.amazon.com/)",
+        "Hosted by BackersStage",
+        "Cohosted by Amazon Web Services (AWS)",
         "Media",
         "Media Partners",
         "Previous Experiences"
@@ -4493,14 +4516,14 @@
         "The Curated Experience",
         "Marking a Milestone of Building",
         "Position Your Brand Before Digital Asset Decision Makers",
-        "About ChainUp (https://www.chainup.com/)",
-        "About BSquared Network (https://bsquared.network/)",
-        "About CZR (https://www.czrex.com/en_US/?utm_source=luma)",
-        "About Sumsub (https://sumsub.com/?utm_source=luma)",
+        "About ChainUp",
+        "About BSquared Network",
+        "About CZR",
+        "About Sumsub",
         "Strategic Partners",
-        "About Coincall (https://www.coincall.com/)",
-        "About DBS Private Bank (https://www.dbs.com.sg/private-banking/default.page)",
-        "About PayFun (https://www.payfun.com/)",
+        "About Coincall",
+        "About DBS Private Bank",
+        "About PayFun",
         "Event Supported by",
         "Media Partners"
       ]
@@ -4520,9 +4543,9 @@
         "Who Should Attend",
         "Highlights",
         "Agenda",
-        "About Comma3 Ventures (https://comma3.co/?utm_source=luma)",
-        "About Sui (https://sui.io/?utm_source=luma)",
-        "About BTSE (https://www.btse.com/en)",
+        "About Comma3 Ventures",
+        "About Sui",
+        "About BTSE",
         "Notes"
       ]
     },
@@ -4948,7 +4971,7 @@
       "sections": [
         "About the event",
         "What to expect?",
-        "About us -"
+        "About us"
       ]
     },
     {
@@ -5049,13 +5072,14 @@
       "status": "source-backed",
       "source": {
         "url": "https://www.token2049.com/singapore/nexus-startup-competition",
-        "fetchedAt": "2026-09-20T07:56:56.531Z"
+        "fetchedAt": "2026-09-21T05:11:35.781Z"
       },
       "sections": [
         "About the event",
         "Competition",
-        "Finalist access",
-        "Application status"
+        "What finalists receive",
+        "First round",
+        "Applications"
       ]
     },
     {
@@ -5450,7 +5474,7 @@
       "status": "source-backed",
       "source": {
         "url": "https://stablecoinsummit.com/",
-        "fetchedAt": "2026-09-20T07:56:57.430Z"
+        "fetchedAt": "2026-09-21T05:11:35.863Z"
       },
       "sections": [
         "About the event",
@@ -5753,12 +5777,13 @@
       "status": "source-backed",
       "source": {
         "url": "https://www.token2049.com/singapore/nexus-startup-competition",
-        "fetchedAt": "2026-09-20T07:56:56.531Z"
+        "fetchedAt": "2026-09-21T05:11:35.788Z"
       },
       "sections": [
         "About the event",
-        "Finalists and prizes",
+        "Competition",
         "What finalists receive",
+        "Final round",
         "Applications"
       ]
     },
@@ -5826,12 +5851,14 @@
       "status": "source-backed",
       "source": {
         "url": "https://www.token2049.com/singapore/2049-origins",
-        "fetchedAt": "2026-09-20T07:56:56.870Z"
+        "fetchedAt": "2026-09-21T05:11:35.800Z"
       },
       "sections": [
         "About the event",
         "Prizes and tracks",
-        "Participation"
+        "Participation",
+        "Schedule",
+        "Rules"
       ]
     },
     {
@@ -5996,7 +6023,7 @@
         "Hosts",
         "Why Join?",
         "Want to Join?",
-        "About me TatianaSF.com (http://TatianaSF.com)"
+        "About me TatianaSF.com"
       ]
     },
     {
@@ -6024,7 +6051,7 @@
       "status": "source-backed",
       "source": {
         "url": "https://sg2026.vaultsummit.xyz/",
-        "fetchedAt": "2026-09-20T08:01:29.223Z"
+        "fetchedAt": "2026-09-21T05:11:35.868Z"
       },
       "sections": [
         "About the event",
@@ -6172,11 +6199,13 @@
       "status": "source-backed",
       "source": {
         "url": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE",
-        "fetchedAt": "2026-09-20T07:56:58.376Z"
+        "fetchedAt": "2026-09-21T05:11:35.827Z"
       },
       "sections": [
         "About the event",
-        "Friday, 9 October"
+        "Friday, 9 October",
+        "Circuit",
+        "Following the weekend"
       ]
     },
     {
@@ -6190,8 +6219,8 @@
       },
       "sections": [
         "About the event",
-        "Hosted by BackersStage (https://www.backersstage.com)",
-        "Cohosted by Amazon Web Services (AWS) (http://aws.amazon.com/)",
+        "Hosted by BackersStage",
+        "Cohosted by Amazon Web Services (AWS)",
         "Previous Experiences"
       ]
     },
@@ -6238,12 +6267,14 @@
       "status": "source-backed",
       "source": {
         "url": "https://megatix.com.sg/events/after2049",
-        "fetchedAt": "2026-09-20T07:56:59.763Z"
+        "fetchedAt": "2026-09-21T05:11:35.811Z"
       },
       "sections": [
         "About the event",
+        "Music",
+        "Tickets",
         "Access and timings",
-        "Dress code"
+        "Dress code and policies"
       ]
     },
     {
@@ -6388,11 +6419,13 @@
       "status": "source-backed",
       "source": {
         "url": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE",
-        "fetchedAt": "2026-09-20T07:56:58.376Z"
+        "fetchedAt": "2026-09-21T05:11:35.837Z"
       },
       "sections": [
         "About the event",
-        "Saturday, 10 October"
+        "Saturday, 10 October",
+        "Circuit",
+        "Following the weekend"
       ]
     },
     {
@@ -6509,11 +6542,13 @@
       "status": "source-backed",
       "source": {
         "url": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE",
-        "fetchedAt": "2026-09-20T07:56:58.376Z"
+        "fetchedAt": "2026-09-21T05:11:35.847Z"
       },
       "sections": [
         "About the event",
-        "Sunday race program"
+        "Sunday race program",
+        "Circuit",
+        "Following the weekend"
       ]
     },
     {
@@ -6771,7 +6806,7 @@
         "India's AI & Web3 community is preparing for the next market cycle - and we want to know how",
         "Partners",
         "Community Partners",
-        "Raajeev Anand (@cryptomargofficial (https://www.instagram.com/cryptomargofficial/))/ TechHybr",
+        "Raajeev Anand (@cryptomargofficial )/ TechHybr",
         "About Infini3",
         "About 28° North"
       ]
@@ -6843,13 +6878,14 @@
       "status": "source-backed",
       "source": {
         "url": "https://planb.lugano.ch/planb-forum/",
-        "fetchedAt": "2026-09-20T07:56:59.896Z"
+        "fetchedAt": "2026-09-21T05:11:35.824Z"
       },
       "sections": [
         "About the event",
         "Two-day conference",
-        "Languages",
-        "Passes"
+        "Speakers",
+        "Passes",
+        "Languages"
       ]
     },
     {
@@ -6898,7 +6934,7 @@
         "India's AI & Web3 community is preparing for the next market cycle - and we want to know how",
         "Partners",
         "Community Partners",
-        "Raajeev Anand (@cryptomargofficial (https://www.instagram.com/cryptomargofficial/))/ TechHybr",
+        "Raajeev Anand (@cryptomargofficial )/ TechHybr",
         "About Infini3",
         "About 28° North"
       ]
@@ -7121,7 +7157,7 @@
         "India's AI & Web3 community is preparing for the next market cycle - and we want to know how",
         "Partners",
         "Community Partners",
-        "Raajeev Anand (@cryptomargofficial (https://www.instagram.com/cryptomargofficial/))/ TechHybr",
+        "Raajeev Anand (@cryptomargofficial )/ TechHybr",
         "About Infini3",
         "About 28° North"
       ]
@@ -7132,8 +7168,8 @@
       "name": "IBW2026 Pre-Conference VIP Night",
       "status": "source-backed",
       "source": {
-        "url": "https://docs.google.com/spreadsheets/d/1NZ09OVlqElsM64oUm-8i1yh_A-U0p39BJECthwHCsLA/htmlview/sheet?headers=true&gid=0",
-        "fetchedAt": "2026-09-20T07:57:00.927Z"
+        "url": "https://indiablockchainweek.com/",
+        "fetchedAt": "2026-09-21T05:11:35.875Z"
       },
       "sections": [
         "About the event",
@@ -7148,10 +7184,14 @@
       "status": "source-backed",
       "source": {
         "url": "https://indiablockchainweek.com/",
-        "fetchedAt": "2026-09-20T00:20:08.299Z"
+        "fetchedAt": "2026-09-21T05:11:35.924Z"
       },
       "sections": [
-        "About the event"
+        "About the event",
+        "Fourth edition in Mumbai",
+        "Program",
+        "Passes",
+        "Who attends"
       ]
     },
     {
@@ -7210,11 +7250,12 @@
       "status": "source-backed",
       "source": {
         "url": "https://defisecuritysummit.org/",
-        "fetchedAt": "2026-09-20T08:54:16.486Z"
+        "fetchedAt": "2026-09-21T05:11:35.880Z"
       },
       "sections": [
         "About the event",
-        "Day 1: 1 November 2026"
+        "Day 1: 1 November 2026",
+        "Focus"
       ]
     },
     {
@@ -7299,11 +7340,12 @@
       "status": "source-backed",
       "source": {
         "url": "https://defisecuritysummit.org/",
-        "fetchedAt": "2026-09-20T08:54:16.486Z"
+        "fetchedAt": "2026-09-21T05:11:35.881Z"
       },
       "sections": [
         "About the event",
-        "Day 2: 2 November 2026"
+        "Day 2: 2 November 2026",
+        "Focus"
       ]
     },
     {
@@ -7329,8 +7371,8 @@
       "name": "IBW Official After-Party",
       "status": "source-backed",
       "source": {
-        "url": "https://docs.google.com/spreadsheets/d/1NZ09OVlqElsM64oUm-8i1yh_A-U0p39BJECthwHCsLA/htmlview/sheet?headers=true&gid=0",
-        "fetchedAt": "2026-09-20T07:57:00.927Z"
+        "url": "https://indiablockchainweek.com/ibw_2026/side-events",
+        "fetchedAt": "2026-09-21T05:11:35.885Z"
       },
       "sections": [
         "About the event",
@@ -7360,10 +7402,14 @@
       "status": "source-backed",
       "source": {
         "url": "https://devcon.org/en/",
-        "fetchedAt": "2026-09-20T00:20:08.322Z"
+        "fetchedAt": "2026-09-21T05:11:35.917Z"
       },
       "sections": [
-        "About the event"
+        "About the event",
+        "Why Mumbai",
+        "Program",
+        "Tickets",
+        "Getting there"
       ]
     },
     {
@@ -7393,7 +7439,7 @@
         "India's AI & Web3 community is preparing for the next market cycle - and we want to know how",
         "Partners",
         "Community Partners",
-        "Raajeev Anand (@cryptomargofficial (https://www.instagram.com/cryptomargofficial/))/ TechHybr",
+        "Raajeev Anand (@cryptomargofficial )/ TechHybr",
         "About Infini3",
         "About 28° North"
       ]
@@ -7432,7 +7478,7 @@
       "status": "source-backed",
       "source": {
         "url": "https://ethglobal.com/events/pragma-mumbai",
-        "fetchedAt": "2026-09-20T08:54:20.881Z"
+        "fetchedAt": "2026-09-21T05:11:35.888Z"
       },
       "sections": [
         "About the event",
@@ -7489,14 +7535,15 @@
       "status": "source-backed",
       "source": {
         "url": "https://ethglobal.com/events/mumbai",
-        "fetchedAt": "2026-09-20T08:54:26.824Z"
+        "fetchedAt": "2026-09-21T05:11:35.891Z"
       },
       "sections": [
         "About the event",
         "Mumbai 2026",
         "Building formats",
         "Themes",
-        "Venue"
+        "Venue",
+        "Around the hackathon"
       ]
     },
     {
@@ -7713,14 +7760,14 @@
       "status": "source-backed",
       "source": {
         "url": "https://theunbanked.finance/london",
-        "fetchedAt": "2026-09-20T08:01:42.139Z"
+        "fetchedAt": "2026-09-21T05:11:35.895Z"
       },
       "sections": [
         "About the event",
         "London edition",
         "Program",
         "Attendance",
-        "Partnerships"
+        "Speakers"
       ]
     },
     {
@@ -7745,12 +7792,12 @@
       "status": "source-backed",
       "source": {
         "url": "https://www.thebigwhale.io/summit",
-        "fetchedAt": "2026-09-20T08:54:27.848Z"
+        "fetchedAt": "2026-09-21T05:11:35.900Z"
       },
       "sections": [
         "About the event",
         "Program",
-        "Attendance and discussion rules",
+        "Attendance",
         "Venue"
       ]
     },
@@ -7865,7 +7912,7 @@
       },
       "sections": [
         "About the event",
-        "Hosted by BackersStage (https://www.backersstage.com)"
+        "Hosted by BackersStage"
       ]
     },
     {
@@ -8087,7 +8134,7 @@
         "India's AI & Web3 community is preparing for the next market cycle - and we want to know how",
         "Partners",
         "Community Partners",
-        "Raajeev Anand (@cryptomargofficial (https://www.instagram.com/cryptomargofficial/))/ TechHybr",
+        "Raajeev Anand (@cryptomargofficial )/ TechHybr",
         "About Infini3",
         "About 28° North"
       ]
@@ -8318,7 +8365,7 @@
         "India's AI & Web3 community is preparing for the next market cycle - and we want to know how",
         "Partners",
         "Community Partners",
-        "Raajeev Anand (@cryptomargofficial (https://www.instagram.com/cryptomargofficial/))/ TechHybr",
+        "Raajeev Anand (@cryptomargofficial )/ TechHybr",
         "About Infini3",
         "About 28° North"
       ]
@@ -8445,10 +8492,14 @@
       "status": "source-backed",
       "source": {
         "url": "https://signalweek.com/",
-        "fetchedAt": "2026-09-20T00:20:06.852Z"
+        "fetchedAt": "2026-09-21T05:11:35.916Z"
       },
       "sections": [
-        "About the event"
+        "About the event",
+        "What it is",
+        "Audience",
+        "Speakers",
+        "Participation"
       ]
     }
   ]

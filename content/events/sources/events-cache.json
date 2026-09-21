@@ -1392,7 +1392,7 @@
   {
     "id": "w3v-crypto-worlds-fair-hackathon-by-colosseum",
     "name": "Crypto World's Fair Hackathon by Colosseum",
-    "description": "An online hackathon bringing together builders and founders across all crypto ecosystems to launch breakout startups.\n\n## Crypto World's Fair\n\nCrypto World’s Fair is an open competition of the ideas, technologies, and communities shaping the blockchain ecosystem.\n\nInspired by the historic world’s fairs, it brings together builders and founders who are ready to exhibit the products and innovations that are going to drive the next wave of crypto startups that bring the world's markets onchain.\n\n## Awards and opportunities\n\nCompete for $840,000 in prizes and $2.5 million in seed funding. Submissions are due October 12, 2026.\n\nAll Hackathon winners will be interviewed and considered for Colosseum’s accelerator program.\n\n## Livestream workshops\n\nAll workshops stream live on Discord. Join the Colosseum Discord to watch live, ask questions, and never miss a session.",
+    "description": "An online hackathon bringing together builders and founders across all crypto ecosystems to launch breakout startups.\n\n## Crypto World's Fair\n\nCrypto World's Fair is an open competition of the ideas, technologies, and communities shaping the blockchain ecosystem. Builders and founders exhibit the products and innovations driving the next wave of crypto startups that bring the world's markets onchain. Submissions are due October 12, 2026.\n\n## Awards and opportunities\n\nTeams compete for $840,000 in prizes and $2.5 million in seed funding, including a $30,000 grand prize and $300,000 shared across the next 20 best projects. All hackathon winners are interviewed and considered for Colosseum's accelerator program with pre-seed funding, founder network access and mentorship.\n\n## Tracks\n\nEcosystem tracks with dedicated prize pools include Solana, Ethereum, Hyperliquid, Base, Tempo, Arbitrum, Zcash and Robinhood Chain, each judged with builders, investors and operators from those ecosystems.\n\n## Judges\n\nThe Colosseum team reviews all submissions, joined by track judges including Clay Robbins, Matty Taylor and Nate Levine alongside builders and investors from Phantom, Base, Arcium, MetaDAO and Ellipsis Labs.\n\n## Accelerator\n\nAll hackathon winners are interviewed and considered for the Colosseum accelerator program with pre-seed funding, founder network access and mentorship, including a residency collaborating directly with the Colosseum team.\n\n## Livestream workshops\n\nAll workshops stream live on Discord, including the kickoff with the Colosseum founders. Participants can watch live, ask questions and follow the program through the event.",
     "startDate": "2026-09-14T06:00:00.000Z",
     "endDate": "2026-10-12T19:00:00.000Z",
     "city": "Online",
@@ -1405,17 +1405,10 @@
     "month": "September 2026",
     "descriptionSource": {
       "url": "https://colosseum.com/worldsfair",
-      "fetchedAt": "2026-09-20T07:56:52.564Z",
+      "fetchedAt": "2026-09-21T05:12:52.992Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Crypto World's Fair Hackathon - Colosseum",
-      "sha256": "30e26ee384512156385b382e7240030558431c745a2ec8c382bf51a3bed2db6c",
-      "evidence": [
-        {
-          "url": "https://colosseum.com/worldsfair",
-          "fetchedAt": "2026-09-20T07:56:52.564Z",
-          "sha256": "38fdaaff6401954e792561b41b2efcfef35adff7c7ad11880da6c57230f60bf9"
-        }
-      ]
+      "sha256": "0d609b90e1a916a3d4fc4f158fb37b630146d9623ce4d4fbc745d7e26640209a"
     },
     "website": "https://colosseum.com/worldsfair",
     "registrationUrl": "https://colosseum.com/worldsfair",
@@ -9952,7 +9945,7 @@
   {
     "id": "token2049-side-6a7445ef7ef1577c1e37eca1",
     "name": "AFTER 2049: The official closing party of TOKEN2049",
-    "description": "AFTER 2049 presents Claptone and Crusy.\n\nAFTER 2049 returns to the roof on Friday, 9 October 2026, at the Marina Bay Sands SkyPark Observation Deck.\n\nClaptone takes over the MBS SkyPark for this year’s AFTER 2049, joined by Crusy and returning AFTER 2049 residents ANONM, Leon, Milam and Mo-Shi.\n\n360° spatial audio by Polygon Live is exclusive to AFTER 2049 in Asia for 2026.\n\n## Access and timings\n\n• Doors open at 7:00 PM.\n• Entry is not guaranteed after 11:00 PM.\n• There is no re-entry after midnight; entry is subject to venue capacity.\n• The minimum age is 18, and valid photo ID is required.\n\n## Dress code\n\nSmart casual. No athletic wear, leisure wear, flip flops or shorts. Management reserves the right to deny entry.",
+    "description": "AFTER 2049 presents Claptone and Crusy.\n\nAFTER 2049 returns to the roof on Friday, 9 October 2026 at the Marina Bay Sands SkyPark Observation Deck, 57 floors above the city. Claptone takes over the MBS SkyPark for this year's AFTER 2049, joined by Crusy and returning AFTER 2049 residents ANONM, Leon, Milam and Mo-Shi.\n\n## Music\n\n360-degree spatial audio by Polygon Live is exclusive to AFTER 2049 in Asia for 2026. The night runs during the Singapore Grand Prix weekend.\n\n## Tickets\n\nTickets sell in releases: First Release on 10 September, Second Release on 24 September and Final Release on 1 October. Partners for the night include Moet Hennessy Diageo, Heaven Sake, Aria One, BTCC, DWF Labs and Midnight.\n\n## Access and timings\n\nDoors open at 7:00 PM. Entry is not guaranteed after 11:00 PM, there is no re-entry after midnight, and entry is subject to venue capacity. The minimum age is 18 and valid photo ID is required.\n\n## Dress code and policies\n\nSmart casual dress applies: no athletic wear, leisure wear, flip flops or shorts, and management reserves the right to deny entry. The event runs rain or shine with no cancellation, postponement or refunds for adverse weather.",
     "startDate": "2026-10-09T19:00:00+08:00",
     "city": "Singapore",
     "country": "Singapore",
@@ -9966,17 +9959,10 @@
     "token2049SideEvent": true,
     "descriptionSource": {
       "url": "https://megatix.com.sg/events/after2049",
-      "fetchedAt": "2026-09-20T07:56:59.763Z",
+      "fetchedAt": "2026-09-21T05:12:52.962Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "\n        Megatix - AFTER 2049 presents: Claptone & Crusy\n    ",
-      "sha256": "ed2a1db3b81acfa898faed257817de2287210f1a87d2194e61e958e055a92613",
-      "evidence": [
-        {
-          "url": "https://megatix.com.sg/events/after2049",
-          "fetchedAt": "2026-09-20T07:56:59.763Z",
-          "sha256": "43c621b2eeaf0bbc71c59a21164cb3cab5aeef411f7e7cb72502967301fdf57a"
-        }
-      ]
+      "pageTitle": "Megatix - AFTER 2049 presents: Claptone & Crusy",
+      "sha256": "aa00bf417009503f06feddac7789da628749b000fad4f79c76ecb69dfca25faa"
     },
     "website": "https://megatix.com.sg/events/after2049",
     "registrationUrl": "https://megatix.com.sg/events/after2049",
@@ -11110,7 +11096,7 @@
   {
     "id": "token2049-side-6a841e58244677004e8f4431",
     "name": "DeltaV Demo Day",
-    "description": "For the top 1% of founders.\nA chance to pitch in a closed, invite-only demo day inside Monad Foundation's flagship event Open\n\nAttended by 50+ VCs",
+    "description": "DeltaV Demo Day\n\nOne room. 50+ investors. The top 1% of founders.\n\nDeltaV Demo Day takes place on October 6 in Singapore during TOKEN2049 Week. The event is part of Open, the inaugural flagship event of the Monad ecosystem, and founders can apply to pitch through the organizer's application page.\n\n## Who attends\n\nMore than 50 investors from previous demo days attend the event, including Paradigm, Dragonfly, Pantera, Castle Island Ventures, Electric Capital, Blockchain Capital, Variant, Framework Ventures, Animoca Brands, Hashed, BITKRAFT Ventures, CoinFund, Archetype, ParaFi Capital, Maelstrom, GSR, Brevan Howard Digital, Spartan Group, IOSG Ventures, Faction, HTX Ventures, White Star Capital, Flowdesk, Mercuryo, Bankless Ventures, Reverie, Greenfield, RockawayX, SevenX Ventures, Fabric Ventures, CMCC Global, Superscrypt, Volt Capital, Eon Capital, Primitive Ventures, Metalayer Ventures and Collab+Currency.\n\n## Format\n\nAt most 10 teams pitch to the room of investors. Applications are currently open, and selected founders receive details on timing and attendance through the organizer.\n\n## Event details\n\nThe demo day runs on October 6 in Singapore during TOKEN2049 Week. Attendance is free. Founders apply to pitch in advance, and the organizer confirms timing and attendance details with selected teams. The demo day runs alongside TOKEN2049 Singapore week programming in Singapore.",
     "startDate": "2026-10-06T10:00:00+08:00",
     "endDate": "2026-10-06T12:00:00+08:00",
     "city": "Singapore",
@@ -11125,10 +11111,10 @@
     "token2049SideEvent": true,
     "descriptionSource": {
       "url": "https://deltav.monad.xyz/programs/deltav-demo-day",
-      "fetchedAt": "2026-09-20T00:20:59.492Z",
-      "method": "official-meta",
+      "fetchedAt": "2026-09-21T04:47:58.568397+00:00",
+      "method": "official-section",
       "pageTitle": "DeltaV Demo Day @ Open",
-      "sha256": "4056d4f589646377f6d703f8e0342cf0bec7f8d7a2a5c5c2f9d6babef3914e9c"
+      "sha256": "51acee94efb1e97240049cfc653eafb49f13b92266b88a9af10ee6c7a6b3c9e3"
     }
   },
   {
@@ -13779,7 +13765,7 @@
   {
     "id": "token2049-side-6aa41e96c0426d278bd87cfe",
     "name": "NEXUS Startup Competition First Round",
-    "description": "NEXUS is TOKEN2049's startup competition for early-stage crypto companies. The organizer's 2026 competition runs on 7–8 October in Singapore, with founders pitching for equity-free prizes and meeting Web3 investors.\n\n## Competition\n\nThe organizer lists a $250,000 prize pool and ten finalists. Startups must have been incorporated from 2023 onwards and raised less than $5 million in investments. Applying is free, and selection is merit-based.\n\n## Finalist access\n\nTop ten finalists receive a complimentary startup stand, full TOKEN2049 access on 7–8 October, speaker perks, three complimentary team tickets, photography and session recordings, and event marketing coverage.\n\n## Application status\n\nNEXUS 2026 applications are closed. The organizer is accepting waitlist registrations for NEXUS 2027.",
+    "description": "NEXUS is TOKEN2049's startup competition for early-stage crypto companies. The organizer's 2026 competition runs on 7-8 October in Singapore, with founders pitching for equity-free prizes before an expert jury and the TOKEN2049 community.\n\n## Competition\n\nThe organizer lists a $250,000 prize pool, more than 1,000 applicants and ten finalists. The competition takes place at Marina Bay Sands during TOKEN2049 Singapore on 7-8 October. Startups must have been incorporated from 2023 onwards and raised less than $5 million in investments. Applying is free, and selection is merit-based. The jury includes Tom Schmidt (Dragonfly), Akshat Vaidya (Maelstrom) and Spencer Applebaum (Multicoin Capital).\n\n## What finalists receive\n\nTop ten finalists receive a complimentary startup stand, full TOKEN2049 access on 7-8 October, speaker perks including the speaker reception, networking drinks and lounge access, three complimentary team tickets, photography and session recordings, and event marketing coverage. The jury may make investment offers outside the prize grant.\n\n## First round\n\nThe first round takes place on 7 October 2026 as part of the TOKEN2049 Singapore program at Marina Bay Sands.\n\n## Applications\n\nNEXUS 2026 applications closed after the 18 September deadline, with the top 50 announcement on 21 September. The organizer is accepting waitlist registrations for NEXUS 2027.",
     "startDate": "2026-10-07T17:00:00+08:00",
     "endDate": "2026-10-07T18:00:00+08:00",
     "city": "Singapore",
@@ -13794,17 +13780,10 @@
     "token2049SideEvent": true,
     "descriptionSource": {
       "url": "https://www.token2049.com/singapore/nexus-startup-competition",
-      "fetchedAt": "2026-09-20T07:56:56.531Z",
+      "fetchedAt": "2026-09-21T05:12:52.947Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "NEXUS Startup Competition | TOKEN2049 | 7-8 October 2026 | Singapore",
-      "sha256": "051cf9dba8c5d261b0a16fb869941722873d7186a50ffce6f3bb257727aa92af",
-      "evidence": [
-        {
-          "url": "https://www.token2049.com/singapore/nexus-startup-competition",
-          "fetchedAt": "2026-09-20T07:56:56.531Z",
-          "sha256": "d0cc573cdaf8fca01b446865341b6e66e468550982e4dd1f7615378903f9facc"
-        }
-      ]
+      "sha256": "ecde96c36405ad85a9fb05dd26a11ad9af6328a05abaf4f62605a0dd09df0c92"
     },
     "website": "https://www.token2049.com/singapore/nexus-startup-competition",
     "registrationUrl": "https://www.token2049.com/singapore/nexus-startup-competition",
@@ -15053,7 +15032,7 @@
   {
     "id": "token2049-side-6aa41f2ac0426d278bd87d05",
     "name": "NEXUS Startup Competition Final Round",
-    "description": "The NEXUS final round is part of TOKEN2049's 7–8 October 2026 startup competition in Singapore. Early-stage crypto startups pitch for equity-free prizes before an expert jury and the TOKEN2049 community.\n\n## Finalists and prizes\n\nThe organizer lists ten finalists and a $250,000 prize pool. The jury may make investment offers outside the prize grant.\n\n## What finalists receive\n\n• An opportunity to compete for partner prizes\n• A complimentary startup stand at TOKEN2049 Singapore\n• Full access to TOKEN2049 on 7–8 October\n• Speaker reception, networking drinks and lounge access\n• Three complimentary tickets for the team and its network\n• Photography, on-stage pitch recordings and marketing coverage\n\n## Applications\n\nApplying is free and selection is merit-based. Applications for NEXUS 2026 have closed; the organizer now offers a 2027 waitlist.",
+    "description": "NEXUS is TOKEN2049's startup competition for early-stage crypto companies. The organizer's 2026 competition runs on 7-8 October in Singapore, with founders pitching for equity-free prizes before an expert jury and the TOKEN2049 community.\n\n## Competition\n\nThe organizer lists a $250,000 prize pool, more than 1,000 applicants and ten finalists. The competition takes place at Marina Bay Sands during TOKEN2049 Singapore on 7-8 October. Startups must have been incorporated from 2023 onwards and raised less than $5 million in investments. Applying is free, and selection is merit-based. The jury includes Tom Schmidt (Dragonfly), Akshat Vaidya (Maelstrom) and Spencer Applebaum (Multicoin Capital).\n\n## What finalists receive\n\nTop ten finalists receive a complimentary startup stand, full TOKEN2049 access on 7-8 October, speaker perks including the speaker reception, networking drinks and lounge access, three complimentary team tickets, photography and session recordings, and event marketing coverage. The jury may make investment offers outside the prize grant.\n\n## Final round\n\nThe final round takes place on 8 October 2026 as part of the TOKEN2049 Singapore program at Marina Bay Sands.\n\n## Applications\n\nNEXUS 2026 applications closed after the 18 September deadline, with the top 50 announcement on 21 September. The organizer is accepting waitlist registrations for NEXUS 2027.",
     "startDate": "2026-10-08T15:00:00+08:00",
     "endDate": "2026-10-08T16:00:00+08:00",
     "city": "Singapore",
@@ -15068,17 +15047,10 @@
     "token2049SideEvent": true,
     "descriptionSource": {
       "url": "https://www.token2049.com/singapore/nexus-startup-competition",
-      "fetchedAt": "2026-09-20T07:56:56.531Z",
+      "fetchedAt": "2026-09-21T05:12:52.952Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "NEXUS Startup Competition | TOKEN2049 | 7-8 October 2026 | Singapore",
-      "sha256": "e9b77b979fecf33dca99749954a07a41c923a37256308cc27af0a433c3702449",
-      "evidence": [
-        {
-          "url": "https://www.token2049.com/singapore/nexus-startup-competition",
-          "fetchedAt": "2026-09-20T07:56:56.531Z",
-          "sha256": "d0cc573cdaf8fca01b446865341b6e66e468550982e4dd1f7615378903f9facc"
-        }
-      ]
+      "sha256": "b4c214cfee88f10a9c1201088704b90e8fc7f32d02723c5e9ac7c34b33e9d624"
     },
     "website": "https://www.token2049.com/singapore/nexus-startup-competition",
     "registrationUrl": "https://www.token2049.com/singapore/nexus-startup-competition",
@@ -15192,7 +15164,7 @@
   {
     "id": "token2049-side-6aa41d6d8ffcc4e5ece10d0f",
     "name": "Origins Hackathon Prize Ceremony",
-    "description": "The Origins prize ceremony concludes the TOKEN2049 Origins hackathon program in Singapore. The organizer's 6–8 October program gives builders 36 hours to develop a working product, receive mentorship and demo on the TOKEN2049 stage.\n\n## Prizes and tracks\n\nThe organizer lists a $150,000 prize pool. Tracks include agentic commerce on Cardano, workflows using the Chainlink Runtime Environment, multichain infrastructure with NOWNodes, and applications built on Solana. Teams compete for prizes, grants and accelerator opportunities.\n\n## Participation\n\nOrigins is free, including food, drinks and conference access. Physical attendance at Marina Bay Sands is required for the full hackathon; remote participation is not offered. Teams may have up to four members, and solo applicants are welcome.",
+    "description": "The Origins prize ceremony concludes the TOKEN2049 Origins hackathon in Singapore. The organizer's 6-8 October program gives builders 36 hours to develop a working product, receive mentorship and demo on the TOKEN2049 stage at Marina Bay Sands.\n\n## Prizes and tracks\n\nThe organizer lists a $150,000 prize pool. Tracks include agentic commerce on Cardano, workflows using the Chainlink Runtime Environment, multichain infrastructure with NOWNodes, and applications built on Solana. Teams compete for prizes, grants and accelerator opportunities, and standout teams pitch for funding and global recognition.\n\n## Participation\n\nOrigins is free, including food, drinks and full access to the TOKEN2049 conference. Physical attendance at Marina Bay Sands is required for the full 36 hours; remote participation is not offered. Teams may have up to four members, and solo applicants are welcome. Applications opened on 19 August with participants announced on 28 September.\n\n## Schedule\n\nRegistrations opened on 19 August with an application deadline of 18 September and participants announced on 28 September, ahead of the 6-8 October hackathon.\n\n## Rules\n\nTo keep the competition fair, all project work must begin after the official hacking period starts. Participants may brainstorm ideas in advance, but no code, designs or prototypes before kickoff. The venue provides rest and chill-out spaces on a first-come, first-served basis.",
     "startDate": "2026-10-08T16:40:00+08:00",
     "endDate": "2026-10-08T17:15:00+08:00",
     "city": "Singapore",
@@ -15207,17 +15179,10 @@
     "token2049SideEvent": true,
     "descriptionSource": {
       "url": "https://www.token2049.com/singapore/2049-origins",
-      "fetchedAt": "2026-09-20T07:56:56.870Z",
+      "fetchedAt": "2026-09-21T05:12:52.958Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "Origins Hackathon  | TOKEN2049 | Singapore",
-      "sha256": "5837c3ad4c4605dd870bdeef04fb32cd5c039b8f985183613a170bf6b023753a",
-      "evidence": [
-        {
-          "url": "https://www.token2049.com/singapore/2049-origins",
-          "fetchedAt": "2026-09-20T07:56:56.870Z",
-          "sha256": "5b8cb75e42e5145f10fa744a462e6bd5d6fcf7c8cb99f3e665ff35290af921da"
-        }
-      ]
+      "pageTitle": "Origins Hackathon | TOKEN2049 | Singapore",
+      "sha256": "9140b7d0abe0aa1f1176ff58f31aefec8dfa3d9948c12ca204b2431d3283ee66"
     },
     "website": "https://www.token2049.com/singapore/2049-origins",
     "registrationUrl": "https://www.token2049.com/singapore/2049-origins",
@@ -15597,7 +15562,7 @@
   {
     "id": "token2049-side-6a622e12d1b48ddf39d08981",
     "name": "Vault Summit: Singapore",
-    "description": "Vault Summit is a global conference series focused on onchain vault infrastructure for institutional asset management.\n\nInstitutional confidence in on-chain asset management, built vault by vault.\n\nThis is Vault Summit: Singapore.\n\n## Hosts and venue\n\nMorpho and DigiFT host the Singapore summit at Andaz Singapore on 9 October 2026, from 9:00 AM to 6:00 PM Singapore time.",
+    "description": "Vault Summit is a global conference series focused on onchain vault infrastructure for institutional asset management.\n\nInstitutional confidence in on-chain asset management, built vault by vault. This is Vault Summit: Singapore.\n\n## Hosts and venue\n\nMorpho and DigiFT host the Singapore summit at Andaz Singapore, 5 Fraser Street, Singapore 189354, on 9 October 2026, from 9:00 AM to 6:00 PM Singapore time.",
     "startDate": "2026-10-09T09:00:00+08:00",
     "endDate": "2026-10-09T18:00:00+08:00",
     "city": "Singapore",
@@ -15612,17 +15577,10 @@
     "token2049SideEvent": true,
     "descriptionSource": {
       "url": "https://sg2026.vaultsummit.xyz/",
-      "fetchedAt": "2026-09-20T08:01:29.223Z",
+      "fetchedAt": "2026-09-21T05:12:52.983Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Vault Summit: Singapore",
-      "sha256": "d58afd11d0a03d7bd79210e30c0e0c5a866df4331e51120a2fdf84e4d8fd654c",
-      "evidence": [
-        {
-          "url": "https://sg2026.vaultsummit.xyz/",
-          "fetchedAt": "2026-09-20T08:01:29.223Z",
-          "sha256": "8ac897788481204994a5828f82c2595e5e266c373245580770d8ad68beef01e9"
-        }
-      ]
+      "sha256": "b4a3c26acdeea06fd604bae0fd06e1ec91a31dadeeaae699142de129f3c3c5fd"
     },
     "website": "https://sg2026.vaultsummit.xyz/",
     "registrationUrl": "https://sg2026.vaultsummit.xyz/",
@@ -15896,7 +15854,7 @@
   {
     "id": "token2049-side-6a739bc8d1b48ddf39d09e32",
     "name": "F1 Practice and Sprint Qualifying",
-    "description": "Friday's Formula 1 program at the 2026 Singapore Grand Prix includes the first practice session and Sprint Qualifying at the Marina Bay Street Circuit.\n\n## Friday, 9 October\n\n• 16:30–17:30: Formula 1 first practice session\n• 18:30–19:30: Teams' press conference\n• 20:30–21:14: Sprint Qualifying\n\nTimes are local to Singapore, which is eight hours ahead of UTC. The official timetable is subject to change.",
+    "description": "Friday's Formula 1 program at the 2026 Singapore Grand Prix includes the first practice session and Sprint Qualifying at the Marina Bay Street Circuit.\n\n## Friday, 9 October\n\nThe track program runs on local Singapore time, eight hours ahead of UTC: Porsche Carrera Cup Asia practice at 14:05-14:50, the Formula 1 car presentation at 15:00-16:00, the first practice session at 16:30-17:30, the teams' press conference at 18:30-19:30, and Sprint Qualifying at 20:30-21:14. The Porsche Carrera Cup Asia support series shares the Friday program with its practice session.\n\n## Circuit\n\nThe race takes place over 62 laps of the 4.927-kilometre Marina Bay Street Circuit. The official timetable is subject to change.\n\n## Circuit\n\nThe Marina Bay Circuit arrived on the scene in 2008 with the city skyline as its backdrop, hosting the first night-time race in Formula 1 history. After a 2023 layout change the lap runs 19 corners over 4.927 kilometres, and the bumpy street surface plus humidity make it one of the most physically demanding races on the calendar.\n\n## Following the weekend\n\nThe sessions can be followed live on F1 TV, with tickets and hospitality packages available through Formula 1 official channels.",
     "startDate": "2026-10-09T16:30:00+08:00",
     "endDate": "2026-10-09T21:14:00+08:00",
     "city": "Singapore",
@@ -15911,17 +15869,10 @@
     "token2049SideEvent": true,
     "descriptionSource": {
       "url": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE",
-      "fetchedAt": "2026-09-20T07:56:58.376Z",
+      "fetchedAt": "2026-09-21T05:12:52.969Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026 - full timetable | Formula 1®",
-      "sha256": "6b5f010f47713e3097faa6948da24460f56eccebf1baf4a457d90b0cb7d7e3fe",
-      "evidence": [
-        {
-          "url": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE",
-          "fetchedAt": "2026-09-20T07:56:58.376Z",
-          "sha256": "2620e2d38605804e1b965b90f8b36a5ca28a0dc12d0c60944bd2ae6a27786e73"
-        }
-      ]
+      "pageTitle": "FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026 - full timetable",
+      "sha256": "7fcd150f47347053385be93dd29ee5a85e70baaa82a2547483d651d6c5d55865"
     },
     "website": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE",
     "registrationUrl": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE",
@@ -16295,7 +16246,7 @@
   {
     "id": "token2049-side-6a739c525a75007b4100108c",
     "name": "F1 Sprint Race and Grand Prix Qualifying",
-    "description": "Saturday's Formula 1 program at the 2026 Singapore Grand Prix includes the Sprint and Grand Prix qualifying at the Marina Bay Street Circuit.\n\n## Saturday, 10 October\n\n• 17:00–17:30: Formula 1 Sprint, listed as 21 laps or 60 minutes\n• 17:30–18:00: Formula 1 press conference\n• 21:00–22:00: Grand Prix qualifying session\n• 22:00–23:00: Formula 1 press conference\n\nTimes are local to Singapore. The organizer notes that the timetable is subject to change.",
+    "description": "Saturday's Formula 1 program at the 2026 Singapore Grand Prix includes the Sprint and Grand Prix qualifying at the Marina Bay Street Circuit.\n\n## Saturday, 10 October\n\nThe track program runs on local Singapore time: the Porsche Carrera Cup Asia qualifying session at 15:00-15:30, the Formula 1 Sprint of 21 laps or 60 minutes at 17:00-17:30, the Formula 1 press conference at 17:30-18:00, the Porsche Carrera Cup Asia first race at 19:45-20:20, the Grand Prix qualifying session at 21:00-22:00, and a further press conference at 22:00-23:00.\n\n## Circuit\n\nThe night race takes place at the 4.927-kilometre Marina Bay Street Circuit. The official timetable is subject to change.\n\n## Circuit\n\nThe Marina Bay Circuit arrived on the scene in 2008 with the city skyline as its backdrop, hosting the first night-time race in Formula 1 history. After a 2023 layout change the lap runs 19 corners over 4.927 kilometres, and the bumpy street surface plus humidity make it one of the most physically demanding races on the calendar.\n\n## Following the weekend\n\nThe sessions can be followed live on F1 TV, with tickets and hospitality packages available through Formula 1 official channels.",
     "startDate": "2026-10-10T17:00:00+08:00",
     "endDate": "2026-10-10T22:00:00+08:00",
     "city": "Singapore",
@@ -16310,17 +16261,10 @@
     "token2049SideEvent": true,
     "descriptionSource": {
       "url": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE",
-      "fetchedAt": "2026-09-20T07:56:58.376Z",
+      "fetchedAt": "2026-09-21T05:12:52.973Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026 - full timetable | Formula 1®",
-      "sha256": "fc4ea6054db7a2447290a91b915ab7d0784301dab41355abed919409bc896f16",
-      "evidence": [
-        {
-          "url": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE",
-          "fetchedAt": "2026-09-20T07:56:58.376Z",
-          "sha256": "2620e2d38605804e1b965b90f8b36a5ca28a0dc12d0c60944bd2ae6a27786e73"
-        }
-      ]
+      "pageTitle": "FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026 - full timetable",
+      "sha256": "1f30d6f4fa66a44a820c896bc46b7ed648ff96e8d4ea00a43598199c88500ad4"
     },
     "website": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE",
     "registrationUrl": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE",
@@ -16541,7 +16485,7 @@
   {
     "id": "token2049-side-6a739ce35a75007b41001095",
     "name": "F1 Singapore Grand Prix Night Race",
-    "description": "The Formula 1 Singapore Airlines Singapore Grand Prix 2026 takes place over 62 laps of the 4.927-kilometre Marina Bay Street Circuit on Sunday, 11 October.\n\n## Sunday race program\n\n• 18:00–18:30: Drivers' parade\n• 19:44–19:46: National anthem\n• 20:00–22:00: Grand Prix, listed as 62 laps or 120 minutes\n\nTimes are local to Singapore, eight hours ahead of UTC. The official timetable is subject to change.",
+    "description": "The Formula 1 Singapore Airlines Singapore Grand Prix 2026 takes place over 62 laps of the 4.927-kilometre Marina Bay Street Circuit on Sunday, 11 October.\n\n## Sunday race program\n\nThe track program runs on local Singapore time, eight hours ahead of UTC: the Porsche Carrera Cup Asia second race at 15:40-16:15, the drivers' parade at 18:00-18:30, the national anthem at 19:44-19:46, and the Grand Prix of 62 laps or 120 minutes at 20:00-22:00.\n\n## Circuit\n\nThe Marina Bay Circuit is a street track with the city's skyline as its backdrop and has hosted the night race since 2008. The official timetable is subject to change.\n\n## Circuit\n\nThe Marina Bay Circuit arrived on the scene in 2008 with the city skyline as its backdrop, hosting the first night-time race in Formula 1 history. After a 2023 layout change the lap runs 19 corners over 4.927 kilometres, and the bumpy street surface plus humidity make it one of the most physically demanding races on the calendar.\n\n## Following the weekend\n\nThe sessions can be followed live on F1 TV, with tickets and hospitality packages available through Formula 1 official channels.",
     "startDate": "2026-10-11T20:00:00+08:00",
     "endDate": "2026-10-11T22:00:00+08:00",
     "city": "Singapore",
@@ -16556,17 +16500,10 @@
     "token2049SideEvent": true,
     "descriptionSource": {
       "url": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE",
-      "fetchedAt": "2026-09-20T07:56:58.376Z",
+      "fetchedAt": "2026-09-21T05:12:52.977Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026 - full timetable | Formula 1®",
-      "sha256": "f5c4fd76fffe5df8ff2446154ba1ee29ce015b01b85877c0c510a1c3a869c4a6",
-      "evidence": [
-        {
-          "url": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE",
-          "fetchedAt": "2026-09-20T07:56:58.376Z",
-          "sha256": "2620e2d38605804e1b965b90f8b36a5ca28a0dc12d0c60944bd2ae6a27786e73"
-        }
-      ]
+      "pageTitle": "FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026 - full timetable",
+      "sha256": "cd695cc52e05d3dfbca37d0c1b4c89fb74dee62a6bd0e763a2c4647db2b057c2"
     },
     "website": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE",
     "registrationUrl": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE",

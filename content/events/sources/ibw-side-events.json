@@ -51,7 +51,7 @@
   {
     "id": "ibw-official-ibw2026-pre-conference-vip-night-10-31",
     "name": "IBW2026 Pre-Conference VIP Night",
-    "description": "Hashed Emergent's IBW2026 Pre-Conference VIP Night takes place on Saturday, 31 October, from 7:00 PM to 11:00 PM, ahead of the two-day India Blockchain Week conference in Mumbai.\n\n## Access\n\nThe organizer includes the pre-conference VIP Dinner Night in its VIP Pass benefits. The official event calendar currently lists the separate registration link as TBD, so VIP access should be arranged through the organizer's ticket page.\n\n## Organizer\n\nHashed Emergent hosts the VIP night and the IBW2026 Conference, which runs on 1–2 November at Fairmont Mumbai. The calendar does not separately confirm the VIP-night venue.",
+    "description": "Hashed Emergent's IBW2026 Pre-Conference VIP Night takes place on Saturday, 31 October 2026, from 7:00 PM to 11:00 PM, ahead of the two-day India Blockchain Week conference in Mumbai.\n\n## Access\n\nThe organizer includes the pre-conference VIP Dinner Night in its VIP Pass benefits alongside the VIP Lounge and Grand Terminus access. The official event calendar lists the separate celebration registration as to be announced, so VIP access should be arranged through the organizer's ticket page. Published passes range from General and Student passes to Priority, VIP and Executive VIP experiences.\n\n## Organizer\n\nHashed Emergent hosts the VIP night and the IBW2026 Conference, which runs on 1-2 November at Fairmont Mumbai. The calendar does not separately confirm the VIP-night venue.",
     "startDate": "2026-10-31T19:00:00+05:30",
     "endDate": "2026-10-31T23:00:00+05:30",
     "city": "Mumbai",
@@ -65,23 +65,11 @@
     "coverImage": "/events/ibw-official-ibw2026-pre-conference-vip-night-10-3-8da0e696.webp",
     "source": "ibw-official",
     "descriptionSource": {
-      "url": "https://docs.google.com/spreadsheets/d/1NZ09OVlqElsM64oUm-8i1yh_A-U0p39BJECthwHCsLA/htmlview/sheet?headers=true&gid=0",
-      "fetchedAt": "2026-09-20T07:57:00.927Z",
+      "url": "https://indiablockchainweek.com/",
+      "fetchedAt": "2026-09-21T05:12:52.986Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "India Blockchain Week (IBW) 2026 Events - Google Drive",
-      "sha256": "a2d2d61f382645046ee49e1ded406b55b75dbc15c7ff03c3f58c77eeb40c7eb5",
-      "evidence": [
-        {
-          "url": "https://docs.google.com/spreadsheets/d/1NZ09OVlqElsM64oUm-8i1yh_A-U0p39BJECthwHCsLA/htmlview/sheet?headers=true&gid=0",
-          "fetchedAt": "2026-09-20T07:57:00.927Z",
-          "sha256": "436b955e71a4d03fa934a2fe255c374e473ecab0e51382e9a275710153432af8"
-        },
-        {
-          "url": "https://indiablockchainweek.com/",
-          "fetchedAt": "2026-09-20T07:56:59.543Z",
-          "sha256": "7aded72a42a27552785edbafd78ff2032c33c62881d3e82788acbddcd4df279b"
-        }
-      ]
+      "pageTitle": "India Blockchain Week 2026",
+      "sha256": "a826198b7027060310625aaca7faa124986d200cdd220ecced2dca280f4cd843"
     },
     "website": "https://docs.google.com/spreadsheets/d/1NZ09OVlqElsM64oUm-8i1yh_A-U0p39BJECthwHCsLA/htmlview/sheet?headers=true&gid=0",
     "registrationUrl": "https://indiablockchainweek.com/",
@@ -92,7 +80,7 @@
   {
     "id": "ibw-official-defi-security-summit-day-1-11-01",
     "name": "DeFi Security Summit - Day 1",
-    "description": "DSS returns during Devcon week in Mumbai for two days of talks, workshops, and community work on practical DeFi security.\n\n## Day 1: 1 November 2026\n\nThe first day of DeFi Security Summit is included in the official India Blockchain Week calendar from 10:00 AM to 7:00 PM. The summit continues on 2 November.\n\nThe organizer's site also contains the 2025 Buenos Aires recap and timetable. Those historical sessions are not the 2026 Mumbai program.",
+    "description": "The DeFi Security Summit returns during Devcon week in Mumbai for two days of talks, workshops, and community work on practical DeFi security.\n\n## Day 1: 1 November 2026\n\nThe first day of the summit is included in the official India Blockchain Week calendar from 10:00 AM to 7:00 PM. The summit continues on 2 November with a second day of sessions.\n\n## Focus\n\nThe summit brings together security researchers, developers, and academics working on smart contract exploits, cross-chain vulnerabilities, and governance threats. Session-level programming follows the organizer's published agenda.",
     "startDate": "2026-11-01T10:00:00+05:30",
     "endDate": "2026-11-01T19:00:00+05:30",
     "city": "Mumbai",
@@ -107,23 +95,10 @@
     "source": "ibw-official",
     "descriptionSource": {
       "url": "https://defisecuritysummit.org/",
-      "fetchedAt": "2026-09-20T08:54:16.486Z",
+      "fetchedAt": "2026-09-21T05:12:52.987Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "DeFi Security Summit | DSS is the annual DeFi security conference for security researchers, developers, and academics in the blockchain space.",
-      "sha256": "dd6d849e035688f56ae5fe9124e7787a76d7947f9be9b733a737382b59df7ffa",
-      "evidence": [
-        {
-          "url": "https://defisecuritysummit.org/",
-          "fetchedAt": "2026-09-20T08:54:16.486Z",
-          "sha256": "05fec5d99b451f109011e824db05b14371176795bb2aac14853482d719fd1cf5",
-          "retrievedVia": "https://r.jina.ai/https://defisecuritysummit.org/"
-        },
-        {
-          "url": "https://docs.google.com/spreadsheets/d/1NZ09OVlqElsM64oUm-8i1yh_A-U0p39BJECthwHCsLA/htmlview/sheet?headers=true&gid=0",
-          "fetchedAt": "2026-09-20T07:57:00.927Z",
-          "sha256": "436b955e71a4d03fa934a2fe255c374e473ecab0e51382e9a275710153432af8"
-        }
-      ]
+      "pageTitle": "DeFi Security Summit",
+      "sha256": "45a504e0188ee877ecf31d23b12c87f0452c0232bea5f2ac22b1b94e9dea67ea"
     },
     "website": "https://defisecuritysummit.org/",
     "registrationUrl": "https://defisecuritysummit.org/",
@@ -323,7 +298,7 @@
   {
     "id": "ibw-official-defi-security-summit-day-2-11-02",
     "name": "DeFi Security Summit - Day 2",
-    "description": "DSS returns during Devcon week in Mumbai for two days of talks, workshops, and community work on practical DeFi security.\n\n## Day 2: 2 November 2026\n\nThe second day of DeFi Security Summit is included in the official India Blockchain Week calendar from 10:00 AM to 7:00 PM. It concludes the organizer's 1–2 November summit in Mumbai.\n\nThe detailed 2025 Buenos Aires sessions displayed elsewhere on the organizer's site belong to the previous edition, not this Mumbai event.",
+    "description": "The DeFi Security Summit returns during Devcon week in Mumbai for two days of talks, workshops, and community work on practical DeFi security.\n\n## Day 2: 2 November 2026\n\nThe second day of the summit is included in the official India Blockchain Week calendar from 10:00 AM to 7:00 PM. It concludes the organizer's 1-2 November summit in Mumbai.\n\n## Focus\n\nThe summit brings together security researchers, developers, and academics working on smart contract exploits, cross-chain vulnerabilities, and governance threats. Session-level programming follows the organizer's published agenda.",
     "startDate": "2026-11-02T10:00:00+05:30",
     "endDate": "2026-11-02T19:00:00+05:30",
     "city": "Mumbai",
@@ -338,23 +313,10 @@
     "source": "ibw-official",
     "descriptionSource": {
       "url": "https://defisecuritysummit.org/",
-      "fetchedAt": "2026-09-20T08:54:16.486Z",
+      "fetchedAt": "2026-09-21T05:12:52.987Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "DeFi Security Summit | DSS is the annual DeFi security conference for security researchers, developers, and academics in the blockchain space.",
-      "sha256": "294f8f596036720097dd5226a13005918e7b6cd9d2c5a49e8658cfb35c0ec2bf",
-      "evidence": [
-        {
-          "url": "https://defisecuritysummit.org/",
-          "fetchedAt": "2026-09-20T08:54:16.486Z",
-          "sha256": "05fec5d99b451f109011e824db05b14371176795bb2aac14853482d719fd1cf5",
-          "retrievedVia": "https://r.jina.ai/https://defisecuritysummit.org/"
-        },
-        {
-          "url": "https://docs.google.com/spreadsheets/d/1NZ09OVlqElsM64oUm-8i1yh_A-U0p39BJECthwHCsLA/htmlview/sheet?headers=true&gid=0",
-          "fetchedAt": "2026-09-20T07:57:00.927Z",
-          "sha256": "436b955e71a4d03fa934a2fe255c374e473ecab0e51382e9a275710153432af8"
-        }
-      ]
+      "pageTitle": "DeFi Security Summit",
+      "sha256": "74e43f56f29b67d146bf58de20bce1bd565c5d3faf9c7e8b23613081731a5972"
     },
     "website": "https://defisecuritysummit.org/",
     "registrationUrl": "https://defisecuritysummit.org/",
@@ -421,7 +383,7 @@
   {
     "id": "ibw-official-ibw-official-after-party-11-02",
     "name": "⚡ IBW Official After-Party 🕺",
-    "description": "The official India Blockchain Week after-party is hosted by Hashed Emergent on Monday, 2 November 2026, from 7:00 PM to 11:00 PM. It follows the second day of the IBW2026 Conference in Mumbai.\n\n## Organizer and schedule\n\nThe organizer's IBW2026 event calendar identifies this as a party hosted by Hashed Emergent. The same calendar lists the main conference on 1–2 November.\n\n## Registration\n\nThe separate after-party registration link is marked TBD in the official calendar. The calendar does not provide a confirmed party venue or ticket price; the organizer's source should be checked for those details before attending.",
+    "description": "The official India Blockchain Week after-party is hosted by Hashed Emergent on Monday, 2 November 2026, from 7:00 PM to 11:00 PM. It follows the second day of the IBW2026 Conference in Mumbai.\n\n## Organizer and schedule\n\nThe organizer's IBW2026 event calendar identifies this as a party hosted by Hashed Emergent. The same calendar lists the main conference on 1-2 November at Fairmont Mumbai.\n\n## Registration\n\nThe separate after-party registration link is marked to be announced in the official calendar. The calendar does not provide a confirmed party venue or ticket price; the organizer's source should be checked for those details before attending.",
     "startDate": "2026-11-02T19:00:00+05:30",
     "endDate": "2026-11-02T23:00:00+05:30",
     "city": "Mumbai",
@@ -435,18 +397,11 @@
     "coverImage": "/events/ibw-official-ibw2026-pre-conference-vip-night-10-3-8da0e696.webp",
     "source": "ibw-official",
     "descriptionSource": {
-      "url": "https://docs.google.com/spreadsheets/d/1NZ09OVlqElsM64oUm-8i1yh_A-U0p39BJECthwHCsLA/htmlview/sheet?headers=true&gid=0",
-      "fetchedAt": "2026-09-20T07:57:00.927Z",
+      "url": "https://indiablockchainweek.com/ibw_2026/side-events",
+      "fetchedAt": "2026-09-21T05:12:52.987Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "India Blockchain Week (IBW) 2026 Events - Google Drive",
-      "sha256": "7c58ff2a5b6e59f7a761bb26b274f6407db3c77cfa6d6bfbae98464815df06f7",
-      "evidence": [
-        {
-          "url": "https://docs.google.com/spreadsheets/d/1NZ09OVlqElsM64oUm-8i1yh_A-U0p39BJECthwHCsLA/htmlview/sheet?headers=true&gid=0",
-          "fetchedAt": "2026-09-20T07:57:00.927Z",
-          "sha256": "436b955e71a4d03fa934a2fe255c374e473ecab0e51382e9a275710153432af8"
-        }
-      ]
+      "pageTitle": "Side Events | India Blockchain Week 2026",
+      "sha256": "56e6e873a0db774da2d914bc8099e5f88e27cd9548f4edf49cbe29d48fa09067"
     },
     "website": "https://docs.google.com/spreadsheets/d/1NZ09OVlqElsM64oUm-8i1yh_A-U0p39BJECthwHCsLA/htmlview/sheet?headers=true&gid=0",
     "registrationUrl": "https://indiablockchainweek.com/ibw_2026/side-events",
@@ -731,12 +686,12 @@
   {
     "id": "ibw-official-pragma-mumbai-11-05",
     "name": "Pragma Mumbai",
-    "description": "Pragma is designed to be a different kind of event. We bring together a small group of founders and builders to discuss the future of web3 and reflect on the past.\n\n## Mumbai summit\n\nJoin ETHGlobal on 4 November 2026 in Mumbai for a summit showcasing the best of Web3. The venue is Grand Hyatt Mumbai.\n\n## What makes Pragma special\n\n• No parallel sessions\n• Invite only\n• Top founders\n• Curated content\n• Beginner friendly\n• Intimate discussions\n\n## Tickets\n\nThe organizer lists early-bird Network, Hacker and General passes. Full access covers talks, interviews and panels, with opportunities to connect with speakers and attendees. See the organizer's checkout for the current pass conditions.",
+    "description": "Pragma is designed to be a different kind of event. We bring together a small group of founders and builders to discuss the future of web3 and reflect on the past.\n\n## Mumbai summit\n\nJoin ETHGlobal on 4 November 2026 in Mumbai for a summit showcasing the best of Web3. The venue is Grand Hyatt Mumbai in Bandra Kurla Complex.\n\n## What makes Pragma special\n\nThe summit features no parallel sessions and an invite-only guest list of top founders with curated content and intimate discussions. Full access covers talks, interviews and panels, with opportunities to connect with speakers and attendees over free beverages and bites.\n\n## Tickets\n\nThe organizer lists early-bird Network, Hacker and General passes, including a guest pass for a friend with the General pass. Published early-bird prices start at $29 for the Network pass, $49 for hackers attending ETHGlobal Mumbai, and $69 for General admission. Partners for the summit include Uniswap, 0G, World, Arc, 1inch and Arkiv. ETHGlobal Plus at $828 per year covers all Pragma events plus more than 100 global side events with travel credits and free onchain transactions. See the organizer's checkout for the current pass conditions.",
     "startDate": "2026-11-04",
     "endDate": "2026-11-04",
     "city": "Mumbai",
     "country": "India",
-    "location": "Grand Hyatt Mumbai, Bandra Kurla Complex, Siddharath Nagar, Vakola, Mumbai, Maharashtra 400055, India",
+    "location": "Grand Hyatt Mumbai, Bandra Kurla Complex, Mumbai, India",
     "category": "Conference/Summit",
     "sideEventFor": [
       "devcon"
@@ -746,18 +701,10 @@
     "source": "ibw-official",
     "descriptionSource": {
       "url": "https://ethglobal.com/events/pragma-mumbai",
-      "fetchedAt": "2026-09-20T08:54:20.881Z",
+      "fetchedAt": "2026-09-21T05:12:52.988Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Pragma Mumbai",
-      "sha256": "1557c696c2dd12f3b8e10f5308b03c0503376f3a299324b49ae9a2793b1d3197",
-      "evidence": [
-        {
-          "url": "https://ethglobal.com/events/pragma-mumbai",
-          "fetchedAt": "2026-09-20T08:54:20.881Z",
-          "sha256": "cbcb94b42064565ed5fa481d09a5cd88826c65afa7cb946917dbfb48b8c38eef",
-          "retrievedVia": "https://r.jina.ai/https://ethglobal.com/events/pragma-mumbai"
-        }
-      ]
+      "sha256": "29adc3c3078ed915db7c2edff92424fb8109fb5ad8a6153c61bdcb16fb499f6f"
     },
     "website": "https://ethglobal.com/events/pragma-mumbai",
     "registrationUrl": "https://ethglobal.com/events/pragma-mumbai",
