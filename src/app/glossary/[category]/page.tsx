@@ -133,7 +133,7 @@ export default async function CategoryPage({ params }: { params: { category: str
       <main className="flex-grow">
     {/* Hero Section */}
     <section className="border-b">
-     <div className="container mx-auto px-4 page-section max-w-6xl">
+      <div className="site-container page-section">
       <div className="max-w-3xl">
        <div className="mb-4">
         <Link href="/glossary" className="inline-flex items-center gap-1.5 text-sm text-muted-foreground hover:text-primary">
@@ -141,7 +141,8 @@ export default async function CategoryPage({ params }: { params: { category: str
          Web3 Glossary
         </Link>
        </div>
-        <PageHeader title={category.name} align="left" className="mb-0" />
+        <p className="text-sm font-medium text-muted-foreground mb-2">{category.name}</p>
+        <PageHeader title="Web3 Glossary" align="left" className="mb-0" />
         <p className="text-xl text-muted-foreground mb-8 leading-relaxed">
          {content?.description || category.description}
         </p>
@@ -174,7 +175,7 @@ export default async function CategoryPage({ params }: { params: { category: str
     </section>
 
     {/* Terms Grid */}
-    <section className="container mx-auto px-4 py-12 max-w-6xl">{/* Beginner Terms */}
+    <section className="site-container py-12">{/* Beginner Terms */}
      {beginnerTerms.length > 0 && (
       <div className="mb-12">
        <div className="flex items-center gap-3 mb-6">

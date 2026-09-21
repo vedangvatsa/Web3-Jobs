@@ -3,7 +3,7 @@ import { Skeleton } from '@/components/ui/skeleton';
 
 export function RouteLoader({ cardsCount = 6 }: { cardsCount?: number }) {
  return (
-  <div className="container mx-auto py-8 px-4 max-w-6xl space-y-8 animate-pulse">
+  <div className="site-container py-8 space-y-8 animate-pulse">
    {/* Hero Skeleton */}
    <div className="text-center space-y-4 max-w-xl mx-auto py-6">
     <Skeleton className="h-10 w-3/4 mx-auto rounded-md" />

@@ -455,7 +455,7 @@ export function InvoiceForm() {
       </Badge>
     </section>
 
-    <div className="container mx-auto px-4 pb-8">
+    <div className="site-container pb-8">
      <div className="grid grid-cols-1 lg:grid-cols-5 gap-8">
       {/* Form Column */}
       <div className="lg:col-span-3 space-y-6">

@@ -46,7 +46,7 @@ export function Web3CareerQuiz() {
     const twitterUrl = `https://twitter.com/intent/tweet?text=${shareText}&url=${shareUrl}&via=hashtag_web3`;
 
     return (
-      <div className="container mx-auto px-4 py-8 md:py-16 max-w-6xl quiz-result-enter">
+      <div className="site-container py-8 md:py-16 quiz-result-enter">
         <Card className="text-center shadow-sm border-primary/20">
           <CardHeader>
             <CardDescription>Your Web3 Archetype is:</CardDescription>
@@ -104,7 +104,7 @@ export function Web3CareerQuiz() {
   const currentQuestion = quizData[currentQuestionIndex];
 
   return (
-    <div className="container mx-auto px-4 py-8 md:py-16 max-w-6xl">
+    <div className="site-container py-8 md:py-16">
       <Card className="shadow-sm">
         <CardHeader>
           <div className="flex items-center justify-between mb-2">

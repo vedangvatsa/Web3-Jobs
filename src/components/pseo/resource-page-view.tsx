@@ -72,7 +72,7 @@ export function ResourcePageView({ page, nicheResources }: ResourcePageViewProps
       <main className="flex-1">
         {/* Clean Editorial Header */}
         <section className="border-b border-border bg-card/40">
-          <div className="container mx-auto px-4 py-10 md:py-14 max-w-5xl">
+          <div className="site-container py-10 md:py-14">
             {/* Breadcrumb */}
             <nav className="mb-4 text-xs font-mono text-muted-foreground flex items-center gap-1.5" aria-label="Breadcrumb">
               <Link href="/resources" className="hover:text-foreground transition-colors">
@@ -110,7 +110,7 @@ export function ResourcePageView({ page, nicheResources }: ResourcePageViewProps
         </section>
 
         {/* Content Body */}
-        <article className="container mx-auto px-4 py-10 md:py-12 max-w-5xl">
+        <article className="site-container py-10 md:py-12">
           {contentType === 'ideas' && <IdeasContent sections={page.content.sections as any} />}
           {contentType === 'checklists' && (
             <ChecklistContent

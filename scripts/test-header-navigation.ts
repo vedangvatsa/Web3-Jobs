@@ -77,6 +77,29 @@ async function main() {
       await page.goto(`${baseUrl}${route}`, { waitUntil: 'domcontentloaded', timeout: 180_000 });
       await assertCta(page, kind);
     }
+    for (const [route, selector] of [
+      ['/amm', 'main article'],
+      ['/audit-checklists-for-smart-contract-auditor', 'main article'],
+      ['/learn/fundamentals/web3', 'main .site-container'],
+      ['/glossary/defi', 'main section .site-container'],
+    ] as const) {
+      await page.goto(`${baseUrl}${route}`, { waitUntil: 'domcontentloaded', timeout: 180_000 });
+      await page.evaluate(() => document.fonts.ready);
+      const boxes = await page.evaluate((contentSelector) => {
+        const headerEl = document.querySelector('header .site-container');
+        const contentEl = document.querySelector(contentSelector);
+        if (!headerEl || !contentEl) return { header: null, content: null };
+        const hr = headerEl.getBoundingClientRect();
+        const cr = contentEl.getBoundingClientRect();
+        return {
+          header: { x: Math.round(hr.x), width: Math.round(hr.width) },
+          content: { x: Math.round(cr.x), width: Math.round(cr.width) },
+        };
+      }, selector);
+      assert.ok(boxes.header && boxes.content, `Missing header/content containers on ${route}`);
+      assert.equal(boxes.content.x, boxes.header.x, `Content left edge misaligned on ${route}`);
+      assert.equal(boxes.content.width, boxes.header.width, `Content width misaligned on ${route}`);
+    }
     for (const width of [320, 390, 768, 1024, 1440]) {
       await page.setViewportSize({ width, height: 900 });
       await page.goto(`${baseUrl}/events`, { waitUntil: 'domcontentloaded', timeout: 180_000 });

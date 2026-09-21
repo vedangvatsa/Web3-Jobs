@@ -58,7 +58,7 @@ export default function CategoryPage({ params }: Props) {
  return (
   <div className="flex flex-col min-h-screen">
       <main className="flex-grow">
-    <div className="container mx-auto px-4 page-section max-w-6xl">
+    <div className="site-container page-section">
      {/* Breadcrumb */}
      <nav className="flex items-center gap-2 text-sm text-muted-foreground mb-8">
       <Link href="/learn" className="hover:text-foreground transition-colors">Learn</Link>

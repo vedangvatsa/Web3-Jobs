@@ -124,7 +124,7 @@ export default function LessonPage({ params }: Props) {
     dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
    />
       <main className="flex-grow">
-    <div className="container mx-auto px-4 page-section max-w-6xl">
+    <div className="site-container page-section">
      <div className="flex flex-col lg:flex-row gap-8 lg:gap-12">
       {/* Sidebar */}
       <aside className="hidden lg:block w-56 shrink-0">

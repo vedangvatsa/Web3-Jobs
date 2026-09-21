@@ -43,3 +43,26 @@ npm run typecheck
 ```
 
 `HEADER_TEST_BASE_URL` can point the browser check at a different local server. Browser verification includes exact header bounding-box comparisons across client-side navigation and alignment of the logo/action with the homepage job grid.
+
+## Addendum 2026-09-21: page-width alignment
+
+Glossary term pages used `max-w-4xl` and resource pages `max-w-5xl`, so their left edge sat inside the header's `max-w-6xl` measure (reported on `/amm`). Full-bleed tool shells (`container mx-auto px-4` with no cap) overshot it the other way, and several `max-w-6xl` shells used `px-4` instead of the shared `px-4 sm:px-6` rhythm.
+
+Decisions (same dials, ENERGY 1 / RHYTHM 1 / MOTION 1):
+
+- Every page shell now uses the shared `site-container` measure: glossary term article, resource hero/body, glossary category sections, learn category/lesson shells, remote-work checklist, JD-builder and invoice bodies, route loader, career quiz states, and footer.
+- Full-width hero bands on resource and glossary-category pages stay full-bleed by design; their inner content uses `site-container`, so text edges still line up with the header.
+- Centered article headlines keep their narrower text measure inside the full-width shell; only left-aligned body containers were widened, per the explicit alignment request.
+- No color, type, copy, or motion changes.
+
+Gate delta: R-03 PASS (320-1440px, no overflow; measured header/content boxes equal at x=144 w=1152 on `/amm`, a resource page, a learn lesson, and a glossary category page at 1440px); R-35 PASS (`test:header-browser` now asserts content-box equality for those routes). All other gates unchanged.
+
+## Addendum 2026-09-21 (evening): full-site width audit
+
+Audited every page shell for the shared measure. Fixed the last offender: both quiz states in `web3-career-quiz.tsx` (`max-w-6xl` with `px-4`-only padding → `site-container`). Verified `/web3-career-quiz`, `/interview-questions`, `/about`, `/developers`, `/community`, `/blog` all report header/content boxes equal at x=144 w=1152.
+
+Deliberately unchanged: employer-form pages whose outer wrapper is uncapped but whose content Card is itself `site-container` (aligned); centered headlines and intro paragraphs with narrower text measures inside aligned shells; full-bleed hero bands with `site-container` inners. Reason (R-31): one shared outer measure for alignment, narrower measures only where they serve reading hierarchy inside it.
+
+## Addendum 2026-09-21: glossary category heading
+
+Category pages rendered the category name as the H1, replacing "Web3 Glossary". The H1 now stays "Web3 Glossary" with the category name as a small supporting line above it plus the existing category description below, so orientation is preserved. Tab titles and social metadata stay per-category for SEO; no other copy or layout changes.
