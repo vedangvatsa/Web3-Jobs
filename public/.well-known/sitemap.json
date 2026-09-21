@@ -2,12 +2,12 @@
   "$schema": "https://schema.org/sitemap",
   "name": "Hashtag Web3",
   "url": "https://hashtagweb3.com",
-  "generatedAt": "2026-09-21T15:29:39.247Z",
+  "generatedAt": "2026-09-21T17:01:51.171Z",
   "publisher": {
     "name": "Hashtag Web3",
     "url": "https://hashtagweb3.com"
   },
-  "count": 8364,
+  "count": 8363,
   "urls": [
     {
       "url": "https://hashtagweb3.com",
@@ -47490,12 +47490,6 @@
     {
       "url": "https://hashtagweb3.com/traders-week",
       "lastmod": "2026-10-05",
-      "changefreq": "weekly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/tradfi-chain",
-      "lastmod": "2026-10-01",
       "changefreq": "weekly",
       "priority": 0.6
     },

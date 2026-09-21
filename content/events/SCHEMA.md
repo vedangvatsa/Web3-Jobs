@@ -165,7 +165,6 @@ Only source-stated prices, currencies, availability, status, and organizer detai
 | [RealFi x Asia Stablecoin Conference](https://hashtagweb3.com/realfi-asia-stablecoin) | restricted-registration, hidden-address, missing-detailed-address |
 | [SANC Nine @ KBW 서울](https://hashtagweb3.com/sanc-nine) | restricted-registration |
 | [Seoul On Chain](https://hashtagweb3.com/seoul-chain) | restricted-registration |
-| [TradFi On-Chain @ KBW2026](https://hashtagweb3.com/tradfi-chain) | restricted-registration, hidden-address, missing-detailed-address |
 | [Bridging Finance Onchain - A Korea Blockchain Week 2026 Side Event with KYOBO, Circle, SBI Holdings & BDACS](https://hashtagweb3.com/bfokbwsekcsb) | restricted-registration |
 | [SECURE CRYPTO-ASSET NETWORK 2026 (SCAN)](https://hashtagweb3.com/scans) | missing-detailed-address |
 | [House of AI @ KBW 2026](https://hashtagweb3.com/hak) | hidden-address, missing-detailed-address |

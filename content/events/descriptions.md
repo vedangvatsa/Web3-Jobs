@@ -11577,38 +11577,6 @@ ULTRA Web3 Festival is a first-of-its-kind event IP merging the gravitas of a pr
 
 We specialize in optimal IP commercialization, marketing, and PR solutions, bridging the gap between traditional media powerhouses and the decentralized frontier. With a proven track record across both domains, serving clients from Sei, Immutable, IOTA, Marvel, Disney, and beyond. We know what it takes to cut through the noise and build lasting momentum.
 
-<a id="event-0289718ddfaf3f8e"></a>
-
-## TradFi On-Chain @ KBW2026
-
-- Record: `kbw-official-tradfi-on-chain-10-01`
-- Source: [kbw-luma-events.json](sources/kbw-luma-events.json)
-- Starts: 2026-10-01T05:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/nl4bsys6>
-
-### About the event
-
-🇰🇷 As South Korea accelerates its Digital Asset Framework and prepares for the full implementation of tokenized securities, traditional finance and blockchain are converging at unprecedented speed. Backed by robust retail engagement, accelerating institutional adoption, and a dynamic culture of innovation, the Korean market presents significant growth opportunities - positioning it as a premier destination for founders, builders, institutions, and investors.
-
-This exclusive side event brings together institutional leaders, exchange executives, and innovators to explore the critical intersection of regulation, capital markets, and on-chain finance.
-
-### Highlights
-
-Keynotes & Panels: Leaders in Institutions, Exchanges, Payments, RWA, AI and internet innovation share cutting-edge insights.
-
-Exclusive Networking Opportunities: Immerse yourself in a premier social atmosphere with curated sessions designed to foster meaningful connections with influential investors, key decision-makers, and industry leaders.
-
-Elite KOLs & Influencers: Direct access to a niche, influential Web3 audience, engage with top-tier influencers from the Web3 sectors.
-
-### About Host
-
-RootData (https://www.rootdata.com/) - is a specialized platform that delivers in-depth Web3 research and data analysis to both institutional and individual investors, covering project fundamentals, tokenomics, team backgrounds, fundraising history, tokenized stock assets, exchange rankings, etc. Strategic partners include Binance, OKX Wallet, CertiK, TokenPocket, Ethereum Foundation, Amber Group, CMT Digital, Blockworks, and others, reaching 25M+ users globally.
-
-ChainCatcher (https://www.chaincatcher.com/) - Founded in 2018, ChainCatcher as a premier Chinese Web3 media has more than 2.0M registered users and over 5.0B total views.
-
-With a proven track record across the region like Singapore, South Korea, Vietnam, Hong Kong, Malaysia, Thailand, Japan, ChainCatcher has successfully hosted 500+ offline events, including large-scale summits, exclusive private sessions, community meetups, etc., attracting over 100K participants.
-
 <a id="event-eb4ce8d740414eec"></a>
 
 ## Yellow Korea Meetup \| AI Agents
