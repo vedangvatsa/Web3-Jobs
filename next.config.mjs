@@ -421,6 +421,8 @@ const nextConfig = {
     ];
   },
   images: {
+    // Firebase App Hosting does not serve /_next/image (404). Emit the file URL.
+    unoptimized: true,
     remotePatterns: [
       {
         protocol: 'https',
