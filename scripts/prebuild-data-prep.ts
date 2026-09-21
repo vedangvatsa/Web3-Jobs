@@ -16,7 +16,7 @@ function run(cmd: string): void {
 }
 
 function syncPublicAssets(): void {
-  run('sh scripts/sync-public-catalog-assets.sh');
+  run('npx tsx scripts/sync-public-catalog-assets.ts');
 }
 
 function main(): void {
