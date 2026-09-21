@@ -20,7 +20,7 @@ Production HTML for **hashtagweb3.com** runs on **Firebase App Hosting** in **`w
 
 1. **Two deploy pipelines for the same app** — Confirm in [Cloud Build → Triggers](https://console.cloud.google.com/cloud-build/triggers?project=web3-jobs-aggregator) whether **`cloudbuild.yaml` / Cloud Run `web3-jobs`** is still enabled. Disable if App Hosting is the only target.
 2. **Stale GCP project `web3-job-board-aggregator`** — See [`GCP_RETIRE_LEGACY_PROJECT.md`](GCP_RETIRE_LEGACY_PROJECT.md). **Do not re-enable billing** there unless you need that project.
-3. **Running GitHub “Deploy Cloudflare Worker”** — Wastes CI time and can confuse which host is live; disable the workflow if Firebase-only.
+3. **Turn off legacy CI you don’t use** — **Deploy Cloudflare Worker** workflow is disabled (`if: false`); production is Firebase-only.
 4. **Letting build queues stack** — Cancel superseded builds (see [`scripts/cancel-old-builds.py`](../scripts/cancel-old-builds.py) pattern for `web3-jobs-aggregator`).
 
 ## Reduce cost without leaving Firebase
@@ -41,8 +41,8 @@ Firebase App Hosting does **not** honor GitHub path filters; any push to the con
 | Step | Where |
 |------|--------|
 | **Daily ingest** ([`refresh-jobs-ingest.yml`](../.github/workflows/refresh-jobs-ingest.yml)) | `npm run precompute:og-incremental` → fingerprint-new/changed job & company PNGs, prune removed slugs, update bot preview HTML → commit `public/og/` + `public/preview/` |
-| **Event publish** ([`refresh-jobs-cache.yml`](../.github/workflows/refresh-jobs-cache.yml)) | `precompute-events-runtime` + incremental previews → commit `content/events-runtime.json` + preview deltas |
-| **FAH build** | Skips full OG; **`OG_FILL_MISSING=1`** only renders PNGs that are still absent; **`FAH_FAST_PREBUILD=1`** skips data regen, heavy gates, previews, sitemap, and formatting audits |
+| **Event publish** ([`refresh-jobs-cache.yml`](../.github/workflows/refresh-jobs-cache.yml)) | `precompute-events-runtime` + incremental previews + **`prune-stale-event-covers`** → commit `content/events-runtime.json`, `public/events/` (live covers only), preview deltas |
+| **FAH build** | No OG step; **`FAH_FAST_PREBUILD=1`** skips data regen, heavy gates, previews, sitemap, and formatting audits |
 
 **One-time:** After merging this flow, seed git with existing assets (if not already committed):
 
@@ -73,5 +73,7 @@ Do **not** use this checklist on **`web3-jobs-aggregator`** if that is your live
 
 ## Repo guardrails
 
-- [`apphosting.yaml`](../apphosting.yaml): `minInstances: 0`, `OG_PRECOMPUTE=0`, `OG_FILL_MISSING=1`, **`FAH_FAST_PREBUILD=1`** at BUILD.  
+- [`apphosting.yaml`](../apphosting.yaml): `minInstances: 0`, `OG_PRECOMPUTE=0`, `OG_FILL_MISSING=0`, **`FAH_FAST_PREBUILD=1`** at BUILD. Catalog copy runs once in prebuild via [`scripts/sync-public-catalog-assets.sh`](../scripts/sync-public-catalog-assets.sh).  
+- **Event cover bloat:** `public/events/` should only hold covers referenced by the live listing (+ overrides). Run `npm run prune:stale-event-covers` locally; CI runs it on publish. Guard: `npm run test:stale-event-covers`.  
+- **Git pack history:** Old monolithic `content/job-descriptions.json` blobs may still inflate `.git` (~1 GiB pack). Removing them needs a history rewrite: [`scripts/shrink-git-drop-job-descriptions.sh`](../scripts/shrink-git-drop-job-descriptions.sh) then `git push --force-with-lease origin main` (coordinate with anyone else using the repo).  
 - [`docs/FIREBASE_AND_CLOUDFLARE.md`](FIREBASE_AND_CLOUDFLARE.md): production hosting reference (filename kept for existing links).

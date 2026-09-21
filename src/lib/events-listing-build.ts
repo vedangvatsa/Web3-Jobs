@@ -1,3 +1,5 @@
+import * as fs from 'fs';
+import * as path from 'path';
 import { EVENT_SOURCES } from './event-sources';
 import eventImageOverridesJson from '../../content/event-image-overrides.json';
 import { Web3Event, formatEventLocation, getEventBaseSlug, getEventSlug, normalizeCountry } from './events';
@@ -197,6 +199,11 @@ function resolveEventCoverImage(_cwd: string, img?: string | null): string | nul
   if (!img || isLumaDefaultPlaceholder(img)) return null;
 
   if (img.startsWith('/')) {
+    if (img.startsWith('/events/')) {
+      const rel = img.split(/[?#]/, 1)[0];
+      const abs = path.join(process.cwd(), 'public', rel);
+      if (!fs.existsSync(abs)) return null;
+    }
     return img;
   }
 

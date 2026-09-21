@@ -10,6 +10,7 @@ on:
 
 jobs:
   og-images:
+    if: false # Superseded by refresh-jobs-ingest (precompute:og-incremental). Emergency manual only.
     runs-on: ubuntu-latest
     timeout-minutes: 120
 
