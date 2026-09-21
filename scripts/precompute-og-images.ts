@@ -8,6 +8,7 @@ import * as fs from 'fs';
 import * as path from 'path';
 import { createHash } from 'crypto';
 import satori from 'satori';
+import sharp from 'sharp';
 import { Resvg } from '@resvg/resvg-js';
 import { getAllJobsWithSlugs } from '../src/lib/job-guides';
 import { getCompanies } from '../src/lib/companies';
@@ -21,7 +22,7 @@ const MANIFEST_PATH = path.join(ROOT, 'public', 'og', 'manifest.json');
 const FONT_PATH = path.join(ROOT, 'scripts', 'social', 'fonts', 'Inter-Bold.ttf');
 const WIDTH = 1200;
 const HEIGHT = 630;
-const VERSION = 'og-v5';
+const VERSION = 'og-v6-compressed';
 const CONCURRENCY = Math.max(
   1,
   Math.min(32, Number(process.env.OG_CONCURRENCY) || (process.env.CI ? 6 : 12)),
@@ -272,7 +273,17 @@ async function renderPng(element: unknown, font: Buffer): Promise<Buffer> {
     const resvg = new Resvg(svg, {
       fitTo: { mode: 'width', value: WIDTH },
     });
-    return Buffer.from(resvg.render().asPng());
+    const raw = Buffer.from(resvg.render().asPng());
+    // Flat-design cards compress extremely well as palette PNGs
+    // (typically 7–15KB vs 100–300KB raw). Never fail the render:
+    // fall back to the raw resvg bytes if sharp is unavailable.
+    try {
+      return await sharp(raw)
+        .png({ compressionLevel: 9, palette: true, quality: 82 })
+        .toBuffer();
+    } catch {
+      return raw;
+    }
   })();
 
   const timeout = new Promise<never>((_, reject) => {

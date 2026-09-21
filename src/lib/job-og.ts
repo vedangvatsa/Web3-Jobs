@@ -25,7 +25,7 @@ export const STATIC_OG = {
 } as const;
 
 /** Bump when the precompute card layout changes (cache-bust share URLs). */
-export const JOB_OG_VERSION = '4';
+export const JOB_OG_VERSION = '5';
 
 function absoluteSiteAsset(pathOrUrl: string, siteUrl = SITE_URL): string {
   if (/^https?:\/\//i.test(pathOrUrl)) return pathOrUrl;
