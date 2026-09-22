@@ -1,18 +1,36 @@
 import type { Job } from '@/types';
-import { hasSubstantialJobContent } from './job-guides';
+import { hasSubstantialJobContent, buildFeedDescription } from './job-guides';
+import { preloadDescriptionShardsForJobs } from './job-description-shard-loader';
 import { normalizeSingleLocation } from './job-filters';
 
 const US_LOCATION = /\b(?:united states|u\.s\.a?\.?|usa)\b|\b(?:AL|AK|AZ|AR|CA|CO|CT|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY)\b/i;
 const US_CITY = /\b(?:Austin|Atlanta|Boston|Chicago|Denver|Houston|Los Angeles|Miami|New York|San Francisco|Seattle|Washington(?:\s*,?\s*DC)?)\b/i;
 
-export function getRecentFeedJobs(jobs: Job[], days = 30): Job[] {
+export async function preloadFeedJobDescriptions(jobs: Job[]): Promise<void> {
+  await preloadDescriptionShardsForJobs(jobs);
+}
+
+/** Plain-text excerpt for JSON Feed / syndication summaries (shard-backed). */
+export function buildFeedPlainExcerpt(job: Job, maxLen = 500): string {
+  const html = buildFeedDescription(job, maxLen);
+  return html
+    .replace(/<[^>]+>/g, ' ')
+    .replace(/&nbsp;|&#160;/g, ' ')
+    .replace(/&amp;/g, '&')
+    .replace(/&quot;/g, '"')
+    .replace(/&#0?39;/g, "'")
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+export async function getRecentFeedJobs(jobs: Job[], days = 30): Promise<Job[]> {
   const cutoff = Date.now() - days * 24 * 60 * 60 * 1000;
-  return jobs
-    .filter((job) => {
-      const time = Date.parse(job.date);
-      return Number.isFinite(time) && time >= cutoff && hasSubstantialJobContent(job);
-    })
-    .slice(0, 500);
+  const dated = jobs.filter((job) => {
+    const time = Date.parse(job.date);
+    return Number.isFinite(time) && time >= cutoff;
+  });
+  await preloadDescriptionShardsForJobs(dated);
+  return dated.filter((job) => hasSubstantialJobContent(job)).slice(0, 500);
 }
 
 export function getFeedLocation(job: Job): string {

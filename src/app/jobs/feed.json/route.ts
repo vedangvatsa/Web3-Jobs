@@ -1,23 +1,38 @@
 import { getJobs } from "@/lib/jobs";
 import { getPublicJobUrl } from "@/lib/job-slugs";
+import { buildFeedDescription } from "@/lib/job-guides";
+import { buildFeedPlainExcerpt, preloadFeedJobDescriptions } from "@/lib/job-feed-helpers";
 import { NextResponse } from "next/server";
 
 export const revalidate = 3600; // Cache for 1 hour
 
+function toTime(value?: string): number {
+  const t = value ? Date.parse(value) : NaN;
+  return Number.isFinite(t) ? (t as number) : 0;
+}
+
 export async function GET() {
   const siteUrl = "https://hashtagweb3.com";
   const allJobs = await getJobs();
-  const feedJobs = allJobs.slice(0, 100);
+  const feedJobs = allJobs
+    .filter((job) => job.active !== false)
+    .sort((a, b) => toTime(b.date) - toTime(a.date))
+    .slice(0, 100);
+  await preloadFeedJobDescriptions(feedJobs);
 
   const items = feedJobs.map((job) => {
-    // Canonical page only: never expose the internal ATS source URL.
     const url = getPublicJobUrl(job, siteUrl);
+    const excerpt = buildFeedPlainExcerpt(job);
+    const contentHtml = buildFeedDescription(job, 2000);
 
     return {
       id: url,
       url,
       title: `${job.title} at ${job.company}`,
-      content_text: `${job.title} at ${job.company} (${job.location || "Remote"}). Apply at: ${url}`,
+      content_text: excerpt
+        ? `${job.title} at ${job.company} (${job.location || "Remote"}). ${excerpt}`
+        : `${job.title} at ${job.company} (${job.location || "Remote"}). Apply at: ${url}`,
+      content_html: contentHtml,
       date_published: job.date ? new Date(job.date).toISOString() : new Date().toISOString(),
       authors: [{ name: job.company }],
       tags: [job.department || "Web3", "Crypto", "Blockchain"].filter(Boolean),

@@ -8,7 +8,7 @@ import { NextResponse } from 'next/server';
 export async function buildJoobleFeedResponse(): Promise<NextResponse> {
   const siteUrl = 'https://hashtagweb3.com';
   const allJobs = await getJobs();
-  const feedJobs = getRecentFeedJobs(allJobs).slice(0, 250);
+  const feedJobs = (await getRecentFeedJobs(allJobs)).slice(0, 250);
 
   const jobsXml = feedJobs
     .map((job) => {

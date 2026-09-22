@@ -1,5 +1,7 @@
 import { getJobs } from "@/lib/jobs";
 import { getJobSlug } from "@/lib/job-slugs";
+import { getCachedRawContent } from "@/lib/job-guides";
+import { preloadFeedJobDescriptions } from "@/lib/job-feed-helpers";
 import { NextResponse } from "next/server";
 import type { Job } from "@/types";
 
@@ -114,7 +116,7 @@ function toTime(value?: string): number {
   return Number.isFinite(t) ? (t as number) : 0;
 }
 
-function buildItem(job: Job, siteUrl: string, nowRfc822: string): string {
+function buildItem(job: Job, siteUrl: string, nowRfc822: string, descriptionRaw: string): string {
   const slug = getJobSlug(job);
   const url = `${siteUrl}/${slug}`;
   const time = toTime(job.date);
@@ -134,7 +136,7 @@ function buildItem(job: Job, siteUrl: string, nowRfc822: string): string {
     .filter(Boolean)
     .join("\n");
 
-  const fullDesc = sanitizeDescriptionHtml(job.description || "");
+  const fullDesc = sanitizeDescriptionHtml(descriptionRaw || "");
   const bodyHtml = fullDesc ? truncateHtmlAtBoundary(fullDesc, MAX_DESC_CHARS) : "";
 
   const canonicalLine = `<p><a href="${url}">View full job details and apply on Hashtag Web3</a></p>`;
@@ -164,9 +166,12 @@ export async function GET() {
     .filter((job) => job.active !== false)
     .sort((a, b) => toTime(b.date) - toTime(a.date))
     .slice(0, MAX_ITEMS);
+  await preloadFeedJobDescriptions(feedJobs);
   const nowRfc822 = new Date().toUTCString();
 
-  const itemsXml = feedJobs.map((job) => buildItem(job, siteUrl, nowRfc822)).join("\n");
+  const itemsXml = feedJobs
+    .map((job) => buildItem(job, siteUrl, nowRfc822, getCachedRawContent(job)))
+    .join("\n");
 
   const rssXml = `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">

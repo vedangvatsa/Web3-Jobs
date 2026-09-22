@@ -1,6 +1,7 @@
 import { getJobs } from '@/lib/jobs';
 import { getJobSlug } from '@/lib/job-slugs';
-import { buildSynthesizedJobContent, hasSubstantialJobContent } from '@/lib/job-guides';
+import { getCachedRawContent } from '@/lib/job-guides';
+import { preloadFeedJobDescriptions } from '@/lib/job-feed-helpers';
 import { normalizeSingleLocation } from '@/lib/job-filters';
 import { NextResponse } from 'next/server';
 import * as cheerio from 'cheerio';
@@ -92,6 +93,8 @@ export async function GET() {
     return Number.isFinite(t) && t >= thirtyDaysAgoMs;
   });
 
+  await preloadFeedJobDescriptions(recentJobs);
+
   const jobNodes: string[] = [];
 
   for (const job of recentJobs) {
@@ -105,7 +108,7 @@ export async function GET() {
       .trim();
 
     // Adzuna Requirement: description MUST contain HTML formatting and MUST be minimum 100 characters
-    let synthesizedHtml = (job.description && job.description.length > 50) ? job.description : '';
+    let synthesizedHtml = getCachedRawContent(job);
 
     const companyName = job.company || 'Web3 Ecosystem Partner';
     const cleanCompany = escapeXml(companyName);

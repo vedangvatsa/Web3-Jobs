@@ -90,3 +90,9 @@ export async function ensureDescriptionShardLoaded(job: Job): Promise<JobDescrip
 
   return pending;
 }
+
+/** Load description shards for a batch (deduped per shard file). Use before sync getCachedRawContent. */
+export async function preloadDescriptionShardsForJobs(jobs: Job[]): Promise<void> {
+  if (jobs.length === 0) return;
+  await Promise.all(jobs.map((job) => ensureDescriptionShardLoaded(job)));
+}

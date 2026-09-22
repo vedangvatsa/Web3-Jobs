@@ -76,14 +76,17 @@ async function main() {
   if (!selected.length) throw new Error('No upcoming events available to post.');
 
   const message = selected.map((event) => {
-    const url = `https://hashtagweb3.com/${getEventSlug(event)}?utm_source=telegram&utm_medium=social&utm_campaign=event_post`;
+    const url = `https://hashtagweb3.com/${getEventSlug(event)}/tg`;
     const date = formatEventDate(event.startDate, event.endDate).replace(/ - /g, '–').replace(/, \d{4}/g, '');
-    const line = `${event.name} in ${eventPlace(event)} on ${date}`;
-    return `<a href="${url}">${escapeHtml(line)}</a>`;
+    const place = eventPlace(event);
+    const name = escapeHtml(event.name);
+    return `• <a href="${url}">${name}</a> in ${escapeHtml(place)} on ${escapeHtml(date)}`;
   }).join('\n\n');
 
   if (dryRun) {
-    console.log(message.replace(/<[^>]+>/g, ''));
+    console.log(
+      message.replace(/<a href="[^"]*">([^<]*)<\/a>/g, '$1').replace(/<\/?[^>]+>/g, ''),
+    );
     return;
   }
 

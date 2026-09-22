@@ -73,7 +73,7 @@ function isoDate(dateStr?: string, plusDays = 0): string {
 
 export async function GET() {
   const siteUrl = 'https://hashtagweb3.com';
-  const feedJobs = getRecentFeedJobs(await getJobs()).slice(0, 250);
+  const feedJobs = (await getRecentFeedJobs(await getJobs())).slice(0, 250);
 
   const jobNodes = feedJobs.map((job) => {
     const url = `${getPublicJobUrl(job, siteUrl)}?utm_source=jora&utm_medium=xml&utm_campaign=feed`;
