@@ -467,14 +467,17 @@ Taxis : Taxis are available through apps like GO↗︎ and Uber↗︎.
 - Description: Source-backed
 - Original page: <https://cryptofinanceforum.nyc/>
 
+### About the event
+
+Crypto Finance Forum is a New York based conference for crypto CFOs, auditors, controllers and accountants - debating the biggest challenges for finance teams today. The 2026 agenda is published on the official site.
+
 ### Agenda
 
-This session is eligible for up to 1.0 CPE credit (pending approval).View CPE Information
+Sessions carry up to 1.0 CPE credit (pending approval) and cover institutional adoption of digital assets across banks, asset managers and regulated financial institutions.
 
-- Institutional adoption of digital assets across banks, asset managers and regulated financial institutions
-- Keeping pace with fast‑shifting global regulation and expectations.
-- Translating staking, DeFi, stablecoins, tokenized assets and other new primitives activity into clear accounting treatments.
-- Building resilient treasury, risk, lending and reporting frameworks that stand up to scrutiny.
+### Who attends
+
+The forum is designed for finance leaders from the leading regulated crypto-native enterprises and traditional institutions working with digital assets. Speakers and attendees represent those teams, and the forum spans multiple spaces ensuring plenty of networking opportunities for attendees and speakers.
 
 <a id="event-263df914d6062009"></a>
 
@@ -518,7 +521,19 @@ A look back at last year's Bitcoin Policy Summit - the conversations, the people
 
 ### About the event
 
-The Midwest Bitcoin Summit brings thousands of attendees, 150+ speakers, and the brightest minds in Bitcoin to Columbus, OH on Sept 23-24, 2026. Get your tickets now.
+The Midwest Bitcoin Summit brings thousands of attendees, 150+ speakers, and the brightest minds in Bitcoin to Columbus, OH on September 23-24, 2026, 10:00 AM-5:00 PM, at the Greater Columbus Convention Center.
+
+### Scale
+
+3000+ expected attendees, 140+ expert speakers, 45+ exhibiting companies, and two days of innovation - the brightest minds across Bitcoin, policy, and financial infrastructure.
+
+### Speakers
+
+World-class speakers include Hester M. Peirce (Commissioner, SEC Crypto Task Force), Frank LaRose (Ohio Secretary of State), plus state representatives, founders, and operators from across the Bitcoin industry.
+
+### Program and tickets
+
+Get tickets from US$50 through the official ticketing page. The program runs alongside sponsor showcases, after parties, and hotel blocks for traveling attendees.
 
 <a id="event-b89157a21dfb95d9"></a>
 
@@ -564,7 +579,11 @@ The John Atanasoff Forum is part of Bulgaria's first science and technology park
 
 ### About the event
 
-Le festival IA, blockchain et business à Biarritz: 3 jours de talks, workshops, startups, networking, surf et soirées pour prendre de l'avance.
+Le festival IA, blockchain et business à Biarritz: 3 jours de talks, workshops, startups, networking, surf et soirées pour prendre de l'avance. SHAKA Festival 2026 runs September 24-26, 2026 at La Cité de l'Océan, 64200 Biarritz, France.
+
+### Programme
+
+Trois jours de conférences, ateliers, startups, networking, surf et soirées autour de l'IA, de la blockchain et du business. Billetterie, calendrier, localisation et contact via la page officielle de l'événement.
 
 <a id="event-e373bf9da0a76bcf"></a>
 
@@ -666,11 +685,17 @@ You'll unlock access to Pragma Tokyo and the ETHGlobal Happy Hour, along with a 
 
 ### About the event
 
-Join Metamorphosis 2026 in Hyderabad on September 26-27 for India's largest
+Join Metamorphosis 2026 in Hyderabad on September 26-27 for India's largest Web3 and AI event. Connect with global thought leaders, developers, and innovators shaping the future of technology.
 
-Web3 and AI event. Connect with global thought leaders, developers, and innovators shaping the future of
+### India's premier Web3 and AI gala
 
-technology.
+Metamorphosis 2026 brings the Web3 and AI community together in Hyderabad for two days of sessions, networking, and builder programming with global thought leaders, developers, and innovators shaping the future of technology.
+
+### Tickets
+
+The event reports it is sold out, with a few extra tickets added - use the coupon code posted on the official ticketing page to claim them.
+
+The Hyderabad event spans September 26-27, with two full days of programming.
 
 <a id="event-576eb08ee94d90da"></a>
 
@@ -1043,20 +1068,6 @@ With 600+ members operating across 40 countries, Team1 drives the democratizatio
 
 /AvaxTeam1 (https://x.com/AvaxTeam1?)
 
-<a id="event-d2af49021130c239"></a>
-
-## Bitcoin Treasuries Conference 2026
-
-- Record: `premier-bitcoin-treasuries-2026`
-- Source: [curated-events.json](sources/curated-events.json)
-- Starts: 2026-09-28T08:00:00-04:00
-- Description: Source-backed
-- Original page: <https://bitcointreasuries.net/conference>
-
-### About the event
-
-A closed-door conference on corporate bitcoin treasury strategy - allocators, executives, and strategists in one room. September 28, 2026 in New York City.
-
 <a id="event-0c48017538f0de2a"></a>
 
 ## Agentic Payments Onchain 2026
@@ -1386,6 +1397,18 @@ Born in crypto and built for efficiency across all asset classes, Solidus Labs i
 
 CV Summit is Switzerland's leading institutional digital assets and AI business conference, uniting 3,000+ attendees in Zürich. Across two days and three stages it covers payment systems and digital money infrastructure, tokenized capital markets, next-generation wealth management and AI-powered financial services - built for financial institutions, asset and wealth managers, investors, regulators and technology leaders.
 
+### Program
+
+Explore tokenized securities, institutional DeFi, digital exchanges, trading infrastructure, and the evolution of programmable financial markets, with workshops, panels, and summit tracks throughout both days.
+
+### Speakers
+
+Leading voices in technology at CV Summit 2026 include Christopher Perkins, Manuel Klein, Dr. Alexander Thoma, Emilio Anting, Mathias Imbach, Catherine Chen, Serge Kaulitz and Jonas Epp, among others.
+
+### Tickets
+
+The standard ticket covers both days of the conference. The VIP experience adds curated extras for leaders, and groups buy three standard tickets and get one free. Exhibition stands to VIP dinners are available for sponsors.
+
 <a id="event-9553c6bb2a810de3"></a>
 
 ## Korea Blockchain Week 2026
@@ -1603,17 +1626,11 @@ https://luma.com/7obq3bf2
 
 ### About the event
 
-Rayls will be in Seoul during Korea Blockchain Week, bringing together leaders across financial services, digital assets and onchain infrastructure.
-
-More details will be announced soon.
-
-Register now to receive priority access and be first to hear about what's planned.
+Rayls will be in Seoul during Korea Blockchain Week, bringing together leaders across financial services, digital assets and onchain infrastructure. More details will be announced soon. Register now to receive priority updates.
 
 ### About Rayls
 
-https://www.rayls.com/?utm_source=luma
-
-Rayls is a blockchain ecosystem that bridges traditional finance with decentralized finance by providing a compliant, private, and scalable infrastructure for financial institutions. Its hybrid architecture combines permissioned private networks with an EVM-compatible public chain to facilitate use cases like asset tokenization, cross-border payments, and central bank digital currency settlement
+Bringing finance onchain: Rayls Sovereign is the onchain gateway for institutions - a three-layer system enabling secure, verifiable capital flows between banks and DeFi. The programmable foundation for institutional blockchain lets participants mint, transfer, and extend fiat deposits as EVM-standard tokens within a Sovereign, preserving the bank's balance sheet while unlocking tokenisation. Trusted by leading institutions, with a global network of partners, dApps, validators, and builders.
 
 <a id="event-a6ae3cc1566f34aa"></a>
 
@@ -1627,17 +1644,11 @@ Rayls is a blockchain ecosystem that bridges traditional finance with decentrali
 
 ### About the event
 
-If you would like to register, please click here (https://event-us.kr/futuracanvas2026/event/131586) to go to the registration page.
+If you would like to register, please click here to go to the registration page. Website: https://www.futuracanvas.com Instagram: https://www.instagram.com/futuracanvas.con X: https://twitter.com/FuturaCanvas LinkedIn: https://www.linkedin.com/showcase/futuracanvas Youtube: https://youtube.com/@FuturaCanvas
 
-Website: https://www.futuracanvas.com
+### Event details
 
-Instagram: https://www.instagram.com/futuracanvas.con
-
-X: https://twitter.com/FuturaCanvas
-
-LinkedIn: https://www.linkedin.com/showcase/futuracanvas
-
-Youtube: https://youtube.com/@FuturaCanvas
+Hosted by FuturaCanvas (Korea's first global art&tech conference). Venue: Platform-L Contemporary Art Center, 11 Eonju-ro 133-gil, Gangnam District, Seoul, South Korea. The event takes place on October 1.
 
 <a id="event-3987ecc3e9b8b724"></a>
 
@@ -2152,22 +2163,23 @@ Productos exclusivos del evento. Paga directamente con o ₿
 - Description: Source-backed
 - Original page: <https://luma.com/wm5ub5wk>
 
-### [Free Ticket Event - Luma RSVP]
+### About the event
 
-Win a free XRP Seoul 2026 Pass (worth $74.99).
+[Free Ticket Event - Luma RSVP]
 
-Follow @XRPSEOUL (https://x.com/XRPSEOUL) on X, Quote Tweet our post, and RSVP here to enter. Winners will be selected by random draw.
+Win a free XRP Seoul 2026 Pass (worth $74.99).Follow @XRPSEOUL on X, Quote Tweet our post, and RSVP here to enter. Winners will be selected by random draw.
 
-Oct 3, 2026 | Grand Hyatt Seoul
-
-10:00 - Booth Opening
-
-12:00 - Conference Start
+Oct 3, 2026 | Grand Hyatt Seoul 10:00 - Booth Opening 12:00 - Conference Start
 
 XRP Seoul 2026 is Asia's largest XRP conference, held during Korea Blockchain Week with Ripple as title sponsor. Last year drew 3,000+ participants from 40+ countries to Seoul, one of the world's fastest-growing markets.
 
-- Website: xrp-seoul.com (https://xrp-seoul.com)
-- Official X: x.com/XRPSEOUL (https://x.com/XRPSEOUL)
+Website: xrp-seoul.com
+
+Official X: x.com/XRPSEOUL
+
+### Event details
+
+Venue: Grand Hyatt Seoul, Seoul. Organized by XRPL Korea. The event takes place on October 3. Registration requires organizer approval.
 
 <a id="event-46c5fdf8a9d60a49"></a>
 
@@ -2248,7 +2260,15 @@ We help convert connections into real collaborations, pilots, partnerships and a
 
 ### About the event
 
-Be part of a groundbreaking event bringing together global leaders, innovators, and visionaries in the decentralized ecosystem, hosting 7,500+ crypto founders and investors. CoinFerenceX Singapore 2026 features keynote sessions, expo hall entry, networking lounges, breakout sessions and workshops - don't miss the networking event of the year.
+Be part of a groundbreaking event bringing together global leaders, innovators, and visionaries in the decentralized ecosystem, hosting 7,500+ crypto founders and investors. Asia's premier Web3 summit runs October 5-6, 2026 in Singapore, billed as the decentralised summit.
+
+### Program
+
+CoinFerenceX Singapore 2026 features keynote sessions, expo hall entry, networking lounges, breakout sessions and workshops - the networking event of the year.
+
+### Tickets
+
+Buy tickets and delegate passes through the official ticketing page. Early bird tickets, VIP delegate passes, and developer discounts are on sale before prices increase. Pass tiers include Explorer, Standard, and VIP - secure your spot at Asia's premier Web3 summit.
 
 <a id="event-57acb4d85ce45fbf"></a>
 
@@ -2262,7 +2282,15 @@ Be part of a groundbreaking event bringing together global leaders, innovators, 
 
 ### About the event
 
-RWA WEEK - Online & Offline Ecosystem Platform for Real-World Assets tokenization community. Latest news, event calendar, online and offline events, interviews, networking and matchmaking platform.
+RWA WEEK - online and offline ecosystem platform for the real-world asset tokenization community: latest news, event calendar, online and offline events, interviews, and a networking and matchmaking platform.
+
+### What the platform offers
+
+News coverage, a community event calendar, online and offline events, interviews with ecosystem voices, and a networking and matchmaking platform for participants.
+
+### Events
+
+Browse upcoming real-world asset events in Dubai, Singapore, Hong Kong and beyond - including conferences, summits and networking events run under the RWA Week banner.
 
 <a id="event-726836a7ffaac96f"></a>
 
@@ -2597,7 +2625,15 @@ The list of speakers is here: https://www.token2049.com/singapore/speakers
 
 ### About the event
 
-The next $5 trillion in transactions won't be human. Join the global Sui community in Singapore on Oct 7-8 to shape what comes next.
+The next $5 trillion in transactions won't be human. Join the global Sui community in Singapore on October 7-8, 2026 at the iconic Marina Bay Sands, alongside TOKEN2049 - one vision: money that moves as freely as messages.
+
+### Program
+
+Sui's global conference brings hands-on AI workshops to learn, apply, and build something real, a vibecoding hackathon with live project showcases, plus agenda tracks, speakers, and sponsors across the ecosystem. On July 4th the team pushed Sui past 6M+ transactions per second in a live experiment - on day one of Basecamp they run it again, live, on the main stage. Agents transact at machine speed, and the next wave of finance demands a network that can keep up.
+
+### Tickets
+
+Register through the official registration page. Highlights from Sui Basecamp 2025 set the bar for this year's edition.
 
 <a id="event-9c798a3d0e6b65c0"></a>
 
@@ -2612,13 +2648,15 @@ The next $5 trillion in transactions won't be human. Join the global Sui communi
 
 ### About the event
 
-Asia's premier event for stablecoin innovation. We bring together government, institutions, fintech leaders, and blockchain pioneers to explore the future of digital money.
+Asia's premier event for stablecoin innovation. The Stablecoin Summit 2026 takes place October 8, 2026 at Andaz Singapore, joining 500+ leaders in payments, policy, and digital assets.
 
-Designed for enterprises and financial institutions engaged in high-volume cross-border payments, the summit focuses on real-world use cases, trustless transactions, transparency, and security, with expert insights, technical deep dives, and top-tier networking.
+### Program
 
-### Stablecoin Summit 2026
+Government, institutions, fintech leaders, and blockchain pioneers explore the future of digital money - real-world use cases, trustless transactions, transparency, and security for enterprises and financial institutions engaged in high-volume cross-border payments, with expert insights, technical deep dives, and top-tier networking.
 
-The XREX event takes place on 8 October 2026 at Andaz Singapore, during TOKEN2049 week. Tickets are available through the organizer's ticketing page. The summit runs alongside TOKEN2049 week programming in Singapore.
+### Speakers
+
+A curated lineup of global industry leaders: Wayne Huang (Co-founder and Group CEO, XREX Inc.), Hassan Ahmed (Country Director Singapore, Coinbase), Michael Egorov (Founder, Curve), Drake Evans (CTO and Co-Founder, Agora), Tushar Gulhane (VP Treasury and WCM, SAP Asia), and Bhau Kotecha (Head of Paxos Labs). Speaker applications run through the official site.
 
 <a id="event-c7a04d91ec43b6f9"></a>
 
@@ -2632,7 +2670,15 @@ The XREX event takes place on 8 October 2026 at Andaz Singapore, during TOKEN204
 
 ### About the event
 
-A curated prediction markets summit - 400 attendees, 50+ speakers, two stages across four hours - at Suntec City, Singapore, on October 8, 2026, during TOKEN2049 week.
+A curated prediction markets summit - 400 attendees, 50+ speakers, two stages across four hours - at Suntec City, Singapore, on October 8, 2026, during TOKEN2049 week. 25,000+ attend TOKEN2049; the most relevant 1% meet at The Odds.
+
+### Concept
+
+Prediction markets are being built, listed, priced and written into law by people who almost never sit in the same room. The Odds puts them there for one afternoon: the founders and builders behind the platforms, the owners and operators running them, new and emerging platforms, exchanges and trading venues. An independent, curated summit produced by More & More at the Suntec Convention Centre, 1 Raffles Boulevard - one of Singapore's most established business and convention hubs, with direct access to hotels, restaurants, transport and exhibition space.
+
+### Program
+
+The agenda is being finalized with the strongest voices in prediction markets; previous Odds speakers set the tone. Speaker nominations run through the official site.
 
 <a id="event-467a691911b38aa4"></a>
 
@@ -2739,18 +2785,21 @@ Engage with regulators and industry titans to lead the institutional adoption of
 - Description: Source-backed
 - Original page: <https://tabconf.com>
 
-### When you're here
+### About the event
 
-- Oct 12-13 - Builder Days & workshops (hands-on building and deep dive workshops).
-- Oct 14-15 - Conference sessions (villages, main stage, and community-led programming).
+TABConf 8 runs October 12-15, 2026 in Atlanta, GA - the final TABConf.
 
-Venue: Georgia Tech Exhibition Hall. Need a room? See Hotels (options near the venue; book directly with properties).
+### Format
+
+October 12-13 are Builder Days with hands-on building and deep-dive workshops; October 14-15 bring conference sessions across villages, the main stage, and community-led programming.
+
+### Venue and tickets
+
+Venue: Georgia Tech Exhibition Hall, with nearby hotel options bookable directly. Pay with Bitcoin or fiat via Stripe. Speaker, sponsor, grant, and talk submissions run through the official site.
 
 ### Mission
 
-TABConf's mission is to create a forum for protocol and application developers to collaborate, debate, and innovate on Bitcoin.
-
-We bring together sharp minds to share what they're building - from core devs to new contributors. If you want signal, not hype, you're in the right place.
+TABConf's mission is to create a forum for protocol and application developers to collaborate, debate, and innovate on Bitcoin - signal, not hype, from core devs to new contributors.
 
 <a id="event-2e295b1d8ee6ba60"></a>
 
@@ -2764,9 +2813,15 @@ We bring together sharp minds to share what they're building - from core devs to
 
 ### Shaping the Future of Digital Assets
 
-On October 14, 2026, CoinAlts will host the latest in a series of events for the digital asset community addressing investment, legal, and operational issues pertaining to private fund managers.
+On October 14, 2026, CoinAlts will host the latest in a series of events for the digital asset community addressing investment, legal, and operational issues pertaining to private fund managers. The 2026 edition joins the fund symposium at SF Fund Week 2026 in San Francisco.
 
-Established in 2017, CoinAlts is an annual gathering and forum for the digital asset community. 2026 Premier Sponsors Cole-Frieman & Mallon LLP, MG Stover LLC, Harneys, and KPMG have practices devoted to fund managers in the digital asset space.
+### About
+
+Established in 2017, CoinAlts is an annual gathering and forum for the digital asset community - the leading gathering of crypto and financial services experts. 2026 premier sponsors Cole-Frieman and Mallon LLP, MG Stover LLC, Harneys, and KPMG run practices devoted to the space.
+
+### Program
+
+A fund symposium program built around investment, legal, and operational sessions for private fund managers, with exclusive insights and networking opportunities.
 
 <a id="event-2d5d212da48b72b3"></a>
 
@@ -3053,7 +3108,19 @@ What could take a month or two over Zoom - to really connect with people - at Mo
 
 ### About the event
 
-Africa's biggest Web3 and AI festival: three days of building, networking and dealmaking in Lagos, October 22-24, 2026, with 5,000+ founders, engineers, investors and policymakers. Tracks span AI and blockchain, government and policy, and investment and funding - bridging founders with the capital fueling Africa's next wave.
+New Trade Routes: Bringing Africa Onchain. Africa's biggest Web3 and AI festival: three days of building, networking and dealmaking in Lagos, October 22-24, 2026, with 5,000+ founders, engineers, investors and policymakers at the National Art Theatre, Lagos.
+
+### Program
+
+Six tracks across African tech, Web3 and AI. Thursday October 22 opens with morning workshops and a closed-door founder and investor room in the evening; Friday October 23 brings the main stage and exhibition floor. Passes span Thursday 22 to Saturday 24 October depending on tier, with priority entry, the speakers lounge, and the rooms where introductions happen.
+
+### Speakers
+
+Past stages have hosted voices including Samuel Olaoyenikan, Emomotimi Agama, Hon. Mobolaji Ogunlende Abubakre, Chimezie Chuta, Idris Olubisi, Sarah Idahosa, Ayodeji Israel Awosika, Jeremiah Mayowa, Mrs. Chisom Edwin and Onone Peace Ega.
+
+### Tickets
+
+Tickets are live, with passes from ₦10,000.
 
 <a id="event-bb9b15ba8e97af97"></a>
 
@@ -3160,7 +3227,15 @@ An organizer description has not been verified for this record. Any previous cop
 
 ### Build something worth shipping
 
-Two days of building alongside developers, founders, designers, and technical teams in Lisbon. HackMeridian brings together builders from around the world to turn ambitious ideas into working products on Stellar.
+Two days of building alongside developers, founders, designers, and technical teams in Lisbon. HackMeridian brings together builders from around the world to turn ambitious ideas into working products, with hands-on support from the Stellar ecosystem.
+
+### Alongside Meridian 2026
+
+HackMeridian runs with Meridian 2026, October 28-29 at Convento do Beato, Lisbon, Portugal: two days of insights, connections, and opportunities shaping the future of global finance. Meridian focuses on how the Stellar network is used in the real world, balancing learning, collaboration, and product discovery with direct access to the people and organizations behind it.
+
+### Scale
+
+Over 1,000 attendees from 65 countries engaged in 60+ sessions with 115+ speakers at Meridian 2025, with world-class speakers across blockchain, finance, and policy - past speakers have included leaders from DTCC, Chainlink, PayPal, and Circle. Full access covers keynotes, fireside chats, technical sessions, workshops, and ecosystem showcases.
 
 <a id="event-1e52596b697dbe93"></a>
 
@@ -3174,7 +3249,15 @@ Two days of building alongside developers, founders, designers, and technical te
 
 ### About the event
 
-Ripple's premier conference where industry pioneers, developers, and innovators to bridge traditional finance and the onchain economy. Register today.
+Ripple's annual conference where traditional finance meets the onchain economy. Swell 2026 runs October 27-29 in New York City at The Shed, 545 W 30th St - three days with 1,500+ leaders, 75+ speakers, and 50+ sessions.
+
+### Program
+
+Swell brings together financial leaders, fintech founders, developers, and researchers to explore the intersection of traditional finance and the onchain economy. The full agenda is published on the official site, with tracks for finance leaders, developers, and academia and researchers, plus keynote speakers. More speaker announcements land soon.
+
+### Tickets
+
+Passes run from a Super Early Bird through Early Bird to Last Chance tiers.
 
 <a id="event-0c359947e9021d48"></a>
 
@@ -3234,7 +3317,19 @@ For engineers, technologists, and students actively building the future of finan
 
 ### About the event
 
-India's first festival for what comes next for money. Two days in Jaipur, October 30-31, 2026.
+India's first festival for what comes next for money. Two days in Jaipur, October 30-31, 2026, at the Intercontinental Jaipur.
+
+### The idea
+
+Most people never understand money. Bit by bit, a new kind of mela: meet the people taking the stage as the rules of money are rewritten, with India holding the players. Jaipur, the Pink City, hosts Edition 01.
+
+### Program
+
+One night is a Gala, the other is a Mela - the opening night gala brings dinner and drinks with speakers and VIPs. Built with the people already in the game, for builders targeting the next billion.
+
+### Tickets
+
+Choose your entry. Tickets are non-refundable but fully transferable until 20 October.
 
 <a id="event-1c5ab0a32434070b"></a>
 
@@ -3398,7 +3493,15 @@ Speaker, sponsor and partner applications remain open.
 
 ### About the event
 
-Premier summit connecting central banks, regulators, and financial institutions with blockchain infrastructure leaders
+Premier summit connecting central banks, regulators, and financial institutions with blockchain infrastructure leaders. Policy dialogue, institutional adoption, and capital markets. Hong Kong, November 2026, at the Grand Hyatt Hong Kong.
+
+### Program
+
+Cosmoverse 2026 introduces a redesigned event experience engineered to maximize strategic engagement, high-value dealflow, policy dialogue and infrastructure-level understanding - covering infrastructure for secure settlement, interoperability across systems, and the deployment of sovereign and institutional-grade networks supporting modern financial markets. High-level discussions between central banks, regulators, banks, payment networks, and infrastructure providers run alongside investor networking and the Executive Lounge.
+
+### Who attends
+
+Trusted by 2,200+ industry-leading financial institutions - a summit built for decision-makers at the intersection of finance, regulation and sovereign infrastructure.
 
 <a id="event-5454f78c212801cd"></a>
 
@@ -3496,15 +3599,15 @@ Engage with regulators and industry titans to lead the institutional adoption of
 
 ### About the event
 
-Hong Kong FinTech Week x StartmeupHK Festival 2026 runs 2-6 November 2026 at the Hong Kong Convention and Exhibition Centre.
+Hong Kong FinTech Week x StartmeupHK Festival 2026 runs 2-6 November 2026 at the Hong Kong Convention and Exhibition Centre and multiple venues across Hong Kong.
 
 ### Program
 
-The week pairs the FinTech Week conference with the StartmeupHK Festival, covering digital assets, payments, tokenization, AI in finance and startup showcases across multiple stages and side events.
+The week pairs the FinTech Week conference with the StartmeupHK Festival, covering AI, fintech, web3, insurtech, greentech, healthtech, startups, and ventures. Government speakers from Hong Kong join industry speakers on stage, with dedicated tracks and a Global Fast Track program for startups. Register interest early - save up to US$150 with the early bird offer.
 
 ### Who attends
 
-The event is presented with FintechHK and Startmeup.hk alongside Finoverse, with participation from the HKMA, SFC and Insurance Authority - drawing founders, investors, banks, regulators and technology providers from across Asia and beyond.
+Asia's flagship fintech and technology conference brings together banking executives, VCs, founders, regulators and tech-savvy professionals.
 
 <a id="event-bf253049734d9657"></a>
 
@@ -4262,7 +4365,15 @@ An organizer description has not been verified for this record. Any previous cop
 
 ### About the event
 
-Bitcoin Korea Conference in Seoul led by Community, South Korea. Two days of Bitcoin education, workshop, lightning market, and community building
+Bitcoin Korea Conference in Seoul, South Korea. Two days of Bitcoin education, workshops, a lightning market, and community building, running November 7-8, 2026 at COEX.
+
+### Program
+
+Sessions cover practical ground including crypto asset taxes in 2026 and tax-saving strategies for stacking sats, alongside workshops and community programming. An intimate VIP dinner gathers ticket holders, speakers, and partners on the eve of the conference, and Day 1 winds down at the official after party, open to all networking-party ticket holders.
+
+### Venue
+
+The main stage sits at COEX, 513 Yeongdong-daero, Gangnam-gu, Seoul - billed as Korea's largest BTC conference main stage.
 
 <a id="event-82f19ec43036aab3"></a>
 
@@ -4997,7 +5108,15 @@ Engage with regulators and industry titans to lead the institutional adoption of
 
 ### About the event
 
-PlanX is Dubai's growth conference for founders, operators and investors scaling to 7 figures and beyond. Two days to learn faster, meet better people and grow your business - November 25, 2026 at Grand Hyatt Dubai, with a focused agenda built for outcomes.
+PlanX is Dubai's growth conference for founders, operators and investors scaling to 7 figures and beyond - join over 2,000 founders in Dubai. Two days to learn faster, meet better people and grow your business - November 25, 2026 at Grand Hyatt Dubai, with a focused agenda built for outcomes.
+
+### Program
+
+PlanX brings ambitious founders, business owners, operators and investors together for 48 hours of practical learning and high-value networking. Four tracks of tactical keynotes on growth, leverage, network, and future from operators who have done it - every session closes with one specific move to implement. Sessions cover winning customers with AI, smarter marketing, better positioning, and practical systems that grow revenue, plus why startups stall between product-market fit and real scale.
+
+### Who attends
+
+Founders, operators and investors ready to scale - visionaries in the room for real stories and real lessons.
 
 <a id="event-cbe7ae71ad5f4a31"></a>
 
@@ -5011,7 +5130,15 @@ PlanX is Dubai's growth conference for founders, operators and investors scaling
 
 ### About the event
 
-The global tokenization and blockchain congress, taking place 25-26 November 2026 in Barcelona. (Rendered in English from the organizer's official Spanish copy.)
+The global tokenization and blockchain congress, taking place 25-26 November 2026 in Barcelona - the premier global gathering for blockchain innovators, investors, and thought leaders shaping the future of digital assets and tokenization. (Rendered in English from the organizer's official Spanish copy.)
+
+### Program
+
+Sessions run across both days, November 25 (from 9:00) to November 26, with the agenda published on the organizer's program page. The congress is organized by the World Token Congress team (contact through worldtokencongress.com) and publishes in both Spanish and English.
+
+Day one opens November 25 at 9:00, with programming continuing through November 26.
+
+Organizer contact runs through worldtokencongress.com.
 
 <a id="event-c8701368fa2d4239"></a>
 
@@ -5025,25 +5152,15 @@ The global tokenization and blockchain congress, taking place 25-26 November 202
 
 ### Pioneering the Future of Prediction Markets in Africa
 
-The Africa Prediction Markets Summit brings together thought leaders, technologists, policymakers, and innovators to explore how prediction markets can drive economic growth, improve decision-making, and create new opportunities across the continent.
+The Africa Prediction Markets Summit brings together thought leaders, technologists, policymakers, and innovators to explore how prediction markets can drive economic growth across Africa. Join us in Cape Town on November 26, 2026 - a vibrant hub of innovation - with state-of-the-art facilities and easy access to the city's best hotels and attractions.
 
-From forecasting to risk management, discover how prediction markets are transforming industries and empowering communities throughout Africa.
+### Program
 
-### Networking
+A full day of keynotes, panels, workshops, and networking, including a Builder Workshop foundations track on how prediction markets work: core concepts, mechanics, and real-world applications.
 
-Connect with industry pioneers and innovators
+### Tickets
 
-### Insights
-
-Learn from market leaders and experts
-
-### Workshops
-
-Hands-on sessions and practical training
-
-### Cape Town
-
-World-class venue in a stunning location
+Your ticket includes access to all keynotes, panels, and workshops, networking events, meals and refreshments, and conference materials. VIP tickets include additional exclusive sessions and networking opportunities. Partner hotels near the venue offer special rates for attendees.
 
 <a id="event-f9842414b1d3da51"></a>
 
@@ -5057,7 +5174,15 @@ World-class venue in a stunning location
 
 ### About the event
 
-The Global Blockchain Show Abu Dhabi 2026 is where blockchain stops being speculation and becomes financial infrastructure. Two days for exchange operators, protocol founders, institutional investors, tokenization teams and regulators - covering DeFi and tokenized real-world assets, stablecoins, custody and Web3 infrastructure.
+The Global Blockchain Show Abu Dhabi 2026 is where blockchain stops being speculation and becomes financial infrastructure. Two days, November 26-27, 2026, for exchange operators, protocol founders, institutional investors, tokenization teams and regulators - covering DeFi and tokenized real-world assets, stablecoins, custody and Web3 infrastructure.
+
+### Program
+
+Two days across every layer of the blockchain stack: on-stage sessions, on-app networking, on-screen coverage and side-rooms. Understand the role of decentralized finance in creating secure, scalable, and resilient payment networks, and welcome the builders economy. The 2026 speaker lineup is published on the official site, and past series sponsors span the industry's biggest names.
+
+### Tickets
+
+Book your pass - the VIP Pass is listed at US$399. Get the complete two-day programme, speakers, sessions, side-rooms and the Palace afterparty bill sent to your inbox.
 
 <a id="event-c1053a9caacfabc8"></a>
 
@@ -5320,7 +5445,17 @@ An organizer description has not been verified for this record. Any previous cop
 
 ### About the event
 
-Connect with 5000+ traders, elite speakers, and industry leaders at the Global Trading Show. Explore the future of trading. Register now!
+Connect with 5000+ traders, elite speakers, and industry leaders at the Global Trading Show. Explore the future of trading, December 15-16, 2026 in Abu Dhabi.
+
+### Program
+
+A premier multi-asset trading expo spanning forex, crypto, equities, AI trading, DeFi, and prediction markets. Passes suit every level of participation, with a trading experience floor plan, monthly insider updates, speaker reveals, agenda drops, and sponsor news.
+
+### Tickets
+
+Book your Global Trading Show tickets and explore the floor plan through the official tickets page to connect with investors, fintech leaders, traders, and innovators. The VIP Pass is listed at US$699.
+
+The event runs December 15-16, 2026 in Abu Dhabi.
 
 <a id="event-2e48a53a0f4ca41f"></a>
 
@@ -5468,7 +5603,17 @@ The venue address: 1 Boulevard de la Croisette 06400 Cannes France
 
 ### About the event
 
-TOKEN2049 Dubai brings together the global Web3 industry - entrepreneurs, investors, developers, industry insiders and global media - creating unparalleled networking opportunities. The 2027 edition takes over Madinat Jumeirah, April 21-22, with an immersive indoor-outdoor experience and signature Arabian hospitality. As Binance's Changpeng Zhao puts it: 'This is the single conference where everybody comes together.'
+TOKEN2049 Dubai brings together the global Web3 industry - entrepreneurs, investors, developers, industry insiders and global media - creating unparalleled networking opportunities. The 2027 edition takes over Madinat Jumeirah, April 21-22.
+
+### Scale
+
+TOKEN2049 Dubai will bring together 15,000 attendees from 4,000+ companies and 160+ countries for a buzzing two-day main event.
+
+### Speakers
+
+Leading voices on crypto's biggest stage include Pavel Durov, Shayne Coplan, and more to be announced on the official speakers page.
+
+The 2027 edition takes over Madinat Jumeirah with an immersive indoor-outdoor experience and signature Arabian hospitality. As Binance's Changpeng Zhao puts it: 'This is the single conference where everybody comes together.'
 
 <a id="event-a789ceddb778530b"></a>
 
@@ -5524,7 +5669,15 @@ An organizer description has not been verified for this record. Any previous cop
 
 ### About the event
 
-Two focused days connecting banks, asset managers, regulators, investors, exchanges, infrastructure providers and technology leaders from across Europe. VBW27 takes place June 2-3, 2027 in Vienna - meet the banks, asset managers, regulators and digital asset decision makers shaping the region.
+Two focused days connecting banks, asset managers, regulators, investors, exchanges, infrastructure providers and technology leaders from across Europe. VBW27 takes place June 2-3, 2027 in Vienna - Austria's largest institutional digital assets and AI conference, where the ecosystem meets.
+
+### Program
+
+Two days for the people that matter: six themes spanning institutional digital assets and AI, with the questions VBW27 is built around, leaders shaping digital assets in Europe, meetings, roundtables and selected networking formats through VBW Connect. A private evening format serves speakers, partners and selected guests. VBW26 numbers set the baseline for the 2027 edition.
+
+### Access
+
+Connect with relevant attendees and schedule meetings before the conference. Institutional access and brand packages put sponsors in front of Europe's digital asset leaders.
 
 <a id="event-f15fa38a50dfad4a"></a>
 
@@ -6674,6 +6827,10 @@ R25와 xCrypton이 코리아 블록체인 위크(KBW) 기간인 2026년 9월 28�
 국내 디지털 자산 및 토큰증권(ST) 관련 프레임워크가 본격적으로 가시화됨에 따라, 국내 주요 금융기관과 대기업들은 전략적 전환점을 맞이하고 있습니다. 이미 글로벌 시장에서는 국채, 공사채, 주식, 구조화 채권 등 전통 자산의 토큰화 분야에서 비약적인 진전을 이루어냈습니다. 본 프라이빗 브리핑은 경영진 의사결정권자분들께 이러한 해외 실무 사례에 대한 실행 가능한 인사이트를 제공하는 한편, 온체인 담보화와 파생상품 생태계의 연계가 어떻게 새로운 금융 시장을 창출할 수 있는지 함께 모색하기 위해 기획되었습니다.
 
 문의처: 정승환, R25, VP Global Business Development (010-4039-0563)
+
+### Event details
+
+Hosted by Sean Chung, Jonathan Kim (Founder of xCrypton), R25 (R25 is the on-chain vault infrastructure for the next generation of finance. A platform where diverse strategies meet cutting-edge blockchai), JCLTD. The event takes place on September 28. Registration requires organizer approval.
 
 <a id="event-c22cceca924dd94a"></a>
 
@@ -11281,17 +11438,11 @@ Previous editions of the Hack Seasons Events:
 
 ### About the event
 
-If you would like to register, please click here (https://event-us.kr/futuracanvas2026/event/131586) to go to the registration page.
+If you would like to register, please click here to go to the registration page. Website: https://www.futuracanvas.com Instagram: https://www.instagram.com/futuracanvas.con X: https://twitter.com/FuturaCanvas LinkedIn: https://www.linkedin.com/showcase/futuracanvas Youtube: https://youtube.com/@FuturaCanvas
 
-Website: https://www.futuracanvas.com
+### Event details
 
-Instagram: https://www.instagram.com/futuracanvas.con
-
-X: https://twitter.com/FuturaCanvas
-
-LinkedIn: https://www.linkedin.com/showcase/futuracanvas
-
-Youtube: https://youtube.com/@FuturaCanvas
+Hosted by FuturaCanvas (Korea's first global art&tech conference). Venue: Platform-L Contemporary Art Center, 11 Eonju-ro 133-gil, Gangnam District, Seoul, South Korea. The event takes place on October 1.
 
 <a id="event-a6a555d8dee44c19"></a>
 
@@ -12543,21 +12694,15 @@ You're invited to a private dinner hosted by Shard during Korea Blockchain Week.
 
 An intimate gathering for a select group of investors, partners, and close friends - bringing together a small circle for meaningful conversations, good food, and new connections away from the usual KBW crowds.
 
-### Event Details
-
-Date: October 1
-
-Time: 7:00 PM - 10:00 PM
-
-Location: South Korea
+Event DetailsDate: October 1Time: 7:00 PM - 10:00 PMLocation: South Korea
 
 By invitation only.
 
-We'd be glad to have you join us for the evening.
+We'd be glad to have you join us for the evening.About the hosts:ShardDXB: A web3 marketing powerhouse from narrative, mindshare building to KOL marketing. From APAC to International market.
 
-### About the hosts
+### Event details
 
-ShardDXB (https://x.com/ShardDXB?utm_source=luma): A web3 marketing powerhouse from narrative, mindshare building to KOL marketing. From APAC to International market.
+Hosted by Sharding Capital. The event takes place on October 1. Registration requires organizer approval.
 
 <a id="event-284ec928dbd9edd5"></a>
 
@@ -12670,12 +12815,15 @@ With backing from partners such as Binance, OKX, Bitget, Bybit, WLFI, and Polygo
 
 ### About the event
 
-2026. 9. 28. 10am(KST) Monaco Space(B1F), Seoul, South Korea
-2026. 10. 1. 10:30am(KST) Théâtre des Lumières(B1F), Walkerhill Hotel, Seoul, South Korea
+SECURE CRYPTO-ASSET NETWORK 2026 (SCAN) - the world's first digital asset tracing challenge, an official event of KBW2026.
 
-### The Room Where It Matters
+### Format
 
-A look back at the teams, talks, and award moments from the previous SCAN event.
+An online qualifier ran August 2, 2026, with the top 20 teams advancing to the final: October 1, 2026, 10am KST at Théâtre des Lumières (B1F), Walkerhill Hotel, Seoul. Finalists include 0xfun, Tornado Cats, DeFiHackLabs, 1NF1N1TY, CertiScan and more, with team interviews published in the lead-up.
+
+### Prizes
+
+2 BTC total prize pool: 1.000 BTC for first place, 0.500 for second, 0.150 for third, plus payouts down the table. A CTF partner supports the competition, and SCAN has been featured by leading media outlets worldwide.
 
 <a id="event-fd5fe4bd17a9f55c"></a>
 
@@ -13353,22 +13501,23 @@ Two lucky draws will be held for guests during the event. Prizes and how to ente
 - Description: Source-backed
 - Original page: <https://luma.com/wm5ub5wk>
 
-### [Free Ticket Event - Luma RSVP]
+### About the event
 
-Win a free XRP Seoul 2026 Pass (worth $74.99).
+[Free Ticket Event - Luma RSVP]
 
-Follow @XRPSEOUL (https://x.com/XRPSEOUL) on X, Quote Tweet our post, and RSVP here to enter. Winners will be selected by random draw.
+Win a free XRP Seoul 2026 Pass (worth $74.99).Follow @XRPSEOUL on X, Quote Tweet our post, and RSVP here to enter. Winners will be selected by random draw.
 
-Oct 3, 2026 | Grand Hyatt Seoul
-
-10:00 - Booth Opening
-
-12:00 - Conference Start
+Oct 3, 2026 | Grand Hyatt Seoul 10:00 - Booth Opening 12:00 - Conference Start
 
 XRP Seoul 2026 is Asia's largest XRP conference, held during Korea Blockchain Week with Ripple as title sponsor. Last year drew 3,000+ participants from 40+ countries to Seoul, one of the world's fastest-growing markets.
 
-- Website: xrp-seoul.com (https://xrp-seoul.com)
-- Official X: x.com/XRPSEOUL (https://x.com/XRPSEOUL)
+Website: xrp-seoul.com
+
+Official X: x.com/XRPSEOUL
+
+### Event details
+
+Venue: Grand Hyatt Seoul, Seoul. Organized by XRPL Korea. The event takes place on October 3. Registration requires organizer approval.
 
 <a id="event-29bf4624492b934c"></a>
 
@@ -13473,6 +13622,12 @@ Venue: JJ Mahoney's, Grand Hyatt Seoul
 
 Location: B2, Grand Hyatt Seoul, 322 Sowol-ro, Yongsan-gu, Seoul, Republic of Korea
 
+### Event details
+
+Hosted by XRPL Korea (xrplkorea.org). Venue: JJ Mahoney's, 322 Sowol-ro, 한남동 Yongsan District, Seoul, South Korea. The event takes place on October 3. Registration requires organizer approval.
+
+Doors open at 6:30 PM local time.
+
 <a id="event-b419073f2c9c4e97"></a>
 
 ## MIP-20: Road to Devcon
@@ -13483,7 +13638,9 @@ Location: B2, Grand Hyatt Seoul, 322 Sowol-ro, Yongsan-gu, Seoul, Republic of Ko
 - Description: Source-backed
 - Original page: <https://luma.com/ndrr1yqe>
 
-### Welcome to MIP-20
+### About the event
+
+Welcome to MIP-20
 
 Presenting a new format of MIP for the Road to Devcon.
 
@@ -13493,9 +13650,11 @@ Devcon is an Ethereum conference for developers, researchers, thinkers, and make
 
 Coming soon...
 
-Follow ETHMumbai on: X (https://x.com/ethmumbai) | Telegram (https://t.me/ethmumbai)
+Follow ETHMumbai on: X | TelegramFollow Devcon on: X | Telegram
 
-Follow Devcon on: X (https://x.com/EFDevcon) | Telegram (https://t.me/+sitvvHw8D8EzN2Yx)
+### Event details
+
+Hosted by ETHMumbai. The event takes place on October 24. Registration requires organizer approval.
 
 <a id="event-06e588b1577083a5"></a>
 
@@ -13532,7 +13691,15 @@ Hashed Emergent hosts the VIP night and the IBW2026 Conference, which runs on 1-
 
 ### About the event
 
-India's invite-only, closed-door institutional blockchain forum, held under the Chatham House Rule.
+The IBW Institutional Forum 2026 - India's only invite-only, closed-door room where traditional finance meets blockchain. 1-2 November 2026 at Fairmont Mumbai, hosted by Hashed Emergent.
+
+### Format
+
+One closed-door room for the whole conversation, held under the Chatham House Rule. Participation is limited to selected applicants, with every attendee carefully reviewed to ensure the right mix of expertise. A decade in the making, the forum gathers a curated cross-section of the ecosystem.
+
+### Agenda
+
+Sessions get into conditional disbursements, offline payments, and a programmable rupee moving from pilot to production, carrying the calibre IBW has convened across three editions - from Ethereum, Polygon and Coinbase to the Government of India.
 
 <a id="event-fa9a110e7eaea130"></a>
 
@@ -14195,6 +14362,10 @@ No stages. No speeches. No networking session disguised as a party.
 Just good house music, drinks and a bunch of people from the crypto world in one place.
 
 21+ only :*
+
+### Event details
+
+Hosted by Jatin Kaul (Head of Web3 Sales at Karate Combat), Deepesh Sugnani (Ex: Hashed | IBW2025). Venue: Mumbai, Maharashtra, India. The event takes place on November 4. Registration requires organizer approval.
 
 <a id="event-38ade2d577e1f1bb"></a>
 
@@ -15454,7 +15625,9 @@ If you'd like to explore more, check us out on:
 - Description: Source-backed
 - Original page: <https://luma.com/zd0c5ys7>
 
-### Welcome to MIP-19
+### About the event
+
+Welcome to MIP-19
 
 Presenting a new format of MIP for the Road to Devcon, this time along with ETHGlobal.
 
@@ -15462,27 +15635,23 @@ Devcon is an Ethereum conference for developers, researchers, thinkers, and make
 
 ### Agenda
 
-Coming soon...
+12 PM: Doors open
 
-Follow ETHMumbai on: X (https://x.com/ethmumbai) | Telegram (https://t.me/ethmumbai)
+12:20 PM: Devcon 8
 
-Follow ETHGlobal on: X (https://x.com/ethglobal) | Discord (https://ethglobal.com/discord)
+Get all the latest updates of Devcon 8 India, the largest gathering for Ethereum, happening from 3 - 6 Nov 2026.
 
-Follow Devcon on: X (https://x.com/EFDevcon) | Telegram (https://t.me/+sitvvHw8D8EzN2Yx)
+12:40 PM: ETHGlobal Mumbai
 
-<a id="event-53c71f44ccc1730f"></a>
+Learn about the schedule, format, tracks, and prizes for the ETHGlobal Mumbai hackathon, happening from 5 - 7 Nov 2026.
 
-## Road to DevCon 8 India: Hyderabad x Kramer's Community
+1 PM: Networking
 
-- Record: `india-luma-re7jdneq`
-- Source: [india-luma-events.json](sources/india-luma-events.json)
-- Starts: 2026-09-26T09:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/re7jdneq>
+Tea / Coffee will provided to everyone at the venue.
 
-### About the event
+2 PM: Doors close
 
-Road to Devcon 8 meetup in Hyderabad with Kramer's Community - builders jam on product design and meet fellow Ethereum tinkerers ahead of Devcon.
+Follow ETHMumbai on: X | TelegramFollow ETHGlobal on: X | DiscordFollow Devcon on: X | Telegram
 
 <a id="event-52bfcd001ea6bee8"></a>
 
@@ -15644,20 +15813,6 @@ X (https://x.com/infini3_) | Telegram (https://t.me/goinfini3) | Instagram (http
 
 28° North is a boutique strategic advisory firm for early-stage Web3 and AI startups, working on scope-based mandates across positioning, product, growth, community, and fundraising. It operates with an operator-first, KRA-driven approach - practical strategy built to execute, not just present. Infini3 is its events and media arm, extending that same structured, outcome-focused thinking into community-building and content formats.
 
-<a id="event-2058d1e4a46f5b0d"></a>
-
-## Road to Devcon VIII India - PUNE Final Edition
-
-- Record: `india-luma-3qtj8ogp`
-- Source: [india-luma-events.json](sources/india-luma-events.json)
-- Starts: 2026-10-10T05:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/3qtj8ogp>
-
-### About the event
-
-Coming Soon.
-
 <a id="event-c1fb17a2fa87b8cb"></a>
 
 ## Ready for the Run @ Jaipur
@@ -15790,7 +15945,9 @@ X (https://x.com/infini3_) | Telegram (https://t.me/goinfini3) | Instagram (http
 - Description: Source-backed
 - Original page: <https://luma.com/ndrr1yqe>
 
-### Welcome to MIP-20
+### About the event
+
+Welcome to MIP-20
 
 Presenting a new format of MIP for the Road to Devcon.
 
@@ -15800,9 +15957,11 @@ Devcon is an Ethereum conference for developers, researchers, thinkers, and make
 
 Coming soon...
 
-Follow ETHMumbai on: X (https://x.com/ethmumbai) | Telegram (https://t.me/ethmumbai)
+Follow ETHMumbai on: X | TelegramFollow Devcon on: X | Telegram
 
-Follow Devcon on: X (https://x.com/EFDevcon) | Telegram (https://t.me/+sitvvHw8D8EzN2Yx)
+### Event details
+
+Hosted by ETHMumbai. The event takes place on October 24. Registration requires organizer approval.
 
 <a id="event-581a2298f97e9118"></a>
 
@@ -20401,20 +20560,6 @@ How blockchain infrastructure is transforming FX markets, settlement, and liquid
 
 Hosted by the UK chapter of the Digital Assets Association (https://digitalassetsassociation.org/), a global non-profit association founded in Singapore in 2023, advancing institutional engagement with blockchain and real-world asset tokenisation, with 150+ members globally. Co-hosted by Komainu (https://komainu.com/).
 
-<a id="event-e3b55288653f1034"></a>
-
-## Redefining Influence, Accelerating Action: Co-Creating Africa and The Caribbean’s Next Chapter for the SDGs.
-
-- Record: `luma-crypto-nQcoeJRArxAyFvy`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-22T20:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/ua0i7a2x>
-
-### About the event
-
-Find climate events from major conferences to local gatherings. Learn about deep tech, discuss climate policies, and join an hour of action.
-
 <a id="event-835918f6e3094dba"></a>
 
 ## The Superpollutant Happy Hour
@@ -20434,6 +20579,12 @@ Beyond their significant near-term climate impact, superpollutant reductions can
 Drinks, bites, and great company included
 
 Attendance is limited and registration is required.
+
+### Event details
+
+Hosted by Ashton Moody, kate martin, Annika Langbein, Donna Lee (CEO, Calyx Global). The event takes place on September 22. Registration requires organizer approval.
+
+Doors open at 5:00 PM local time.
 
 <a id="event-90d781cc8ab4603e"></a>
 
@@ -20523,9 +20674,11 @@ If you've been experimenting with Codex already, come swap ideas. If you haven't
 
 ### About the event
 
-"my teenager smells like a ferret" was our personal favourite quote of the first Yolodex Growth Leaders breakfast.
+"my teenager smells like a ferret" was our personal favourite quote of the first Yolodex Growth Leaders breakfast. Yolodex and SOAR are assembling 10 of London's top consumer growth leaders at Dishoom to discuss what's really driving growth in 2026 as part of a new monthly series.
 
-Yolodex and SOAR are assembling 10 of London's top consumer growth leaders at Dishoom to discuss what's really driving growth in 2026 as part of a new monthly series.
+### Event details
+
+Hosted by Zaeem Bhanji, Olly Hudson. The event takes place on September 23. Registration requires organizer approval.
 
 <a id="event-b2782b4cdd0c5030"></a>
 
@@ -20541,11 +20694,13 @@ Yolodex and SOAR are assembling 10 of London's top consumer growth leaders at Di
 
 Given the success of our NYCW Superpollutant Breakfast last year, we are bringing it back for another round! Learn how the market has changed over the past year, what is new, and how to find high-quality credits. The event will be held ahead of Beyond's Superpollutant Action Summit, allowing attendees to attend the opening plenary right after.
 
-This event is for buyers only.
-
-With many thanks to Saleforce for their generous support sponsoring this event.
+This event is for buyers only.With many thanks to Saleforce for their generous support sponsoring this event.
 
 Please note space is limited, so registration is subject to confirmation. We'll be in touch to confirm your spot.
+
+### Event details
+
+Hosted by Calyx Global (Calyx Global is the trusted carbon credit ratings platform that helps organizations buy and invest in carbon credits with confidence.), Beyond Alliance. The event takes place on September 23. Registration requires organizer approval.
 
 <a id="event-7d3d38f9c281f266"></a>
 
@@ -20779,6 +20934,10 @@ Swing by after the expo.
 
 Gorgias, Loop and Rebuy are hosting an afterparty at Just Golf Greenwich Peninsula: 25 exclusive bays, TopTracer golf games for all levels, food and drinks, just across the river from ExCeL.
 
+### Event details
+
+Hosted by Theo Burns, Hannah, Valeria Granda, Hannah Callaghan, Alex Dale. Venue: Greenwich Peninsula Golf Range - JUST GOLF, 265 Tunnel Ave, London SE10 0QE, UK. The event takes place on September 23. Registration requires organizer approval.
+
 <a id="event-1193aa56add43e8f"></a>
 
 ## Banking: From Boring to Climate Superpower
@@ -20825,6 +20984,10 @@ Holidays are over. Kids are back to school. But the universe of AI has been busy
 Suits all types and experience. Come along you'll have a great time. We have absolute AI beginners and we have expert AI builders and AI industry insiders. No set talks or presentations for the social, it's free flowing.
 
 All are welcome to join our merry throng down the pub.
+
+### Event details
+
+Hosted by Terry Lurie. Venue: The Flying Horse, 52 Wilson St, London EC2A 2ER, UK. The event takes place on September 23. Registration requires organizer approval.
 
 <a id="event-6a6ab98e621d9f9f"></a>
 
@@ -21172,6 +21335,10 @@ You'll get access to K2 Horizon API credits, support throughout the hackathon, a
 
 Come with an idea or start from scratch, just be ready to build, experiment, and have fun.
 
+Doors open at 3:00 PM local time.
+
+Entry is free.
+
 <a id="event-3dcf38ff06c123ca"></a>
 
 ## Hyperliquid Dubai \| Community Meetup
@@ -21193,6 +21360,10 @@ A lot has happened since last meetup. $HYPE printed a few ATHs, Trump mentioned 
 Whether you're a HYPE maxi or just curious to learn more, this is a good chance to connect with builders and the local community.
 
 Food and drinks available for purchase at the venue.
+
+### Event details
+
+Hosted by LetMeDo (Co-founder HL/MEDIA.), Wasim Fukase, Kanishk Khurana. The event takes place on September 25. Registration requires organizer approval.
 
 <a id="event-808bd3843a9eaefb"></a>
 
@@ -21479,6 +21650,10 @@ The Solana Capital Forum is a curated executive gathering that brings together l
 Designed as a private forum for the world's leading allocators, investors, operators, policymakers, and infrastructure providers, the event sits at the intersection of institutional capital, private capital, and financial innovation. Discussions will focus on how tokenized assets, stablecoins, and internet-native financial infrastructure are reshaping global capital markets.
 
 Attendance is intentionally limited to a carefully selected group to foster meaningful conversations, high-quality networking, and strategic collaboration.
+
+### Event details
+
+Hosted by Solana Foundation. The event takes place on September 28. Registration requires organizer approval.
 
 <a id="event-079523ff3cc633b5"></a>
 
@@ -22838,6 +23013,10 @@ Come talk about it over drinks. Join NEAR for a relaxed evening with the builder
 
 Spots are limited, RSVP to secure yours.
 
+### Event details
+
+Hosted by NEAR Foundation (NEAR Protocol is a fully sharded blockchain built for mainstream adoption. Performant, scalable, and secure, NEAR is the blockchain for AI,). The event takes place on October 6. Registration requires organizer approval.
+
 <a id="event-87919192f720321b"></a>
 
 ## Digital Assets Skyline
@@ -22989,17 +23168,9 @@ Join Codex and Infinite for an evening of drinks, conversation, and candid takes
 
 We're bringing together builders, PSPs, remittance companies, and exchanges for fireside chats on Stablecoins. Followed by open bar, canapés, and good company.
 
-The details:
+The details:7:30 PM - Doors open, cocktail reception8:15 PM - Welcome remarks8.30 PM - Panel sessions10:30 PM - Last call
 
-7:30 PM - Doors open, cocktail reception
-
-8:15 PM - Welcome remarks
-
-8.30 PM - Panel sessions
-
-10:30 PM - Last call
-
-Registration is approval-based.
+Registration is approval-based.About CodexCodex FX is the stablecoin-native FX platform for moving money across borders. The platform enables businesses to convert, receive, and pay with fiat and stablecoins at institutional rates, 24/7/365, making global payments faster and more efficient.Founded in 2024, the company is backed by investors including Dragonfly, Coinbase Ventures, Circle Ventures, Wintermute, and Cumberland.
 
 <a id="event-ce405a9b0b16b488"></a>
 
@@ -23013,11 +23184,13 @@ Registration is approval-based.
 
 ### About the event
 
-Blockworks' Digital Asset Summit (DAS) is headed to Singapore this October 7th, 2026. DAS is crypto's premier institutional event.
-
-Stablecoins, tokenization, onchain infrastructure, and AI are rapidly reshaping the global financial system. DAS Asia will bring together the leading institutional leaders, allocators, builders, and policy makers from Asia, North America, and other key financial centers to discuss how the next chapter of global finance will be written.
+Blockworks' Digital Asset Summit (DAS) is headed to Singapore this October 7th, 2026. DAS is crypto's premier institutional event.Stablecoins, tokenization, onchain infrastructure, and AI are rapidly reshaping the global financial system. DAS Asia will bring together the leading institutional leaders, allocators, builders, and policy makers from Asia, North America, and other key financial centers to discuss how the next chapter of global finance will be written.
 
 If you have any questions, please reach out to registration@blockworks.co
+
+### Event details
+
+Hosted by Carolyn Wyatt. Ticket options include General Admission at US$799, VIP at US$1599, Blockworks Research at US$399, Allocator (free). Venue: Marina Bay Sands Singapore, 10 Bayfront Ave, Singapore 018956. The event takes place on October 6. Registration requires organizer approval.
 
 <a id="event-219b50c5d0fab507"></a>
 
@@ -23111,7 +23284,47 @@ Optimism is a leading Ethereum scaling ecosystem helping developers and enterpri
 
 ### About the event
 
-A TOKEN2049 Week side event from CDD JAP and AWS on AI, Web3, and stablecoin infrastructure for the new internet economy, October 7, 7:00 to 10:00 AM UTC in Singapore. See the official event page for the venue and registration.
+TOKEN2049 Singapore Side Event | Oct 7 AI × Web3 × Stablecoin: Infrastructure For The New Internet Economy
+
+Co‑hosted by CDD JAP, Draper Dragon, Draper University, CAI, Star Consulting & AWS.
+
+Hear insights from 15 leading frontier capitals + 15 top entrepreneurial teams across two core thematic panels：
+
+Refactoring the Financial Stack - AI Agents, Stablecoins & Payment
+
+From Singapore to Hong Kong: Global Implementation of Agentic Commerce
+
+If you are passionate about Token Economy & Agentic Commerce, come join us! Exchange cutting‑edge insights and seize collaborative growth opportunities together.
+
+Register now：https://luma.com/hdb1pfca
+
+Meet these standout project teams onsite
+
+Skalor - The agentic clearing house
+
+AllScale - Self‑Custody Neobank for Global Businesses
+
+FizzDragon - World's first end‑to‑end AIGC platform for theatrical‑grade short‑form content
+
+TadaPay - Merchant layer for agents payments across protocols
+
+VoidChain - Privacy environment for blockchain, core intelligence for vacuum network & native IoT security
+
+Sundial - Unlocking real‑world utility for Bitcoin
+
+FPPS.AI - Rebuilding professional services firms from first principles
+
+Miuro - First AI‑native music creation & value circulation network
+
+EQR - Next‑generation global fintech platform
+
+Xverse - Sovereign Onchain Bank & Bitcoin Wallet
+
+Yomirgo - AI MEGA plant powering next‑gen AI agents
+
+RWA.ltd - The world's first & only Non‑financial RWA Marketplace
+
+BlackPeal - Pay. Earn. Trade. Agent‑ready
 
 <a id="event-d2e9e334305bad65"></a>
 
@@ -26931,9 +27144,7 @@ Join Lhava and Fenwick for an exclusive rooftop happy hour as we celebrate the e
 
 ### Event details
 
-Hosted by Fenwick, Briton. Venue: Broken Shaker, Broken Shaker, 23 Lexington Ave 18th Floor, New York, NY 10010, USA. Tickets: Free. Registration requires organizer approval.
-
-The event takes place on September 24.
+Hosted by Fenwick, Briton. Venue: Broken Shaker, 23 Lexington Ave 18th Floor, New York, NY 10010, USA. The event takes place on September 24. Registration requires organizer approval.
 
 <a id="event-565bdd4d7bbf3c6f"></a>
 
@@ -29031,9 +29242,7 @@ Space is limited. Please register to attend.
 
 ### Event details
 
-Hosted by Solana Foundation. Venue: Fort Mason, San Francisco, California, United States. Tickets: Free. Registration requires organizer approval.
-
-The event takes place on September 29.
+Hosted by Solana Foundation. The event takes place on September 29. Registration requires organizer approval.
 
 <a id="event-03dcb86274ecac29"></a>
 
@@ -29133,13 +29342,9 @@ Connect with leaders across digital assets, financial services, blockchain, and 
 
 We look forward to bringing together members of our community for a great evening in New York.
 
-### Hosts
-
-Hosted by Paige Connor (Head of Marketing).
-
 ### Event details
 
-The event takes place on September 29. Venue: Midtown Manhattan, New York, New York, United States.
+Hosted by Paige Connor (Head of Marketing). The event takes place on September 29. Registration requires organizer approval.
 
 <a id="event-1db3e28d20c81008"></a>
 
@@ -29699,6 +29904,10 @@ Hey! Get ready to dive into the world of Solana with our Community Call happenin
 
 Join us on Discord for 30 minutes packed with insights, advice, and all things Superteam Canada.Got questions? Bring 'em on! Want to get more involved? This is your chance! Can't wait to see you there!
 
+### Event details
+
+Organized by Superteam Canada. The event takes place on October 1.
+
 <a id="event-9a58305b610dc6d7"></a>
 
 ## AWIC NYC Social Event
@@ -29741,9 +29950,7 @@ Hosted by Meow: meow.com/crypto and Freeport Markets: freeportmarkets.com
 
 ### Event details
 
-Hosted by Matt Schkolnick, Dustin Kamali, Lihong Wang. Venue: SoHo, New York, New York, United States. Tickets: Free. Registration requires organizer approval.
-
-The event takes place on October 1.
+Hosted by Matt Schkolnick, Dustin Kamali, Lihong Wang. The event takes place on October 1. Registration requires organizer approval.
 
 <a id="event-c36f252386acd9c6"></a>
 
@@ -31167,9 +31374,7 @@ Whether you're building new connections or reconnecting with industry friends, w
 
 ### Event details
 
-Hosted by Adrian Rymill, Daniel Holmes, Elyse Quek, Jake Khorozian, Andy Ross, ico beast. Venue: Downtown Core, Singapore, Singapore. Tickets: Free. Registration requires organizer approval.
-
-The event takes place on October 5.
+Hosted by Adrian Rymill, Daniel Holmes, Elyse Quek, Jake Khorozian, Andy Ross, ico beast. The event takes place on October 5. Registration requires organizer approval.
 
 <a id="event-6efd6e20bc8069a0"></a>
 
@@ -31829,9 +32034,7 @@ This event is open to the general public and is not exclusive to Introduction.co
 
 ### Event details
 
-Hosted by Introduction.com, Jose Anaya | ZKsync, Sam Leichman. Venue: Rickhouse, Rickhouse, 246 Kearny St, San Francisco, CA 94108, USA. Tickets: Free.
-
-The event takes place on October 9.
+Hosted by Introduction.com (A private, invite-only network for founders, executives, and investors shaping the future with technology.), Jose Anaya | ZKsync, Sam Leichman. Venue: Rickhouse, 246 Kearny St, San Francisco, CA 94108, USA. The event takes place on October 9.
 
 <a id="event-273c910ff211b623"></a>
 
@@ -32451,9 +32654,7 @@ By invitation only - seats are limited. 🃏
 
 ### Event details
 
-Hosted by Matt Schkolnick, Matt O'Connor, Dustin Kamali. Venue: SoHo, New York, New York, United States. Tickets: Free. Registration requires organizer approval.
-
-The event takes place on October 13.
+Hosted by Matt Schkolnick, Matt O'Connor (Founder Legion.cc), Dustin Kamali. The event takes place on October 13. Registration requires organizer approval.
 
 <a id="event-e35f4682749aa5ea"></a>
 
@@ -32869,9 +33070,9 @@ https://x.com/islanddao
 
 https://www.youtube.com/@IslandDAO
 
-### Hosts
+### Event details
 
-Hosted by Takisoul, Superteam Brasil.
+Hosted by Takisoul, Superteam Brasil. The event takes place on October 19.
 
 <a id="event-adff9b2e7d307b4a"></a>
 
@@ -33291,6 +33492,10 @@ Hey! Get ready to dive into the world of Solana with our Community Call happenin
 
 Join us on Discord for 30 minutes packed with insights, advice, and all things Superteam Canada.Got questions? Bring 'em on! Want to get more involved? This is your chance! Can't wait to see you there!
 
+### Event details
+
+Organized by Superteam Canada. The event takes place on November 5.
+
 <a id="event-dbebf1c5328edd3d"></a>
 
 ## MONEY MAKER
@@ -33481,13 +33686,13 @@ Rayls is a blockchain ecosystem that bridges traditional finance with decentrali
 
 Register to secure your spot and we'll share the venue with you straight away.
 
-### Hosts
-
-Hosted by Rayls. (Bringing Finance Onchain.).
-
 ### Event details
 
-The event takes place on November 18. Venue: London, England, United Kingdom.
+Hosted by Rayls. (Bringing Finance Onchain.). The event takes place on November 18. Registration requires organizer approval.
+
+Doors open at 5:00 PM local time.
+
+Entry is free.
 
 <a id="event-6d2e782bf92b5838"></a>
 
@@ -36296,20 +36501,11 @@ By signing up, you agree that Superteam Canada can contact you about future even
 
 ### About the event
 
-Office hours for Superteam Members.
+Office hours for Superteam Members.Every Wednesday at 2:30pm UTC.Come rant and ask any questions regarding:- marketing support- grants and milestones- product feedback- pitch feedback- ecosystem intros- fundraising etc.Hosted by Josip Volarević
 
-Every Wednesday at 2:30pm UTC.
+### Event details
 
-Come rant and ask any questions regarding:
-
-- marketing support
-- grants and milestones
-- product feedback
-- pitch feedback
-- ecosystem intros
-- fundraising etc.
-
-Hosted by Josip Volarević
+Hosted by Josip Volarević (Technical founder), Superteam. The event takes place on September 23. Registration requires organizer approval.
 
 <a id="event-7445d04875c192d2"></a>
 
@@ -37261,13 +37457,17 @@ Bloom은 AI 얼리어답터를 위한 커뮤니티입니다. 4월부터 서른�
 - Description: Source-backed
 - Original page: <https://luma.com/blzswe27>
 
-### About Rayls
+### About the event
 
-https://www.rayls.com/?utm_source=luma
+More details to be shared soon.About Rayls
 
 Rayls is a blockchain ecosystem that bridges traditional finance with decentralized finance by providing a compliant, private, and scalable infrastructure for financial institutions. Its hybrid architecture combines permissioned private networks with an EVM-compatible public chain to facilitate use cases like asset tokenization, cross-border payments, and central bank digital currency settlement.
 
 Register to secure your spot and we'll share more details soon.
+
+### Event details
+
+Hosted by Rayls. (Bringing Finance Onchain.). The event takes place on September 28. Registration requires organizer approval.
 
 <a id="event-b74c167c23c6c3d8"></a>
 
@@ -37281,7 +37481,15 @@ Register to secure your spot and we'll share more details soon.
 
 ### About the event
 
-EastPoint:Seoul 2026 - Korea's premier private, invitation-only summit on digital assets, stablecoins, RWA tokenization, and the AI economy. Co-hosted by Hashed, Bloomingbit, and The Korea Economic Daily. September 28, 2026 at Westin Seoul Parnas.
+EastPoint: Seoul 2026 - Korea's premier private, invitation-only summit on digital assets, stablecoins, RWA tokenization, and the AI economy. Co-hosted by Hashed, Bloomingbit, and The Korea Economic Daily. September 28, 2026 at the Westin Seoul Parnas, 524 Bongeunsa-ro, Gangnam-gu.
+
+### Program
+
+2026 main themes span digital assets, stablecoins, RWA tokenization, and the AI economy, continuing the 2025 program with speakers, partners, and participating institutions. Every attendee is hand-selected for relevance - enterprises, institutions, visionary Web3 builders, forward-thinking policymakers, and top-tier media and thought leaders - creating a room where the right conversations happen.
+
+### Access
+
+The summit is reviewed by the host committee. Submit an application as an attendee, speaker, sponsor, or partner to join the closed-door room where Korea's institutions, regulators, and global partners meet. Hashed is an investment firm partnering with founders from the earliest moment across blockchain, AI, and content.
 
 <a id="event-4cf79ecc05813def"></a>
 
@@ -37916,6 +38124,12 @@ Located a quick walk from the Miami Beach Convention Center, Twisted Tonic offer
 
 Space is limited so RSVP and secure your spot today.
 
+### Event details
+
+Hosted by zerohash (Where Transactions Move At The Speed Of Ideas.). Venue: The Twisted Tonic - Rooftop Bar, 723 Lincoln Ln N Unit 107, Miami Beach, FL 33139, USA. The event takes place on September 29. Registration requires organizer approval.
+
+Doors open at 6:00 PM local time.
+
 <a id="event-9247e495e9bb180d"></a>
 
 ## Solana Summit Korea
@@ -38157,15 +38371,13 @@ https://luma.com/7obq3bf2
 
 Rayls will be in Seoul during Korea Blockchain Week, bringing together leaders across financial services, digital assets and onchain infrastructure.
 
-More details will be announced soon.
-
-Register now to receive priority access and be first to hear about what's planned.
-
-### About Rayls
-
-https://www.rayls.com/?utm_source=luma
+More details will be announced soon.Register now to receive priority access and be first to hear about what's planned.About Rayls
 
 Rayls is a blockchain ecosystem that bridges traditional finance with decentralized finance by providing a compliant, private, and scalable infrastructure for financial institutions. Its hybrid architecture combines permissioned private networks with an EVM-compatible public chain to facilitate use cases like asset tokenization, cross-border payments, and central bank digital currency settlement
+
+### Event details
+
+Hosted by Rayls. (Bringing Finance Onchain.). Venue: Seoul, South Korea. The event takes place on September 30. Registration requires organizer approval.
 
 <a id="event-c4b803e8d4bdbfc0"></a>
 
@@ -38925,7 +39137,11 @@ THE DEALFLOW SINGAPORE is set to begin a busy RWA WEEK and TOKEN2049 WEEK in Sin
 
 Interested in co-hosting/partnership? Reach out to us: ivan@uvecon.vc
 
-THE DEALFLOW is an event of SINGAPORE RWA WEEK (https://rwaweek.com/singapore).
+THE DEALFLOW is an event of SINGAPORE RWA WEEK.
+
+### Event details
+
+Hosted by UVECON.VC, Joao Raza. The event takes place on October 5. Registration requires organizer approval.
 
 <a id="event-0205a1d8cee89fda"></a>
 
@@ -39215,6 +39431,10 @@ Just good food, good people and candid conversations around digital asset market
 
 Attendance is limited and requests to join are reviewed.
 
+### Event details
+
+Hosted by Charles-Nicolas Gaubert-Amy, Alice Liu, Vigil (Growth @ GVRN.AI), Jiayi. The event takes place on October 5. Registration requires organizer approval.
+
 <a id="event-5db3a42cdc2afb4e"></a>
 
 ## Digital After Hours: Connecting Digital Assets, Trusts & Institutional Finance
@@ -39321,7 +39541,7 @@ Session 1 - 8pm to 11pm (https://luma.com/ra4c4h0t)
 
 ### About the event
 
-An intimate, invite-only dinner bringing together leading allocators, asset managers and infrastructure providers shaping the future of capital.
+An intimate, invite-only drinks bringing together leading allocators, asset managers and infrastructure providers shaping the future of capital.
 
 Hosted by MakeBanc, the evening is designed for high-quality conversation, meaningful introductions and candid discussion around performance, distribution, infrastructure and the evolving needs of sophisticated investors.
 
@@ -39329,7 +39549,15 @@ No panels.
 
 No pitches.
 
-Just the right people, around one table.
+Just the right people, coming together at a unique venue.
+
+### Event details
+
+Hosted by Chris Mihos | MakeBanc (Founder & CEO of makebanc.com), Alex Zonneveld | MakeBanc (Co-Founder & CPO @ MakeBanc). The event takes place on October 5. Registration requires organizer approval.
+
+Doors open at 7:30 PM local time.
+
+Entry is free.
 
 <a id="event-20aa0c1a41ecb4af"></a>
 
@@ -40962,6 +41190,10 @@ for all the friends i've made in this crazy, fun industry in the past 5 years - 
 
 singapore.
 
+### Event details
+
+Hosted by Kyle (gmeow). The event takes place on October 6. Registration requires organizer approval.
+
 <a id="event-a79a86dd68e8fb52"></a>
 
 ## Animoca Portfolio Day GTM in the Agentic Era @ Singapore 2026
@@ -42252,11 +42484,13 @@ Participation is subject to confirmation. Additional details will be provided to
 
 Join us on October 7th, 6:30-9:30 PM during TOKEN2049 Singapore for an evening reception with Anti Capital. Connect with leading projects, investors, and traders from across the digital asset ecosystem over craft drinks, light bites, and prime riverside views at Boat Quay as the conference day winds down.
 
-Hosted by Anti Capital, a high-frequency trading firm based in New York and Taipei. As a quantitative digital asset trading firm, we conduct algorithmic market-making and high-frequency trading on most major global exchanges.
-
-Exact location details will be shared upon RSVP approval.
+Hosted by Anti Capital, a high-frequency trading firm based in New York and Taipei. As a quantitative digital asset trading firm, we conduct algorithmic market-making and high-frequency trading on most major global exchanges. Exact location details will be shared upon RSVP approval.
 
 Hope to see you there!
+
+### Event details
+
+Hosted by Kitty, Anti Capital, Maxim ｜Anti Capital (CEO & Founder of Anti Capital), Nick | Anti Capital (Institutional Strategy & Research @ Anti Capital), Leticia | Anti Capital (Institutional Partnership Manager @ Anti Capital). The event takes place on October 6. Registration requires organizer approval.
 
 <a id="event-05f25d5072330780"></a>
 
@@ -42340,11 +42574,11 @@ https://www.accountable.capital/
 
 ### About the event
 
-We're bringing together people across capital and counsel for an easy evening of drinks, sharp conversations, and useful introductions!
+We're bringing together people across capital and counsel for an easy evening of drinks, sharp conversations, and useful introductions!No panels. No pitches. No forced networking. Just founders, investors, operators, lawyers, advisors, and other interesting people across crypto, Web3, and emerging tech in one room.Come when you can and leave when you need to.
 
-No panels. No pitches. No forced networking. Just founders, investors, operators, lawyers, advisors, and other interesting people across crypto, Web3, and emerging tech in one room.
+### Event details
 
-Come when you can and leave when you need to.
+Organized by Gosai Law. The event takes place on October 6. Registration requires organizer approval.
 
 <a id="event-1dbd26066e16edd4"></a>
 
@@ -43259,7 +43493,17 @@ An organizer description has not been verified for this record. Any previous cop
 
 ### About the event
 
-36-hour crypto hackathon at TOKEN2049 Singapore. 200 participants build projects in DeFi, infrastructure, NFTs, or AI, with mentorship and demo opportunities on the main stage to 25,000 attendees.
+TOKEN2049 Origins Hackathon, October 6-8, 2026 at Marina Bay Sands Singapore - 200 participants, 36 hours, $150,000 in prizes.
+
+### Format
+
+Take your idea from concept to working product in just 36 hours. Build in DeFi, infrastructure, NFTs, or AI, get mentorship, and demo on the TOKEN2049 stage to 25,000 attendees. The hackathon runs alongside TOKEN2049 Singapore at Marina Bay Sands. Rest and chill-out spaces are available on a first-come, first-served basis.
+
+### Access
+
+Connect with 25,000 attendees, media, and industry leaders shaping Web3. Applications for 2026 are closed - join the Origins 2027 waitlist.
+
+Finalists demo on the main stage, with tracks across DeFi, infrastructure, NFTs, and AI.
 
 <a id="event-8de39edb11e26bfa"></a>
 
@@ -44058,15 +44302,13 @@ For sponsor inquiries for the penthouse editions, please contact Mihir via Teleg
 
 ### About the event
 
-Lido Institutional and Spectrum Nodes are organising an intimate, invitation-only luncheon bringing together our clients and a select group of industry leaders attending TOKEN2049.
-
-This is not a large-format networking event.
-
-The table is intentionally small, with every guest carefully selected among executives and decision-makers from leading institutions across banking, digital asset infrastructure, and DeFi.
-
-We are bringing together the key people who are driving institutional adoption of digital assets in a setting designed for meaningful conversation, new relationships, and candid exchange.
+Lido Institutional and Spectrum Nodes are organising an intimate, invitation-only luncheon bringing together our clients and a select group of industry leaders attending TOKEN2049.This is not a large-format networking event.The table is intentionally small, with every guest carefully selected among executives and decision-makers from leading institutions across banking, digital asset infrastructure, and DeFi.We are bringing together the key people who are driving institutional adoption of digital assets in a setting designed for meaningful conversation, new relationships, and candid exchange.
 
 Attendance is strictly by approval, and confirmed guests will receive a private invitation upon acceptance.
+
+### Event details
+
+Hosted by Spectrum Nodes, Lido Events. The event takes place on October 7. Registration requires organizer approval.
 
 <a id="event-34b83eab7683312b"></a>
 
@@ -44487,20 +44729,6 @@ December
 🇺🇸 Family Office Super Summit Florida, USA
 
 *many many more to come... please inquire about fractl's private and custom side events (reach out to Rime)
-
-<a id="event-670cd9331a3f8146"></a>
-
-## Curated Networking with Collably Network - Day 1
-
-- Record: `token2049-side-6a51f5763438be070d7a99de`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-07T07:00:00+08:00
-- Description: Source-backed
-- Original page: <https://t.me/CollablyNetworkEventBot?referrer=luma>
-
-### About the event
-
-Stop random networking. Connect with high-intent partners at events & online. Turn conversations into deals.
 
 <a id="event-4176c2dba28b9253"></a>
 
@@ -45283,11 +45511,19 @@ As part of registering for this event, we're asking attendees to share their own
 
 ### Agenda
 
-- 7pm - Welcome
-- 7:30pm - Confessions
-- 8:30pm - Networking
+7pm - Welcome
+
+7:30pm - Confessions
+
+8:30pm - Networking
 
 We'll have passed canapés and drinks available throughout the event.
+
+### Event details
+
+Hosted by Jocelyn Robancho (Operations @ Alliance), Will Robinson, Danny, Simon Chamorro. The event takes place on October 7. Registration requires organizer approval.
+
+Doors open at 7:00 PM local time.
 
 <a id="event-c540232c9b5e0faf"></a>
 
@@ -45949,7 +46185,15 @@ Turning RWA from an industry buzzword into a real holding in an everyday investo
 
 ### About the event
 
-Crypto's Premier Institutional Event Arrives In Asia
+Crypto's premier institutional event arrives in Asia: Digital Asset Summit Asia 2026 by Blockworks, on October 7, 2026 at Marina Bay Sands Singapore.
+
+### Program
+
+Built for the leaders of the onchain economy. With landmark bills now passed in the U.S., programming explores the nuances of regulatory frameworks policymakers worldwide have laid out for the maturing digital asset ecosystem, while leading DeFi architects unpack protocol design, lending and borrowing markets, market structure, risk curation and management, trading venues, and more.
+
+### Tickets
+
+General Admission early access is listed at US$699 - save $100 when you purchase before September 25th. An exclusive VIP and speaker dinner takes place on October 7. All attendees must present valid photo ID at badge pickup, and prices are subject to increase.
 
 <a id="event-9333e1ff0db0ced6"></a>
 
@@ -46289,19 +46533,21 @@ Our previous events:
 
 ### About the event
 
-Capital Café is a private morning reception for organizations and institutions operating on Canton Network (https://www.canton.network/).
+Capital Café is a private morning reception for organizations and institutions operating on Canton Network.
 
 The gathering will bring together institutions, issuers, application teams, and other major Canton participants for discussion around privacy-enabled digital asset operations, tokenized markets, and institutional deployment.
 
-### Private Executive Area
+Private Executive Area
 
 A section of the venue will be reserved for senior executives, with refined refreshments and a separate space for private meetings. Access is limited. Inquiries: christian@noves.fi
 
-### Hosted by
+Hosted by
 
-Noves (https://www.noves.fi/data-app)
+NovesPrivate data infrastructure for Canton Network.
 
-Private data infrastructure for Canton Network.
+### Event details
+
+Hosted by Noves | Christian (Private data infrastructure for Canton Network | noves.fi/data-app). The event takes place on October 8. Registration requires organizer approval.
 
 <a id="event-92d248b96328fc7c"></a>
 
@@ -46952,7 +47198,7 @@ We look forward to seeing you in Singapore!
 
 ### About the event
 
-LONGITUDE (https://cointelegraph-longitude.com/?utm_source=luma) returns for its 10th edition in Singapore on October 8, during TOKEN2049 week, bringing together a curated guest list of 350 attendees.
+LONGITUDE returns for its 10th edition in Singapore on October 8, during TOKEN2049 week, bringing together a curated guest list of 350 attendees.
 
 Leaders from institutional finance and Web3 will gather to discuss stablecoins, tokenisation, global payments, and institutional adoption.
 
@@ -46962,19 +47208,9 @@ With live coverage by the Cointelegraph editorial team and a highly curated audi
 
 Please note the dress code is Business Elegant attire.
 
-<a id="event-82a737e4a9ef7231"></a>
+### Agenda
 
-## Curated Networking with Collably Network - Day 2
-
-- Record: `token2049-side-6a51f5783438be070d7a99e0`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-08T07:00:00+08:00
-- Description: Source-backed
-- Original page: <https://t.me/CollablyNetworkEventBot?referrer=luma>
-
-### About the event
-
-Stop random networking. Connect with high-intent partners at events & online. Turn conversations into deals.
+15:00 - 15:30 Networking & welcome15:30 - 15:35 Opening speech15:35 - 16:00 Panel: The Future of Money: Banks, Stablecoins and the New Payment Rails16:05 - 16:30 Panel: Tokenisation Goes Mainstream: From Billions to Trillions Onchain16:35 - 17:00 Panel: Bringing Global Finance Onchain: Which Infrastructure Will Win?17:05 - 17:30 Panel: Institutional-Grade Crypto Markets: Liquidity, Data, Custody and Compliance17:35 - 18:00 Panel: Where Is the Smart Money Going? ETFs, Onchain Asset Management and the Next Cycle
 
 <a id="event-1b5c6f6b49bffb74"></a>
 
@@ -47049,7 +47285,17 @@ If your company builds for this audience and you would like to explore a partner
 
 ### About the event
 
-TOKEN2049 is the world's largest crypto event. Join the crypto ecosystem's decision-makers in Singapore to connect, exchange ideas, network, and shape the industry.
+TOKEN2049 Singapore runs 7-8 October 2026 at Marina Bay Sands - day two, October 8, continues the main program of the world's largest crypto event.
+
+### The event
+
+25,000+ attendees, 7,000+ companies, 300+ speakers and 500+ exhibitors across two days, with over 60% of attendees at C-level. Day two carries the full conference program: main stages, the NEXUS startup competition (500 applicants, 10 finalists), the Startup Village exhibition area, and 1,000+ side events across TOKEN2049 week.
+
+### Tickets
+
+Tickets are on sale now, currently listed at US$599 before the 24 September price increase, payable by credit card or crypto.
+
+Day two closes the two-day main event at Marina Bay Sands.
 
 <a id="event-4a0c587409fa1591"></a>
 
@@ -48012,13 +48258,17 @@ The Milken Institute welcomes speaker recommendations for Asia Summit 2026. Reco
 
 ### About the event
 
-Vault Summit is a global conference series focused on onchain vault infrastructure for institutional asset management.
+Vault Summit is a global conference series focused on onchain vault infrastructure for institutional asset management. Vault Summit: Singapore takes place October 9, 2026, 9:00 AM-6:00 PM at Andaz Singapore.
 
-Institutional confidence in on-chain asset management, built vault by vault. This is Vault Summit: Singapore.
+### Program
 
-### Hosts and venue
+Institutional confidence in on-chain asset management, built vault by vault. Full access covers the single-day program for institutional asset managers exploring vault infrastructure.
 
-Morpho and DigiFT host the Singapore summit at Andaz Singapore, 5 Fraser Street, Singapore 189354, on 9 October 2026, from 9:00 AM to 6:00 PM Singapore time.
+### Hosts and tickets
+
+Hosts include Arbitrum One, Morpho, and DigiFT. General Admission full access is listed at US$750; the early bird sale has ended. Applications run through the official tickets page.
+
+The series is produced by BlockLive. Contact the organizers and apply through the official tickets page.
 
 <a id="event-eb435b8eb1449910"></a>
 
@@ -48082,19 +48332,21 @@ etc.
 - Description: Source-backed
 - Original page: <https://luma.com/kh3uenfj>
 
-### Proof Of Liquidity: Private Dinner
+### About the event
+
+Proof Of Liquidity: Private Dinner
 
 Private dinner for a limited group of participants from Proof of Liquidity.
 
 Hosted to connect the supply side (Allocators, Treasuries) and the demand side (L2s, RWAs, Protocols) in a highly curated circle during TOKEN2049.
 
-Format: seated dinner at a 5-star restaurant in Singapore.
-
-Size: 30 guests.
-
-Focus: curated introductions and senior-level networking.
+Format: seated dinner at a 5-star restaurant in Singapore.Size: 30 guests.Focus: curated introductions and senior-level networking.
 
 No media. No public access.
+
+### Event details
+
+Hosted by Yield Network, Ink Foundation, RockawayX, Nexus Mutual (Nexus Mutual). Venue: Singapore. The event takes place on October 9. Registration requires organizer approval.
 
 <a id="event-a1b8210aedd52322"></a>
 
@@ -49502,6 +49754,14 @@ An organizer description has not been verified for this record. Any previous cop
 
 Discover AIBC World, connecting innovators in AI, blockchain, and emerging tech through global events, networking, and insights shaping the future.
 
+### AIBC Europe: Rome
+
+This November, all roads lead to Rome to witness tech luminaries (AIBC), gaming innovators (SiGMA), financial leaders and more as frontier technology meets the real world and scales digitally. Join 1,000 exhibitors, 300 speakers and 30,000 delegates for what augurs to become the most talked about frontier tech summit in Europe.
+
+### Program
+
+Blockchain, AI and crypto exhibitors alongside payments and fintech exhibitors, an agenda with speaker sessions, ecosystem partners and media partners. Arrival day lets delegates settle in, register, and explore the venue at Fiera Roma, with optional city tours, informal networking meet-ups, and an initial walk-through. AIBC Road to Rome runs iGatherings and meetups in the buildup.
+
 <a id="event-9c005b033cc84c96"></a>
 
 ## Ethereum Cypherpunk Congress #3
@@ -49834,7 +50094,11 @@ This event will focus on the Solana's microstructure and DeFi landscape: what's 
 
 Attendance will be free but selective. Priority is given for Solana builders, core developers, and on-chain traders.
 
-Thanks to all the sponsors: Anza (https://www.anza.xyz/?utm_source=luma), Ellipsis Labs (https://x.com/ellipsis_labs?utm_source=luma), Helius (http://helius.dev/?utm_source=luma), Jito Foundation (https://x.com/jito_sol?utm_source=luma), Multicoin Capital (https://multicoin.capital/?utm_source=luma), Triton One (https://x.com/triton_one?utm_source=luma), and Temporal (https://temporal.xyz/).
+Thanks to all the sponsors: Anza, Ellipsis Labs, Helius, Jito Foundation, Multicoin Capital, Triton One, and Temporal.
+
+### Event details
+
+Venue: Olympia, Hammersmith Rd, London W14 8UX, UK. Organized by Jito Events. The event takes place on November 13. Registration requires organizer approval.
 
 <a id="event-2b13fc48ff2256ac"></a>
 
@@ -50276,7 +50540,15 @@ X: @UBC_Conference (https://x.com/UBC_Conference)
 
 ### About the event
 
-The high-end all-inclusive Web3 & iGaming Business Retreat bridging Finance, iGaming & the Digital Economy.
+The high-end all-inclusive Web3 and iGaming business retreat bridging finance, iGaming and the digital economy in Punta Cana, November 25-28, 2026, at Barcelo Bavaro Beach.
+
+### Program
+
+A Web3 business retreat focused on finance, iGaming, venture capital, startup growth, dealmaking, and the broader digital economy, with a startup and VC matchmaking session, panels, convention-center networking sessions, banking and Web3 roundtables, and VIP experiences with exclusive networking sessions and retreat activities. Coffee breaks and all panels are covered.
+
+### Speakers
+
+Featured speakers include Shaikh Ali Sultan Al Nuaimi (royal family of the Emirate of Ajman, BOF Investments and Ajman Bank) and Danish Chotani (CEO at Burj Financial), among others.
 
 <a id="event-e2a898399f235f0d"></a>
 
@@ -50374,7 +50646,15 @@ An organizer description has not been verified for this record. Any previous cop
 
 ### About the event
 
-The most exclusive room for capital, digital assets and AI. C-suite decision-makers, no pay-to-speak.
+Proof of Talk Abu Dhabi 2026: the digital assets executive summit at the Louvre Abu Dhabi, December 3-4, 2026 - the inaugural Gulf edition of the most exclusive room for capital, digital assets and AI.
+
+### Format
+
+The stage is earned, not bought: no pay-to-speak, with 95% sitting CEOs and founders. Two days for 2,000 capped decision-makers, with 45 partners rather than 500 sponsors - global reach with curated density.
+
+### Track record
+
+Paris, June 2026: 2,500 decision-makers, 120+ speakers at CEO and founder level, in one room built to hold them. Four Louvre editions of record set the standard the Gulf inherits.
 
 <a id="event-b284437ff5eb87a8"></a>
 
@@ -50518,4 +50798,12 @@ An organizer description has not been verified for this record. Any previous cop
 
 ### About the event
 
-ETHConf is ETHGlobal's three-day institutional Ethereum event, taking place June 14-16, 2027 at the Javits Center in New York City.
+ETHConf is the world's largest institutional Ethereum event. Join 2,000+ founders, speakers, industry leaders, companies, and builders shaping the future of Ethereum in New York, June 14-16, 2027, at the Javits Center, 429 11th Avenue.
+
+### Program
+
+Three days of focused conversations with the founders, builders, institutions, and policymakers moving the EVM ecosystem forward. Expect candid mainstage discussions, technical sessions, and product showcases spanning markets, infrastructure, institutions, and the policy questions that come with them - connecting the teams advancing Ethereum, scaling networks, developer infrastructure, security, data, and open-source coordination.
+
+### Tickets
+
+Explore every ETHConf pass option and lock in discounted access. Speaker, sponsor, media partner, and community builder applications run through the official site.

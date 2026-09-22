@@ -2383,7 +2383,7 @@
     "id": "luma-crypto-miNdmkakNF9C33M",
     "slug": "n8n-hackat",
     "name": "n8n Hackathon: Automate with K2 Horizon",
-    "description": "An open hackathon built around creativity.\n\nJoin us for a hands-on hackathon where developers, builders, and AI enthusiasts come together to turn ideas into working AI-powered automations using K2 Horizon and n8n.\n\nBring an idea, get creative, and build something that shows what’s possible when open-source AI meets workflow automation.\n\nYou’ll get access to K2 Horizon API credits, support throughout the hackathon, and the chance to win prizes including n8n Cloud credits and exclusive merch.\n\nCome with an idea or start from scratch, just be ready to build, experiment, and have fun.",
+    "description": "An open hackathon built around creativity.\n\nJoin us for a hands-on hackathon where developers, builders, and AI enthusiasts come together to turn ideas into working AI-powered automations using K2 Horizon and n8n.\n\nBring an idea, get creative, and build something that shows what’s possible when open-source AI meets workflow automation.\n\nYou’ll get access to K2 Horizon API credits, support throughout the hackathon, and the chance to win prizes including n8n Cloud credits and exclusive merch.\n\nCome with an idea or start from scratch, just be ready to build, experiment, and have fun.\n Doors open at 3:00 PM local time.\n\nEntry is free.",
     "startDate": "2026-09-25T11:00:00.000Z",
     "endDate": "2026-09-25T16:00:00.000Z",
     "country": "United Arab Emirates",
@@ -2428,8 +2428,8 @@
     "sourceVerification": {
       "url": "https://luma.com/n8n-wuqj",
       "eventId": "evt-miNdmkakNF9C33M",
-      "fetchedAt": "2026-09-19T23:53:59.648Z",
-      "method": "luma-api",
+      "fetchedAt": "2026-09-22T11:55:02.000Z",
+      "method": "luma-page",
       "apifyRunId": "uAC0NtYT5fM5WLkuu"
     }
   },
@@ -3843,51 +3843,10 @@
     }
   },
   {
-    "id": "luma-crypto-nQcoeJRArxAyFvy",
-    "slug": "riaa",
-    "name": "Redefining Influence, Accelerating Action: Co-Creating Africa and The Caribbean’s Next Chapter for the SDGs.",
-    "description": "Find climate events from major conferences to local gatherings. Learn about deep tech, discuss climate policies, and join an hour of action.",
-    "startDate": "2026-09-22T20:00:00.000Z",
-    "endDate": "2026-09-22T22:00:00.000Z",
-    "city": "New York",
-    "country": "United States",
-    "location": "New York, United States",
-    "url": "https://luma.com/ua0i7a2x",
-    "registrationUrl": "https://luma.com/ua0i7a2x",
-    "coverImage": "/events/luma-crypto-nqcoejrarxayfvy-6163d479.webp",
-    "source": "luma-crypto",
-    "hosts": [
-      "UN Global Compact Network Nigeria",
-      "UN Global Compact Network Caribbean"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "America/New_York",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/ua0i7a2x",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/ua0i7a2x",
-      "eventId": "evt-nQcoeJRArxAyFvy",
-      "fetchedAt": "2026-09-19T23:45:55.341Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "luma-crypto-X9jW4fpZYmhxXVG",
     "slug": "shh",
     "name": "The Superpollutant Happy Hour",
-    "description": "Join AgriCapture, Calyx Global, CUR8, and ClimateWells for superpollutant stories and spritzes during New York Climate Week.\n\nBeyond their significant near-term climate impact, superpollutant reductions can create tangible benefits for the communities where projects operate. We'll bring together corporate sustainability leaders to discuss these impacts, the people behind them, and why these are stories worth telling.\n\nDrinks, bites, and great company included\n\nAttendance is limited and registration is required.",
+    "description": "Join AgriCapture, Calyx Global, CUR8, and ClimateWells for superpollutant stories and spritzes during New York Climate Week.\n\nBeyond their significant near-term climate impact, superpollutant reductions can create tangible benefits for the communities where projects operate. We'll bring together corporate sustainability leaders to discuss these impacts, the people behind them, and why these are stories worth telling.\n\nDrinks, bites, and great company included\n\nAttendance is limited and registration is required.\n\n## Event details\n\nHosted by Ashton Moody, kate martin, Annika Langbein, Donna Lee (CEO, Calyx Global). The event takes place on September 22. Registration requires organizer approval.\n Doors open at 5:00 PM local time.",
     "startDate": "2026-09-22T21:00:00.000Z",
     "endDate": "2026-09-22T23:00:00.000Z",
     "city": "New York",
@@ -3925,8 +3884,8 @@
     "sourceVerification": {
       "url": "https://luma.com/5ua8i1gw",
       "eventId": "evt-X9jW4fpZYmhxXVG",
-      "fetchedAt": "2026-09-19T23:45:55.795Z",
-      "method": "luma-api",
+      "fetchedAt": "2026-09-22T11:53:33.000Z",
+      "method": "luma-page",
       "apifyRunId": "uAC0NtYT5fM5WLkuu"
     }
   },
@@ -4079,7 +4038,7 @@
     "id": "luma-crypto-PiRQi9wnOxyveK3",
     "slug": "cglbhys",
     "name": "Consumer Growth Leaders London Breakfast hosted by Yolodex and SOAR",
-    "description": "\"my teenager smells like a ferret\" was our personal favourite quote of the first Yolodex Growth Leaders breakfast. \n\n\nYolodex and SOAR are assembling 10 of London's top consumer growth leaders at Dishoom to discuss what's really driving growth in 2026 as part of a new monthly series.",
+    "description": "\"my teenager smells like a ferret\" was our personal favourite quote of the first Yolodex Growth Leaders breakfast. Yolodex and SOAR are assembling 10 of London's top consumer growth leaders at Dishoom to discuss what's really driving growth in 2026 as part of a new monthly series.\n\n## Event details\n\nHosted by Zaeem Bhanji, Olly Hudson. The event takes place on September 23. Registration requires organizer approval.",
     "startDate": "2026-09-23T07:30:00.000Z",
     "endDate": "2026-09-23T09:00:00.000Z",
     "city": "London",
@@ -4115,8 +4074,8 @@
     "sourceVerification": {
       "url": "https://luma.com/33uip58p",
       "eventId": "evt-PiRQi9wnOxyveK3",
-      "fetchedAt": "2026-09-19T23:45:57.918Z",
-      "method": "luma-api",
+      "fetchedAt": "2026-09-22T11:53:33.000Z",
+      "method": "luma-page",
       "apifyRunId": "uAC0NtYT5fM5WLkuu"
     }
   },
@@ -4124,7 +4083,7 @@
     "id": "luma-crypto-dv6ybcPFmCqTA0V",
     "slug": "bxcsbv0",
     "name": "Beyond x Calyx Superpollutant Breakfast v2.0",
-    "description": "Given the success of our NYCW Superpollutant Breakfast last year, we are bringing it back for another round! Learn how the market has changed over the past year, what is new, and how to find high-quality credits. The event will be held ahead of Beyond's Superpollutant Action Summit, allowing attendees to attend the opening plenary right after.\n\nThis event is for buyers only.\n\nWith many thanks to Saleforce for their generous support sponsoring this event.\n\nPlease note space is limited, so registration is subject to confirmation. We’ll be in touch to confirm your spot.",
+    "description": "Given the success of our NYCW Superpollutant Breakfast last year, we are bringing it back for another round! Learn how the market has changed over the past year, what is new, and how to find high-quality credits. The event will be held ahead of Beyond's Superpollutant Action Summit, allowing attendees to attend the opening plenary right after.\n\nThis event is for buyers only.With many thanks to Saleforce for their generous support sponsoring this event.\n\nPlease note space is limited, so registration is subject to confirmation. We’ll be in touch to confirm your spot.\n\n## Event details\n\nHosted by Calyx Global (Calyx Global is the trusted carbon credit ratings platform that helps organizations buy and invest in carbon credits with confidence.), Beyond Alliance. The event takes place on September 23. Registration requires organizer approval.",
     "startDate": "2026-09-23T12:00:00.000Z",
     "endDate": "2026-09-23T13:30:00.000Z",
     "city": "New York",
@@ -4160,8 +4119,8 @@
     "sourceVerification": {
       "url": "https://luma.com/e3pdbyfr",
       "eventId": "evt-dv6ybcPFmCqTA0V",
-      "fetchedAt": "2026-09-19T23:45:58.415Z",
-      "method": "luma-api",
+      "fetchedAt": "2026-09-22T11:53:33.000Z",
+      "method": "luma-page",
       "apifyRunId": "uAC0NtYT5fM5WLkuu"
     }
   },
@@ -4302,7 +4261,7 @@
     "id": "luma-crypto-slMHV4kfSyFQt7c",
     "slug": "bslsm",
     "name": "Back to School LLM London Social Meetup: The Flying Horse Pub near Liverpool Street",
-    "description": "Holidays are over. Kids are back to school. But the universe of AI has been busy and we have SO MUCH to catch up on.\n\nSuits all types and experience. Come along you'll have a great time. We have absolute AI beginners and we have expert AI builders and AI industry insiders. No set talks or presentations for the social, it's free flowing.\n\nAll are welcome to join our merry throng down the pub.",
+    "description": "Holidays are over. Kids are back to school. But the universe of AI has been busy and we have SO MUCH to catch up on.\n\nSuits all types and experience. Come along you'll have a great time. We have absolute AI beginners and we have expert AI builders and AI industry insiders. No set talks or presentations for the social, it's free flowing.\n\nAll are welcome to join our merry throng down the pub.\n\n## Event details\n\nHosted by Terry Lurie. Venue: The Flying Horse, 52 Wilson St, London EC2A 2ER, UK. The event takes place on September 23. Registration requires organizer approval.",
     "startDate": "2026-09-23T17:00:00.000Z",
     "endDate": "2026-09-23T21:30:00.000Z",
     "city": "London",
@@ -4347,8 +4306,8 @@
     "sourceVerification": {
       "url": "https://luma.com/x4ha29w0",
       "eventId": "evt-slMHV4kfSyFQt7c",
-      "fetchedAt": "2026-09-19T23:46:01.034Z",
-      "method": "luma-api",
+      "fetchedAt": "2026-09-22T11:53:33.000Z",
+      "method": "luma-page",
       "apifyRunId": "uAC0NtYT5fM5WLkuu"
     }
   },
@@ -4399,7 +4358,7 @@
     "id": "luma-crypto-0lJNFheoD81nPZS",
     "slug": "eeaa",
     "name": "eCom Expo Unofficial Afterparty",
-    "description": "Swing by after the expo.\n\nGorgias, Loop and Rebuy are hosting an afterparty at Just Golf Greenwich Peninsula: 25 exclusive bays, TopTracer golf games for all levels, food and drinks, just across the river from ExCeL.",
+    "description": "Swing by after the expo.\n\nGorgias, Loop and Rebuy are hosting an afterparty at Just Golf Greenwich Peninsula: 25 exclusive bays, TopTracer golf games for all levels, food and drinks, just across the river from ExCeL.\n\n## Event details\n\nHosted by Theo Burns, Hannah, Valeria Granda, Hannah Callaghan, Alex Dale. Venue: Greenwich Peninsula Golf Range - JUST GOLF, 265 Tunnel Ave, London SE10 0QE, UK. The event takes place on September 23. Registration requires organizer approval.",
     "startDate": "2026-09-23T17:00:00.000Z",
     "endDate": "2026-09-23T19:00:00.000Z",
     "city": "London",
@@ -4443,8 +4402,8 @@
     "sourceVerification": {
       "url": "https://luma.com/ukf0gv9s",
       "eventId": "evt-0lJNFheoD81nPZS",
-      "fetchedAt": "2026-09-19T23:46:02.353Z",
-      "method": "luma-api",
+      "fetchedAt": "2026-09-22T11:53:33.000Z",
+      "method": "luma-page",
       "apifyRunId": "uAC0NtYT5fM5WLkuu"
     }
   },
@@ -4740,7 +4699,7 @@
     "id": "luma-crypto-BavsKnnpoAOSM59",
     "slug": "hyperliqui",
     "name": "Hyperliquid Dubai | Community Meetup",
-    "description": "Dubai summer is almost over. Time to come back home and hang out with the Hyperliquid local community before flying to the Asian conferences.\n\nJust a casual meetup to talk all things Hyperliquid. Builders, traders, maxis, curious people, everyone's welcome.\n\nA lot has happened since last meetup. $HYPE printed a few ATHs, Trump mentioned Hyperliquid at the White House, and HIP-4 got permissionless deployment.\n\nWhether you're a HYPE maxi or just curious to learn more, this is a good chance to connect with builders and the local community.\n\nFood and drinks available for purchase at the venue.",
+    "description": "Dubai summer is almost over. Time to come back home and hang out with the Hyperliquid local community before flying to the Asian conferences.\n\nJust a casual meetup to talk all things Hyperliquid. Builders, traders, maxis, curious people, everyone's welcome.\n\nA lot has happened since last meetup. $HYPE printed a few ATHs, Trump mentioned Hyperliquid at the White House, and HIP-4 got permissionless deployment.\n\nWhether you're a HYPE maxi or just curious to learn more, this is a good chance to connect with builders and the local community.\n\nFood and drinks available for purchase at the venue.\n\n## Event details\n\nHosted by LetMeDo (Co-founder HL/MEDIA.), Wasim Fukase, Kanishk Khurana. The event takes place on September 25. Registration requires organizer approval.",
     "startDate": "2026-09-25T13:00:00.000Z",
     "endDate": "2026-09-25T16:00:00.000Z",
     "city": "دبي",
@@ -4773,8 +4732,8 @@
     "sourceVerification": {
       "url": "https://luma.com/hbo5481d",
       "eventId": "evt-BavsKnnpoAOSM59",
-      "fetchedAt": "2026-09-19T23:46:06.382Z",
-      "method": "luma-api",
+      "fetchedAt": "2026-09-22T11:53:33.000Z",
+      "method": "luma-page",
       "apifyRunId": "uAC0NtYT5fM5WLkuu"
     }
   },
@@ -5020,7 +4979,7 @@
     "id": "luma-crypto-IJQxzk3Y9DouLNr",
     "slug": "sacf",
     "name": "Solana AI & Capital Forum",
-    "description": "The Solana Capital Forum is a curated executive gathering that brings together leaders across traditional finance, digital assets, and next-generation financial infrastructure.\n\nDesigned as a private forum for the world's leading allocators, investors, operators, policymakers, and infrastructure providers, the event sits at the intersection of institutional capital, private capital, and financial innovation. Discussions will focus on how tokenized assets, stablecoins, and internet-native financial infrastructure are reshaping global capital markets.\n\nAttendance is intentionally limited to a carefully selected group to foster meaningful conversations, high-quality networking, and strategic collaboration.",
+    "description": "The Solana Capital Forum is a curated executive gathering that brings together leaders across traditional finance, digital assets, and next-generation financial infrastructure.\n\nDesigned as a private forum for the world's leading allocators, investors, operators, policymakers, and infrastructure providers, the event sits at the intersection of institutional capital, private capital, and financial innovation. Discussions will focus on how tokenized assets, stablecoins, and internet-native financial infrastructure are reshaping global capital markets.\n\nAttendance is intentionally limited to a carefully selected group to foster meaningful conversations, high-quality networking, and strategic collaboration.\n\n## Event details\n\nHosted by Solana Foundation. The event takes place on September 28. Registration requires organizer approval.",
     "startDate": "2026-09-28T19:00:00.000Z",
     "endDate": "2026-09-29T02:00:00.000Z",
     "city": "Woodside",
@@ -5055,8 +5014,8 @@
     "sourceVerification": {
       "url": "https://luma.com/solana-capital-forum",
       "eventId": "evt-IJQxzk3Y9DouLNr",
-      "fetchedAt": "2026-09-19T23:46:10.506Z",
-      "method": "luma-api",
+      "fetchedAt": "2026-09-22T11:53:33.000Z",
+      "method": "luma-page",
       "apifyRunId": "uAC0NtYT5fM5WLkuu"
     }
   },
@@ -6118,7 +6077,7 @@
     "id": "luma-crypto-lt0WbNw6gENsUVZ",
     "slug": "nhhts",
     "name": "NEAR Happy Hour @ Token2049 SG",
-    "description": "NEAR is building the infrastructure where users, not platforms, stay in control, and that bet is already live. NEAR AI Cloud and Private Chat are running inside Brave, OpenMind AGI, and Phala Network today, reaching more than 100 million users with verifiable, hardware-backed privacy.\n\nCome talk about it over drinks. Join NEAR for a relaxed evening with the builders, investors, and partners shaping the agentic economy, no panels, no pitch decks, just good conversation.\n\nSpots are limited, RSVP to secure yours.",
+    "description": "NEAR is building the infrastructure where users, not platforms, stay in control, and that bet is already live. NEAR AI Cloud and Private Chat are running inside Brave, OpenMind AGI, and Phala Network today, reaching more than 100 million users with verifiable, hardware-backed privacy.\n\nCome talk about it over drinks. Join NEAR for a relaxed evening with the builders, investors, and partners shaping the agentic economy, no panels, no pitch decks, just good conversation.\n\nSpots are limited, RSVP to secure yours.\n\n## Event details\n\nHosted by NEAR Foundation (NEAR Protocol is a fully sharded blockchain built for mainstream adoption. Performant, scalable, and secure, NEAR is the blockchain for AI,). The event takes place on October 6. Registration requires organizer approval.",
     "startDate": "2026-10-06T08:30:00.000Z",
     "endDate": "2026-10-06T11:00:00.000Z",
     "city": "Singapore",
@@ -6157,8 +6116,8 @@
     "sourceVerification": {
       "url": "https://luma.com/yvo094xl",
       "eventId": "evt-lt0WbNw6gENsUVZ",
-      "fetchedAt": "2026-09-19T23:46:23.626Z",
-      "method": "luma-api",
+      "fetchedAt": "2026-09-22T11:53:33.000Z",
+      "method": "luma-page",
       "apifyRunId": "uAC0NtYT5fM5WLkuu"
     }
   },
@@ -6324,7 +6283,7 @@
     "id": "luma-crypto-8OBtqWxTbNAz1r8",
     "slug": "shhhci",
     "name": "Stablecoin Happy Hour - Hosted by Codex and Infinite",
-    "description": "Join Codex and Infinite for an evening of drinks, conversation, and candid takes on where stablecoins are headed — hosted at Mandala Club's Analogue Room during Token2049 week.\n\nWe're bringing together builders, PSPs, remittance companies, and exchanges for fireside chats on Stablecoins. Followed by open bar, canapés, and good company.\n\nThe details:\n7:30 PM — Doors open, cocktail reception\n8:15 PM — Welcome remarks\n8.30 PM — Panel sessions\n10:30 PM — Last call\n\nRegistration is approval-based.",
+    "description": "Join Codex and Infinite for an evening of drinks, conversation, and candid takes on where stablecoins are headed — hosted at Mandala Club's Analogue Room during Token2049 week.\n\nWe're bringing together builders, PSPs, remittance companies, and exchanges for fireside chats on Stablecoins. Followed by open bar, canapés, and good company.\n\nThe details:7:30 PM — Doors open, cocktail reception8:15 PM — Welcome remarks8.30 PM — Panel sessions10:30 PM — Last call\n\nRegistration is approval-based.About CodexCodex FX is the stablecoin-native FX platform for moving money across borders. The platform enables businesses to convert, receive, and pay with fiat and stablecoins at institutional rates, 24/7/365, making global payments faster and more efficient.Founded in 2024, the company is backed by investors including Dragonfly, Coinbase Ventures, Circle Ventures, Wintermute, and Cumberland.",
     "startDate": "2026-10-06T11:30:00.000Z",
     "endDate": "2026-10-06T14:30:00.000Z",
     "city": "Singapore",
@@ -6369,8 +6328,8 @@
     "sourceVerification": {
       "url": "https://luma.com/lcv40t0m",
       "eventId": "evt-8OBtqWxTbNAz1r8",
-      "fetchedAt": "2026-09-19T23:46:26.379Z",
-      "method": "luma-api",
+      "fetchedAt": "2026-09-22T11:53:33.000Z",
+      "method": "luma-page",
       "apifyRunId": "uAC0NtYT5fM5WLkuu"
     }
   },
@@ -6378,7 +6337,7 @@
     "id": "luma-crypto-EIeXOplHoF0mz7E",
     "slug": "dasadas",
     "name": "Digital Asset Summit Asia 2026",
-    "description": "Blockworks' Digital Asset Summit (DAS) is headed to Singapore this October 7th, 2026. DAS is crypto's premier institutional event.\n\nStablecoins, tokenization, onchain infrastructure, and AI are rapidly reshaping the global financial system. DAS Asia will bring together the leading institutional leaders, allocators, builders, and policy makers from Asia, North America, and other key financial centers to discuss how the next chapter of global finance will be written.\n\nIf you have any questions, please reach out to registration@blockworks.co",
+    "description": "Blockworks' Digital Asset Summit (DAS) is headed to Singapore this October 7th, 2026. DAS is crypto's premier institutional event.Stablecoins, tokenization, onchain infrastructure, and AI are rapidly reshaping the global financial system. DAS Asia will bring together the leading institutional leaders, allocators, builders, and policy makers from Asia, North America, and other key financial centers to discuss how the next chapter of global finance will be written.\n\nIf you have any questions, please reach out to registration@blockworks.co\n\n## Event details\n\nHosted by Carolyn Wyatt. Ticket options include General Admission at US$799, VIP at US$1599, Blockworks Research at US$399, Allocator (free). Venue: Marina Bay Sands Singapore, 10 Bayfront Ave, Singapore 018956. The event takes place on October 6. Registration requires organizer approval.",
     "startDate": "2026-10-06T23:00:00.000Z",
     "endDate": "2026-10-07T09:00:00.000Z",
     "city": "Singapore",
@@ -6446,8 +6405,8 @@
     "sourceVerification": {
       "url": "https://luma.com/dasasia2026",
       "eventId": "evt-EIeXOplHoF0mz7E",
-      "fetchedAt": "2026-09-19T23:48:54.623Z",
-      "method": "luma-api",
+      "fetchedAt": "2026-09-22T11:53:33.000Z",
+      "method": "luma-page",
       "apifyRunId": "uAC0NtYT5fM5WLkuu"
     }
   },
@@ -6626,7 +6585,7 @@
     "id": "luma-crypto-rNQE894TJApNgnb",
     "slug": "cjasetwaws",
     "name": "CDD JAP × AWS Side Event @ TOKEN2049 Week -- AI × Web3 × Stablecoin: Infrastructure for the New Internet Economy",
-    "description": "A TOKEN2049 Week side event from CDD JAP and AWS on AI, Web3, and stablecoin infrastructure for the new internet economy, October 7, 7:00 to 10:00 AM UTC in Singapore. See the official event page for the venue and registration.",
+    "description": "🚀 TOKEN2049 Singapore Side Event | Oct 7 AI × Web3 × Stablecoin: Infrastructure For The New Internet Economy\n\nCo‑hosted by CDD JAP, Draper Dragon, Draper University, CAI, Star Consulting & AWS.\n\nHear insights from 15 leading frontier capitals + 15 top entrepreneurial teams across two core thematic panels：\n\n📌 Refactoring the Financial Stack — AI Agents, Stablecoins & Payment\n\n📌 From Singapore to Hong Kong: Global Implementation of Agentic Commerce\n\nIf you are passionate about Token Economy & Agentic Commerce, come join us! Exchange cutting‑edge insights and seize collaborative growth opportunities together.\n\n👉 Register now：https://luma.com/hdb1pfca\n\nMeet these standout project teams onsite 🔥\n\nSkalor — The agentic clearing house\n\nAllScale — Self‑Custody Neobank for Global Businesses\n\nFizzDragon — World’s first end‑to‑end AIGC platform for theatrical‑grade short‑form content\n\nTadaPay — Merchant layer for agents payments across protocols\n\nVoidChain — Privacy environment for blockchain, core intelligence for vacuum network & native IoT security\n\nSundial — Unlocking real‑world utility for Bitcoin\n\nFPPS.AI — Rebuilding professional services firms from first principles\n\nMiuro — First AI‑native music creation & value circulation network\n\nEQR — Next‑generation global fintech platform\n\nXverse — Sovereign Onchain Bank & Bitcoin Wallet\n\nYomirgo — AI MEGA plant powering next‑gen AI agents\n\nRWA.ltd — The world’s first & only Non‑financial RWA Marketplace\n\nBlackPeal — Pay. Earn. Trade. Agent‑ready",
     "startDate": "2026-10-07T07:00:00.000Z",
     "endDate": "2026-10-07T10:00:00.000Z",
     "city": "Singapore",
@@ -6668,8 +6627,8 @@
     "sourceVerification": {
       "url": "https://luma.com/hdb1pfca",
       "eventId": "evt-rNQE894TJApNgnb",
-      "fetchedAt": "2026-09-19T23:54:02.814Z",
-      "method": "luma-api",
+      "fetchedAt": "2026-09-22T11:53:33.000Z",
+      "method": "luma-page",
       "apifyRunId": "uAC0NtYT5fM5WLkuu"
     }
   },

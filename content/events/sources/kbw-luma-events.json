@@ -499,7 +499,7 @@
   {
     "id": "kbw-official-global-financial-institution-vip-seminar-dinner-09-28",
     "name": "글로벌 자산 토큰화 및 온체인 자본시장 세미나 & VIP 만찬 | KBW 2026 : Global Financial Institution VIP Seminar/Dinner (Invite-Only)",
-    "description": "R25와 xCrypton이 코리아 블록체인 위크(KBW) 기간인 2026년 9월 28일 월요일 저녁 '글로벌 자산 토큰화 및 온체인 자본시장 세미나 & VIP 만찬'을 진행합니다.\n\n국내 디지털 자산 및 토큰증권(ST) 관련 프레임워크가 본격적으로 가시화됨에 따라, 국내 주요 금융기관과 대기업들은 전략적 전환점을 맞이하고 있습니다. 이미 글로벌 시장에서는 국채, 공사채, 주식, 구조화 채권 등 전통 자산의 토큰화 분야에서 비약적인 진전을 이루어냈습니다. 본 프라이빗 브리핑은 경영진 의사결정권자분들께 이러한 해외 실무 사례에 대한 실행 가능한 인사이트를 제공하는 한편, 온체인 담보화와 파생상품 생태계의 연계가 어떻게 새로운 금융 시장을 창출할 수 있는지 함께 모색하기 위해 기획되었습니다.\n\n문의처: 정승환, R25, VP Global Business Development (010-4039-0563)",
+    "description": "R25와 xCrypton이 코리아 블록체인 위크(KBW) 기간인 2026년 9월 28일 월요일 저녁 '글로벌 자산 토큰화 및 온체인 자본시장 세미나 & VIP 만찬'을 진행합니다.\n\n국내 디지털 자산 및 토큰증권(ST) 관련 프레임워크가 본격적으로 가시화됨에 따라, 국내 주요 금융기관과 대기업들은 전략적 전환점을 맞이하고 있습니다. 이미 글로벌 시장에서는 국채, 공사채, 주식, 구조화 채권 등 전통 자산의 토큰화 분야에서 비약적인 진전을 이루어냈습니다. 본 프라이빗 브리핑은 경영진 의사결정권자분들께 이러한 해외 실무 사례에 대한 실행 가능한 인사이트를 제공하는 한편, 온체인 담보화와 파생상품 생태계의 연계가 어떻게 새로운 금융 시장을 창출할 수 있는지 함께 모색하기 위해 기획되었습니다.\n\n문의처: 정승환, R25, VP Global Business Development (010-4039-0563)\n\n## Event details\n\nHosted by Sean Chung, Jonathan Kim (Founder of xCrypton), R25 (R25 is the on-chain vault infrastructure for the next generation of finance. A platform where diverse strategies meet cutting-edge blockchai), JCLTD. The event takes place on September 28. Registration requires organizer approval.",
     "startDate": "2026-09-28T09:00:00.000Z",
     "endDate": "2026-09-28T12:00:00.000Z",
     "city": "Seoul",
@@ -537,7 +537,7 @@
     "sourceVerification": {
       "url": "https://luma.com/i0cqkgyt",
       "eventId": "evt-RYncmgqLwUOkZhy",
-      "fetchedAt": "2026-09-19T23:29:49.294Z",
+      "fetchedAt": "2026-09-22T11:53:33.000Z",
       "method": "luma-page",
       "apifyRunId": "uAC0NtYT5fM5WLkuu"
     }
@@ -3686,7 +3686,7 @@
   {
     "id": "kbw-official-secure-crypto-asset-network-2026-scan-10-01",
     "name": "SECURE CRYPTO-ASSET NETWORK 2026 (SCAN)",
-    "description": "2026. 9. 28. 10am(KST) Monaco Space(B1F), Seoul, South Korea\n\n2026. 10. 1. 10:30am(KST) Théâtre des Lumières(B1F), Walkerhill Hotel, Seoul, South Korea\n\n## Meet the Top 20\n\n## Rank & Prize\n\n## As Featured In\n\n## The Room Where It Matters\n\nA look back at the teams, talks, and award moments from the previous SCAN event.",
+    "description": "SECURE CRYPTO-ASSET NETWORK 2026 (SCAN) — the world's first digital asset tracing challenge, an official event of KBW2026.\n\n## Format\n\nAn online qualifier ran August 2, 2026, with the top 20 teams advancing to the final: October 1, 2026, 10am KST at Théâtre des Lumières (B1F), Walkerhill Hotel, Seoul. Finalists include 0xfun, Tornado Cats, DeFiHackLabs, 1NF1N1TY, CertiScan and more, with team interviews published in the lead-up.\n\n## Prizes\n\n2 BTC total prize pool: 1.000 BTC for first place, 0.500 for second, 0.150 for third, plus payouts down the table. A CTF partner supports the competition, and SCAN has been featured by leading media outlets worldwide.",
     "startDate": "2026-10-01T15:00:00+09:00",
     "endDate": "2026-10-02T00:00:00.000Z",
     "city": "Seoul",
@@ -3701,8 +3701,8 @@
     "source": "kbw-official",
     "descriptionSource": {
       "url": "https://scan.sx/",
-      "fetchedAt": "2026-09-20T00:20:53.449Z",
-      "method": "official-section",
+      "fetchedAt": "2026-09-22T12:14:29.000Z",
+      "method": "reviewed-primary-sources",
       "pageTitle": "SCAN 2026 | Official Event of KBW2026",
       "sha256": "398558cd7b57dbe0524fb9f9df46e615a55c957d336bacabc070d07a6d20a651"
     }
@@ -4227,7 +4227,7 @@
   {
     "id": "kbw-official-shard-vip-dinner-10-01",
     "name": "Shard VIP Dinner — Korea Blockchain Week 2026",
-    "description": "You’re invited to a private dinner hosted by Shard during Korea Blockchain Week.\n\nAn intimate gathering for a select group of investors, partners, and close friends — bringing together a small circle for meaningful conversations, good food, and new connections away from the usual KBW crowds.\n\nEvent Details\nDate: October 1\nTime: 7:00 PM – 10:00 PM\nLocation: South Korea\n\nBy invitation only.\n\nWe’d be glad to have you join us for the evening.\n\nAbout the hosts:\n​​ShardDXB (https://x.com/ShardDXB?utm_source=luma): A web3 marketing powerhouse from narrative, mindshare building to KOL marketing. From APAC to International market.",
+    "description": "You’re invited to a private dinner hosted by Shard during Korea Blockchain Week.\n\nAn intimate gathering for a select group of investors, partners, and close friends — bringing together a small circle for meaningful conversations, good food, and new connections away from the usual KBW crowds.\n\nEvent DetailsDate: October 1Time: 7:00 PM – 10:00 PMLocation: South Korea\n\nBy invitation only.\n\nWe’d be glad to have you join us for the evening.About the hosts:​​ShardDXB: A web3 marketing powerhouse from narrative, mindshare building to KOL marketing. From APAC to International market.\n\n## Event details\n\nHosted by Sharding Capital. The event takes place on October 1. Registration requires organizer approval.",
     "startDate": "2026-10-01T10:00:00.000Z",
     "endDate": "2026-10-01T13:00:00.000Z",
     "city": "Seoul",
@@ -4263,7 +4263,7 @@
     "sourceVerification": {
       "url": "https://luma.com/amy4nwf0",
       "eventId": "evt-PuH6MBTrVooIjng",
-      "fetchedAt": "2026-09-19T23:30:06.201Z",
+      "fetchedAt": "2026-09-22T11:53:33.000Z",
       "method": "luma-page",
       "apifyRunId": "uAC0NtYT5fM5WLkuu"
     }
@@ -4327,7 +4327,7 @@
   {
     "id": "kbw-official-futuracanvas-2026-10-01",
     "name": "FuturaCanvas 2026",
-    "description": "If you would like to register, please click here (https://event-us.kr/futuracanvas2026/event/131586) to go to the registration page.\n\n🏠 Website: https://www.futuracanvas.com\n🖤 Instagram: https://www.instagram.com/futuracanvas.con\n🖤 X: https://twitter.com/FuturaCanvas\n🖤 LinkedIn: https://www.linkedin.com/showcase/futuracanvas\n🖤 Youtube: https://youtube.com/@FuturaCanvas",
+    "description": "If you would like to register, please click here to go to the registration page.🏠 Website: https://www.futuracanvas.com🖤 Instagram: https://www.instagram.com/futuracanvas.con🖤 X: https://twitter.com/FuturaCanvas🖤 LinkedIn: https://www.linkedin.com/showcase/futuracanvas🖤 Youtube: https://youtube.com/@FuturaCanvas\n\n## Event details\n\nHosted by FuturaCanvas (Korea's first global art&tech conference). Venue: Platform-L Contemporary Art Center, 11 Eonju-ro 133-gil, Gangnam District, Seoul, South Korea. The event takes place on October 1.",
     "startDate": "2026-10-01T03:00:00.000Z",
     "endDate": "2026-10-03T12:00:00.000Z",
     "city": "Seoul",
@@ -4372,7 +4372,7 @@
     "sourceVerification": {
       "url": "https://luma.com/9yusdba1",
       "eventId": "evt-9lY6X7rJm7JrLQu",
-      "fetchedAt": "2026-09-19T23:29:46.449Z",
+      "fetchedAt": "2026-09-22T11:53:33.000Z",
       "method": "luma-page",
       "apifyRunId": "uAC0NtYT5fM5WLkuu"
     }
@@ -4802,7 +4802,7 @@
   {
     "id": "kbw-official-xrp-seoul-2026-10-03",
     "name": "XRP Seoul 2026",
-    "description": "## [Free Ticket Event - Luma RSVP]\n\nWin a free XRP Seoul 2026 Pass (worth $74.99).\nFollow @XRPSEOUL (https://x.com/XRPSEOUL) on X, Quote Tweet our post, and RSVP here to enter. Winners will be selected by random draw.\n\n📅 Oct 3, 2026 | 📍 Grand Hyatt Seoul\n🕙 10:00 – Booth Opening \n🕛 12:00 – Conference Start\n\nXRP Seoul 2026 is Asia's largest XRP conference, held during Korea Blockchain Week with Ripple as title sponsor. Last year drew 3,000+ participants from 40+ countries to Seoul, one of the world's fastest-growing markets.\n\n\n• Website: xrp-seoul.com (https://xrp-seoul.com)\n• Official X: x.com/XRPSEOUL (https://x.com/XRPSEOUL)",
+    "description": "[Free Ticket Event - Luma RSVP]\n\nWin a free XRP Seoul 2026 Pass (worth $74.99).Follow @XRPSEOUL on X, Quote Tweet our post, and RSVP here to enter. Winners will be selected by random draw.\n\n📅 Oct 3, 2026 | 📍 Grand Hyatt Seoul🕙 10:00 – Booth Opening 🕛 12:00 – Conference Start\n\nXRP Seoul 2026 is Asia's largest XRP conference, held during Korea Blockchain Week with Ripple as title sponsor. Last year drew 3,000+ participants from 40+ countries to Seoul, one of the world's fastest-growing markets.\n\nWebsite: xrp-seoul.com\n\nOfficial X: x.com/XRPSEOUL\n\n## Event details\n\nVenue: Grand Hyatt Seoul, Seoul. Organized by XRPL Korea. The event takes place on October 3. Registration requires organizer approval.",
     "startDate": "2026-10-03T01:00:00.000Z",
     "endDate": "2026-10-03T10:00:00.000Z",
     "city": "Seoul",
@@ -4848,7 +4848,7 @@
     "sourceVerification": {
       "url": "https://luma.com/wm5ub5wk",
       "eventId": "evt-vWDMfekhpbDcoc8",
-      "fetchedAt": "2026-09-19T23:29:46.698Z",
+      "fetchedAt": "2026-09-22T11:53:33.000Z",
       "method": "luma-page",
       "apifyRunId": "uAC0NtYT5fM5WLkuu"
     }
@@ -4899,7 +4899,7 @@
   {
     "id": "kbw-official-xrp-seoul-2026-vip-afterparty-10-03",
     "name": "XRP Seoul 2026 VIP Afterparty",
-    "description": "Invitation-Only: XRP Seoul 2026 VIP Afterparty 🍸\n\nContinue the conversations from XRP Seoul 2026 at our official VIP afterparty.\n\nSpeakers, partners, investors, financial institutions, and industry leaders from across the XRP ecosystem and broader Web3 industry will gather for an evening of networking and conversation at JJ Mahoney's, Grand Hyatt Seoul.\n\nVenue: JJ Mahoney's, Grand Hyatt Seoul\n\nLocation: B2, Grand Hyatt Seoul, 322 Sowol-ro, Yongsan-gu, Seoul, Republic of Korea",
+    "description": "Invitation-Only: XRP Seoul 2026 VIP Afterparty 🍸\n\nContinue the conversations from XRP Seoul 2026 at our official VIP afterparty.\n\nSpeakers, partners, investors, financial institutions, and industry leaders from across the XRP ecosystem and broader Web3 industry will gather for an evening of networking and conversation at JJ Mahoney's, Grand Hyatt Seoul.\n\nVenue: JJ Mahoney's, Grand Hyatt Seoul\n\nLocation: B2, Grand Hyatt Seoul, 322 Sowol-ro, Yongsan-gu, Seoul, Republic of Korea\n\n## Event details\n\nHosted by XRPL Korea (xrplkorea.org). Venue: JJ Mahoney's, 322 Sowol-ro, 한남동 Yongsan District, Seoul, South Korea. The event takes place on October 3. Registration requires organizer approval.\n Doors open at 6:30 PM local time.",
     "startDate": "2026-10-03T09:30:00.000Z",
     "endDate": "2026-10-03T13:00:00.000Z",
     "city": "Seoul",
@@ -4945,7 +4945,7 @@
     "sourceVerification": {
       "url": "https://luma.com/q0wmg82n",
       "eventId": "evt-CPGBQQg8jgI8SLc",
-      "fetchedAt": "2026-09-19T23:30:09.051Z",
+      "fetchedAt": "2026-09-22T11:53:33.000Z",
       "method": "luma-page",
       "apifyRunId": "uAC0NtYT5fM5WLkuu"
     }

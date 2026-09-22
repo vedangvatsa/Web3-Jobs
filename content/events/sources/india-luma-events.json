@@ -552,54 +552,6 @@
     }
   },
   {
-    "id": "india-luma-re7jdneq",
-    "name": "Road to DevCon 8 India: Hyderabad x Kramer's Community",
-    "description": "Road to Devcon 8 meetup in Hyderabad with Kramer's Community — builders jam on product design and meet fellow Ethereum tinkerers ahead of Devcon.",
-    "startDate": "2026-09-26T09:30:00.000Z",
-    "endDate": "2026-09-26T12:30:00.000Z",
-    "city": "Hyderabad",
-    "country": "India",
-    "location": "DevX, 4th Floor, Purva Summit, Kondapur, Whitefields, HITEC City, Hyderabad, Telangana 500081, India",
-    "url": "https://luma.com/re7jdneq",
-    "coverImage": "/events/india-luma-re7jdneq-31016374.webp",
-    "source": "luma-india",
-    "hosts": [
-      "Jayant Acharya"
-    ],
-    "price": "Free",
-    "timezone": "Asia/Kolkata",
-    "neighborhood": "Kondapur",
-    "slug": "rd8i",
-    "registrationUrl": "https://luma.com/re7jdneq",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "DevX",
-    "addressLocality": "Hyderabad",
-    "addressRegion": "Telangana",
-    "addressCountry": "IN",
-    "coordinates": {
-      "latitude": 17.4534974,
-      "longitude": 78.3704541
-    },
-    "approvalRequired": false,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/re7jdneq",
-        "price": 0
-      }
-    ],
-    "registrationAvailability": "sold-out",
-    "sourceVerification": {
-      "url": "https://luma.com/re7jdneq",
-      "eventId": "evt-r4HdxKV9I2FGolM",
-      "fetchedAt": "2026-09-19T23:53:55.760Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "india-luma-team1-indore",
     "name": "Team1 India Workshop | Indore",
     "description": "## Welcome to the Team1 India Avalanche Workshop in Indore\n\n\n## Introduction\n\nJoin Team1 India in Indore for a hands-on developer workshop where you'll go from zero to deploying your first smart contract on Avalanche Fuji C-Chain.\n\nThis session is designed for developers, engineering students, beginner Solidity builders, hackathon participants, and anyone curious about building on Avalanche.\n\nNo previous blockchain experience is required.\n\nDuring the workshop, you'll:\n\n\n• Set up a Core or compatible wallet\n• Connect to Avalanche Fuji C-Chain\n• Claim free testnet AVAX\n• Learn the basics of Solidity\n• Write and compile a smart contract in Remix\n• Deploy it to Avalanche Fuji\n• Interact with your contract on-chain\n• Verify your deployment on Snowtrace\n• Leave with a public proof-of-work link you can share\n\n💻 Bring your laptop\n🌐 Reliable Wi-Fi will be available\n🎟️ Limited to approximately 45 participants\n\nAfter the workshop, stick around for food, networking, and conversations with fellow developers and builders from Indore.\n\n\n## 🗓️ Event Program\n\n5:30 PM — Doors open, registrations & networking\n\n6:00 PM — Welcome & opening by Team1 host\nLaksh Dilliwal (https://x.com/lakshdilliwal)\n\n6:10 PM — Introduction to Team1, Avalanche & the C-Chain ecosystem\n\n6:25 PM — Wallet setup, wallet safety & Avalanche Fuji Testnet\n\n6:40 PM — Claim testnet AVAX & introduction to Avalanche Builder Hub\n\n6:55 PM — Introduction to Remix IDE & Solidity basics\n\n7:10 PM — Build your first NumberStorage smart contract\n\n7:30 PM — Compile & deploy the contract to Avalanche Fuji C-Chain\n\n7:45 PM — Interact with the contract & understand storage vs memory\n\n8:00 PM — Verify deployments and transactions on Snowtrace\n\n8:15 PM — Share proof of work, developer resources & what's next on Avalanche\n\n8:25 PM — Q&A\n\n8:35 PM — Food, networking & builder conversations\n\n9:00 PM — Closing\n\n\n## 👨‍💻 Who Should Attend?\n\nThis workshop is ideal for:\n\n\n• Developers and engineering students\n• Beginner Solidity developers\n• Web3 and blockchain builders\n• Hackathon participants\n• Developers exploring Avalanche\n• Anyone who wants their first hands-on smart contract deployment\n\nYou do not need prior Solidity or blockchain experience.\n\nJust bring your laptop, browser, and curiosity.\n\n\n## 🛠️ What You'll Build\n\nDuring the workshop, you'll build and deploy a simple smart contract that stores a number on-chain and reads it back.\n\nAlong the way, you'll learn one of the most important Solidity concepts:\n\nStorage vs Memory\n\nYou'll experience the difference between:\n\n\n• Writing data on-chain and paying gas\n• Reading blockchain state for free\n• Temporary memory and permanent blockchain storage\n\nBy the end of the workshop, your contract will be live on Avalanche Fuji and publicly verifiable through the block explorer.\n\n\n## 🎯 Workshop Outcomes\n\nOur goal is not just attendance.\n\nWe want participants to leave having actually used Avalanche.\n\nExpected outcomes include:\n\n\n• New developer wallets created\n• Developers onboarded to Avalanche Fuji\n• Smart contracts successfully deployed\n• Public contract and transaction links generated\n• Developers introduced to Avalanche Builder Hub, Academy and Docs\n• New builders identified for future Team1 workshops and ecosystem opportunities\n\n\n## 🧩 About Team1\n\nTeam1 is a global network of builders, developers, creatives, and community members who grow Avalanche.\n\nWith 600+ members operating across 40 countries, Team1 drives the democratization and global adoption of Avalanche by onboarding new users and projects through local meetups, targeted workshops, exclusive side events, engaging content creation, and community-led initiatives.\n\nBy bridging online and offline communities, Team1 empowers grassroots innovation and expands the reach of Avalanche into new regions and cultures.\n\nhttps://x.com/AvaxTeam1\n\nWhat to bring\n\n💻 Laptop\n🔋 Charger\n🧠 No prior blockchain experience required\n\nEverything during the workshop runs on Avalanche Fuji Testnet, so no real funds are required.\n\nCome curious. Leave with your first smart contract deployed on Avalanche. 🔺\nhttps://x.com/AvaxTeam1",
@@ -670,7 +622,7 @@
   {
     "id": "india-luma-zd0c5ys7",
     "name": "MIP-19: Road to Devcon w/ ETHGlobal",
-    "description": "## Welcome to MIP-19\n\nPresenting a new format of MIP for the Road to Devcon, this time along with ETHGlobal.\n\nDevcon is an Ethereum conference for developers, researchers, thinkers, and makers.\n\n\n## Agenda\n\nComing soon...\n\nFollow ETHMumbai on: X (https://x.com/ethmumbai) | Telegram (https://t.me/ethmumbai)\nFollow ETHGlobal on: X (https://x.com/ethglobal) | Discord (https://ethglobal.com/discord)\nFollow Devcon on: X (https://x.com/EFDevcon) | Telegram (https://t.me/+sitvvHw8D8EzN2Yx)",
+    "description": "Welcome to MIP-19\n\nPresenting a new format of MIP for the Road to Devcon, this time along with ETHGlobal.\n\nDevcon is an Ethereum conference for developers, researchers, thinkers, and makers.\n\nAgenda\n\n12 PM: Doors open\n\n12:20 PM: Devcon 8\n\nGet all the latest updates of Devcon 8 India, the largest gathering for Ethereum, happening from 3 – 6 Nov 2026.\n\n12:40 PM: ETHGlobal Mumbai\n\nLearn about the schedule, format, tracks, and prizes for the ETHGlobal Mumbai hackathon, happening from 5 – 7 Nov 2026.\n\n1 PM: Networking\n\nTea / Coffee will provided to everyone at the venue.\n\n2 PM: Doors close\n\nFollow ETHMumbai on: X | TelegramFollow ETHGlobal on: X | DiscordFollow Devcon on: X | Telegram",
     "startDate": "2026-09-26T06:30:00.000Z",
     "endDate": "2026-09-26T08:30:00.000Z",
     "city": "Mumbai",
@@ -707,7 +659,7 @@
     "sourceVerification": {
       "url": "https://luma.com/zd0c5ys7",
       "eventId": "evt-UaoErPKS55Pnk06",
-      "fetchedAt": "2026-09-19T23:30:15.794Z",
+      "fetchedAt": "2026-09-22T11:53:33.000Z",
       "method": "luma-page",
       "apifyRunId": "uAC0NtYT5fM5WLkuu"
     }
@@ -935,50 +887,6 @@
     }
   },
   {
-    "id": "india-luma-3qtj8ogp",
-    "name": "Road to Devcon VIII India - PUNE Final Edition",
-    "description": "Coming Soon.",
-    "startDate": "2026-10-10T05:30:00.000Z",
-    "endDate": "2026-10-10T10:30:00.000Z",
-    "location": "Location to be announced",
-    "url": "https://luma.com/3qtj8ogp",
-    "coverImage": "/events/india-luma-3qtj8ogp-ad954987.webp",
-    "source": "luma-india",
-    "hosts": [
-      "ETH Pune",
-      "Akash Kshirsagar"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Asia/Kolkata",
-    "slug": "rdvipfe",
-    "registrationUrl": "https://luma.com/3qtj8ogp",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "organizer": {
-      "type": "Organization",
-      "name": "ETH Pune Calender",
-      "url": "https://luma.com/EthereumPune"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/3qtj8ogp",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/3qtj8ogp",
-      "eventId": "evt-E4pqIFqTPBmJrmT",
-      "fetchedAt": "2026-09-19T23:30:16.772Z",
-      "method": "luma-page",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "india-luma-76s6hwzv",
     "name": "Ready for the Run @ Lucknow",
     "description": "## India's AI & Web3 community is preparing for the next market cycle - and we want to know how.\n\nReady for the Run is a community-first meetup circuit bringing together builders, investors, traders, founders, and researchers for real conversations on where AI and Web3 are headed next. Expect candid discussions, live polling, and networking with people who are actually building and betting on this space.\n\nLucknow carries the theme Trust. No market runs without it - regulation, custody, who you believe and why - and few cities are better suited to a conversation about relationships and reputation than this one.\n\nThis isn't a pitch fest. It's a space for honest takes, contrarian views, and collective intelligence - capturing how each city's community is thinking, positioning, and preparing right now, city by city, across a 9-city run - maybe more\n\nThe circuit is co-led by Raajeev Anand (TechHybr (https://x.com/techhybrx)), bringing his on-ground Web3 & AI community reach into every stop of the run.\n\nWhether you're deep in the trenches or just AI & Web3-curious, come add your voice to the conversation.\n\nReady? Let's run.\n\n\n## Partners\n\nTrailblazers\n\n🏆 OroPocket - Brings a Trailblazer's perspective to the room - pioneering everyday access to gold & silver investing, a domain adjacent to but distinct from crypto-native assets. Their presence broadens the credibility of the conversation and adds real-world asset variety to the ecosystem represented here.\n\nX (https://x.com/oropocket) | LinkedIn (https://www.linkedin.com/company/oropocket/) | Promo (https://Have made a promo for this campaign   Anyone signing up using this link would get Rs 50 of free gold on their first investment of Rs 500:  https://oropocket.com/i/READY364)\n\nCommunity Partners\n\n\n• KoinX X (https://x.com/getkoinx) | LinkedIn (https://www.linkedin.com/company/getkoinx/)\n• Web3 Events X (https://x.com/web3_events) | LinkedIn (https://www.linkedin.com/company/web3-events/)\n• Web3 Aligarh X (https://x.com/web3aligarh) | LinkedIn (https://www.linkedin.com/company/web3-aligarh/)\n• Bhopal DAO X (https://x.com/Bhopal_DAO) | LinkedIn (https://linkedin.com/company/bhopal-dao/)\n• Zyphar Community\n• Collably Network X (https://x.com/CollablyNetwork) | LinkedIn (https://www.linkedin.com/company/collablynetwork/)\n\n\n## Co-Host\n\n\n## Raajeev Anand (@cryptomargofficial (https://www.instagram.com/cryptomargofficial/))/ TechHybr\n\nRaajeev Anand is an India-based Web3 & AI social media influencer and digital entrepreneur, building at the intersection of emerging technology and community-driven education.\n\nThrough TechHybr, his vision is to build a value-driven ecosystem, powered by Web3 and AI, that brings together content, development, and scale — making complex technology accessible, practical, and actionable for creators, students, and businesses across India.\n\nInsta (https://www.instagram.com/cryptomargofficial/) | X (https://x.com/raajeevanand) | LinkedIn (https://www.linkedin.com/in/raajeevanand/)\n\n\n## About Infini3\n\nInfini3 is an events and media platform, built as an IP of 28° North - a boutique strategic advisory firm for early-stage Web3 & AI startups. It brings India's crypto and Web3 ecosystem together across formats, from large-scale IRL events and community meetups to online panels, podcasts, and AMAs. Infini3 turns community participation into collective intelligence - capturing sentiment, insights, and signals from the people actually building and investing in this space.\n\nX (https://x.com/infini3_) | Telegram (https://t.me/goinfini3) | Instagram (https://www.instagram.com/goinfini3)\n\n\n## About 28° North\n\n28° North is a boutique strategic advisory firm for early-stage Web3 and AI startups, working on scope-based mandates across positioning, product, growth, community, and fundraising. It operates with an operator-first, KRA-driven approach - practical strategy built to execute, not just present. Infini3 is its events and media arm, extending that same structured, outcome-focused thinking into community-building and content formats.",
@@ -1064,7 +972,7 @@
   {
     "id": "india-luma-ndrr1yqe",
     "name": "MIP-20: Road to Devcon",
-    "description": "## Welcome to MIP-20\n\nPresenting a new format of MIP for the Road to Devcon.\n\nDevcon is an Ethereum conference for developers, researchers, thinkers, and makers.\n\n\n## Agenda\n\nComing soon...\n\nFollow ETHMumbai on: X (https://x.com/ethmumbai) | Telegram (https://t.me/ethmumbai)\nFollow Devcon on: X (https://x.com/EFDevcon) | Telegram (https://t.me/+sitvvHw8D8EzN2Yx)",
+    "description": "Welcome to MIP-20\n\nPresenting a new format of MIP for the Road to Devcon.\n\nDevcon is an Ethereum conference for developers, researchers, thinkers, and makers.\n\nAgenda\n\nComing soon...\n\nFollow ETHMumbai on: X | TelegramFollow Devcon on: X | Telegram\n\n## Event details\n\nHosted by ETHMumbai. The event takes place on October 24. Registration requires organizer approval.",
     "startDate": "2026-10-24T06:30:00.000Z",
     "endDate": "2026-10-24T08:30:00.000Z",
     "city": "Mumbai",
@@ -1101,7 +1009,7 @@
     "sourceVerification": {
       "url": "https://luma.com/ndrr1yqe",
       "eventId": "evt-3ViKtGhH3Kfrsy3",
-      "fetchedAt": "2026-09-19T23:30:09.425Z",
+      "fetchedAt": "2026-09-22T11:53:33.000Z",
       "method": "luma-page",
       "apifyRunId": "uAC0NtYT5fM5WLkuu"
     }

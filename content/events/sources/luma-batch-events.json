@@ -154,7 +154,7 @@
     "id": "luma-batch-d6YGDfLEVcOHLNA",
     "slug": "26y625qg",
     "name": "Lhava and Fenwick Present: End of Summer in the City Happy Hour",
-    "description": "Join Lhava and Fenwick for an exclusive rooftop happy hour as we celebrate the end of summer in the city with friends and colleagues from across the blockchain and crypto world. Expect great views, craft cocktails, and an easygoing evening made for catching up, making introductions, and enjoying the energy of New York in the summer.\n\n## Event details\n\nHosted by Fenwick, Briton. Venue: Broken Shaker, Broken Shaker, 23 Lexington Ave 18th Floor, New York, NY 10010, USA. Tickets: Free. Registration requires organizer approval.\n\n\n## Event details\n\nThe event takes place on September 24.",
+    "description": "Join Lhava and Fenwick for an exclusive rooftop happy hour as we celebrate the end of summer in the city with friends and colleagues from across the blockchain and crypto world. Expect great views, craft cocktails, and an easygoing evening made for catching up, making introductions, and enjoying the energy of New York in the summer.\n\n## Event details\n\nHosted by Fenwick, Briton. Venue: Broken Shaker, 23 Lexington Ave 18th Floor, New York, NY 10010, USA. The event takes place on September 24. Registration requires organizer approval.",
     "startDate": "2026-09-24T22:00:00.000Z",
     "endDate": "2026-09-25T01:00:00.000Z",
     "city": "New York",
@@ -195,7 +195,7 @@
     "sourceVerification": {
       "url": "https://luma.com/26y625qg",
       "eventId": "evt-d6YGDfLEVcOHLNA",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
+      "fetchedAt": "2026-09-22T11:53:33.000Z",
       "method": "luma-page",
       "apifyRunId": "xaRAFVxiGJ65xirOe",
       "enrichedAt": "2026-09-22T11:00:44.000Z",
@@ -526,7 +526,7 @@
     "id": "luma-batch-AbVnI08nHVEPSFb",
     "slug": "xfzvs7vy",
     "name": "Cocktail Reception at the Harvard Club",
-    "description": "Join Lukka and the Wall Street Blockchain Alliance for an evening of cocktails, conversation, and networking at the Harvard Club of New York City.\n\nConnect with leaders across digital assets, financial services, blockchain, and institutional finance in an intimate setting designed for meaningful conversation and new connections.\n\nWe look forward to bringing together members of our community for a great evening in New York.\n\n\n## Hosts\n\nHosted by Paige Connor (Head of Marketing).\n\n## Event details\n\nThe event takes place on September 29. Venue: Midtown Manhattan, New York, New York, United States.",
+    "description": "Join Lukka and the Wall Street Blockchain Alliance for an evening of cocktails, conversation, and networking at the Harvard Club of New York City.\n\nConnect with leaders across digital assets, financial services, blockchain, and institutional finance in an intimate setting designed for meaningful conversation and new connections.\n\nWe look forward to bringing together members of our community for a great evening in New York.\n\n## Event details\n\nHosted by Paige Connor (Head of Marketing). The event takes place on September 29. Registration requires organizer approval.",
     "startDate": "2026-09-29T21:30:00.000Z",
     "endDate": "2026-09-29T23:30:00.000Z",
     "city": "New York",
@@ -566,7 +566,7 @@
     "sourceVerification": {
       "url": "https://luma.com/xfzvs7vy",
       "eventId": "evt-AbVnI08nHVEPSFb",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
+      "fetchedAt": "2026-09-22T11:53:33.000Z",
       "method": "luma-page",
       "apifyRunId": "xaRAFVxiGJ65xirOe",
       "enrichedAt": "2026-09-22T11:00:44.000Z"
@@ -723,7 +723,7 @@
     "id": "luma-batch-1Xx7yJSkhlrHBm6",
     "slug": "szhcophp",
     "name": "Meow + Freeport Markets: Private Founder Poker Night",
-    "description": "We just moved into our beautiful new SoHo office so we're breaking it in with poker and the top builders across the city.\n\nPlay if you want, or just pull up and hang. Either way it'll be a great vibe. By invitation only.\n\nHosted by Meow: meow.com/crypto and Freeport Markets: freeportmarkets.com\n\n## Event details\n\nHosted by Matt Schkolnick, Dustin Kamali, Lihong Wang. Venue: SoHo, New York, New York, United States. Tickets: Free. Registration requires organizer approval.\n\n\n## Event details\n\nThe event takes place on October 1.",
+    "description": "We just moved into our beautiful new SoHo office so we're breaking it in with poker and the top builders across the city.\n\nPlay if you want, or just pull up and hang. Either way it'll be a great vibe. By invitation only.\n\nHosted by Meow: meow.com/crypto and Freeport Markets: freeportmarkets.com\n\n## Event details\n\nHosted by Matt Schkolnick, Dustin Kamali, Lihong Wang. The event takes place on October 1. Registration requires organizer approval.",
     "startDate": "2026-10-01T23:00:00.000Z",
     "endDate": "2026-10-02T03:00:00.000Z",
     "city": "New York",
@@ -764,7 +764,7 @@
     "sourceVerification": {
       "url": "https://luma.com/szhcophp",
       "eventId": "evt-1Xx7yJSkhlrHBm6",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
+      "fetchedAt": "2026-09-22T11:53:33.000Z",
       "method": "luma-page",
       "apifyRunId": "xaRAFVxiGJ65xirOe",
       "enrichedAt": "2026-09-22T11:00:44.000Z",
@@ -984,7 +984,7 @@
     "id": "luma-batch-xFFX1w014DYQNxw",
     "slug": "grdkh8vt",
     "name": "Meow + Legion: Private Founder Poker Night",
-    "description": "Cards, drinks, pizza, and the best crypto founders in New York at one table. Dealers are pros; the stakes are bragging rights.\n\nHosted by Meow × Legion.\n\nBy invitation only — seats are limited. 🃏\n\n## Event details\n\nHosted by Matt Schkolnick, Matt O'Connor, Dustin Kamali. Venue: SoHo, New York, New York, United States. Tickets: Free. Registration requires organizer approval.\n\n\n## Event details\n\nThe event takes place on October 13.",
+    "description": "Cards, drinks, pizza, and the best crypto founders in New York at one table. Dealers are pros; the stakes are bragging rights.\n\nHosted by Meow × Legion.\n\nBy invitation only — seats are limited. 🃏\n\n## Event details\n\nHosted by Matt Schkolnick, Matt O'Connor (Founder Legion.cc), Dustin Kamali. The event takes place on October 13. Registration requires organizer approval.",
     "startDate": "2026-10-13T23:00:00.000Z",
     "endDate": "2026-10-14T02:30:00.000Z",
     "city": "New York",
@@ -1025,7 +1025,7 @@
     "sourceVerification": {
       "url": "https://luma.com/grdkh8vt",
       "eventId": "evt-xFFX1w014DYQNxw",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
+      "fetchedAt": "2026-09-22T11:53:33.000Z",
       "method": "luma-page",
       "apifyRunId": "xaRAFVxiGJ65xirOe",
       "enrichedAt": "2026-09-22T11:00:44.000Z",
@@ -1441,7 +1441,7 @@
     "id": "luma-batch-lnhEJWt2Bdk0cmW",
     "slug": "zsgdwcee",
     "name": "Haruko and Kalshi Present: More than a million",
-    "description": "Kick off TOKEN2049 with Haruko and Kalshi!\n\nJoin us for an evening of drinks, canapes and meaningful conversations with founders, innovators and industry leaders from across the digital asset ecosystem.\n\nWhether you're building new connections or reconnecting with industry friends, we would love to welcome you as we kick off an exciting week at TOKEN2049.\n\n## Event details\n\nHosted by Adrian Rymill, Daniel Holmes, Elyse Quek, Jake Khorozian, Andy Ross, ico beast. Venue: Downtown Core, Singapore, Singapore. Tickets: Free. Registration requires organizer approval.\n\n\n## Event details\n\nThe event takes place on October 5.",
+    "description": "Kick off TOKEN2049 with Haruko and Kalshi!\n\nJoin us for an evening of drinks, canapes and meaningful conversations with founders, innovators and industry leaders from across the digital asset ecosystem.\n\nWhether you're building new connections or reconnecting with industry friends, we would love to welcome you as we kick off an exciting week at TOKEN2049.\n\n## Event details\n\nHosted by Adrian Rymill, Daniel Holmes, Elyse Quek, Jake Khorozian, Andy Ross, ico beast. The event takes place on October 5. Registration requires organizer approval.",
     "startDate": "2026-10-05T09:00:00.000Z",
     "endDate": "2026-10-05T13:30:00.000Z",
     "city": "Singapore",
@@ -1485,7 +1485,7 @@
     "sourceVerification": {
       "url": "https://luma.com/zsgdwcee",
       "eventId": "evt-lnhEJWt2Bdk0cmW",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
+      "fetchedAt": "2026-09-22T11:53:33.000Z",
       "method": "luma-page",
       "apifyRunId": "xaRAFVxiGJ65xirOe",
       "enrichedAt": "2026-09-22T11:00:44.000Z",
@@ -1888,7 +1888,7 @@
     "id": "luma-batch-mOufXHP89aFrhMJ",
     "slug": "dev-day-cafe",
     "name": "Dev Day Cafe",
-    "description": "Join Solana, Circle, MoonPay, and others at Radhaus in Fort Mason on September 29.\n\nWe're hosting an all-day Dev Cafe with coffee, coworking, swag, demos, and a happy hour. There will definitely be some other surprises too.\n\nSchedule\n\n10am: Doors open\n\n10am-11am: Light breakfast available\n\n12pm-2pm: Lunch available\n\n4pm-6pm: Happy hour\n\nSpace is limited. Please register to attend.\n\n## Event details\n\nHosted by Solana Foundation. Venue: Fort Mason, San Francisco, California, United States. Tickets: Free. Registration requires organizer approval.\n\n\n## Event details\n\nThe event takes place on September 29.",
+    "description": "Join Solana, Circle, MoonPay, and others at Radhaus in Fort Mason on September 29.\n\nWe're hosting an all-day Dev Cafe with coffee, coworking, swag, demos, and a happy hour. There will definitely be some other surprises too.\n\nSchedule\n\n10am: Doors open\n\n10am-11am: Light breakfast available\n\n12pm-2pm: Lunch available\n\n4pm-6pm: Happy hour\n\nSpace is limited. Please register to attend.\n\n## Event details\n\nHosted by Solana Foundation. The event takes place on September 29. Registration requires organizer approval.",
     "startDate": "2026-09-29T17:00:00.000Z",
     "endDate": "2026-09-30T01:00:00.000Z",
     "city": "San Francisco",
@@ -1927,7 +1927,7 @@
     "sourceVerification": {
       "url": "https://luma.com/dev-day-cafe",
       "eventId": "evt-mOufXHP89aFrhMJ",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
+      "fetchedAt": "2026-09-22T11:53:33.000Z",
       "method": "luma-page",
       "apifyRunId": "xaRAFVxiGJ65xirOe",
       "enrichedAt": "2026-09-22T11:00:44.000Z",
@@ -2066,7 +2066,7 @@
     "id": "luma-batch-kLLhQAqUSbfKTRp",
     "slug": "sanfranciscooctober",
     "name": "Assets & Access @ Rickhouse Bar SF",
-    "description": "Join us for SF's #1 founder, operator, and investor meetup.\n\nHosted by Introduction.com, a private, invite only community of entrepreneurs, operators, and investors shaping the future with technology.\n\nThis event is open to the general public and is not exclusive to Introduction.com members. For access to member only events please apply at Introduction.com.\n\n## Event details\n\nHosted by Introduction.com, Jose Anaya | ZKsync, Sam Leichman. Venue: Rickhouse, Rickhouse, 246 Kearny St, San Francisco, CA 94108, USA. Tickets: Free.\n\n\n## Event details\n\nThe event takes place on October 9.",
+    "description": "Join us for SF's #1 founder, operator, and investor meetup.\n\nHosted by Introduction.com, a private, invite only community of entrepreneurs, operators, and investors shaping the future with technology.\n\nThis event is open to the general public and is not exclusive to Introduction.com members. For access to member only events please apply at Introduction.com.\n\n## Event details\n\nHosted by Introduction.com (A private, invite-only network for founders, executives, and investors shaping the future with technology.), Jose Anaya | ZKsync, Sam Leichman. Venue: Rickhouse, 246 Kearny St, San Francisco, CA 94108, USA. The event takes place on October 9.",
     "startDate": "2026-10-09T00:30:00.000Z",
     "endDate": "2026-10-09T02:30:00.000Z",
     "city": "San Francisco",
@@ -2109,7 +2109,7 @@
     "sourceVerification": {
       "url": "https://luma.com/sanfranciscooctober",
       "eventId": "evt-kLLhQAqUSbfKTRp",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
+      "fetchedAt": "2026-09-22T11:53:33.000Z",
       "method": "luma-page",
       "apifyRunId": "xaRAFVxiGJ65xirOe",
       "enrichedAt": "2026-09-22T11:00:44.000Z",
@@ -2792,7 +2792,7 @@
     "id": "luma-batch-yCu03jZbXJloNc6",
     "slug": "yp556lph",
     "name": "Rayls Community Meetup: London",
-    "description": "More details to be shared soon.​About Rayls\n\nRayls is a blockchain ecosystem that bridges traditional finance with decentralized finance by providing a compliant, private, and scalable infrastructure for financial institutions. Its hybrid architecture combines permissioned private networks with an EVM-compatible public chain to facilitate use cases like asset tokenization, cross-border payments, and central bank digital currency settlement.\n\nRegister to secure your spot and we'll share the venue with you straight away.\n\n\n## Hosts\n\nHosted by Rayls . (Bringing Finance Onchain.).\n\n## Event details\n\nThe event takes place on November 18. Venue: London, England, United Kingdom.",
+    "description": "More details to be shared soon.​About Rayls\n\nRayls is a blockchain ecosystem that bridges traditional finance with decentralized finance by providing a compliant, private, and scalable infrastructure for financial institutions. Its hybrid architecture combines permissioned private networks with an EVM-compatible public chain to facilitate use cases like asset tokenization, cross-border payments, and central bank digital currency settlement.\n\nRegister to secure your spot and we'll share the venue with you straight away.\n\n## Event details\n\nHosted by Rayls . (Bringing Finance Onchain.). The event takes place on November 18. Registration requires organizer approval.\n Doors open at 5:00 PM local time.\n\nEntry is free.",
     "startDate": "2026-11-18T17:00:00.000Z",
     "endDate": "2026-11-18T19:30:00.000Z",
     "city": "London",
@@ -2831,7 +2831,7 @@
     "sourceVerification": {
       "url": "https://luma.com/yp556lph",
       "eventId": "evt-yCu03jZbXJloNc6",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
+      "fetchedAt": "2026-09-22T11:53:33.000Z",
       "method": "luma-page",
       "apifyRunId": "xaRAFVxiGJ65xirOe",
       "enrichedAt": "2026-09-22T11:00:44.000Z"
@@ -8133,7 +8133,7 @@
     "id": "luma-batch-gVS58YpuRyJfWfB",
     "slug": "aq7rqqmn",
     "name": "Superteam Canada Community Call",
-    "description": "Hey! Get ready to dive into the world of Solana with our Community Call happening first Thursday on the every Quarter.Hosted by Simon, this is your golden ticket to connect, learn, and have a blast with fellow enthusiasts. Whether you're a seasoned pro or just starting out, there's something for everyone.\n\nJoin us on Discord for 30 minutes packed with insights, advice, and all things Superteam Canada.Got questions? Bring 'em on! Want to get more involved? This is your chance! Can't wait to see you there!",
+    "description": "Hey! Get ready to dive into the world of Solana with our Community Call happening first Thursday on the every Quarter.Hosted by Simon, this is your golden ticket to connect, learn, and have a blast with fellow enthusiasts. Whether you're a seasoned pro or just starting out, there's something for everyone.\n\nJoin us on Discord for 30 minutes packed with insights, advice, and all things Superteam Canada.Got questions? Bring 'em on! Want to get more involved? This is your chance! Can't wait to see you there!\n\n## Event details\n\nOrganized by Superteam Canada. The event takes place on October 1.",
     "startDate": "2026-10-01T16:00:00.000Z",
     "endDate": "2026-10-01T16:30:00.000Z",
     "url": "https://luma.com/aq7rqqmn",
@@ -8147,8 +8147,8 @@
     "visibility": "public",
     "sourceVerification": {
       "url": "https://luma.com/aq7rqqmn",
-      "eventId": "calev-gVS58YpuRyJfWfB",
-      "fetchedAt": "2026-09-22T11:31:03.000Z",
+      "eventId": "evt-vZ1HR9Rka8ch50U",
+      "fetchedAt": "2026-09-22T11:53:33.000Z",
       "method": "luma-page",
       "apifyRunId": "WHcLsVUsFvlHmcVYz"
     }
@@ -8754,7 +8754,7 @@
     "id": "luma-batch-jR6a4UNcsq5XvJN",
     "slug": "6laijuyn",
     "name": "IslandDAO v5 🇧🇷",
-    "description": "👉 Apply at https://islanddao.org/👈Register ONLY on the link above!\n\nThe world class retreat of one month of coworking, connecting and networking with the top developers, founders, builders, investors in the Solana ecosystem is back and for the first time, we're going to LATAM.\n\n19 Oct- 11 Nov. 🇧🇷Florianópolis (Floripa), Brazil.\n\nBuilding\n\nFeedback sessions\n\nInvestor days\n\nHackathon\n\nDemo Day\n\nWork opportunities\n\nFitness & Wellness\n\nand more\n\nhttps://x.com/islanddao/status/2085390922171228345?s=20\n\nFollow us:\n\nhttps://islanddao.org/\n\nhttps://x.com/islanddao\n\nhttps://www.youtube.com/@IslandDAO\n\n\n## Hosts\n\nHosted by Takisoul, Superteam Brasil.",
+    "description": "👉 Apply at https://islanddao.org/👈Register ONLY on the link above!\n\nThe world class retreat of one month of coworking, connecting and networking with the top developers, founders, builders, investors in the Solana ecosystem is back and for the first time, we're going to LATAM.\n\n19 Oct- 11 Nov. 🇧🇷Florianópolis (Floripa), Brazil.\n\nBuilding\n\nFeedback sessions\n\nInvestor days\n\nHackathon\n\nDemo Day\n\nWork opportunities\n\nFitness & Wellness\n\nand more\n\nhttps://x.com/islanddao/status/2085390922171228345?s=20\n\nFollow us:\n\nhttps://islanddao.org/\n\nhttps://x.com/islanddao\n\nhttps://www.youtube.com/@IslandDAO\n\n## Event details\n\nHosted by Takisoul, Superteam Brasil. The event takes place on October 19.",
     "startDate": "2026-10-19T13:00:00.000Z",
     "endDate": "2026-11-11T21:00:00.000Z",
     "city": "Florianópolis",
@@ -8775,8 +8775,8 @@
     "visibility": "public",
     "sourceVerification": {
       "url": "https://luma.com/6laijuyn",
-      "eventId": "calev-jR6a4UNcsq5XvJN",
-      "fetchedAt": "2026-09-22T11:31:03.000Z",
+      "eventId": "evt-vr1SvUyRNT6X5GE",
+      "fetchedAt": "2026-09-22T11:53:33.000Z",
       "method": "luma-page",
       "apifyRunId": "WHcLsVUsFvlHmcVYz",
       "enrichedAt": "2026-09-22T11:31:29.000Z"
@@ -8907,7 +8907,7 @@
     "id": "luma-batch-KupO2QEcLws6KMf",
     "slug": "8uhc300o",
     "name": "Community Call",
-    "description": "Hey! Get ready to dive into the world of Solana with our Community Call happening Thursday, Jul 3rd, 12:00 PM to 12:30 PM EDT. https://discord.gg/vgt4M7jJfGHosted by Simon, this is your golden ticket to connect, learn, and have a blast with fellow enthusiasts. Whether you're a seasoned pro or just starting out, there's something for everyone. \n\nJoin us on Discord for 30 minutes packed with insights, advice, and all things Superteam Canada.Got questions? Bring 'em on! Want to get more involved? This is your chance! Can't wait to see you there!",
+    "description": "Hey! Get ready to dive into the world of Solana with our Community Call happening Thursday, Jul 3rd, 12:00 PM to 12:30 PM EDT. https://discord.gg/vgt4M7jJfGHosted by Simon, this is your golden ticket to connect, learn, and have a blast with fellow enthusiasts. Whether you're a seasoned pro or just starting out, there's something for everyone. \n\nJoin us on Discord for 30 minutes packed with insights, advice, and all things Superteam Canada.Got questions? Bring 'em on! Want to get more involved? This is your chance! Can't wait to see you there!\n\n## Event details\n\nOrganized by Superteam Canada. The event takes place on November 5.",
     "startDate": "2026-11-05T17:00:00.000Z",
     "endDate": "2026-11-05T17:30:00.000Z",
     "url": "https://luma.com/8uhc300o",
@@ -8921,8 +8921,8 @@
     "visibility": "public",
     "sourceVerification": {
       "url": "https://luma.com/8uhc300o",
-      "eventId": "calev-KupO2QEcLws6KMf",
-      "fetchedAt": "2026-09-22T11:31:03.000Z",
+      "eventId": "evt-kFLbDGioTFqXIpj",
+      "fetchedAt": "2026-09-22T11:53:33.000Z",
       "method": "luma-page",
       "apifyRunId": "WHcLsVUsFvlHmcVYz"
     }

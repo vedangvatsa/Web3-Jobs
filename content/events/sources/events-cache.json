@@ -1858,7 +1858,7 @@
   {
     "id": "luma-host-evt-evt-oGq7JRJkO9n7UNV",
     "name": "Superteam member office hours",
-    "description": "Office hours for Superteam Members.\n\nEvery Wednesday at 2:30pm UTC.\n\nCome rant and ask any questions regarding:\n- marketing support\n- grants and milestones\n- product feedback\n- pitch feedback\n- ecosystem intros\n- fundraising etc.\n\nHosted by Josip Volarević",
+    "description": "Office hours for Superteam Members.Every Wednesday at 2:30pm UTC.Come rant and ask any questions regarding:- marketing support- grants and milestones- product feedback- pitch feedback- ecosystem intros- fundraising etc.Hosted by Josip Volarević\n\n## Event details\n\nHosted by Josip Volarević (Technical founder), Superteam. The event takes place on September 23. Registration requires organizer approval.",
     "startDate": "2026-09-23T14:30:00.000Z",
     "endDate": "2026-09-23T16:00:00.000Z",
     "location": "Location to be announced",
@@ -1894,8 +1894,8 @@
     "sourceVerification": {
       "url": "https://luma.com/member-office-hours",
       "eventId": "evt-oGq7JRJkO9n7UNV",
-      "fetchedAt": "2026-09-19T23:49:34.704Z",
-      "method": "luma-api",
+      "fetchedAt": "2026-09-22T11:53:33.000Z",
+      "method": "luma-page",
       "apifyRunId": "uAC0NtYT5fM5WLkuu"
     }
   },
@@ -3669,7 +3669,7 @@
   {
     "id": "w3v-eastpoint2026",
     "name": "EastPoint 2026",
-    "description": "EastPoint:Seoul 2026 — Korea's premier private, invitation-only summit on digital assets, stablecoins, RWA tokenization, and the AI economy. Co-hosted by Hashed, Bloomingbit, and The Korea Economic Daily. September 28, 2026 at Westin Seoul Parnas.",
+    "description": "EastPoint: Seoul 2026 — Korea's premier private, invitation-only summit on digital assets, stablecoins, RWA tokenization, and the AI economy. Co-hosted by Hashed, Bloomingbit, and The Korea Economic Daily. September 28, 2026 at the Westin Seoul Parnas, 524 Bongeunsa-ro, Gangnam-gu.\n\n## Program\n\n2026 main themes span digital assets, stablecoins, RWA tokenization, and the AI economy, continuing the 2025 program with speakers, partners, and participating institutions. Every attendee is hand-selected for relevance — enterprises, institutions, visionary Web3 builders, forward-thinking policymakers, and top-tier media and thought leaders — creating a room where the right conversations happen.\n\n## Access\n\nThe summit is reviewed by the host committee. Submit an application as an attendee, speaker, sponsor, or partner to join the closed-door room where Korea's institutions, regulators, and global partners meet. Hashed is an investment firm partnering with founders from the earliest moment across blockchain, AI, and content.",
     "startDate": "2026-09-28T09:00:00+09:00",
     "endDate": "2026-09-28T22:00:00+09:00",
     "city": "Seoul",
@@ -3688,9 +3688,9 @@
     "addressCountry": "KR",
     "descriptionSource": {
       "url": "https://www.eastpoint.xyz/",
-      "fetchedAt": "2026-09-20T00:20:56.327Z",
-      "method": "event-jsonld",
-      "pageTitle": "EastPoint:Seoul 2026 | Digital Asset & AI Summit",
+      "fetchedAt": "2026-09-22T12:14:29.000Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "EastPoint: Seoul 2026 | Digital Asset & AI Summit",
       "sha256": "c041c7ccf874b3597da21309520c88d6c2f6b7326adfae664b6b3555088c7930"
     }
   },
@@ -3843,7 +3843,7 @@
   {
     "id": "w3v-rayls-community-meetup-seoul",
     "name": "Rayls Community Meetup: Seoul",
-    "description": "## More details to be shared soon.\n\n\nAbout Rayls (https://www.rayls.com/?utm_source=luma)\n\nRayls (https://www.rayls.com/?utm_source=luma) is a blockchain ecosystem that bridges traditional finance with decentralized finance by providing a compliant, private, and scalable infrastructure for financial institutions. Its hybrid architecture combines permissioned private networks with an EVM-compatible public chain to facilitate use cases like asset tokenization, cross-border payments, and central bank digital currency settlement.\n\nRegister to secure your spot and we'll share more details soon.",
+    "description": "More details to be shared soon.About Rayls\n\nRayls is a blockchain ecosystem that bridges traditional finance with decentralized finance by providing a compliant, private, and scalable infrastructure for financial institutions. Its hybrid architecture combines permissioned private networks with an EVM-compatible public chain to facilitate use cases like asset tokenization, cross-border payments, and central bank digital currency settlement.\n\nRegister to secure your spot and we'll share more details soon.\n\n## Event details\n\nHosted by Rayls . (Bringing Finance Onchain.). The event takes place on September 28. Registration requires organizer approval.",
     "startDate": "2026-09-28T09:00:00.000Z",
     "endDate": "2026-09-28T11:30:00.000Z",
     "city": "Seoul",
@@ -3882,8 +3882,8 @@
     "sourceVerification": {
       "url": "https://luma.com/blzswe27",
       "eventId": "evt-O5Q7EdkGi9b5HtD",
-      "fetchedAt": "2026-09-19T23:49:54.624Z",
-      "method": "luma-api",
+      "fetchedAt": "2026-09-22T11:53:33.000Z",
+      "method": "luma-page",
       "apifyRunId": "uAC0NtYT5fM5WLkuu"
     }
   },
@@ -4141,7 +4141,7 @@
   {
     "id": "luma-evt-REWXMIhzOXT25u3",
     "name": "Sunsets & Stablecoins: A zerohash Happy Hour",
-    "description": "Join zerohash after SIBOS for cocktails and conversations as the sun sets over the Miami skyline. No agenda just networking with fellow attendees.\n\nLocated a quick walk from the Miami Beach Convention Center, Twisted Tonic offers unbeatable views of Miami Beach paired with apothecary-inspired cocktails.\n\nSpace is limited so RSVP and secure your spot today.",
+    "description": "Join zerohash after SIBOS for cocktails and conversations as the sun sets over the Miami skyline. No agenda just networking with fellow attendees.\n\nLocated a quick walk from the Miami Beach Convention Center, Twisted Tonic offers unbeatable views of Miami Beach paired with apothecary-inspired cocktails.\n\nSpace is limited so RSVP and secure your spot today.\n\n## Event details\n\nHosted by zerohash (Where Transactions Move At The Speed Of Ideas.). Venue: The Twisted Tonic - Rooftop Bar, 723 Lincoln Ln N Unit 107, Miami Beach, FL 33139, USA. The event takes place on September 29. Registration requires organizer approval.\n Doors open at 6:00 PM local time.",
     "startDate": "2026-09-29T22:00:00.000Z",
     "endDate": "2026-09-30T00:00:00.000Z",
     "city": "Miami Beach",
@@ -4184,8 +4184,8 @@
     "sourceVerification": {
       "url": "https://luma.com/4ossewg8",
       "eventId": "evt-REWXMIhzOXT25u3",
-      "fetchedAt": "2026-09-19T23:49:55.937Z",
-      "method": "luma-api",
+      "fetchedAt": "2026-09-22T11:53:33.000Z",
+      "method": "luma-page",
       "apifyRunId": "uAC0NtYT5fM5WLkuu"
     }
   },
@@ -4742,7 +4742,7 @@
   {
     "id": "w3v-rayls-in-seoul",
     "name": "Rayls in Seoul | KBW",
-    "description": "Rayls will be in Seoul during Korea Blockchain Week, bringing together leaders across financial services, digital assets and onchain infrastructure.\n\nMore details will be announced soon.\n\nRegister now to receive priority access and be first to hear about what’s planned.\n\n\n\nAbout Rayls (https://www.rayls.com/?utm_source=luma)\n\nRayls (https://www.rayls.com/?utm_source=luma) is a blockchain ecosystem that bridges traditional finance with decentralized finance by providing a compliant, private, and scalable infrastructure for financial institutions. Its hybrid architecture combines permissioned private networks with an EVM-compatible public chain to facilitate use cases like asset tokenization, cross-border payments, and central bank digital currency settlement",
+    "description": "Rayls will be in Seoul during Korea Blockchain Week, bringing together leaders across financial services, digital assets and onchain infrastructure.\n\nMore details will be announced soon.Register now to receive priority access and be first to hear about what’s planned.About Rayls\n\nRayls is a blockchain ecosystem that bridges traditional finance with decentralized finance by providing a compliant, private, and scalable infrastructure for financial institutions. Its hybrid architecture combines permissioned private networks with an EVM-compatible public chain to facilitate use cases like asset tokenization, cross-border payments, and central bank digital currency settlement\n\n## Event details\n\nHosted by Rayls . (Bringing Finance Onchain.). Venue: Seoul, South Korea. The event takes place on September 30. Registration requires organizer approval.",
     "startDate": "2026-09-30T09:00:00.000Z",
     "endDate": "2026-09-30T12:30:00.000Z",
     "city": "Seoul",
@@ -4789,8 +4789,8 @@
     "sourceVerification": {
       "url": "https://luma.com/r5p3iwb8",
       "eventId": "evt-uMma490f6FR40ix",
-      "fetchedAt": "2026-09-19T23:54:12.111Z",
-      "method": "luma-api",
+      "fetchedAt": "2026-09-22T11:53:33.000Z",
+      "method": "luma-page",
       "apifyRunId": "uAC0NtYT5fM5WLkuu"
     }
   },
@@ -7009,7 +7009,7 @@
   {
     "id": "w3v-anti-capital-private-reception-singapore",
     "name": "Anti Capital Private Reception: Singapore",
-    "description": "Join us on October 7th, 6:30–9:30 PM during TOKEN2049 Singapore for an evening reception with Anti Capital. Connect with leading projects, investors, and traders from across the digital asset ecosystem over craft drinks, light bites, and prime riverside views at Boat Quay as the conference day winds down.\n\nHosted by Anti Capital, a high-frequency trading firm based in New York and Taipei. As a quantitative digital asset trading firm, we conduct algorithmic market-making and high-frequency trading on most major global exchanges. \n\n📍Exact location details will be shared upon RSVP approval.\n\nHope to see you there! ✨",
+    "description": "Join us on October 7th, 6:30–9:30 PM during TOKEN2049 Singapore for an evening reception with Anti Capital. Connect with leading projects, investors, and traders from across the digital asset ecosystem over craft drinks, light bites, and prime riverside views at Boat Quay as the conference day winds down.\n\nHosted by Anti Capital, a high-frequency trading firm based in New York and Taipei. As a quantitative digital asset trading firm, we conduct algorithmic market-making and high-frequency trading on most major global exchanges. 📍Exact location details will be shared upon RSVP approval.\n\nHope to see you there! ✨\n\n## Event details\n\nHosted by Kitty, Anti Capital, Maxim ｜Anti Capital (CEO & Founder of Anti Capital), Nick | Anti Capital (Institutional Strategy & Research @ Anti Capital), Leticia | Anti Capital (Institutional Partnership Manager @ Anti Capital). The event takes place on October 6. Registration requires organizer approval.",
     "startDate": "2026-10-06T10:30:00.000Z",
     "endDate": "2026-10-06T13:30:00.000Z",
     "city": "Singapore",
@@ -7049,8 +7049,8 @@
     "sourceVerification": {
       "url": "https://luma.com/z4m5lous",
       "eventId": "evt-D0GJMxDaKeYYQmO",
-      "fetchedAt": "2026-09-19T23:54:37.804Z",
-      "method": "luma-api",
+      "fetchedAt": "2026-09-22T11:53:33.000Z",
+      "method": "luma-page",
       "apifyRunId": "uAC0NtYT5fM5WLkuu"
     }
   },
@@ -8210,7 +8210,7 @@
   {
     "id": "w3v-proof-of-liquidity-vip-dinner-by-yield-network-ink-chain-rockawayx-and-nexus-mutual",
     "name": "Proof Of Liquidity: VIP Dinner by Yield Network, Ink Chain, RockawayX, and Nexus Mutual",
-    "description": "## Proof Of Liquidity: Private Dinner\n\nPrivate dinner for a limited group of participants from Proof of Liquidity.\n\nHosted to connect the supply side (Allocators, Treasuries) and the demand side (L2s, RWAs, Protocols) in a highly curated circle during TOKEN2049.\n\nFormat: seated dinner at a 5-star restaurant in Singapore.\nSize: 30 guests.\nFocus: curated introductions and senior-level networking.\n\nNo media. No public access.",
+    "description": "Proof Of Liquidity: Private Dinner\n\nPrivate dinner for a limited group of participants from Proof of Liquidity.\n\nHosted to connect the supply side (Allocators, Treasuries) and the demand side (L2s, RWAs, Protocols) in a highly curated circle during TOKEN2049.\n\nFormat: seated dinner at a 5-star restaurant in Singapore.Size: 30 guests.Focus: curated introductions and senior-level networking.\n\nNo media. No public access.\n\n## Event details\n\nHosted by Yield Network, Ink Foundation, RockawayX, Nexus Mutual (Nexus Mutual). Venue: Singapore. The event takes place on October 9. Registration requires organizer approval.",
     "startDate": "2026-10-09T11:00:00.000Z",
     "endDate": "2026-10-09T14:00:00.000Z",
     "city": "Singapore",
@@ -8260,8 +8260,8 @@
     "sourceVerification": {
       "url": "https://luma.com/kh3uenfj",
       "eventId": "evt-XWRnIE2yY8AFJIF",
-      "fetchedAt": "2026-09-19T23:54:52.244Z",
-      "method": "luma-api",
+      "fetchedAt": "2026-09-22T11:53:33.000Z",
+      "method": "luma-page",
       "apifyRunId": "uAC0NtYT5fM5WLkuu"
     }
   },
@@ -8745,7 +8745,7 @@
   {
     "id": "ma-aibc-world",
     "name": "AIBC World",
-    "description": "Discover AIBC World, connecting innovators in AI, blockchain, and emerging tech through global events, networking, and insights shaping the future.",
+    "description": "Discover AIBC World, connecting innovators in AI, blockchain, and emerging tech through global events, networking, and insights shaping the future.\n\n## AIBC Europe: Rome\n\nThis November, all roads lead to Rome to witness tech luminaries (AIBC), gaming innovators (SiGMA), financial leaders and more as frontier technology meets the real world and scales digitally. Join 1,000 exhibitors, 300 speakers and 30,000 delegates for what augurs to become the most talked about frontier tech summit in Europe.\n\n## Program\n\nBlockchain, AI and crypto exhibitors alongside payments and fintech exhibitors, an agenda with speaker sessions, ecosystem partners and media partners. Arrival day lets delegates settle in, register, and explore the venue at Fiera Roma, with optional city tours, informal networking meet-ups, and an initial walk-through. AIBC Road to Rome runs iGatherings and meetups in the buildup.",
     "startDate": "2026-11-02T00:00:00.000Z",
     "endDate": "2026-11-05T00:00:00.000Z",
     "city": "Rome, Italy",
@@ -8756,10 +8756,10 @@
     "source": "marketacross",
     "month": "November 2026",
     "descriptionSource": {
-      "url": "https://aibc.world/",
-      "fetchedAt": "2026-09-20T00:20:56.493Z",
-      "method": "official-meta",
-      "pageTitle": "Home",
+      "url": "https://aibc.world/europe/",
+      "fetchedAt": "2026-09-22T12:01:12.000Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "AIBC World",
       "sha256": "3b92a67dbeddd649c2c4eda7b4c3a2856b5d625c9808f3aacb0e3a0cfce48f09"
     }
   },
@@ -8959,7 +8959,7 @@
   {
     "id": "w3v-200ms-26-11-13",
     "name": "200ms",
-    "description": "This event will focus on the Solana's microstructure and DeFi landscape: what's happening, how it impacts DeFi projects and what traders should know.\n\nAttendance will be free but selective. Priority is given for Solana builders, core developers, and on-chain traders.\n\nThanks to all the sponsors: Anza (https://www.anza.xyz/?utm_source=luma), Ellipsis Labs (https://x.com/ellipsis_labs?utm_source=luma), Helius (http://helius.dev/?utm_source=luma), Jito Foundation (https://x.com/jito_sol?utm_source=luma), Multicoin Capital (https://multicoin.capital/?utm_source=luma), Triton One (https://x.com/triton_one?utm_source=luma), and Temporal (https://temporal.xyz/).",
+    "description": "This event will focus on the Solana's microstructure and DeFi landscape: what's happening, how it impacts DeFi projects and what traders should know.\n\nAttendance will be free but selective. Priority is given for Solana builders, core developers, and on-chain traders.\n\nThanks to all the sponsors: Anza, Ellipsis Labs, Helius, Jito Foundation, Multicoin Capital, Triton One, and Temporal.\n\n## Event details\n\nVenue: Olympia, Hammersmith Rd, London W14 8UX, UK. Organized by Jito Events. The event takes place on November 13. Registration requires organizer approval.",
     "startDate": "2026-11-13T09:00:00.000Z",
     "endDate": "2026-11-13T18:00:00.000Z",
     "city": "London",
@@ -9003,8 +9003,8 @@
     "sourceVerification": {
       "url": "https://luma.com/6xip72je",
       "eventId": "evt-UqUVnzhZE8gFPkd",
-      "fetchedAt": "2026-09-19T23:54:58.256Z",
-      "method": "luma-api",
+      "fetchedAt": "2026-09-22T11:53:33.000Z",
+      "method": "luma-page",
       "apifyRunId": "uAC0NtYT5fM5WLkuu"
     }
   },
@@ -9514,7 +9514,7 @@
   {
     "id": "ma-blockcon-punta-cana-2026",
     "name": "BlockCon Punta Cana 2026",
-    "description": "The high-end all-inclusive Web3 & iGaming Business Retreat bridging Finance, iGaming & the Digital Economy.",
+    "description": "The high-end all-inclusive Web3 and iGaming business retreat bridging finance, iGaming and the digital economy in Punta Cana, November 25–28, 2026, at Barcelo Bavaro Beach.\n\n## Program\n\nA Web3 business retreat focused on finance, iGaming, venture capital, startup growth, dealmaking, and the broader digital economy, with a startup and VC matchmaking session, panels, convention-center networking sessions, banking and Web3 roundtables, and VIP experiences with exclusive networking sessions and retreat activities. Coffee breaks and all panels are covered.\n\n## Speakers\n\nFeatured speakers include Shaikh Ali Sultan Al Nuaimi (royal family of the Emirate of Ajman, BOF Investments and Ajman Bank) and Danish Chotani (CEO at Burj Financial), among others.",
     "startDate": "2026-11-25T09:00:00-04:00",
     "endDate": "2026-11-28T18:00:00-04:00",
     "city": "Punta Cana",
@@ -9530,8 +9530,8 @@
     "addressCountry": "DO",
     "descriptionSource": {
       "url": "https://www.blockcon.co/",
-      "fetchedAt": "2026-09-20T00:20:57.161Z",
-      "method": "event-jsonld",
+      "fetchedAt": "2026-09-22T12:01:12.000Z",
+      "method": "reviewed-primary-sources",
       "pageTitle": "BlockCon Punta Cana | Web3 & iGaming Business Retreat | November 25th-28th, 2026",
       "sha256": "c813c64dd2ab134b933e45fced310f3f77efdd09b7195be49aa8b2af52d944a9"
     }
@@ -9574,7 +9574,7 @@
   {
     "id": "w3v-proof-of-talk-abu-dhabi",
     "name": "Proof of Talk Abu Dhabi",
-    "description": "The most exclusive room for capital, digital assets and AI. C-suite decision-makers, no pay-to-speak.",
+    "description": "Proof of Talk Abu Dhabi 2026: the digital assets executive summit at the Louvre Abu Dhabi, December 3–4, 2026 — the inaugural Gulf edition of the most exclusive room for capital, digital assets and AI.\n\n## Format\n\nThe stage is earned, not bought: no pay-to-speak, with 95% sitting CEOs and founders. Two days for 2,000 capped decision-makers, with 45 partners rather than 500 sponsors — global reach with curated density.\n\n## Track record\n\nParis, June 2026: 2,500 decision-makers, 120+ speakers at CEO and founder level, in one room built to hold them. Four Louvre editions of record set the standard the Gulf inherits.",
     "startDate": "2026-12-03",
     "endDate": "2026-12-04",
     "city": "Abu Dhabi",
@@ -9590,8 +9590,8 @@
     "addressCountry": "United Arab Emirates",
     "descriptionSource": {
       "url": "https://proofoftalk.io/abu-dhabi/",
-      "fetchedAt": "2026-09-20T00:20:57.713Z",
-      "method": "event-jsonld",
+      "fetchedAt": "2026-09-22T12:14:29.000Z",
+      "method": "reviewed-primary-sources",
       "pageTitle": "Proof of Talk Abu Dhabi 2026",
       "sha256": "7eab7dd3a4a6e95802c541b7b2a8e1fdd78bef29a2cd0e2b78af581e6657c0ed"
     }
@@ -9780,7 +9780,7 @@
   {
     "id": "luma-host-evt-evt-r6tADv4L8KdncKD",
     "name": "ETHConf 2027",
-    "description": "ETHConf is ETHGlobal's three-day institutional Ethereum event, taking place June 14–16, 2027 at the Javits Center in New York City.",
+    "description": "ETHConf is the world's largest institutional Ethereum event. Join 2,000+ founders, speakers, industry leaders, companies, and builders shaping the future of Ethereum in New York, June 14–16, 2027, at the Javits Center, 429 11th Avenue.\n\n## Program\n\nThree days of focused conversations with the founders, builders, institutions, and policymakers moving the EVM ecosystem forward. Expect candid mainstage discussions, technical sessions, and product showcases spanning markets, infrastructure, institutions, and the policy questions that come with them — connecting the teams advancing Ethereum, scaling networks, developer infrastructure, security, data, and open-source coordination.\n\n## Tickets\n\nExplore every ETHConf pass option and lock in discounted access. Speaker, sponsor, media partner, and community builder applications run through the official site.",
     "startDate": "2027-06-14T08:30:00-04:00",
     "endDate": "2027-06-16T18:00:00-04:00",
     "city": "New York",
@@ -9798,8 +9798,8 @@
     "addressCountry": "US",
     "descriptionSource": {
       "url": "https://ethconf.com/",
-      "fetchedAt": "2026-09-20T00:20:58.275Z",
-      "method": "event-jsonld",
+      "fetchedAt": "2026-09-22T12:14:29.000Z",
+      "method": "reviewed-primary-sources",
       "pageTitle": "ETHConf — June 14–16, 2027 | The World's Largest Institutional Ethereum Event",
       "sha256": "a2be8757bb23983d0188180568113c686fc28cf244e56b3d02593f6eb885a83e"
     }
@@ -9807,7 +9807,7 @@
   {
     "id": "token2049-side-6a4fab1c10f84b19adc724c0",
     "name": "Digital Asset Summit Asia 2026",
-    "description": "Crypto's Premier Institutional Event Arrives In Asia",
+    "description": "Crypto's premier institutional event arrives in Asia: Digital Asset Summit Asia 2026 by Blockworks, on October 7, 2026 at Marina Bay Sands Singapore.\n\n## Program\n\nBuilt for the leaders of the onchain economy. With landmark bills now passed in the U.S., programming explores the nuances of regulatory frameworks policymakers worldwide have laid out for the maturing digital asset ecosystem, while leading DeFi architects unpack protocol design, lending and borrowing markets, market structure, risk curation and management, trading venues, and more.\n\n## Tickets\n\nGeneral Admission early access is listed at US$699 — save $100 when you purchase before September 25th. An exclusive VIP and speaker dinner takes place on October 7. All attendees must present valid photo ID at badge pickup, and prices are subject to increase.",
     "startDate": "2026-10-07T14:00:00.000Z",
     "endDate": "2026-10-07T23:00:00.000Z",
     "city": "Singapore",
@@ -9824,8 +9824,8 @@
     "streetAddress": "10 Bayfront Ave, Singapore 018956",
     "descriptionSource": {
       "url": "https://blockworks.com/event/digital-asset-summit-asia",
-      "fetchedAt": "2026-09-20T00:20:58.660Z",
-      "method": "event-jsonld",
+      "fetchedAt": "2026-09-22T12:01:12.000Z",
+      "method": "reviewed-primary-sources",
       "pageTitle": "Digital Asset Summit Asia 2026",
       "sha256": "166a9fc5c162b03929a9b31879efb9c27e020ee06f80f7b871ec51e9869e486d"
     },
@@ -10051,7 +10051,7 @@
   {
     "id": "token2049-side-6a69774bd1b48ddf39d09150",
     "name": "THE DEALFLOW SINGAPORE - INVESTOR BRUNCH",
-    "description": "An invitation-only brunch for verified investors, family offices, and VCs. Recognized as one of the highest-quality side events.\n\nTHE DEALFLOW SINGAPORE is set to begin a busy RWA WEEK and TOKEN2049 WEEK in Singapore. Join 50 selected investors at the private lounge in the heart of Singapore.\n\nInterested in co-hosting/partnership? Reach out to us: ivan@uvecon.vc\n\nTHE DEALFLOW is an event of SINGAPORE RWA WEEK (https://rwaweek.com/singapore).",
+    "description": "An invitation-only brunch for verified investors, family offices, and VCs. Recognized as one of the highest-quality side events.\n\nTHE DEALFLOW SINGAPORE is set to begin a busy RWA WEEK and TOKEN2049 WEEK in Singapore. Join 50 selected investors at the private lounge in the heart of Singapore.\n\nInterested in co-hosting/partnership? Reach out to us: ivan@uvecon.vc\n\nTHE DEALFLOW is an event of SINGAPORE RWA WEEK.\n\n## Event details\n\nHosted by UVECON.VC, Joao Raza. The event takes place on October 5. Registration requires organizer approval.",
     "startDate": "2026-10-05T02:00:00.000Z",
     "endDate": "2026-10-05T05:00:00.000Z",
     "city": "Singapore",
@@ -10092,8 +10092,8 @@
     "sourceVerification": {
       "url": "https://luma.com/dealflowsg",
       "eventId": "evt-LI761OV18NCcul7",
-      "fetchedAt": "2026-09-19T23:55:06.118Z",
-      "method": "luma-api",
+      "fetchedAt": "2026-09-22T11:53:33.000Z",
+      "method": "luma-page",
       "apifyRunId": "uAC0NtYT5fM5WLkuu"
     }
   },
@@ -10342,7 +10342,7 @@
   {
     "id": "token2049-side-6aa2607dd567345aad685524",
     "name": "Duck & Digital Assets - A Private Dinner by CoinMarketCap × GVRN x Y Strategy x Clique",
-    "description": "An intimate evening bringing together a curated group of c-suites, investors, exchanges, market makers and industry leaders over Peking duck at TungLok.\n\nJust good food, good people and candid conversations around digital asset markets.\n\nAttendance is limited and requests to join are reviewed.",
+    "description": "An intimate evening bringing together a curated group of c-suites, investors, exchanges, market makers and industry leaders over Peking duck at TungLok.\n\nJust good food, good people and candid conversations around digital asset markets.\n\nAttendance is limited and requests to join are reviewed.\n\n## Event details\n\nHosted by Charles-Nicolas Gaubert-Amy, Alice Liu, Vigil (Growth @ GVRN.AI), Jiayi. The event takes place on October 5. Registration requires organizer approval.",
     "startDate": "2026-10-05T10:00:00.000Z",
     "endDate": "2026-10-05T14:00:00.000Z",
     "city": "Singapore",
@@ -10379,15 +10379,15 @@
     "sourceVerification": {
       "url": "https://luma.com/glyx08pi",
       "eventId": "evt-4isv3EM8LfLNuH7",
-      "fetchedAt": "2026-09-19T23:55:09.822Z",
-      "method": "luma-api",
+      "fetchedAt": "2026-09-22T11:53:33.000Z",
+      "method": "luma-page",
       "apifyRunId": "uAC0NtYT5fM5WLkuu"
     }
   },
   {
     "id": "token2049-side-6a968fcd967be0befa88a520",
     "name": "Allocators | Managers | Providers | VIP Dinner (invite only)",
-    "description": "An intimate, invite-only dinner bringing together leading allocators, asset managers and infrastructure providers shaping the future of capital.\n\nHosted by MakeBanc, the evening is designed for high-quality conversation, meaningful introductions and candid discussion around performance, distribution, infrastructure and the evolving needs of sophisticated investors.\n\nNo panels.\n\nNo pitches.\n\nJust the right people, around one table.",
+    "description": "An intimate, invite-only drinks bringing together leading allocators, asset managers and infrastructure providers shaping the future of capital.\n\nHosted by MakeBanc, the evening is designed for high-quality conversation, meaningful introductions and candid discussion around performance, distribution, infrastructure and the evolving needs of sophisticated investors.\n\nNo panels.\n\nNo pitches.\n\nJust the right people, coming together at a unique venue.\n\n## Event details\n\nHosted by Chris Mihos | MakeBanc (Founder & CEO of makebanc.com), Alex Zonneveld | MakeBanc (Co-Founder & CPO @ MakeBanc). The event takes place on October 5. Registration requires organizer approval.\n Doors open at 7:30 PM local time.\n\nEntry is free.",
     "startDate": "2026-10-05T11:30:00.000Z",
     "endDate": "2026-10-05T14:30:00.000Z",
     "city": "Singapore",
@@ -10423,8 +10423,8 @@
     "sourceVerification": {
       "url": "https://luma.com/a7awb2po",
       "eventId": "evt-KkOv2L8bJrWs8vr",
-      "fetchedAt": "2026-09-19T23:55:10.084Z",
-      "method": "luma-api",
+      "fetchedAt": "2026-09-22T11:53:33.000Z",
+      "method": "luma-page",
       "apifyRunId": "uAC0NtYT5fM5WLkuu"
     }
   },
@@ -11533,7 +11533,7 @@
   {
     "id": "token2049-side-6a982b78d567345aad682ccf",
     "name": "zeroxkyle's Frens Hotpot 2",
-    "description": "doing a small hotpot pre token2049!~\n\nfor all the friends i've made in this crazy, fun industry in the past 5 years - traders, founders, investors, etc.\n\nsingapore.",
+    "description": "doing a small hotpot pre token2049!~\n\nfor all the friends i've made in this crazy, fun industry in the past 5 years - traders, founders, investors, etc.\n\nsingapore.\n\n## Event details\n\nHosted by Kyle (gmeow). The event takes place on October 6. Registration requires organizer approval.",
     "startDate": "2026-10-06T04:30:00.000Z",
     "endDate": "2026-10-06T07:30:00.000Z",
     "city": "Singapore",
@@ -11567,8 +11567,8 @@
     "sourceVerification": {
       "url": "https://luma.com/tiud7qqj",
       "eventId": "evt-VY3PkTh2LgA1kjc",
-      "fetchedAt": "2026-09-19T23:55:18.957Z",
-      "method": "luma-api",
+      "fetchedAt": "2026-09-22T11:53:33.000Z",
+      "method": "luma-page",
       "apifyRunId": "uAC0NtYT5fM5WLkuu"
     }
   },
@@ -12669,7 +12669,7 @@
   {
     "id": "token2049-side-6aa3f80a967be0befa88dd56",
     "name": "Origins Hackathon - Day 2",
-    "description": "36-hour crypto hackathon at TOKEN2049 Singapore. 200 participants build projects in DeFi, infrastructure, NFTs, or AI, with mentorship and demo opportunities on the main stage to 25,000 attendees.",
+    "description": "TOKEN2049 Origins Hackathon, October 6–8, 2026 at Marina Bay Sands Singapore — 200 participants, 36 hours, $150,000 in prizes.\n\n## Format\n\nTake your idea from concept to working product in just 36 hours. Build in DeFi, infrastructure, NFTs, or AI, get mentorship, and demo on the TOKEN2049 stage to 25,000 attendees. The hackathon runs alongside TOKEN2049 Singapore at Marina Bay Sands. Rest and chill-out spaces are available on a first-come, first-served basis.\n\n## Access\n\nConnect with 25,000 attendees, media, and industry leaders shaping Web3. Applications for 2026 are closed — join the Origins 2027 waitlist.\n\nFinalists demo on the main stage, with tracks across DeFi, infrastructure, NFTs, and AI.",
     "startDate": "2026-10-07T00:00:00+08:00",
     "endDate": "2026-10-07T23:59:00+08:00",
     "city": "Singapore",
@@ -12687,34 +12687,10 @@
     "addressCountry": "SG",
     "descriptionSource": {
       "url": "https://www.token2049.com/singapore/2049-origins",
-      "fetchedAt": "2026-09-20T00:20:41.129Z",
-      "method": "event-jsonld",
-      "pageTitle": "Origins Hackathon  | TOKEN2049 | Singapore",
+      "fetchedAt": "2026-09-22T12:14:29.000Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "TOKEN2049 Origins Hackathon, October 6–8, 2026",
       "sha256": "b86efaf38ce581aecf4a038346c252f9625f4f3ab9ece483fedfb8c5ddcd4852"
-    }
-  },
-  {
-    "id": "token2049-side-6a51f5763438be070d7a99de",
-    "name": "Curated Networking with Collably Network - Day 1",
-    "description": "Stop random networking. Connect with high-intent partners at events & online. Turn conversations into deals.",
-    "startDate": "2026-10-07T07:00:00+08:00",
-    "endDate": "2026-10-07T19:00:00+08:00",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Singapore, SG",
-    "url": "https://t.me/CollablyNetworkEventBot?referrer=luma",
-    "coverImage": "/events/token2049-side-6a51f5763438be070d7a99de-3a3a02bd.webp",
-    "source": "token2049-official",
-    "month": "October 2026",
-    "category": "Workshop/Hackathon",
-    "price": "Free",
-    "token2049SideEvent": true,
-    "descriptionSource": {
-      "url": "https://t.me/CollablyNetworkEventBot?referrer=luma",
-      "fetchedAt": "2026-09-20T00:21:00.523Z",
-      "method": "official-meta",
-      "pageTitle": "Collably Network",
-      "sha256": "69fe54c76e5d9c3616eb6152e477fd383e903ced8648155e80bb01df5f51df65"
     }
   },
   {
@@ -13313,7 +13289,7 @@
   {
     "id": "token2049-side-6aa13e9a967be0befa88cee0",
     "name": "Token2049 VIP-Only Luncheon",
-    "description": "Lido Institutional and Spectrum Nodes are organising an intimate, invitation-only luncheon bringing together our clients and a select group of industry leaders attending TOKEN2049.\n\nThis is not a large-format networking event.\n\nThe table is intentionally small, with every guest carefully selected among executives and decision-makers from leading institutions across banking, digital asset infrastructure, and DeFi.\n\nWe are bringing together the key people who are driving institutional adoption of digital assets in a setting designed for meaningful conversation, new relationships, and candid exchange.\n\nAttendance is strictly by approval, and confirmed guests will receive a private invitation upon acceptance.",
+    "description": "Lido Institutional and Spectrum Nodes are organising an intimate, invitation-only luncheon bringing together our clients and a select group of industry leaders attending TOKEN2049.This is not a large-format networking event.The table is intentionally small, with every guest carefully selected among executives and decision-makers from leading institutions across banking, digital asset infrastructure, and DeFi.We are bringing together the key people who are driving institutional adoption of digital assets in a setting designed for meaningful conversation, new relationships, and candid exchange.Attendance is strictly by approval, and confirmed guests will receive a private invitation upon acceptance.\n\n## Event details\n\nHosted by Spectrum Nodes, Lido Events. The event takes place on October 7. Registration requires organizer approval.",
     "startDate": "2026-10-07T03:30:00.000Z",
     "endDate": "2026-10-07T06:30:00.000Z",
     "city": "Singapore",
@@ -13349,8 +13325,8 @@
     "sourceVerification": {
       "url": "https://luma.com/48741c64",
       "eventId": "evt-pwT49AgOl5iGs88",
-      "fetchedAt": "2026-09-19T23:55:37.580Z",
-      "method": "luma-api",
+      "fetchedAt": "2026-09-22T11:53:33.000Z",
+      "method": "luma-page",
       "apifyRunId": "uAC0NtYT5fM5WLkuu"
     }
   },
@@ -13405,7 +13381,7 @@
   {
     "id": "token2049-side-6aa63467c0426d278bd882e1",
     "name": "Confessions of a Unicorn Founder (Token2049, 2026)",
-    "description": "Join Alliance for an evening of networking and confessions.\n\nOur hosts will confess the best and worst decisions they've made as founders.\n\nAs part of registering for this event, we're asking attendees to share their own confessions. We'll invite the best ones to share live with the group.\n\nAgenda:\n\n\n• 7pm - Welcome\n• 7:30pm - Confessions\n• 8:30pm - Networking\n\nWe'll have passed canapés and drinks available throughout the event.",
+    "description": "Join Alliance for an evening of networking and confessions.\n\nOur hosts will confess the best and worst decisions they've made as founders.\n\nAs part of registering for this event, we're asking attendees to share their own confessions. We'll invite the best ones to share live with the group.\n\nAgenda:\n\n7pm - Welcome\n\n7:30pm - Confessions\n\n8:30pm - Networking\n\nWe'll have passed canapés and drinks available throughout the event.\n\n## Event details\n\nHosted by Jocelyn Robancho (Operations @ Alliance), Will Robinson, Danny, Simon Chamorro. The event takes place on October 7. Registration requires organizer approval.\n Doors open at 7:00 PM local time.",
     "startDate": "2026-10-07T11:00:00.000Z",
     "endDate": "2026-10-07T14:00:00.000Z",
     "city": "Singapore",
@@ -13448,8 +13424,8 @@
     "sourceVerification": {
       "url": "https://luma.com/confessions",
       "eventId": "evt-bDMnqBnocgXAuri",
-      "fetchedAt": "2026-09-19T23:55:39.101Z",
-      "method": "luma-api",
+      "fetchedAt": "2026-09-22T11:53:33.000Z",
+      "method": "luma-page",
       "apifyRunId": "uAC0NtYT5fM5WLkuu"
     }
   },
@@ -13951,7 +13927,7 @@
   {
     "id": "token2049-side-6a9bdd92967be0befa88badc",
     "name": "Capital x Counsel SG",
-    "description": "We’re bringing together people across capital and counsel for an easy evening of drinks, sharp conversations, and useful introductions!\n\nNo panels. No pitches. No forced networking. Just founders, investors, operators, lawyers, advisors, and other interesting people across crypto, Web3, and emerging tech in one room.\n\nCome when you can and leave when you need to.",
+    "description": "We’re bringing together people across capital and counsel for an easy evening of drinks, sharp conversations, and useful introductions!No panels. No pitches. No forced networking. Just founders, investors, operators, lawyers, advisors, and other interesting people across crypto, Web3, and emerging tech in one room.Come when you can and leave when you need to.\n\n## Event details\n\nOrganized by Gosai Law. The event takes place on October 6. Registration requires organizer approval.",
     "startDate": "2026-10-06T11:00:00.000Z",
     "endDate": "2026-10-06T14:00:00.000Z",
     "city": "Singapore",
@@ -13989,8 +13965,8 @@
     "sourceVerification": {
       "url": "https://luma.com/5wqt0ady",
       "eventId": "evt-dlxV9pMY7oLdviW",
-      "fetchedAt": "2026-09-19T23:55:45.171Z",
-      "method": "luma-api",
+      "fetchedAt": "2026-09-22T11:53:33.000Z",
+      "method": "luma-page",
       "apifyRunId": "uAC0NtYT5fM5WLkuu"
     }
   },
@@ -14400,33 +14376,9 @@
     }
   },
   {
-    "id": "token2049-side-6a51f5783438be070d7a99e0",
-    "name": "Curated Networking with Collably Network - Day 2",
-    "description": "Stop random networking. Connect with high-intent partners at events & online. Turn conversations into deals.",
-    "startDate": "2026-10-08T07:00:00+08:00",
-    "endDate": "2026-10-08T19:00:00+08:00",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Singapore, SG",
-    "url": "https://t.me/CollablyNetworkEventBot?referrer=luma",
-    "coverImage": "/events/token2049-side-6a51f5783438be070d7a99e0-7998c3a7.webp",
-    "source": "token2049-official",
-    "month": "October 2026",
-    "category": "Workshop/Hackathon",
-    "price": "Free",
-    "token2049SideEvent": true,
-    "descriptionSource": {
-      "url": "https://t.me/CollablyNetworkEventBot?referrer=luma",
-      "fetchedAt": "2026-09-20T00:21:00.523Z",
-      "method": "official-meta",
-      "pageTitle": "Collably Network",
-      "sha256": "69fe54c76e5d9c3616eb6152e477fd383e903ced8648155e80bb01df5f51df65"
-    }
-  },
-  {
     "id": "token2049-side-6a54a1523438be070d7a9bdd",
     "name": "TOKEN2049 Singapore - Day 2",
-    "description": "TOKEN2049 is the world's largest crypto event. Join the crypto ecosystem's decision-makers in Singapore to connect, exchange ideas, network, and shape the industry.",
+    "description": "TOKEN2049 Singapore runs 7–8 October 2026 at Marina Bay Sands — day two, October 8, continues the main program of the world's largest crypto event.\n\n## The event\n\n25,000+ attendees, 7,000+ companies, 300+ speakers and 500+ exhibitors across two days, with over 60% of attendees at C-level. Day two carries the full conference program: main stages, the NEXUS startup competition (500 applicants, 10 finalists), the Startup Village exhibition area, and 1,000+ side events across TOKEN2049 week.\n\n## Tickets\n\nTickets are on sale now, currently listed at US$599 before the 24 September price increase, payable by credit card or crypto.\n\nDay two closes the two-day main event at Marina Bay Sands.",
     "startDate": "2026-10-08T07:30:00+08:00",
     "endDate": "2026-10-08T18:00:00+08:00",
     "city": "Singapore",
@@ -14444,8 +14396,8 @@
     "addressCountry": "SG",
     "descriptionSource": {
       "url": "https://token2049.com/singapore",
-      "fetchedAt": "2026-09-20T00:21:00.781Z",
-      "method": "event-jsonld",
+      "fetchedAt": "2026-09-22T12:14:29.000Z",
+      "method": "reviewed-primary-sources",
       "pageTitle": "TOKEN2049 | 7-8 October 2026 | Singapore",
       "sha256": "672897156638babb2793dee3e4989b27b99702bc19e851da891e4538fda8499e"
     }
@@ -14650,7 +14602,7 @@
   {
     "id": "token2049-side-6aa190ac967be0befa88d09a",
     "name": "Capital Café",
-    "description": "Capital Café is a private morning reception for organizations and institutions operating on Canton Network (https://www.canton.network/).\n\nThe gathering will bring together institutions, issuers, application teams, and other major Canton participants for discussion around privacy-enabled digital asset operations, tokenized markets, and institutional deployment.\n\n\n## Private Executive Area\n\nA section of the venue will be reserved for senior executives, with refined refreshments and a separate space for private meetings. Access is limited. Inquiries: christian@noves.fi\n\n\n## Hosted by\n\nNoves (https://www.noves.fi/data-app)\nPrivate data infrastructure for Canton Network.",
+    "description": "Capital Café is a private morning reception for organizations and institutions operating on Canton Network.\n\nThe gathering will bring together institutions, issuers, application teams, and other major Canton participants for discussion around privacy-enabled digital asset operations, tokenized markets, and institutional deployment.\n\nPrivate Executive Area\n\nA section of the venue will be reserved for senior executives, with refined refreshments and a separate space for private meetings. Access is limited. Inquiries: christian@noves.fi\n\nHosted by\n\nNovesPrivate data infrastructure for Canton Network.\n\n## Event details\n\nHosted by Noves | Christian (Private data infrastructure for Canton Network | noves.fi/data-app). The event takes place on October 8. Registration requires organizer approval.",
     "startDate": "2026-10-08T01:00:00.000Z",
     "endDate": "2026-10-08T04:00:00.000Z",
     "city": "Singapore",
@@ -14685,8 +14637,8 @@
     "sourceVerification": {
       "url": "https://luma.com/pk30gage",
       "eventId": "evt-eGA5tDT8oCoPh1B",
-      "fetchedAt": "2026-09-19T23:55:50.530Z",
-      "method": "luma-api",
+      "fetchedAt": "2026-09-22T11:53:33.000Z",
+      "method": "luma-page",
       "apifyRunId": "uAC0NtYT5fM5WLkuu"
     }
   },
@@ -15115,7 +15067,7 @@
   {
     "id": "token2049-side-6aa00746967be0befa88ca3f",
     "name": "LONGITUDE, 10th edition",
-    "description": "LONGITUDE (https://cointelegraph-longitude.com/?utm_source=luma) returns for its 10th edition in Singapore on October 8, during TOKEN2049 week, bringing together a curated guest list of 350 attendees.\n\nLeaders from institutional finance and Web3 will gather to discuss stablecoins, tokenisation, global payments, and institutional adoption.\n\nEvery application is reviewed to ensure a high-calibre audience of decision-makers and industry leaders.\n\nWith live coverage by the Cointelegraph editorial team and a highly curated audience, LONGITUDE offers a unique setting for high-quality networking, meaningful conversations, and first-hand industry insights.\n\nPlease note the dress code is Business Elegant attire.",
+    "description": "LONGITUDE returns for its 10th edition in Singapore on October 8, during TOKEN2049 week, bringing together a curated guest list of 350 attendees.\n\nLeaders from institutional finance and Web3 will gather to discuss stablecoins, tokenisation, global payments, and institutional adoption.\n\nEvery application is reviewed to ensure a high-calibre audience of decision-makers and industry leaders.\n\nWith live coverage by the Cointelegraph editorial team and a highly curated audience, LONGITUDE offers a unique setting for high-quality networking, meaningful conversations, and first-hand industry insights.\n\nPlease note the dress code is Business Elegant attire.\n\nAgenda\n\n15:00 – 15:30 Networking & welcome15:30 – 15:35 Opening speech15:35 – 16:00 Panel: The Future of Money: Banks, Stablecoins and the New Payment Rails16:05 – 16:30 Panel: Tokenisation Goes Mainstream: From Billions to Trillions Onchain16:35 – 17:00 Panel: Bringing Global Finance Onchain: Which Infrastructure Will Win?17:05 – 17:30 Panel: Institutional-Grade Crypto Markets: Liquidity, Data, Custody and Compliance17:35 – 18:00 Panel: Where Is the Smart Money Going? ETFs, Onchain Asset Management and the Next Cycle",
     "startDate": "2026-10-08T07:00:00.000Z",
     "endDate": "2026-10-08T13:00:00.000Z",
     "city": "Singapore",
@@ -15159,8 +15111,8 @@
     "sourceVerification": {
       "url": "https://luma.com/2g8kwtyd",
       "eventId": "evt-dTSa44tArsD1Uue",
-      "fetchedAt": "2026-09-19T23:55:54.890Z",
-      "method": "luma-api",
+      "fetchedAt": "2026-09-22T11:53:33.000Z",
+      "method": "luma-page",
       "apifyRunId": "uAC0NtYT5fM5WLkuu"
     }
   },
@@ -15565,7 +15517,7 @@
   {
     "id": "token2049-side-6a622e12d1b48ddf39d08981",
     "name": "Vault Summit: Singapore",
-    "description": "Vault Summit is a global conference series focused on onchain vault infrastructure for institutional asset management.\n\nInstitutional confidence in on-chain asset management, built vault by vault. This is Vault Summit: Singapore.\n\n## Hosts and venue\n\nMorpho and DigiFT host the Singapore summit at Andaz Singapore, 5 Fraser Street, Singapore 189354, on 9 October 2026, from 9:00 AM to 6:00 PM Singapore time.",
+    "description": "Vault Summit is a global conference series focused on onchain vault infrastructure for institutional asset management. Vault Summit: Singapore takes place October 9, 2026, 9:00 AM–6:00 PM at Andaz Singapore.\n\n## Program\n\nInstitutional confidence in on-chain asset management, built vault by vault. Full access covers the single-day program for institutional asset managers exploring vault infrastructure.\n\n## Hosts and tickets\n\nHosts include Arbitrum One, Morpho, and DigiFT. General Admission full access is listed at US$750; the early bird sale has ended. Applications run through the official tickets page.\n\nThe series is produced by BlockLive. Contact the organizers and apply through the official tickets page.",
     "startDate": "2026-10-09T09:00:00+08:00",
     "endDate": "2026-10-09T18:00:00+08:00",
     "city": "Singapore",
@@ -15580,7 +15532,7 @@
     "token2049SideEvent": true,
     "descriptionSource": {
       "url": "https://sg2026.vaultsummit.xyz/",
-      "fetchedAt": "2026-09-21T05:12:52.983Z",
+      "fetchedAt": "2026-09-22T12:14:29.000Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Vault Summit: Singapore",
       "sha256": "b4a3c26acdeea06fd604bae0fd06e1ec91a31dadeeaae699142de129f3c3c5fd"

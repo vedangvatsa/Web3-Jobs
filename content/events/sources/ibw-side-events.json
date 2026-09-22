@@ -2,7 +2,7 @@
   {
     "id": "ibw-official-mip-20-road-to-devcon-10-24",
     "name": "MIP-20: Road to Devcon",
-    "description": "## Welcome to MIP-20\n\nPresenting a new format of MIP for the Road to Devcon.\n\nDevcon is an Ethereum conference for developers, researchers, thinkers, and makers.\n\n\n## Agenda\n\nComing soon...\n\nFollow ETHMumbai on: X (https://x.com/ethmumbai) | Telegram (https://t.me/ethmumbai)\nFollow Devcon on: X (https://x.com/EFDevcon) | Telegram (https://t.me/+sitvvHw8D8EzN2Yx)",
+    "description": "Welcome to MIP-20\n\nPresenting a new format of MIP for the Road to Devcon.\n\nDevcon is an Ethereum conference for developers, researchers, thinkers, and makers.\n\nAgenda\n\nComing soon...\n\nFollow ETHMumbai on: X | TelegramFollow Devcon on: X | Telegram\n\n## Event details\n\nHosted by ETHMumbai. The event takes place on October 24. Registration requires organizer approval.",
     "startDate": "2026-10-24T06:30:00.000Z",
     "endDate": "2026-10-24T08:30:00.000Z",
     "city": "Mumbai",
@@ -43,7 +43,7 @@
     "sourceVerification": {
       "url": "https://luma.com/ndrr1yqe",
       "eventId": "evt-3ViKtGhH3Kfrsy3",
-      "fetchedAt": "2026-09-19T23:30:09.425Z",
+      "fetchedAt": "2026-09-22T11:53:33.000Z",
       "method": "luma-page",
       "apifyRunId": "uAC0NtYT5fM5WLkuu"
     }
@@ -221,7 +221,7 @@
   {
     "id": "ibw-official-ibw-institutional-forum-11-02",
     "name": "IBW Institutional Forum",
-    "description": "India's invite-only, closed-door institutional blockchain forum, held under the Chatham House Rule.",
+    "description": "The IBW Institutional Forum 2026 — India's only invite-only, closed-door room where traditional finance meets blockchain. 1–2 November 2026 at Fairmont Mumbai, hosted by Hashed Emergent.\n\n## Format\n\nOne closed-door room for the whole conversation, held under the Chatham House Rule. Participation is limited to selected applicants, with every attendee carefully reviewed to ensure the right mix of expertise. A decade in the making, the forum gathers a curated cross-section of the ecosystem.\n\n## Agenda\n\nSessions get into conditional disbursements, offline payments, and a programmable rupee moving from pilot to production, carrying the calibre IBW has convened across three editions — from Ethereum, Polygon and Coinbase to the Government of India.",
     "startDate": "2026-11-01",
     "endDate": "2026-11-02",
     "city": "Mumbai",
@@ -238,9 +238,9 @@
     "addressLocality": "Mumbai",
     "addressCountry": "IN",
     "descriptionSource": {
-      "url": "https://indiablockchainweek.com/institutional-forum",
-      "fetchedAt": "2026-09-20T00:20:54.599Z",
-      "method": "event-jsonld",
+      "url": "https://www.indiablockchainweek.com/institutional-forum",
+      "fetchedAt": "2026-09-22T12:14:29.000Z",
+      "method": "reviewed-primary-sources",
       "pageTitle": "IBW Institutional Forum 2026 · Fairmont Mumbai",
       "sha256": "836a83348f6bbc9558e31db17f7a35131280f1e9a406daf05c6ba481119fb134"
     }
@@ -635,7 +635,7 @@
   {
     "id": "ibw-official-ravecon-b-ender-11-04",
     "name": "Ravecon [B]Ender",
-    "description": "RAVECON is a late-night house party for the people in Mumbai for Devcon.\n\nHouse music, drinks, good people and a room full of crypto degenerates who would rather be on a dance floor than another panel.\n\nThe venue stays secret until closer to the event. This is invite-only, and registrations are subject to approval.\n\nNo stages. No speeches. No networking session disguised as a party.\n\nJust good house music, drinks and a bunch of people from the crypto world in one place.\n\n21+ only :*",
+    "description": "RAVECON is a late-night house party for the people in Mumbai for Devcon.\n\nHouse music, drinks, good people and a room full of crypto degenerates who would rather be on a dance floor than another panel.\n\nThe venue stays secret until closer to the event. This is invite-only, and registrations are subject to approval.\n\nNo stages. No speeches. No networking session disguised as a party.\n\nJust good house music, drinks and a bunch of people from the crypto world in one place.\n\n21+ only :*\n\n## Event details\n\nHosted by Jatin Kaul (Head of Web3 Sales at Karate Combat), Deepesh Sugnani (Ex: Hashed | IBW2025). Venue: Mumbai, Maharashtra, India. The event takes place on November 4. Registration requires organizer approval.",
     "startDate": "2026-11-04T14:30:00.000Z",
     "endDate": "2026-11-04T20:30:00.000Z",
     "city": "Mumbai",
@@ -681,7 +681,7 @@
     "sourceVerification": {
       "url": "https://luma.com/1cnairat",
       "eventId": "evt-UFTPBc3GPwAHTjt",
-      "fetchedAt": "2026-09-19T23:30:11.658Z",
+      "fetchedAt": "2026-09-22T11:53:33.000Z",
       "method": "luma-page",
       "apifyRunId": "uAC0NtYT5fM5WLkuu"
     }
