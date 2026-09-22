@@ -1,5 +1,5 @@
 {
-  "lastIndex": 213,
+  "lastIndex": 217,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -104,7 +104,9 @@
     "cmp19",
     "des",
     "sls68",
-    "mgr37"
+    "mgr37",
+    "sls65",
+    "eng102"
   ],
   "history": [
     {
@@ -6779,6 +6781,424 @@
       "platform": "facebook",
       "postedAt": "2026-09-22T11:32:19.384Z",
       "postId": "691827047618629_1094898839784017",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls65",
+      "company": "ComplyAdvantage",
+      "title": "Business Development Representative",
+      "platform": "threads",
+      "postedAt": "2026-09-22T15:42:54.102Z",
+      "postId": "18012838610956708",
+      "verification": "verified",
+      "expectedText": "ComplyAdvantage is hiring Business Development Representative: https://hashtagweb3.com/sls65/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DdmFVpZm5CJ",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "sls65",
+      "company": "ComplyAdvantage",
+      "title": "Business Development Representative",
+      "platform": "bluesky",
+      "postedAt": "2026-09-22T15:42:54.102Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mw4kwnma622v",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls65",
+      "company": "ComplyAdvantage",
+      "title": "Business Development Representative",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T15:42:54.102Z",
+      "postId": "0xb3f7afc0bf4a90408cd06a108d7968da59e5d91b",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls65",
+      "company": "ComplyAdvantage",
+      "title": "Business Development Representative",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T15:42:54.102Z",
+      "postId": "0xb5537c3be1fd7b9622e05e836eb73c45e2244f54",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls65",
+      "company": "ComplyAdvantage",
+      "title": "Business Development Representative",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T15:42:54.102Z",
+      "postId": "0xc910a7b142b6b4d6b830559e963fa7e656089004",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls65",
+      "company": "ComplyAdvantage",
+      "title": "Business Development Representative",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T15:42:54.102Z",
+      "postId": "0x06699f7f43f34425a4cd14b0c1a50b8f4024949d",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls65",
+      "company": "ComplyAdvantage",
+      "title": "Business Development Representative",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T15:42:54.102Z",
+      "postId": "0xf88e4ef417994ad821cc8da674d16e59ed5a3b3b",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls65",
+      "company": "ComplyAdvantage",
+      "title": "Business Development Representative",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T15:42:54.102Z",
+      "postId": "0x3383993dbcb55b611f2aee1e8c97d5a7f4359a1d",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls65",
+      "company": "ComplyAdvantage",
+      "title": "Business Development Representative",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T15:42:54.102Z",
+      "postId": "0xbb35a67c94ccd1c6c8ccd841c4a58cdbb50ac974",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls65",
+      "company": "ComplyAdvantage",
+      "title": "Business Development Representative",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T15:42:54.102Z",
+      "postId": "0x840964ada8b415cb9b5302af44924d2856d0a59b",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls65",
+      "company": "ComplyAdvantage",
+      "title": "Business Development Representative",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T15:42:54.102Z",
+      "postId": "0xe9d82ec2e193a515e6bb65ca83c26fd23a51c261",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls65",
+      "company": "ComplyAdvantage",
+      "title": "Business Development Representative",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T15:42:54.102Z",
+      "postId": "0xe79f85634b57531d8c777497b99b5490ad76253a",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls65",
+      "company": "ComplyAdvantage",
+      "title": "Business Development Representative",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T15:42:54.102Z",
+      "postId": "0xce67ccc0367c5f73244dfa13613602d373c796ea",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls65",
+      "company": "ComplyAdvantage",
+      "title": "Business Development Representative",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T15:42:54.102Z",
+      "postId": "0xfc74f88735212225f58efa6f3ade68994d79d1aa",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls65",
+      "company": "ComplyAdvantage",
+      "title": "Business Development Representative",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T15:42:54.102Z",
+      "postId": "0x3bd958c40e794474d2e050b1434e879344d2f1f6",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls65",
+      "company": "ComplyAdvantage",
+      "title": "Business Development Representative",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T15:42:54.102Z",
+      "postId": "0xa1159c134642490f9334122ca1f60d0e4702ab64",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls65",
+      "company": "ComplyAdvantage",
+      "title": "Business Development Representative",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T15:42:54.102Z",
+      "postId": "0xe31ce602445213b78184ea885ada2017663c9836",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls65",
+      "company": "ComplyAdvantage",
+      "title": "Business Development Representative",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T15:42:54.102Z",
+      "postId": "0x261925fbb9cbe5d98f53255ab5b8f916dee880f3",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls65",
+      "company": "ComplyAdvantage",
+      "title": "Business Development Representative",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T15:42:54.102Z",
+      "postId": "0xb4cdb363c81094f54f04cc05ec7106255f76bbe2",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls65",
+      "company": "ComplyAdvantage",
+      "title": "Business Development Representative",
+      "platform": "linkedin",
+      "postedAt": "2026-09-22T15:42:54.102Z",
+      "postId": "6ab2a21101200caca8e3031f",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls65",
+      "company": "ComplyAdvantage",
+      "title": "Business Development Representative",
+      "platform": "facebook",
+      "postedAt": "2026-09-22T15:42:54.102Z",
+      "postId": "691827047618629_1095075656433002",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng102",
+      "company": "Ondo Finance",
+      "title": "IT Engineer",
+      "platform": "threads",
+      "postedAt": "2026-09-22T15:43:40.805Z",
+      "postId": "18114292709088048",
+      "verification": "verified",
+      "expectedText": "Ondo Finance is hiring IT Engineer: https://hashtagweb3.com/eng102/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DdmFbTSm0R9",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "eng102",
+      "company": "Ondo Finance",
+      "title": "IT Engineer",
+      "platform": "bluesky",
+      "postedAt": "2026-09-22T15:43:40.805Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mw4kxyn7uh22",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng102",
+      "company": "Ondo Finance",
+      "title": "IT Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T15:43:40.805Z",
+      "postId": "0x777bf1a854a2625b65419503fc2cb1973eb2953d",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng102",
+      "company": "Ondo Finance",
+      "title": "IT Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T15:43:40.805Z",
+      "postId": "0x3b2e7e7f5b8f48a1d05e3705c656d52da12e0805",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng102",
+      "company": "Ondo Finance",
+      "title": "IT Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T15:43:40.805Z",
+      "postId": "0x385d7c130bb9c7bbc1392ee8338cee0d9208a98a",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng102",
+      "company": "Ondo Finance",
+      "title": "IT Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T15:43:40.805Z",
+      "postId": "0xb5849ac6b1c4f07f9b174cf01741e210986a60fb",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng102",
+      "company": "Ondo Finance",
+      "title": "IT Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T15:43:40.805Z",
+      "postId": "0xd05f9ae58d2b4495e15995b0103c7dd380ce64d2",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng102",
+      "company": "Ondo Finance",
+      "title": "IT Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T15:43:40.805Z",
+      "postId": "0x5f76ab8d5d8c0b8265717fd7ab117b5b36028657",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng102",
+      "company": "Ondo Finance",
+      "title": "IT Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T15:43:40.805Z",
+      "postId": "0xc4b9c3078aaca98241be92b73c245d1384d2dfe9",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng102",
+      "company": "Ondo Finance",
+      "title": "IT Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T15:43:40.805Z",
+      "postId": "0x140e537f484e0efbb9552b256d9b7589f3d2b863",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng102",
+      "company": "Ondo Finance",
+      "title": "IT Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T15:43:40.805Z",
+      "postId": "0x48349eeacebef4589669e28b6463100f5209bb8a",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng102",
+      "company": "Ondo Finance",
+      "title": "IT Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T15:43:40.805Z",
+      "postId": "0xffb7a5ad4d6b11e4e82879298a2b9edd2c8e0c90",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng102",
+      "company": "Ondo Finance",
+      "title": "IT Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T15:43:40.805Z",
+      "postId": "0x067c33e8ff62b1e453860db592ea5f0021057969",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng102",
+      "company": "Ondo Finance",
+      "title": "IT Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T15:43:40.805Z",
+      "postId": "0xd7c70781a7a9dba830eb8c017e7fda3f7381e5c5",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng102",
+      "company": "Ondo Finance",
+      "title": "IT Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T15:43:40.805Z",
+      "postId": "0x0f8bd4c8d77026aa7fb79228bcb93495f9b6e5a2",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng102",
+      "company": "Ondo Finance",
+      "title": "IT Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T15:43:40.805Z",
+      "postId": "0xc299709260bbb88280e2888bd3a9b4c93e605c12",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng102",
+      "company": "Ondo Finance",
+      "title": "IT Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T15:43:40.805Z",
+      "postId": "0x6f9a69ff2280ae34e80da3e2c8b08e50e677a0ed",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng102",
+      "company": "Ondo Finance",
+      "title": "IT Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T15:43:40.805Z",
+      "postId": "0x5e4840b14b29c5914e67424869594ad762b9ed63",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng102",
+      "company": "Ondo Finance",
+      "title": "IT Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T15:43:40.805Z",
+      "postId": "0x7ff691a13d9c7c7060895eb0382857b01ac66dc5",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng102",
+      "company": "Ondo Finance",
+      "title": "IT Engineer",
+      "platform": "linkedin",
+      "postedAt": "2026-09-22T15:43:40.805Z",
+      "postId": "6ab2a23e71a6e5b2b95d9ad3",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng102",
+      "company": "Ondo Finance",
+      "title": "IT Engineer",
+      "platform": "facebook",
+      "postedAt": "2026-09-22T15:43:40.805Z",
+      "postId": "691827047618629_1095076089766292",
       "verification": "verified"
     }
   ]
