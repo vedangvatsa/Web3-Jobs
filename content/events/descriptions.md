@@ -25827,6 +25827,10 @@ Wednesday, September 23 | 5:30-7:30 PM ETSpace is limited - RSVP now to lock in 
 
 Exclusive dinner for friends and partners of Titan, Pyth, Altitude, and Helius
 
+### Event details
+
+Hosted by Chris Chung, Superteam Canada, Genia | Pyth, Phil Jacobson, Ichigo, defipancakes | Titan, Tim Lee | Titan, Richard. Venue: Annex, Toronto, Ontario, Canada. Tickets: Free. Registration requires organizer approval.
+
 <a id="event-28b94e116f0553af"></a>
 
 ## Collector Game Night
@@ -25902,6 +25906,10 @@ X | @SuperteamCANWebsite | canada.solanasummit.org
 ### About the event
 
 Getting the Monkes together to celebrate all that is Canada during the premier Solana and web3 Conference in Canada
+
+### Event details
+
+Hosted by Chris Chung, Simon, niightwing. Venue: St. Lawrence, Toronto, Ontario, Canada. Tickets: Free. Registration requires organizer approval.
 
 <a id="event-1a47b83b001433c4"></a>
 
@@ -26883,6 +26891,10 @@ Tell reception you're meeting up with Sneh and to call you an elevator to the 7t
 
 Join Lhava and Fenwick for an exclusive rooftop happy hour as we celebrate the end of summer in the city with friends and colleagues from across the blockchain and crypto world. Expect great views, craft cocktails, and an easygoing evening made for catching up, making introductions, and enjoying the energy of New York in the summer.
 
+### Event details
+
+Hosted by Fenwick, Briton. Venue: Broken Shaker, Broken Shaker, 23 Lexington Ave 18th Floor, New York, NY 10010, USA. Tickets: Free. Registration requires organizer approval.
+
 <a id="event-565bdd4d7bbf3c6f"></a>
 
 ## Emerging Tech Room
@@ -26979,9 +26991,9 @@ Presented by Antom: Antom is Ant International's merchant payment platform - 300
 - Description: Source-backed
 - Original page: <https://luma.com/jdu5eerc>
 
-### About the event
+### Event details
 
-Bitcoin Bay Sauga
+Hosted by Martin. Venue: Chuck's Roadhouse Bar and Grill, Chuck's Roadhouse Bar and Grill, 1151 Dundas St W Unit 27, Mississauga, ON L5C 1C9, Canada. Tickets: Free.
 
 <a id="event-d21ff657cc15ff8c"></a>
 
@@ -27656,6 +27668,10 @@ By signing up, you agree that Superteam UK may capture photos or short video cli
 Converge & Fintech Week ticket holders will receive priority entry. Get ready to vote pro-crypto this midterm cycle with Stand with Crypto and Boston DAO as we wrap up the Converge conference at Cisco Brewers Seaport!
 
 In addition to enjoying tasty drinks, you can register to vote for the November Midterms at our Voter Registration Station!
+
+### Event details
+
+Hosted by The Boston DAO Events. Venue: Cisco Brewers Seaport, Cisco Brewers Seaport, 85 Northern Ave, Boston, MA 02210, USA. Tickets: Free. Registration requires organizer approval.
 
 <a id="event-3274b669033bad2c"></a>
 
@@ -28777,6 +28793,10 @@ Lightning talks - speakers wanted!Whatever you're building, whatever you want to
 
 The Bitcoin Treasuries Conference exists for those who aren't waiting for permission - allocators, executives, and strategists already building positions. One day. One room. New York City.
 
+### Event details
+
+Hosted by Rizzo, Timothy Kotzman, Ed Juline. Venue: SECOND, SECOND, 849 6th Ave, New York, NY 10001, USA. Tickets: USD 295. Registration requires organizer approval.
+
 <a id="event-89e29beaa89d2272"></a>
 
 ## ONLINE OFFICE \| Знайти юзерів під час хакатону
@@ -28926,6 +28946,10 @@ We're hosting an all-day Dev Cafe with coffee, coworking, swag, demos, and a hap
 4pm-6pm: Happy hour
 
 Space is limited. Please register to attend.
+
+### Event details
+
+Hosted by Solana Foundation. Venue: Fort Mason, San Francisco, California, United States. Tickets: Free. Registration requires organizer approval.
 
 <a id="event-03dcb86274ecac29"></a>
 
@@ -29468,6 +29492,10 @@ We just moved into our beautiful new SoHo office so we're breaking it in with po
 Play if you want, or just pull up and hang. Either way it'll be a great vibe. By invitation only.
 
 Hosted by Meow: meow.com/crypto and Freeport Markets: freeportmarkets.com
+
+### Event details
+
+Hosted by Matt Schkolnick, Dustin Kamali, Lihong Wang. Venue: SoHo, New York, New York, United States. Tickets: Free. Registration requires organizer approval.
 
 <a id="event-c36f252386acd9c6"></a>
 
@@ -30715,6 +30743,10 @@ Join us for an evening of drinks, canapes and meaningful conversations with foun
 
 Whether you're building new connections or reconnecting with industry friends, we would love to welcome you as we kick off an exciting week at TOKEN2049.
 
+### Event details
+
+Hosted by Adrian Rymill, Daniel Holmes, Elyse Quek, Jake Khorozian, Andy Ross, ico beast. Venue: Downtown Core, Singapore, Singapore. Tickets: Free. Registration requires organizer approval.
+
 <a id="event-0be1d3ba41120c05"></a>
 
 ## Run the Bay : 5K + Breakfast 🇸🇬
@@ -30784,6 +30816,10 @@ TOKEN2049 前一天，我们从一场轻松的 5 公里跑步开始这一周
 ### About the event
 
 Conference/Summit
+
+### Event details
+
+Hosted by Otis Rising. Venue: The Ritz-Carlton, Millenia Singapore, The Ritz-Carlton, Millenia Singapore, 7 Raffles Ave., Marina Bay, Singapore 039799. Tickets: Free.
 
 <a id="event-4b7e921ca8231ebd"></a>
 
@@ -31199,6 +31235,10 @@ Hosted by Introduction.com, a private, invite only community of entrepreneurs, o
 
 This event is open to the general public and is not exclusive to Introduction.com members. For access to member only events please apply at Introduction.com.
 
+### Event details
+
+Hosted by Introduction.com, Jose Anaya | ZKsync, Sam Leichman. Venue: Rickhouse, Rickhouse, 246 Kearny St, San Francisco, CA 94108, USA. Tickets: Free.
+
 <a id="event-7182769363c398d4"></a>
 
 ## Bitkub INZIGHTS 2026 ตลาดฟื้น รับฤดูใหม่
@@ -31574,6 +31614,10 @@ Cards, drinks, pizza, and the best crypto founders in New York at one table. Dea
 Hosted by Meow × Legion.
 
 By invitation only - seats are limited. 🃏
+
+### Event details
+
+Hosted by Matt Schkolnick, Matt O'Connor, Dustin Kamali. Venue: SoHo, New York, New York, United States. Tickets: Free. Registration requires organizer approval.
 
 <a id="event-e35f4682749aa5ea"></a>
 
@@ -32328,20 +32372,6 @@ For questions, please contact: mail@blockstories.io
 Blockworks' Digital Asset Summit (DAS) returns to London this November 10-11, 2026. DAS is crypto's premier institutional event.Stablecoins, tokenization, onchain infrastructure, and AI are rapidly reshaping the global financial system. DAS London will bring together the leading institutional leaders, allocators, builders, and policy makers from across the UK, Europe, North America, MENA, and Asia to discuss how the next chapter of global finance will be written.
 
 If you have any questions, please reach out to registration@blockworks.co
-
-<a id="event-1575a302ab163000"></a>
-
-## Solana Breakpoint
-
-- Record: `luma-batch-uTaSA27jgENspOR`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-11-15T20:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/uhtrdior>
-
-### About the event
-
-Solana Breakpoint
 
 <a id="event-86e691fb2d4b6b7e"></a>
 

@@ -154,7 +154,7 @@
     "id": "luma-batch-d6YGDfLEVcOHLNA",
     "slug": "26y625qg",
     "name": "Lhava and Fenwick Present: End of Summer in the City Happy Hour",
-    "description": "Join Lhava and Fenwick for an exclusive rooftop happy hour as we celebrate the end of summer in the city with friends and colleagues from across the blockchain and crypto world. Expect great views, craft cocktails, and an easygoing evening made for catching up, making introductions, and enjoying the energy of New York in the summer.",
+    "description": "Join Lhava and Fenwick for an exclusive rooftop happy hour as we celebrate the end of summer in the city with friends and colleagues from across the blockchain and crypto world. Expect great views, craft cocktails, and an easygoing evening made for catching up, making introductions, and enjoying the energy of New York in the summer.\n\n## Event details\n\nHosted by Fenwick, Briton. Venue: Broken Shaker, Broken Shaker, 23 Lexington Ave 18th Floor, New York, NY 10010, USA. Tickets: Free. Registration requires organizer approval.",
     "startDate": "2026-09-24T22:00:00.000Z",
     "endDate": "2026-09-25T01:00:00.000Z",
     "city": "New York",
@@ -197,7 +197,9 @@
       "eventId": "evt-d6YGDfLEVcOHLNA",
       "fetchedAt": "2026-09-22T10:40:02.039Z",
       "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
+      "apifyRunId": "xaRAFVxiGJ65xirOe",
+      "enrichedAt": "2026-09-22T10:54:38.000Z",
+      "enrichMethod": "organizer-facts"
     }
   },
   {
@@ -403,7 +405,7 @@
     "id": "luma-batch-HilaZqZBzslujGA",
     "slug": "btunyc",
     "name": "Bitcoin Treasuries Conference: September 2026",
-    "description": "The Bitcoin Treasuries Conference exists for those who aren't waiting for permission — allocators, executives, and strategists already building positions. One day. One room. New York City.",
+    "description": "The Bitcoin Treasuries Conference exists for those who aren't waiting for permission — allocators, executives, and strategists already building positions. One day. One room. New York City.\n\n## Event details\n\nHosted by Rizzo, Timothy Kotzman, Ed Juline. Venue: SECOND, SECOND, 849 6th Ave, New York, NY 10001, USA. Tickets: USD 295. Registration requires organizer approval.",
     "startDate": "2026-09-28T12:00:00.000Z",
     "endDate": "2026-09-28T21:30:00.000Z",
     "city": "New York",
@@ -465,7 +467,9 @@
       "eventId": "evt-HilaZqZBzslujGA",
       "fetchedAt": "2026-09-22T10:40:02.039Z",
       "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
+      "apifyRunId": "xaRAFVxiGJ65xirOe",
+      "enrichedAt": "2026-09-22T10:54:38.000Z",
+      "enrichMethod": "organizer-facts"
     }
   },
   {
@@ -717,7 +721,7 @@
     "id": "luma-batch-1Xx7yJSkhlrHBm6",
     "slug": "szhcophp",
     "name": "Meow + Freeport Markets: Private Founder Poker Night",
-    "description": "We just moved into our beautiful new SoHo office so we're breaking it in with poker and the top builders across the city.\n\nPlay if you want, or just pull up and hang. Either way it'll be a great vibe. By invitation only.\n\nHosted by Meow: meow.com/crypto and Freeport Markets: freeportmarkets.com",
+    "description": "We just moved into our beautiful new SoHo office so we're breaking it in with poker and the top builders across the city.\n\nPlay if you want, or just pull up and hang. Either way it'll be a great vibe. By invitation only.\n\nHosted by Meow: meow.com/crypto and Freeport Markets: freeportmarkets.com\n\n## Event details\n\nHosted by Matt Schkolnick, Dustin Kamali, Lihong Wang. Venue: SoHo, New York, New York, United States. Tickets: Free. Registration requires organizer approval.",
     "startDate": "2026-10-01T23:00:00.000Z",
     "endDate": "2026-10-02T03:00:00.000Z",
     "city": "New York",
@@ -760,7 +764,9 @@
       "eventId": "evt-1Xx7yJSkhlrHBm6",
       "fetchedAt": "2026-09-22T10:40:02.039Z",
       "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
+      "apifyRunId": "xaRAFVxiGJ65xirOe",
+      "enrichedAt": "2026-09-22T10:54:38.000Z",
+      "enrichMethod": "organizer-facts"
     }
   },
   {
@@ -976,7 +982,7 @@
     "id": "luma-batch-xFFX1w014DYQNxw",
     "slug": "grdkh8vt",
     "name": "Meow + Legion: Private Founder Poker Night",
-    "description": "Cards, drinks, pizza, and the best crypto founders in New York at one table. Dealers are pros; the stakes are bragging rights.\n\nHosted by Meow × Legion.\n\nBy invitation only — seats are limited. 🃏",
+    "description": "Cards, drinks, pizza, and the best crypto founders in New York at one table. Dealers are pros; the stakes are bragging rights.\n\nHosted by Meow × Legion.\n\nBy invitation only — seats are limited. 🃏\n\n## Event details\n\nHosted by Matt Schkolnick, Matt O'Connor, Dustin Kamali. Venue: SoHo, New York, New York, United States. Tickets: Free. Registration requires organizer approval.",
     "startDate": "2026-10-13T23:00:00.000Z",
     "endDate": "2026-10-14T02:30:00.000Z",
     "city": "New York",
@@ -1019,7 +1025,9 @@
       "eventId": "evt-xFFX1w014DYQNxw",
       "fetchedAt": "2026-09-22T10:40:02.039Z",
       "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
+      "apifyRunId": "xaRAFVxiGJ65xirOe",
+      "enrichedAt": "2026-09-22T10:54:38.000Z",
+      "enrichMethod": "organizer-facts"
     }
   },
   {
@@ -1431,7 +1439,7 @@
     "id": "luma-batch-lnhEJWt2Bdk0cmW",
     "slug": "zsgdwcee",
     "name": "Haruko and Kalshi Present: More than a million",
-    "description": "Kick off TOKEN2049 with Haruko and Kalshi!\n\nJoin us for an evening of drinks, canapes and meaningful conversations with founders, innovators and industry leaders from across the digital asset ecosystem.\n\nWhether you're building new connections or reconnecting with industry friends, we would love to welcome you as we kick off an exciting week at TOKEN2049.",
+    "description": "Kick off TOKEN2049 with Haruko and Kalshi!\n\nJoin us for an evening of drinks, canapes and meaningful conversations with founders, innovators and industry leaders from across the digital asset ecosystem.\n\nWhether you're building new connections or reconnecting with industry friends, we would love to welcome you as we kick off an exciting week at TOKEN2049.\n\n## Event details\n\nHosted by Adrian Rymill, Daniel Holmes, Elyse Quek, Jake Khorozian, Andy Ross, ico beast. Venue: Downtown Core, Singapore, Singapore. Tickets: Free. Registration requires organizer approval.",
     "startDate": "2026-10-05T09:00:00.000Z",
     "endDate": "2026-10-05T13:30:00.000Z",
     "city": "Singapore",
@@ -1477,7 +1485,9 @@
       "eventId": "evt-lnhEJWt2Bdk0cmW",
       "fetchedAt": "2026-09-22T10:40:02.039Z",
       "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
+      "apifyRunId": "xaRAFVxiGJ65xirOe",
+      "enrichedAt": "2026-09-22T10:54:38.000Z",
+      "enrichMethod": "organizer-facts"
     }
   },
   {
@@ -1579,7 +1589,7 @@
     "id": "luma-batch-AhfbNFZJFBAk3tC",
     "slug": "p4aynvxh",
     "name": "Solana Summit",
-    "description": "Conference/Summit",
+    "description": "Conference/Summit\n\n## Event details\n\nHosted by Otis Rising. Venue: The Ritz-Carlton, Millenia Singapore, The Ritz-Carlton, Millenia Singapore, 7 Raffles Ave., Marina Bay, Singapore 039799. Tickets: Free.",
     "startDate": "2026-10-06T01:00:00.000Z",
     "endDate": "2026-10-06T10:00:00.000Z",
     "city": "Singapore",
@@ -1620,7 +1630,9 @@
       "eventId": "evt-AhfbNFZJFBAk3tC",
       "fetchedAt": "2026-09-22T10:40:02.039Z",
       "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
+      "apifyRunId": "xaRAFVxiGJ65xirOe",
+      "enrichedAt": "2026-09-22T10:54:38.000Z",
+      "enrichMethod": "organizer-facts"
     }
   },
   {
@@ -1923,7 +1935,7 @@
     "id": "luma-batch-mOufXHP89aFrhMJ",
     "slug": "dev-day-cafe",
     "name": "Dev Day Cafe",
-    "description": "Join Solana, Circle, MoonPay, and others at Radhaus in Fort Mason on September 29.\n\nWe're hosting an all-day Dev Cafe with coffee, coworking, swag, demos, and a happy hour. There will definitely be some other surprises too.\n\nSchedule\n\n10am: Doors open\n\n10am-11am: Light breakfast available\n\n12pm-2pm: Lunch available\n\n4pm-6pm: Happy hour\n\nSpace is limited. Please register to attend.",
+    "description": "Join Solana, Circle, MoonPay, and others at Radhaus in Fort Mason on September 29.\n\nWe're hosting an all-day Dev Cafe with coffee, coworking, swag, demos, and a happy hour. There will definitely be some other surprises too.\n\nSchedule\n\n10am: Doors open\n\n10am-11am: Light breakfast available\n\n12pm-2pm: Lunch available\n\n4pm-6pm: Happy hour\n\nSpace is limited. Please register to attend.\n\n## Event details\n\nHosted by Solana Foundation. Venue: Fort Mason, San Francisco, California, United States. Tickets: Free. Registration requires organizer approval.",
     "startDate": "2026-09-29T17:00:00.000Z",
     "endDate": "2026-09-30T01:00:00.000Z",
     "city": "San Francisco",
@@ -1964,7 +1976,9 @@
       "eventId": "evt-mOufXHP89aFrhMJ",
       "fetchedAt": "2026-09-22T10:40:02.039Z",
       "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
+      "apifyRunId": "xaRAFVxiGJ65xirOe",
+      "enrichedAt": "2026-09-22T10:54:38.000Z",
+      "enrichMethod": "organizer-facts"
     }
   },
   {
@@ -2099,7 +2113,7 @@
     "id": "luma-batch-kLLhQAqUSbfKTRp",
     "slug": "sanfranciscooctober",
     "name": "Assets & Access @ Rickhouse Bar SF",
-    "description": "Join us for SF's #1 founder, operator, and investor meetup.\n\nHosted by Introduction.com, a private, invite only community of entrepreneurs, operators, and investors shaping the future with technology.\n\nThis event is open to the general public and is not exclusive to Introduction.com members. For access to member only events please apply at Introduction.com.",
+    "description": "Join us for SF's #1 founder, operator, and investor meetup.\n\nHosted by Introduction.com, a private, invite only community of entrepreneurs, operators, and investors shaping the future with technology.\n\nThis event is open to the general public and is not exclusive to Introduction.com members. For access to member only events please apply at Introduction.com.\n\n## Event details\n\nHosted by Introduction.com, Jose Anaya | ZKsync, Sam Leichman. Venue: Rickhouse, Rickhouse, 246 Kearny St, San Francisco, CA 94108, USA. Tickets: Free.",
     "startDate": "2026-10-09T00:30:00.000Z",
     "endDate": "2026-10-09T02:30:00.000Z",
     "city": "San Francisco",
@@ -2144,7 +2158,9 @@
       "eventId": "evt-kLLhQAqUSbfKTRp",
       "fetchedAt": "2026-09-22T10:40:02.039Z",
       "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
+      "apifyRunId": "xaRAFVxiGJ65xirOe",
+      "enrichedAt": "2026-09-22T10:54:38.000Z",
+      "enrichMethod": "organizer-facts"
     }
   },
   {
@@ -2811,51 +2827,6 @@
     "sourceVerification": {
       "url": "https://luma.com/daslondon2026",
       "eventId": "evt-aTKfB4uWCos54nU",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
-    }
-  },
-  {
-    "id": "luma-batch-uTaSA27jgENspOR",
-    "slug": "uhtrdior",
-    "name": "Solana Breakpoint",
-    "description": "Solana Breakpoint",
-    "startDate": "2026-11-15T20:00:00.000Z",
-    "endDate": "2026-11-18T21:00:00.000Z",
-    "city": "London",
-    "country": "United Kingdom",
-    "location": "Olympia, Olympia, Hammersmith Rd, London W14 8UX, UK",
-    "url": "https://luma.com/uhtrdior",
-    "registrationUrl": "https://luma.com/uhtrdior",
-    "coverImage": "/events/luma-batch-uTaSA27jgENspOR-886ce31f.png",
-    "source": "luma-batch",
-    "price": "Free",
-    "approvalRequired": false,
-    "timezone": "Europe/London",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "Olympia",
-    "addressLocality": "London",
-    "addressRegion": "England",
-    "addressCountry": "GB",
-    "organizer": {
-      "type": "Organization",
-      "name": "DoubleZero Events"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/uhtrdior",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/uhtrdior",
-      "eventId": "evt-uTaSA27jgENspOR",
       "fetchedAt": "2026-09-22T10:40:02.039Z",
       "method": "luma-page",
       "apifyRunId": "xaRAFVxiGJ65xirOe"
@@ -5106,7 +5077,7 @@
     "id": "luma-batch-klpNRTLCwsWl8qV",
     "slug": "converge26party",
     "name": "Converge Afterparty by Stand with Crypto & Boston DAO",
-    "description": "Converge & Fintech Week ticket holders will receive priority entry. Get ready to vote pro-crypto this midterm cycle with Stand with Crypto and Boston DAO as we wrap up the Converge conference at Cisco Brewers Seaport!\n\nIn addition to enjoying tasty drinks, you can register to vote for the November Midterms at our Voter Registration Station!",
+    "description": "Converge & Fintech Week ticket holders will receive priority entry. Get ready to vote pro-crypto this midterm cycle with Stand with Crypto and Boston DAO as we wrap up the Converge conference at Cisco Brewers Seaport!\n\nIn addition to enjoying tasty drinks, you can register to vote for the November Midterms at our Voter Registration Station!\n\n## Event details\n\nHosted by The Boston DAO Events. Venue: Cisco Brewers Seaport, Cisco Brewers Seaport, 85 Northern Ave, Boston, MA 02210, USA. Tickets: Free. Registration requires organizer approval.",
     "startDate": "2026-09-25T22:00:00.000Z",
     "endDate": "2026-09-26T00:00:00.000Z",
     "city": "Boston",
@@ -5160,7 +5131,9 @@
       "eventId": "evt-klpNRTLCwsWl8qV",
       "fetchedAt": "2026-09-22T10:40:02.039Z",
       "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
+      "apifyRunId": "xaRAFVxiGJ65xirOe",
+      "enrichedAt": "2026-09-22T10:54:38.000Z",
+      "enrichMethod": "organizer-facts"
     }
   },
   {
@@ -5455,7 +5428,7 @@
     "id": "luma-batch-aHlxZW4Y17WyJ6P",
     "slug": "muzyshuf",
     "name": "Monkes @ Solana Summit Canada",
-    "description": "Getting the Monkes together to celebrate all that is Canada during the premier Solana and web3 Conference in Canada",
+    "description": "Getting the Monkes together to celebrate all that is Canada during the premier Solana and web3 Conference in Canada\n\n## Event details\n\nHosted by Chris Chung, Simon, niightwing. Venue: St. Lawrence, Toronto, Ontario, Canada. Tickets: Free. Registration requires organizer approval.",
     "startDate": "2026-09-23T22:30:00.000Z",
     "endDate": "2026-09-24T00:30:00.000Z",
     "city": "Toronto",
@@ -5499,14 +5472,16 @@
       "eventId": "evt-aHlxZW4Y17WyJ6P",
       "fetchedAt": "2026-09-22T10:40:02.039Z",
       "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
+      "apifyRunId": "xaRAFVxiGJ65xirOe",
+      "enrichedAt": "2026-09-22T10:54:38.000Z",
+      "enrichMethod": "organizer-facts"
     }
   },
   {
     "id": "luma-batch-2E31GeLAJojbvUh",
     "slug": "6bfjk8mr",
     "name": "Toronto Digital Assets Roundtable & Dinner",
-    "description": "Exclusive dinner for friends and partners of Titan, Pyth, Altitude, and Helius",
+    "description": "Exclusive dinner for friends and partners of Titan, Pyth, Altitude, and Helius\n\n## Event details\n\nHosted by Chris Chung, Superteam Canada, Genia | Pyth, Phil Jacobson, Ichigo, defipancakes | Titan, Tim Lee | Titan, Richard. Venue: Annex, Toronto, Ontario, Canada. Tickets: Free. Registration requires organizer approval.",
     "startDate": "2026-09-23T22:30:00.000Z",
     "endDate": "2026-09-24T00:30:00.000Z",
     "city": "Toronto",
@@ -5555,7 +5530,9 @@
       "eventId": "evt-2E31GeLAJojbvUh",
       "fetchedAt": "2026-09-22T10:40:02.039Z",
       "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
+      "apifyRunId": "xaRAFVxiGJ65xirOe",
+      "enrichedAt": "2026-09-22T10:54:38.000Z",
+      "enrichMethod": "organizer-facts"
     }
   },
   {
@@ -5768,7 +5745,7 @@
     "id": "luma-batch-stT61rgAwsXcouG",
     "slug": "jdu5eerc",
     "name": "Bitcoin Bay Sauga",
-    "description": "Bitcoin Bay Sauga",
+    "description": "## Event details\n\nHosted by Martin. Venue: Chuck's Roadhouse Bar and Grill, Chuck's Roadhouse Bar and Grill, 1151 Dundas St W Unit 27, Mississauga, ON L5C 1C9, Canada. Tickets: Free.",
     "startDate": "2026-09-24T23:30:00.000Z",
     "endDate": "2026-09-25T03:00:00.000Z",
     "city": "Mississauga",
@@ -5809,7 +5786,9 @@
       "eventId": "evt-stT61rgAwsXcouG",
       "fetchedAt": "2026-09-22T10:40:02.039Z",
       "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
+      "apifyRunId": "xaRAFVxiGJ65xirOe",
+      "enrichedAt": "2026-09-22T10:54:38.000Z",
+      "enrichMethod": "organizer-facts"
     }
   },
   {
