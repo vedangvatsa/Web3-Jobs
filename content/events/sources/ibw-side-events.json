@@ -214,9 +214,8 @@
     "sourceVerification": {
       "url": "https://luma.com/spsnos9t",
       "eventId": "evt-CyZRiDdLECiCPRS",
-      "fetchedAt": "2026-09-19T23:30:10.478Z",
-      "method": "luma-page",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
+      "fetchedAt": "2026-09-20T07:56:56.136Z",
+      "method": "luma-page"
     }
   },
   {
@@ -468,7 +467,8 @@
     "location": "Jio World Centre, 3V78+HX, G Block, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400051, India",
     "category": "Conference/Summit",
     "sideEventFor": [
-      "devcon"
+      "devcon",
+      "ibw"
     ],
     "url": "https://luma.com/mh0xmqg0",
     "coverImage": "/events/ibw-official-media-accelerator-startup-cohort-11-0-2b329107.webp",
@@ -527,7 +527,8 @@
     "location": "Mumbai, Maharashtra, India",
     "category": "Conference/Summit",
     "sideEventFor": [
-      "devcon"
+      "devcon",
+      "ibw"
     ],
     "url": "https://luma.com/a0e6b8at",
     "coverImage": "/events/ibw-official-ai-economic-forum-aief-truth-intellig-d414f990.webp",
@@ -581,7 +582,8 @@
     "location": "Jio World Convention Centre, Jio World Centre, G Block, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400098, India",
     "category": "Networking",
     "sideEventFor": [
-      "devcon"
+      "devcon",
+      "ibw"
     ],
     "url": "https://luma.com/czi58jpe",
     "coverImage": "/events/ibw-official-eip-hub-3-7-nov-11-03-88aaebe1.webp",
@@ -641,7 +643,8 @@
     "location": "Mumbai, Maharashtra, India",
     "category": "Party",
     "sideEventFor": [
-      "devcon"
+      "devcon",
+      "ibw"
     ],
     "url": "https://luma.com/1cnairat",
     "coverImage": "/events/ibw-official-ravecon-b-ender-11-04-44527042.webp",
@@ -694,7 +697,8 @@
     "location": "Grand Hyatt Mumbai, Bandra Kurla Complex, Mumbai, India",
     "category": "Conference/Summit",
     "sideEventFor": [
-      "devcon"
+      "devcon",
+      "ibw"
     ],
     "url": "https://ethglobal.com/events/pragma-mumbai",
     "coverImage": "/events/ibw-official-pragma-mumbai-11-05-aa54dfd7.webp",
@@ -766,7 +770,8 @@
     "location": "Mumbai, India",
     "category": "Networking",
     "sideEventFor": [
-      "devcon"
+      "devcon",
+      "ibw"
     ],
     "url": "https://luma.com/quilla-rvp4",
     "coverImage": "/events/ibw-official-ship-safe-devcon-mumbai-security-sess-c672578f.webp",
@@ -802,6 +807,39 @@
       "fetchedAt": "2026-09-19T23:30:12.392Z",
       "method": "luma-page",
       "apifyRunId": "uAC0NtYT5fM5WLkuu"
+    }
+  },
+  {
+    "id": "ibw-official-quantstamp-mumbai-lounge-11-04",
+    "slug": "quantstamp-mumbai-lounge",
+    "name": "Quantstamp x Common Defense | Mumbai Lounge | Devcon 2026",
+    "description": "Join Quantstamp and Common Defense for an exclusive networking evening in Mumbai, just steps from the main Devcon conference ✨This private gathering brings together founders, builders, investors, and leaders across Web3, AI, and security for a night of meaningful conversations, high-quality connections, and great energy.\n\nUnwind after a long conference day and meet the Quantstamp and Common Defense teams. Complementary drinks and food will be served throughout the evening. ​This is an exclusive event with limited capacity. Sign up now to secure your spot 🎟️*You must have an approved QR code to enter.\n\nThe Hosts\n\nQuantstamp is a global leader in blockchain security. Since 2017, we’ve secured billions in digital assets and worked with some of the most recognized names in web3.\n\nFollow on X: x.com/quantstampLearn more: quantstamp.com\n\nProtecting humans from AI-native threats\n\nDefending people and organizations across email, messaging, social platforms, professional networks, and voice and video calls.\n\nFollow on X: x.com/CommonDefenseAILearn More: commondefense.ai\n\nMedia Partner\n\nMira is the discovery platform for digital finance and frontier tech — events, companies, jobs, and the people building it.\n\nFollow on X: https://x.com/miragatherLearn more: miragather.com",
+    "startDate": "2026-11-04T13:30:00.000Z",
+    "endDate": "2026-11-04T16:30:00.000Z",
+    "city": "Mumbai",
+    "country": "India",
+    "location": "Mumbai, India",
+    "url": "https://luma.com/80bnxbwi",
+    "registrationUrl": "https://luma.com/80bnxbwi",
+    "coverImage": "/events/quantstamp-mumbai-lounge-baf9930a.webp",
+    "source": "ibw-official",
+    "hosts": [
+      "Quantstamp",
+      "Common Defense"
+    ],
+    "approvalRequired": true,
+    "timezone": "Asia/Kolkata",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "sideEventFor": [
+      "ibw"
+    ],
+    "sourceVerification": {
+      "url": "https://luma.com/80bnxbwi",
+      "eventId": "calev-0zoe5vFAX9dpzcV",
+      "fetchedAt": "2026-09-22T11:17:53.000Z",
+      "method": "luma-page",
+      "apifyRunId": "dRLvrA3Mhk3x8pbRp"
     }
   }
 ]

@@ -3858,18 +3858,6 @@ Los edificios H e I de la Universidad Externado cuentan con espacios modernos y 
 
 Un entorno académico y profesional alineado con el carácter de BSL Colombia, preparado para recibir a autoridades, reguladores, líderes del sistema financiero, académicos, empresas tecnológicas y referentes internacionales.
 
-<a id="event-1ef7847b0c8d7720"></a>
-
-## Quantstamp x Common Defense Mumbai Lounge
-
-- Record: `side-ibw2026-quantstamp-lounge`
-- Source: [curated-events.json](sources/curated-events.json)
-- Starts: 2026-11-04T19:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://quantstamp.com>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-5c1fe3fdffde2832"></a>
 
 ## ETHGlobal Mumbai 2026
@@ -14149,6 +14137,40 @@ The summit features no parallel sessions and an invite-only guest list of top fo
 ### Tickets
 
 The organizer lists early-bird Network, Hacker and General passes, including a guest pass for a friend with the General pass. Published early-bird prices start at $29 for the Network pass, $49 for hackers attending ETHGlobal Mumbai, and $69 for General admission. Partners for the summit include Uniswap, 0G, World, Arc, 1inch and Arkiv. ETHGlobal Plus at $828 per year covers all Pragma events plus more than 100 global side events with travel credits and free onchain transactions. See the organizer's checkout for the current pass conditions.
+
+<a id="event-35062dda67d54087"></a>
+
+## Quantstamp x Common Defense \| Mumbai Lounge \| Devcon 2026
+
+- Record: `ibw-official-quantstamp-mumbai-lounge-11-04`
+- Source: [ibw-side-events.json](sources/ibw-side-events.json)
+- Starts: 2026-11-04T13:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/80bnxbwi>
+
+### About the event
+
+Join Quantstamp and Common Defense for an exclusive networking evening in Mumbai, just steps from the main Devcon conference This private gathering brings together founders, builders, investors, and leaders across Web3, AI, and security for a night of meaningful conversations, high-quality connections, and great energy.
+
+Unwind after a long conference day and meet the Quantstamp and Common Defense teams. Complementary drinks and food will be served throughout the evening. This is an exclusive event with limited capacity. Sign up now to secure your spot *You must have an approved QR code to enter.
+
+The Hosts
+
+Quantstamp is a global leader in blockchain security. Since 2017, we've secured billions in digital assets and worked with some of the most recognized names in web3.
+
+Follow on X: x.com/quantstampLearn more: quantstamp.com
+
+Protecting humans from AI-native threats
+
+Defending people and organizations across email, messaging, social platforms, professional networks, and voice and video calls.
+
+Follow on X: x.com/CommonDefenseAILearn More: commondefense.ai
+
+### Media Partner
+
+Mira is the discovery platform for digital finance and frontier tech - events, companies, jobs, and the people building it.
+
+Follow on X: https://x.com/miragatherLearn more: miragather.com
 
 <a id="event-341efe25b6b59410"></a>
 
@@ -32226,80 +32248,6 @@ The infrastructure exists. The question now is how to open these rails to non cr
 The room is curated: India's largest corporate philanthropy operations alongside on-chain capital, impact organisations already operating on-chain or actively exploring it, and the protocols underwriting it all.
 
 If yield becomes the next layer of philanthropy, this is the room where it starts.----------------------This event is organised by Launchnodes, the Ethereum infrastructure company behind Lido Impact Staking and Stablecoin for Impact. Launchnodes builds the financial rails that let on-chain yield flow directly to vetted impact organisations. Together, these products form Impactstake.com, the platform connecting donor capital with measurable social and environmental outcomes. Launchnodes also builds infrastructure and dApps on Canton Network for traditional financial institutions.
-
-<a id="event-61134c10ce558a7b"></a>
-
-## Unchained Summit India
-
-- Record: `luma-batch-U1Y915GKEE2oajH`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-11-05T03:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/tnpejyg4>
-
-### About the event
-
-India's Web3 & Crypto Summit for Builders, Investors and Institutions
-
-Unchained Summit brings together the institutions, investors, founders, policymakers, traders and technology leaders shaping the next era of digital assets, financial markets and Web3.
-
-India combines massive digital-asset adoption, deep technical talent and a rapidly evolving ecosystem of financial institutions, capital and Web3 companies. Unchained Summit connects these worlds through business opportunities, partnerships, investment and global market access.
-
-Following successful international editions in Dubai and Vietnam, Unchained Summit now comes to India. For those looking to invest, build, enter the market or shape its next chapter, this is where the right conversations begin.
-
-### Speakers
-
-SB Sekar - Head of APAC, Binance, UAE
-
-Praneeth Srikanti - Partner, Ethereal Ventures, Berlin
-
-Eva Wong - General Counsel, Parity, UK
-
-Prabal Banerjee - Co-Founder, Avail, UAE
-
-Sanat Rao - Chief Investment Officer, Monarq Asset Management, New York
-
-Mr Dilip Chenoy - Chairperson, Bharat Web3 Association, India
-
-Sumit Gupta - Co-Founder, CoinDCX, India
-
-Ashish Singhal - Co-Founder, Coinswitch, India
-
-Saumya Saxena - India Lead, Base, India
-
-Amanda Cassatt - Founder and CEO, Serotonin, Hong Kong
-
-Ronak Jethava - Head of UAE, Startale Group, UAE
-
-Cal Evans - Managing Associate, Gresham International, UK
-
-Vineet Budki - CEO, Sigma Capital, UAE
-
-Kunaal Patel - Head of Institutional BD - Asia & MENA, Ondo Finance, Singapore
-
-Tobias Bauer - Co-Founder and General Partner, TBV, Singapore
-
-Punit Agarwal - Founder and CEO, KoinX, India
-
-Amit Mehra - General Partner, Borderless Capital, India
-
-Jaideep Reddy - Partner, Trilegal, India
-
-Prasanth Kalangi - Founder and CEO, Zoniqx, USA
-
-Dharamveer Singh Chouhan - Founder & Group CEO, Zostel & Zo World, India
-
-Rohan Bagai - Senior Partner, AZB & Partners, India
-
-Ritu Sajnani - Executive Director, Eclipton Group, India
-
-Uttam Singh - Sr. DevRel Engineer, Alchemy, USA
-
-To know more about all speakers, speaker applications, topics, sponsors, tickets, or media/community partnerships, visit the official website: unchainedsummit.com/india
-
-Watch Official Aftermovie from Unchained Summit Vietnam 2026
-
-Watch Official Aftermovie from Unchained Summit Dubai 2025
 
 <a id="event-40159e63607cfdfb"></a>
 

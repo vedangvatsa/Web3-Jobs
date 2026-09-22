@@ -417,7 +417,8 @@
       "fetchedAt": "2026-09-19T23:30:14.423Z",
       "method": "luma-page",
       "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
+    },
+    "sideEventFor": []
   },
   {
     "id": "india-luma-monad-blitz-mumbai-september-2026",
@@ -1604,7 +1605,10 @@
       "fetchedAt": "2026-09-19T23:30:18.358Z",
       "method": "luma-page",
       "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
+    },
+    "sideEventFor": [
+      "ibw"
+    ]
   },
   {
     "id": "india-luma-52vxy6fo",

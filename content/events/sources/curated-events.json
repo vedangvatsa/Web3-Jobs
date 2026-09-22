@@ -2239,7 +2239,10 @@
       "eventId": "evt-CyZRiDdLECiCPRS",
       "fetchedAt": "2026-09-20T07:56:56.136Z",
       "method": "luma-page"
-    }
+    },
+    "sideEventFor": [
+      "ibw"
+    ]
   },
   {
     "id": "premier-africabcfest",
@@ -3104,7 +3107,10 @@
     "website": "https://indiablockchainweek.com",
     "source": "curated-premier",
     "slug": "ibw-institutional-forum-2026",
-    "coverImage": "/logo/partners/ibw.png"
+    "coverImage": "/logo/partners/ibw.png",
+    "sideEventFor": [
+      "ibw"
+    ]
   },
   {
     "id": "side-ibw2026-defi-security-summit-day2",
@@ -3164,21 +3170,6 @@
     "website": "https://quillaudits.com",
     "source": "curated-premier",
     "slug": "the-institutional-table-private-dinner-mumbai",
-    "coverImage": "/logo/partners/ibw.png"
-  },
-  {
-    "id": "side-ibw2026-quantstamp-lounge",
-    "name": "Quantstamp x Common Defense Mumbai Lounge",
-    "description": "Exclusive security networking lounge for smart contract auditors and protocol founders during Devcon. Takes place 4 November 2026 in Mumbai.",
-    "startDate": "2026-11-04T19:00:00.000Z",
-    "endDate": "2026-11-04T22:00:00.000Z",
-    "city": "Mumbai",
-    "country": "India",
-    "location": "Mumbai, India",
-    "url": "https://quantstamp.com",
-    "website": "https://quantstamp.com",
-    "source": "curated-premier",
-    "slug": "quantstamp-common-defense-mumbai-lounge",
     "coverImage": "/logo/partners/ibw.png"
   },
   {
@@ -3688,7 +3679,10 @@
       "method": "official-section",
       "pageTitle": "Unchained Summit India | Top Web3 & Crypto Conference | 5-6 Nov 2026",
       "sha256": "75526574aa84f60e5335a8e6fd289e8b56830997f30183af5a835f6113f083a8"
-    }
+    },
+    "sideEventFor": [
+      "ibw"
+    ]
   },
   {
     "twitter": null,

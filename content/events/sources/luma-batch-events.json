@@ -4279,7 +4279,10 @@
       "fetchedAt": "2026-09-22T10:40:02.039Z",
       "method": "luma-page",
       "apifyRunId": "xaRAFVxiGJ65xirOe"
-    }
+    },
+    "sideEventFor": [
+      "ibw"
+    ]
   },
   {
     "id": "luma-batch-HWyWCSbQQ3n6tLU",
@@ -4375,56 +4378,6 @@
     "sourceVerification": {
       "url": "https://luma.com/7729jnr3",
       "eventId": "evt-G3fjJAlPZ0oK9GC",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
-    }
-  },
-  {
-    "id": "luma-batch-U1Y915GKEE2oajH",
-    "slug": "tnpejyg4",
-    "name": "Unchained Summit India",
-    "description": "India’s Web3 & Crypto Summit for Builders, Investors and Institutions\n\nUnchained Summit brings together the institutions, investors, founders, policymakers, traders and technology leaders shaping the next era of digital assets, financial markets and Web3.\n\nIndia combines massive digital-asset adoption, deep technical talent and a rapidly evolving ecosystem of financial institutions, capital and Web3 companies. Unchained Summit connects these worlds through business opportunities, partnerships, investment and global market access.\n\nFollowing successful international editions in Dubai and Vietnam, Unchained Summit now comes to India. For those looking to invest, build, enter the market or shape its next chapter, this is where the right conversations begin.\n\nSpeakers\n\nSB Sekar - Head of APAC, Binance, UAE\n\nPraneeth Srikanti - Partner, Ethereal Ventures, Berlin\n\nEva Wong - General Counsel, Parity, UK\n\nPrabal Banerjee - Co-Founder, Avail, UAE\n\nSanat Rao - Chief Investment Officer, Monarq Asset Management, New York\n\nMr Dilip Chenoy - Chairperson, Bharat Web3 Association, India\n\nSumit Gupta - Co-Founder, CoinDCX, India\n\nAshish Singhal - Co-Founder, Coinswitch, India\n\nSaumya Saxena - India Lead, Base, India\n\nAmanda Cassatt - Founder and CEO, Serotonin, Hong Kong\n\nRonak Jethava - Head of UAE, Startale Group, UAE\n\nCal Evans - Managing Associate, Gresham International, UK\n\nVineet Budki - CEO, Sigma Capital, UAE\n\nKunaal Patel - Head of Institutional BD - Asia & MENA, Ondo Finance, Singapore\n\nTobias Bauer - Co-Founder and General Partner, TBV, Singapore\n\nPunit Agarwal - Founder and CEO, KoinX, India\n\nAmit Mehra - General Partner, Borderless Capital, India\n\nJaideep Reddy - Partner, Trilegal, India\n\nPrasanth Kalangi - Founder and CEO, Zoniqx, USA\n\nDharamveer Singh Chouhan - Founder & Group CEO, Zostel & Zo World, India\n\nRohan Bagai - Senior Partner, AZB & Partners, India\n\nRitu Sajnani - Executive Director, Eclipton Group, India\n\nUttam Singh - Sr. DevRel Engineer, Alchemy, USA\n\nTo know more about all speakers, speaker applications, topics, sponsors, tickets, or media/community partnerships, visit the official website: unchainedsummit.com/india\n\nWatch Official Aftermovie from Unchained Summit Vietnam 2026\n\nWatch Official Aftermovie from Unchained Summit Dubai 2025",
-    "startDate": "2026-11-05T03:30:00.000Z",
-    "endDate": "2026-11-06T11:30:00.000Z",
-    "city": "Mumbai",
-    "country": "India",
-    "location": "Mumbai, Mumbai, Maharashtra, India",
-    "url": "https://luma.com/tnpejyg4",
-    "registrationUrl": "https://luma.com/tnpejyg4",
-    "coverImage": "/events/luma-batch-U1Y915GKEE2oajH-e70c68b4.jpg",
-    "source": "luma-batch",
-    "hosts": [
-      "Aeternum",
-      "Unchained Summit"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Asia/Kolkata",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "Mumbai",
-    "addressLocality": "Mumbai",
-    "addressRegion": "Maharashtra",
-    "addressCountry": "IN",
-    "organizer": {
-      "type": "Organization",
-      "name": "Aeternum",
-      "url": "https://luma.com/user/Aeternum"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/tnpejyg4",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/tnpejyg4",
-      "eventId": "evt-U1Y915GKEE2oajH",
       "fetchedAt": "2026-09-22T10:40:02.039Z",
       "method": "luma-page",
       "apifyRunId": "xaRAFVxiGJ65xirOe"
