@@ -596,6 +596,9 @@
   "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/",
   "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/",
   "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
+  "https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/",
+  "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
+  "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1571,6 +1574,12 @@
   "US government website used Chinese model the FBI called \"malicious\"",
   "Former accountant creates AI tool Tabby for real-time bookkeeping",
   "With Tabby, a former accountant is using AI to make accountants obsolete",
+  "Scaleout deploys autonomous AI for military drone targeting",
+  "Small AI models let drones autonomously identify and attack battlefield targets",
+  "TechCrunch Disrupt 2026 features five sessions on AI safety",
+  "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+  "AstroForge uses transformer AI to control next space probe",
+  "AstroForge is putting AI in command of its next spacecraft",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -1684,5 +1693,8 @@
   "fp:are|build|despit|disclos|fund|interest|keep|lot|project|public",
   "fp:buys4|capability|clos|cost|despit|develop|exclusiv|fiv|four|frontier",
   "fp:briefly|call|chines|develop|fbi|federal|firm|flagg|government|integrat",
-  "fp:accountant|bookkeep|business|client|creat|data|former|loss|mak|manag"
+  "fp:accountant|bookkeep|business|client|creat|data|former|loss|mak|manag",
+  "fp:aerial|attack|autonomous|autonomously|battlefield|decentraliz|deploy|dron|enabl|engag",
+  "fp:agenda|amazon|anthropic|discussion|disrupt2026|every|featur|fiv|founder|hav",
+  "fp:astroforg|autonomy1|bas|command|control|dur|manag|mission|next|operation"
 ]

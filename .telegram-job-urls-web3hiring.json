@@ -2858,18 +2858,22 @@
   },
   "6161890004": {
     "slugs": [
-      "operations159"
+      "operations159",
+      "operations90004"
     ],
-    "lastSlug": "operations159",
-    "lastUrl": "https://hashtagweb3.com/operations159",
+    "lastSlug": "operations90004",
+    "lastUrl": "https://hashtagweb3.com/operations90004",
     "updatedAt": "2026-09-22T08:01:16.718Z"
   },
   "31005948e668": {
     "slugs": [
-      "enterprise4"
+      "enterprise4",
+      "enterprise8e668",
+      "enterprise1",
+      "enterprise-1sm2oqy"
     ],
-    "lastSlug": "enterprise4",
-    "lastUrl": "https://hashtagweb3.com/enterprise4",
+    "lastSlug": "enterprise-1sm2oqy",
+    "lastUrl": "https://hashtagweb3.com/enterprise-1sm2oqy",
     "updatedAt": "2026-09-22T08:01:16.996Z"
   },
   "5424561008": {
@@ -2882,10 +2886,53 @@
   },
   "916163ee-44d4-475a-9f0f-97627b1b6c9a": {
     "slugs": [
-      "manager169"
+      "manager169",
+      "manager98689",
+      "manager-0fhlr0z",
+      "managerb6c9a"
     ],
-    "lastSlug": "manager169",
-    "lastUrl": "https://hashtagweb3.com/manager169",
+    "lastSlug": "managerb6c9a",
+    "lastUrl": "https://hashtagweb3.com/managerb6c9a",
     "updatedAt": "2026-09-22T08:01:17.440Z"
+  },
+  "2cf26399-8db1-48af-adfa-3c51b923e12d": {
+    "slugs": [
+      "analyst85"
+    ],
+    "lastSlug": "analyst85",
+    "lastUrl": "https://hashtagweb3.com/analyst85",
+    "updatedAt": "2026-09-22T15:39:27.546Z"
+  },
+  "tangem-swift-blockchain-developer": {
+    "slugs": [
+      "developer52"
+    ],
+    "lastSlug": "developer52",
+    "lastUrl": "https://hashtagweb3.com/developer52",
+    "updatedAt": "2026-09-22T15:39:27.728Z"
+  },
+  "e3ae823d-44fa-4f50-bd76-454c1e178cd9": {
+    "slugs": [
+      "backend114"
+    ],
+    "lastSlug": "backend114",
+    "lastUrl": "https://hashtagweb3.com/backend114",
+    "updatedAt": "2026-09-22T15:39:27.800Z"
+  },
+  "8827433002": {
+    "slugs": [
+      "dsam"
+    ],
+    "lastSlug": "dsam",
+    "lastUrl": "https://hashtagweb3.com/dsam",
+    "updatedAt": "2026-09-22T15:39:27.900Z"
+  },
+  "29f6d54a-03ee-4b57-b904-1e9e8b4bf1e2": {
+    "slugs": [
+      "cmp23"
+    ],
+    "lastSlug": "cmp23",
+    "lastUrl": "https://hashtagweb3.com/cmp23",
+    "updatedAt": "2026-09-22T15:39:28.099Z"
   }
 }
