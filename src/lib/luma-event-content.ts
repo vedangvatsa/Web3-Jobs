@@ -2,6 +2,7 @@ import type { EventEditorialArticle, Web3Event } from '@/lib/events';
 import { formatEventDate, formatEventLocation } from '@/lib/events';
 import { isThinEventListingDescription } from '@/lib/event-editorial-facts';
 import { cleanPublishText } from '@/lib/noslop';
+import { polishEventDescriptionLinks } from '@/lib/event-description-links';
 
 const LUMA_HOST = /^(?:www\.)?(?:luma\.com|lu\.ma)$/i;
 
@@ -179,7 +180,9 @@ export function buildEditorialFromOrganizerDescription(event: Web3Event): EventE
   const locationStr = online ? 'online' : resolvedPlace === 'Virtual / TBA' ? '(venue to be announced)' : `in ${resolvedPlace}`;
   const formattedDates = formatEventDate(event.startDate, event.endDate, event.timezone);
 
-  const rawDescription = cleanPublishText((event.description || '').trim());
+  const rawDescription = polishEventDescriptionLinks(
+    cleanPublishText((event.description || '').trim()),
+  );
   const ownDescription =
     rawDescription && !isThinEventListingDescription(rawDescription) ? rawDescription : '';
 
@@ -211,7 +214,9 @@ export function buildEditorialFromOrganizerDescription(event: Web3Event): EventE
 
   const summaryLead = event.eventStatus === 'EventPostponed'
     ? `${event.name} has been postponed. New dates have not been announced.`
-    : factsLine
+    : firstSummaryParagraph
+      ? ''
+      : factsLine
     ? `${event.name} on ${formattedDates} ${locationStr}. ${factsLine}.`
     : `${event.name} on ${formattedDates} ${locationStr}.`;
 

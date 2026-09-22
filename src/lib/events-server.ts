@@ -1,6 +1,6 @@
 import { Web3Event, getEventEcosystems, getEventSlug, getEventType } from './events';
 import { WASET_ICBT_SERIES_ID } from './waset-icbt';
-import { loadStaticJson } from './load-static-json';
+import { loadStaticJson, localCatalogMtimeMs } from './load-static-json';
 import { buildEventSlugIndex } from './event-slug-index';
 
 type EventsIndex = {
@@ -10,8 +10,16 @@ type EventsIndex = {
 
 let eventsIndex: EventsIndex | null = null;
 let eventsLoad: Promise<EventsIndex> | null = null;
+let eventsCatalogMtimeMs: number | null = null;
 
 async function ensureEventsIndex(): Promise<EventsIndex> {
+  if (process.env.NODE_ENV === 'development') {
+    const mtimeMs = localCatalogMtimeMs('events-runtime.json');
+    if (eventsIndex && mtimeMs !== null && mtimeMs !== eventsCatalogMtimeMs) {
+      eventsIndex = null;
+    }
+    eventsCatalogMtimeMs = mtimeMs;
+  }
   if (eventsIndex) return eventsIndex;
   if (!eventsLoad) {
     eventsLoad = loadStaticJson<Web3Event[]>('events-runtime.json', value => Array.isArray(value) && value.every((event: unknown) =>

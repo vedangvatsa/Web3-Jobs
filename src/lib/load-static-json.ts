@@ -4,8 +4,29 @@ import { catalogSearchRoots, findLocalFile, readLocalJsonFile } from './catalog-
 
 const SITE_ORIGIN = process.env.NEXT_PUBLIC_SITE_URL?.replace(/\/$/, '') || 'https://hashtagweb3.com';
 
-const jsonCache = new Map<string, unknown>();
+type JsonCacheEntry = { data: unknown; mtimeMs: number | null };
+
+const jsonCache = new Map<string, JsonCacheEntry>();
 const jsonLoads = new Map<string, Promise<unknown>>();
+
+export function localCatalogMtimeMs(filename: string): number | null {
+  for (const rel of [
+    path.join('content', filename),
+    path.join('public', 'data', filename),
+  ]) {
+    for (const root of catalogSearchRoots()) {
+      const abs = path.join(root, rel);
+      try {
+        if (fs.existsSync(abs) && fs.statSync(abs).isFile()) {
+          return fs.statSync(abs).mtimeMs;
+        }
+      } catch {
+        // continue
+      }
+    }
+  }
+  return null;
+}
 
 function readLocalDataFile(filename: string): unknown | null {
   const direct = readLocalJsonFile('content', filename) ?? readLocalJsonFile('public', 'data', filename);
@@ -77,9 +98,12 @@ async function fetchRemoteJson(filename: string): Promise<unknown> {
  * Next does not ISR-cache a false 404.
  */
 export async function loadStaticJson<T>(filename: string, validate?: (value: unknown) => boolean): Promise<T> {
+  const devMtimeMs =
+    process.env.NODE_ENV === 'development' ? localCatalogMtimeMs(filename) : null;
   const cached = jsonCache.get(filename);
   if (cached !== undefined) {
-    if (!validate || validate(cached)) return cached as T;
+    const staleInDev = devMtimeMs !== null && cached.mtimeMs !== devMtimeMs;
+    if (!staleInDev && (!validate || validate(cached.data))) return cached.data as T;
     jsonCache.delete(filename);
   }
   let pending = jsonLoads.get(filename);
@@ -97,7 +121,7 @@ export async function loadStaticJson<T>(filename: string, validate?: (value: unk
   }
   const data = await pending;
   if (validate && !validate(data)) throw new Error(`[loadStaticJson] ${filename}: invalid catalog`);
-  jsonCache.set(filename, data);
+  jsonCache.set(filename, { data, mtimeMs: devMtimeMs });
   return data as T;
 }
 

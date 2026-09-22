@@ -2597,7 +2597,7 @@ Alongside the main stages, the week includes the NEXUS startup competition (500 
 
 ### Festival and side events
 
-TOKEN2049 is built as a festival: a pop-up city across Marina Bay Sands with immersive experiences and more than 1,000 side events under one roof. The official closing party, AFTER2049, returns to the MBS SkyPark on 9 October with Claptone headlining 57 floors above ground, joined by Crusy and residents ANONM, Leon, Milam and Mo-Shi, with 360-degree spatial audio by Polygon Live.
+The organizer markets the Singapore edition as a festival and, on its site, invites attendees to experience a "pop-up city" of immersive experiences under one roof at Marina Bay Sands - experiential branding, not a literal temporary city. More than 1,000 side events run across the wider conference week. The official closing party, AFTER2049, returns to the MBS SkyPark on 9 October with Claptone headlining 57 floors above ground, joined by Crusy and residents ANONM, Leon, Milam and Mo-Shi, with 360-degree spatial audio by Polygon Live.
 
 ### Tickets
 
@@ -2609,9 +2609,9 @@ Founders, investors, developers, exchange and protocol teams, institutions, poli
 
 ### Speakers
 
-Selected speakers include Balaji Srinivasan (The Network State), Arthur Hayes (Maelstrom), Adena Friedman (Nasdaq), Richard Teng (Binance), Joseph Lubin (Ethereum / MetaMask), Charles Hoskinson (Input Output Group), Justin Sun (TRON) and Max Verstappen (Oracle Red Bull Racing).
+Selected speakers include Shayne Coplan (Polymarket), Balaji Srinivasan (The Network State), Arthur Hayes (Maelstrom), Adena Friedman (Nasdaq), Richard Teng (Binance), Joseph Lubin (Ethereum / MetaMask), Charles Hoskinson (Input Output Group), Justin Sun (TRON) and Max Verstappen (Oracle Red Bull Racing).
 
-The list of speakers is here: https://www.token2049.com/singapore/speakers
+See the [official speaker directory](https://www.token2049.com/singapore/speakers) for the full roster.
 
 <a id="event-14df72e9594dc005"></a>
 
@@ -3475,7 +3475,7 @@ The audience mix spans builders and developers, founders and CEOs, protocol and 
 
 Confirmed speakers for IBW2026 are announced on the organizer's speakers page, with more to be added closer to the event.
 
-The full list of speakers is here: https://indiablockchainweek.com/ibw_2026/speakers
+See the [official speaker directory](https://indiablockchainweek.com/ibw_2026/speakers) for the full roster.
 
 Past editions of India Blockchain Week have featured Vitalik Buterin (Ethereum), Sandeep Nailwal (Polygon), Jesse Pollak (Base), Sreeram Kannan (Eigen Labs), Avery Ching (Aptos Labs), Charles Guillemet (Ledger), Keone Hon (Monad Foundation), Kelvin Koh (Spartan Group), Vishal Kankani (Multicoin Capital), Yusuf Goolamabbas (Animoca Brands), Ashish Singhal (CoinSwitch) and Sumit Gupta (CoinDCX), among others.
 

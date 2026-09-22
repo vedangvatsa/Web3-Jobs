@@ -75,7 +75,7 @@ Each entry links to its formatted description and original source file. All stor
 | [Global Onchain Summit Singapore 2026](descriptions.md#event-10d7190c91769be2) | 2026-10-06 | Source-backed (3625 chars) |
 | [Digital Assets Week London 2026](descriptions.md#event-2f6671a42b581c26) | 2026-10-06 | Source-backed (1245 chars) |
 | [TOKEN2049 Origins Hackathon 2026](descriptions.md#event-7a9e30d3fbf20583) | 2026-10-06 | Source-backed (2287 chars) |
-| [TOKEN2049 Singapore 2026](descriptions.md#event-aeedb571ec460801) | 2026-10-07 | Source-backed (2056 chars) |
+| [TOKEN2049 Singapore 2026](descriptions.md#event-aeedb571ec460801) | 2026-10-07 | Source-backed (2271 chars) |
 | [Sui Basecamp 2026](descriptions.md#event-14df72e9594dc005) | 2026-10-07 | Source-backed (835 chars) |
 | [Stablecoin Summit Singapore 2026](descriptions.md#event-9c798a3d0e6b65c0) | 2026-10-08 | Source-backed (909 chars) |
 | [The Odds: Prediction Markets Summit Singapore 2026](descriptions.md#event-c7a04d91ec43b6f9) | 2026-10-08 | Source-backed (986 chars) |
@@ -101,7 +101,7 @@ Each entry links to its formatted description and original source file. All stor
 | [LABITCONF 2026](descriptions.md#event-1c5ab0a32434070b) | 2026-10-30 | Source-backed (1595 chars) |
 | [India Blockchain & AI Tour 2026 — Mumbai](descriptions.md#event-4a8811658c73c4b8) | 2026-10-31 | Source-backed (2664 chars) |
 | [IBW2026 Pre-Conference VIP Night](descriptions.md#event-aa91470fe5046d1f) | 2026-10-31 | Unverified stored copy (147 chars) |
-| [India Blockchain Week 2026](descriptions.md#event-98762cc73455f7a9) | 2026-11-01 | Source-backed (1971 chars) |
+| [India Blockchain Week 2026](descriptions.md#event-98762cc73455f7a9) | 2026-11-01 | Source-backed (1995 chars) |
 | [Cosmoverse 2026](descriptions.md#event-5a90a4056685d05d) | 2026-11-01 | Source-backed (969 chars) |
 | [DeFi Security Summit - Day 1](descriptions.md#event-5454f78c212801cd) | 2026-11-01 | Unverified stored copy (605 chars) |
 | [IBW Institutional Forum](descriptions.md#event-576df5110197ca1c) | 2026-11-01 | Unverified stored copy (158 chars) |

@@ -36,7 +36,9 @@ type EventGuideContentProps = {
 export function EventGuideContent({ editorial, speakerSummary, officialUrl }: EventGuideContentProps) {
   return (
     <section data-event-description data-content-status={editorial.descriptionStatus} className="mt-8 min-w-0 w-full space-y-10 break-words font-sans text-base text-muted-foreground [overflow-wrap:anywhere]">
-      <p className="text-base leading-relaxed whitespace-pre-line">{renderTextWithLinks(editorial.summaryLead)}</p>
+      {editorial.summaryLead.trim() ? (
+        <p className="text-base leading-relaxed whitespace-pre-line">{renderTextWithLinks(editorial.summaryLead)}</p>
+      ) : null}
 
       {editorial.descriptionStatus === 'unavailable' && (
         <section className="space-y-3">

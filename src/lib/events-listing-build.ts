@@ -6,6 +6,7 @@ import { Web3Event, formatEventLocation, getEventBaseSlug, getEventSlug, normali
 import { getEventExternalUrl } from './event-external-url';
 import { cleanPublishText } from './noslop';
 import { getVerifiedEventDescription } from './event-description-source';
+import { polishEventDescriptionLinks } from './event-description-links';
 import { getEventDisplayCity } from './event-map-locations';
 import { isWasetIcbtDuplicateEvent, WASET_ICBT_SERIES_ID } from './waset-icbt';
 
@@ -315,7 +316,7 @@ export async function buildEventsListing(): Promise<Web3Event[]> {
       let cleanCity = cleanPublishText(e.city || '');
       let cleanCountry = cleanPublishText(e.country || '');
       let cleanLocation = cleanPublishText(e.location || '');
-      let cleanDescription = cleanPublishText(getVerifiedEventDescription(e));
+      let cleanDescription = polishEventDescriptionLinks(cleanPublishText(getVerifiedEventDescription(e)));
       if (!e.sourceVerification && !e.descriptionSource && isTruncatedEventDescription(cleanDescription)) {
         cleanDescription = '';
       }
