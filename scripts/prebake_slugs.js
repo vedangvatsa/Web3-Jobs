@@ -78,7 +78,7 @@ function deduplicateJobs(jobs) {
 }
 
 function distributeJobsByCompany(jobs) {
-  const MAX = 2;
+  const MAX = 1;
   const groups = new Map();
   for (const job of jobs) {
     const k = job.company.toLowerCase();

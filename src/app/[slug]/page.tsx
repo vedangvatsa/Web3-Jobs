@@ -39,7 +39,7 @@ import { EventSideEvents } from '@/components/token2049-side-events';
 import { DirectoryDisclaimer } from '@/components/directory-disclaimer';
 import { getEventBySlug, getEvents, getRelatedEvents } from '@/lib/events-server';
 import { Button } from '@/components/ui/button';
-import { PrimaryActionLink } from '@/components/primary-action-link';
+import { DetailPrimaryActionLink } from '@/components/primary-action-link';
 import { Calendar, MapPin, ExternalLink, ArrowRight } from 'lucide-react';
 import {
   buildUniqueJobMetaDescription,
@@ -446,7 +446,9 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
           })
           .join(', ')
       : editorial.speakers || event.speakers?.join(', ');
-    const speakerFact = event.speakerDetails?.length
+    const speakerFact = hasSpeakerSection
+      ? undefined
+      : event.speakerDetails?.length
       ? `${event.speakerDetails.length} speaker${event.speakerDetails.length === 1 ? '' : 's'} listed`
       : editorial.speakers
         ? editorial.speakers
@@ -526,10 +528,10 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                 }
                 actions={
                   eventExternalUrl ? (
-                    <PrimaryActionLink href={eventExternalUrl} target="_blank" rel="noopener noreferrer nofollow">
+                    <DetailPrimaryActionLink href={eventExternalUrl} target="_blank" rel="noopener noreferrer nofollow">
                       Details
                       <ExternalLink className="h-4 w-4" aria-hidden="true" />
-                    </PrimaryActionLink>
+                    </DetailPrimaryActionLink>
                   ) : undefined
                 }
               />

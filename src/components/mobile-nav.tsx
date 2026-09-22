@@ -32,9 +32,8 @@ export function MobileNav() {
   return (
     <Sheet>
       <SheetTrigger asChild>
-        <Button variant="ghost" size="icon" className="h-11 w-11 flex-col gap-0.5 [&_svg]:size-5" aria-label="Toggle navigation menu">
+        <Button variant="ghost" size="icon" className="h-11 w-11 [&_svg]:size-5" aria-label="Toggle navigation menu">
           <Menu aria-hidden="true" />
-          <span className="text-[10px] leading-3">Menu</span>
         </Button>
       </SheetTrigger>
       <SheetContent side="right" className="flex w-[min(300px,100vw)] max-w-full flex-col bg-card p-0 [&>button]:right-2 [&>button]:top-2 [&>button]:flex [&>button]:h-11 [&>button]:w-11 [&>button]:items-center [&>button]:justify-center">

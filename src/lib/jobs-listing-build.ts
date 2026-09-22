@@ -90,7 +90,8 @@ function deduplicateJobs(jobs: Job[]): Job[] {
 }
 
 function distributeJobsByCompany(jobs: Job[]): Job[] {
-  const MAX_CONSECUTIVE = 2;
+  // One job per employer per pass so the grid does not read as same-logo pairs.
+  const MAX_CONSECUTIVE = 1;
 
   const groups = new Map<string, Job[]>();
   for (const job of jobs) {

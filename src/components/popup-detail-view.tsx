@@ -1,6 +1,6 @@
 import Image from 'next/image';
 import Link from 'next/link';
-import { PrimaryActionLink } from '@/components/primary-action-link';
+import { DetailPrimaryActionLink } from '@/components/primary-action-link';
 import {
   ExternalLink,
   MapPin,
@@ -341,10 +341,10 @@ export function PopupDetailView({ popup }: { popup: Popup }) {
             </div>
             {popup.website ? (
               <div className="flex w-full shrink-0 lg:ml-auto lg:w-auto">
-                <PrimaryActionLink href={popup.website} target="_blank" rel="noopener noreferrer">
+                <DetailPrimaryActionLink href={popup.website} target="_blank" rel="noopener noreferrer">
                   Details
                   <ExternalLink className="h-4 w-4" aria-hidden="true" />
-                </PrimaryActionLink>
+                </DetailPrimaryActionLink>
               </div>
             ) : null}
           </div>
