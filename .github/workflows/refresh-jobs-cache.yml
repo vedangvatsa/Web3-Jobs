@@ -194,7 +194,28 @@ jobs:
         run: npm ci --no-audit --no-fund
 
       - name: Install opencode
-        run: curl -fsSL https://opencode.ai/install | bash
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          # opencode.ai sits behind Cloudflare and answers GitHub-hosted
+          # runners with a non-200. curl -fsSL then exits 1 with an empty log.
+          mkdir -p "$HOME/.opencode/bin"
+          VERSION=$(curl -fsSL --retry 5 --retry-delay 2 \
+            -H "Authorization: Bearer $GH_TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            https://api.github.com/repos/anomalyco/opencode/releases/latest \
+            | jq -r '.tag_name')
+          if [ -z "$VERSION" ] || [ "$VERSION" = "null" ]; then
+            echo "Could not read the latest opencode release tag"
+            exit 1
+          fi
+          echo "Installing opencode $VERSION"
+          curl -fL --retry 5 --retry-delay 2 -o /tmp/opencode.tar.gz \
+            "https://github.com/anomalyco/opencode/releases/download/${VERSION}/opencode-linux-x64.tar.gz"
+          tar -xzf /tmp/opencode.tar.gz -C "$HOME/.opencode/bin" opencode
+          chmod 755 "$HOME/.opencode/bin/opencode"
+          "$HOME/.opencode/bin/opencode" --version
 
       - name: Configure git identity (agent commits as bot)
         run: |
