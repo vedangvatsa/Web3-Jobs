@@ -2565,15 +2565,19 @@ The organizer expects 25,000+ attendees from 160+ countries, 7,000+ companies, 3
 
 ### Program
 
-Alongside the main stages, the week includes the NEXUS startup competition (500 applicants, 10 finalists pitching on the global stage), the TOKEN2049 Origins hackathon (36 hours from concept to working product), the Startup Village exhibition area, and AFTER2049, the official closing party on 9 October at the MBS SkyPark.
+Alongside the main stages, the week includes the NEXUS startup competition (500 applicants, 10 finalists pitching on the global stage for equity-free prizes), the TOKEN2049 Origins hackathon (36 hours from concept to working product, with mentorship and a shot at prizes, funding and global recognition), and the Startup Village exhibition area where startups showcase to founders, investors, builders and decision-makers from across the industry.
+
+### Festival and side events
+
+TOKEN2049 is built as a festival: a pop-up city across Marina Bay Sands with immersive experiences and more than 1,000 side events under one roof. The official closing party, AFTER2049, returns to the MBS SkyPark on 9 October with Claptone headlining 57 floors above ground, joined by Crusy and residents ANONM, Leon, Milam and Mo-Shi, with 360-degree spatial audio by Polygon Live.
 
 ### Tickets
 
-Tickets are on sale now, currently listed at US$599 before the 24 September price increase, with payment by card or crypto. Get 10% off with our code HASHTAGWEB3.
+Tickets are on sale now, currently listed at US$599 before the 24 September price increase, payable by credit card or crypto. Get 10% off with our code HASHTAGWEB3.
 
 ### Who attends
 
-Founders, investors, developers, exchange and protocol teams, institutions, policymakers and media - anyone shaping the global crypto industry.
+Founders, investors, developers, exchange and protocol teams, institutions, policymakers and media - anyone shaping the global crypto industry. As Binance founder Changpeng Zhao puts it, it is where everybody comes together and the most important conversations happen.
 
 ### Speakers
 
