@@ -3,6 +3,10 @@
 You are publishing every qualifying News article for hashtagweb3.com. Today is $TODAY (UTC).
 Work in the repository root (current working directory on the runner).
 
+Never start a web server. Never run `npm run dev`, `next dev`, `next start`, or `pkill`.
+There is no site to curl on this runner. Starting one killed the job before the commit.
+Check the markdown and image files on disk, then commit and push.
+
 ## 0. Tips first (mandatory)
 
 Read `content/news-tips.md` FIRST. Every pending lead there was hand-picked
@@ -112,8 +116,9 @@ When in doubt, shorter and plainer wins.
   imageCaption: "<what the photo shows>. Photo: <author> via <source> (<license>)."
   imageCreditUrl: <source page URL>
   (Quote the caption value since it contains colons.)
-- Confirm the local file exists and renders (curl the page, check for the
-  /images/news/ path in the HTML) before publishing.
+- Confirm `content/articles/<slug>.md` exists and the hero file named in
+  front matter is on disk under `public/images/news/`. Do not curl a page
+  and do not start a server to check this.
 
 ## 5. Gates (all must pass — repair once, else drop the story)
 

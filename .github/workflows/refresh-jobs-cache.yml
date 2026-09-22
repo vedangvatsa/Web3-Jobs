@@ -8,6 +8,7 @@ name: Publish Jobs, Events & Social
 #
 # morning (03:30 UTC): ingest, news drafts, one Firebase rollout, then
 # Resend alerts, social, and Telegram. Auto-deploy stays off.
+# A news failure does not skip that rollout. The jobs catalog still ships.
 # If that morning run never starts, the next slot the same UTC day runs
 # the morning work instead of skipping it.
 # afternoon (11:30 UTC) and evening (19:30 UTC): social + Telegram, after
@@ -145,7 +146,7 @@ jobs:
 
   deploy:
     needs: [gate, ingest, publish-news]
-    if: ${{ always() && needs.gate.outputs.skip != 'true' && needs.gate.outputs.morning == 'true' && needs.ingest.result == 'success' && (needs.publish-news.result == 'success' || needs.publish-news.result == 'skipped') }}
+    if: ${{ always() && needs.gate.outputs.skip != 'true' && needs.gate.outputs.morning == 'true' && needs.ingest.result == 'success' && needs.publish-news.result != 'cancelled' }}
     uses: ./.github/workflows/fah-fix-and-deploy.yml
     secrets: inherit
 
@@ -252,7 +253,8 @@ jobs:
 
       - name: Publish news run
         run: |
-          PROMPT="$(cat scripts/news-agent-brief.md)"
+          RULE="Never start a web server. Never run npm run dev, next dev, next start, or pkill. Check the article markdown and the image file on disk, then commit and push."
+          PROMPT="$RULE"$'\n'"$(cat scripts/news-agent-brief.md)"
           PROMPT="${PROMPT//\$TODAY/$(date -u +%F)}"
           PROMPT="${PROMPT//\$DRY_RUN/$NEWS_DRY_RUN}"
           "$HOME/.opencode/bin/opencode" run --model "$NEWS_MODEL" "$PROMPT"
@@ -422,7 +424,39 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
+      - name: Stamp morning after a rollout so a later slot does not deploy again
+        if: ${{ needs.gate.outputs.morning == 'true' && needs.ingest.result == 'success' && needs.deploy.result == 'success' }}
+        run: |
+          set -euo pipefail
+          TODAY=$(date -u +%F)
+          STATE="scripts/social/publish-slot-state.json"
+          node -e "const fs=require('fs'); const p=process.argv[1]; const s=fs.existsSync(p)?JSON.parse(fs.readFileSync(p,'utf8')):{}; s.morning=process.argv[2]; fs.writeFileSync(p, JSON.stringify(s,null,2)+'\n');" "$STATE" "$TODAY"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add "$STATE"
+          if git diff --staged --quiet; then
+            echo "Morning already stamped"
+            exit 0
+          fi
+          git commit -m "chore: record morning rollout for ${TODAY} [skip ci]"
+          git reset --hard HEAD
+          for i in 1 2 3; do
+            if ! git pull --rebase origin main; then
+              git rebase --abort || true
+              git reset --hard HEAD
+              echo "Morning stamp rebase attempt $i failed"
+              sleep 2
+              continue
+            fi
+            if git push origin main; then
+              exit 0
+            fi
+            echo "Morning stamp push attempt $i failed, retrying..."
+            sleep 2
+          done
+          exit 1
       - name: Fail if a due job was skipped
+        if: always()
         env:
           MORNING: ${{ needs.gate.outputs.morning }}
           SOCIAL: ${{ needs.gate.outputs.social }}
