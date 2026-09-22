@@ -124,21 +124,42 @@ jobs:
 
       - name: Commit and push refreshed jobs cache
         run: |
+          set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git fetch origin main
+          # The catalog commit has to sit on local main. checkout leaves a
+          # detached HEAD, and `git push origin main` would then push the
+          # stale local branch instead of this commit.
+          git checkout -B main
           npx tsx scripts/social/merge-state.ts
-          git add content/jobs-cache.json content/jobs-runtime.json content/homepage-jobs.json content/companies-runtime.json content/slug-types.json content/job-description-shards/ content/prebuild-input-hashes.json content/sitemap-routes.json public/sitemap.xml public/.well-known/sitemap.json 2>/dev/null || true
-          git add public/og/ public/preview/ 2>/dev/null || true
-          git add public/logo/companies/ 2>/dev/null || true
+          git add content/jobs-cache.json content/jobs-runtime.json content/homepage-jobs.json content/companies-runtime.json content/slug-types.json content/job-description-shards/ content/prebuild-input-hashes.json content/sitemap-routes.json public/sitemap.xml public/.well-known/sitemap.json
+          git add public/og/ public/preview/ public/logo/companies/ || true
           if git diff --staged --quiet; then
             echo "No changes to commit"
-          else
-            git commit -m "chore: refresh jobs cache (daily ingest)"
-            for i in 1 2 3; do
-              git pull --rebase origin main || git pull --rebase -X theirs origin main || true
-              git push origin main && break
-              echo "Push attempt $i failed, reconciling and retrying..."
-              sleep 2
-            done
+            exit 0
           fi
+          git commit -m "chore: refresh jobs cache (daily ingest)"
+          # merge-state rewrites social JSON this job does not commit.
+          # pull --rebase refuses a dirty tree, and the old loop still
+          # exited 0 after origin rejected the push.
+          git reset --hard HEAD
+          for i in 1 2 3; do
+            if ! git pull --rebase origin main; then
+              git rebase --abort || true
+              git reset --hard HEAD
+              if ! git pull --rebase -X theirs origin main; then
+                git rebase --abort || true
+                echo "Rebase attempt $i failed"
+                sleep 2
+                continue
+              fi
+            fi
+            if git push origin main; then
+              exit 0
+            fi
+            echo "Push attempt $i failed, reconciling and retrying..."
+            sleep 2
+          done
+          echo "Failed to push the jobs catalog to main"
+          exit 1
