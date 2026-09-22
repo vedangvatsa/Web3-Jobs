@@ -25737,6 +25737,14 @@ Paytrie builds stablecoin infrastructure in Canada, helping people and businesse
 
 Loon issues CADC, a Canadian dollar-backed stablecoin that brings CAD onchain.
 
+### Hosts
+
+Hosted by Superteam Canada, CADC \\ The Canadian Dollar Coin (Canada's leading stablecoin), Paytrie (Canadian stablecoin on/off ramp).
+
+### Event details
+
+The event takes place on September 23. Venue: Chatime, Chatime, 163 King St E, Toronto, ON M5A 1J4, Canada.
+
 <a id="event-b9765eca06d14027"></a>
 
 ## The AI Economy: Infrastructure, Payments, Venture Capital, Digital Asset
@@ -26577,6 +26585,14 @@ We'll show you the visual details that make a project read as the real thing: yo
 
 Expect a presence checklist and a clear order of design priorities for Breakpoint.
 
+### Hosts
+
+Hosted by Superteam UK.
+
+### Event details
+
+The event takes place on September 24. Venue: Somerset House, Somerset House, London WC2R 1LA, UK.
+
 <a id="event-9d656ffa8e1538fb"></a>
 
 ## Prediction Market Brunch Toronto
@@ -26753,6 +26769,14 @@ Tanto si ya formas parte de La Familia y/o SuperPioneros como si acabas de descu
 
 Також можна буде принести свій проєкт - подивимося разом і дамо фідбек.
 
+### Hosts
+
+Hosted by Superteam Ukraine (Solana Hub in Ukraine - Learn. Earn. Build.).
+
+### Event details
+
+The event takes place on September 24.
+
 <a id="event-514498ded1a00e35"></a>
 
 ## KBW\|TOKEN2049 SEND-OFF PARTY
@@ -26804,6 +26828,14 @@ Open to Solana Summit Canada badge holders only. Please bring your badge.
 Paytrie builds stablecoin infrastructure in Canada, helping people and businesses buy, sell, and use stablecoins.
 
 Loon issues CADC, a Canadian dollar-backed stablecoin that brings CAD onchain.
+
+### Hosts
+
+Hosted by Superteam Canada, Paytrie (Canadian stablecoin on/off ramp), CADC \\ The Canadian Dollar Coin (Canada's leading stablecoin).
+
+### Event details
+
+The event takes place on September 24. Venue: Chatime, Chatime, 163 King St E, Toronto, ON M5A 1J4, Canada.
 
 <a id="event-4c245af66524cf0c"></a>
 
@@ -26878,6 +26910,8 @@ Join Lhava and Fenwick for an exclusive rooftop happy hour as we celebrate the e
 ### Event details
 
 Hosted by Fenwick, Briton. Venue: Broken Shaker, Broken Shaker, 23 Lexington Ave 18th Floor, New York, NY 10010, USA. Tickets: Free. Registration requires organizer approval.
+
+The event takes place on September 24.
 
 <a id="event-565bdd4d7bbf3c6f"></a>
 
@@ -27275,6 +27309,14 @@ Top-quality peer group shipping alongside you
 
 If you have multiple team members, each of them will have to apply individually as well.
 
+### Hosts
+
+Hosted by Superteam Nepal, Ronak Raj Rauniyar.
+
+### Event details
+
+The event takes place on September 25. Venue: Tigerland Safari - Lemon Tree Resort, Tigerland Safari - Lemon Tree Resort, Chitwan National Park, Narayani, Bagmati Province 44200, Nepal.
+
 <a id="event-a899035140f59b70"></a>
 
 ## 💻 Coworking Fridays Istanbul — SuperteamTR
@@ -27642,6 +27684,10 @@ In addition to enjoying tasty drinks, you can register to vote for the November 
 ### Event details
 
 Hosted by The Boston DAO Events. Venue: Cisco Brewers Seaport, Cisco Brewers Seaport, 85 Northern Ave, Boston, MA 02210, USA. Tickets: Free. Registration requires organizer approval.
+
+### Tickets
+
+Ticket options include Converge Ticket Holder (free), Fintech Week Ticket Holder (free), Standard (free).
 
 <a id="event-3274b669033bad2c"></a>
 
@@ -28377,6 +28423,14 @@ Find the problem. Shape the product. Start building.
 
 можливість вигравати додатково гроші за участь в BuildStation івентахВхід можливий виключно після реєстрації в день, коли плануєш прийти.
 
+### Hosts
+
+Hosted by Superteam Ukraine (Solana Hub in Ukraine - Learn. Earn. Build.).
+
+### Event details
+
+The event takes place on September 26. Venue: Kyiv, Kyiv city, Ukraine.
+
 <a id="event-ae5917764342f0f4"></a>
 
 ## IRL + Livestream Shipyard #3: RWA, Payments & Corridors
@@ -28520,6 +28574,14 @@ We will go through a brief demo day and show you what B@B has cooked up over the
 For questions, contact divij@berkeley.edu or masonarditi@berkeley.edu.
 
 We look forward to celebrating with you :)
+
+### Hosts
+
+Hosted by Mason Arditi (uc berkeley), Divij Motwani (EECS @ UC Berkeley), Isaac, Anushka Ghorpade.
+
+### Event details
+
+The event takes place on September 28. Venue: 2470 Telegraph Ave, 2470 Telegraph Ave, Berkeley, CA 94704, USA.
 
 <a id="event-dc0a79bd8379d13d"></a>
 
@@ -28797,6 +28859,10 @@ Hosted by Rizzo, Timothy Kotzman (host of The Bitcoin Treasuries Podcast) and Ed
 
 Можна приходити зі своїм проєктом - разом подумаємо, де саме знайти для нього перших юзерів. Прохання детальніше описати ваш продукт при реєстрації, аби ми могли предметно обговорити щодо юзерів.
 
+### Hosts
+
+Hosted by Superteam Ukraine (Solana Hub in Ukraine - Learn. Earn. Build.).
+
 <a id="event-b7116d18ec988454"></a>
 
 ## Build for Breakpoint: Legal Prep for Founders with Gunnercooke
@@ -28838,6 +28904,14 @@ Partner at gunnercooke, ranked Band 1 for Blockchain and Cryptocurrencies in Cha
 This session is centred around short demos, project spotlights, and good conversation with builders working across payments, stablecoins, programmable money, and onchain finance. Expect a practical evening with real products, early ideas, and the chance to meet other people building in and around the Arc ecosystem.
 
 Good if you want to see tangible progress, get feedback on what you're making, or just spend time around people doing the work rather than talking about maybe one day doing the work.
+
+### Hosts
+
+Hosted by Encode Club, Circle.
+
+### Event details
+
+The event takes place on September 28. Venue: Encode Hub, Encode Hub, 41 Pitfield St, London N1 6DA, UK.
 
 <a id="event-d282933c1fd5a8e3"></a>
 
@@ -28897,6 +28971,14 @@ Want a head start?Check out the docs at helius.dev/docs/privacy or play around w
 
 Stay tuned!
 
+### Hosts
+
+Hosted by Superteam Ukraine.
+
+### Event details
+
+The event takes place on September 29.
+
 <a id="event-73879504c95178c1"></a>
 
 ## Dev Day Cafe
@@ -28929,6 +29011,8 @@ Space is limited. Please register to attend.
 
 Hosted by Solana Foundation. Venue: Fort Mason, San Francisco, California, United States. Tickets: Free. Registration requires organizer approval.
 
+The event takes place on September 29.
+
 <a id="event-03dcb86274ecac29"></a>
 
 ## OpenFX, Atomico, Yellowcard \| Happy Hour & Dinner
@@ -28952,6 +29036,10 @@ A short walk from Oxford Circus, in the middle of Soho.
 Invite-only. Please RSVP early. Exact room and address shared once your request is approved.
 
 Co-hosted by OpenFX, Atomico and Yellow Card.
+
+### Hosts
+
+Hosted by OpenFX (Liquidity for Institutional FX).
 
 <a id="event-2305a725d8d8eda6"></a>
 
@@ -29022,6 +29110,14 @@ Join Lukka and the Wall Street Blockchain Alliance for an evening of cocktails, 
 Connect with leaders across digital assets, financial services, blockchain, and institutional finance in an intimate setting designed for meaningful conversation and new connections.
 
 We look forward to bringing together members of our community for a great evening in New York.
+
+### Hosts
+
+Hosted by Paige Connor (Head of Marketing).
+
+### Event details
+
+The event takes place on September 29. Venue: Midtown Manhattan, New York, New York, United States.
 
 <a id="event-1db3e28d20c81008"></a>
 
@@ -29179,6 +29275,14 @@ Data: 30 de setembroHorário: 18h30
 
 Realização: Superteam Brasil e SolanaParceria: Carol Labs e FIAP
 
+### Hosts
+
+Hosted by Carol Santos, Superteam Brasil, Maria Clara Bastos.
+
+### Event details
+
+The event takes place on September 30. Venue: FIAP - Rio de Janeiro, FIAP - Rio de Janeiro, Centro Empresarial Botafogo - Praia de Botafogo, 300 - Conjuntos 33 e 34 - Botafogo, Rio de Janeiro - RJ, 22250-040, Brazil.
+
 <a id="event-3da8155cd76b2557"></a>
 
 ## An Introduction to Blockchains with Tangem
@@ -29218,6 +29322,14 @@ Together the Human Rights Foundation and PubKey dive into how Freedom Tech and B
 In this fireside chat, lead developer of the SeedSigner project Keith Mukai will share the best security practices in self-custodying with hardware devices, the security advantages a DIY hardware wallet with store bought parts can provide, and how human rights defenders who need secure self custody the most can benefit from employing these practices.
 
 As always, this is a FREE and PUBLIC event with an opportunity to participate in a live audience Q&A with the speakers.
+
+### Hosts
+
+Hosted by PubKey.
+
+### Event details
+
+The event takes place on September 30. Venue: Pubkey, Pubkey, 85 W Washington Pl, New York, NY 10011, USA.
 
 <a id="event-6903c40d04b2dba1"></a>
 
@@ -29474,6 +29586,8 @@ Hosted by Meow: meow.com/crypto and Freeport Markets: freeportmarkets.com
 ### Event details
 
 Hosted by Matt Schkolnick, Dustin Kamali, Lihong Wang. Venue: SoHo, New York, New York, United States. Tickets: Free. Registration requires organizer approval.
+
+The event takes place on October 1.
 
 <a id="event-c36f252386acd9c6"></a>
 
@@ -30725,6 +30839,8 @@ Whether you're building new connections or reconnecting with industry friends, w
 
 Hosted by Adrian Rymill, Daniel Holmes, Elyse Quek, Jake Khorozian, Andy Ross, ico beast. Venue: Downtown Core, Singapore, Singapore. Tickets: Free. Registration requires organizer approval.
 
+The event takes place on October 5.
+
 <a id="event-0be1d3ba41120c05"></a>
 
 ## Run the Bay : 5K + Breakfast 🇸🇬
@@ -31199,6 +31315,8 @@ This event is open to the general public and is not exclusive to Introduction.co
 
 Hosted by Introduction.com, Jose Anaya | ZKsync, Sam Leichman. Venue: Rickhouse, Rickhouse, 246 Kearny St, San Francisco, CA 94108, USA. Tickets: Free.
 
+The event takes place on October 9.
+
 <a id="event-7182769363c398d4"></a>
 
 ## Bitkub INZIGHTS 2026 ตลาดฟื้น รับฤดูใหม่
@@ -31578,6 +31696,8 @@ By invitation only - seats are limited. 🃏
 ### Event details
 
 Hosted by Matt Schkolnick, Matt O'Connor, Dustin Kamali. Venue: SoHo, New York, New York, United States. Tickets: Free. Registration requires organizer approval.
+
+The event takes place on October 13.
 
 <a id="event-e35f4682749aa5ea"></a>
 
@@ -32079,6 +32199,10 @@ Come before the conference opens. Get a chai, stand around, talk to whoever else
 
 Free. Come once or come all four mornings.Part of Sidequest - nine small things across Mumbai during Devcon week, 2-6 November. No badge, no app. sidequest.interspace.zone
 
+### Hosts
+
+Hosted by Interspace Studio (We design how people meet. Interspace builds the parts of an event that happen outside the conference hall. Sidequest - ).
+
 <a id="event-0e6510c16caf4efb"></a>
 
 ## The Yield Layer of Social Impact
@@ -32255,6 +32379,14 @@ Reserve your spot and show up ready to connect.
 
 This event traces the evolution of money and its profound influence on human civilization. We'll examine where today's monetary systems have fallen short and explore how they might be redesigned for a more resilient and equitable future. The conversation will span fiat currencies, central banking, monetary policy, stablecoins, incentive design, security, privacy, artificial intelligence, and the forces shaping the future of money.Followed by dinner, drinks, and an after party with live DJs and performers!
 
+### Hosts
+
+Hosted by namic (Summoner of Money League).
+
+### Event details
+
+The event takes place on November 6. Venue: IFBE, IFBE, 10-12, Calicut Rd, Ballard Estate, Fort, Mumbai, Maharashtra 400001, India.
+
 <a id="event-5504fab10789d9ab"></a>
 
 ## Blockstories Horizon 2026: London Summit 🇬🇧
@@ -32333,6 +32465,14 @@ Blockworks' Digital Asset Summit (DAS) returns to London this November 10-11, 20
 
 If you have any questions, please reach out to registration@blockworks.co
 
+### Hosts
+
+Hosted by Carolyn Wyatt.
+
+### Tickets
+
+Ticket options include General Admission at USD899, General Admission PLUS at USD1099, VIP at USD1999, Allocator (free), Blockworks Research at USD399.
+
 <a id="event-86e691fb2d4b6b7e"></a>
 
 ## Rayls Community Meetup: London
@@ -32350,6 +32490,14 @@ More details to be shared soon.About Rayls
 Rayls is a blockchain ecosystem that bridges traditional finance with decentralized finance by providing a compliant, private, and scalable infrastructure for financial institutions. Its hybrid architecture combines permissioned private networks with an EVM-compatible public chain to facilitate use cases like asset tokenization, cross-border payments, and central bank digital currency settlement.
 
 Register to secure your spot and we'll share the venue with you straight away.
+
+### Hosts
+
+Hosted by Rayls. (Bringing Finance Onchain.).
+
+### Event details
+
+The event takes place on November 18. Venue: London, England, United Kingdom.
 
 <a id="event-6d2e782bf92b5838"></a>
 

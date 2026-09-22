@@ -154,7 +154,7 @@
     "id": "luma-batch-d6YGDfLEVcOHLNA",
     "slug": "26y625qg",
     "name": "Lhava and Fenwick Present: End of Summer in the City Happy Hour",
-    "description": "Join Lhava and Fenwick for an exclusive rooftop happy hour as we celebrate the end of summer in the city with friends and colleagues from across the blockchain and crypto world. Expect great views, craft cocktails, and an easygoing evening made for catching up, making introductions, and enjoying the energy of New York in the summer.\n\n## Event details\n\nHosted by Fenwick, Briton. Venue: Broken Shaker, Broken Shaker, 23 Lexington Ave 18th Floor, New York, NY 10010, USA. Tickets: Free. Registration requires organizer approval.",
+    "description": "Join Lhava and Fenwick for an exclusive rooftop happy hour as we celebrate the end of summer in the city with friends and colleagues from across the blockchain and crypto world. Expect great views, craft cocktails, and an easygoing evening made for catching up, making introductions, and enjoying the energy of New York in the summer.\n\n## Event details\n\nHosted by Fenwick, Briton. Venue: Broken Shaker, Broken Shaker, 23 Lexington Ave 18th Floor, New York, NY 10010, USA. Tickets: Free. Registration requires organizer approval.\n\n\n## Event details\n\nThe event takes place on September 24.",
     "startDate": "2026-09-24T22:00:00.000Z",
     "endDate": "2026-09-25T01:00:00.000Z",
     "city": "New York",
@@ -198,7 +198,7 @@
       "fetchedAt": "2026-09-22T10:40:02.039Z",
       "method": "luma-page",
       "apifyRunId": "xaRAFVxiGJ65xirOe",
-      "enrichedAt": "2026-09-22T10:54:38.000Z",
+      "enrichedAt": "2026-09-22T11:00:44.000Z",
       "enrichMethod": "organizer-facts"
     }
   },
@@ -526,7 +526,7 @@
     "id": "luma-batch-AbVnI08nHVEPSFb",
     "slug": "xfzvs7vy",
     "name": "Cocktail Reception at the Harvard Club",
-    "description": "Join Lukka and the Wall Street Blockchain Alliance for an evening of cocktails, conversation, and networking at the Harvard Club of New York City.\n\nConnect with leaders across digital assets, financial services, blockchain, and institutional finance in an intimate setting designed for meaningful conversation and new connections.\n\nWe look forward to bringing together members of our community for a great evening in New York.",
+    "description": "Join Lukka and the Wall Street Blockchain Alliance for an evening of cocktails, conversation, and networking at the Harvard Club of New York City.\n\nConnect with leaders across digital assets, financial services, blockchain, and institutional finance in an intimate setting designed for meaningful conversation and new connections.\n\nWe look forward to bringing together members of our community for a great evening in New York.\n\n\n## Hosts\n\nHosted by Paige Connor (Head of Marketing).\n\n## Event details\n\nThe event takes place on September 29. Venue: Midtown Manhattan, New York, New York, United States.",
     "startDate": "2026-09-29T21:30:00.000Z",
     "endDate": "2026-09-29T23:30:00.000Z",
     "city": "New York",
@@ -568,14 +568,15 @@
       "eventId": "evt-AbVnI08nHVEPSFb",
       "fetchedAt": "2026-09-22T10:40:02.039Z",
       "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
+      "apifyRunId": "xaRAFVxiGJ65xirOe",
+      "enrichedAt": "2026-09-22T11:00:44.000Z"
     }
   },
   {
     "id": "luma-batch-gzayLEghrE7BFek",
     "slug": "pubkey-h7b7",
     "name": "Bitcoin Self Custody in the Age of AI w/ SeedSigner & HRF | PubKey NYC",
-    "description": "Together the Human Rights Foundation and PubKey dive into how Freedom Tech and Bitcoin advance humanitarian goals.\n\nIn this fireside chat, lead developer of the SeedSigner project Keith Mukai will share the best security practices in self-custodying with hardware devices, the security advantages a DIY hardware wallet with store bought parts can provide, and how human rights defenders who need secure self custody the most can benefit from employing these practices.\n\nAs always, this is a FREE and PUBLIC event with an opportunity to participate in a live audience Q&A with the speakers.\n\n🧡🍻🙏",
+    "description": "Together the Human Rights Foundation and PubKey dive into how Freedom Tech and Bitcoin advance humanitarian goals.\n\nIn this fireside chat, lead developer of the SeedSigner project Keith Mukai will share the best security practices in self-custodying with hardware devices, the security advantages a DIY hardware wallet with store bought parts can provide, and how human rights defenders who need secure self custody the most can benefit from employing these practices.\n\nAs always, this is a FREE and PUBLIC event with an opportunity to participate in a live audience Q&A with the speakers.\n\n🧡🍻🙏\n\n\n## Hosts\n\nHosted by PubKey.\n\n## Event details\n\nThe event takes place on September 30. Venue: Pubkey, Pubkey, 85 W Washington Pl, New York, NY 10011, USA.",
     "startDate": "2026-09-30T22:00:00.000Z",
     "endDate": "2026-10-01T00:00:00.000Z",
     "city": "New York",
@@ -618,7 +619,8 @@
       "eventId": "evt-gzayLEghrE7BFek",
       "fetchedAt": "2026-09-22T10:40:02.039Z",
       "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
+      "apifyRunId": "xaRAFVxiGJ65xirOe",
+      "enrichedAt": "2026-09-22T11:00:44.000Z"
     }
   },
   {
@@ -721,7 +723,7 @@
     "id": "luma-batch-1Xx7yJSkhlrHBm6",
     "slug": "szhcophp",
     "name": "Meow + Freeport Markets: Private Founder Poker Night",
-    "description": "We just moved into our beautiful new SoHo office so we're breaking it in with poker and the top builders across the city.\n\nPlay if you want, or just pull up and hang. Either way it'll be a great vibe. By invitation only.\n\nHosted by Meow: meow.com/crypto and Freeport Markets: freeportmarkets.com\n\n## Event details\n\nHosted by Matt Schkolnick, Dustin Kamali, Lihong Wang. Venue: SoHo, New York, New York, United States. Tickets: Free. Registration requires organizer approval.",
+    "description": "We just moved into our beautiful new SoHo office so we're breaking it in with poker and the top builders across the city.\n\nPlay if you want, or just pull up and hang. Either way it'll be a great vibe. By invitation only.\n\nHosted by Meow: meow.com/crypto and Freeport Markets: freeportmarkets.com\n\n## Event details\n\nHosted by Matt Schkolnick, Dustin Kamali, Lihong Wang. Venue: SoHo, New York, New York, United States. Tickets: Free. Registration requires organizer approval.\n\n\n## Event details\n\nThe event takes place on October 1.",
     "startDate": "2026-10-01T23:00:00.000Z",
     "endDate": "2026-10-02T03:00:00.000Z",
     "city": "New York",
@@ -765,7 +767,7 @@
       "fetchedAt": "2026-09-22T10:40:02.039Z",
       "method": "luma-page",
       "apifyRunId": "xaRAFVxiGJ65xirOe",
-      "enrichedAt": "2026-09-22T10:54:38.000Z",
+      "enrichedAt": "2026-09-22T11:00:44.000Z",
       "enrichMethod": "organizer-facts"
     }
   },
@@ -982,7 +984,7 @@
     "id": "luma-batch-xFFX1w014DYQNxw",
     "slug": "grdkh8vt",
     "name": "Meow + Legion: Private Founder Poker Night",
-    "description": "Cards, drinks, pizza, and the best crypto founders in New York at one table. Dealers are pros; the stakes are bragging rights.\n\nHosted by Meow × Legion.\n\nBy invitation only — seats are limited. 🃏\n\n## Event details\n\nHosted by Matt Schkolnick, Matt O'Connor, Dustin Kamali. Venue: SoHo, New York, New York, United States. Tickets: Free. Registration requires organizer approval.",
+    "description": "Cards, drinks, pizza, and the best crypto founders in New York at one table. Dealers are pros; the stakes are bragging rights.\n\nHosted by Meow × Legion.\n\nBy invitation only — seats are limited. 🃏\n\n## Event details\n\nHosted by Matt Schkolnick, Matt O'Connor, Dustin Kamali. Venue: SoHo, New York, New York, United States. Tickets: Free. Registration requires organizer approval.\n\n\n## Event details\n\nThe event takes place on October 13.",
     "startDate": "2026-10-13T23:00:00.000Z",
     "endDate": "2026-10-14T02:30:00.000Z",
     "city": "New York",
@@ -1026,7 +1028,7 @@
       "fetchedAt": "2026-09-22T10:40:02.039Z",
       "method": "luma-page",
       "apifyRunId": "xaRAFVxiGJ65xirOe",
-      "enrichedAt": "2026-09-22T10:54:38.000Z",
+      "enrichedAt": "2026-09-22T11:00:44.000Z",
       "enrichMethod": "organizer-facts"
     }
   },
@@ -1439,7 +1441,7 @@
     "id": "luma-batch-lnhEJWt2Bdk0cmW",
     "slug": "zsgdwcee",
     "name": "Haruko and Kalshi Present: More than a million",
-    "description": "Kick off TOKEN2049 with Haruko and Kalshi!\n\nJoin us for an evening of drinks, canapes and meaningful conversations with founders, innovators and industry leaders from across the digital asset ecosystem.\n\nWhether you're building new connections or reconnecting with industry friends, we would love to welcome you as we kick off an exciting week at TOKEN2049.\n\n## Event details\n\nHosted by Adrian Rymill, Daniel Holmes, Elyse Quek, Jake Khorozian, Andy Ross, ico beast. Venue: Downtown Core, Singapore, Singapore. Tickets: Free. Registration requires organizer approval.",
+    "description": "Kick off TOKEN2049 with Haruko and Kalshi!\n\nJoin us for an evening of drinks, canapes and meaningful conversations with founders, innovators and industry leaders from across the digital asset ecosystem.\n\nWhether you're building new connections or reconnecting with industry friends, we would love to welcome you as we kick off an exciting week at TOKEN2049.\n\n## Event details\n\nHosted by Adrian Rymill, Daniel Holmes, Elyse Quek, Jake Khorozian, Andy Ross, ico beast. Venue: Downtown Core, Singapore, Singapore. Tickets: Free. Registration requires organizer approval.\n\n\n## Event details\n\nThe event takes place on October 5.",
     "startDate": "2026-10-05T09:00:00.000Z",
     "endDate": "2026-10-05T13:30:00.000Z",
     "city": "Singapore",
@@ -1486,7 +1488,7 @@
       "fetchedAt": "2026-09-22T10:40:02.039Z",
       "method": "luma-page",
       "apifyRunId": "xaRAFVxiGJ65xirOe",
-      "enrichedAt": "2026-09-22T10:54:38.000Z",
+      "enrichedAt": "2026-09-22T11:00:44.000Z",
       "enrichMethod": "organizer-facts"
     }
   },
@@ -1833,7 +1835,7 @@
     "id": "luma-batch-UlXTWD7ZvslzNAX",
     "slug": "k24aok3i",
     "name": "B@B 10 Year Anniversary (Alumni Reunion)",
-    "description": "We are celebrating Blockchain at Berkeley's 10 year anniversary in style. Join us at the Diprinzio Office Sunday, September 27th.\n\nWe will go through a brief demo day and show you what B@B has cooked up over the recent years. Then we'll transition into a mixer with good eats and refreshments (and some special gifts).\n\nFor questions, contact divij@berkeley.edu or masonarditi@berkeley.edu.\n\nWe look forward to celebrating with you :)",
+    "description": "We are celebrating Blockchain at Berkeley's 10 year anniversary in style. Join us at the Diprinzio Office Sunday, September 27th.\n\nWe will go through a brief demo day and show you what B@B has cooked up over the recent years. Then we'll transition into a mixer with good eats and refreshments (and some special gifts).\n\nFor questions, contact divij@berkeley.edu or masonarditi@berkeley.edu.\n\nWe look forward to celebrating with you :)\n\n\n## Hosts\n\nHosted by Mason Arditi (uc berkeley), Divij Motwani (EECS @ UC Berkeley), Isaac ‍, Anushka Ghorpade.\n\n## Event details\n\nThe event takes place on September 28. Venue: 2470 Telegraph Ave, 2470 Telegraph Ave, Berkeley, CA 94704, USA.",
     "startDate": "2026-09-28T01:00:00.000Z",
     "endDate": "2026-09-28T05:00:00.000Z",
     "city": "Berkeley",
@@ -1878,14 +1880,15 @@
       "eventId": "evt-UlXTWD7ZvslzNAX",
       "fetchedAt": "2026-09-22T10:40:02.039Z",
       "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
+      "apifyRunId": "xaRAFVxiGJ65xirOe",
+      "enrichedAt": "2026-09-22T11:00:44.000Z"
     }
   },
   {
     "id": "luma-batch-mOufXHP89aFrhMJ",
     "slug": "dev-day-cafe",
     "name": "Dev Day Cafe",
-    "description": "Join Solana, Circle, MoonPay, and others at Radhaus in Fort Mason on September 29.\n\nWe're hosting an all-day Dev Cafe with coffee, coworking, swag, demos, and a happy hour. There will definitely be some other surprises too.\n\nSchedule\n\n10am: Doors open\n\n10am-11am: Light breakfast available\n\n12pm-2pm: Lunch available\n\n4pm-6pm: Happy hour\n\nSpace is limited. Please register to attend.\n\n## Event details\n\nHosted by Solana Foundation. Venue: Fort Mason, San Francisco, California, United States. Tickets: Free. Registration requires organizer approval.",
+    "description": "Join Solana, Circle, MoonPay, and others at Radhaus in Fort Mason on September 29.\n\nWe're hosting an all-day Dev Cafe with coffee, coworking, swag, demos, and a happy hour. There will definitely be some other surprises too.\n\nSchedule\n\n10am: Doors open\n\n10am-11am: Light breakfast available\n\n12pm-2pm: Lunch available\n\n4pm-6pm: Happy hour\n\nSpace is limited. Please register to attend.\n\n## Event details\n\nHosted by Solana Foundation. Venue: Fort Mason, San Francisco, California, United States. Tickets: Free. Registration requires organizer approval.\n\n\n## Event details\n\nThe event takes place on September 29.",
     "startDate": "2026-09-29T17:00:00.000Z",
     "endDate": "2026-09-30T01:00:00.000Z",
     "city": "San Francisco",
@@ -1927,7 +1930,7 @@
       "fetchedAt": "2026-09-22T10:40:02.039Z",
       "method": "luma-page",
       "apifyRunId": "xaRAFVxiGJ65xirOe",
-      "enrichedAt": "2026-09-22T10:54:38.000Z",
+      "enrichedAt": "2026-09-22T11:00:44.000Z",
       "enrichMethod": "organizer-facts"
     }
   },
@@ -2063,7 +2066,7 @@
     "id": "luma-batch-kLLhQAqUSbfKTRp",
     "slug": "sanfranciscooctober",
     "name": "Assets & Access @ Rickhouse Bar SF",
-    "description": "Join us for SF's #1 founder, operator, and investor meetup.\n\nHosted by Introduction.com, a private, invite only community of entrepreneurs, operators, and investors shaping the future with technology.\n\nThis event is open to the general public and is not exclusive to Introduction.com members. For access to member only events please apply at Introduction.com.\n\n## Event details\n\nHosted by Introduction.com, Jose Anaya | ZKsync, Sam Leichman. Venue: Rickhouse, Rickhouse, 246 Kearny St, San Francisco, CA 94108, USA. Tickets: Free.",
+    "description": "Join us for SF's #1 founder, operator, and investor meetup.\n\nHosted by Introduction.com, a private, invite only community of entrepreneurs, operators, and investors shaping the future with technology.\n\nThis event is open to the general public and is not exclusive to Introduction.com members. For access to member only events please apply at Introduction.com.\n\n## Event details\n\nHosted by Introduction.com, Jose Anaya | ZKsync, Sam Leichman. Venue: Rickhouse, Rickhouse, 246 Kearny St, San Francisco, CA 94108, USA. Tickets: Free.\n\n\n## Event details\n\nThe event takes place on October 9.",
     "startDate": "2026-10-09T00:30:00.000Z",
     "endDate": "2026-10-09T02:30:00.000Z",
     "city": "San Francisco",
@@ -2109,7 +2112,7 @@
       "fetchedAt": "2026-09-22T10:40:02.039Z",
       "method": "luma-page",
       "apifyRunId": "xaRAFVxiGJ65xirOe",
-      "enrichedAt": "2026-09-22T10:54:38.000Z",
+      "enrichedAt": "2026-09-22T11:00:44.000Z",
       "enrichMethod": "organizer-facts"
     }
   },
@@ -2265,7 +2268,7 @@
     "id": "luma-batch-4Syp9gOOW8ZSU6l",
     "slug": "gnk0ygk0",
     "name": "Arc Demos & Meetup",
-    "description": "This session is centred around short demos, project spotlights, and good conversation with builders working across payments, stablecoins, programmable money, and onchain finance. Expect a practical evening with real products, early ideas, and the chance to meet other people building in and around the Arc ecosystem.\n\nGood if you want to see tangible progress, get feedback on what you’re making, or just spend time around people doing the work rather than talking about maybe one day doing the work.",
+    "description": "This session is centred around short demos, project spotlights, and good conversation with builders working across payments, stablecoins, programmable money, and onchain finance. Expect a practical evening with real products, early ideas, and the chance to meet other people building in and around the Arc ecosystem.\n\nGood if you want to see tangible progress, get feedback on what you’re making, or just spend time around people doing the work rather than talking about maybe one day doing the work.\n\n\n## Hosts\n\nHosted by Encode Club, Circle.\n\n## Event details\n\nThe event takes place on September 28. Venue: Encode Hub, Encode Hub, 41 Pitfield St, London N1 6DA, UK.",
     "startDate": "2026-09-28T17:30:00.000Z",
     "endDate": "2026-09-28T20:00:00.000Z",
     "city": "London",
@@ -2308,14 +2311,15 @@
       "eventId": "evt-4Syp9gOOW8ZSU6l",
       "fetchedAt": "2026-09-22T10:40:02.039Z",
       "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
+      "apifyRunId": "xaRAFVxiGJ65xirOe",
+      "enrichedAt": "2026-09-22T11:00:44.000Z"
     }
   },
   {
     "id": "luma-batch-BoM95fZa8eC0uYw",
     "slug": "5vobblhk",
     "name": "OpenFX, Atomico, Yellowcard | Happy Hour & Dinner",
-    "description": "OpenFX, Atomico and Yellow Card invite you to an evening for the people who actually move the money.\n\nTuesday, 29 September · 6:30–10:00 PMBroadwick Soho, Soho, London\n\nCocktails, canapés and conversation with the founders and operators building cross-border payments and stablecoin infrastructure, the investors backing them, and the treasury and banking teams on the other side of the wire.\n\nA short walk from Oxford Circus, in the middle of Soho.\n\nInvite-only. Please RSVP early. Exact room and address shared once your request is approved.\n\nCo-hosted by OpenFX, Atomico and Yellow Card.",
+    "description": "OpenFX, Atomico and Yellow Card invite you to an evening for the people who actually move the money.\n\nTuesday, 29 September · 6:30–10:00 PMBroadwick Soho, Soho, London\n\nCocktails, canapés and conversation with the founders and operators building cross-border payments and stablecoin infrastructure, the investors backing them, and the treasury and banking teams on the other side of the wire.\n\nA short walk from Oxford Circus, in the middle of Soho.\n\nInvite-only. Please RSVP early. Exact room and address shared once your request is approved.\n\nCo-hosted by OpenFX, Atomico and Yellow Card.\n\n\n## Hosts\n\nHosted by OpenFX (Liquidity for Institutional FX).",
     "startDate": "2026-09-29T17:30:00.000Z",
     "endDate": "2026-09-29T21:00:00.000Z",
     "city": "London",
@@ -2356,7 +2360,8 @@
       "eventId": "evt-BoM95fZa8eC0uYw",
       "fetchedAt": "2026-09-22T10:40:02.039Z",
       "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
+      "apifyRunId": "xaRAFVxiGJ65xirOe",
+      "enrichedAt": "2026-09-22T11:00:44.000Z"
     }
   },
   {
@@ -2720,7 +2725,7 @@
     "id": "luma-batch-aTKfB4uWCos54nU",
     "slug": "daslondon2026",
     "name": "Digital Asset Summit London 2026",
-    "description": "Blockworks' Digital Asset Summit (DAS) returns to London this November 10–11, 2026. DAS is crypto's premier institutional event.Stablecoins, tokenization, onchain infrastructure, and AI are rapidly reshaping the global financial system. DAS London will bring together the leading institutional leaders, allocators, builders, and policy makers from across the UK, Europe, North America, MENA, and Asia to discuss how the next chapter of global finance will be written.\n\nIf you have any questions, please reach out to registration@blockworks.co",
+    "description": "Blockworks' Digital Asset Summit (DAS) returns to London this November 10–11, 2026. DAS is crypto's premier institutional event.Stablecoins, tokenization, onchain infrastructure, and AI are rapidly reshaping the global financial system. DAS London will bring together the leading institutional leaders, allocators, builders, and policy makers from across the UK, Europe, North America, MENA, and Asia to discuss how the next chapter of global finance will be written.\n\nIf you have any questions, please reach out to registration@blockworks.co\n\n\n## Hosts\n\nHosted by Carolyn Wyatt.\n\n## Tickets\n\nTicket options include General Admission at USD899, General Admission PLUS at USD1099, VIP at USD1999, Allocator (free), Blockworks Research at USD399.",
     "startDate": "2026-11-10T07:00:00.000Z",
     "endDate": "2026-11-11T18:00:00.000Z",
     "city": "London",
@@ -2779,14 +2784,15 @@
       "eventId": "evt-aTKfB4uWCos54nU",
       "fetchedAt": "2026-09-22T10:40:02.039Z",
       "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
+      "apifyRunId": "xaRAFVxiGJ65xirOe",
+      "enrichedAt": "2026-09-22T11:00:44.000Z"
     }
   },
   {
     "id": "luma-batch-yCu03jZbXJloNc6",
     "slug": "yp556lph",
     "name": "Rayls Community Meetup: London",
-    "description": "More details to be shared soon.​About Rayls\n\nRayls is a blockchain ecosystem that bridges traditional finance with decentralized finance by providing a compliant, private, and scalable infrastructure for financial institutions. Its hybrid architecture combines permissioned private networks with an EVM-compatible public chain to facilitate use cases like asset tokenization, cross-border payments, and central bank digital currency settlement.\n\nRegister to secure your spot and we'll share the venue with you straight away.",
+    "description": "More details to be shared soon.​About Rayls\n\nRayls is a blockchain ecosystem that bridges traditional finance with decentralized finance by providing a compliant, private, and scalable infrastructure for financial institutions. Its hybrid architecture combines permissioned private networks with an EVM-compatible public chain to facilitate use cases like asset tokenization, cross-border payments, and central bank digital currency settlement.\n\nRegister to secure your spot and we'll share the venue with you straight away.\n\n\n## Hosts\n\nHosted by Rayls . (Bringing Finance Onchain.).\n\n## Event details\n\nThe event takes place on November 18. Venue: London, England, United Kingdom.",
     "startDate": "2026-11-18T17:00:00.000Z",
     "endDate": "2026-11-18T19:30:00.000Z",
     "city": "London",
@@ -2827,7 +2833,8 @@
       "eventId": "evt-yCu03jZbXJloNc6",
       "fetchedAt": "2026-09-22T10:40:02.039Z",
       "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
+      "apifyRunId": "xaRAFVxiGJ65xirOe",
+      "enrichedAt": "2026-09-22T11:00:44.000Z"
     }
   },
   {
@@ -4278,7 +4285,7 @@
     "id": "luma-batch-HWyWCSbQQ3n6tLU",
     "slug": "rsm1xrxt",
     "name": "Sidequest: Chai at Dawn",
-    "description": "A chai cart, somewhere in the city, every morning of Devcon week.\n\nCome before the conference opens. Get a chai, stand around, talk to whoever else is up. No programme, no badge scan, no reason to be there except that it's early and the city is awake.\n\nFree. Come once or come all four mornings.Part of Sidequest — nine small things across Mumbai during Devcon week, 2–6 November. No badge, no app. sidequest.interspace.zone",
+    "description": "A chai cart, somewhere in the city, every morning of Devcon week.\n\nCome before the conference opens. Get a chai, stand around, talk to whoever else is up. No programme, no badge scan, no reason to be there except that it's early and the city is awake.\n\nFree. Come once or come all four mornings.Part of Sidequest — nine small things across Mumbai during Devcon week, 2–6 November. No badge, no app. sidequest.interspace.zone\n\n\n## Hosts\n\nHosted by Interspace Studio (We design how people meet. Interspace builds the parts of an event that happen outside the conference hall. Sidequest — ).",
     "startDate": "2026-11-03T02:30:00.000Z",
     "endDate": "2026-11-06T04:00:00.000Z",
     "city": "Mumbai",
@@ -4320,7 +4327,8 @@
       "eventId": "evt-HWyWCSbQQ3n6tLU",
       "fetchedAt": "2026-09-22T10:40:02.039Z",
       "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
+      "apifyRunId": "xaRAFVxiGJ65xirOe",
+      "enrichedAt": "2026-09-22T11:00:44.000Z"
     }
   },
   {
@@ -4474,7 +4482,7 @@
     "id": "luma-batch-cFXe8eT3nFr409n",
     "slug": "np3wx7v5",
     "name": "MONEY MAKER",
-    "description": "This event traces the evolution of money and its profound influence on human civilization. We’ll examine where today’s monetary systems have fallen short and explore how they might be redesigned for a more resilient and equitable future. The conversation will span fiat currencies, central banking, monetary policy, stablecoins, incentive design, security, privacy, artificial intelligence, and the forces shaping the future of money.Followed by dinner, drinks, and an after party with live DJs and performers!",
+    "description": "This event traces the evolution of money and its profound influence on human civilization. We’ll examine where today’s monetary systems have fallen short and explore how they might be redesigned for a more resilient and equitable future. The conversation will span fiat currencies, central banking, monetary policy, stablecoins, incentive design, security, privacy, artificial intelligence, and the forces shaping the future of money.Followed by dinner, drinks, and an after party with live DJs and performers!\n\n\n## Hosts\n\nHosted by namic (Summoner of Money League).\n\n## Event details\n\nThe event takes place on November 6. Venue: IFBE, IFBE, 10-12, Calicut Rd, Ballard Estate, Fort, Mumbai, Maharashtra 400001, India.",
     "startDate": "2026-11-06T07:30:00.000Z",
     "endDate": "2026-11-06T19:30:00.000Z",
     "city": "Mumbai",
@@ -4517,7 +4525,8 @@
       "eventId": "evt-cFXe8eT3nFr409n",
       "fetchedAt": "2026-09-22T10:40:02.039Z",
       "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
+      "apifyRunId": "xaRAFVxiGJ65xirOe",
+      "enrichedAt": "2026-09-22T11:00:44.000Z"
     }
   },
   {
@@ -5027,7 +5036,7 @@
     "id": "luma-batch-klpNRTLCwsWl8qV",
     "slug": "converge26party",
     "name": "Converge Afterparty by Stand with Crypto & Boston DAO",
-    "description": "Converge & Fintech Week ticket holders will receive priority entry. Get ready to vote pro-crypto this midterm cycle with Stand with Crypto and Boston DAO as we wrap up the Converge conference at Cisco Brewers Seaport!\n\nIn addition to enjoying tasty drinks, you can register to vote for the November Midterms at our Voter Registration Station!\n\n## Event details\n\nHosted by The Boston DAO Events. Venue: Cisco Brewers Seaport, Cisco Brewers Seaport, 85 Northern Ave, Boston, MA 02210, USA. Tickets: Free. Registration requires organizer approval.",
+    "description": "Converge & Fintech Week ticket holders will receive priority entry. Get ready to vote pro-crypto this midterm cycle with Stand with Crypto and Boston DAO as we wrap up the Converge conference at Cisco Brewers Seaport!\n\nIn addition to enjoying tasty drinks, you can register to vote for the November Midterms at our Voter Registration Station!\n\n## Event details\n\nHosted by The Boston DAO Events. Venue: Cisco Brewers Seaport, Cisco Brewers Seaport, 85 Northern Ave, Boston, MA 02210, USA. Tickets: Free. Registration requires organizer approval.\n\n\n## Tickets\n\nTicket options include Converge Ticket Holder (free), Fintech Week Ticket Holder (free), Standard (free).",
     "startDate": "2026-09-25T22:00:00.000Z",
     "endDate": "2026-09-26T00:00:00.000Z",
     "city": "Boston",
@@ -5082,7 +5091,7 @@
       "fetchedAt": "2026-09-22T10:40:02.039Z",
       "method": "luma-page",
       "apifyRunId": "xaRAFVxiGJ65xirOe",
-      "enrichedAt": "2026-09-22T10:54:38.000Z",
+      "enrichedAt": "2026-09-22T11:00:44.000Z",
       "enrichMethod": "organizer-facts"
     }
   },
@@ -5273,7 +5282,7 @@
     "id": "luma-batch-3oRvmugLrx5vv15",
     "slug": "8f2c8pxb",
     "name": "Stablecoins & Boba | Day 1 - Builder Day at Solana Summit Canada",
-    "description": "Need a midday pick-me-up on Day 1 of Solana Summit Canada? Step across the street from Solana Summit Canada to Chatime for free bubble tea and a chance to chat stablecoins with fellow attendees.\n\nOpen to Solana Summit Canada badge holders only. Please bring your badge.\n\nAbout the hosts\n\nPaytrie builds stablecoin infrastructure in Canada, helping people and businesses buy, sell, and use stablecoins.\n\nLoon issues CADC, a Canadian dollar-backed stablecoin that brings CAD onchain.",
+    "description": "Need a midday pick-me-up on Day 1 of Solana Summit Canada? Step across the street from Solana Summit Canada to Chatime for free bubble tea and a chance to chat stablecoins with fellow attendees.\n\nOpen to Solana Summit Canada badge holders only. Please bring your badge.\n\nAbout the hosts\n\nPaytrie builds stablecoin infrastructure in Canada, helping people and businesses buy, sell, and use stablecoins.\n\nLoon issues CADC, a Canadian dollar-backed stablecoin that brings CAD onchain.\n\n\n## Hosts\n\nHosted by Superteam Canada, CADC \\\\ The Canadian Dollar Coin (Canada's leading stablecoin), Paytrie (Canadian stablecoin on/off ramp).\n\n## Event details\n\nThe event takes place on September 23. Venue: Chatime, Chatime, 163 King St E, Toronto, ON M5A 1J4, Canada.",
     "startDate": "2026-09-23T17:30:00.000Z",
     "endDate": "2026-09-23T19:00:00.000Z",
     "city": "Toronto",
@@ -5318,7 +5327,8 @@
       "eventId": "evt-3oRvmugLrx5vv15",
       "fetchedAt": "2026-09-22T10:40:02.039Z",
       "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
+      "apifyRunId": "xaRAFVxiGJ65xirOe",
+      "enrichedAt": "2026-09-22T11:00:44.000Z"
     }
   },
   {
@@ -5537,7 +5547,7 @@
     "id": "luma-batch-CsJ0SmZsVkutiTs",
     "slug": "ek2v4pec",
     "name": "Stablecoins & Boba | Day 2 - Summit Day at Solana Summit Canada",
-    "description": "Need a midday pick-me-up on Day 2 of Solana Summit Canada? Step across the street from Solana Summit Canada to Chatime for free bubble tea and a chance to chat stablecoins with fellow attendees.\n\nOpen to Solana Summit Canada badge holders only. Please bring your badge.\n\nAbout the hosts\n\nPaytrie builds stablecoin infrastructure in Canada, helping people and businesses buy, sell, and use stablecoins.\n\nLoon issues CADC, a Canadian dollar-backed stablecoin that brings CAD onchain.",
+    "description": "Need a midday pick-me-up on Day 2 of Solana Summit Canada? Step across the street from Solana Summit Canada to Chatime for free bubble tea and a chance to chat stablecoins with fellow attendees.\n\nOpen to Solana Summit Canada badge holders only. Please bring your badge.\n\nAbout the hosts\n\nPaytrie builds stablecoin infrastructure in Canada, helping people and businesses buy, sell, and use stablecoins.\n\nLoon issues CADC, a Canadian dollar-backed stablecoin that brings CAD onchain.\n\n\n## Hosts\n\nHosted by Superteam Canada, Paytrie (Canadian stablecoin on/off ramp), CADC \\\\ The Canadian Dollar Coin (Canada's leading stablecoin).\n\n## Event details\n\nThe event takes place on September 24. Venue: Chatime, Chatime, 163 King St E, Toronto, ON M5A 1J4, Canada.",
     "startDate": "2026-09-24T17:30:00.000Z",
     "endDate": "2026-09-24T19:00:00.000Z",
     "city": "Toronto",
@@ -5582,7 +5592,8 @@
       "eventId": "evt-CsJ0SmZsVkutiTs",
       "fetchedAt": "2026-09-22T10:40:02.039Z",
       "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
+      "apifyRunId": "xaRAFVxiGJ65xirOe",
+      "enrichedAt": "2026-09-22T11:00:44.000Z"
     }
   },
   {
@@ -6752,7 +6763,7 @@
     "id": "luma-batch-sBZp41reo9D11hu",
     "slug": "wqvdsw6h",
     "name": "Flight3 x Superteam UK: Design & Presence: Look Like You Belong",
-    "description": "Led by the Flight3 studio\n\nIn a room full of blue-chips, scrappy reads as small. People judge how established you are on how you look in the room, and a young project can't afford to look young.\n\nWe'll show you the visual details that make a project read as the real thing: your deck, your booth, your merch, your social assets. You'll go through your own presence with us and leave knowing exactly what to fix first.\n\nExpect a presence checklist and a clear order of design priorities for Breakpoint.",
+    "description": "Led by the Flight3 studio\n\nIn a room full of blue-chips, scrappy reads as small. People judge how established you are on how you look in the room, and a young project can't afford to look young.\n\nWe'll show you the visual details that make a project read as the real thing: your deck, your booth, your merch, your social assets. You'll go through your own presence with us and leave knowing exactly what to fix first.\n\nExpect a presence checklist and a clear order of design priorities for Breakpoint.\n\n\n## Hosts\n\nHosted by Superteam UK.\n\n## Event details\n\nThe event takes place on September 24. Venue: Somerset House, Somerset House, London WC2R 1LA, UK.",
     "startDate": "2026-09-24T12:00:00.000Z",
     "endDate": "2026-09-24T14:00:00.000Z",
     "city": "London",
@@ -6794,7 +6805,8 @@
       "eventId": "calev-sBZp41reo9D11hu",
       "fetchedAt": "2026-09-22T10:40:02.039Z",
       "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
+      "apifyRunId": "xaRAFVxiGJ65xirOe",
+      "enrichedAt": "2026-09-22T11:00:44.000Z"
     }
   },
   {
@@ -6950,7 +6962,7 @@
     "id": "luma-batch-FZpFQaNgvaFbpEB",
     "slug": "6rxrakp1",
     "name": "ONLINE OFFICE | Виграти сайдтреки на Superteam Earn",
-    "description": "Виграти сайдтреки на Superteam Earn 💸\n\nБудуєш проєкт на хакатоні? Одна й та сама робота може принести тобі додаткові призи в сайдтреках на Superteam Earn.\n\nВиходимо в Google Meet і обговорюємо:\n\nякі сайдтреки доступні та як обрати релевантні для свого проєкту\n\nна що дивляться під час оцінювання\n\nяк адаптувати проєкт під вимоги сайдтреку, а не робити все з нуля\n\nчому ВАЖЛИВО брати участь в сайдтреках\n\nТакож можна буде принести свій проєкт — подивимося разом і дамо фідбек.",
+    "description": "Виграти сайдтреки на Superteam Earn 💸\n\nБудуєш проєкт на хакатоні? Одна й та сама робота може принести тобі додаткові призи в сайдтреках на Superteam Earn.\n\nВиходимо в Google Meet і обговорюємо:\n\nякі сайдтреки доступні та як обрати релевантні для свого проєкту\n\nна що дивляться під час оцінювання\n\nяк адаптувати проєкт під вимоги сайдтреку, а не робити все з нуля\n\nчому ВАЖЛИВО брати участь в сайдтреках\n\nТакож можна буде принести свій проєкт — подивимося разом і дамо фідбек.\n\n\n## Hosts\n\nHosted by Superteam Ukraine (Solana Hub in Ukraine — Learn. Earn. Build.).\n\n## Event details\n\nThe event takes place on September 24.",
     "startDate": "2026-09-24T15:00:00.000Z",
     "endDate": "2026-09-24T16:00:00.000Z",
     "location": "TBA",
@@ -6986,7 +6998,8 @@
       "eventId": "calev-FZpFQaNgvaFbpEB",
       "fetchedAt": "2026-09-22T10:40:02.039Z",
       "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
+      "apifyRunId": "xaRAFVxiGJ65xirOe",
+      "enrichedAt": "2026-09-22T11:00:44.000Z"
     }
   },
   {
@@ -7038,7 +7051,7 @@
     "id": "luma-batch-KQkIiD9NTVDJXXk",
     "slug": "hxlpa8x4",
     "name": "Startup Village Chitwan",
-    "description": "Join us at the Startup Village for Nepal's best builders working on Solana projects, aiming for the crypto world's fair hackathon. Come learn, earn, and build together, and have the time of your life.\n\nWhat you can expect:\n\nAccommodation in dorms/on a sharing basis\n\nBreakfast, Lunch, Dinner & Tea/Coffee\n\nWorkstations with charging points & WiFi\n\nTop-quality peer group shipping alongside you\n\nIf you have multiple team members, each of them will have to apply individually as well.",
+    "description": "Join us at the Startup Village for Nepal's best builders working on Solana projects, aiming for the crypto world's fair hackathon. Come learn, earn, and build together, and have the time of your life.\n\nWhat you can expect:\n\nAccommodation in dorms/on a sharing basis\n\nBreakfast, Lunch, Dinner & Tea/Coffee\n\nWorkstations with charging points & WiFi\n\nTop-quality peer group shipping alongside you\n\nIf you have multiple team members, each of them will have to apply individually as well.\n\n\n## Hosts\n\nHosted by Superteam Nepal, Ronak Raj Rauniyar.\n\n## Event details\n\nThe event takes place on September 25. Venue: Tigerland Safari - Lemon Tree Resort, Tigerland Safari - Lemon Tree Resort, Chitwan National Park, Narayani, Bagmati Province 44200, Nepal.",
     "startDate": "2026-09-25T05:45:00.000Z",
     "endDate": "2026-09-30T06:45:00.000Z",
     "city": "Narayani",
@@ -7081,7 +7094,8 @@
       "eventId": "calev-KQkIiD9NTVDJXXk",
       "fetchedAt": "2026-09-22T10:40:02.039Z",
       "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
+      "apifyRunId": "xaRAFVxiGJ65xirOe",
+      "enrichedAt": "2026-09-22T11:00:44.000Z"
     }
   },
   {
@@ -7618,7 +7632,7 @@
     "id": "luma-batch-NAmHfiDgQATHxDl",
     "slug": "nwy1r45r",
     "name": "FOUNDERS' OFFICE | Kyiv",
-    "description": "Є ідея проєкту або вже навіть MVP?\n\nПриходь в наш коворкінг! Наші office hours 👇Київ:12 вересня [13:00-18:00]19 вересня [13:00-18:00]26 вересня [13:00-18:00]3 жовтня [13:00-18:00]10 жовтня [13:00-18:00]Онлайн: Бронюй дзвінок тут.Тут тебе чекає:\n\nдопомога з валідацією ідеї та фідбек\n\nпрожарки твого проєкту, які допоможуть стати краще\n\nконсультації щодо хакатону Colosseum\n\nможливість попрацювати з командою в зручному коворкінгу\n\nтусовка з іншими білдерами\n\nможливість вигравати додатково гроші за участь в BuildStation івентахВхід можливий виключно після реєстрації в день, коли плануєш прийти.",
+    "description": "Є ідея проєкту або вже навіть MVP?\n\nПриходь в наш коворкінг! Наші office hours 👇Київ:12 вересня [13:00-18:00]19 вересня [13:00-18:00]26 вересня [13:00-18:00]3 жовтня [13:00-18:00]10 жовтня [13:00-18:00]Онлайн: Бронюй дзвінок тут.Тут тебе чекає:\n\nдопомога з валідацією ідеї та фідбек\n\nпрожарки твого проєкту, які допоможуть стати краще\n\nконсультації щодо хакатону Colosseum\n\nможливість попрацювати з командою в зручному коворкінгу\n\nтусовка з іншими білдерами\n\nможливість вигравати додатково гроші за участь в BuildStation івентахВхід можливий виключно після реєстрації в день, коли плануєш прийти.\n\n\n## Hosts\n\nHosted by Superteam Ukraine (Solana Hub in Ukraine — Learn. Earn. Build.).\n\n## Event details\n\nThe event takes place on September 26. Venue: Kyiv, Kyiv city, Ukraine.",
     "startDate": "2026-09-26T10:00:00.000Z",
     "endDate": "2026-09-26T15:00:00.000Z",
     "city": "Kyiv",
@@ -7658,7 +7672,8 @@
       "eventId": "calev-NAmHfiDgQATHxDl",
       "fetchedAt": "2026-09-22T10:40:02.039Z",
       "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
+      "apifyRunId": "xaRAFVxiGJ65xirOe",
+      "enrichedAt": "2026-09-22T11:00:44.000Z"
     }
   },
   {
@@ -7767,7 +7782,7 @@
     "id": "luma-batch-EKjnGB8Zi43zJWf",
     "slug": "eyiw7vzq",
     "name": "ONLINE OFFICE | Знайти юзерів під час хакатону",
-    "description": "Знайти перших юзерів під час хакатону 👥\n\nЗбільшити шанси на перемогу в хакатоні – показати трекшн!\n\nВиходимо в Google Meet і обговорюємо:\n\n• де шукати перших користувачів без рекламного бюджету• як зрозуміти, хто твоя цільова аудиторія• як достукатися до людей і переконати їх спробувати MVP• як збирати фідбек і швидко покращувати продукт• які перші метрики та traction варто показати в пітчдеку\n\nМожна приходити зі своїм проєктом — разом подумаємо, де саме знайти для нього перших юзерів. Прохання детальніше описати ваш продукт при реєстрації, аби ми могли предметно обговорити щодо юзерів.",
+    "description": "Знайти перших юзерів під час хакатону 👥\n\nЗбільшити шанси на перемогу в хакатоні – показати трекшн!\n\nВиходимо в Google Meet і обговорюємо:\n\n• де шукати перших користувачів без рекламного бюджету• як зрозуміти, хто твоя цільова аудиторія• як достукатися до людей і переконати їх спробувати MVP• як збирати фідбек і швидко покращувати продукт• які перші метрики та traction варто показати в пітчдеку\n\nМожна приходити зі своїм проєктом — разом подумаємо, де саме знайти для нього перших юзерів. Прохання детальніше описати ваш продукт при реєстрації, аби ми могли предметно обговорити щодо юзерів.\n\n\n## Hosts\n\nHosted by Superteam Ukraine (Solana Hub in Ukraine — Learn. Earn. Build.).",
     "startDate": "2026-09-28T15:00:00.000Z",
     "endDate": "2026-09-28T16:00:00.000Z",
     "location": "TBA",
@@ -7803,7 +7818,8 @@
       "eventId": "calev-EKjnGB8Zi43zJWf",
       "fetchedAt": "2026-09-22T10:40:02.039Z",
       "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
+      "apifyRunId": "xaRAFVxiGJ65xirOe",
+      "enrichedAt": "2026-09-22T11:00:44.000Z"
     }
   },
   {
@@ -7860,7 +7876,7 @@
     "id": "luma-batch-5PVyH2PTlibOEB8",
     "slug": "superteam-i7jn",
     "name": "Privacy on Solana with Helius",
-    "description": "Privacy on Solana is having its moment, and we're throwing a session to dig into it properly.\n\nJoin Superteam Ukraine as we sit down with Helius to talk all things Privacy Rings: how they work, what problems they actually solve, and why privacy on-chain matters more than ever. Expect real use cases, not just theory.\n\nThis one's hosted with Tilo and Helius Privacy, so come ready with questions.\n\nWant a head start?Check out the docs at helius.dev/docs/privacy or play around with the demo at helius.dev/privacy/demo before we dive in.\n\nStay tuned!",
+    "description": "Privacy on Solana is having its moment, and we're throwing a session to dig into it properly.\n\nJoin Superteam Ukraine as we sit down with Helius to talk all things Privacy Rings: how they work, what problems they actually solve, and why privacy on-chain matters more than ever. Expect real use cases, not just theory.\n\nThis one's hosted with Tilo and Helius Privacy, so come ready with questions.\n\nWant a head start?Check out the docs at helius.dev/docs/privacy or play around with the demo at helius.dev/privacy/demo before we dive in.\n\nStay tuned!\n\n\n## Hosts\n\nHosted by Superteam Ukraine.\n\n## Event details\n\nThe event takes place on September 29.",
     "startDate": "2026-09-29T13:00:00.000Z",
     "endDate": "2026-09-29T14:00:00.000Z",
     "location": "TBA",
@@ -7896,7 +7912,8 @@
       "eventId": "calev-5PVyH2PTlibOEB8",
       "fetchedAt": "2026-09-22T10:40:02.039Z",
       "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
+      "apifyRunId": "xaRAFVxiGJ65xirOe",
+      "enrichedAt": "2026-09-22T11:00:44.000Z"
     }
   },
   {
@@ -8032,7 +8049,7 @@
     "id": "luma-batch-t3Gp6ysBjCMzB6S",
     "slug": "gyphbsbo",
     "name": "SuperteamBR: Meetup University",
-    "description": "O Meetup University é um encontro para conectar estudantes universitários ao ecossistema Solana e às oportunidades da Web3.\n\nDurante o evento, vamos conversar sobre blockchain, carreira em tecnologia, comunidades e possibilidades de participação em hackathons e projetos do ecossistema.\n\nSerá também um espaço para conhecer novas pessoas, trocar experiências e ampliar conexões profissionais, com pizza e networking.\n\nNão é necessário ter conhecimento prévio em Web3.\n\nData: 30 de setembroHorário: 18h30\n\nRealização: Superteam Brasil e SolanaParceria: Carol Labs e FIAP",
+    "description": "O Meetup University é um encontro para conectar estudantes universitários ao ecossistema Solana e às oportunidades da Web3.\n\nDurante o evento, vamos conversar sobre blockchain, carreira em tecnologia, comunidades e possibilidades de participação em hackathons e projetos do ecossistema.\n\nSerá também um espaço para conhecer novas pessoas, trocar experiências e ampliar conexões profissionais, com pizza e networking.\n\nNão é necessário ter conhecimento prévio em Web3.\n\nData: 30 de setembroHorário: 18h30\n\nRealização: Superteam Brasil e SolanaParceria: Carol Labs e FIAP\n\n\n## Hosts\n\nHosted by Carol Santos, Superteam Brasil, Maria Clara Bastos.\n\n## Event details\n\nThe event takes place on September 30. Venue: FIAP - Rio de Janeiro, FIAP - Rio de Janeiro, Centro Empresarial Botafogo - Praia de Botafogo, 300 - Conjuntos 33 e 34 - Botafogo, Rio de Janeiro - RJ, 22250-040, Brazil.",
     "startDate": "2026-09-30T21:30:00.000Z",
     "endDate": "2026-09-30T22:30:00.000Z",
     "city": "Rio de Janeiro",
@@ -8077,7 +8094,8 @@
       "eventId": "calev-t3Gp6ysBjCMzB6S",
       "fetchedAt": "2026-09-22T10:40:02.039Z",
       "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
+      "apifyRunId": "xaRAFVxiGJ65xirOe",
+      "enrichedAt": "2026-09-22T11:00:44.000Z"
     }
   }
 ]
