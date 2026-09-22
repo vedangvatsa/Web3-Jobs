@@ -1,5 +1,11 @@
 name: FAH fix secrets and deploy
-on: workflow_dispatch
+on:
+  workflow_dispatch:
+  workflow_call:
+
+concurrency:
+  group: fah-deploy
+  cancel-in-progress: false
 jobs:
   deploy:
     runs-on: ubuntu-latest

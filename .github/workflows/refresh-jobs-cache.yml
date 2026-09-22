@@ -6,8 +6,11 @@ name: Publish Jobs, Events & Social
 # Cloud Scheduler). The cron below stays as a backup. A slot that already
 # completed today is skipped, and a later slot does not cancel an earlier one.
 #
-# morning (03:30 UTC): ingest, Resend alerts, news drafts, social, Telegram
-# afternoon (11:30 UTC) and evening (19:30 UTC): social + Telegram only
+# morning (03:30 UTC): ingest, news drafts, one Firebase rollout, then
+# Resend alerts, social, and Telegram. Auto-deploy stays off.
+# afternoon (11:30 UTC) and evening (19:30 UTC): social + Telegram only,
+# and only for pages already on the live site. Their commits wait for
+# the next morning rollout.
 
 on:
   schedule:
@@ -117,17 +120,23 @@ jobs:
     uses: ./.github/workflows/refresh-jobs-ingest.yml
     secrets: inherit
 
+  deploy:
+    needs: [gate, ingest, publish-news]
+    if: ${{ always() && needs.gate.outputs.skip != 'true' && needs.gate.outputs.morning == 'true' && needs.ingest.result == 'success' && (needs.publish-news.result == 'success' || needs.publish-news.result == 'skipped') }}
+    uses: ./.github/workflows/fah-fix-and-deploy.yml
+    secrets: inherit
+
   job-alerts:
-    needs: [gate, ingest]
-    if: ${{ always() && needs.gate.outputs.skip != 'true' && needs.gate.outputs.morning == 'true' && needs.ingest.result != 'cancelled' }}
+    needs: [gate, ingest, deploy]
+    if: ${{ always() && needs.gate.outputs.skip != 'true' && needs.gate.outputs.morning == 'true' && needs.deploy.result == 'success' }}
     permissions:
       contents: write
     uses: ./.github/workflows/daily-job-alerts.yml
     secrets: inherit
 
   post-openings:
-    needs: [gate, ingest]
-    if: ${{ always() && needs.gate.outputs.skip != 'true' && needs.gate.outputs.social == 'true' && needs.ingest.result != 'cancelled' }}
+    needs: [gate, ingest, deploy]
+    if: ${{ always() && needs.gate.outputs.skip != 'true' && needs.gate.outputs.social == 'true' && needs.ingest.result != 'cancelled' && (needs.gate.outputs.morning != 'true' || needs.deploy.result == 'success') }}
     permissions:
       contents: write
       checks: read
@@ -211,8 +220,8 @@ jobs:
           echo "Dry-run clean: no commits, no pushes."
 
   refresh-and-post:
-    needs: [gate, ingest]
-    if: ${{ always() && needs.gate.outputs.skip != 'true' && needs.gate.outputs.social == 'true' && needs.ingest.result != 'cancelled' && github.event.inputs.diagnose_telegram != 'true' }}
+    needs: [gate, ingest, deploy]
+    if: ${{ always() && needs.gate.outputs.skip != 'true' && needs.gate.outputs.social == 'true' && needs.ingest.result != 'cancelled' && (needs.gate.outputs.morning != 'true' || needs.deploy.result == 'success') && github.event.inputs.diagnose_telegram != 'true' }}
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -362,8 +371,8 @@ jobs:
           fi
 
   record-slot:
-    needs: [gate, ingest, job-alerts, post-openings, publish-news, refresh-and-post]
-    if: ${{ always() && needs.gate.outputs.skip != 'true' && needs.gate.result == 'success' && needs.ingest.result != 'failure' && needs.ingest.result != 'cancelled' && needs.job-alerts.result != 'failure' && needs.job-alerts.result != 'cancelled' && needs.post-openings.result != 'failure' && needs.post-openings.result != 'cancelled' && needs.publish-news.result != 'failure' && needs.publish-news.result != 'cancelled' && needs.refresh-and-post.result != 'failure' && needs.refresh-and-post.result != 'cancelled' }}
+    needs: [gate, ingest, publish-news, deploy, job-alerts, post-openings, refresh-and-post]
+    if: ${{ always() && needs.gate.outputs.skip != 'true' && needs.gate.result == 'success' && needs.ingest.result != 'failure' && needs.ingest.result != 'cancelled' && (needs.gate.outputs.morning != 'true' || needs.deploy.result == 'success') && needs.job-alerts.result != 'failure' && needs.job-alerts.result != 'cancelled' && needs.post-openings.result != 'failure' && needs.post-openings.result != 'cancelled' && needs.publish-news.result != 'failure' && needs.publish-news.result != 'cancelled' && needs.refresh-and-post.result != 'failure' && needs.refresh-and-post.result != 'cancelled' }}
     runs-on: ubuntu-latest
     permissions:
       contents: write
