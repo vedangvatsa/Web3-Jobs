@@ -29407,6 +29407,38 @@ Trade your keyboard for clay. Join the women of the Solana community for an afte
 
 No experience needed. Bring your curiosity, an instructor handles the rest. Leave with a piece you made and a few new friends in the ecosystem.What to Expect: Terracotta clay workshop (1.5h)Networking with women in the Solana ecosystem Light refreshmentsPlease Note: This is an invite-only event. RSVP required - no +1s, no walk-ins. This event has limited capacity and follows a first-come, first-served policy. Kindly arrive on time to secure your spot. Photos will be taken during the event. By participating, you agree to their use for promotional purposes.Follow us on X: @SuperteamAECome for the craft. Stay for the conversation. We're excited to see you there!
 
+<a id="event-a6a861890587a516"></a>
+
+## SME Clinic Night: Security, DeFi & Design
+
+- Record: `luma-batch-tawLwbwrv8b5KOO`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-10-01T08:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/superteam-fxat>
+
+### About the event
+
+Three rooms, three specialisms, one night.
+
+One night, three breakout rooms, each led by people who do this work professionally.
+
+Security: smart contract review, common vulnerability patterns, and what to check before you ship something that holds funds.
+
+DeFi, stablecoins and payments: protocol design decisions, what's working on Solana right now, and where the real opportunities sit.
+
+Design and demo polish: making a rough product look considered, and making a demo that holds attention for sixty seconds.
+
+Pick the room that matches your problem, or move between them. Bring a specific question - these sessions work best when someone puts real work on the screen.
+
+Who it's for: Teams with a technical, financial or design problem they can't solve alone.
+
+You'll leave with: A specialist answer to a specific problem.
+
+Free and open. Choose your room on the night.
+
+https://au.superteam.fun/colosseum for more information
+
 <a id="event-d32fabc91f909802"></a>
 
 ## Product Bootcamp - Road to Colosseum Hackathon
@@ -29525,6 +29557,70 @@ Guest founders, mentors, and the full agenda will be announced soon.
 
 ロードマップ:https://soublock.com/about
 
+<a id="event-285072bd322d6e67"></a>
+
+## #3 AI Workshop for Colosseum｜AIで自分のGoogleカレンダーを操作してみよう
+
+- Record: `luma-batch-qRxVoonMmCSALeT`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-10-01T11:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/Workshop_CryptoWorldsFair3>
+
+### About the event
+
+AI Workshop for Colosseum 第3回をオンライン開催します。
+
+Solana Foundation External DevRel JapanのYukiさんと一緒に、AIを使って自分のGoogleカレンダーを操作する方法を学ぶ実践型ワークショップです。
+
+ClaudeもしくはChatGPTをご準備いただき、一緒に手を動かしましょう！
+
+開催日時
+
+2026年10月1日(木) 20:30 Superteam Japan Discord
+
+登壇者情報
+
+YukiSolana Foundation External DevRel Japan/yuki_web3_jp
+
+イベント参加が初めての方へ
+
+イベントにスムーズに参加するため、以下のSTEPに沿って準備をお願いします。3分ほどで完了します。
+
+STEP 1：Luma（ルマ）で参加登録をする
+
+まずは、このページで申し込みを完了させましょう。
+
+右上の [ログイン] を押し、Googleアカウント等でログインします。
+
+その後、このページで [参加登録] ボタンを押せば完了です！
+
+登録したメールアドレスに案内が届きます。
+
+STEP 2：会場「Discord（ディスコード）」の準備
+
+今回のイベント会場は、スマホやPCで使えるコミュニケーションアプリ「Discord」になります。
+
+参加URL： Discordサーバーに参加
+
+スマホで参加の方 事前にアプリをインストールしておくと、当日の参加がとてもスムーズです。
+
+iPhoneの方（App Store）
+
+Androidの方（Google Play）
+
+PCで参加の方 アプリを入れなくても、いつものブラウザ（ChromeやSafariなど）でそのまま開けます。
+
+STEP 3：イベント参加と「認証（Verify）」
+
+アカウントの準備ができたら、以下の手順でDiscordへお入りください。
+
+「人間であること」の確認（認証）： Discordに入った直後は、まだ中身（チャンネル）が見えない設定になっています。セキュリティのため、以下のURLをクリックして認証を行ってください。
+
+ここをクリックして認証ページを開く
+
+画面に表示される指示（対象の文字にあう絵文字を選択）に従うと、すべてのチャンネルが見えるようになります。
+
 <a id="event-9ba49873245887a4"></a>
 
 ## Demo Day UDAX - Oxford 2026
@@ -29564,6 +29660,44 @@ A rare opportunity to hear directly from the regulator shaping the rules, and th
 Privacy Policy:By registering for this event, you consent to receive relevant promotional emails from Crain's New York Business and sponsors, if any; emails from us related to this content; and for us to share your contact information with the event sponsors who may contact you, by email or otherwise, about their related products and services You may unsubscribe or change your email preferences through links in emails you receive. For more information, see Crain's New York Privacy Policy.
 
 Photography Policy: By registering for this event, you consent to being photographed, filmed, or recorded. Event photos and videos may be used for promotional purposes, including on websites, social media, and in printed materials, without compensation. If you do not wish to be included in any photos or recordings, please notify event staff upon arrival, and reasonable efforts will be made to accommodate your request.
+
+<a id="event-fa900f4f4a8d8966"></a>
+
+## ONLINE OFFICE \| Створити топовий UX/UI + Прожарка
+
+- Record: `luma-batch-KvrcGlHeuRusFVV`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-10-01T15:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/l1zukkus>
+
+### About the event
+
+Створити топовий UX/UI - ПРОЖАРКА!
+
+Будемо прожарювати UX/UI ваших хакатон-проєктів.
+
+На Google Meet обговоримо:- де користувач губиться і що заважає йому дійти до ключової дії- що можна спростити або взагалі прибрати- як швидко допиляти UX/UI перед Demo Day і фінальним сабмітом
+
+Прожарювати проєкти буде продуктовий дизайнер із 10+ роками досвіду, який працював над Kamino, Hylo, reflect.money та Hubble Protocol - Harry Alexandroff
+
+[дивися запис його воркшопу тут]Принось свій MVP - будемо розбирати конкретно твій продукт і що в ньому можна зробити краще. Для цього реєструйся тут в Luma
+
+<a id="event-9eafa956d52331ab"></a>
+
+## Superteam Canada Community Call
+
+- Record: `luma-batch-gVS58YpuRyJfWfB`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-10-01T16:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/aq7rqqmn>
+
+### About the event
+
+Hey! Get ready to dive into the world of Solana with our Community Call happening first Thursday on the every Quarter.Hosted by Simon, this is your golden ticket to connect, learn, and have a blast with fellow enthusiasts. Whether you're a seasoned pro or just starting out, there's something for everyone.
+
+Join us on Discord for 30 minutes packed with insights, advice, and all things Superteam Canada.Got questions? Bring 'em on! Want to get more involved? This is your chance! Can't wait to see you there!
 
 <a id="event-9a58305b610dc6d7"></a>
 
@@ -29773,6 +29907,36 @@ Datachain is a Japan-based blockchain technology company that develops and provi
 
 https://www.datachain.jp/ / https://x.com/datachain_en
 
+<a id="event-d5e37662eabf6f15"></a>
+
+## 💻 Coworking Fridays Istanbul — SuperteamTR
+
+- Record: `luma-batch-LKJsBAGLapPGuQj`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-10-02T07:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/o1v2czfh>
+
+### About the event
+
+Free coworking in Istanbul, every Friday.
+
+Come work with us, meet other founders and builders, get feedback on what you're building, or just spend the day around people shipping.
+
+Whether you're already building on Solana or simply curious about the ecosystem, you're welcome.
+
+### What to expect
+
+→ Free coworking→ Superteam Türkiye team on-site→ Founder & builder community→ Feedback, intros, and ecosystem support→ Coffee, conversations, and heads-down building
+
+Open to founders, developers, designers, creators, students - basically anyone building something.
+
+You don't need to be a Superteam member to join.
+
+Bring your laptop. See you Friday.
+
+By signing up, you agree that Superteam Türkiye may take and share photos and videos of you from the event.
+
 <a id="event-4c6dbfb70856aae3"></a>
 
 ## Payment 3.0：ステーブルコインは、本当に街で使えるのか。
@@ -29864,6 +30028,38 @@ October 2, 2026 - 18:00-20:30 JST - FINOLAB, TokyoThe opening and panel are in J
 主催・パートナー
 
 INSPAY 公式サイト　／　X @INSPAY_ioINSPAY プライバシーポリシー
+
+<a id="event-7079219fc68e2386"></a>
+
+## Co-Working Fridays : London Chapter
+
+- Record: `luma-batch-xjvRpBHMpZu6GBG`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-10-02T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/london-oct-02>
+
+### About the event
+
+Join SuperteamUK every Friday at our co-working space for builders, leaders and creatives at the frontier of tech in London (Every Friday: 10:00AM - 8:30PM)!
+
+Attendance is free but entry via approval only, so make sure to register and be accepted for your name to be on the guestlist.
+
+Come and meet and collaborate with like-minded developers & builders, discover new team members, and gain insights from industry leaders.
+
+On arrival you will receive your event wristband which must be worn at all times on site! Please keep the safe as you found it to represent the other members and venue staff.
+
+For more info, reach out to us on the Solana UK Telegram.
+
+### About Superteam UK
+
+Superteam is a global co-operative organised into regional non-profit organisations across 20+ countries focused on supporting founders and talent building at the frontier of tech.Learn more and apply for membership at superteamuk.org
+
+* This is a strictly invite-only event. Each ticket allows admission for one participant only. Do note that you will have to show the confirmation QR code/email of registration for approval for entry.
+
+** Limited spaces available, even after confirmation. Please arrive early to avoid disappointment.
+
+By signing up to this event you agree that Solana, The SRI, & SuperteamUK can capture any footage of you, and contact you directly about future events, major news, and more.
 
 <a id="event-7d9ad2c3896b9a01"></a>
 
@@ -30006,6 +30202,60 @@ Complimentary tickets are reserved for currently enrolled UC Berkeley students o
 Industry professionals, alumni, and other guests are kindly asked to register using a paid ticket.
 
 Spots are limited. Register to join the builders and leaders shaping the future of finance.
+
+<a id="event-8a8661b1df3a44c8"></a>
+
+## SuperteamTR — Colosseum Office Hours
+
+- Record: `luma-batch-EqAZsTDmrT3F1Ix`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-10-02T16:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/dl00mens>
+
+### About the event
+
+Bring your blocker.
+
+Every Friday, we get builders in one room and work through whatever is slowing them down.
+
+Bring your:
+
+→ idea you're not sure about→ technical blocker→ pricing or distribution question→ repo, demo, deck or submission→ pitch that needs to be challenged→ scope that desperately needs cutting
+
+We'll help you figure out what's worth building, who would actually pay for it, what you can realistically ship by the deadline, and what needs fixing before submission.
+
+Sometimes the best part is hearing another team get challenged on the exact thing you haven't thought about yet.
+
+Every Friday, 19:00. One hour.
+
+<a id="event-93d89db7f3296ab3"></a>
+
+## Saturday Builder Support Window
+
+- Record: `luma-batch-KKgrPCY2VBv0rcx`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-10-03T00:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/superteam-v13q>
+
+### About the event
+
+The usual Saturday support window, run from Singapore.
+
+The normal Saturday slot, running as an open support window this week.
+
+A drop-in room for whatever is in the way: a technical problem, a scope decision, a question about what the submission actually needs. This is the last weekend before the final sprint week, so it's a good moment to get an outside read on whether your plan for the remaining days is realistic.
+
+Run remotely from Singapore. 10am AEST is 8am SGT. Daylight saving starts in NSW, Victoria, SA and Tasmania the next day, so this is the last session on AEST.
+
+Who it's for: Anyone building toward the deadline.
+
+You'll leave with: A realistic plan for the final week.
+
+Free and open. Drop in for as long as you need.
+
+https://au.superteam.fun/colosseum for more information
 
 <a id="event-9da39e7e8802159a"></a>
 
@@ -30174,6 +30424,64 @@ Claude Code、CodexなどのAI開発ツール（事前に利用できる状態�
 開催概要
 
 日時：2026年10月3日（土）13:00-16:30会場：登録後に表示されます参加費：無料
+
+<a id="event-1ba42833702ad761"></a>
+
+## FOUNDERS' OFFICE \| Kyiv
+
+- Record: `luma-batch-DYJtljVj9Y6UqT5`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-10-03T10:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/za2hn72f>
+
+### About the event
+
+Є ідея проєкту або вже навіть MVP?
+
+Приходь в наш коворкінг! Наші office hours Київ:12 вересня [13:00-18:00]19 вересня [13:00-18:00]26 вересня [13:00-18:00]3 жовтня [13:00-18:00]10 жовтня [13:00-18:00]Онлайн: Бронюй дзвінок тут.Тут тебе чекає:
+
+допомога з валідацією ідеї та фідбек
+
+прожарки твого проєкту, які допоможуть стати краще
+
+консультації щодо хакатону Colosseum
+
+можливість попрацювати з командою в зручному коворкінгу
+
+тусовка з іншими білдерами
+
+можливість вигравати додатково гроші за участь в BuildStation івентахВхід можливий виключно після реєстрації в день, коли плануєш прийти.
+
+<a id="event-dcff896b86364c66"></a>
+
+## IRL + Livestream Shipyard #4: Gaming, Consumer & GTM
+
+- Record: `luma-batch-iBDz4DhXR1Zrudq`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-10-03T11:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/zmvrj6cy>
+
+### About the event
+
+Build something people actually want to use.
+
+Crypto World's Fair is entering the final stretch - and Shipyard #4 is all about gaming, consumer products and getting users in the door.
+
+This Saturday, we're bringing builders together in Istanbul - and livestreaming for everyone joining remotely - for a full day around products people actually use, return to, and pay for.
+
+Expect:
+
+→ Gaming on Solana - what's working now, why gameplay matters more than token loops & where Turkish studios can win→ Consumer that converts - Superteam Türkiye builders breaking down products, revenue models & what they learned from real users→ GTM, Solana-native - launches, activation, retention, incentives & what actually gets people to stick around→ What went wrong - a real launch teardown and the mistakes worth avoiding→ Pitch practice - sharpen your story before Demo Day→ Build session + feedback - turn your GTM into something you can actually execute
+
+This is the last open Shipyard before Buildstation.
+
+Come with a product.
+
+Leave with a plan to get it into people's hands.
+
+See you there. 🇹🇷
 
 <a id="event-5f26760c1bf84f74"></a>
 
@@ -30863,6 +31171,36 @@ Hosted by Adrian Rymill, Daniel Holmes, Elyse Quek, Jake Khorozian, Andy Ross, i
 
 The event takes place on October 5.
 
+<a id="event-6efd6e20bc8069a0"></a>
+
+## ONLINE OFFICE \| Записати ідеальний пітч
+
+- Record: `luma-batch-SjkykhU9k6PYYl9`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-10-05T15:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/1tl9nf0u>
+
+### About the event
+
+Записати ідеальний пітч
+
+Маєш готовий MVP - тепер треба показати його так, щоб за кілька хвилин журі зрозуміло, що ти створив і навіщо.
+
+Виходимо в Google Meet і обговорюємо:
+
+як побудувати структуру короткого пітчу
+
+що обов'язково показати, а що краще викинути
+
+як просто пояснити проблему, рішення та цінність продукту
+
+як записати демо, щоб продукт був у центрі уваги
+
+як вкластися в таймінг і не перевантажити пітч
+
+Можна приходити з чернеткою - подивимося разом і дамо фідбек перед фінальним записом.
+
 <a id="event-0be1d3ba41120c05"></a>
 
 ## Run the Bay : 5K + Breakfast 🇸🇬
@@ -30968,6 +31306,70 @@ Complimentary admission will be granted on a first come, first serve basis with 
 Your Burning Mon ticket does not include Open itself, 9am to 5pm. To join for the day, grab a ticket.***DisclaimerBy attending an event organized by Monad Foundation, you are entering an area where photography, audio and video live-streaming and/or recording may occur.Your entry and presence at such an event constitutes your consent to be photographed, filmed (including live-streamed), and/or otherwise recorded and to the release, publication, exhibition, or reproduction of any and all recorded media of your appearance, voice, and name for any purpose whatsoever in connection with Monad Foundation and its initiatives.
 
 By attending the event, you waive and release any claims you may have related to the use of such media of you at the event.
+
+<a id="event-65660fcb6cb0c211"></a>
+
+## #4 AI Workshop for Colosseum｜ログイン機能付きのプロジェクトを作ろう
+
+- Record: `luma-batch-c8LELJynTCfM5e8`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-10-06T11:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/Workshop_CryptoWorldsFair4>
+
+### About the event
+
+AI Workshop for Colosseum 第4回をオンライン開催します。
+
+Solana Foundation External DevRel JapanのYukiさんと一緒に、AIを活用しながら、ログイン機能を備えたプロジェクト制作に挑戦する実践型ワークショップです。
+
+ClaudeもしくはChatGPTをご準備いただき、一緒に手を動かしましょう！
+
+開催日時
+
+2026年10月6日(火) 20:30 Superteam Japan Discord
+
+登壇者情報
+
+YukiSolana Foundation External DevRel Japan/yuki_web3_jp
+
+イベント参加が初めての方へ
+
+イベントにスムーズに参加するため、以下のSTEPに沿って準備をお願いします。3分ほどで完了します。
+
+STEP 1：Luma（ルマ）で参加登録をする
+
+まずは、このページで申し込みを完了させましょう。
+
+右上の [ログイン] を押し、Googleアカウント等でログインします。
+
+その後、このページで [参加登録] ボタンを押せば完了です！
+
+登録したメールアドレスに案内が届きます。
+
+STEP 2：会場「Discord（ディスコード）」の準備
+
+今回のイベント会場は、スマホやPCで使えるコミュニケーションアプリ「Discord」になります。
+
+参加URL： Discordサーバーに参加
+
+スマホで参加の方 事前にアプリをインストールしておくと、当日の参加がとてもスムーズです。
+
+iPhoneの方（App Store）
+
+Androidの方（Google Play）
+
+PCで参加の方 アプリを入れなくても、いつものブラウザ（ChromeやSafariなど）でそのまま開けます。
+
+STEP 3：イベント参加と「認証（Verify）」
+
+アカウントの準備ができたら、以下の手順でDiscordへお入りください。
+
+「人間であること」の確認（認証）： Discordに入った直後は、まだ中身（チャンネル）が見えない設定になっています。セキュリティのため、以下のURLをクリックして認証を行ってください。
+
+ここをクリックして認証ページを開く
+
+画面に表示される指示（対象の文字にあう絵文字を選択）に従うと、すべてのチャンネルが見えるようになります。
 
 <a id="event-3f4f2ad3d3939a8c"></a>
 
@@ -31259,6 +31661,70 @@ The venue for this meeting is sponsored by Bitcoin Bay and the BitDevs Toronto w
 
 Free to attend.
 
+<a id="event-b84bb5954216993f"></a>
+
+## Final Pitch Polish — Pitch Practice #4
+
+- Record: `luma-batch-zBY3ww5MbYNJJ7Z`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-10-07T07:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/superteam-1tru>
+
+### About the event
+
+The last pitch run before submission.
+
+The last pitch practice before the deadline, and the highest-value one to book.
+
+This is where you run the pitch you're actually going to submit - the demo video script, the written description, the framing of the problem. Three to five minutes, then five to seven minutes of feedback focused on what to change in the days you have left.
+
+Priority goes to teams who are definitely submitting. Watching is still open to everyone, and at this stage it's a fast way to see what four weeks of iteration produces.
+
+Who it's for: Teams submitting to Colosseum this week.
+
+You'll leave with: A pitch that's ready, and a short list of final fixes.
+
+Book a slot when you register. Limited places.
+
+https://au.superteam.fun/colosseum for more information
+
+<a id="event-bd2430525c53ea24"></a>
+
+## Colosseum Community Call #5: Fix What’s Weak ⚡
+
+- Record: `luma-batch-rk5AVFngAATx3XK`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-10-07T16:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/98p6jlz3>
+
+### About the event
+
+You've been judged. Now fix what's weak.
+
+Both mock judging rounds are done. You have the scores, the feedback, and five days left to make it count.
+
+This final Community Call is about turning feedback into a clear fix list - and spending the last days on what actually moves your submission forward.
+
+What we'll cover
+
+Your Lowest ScoreMVP, traction, monetisation or team - where did you lose points, and what are you changing before submission?
+
+Inside the ScorecardsOne of the judges joins us to explain what they saw, why teams scored the way they did, and what can still be fixed.
+
+Fix the PatternsIf multiple teams have the same problem, we solve it once together - weak monetisation, vague user acquisition, unclear positioning and more.
+
+Final Submission CheckRepo, README, demo video, deck, category, one-liner, team credentials - everything that needs to be ready before October 12.
+
+What Happens After You SubmitAccelerator interviews, next steps, Superteam Türkiye updates and what comes after the hackathon.
+
+Five days left.
+
+Don't add more. Fix what matters.
+
+See you there 🇹🇷
+
 <a id="event-a1f45eafcd06fb67"></a>
 
 ## The Capital Stack for Agentic AI
@@ -31315,6 +31781,34 @@ Agents are becoming economic actors. That only works if the payment rails, the i
 
 Additional speakers and programming to be announced.
 
+<a id="event-702f7d92daf1c4e4"></a>
+
+## Final Submission Review Clinic
+
+- Record: `luma-batch-GBzQbyZniVZ4C1N`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-10-08T07:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/superteam-7sc1>
+
+### About the event
+
+Is it actually ready to submit?
+
+Four days out. This clinic is a last check before you submit.
+
+We'll go through the submission requirements line by line, cover what's most commonly missing or weak in entries, and then review real submissions live - the demo video, the written description, the repo, the deck. Bring whatever you have, finished or not.
+
+Superteam members can also book a one-to-one review slot this week if you'd rather go through it privately. Those slots fill fast in the final days, so book early.
+
+Who it's for: Anyone submitting, at any level of finished.
+
+You'll leave with: A clear yes-or-no on whether you're ready, and a fix list if you're not.
+
+Free and open. Members can book a private review.
+
+https://au.superteam.fun/colosseum for more information
+
 <a id="event-2870a2eb5accddbf"></a>
 
 ## Assets & Access @ Rickhouse Bar SF
@@ -31338,6 +31832,68 @@ This event is open to the general public and is not exclusive to Introduction.co
 Hosted by Introduction.com, Jose Anaya | ZKsync, Sam Leichman. Venue: Rickhouse, Rickhouse, 246 Kearny St, San Francisco, CA 94108, USA. Tickets: Free.
 
 The event takes place on October 9.
+
+<a id="event-273c910ff211b623"></a>
+
+## 💻 Coworking Fridays Istanbul — SuperteamTR
+
+- Record: `luma-batch-vLu55Cr9n9hVL9l`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-10-09T07:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/xmhmmh6v>
+
+### About the event
+
+Free coworking in Istanbul, every Friday.
+
+Come work with us, meet other founders and builders, get feedback on what you're building, or just spend the day around people shipping.
+
+Whether you're already building on Solana or simply curious about the ecosystem, you're welcome.
+
+### What to expect
+
+→ Free coworking→ Superteam Türkiye team on-site→ Founder & builder community→ Feedback, intros, and ecosystem support→ Coffee, conversations, and heads-down building
+
+Open to founders, developers, designers, creators, students - basically anyone building something.
+
+You don't need to be a Superteam member to join.
+
+Bring your laptop. See you Friday.
+
+By signing up, you agree that Superteam Türkiye may take and share photos and videos of you from the event.
+
+<a id="event-18fa2ed8d5d8a392"></a>
+
+## Co-Working Fridays : London Chapter
+
+- Record: `luma-batch-1sMHw1TaVO3TkEe`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-10-09T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/london-oct-09>
+
+### About the event
+
+Join SuperteamUK every Friday at our co-working space for builders, leaders and creatives at the frontier of tech in London (Every Friday: 10:00AM - 8:30PM)!
+
+Attendance is free but entry via approval only, so make sure to register and be accepted for your name to be on the guestlist.
+
+Come and meet and collaborate with like-minded developers & builders, discover new team members, and gain insights from industry leaders.
+
+On arrival you will receive your event wristband which must be worn at all times on site! Please keep the safe as you found it to represent the other members and venue staff.
+
+For more info, reach out to us on the Solana UK Telegram.
+
+### About Superteam UK
+
+Superteam is a global co-operative organised into regional non-profit organisations across 20+ countries focused on supporting founders and talent building at the frontier of tech.Learn more and apply for membership at superteamuk.org
+
+* This is a strictly invite-only event. Each ticket allows admission for one participant only. Do note that you will have to show the confirmation QR code/email of registration for approval for entry.
+
+** Limited spaces available, even after confirmation. Please arrive early to avoid disappointment.
+
+By signing up to this event you agree that Solana, The SRI, & SuperteamUK can capture any footage of you, and contact you directly about future events, major news, and more.
 
 <a id="event-7182769363c398d4"></a>
 
@@ -31447,6 +32003,102 @@ Networking พบปะพูดคุย
 
 ■ 登壇者小山内雄人 : ITエンジニア
 
+<a id="event-c63bd2dc46a5d1a8"></a>
+
+## El Taller - Hackathon de Colosseum
+
+- Record: `luma-batch-F8zatkGwjYGzv3V`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-10-09T14:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/wpfunpri>
+
+### About the event
+
+Del 9 al 13 de Octubre, La Familia habilitará un Espacio en el centro de Madrid como punto de encuentro para builders, equipos y creadores que participarán en el Hackathon de Colosseum.
+
+Este espacio funcionará como un hub de trabajo y colaboración, diseñado para apoyar el desarrollo de proyectos en Solana y fortalecer la comunidad hispana del ecosistema.
+
+Durante este periodo ofreceremos:
+
+Workshops técnicos y de producto sobre Solana
+
+Sesiones con expertos y proyectos del ecosistema
+
+Mentorías y office hours para feedback directo
+
+Soporte técnico y orientación para equipos
+
+Espacios de coworking para trabajar con foco
+
+Demos de proyectos en desarrollo
+
+Actividades de comunidad y dinámicas colaborativas
+
+Torneos y experiencias abiertas para participantes
+
+Happy hours y momentos de networking informal
+
+El programa culminará el 13 de Octubre con un Demo Day, enfocado en ayudar a los equipos a afinar su pitch y mejorar su presentación de cara al cierre del hackathon. Será un espacio tanto formativo como práctico, con reconocimiento y premios para proyectos destacados.
+
+El taller es una invitación a construir juntos, aprender de referentes del ecosistema y conectar con otros miembros de La Familia mientras avanzas tu proyecto en Colosseum.
+
+Madrid 9 - 13 Oct
+
+Somos La Familia
+
+<a id="event-4b1f0d6847f86e81"></a>
+
+## UKRAINIAN DEMO DAY \| Online
+
+- Record: `luma-batch-Xn8sMlufqyme16Q`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-10-09T14:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/onlinedemod>
+
+### About the event
+
+Вирішальний момент - запітчи свій проєкт та отримай додаткові призи!
+
+Хакатон завершується, і до закриття сабмітів проєктів на Colosseum залишається зовсім трохи. Ті з вас, хто вже зможе показати своє MVP та запітчити нам, можуть позмагатися за додаткові призи окрім пулу на Ukrainian Sidetrack.SOLANA DEMO:
+
+1 місце - $1000 2 місце - $500 3 місце - $200
+
++ OPEN TRACK:[для проєктів на інших блокчейнах, кросчейн-рішень і не web3-продуктів] 1 місце - $500 2 місце - $200 3 місце - $100
+
+Перше місце отримає ідеальний пітч та готове MVP, демо якого ви продемонструєте.Рекомендуємо спланувати свою роботу під час хакатону так, аби на Demo Day ви вже мали готові пітчі. Отримаєте тут фідбек, та ще буде трохи часу, щоб покращити ваші подачі на Colosseum. Тож ловіть можливість, бо будь-яка робота має винагороджуватися!Пітчити лише англійською Підготуй пітчдек Демо продукту може бути в записі або продемонструй в лайві PROOF OF MONEY тут!
+
+Для того щоб виступити - обовʼязкова реєстрація.
+
+Якщо ти в Києві, то пітчи там !
+
+<a id="event-22160439b77441a7"></a>
+
+## SuperteamTR — Colosseum Office Hours
+
+- Record: `luma-batch-EHG2EAh4I63mIfb`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-10-09T16:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/vbow207k>
+
+### About the event
+
+Bring your blocker.
+
+Every Friday, we get builders in one room and work through whatever is slowing them down.
+
+Bring your:
+
+→ idea you're not sure about→ technical blocker→ pricing or distribution question→ repo, demo, deck or submission→ pitch that needs to be challenged→ scope that desperately needs cutting
+
+We'll help you figure out what's worth building, who would actually pay for it, what you can realistically ship by the deadline, and what needs fixing before submission.
+
+Sometimes the best part is hearing another team get challenged on the exact thing you haven't thought about yet.
+
+Every Friday, 19:00. One hour.
+
 <a id="event-d1cbf69ab45142cf"></a>
 
 ## はじめてのハッカソン！Yuki先生とAIでアイデアをカタチに｜OrbsCafe #25
@@ -31512,6 +32164,32 @@ https://x.com/JapanOrbs
 ༶ ༶ ༶ ༶ ༶ ༶ ༶ ༶ ༶ ༶ ༶ ༶ ༶
 
 ご参加前に必ず参加規約をお読みください
+
+<a id="event-ff0997225fa6d340"></a>
+
+## UKRAINIAN DEMO DAY \| Kyiv
+
+- Record: `luma-batch-asZtVgB6WBDcpt6`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-10-10T12:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/demodaykyiv>
+
+### About the event
+
+Вирішальний момент - запітчи свій проєкт та отримай додаткові призи!
+
+Хакатон завершується, і до закриття сабмітів проєктів на Colosseum залишається зовсім трохи. Ті з вас, хто вже зможе показати своє MVP та запітчити нам, можуть позмагатися за додаткові призи окрім пулу на Ukrainian Sidetrack.SOLANA DEMO:
+
+1 місце - $1000 2 місце - $500 3 місце - $200
+
++ OPEN TRACK:[для проєктів на інших блокчейнах, кросчейн-рішень і не web3-продуктів] 1 місце - $500 2 місце - $200 3 місце - $100
+
+Перше місце отримає ідеальний пітч та готове MVP, демо якого ви продемонструєте.Рекомендуємо спланувати свою роботу під час хакатону так, аби на Demo Day ви вже мали готові пітчі. Отримаєте тут фідбек, та ще буде трохи часу, щоб покращити ваші подачі на Colosseum. Тож ловіть можливість, бо будь-яка робота має винагороджуватися!Пітчити лише англійською Підготуй пітчдек Демо продукту може бути в записі або продемонструй в лайві PROOF OF MONEY тут!
+
+Адженда:
+
+15:00 - 18:00 | Demo пітчі18:00 - 19:00 | Нетворкінг та напої
 
 <a id="event-1b4c4a18a4196279"></a>
 
@@ -31656,6 +32334,62 @@ Bangkok (November 2024)
 Finally, here's one meme to sum up the vibe.
 
 See you in October!
+
+<a id="event-2f6187b3f4bf24be"></a>
+
+## Final Office Hours Before the Deadline
+
+- Record: `luma-batch-o5zAFWhqOEDAlNO`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-10-10T23:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/superteam-v4td>
+
+### About the event
+
+The last support window before submissions close.
+
+The deadline is tomorrow. This is the last scheduled support before it.
+
+Open drop-in for the first hour: bring anything that's still broken, unclear or unfinished. Member support slots run in the second hour for teams that want a final one-to-one review.
+
+If you're close but not certain you'll make it, come to this. A lot of projects that don't get submitted were finishable - they just ran out of people to ask.
+
+Who it's for: Anyone submitting tomorrow.
+
+You'll leave with: Whatever's left, sorted.
+
+Free and open. Drop in any time in the two hours.
+
+https://au.superteam.fun/colosseum for more information
+
+<a id="event-4fbefa3aafc10eca"></a>
+
+## Deadline Day Check-in
+
+- Record: `luma-batch-qBDGEmPcUp5hQOI`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-10-12T01:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/superteam-p637>
+
+### About the event
+
+A short drop-in on deadline day.
+
+Deadline day. This is an open room for an hour in the middle of the day, in case something breaks at the worst possible moment.
+
+No agenda and no presentation. If your video won't upload, your repo isn't public, your description won't fit, or you can't work out what a form field wants - come in and someone will help.
+
+Good luck. Submit early if you can; the platform is always slowest in the final hours.
+
+Who it's for: Anyone submitting today.
+
+You'll leave with: A submitted entry.
+
+Free and open. Drop in if you need it.
+
+https://au.superteam.fun/colosseum for more information
 
 <a id="event-0698c2a29dfea9fb"></a>
 
@@ -31945,6 +32679,38 @@ DJ xxxxxxx - Dark Wave
 
 The CoinHeads - Cypher Punk Meme Band
 
+<a id="event-a1813d508e53725e"></a>
+
+## Co-Working Fridays : London Chapter
+
+- Record: `luma-batch-0boKcuyLBEPRDoT`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-10-16T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/london-oct-16>
+
+### About the event
+
+Join SuperteamUK every Friday at our co-working space for builders, leaders and creatives at the frontier of tech in London (Every Friday: 10:00AM - 8:30PM)!
+
+Attendance is free but entry via approval only, so make sure to register and be accepted for your name to be on the guestlist.
+
+Come and meet and collaborate with like-minded developers & builders, discover new team members, and gain insights from industry leaders.
+
+On arrival you will receive your event wristband which must be worn at all times on site! Please keep the safe as you found it to represent the other members and venue staff.
+
+For more info, reach out to us on the Solana UK Telegram.
+
+### About Superteam UK
+
+Superteam is a global co-operative organised into regional non-profit organisations across 20+ countries focused on supporting founders and talent building at the frontier of tech.Learn more and apply for membership at superteamuk.org
+
+* This is a strictly invite-only event. Each ticket allows admission for one participant only. Do note that you will have to show the confirmation QR code/email of registration for approval for entry.
+
+** Limited spaces available, even after confirmation. Please arrive early to avoid disappointment.
+
+By signing up to this event you agree that Solana, The SRI, & SuperteamUK can capture any footage of you, and contact you directly about future events, major news, and more.
+
 <a id="event-55e8c1cd4e9b3ea9"></a>
 
 ## ステーブルコインから始まる、新しいデジタル金融体験 \| OrbsCafe#26
@@ -32031,6 +32797,82 @@ https://x.com/JapanOrbs
 
 ご参加前に必ず参加規約をお読みください
 
+<a id="event-381adee8c46f5df8"></a>
+
+## What's Next After Colosseum?
+
+- Record: `luma-batch-DDSCOZ2CsESUtZA`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-10-19T07:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/superteam-0tbb>
+
+### About the event
+
+The submission is in. Now what?
+
+Most hackathon projects die in the fortnight after the deadline. This session is about the ones that don't.
+
+We'll cover what's available once you have a working submission: Solana Foundation programs, grants, accelerators, and the introductions Superteam Australia can make. We'll also talk plainly about the harder question - whether the thing you built is worth continuing, and what it would take.
+
+Open to everyone who entered, whether or not you placed. Bring the question you've been avoiding.
+
+Who it's for: Anyone who submitted to Colosseum.
+
+You'll leave with: A realistic set of next steps, and the introductions to start them.
+
+Free and open.
+
+https://au.superteam.fun/colosseum for more information
+
+<a id="event-bf0d89ec87512aee"></a>
+
+## IslandDAO v5 🇧🇷
+
+- Record: `luma-batch-jR6a4UNcsq5XvJN`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-10-19T13:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/6laijuyn>
+
+### About the event
+
+Apply at https://islanddao.org/Register ONLY on the link above!
+
+The world class retreat of one month of coworking, connecting and networking with the top developers, founders, builders, investors in the Solana ecosystem is back and for the first time, we're going to LATAM.
+
+19 Oct- 11 Nov. 🇧🇷Florianópolis (Floripa), Brazil.
+
+Building
+
+Feedback sessions
+
+Investor days
+
+Hackathon
+
+Demo Day
+
+Work opportunities
+
+Fitness & Wellness
+
+and more
+
+https://x.com/islanddao/status/2085390922171228345?s=20
+
+Follow us:
+
+https://islanddao.org/
+
+https://x.com/islanddao
+
+https://www.youtube.com/@IslandDAO
+
+### Hosts
+
+Hosted by Takisoul, Superteam Brasil.
+
 <a id="event-adff9b2e7d307b4a"></a>
 
 ## CryptoMondays London October Event
@@ -32084,6 +32926,32 @@ Monday 19th October Location revealed upon registration 6:30-9:30pm
 Photography and videography will take place at this event. By attending, you consent to being filmed and photographed for promotional purposes. If you have any concerns, please inform the photographer or a member of the CML team.
 
 By registering for this event, you agree to receive occasional updates from CryptoMondays London, including event announcements and community opportunities. You can unsubscribe at any time.
+
+<a id="event-090838e7a64fe52e"></a>
+
+## Rust Melbourne Meetup
+
+- Record: `luma-batch-OZx1friXAoHVZKN`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-10-22T06:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/fdvdqkq9>
+
+### About the event
+
+Two talks on the night.
+
+Speaker Spots are still open - Please register your interest at rustmelbourne.com/speak
+
+Sponsored by Superteam Australia
+
+Superteam Australia backs builders in the Solana ecosystem. It connects Australian developers, founders and operators to grants, bounties, hackathons and a global network of Superteams. If you're building in Rust, you're already halfway to building on Solana. Come say hi.
+
+Venue: Stone & Chalk
+
+Hosted at Stone & Chalk Melbourne Startup Hub, 121 King St. Stone & Chalk is Australia's leading innovation community, home to hundreds of startups and scaleups across fintech and emerging tech. Thanks to the Stone & Chalk team for having us.
+
+Catering and drinks provided. Doors open 5.30pm
 
 <a id="event-d8af36fc60a3cad9"></a>
 
@@ -32148,6 +33016,100 @@ The event will once again take place at the Encode Hub - our community space for
 Partnership & Sponsorship
 
 Interested in sponsoring, partnering, or getting involved?Contact katerina@encode.club for more details.
+
+<a id="event-ce43e59053a4cd7b"></a>
+
+## Co-Working Fridays : London Chapter
+
+- Record: `luma-batch-9tJirJDFIno1LUr`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-10-23T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/london-oct-23>
+
+### About the event
+
+Join SuperteamUK every Friday at our co-working space for builders, leaders and creatives at the frontier of tech in London (Every Friday: 10:00AM - 8:30PM)!
+
+Attendance is free but entry via approval only, so make sure to register and be accepted for your name to be on the guestlist.
+
+Come and meet and collaborate with like-minded developers & builders, discover new team members, and gain insights from industry leaders.
+
+On arrival you will receive your event wristband which must be worn at all times on site! Please keep the safe as you found it to represent the other members and venue staff.
+
+For more info, reach out to us on the Solana UK Telegram.
+
+### About Superteam UK
+
+Superteam is a global co-operative organised into regional non-profit organisations across 20+ countries focused on supporting founders and talent building at the frontier of tech.Learn more and apply for membership at superteamuk.org
+
+* This is a strictly invite-only event. Each ticket allows admission for one participant only. Do note that you will have to show the confirmation QR code/email of registration for approval for entry.
+
+** Limited spaces available, even after confirmation. Please arrive early to avoid disappointment.
+
+By signing up to this event you agree that Solana, The SRI, & SuperteamUK can capture any footage of you, and contact you directly about future events, major news, and more.
+
+<a id="event-f10d979011302b0b"></a>
+
+## El Encuentro 🎩
+
+- Record: `luma-batch-JrwT6SseTVJgIBs`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-10-26T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/66thrqij>
+
+### About the event
+
+Toda la información y el programa: https://lafamilia.so/el-encuentro/
+
+Vuelve el evento insignia de La Familia, uno de los principales puntos de reunión del ecosistema Solana en España.
+
+El próximo 26 de octubre en Madrid, El Encuentro reunirá en un mismo espacio a builders, founders, developers, proyectos, comunidades, sponsors y referentes que están impulsando el crecimiento de Solana desde España y el mundo hispanohablante.
+
+Durante el evento tendremos charlas, paneles, workshops, activaciones y espacios de networking pensados para conectar a la comunidad, compartir conocimiento y acercar a quienes están construyendo dentro del ecosistema.
+
+Será un día para conocer proyectos, descubrir nuevas iniciativas, conectar con otros builders y formar parte de las conversaciones que están moviendo a Solana en España.
+
+Si estás construyendo, formas parte de una comunidad, lideras un proyecto o quieres estar más cerca del ecosistema, El Encuentro es el lugar para estar.
+
+Seguiremos compartiendo más información sobre la agenda, speakers y actividades confirmadas a través de nuestras redes sociales. No te pierdas las próximas actualizaciones aquí:
+
+Links: La Familia
+
+Nos vemos en El Encuentro 2026
+
+<a id="event-2b05fcde7e4d40db"></a>
+
+## Co-Working Fridays : London Chapter
+
+- Record: `luma-batch-k8AK0WzF9fIxpCI`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-10-30T10:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/london-oct-30>
+
+### About the event
+
+Join SuperteamUK every Friday at our co-working space for builders, leaders and creatives at the frontier of tech in London (Every Friday: 10:00AM - 8:30PM)!
+
+Attendance is free but entry via approval only, so make sure to register and be accepted for your name to be on the guestlist.
+
+Come and meet and collaborate with like-minded developers & builders, discover new team members, and gain insights from industry leaders.
+
+On arrival you will receive your event wristband which must be worn at all times on site! Please keep the safe as you found it to represent the other members and venue staff.
+
+For more info, reach out to us on the Solana UK Telegram.
+
+### About Superteam UK
+
+Superteam is a global co-operative organised into regional non-profit organisations across 20+ countries focused on supporting founders and talent building at the frontier of tech.Learn more and apply for membership at superteamuk.org
+
+* This is a strictly invite-only event. Each ticket allows admission for one participant only. Do note that you will have to show the confirmation QR code/email of registration for approval for entry.
+
+** Limited spaces available, even after confirmation. Please arrive early to avoid disappointment.
+
+By signing up to this event you agree that Solana, The SRI, & SuperteamUK can capture any footage of you, and contact you directly about future events, major news, and more.
 
 <a id="event-edcba3f36055d8e2"></a>
 
@@ -32313,6 +33275,22 @@ If you are early, curious, or already deep in the space, this is where you shoul
 
 Reserve your spot and show up ready to connect.
 
+<a id="event-ec722ebd44d55153"></a>
+
+## Community Call
+
+- Record: `luma-batch-KupO2QEcLws6KMf`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-11-05T17:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/8uhc300o>
+
+### About the event
+
+Hey! Get ready to dive into the world of Solana with our Community Call happening Thursday, Jul 3rd, 12:00 PM to 12:30 PM EDT. https://discord.gg/vgt4M7jJfGHosted by Simon, this is your golden ticket to connect, learn, and have a blast with fellow enthusiasts. Whether you're a seasoned pro or just starting out, there's something for everyone.
+
+Join us on Discord for 30 minutes packed with insights, advice, and all things Superteam Canada.Got questions? Bring 'em on! Want to get more involved? This is your chance! Can't wait to see you there!
+
 <a id="event-dbebf1c5328edd3d"></a>
 
 ## MONEY MAKER
@@ -32334,6 +33312,38 @@ Hosted by namic (Summoner of Money League).
 ### Event details
 
 The event takes place on November 6. Venue: IFBE, IFBE, 10-12, Calicut Rd, Ballard Estate, Fort, Mumbai, Maharashtra 400001, India.
+
+<a id="event-1451cd45de3d4469"></a>
+
+## Co-Working Fridays : London Chapter
+
+- Record: `luma-batch-Qzy0En8R3B1O2Rp`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-11-06T10:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/london-nov-06>
+
+### About the event
+
+Join SuperteamUK every Friday at our co-working space for builders, leaders and creatives at the frontier of tech in London (Every Friday: 10:00AM - 8:30PM)!
+
+Attendance is free but entry via approval only, so make sure to register and be accepted for your name to be on the guestlist.
+
+Come and meet and collaborate with like-minded developers & builders, discover new team members, and gain insights from industry leaders.
+
+On arrival you will receive your event wristband which must be worn at all times on site! Please keep the safe as you found it to represent the other members and venue staff.
+
+For more info, reach out to us on the Solana UK Telegram.
+
+### About Superteam UK
+
+Superteam is a global co-operative organised into regional non-profit organisations across 20+ countries focused on supporting founders and talent building at the frontier of tech.Learn more and apply for membership at superteamuk.org
+
+* This is a strictly invite-only event. Each ticket allows admission for one participant only. Do note that you will have to show the confirmation QR code/email of registration for approval for entry.
+
+** Limited spaces available, even after confirmation. Please arrive early to avoid disappointment.
+
+By signing up to this event you agree that Solana, The SRI, & SuperteamUK can capture any footage of you, and contact you directly about future events, major news, and more.
 
 <a id="event-5504fab10789d9ab"></a>
 
@@ -32420,6 +33430,38 @@ Hosted by Carolyn Wyatt.
 ### Tickets
 
 Ticket options include General Admission at USD899, General Admission PLUS at USD1099, VIP at USD1999, Allocator (free), Blockworks Research at USD399.
+
+<a id="event-51a48439b7a1dbf6"></a>
+
+## Co-Working Fridays : London Chapter
+
+- Record: `luma-batch-tb3bhmuaB0JH86P`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-11-13T10:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/london-nov-13>
+
+### About the event
+
+Join SuperteamUK every Friday at our co-working space for builders, leaders and creatives at the frontier of tech in London (Every Friday: 10:00AM - 8:30PM)!
+
+Attendance is free but entry via approval only, so make sure to register and be accepted for your name to be on the guestlist.
+
+Come and meet and collaborate with like-minded developers & builders, discover new team members, and gain insights from industry leaders.
+
+On arrival you will receive your event wristband which must be worn at all times on site! Please keep the safe as you found it to represent the other members and venue staff.
+
+For more info, reach out to us on the Solana UK Telegram.
+
+### About Superteam UK
+
+Superteam is a global co-operative organised into regional non-profit organisations across 20+ countries focused on supporting founders and talent building at the frontier of tech.Learn more and apply for membership at superteamuk.org
+
+* This is a strictly invite-only event. Each ticket allows admission for one participant only. Do note that you will have to show the confirmation QR code/email of registration for approval for entry.
+
+** Limited spaces available, even after confirmation. Please arrive early to avoid disappointment.
+
+By signing up to this event you agree that Solana, The SRI, & SuperteamUK can capture any footage of you, and contact you directly about future events, major news, and more.
 
 <a id="event-86e691fb2d4b6b7e"></a>
 
