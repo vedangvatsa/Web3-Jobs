@@ -1434,10 +1434,11 @@
   },
   "8104748": {
     "slugs": [
-      "operations102"
+      "operations102",
+      "operations04748"
     ],
-    "lastSlug": "operations102",
-    "lastUrl": "https://hashtagweb3.com/operations102",
+    "lastSlug": "operations04748",
+    "lastUrl": "https://hashtagweb3.com/operations04748",
     "updatedAt": "2026-09-22T15:39:31.272Z"
   },
   "8109575": {
@@ -1628,10 +1629,12 @@
   },
   "8162914": {
     "slugs": [
-      "manager572"
+      "manager572",
+      "manager62914",
+      "manager217"
     ],
-    "lastSlug": "manager572",
-    "lastUrl": "https://hashtagweb3.com/manager572",
+    "lastSlug": "manager217",
+    "lastUrl": "https://hashtagweb3.com/manager217",
     "updatedAt": "2026-09-22T15:39:31.603Z"
   },
   "8173047": {
@@ -1671,10 +1674,12 @@
   },
   "4077889008": {
     "slugs": [
-      "analyst10"
+      "analyst10",
+      "analyst89008",
+      "analyst-0kiq661"
     ],
-    "lastSlug": "analyst10",
-    "lastUrl": "https://hashtagweb3.com/analyst10",
+    "lastSlug": "analyst-0kiq661",
+    "lastUrl": "https://hashtagweb3.com/analyst-0kiq661",
     "updatedAt": "2026-09-22T15:39:30.374Z"
   },
   "7791118003": {
@@ -5775,10 +5780,11 @@
   },
   "2d2c336c-16e7-4f27-b0cd-5bb6055cdf21": {
     "slugs": [
-      "analyst186"
+      "analyst186",
+      "analystcdf21"
     ],
-    "lastSlug": "analyst186",
-    "lastUrl": "https://hashtagweb3.com/analyst186",
+    "lastSlug": "analystcdf21",
+    "lastUrl": "https://hashtagweb3.com/analystcdf21",
     "updatedAt": "2026-09-22T15:39:30.934Z"
   },
   "8769252002": {
@@ -5788,5 +5794,45 @@
     "lastSlug": "mkt",
     "lastUrl": "https://hashtagweb3.com/mkt",
     "updatedAt": "2026-09-22T15:39:31.386Z"
+  },
+  "tangem-system-analyst-us-equities-integration": {
+    "slugs": [
+      "analyst175"
+    ],
+    "lastSlug": "analyst175",
+    "lastUrl": "https://hashtagweb3.com/analyst175",
+    "updatedAt": "2026-09-22T19:45:24.797Z"
+  },
+  "JR101073": {
+    "slugs": [
+      "marketing111"
+    ],
+    "lastSlug": "marketing111",
+    "lastUrl": "https://hashtagweb3.com/marketing111",
+    "updatedAt": "2026-09-22T19:45:25.108Z"
+  },
+  "4956782101": {
+    "slugs": [
+      "manager512"
+    ],
+    "lastSlug": "manager512",
+    "lastUrl": "https://hashtagweb3.com/manager512",
+    "updatedAt": "2026-09-22T19:45:25.306Z"
+  },
+  "7fa2cc83-7fe1-4340-b6f7-43ef3fe1b87d": {
+    "slugs": [
+      "eng27"
+    ],
+    "lastSlug": "eng27",
+    "lastUrl": "https://hashtagweb3.com/eng27",
+    "updatedAt": "2026-09-22T19:45:25.562Z"
+  },
+  "5377636008": {
+    "slugs": [
+      "manager391"
+    ],
+    "lastSlug": "manager391",
+    "lastUrl": "https://hashtagweb3.com/manager391",
+    "updatedAt": "2026-09-22T19:45:26.259Z"
   }
 }

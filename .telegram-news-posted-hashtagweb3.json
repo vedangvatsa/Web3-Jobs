@@ -590,6 +590,9 @@
   "https://hashtagweb3.com/coinbase-oura?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/ondo-shares?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/x-payout?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/animoca-currenc?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://decrypt.co/378978/white-hat-hackers-coldcard-exploit-bitcoin-recovery-trust",
+  "https://decrypt.co/378986/openai-launches-gpt-6-sol-luna-anthropic-claude-opus-5-5",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -1678,6 +1681,12 @@
   "Ondo Opens In-Kind Route for Tokenized Stocks With Alpaca",
   "X Sues Account Operators Over Fraudulent Creator Payouts",
   "X Sues Operators of Six Bitcoin Accounts Over Creator Payouts",
+  "Animoca Brands and Currenc Group Suspend Nasdaq Listing Merger",
+  "Animoca Brands Pauses Currenc Merger and Nasdaq Listing Plan",
+  "Canada's major banks launch interbank tokenized deposit initiative",
+  "White-Hat Hackers Route Coldcard Exploit Bitcoin Into 'Recovery Trust'",
+  "OpenAI and Anthropic Release New AI Models Simultaneously",
+  "OpenAI Launches GPT-6 Sol and Luna Minutes After Anthropic Drops Claude Opus 5.5",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -1818,5 +1827,8 @@
   "fp:back|borrow|can|circl|client|collateraliz|cryptocurrency|institution|institutional|investor",
   "fp:access|allocation|can|coinbas|customer|eligibl|featur|ipo|list|nasdaq",
   "fp:alpaca|approv|bnb|can|chain|exchang|financ|institution|inventory|kind",
-  "fp:account|claim|court|creator|fil|firm|focus|fraudulent|high|invalid"
+  "fp:account|claim|court|creator|fil|firm|focus|fraudulent|high|invalid",
+  "fp:animoca|brand|combin|currenc|firm|given|group|hav|list|merger",
+  "fp:are|bank|canada|canadian|coldcard|commercial|deposit|digital|exploit|financial",
+  "fp:anthropic|both|compet|day|drop|gpt6|luna|market|minut|openai"
 ]

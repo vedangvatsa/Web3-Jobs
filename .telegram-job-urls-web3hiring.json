@@ -139,6 +139,14 @@
     "lastUrl": "https://hashtagweb3.com/engineer-0d86t6b",
     "updatedAt": "2026-09-15T19:45:20.273Z"
   },
+  "7944515": {
+    "slugs": [
+      "sls30"
+    ],
+    "lastSlug": "sls30",
+    "lastUrl": "https://hashtagweb3.com/sls30",
+    "updatedAt": "2026-09-22T19:45:21.840Z"
+  },
   "7953987": {
     "slugs": [
       "sales126",
@@ -797,6 +805,14 @@
     "lastSlug": "pm20",
     "lastUrl": "https://hashtagweb3.com/pm20",
     "updatedAt": "2026-09-16T15:34:49.806Z"
+  },
+  "8214142": {
+    "slugs": [
+      "sec36"
+    ],
+    "lastSlug": "sec36",
+    "lastUrl": "https://hashtagweb3.com/sec36",
+    "updatedAt": "2026-09-22T19:45:22.371Z"
   },
   "90714033": {
     "slugs": [
@@ -2897,26 +2913,37 @@
   },
   "2cf26399-8db1-48af-adfa-3c51b923e12d": {
     "slugs": [
-      "analyst85"
+      "analyst85",
+      "analyst94718",
+      "analyst104",
+      "analyst-0xbh4zl",
+      "analyst3e12d"
     ],
-    "lastSlug": "analyst85",
-    "lastUrl": "https://hashtagweb3.com/analyst85",
+    "lastSlug": "analyst3e12d",
+    "lastUrl": "https://hashtagweb3.com/analyst3e12d",
     "updatedAt": "2026-09-22T15:39:27.546Z"
   },
   "tangem-swift-blockchain-developer": {
     "slugs": [
-      "developer52"
+      "developer52",
+      "developer1",
+      "swift-blockchain",
+      "developerf2bd8"
     ],
-    "lastSlug": "developer52",
-    "lastUrl": "https://hashtagweb3.com/developer52",
+    "lastSlug": "developerf2bd8",
+    "lastUrl": "https://hashtagweb3.com/developerf2bd8",
     "updatedAt": "2026-09-22T15:39:27.728Z"
   },
   "e3ae823d-44fa-4f50-bd76-454c1e178cd9": {
     "slugs": [
-      "backend114"
+      "backend114",
+      "backend78cd9",
+      "backend122",
+      "backend43",
+      "backend-0f3357r"
     ],
-    "lastSlug": "backend114",
-    "lastUrl": "https://hashtagweb3.com/backend114",
+    "lastSlug": "backend-0f3357r",
+    "lastUrl": "https://hashtagweb3.com/backend-0f3357r",
     "updatedAt": "2026-09-22T15:39:27.800Z"
   },
   "8827433002": {
@@ -2934,5 +2961,29 @@
     "lastSlug": "cmp23",
     "lastUrl": "https://hashtagweb3.com/cmp23",
     "updatedAt": "2026-09-22T15:39:28.099Z"
+  },
+  "7834182003": {
+    "slugs": [
+      "marketing165"
+    ],
+    "lastSlug": "marketing165",
+    "lastUrl": "https://hashtagweb3.com/marketing165",
+    "updatedAt": "2026-09-22T19:45:22.070Z"
+  },
+  "f4166c80-0fd6-4149-8c7b-8bd23334c472": {
+    "slugs": [
+      "customer22"
+    ],
+    "lastSlug": "customer22",
+    "lastUrl": "https://hashtagweb3.com/customer22",
+    "updatedAt": "2026-09-22T19:45:22.290Z"
+  },
+  "forward-deployed-engineer": {
+    "slugs": [
+      "engineer913"
+    ],
+    "lastSlug": "engineer913",
+    "lastUrl": "https://hashtagweb3.com/engineer913",
+    "updatedAt": "2026-09-22T19:45:22.552Z"
   }
 }
