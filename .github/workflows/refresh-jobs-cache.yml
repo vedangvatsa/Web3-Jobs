@@ -8,9 +8,10 @@ name: Publish Jobs, Events & Social
 #
 # morning (03:30 UTC): ingest, news drafts, one Firebase rollout, then
 # Resend alerts, social, and Telegram. Auto-deploy stays off.
-# afternoon (11:30 UTC) and evening (19:30 UTC): social + Telegram only,
-# and only for pages already on the live site. Their commits wait for
-# the next morning rollout.
+# If that morning run never starts, the next slot the same UTC day runs
+# the morning work instead of skipping it.
+# afternoon (11:30 UTC) and evening (19:30 UTC): social + Telegram, after
+# the morning work for that date has already completed.
 
 on:
   schedule:
@@ -84,25 +85,30 @@ jobs:
             SLOT="${INPUT:-morning}"
           fi
           case "$SLOT" in
-            morning)
-              echo "morning=true" >> "$GITHUB_OUTPUT"
-              echo "social=true" >> "$GITHUB_OUTPUT"
-              ;;
-            afternoon|evening)
-              echo "morning=false" >> "$GITHUB_OUTPUT"
-              echo "social=true" >> "$GITHUB_OUTPUT"
-              ;;
+            morning|afternoon|evening) ;;
             *)
               echo "Unknown slot: $SLOT" >&2
               exit 1
               ;;
           esac
+          echo "social=true" >> "$GITHUB_OUTPUT"
           echo "slot=$SLOT" >> "$GITHUB_OUTPUT"
           TODAY=$(date -u +%F)
           STATE="scripts/social/publish-slot-state.json"
           DONE=""
+          MORNING_DONE=""
           if [ -f "$STATE" ]; then
             DONE=$(node -e "const fs=require('fs'); const s=JSON.parse(fs.readFileSync(process.argv[1],'utf8')); process.stdout.write(s[process.argv[2]]||'')" "$STATE" "$SLOT")
+            MORNING_DONE=$(node -e "const fs=require('fs'); const s=JSON.parse(fs.readFileSync(process.argv[1],'utf8')); process.stdout.write(s.morning||'')" "$STATE")
+          fi
+          # Morning work is not tied to the 03:30 cron string. GitHub often
+          # never delivers that event, and the later slots used to skip
+          # ingest, news, and email for the whole day.
+          if [ "$SLOT" = "morning" ] || [ "$MORNING_DONE" != "$TODAY" ]; then
+            echo "morning=true" >> "$GITHUB_OUTPUT"
+            echo "Morning work is due (slot=$SLOT, morning stamp=${MORNING_DONE:-none})."
+          else
+            echo "morning=false" >> "$GITHUB_OUTPUT"
           fi
           if [ "$DONE" = "$TODAY" ]; then
             echo "skip=true" >> "$GITHUB_OUTPUT"
@@ -128,7 +134,7 @@ jobs:
 
   job-alerts:
     needs: [gate, ingest, deploy]
-    if: ${{ always() && needs.gate.outputs.skip != 'true' && needs.gate.outputs.morning == 'true' && needs.deploy.result == 'success' }}
+    if: ${{ always() && needs.gate.outputs.skip != 'true' && needs.gate.outputs.morning == 'true' && needs.ingest.result == 'success' && needs.deploy.result != 'cancelled' }}
     permissions:
       contents: write
     uses: ./.github/workflows/daily-job-alerts.yml
@@ -136,7 +142,7 @@ jobs:
 
   post-openings:
     needs: [gate, ingest, deploy]
-    if: ${{ always() && needs.gate.outputs.skip != 'true' && needs.gate.outputs.social == 'true' && needs.ingest.result != 'cancelled' && (needs.gate.outputs.morning != 'true' || needs.deploy.result == 'success') }}
+    if: ${{ always() && needs.gate.outputs.skip != 'true' && needs.gate.outputs.social == 'true' && needs.ingest.result != 'cancelled' && needs.deploy.result != 'cancelled' }}
     permissions:
       contents: write
       checks: read
@@ -221,7 +227,7 @@ jobs:
 
   refresh-and-post:
     needs: [gate, ingest, deploy]
-    if: ${{ always() && needs.gate.outputs.skip != 'true' && needs.gate.outputs.social == 'true' && needs.ingest.result != 'cancelled' && (needs.gate.outputs.morning != 'true' || needs.deploy.result == 'success') && github.event.inputs.diagnose_telegram != 'true' }}
+    if: ${{ always() && needs.gate.outputs.skip != 'true' && needs.gate.outputs.social == 'true' && needs.ingest.result != 'cancelled' && needs.deploy.result != 'cancelled' && github.event.inputs.diagnose_telegram != 'true' }}
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -372,19 +378,55 @@ jobs:
 
   record-slot:
     needs: [gate, ingest, publish-news, deploy, job-alerts, post-openings, refresh-and-post]
-    if: ${{ always() && needs.gate.outputs.skip != 'true' && needs.gate.result == 'success' && needs.ingest.result != 'failure' && needs.ingest.result != 'cancelled' && (needs.gate.outputs.morning != 'true' || needs.deploy.result == 'success') && needs.job-alerts.result != 'failure' && needs.job-alerts.result != 'cancelled' && needs.post-openings.result != 'failure' && needs.post-openings.result != 'cancelled' && needs.publish-news.result != 'failure' && needs.publish-news.result != 'cancelled' && needs.refresh-and-post.result != 'failure' && needs.refresh-and-post.result != 'cancelled' }}
+    if: ${{ always() && needs.gate.outputs.skip != 'true' && needs.gate.result == 'success' }}
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
       - uses: actions/checkout@v4
+      - name: Fail if a due job was skipped
+        env:
+          MORNING: ${{ needs.gate.outputs.morning }}
+          SOCIAL: ${{ needs.gate.outputs.social }}
+          INGEST: ${{ needs.ingest.result }}
+          NEWS: ${{ needs.publish-news.result }}
+          ALERTS: ${{ needs.job-alerts.result }}
+          POSTS: ${{ needs.post-openings.result }}
+          TELEGRAM: ${{ needs.refresh-and-post.result }}
+        run: |
+          set -euo pipefail
+          fail=0
+          if [ "$MORNING" = "true" ]; then
+            for pair in "ingest:$INGEST" "publish-news:$NEWS" "job-alerts:$ALERTS"; do
+              name="${pair%%:*}"
+              result="${pair#*:}"
+              if [ "$result" != "success" ]; then
+                echo "$name was $result — morning work must run, not skip."
+                fail=1
+              fi
+            done
+          fi
+          if [ "$SOCIAL" = "true" ]; then
+            for pair in "post-openings:$POSTS" "refresh-and-post:$TELEGRAM"; do
+              name="${pair%%:*}"
+              result="${pair#*:}"
+              if [ "$result" != "success" ]; then
+                echo "$name was $result — the publish slot must run, not skip."
+                fail=1
+              fi
+            done
+          fi
+          if [ "$fail" != "0" ]; then
+            exit 1
+          fi
       - name: Record completed slot so a late GitHub cron does not run it again
         run: |
           set -euo pipefail
           SLOT="${{ needs.gate.outputs.slot }}"
+          MORNING="${{ needs.gate.outputs.morning }}"
           TODAY=$(date -u +%F)
           STATE="scripts/social/publish-slot-state.json"
-          node -e "const fs=require('fs'); const p=process.argv[1]; const s=fs.existsSync(p)?JSON.parse(fs.readFileSync(p,'utf8')):{}; s[process.argv[2]]=process.argv[3]; fs.writeFileSync(p, JSON.stringify(s,null,2)+'\n');" "$STATE" "$SLOT" "$TODAY"
+          node -e "const fs=require('fs'); const p=process.argv[1]; const s=fs.existsSync(p)?JSON.parse(fs.readFileSync(p,'utf8')):{}; s[process.argv[2]]=process.argv[3]; if (process.argv[4]==='true') s.morning=process.argv[3]; fs.writeFileSync(p, JSON.stringify(s,null,2)+'\n');" "$STATE" "$SLOT" "$TODAY" "$MORNING"
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add "$STATE"

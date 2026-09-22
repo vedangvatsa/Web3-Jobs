@@ -12,7 +12,7 @@ const threadId = process.env.TELEGRAM_THREAD_ID;
 const dryRun = process.argv.includes('--dry-run');
 const statePath = path.join(process.cwd(), `.telegram-events-posted-${(channelId || '').replace(/[^a-zA-Z0-9]/g, '')}.json`);
 const cooldownPath = path.join(process.cwd(), `.telegram-events-last-${(channelId || '').replace(/[^a-zA-Z0-9]/g, '')}.json`);
-const cooldownHours = 6;
+const cooldownHours = 4;
 const web3Title = /\b(web3|crypto|blockchain|bitcoin|btc|ethereum|eth\w*|defi|solana|arbitrum|optimism|base|polygon|chainlink|avalanche|avax|zk|zero knowledge|onchain|on-chain|token|stablecoin|wallet|dapp|smart contract|hackathon)\b/i;
 
 if (!dryRun && (!botToken || !channelId || !threadId)) {

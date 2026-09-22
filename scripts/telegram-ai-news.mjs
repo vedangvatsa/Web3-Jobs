@@ -32,7 +32,7 @@ const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 const STORIES_PER_POST = 3;
 // Cadence is ~8h (03:30 / 11:30 / 19:30 UTC). Keep cooldown under that with
 // margin for GitHub cron drift and long earlier steps (~10–15m).
-const POST_COOLDOWN_HOURS = Number(process.env.NEWS_COOLDOWN_HOURS || 6);
+const POST_COOLDOWN_HOURS = Number(process.env.NEWS_COOLDOWN_HOURS || 4);
 const FORCE_POST = process.argv.includes('--force') || process.env.FORCE_NEWS === '1';
 const POSTED_LOG = path.join(path.dirname(new URL(import.meta.url).pathname), '../.telegram-ai-news-posted.json');
 const LAST_POST_FILE = path.join(path.dirname(new URL(import.meta.url).pathname), '../.telegram-ai-news-last.json');

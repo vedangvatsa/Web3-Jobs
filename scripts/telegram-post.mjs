@@ -38,7 +38,7 @@ const CTA_URL = 'https://hashtagweb3.com?utm_source=telegram&utm_medium=social&u
 const channelSlug = (CHANNEL_ID || '').replace(/[^a-zA-Z0-9]/g, '');
 const POSTED_LOG = path.join(path.dirname(new URL(import.meta.url).pathname), `../.telegram-posted-${channelSlug}.json`);
 const URL_LOG = path.join(path.dirname(new URL(import.meta.url).pathname), `../.telegram-job-urls-${channelSlug}.json`);
-const POST_COOLDOWN_HOURS = 7;
+const POST_COOLDOWN_HOURS = 4;
 const LAST_POST_FILE = path.join(path.dirname(new URL(import.meta.url).pathname), `../.telegram-posted-last-${channelSlug}.json`);
 
 if (!BOT_TOKEN || !CHANNEL_ID) {
@@ -403,7 +403,8 @@ async function sendToTelegram(message) {
 
 // ── Post once ──
 async function postOnce() {
-  // ── 8-hour cooldown ──
+  // Slots are 8h apart, but GitHub often delivers the next one ~5h later.
+  // A 7h cooldown then skips the post. 4h still blocks an immediate retry.
   try {
     const last = JSON.parse(fs.readFileSync(LAST_POST_FILE, 'utf8'));
     const hoursSince = (Date.now() - new Date(last.postedAt).getTime()) / (1000 * 60 * 60);

@@ -32,7 +32,7 @@ const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 const STORIES_PER_POST = 3;
 // Cadence is ~8h (03:30 / 11:30 / 19:30 UTC). Keep cooldown under that with
 // margin for GitHub cron drift and long earlier steps (~10–15m).
-const POST_COOLDOWN_HOURS = Number(process.env.NEWS_COOLDOWN_HOURS || 6);
+const POST_COOLDOWN_HOURS = Number(process.env.NEWS_COOLDOWN_HOURS || 4);
 const FORCE_POST = process.argv.includes('--force') || process.env.FORCE_NEWS === '1';
 const CTA_URL = 'https://hashtagweb3.com/news/tg?utm_source=telegram&utm_medium=social&utm_campaign=news_digest';
 const SITE_URL = 'https://hashtagweb3.com';
@@ -396,7 +396,7 @@ async function sendToTelegram(message) {
 
 // ── Main ──
 async function postOnce() {
-  // ── 8-hour cooldown ──
+  // 4h, not 6h: delayed GitHub slots land inside a 6h window and the digest is skipped.
   try {
     const last = JSON.parse(fs.readFileSync(LAST_POST_FILE, 'utf8'));
     const hoursSince = (Date.now() - new Date(last.postedAt).getTime()) / (1000 * 60 * 60);
