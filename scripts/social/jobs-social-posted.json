@@ -1,5 +1,5 @@
 {
-  "lastIndex": 217,
+  "lastIndex": 219,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -106,7 +106,9 @@
     "sls68",
     "mgr37",
     "sls65",
-    "eng102"
+    "eng102",
+    "par",
+    "cf"
   ],
   "history": [
     {
@@ -7199,6 +7201,424 @@
       "platform": "facebook",
       "postedAt": "2026-09-22T15:43:40.805Z",
       "postId": "691827047618629_1095076089766292",
+      "verification": "verified"
+    },
+    {
+      "slug": "par",
+      "company": "Swan Bitcoin",
+      "title": "Head of Partnerships",
+      "platform": "threads",
+      "postedAt": "2026-09-22T19:42:13.958Z",
+      "postId": "18021436127873468",
+      "verification": "verified",
+      "expectedText": "Swan Bitcoin is hiring Head of Partnerships: https://hashtagweb3.com/par/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DdmgukiFO5u",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "par",
+      "company": "Swan Bitcoin",
+      "title": "Head of Partnerships",
+      "platform": "bluesky",
+      "postedAt": "2026-09-22T19:42:13.958Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mw4ycj6tcl2i",
+      "verification": "verified"
+    },
+    {
+      "slug": "par",
+      "company": "Swan Bitcoin",
+      "title": "Head of Partnerships",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T19:42:13.958Z",
+      "postId": "0x0085dc3bf652be14275f2ffc53e8e8130f551b99",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "par",
+      "company": "Swan Bitcoin",
+      "title": "Head of Partnerships",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T19:42:13.958Z",
+      "postId": "0x4d2b53ef6e9379db879b19d68e9a7dda829988b9",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "par",
+      "company": "Swan Bitcoin",
+      "title": "Head of Partnerships",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T19:42:13.958Z",
+      "postId": "0xffc0810c54942102e7e3888f93030ebe3b772b48",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "par",
+      "company": "Swan Bitcoin",
+      "title": "Head of Partnerships",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T19:42:13.958Z",
+      "postId": "0xe34217e390a3fc01768e76c3d18a8ba3cbc27f97",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "par",
+      "company": "Swan Bitcoin",
+      "title": "Head of Partnerships",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T19:42:13.958Z",
+      "postId": "0xc9b6c2d111ff55755c2f6771e0fbbe20e3bc621d",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "par",
+      "company": "Swan Bitcoin",
+      "title": "Head of Partnerships",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T19:42:13.958Z",
+      "postId": "0x4556233d98a77e768128db40f2c4f1ee17df1d0f",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "par",
+      "company": "Swan Bitcoin",
+      "title": "Head of Partnerships",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T19:42:13.958Z",
+      "postId": "0xadd6bf56c42c0d3e390b0880b8e884dc49303c6a",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "par",
+      "company": "Swan Bitcoin",
+      "title": "Head of Partnerships",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T19:42:13.958Z",
+      "postId": "0x009c51cf8f15fdd87d048e6ee3f6fd9f006116e4",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "par",
+      "company": "Swan Bitcoin",
+      "title": "Head of Partnerships",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T19:42:13.958Z",
+      "postId": "0xb48338985175b66257ad352a78cb3e32330c9aa4",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "par",
+      "company": "Swan Bitcoin",
+      "title": "Head of Partnerships",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T19:42:13.958Z",
+      "postId": "0xe6ac9c1345266455818c5aa90dee8a21ce274fe5",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "par",
+      "company": "Swan Bitcoin",
+      "title": "Head of Partnerships",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T19:42:13.958Z",
+      "postId": "0x150796920428bf8f7de22288c4d9cfe5d8dc63c8",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "par",
+      "company": "Swan Bitcoin",
+      "title": "Head of Partnerships",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T19:42:13.958Z",
+      "postId": "0xbaab0f8a91870a60707e68c7a952730da97742e8",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "par",
+      "company": "Swan Bitcoin",
+      "title": "Head of Partnerships",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T19:42:13.958Z",
+      "postId": "0x8ff34794269441042e27f441f7837c9e1b870724",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "par",
+      "company": "Swan Bitcoin",
+      "title": "Head of Partnerships",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T19:42:13.958Z",
+      "postId": "0xc936b3b5bbd479473bf2e05b4f60a4e96bb39689",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "par",
+      "company": "Swan Bitcoin",
+      "title": "Head of Partnerships",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T19:42:13.958Z",
+      "postId": "0x9a232888657b715de6d2b27bfdc985073154fd9d",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "par",
+      "company": "Swan Bitcoin",
+      "title": "Head of Partnerships",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T19:42:13.958Z",
+      "postId": "0x75c40bfe028e64e764f953e93362e301c92017fa",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "par",
+      "company": "Swan Bitcoin",
+      "title": "Head of Partnerships",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T19:42:13.958Z",
+      "postId": "0xe960ace20517d4a78ff6e2d806858c231ab273a3",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "par",
+      "company": "Swan Bitcoin",
+      "title": "Head of Partnerships",
+      "platform": "linkedin",
+      "postedAt": "2026-09-22T19:42:13.958Z",
+      "postId": "6ab2da26577f06759716fe81",
+      "verification": "verified"
+    },
+    {
+      "slug": "par",
+      "company": "Swan Bitcoin",
+      "title": "Head of Partnerships",
+      "platform": "facebook",
+      "postedAt": "2026-09-22T19:42:13.958Z",
+      "postId": "691827047618629_1095233763083858",
+      "verification": "verified"
+    },
+    {
+      "slug": "cf",
+      "company": "Polymarket",
+      "title": "CFO, FCM",
+      "platform": "threads",
+      "postedAt": "2026-09-22T19:42:50.904Z",
+      "postId": "18127706941699986",
+      "verification": "verified",
+      "expectedText": "Polymarket is hiring CFO, FCM: https://hashtagweb3.com/cf/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DdmgzAelAyA",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "cf",
+      "company": "Polymarket",
+      "title": "CFO, FCM",
+      "platform": "bluesky",
+      "postedAt": "2026-09-22T19:42:50.904Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mw4ydl5xun24",
+      "verification": "verified"
+    },
+    {
+      "slug": "cf",
+      "company": "Polymarket",
+      "title": "CFO, FCM",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T19:42:50.904Z",
+      "postId": "0x30f6c053a78156c24b30ee81fad12dd0a50a8990",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "cf",
+      "company": "Polymarket",
+      "title": "CFO, FCM",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T19:42:50.904Z",
+      "postId": "0xd23f768b9492221de10d852e0e2522c2fdf8187a",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "cf",
+      "company": "Polymarket",
+      "title": "CFO, FCM",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T19:42:50.904Z",
+      "postId": "0x7d0ef142aa40bbdc3e692ed3b9c9eb88ced7f97a",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "cf",
+      "company": "Polymarket",
+      "title": "CFO, FCM",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T19:42:50.904Z",
+      "postId": "0x8893a9f54668a8f1647ab87bad2a354513c749b3",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "cf",
+      "company": "Polymarket",
+      "title": "CFO, FCM",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T19:42:50.904Z",
+      "postId": "0x8468fbabff128c7f8eb53924971a6316d657ca33",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "cf",
+      "company": "Polymarket",
+      "title": "CFO, FCM",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T19:42:50.904Z",
+      "postId": "0xe5f31293cf2d615c3d281552c38a76de1853a63c",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "cf",
+      "company": "Polymarket",
+      "title": "CFO, FCM",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T19:42:50.904Z",
+      "postId": "0xf8d9f3f87dd93691197212ac48285ac5cdd6d37e",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "cf",
+      "company": "Polymarket",
+      "title": "CFO, FCM",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T19:42:50.904Z",
+      "postId": "0xf6716ee79e85c82168ad17092b67fc22eb79bca9",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "cf",
+      "company": "Polymarket",
+      "title": "CFO, FCM",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T19:42:50.904Z",
+      "postId": "0x34ea249592d92bd818f08d14f85e2ec1d31f7b80",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "cf",
+      "company": "Polymarket",
+      "title": "CFO, FCM",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T19:42:50.904Z",
+      "postId": "0xde24649a41df3f85ec1809ba4d6a700875141c5b",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "cf",
+      "company": "Polymarket",
+      "title": "CFO, FCM",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T19:42:50.904Z",
+      "postId": "0x8f8ad0c6b16cd98c7fa5ee88506292d915c07d90",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "cf",
+      "company": "Polymarket",
+      "title": "CFO, FCM",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T19:42:50.904Z",
+      "postId": "0x5ec2e5dc06c40560ad5e1a9d1218261d1716be6e",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "cf",
+      "company": "Polymarket",
+      "title": "CFO, FCM",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T19:42:50.904Z",
+      "postId": "0xfb612829a07e6d3b9a9553b5012c9c36eb594d88",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "cf",
+      "company": "Polymarket",
+      "title": "CFO, FCM",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T19:42:50.904Z",
+      "postId": "0x805bca206690c7b856ec80dad6156eacfe39dde4",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "cf",
+      "company": "Polymarket",
+      "title": "CFO, FCM",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T19:42:50.904Z",
+      "postId": "0xc7eb188c98e6fb045a9045d9a3eedfce9fe24013",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "cf",
+      "company": "Polymarket",
+      "title": "CFO, FCM",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T19:42:50.904Z",
+      "postId": "0xd8a3fe8438b196232fb17d774d4a1025a6db45b5",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "cf",
+      "company": "Polymarket",
+      "title": "CFO, FCM",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T19:42:50.904Z",
+      "postId": "0xa6ed4fb8b8ee941559ba4bf67a239e1603830b0f",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "cf",
+      "company": "Polymarket",
+      "title": "CFO, FCM",
+      "platform": "linkedin",
+      "postedAt": "2026-09-22T19:42:50.904Z",
+      "postId": "6ab2da4ad98e7b46aec5abbb",
+      "verification": "verified"
+    },
+    {
+      "slug": "cf",
+      "company": "Polymarket",
+      "title": "CFO, FCM",
+      "platform": "facebook",
+      "postedAt": "2026-09-22T19:42:50.904Z",
+      "postId": "691827047618629_1095234083083826",
       "verification": "verified"
     }
   ]
