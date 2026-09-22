@@ -1399,7 +1399,7 @@ export const EVENT_GUIDES: Record<string, EventEditorialArticle> = {
   },
   ibw: {
     summaryLead:
-      "India Blockchain Week runs November 1 to 2, 2026 at the Fairmont Mumbai for its fourth edition after three years in Bangalore. Hosted by Hashed Emergent, the two-day conference anchors a wider week of hackathons, workshops and side events across the city. The site lists tiered passes from general to executive VIP, with Binance named as title sponsor. The 2026 speaker lineup is listed as coming soon, and the agenda is still being finalized. The move to Mumbai places the event near financial firms and investors in India's financial capital.",
+      "India Blockchain Week runs November 1 to 2, 2026 at the Fairmont Mumbai for its fourth edition after three years in Bangalore. Hosted by Hashed Emergent, the two-day conference anchors a wider week of hackathons, workshops and side events across the city. The site lists tiered passes from general to executive VIP, with Binance named as title sponsor. Confirmed 2026 speakers include Eli Ben-Sasson of StarkWare, Prabal Banerjee of Avail, and Marcin Kazmierczak of RedStone Oracles, with more names on the official speakers page. The move to Mumbai places the event near financial firms and investors in India's financial capital.",
     ticketPricing: "General INR 1,199, Priority INR 2,799, VIP INR 29,999, Executive VIP INR 59,999, Student INR 999, plus taxes",
     sections: [
       {
@@ -1419,7 +1419,7 @@ export const EVENT_GUIDES: Record<string, EventEditorialArticle> = {
       {
         heading: "Who goes and what is set",
         content: [
-          "The site breaks past attendance into builders and developers at 30 percent, founders at 22 percent, protocol teams at 18 percent, investors at 15 percent and policy and media making up the rest. The 2026 speaker list and agenda are both marked as coming soon.",
+          "The site breaks past attendance into builders and developers at 30 percent, founders at 22 percent, protocol teams at 18 percent, investors at 15 percent and policy and media making up the rest. The confirmed 2026 speakers are Eli Ben-Sasson (StarkWare), Prabal Banerjee (Avail), Tobias Bauer (TBV), Doug Hsu (CMT Digital), Marcin Kazmierczak (RedStone Oracles), Harshit Tiwari (NEAR Foundation), Chibuotu Amadi (Paycrest), Ronak Jethava (Startale Group), and Abdulfatai Suleiman (Blockradar). The official speakers page also lists people who spoke in earlier editions.",
           "Binance is named as title sponsor for 2026. Speaker and sponsor applications run through forms linked on the site. A travel and visa guide for Mumbai is also linked for visitors from abroad.",
         ],
       },

@@ -9,6 +9,7 @@ import {
   Send,
   MessageCircle,
   Instagram,
+  Linkedin,
   Youtube,
   Link2,
 } from 'lucide-react';
@@ -43,6 +44,7 @@ function socialEntries(socials: PopupSocials) {
   }> = [];
 
   if (socials.x) entries.push({ key: 'x', label: 'X', href: socials.x, icon: XBrandIcon });
+  if (socials.linkedin) entries.push({ key: 'linkedin', label: 'LinkedIn', href: socials.linkedin, icon: Linkedin });
   if (socials.telegram) entries.push({ key: 'telegram', label: 'Telegram', href: socials.telegram, icon: Send });
   if (socials.discord) entries.push({ key: 'discord', label: 'Discord', href: socials.discord, icon: MessageCircle });
   if (socials.instagram) entries.push({ key: 'instagram', label: 'Instagram', href: socials.instagram, icon: Instagram });

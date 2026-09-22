@@ -536,7 +536,7 @@ General passes cover two conference days with the IBW Connect app and expo acces
 
 ## Who attends
 
-The audience mix spans builders and developers, founders and CEOs, protocol and project teams, investors and capital, policy and institutions, and media and ecosystem contributors. The 2026 speaker lineup and final agenda are announced closer to the event, with speaker, sponsor and partner applications open.`,
+The audience mix spans builders and developers, founders and CEOs, protocol and project teams, investors and capital, policy and institutions, and media and ecosystem contributors. Confirmed 2026 speakers are listed on the IBW speakers page (https://indiablockchainweek.com/ibw_2026/speakers). More names will be announced.`,
   },
 ];
 async function main() {

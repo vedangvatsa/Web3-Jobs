@@ -433,10 +433,12 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
       permanentRedirect(`/${eventSlug}`);
     }
     const editorial = await resolveEventGuide(event);
-    const speakerSummary = event.speakerDetails?.length
+    const speakerSummary = eventSlug === 'token2049'
+      ? 'Confirmed speakers include Shayne Coplan of Polymarket, Balaji Srinivasan, Adena Friedman of Nasdaq, Arthur Hayes, and Max Verstappen. The [list of speakers](https://www.token2049.com/singapore/speakers) is here.'
+      : event.speakerDetails?.length
       ? event.speakerDetails
           .map((speaker) => {
-            const detail = speaker.organization || speaker.title;
+            const detail = [speaker.title, speaker.organization].filter(Boolean).join(', ');
             return detail ? `${speaker.name} (${detail})` : speaker.name;
           })
           .join(', ')

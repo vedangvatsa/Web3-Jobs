@@ -2,6 +2,7 @@ export type PopupType = 'popup' | 'permanent' | 'sez';
 
 export type PopupSocials = {
   x?: string;
+  linkedin?: string;
   telegram?: string;
   discord?: string;
   instagram?: string;

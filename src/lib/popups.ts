@@ -4298,6 +4298,119 @@ export const popupData: Popup[] = [
         "date": "2024-07-22"
       }
     ]
+  },
+  {
+    "slug": "theresidency",
+    "name": "The Residency",
+    "tagline": "Coliving cohorts for full-time builders",
+    "location": "Silicon Valley & global homes",
+    "type": "popup",
+    "themes": [
+      "Tech"
+    ],
+    "website": "https://www.livetheresidency.com",
+    "image": "/images/popups/theresidency.webp",
+    "sources": [
+      "ns"
+    ],
+    "socials": {
+      "x": "https://x.com/theresidency",
+      "instagram": "https://www.instagram.com/_theresidency/"
+    },
+    "summary": "Multi-month residencies that combine housing, coworking, and peer cohorts so inventors and founders can work full time on hard problems.",
+    "body": [
+      "The Residency runs timed cohorts—often around three months—where accepted builders live with equally ambitious peers instead of splitting focus with school or a day job.",
+      "Each home provides private rooms, shared meals, and workspace, framed as college meets accelerator rather than a short hackathon retreat.",
+      "Silicon Valley was the first hub; additional houses worldwide let talent connect without everyone needing a Bay Area visa or rent budget.",
+      "Programming includes weekly syncs, coaching, demo days aimed at collaborators and investors, and guest fireside chats with experienced operators.",
+      "Residents have shipped companies such as Prime Intellect and Solcoa Industries while in cohort; perks listed on the site include compute credits and therapy support.",
+      "The experience is in-person only—applications run through apply.livetheresidency.com."
+    ],
+    "coverImages": [
+      "/popups/theresidency/theresidencygallery1.webp",
+      "/popups/theresidency/theresidencygallery2.webp",
+      "/popups/theresidency/theresidencygallery3.webp"
+    ],
+    "pricing": [],
+    "amenities": [
+      "Private or shared bedrooms in cohort houses",
+      "In-house or nearby coworking space",
+      "Shared meals and resident-run kitchens",
+      "Weekly accountability syncs and coaching",
+      "Demo day exposure to investors and collaborators"
+    ],
+    "history": [],
+    "durationNotes": [
+      "Cohort length depends on the home—typically three to six months.",
+      "Participants are expected to be full time on their project for the residency period."
+    ],
+    "locationDetails": [
+      "The Residency operates multiple homes; Silicon Valley remains the flagship hub.",
+      "Other active or planned locations include Bangalore, Berlin, Cambridge, NYC, and partner houses linked from livetheresidency.com/residencies."
+    ],
+    "overview": [
+      "The Residency selects inventors, long-term thinkers, and founders who want to go all in with a small peer group.",
+      "Housing, workspace, and community programming are bundled so builders can focus on one ambitious project per cohort."
+    ],
+    "xyzUrl": null,
+    "posts": [],
+    "pricingSummary": null
+  },
+  {
+    "slug": "companyventures",
+    "name": "Company Ventures Residency",
+    "tagline": "Twelve-month NYC founder workspace",
+    "location": "New York City, USA",
+    "type": "popup",
+    "themes": [
+      "Tech"
+    ],
+    "website": "https://www.companyventures.com/programs/residency#program",
+    "image": "/images/popups/companyventures.webp",
+    "sources": [
+      "ns"
+    ],
+    "socials": {
+      "x": "https://x.com/Company",
+      "linkedin": "https://www.linkedin.com/company/company-ventures/"
+    },
+    "summary": "A year-long New York residency with dedicated office space, a 2,500+ member founder network, and hands-on support—without giving up equity for a seat.",
+    "body": [
+      "Company Ventures runs a twelve-month residency for founders who are exploring their next company or already building venture-scale products.",
+      "Residents get a dedicated workspace in Company Ventures’ building plus access to more than 2,500 founders, operators, and investors in the network.",
+      "Support covers hiring, fundraising, go-to-market, and growth through regular check-ins rather than a fixed demo-day curriculum.",
+      "Acceptance does not require taking Company Ventures capital; the firm may invest at market terms when a fundraise naturally fits.",
+      "Alumni companies cited on the program page include Tabs, Rogo AI, Basic Capital, Stepful, and Maven Clinic.",
+      "Portfolio founders have raised more than $4.4B in venture funding across Company Ventures’ program companies."
+    ],
+    "coverImages": [
+      "/popups/companyventures/companyventuresgallery1.webp",
+      "/popups/companyventures/companyventuresgallery2.webp",
+      "/popups/companyventures/companyventuresgallery3.webp"
+    ],
+    "pricing": [],
+    "amenities": [
+      "Dedicated office and amenity space for twelve months",
+      "Partner discounts across finance, legal, and startup services",
+      "CUNY and City of New York internship hiring partnerships",
+      "Curated sessions with industry experts and portfolio founders"
+    ],
+    "history": [],
+    "durationNotes": [
+      "The residency is structured as a twelve-month commitment for full-time founders.",
+      "Programming is selective and additive—sessions run when they clearly help residents, not on a fixed accelerator calendar."
+    ],
+    "locationDetails": [
+      "Company Ventures hosts the residency from its New York City campus.",
+      "Workspace is designed for customer meetings, recruiting, and investor conversations on site."
+    ],
+    "overview": [
+      "The program targets scalable technology founders who value community and want advisor access without trading equity for desk space.",
+      "Residents learn from more than 500 companies that have already gone through Company Ventures programming."
+    ],
+    "xyzUrl": null,
+    "posts": [],
+    "pricingSummary": null
   }
 ];
 
