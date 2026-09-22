@@ -7,7 +7,7 @@ import {
   saveManifest,
   shouldRunStep,
 } from './lib/prebuild-manifest';
-import { PREBUILD_DATA_STEPS } from './lib/prebuild-steps';
+import { PREBUILD_DATA_STEPS, SITEMAP_STEP } from './lib/prebuild-steps';
 
 const fast = process.env.FAH_FAST_PREBUILD === '1';
 
@@ -29,6 +29,13 @@ function main(): void {
     run(step.command);
     recordStep(manifest, step);
     for (const output of step.outputs) dirtyOutputs.add(output);
+    ran += 1;
+  }
+
+  if (fast && dirtyOutputs.has('content/slug-types.json')) {
+    console.log('[prebuild-data] sitemap: slug-types changed → run (FAH_FAST)');
+    run(SITEMAP_STEP.command);
+    recordStep(manifest, SITEMAP_STEP);
     ran += 1;
   }
 
