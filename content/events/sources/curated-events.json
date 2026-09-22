@@ -1102,7 +1102,7 @@
     "id": "premier-token2049-singapore-2026",
     "slug": "token2049",
     "name": "TOKEN2049 Singapore 2026",
-    "description": "TOKEN2049 is the world's largest crypto event. Join the crypto ecosystem's decision-makers in Singapore to connect, exchange ideas, network, and shape the industry.",
+    "description": "TOKEN2049 is the world's largest crypto event. Join the crypto ecosystem's decision-makers in Singapore to connect, exchange ideas, network, and shape the industry.\n\n## Speakers\n\nSelected speakers include Balaji Srinivasan (The Network State), Arthur Hayes (Maelstrom), Adena Friedman (Nasdaq), Richard Teng (Binance), Joseph Lubin (Ethereum / MetaMask), Charles Hoskinson (Input Output Group), Justin Sun (TRON) and Max Verstappen (Oracle Red Bull Racing).\n\nThe list of speakers is here: https://www.token2049.com/singapore/speakers",
     "startDate": "2026-10-07",
     "endDate": "2026-10-08",
     "city": "Singapore",
@@ -1117,655 +1117,6 @@
       "url": "https://tickets.token2049.com/token2049-singapore-2026/?promo=HASHTAGWEB3"
     },
     "source": "curated-premier",
-    "speakers": [
-      "Shayne Coplan",
-      "Balaji Srinivasan",
-      "Jeff Yan",
-      "Adena Friedman",
-      "Eric Trump",
-      "Arthur Hayes",
-      "Star Xu",
-      "Tom Lee",
-      "Kyle Samani",
-      "Haseeb Qureshi",
-      "Joseph Lubin",
-      "Richard Teng",
-      "Jesse Pollak",
-      "Jenny Johnson",
-      "Zoltan Pozsar",
-      "Charles Hoskinson",
-      "Adeniyi Abiodun",
-      "Haider Rafique",
-      "Lily Liu",
-      "Guy Wuollet",
-      "Yuval Rooz",
-      "Amy Oldenburg",
-      "Nikhil Sharma",
-      "Hunter Horsley",
-      "Illia Polosukhin",
-      "Keone Hon",
-      "Guy Young",
-      "Emad Mostaque",
-      "Mert",
-      "Jordi Alexander",
-      "Michael Egorov",
-      "Tarun Chitra",
-      "John Wang",
-      "Ansem",
-      "Larry Cermak",
-      "TN Lee",
-      "Santiago Roel Santos",
-      "Rob Hadick",
-      "Spencer Applebaum",
-      "Eli Ben-Sasson",
-      "Alexander Good",
-      "Carlos Domingo",
-      "Vladimir Novakovski",
-      "Joseph Chalom",
-      "Avery Ching",
-      "Raz Zarick",
-      "Steven Goldfeder",
-      "Charles Cascarilla",
-      "Johann Kerbrat",
-      "Richard Galvin",
-      "Tom Schmidt",
-      "Shuyao Kong",
-      "Zaheer Ebtikar",
-      "Sandeep Nailwal",
-      "Mike Belshe",
-      "Fredrik Haga",
-      "Min Teo",
-      "Max Resnick",
-      "Kain Warwick",
-      "Irene Wu",
-      "Kelvin Koh",
-      "Nikil Viswanathan",
-      "Shiliang Tang",
-      "Kathleen Wrynn",
-      "Austin Federa",
-      "Michael Ippolito",
-      "Andy Cavanaugh",
-      "Alex Svanevik",
-      "Cosmo Jiang",
-      "Dovey Wan",
-      "Jason Kam",
-      "Bobby Ong",
-      "Armani Ferrante",
-      "Josh Swihart",
-      "Cynthia Lo Bessette",
-      "Lucas Bruder",
-      "Josh Lim",
-      "Arthur Breitman",
-      "Kartik Talwar",
-      "Alex Pack",
-      "Yat Siu",
-      "Hart Lambur",
-      "Tristan Thompson",
-      "Mike Silagadze",
-      "Lasse Clausen",
-      "Mable Jiang",
-      "Will Robinson",
-      "Akshat Vaidya",
-      "YQ Jia",
-      "Mike Horton",
-      "Yu Hu",
-      "Franklyn Wang",
-      "Michael Higgins",
-      "Scott Lawin",
-      "Thomas Uhm",
-      "Leo Zhang",
-      "Mo Shaikh",
-      "Omar-Shakeeb Zahir",
-      "Kostas Chalkias",
-      "Jacquelyn Melinek",
-      "Yoann Turpin",
-      "Marcin Kazmierczak",
-      "Ran Neuner",
-      "Steve Lee",
-      "Miguel Morel",
-      "Drake Evans",
-      "Henri Arslanian",
-      "Donald Trump Jr."
-    ],
-    "speakerDetails": [
-      {
-        "name": "Shayne Coplan",
-        "title": "Founder and CEO",
-        "organization": "Polymarket"
-      },
-      {
-        "name": "Balaji Srinivasan",
-        "title": "Founder",
-        "organization": "The Network State"
-      },
-      {
-        "name": "Jeff Yan",
-        "title": "CEO",
-        "organization": "Hyperliquid Labs"
-      },
-      {
-        "name": "Adena Friedman",
-        "title": "Chair and CEO",
-        "organization": "Nasdaq"
-      },
-      {
-        "name": "Eric Trump",
-        "title": "Executive VP",
-        "organization": "The Trump Organization"
-      },
-      {
-        "name": "Arthur Hayes",
-        "title": "CIO",
-        "organization": "Maelstrom"
-      },
-      {
-        "name": "Star Xu",
-        "title": "Founder and CEO",
-        "organization": "OKX"
-      },
-      {
-        "name": "Tom Lee",
-        "title": "CIO and Portfolio Manager / Chairman",
-        "organization": "Fundstrat / BitMine"
-      },
-      {
-        "name": "Kyle Samani",
-        "title": "Chairman",
-        "organization": "Forward Industries"
-      },
-      {
-        "name": "Haseeb Qureshi",
-        "title": "Managing Partner",
-        "organization": "Dragonfly"
-      },
-      {
-        "name": "Joseph Lubin",
-        "title": "CEO",
-        "organization": "Consensys"
-      },
-      {
-        "name": "Richard Teng",
-        "title": "Co-CEO",
-        "organization": "Binance"
-      },
-      {
-        "name": "Jesse Pollak",
-        "title": "Head of Base",
-        "organization": "Base"
-      },
-      {
-        "name": "Jenny Johnson",
-        "title": "CEO",
-        "organization": "Franklin Templeton"
-      },
-      {
-        "name": "Zoltan Pozsar",
-        "title": "Founder and CEO",
-        "organization": "Ex Uno Plures"
-      },
-      {
-        "name": "Charles Hoskinson",
-        "title": "Founder and CEO",
-        "organization": "Input Output Group"
-      },
-      {
-        "name": "Adeniyi Abiodun",
-        "title": "Co-Founder and CPO",
-        "organization": "Mysten Labs"
-      },
-      {
-        "name": "Haider Rafique",
-        "title": "Managing Partner and CMO",
-        "organization": "OKX"
-      },
-      {
-        "name": "Lily Liu",
-        "title": "President",
-        "organization": "Solana Foundation"
-      },
-      {
-        "name": "Guy Wuollet",
-        "title": "General Partner",
-        "organization": "a16z crypto"
-      },
-      {
-        "name": "Yuval Rooz",
-        "title": "Co-Founder and CEO",
-        "organization": "Canton"
-      },
-      {
-        "name": "Amy Oldenburg",
-        "title": "Head of Digital Asset Strategy",
-        "organization": "Morgan Stanley"
-      },
-      {
-        "name": "Nikhil Sharma",
-        "title": "Director, Digital Assets",
-        "organization": "BlackRock"
-      },
-      {
-        "name": "Hunter Horsley",
-        "title": "CEO",
-        "organization": "Bitwise Asset Management"
-      },
-      {
-        "name": "Illia Polosukhin",
-        "title": "Co-Founder",
-        "organization": "NEAR Protocol"
-      },
-      {
-        "name": "Keone Hon",
-        "title": "Co-Founder",
-        "organization": "Monad Foundation"
-      },
-      {
-        "name": "Guy Young",
-        "title": "CEO",
-        "organization": "Ethena Labs"
-      },
-      {
-        "name": "Emad Mostaque",
-        "title": "Founder and CEO",
-        "organization": "Intelligent Internet"
-      },
-      {
-        "name": "Mert",
-        "title": "CEO",
-        "organization": "Helius"
-      },
-      {
-        "name": "Jordi Alexander",
-        "title": "Founder",
-        "organization": "Selini Capital"
-      },
-      {
-        "name": "Michael Egorov",
-        "title": "Founder",
-        "organization": "Curve Finance / Yield Basis"
-      },
-      {
-        "name": "Tarun Chitra",
-        "title": "Co-Founder and CEO",
-        "organization": "Gauntlet"
-      },
-      {
-        "name": "John Wang",
-        "title": "Head of Crypto",
-        "organization": "Kalshi"
-      },
-      {
-        "name": "Ansem",
-        "title": "Co-Founder",
-        "organization": "Bullpen"
-      },
-      {
-        "name": "Larry Cermak",
-        "title": "President",
-        "organization": "The Block"
-      },
-      {
-        "name": "TN Lee",
-        "title": "CEO",
-        "organization": "Pendle"
-      },
-      {
-        "name": "Santiago Roel Santos",
-        "title": "Founder and CEO",
-        "organization": "Inversion"
-      },
-      {
-        "name": "Rob Hadick",
-        "title": "General Partner",
-        "organization": "Dragonfly"
-      },
-      {
-        "name": "Spencer Applebaum",
-        "title": "GP and Co-Head of Venture",
-        "organization": "Multicoin Capital"
-      },
-      {
-        "name": "Eli Ben-Sasson",
-        "title": "Co-Founder and CEO",
-        "organization": "StarkWare"
-      },
-      {
-        "name": "Alexander Good",
-        "title": "Founder",
-        "organization": "Post Fiat"
-      },
-      {
-        "name": "Carlos Domingo",
-        "title": "Co-Founder and CEO",
-        "organization": "Securitize"
-      },
-      {
-        "name": "Vladimir Novakovski",
-        "title": "Founder and CEO",
-        "organization": "Lighter"
-      },
-      {
-        "name": "Joseph Chalom",
-        "title": "CEO",
-        "organization": "Sharplink"
-      },
-      {
-        "name": "Avery Ching",
-        "title": "Co-Founder and CEO",
-        "organization": "Aptos"
-      },
-      {
-        "name": "Raz Zarick",
-        "title": "Co-Founder and CEO",
-        "organization": "LayerZero"
-      },
-      {
-        "name": "Steven Goldfeder",
-        "title": "Co-Founder and CEO",
-        "organization": "Offchain Labs"
-      },
-      {
-        "name": "Charles Cascarilla",
-        "title": "Co-Founder and CEO",
-        "organization": "Paxos"
-      },
-      {
-        "name": "Johann Kerbrat",
-        "title": "SVP and GM, Crypto and International",
-        "organization": "Robinhood"
-      },
-      {
-        "name": "Richard Galvin",
-        "title": "Executive Chairman and CIO",
-        "organization": "DACM"
-      },
-      {
-        "name": "Tom Schmidt",
-        "title": "General Partner",
-        "organization": "Dragonfly"
-      },
-      {
-        "name": "Shuyao Kong",
-        "title": "Co-Founder",
-        "organization": "MegaETH"
-      },
-      {
-        "name": "Zaheer Ebtikar",
-        "title": "CSO",
-        "organization": "Plasma"
-      },
-      {
-        "name": "Sandeep Nailwal",
-        "title": "CEO",
-        "organization": "Polygon Foundation"
-      },
-      {
-        "name": "Mike Belshe",
-        "title": "Co-Founder and CEO",
-        "organization": "Bitgo"
-      },
-      {
-        "name": "Fredrik Haga",
-        "title": "Founder and CEO",
-        "organization": "Dune"
-      },
-      {
-        "name": "Min Teo",
-        "title": "Managing Partner",
-        "organization": "Ethereal Ventures"
-      },
-      {
-        "name": "Max Resnick",
-        "title": "Lead Economist",
-        "organization": "Anza"
-      },
-      {
-        "name": "Kain Warwick",
-        "title": "Founder",
-        "organization": "Infinex / Synthetix"
-      },
-      {
-        "name": "Irene Wu",
-        "organization": "Angel Investor"
-      },
-      {
-        "name": "Kelvin Koh",
-        "title": "Co-Founder and Partner",
-        "organization": "Spartan Group"
-      },
-      {
-        "name": "Nikil Viswanathan",
-        "title": "Co-Founder and CEO",
-        "organization": "Alchemy"
-      },
-      {
-        "name": "Shiliang Tang",
-        "title": "CEO",
-        "organization": "Monarq Asset Management"
-      },
-      {
-        "name": "Kathleen Wrynn",
-        "title": "Global Head of Digital Assets",
-        "organization": "Invesco"
-      },
-      {
-        "name": "Austin Federa",
-        "title": "Co-Founder and CEO",
-        "organization": "DoubleZero"
-      },
-      {
-        "name": "Michael Ippolito",
-        "title": "Co-Founder",
-        "organization": "Blockworks"
-      },
-      {
-        "name": "Andy Cavanaugh",
-        "title": "Co-Founder",
-        "organization": "The Rollup"
-      },
-      {
-        "name": "Alex Svanevik",
-        "title": "Co-Founder and CEO",
-        "organization": "Nansen"
-      },
-      {
-        "name": "Cosmo Jiang",
-        "title": "General Partner",
-        "organization": "Pantera Capital"
-      },
-      {
-        "name": "Dovey Wan",
-        "title": "Founder",
-        "organization": "Primitive Ventures"
-      },
-      {
-        "name": "Jason Kam",
-        "title": "Founder",
-        "organization": "Folius Ventures"
-      },
-      {
-        "name": "Bobby Ong",
-        "title": "Co-Founder and CEO",
-        "organization": "Coingecko"
-      },
-      {
-        "name": "Armani Ferrante",
-        "title": "Founder and CEO",
-        "organization": "Backpack Exchange"
-      },
-      {
-        "name": "Josh Swihart",
-        "title": "Founder and CEO",
-        "organization": "ZODL"
-      },
-      {
-        "name": "Cynthia Lo Bessette",
-        "title": "Head of Digital Asset Management",
-        "organization": "Fidelity Investments"
-      },
-      {
-        "name": "Lucas Bruder",
-        "title": "Co-Founder and CEO",
-        "organization": "Jito Labs"
-      },
-      {
-        "name": "Josh Lim",
-        "title": "Global Head of Markets",
-        "organization": "FalconX"
-      },
-      {
-        "name": "Arthur Breitman",
-        "title": "Co-Founder",
-        "organization": "Tezos"
-      },
-      {
-        "name": "Kartik Talwar",
-        "title": "Co-Founder",
-        "organization": "ETHGlobal"
-      },
-      {
-        "name": "Alex Pack",
-        "title": "Managing Partner",
-        "organization": "Hack VC"
-      },
-      {
-        "name": "Yat Siu",
-        "title": "Co-Founder and Executive Chairman",
-        "organization": "Animoca Brands"
-      },
-      {
-        "name": "Hart Lambur",
-        "title": "Co-Founder",
-        "organization": "Risk Labs"
-      },
-      {
-        "name": "Tristan Thompson",
-        "title": "NBA Champion"
-      },
-      {
-        "name": "Mike Silagadze",
-        "title": "Founder and CEO",
-        "organization": "ether.fi"
-      },
-      {
-        "name": "Lasse Clausen",
-        "title": "Founding Partner",
-        "organization": "1kx"
-      },
-      {
-        "name": "Mable Jiang",
-        "title": "Co-Founder",
-        "organization": "Trasia"
-      },
-      {
-        "name": "Will Robinson",
-        "title": "Partner",
-        "organization": "Alliance"
-      },
-      {
-        "name": "Akshat Vaidya",
-        "title": "Co-Founder and Managing Partner",
-        "organization": "Maelstrom"
-      },
-      {
-        "name": "YQ Jia",
-        "title": "Founder",
-        "organization": "AltLayer"
-      },
-      {
-        "name": "Mike Horton",
-        "title": "Project Creator",
-        "organization": "GEODNET"
-      },
-      {
-        "name": "Yu Hu",
-        "title": "CEO",
-        "organization": "Kaito AI"
-      },
-      {
-        "name": "Franklyn Wang",
-        "title": "CEO",
-        "organization": "Liquid / CoInvest"
-      },
-      {
-        "name": "Michael Higgins",
-        "title": "International CEO",
-        "organization": "Ripple Prime"
-      },
-      {
-        "name": "Scott Lawin",
-        "title": "President",
-        "organization": "Pantera Capital"
-      },
-      {
-        "name": "Thomas Uhm",
-        "title": "Quant Research Director",
-        "organization": "QRT"
-      },
-      {
-        "name": "Leo Zhang",
-        "title": "CEO",
-        "organization": "42"
-      },
-      {
-        "name": "Mo Shaikh",
-        "title": "Founder and Managing Partner",
-        "organization": "Maximum Frequency Ventures"
-      },
-      {
-        "name": "Omar-Shakeeb Zahir",
-        "title": "Co-Founder and CEO",
-        "organization": "SecondLane"
-      },
-      {
-        "name": "Kostas Chalkias",
-        "title": "Co-Founder and Chief Cryptographer",
-        "organization": "Mysten Labs"
-      },
-      {
-        "name": "Jacquelyn Melinek",
-        "title": "Founder and CEO",
-        "organization": "Stratamedia"
-      },
-      {
-        "name": "Yoann Turpin",
-        "title": "Co-Founder",
-        "organization": "Wintermute"
-      },
-      {
-        "name": "Marcin Kazmierczak",
-        "title": "Co-Founder and COO",
-        "organization": "RedStone / Credora"
-      },
-      {
-        "name": "Ran Neuner",
-        "title": "Founder",
-        "organization": "Crypto Banter"
-      },
-      {
-        "name": "Steve Lee",
-        "title": "Co-Founder and Managing Partner",
-        "organization": "Neoclassic Capital"
-      },
-      {
-        "name": "Miguel Morel",
-        "title": "CEO",
-        "organization": "Arkham"
-      },
-      {
-        "name": "Drake Evans",
-        "title": "Co-Founder and CTO",
-        "organization": "Agora"
-      },
-      {
-        "name": "Henri Arslanian",
-        "title": "Co-Founder and Managing Partner",
-        "organization": "Nine Blocks Capital Management"
-      },
-      {
-        "name": "Donald Trump Jr.",
-        "organization": "World Liberty Financial"
-      }
-    ],
     "venueName": "Marina Bay Sands",
     "addressLocality": "Singapore",
     "addressCountry": "SG",
@@ -1774,7 +1125,9 @@
       "fetchedAt": "2026-09-20T00:20:07.728Z",
       "method": "event-jsonld",
       "pageTitle": "TOKEN2049 | 7-8 October 2026 | Singapore",
-      "sha256": "672897156638babb2793dee3e4989b27b99702bc19e851da891e4538fda8499e"
+      "sha256": "672897156638babb2793dee3e4989b27b99702bc19e851da891e4538fda8499e",
+      "speakersUrl": "https://www.token2049.com/singapore/speakers",
+      "speakersFetchedAt": "2026-09-22T09:27:52.000Z"
     }
   },
   {
@@ -1944,7 +1297,7 @@
     "id": "premier-indiabw-2026",
     "slug": "ibw",
     "name": "India Blockchain Week 2026",
-    "description": "India Blockchain Week 2026 is India's flagship Web3 gathering, hosted by Hashed Emergent. The two-day flagship conference anchors India Blockchain Week on 1-2 November at Fairmont Mumbai.\n\n## Fourth edition in Mumbai\n\nAfter three landmark editions in Bangalore, the conference moves to Mumbai, India's financial capital, for its fourth edition: closer to capital, institutions and the conversations shaping the next phase of growth.\n\n## Program\n\nThe week features more than 50 side events alongside flagship conferences such as the IBW Conference, Devcon and EthGlobal, with hackathons, lounges, investor dinners, workshops, networking sessions and community parties hosted by Indian and global ecosystem players.\n\n## Passes\n\nGeneral passes cover two conference days with the IBW Connect app and expo access. Priority adds the Fairmont lunch buffet and Institutional Forum eligibility. VIP adds the lounge and the pre-conference VIP dinner night, with an Executive tier adding a Fairmont stay and transfers, plus student passes with workshop and hackathon access. Prices exclude GST.\n\n## Who attends\n\nThe audience mix spans builders and developers, founders and CEOs, protocol and project teams, investors and capital, policy and institutions, and media and ecosystem contributors. The 2026 speaker lineup and final agenda are announced closer to the event, with speaker, sponsor and partner applications open.",
+    "description": "India Blockchain Week 2026 is India's flagship Web3 gathering, hosted by Hashed Emergent. The two-day flagship conference anchors India Blockchain Week on 1-2 November at Fairmont Mumbai.\n\n## Fourth edition in Mumbai\n\nAfter three landmark editions in Bangalore, the conference moves to Mumbai, India's financial capital, for its fourth edition: closer to capital, institutions and the conversations shaping the next phase of growth.\n\n## Program\n\nThe week features more than 50 side events alongside flagship conferences such as the IBW Conference, Devcon and EthGlobal, with hackathons, lounges, investor dinners, workshops, networking sessions and community parties hosted by Indian and global ecosystem players.\n\n## Passes\n\nGeneral passes cover two conference days with the IBW Connect app and expo access. Priority adds the Fairmont lunch buffet and Institutional Forum eligibility. VIP adds the lounge and the pre-conference VIP dinner night, with an Executive tier adding a Fairmont stay and transfers, plus student passes with workshop and hackathon access. Prices exclude GST.\n\n## Who attends\n\nThe audience mix spans builders and developers, founders and CEOs, protocol and project teams, investors and capital, policy and institutions, and media and ecosystem contributors.\n\n## Speakers\n\nConfirmed speakers for IBW2026 are announced on the organizer's speakers page, with more to be added closer to the event.\n\nThe full list of speakers is here: https://indiablockchainweek.com/ibw_2026/speakers\n\nPast editions of India Blockchain Week have featured Vitalik Buterin (Ethereum), Sandeep Nailwal (Polygon), Jesse Pollak (Base), Sreeram Kannan (Eigen Labs), Avery Ching (Aptos Labs), Charles Guillemet (Ledger), Keone Hon (Monad Foundation), Kelvin Koh (Spartan Group), Vishal Kankani (Multicoin Capital), Yusuf Goolamabbas (Animoca Brands), Ashish Singhal (CoinSwitch) and Sumit Gupta (CoinDCX), among others.\n\nSpeaker, sponsor and partner applications remain open.",
     "startDate": "2026-11-01",
     "endDate": "2026-11-02",
     "city": "Mumbai",
@@ -1965,8 +1318,68 @@
       "fetchedAt": "2026-09-21T05:12:53.001Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "India Blockchain Week 2026",
-      "sha256": "ea2dc311c2e2e54ff31955b3e245cf258eb55c2a5edff50f8468ba12355a4823"
-    }
+      "sha256": "ea2dc311c2e2e54ff31955b3e245cf258eb55c2a5edff50f8468ba12355a4823",
+      "speakersUrl": "https://indiablockchainweek.com/ibw_2026/speakers",
+      "speakersFetchedAt": "2026-09-22T09:27:52.000Z"
+    },
+    "speakers": [
+      "Eli Ben-Sasson",
+      "Prabal Banerjee",
+      "Tobias Bauer",
+      "Doug Hsu",
+      "Marcin Kazmierczak",
+      "Harshit Tiwari",
+      "Chibuotu Amadi",
+      "Ronak Jethava",
+      "Abdulfatai Suleiman"
+    ],
+    "speakerDetails": [
+      {
+        "name": "Eli Ben-Sasson",
+        "title": "Co-Founder & CEO",
+        "organization": "StarkWare"
+      },
+      {
+        "name": "Prabal Banerjee",
+        "title": "Co-Founder",
+        "organization": "Avail"
+      },
+      {
+        "name": "Tobias Bauer",
+        "title": "General Partner & Co-Founder",
+        "organization": "TBV (TB Ventures)"
+      },
+      {
+        "name": "Doug Hsu",
+        "title": "Investor",
+        "organization": "CMT Digital"
+      },
+      {
+        "name": "Marcin Kazmierczak",
+        "title": "Co-Founder & COO",
+        "organization": "RedStone Oracles"
+      },
+      {
+        "name": "Harshit Tiwari",
+        "title": "VP of Growth",
+        "organization": "NEAR Foundation"
+      },
+      {
+        "name": "Chibuotu Amadi",
+        "title": "CEO & Co-Founder",
+        "organization": "Paycrest"
+      },
+      {
+        "name": "Ronak Jethava",
+        "title": "Head of UAE",
+        "organization": "Startale Group"
+      },
+      {
+        "name": "Abdulfatai Suleiman",
+        "title": "Co-Founder & CEO",
+        "organization": "Blockradar"
+      }
+    ]
   },
   {
     "id": "premier-devcon-2026",

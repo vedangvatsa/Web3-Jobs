@@ -1384,7 +1384,7 @@ Born in crypto and built for efficiency across all asset classes, Solidus Labs i
 
 ### About the event
 
-Switzerland's largest institutional digital assets & AI conference is back! Join us for CV Summit 2026 in Zürich.
+CV Summit is Switzerland's leading institutional digital assets and AI business conference, uniting 3,000+ attendees in Zürich. Across two days and three stages it covers payment systems and digital money infrastructure, tokenized capital markets, next-generation wealth management and AI-powered financial services - built for financial institutions, asset and wealth managers, investors, regulators and technology leaders.
 
 <a id="event-9553c6bb2a810de3"></a>
 
@@ -2248,7 +2248,7 @@ We help convert connections into real collaborations, pilots, partnerships and a
 
 ### About the event
 
-Asia's leading decentralized Web3 summit hosting 7,500+ crypto founders and investors.
+Be part of a groundbreaking event bringing together global leaders, innovators, and visionaries in the decentralized ecosystem, hosting 7,500+ crypto founders and investors. CoinFerenceX Singapore 2026 features keynote sessions, expo hall entry, networking lounges, breakout sessions and workshops - don't miss the networking event of the year.
 
 <a id="event-57acb4d85ce45fbf"></a>
 
@@ -2558,6 +2558,12 @@ No. To maintain fairness, all project work must begin after the official hacking
 ### About the event
 
 TOKEN2049 is the world's largest crypto event. Join the crypto ecosystem's decision-makers in Singapore to connect, exchange ideas, network, and shape the industry.
+
+### Speakers
+
+Selected speakers include Balaji Srinivasan (The Network State), Arthur Hayes (Maelstrom), Adena Friedman (Nasdaq), Richard Teng (Binance), Joseph Lubin (Ethereum / MetaMask), Charles Hoskinson (Input Output Group), Justin Sun (TRON) and Max Verstappen (Oracle Red Bull Racing).
+
+The list of speakers is here: https://www.token2049.com/singapore/speakers
 
 <a id="event-14df72e9594dc005"></a>
 
@@ -3027,7 +3033,7 @@ What could take a month or two over Zoom - to really connect with people - at Mo
 
 ### About the event
 
-New Trade Routes: Bringing Africa Onchain. Three days of building, networking and dealmaking with 5,000+ founders, engineers, investors and policymakers at National Art Theatre, Lagos.
+Africa's biggest Web3 and AI festival: three days of building, networking and dealmaking in Lagos, October 22-24, 2026, with 5,000+ founders, engineers, investors and policymakers. Tracks span AI and blockchain, government and policy, and investment and funding - bridging founders with the capital fueling Africa's next wave.
 
 <a id="event-bb9b15ba8e97af97"></a>
 
@@ -3348,7 +3354,17 @@ General passes cover two conference days with the IBW Connect app and expo acces
 
 ### Who attends
 
-The audience mix spans builders and developers, founders and CEOs, protocol and project teams, investors and capital, policy and institutions, and media and ecosystem contributors. The 2026 speaker lineup and final agenda are announced closer to the event, with speaker, sponsor and partner applications open.
+The audience mix spans builders and developers, founders and CEOs, protocol and project teams, investors and capital, policy and institutions, and media and ecosystem contributors.
+
+### Speakers
+
+Confirmed speakers for IBW2026 are announced on the organizer's speakers page, with more to be added closer to the event.
+
+The full list of speakers is here: https://indiablockchainweek.com/ibw_2026/speakers
+
+Past editions of India Blockchain Week have featured Vitalik Buterin (Ethereum), Sandeep Nailwal (Polygon), Jesse Pollak (Base), Sreeram Kannan (Eigen Labs), Avery Ching (Aptos Labs), Charles Guillemet (Ledger), Keone Hon (Monad Foundation), Kelvin Koh (Spartan Group), Vishal Kankani (Multicoin Capital), Yusuf Goolamabbas (Animoca Brands), Ashish Singhal (CoinSwitch) and Sumit Gupta (CoinDCX), among others.
+
+Speaker, sponsor and partner applications remain open.
 
 <a id="event-5a90a4056685d05d"></a>
 
@@ -4951,7 +4967,7 @@ Engage with regulators and industry titans to lead the institutional adoption of
 
 ### About the event
 
-A founder-growth conference and exhibition in Dubai for founders scaling to 7 figures and beyond.
+PlanX is Dubai's growth conference for founders, operators and investors scaling to 7 figures and beyond. Two days to learn faster, meet better people and grow your business - November 25, 2026 at Grand Hyatt Dubai, with a focused agenda built for outcomes.
 
 <a id="event-cbe7ae71ad5f4a31"></a>
 
@@ -4965,7 +4981,7 @@ A founder-growth conference and exhibition in Dubai for founders scaling to 7 fi
 
 ### About the event
 
-The premier global gathering for blockchain innovators, investors, and thought leaders shaping the future of digital assets and tokenization.
+The global tokenization and blockchain congress, taking place 25-26 November 2026 in Barcelona. (Rendered in English from the organizer's official Spanish copy.)
 
 <a id="event-c8701368fa2d4239"></a>
 
@@ -5011,7 +5027,7 @@ World-class venue in a stunning location
 
 ### About the event
 
-Join the Global Blockchain Show Abu Dhabi 2026 - the premier crypto event uniting top Web3 leaders, innovators & investors across the UAE.
+The Global Blockchain Show Abu Dhabi 2026 is where blockchain stops being speculation and becomes financial infrastructure. Two days for exchange operators, protocol founders, institutional investors, tokenization teams and regulators - covering DeFi and tokenized real-world assets, stablecoins, custody and Web3 infrastructure.
 
 <a id="event-c1053a9caacfabc8"></a>
 
@@ -5422,7 +5438,7 @@ The venue address: 1 Boulevard de la Croisette 06400 Cannes France
 
 ### About the event
 
-TOKEN2049 Dubai brings together the global Web3 industry, uniting entrepreneurs, investors, developers, industry insiders and global media, and creates unparalleled networking opportunities.
+TOKEN2049 Dubai brings together the global Web3 industry - entrepreneurs, investors, developers, industry insiders and global media - creating unparalleled networking opportunities. The 2027 edition takes over Madinat Jumeirah, April 21-22, with an immersive indoor-outdoor experience and signature Arabian hospitality. As Binance's Changpeng Zhao puts it: 'This is the single conference where everybody comes together.'
 
 <a id="event-a789ceddb778530b"></a>
 
@@ -5478,7 +5494,7 @@ An organizer description has not been verified for this record. Any previous cop
 
 ### About the event
 
-Two focused days connecting banks, asset managers, regulators, investors, exchanges, infrastructure providers and technology leaders from across Europe. VBW27: June 2-3, 2027, Vienna.
+Two focused days connecting banks, asset managers, regulators, investors, exchanges, infrastructure providers and technology leaders from across Europe. VBW27 takes place June 2-3, 2027 in Vienna - meet the banks, asset managers, regulators and digital asset decision makers shaping the region.
 
 <a id="event-f15fa38a50dfad4a"></a>
 
@@ -19855,7 +19871,7 @@ Register today and be part of the Crypto Future!
 
 ### About the event
 
-Join a hackathon, learn about LLMs and prompt engineering, or connect with other AI practitioners.
+New location with top views all over Dubai! EcoX Mondays: The AI Agent Edition - welcome to the new network hotspot at Tacenda Lounge. Connect, learn and collaborate with the EcoX global network; the evening runs 7:00-8:00 PM with an AI insights and agent-building session including 'Demystifying AI Agents - A Blueprint for Any Industry,' plus expert takes on AI workflows, automation and prompt architecture. Hosted by Franco Fiore and Jorge Sebastiao.
 
 <a id="event-ab5cdc6716482c7b"></a>
 
