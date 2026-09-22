@@ -1,6 +1,11 @@
 name: FAH fix secrets and deploy
 on:
   workflow_dispatch:
+    inputs:
+      grant_only:
+        description: 'Only grant Firebase App Hosting admin. Do not build or roll out'
+        type: boolean
+        default: false
   workflow_call:
 
 concurrency:
@@ -16,10 +21,29 @@ jobs:
         with:
           credentials_json: ${{ secrets.FIREBASE_APPHOSTING_SERVICE_ACCOUNT_KEY || secrets.FIREBASE_SERVICE_ACCOUNT_KEY }}
       - uses: google-github-actions/setup-gcloud@v2
+      - name: Grant Firebase App Hosting admin to the deploy account
+        id: grant
+        continue-on-error: true
+        run: |
+          set -euo pipefail
+          SA=$(python3 -c 'import json,os; print(json.load(open(os.environ["GOOGLE_APPLICATION_CREDENTIALS"]))["client_email"])')
+          echo "Granting roles/firebaseapphosting.admin to $SA"
+          gcloud projects add-iam-policy-binding web3-jobs-aggregator \
+            --member="serviceAccount:${SA}" \
+            --role="roles/firebaseapphosting.admin" \
+            --quiet
+      - name: Stop if this run cannot grant the deploy role
+        if: ${{ inputs.grant_only == true && steps.grant.outcome != 'success' }}
+        run: |
+          echo "The deploy service account cannot grant itself Firebase App Hosting Admin."
+          echo "An Owner of web3-jobs-aggregator has to add roles/firebaseapphosting.admin to antigravity-agent@web3-jobs-aggregator.iam.gserviceaccount.com."
+          exit 1
       - uses: actions/setup-node@v4
+        if: ${{ inputs.grant_only != true }}
         with:
           node-version: '22'
       - name: Grant App Hosting secret access + sync values
+        if: ${{ inputs.grant_only != true }}
         env:
           FIREBASE_APPHOSTING_PROJECT_ID: web3-jobs-aggregator
           FIREBASE_APPHOSTING_BACKEND: studio
@@ -43,6 +67,7 @@ jobs:
             --backend studio \
             --non-interactive || true
       - name: Create build + rollout for main
+        if: ${{ inputs.grant_only != true }}
         run: |
           set -euo pipefail
           TOKEN=$(gcloud auth print-access-token)

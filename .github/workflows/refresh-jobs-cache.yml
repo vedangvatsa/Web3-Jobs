@@ -46,10 +46,14 @@ on:
         description: 'Draft+gate articles without committing'
         type: boolean
         default: false
+      only_news:
+        description: 'Draft news articles only. No ingest, email, posts, or deploy'
+        type: boolean
+        default: false
 
 concurrency:
   # One group per slot so the afternoon run cannot cancel a morning run still going.
-  group: "${{ github.event.inputs.diagnose_telegram == 'true' && 'publish-diagnose' || (github.event.schedule == '30 3 * * *' && 'publish-slot-morning' || github.event.schedule == '30 11 * * *' && 'publish-slot-afternoon' || github.event.schedule == '30 19 * * *' && 'publish-slot-evening' || github.event.inputs.slot == 'afternoon' && 'publish-slot-afternoon' || github.event.inputs.slot == 'evening' && 'publish-slot-evening' || 'publish-slot-morning') }}"
+  group: "${{ github.event.inputs.only_news == 'true' && 'publish-news-only' || github.event.inputs.diagnose_telegram == 'true' && 'publish-diagnose' || (github.event.schedule == '30 3 * * *' && 'publish-slot-morning' || github.event.schedule == '30 11 * * *' && 'publish-slot-afternoon' || github.event.schedule == '30 19 * * *' && 'publish-slot-evening' || github.event.inputs.slot == 'afternoon' && 'publish-slot-afternoon' || github.event.inputs.slot == 'evening' && 'publish-slot-evening' || 'publish-slot-morning') }}"
   cancel-in-progress: false
 
 jobs:
@@ -57,6 +61,7 @@ jobs:
     runs-on: ubuntu-latest
     outputs:
       morning: ${{ steps.set.outputs.morning }}
+      news: ${{ steps.set.outputs.news }}
       social: ${{ steps.set.outputs.social }}
       slot: ${{ steps.set.outputs.slot }}
       skip: ${{ steps.set.outputs.skip }}
@@ -70,9 +75,19 @@ jobs:
           DIAG="${{ github.event.inputs.diagnose_telegram }}"
           if [ "$DIAG" = "true" ]; then
             echo "morning=false" >> "$GITHUB_OUTPUT"
+            echo "news=false" >> "$GITHUB_OUTPUT"
             echo "social=false" >> "$GITHUB_OUTPUT"
             echo "slot=diagnose" >> "$GITHUB_OUTPUT"
             echo "skip=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          if [ "${{ github.event.inputs.only_news }}" = "true" ]; then
+            echo "morning=false" >> "$GITHUB_OUTPUT"
+            echo "news=true" >> "$GITHUB_OUTPUT"
+            echo "social=false" >> "$GITHUB_OUTPUT"
+            echo "slot=news" >> "$GITHUB_OUTPUT"
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+            echo "Drafting news only."
             exit 0
           fi
           SLOT=""
@@ -106,9 +121,11 @@ jobs:
           # ingest, news, and email for the whole day.
           if [ "$SLOT" = "morning" ] || [ "$MORNING_DONE" != "$TODAY" ]; then
             echo "morning=true" >> "$GITHUB_OUTPUT"
+            echo "news=true" >> "$GITHUB_OUTPUT"
             echo "Morning work is due (slot=$SLOT, morning stamp=${MORNING_DONE:-none})."
           else
             echo "morning=false" >> "$GITHUB_OUTPUT"
+            echo "news=false" >> "$GITHUB_OUTPUT"
           fi
           if [ "$DONE" = "$TODAY" ]; then
             echo "skip=true" >> "$GITHUB_OUTPUT"
@@ -170,7 +187,7 @@ jobs:
 
   publish-news:
     needs: [gate]
-    if: ${{ needs.gate.outputs.skip != 'true' && needs.gate.outputs.morning == 'true' }}
+    if: ${{ needs.gate.outputs.skip != 'true' && needs.gate.outputs.news == 'true' }}
     runs-on: ubuntu-latest
     timeout-minutes: 180
     permissions:
