@@ -87,6 +87,9 @@ jobs:
       - name: Validate job description formatting before publishing
         run: npx tsx scripts/test-job-description-formatting.ts && npx tsx scripts/audit-detail-formatting.ts --jobs
 
+      - name: Typecheck
+        run: npm run typecheck
+
       - name: Restore job/company OG PNG cache
         uses: actions/cache@v4
         with:

@@ -1,3 +1,4 @@
+import { execSync } from 'node:child_process';
 import * as fs from 'fs';
 import * as path from 'path';
 import { buildEventsListing } from '../src/lib/events-listing-build';
@@ -15,6 +16,13 @@ async function main() {
   fs.mkdirSync(path.dirname(PUBLIC_DATA_PATH), { recursive: true });
   fs.writeFileSync(PUBLIC_DATA_PATH, json, 'utf-8');
   console.log(`Wrote ${events.length} events to ${PUBLIC_DATA_PATH}`);
+
+  if (process.env.SKIP_CATALOG_GATES !== '1') {
+    execSync('npx tsx scripts/audit-detail-formatting.ts --events', {
+      stdio: 'inherit',
+      cwd: process.cwd(),
+    });
+  }
 }
 
 main().catch((err) => {

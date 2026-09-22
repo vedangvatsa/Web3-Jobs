@@ -261,6 +261,10 @@ jobs:
           PROMPT="${PROMPT//\$DRY_RUN/$NEWS_DRY_RUN}"
           "$HOME/.opencode/bin/opencode" run --model "$NEWS_MODEL" "$PROMPT"
 
+      - name: News duplicate audit (hard gate)
+        if: ${{ inputs.news_dry_run != true }}
+        run: npx tsx scripts/audit-article-duplicates.ts
+
       - name: Commit articles if the drafter stopped first
         if: ${{ always() && inputs.news_dry_run != true }}
         run: |
@@ -388,11 +392,10 @@ jobs:
         continue-on-error: true
 
       - name: Validate event description formatting before publishing
-        run: npx tsx scripts/test-event-formatting.ts && npx tsx scripts/audit-detail-formatting.ts --events
+        run: npx tsx scripts/test-event-formatting.ts
 
       - name: Precompute events runtime (listing + previews)
         run: npx tsx scripts/precompute-events-runtime.ts && npm run precompute:og-previews
-        continue-on-error: true
 
       - name: Backfill missing self-hosted event covers
         run: npx tsx scripts/backfill-missing-event-covers.ts

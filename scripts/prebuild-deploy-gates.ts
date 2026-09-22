@@ -8,6 +8,11 @@ function run(cmd: string): void {
 }
 
 function fullGates(): void {
+  run('npm run typecheck');
+  run('npx tsx scripts/audit-article-images.ts');
+  run('npx tsx scripts/audit-article-duplicates.ts');
+  run('npx tsx scripts/audit-detail-formatting.ts --jobs');
+  run('npx tsx scripts/audit-detail-formatting.ts --events');
   run('npx tsx scripts/test-middleware.ts');
   run('npx tsx scripts/test-popup-root-pages.ts');
   run('npx tsx scripts/test-og-meta-articles.ts');
