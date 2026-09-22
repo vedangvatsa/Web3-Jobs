@@ -1436,8 +1436,11 @@ async function main() {
   // Each full run posts two different jobs (6/day across the 3 scheduled runs).
   // A chosen slug or a single platform stays at one job.
   const catchUpArmed = !targetSlug && (platform === 'all' || platform === 'both');
+  // A dead account (X credits, for example) stays skipped for the rest of
+  // this run. It must not cancel the second post on networks that worked.
+  const unrecoverableSkips = new Set<SocialPlatform>();
   if (catchUpArmed) {
-    console.log('Second job armed: this run will post two different openings when the first completes.');
+    console.log('Second job armed: each network posts two openings on its own.');
   }
 
   const jobsToPost: Job[] = [selectedJob as Job];
@@ -1536,17 +1539,18 @@ async function main() {
     return;
   }
 
-  // Validate every link target that this run may publish before sending any
-  // post. This prevents partial runs where one platform caches a good card and
-  // another caches an older or generic card for the same job.
+  // Check each network's card on its own. A bad preview skips that
+  // network only; the others still publish this job.
    const alreadyPublished = verifiedPlatformsForSlug(state, slug);
    const pendingPlatforms = new Set(
      state.history
        .filter((entry) => entry.slug === slug && entry.verification === 'pending')
        .map((entry) => entry.platform)
    );
+   const blockedThisRound = new Set<SocialPlatform>();
     const shouldPublishPlatform = (name: SocialPlatform) => {
       if (!(platform === name || shouldPostAll)) return false;
+      if (blockedThisRound.has(name) || unrecoverableSkips.has(name)) return false;
       if (pendingPlatforms.has(name)) return false;
       return force || !alreadyPublished.has(name);
     };
@@ -1554,17 +1558,16 @@ async function main() {
      shouldPublishPlatform(target.platform as SocialPlatform)
    );
   const verifiedPreviews = new Map<string, LinkedInPreview>();
-  let previewFailure = false;
   for (const target of previewTargets) {
     const preview = await verifySocialServing(slug, company, title, target.suffix, target.userAgent);
     if (!preview) {
-      previewFailure = true;
-      console.warn(`Preview readiness failed for ${company} / ${title} on ${target.platform}. Rotating to another job.`);
-      break;
+      blockedThisRound.add(target.platform as SocialPlatform);
+      console.warn(`Preview readiness failed for ${company} / ${title} on ${target.platform}. Skipping that network only.`);
+      continue;
     }
     verifiedPreviews.set(target.platform, preview);
   }
-   if (previewFailure) {
+   if (!requestedPlatforms.some(shouldPublishPlatform)) {
     if (targetSlug) {
       throw new Error(`Preview readiness failed for explicitly requested job ${slug}; no replacement post was created.`);
     }
@@ -1592,9 +1595,6 @@ async function main() {
   let postedSuccessCount = 0;
   const attemptedPlatforms = new Set<SocialPlatform>();
   const newlyVerifiedPlatforms = new Set<SocialPlatform>();
-  // Billing/auth failures that will not recover mid-run; do not block other
-  // platforms (LinkedIn, Facebook, etc.) from completing the job cycle.
-  const unrecoverableSkips = new Set<SocialPlatform>();
 
    if (shouldPublishPlatform('x')) {
     attemptedPlatforms.add('x');
@@ -1837,14 +1837,13 @@ async function main() {
      );
    }
 
-    // Enqueue the catch-up round (if armed): a second, different-company job
-    // appended to jobsToPost lengthens this same loop by one iteration. An
-    // empty pick ends the extension silently (single post, as before).
+    // A second, different-company job. Any network that posted the first
+    // opening posts this one too. Networks that failed stay on the first.
     if (
       round === 0 &&
       jobsToPost.length === 1 &&
       catchUpArmed &&
-       allPlatformsSucceeded
+      postedSuccessCount > 0
     ) {
       const next = pickNextJob(typeof company === 'string' ? company.toLowerCase() : '', slug);
       if (next) {
