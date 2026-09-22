@@ -4569,5 +4569,29 @@
       "pageTitle": "Bitmela · Most People Never Understand Money",
       "sha256": "52208d9c4b46374ca51b45758b61bf6a25951e6a67a6f51f28445e3732445526"
     }
+  },
+  {
+    "id": "premier-hk-fintech-week-2026",
+    "slug": "hong-kong-fintech-week-2026",
+    "name": "Hong Kong FinTech Week x StartmeupHK Festival 2026",
+    "description": "Hong Kong FinTech Week x StartmeupHK Festival 2026 runs 2–6 November 2026 at the Hong Kong Convention and Exhibition Centre.\n\n## Program\n\nThe week pairs the FinTech Week conference with the StartmeupHK Festival, covering digital assets, payments, tokenization, AI in finance and startup showcases across multiple stages and side events.\n\n## Who attends\n\nThe event is presented with FintechHK and Startmeup.hk alongside Finoverse, with participation from the HKMA, SFC and Insurance Authority — drawing founders, investors, banks, regulators and technology providers from across Asia and beyond.",
+    "startDate": "2026-11-02",
+    "endDate": "2026-11-06",
+    "city": "Hong Kong",
+    "country": "HK",
+    "location": "Hong Kong Convention and Exhibition Centre, Hong Kong, HK",
+    "url": "https://www.fintechweek.hk/",
+    "website": "https://www.fintechweek.hk/",
+    "twitter": null,
+    "source": "curated-premier",
+    "venueName": "Hong Kong Convention and Exhibition Centre",
+    "addressLocality": "Hong Kong",
+    "addressCountry": "HK",
+    "descriptionSource": {
+      "url": "https://www.fintechweek.hk/",
+      "fetchedAt": "2026-09-22T10:45:57.000Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Hong Kong FinTech Week x StartmeupHK 2026 | Nov 2-6"
+    }
   }
 ]
