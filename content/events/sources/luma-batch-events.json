@@ -405,7 +405,7 @@
     "id": "luma-batch-HilaZqZBzslujGA",
     "slug": "btunyc",
     "name": "Bitcoin Treasuries Conference: September 2026",
-    "description": "The Bitcoin Treasuries Conference exists for those who aren't waiting for permission — allocators, executives, and strategists already building positions. One day. One room. New York City.\n\n## Event details\n\nHosted by Rizzo, Timothy Kotzman, Ed Juline. Venue: SECOND, SECOND, 849 6th Ave, New York, NY 10001, USA. Tickets: USD 295. Registration requires organizer approval.",
+    "description": "The Bitcoin Treasuries Conference exists for those who aren't waiting for permission — allocators, executives, and strategists already building positions. One day. One room. New York City.\n\n## Event details\n\nHosted by Rizzo, Timothy Kotzman, Ed Juline. Venue: SECOND, SECOND, 849 6th Ave, New York, NY 10001, USA. Tickets: USD 295. Registration requires organizer approval.\n\n\n## Tickets\n\nFour ticket tiers are listed: Non-Profit & Student for US$295, General Admission for US$795, and VIP for US$1,995, with an earlier US$695 General Admission tier sold out. Registration requires organizer approval.\n\n## Hosts\n\nHosted by Rizzo, Timothy Kotzman (host of The Bitcoin Treasuries Podcast) and Ed Juline (Bitcoin Treasuries Media).",
     "startDate": "2026-09-28T12:00:00.000Z",
     "endDate": "2026-09-28T21:30:00.000Z",
     "city": "New York",
@@ -468,7 +468,7 @@
       "fetchedAt": "2026-09-22T10:40:02.039Z",
       "method": "luma-page",
       "apifyRunId": "xaRAFVxiGJ65xirOe",
-      "enrichedAt": "2026-09-22T10:54:38.000Z",
+      "enrichedAt": "2026-09-22T10:59:33.000Z",
       "enrichMethod": "organizer-facts"
     }
   },
@@ -1583,56 +1583,6 @@
       "fetchedAt": "2026-09-22T10:40:02.039Z",
       "method": "luma-page",
       "apifyRunId": "xaRAFVxiGJ65xirOe"
-    }
-  },
-  {
-    "id": "luma-batch-AhfbNFZJFBAk3tC",
-    "slug": "p4aynvxh",
-    "name": "Solana Summit",
-    "description": "Conference/Summit\n\n## Event details\n\nHosted by Otis Rising. Venue: The Ritz-Carlton, Millenia Singapore, The Ritz-Carlton, Millenia Singapore, 7 Raffles Ave., Marina Bay, Singapore 039799. Tickets: Free.",
-    "startDate": "2026-10-06T01:00:00.000Z",
-    "endDate": "2026-10-06T10:00:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "The Ritz-Carlton, Millenia Singapore, The Ritz-Carlton, Millenia Singapore, 7 Raffles Ave., Marina Bay, Singapore 039799",
-    "url": "https://luma.com/p4aynvxh",
-    "registrationUrl": "https://luma.com/p4aynvxh",
-    "coverImage": "/events/luma-batch-AhfbNFZJFBAk3tC-38045477.jpg",
-    "source": "luma-batch",
-    "hosts": [
-      "Otis Rising"
-    ],
-    "price": "Free",
-    "approvalRequired": false,
-    "timezone": "Asia/Singapore",
-    "neighborhood": "Downtown Core",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "The Ritz-Carlton, Millenia Singapore",
-    "addressLocality": "Singapore",
-    "addressCountry": "SG",
-    "organizer": {
-      "type": "Organization",
-      "name": "Otis Rising"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/p4aynvxh",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/p4aynvxh",
-      "eventId": "evt-AhfbNFZJFBAk3tC",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe",
-      "enrichedAt": "2026-09-22T10:54:38.000Z",
-      "enrichMethod": "organizer-facts"
     }
   },
   {
@@ -5425,63 +5375,10 @@
     }
   },
   {
-    "id": "luma-batch-aHlxZW4Y17WyJ6P",
-    "slug": "muzyshuf",
-    "name": "Monkes @ Solana Summit Canada",
-    "description": "Getting the Monkes together to celebrate all that is Canada during the premier Solana and web3 Conference in Canada\n\n## Event details\n\nHosted by Chris Chung, Simon, niightwing. Venue: St. Lawrence, Toronto, Ontario, Canada. Tickets: Free. Registration requires organizer approval.",
-    "startDate": "2026-09-23T22:30:00.000Z",
-    "endDate": "2026-09-24T00:30:00.000Z",
-    "city": "Toronto",
-    "country": "Canada",
-    "location": "St. Lawrence, Toronto, Ontario, Canada",
-    "url": "https://luma.com/muzyshuf",
-    "registrationUrl": "https://luma.com/muzyshuf",
-    "coverImage": "/events/luma-batch-aHlxZW4Y17WyJ6P-57775fbb.png",
-    "source": "luma-batch",
-    "hosts": [
-      "Chris Chung",
-      "Simon",
-      "niightwing"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "America/Toronto",
-    "neighborhood": "St. Lawrence",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "addressLocality": "Toronto",
-    "addressRegion": "Ontario",
-    "addressCountry": "CA",
-    "organizer": {
-      "type": "Organization",
-      "name": "Chris Chung",
-      "url": "https://luma.com/user/realRockyChung"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/muzyshuf",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/muzyshuf",
-      "eventId": "evt-aHlxZW4Y17WyJ6P",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe",
-      "enrichedAt": "2026-09-22T10:54:38.000Z",
-      "enrichMethod": "organizer-facts"
-    }
-  },
-  {
     "id": "luma-batch-2E31GeLAJojbvUh",
     "slug": "6bfjk8mr",
     "name": "Toronto Digital Assets Roundtable & Dinner",
-    "description": "Exclusive dinner for friends and partners of Titan, Pyth, Altitude, and Helius\n\n## Event details\n\nHosted by Chris Chung, Superteam Canada, Genia | Pyth, Phil Jacobson, Ichigo, defipancakes | Titan, Tim Lee | Titan, Richard. Venue: Annex, Toronto, Ontario, Canada. Tickets: Free. Registration requires organizer approval.",
+    "description": "Exclusive dinner for friends and partners of Titan, Pyth, Altitude, and Helius\n\n## Event details\n\nHosted by Chris Chung, Superteam Canada, Genia | Pyth, Phil Jacobson, Ichigo, defipancakes | Titan, Tim Lee | Titan, Richard. Venue: Annex, Toronto, Ontario, Canada. Tickets: Free. Registration requires organizer approval.\n\n\n## Event details\n\nCo-hosted by Chris Chung (CEO and Co-Founder of Titan Exchange), Superteam Canada, Genia (Business Development at Douro Labs and Pyth Network contributor), Phil Jacobson (CBO at Altitude) and members of the Titan team. An exclusive dinner in Toronto's Annex neighbourhood. Entry is free with organizer approval. The dinner takes place on September 23.",
     "startDate": "2026-09-23T22:30:00.000Z",
     "endDate": "2026-09-24T00:30:00.000Z",
     "city": "Toronto",
@@ -5531,7 +5428,7 @@
       "fetchedAt": "2026-09-22T10:40:02.039Z",
       "method": "luma-page",
       "apifyRunId": "xaRAFVxiGJ65xirOe",
-      "enrichedAt": "2026-09-22T10:54:38.000Z",
+      "enrichedAt": "2026-09-22T10:59:33.000Z",
       "enrichMethod": "organizer-facts"
     }
   },
@@ -5739,56 +5636,6 @@
       "fetchedAt": "2026-09-22T10:40:02.039Z",
       "method": "luma-page",
       "apifyRunId": "xaRAFVxiGJ65xirOe"
-    }
-  },
-  {
-    "id": "luma-batch-stT61rgAwsXcouG",
-    "slug": "jdu5eerc",
-    "name": "Bitcoin Bay Sauga",
-    "description": "## Event details\n\nHosted by Martin. Venue: Chuck's Roadhouse Bar and Grill, Chuck's Roadhouse Bar and Grill, 1151 Dundas St W Unit 27, Mississauga, ON L5C 1C9, Canada. Tickets: Free.",
-    "startDate": "2026-09-24T23:30:00.000Z",
-    "endDate": "2026-09-25T03:00:00.000Z",
-    "city": "Mississauga",
-    "country": "Canada",
-    "location": "Chuck's Roadhouse Bar and Grill, Chuck's Roadhouse Bar and Grill, 1151 Dundas St W Unit 27, Mississauga, ON L5C 1C9, Canada",
-    "url": "https://luma.com/jdu5eerc",
-    "registrationUrl": "https://luma.com/jdu5eerc",
-    "coverImage": "/events/luma-batch-stT61rgAwsXcouG-2971b4e6.png",
-    "source": "luma-batch",
-    "hosts": [
-      "Martin"
-    ],
-    "price": "Free",
-    "approvalRequired": false,
-    "timezone": "America/Toronto",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "Chuck's Roadhouse Bar and Grill",
-    "addressLocality": "Mississauga",
-    "addressRegion": "Ontario",
-    "addressCountry": "CA",
-    "organizer": {
-      "type": "Organization",
-      "name": "Martin"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/jdu5eerc",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/jdu5eerc",
-      "eventId": "evt-stT61rgAwsXcouG",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe",
-      "enrichedAt": "2026-09-22T10:54:38.000Z",
-      "enrichMethod": "organizer-facts"
     }
   },
   {

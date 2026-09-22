@@ -25831,6 +25831,8 @@ Exclusive dinner for friends and partners of Titan, Pyth, Altitude, and Helius
 
 Hosted by Chris Chung, Superteam Canada, Genia | Pyth, Phil Jacobson, Ichigo, defipancakes | Titan, Tim Lee | Titan, Richard. Venue: Annex, Toronto, Ontario, Canada. Tickets: Free. Registration requires organizer approval.
 
+Co-hosted by Chris Chung (CEO and Co-Founder of Titan Exchange), Superteam Canada, Genia (Business Development at Douro Labs and Pyth Network contributor), Phil Jacobson (CBO at Altitude) and members of the Titan team. An exclusive dinner in Toronto's Annex neighbourhood. Entry is free with organizer approval. The dinner takes place on September 23.
+
 <a id="event-28b94e116f0553af"></a>
 
 ## Collector Game Night
@@ -25892,24 +25894,6 @@ X | @DrinkFlojoInstagram | @DrinkFlojo
 A two-day Toronto gathering connecting founders, developers and creators to explore new technology and meet the people building it. Organized by Superteam Canada.
 
 X | @SuperteamCANWebsite | canada.solanasummit.org
-
-<a id="event-b6539d699d81153e"></a>
-
-## Monkes @ Solana Summit Canada
-
-- Record: `luma-batch-aHlxZW4Y17WyJ6P`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-23T22:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/muzyshuf>
-
-### About the event
-
-Getting the Monkes together to celebrate all that is Canada during the premier Solana and web3 Conference in Canada
-
-### Event details
-
-Hosted by Chris Chung, Simon, niightwing. Venue: St. Lawrence, Toronto, Ontario, Canada. Tickets: Free. Registration requires organizer approval.
 
 <a id="event-1a47b83b001433c4"></a>
 
@@ -26980,20 +26964,6 @@ WHO THIS IS FOR Founders and technical leads at AI-native companies with custome
 Hosted by Beta Fund,
 
 Presented by Antom: Antom is Ant International's merchant payment platform - 300+ payment methods across 200+ markets, and one of the few operators running tokenized deposits in production today rather than in a pilot deck.
-
-<a id="event-dd685203a9942c46"></a>
-
-## Bitcoin Bay Sauga
-
-- Record: `luma-batch-stT61rgAwsXcouG`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-24T23:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/jdu5eerc>
-
-### Event details
-
-Hosted by Martin. Venue: Chuck's Roadhouse Bar and Grill, Chuck's Roadhouse Bar and Grill, 1151 Dundas St W Unit 27, Mississauga, ON L5C 1C9, Canada. Tickets: Free.
 
 <a id="event-d21ff657cc15ff8c"></a>
 
@@ -28796,6 +28766,14 @@ The Bitcoin Treasuries Conference exists for those who aren't waiting for permis
 ### Event details
 
 Hosted by Rizzo, Timothy Kotzman, Ed Juline. Venue: SECOND, SECOND, 849 6th Ave, New York, NY 10001, USA. Tickets: USD 295. Registration requires organizer approval.
+
+### Tickets
+
+Four ticket tiers are listed: Non-Profit & Student for US$295, General Admission for US$795, and VIP for US$1,995, with an earlier US$695 General Admission tier sold out. Registration requires organizer approval.
+
+### Hosts
+
+Hosted by Rizzo, Timothy Kotzman (host of The Bitcoin Treasuries Podcast) and Ed Juline (Bitcoin Treasuries Media).
 
 <a id="event-89e29beaa89d2272"></a>
 
@@ -30802,24 +30780,6 @@ TOKEN2049 前一天，我们从一场轻松的 5 公里跑步开始这一周
 没有比赛压力，按照自己的节奏参加就好
 
 确认参加的嘉宾还会收到限量 swag
-
-<a id="event-5a9d4214c47a5577"></a>
-
-## Solana Summit
-
-- Record: `luma-batch-AhfbNFZJFBAk3tC`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-06T01:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/p4aynvxh>
-
-### About the event
-
-Conference/Summit
-
-### Event details
-
-Hosted by Otis Rising. Venue: The Ritz-Carlton, Millenia Singapore, The Ritz-Carlton, Millenia Singapore, 7 Raffles Ave., Marina Bay, Singapore 039799. Tickets: Free.
 
 <a id="event-4b7e921ca8231ebd"></a>
 
