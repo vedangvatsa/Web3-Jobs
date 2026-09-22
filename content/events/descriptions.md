@@ -2557,7 +2557,23 @@ No. To maintain fairness, all project work must begin after the official hacking
 
 ### About the event
 
-TOKEN2049 is the world's largest crypto event. Join the crypto ecosystem's decision-makers in Singapore to connect, exchange ideas, network, and shape the industry.
+TOKEN2049 Singapore 2026 runs 7-8 October 2026 at Marina Bay Sands, taking over all five floors of the venue for its biggest edition yet.
+
+### Scale
+
+The organizer expects 25,000+ attendees from 160+ countries, 7,000+ companies, 300+ speakers and 500+ exhibitors, with over 60% of attendees at C-level and more than 1,000 side events across the week.
+
+### Program
+
+Alongside the main stages, the week includes the NEXUS startup competition (500 applicants, 10 finalists pitching on the global stage), the TOKEN2049 Origins hackathon (36 hours from concept to working product), the Startup Village exhibition area, and AFTER2049, the official closing party on 9 October at the MBS SkyPark.
+
+### Tickets
+
+Tickets are on sale now, currently listed at US$599 before the 24 September price increase, with payment by card or crypto. Get 10% off with our code HASHTAGWEB3.
+
+### Who attends
+
+Founders, investors, developers, exchange and protocol teams, institutions, policymakers and media - anyone shaping the global crypto industry.
 
 ### Speakers
 

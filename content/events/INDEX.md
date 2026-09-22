@@ -76,7 +76,7 @@ Each entry links to its formatted description and original source file. All stor
 | [Global Onchain Summit Singapore 2026](descriptions.md#event-10d7190c91769be2) | 2026-10-06 | Source-backed (3625 chars) |
 | [Digital Assets Week London 2026](descriptions.md#event-2f6671a42b581c26) | 2026-10-06 | Source-backed (1245 chars) |
 | [TOKEN2049 Origins Hackathon 2026](descriptions.md#event-7a9e30d3fbf20583) | 2026-10-06 | Source-backed (2287 chars) |
-| [TOKEN2049 Singapore 2026](descriptions.md#event-aeedb571ec460801) | 2026-10-07 | Source-backed (533 chars) |
+| [TOKEN2049 Singapore 2026](descriptions.md#event-aeedb571ec460801) | 2026-10-07 | Source-backed (1392 chars) |
 | [Sui Basecamp 2026](descriptions.md#event-14df72e9594dc005) | 2026-10-07 | Source-backed (132 chars) |
 | [Stablecoin Summit Singapore 2026](descriptions.md#event-9c798a3d0e6b65c0) | 2026-10-08 | Source-backed (681 chars) |
 | [The Odds: Prediction Markets Summit Singapore 2026](descriptions.md#event-c7a04d91ec43b6f9) | 2026-10-08 | Source-backed (167 chars) |
