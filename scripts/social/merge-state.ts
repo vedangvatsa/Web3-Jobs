@@ -138,7 +138,7 @@ function discoverFiles(): string[] {
  if (fs.existsSync(socialDir)) {
  const files = fs.readdirSync(socialDir);
  for (const file of files) {
- if (file.endsWith('.json')) {
+ if (file.endsWith('.json') && file !== 'publish-slot-state.json') {
  discovered.push(path.join(socialDir, file));
  }
  }

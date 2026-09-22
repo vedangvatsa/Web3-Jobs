@@ -1,14 +1,17 @@
 name: Publish Jobs, Events & Social
 
-# Three scheduled runs a day, 8 hours apart. Each run posts two job
-# openings to X, Threads, Bluesky, Farcaster, LinkedIn, Facebook, and
-# Instagram, and one Telegram post each for jobs, news, and events.
-# The 03:30 UTC run also ingests jobs, drafts every qualifying news
-# article from the last 24 hours, and sends the Resend alert.
+# Three slots a day. GitHub's own cron on this public repo is delivered
+# hours late (the 03:30 UTC / 9:00 IST event routinely starts ~08:00–09:10 UTC),
+# so the on-time clock is an external workflow_dispatch (Mac launchd or
+# Cloud Scheduler). The cron below stays as a backup. A slot that already
+# completed today is skipped, and a later slot does not cancel an earlier one.
+#
+# morning (03:30 UTC): ingest, Resend alerts, news drafts, social, Telegram
+# afternoon (11:30 UTC) and evening (19:30 UTC): social + Telegram only
 
 on:
   schedule:
-    # 9 AM IST / 11:30 AM SGT = 3:30 AM UTC
+    # 9 AM IST / 11:30 AM SGT = 3:30 AM UTC — backup only; do not rely on this for 9:00
     - cron: '30 3 * * *'
     # 5 PM IST / 7:30 PM SGT = 11:30 AM UTC
     - cron: '30 11 * * *'
@@ -16,6 +19,14 @@ on:
     - cron: '30 19 * * *'
   workflow_dispatch:
     inputs:
+      slot:
+        description: 'Which publish slot to run'
+        type: choice
+        options:
+          - morning
+          - afternoon
+          - evening
+        default: morning
       force_news:
         description: 'Bypass news cooldown and post digests now'
         type: boolean
@@ -33,28 +44,90 @@ on:
         default: false
 
 concurrency:
-  group: social-syndication
-  cancel-in-progress: true
+  # One group per slot so the afternoon run cannot cancel a morning run still going.
+  group: "${{ github.event.inputs.diagnose_telegram == 'true' && 'publish-diagnose' || (github.event.schedule == '30 3 * * *' && 'publish-slot-morning' || github.event.schedule == '30 11 * * *' && 'publish-slot-afternoon' || github.event.schedule == '30 19 * * *' && 'publish-slot-evening' || github.event.inputs.slot == 'afternoon' && 'publish-slot-afternoon' || github.event.inputs.slot == 'evening' && 'publish-slot-evening' || 'publish-slot-morning') }}"
+  cancel-in-progress: false
 
 jobs:
+  gate:
+    runs-on: ubuntu-latest
+    outputs:
+      morning: ${{ steps.set.outputs.morning }}
+      social: ${{ steps.set.outputs.social }}
+      slot: ${{ steps.set.outputs.slot }}
+      skip: ${{ steps.set.outputs.skip }}
+    steps:
+      - uses: actions/checkout@v4
+      - id: set
+        run: |
+          set -euo pipefail
+          CRON="${{ github.event.schedule }}"
+          INPUT="${{ github.event.inputs.slot }}"
+          DIAG="${{ github.event.inputs.diagnose_telegram }}"
+          if [ "$DIAG" = "true" ]; then
+            echo "morning=false" >> "$GITHUB_OUTPUT"
+            echo "social=false" >> "$GITHUB_OUTPUT"
+            echo "slot=diagnose" >> "$GITHUB_OUTPUT"
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          SLOT=""
+          case "$CRON" in
+            "30 3 * * *") SLOT=morning ;;
+            "30 11 * * *") SLOT=afternoon ;;
+            "30 19 * * *") SLOT=evening ;;
+          esac
+          if [ -z "$SLOT" ]; then
+            SLOT="${INPUT:-morning}"
+          fi
+          case "$SLOT" in
+            morning)
+              echo "morning=true" >> "$GITHUB_OUTPUT"
+              echo "social=true" >> "$GITHUB_OUTPUT"
+              ;;
+            afternoon|evening)
+              echo "morning=false" >> "$GITHUB_OUTPUT"
+              echo "social=true" >> "$GITHUB_OUTPUT"
+              ;;
+            *)
+              echo "Unknown slot: $SLOT" >&2
+              exit 1
+              ;;
+          esac
+          echo "slot=$SLOT" >> "$GITHUB_OUTPUT"
+          TODAY=$(date -u +%F)
+          STATE="scripts/social/publish-slot-state.json"
+          DONE=""
+          if [ -f "$STATE" ]; then
+            DONE=$(node -e "const fs=require('fs'); const s=JSON.parse(fs.readFileSync(process.argv[1],'utf8')); process.stdout.write(s[process.argv[2]]||'')" "$STATE" "$SLOT")
+          fi
+          if [ "$DONE" = "$TODAY" ]; then
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+            echo "Slot $SLOT already completed for $TODAY — skipping."
+          else
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+            echo "Running slot $SLOT for $TODAY."
+          fi
+
   ingest:
-    if: ${{ github.event.schedule == '30 3 * * *' }}
+    needs: [gate]
+    if: ${{ needs.gate.outputs.skip != 'true' && needs.gate.outputs.morning == 'true' }}
     permissions:
       contents: write
     uses: ./.github/workflows/refresh-jobs-ingest.yml
     secrets: inherit
 
   job-alerts:
-    needs: [ingest]
-    if: ${{ always() && github.event.schedule == '30 3 * * *' && needs.ingest.result != 'cancelled' }}
+    needs: [gate, ingest]
+    if: ${{ always() && needs.gate.outputs.skip != 'true' && needs.gate.outputs.morning == 'true' && needs.ingest.result != 'cancelled' }}
     permissions:
       contents: write
     uses: ./.github/workflows/daily-job-alerts.yml
     secrets: inherit
 
   post-openings:
-    needs: [ingest]
-    if: ${{ always() && github.event_name == 'schedule' && needs.ingest.result != 'cancelled' }}
+    needs: [gate, ingest]
+    if: ${{ always() && needs.gate.outputs.skip != 'true' && needs.gate.outputs.social == 'true' && needs.ingest.result != 'cancelled' }}
     permissions:
       contents: write
       checks: read
@@ -81,7 +154,8 @@ jobs:
         run: node scripts/telegram-diagnose.mjs
 
   publish-news:
-    if: ${{ github.event.inputs.diagnose_telegram != 'true' && (github.event_name == 'workflow_dispatch' || github.event.schedule == '30 3 * * *') }}
+    needs: [gate]
+    if: ${{ needs.gate.outputs.skip != 'true' && needs.gate.outputs.morning == 'true' }}
     runs-on: ubuntu-latest
     timeout-minutes: 180
     permissions:
@@ -137,8 +211,8 @@ jobs:
           echo "Dry-run clean: no commits, no pushes."
 
   refresh-and-post:
-    needs: [ingest]
-    if: ${{ always() && needs.ingest.result != 'cancelled' && github.event.inputs.diagnose_telegram != 'true' }}
+    needs: [gate, ingest]
+    if: ${{ always() && needs.gate.outputs.skip != 'true' && needs.gate.outputs.social == 'true' && needs.ingest.result != 'cancelled' && github.event.inputs.diagnose_telegram != 'true' }}
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -271,6 +345,9 @@ jobs:
           # by the daily ingest (refresh-jobs-ingest.yml) — never stage them
           # here, or intraday runs will fight the morning ingest on rebase.
           git add content/events/ content/events-runtime.json content/legacy-slugs-archive.json content/prebuild-input-hashes.json scripts/social/*.json .telegram*.json .resend-broadcast-sent.json public/preview/ public/events/ 2>/dev/null || true
+          # Owned by record-slot. Staging it here races the daily stamp.
+          git reset HEAD -- scripts/social/publish-slot-state.json 2>/dev/null || true
+          git checkout -- scripts/social/publish-slot-state.json 2>/dev/null || true
 
           if git diff --staged --quiet; then
             echo "No changes to commit"
@@ -283,3 +360,34 @@ jobs:
               sleep 2
             done
           fi
+
+  record-slot:
+    needs: [gate, ingest, job-alerts, post-openings, publish-news, refresh-and-post]
+    if: ${{ always() && needs.gate.outputs.skip != 'true' && needs.gate.result == 'success' && needs.ingest.result != 'failure' && needs.ingest.result != 'cancelled' && needs.job-alerts.result != 'failure' && needs.job-alerts.result != 'cancelled' && needs.post-openings.result != 'failure' && needs.post-openings.result != 'cancelled' && needs.publish-news.result != 'failure' && needs.publish-news.result != 'cancelled' && needs.refresh-and-post.result != 'failure' && needs.refresh-and-post.result != 'cancelled' }}
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Record completed slot so a late GitHub cron does not run it again
+        run: |
+          set -euo pipefail
+          SLOT="${{ needs.gate.outputs.slot }}"
+          TODAY=$(date -u +%F)
+          STATE="scripts/social/publish-slot-state.json"
+          node -e "const fs=require('fs'); const p=process.argv[1]; const s=fs.existsSync(p)?JSON.parse(fs.readFileSync(p,'utf8')):{}; s[process.argv[2]]=process.argv[3]; fs.writeFileSync(p, JSON.stringify(s,null,2)+'\n');" "$STATE" "$SLOT" "$TODAY"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add "$STATE"
+          if git diff --staged --quiet; then
+            echo "Slot stamp already recorded"
+            exit 0
+          fi
+          git commit -m "chore: record publish slot ${SLOT} for ${TODAY} [skip ci]"
+          for i in 1 2 3; do
+            git pull --rebase origin main || true
+            git push origin main && exit 0
+            echo "Stamp push attempt $i failed, retrying..."
+            sleep 2
+          done
+          exit 1
