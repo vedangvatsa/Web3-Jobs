@@ -1,5 +1,5 @@
 {
-  "lastIndex": 209,
+  "lastIndex": 210,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -101,7 +101,8 @@
     "tax8",
     "spyc",
     "an13",
-    "cmp19"
+    "cmp19",
+    "des"
   ],
   "history": [
     {
@@ -6149,6 +6150,215 @@
       "platform": "facebook",
       "postedAt": "2026-09-22T07:58:54.313Z",
       "postId": "691827047618629_1094770996463468",
+      "verification": "verified"
+    },
+    {
+      "slug": "des",
+      "company": "TRM Labs",
+      "title": "Senior Brand Designer",
+      "platform": "threads",
+      "postedAt": "2026-09-22T09:03:09.343Z",
+      "postId": "18638951281015202",
+      "verification": "verified",
+      "expectedText": "TRM Labs is hiring Senior Brand Designer: https://hashtagweb3.com/des/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DdlXl0TG0Ho",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "des",
+      "company": "TRM Labs",
+      "title": "Senior Brand Designer",
+      "platform": "bluesky",
+      "postedAt": "2026-09-22T09:03:09.343Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mw3ulrg3j72j",
+      "verification": "verified"
+    },
+    {
+      "slug": "des",
+      "company": "TRM Labs",
+      "title": "Senior Brand Designer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T09:03:09.343Z",
+      "postId": "0xee3fa2fa44ba7742c5e07001994b49fda6df059a",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "des",
+      "company": "TRM Labs",
+      "title": "Senior Brand Designer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T09:03:09.343Z",
+      "postId": "0xd5359615b2a3f6d214c933dffedd014ac8715fcd",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "des",
+      "company": "TRM Labs",
+      "title": "Senior Brand Designer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T09:03:09.343Z",
+      "postId": "0x65be63ffca606a3b8ae22217cb08e68c2ac49f0e",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "des",
+      "company": "TRM Labs",
+      "title": "Senior Brand Designer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T09:03:09.343Z",
+      "postId": "0x1b4d8cf7bac8c28afaea93d4a16d04960a66fde5",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "des",
+      "company": "TRM Labs",
+      "title": "Senior Brand Designer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T09:03:09.343Z",
+      "postId": "0x741fc3fe95276c60faf10354b618aa949559f147",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "des",
+      "company": "TRM Labs",
+      "title": "Senior Brand Designer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T09:03:09.343Z",
+      "postId": "0xe228fc38dffb82579f9699c8416252b2929458aa",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "des",
+      "company": "TRM Labs",
+      "title": "Senior Brand Designer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T09:03:09.343Z",
+      "postId": "0xb1872d40d15dafd988cc94199efe57b0dd721714",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "des",
+      "company": "TRM Labs",
+      "title": "Senior Brand Designer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T09:03:09.343Z",
+      "postId": "0x46abee23ba4584b067cb69650fc968af6d9634c1",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "des",
+      "company": "TRM Labs",
+      "title": "Senior Brand Designer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T09:03:09.343Z",
+      "postId": "0x43c8b2d223f4e00a8d0de720eef9b32396174157",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "des",
+      "company": "TRM Labs",
+      "title": "Senior Brand Designer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T09:03:09.343Z",
+      "postId": "0xe9f566266abfaf113d71c5e7b3ee90edc19c1c2e",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "des",
+      "company": "TRM Labs",
+      "title": "Senior Brand Designer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T09:03:09.343Z",
+      "postId": "0x1bb55d954fc5e9ab4bb654bc9be192f113674727",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "des",
+      "company": "TRM Labs",
+      "title": "Senior Brand Designer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T09:03:09.343Z",
+      "postId": "0xa5a5bf82d5ba3818697033ad105e84649cdabde4",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "des",
+      "company": "TRM Labs",
+      "title": "Senior Brand Designer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T09:03:09.343Z",
+      "postId": "0x97ffe1a540d3c398e95a9a4c0cfe145ad7261551",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "des",
+      "company": "TRM Labs",
+      "title": "Senior Brand Designer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T09:03:09.343Z",
+      "postId": "0x69507993756d2c5fdfbc78a4c2b18e0a39a74037",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "des",
+      "company": "TRM Labs",
+      "title": "Senior Brand Designer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T09:03:09.343Z",
+      "postId": "0xcde34cad44ec98ad965c5f40ae7a8961ba60041a",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "des",
+      "company": "TRM Labs",
+      "title": "Senior Brand Designer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T09:03:09.343Z",
+      "postId": "0xfc3de9253fa9ca5a90751344f6bc924c409d82cf",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "des",
+      "company": "TRM Labs",
+      "title": "Senior Brand Designer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T09:03:09.343Z",
+      "postId": "0x81dba34f18f0db8efb395ec52c1debe1fa548ae2",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "des",
+      "company": "TRM Labs",
+      "title": "Senior Brand Designer",
+      "platform": "linkedin",
+      "postedAt": "2026-09-22T09:03:09.343Z",
+      "postId": "6ab2445de6bae09bd80d3b1e",
+      "verification": "verified"
+    },
+    {
+      "slug": "des",
+      "company": "TRM Labs",
+      "title": "Senior Brand Designer",
+      "platform": "facebook",
+      "postedAt": "2026-09-22T09:03:09.343Z",
+      "postId": "691827047618629_1094809016459666",
       "verification": "verified"
     }
   ]
