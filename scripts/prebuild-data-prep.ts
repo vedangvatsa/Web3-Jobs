@@ -23,10 +23,12 @@ function main(): void {
   const manifest = loadManifest();
   let ran = 0;
 
+  const dirtyOutputs = new Set<string>();
   for (const step of PREBUILD_DATA_STEPS) {
-    if (!shouldRunStep(step, manifest, fast)) continue;
+    if (!shouldRunStep(step, manifest, fast, dirtyOutputs)) continue;
     run(step.command);
     recordStep(manifest, step);
+    for (const output of step.outputs) dirtyOutputs.add(output);
     ran += 1;
   }
 

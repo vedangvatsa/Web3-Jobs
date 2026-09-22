@@ -28,17 +28,26 @@ export function stepInputHash(step: PrebuildStep): string {
   return hashPaths(ROOT, step.inputs);
 }
 
-export function shouldRunStep(step: PrebuildStep, manifest: HashManifest, fast: boolean): boolean {
+export function shouldRunStep(
+  step: PrebuildStep,
+  manifest: HashManifest,
+  fast: boolean,
+  dirtyOutputs?: Set<string>,
+): boolean {
   const current = stepInputHash(step);
   const stored = manifest.steps[step.id]?.inputHash;
   const ready = outputsReady(ROOT, step.outputs);
+  const upstreamChanged = dirtyOutputs
+    ? step.inputs.some((input) => dirtyOutputs.has(input))
+    : false;
 
   if (fast) {
-    if (ready) {
+    if (ready && !upstreamChanged) {
       console.log(`[prebuild-data] ${step.id}: outputs present → skip (FAH_FAST)`);
       return false;
     }
-    console.log(`[prebuild-data] ${step.id}: missing outputs → run (FAH_FAST)`);
+    const reason = upstreamChanged ? 'upstream outputs changed' : 'missing outputs';
+    console.log(`[prebuild-data] ${step.id}: ${reason} → run (FAH_FAST)`);
     return true;
   }
 
