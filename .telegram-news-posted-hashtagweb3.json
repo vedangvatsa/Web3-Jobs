@@ -587,6 +587,9 @@
   "https://hashtagweb3.com/waterplum?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/solana-slots?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://cointelegraph.com/news/circle-launches-bitcoin-backed-usdc-borrowing-for-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "https://hashtagweb3.com/coinbase-oura?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/ondo-shares?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/x-payout?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -1669,6 +1672,12 @@
   "Solana Cuts Slot Time to 250 Milliseconds in Third Speed Step",
   "Circle launches Bitcoin-collateralized USDC loans for institutions",
   "Circle launches Bitcoin-backed USDC borrowing for institutional clients",
+  "Coinbase offers Oura IPO access to US retail users",
+  "Coinbase Opens Oura IPO Allocations to US Retail Customers",
+  "Ondo Finance launches in-kind stock tokenization with Alpaca",
+  "Ondo Opens In-Kind Route for Tokenized Stocks With Alpaca",
+  "X Sues Account Operators Over Fraudulent Creator Payouts",
+  "X Sues Operators of Six Bitcoin Accounts Over Creator Payouts",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -1806,5 +1815,8 @@
   "fp:abov|above50|analyst|averag|caution|climb|clos|confirm|doe|end",
   "fp:000|107m|agency|compromised30|crew|cryptocurrency|devic|fak|fraudulent|group",
   "fp:adjust|capacity|chang|comput|consistent|cut|epoch1037|implement|limit|maintain",
-  "fp:back|borrow|can|circl|client|collateraliz|cryptocurrency|institution|institutional|investor"
+  "fp:back|borrow|can|circl|client|collateraliz|cryptocurrency|institution|institutional|investor",
+  "fp:access|allocation|can|coinbas|customer|eligibl|featur|ipo|list|nasdaq",
+  "fp:alpaca|approv|bnb|can|chain|exchang|financ|institution|inventory|kind",
+  "fp:account|claim|court|creator|fil|firm|focus|fraudulent|high|invalid"
 ]
