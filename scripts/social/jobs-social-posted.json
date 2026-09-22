@@ -1,5 +1,5 @@
 {
-  "lastIndex": 208,
+  "lastIndex": 209,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -100,7 +100,8 @@
     "pm21",
     "tax8",
     "spyc",
-    "an13"
+    "an13",
+    "cmp19"
   ],
   "history": [
     {
@@ -5939,6 +5940,215 @@
       "platform": "facebook",
       "postedAt": "2026-09-21T22:42:49.680Z",
       "postId": "691827047618629_1094473036493264",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp19",
+      "company": "OKX",
+      "title": "OEML - Senior Compliance Analyst",
+      "platform": "threads",
+      "postedAt": "2026-09-22T07:58:54.313Z",
+      "postId": "17964921075190292",
+      "verification": "verified",
+      "expectedText": "OKX is hiring OEML - Senior Compliance Analyst: https://hashtagweb3.com/cmp19/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DdlQPNzm1Wu",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "cmp19",
+      "company": "OKX",
+      "title": "OEML - Senior Compliance Analyst",
+      "platform": "bluesky",
+      "postedAt": "2026-09-22T07:58:54.313Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mw3qyvgy7e22",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp19",
+      "company": "OKX",
+      "title": "OEML - Senior Compliance Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T07:58:54.313Z",
+      "postId": "0x2c4e73d430cee1dd051850dfb322d0722e20d838",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp19",
+      "company": "OKX",
+      "title": "OEML - Senior Compliance Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T07:58:54.313Z",
+      "postId": "0x48fc2e7d8ff6c8e9be9c89c03c61b245e75a5f2b",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp19",
+      "company": "OKX",
+      "title": "OEML - Senior Compliance Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T07:58:54.313Z",
+      "postId": "0x1f3c03be2cb96df9b1ed7f1d314df23616d8e1f7",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp19",
+      "company": "OKX",
+      "title": "OEML - Senior Compliance Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T07:58:54.313Z",
+      "postId": "0x3a71015144c430aab6ee89bf883a0358f150fedc",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp19",
+      "company": "OKX",
+      "title": "OEML - Senior Compliance Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T07:58:54.313Z",
+      "postId": "0x1bc5b3bbe20ea21f685419e568b86e68eb00acd3",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp19",
+      "company": "OKX",
+      "title": "OEML - Senior Compliance Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T07:58:54.313Z",
+      "postId": "0xd77cdfc2612733cd8766dd8c074636fd7aeed373",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp19",
+      "company": "OKX",
+      "title": "OEML - Senior Compliance Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T07:58:54.313Z",
+      "postId": "0x21498b99e226b6d4e2baccbf4e95b2b44ee12f4a",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp19",
+      "company": "OKX",
+      "title": "OEML - Senior Compliance Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T07:58:54.313Z",
+      "postId": "0x86bb60c44231c3f9d147ff2ca85ab5e201e5f417",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp19",
+      "company": "OKX",
+      "title": "OEML - Senior Compliance Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T07:58:54.313Z",
+      "postId": "0xa96db4086f36391d6ead4bd487e65b5224e3f6e1",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp19",
+      "company": "OKX",
+      "title": "OEML - Senior Compliance Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T07:58:54.313Z",
+      "postId": "0x9ce899fc2e9dd24846ef39dfdfb9a2ef63a789a0",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp19",
+      "company": "OKX",
+      "title": "OEML - Senior Compliance Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T07:58:54.313Z",
+      "postId": "0x8dfe39c9f3f2dc3da34c4851f90049b5b2569761",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp19",
+      "company": "OKX",
+      "title": "OEML - Senior Compliance Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T07:58:54.313Z",
+      "postId": "0xa3cb72c68165b080fff313430a8921848914bef3",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp19",
+      "company": "OKX",
+      "title": "OEML - Senior Compliance Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T07:58:54.313Z",
+      "postId": "0x0cf45384c881c8841de108909f47c6d6efd60e30",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp19",
+      "company": "OKX",
+      "title": "OEML - Senior Compliance Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T07:58:54.313Z",
+      "postId": "0x285f9135c91b82880e378799e6e9b4d7202bb32e",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp19",
+      "company": "OKX",
+      "title": "OEML - Senior Compliance Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T07:58:54.313Z",
+      "postId": "0xc8123bfa6d5d1d5002057f40cc809144b447ae9c",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp19",
+      "company": "OKX",
+      "title": "OEML - Senior Compliance Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T07:58:54.313Z",
+      "postId": "0xc60361b94d8a4b23cabd103e7df49d2ea092c131",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp19",
+      "company": "OKX",
+      "title": "OEML - Senior Compliance Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-22T07:58:54.313Z",
+      "postId": "0xbf8831b849c5a38ebe4d6daa9bd264eaeb767cb1",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp19",
+      "company": "OKX",
+      "title": "OEML - Senior Compliance Analyst",
+      "platform": "linkedin",
+      "postedAt": "2026-09-22T07:58:54.313Z",
+      "postId": "6ab2354ea2ac007d4ee29eb8",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp19",
+      "company": "OKX",
+      "title": "OEML - Senior Compliance Analyst",
+      "platform": "facebook",
+      "postedAt": "2026-09-22T07:58:54.313Z",
+      "postId": "691827047618629_1094770996463468",
       "verification": "verified"
     }
   ]
