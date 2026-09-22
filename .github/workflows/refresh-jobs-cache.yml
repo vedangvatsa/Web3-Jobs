@@ -252,12 +252,94 @@ jobs:
         run: echo "BASE_SHA=$(git rev-parse HEAD)" >> $GITHUB_ENV
 
       - name: Publish news run
+        id: draft
+        continue-on-error: true
         run: |
-          RULE="Never start a web server. Never run npm run dev, next dev, next start, or pkill. Check the article markdown and the image file on disk, then commit and push."
+          RULE="Do not launch the site and do not signal other processes. Check the article file and its image on disk, then commit and push."
           PROMPT="$RULE"$'\n'"$(cat scripts/news-agent-brief.md)"
           PROMPT="${PROMPT//\$TODAY/$(date -u +%F)}"
           PROMPT="${PROMPT//\$DRY_RUN/$NEWS_DRY_RUN}"
           "$HOME/.opencode/bin/opencode" run --model "$NEWS_MODEL" "$PROMPT"
+
+      - name: Commit articles if the drafter stopped first
+        if: ${{ always() && inputs.news_dry_run != true }}
+        run: |
+          set -euo pipefail
+          python3 - <<'PY'
+          import json, subprocess, sys
+          from pathlib import Path
+
+          def run(args, check=True):
+              return subprocess.run(args, check=check, text=True, capture_output=True)
+
+          status = run(["git", "status", "--porcelain", "--untracked-files=all", "--", "content/articles", "public/images/news", "content/news-tips.md"]).stdout
+          articles = []
+          for line in status.splitlines():
+              path = line[3:].strip()
+              if " -> " in path:
+                  path = path.split(" -> ", 1)[1]
+              if path.startswith("content/articles/") and path.endswith(".md") and not path.endswith("AGENTS.md"):
+                  articles.append(Path(path).name)
+          marker = Path("/tmp/news-commit-needed")
+          if not articles:
+              marker.write_text("no")
+              if "${{ steps.draft.outcome }}" != "success":
+                  print("News drafter failed and left no article files.")
+                  sys.exit(1)
+              print("No uncommitted articles.")
+              sys.exit(0)
+          marker.write_text("yes")
+
+          quality = json.loads(subprocess.check_output(["npx", "tsx", "scripts/audit-article-quality.ts", "--report", "--verbose"], text=True))
+          images = json.loads(subprocess.check_output(["npx", "tsx", "scripts/audit-article-images.ts", "--report"], text=True))
+          bad = []
+          for issue in quality.get("issues", []):
+              if issue.get("file") in articles:
+                  bad.append(f"{issue['file']}: {', '.join(issue.get('issues', []))}")
+          for issue in images.get("issues", []):
+              if issue.get("file") in articles:
+                  bad.append(f"{issue['file']} image: {', '.join(issue.get('issues', []))}")
+          if bad:
+              print("New articles failed an audit and were not committed:")
+              print("\n".join(bad))
+              sys.exit(1)
+          print("Uncommitted articles passed quality and image audits:", ", ".join(articles))
+          PY
+          if [ "$(cat /tmp/news-commit-needed)" != "yes" ]; then
+            exit 0
+          fi
+          npx tsx scripts/generate-articles-index.ts
+          npm run update:prebuild-hashes
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add content/articles content/articles-index.json content/prebuild-input-hashes.json content/news-tips.md public/images/news
+          git reset HEAD -- content/articles/AGENTS.md || true
+          if git diff --staged --quiet; then
+            echo "Article files were already committed."
+            if [ "${{ steps.draft.outcome }}" != "success" ]; then
+              exit 1
+            fi
+            exit 0
+          fi
+          TODAY=$(date -u +%F)
+          git commit -m "news: add drafted articles for ${TODAY}"
+          git reset --hard HEAD
+          for i in 1 2 3; do
+            if ! git pull --rebase origin main; then
+              git rebase --abort || true
+              git reset --hard HEAD
+              echo "Article rebase attempt $i failed"
+              sleep 2
+              continue
+            fi
+            if git push origin main; then
+              exit 0
+            fi
+            echo "Article push attempt $i failed, retrying..."
+            sleep 2
+          done
+          echo "Failed to push drafted articles"
+          exit 1
 
       - name: Verify dry-run made no commits
         if: ${{ inputs.news_dry_run == true }}

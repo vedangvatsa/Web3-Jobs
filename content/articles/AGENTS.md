@@ -129,5 +129,5 @@ npx tsc --noEmit
 
 - The full article audit includes legacy content. If it reports unrelated existing failures, confirm the new or revised file is not among them and report the unrelated baseline separately.
 - Confirm the article file and its hero image exist on disk, and that the front matter `image` path matches that file.
-- On GitHub Actions, do not start a dev server and do not run `npm run dev`, `next dev`, `next start`, or `pkill`. Check the files, then commit. A local server is only for a machine where the site is already running.
+- On GitHub Actions, do not launch the site and do not signal other processes. Check the files, then commit. Opening a page is only for a machine where the site is already running.
 - Re-read the article file before publishing. Remove unsupported claims, repeated ideas, formulaic headings, source dumps, and any sentence that sounds like generic AI commentary.

@@ -3,9 +3,10 @@
 You are publishing every qualifying News article for hashtagweb3.com. Today is $TODAY (UTC).
 Work in the repository root (current working directory on the runner).
 
-Never start a web server. Never run `npm run dev`, `next dev`, `next start`, or `pkill`.
-There is no site to curl on this runner. Starting one killed the job before the commit.
-Check the markdown and image files on disk, then commit and push.
+Do not launch the site. Do not signal or stop other processes.
+This runner has no page to open. The last run wrote the articles, then killed
+itself before the commit. Check the markdown and image files on disk, then
+commit and push.
 
 ## 0. Tips first (mandatory)
 
