@@ -510,7 +510,7 @@ Each entry links to its formatted description and original source file. All stor
 | [RWA Tokenization of Public Equities Onchain](descriptions.md#event-6f2b29fc7d83afb6) | 2026-09-22 | Source-backed (2010 chars) |
 | [We’re so BACK! — Give Me Alpha](descriptions.md#event-718d3a9498a92438) | 2026-09-22 | Source-backed (1318 chars) |
 | [Flight3 x Superteam UK: Media & Founder Branding](descriptions.md#event-07f33739067fdaad) | 2026-09-22 | Source-backed (747 chars) |
-| [Dubai Tech Tuesdays No. 116 - Build Your Future Edition + Andres Meneses Birthday!](descriptions.md#event-33457f61074360d2) | 2026-09-22 | Source-backed (7924 chars) |
+| [Dubai Tech Tuesdays No. 116 - Build Your Future Edition + Andres Meneses Birthday!](descriptions.md#event-33457f61074360d2) | 2026-09-22 | Source-backed (7923 chars) |
 | [Tour Solana La Familia - Zaragoza](descriptions.md#event-3cb7246fa64f82e4) | 2026-09-22 | Source-backed (836 chars) |
 | [Tour Solana La Familia - Barcelona](descriptions.md#event-c84efd9e4513452e) | 2026-09-22 | Source-backed (836 chars) |
 | [THE CUE LOUNGE - Billiards Networking Social/Mixer - (Elevate Festival After Party)](descriptions.md#event-a6acdcaf91e4d421) | 2026-09-22 | Source-backed (3262 chars) |

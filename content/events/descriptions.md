@@ -16668,7 +16668,7 @@ Format: Open co-working + builder discussions
 
 ### About the event
 
-*** PLEASE MAKE SURE YOU REGISTER FOR EASIER ACCESS ***
+PLEASE MAKE SURE YOU REGISTER FOR EASIER ACCESS
 
 DATE: Our 115th Dubai Tech Tuesdays event will be held on Tuesday, September 15, 2026, from 6:00 - 11:30 PM.
 
@@ -25193,7 +25193,7 @@ Come with a project. Leave with your founder story, a content cadence, the confi
 
 ### About the event
 
-*** PLEASE MAKE SURE YOU REGISTER FOR EASIER ACCESS ***
+Please register on Luma for easier access at the door.
 
 DATE: Our 116th Dubai Tech Tuesdays event will be held on Tuesday, September 22, 2026, from 6:00 - 11:30 PM.
 
@@ -27581,7 +27581,7 @@ By signing up to this event you agree that Superteam Canada can contact you abou
 
 ### About the event
 
-**SAAT İÇİN WHATSAPP GRUBUNU TAKİPTE KALIN**
+SAAT İÇİN WHATSAPP GRUBUNU TAKİPTE KALIN
 
 Yeni döneme birlikte başlıyoruz! Hacettepe Blockchain olarak yeni dönemin ilk etkinliğinde Solana Superteam Türkiye ile bir araya geliyoruz.Bu buluşmada:
 
@@ -40324,7 +40324,7 @@ Your ticket also grants access to the official Open afterparty, Burning Mon (htt
 
 Media and Sponsorship Inquiries: openteam@monad.foundation
 
-***
+*
 
 ### Disclaimer
 
@@ -43962,7 +43962,7 @@ On October 7th, between 11am and 2pm, be part of an exclusive guest list featuri
 
 Past attendees and partners: Greyscale Investments, Galaxy Digital, Polychain Capital, Hashkey Capital, Multicoin Capital, Fabric Ventures, A16z, Pantera Capital, Sequoia, Vayner Media, Crypto.com (https://Crypto.com), Binance, Meta, Coinbase, Polygon Ventures, Arca, M2, ByBit, Sino Global Capital, USV, Metis, Figment, Near, Coin Telegraph, Decrypt & many more
 
-*Special guest judge: Ivan Patriki*
+Special guest judge: Ivan Patriki
 
 Ivan Patriki is a fintech marketing specialist, Writer, & content creator influencer. He is the founder of QuantMap.app (https://QuantMap.app), a tool that visualizes complex quantitative trading tools for retail investors & traders & the Co-host of the On the Margin Podcast - https://themargin.tv - where he interviews billionaires, politicians, ceos, & olympians
 

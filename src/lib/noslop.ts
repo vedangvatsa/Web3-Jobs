@@ -95,6 +95,10 @@ function cleanPublishTextPart(input: string, opts?: { stripFiller?: boolean }): 
   // Strip emojis for noslop job pages
   s = s.replace(EMOJI_RE, '').replace(EMOJI_VARIATION_RE, '');
 
+  // Luma organizers wrap callouts in *** … ***; leave plain prose so markdown
+  // italics and CI formatting checks do not treat the line as a bullet.
+  s = s.replace(/^\*{1,3}\s*(.+?)\s*\*{1,3}\s*$/gm, '$1');
+
   // HTML entity forms that often sneak into scraped JDs
   s = s
     .replace(/&mdash;/gi, ' - ')
