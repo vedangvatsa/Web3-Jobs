@@ -2236,7 +2236,7 @@
     "id": "premier-token2049-dubai-2027",
     "slug": "token20491",
     "name": "TOKEN2049 Dubai 2027",
-    "description": "TOKEN2049 Dubai brings together the global Web3 industry, uniting entrepreneurs, investors, developers, industry insiders and global media, and creates unparalleled networking opportunities.",
+    "description": "TOKEN2049 Dubai brings together the global Web3 industry — entrepreneurs, investors, developers, industry insiders and global media — creating unparalleled networking opportunities. The 2027 edition takes over Madinat Jumeirah, April 21–22, with an immersive indoor-outdoor experience and signature Arabian hospitality. As Binance’s Changpeng Zhao puts it: ‘This is the single conference where everybody comes together.’",
     "startDate": "2027-04-21",
     "endDate": "2027-04-22",
     "city": "Dubai",
@@ -2250,11 +2250,16 @@
     "addressLocality": "Dubai",
     "addressCountry": "AE",
     "descriptionSource": {
-      "url": "https://token2049.com/dubai",
-      "fetchedAt": "2026-09-20T00:20:10.901Z",
-      "method": "event-jsonld",
-      "pageTitle": "TOKEN2049 | 21-22 April 2027 | Dubai",
+      "url": "https://dubai.token2049.com",
+      "fetchedAt": "2026-09-22T08:21:52.153Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "TOKEN2049 Dubai",
       "sha256": "7166dab618a74e90cb819c8a3f9cfe2f38e6ba8546eb002d0f14e3077fb4aa46"
+    },
+    "sourceVerification": {
+      "url": "https://dubai.token2049.com",
+      "fetchedAt": "2026-09-22T08:21:52.153Z",
+      "method": "reviewed-primary-sources"
     }
   },
   {
@@ -2427,7 +2432,7 @@
     "id": "premier-cvsummit",
     "slug": "cv",
     "name": "CV Summit 2026",
-    "description": "Switzerland's largest institutional digital assets & AI conference is back! Join us for CV Summit 2026 in Zürich.",
+    "description": "CV Summit is Switzerland’s leading institutional digital assets and AI business conference, uniting 3,000+ attendees in Zürich. Across two days and three stages it covers payment systems and digital money infrastructure, tokenized capital markets, next-generation wealth management and AI-powered financial services — built for financial institutions, asset and wealth managers, investors, regulators and technology leaders.",
     "startDate": "2026-09-29T09:00:00.000Z",
     "endDate": "2026-09-30T18:00:00.000Z",
     "city": "Zurich",
@@ -2439,11 +2444,16 @@
     "twitter": null,
     "source": "curated-premier",
     "descriptionSource": {
-      "url": "https://www.cvsummit.ch/",
-      "fetchedAt": "2026-09-20T00:20:12.817Z",
-      "method": "official-meta",
-      "pageTitle": "CV Summit Zurich - Join The Room",
+      "url": "https://www.cvsummit.ch",
+      "fetchedAt": "2026-09-22T08:21:52.144Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "CV Summit 2026",
       "sha256": "6b82373d5b19d5d8151fe354679b937450aef1d9d94275397483b5a4b9fe7f49"
+    },
+    "sourceVerification": {
+      "url": "https://www.cvsummit.ch",
+      "fetchedAt": "2026-09-22T08:21:52.144Z",
+      "method": "reviewed-primary-sources"
     }
   },
   {
@@ -2998,7 +3008,7 @@
     "id": "premier-planx",
     "slug": "planx",
     "name": "PlanX Conference 2026",
-    "description": "A founder-growth conference and exhibition in Dubai for founders scaling to 7 figures and beyond.",
+    "description": "PlanX is Dubai’s growth conference for founders, operators and investors scaling to 7 figures and beyond. Two days to learn faster, meet better people and grow your business — November 25, 2026 at Grand Hyatt Dubai, with a focused agenda built for outcomes.",
     "startDate": "2026-11-25T07:00:00+00:00",
     "endDate": "2026-11-26T20:00:00+00:00",
     "city": "Dubai",
@@ -3015,11 +3025,16 @@
     "addressRegion": "AE",
     "addressCountry": "United Arab Emirates",
     "descriptionSource": {
-      "url": "https://planxconf.com/",
-      "fetchedAt": "2026-09-20T00:45:36.084Z",
-      "method": "event-jsonld",
+      "url": "https://www.planxconf.com",
+      "fetchedAt": "2026-09-22T08:21:52.138Z",
+      "method": "reviewed-primary-sources",
       "pageTitle": "PlanX Dubai 2026 | Founder-Growth Conference",
       "sha256": "96c7675a7f9634cc2bafe848991e91841bed17c983d96dacfc0f60876b7a5fd6"
+    },
+    "sourceVerification": {
+      "url": "https://www.planxconf.com",
+      "fetchedAt": "2026-09-22T08:21:52.138Z",
+      "method": "reviewed-primary-sources"
     }
   },
   {
@@ -3401,7 +3416,7 @@
     "id": "premier-gbshow",
     "slug": "global",
     "name": "Global Blockchain Show Abu Dhabi 2026",
-    "description": "Join the Global Blockchain Show Abu Dhabi 2026 - the premier crypto event uniting top Web3 leaders, innovators & investors across the UAE.",
+    "description": "The Global Blockchain Show Abu Dhabi 2026 is where blockchain stops being speculation and becomes financial infrastructure. Two days for exchange operators, protocol founders, institutional investors, tokenization teams and regulators — covering DeFi and tokenized real-world assets, stablecoins, custody and Web3 infrastructure.",
     "startDate": "2026-11-26T09:00:00+00:00",
     "endDate": "2026-11-27T18:00:00+00:00",
     "city": "Abu Dhabi",
@@ -3417,10 +3432,15 @@
     "addressCountry": "UAE",
     "descriptionSource": {
       "url": "https://www.globalblockchainshow.com/abu-dhabi/",
-      "fetchedAt": "2026-09-20T00:20:37.342Z",
-      "method": "event-jsonld",
-      "pageTitle": "Global Blockchain Show Abu Dhabi - Premier Crypto Event",
+      "fetchedAt": "2026-09-22T08:21:52.156Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Global Blockchain Show Abu Dhabi 2026",
       "sha256": "acc9f3d367a22ff23c711f37d3a3abd5cee5e5e1c99cc3253c267e11367d6df4"
+    },
+    "sourceVerification": {
+      "url": "https://www.globalblockchainshow.com/abu-dhabi/",
+      "fetchedAt": "2026-09-22T08:21:52.156Z",
+      "method": "reviewed-primary-sources"
     }
   },
   {
@@ -4181,7 +4201,7 @@
     "id": "premier-blockfest-africa-2026",
     "slug": "blockfest-africa",
     "name": "Blockf3st Africa 2026",
-    "description": "New Trade Routes: Bringing Africa Onchain. Three days of building, networking and dealmaking with 5,000+ founders, engineers, investors and policymakers at National Art Theatre, Lagos.",
+    "description": "Africa’s biggest Web3 and AI festival: three days of building, networking and dealmaking in Lagos, October 22–24, 2026, with 5,000+ founders, engineers, investors and policymakers. Tracks span AI and blockchain, government and policy, and investment and funding — bridging founders with the capital fueling Africa’s next wave.",
     "startDate": "2026-10-22T08:00:00+01:00",
     "endDate": "2026-10-24T22:00:00+01:00",
     "city": "Lagos",
@@ -4197,10 +4217,15 @@
     "addressCountry": "NG",
     "descriptionSource": {
       "url": "https://blockfestafrica.com/",
-      "fetchedAt": "2026-09-20T00:20:43.409Z",
-      "method": "event-jsonld",
-      "pageTitle": "Blockf3st Africa 2026 - The Superbowl of Web3",
+      "fetchedAt": "2026-09-22T08:21:52.147Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Blockf3st Africa 2026",
       "sha256": "87d87e4e8784ec0259e3928789cc1e09b14e91ffdc2ee2e9c2cd50ef061796b7"
+    },
+    "sourceVerification": {
+      "url": "https://blockfestafrica.com/",
+      "fetchedAt": "2026-09-22T08:21:52.147Z",
+      "method": "reviewed-primary-sources"
     }
   },
   {
@@ -4333,7 +4358,7 @@
     "id": "premier-world-token-congress-2026",
     "slug": "world-token-congress",
     "name": "World Token Congress 2026",
-    "description": "The premier global gathering for blockchain innovators, investors, and thought leaders shaping the future of digital assets and tokenization.",
+    "description": "The global tokenization and blockchain congress, taking place 25–26 November 2026 in Barcelona. (Rendered in English from the organizer’s official Spanish copy.)",
     "startDate": "2026-11-25T09:00:00+01:00",
     "endDate": "2026-11-26T18:00:00+01:00",
     "city": "Barcelona",
@@ -4348,10 +4373,15 @@
     "addressCountry": "ES",
     "descriptionSource": {
       "url": "https://worldtokencongress.com/",
-      "fetchedAt": "2026-09-20T00:20:46.611Z",
-      "method": "event-jsonld",
-      "pageTitle": "World Token Congress 2026 — Barcelona",
+      "fetchedAt": "2026-09-22T08:21:52.141Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "World Token Congress 2026",
       "sha256": "ca1e7877f52d6b578e5bc57984210cdcf99d471627571fcc273060137baa875a"
+    },
+    "sourceVerification": {
+      "url": "https://worldtokencongress.com/",
+      "fetchedAt": "2026-09-22T08:21:52.141Z",
+      "method": "reviewed-primary-sources"
     }
   },
   {
@@ -4666,7 +4696,7 @@
     "id": "premier-vienna-blockchain-week-2027",
     "slug": "vienna-blockchain-week",
     "name": "Vienna Blockchain Week 2027",
-    "description": "Two focused days connecting banks, asset managers, regulators, investors, exchanges, infrastructure providers and technology leaders from across Europe. VBW27: June 2–3, 2027, Vienna.",
+    "description": "Two focused days connecting banks, asset managers, regulators, investors, exchanges, infrastructure providers and technology leaders from across Europe. VBW27 takes place June 2–3, 2027 in Vienna — meet the banks, asset managers, regulators and digital asset decision makers shaping the region.",
     "startDate": "2027-06-02T09:00:00+02:00",
     "endDate": "2027-06-03T22:00:00+02:00",
     "city": "Vienna",
@@ -4680,10 +4710,15 @@
     "addressCountry": "AT",
     "descriptionSource": {
       "url": "https://viennablockchainweek.org/",
-      "fetchedAt": "2026-09-20T00:20:49.330Z",
-      "method": "event-jsonld",
-      "pageTitle": "Vienna Blockchain Week 2027 | Largest Institutional Digital Assets & AI Conference in Austria | June 2–3, 2027",
+      "fetchedAt": "2026-09-22T08:21:52.150Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Vienna Blockchain Week 2027",
       "sha256": "8c546096b8ea54d33950d36f74dc0dccaba0c7ee5f3e6aa4759b095b27f72435"
+    },
+    "sourceVerification": {
+      "url": "https://viennablockchainweek.org/",
+      "fetchedAt": "2026-09-22T08:21:52.150Z",
+      "method": "reviewed-primary-sources"
     }
   },
   {
@@ -4717,7 +4752,7 @@
     "id": "premier-coinferencex-singapore-2026",
     "slug": "coinferencex-singapore",
     "name": "CoinFerenceX Singapore 2026",
-    "description": "Asia's leading decentralized Web3 summit hosting 7,500+ crypto founders and investors.",
+    "description": "Be part of a groundbreaking event bringing together global leaders, innovators, and visionaries in the decentralized ecosystem, hosting 7,500+ crypto founders and investors. CoinFerenceX Singapore 2026 features keynote sessions, expo hall entry, networking lounges, breakout sessions and workshops — don’t miss the networking event of the year.",
     "startDate": "2026-10-05T09:00:00+08:00",
     "endDate": "2026-10-06T18:00:00+08:00",
     "city": "Singapore",
@@ -4731,10 +4766,15 @@
     "addressCountry": "SG",
     "descriptionSource": {
       "url": "https://coinferencex.com/singapore/tickets",
-      "fetchedAt": "2026-09-20T00:20:50.277Z",
-      "method": "event-jsonld",
-      "pageTitle": "Secure Your Pass | CoinFerenceX Singapore 2026",
+      "fetchedAt": "2026-09-22T08:21:52.131Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "CoinFerenceX Singapore tickets",
       "sha256": "cc07a8e5314308d4f4e8397b1ff80c44404a3e4c8495e7101c353588df62d08f"
+    },
+    "sourceVerification": {
+      "url": "https://coinferencex.com/singapore/tickets",
+      "fetchedAt": "2026-09-22T08:21:52.132Z",
+      "method": "reviewed-primary-sources"
     }
   },
   {

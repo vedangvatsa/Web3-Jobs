@@ -3290,7 +3290,7 @@
     "id": "luma-crypto-43a6FFWG3SgKDEs",
     "slug": "emsokomnet",
     "name": "Ecox Mondays- Season Opening Kick off Month - Networking Event - Tech, Ai, Blockchain and Business Meetup",
-    "description": "Join a hackathon, learn about LLMs and prompt engineering, or connect with other AI practitioners.",
+    "description": "New location with top views all over Dubai! EcoX Mondays: The AI Agent Edition — welcome to the new network hotspot at Tacenda Lounge. Connect, learn and collaborate with the EcoX global network; the evening runs 7:00–8:00 PM with an AI insights and agent-building session including ‘Demystifying AI Agents — A Blueprint for Any Industry,’ plus expert takes on AI workflows, automation and prompt architecture. Hosted by Franco Fiore and Jorge Sebastiao.",
     "startDate": "2026-09-21T14:00:00.000Z",
     "endDate": "2026-09-21T19:00:00.000Z",
     "country": "United Arab Emirates",
@@ -3335,9 +3335,15 @@
     "sourceVerification": {
       "url": "https://luma.com/ecox-5ucp",
       "eventId": "evt-43a6FFWG3SgKDEs",
-      "fetchedAt": "2026-09-19T23:53:59.776Z",
-      "method": "luma-api",
+      "fetchedAt": "2026-09-22T08:21:52.187Z",
+      "method": "reviewed-primary-sources",
       "apifyRunId": "uAC0NtYT5fM5WLkuu"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/ecox-5ucp",
+      "fetchedAt": "2026-09-22T08:21:52.187Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Ecox Mondays - Season Opening (Luma)"
     }
   },
   {
