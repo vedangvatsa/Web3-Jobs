@@ -1,5 +1,5 @@
 {
-  "lastIndex": 224,
+  "lastIndex": 226,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -70,7 +70,9 @@
     "sls47",
     "pm41",
     "eng159",
-    "cd3"
+    "cd3",
+    "job37",
+    "eng183"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -8477,6 +8479,442 @@
       "platform": "instagram",
       "postedAt": "2026-09-23T11:33:25.109Z",
       "postId": "18166230022466041",
+      "verification": "verified"
+    },
+    {
+      "slug": "job37",
+      "company": "Gate.io",
+      "title": "数据分析师（无障碍纯英文沟通）",
+      "platform": "threads",
+      "postedAt": "2026-09-23T22:25:46.372Z",
+      "postId": "18061436786548518",
+      "verification": "verified",
+      "expectedText": "Gate.io is hiring 数据分析师（无障碍纯英文沟通）: https://hashtagweb3.com/job37/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DdpYPNeFgg4",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "job37",
+      "company": "Gate.io",
+      "title": "数据分析师（无障碍纯英文沟通）",
+      "platform": "bluesky",
+      "postedAt": "2026-09-23T22:25:46.372Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mw7rvum52b2n",
+      "verification": "verified"
+    },
+    {
+      "slug": "job37",
+      "company": "Gate.io",
+      "title": "数据分析师（无障碍纯英文沟通）",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T22:25:46.372Z",
+      "postId": "0x139258b6fe288c79fdfc29061507dd63b076e068",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "job37",
+      "company": "Gate.io",
+      "title": "数据分析师（无障碍纯英文沟通）",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T22:25:46.372Z",
+      "postId": "0xc88489d9b7a7129799f4192ae35519b266130bb4",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "job37",
+      "company": "Gate.io",
+      "title": "数据分析师（无障碍纯英文沟通）",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T22:25:46.372Z",
+      "postId": "0xde22c233bb849ffde15b5d1d98d70f3fb58fdfba",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "job37",
+      "company": "Gate.io",
+      "title": "数据分析师（无障碍纯英文沟通）",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T22:25:46.372Z",
+      "postId": "0x666d04e83fd83c2918e48938ec4c5e84724101a8",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "job37",
+      "company": "Gate.io",
+      "title": "数据分析师（无障碍纯英文沟通）",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T22:25:46.372Z",
+      "postId": "0xfbd762456ec2eb1b62cd1d99a60606b0f69537b6",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "job37",
+      "company": "Gate.io",
+      "title": "数据分析师（无障碍纯英文沟通）",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T22:25:46.372Z",
+      "postId": "0x60ee3eea2fd8a4324fdf0363f4e52e6e6748e613",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "job37",
+      "company": "Gate.io",
+      "title": "数据分析师（无障碍纯英文沟通）",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T22:25:46.372Z",
+      "postId": "0x51dc8d200fbe0a276abe7662ebffc82516562786",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "job37",
+      "company": "Gate.io",
+      "title": "数据分析师（无障碍纯英文沟通）",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T22:25:46.372Z",
+      "postId": "0xac18baae55206ece168a5c02a163370b2d15890a",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "job37",
+      "company": "Gate.io",
+      "title": "数据分析师（无障碍纯英文沟通）",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T22:25:46.372Z",
+      "postId": "0x720d42bcfa15770aa9ce6a5ee12581978f38b947",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "job37",
+      "company": "Gate.io",
+      "title": "数据分析师（无障碍纯英文沟通）",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T22:25:46.372Z",
+      "postId": "0x9363a6f93b118eed95f2ce07480159e1b98b93e3",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "job37",
+      "company": "Gate.io",
+      "title": "数据分析师（无障碍纯英文沟通）",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T22:25:46.372Z",
+      "postId": "0x54bb17ea2d72b563966b7c69b6fbae26fa6fdf6b",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "job37",
+      "company": "Gate.io",
+      "title": "数据分析师（无障碍纯英文沟通）",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T22:25:46.372Z",
+      "postId": "0xa6f492f88ca0bf10039c37dd357bc77a81e15bb4",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "job37",
+      "company": "Gate.io",
+      "title": "数据分析师（无障碍纯英文沟通）",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T22:25:46.372Z",
+      "postId": "0xa6cd0fa81ee9ca94afe02592eb03696d944e9130",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "job37",
+      "company": "Gate.io",
+      "title": "数据分析师（无障碍纯英文沟通）",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T22:25:46.372Z",
+      "postId": "0xe70a7d471291b34c4e3b636f1e404efb80402a02",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "job37",
+      "company": "Gate.io",
+      "title": "数据分析师（无障碍纯英文沟通）",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T22:25:46.372Z",
+      "postId": "0xb4b83dd8b3fce2a45c6100e64a55dcaec4362750",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "job37",
+      "company": "Gate.io",
+      "title": "数据分析师（无障碍纯英文沟通）",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T22:25:46.372Z",
+      "postId": "0x34e39bbf2aae849456542abda13943535800093e",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "job37",
+      "company": "Gate.io",
+      "title": "数据分析师（无障碍纯英文沟通）",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T22:25:46.372Z",
+      "postId": "0xf4d5a18b7bd9978fdf0563f6754625d044b56300",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "job37",
+      "company": "Gate.io",
+      "title": "数据分析师（无障碍纯英文沟通）",
+      "platform": "linkedin",
+      "postedAt": "2026-09-23T22:25:46.372Z",
+      "postId": "6ab451f989ff667859400248",
+      "verification": "verified"
+    },
+    {
+      "slug": "job37",
+      "company": "Gate.io",
+      "title": "数据分析师（无障碍纯英文沟通）",
+      "platform": "facebook",
+      "postedAt": "2026-09-23T22:25:46.372Z",
+      "postId": "691827047618629_1096176542989580",
+      "verification": "verified"
+    },
+    {
+      "slug": "job37",
+      "company": "Gate.io",
+      "title": "数据分析师（无障碍纯英文沟通）",
+      "platform": "instagram",
+      "postedAt": "2026-09-23T22:25:46.372Z",
+      "postId": "18196940446384999",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng183",
+      "company": "Robinhood",
+      "title": "Senior Machine Learning Engineer, AI Platform & Agentic Apps",
+      "platform": "threads",
+      "postedAt": "2026-09-23T22:26:31.515Z",
+      "postId": "18105474938255709",
+      "verification": "verified",
+      "expectedText": "Robinhood is hiring Senior Machine Learning Engineer, AI Platform & Agentic Apps: https://hashtagweb3.com/eng183/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DdpYUrhlnpG",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "eng183",
+      "company": "Robinhood",
+      "title": "Senior Machine Learning Engineer, AI Platform & Agentic Apps",
+      "platform": "bluesky",
+      "postedAt": "2026-09-23T22:26:31.515Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mw7rx6orlb24",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng183",
+      "company": "Robinhood",
+      "title": "Senior Machine Learning Engineer, AI Platform & Agentic Apps",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T22:26:31.515Z",
+      "postId": "0x28b251bed9ba75ba6e4b4ca8b2e0fa3098bbd1ca",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng183",
+      "company": "Robinhood",
+      "title": "Senior Machine Learning Engineer, AI Platform & Agentic Apps",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T22:26:31.515Z",
+      "postId": "0x3b2be7cb8e18bd0362963db5b96d7eb883ce83b0",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng183",
+      "company": "Robinhood",
+      "title": "Senior Machine Learning Engineer, AI Platform & Agentic Apps",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T22:26:31.515Z",
+      "postId": "0x809cce1e972a0913cbb6550b88be374f95f0523f",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng183",
+      "company": "Robinhood",
+      "title": "Senior Machine Learning Engineer, AI Platform & Agentic Apps",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T22:26:31.515Z",
+      "postId": "0x3399b4839c00a1fa5077ffb02f482447bf363b60",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng183",
+      "company": "Robinhood",
+      "title": "Senior Machine Learning Engineer, AI Platform & Agentic Apps",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T22:26:31.515Z",
+      "postId": "0xb9ddf6fd6fed733b5b9cdad897d47a92bd31408b",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng183",
+      "company": "Robinhood",
+      "title": "Senior Machine Learning Engineer, AI Platform & Agentic Apps",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T22:26:31.515Z",
+      "postId": "0x27b0bafbacf5f27a24534b83f26fd638a9d1be21",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng183",
+      "company": "Robinhood",
+      "title": "Senior Machine Learning Engineer, AI Platform & Agentic Apps",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T22:26:31.515Z",
+      "postId": "0xcf7723b7ee9b6ef8949c1c2f28679edffe8a40ab",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng183",
+      "company": "Robinhood",
+      "title": "Senior Machine Learning Engineer, AI Platform & Agentic Apps",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T22:26:31.515Z",
+      "postId": "0x9462eff19dc1fbb4ea870d87e904dcb96ca8d596",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng183",
+      "company": "Robinhood",
+      "title": "Senior Machine Learning Engineer, AI Platform & Agentic Apps",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T22:26:31.515Z",
+      "postId": "0x9c76046f91da67ab1efc9dcda1452992976674ce",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng183",
+      "company": "Robinhood",
+      "title": "Senior Machine Learning Engineer, AI Platform & Agentic Apps",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T22:26:31.515Z",
+      "postId": "0x3c40c74ecdb5c088268f162a59823253aa0c3bde",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng183",
+      "company": "Robinhood",
+      "title": "Senior Machine Learning Engineer, AI Platform & Agentic Apps",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T22:26:31.515Z",
+      "postId": "0x99cf573659973f8c9ae63a2839444c1792526994",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng183",
+      "company": "Robinhood",
+      "title": "Senior Machine Learning Engineer, AI Platform & Agentic Apps",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T22:26:31.515Z",
+      "postId": "0x8246e1cc619c67d4098f7bf6e33648d9de5b7109",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng183",
+      "company": "Robinhood",
+      "title": "Senior Machine Learning Engineer, AI Platform & Agentic Apps",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T22:26:31.515Z",
+      "postId": "0x8bb297a7299ea22b579487256dd4da6d19e0fa17",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng183",
+      "company": "Robinhood",
+      "title": "Senior Machine Learning Engineer, AI Platform & Agentic Apps",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T22:26:31.515Z",
+      "postId": "0x2deb59738de1952fbe1dfde4527728d9d8623f3c",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng183",
+      "company": "Robinhood",
+      "title": "Senior Machine Learning Engineer, AI Platform & Agentic Apps",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T22:26:31.515Z",
+      "postId": "0x2bef2bdfaac563fcec90316e51d79d8ba9155da5",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng183",
+      "company": "Robinhood",
+      "title": "Senior Machine Learning Engineer, AI Platform & Agentic Apps",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T22:26:31.515Z",
+      "postId": "0xce3f716c4316c805795d7badb9cbef067497d066",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng183",
+      "company": "Robinhood",
+      "title": "Senior Machine Learning Engineer, AI Platform & Agentic Apps",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T22:26:31.515Z",
+      "postId": "0x803fc9bf0b4b35f9c60c576865949fb1776b982c",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng183",
+      "company": "Robinhood",
+      "title": "Senior Machine Learning Engineer, AI Platform & Agentic Apps",
+      "platform": "linkedin",
+      "postedAt": "2026-09-23T22:26:31.515Z",
+      "postId": "6ab4522589ff6678594004ac",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng183",
+      "company": "Robinhood",
+      "title": "Senior Machine Learning Engineer, AI Platform & Agentic Apps",
+      "platform": "facebook",
+      "postedAt": "2026-09-23T22:26:31.515Z",
+      "postId": "691827047618629_1096176876322880",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng183",
+      "company": "Robinhood",
+      "title": "Senior Machine Learning Engineer, AI Platform & Agentic Apps",
+      "platform": "instagram",
+      "postedAt": "2026-09-23T22:26:31.515Z",
+      "postId": "18090907343465233",
       "verification": "verified"
     }
   ]
