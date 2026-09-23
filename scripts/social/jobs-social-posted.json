@@ -1,5 +1,5 @@
 {
-  "lastIndex": 219,
+  "lastIndex": 222,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -108,7 +108,9 @@
     "sls65",
     "eng102",
     "par",
-    "cf"
+    "cf",
+    "sls64",
+    "pm50"
   ],
   "history": [
     {
@@ -7619,6 +7621,424 @@
       "platform": "facebook",
       "postedAt": "2026-09-22T19:42:50.904Z",
       "postId": "691827047618629_1095234083083826",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls64",
+      "company": "Digital Asset",
+      "title": "Director of Sales - RWA",
+      "platform": "threads",
+      "postedAt": "2026-09-23T03:55:10.649Z",
+      "postId": "18125330207493251",
+      "verification": "verified",
+      "expectedText": "Digital Asset is hiring Director of Sales - RWA: https://hashtagweb3.com/sls64/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DdnZJFiESrF",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "sls64",
+      "company": "Digital Asset",
+      "title": "Director of Sales - RWA",
+      "platform": "bluesky",
+      "postedAt": "2026-09-23T03:55:10.649Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mw5tu5erss2e",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls64",
+      "company": "Digital Asset",
+      "title": "Director of Sales - RWA",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T03:55:10.649Z",
+      "postId": "0x12135a20c51bcd0a4bc31b7183a786a127151c30",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls64",
+      "company": "Digital Asset",
+      "title": "Director of Sales - RWA",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T03:55:10.649Z",
+      "postId": "0x7c2793e0282dd46d2139b9591d67c49842983970",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls64",
+      "company": "Digital Asset",
+      "title": "Director of Sales - RWA",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T03:55:10.649Z",
+      "postId": "0x1169e89d9795ce5ba96fc5b99ab47c19b2a48915",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls64",
+      "company": "Digital Asset",
+      "title": "Director of Sales - RWA",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T03:55:10.649Z",
+      "postId": "0xa2e6b0d03c2099d4a88f2f5b1acd9b33ce68367f",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls64",
+      "company": "Digital Asset",
+      "title": "Director of Sales - RWA",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T03:55:10.649Z",
+      "postId": "0x7f9addf3237e8463f833669f7527e9dcc768885e",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls64",
+      "company": "Digital Asset",
+      "title": "Director of Sales - RWA",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T03:55:10.649Z",
+      "postId": "0xa08707c92866031c838941b64f355ad459a7760a",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls64",
+      "company": "Digital Asset",
+      "title": "Director of Sales - RWA",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T03:55:10.649Z",
+      "postId": "0x93ac58fe264ab355e834ff5759a9aa56d2232466",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls64",
+      "company": "Digital Asset",
+      "title": "Director of Sales - RWA",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T03:55:10.649Z",
+      "postId": "0x2cd848fcaf22f3c7f5549b489370365bb7e368aa",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls64",
+      "company": "Digital Asset",
+      "title": "Director of Sales - RWA",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T03:55:10.649Z",
+      "postId": "0x07b0b61e097dc6a7fcacd5f46c5acd73d64548d1",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls64",
+      "company": "Digital Asset",
+      "title": "Director of Sales - RWA",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T03:55:10.649Z",
+      "postId": "0xf9b7be96ba2bd190c8cc9ff6242a5e305aff28ef",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls64",
+      "company": "Digital Asset",
+      "title": "Director of Sales - RWA",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T03:55:10.649Z",
+      "postId": "0xdad4a2034ec9d195f4b9394cbb099600dd2fdf1d",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls64",
+      "company": "Digital Asset",
+      "title": "Director of Sales - RWA",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T03:55:10.649Z",
+      "postId": "0x3f7f08b64c19c81bf266f1def7d359cb2ab36ffc",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls64",
+      "company": "Digital Asset",
+      "title": "Director of Sales - RWA",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T03:55:10.649Z",
+      "postId": "0xe1afef5e5a33b287acbde6d2994cc75bc67f1399",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls64",
+      "company": "Digital Asset",
+      "title": "Director of Sales - RWA",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T03:55:10.649Z",
+      "postId": "0x7c92593b37bfdd991bd18fa7d159ef960417c326",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls64",
+      "company": "Digital Asset",
+      "title": "Director of Sales - RWA",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T03:55:10.649Z",
+      "postId": "0x01949be79a1a24410e2c39e0e76a41ef3ade6ea1",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls64",
+      "company": "Digital Asset",
+      "title": "Director of Sales - RWA",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T03:55:10.649Z",
+      "postId": "0x45b3974a0cf48a35f3a2f7c7ab0fa73cbd46bca8",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls64",
+      "company": "Digital Asset",
+      "title": "Director of Sales - RWA",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T03:55:10.649Z",
+      "postId": "0x2b9c1c92b5dd20886593c16db79f33e3fc40f03c",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls64",
+      "company": "Digital Asset",
+      "title": "Director of Sales - RWA",
+      "platform": "linkedin",
+      "postedAt": "2026-09-23T03:55:10.649Z",
+      "postId": "6ab34db3340f92dcbe1f4b79",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls64",
+      "company": "Digital Asset",
+      "title": "Director of Sales - RWA",
+      "platform": "facebook",
+      "postedAt": "2026-09-23T03:55:10.649Z",
+      "postId": "691827047618629_1095487439725157",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm50",
+      "company": "Consensys",
+      "title": "Lead Product Designer",
+      "platform": "threads",
+      "postedAt": "2026-09-23T03:55:51.457Z",
+      "postId": "18104336411351395",
+      "verification": "verified",
+      "expectedText": "Consensys is hiring Lead Product Designer: https://hashtagweb3.com/pm50/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DdnZN92EfGY",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "pm50",
+      "company": "Consensys",
+      "title": "Lead Product Designer",
+      "platform": "bluesky",
+      "postedAt": "2026-09-23T03:55:51.457Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mw5tvb2uop26",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm50",
+      "company": "Consensys",
+      "title": "Lead Product Designer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T03:55:51.457Z",
+      "postId": "0x38617300abdbd4d6cd870daf9e04194cde6dd394",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm50",
+      "company": "Consensys",
+      "title": "Lead Product Designer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T03:55:51.457Z",
+      "postId": "0xd1587bc9501193d650cd7abe5e1611ed29262ff9",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm50",
+      "company": "Consensys",
+      "title": "Lead Product Designer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T03:55:51.457Z",
+      "postId": "0xeace8de620c3fd70aaf98e8fcf36bb00157f4bba",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm50",
+      "company": "Consensys",
+      "title": "Lead Product Designer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T03:55:51.457Z",
+      "postId": "0x8589ecc2713513be9cb243f36d81c68870072e9a",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm50",
+      "company": "Consensys",
+      "title": "Lead Product Designer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T03:55:51.457Z",
+      "postId": "0xcb54870a37e91521dacf6a0d96420eb5840513f9",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm50",
+      "company": "Consensys",
+      "title": "Lead Product Designer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T03:55:51.457Z",
+      "postId": "0x47c26afe9a21eedaf384d166a058c4cd7f7bf079",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm50",
+      "company": "Consensys",
+      "title": "Lead Product Designer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T03:55:51.457Z",
+      "postId": "0x5832d584aced150d2c3be7feb4b656d18fba16cf",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm50",
+      "company": "Consensys",
+      "title": "Lead Product Designer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T03:55:51.457Z",
+      "postId": "0xb7d6906ecba074dda835aa331a72eda150d6db4e",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm50",
+      "company": "Consensys",
+      "title": "Lead Product Designer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T03:55:51.457Z",
+      "postId": "0x5f9091f05d9db1d94447045974298b77a612246c",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm50",
+      "company": "Consensys",
+      "title": "Lead Product Designer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T03:55:51.457Z",
+      "postId": "0xff0e0a1d0959e50714ab0253974eb4ec42111f6e",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm50",
+      "company": "Consensys",
+      "title": "Lead Product Designer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T03:55:51.457Z",
+      "postId": "0x89e93fe782c013ea4da30dcd29022ba16359077a",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm50",
+      "company": "Consensys",
+      "title": "Lead Product Designer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T03:55:51.457Z",
+      "postId": "0x1cfb2a08db3576f16cf3fc69ac8b8a578d3f1589",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm50",
+      "company": "Consensys",
+      "title": "Lead Product Designer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T03:55:51.457Z",
+      "postId": "0xb6c94ead03f15d157ae746d0f0cdc1dea04582b2",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm50",
+      "company": "Consensys",
+      "title": "Lead Product Designer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T03:55:51.457Z",
+      "postId": "0xdb22804a42a0d57300f29184c6f7bc8402e64986",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm50",
+      "company": "Consensys",
+      "title": "Lead Product Designer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T03:55:51.457Z",
+      "postId": "0xb7d9506a1c2c71031a3d329c5b79674d0a33727c",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm50",
+      "company": "Consensys",
+      "title": "Lead Product Designer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T03:55:51.457Z",
+      "postId": "0x4758e741b2ffaa98d131004ef5f73ce8124ac181",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm50",
+      "company": "Consensys",
+      "title": "Lead Product Designer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T03:55:51.457Z",
+      "postId": "0xa45254d6857e6b34a8773a42e56368b71a03ed58",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm50",
+      "company": "Consensys",
+      "title": "Lead Product Designer",
+      "platform": "linkedin",
+      "postedAt": "2026-09-23T03:55:51.457Z",
+      "postId": "6ab34dd87f829c66807957fd",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm50",
+      "company": "Consensys",
+      "title": "Lead Product Designer",
+      "platform": "facebook",
+      "postedAt": "2026-09-23T03:55:51.457Z",
+      "postId": "691827047618629_1095487759725125",
       "verification": "verified"
     }
   ]
