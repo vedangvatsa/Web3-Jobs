@@ -11,7 +11,7 @@
     "location": "Kuala Lumpur, Malaysia",
     "url": "https://ethkl.org",
     "website": "https://ethkl.org",
-    "coverImage": "/events/ethkl.webp",
+    "coverImage": null,
     "twitter": null,
     "source": "curated-premier"
   },
@@ -27,7 +27,7 @@
     "location": "Bucharest, Romania",
     "url": "https://ethbucharest.xyz",
     "website": "https://ethbucharest.xyz",
-    "coverImage": "/events/ethbucharest.webp",
+    "coverImage": "/events/ethbucharest-5ed81346.webp",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -72,7 +72,7 @@
     "location": "Seoul, South Korea",
     "url": "https://ethseoul.org",
     "website": "https://ethseoul.org",
-    "coverImage": "/events/ethseoul.webp",
+    "coverImage": null,
     "twitter": null,
     "source": "curated-premier"
   },
@@ -104,7 +104,7 @@
     "location": "Sava Congress Center, Belgrade, Serbia",
     "url": "https://ethbelgrade.rs",
     "website": "https://ethbelgrade.rs",
-    "coverImage": "/events/ethbelgrade.webp",
+    "coverImage": "/events/ethbelgrade-40ef4706.webp",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -120,7 +120,7 @@
     "location": "Sydney & Melbourne, Australia",
     "url": "https://blockchainaustralia.com.au",
     "website": "https://blockchainaustralia.com.au",
-    "coverImage": "/events/australian-blockchain-week.webp",
+    "coverImage": null,
     "twitter": null,
     "source": "curated-premier"
   },
@@ -136,7 +136,7 @@
     "location": "Tokyo & Kyoto, Japan",
     "url": "https://japanblockchainweek.jp",
     "website": "https://japanblockchainweek.jp",
-    "coverImage": "/events/japan-blockchain-week.webp",
+    "coverImage": "/events/jbw-d8b136ed.webp",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -152,7 +152,7 @@
     "location": "Municipal House, Prague, Czech Republic",
     "url": "https://ethprague.com",
     "website": "https://ethprague.com",
-    "coverImage": "/events/ethprague.webp",
+    "coverImage": "/events/ethprague-8cf1e3ba.webp",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -168,7 +168,7 @@
     "location": "Pakhuis de Zwijger, Amsterdam, Netherlands",
     "url": "https://www.ethdam.com",
     "website": "https://www.ethdam.com",
-    "coverImage": "/events/ethdam.webp",
+    "coverImage": "/events/ethdam-e7e34745.webp",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -1289,7 +1289,7 @@
     "location": "Location TBA",
     "url": "https://smartcon.chain.link",
     "website": "https://smartcon.chain.link",
-    "coverImage": "/events/premier-smartcon-2026-581489ca.webp",
+    "coverImage": "/events/chainlink-040de990.webp",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -1499,7 +1499,7 @@
     "location": "Bangkok, Thailand",
     "url": "https://devconnect.org",
     "website": "https://devconnect.org",
-    "coverImage": "/events/premier-devconnect-2026-97ebb2eb.webp",
+    "coverImage": "/events/devconnect-0e336f1b.webp",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -1618,7 +1618,7 @@
     "location": "Miami, USA",
     "url": "https://mainnet.events",
     "website": "https://mainnet.events",
-    "coverImage": "/events/messari-mainnet.webp",
+    "coverImage": null,
     "twitter": null,
     "source": "curated-premier"
   },
@@ -2941,7 +2941,7 @@
     "location": "Mission Ballroom, Denver, CO, USA",
     "url": "https://ethdenver.com",
     "website": "https://ethdenver.com",
-    "coverImage": "/events/ethdenver.webp",
+    "coverImage": "/events/ethdenver-1e085e9e.webp",
     "source": "curated-premier"
   },
   {
@@ -3002,7 +3002,7 @@
     "website": "https://ethdenver.com",
     "source": "curated-premier",
     "slug": "denver",
-    "coverImage": "/events/denver.webp"
+    "coverImage": "/events/denver-1e085e9e.webp"
   },
   {
     "id": "side-denver-dao-governance-brunch",
@@ -3017,7 +3017,7 @@
     "website": "https://ethdenver.com",
     "source": "curated-premier",
     "slug": "dao-roundtable-2027",
-    "coverImage": "/events/dao.webp"
+    "coverImage": "/events/dao-roundtable-2027-1e085e9e.webp"
   },
   {
     "id": "side-denver-solana-coworking-hub",
@@ -3032,7 +3032,7 @@
     "website": "https://superteam.fun",
     "source": "curated-premier",
     "slug": "solana3",
-    "coverImage": "/events/solana3.webp"
+    "coverImage": null
   },
   {
     "id": "side-ibw2026-mip-20",

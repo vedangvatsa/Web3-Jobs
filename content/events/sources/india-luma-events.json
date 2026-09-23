@@ -609,7 +609,7 @@
     "country": "India",
     "location": "Sarvajanik College of Engineering & Technology",
     "url": "https://luma.com/SCETU",
-    "coverImage": "/events/india-luma-scetu-c0944911.webp",
+    "coverImage": null,
     "source": "luma-india",
     "publicationStatus": "needs-review",
     "sourceReview": {
@@ -979,7 +979,7 @@
     "country": "India",
     "location": "Mumbai, India",
     "url": "https://luma.com/ndrr1yqe",
-    "coverImage": "/events/india-luma-ndrr1yqe-1f74ecda.webp",
+    "coverImage": "/events/luma-recover-indialumandrr1yq-4d2326ec.webp",
     "source": "luma-india",
     "hosts": [
       "ETHMumbai"
@@ -1076,7 +1076,7 @@
     "country": "India",
     "location": "Mumbai, Maharashtra, India",
     "url": "https://luma.com/spsnos9t",
-    "coverImage": "/events/india-luma-spsnos9t-7d2fe221.webp",
+    "coverImage": "/events/luma-recover-indialumaspsnos9-cb8e4c27.webp",
     "source": "luma-india",
     "hosts": [
       "Mykola x Web3Privacy now",
@@ -1130,7 +1130,7 @@
     "country": "India",
     "location": "Mumbai, India",
     "url": "https://luma.com/solana-summit-india",
-    "coverImage": "/events/india-luma-solana-summit-india-f1c709f9.webp",
+    "coverImage": "/events/luma-recover-indialumasolanas-8b20b2cd.webp",
     "source": "luma-india",
     "hosts": [
       "Superteam India"
@@ -1175,7 +1175,7 @@
     "country": "India",
     "location": "Mumbai, Maharashtra, India",
     "url": "https://luma.com/n0a39ago",
-    "coverImage": "/events/india-luma-n0a39ago-dd97b261.webp",
+    "coverImage": "/events/luma-recover-indialuman0a39ag-86c54b88.webp",
     "source": "luma-india",
     "hosts": [
       "BackersStage Capital"
@@ -1219,58 +1219,6 @@
     }
   },
   {
-    "id": "india-luma-multichaindaydevconmumbai",
-    "name": "Multichain Day | Devcon Mumbai 2026",
-    "description": "Join us at Devcon Mumbai for Multichain Day. Built by Wrapped (https://www.wrapped.events/).\n\nBringing together founders, builders, institutions, enterprises, and capital allocators in one room. Designed for real conversation, not noise.\n\nEach edition dives into key narratives like AI, DeFi, Infra, Interop, Payments, Stablecoins and Tokenization, connecting companies across ecosystems for a more integrated blockchain future. Multichain Day features talks, networking, and co-working.\n\nTitle Partner:\n\n• Algorand (https://x.com/AlgoFoundation?utm_source=luma)\n\nPresenting Partners:\n\n• Flare (https://x.com/FlareNetworks)\n\nPartners:\n\n• 0G Labs (https://x.com/0G_labs) | ChainPatrol (https://x.com/ChainPatrol)\n\nMedia Partner:\n\n• Real Motion (https://x.com/realmotioninc)\n\nAdditional partners and speakers to be announced.\n\nInterested in sponsoring Multichain Day or other Wrapped events? Reach out to us on TG @mrmarcrose\n\nUpcoming Wrapped Events:\n\nPrevious Wrapped Events:",
-    "startDate": "2026-11-02T04:30:00.000Z",
-    "endDate": "2026-11-02T12:30:00.000Z",
-    "city": "Mumbai",
-    "country": "India",
-    "location": "Taj Lands End, Mumbai, B.J. Rd, opp. ICICI Bank, Mount Mary, Bandra West, Mumbai, Maharashtra 400050, India",
-    "url": "https://luma.com/multichaindaydevconmumbai",
-    "coverImage": "/events/india-luma-multichaindaydevconmumbai-e149a927.webp",
-    "source": "luma-india",
-    "hosts": [
-      "Marc Rose",
-      "Real Motion",
-      "Will G",
-      "Algorand Foundation",
-      "Flare",
-      "0G Foundation",
-      "VG_ChainPatrol"
-    ],
-    "price": "Free",
-    "timezone": "Asia/Kolkata",
-    "neighborhood": "Mount Mary",
-    "slug": "multichain-day",
-    "registrationUrl": "https://luma.com/multichaindaydevconmumbai",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "Taj Lands End, Mumbai",
-    "addressLocality": "Mumbai",
-    "addressRegion": "Maharashtra",
-    "addressCountry": "IN",
-    "coordinates": {
-      "latitude": 19.0439316,
-      "longitude": 72.8192723
-    },
-    "organizer": {
-      "type": "Organization",
-      "name": "Wrapped",
-      "url": "https://www.wrapped.events/"
-    },
-    "approvalRequired": false,
-    "registrationAvailability": "sold-out",
-    "sourceVerification": {
-      "url": "https://luma.com/multichaindaydevconmumbai",
-      "eventId": "evt-YQzWSiyGiMvOHOM",
-      "fetchedAt": "2026-09-19T23:30:09.874Z",
-      "method": "luma-page",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "india-luma-a0e6b8at",
     "name": "AI ECONOMIC FORUM (AIEF), MUMBAI 2026 ⟡ Truth Intelligence Summit — Official AI Side Event of India Blockchain Week 2026 & Devcon 8",
     "description": "AI ECONOMIC FORUM (AIEF), MUMBAI 2026 ⟡ Truth Intelligence Summit\n\nOfficial AI Side Event of India Blockchain Week 2026 & Devcon 8\n\n\"A place where every layer of the AI economy meets to create business outcomes.\"\n\nArtificial Intelligence is becoming the horizontal layer powering every industry—from infrastructure and foundation models to developer platforms, enterprise, finance, media and government.\n\nThe AI Economic Forum (AIEF) is a recurring conference series built alongside the world's leading technology, AI and Web3 events, bringing together the people shaping the future of the AI economy.\n\nFollowing our inaugural AI ECONOMIC FORUM (AIEF), TOKYO 2026 alongside WebX Asia and Japan Blockchain Week, AIEF comes to Mumbai as the Official AI Side Event of India Blockchain Week 2026 & Devcon 8.\n\nJoin AI founders, foundation model companies, infrastructure builders, AI application startups, developers, venture capitalists, enterprise leaders, policymakers, researchers, journalists and creators for a day of high-impact discussions, product showcases, investment opportunities and meaningful business networking.\n\nDiscussion Themes\n\n• AI Infrastructure & Compute\n• Foundation Models & AI Agents\n• AI × Web3 & Decentralized Intelligence\n• Venture Capital & Investing in the AI Economy\n• AI for Enterprise & Industry\n• AI in Media, Journalism & Trust\n• AI Policy, Governance & Regulation\n• Developer Platforms & Open-Source AI\n• Product Demonstrations & Startup Showcases\n\nProgramme\n\n• Featured Keynotes\n• Fireside Conversations\n• Curated Panel Discussions\n• Founder Sessions\n• Product Demonstrations\n• Investor & Founder Networking\n• Enterprise & Government Engagement\n\nWhether you're building AI, investing in it, deploying it, researching it, regulating it or covering it, AIEF is where every layer of the AI economy comes together to create business outcomes.\n\nWe look forward to welcoming founders, investors, enterprises, policymakers and innovators from India and around the world to AI ECONOMIC FORUM (AIEF), MUMBAI 2026 ⟡ Truth Intelligence Summit.",
@@ -1280,7 +1228,7 @@
     "country": "India",
     "location": "Mumbai, Maharashtra, India",
     "url": "https://luma.com/a0e6b8at",
-    "coverImage": "/events/india-luma-a0e6b8at-9b88c993.webp",
+    "coverImage": "/events/luma-recover-indialumaa0e6b8a-5f2d8a7f.webp",
     "source": "luma-india",
     "hosts": [
       "Tanmaya (Tan) Sharma",
@@ -1330,7 +1278,7 @@
     "country": "India",
     "location": "Jio World Centre, 3V78+HX, G Block, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400051, India",
     "url": "https://luma.com/mh0xmqg0",
-    "coverImage": "/events/india-luma-mh0xmqg0-6f9b6785.webp",
+    "coverImage": "/events/luma-recover-indialumamh0xmqg-4958b662.webp",
     "source": "luma-india",
     "hosts": [
       "Meta Blockchain",
@@ -1385,7 +1333,7 @@
     "country": "India",
     "location": "Jio World Convention Centre, Jio World Centre, G Block, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400098, India",
     "url": "https://luma.com/czi58jpe",
-    "coverImage": "/events/india-luma-czi58jpe-7627b323.webp",
+    "coverImage": "/events/luma-recover-indialumaczi58jp-3f32e7eb.webp",
     "source": "luma-india",
     "hosts": [
       "Pooja Ranjan",

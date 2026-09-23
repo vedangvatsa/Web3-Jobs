@@ -16122,48 +16122,6 @@ X (https://x.com/infini3_) | Telegram (https://t.me/goinfini3) | Instagram (http
 
 28° North is a boutique strategic advisory firm for early-stage Web3 and AI startups, working on scope-based mandates across positioning, product, growth, community, and fundraising. It operates with an operator-first, KRA-driven approach - practical strategy built to execute, not just present. Infini3 is its events and media arm, extending that same structured, outcome-focused thinking into community-building and content formats.
 
-<a id="event-5ad4ea1604dc0e68"></a>
-
-## Multichain Day \| Devcon Mumbai 2026
-
-- Record: `india-luma-multichaindaydevconmumbai`
-- Source: [india-luma-events.json](sources/india-luma-events.json)
-- Starts: 2026-11-02T04:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/multichaindaydevconmumbai>
-
-### About the event
-
-Join us at Devcon Mumbai for Multichain Day. Built by Wrapped (https://www.wrapped.events/).
-
-Bringing together founders, builders, institutions, enterprises, and capital allocators in one room. Designed for real conversation, not noise.
-
-Each edition dives into key narratives like AI, DeFi, Infra, Interop, Payments, Stablecoins and Tokenization, connecting companies across ecosystems for a more integrated blockchain future. Multichain Day features talks, networking, and co-working.
-
-Title Partner:
-
-- Algorand (https://x.com/AlgoFoundation?utm_source=luma)
-
-Presenting Partners:
-
-- Flare (https://x.com/FlareNetworks)
-
-### Partners
-
-- 0G Labs (https://x.com/0G_labs) | ChainPatrol (https://x.com/ChainPatrol)
-
-### Media Partner
-
-- Real Motion (https://x.com/realmotioninc)
-
-Additional partners and speakers to be announced.
-
-Interested in sponsoring Multichain Day or other Wrapped events? Reach out to us on TG @mrmarcrose
-
-Upcoming Wrapped Events:
-
-Previous Wrapped Events:
-
 <a id="event-89c8a0266a009666"></a>
 
 ## Solana Summit India
@@ -65680,20 +65638,6 @@ Asia Summit 2026 will feature discussions on artificial intelligence (AI) and em
 Organizations and individuals can get involved by attending the event, becoming a sponsor, or recommending a speaker for Asia Summit 2026.
 
 The Milken Institute welcomes speaker recommendations for Asia Summit 2026. Recommended speakers should be recognized leaders, experts, innovators, or changemakers whose insights can contribute to discussions on the most important issues shaping Asia and the world. Individuals can submit recommendations through the Asia Summit speaker recommendation process on the event website.
-
-<a id="event-a8d62e47694a1e5b"></a>
-
-## Stablecoin Summit
-
-- Record: `token2049-side-6a6711ea5a75007b41000117`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-08T09:00:00+08:00
-- Description: Source-backed
-- Original page: <https://stablecoinsummit.com>
-
-### Stablecoin Summit 26
-
-Asia's premier event for stablecoin innovation. We bring together government, institutions, fintech leaders, and blockchain pioneers to explore the future of digital money. Designed for enterprises and financial institutions engaged in high-volume cross-border payments, we focus on real-world use cases, trustless transactions, transparency, and security. Join us for expert insights, technical deep dives, and top-tier networking.
 
 <a id="event-3095f60ed171d22d"></a>
 
