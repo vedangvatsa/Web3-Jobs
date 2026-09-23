@@ -28896,6 +28896,50 @@ By bridging online and offline communities, Team1 empowers grassroots innovation
 
 /AvaxTeam1
 
+<a id="event-6317b1b8470dbbcd"></a>
+
+## 月圆币聚 · Unity Crypto 中秋聚会
+
+- Record: `luma-batch-evt8w4LF01kwYrZ0`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-09-27T11:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/UCMidAutumn2026>
+
+### About the event
+
+《月圆币聚 - Unity Crypto 中秋聚会》
+
+月圆之夜，币友相聚。
+
+一年到头盯盘、复盘、追单，中秋这一晚，我们把图表关掉，把人聚起来。
+
+Unity Crypto 社群诚邀你来过一个属于交易员的中秋 - - 没有喊单，没有 KPI，只有一桌好菜、一群同路人，和一轮不会插针的月亮
+
+当晚亮点
+
+自助餐 Buffet 无限供应，吃饱再聊
+
+月饼 & 中秋应景互动环节
+
+社群交流时间
+
+现场抽奖，好礼等你带回家
+
+适合谁来
+
+- Unity Crypto 现有社群成员
+- 想认识本地交易圈子的朋友
+- 单纯想过个热闹中秋的你
+
+日期：2026 年 9 月 27 日（星期日）
+
+时间：7:00PM - 10:00PM
+
+名额有限，餐点需提前确认人数 - - 请务必先在 Luma 上 RSVP 报名。
+
+月圆，人聚，币友同行。中秋见！
+
 <a id="event-54a9fa23b206390e"></a>
 
 ## Bhutan, Brains and Beyond: When Tech meets Mindfulness
@@ -29222,6 +29266,88 @@ Hosted by Rizzo, Timothy Kotzman (host of The Bitcoin Treasuries Podcast) and Ed
 
 Hosted by Superteam Ukraine (Solana Hub in Ukraine - Learn. Earn. Build.).
 
+<a id="event-1068775a70e52f05"></a>
+
+## Blockstories Horizon 2026: Zurich Summit 🇨🇭
+
+- Record: `luma-batch-evtGvsK4EMqfD6vv`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-09-28T15:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/horizonzurichsummit>
+
+### About the event
+
+Blockstories Horizon: Zurich Summit - 28 September 2026
+
+100 seats. Invitation-only. Co-hosted with Zürcher Kantonalbank.
+
+Horizon Summits are unlike other conferences:
+
+Every guest is vetted.
+
+We only feature keynotes. Each capped at 7 minutes.
+
+No panels. No sales booths.
+
+After the event, each guest leaves with a personalized strategy debrief.
+
+You can think of Horizon as a strategy offsite for the industry. Our mission is to help digital asset teams see what is coming, make better strategic decisions and build the network to execute.
+
+Zurich Summit
+
+Co-hosted with Zürcher Kantonalbank, the Zurich Summit will bring together 100 senior leaders responsible for digital asset strategies and products.
+
+Across a series of seven-minute keynotes, the companies closest to the industry's most important shifts will explain what they see on the ground, what they are building and how institutions should prepare for the next 12 to 18 months.
+
+A preview into the program:
+
+Zürcher Kantonalbank: Inside ZKB's digital asset strategy
+
+Banking Circle: Where stablecoin settlement is already transforming cross-border payments today
+
+Utila: What it takes for a bank to become stablecoin ready
+
+Talos: Tokenized Equities, perpetuals, prediction markets. Crypto is becoming more like TradFi and vice versa.
+
+Digital Asset: Real-time treasury management and the advent of tokenized MMFs.
+
+Steakhouse Financial: Vaults already power fintechs. Traditional asset management is next.
+
+Zama: Onchain privacy has arrived on public blockchains. What comes next?
+
+The Evening
+
+17:00-18:00
+
+Welcome reception
+
+18:00-20:00
+
+Seven-minute keynote presentations
+
+20:00-22:30
+
+Networking over food and drinks
+
+Premiere: The State of Swiss Banking and Digital Assets Report
+
+At the Summit, we'll also officially present our latest flagship report on the state of swiss banking and digital assets, developed through expert conversations with leaders from more than 12 Swiss banks.
+
+The study examines what Swiss institutions are prioritizing, what they are building and how their approaches to digital assets are evolving.
+
+Attendance
+
+Attendance is complimentary and limited to 100 approved guests.
+
+If you received a personal invitation from Blockstories, Zürcher Kantonalbank or one of our speakers, please select Invited Guest.
+
+If you have not received a personal invitation but are responsible for digital asset strategy, products or infrastructure at a financial institution, you may Apply to Attend.
+
+All applications are reviewed.
+
+For questions, please contact: mail@blockstories.io
+
 <a id="event-b7116d18ec988454"></a>
 
 ## Build for Breakpoint: Legal Prep for Founders with Gunnercooke
@@ -29272,6 +29398,338 @@ Hosted by Encode Club, Circle.
 
 The event takes place on September 28. Venue: Encode Hub, Encode Hub, 41 Pitfield St, London N1 6DA, UK.
 
+<a id="event-b71ebcb04efb2708"></a>
+
+## Proof of Sweat: CRYPTO MEETS HYROX
+
+- Record: `luma-batch-evtdA2rzqMIii3Or`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-09-29T04:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/tfdaetv3>
+
+### About the event
+
+Swap the panel room for the gym floor.
+
+Frax, Monad, and Pendle are bringing together crypto and fitness for a HYROX-style workout and networking afternoon during Korea Blockchain Week.
+
+Join one of two coach-led workout sessions, meet people across the ecosystem, and hang out over drinks between sessions. Go all out or take it easy - all fitness levels are welcome, and movements can be scaled for everyone.
+
+### Schedule
+
+1:00 PM - HYROX Class #1
+
+2:00 PM - Drinks + Networking
+
+3:00 PM - HYROX Class #2
+
+4:00 PM - Wrap
+
+The first workout starts at 1:00 PM sharp, so please arrive early if you're joining the first session.
+
+What to bring
+
+Workout clothes, clean indoor training shoes, a water bottle, and a towel.
+
+All equipment and coaching are provided. Drinks are on us, and a limited number of Monad shirts will be available on a first-come, first-served basis.
+
+CrossFit Bagel, Seoul
+
+September 29 - 1:00-4:00 PM KST
+
+Registration requires approval. Space is limited.
+
+By attending this event, you are entering an area where photography, audio and video live-streaming and/or recording may occur.
+
+Your entry and presence at such an event constitutes your consent to be photographed, filmed (including live-streamed), and/or otherwise recorded and to the release, publication, exhibition, or reproduction of any and all recorded media of your appearance, voice, and name for any purpose whatsoever in connection with Monad Foundation, Frax, Pendle and its initiatives.
+
+By attending the event, you waive and release any claims you may have related to the use of such media of you at the event.
+
+This event includes strenuous physical activity; please participate at a level appropriate for your health and fitness.
+
+-
+
+패널룸 대신, 이번엔 짐 플로어에서 만나요.
+
+Frax, Monad, Pendle이 Korea Blockchain Week를 맞아 HYROX 스타일의 워크아웃과 네트워킹 세션을 준비했습니다.
+
+두 번의 코치 리드 워크아웃 세션과 자유로운 네트워킹이 진행됩니다. 가볍게 참여해도, 제대로 땀 흘려도 좋습니다. 모든 운동 레벨에 맞춰 동작을 조정할 수 있습니다.
+
+1:00 PM - HYROX 클래스 #1
+
+2:00 PM - 음료 & 네트워킹
+
+3:00 PM - HYROX 클래스 #2
+
+4:00 PM - 종료
+
+준비물
+
+운동복, 깨끗한 실내용 운동화, 물병, 수건
+
+운동 장비와 코칭은 모두 제공되며, 음료도 준비되어 있습니다. Monad 티셔츠는 한정 수량으로 선착순 제공됩니다.
+
+CrossFit Bagel, Seoul
+
+9월 29일 - 오후 1-4시
+
+참가 신청은 승인제로 운영되며, 인원이 제한되어 있습니다.
+
+행사 현장에서는 사진 및 영상 촬영, 음성 녹음 또는 라이브 스트리밍이 진행될 수 있습니다.
+
+행사에 참석하는 경우, Monad Foundation, Frax, Pendle 및 관련 프로젝트의 홍보와 활동을 위해 참석자의 모습, 음성 및 이름이 촬영-녹음(라이브 스트리밍 포함)되고, 해당 콘텐츠가 공개-게시-전시 또는 재사용되는 것에 동의한 것으로 간주됩니다.
+
+또한 행사 참석자는 현장에서 촬영 또는 녹음된 콘텐츠의 사용과 관련해 발생할 수 있는 모든 이의를 제기하거나 권리를 청구하지 않는 데 동의합니다.
+
+<a id="event-6184f8bb568b4a79"></a>
+
+## Ethereum Korea One Genesis - Build Beyond the Narrative
+
+- Record: `luma-batch-evtxgUcn4jxnTn3c`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-09-29T04:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/0a4zc5a6>
+
+### About the event
+
+Ethereum Korea One - Genesis - Build Beyond the Narrative
+
+Ethereum Korea One returns for its Genesis chapter.
+
+Day 2 is Builder Day: No hype cycles, no price talk. a full day dedicated to the people actually shipping Ethereum - core client teams, ZK researchers, L2 builders, and the Korean institutions bridging into the ecosystem.
+
+[2F - Korean sessions]
+
+- 13:00-13:15 DB Securities Opening - Hyunil Jang (CFO)
+- 13:15-13:30 Ethereum Korea One - Youbin Kang (Nonce Classic), Sose (ECK)
+- 13:30-14:00 What's in the Glamsterdam Upgrade - Hudson Jang (Four Pillars)
+- 14:00-15:00 Ethereum's North Star: Roadmap & CROPS - Bosul Mun (Geth), Lucia Kim (Nonce Classic), Sose (ECK), Hudson Jang (Four Pillars), Christopher (Remilia Korea)
+- 15:00-15:30 Ethereum Korea Grantee - Yoonhyung Lee (Yonsei CNL)
+- 15:30-16:30 The Next Era of Validators - Hudson Jang (Four Pillars), Youngseok Yang (Nodeinfra), Junkyo Kim (DSRV), Hyung Lee (Altus)
+- 16:30-17:00 Privacy on Ethereum - Harry (Sunnyside Labs)
+- 17:30-18:30 Where the Next ZK Breakthrough Comes From - Wonjae Choi (SNU VMO), Taehoon Kim (Succinct), Ryan Kim (Fractalyze), Jason Park (zkSecurity)
+
+[3F - English sessions]
+
+- 13:30-14:00 How to Build Sustainable DeFi - Guzus (Axis), Derek Walkush (Uniswap), Christopher Donovan (Compound), Mike Silagadze (EtherFi), Heejin Kim (Radius)
+- 14:00-15:00 Ethereum Clients: What Comes Next? - Youngseok Yang (Nodeinfra), Jun Song (Prysm), Felix Lange (EF Geth), Luca Zanolini (EF)
+- 15:00-15:30 MEV & Prediction Market - Danning Sui (Pantera)
+- 15:30-16:00 Ethereum Beyond the Foundation - Jay Jang (ECK), Jerome de Tychey (EthCoordinate), Mashal Waqar (Octant)
+- 16:30-17:00 Ethereum's Issuance War - Hyung-Kyu Choi (DSRV), Jerome de Tychey (EthCoordinate), Isidoros Passadis (Lido)
+- 17:00-17:30 Future of Account Abstraction - Harry (Sunnyside Labs, mod), Felix Lange (EF Geth), Taek Lee (ZeroDev)
+- 17:30-18:30 Are L2s Still Scaling Ethereum? - Harry (Sunnyside Labs), Ed Felten (Arbitrum), Jacob Kim (Optimism), Ilia Volokh (StarkWare)
+- 18:30-19:00 Onchain Agents - Jun (Four Pillars, mod), Jansen Teng (Virtuals), David Park (Base), Francesco Andreoli (MetaMask)
+
+[4F - Roundtable]
+
+- 13:30-14:30 Whitepaper Reading Club (WRC) - Decipher
+- 14:30-15:30 Remix Hands-on - Sooyoung Hyun (Remix IDE)
+- 15:30-16:00 Koreans Contributing to Ethereum - Bosul Mun (Geth), Jun Song (Prysm), Wonjae Choi (SNU)
+- 16:00-17:00 Bay & Geth: From Code to Career - BAY, Felix Lange - Bosul Mun (Geth)
+- 17:00-19:00 Coworking Space
+
+내러티브 너머, 빌더들의 진짜 이야기.
+
+Ethereum Korea One이 Genesis로 돌아옵니다.
+
+Day 2는 Builder Day로 과장된 사이클도, 가격 이야기도 없습니다. 실제로 이더리움을 만들어가는 사람들을 위한 하루입니다.
+
+코어 클라이언트 팀, ZK 연구자, L2 빌더, 그리고 생태계로 진입하는 한국 기관들이 한자리에 모입니다.
+
+[2F - 한국어 세션]
+
+- 13:00-13:15 DB증권 개회사 - 장현일 (CFO)
+- 13:15-13:30 이더리움 코리아 원 소개 - 강유빈 (Nonce Classic), Sose (ECK)
+- 13:30-14:00 글램스테르담 업그레이드 - 장혁수 (Four Pillars)
+- 14:00-15:00 이더리움의 북극성: 로드맵과 CROPS - 문보설 (Geth, 진행), 김서진 (Nonce Classic), Sose (ECK), 장혁수 (Four Pillars), 크리스토퍼 (Remilia Korea)
+- 15:00-15:30 이더리움 코리아 그랜트 당선자 세션 - 이윤형 (연세대 CNL)
+- 15:30-16:30 인프라와 밸리데이터의 다음 시대 - 장혁수 (Four Pillars), 양영석 (Nodeinfra), 김준교 (DSRV), 이형연 (Altus)
+- 16:30-17:00 이더리움 위의 프라이버시 - 전승민 (Sunnyside Labs)
+- 17:30-18:30 다음 ZK 혁신은 어디서 오는가 - 최원재 (서울대 VMO), 김태훈 (Succinct), 김원용 (Fractalyze), 박진석 (zkSecurity)
+
+[3F - 영어 세션]
+
+- 13:30-14:00 지속가능한 DeFi - 정명구 (Axis), Derek Walkush (Uniswap), Christopher Donovan (Compound), Mike Silagadze (EtherFi), 김희진(Radius)
+- 14:00-15:00 이더리움 클라이언트, 다음은 무엇인가 - 양영석 (Nodeinfra), 송영준 (Prysm), Felix Lange (EF Geth), Luca Zanolini (Alumni of EF)
+- 15:00-15:30 MEV와 예측시장 - Danning Sui (Pantera)
+- 15:30-16:00 재단 너머의 이더리움 - 장재석 (ECK), Jerome de Tychey (EthCoordinate), Mashal Waqar (Octant)
+- 16:30-17:00 이더리움 발행량 전쟁 - 최형규 (DSRV), Jerome de Tychey (EthCoordinate), Isidoros Passadis (Lido)
+- 17:00-17:30 계정 추상화 - 전승민 (Sunnyside Labs), Felix Lange (EF Geth), 이규택 (ZeroDev)
+- 17:30-18:30 L2는 여전히 이더리움을 확장하고 있는가? - 전승민 (Sunnyside Labs), Ed Felten (Arbitrum), 김현준 (Optimism), Ilia Volokh (StarkWare)
+- 18:30-19:00 온체인 에이전트 - 유준혁 (Four Pillars), Jansen Teng (Virtuals), 박혁재 (Base), Francesco Andreoli (MetaMask)
+
+[4F - 라운드테이블]
+
+- 13:30-14:30 화이트페이퍼 독서 모임 (WRC) - 디사이퍼
+- 14:30-15:30 Remix 핸즈온 워크샵 - 현수영 (Remix IDE)
+- 15:30-16:00 한국인이 이더리움에 기여하기 - 문보설 (Geth), 송영준 (Prysm), 최원재 (서울대)
+- 16:00-17:00 Bay & Geth: 코드에서 커리어까지 - BAY, Felix Lange - 문보설 (Geth)
+- 17:00-19:00 코워킹 스페이스
+
+https://one.ethereumkorea.io/
+
+<a id="event-6e24be898b25a574"></a>
+
+## The New Financial Era: Seoul
+
+- Record: `luma-batch-evtkNHIuk3cLzCnw`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-09-29T05:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/joyfaycq>
+
+### About the event
+
+Web3 시대, 서울에서 만나는 글로벌 금융의 최전선
+
+Injective Foundation은 Korea Blockchain Week 2026(KBW2026) 공식 사이드 이벤트로, LG CNS, SMBC Nikko Securities, Four Pillars, Coinbase, BDACS(KRW1), Blockchain Association, BitGo 등 국내외 주요 기관들을 서울로 초청해, 정책 입안자-전통 금융기관-Web3 리더들이 한자리에 모이는 자리를 마련합니다.
+
+한국은 STO 제도부터 현재 논의 중인 디지털자산 입법까지 토큰화와 스테이블코인 분야에서 빠르게 움직이고 있습니다. 이번 행사는 국내 기관들이 일본을 비롯한 아시아, 그리고 미국까지 이어지는 글로벌 온체인 금융의 최신 흐름을 가까이서 접하고, 한국의 목소리를 해외 기관-정책-Web3 리더들과 직접 나눌 수 있는 자리로 마련되었습니다.
+
+행사 개요
+
+일시: 2026년 9월 29일(화) 오후 2:00 - 5:00 (KST)
+
+프로그램: 키노트 세션, 토큰화-스테이블코인 관련 패널 토론, 네트워킹
+
+참가 안내
+
+본 행사는 초청 및 승인제로 진행됩니다. 참가를 희망하시는 분은 Luma를 통해 신청해 주시기 바라며, 검토 후 개별적으로 승인 안내를 드립니다. 정원에 도달할 경우 조기 마감될 수 있습니다.
+
+### About Injective
+
+Injective는 차세대 Web3 금융 애플리케이션 구축에 최적화된, 빠르고 상호운용성이 뛰어난 레이어1 블록체인입니다. 개발자들에게 강력한 플러그 앤 플레이 모듈을 제공하여 우수한 dApp 구축을 지원합니다. Injective는 Binance의 인큐베이팅을 받았으며, Jump Crypto, Pantera Capital, Mark Cuban 등 유수의 투자자들의 지원을 받고 있습니다.
+
+Where Global Onchain Finance Meets Seoul
+
+The Injective Foundation is convening LG CNS, SMBC Nikko Securities, Four Pillars, Coinbase, BDACS (KRW1), the Blockchain Association, BitGo, and more in Seoul for an official KBW2026 side event - bringing policymakers, traditional financial institutions, and Web3 leaders, global and local, into one room.
+
+Korea is moving decisively on tokenization and stablecoins - from its STO regime to the digital asset legislation now taking shape. This event gives domestic institutions a close look at what's happening globally in onchain finance, from nearby Japan and across Asia to the US, while bringing Korea's own voice into the same room as international TradFi, policy, and Web3 leaders.
+
+Injective is a lightning-fast, interoperable Layer 1 blockchain optimized for building next-generation Web3 finance applications. Injective provides developers with powerful, plug-and-play modules to create unmatched decentralized applications. Injective is incubated by Binance and backed by leading investors including Jump Crypto, Pantera Capital, and Mark Cuban.
+
+https://injective.com/
+
+https://x.com/injective
+
+### Event Details
+
+Date: Tuesday, September 29, 2026
+
+Time: 2:00 PM - 5:00 PM KST
+
+Program: Keynotes, panel discussions on tokenization and stablecoins, and networking
+
+### Registration
+
+This is an invite-only, approval-required event. Please apply via Luma - all requests are reviewed individually and approved on a rolling basis. Registration may close early once capacity is reached.
+
+<a id="event-9d150e3a8e6a4ce1"></a>
+
+## Pickleball Day @KBW with KAST x Pudgy Penguins
+
+- Record: `luma-batch-evtwmq2kmNbLigFS`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-09-29T05:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/KASTxPudgy_PickleballKBW>
+
+### About the event
+
+Step off the conference floor and onto the court with KAST x Pudgy Penguins during Korea Blockchain Week 2026.
+
+A curated afternoon bringing together founders, creators, investors, builders, partners, and community members for pickleball, friendly competition, and genuine connections.
+
+Whether you're picking up a paddle for the first time or already know your way around the court, expect an easygoing afternoon of rotating matches, challenges, refreshments and plenty of time to connect with the community.
+
+As a special souvenir, every confirmed participant will receive a KAST x Pudgy Penguins pickleball paddle and ball set to take home.
+
+No experience required. Just come ready to play. Please bring comfortable sportswear and a pair of indoor sneakers.
+
+Limited to approximately 50-70 guests.
+
+The exact Gangnam venue will be shared with confirmed attendees.
+
+### Agenda
+
+2:00-2:30 PM
+
+Guest Check-in, Networking & Team Assignment
+
+2:30-2:45 PM
+
+Welcome & KAST x Pudgy Penguins Introduction
+
+2:45-3:10 PM
+
+Beginner Pickleball Session
+
+3:10-4:30 PM
+
+Team Matches & Open Play
+
+4:30-5:00 PM
+
+KAST Target Mini Challenge
+
+5:00-5:40 PM
+
+Networking & Refreshments
+
+5:40-6:00 PM
+
+Awards, Lucky Draw & Group Photo
+
+By registering for this event, you consent to being photographed or filmed during the event and to the use of such content for event documentation, promotional purposes, and publication on official social media channels.
+
+코리아 블록체인 위크 2026 기간 동안 KAST x Pudgy Penguins 와 함께 컨퍼런스장을 벗어나 코트 위에서 특별한 오후를 즐겨보세요.
+
+파운더, 크리에이터, 투자자, 빌더, 파트너 및 커뮤니티 멤버들이 한자리에 모여 피클볼과 가벼운 경쟁을 즐기며 자연스럽게 새로운 인연을 만들 수 있는 특별한 커뮤니티 세션입니다.
+
+피클볼을 처음 접하는 분부터 경험이 있는 분까지 누구나 편하게 참여할 수 있습니다. 팀별 경기, 특별 챌린지, 다과, 경품과 함께 커뮤니티와 교류할 수 있는 시간을 준비했습니다.
+
+특별한 기념품으로 모든 참가자에게 KAST x Pudgy Penguins 피클볼 패들과 공 세트를 증정합니다.
+
+피클볼 경험은 필요하지 않습니다. 함께 즐길 준비만 해주세요. 운동복과 실내화를 준비해주세요.
+
+참석 인원은 약 50-70명으로 제한됩니다.
+
+강남 내 정확한 장소는 참가가 확정된 분들에게 별도로 안내됩니다.
+
+프로그램
+
+오후 2:00-2:30
+
+참가자 체크인, 네트워킹 및 팀 배정
+
+오후 2:30-2:45
+
+환영 인사 및 KAST x Pudgy Penguins 소개
+
+오후 2:45-3:10
+
+초보자를 위한 피클볼 세션
+
+오후 3:10-4:30
+
+팀 매치 및 오픈 플레이
+
+오후 4:30-5:00
+
+KAST 타깃 미니 챌린지
+
+오후 5:00-5:40
+
+네트워킹 및 다과
+
+오후 5:40-6:00
+
+시상식, 럭키드로우 및 단체 사진
+
+본 행사에 등록 및 참여하는 경우, 행사 현장에서 촬영되는 사진 및 영상에 본인의 모습이 포함될 수 있으며, 해당 콘텐츠가 행사 기록, 홍보 및 소셜미디어 채널 등에 활용되는 것에 동의한 것으로 간주됩니다.
+
 <a id="event-d282933c1fd5a8e3"></a>
 
 ## Vibes & Soda with SODAX
@@ -29307,6 +29765,108 @@ This is week 1 of 6. After tonight, the group moves into weekly workshops and me
 Hosted by Superteam Thailand and SODAX.
 
 Bring a laptop and charger. Spots are limited and reviewed by the hosts, so request to join and we'll confirm you.
+
+<a id="event-74e18bdf9ea316b5"></a>
+
+## WalletConnect Pay x DCENT Korea Pop-Up @ KBW
+
+- Record: `luma-batch-evtVIM54MQw0mInW`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-09-29T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/u017n5o6>
+
+### About the event
+
+칸, 홍콩, 리스본, 발리에서의 잊지 못할 팝업에 이어, 드디어 WalletConnect Pop-Up이 서울에 찾아옵니다. 🇰🇷
+
+다시 한 번 WalletConnect를 현실 세계로 가져옵니다.
+
+한정판 굿즈, 온체인 결제, 그리고 WalletConnect 커뮤니티를 한 자리에서 만나보세요.
+
+어디에서 만나볼 수 있나요?
+
+장소: SOOHO Cafe
+
+WalletConnect를 찾아보세요. 바로 알아보실 수 있을 거예요.
+
+한정판 굿즈 - 온체인으로 결제하고 2배 캐시백 받기
+
+서울 팝업을 위해 새로운 WalletConnect 한정판 굿즈를 준비했습니다.
+
+마음에 드는 굿즈를 고른 뒤, 실제 온체인 결제를 통해 WalletConnect Pay를 직접 경험해 보세요. 빠르고, 간단하고, 여러분의 지갑에서 바로 결제할 수 있습니다.
+
+참여 방법은 간단합니다.
+
+WalletConnect Pop-Up에 방문합니다.
+
+마음에 드는 굿즈를 고릅니다.
+
+WalletConnect Pay로 온체인 결제를 진행합니다.
+
+결제한 금액의 2배 상당을 WCT 캐시백으로 지갑에서 받습니다.
+
+결제 내역과 캐시백 상태는 아래 페이지에서 확인할 수 있습니다.
+
+https://profiles.pay.walletconnect.com/
+
+무엇을 기대할 수 있나요?
+
+WalletConnect 한정판 굿즈
+
+실제 오프라인 환경에서 WalletConnect Pay를 직접 경험할 기회
+
+서울에서 WalletConnect 팀과 커뮤니티를 직접 만날 기회
+
+크립토와 온체인에 대해 편하게 이야기하고, 다양한 사람들과 교류할 수 있는 자리
+
+그리고 이번에는 한국에서 만나는 WalletConnect Pop-Up 특유의 분위기 🇰🇷
+
+서울, 곧 만나요.
+
+After unforgettable pop-ups in Cannes, Hong Kong, Lisbon, and Bali, the WalletConnect Pop-Up is coming to Seoul, South Korea. 🇰🇷
+
+We're bringing WalletConnect into the real world once again - with exclusive merch, onchain payments, and the WalletConnect community all in one place.
+
+Where to Find Us
+
+Location: SOOHO Cafe
+
+Look for WalletConnect - you won't miss us.
+
+Exclusive Merch - Pay Onchain and get 2x Cashback
+
+We're bringing a new drop of exclusive WalletConnect merch to Seoul.
+
+And there's a catch: you won't be paying the usual way.
+
+Pick your merch and experience WalletConnect Pay yourself by making a real onchain payment - fast, simple, and directly from your wallet.
+
+Here's how it works:
+
+Stop by the WalletConnect Pop-Up
+
+Pick your favorite merch
+
+Pay onchain with WalletConnect Pay
+
+Get a 2x cashback in WCT on your wallet
+
+To check your history of payments and cashback status, use https://profiles.pay.walletconnect.com/.
+
+### What to Expect
+
+Exclusive, limited-edition WalletConnect merch
+
+A chance to experience WalletConnect Pay in the real world
+
+Meet the WalletConnect team and community in Seoul
+
+Hang out, talk crypto, and connect with other people building and living onchain
+
+The same WalletConnect Pop-Up energy - this time in Korea 🇰🇷
+
+Seoul, we're coming. See you there.
 
 <a id="event-1bbc4d27aad56382"></a>
 
@@ -29472,6 +30032,110 @@ We look forward to bringing together members of our community for a great evenin
 
 Hosted by Paige Connor (Head of Marketing). The event takes place on September 29. Registration requires organizer approval.
 
+<a id="event-2f0a49724808912c"></a>
+
+## 🏠 House of Web3 \| In the Heart of Seoul Pop-up
+
+- Record: `luma-batch-evtc37hgnYFLpfen`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-09-30T05:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/qpz0ozya>
+
+### About the event
+
+"서울 한복판, Web3를 경험하고 쉬어가는 집"
+
+9월 30일, BOOUP이 Web3 팝업 하우스를 선보입니다.
+
+하나의 공간에서 한국을 대표하는 프로젝트/KOL/커뮤니티를 직접 만나고, 라이브 트레이딩을 경험하고, BOOUP 앱을 통해 직접 미션에 참여하여 다양한 리워드를 받아보세요.
+
+총 상금 1000만원 리워드!
+
+현장 방문 및 미션 참여 시 5,000원 확정 보상을 드립니다.
+
+추가로 럭키드로우와 다양한 현장 이벤트를 통해 추가 500만 원 상당의 리워드도 만나볼 수 있습니다.
+
+[ What to Experience ]
+
+PROJECT POP-UP
+
+Web3 프로젝트와 서비스를 부스와 전시를 통해 살펴보세요
+
+MISSIONS & REWARDS
+
+행사장을 둘러보며 BOOUP 미션에 참여하고 다양한 리워드를 받아보세요
+
+WEB3 VOICES
+
+한국 Web3 업계의 흐름을 만드는 KOL-크리에이터-리서처-트레이더의 활동과 이야기를 만나보세요
+
+COMMUNITY
+
+커뮤니티 라운지에서 새로운 사람들과 자유롭게 교류해보세요
+
+[ Event Details ]
+
+날짜 | 2026년 9월 30일 (수)
+
+시간 | 14:00 - 20:00 (KST)
+
+장소 | 메자닌 삼성, 서울
+
+주최 | BOOUP
+
+[ Host & Main Partners ]
+
+C동 - BOOUP (부업)
+
+BOOUP은 한국의 Web2.5 세대를 위한 리워드 기반 커뮤니티 플랫폼입니다. 5분 미션으로 리워드를 받는 익숙한 경험 뒤에 Web3 온보딩을 자연스럽게 담았습니다. 100% 실명 인증 유저와 20+ 글로벌 프로젝트 커뮤니티가 함께합니다.
+
+A동 - GMGN
+
+GMGN은 빠른 실행력과 안정적인 거래 환경을 기반으로 구축된 온체인 트레이딩 플랫폼입니다. 변동성이 큰 시장에서도 안정적인 거래 경험을 제공하며, 실시간 온체인 데이터 분석, 스마트머니 추적, Perpetual Futures 등 다양한 기능을 지원합니다.
+
+GMGN은 고성능 실행과 매우 안정적인 안정성을 위해 설계된 선도적인 온체인 거래 플랫폼으로, 가장 변동성이 큰 시장에서도 견고함을 자랑합니다. 이 기반 위에 GMGN은 실시간 온체인 분석, 스마트 머니 추적, 그리고 이제는 영구 선물까지 제공하며, 모든 앱과 웹 터미널에서 원활하게 이용할 수 있습니다.
+
+이번 행사에서는 GMGN 신제품을 직접 체험하고, DJ, 케이터링, 굿즈 등 다양한 이벤트와 콘텐츠를 즐겨보세요!
+
+라이브 DJ
+
+케이터링 & 음료
+
+굿즈 & 경품 이벤트
+
+알파 공유 & 네트워킹
+
+[ Partners ]
+
+Project Partners
+
+GWDC - Solana - Sentient - Avalanche - Plume - SurfAI - RootData - Tron - Mantle - AutoLinta - Thea
+
+### Media Partners
+
+Foresight News - Coinness - Blockmedia - 0xMedia
+
+University Blockchain Society
+
+Ehwa Chain(이화여자대학교) - BAY(연세대학교) - Skkrypto(성균관대학교)
+
+Cybersecurity & Research Institute
+
+KCBCA GLOBAL
+
+[ 안내사항 ]
+
+리워드 수령을 위해서는 부업 앱 설치가 필요합니다.
+
+본 페이지는 낮 팝업 전용 사전 등록 페이지 입니다.
+
+참여 프로젝트와 프로그램 세부 일정은 순차적으로 공개됩니다.
+
+저녁에 진행되는 프라이빗 네트워킹 파티는 초대자 전용으로 진행됩니다.
+
+행사 참여 시 현장 촬영에 동의하며, 촬영물은 리캡-홍보 콘텐츠에 사용될 수 있습니다.
+
 <a id="event-1db3e28d20c81008"></a>
 
 ## Weekly Pitch Practice #3
@@ -29499,6 +30163,272 @@ You'll leave with: A sharper pitch, and a clear list of what to fix before next 
 Book a pitch slot when you register, or just come and watch.
 
 https://au.superteam.fun/colosseum for more information
+
+<a id="event-92245fd06a8be117"></a>
+
+## Plasma x Seoul: Spend It Like Money
+
+- Record: `luma-batch-evtdVOLw6RJTIHbd`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-09-30T08:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/hikxx9hq>
+
+### About the event
+
+Spend It Like Money
+
+스테이블코인이 금융의 미래라는 이야기는 이제는 익숙한 이야기입니다. 이 밤은 그 변화를 실제로 만들고 있는 팀들을 만나는 자리입니다!
+
+가장 큰 스테이블코인의 발행사인 테더사, 스테이블코인을 위해 만들어진 최초의 Layer 1인 플라즈마, 그 스테이블코인을 Visa 카드에 올린 Rain, 그리고 그 사이를 잇는 인프라까지 모두가 한자리에 모였습니다.
+
+해외 송금, 트레저리, 결제에 스테이블코인 도입을 검토 중인 기업, 이 분야에 투자하는 투자자, 그리고 팀을 직접 만나고 싶은 Plasma One 유저분들과 스테이블코인 인프라, 결제, 네오뱅크를 만드는 빌더 여러분을 초대드립니다.
+
+Korea Blockchain Week 기간, 9월 30일에 뵙겠습니다
+
+On Stage
+
+패널: 디지털 달러의 발행, 이동, 그리고 소비
+
+Zaheer Ebtikar, CSO, Plasma
+
+Farooq Malik, Founder & CEO, Rain
+
+Queenie Le, APAC Regional Expansion Lead, Tether
+
+Kenny Zhang, Head of Crypto GTM, Stripe
+
+### Program
+
+17:30 입장 시작
+
+오픈 바, 팀, 플라즈마 원 유저는 굿즈를 먼저 받아가세요
+
+18:30 오프닝
+
+메인넷 출시 1년, Plasma의 현재
+
+18:45 패널 토크
+
+"From mint to checkout" with Tether, Rain, and Stripe
+
+19:15 Plasma One
+
+제품 딥다이브, 그리고 신규 기능 발표
+
+19:30~
+
+오픈 바 & 음식, 플라즈마 원 유저 굿즈
+
+17:30 Doors open.
+
+Open bar, team on the floor, Plasma One users grab merch early.
+
+18:30 Opening
+
+Plasma, one year after mainnet
+
+18:45 Panel Discussion
+
+"From mint to checkout" with Tether, Rain, and Privy
+
+19:15 Plasma One Intro
+
+Plasma One product deep dive, with a new feature announced
+
+19:30~
+
+Food, open bar, and merch until close
+
+### Co-Hosts
+
+Tether.
+
+스테이블코인 기술의 선구자이자, 세계에서 가장 규모가 크고 유동성이 높은 스테이블코인 USD₮의 발행사입니다. 전통 금융과 탈중앙 금융을 잇는, 누구나 접근할 수 있고 안전하며 효율적인 금융 인프라를 만드는 것을 목표로 합니다.
+
+Rain.
+
+스테이블코인 기반 카드 발행 및 결제 플랫폼입니다. 지갑, 카드, 글로벌 자금 이동을 하나의 API로 제공하며, 미국, 중남미, APAC, EU, EMEA 전역에서 매일 온체인으로 정산합니다.
+
+Event Partners
+
+Privy.
+
+크립토와 스테이블코인 레일 위에서 금융 서비스를 만드는 팀을 위한 지갑 인프라입니다. Ramp, Deel, Hyperliquid를 포함한 2,000개 이상의 팀이 Privy로 1억 6천만 개 이상의 계정을 운영하고 있습니다. 2025년 Stripe에 인수되었습니다.
+
+Surf AI.
+
+디지털 자산을 위한 AI 리서치 툴입니다. 23,000개 이상의 프로젝트, 1억 개 이상의 지갑 주소, 25,000개의 큐레이션된 자산 데이터를 바탕으로, 몇 시간짜리 리서치를 하나의 프롬프트로 압축합니다.
+
+Hosted by Plasma
+
+Plasma는 2025년, 스테이블코인 전용 Layer 1으로 시작했습니다. Tether와 Bitfinex의 지원을 받아 출시된 Plasma 체인은 USD₮ 수수료 무료 전송, 1초 이내 블록 확정, 완전한 EVM 호환성을 제공합니다.
+
+2026년 6월, Plasma는 스테이블코인을 일상으로 가져오기 위해 Plasma One을 출시했습니다. 하나의 계정에서 송금하고, 예치하고, 결제하는 서비스입니다. Rain이 발행하는 Plasma One Visa 카드는 Visa가 되는 곳이면 어디서든 사용할 수 있으며, 등급에 따라 일반 결제 최대 4%, AI 서비스 결제 최대 10%의 캐시백을 제공합니다. 세부 조건은 이용약관을 따릅니다.
+
+이벤트 전에 Plasma One에 가입하고, 현장에서 팀을 만나고, 굿즈를 받아가세요. (Plasma One 유저에게는 특별한 선물도 준비되어 있습니다 )
+
+plasma.org/download/KBWKBW
+
+사전 등록 필수. 300명 한정, 선착순 승인. Plasma One 유저는 자동 승인됩니다.
+
+----------------------------
+
+Spend It Like Money
+
+Everyone says stablecoins are the future of money. This night is about what's putting them in people's hands right now.
+
+The issuer of the biggest stablecoin, the first Layer 1 built for stablecoins, the platform putting them on a Visa card, and the rails in between.
+
+We welcome all builders in stablecoin infra, payments, and neobanks. Enterprises exploring stablecoins for cross-border, treasury, or payouts. Investors in the space and Plasma One users who want to meet the team.
+
+One room, one evening, during Korea Blockchain Week.
+
+On Stage
+
+Panel: Issuing, moving, and spending the digital dollar
+
+Zaheer Ebtikar, CSO, Plasma
+
+Farooq Malik, Founder & CEO, Rain
+
+Queenie Le, APAC Regional Expansion Lead, Tether
+
+Kenny Zhang, Head of crypto GTM, Privy
+
+Tether.
+
+A pioneer in stablecoin technology and the issuer of USD₮, the largest and most liquid stablecoin in the world. Its mission is to provide accessible, secure, and efficient financial infrastructure that bridges traditional finance and decentralised finance.
+
+Rain.
+
+Stablecoin-powered card issuing and payments. One API for wallets, cards, and global money movement, settling onchain daily across the US, LATAM, APAC, EU, and EMEA.
+
+Event Partners
+
+Privy.
+
+Wallet infrastructure for financial products built on crypto and stablecoin rails. Over 2,000 teams, including Ramp, Deel, and Hyperliquid, use Privy to power more than 160 million accounts. Privy became a Stripe company in 2025.
+
+Surf AI.
+
+AI research tool for digital assets. Surf turns hours of research into a single prompt, drawing on professional-grade data across 23,000+ projects, 100M+ wallet addresses, and 25,000 curated assets.
+
+Hosted by Plasma
+
+Plasma started in 2025 with a layer 1 purpose-built for stablecoins. Backed by Tether and Bitfinex, the chain launched with zero-fee USD₮ transfers, sub-second block confirmation, and full EVM compatibility.
+
+In June 2026, Plasma launched Plasma One to bring stablecoins into everyday use: send, earn, and spend from one account. The Plasma One Visa card, issued by Rain, works anywhere Visa is accepted, with up to 4% cashback on everyday spend and up to 10% on eligible AI spend, depending on your tier.
+
+Sign up for Plasma One before the event, meet the team, and collect your merch on the night. (and special gifts for Plasma One users)
+
+plasma.org/download/KBWKBW
+
+Registration required. Limited to 300, first come, first served. Plasma One users confirmed automatically.
+
+<a id="event-33bf0426f333ed87"></a>
+
+## Seoul On Chain: By BONK, EVG and REXY
+
+- Record: `luma-batch-evtqWKSTRzg4Y2cF`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-09-30T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/3kt0wnsh>
+
+### About the event
+
+Seoul ON Chain | Hosted by BONK and Everest Global
+
+Join BONK and Everest Global for an evening of cocktails and conversation during Korea Blockchain Week.
+
+We are bringing together builders, community members and leaders across digital assets, trading and consumer crypto in Korea for a relaxed evening at Zest - ranked Top 2 bar in Asia. Expect great drinks, great food and even better company.
+
+### About BONK
+
+BONK is the community token of Solana and one of the most recognized brands in consumer crypto. What started as a token for the people has grown into a full onchain ecosystem spanning trading, gaming and collectibles, powered by one of the largest and most active communities in Web3, with over 1 million unique wallet holders. Learn more at bonkcoin.com.
+
+### About EVG
+
+Founded in 2018, Everest Global (EVG) is one of APAC's largest and most active Web3 product builders and publishers. With 200+ engineers and 10M+ users, EVG has built a complex of innovative products across consumer infra, media (Top 1 Chinese media Blocktempo) and licensed institutional platform (Aspen Digital). EVG also has strategic stakes in industry leading ecosystems including Kraken, Dunamu (Upbit's holdco), Pudgy Penguins, Canton Network, Stacks, Celestia, Wormhole, Berachain, Abstract, Infinex, Pharos, Dapper Labs, Animoca Brands, The Sandbox and Immutable.
+
+Website: https://www.evg.co/
+
+X: https://x.com/EVGHQ
+
+### About Rexy
+
+Rexy is an agent-powered GTM layer that helps companies identify and activate qualified users, backed by Arbitrum Gaming Ventures, Framework Ventures, North Island Ventures, Portal Ventures and Everest Global. Using privacy-preserving zkTLS, Rexy validates financial, trading, social, and account signals without exposing users' raw data. Built on a distribution network of 320K+ verified users and 100+ growth syndicates, Rexy connects company growth agents with permissioned user agents to enable personalized offers, trusted attribution, and verifiable settlement.
+
+Website: https://rexy.so/
+
+X: https://x.com/Rexy_AI
+
+<a id="event-1319b68b6b9a9930"></a>
+
+## Frontier Traders: Seoul Showdown
+
+- Record: `luma-batch-evtSjRQeKMUJV5na`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-09-30T11:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/frontier-traders-KR>
+
+### About the event
+
+This room doesn't exist on any timeline.
+
+Frontier Traders is coming to Korea Blockchain Week with an exclusive experience featuring live trading showdown and curated networking for influential traders, market builders, and asset allocators.
+
+### Agenda
+
+8:00 - 9:00: Arrival and Happy Hour
+
+9:00 - 11:00: Trading Showdown: 8 traders enter and only one stands after 3 rounds of live trading.
+
+11:00 - 12:00: DJ & Networking
+
+Who gets accepted:
+
+→ Traders who do real size on spot, perps, structured
+
+→ Props and funds with digital asset exposure
+
+→ Top allocators and capital deployers
+
+www.FrontierTraders.com
+
+Brought to you by Frontier Traders community collaborators:
+
+Solana Foundation
+
+Solana Foundation is a non-profit organization dedicated to the adoption, decentralization, and security of the Solana network. The Foundation supports developers, founders, and communities building on Solana, helping grow an open, scalable, and globally accessible ecosystem. Learn more at solana.org
+
+Jito
+
+JTX is a self-custodial trading platform built by Jito, the team behind Solana's execution infrastructure. JTX delivers best-execution trading across tokenized equities and crypto, 24/7 from anywhere, with self-custody by default. Learn more at: www.jtx.com
+
+DoubleZero
+
+DoubleZero is a protocol that enables a global fiber network for high-performance distributed systems. Powered by independent fiber contributors and coordinated by a blockchain-based protocol, DoubleZero delivers low-latency networking and real-time data infrastructure for blockchains, prediction markets and other distributed systems where milliseconds matter. Learn more at: www.doublezero.xyz
+
+Phoenix Trade
+
+Phoenix is a fully on-chain perpetuals exchange built on Solana by Ellipsis Labs. Every order, fill, and liquidation settles directly on the Solana blockchain, making execution publicly verifiable rather than dependent on off-chain matching or oracle pricing. Trades settle in under a second, trading is gasless for users, and is built non-custodial by design. Ellipsis Labs has operated on-chain markets since 2023, processing over $75 billion in spot volume. Phoenix is available at phoenix.trade. Not available in the U.S. or sanctioned jurisdictions.
+
+World[.xyz]
+
+World is Solana's native, fully onchain platform for self-custodial prediction market trading. World delivers real-time onchain performance, with fast routing, near-zero revert rates, instant settlement, and automatic redemption. Market coverage spans extensively into crypto and financial price predictions, sports, geopolitics, and the biggest questions in macro. World is how the world trades what happens next. Learn more at world.xyz
+
+Titan Exchange
+
+Titan is the pros' gateway to Internet Capital Markets. We built Solana's first meta-aggregator and routers that power billions in on-chain trading volume. Learn more at https://x.com/Titan_Exchange
+
+Phantom
+
+Phantom is on a mission to connect the world to the freedom of open markets. More than 20 million people use Phantom to move, manage, and own their money online, trading tokens, perpetual futures, and prediction markets that never close. With its money suite and CASH stablecoin, Phantom turns crypto rails into everyday money that always stays under your control. Learn more at phantom.com
+
+Interested in Sponsoring this event? Please reach out to events@solana.org
 
 <a id="event-9a15cf65c0b13eb9"></a>
 
@@ -30453,6 +31383,26 @@ Pro tip: We highly recommend grabbing what you need at the convenience store or 
 First-timers are warmly welcomed!If you're thinking, "I don't know much about the technical stuff, but I'm curious," or "I don't have anyone to talk to about Bitcoin," this event is exactly for you!
 
 This is a great chance to experience the real-world culture of Bitcoin that you just can't get from staring at charts and screens. Come down and feel the warmth of the growing Bitcoin community right here in Yotsuya.
+
+<a id="event-2a4169bf82c8d07d"></a>
+
+## BAYC Taipei Happy Hour
+
+- Record: `luma-batch-evtccJeRPeBYE7uZ`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-10-02T12:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/y8sft1wx>
+
+### About the event
+
+歡迎參加 BAYC 台北 Happy Hour，和 Figge 一起度過一個輕鬆愉快的夜晚。下班後來喝一杯，認識更多 BAYC 持有者與社群朋友，在台北市中心自在交流、放鬆一下。
+
+無論是下班後順道過來，還是把這裡當作今晚的主要行程，都是和台北 BAYC 社群敘舊、分享故事、認識新朋友的好機會。輕鬆來玩，讓我們一起把氣氛拉滿、聊得盡興，也喝得開心！
+
+Join BAYC Taipei Happy Hour for a relaxed evening with Figge. Come by to unwind over drinks, meet fellow BAYC holders and friends, and enjoy a lively hangout in the heart of Taipei.
+
+Whether you are stopping in after work or making it your main plan for the night, this is a great chance to catch up, share stories, and spend time with the local BAYC crowd in a fun, easygoing setting. We'll keep the vibes high, the conversation flowing, and the glasses full.
 
 <a id="event-ec60103a7813fa70"></a>
 
