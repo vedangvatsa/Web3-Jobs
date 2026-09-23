@@ -15,18 +15,22 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     timeout-minutes: 45
+    permissions:
+      contents: read
+      id-token: write
     steps:
       - uses: actions/checkout@v4
       - uses: google-github-actions/auth@v2
         with:
-          credentials_json: ${{ secrets.FIREBASE_APPHOSTING_SERVICE_ACCOUNT_KEY || secrets.FIREBASE_SERVICE_ACCOUNT_KEY }}
+          workload_identity_provider: 'projects/${{ vars.GCP_PROJECT_NUMBER }}/locations/global/workloadIdentityPools/github-pool/providers/github-provider'
+          service_account: 'antigravity-agent@web3-jobs-aggregator.iam.gserviceaccount.com'
       - uses: google-github-actions/setup-gcloud@v2
       - name: Grant deploy role + actAs on the App Hosting compute SA
         id: grant
         continue-on-error: true
         run: |
           set -euo pipefail
-          SA=$(python3 -c 'import json,os; print(json.load(open(os.environ["GOOGLE_APPLICATION_CREDENTIALS"]))["client_email"])')
+          SA="antigravity-agent@web3-jobs-aggregator.iam.gserviceaccount.com"
           echo "Granting roles/firebaseapphosting.admin to $SA"
           gcloud projects add-iam-policy-binding web3-jobs-aggregator \
             --member="serviceAccount:${SA}" \
