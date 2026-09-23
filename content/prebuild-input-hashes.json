@@ -2,7 +2,7 @@
   "version": 1,
   "steps": {
     "company-logos-index": {
-      "inputHash": "c1401e1f12eb3802"
+      "inputHash": "ebfd2a2b43396c60"
     },
     "learn-runtime": {
       "inputHash": "8348f3675784195b"
@@ -14,16 +14,16 @@
       "inputHash": "4fd93f55c7a3ee4e"
     },
     "events-runtime": {
-      "inputHash": "14863e89dd377ae0"
+      "inputHash": "1f4f55f5c5677c80"
     },
     "glossary-runtime": {
       "inputHash": "f97f77423cbe4d90"
     },
     "companies-runtime": {
-      "inputHash": "2076c6a00503ee89"
+      "inputHash": "e40d46f075ffb993"
     },
     "company-profiles": {
-      "inputHash": "4888ca94502ceeb9"
+      "inputHash": "22501e5be7df6340"
     },
     "articles-index": {
       "inputHash": "38bb8ef2526ce606"
@@ -32,10 +32,10 @@
       "inputHash": "0d48013ca2eeaf64"
     },
     "slug-types": {
-      "inputHash": "13c518a614525973"
+      "inputHash": "a4a5b83176a7a36a"
     },
     "sitemap": {
-      "inputHash": "9c51d109da74cd5f"
+      "inputHash": "9c78bd98188d3814"
     },
     "public-catalog-sync": {
       "inputHash": "589eb060a9e5272f"

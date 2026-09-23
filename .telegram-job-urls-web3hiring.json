@@ -2964,26 +2964,72 @@
   },
   "7834182003": {
     "slugs": [
-      "marketing165"
+      "marketing165",
+      "marketing177",
+      "marketing127"
     ],
-    "lastSlug": "marketing165",
-    "lastUrl": "https://hashtagweb3.com/marketing165",
+    "lastSlug": "marketing127",
+    "lastUrl": "https://hashtagweb3.com/marketing127",
     "updatedAt": "2026-09-22T19:45:22.070Z"
   },
   "f4166c80-0fd6-4149-8c7b-8bd23334c472": {
     "slugs": [
-      "customer22"
+      "customer22",
+      "customer4c472"
     ],
-    "lastSlug": "customer22",
-    "lastUrl": "https://hashtagweb3.com/customer22",
+    "lastSlug": "customer4c472",
+    "lastUrl": "https://hashtagweb3.com/customer4c472",
     "updatedAt": "2026-09-22T19:45:22.290Z"
   },
   "forward-deployed-engineer": {
     "slugs": [
-      "engineer913"
+      "engineer913",
+      "engineer99453",
+      "engineer209",
+      "engineer51504"
     ],
-    "lastSlug": "engineer913",
-    "lastUrl": "https://hashtagweb3.com/engineer913",
+    "lastSlug": "engineer51504",
+    "lastUrl": "https://hashtagweb3.com/engineer51504",
     "updatedAt": "2026-09-22T19:45:22.552Z"
+  },
+  "a40a998a-acfd-403d-8de9-0d4365030503": {
+    "slugs": [
+      "eng88"
+    ],
+    "lastSlug": "eng88",
+    "lastUrl": "https://hashtagweb3.com/eng88",
+    "updatedAt": "2026-09-23T11:35:02.127Z"
+  },
+  "4f5e4bcc-386b-4dcd-ae2a-6ace507b2563": {
+    "slugs": [
+      "rust27"
+    ],
+    "lastSlug": "rust27",
+    "lastUrl": "https://hashtagweb3.com/rust27",
+    "updatedAt": "2026-09-23T11:35:02.217Z"
+  },
+  "b04e376692fb01": {
+    "slugs": [
+      "marketing97"
+    ],
+    "lastSlug": "marketing97",
+    "lastUrl": "https://hashtagweb3.com/marketing97",
+    "updatedAt": "2026-09-23T11:35:02.379Z"
+  },
+  "7662641003": {
+    "slugs": [
+      "sales72"
+    ],
+    "lastSlug": "sales72",
+    "lastUrl": "https://hashtagweb3.com/sales72",
+    "updatedAt": "2026-09-23T11:35:02.856Z"
+  },
+  "8c0ea2a6-e423-4898-9e7b-810719030013": {
+    "slugs": [
+      "manager324"
+    ],
+    "lastSlug": "manager324",
+    "lastUrl": "https://hashtagweb3.com/manager324",
+    "updatedAt": "2026-09-23T11:35:03.174Z"
   }
 }

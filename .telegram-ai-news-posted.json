@@ -599,6 +599,9 @@
   "https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/",
   "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
   "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
+  "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+  "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+  "https://www.technologyreview.com/2026/09/23/1144953/smart-glasses-havoc-india/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1580,6 +1583,12 @@
   "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
   "AstroForge uses transformer AI to control next space probe",
   "AstroForge is putting AI in command of its next spacecraft",
+  "Qualcomm launches smartphone processors for local model execution",
+  "Qualcomm launches two new smartphone chips with emphasis on AI",
+  "OpenAI releases GPT-6 Sol and Luna models",
+  "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+  "Smart glasses used to film protesters in India",
+  "Smart glasses are already causing havoc in India",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -1696,5 +1705,8 @@
   "fp:accountant|bookkeep|business|client|creat|data|former|loss|mak|manag",
   "fp:aerial|attack|autonomous|autonomously|battlefield|decentraliz|deploy|dron|enabl|engag",
   "fp:agenda|amazon|anthropic|discussion|disrupt2026|every|featur|fiv|founder|hav",
-  "fp:astroforg|autonomy1|bas|command|control|dur|manag|mission|next|operation"
+  "fp:astroforg|autonomy1|bas|command|control|dur|manag|mission|next|operation",
+  "fp:can|chip|devic|directly|emphasis|execution|expert|flagship|local|mixtur",
+  "fp:boast|compar|cost|error|expens|fewer|generation|gpt6|lower|luna",
+  "fp:already|are|camera|captur|caus|delhi|demonstration|film|footag|glass"
 ]

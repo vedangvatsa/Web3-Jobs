@@ -110,6 +110,14 @@
     "lastUrl": "https://hashtagweb3.com/engineer-13xosq3",
     "updatedAt": "2026-09-15T19:44:52.895Z"
   },
+  "7489950": {
+    "slugs": [
+      "engineer218"
+    ],
+    "lastSlug": "engineer218",
+    "lastUrl": "https://hashtagweb3.com/engineer218",
+    "updatedAt": "2026-09-23T11:35:05.075Z"
+  },
   "7602261": {
     "slugs": [
       "counsel",
@@ -1584,6 +1592,14 @@
     "lastUrl": "https://hashtagweb3.com/product195",
     "updatedAt": "2026-09-15T19:44:56.559Z"
   },
+  "8131339": {
+    "slugs": [
+      "operations139"
+    ],
+    "lastSlug": "operations139",
+    "lastUrl": "https://hashtagweb3.com/operations139",
+    "updatedAt": "2026-09-23T11:35:05.708Z"
+  },
   "8139998": {
     "slugs": [
       "product480",
@@ -1636,6 +1652,14 @@
     "lastSlug": "manager217",
     "lastUrl": "https://hashtagweb3.com/manager217",
     "updatedAt": "2026-09-22T15:39:31.603Z"
+  },
+  "8172752": {
+    "slugs": [
+      "manager611"
+    ],
+    "lastSlug": "manager611",
+    "lastUrl": "https://hashtagweb3.com/manager611",
+    "updatedAt": "2026-09-23T11:35:05.776Z"
   },
   "8173047": {
     "slugs": [
@@ -2901,10 +2925,11 @@
       "engineer658",
       "eng62",
       "eng66",
-      "eng120"
+      "eng120",
+      "eng180"
     ],
-    "lastSlug": "eng120",
-    "lastUrl": "https://hashtagweb3.com/eng120",
+    "lastSlug": "eng180",
+    "lastUrl": "https://hashtagweb3.com/eng180",
     "updatedAt": "2026-09-15T19:44:54.906Z"
   },
   "a5248174-f846-49ce-924b-403a12914914": {
@@ -5676,10 +5701,11 @@
       "engineer48002",
       "engineer-0ecy170",
       "eng16",
-      "eng64"
+      "eng64",
+      "eng28"
     ],
-    "lastSlug": "eng64",
-    "lastUrl": "https://hashtagweb3.com/eng64",
+    "lastSlug": "eng28",
+    "lastUrl": "https://hashtagweb3.com/eng28",
     "updatedAt": "2026-09-21T09:12:11.006Z"
   },
   "93496f20-c474-476f-80e2-e8a1ff76054f": {
@@ -5797,26 +5823,34 @@
   },
   "tangem-system-analyst-us-equities-integration": {
     "slugs": [
-      "analyst175"
+      "analyst175",
+      "analyst2",
+      "system-analyst",
+      "analysta0d63"
     ],
-    "lastSlug": "analyst175",
-    "lastUrl": "https://hashtagweb3.com/analyst175",
+    "lastSlug": "analysta0d63",
+    "lastUrl": "https://hashtagweb3.com/analysta0d63",
     "updatedAt": "2026-09-22T19:45:24.797Z"
   },
   "JR101073": {
     "slugs": [
-      "marketing111"
+      "marketing111",
+      "marketing01073",
+      "marketing-16obp23"
     ],
-    "lastSlug": "marketing111",
-    "lastUrl": "https://hashtagweb3.com/marketing111",
+    "lastSlug": "marketing-16obp23",
+    "lastUrl": "https://hashtagweb3.com/marketing-16obp23",
     "updatedAt": "2026-09-22T19:45:25.108Z"
   },
   "4956782101": {
     "slugs": [
-      "manager512"
+      "manager512",
+      "manager535",
+      "manager273",
+      "manager-06nd8ck"
     ],
-    "lastSlug": "manager512",
-    "lastUrl": "https://hashtagweb3.com/manager512",
+    "lastSlug": "manager-06nd8ck",
+    "lastUrl": "https://hashtagweb3.com/manager-06nd8ck",
     "updatedAt": "2026-09-22T19:45:25.306Z"
   },
   "7fa2cc83-7fe1-4340-b6f7-43ef3fe1b87d": {
@@ -5829,10 +5863,46 @@
   },
   "5377636008": {
     "slugs": [
-      "manager391"
+      "manager391",
+      "manager96129",
+      "manager408",
+      "manager96",
+      "manager-0wk14bd"
     ],
-    "lastSlug": "manager391",
-    "lastUrl": "https://hashtagweb3.com/manager391",
+    "lastSlug": "manager-0wk14bd",
+    "lastUrl": "https://hashtagweb3.com/manager-0wk14bd",
     "updatedAt": "2026-09-22T19:45:26.259Z"
+  },
+  "https://jobs.lever.co/binance/3cc553ce-b5e9-4715-9aab-0eb22edde5cf": {
+    "slugs": [
+      "pm83"
+    ],
+    "lastSlug": "pm83",
+    "lastUrl": "https://hashtagweb3.com/pm83",
+    "updatedAt": "2026-09-23T11:32:39.787Z"
+  },
+  "c79365ff-16bd-4809-9e0a-d613ed3899dd": {
+    "slugs": [
+      "mgr63"
+    ],
+    "lastSlug": "mgr63",
+    "lastUrl": "https://hashtagweb3.com/mgr63",
+    "updatedAt": "2026-09-23T11:32:43.814Z"
+  },
+  "5422644008": {
+    "slugs": [
+      "fp2"
+    ],
+    "lastSlug": "fp2",
+    "lastUrl": "https://hashtagweb3.com/fp2",
+    "updatedAt": "2026-09-23T11:35:05.378Z"
+  },
+  "cac47160-0013-480b-b32c-6b8d66bf14d6": {
+    "slugs": [
+      "backend134"
+    ],
+    "lastSlug": "backend134",
+    "lastUrl": "https://hashtagweb3.com/backend134",
+    "updatedAt": "2026-09-23T11:35:05.567Z"
   }
 }

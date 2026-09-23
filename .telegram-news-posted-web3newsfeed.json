@@ -611,6 +611,9 @@
   "https://hashtagweb3.com/animoca-currenc?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/circle-borrow?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://www.theblock.co/news/business/2026-09-22-binance-takes-100-million-circle-stake-alongside-five-year-usdc-deal-416042",
+  "https://hashtagweb3.com/etf-inflows?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://www.theblock.co/news/business/2026-09-22-sofi-begins-stablecoin-settlement-on-mastercard-network-for-program-expected-to-exceed-25-billion-in-annualized-volume-416035",
+  "https://cointelegraph.com/news/cftc-selig-mass-tokenization-sec-onchain-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -1739,6 +1742,12 @@
   "Circle Opens Bitcoin-Backed USDC Borrowing in Mint",
   "Binance invests $100 million in Circle for USDC partnership",
   "Binance takes $100 million Circle stake alongside five-year USDC deal",
+  "US Spot Bitcoin ETFs Record $998.9 Million Daily Net Inflow",
+  "Bitcoin ETFs Draw 999 Million Dollars in Largest Inflow Since October",
+  "SoFi begins stablecoin settlement on Mastercard network",
+  "SoFi begins stablecoin settlement on Mastercard network for program expected to exceed $25 billion in annualized volume",
+  "CFTC and SEC Continue Tokenization Efforts Despite Setbacks",
+  "CFTC chair pushes tokenization as SEC opens door to onchain stocks",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -1882,5 +1891,8 @@
   "fp:argu|bought|can|clarify|concern|despit|digital|don|fix|gam",
   "fp:animoca|brand|currenc|given|group|halt|hav|list|merger|mutually",
   "fp:back|borrow|can|cirbtc|circl|collateral|deposit|eligibl|enabl|market",
-  "fp:100m|agreement|alongsid|binanc|circl|exchang|fiv|follow|invest|investment"
+  "fp:100m|agreement|alongsid|binanc|circl|exchang|fiv|follow|invest|investment",
+  "fp:9989m|999m|ark|blackrock|daily|dollar|draw|etf|fidelity|fund",
+  "fp:25b|annual|annualiz|begin|digital|dollar|enabl|exc|expect|financial",
+  "fp:act|advanc|agency|are|cftc|chair|clarity|continu|despit|door"
 ]
