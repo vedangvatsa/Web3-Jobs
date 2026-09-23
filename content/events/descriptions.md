@@ -51527,19 +51527,19 @@ Die Funktion von Kryptowährungen hat sich in den letzten Jahren gewandelt. Ursp
 
 Die beiden Referenten zeigen anhand ausgewählter Aspekte auf, wie der Kundenschutz nach geltendem Recht ausgestaltet ist und welche Weiterentwicklungen im Rahmen der geplanten Änderung des Finanzinstitutsgesetzes vorgesehen sind.
 
-12.15 Einführung
+12.15 Einführung
 
 Ass.-Prof. Dr. Claude Humbel, ZIBR
 
-12.20 Kundenschutz de lege lata
+12.20 Kundenschutz de lege lata
 
 Dr. Stefan Härtner, Finma
 
-12.35 Kundenschutz de lege ferenda
+12.35 Kundenschutz de lege ferenda
 
 Dr. Fabrice Eckert, Homburger AG
 
-12.50 Diskussion / Q&A
+12.50 Diskussion / Q&A
 
 Moderation: Ass.-Prof. Dr. Claude Humbel, ZIBR
 
@@ -54644,7 +54644,7 @@ Data infrastructure agents and humans can trust. A system of intelligence on top
 
 ### About the event
 
-Join </de_CENTRALIZED> for presentation by open-source project - Olive Branch Network titled "Crypto For Good".
+Join decentralised for presentation by open-source project - Olive Branch Network titled "Crypto For Good".
 
 This informative session invites audience to rethink how humanity approaches funding causes that make a positive impact on the world.
 
