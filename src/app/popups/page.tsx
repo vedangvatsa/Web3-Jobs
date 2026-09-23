@@ -59,14 +59,7 @@ export default function PopupsPage() {
         <main className="flex-1">
           <PageShell>
             <PageHeader title="Startup Societies" />
-            <CommunityFeedBanner
-              href="https://t.me/hashtagweb3"
-              text={
-                <>
-                  Join our Telegram community with <strong className="text-foreground">18,000+</strong> members
-                </>
-              }
-            />
+            <CommunityFeedBanner variant="community" />
             <PopupsBoard popups={popups} />
           </PageShell>
         </main>

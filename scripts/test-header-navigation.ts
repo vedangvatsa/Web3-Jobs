@@ -102,13 +102,25 @@ async function main() {
     }
     for (const width of [320, 390, 768, 1024, 1440]) {
       await page.setViewportSize({ width, height: 900 });
+      for (const overflowRoute of ['/events', '/coinbase', '/companies'] as const) {
+        await page.goto(`${baseUrl}${overflowRoute}`, { waitUntil: 'domcontentloaded', timeout: 180_000 });
+        await page.waitForLoadState('load');
+        await page.evaluate(() => new Promise<void>((resolve) => requestAnimationFrame(() => requestAnimationFrame(() => resolve()))));
+        for (const dark of [false, true]) {
+          await page.evaluate((enabled) => document.documentElement.classList.toggle('dark', enabled), dark);
+          assert.equal(
+            await page.evaluate(() => document.documentElement.scrollWidth > window.innerWidth),
+            false,
+            `Overflow on ${overflowRoute} at ${width}px${dark ? ' (dark)' : ''}`,
+          );
+        }
+      }
       await page.goto(`${baseUrl}/events`, { waitUntil: 'domcontentloaded', timeout: 180_000 });
       await assertCta(page, 'event');
       await page.waitForLoadState('load');
       await page.evaluate(() => new Promise<void>((resolve) => requestAnimationFrame(() => requestAnimationFrame(() => resolve()))));
       for (const dark of [false, true]) {
         await page.evaluate((enabled) => document.documentElement.classList.toggle('dark', enabled), dark);
-        assert.equal(await page.evaluate(() => document.documentElement.scrollWidth > window.innerWidth), false, `Overflow at ${width}px`);
         if (width < 1024) {
           const before = await headerState(page);
           await page.getByRole('button', { name: 'Toggle navigation menu' }).click();

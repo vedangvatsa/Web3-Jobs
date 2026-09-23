@@ -210,7 +210,7 @@ export function JobBoard({
         resultCount={showResultCount && searchQuery && !isLoading ? total : null}
       />
 
-      <div ref={gridRef} className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
+      <div ref={gridRef} className="grid min-w-0 grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 [&>*]:min-w-0">
         {jobs.map((job) => {
           const slug = getJobSlug(job);
           const logo = logoMap[getCompanySlug(job.company)];

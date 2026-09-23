@@ -26,7 +26,7 @@ export function LogoStrip({
           </h2>
 
           <div className="flow-root">
-            <div className="-my-1 -mx-3 flex flex-wrap items-center justify-center gap-x-6 gap-y-2">
+            <div className="-my-1 flex flex-wrap items-center justify-center gap-x-4 gap-y-2 sm:gap-x-6">
               {logos.map((logo) => {
                 const maxHeight = logo.maxHeight ?? 28;
                 return (

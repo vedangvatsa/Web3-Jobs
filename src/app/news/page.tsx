@@ -62,14 +62,7 @@ export default async function NewsPage() {
         <main className="flex-1">
       <PageShell>
         <PageHeader title="Web3 News" />
-        <CommunityFeedBanner
-          href="https://t.me/web3newsfeed"
-          text={
-            <>
-              Join our news feed with <strong className="text-foreground">11,000+</strong> subscribers.
-            </>
-          }
-        />
+        <CommunityFeedBanner variant="news" />
        <NewsPageClient initialNewsItems={newsItems} />
      </PageShell>
     </main>

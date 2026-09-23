@@ -79,14 +79,7 @@ export default async function EventsPage() {
           <PageShell>
             <PageHeader title="Web3 Events" />
             <EventPartners />
-            <CommunityFeedBanner
-              href="https://t.me/hashtagweb3"
-              text={
-                <>
-                  Join our Telegram community with <strong className="text-foreground">18,000+</strong> members
-                </>
-              }
-            />
+            <CommunityFeedBanner variant="community" />
             <EventsBoard initialEvents={upcomingEvents} />
           </PageShell>
         </main>

@@ -66,7 +66,7 @@ export function CompaniesBoard({ initialCompanies, companyLogos = {} }: Companie
         resultCount={searchQuery ? filtered.length : null}
       />
 
-      <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
+      <div className="grid min-w-0 grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 [&>*]:min-w-0">
         {visibleCompanies.map((company) => {
           const logo = companyLogos[company.slug];
           return (

@@ -36,7 +36,7 @@ export function CompanyLogo({
       alt={`${name} logo`}
       loading="lazy"
       decoding="async"
-      className={`object-contain ${size}`}
+      className={`max-h-full max-w-full object-contain ${size}`}
       onError={() => {
         if (src === logoSrc && faviconUrl && faviconUrl !== logoSrc) {
           setSrc(faviconUrl);

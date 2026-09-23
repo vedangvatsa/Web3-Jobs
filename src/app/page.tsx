@@ -99,7 +99,7 @@ export default function JobsPage() {
 
             <article>
               <TrustedBy />
-              <CommunityFeedBanner label="hiring feed" />
+              <CommunityFeedBanner />
               <JobBoard
                 initialJobs={initialJobs}
                 initialTotal={totalJobs}

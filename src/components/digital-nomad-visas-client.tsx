@@ -167,14 +167,7 @@ export function DigitalNomadVisasContent() {
     <div>
       <ToolUsageTracker toolName="Digital Nomad Visas" />
       <PageHeader title="Visas for Digital Nomads" />
-      <CommunityFeedBanner
-        href="https://t.me/hashtagweb3"
-        text={
-          <>
-            Join our Telegram community with <strong className="text-foreground">18,000+</strong> members
-          </>
-        }
-      />
+      <CommunityFeedBanner variant="community" />
 
       <ListingToolbar
         searchValue={searchTerm}

@@ -3,14 +3,11 @@ import { getJobSlug } from '@/lib/job-slugs';
 import type { Job } from '@/types';
 import homepageJobs from '../../../content/homepage-jobs.json';
 import { TrustedBy } from '@/components/trusted-by';
-import Link from 'next/link';
-import { Rss } from 'lucide-react';
 import type { Metadata } from 'next';
 import { PageHeader } from "@/components/page-header";
-
-import { SITE_STATS } from '@/lib/constants';
 import { PageShell } from '@/components/page-shell';
 import type { CompanyLogoMap } from '@/lib/job-logo-map';
+import { CommunityFeedBanner } from '@/components/community-feed-banner';
 
 export const dynamic = 'force-static';
 
@@ -86,19 +83,7 @@ export default function JobsPage() {
       <PageShell>
         <PageHeader title="Web3 Jobs" />
         <TrustedBy />
-        <div className="text-center my-4 space-y-2">
-          <div className="inline-flex items-center gap-3 text-sm text-muted-foreground flex-wrap justify-center">
-            <Link
-              href={SITE_STATS.telegramUrl}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="hover:text-foreground inline-flex items-center gap-2"
-            >
-              <Rss className="h-4 w-4" />
-              <span>Join our hiring feed with <strong className="text-foreground">{SITE_STATS.telegramSubscribersFormatted}</strong> subscribers.</span>
-            </Link>
-          </div>
-        </div>
+        <CommunityFeedBanner />
         <JobBoard initialJobs={initialJobs} initialTotal={totalJobs} companyLogos={companyLogos} showResultCount={false} />
       </PageShell>
     </main>

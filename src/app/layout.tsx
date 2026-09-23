@@ -193,7 +193,7 @@ export default async function RootLayout({
       <link rel="dns-prefetch" href="https://images.unsplash.com" />
      </head>
     <body 
-     className={cn('min-h-screen font-body antialiased flex flex-col bg-background')}
+     className={cn('min-h-screen max-w-full font-body antialiased flex flex-col overflow-x-clip bg-background')}
     >
      <script
       type="application/ld+json"
@@ -234,7 +234,7 @@ export default async function RootLayout({
      <PostHogInit />
      <ClarityInit />
     <Header />
-    <div className="flex-grow">
+    <div className="min-w-0 flex-1 overflow-x-clip">
      {children}
     </div>
     <Toaster />

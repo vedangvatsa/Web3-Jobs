@@ -1,37 +1,27 @@
 import Link from 'next/link';
 import { Rss } from 'lucide-react';
-import { SITE_STATS } from '@/lib/constants';
+import { COMMUNITY_FEED_BANNERS, type CommunityFeedVariant } from '@/lib/constants';
 
 interface CommunityFeedBannerProps {
-  label?: string;
-  href?: string;
-  text?: React.ReactNode;
+  /** Preset copy + link from `COMMUNITY_FEED_BANNERS` in constants. */
+  variant?: CommunityFeedVariant;
 }
 
-export function CommunityFeedBanner({
-  label = 'hiring feed',
-  href = SITE_STATS.telegramUrl,
-  text,
-}: CommunityFeedBannerProps) {
+export function CommunityFeedBanner({ variant = 'hiring' }: CommunityFeedBannerProps) {
+  const feed = COMMUNITY_FEED_BANNERS[variant];
+
   return (
-    <div className="text-center my-4 space-y-2">
-      <div className="inline-flex items-center gap-3 text-sm text-muted-foreground flex-wrap justify-center">
-        <Link
-          href={href}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="hover:text-foreground inline-flex items-center gap-2"
-        >
-          <Rss className="h-4 w-4" />
-          {text ? (
-            <span>{text}</span>
-          ) : (
-            <span>
-              Join our {label} with <strong className="text-foreground">{SITE_STATS.telegramSubscribersFormatted}</strong> subscribers.
-            </span>
-          )}
-        </Link>
-      </div>
-    </div>
+    <p className="my-4 px-4 text-center text-sm leading-snug text-muted-foreground sm:px-0">
+      <Link
+        href={feed.href}
+        target="_blank"
+        rel="noopener noreferrer"
+        className="inline hover:text-foreground"
+      >
+        <Rss className="mr-2 inline-block h-4 w-4 shrink-0 align-[-0.2em]" aria-hidden="true" />
+        Join our {feed.label} with{' '}
+        <strong className="font-semibold text-foreground">{feed.count}</strong> {feed.audience}.
+      </Link>
+    </p>
   );
 }

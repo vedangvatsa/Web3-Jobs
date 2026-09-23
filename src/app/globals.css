@@ -4,6 +4,8 @@
 
 html {
   scrollbar-gutter: stable;
+  overflow-x: clip;
+  max-width: 100%;
 }
 
 @keyframes gradient-animation {
@@ -81,7 +83,7 @@ body {
 /* Premium editorial styling for markdown content */
 @layer components {
   .site-container {
-    @apply max-w-6xl mx-auto w-full px-4 sm:px-6;
+    @apply max-w-6xl mx-auto w-full min-w-0 px-4 sm:px-6;
   }
 
   .page-section {

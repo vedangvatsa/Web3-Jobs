@@ -77,14 +77,7 @@ export function BlogPageClient({
   return (
     <>
       <PageHeader title="The Web3 Playbook" />
-      <CommunityFeedBanner
-        href="https://t.me/hashtagweb3"
-        text={
-          <>
-            Join our Telegram community with <strong className="text-foreground">18,000+</strong> members
-          </>
-        }
-      />
+      <CommunityFeedBanner variant="community" />
 
       <ListingToolbar
         searchValue={inputValue}

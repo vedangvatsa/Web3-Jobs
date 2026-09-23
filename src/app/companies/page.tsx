@@ -67,12 +67,12 @@ export default async function CompaniesPage() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(pageSchema) }}
       />
-      <div className="flex flex-col min-h-screen">
-        <main className="flex-1">
-          <PageShell>
+      <div className="flex min-w-0 flex-col min-h-screen">
+        <main className="min-w-0 flex-1">
+          <PageShell containerClassName="min-w-0">
             <PageHeader title="Web3 Companies" />
             <TrustedBy />
-            <CommunityFeedBanner label="company & hiring feed" />
+            <CommunityFeedBanner variant="company-hiring" />
             <CompaniesBoard initialCompanies={boardCompanies} companyLogos={companyLogos} />
           </PageShell>
         </main>

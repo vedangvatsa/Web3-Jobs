@@ -15,6 +15,7 @@ import { OutboundLink } from '@/components/tracking/outbound-link';
 import { JobCard } from '@/components/job-card';
 import { getJobSlug } from '@/lib/job-slugs';
 import { XBrandIcon } from '@/components/x-brand-icon';
+import { DetailPageHeader } from '@/components/detail-page-header';
 
 export async function CompanyDetailView({ slug }: { slug: string }) {
   const company = await getCompanyBySlug(slug);
@@ -32,6 +33,15 @@ export async function CompanyDetailView({ slug }: { slug: string }) {
       }
     } catch { /* ignore */ }
     return company.name;
+  })();
+
+  const websiteHostname = (() => {
+    if (!company.website) return null;
+    try {
+      return new URL(company.website.startsWith('http') ? company.website : `https://${company.website}`).hostname.replace(/^www\./, '');
+    } catch {
+      return null;
+    }
   })();
 
   // Per-company override: Circle shows its circle.com favicon here.
@@ -74,104 +84,97 @@ export async function CompanyDetailView({ slug }: { slug: string }) {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
       />
-      <div className="flex flex-col min-h-screen">
-        <main className="flex-grow">
-          <article className="site-container py-10 sm:py-14">
-            <nav className="mb-8 flex flex-wrap gap-2 text-sm text-muted-foreground" aria-label="Breadcrumb">
-              <Link href="/" className="hover:text-foreground">Home</Link>
-              <span aria-hidden="true">/</span>
-              <Link href="/companies" className="hover:text-foreground">Companies</Link>
-              <span aria-hidden="true">/</span>
-              <span className="text-foreground">{displayName}</span>
-            </nav>
-
-            <header className="border-b pb-8">
-              <div className="flex flex-col sm:flex-row items-start sm:items-center gap-4 sm:gap-5">
-                <div className="flex h-16 w-16 shrink-0 items-center justify-center">
-                  <CompanyLogo logoSrc={logoSrc} faviconUrl={faviconUrl} name={displayName} size="h-full w-full" />
-                </div>
-                <div className="min-w-0 flex-1">
-                  <h1 className="text-2xl font-bold tracking-tight break-words sm:text-4xl">{displayName}</h1>
-                  <div className="mt-2 flex flex-wrap gap-x-5 gap-y-2 text-sm text-muted-foreground">
-                    <span className="flex items-center gap-1.5">
-                      <Briefcase className="h-4 w-4" aria-hidden="true" />
-                      {company.jobCount} role{company.jobCount !== 1 ? 's' : ''}
-                    </span>
-                    {company.website && (
-                      <OutboundLink
-                        href={company.website}
-                        label={`${displayName} website`}
-                        className="flex items-center gap-1.5 hover:text-foreground"
-                      >
-                        <ExternalLink className="h-4 w-4" aria-hidden="true" />
-                        {new URL(company.website).hostname.replace(/^www\./, '')}
-                      </OutboundLink>
-                    )}
-                  </div>
-                  {social && (social.linkedin || social.twitter || social.crunchbase) && (
-                    <div className="mt-3 flex flex-wrap items-center gap-x-4 gap-y-2 text-sm">
-                      {social.linkedin && (
-                        <OutboundLink
-                          href={social.linkedin}
-                          label={`${displayName} on LinkedIn`}
-                          className="inline-flex items-center gap-1.5 text-muted-foreground hover:text-foreground"
-                        >
-                          <Linkedin className="h-4 w-4 shrink-0" aria-hidden="true" />
-                          LinkedIn
-                        </OutboundLink>
-                      )}
-                      {social.twitter && (
-                        <OutboundLink
-                          href={social.twitter}
-                          label={`${displayName} on X`}
-                          className="inline-flex items-center gap-1.5 text-muted-foreground hover:text-foreground"
-                        >
-                          <XBrandIcon className="h-4 w-4 shrink-0" />
-                          X
-                        </OutboundLink>
-                      )}
-                      {social.crunchbase && (
-                        <OutboundLink
-                          href={social.crunchbase}
-                          label={`${displayName} on Crunchbase`}
-                          className="inline-flex items-center gap-1.5 text-muted-foreground hover:text-foreground"
-                        >
-                          <ExternalLink className="h-4 w-4 shrink-0" aria-hidden="true" />
-                          Crunchbase
-                        </OutboundLink>
-                      )}
-                    </div>
+      <div className="flex min-w-0 flex-col min-h-screen">
+        <main className="min-w-0 flex-grow overflow-x-clip">
+          <article className="site-container min-w-0 py-8 sm:py-14">
+            <DetailPageHeader
+              breadcrumbs={[
+                { href: '/', label: 'Home' },
+                { href: '/companies', label: 'Companies' },
+              ]}
+              currentPageLabel={displayName}
+              icon={
+                <CompanyLogo logoSrc={logoSrc} faviconUrl={faviconUrl} name={displayName} size="h-full w-full" />
+              }
+              title={displayName}
+              metadata={
+                <>
+                  <span className="flex min-w-0 items-center gap-1.5">
+                    <Briefcase className="h-4 w-4 shrink-0" aria-hidden="true" />
+                    {company.jobCount} role{company.jobCount !== 1 ? 's' : ''}
+                  </span>
+                  {company.website && websiteHostname && (
+                    <OutboundLink
+                      href={company.website}
+                      label={`${displayName} website`}
+                      className="flex min-w-0 max-w-full items-center gap-1.5 hover:text-foreground"
+                    >
+                      <ExternalLink className="h-4 w-4 shrink-0" aria-hidden="true" />
+                      <span className="truncate">{websiteHostname}</span>
+                    </OutboundLink>
                   )}
-                </div>
-              </div>
-              {company.description && (
-                <p className="mt-6 w-full text-sm leading-relaxed text-muted-foreground">
-                  {company.description}
-                </p>
-              )}
-            </header>
+                  {social?.linkedin && (
+                    <OutboundLink
+                      href={social.linkedin}
+                      label={`${displayName} on LinkedIn`}
+                      className="inline-flex items-center gap-1.5 hover:text-foreground"
+                    >
+                      <Linkedin className="h-4 w-4 shrink-0" aria-hidden="true" />
+                      LinkedIn
+                    </OutboundLink>
+                  )}
+                  {social?.twitter && (
+                    <OutboundLink
+                      href={social.twitter}
+                      label={`${displayName} on X`}
+                      className="inline-flex items-center gap-1.5 hover:text-foreground"
+                    >
+                      <XBrandIcon className="h-4 w-4 shrink-0" />
+                      X
+                    </OutboundLink>
+                  )}
+                  {social?.crunchbase && (
+                    <OutboundLink
+                      href={social.crunchbase}
+                      label={`${displayName} on Crunchbase`}
+                      className="inline-flex items-center gap-1.5 hover:text-foreground"
+                    >
+                      <ExternalLink className="h-4 w-4 shrink-0" aria-hidden="true" />
+                      Crunchbase
+                    </OutboundLink>
+                  )}
+                </>
+              }
+              footer={
+                company.description ? (
+                  <p className="text-sm leading-relaxed text-muted-foreground break-words [overflow-wrap:anywhere]">
+                    {company.description}
+                  </p>
+                ) : undefined
+              }
+            />
 
-            <section className="mt-10">
-              <h2 className="text-lg font-bold tracking-tight mb-4">Open roles</h2>
+            <section className="mt-8 min-w-0 sm:mt-10">
+              <h2 className="mb-4 text-lg font-bold tracking-tight">Open roles</h2>
               {company.jobs.length > 0 ? (
-                <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+                <div className="grid min-w-0 grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-3 [&>*]:min-w-0">
                   {company.jobs.map((job) => (
                     <JobCard key={getJobSlug(job)} job={job} logoUrl={logoSrc} faviconUrl={faviconUrl} />
                   ))}
                 </div>
               ) : (
-                <div className="rounded-xl border bg-card/50 p-8 text-center sm:p-12">
-                  <div className="mx-auto flex h-12 w-12 items-center justify-center rounded-full bg-muted text-muted-foreground mb-4">
+                <div className="rounded-xl border bg-card/50 p-6 text-center sm:p-12">
+                  <div className="mx-auto mb-4 flex h-12 w-12 items-center justify-center rounded-full bg-muted text-muted-foreground">
                     <Briefcase className="h-6 w-6" aria-hidden="true" />
                   </div>
                   <h3 className="text-base font-semibold text-foreground">No open roles currently listed</h3>
-                  <p className="mt-2 text-sm text-muted-foreground max-w-md mx-auto">
+                  <p className="mx-auto mt-2 max-w-md text-sm text-muted-foreground">
                     {displayName} has no active job postings on Hashtag Web3 at this time. Check back soon or explore open roles across other top Web3 companies.
                   </p>
                   <div className="mt-6">
                     <Link
                       href="/jobs"
-                      className="inline-flex items-center justify-center rounded-lg bg-primary px-4 py-2 text-sm font-medium text-primary-foreground hover:bg-primary/90 transition-colors"
+                      className="inline-flex min-h-11 items-center justify-center rounded-lg bg-primary px-4 py-2 text-sm font-medium text-primary-foreground transition-colors hover:bg-primary/90"
                     >
                       Browse All Web3 Jobs
                     </Link>

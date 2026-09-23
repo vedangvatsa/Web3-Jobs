@@ -15,10 +15,10 @@ export function CompanyCard({
   faviconUrl?: string | null;
 }) {
   return (
-    <Link href={`/${company.slug}`} className="block h-full">
-      <Card className="flex h-full flex-col border-border/70 bg-card shadow-none hover:border-foreground/25 transition-colors">
-        <CardHeader className="pb-3 pt-4 px-4">
-          <div className="flex items-center gap-3">
+    <Link href={`/${company.slug}`} className="block h-full min-w-0">
+      <Card className="flex h-full min-w-0 flex-col border-border/70 bg-card shadow-none hover:border-foreground/25 transition-colors">
+        <CardHeader className="px-4 pb-3 pt-4 min-w-0">
+          <div className="flex min-w-0 items-center gap-3">
             <div className="h-10 w-10 shrink-0 flex items-center justify-center bg-transparent overflow-hidden">
               <CompanyLogo logoSrc={logoUrl ?? null} faviconUrl={faviconUrl ?? null} name={company.name} size="max-h-full max-w-full object-contain" />
             </div>
