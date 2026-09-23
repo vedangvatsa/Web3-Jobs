@@ -147,6 +147,9 @@ jobs:
   deploy:
     needs: [gate, ingest, publish-news]
     if: ${{ always() && needs.gate.outputs.skip != 'true' && needs.gate.outputs.morning == 'true' && needs.ingest.result == 'success' && needs.publish-news.result != 'cancelled' }}
+    permissions:
+      contents: read
+      id-token: write
     uses: ./.github/workflows/fah-fix-and-deploy.yml
     secrets: inherit
 
