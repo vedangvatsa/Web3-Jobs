@@ -23,6 +23,7 @@ import {
   writeJobDescriptionStore,
 } from './lib/job-description-store';
 import { cleanJobLocation } from '../src/lib/job-location';
+import { extractSalaryLabelFromContent } from '../src/lib/job-salary';
 import { enrichMultiOfficeLocations } from './lib/enrich-multi-office-locations';
 
 interface GetroBoard {
@@ -629,6 +630,7 @@ async function refreshJobsCache() {
         if (dept === 'Do Not Post') continue;
 
         if (link && title && title.length <= 180 && !title.toLowerCase().includes('bounty') && isConcreteOpening(title)) {
+          const salary = job.content ? extractSalaryLabelFromContent(job.content) : undefined;
           const candidate: CachedJob = {
               id: String(job.id),
               title,
@@ -639,6 +641,7 @@ async function refreshJobsCache() {
               location: job.location?.name,
               department: job.departments?.[0]?.name || dept,
               active: true,
+              ...(salary ? { salary } : {}),
             };
           if (upsertJob(candidate)) added++;
           rememberDescription(candidate, job.content);
@@ -2056,6 +2059,7 @@ async function refreshJobsCache() {
     'fuse energy',     // Energy company, not web3
     'ashby',           // ATS software, not web3 (leaks through VC feeds)
     '4dlabs',
+    'torque',
   ]);
 
   const BLOCKED_TITLE_KEYWORDS = [

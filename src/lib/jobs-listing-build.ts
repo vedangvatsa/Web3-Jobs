@@ -8,7 +8,7 @@ const BLOCKED_COMPANIES = new Set([
   'notion', 'ashby', 'merge', 'salt ai', 'workable',
   'button', 'breeze', 'citadel securities', 'zipline',
   'greenhouse', 'lever', 'greenhouse io', 'ad-shield', 'adshield', 'vivident', 'hyperithm',
-  '4dlabs',
+  '4dlabs', 'torque',
 ]);
 
 const BLOCKED_JOB_TITLE = /\b(technician|driver|maid|cleaner|janitor|custodian|housekeeper|warehouse|forklift|security guard|receptionist|plumber|electrician|mechanic|repair|hvac|data centre mechanical|data center mechanical|maintenance|assembly technician|quality technician|field service technician)\b/i;

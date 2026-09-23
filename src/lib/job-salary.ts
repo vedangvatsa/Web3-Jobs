@@ -149,15 +149,37 @@ function getLocationFactor(location?: string): number {
   return 1.0;
 }
 
+function decodeHtmlEntities(text: string): string {
+  return text
+    .replace(/&mdash;|&#8212;/gi, '—')
+    .replace(/&ndash;|&#8211;/gi, '–')
+    .replace(/&amp;/gi, '&')
+    .replace(/&lt;/gi, '<')
+    .replace(/&gt;/gi, '>')
+    .replace(/&#39;/gi, "'")
+    .replace(/&quot;/gi, '"');
+}
+
+function payTransparencySection(html: string): string | null {
+  if (!/content-pay-transparency|pay-range|pay-input/i.test(html)) return null;
+  const idx = html.search(/content-pay-transparency|class=["']pay-range["']/i);
+  if (idx < 0) return html;
+  return html.slice(idx, idx + 2500);
+}
+
 function parseExplicitSalary(text: string, trustedSalaryField = false): JobBaseSalarySchema | null {
   if (!text) return null;
+
+  const normalized = decodeHtmlEntities(text).replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ');
 
   // Supports currency symbols and ISO 4217 codes, e.g. $100k - $110k,
   // INR 15,00,000 - INR 25,00,000, or BRL 10.000 - BRL 15.000.
   const amount = '\\d+(?:[,\\s]\\d{2,3})*(?:\\.\\d+)?[kK]?';
   const currencyToken = '[$€£₹¥]|[A-Z]{3}';
-  const rangeRegex = new RegExp(`(?:(${currencyToken})\\s*)(${amount})\\s*(?:-|–|—|to)\\s*(?:(${currencyToken})\\s*)?(${amount})`);
-  const m = text.match(rangeRegex);
+  const rangeRegex = new RegExp(
+    `(?:(${currencyToken})\\s*)(${amount})\\s*(?:-|–|—|to)\\s*(?:(${currencyToken})\\s*)?(${amount})(?:\\s*(?:USD|[A-Z]{3}))?`,
+  );
+  const m = normalized.match(rangeRegex);
 
   if (!m) return null;
 
@@ -181,9 +203,13 @@ function parseExplicitSalary(text: string, trustedSalaryField = false): JobBaseS
   if (!min || !max || Number.isNaN(min) || Number.isNaN(max)) return null;
   if (min > max) [min, max] = [max, min];
 
-  const matchIdx = text.indexOf(m[0]);
-  const contextSnippet = text.slice(Math.max(0, matchIdx - 30), Math.min(text.length, matchIdx + m[0].length + 40)).toLowerCase();
-  if (!trustedSalaryField && !/\b(?:salary|compensation|pay|wage|base|annual|year|month|hour|per)\b/.test(contextSnippet)) return null;
+  const matchIdx = normalized.indexOf(m[0]);
+  const contextSnippet = normalized.slice(Math.max(0, matchIdx - 220), Math.min(normalized.length, matchIdx + m[0].length + 80)).toLowerCase();
+  const wideBefore = normalized.slice(Math.max(0, matchIdx - 500), matchIdx).toLowerCase();
+  const hasCompContext =
+    /\b(?:salary|compensation|pay|wage|base pay|annual|pay range|pay transparency)\b/.test(contextSnippet)
+    || (/\b(?:salary|compensation)\b/.test(wideBefore) && /\brange\b/.test(contextSnippet + wideBefore.slice(-120)));
+  if (!trustedSalaryField && !hasCompContext) return null;
 
   let unitText: 'HOUR' | 'MONTH' | 'YEAR' = 'YEAR';
   if (/(?:\/|per\s*)(?:hr|hour)\b/i.test(contextSnippet) || (max <= 500 && currency !== 'INR')) {
@@ -264,8 +290,15 @@ export function formatSalaryDisplay(salary: JobBaseSalarySchema, isEstimated: bo
  * and human-friendly display text for any Web3 job.
  */
 export function getJobSalaryInfo(job: Job, contentHtml?: string): JobSalaryInfo {
+  const paySection = contentHtml ? payTransparencySection(contentHtml) : null;
+  const paySectionText = paySection
+    ? decodeHtmlEntities(paySection).replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ')
+    : '';
   const fullText = `${job.description || ''} ${contentHtml || ''}`;
-  const explicit = parseExplicitSalary(job.salary || '', Boolean(job.salary)) || parseExplicitSalary(fullText);
+  const explicit =
+    parseExplicitSalary(job.salary || '', Boolean(job.salary))
+    || (paySectionText ? parseExplicitSalary(paySectionText, true) : null)
+    || parseExplicitSalary(fullText);
 
   if (explicit) {
     return {
@@ -301,4 +334,11 @@ export function getJobSalaryInfo(job: Job, contentHtml?: string): JobSalaryInfo 
     display: '',
     isEstimated: true,
   };
+}
+
+/** Parse a display-ready salary string from posting HTML (Greenhouse pay transparency, etc.). */
+export function extractSalaryLabelFromContent(contentHtml: string | undefined): string | undefined {
+  if (!contentHtml) return undefined;
+  const info = getJobSalaryInfo({ title: '', company: '' } as Job, contentHtml);
+  return info.isEstimated ? undefined : info.display;
 }

@@ -17,6 +17,7 @@ const BLOCKED_COMPANIES = new Set([
   'button', 'breeze', 'citadel securities', 'zipline',
   'greenhouse', 'lever', 'greenhouse io',
   '4dlabs',
+  'torque',
 ]);
 
 function cleanText(text) { return (text || '').replace(/[\u200B-\u200D\uFEFF]/g, '').trim(); }

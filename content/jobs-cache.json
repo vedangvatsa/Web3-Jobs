@@ -1867,19 +1867,6 @@
     "slug": "mgr56"
   },
   {
-    "id": "edd78405-fe43-436b-825c-4deaac1f8023",
-    "title": "UI/UX Designer",
-    "company": "Torque",
-    "link": "https://talent.superteam.fun/jobs/ui-ux-designer-at-torque-edd78405-fe43-436b-825c-4deaac1f8023",
-    "date": "2026-09-21T13:46:19.811798+00:00",
-    "source": "Superteam: Torque [superteam]",
-    "location": "Remote · North America, Europe",
-    "department": "Full-Time",
-    "active": true,
-    "dateVerified": true,
-    "slug": "fe6"
-  },
-  {
     "id": "8128687",
     "title": "Product Manager, Invest / Trade",
     "company": "Gemini",
@@ -3738,7 +3725,8 @@
     "location": "UNITED STATES - Remote, EMEA - Remote, CANADA - Remote, LATAM - Remote",
     "department": "MetaMask",
     "active": true,
-    "slug": "pm50"
+    "slug": "pm50",
+    "salary": "$125k – $195k/yr"
   },
   {
     "id": "8181032",
