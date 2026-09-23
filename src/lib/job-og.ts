@@ -45,16 +45,14 @@ export function buildJobOgImageUrl(
   return `${siteUrl}/og-image-jobs.png`;
 }
 
-/** Square Instagram asset: same job card letterboxed (`public/og/jobs/{slug}-ig.png`). */
+/** Instagram uses the standard landscape job card (`public/og/jobs/{slug}.png`).
+ * 1200x630 is within Instagram's accepted landscape range, so no separate
+ * square asset is generated or required. */
 export function buildJobInstagramImageUrl(
   job: Pick<Job, 'title' | 'company' | 'location' | 'department' | 'slug'>,
   siteUrl = SITE_URL,
 ): string {
-  const slug = (job.slug || '').trim();
-  if (slug) {
-    return `${siteUrl}/og/jobs/${encodeURIComponent(slug)}-ig.png?v=${JOB_OG_VERSION}`;
-  }
-  return `${siteUrl}/og-image-jobs.png`;
+  return buildJobOgImageUrl(job, siteUrl);
 }
 
 /** Prefer the article hero; fall back to a static blog/news card. */

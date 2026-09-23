@@ -17,7 +17,7 @@
  *   Company is hiring role: https://hashtagweb3.com/<slug>/bsky   (for Bluesky)
  *   Company is hiring role: https://hashtagweb3.com/<slug>/li     (for LinkedIn via Buffer)
  *   Company is hiring role: https://hashtagweb3.com/<slug>/fb     (for Facebook Page via Meta Graph API)
- *   (Square OG image generated for Instagram feed)
+  *   (Standard landscape OG image reused for Instagram feed)
  *
  * Features:
  *   - Automatically cycles through active, high-quality jobs
@@ -1496,7 +1496,7 @@ async function main() {
     console.warn(`Warning: OG Image check encountered error:`, (err as Error).message);
   }
 
-  // Warm landscape OG + square Instagram PNGs so Meta's fetchers hit hot CDN assets.
+  // Warm the OG image so Meta's fetchers hit a hot CDN asset (IG reuses the same URL).
   for (const warmUrl of [ogImageUrl, igImageUrl]) {
     try {
       const warmRes = await fetch(warmUrl);
