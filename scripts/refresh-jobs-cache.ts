@@ -165,6 +165,10 @@ const COMPANY_ALIASES: Record<string, string> = {
   'startale': 'Startale Group',
   'startale group': 'Startale Group',
   'mural pay': 'Mural',
+  'cumberland': 'DRW',
+  'hedera hashgraph': 'Hedera',
+  'stellar development foundation': 'Stellar',
+  'brevan howard asset management': 'Brevan Howard',
 };
 
 function normalizeCompany(company: string): string {
@@ -542,8 +546,10 @@ async function refreshJobsCache() {
     { board: 'nansen', company: 'Nansen' },
     { board: 'nearfoundation', company: 'NEAR' },
     { board: 'digitalcurrencygroup', company: 'DCG' },
-    { board: 'hashgraph', company: 'Hedera' },
     { board: 'jumpcrypto', company: 'Jump Crypto' },
+    { board: 'panteracapitalcareers', company: 'Pantera Capital' },
+    { board: 'hiro', company: 'Hiro' },
+    { board: 'turnkeycareers', company: 'Turnkey' },
     { board: 'zetachain', company: 'ZetaChain' },
     // --- Crypto exchanges ---
     { board: 'okx', company: 'OKX' },
@@ -587,6 +593,7 @@ async function refreshJobsCache() {
     { board: 'magic', company: 'Magic' },
     { board: 'helium', company: 'Helium' },
     { board: 'janestreet', company: 'Jane Street' },
+    { board: 'drweng', company: 'DRW' },
     // --- Regional Exchanges & Protocols ---
     { board: 'coinme', company: 'Coinme' },
     { board: 'plume', company: 'Plume Network' },
@@ -687,7 +694,8 @@ async function refreshJobsCache() {
     { board: 'coingecko', company: 'CoinGecko' },
     { board: 'coinmarketcap', company: 'CoinMarketCap' },
     { board: 'gauntlet', company: 'Gauntlet' },
-    { board: 'jito', company: 'Jito' },
+    { board: 'jito', company: 'Jito Labs' },
+    { board: 'jito.wtf', company: 'Jito Labs' },
     // --- Apr 2026 expansion ---
     { board: 'centrifuge', company: 'Centrifuge' },
     // --- Apr 2026 expansion (wave 2) ---
@@ -778,7 +786,7 @@ async function refreshJobsCache() {
     { board: 'fleek', company: 'Fleek' },
     { board: 'lens', company: 'Lens Protocol' },
     { board: 'delphi', company: 'Delphi Digital' },
-    { board: 'turnkey', company: 'Turnkey' },
+    { board: 'paxoslabs', company: 'Paxos' },
     { board: 'parity', company: 'Parity Technologies' },
     { board: 'dune', company: 'Dune' },
     { board: 'nethermind', company: 'Nethermind' },
@@ -930,6 +938,15 @@ async function refreshJobsCache() {
     { board: 'matter-labs', company: 'Matter Labs' },
     { board: 'Aspora', company: 'Aspora' },
     { board: 'Augustus', company: 'Augustus' },
+    { board: 'wormholelabs', company: 'Wormhole Labs' },
+    { board: 'ava-labs', company: 'Ava Labs' },
+    { board: 'moonshot', company: 'Moonshot' },
+    { board: 'jito-labs', company: 'Jito Labs' },
+    { board: 'hashgraph', company: 'Hedera' },
+    { board: 'dourolabs.xyz', company: 'Douro Labs' },
+    { board: 'zodl', company: 'ZODL' },
+    { board: 'fence-finance', company: 'Fence Finance' },
+    { board: 'halliday', company: 'Halliday' },
   ];
 
   for (const ab of ASHBY_BOARDS) {
@@ -1703,6 +1720,7 @@ async function refreshJobsCache() {
   const RIPPLING_BOARDS = [
     { board: 'riot-platforms-careers', company: 'Riot Platforms' },
     { board: 'the-block', company: 'The Block' },
+    { board: 'plume-network', company: 'Plume Network' },
   ];
 
   for (const rp of RIPPLING_BOARDS) {
@@ -1790,7 +1808,14 @@ async function refreshJobsCache() {
       tenant: 'bullish',
       site: 'Bullish',
       baseUrl: 'https://bullish.wd3.myworkdayjobs.com/Bullish',
-    }
+    },
+    {
+      company: 'Brevan Howard',
+      domain: 'brevanhoward.wd3.myworkdayjobs.com',
+      tenant: 'brevanhoward',
+      site: 'BH_ExternalCareers',
+      baseUrl: 'https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers',
+    },
   ];
 
   for (const wd of WORKDAY_CXS_BOARDS) {

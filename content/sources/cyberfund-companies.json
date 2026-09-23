@@ -1,0 +1,2036 @@
+[
+ {
+  "slug": "1inch-2",
+  "name": "1Inch",
+  "description": "1inch is an exchange aggregator that scans decentralized exchanges to find the lowest cryptocurrency prices for traders and is powered by its 1INCH utility and governance token.",
+  "website": "http://1inch.com",
+  "domain": "1inch.com",
+  "founded": "2018",
+  "employees": 169,
+  "stage": "series_b",
+  "org_type": "private",
+  "biz_models": [
+   "B2C",
+   "B2B",
+   "Marketplace"
+  ],
+  "industry_tags": [
+   "Blockchain",
+   "Cryptocurrency",
+   "Fintech"
+  ],
+  "locations": [],
+  "topics": [
+   "DeFi"
+  ],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/1inchnetwork",
+    "https://www.linkedin.com/company/65619437",
+    "https://www.linkedin.com/company/1inch"
+   ],
+   "twitter": [
+    "https://twitter.com/1inch"
+   ],
+   "facebook": [
+    "https://facebook.com/1inchnetwork"
+   ],
+   "crunchbase": [
+    "https://www.crunchbase.com/organization/1inch-customer-service"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/5ac7c0a3-f928-4834-8bb4-1d641473505e-1762431354",
+  "active_jobs": 2,
+  "ats_job_links": [
+   "https://jobs.lever.co/1inch/c0f5bff7-fd8b-40d9-9f6d-5caeda1b63b2",
+   "https://jobs.lever.co/1inch/7bf88a06-2c35-4373-91c3-78fb4bb22bb7"
+  ]
+ },
+ {
+  "slug": "3box-labs-2",
+  "name": "3Box Labs",
+  "description": "3Box storage is simple, secure, and private by design. Apps that store data with users on 3Box are lighter, more trustworthy, and enjoy reduced data management liability.",
+  "website": "http://3boxlabs.com",
+  "domain": "3boxlabs.com",
+  "founded": "2018",
+  "employees": 18,
+  "stage": "series_a",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Messaging",
+   "Software",
+   "Software Development",
+   "Web Development"
+  ],
+  "locations": [
+   "New York, NY, USA",
+   "Union Square, New York, NY, USA"
+  ],
+  "topics": [
+   "Infra"
+  ],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/3boxlabs",
+    "https://www.linkedin.com/company/3box",
+    "https://www.linkedin.com/company/12666179"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/3box",
+    "https://www.crunchbase.com/organization/3box#section-overview"
+   ],
+   "twitter": [
+    "https://twitter.com/3boxlabs"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/94e125f1-53cf-4d0d-8f2f-85ec1e6e76e0-1769391768",
+  "active_jobs": 3,
+  "ats_job_links": [
+   "https://web3.career/business-operations-lead-3box/70706",
+   "https://web3.career/product-lead-ceramic-3box/69328",
+   "https://web3.career/head-of-growth-3box/60483"
+  ]
+ },
+ {
+  "slug": "nil-foundation-2",
+  "name": "=nil; Foundation",
+  "description": "Nil Foundation facilitates and supports research in Database Management Systems and Applied Cryptography.",
+  "website": "http://nil.foundation",
+  "domain": "nil.foundation",
+  "founded": "2018",
+  "employees": 48,
+  "stage": "series_unknown",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Consulting",
+   "Cryptocurrency",
+   "Information Technology",
+   "IT Services and IT Consulting"
+  ],
+  "locations": [
+   "Bodden Town, Cayman Islands",
+   "Limassol, Cyprus",
+   "Remote"
+  ],
+  "topics": [
+   "Chains",
+   "Infra",
+   "Scaling"
+  ],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/nil-foundation",
+    "https://www.linkedin.com/company/31429685"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/nil-foundation"
+   ],
+   "twitter": [
+    "https://twitter.com/nil_foundation"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/69d85110-5ebd-4eec-84ba-635b63d7494d-1765849156",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "agoric",
+  "name": "Agoric",
+  "description": "Agoric is a framework that provides security and ease in programming smart contracts, beyond anything available today. Agoric\u2019s mission is to provide a secure smart contracts framework to the entire blockchain ecosystem. With Agoric, which makes it easier to build and deploy smart contracts in JavaScript, millions of programmers worldwide will have safer, simpler tools to build smart contracts and applications. In addition, composability enables rapid development and competitive advantage. With secure smart contracts, we envision unprecedented, widespread forms of global cooperation, and entrepreneurs creating fundamentally new businesses enabled by digital assets. Agoric is here to make that opportunity a reality.\n\nThe Agoric team includes world-class technologists, economists, business leaders, and community builders on a quest to bring smart contracts into the future. Members of the Agoric team have been professional collaborators in smart contracts technology for over 30 years and have now reunited to enact this mission. Agoric has collaborated with COSMOS and other well-known projects and is backed by Outlier Ventures, Kilowatt Capital, Gumi Cryptos Capital, MetaStable Capital, Lemniscap, Xpring, Rockaway Blockchain, and the Interchain Foundation, as well as additional funding from Naval Ravikant and Polychain.",
+  "website": "http://agoric.com",
+  "domain": "agoric.com",
+  "founded": "2018",
+  "employees": 33,
+  "stage": "ico",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Blockchain",
+   "Cryptocurrency",
+   "Decentralized Finance (DeFi)",
+   "Developer Platform",
+   "E-Commerce Platforms",
+   "Smart Contracts",
+   "Software",
+   "Software Development"
+  ],
+  "locations": [
+   "Orinda, CA, USA",
+   "San Francisco, CA, USA"
+  ],
+  "topics": [
+   "Infra"
+  ],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/agoric",
+    "https://www.linkedin.com/company/18644555"
+   ],
+   "twitter": [
+    "https://twitter.com/agoric"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/agoric"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/81581526-a33f-4cf6-a2b4-71c033248f9e-1761385364",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "anoma",
+  "name": "Anoma",
+  "description": "Anoma is an intent-centric, privacy-preserving protocol for decentralized counterparty discovery, solving, and multi-chain atomic settlement.\n\nAnoma researches, builds, and develops advanced cryptography and zero-knowledge proof schemes empowering a user-controlled future.\n\nAnoma was established in 2021 in Zug, Switzerland.",
+  "website": "http://anoma.net",
+  "domain": "anoma.net",
+  "founded": "2021",
+  "employees": 7,
+  "stage": "series_c",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Blockchain",
+   "Information Technology",
+   "IT Services and IT Consulting",
+   "Open Source"
+  ],
+  "locations": [
+   "Canton of Zug, Switzerland",
+   "Switzerland",
+   "Zug, Switzerland"
+  ],
+  "topics": [
+   "Chains"
+  ],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/anoma-network",
+    "https://www.linkedin.com/company/71215894"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/anoma"
+   ],
+   "twitter": [
+    "https://twitter.com/anoma"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/351eddca-bc12-4268-8c2a-b2c1c1a686d3-1763516384",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "architect-2-4c00dbc9-6846-4793-94ff-c2c1fc612b56",
+  "name": "Architect",
+  "description": "Architect gives traders customizable infrastructure that reimagines access to international markets for digital assets. Building institutional-grade infrastructure to link different crypto venues across centralized and decentralized exchanges is one of the project's goals.",
+  "website": "http://architect.co",
+  "domain": "architect.co",
+  "founded": "2023",
+  "employees": 98,
+  "stage": "other",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Blockchain",
+   "Cryptocurrency",
+   "Digital Marketing",
+   "Financial Services",
+   "FinTech",
+   "Software",
+   "Trading Platform"
+  ],
+  "locations": [
+   "Chicago, IL, USA",
+   "New York, NY, USA"
+  ],
+  "topics": [
+   "Infra"
+  ],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/architect-xyz",
+    "https://www.linkedin.com/company/90410384"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/architect"
+   ],
+   "twitter": [
+    "https://twitter.com/architect_xyz"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/006a04b5-7a63-4587-b44b-69723f10bb68-1762652058",
+  "active_jobs": 2,
+  "ats_job_links": [
+   "https://architect.co/careers#27mp93tz9eo3s9sguhodr6yrh&:~:text=Staff%20Software%20Engineer",
+   "https://jobs.architect.exchange#27mp93tz9eo3s9sguhodr6yrh&:~:text=Staff%20Software%20Engineer"
+  ]
+ },
+ {
+  "slug": "backed-finance",
+  "name": "Backed Finance",
+  "description": "Backed Finance creates tokenized stocks on Ethereum with the goal of democratizing access to and fairness within the capital markets. The company's platform enables users to access tokenized stocks without compromising on compliance and functionality while bridging the gap between traditional and new and open financial systems by providing infrastructure for capital markets on-chain through fully backed, tokenized stocks on Ethereum.",
+  "website": "http://backed.fi",
+  "domain": "backed.fi",
+  "founded": "2021",
+  "employees": 9,
+  "stage": "acquisition",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Blockchain",
+   "Cryptocurrency",
+   "Finance",
+   "Financial Services",
+   "Fintech"
+  ],
+  "locations": [
+   "Canton of Zug, Switzerland",
+   "Zug, Switzerland",
+   "Z\u00fcrich, Switzerland"
+  ],
+  "topics": [
+   "DeFi"
+  ],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/backed-finance",
+    "https://www.linkedin.com/company/72766964"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/backed-finance"
+   ],
+   "twitter": [
+    "https://twitter.com/backedfi"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/a543d497-fba6-4a95-8084-d4a16e4cbd2f-1761442838",
+  "active_jobs": 1,
+  "ats_job_links": [
+   "https://backed.fi/careers/defi-community-and-growth-lead"
+  ]
+ },
+ {
+  "slug": "celestia-labs-2",
+  "name": "Celestia Labs",
+  "description": "Celestia is a modular blockchain network provider that deploys a decentralized blockchain without the overhead of bootstrapping a new consensus network. Its platform offers a scalable general-purpose data availability layer for decentralized applications and trust-minimized sidechains, allowing application builders to optimize efficient data storage and collectively store block data.\n\nThe company was founded in 2019 and is based in Vaduz, Liechtenstein.",
+  "website": "http://celestia.org",
+  "domain": "celestia.org",
+  "founded": "2019",
+  "employees": 50,
+  "stage": "series_b",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Blockchain",
+   "Cryptocurrency",
+   "Information Technology"
+  ],
+  "locations": [
+   "9490 Vaduz, Liechtenstein"
+  ],
+  "topics": [
+   "Chains"
+  ],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/celestiaorg"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/lazyledger"
+   ],
+   "twitter": [
+    "https://twitter.com/celestiaorg"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/0e7eeeb7-23d8-485d-9bbc-4c0b9fc423cb-1760260826",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "chainbound-2",
+  "name": "Chainbound",
+  "description": "Chainbound is a research and development organization building optimized infrastructure and networking tools for Blockchains.",
+  "website": "http://www.chainbound.io",
+  "domain": "www.chainbound.io",
+  "founded": "2023",
+  "employees": 8,
+  "stage": "seed",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Blockchain",
+   "Cryptocurrency",
+   "Enterprise Software",
+   "SaaS",
+   "Software"
+  ],
+  "locations": [
+   "New York, NY, USA",
+   "Union Square, New York, NY, USA",
+   "United States"
+  ],
+  "topics": [
+   "Infra"
+  ],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/chainbound"
+   ],
+   "twitter": [
+    "https://twitter.com/chainbound_"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/chainbound"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/a6eae116-b579-4002-940e-b606cd2f44b5-1760405799",
+  "active_jobs": 2,
+  "ats_job_links": [
+   "https://talent.cyber.fund/companies/chainbound-2/jobs/25486740-business-development-associate",
+   "https://talent.cyber.fund/companies/chainbound-2/jobs/25486739-blockchain-engineer-researcher"
+  ]
+ },
+ {
+  "slug": "cow-dao",
+  "name": "CoW DAO",
+  "description": "Developer of a decentralized finance platform designed to leverage batch auctions to find prices. The company's platform offers the optimal price across aggregators or Automated Market Makers depending on the liquid venue within a batch, enabling traders to cut out the middleman and save money.",
+  "website": "http://cow.fi",
+  "domain": "cow.fi",
+  "founded": "2022",
+  "employees": 26,
+  "stage": "ipo",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [],
+  "locations": [
+   "Lisbon, Portugal"
+  ],
+  "topics": [
+   "DeFi"
+  ],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/cow-protocol",
+    "https://www.linkedin.com/company/84843706",
+    "https://www.linkedin.com/company/cowdao"
+   ],
+   "twitter": [
+    "https://twitter.com/MEVprotection"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/695115fc-c7d2-4ec4-bf65-b81b6ef40d4f-1766713068",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "cyber-fund-2",
+  "name": "cyber\u2022Fund",
+  "description": "Cyber\u2022Fund is dedicated to partnering with founders from genesis to growth stage and beyond. Our mission is to accelerate the transition to an open cybernetic economy by backing entrepreneurs innovating at the intersection of Blockchain, Artificial Intelligence, Robotics, and adjacent technologies.\n\nSince 2014, we have worked with leading crypto teams and actively contributed to projects such as P2P.org, =nil; Foundation, and the Lido DAO. We assist with everything from operational and technological decisions to security and research questions, helping companies go from zero to one.\n\nTo learn more about Cyber\u2022Fund's history, see Introduction to Cyber\u2022Fund https://cyber.fund/content/introducing-cyber-fund",
+  "website": "http://cyber.fund",
+  "domain": "cyber.fund",
+  "founded": "2023",
+  "employees": 23,
+  "stage": "other",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Artificial Intelligence (AI)",
+   "Blockchain",
+   "Ethereum",
+   "Impact Investing",
+   "Robotics"
+  ],
+  "locations": [
+   "Bodden Town, Cayman Islands",
+   "Cayman Islands",
+   "George Town, Cayman Islands",
+   "Georgetown, Washington, DC, USA"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/cyberfund",
+    "https://www.linkedin.com/company/5006854"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/cyber-fund"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/53eaccd6-c4eb-4c42-abf5-77438c549ec2-1761702167",
+  "active_jobs": 2,
+  "ats_job_links": [
+   "https://talent.cyber.fund/companies/cyber-fund-2/jobs/57674170-ai-investment-principal",
+   "https://jobs.ashbyhq.com/cyber.Fund/8f6e04e4-162f-4571-a661-7851810103ea"
+  ]
+ },
+ {
+  "slug": "delv-2-aa13d928-feb7-41f0-bcc0-b7568dd0b5d9",
+  "name": "DELV",
+  "description": "Our mission is to advance the safe adoption of decentralized financial systems by building novel, research-backed, and open-source infrastructure.",
+  "website": "http://delv.tech",
+  "domain": "delv.tech",
+  "founded": "2020",
+  "employees": 18,
+  "stage": "series_a",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Blockchain",
+   "Decentralized Finance (DeFi)",
+   "Finance",
+   "Financial Services",
+   "Internet"
+  ],
+  "locations": [
+   "Dallas, TX, USA",
+   "Fort Worth, TX, USA",
+   "North Richland Hills, TX, USA",
+   "Riverway Estates/Bruton Terrace, Dallas, TX, USA",
+   "Texas City, TX, USA"
+  ],
+  "topics": [
+   "DeFi"
+  ],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/delv-tech",
+    "https://www.linkedin.com/company/element-fi",
+    "https://www.linkedin.com/company/76447525"
+   ],
+   "twitter": [
+    "https://twitter.com/delv_tech"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/element-finance"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/1949b328-4974-40e1-9236-7a77f7e2a402-1769737629",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "drpc",
+  "name": "dRPC",
+  "description": "dRPC offers decentralized RPC infrastructure for connecting to 100+ blockchain networks, supporting developers and Web3 applications.",
+  "website": "http://drpc.org",
+  "domain": "drpc.org",
+  "founded": "2022",
+  "employees": 21,
+  "stage": "other",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Blockchain",
+   "Financial Services",
+   "Fintech"
+  ],
+  "locations": [
+   "Bodden Town, Cayman Islands",
+   "George Town, Cayman Islands",
+   "Limassol, Cyprus",
+   "Savannah, Cayman Islands"
+  ],
+  "topics": [
+   "Infra"
+  ],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/drpc-org",
+    "https://www.linkedin.com/company/88072675"
+   ],
+   "crunchbase": [
+    "https://www.crunchbase.com/organization/drpc"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/aaef619c-cb9b-456b-8a27-3007be328dd2-1760751799",
+  "active_jobs": 1,
+  "ats_job_links": [
+   "https://drpc.org/pdf/BizDev.pdf"
+  ]
+ },
+ {
+  "slug": "eigenlayer-2",
+  "name": "EigenLayer",
+  "description": "EigenLayer (also known as Layr Labs) is a company that specializes in blockchain infrastructure solutions. It offers a decentralized Ethereum restaking protocol that enables users to stake their Ethereum (ETH) to secure other crypto protocols. It also provides developers with access to the Ethereum staked capital base and decentralized validator set.",
+  "website": "http://eigenlayer.xyz",
+  "domain": "eigenlayer.xyz",
+  "founded": "2021",
+  "employees": 118,
+  "stage": "series_b",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [],
+  "locations": [
+   "Redmond, WA, USA",
+   "Seattle, WA, USA",
+   "University of Washington, Seattle, WA, USA"
+  ],
+  "topics": [
+   "Infra"
+  ],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/eigenl",
+    "https://www.linkedin.com/company/eigenlabsorg"
+   ],
+   "twitter": [
+    "https://twitter.com/eigenlayer"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/eigenlayer",
+    "https://www.crunchbase.com/organization/eigenlabs-7c6f"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/a0b0bf14-f48c-498d-8397-2832f2b853ac-1763516389",
+  "active_jobs": 1,
+  "ats_job_links": [
+   "https://jobs.ashbyhq.com/eigen-labs/2f08d719-09b3-493e-ae9e-f3eba2ade188"
+  ]
+ },
+ {
+  "slug": "ethereum-2-a1d2447a-84f8-47d0-9f52-0134e2e097e3",
+  "name": "Ethereum",
+  "description": "Ethereum is a platform and a programming language that makes it possible for any developer to build and publish next-generation distributed applications.\n\nEthereum can be used to codify, decentralize, secure, and trade just about anything: voting, domain names, financial exchanges, crowdfunding, company governance, contracts and agreements of most kind, intellectual property, and even smart property thanks to hardware integration.\n\nEthereum borrows the concept of decentralized consensus that makes Bitcoin so resilient, yet makes it trivial to build on its foundation.",
+  "website": "http://ethereum.org",
+  "domain": "ethereum.org",
+  "founded": "2014",
+  "employees": 827,
+  "stage": "seed",
+  "org_type": "private",
+  "biz_models": [
+   "B2B"
+  ],
+  "industry_tags": [
+   "Application Performance Management",
+   "Blockchain",
+   "Consumer Applications",
+   "Cryptocurrency",
+   "Decentralized Finance (DeFi)",
+   "Ethereum",
+   "Internet",
+   "Smart Contracts",
+   "Technology, Information and Internet",
+   "Transaction Processing",
+   "Virtual Currency"
+  ],
+  "locations": [
+   "Berlin, Germany",
+   "Bern, Switzerland",
+   "Blackwood NP12, UK",
+   "Canton of Zug, Switzerland",
+   "Cham, Switzerland",
+   "Mile End, London, UK",
+   "Zug, Switzerland"
+  ],
+  "topics": [
+   "Chains"
+  ],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/ethereum",
+    "https://www.linkedin.com/company/5091692"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/ethereum",
+    "https://www.crunchbase.com/organization/ethereum-8a03",
+    "https://www.crunchbase.com/organization/ethereum-6b39"
+   ],
+   "facebook": [
+    "https://facebook.com/ethereumproject"
+   ],
+   "twitter": [
+    "https://twitter.com/ethdotorg"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/964199a3-3792-458b-a0d4-4046ea97513f-1761644599",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "foam",
+  "name": "FOAM",
+  "description": "FOAM works on geospatial protocol and the resulting market implications on global infrastructures.\n\nThe FOAM protocol is currently under development by a decentralized team of blockchain developers, designers, architects, and urban planners. They are based out of the New Lab at the Brooklyn Navy Yard, an interdisciplinary workspace designed to support urban entrepreneurs leveraging advanced technologies.",
+  "website": "http://foam.space",
+  "domain": "foam.space",
+  "founded": "2015",
+  "employees": 8,
+  "stage": "private_equity",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Blockchain",
+   "Internet",
+   "Technology, Information and Internet",
+   "Wireless"
+  ],
+  "locations": [
+   "Brooklyn, NY, USA",
+   "East New York, Brooklyn, NY, USA",
+   "New York, NY, USA",
+   "Union Square, New York, NY, USA"
+  ],
+  "topics": [
+   "Other"
+  ],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/foam-corp",
+    "https://www.linkedin.com/company/10965775"
+   ],
+   "facebook": [
+    "https://facebook.com/foamprotocol"
+   ],
+   "twitter": [
+    "https://twitter.com/foamspace"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/foam"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/90338400-fa6a-4130-b772-70e0d913d764-1762220647",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "gearbox-protocol",
+  "name": "Gearbox Protocol",
+  "description": "Gearbox is a generalized leverage protocol. It has two sides to it: passive lenders who earn low-risk APY by lending single assets, and active farmers, firms, or even other protocols who borrow those assets to trade or farm with even x10 leverage.\n\nGearbox Protocol brings you composable leverage, allowing anyone to margin trade on Uniswap, leverage farm on Curve, leverage stake on Lido, and use 10X more capital on many other DeFi protocols you already love. Making decentralized leverage a reality thanks to Credit Account abstraction!\n\nGearbox Protocol uses Credit Account abstraction to bring together lending and prime brokerage in the same protocol. Lenders deposit assets to earn passive yield, while the composable leverage side users borrow these assets to create spot leverage positions, which can be used across DeFi. That could be margin trading on Uniswap, farming on Curve and Balancer, leverage staking on Lido and Rocketpool, and a lot more. All of that is made possible with Gearbox\u2019s innovative Credit Account abstraction, creating the base layer of DeFi leverage.",
+  "website": "http://gearbox.fi",
+  "domain": "gearbox.fi",
+  "founded": "2021",
+  "employees": 2,
+  "stage": "series_unknown",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Blockchain",
+   "Cryptocurrency",
+   "Information Technology",
+   "Web Apps"
+  ],
+  "locations": [
+   "Illescas, Toledo, Spain",
+   "Tortola, British Virgin Islands",
+   "T\u00f3rtola, Cuenca, Spain"
+  ],
+  "topics": [
+   "DeFi"
+  ],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/gearbox-protocol"
+   ],
+   "twitter": [
+    "https://x.com/GearboxProtocol"
+   ],
+   "crunchbase": [
+    "https://www.crunchbase.com/organization/gearbox-protocol"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/23823c00-14bb-4901-a32a-66bca6eecbf3-1761385406",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "immunefi-2",
+  "name": "Immunefi",
+  "description": "Immunefi is a bug bounty and security services platform that protects crypto projects from Web3 bugs. This platform facilitates network hosting, bug triaging, and program management in the blockchain. It also offers smart contract projects that help to review code, disclose vulnerabilities, secure projects against malicious exploits, and preserve against undetermined attacks.\n\nImmunefi was founded in 2020 and is headquartered in Singapore.",
+  "website": "http://immunefi.com",
+  "domain": "immunefi.com",
+  "founded": "2020",
+  "employees": 116,
+  "stage": "series_a",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Blockchain",
+   "Computer and Network Security",
+   "Consulting",
+   "Decentralized Finance (DeFi)",
+   "Network Security",
+   "Web Hosting",
+   "Web3"
+  ],
+  "locations": [
+   "Singapore"
+  ],
+  "topics": [
+   "Infra"
+  ],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/immunefi",
+    "https://www.linkedin.com/company/69714272"
+   ],
+   "facebook": [
+    "https://facebook.com/immunefi/"
+   ],
+   "twitter": [
+    "https://twitter.com/immunefi"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/immunefi"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/e1465c61-aca3-4d0f-ad20-da693c01ca42-1761615865",
+  "active_jobs": 1,
+  "ats_job_links": [
+   "https://boards.greenhouse.io/immunefi/jobs/5833616004"
+  ]
+ },
+ {
+  "slug": "instadapp",
+  "name": "Instadapp",
+  "description": "Instadapp is a DeFi middleware for users and developers to seamlessly manage multiple DeFi applications to maximize returns in various protocols in a fraction of the time. With Instadapp, developers can build use cases and monetize their models to earn money by serving their users with high reliability.",
+  "website": "http://instadapp.io",
+  "domain": "instadapp.io",
+  "founded": "2018",
+  "employees": 10,
+  "stage": "series_a",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Blockchain",
+   "Developer Platform",
+   "Fintech",
+   "Software",
+   "Software Development"
+  ],
+  "locations": [
+   "Lewes, DE, USA"
+  ],
+  "topics": [
+   "DeFi"
+  ],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/instadapp",
+    "https://www.linkedin.com/company/69691468"
+   ],
+   "twitter": [
+    "https://twitter.com/instadapp"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/instadapp"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/caf93d92-bd62-4c33-a236-2cbd84fc05d5-1760751732",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "lido-2",
+  "name": "Lido",
+  "description": "Lido middleware is open-source software that extends the functionality of the Ethereum network block validation. The middleware is deployed on the Ethereum blockchain and running in perpetuity. It is publicly accessible through multiple interfaces and channels.",
+  "website": "http://lido.fi",
+  "domain": "lido.fi",
+  "founded": "2020",
+  "employees": 47,
+  "stage": "series_unknown",
+  "org_type": "private",
+  "biz_models": [
+   "B2C",
+   "B2B",
+   "Marketplace"
+  ],
+  "industry_tags": [
+   "Blockchain",
+   "Cryptocurrency",
+   "Ethereum",
+   "Financial Services",
+   "Software"
+  ],
+  "locations": [
+   "George Town, Cayman Islands"
+  ],
+  "topics": [
+   "DeFi"
+  ],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/lidofi",
+    "https://www.linkedin.com/company/86632358"
+   ],
+   "twitter": [
+    "https://twitter.com/lidofinance"
+   ],
+   "crunchbase": [
+    "https://www.crunchbase.com/organization/lido-b607"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/ba6530e5-1e34-4768-905d-e3db90836b4b-1763516384",
+  "active_jobs": 1,
+  "ats_job_links": [
+   "https://lido.fi/opportunities/secops-engineer"
+  ]
+ },
+ {
+  "slug": "matter-labs",
+  "name": "Matter Labs",
+  "description": "Matter Labs develops scaling solutions for Ethereum to make blockchain transactions faster, cheaper, and more efficient. Its main technology is zkSync, a Layer-2 protocol that uses zero-knowledge rollups to process many transactions off-chain while maintaining Ethereum-level security. The company was founded in 2018 with its head office in Berlin, Germany.",
+  "website": "http://matter-labs.io",
+  "domain": "matter-labs.io",
+  "founded": "2018",
+  "employees": 92,
+  "stage": "ico",
+  "org_type": "private",
+  "biz_models": [
+   "B2B",
+   "Open Source"
+  ],
+  "industry_tags": [
+   "Blockchain",
+   "Ethereum",
+   "Internet",
+   "Software"
+  ],
+  "locations": [
+   "Berlin, Germany",
+   "George Town, Cayman Islands",
+   "Germany"
+  ],
+  "topics": [
+   "Scaling",
+   "Chains"
+  ],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/matterlabs",
+    "https://www.linkedin.com/company/77279407"
+   ],
+   "twitter": [
+    "https://twitter.com/the_matter_labs"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/matter-labs"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/5b51e614-0a20-46bb-84a9-4b18924cc257-1760578373",
+  "active_jobs": 5,
+  "ats_job_links": [
+   "https://jobs.ashbyhq.com/matter-labs/6fa4f013-5321-4f8d-88ff-9d89ac7b9d5b",
+   "https://jobs.ashbyhq.com/matter-labs/a7b55498-adf4-43d4-a1b6-0c97c8794d76",
+   "https://jobs.ashbyhq.com/matter-labs/363590d9-552e-455a-9663-124a2990a3ea",
+   "https://jobs.ashbyhq.com/matter-labs/161344b7-b086-483b-af0e-3c57f0b07c4b",
+   "https://jobs.ashbyhq.com/matter-labs/88bb1928-7417-4119-8933-a9caafd9b636"
+  ]
+ },
+ {
+  "slug": "mellow-2-da621d8e-1d99-48fc-9b48-a4cf47583158",
+  "name": "Mellow",
+  "description": "Mellow intends to simplify LRT creation and allow depositors to choose from a variety of risk profiles.",
+  "website": "http://mellow.finance",
+  "domain": "mellow.finance",
+  "founded": "2020",
+  "employees": 8,
+  "stage": "seed",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [],
+  "locations": [
+   "Newark, DE, USA",
+   "San Diego, CA, USA",
+   "Tortola, British Virgin Islands",
+   "Virgin, UT, USA"
+  ],
+  "topics": [
+   "DeFi"
+  ],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/mellow-protocol",
+    "https://www.linkedin.com/company/102198049"
+   ],
+   "twitter": [
+    "https://twitter.com/mellowprotocol"
+   ],
+   "crunchbase": [
+    "https://www.crunchbase.com/organization/mellow-45db"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/e8d82c61-58f6-45df-88bc-204700b41ef5-1764121144",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "metaplex-2",
+  "name": "Metaplex",
+  "description": "Metaplex provides core infrastructure for NFTs, including the core standard for NFTs on Solana (with $3.7bn+ GMV to date), the largest NFT minting platform (with $1bn+ GMV), and a no-code platform to easily launch NFT projects.",
+  "website": "http://metaplex.com",
+  "domain": "metaplex.com",
+  "founded": "2021",
+  "employees": 13,
+  "stage": "series_a",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Art",
+   "Blockchain",
+   "Cryptocurrency",
+   "Developer Tools",
+   "Digital Media",
+   "Information Technology",
+   "Internet",
+   "Media & Entertainment"
+  ],
+  "locations": [
+   "Bodden Town, Cayman Islands",
+   "Chicago, IL, USA",
+   "San Francisco, CA, USA",
+   "United States"
+  ],
+  "topics": [
+   "NFT"
+  ],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/metaplex-studios",
+    "https://www.linkedin.com/company/79819678"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/metaplex-studios"
+   ],
+   "twitter": [
+    "https://twitter.com/metaplex"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/d33574db-1548-443a-98bf-0cb5e9f52881-1762134257",
+  "active_jobs": 1,
+  "ats_job_links": [
+   "https://apply.workable.com/the-metaplex-foundation/j/033173E8A1"
+  ]
+ },
+ {
+  "slug": "metropolis-dao",
+  "name": "Metropolis DAO",
+  "description": "Metropolis is the on-chain permissions layer for DAOs.",
+  "website": "http://metropolis.space",
+  "domain": "metropolis.space",
+  "founded": "2020",
+  "employees": 1,
+  "stage": "other",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Information Technology",
+   "Software",
+   "Web Development"
+  ],
+  "locations": [
+   "Brooklyn, NY, USA",
+   "East New York, Brooklyn, NY, USA",
+   "New York, NY, USA"
+  ],
+  "topics": [
+   "Other"
+  ],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/metropods"
+   ],
+   "twitter": [
+    "https://twitter.com/0xmetropolis"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/metropolis-f02c"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/6a1d4d22-19f0-4dac-a83e-623025c951fa-1763429968",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "mixbytes",
+  "name": "MixBytes",
+  "description": "MixBytes is a team of experienced developers providing top-notch blockchain solutions, smart contract security audits, and tech advisory.",
+  "website": "http://mixbytes.io",
+  "domain": "mixbytes.io",
+  "founded": "2017",
+  "employees": 10,
+  "stage": "other",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Blockchain",
+   "IT Services and IT Consulting",
+   "Security",
+   "Smart Contracts"
+  ],
+  "locations": [
+   "George Town, Cayman Islands",
+   "Georgetown, KY, USA",
+   "Moscow, Russia"
+  ],
+  "topics": [
+   "Other"
+  ],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/mixbytes",
+    "https://www.linkedin.com/company/27146199"
+   ],
+   "facebook": [
+    "https://facebook.com/mixbyteslabs/"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/mixbytes"
+   ],
+   "twitter": [
+    "https://twitter.com/mixbytes"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/50ad11d1-7c39-425c-ab84-5d4ccf5e9f80-1763170571",
+  "active_jobs": 1,
+  "ats_job_links": [
+   "https://mixbytes.io/careers#popup:vacancy-blockchain-smart-contract-security-auditor"
+  ]
+ },
+ {
+  "slug": "neon-2-5f812441-8742-4c8b-a1ea-9177f41b69f0",
+  "name": "NEON",
+  "description": "Neon DAO is a for-profit DAO for the Metaverse.",
+  "website": "http://neondao.xyz",
+  "domain": "neondao.xyz",
+  "founded": "2021",
+  "employees": 89,
+  "stage": "series_unknown",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Ethereum",
+   "Metaverse"
+  ],
+  "locations": [
+   "Columbia Heights, Washington, DC, USA",
+   "Washington, DC, USA"
+  ],
+  "topics": [
+   "Other"
+  ],
+  "socials": {
+   "twitter": [
+    "https://twitter.com/neon_dao"
+   ],
+   "crunchbase": [
+    "https://www.crunchbase.com/organization/neon-dao"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/365354a6-1ff8-560d-8cb5-3e7bef58ed39",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "neon-evm-2",
+  "name": "Neon EVM",
+  "description": "Neon EVM is a software development company that offers Web3, decentralized networks, and applications.",
+  "website": "http://neonevm.org",
+  "domain": "neonevm.org",
+  "founded": "2021",
+  "employees": 13,
+  "stage": "seed",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Apps",
+   "Blockchain",
+   "Software Development",
+   "Web3"
+  ],
+  "locations": [],
+  "topics": [
+   "Infra"
+  ],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/neonevm",
+    "https://www.linkedin.com/company/97907358"
+   ],
+   "crunchbase": [
+    "https://www.crunchbase.com/organization/neon-evm"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/d66fedc8-e979-4660-9948-39488ae2e04e-1761442840",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "neutron-2",
+  "name": "Neutron",
+  "description": "Neutron is a smart-contracts blockchain platform that provides cross-chain applications that leverage bleeding-edge Interchain technology with minimal overhead for the Cosmos ecosystem.",
+  "website": "http://neutron.org",
+  "domain": "neutron.org",
+  "founded": "2023",
+  "employees": 8,
+  "stage": "seed",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Apps",
+   "Blockchain",
+   "Internet"
+  ],
+  "locations": [
+   "Delaware, OH, USA",
+   "George Town, Cayman Islands"
+  ],
+  "topics": [
+   "Chains"
+  ],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/neutron-foundation"
+   ],
+   "crunchbase": [
+    "https://www.crunchbase.com/organization/neutron-57ad"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/25879c52-5f48-474c-8481-87bffe37baa4-1763861970",
+  "active_jobs": 2,
+  "ats_job_links": [
+   "https://hadronlabs.teamtailor.com/jobs/6519768-open-application-community-marketing-design",
+   "https://hadronlabs.teamtailor.com/jobs/6378881-open-application"
+  ]
+ },
+ {
+  "slug": "nym-technologies-2",
+  "name": "Nym Technologies",
+  "description": "Nym is a technology company that develops decentralized tools to anonymize internet traffic and protect user metadata.",
+  "website": "http://nym.com",
+  "domain": "nym.com",
+  "founded": "2017",
+  "employees": 0,
+  "stage": "series_a",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Developer Tools",
+   "Information Technology",
+   "Software"
+  ],
+  "locations": [
+   "Neuch\u00e2tel, Switzerland"
+  ],
+  "topics": [
+   "Privacy"
+  ],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/nymproject"
+   ],
+   "twitter": [
+    "twitter.com/nymproject",
+    "https://twitter.com/nymproject"
+   ],
+   "crunchbase": [
+    "https://www.crunchbase.com/organization/nym-d4c3"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/d3809874-2dba-4f4b-ab4b-961539f20a18-1761644606",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "offchain-labs",
+  "name": "Offchain Labs",
+  "description": "Offchain Labs develops a solution for scaling Ethereum smart contracts.",
+  "website": "http://offchainlabs.com",
+  "domain": "offchainlabs.com",
+  "founded": "2018",
+  "employees": 114,
+  "stage": "series_b",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Blockchain",
+   "Ethereum",
+   "Network Security",
+   "Security",
+   "Smart Contracts",
+   "Software",
+   "Software Development",
+   "Web Development"
+  ],
+  "locations": [
+   "Canal Street, New York, NY, USA",
+   "New York, NY, USA",
+   "Princeton, NJ, USA"
+  ],
+  "topics": [
+   "Scaling",
+   "Chains"
+  ],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/offchain-labs-inc",
+    "https://www.linkedin.com/company/33460902"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/offchain-labs"
+   ],
+   "twitter": [
+    "https://twitter.com/offchainlabs"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/759680c8-444d-4124-8d36-4371d9d74992-1763516397",
+  "active_jobs": 28,
+  "ats_job_links": [
+   "https://www.linkedin.com/jobs/view/head-of-enterprise-at-offchain-4467172208",
+   "https://www.linkedin.com/jobs/view/senior-backend-engineer-zerodev-wallet-at-offchain-4437859183",
+   "https://www.linkedin.com/jobs/view/senior-penetration-tester-aws-at-offchain-4468220848",
+   "https://www.linkedin.com/jobs/view/site-reliability-engineer-at-offchain-4467231161",
+   "https://www.linkedin.com/jobs/view/sr-associate-corporate-development-at-offchain-4463129566",
+   "https://www.linkedin.com/jobs/view/security-engineer-at-offchain-4464075890",
+   "https://jobs.lever.co/offchainlabs/0403a086-e64e-464d-9268-bd0ba3d6572b",
+   "https://www.linkedin.com/jobs/view/senior-backend-engineer-at-offchain-4460881278",
+   "https://www.linkedin.com/jobs/view/business-operations-manager-at-offchain-4460378046",
+   "https://www.linkedin.com/jobs/view/senior-pr-communications-manager-at-offchain-4460199376",
+   "https://www.linkedin.com/jobs/view/business-operations-manager-nashville-at-offchain-4459032676",
+   "https://jobs.lever.co/offchainlabs/6598ffbf-2608-4ff9-a531-ca2f5adb6525",
+   "https://www.linkedin.com/jobs/view/business-development-associate-developer-ecosystem-at-offchain-4452688198",
+   "https://www.linkedin.com/jobs/view/vp-of-finance-at-offchain-4453134995",
+   "https://jobs.lever.co/offchainlabs/d82ca719-a431-492c-9d5f-312fb2db6331",
+   "https://www.linkedin.com/jobs/view/head-of-solutions-engineering-at-offchain-4443557083",
+   "https://jobs.lever.co/offchainlabs/9a31d73b-3ee1-44cd-a415-f9fa11fdff4f",
+   "https://jobs.lever.co/offchainlabs/ea44f500-981b-4d7e-9203-3ada1dc12365",
+   "https://www.linkedin.com/jobs/view/senior-backend-engineer-rust-at-offchain-4427537022",
+   "https://www.linkedin.com/jobs/view/director-of-accounting-at-offchain-4430120913",
+   "https://jobs.lever.co/offchainlabs/ccd3b5d3-1797-4a06-98ae-22a6937ab8c8",
+   "https://www.linkedin.com/jobs/view/vice-president-of-marketing-at-offchain-4425619238",
+   "https://jobs.lever.co/offchainlabs/52c01c91-582c-42fc-8722-82c3eeb9ed24",
+   "https://jobs.lever.co/offchainlabs/d7724d91-fc91-4697-baf3-008de0ee5e37",
+   "https://jobs.lever.co/offchainlabs/4a9df0ee-1296-4366-b2b9-6a1d1f3da7fd",
+   "https://jobs.lever.co/offchainlabs/5dc0b755-8c1f-43c8-b268-df4b372a31d1",
+   "https://jobs.lever.co/offchainlabs/82c41afd-b4be-40d2-8bc2-3f299ced3c4a",
+   "https://jobs.lever.co/offchainlabs/4a21e430-8504-4dbc-8400-9479e354d313"
+  ]
+ },
+ {
+  "slug": "openlaw",
+  "name": "OpenLaw",
+  "description": "OpenLaw, a ConsenSys spoke, is a legal operating system for blockchain technology. It is now possible to model all or parts of legal agreements using code (smart contracts), decreasing the cost and friction of creating, securing, and generating binding legal agreements. Lawyers lack basic tools to build these dynamic, smart contracts in a way that is enforceable and understandable to a legal professional.",
+  "website": "http://openlaw.io",
+  "domain": "openlaw.io",
+  "founded": "2017",
+  "employees": 20,
+  "stage": "seed",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Consulting",
+   "Information Technology",
+   "Legal",
+   "Legal Tech",
+   "Software"
+  ],
+  "locations": [
+   "Brooklyn, NY, USA",
+   "East New York, Brooklyn, NY, USA",
+   "New York, NY, USA"
+  ],
+  "topics": [
+   "Infra"
+  ],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/openlaw",
+    "https://www.linkedin.com/company/35444202"
+   ],
+   "facebook": [
+    "https://facebook.com/openlawofficial"
+   ],
+   "twitter": [
+    "https://twitter.com/openlawofficial"
+   ],
+   "crunchbase": [
+    "https://www.crunchbase.com/organization/openlaw"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/2d2cf303-f50d-4148-bbfb-b75b7189859e-1761702233",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "origin-protocol",
+  "name": "Origin Protocol",
+  "description": "Origin is a protocol for creating sharing economy marketplaces using the Ethereum blockchain and IPFS. It empowers developers and businesses to build decentralized marketplaces on the blockchain. Its protocol makes it easy to create and manage listings for the fractional usage of assets and services.\n\nOrigin allows buyers and sellers to discover each other, browse listings, make bookings, leave ratings and reviews, and much more.\n\nThe company was founded in 2017 and is headquartered in San Francisco, California.",
+  "website": "http://originprotocol.com",
+  "domain": "originprotocol.com",
+  "founded": "2017",
+  "employees": 33,
+  "stage": "series_unknown",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Blockchain",
+   "Developer Platform",
+   "Developer Tools",
+   "Ethereum",
+   "Internet",
+   "Marketplace",
+   "Software",
+   "Software Development"
+  ],
+  "locations": [
+   "George Town, Cayman Islands",
+   "Georgetown, KY, USA",
+   "San Francisco, CA, USA"
+  ],
+  "topics": [
+   "NFT",
+   "DeFi"
+  ],
+  "socials": {
+   "instagram": [
+    "instagram.com/originprotocol"
+   ],
+   "linkedin": [
+    "https://www.linkedin.com/company/originprotocol",
+    "https://www.linkedin.com/company/18260479"
+   ],
+   "facebook": [
+    "https://www.facebook.com/originprotocol"
+   ],
+   "twitter": [
+    "https://twitter.com/originprotocol"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/originprotocol"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/e59f0f87-7c0f-4a50-bf4f-f578318b36cd-1761788350",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "p2p-2-6fcc502e-7cc4-4809-be30-a9d5954fe77a",
+  "name": "P2P",
+  "description": "P2P.org is the investment firm.",
+  "website": "http://p2p.org",
+  "domain": "p2p.org",
+  "founded": "2018",
+  "employees": 107,
+  "stage": "series_a",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Blockchain",
+   "Consulting",
+   "IT Services and IT Consulting",
+   "Professional Services"
+  ],
+  "locations": [
+   "George Town, Cayman Islands"
+  ],
+  "topics": [
+   "Infra"
+  ],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/p2p-org",
+    "https://www.linkedin.com/company/37427350"
+   ],
+   "twitter": [
+    "https://twitter.com/p2pvalidator"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/p2p-validator",
+    "https://www.crunchbase.com/organization/p2p-org"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/9185e1ff-b256-4dd9-9d26-a06bd15e36b7-1761442840",
+  "active_jobs": 2,
+  "ats_job_links": [
+   "https://jobs.ashbyhq.com/p2p.org/98f4e250-c4f6-48e2-b939-8f074632723f",
+   "https://jobs.ashbyhq.com/p2p.org/319dd0be-908f-4ffb-b917-fec0ada67506"
+  ]
+ },
+ {
+  "slug": "pods",
+  "name": "Pods",
+  "description": "Pods is a decentralized non-custodial options protocol. Users can create options and trade them through an Options AMM on the Ethereum Blockchain. Pods is the easiest way to hedge crypto in DeFi.",
+  "website": "http://pods.finance",
+  "domain": "pods.finance",
+  "founded": "2020",
+  "employees": 10,
+  "stage": "series_unknown",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Blockchain",
+   "Cryptocurrency",
+   "Fintech",
+   "Software Development"
+  ],
+  "locations": [
+   "S\u00e3o Paulo - State of S\u00e3o Paulo, Brazil",
+   "S\u00e3o Paulo, SP, Brazil",
+   "s\u00e3o paulo, state of s\u00e3o paulo, brazil"
+  ],
+  "topics": [
+   "DeFi"
+  ],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/pods-finance",
+    "https://www.linkedin.com/company/65903083"
+   ],
+   "twitter": [
+    "https://twitter.com/podsfinance"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/pods-9a64"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/24a8347b-bdb6-4bc5-8b6d-c5e91c3640a3-1761644588",
+  "active_jobs": 1,
+  "ats_job_links": [
+   "https://wellfound.com/jobs/3252218-product-designer-remote-flexible-schedule"
+  ]
+ },
+ {
+  "slug": "pyth-network",
+  "name": "Pyth Network",
+  "description": "The Pyth Network is a specialized oracle solution for latency-sensitive financial data that is typically kept behind the \u201cwalled gardens\u201d of centralized institutions. The Pyth Network is focused on finding a new and inexpensive way to bring this unique data on-chain and aggregating it securely.",
+  "website": "http://pyth.network",
+  "domain": "pyth.network",
+  "founded": "2021",
+  "employees": 17,
+  "stage": "series_unknown",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Big Data",
+   "Blockchain",
+   "Cryptocurrency",
+   "Financial Services",
+   "Smart Contracts"
+  ],
+  "locations": [
+   "Canton of Zug, Switzerland",
+   "Zug, Switzerland"
+  ],
+  "topics": [
+   "Infra"
+  ],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/pyth-network",
+    "https://www.linkedin.com/company/74913437"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/pyth-network"
+   ],
+   "twitter": [
+    "https://twitter.com/PythNetwork"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/b6d2305d-c05d-4fb0-9dd2-89614b281a1f-1761644628",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "rated-labs",
+  "name": "Rated Labs",
+  "description": "Rated Labs is a Web3 infrastructure project that provides granular data on validators and node operators, making it easier for users to compare and contrast their performance. It aims to improve transparency and context in Web3 infrastructure data.",
+  "website": "http://rated.network",
+  "domain": "rated.network",
+  "founded": "2022",
+  "employees": 10,
+  "stage": "acquisition",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Blockchain",
+   "Database",
+   "Web3"
+  ],
+  "locations": [
+   "City of London, London, UK",
+   "Kingston Vale, London SW15, UK",
+   "London, UK",
+   "Mile End, London, UK"
+  ],
+  "topics": [
+   "Infra"
+  ],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/rated-labs",
+    "https://www.linkedin.com/company/81373804"
+   ],
+   "twitter": [
+    "https://twitter.com/ratedw3b"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/rated"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/34e823e1-555a-4df4-8f66-2dfea384a6bf-1761270014",
+  "active_jobs": 1,
+  "ats_job_links": [
+   "https://ats.rippling.com/rated-roles/jobs/395d0542-08f1-44a5-ad26-7cca0a46c7a5"
+  ]
+ },
+ {
+  "slug": "regen-network",
+  "name": "Regen Network",
+  "description": "Invest in a thriving planet. Climate change and environmental degradation are the largest existential threats to humanity in the 21st century, and also the largest economic opportunity of our time. These problems are fundamentally issues of economic coordination.\n\nRegen Network, a Techstars-backed company, is a digital platform powered by COSMOS SDK that allows farmers, brands, and institutions to make auditable ecological agreements so that we can rapidly accelerate the adoption of regenerative agriculture and reverse global climate change.\n\nRegen Network is comprised of two important parts. We are building a Proof-of-Stake blockchain focused on ecological data, assets, and agreements using the Tendermint Consensus Engine and the COSMOS SDK. Join us to help secure what we believe will be the most important distributed ledger on Earth \u2014 the ledger of ecological health and agreements.\n\nIn addition to creating the underlying infrastructure necessary for ecological accounting, we\u2019re also building real-world applications.\n\nInvesting in Regen Network Now is the time to take bold action to reverse the degradation of this planet. This technology offers us an incredible opportunity to do just that. We are currently in a private pre-sale for our native staking token or offering convertible notes for equity if that is what you prefer. We will personally guide you through the investment process to make it as easy, private, and secure as possible.\n\nToken Mechanics Regen Ledger is secured through our staking token, the Regen token (XRN). XRN follows the COSMOS Proof-of-Stake consensus and token economics. By purchasing and staking XRN, you help secure this essential infrastructure and the public good it generates, plus staked tokens receive network fees and block rewards as compensation for this important work. For more detailed information please see our economics paper.\n\nRegen Network Development, Inc. is building a contracting platform utilizing Regen Ledger to make easy and accessible ecological contracts between institutions and land managers, who may not have the capacity to interact directly with the blockchain. At the center of these agreements are scientifically robust ecological protocols that verify a change in practice or outcomes on the ground.\n\nThe Market A conservative estimate of the size of the Ecosystem Service Market came in at $36 billion in 2017. We expect this to grow to $1 trillion over the next decade as climate change accelerates and businesses and governments react to the economic disruption by beginning to value currently externalized costs. We intend to capture a significant portion of this market.\n\nLearn more about investment opportunities at https://www.regen.network/investors.html.",
+  "website": "http://regen.network",
+  "domain": "regen.network",
+  "founded": "2017",
+  "employees": 17,
+  "stage": "ico",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Agriculture",
+   "AgTech",
+   "Blockchain",
+   "Environmental Services",
+   "Impact Investing"
+  ],
+  "locations": [
+   "Claymont, DE, USA",
+   "Great Barrington, MA, USA",
+   "Wilmington, DE, USA"
+  ],
+  "topics": [
+   "DeFi"
+  ],
+  "socials": {
+   "instagram": [
+    "instagram.com/regennetwork"
+   ],
+   "linkedin": [
+    "https://www.linkedin.com/company/regen-network",
+    "https://www.linkedin.com/company/28182452"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/regen-network"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/a8de3cb4-4a6b-4925-a128-00cc4a8cd174-1760923850",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "resolv-labs-2-16ac4c9d-3a0d-4c8b-9b2e-79c2024aa830",
+  "name": "Resolv Labs",
+  "description": "Resolv Labs is a low-risk crypto investment backed by the TRUE-DELTA NEUTRAL ARCHITECTURE and building resilient investment instruments for risk-conscious crypto holders.",
+  "website": "http://resolv.xyz",
+  "domain": "resolv.xyz",
+  "founded": "2023",
+  "employees": 20,
+  "stage": "seed",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Finance",
+   "Financial Services",
+   "Virtual Currency"
+  ],
+  "locations": [
+   "British Virgin Islands",
+   "Dubai - United Arab Emirates"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/resolvlabs",
+    "https://www.linkedin.com/company/97878319"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/resolv-labs"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/24900fce-ce60-4c20-83c9-a977716b30ad-1762997972",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "safe-2",
+  "name": "Safe",
+  "description": "Safe is the account abstraction leader on Ethereum and the EVM with the most secure smart wallet infrastructure and platform.",
+  "website": "http://safe.global",
+  "domain": "safe.global",
+  "founded": "2022",
+  "employees": 105,
+  "stage": "series_unknown",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Blockchain",
+   "IT Services and IT Consulting"
+  ],
+  "locations": [
+   "Berlin, Germany",
+   "Canton of Zug, Switzerland"
+  ],
+  "topics": [
+   "Infra"
+  ],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/safe-ecosystem",
+    "https://www.linkedin.com/company/safe-labs-gmbh",
+    "https://www.linkedin.com/company/86350083"
+   ],
+   "twitter": [
+    "https://twitter.com/safe"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/gnosis-ee45",
+    "https://www.crunchbase.com/organization/safe-b9f1",
+    "https://www.crunchbase.com/organization/safe-3c5f"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/db880338-028b-4af5-a5b9-3a4774f7415f-1761616220",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "solana-2",
+  "name": "Solana",
+  "description": "Solana is a crypto startup that builds and develops crypto apps for decentralized apps and marketplaces. The Solana network is validated by thousands of independent nodes, providing enhanced security and resistance against censorship.",
+  "website": "http://solana.com",
+  "domain": "solana.com",
+  "founded": "2017",
+  "employees": 342,
+  "stage": "private_equity",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Apps",
+   "Blockchain",
+   "Cryptocurrency",
+   "Finance",
+   "Fintech",
+   "Technology, Information and Internet",
+   "Virtual Currency"
+  ],
+  "locations": [
+   "San Francisco, CA, USA"
+  ],
+  "topics": [
+   "Chains"
+  ],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/solanalabs",
+    "https://www.linkedin.com/company/solana-foundation",
+    "https://www.linkedin.com/company/72057622",
+    "https://www.linkedin.com/company/18453134",
+    "https://www.linkedin.com/company/solana"
+   ],
+   "crunchbase": [
+    "https://www.crunchbase.com/organization/solana-foundation",
+    "https://crunchbase.com/organization/solana-io"
+   ],
+   "twitter": [
+    "https://twitter.com/solanalabs"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/68f84bd7-d48a-4fb5-9f0a-3d41eebe3e81-1763516383",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "sunscreen",
+  "name": "Sunscreen",
+  "description": "Sunscreen is a cryptography company that translates frontier Fully Homomorphic Encryption (FHE) research into production-ready tooling.",
+  "website": "http://sunscreen.tech",
+  "domain": "sunscreen.tech",
+  "founded": "2021",
+  "employees": 3,
+  "stage": "acquisition",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Blockchain",
+   "Fintech",
+   "Transaction Processing"
+  ],
+  "locations": [
+   "San Francisco, CA, USA"
+  ],
+  "topics": [
+   "Privacy"
+  ],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/sunscreen-tech",
+    "https://www.linkedin.com/company/105048253"
+   ],
+   "twitter": [
+    "https://twitter.com/sunscreentech"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/sunscreen"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/09c8d38b-ed9c-46a3-a824-e8d9cf7f7adc-1763373662",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "swarm-2",
+  "name": "Swarm",
+  "description": "Swarm is a distributed storage platform and content distribution service.",
+  "website": "http://ethswarm.org",
+  "domain": "ethswarm.org",
+  "founded": "2021",
+  "employees": 22,
+  "stage": "seed",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Blockchain",
+   "Information Technology",
+   "Internet"
+  ],
+  "locations": [
+   "Neuch\u00e2tel, Switzerland"
+  ],
+  "topics": [
+   "Infra"
+  ],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/ethereum-swarm",
+    "https://www.linkedin.com/company/34696502"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/swarm-d16a"
+   ],
+   "twitter": [
+    "https://twitter.com/ethswarm"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/d777a84e-9d1a-4577-a8db-57d4f03a857e-1766021974",
+  "active_jobs": 3,
+  "ats_job_links": [
+   "https://www.ethswarm.org/jobs/browser-extension-developer",
+   "https://www.ethswarm.org/jobs/javascript-developer-fairdrive",
+   "https://www.ethswarm.org/jobs/senior-software-engineer-go"
+  ]
+ },
+ {
+  "slug": "the-graph",
+  "name": "The Graph",
+  "description": "The Graph serves as the foundational data layer for the decentralized internet. Launched in 2018, it pioneered the use of subgraphs\u2014now a standard for indexing and accessing blockchain data in Web3. Developers have since created thousands of subgraphs for dApps across 90+ blockchains, including Ethereum, Solana, Arbitrum, Optimism, and Polygon.",
+  "website": "http://thegraph.com",
+  "domain": "thegraph.com",
+  "founded": "2018",
+  "employees": 75,
+  "stage": "series_a",
+  "org_type": "private",
+  "biz_models": [
+   "B2B"
+  ],
+  "industry_tags": [
+   "Blockchain",
+   "Cryptocurrency",
+   "Developer Tools",
+   "Information Services",
+   "Software",
+   "Web3"
+  ],
+  "locations": [
+   "A. Bonifacio, Quezon City, Metro Manila, Philippines",
+   "George Town, Cayman Islands",
+   "San Francisco, CA, USA",
+   "Zoe, KY, USA"
+  ],
+  "topics": [
+   "Infra"
+  ],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/thegraph",
+    "https://www.linkedin.com/company/18669209"
+   ],
+   "twitter": [
+    "https://twitter.com/graphprotocol"
+   ],
+   "facebook": [
+    "https://www.facebook.com/graphprotocol/"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/the-graph"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/a88afedc-6963-4793-a7f8-2fae2c6716b9-1763516398",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "the-lao",
+  "name": "The LAO",
+  "description": "The LAO is a global community of Ethereum enthusiasts and specialists that supports the work of Ethereum developers. They invest in seed-stage firms in the cryptocurrency, blockchain, and application software sectors.",
+  "website": "http://thelao.io",
+  "domain": "thelao.io",
+  "founded": "2019",
+  "employees": null,
+  "stage": "other",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Blockchain",
+   "Ethereum",
+   "Venture Capital"
+  ],
+  "locations": [
+   "Brooklyn, NY, USA",
+   "New York, NY, USA",
+   "Union Square, New York, NY, USA"
+  ],
+  "topics": [
+   "Other"
+  ],
+  "socials": {
+   "crunchbase": [
+    "https://www.crunchbase.com/organization/the-lao"
+   ],
+   "twitter": [
+    "https://twitter.com/thelaoofficial"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/b66becb0-061d-5073-8f1a-abb33932733a",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "tres-finance-2",
+  "name": "Tres Finance",
+  "description": "Tres is a financial technology company that provides a platform for managing, accounting, and reporting on digital assets and Web3 financial operations. Its core offering aggregates transactional data across blockchains, exchanges, custodians, and financial systems into a unified financial data environment to support automation of reconciliation, audits, tax compliance, and reporting workflows. The platform enables finance teams, asset managers, and institutions to transform raw on-chain activity into structured, audit-ready financial information with real-time insights and integration into traditional accounting systems. Tres\u2019s tools address challenges such as multi-network data fragmentation and complex digital asset transactions by normalizing and enriching data for consistent financial workflows. The company\u2019s solutions support compliance-focused operations and enable organizations to monitor treasury activity, generate regulatory documentation, and automate ledger entries.",
+  "website": "http://tres.finance",
+  "domain": "tres.finance",
+  "founded": "2022",
+  "employees": 49,
+  "stage": "acquisition",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Accounting",
+   "Blockchain",
+   "Enterprise Software",
+   "Financial Services",
+   "Web3"
+  ],
+  "locations": [
+   "Ezor Tel Aviv, Israel",
+   "Jaffa, Tel Aviv-Yafo, Israel",
+   "Tel Aviv-Yafo, Israel"
+  ],
+  "topics": [
+   "Infra"
+  ],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/tresfinance",
+    "https://www.linkedin.com/company/85408840"
+   ],
+   "twitter": [
+    "https://twitter.com/tresdotfinance"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/tres-c26a"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/d9c00ba8-3248-435c-b22b-90462652a9d2-1761442842",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "web3auth",
+  "name": "Web3Auth",
+  "description": "Web3Auth makes cryptographic key management easy for users and applications. By abstracting the management of private keys, they allow users to use familiar authentication methods like Google, Facebook, or Passwordless logins on Web3 applications. Their vision is to empower individuals with self-sovereignty by making key management globally accessible to everyone.",
+  "website": "http://web3auth.io",
+  "domain": "web3auth.io",
+  "founded": "2018",
+  "employees": 32,
+  "stage": "series_a",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Blockchain",
+   "Information Technology",
+   "Infrastructure",
+   "Software",
+   "Web3"
+  ],
+  "locations": [
+   "Singapore"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/web3auth"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/torus-labs"
+   ],
+   "facebook": [
+    "https://facebook.com/torusprotocol"
+   ],
+   "twitter": [
+    "https://twitter.com/toruslabs"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/37f5b565-0f16-4f34-852f-ac151e1d3469-1761385235",
+  "active_jobs": 1,
+  "ats_job_links": [
+   "https://app.dover.com/apply/web3auth/b2a8b57c-bdf0-4298-9816-d556f10ce7f2"
+  ]
+ },
+ {
+  "slug": "wormhole-2",
+  "name": "Wormhole",
+  "description": "Wormhole covers a range of use cases to make chains for tokens, NFTs, apps, and other generic messaging applications. They build protocols on Wormholes that can use data, assets, and messages from other chains.",
+  "website": "http://wormhole.com",
+  "domain": "wormhole.com",
+  "founded": "2007",
+  "employees": 16,
+  "stage": "ico",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Apps",
+   "Blockchain",
+   "Cryptocurrency",
+   "Messaging"
+  ],
+  "locations": [
+   "George Town, Cayman Islands",
+   "Georgetown, Washington, DC, USA"
+  ],
+  "topics": [
+   "Infra"
+  ],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/wormhole-protocol",
+    "https://www.linkedin.com/company/89206049"
+   ],
+   "twitter": [
+    "https://x.com/wormhole"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/wormhole-f145"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/e3a0c940-7419-4a7a-83ec-deefbdf7ae28-1765935584",
+  "active_jobs": 8,
+  "ats_job_links": [
+   "https://jobs.ashbyhq.com/wormholelabs/06e547b0-a5be-4bc6-ab0f-b0c2519d751c",
+   "https://jobs.ashbyhq.com/wormholelabs/4c9cf256-31ce-4cb9-b5a2-8960aa5597f0",
+   "https://jobs.ashbyhq.com/wormholelabs/eb62e3d2-f838-4c79-a472-8e500fa067b5",
+   "https://jobs.ashbyhq.com/wormholelabs/05d4bd28-f7bc-4128-b05e-8faeff9cb3b1",
+   "https://jobs.ashbyhq.com/asymmetric.re/1db0346b-b60e-4fb2-aeca-732a24867a46",
+   "https://jobs.ashbyhq.com/wormholelabs/3e6ad00b-f885-44cf-9847-0d187bc36b5e",
+   "https://jobs.ashbyhq.com/wormholelabs/e5e39675-92e4-48bf-ba9a-df52fad4dd8c",
+   "https://jobs.ashbyhq.com/wormholelabs/1f13ccfb-be18-46e7-9b9f-52f7f343c4d9"
+  ]
+ }
+]

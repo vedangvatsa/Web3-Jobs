@@ -173,6 +173,8 @@ const COMPANY_FAVICON_DOMAINS: Record<string, string> = {
   'aspora': 'aspora.com',
   'augustus': 'augustus.com',
   'mural': 'muralpay.com',
+  'wormhole-labs': 'wormholelabs.xyz',
+  'drw': 'drw.com',
 };
 
 function faviconUrlForDomain(domain: string): string {

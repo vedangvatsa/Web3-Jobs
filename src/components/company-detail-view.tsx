@@ -6,7 +6,7 @@ import {
   getCompanyFaviconUrlBySlug,
 } from '@/lib/company-logo';
 import { CompanyLogo } from '@/components/company-logo';
-import { Briefcase, ExternalLink } from 'lucide-react';
+import { Briefcase, ExternalLink, Linkedin } from 'lucide-react';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import type { Organization, BreadcrumbList, WithContext } from 'schema-dts';
@@ -14,6 +14,7 @@ import { CompanyViewTracker } from '@/components/tracking/company-view-tracker';
 import { OutboundLink } from '@/components/tracking/outbound-link';
 import { JobCard } from '@/components/job-card';
 import { getJobSlug } from '@/lib/job-slugs';
+import { XBrandIcon } from '@/components/x-brand-icon';
 
 export async function CompanyDetailView({ slug }: { slug: string }) {
   const company = await getCompanyBySlug(slug);
@@ -41,6 +42,7 @@ export async function CompanyDetailView({ slug }: { slug: string }) {
   const preferFavicon = FAVICON_FIRST_SLUGS.has(company.slug) && !!favicon;
   const logoSrc = preferFavicon ? favicon : logoFile;
   const faviconUrl = preferFavicon ? logoFile : favicon;
+  const social = company.socialLinks;
 
   const organizationSchema: WithContext<Organization> = {
     '@context': 'https://schema.org',
@@ -48,6 +50,7 @@ export async function CompanyDetailView({ slug }: { slug: string }) {
     name: displayName,
     ...(company.website && { url: company.website }),
     ...(company.description && { description: company.description }),
+    ...(social?.linkedin && { sameAs: [social.linkedin, social.twitter, social.crunchbase].filter(Boolean) as string[] }),
   };
 
   const breadcrumbSchema: WithContext<BreadcrumbList> = {
@@ -105,6 +108,40 @@ export async function CompanyDetailView({ slug }: { slug: string }) {
                       </OutboundLink>
                     )}
                   </div>
+                  {social && (social.linkedin || social.twitter || social.crunchbase) && (
+                    <div className="mt-3 flex flex-wrap items-center gap-x-4 gap-y-2 text-sm">
+                      {social.linkedin && (
+                        <OutboundLink
+                          href={social.linkedin}
+                          label={`${displayName} on LinkedIn`}
+                          className="inline-flex items-center gap-1.5 text-muted-foreground hover:text-foreground"
+                        >
+                          <Linkedin className="h-4 w-4 shrink-0" aria-hidden="true" />
+                          LinkedIn
+                        </OutboundLink>
+                      )}
+                      {social.twitter && (
+                        <OutboundLink
+                          href={social.twitter}
+                          label={`${displayName} on X`}
+                          className="inline-flex items-center gap-1.5 text-muted-foreground hover:text-foreground"
+                        >
+                          <XBrandIcon className="h-4 w-4 shrink-0" />
+                          X
+                        </OutboundLink>
+                      )}
+                      {social.crunchbase && (
+                        <OutboundLink
+                          href={social.crunchbase}
+                          label={`${displayName} on Crunchbase`}
+                          className="inline-flex items-center gap-1.5 text-muted-foreground hover:text-foreground"
+                        >
+                          <ExternalLink className="h-4 w-4 shrink-0" aria-hidden="true" />
+                          Crunchbase
+                        </OutboundLink>
+                      )}
+                    </div>
+                  )}
                 </div>
               </div>
               {company.description && (

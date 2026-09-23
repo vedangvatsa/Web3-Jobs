@@ -1,0 +1,4607 @@
+[
+ {
+  "slug": "nil-foundation-2",
+  "name": "=nil; Foundation",
+  "description": "Nil Foundation facilitates and supports research in Database Management Systems and Applied Cryptography.",
+  "website": "http://nil.foundation",
+  "domain": "nil.foundation",
+  "founded": "2018",
+  "employees": 48,
+  "stage": "series_unknown",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Consulting",
+   "Cryptocurrency",
+   "Information Technology",
+   "IT Services and IT Consulting"
+  ],
+  "locations": [
+   "Bodden Town, Cayman Islands",
+   "Limassol, Cyprus",
+   "Remote"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/nil-foundation",
+    "https://www.linkedin.com/company/31429685"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/nil-foundation"
+   ],
+   "twitter": [
+    "https://twitter.com/nil_foundation"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/69d85110-5ebd-4eec-84ba-635b63d7494d-1765849156",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "aave-2-40148ce9-7ac1-4464-9eee-1a3c8290954f",
+  "name": "Aave",
+  "description": "Aave (from the Finnish word for \"ghost\") is an open source non-custodial protocol on Ethereum for decentralized lending and borrowing. For lenders, the protocol mints ERC20-compliant aTokens at a 1:1 ratio to supplied assets. Interest immediately starts compounding continuously, represented by a steady increase in the amount of aTokens held by the lender. This interest stream may be redirected to any address, separate from the aTokens that represent the underlying principal.\n\nAave offers flash loans: trustless, uncollateralized loans where borrowing and repayment must occur in the same transaction. Aimed at developers, this feature could lead to innovative uses of DeFi.",
+  "website": "http://aave.com",
+  "domain": "aave.com",
+  "founded": "2017",
+  "employees": 92,
+  "stage": "other",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Cryptocurrency",
+   "Decentralized Finance (DeFi)",
+   "Finance",
+   "Financial Services",
+   "Fintech",
+   "Open Source",
+   "Peer To Peer",
+   "Software",
+   "Venture Capital",
+   "Web3"
+  ],
+  "locations": [
+   "London, UK",
+   "Mile End, London, UK"
+  ],
+  "topics": [],
+  "socials": {
+   "instagram": [
+    "instagram.com/aave.aave"
+   ],
+   "linkedin": [
+    "https://www.linkedin.com/company/aaveaave",
+    "https://www.linkedin.com/company/24771316",
+    "https://www.linkedin.com/company/aavelabs"
+   ],
+   "twitter": [
+    "https://twitter.com/aaveaave"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/ethlend"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/cf66a761-b801-4df4-bf46-46ddfd2fdeb0-1762134364",
+  "active_jobs": 15,
+  "ats_job_links": [
+   "https://uk.linkedin.com/jobs/view/principal-ios-engineer-at-aave-labs-4466569787",
+   "https://www.linkedin.com/jobs/view/principal-backend-engineer-push-at-aave-labs-4466573620",
+   "https://www.linkedin.com/jobs/view/principal-ios-engineer-at-aave-labs-4466579656",
+   "https://www.linkedin.com/jobs/view/protocol-security-researcher-at-aave-labs-4466885229",
+   "https://www.linkedin.com/jobs/view/legal-counsel-commercial-at-aave-labs-4465127060",
+   "https://www.linkedin.com/jobs/view/video-editor-at-aave-labs-4466862878",
+   "https://www.linkedin.com/jobs/view/staff-frontend-engineer-at-aave-labs-4466872363",
+   "https://www.linkedin.com/jobs/view/staff-smart-contract-engineer-at-aave-labs-4464106940",
+   "https://ie.linkedin.com/jobs/view/principal-backend-engineer-push-at-aave-labs-4464123817",
+   "https://uk.linkedin.com/jobs/view/senior-react-native-engineer-at-aave-labs-4464115939",
+   "https://www.linkedin.com/jobs/view/staff-backend-engineer-aave-app-at-aave-labs-4463820319",
+   "https://uk.linkedin.com/jobs/view/principal-backend-engineer-push-at-aave-labs-4464113906",
+   "https://uk.linkedin.com/jobs/view/head-of-risk-at-aave-labs-4457621669",
+   "https://www.linkedin.com/jobs/view/staff-backend-engineer-vaults-at-aave-labs-4457641483",
+   "https://uk.linkedin.com/jobs/view/staff-backend-engineer-vaults-at-aave-labs-4457630815"
+  ]
+ },
+ {
+  "slug": "abra",
+  "name": "Abra",
+  "description": "Abra provides digital asset financial services, offering a platform for cryptocurrency trading, lending, borrowing, and wealth management for both individual and institutional clients. The company delivers products such as crypto wallets, trading access to multiple digital assets, and structured investment solutions that allow users to manage and grow their holdings within a single ecosystem. Its platform includes services like collateralized lending, where users can borrow against crypto holdings, as well as yield and staking programs that enable asset-based income generation. Abra also offers institutional-focused solutions, including prime brokerage services, treasury management tools, and advisory support for organizations integrating digital assets into their financial strategies.",
+  "website": "http://abra.com",
+  "domain": "abra.com",
+  "founded": "2014",
+  "employees": 132,
+  "stage": "acquisition",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Bitcoin",
+   "Blockchain",
+   "Cryptocurrency",
+   "Ethereum",
+   "Financial Services",
+   "Fintech"
+  ],
+  "locations": [
+   "Atlanta, GA, USA",
+   "Atlantic Station, Atlanta, GA, USA",
+   "Mountain View, CA, USA"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/abra",
+    "https://www.linkedin.com/company/205659"
+   ],
+   "facebook": [
+    "https://facebook.com/abraglobal"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/abra"
+   ],
+   "twitter": [
+    "https://twitter.com/abraglobal"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/8ca20b09-0afa-49d6-8059-a62f82df2724-1761644637",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "acadarena",
+  "name": "AcadArena",
+  "description": "AcadArena offers scholarships, tournaments, and play-to-earn opportunities for student gamers. The company helps students and gamers to develop their academic and gaming skills. AcadArena helps students realize their dreams and create the best campus gaming experience possible. AcadArena empowers all student gamers and educators everywhere, from scholarships to the top campus esports leagues for athletes.\n\nAcadArena was founded in 2019 by Ariane Lim, Kevin Hoang, and Justin Banusin.",
+  "website": "http://acadarena.com",
+  "domain": "acadarena.com",
+  "founded": "2019",
+  "employees": 29,
+  "stage": "series_a",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Education",
+   "Entertainment",
+   "Esports",
+   "Gaming"
+  ],
+  "locations": [
+   "Iloilo City, Iloilo, Philippines",
+   "Makati City, Metro Manila, Philippines",
+   "Makati, Metro Manila, Philippines",
+   "Western Visayas, Philippines"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/acadarena",
+    "https://www.linkedin.com/company/54303812"
+   ],
+   "twitter": [
+    "https://twitter.com/acadarena"
+   ],
+   "facebook": [
+    "https://facebook.com/acadarenagg"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/acadarena"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/0fe66016-1e31-4c73-8970-0d012a7fff7c-1769132586",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "across-protocol-2",
+  "name": "Across Protocol",
+  "description": "Across is a cross-chain bridge secured by UMA's optimistic oracle for L2s and rollups. It is also optimized for capital efficiency with a single liquidity pool, a competitive relayer landscape, and a no-slippage fee model.",
+  "website": "http://across.to",
+  "domain": "across.to",
+  "founded": "2022",
+  "employees": 26,
+  "stage": "ico",
+  "org_type": "private",
+  "biz_models": [
+   "B2B",
+   "Consulting"
+  ],
+  "industry_tags": [
+   "Blockchain",
+   "Financial Services",
+   "Transaction Processing"
+  ],
+  "locations": [
+   "Chicago, IL, USA",
+   "Illinois Medical District, Chicago, IL, USA",
+   "North Chicago, IL, USA"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/across-protocol",
+    "https://www.linkedin.com/company/82383616"
+   ],
+   "crunchbase": [
+    "https://www.crunchbase.com/organization/across-protocol"
+   ],
+   "facebook": [
+    "https://www.facebook.com/lightspeedsolutionsllc"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/80ee8c36-5289-49fc-8bb2-c13934a5e8a0-1761013760",
+  "active_jobs": 1,
+  "ats_job_links": [
+   "https://jobs.ashbyhq.com/risklabs/08e0c4c0-8e4f-4489-b98b-6b746f1c6546"
+  ]
+ },
+ {
+  "slug": "alphapoint",
+  "name": "AlphaPoint",
+  "description": "Alphapoint provides exchange software, stablecoin treasury, and liquidity infrastructure for companies operating digital asset businesses. Since 2013, Alphapoint has helped exchanges, fintechs, banks, brokers, and payment companies launch and scale digital asset platforms in live markets. What began as white label exchange technology has expanded into a broader infrastructure platform supporting trading venues, stablecoin payments and payouts, treasury operations, and institutional liquidity. Alphapoint\u2019s software is built for organizations that need secure, scalable, and configurable digital asset infrastructure with the controls required for real financial operations. Alphapoint has served more than 150 customers across 35+ countries and supported more than $1T in platform activity.",
+  "website": "http://alphapoint.com",
+  "domain": "alphapoint.com",
+  "founded": "2013",
+  "employees": 80,
+  "stage": "pre_seed",
+  "org_type": "private",
+  "biz_models": [
+   "B2B"
+  ],
+  "industry_tags": [
+   "Bitcoin",
+   "Cryptocurrency",
+   "Financial Exchanges",
+   "Financial Services",
+   "Fintech",
+   "Software"
+  ],
+  "locations": [
+   "Canal Street, New York, NY, USA",
+   "New York, NY, USA",
+   "Pune, Maharashtra, India",
+   "Raleigh, NC, USA",
+   "Union Square, New York, NY, USA",
+   "United States"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/alpha-point",
+    "https://www.linkedin.com/company/3098980"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/alphapoint"
+   ],
+   "facebook": [
+    "https://facebook.com/alphapointlive"
+   ],
+   "twitter": [
+    "https://twitter.com/AlphaPointLive"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/34501549-4d00-4cbf-b2fa-f519bfc1cfb5-1768399950",
+  "active_jobs": 9,
+  "ats_job_links": [
+   "https://alphapoint.applytojob.com/apply/YGlv16YcB7/Sales-Development-Representative",
+   "https://alphapoint.applytojob.com/apply/tpKggjOF73/Tech-Ops-Engineer-Overnight-EST-Support-1am-9am",
+   "https://alphapoint.applytojob.com/apply/cX9OfmZXav/Sales-Development-Representative",
+   "https://alphapoint.applytojob.com/apply/kif0uGSoNQ/Principal-Hardware-Engineer-Board-Design",
+   "https://alphapoint.applytojob.com/apply/mvekj6n71r/Enterprise-Sales-Executive-Latam-Region",
+   "https://alphapoint.applytojob.com/apply/L0IdzZI8Gy/Enterprise-Sales-Executive-Latam-Region",
+   "https://alphapoint.applytojob.com/apply/h5I7vrCvgj/Enterprise-Sales-Executive",
+   "https://alphapoint.applytojob.com/apply/tq7GNtRsD4/Senior-Wallet-Developer",
+   "https://alphapoint.applytojob.com/apply/9H9UMTxLJ5/Tech-Ops-Engineer-Overnight-Support-EST"
+  ]
+ },
+ {
+  "slug": "anchorage-digital",
+  "name": "Anchorage Digital",
+  "description": "Anchorage Digital is a regulated crypto platform that provides institutions with integrated financial services and infrastructure solutions. With the only federally chartered crypto bank in the US, as well as Anchorage Digital Singapore, which offers equivalent security and service standards, Anchorage Digital provides institutions an unparalleled combination of secure custody, regulatory compliance, product breadth, and client service.\n\nFounded in 2017, Anchorage Digital is valued at over $3 billion with funding from leading institutions including Andreessen Horowitz, GIC\u2014Singapore\u2019s sovereign wealth fund, Goldman Sachs, KKR, and Visa. Headquartered in San Francisco, California, Anchorage Digital is remote-friendly with offices in New York, New York; Porto, Portugal; Singapore; and Sioux Falls, South Dakota. Learn more at anchorage.com, on Twitter @Anchorage, and on LinkedIn.",
+  "website": "http://anchorage.com",
+  "domain": "anchorage.com",
+  "founded": "2017",
+  "employees": 482,
+  "stage": "other",
+  "org_type": "private",
+  "biz_models": [
+   "B2B",
+   "SaaS",
+   "Subscription",
+   "B2G"
+  ],
+  "industry_tags": [
+   "Blockchain",
+   "Cryptocurrency",
+   "Financial Services",
+   "Fintech",
+   "Software"
+  ],
+  "locations": [
+   "Porto, Portugal",
+   "San Francisco, CA, USA",
+   "Singapore",
+   "Sioux Falls, SD, USA"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/anchorage",
+    "https://www.linkedin.com/company/7144084"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/anchorage"
+   ],
+   "facebook": [
+    "https://facebook.com/anchoragedigital"
+   ],
+   "twitter": [
+    "https://x.com/anchorage"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/afaf3a28-9734-46ba-8ec0-674c5baaa998-1763516382",
+  "active_jobs": 22,
+  "ats_job_links": [
+   "https://jobs.lever.co/anchorage/3b5c3e6e-7518-4a4d-9ea8-06b8c75e2a59",
+   "https://jobs.lever.co/anchorage/efe55693-ae11-48cb-ac7f-77b52bdd608b",
+   "https://jobs.lever.co/anchorage/3ddc6f8e-105e-4801-9d12-2dc1054e8680",
+   "https://jobs.lever.co/anchorage/fc156cf0-cd5d-4085-acb4-8a7f69e3f4f0",
+   "https://jobs.lever.co/anchorage/32d0a6da-114f-4b83-aa8b-0fd9c9dc9144",
+   "https://jobs.lever.co/anchorage/84fab38a-ef1a-48ee-b487-e16b4ff9ee74",
+   "https://jobs.lever.co/anchorage/9f6d4223-389c-44e3-99b1-50f46c4855da",
+   "https://jobs.lever.co/anchorage/2241b52b-da64-4626-9abc-c8ff5fb58009",
+   "https://jobs.lever.co/anchorage/5275f2de-8e68-401d-83a8-8e8b444b6d14",
+   "https://jobs.lever.co/anchorage/529de48f-c270-4ca6-a6a0-6ae142ffb790",
+   "https://jobs.lever.co/anchorage/b3c332bc-ffc5-4a2f-ab3e-de136d326408",
+   "https://jobs.lever.co/anchorage/74fb5f60-d964-416e-90a0-7f89f3b07676",
+   "https://jobs.lever.co/anchorage/026fb354-1d5f-49dc-9ea8-1602e6ace52e",
+   "https://jobs.lever.co/anchorage/b5dfd585-f708-41c9-b9bf-94adde925067",
+   "https://jobs.lever.co/anchorage/0f13c760-a28f-4750-8b6f-2b6d5e5b10cf",
+   "https://jobs.lever.co/anchorage/c2b42959-0a4b-4e85-9901-8a875d586902",
+   "https://jobs.lever.co/anchorage/556cd741-9fb6-439e-8bc4-8de36b0eae27",
+   "https://jobs.lever.co/anchorage/f9faea14-ec19-4421-84d2-f9265592c7ae",
+   "https://jobs.lever.co/anchorage/e5d0f1ac-3126-481e-857f-db6ae8eb67e9",
+   "https://jobs.lever.co/anchorage/35a0a9c4-6f32-4958-9a74-6b3b41ddbf9b"
+  ]
+ },
+ {
+  "slug": "arweave-2",
+  "name": "Arweave",
+  "description": "Arweave is an information technology company that specializes in data storage, blockchain, and serverless web. It features a software platform that offers unparalleled levels of data replication and security for users and financial incentives for participants in the network.\n\nThe company was founded in 2017 and is headquartered in London, England.",
+  "website": "http://arweave.org",
+  "domain": "arweave.org",
+  "founded": "2017",
+  "employees": 43,
+  "stage": "other",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Blockchain",
+   "Cryptocurrency",
+   "Data Storage",
+   "Internet"
+  ],
+  "locations": [
+   "City of London, London, UK",
+   "England, UK",
+   "Germany",
+   "Greater London, UK",
+   "London, UK",
+   "Mile End, London, UK"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/arweave",
+    "https://www.linkedin.com/company/18359106"
+   ],
+   "twitter": [
+    "https://x.com/ArweaveEco?"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/arweave"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/7333463f-6325-4c7f-857e-df73fe7b2656-1762047474",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "balancer-2",
+  "name": "Balancer",
+  "description": "Balancer Labs is a non-custodial portfolio manager, liquidity provider, and price sensor.",
+  "website": "http://balancer.fi",
+  "domain": "balancer.fi",
+  "founded": "2018",
+  "employees": 22,
+  "stage": "series_unknown",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Blockchain",
+   "Financial Services",
+   "Technology, Information and Internet"
+  ],
+  "locations": [
+   "Harju County, Estonia",
+   "Lisbon, Portugal"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/balancer-labs",
+    "https://www.linkedin.com/company/49644655",
+    "https://www.linkedin.com/company/balancer-ecosystem"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/balancer-labs"
+   ],
+   "twitter": [
+    "https://twitter.com/BalancerLabs"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/750dbea6-9a10-41be-88f0-880bb801fc79-1769651317",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "bitaccess-2",
+  "name": "Bitaccess",
+  "description": "Bitaccess is a technology company building the future of financial services.\n\nWe have products in three verticals of blockchain technology:\n- Payment processing: \n  - We are Canada's #1 destination for instant digital currency purchases.\n  - We have a global network of Bitcoin ATMs which are powered by our software and hardware.\n  - https://bitaccessbtm.com/operators\n- Blockchain auditing:\n  - We work with governments and private companies to leverage blockchain technology for a new set of use cases.\n  - https://explorecatena.com\n- Asset management: \n  - Faast is the fastest way to build a cryptocurrency portfolio.\n  - https://faa.st",
+  "website": "http://bitaccessbtm.com",
+  "domain": "bitaccessbtm.com",
+  "founded": "2013",
+  "employees": 17,
+  "stage": "seed",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Finance"
+  ],
+  "locations": [
+   "Ottawa, ON, Canada"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/bitaccess",
+    "https://www.linkedin.com/company/5040823"
+   ],
+   "angellist": [
+    "https://angel.co/company/bitaccess"
+   ],
+   "twitter": [
+    "https://twitter.com/bitaccess"
+   ],
+   "facebook": [
+    "https://facebook.com/bitaccess"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/bitaccess"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/61ea4690-d164-4834-b7ec-5df126170f8f-1762220530",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "bitfury-2",
+  "name": "Bitfury",
+  "description": "Bitfury is the leading full-service Blockchain technology company and one of the largest private infrastructure providers in the blockchain ecosystem. Bitfury develops and delivers both the software and the hardware solutions necessary for businesses, governments, organizations, and individuals to securely move an asset across the blockchain.",
+  "website": "http://bitfury.com",
+  "domain": "bitfury.com",
+  "founded": "2011",
+  "employees": 85,
+  "stage": "series_unknown",
+  "org_type": "private",
+  "biz_models": [
+   "B2B"
+  ],
+  "industry_tags": [
+   "Bitcoin",
+   "Blockchain",
+   "Data Center",
+   "Fintech",
+   "Hardware",
+   "Information Services",
+   "Information Technology",
+   "Mining",
+   "Mining Technology"
+  ],
+  "locations": [
+   "Amsterdam, Netherlands",
+   "Dubai - United Arab Emirates",
+   "London, UK",
+   "Moscow, Russia",
+   "Seoul, South Korea",
+   "Shinjuku City, Tokyo, Japan",
+   "Washington, DC, USA",
+   "hong kong"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/bitfury",
+    "https://www.linkedin.com/company/5178019"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/bitfury"
+   ],
+   "facebook": [
+    "https://facebook.com/bitfury"
+   ],
+   "twitter": [
+    "https://twitter.com/bitfurygroup"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/c1d76f04-f0f7-471a-840d-12e7cc7505e0-1761644543",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "bitgo",
+  "name": "BitGo",
+  "description": "BitGo is an institutional digital asset financial services company that provides clients with security, custody, and liquidity solutions. The company's customer base includes cryptocurrency exchanges and spans most countries. The company introduced BitGo Custody and launched BitGo Trust Company, a qualified custodian purpose-built for storing digital assets.",
+  "website": "http://bitgo.com",
+  "domain": "bitgo.com",
+  "founded": "2013",
+  "employees": 383,
+  "stage": "ipo",
+  "org_type": "public",
+  "biz_models": [
+   "B2B",
+   "SaaS"
+  ],
+  "industry_tags": [
+   "Bitcoin",
+   "Blockchain",
+   "Cryptocurrency",
+   "Financial Services",
+   "Fintech"
+  ],
+  "locations": [
+   "Palo Alto, CA, USA"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/bitgo-inc",
+    "https://www.linkedin.com/company/3597797",
+    "https://www.linkedin.com/company/bitgo"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/bitgo"
+   ],
+   "facebook": [
+    "https://facebook.com/bitgoinc"
+   ],
+   "twitter": [
+    "https://twitter.com/bitgo"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/2c623ac4-2a45-44f4-a0df-d4f88f89befd-1761644645",
+  "active_jobs": 38,
+  "ats_job_links": [
+   "https://boards.greenhouse.io/bitgo/jobs/8792129002",
+   "https://boards.greenhouse.io/bitgo/jobs/8814938002",
+   "https://boards.greenhouse.io/bitgo/jobs/8811661002",
+   "https://boards.greenhouse.io/bitgo/jobs/8811580002",
+   "https://boards.greenhouse.io/bitgo/jobs/8812117002",
+   "https://boards.greenhouse.io/bitgo/jobs/8802480002",
+   "https://boards.greenhouse.io/bitgo/jobs/8802524002",
+   "https://boards.greenhouse.io/bitgo/jobs/8721530002",
+   "https://boards.greenhouse.io/bitgo/jobs/8696776002",
+   "https://boards.greenhouse.io/bitgo/jobs/8691615002",
+   "https://boards.greenhouse.io/bitgo/jobs/8644530002",
+   "https://boards.greenhouse.io/bitgo/jobs/8637553002",
+   "https://boards.greenhouse.io/bitgo/jobs/8627534002",
+   "https://boards.greenhouse.io/bitgo/jobs/8612856002",
+   "https://boards.greenhouse.io/bitgo/jobs/8604775002",
+   "https://boards.greenhouse.io/bitgo/jobs/8224387002",
+   "https://boards.greenhouse.io/bitgo/jobs/8604773002",
+   "https://boards.greenhouse.io/bitgo/jobs/8604828002",
+   "https://boards.greenhouse.io/bitgo/jobs/8575180002",
+   "https://boards.greenhouse.io/bitgo/jobs/8540208002",
+   "https://boards.greenhouse.io/bitgo/jobs/8534682002",
+   "https://boards.greenhouse.io/bitgo/jobs/8534695002",
+   "https://boards.greenhouse.io/bitgo/jobs/8534706002",
+   "https://boards.greenhouse.io/bitgo/jobs/8527761002",
+   "https://boards.greenhouse.io/bitgo/jobs/8523899002",
+   "https://boards.greenhouse.io/bitgo/jobs/8523894002",
+   "https://boards.greenhouse.io/bitgo/jobs/8523889002",
+   "https://boards.greenhouse.io/bitgo/jobs/8436572002",
+   "https://boards.greenhouse.io/bitgo/jobs/8350266002",
+   "https://boards.greenhouse.io/bitgo/jobs/8340883002",
+   "https://boards.greenhouse.io/bitgo/jobs/8340907002",
+   "https://boards.greenhouse.io/bitgo/jobs/8341050002",
+   "https://boards.greenhouse.io/bitgo/jobs/8341097002",
+   "https://boards.greenhouse.io/bitgo/jobs/8158666002",
+   "https://boards.greenhouse.io/bitgo/jobs/7907250002",
+   "https://boards.greenhouse.io/bitgo/jobs/7821447002",
+   "https://boards.greenhouse.io/bitgo/jobs/7429337002",
+   "https://boards.greenhouse.io/bitgo/jobs/7307107002"
+  ]
+ },
+ {
+  "slug": "bitwave",
+  "name": "Bitwave",
+  "description": "Bitwave is the #1 digital asset finance platform for enterprise.\n\nBitwave automates accounting workflows, enables regulatory compliance, reduces tax burden complexity, streamlines payments, and unifies data with a modern, connected platform.\n\nFrom high-volume crypto accounting to enterprise tax tracking, audit-ready bookkeeping, and advanced DeFi monitoring, Bitwave delivers the most comprehensive solution for mitigating digital asset complexity.",
+  "website": "http://bitwave.io",
+  "domain": "bitwave.io",
+  "founded": "2018",
+  "employees": 45,
+  "stage": "series_a",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Accounting",
+   "Blockchain",
+   "Cryptocurrency",
+   "Financial Services",
+   "Information Technology",
+   "Software",
+   "Software Development"
+  ],
+  "locations": [
+   "San Francisco, CA, USA"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/bitwaveplatform",
+    "https://www.linkedin.com/company/18880656"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/bitwave-163d"
+   ],
+   "twitter": [
+    "https://twitter.com/bitwaveplatform"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/54c67e77-eefd-4b5b-aab1-c9ba0bd154d0-1762134243",
+  "active_jobs": 3,
+  "ats_job_links": [
+   "https://bitwave.breezy.hr/p/2ed37b21bf06-product-manager-payments",
+   "https://bitwave.breezy.hr/p/005bd6449c55-sales-development-representative-sdr",
+   "https://bitwave.breezy.hr/p/2971c85555c5-consultant-solutions-implementation"
+  ]
+ },
+ {
+  "slug": "bitwise-asset-management-2",
+  "name": "Bitwise Asset Management",
+  "description": "Bitwise is a crypto-specialist asset manager for individuals, investment managers, and institutions navigating cryptocurrency. The company offers a suite of 32 investment solutions, including yield and alpha strategies, multi-strategy solutions, separately managed accounts, on-chain staking, index funds, Bitcoin ETPs, and more. By serving as a specialist partner, it enables clients to access the opportunities that meet their objectives.",
+  "website": "http://bitwiseinvestments.com",
+  "domain": "bitwiseinvestments.com",
+  "founded": "2017",
+  "employees": 108,
+  "stage": "series_unknown",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Blockchain",
+   "Cryptocurrency",
+   "Financial Services",
+   "Software"
+  ],
+  "locations": [
+   "San Francisco, CA, USA"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/bitwise-asset-management",
+    "https://www.linkedin.com/company/18275282"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/bitwise-asset-management"
+   ],
+   "facebook": [
+    "https://www.facebook.com/bitwiseinvestments"
+   ],
+   "twitter": [
+    "https://twitter.com/bitwiseinvest"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/c8785aa7-e3a0-4025-8aec-b45e53f327c8-1761644530",
+  "active_jobs": 1,
+  "ats_job_links": [
+   "https://ats.rippling.com/bitwise-asset-management-inc/jobs/4e63ee71-7c92-44ba-9e1c-14b79ba896d0"
+  ]
+ },
+ {
+  "slug": "blockchain-capital-2",
+  "name": "Blockchain Capital",
+  "description": "7Blockchain Venture Capital is a leading venture firm in the Blockchain.",
+  "website": "http://blockchain.capital",
+  "domain": "blockchain.capital",
+  "founded": "2015",
+  "employees": 40,
+  "stage": "other",
+  "org_type": "private",
+  "biz_models": [
+   "B2B"
+  ],
+  "industry_tags": [
+   "Venture Capital"
+  ],
+  "locations": [
+   "San Francisco, CA, USA"
+  ],
+  "topics": [],
+  "socials": {
+   "angellist": [
+    "https://angel.co/blockchain-capital"
+   ],
+   "linkedin": [
+    "https://www.linkedin.com/company/crypto-currency-partners-lp"
+   ],
+   "twitter": [
+    "https://twitter.com/blockchaincap"
+   ],
+   "facebook": [
+    "https://www.facebook.com/blockchaincapital/"
+   ],
+   "crunchbase": [
+    "https://www.crunchbase.com/organization/7blockchain-venture-capital"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/1d2da2fc-2c34-4c2f-a100-091e1b4c9c41-1768095467",
+  "active_jobs": 4,
+  "ats_job_links": [
+   "https://jobs.blockchaincapital.com/companies/blockchain-capital-2/jobs/82145421-marketing-producer",
+   "https://jobs.blockchaincapital.com/companies/blockchain-capital-2/jobs/56345831-research-scholar-2026",
+   "https://jobs.blockchaincapital.com/companies/blockchain-capital-2/jobs/27926758-legal-research-scholar",
+   "https://jobs.blockchaincapital.com/companies/blockchain-capital-2/jobs/26020530-engineering-scholar-spring-or-summer-2024"
+  ]
+ },
+ {
+  "slug": "blockcypher",
+  "name": "BlockCypher",
+  "description": "BlockCypher is a cloud-optimized platform powering blockchain applications reliably and at scale. BlockCypher's web services are blockchain agnostic and greatly reduce the complexity of building applications that run on multiple blockchains. Easily build, run, and future-proof blockchain applications on BlockCypher's infrastructure.",
+  "website": "http://blockcypher.com",
+  "domain": "blockcypher.com",
+  "founded": "2014",
+  "employees": 3,
+  "stage": "seed",
+  "org_type": "private",
+  "biz_models": [
+   "B2B"
+  ],
+  "industry_tags": [
+   "Bitcoin",
+   "Cloud Infrastructure",
+   "Software"
+  ],
+  "locations": [
+   "North America",
+   "Redwood City, CA, USA",
+   "Redwood Shores, Redwood City, CA, USA"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/blockcypher"
+   ],
+   "facebook": [
+    "https://facebook.com/blockcypher"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/blockcypher"
+   ],
+   "twitter": [
+    "https://twitter.com/blockcypher"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/d95a89dc-833e-4eb4-95b8-bb8309da512e-1761644541",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "blocknative",
+  "name": "Blocknative",
+  "description": "Blocknative is a provider of real-time blockchain transaction management and monitoring solutions for public blockchain networks. It was founded in 2018 and is based in San Francisco, California.",
+  "website": "http://blocknative.com",
+  "domain": "blocknative.com",
+  "founded": "2018",
+  "employees": 15,
+  "stage": "acquisition",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Bitcoin",
+   "Blockchain",
+   "Decentralized Finance (DeFi)",
+   "Ethereum",
+   "Software Development"
+  ],
+  "locations": [
+   "San Francisco, CA, USA",
+   "Tiburon, CA, USA"
+  ],
+  "topics": [],
+  "socials": {
+   "instagram": [
+    "instagram.com/blocknative"
+   ],
+   "linkedin": [
+    "https://www.linkedin.com/company/blocknative",
+    "https://www.linkedin.com/company/18884475"
+   ],
+   "facebook": [
+    "https://facebook.com/blocknative"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/blocknative"
+   ],
+   "twitter": [
+    "https://twitter.com/blocknative"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/20a1fb78-bef1-4357-a223-155788720c72-1762220529",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "blockstream",
+  "name": "Blockstream",
+  "description": "Blockstream is a blockchain technology supplier that has remained at the forefront of cryptography and distributed system research. Their products and services form the foundation for the financial infrastructure of the future. Blockstream offers a range of key products and services designed to enhance Bitcoin and blockchain functionality. Notable offerings include Blockstream Satellite, which broadcasts the Bitcoin blockchain via satellite for users without internet access, and the Liquid Network, a sidechain solution that enables faster and more confidential transactions. Their Green Wallet is a non-custodial Bitcoin wallet focused on security and user control. Additionally, Blockstream provides blockchain APIs for developers to integrate blockchain functionalities into their applications, along with solutions for efficient Bitcoin mining operations. They also focus on cryptographic proofs to enhance privacy and security in transactions. Together, these products aim to improve the usability and capabilities of Bitcoin and blockchain technologies.",
+  "website": "http://blockstream.com",
+  "domain": "blockstream.com",
+  "founded": "2014",
+  "employees": 102,
+  "stage": "other",
+  "org_type": "private",
+  "biz_models": [
+   "B2B",
+   "SaaS"
+  ],
+  "industry_tags": [
+   "Bitcoin",
+   "Blockchain",
+   "Cryptocurrency",
+   "Finance",
+   "Financial Services",
+   "Fintech",
+   "Software Development"
+  ],
+  "locations": [
+   "Montreal, QC, Canada",
+   "Montr\u00e9al, QC, Canada",
+   "Victoria, BC, Canada"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/blockstream",
+    "https://www.linkedin.com/company/3998145"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/blockstream"
+   ],
+   "twitter": [
+    "https://twitter.com/blockstream"
+   ],
+   "facebook": [
+    "https://www.facebook.com/blockstream"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/7d51b5fd-19e2-457e-9967-870286a34467-1761644645",
+  "active_jobs": 47,
+  "ats_job_links": [
+   "https://jobs.ashbyhq.com/blockstream/ecf017c0-17ea-4a04-8307-7655eaf56747",
+   "https://jobs.ashbyhq.com/blockstream/cb945f6b-3a37-4e15-bc9c-5291c40afcbf",
+   "https://jobs.ashbyhq.com/blockstream/8d562d06-9708-4a5c-b74a-d6e672b8f308",
+   "https://jobs.ashbyhq.com/blockstream/7e39cb0c-e155-4c32-b8b8-c76225ff07ee",
+   "https://jobs.ashbyhq.com/blockstream/5dc8fec2-3a59-4a5b-9ad7-f44bcd1163a4",
+   "https://jobs.ashbyhq.com/blockstream/980ed194-3751-4c20-9a56-ed2b9a9980d2",
+   "https://jobs.ashbyhq.com/blockstream/24bb168a-97ca-49b2-abbd-a1c8bc3c6f61",
+   "https://jobs.ashbyhq.com/blockstream/baa41536-1408-412a-8c4c-0055434717e6",
+   "https://jobs.ashbyhq.com/blockstream/a25901c4-5037-4d2c-a668-fdc3970cf532",
+   "https://jobs.ashbyhq.com/blockstream/b2d86bc3-6b4f-44e1-bf52-345039443a85",
+   "https://jobs.ashbyhq.com/blockstream/85ac7901-01c0-4658-b653-613cc179c5ee",
+   "https://jobs.ashbyhq.com/blockstream/c67b714f-7b9c-49c2-aa32-57b5a8a848d8",
+   "https://jobs.ashbyhq.com/blockstream/5d2d7b16-9f47-4242-9082-6b8ab246f3c1",
+   "https://jobs.ashbyhq.com/blockstream/db997f96-5bb3-4597-a841-9273ab664d78",
+   "https://jobs.ashbyhq.com/blockstream/0e424cde-0508-4112-ab4a-258a377ecb92",
+   "https://jobs.ashbyhq.com/blockstream/d8729269-f174-47d4-9c71-6d2c0f175f2e",
+   "https://jobs.ashbyhq.com/blockstream/2f728cbd-1164-48af-b9fe-4d4665d209df",
+   "https://jobs.ashbyhq.com/blockstream/d3bb6783-13d8-494d-9f31-1cc8d3403f0a",
+   "https://jobs.ashbyhq.com/blockstream/643e12ae-dced-46aa-bdb9-c91ee58a1353",
+   "https://jobs.ashbyhq.com/blockstream/92804594-5d60-44ed-8154-6b8d87229fc7",
+   "https://jobs.ashbyhq.com/blockstream/c9b689fc-cb3a-41c3-a465-11169d251326",
+   "https://jobs.ashbyhq.com/blockstream/702c6c65-c38d-4c80-98e9-a4e42afddc1b",
+   "https://jobs.ashbyhq.com/blockstream/ae985166-e11f-4fee-a16f-08dfaff338a0",
+   "https://jobs.ashbyhq.com/blockstream/7b3cd68e-331a-4b4f-8bed-02e1354e9197",
+   "https://jobs.ashbyhq.com/blockstream/a9070dfb-2176-496f-980b-5e93db52d112",
+   "https://jobs.ashbyhq.com/blockstream/29626548-52fd-40d8-a279-4f4f3bd51df9",
+   "https://jobs.ashbyhq.com/blockstream/4b0ce32c-7523-4954-ab07-80d7eb40a67f",
+   "https://jobs.ashbyhq.com/blockstream/4cf529b6-ea59-46b0-a95d-7e2afbd5d02e",
+   "https://jobs.ashbyhq.com/blockstream/79276e4f-68df-422e-b4ec-97924730321a",
+   "https://jobs.ashbyhq.com/blockstream/72a34e96-3b47-4604-a581-96d32fc81aba",
+   "https://jobs.ashbyhq.com/blockstream/a00b13e2-2ca5-4aee-84a5-172fba5b5328",
+   "https://jobs.ashbyhq.com/blockstream/4bd6e458-a98f-4f3d-8c0e-a50e4735e32f",
+   "https://jobs.ashbyhq.com/blockstream/bcfdff58-0439-4f96-89fd-8ce81a1ce153",
+   "https://jobs.ashbyhq.com/blockstream/e01609d4-4668-4a1b-b4e4-a040ffcbd02f",
+   "https://jobs.ashbyhq.com/blockstream/a1656305-da57-49a6-aa51-65c6a1a71205",
+   "https://jobs.ashbyhq.com/blockstream/680e9db3-5516-4dc2-993b-0909f32596b3",
+   "https://jobs.ashbyhq.com/blockstream/b2435948-a325-49a7-bada-010c23f9c156",
+   "https://jobs.ashbyhq.com/blockstream/4cb84e26-e733-48c6-9abd-0076fe5fb982",
+   "https://jobs.ashbyhq.com/blockstream/a8c50ba9-5dbf-46c2-9a44-fd69628b269c",
+   "https://jobs.ashbyhq.com/blockstream/5944eb5a-4d26-459d-9de9-d8ba5f12cd62",
+   "https://jobs.ashbyhq.com/blockstream/b6b26925-b078-4012-9138-963a5c75d9aa",
+   "https://jobs.ashbyhq.com/blockstream/8237b5c4-d59f-42bc-a016-4ac2b81c6ca5",
+   "https://jobs.ashbyhq.com/blockstream/910e6c3e-2323-43b2-b67c-1325f54e1a98",
+   "https://jobs.ashbyhq.com/blockstream/5c28d417-ea14-40b5-a615-5d51c4f0d3a3",
+   "https://jobs.ashbyhq.com/blockstream/5da66738-0b81-4015-b3c7-c0326a8ffc76",
+   "https://jobs.ashbyhq.com/blockstream/6d5c33ed-e473-4e1f-a19e-cde337d66eaa",
+   "https://jobs.ashbyhq.com/blockstream/e91bb200-dcfe-4fbc-99c2-971d9bebf06a"
+  ]
+ },
+ {
+  "slug": "bolt-inc",
+  "name": "Bolt Inc",
+  "description": "Bolt is on a mission to democratize commerce. Bolt strengthens retailers\u2019 relationships with their customers by unlocking secure, logged-in, lightning-fast checkouts. The company\u2019s rapidly growing network of one-click-checkout-ready shoppers visits Bolt merchants as if they are return customers. Hundreds of retailers including REVOLVE, Casper, Badgley Mischka, and LVMH brand Benefit Cosmetics leverage Bolt to offer their shoppers the seamless checkout experiences they\u2019ve come to expect across the internet.\n\nBolt was established in 2014 and is headquartered in San Francisco, California.",
+  "website": "http://bolt.com",
+  "domain": "bolt.com",
+  "founded": "2014",
+  "employees": 1000,
+  "stage": "series_c",
+  "org_type": "private",
+  "biz_models": [
+   "B2C"
+  ],
+  "industry_tags": [
+   "E-Commerce",
+   "Fraud Detection",
+   "Mobile Payments",
+   "Payments",
+   "Software Development"
+  ],
+  "locations": [
+   "San Francisco, CA, USA"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/bolt-com",
+    "https://www.linkedin.com/company/4795130"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/bolt-5"
+   ],
+   "facebook": [
+    "https://facebook.com/boltpay"
+   ],
+   "twitter": [
+    "https://twitter.com/bolt"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/9f48e9fd-7565-4f06-8164-bad87c340dca-1762134383",
+  "active_jobs": 2,
+  "ats_job_links": [
+   "https://workhq.com/companies/bolt-com/jobs/onboarding-specialist-11947",
+   "https://workhq.com/companies/bolt-com/jobs/senior-mobile-engineer-12046"
+  ]
+ },
+ {
+  "slug": "boto-2",
+  "name": "Boto",
+  "description": "Boto is a no-code automation platform where developers and non-developers can create and share their automation. The platform was founded in 2021 and is based in Delaware City, USA.",
+  "website": "http://boto.io",
+  "domain": "boto.io",
+  "founded": "2021",
+  "employees": 10,
+  "stage": "seed",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Blockchain",
+   "Internet",
+   "Technology, Information and Internet"
+  ],
+  "locations": [
+   "Delaware City, DE, USA",
+   "Lewes, DE, USA"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/botoio",
+    "https://www.linkedin.com/company/73258776",
+    "https://www.linkedin.com/company/botoapp",
+    "https://www.linkedin.com/company/boto-education"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/boto"
+   ],
+   "twitter": [
+    "https://twitter.com/useboto"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/b0b637a8-6605-437a-9578-d813cb7fbfd1-1761096166",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "btcc",
+  "name": "BTCC",
+  "description": "Founded in June 2011, BTCC is a cryptocurrency exchange based in London, UK, dedicated to making crypto trading reliable and accessible to everyone. Over the past 11 years, BTCC has provided safe trading services with top-notch technology through the ups and downs of many market cycles.\n\nAs the world's longest-running cryptocurrency exchange, BTCC has always put a strong emphasis on improving every aspect of trading, striving to create a fair trading atmosphere and to make trading accessible to everyone.",
+  "website": "http://btcc.com",
+  "domain": "btcc.com",
+  "founded": "2011",
+  "employees": 116,
+  "stage": "series_unknown",
+  "org_type": "private",
+  "biz_models": [
+   "B2B",
+   "B2C"
+  ],
+  "industry_tags": [
+   "Bitcoin",
+   "Blockchain",
+   "Finance",
+   "Financial Services",
+   "Fintech",
+   "Payments"
+  ],
+  "locations": [
+   "Cayman Islands",
+   "England, UK",
+   "Kingston Vale, London SW15, UK",
+   "London, UK",
+   "North Rhine-Westphalia, Germany",
+   "Shanghai, China",
+   "United Kingdom",
+   "hong kong"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/yourbtcc",
+    "https://www.linkedin.com/company/3374843"
+   ],
+   "facebook": [
+    "https://www.facebook.com/yourbtcc"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/btcc"
+   ],
+   "twitter": [
+    "https://twitter.com/yourbtcc"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/402e8144-87d5-4388-8e09-6bb80c97d280-1760751526",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "button-2-243a7b79-e422-467b-aaac-a4f963bbb6f7",
+  "name": "Button",
+  "description": "Button makes it easy to do more with your Bitcoin.",
+  "website": "http://button.xyz",
+  "domain": "button.xyz",
+  "founded": "2025",
+  "employees": 3,
+  "stage": "seed",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Blockchain",
+   "Cryptocurrency"
+  ],
+  "locations": [
+   "San Francisco, CA, USA"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/button-labs"
+   ],
+   "crunchbase": [
+    "https://www.crunchbase.com/organization/button-5715"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/e99d47f2-f87a-4631-91f6-90fbf387c73b-1765708379",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "catapult-2-2a9422f8-2346-407c-af71-d55a21dedad7",
+  "name": "Catapult",
+  "description": "Personalised AI that deeply understands you, your work, and all its context.",
+  "website": "http://catapult.xyz",
+  "domain": "catapult.xyz",
+  "founded": "2021",
+  "employees": 3,
+  "stage": "seed",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Generative AI",
+   "Productivity Tools",
+   "Software",
+   "Software Development"
+  ],
+  "locations": [
+   "Kingston Vale, London SW15, UK",
+   "London, UK",
+   "Mile End, London, UK"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/catapultlabs",
+    "https://www.linkedin.com/company/77607186"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/catapult-d4ef"
+   ],
+   "twitter": [
+    "https://twitter.com/getcatapult"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/beffde43-5c41-49d0-89a1-9b54b40d5c82-1768700495",
+  "active_jobs": 5,
+  "ats_job_links": [
+   "https://www.catapult.xyz/careers/open-application.html",
+   "mailto:founders@catapultlabs.xyz?subject=Candidate%20referral",
+   "https://www.catapult.xyz/careers/founding-operator-chief-of-staff.html",
+   "https://www.catapult.xyz/careers/founding-engineer.html",
+   "https://www.catapult.xyz/careers/founding-ai-research-engineer.html"
+  ]
+ },
+ {
+  "slug": "celestia-labs-2",
+  "name": "Celestia Labs",
+  "description": "Celestia is a modular blockchain network provider that deploys a decentralized blockchain without the overhead of bootstrapping a new consensus network. Its platform offers a scalable general-purpose data availability layer for decentralized applications and trust-minimized sidechains, allowing application builders to optimize efficient data storage and collectively store block data.\n\nThe company was founded in 2019 and is based in Vaduz, Liechtenstein.",
+  "website": "http://celestia.org",
+  "domain": "celestia.org",
+  "founded": "2019",
+  "employees": 50,
+  "stage": "series_b",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Blockchain",
+   "Cryptocurrency",
+   "Information Technology"
+  ],
+  "locations": [
+   "9490 Vaduz, Liechtenstein"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/celestiaorg"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/lazyledger"
+   ],
+   "twitter": [
+    "https://twitter.com/celestiaorg"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/0e7eeeb7-23d8-485d-9bbc-4c0b9fc423cb-1760260826",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "chainflip",
+  "name": "Chainflip",
+  "description": "Chainflip is a decentralised cross-chain swapping protocol to trustlessly trade assets between chains with ultra-low slippage.",
+  "website": "http://chainflip.io",
+  "domain": "chainflip.io",
+  "founded": "2020",
+  "employees": 26,
+  "stage": "series_unknown",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Blockchain",
+   "Software",
+   "Software Development"
+  ],
+  "locations": [
+   "Berlin, Germany"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/chainflip",
+    "https://www.linkedin.com/company/71039424"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/chainflip"
+   ],
+   "twitter": [
+    "https://twitter.com/chainflip"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/d9f3bb63-2bc4-4bcd-ad98-35f0706af61f-1763602838",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "circle",
+  "name": "Circle",
+  "description": "Circle is a financial technology company that develops and manages digital currencies and blockchain-based financial infrastructure. It issues USD Coin (USDC) and Euro Coin (EURC), both fully backed stablecoins designed for global payments and digital transactions. \n\nCircle's platform supports businesses in integrating stablecoins into their operations, including cross-border payments and financial applications.",
+  "website": "http://circle.com",
+  "domain": "circle.com",
+  "founded": "2013",
+  "employees": 1100,
+  "stage": "ipo",
+  "org_type": "public",
+  "biz_models": [
+   "B2B",
+   "B2B2C"
+  ],
+  "industry_tags": [
+   "Banking",
+   "Blockchain",
+   "Cryptocurrency",
+   "Financial Services",
+   "Fintech",
+   "Payments",
+   "Venture Capital"
+  ],
+  "locations": [
+   "Boston, MA, USA",
+   "Dublin, Ireland",
+   "New York, NY, USA",
+   "North America",
+   "Union Square, New York, NY, USA",
+   "United States",
+   "West Street / River Street, Boston, MA, USA"
+  ],
+  "topics": [],
+  "socials": {
+   "instagram": [
+    "instagram.com/teamcircle"
+   ],
+   "linkedin": [
+    "https://www.linkedin.com/company/circle-internet-financial",
+    "https://www.linkedin.com/company/3509899"
+   ],
+   "facebook": [
+    "https://facebook.com/circlebits"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/circle-2"
+   ],
+   "twitter": [
+    "https://twitter.com/circle"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/142aa0b4-87aa-48d1-bbca-27a53e3a5bbb-1762134350",
+  "active_jobs": 50,
+  "ats_job_links": [
+   "https://careers.circle.com/us/en/job/JR101148",
+   "https://careers.circle.com/us/en/job/JR101147",
+   "https://careers.circle.com/us/en/job/JR101141",
+   "https://careers.circle.com/us/en/job/JR101140",
+   "https://careers.circle.com/us/en/job/JR101128",
+   "https://careers.circle.com/us/en/job/JR101129",
+   "https://careers.circle.com/us/en/job/JR101126",
+   "https://careers.circle.com/us/en/job/JR101125",
+   "https://careers.circle.com/us/en/job/JR101099",
+   "https://careers.circle.com/us/en/job/JR101123",
+   "https://careers.circle.com/us/en/job/JR101100",
+   "https://careers.circle.com/us/en/job/JR101117",
+   "https://careers.circle.com/us/en/job/JR101120",
+   "https://careers.circle.com/us/en/job/JR101119",
+   "https://careers.circle.com/us/en/job/JR101116",
+   "https://careers.circle.com/us/en/job/JR101118",
+   "https://careers.circle.com/us/en/job/JR101115",
+   "https://careers.circle.com/us/en/job/JR101114",
+   "https://careers.circle.com/us/en/job/JR101103",
+   "https://careers.circle.com/us/en/job/JR101098",
+   "https://careers.circle.com/us/en/job/JR101016",
+   "https://careers.circle.com/us/en/job/JR101101",
+   "https://careers.circle.com/us/en/job/JR101089",
+   "https://careers.circle.com/us/en/job/JR101097",
+   "https://careers.circle.com/us/en/job/JR100650",
+   "https://careers.circle.com/us/en/job/JR100591",
+   "https://careers.circle.com/us/en/job/JR101073",
+   "https://careers.circle.com/us/en/job/JR101077",
+   "https://careers.circle.com/us/en/job/JR101078",
+   "https://careers.circle.com/us/en/job/JR101069",
+   "https://careers.circle.com/us/en/job/JR101071",
+   "https://careers.circle.com/us/en/job/JR101068",
+   "https://careers.circle.com/us/en/job/JR101067",
+   "https://careers.circle.com/us/en/job/JR100970",
+   "https://careers.circle.com/us/en/job/JR101051",
+   "https://careers.circle.com/us/en/job/JR101045",
+   "https://careers.circle.com/us/en/job/JR101031",
+   "https://careers.circle.com/us/en/job/JR101014",
+   "https://careers.circle.com/us/en/job/JR100964",
+   "https://careers.circle.com/us/en/job/JR100975",
+   "https://careers.circle.com/us/en/job/JR100878",
+   "https://careers.circle.com/us/en/job/JR100931",
+   "https://careers.circle.com/us/en/job/JR100881",
+   "https://careers.circle.com/us/en/job/JR100477",
+   "https://careers.circle.com/us/en/job/JR100015-EG",
+   "https://careers.circle.com/us/en/job/JR100895",
+   "https://careers.circle.com/us/en/job/JR100765",
+   "https://careers.circle.com/us/en/job/JR100849",
+   "https://careers.circle.com/us/en/job/JR100476",
+   "https://careers.circle.com/us/en/job/JR100882"
+  ]
+ },
+ {
+  "slug": "civic-2",
+  "name": "Civic",
+  "description": "Civic is a blockchain-based ecosystem that gives businesses and individuals the tools to control and protect identities. They believe identity should be convenient, safe, and secure, and put users in control. Civic allows people to control the use of their identity information. They use cutting-edge identity verification technology to secure and protect personal information transfer. Having conducted a successful token sale in June 2017, they set their sights on building Identity.com, an open-source, first-of-its-kind marketplace for identity verification services built on the blockchain. They are a team spanning five countries with one common goal: to revolutionize identity.",
+  "website": "http://civic.com",
+  "domain": "civic.com",
+  "founded": "2015",
+  "employees": 37,
+  "stage": "series_unknown",
+  "org_type": "private",
+  "biz_models": [
+   "B2C"
+  ],
+  "industry_tags": [
+   "Blockchain",
+   "Identity Management"
+  ],
+  "locations": [
+   "Remote",
+   "San Francisco, CA, USA"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/civic-technologies",
+    "https://www.linkedin.com/company/7595700"
+   ],
+   "twitter": [
+    "https://x.com/civickey"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/civic"
+   ],
+   "facebook": [
+    "https://facebook.com/civictechnologiesinc"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/81b88be5-f522-4cf1-b179-56681bc84c99-1761644647",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "coinbase",
+  "name": "Coinbase",
+  "description": "Coinbase is an online platform for digital currency transactions, enabling merchants, consumers, and traders to buy, sell, and store cryptocurrencies. The company provides Bitcoin wallet services, allowing users to manage digital assets and conduct transactions. Coinbase offers merchant payment processing tools, supporting businesses in integrating cryptocurrency payments. It facilitates secure digital currency exchanges, assisting users in navigating blockchain-based financial transactions.",
+  "website": "http://coinbase.com",
+  "domain": "coinbase.com",
+  "founded": "2012",
+  "employees": 3772,
+  "stage": "ipo",
+  "org_type": "public",
+  "biz_models": [
+   "B2B",
+   "B2C"
+  ],
+  "industry_tags": [
+   "Bitcoin",
+   "Blockchain",
+   "Cryptocurrency",
+   "Financial Services",
+   "Fintech",
+   "Payments",
+   "Trading Platform"
+  ],
+  "locations": [
+   "Berlin, Germany",
+   "Dublin, Ireland",
+   "London, UK",
+   "Manila, Philippines",
+   "New York, NY, USA",
+   "Portland, OR, USA",
+   "Redwood City, CA, USA",
+   "San Francisco, CA, USA",
+   "Singapore",
+   "Tokyo, Japan",
+   "Wilmington, DE, USA",
+   "Wilmington, NC, USA"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/coinbase",
+    "https://www.linkedin.com/company/2857634"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/coinbase"
+   ],
+   "twitter": [
+    "https://twitter.com/coinbase"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/b6e4e919-a7aa-4c87-9045-88899c951faf-1762134364",
+  "active_jobs": 218,
+  "ats_job_links": [
+   "https://boards.greenhouse.io/coinbase/jobs/8221241",
+   "https://boards.greenhouse.io/coinbase/jobs/8222259",
+   "https://boards.greenhouse.io/coinbase/jobs/8222267",
+   "https://boards.greenhouse.io/coinbase/jobs/8221985",
+   "https://boards.greenhouse.io/coinbase/jobs/8222264",
+   "https://boards.greenhouse.io/coinbase/jobs/8221238",
+   "https://boards.greenhouse.io/coinbase/jobs/8211490",
+   "https://boards.greenhouse.io/coinbase/jobs/8211486",
+   "https://boards.greenhouse.io/coinbase/jobs/8209803",
+   "https://boards.greenhouse.io/coinbase/jobs/8206668",
+   "https://boards.greenhouse.io/coinbase/jobs/8051513",
+   "https://boards.greenhouse.io/coinbase/jobs/8147700",
+   "https://boards.greenhouse.io/coinbase/jobs/8192485",
+   "https://boards.greenhouse.io/coinbase/jobs/8207374",
+   "https://boards.greenhouse.io/coinbase/jobs/8204571",
+   "https://boards.greenhouse.io/coinbase/jobs/8147696",
+   "https://boards.greenhouse.io/coinbase/jobs/8197831",
+   "https://boards.greenhouse.io/coinbase/jobs/8097444",
+   "https://boards.greenhouse.io/coinbase/jobs/8198059",
+   "https://boards.greenhouse.io/coinbase/jobs/8198065",
+   "https://boards.greenhouse.io/coinbase/jobs/7151562",
+   "https://boards.greenhouse.io/coinbase/jobs/8160097",
+   "https://boards.greenhouse.io/coinbase/jobs/7964398",
+   "https://boards.greenhouse.io/coinbase/jobs/7724777",
+   "https://boards.greenhouse.io/coinbase/jobs/8155366",
+   "https://boards.greenhouse.io/coinbase/jobs/7991839",
+   "https://boards.greenhouse.io/coinbase/jobs/8094196",
+   "https://boards.greenhouse.io/coinbase/jobs/8172100",
+   "https://boards.greenhouse.io/coinbase/jobs/8147663",
+   "https://boards.greenhouse.io/coinbase/jobs/8175435",
+   "https://boards.greenhouse.io/coinbase/jobs/8175360",
+   "https://boards.greenhouse.io/coinbase/jobs/8168315",
+   "https://boards.greenhouse.io/coinbase/jobs/8177946",
+   "https://boards.greenhouse.io/coinbase/jobs/8175453",
+   "https://boards.greenhouse.io/coinbase/jobs/8175339",
+   "https://boards.greenhouse.io/coinbase/jobs/8175504",
+   "https://boards.greenhouse.io/coinbase/jobs/8175507",
+   "https://boards.greenhouse.io/coinbase/jobs/8187551",
+   "https://boards.greenhouse.io/coinbase/jobs/8186586",
+   "https://boards.greenhouse.io/coinbase/jobs/8175447",
+   "https://boards.greenhouse.io/coinbase/jobs/8175517",
+   "https://boards.greenhouse.io/coinbase/jobs/8175432",
+   "https://boards.greenhouse.io/coinbase/jobs/8175514",
+   "https://boards.greenhouse.io/coinbase/jobs/8175441",
+   "https://boards.greenhouse.io/coinbase/jobs/8175438",
+   "https://boards.greenhouse.io/coinbase/jobs/8175462",
+   "https://boards.greenhouse.io/coinbase/jobs/8175429",
+   "https://boards.greenhouse.io/coinbase/jobs/8175569",
+   "https://boards.greenhouse.io/coinbase/jobs/8168322",
+   "https://boards.greenhouse.io/coinbase/jobs/8175366",
+   "https://boards.greenhouse.io/coinbase/jobs/8175369",
+   "https://boards.greenhouse.io/coinbase/jobs/8175459",
+   "https://boards.greenhouse.io/coinbase/jobs/8173991",
+   "https://boards.greenhouse.io/coinbase/jobs/8175471",
+   "https://boards.greenhouse.io/coinbase/jobs/8175363",
+   "https://boards.greenhouse.io/coinbase/jobs/8179210",
+   "https://boards.greenhouse.io/coinbase/jobs/8179214",
+   "https://boards.greenhouse.io/coinbase/jobs/8180833",
+   "https://boards.greenhouse.io/coinbase/jobs/8179311",
+   "https://boards.greenhouse.io/coinbase/jobs/8174949",
+   "https://boards.greenhouse.io/coinbase/jobs/8177619",
+   "https://boards.greenhouse.io/coinbase/jobs/8154342",
+   "https://boards.greenhouse.io/coinbase/jobs/8179114",
+   "https://boards.greenhouse.io/coinbase/jobs/8170956",
+   "https://boards.greenhouse.io/coinbase/jobs/8168175",
+   "https://boards.greenhouse.io/coinbase/jobs/8162237",
+   "https://boards.greenhouse.io/coinbase/jobs/8162240",
+   "https://boards.greenhouse.io/coinbase/jobs/8167571",
+   "https://boards.greenhouse.io/coinbase/jobs/8167666",
+   "https://boards.greenhouse.io/coinbase/jobs/8166218",
+   "https://boards.greenhouse.io/coinbase/jobs/8165441",
+   "https://boards.greenhouse.io/coinbase/jobs/8165389",
+   "https://boards.greenhouse.io/coinbase/jobs/8165015",
+   "https://boards.greenhouse.io/coinbase/jobs/8164730",
+   "https://boards.greenhouse.io/coinbase/jobs/8154270",
+   "https://boards.greenhouse.io/coinbase/jobs/8164862",
+   "https://boards.greenhouse.io/coinbase/jobs/8162914",
+   "https://boards.greenhouse.io/coinbase/jobs/8162911",
+   "https://boards.greenhouse.io/coinbase/jobs/8160557",
+   "https://boards.greenhouse.io/coinbase/jobs/8142975",
+   "https://boards.greenhouse.io/coinbase/jobs/8160771",
+   "https://boards.greenhouse.io/coinbase/jobs/8154856",
+   "https://boards.greenhouse.io/coinbase/jobs/8157661",
+   "https://boards.greenhouse.io/coinbase/jobs/8152576",
+   "https://boards.greenhouse.io/coinbase/jobs/8154983",
+   "https://boards.greenhouse.io/coinbase/jobs/8154987",
+   "https://boards.greenhouse.io/coinbase/jobs/8144776",
+   "https://boards.greenhouse.io/coinbase/jobs/8148248",
+   "https://boards.greenhouse.io/coinbase/jobs/8146039",
+   "https://boards.greenhouse.io/coinbase/jobs/8148171",
+   "https://boards.greenhouse.io/coinbase/jobs/8147917",
+   "https://boards.greenhouse.io/coinbase/jobs/8144772",
+   "https://boards.greenhouse.io/coinbase/jobs/8144836",
+   "https://boards.greenhouse.io/coinbase/jobs/8144769",
+   "https://boards.greenhouse.io/coinbase/jobs/8105437",
+   "https://boards.greenhouse.io/coinbase/jobs/8103569",
+   "https://boards.greenhouse.io/coinbase/jobs/8138031",
+   "https://boards.greenhouse.io/coinbase/jobs/8131356",
+   "https://boards.greenhouse.io/coinbase/jobs/8131316",
+   "https://boards.greenhouse.io/coinbase/jobs/8129321",
+   "https://boards.greenhouse.io/coinbase/jobs/8126484",
+   "https://boards.greenhouse.io/coinbase/jobs/8126896",
+   "https://boards.greenhouse.io/coinbase/jobs/8122777",
+   "https://boards.greenhouse.io/coinbase/jobs/8124224",
+   "https://boards.greenhouse.io/coinbase/jobs/8077090",
+   "https://boards.greenhouse.io/coinbase/jobs/8114474",
+   "https://boards.greenhouse.io/coinbase/jobs/8114877",
+   "https://boards.greenhouse.io/coinbase/jobs/8114684",
+   "https://boards.greenhouse.io/coinbase/jobs/8106071",
+   "https://boards.greenhouse.io/coinbase/jobs/8064788",
+   "https://boards.greenhouse.io/coinbase/jobs/8104873",
+   "https://boards.greenhouse.io/coinbase/jobs/8099099",
+   "https://boards.greenhouse.io/coinbase/jobs/8110496",
+   "https://boards.greenhouse.io/coinbase/jobs/8089161",
+   "https://boards.greenhouse.io/coinbase/jobs/8100066",
+   "https://boards.greenhouse.io/coinbase/jobs/8096720",
+   "https://boards.greenhouse.io/coinbase/jobs/7985187",
+   "https://boards.greenhouse.io/coinbase/jobs/8096740",
+   "https://boards.greenhouse.io/coinbase/jobs/8095252",
+   "https://boards.greenhouse.io/coinbase/jobs/8097944",
+   "https://boards.greenhouse.io/coinbase/jobs/8097292",
+   "https://boards.greenhouse.io/coinbase/jobs/8095207",
+   "https://boards.greenhouse.io/coinbase/jobs/8088201",
+   "https://boards.greenhouse.io/coinbase/jobs/8093264",
+   "https://boards.greenhouse.io/coinbase/jobs/8092651",
+   "https://boards.greenhouse.io/coinbase/jobs/8083758",
+   "https://boards.greenhouse.io/coinbase/jobs/8082829",
+   "https://boards.greenhouse.io/coinbase/jobs/8084049",
+   "https://boards.greenhouse.io/coinbase/jobs/8082199",
+   "https://boards.greenhouse.io/coinbase/jobs/8072932",
+   "https://boards.greenhouse.io/coinbase/jobs/8080028",
+   "https://boards.greenhouse.io/coinbase/jobs/8013948",
+   "https://boards.greenhouse.io/coinbase/jobs/8013892",
+   "https://boards.greenhouse.io/coinbase/jobs/7964410",
+   "https://boards.greenhouse.io/coinbase/jobs/6784618",
+   "https://boards.greenhouse.io/coinbase/jobs/7773776",
+   "https://boards.greenhouse.io/coinbase/jobs/8047657",
+   "https://boards.greenhouse.io/coinbase/jobs/8054153",
+   "https://boards.greenhouse.io/coinbase/jobs/8021650",
+   "https://boards.greenhouse.io/coinbase/jobs/7991691",
+   "https://boards.greenhouse.io/coinbase/jobs/8053751",
+   "https://boards.greenhouse.io/coinbase/jobs/7891045",
+   "https://boards.greenhouse.io/coinbase/jobs/8014564",
+   "https://boards.greenhouse.io/coinbase/jobs/8024814",
+   "https://boards.greenhouse.io/coinbase/jobs/8056065",
+   "https://boards.greenhouse.io/coinbase/jobs/8003605",
+   "https://boards.greenhouse.io/coinbase/jobs/8060884",
+   "https://boards.greenhouse.io/coinbase/jobs/8060842",
+   "https://boards.greenhouse.io/coinbase/jobs/8056068",
+   "https://boards.greenhouse.io/coinbase/jobs/8017697",
+   "https://boards.greenhouse.io/coinbase/jobs/7366208",
+   "https://boards.greenhouse.io/coinbase/jobs/8029035",
+   "https://boards.greenhouse.io/coinbase/jobs/7930686",
+   "https://boards.greenhouse.io/coinbase/jobs/7961318",
+   "https://boards.greenhouse.io/coinbase/jobs/8021647",
+   "https://boards.greenhouse.io/coinbase/jobs/7847431",
+   "https://boards.greenhouse.io/coinbase/jobs/7997926",
+   "https://boards.greenhouse.io/coinbase/jobs/8031208",
+   "https://boards.greenhouse.io/coinbase/jobs/7948222",
+   "https://boards.greenhouse.io/coinbase/jobs/8023815",
+   "https://boards.greenhouse.io/coinbase/jobs/8030591",
+   "https://boards.greenhouse.io/coinbase/jobs/7739592",
+   "https://boards.greenhouse.io/coinbase/jobs/8008569",
+   "https://boards.greenhouse.io/coinbase/jobs/7994338",
+   "https://boards.greenhouse.io/coinbase/jobs/8009392",
+   "https://boards.greenhouse.io/coinbase/jobs/8054055",
+   "https://boards.greenhouse.io/coinbase/jobs/8060577",
+   "https://boards.greenhouse.io/coinbase/jobs/8069582",
+   "https://boards.greenhouse.io/coinbase/jobs/8052192",
+   "https://boards.greenhouse.io/coinbase/jobs/8049976",
+   "https://boards.greenhouse.io/coinbase/jobs/8030686",
+   "https://boards.greenhouse.io/coinbase/jobs/8050322",
+   "https://boards.greenhouse.io/coinbase/jobs/7982771",
+   "https://boards.greenhouse.io/coinbase/jobs/7984814",
+   "https://boards.greenhouse.io/coinbase/jobs/8013951",
+   "https://boards.greenhouse.io/coinbase/jobs/8013718",
+   "https://boards.greenhouse.io/coinbase/jobs/8069671",
+   "https://boards.greenhouse.io/coinbase/jobs/8001778",
+   "https://boards.greenhouse.io/coinbase/jobs/8072054",
+   "https://boards.greenhouse.io/coinbase/jobs/8031260",
+   "https://boards.greenhouse.io/coinbase/jobs/7993445",
+   "https://boards.greenhouse.io/coinbase/jobs/7997879",
+   "https://boards.greenhouse.io/coinbase/jobs/8060662",
+   "https://boards.greenhouse.io/coinbase/jobs/7701642",
+   "https://boards.greenhouse.io/coinbase/jobs/7997785",
+   "https://boards.greenhouse.io/coinbase/jobs/8017607",
+   "https://boards.greenhouse.io/coinbase/jobs/8070046",
+   "https://boards.greenhouse.io/coinbase/jobs/8031253",
+   "https://boards.greenhouse.io/coinbase/jobs/8030594",
+   "https://boards.greenhouse.io/coinbase/jobs/7994498",
+   "https://boards.greenhouse.io/coinbase/jobs/8031308",
+   "https://boards.greenhouse.io/coinbase/jobs/8064692",
+   "https://boards.greenhouse.io/coinbase/jobs/7994501",
+   "https://boards.greenhouse.io/coinbase/jobs/7980600",
+   "https://boards.greenhouse.io/coinbase/jobs/8013889",
+   "https://boards.greenhouse.io/coinbase/jobs/8070386",
+   "https://boards.greenhouse.io/coinbase/jobs/8024880",
+   "https://boards.greenhouse.io/coinbase/jobs/7875558",
+   "https://boards.greenhouse.io/coinbase/jobs/7866674",
+   "https://boards.greenhouse.io/coinbase/jobs/7746572",
+   "https://boards.greenhouse.io/coinbase/jobs/7822885",
+   "https://boards.greenhouse.io/coinbase/jobs/7812407",
+   "https://boards.greenhouse.io/coinbase/jobs/7774051",
+   "https://boards.greenhouse.io/coinbase/jobs/7755116",
+   "https://boards.greenhouse.io/coinbase/jobs/7741187",
+   "https://boards.greenhouse.io/coinbase/jobs/7711287",
+   "https://boards.greenhouse.io/coinbase/jobs/7652048",
+   "https://boards.greenhouse.io/coinbase/jobs/7684298",
+   "https://boards.greenhouse.io/coinbase/jobs/7304930",
+   "https://boards.greenhouse.io/coinbase/jobs/7629141",
+   "https://boards.greenhouse.io/coinbase/jobs/7611263",
+   "https://boards.greenhouse.io/coinbase/jobs/7606826",
+   "https://boards.greenhouse.io/coinbase/jobs/7602261",
+   "https://boards.greenhouse.io/coinbase/jobs/7572514",
+   "https://boards.greenhouse.io/coinbase/jobs/7580292",
+   "https://boards.greenhouse.io/coinbase/jobs/7532645",
+   "https://boards.greenhouse.io/coinbase/jobs/7483221",
+   "https://boards.greenhouse.io/coinbase/jobs/7286062"
+  ]
+ },
+ {
+  "slug": "coinlist",
+  "name": "CoinList",
+  "description": "CoinList's mission is to help builders launch and grow innovative digital assets, expand access for early adopters, and be the most trusted brand in digital finance. We're the global leader in new token issuance, helping blue chip projects like Filecoin, Solana, Near, Algorand, Ondo, and others connect with millions of new token holders. We support the full lifecycle of crypto investment, from token sales through distribution, trading, lending, staking, and access to decentralized-finance opportunities. CoinList users trade and store Bitcoin, Ether, and many other popular crypto assets through our full-service trading products on mobile and CoinList.co, while also getting access to the best new tokens before they list on other exchanges. Our customers include validators, miners, founders, CEOs, crypto funds, Bitcoin OGs, as well as a broad array of crypto enthusiasts.",
+  "website": "http://coinlist.co",
+  "domain": "coinlist.co",
+  "founded": "2017",
+  "employees": 81,
+  "stage": "series_unknown",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Blockchain",
+   "Cryptocurrency",
+   "Finance",
+   "Financial Services",
+   "Fintech",
+   "Software Development"
+  ],
+  "locations": [
+   "San Francisco, CA, USA"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/coinlist",
+    "https://www.linkedin.com/company/11170966"
+   ],
+   "twitter": [
+    "https://twitter.com/coinlist"
+   ],
+   "facebook": [
+    "https://facebook.com/coinlist-449788835387692"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/coinlist"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/bceb57ee-d2b6-46ab-b151-5bcdd7474fed-1763516381",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "cow-dao",
+  "name": "CoW DAO",
+  "description": "Developer of a decentralized finance platform designed to leverage batch auctions to find prices. The company's platform offers the optimal price across aggregators or Automated Market Makers depending on the liquid venue within a batch, enabling traders to cut out the middleman and save money.",
+  "website": "http://cow.fi",
+  "domain": "cow.fi",
+  "founded": "2022",
+  "employees": 26,
+  "stage": "ipo",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [],
+  "locations": [
+   "Lisbon, Portugal"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/cow-protocol",
+    "https://www.linkedin.com/company/84843706",
+    "https://www.linkedin.com/company/cowdao"
+   ],
+   "twitter": [
+    "https://twitter.com/MEVprotection"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/695115fc-c7d2-4ec4-bf65-b81b6ef40d4f-1766713068",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "custodia-bank",
+  "name": "Custodia Bank",
+  "description": "Custodia Bank is an operator of a crypto-asset banking company that focuses on providing regulated services for digital assets. Its services act as a compliant bridge to the US Dollar payments system and a custodian of digital assets that can meet strict levels of institutional custody standards, providing customers with banking services for the digital assets industry.",
+  "website": "http://custodiabank.com",
+  "domain": "custodiabank.com",
+  "founded": "2020",
+  "employees": 18,
+  "stage": "series_a",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Banking",
+   "Finance",
+   "Financial Services"
+  ],
+  "locations": [
+   "Cheyenne, WY, USA"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/custodiabank",
+    "https://www.linkedin.com/company/64855523"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/avanti-financial-group"
+   ],
+   "twitter": [
+    "https://twitter.com/custodiabank"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/fa22529b-ecfe-4b9b-8901-e896247a4167-1769132597",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "eigenlayer",
+  "name": "EigenLayer",
+  "description": "EigenLayer enables Ethereum restaking for shared security, supporting verifiable apps, AVSs, and offchain compute with the EIGEN token.",
+  "website": "http://eigenlayer.com",
+  "domain": "eigenlayer.com",
+  "founded": "2021",
+  "employees": 118,
+  "stage": "other",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Apps",
+   "Blockchain",
+   "Information Technology",
+   "Software"
+  ],
+  "locations": [
+   "Redmond, WA, USA",
+   "University of Washington, Seattle, WA, USA",
+   "Washington, DC, USA"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/eigenl",
+    "https://www.linkedin.com/company/eigenlabsorg"
+   ],
+   "twitter": [
+    "https://twitter.com/eigenlayer"
+   ],
+   "crunchbase": [
+    "https://www.crunchbase.com/organization/eigen-cloud"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/bba0b6d0-c73b-4f39-a679-6f98c6a42454-1762479577",
+  "active_jobs": 1,
+  "ats_job_links": [
+   "https://jobs.ashbyhq.com/eigen-labs/2f08d719-09b3-493e-ae9e-f3eba2ade188"
+  ]
+ },
+ {
+  "slug": "energy-web-foundation-2",
+  "name": "Energy Web Foundation",
+  "description": "Energy Web Foundation (EWF) is a global nonprofit unleashing blockchain\u2019s potential in the energy sector. With offices in Switzerland, Germany, and the United States, they\u2019ve assembled a stellar team of experienced energy and blockchain professionals to achieve their vision.\n\nBlockchain technology applied in the energy sector has the potential to reduce transaction costs, enhance data security and transparency, open markets to a larger number of active participants (consumers and devices), and accelerate the transition towards a digitalized, decarbonized, decentralized, democratized, and resilient energy system.",
+  "website": "http://energyweb.org",
+  "domain": "energyweb.org",
+  "founded": "2017",
+  "employees": 32,
+  "stage": "undisclosed",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Blockchain",
+   "Information Technology",
+   "Renewables & Environment"
+  ],
+  "locations": [
+   "Berlin, Germany",
+   "Canton of Zug, Switzerland",
+   "Zug, Switzerland"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/energy-web-foundation",
+    "https://www.linkedin.com/company/16207344",
+    "https://www.linkedin.com/company/energywebx"
+   ],
+   "crunchbase": [
+    "https://www.crunchbase.com/organization/energy-web-foundation"
+   ],
+   "twitter": [
+    "https://twitter.com/energywebx"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/6e9d0fd6-b7a8-4a78-9e26-e2332a825cb2-1762220530",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "espresso-systems",
+  "name": "Espresso Systems",
+  "description": "Espresso Systems is the lead developer of the Espresso Network: a blockchain base layer designed to host applications that demand speed, security, and high degrees of customizability. Espresso's breakthrough speed enables cross-platform transactions to happen in real-time, so any application on Espresso can work with all others instantly and benefit from the liquidity of the entire network. Espresso works with leading on-chain applications including Offchain Labs (developers of Arbitrum), Celo, and Apechain (BAYC). Espresso Systems is backed by over $50 million of capital from Andreessen Horowitz, Sequoia Capital, Greylock Partners, Coinbase Ventures, and more.",
+  "website": "http://espressosys.com",
+  "domain": "espressosys.com",
+  "founded": "2020",
+  "employees": 40,
+  "stage": "series_b",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Blockchain",
+   "Cryptocurrency",
+   "Developer Tools",
+   "Financial Services",
+   "Software Development",
+   "Web Apps"
+  ],
+  "locations": [
+   "Menlo Park, CA, USA",
+   "New York, NY, USA"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/espresso-sys",
+    "https://www.linkedin.com/company/79159372"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/espresso-systems"
+   ],
+   "twitter": [
+    "https://twitter.com/EspressoSys"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/ef2424a0-6c18-4525-9e7f-2ceb3583d343-1766626530",
+  "active_jobs": 5,
+  "ats_job_links": [
+   "https://jobs.lever.co/Espresso/5f227f28-8a32-4ed9-87a9-442ea1adb2ff",
+   "https://jobs.lever.co/Espresso/dc4e1aa6-b93b-4d1d-adbb-4163ccb23bb7",
+   "https://jobs.lever.co/Espresso/135f4767-f690-41f8-9ab0-95fd9d398677",
+   "https://jobs.lever.co/Espresso/928cd4da-e76d-4d6a-ba58-fba57e6ae81a",
+   "https://jobs.lever.co/Espresso/bf359a02-5579-4d8b-a254-23c989f67af5"
+  ]
+ },
+ {
+  "slug": "forta-protocol",
+  "name": "Forta Protocol",
+  "description": "Forta is a neat project that comes at an interesting point for the larger blockchain community. When Bitcoin came to market, it attracted interest as a potential medium of exchange, or perhaps a store of value. The latter use case wound up being the key Bitcoin value offering. But while Bitcoin was maturing, other blockchains were built that featured more native programmability, allowing developers around the world to leverage smart (self-executing) contracts for a host of use cases.",
+  "website": "http://forta.org",
+  "domain": "forta.org",
+  "founded": "2021",
+  "employees": 9,
+  "stage": "undisclosed",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Blockchain",
+   "Computer and Network Security",
+   "Cryptocurrency",
+   "Smart Contracts"
+  ],
+  "locations": [
+   "Bodden Town, Cayman Islands",
+   "Walnut, CA, USA"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/fortafoundation",
+    "https://www.linkedin.com/company/75072325"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/forta-protocol"
+   ],
+   "twitter": [
+    "https://twitter.com/fortanetwork"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/66dedd41-48cd-4800-a3f5-6281c0bb9f8b-1763775640",
+  "active_jobs": 1,
+  "ats_job_links": [
+   "https://jobs.forta-report.com/jobs/backend-developer"
+  ]
+ },
+ {
+  "slug": "fuel-labs",
+  "name": "Fuel Labs",
+  "description": "Fuel Labs is a global decentralized group of passionate developers building the future of blockchain scalability technology. As the leader in blockchain scaling innovation, its engineers created the Optimistic Rollup design paradigm and have contributed to advancing the frontier of rollup, blockchain virtual machine, and safe smart contract programming language research.",
+  "website": "http://fuel.network",
+  "domain": "fuel.network",
+  "founded": "2019",
+  "employees": 49,
+  "stage": "seed",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Blockchain",
+   "Cryptocurrency",
+   "Ethereum",
+   "Software Development"
+  ],
+  "locations": [
+   "Cayman Islands",
+   "Toronto, ON, Canada",
+   "Vancouver, BC, Canada"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/fuel-labs",
+    "https://www.linkedin.com/company/71667745"
+   ],
+   "twitter": [
+    "https://twitter.com/fuellabs_"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/fuel-labs"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/3bacfe23-ce0f-4318-9c67-7fa507ea2017-1763170434",
+  "active_jobs": 1,
+  "ats_job_links": [
+   "https://jobs.lever.co/fuellabs/17b28ec2-97ee-4912-876d-0c42c85e90c2"
+  ]
+ },
+ {
+  "slug": "gameplay-galaxy",
+  "name": "Gameplay Galaxy",
+  "description": "Gameplay Galaxy is building the first Web3 competitive games decentralized ecosystem.",
+  "website": "http://gameplaygalaxy.com",
+  "domain": "gameplaygalaxy.com",
+  "founded": "2022",
+  "employees": 49,
+  "stage": "seed",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Blockchain",
+   "Computer Games",
+   "Gaming",
+   "Web3"
+  ],
+  "locations": [
+   "San Francisco, CA, USA"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/gameplay-galaxy",
+    "https://www.linkedin.com/company/85869623"
+   ],
+   "twitter": [
+    "https://twitter.com/trialxtreme"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/gameplay-galaxy"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/645a9bf1-802d-407e-b555-c346712b123a-1761269496",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "gnosis",
+  "name": "Gnosis",
+  "description": "In late 2020, Gnosis announced plans to fully decentralize into a DAO (Decentralized Autonomous Organization). Today, the GnosisDAO treasury has effective control of over 150K ETH and 8 million GNO tokens, with the GNO tokens vested over 8 years. A year later, in 2021, the xDAI and GnosisDAO communities voted to combine their vibrant ecosystems to create the Gnosis Chain: an Ethereum forerunner companion that addresses scaling issues through solid engineering. Gnosis Chain is the associated execution-layer EVM chain for stable transactions. It uses the xDai token and includes a wide-ranging group of projects and users. The Gnosis mission has always been centered on experimentation and building decentralized infrastructure for the Ethereum ecosystem. When Gnosis was founded in 2015, it focused on building prediction markets to enable worldwide access to accurate information. While creating the prediction market platform, it became clear that Gnosis needed to build the infrastructure required to support it. As a DAO, Gnosis uses the products that it creates to transparently guide decisions on the development, support, and governance of its ecosystem. Gnosis Safe (multisig and programmable account), Cow Protocol (formerly CowSwap and Gnosis Protocol), Conditional Tokens (prediction markets), Gnosis Auction, and Zodiac (standard and tooling for composable DAOs) are all products incubated by Gnosis. Their success is demonstrated by the recent spin-out of Cow Protocol and the formation of SafeDAO. By combining needs-driven development with deep technical expertise, Gnosis has built the decentralized infrastructure for the Ethereum ecosystem.",
+  "website": "http://gnosis.pm",
+  "domain": "gnosis.pm",
+  "founded": "2017",
+  "employees": 141,
+  "stage": "series_unknown",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Blockchain",
+   "Ethereum",
+   "FinTech",
+   "Prediction Markets",
+   "Web3"
+  ],
+  "locations": [
+   "Alexandria, VA, USA",
+   "Berlin, Germany",
+   "Gibraltar",
+   "Gibraltar, MI, USA"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/gnosis-limited",
+    "https://www.linkedin.com/company/18098361"
+   ],
+   "twitter": [
+    "https://twitter.com/gnosischain"
+   ],
+   "facebook": [
+    "https://facebook.com/gnosis.pm"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/gnosis"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/13c099b3-7842-4948-be57-9e918c8b8c12-1761615590",
+  "active_jobs": 3,
+  "ats_job_links": [
+   "https://gnosis.jobs.personio.com/job/2196740",
+   "https://gnosis.jobs.personio.com/job/2723818",
+   "https://gnosis.jobs.personio.com/job/815654"
+  ]
+ },
+ {
+  "slug": "hello-moon",
+  "name": "Hello Moon",
+  "description": "Hello Moon is a Solana developer platform that helps companies engage directly with on-chain data at Solana speeds. Our real-time data feeds cover the entire blockchain, which includes (but not limited to) all DeFi, NFT, and transfer events.",
+  "website": "http://hellomoon.io",
+  "domain": "hellomoon.io",
+  "founded": "2021",
+  "employees": 7,
+  "stage": "series_a",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Blockchain",
+   "Blockchain Services",
+   "Developer APIs",
+   "Developer Platform"
+  ],
+  "locations": [
+   "Canal Street, New York, NY, USA",
+   "New York, NY, USA",
+   "Union Square, New York, NY, USA"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/hellomoon-io",
+    "https://www.linkedin.com/company/89860299"
+   ],
+   "twitter": [
+    "https://twitter.com/hellomoon_io"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/hello-moon"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/6446de4c-e583-4b96-8ddd-0de5c9c2aae3-1763602600",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "high fidelity",
+  "name": "High Fidelity",
+  "error": "InvalidURL",
+  "ats_job_links": [
+   "https://www.highfidelity.com/careers/full-stack-engineer-1#apply",
+   "https://www.highfidelity.com/careers/full-stack-engineer-1"
+  ]
+ },
+ {
+  "slug": "koodos",
+  "name": "koodos",
+  "description": "Building and enabling agentic cultural products.",
+  "website": "http://koodos.com",
+  "domain": "koodos.com",
+  "founded": "2020",
+  "employees": 9,
+  "stage": "seed",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Artificial Intelligence (AI)",
+   "Data Integration",
+   "Data Storage",
+   "Developer Tools",
+   "Internet",
+   "Media & Entertainment",
+   "Personalization",
+   "Search Engine",
+   "Social Network"
+  ],
+  "locations": [
+   "Boston, MA, USA",
+   "New York, NY, USA",
+   "Union Square, New York, NY, USA",
+   "United States"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/koodos-inc",
+    "https://www.linkedin.com/company/67489952"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/koodos"
+   ],
+   "twitter": [
+    "https://twitter.com/koodos"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/43c0f2e8-e7e0-46d2-8663-ac0adad8e1ab-1760837679",
+  "active_jobs": 6,
+  "ats_job_links": [
+   "https://koodos.notion.site/p/Product-Operations-Lead-350c87335a4e80fbb39be6289bb83822",
+   "https://koodos.notion.site/p/Android-Craft-Engineer-Part-time-3bfc87335a4e8142ab98fbbf86f6d40a",
+   "https://koodos.notion.site/p/Product-Engineer-Full-stack-86f74d467efc41cfafa71acadbbece8f",
+   "https://koodos.notion.site/p/iOS-Craft-Engineer-Part-time-350c87335a4e800e8e23dc4ce38f8807",
+   "https://koodos.notion.site/p/Product-Engineer-Backend-1e5c87335a4e8091a3c2dffdd6b1db30",
+   "https://app.notion.com/p/8f4c18d6e46a4d41ab75147486f286de"
+  ]
+ },
+ {
+  "slug": "kraken",
+  "name": "Kraken",
+  "description": "Kraken is a digital asset exchange and related services provider that enables users to buy, sell, trade, stake, and store cryptocurrencies. It offers spot trading, futures, margin trading indexes, over-the-counter (OTC) execution, and a multi-chain wallet. Kraken supports a large number of cryptocurrencies and fiat currency pairs, and it provides tools for both retail users and institutional clients. It also offers advanced order types, real-time market data, account management services, and resources for learning about blockchain and digital assets.",
+  "website": "http://kraken.com",
+  "domain": "kraken.com",
+  "founded": "2011",
+  "employees": 599,
+  "stage": "other",
+  "org_type": "private",
+  "biz_models": [
+   "B2C"
+  ],
+  "industry_tags": [
+   "Bitcoin",
+   "Blockchain",
+   "Cryptocurrency",
+   "Ethereum",
+   "Financial Services",
+   "Fintech",
+   "Trading Platform"
+  ],
+  "locations": [
+   "Cheyenne, WY, USA",
+   "Halifax, NS, Canada",
+   "London, UK",
+   "Milan, Italy",
+   "Road Town, British Virgin Islands",
+   "San Francisco, CA, USA",
+   "Tokyo, Japan",
+   "United States"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/kraken-exchange",
+    "https://www.linkedin.com/company/3787845",
+    "https://www.linkedin.com/company/krakenfx"
+   ],
+   "facebook": [
+    "https://facebook.com/krakenfx"
+   ],
+   "twitter": [
+    "https://twitter.com/krakenfx"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/kraken"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/93a9809c-c56d-5a4a-b397-9500a794cc57-1746495613",
+  "active_jobs": 74,
+  "ats_job_links": [
+   "https://jobs.ashbyhq.com/kraken.com/f46831c1-c5dd-49a9-8592-41104ff98135",
+   "https://jobs.ashbyhq.com/kraken.com/e9216c05-7dfd-4d3d-b12e-801e52330bc8",
+   "https://jobs.ashbyhq.com/kraken.com/fb3139f2-9b13-4015-891c-37ca713c750f",
+   "https://jobs.ashbyhq.com/kraken.com/95771a6e-726d-4ee0-9775-92fd30ae9250",
+   "https://jobs.ashbyhq.com/kraken.com/54d595d9-61b9-4446-9713-1378d3714d36",
+   "https://jobs.ashbyhq.com/kraken.com/a40a998a-acfd-403d-8de9-0d4365030503",
+   "https://jobs.ashbyhq.com/kraken.com/7d6a3e1a-79ef-4bd5-a759-7bd6f9628e9e",
+   "https://jobs.ashbyhq.com/kraken.com/29f6d54a-03ee-4b57-b904-1e9e8b4bf1e2",
+   "https://jobs.ashbyhq.com/kraken.com/7f964c54-9883-4eff-975d-c4a3fa4478eb",
+   "https://jobs.ashbyhq.com/kraken.com/e781688a-34b4-4b74-a817-f689cbddb1b7",
+   "https://jobs.ashbyhq.com/kraken.com/d7e00f01-4b21-4953-8b2f-1ec1bec71a24",
+   "https://jobs.ashbyhq.com/kraken.com/e901ac3b-e145-41a9-a153-149c248a56a2",
+   "https://jobs.ashbyhq.com/kraken.com/dd464e3e-314b-435d-9c89-a9c7dccbe60c",
+   "https://jobs.ashbyhq.com/kraken.com/b2a32764-7b75-4c6d-a45a-58b7af0887ad",
+   "https://jobs.ashbyhq.com/kraken.com/a57239a3-e778-42b4-ae71-42c63514e821",
+   "https://jobs.ashbyhq.com/kraken.com/1f69c4b7-95d2-49b5-951c-e5ef49dcc465",
+   "https://jobs.ashbyhq.com/kraken.com/4997f952-affa-4e24-b506-98b1f4e5c81d",
+   "https://jobs.ashbyhq.com/kraken.com/9d32b3a2-7067-46b8-bb0e-6232d2d9a068",
+   "https://jobs.ashbyhq.com/kraken.com/d6cace31-d78d-4c41-abbe-99bb686f7548",
+   "https://jobs.ashbyhq.com/kraken.com/12536327-88c4-487e-8913-865b15d9f8c7",
+   "https://jobs.ashbyhq.com/kraken.com/1b362f4d-ded1-4a05-9ee3-01a46ba41667",
+   "https://jobs.ashbyhq.com/kraken.com/9124b8bd-7eb5-43b8-8725-046a361ddc52",
+   "https://jobs.ashbyhq.com/kraken.com/c24d8abf-14ae-4bd5-ae30-8bd78c81184a",
+   "https://jobs.ashbyhq.com/kraken.com/1f1281c9-f952-40c8-a861-8b0efe1cbd11",
+   "https://jobs.ashbyhq.com/kraken.com/db6d1b59-ef61-4ce1-aea6-9553b21252bb",
+   "https://jobs.ashbyhq.com/kraken.com/73ac21d7-93c1-4158-8600-8e41f7e9322b",
+   "https://jobs.ashbyhq.com/kraken.com/d8fd9d2b-4ffb-4e90-b10e-c14d01c6cb92",
+   "https://jobs.ashbyhq.com/kraken.com/da8b1179-9caa-464c-8eee-395132814f91",
+   "https://jobs.ashbyhq.com/kraken.com/a2d5cf5d-2cc7-478c-aed8-bff95fac3798",
+   "https://jobs.ashbyhq.com/kraken.com/7f207719-d4ea-4767-b8c3-305882c3c0bf",
+   "https://jobs.ashbyhq.com/kraken.com/1a8a2f9a-ecb9-49c5-b628-e7444e43abfa",
+   "https://jobs.ashbyhq.com/kraken.com/2ea95678-fe02-4fb6-b85c-b25d8cba46b8",
+   "https://jobs.ashbyhq.com/kraken.com/c6a90178-82d7-414e-ad74-69496b44d3c4",
+   "https://jobs.ashbyhq.com/kraken.com/4c9cafd3-0ff5-4497-aa85-4fcc4945247a",
+   "https://jobs.ashbyhq.com/kraken.com/0c61b28e-65c3-40dc-ac5a-ccdbb140f0be",
+   "https://jobs.ashbyhq.com/kraken.com/c6298ed5-978b-49ea-8cec-ce90f275d540",
+   "https://jobs.ashbyhq.com/kraken.com/24cb6a23-0ac4-4198-baf0-d8099067300d",
+   "https://jobs.ashbyhq.com/kraken.com/1dee0b1f-cac4-4697-b35e-d7aa41d9731d",
+   "https://jobs.ashbyhq.com/kraken.com/4301156e-90cf-4f10-b54d-d1c305fe21f6",
+   "https://jobs.ashbyhq.com/kraken.com/e71e1c0b-166c-4acf-9269-b9ab79aee686",
+   "https://jobs.ashbyhq.com/kraken.com/506de4d6-4f93-4db6-89c0-8539edbae4ae",
+   "https://jobs.ashbyhq.com/kraken.com/2e598500-2cc6-4273-ba4c-69f5ed457bb7",
+   "https://jobs.ashbyhq.com/kraken.com/2710a15d-db61-48da-bd21-1a87f7e676fb",
+   "https://jobs.ashbyhq.com/kraken.com/00d30138-3f9e-4db8-aff0-47fec63080e2",
+   "https://jobs.ashbyhq.com/kraken.com/dd4d734a-cbcb-4407-9a4b-702fcee1bf85",
+   "https://jobs.ashbyhq.com/kraken.com/d9d53a94-8f74-49b3-9e16-8c6b3672b995",
+   "https://jobs.ashbyhq.com/kraken.com/54aeb348-c734-402d-915e-d7ae858084bf",
+   "https://jobs.ashbyhq.com/kraken.com/042f0568-49a6-4c25-b7a2-c578844b1e2f",
+   "https://jobs.ashbyhq.com/kraken.com/397cb2c1-c989-4050-8507-81d2e0fae360",
+   "https://jobs.ashbyhq.com/kraken.com/9bed0f03-5126-483c-a76b-b1d28ee22e60",
+   "https://jobs.ashbyhq.com/kraken.com/12cfb620-37ee-44ca-ad33-7220e99c58e9",
+   "https://jobs.ashbyhq.com/kraken.com/355b5a4d-1357-4b9a-9652-611dd9b4c3e7",
+   "https://jobs.ashbyhq.com/kraken.com/1413fc03-3fa8-4c94-ada6-648c9eef63bd",
+   "https://jobs.ashbyhq.com/kraken.com/940d5ad5-6e11-4343-b9a1-9dfff51d1119",
+   "https://jobs.ashbyhq.com/kraken.com/74d7ec35-bbb2-43c5-822a-b0e8b33b0027",
+   "https://jobs.ashbyhq.com/kraken.com/fce7be7d-3181-428b-b043-9790bb88eeb9",
+   "https://jobs.ashbyhq.com/kraken.com/c6948e7c-1cc2-4c3d-be7f-84cb833e6536",
+   "https://jobs.ashbyhq.com/kraken.com/bbc59e3b-f26c-445e-b566-e45b20ef555e",
+   "https://jobs.ashbyhq.com/kraken.com/7265ed54-fc8a-470f-be56-3f06c0c8a9f0",
+   "https://jobs.ashbyhq.com/kraken.com/2bb8eb65-0d23-4371-a45d-0cd7c17bb602",
+   "https://jobs.ashbyhq.com/kraken.com/7788c9a6-235c-467b-9e3a-cb69c5700e7d",
+   "https://jobs.ashbyhq.com/kraken.com/37abda0c-ef4d-4bbe-9fb4-e6cb64c1acbe",
+   "https://jobs.ashbyhq.com/kraken.com/06dfb995-23dd-42c4-ba37-635563c64146",
+   "https://jobs.ashbyhq.com/kraken.com/d6d4cda0-81c5-4b88-9af5-f3bc1d48e1bc",
+   "https://jobs.ashbyhq.com/kraken.com/acf80ca2-7073-49aa-ab4a-7064f852d94f",
+   "https://jobs.ashbyhq.com/kraken.com/e6e0fb41-a760-4a71-93f8-1fe5e8dab7a4",
+   "https://jobs.ashbyhq.com/kraken.com/8ac64ec9-ea3f-4ce7-9dba-6bfdd9b6d6ce",
+   "https://jobs.ashbyhq.com/kraken.com/2bad131b-78ad-4266-8c18-7b035a11937d",
+   "https://jobs.ashbyhq.com/kraken.com/ad27e3b9-35ce-4f61-81c8-21cd136340b2",
+   "https://jobs.ashbyhq.com/kraken.com/055adaf0-a15b-40f3-89ab-dc5ab4fa719e",
+   "https://jobs.ashbyhq.com/kraken.com/cf14a771-0586-41de-b379-fe301c3c8120",
+   "https://jobs.ashbyhq.com/kraken.com/3e769962-edad-47c1-898a-662208902b1c",
+   "https://jobs.ashbyhq.com/kraken.com/95b0206c-8168-49d5-8e6c-e0c5ff885cf6",
+   "https://jobs.ashbyhq.com/kraken.com/c0d90cde-96ab-455a-b613-16b2f395e683"
+  ]
+ },
+ {
+  "slug": "lens-labs",
+  "name": "Lens Labs",
+  "description": "Lens Protocol is a composable and decentralized social network serving the Web3 community. It enables creators to build their own Web3 social media platforms and accounts, giving them control over their connections with their communities and also ownership over their content.",
+  "website": "http://lens.xyz",
+  "domain": "lens.xyz",
+  "founded": "2022",
+  "employees": 133,
+  "stage": "series_unknown",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Apps",
+   "Data Integration",
+   "Social Network",
+   "Web3"
+  ],
+  "locations": [
+   "George Town, Cayman Islands",
+   "Venice, FL, USA"
+  ],
+  "topics": [],
+  "socials": {
+   "twitter": [
+    "twitter.com/lensprotocol",
+    "https://x.com/LC"
+   ],
+   "linkedin": [
+    "https://www.linkedin.com/company/avaraxyz",
+    "https://www.linkedin.com/company/lens-chain"
+   ],
+   "crunchbase": [
+    "https://www.crunchbase.com/organization/lens-protocol"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/9daf21d1-e845-4e1f-838c-32c61c6c66d6-1762682323",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "matter-labs",
+  "name": "Matter Labs",
+  "description": "Matter Labs develops scaling solutions for Ethereum to make blockchain transactions faster, cheaper, and more efficient. Its main technology is zkSync, a Layer-2 protocol that uses zero-knowledge rollups to process many transactions off-chain while maintaining Ethereum-level security. The company was founded in 2018 with its head office in Berlin, Germany.",
+  "website": "http://matter-labs.io",
+  "domain": "matter-labs.io",
+  "founded": "2018",
+  "employees": 92,
+  "stage": "ico",
+  "org_type": "private",
+  "biz_models": [
+   "B2B",
+   "Open Source"
+  ],
+  "industry_tags": [
+   "Blockchain",
+   "Ethereum",
+   "Internet",
+   "Software"
+  ],
+  "locations": [
+   "Berlin, Germany",
+   "George Town, Cayman Islands",
+   "Germany"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/matterlabs",
+    "https://www.linkedin.com/company/77279407"
+   ],
+   "twitter": [
+    "https://twitter.com/the_matter_labs"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/matter-labs"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/5b51e614-0a20-46bb-84a9-4b18924cc257-1760578373",
+  "active_jobs": 5,
+  "ats_job_links": [
+   "https://jobs.ashbyhq.com/matter-labs/6fa4f013-5321-4f8d-88ff-9d89ac7b9d5b",
+   "https://jobs.ashbyhq.com/matter-labs/a7b55498-adf4-43d4-a1b6-0c97c8794d76",
+   "https://jobs.ashbyhq.com/matter-labs/363590d9-552e-455a-9663-124a2990a3ea",
+   "https://jobs.ashbyhq.com/matter-labs/161344b7-b086-483b-af0e-3c57f0b07c4b",
+   "https://jobs.ashbyhq.com/matter-labs/88bb1928-7417-4119-8933-a9caafd9b636"
+  ]
+ },
+ {
+  "slug": "messari",
+  "name": "Messari",
+  "description": "Messari is the leading provider of market intelligence products that help professionals navigate crypto with confidence. For individuals and institutions alike, Messari combines deep analysis, data, news, and powerful tools to improve industry transparency and drive smarter participation in crypto. Learn more at messari.io.",
+  "website": "http://messari.io",
+  "domain": "messari.io",
+  "founded": "2018",
+  "employees": 113,
+  "stage": "acquisition",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Analytics",
+   "Bitcoin",
+   "Blockchain",
+   "Cryptocurrency",
+   "Software Development",
+   "Web3"
+  ],
+  "locations": [
+   "New York, NY, USA",
+   "Union Square, New York, NY, USA"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/messari",
+    "https://www.linkedin.com/company/27450766"
+   ],
+   "facebook": [
+    "https://facebook.com/messaricryptodata"
+   ],
+   "twitter": [
+    "https://twitter.com/messaricrypto"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/messari"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/b3581487-dd43-4183-9e99-828b34f9876a-1761875247",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "nervos-network",
+  "name": "Nervos Network",
+  "description": "The Nervos Network is an open source public blockchain ecosystem and collection of protocols solving the biggest challenges facing blockchains today.\n\nThe Nervos CKB (Common Knowledge Base) is the Layer 1, proof of work public blockchain protocol of the Nervos Network. Any crypto-asset can be stored, with the security, immutability and permissionless nature of Bitcoin, while enabling smart contracts, Layer 2 scaling, and the capture of total network value through a unique crypto-economic \"store of value\" design and native token, the CKByte.\n\nThe design of the Nervos Network is a sustainably secure, permissionless and decentralized Layer 1 blockchain that is built to scale with Layer 2 solutions, making Nervos the only PoW, multi-asset, store of value, smart contract platform.",
+  "website": "http://nervos.org",
+  "domain": "nervos.org",
+  "founded": "2018",
+  "employees": 18,
+  "stage": "other",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Blockchain",
+   "Computer Networking Products",
+   "Information Services",
+   "Information Technology"
+  ],
+  "locations": [
+   "Hangzhou, Zhejiang, China",
+   "Xihu, Hangzhou, Zhejiang, China",
+   "earth, tx, usa"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/nervos",
+    "https://www.linkedin.com/company/13756107"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/nervos"
+   ],
+   "twitter": [
+    "https://twitter.com/nervosnetwork"
+   ],
+   "facebook": [
+    "https://facebook.com/nervosfoundation"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/ed165301-c887-4f03-b817-5aa5c3f1a5e7-1762220263",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "nexus-mutual",
+  "name": "Nexus Mutual",
+  "description": "Nexus Mutual uses the power of blockchain technology and Ethereum to allow people from all over the world to share insurance risk together without the need for an insurance company. Nexus Mutual will initially launch with one product, earthquake cover.",
+  "website": "http://nexusmutual.io",
+  "domain": "nexusmutual.io",
+  "founded": "2017",
+  "employees": 20,
+  "stage": "series_unknown",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Blockchain",
+   "Decentralized Finance (DeFi)",
+   "Financial Services",
+   "Insurance"
+  ],
+  "locations": [
+   "England, UK",
+   "Kingston Vale, London SW15, UK",
+   "London, UK",
+   "Mile End, London, UK"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/nexus-mutual",
+    "https://www.linkedin.com/company/33177535"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/nexus-mutual"
+   ],
+   "twitter": [
+    "https://twitter.com/nexusmutual"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/c7cab942-2587-4fb7-9d80-17b8a6db8d77-1761644557",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "ng-cash-2",
+  "name": "NG.CASH",
+  "description": "NG.CASH is a digital bank designed to help the new generations (ages 12 to 30) achieve financial independence. It lets users take charge of their money through solutions like PIX (Brazil\u2019s instant-payment system), prepaid and virtual cards, allowance management, and now credit products tailored for young adults. As a financial hub, NG.CASH is built to grow with its clients, boosting financial literacy and supporting them at every stage of life.",
+  "website": "http://ng.cash",
+  "domain": "ng.cash",
+  "founded": "2021",
+  "employees": 145,
+  "stage": "series_b",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Banking",
+   "Consumer Applications",
+   "Financial Services",
+   "Fintech"
+  ],
+  "locations": [
+   "Rio de Janeiro, RJ, Brazil",
+   "S\u00e3o Paulo - State of S\u00e3o Paulo, Brazil",
+   "s\u00e3o paulo, state of s\u00e3o paulo, brazil"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/ngcash",
+    "https://www.linkedin.com/company/42374785"
+   ],
+   "facebook": [
+    "https://facebook.com/ng.cash.face"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/ng-cash"
+   ],
+   "twitter": [
+    "https://twitter.com/ngcash_"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/95de1322-05ba-48f5-ad0e-d51687c9949e-1762565869",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "oasis-labs",
+  "name": "Oasis Labs",
+  "description": "Oasis Labs is a privacy-first cloud computing platform on blockchain technology. They are building a new computing platform that enables cloud-scale, real-world applications with decentralized trust and privacy protection; in short, a privacy-first, high-performance cloud computing platform on blockchain.",
+  "website": "http://oasislabs.com",
+  "domain": "oasislabs.com",
+  "founded": "2018",
+  "employees": 26,
+  "stage": "series_unknown",
+  "org_type": "private",
+  "biz_models": [
+   "B2B",
+   "PaaS"
+  ],
+  "industry_tags": [
+   "Blockchain",
+   "Cloud Computing",
+   "Cloud Data Services",
+   "Software"
+  ],
+  "locations": [
+   "North America",
+   "San Francisco, CA, USA"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/oasis-labs",
+    "https://www.linkedin.com/company/18712443"
+   ],
+   "facebook": [
+    "https://facebook.com/oasis-labs-302868693706880/"
+   ],
+   "twitter": [
+    "https://twitter.com/oasislabs"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/oasis-labs"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/8a281338-a02a-4d88-8d05-a8ac87806732-1770137416",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "onebalance",
+  "name": "OneBalance",
+  "description": "OneBalance is a new framework for credible accounts, combining chain abstraction, gas abstraction, and permission management to solve the fragmented Web3 user experience.",
+  "website": "http://onebalance.io",
+  "domain": "onebalance.io",
+  "founded": "2024",
+  "employees": 11,
+  "stage": "series_a",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Blockchain",
+   "Cryptocurrency",
+   "Internet"
+  ],
+  "locations": [
+   "Cayman Islands",
+   "Georgetown, Washington, DC, USA",
+   "Mile End, London, UK"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/onebalance-io"
+   ],
+   "crunchbase": [
+    "https://www.crunchbase.com/organization/onebalance"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/338e31df-16d9-4a56-9977-8868c1f8a372-1762911451",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "opensea",
+  "name": "OpenSea",
+  "description": "OpenSea is a peer-to-peer marketplace for crypto collectibles and non-fungible tokens. It includes collectibles, gaming items, and other virtual goods backed by a blockchain. On OpenSea, anyone can buy or sell these items through a smart contract.",
+  "website": "http://opensea.io",
+  "domain": "opensea.io",
+  "founded": "2017",
+  "employees": 572,
+  "stage": "series_c",
+  "org_type": "private",
+  "biz_models": [
+   "Marketplace",
+   "C2C"
+  ],
+  "industry_tags": [
+   "Bitcoin",
+   "Blockchain",
+   "Cryptocurrency",
+   "Decentralized Finance (DeFi)",
+   "Non-Fungible Token (NFT)",
+   "Software Development"
+  ],
+  "locations": [
+   "Miami, FL, USA",
+   "New York, NY, USA",
+   "Union Square, New York, NY, USA"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/opensea-io",
+    "https://www.linkedin.com/company/18544108"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/opensea"
+   ],
+   "facebook": [
+    "https://facebook.com/projectopensea"
+   ],
+   "twitter": [
+    "https://twitter.com/opensea"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/a72a7054-b7d1-4122-9bcf-2f966fb757a6-1762134196",
+  "active_jobs": 2,
+  "ats_job_links": [
+   "https://jobs.ashbyhq.com/OpenSea/1ad9f09a-3331-4f2b-b0f5-c739580bb243",
+   "https://jobs.ashbyhq.com/OpenSea/8c242715-3ea6-47e9-8a9c-9972b57683a7"
+  ]
+ },
+ {
+  "slug": "orchid-labs",
+  "name": "Orchid Labs",
+  "description": "Orchid Labs is an open-source project committed to ending surveillance and censorship on the internet. Orchid uses an overlay network built upon the existing internet, which is driven by a peer-to-peer tokenized bandwidth exchange, creating a more inclusive, liberated internet. Orchid Labs was founded in 2017 by Dr. Steven Waterhouse, Jay Freeman, Brian J. Fox, Gustav Simonsson, and Stephen Bell.",
+  "website": "http://orchid.com",
+  "domain": "orchid.com",
+  "founded": "2017",
+  "employees": 214,
+  "stage": "private_equity",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Blockchain",
+   "Cyber Security",
+   "Internet",
+   "Software",
+   "Software Development"
+  ],
+  "locations": [
+   "Berlin, Germany",
+   "North America",
+   "San Francisco, CA, USA"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/orchidprotocol",
+    "https://www.linkedin.com/company/18313136",
+    "https://www.linkedin.com/company/orchid-labs"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/orchid-labs"
+   ],
+   "facebook": [
+    "https://facebook.com/orchidprotocol"
+   ],
+   "twitter": [
+    "https://twitter.com/orchidprotocol"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/830e4573-10c7-4879-9de4-b94d2da74cca-1763516398",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "parity-technologies",
+  "name": "Parity Technologies",
+  "description": "Parity is an infrastructure and innovation focused company building platforms and applications. Parity's work combines cutting-edge cryptography, cellular systems, peer-to-peer technology, and decentralised consensus architectures.",
+  "website": "http://parity.io",
+  "domain": "parity.io",
+  "founded": "2015",
+  "employees": 130,
+  "stage": "pre_seed",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Blockchain",
+   "Computer",
+   "Ethereum",
+   "Information Technology",
+   "IT Services and IT Consulting",
+   "Open Source",
+   "Software"
+  ],
+  "locations": [
+   "Berlin, Germany",
+   "Kingston Vale, London SW15, UK",
+   "London, UK",
+   "Mile End, London, UK",
+   "Moscow, Russia",
+   "United Kingdom"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/paritytech",
+    "https://www.linkedin.com/company/10211733"
+   ],
+   "facebook": [
+    "https://facebook.com/paritytech"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/ethcore",
+    "https://www.crunchbase.com/organization/ethcore#section-funding-rounds"
+   ],
+   "twitter": [
+    "https://twitter.com/paritytech"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/34fdcb4f-b9f6-499f-a431-6d55c5d8af08-1761875239",
+  "active_jobs": 2,
+  "ats_job_links": [
+   "https://jobs.ashbyhq.com/parity/7a0c0bc5-7876-4370-8132-622f02286558",
+   "https://jobs.ashbyhq.com/parity/058e8560-8e9a-4d75-b48d-b81f510caa39"
+  ]
+ },
+ {
+  "slug": "paxos",
+  "name": "Paxos",
+  "description": "Paxos is a regulated financial institution building infrastructure to enable movement between physical and digital assets. Paxos was founded in 2012 and is headquartered in New York, United States.",
+  "website": "http://paxos.com",
+  "domain": "paxos.com",
+  "founded": "2012",
+  "employees": 235,
+  "stage": "other",
+  "org_type": "private",
+  "biz_models": [
+   "B2B",
+   "B2B2C"
+  ],
+  "industry_tags": [
+   "Blockchain",
+   "Cryptocurrency",
+   "Financial Services",
+   "Fintech"
+  ],
+  "locations": [
+   "London, UK",
+   "New York, NY, USA",
+   "Singapore",
+   "Union Square, New York, NY, USA"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/paxos",
+    "https://www.linkedin.com/company/10928677"
+   ],
+   "facebook": [
+    "https://facebook.com/paxosglobal"
+   ],
+   "twitter": [
+    "https://twitter.com/paxosglobal"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/paxos"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/3efc381b-e113-4844-aa48-90f4289ea5f1-1761875131",
+  "active_jobs": 15,
+  "ats_job_links": [
+   "https://jobs.ashbyhq.com/paxos/0085ddf5-379b-4e69-b5c6-37761abf3c97",
+   "https://jobs.ashbyhq.com/paxos/bb9e53d1-341f-41a8-ab47-04d1c89425bf",
+   "https://jobs.ashbyhq.com/paxos/870d0c76-5755-422a-834b-b8fe22278c75",
+   "https://jobs.ashbyhq.com/paxos/c042ef9c-efb9-45d3-a0e3-b55ddf491f15",
+   "https://jobs.ashbyhq.com/paxos/473af12a-896d-4caa-a0eb-95e71bfb37fb",
+   "https://jobs.ashbyhq.com/paxos/8ce958f4-ddf4-4e48-95f4-7fe790381733",
+   "https://jobs.ashbyhq.com/paxos/ab23a3e6-864b-4432-ba7b-5b64a3d30025",
+   "https://jobs.ashbyhq.com/paxos/0655e3a3-e6fb-446a-8b11-e2f02c7b3e75",
+   "https://jobs.ashbyhq.com/paxos/a37cdf1c-9b0d-45e8-810c-f90965d9f918",
+   "https://jobs.ashbyhq.com/paxos/f8cbcedf-5b3a-463c-82d1-0d80b9c34e42",
+   "https://jobs.ashbyhq.com/paxos/5a8cdbba-8898-4882-b04b-cfe6f26c407c",
+   "https://jobs.ashbyhq.com/paxos/f0eece71-5927-4f49-bed2-9932af8edd9f",
+   "https://jobs.ashbyhq.com/paxos/7cd00d67-dcc9-4da8-8f0c-6faf335b86cd",
+   "https://jobs.ashbyhq.com/paxos/7642ced7-423e-4502-b4af-49208fa37397",
+   "https://jobs.ashbyhq.com/paxos/996febc9-2c59-4292-a4bd-bf54e8a4b187"
+  ]
+ },
+ {
+  "slug": "paxos-labs",
+  "name": "Paxos Labs",
+  "description": "Paxos Labs offers enterprise infrastructure for branded stablecoins and embedded on-chain financial products. The company develops blockchain-based solutions that help institutions issue and manage stablecoins under their own brands. It also provides APIs and tools that enable partners to embed tokenized dollars and other on-chain financial products into their platforms. Paxos Labs serves financial institutions, fintechs, and enterprises seeking to integrate digital assets into existing services. Its technology focuses on regulated, asset-backed tokens and institutional-grade settlement workflows.",
+  "website": "http://paxoslabs.com",
+  "domain": "paxoslabs.com",
+  "founded": "2012",
+  "employees": 12,
+  "stage": "series_unknown",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Blockchain",
+   "Cryptocurrency",
+   "Enterprise Software",
+   "Financial Services",
+   "Fintech",
+   "Payments",
+   "Software"
+  ],
+  "locations": [
+   "New York, NY, USA",
+   "Union Square, New York, NY, USA"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/paxos"
+   ],
+   "crunchbase": [
+    "https://www.crunchbase.com/organization/paxos-labs"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/cc96f078-205e-4a19-a62e-befde6a9bf0c-1775823321",
+  "active_jobs": 7,
+  "ats_job_links": [
+   "https://jobs.ashbyhq.com/paxoslabs/255da007-e1ec-4832-961a-61982b38c709",
+   "https://jobs.ashbyhq.com/paxoslabs/ad5179f9-c859-43bb-a7d3-2ab8ef8c9884",
+   "https://jobs.ashbyhq.com/paxoslabs/409a0ba3-f6f1-42fc-afbc-f80efe0a4fb2",
+   "https://jobs.ashbyhq.com/paxoslabs/3b8a5eb3-597d-4ba4-a3db-a6805741c924",
+   "https://jobs.ashbyhq.com/paxoslabs/c898bc47-a0c7-49c4-9d89-5953b88e16e2",
+   "https://jobs.ashbyhq.com/paxoslabs/5caa6fbf-3f7c-4b67-88cf-653db51fdf2b",
+   "https://jobs.ashbyhq.com/paxoslabs/affdb43c-5a07-4964-ba97-049eb7bfcdd5"
+  ]
+ },
+ {
+  "slug": "peernova",
+  "name": "PeerNova",
+  "description": "PeerNova\u2019s mission is to empower organizations to make confident and timely decisions using contextual insights. Today, firms struggle with confident decision-making because they are unsure if their underlying data is fit for purpose. Poor or untimely decisions can lead to missed opportunities, client dissatisfaction, regulatory fines, and reduced profitability.\n\nCuneiform\u00ae is a zero-code, decision-science platform that enables business users to monitor their data-quality metrics, evaluate whether data is fit for business purposes, identify and resolve high-impact exceptions, perform faster root-cause analysis, and ensure continuous data reliability through monitoring and trend analytics. Cuneiform is used for valuation risk (financial industry), data quality monitoring, Customer Relations Management (CRM), and Data Cloud.\n\nFounded in 2013 by entrepreneurs with deep expertise in data and analytics, PeerNova is a Silicon Valley technology company with a global team across the San Francisco Bay Area, New York, London, and Europe. For more information, please visit https://peernova.com.",
+  "website": "http://peernova.com",
+  "domain": "peernova.com",
+  "founded": "2013",
+  "employees": 44,
+  "stage": "series_unknown",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Analytics",
+   "Big Data",
+   "CRM",
+   "Cyber Security",
+   "Fintech",
+   "Privacy",
+   "SaaS",
+   "Software",
+   "Software Development"
+  ],
+  "locations": [
+   "London, UK",
+   "New York, NY, USA",
+   "San Jose, CA, USA",
+   "Stokes, San Jose, CA, USA",
+   "United States"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/peernova",
+    "https://www.linkedin.com/company/3714415"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/peernova"
+   ],
+   "facebook": [
+    "https://facebook.com/peernova"
+   ],
+   "twitter": [
+    "https://twitter.com/peernovainc"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/bbf17c3b-fcb2-447c-89bd-c5f3f68932c1-1761013760",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "perpetual-protocol",
+  "name": "Perpetual Protocol",
+  "description": "Perpetual Protocol is a decentralized perpetual contract trading protocol for every asset.",
+  "website": "http://perp.fi",
+  "domain": "perp.fi",
+  "founded": "2018",
+  "employees": 14,
+  "stage": "seed",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Internet",
+   "Technology, Information and Internet"
+  ],
+  "locations": [
+   "China",
+   "Fujian, China",
+   "Taipei, Taiwan"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/perpetualprotocol",
+    "https://www.linkedin.com/company/42765960"
+   ],
+   "angellist": [
+    "https://angel.co/company/perpetual-protocol"
+   ],
+   "instagram": [
+    "https://www.instagram.com/perpprotocol/"
+   ],
+   "twitter": [
+    "https://twitter.com/perpprotocol"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/perpetual-protocol"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/5839733d-28a9-4c56-b0ee-5e36a4365a65-1761644592",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "phantom-2-7ce91018-328d-40fc-b9dc-35633fb565b1",
+  "name": "Phantom",
+  "description": "Phantom is a digital wallet reimagined for DeFi and NFTs. Phantom is a multichain wallet that supports various applications and allows users to manage their crypto and NFT assets across multiple blockchain networks, particularly Solana. The Phantom wallet is accessible through various platforms including mobile and browser extensions, making it versatile for all users engaging with digital finance.",
+  "website": "http://phantom.com",
+  "domain": "phantom.com",
+  "founded": "2021",
+  "employees": 276,
+  "stage": "series_c",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Bitcoin",
+   "Cryptocurrency",
+   "Decentralized Finance (DeFi)",
+   "Finance",
+   "Financial Services",
+   "Fintech",
+   "Non-Fungible Token (NFT)",
+   "Software Development"
+  ],
+  "locations": [
+   "San Francisco, CA, USA"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/phantomwallet",
+    "https://www.linkedin.com/company/72352899",
+    "https://www.linkedin.com/company/phantom-app"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/phantom-3171"
+   ],
+   "twitter": [
+    "https://twitter.com/phantom"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/bae84fc6-ae0f-4a82-81a5-c10adf326505-1775823323",
+  "active_jobs": 15,
+  "ats_job_links": [
+   "https://jobs.ashbyhq.com/phantom/7a9e300a-14bd-489f-aad8-7d1360941e80",
+   "https://jobs.ashbyhq.com/phantom/5198c911-6232-493d-bf14-41a13e713b99",
+   "https://jobs.ashbyhq.com/phantom/504baea1-48c7-458d-9f45-36e24dbf7035",
+   "https://jobs.ashbyhq.com/phantom/1075b491-988e-4c24-8806-9e5e840cbe5a",
+   "https://jobs.ashbyhq.com/phantom/d1c4fabe-d012-4a5d-845c-986a1e5ea976",
+   "https://jobs.ashbyhq.com/phantom/84bfcb1e-74a6-4cd7-b1d4-01b7b5d59d2e",
+   "https://jobs.ashbyhq.com/phantom/7ac2190c-cefb-495d-aa3f-92cbb6d165ca",
+   "https://jobs.ashbyhq.com/phantom/1ddd1eb8-9b2d-4f2a-9e70-4f76bb764e7f",
+   "https://jobs.ashbyhq.com/phantom/a5248174-f846-49ce-924b-403a12914914",
+   "https://jobs.ashbyhq.com/phantom/0e208910-a03b-4807-9c47-bf9e495a8839",
+   "https://jobs.ashbyhq.com/phantom/815cacde-243b-4e59-87b1-d8536374a125",
+   "https://jobs.ashbyhq.com/phantom/d480082b-a446-40fb-be24-f364c07ef8a9",
+   "https://jobs.ashbyhq.com/phantom/be5a838e-a6f4-4d99-be08-e6419a857289",
+   "https://jobs.ashbyhq.com/phantom/e7b83c02-55c2-4037-9209-93deb3b7492c",
+   "https://jobs.ashbyhq.com/phantom/01acfd54-49c2-4913-a968-fc70fcf61e12"
+  ]
+ },
+ {
+  "slug": "phi-labs",
+  "name": "Phi Labs",
+  "description": "Phi Labs is a contributor to the Archway Protocol that rewards blockchain developers.",
+  "website": "http://philabs.xyz",
+  "domain": "philabs.xyz",
+  "founded": "2017",
+  "employees": 11,
+  "stage": "seed",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Blockchain",
+   "Software Development"
+  ],
+  "locations": [
+   "British Virgin Islands",
+   "England, UK",
+   "Kingston Vale, London SW15, UK",
+   "London, UK",
+   "Mile End, London, UK"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/phi-labs-global",
+    "https://www.linkedin.com/company/80562781"
+   ],
+   "crunchbase": [
+    "https://www.crunchbase.com/organization/phi-labs"
+   ],
+   "twitter": [
+    "https://twitter.com/phi_labs"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/f44047e1-62a4-474a-bf07-e757f9e21b75-1762479651",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "pine-street-labs",
+  "name": "Pine Street Labs",
+  "description": "Pine Street Labs builds enterprise wallet software designed to expand and democratize the usage of public blockchains. The company handles the complexity of supporting and maintaining access to different networks so enterprises can focus on their business. Pine Street Labs' walletOS solution is designed to face difficulties and accelerate enterprises using current custody infrastructure, moving custody operations in-house, and introducing new blockchain initiatives to the market.",
+  "website": "http://pinestreetlabs.com",
+  "domain": "pinestreetlabs.com",
+  "founded": "2022",
+  "employees": 5,
+  "stage": "seed",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Blockchain",
+   "Enterprise Software",
+   "Fintech",
+   "Software Development"
+  ],
+  "locations": [
+   "San Francisco, CA, USA",
+   "Union Square, New York, NY, USA"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/pine-street-labs",
+    "https://www.linkedin.com/company/77712361"
+   ],
+   "twitter": [
+    "https://twitter.com/pinestreetlabs"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/pine-street-labs"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/397923bd-64ef-4f61-a00c-6930ddef9e45-1770687187",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "polymer-labs",
+  "name": "Polymer Labs",
+  "description": "Polymer Labs is building the fabric of Web3. \n\nWe're working on an IBC-based multi-cluster routing/roll-up protocol providing E2E IBC connectivity across ecosystems.",
+  "website": "http://polymerlabs.org",
+  "domain": "polymerlabs.org",
+  "founded": "2021",
+  "employees": 30,
+  "stage": "series_a",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Blockchain",
+   "Cryptocurrency",
+   "Software Development",
+   "Web3"
+  ],
+  "locations": [
+   "New York, NY, USA",
+   "New York, USA",
+   "Union Square, New York, NY, USA"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/polymer-labs",
+    "https://www.linkedin.com/company/80157089"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/polymer-labs"
+   ],
+   "twitter": [
+    "https://x.com/polymer_labs"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/a19393f7-ddb4-40ec-b8f8-d22294ece73e-1760837797",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "power-ledger-2",
+  "name": "Power Ledger",
+  "description": "The Power Ledger is bringing Power Ledger's P2P solar energy trading blockchain technology to the world. It allows renewable energy asset owners to decide who they want to sell their surplus energy to and at what price. Using blockchain technology, the company provides a transparent, auditable, and automated market trading and clearing mechanism for the benefit of producers and consumers.\n\nIts technology enables the sale of surplus renewable energy generated at residential and commercial developments (including multi-unit/multi-tenanted) and at homes and businesses connected to existing electricity distribution networks or within micro-grids. Power Ledger puts the power to manage the energy economy into the hands of consumers while maintaining the value of existing distribution networks.",
+  "website": "http://powerledger.io",
+  "domain": "powerledger.io",
+  "founded": "2016",
+  "employees": 26,
+  "stage": "series_unknown",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Consumer Software",
+   "Energy",
+   "Renewable Energy",
+   "Software Development"
+  ],
+  "locations": [
+   "Canton of Zug, Switzerland",
+   "Perth WA, Australia",
+   "Perth, WA, Australia",
+   "Zug, Switzerland"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/power-ledger",
+    "https://www.linkedin.com/company/10675936"
+   ],
+   "facebook": [
+    "https://www.facebook.com/powerledger/"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/power-ledger"
+   ],
+   "twitter": [
+    "https://twitter.com/powerledger_io"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/68d4e3b0-a68c-40d1-99ac-a62df7329cfb-1761644552",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "powerloom-2",
+  "name": "Powerloom",
+  "description": "The Composable Data Network for Web3 empowers builders to unlock rich data applications within Web3.",
+  "website": "http://powerloom.io",
+  "domain": "powerloom.io",
+  "founded": "2020",
+  "employees": 3,
+  "stage": "seed",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Blockchain",
+   "Software",
+   "Software Development"
+  ],
+  "locations": [
+   "Brooklyn, NY, USA",
+   "Middletown, DE, USA",
+   "Union Square, New York, NY, USA"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/powerloom",
+    "https://www.linkedin.com/company/69192033"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/powerloom"
+   ],
+   "twitter": [
+    "https://twitter.com/powerloomhq"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/a02d3345-20f4-4b50-9ccc-68a602bc2153-1761471608",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "recurrent-labs-recurrent-org-currents-fm",
+  "name": "Recurrent Labs [Recurrent.org / Currents.fm]",
+  "description": "Developer of a community-driven space for music creation designed to directly support artists and music communities with a digital space for human connection. The company's platform offers a set of tools that supports grassroots music communities in the new streaming era with direct payouts, meaningful connections to listeners, and powerful integrations that enable playlist creation using any source, enabling grassroots DJs, mixers, musicians, and artists with a digital community to share music.",
+  "website": "http://currents.fm",
+  "domain": "currents.fm",
+  "founded": "2019",
+  "employees": 6,
+  "stage": "other",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [],
+  "locations": [
+   "Hawaii County, HI, USA",
+   "Hawaii, USA",
+   "San Francisco, CA, USA",
+   "United States"
+  ],
+  "topics": [],
+  "socials": {
+   "instagram": [
+    "https://www.instagram.com/recurrent.labs/?hl=am-et"
+   ],
+   "linkedin": [
+    "https://www.linkedin.com/company/currents"
+   ],
+   "crunchbase": [
+    "https://www.crunchbase.com/organization/currentsfm"
+   ],
+   "twitter": [
+    "https://twitter.com/currents_fm"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/86778f4e-763e-4027-8beb-90d3a96f377f-1770686098",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "redstone",
+  "name": "RedStone",
+  "description": "RedStone is a quickly growing blockchain startup, building two data-focused products aimed to unlock the potential of DeFi and Web3:\n\n1. RedStone Oracles: A new generation of blockchain oracles with a novel architecture that optimizes the way data is delivered to decentralized Apps (dApps). RedStone provides 1,100+ data feeds delivered at a few seconds refresh interval to Ethereum, Polygon, Avalanche, Arbitrum, and 30+ other top chains. We support price feeds for assets such as popular and long-tail tokens, fiat currencies, commodities, stocks, NFTs floor, and RedStone can deliver also other types of data, i.e., transactions volume data or results of real-world events like sports games. Available feeds -> https://app.redstone.finance/; Sample integration on popular chains -> https://showroom.redstone.finance/\n\n2. Warp: A data-processing Smart Contract layer on top of the Arweave data storage chain. Warp is optimized for data-heavy use cases such as sophisticated gaming and social dApps, interactive NFTs, simple on-chain Machine Learning, and other blockchain-based solutions that have not been feasible before, due to huge data processing costs on chains like Ethereum or Avalanche. Warp overview -> https://warp.cc/; Warp Academy -> https://academy.warp.cc/\n\nRedStone Gitcoin grant -> https://gitcoin.co/grants/5477/redstone-new-generation-of-oracles-for-defi\n\nWarp Gitcoin grant -> https://gitcoin.co/grants/7733/warp-contracts-on-arweave-revolution-of-on-chain",
+  "website": "http://redstone.finance",
+  "domain": "redstone.finance",
+  "founded": "2021",
+  "employees": 41,
+  "stage": "series_a",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Blockchain",
+   "Cryptocurrency",
+   "Data Storage",
+   "Decentralized Finance (DeFi)",
+   "IT Services and IT Consulting",
+   "Smart Contracts",
+   "Software",
+   "Web3"
+  ],
+  "locations": [
+   "Baar, Switzerland",
+   "Tallinn, Estonia",
+   "Warsaw, Poland"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/redstone-finance",
+    "https://www.linkedin.com/company/75012238"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/redstone-1853"
+   ],
+   "twitter": [
+    "https://twitter.com/redstone_defi"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/f59ff59b-eda8-4218-b8ae-826b13c10bc0-1760923493",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "reverie",
+  "name": "Reverie",
+  "description": "Reverie is an advisory and investment firm focused on crafting generational companies and protocols.",
+  "website": "http://reverie.ooo",
+  "domain": "reverie.ooo",
+  "founded": "2021",
+  "employees": 5,
+  "stage": "other",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Cryptocurrency",
+   "Finance",
+   "Financial Services"
+  ],
+  "locations": [
+   "New York, NY, USA",
+   "Union Square, New York, NY, USA"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/reveriereserves",
+    "https://www.linkedin.com/company/81004151"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/reverie-41ce"
+   ],
+   "twitter": [
+    "https://twitter.com/hi_reverie"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/5460ccc0-bff8-4aaf-89d5-a6d0ac1b0f2a-1770687044",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "ripple",
+  "name": "Ripple",
+  "description": "Ripple provides one frictionless experience to send money globally using the power of blockchain. It offers a global real-time payment system that enables banks and financial institutions around the world to directly transact with each other without the need for a central correspondent. The company also offers FX Market Making, a solution enabling enterprises to gain access to cross-currency liquidity through a distributed network that allows foreign exchange to be externally sourced from a competitive FX marketplace or an internal FX trading desk. This minimizes FX exposure, thereby lowering the volatility and counter-party risk of trades. Ripple Insights features industry updates, insider perspectives, and in-depth market analysis.",
+  "website": "http://ripple.com",
+  "domain": "ripple.com",
+  "founded": "2012",
+  "employees": 1379,
+  "stage": "other",
+  "org_type": "private",
+  "biz_models": [
+   "B2B",
+   "B2G",
+   "Contracting"
+  ],
+  "industry_tags": [
+   "Blockchain",
+   "Cryptocurrency",
+   "Financial Services",
+   "Fintech",
+   "Payments",
+   "Technology, Information and Internet"
+  ],
+  "locations": [
+   "Dubai - United Arab Emirates",
+   "London, UK",
+   "Mumbai, Maharashtra, India",
+   "Reykjav\u00edk, Iceland",
+   "San Francisco, CA, USA",
+   "Singapore",
+   "S\u00e3o Paulo, SP, Brazil",
+   "Tokyo, Japan"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/rippleofficial",
+    "https://www.linkedin.com/company/3249443",
+    "https://www.linkedin.com/company/ripple"
+   ],
+   "crunchbase": [
+    "https://www.crunchbase.com/organization/ripple-labs",
+    "https://www.crunchbase.com/organization/ripple-interactive"
+   ],
+   "facebook": [
+    "https://facebook.com/ripplelabs"
+   ],
+   "twitter": [
+    "https://twitter.com/ripple"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/e687dfdb-a405-4833-bc24-8a3a92ee51e3-1761788645",
+  "active_jobs": 126,
+  "ats_job_links": [
+   "https://boards.greenhouse.io/ripple/jobs/8224772",
+   "https://boards.greenhouse.io/ripple/jobs/8225681",
+   "https://boards.greenhouse.io/ripple/jobs/8209342",
+   "https://boards.greenhouse.io/ripple/jobs/8209354",
+   "https://boards.greenhouse.io/ripple/jobs/8129106",
+   "https://boards.greenhouse.io/ripple/jobs/8129066",
+   "https://boards.greenhouse.io/ripple/jobs/8129078",
+   "https://boards.greenhouse.io/ripple/jobs/8129118",
+   "https://boards.greenhouse.io/ripple/jobs/8206128",
+   "https://boards.greenhouse.io/ripple/jobs/7904769",
+   "https://boards.greenhouse.io/ripple/jobs/8107253",
+   "https://boards.greenhouse.io/ripple/jobs/8201766",
+   "https://boards.greenhouse.io/ripple/jobs/8198725",
+   "https://boards.greenhouse.io/ripple/jobs/8200555",
+   "https://boards.greenhouse.io/ripple/jobs/8200530",
+   "https://boards.greenhouse.io/ripple/jobs/8196325",
+   "https://boards.greenhouse.io/ripple/jobs/8200577",
+   "https://boards.greenhouse.io/ripple/jobs/7767529",
+   "https://boards.greenhouse.io/ripple/jobs/8186969",
+   "https://boards.greenhouse.io/ripple/jobs/8180173",
+   "https://boards.greenhouse.io/ripple/jobs/8180204",
+   "https://boards.greenhouse.io/ripple/jobs/8141304",
+   "https://boards.greenhouse.io/ripple/jobs/8179167",
+   "https://boards.greenhouse.io/ripple/jobs/8178722",
+   "https://boards.greenhouse.io/ripple/jobs/8069875",
+   "https://boards.greenhouse.io/ripple/jobs/8173045",
+   "https://boards.greenhouse.io/ripple/jobs/8173047",
+   "https://boards.greenhouse.io/ripple/jobs/8172752",
+   "https://boards.greenhouse.io/ripple/jobs/8157399",
+   "https://boards.greenhouse.io/ripple/jobs/8164504",
+   "https://boards.greenhouse.io/ripple/jobs/8157490",
+   "https://boards.greenhouse.io/ripple/jobs/8162514",
+   "https://boards.greenhouse.io/ripple/jobs/8162394",
+   "https://boards.greenhouse.io/ripple/jobs/7767552",
+   "https://boards.greenhouse.io/ripple/jobs/8125912",
+   "https://boards.greenhouse.io/ripple/jobs/7961914",
+   "https://boards.greenhouse.io/ripple/jobs/7961910",
+   "https://boards.greenhouse.io/ripple/jobs/7685310",
+   "https://boards.greenhouse.io/ripple/jobs/8142069",
+   "https://boards.greenhouse.io/ripple/jobs/8142058",
+   "https://boards.greenhouse.io/ripple/jobs/8113601",
+   "https://boards.greenhouse.io/ripple/jobs/8069849",
+   "https://boards.greenhouse.io/ripple/jobs/8129029",
+   "https://boards.greenhouse.io/ripple/jobs/8128951",
+   "https://boards.greenhouse.io/ripple/jobs/8129099",
+   "https://boards.greenhouse.io/ripple/jobs/8126861",
+   "https://boards.greenhouse.io/ripple/jobs/8129139",
+   "https://boards.greenhouse.io/ripple/jobs/8122926",
+   "https://boards.greenhouse.io/ripple/jobs/8110122",
+   "https://boards.greenhouse.io/ripple/jobs/7997246",
+   "https://boards.greenhouse.io/ripple/jobs/7913381",
+   "https://boards.greenhouse.io/ripple/jobs/7913393",
+   "https://boards.greenhouse.io/ripple/jobs/7913402",
+   "https://boards.greenhouse.io/ripple/jobs/7767541",
+   "https://boards.greenhouse.io/ripple/jobs/8009464",
+   "https://boards.greenhouse.io/ripple/jobs/8106886",
+   "https://boards.greenhouse.io/ripple/jobs/8108602",
+   "https://boards.greenhouse.io/ripple/jobs/8106921",
+   "https://boards.greenhouse.io/ripple/jobs/8054025",
+   "https://boards.greenhouse.io/ripple/jobs/8083677",
+   "https://boards.greenhouse.io/ripple/jobs/8083666",
+   "https://boards.greenhouse.io/ripple/jobs/8096495",
+   "https://boards.greenhouse.io/ripple/jobs/8083601",
+   "https://boards.greenhouse.io/ripple/jobs/8009442",
+   "https://boards.greenhouse.io/ripple/jobs/8088649",
+   "https://boards.greenhouse.io/ripple/jobs/7997789",
+   "https://boards.greenhouse.io/ripple/jobs/8079242",
+   "https://boards.greenhouse.io/ripple/jobs/8079221",
+   "https://boards.greenhouse.io/ripple/jobs/8013611",
+   "https://boards.greenhouse.io/ripple/jobs/8069867",
+   "https://boards.greenhouse.io/ripple/jobs/7955235",
+   "https://boards.greenhouse.io/ripple/jobs/8054046",
+   "https://boards.greenhouse.io/ripple/jobs/8054452",
+   "https://boards.greenhouse.io/ripple/jobs/8052513",
+   "https://boards.greenhouse.io/ripple/jobs/8052534",
+   "https://boards.greenhouse.io/ripple/jobs/8051961",
+   "https://boards.greenhouse.io/ripple/jobs/8042723",
+   "https://boards.greenhouse.io/ripple/jobs/8042882",
+   "https://boards.greenhouse.io/ripple/jobs/8020278",
+   "https://boards.greenhouse.io/ripple/jobs/8013623",
+   "https://boards.greenhouse.io/ripple/jobs/8011676",
+   "https://boards.greenhouse.io/ripple/jobs/8008929",
+   "https://boards.greenhouse.io/ripple/jobs/8010129",
+   "https://boards.greenhouse.io/ripple/jobs/8009463",
+   "https://boards.greenhouse.io/ripple/jobs/8008251",
+   "https://boards.greenhouse.io/ripple/jobs/8000052",
+   "https://boards.greenhouse.io/ripple/jobs/8002049",
+   "https://boards.greenhouse.io/ripple/jobs/8002028",
+   "https://boards.greenhouse.io/ripple/jobs/7997801",
+   "https://boards.greenhouse.io/ripple/jobs/7997234",
+   "https://boards.greenhouse.io/ripple/jobs/7972102",
+   "https://boards.greenhouse.io/ripple/jobs/7997267",
+   "https://boards.greenhouse.io/ripple/jobs/7980840",
+   "https://boards.greenhouse.io/ripple/jobs/7972221",
+   "https://boards.greenhouse.io/ripple/jobs/7750218",
+   "https://boards.greenhouse.io/ripple/jobs/7961902",
+   "https://boards.greenhouse.io/ripple/jobs/7955223",
+   "https://boards.greenhouse.io/ripple/jobs/7947800",
+   "https://boards.greenhouse.io/ripple/jobs/7947821",
+   "https://boards.greenhouse.io/ripple/jobs/7960183",
+   "https://boards.greenhouse.io/ripple/jobs/7944348",
+   "https://boards.greenhouse.io/ripple/jobs/7930645",
+   "https://boards.greenhouse.io/ripple/jobs/7944385",
+   "https://boards.greenhouse.io/ripple/jobs/7913369",
+   "https://boards.greenhouse.io/ripple/jobs/7912314",
+   "https://boards.greenhouse.io/ripple/jobs/7904761",
+   "https://boards.greenhouse.io/ripple/jobs/7904773",
+   "https://boards.greenhouse.io/ripple/jobs/7870749",
+   "https://boards.greenhouse.io/ripple/jobs/7861823",
+   "https://boards.greenhouse.io/ripple/jobs/7859047",
+   "https://boards.greenhouse.io/ripple/jobs/7750241",
+   "https://boards.greenhouse.io/ripple/jobs/7750208",
+   "https://boards.greenhouse.io/ripple/jobs/7836928",
+   "https://boards.greenhouse.io/ripple/jobs/7767531",
+   "https://boards.greenhouse.io/ripple/jobs/7729908",
+   "https://boards.greenhouse.io/ripple/jobs/7685312",
+   "https://boards.greenhouse.io/ripple/jobs/7646353",
+   "https://boards.greenhouse.io/ripple/jobs/7647372",
+   "https://boards.greenhouse.io/ripple/jobs/7647376",
+   "https://boards.greenhouse.io/ripple/jobs/7622908",
+   "https://boards.greenhouse.io/ripple/jobs/7622896",
+   "https://boards.greenhouse.io/ripple/jobs/7622830",
+   "https://boards.greenhouse.io/ripple/jobs/7622906",
+   "https://boards.greenhouse.io/ripple/jobs/7624480",
+   "https://boards.greenhouse.io/ripple/jobs/7572250",
+   "https://boards.greenhouse.io/ripple/jobs/7462072"
+  ]
+ },
+ {
+  "slug": "risc-zero-2",
+  "name": "RISC Zero",
+  "description": "RISC Zero provides a platform enabling users to trust programs run anywhere while allowing developers to use the tools they already know. RISC Zero builds scaling solutions using Zero Knowledge Proofs, which will make blockchains accessible. The company was founded by a team of Seattle-based hackers committed to enabling users to control their experience on the internet through the creation of privacy-enhancing decentralization technology.",
+  "website": "http://risczero.com",
+  "domain": "risczero.com",
+  "founded": "2022",
+  "employees": 30,
+  "stage": "series_a",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Blockchain",
+   "Developer Tools",
+   "Information Technology",
+   "Software",
+   "Software Development"
+  ],
+  "locations": [
+   "Seattle, WA, USA",
+   "University of Washington, Seattle, WA, USA"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/risczero",
+    "https://www.linkedin.com/company/78456185"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/risc-zero"
+   ],
+   "twitter": [
+    "https://twitter.com/RiscZero"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/fee08fc4-4335-4de0-9a2a-02f3c6aee384-1762997916",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "securitize",
+  "name": "Securitize",
+  "description": "Securitize is modernizing capital markets by enabling digital securities, making it easier for eligible investors to own, manage, and trade digital securities within designated capital markets for equity, funds, fixed income, and real estate. Securitize is the only SEC Registered Transfer Agent integrated with multiple regulated US-based marketplaces with a working protocol and live issuers. The company also offers KYC/AML and capital management services. Securitize, Inc. is not a registered broker-dealer and does not make any endorsement of offerings.",
+  "website": "http://securitize.io",
+  "domain": "securitize.io",
+  "founded": "2017",
+  "employees": 139,
+  "stage": "ipo",
+  "org_type": "public",
+  "biz_models": [],
+  "industry_tags": [
+   "Blockchain",
+   "Cryptocurrency",
+   "Financial Services",
+   "Fintech",
+   "Information Technology"
+  ],
+  "locations": [
+   "Miami, FL, USA",
+   "Redwood City, CA, USA",
+   "San Francisco, CA, USA",
+   "Tokyo, Japan"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/securitize",
+    "https://www.linkedin.com/company/18452792"
+   ],
+   "facebook": [
+    "https://facebook.com/securitize.io"
+   ],
+   "crunchbase": [
+    "https://www.crunchbase.com/organization/securitize-inc"
+   ],
+   "twitter": [
+    "https://twitter.com/securitize"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/77a97a2c-6d1e-45e1-a479-520cb4abb392-1761644555",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "sfox",
+  "name": "SFOX",
+  "description": "SFOX is a cryptocurrency prime dealer that provides professional traders and institutional investors higher returns when trading large volumes, through smart routing and a global integrated order book.",
+  "website": "http://sfox.com",
+  "domain": "sfox.com",
+  "founded": "2014",
+  "employees": 69,
+  "stage": "series_b",
+  "org_type": "private",
+  "biz_models": [
+   "Marketplace"
+  ],
+  "industry_tags": [
+   "Bitcoin",
+   "Blockchain",
+   "Cryptocurrency",
+   "Ethereum",
+   "Financial Services",
+   "Fintech",
+   "Trading Platform",
+   "Virtual Currency"
+  ],
+  "locations": [
+   "Cheyenne, WY, USA",
+   "El Segundo, CA, USA",
+   "Los Angeles, CA, USA",
+   "Outpost Estates, Los Angeles, CA, USA",
+   "San Francisco, CA, USA",
+   "Stanford, CA, USA",
+   "Stanford, KY, USA"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/sfox",
+    "https://www.linkedin.com/company/3843213"
+   ],
+   "instagram": [
+    "instagram.com/sfoxtrading"
+   ],
+   "twitter": [
+    "https://twitter.com/sfox"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/sfox",
+    "https://www.crunchbase.com/organization/sfox#section-overview"
+   ],
+   "facebook": [
+    "https://facebook.com/sfoxtrading"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/de7dfc8f-b92e-4486-8627-6127799e5384-1761788648",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "shapeshift",
+  "name": "ShapeShift",
+  "description": "ShapeShift is a web and API platform formed in July of 2014 to provide instant Bitcoin and altcoin conversion with the maximum level of consumer protection and efficiency. In summer of 2019, the new ShapeShift platform launched to enable B2C users to self-custody their crypto assets, and buy, sell, trade, track, send, and receive all without trusting a 3rd party. ShapeShift also built and operates the real-time crypto market data service CoinCap.io, and acquired hardware wallet company KeepKey in mid-2017. The company is run by industry veteran Erik Voorhees.",
+  "website": "http://shapeshift.com",
+  "domain": "shapeshift.com",
+  "founded": "2014",
+  "employees": 37,
+  "stage": "series_unknown",
+  "org_type": "private",
+  "biz_models": [
+   "B2C"
+  ],
+  "industry_tags": [
+   "Bitcoin",
+   "Blockchain",
+   "Cryptocurrency",
+   "Ethereum",
+   "Financial Exchanges",
+   "Fintech",
+   "Software Development"
+  ],
+  "locations": [
+   "Cham, Switzerland",
+   "Denver, CO, USA",
+   "London, UK",
+   "Mile End, London, UK",
+   "New York, NY, USA"
+  ],
+  "topics": [],
+  "socials": {
+   "instagram": [
+    "https://instagram.com/shapeshift_io"
+   ],
+   "angellist": [
+    "https://angel.co/shapeshift-io"
+   ],
+   "linkedin": [
+    "https://www.linkedin.com/company/shapeshift.io",
+    "https://www.linkedin.com/company/shapeshiftplatform",
+    "https://www.linkedin.com/company/16192475"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/shapeshift"
+   ],
+   "twitter": [
+    "https://twitter.com/shapeshift"
+   ],
+   "facebook": [
+    "https://www.facebook.com/pages/shapeshiftio/733091776768255",
+    "https://www.facebook.com/shapeshiftplatform/"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/9356b9f3-ac70-43be-81be-3f9bb5448acb-1761644553",
+  "active_jobs": 1,
+  "ats_job_links": [
+   "https://shapeshift.notion.site/Job-Opening-Engineering-Workstream-Leader-320ef644a122466e8df418d9c6a75a03"
+  ]
+ },
+ {
+  "slug": "slate-2-b68e7dcc-9be4-4854-b8e5-c6eb77e7a650",
+  "name": "Slate",
+  "description": "Get instant notifications for any BASE and Solana wallet or Telegram group chat. View real-time activity feeds and execute transactions in one unified dashboard.",
+  "website": "http://slate.ceo",
+  "domain": "slate.ceo",
+  "founded": "2024",
+  "employees": 5,
+  "stage": "other",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Internet Services"
+  ],
+  "locations": [
+   "New York, NY, USA"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/slateceo",
+    "https://www.linkedin.com/company/103395209"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/4a575ca2-9122-4dff-ae4a-743df25a5c82-1760751319",
+  "active_jobs": 2,
+  "ats_job_links": [
+   "https://jobs.slate.ceo#bide6b4qt28l149twzitivvgs&:~:text=Founding%20Engineer%20(NYC)",
+   "https://jobs.slate.ceo/"
+  ]
+ },
+ {
+  "slug": "snickerdoodle-labs",
+  "name": "Snickerdoodle Labs",
+  "description": "Snickerdoodle is using blockchain technology to build a data economy that protects user privacy and distributes value to all stakeholders, including the data owners. We are building the infrastructure to allow people to own their data and monetize it in a secure way.",
+  "website": "http://snickerdoodlelabs.io",
+  "domain": "snickerdoodlelabs.io",
+  "founded": "2021",
+  "employees": 18,
+  "stage": "seed",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Blockchain"
+  ],
+  "locations": [
+   "San Jose, CA, USA",
+   "Stokes, San Jose, CA, USA"
+  ],
+  "topics": [],
+  "socials": {
+   "instagram": [
+    "https://www.instagram.com/yosnickerdoodle/"
+   ],
+   "linkedin": [
+    "https://www.linkedin.com/company/snickerdoodlelabs",
+    "https://www.linkedin.com/company/74126349",
+    "https://www.linkedin.com/company/snickerdoodlelab"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/snickerdoodle-labs"
+   ],
+   "twitter": [
+    "https://twitter.com/yosnickerdoodle"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/dd9b1be1-6e8c-58d0-932f-0ea7f13b0ae6",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "solv-protocol",
+  "name": "Solv Protocol",
+  "description": "Solv Protocol is the decentralized platform for creating, managing, and trading Financial NFTs. As its first Financial NFT product, Vesting Vouchers are fractionalized NFTs representing lock-up vesting tokens, thus releasing their liquidity and enabling financial scenarios such as fundraising, community building, and token liquidity management for crypto projects.",
+  "website": "http://solv.finance",
+  "domain": "solv.finance",
+  "founded": "2020",
+  "employees": 26,
+  "stage": "undisclosed",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Blockchain",
+   "Cryptocurrency",
+   "Financial Services",
+   "Fintech"
+  ],
+  "locations": [
+   "Essequibo Islands-West Demerara, Guyana",
+   "Rattan and Belvedere, Christiansted, St Croix, USVI",
+   "Singapore"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/solv-foundation",
+    "https://www.linkedin.com/company/74689652"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/solv-protocol"
+   ],
+   "twitter": [
+    "https://twitter.com/solvprotocol"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/efce5298-ad5b-45f7-a9c2-cb223408dc8f-1761702291",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "stacks",
+  "name": "Stacks",
+  "description": "Blockstack is a decentralized computing network that puts users in control of their data and login. It\u2019s the easiest way to build decentralized apps that can scale. Blockstack enables engineers to build secure, privacy-focused applications: users are in control of their data instead of storing it with large tech companies. \n\nOver 120 independent developer teams have built apps on Blockstack.",
+  "website": "http://stacks.co",
+  "domain": "stacks.co",
+  "founded": "2013",
+  "employees": 53,
+  "stage": "series_unknown",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Apps",
+   "Blockchain",
+   "Developer Platform",
+   "Internet",
+   "Open Source",
+   "Smart Contracts",
+   "Technology, Information and Internet",
+   "Trading Platform"
+  ],
+  "locations": [
+   "Anaheim, CA, USA",
+   "New York, NY, USA",
+   "San Francisco, CA, USA",
+   "Union Square, New York, NY, USA"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/blockstack-labs",
+    "https://www.linkedin.com/company/10624288",
+    "https://www.linkedin.com/company/stacks-stx"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/stacks",
+    "https://www.crunchbase.com/organization/http---stacks-co-"
+   ],
+   "facebook": [
+    "https://facebook.com/blockstack"
+   ],
+   "twitter": [
+    "https://twitter.com/stacks"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/25c77f0b-61df-44c5-86d2-d44fa3081050-1760751729",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "stardust",
+  "name": "Stardust",
+  "description": "Stardust is a software platform that enables game developers to build in the Metaverse. The blockchain is completely changing how gaming interacts with the broader world of finance, social, and more. Stardust provides game developers with an easy graphical platform to build and manage their games. The platform's API allows developers to start building without committing to a blockchain.\n\nStardust was founded in 2018 and is headquartered in Palo Alto, California.",
+  "website": "http://stardust.gg",
+  "domain": "stardust.gg",
+  "founded": "2018",
+  "employees": 36,
+  "stage": "series_a",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Blockchain",
+   "Developer APIs",
+   "Fintech",
+   "Gaming",
+   "Metaverse",
+   "Software"
+  ],
+  "locations": [
+   "Los Altos, CA, USA",
+   "Palo Alto, CA, USA"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/stardustplatform",
+    "https://www.linkedin.com/company/18613728"
+   ],
+   "facebook": [
+    "https://m.facebook.com/stardustplatform"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/stardust-6bcd"
+   ],
+   "twitter": [
+    "https://twitter.com/stardust"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/1c534f8a-1f99-45f6-b479-67af93c3f5a8-1761644557",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "stem-disintermedia-2",
+  "name": "Stem Disintermedia",
+  "description": "Stem Disintermedia helps creators, artists, and musicians to collect digital revenue and enables them to track and share their earnings.\n\nIt develops a platform intended to provide distribution and payments solutions for artists and their teams. The platform aggregates cross-platform earnings, creates contracts, and honors splits with collaborators, disburses payments and statements to all stakeholders in a project, and visualizes performance data for each platform, enabling businesses to bring clarity to the complicated process of revenue management and ensure everyone involved in the creative process gets paid.\n\nMilana Rabkin, Tim Luckow, and Jovin Cronin-Wilesmith formed Stem Disintermedia in Los Angeles, California, in 2015.",
+  "website": "http://stem.is",
+  "domain": "stem.is",
+  "founded": "2015",
+  "employees": 54,
+  "stage": "acquisition",
+  "org_type": "private",
+  "biz_models": [
+   "B2B"
+  ],
+  "industry_tags": [
+   "Content",
+   "Fintech",
+   "Music",
+   "Payments",
+   "Software",
+   "Technology, Information and Internet"
+  ],
+  "locations": [
+   "Los Angeles, CA, USA",
+   "Outpost Estates, Los Angeles, CA, USA",
+   "United States"
+  ],
+  "topics": [],
+  "socials": {
+   "instagram": [
+    "instagram.com/stem"
+   ],
+   "linkedin": [
+    "https://www.linkedin.com/company/stem-disintermedia",
+    "https://www.linkedin.com/company/stem-disintermedia-inc-",
+    "https://www.linkedin.com/company/3652402"
+   ],
+   "twitter": [
+    "https://twitter.com/stem"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/stemdisintermedia"
+   ],
+   "facebook": [
+    "https://www.facebook.com/stem"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/41ddfd69-2c98-42b7-b36f-0e48977f6dfc-1762220446",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "tally-2-ebf56161-6557-4d32-b1a5-88d8503cebd5",
+  "name": "Tally",
+  "description": "Tally is a frontend for DAOs running on Ethereum and other EVM blockchains. Tally gives users real power in their decentralized organizations. On Tally, users can delegate voting power, create or pass proposals to spend DAO funds, manage a protocol, and upgrade smart contracts\u2014all on-chain.",
+  "website": "http://tally.xyz",
+  "domain": "tally.xyz",
+  "founded": "2020",
+  "employees": 9,
+  "stage": "series_a",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Blockchain",
+   "Cryptocurrency"
+  ],
+  "locations": [
+   "East New York, Brooklyn, NY, USA",
+   "New York, NY, USA"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/tally-governance",
+    "https://www.linkedin.com/company/70513051",
+    "https://www.linkedin.com/company/tallyxyz"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/tally-bef3",
+    "https://www.crunchbase.com/organization/tally-dapphero-3fac"
+   ],
+   "twitter": [
+    "https://twitter.com/votewithtally"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/531fd20c-4b93-4419-b1cc-9d1ed90b25bd-1764812395",
+  "active_jobs": 1,
+  "ats_job_links": [
+   "https://hirevise.com/tally/positions/other-roles-were-not-hiring-but-send-us-a-note-nke8n4778"
+  ]
+ },
+ {
+  "slug": "tari-labs-2",
+  "name": "Tari Labs",
+  "description": "Tari Labs' mission is to steward the most useful decentralized platform that empowers anyone to create digitally scarce things people love.",
+  "website": "http://tari.com",
+  "domain": "tari.com",
+  "founded": "2017",
+  "employees": 36,
+  "stage": "series_unknown",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Blockchain",
+   "Information Technology",
+   "Software",
+   "Technology, Information and Internet"
+  ],
+  "locations": [
+   "North America",
+   "Oakland, CA, USA",
+   "United States",
+   "Zakariyya Park, 1821, South Africa"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/tarilabs",
+    "https://www.linkedin.com/company/18634720"
+   ],
+   "twitter": [
+    "https://twitter.com/tari"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/tari-labs"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/ac9a3fe8-c0a1-438d-9014-be68e7022433-1761875269",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "teller-2-41e1f120-f6ae-4d2a-a688-8e077446295f",
+  "name": "Teller",
+  "description": "Teller Finance is a blockchain project for decentralized lending. Teller connects to your bank account to offer risk-assessed loans, without the need for collateral.",
+  "website": "http://teller.org",
+  "domain": "teller.org",
+  "founded": "2020",
+  "employees": 46,
+  "stage": "other",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Blockchain",
+   "Financial Services",
+   "Software Development"
+  ],
+  "locations": [
+   "Lewes, DE, USA",
+   "San Francisco, CA, USA"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/teller-finance",
+    "https://www.linkedin.com/company/teller-protocol",
+    "https://www.linkedin.com/company/66364308"
+   ],
+   "twitter": [
+    "https://twitter.com/useteller"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/teller-finance"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/66ac47c4-76d9-4ef2-a92b-a5e468323611-1766021947",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "templum-markets-llc",
+  "name": "Templum Markets LLC",
+  "description": "Templum\u2019s scalable infrastructure solutions are transforming access, processes, and investment choice in alternative assets, making them as easy to invest in as public markets. Templum operates three core business lines:  \n\u2022 Templum One is an innovative global ecosystem for private markets that connects alternative and private market issuers with a growing network of partners who want to offer their end investors access to the world\u2019s most sought-after private assets.  \n\u2022 Templum Marketplace Solutions enable private issuers and asset managers to automate processes, integrate siloed operations, and accelerate time-to-market.  \n\u2022 Templum Applications Suite provides essential solutions to optimize back office and operational processes, saving businesses time, money, and resources.  \n\nAll securities offered by Templum Markets LLC, a wholly owned broker-dealer and Alternative Trading System (ATS) subsidiary of Templum, Inc., which is approved to operate in 53 U.S. states and territories. For more information, please visit www.templuminc.com.",
+  "website": "http://templuminc.com",
+  "domain": "templuminc.com",
+  "founded": "2017",
+  "employees": 26,
+  "stage": "series_unknown",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Asset Management",
+   "Finance",
+   "Financial Exchanges",
+   "Financial Services",
+   "Fintech"
+  ],
+  "locations": [
+   "Las Vegas, NV, USA",
+   "New York, NY, USA",
+   "Union Square, New York, NY, USA"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/templuminc",
+    "https://www.linkedin.com/company/18275872",
+    "https://www.linkedin.com/company/templum-markets"
+   ],
+   "facebook": [
+    "https://facebook.com/templuminc"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/templum"
+   ],
+   "twitter": [
+    "https://twitter.com/templumhq"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/f37d7adf-98f2-4443-8d61-2024083b4874-1761644555",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "tierion",
+  "name": "Tierion",
+  "description": "Tierion turns the blockchain into a global platform for verifying any data, file, or business process. We see a future where the blockchain is used to verify everything from medical records to online purchases. We\u2019ve started by making an API and tools to collect data and anchor it in the blockchain.",
+  "website": "http://tierion.com",
+  "domain": "tierion.com",
+  "founded": "2015",
+  "employees": 1,
+  "stage": "ico",
+  "org_type": "private",
+  "biz_models": [
+   "B2B"
+  ],
+  "industry_tags": [
+   "Bitcoin",
+   "Software"
+  ],
+  "locations": [
+   "Mountain View, CA, USA",
+   "San Francisco, CA, USA"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/tierion"
+   ],
+   "twitter": [
+    "https://twitter.com/tierion"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/tierion"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/f066ca4d-22b7-4c4d-a4dd-c14c6ca93986-1760405385",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "toku-2",
+  "name": "Toku",
+  "description": "Toku is an all-in-one global solution for token compensation and tax compliance.",
+  "website": "http://toku.com",
+  "domain": "toku.com",
+  "founded": "2020",
+  "employees": 48,
+  "stage": "series_a",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Blockchain Services",
+   "Bookkeeping and Payroll",
+   "Compliance",
+   "Human Resources",
+   "Information Technology",
+   "Internet"
+  ],
+  "locations": [
+   "New York, USA",
+   "Tokyo, Japan",
+   "Wilmington, DE, USA"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/usetoku",
+    "https://www.linkedin.com/company/78783216"
+   ],
+   "twitter": [
+    "https://twitter.com/usetoku"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/workdao"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/4f53432e-6e43-44ac-b0bb-7e604b79df6c-1766194428",
+  "active_jobs": 2,
+  "ats_job_links": [
+   "https://jobs.lever.co/toku/d339f4bb-601a-4cf2-94ea-bf8dc10d3b57",
+   "https://jobs.lever.co/toku/302763fa-de93-4796-b887-0f6491c7499c"
+  ]
+ },
+ {
+  "slug": "trm-labs",
+  "name": "TRM Labs",
+  "description": "TRM Labs is a blockchain intelligence company that helps financial institutions, crypto businesses, and government agencies detect and investigate crypto-related financial crime and fraud. Our products are trusted by leading companies including PayPal, Visa, FTX, Uniswap, Anchorage, and federal agencies such as the FBI and IRS. Every day, we tackle challenges in data engineering, data science, and threat intelligence to advance our mission to build a safer financial system for billions of people. To accomplish our mission, we have raised over $79M from JPMorgan Chase, Visa, Citi, PayPal, Block, Tiger Global, and Bessemer. Our team is made up of world-class experts from the FBI, U.S. Secret Service, U.S. Treasury Department, McKinsey, Coinbase, and top-tier tech companies. TRM is a remote-first workplace, with hubs in San Francisco, Washington, D.C., and London.",
+  "website": "http://trmlabs.com",
+  "domain": "trmlabs.com",
+  "founded": "2018",
+  "employees": 294,
+  "stage": "series_c",
+  "org_type": "private",
+  "biz_models": [
+   "B2B",
+   "B2G"
+  ],
+  "industry_tags": [
+   "Big Data",
+   "Blockchain",
+   "Compliance",
+   "Cryptocurrency",
+   "Information Services"
+  ],
+  "locations": [
+   "San Francisco, CA, USA"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/trmlabs",
+    "https://www.linkedin.com/company/18742807"
+   ],
+   "facebook": [
+    "https://facebook.com/trmlabs"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/trm-labs"
+   ],
+   "twitter": [
+    "https://twitter.com/trmlabs"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/4f2c954c-b6d3-4d13-a0bb-6ad30768625e-1762220536",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "uma-2-ee198e8e-1279-462c-959f-1ba9ce9a117b",
+  "name": "UMA",
+  "description": "UMA is a company that develops a decentralized financial contracts platform built to enable Universal Market Access. Its platform allows risk to move across the internet without a centralized authority or single point of failure. It also enables users to create their own financial products.",
+  "website": "http://uma.xyz",
+  "domain": "uma.xyz",
+  "founded": "2018",
+  "employees": 54,
+  "stage": "series_a",
+  "org_type": "private",
+  "biz_models": [
+   "B2C",
+   "B2B",
+   "Marketplace"
+  ],
+  "industry_tags": [
+   "Blockchain",
+   "Cryptocurrency",
+   "Decentralized Finance (DeFi)",
+   "Financial Services",
+   "Smart Contracts",
+   "Software"
+  ],
+  "locations": [
+   "Mexico City, Mexico",
+   "New York, NY, USA",
+   "Troyes, France"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/umaproject",
+    "https://www.linkedin.com/company/35477764"
+   ],
+   "twitter": [
+    "https://twitter.com/umaprotocol"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/uma-1901"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/775500a8-4919-4227-ba31-4308d91fd0e2-1762134358",
+  "active_jobs": 1,
+  "ats_job_links": [
+   "https://jobs.ashbyhq.com/risklabs/08e0c4c0-8e4f-4489-b98b-6b746f1c6546"
+  ]
+ },
+ {
+  "slug": "unlockd",
+  "name": "Unlockd",
+  "description": "Unlockd maximizes the return on NFTs with cross-chain, instant loans while keeping their utility.",
+  "website": "http://unlockd.finance",
+  "domain": "unlockd.finance",
+  "founded": "2022",
+  "employees": 10,
+  "stage": "private_equity",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Finance",
+   "Financial Services"
+  ],
+  "locations": [
+   "Community of Madrid, Spain",
+   "Harju County, Estonia",
+   "Spain"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/unlockd-finance",
+    "https://www.linkedin.com/company/78350141"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/unlockd-6d51"
+   ],
+   "twitter": [
+    "https://twitter.com/unlockd_finance"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/e7b2104f-379c-41e1-9af5-18c2a43a1742-1766020277",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "wave-2",
+  "name": "WAVE",
+  "description": "WaveBL is a digital platform using proprietary blockchain technology to transfer electronically trade documents. The WaveBL solution enables the instant, encrypted, and authenticated transfer of electronic Bills of Lading and related trade documents. The platform complies with universal processes and regulations in use. The platform is designed to meet the needs of all parties involved in trade, including shipping companies, agents, brokers, and banks. WaveBL has strong alliances with leading companies in global trade to drive faster digitalization and adoption.",
+  "website": "http://wavebl.com",
+  "domain": "wavebl.com",
+  "founded": "2015",
+  "employees": 78,
+  "stage": "series_b",
+  "org_type": "private",
+  "biz_models": [
+   "B2B"
+  ],
+  "industry_tags": [
+   "Blockchain",
+   "Cryptocurrency",
+   "Financial Services",
+   "Fintech",
+   "Shipping",
+   "Trading Platform"
+  ],
+  "locations": [
+   "Israel",
+   "Kefar Sava, Israel",
+   "U.S. Air Force Academy, CO, USA",
+   "United States",
+   "Wilmington, DE, USA",
+   "Wilmington, NC, USA"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/wavebl",
+    "https://www.linkedin.com/company/10082448"
+   ],
+   "crunchbase": [
+    "https://www.crunchbase.com/organization/wave-bl"
+   ],
+   "twitter": [
+    "https://twitter.com/wavebl"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/f58ac870-deac-441c-9a6d-fb86ee03448f-1769218980",
+  "active_jobs": 5,
+  "ats_job_links": [
+   "https://il.linkedin.com/jobs/view/noc%0A%09%09%09%09%09%09%09%09%09%0A%09%09%09%09%09%09%09%09%0A%09%09%09%09%09%09%09%09%09%09israel-at-wavebl-4443917908",
+   "https://il.linkedin.com/jobs/view/ai-engineer%0A%09%09%09%09%09%09%09%09%09%0A%09%09%09%09%09%09%09%09%0A%09%09%09%09%09%09%09%09%09%09israel-at-wavebl-4270417833",
+   "https://wavebl.com/vacancy-5",
+   "https://wavebl.com/vacancy-2",
+   "https://wavebl.com/vacancy-1"
+  ]
+ },
+ {
+  "slug": "witnet-foundation",
+  "name": "Witnet Foundation",
+  "description": "Witnet is an open source project originally devised by Stampery, the leaders of blockchain-powered data certification. The protocol is now being developed by Witnet Foundation in collaboration with a community of independent contributors.\n\nThe mission of Witnet Foundation is ensuring the successful development and deployment of the Witnet protocol, as well as guaranteeing its sustainability and fostering the ecosystem of applications built on top of the protocol.\n\nAlthough Witnet Foundation will play a leading role during the first years, as the project evolves and the Witnet community becomes wider, Witnet Foundation will progressively relinquish its weight in favor of the community.",
+  "website": "http://witnet.io",
+  "domain": "witnet.io",
+  "founded": "2017",
+  "employees": 7,
+  "stage": "series_unknown",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Blockchain",
+   "Internet",
+   "Software"
+  ],
+  "locations": [
+   "Community of Madrid, Spain",
+   "Madrid, Spain",
+   "Wilmington, NC, USA"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/witnet",
+    "https://www.linkedin.com/company/27246238"
+   ],
+   "twitter": [
+    "https://twitter.com/witnet_io"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/witnet-foundation"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/3bbd0c37-5864-46c7-abf2-bd2eff196807-1766626556",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "wyre",
+  "name": "Wyre",
+  "description": "Wyre is a developer of a blockchain-based payment platform designed to change the future of how international payments are done. The company's platform provides real-time payouts, same-day transfers, and direct-to-bank transfers, enabling businesses to move money across borders from country to country at a competitive foreign exchange rate.\n\nWyre's business owners can easily create an account and send money to any person or business without worrying about high foreign exchange rates, hidden fees, complicated payout timing, and high payment fees. It also provides onramps and off-ramps, foreign exchange, and crypto liquidity to users of various crypto projects including decentralized exchanges.\n\nWyre was founded in 2013 and is headquartered in San Francisco, California, USA.",
+  "website": "http://sendwyre.com",
+  "domain": "sendwyre.com",
+  "founded": "2013",
+  "employees": 13,
+  "stage": "acquisition",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Cryptocurrency",
+   "Financial Services",
+   "Fintech",
+   "Payments"
+  ],
+  "locations": [
+   "San Francisco, CA, USA"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/wyre",
+    "https://www.linkedin.com/company/17902351"
+   ],
+   "facebook": [
+    "https://facebook.com/sendwyre"
+   ],
+   "twitter": [
+    "https://twitter.com/sendwyre"
+   ],
+   "crunchbase": [
+    "https://www.crunchbase.com/organization/wyre"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/39ef270f-4e54-44ce-816a-921ce651680a-1762306831",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "xapo",
+  "name": "Xapo",
+  "description": "Xapo combines the convenience of an everyday Bitcoin wallet with the security of a deep cold storage vault. They believe that Bitcoin\u2019s ultimate success will be based on trust \u2013 whether individuals trust the digital currency\u2019s stability and whether they trust the industry\u2019s security. That\u2019s why they\u2019ve assembled a team of financial services and security experts to build an entirely new Bitcoin storage experience.\n\nBy offering two distinct products \u2013 an easy access wallet and a locked-down vault \u2013 they\u2019re marrying the convenience Bitcoin users want for everyday needs with the security they require for confident Bitcoin saving. It\u2019s the most secure, reliable, and the most convenient.",
+  "website": "http://xapo.com",
+  "domain": "xapo.com",
+  "founded": "2012",
+  "employees": 134,
+  "stage": "series_a",
+  "org_type": "private",
+  "biz_models": [
+   "B2B",
+   "B2C"
+  ],
+  "industry_tags": [
+   "Bitcoin",
+   "Blockchain",
+   "Cryptocurrency",
+   "Financial Services"
+  ],
+  "locations": [
+   "Gibraltar, MI, USA",
+   "HK Babu Nagar, Ambapuram, Nellore-1 Rular, Andhra Pradesh4, India",
+   "Hong Kong",
+   "Palo Alto, CA, USA",
+   "hong kong"
+  ],
+  "topics": [],
+  "socials": {
+   "instagram": [
+    "https://www.instagram.com/xapoapp/"
+   ],
+   "angellist": [
+    "https://angel.co/xapo"
+   ],
+   "linkedin": [
+    "https://www.linkedin.com/company/xapo",
+    "https://www.linkedin.com/company/xapoprivatebank",
+    "https://www.linkedin.com/company/3590703"
+   ],
+   "twitter": [
+    "https://twitter.com/xapo",
+    "https://twitter.com/xapoprivatebank"
+   ],
+   "facebook": [
+    "https://www.facebook.com/xapoapp"
+   ],
+   "crunchbase": [
+    "https://crunchbase.com/organization/xapo"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/8ddce504-1244-44cd-8e44-7e159ac95ada-1762566021",
+  "active_jobs": 4,
+  "ats_job_links": [
+   "https://boards.greenhouse.io/xapo61/jobs/7974904003",
+   "https://boards.greenhouse.io/xapo61/jobs/7986308003",
+   "https://boards.greenhouse.io/xapo61/jobs/7802655003",
+   "https://boards.greenhouse.io/xapo61/jobs/4292186003"
+  ]
+ },
+ {
+  "slug": "yat-2-3ca49ea5-16c7-4708-b4d9-44243d38de7e",
+  "name": "Yat",
+  "description": "Gmoney NFT",
+  "website": "http://y.at",
+  "domain": "y.at",
+  "founded": "2021",
+  "employees": 20,
+  "stage": "other",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Internet Services"
+  ],
+  "locations": [
+   "Harpeth Trace Estates, Nashville, TN, USA",
+   "Nashville, TN, USA"
+  ],
+  "topics": [],
+  "socials": {
+   "linkedin": [
+    "https://www.linkedin.com/company/yat-labs"
+   ],
+   "twitter": [
+    "https://twitter.com/whatsyouryat"
+   ],
+   "crunchbase": [
+    "https://www.crunchbase.com/organization/gmoney-nft"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/7264148f-22a6-487b-a3d7-793ae7e6f9ca-1761644632",
+  "active_jobs": 0,
+  "ats_job_links": []
+ },
+ {
+  "slug": "yellow-card-2",
+  "name": "Yellow Card",
+  "description": "Yellow Card is the largest and first licensed Stablecoin on/off ramp on the African continent, providing individuals and businesses of all sizes across 20 countries with secure and cost-effective methods to buy and sell USDT, USDC, and PYUSD via their local currency, directly and through its payments API. Yellow Card has facilitated over US$3 billion in transactions across Africa.",
+  "website": "http://yellowcard.io",
+  "domain": "yellowcard.io",
+  "founded": "2016",
+  "employees": 265,
+  "stage": "series_c",
+  "org_type": "private",
+  "biz_models": [],
+  "industry_tags": [
+   "Bitcoin",
+   "Cryptocurrency",
+   "Financial Services",
+   "Fintech",
+   "Payments",
+   "Trading Platform",
+   "Virtual Currency"
+  ],
+  "locations": [
+   "Accra, Ghana",
+   "Atlanta, GA, USA",
+   "Atlantic Station, Atlanta, GA, USA",
+   "Dar es Salaam, Tanzania",
+   "Durban, South Africa",
+   "Gaborone, Botswana",
+   "Kampala, Uganda",
+   "Lagos, Nigeria",
+   "Lusaka, Zambia",
+   "Marbella, M\u00e1laga, Spain",
+   "Nairobi, Kenya"
+  ],
+  "topics": [],
+  "socials": {
+   "instagram": [
+    "instagram.com/yellowcardio"
+   ],
+   "linkedin": [
+    "https://www.linkedin.com/company/yellowcardapp",
+    "https://www.linkedin.com/company/10780587",
+    "https://www.linkedin.com/company/yellow-card-financial"
+   ],
+   "crunchbase": [
+    "https://www.crunchbase.com/organization/yellow-card"
+   ],
+   "twitter": [
+    "https://twitter.com/yellowcard_app"
+   ]
+  },
+  "logo": "https://cdn.getro.com/companies/f24e8de2-1fdc-4c38-bf28-80cc5ae79ddf-1762651982",
+  "active_jobs": 8,
+  "ats_job_links": [
+   "https://yellowcard.bamboohr.com/careers/422",
+   "https://yellowcard.bamboohr.com/careers/412",
+   "https://yellowcard.bamboohr.com/careers/411",
+   "https://yellowcard.bamboohr.com/careers/405",
+   "https://yellowcard.bamboohr.com/careers/399",
+   "https://yellowcard.bamboohr.com/careers/393",
+   "https://yellowcard.bamboohr.com/careers/379",
+   "https://yellowcard.bamboohr.com/careers/357"
+  ]
+ }
+]

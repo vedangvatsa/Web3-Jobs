@@ -384,7 +384,7 @@ const UNTRACKED_FEEDS: FeedConfig[] = [
   { company: 'Nansen',        type: 'greenhouse', slug: 'nansen',       url: 'https://boards-api.greenhouse.io/v1/boards/nansen/jobs?content=true',      skills: ['Web3','Analytics','Data'] },
   { company: '0x Labs',       type: 'ashby',      slug: '0x',           url: 'https://api.ashbyhq.com/posting-api/job-board/0x',                         skills: ['Web3','DeFi','DEX'] },
   { company: 'Cantina',          type: 'ashby',  slug: 'cantina',          url: 'https://api.ashbyhq.com/posting-api/job-board/cantina',         skills: ['Web3','Blockchain','Crypto','AI','Security'] },
-  { company: 'Turnkey',          type: 'ashby',  slug: 'turnkey',          url: 'https://api.ashbyhq.com/posting-api/job-board/turnkey',         skills: ['Web3','Blockchain','Crypto','AI','Security'] },
+  { company: 'Turnkey',          type: 'greenhouse', slug: 'turnkeycareers', url: 'https://boards-api.greenhouse.io/v1/boards/turnkeycareers/jobs?content=true', skills: ['Web3','Blockchain','Crypto','AI','Security'] },
   { company: 'Hyperbolic',       type: 'ashby',  slug: 'hyperbolic',       url: 'https://api.ashbyhq.com/posting-api/job-board/hyperbolic',      skills: ['Web3','Blockchain','Crypto','AI','Security'] },
   { company: '0G Labs',          type: 'ashby',  slug: '0g',               url: 'https://api.ashbyhq.com/posting-api/job-board/0g',              skills: ['Web3','Blockchain','Crypto','AI','Security'] },
   { company: 'Grass',            type: 'ashby',  slug: 'wynd-labs',        url: 'https://api.ashbyhq.com/posting-api/job-board/wynd-labs',       skills: ['Web3','Blockchain','Crypto','AI','Security'] },

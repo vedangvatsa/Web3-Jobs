@@ -3,6 +3,7 @@ import { getJobs } from './jobs';
 import { loadStaticJson } from './load-static-json';
 import { COMPANY_RICH_ABOUT } from './company-profiles';
 import { cleanJobLocation } from './job-location';
+import type { CompanySocialLinks } from './company-socials';
 import { getCompanySlug } from './job-slugs';
 
 interface CompanyContent {
@@ -66,7 +67,7 @@ function sanitizeCompanyDomain(url: URL): string {
  * Hardcoded website overrides for major Web3 companies
  * whose job posts point to standard ATS boards.
  */
-const COMPANY_WEBSITE_OVERRIDES: Record<string, string> = {
+export const COMPANY_WEBSITE_OVERRIDES: Record<string, string> = {
   '1inch': 'https://1inch.com',
   '1inch-network': 'https://1inch.com',
   'agora': 'https://www.agora.finance',
@@ -254,6 +255,8 @@ const COMPANY_WEBSITE_OVERRIDES: Record<string, string> = {
  'aspora': 'https://www.aspora.com',
  'augustus': 'https://augustus.com',
  'mural': 'https://muralpay.com',
+ 'wormhole-labs': 'https://wormholelabs.xyz',
+ 'drw': 'https://www.drw.com',
  'magiceden': 'https://magiceden.io',
  'phantom': 'https://phantom.app',
  'circle': 'https://circle.com',
@@ -516,6 +519,7 @@ interface PrecomputedCompany {
   jobCount: number;
   lastUpdated: string;
   jobIds: string[];
+  socialLinks?: CompanySocialLinks;
 }
 
 let companyProfilesMap: Record<string, CompanyProfileRow> | null = null;
@@ -528,10 +532,13 @@ async function ensureCompaniesCatalog(): Promise<void> {
     companiesCatalogLoad = Promise.all([
       getJobs(),
       loadStaticJson<Record<string, CompanyProfileRow>>('company-profiles-runtime.json'),
+      loadStaticJson<Record<string, CompanySocialLinks>>('company-socials.json').catch(() => ({})),
     ])
-      .then(([jobs, profiles]) => {
+      .then(([jobs, profiles, socials]) => {
         companyProfilesMap = profiles;
-        companiesRuntimeMap = Object.fromEntries(buildCompaniesFromJobs(jobs, profiles).map(company => [company.slug, company]));
+        companiesRuntimeMap = Object.fromEntries(
+          buildCompaniesFromJobs(jobs, profiles, socials).map((company) => [company.slug, company]),
+        );
       })
       .finally(() => { companiesCatalogLoad = null; });
   }
@@ -639,7 +646,11 @@ function resolveCanonicalCompanyName(normalized: string, originalName: string): 
   return originalName;
 }
 
-export function buildCompaniesFromJobs(jobs: Job[], profiles: Record<string, CompanyProfileRow>): Company[] {
+export function buildCompaniesFromJobs(
+  jobs: Job[],
+  profiles: Record<string, CompanyProfileRow>,
+  socialsBySlug: Record<string, CompanySocialLinks> = {},
+): Company[] {
   const groups = new Map<string, { name: string; jobs: Job[] }>();
   for (const job of jobs) {
     if (job.active === false) continue;
@@ -667,6 +678,7 @@ export function buildCompaniesFromJobs(jobs: Job[], profiles: Record<string, Com
       description: COMPANY_RICH_ABOUT[slug] || COMPANY_RICH_ABOUT[shortSlug] || profile?.description || buildListingDescription(group.name, group.jobs),
       jobCount: group.jobs.length, jobs: group.jobs,
       lastUpdated: dates[0] || '1970-01-01T00:00:00.000Z',
+      ...(socialsBySlug[slug] && { socialLinks: socialsBySlug[slug] }),
     };
   }).sort((a, b) => b.jobCount - a.jobCount);
 }
@@ -685,6 +697,7 @@ export async function getCompanies(): Promise<Company[]> {
     jobCount: pre.jobCount,
     lastUpdated: pre.lastUpdated,
     jobs: [],
+    ...(pre.socialLinks && { socialLinks: pre.socialLinks }),
   }));
 }
 

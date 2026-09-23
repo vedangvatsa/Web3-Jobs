@@ -139,6 +139,11 @@ export interface Company {
  jobCount: number;
  jobs: Job[];
  lastUpdated: string;
+ socialLinks?: {
+  linkedin?: string;
+  twitter?: string;
+  crunchbase?: string;
+ };
 }
 
 /**

@@ -51,6 +51,8 @@ const DOMAIN_OVERRIDES: Record<string, string> = {
   aspora: 'aspora.com',
   augustus: 'augustus.com',
   mural: 'muralpay.com',
+  'wormhole-labs': 'wormholelabs.xyz',
+  drw: 'drw.com',
 };
 
 /** When slug.png is missing but a related file exists, copy/reuse it. */

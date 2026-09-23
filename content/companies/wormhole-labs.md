@@ -1,6 +1,6 @@
 ---
 name: Wormhole Labs
-website: 'https://wormhole.com'
+website: 'https://wormholelabs.xyz'
 category: Other
 description: >-
   Wormhole Labs is a premier Other company building mission-critical blockchain

@@ -9,7 +9,7 @@ cp content/jobs-runtime.json public/data/jobs-runtime.json
 
 cp content/events-runtime.json content/glossary-runtime.json \
   content/companies-runtime.json content/company-profiles-runtime.json \
-  content/articles-index.json content/news-cache.json public/data/ 2>/dev/null || true
+  content/company-socials.json content/articles-index.json content/news-cache.json public/data/ 2>/dev/null || true
 
 if [ -d content/job-description-shards ]; then
   cp -r content/job-description-shards/. public/job-description-shards/

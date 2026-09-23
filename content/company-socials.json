@@ -1,0 +1,356 @@
+{
+  "0x": {
+    "linkedin": "https://www.linkedin.com/company/0x",
+    "twitter": "https://x.com/0xproject",
+    "crunchbase": "https://crunchbase.com/organization/0x-project"
+  },
+  "a16z-crypto": {
+    "linkedin": "https://www.linkedin.com/company/a16z-crypto",
+    "crunchbase": "https://www.crunchbase.com/organization/a16z-crypto"
+  },
+  "aave-labs": {
+    "linkedin": "https://www.linkedin.com/company/aaveaave",
+    "twitter": "https://x.com/aaveaave",
+    "crunchbase": "https://crunchbase.com/organization/ethlend"
+  },
+  "alchemy": {
+    "linkedin": "https://www.linkedin.com/company/alchemyinc",
+    "twitter": "https://x.com/alchemyplatform",
+    "crunchbase": "https://crunchbase.com/organization/alchemy-insights"
+  },
+  "anchorage-digital": {
+    "linkedin": "https://www.linkedin.com/company/anchorage",
+    "twitter": "https://x.com/anchorage",
+    "crunchbase": "https://crunchbase.com/organization/anchorage"
+  },
+  "aptos-labs": {
+    "linkedin": "https://www.linkedin.com/company/aptoslabs",
+    "twitter": "https://x.com/aptoslabs",
+    "crunchbase": "https://crunchbase.com/organization/aptos-96b4"
+  },
+  "offchain-labs": {
+    "linkedin": "https://www.linkedin.com/company/arbitrum",
+    "twitter": "https://x.com/arbitrum",
+    "crunchbase": "https://crunchbase.com/organization/arbitrum-e0c8"
+  },
+  "bullish": {
+    "linkedin": "https://www.linkedin.com/company/bebullish",
+    "twitter": "https://x.com/bullish",
+    "crunchbase": "https://crunchbase.com/organization/bullish-global"
+  },
+  "chainalysis": {
+    "linkedin": "https://www.linkedin.com/company/chainalysis",
+    "twitter": "https://x.com/chainalysis",
+    "crunchbase": "https://crunchbase.com/organization/chainalysis"
+  },
+  "chainlink-labs": {
+    "linkedin": "https://www.linkedin.com/company/chainlink-labs",
+    "twitter": "https://x.com/chainlinklabs",
+    "crunchbase": "https://crunchbase.com/organization/chainlink-labs"
+  },
+  "circle": {
+    "linkedin": "https://www.linkedin.com/company/circle-internet-financial",
+    "twitter": "https://x.com/circle",
+    "crunchbase": "https://crunchbase.com/organization/circle-2"
+  },
+  "coinbase": {
+    "linkedin": "https://www.linkedin.com/company/coinbase",
+    "twitter": "https://x.com/coinbase",
+    "crunchbase": "https://crunchbase.com/organization/coinbase"
+  },
+  "consensys": {
+    "linkedin": "https://www.linkedin.com/company/consensys-diligence",
+    "twitter": "https://x.com/consensys",
+    "crunchbase": "https://www.crunchbase.com/organization/consensys-academy"
+  },
+  "crypto-com": {
+    "linkedin": "https://www.linkedin.com/company/cryptocom",
+    "twitter": "https://x.com/cryptocom",
+    "crunchbase": "https://www.crunchbase.com/organization/crypto-com"
+  },
+  "dcg": {
+    "linkedin": "https://www.linkedin.com/company/digital-currency-group",
+    "twitter": "https://x.com/dcgco",
+    "crunchbase": "https://crunchbase.com/organization/digital-currency-group"
+  },
+  "doublezero": {
+    "linkedin": "https://www.linkedin.com/company/doublezerofoundation",
+    "crunchbase": "https://crunchbase.com/organization/doublezero"
+  },
+  "ethena-labs": {
+    "linkedin": "https://www.linkedin.com/company/ethena-labs",
+    "twitter": "https://x.com/ethena_labs",
+    "crunchbase": "https://crunchbase.com/organization/ethena-b5a5"
+  },
+  "falconx": {
+    "linkedin": "https://www.linkedin.com/company/18758988",
+    "twitter": "https://x.com/falconxnetwork",
+    "crunchbase": "https://crunchbase.com/organization/falconx"
+  },
+  "filecoin-foundation": {
+    "linkedin": "https://www.linkedin.com/company/filecoin-foundation",
+    "crunchbase": "https://crunchbase.com/organization/filecoin-foundation"
+  },
+  "fireblocks": {
+    "linkedin": "https://www.linkedin.com/company/fireblocks",
+    "twitter": "https://x.com/fireblockshq",
+    "crunchbase": "https://crunchbase.com/organization/fireblocks"
+  },
+  "flow-traders": {
+    "linkedin": "https://www.linkedin.com/company/flow-traders",
+    "twitter": "https://x.com/flowtraders",
+    "crunchbase": "https://crunchbase.com/organization/flow-traders"
+  },
+  "foundry": {
+    "linkedin": "https://www.linkedin.com/company/foundrydigital",
+    "twitter": "https://x.com/foundryservices",
+    "crunchbase": "https://crunchbase.com/organization/foundry-digital-070f"
+  },
+  "grayscale": {
+    "linkedin": "https://www.linkedin.com/company/grayscale-investments",
+    "twitter": "https://x.com/grayscaleinvest",
+    "crunchbase": "https://crunchbase.com/organization/grayscale-bitcoin-trust"
+  },
+  "halliday": {
+    "linkedin": "https://www.linkedin.com/company/halliday",
+    "twitter": "https://x.com/HallidayHQ",
+    "crunchbase": "https://crunchbase.com/organization/halliday"
+  },
+  "jito-labs": {
+    "linkedin": "https://www.linkedin.com/company/jito-labs",
+    "twitter": "https://x.com/jito_labs",
+    "crunchbase": "https://crunchbase.com/organization/jito-labs"
+  },
+  "jump-crypto": {
+    "linkedin": "https://www.linkedin.com/company/jump-crypto",
+    "twitter": "https://x.com/jump_",
+    "crunchbase": "https://www.crunchbase.com/organization/jump-crypto"
+  },
+  "kiln": {
+    "linkedin": "https://www.linkedin.com/company/kiln-fi",
+    "twitter": "https://x.com/kiln_finance",
+    "crunchbase": "https://crunchbase.com/organization/kiln-60d9"
+  },
+  "kraken": {
+    "linkedin": "https://www.linkedin.com/company/kraken-exchange",
+    "twitter": "https://x.com/krakenfx",
+    "crunchbase": "https://crunchbase.com/organization/kraken"
+  },
+  "matter-labs": {
+    "linkedin": "https://www.linkedin.com/company/thematter",
+    "twitter": "https://x.com/the_matter_labs",
+    "crunchbase": "https://crunchbase.com/organization/matter-labs"
+  },
+  "morpho": {
+    "linkedin": "https://www.linkedin.com/company/morpho-labs",
+    "twitter": "https://x.com/morpholabs",
+    "crunchbase": "https://crunchbase.com/organization/morpho-labs"
+  },
+  "mysten-labs": {
+    "linkedin": "https://www.linkedin.com/company/mysten-labs",
+    "twitter": "https://x.com/mysten_labs",
+    "crunchbase": "https://crunchbase.com/organization/mysten-labs"
+  },
+  "notabene": {
+    "linkedin": "https://www.linkedin.com/company/notabene-id",
+    "twitter": "https://x.com/notabene_id",
+    "crunchbase": "https://crunchbase.com/organization/notabene-86d2"
+  },
+  "okx": {
+    "linkedin": "https://www.linkedin.com/company/okxofficial",
+    "twitter": "https://x.com/okx",
+    "crunchbase": "https://crunchbase.com/organization/okx"
+  },
+  "ondo-finance": {
+    "linkedin": "https://www.linkedin.com/company/ondo-finance",
+    "twitter": "https://x.com/ondofinance",
+    "crunchbase": "https://crunchbase.com/organization/ondo-finance"
+  },
+  "phantom": {
+    "linkedin": "https://www.linkedin.com/company/phantomwallet",
+    "twitter": "https://x.com/phantom",
+    "crunchbase": "https://www.crunchbase.com/organization/phantom-wallet-extension-c214"
+  },
+  "plasma": {
+    "linkedin": "https://www.linkedin.com/company/plasmafdn",
+    "crunchbase": "https://crunchbase.com/organization/plasma-1da0"
+  },
+  "plume-network": {
+    "linkedin": "https://www.linkedin.com/company/plume-network",
+    "twitter": "https://x.com/plumenetwork",
+    "crunchbase": "https://crunchbase.com/organization/plume-networks"
+  },
+  "polychain-capital": {
+    "linkedin": "https://www.linkedin.com/company/polychain-capital",
+    "twitter": "https://x.com/polychain",
+    "crunchbase": "https://crunchbase.com/organization/polychain-capital"
+  },
+  "rain": {
+    "linkedin": "https://www.linkedin.com/company/rainxyz",
+    "twitter": "https://x.com/raincards",
+    "crunchbase": "https://crunchbase.com/organization/rain-855d"
+  },
+  "ripple": {
+    "linkedin": "https://www.linkedin.com/company/rippleofficial",
+    "twitter": "https://x.com/ripple",
+    "crunchbase": "https://www.crunchbase.com/organization/ripple-labs"
+  },
+  "sei-labs": {
+    "linkedin": "https://www.linkedin.com/company/sei-labs",
+    "twitter": "https://x.com/seinetwork",
+    "crunchbase": "https://www.crunchbase.com/organization/sei-labs"
+  },
+  "stellar": {
+    "linkedin": "https://www.linkedin.com/company/stellar-development-foundation",
+    "twitter": "https://x.com/stellarorg",
+    "crunchbase": "https://crunchbase.com/organization/stellar"
+  },
+  "superstate": {
+    "linkedin": "https://www.linkedin.com/company/superstate",
+    "twitter": "https://x.com/superstatefunds",
+    "crunchbase": "https://crunchbase.com/organization/superstate-317d"
+  },
+  "talos": {
+    "linkedin": "https://www.linkedin.com/company/talos-trading",
+    "twitter": "https://x.com/talostrading",
+    "crunchbase": "https://crunchbase.com/organization/talos-trading"
+  },
+  "uniswap-labs": {
+    "linkedin": "https://www.linkedin.com/company/uniswaporg",
+    "crunchbase": "https://crunchbase.com/organization/uniswap-labs"
+  },
+  "wintermute": {
+    "linkedin": "https://www.linkedin.com/company/wintermute",
+    "twitter": "https://x.com/wintermute_t",
+    "crunchbase": "https://crunchbase.com/organization/wintermute-trading"
+  },
+  "across-protocol": {
+    "linkedin": "https://www.linkedin.com/company/across-protocol",
+    "crunchbase": "https://www.crunchbase.com/organization/across-protocol"
+  },
+  "bitgo": {
+    "linkedin": "https://www.linkedin.com/company/bitgo-inc",
+    "twitter": "https://x.com/bitgo",
+    "crunchbase": "https://crunchbase.com/organization/bitgo"
+  },
+  "blockstream": {
+    "linkedin": "https://www.linkedin.com/company/blockstream",
+    "twitter": "https://x.com/blockstream",
+    "crunchbase": "https://crunchbase.com/organization/blockstream"
+  },
+  "espresso-systems": {
+    "linkedin": "https://www.linkedin.com/company/espresso-sys",
+    "twitter": "https://x.com/EspressoSys",
+    "crunchbase": "https://crunchbase.com/organization/espresso-systems"
+  },
+  "lens-protocol": {
+    "linkedin": "https://www.linkedin.com/company/avaraxyz",
+    "twitter": "https://x.com/LC",
+    "crunchbase": "https://www.crunchbase.com/organization/lens-protocol"
+  },
+  "opensea": {
+    "linkedin": "https://www.linkedin.com/company/opensea-io",
+    "twitter": "https://x.com/opensea",
+    "crunchbase": "https://crunchbase.com/organization/opensea"
+  },
+  "parity-technologies": {
+    "linkedin": "https://www.linkedin.com/company/paritytech",
+    "twitter": "https://x.com/paritytech",
+    "crunchbase": "https://crunchbase.com/organization/ethcore"
+  },
+  "paxos": {
+    "linkedin": "https://www.linkedin.com/company/paxos",
+    "twitter": "https://x.com/paxosglobal",
+    "crunchbase": "https://crunchbase.com/organization/paxos"
+  },
+  "redstone-oracles": {
+    "linkedin": "https://www.linkedin.com/company/redstone-finance",
+    "twitter": "https://x.com/redstone_defi",
+    "crunchbase": "https://crunchbase.com/organization/redstone-1853"
+  },
+  "securitize": {
+    "linkedin": "https://www.linkedin.com/company/securitize",
+    "twitter": "https://x.com/securitize",
+    "crunchbase": "https://www.crunchbase.com/organization/securitize-inc"
+  },
+  "toku": {
+    "linkedin": "https://www.linkedin.com/company/usetoku",
+    "twitter": "https://x.com/usetoku",
+    "crunchbase": "https://crunchbase.com/organization/workdao"
+  },
+  "trm-labs": {
+    "linkedin": "https://www.linkedin.com/company/trmlabs",
+    "twitter": "https://x.com/trmlabs",
+    "crunchbase": "https://crunchbase.com/organization/trm-labs"
+  },
+  "yellow-card": {
+    "linkedin": "https://www.linkedin.com/company/yellowcardapp",
+    "twitter": "https://x.com/yellowcard_app",
+    "crunchbase": "https://www.crunchbase.com/organization/yellow-card"
+  },
+  "1inch": {
+    "linkedin": "https://www.linkedin.com/company/1inchnetwork",
+    "twitter": "https://x.com/1inch",
+    "crunchbase": "https://www.crunchbase.com/organization/1inch-customer-service"
+  },
+  "immunefi": {
+    "linkedin": "https://www.linkedin.com/company/immunefi",
+    "twitter": "https://x.com/immunefi",
+    "crunchbase": "https://crunchbase.com/organization/immunefi"
+  },
+  "p2p-org": {
+    "linkedin": "https://www.linkedin.com/company/p2p-org",
+    "twitter": "https://x.com/p2pvalidator",
+    "crunchbase": "https://crunchbase.com/organization/p2p-validator"
+  },
+  "safe": {
+    "linkedin": "https://www.linkedin.com/company/safe-ecosystem",
+    "twitter": "https://x.com/safe",
+    "crunchbase": "https://crunchbase.com/organization/gnosis-ee45"
+  },
+  "gelato-network": {
+    "linkedin": "https://www.linkedin.com/company/gelato-eth",
+    "twitter": "https://x.com/gelatonetwork",
+    "crunchbase": "https://crunchbase.com/organization/gelato-network"
+  },
+  "gensyn": {
+    "linkedin": "https://www.linkedin.com/company/gensynai",
+    "twitter": "https://x.com/gensynai",
+    "crunchbase": "https://crunchbase.com/organization/gensyn"
+  },
+  "m0": {
+    "linkedin": "https://www.linkedin.com/company/m-zero-labs",
+    "twitter": "https://x.com/m0labs",
+    "crunchbase": "https://crunchbase.com/organization/m-0-labs"
+  },
+  "mural": {
+    "linkedin": "https://www.linkedin.com/company/mural-xyz",
+    "twitter": "https://x.com/mural_xyz",
+    "crunchbase": "https://crunchbase.com/organization/mural-2ee9"
+  },
+  "polygon-labs": {
+    "linkedin": "https://www.linkedin.com/company/polygonlabs",
+    "twitter": "https://x.com/0xpolygonlabs",
+    "crunchbase": "https://crunchbase.com/organization/polygontechnology"
+  },
+  "ramp": {
+    "linkedin": "https://www.linkedin.com/company/rampnetwork",
+    "twitter": "https://x.com/rampnetwork",
+    "crunchbase": "https://crunchbase.com/organization/ramp-3b7b"
+  },
+  "skip-protocol": {
+    "linkedin": "https://www.linkedin.com/company/skip-protocol",
+    "twitter": "https://x.com/skipprotocol",
+    "crunchbase": "https://www.crunchbase.com/organization/skip-protocol"
+  },
+  "taxbit": {
+    "linkedin": "https://www.linkedin.com/company/taxbitteam",
+    "twitter": "https://x.com/taxbit",
+    "crunchbase": "https://crunchbase.com/organization/taxbit"
+  },
+  "turnkey": {
+    "linkedin": "https://www.linkedin.com/company/trans-tech-turnkey-pvt.-ltd.",
+    "twitter": "https://x.com/turnkeyhq",
+    "crunchbase": "https://www.crunchbase.com/organization/turn-key-f9fb"
+  }
+}

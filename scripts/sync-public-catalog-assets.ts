@@ -16,6 +16,7 @@ const INPUTS = [
   'content/glossary-runtime.json',
   'content/companies-runtime.json',
   'content/company-profiles-runtime.json',
+  'content/company-socials.json',
   'content/articles-index.json',
   'content/news-cache.json',
   'content/job-description-shards',
