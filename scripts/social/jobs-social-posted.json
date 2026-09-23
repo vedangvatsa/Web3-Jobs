@@ -1,5 +1,5 @@
 {
-  "lastIndex": 222,
+  "lastIndex": 224,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -68,7 +68,9 @@
     "pm24",
     "aso9",
     "sls47",
-    "pm41"
+    "pm41",
+    "eng159",
+    "cd3"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -8039,6 +8041,442 @@
       "platform": "facebook",
       "postedAt": "2026-09-23T03:55:51.457Z",
       "postId": "691827047618629_1095487759725125",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng159",
+      "company": "Nascent",
+      "title": "Software Engineer, Data Acquisition",
+      "platform": "threads",
+      "postedAt": "2026-09-23T11:32:28.074Z",
+      "postId": "17952303849267424",
+      "verification": "verified",
+      "expectedText": "Nascent is hiring Software Engineer, Data Acquisition: https://hashtagweb3.com/eng159/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DdoNeQzm2Lt",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "eng159",
+      "company": "Nascent",
+      "title": "Software Engineer, Data Acquisition",
+      "platform": "bluesky",
+      "postedAt": "2026-09-23T11:32:28.074Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mw6nfoe4rs2c",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng159",
+      "company": "Nascent",
+      "title": "Software Engineer, Data Acquisition",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T11:32:28.074Z",
+      "postId": "0x1ca7a85b93da5424c0031f2478f83c11db4e0b8d",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng159",
+      "company": "Nascent",
+      "title": "Software Engineer, Data Acquisition",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T11:32:28.074Z",
+      "postId": "0x27e693360ed23c12edade91fbd8409261cdcae9b",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng159",
+      "company": "Nascent",
+      "title": "Software Engineer, Data Acquisition",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T11:32:28.074Z",
+      "postId": "0x6ae284fe19b5c99762bfa4b83e5eff5eedb65444",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng159",
+      "company": "Nascent",
+      "title": "Software Engineer, Data Acquisition",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T11:32:28.074Z",
+      "postId": "0x0f0f8b4377a74e237f588e55d8508423c086f5d0",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng159",
+      "company": "Nascent",
+      "title": "Software Engineer, Data Acquisition",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T11:32:28.074Z",
+      "postId": "0x7a190a165497191ccc1bc0601962d04eb925b2e9",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng159",
+      "company": "Nascent",
+      "title": "Software Engineer, Data Acquisition",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T11:32:28.074Z",
+      "postId": "0x9559e29a828477c21a59b93f90e7ce588c69f0ff",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng159",
+      "company": "Nascent",
+      "title": "Software Engineer, Data Acquisition",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T11:32:28.074Z",
+      "postId": "0x1f05b2c1a7e6bd91b2a008bef9515bb1ddc28c34",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng159",
+      "company": "Nascent",
+      "title": "Software Engineer, Data Acquisition",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T11:32:28.074Z",
+      "postId": "0x3ad4948f364d9718fcb940e14e3a075df6271c0f",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng159",
+      "company": "Nascent",
+      "title": "Software Engineer, Data Acquisition",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T11:32:28.074Z",
+      "postId": "0xda26f08057b19e05a99b607f22ed15d6fad3acb0",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng159",
+      "company": "Nascent",
+      "title": "Software Engineer, Data Acquisition",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T11:32:28.074Z",
+      "postId": "0x0645ae5a11a6733022b385adc6005b36f69af5e6",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng159",
+      "company": "Nascent",
+      "title": "Software Engineer, Data Acquisition",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T11:32:28.074Z",
+      "postId": "0x0589fccd28f456a6de2228316c1367d347dc5ea7",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng159",
+      "company": "Nascent",
+      "title": "Software Engineer, Data Acquisition",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T11:32:28.074Z",
+      "postId": "0xefac651ef374ba5077e4880e061730e816d38e39",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng159",
+      "company": "Nascent",
+      "title": "Software Engineer, Data Acquisition",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T11:32:28.074Z",
+      "postId": "0x2f68e37ba239bddd39b12a84baa8939d75831a86",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng159",
+      "company": "Nascent",
+      "title": "Software Engineer, Data Acquisition",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T11:32:28.074Z",
+      "postId": "0xb3a2a18130251497a6eef0661c4842765a3036a8",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng159",
+      "company": "Nascent",
+      "title": "Software Engineer, Data Acquisition",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T11:32:28.074Z",
+      "postId": "0xe9d7e14397ecd20b8c70809d55816809f1178cb2",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng159",
+      "company": "Nascent",
+      "title": "Software Engineer, Data Acquisition",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T11:32:28.074Z",
+      "postId": "0xfa0ee89ddef40dc88f22030b6d289fbddd7168b9",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng159",
+      "company": "Nascent",
+      "title": "Software Engineer, Data Acquisition",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T11:32:28.074Z",
+      "postId": "0xa7f0f3da2aea43197438ab7f8c7a383806aa0cd1",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng159",
+      "company": "Nascent",
+      "title": "Software Engineer, Data Acquisition",
+      "platform": "linkedin",
+      "postedAt": "2026-09-23T11:32:28.074Z",
+      "postId": "6ab3b8db87d938b1302469e4",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng159",
+      "company": "Nascent",
+      "title": "Software Engineer, Data Acquisition",
+      "platform": "facebook",
+      "postedAt": "2026-09-23T11:32:28.074Z",
+      "postId": "691827047618629_1095751366365431",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng159",
+      "company": "Nascent",
+      "title": "Software Engineer, Data Acquisition",
+      "platform": "instagram",
+      "postedAt": "2026-09-23T11:32:28.074Z",
+      "postId": "18443306206135166",
+      "verification": "verified"
+    },
+    {
+      "slug": "cd3",
+      "company": "Kalshi",
+      "title": "Corporate Development",
+      "platform": "threads",
+      "postedAt": "2026-09-23T11:33:25.109Z",
+      "postId": "17909556969518610",
+      "verification": "verified",
+      "expectedText": "Kalshi is hiring Corporate Development: https://hashtagweb3.com/cd3/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DdoNlLOm-8m",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "cd3",
+      "company": "Kalshi",
+      "title": "Corporate Development",
+      "platform": "bluesky",
+      "postedAt": "2026-09-23T11:33:25.109Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mw6nhdkigk2f",
+      "verification": "verified"
+    },
+    {
+      "slug": "cd3",
+      "company": "Kalshi",
+      "title": "Corporate Development",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T11:33:25.109Z",
+      "postId": "0xbc4ff4aa4a23e2868741846fa0354528309406ec",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "cd3",
+      "company": "Kalshi",
+      "title": "Corporate Development",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T11:33:25.109Z",
+      "postId": "0x1983b65cb8e870688ef89b7c5bfc0da01f69f8dd",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "cd3",
+      "company": "Kalshi",
+      "title": "Corporate Development",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T11:33:25.109Z",
+      "postId": "0x1f7f03414949c3dc84e758c37f5d2876e0dc597c",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "cd3",
+      "company": "Kalshi",
+      "title": "Corporate Development",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T11:33:25.109Z",
+      "postId": "0xfa0bd72f6999017b75fbbaae609b9c2b40cb913a",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "cd3",
+      "company": "Kalshi",
+      "title": "Corporate Development",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T11:33:25.109Z",
+      "postId": "0xb61f2b6227294966086eea53d1af50509b6036f7",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "cd3",
+      "company": "Kalshi",
+      "title": "Corporate Development",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T11:33:25.109Z",
+      "postId": "0x4185392b0f2f3590493f81250f90458cdcb5e56c",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "cd3",
+      "company": "Kalshi",
+      "title": "Corporate Development",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T11:33:25.109Z",
+      "postId": "0x65103524b6e03713d3029cfb0d198cfb36657829",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "cd3",
+      "company": "Kalshi",
+      "title": "Corporate Development",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T11:33:25.109Z",
+      "postId": "0xfe8124dab4637189fb91350485af61ba113b41b6",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "cd3",
+      "company": "Kalshi",
+      "title": "Corporate Development",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T11:33:25.109Z",
+      "postId": "0x1acace66dec758a137691bff8aeb1a3a26170be8",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "cd3",
+      "company": "Kalshi",
+      "title": "Corporate Development",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T11:33:25.109Z",
+      "postId": "0x98e550abc9d4c4606cc1eb635cbe959b992363b5",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "cd3",
+      "company": "Kalshi",
+      "title": "Corporate Development",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T11:33:25.109Z",
+      "postId": "0x863e4d4d89054bba999f15cdcda7178138d971b8",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "cd3",
+      "company": "Kalshi",
+      "title": "Corporate Development",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T11:33:25.109Z",
+      "postId": "0xb915329f0c861bc506374c10caa6799ade2bd68f",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "cd3",
+      "company": "Kalshi",
+      "title": "Corporate Development",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T11:33:25.109Z",
+      "postId": "0x5aebc29c97d12e989b913a3f136c2a44499e7e81",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "cd3",
+      "company": "Kalshi",
+      "title": "Corporate Development",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T11:33:25.109Z",
+      "postId": "0xe661fb11ef46db2e3b66a38fbf2083a52e1dc102",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "cd3",
+      "company": "Kalshi",
+      "title": "Corporate Development",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T11:33:25.109Z",
+      "postId": "0x6a4762c4a7a375ac37c0031b22b2abc3f56970da",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "cd3",
+      "company": "Kalshi",
+      "title": "Corporate Development",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T11:33:25.109Z",
+      "postId": "0x6234908811dba6e15ed927169c7f56e3f267d268",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "cd3",
+      "company": "Kalshi",
+      "title": "Corporate Development",
+      "platform": "farcaster",
+      "postedAt": "2026-09-23T11:33:25.109Z",
+      "postId": "0x007cadea97b3c5d73ecb2a27371421183a20cfbe",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "cd3",
+      "company": "Kalshi",
+      "title": "Corporate Development",
+      "platform": "linkedin",
+      "postedAt": "2026-09-23T11:33:25.109Z",
+      "postId": "6ab3b913969a4e5475156bdc",
+      "verification": "verified"
+    },
+    {
+      "slug": "cd3",
+      "company": "Kalshi",
+      "title": "Corporate Development",
+      "platform": "facebook",
+      "postedAt": "2026-09-23T11:33:25.109Z",
+      "postId": "691827047618629_1095751829698718",
+      "verification": "verified"
+    },
+    {
+      "slug": "cd3",
+      "company": "Kalshi",
+      "title": "Corporate Development",
+      "platform": "instagram",
+      "postedAt": "2026-09-23T11:33:25.109Z",
+      "postId": "18166230022466041",
       "verification": "verified"
     }
   ]
