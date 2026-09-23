@@ -11,7 +11,7 @@ export const metadata: Metadata = {
  },
  openGraph: {
   type: 'website',
-  title: 'Visas for Digital Nomads | Hashtag Web3',
+  title: 'Visas for Digital Nomads',
   description: 'Complete database of digital nomad visas for blockchain developer, crypto, and remote Web3 builders. Filter by continent, min income, and key requirements.',
   url: 'https://hashtagweb3.com/digital-nomad-visas',
   images: [{
@@ -23,7 +23,7 @@ export const metadata: Metadata = {
  },
  twitter: {
   card: 'summary_large_image',
-  title: 'Visas for Digital Nomads | Hashtag Web3',
+  title: 'Visas for Digital Nomads',
   description: 'Complete database of digital nomad visas for blockchain developer, crypto, and remote Web3 builders. Filter by continent, min income, and key requirements.',
   images: ['https://hashtagweb3.com/og-image-tools.png'],
  },

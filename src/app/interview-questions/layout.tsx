@@ -9,7 +9,7 @@ export const metadata: Metadata = {
  },
  openGraph: {
   type: 'website',
-  title: 'Interview Questions | Hashtag Web3',
+  title: 'Interview Questions',
   description: 'Ace your next Web3 interview. Our question bank covers 200+ questions for Solidity, DeFi, PM, and non-technical roles.',
   url: 'https://hashtagweb3.com/interview-questions',
   images: [
@@ -23,7 +23,7 @@ export const metadata: Metadata = {
  },
  twitter: {
   card: 'summary_large_image',
-  title: 'Interview Questions | Hashtag Web3',
+  title: 'Interview Questions',
   description: 'Prepare for Web3 interviews with a structured bank of 200+ role-based questions.',
   images: ['https://hashtagweb3.com/og-image.png'],
  },

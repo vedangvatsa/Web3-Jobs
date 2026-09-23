@@ -12,7 +12,7 @@ export const metadata: Metadata = {
  },
  openGraph: {
   type: 'website',
-  title: 'Hiring Report 2026 | Hashtag Web3',
+  title: 'Hiring Report 2026',
   description: `${s.snapshotLabel}: ${fmtInt(s.listings)} listings, full JD text parsed. Median pay ${fmtUsdK(s.salary.median)} where listed; ${Math.round(s.keywords.ai.pct)}% of postings mention AI; ${Math.round(s.jdRemote.pct)}% mention remote.`,
   url: 'https://hashtagweb3.com/web3-hiring-report',
   images: [
@@ -26,7 +26,7 @@ export const metadata: Metadata = {
  },
  twitter: {
   card: 'summary_large_image',
-  title: 'Hiring Report 2026 | Hashtag Web3',
+  title: 'Hiring Report 2026',
   description: `${fmtInt(s.listings)} listings across ${s.companies} companies (${s.snapshotLabel}).`,
   images: ['https://hashtagweb3.com/og-image-report.png'],
  },

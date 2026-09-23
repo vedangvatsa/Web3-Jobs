@@ -9,7 +9,7 @@ export const metadata: Metadata = {
  },
  openGraph: {
   type: 'website',
-  title: 'Engagement Survey | Hashtag Web3',
+  title: 'Engagement Survey',
   description: 'Quickly gauge team morale and satisfaction with our free pulse survey generator. Build a strong company culture.',
   url: 'https://hashtagweb3.com/employee-engagement-survey',
   images: [
@@ -23,7 +23,7 @@ export const metadata: Metadata = {
  },
  twitter: {
   card: 'summary_large_image',
-  title: 'Engagement Survey | Hashtag Web3',
+  title: 'Engagement Survey',
   description: 'Generate quick and effective employee engagement pulse surveys. Measure team morale, satisfaction, and identify areas for improvement to build a strong company culture.',
   images: ['https://hashtagweb3.com/og-image-tools.png'],
  },

@@ -9,7 +9,7 @@ export const metadata: Metadata = {
  },
  openGraph: {
   type: 'website',
-  title: 'Exit Survey | Hashtag Web3',
+  title: 'Exit Survey',
   description: 'Understand why employees leave and how you can improve. Create a professional exit survey with our free tool.',
   url: 'https://hashtagweb3.com/employee-exit-survey',
   images: [
@@ -23,7 +23,7 @@ export const metadata: Metadata = {
  },
  twitter: {
   card: 'summary_large_image',
-  title: 'Exit Survey | Hashtag Web3',
+  title: 'Exit Survey',
   description: 'Generate professional exit surveys to gather valuable feedback from departing employees. Understand why team members leave and identify areas to improve retention and culture.',
   images: ['https://hashtagweb3.com/og-image-tools.png'],
  },

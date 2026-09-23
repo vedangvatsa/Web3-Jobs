@@ -9,7 +9,7 @@ export const metadata: Metadata = {
  },
  openGraph: {
   type: 'website',
-  title: 'Interview Feedback Template | Hashtag Web3',
+  title: 'Interview Feedback Template',
   description: 'Standardize your hiring process and reduce bias with our free interview feedback template for structured candidate evaluation.',
   url: 'https://hashtagweb3.com/interview-feedback-template',
   images: [
@@ -23,7 +23,7 @@ export const metadata: Metadata = {
  },
  twitter: {
   card: 'summary_large_image',
-  title: 'Interview Feedback Template | Hashtag Web3',
+  title: 'Interview Feedback Template',
   description: 'Standardize your hiring process and reduce bias with structured interview feedback forms. Help your team make better, more objective candidate evaluation decisions.',
   images: ['https://hashtagweb3.com/og-image-tools.png'],
  },

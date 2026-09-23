@@ -11,7 +11,7 @@ export const metadata: Metadata = {
  },
  openGraph: {
   type: 'website',
-  title: 'Resume Builder | Hashtag Web3',
+  title: 'Resume Builder',
   description: 'Free AI-powered resume builder for blockchain and Web3 professionals. Build an ATS-optimized resume tailored for DeFi, Solidity, Smart Contract, and DAO roles.',
   url: 'https://hashtagweb3.com/resume-builder',
   images: [{
@@ -23,7 +23,7 @@ export const metadata: Metadata = {
  },
  twitter: {
   card: 'summary_large_image',
-  title: 'Resume Builder | Hashtag Web3',
+  title: 'Resume Builder',
   description: 'Free AI-powered resume builder for blockchain and Web3 professionals. Build an ATS-optimized resume tailored for DeFi, Solidity, Smart Contract, and DAO roles.',
   images: ['https://hashtagweb3.com/og-image-tools.png'],
  },

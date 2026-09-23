@@ -11,7 +11,7 @@ export const metadata: Metadata = {
  },
  openGraph: {
   type: 'website',
-  title: 'JD Builder | Hashtag Web3',
+  title: 'JD Builder',
   description: 'Free AI-powered job description builder for Web3 and crypto companies. Generate optimized JDs for Solidity, DeFi, smart contracts, Rust, and crypto roles.',
   url: 'https://hashtagweb3.com/jd-builder',
   images: [{
@@ -23,7 +23,7 @@ export const metadata: Metadata = {
  },
  twitter: {
   card: 'summary_large_image',
-  title: 'JD Builder | Hashtag Web3',
+  title: 'JD Builder',
   description: 'Free AI-powered job description builder for Web3 and crypto companies. Generate optimized JDs for Solidity, DeFi, smart contracts, Rust, and crypto roles.',
   images: ['https://hashtagweb3.com/og-image-tools.png'],
  },

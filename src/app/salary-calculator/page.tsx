@@ -11,7 +11,7 @@ export const metadata: Metadata = {
  },
  openGraph: {
   type: 'website',
-  title: 'Salary Calculator | Hashtag Web3',
+  title: 'Salary Calculator',
   description: 'Estimate Web3 salaries by role, experience, and location. Compare live Solidity developer, smart contract auditor, crypto marketer, and product manager salary ranges.',
   url: 'https://hashtagweb3.com/salary-calculator',
   images: [{
@@ -23,7 +23,7 @@ export const metadata: Metadata = {
  },
  twitter: {
   card: 'summary_large_image',
-  title: 'Salary Calculator | Hashtag Web3',
+  title: 'Salary Calculator',
   description: 'Estimate Web3 salaries by role, experience, and location. Compare live Solidity developer, smart contract auditor, crypto marketer, and product manager salary ranges.',
   images: ['https://hashtagweb3.com/og-image-tools.png'],
  },

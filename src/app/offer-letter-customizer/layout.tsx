@@ -9,7 +9,7 @@ export const metadata: Metadata = {
  },
  openGraph: {
   type: 'website',
-  title: 'Offer Letter Tool | Hashtag Web3',
+  title: 'Offer Letter Tool',
   description: 'Create and download professional, customized offer letters for your next Web3 hire. Free and easy to use.',
   url: 'https://hashtagweb3.com/offer-letter-customizer',
   images: [
@@ -23,7 +23,7 @@ export const metadata: Metadata = {
  },
  twitter: {
   card: 'summary_large_image',
-  title: 'Offer Letter Tool | Hashtag Web3',
+  title: 'Offer Letter Tool',
   description: 'Create professional offer letters for Web3 roles in seconds.',
   images: ['https://hashtagweb3.com/og-image-tools.png'],
  },

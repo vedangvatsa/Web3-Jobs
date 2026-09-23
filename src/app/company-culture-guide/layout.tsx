@@ -9,7 +9,7 @@ export const metadata: Metadata = {
  },
  openGraph: {
   type: 'website',
-  title: 'Culture Guide Builder | Hashtag Web3',
+  title: 'Culture Guide Builder',
   description: 'Define and share your company culture. Our free tool helps you create a professional culture guide to align your team and attract talent.',
   url: 'https://hashtagweb3.com/company-culture-guide',
   images: [
@@ -23,7 +23,7 @@ export const metadata: Metadata = {
  },
  twitter: {
   card: 'summary_large_image',
-  title: 'Culture Guide Builder | Hashtag Web3',
+  title: 'Culture Guide Builder',
   description: 'Define and document your company culture with our free builder. Create a complete guide to share your values, communication norms, and team rituals to attract aligned talent.',
   images: ['https://hashtagweb3.com/og-image-tools.png'],
  },

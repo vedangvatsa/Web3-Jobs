@@ -31,7 +31,7 @@ export const metadata: Metadata = {
  },
  openGraph: {
   type: 'website',
-  title: 'Freelance Rates 2026 | Hashtag Web3',
+  title: 'Freelance Rates 2026',
   description:
    'Explore freelance pricing benchmarks by industry with practical hourly and project-rate ranges.',
   url: 'https://hashtagweb3.com/freelance-rates-by-industry',
@@ -46,7 +46,7 @@ export const metadata: Metadata = {
  },
  twitter: {
   card: 'summary_large_image',
-  title: 'Freelance Rates 2026 | Hashtag Web3',
+  title: 'Freelance Rates 2026',
   description:
    'Benchmark freelance hourly and project rates across major industries and roles.',
   images: ['https://hashtagweb3.com/og-image-tools.png'],

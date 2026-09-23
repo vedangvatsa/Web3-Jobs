@@ -9,7 +9,7 @@ export const metadata: Metadata = {
  },
  openGraph: {
   type: 'website',
-  title: 'Work-Life Survey | Hashtag Web3',
+  title: 'Work-Life Survey',
   description: 'Help your team avoid burnout. Generate a work-life balance survey with our free tool to assess workload, stress, and team well-being.',
   url: 'https://hashtagweb3.com/work-life-balance-survey',
   images: [
@@ -23,7 +23,7 @@ export const metadata: Metadata = {
  },
  twitter: {
   card: 'summary_large_image',
-  title: 'Work-Life Survey | Hashtag Web3',
+  title: 'Work-Life Survey',
   description:"Create a survey to assess and improve your team's work-life balance.",
   images: ['https://hashtagweb3.com/og-image-tools.png'],
  },

@@ -9,7 +9,7 @@ export const metadata: Metadata = {
  },
  openGraph: {
   type: 'website',
-  title: 'Web3 Career Quiz | Hashtag Web3',
+  title: 'Web3 Career Quiz',
   description:"What's your Web3 personality? Take our assessment to find out which career path is right for you in the crypto space.",
   url: 'https://hashtagweb3.com/web3-career-quiz',
   images: [
@@ -23,7 +23,7 @@ export const metadata: Metadata = {
  },
  twitter: {
   card: 'summary_large_image',
-  title: 'Web3 Career Quiz | Hashtag Web3',
+  title: 'Web3 Career Quiz',
   description:"Discover your Web3 professional archetype with our free assessment. Find out which crypto career paths best match your skills, interests, and working style in the decentralized economy.",
   images: ['https://hashtagweb3.com/og-image-tools.png'],
  },

@@ -9,7 +9,7 @@ export const metadata: Metadata = {
  },
  openGraph: {
   type: 'website',
-  title: 'Milestones Tracker | Hashtag Web3',
+  title: 'Milestones Tracker',
   description: 'Plan and track employee growth with our free milestones tracker template. Align on goals for new hires in their first 30-60-90 days.',
   url: 'https://hashtagweb3.com/employee-milestones-tracker',
   images: [
@@ -23,7 +23,7 @@ export const metadata: Metadata = {
  },
  twitter: {
   card: 'summary_large_image',
-  title: 'Milestones Tracker | Hashtag Web3',
+  title: 'Milestones Tracker',
   description: 'Create structured 30-60-90 day plans for new hires. Track employee milestones, align on goals, and support career progression with our free milestone tracking tool.',
   images: ['https://hashtagweb3.com/og-image-tools.png'],
  },

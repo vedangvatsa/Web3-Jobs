@@ -9,7 +9,7 @@ export const metadata: Metadata = {
  },
  openGraph: {
   type: 'website',
-  title: 'Onboarding Checklist | Hashtag Web3',
+  title: 'Onboarding Checklist',
   description: 'Run structured onboarding for Web3 hires with clear tasks across culture, security, and role-specific training.',
   url: 'https://hashtagweb3.com/employee-onboarding-checklist',
   images: [
@@ -23,7 +23,7 @@ export const metadata: Metadata = {
  },
  twitter: {
   card: 'summary_large_image',
-  title: 'Onboarding Checklist | Hashtag Web3',
+  title: 'Onboarding Checklist',
   description: 'Use a practical onboarding checklist for new Web3 team members.',
   images: ['https://hashtagweb3.com/og-image-tools.png'],
  },

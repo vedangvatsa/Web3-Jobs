@@ -9,7 +9,7 @@ export const metadata: Metadata = {
  },
  openGraph: {
   type: 'website',
-  title: 'Career Tools | Hashtag Web3',
+  title: 'Career Tools',
   description: 'Explore free Web3 tools for resumes, salaries, interviews, and offer letters. Built for professionals and hiring teams.',
   url: 'https://hashtagweb3.com/resources',
   images: [
@@ -23,7 +23,7 @@ export const metadata: Metadata = {
  },
  twitter: {
   card: 'summary_large_image',
-  title: 'Career Tools | Hashtag Web3',
+  title: 'Career Tools',
   description: 'Free Web3 career tools for resumes, salaries, interviews, and offers.',
   images: ['https://hashtagweb3.com/og-image-tools.png'],
  },
