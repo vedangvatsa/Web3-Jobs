@@ -32992,6 +32992,40 @@ Book a slot when you register. Limited places.
 
 https://au.superteam.fun/colosseum for more information
 
+<a id="event-14b4ca80a6ed6319"></a>
+
+## Allium x Figure Happy Hour
+
+- Record: `luma-batch-evtXEwL2ZQxOZw7U`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-10-07T08:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/92o31236>
+
+### About the event
+
+Figure and Allium are teaming up for an intimate, invite-only happy hour during Token 2049, a curated evening built for TradFi institutions, crypto-native leaders, and DeFi builders to connect over drinks, not panels. This is a quality-over-quantity gathering: no talks, no pitches, just senior decision-makers from asset management, capital allocation, and enterprise crypto in a well-designed space.
+
+Who Should Attend LPs & Allocators - family offices, funds, and treasuries evaluating on-chain yield and real-world asset exposure Fintech & Digital Asset Executives - leaders building the next generation of tokenized credit, lending, and capital markets infrastructure Curators & Regulated Platforms - teams underwriting, structuring, or distributing on-chain credit products Originators & Borrowers - companies bringing real-world lending books on-chain Data & Analytics Practitioners - on-chain researchers, quants, and builders who live in the data DeFi & RWA Builders - protocol teams and infra players working at the intersection of credit and crypt We are prioritizing C-level and senior decision-makers, so every attendee gets value from the room What to Expect A cozy, curated space designed for meaningful conversation and warm introductions among a tightly selected guest list, the kind of room where every connection counts.
+
+Hosted by: Figure Figure Technology Solutions, Inc. (NASDAQ: FIGR) is a blockchain-native financial technology company founded in 2018 that leverages the Provenance Blockchain to streamline lending, capital markets, and asset tokenization. The company operates as a major non-bank HELOC lender, having processed over $30B+ in loans on-chain, and is recognized for bringing real-world assets onto the blockchain to enhance efficiency.
+
+Co-Hosted by: Allium Allium is building the system of record for onchain finance, translating raw blockchain data from 150+ chains and 10,000+ protocols into the standardized formats enterprises need to operationalize onchain activity and build institutional-grade products. Space is limited, registration subject to host approval.
+
+<a id="event-3cc5d59fba7e86e5"></a>
+
+## Polymarket Singapore Kick-Off: Token 2049
+
+- Record: `luma-batch-evtC4yIcTMlVkY4x`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-10-07T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/polymarketsingapore>
+
+### About the event
+
+Polymarket's first ever exclusive event in Singapore. About time. Token2049 has begun and we're opening the doors to the official Polymarket kick-off. One night at High House, built for the people who trade on what happens next. Expect a curated, invitation-only room. Handcrafted cocktails, considered company, and the conversations that don't happen on a conference floor. The early evening is for connection and as the night turns, music takes over. High House, Raffles Place October 7, 2026 5:00 PM - 10:00 PM Strictly Invitation-only. Limited capacity. The odds of a night like this happening again? Unknown. Don't sit this one out. Presented by 528 Collectiv e IG @528.collective
+
 <a id="event-bd2430525c53ea24"></a>
 
 ## Colosseum Community Call #5: Fix What’s Weak ⚡
@@ -33133,6 +33167,24 @@ This event is open to the general public and is not exclusive to Introduction.co
 ### Event details
 
 Hosted by Introduction.com (A private, invite-only network for founders, executives, and investors shaping the future with technology.), Jose Anaya | ZKsync, Sam Leichman. Venue: Rickhouse, 246 Kearny St, San Francisco, CA 94108, USA. The event takes place on October 9.
+
+<a id="event-0f188af5a994e18b"></a>
+
+## Network State Conference: Singapore Oct 9, 2026
+
+- Record: `luma-batch-evtYmTGHFb7GGjrc`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-10-09T01:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/ns2026>
+
+### About the event
+
+Democracy is about the consent of the governed. In the Internet age, that now means voting not just with your ballot, but your feet. So: if you're one of the democratic capitalists of the Internet, come vote with your feet for new communities by joining us at this year's Network State Conference in Singapore on October 9. In more detail, our conference is for those interested in founding, funding, and finding startup societies and network states. This year's speakers include Ethereum founder Vitalik Buterin, Polychain founder Olaf Carlson-Wee, Floodgate founder Mike Maples, Binance CEO Richard Teng, and Deputy Prime Minister of Kazakhstan Zhaslan Madiyev.
+
+As a cornerstone of financial privacy, Zcash has consistently been featured at the Network State Conference. This year's events will expand on that coverage, beginning with a Zcash Zummit, with speakers including Zcash cofounder Zooko Wilcox, Zcash cofounder Sean Bowe of Tachyon, Zodl founder Josh Swihart, Vizor founder Josh Lee, Zakura cofounder Dev Ojha, Valar Group's Evan Forbes, Winklevoss Capital's Maxime Desalle, and Zcash Labs' Tom Howard. The full conference includes talks on startup societies, network states, digital nomadism, competitive government, legalizing innovation, and internet-first institutions.
+
+You'll watch presentations by startup society founders from around the world, explore them, and find the community that best fits you. Held in sunny Singapore on October 9, 2026, right after Token2049, at level 5 of the Marina Bay Sands Expo and Convention Centre. In-person tickets are only $99 and remote attendance is free. We look forward to seeing you there!
 
 <a id="event-273c910ff211b623"></a>
 
