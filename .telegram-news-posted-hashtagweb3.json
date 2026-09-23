@@ -593,6 +593,9 @@
   "https://hashtagweb3.com/animoca-currenc?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://decrypt.co/378978/white-hat-hackers-coldcard-exploit-bitcoin-recovery-trust",
   "https://decrypt.co/378986/openai-launches-gpt-6-sol-luna-anthropic-claude-opus-5-5",
+  "https://cointelegraph.com/news/sec-mark-uyeda-agency-dropped-crypto-cases?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "https://decrypt.co/379120/china-probes-deepseek-moonshot-data-leaks-anthropic-claude",
+  "https://decrypt.co/379126/openai-ukraine-access-daybreak-ai-cyber-defense-tool",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -1687,6 +1690,12 @@
   "White-Hat Hackers Route Coldcard Exploit Bitcoin Into 'Recovery Trust'",
   "OpenAI and Anthropic Release New AI Models Simultaneously",
   "OpenAI Launches GPT-6 Sol and Luna Minutes After Anthropic Drops Claude Opus 5.5",
+  "BitMEX exchange ceases operations",
+  "Ex-SEC acting chair: Agency dropped crypto cases to avoid issues with credibility",
+  "CME Group adds Bitcoin Cash and Uniswap futures",
+  "China Probes DeepSeek and Moonshot Over Alleged Data Leaks to Anthropic's Claude",
+  "OpenAI Provides Ukraine Access to Daybreak Cyber-Defense Tool",
+  "OpenAI Gives Ukraine Access to Daybreak AI Cyber-Defense Tool",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -1830,5 +1839,8 @@
   "fp:account|claim|court|creator|fil|firm|focus|fraudulent|high|invalid",
   "fp:animoca|brand|combin|currenc|firm|given|group|hav|list|merger",
   "fp:are|bank|canada|canadian|coldcard|commercial|deposit|digital|exploit|financial",
-  "fp:anthropic|both|compet|day|drop|gpt6|luna|market|minut|openai"
+  "fp:anthropic|both|compet|day|drop|gpt6|luna|market|minut|openai",
+  "fp:act|agency|avoid|bitmex|cas|ceas|chair|credibility|down|dropp",
+  "fp:add|alleg|anthropic|cash|china|cme|contract|data|deepseek|derivativ",
+  "fp:access|cyber|daybreak|defens|giv|government|identify|infrastructur|national|openai"
 ]

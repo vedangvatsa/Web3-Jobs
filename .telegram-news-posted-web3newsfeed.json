@@ -614,6 +614,9 @@
   "https://hashtagweb3.com/etf-inflows?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://www.theblock.co/news/business/2026-09-22-sofi-begins-stablecoin-settlement-on-mastercard-network-for-program-expected-to-exceed-25-billion-in-annualized-volume-416035",
   "https://cointelegraph.com/news/cftc-selig-mass-tokenization-sec-onchain-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "https://hashtagweb3.com/ondo-shares?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/x-payout?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://decrypt.co/379120/china-probes-deepseek-moonshot-data-leaks-anthropic-claude",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -1748,6 +1751,12 @@
   "SoFi begins stablecoin settlement on Mastercard network for program expected to exceed $25 billion in annualized volume",
   "CFTC and SEC Continue Tokenization Efforts Despite Setbacks",
   "CFTC chair pushes tokenization as SEC opens door to onchain stocks",
+  "Ondo and Alpaca enable in-kind tokenized stock redemption",
+  "Ondo Opens In-Kind Route for Tokenized Stocks With Alpaca",
+  "X Sues Operators of Six Bitcoin Accounts for Fraud",
+  "X Sues Operators of Six Bitcoin Accounts Over Creator Payouts",
+  "China investigates DeepSeek and Moonshot for alleged data misuse",
+  "China Probes DeepSeek and Moonshot Over Alleged Data Leaks to Anthropic's Claude",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -1894,5 +1903,8 @@
   "fp:100m|agreement|alongsid|binanc|circl|exchang|fiv|follow|invest|investment",
   "fp:9989m|999m|ark|blackrock|daily|dollar|draw|etf|fidelity|fund",
   "fp:25b|annual|annualiz|begin|digital|dollar|enabl|exc|expect|financial",
-  "fp:act|advanc|agency|are|cftc|chair|clarity|continu|despit|door"
+  "fp:act|advanc|agency|are|cftc|chair|clarity|continu|despit|door",
+  "fp:alpaca|approv|bnb|can|chain|enabl|institution|kind|mint|ondo",
+  "fp:account|alleg|creator|defendant|england|fil|fraud|fraudulent|involv|lawsuit",
+  "fp:alleg|anthropic|are|authority|china|claim|data|deepseek|investigat|leak"
 ]

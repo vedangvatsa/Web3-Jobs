@@ -602,6 +602,9 @@
   "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
   "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
   "https://www.technologyreview.com/2026/09/23/1144953/smart-glasses-havoc-india/",
+  "https://arstechnica.com/tech-policy/2026/09/china-silent-as-us-touts-plan-for-ai-safety-alerts-that-omits-tech-experts/",
+  "https://arstechnica.com/gadgets/2026/09/xprize-wildfire-winners-spotted-fires-within-10-min-but-couldnt-stop-them/",
+  "https://arstechnica.com/gadgets/2026/09/youtube-promises-custom-feeds-and-a-lot-more-ai-later-this-year/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1589,6 +1592,12 @@
   "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
   "Smart glasses used to film protesters in India",
   "Smart glasses are already causing havoc in India",
+  "Experts warn US-China AI competition could hinder safety cooperation",
+  "Trump’s China rivalry and “AI race” delusion may endanger US, experts say",
+  "XPRIZE competition tests wildfire detection and suppression technology",
+  "XPRIZE Wildfire winners spotted fires within 10 min—but couldn’t stop them",
+  "YouTube to introduce AI-powered feeds and new features",
+  "YouTube promises custom feeds and a lot more AI later this year",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -1708,5 +1717,8 @@
   "fp:astroforg|autonomy1|bas|command|control|dur|manag|mission|next|operation",
   "fp:can|chip|devic|directly|emphasis|execution|expert|flagship|local|mixtur",
   "fp:boast|compar|cost|error|expens|fewer|generation|gpt6|lower|luna",
-  "fp:already|are|camera|captur|caus|delhi|demonstration|film|footag|glass"
+  "fp:already|are|camera|captur|caus|delhi|demonstration|film|footag|glass",
+  "fp:china|collaborat|competition|cooperation|delusion|discourag|endanger|expert|hinder|international",
+  "fp:competition|couldn|current|detect|detection|fir|ineffectiv|method|min|onc",
+  "fp:custom|featur|introduc|later|livestream|lot|mor|plan|platform|power"
 ]

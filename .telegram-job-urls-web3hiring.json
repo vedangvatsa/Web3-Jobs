@@ -724,6 +724,14 @@
     "lastUrl": "https://hashtagweb3.com/engineer303",
     "updatedAt": "2026-09-17T08:51:13.383Z"
   },
+  "8154856": {
+    "slugs": [
+      "analyst138"
+    ],
+    "lastSlug": "analyst138",
+    "lastUrl": "https://hashtagweb3.com/analyst138",
+    "updatedAt": "2026-09-23T22:28:37.887Z"
+  },
   "8155035": {
     "slugs": [
       "compliance128",
@@ -3002,34 +3010,75 @@
   },
   "4f5e4bcc-386b-4dcd-ae2a-6ace507b2563": {
     "slugs": [
-      "rust27"
+      "rust27",
+      "rustb2563",
+      "rust10"
     ],
-    "lastSlug": "rust27",
-    "lastUrl": "https://hashtagweb3.com/rust27",
+    "lastSlug": "rust10",
+    "lastUrl": "https://hashtagweb3.com/rust10",
     "updatedAt": "2026-09-23T11:35:02.217Z"
   },
   "b04e376692fb01": {
     "slugs": [
-      "marketing97"
+      "marketing97",
+      "marketing2fb01",
+      "marketing93058",
+      "marketing102",
+      "marketing-06yl42k"
     ],
-    "lastSlug": "marketing97",
-    "lastUrl": "https://hashtagweb3.com/marketing97",
+    "lastSlug": "marketing-06yl42k",
+    "lastUrl": "https://hashtagweb3.com/marketing-06yl42k",
     "updatedAt": "2026-09-23T11:35:02.379Z"
   },
   "7662641003": {
     "slugs": [
-      "sales72"
+      "sales72",
+      "sales41003"
     ],
-    "lastSlug": "sales72",
-    "lastUrl": "https://hashtagweb3.com/sales72",
+    "lastSlug": "sales41003",
+    "lastUrl": "https://hashtagweb3.com/sales41003",
     "updatedAt": "2026-09-23T11:35:02.856Z"
   },
   "8c0ea2a6-e423-4898-9e7b-810719030013": {
     "slugs": [
-      "manager324"
+      "manager324",
+      "manager30013",
+      "manager-0ci6azq"
     ],
-    "lastSlug": "manager324",
-    "lastUrl": "https://hashtagweb3.com/manager324",
+    "lastSlug": "manager-0ci6azq",
+    "lastUrl": "https://hashtagweb3.com/manager-0ci6azq",
     "updatedAt": "2026-09-23T11:35:03.174Z"
+  },
+  "5406194008": {
+    "slugs": [
+      "engineer971"
+    ],
+    "lastSlug": "engineer971",
+    "lastUrl": "https://hashtagweb3.com/engineer971",
+    "updatedAt": "2026-09-23T22:28:37.479Z"
+  },
+  "tangem-python-automation-developer-investment-products": {
+    "slugs": [
+      "product601"
+    ],
+    "lastSlug": "product601",
+    "lastUrl": "https://hashtagweb3.com/product601",
+    "updatedAt": "2026-09-23T22:28:37.644Z"
+  },
+  "a1656305-da57-49a6-aa51-65c6a1a71205": {
+    "slugs": [
+      "manager491"
+    ],
+    "lastSlug": "manager491",
+    "lastUrl": "https://hashtagweb3.com/manager491",
+    "updatedAt": "2026-09-23T22:28:38.002Z"
+  },
+  "5276311008": {
+    "slugs": [
+      "manager252"
+    ],
+    "lastSlug": "manager252",
+    "lastUrl": "https://hashtagweb3.com/manager252",
+    "updatedAt": "2026-09-23T22:28:38.081Z"
   }
 }
