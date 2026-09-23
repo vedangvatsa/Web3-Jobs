@@ -164,6 +164,7 @@ const COMPANY_ALIASES: Record<string, string> = {
   'chainlink labs': 'Chainlink Labs',
   'startale': 'Startale Group',
   'startale group': 'Startale Group',
+  'mural pay': 'Mural',
 };
 
 function normalizeCompany(company: string): string {
@@ -209,7 +210,7 @@ function cleanTitle(text: string | undefined): string | undefined {
 }
 
 function isDirectSource(source: string): boolean {
-  return /^(Greenhouse|Lever|Ashby|Workable|Recruitee|Workday|SmartRecruiters|Breezy|BambooHR|Comeet|Teamtailor|Rippling|FirstParty|Superteam):/i.test(source);
+  return /^(Greenhouse|Lever|Ashby|Workable|Recruitee|Workday|SmartRecruiters|Breezy|BambooHR|Comeet|Teamtailor|Rippling|Dover|FirstParty|Superteam):/i.test(source);
 }
 
 function sourceLabel(provider: string, board: string, company: string): string {
@@ -927,6 +928,8 @@ async function refreshJobsCache() {
     { board: 'safe', company: 'Safe' },
     { board: 'gelato', company: 'Gelato Network' },
     { board: 'matter-labs', company: 'Matter Labs' },
+    { board: 'Aspora', company: 'Aspora' },
+    { board: 'Augustus', company: 'Augustus' },
   ];
 
   for (const ab of ASHBY_BOARDS) {
@@ -1379,6 +1382,7 @@ async function refreshJobsCache() {
     { board: 'nexo', company: 'Nexo' },
     { board: 'zero-hash', company: 'Zero Hash' },
     { board: 'alliance', company: 'Alliance DAO' },
+    { board: 'transak-inc', company: 'Transak' },
   ];
 
   for (const bz of BREEZY_BOARDS) {
@@ -1433,6 +1437,87 @@ async function refreshJobsCache() {
     } catch (error: any) {
       feedsFailed++;
       console.warn(`  ❌ Breezy (${bz.company}): ${error.message}`);
+    }
+  }
+
+  // --- Dover careers pages (public API) ---
+  const DOVER_BOARDS = [
+    {
+      board: 'muralpay',
+      company: 'Mural',
+      clientId: 'e1176848-7d2d-46aa-9eb1-3b7c4412f095',
+      careersPath: 'Mural Pay',
+    },
+  ];
+
+  for (const dv of DOVER_BOARDS) {
+    registerDirectSource('Dover', dv.board, dv.company);
+    try {
+      const listRes = await fetch(
+        `https://app.dover.com/api/v1/careers-page/${encodeURIComponent(dv.clientId)}/jobs?limit=300`,
+      );
+      if (!listRes.ok) throw new Error(`HTTP ${listRes.status}`);
+      const listData = await listRes.json() as {
+        results: Array<{ id: string; title: string; created?: string }>;
+      };
+
+      removeJobs((job) => matchesRefreshedSource(job, 'Dover', dv.board, dv.company));
+      removeAggregatorCopiesForCompany(dv.company);
+
+      let added = 0;
+      await runInBatches(listData.results || [], 6, async (posting) => {
+        const title = cleanTitle(posting.title);
+        if (!title || !isConcreteOpening(title)) return;
+
+        const detailRes = await fetch(
+          `https://app.dover.com/api/v1/inbound/application-portal-job/${encodeURIComponent(posting.id)}`,
+        );
+        if (!detailRes.ok) throw new Error(`Detail HTTP ${detailRes.status}`);
+        const detail = await detailRes.json() as {
+          id: string;
+          title: string;
+          created?: string;
+          active?: boolean;
+          is_private?: boolean;
+          user_provided_description?: string;
+          location?: string | null;
+          locations?: Array<{ name?: string }>;
+        };
+        if (detail.active === false || detail.is_private) return;
+
+        const detailTitle = cleanTitle(detail.title) || title;
+        if (!detailTitle || !isConcreteOpening(detailTitle)) return;
+        const content = detail.user_provided_description?.trim() || '';
+        if (!isUsableDescription(content)) {
+          throw new Error(`Missing substantial employer content: ${posting.id}`);
+        }
+
+        const locationNames = detail.locations?.map((row) => row.name).filter(Boolean) as string[] | undefined;
+        const location = detail.location || (locationNames?.length ? locationNames.join(' · ') : undefined);
+
+        const link = `https://app.dover.com/${encodeURIComponent(dv.careersPath)}/careers/${detail.id}`;
+        const candidate: CachedJob = {
+          id: detail.id,
+          title: detailTitle,
+          company: normalizeCompany(dv.company),
+          link,
+          date: detail.created || posting.created || new Date().toISOString(),
+          source: sourceLabel('Dover', dv.board, dv.company),
+          location,
+          active: true,
+        };
+        candidate.date = candidate.date
+          || persistedDates.get(getJobIdentity(candidate))
+          || candidate.date;
+        if (upsertJob(candidate)) added++;
+        rememberDescription(candidate, content);
+      });
+
+      feedsOk++;
+      console.log(`  ✅ Dover (${dv.company}): ${listData.results?.length || 0} items, ${added} new`);
+    } catch (error: any) {
+      feedsFailed++;
+      console.warn(`  ❌ Dover (${dv.company}): ${error.message}`);
     }
   }
 

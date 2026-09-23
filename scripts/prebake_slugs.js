@@ -34,7 +34,7 @@ function cleanJobTitle(title, company) {
 
 function sourceQuality(job) {
   const s = job.source.toLowerCase();
-  if (/^(greenhouse|lever|ashby|workable|recruitee|workday|smartrecruiters|breezy|bamboohr|comeet|teamtailor|rippling|firstparty|superteam):/.test(s)) return 3;
+  if (/^(greenhouse|lever|ashby|workable|recruitee|workday|smartrecruiters|breezy|bamboohr|comeet|teamtailor|rippling|dover|firstparty|superteam):/.test(s)) return 3;
   if (!s.startsWith('http')) return 2;
   return 1;
 }
@@ -48,6 +48,7 @@ function normalizeJobLink(link) {
     if (ghId) return `greenhouse:${ghId}`;
     const uuid = (url.pathname.match(/\/([a-f0-9]{8}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{12})(?:\/|$)/i)||[])[1];
     if (uuid && hostname.includes('ashbyhq.com')) return `ashby:${uuid.toLowerCase()}`;
+    if (uuid && hostname.includes('dover.com')) return `dover:${uuid.toLowerCase()}`;
     if (uuid && hostname.includes('lever.co')) return `lever:${uuid.toLowerCase()}`;
     const wId = hostname.includes('workable.com') ? (url.pathname.match(/\/j\/([a-z0-9]+)(?:\/|$)/i)||[])[1] : undefined;
     if (wId) return `workable:${wId.toLowerCase()}`;

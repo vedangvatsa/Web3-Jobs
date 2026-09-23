@@ -169,6 +169,10 @@ const COMPANY_FAVICON_DOMAINS: Record<string, string> = {
   'mercuryo': 'mercuryo.com',
   'mysten-labs': 'mystenlabs.com',
   'subzero-labs': 'subzerolabs.org',
+  'transak': 'transak.com',
+  'aspora': 'aspora.com',
+  'augustus': 'augustus.com',
+  'mural': 'muralpay.com',
 };
 
 function faviconUrlForDomain(domain: string): string {

@@ -29,6 +29,7 @@ export function normalizeJobLink(link: string): string {
 
     const uuid = url.pathname.match(/\/([a-f0-9]{8}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{12})(?:\/|$)/i)?.[1];
     if (uuid && hostname.includes('ashbyhq.com')) return `ashby:${uuid.toLowerCase()}`;
+    if (uuid && hostname.includes('dover.com')) return `dover:${uuid.toLowerCase()}`;
     if (uuid && hostname.includes('lever.co')) return `lever:${uuid.toLowerCase()}`;
 
     const workableId = hostname.includes('workable.com')

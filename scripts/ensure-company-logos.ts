@@ -47,6 +47,10 @@ const DOMAIN_OVERRIDES: Record<string, string> = {
   mercuryo: 'mercuryo.com',
   'mysten-labs': 'mystenlabs.com',
   'subzero-labs': 'subzerolabs.org',
+  transak: 'transak.com',
+  aspora: 'aspora.com',
+  augustus: 'augustus.com',
+  mural: 'muralpay.com',
 };
 
 /** When slug.png is missing but a related file exists, copy/reuse it. */
