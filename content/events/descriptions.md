@@ -25814,6 +25814,58 @@ Free and open. Prepare your project and questions for Harkl
 
 https://au.superteam.fun/colosseum for more information
 
+<a id="event-86cd33e8ae4f5b18"></a>
+
+## Agentic Commerce in Focus - Hong Kong's Opportunity + W3H AGM + Networking
+
+- Record: `luma-batch-evtQqAlkOIrtxtvu`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-09-23T08:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/mt6x0y89>
+
+### About the event
+
+Join W3H for our Annual General Meeting and a timely discussion on the rapidly developing agentic economy, including Hong Kong's agentic advantage.
+
+Where the Agentic Economy Does Business - Risks, Rails & Opportunity
+
+AI agents are beginning to transact on their own - buying, selling, paying and contracting. This shift creates major opportunities for Hong Kong, but only if the right market, legal, technology, identity and security infrastructure is in place.
+
+This discussion will explore the size of the opportunity, the new risks that emerge when software becomes economically empowered, and how W3H and our members are advancing work on agentic payments, finance and security. The goal: to position Hong Kong as a leading place where the agentic economy does business.
+
+### Agenda
+
+16:30 | Doors open
+
+17:00 | Annual General Meeting
+
+17:30 | Panel Discussion: Agentic Commerce in Focus, with Joey Liu (Terminal 3), Michael Lau (Consensus / Bullish), Peter Brewin (PwC), and moderated by Karena Belin (WHub)
+
+18:00 | Networking Drinks
+
+Registration Notes:
+
+- Advanced registration is required.
+- Attendance is free for current members.
+- Non-members can join for HKD 100, to help cover the networking drinks.
+
+If you'd like to become a member, email gm@web3harbour.org or sign up directly at: https://web3harbour.glueup.com/org/web3harbour/memberships/company/
+
+======
+
+Notices:
+
+Attendance implies your consent for photos/videos to be used in W3H promotional materials.
+
+When an extreme weather advisory is hoisted, the event will be canceled.
+
+Contact gm@web3harbour.org if you have questions.
+
+Consent to Disclosure of Information
+
+By accepting/registering this event, you consent to your personal data/information being collected and used by W3H Limited and Web3 Harbour ('W3H') for event administration, communication and logistics. You also consent and grant the rights to being filmed, photographed and recorded during panel and networking sessions for use in marketing materials by W3H in accordance with the Data Policy Notice of W3H.
+
 <a id="event-4e3fde68218773d9"></a>
 
 ## Solana Privacy Rings with Helius. Colosseum Edition
@@ -26685,6 +26737,80 @@ No sales will be conducted in cryptocurrency. There will be no solicitation to b
 ### Co-hosts
 
 Pudgy Penguins / Fracton Ventures / enXross (Tokyo Dome) / Effisend
+
+<a id="event-f1d6eaedec566748"></a>
+
+## Whitepaper Reading HK - Perpetualization of Everything? (萬物皆可上鏈？)
+
+- Record: `luma-batch-evtLGhxnagd30UAL`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-09-24T11:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/vbd0pmtv>
+
+### About the event
+
+🇭🇰 WPRC 白皮書讀書會第五場來了！
+
+Perpetual Futures (永續合約)一直被視為原生加密工具交易工具。在2026年，隨著更多機構級企業參與，可供交易的永續合約種類變得愈來愈多。永續合約是怎樣由一種加密原生工具，變成任何「有可信價格」資產都可以套用的金融結構？而它跟傳統期貨的分別又是什麼？
+
+*Note: This session will be conducted in Cantonese.
+
+我們會討論：
+
+永續合約的起源與設計哲學 - Perps的Funding rate機制是如何靠資金費率令價格貼近現貨市場？
+
+HyperLiquid的無許可部署永續合約- HIP-3 與 permissionless market creation的機制和開放性，對永續合約帶來的新行業標準
+
+Pre-IPO Pers案例分享 - 探討不同資產在價格發現上所出現的準繩度相差分別
+
+目前面對的領域瓶頸、Oracle (
+
+預言機)風險和監管邊界 - SK Hynix 合約在韓國引發的爆倉事件揭示誰要為 Oracle的錯誤負責，以及 CFTC(美國商品期貨交易委員會)目前取態
+
+Resources: Summary | Allium Research | HyperLiquid
+
+導讀人 - Oscar Chang (Analyst at Gate Ventures)
+
+Session 形式
+
+開場 10 分鐘靜默閱讀
+
+討論優先,不設 panel
+
+歡迎帶問題來(技術深度沒問題)
+
+會後分享簡短筆記與重點整理
+
+感謝 MUNG Legal
+
+MUNG Legal 是香港首間專注於區塊鏈領域的律師事務所，成立於 2018 年，專門處理 Web3、數碼資產、金融科技及跨境相關法律事務。
+
+事務所由管理合夥人 Monin Ung 領導。Monin 同時擁有香港、新加坡及英國律師資格，並具備超過 20 年國際法律經驗。其領導及顧問團隊亦包括：負責策略及創投的 Michael Hui, BBS, MH, JP；擁有超過 30 年房地產及私募基金經驗的顧問 Makoto Takada；以及資深企業、併購及私募股權律師 Angela Li。
+
+MUNG Legal 一直支持 Whitepaper Reading Club，早前曾支持我們在新加坡舉辦活動，最近亦再次支持我們在香港的活動。
+
+衷心感謝 MUNG Legal 的持續支持
+
+https://www.munglegal.com
+
+Whitepaper Reading Club（WPRC）
+
+一個聚集 1,000+ builders、engineers、researchers 的全球社群，橫跨 Singapore、Kuala Lumpur、San Francisco、Lagos、Hong Kong、Bangkok、New York - 每月聚在一起，圓桌式硬啃最新的blockchain項目和研究文！
+
+每一場都會有一份清楚易讀的 Summary 一讓所有人都能參與、一起學習交流。
+
+想和 WPRC 一起走在技術前沿？
+
+回顧過往活動與分享摘要：https://wprc.club
+
+參加更多活動：https://luma.com/whitepaper
+
+LinkedIn：https://linkedin.com/company/whitepaper-reading-club/
+
+Instagram：https://instagram.com/wprc.club/
+
+持續關注 WPRC，與我們一起探索最前沿的技術趨勢與研究！
 
 <a id="event-48004f021c091650"></a>
 
@@ -31866,6 +31992,28 @@ The venue for this meeting is sponsored by Bitcoin Bay and the BitDevs Toronto w
 
 Free to attend.
 
+<a id="event-98028319b2404a2e"></a>
+
+## Payments and Stablecoins Cafe in MBS w/ Monad Foundation and StraitsX
+
+- Record: `luma-batch-evtxXrOExH1UJ0fZ`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-10-07T02:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/monad-straitsx>
+
+### About the event
+
+Join Monad Foundation and StraitsX for a relaxed pop-up café during Token2049 week in Singapore
+
+A casual space to connect, build, and talk about what's next for on-chain payments.
+
+Come have a coffee, some food, and a great conversation.
+
+### Event details
+
+Organized by Monad Foundation Events. Venue: PS.Cafe Marina Bay Sands, PS.Cafe Marina Bay Sands, 10 Bayfront Ave, B2-119-120A, Singapore 018956. Tickets: Free.
+
 <a id="event-b84bb5954216993f"></a>
 
 ## Final Pitch Polish — Pitch Practice #4
@@ -32710,6 +32858,32 @@ Todd Stevens, Chief Capital Officer, Figure
 
 Jamie Walker, Head of Digital Assets and Money Movement, U.S. Bank
 
+<a id="event-2e3ce663620d6f77"></a>
+
+## Build with Stripe: Adding Payments to Your Product
+
+- Record: `luma-batch-evt8RezKQUn6TrHC`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-10-14T23:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/8kkegkh7>
+
+### About the event
+
+IMPORTANT: An RSVP on Luma alone does not register you. Complete your registration on the Stripe Community site to receive the join link: https://www.stripecommunity.com/public/clubs/stablecoins/events/build-with-stripe-community-embed-payments-into-your-platform-or-marketplace-bcbvqc5xp5
+
+Have an idea for an app, service, creator business, community, nonprofit, retail concept, professional service, marketplace, or other venture? This free, interactive 60-minute workshop makes the money side easier to understand.
+
+We will map who pays, who gets paid, what value you provide, whether your business earns a fee, and when funds move. You will see when Stripe Connect may help and when a simpler Stripe setup may fit better.
+
+For founders, product managers, designers, developers, creators, operators, students, small-business owners, and curious builders. No payments experience, technical expertise, company, or finished product is required.
+
+Wednesday, October 14, 2026
+
+7:00 to 8:00 PM ET
+
+Online and free
+
 <a id="event-16a7325f5533978d"></a>
 
 ## U-Hackathon 2026
@@ -33279,6 +33453,46 @@ Seguiremos compartiendo más información sobre la agenda, speakers y actividade
 Links: La Familia
 
 Nos vemos en El Encuentro 2026
+
+<a id="event-f6fc27761dabd6e9"></a>
+
+## Crypto Compliance and Legal Community Drinks - Hong Kong
+
+- Record: `luma-batch-evtrN879vRTa1NBn`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-10-29T10:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/yjhzi8vg>
+
+### About the event
+
+Hong Kong Crypto Compliance & Legal Community Drinks
+
+Join us on Thursday, October 29 from 6pm onwards for a relaxed evening of drinks and conversation with the Hong Kong Crypto Compliance & Legal Community.
+
+This informal meetup is all about bringing together compliance, legal, policy, financial crime and regulatory professionals working across the digital asset ecosystem. It's a chance to connect with peers, exchange ideas, share experiences and build meaningful relationships; and this time you want to add some pre Halloween vibes lol
+
+There's no agenda, no panels - just good conversations and a welcoming crowd.
+
+Expect:
+
+A friendly and relaxed atmosphere
+
+Conversations on crypto compliance, legal and regulatory developments
+
+Opportunities to connect with professionals from across the digital asset ecosystem
+
+A chance to unwind after work over a glass of wine or a beer
+
+Whether you're working at a crypto company, bank, law firm, regulator or advisory firm, we'd love to have you join us.
+
+Drinks are pay-as-you-go. Come by, bring a colleague, and let's continue growing the Hong Kong Crypto Compliance & Legal Community together.
+
+### About the Crypto Compliance & Legal Community
+
+The Crypto Compliance & Legal Community brings together compliance, legal, policy and regulatory professionals from across the digital asset industry.
+
+Our ambition is simple: bring together the right people in the room to have honest conversations, share experiences and build meaningful relationships. Through regular meetups and our global Telegram community of more than 3,300 members, we're building a trusted network for professionals shaping the future of digital assets.
 
 <a id="event-2b05fcde7e4d40db"></a>
 
