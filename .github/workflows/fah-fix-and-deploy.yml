@@ -21,7 +21,7 @@ jobs:
         with:
           credentials_json: ${{ secrets.FIREBASE_APPHOSTING_SERVICE_ACCOUNT_KEY || secrets.FIREBASE_SERVICE_ACCOUNT_KEY }}
       - uses: google-github-actions/setup-gcloud@v2
-      - name: Grant Firebase App Hosting admin to the deploy account
+      - name: Grant deploy role + actAs on the App Hosting compute SA
         id: grant
         continue-on-error: true
         run: |
@@ -31,6 +31,12 @@ jobs:
           gcloud projects add-iam-policy-binding web3-jobs-aggregator \
             --member="serviceAccount:${SA}" \
             --role="roles/firebaseapphosting.admin" \
+            --quiet
+          echo "Granting roles/iam.serviceAccountUser on the App Hosting compute SA to $SA"
+          gcloud iam service-accounts add-iam-policy-binding \
+            firebase-app-hosting-compute@web3-jobs-aggregator.iam.gserviceaccount.com \
+            --member="serviceAccount:${SA}" \
+            --role="roles/iam.serviceAccountUser" \
             --quiet
       - name: Stop if this run cannot grant the deploy role
         if: ${{ inputs.grant_only == true && steps.grant.outcome != 'success' }}
@@ -66,6 +72,24 @@ jobs:
             --project web3-jobs-aggregator \
             --backend studio \
             --non-interactive || true
+      - name: Preflight - verify deploy permissions (fail fast)
+        if: ${{ inputs.grant_only != true }}
+        run: |
+          set -euo pipefail
+          TOKEN=$(gcloud auth print-access-token)
+          ACTAS=$(curl -s -X POST \
+            -H "Authorization: Bearer $TOKEN" \
+            -H 'Content-Type: application/json' \
+            "https://iam.googleapis.com/v1/projects/-/serviceAccounts/firebase-app-hosting-compute@web3-jobs-aggregator.iam.gserviceaccount.com:testIamPermissions" \
+            -d '{"permissions":["iam.serviceAccounts.actAs"]}')
+          echo "actAs check: $ACTAS"
+          if ! echo "$ACTAS" | python3 -c 'import sys,json; sys.exit(0 if "iam.serviceAccounts.actAs" in json.load(sys.stdin).get("permissions", []) else 1)'; then
+            echo "PERMISSION GAP: the deploy service account cannot actAs firebase-app-hosting-compute@."
+            echo "Fix (project Owner, one time): IAM & Admin -> IAM -> antigravity-agent@web3-jobs-aggregator.iam.gserviceaccount.com -> Grant access -> Role: Service Account User -> Save."
+            echo "Aborting before creating a build that is guaranteed to 403."
+            exit 1
+          fi
+          echo "Deploy permissions OK."
       - name: Create build + rollout for main
         if: ${{ inputs.grant_only != true }}
         run: |
