@@ -164,6 +164,11 @@ const COMPANY_FAVICON_DOMAINS: Record<string, string> = {
   'gsr': 'gsr.io',
   'gsr-markets': 'gsr.io',
   'gsrmarkets': 'gsr.io',
+  'securitize': 'securitize.io',
+  'cournot': 'yzilabs.com',
+  'mercuryo': 'mercuryo.com',
+  'mysten-labs': 'mystenlabs.com',
+  'subzero-labs': 'subzerolabs.org',
 };
 
 function faviconUrlForDomain(domain: string): string {

@@ -1,5 +1,10 @@
 import { getCompanyBySlug } from '@/lib/companies';
-import { FAVICON_FIRST_SLUGS, resolveCompanyLogo, getCompanyFaviconUrl } from '@/lib/company-logo';
+import {
+  FAVICON_FIRST_SLUGS,
+  resolveCompanyLogo,
+  getCompanyFaviconUrl,
+  getCompanyFaviconUrlBySlug,
+} from '@/lib/company-logo';
 import { CompanyLogo } from '@/components/company-logo';
 import { Briefcase, ExternalLink } from 'lucide-react';
 import Link from 'next/link';
@@ -31,7 +36,8 @@ export async function CompanyDetailView({ slug }: { slug: string }) {
   // Per-company override: Circle shows its circle.com favicon here.
   // (The homepage "companies like" strip keeps using the file logo.)
   const logoFile = resolveCompanyLogo(company.slug);
-  const favicon = getCompanyFaviconUrl(company.website);
+  const favicon =
+    getCompanyFaviconUrl(company.website) ?? getCompanyFaviconUrlBySlug(company.slug);
   const preferFavicon = FAVICON_FIRST_SLUGS.has(company.slug) && !!favicon;
   const logoSrc = preferFavicon ? favicon : logoFile;
   const faviconUrl = preferFavicon ? logoFile : favicon;
