@@ -1,5 +1,5 @@
 {
-  "lastIndex": 226,
+  "lastIndex": 232,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -72,7 +72,9 @@
     "eng159",
     "cd3",
     "job37",
-    "eng183"
+    "eng183",
+    "sls94",
+    "sls91"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -8915,6 +8917,442 @@
       "platform": "instagram",
       "postedAt": "2026-09-23T22:26:31.515Z",
       "postId": "18090907343465233",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls94",
+      "company": "Block",
+      "title": "Territory Account Executive, SoHo",
+      "platform": "threads",
+      "postedAt": "2026-09-24T03:50:07.190Z",
+      "postId": "18109858469271171",
+      "verification": "verified",
+      "expectedText": "Block is hiring Territory Account Executive, SoHo: https://hashtagweb3.com/sls94/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/Ddp9WzOET2M",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "sls94",
+      "company": "Block",
+      "title": "Territory Account Executive, SoHo",
+      "platform": "bluesky",
+      "postedAt": "2026-09-24T03:50:07.190Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwadzuseq32f",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls94",
+      "company": "Block",
+      "title": "Territory Account Executive, SoHo",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T03:50:07.190Z",
+      "postId": "0x41e3b749170bdaea6f3968d6730eeea10e4f2ae6",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls94",
+      "company": "Block",
+      "title": "Territory Account Executive, SoHo",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T03:50:07.190Z",
+      "postId": "0x848a41cd7625ca0e66625612e8cf2fbb6c5553fe",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls94",
+      "company": "Block",
+      "title": "Territory Account Executive, SoHo",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T03:50:07.190Z",
+      "postId": "0x7f66172c2c6711666b21db1d5317d01762a869a7",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls94",
+      "company": "Block",
+      "title": "Territory Account Executive, SoHo",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T03:50:07.190Z",
+      "postId": "0x05b05e9a2b1ac3b9d9b5f8bfbcdcc48a2e5ba798",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls94",
+      "company": "Block",
+      "title": "Territory Account Executive, SoHo",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T03:50:07.190Z",
+      "postId": "0x23a1cc6a5e1fa1e8832fdef3fa27df2c6a4bbbe7",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls94",
+      "company": "Block",
+      "title": "Territory Account Executive, SoHo",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T03:50:07.190Z",
+      "postId": "0x1207cccf1e7297057798886f0e7ddf23f1e8f56c",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls94",
+      "company": "Block",
+      "title": "Territory Account Executive, SoHo",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T03:50:07.190Z",
+      "postId": "0x90cd2841a3c8cdb9ede6eeacebe66d1b8e65255d",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls94",
+      "company": "Block",
+      "title": "Territory Account Executive, SoHo",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T03:50:07.190Z",
+      "postId": "0x3ead943675e2ab4182c8b2e00c1a2de0907665a3",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls94",
+      "company": "Block",
+      "title": "Territory Account Executive, SoHo",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T03:50:07.190Z",
+      "postId": "0xc9e97ba71206641f5e8f2c9fca40e75a05bfd496",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls94",
+      "company": "Block",
+      "title": "Territory Account Executive, SoHo",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T03:50:07.190Z",
+      "postId": "0xcbc23198f7b1e910d9431ffcf8d456c0141db6f9",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls94",
+      "company": "Block",
+      "title": "Territory Account Executive, SoHo",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T03:50:07.190Z",
+      "postId": "0x30eb81b2b6c514c146517681d24d6e94fb5365a1",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls94",
+      "company": "Block",
+      "title": "Territory Account Executive, SoHo",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T03:50:07.190Z",
+      "postId": "0x25456777cf279e16661809f029990d29ba8ceec2",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls94",
+      "company": "Block",
+      "title": "Territory Account Executive, SoHo",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T03:50:07.190Z",
+      "postId": "0x693bf407703c8e041daafdfd927a1bb45f95990b",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls94",
+      "company": "Block",
+      "title": "Territory Account Executive, SoHo",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T03:50:07.190Z",
+      "postId": "0x87600d1ac471a479a2f280cf627d5df1f452c0eb",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls94",
+      "company": "Block",
+      "title": "Territory Account Executive, SoHo",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T03:50:07.190Z",
+      "postId": "0x2a567d439f16751def7ed07dcc9b7c751cf68e6f",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls94",
+      "company": "Block",
+      "title": "Territory Account Executive, SoHo",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T03:50:07.190Z",
+      "postId": "0xc0c713a518dfed4798caafceb60a4d1ebf82f51d",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls94",
+      "company": "Block",
+      "title": "Territory Account Executive, SoHo",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T03:50:07.190Z",
+      "postId": "0xf986aaa5177c22a38172ff9d24f0b66223c9b9fe",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls94",
+      "company": "Block",
+      "title": "Territory Account Executive, SoHo",
+      "platform": "linkedin",
+      "postedAt": "2026-09-24T03:50:07.190Z",
+      "postId": "6ab49dff153ba7c8a6978ff1",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls94",
+      "company": "Block",
+      "title": "Territory Account Executive, SoHo",
+      "platform": "facebook",
+      "postedAt": "2026-09-24T03:50:07.190Z",
+      "postId": "691827047618629_1096346759639225",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls94",
+      "company": "Block",
+      "title": "Territory Account Executive, SoHo",
+      "platform": "instagram",
+      "postedAt": "2026-09-24T03:50:07.190Z",
+      "postId": "17908941999514721",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls91",
+      "company": "Figure",
+      "title": "Sales Development Representative (SDR), Enterprise",
+      "platform": "threads",
+      "postedAt": "2026-09-24T03:50:51.642Z",
+      "postId": "18137241805626238",
+      "verification": "verified",
+      "expectedText": "Figure is hiring Sales Development Representative (SDR), Enterprise: https://hashtagweb3.com/sls91/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/Ddp9cL5ES6y",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "sls91",
+      "company": "Figure",
+      "title": "Sales Development Representative (SDR), Enterprise",
+      "platform": "bluesky",
+      "postedAt": "2026-09-24T03:50:51.642Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwae37oyfk2t",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls91",
+      "company": "Figure",
+      "title": "Sales Development Representative (SDR), Enterprise",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T03:50:51.642Z",
+      "postId": "0xc125d19de803df908b0eebe79251283898e94ce8",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls91",
+      "company": "Figure",
+      "title": "Sales Development Representative (SDR), Enterprise",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T03:50:51.642Z",
+      "postId": "0xe2c94646938ceac89c51183960a5e3adfa7c9b1c",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls91",
+      "company": "Figure",
+      "title": "Sales Development Representative (SDR), Enterprise",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T03:50:51.642Z",
+      "postId": "0xaa934dd5d1467ed31b68299af334afba9d337028",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls91",
+      "company": "Figure",
+      "title": "Sales Development Representative (SDR), Enterprise",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T03:50:51.642Z",
+      "postId": "0x58785c64d070c350955580fbd2f536bfdafa803a",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls91",
+      "company": "Figure",
+      "title": "Sales Development Representative (SDR), Enterprise",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T03:50:51.642Z",
+      "postId": "0x5c08f8fc05b3e254dd73e30e2a3db0d605a78ab4",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls91",
+      "company": "Figure",
+      "title": "Sales Development Representative (SDR), Enterprise",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T03:50:51.642Z",
+      "postId": "0xfafebe220fa1576aa66a3b74874c7d80690d9997",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls91",
+      "company": "Figure",
+      "title": "Sales Development Representative (SDR), Enterprise",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T03:50:51.642Z",
+      "postId": "0x34d9dd31e5fba0ba595bb2979d5856a4f85252e8",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls91",
+      "company": "Figure",
+      "title": "Sales Development Representative (SDR), Enterprise",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T03:50:51.642Z",
+      "postId": "0x0d392902f299a1a4c4ad4ca6ef23a536c48c4a79",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls91",
+      "company": "Figure",
+      "title": "Sales Development Representative (SDR), Enterprise",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T03:50:51.642Z",
+      "postId": "0x7043cb1eb863c13b89377e64e7397f9534a92dde",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls91",
+      "company": "Figure",
+      "title": "Sales Development Representative (SDR), Enterprise",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T03:50:51.642Z",
+      "postId": "0x984a4f32c48e23c73748e3e6d3d4fdefd0702ab6",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls91",
+      "company": "Figure",
+      "title": "Sales Development Representative (SDR), Enterprise",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T03:50:51.642Z",
+      "postId": "0xdde6f9667ed874c55eb8b8097e1d36dfe1a96ec3",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls91",
+      "company": "Figure",
+      "title": "Sales Development Representative (SDR), Enterprise",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T03:50:51.642Z",
+      "postId": "0xeb066d62422a357c0dd19a512528b6d537a5093e",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls91",
+      "company": "Figure",
+      "title": "Sales Development Representative (SDR), Enterprise",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T03:50:51.642Z",
+      "postId": "0x616691157004583c5f59e59539366fddba5b46b8",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls91",
+      "company": "Figure",
+      "title": "Sales Development Representative (SDR), Enterprise",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T03:50:51.642Z",
+      "postId": "0xad782d68535018346af4bcb723edab69d6a99b16",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls91",
+      "company": "Figure",
+      "title": "Sales Development Representative (SDR), Enterprise",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T03:50:51.642Z",
+      "postId": "0x2df4d13b90ae5af13251ef871c68f4384840e27a",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls91",
+      "company": "Figure",
+      "title": "Sales Development Representative (SDR), Enterprise",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T03:50:51.642Z",
+      "postId": "0x9ae1446403172f36ff5ee4dc0091295d7967a957",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls91",
+      "company": "Figure",
+      "title": "Sales Development Representative (SDR), Enterprise",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T03:50:51.642Z",
+      "postId": "0xd4b8b8de27b8756c8d5d9e190c9ba2f5ae6fea27",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls91",
+      "company": "Figure",
+      "title": "Sales Development Representative (SDR), Enterprise",
+      "platform": "linkedin",
+      "postedAt": "2026-09-24T03:50:51.642Z",
+      "postId": "6ab49e2bccbef1e0a54442b2",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls91",
+      "company": "Figure",
+      "title": "Sales Development Representative (SDR), Enterprise",
+      "platform": "facebook",
+      "postedAt": "2026-09-24T03:50:51.642Z",
+      "postId": "691827047618629_1096347292972505",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls91",
+      "company": "Figure",
+      "title": "Sales Development Representative (SDR), Enterprise",
+      "platform": "instagram",
+      "postedAt": "2026-09-24T03:50:51.642Z",
+      "postId": "18094401902126023",
       "verification": "verified"
     }
   ]
