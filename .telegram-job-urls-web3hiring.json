@@ -268,10 +268,11 @@
       "concierge94501",
       "concierge1",
       "concierge-1dhzt2l",
-      "cs"
+      "cs",
+      "cs5"
     ],
-    "lastSlug": "cs",
-    "lastUrl": "https://hashtagweb3.com/cs",
+    "lastSlug": "cs5",
+    "lastUrl": "https://hashtagweb3.com/cs5",
     "updatedAt": "2026-09-15T19:45:20.263Z"
   },
   "8013951": {
@@ -726,10 +727,13 @@
   },
   "8154856": {
     "slugs": [
-      "analyst138"
+      "analyst138",
+      "analyst54856",
+      "product709",
+      "analyst52"
     ],
-    "lastSlug": "analyst138",
-    "lastUrl": "https://hashtagweb3.com/analyst138",
+    "lastSlug": "analyst52",
+    "lastUrl": "https://hashtagweb3.com/analyst52",
     "updatedAt": "2026-09-23T22:28:37.887Z"
   },
   "8155035": {
@@ -805,6 +809,14 @@
     "lastSlug": "pm54",
     "lastUrl": "https://hashtagweb3.com/pm54",
     "updatedAt": "2026-09-22T08:01:17.248Z"
+  },
+  "8199729": {
+    "slugs": [
+      "dev3"
+    ],
+    "lastSlug": "dev3",
+    "lastUrl": "https://hashtagweb3.com/dev3",
+    "updatedAt": "2026-09-24T11:33:15.236Z"
   },
   "8204521": {
     "slugs": [
@@ -3051,34 +3063,76 @@
   },
   "5406194008": {
     "slugs": [
-      "engineer971"
+      "engineer971",
+      "engineer94008-09bt"
     ],
-    "lastSlug": "engineer971",
-    "lastUrl": "https://hashtagweb3.com/engineer971",
+    "lastSlug": "engineer94008-09bt",
+    "lastUrl": "https://hashtagweb3.com/engineer94008-09bt",
     "updatedAt": "2026-09-23T22:28:37.479Z"
   },
   "tangem-python-automation-developer-investment-products": {
     "slugs": [
-      "product601"
+      "product601",
+      "product4",
+      "python-automation",
+      "product93788"
     ],
-    "lastSlug": "product601",
-    "lastUrl": "https://hashtagweb3.com/product601",
+    "lastSlug": "product93788",
+    "lastUrl": "https://hashtagweb3.com/product93788",
     "updatedAt": "2026-09-23T22:28:37.644Z"
   },
   "a1656305-da57-49a6-aa51-65c6a1a71205": {
     "slugs": [
-      "manager491"
+      "manager491",
+      "manager71205",
+      "manager514",
+      "manager295",
+      "manager-12dg088"
     ],
-    "lastSlug": "manager491",
-    "lastUrl": "https://hashtagweb3.com/manager491",
+    "lastSlug": "manager-12dg088",
+    "lastUrl": "https://hashtagweb3.com/manager-12dg088",
     "updatedAt": "2026-09-23T22:28:38.002Z"
   },
   "5276311008": {
     "slugs": [
-      "manager252"
+      "manager252",
+      "manager11008",
+      "manager-1h2e7cv"
     ],
-    "lastSlug": "manager252",
-    "lastUrl": "https://hashtagweb3.com/manager252",
+    "lastSlug": "manager-1h2e7cv",
+    "lastUrl": "https://hashtagweb3.com/manager-1h2e7cv",
     "updatedAt": "2026-09-23T22:28:38.081Z"
+  },
+  "0000302": {
+    "slugs": [
+      "job10"
+    ],
+    "lastSlug": "job10",
+    "lastUrl": "https://hashtagweb3.com/job10",
+    "updatedAt": "2026-09-24T11:33:13.630Z"
+  },
+  "9916e9da-7491-4c99-afd1-e4b8158fa58b": {
+    "slugs": [
+      "engineer1000"
+    ],
+    "lastSlug": "engineer1000",
+    "lastUrl": "https://hashtagweb3.com/engineer1000",
+    "updatedAt": "2026-09-24T11:33:14.507Z"
+  },
+  "90148307F5": {
+    "slugs": [
+      "client2"
+    ],
+    "lastSlug": "client2",
+    "lastUrl": "https://hashtagweb3.com/client2",
+    "updatedAt": "2026-09-24T11:33:14.750Z"
+  },
+  "d14eba78-ecc4-49b3-934c-ed8fec03cabe": {
+    "slugs": [
+      "job23"
+    ],
+    "lastSlug": "job23",
+    "lastUrl": "https://hashtagweb3.com/job23",
+    "updatedAt": "2026-09-24T11:33:14.909Z"
   }
 }
