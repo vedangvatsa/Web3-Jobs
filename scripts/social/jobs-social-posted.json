@@ -1,5 +1,5 @@
 {
-  "lastIndex": 232,
+  "lastIndex": 234,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -74,7 +74,9 @@
     "job37",
     "eng183",
     "sls94",
-    "sls91"
+    "sls91",
+    "sls108",
+    "an25"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -119,286 +121,6 @@
     "pm50"
   ],
   "history": [
-    {
-      "slug": "operationsft05",
-      "company": "Franklin Templeton",
-      "title": "Senior Administrative Assistant (Franklin Templeton Crypto)",
-      "platform": "x",
-      "postedAt": "2026-09-05T08:36:18.023Z",
-      "postId": "2096155447917187226"
-    },
-    {
-      "slug": "operationsft05",
-      "company": "Franklin Templeton",
-      "title": "Senior Administrative Assistant (Franklin Templeton Crypto)",
-      "platform": "threads",
-      "postedAt": "2026-09-05T08:36:18.023Z",
-      "postId": "18125567929878837"
-    },
-    {
-      "slug": "associatepwc10",
-      "company": "PwC",
-      "title": "Technology Consulting Associate (Digital Assets & Payments)",
-      "platform": "threads",
-      "postedAt": "2026-09-05T09:45:27.361Z",
-      "postId": "17914293072448509"
-    },
-    {
-      "slug": "managerpwc09",
-      "company": "PwC",
-      "title": "Banking & Capital Markets Tax Manager (FinTech & Crypto)",
-      "platform": "threads",
-      "postedAt": "2026-09-05T10:04:55.732Z",
-      "postId": "18017839757726459"
-    },
-    {
-      "slug": "managerpwc07",
-      "company": "PwC",
-      "title": "AWM - Assurance - Digital Assets Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-05T10:15:19.961Z",
-      "postId": "0xb85b7cd2f1869b5c23b79a312c6f24a276582e04"
-    },
-    {
-      "slug": "seniorpwc06",
-      "company": "PwC",
-      "title": "BCM - Assurance - Digital Assets Senior Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-05T10:19:43.223Z",
-      "postId": "0x94832a5f72471a97a63549b372d7ff3fe4346428"
-    },
-    {
-      "slug": "managerpwc05",
-      "company": "PwC",
-      "title": "BCM - Assurance - Digital Assets Manager",
-      "platform": "facebook",
-      "postedAt": "2026-09-05T10:47:22.999Z",
-      "postId": "1080519067888661"
-    },
-    {
-      "slug": "seniorpwc04",
-      "company": "PwC",
-      "title": "Digital Assurance & Transparency - Digital Assets Senior Associate",
-      "platform": "x",
-      "postedAt": "2026-09-05T12:40:37.435Z",
-      "postId": "2096216934203171214"
-    },
-    {
-      "slug": "seniorpwc04",
-      "company": "PwC",
-      "title": "Digital Assurance & Transparency - Digital Assets Senior Associate",
-      "platform": "threads",
-      "postedAt": "2026-09-05T12:40:37.435Z",
-      "postId": "17934320709121212"
-    },
-    {
-      "slug": "seniorpwc04",
-      "company": "PwC",
-      "title": "Digital Assurance & Transparency - Digital Assets Senior Associate",
-      "platform": "bluesky",
-      "postedAt": "2026-09-05T12:40:37.435Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3murit5s6qa2j"
-    },
-    {
-      "slug": "seniorpwc04",
-      "company": "PwC",
-      "title": "Digital Assurance & Transparency - Digital Assets Senior Associate",
-      "platform": "farcaster",
-      "postedAt": "2026-09-05T12:40:37.435Z",
-      "postId": "0x818cfc986dbf132b9df0c28dbc34da58b8e78f23"
-    },
-    {
-      "slug": "seniorpwc04",
-      "company": "PwC",
-      "title": "Digital Assurance & Transparency - Digital Assets Senior Associate",
-      "platform": "linkedin",
-      "postedAt": "2026-09-05T12:40:37.435Z",
-      "postId": "6a9c0dda8219c85cc85f531c"
-    },
-    {
-      "slug": "seniorpwc04",
-      "company": "PwC",
-      "title": "Digital Assurance & Transparency - Digital Assets Senior Associate",
-      "platform": "facebook",
-      "postedAt": "2026-09-05T12:40:37.435Z",
-      "postId": "1080594407881127"
-    },
-    {
-      "slug": "architectpwc03",
-      "company": "PwC",
-      "title": "AI / Blockchain Architect Senior Manager",
-      "platform": "x",
-      "postedAt": "2026-09-05T17:20:06.255Z",
-      "postId": "2096287267513880990"
-    },
-    {
-      "slug": "architectpwc03",
-      "company": "PwC",
-      "title": "AI / Blockchain Architect Senior Manager",
-      "platform": "threads",
-      "postedAt": "2026-09-05T17:20:06.255Z",
-      "postId": "18489194017096892"
-    },
-    {
-      "slug": "architectpwc03",
-      "company": "PwC",
-      "title": "AI / Blockchain Architect Senior Manager",
-      "platform": "bluesky",
-      "postedAt": "2026-09-05T17:20:06.255Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3murygvzg232l"
-    },
-    {
-      "slug": "architectpwc03",
-      "company": "PwC",
-      "title": "AI / Blockchain Architect Senior Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-05T17:20:06.255Z",
-      "postId": "0xa931010a249c1f822821aaa121f1ab8de93d0bb3"
-    },
-    {
-      "slug": "architectpwc03",
-      "company": "PwC",
-      "title": "AI / Blockchain Architect Senior Manager",
-      "platform": "linkedin",
-      "postedAt": "2026-09-05T17:20:06.255Z",
-      "postId": "6a9c4f5d85ccb3a22c06d416"
-    },
-    {
-      "slug": "architectpwc03",
-      "company": "PwC",
-      "title": "AI / Blockchain Architect Senior Manager",
-      "platform": "facebook",
-      "postedAt": "2026-09-05T17:20:06.255Z",
-      "postId": "1080784844528750"
-    },
-    {
-      "slug": "role0e83c",
-      "company": "Marketnode",
-      "title": "Test Engineer",
-      "platform": "x",
-      "postedAt": "2026-09-05T20:18:45.458Z",
-      "postId": "2096332227152154803"
-    },
-    {
-      "slug": "role0e83c",
-      "company": "Marketnode",
-      "title": "Test Engineer",
-      "platform": "threads",
-      "postedAt": "2026-09-05T20:18:45.458Z",
-      "postId": "18134256478723461"
-    },
-    {
-      "slug": "role0e83c",
-      "company": "Marketnode",
-      "title": "Test Engineer",
-      "platform": "bluesky",
-      "postedAt": "2026-09-05T20:18:45.458Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3muscgef73t23"
-    },
-    {
-      "slug": "role0e83c",
-      "company": "Marketnode",
-      "title": "Test Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-09-05T20:18:45.458Z",
-      "postId": "0x4203552c72d1e5783909688cdcc055e115e59ecc"
-    },
-    {
-      "slug": "role0e83c",
-      "company": "Marketnode",
-      "title": "Test Engineer",
-      "platform": "linkedin",
-      "postedAt": "2026-09-05T20:18:45.458Z",
-      "postId": "6a9c793bf97391de04bd9b6a"
-    },
-    {
-      "slug": "role0e83c",
-      "company": "Marketnode",
-      "title": "Test Engineer",
-      "platform": "facebook",
-      "postedAt": "2026-09-05T20:18:45.458Z",
-      "postId": "1080887307851837"
-    },
-    {
-      "slug": "role0e83c",
-      "company": "Marketnode",
-      "title": "Test Engineer",
-      "platform": "instagram",
-      "postedAt": "2026-09-05T20:18:45.458Z",
-      "postId": "18123039439873127"
-    },
-    {
-      "slug": "coindcx1769",
-      "company": "CoinDCX",
-      "title": "Associate Market Risk",
-      "platform": "x",
-      "postedAt": "2026-09-05T22:52:59.742Z",
-      "postId": "2096371042436440424"
-    },
-    {
-      "slug": "coindcx1769",
-      "company": "CoinDCX",
-      "title": "Associate Market Risk",
-      "platform": "threads",
-      "postedAt": "2026-09-05T22:52:59.742Z",
-      "postId": "17896060455605787"
-    },
-    {
-      "slug": "coindcx1769",
-      "company": "CoinDCX",
-      "title": "Associate Market Risk",
-      "platform": "bluesky",
-      "postedAt": "2026-09-05T22:52:59.742Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3musl25ulo22l"
-    },
-    {
-      "slug": "coindcx1769",
-      "company": "CoinDCX",
-      "title": "Associate Market Risk",
-      "platform": "farcaster",
-      "postedAt": "2026-09-05T22:52:59.742Z",
-      "postId": "0x4fd04637b3dbb56d123778c8e3abbf959d564b6c"
-    },
-    {
-      "slug": "coindcx1769",
-      "company": "CoinDCX",
-      "title": "Associate Market Risk",
-      "platform": "linkedin",
-      "postedAt": "2026-09-05T22:52:59.742Z",
-      "postId": "6a9c9d62fba008bcd55378db"
-    },
-    {
-      "slug": "coindcx1769",
-      "company": "CoinDCX",
-      "title": "Associate Market Risk",
-      "platform": "facebook",
-      "postedAt": "2026-09-05T22:52:59.742Z",
-      "postId": "1080965677844000"
-    },
-    {
-      "slug": "role7ac73",
-      "company": "Talos Trading",
-      "title": "Open Application",
-      "platform": "x",
-      "postedAt": "2026-09-06T04:34:11.683Z",
-      "postId": "2096456907959497186"
-    },
-    {
-      "slug": "role7ac73",
-      "company": "Talos Trading",
-      "title": "Open Application",
-      "platform": "threads",
-      "postedAt": "2026-09-06T04:34:11.683Z",
-      "postId": "18374431651233590"
-    },
-    {
-      "slug": "role7ac73",
-      "company": "Talos Trading",
-      "title": "Open Application",
-      "platform": "bluesky",
-      "postedAt": "2026-09-06T04:34:11.683Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mut64h4uos2l"
-    },
     {
       "slug": "role7ac73",
       "company": "Talos Trading",
@@ -9353,6 +9075,442 @@
       "platform": "instagram",
       "postedAt": "2026-09-24T03:50:51.642Z",
       "postId": "18094401902126023",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls108",
+      "company": "Socket",
+      "title": "Account Executive, SMB",
+      "platform": "threads",
+      "postedAt": "2026-09-24T11:31:29.930Z",
+      "postId": "17941408578351232",
+      "verification": "verified",
+      "expectedText": "Socket is hiring Account Executive, SMB: https://hashtagweb3.com/sls108/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DdqyKDdkfhc",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "sls108",
+      "company": "Socket",
+      "title": "Account Executive, SMB",
+      "platform": "bluesky",
+      "postedAt": "2026-09-24T11:31:29.930Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwb5sw5nb42z",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls108",
+      "company": "Socket",
+      "title": "Account Executive, SMB",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T11:31:29.930Z",
+      "postId": "0xa175c5e680f72a6a730b151eb96923f3d6381cc3",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls108",
+      "company": "Socket",
+      "title": "Account Executive, SMB",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T11:31:29.930Z",
+      "postId": "0x4a89be884a8a6de6d8eb24d73225a4eca67dcffa",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls108",
+      "company": "Socket",
+      "title": "Account Executive, SMB",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T11:31:29.930Z",
+      "postId": "0x6c1b19eefa31f2fecb0add25e3de6037f9c59657",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls108",
+      "company": "Socket",
+      "title": "Account Executive, SMB",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T11:31:29.930Z",
+      "postId": "0xedbcb851765ae049c02a3662b7c7e8322ce76043",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls108",
+      "company": "Socket",
+      "title": "Account Executive, SMB",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T11:31:29.930Z",
+      "postId": "0x28bda475b368ab8de30f0c08e2d944662d09549e",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls108",
+      "company": "Socket",
+      "title": "Account Executive, SMB",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T11:31:29.930Z",
+      "postId": "0x3a9ea57ad08ba9c77702b0c9bb8f6132768f721d",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls108",
+      "company": "Socket",
+      "title": "Account Executive, SMB",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T11:31:29.930Z",
+      "postId": "0x314d310bf62245a209d4dca97b608a8b4a81bfd4",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls108",
+      "company": "Socket",
+      "title": "Account Executive, SMB",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T11:31:29.930Z",
+      "postId": "0x80274d55fcc7bb258d8c929bcf8419c65388fbb5",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls108",
+      "company": "Socket",
+      "title": "Account Executive, SMB",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T11:31:29.930Z",
+      "postId": "0x93c31e2f1eecd7c0891884deb2f240fd2cece374",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls108",
+      "company": "Socket",
+      "title": "Account Executive, SMB",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T11:31:29.930Z",
+      "postId": "0x56e929fc0b07216bde3a742a5e0d206265ea101a",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls108",
+      "company": "Socket",
+      "title": "Account Executive, SMB",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T11:31:29.930Z",
+      "postId": "0x2444476b876e57ee90974ec4d3afa75810ad9011",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls108",
+      "company": "Socket",
+      "title": "Account Executive, SMB",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T11:31:29.930Z",
+      "postId": "0xa5c1015bd2ccb21041d8ac441f49fc07c1634dc5",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls108",
+      "company": "Socket",
+      "title": "Account Executive, SMB",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T11:31:29.930Z",
+      "postId": "0xa14dd5658d40424db85eb68891305f7667e1a816",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls108",
+      "company": "Socket",
+      "title": "Account Executive, SMB",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T11:31:29.930Z",
+      "postId": "0xfee6e043f7a8ba42db3f867f94b82ed1c36515ff",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls108",
+      "company": "Socket",
+      "title": "Account Executive, SMB",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T11:31:29.930Z",
+      "postId": "0x1372bc9fee04ae255cacb2cc278e731e320218cb",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls108",
+      "company": "Socket",
+      "title": "Account Executive, SMB",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T11:31:29.930Z",
+      "postId": "0x49bcbbbd1a76fbb311fd92c911976dfcf3bebfe7",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls108",
+      "company": "Socket",
+      "title": "Account Executive, SMB",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T11:31:29.930Z",
+      "postId": "0x8c0f92ee1af25984c17ccf9036c94b38432894ed",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls108",
+      "company": "Socket",
+      "title": "Account Executive, SMB",
+      "platform": "linkedin",
+      "postedAt": "2026-09-24T11:31:29.930Z",
+      "postId": "6ab50a22a6e17cb6c59f458f",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls108",
+      "company": "Socket",
+      "title": "Account Executive, SMB",
+      "platform": "facebook",
+      "postedAt": "2026-09-24T11:31:29.930Z",
+      "postId": "691827047618629_1096630242944210",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls108",
+      "company": "Socket",
+      "title": "Account Executive, SMB",
+      "platform": "instagram",
+      "postedAt": "2026-09-24T11:31:29.930Z",
+      "postId": "18218578681351943",
+      "verification": "verified"
+    },
+    {
+      "slug": "an25",
+      "company": "Robinhood",
+      "title": "Data Solutions & Analytics Senior Analyst",
+      "platform": "threads",
+      "postedAt": "2026-09-24T11:32:13.867Z",
+      "postId": "18070525226784258",
+      "verification": "verified",
+      "expectedText": "Robinhood is hiring Data Solutions & Analytics Senior Analyst: https://hashtagweb3.com/an25/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DdqyPYFka-M",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "an25",
+      "company": "Robinhood",
+      "title": "Data Solutions & Analytics Senior Analyst",
+      "platform": "bluesky",
+      "postedAt": "2026-09-24T11:32:13.867Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwb5u5jpl72n",
+      "verification": "verified"
+    },
+    {
+      "slug": "an25",
+      "company": "Robinhood",
+      "title": "Data Solutions & Analytics Senior Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T11:32:13.867Z",
+      "postId": "0x6758078effee00dcfbfc6f7d62211bb66f59df0f",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "an25",
+      "company": "Robinhood",
+      "title": "Data Solutions & Analytics Senior Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T11:32:13.867Z",
+      "postId": "0x1ddc511621dc2627312e41d91430fd96f5175300",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "an25",
+      "company": "Robinhood",
+      "title": "Data Solutions & Analytics Senior Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T11:32:13.867Z",
+      "postId": "0x0b8a1bf14423722754dbc2929a49ec4202916c6a",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "an25",
+      "company": "Robinhood",
+      "title": "Data Solutions & Analytics Senior Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T11:32:13.867Z",
+      "postId": "0x62486b8954189f6c1ceb4a6c2f2329546fecd216",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "an25",
+      "company": "Robinhood",
+      "title": "Data Solutions & Analytics Senior Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T11:32:13.867Z",
+      "postId": "0xb1b20ecc374ff7f856cfdf69aa7d3d10aecece26",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "an25",
+      "company": "Robinhood",
+      "title": "Data Solutions & Analytics Senior Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T11:32:13.867Z",
+      "postId": "0x7e9922d886adea83d16e26d0a004a236965fb479",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "an25",
+      "company": "Robinhood",
+      "title": "Data Solutions & Analytics Senior Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T11:32:13.867Z",
+      "postId": "0x7bc21a61558ed5ac4771cb56c722ee75c885fc54",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "an25",
+      "company": "Robinhood",
+      "title": "Data Solutions & Analytics Senior Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T11:32:13.867Z",
+      "postId": "0xc567d8ee9b8e1d4e31e46137fc52446cc3763b96",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "an25",
+      "company": "Robinhood",
+      "title": "Data Solutions & Analytics Senior Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T11:32:13.867Z",
+      "postId": "0xcd698112f3b49a25aaea5f9546378ac91a416a33",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "an25",
+      "company": "Robinhood",
+      "title": "Data Solutions & Analytics Senior Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T11:32:13.867Z",
+      "postId": "0x9a0fde337cfbd09a23541ae0442f4ac154bde94a",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "an25",
+      "company": "Robinhood",
+      "title": "Data Solutions & Analytics Senior Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T11:32:13.867Z",
+      "postId": "0xdee4e9776ad67d4191a32a4b173ae2d78d7eb675",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "an25",
+      "company": "Robinhood",
+      "title": "Data Solutions & Analytics Senior Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T11:32:13.867Z",
+      "postId": "0x083186727e7856dd1649267cd4de9059439749a3",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "an25",
+      "company": "Robinhood",
+      "title": "Data Solutions & Analytics Senior Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T11:32:13.867Z",
+      "postId": "0x54619f9976a655a1c8cc7416ada32b3a51e897f5",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "an25",
+      "company": "Robinhood",
+      "title": "Data Solutions & Analytics Senior Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T11:32:13.867Z",
+      "postId": "0x3f61e3a567071fdbefd4ba272cecb95fc78c14c7",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "an25",
+      "company": "Robinhood",
+      "title": "Data Solutions & Analytics Senior Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T11:32:13.867Z",
+      "postId": "0x6f526c9fc1274e0e5317271c1e85ee795858e531",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "an25",
+      "company": "Robinhood",
+      "title": "Data Solutions & Analytics Senior Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T11:32:13.867Z",
+      "postId": "0x310273805bd63276ff6cd9019f36f337be4487a4",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "an25",
+      "company": "Robinhood",
+      "title": "Data Solutions & Analytics Senior Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T11:32:13.867Z",
+      "postId": "0xf480e8fc0669f3fbbfb427e674da508d24ed384c",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "an25",
+      "company": "Robinhood",
+      "title": "Data Solutions & Analytics Senior Analyst",
+      "platform": "linkedin",
+      "postedAt": "2026-09-24T11:32:13.867Z",
+      "postId": "6ab50a4ca6e17cb6c59f4a55",
+      "verification": "verified"
+    },
+    {
+      "slug": "an25",
+      "company": "Robinhood",
+      "title": "Data Solutions & Analytics Senior Analyst",
+      "platform": "facebook",
+      "postedAt": "2026-09-24T11:32:13.867Z",
+      "postId": "691827047618629_1096630702944164",
+      "verification": "verified"
+    },
+    {
+      "slug": "an25",
+      "company": "Robinhood",
+      "title": "Data Solutions & Analytics Senior Analyst",
+      "platform": "instagram",
+      "postedAt": "2026-09-24T11:32:13.867Z",
+      "postId": "17911194696476699",
       "verification": "verified"
     }
   ]
