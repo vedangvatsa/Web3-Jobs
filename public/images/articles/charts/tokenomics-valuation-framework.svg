@@ -18,7 +18,7 @@ text{fill:#cbd5e1}.header{fill:#f1f5f9}.row-bg{fill:#1e293b}.card{fill:#0f172a;s
 <line class="grid" x1="20" y1="65" x2="620" y2="65"/>
 <text x="28" y="82" class="header">Audit Dimension</text>
 <text x="175" y="82" class="header">Key Metrics &amp; Formulas</text>
-<text x="340" y="82" class="header">Telemetry &amp; Verification</text>
+<text x="340" y="82" class="header" style="font-size:11px">Telemetry &amp; Verification</text>
 <text x="495" y="82" class="header">Evaluation Focus</text>
 <line class="grid" x1="20" y1="92" x2="620" y2="92"/>
 
@@ -30,8 +30,8 @@ text{fill:#cbd5e1}.header{fill:#f1f5f9}.row-bg{fill:#1e293b}.card{fill:#0f172a;s
 <text x="175" y="132" font-size="10" fill="#64748b">Circulating vs Max supply</text>
 <text x="340" y="116">CoinGecko, CoinMarketCap</text>
 <text x="340" y="132" font-size="10" fill="#64748b">Etherscan totalSupply()</text>
-<rect class="pill1" x="495" y="110" width="85" height="12" rx="3"/>
-<text x="500" y="120" font-size="10" fill="#ffffff" font-weight="700">Low-Float Risk</text>
+<rect class="pill1" x="495" y="110" width="95" height="12" rx="3"/>
+<text x="500" y="120" style="font-size:9px;fill:#ffffff" font-weight="700">Low-Float Risk</text>
 
 <!-- Row 2 -->
 <text x="28" y="168" font-weight="600">Vesting &amp; Overhang</text>
@@ -40,8 +40,8 @@ text{fill:#cbd5e1}.header{fill:#f1f5f9}.row-bg{fill:#1e293b}.card{fill:#0f172a;s
 <text x="175" y="184" font-size="10" fill="#64748b">Cliff step vs linear rate</text>
 <text x="340" y="168">Tokenomist, DropsTab</text>
 <text x="340" y="184" font-size="10" fill="#64748b">Vesting contract bytecode</text>
-<rect class="pill2" x="495" y="162" width="75" height="12" rx="3"/>
-<text x="500" y="172" font-size="10" fill="#ffffff" font-weight="700">Sell Pressure</text>
+<rect class="pill2" x="495" y="162" width="85" height="12" rx="3"/>
+<text x="500" y="172" style="font-size:9px;fill:#ffffff" font-weight="700">Sell Pressure</text>
 
 <!-- Row 3 -->
 <rect class="row-bg" x="20" y="198" width="600" height="50" rx="4"/>
@@ -51,8 +51,8 @@ text{fill:#cbd5e1}.header{fill:#f1f5f9}.row-bg{fill:#1e293b}.card{fill:#0f172a;s
 <text x="175" y="236" font-size="10" fill="#64748b">Staking yield vs dilution</text>
 <text x="340" y="220">Token Terminal, Artemis</text>
 <text x="340" y="236" font-size="10" fill="#64748b">DefiLlama Protocol Fees</text>
-<rect class="pill3" x="495" y="214" width="70" height="12" rx="3"/>
-<text x="500" y="224" font-size="10" fill="#ffffff" font-weight="700">Real Accrual</text>
+<rect class="pill3" x="495" y="214" width="80" height="12" rx="3"/>
+<text x="500" y="224" style="font-size:9px;fill:#ffffff" font-weight="700">Real Accrual</text>
 
 <!-- Row 4 -->
 <text x="28" y="272" font-weight="600">Holder Concentration</text>
@@ -61,8 +61,8 @@ text{fill:#cbd5e1}.header{fill:#f1f5f9}.row-bg{fill:#1e293b}.card{fill:#0f172a;s
 <text x="175" y="288" font-size="10" fill="#64748b">Exchange reserve balances</text>
 <text x="340" y="272">Nansen, Arkham, Dune</text>
 <text x="340" y="288" font-size="10" fill="#64748b">On-chain clustering</text>
-<rect class="pill4" x="495" y="266" width="95" height="12" rx="3"/>
-<text x="500" y="276" font-size="10" fill="#ffffff" font-weight="700">Whale Exposure</text>
+<rect class="pill4" x="495" y="266" width="105" height="12" rx="3"/>
+<text x="500" y="276" style="font-size:9px;fill:#ffffff" font-weight="700">Whale Exposure</text>
 
 <line class="grid" x1="20" y1="306" x2="620" y2="306"/>
 </svg>

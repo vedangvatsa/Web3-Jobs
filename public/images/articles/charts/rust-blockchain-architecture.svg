@@ -17,52 +17,52 @@ text{fill:#cbd5e1}.header{fill:#f1f5f9}.row-bg{fill:#1e293b}.card{fill:#0f172a;s
 <!-- Header -->
 <line class="grid" x1="20" y1="65" x2="620" y2="65"/>
 <text x="28" y="82" class="header">System Tier</text>
-<text x="175" y="82" class="header">Flagship Implementations</text>
+<text x="180" y="82" class="header">Flagship Implementations</text>
 <text x="350" y="82" class="header">Architectural Edge</text>
-<text x="495" y="82" class="header">Performance Impact</text>
+<text x="508" y="82" class="header">Performance Impact</text>
 <line class="grid" x1="20" y1="92" x2="620" y2="92"/>
 
 <!-- Row 1 -->
 <rect class="row-bg" x="20" y="94" width="600" height="50" rx="4"/>
-<text x="28" y="116" font-weight="600">Consensus &amp; Execution</text>
+<text x="28" y="116" font-weight="600" style="font-size:11px">Consensus &amp; Execution</text>
 <text x="28" y="132" font-size="10" fill="#64748b">Base L1/L2 Nodes</text>
-<text x="175" y="116">Reth (Paradigm), Lighthouse</text>
-<text x="175" y="132" font-size="10" fill="#64748b">Substrate, Tendermint-rs</text>
-<text x="350" y="116">Zero-GC latency spikes</text>
+<text x="180" y="116">Reth (Paradigm), Lighthouse</text>
+<text x="180" y="132" font-size="10" fill="#64748b">Substrate, Tendermint-rs</text>
+<text x="350" y="116" style="font-size:11px">Zero-GC latency spikes</text>
 <text x="350" y="132" font-size="10" fill="#64748b">Direct disk MDBX IO</text>
-<rect class="col1" x="495" y="110" width="80" height="12" rx="3"/>
-<text x="500" y="120" font-size="10" fill="#ffffff" font-weight="700">10x Sync Speed</text>
+<rect class="col1" x="508" y="110" width="80" height="12" rx="3"/>
+<text x="515" y="120" style="font-size:9px;fill:#ffffff" font-weight="700">10x Sync Speed</text>
 
 <!-- Row 2 -->
-<text x="28" y="168" font-weight="600">Parallel Smart Contracts</text>
+<text x="28" y="168" font-weight="600" style="font-size:11px">Parallel Smart Contracts</text>
 <text x="28" y="184" font-size="10" fill="#64748b">SVM &amp; Wasm Runtimes</text>
-<text x="175" y="168">Solana Sealevel, Anchor</text>
-<text x="175" y="184" font-size="10" fill="#64748b">CosmWasm, Near Rust SDK</text>
-<text x="350" y="168">Multi-threaded state writes</text>
+<text x="180" y="168">Solana Sealevel, Anchor</text>
+<text x="180" y="184" font-size="10" fill="#64748b">CosmWasm, Near Rust SDK</text>
+<text x="350" y="168" style="font-size:11px">Multi-threaded state writes</text>
 <text x="350" y="184" font-size="10" fill="#64748b">Explicit account locking</text>
-<rect class="col2" x="495" y="162" width="85" height="12" rx="3"/>
-<text x="500" y="172" font-size="10" fill="#ffffff" font-weight="700">65k TPS Engine</text>
+<rect class="col2" x="508" y="162" width="85" height="12" rx="3"/>
+<text x="515" y="172" style="font-size:9px;fill:#ffffff" font-weight="700">65k TPS Engine</text>
 
 <!-- Row 3 -->
 <rect class="row-bg" x="20" y="198" width="600" height="50" rx="4"/>
-<text x="28" y="220" font-weight="600">ZK Cryptography Provers</text>
+<text x="28" y="220" font-weight="600" style="font-size:11px">ZK Cryptography Provers</text>
 <text x="28" y="236" font-size="10" fill="#64748b">zkVMs &amp; Circuit Proofs</text>
-<text x="175" y="220">SP1 (Succinct), RISC Zero</text>
-<text x="175" y="236" font-size="10" fill="#64748b">Halo2, Arkworks, Winterfell</text>
-<text x="350" y="220">GPU/FPGA proof acceleration</text>
+<text x="180" y="220">SP1 (Succinct), RISC Zero</text>
+<text x="180" y="236" font-size="10" fill="#64748b">Halo2, Arkworks, Winterfell</text>
+<text x="350" y="220" style="font-size:11px">GPU/FPGA proof acceleration</text>
 <text x="350" y="236" font-size="10" fill="#64748b">Finite field math optimization</text>
-<rect class="col3" x="495" y="214" width="75" height="12" rx="3"/>
-<text x="500" y="224" font-size="10" fill="#ffffff" font-weight="700">Universal ZK</text>
+<rect class="col3" x="508" y="214" width="75" height="12" rx="3"/>
+<text x="515" y="224" style="font-size:9px;fill:#ffffff" font-weight="700">Universal ZK</text>
 
 <!-- Row 4 -->
-<text x="28" y="272" font-weight="600">Dev Tooling &amp; Simulation</text>
+<text x="28" y="272" font-weight="600" style="font-size:11px">Dev Tooling &amp; Simulation</text>
 <text x="28" y="288" font-size="10" fill="#64748b">Testing &amp; RPC Engines</text>
-<text x="175" y="272">Foundry (Forge/Cast/Anvil)</text>
-<text x="175" y="288" font-size="10" fill="#64748b">Alloy, Revm, Hardhat 3</text>
-<text x="350" y="272">Native bytecode evaluation</text>
+<text x="180" y="272">Foundry (Forge/Cast/Anvil)</text>
+<text x="180" y="288" font-size="10" fill="#64748b">Alloy, Revm, Hardhat 3</text>
+<text x="350" y="272" style="font-size:11px">Native bytecode evaluation</text>
 <text x="350" y="288" font-size="10" fill="#64748b">Instantaneous local forks</text>
-<rect class="col4" x="495" y="266" width="95" height="12" rx="3"/>
-<text x="500" y="276" font-size="10" fill="#ffffff" font-weight="700">Sub-second Fuzz</text>
+<rect class="col4" x="508" y="266" width="95" height="12" rx="3"/>
+<text x="515" y="276" style="font-size:9px;fill:#ffffff" font-weight="700">Sub-second Fuzz</text>
 
 <line class="grid" x1="20" y1="306" x2="620" y2="306"/>
 </svg>

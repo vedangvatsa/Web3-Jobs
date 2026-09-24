@@ -74,5 +74,5 @@
 
   <!-- Bottom Banner -->
   <rect x="40" y="350" width="720" height="32" fill="#1e293b" rx="6" stroke="#334155"/>
-  <text x="400" y="371" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12" text-anchor="middle">Real estate tokenization wraps property deeds in legal SPVs, issuing permissioned ERC-3643 security tokens for global fractional liquidity.</text>
+  <text x="400" y="371" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="10" text-anchor="middle">Real estate tokenization wraps property deeds in legal SPVs, issuing permissioned ERC-3643 security tokens for global fractional liquidity.</text>
 </svg>

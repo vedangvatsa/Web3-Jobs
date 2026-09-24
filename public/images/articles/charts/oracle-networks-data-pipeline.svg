@@ -38,18 +38,20 @@ text{fill:#cbd5e1}.header{fill:#f1f5f9}.card{fill:#0f172a;stroke:#1e293b}
 <!-- Pull Model Box -->
 <rect class="box-pull" x="330" y="70" width="286" height="255" rx="8"/>
 <text x="342" y="94" class="header" fill="#7c3aed">Pull Model (On-Demand Settlement)</text>
-<text x="342" y="110" font-size="10" fill="#7c3aed">Example: Pyth Network, RedStone, Chainlink Data Streams</text>
+<text x="342" y="110" font-size="10" fill="#7c3aed">Example: Pyth Network, RedStone,</text>
+<text x="342" y="124" font-size="10" fill="#7c3aed">Chainlink Data Streams</text>
 
-<text x="342" y="136" font-weight="600">Update Trigger Mechanism:</text>
-<text x="342" y="150" font-size="10" fill="#64748b">User transaction embeds latest signed price</text>
-<text x="342" y="164" font-size="10" fill="#64748b">Price fetched from high-frequency off-chain cache</text>
+<text x="342" y="150" font-weight="600">Update Trigger Mechanism:</text>
+<text x="342" y="164" font-size="10" fill="#64748b">User transaction embeds latest signed price</text>
+<text x="342" y="178" font-size="10" fill="#64748b">Price fetched from high-frequency off-chain cache</text>
 
-<text x="342" y="190" font-weight="600">On-Chain State Availability:</text>
-<text x="342" y="204" font-size="10" fill="#64748b">Contract verifies cryptographic signature inside tx</text>
-<text x="342" y="218" font-size="10" fill="#64748b">Updates state atomically before business logic executes</text>
+<text x="342" y="204" font-weight="600">On-Chain State Availability:</text>
+<text x="342" y="218" font-size="10" fill="#64748b">Contract verifies cryptographic signature inside tx</text>
+<text x="342" y="232" font-size="10" fill="#64748b">Updates state atomically before</text>
+<text x="342" y="246" font-size="10" fill="#64748b">business logic executes</text>
 
-<text x="342" y="244" font-weight="600">Economic &amp; Latency Profile:</text>
-<text x="342" y="258" font-size="10" fill="#64748b">Zero standing gas fee on chain when idle</text>
-<text x="342" y="272" font-size="10" fill="#64748b">Sub-second update latency (300-400 ms)</text>
-<text x="342" y="286" font-size="10" fill="#64748b">Ideal for perp DEXs (GMX, Synthetix, Hyperliquid)</text>
+<text x="342" y="260" font-weight="600">Economic &amp; Latency Profile:</text>
+<text x="342" y="274" font-size="10" fill="#64748b">Zero standing gas fee on chain when idle</text>
+<text x="342" y="288" font-size="10" fill="#64748b">Sub-second update latency (300-400 ms)</text>
+<text x="342" y="302" font-size="10" fill="#64748b">Ideal for perp DEXs (GMX, Synthetix, Hyperliquid)</text>
 </svg>

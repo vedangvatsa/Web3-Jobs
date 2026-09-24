@@ -45,7 +45,7 @@ text{fill:#cbd5e1}.header{fill:#f1f5f9}.card{fill:#0f172a;stroke:#1e293b}
 
 <!-- Level 2 -->
 <rect class="lvl2" x="226" y="70" width="186" height="235" rx="8"/>
-<text x="238" y="94" class="header" fill="#2563eb">Level 2: Oracle Integration Dev</text>
+<text x="238" y="94" class="header" fill="#2563eb" style="font-size:10px">Level 2: Oracle Integration Dev</text>
 <text x="238" y="112" font-size="10" font-weight="600" fill="#2563eb">$170,000 - $240,000 + Tokens</text>
 
 <text x="238" y="136" font-weight="600">Core Scope:</text>

@@ -48,7 +48,7 @@
     <rect width="160" height="34" fill="#4f46e5" rx="8"/>
     <text x="80" y="22" fill="#ffffff" font-family="system-ui, sans-serif" font-size="12" font-weight="700" text-anchor="middle">2. Buyback Router</text>
 
-    <text x="12" y="60" fill="#e2e8f0" font-family="system-ui, sans-serif" font-size="11" font-weight="600">• Market Swap (USDC-&gt;Token)</text>
+    <text x="12" y="60" fill="#e2e8f0" font-family="system-ui, sans-serif" font-size="10" font-weight="600">• Market Swap (USDC-&gt;Token)</text>
     <text x="12" y="80" fill="#e2e8f0" font-family="system-ui, sans-serif" font-size="11" font-weight="600">• Internal Mint Slashes</text>
     <text x="12" y="100" fill="#e2e8f0" font-family="system-ui, sans-serif" font-size="11" font-weight="600">• Proof-of-Burn Check</text>
 

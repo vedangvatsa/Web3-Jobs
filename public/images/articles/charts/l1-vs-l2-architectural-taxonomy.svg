@@ -18,50 +18,50 @@ text{fill:#cbd5e1}.header{fill:#f1f5f9}.row-bg{fill:#1e293b}.card{fill:#0f172a;s
 <text x="28" y="82" class="header">System Dimension</text>
 <text x="175" y="82" class="header">Layer 1 (Base Chain)</text>
 <text x="355" y="82" class="header">Layer 2 (Rollup Network)</text>
-<text x="515" y="82" class="header">Security Model</text>
+<text x="530" y="82" class="header">Security Model</text>
 <line class="grid" x1="20" y1="92" x2="620" y2="92"/>
 
 <!-- Row 1 -->
 <rect class="row-bg" x="20" y="94" width="600" height="52" rx="4"/>
 <text x="28" y="116" font-weight="600">Consensus &amp; State</text>
 <text x="28" y="132" font-size="10" fill="#64748b">Root of Truth</text>
-<text x="175" y="116">Independent validator set (PoS/PoW)</text>
-<text x="175" y="132" font-size="10" fill="#64748b">Ethereum, Solana, Bitcoin</text>
-<text x="355" y="116">Off-chain sequencers + L1 verifier</text>
-<text x="355" y="132" font-size="10" fill="#64748b">Arbitrum, Base, OP, zkSync</text>
-<rect class="tag1" x="515" y="110" width="85" height="13" rx="3"/>
-<text x="520" y="120" font-size="10" fill="#ffffff" font-weight="700">L1 Inherited</text>
+<text x="175" y="116" style="font-size:9px">Independent validator set (PoS/PoW)</text>
+<text x="175" y="132" style="font-size:9px" fill="#64748b">Ethereum, Solana, Bitcoin</text>
+<text x="355" y="116" style="font-size:9px">Off-chain sequencers + L1 verifier</text>
+<text x="355" y="132" style="font-size:9px" fill="#64748b">Arbitrum, Base, OP, zkSync</text>
+<rect class="tag1" x="530" y="110" width="85" height="13" rx="3"/>
+<text x="535" y="120" font-size="10" fill="#ffffff" font-weight="700">L1 Inherited</text>
 
 <!-- Row 2 -->
 <text x="28" y="170" font-weight="600">Transaction Execution</text>
 <text x="28" y="186" font-size="10" fill="#64748b">Throughput &amp; Fees</text>
-<text x="175" y="170">Constrained (15 - 50 TPS on EVM)</text>
-<text x="175" y="186" font-size="10" fill="#64748b">Base fee + priority fee per gas</text>
-<text x="355" y="170">High-speed (2,000+ TPS batches)</text>
-<text x="355" y="186" font-size="10" fill="#64748b">Sub-cent fees via blob compression</text>
-<rect class="tag2" x="515" y="164" width="85" height="13" rx="3"/>
-<text x="520" y="174" font-size="10" fill="#ffffff" font-weight="700">Off-Chain VM</text>
+<text x="175" y="170" style="font-size:9px">Constrained (15 - 50 TPS on EVM)</text>
+<text x="175" y="186" style="font-size:9px" fill="#64748b">Base fee + priority fee per gas</text>
+<text x="355" y="170" style="font-size:9px">High-speed (2,000+ TPS batches)</text>
+<text x="355" y="186" style="font-size:9px" fill="#64748b">Sub-cent fees via blob compression</text>
+<rect class="tag2" x="530" y="164" width="85" height="13" rx="3"/>
+<text x="535" y="174" font-size="10" fill="#ffffff" font-weight="700">Off-Chain VM</text>
 
 <!-- Row 3 -->
 <rect class="row-bg" x="20" y="202" width="600" height="52" rx="4"/>
 <text x="28" y="224" font-weight="600">Data Availability (DA)</text>
 <text x="28" y="240" font-size="10" fill="#64748b">Historical Integrity</text>
-<text x="175" y="224">All full nodes store full blocks</text>
-<text x="175" y="240" font-size="10" fill="#64748b">Permanent on-chain ledger records</text>
-<text x="355" y="224">EIP-4844 data blobs / validiums</text>
-<text x="355" y="240" font-size="10" fill="#64748b">Pruned after ~18 days on L1 nodes</text>
-<rect class="tag3" x="515" y="218" width="85" height="13" rx="3"/>
-<text x="520" y="228" font-size="10" fill="#ffffff" font-weight="700">Blob Pruning</text>
+<text x="175" y="224" style="font-size:9px">All full nodes store full blocks</text>
+<text x="175" y="240" style="font-size:9px" fill="#64748b">Permanent on-chain ledger records</text>
+<text x="355" y="224" style="font-size:9px">EIP-4844 data blobs / validiums</text>
+<text x="355" y="240" style="font-size:9px" fill="#64748b">Pruned after ~18 days on L1 nodes</text>
+<rect class="tag3" x="530" y="218" width="85" height="13" rx="3"/>
+<text x="535" y="228" font-size="10" fill="#ffffff" font-weight="700">Blob Pruning</text>
 
 <!-- Row 4 -->
 <text x="28" y="278" font-weight="600">Finality &amp; Settlement</text>
 <text x="28" y="294" font-size="10" fill="#64748b">Dispute Resolution</text>
-<text x="175" y="278">Probabilistic / 2-epoch Casper finality</text>
-<text x="175" y="294" font-size="10" fill="#64748b">Slashing malicious validator stakes</text>
-<text x="355" y="278">Fraud proof window (7d) or ZK proof</text>
-<text x="355" y="294" font-size="10" fill="#64748b">Mathematical validity on Ethereum L1</text>
-<rect class="tag4" x="515" y="272" width="85" height="13" rx="3"/>
-<text x="520" y="282" font-size="10" fill="#ffffff" font-weight="700">L1 Settlement</text>
+<text x="175" y="278" style="font-size:9px">Probabilistic / 2-epoch Casper finality</text>
+<text x="175" y="294" style="font-size:9px" fill="#64748b">Slashing malicious validator stakes</text>
+<text x="355" y="278" style="font-size:9px">Fraud proof window (7d) or ZK proof</text>
+<text x="355" y="294" style="font-size:9px" fill="#64748b">Mathematical validity on Ethereum L1</text>
+<rect class="tag4" x="530" y="272" width="85" height="13" rx="3"/>
+<text x="535" y="282" font-size="10" fill="#ffffff" font-weight="700">L1 Settlement</text>
 
 <line class="grid" x1="20" y1="312" x2="620" y2="312"/>
 <text x="28" y="328" font-size="10" fill="#64748b">Source: L2BEAT Protocol Taxonomy, Ethereum Consensus Specifications, Arbitrum Nitro Technical Documentation</text>

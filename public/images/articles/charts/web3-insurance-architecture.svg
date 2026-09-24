@@ -84,16 +84,16 @@
   <text x="1027" y="148" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="middle">4. In-Demand Careers</text>
 
   <text x="1027" y="200" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#fcd34d" text-anchor="middle" font-weight="bold">DeFi Risk Underwriter</text>
-  <text x="1027" y="225" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#cbd5e1">Protocol Audit &amp; Risk Pricing</text>
+  <text x="1021" y="225" font-family="system-ui, -apple-system, sans-serif" font-size="9" fill="#cbd5e1">Protocol Audit &amp; Risk Pricing</text>
 
   <text x="1027" y="280" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#fcd34d" text-anchor="middle" font-weight="bold">On-Chain Actuary</text>
-  <text x="1027" y="305" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#cbd5e1">Reserve Modeling &amp; Slashing Risk</text>
+  <text x="1021" y="305" font-family="system-ui, -apple-system, sans-serif" font-size="8" fill="#cbd5e1">Reserve Modeling &amp; Slashing Risk</text>
 
   <text x="1027" y="360" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#fcd34d" text-anchor="middle" font-weight="bold">Smart Contract Auditor</text>
-  <text x="1027" y="385" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#cbd5e1">Vulnerability &amp; Invariant Testing</text>
+  <text x="1021" y="385" font-family="system-ui, -apple-system, sans-serif" font-size="8" fill="#cbd5e1">Vulnerability &amp; Invariant Testing</text>
 
   <text x="1027" y="440" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#fcd34d" text-anchor="middle" font-weight="bold">Parametric Oracle Dev</text>
-  <text x="1027" y="465" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#cbd5e1">Chainlink Data Feed Integration</text>
+  <text x="1021" y="465" font-family="system-ui, -apple-system, sans-serif" font-size="8" fill="#cbd5e1">Chainlink Data Feed Integration</text>
 
   <text x="600" y="595" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#64748b" text-anchor="middle">Hashtag Web3 Insurance &amp; Risk Architecture Series</text>
 </svg>

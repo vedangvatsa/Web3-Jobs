@@ -32,15 +32,15 @@ text{fill:#cbd5e1}.header{fill:#f1f5f9}.card{fill:#0f172a;stroke:#1e293b}
 <text x="36" y="110" font-weight="600">Decentralized Capital Expenditure:</text>
 <text x="36" y="124" font-size="10" fill="#64748b">Individuals purchase &amp; install physical hardware</text>
 <text x="36" y="146" font-weight="600">Hardware Categories:</text>
-<text x="36" y="160" font-size="10" fill="#64748b">Helium LoRaWAN/5G, Hivemapper dashcams, Render GPUs</text>
+<text x="36" y="160" font-size="10" fill="#64748b">Helium LoRaWAN/5G, Hivemapper<tspan x="36" dy="12">dashcams, Render GPUs</tspan></text>
 
 <!-- Quadrant 2: Token Incentives -->
 <rect class="box-tok" x="330" y="68" width="286" height="125" rx="8"/>
 <text x="342" y="90" class="header" fill="#d97706">2. Cryptographic Proof of Physical Work</text>
 <text x="342" y="110" font-weight="600">Proof Verification:</text>
-<text x="342" y="124" font-size="10" fill="#64748b">Proof of Coverage (PoC), Proof of Render, GPS attestation</text>
-<text x="342" y="146" font-weight="600">Incentive Emission:</text>
-<text x="342" y="160" font-size="10" fill="#64748b">Nodes earn tokens, subsidizing initial CapEx outlay</text>
+<text x="342" y="124" font-size="10" fill="#64748b">Proof of Coverage (PoC), Proof of<tspan x="342" dy="12">Render, GPS attestation</tspan></text>
+<text x="342" y="158" font-weight="600">Incentive Emission:</text>
+<text x="342" y="172" font-size="10" fill="#64748b">Nodes earn tokens, subsidizing initial CapEx outlay</text>
 
 <!-- Quadrant 3: Demand Side -->
 <rect class="box-dem" x="24" y="202" width="286" height="125" rx="8"/>

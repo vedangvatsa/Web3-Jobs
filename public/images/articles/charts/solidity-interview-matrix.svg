@@ -17,52 +17,52 @@ text{fill:#cbd5e1}.header{fill:#f1f5f9}.row-bg{fill:#1e293b}.card{fill:#0f172a;s
 <!-- Header -->
 <line class="grid" x1="20" y1="65" x2="620" y2="65"/>
 <text x="28" y="82" class="header">Interview Domain</text>
-<text x="175" y="82" class="header">Live Coding &amp; Theory Prompts</text>
+<text x="175" y="82" class="header" style="font-size:11px">Live Coding &amp; Theory Prompts</text>
 <text x="350" y="82" class="header">Candidate Expectations</text>
-<text x="495" y="82" class="header">Pass Weight</text>
+<text x="503" y="82" class="header">Pass Weight</text>
 <line class="grid" x1="20" y1="92" x2="620" y2="92"/>
 
 <!-- Row 1 -->
 <rect class="row-bg" x="20" y="94" width="600" height="50" rx="4"/>
 <text x="28" y="116" font-weight="600">EVM &amp; Gas Mechanics</text>
 <text x="28" y="132" font-size="10" fill="#64748b">Low-level execution</text>
-<text x="175" y="116">Storage packing, SSTORE costs</text>
+<text x="175" y="116" style="font-size:11px">Storage packing, SSTORE costs</text>
 <text x="175" y="132" font-size="10" fill="#64748b">EIP-1153 transient, Yul memory</text>
-<text x="350" y="116">Optimize hot loop calldata</text>
+<text x="350" y="116" style="font-size:11px">Optimize hot loop calldata</text>
 <text x="350" y="132" font-size="10" fill="#64748b">Explain quad memory cost</text>
-<rect class="bar1" x="495" y="110" width="80" height="12" rx="3"/>
-<text x="500" y="120" font-size="10" fill="#ffffff" font-weight="700">25% Screen</text>
+<rect class="bar1" x="503" y="110" width="80" height="12" rx="3"/>
+<text x="508" y="120" style="font-size:9px;fill:#ffffff" font-weight="700">25% Screen</text>
 
 <!-- Row 2 -->
 <text x="28" y="168" font-weight="600">Adversarial Security</text>
 <text x="28" y="184" font-size="10" fill="#64748b">Vulnerability hunting</text>
-<text x="175" y="168">Live audit of buggy contract</text>
+<text x="175" y="168" style="font-size:11px">Live audit of buggy contract</text>
 <text x="175" y="184" font-size="10" fill="#64748b">Reentrancy, oracle TWAP flash</text>
-<text x="350" y="168">Find 3 high-severity bugs</text>
+<text x="350" y="168" style="font-size:11px">Find 3 high-severity bugs</text>
 <text x="350" y="184" font-size="10" fill="#64748b">Write exploit PoC in Forge</text>
-<rect class="bar2" x="495" y="162" width="90" height="12" rx="3"/>
-<text x="500" y="172" font-size="10" fill="#ffffff" font-weight="700">35% Critical</text>
+<rect class="bar2" x="503" y="162" width="90" height="12" rx="3"/>
+<text x="508" y="172" style="font-size:9px;fill:#ffffff" font-weight="700">35% Critical</text>
 
 <!-- Row 3 -->
 <rect class="row-bg" x="20" y="198" width="600" height="50" rx="4"/>
 <text x="28" y="220" font-weight="600">Standards &amp; Upgrades</text>
 <text x="28" y="236" font-size="10" fill="#64748b">Architectural design</text>
-<text x="175" y="220">ERC-4626 vault share dilution</text>
+<text x="175" y="220" style="font-size:11px">ERC-4626 vault share dilution</text>
 <text x="175" y="236" font-size="10" fill="#64748b">UUPS vs Transparent proxies</text>
-<text x="350" y="220">Design upgradeable module</text>
+<text x="350" y="220" style="font-size:11px">Design upgradeable module</text>
 <text x="350" y="236" font-size="10" fill="#64748b">Defend against storage collision</text>
-<rect class="bar3" x="495" y="214" width="70" height="12" rx="3"/>
-<text x="500" y="224" font-size="10" fill="#ffffff" font-weight="700">20% Design</text>
+<rect class="bar3" x="503" y="214" width="70" height="12" rx="3"/>
+<text x="508" y="224" style="font-size:9px;fill:#ffffff" font-weight="700">20% Design</text>
 
 <!-- Row 4 -->
 <text x="28" y="272" font-weight="600">Testing &amp; Invariants</text>
 <text x="28" y="288" font-size="10" fill="#64748b">Foundry mastery</text>
-<text x="175" y="272">Write invariant fuzzing suite</text>
+<text x="175" y="272" style="font-size:11px">Write invariant fuzzing suite</text>
 <text x="175" y="288" font-size="10" fill="#64748b">Fork testing live mainnet state</text>
-<text x="350" y="272">Define system invariants</text>
+<text x="350" y="272" style="font-size:11px">Define system invariants</text>
 <text x="350" y="288" font-size="10" fill="#64748b">Run Slither in local CI</text>
-<rect class="bar4" x="495" y="266" width="70" height="12" rx="3"/>
-<text x="500" y="276" font-size="10" fill="#ffffff" font-weight="700">20% Tooling</text>
+<rect class="bar4" x="503" y="266" width="70" height="12" rx="3"/>
+<text x="508" y="276" style="font-size:9px;fill:#ffffff" font-weight="700">20% Tooling</text>
 
 <line class="grid" x1="20" y1="306" x2="620" y2="306"/>
 </svg>

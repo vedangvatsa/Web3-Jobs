@@ -30,8 +30,8 @@ text{fill:#cbd5e1}.header{fill:#f1f5f9}.row-bg{fill:#1e293b}.card{fill:#0f172a;s
 <text x="175" y="132" font-size="10" fill="#64748b">Vyper (Pythonic)</text>
 <text x="325" y="116">Foundry, OpenZeppelin</text>
 <text x="325" y="132" font-size="10" fill="#64748b">Slither, Hardhat</text>
-<rect class="tag1" x="495" y="110" width="85" height="12" rx="3"/>
-<text x="500" y="120" font-size="10" fill="#ffffff" font-weight="700">68% Demand</text>
+<rect class="tag1" x="495" y="110" width="110" height="14" rx="3"/>
+<text x="500" y="121" font-size="10" fill="#ffffff" font-weight="700">68% Demand</text>
 
 <!-- Row 2 -->
 <text x="28" y="168" font-weight="600">L1/L2 Protocol Core</text>
@@ -40,8 +40,8 @@ text{fill:#cbd5e1}.header{fill:#f1f5f9}.row-bg{fill:#1e293b}.card{fill:#0f172a;s
 <text x="175" y="184" font-size="10" fill="#64748b">High-performance systems</text>
 <text x="325" y="168">Reth, Geth, Lighthouse</text>
 <text x="325" y="184" font-size="10" fill="#64748b">OP Stack, Cosmos SDK</text>
-<rect class="tag2" x="495" y="162" width="65" height="12" rx="3"/>
-<text x="500" y="172" font-size="10" fill="#ffffff" font-weight="700">18% Demand</text>
+<rect class="tag2" x="495" y="162" width="90" height="14" rx="3"/>
+<text x="500" y="173" font-size="10" fill="#ffffff" font-weight="700">18% Demand</text>
 
 <!-- Row 3 -->
 <rect class="row-bg" x="20" y="198" width="600" height="50" rx="4"/>
@@ -51,8 +51,8 @@ text{fill:#cbd5e1}.header{fill:#f1f5f9}.row-bg{fill:#1e293b}.card{fill:#0f172a;s
 <text x="175" y="236" font-size="10" fill="#64748b">Sealevel, Object model</text>
 <text x="325" y="220">Anchor (Solana), Sui Move</text>
 <text x="325" y="236" font-size="10" fill="#64748b">Aptos Framework</text>
-<rect class="tag3" x="495" y="214" width="55" height="12" rx="3"/>
-<text x="500" y="224" font-size="10" fill="#ffffff" font-weight="700">10% Demand</text>
+<rect class="tag3" x="495" y="214" width="85" height="14" rx="3"/>
+<text x="500" y="225" font-size="10" fill="#ffffff" font-weight="700">10% Demand</text>
 
 <!-- Row 4 -->
 <text x="28" y="272" font-weight="600">Full-Stack Web3 Client</text>
@@ -61,8 +61,8 @@ text{fill:#cbd5e1}.header{fill:#f1f5f9}.row-bg{fill:#1e293b}.card{fill:#0f172a;s
 <text x="175" y="288" font-size="10" fill="#64748b">Node.js, Python</text>
 <text x="325" y="272">Viem, Wagmi, The Graph</text>
 <text x="325" y="288" font-size="10" fill="#64748b">Alchemy SDK, Privy</text>
-<rect class="tag4" x="495" y="266" width="95" height="12" rx="3"/>
-<text x="500" y="276" font-size="10" fill="#ffffff" font-weight="700">Universal Req.</text>
+<rect class="tag4" x="495" y="266" width="110" height="14" rx="3"/>
+<text x="500" y="277" font-size="10" fill="#ffffff" font-weight="700">Universal Req.</text>
 
 <line class="grid" x1="20" y1="306" x2="620" y2="306"/>
 </svg>

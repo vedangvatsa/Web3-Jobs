@@ -25,10 +25,10 @@
   <rect width="1000" height="600" fill="url(#bg)" rx="16"/>
 
   <text x="500" y="45" text-anchor="middle" fill="#f8fafc" font-family="system-ui, -apple-system, sans-serif" font-size="22" font-weight="700" letter-spacing="0.5">
-    Token Swap Architecture: AMM Pools & Cross-Chain Routing
+    Token Swap Architecture: AMM Pools &amp; Cross-Chain Routing
   </text>
   <text x="500" y="70" text-anchor="middle" fill="#94a3b8" font-family="system-ui, -apple-system, sans-serif" font-size="13">
-    Constant Product Formula (x · y = k), DEX Aggregator Routing & HTLC Cross-Chain Atomic Swaps
+    Constant Product Formula (x · y = k), DEX Aggregator Routing &amp; HTLC Cross-Chain Atomic Swaps
   </text>
 
   <!-- Step 1: User Swap Request -->
@@ -44,7 +44,7 @@
     <text x="25" y="122" fill="#e2e8f0" font-family="sans-serif" font-size="12">Multi-Hop Path Optimization</text>
 
     <rect x="15" y="145" width="240" height="36" rx="6" fill="#0f172a" stroke="#1e293b"/>
-    <text x="25" y="167" fill="#e2e8f0" font-family="sans-serif" font-size="12">Slippage & Gas Limit Guard</text>
+    <text x="25" y="167" fill="#e2e8f0" font-family="sans-serif" font-size="12">Slippage &amp; Gas Limit Guard</text>
   </g>
 
   <!-- Flow 1 to 2 -->

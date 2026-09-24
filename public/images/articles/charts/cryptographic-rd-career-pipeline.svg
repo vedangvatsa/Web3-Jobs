@@ -45,34 +45,38 @@ text{fill:#cbd5e1}.header{fill:#f1f5f9}.card{fill:#0f172a;stroke:#1e293b}
 
 <!-- Level 2 -->
 <rect class="step2" x="226" y="70" width="186" height="235" rx="8"/>
-<text x="238" y="94" class="header" fill="#2563eb">Level 2: Applied Cryptographer</text>
-<text x="238" y="112" font-size="10" font-weight="600" fill="#2563eb">$200,000 - $300,000 + Token Granularity</text>
+<text x="238" y="92" class="header" fill="#2563eb" font-size="11">Level 2: Applied</text>
+<text x="238" y="105" class="header" fill="#2563eb" font-size="11">Cryptographer</text>
+<text x="238" y="121" font-size="10" font-weight="600" fill="#2563eb">$200,000 - $300,000 + Token</text>
+<text x="238" y="134" font-size="10" font-weight="600" fill="#2563eb">Granularity</text>
 
-<text x="238" y="136" font-weight="600">Core Scope:</text>
-<text x="238" y="150" font-size="10" fill="#64748b">Prover algorithm architecture</text>
-<text x="238" y="164" font-size="10" fill="#64748b">Polynomial commitments (KZG/FRI)</text>
-<text x="238" y="186" font-weight="600">Key Deliverables:</text>
-<text x="238" y="200" font-size="10" fill="#64748b">Recursive aggregation circuits</text>
-<text x="238" y="214" font-size="10" fill="#64748b">Custom gates &amp; lookup tables</text>
-<text x="238" y="236" font-weight="600">Focus Areas:</text>
-<text x="238" y="250" font-size="10" fill="#64748b">Proof composition &amp; folding</text>
-<text x="238" y="264" font-size="10" fill="#64748b">Hardware acceleration (FPGA/GPU)</text>
+<text x="238" y="154" font-weight="600">Core Scope:</text>
+<text x="238" y="168" font-size="9" fill="#64748b">Prover algorithm architecture</text>
+<text x="238" y="182" font-size="9" fill="#64748b">Polynomial commitments (KZG/FRI)</text>
+<text x="238" y="200" font-weight="600">Key Deliverables:</text>
+<text x="238" y="214" font-size="9" fill="#64748b">Recursive aggregation circuits</text>
+<text x="238" y="228" font-size="9" fill="#64748b">Custom gates &amp; lookup tables</text>
+<text x="238" y="246" font-weight="600">Focus Areas:</text>
+<text x="238" y="260" font-size="9" fill="#64748b">Proof composition &amp; folding</text>
+<text x="238" y="274" font-size="9" fill="#64748b">Hardware acceleration (FPGA/GPU)</text>
 
 <!-- Arrow 2 to 3 -->
 <path class="arrow" d="M412 185 L432 185"/>
 
 <!-- Level 3 -->
 <rect class="step3" x="434" y="70" width="182" height="235" rx="8"/>
-<text x="446" y="94" class="header" fill="#16a34a">Level 3: Research Fellow / Lead</text>
-<text x="446" y="112" font-size="10" font-weight="600" fill="#16a34a">$320,000 - $550,000+ &amp; Protocol Stake</text>
+<text x="446" y="92" class="header" fill="#16a34a" font-size="11">Level 3: Research Fellow /</text>
+<text x="446" y="105" class="header" fill="#16a34a" font-size="11">Lead</text>
+<text x="446" y="121" font-size="10" font-weight="600" fill="#16a34a">$320,000 - $550,000+ &amp;</text>
+<text x="446" y="134" font-size="10" font-weight="600" fill="#16a34a">Protocol Stake</text>
 
-<text x="446" y="136" font-weight="600">Core Scope:</text>
-<text x="446" y="150" font-size="10" fill="#64748b">Novel primitive publication</text>
-<text x="446" y="164" font-size="10" fill="#64748b">Security proof verification (UC)</text>
-<text x="446" y="186" font-weight="600">Key Deliverables:</text>
-<text x="446" y="200" font-size="10" fill="#64748b">Peer-reviewed crypto papers</text>
-<text x="446" y="214" font-size="10" fill="#64748b">Post-quantum lattice schemes</text>
-<text x="446" y="236" font-weight="600">Target Labs:</text>
-<text x="446" y="250" font-size="10" fill="#64748b">Paradigm, a16z crypto, ZKProof</text>
-<text x="446" y="264" font-size="10" fill="#64748b">Flashbots, Matter Labs, Succinct</text>
+<text x="446" y="154" font-weight="600">Core Scope:</text>
+<text x="446" y="168" font-size="9" fill="#64748b">Novel primitive publication</text>
+<text x="446" y="182" font-size="9" fill="#64748b">Security proof verification (UC)</text>
+<text x="446" y="200" font-weight="600">Key Deliverables:</text>
+<text x="446" y="214" font-size="9" fill="#64748b">Peer-reviewed crypto papers</text>
+<text x="446" y="228" font-size="9" fill="#64748b">Post-quantum lattice schemes</text>
+<text x="446" y="246" font-weight="600">Target Labs:</text>
+<text x="446" y="260" font-size="9" fill="#64748b">Paradigm, a16z crypto, ZKProof</text>
+<text x="446" y="274" font-size="9" fill="#64748b">Flashbots, Matter Labs, Succinct</text>
 </svg>

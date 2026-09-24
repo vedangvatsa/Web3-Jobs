@@ -84,16 +84,16 @@
   <text x="1027" y="148" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="middle">Hybrid Compliance Roles</text>
 
   <text x="1027" y="200" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#fcd34d" text-anchor="middle" font-weight="bold">Web3 Regulatory Counsel</text>
-  <text x="1027" y="225" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#cbd5e1">Token Classification &amp; MiCA</text>
+  <text x="1021" y="225" font-family="system-ui, -apple-system, sans-serif" font-size="9" fill="#cbd5e1">Token Classification &amp; MiCA</text>
 
   <text x="1027" y="280" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#fcd34d" text-anchor="middle" font-weight="bold">On-Chain AML Analyst</text>
-  <text x="1027" y="305" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#cbd5e1">Chainalysis / Elliptic Forensics</text>
+  <text x="1021" y="305" font-family="system-ui, -apple-system, sans-serif" font-size="9" fill="#cbd5e1">Chainalysis / Elliptic Forensics</text>
 
   <text x="1027" y="360" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#fcd34d" text-anchor="middle" font-weight="bold">DAO Legal Structuring Spec</text>
-  <text x="1027" y="385" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#cbd5e1">UNA / Cayman Foundation Design</text>
+  <text x="1021" y="385" font-family="system-ui, -apple-system, sans-serif" font-size="8" fill="#cbd5e1">UNA / Cayman Foundation Design</text>
 
   <text x="1027" y="440" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#fcd34d" text-anchor="middle" font-weight="bold">Compliance Engineer</text>
-  <text x="1027" y="465" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#cbd5e1">OFAC RPC Middleware Screening</text>
+  <text x="1021" y="465" font-family="system-ui, -apple-system, sans-serif" font-size="8" fill="#cbd5e1">OFAC RPC Middleware Screening</text>
 
   <text x="600" y="595" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#64748b" text-anchor="middle">Hashtag Web3 Regulatory &amp; Legal Careers Series</text>
 </svg>

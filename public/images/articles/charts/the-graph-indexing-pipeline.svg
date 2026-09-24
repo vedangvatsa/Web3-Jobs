@@ -27,7 +27,7 @@ text{fill:#cbd5e1}.header{fill:#f1f5f9}.card{fill:#0f172a;stroke:#1e293b}
 <text x="24" y="48" font-size="11" fill="#64748b">Transforming raw blockchain byte logs into deterministic, queryable GraphQL schemas</text>
 
 <!-- Stage 1: Blockchain Events -->
-<rect class="box-ingest" x="24" y="70" width="130" height="250" rx="8"/>
+<rect class="box-ingest" x="24" y="70" width="142" height="250" rx="8"/>
 <text x="34" y="94" class="header">1. Node Ingestion</text>
 <text x="34" y="112" font-size="10" fill="#64748b">Raw RPC Stream</text>
 
@@ -37,13 +37,14 @@ text{fill:#cbd5e1}.header{fill:#f1f5f9}.card{fill:#0f172a;stroke:#1e293b}
 
 <text x="34" y="190" font-weight="600">Event Triggers:</text>
 <text x="34" y="204" font-size="10" fill="#64748b">Smart contract logs</text>
-<text x="34" y="218" font-size="10" fill="#64748b">Call handlers, block triggers</text>
+<text x="34" y="214" font-size="10" fill="#64748b">Call handlers,</text>
+<text x="34" y="228" font-size="10" fill="#64748b">block triggers</text>
 
-<text x="34" y="242" font-weight="600">Reorg Handling:</text>
-<text x="34" y="256" font-size="10" fill="#64748b">Automatic state rollbacks</text>
+<text x="34" y="252" font-weight="600">Reorg Handling:</text>
+<text x="34" y="266" font-size="10" fill="#64748b">Automatic state rollbacks</text>
 
 <!-- Arrow 1 to 2 -->
-<path class="arrow" d="M154 195 L174 195"/>
+<path class="arrow" d="M166 195 L176 195"/>
 
 <!-- Stage 2: Mapping Handlers -->
 <rect class="box-map" x="176" y="70" width="140" height="250" rx="8"/>
@@ -65,38 +66,39 @@ text{fill:#cbd5e1}.header{fill:#f1f5f9}.card{fill:#0f172a;stroke:#1e293b}
 <path class="arrow" d="M316 195 L336 195"/>
 
 <!-- Stage 3: Data Store -->
-<rect class="box-store" x="338" y="70" width="136" height="250" rx="8"/>
+<rect class="box-store" x="338" y="70" width="144" height="250" rx="8"/>
 <text x="348" y="94" class="header" fill="#16a34a">3. Database Storage</text>
 <text x="348" y="112" font-size="10" fill="#16a34a">Postgres Entity Store</text>
 
 <text x="348" y="138" font-weight="600">Relational Indexing:</text>
-<text x="348" y="152" font-size="10" fill="#64748b">Structured GraphQL schema</text>
+<text x="348" y="152" style="font-size:9px" fill="#64748b">Structured GraphQL schema</text>
 <text x="348" y="166" font-size="10" fill="#64748b">Auto-indexed relations</text>
 
 <text x="348" y="190" font-weight="600">GraphQL Server:</text>
 <text x="348" y="204" font-size="10" fill="#64748b">Ultra-fast API queries</text>
-<text x="348" y="218" font-size="10" fill="#64748b">Sub-millisecond responses</text>
+<text x="348" y="218" style="font-size:9px" fill="#64748b">Sub-millisecond responses</text>
 
 <text x="348" y="242" font-weight="600">Frontend DApps:</text>
 <text x="348" y="256" font-size="10" fill="#64748b">Uniswap, Aave, Opensea</text>
 
 <!-- Arrow 3 to 4 -->
-<path class="arrow" d="M474 195 L494 195"/>
+<path class="arrow" d="M484 195 L494 195"/>
 
 <!-- Stage 4: Decentralized Network -->
-<rect class="box-net" x="496" y="70" width="120" height="250" rx="8"/>
-<text x="506" y="94" class="header" fill="#7c3aed">4. GRT Network</text>
-<text x="506" y="112" font-size="10" fill="#7c3aed">Decentralized Trust</text>
+<rect class="box-net" x="492" y="70" width="128" height="250" rx="8"/>
+<text x="500" y="94" class="header" fill="#7c3aed">4. GRT Network</text>
+<text x="500" y="112" font-size="10" fill="#7c3aed">Decentralized Trust</text>
 
-<text x="506" y="138" font-weight="600">Indexers:</text>
-<text x="506" y="152" font-size="10" fill="#64748b">Stake GRT, serve queries</text>
+<text x="500" y="138" font-weight="600">Indexers:</text>
+<text x="500" y="152" style="font-size:9px" fill="#64748b">Stake GRT, serve queries</text>
 
-<text x="506" y="176" font-weight="600">Curators:</text>
-<text x="506" y="190" font-size="10" fill="#64748b">Signal high-value graphs</text>
+<text x="500" y="176" font-weight="600">Curators:</text>
+<text x="500" y="190" style="font-size:9px" fill="#64748b">Signal high-value graphs</text>
 
-<text x="506" y="214" font-weight="600">Delegators:</text>
-<text x="506" y="228" font-size="10" fill="#64748b">Delegate stake to indexers</text>
+<text x="500" y="214" font-weight="600">Delegators:</text>
+<text x="500" y="224" style="font-size:9px" fill="#64748b">Delegate stake</text>
+<text x="500" y="238" style="font-size:9px" fill="#64748b">to indexers</text>
 
-<text x="506" y="252" font-weight="600">Query Receipts:</text>
-<text x="506" y="266" font-size="10" fill="#7c3aed">Micropayment channels</text>
+<text x="500" y="258" font-weight="600">Query Receipts:</text>
+<text x="500" y="272" style="font-size:9px" fill="#7c3aed">Micropayment channels</text>
 </svg>

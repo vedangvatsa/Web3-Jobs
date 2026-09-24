@@ -29,58 +29,58 @@ text{fill:#cbd5e1}.header{fill:#f1f5f9}.card{fill:#0f172a;stroke:#1e293b}
 <!-- Phase 1: Storage Deal -->
 <rect class="step" x="24" y="70" width="130" height="250" rx="8"/>
 <text x="34" y="94" class="header">1. Storage Deal</text>
-<text x="34" y="112" font-size="10" fill="#64748b">Client &amp; Provider Negotiation</text>
+<text x="34" y="112" style="font-size:9px" fill="#64748b">Client &amp; Provider<tspan x="34" dy="11">Negotiation</tspan></text>
 
 <text x="34" y="138" font-weight="600">Deal Parameters:</text>
-<text x="34" y="152" font-size="10" fill="#64748b">CID, size, duration, price</text>
+<text x="34" y="152" style="font-size:8.5px" fill="#64748b">CID, size, duration, price</text>
 
-<text x="34" y="176" font-weight="600">Client Collateral:</text>
-<text x="34" y="190" font-size="10" fill="#64748b">Payment locked in escrow</text>
+<text x="34" y="176" font-weight="600" style="font-size:10px">Client Collateral:</text>
+<text x="34" y="190" style="font-size:8.5px" fill="#64748b">Payment locked in escrow</text>
 
-<text x="34" y="214" font-weight="600">FVM Smart Contracts:</text>
-<text x="34" y="228" font-size="10" fill="#64748b">Automated deal brokering</text>
+<text x="34" y="214" font-weight="600" style="font-size:10px">FVM Smart Contracts:</text>
+<text x="34" y="228" style="font-size:8.5px" fill="#64748b">Automated deal brokering</text>
 
-<text x="34" y="252" font-weight="600">Data Transfer:</text>
-<text x="34" y="266" font-size="10" fill="#64748b">GraphSync / Lotus transfer</text>
+<text x="34" y="252" font-weight="600" style="font-size:10px">Data Transfer:</text>
+<text x="34" y="266" style="font-size:8.5px" fill="#64748b">GraphSync / Lotus transfer</text>
 
 <!-- Arrow 1 to 2 -->
 <path class="arrow" d="M154 195 L174 195"/>
 
 <!-- Phase 2: PoRep (Proof of Replication) -->
 <rect class="porep" x="176" y="70" width="140" height="250" rx="8"/>
-<text x="186" y="94" class="header" fill="#2563eb">2. Proof of Replication</text>
-<text x="186" y="112" font-size="10" fill="#2563eb">PoRep (SDR Algorithm)</text>
+<text x="186" y="94" class="header" fill="#2563eb" font-size="11">2. Proof of Replication</text>
+<text x="186" y="112" style="font-size:10px" fill="#2563eb">PoRep (SDR Algorithm)</text>
 
 <text x="186" y="138" font-weight="600">Sector Sealing:</text>
-<text x="186" y="152" font-size="10" fill="#64748b">32 GiB / 64 GiB sectors</text>
+<text x="186" y="152" style="font-size:9px" fill="#64748b">32 GiB / 64 GiB sectors</text>
 
-<text x="186" y="176" font-weight="600">Stacked Depth Robust:</text>
-<text x="186" y="190" font-size="10" fill="#64748b">Sequential hashing graph</text>
+<text x="186" y="176" font-weight="600" style="font-size:10px">Stacked Depth Robust:</text>
+<text x="186" y="190" style="font-size:9px" fill="#64748b">Sequential hashing graph</text>
 
-<text x="186" y="214" font-weight="600">Groth16 SNARK Proof:</text>
-<text x="186" y="228" font-size="10" fill="#64748b">Proves unique physical copy</text>
-<text x="186" y="242" font-size="10" fill="#64748b">exists on specific drive</text>
+<text x="186" y="214" font-weight="600" style="font-size:10px">Groth16 SNARK Proof:</text>
+<text x="186" y="228" style="font-size:9px" fill="#64748b">Proves unique physical copy</text>
+<text x="186" y="242" style="font-size:9px" fill="#64748b">exists on specific drive</text>
 
-<text x="186" y="266" font-weight="600">Prevents Sybil Deduplication</text>
+<text x="186" y="266" font-weight="600" style="font-size:10px">Prevents Sybil<tspan x="186" dy="12">Deduplication</tspan></text>
 
 <!-- Arrow 2 to 3 -->
 <path class="arrow" d="M316 195 L336 195"/>
 
 <!-- Phase 3: PoSt (Proof of Spacetime) -->
 <rect class="post" x="338" y="70" width="136" height="250" rx="8"/>
-<text x="348" y="94" class="header" fill="#16a34a">3. Proof of Spacetime</text>
-<text x="348" y="112" font-size="10" fill="#16a34a">PoSt (Continuous Audit)</text>
+<text x="348" y="94" class="header" fill="#16a34a" font-size="11">3. Proof of Spacetime</text>
+<text x="348" y="112" style="font-size:10px" fill="#16a34a">PoSt (Continuous Audit)</text>
 
 <text x="348" y="138" font-weight="600">WindowPoSt:</text>
-<text x="348" y="152" font-size="10" fill="#64748b">Every 24h sector audit</text>
-<text x="348" y="166" font-size="10" fill="#64748b">Proves continuous storage</text>
+<text x="348" y="152" style="font-size:8.5px" fill="#64748b">Every 24h sector audit</text>
+<text x="348" y="166" style="font-size:8.5px" fill="#64748b">Proves continuous storage</text>
 
-<text x="348" y="190" font-weight="600">WinningPoSt:</text>
-<text x="348" y="204" font-size="10" fill="#64748b">Proves storage at epoch</text>
-<text x="348" y="218" font-size="10" fill="#64748b">Grants block mint rights</text>
+<text x="348" y="190" font-weight="600" style="font-size:10px">WinningPoSt:</text>
+<text x="348" y="204" style="font-size:8.5px" fill="#64748b">Proves storage at epoch</text>
+<text x="348" y="218" style="font-size:8.5px" fill="#64748b">Grants block mint rights</text>
 
-<text x="348" y="242" font-weight="600">Slashing Trigger:</text>
-<text x="348" y="256" font-size="10" fill="#ef4444">Missing PoSt slashes stake</text>
+<text x="348" y="242" font-weight="600" style="font-size:10px">Slashing Trigger:</text>
+<text x="348" y="256" style="font-size:8.5px" fill="#ef4444">Missing PoSt slashes stake</text>
 
 <!-- Arrow 3 to 4 -->
 <path class="arrow" d="M474 195 L494 195"/>
@@ -88,17 +88,17 @@ text{fill:#cbd5e1}.header{fill:#f1f5f9}.card{fill:#0f172a;stroke:#1e293b}
 <!-- Phase 4: Tokenomics & Slashing -->
 <rect class="pledge" x="496" y="70" width="120" height="250" rx="8"/>
 <text x="506" y="94" class="header" fill="#7c3aed">4. FIL Security</text>
-<text x="506" y="112" font-size="10" fill="#7c3aed">Pledge &amp; Slashing</text>
+<text x="506" y="112" style="font-size:10px" fill="#7c3aed">Pledge &amp; Slashing</text>
 
-<text x="506" y="138" font-weight="600">Initial Pledge:</text>
-<text x="506" y="152" font-size="10" fill="#64748b">FIL locked per sector</text>
+<text x="506" y="138" font-weight="600" style="font-size:10px">Initial Pledge:</text>
+<text x="506" y="152" style="font-size:9px" fill="#64748b">FIL locked per sector</text>
 
-<text x="506" y="176" font-weight="600">Quality Adjusted:</text>
-<text x="506" y="190" font-size="10" fill="#64748b">Fil+ 10x power boost</text>
+<text x="506" y="176" font-weight="600" style="font-size:10px">Quality Adjusted:</text>
+<text x="506" y="190" style="font-size:9px" fill="#64748b">Fil+ 10x power boost</text>
 
-<text x="506" y="214" font-weight="600">Fee Burning:</text>
-<text x="506" y="228" font-size="10" fill="#64748b">EIP-1559 burns FIL</text>
+<text x="506" y="214" font-weight="600" style="font-size:10px">Fee Burning:</text>
+<text x="506" y="228" style="font-size:9px" fill="#64748b">EIP-1559 burns FIL</text>
 
-<text x="506" y="252" font-weight="600">Storage Slashing:</text>
-<text x="506" y="266" font-size="10" fill="#ef4444">Sector fault penalties</text>
+<text x="506" y="252" font-weight="600" style="font-size:10px">Storage Slashing:</text>
+<text x="506" y="266" style="font-size:9px" fill="#ef4444">Sector fault penalties</text>
 </svg>
