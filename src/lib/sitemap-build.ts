@@ -306,13 +306,15 @@ export async function buildSitemapRoutes(): Promise<MetadataRoute.Sitemap> {
   ]);
 
  // Articles live at /<slug> (root level, shared [slug] route with glossary terms).
- // No date field exists in article frontmatter, so use the stable fallback.
- const articleRoutes: MetadataRoute.Sitemap = articles.map((article) => ({
-  url: `${siteUrl}/${article.slug}`,
-  lastModified: CONTENT_FALLBACK_DATE,
-  changeFrequency: 'monthly' as const,
-  priority: 0.7,
- }));
+  const articleRoutes: MetadataRoute.Sitemap = articles.map((article) => {
+   const timestamp = Date.parse(article.lastUpdated || article.publishedDate || '');
+   return {
+    url: `${siteUrl}/${article.slug}`,
+    lastModified: Number.isNaN(timestamp) ? CONTENT_FALLBACK_DATE : new Date(timestamp),
+    changeFrequency: 'monthly' as const,
+    priority: 0.7,
+   };
+  });
 
   // Company pages are derived from the live jobs cache. Use the newest verified
   // listing date for a stable, source-backed modification timestamp.
