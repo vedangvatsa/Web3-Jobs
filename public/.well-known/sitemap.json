@@ -2,12 +2,12 @@
   "$schema": "https://schema.org/sitemap",
   "name": "Hashtag Web3",
   "url": "https://hashtagweb3.com",
-  "generatedAt": "2026-09-24T14:49:51.258Z",
+  "generatedAt": "2026-09-24T15:07:41.482Z",
   "publisher": {
     "name": "Hashtag Web3",
     "url": "https://hashtagweb3.com"
   },
-  "count": 9066,
+  "count": 9069,
   "urls": [
     {
       "url": "https://hashtagweb3.com",
@@ -19582,6 +19582,12 @@
       "priority": 0.7
     },
     {
+      "url": "https://hashtagweb3.com/esma-innovation",
+      "lastmod": "2026-09-24",
+      "changefreq": "monthly",
+      "priority": 0.7
+    },
+    {
       "url": "https://hashtagweb3.com/esports",
       "lastmod": "2026-09-01",
       "changefreq": "daily",
@@ -32624,6 +32630,12 @@
       "lastmod": "2026-10-09",
       "changefreq": "weekly",
       "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/mica-lending",
+      "lastmod": "2026-09-24",
+      "changefreq": "monthly",
+      "priority": 0.7
     },
     {
       "url": "https://hashtagweb3.com/mid-career-crisis-survival-guide",
@@ -48326,6 +48338,12 @@
       "lastmod": "2026-09-22",
       "changefreq": "weekly",
       "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/solana-hires",
+      "lastmod": "2026-09-24",
+      "changefreq": "monthly",
+      "priority": 0.7
     },
     {
       "url": "https://hashtagweb3.com/solana-slots",
