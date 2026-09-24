@@ -18,6 +18,7 @@
   "scripts": {
     "prebuild": "npx tsx scripts/prebuild-data-prep.ts && npx tsx scripts/prebuild-deploy-gates.ts && npx tsx scripts/prebuild-sitemap-if-needed.ts && npx tsx scripts/prebuild-og-step.ts",
     "precompute:og-images": "npx tsx scripts/precompute-og-images.ts",
+    "precompute:page-og": "npx tsx scripts/precompute-page-og-images.ts --if-missing",
     "precompute:og-previews": "npx tsx scripts/precompute-og-previews.ts",
     "precompute:og-incremental": "npx tsx scripts/precompute-og-images.ts --if-missing && npx tsx scripts/prune-stale-og-pngs.ts && npx tsx scripts/precompute-og-previews.ts",
     "recompress:og-pngs": "npx tsx scripts/recompress-og-pngs.ts",

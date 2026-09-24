@@ -10,7 +10,7 @@ export const metadata: Metadata = {
     title: 'About Us | Hashtag Web3',
     description: 'Learn about Hashtag Web3, the leading Web3 job board and career intelligence platform.',
     url: 'https://hashtagweb3.com/about',
-    images: [{ url: 'https://hashtagweb3.com/og-image.png', width: 1200, height: 630 }],
+    images: [{ url: 'https://hashtagweb3.com/og/pages/about.png', width: 1200, height: 630 }],
   },
 };
 

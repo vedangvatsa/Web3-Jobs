@@ -21,7 +21,7 @@ export const metadata: Metadata = {
     description: 'Your hub for Web3 careers. Explore thousands of crypto jobs, get career advice, and connect with a global community of blockchain professionals.',
     url: 'https://hashtagweb3.com/community',
     images: [{
-      url: 'https://hashtagweb3.com/og-image.png',
+      url: 'https://hashtagweb3.com/og/pages/community.png',
       width: 1200,
       height: 630,
       alt: 'Hashtag Web3 Community',
@@ -31,7 +31,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Web3 Community | Hashtag Web3',
     description: 'Join 60,000+ Web3 professionals. Access exclusive jobs, career guides, salary data, and connect with the global blockchain community.',
-    images: ['https://hashtagweb3.com/og-image.png'],
+    images: ['https://hashtagweb3.com/og/pages/community.png'],
   },
 };
 

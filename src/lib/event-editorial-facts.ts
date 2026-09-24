@@ -56,7 +56,9 @@ export function sanitizeEventEditorial(editorial: EventEditorialArticle): EventE
 }
 
 export function buildEventMetaDescription(event: Web3Event, _hasEditorialGuide: boolean): string {
-  const description = cleanPublishText(getVerifiedEventDescription(event)).replace(/^\s*(?:#{1,6}|>|[-•])\s+/gm, '').replace(/\s+/g, ' ').trim();
+  const description = cleanPublishText(getVerifiedEventDescription(event))
+    .replace(/\[([^\]\n]+)\]\(https?:\/\/[^\s)]+\)/g, '$1')
+    .replace(/^\s*(?:#{1,6}|>|[-•])\s+/gm, '').replace(/\s+/g, ' ').trim();
   if (description) {
     if (description.length <= 160) return description;
     const cut = description.slice(0, 157);

@@ -18,13 +18,13 @@ export const metadata: Metadata = {
     title: 'Hashtag Web3 Developer Portal',
     description: 'Static JSON catalogs, OpenAPI, and agent discovery for Hashtag Web3.',
     url: 'https://hashtagweb3.com/developers',
-    images: [{ url: 'https://hashtagweb3.com/og-image.png', width: 1200, height: 630, alt: 'Hashtag Web3 Developer Portal' }],
+    images: [{ url: 'https://hashtagweb3.com/og/pages/developers.png', width: 1200, height: 630, alt: 'Hashtag Web3 Developer Portal' }],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'Hashtag Web3 Developer Portal',
     description: 'Static JSON catalogs, OpenAPI, and agent discovery for Hashtag Web3.',
-    images: ['https://hashtagweb3.com/og-image.png'],
+    images: ['https://hashtagweb3.com/og/pages/developers.png'],
   },
 };
 

@@ -233,7 +233,7 @@ export function buildGoogleEventSchema(event: Web3Event, context: EventSchemaCon
     name: text(event.name),
     startDate: event.startDate,
     ...(event.endDate ? { endDate: event.endDate } : {}),
-    ...(getVerifiedEventDescription(event) ? { description: getVerifiedEventDescription(event).replace(/^\s*(?:#{1,6}|>)\s+/gm, '') } : {}),
+    ...(getVerifiedEventDescription(event) ? { description: getVerifiedEventDescription(event).replace(/\[([^\]\n]+)\]\(https?:\/\/[^\s)]+\)/g, '$1').replace(/^\s*(?:#{1,6}|>)\s+/gm, '') } : {}),
     ...(status ? { eventStatus: `https://schema.org/${status}` as GoogleEventSchema['eventStatus'] } : {}),
     ...(status === 'EventRescheduled' && isValidIsoDate(event.previousStartDate) ? { previousStartDate: event.previousStartDate } : {}),
     eventAttendanceMode: event.attendanceMode === 'mixed'

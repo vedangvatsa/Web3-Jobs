@@ -21,7 +21,7 @@ export const metadata: Metadata = {
     url: 'https://hashtagweb3.com/popups',
     images: [
       {
-        url: 'https://hashtagweb3.com/og-image.png',
+        url: 'https://hashtagweb3.com/og/pages/popups.png',
         width: 1200,
         height: 630,
         alt: 'Startup Societies directory',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
     title: 'Startup Societies | Hashtag Web3',
     description:
       'Directory of popup cities, permanent nodes, SEZs, and builder villages for Web3 and frontier tech.',
-    images: ['https://hashtagweb3.com/og-image.png'],
+    images: ['https://hashtagweb3.com/og/pages/popups.png'],
   },
 };
 

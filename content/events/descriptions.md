@@ -666,7 +666,7 @@ Confirmed speakers include Takashi Tezuka, CEO of Startale Japan; Armani Ferrant
 
 This is a paid ticketed event and will not be livestreamed. Past ETHGlobal hackers or other Pack holders may qualify for a discount.
 
-You can check if you qualify by logging in and purchasing on our full website (https://ethglobal.com/events/pragma-tokyo2026).
+You can check if [you qualify by logging in and purchasing on our full website](https://ethglobal.com/events/pragma-tokyo2026).
 
 ### Mint our Tokyo Pack for a curated experience!
 
@@ -836,7 +836,7 @@ Hack VC
 
 >
 
-> The Bridge Summit 관련 자세한 내용 및 최신 소식은 Bridge34 공식 X 채널 (@Bridge34__ (https://x.com/Bridge34__))을 통해 순차적으로 업데이트될 예정입니다.
+> The Bridge Summit 관련 자세한 내용 및 최신 소식은 Bridge34 공식 X 채널 (@[Bridge34__](https://x.com/Bridge34__))을 통해 순차적으로 업데이트될 예정입니다.
 
 > ━━━━━━━━━━━━━━
 
@@ -956,7 +956,7 @@ Hack VC
 
 >
 
-> More details and the latest updates on The Bridge Summit will be shared through Bridge34's official X account (@Bridge34__ (https://x.com/Bridge34__)).
+> More details and the latest updates on The Bridge Summit will be shared through Bridge34's official X account (@[Bridge34__](https://x.com/Bridge34__)).
 
 >
 
@@ -1040,7 +1040,7 @@ Doors at 2PM. See you on the rooftop.
 
 ### Event Info
 
-Host: Avalanche Team1 Korea (https://x.com/Team1KOR)
+[Host: Avalanche Team1 Korea](https://x.com/Team1KOR)
 
 Date & Time: September 28 Monday 2-5PM
 
@@ -1066,7 +1066,7 @@ Team1 is a global network of builders, developers, creatives, & community member
 
 With 600+ members operating across 40 countries, Team1 drives the democratization and global adoption of Avalanche by onboarding new users and projects through local meetups, targeted workshops, exclusive side events, engaging content creation and community-led initiatives.
 
-/AvaxTeam1 (https://x.com/AvaxTeam1?)
+/[AvaxTeam1](https://x.com/AvaxTeam1)?
 
 <a id="event-0c48017538f0de2a"></a>
 
@@ -1086,13 +1086,13 @@ With 600+ members operating across 40 countries, Team1 drives the democratizatio
 
 > The event is going to be conducted in Korean.
 
-Ripple (https://ripple.com), t54 (https://t54.ai), Tenity (https://www.tenity.com/), Bloom (https://bloomworld.ai/community/)이 함께하는 KBW 공식 사이드 이벤트입니다.
+[Ripple](https://ripple.com), [t54](https://t54.ai), [Tenity](https://www.tenity.com/), [Bloom](https://bloomworld.ai/community/)이 함께하는 KBW 공식 사이드 이벤트입니다.
 
 2026.09.28 (월) 18:00-23:00 KST 강남 (신청 승인 후 안내) 무료 - 승인제
 
 ### 이런 분들을 환영합니다
 
-- XRPL (https://xrpl.org) 및 온체인 AI 인프라에 관심 있는 빌더/개발자
+- [XRPL](https://xrpl.org) 및 온체인 AI 인프라에 관심 있는 빌더/개발자
 - Agentic payment, x402, MPP, AP2, ACP 등 machine to machine 결제 표준에 관심 있는 분
 - 자율 금융 에이전트(autonomous financial agent)의 보안 모델에 관심 있는 리서처/엔지니어
 - 블록체인과 t54 생태계 위에서 프로젝트를 구상 중인 빌더
@@ -1114,13 +1114,13 @@ Ripple (https://ripple.com), t54 (https://t54.ai), Tenity (https://www.tenity.co
 
 - Chandler Fang (Founder, t54) (https://www.linkedin.com/in/znfang/)
 
-19:35 - 20:20 - 패널 토론 (모더레이터: Joel Mun (https://www.linkedin.com/in/7oelm/))
+19:35 - 20:20 - 패널 토론 (모더레이터: [Joel Mun](https://www.linkedin.com/in/7oelm/))
 
 패널
 
-- Jungyong Um (https://www.linkedin.com/in/jungyong-um/), Web3 Dev & AI TF Lead, DSRV (https://www.dsrv.com/en)
-- Junhyeok Yoo (https://www.linkedin.com/in/junhyeok-yoo-b6727a215/), Researcher at Four Pillars (https://4pillars.io/en)
-- Seonmin Yi (https://www.linkedin.com/in/claraysm/), 인하대학교 초빙교수, 재정경제부 전략경제자문단 AI Agent 커머스분과 위원, Future Works Lab 창립자
+- [Jungyong Um](https://www.linkedin.com/in/jungyong-um/), [Web3 Dev & AI TF Lead, DSRV](https://www.dsrv.com/en)
+- [Junhyeok Yoo](https://www.linkedin.com/in/junhyeok-yoo-b6727a215/), [Researcher at Four Pillars](https://4pillars.io/en)
+- [Seonmin Yi](https://www.linkedin.com/in/claraysm/), 인하대학교 초빙교수, 재정경제부 전략경제자문단 AI Agent 커머스분과 위원, Future Works Lab 창립자
 
 아젠다
 
@@ -1130,7 +1130,7 @@ Ripple (https://ripple.com), t54 (https://t54.ai), Tenity (https://www.tenity.co
 - AI native 경제를 위한 온체인 인프라
 - 실제 배포 사례와 향후 방향
 
-20:20 - 20:40 - Fireside chat (모더레이터: Junshu Kim from Bloom (https://www.linkedin.com/in/junshu-kim-123508254/))
+20:20 - 20:40 - Fireside chat (모더레이터: [Junshu Kim from Bloom](https://www.linkedin.com/in/junshu-kim-123508254/))
 
 - Suhan Cho (Head of Compliance, Next Securities) (https://www.linkedin.com/in/suhan-joshua-cho-5a0598174/)
 
@@ -1210,11 +1210,11 @@ Two days in Seoul where institutions & builders write Ethereum's next chapter.
 
 - Date / 일시: Sep 29th - 30th, 2026 | 09:00 AM - 06:00 PM
 - Location / 장소: AT Center, Seoul, South Korea (서울 aT센터)
-- Official Website / 공식 웹사이트: www.gwdc.net (https://www.gwdc.net)
+- [Official Website / 공식 웹사이트: www.gwdc.net](https://www.gwdc.net)
 
 Join the Community / 공식 커뮤니티 참여
 
-- GWDC 2026 Telegram Group: t.me/Web3LabsHK (https://t.me/Web3LabsHK)
+- [GWDC 2026 Telegram Group: t.me/Web3LabsHK](https://t.me/Web3LabsHK)
 
 ### About Event / 행사 소개
 
@@ -1258,17 +1258,17 @@ Contact Us / 제휴 문의
 
 If you have any questions about the event or want to become our partners / sponsors, please Contact Us via website, or just connect via: 본 행사에 대해 문의 사항이 있거나 파트너 및 후원사로 참여를 원하시면 공식 웹사이트의 'Contact Us'를 작성하시거나 아래 채널로 연락해 주시기 바랍니다.
 
-email: info@web3labs.club (https://info@web3labs.club)
+[email: info@web3labs.club](https://info@web3labs.club)
 
-Sponsorship Cooperation (TG) : @eddiedede (https://t.me/eddiedede) | @jennik2 (https://x.com/Jenni_Web3)
+Sponsorship Cooperation (TG) : @[eddiedede](https://t.me/eddiedede) | @[jennik2](https://x.com/Jenni_Web3)
 
-Media Cooperation (TG) : @hhtyng (https://t.me/hhtyng)
+Media Cooperation (TG) : @[hhtyng](https://t.me/hhtyng)
 
 ### About Organizers / 주최 및 파트너 소개
 
 - About Web3Labs
   - Web3Labs serves as a one-stop gateway for Web3.0 entrepreneurship. Aiming to respond to global market trends and policy declarations, Web3Labs supports global Web3 enterprises in expanding internationally through landing services, investment acceleration, technical cooperation, PR support, and compliance assistance. Currently, it operates offline incubators in Hong Kong, Singapore, Malaysia, South Korea, Hangzhou, Beijing, and other locations. Additionally, Web3Labs has launched a $10M Web3.0 Global Accelerator Program, establishing strategic partnerships with leading global organizations such as Neo, Zetrix, ICP, KuCoin Labs, TON, Mango, 0G LABS, Plume, etc., providing comprehensive empowerment and acceleration for high-quality global projects.(Web3Labs는 Web3.0 창업을 위한 원스톱 관문입니다. 글로벌 시장의 흐름과 정책 선언에 발맞추어 현지화 서비스, 투자 가속화, 기술 협력, PR 지원, 컴플라이언스 어시스턴스 등을 통해 글로벌 Web3 기업의 해외 진출과 글로벌 연결을 지원합니다. 현재 서울, 홍콩, 싱가포르, 말레이시아, 항저우, 베이징 등지에 오프라인 인큐베이터를 보유하고 있습니다. 또한 Web3Labs는 총 1,000만 달러 규모의 글로벌 액셀러레이팅 프로그램을 출시하여 Neo, Zetrix, ICP, KuCoin Labs, TON, Mango, 0G LABS, Plume 등 다수의 글로벌 선두 기관과 전략적 파트너십을 체결하고 우수한 글로벌 프로젝트에 전방위적 역량 강화 및 가속화를 제공하고 있습니다.)
-    X (https://x.com/LabsWeb368672?utm_source=luma)｜
+    [X](https://x.com/LabsWeb368672?utm_source=luma)｜
 
 <a id="event-248ca6f2dbe3ac77"></a>
 
@@ -1365,7 +1365,7 @@ Hosted by Solidus Labs and Yulchon, this in-person session will focus on advanci
     - Speaker: Claire Lee, CEO of CODE
 - Unfair Coin Trading Regulatory Frameworks in Korea
   - Overview of actual prosecution and referral cases over the past two years to examine the rankings of the most prevalent types of unfair trading practices and sheds light on the specific schemes and deceptive methods unique to the Korean virtual asset market
-    - Speakers: Jackie Baek, Compliance Head of Korea at Crypto.com (https://Crypto.com)
+    - [Speakers: Jackie Baek, Compliance Head of Korea at Crypto.com](https://Crypto.com)
 
 18:30 - Networking
 
@@ -1662,7 +1662,7 @@ Hosted by FuturaCanvas (Korea's first global art&tech conference). Venue: Platfo
 
 ### Institutional Onchain Rails, Now Live
 
-Bridge Seoul (https://bridge-seoul.com) 2026은 웨이브릿지가 코리아 블록체인 위크 기간에 여는 기관 대상 초청 컨퍼런스입니다. 10월 1일, 여의도에서 국내 금융기관과 정책 담당자, 해외 디지털자산 기업이 한자리에 모입니다.
+[Bridge Seoul](https://bridge-seoul.com) 2026은 웨이브릿지가 코리아 블록체인 위크 기간에 여는 기관 대상 초청 컨퍼런스입니다. 10월 1일, 여의도에서 국내 금융기관과 정책 담당자, 해외 디지털자산 기업이 한자리에 모입니다.
 
 올해 한국 시장은 세 가지 변화를 동시에 지나고 있습니다. 현물 ETF, 디지털자산기본법, 원화 스테이블코인. 기관 자금이 들어올 통로가 하나씩 열리는 중입니다. Bridge Seoul은 그 통로를 실제로 만들고 있는 사람들이 모여, 지금 무엇이 가능하고 무엇이 남았는지 이야기하는 자리입니다.
 
@@ -1720,9 +1720,9 @@ Bridge Seoul (https://bridge-seoul.com) 2026은 웨이브릿지가 코리아 블
 
 티켓 판매는 하지 않습니다. 등록해 주시면 순차적으로 검토해 이메일로 승인 결과를 안내드립니다. 좌석은 250석이며, 정원이 차면 등록을 받지 못할 수 있습니다. 프로그램과 연사는 사정에 따라 변경될 수 있습니다.
 
-bridge-seoul.com (https://bridge-seoul.com) / bridge_seoul@wavebridge.com
+[bridge-seoul.com](https://bridge-seoul.com) / bridge_seoul@wavebridge.com
 
-Bridge Seoul (https://bridge-seoul.com) 2026 is Wavebridge's invitation-only conference for institutions, held during Korea Blockchain Week. On the afternoon of October 1, Korea's financial institutions, policymakers, and global digital-asset firms gather in one room at Yeouido.
+[Bridge Seoul](https://bridge-seoul.com) 2026 is Wavebridge's invitation-only conference for institutions, held during Korea Blockchain Week. On the afternoon of October 1, Korea's financial institutions, policymakers, and global digital-asset firms gather in one room at Yeouido.
 
 Three shifts are moving through the Korean market at once: spot ETFs, the Digital Asset Basic Act, and the KRW stablecoin. One by one, the channels for institutional capital are opening. Bridge Seoul brings together the people actually building those channels, to talk about what is possible today and what still has to be solved.
 
@@ -1841,7 +1841,7 @@ The Capital Summit is a curated institutional forum focused on how capital marke
 
 The summit exists to connect institutional capital with the people building onchain financial infrastructure - not as a trade show, but as a focused forum where allocators, operators, and builders meet across Asia and beyond.
 
-Website (https://thecapitalsummit.ai/) | X (https://x.com/CapSummitGlobal) | LinkedIn (https://www.linkedin.com/company/the-capital-summit) | YouTube (https://www.youtube.com/@The_Capital_Summit)
+[Website](https://thecapitalsummit.ai/) | [X](https://x.com/CapSummitGlobal) | [LinkedIn](https://www.linkedin.com/company/the-capital-summit) | [YouTube](https://www.youtube.com/@The_Capital_Summit)
 
 ### About Asia Stablecoin Alliance
 
@@ -1849,9 +1849,9 @@ The Asia Stablecoin Alliance (ASA) is an initiative to accelerate stablecoin ado
 
 The alliance exists to give Asia its own voice, perspective, and coordination in stablecoin innovation. It is not a top down authority, but a network of people working together to move the ecosystem forward.
 
-Website (https://asiastable.org/) | X (https://x.com/AsiaStablecoin) | Substack (https://asiastablecoin.substack.com/)
+[Website](https://asiastable.org/) | [X](https://x.com/AsiaStablecoin) | [Substack](https://asiastablecoin.substack.com/)
 
-Get in touch (https://t.me/heechang_fp)
+[Get in touch](https://t.me/heechang_fp)
 
 <a id="event-5de3c832859d2cfe"></a>
 
@@ -1993,7 +1993,7 @@ An organizer description has not been verified for this record. Any previous cop
 
 ### About the event
 
-Lisbon has always been a city for the people who explore and build. Following that same spirit, INPUT, Paybis and nSureAI (https://Nsure.ai) are bringing together the founders, investors and operators reshaping iGaming and payments, for an evening in Alfama, the oldest neighbourhood in Lisbon.
+Lisbon has always been a city for the people who explore and [build. Following that same spirit, INPUT, Paybis and nSureAI](https://Nsure.ai) are bringing together the founders, investors and operators reshaping iGaming and payments, for an evening in Alfama, the oldest neighbourhood in Lisbon.
 
 October 1st, at La Distillerie, a 19th century distillery at the heart of the neighbourhood. Music, Portuguese wine, and the kind of company worth writing home about.
 
@@ -2018,9 +2018,9 @@ In 2026, Paybis was recognized as the Best Crypto Payment Provider, a testament 
 
 Processing more than $6bn annually, Paybis is one of the most efficient platforms for acquiring and transacting in digital assets. This commitment to operational excellence is why Paybis maintains one of the highest ratings for crypto companies on Trustpilot, and why 7 million users and hundreds of the world's fastest-growing enterprises consistently rely on our services.
 
-X (https://x.com/paybis?utm_source=luma) | LinkedIn (https://www.linkedin.com/company/paybis/?utm_source=luma) | Website (https://paybis.com/business/on-off-ramp/?utm_source=luma) | YouTube (https://www.youtube.com/@Paybis/videos?utm_source=luma)
+[X](https://x.com/paybis?utm_source=luma) | [LinkedIn](https://www.linkedin.com/company/paybis/?utm_source=luma) | [Website](https://paybis.com/business/on-off-ramp/?utm_source=luma) | [YouTube](https://www.youtube.com/@Paybis/videos?utm_source=luma)
 
-Co-hosted by nSureAI (https://www.nsure.ai/?utm_source=luma)
+[Co-hosted by nSureAI](https://www.nsure.ai/?utm_source=luma)
 
 nSureAI is an AI-native payment fraud prevention solution that turns risk management into a scalable growth engine. It serves crypto exchanges, digital asset platforms, fintechs, stablecoin PSPs, remittance providers, iGaming operators, and prepaid platforms (incl. gift cards), empowering high-risk merchants to maximize net incremental profit by removing payment friction and false declines.
 
@@ -2028,7 +2028,7 @@ Instead of static rules or shared pooled models,nSureAI builds a dedicated AI mo
 
 Processing over $200B in annual volume, nSureAIis one of the most scalable fraud engines in digital commerce. Rendering decisions under 500ms and handling peak volumes of $80M/hr, nSureAI's operational excellence has driven 3x YoY growth while safeguarding leading global enterprises.
 
-LinkedIn (https://www.linkedin.com/company/nsureai/about/?utm_source=luma) | Website (https://www.nsure.ai/?utm_source=luma)
+[LinkedIn](https://www.linkedin.com/company/nsureai/about/?utm_source=luma) | [Website](https://www.nsure.ai/?utm_source=luma)
 
 Powered by INPUT Global
 
@@ -2045,9 +2045,9 @@ Our work spans the Americas, Europe and MENA, with experience across 500+ compan
 
 90% of our clients stay with us year after year.
 
-Join INPUT Offstage (https://t.me/+3XURWkx0QXE2MDRk) on Telegram for event and speaking opportunities, media updates, webinars and streams, unreleased KNOWN podcast content, and conversations across our global network.
+[Join INPUT Offstage](https://t.me/+3XURWkx0QXE2MDRk) on Telegram for event and speaking opportunities, media updates, webinars and streams, unreleased KNOWN podcast content, and conversations across our global network.
 
-X (https://x.com/INPUT_global?utm_source=luma) | LinkedIn (https://www.linkedin.com/company/inputglobal/?utm_source=luma) | Website (https://input.global/?utm_source=luma) | Telegram (https://t.me/+3XURWkx0QXE2MDRk)
+[X](https://x.com/INPUT_global?utm_source=luma) | [LinkedIn](https://www.linkedin.com/company/inputglobal/?utm_source=luma) | [Website](https://input.global/?utm_source=luma) | [Telegram](https://t.me/+3XURWkx0QXE2MDRk)
 
 <a id="event-591d2337d6f67a38"></a>
 
@@ -2075,7 +2075,7 @@ Snack, snap & stay Stark at KBW!
 
 All guests must register. Entry is first-come, first-served.
 
-Follow us on X (https://x.com/StarknetFndn?utm_source=luma)
+[Follow us on X](https://x.com/StarknetFndn?utm_source=luma)
 
 Starknet is the original Zero-Knowledge Rollup - a battle-tested Ethereum Layer 2 blockchain with over $1.36T in cumulative trading volume. Built by StarkWare Ltd., and backed by leading investors including Sequoia, Paradigm, Coinbase Ventures, and Pantera, Starknet has already brought hyperscale and ultra-low fees to Ethereum.
 
@@ -2361,10 +2361,10 @@ Sponsorship Deck: https://vntr.docsend.com/view/49biiev28wbidxt8
 
 THANK YOU TO OUR PARTNERS:
 
-- Stellar (https://www.stellar.org/) is a decentralized, fast, scalable, and uniquely sustainable network for financial products and services. It is both a cross-currency transaction system and a platform for digital asset issuance, designed to connect the world's financial infrastructure.
-- Gamma Prime (https://www.gammaprime.fi/) is the Marketplace to launch and invest in Alternative Funds. Investors gain seamless access to truly diversified alternative investments. Hedge funds reach new institutions, family offices, and accredited investors worldwide.
-- Instaswap (https://instaswap.com/?utm_source=luma) is the infrastructure powering private, seamless cross-chain execution. Think 1inch meets THORChain, fully abstracted into a single transaction, with privacy native to the swap.
-- Darknight Labs (https://darknightlabs.com/?utm_source=luma) is a Web3 ecosystem deploying smart capital through elite investment syndicates, strategic leverage, and community distribution - built to win for investors, founders, and users.
+- [Stellar](https://www.stellar.org/) is a decentralized, fast, scalable, and uniquely sustainable network for financial products and services. It is both a cross-currency transaction system and a platform for digital asset issuance, designed to connect the world's financial infrastructure.
+- [Gamma Prime](https://www.gammaprime.fi/) is the Marketplace to launch and invest in Alternative Funds. Investors gain seamless access to truly diversified alternative investments. Hedge funds reach new institutions, family offices, and accredited investors worldwide.
+- [Instaswap](https://instaswap.com/?utm_source=luma) is the infrastructure powering private, seamless cross-chain execution. Think 1inch meets THORChain, fully abstracted into a single transaction, with privacy native to the swap.
+- [Darknight Labs](https://darknightlabs.com/?utm_source=luma) is a Web3 ecosystem deploying smart capital through elite investment syndicates, strategic leverage, and community distribution - built to win for investors, founders, and users.
 
 ### Q&A
 
@@ -2407,7 +2407,7 @@ American Fortress
 
 AmericanFortress is a privacy and security infrastructure platform for onchain transactions, designed to make digital asset transfers more private, secure, and user-friendly. Its FortressName™ system allows users to send assets using human-readable names while generating stealth addresses to reduce public exposure.
 
-For more information, visit: AmericanFortress (https://americanfortress.io/)
+[For more information, visit: AmericanFortress](https://americanfortress.io/)
 
 SwapSpace
 
@@ -2415,7 +2415,7 @@ SwapSpace
 
 SwapSpace is a non-custodial crypto exchange aggregator that brings together liquidity from multiple exchange providers, allowing users to compare rates and swap digital assets through a single platform. Operating since 2019, SwapSpace supports thousands of assets and hundreds of thousands of trading pairs.
 
-For more information, visit: SwapSpace (https://swapspace.co/)
+[For more information, visit: SwapSpace](https://swapspace.co/)
 
 Alpaca
 
@@ -2423,7 +2423,7 @@ Alpaca
 
 Alpaca is a global brokerage infrastructure platform providing API-powered access to stocks, ETFs, options, fixed income, and crypto. It enables fintechs, financial institutions, and trading platforms to build and scale investing products through its regulated brokerage infrastructure.
 
-For more information, visit: Alpaca (https://alpaca.markets/)
+[For more information, visit: Alpaca](https://alpaca.markets/)
 
 ### Strategic Partners
 
@@ -2433,7 +2433,7 @@ DCS Group
 
 DCS Group traces its roots to 1973, with the launch of Singapore's first Diners Club card programme. It has since evolved into a diverse group of payments companies with capabilities spanning card issuing, merchant acquiring, stablecoin payments, and payment orchestration, that help businesses launch, scale and grow.
 
-For more information, visit: DCS Group (https://www.dcsfintech.com/)
+[For more information, visit: DCS Group](https://www.dcsfintech.com/)
 
 Maelstrom
 
@@ -2441,7 +2441,7 @@ Maelstrom
 
 Maelstrom is an investment fund managed by the family office of Arthur Hayes, co-founder of BitMEX. The firm invests across venture, liquid markets, private equity and public markets, with a focus on infrastructure, products and services advancing decentralized financial systems.
 
-For more information, visit: Maelstrom (https://maelstrom.fund/)
+[For more information, visit: Maelstrom](https://maelstrom.fund/)
 
 ### How to Join
 
@@ -2462,7 +2462,7 @@ The day concludes with the Global Onchain Awards, recognizing the builders, inst
 
 Voting is live
 
-Vote here - Global Onchain Awards voting | Web3 Innovation Awards -By (https://awards.coingape.com/global-onchain-awards-singapore-2026/voting/)Coingape.com (https://Coingape.com)
+Vote here - [Global Onchain Awards voting | Web3 Innovation Awards -By](https://awards.coingape.com/global-onchain-awards-singapore-2026/voting/)[Coingape.com](https://Coingape.com)
 
 ### Event Details
 
@@ -3629,63 +3629,63 @@ Expect the biggest human rights x neo-cypherpunk festival. Buenos Aires edition 
 
 Curatorial note: we assemble speakers on intersection between digital rights, FOSS, decentralisation & cryptography.
 
-They propose practical solutions for global challenges from polarisation in social media to raise of dictatorships. Challenge internet shutdowns, abuse of digital identity, & attacks on encryption. With proven track record from @EFF (https://x.com/EFF) to @brave (https://x.com/brave).
+They propose practical solutions for global challenges from polarisation in social media to raise of dictatorships. Challenge internet shutdowns, abuse of digital identity, & [attacks on encryption. With proven track record from @EFF](https://x.com/EFF) [to @brave](https://x.com/brave).
 
 Welcome to Mumbai!
 
-@kurtopsahl (https://x.com/kurtopsahl) x @FilFoundation (https://x.com/FilFoundation) for long-lasting defence of encryption in EFF, exceptional human qualities and bridging gap betwen old & new cypherpunks
+@[kurtopsahl](https://x.com/kurtopsahl) [x @FilFoundation](https://x.com/FilFoundation) for long-lasting defence of encryption in EFF, exceptional human qualities and bridging gap betwen old & new cypherpunks
 
-@Isa (https://x.com/Isa) x @torproject (https://x.com/torproject) for exceptional work on harmonizing network-level privacy and digital rights
+@[Isa](https://x.com/Isa) [x @torproject](https://x.com/torproject) for exceptional work on harmonizing network-level privacy and digital rights
 
-@ghappour (https://x.com/ghappour) x flashbots for matching digital rights & web3 culture. Being a real representative of privacy-first, encryption-centric narrative across borders & ecosystems.
+@[ghappour](https://x.com/ghappour) x flashbots for matching digital rights & web3 culture. Being a real representative of privacy-first, encryption-centric narrative across borders & ecosystems.
 
-@therealyingtong (https://x.com/therealyingtong) for proving that real-world cryptography exists in practice & can serve marginalized people
+@[therealyingtong](https://x.com/therealyingtong) for proving that real-world cryptography exists in practice & can serve marginalized people
 
-Justin Drake (https://x.com/drakefjustin) - key Ethereum Foundation protocol researcher
+[Justin Drake](https://x.com/drakefjustin) - key Ethereum Foundation protocol researcher
 
-@lunardragon420 (https://x.com/lunardragon420) x @DarkFiSquad (https://x.com/DarkFiSquad) for uncompromising values & visionary ideas on both tech activism & role of code
+@[lunardragon420](https://x.com/lunardragon420) [x @DarkFiSquad](https://x.com/DarkFiSquad) for uncompromising values & visionary ideas on both tech activism & role of code
 
-@mala (https://x.com/mala) x @FilFoundation (https://x.com/FilFoundation) for openness to transition old cypherpunk narratives into compeling and positive knowledge for the future to come
+@[mala](https://x.com/mala) [x @FilFoundation](https://x.com/FilFoundation) for openness to transition old cypherpunk narratives into compeling and positive knowledge for the future to come
 
-@jaromil (https://x.com/jaromil) x @DyneOrg (https://x.com/DyneOrg) for balancing hacktivist culture with digital identity challenges, defending civic society by representing us in institutions
+@[jaromil](https://x.com/jaromil) [x @DyneOrg](https://x.com/DyneOrg) for balancing hacktivist culture with digital identity challenges, defending civic society by representing us in institutions
 
-@ml_sudo (https://x.com/ml_sudo) x @ethereumfndn (https://x.com/ethereumfndn)'s Silviculture for accelerating meaningful cryptography & culture across ecosystems
+@[ml_sudo](https://x.com/ml_sudo) [x @ethereumfndn](https://x.com/ethereumfndn)'s Silviculture for accelerating meaningful cryptography & culture across ecosystems
 
-@PryvitKyle (https://x.com/PryvitKyle) x @brave (https://x.com/brave) for brinding gap between already proven privacy tech & emerging innovations - showing how crypto can plug'n'play in traditional tech
+@[PryvitKyle](https://x.com/PryvitKyle) [x @brave](https://x.com/brave) for brinding gap between already proven privacy tech & emerging innovations - showing how crypto can plug'n'play in traditional tech
 
-@SCBuergel (https://x.com/SCBuergel) x @gnosis_ (https://x.com/gnosis_) + @hoprnet (https://x.com/hoprnet) for dedicating years of life to deliver network-level privacy, staying for the culture and diversifying VPN market.
+@[SCBuergel](https://x.com/SCBuergel) [x @gnosis_](https://x.com/gnosis_) + @[hoprnet](https://x.com/hoprnet) for dedicating years of life to deliver network-level privacy, staying for the culture and diversifying VPN market.
 
-@jbaylina (https://x.com/jbaylina) x @ziskvm (https://x.com/ziskvm) for tech dedication to solve digital rights in practice, growing a group of cryptographers, scaling & securing millions of people.
+@[jbaylina](https://x.com/jbaylina) [x @ziskvm](https://x.com/ziskvm) for tech dedication to solve digital rights in practice, growing a group of cryptographers, scaling & securing millions of people.
 
 ### FOCUS AREAS
 
-@AndyGuzmanEth (https://x.com/AndyGuzmanEth) x @PrivacyEthereum (https://x.com/PrivacyEthereum) for proving that the future of privacy ecosystem depends on decency and positive communication.
+@[AndyGuzmanEth](https://x.com/AndyGuzmanEth) [x @PrivacyEthereum](https://x.com/PrivacyEthereum) for proving that the future of privacy ecosystem depends on decency and positive communication.
 
-@Fatalmeh (https://x.com/Fatalmeh) for caring about human rights now, legal web3 policies, & decentralised tech that will shift global power dynamics
+@[Fatalmeh](https://x.com/Fatalmeh) for caring about human rights now, legal web3 policies, & decentralised tech that will shift global power dynamics
 
-@miroyato (https://x.com/miroyato) x @fileverse (https://x.com/fileverse) for by-week practical deGoogling at scale via http://ddocs.new & bringing deep academical approach to decentralised tech culture
+@[miroyato](https://x.com/miroyato) [x @fileverse](https://x.com/fileverse) for by-week practical deGoogling at scale via http://ddocs.new & bringing deep academical approach to decentralised tech culture
 
-@auryn_macmillan (https://x.com/auryn_macmillan) x @EnclaveE3 (https://x.com/EnclaveE3) for long-lasting representation of human values where code really becomes a speech. Delivering complex encryption for confidential computation.
+@[auryn_macmillan](https://x.com/auryn_macmillan) [x @EnclaveE3](https://x.com/EnclaveE3) for long-lasting representation of human values where code really becomes a speech. Delivering complex encryption for confidential computation.
 
-@hebbianloop (https://x.com/hebbianloop) x @humntech (https://x.com/humntech) for protecting identity at scale & bridging traditional digital rights with emerging tech
+@[hebbianloop](https://x.com/hebbianloop) [x @humntech](https://x.com/humntech) for protecting identity at scale & bridging traditional digital rights with emerging tech
 
-@Cryptic_cm (https://x.com/Cryptic_cm) x @session_app (https://x.com/session_app) for providing vocal alternatives to how we securely communicate & collaborate online
+@[Cryptic_cm](https://x.com/Cryptic_cm) [x @session_app](https://x.com/session_app) for providing vocal alternatives to how we securely communicate & collaborate online
 
-@kassandraETH (https://x.com/kassandraETH) x @ethereumfndn (https://x.com/ethereumfndn) for proving that code is an art, & cultural diversity can bring striking change - uniting ecosystems & voices beyond tribalism
+@[kassandraETH](https://x.com/kassandraETH) [x @ethereumfndn](https://x.com/ethereumfndn) for proving that code is an art, & cultural diversity can bring striking change - uniting ecosystems & voices beyond tribalism
 
-@Pol_Lanski (https://x.com/Pol_Lanski) x @dappnode (https://x.com/dappnode) for proving that node-running isn't a rocket science, but active contribution to both decentralisation and censorship resistance
+@[Pol_Lanski](https://x.com/Pol_Lanski) [x @dappnode](https://x.com/dappnode) for proving that node-running isn't a rocket science, but active contribution to both decentralisation and censorship resistance
 
-@LoringHarkness (https://x.com/LoringHarkness) x @ShutterNetwork (https://x.com/ShutterNetwork) for pushing new cryptographic primitives to life, alligning different actords towards Encrypted Mempools
+@[LoringHarkness](https://x.com/LoringHarkness) [x @ShutterNetwork](https://x.com/ShutterNetwork) for pushing new cryptographic primitives to life, alligning different actords towards Encrypted Mempools
 
-@TMIYChao (https://x.com/TMIYChao) x @ethereumfndn (https://x.com/ethereumfndn) + @BordelWTF (https://x.com/BordelWTF) for keeping reminding that original cypherpunks were build on values & not shiny merch (we translate: use @GrapheneOS (https://x.com/GrapheneOS), run your own node, visit CCC etc)
+@[TMIYChao](https://x.com/TMIYChao) [x @ethereumfndn](https://x.com/ethereumfndn) + @[BordelWTF](https://x.com/BordelWTF) for keeping reminding that original cypherpunks were build on values & not shiny merch ([we translate: use @GrapheneOS](https://x.com/GrapheneOS), run your own node, visit CCC etc)
 
-@0xMeTony (https://x.com/0xMeTony) x @fluidkey (https://x.com/fluidkey) for proving that hackathons can create decent privacy-projects positively evolving over time
+@0xMeTony (https://x.com/0xMeTony) [x @fluidkey](https://x.com/fluidkey) for proving that hackathons can create decent privacy-projects positively evolving over time
 
-Daniel x @invisiblgarden (https://x.com/invisiblgarden) for matching digital rights with commons, practical web3 aplicability to the endangered societies
+[Daniel x @invisiblgarden](https://x.com/invisiblgarden) for matching digital rights with commons, practical web3 aplicability to the endangered societies
 
-@ncsgy (https://x.com/ncsgy) x @ethereumfndn (https://x.com/ethereumfndn) for bringing tangible privacy via Kohaku, chancing the whole wallet-domain for better, and activating positive side of web3 to millions of people.
+@[ncsgy](https://x.com/ncsgy) [x @ethereumfndn](https://x.com/ethereumfndn) for bringing tangible privacy via Kohaku, chancing the whole wallet-domain for better, and activating positive side of web3 to millions of people.
 
-@willscott (https://x.com/willscott) for representing man of action approach, helping, supporting, activating. Together.
+@[willscott](https://x.com/willscott) for representing man of action approach, helping, supporting, activating. Together.
 
 ### SPONSORS
 
@@ -3721,7 +3721,7 @@ Vitalik Buterin + Naomi Brockwell fireside https://www.youtube.com/watch?v=5At5_
 
 ### Ethereum Social Layer (ESL)
 
-It is being formed before our eyes - an active ecosystem of thousands of thinkers, developers, analysts, human-rights DAOs, coordinators, and even ravers. Inspired by cypherpunks of the past, they create a foundation for the digital community of the future (explore our Cyherpunk personas (https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/u4ELDt0YkpCe272kD2f5kTThJsILg1pgaOeBsTSGV0I) article). Based on permissionless & censorship-resistance ideology. Follow Paul-Dylan Ennis (https://x.com/post_polar_/status/1813275641954877709) on ESL.
+It is being formed before our eyes - an active ecosystem of thousands of thinkers, developers, analysts, human-rights DAOs, coordinators, and even ravers. Inspired by cypherpunks of the past, they create a foundation for the digital community of the future ([explore our Cyherpunk personas](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/u4ELDt0YkpCe272kD2f5kTThJsILg1pgaOeBsTSGV0I) article). Based on permissionless & [censorship-resistance ideology. Follow Paul-Dylan Ennis](https://x.com/post_polar_/status/1813275641954877709) on ESL.
 
 ### Activation
 
@@ -3741,14 +3741,14 @@ Diversity in the web3 industry is a critical challenge, let alone in the privacy
 
 Activation track
 
-We want everyone to feel, use and contribute to practical privacy tooling. So we will showcase existing tools empowering your journey in decentralized world: Fileverse (http://fileverse.io), Rotki (http://rotki.com), Fluidkey (http://fluidkey.com), Radicle, GnosisVPN.
+We want everyone to feel, use and contribute to practical privacy tooling. So we will showcase existing tools [empowering your journey in decentralized world: Fileverse](http://fileverse.io), [Rotki](http://rotki.com), [Fluidkey](http://fluidkey.com), Radicle, GnosisVPN.
 
 Stunning merch delivered by Coinmandeer
 
 ### High-level agenda
 
 - craft conditions needed to overcome challenges mapped in "Make Ethereum Cypherpunk again" essay
-- present Ethereum Privacy Ecosystem (https://docs.web3privacy.info/research/ethereum-privacy-ecosystem/) and its key players
+- [present Ethereum Privacy Ecosystem](https://docs.web3privacy.info/research/ethereum-privacy-ecosystem/) and its key players
 - explore socio-cultural conditions re-wiring degens into cypher-activists
 - build a mainstream culture around cypherpunk - make it an open and inclusive movement
 - remind of the origins of Ethereum ethos
@@ -3763,16 +3763,16 @@ Speak (CfP): https://tally.so/r/nrOzXl
 
 Partner:
 
-- web3privacynow 'at' protonmail.com (http://protonmail.com) or
+- [web3privacynow 'at' protonmail.com](http://protonmail.com) or
 - https://x.com/PG_CDG
 
 Volunteer: https://tally.so/r/3lLqKo
 
 Our previous events (feel the vibe)
 
-- Privacy Summit II (https://summit.web3privacy.info/) - Paralelni Polis, Prague 2024
-- Privacy Summit I (https://prague.web3privacy.info) - X10, Prague 2023
-- ETHRome Meetup (https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/bzv735Bc1zak7Yi-NcxWavMQKgt2ANXQtpkrSp8Xg3o)- Villaggio Globale, Rome 2023
+- [Privacy Summit II](https://summit.web3privacy.info/) - Paralelni Polis, Prague 2024
+- [Privacy Summit I](https://prague.web3privacy.info) - X10, Prague 2023
+- [ETHRome Meetup](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/bzv735Bc1zak7Yi-NcxWavMQKgt2ANXQtpkrSp8Xg3o)- Villaggio Globale, Rome 2023
   Useful resources (for real)
   Website: https://web3privacy.info/
   Latest news: http://twitter.com/web3privacy
@@ -5763,11 +5763,11 @@ Join us for a guided hike led by the Tiger Research & Team1 Korea - they've clim
 
 ### Event Info
 
-Co-host: Team1 Korea (https://x.com/AvalancheKorea) x Tiger Research (https://tiger-research.com/)
+[Co-host: Team1 Korea](https://x.com/AvalancheKorea) [x Tiger Research](https://tiger-research.com/)
 
 Date & Time: September 26 Saturday 10AM
 
-Location: National Theater of Korea (Google (https://maps.app.goo.gl/hobPFxXb13VmuVzn9), Naver (https://naver.me/Fqi65258))
+Location: National Theater of Korea ([Google](https://maps.app.goo.gl/hobPFxXb13VmuVzn9), [Naver](https://naver.me/Fqi65258))
 
 ### Itinerary
 
@@ -5800,7 +5800,7 @@ Duration: ~3 hours, including breaks, sightseeing, and chats
 
 Tiger Research is an independent research institution covering digital asset markets across Asia. Founded in 2022, Tiger Research has helped projects shape and distribute their narratives as one of Asia's most referenced sources of blockchain intelligence and institutional connectivity. Its reports, published in five languages, reach 100,000 monthly subscribers and more than 200 institutional clients, including banks, asset managers, and enterprises.
 
-Website (https://tiger-research.com/?utm_source=luma) | Research (https://reports.tiger-research.com/) | Linkedin (https://www.linkedin.com/company/tiger-research-inc/?utm_source=luma) | X (https://x.com/tiger_research_?utm_source=luma) | Youtube (https://www.youtube.com/@Tiger_Research?utm_source=luma) | Telegram (https://t.me/tiger_research?utm_source=luma)
+[Website](https://tiger-research.com/?utm_source=luma) | [Research](https://reports.tiger-research.com/) | [Linkedin](https://www.linkedin.com/company/tiger-research-inc/?utm_source=luma) | [X](https://x.com/tiger_research_?utm_source=luma) | [Youtube](https://www.youtube.com/@Tiger_Research?utm_source=luma) | [Telegram](https://t.me/tiger_research?utm_source=luma)
 
 ### About Team1
 
@@ -5943,7 +5943,7 @@ Simple. Secure. Tangem.
 
 Whether you're new to crypto or a seasoned investor, Tangem makes self-custody accessible to everyone.
 
-Website (https://tangem.com/en/?utm_source=luma) | X (https://x.com/Tangem?utm_source=luma) | Telegram Korea
+[Website](https://tangem.com/en/?utm_source=luma) | [X](https://x.com/Tangem?utm_source=luma) | Telegram Korea
 
 Tangem House - Seoul @ KBW
 
@@ -6104,7 +6104,7 @@ Hack VC
 
 >
 
-> The Bridge Summit 관련 자세한 내용 및 최신 소식은 Bridge34 공식 X 채널 (@Bridge34__ (https://x.com/Bridge34__))을 통해 순차적으로 업데이트될 예정입니다.
+> The Bridge Summit 관련 자세한 내용 및 최신 소식은 Bridge34 공식 X 채널 (@[Bridge34__](https://x.com/Bridge34__))을 통해 순차적으로 업데이트될 예정입니다.
 
 > ━━━━━━━━━━━━━━
 
@@ -6224,7 +6224,7 @@ Hack VC
 
 >
 
-> More details and the latest updates on The Bridge Summit will be shared through Bridge34's official X account (@Bridge34__ (https://x.com/Bridge34__)).
+> More details and the latest updates on The Bridge Summit will be shared through Bridge34's official X account (@[Bridge34__](https://x.com/Bridge34__)).
 
 >
 
@@ -6308,7 +6308,7 @@ Doors at 2PM. See you on the rooftop.
 
 ### Event Info
 
-Host: Avalanche Team1 Korea (https://x.com/Team1KOR)
+[Host: Avalanche Team1 Korea](https://x.com/Team1KOR)
 
 Date & Time: September 28 Monday 2-5PM
 
@@ -6334,7 +6334,7 @@ Team1 is a global network of builders, developers, creatives, & community member
 
 With 600+ members operating across 40 countries, Team1 drives the democratization and global adoption of Avalanche by onboarding new users and projects through local meetups, targeted workshops, exclusive side events, engaging content creation and community-led initiatives.
 
-/AvaxTeam1 (https://x.com/AvaxTeam1?)
+/[AvaxTeam1](https://x.com/AvaxTeam1)?
 
 <a id="event-193d15df4383ec1d"></a>
 
@@ -6430,7 +6430,7 @@ PERP DEX DAY.
 
 ### Notice
 
-- 본 이벤트는 승인 전용 행사이며, 정원은 600명 한정입니다. 신청자가 정원을 초과할 경우 ReboundX 터미널 (https://www.reboundx.net/en/terminal-exchange/BINANCE/spot/ETHUSDT)/ 리베이트 (https://www.reboundx.net/en) 사용 유저가 우선 선정됩니다.
+- 본 이벤트는 승인 전용 행사이며, 정원은 600명 한정입니다. 신청자가 정원을 초과할 경우 [ReboundX 터미널](https://www.reboundx.net/en/terminal-exchange/BINANCE/spot/ETHUSDT)/ 리베이트 (https://www.reboundx.net/en) 사용 유저가 우선 선정됩니다.
 - 식별을 위해 ReboundX 회원가입 이메일과 동일한 이메일로 Luma 신청 부탁드립니다.
 - 행사 중 촬영된 사진-영상이 이벤트 홍보 및 SNS에 사용될 수 있음을 양해해 주시는 것으로 간주됩니다.
 
@@ -6563,7 +6563,7 @@ Backed by: eToro, Jump Crypto, and 7+ global investors
 
 ### Socials
 
-ReboundX: Twitter (X) (https://x.com/reboundx_net?utm_source=luma) | Telegram (https://t.me/ReboundXnet?utm_source=luma) | Website (https://www.reboundx.net/?utm_source=luma)
+ReboundX: Twitter (X) (https://x.com/reboundx_net?utm_source=luma) | [Telegram](https://t.me/ReboundXnet?utm_source=luma) | [Website](https://www.reboundx.net/?utm_source=luma)
 
 Hosted by ReboundX
 
@@ -6585,7 +6585,7 @@ Experience the cutting edge of on-chain trading, firsthand.
 
 ### Heads up
 
-- This is an approval-only event with a strict 600-person limit. If demand exceeds spots, ReboundX terminal (https://www.reboundx.net/en/terminal-exchange/BINANCE/spot/ETHUSDT)/rebate (https://www.reboundx.net/en) users get priority.
+- This is an approval-only event with a strict 600-[person limit. If demand exceeds spots, ReboundX terminal](https://www.reboundx.net/en/terminal-exchange/BINANCE/spot/ETHUSDT)/[rebate](https://www.reboundx.net/en) users get priority.
 - For identification purposes, please apply on Luma using the same email as your ReboundX registration.
 - By joining the event, you agree that photos and videos capturing the moments may be shared for event promotions and on social media.
 
@@ -6643,20 +6643,20 @@ To make the experience even more exciting, we've prepared a range of exciting pr
 Who Are We?
 
 - Organizers
-  - Gaea Ventures (https://x.com/GaeaVentures): A global Web3 investment fund and incubator supporting innovative projects across crypto infrastructure, DeFi, Web3 applications, and emerging technologies.
-  - K1 research (https://x.com/K1_Research): A Seoul-based, data-driven Web3 advisory firm helping global blockchain projects enter and grow across Korea and the broader APAC market through research, strategy, fundraising, PR, community growth, and market execution.
+  - [Gaea Ventures](https://x.com/GaeaVentures): A global Web3 investment fund and incubator supporting innovative projects across crypto infrastructure, DeFi, Web3 applications, and emerging technologies.
+  - [K1 research](https://x.com/K1_Research): A Seoul-based, data-driven Web3 advisory firm helping global blockchain projects enter and grow across Korea and the broader APAC market through research, strategy, fundraising, PR, community growth, and market execution.
 - Co-Hosts
-  - Origins Network (https://x.com/OriginsNetwork_): Building infrastructure for an AI-native future through verifiable compute, making compute, data, and execution transparent and verifiable.
-  - UNIKEY (https://x.com/unikeyofficial): Building a unified gateway for AI capabilities and a decentralized clearing network, enabling the circulation of digital value across the emerging AI economy.
-  - Travix (https://x.com/Travix_fi): Building an on-chain Agentic Omnibroker powered by predictive intelligence, verifiable AI strategies, and computable RWA, combining off-chain matching with on-chain settlement on Monad.
-  - SkyDAO (https://x.com/skydaogroup): Building the next generation of financial technology ecosystems by connecting digital assets, AI infrastructure, and global financial services, together with Dayang Group and D Network.
+  - [Origins Network](https://x.com/OriginsNetwork_): Building infrastructure for an AI-native future through verifiable compute, making compute, data, and execution transparent and verifiable.
+  - [UNIKEY](https://x.com/unikeyofficial): Building a unified gateway for AI capabilities and a decentralized clearing network, enabling the circulation of digital value across the emerging AI economy.
+  - [Travix](https://x.com/Travix_fi): Building an on-chain Agentic Omnibroker powered by predictive intelligence, verifiable AI strategies, and computable RWA, combining off-chain matching with on-chain settlement on Monad.
+  - [SkyDAO](https://x.com/skydaogroup): Building the next generation of financial technology ecosystems by connecting digital assets, AI infrastructure, and global financial services, together with Dayang Group and D Network.
 - Sponsors
-  - Becker Ventures (https://x.com/BeckerVentures): Becker Ventures is a global Web3 investment fund and accelerator headquartered in Sydney, Australia, with offices in Hong Kong, Singapore, and Dubai. The company currently manages multiple funds, including venture capital funds, actively managed secondary funds, multi-strategy FOF funds, and private market secondary funds. Its accelerator division has successfully supported several projects with a focus on discovering, incubating, and empowering disruptive Web3 startups.
-  - Oraclizer (https://x.com/Oraclizer): Infrastructure for regulated assets that synchronizes tokens, custody records, contracts, and regulatory status across public blockchains and institutional ledgers. Its technology helps ensure that asset state transitions are coordinated across different systems.
-  - Flap (https://x.com/flapdotsh): A specialized infrastructure layer for token launches, enabling builders to customize token mechanisms and programmable features. By simplifying complex launch mechanics, Flap provides a flexible framework for experimentation and innovation.
-  - XPIN Network (https://x.com/XPINNetwork): A decentralized global connectivity infrastructure providing eSIM connectivity for seamless mobile access without physical SIM cards. It enables instant activation and flexible data access across borders, bringing Web3 utility into everyday connectivity.
-  - AITok (https://x.com/AiTok_io): The gateway to Physical AI, providing AI Agents, compute accounts, AIHub drops, and Echo I. Built to enable seamless access to AI compute and instant AI-powered experiences.
-  - KEYFLOW (https://x.com/KeyFlow_EN): The value circulation layer of the UniKey ecosystem, connecting AI capabilities, contributions, usage, distribution, and settlement. It helps enable the circulation of digital value across the emerging AI economy.
+  - [Becker Ventures](https://x.com/BeckerVentures): Becker Ventures is a global Web3 investment fund and accelerator headquartered in Sydney, Australia, with offices in Hong Kong, Singapore, and Dubai. The company currently manages multiple funds, including venture capital funds, actively managed secondary funds, multi-strategy FOF funds, and private market secondary funds. Its accelerator division has successfully supported several projects with a focus on discovering, incubating, and empowering disruptive Web3 startups.
+  - [Oraclizer](https://x.com/Oraclizer): Infrastructure for regulated assets that synchronizes tokens, custody records, contracts, and regulatory status across public blockchains and institutional ledgers. Its technology helps ensure that asset state transitions are coordinated across different systems.
+  - [Flap](https://x.com/flapdotsh): A specialized infrastructure layer for token launches, enabling builders to customize token mechanisms and programmable features. By simplifying complex launch mechanics, Flap provides a flexible framework for experimentation and innovation.
+  - [XPIN Network](https://x.com/XPINNetwork): A decentralized global connectivity infrastructure providing eSIM connectivity for seamless mobile access without physical SIM cards. It enables instant activation and flexible data access across borders, bringing Web3 utility into everyday connectivity.
+  - [AITok](https://x.com/AiTok_io): The gateway to Physical AI, providing AI Agents, compute accounts, AIHub drops, and Echo I. Built to enable seamless access to AI compute and instant AI-powered experiences.
+  - [KEYFLOW](https://x.com/KeyFlow_EN): The value circulation layer of the UniKey ecosystem, connecting AI capabilities, contributions, usage, distribution, and settlement. It helps enable the circulation of digital value across the emerging AI economy.
 
 <a id="event-4e180c3877e7d180"></a>
 
@@ -6700,19 +6700,19 @@ Covey
 
 An embedded engineering, advisory, execution and capital partner for ambitious crypto and AI companies.
 
-covey.tech (https://covey.tech)
+[covey.tech](https://covey.tech)
 
 Saffron
 
 DeFi infrastructure enabling new ways to structure, deploy and access onchain liquidity and fee generation.
 
-saffron.finance (https://saffron.finance)
+[saffron.finance](https://saffron.finance)
 
 CryptosBatman
 
 Crypto investor, market commentator and connector across the global digital asset ecosystem.
 
-x.com/cryptosbatman (https://x.com/cryptosbatman)
+[x.com/cryptosbatman](https://x.com/cryptosbatman)
 
 Access
 
@@ -6740,13 +6740,13 @@ Some of the best conversations at KBW happen before the conference begins.
 
 > The event is going to be conducted in Korean.
 
-Ripple (https://ripple.com), t54 (https://t54.ai), Tenity (https://www.tenity.com/), Bloom (https://bloomworld.ai/community/)이 함께하는 KBW 공식 사이드 이벤트입니다.
+[Ripple](https://ripple.com), [t54](https://t54.ai), [Tenity](https://www.tenity.com/), [Bloom](https://bloomworld.ai/community/)이 함께하는 KBW 공식 사이드 이벤트입니다.
 
 2026.09.28 (월) 18:00-23:00 KST 강남 (신청 승인 후 안내) 무료 - 승인제
 
 ### 이런 분들을 환영합니다
 
-- XRPL (https://xrpl.org) 및 온체인 AI 인프라에 관심 있는 빌더/개발자
+- [XRPL](https://xrpl.org) 및 온체인 AI 인프라에 관심 있는 빌더/개발자
 - Agentic payment, x402, MPP, AP2, ACP 등 machine to machine 결제 표준에 관심 있는 분
 - 자율 금융 에이전트(autonomous financial agent)의 보안 모델에 관심 있는 리서처/엔지니어
 - 블록체인과 t54 생태계 위에서 프로젝트를 구상 중인 빌더
@@ -6768,13 +6768,13 @@ Ripple (https://ripple.com), t54 (https://t54.ai), Tenity (https://www.tenity.co
 
 - Chandler Fang (Founder, t54) (https://www.linkedin.com/in/znfang/)
 
-19:35 - 20:20 - 패널 토론 (모더레이터: Joel Mun (https://www.linkedin.com/in/7oelm/))
+19:35 - 20:20 - 패널 토론 (모더레이터: [Joel Mun](https://www.linkedin.com/in/7oelm/))
 
 패널
 
-- Jungyong Um (https://www.linkedin.com/in/jungyong-um/), Web3 Dev & AI TF Lead, DSRV (https://www.dsrv.com/en)
-- Junhyeok Yoo (https://www.linkedin.com/in/junhyeok-yoo-b6727a215/), Researcher at Four Pillars (https://4pillars.io/en)
-- Seonmin Yi (https://www.linkedin.com/in/claraysm/), 인하대학교 초빙교수, 재정경제부 전략경제자문단 AI Agent 커머스분과 위원, Future Works Lab 창립자
+- [Jungyong Um](https://www.linkedin.com/in/jungyong-um/), [Web3 Dev & AI TF Lead, DSRV](https://www.dsrv.com/en)
+- [Junhyeok Yoo](https://www.linkedin.com/in/junhyeok-yoo-b6727a215/), [Researcher at Four Pillars](https://4pillars.io/en)
+- [Seonmin Yi](https://www.linkedin.com/in/claraysm/), 인하대학교 초빙교수, 재정경제부 전략경제자문단 AI Agent 커머스분과 위원, Future Works Lab 창립자
 
 아젠다
 
@@ -6784,7 +6784,7 @@ Ripple (https://ripple.com), t54 (https://t54.ai), Tenity (https://www.tenity.co
 - AI native 경제를 위한 온체인 인프라
 - 실제 배포 사례와 향후 방향
 
-20:20 - 20:40 - Fireside chat (모더레이터: Junshu Kim from Bloom (https://www.linkedin.com/in/junshu-kim-123508254/))
+20:20 - 20:40 - Fireside chat (모더레이터: [Junshu Kim from Bloom](https://www.linkedin.com/in/junshu-kim-123508254/))
 
 - Suhan Cho (Head of Compliance, Next Securities) (https://www.linkedin.com/in/suhan-joshua-cho-5a0598174/)
 
@@ -6912,13 +6912,13 @@ Registration requests will be reviewed, and attendance will be confirmed upon ap
 
 ### About the event
 
-Join Zircuit Finance (https://finance.zircuit.com/), Quantstamp (https://quantstamp.com/), and Common Defense (https://www.commondefense.ai/) for Security Night, a relaxed evening of good conversations, fresh ideas, and great company
+[Join Zircuit Finance](https://finance.zircuit.com/), [Quantstamp](https://quantstamp.com/), [and Common Defense](https://www.commondefense.ai/) for Security Night, a relaxed evening of good conversations, fresh ideas, and great company
 
 We'll explore topics ranging from security and DeFi to the growing threat of social engineering attacks, with each co-host sharing a short presentation on their latest work.
 
 Once the talks wrap up, the night continues with food, drinks, and plenty of time to mingle. Come meet the teams, make some new connections, and grab some exclusive event swag while it lasts!
 
-Co-hosted by Xangle (https://xangle.io/en/research) 🇰🇷
+[Co-hosted by Xangle](https://xangle.io/en/research) 🇰🇷
 
 ### The Schedule
 
@@ -6936,33 +6936,33 @@ Co-hosted by Xangle (https://xangle.io/en/research) 🇰🇷
 
 ### The Hosts
 
-Zircuit (https://finance.zircuit.com/?utm_source=luma)puts your security first with institutional-grade protection and a proven track record safeguarding billions.
+[Zircuit](https://finance.zircuit.com/?utm_source=luma)puts your security first with institutional-grade protection and a proven track record safeguarding billions.
 
-Follow on X: x.com/zircuit (https://x.com/zircuit)
+[Follow on X: x.com/zircuit](https://x.com/zircuit)
 
-Institutional-grade yield starts here: finance.zircuit.com (https://finance.zircuit.com)
+[Institutional-grade yield starts here: finance.zircuit.com](https://finance.zircuit.com)
 
 ### Protecting humans from AI-native threats
 
 Defending people and organizations across email, messaging, social platforms, professional networks, and voice and video calls.
 
-Follow on X: x.com/CommonDefenseAI (https://x.com/CommonDefenseAI)
+[Follow on X: x.com/CommonDefenseAI](https://x.com/CommonDefenseAI)
 
-Learn More: commondefense.ai (https://commondefense.ai)
+[Learn More: commondefense.ai](https://commondefense.ai)
 
 Quantstamp is a global leader in blockchain security. Since 2017, we've secured billions in digital assets and worked with some of the most recognized names in web3.
 
-Follow on X: x.com/quantstamp (https://x.com/quantstamp)
+[Follow on X: x.com/quantstamp](https://x.com/quantstamp)
 
-Learn more: quantstamp.com (https://quantstamp.com)
+[Learn more: quantstamp.com](https://quantstamp.com)
 
 쟁글은 디지털 자산 시장의 정보 인프라와 기관용 오케스트레이션 레이어를 구축하는 기업입니다. 디지털 자산 데이터, 리서치 및 정보 유통 역량을 기반으로 금융기관과 기업이 시장을 보다 투명하게 이해하고 합리적인 의사결정을 내릴 수 있도록 지원합니다. 또한 다양한 디지털 자산 인프라를 하나의 환경에서 연결하는 오케스트레이션 레이어를 제공함으로써, 기관이 복잡한 기술 및 규제 환경 속에서도 디지털 자산 서비스를 효율적으로 구축하고 운영할 수 있도록 지원합니다.
 
 Xangle is a digital asset infrastructure company building an information infrastructure and an institutional-grade orchestration layer for the digital asset market. Leveraging its capabilities in digital asset data, research, and information distribution, Xangle enables financial institutions and enterprises to better understand the market and make informed decisions. Xangle also provides an orchestration layer that connects diverse digital asset infrastructure within a unified environment, enabling institutions to efficiently build and operate digital asset services across complex technological and regulatory landscapes.
 
-Follow on X: x.com/Xangle_official (https://x.com/Xangle_official)
+[Follow on X: x.com/Xangle_official](https://x.com/Xangle_official)
 
-Learn more: xangle.io (https://xangle.io/)
+[Learn more: xangle.io](https://xangle.io/)
 
 ### Media Partner
 
@@ -6970,7 +6970,7 @@ Mira is the discovery platform for digital finance and frontier tech - events, c
 
 Follow on X: https://x.com/miragather
 
-Learn more: miragather.com (https://miragather.com/)
+[Learn more: miragather.com](https://miragather.com/)
 
 <a id="event-84eb06c28b7728d1"></a>
 
@@ -6992,12 +6992,12 @@ Limited to 30 guests. Invitation only.
 
 ### About Zero Gravity (0G)
 
-0G is the blockchain for AI agents. Modular storage, compute, data availability, and an AI-first chain in one stack. Every AI action verified onchain. Build your first AI agent app in minutes. (https://app.0g.ai/?utm_source=luma)
+0G is the blockchain for AI agents. Modular storage, compute, data availability, and an AI-first chain in one stack. Every AI action [verified onchain. Build your first AI agent app in minutes.](https://app.0g.ai/?utm_source=luma)
 
-- Website (https://0g.ai/?utm_source=luma)
+- [Website](https://0g.ai/?utm_source=luma)
 - (https://emojipedia.org/cross-mark?utm_source=luma) X (Twitter) (https://x.com/0G_labs?utm_source=luma)
-- Discord (https://discord.com/invite/0glabs?utm_source=luma)
-- Telegram (https://t.me/web3_0glabs?utm_source=luma)
+- [Discord](https://discord.com/invite/0glabs?utm_source=luma)
+- [Telegram](https://t.me/web3_0glabs?utm_source=luma)
 
 <a id="event-8b8ade6522ebecaf"></a>
 
@@ -7013,11 +7013,11 @@ Limited to 30 guests. Invitation only.
 
 - Date / 일시: Sep 29th - 30th, 2026 | 09:00 AM - 06:00 PM
 - Location / 장소: AT Center, Seoul, South Korea (서울 aT센터)
-- Official Website / 공식 웹사이트: www.gwdc.net (https://www.gwdc.net)
+- [Official Website / 공식 웹사이트: www.gwdc.net](https://www.gwdc.net)
 
 Join the Community / 공식 커뮤니티 참여
 
-- GWDC 2026 Telegram Group: t.me/Web3LabsHK (https://t.me/Web3LabsHK)
+- [GWDC 2026 Telegram Group: t.me/Web3LabsHK](https://t.me/Web3LabsHK)
 
 ### About Event / 행사 소개
 
@@ -7061,17 +7061,17 @@ Contact Us / 제휴 문의
 
 If you have any questions about the event or want to become our partners / sponsors, please Contact Us via website, or just connect via: 본 행사에 대해 문의 사항이 있거나 파트너 및 후원사로 참여를 원하시면 공식 웹사이트의 'Contact Us'를 작성하시거나 아래 채널로 연락해 주시기 바랍니다.
 
-email: info@web3labs.club (https://info@web3labs.club)
+[email: info@web3labs.club](https://info@web3labs.club)
 
-Sponsorship Cooperation (TG) : @eddiedede (https://t.me/eddiedede) | @jennik2 (https://x.com/Jenni_Web3)
+Sponsorship Cooperation (TG) : @[eddiedede](https://t.me/eddiedede) | @[jennik2](https://x.com/Jenni_Web3)
 
-Media Cooperation (TG) : @hhtyng (https://t.me/hhtyng)
+Media Cooperation (TG) : @[hhtyng](https://t.me/hhtyng)
 
 ### About Organizers / 주최 및 파트너 소개
 
 - About Web3Labs
   - Web3Labs serves as a one-stop gateway for Web3.0 entrepreneurship. Aiming to respond to global market trends and policy declarations, Web3Labs supports global Web3 enterprises in expanding internationally through landing services, investment acceleration, technical cooperation, PR support, and compliance assistance. Currently, it operates offline incubators in Hong Kong, Singapore, Malaysia, South Korea, Hangzhou, Beijing, and other locations. Additionally, Web3Labs has launched a $10M Web3.0 Global Accelerator Program, establishing strategic partnerships with leading global organizations such as Neo, Zetrix, ICP, KuCoin Labs, TON, Mango, 0G LABS, Plume, etc., providing comprehensive empowerment and acceleration for high-quality global projects.(Web3Labs는 Web3.0 창업을 위한 원스톱 관문입니다. 글로벌 시장의 흐름과 정책 선언에 발맞추어 현지화 서비스, 투자 가속화, 기술 협력, PR 지원, 컴플라이언스 어시스턴스 등을 통해 글로벌 Web3 기업의 해외 진출과 글로벌 연결을 지원합니다. 현재 서울, 홍콩, 싱가포르, 말레이시아, 항저우, 베이징 등지에 오프라인 인큐베이터를 보유하고 있습니다. 또한 Web3Labs는 총 1,000만 달러 규모의 글로벌 액셀러레이팅 프로그램을 출시하여 Neo, Zetrix, ICP, KuCoin Labs, TON, Mango, 0G LABS, Plume 등 다수의 글로벌 선두 기관과 전략적 파트너십을 체결하고 우수한 글로벌 프로젝트에 전방위적 역량 강화 및 가속화를 제공하고 있습니다.)
-    X (https://x.com/LabsWeb368672?utm_source=luma)｜
+    [X](https://x.com/LabsWeb368672?utm_source=luma)｜
 
 <a id="event-f3cc2a852278876d"></a>
 
@@ -7089,23 +7089,23 @@ Hosted during Korea Blockchain Week, CONNECT by Cointelegraph is a highly curate
 
 Designed to foster meaningful connections and high-value conversations, CONNECT serves as a platform for the people driving the next wave of Web3 innovation.
 
-Host: Cointelegraph Accelerator (https://cointelegraph.com/accelerate/?utm_source=luma)
+[Host: Cointelegraph Accelerator](https://cointelegraph.com/accelerate/?utm_source=luma)
 
 The program helps find and support the next generation of leaders in the Web3 space, bringing together investors, startups, and relevant stakeholders to contribute to the development of Web3.
 
-Host: Cointelegraph (https://cointelegraph.com/?utm_source=luma)
+[Host: Cointelegraph](https://cointelegraph.com/?utm_source=luma)
 
 Founded in 2013, Cointelegraph is the leading independent digital media resource covering a wide range of news on blockchain technology, crypto assets, and emerging fintech trends.
 
-Partner: FinHarbor (https://www.finharbor.com/?utm_source=luma)
+[Partner: FinHarbor](https://www.finharbor.com/?utm_source=luma)
 
 FinHarbor is a technical platform provider for launching compliant, modular financial products - from wallets and neobanks to crypto ramps and OTC desks. Built on years of real-world fintech experience, our infrastructure helps clients launch faster, operate securely, and scale across fiat, crypto, and hybrid environments
 
-Partner: Wincent (https://www.wincent.com/)
+[Partner: Wincent](https://www.wincent.com/)
 
 Wincent is a regulated crypto native fund providing over $5bn of liquidity daily in spot, RWA, CFD and perpetuals. With pricing and size in tokenized commodities, stablecoins and over 10,000 products with fiat pairs our institutional approach makes crypto businesses work.
 
-Partner: Humandone (https://humandone.com/)
+[Partner: Humandone](https://humandone.com/)
 
 Humandone is a product design and development studio specialising in modern digital experiences for startups and web3 companies. The team works across branding, app design, UX/UI systems, frontend development, and scalable infrastructure for crypto-native and consumer applications.
 
@@ -7156,27 +7156,27 @@ The event explores the convergence of open-source AI and robotics - examining ho
 
 Sentient Foundation
 
-Sentient Foundation (https://sentient.foundation) is a non-profit organization dedicated to ensuring that Artificial General Intelligence (AGI) remains open-source and aligned with humanity. Guided by neutrality and transparency, Sentient promotes global adoption of open-source AGI, leads alignment and safety standards, provides grants to developers worldwide, and coordinates governance frameworks for responsible AI development.
+[Sentient Foundation](https://sentient.foundation) is a non-profit organization dedicated to ensuring that Artificial General Intelligence (AGI) remains open-source and aligned with humanity. Guided by neutrality and transparency, Sentient promotes global adoption of open-source AGI, leads alignment and safety standards, provides grants to developers worldwide, and coordinates governance frameworks for responsible AI development.
 
 Sentient Labs
 
-Sentient Labs (https://sentient.xyz) is an AI research and product lab building AI systems capable of deep reasoning, continuous learning, and self-improvement. Its flagship product, EvoSkill, enables AI engineering teams to automatically evolve entire AI agents using only a model and a benchmark. Sentient Labs also runs AI engineering competitions on Sentient Arena, where top researchers compete to build the best harness-based agent solutions for the world's hardest AI reasoning problems.
+[Sentient Labs](https://sentient.xyz) is an AI research and product lab building AI systems capable of deep reasoning, continuous learning, and self-improvement. Its flagship product, EvoSkill, enables AI engineering teams to automatically evolve entire AI agents using only a model and a benchmark. Sentient Labs also runs AI engineering competitions on Sentient Arena, where top researchers compete to build the best harness-based agent solutions for the world's hardest AI reasoning problems.
 
 Axis Robotics
 
-Axis Robotics (https://axisrobotics.ai/) is building the Compounding Data Engine for Physical AI. We operate a large-scale distributed data network and a full-stack pipeline spanning simulation, egocentric data collection, pre-training, and real-time DAgger post-training. We have built a global distributed contributor community and a scalable data production infrastructure designed to continuously generate high-quality training data for Physical AI.
+[Axis Robotics](https://axisrobotics.ai/) is building the Compounding Data Engine for Physical AI. We operate a large-scale distributed data network and a full-stack pipeline spanning simulation, egocentric data collection, pre-training, and real-time DAgger post-training. We have built a global distributed contributor community and a scalable data production infrastructure designed to continuously generate high-quality training data for Physical AI.
 
 Backed by Hack VC, Nomad Capital, Pi Network, and other visionary investors, Axis Robotics bridges the data gap in Physical AI by delivering foundation model-ready datasets and sim-to-real pipelines that enable continuous, scalable policy improvement.
 
 Kaito
 
-Kaito (https://kaito.ai/) is the leading AI-powered intelligence platform, transforming how information is structured, shared, and valued across crypto, AI, stocks, and the wider frontier of tech and finance. Kaito powers a full stack of products, from its core intelligence platform (Kaito Pro, API & MCP) and creator marketplace (Kaito Studio) to its launchpad (Capital Launchpad), building new primitives for how influence and mindshare are measured, owned, and monetized.
+[Kaito](https://kaito.ai/) is the leading AI-powered intelligence platform, transforming how information is structured, shared, and valued across crypto, AI, stocks, and the wider frontier of tech and finance. Kaito powers a full stack of products, from its core intelligence platform (Kaito Pro, API & MCP) and creator marketplace (Kaito Studio) to its launchpad (Capital Launchpad), building new primitives for how influence and mindshare are measured, owned, and monetized.
 
 ### About Sponsors
 
 Rocketpunch
 
-Rocketpunch (https://www.rocketpunch.com/en) is a trusted business network built on verified identities.
+[Rocketpunch](https://www.rocketpunch.com/en) is a trusted business network built on verified identities.
 
 Rocketpunch helps founders, investors, talent, and companies connect in a safer and more transparent way. Unlike open social networks where anyone can appear anonymously, Rocketpunch is designed around verified identities, enabling people and organizations to build trust and create real opportunities.
 
@@ -7246,35 +7246,27 @@ Speaker Line ups
 
 #Please register using your company email address for priority approval.
 
-### About Optimum
+### <Cohosts>
 
-https://getoptimum.xyz/?utm_source=luma
+[About Optimum](https://getoptimum.xyz/?utm_source=luma)
 
 Optimum is building the universal data acceleration network for blockchains - a high-throughput, low-latency networking protocol powered by Random Linear Network Coding (RLNC). We can integrate with any blockchain permissionlessly, delivering more efficient block propagation, by fixing data movement at the foundation. By redesigning how data is transmitted and accessed, Optimum transforms today's fragmented networking systems into a globally efficient coded network.
 
-### About Google Cloud
-
-https://cloud.google.com/
+[About Google Cloud](https://cloud.google.com/)
 
 Google Cloud is powering the future of decentralized innovation and the autonomous agentic economy. By bridging enterprise-grade AI with resilient Web3 infrastructure, Google Cloud enables autonomous AI agents, fintech innovators, and institutions to securely execute real-time on-chain payments and programmable commerce.
 
 Offering an end-to-end AI and Web3 stack - from custom TPUs and foundation models to high-performance blockchain node infrastructure, BigQuery on-chain data analytics, and enterprise key management - Google Cloud empowers builders to scale the next generation of agentic payment rails. Visionary Web3 projects and global enterprises across more than 200 countries and territories partner with Google Cloud as their trusted technology foundation.
 
-### About Four Pillars
-
-https://4pillars.io/en?utm_source=luma
+[About Four Pillars](https://4pillars.io/en?utm_source=luma)
 
 Four Pillars is Asia's leading crypto research house, composed of sector-specialized researchers covering markets across Korea, Japan, Hong Kong, and Singapore. Four Pillars has published 600+ articles in both Korean and English, and hosted 20+ seminars and lectures - delivering actionable insights to builders, institutions, and policymakers while raising the industry standard. Four Pillars also operates an institutional-grade validator arm called : : Validated (FP Validated).
 
-### About LINE NEXT
-
-https://linenextcorp.com
+[About LINE NEXT](https://linenextcorp.com)
 
 LINE NEXT Inc., LY's web3 affiliate dedicated to developing and expanding the Web3 ecosystem, providing new digital experiences and leading Web3 innovation. Unifi is a dedicated stablecoin wallet accessible directly through LINE App provided by LINE NEXT. By supporting social logins via LINE, Apple, Google, and Naver, Unifi enables users worldwide - regardless of their blockchain experience - to manage digital assets with ease. Unifi aims to seamlessly integrate diverse stablecoin capabilities, encompassing payments, rewards, transfers, and interest features into a single ecosystem.
 
-### About Auros
-
-https://www.auros.global/?utm_source=luma
+[About Auros](https://www.auros.global/?utm_source=luma)
 
 Auros is a leading global market-making and algorithmic trading firm, leveraging advanced liquidity solutions to stabilize markets and foster growth across the digital asset ecosystem. Beyond trading, Auros also offers a suite of tailored services to support token projects and crypto ecosystems throughout their lifecycle, including its distinctive Strategic Market Making service, DeFi and on-chain engineering solutions, bespoke OTC execution, and strategic investment support. We work closely with numerous crypto ecosystems, builders, exchanges, VCs, capital allocators, and institutional investors.
 
@@ -7311,7 +7303,7 @@ Note : Space is limited, RSVP early to secure your spot.
 
 ### For Sponsorships & Partnerships
 
-DM (@YashEkbote (https://t.me/yashekbote?utm_source=luma)) or (@Shawn_Bldfy (https://t.me/shawn_bldfy?utm_source=luma)) on Telegram
+DM (@[YashEkbote](https://t.me/yashekbote?utm_source=luma)) or (@[Shawn_Bldfy](https://t.me/shawn_bldfy?utm_source=luma)) on Telegram
 
 ### Previous Events
 
@@ -7442,7 +7434,7 @@ AI, trading, payments, infrastructure, blockchain, fintech, Web3, investment ins
 
 16:30-16:45 - Keynote 02 - Stable
 
-16:45-17:00 - Keynote 03 - Ave.ai (https://Ave.ai)
+16:45-17:00 - [Keynote 03 - Ave.ai](https://Ave.ai)
 
 17:00-17:30 - Panel 01 - AI × Agents
 
@@ -7470,55 +7462,55 @@ Brand Booths - Afternoon Tea - Gift Redemption - Social Networking
 
 Title Sponsor
 
-Stable (https://x.com/Stable)
+[Stable](https://x.com/Stable)
 
 Stable: the Layer 1 blockchain for payments, powered by USDT.
 
 ### Co-host
 
-Interlace (https://x.com/InterlaceMoney)
+[Interlace](https://x.com/InterlaceMoney)
 
 Interlace is building stablecoin banking infrastructure that connects on-chain assets with real-world financial rails. We help businesses use stablecoins as seamlessly as fiat for cross-border payments, card issuing, global accounts, treasury management, and payment acquiring (8M+ cards issued, trusted by 20,000+ businesses).
 
-Ave.ai (https://x.com/aveai_info)
+[Ave.ai](https://x.com/aveai_info)
 
 New financial platform.Safe, Professional, Fastest, Most Comprehensive
 
-OceanBase (https://x.com/OceanBaseDB)
+[OceanBase](https://x.com/OceanBaseDB)
 
 OceanBase is the world's leading database engineered and always ready for mission-critical workloads at any scale.
 
-AEON (https://x.com/AEON_Community)
+[AEON](https://x.com/AEON_Community)
 
 AEON is the settlement layer built for the agentic economy.
 
-Quack AI (https://x.com/QuackAI_AI)
+[Quack AI](https://x.com/QuackAI_AI)
 
 Quack AI builds Q402, a gasless payment rail for AI agents.
 
 ### Sponsors
 
-Pieverse (https://x.com/pieverse_io)
+[Pieverse](https://x.com/pieverse_io)
 
 Agentic infrastructure that makes AI-agent transactions auditable and compliant.
 
-Conflux (https://x.com/Conflux_Network)
+[Conflux](https://x.com/Conflux_Network)
 
 Conflux is a high throughput first layer consensus blockchain designed for dApps that require speed at scale, without sacrificing decentralization.
 
-CertiK (https://x.com/CertiK)
+[CertiK](https://x.com/CertiK)
 
 CertiK is the largest Web3 security platform combining formal verification with audits and comprehensive security solutions.
 
-AnyTrade (https://x.com/AnyTrade_AI)
+[AnyTrade](https://x.com/AnyTrade_AI)
 
 AI when you want it. Full control when you don't. AnyTrade brings AI assistance and onchain trading into one seamless experience.
 
-ALPHIO (https://x.com/AlphioAI)
+[ALPHIO](https://x.com/AlphioAI)
 
 Alphio is an agentic trading platform that transforms real-time ma... (Text cut off in screenshot.)
 
-EHTA (https://x.com/Thea_AI)
+[EHTA](https://x.com/Thea_AI)
 
 <a id="event-e724d5a347bdd20e"></a>
 
@@ -7736,7 +7728,7 @@ No one knows what is waiting at the bottom of the Rabbit Hole.
 
 ### Socials
 
-Twitter (X) (https://x.com/reboundx_net?utm_source=luma) | Telegram (https://t.me/ReboundXnet?utm_source=luma) | Website (https://www.reboundx.net/?utm_source=luma)
+Twitter (X) (https://x.com/reboundx_net?utm_source=luma) | [Telegram](https://t.me/ReboundXnet?utm_source=luma) | [Website](https://www.reboundx.net/?utm_source=luma)
 
 ### Beyond the Looking Glass - 2F / 3F
 
@@ -7798,7 +7790,7 @@ Hosted by Solidus Labs and Yulchon, this in-person session will focus on advanci
     - Speaker: Claire Lee, CEO of CODE
 - Unfair Coin Trading Regulatory Frameworks in Korea
   - Overview of actual prosecution and referral cases over the past two years to examine the rankings of the most prevalent types of unfair trading practices and sheds light on the specific schemes and deceptive methods unique to the Korean virtual asset market
-    - Speakers: Jackie Baek, Compliance Head of Korea at Crypto.com (https://Crypto.com)
+    - [Speakers: Jackie Baek, Compliance Head of Korea at Crypto.com](https://Crypto.com)
 
 18:30 - Networking
 
@@ -7937,14 +7929,14 @@ TRUST404는 Blockchain 보안 아이디어를 실현해보는 해커톤입니다
 
 안암145는 고려대학교 정보보호대학원 연구진이 설립한 Web3 사이버보안 기업입니다. 커널 보안 기반 통합 지갑 '안암월렛(AnamWallet)'과 보안 단말기 '안암패드'를 중심으로, KYT 기반 이상거래 탐지와 DID 신원인증 등 Web3 디지털 금융 보안 인프라를 개발하고 있습니다. UNDP 글로벌 블록체인 혁신 프로그램에 선정되어 해외 공공 금융 인프라 실증을 수행하고 있으며, 중소벤처기업부 딥테크 TIPS 지원기업으로도 선정되었습니다. 공공-금융-산업 분야에서 안전한 Web3 보안 생태계를 만드는 것을 목표로 하고 있습니다.
 
-- ANAM145 Homepage (https://anam145.io)
+- [ANAM145 Homepage](https://anam145.io)
 
 고려대 블록체인 밸리_Blockchain Valley
 
 블록체인 밸리는 고려대학교 기반 블록체인 학회입니다. 2022년 3월 1기 출범을 시작으로 현재 50명의 학회원이 개발팀, 리서치팀, 보안팀, 코어팀으로 나뉘어 활동하고 있습니다. 프로덕트 제작, 리서치 페이퍼 발간, AML/CFT 리서치, 코어 리서치, 밸리데이터 운영을 중심으로 타 학회 연계 프로젝트, 기업 협력, 아이디어톤-해커톤 참여 등 활발한 활동을 이어가고 있습니다.
 
-- Blockchain Valley X (https://x.com/blockchainkor?utm_source=luma)
-- Blockchain Valley Instagram (https://www.instagram.com/blockchain__valley/?utm_source=luma)
+- [Blockchain Valley X](https://x.com/blockchainkor?utm_source=luma)
+- [Blockchain Valley Instagram](https://www.instagram.com/blockchain__valley/?utm_source=luma)
 
 [메인 파트너]
 
@@ -7952,13 +7944,13 @@ TRUST404는 Blockchain 보안 아이디어를 실현해보는 해커톤입니다
 
 아이티센 피엔에스는 아이티센그룹의 보안 전문 기업으로, 양자내성암호(PQC), Web3 보안, AI 생체인증 등 첨단 보안 기술을 기반으로 고객의 디지털 혁신을 보호합니다. 2011년 설립 이후 클라우드-모바일-인프라 전반의 보안 컨설팅과 솔루션을 공급해 왔으며, PQC 기술을 적용한 보안 솔루션과 블록체인 지갑 솔루션을 선보이고 있습니다. 사명의 PNS는 플랫폼-보안-솔루션을 의미하며, 공공-금융 분야에서 축적한 그룹의 IT 서비스 역량을 바탕으로 안전한 디지털 금융 환경을 만들어가고 있습니다.
 
-- ITCEN PNS Homepage (https://itcenpns.com/index.do)
+- [ITCEN PNS Homepage](https://itcenpns.com/index.do)
 
 Aomi Labs
 
 Aomi Labs는 온체인 금융을 위한 Execution Harness를 개발하는 인프라 기업입니다. 사용자 요청을 트랜잭션으로 구성한 뒤 Live Chain State 기반 시뮬레이션과 정책 검증을 거쳐 사용자의 signer에게 전달하며, non-custodial-wallet-agnostic 런타임으로 온체인 프로토콜과 30개 이상의 오프체인 venue를 아우르는 공통 실행 레이어를 제공합니다.
 
-- Aomi Labs Homepage (https://aomi.dev/)
+- [Aomi Labs Homepage](https://aomi.dev/)
 
 [스폰서]
 
@@ -7966,7 +7958,7 @@ Aomi Labs는 온체인 금융을 위한 Execution Harness를 개발하는 인프
 
 탄젬은 카드형-링형 콜드월렛으로 하드웨어 지갑의 새로운 기준을 제시하고 있는 글로벌 셀프 커스터디 지갑 기업입니다. 삼성 반도체와 협력해 개발한 EAL6+ 인증 보안 칩(Secure Element)에 개인키를 생성-저장해 키가 외부로 노출되지 않으며, 케이블이나 배터리 없이 NFC 탭 한 번으로 트랜잭션에 서명할 수 있습니다. 세계 최초의 링 형태 하드웨어 지갑 '탄젬 링(Tangem Ring)'을 비롯해 수천 종의 자산을 지원하는 지갑 제품군을 통해, 누구나 일상 속에서 안전하게 디지털 자산을 관리할 수 있는 경험을 만들어가고 있습니다.
 
-- Tangem Homepage (https://tangem.com/ko/)
+- [Tangem Homepage](https://tangem.com/ko/)
 
 해시키_HashKey Chain
 
@@ -7976,7 +7968,7 @@ Aomi Labs는 온체인 금융을 위한 Execution Harness를 개발하는 인프
 
 또한 원활한 법정화폐 온-오프램프(Fiat On/Off-Ramp)를 지원하고, 규제를 준수하는 가상자산 서비스 네트워크와의 연결을 통해 기관의 온체인 금융시장 진입을 지원합니다.
 
-- HSK Chain Homepage (https://www.hskchain.net/)
+- [HSK Chain Homepage](https://www.hskchain.net/)
 
 [네트워크 파트너]
 
@@ -7986,67 +7978,67 @@ CertiK은 학술적 수준의 엄격한 기술 역량을 바탕으로 Web3 생�
 
 현재까지 CertiK은 5,500개 이상의 기업 고객과 협력해 왔으며, 축적된 기술 전문성과 글로벌 경험을 바탕으로 여러 국가 및 지역의 디지털 자산 규제 체계 구축과 정책 발전에도 기여하고 있습니다.
 
-- Certik Homepage (https://www.certik.com/)
+- [Certik Homepage](https://www.certik.com/)
 
 람다256_Lambda256
 
 람다256은 두나무의 블록체인 계열사로, 인프라-데이터-디지털 금융 전반에서 혁신을 이끄는 선도적인 웹3 기술 기업입니다. 금융기관, 글로벌 파트너, 대규모 웹3 애플리케이션을 지원한 검증된 경험을 바탕으로, 람다256은 엔터프라이즈급 블록체인 솔루션으로 디지털 전환의 미래를 계속해서 만들어가고 있습니다.
 
-- Lambda256 Homepage (https://www.lambda256.io/)
+- [Lambda256 Homepage](https://www.lambda256.io/)
 
 제타_Zeta
 
 제타체인은 프라이빗 AI를 위한 애플리케이션 레이어를 구축하고 있으며, 그 시작은 Anuma입니다. Anuma는 하나의 메모리를 여러 AI 모델에서 사용할 수 있고, 그 메모리에 대한 소유권은 사용자에게 남는 멀티모델 AI 앱으로, 현재 30만 명 이상이 사용하고 있습니다.
 
-- Zetachain Homepage (https://www.zetachain.com/)
+- [Zetachain Homepage](https://www.zetachain.com/)
 
 포필러스_Four Pillars
 
 포필러스(Four Pillars)는 아시아와 글로벌, 전통과 온체인, 리서치와 실행 사이의 단절을 연결하는 리서치 기반 웹3 솔루션 기업으로, 블록체인 산업을 세 가지 사업으로 아우릅니다. 포필러스는 정보를 읽는 데서 그치지 않고, 이해하고, 참여하고, 구축하며 전 과정을 하나의 기준으로 아우릅니다.
 
-- Four Pillars Homepage (https://4pillars.io/ko)
+- [Four Pillars Homepage](https://4pillars.io/ko)
 
 코인이지_CoinEasy
 
 코인이지는 "크립토 쉽게 배우자"라는 슬로건 아래 Web3 교육과 커뮤니티를 아우르는 올인원 크립토 플랫폼입니다. 암호화폐를 처음 접하는 사람도 쉽게 이해할 수 있는 교육 콘텐츠와 시장 인사이트, 활발한 커뮤니티를 기반으로 Web2 사용자의 Web3 온보딩을 돕고 있으며, 글로벌 프로젝트의 한국 시장 진출을 지원하는 브릿지 역할도 수행하고 있습니다. 국내 Web3 대중화의 접점을 넓혀가는 대표적인 크립토 교육-커뮤니티 플랫폼입니다.
 
-- CoinEasy Homepage (https://www.coineasy.xyz/)
+- [CoinEasy Homepage](https://www.coineasy.xyz/)
 
 베라체인_Berachain
 
 베라체인은 '유동성 증명(Proof of Liquidity)'이라는 새로운 합의 메커니즘을 도입한 고성능 EVM 호환 레이어1 블록체인입니다. 자산을 잠가두는 기존 지분 증명(PoS) 방식과 달리, 유동성 공급 자체가 네트워크 보안에 기여하도록 설계해 밸리데이터-애플리케이션-사용자의 인센티브를 하나로 정렬합니다. 이를 통해 체인의 보안과 DeFi 생태계의 유동성이 함께 성장하는 구조를 만들며, 온체인 비즈니스의 성장 엔진 역할을 하는 것을 목표로 하고 있습니다.
 
-- Berachain Homepage (https://www.berachain.com/)
+- [Berachain Homepage](https://www.berachain.com/)
 
 디센트_D'CENT
 
 디센트는 임베디드 보안 분야에서 10년 이상의 기술과 경험을 쌓은 보안 전문가들이 만든 블록체인 지갑 브랜드입니다. 2018년 세계 최초 지문인증 하드웨어 지갑을 출시한 이래, 전 세계 220여 개국의 사용자가 이용하는 글로벌 지갑 서비스로 성장했으며, 운영사 아이오트러스트를 통해 파트너사의 Web3 생태계 진출을 돕는 B2B 지갑 인프라 '위핀(WEPIN)'도 함께 서비스하고 있습니다. Secure Element와 신뢰실행환경(TEE) 기반의 보안 기술력을 바탕으로, 누구나 쉽고 안전하게 디지털 자산을 관리할 수 있는 Web3 인프라를 만들어가고 있습니다.
 
-- De'cent Homepage (https://www.dcentwallet.com/ko)
+- [De'cent Homepage](https://www.dcentwallet.com/ko)
 
 콱AI_Quack AI
 
 Quack AI는 제안 분석부터 위임, 정책 검증, 온체인 실행까지를 하나의 스택으로 묶어, DAO 운영, 에이전트 간 결제, 트레저리 자동화, 토큰화 자산 거버넌스까지 같은 정책-실행 파이프라인으로 연결하는 AI 에이전트를 위한 통합 실행-거버넌스 레이어입니다.
 
-- QuackAI Homepage (https://quackai.ai/)
+- [QuackAI Homepage](https://quackai.ai/)
 
 비앤비_BNB Chain
 
 BNB Chain은 전 세계 개발자와 사용자 커뮤니티가 지원하는 세계에서 가장 크고 활발한 블록체인 생태계 중 하나입니다. 높은 처리량, 낮은 거래 비용, 완전한 EVM 호환성을 갖춘 BNB Chain은 금융, 게임 및 더 넓은 Web3 경제 전반에 걸쳐 확장 가능한 애플리케이션을 지원합니다.
 
-- BNB Homepage (https://www.bnbchain.org/ko-KR)
+- [BNB Homepage](https://www.bnbchain.org/ko-KR)
 
 유니베이스_Unibase
 
 유니베이스는 AI 에이전트를 위한 탈중앙화 메모리 레이어입니다. 에이전트가 세션이 끝나도 기억을 유지하고, 다른 플랫폼의 에이전트와 협력하며, 스스로 진화할 수 있게 만드는 인프라를 목표로 합니다.
 
-- Unibase Homepage (https://www.unibase.com/)
+- [Unibase Homepage](https://www.unibase.com/)
 
 유닛티엑스_UnitTX
 
 Unit TX는 글로벌 Web3 프로젝트의 한국 시장 진출을 다루는 마케팅 스튜디오입니다. Unit TX가 정의하는 마케팅은 알리는 일이 아니라 이해되게 하는 일입니다. 프로젝트가 국경을 넘을 때 함께 옮겨져야 하는 것은 맥락이며, Unit TX는 온체인 데이터로 시장을 읽고, 커뮤니티로 관계를 만들며, 리서치와 미디어로 프로젝트의 언어를 한국의 언어로 옮깁니다.
 
-- UnitTX Homepage (https://unittx.io/)
+- [UnitTX Homepage](https://unittx.io/)
 
 숏챌_ShortChall
 
@@ -8054,43 +8046,43 @@ Unit TX는 글로벌 Web3 프로젝트의 한국 시장 진출을 다루는 마�
 
 현재 ShortChall은 GIWA 위에서 Web3 서비스를 빌딩하고 있으며, 기존 Web2 사용자가 복잡한 진입 장벽 없이 자연스럽게 Web3 생태계로 연결될 수 있는 온보딩 구조를 만들어가고 있습니다.
 
-- ShortChall Homepage (https://www.shortchall.com/ko/)
+- [ShortChall Homepage](https://www.shortchall.com/ko/)
 
 디그리드_Dgrid
 
 DGrid AI는 개방적이고 투명한 커뮤니티 참여형 탈중앙화 AI 네트워크를 구축하여, 통합 스마트 마켓플레이스와 스케줄링 레이어를 통해 개발자와 사용자가 다양한 AI 모델과 에이전트에 저비용-검증 가능-신뢰 최소화 방식으로 접근할 수 있게 합니다. 2,300만 달러 이상의 매출, DAU 5만-MAU 50만, 구독자 1만 5천 명 이상을 확보한 초기 성과와 PoQ-Optimistic TEE-Rollups 등 연구 성과를 바탕으로 지속 가능한 탈중앙화 AI 인프라를 지향합니다.
 
-- Dgrid Homepage (https://dgrid.ai/)
+- [Dgrid Homepage](https://dgrid.ai/)
 
 라디우스_Radius
 
 라디우스(Radius)는 롤업과 아비트라저들을 위해 개방적이고 공유된 가치 창출을 중심으로 경제적 인프라를 구축하는 팀입니다. 라디우스의 Secure Block Building(SBB)과 Lighthouse는 롤업이 효율적으로 수익을 캡처할 수 있도록 지원하고, 아비트라저들이 CEX와 DEX 그리고 이더리움의 L1, L2에서 걸친 블록 공간 경매에서 경쟁할 수 있게 합니다.
 
-- Radius Homepage (https://theradius.xyz/)
+- [Radius Homepage](https://theradius.xyz/)
 
 디지털애셋_DigitalAsset
 
 디지털애셋은 2022년 10월 창간한 블록체인-가상자산 전문 매체로, 빠르게 변하는 디지털자산 시장에서 검증된 뉴스와 데이터, 리서치를 제공해 정보 비대칭을 줄이는 것을 목표로 합니다. 가격-규제-기술 뉴스를 빠르게 전달하는 한편, 온체인 지표와 차트, 거시경제 흐름을 함께 해석하고, 프로젝트-기업-인물을 다루는 심층 보고서(디애셋리서치)와 세미나-토론회 현장 취재(디애셋온앤오프), VC 투자 동향 분석 등을 통해 초보 투자자부터 기관-전문 투자자까지 의사결정에 필요한 근거를 제공합니다.
 
-- DigitalAsset Homepage (https://www.digitalasset.works/)
+- [DigitalAsset Homepage](https://www.digitalasset.works/)
 
 글로벌 Web3 데브콘_GWDC
 
 GWDC(Global Web3 Dev Con)는 개발자-기업-투자자를 연결하는 글로벌 Web3 개발자 콘퍼런스입니다. Web3Labs가 주최하며 Techub News 등이 공동 주최하고, 슬로건은 "For Builders, By Builders"입니다. 메인 콘퍼런스와 해커톤을 함께 열어 AI×Web3, RWA, PayFi, 계정 추상화, 온체인 인프라 등 실제 구현 과제를 다룹니다.
 
-- GWDC Homepage (https://www.gwdc.net/)
+- [GWDC Homepage](https://www.gwdc.net/)
 
 블록미디어_BLOCKMEDIA
 
 블록미디어는 디지털자산과 블록체인에 관한 콘텐츠를 전하는 한국을 대표하는 웹3 미디어입니다. 다양한 시장정보와 더불어 규제 및 금융, 경제, 기술 등 다양한 관점에서 독자여러분에게 한 발 앞선 통찰력을 제공하기 위해 노력합니다.
 
-- Blockmedia Homepage (https://www.blockmedia.co.kr/)
+- [Blockmedia Homepage](https://www.blockmedia.co.kr/)
 
 엑시리스트_Exilist
 
 엑시리스트는 온체인 금융-블록체인 인프라 분야를 중심으로 글로벌 프로젝트의 한국 시장 진입과 성장을 지원하는 GTM 파트너입니다. 자체 리서치와 현지 운영 경험을 바탕으로 포지셔닝과 실행 전략을 설계하고, 한국어 콘텐츠-커뮤니티-KOL 캠페인-미디어 홍보를 통해 사용자 참여와 제품 이용을 촉진합니다. 거래소 사업개발과 글로벌 GTM-미디어 경험을 갖춘 시니어 팀이 전략 수립부터 실행까지 직접 이끌며, 지금까지 50곳 이상의 글로벌 팀과 협업했습니다. 현재 토큰화 증권을 주요 리서치 및 사업 영역으로 두고 있습니다.
 
-- Exilist Homepage (https://www.exilist.io/ko)
+- [Exilist Homepage](https://www.exilist.io/ko)
 
 [아카데미 파트너]
 
@@ -8102,98 +8094,98 @@ HYBLOCK은 블록체인을 혁신적인 기술로 인식하고 미래를 선도�
 
 현재 HYBLOCK은 블록체인 산업과 생태계에 대한 연구 활동을 중심으로 운영되며, 신규 참여자들에게 인사이트를 제공하기 위해 "Allround X HYBLOCK"이라는 텔레그램 채널도 운영하고 있습니다.
 
-- HYBLOCK Homepage (https://www.hy-block.com/?utm_source=luma)
-- HYBLOCK Instagram (https://www.instagram.com/hyblock_kr/reels/?utm_source=luma)
+- [HYBLOCK Homepage](https://www.hy-block.com/?utm_source=luma)
+- [HYBLOCK Instagram](https://www.instagram.com/hyblock_kr/reels/?utm_source=luma)
 
 [광운대 디버틀러_De-Butler]
 
 De-Butler는 누구나 쉽게 Web3에 접근할 수 있도록 돕기 위해 설립된 커뮤니티입니다. 단순히 많은 빌더를 양성하는 데 그치지 않고, Web3에 관심 있는 누구나 자연스럽게 Web3 생태계에 참여할 수 있도록 지원하는 것을 목표로 하고 있습니다.
 
-- De-Butler X (https://x.com/DeButler_?utm_source=luma)
-- De-Butler Instagram (https://www.instagram.com/de__butler/?utm_source=luma)
+- [De-Butler X](https://x.com/DeButler_?utm_source=luma)
+- [De-Butler Instagram](https://www.instagram.com/de__butler/?utm_source=luma)
 
 [아이덴티티 크루_Aidenteti Crew]
 
 Aidenteti Crew는 2022년에 설립된 Web3 오프라인 학술 및 커뮤니티 그룹으로, 현재 및 예비 빌더들을 위한 모임입니다. 프로젝트 개발, 해커톤 참여, 채용 활동, 커뮤니티 운영 등 다양한 활동을 자유롭게 펼칠 수 있는 개방적이고 유연한 분위기의 '빌더들의 놀이터'를 지향합니다.
 
-- Aidenteti Crew Homepage (https://aidenteti.com/?utm_source=luma)
-- Aidenteti Crew Instagram (https://www.instagram.com/aidenteti_official/?utm_source=luma)
+- [Aidenteti Crew Homepage](https://aidenteti.com/?utm_source=luma)
+- [Aidenteti Crew Instagram](https://www.instagram.com/aidenteti_official/?utm_source=luma)
 
 [성균관대 스크립토_SKKRYPTO]
 
 SKKRYPTO는 2018년에 설립된 성균관대학교의 공식 블록체인 학회입니다. 창립 이후 약 110명의 회원이 활동해왔고, 다양한 전공의 학생들이 모여 블록체인 기술에 대한 진입 장벽을 낮추고, 폭넓은 시각을 결합해 인사이트를 확장하는 협력 네트워크 역할을 수행하고 있습니다.
 
-- SKKRYPTO X (https://x.com/skkrypto?utm_source=luma)
-- SKKRYPTO Instagram (https://www.instagram.com/skkrypto/?utm_source=luma)
+- [SKKRYPTO X](https://x.com/skkrypto?utm_source=luma)
+- [SKKRYPTO Instagram](https://www.instagram.com/skkrypto/?utm_source=luma)
 
 [인하대 블루노드_Blue Node]
 
 Blue Node는 2023년 인하대학교에서 시작된 블록체인 학회로, 인천을 기반으로 약 60명의 회원이 활동하고 있습니다. 단순한 학습을 넘어 블록체인 기술의 본질을 탐구하고, 실제로 블록체인 생태계에 기여하는 것을 목표로 하고 있습니다.
 
-- Blue Node X (https://x.com/web3BlueNode?utm_source=luma)
-- Blue Node Instagram (https://www.instagram.com/web3_bluenode/?utm_source=luma)
+- [Blue Node X](https://x.com/web3BlueNode?utm_source=luma)
+- [Blue Node Instagram](https://www.instagram.com/web3_bluenode/?utm_source=luma)
 
 [연합학회_CURG]
 
 CURG는 2018년 서울권 대학을 중심으로 만들어진 블록체인 연합 학회입니다. Tech enthusiast들이 모인 CURG는 3T(Trendy, Thoughtful, Transdisciplinary)의 자세로 블록체인 리서치와 PoC(Proof of Concept) 프로젝트를 수행하고 있습니다. 이를 통해 블록체인의 채택을 앞당기고, 생태계 발전에 기여하는 것을 목표로 하고 있습니다.
 
-- CURG X (https://x.com/curg_official)
-- CURG Instagram (https://www.instagram.com/curg_in_seoul/)
+- [CURG X](https://x.com/curg_official)
+- [CURG Instagram](https://www.instagram.com/curg_in_seoul/)
 
 [가천대 가이로스_Gairos]
 
 가천대학교 블록체인 학회 Gairos는 블록체인의 혁신적인 활용과 대중적인 접근을 추구합니다. 이를 통해 블록체인 기술의 강점을 보다 폭넓게 이해하고 널리 알리며, 현실 세계에 적용하는 방안을 모색합니다. 국내외 업계 및 대학 플레이어들과의 왕성한 협업을 통해 경기도 1등 학회를 넘어 글로벌로 성장하고 있습니다.
 
-- GAIROS X (https://x.com/_gairos)
-- GAIROS Instagram (https://www.instagram.com/_gairos/)
+- [GAIROS X](https://x.com/_gairos)
+- [GAIROS Instagram](https://www.instagram.com/_gairos/)
 
 [연세대 베이_BAY]
 
 Blockchain at Yonsei (BAY) 는 2017년 설립된 국내 최초 블록체인 학회로, 연세대학교를 기반으로 블록체인의 혁신성을 알리고 생태계 발전에 기여하는 것을 목표로 합니다. Web3, DeFi, NFT, 블록체인 인프라 전반에 걸쳐 매주 업계 전문가와의 정규 세션, 팀 단위 개발 프로젝트, 해커톤, 리서치 활동을 통해 깊이 있는 기술 이해와 실질적인 경험을 쌓습니다.
 
-- BAY X (https://x.com/BlockchainatYU)
-- BAY Instagram (https://www.instagram.com/blockchain_at_yonsei/)
+- [BAY X](https://x.com/BlockchainatYU)
+- [BAY Instagram](https://www.instagram.com/blockchain_at_yonsei/)
 
 [포항공대 PDAO]
 
 PDAO는 POSTECH(Pohang University of Science and Technology)을 거점으로 한 크립토-블록체인 커뮤니티입니다. 누구나 자유롭게 참여할 수 있는 커뮤니티로서, 블록체인 생태계에 관심있는 사람들이 자유롭게 이 산업에 기여할 수 있는 여러 활동들을 기획하고 참여할 수 있는 단체로 운영되고 있습니다.
 
-- PDAO X (https://x.com/postech_dao)
-- PDAO Instagram (https://www.instagram.com/postech_dao/)
+- [PDAO X](https://x.com/postech_dao)
+- [PDAO Instagram](https://www.instagram.com/postech_dao/)
 
 [서울대 디사이퍼_Decipher]
 
 서울대학교 블록체인 학회 디사이퍼는 2017년 말에 조직되었으며, '기술 개발과 가치 연구를 통해 블록체인 산업의 건전한 성장에 기여한다'는 미션 하에 세미나 및 특강 진행, 컨퍼런스 개최, 산학 협력 연구, 오픈소스 컨트리뷰션 등 건강한 블록체인 생태계 조성에 기여하고 있습니다. 디사이퍼는 현재 블록체인 업계와 학계에 뛰어난 인재들을 배출하여 국내 최고 블록체인 학회로서 자리매김하였으며, 세계적으로 대체 불가능한 학회를 목표하고 있습니다.
 
-- Decipher X (https://x.com/DecipherGlobal)
-- Decipher Instagram (https://www.instagram.com/decipher_snu/)
+- [Decipher X](https://x.com/DecipherGlobal)
+- [Decipher Instagram](https://www.instagram.com/decipher_snu/)
 
 [이화여대 이화체인_Ewha-Chain]
 
 이화체인은 한국의 선도적인 대학 블록체인 커뮤니티로, Google Cloud, Solana, BNB Chain, NEAR, 삼성증권, 빗썸, KPMG, PwC 등과 연결되어 있습니다. Web3 컨퍼런스, 해커톤, 밋업을 전문으로 하며, 파트너십과 생태계 협력을 환영합니다.
 
-- EWHA-CH (https://www.instagram.com/ewha.chain/)AIN X (https://x.com/Ewhachain)
-- EWHA-CHAIN Instagram (https://www.instagram.com/ewha.chain/)
+- [EWHA-CH](https://www.instagram.com/ewha.chain/)[AIN X](https://x.com/Ewhachain)
+- [EWHA-CHAIN Instagram](https://www.instagram.com/ewha.chain/)
 
 [카이스트 오라클_Orakle]
 
 KAIST 블록체인 학회 Orakle은 "블록체인의 대중화를 완성시키다"라는 비전 아래 모인 Web3 빌더 커뮤니티입니다. 각 기수는 한 학기 동안 리서치와 빌딩을 오가며 결과물로 증명합니다. 블록체인이 낯선 사람에게는 깊은 이해를, 이미 아는 사람에게는 실력을 펼칠 무대를 만드는 학회입니다.
 
-- ORAKLE X (https://x.com/Orakle_KAIST)
-- ORAKLE Instagram (https://www.instagram.com/orakle.kaist/)
+- [ORAKLE X](https://x.com/Orakle_KAIST)
+- [ORAKLE Instagram](https://www.instagram.com/orakle.kaist/)
 
 [연세대 블록블록_blockblock]
 
 블록블록은 2022년 9월에 블록체인을 함께 공부하고 싶은 사람들이 모이길 바라며 만들어진 연세대학교 블록체인 동아리입니다. 블록체인에 관심 있는 사람들이 모여 WEB3 산업에 긍정적인 영향을 끼칠 수 있도록 성장 할 수 있는 생태계가 되려 노력합니다. 블록블록은 블록체인의 정신에 맞게 다양한 과의 사람들이 다양한 관점을 가지고 운영해 나가고 있습니다.
 
-- Blockblock X (https://x.com/ysblockblock)
-- Blockblock Instagram (https://www.instagram.com/blockblock_yonsei/)
+- [Blockblock X](https://x.com/ysblockblock)
+- [Blockblock Instagram](https://www.instagram.com/blockblock_yonsei/)
 
 [아주대 레이어에이_Layer-A]
 
 아주대학교의 블록체인 커뮤니티로서 WEB3 생태계 발전에 기여하기 위하여 연구합니다. 나아가 블록체인과 WEB3 산업에 참여하고 싶은 사람들에게 기회를 제공합니다.
 
-- A XLayer Insta (https://www.instagram.com/blockblock_yonsei/)
+- [A XLayer Insta](https://www.instagram.com/blockblock_yonsei/)
 
 ### 문의
 
@@ -8250,7 +8242,7 @@ Pick a track, then define your own problem and approach within it. The expected 
 3. Off-chain Decision Provenance
 4. Autonomous Exploit Prover
 
-For detailed track descriptions, check the hackathon website (https://trust404.co.kr/ ) and Discord (https://discord.com/invite/4WgxmmSba).
+For detailed track descriptions, check the hackathon website (https://trust404.co.kr/ ) [and Discord](https://discord.com/invite/4WgxmmSba).
 
 Hackathon Homepage: https://trust404.co.kr/
 
@@ -8532,7 +8524,7 @@ Hosted by Blockmedia
 
  - Korea's No.1 blockchain media and host of BLOCKFESTA for eight consecutive years.
 
-Enquiries: contact@blockmedia.co.kr - Blockfesta official Telegram (https://t.me/+oLrNRARyPWoxYjk1)
+Enquiries: [contact@blockmedia.co.kr - Blockfesta official Telegram](https://t.me/+oLrNRARyPWoxYjk1)
 
 <a id="event-c5764e7c1efffd03"></a>
 
@@ -8575,21 +8567,17 @@ Strictly Invite-Only | Guest List Subject to Approval
 
 Due to venue capacity and our commitment to maintaining a high-signal environment, attendance is capped and registrations are reviewed on a rolling basis. Early application is strongly recommended.
 
-### About DayOneDream
+### Hosts & Partners
 
-https://www.dayonedream.com/
+[About DayOneDream](https://www.dayonedream.com/)
 
 DayOneDream is a K-content entertainment group that directly manages the full lifecycle of artist businesses, operating across music production and publishing, video content, artist IP management, live entertainment and IP commerce through its in-house ecosystem.
 
-### About Soneium
-
-https://x.com/soneium?utm_source=luma
+[About Soneium](https://x.com/soneium?utm_source=luma)
 
 Soneium, an Ethereum layer-2 developed by Sony Block Solutions Labs, is a versatile general-purpose blockchain platform that aims to evoke emotion, empower creativity, and realize the open internet that transcends boundaries. By transcending cultural differences and bringing together people with diverse values, Soneium reimagines how we interact with the internet, opening up a world of innovative applications that fill the world with emotion.
 
-### About Optimism
-
-https://optimism.io/
+[About Optimism](https://optimism.io/)
 
 Optimism is the blockchain platform behind several of the world's leading exchanges, fintechs, and financial institutions. We handle operations, security, and upgrades - so you can focus on your business, not your infrastructure.
 
@@ -8749,23 +8737,23 @@ Venue: L7 Gangnam Floating Bar, Gangnam, Seoul
 
 Language: English, with bilingual hosting
 
-Hosted by: Turtle (https://x.com/turtledotxyz) and Lunar Strategy (https://x.com/LunarStrategy)
+[Hosted by: Turtle](https://x.com/turtledotxyz) [and Lunar Strategy](https://x.com/LunarStrategy)
 
-Co-hosts: Bond (https://x.com/BondSuperApp_) and 0G Labs (https://x.com/0G_labs)
+[Co-hosts: Bond](https://x.com/BondSuperApp_) [and 0G Labs](https://x.com/0G_labs)
 
-Premium sponsor: Credi (https://x.com/credilabs)
+[Premium sponsor: Credi](https://x.com/credilabs)
 
 ### Speakers
 
-Essi Lagevardi (https://x.com/SuperChad15), CEO and Founder of Turtle (https://x.com/turtledotxyz) - building one of crypto's largest liquidity coordination networks.
+[Essi Lagevardi](https://x.com/SuperChad15), [CEO and Founder of Turtle](https://x.com/turtledotxyz) - building one of crypto's largest liquidity coordination networks.
 
-Taweh Beysolow II (https://x.com/TawehBeysolow), CEO and Co-founder of Bond (https://x.com/BondSuperApp_) - ex-Jump Trading and Flowdesk quant, now building the first DeFi super app for the agentic economy.
+[Taweh Beysolow II](https://x.com/TawehBeysolow), [CEO and Co-founder of Bond](https://x.com/BondSuperApp_) - ex-Jump Trading and Flowdesk quant, now building the first DeFi super app for the agentic economy.
 
-Michael Heinrich (https://x.com/michaelh_0g), CEO and Co-founder of 0G Labs (https://x.com/0G_labs) - leading the largest AI L1 ecosystem with $325M+ raised; Forbes 40 under 40, ex-Bridgewater and Microsoft.
+[Michael Heinrich](https://x.com/michaelh_0g), [CEO and Co-founder of 0G Labs](https://x.com/0G_labs) - leading the largest AI L1 ecosystem with $325M+ raised; Forbes 40 under 40, ex-Bridgewater and Microsoft.
 
-Alessio Marinelli (https://www.linkedin.com/in/marinellialessio/), CEO of Credi (https://x.com/credilabs) - tokenizing private credit and SME receivables, bringing real-world yield on-chain since 2017.
+[Alessio Marinelli](https://www.linkedin.com/in/marinellialessio/), [CEO of Credi](https://x.com/credilabs) - tokenizing private credit and SME receivables, bringing real-world yield on-chain since 2017.
 
-Tim Haldorsson (https://x.com/TimHaldorsson), Founder of Lunar Strategy (https://x.com/LunarStrategy) and CMO at Turtle - panel moderator. In crypto since 2017, helping 400+ projects scale.
+[Tim Haldorsson](https://x.com/TimHaldorsson), [Founder of Lunar Strategy](https://x.com/LunarStrategy) and CMO at Turtle - panel moderator. In crypto since 2017, helping 400+ projects scale.
 
 ### Who this is for
 
@@ -8783,17 +8771,17 @@ LPs, family offices, and funds allocating in APAC. Builders and protocols workin
 
 ### Your hosts
 
-Turtle (https://x.com/turtledotxyz) is a liquidity distribution protocol connecting asset issuers to a verified network of 432,000+ on-chain LPs through a unified platform that handles deal sourcing, due diligence, incentive distribution, billing, and LP relationship management, all verifiable on chain.
+[Turtle](https://x.com/turtledotxyz) is a liquidity distribution protocol connecting asset issuers to a verified network of 432,000+ on-chain LPs through a unified platform that handles deal sourcing, due diligence, incentive distribution, billing, and LP relationship management, all verifiable on chain.
 
-Lunar Strategy (https://x.com/LunarStrategy), part of Turtle Group, is the crypto growth agency behind 400+ projects since 2019 - from token launches to ecosystem campaigns.
+[Lunar Strategy](https://x.com/LunarStrategy), part of Turtle Group, is the crypto growth agency behind 400+ projects since 2019 - from token launches to ecosystem campaigns.
 
 ### About our partners
 
-Bond (https://x.com/BondSuperApp_) is the first DeFi super app built for AI agents - trading, lending, and payments in one platform, launched on 0G.
+[Bond](https://x.com/BondSuperApp_) is the first DeFi super app built for AI agents - trading, lending, and payments in one platform, launched on 0G.
 
-0G Labs (https://x.com/0G_labs) is building the foundational Layer 1 for decentralized AI, with $325M raised and one of the fastest-growing ecosystems in crypto.
+0G [Labs](https://x.com/0G_labs) is building the foundational Layer 1 for decentralized AI, with $325M raised and one of the fastest-growing ecosystems in crypto.
 
-Credi (https://x.com/credilabs) brings private credit on-chain, tokenizing high-quality SME receivables to connect DeFi liquidity with real-world yield.
+[Credi](https://x.com/credilabs) brings private credit on-chain, tokenizing high-quality SME receivables to connect DeFi liquidity with real-world yield.
 
 Set on a rooftop deck, with the covered lounge hosting the keynotes and panel. Your first stop before KBW opens.
 
@@ -8819,19 +8807,19 @@ KBW의 시작을 함께할 특별한 저녁에 여러분을 초대합니다.
 
 언어: 영어, 한-영 이중언어 진행
 
-주최: Turtle (https://x.com/turtledotxyz) & Lunar Strategy (https://x.com/LunarStrategy)
+주최: [Turtle](https://x.com/turtledotxyz) & [Lunar Strategy](https://x.com/LunarStrategy)
 
-공동 주최: Bond (https://x.com/BondSuperApp_) & 0G Labs (https://x.com/0G_labs)
+공동 주최: [Bond](https://x.com/BondSuperApp_) & 0G [Labs](https://x.com/0G_labs)
 
-프리미엄 스폰서: Credi (https://x.com/credilabs)
+프리미엄 스폰서: [Credi](https://x.com/credilabs)
 
 ### 연사
 
-- Essi Lagevardi, (https://x.com/SuperChad15) Turtle CEO & Founder - 크립토 업계 최대 규모 중 하나인 유동성 조정 네트워크를 구축하고 있습니다.
-- Taweh Beysolow II (https://x.com/TawehBeysolow), Bond CEO & Co-founder - 전 Jump Trading 및 Flowdesk 퀀트로, 현재 에이전틱 이코노미를 위한 최초의 DeFi 슈퍼앱을 구축하고 있습니다.
-- Michael Heinrich (https://x.com/michaelh_0g), 0G Labs CEO & Co-founder - 3억 2,500만 달러 이상의 투자를 유치한 최대 규모의 AI L1 생태계를 이끌고 있습니다. Forbes 40 Under 40에 선정되었으며 Bridgewater와 Microsoft를 거쳤습니다.
-- Alessio Marinelli (https://www.linkedin.com/in/marinellialessio/), Credi CEO - 프라이빗 크레딧과 중소기업(SME) 매출채권을 토큰화하며, 2017년부터 실물자산에서 발생하는 수익을 온체인으로 가져오고 있습니다.
-- Tim Haldorsson (https://x.com/TimHaldorsson), Lunar Strategy Founder & Turtle CMO - 패널 모더레이터. 2017년부터 크립토 업계에서 활동하며 300개 이상의 프로젝트 성장을 지원했습니다.
+- [Essi Lagevardi,](https://x.com/SuperChad15) Turtle CEO & Founder - 크립토 업계 최대 규모 중 하나인 유동성 조정 네트워크를 구축하고 있습니다.
+- [Taweh Beysolow II](https://x.com/TawehBeysolow), Bond CEO & Co-founder - 전 Jump Trading 및 Flowdesk 퀀트로, 현재 에이전틱 이코노미를 위한 최초의 DeFi 슈퍼앱을 구축하고 있습니다.
+- [Michael Heinrich](https://x.com/michaelh_0g), 0G Labs CEO & Co-founder - 3억 2,500만 달러 이상의 투자를 유치한 최대 규모의 AI L1 생태계를 이끌고 있습니다. Forbes 40 Under 40에 선정되었으며 Bridgewater와 Microsoft를 거쳤습니다.
+- [Alessio Marinelli](https://www.linkedin.com/in/marinellialessio/), Credi CEO - 프라이빗 크레딧과 중소기업(SME) 매출채권을 토큰화하며, 2017년부터 실물자산에서 발생하는 수익을 온체인으로 가져오고 있습니다.
+- [Tim Haldorsson](https://x.com/TimHaldorsson), Lunar Strategy Founder & Turtle CMO - 패널 모더레이터. 2017년부터 크립토 업계에서 활동하며 300개 이상의 프로젝트 성장을 지원했습니다.
 
 ### 이런 분들을 위한 자리입니다
 
@@ -9015,7 +9003,7 @@ ZEKTO is an AI and Blockchain Infrastructure Company making Stablecoins work in 
 
 ### Backed by Host
 
-CoinNess (https://coinness.com/news) - Media Partner.
+[CoinNess](https://coinness.com/news) - Media Partner.
 
 코인니스는 업계의 모든 소식을 속보와 폭넓은 PR 배포, 심층 인터뷰 등을 통해 가장 빠르게 전달하는 대한민국 대표 가상자산 종합 매체 플랫폼입니다.
 
@@ -9027,13 +9015,13 @@ Korea No.1 Crypto Media Platform. Responsible for Official Coverage, PR Distribu
 
 Korea No.1 Crypto Marketing-Incubating(VC) Group. Responsible for Korea KOL Marketing, Content Production, and Korea WEB3 Channel Viral Campaigns.
 
-Coin Market Cap (https://coinmarketcap.com/) - Data & Research Partner.
+[Coin Market Cap](https://coinmarketcap.com/) - Data & Research Partner.
 
 코인마켓캡은 세계 최대 크립토 시장 데이터 플랫폼으로, 빠르게 움직이는 이 산업에 반드시 필요합니다. 시장 전반의 실시간 데이터와 WEB3 산업에 대한 모든 정보를 제공합니다.
 
 Providing Overall Crypto Market Overview with Real-Time Data, WEB3 Industry In-depth Research Content.
 
-Google Cloud (https://cloud.google.com/?hl=en) - Cloud Infrastructure Partner.
+[Google Cloud](https://cloud.google.com/?hl=en) - Cloud Infrastructure Partner.
 
 구글 클라우드는 엔터프라이즈급 기술력을 웹3의 최전선까지 확장하는 곳으로, 모든 웹 생태계를 뒷받침하는 확장 가능하고 안전하며 신뢰할 수 있는 인프라를 제공합니다.
 
@@ -9093,25 +9081,25 @@ This is a closed event. Attendance is by invitation only.
 
 Aracore
 
-aracore.io (https://aracore.io)
+[aracore.io](https://aracore.io)
 
 Institutional cross-border stablecoin settlement infrastructure built for banks and financial institutions.
 
 Kbank
 
-kbanknow.com (https://kbanknow.com)
+[kbanknow.com](https://kbanknow.com)
 
 South Korea's first internet-only bank, pioneering digital financial services through technology and innovation.
 
 HashKey
 
-group.hashkey.com (https://group.hashkey.com)
+[group.hashkey.com](https://group.hashkey.com)
 
 Asia's leading digital asset company, providing regulated infrastructure for stablecoins, trading, and cross-border capital flows.
 
 Anchorage Digital
 
-anchorage.com (https://anchorage.com)
+[anchorage.com](https://anchorage.com)
 
 The first federally chartered crypto bank in the U.S., delivering institutional-grade custody, settlement, and digital asset services.
 
@@ -9163,13 +9151,13 @@ No Pitch, Just Chimaek
 
 A fun & chill KBW night with chicken, beer, drinking games, and Web3 networking.
 
-Savior of Health (https://saviorofhealth.app/) is a blockchain-based AI health management platform that combines artificial intelligence and Web3 technologies to create a "Health to Earn" ecosystem. The project enables users to securely manage personal health records, receive AI-powered health guidance, and earn rewards for maintaining healthy habits. By leveraging decentralized medical data, privacy-focused infrastructure, and AI-assisted health journaling, it aims to transform everyday health activities into valuable digital assets while supporting scientific research and broader healthcare innovation.
+[Savior of Health](https://saviorofhealth.app/) is a blockchain-based AI health management platform that combines artificial intelligence and Web3 technologies to create a "Health to Earn" ecosystem. The project enables users to securely manage personal health records, receive AI-powered health guidance, and earn rewards for maintaining healthy habits. By leveraging decentralized medical data, privacy-focused infrastructure, and AI-assisted health journaling, it aims to transform everyday health activities into valuable digital assets while supporting scientific research and broader healthcare innovation.
 
-LuckyGo (https://luckygo.io/raffle) (https://luckygo.io/raffle)is a Web3 community platform that connects users with blockchain projects through raffles, whitelist campaigns, and community engagement. It provides a transparent ecosystem where users can discover new opportunities, participate in project launches, and earn rewards while helping projects grow their communities. By combining social participation with on-chain activities, LuckyGo aims to make Web3 discovery more accessible and engaging for everyone.
+[LuckyGo](https://luckygo.io/raffle) (https://luckygo.io/raffle)is a Web3 community platform that connects users with blockchain projects through raffles, whitelist campaigns, and community engagement. It provides a transparent ecosystem where users can discover new opportunities, participate in project launches, and earn rewards while helping projects grow their communities. By combining social participation with on-chain activities, LuckyGo aims to make Web3 discovery more accessible and engaging for everyone.
 
-MY AI PET (https://myaipet.ai/) is a blockchain-powered platform where users raise unique AI companions that grow, learn, and evolve through daily interactions. Combining AI-generated content, social engagement, and on-chain rewards, it introduces a "Raise-to-Earn" model that transforms emotional companionship into lasting digital value. The project blends AI, gaming, and Web3 to create an interactive ecosystem where every pet becomes a personalized companion and a meaningful on-chain asset.
+[MY AI PET](https://myaipet.ai/) is a blockchain-powered platform where users raise unique AI companions that grow, learn, and evolve through daily interactions. Combining AI-generated content, social engagement, and on-chain rewards, it introduces a "Raise-to-Earn" model that transforms emotional companionship into lasting digital value. The project blends AI, gaming, and Web3 to create an interactive ecosystem where every pet becomes a personalized companion and a meaningful on-chain asset.
 
-Everwood Capital (https://x.com/EverwoodCapital) is a founder-led investment firm focused on high-conviction opportunities across Pre-IPO technology and crypto-native protocols. The firm combines strategic capital with hands-on support in areas such as cross-border expansion, regulatory alignment, liquidity, and institutional networks. Rather than investing broadly, Everwood focuses on a select group of promising teams and works closely with them to support long-term growth and market expansion.
+[Everwood Capital](https://x.com/EverwoodCapital) is a founder-led investment firm focused on high-conviction opportunities across Pre-IPO technology and crypto-native protocols. The firm combines strategic capital with hands-on support in areas such as cross-border expansion, regulatory alignment, liquidity, and institutional networks. Rather than investing broadly, Everwood focuses on a select group of promising teams and works closely with them to support long-term growth and market expansion.
 
 <a id="event-4253aa49f4381da4"></a>
 
@@ -9405,27 +9393,27 @@ https://lo.tech
 
 ### About the event
 
-🇰🇷 New Friendship Tech | Seoul Web3 VIP Mixer & Deal Den | @ KBW Blockster (https://blockster.com/), Urconduit (https://urconduit.com/), NewFriendshipTech (https://eric-spivak.com/), Genzio (https://www.genzio.co/) & More at #KBW2026
+🇰🇷 New Friendship [Tech | Seoul Web3 VIP Mixer & Deal Den | @ KBW Blockster](https://blockster.com/), [Urconduit](https://urconduit.com/), [NewFriendshipTech](https://eric-spivak.com/), [Genzio](https://www.genzio.co/) & More at #KBW2026
 
 Best known for hosting some of the top curated events and activations the Crypto & Web3 World has seen. You're invited to Join Us for this special evening at a unique location boasting amazing views, great atmosphere, delicious food & diverse craft cocktails alongside some very special guest speakers, djs attendees and more.
 
 There's a reason over 60,000 people have attended our events over the last 3 years. This isn't your typical NFTECH blowout event with full send everything, but rather a purpose-driven, high-quality basecamp and networking lounge with and VIP afterparty from evening to late night. Come with old friends and make some new ones as we bring together hundreds of industry leaders. Connect with top firms, leading VCs, angels, family offices, creative communities, curators, collectors, executives, traders, founders, funders, media and more over small bites, craft cocktails & great atmosphere in a unique location. We've got shuttle service round trip all day from the conference.
 
-If you're interested in getting involved in our event, or want to get your project, product, service or business in front of the masses, please don't hesitate to reach out to Eric. (https://t.me/ericspivak)
+If you're interested in getting involved in our event, or want to get your project, product, service or business in front [of the masses, please don't hesitate to reach out to Eric.](https://t.me/ericspivak)
 
 Let's make magic!
 
-Msg: EricSpivak (https://t.me/ericspivak) on Telegram or Twitter (http://twitter.com/ericspivak) for more info.
+[Msg: EricSpivak](https://t.me/ericspivak) [on Telegram or Twitter](http://twitter.com/ericspivak) for more info.
 
 ### ABOUT US
 
-New Friendship Tech (http://www.twitter.com/NewFriendTech) is technology, creating new friendships. Social media used to bring people closer together, now it pushes us further apart and the only way to beat the algorithms is IRL Events. Together, we produce some of the top activations in the emerging tech and innovation space adjacent to leading conferences and summits. Our inclusive atmospheres, well-curated audiences and unique programming results in high value networking opportunities for all attendees. Our Dubai (https://lu.ma/x3ob9lxe) activation had over 1,000 attendees with a 12hr Program.
+[New Friendship Tech](http://www.twitter.com/NewFriendTech) is technology, creating new friendships. Social media used to bring people closer together, now it pushes us further apart and the only way to beat the algorithms is IRL Events. Together, we produce some of the top activations in the emerging tech and innovation space adjacent to leading conferences and summits. Our inclusive atmospheres, well-curated audiences and unique programming results in high [value networking opportunities for all attendees. Our Dubai](https://lu.ma/x3ob9lxe) activation had over 1,000 attendees with a 12hr Program.
 
 While our Denver events were similar with over 800 attendees throughout the day and Sponsored by Ferrari.
 
-Your Host, Eric Spivak (http://www.Twitter.com/EricSpivak) will be around all evening to talk more about the goals and opportunities regarding future activations.
+[Your Host, Eric Spivak](http://www.Twitter.com/EricSpivak) will be around all evening to talk more about the goals and opportunities regarding future activations.
 
-New Friendship Tech is presented by Urconduit (https://x.com/Urconduit)
+[New Friendship Tech is presented by Urconduit](https://x.com/Urconduit)
 
 OUR SERIES RANGE FROM: Founder Meet Funder | Michelin-Star Creator Dinners | Product Demos | Exhibitions | Web3 Workshops | Art & Music Showcases | Tech Exhibitions | Networking Mixers | Afterparties | Community Meetups | + MORE
 
@@ -9451,7 +9439,7 @@ ARTISTS WE'VE WORKED WITH: Aluna | Illmind | Flosstradamus | Doja Cat | Mike Dea
 
 VIP 참석 관련 문의: christian@noves.fi
 
-The Capital Forum is a private institutional gathering of leaders shaping capital markets on Canton (https://canton.network).
+The Capital Forum is a private institutional [gathering of leaders shaping capital markets on Canton](https://canton.network).
 
 The program will examine the growth of institutional finance and tokenized assets on Canton Network, the market infrastructure and operating requirements needed at scale, and the opportunities emerging for Korean and global financial institutions.
 
@@ -9477,19 +9465,19 @@ Inquiries for VIP access: christian@noves.fi
 
 ### Presented by
 
-Canton Foundation (https://canton.foundation/)
+[Canton Foundation](https://canton.foundation/)
 
 The independent, non-profit steward of Canton Network.
 
-Tiger Research (https://tiger-research.com/)
+[Tiger Research](https://tiger-research.com/)
 
 Independent digital asset research and data company.
 
-IBM Digital Asset Haven (https://www.ibm.com/products/digital-asset-haven)
+[IBM Digital Asset Haven](https://www.ibm.com/products/digital-asset-haven)
 
 Institutional-grade platform for managing digital assets.
 
-Noves (https://www.noves.fi)
+[Noves](https://www.noves.fi)
 
 Private data infrastructure for Canton Network.
 
@@ -9543,7 +9531,7 @@ Partior, KB Securities, NH Investment & Securities, Ondo Finance, Meritz Securit
 
 ### Hosted by SOOHO.IO
 
-(Website: https://www.sooho.io (https://www.sooho.io/))
+([Website: https://www.sooho.io](https://www.sooho.io/))
 
 Founded in 2019, SOOHO.IO is a financial infrastructure company that builds institutional-grade digital asset infrastructure based on its deep expertise in blockchain security. The company's core service, 'SOOHO PartnerHub,' is a distributed ledger-based global payment and settlement platform. It empowers institutions to seamlessly integrate cross-border remittances, foreign exchange (FX), and settlement functions while maintaining bank-grade security.
 
@@ -9601,7 +9589,7 @@ Korea Blockchain Week(KBW) 2026 기간 중 개최되는 본 서밋은 리테일 
 
 > 문의: summit@superteamkr.com
 
-> 웹사이트: summit.superteamkr.com (https://summit.superteamkr.com)
+> 웹사이트: [summit.superteamkr.com](https://summit.superteamkr.com)
 
 ### Solana Summit is Coming To Korea 🇰🇷
 
@@ -9612,7 +9600,7 @@ Solana Summit Korea 2026 is a private, curated, and invitation-only conference d
 
 > Please note: Detailed location and entry instructions will be provided to approved ticket holders.
 
-Official Website (https://summit.superteamkr.com)
+[Official Website](https://summit.superteamkr.com)
 
 The defining institutional gathering shaping the future of stablecoins, regulatory frameworks, and capital markets in Korea.
 
@@ -9680,7 +9668,7 @@ This is an invite-only gathering with limited capacity. Apply below - approved g
 
 ### About Citrea
 
-Citrea is the Bitcoin application layer, enabling institutions and users to access Bitcoin capital markets. With zero-knowledge technology, Citrea expands Bitcoin's utility while remaining anchored to its security model. Access Bitcoin lending, yield and private BTC at app.citrea.xyz (https://app.citrea.xyz)
+Citrea is the Bitcoin application layer, enabling institutions and users to access Bitcoin capital markets. With zero-knowledge technology, Citrea expands Bitcoin's utility while remaining anchored to its security model. Access [Bitcoin lending, yield and private BTC at app.citrea.xyz](https://app.citrea.xyz)
 
 ### About Four Pillars
 
@@ -9861,7 +9849,7 @@ Animoca Brands is a global digital assets leader building and investing in impac
 
 [About Minds by Animoca Brands]
 
-Minds by Animoca Brands is a persistent AI agent platform that removes complexity while preserving full control and customization for both builders and general users. It enables anyone to deploy and direct sovereign, always-on AI agents, called Minds, without having to operate local servers or manage any hardware or software. Learn more at hellominds.ai (https://hellominds.ai).
+Minds by Animoca Brands is a persistent AI agent platform that removes complexity while preserving full control and customization for both builders and general users. It enables anyone to deploy and direct sovereign, always-on AI agents, called Minds, without having to operate local servers or [manage any hardware or software. Learn more at hellominds.ai](https://hellominds.ai).
 
 [About AIR]
 
@@ -9918,7 +9906,7 @@ Animoca Brands는 AI와 에이전틱 웹(agentic web)을 통해 미래 경제를
 
 [Minds by Animoca Brands 소개]
 
-Minds by Animoca Brands는 개발자와 일반 사용자 모두에게 완전한 제어권과 맞춤 설정 기능을 제공하면서도 복잡성을 제거한 영구형 AI 에이전트 플랫폼입니다. 로컬 서버를 가동하거나 별도의 하드웨어 및 소프트웨어를 관리할 필요 없이, 누구나 'Minds'라고 불리는 지속적으로 작동하는 주권적 AI 에이전트를 배포하고 지시할 수 있습니다. 자세한 내용은 hellominds.ai (https://hellominds.ai)에서 확인할 수 있습니다.
+Minds by Animoca Brands는 개발자와 일반 사용자 모두에게 완전한 제어권과 맞춤 설정 기능을 제공하면서도 복잡성을 제거한 영구형 AI 에이전트 플랫폼입니다. 로컬 서버를 가동하거나 별도의 하드웨어 및 소프트웨어를 관리할 필요 없이, 누구나 'Minds'라고 불리는 지속적으로 작동하는 주권적 [AI 에이전트를 배포하고 지시할 수 있습니다. 자세한 내용은 hellominds.ai](https://hellominds.ai)에서 확인할 수 있습니다.
 
 [AIR 소개]
 
@@ -10097,7 +10085,7 @@ With a dual-track product strategy across Web3 and AI, ZAN provides foundational
 
 ### About Anvita
 
-Anvita is dedicated to building the infrastructure for the next generation of the digital economy by integrating Web3 and Artificial Intelligence (AI) technology.Our mission is to empower individuals and institutions to transform their unique knowledge, assets, and capabilities into sustainable digital systems, enabling more secure and efficient collaboration and commercial activities on a global scale. We believe the future economic system is moving towards a new era of the Autonomous Economy, driven by Autonomous Agents, Programmable Assets, and Trusted Collaboration Networks.By (http://Networks.
+Anvita is dedicated to building the infrastructure for the next generation of the digital economy by integrating Web3 and Artificial Intelligence (AI) technology.Our mission is to empower individuals and institutions to transform their unique knowledge, assets, and capabilities into sustainable digital systems, enabling more secure and efficient collaboration and commercial activities on a global scale. We believe the future economic system is moving towards a new era of the Autonomous Economy, driven by Autonomous Agents, [Programmable Assets, and Trusted Collaboration Networks.By](http://Networks.
 
 By) combining the intelligence of AI with Web3 blockchain financial infrastructure, Anvita is building the infrastructure for the new digital economy paradigm.This allows individuals and institutions to better achieve real value creation and exchange, truly owning, managing, and unleashing the value of their digital capabilities and assets (Unleashing the Value in TokenS).
 
@@ -10107,7 +10095,7 @@ Limited capacity. Registration is subject to approval.
 
 Interested in sponsoring or partnering with this event? Please contact Kevin:
 
-Telegram: @kevin_km_wang (https://t.me/kevin_km_wang)
+[Telegram: @kevin_km_wang](https://t.me/kevin_km_wang)
 
 Email: kevin@pharos.xyz
 
@@ -10133,17 +10121,17 @@ See you there.
 
 ### Hosted By
 
-The Best Event (https://www.instagram.com/_thebestevent?utm_source=luma) is the global event series where Web3 comes to life. With over 120+ events organised across 24+ cities, and 60,000 guests, The Best Event is a leader in the space. From bespoke and intimate meetups, to large-scale parties at the likes of Marquee and E11even Miami, we bring together the boldest creators, top brands, and visionaries shaping the future for unforgettable experiences.
+[The Best Event](https://www.instagram.com/_thebestevent?utm_source=luma) is the global event series where Web3 comes to life. With over 120+ events organised across 24+ cities, and 60,000 guests, The Best Event is a leader in the space. From bespoke and intimate meetups, to large-scale parties at the likes of Marquee and E11even Miami, we bring together the boldest creators, top brands, and visionaries shaping the future for unforgettable experiences.
 
-For sponsor inquiries for upcoming events, please contact Mihir via Telegram (https://t.me/mihirodhrani) or email mihir@tbv.xyz.
+For sponsor inquiries [for upcoming events, please contact Mihir via Telegram](https://t.me/mihirodhrani) or email mihir@tbv.xyz.
 
-TBV (http://www.tbv.xyz/?utm_source=luma) (TB Ventures) is a VC fund focused on leading rounds in early-stage web3 companies in South East Asia and North America. TBV is supported by TBE (TB Events) and TBA (TB Advisory), creating a network of services that are underpinned by a 100k+ social following and 10k+ active TG community.
+[TBV](http://www.tbv.xyz/?utm_source=luma) (TB Ventures) is a VC fund focused on leading rounds in early-stage web3 companies in South East Asia and North America. TBV is supported by TBE (TB Events) and TBA (TB Advisory), creating a network of services that are underpinned by a 100k+ social following and 10k+ active TG community.
 
-Golden Ratio Group (https://goldenratiogroup.co/) is a European-focused, MiCA-aligned ecosystem bridging traditional finance and digital assets through instant trading, borderless payments, and tokenized real-world assets.
+[Golden Ratio Group](https://goldenratiogroup.co/) is a European-focused, MiCA-aligned ecosystem bridging traditional finance and digital assets through instant trading, borderless payments, and tokenized real-world assets.
 
-Brickken (http://www.brickken.com/?referrer=luma&utm_source=luma) is an institutional-grade software provider delivering end-to-end infrastructure for the compliant tokenization and management of real-world assets (RWA).
+[Brickken](http://www.brickken.com/?referrer=luma&utm_source=luma) is an institutional-grade software provider delivering end-to-end infrastructure for the compliant tokenization and management of real-world assets (RWA).
 
-EAK Digital (https://eakdigital.com/)is an award-winning global Web3 communications and marketing agency specialising in strategic communications, public relations, influencer marketing, brand development and live experiences.
+[EAK Digital](https://eakdigital.com/)is an award-winning global Web3 communications and marketing agency specialising in strategic communications, public relations, influencer marketing, brand development and live experiences.
 
 <a id="event-64bb298566194c6f"></a>
 
@@ -10159,7 +10147,7 @@ EAK Digital (https://eakdigital.com/)is an award-winning global Web3 communicati
 
 R25 2.0 Genesis Curator Program
 
-R25 (https://www.r25.xyz/) is the institutional-grade on-chain vault infrastructure for the next generation of finance. As we launch R25 2.0, we are inviting a select group of institutional curators, crypto funds, market makers, and ecosystem partners to join the Genesis Curator Program - the first cohort to build, deploy, and scale structured vaults on R25.
+[R25](https://www.r25.xyz/) is the institutional-grade on-chain vault infrastructure for the next generation of finance. As we launch R25 2.0, we are inviting a select group of institutional curators, crypto funds, market makers, and ecosystem partners to join the Genesis Curator Program - the first cohort to build, deploy, and scale structured vaults on R25.
 
 This invite-only meetup, held during Korea Blockchain Week, is where strategy meets infrastructure. We will showcase how real-world and digital assets are transformed into standardized, programmable vaults - and how curators can turn their strategies into investable, on-chain products with global distribution.
 
@@ -10567,9 +10555,9 @@ Decipher는 2017년 말에 서울대학교 블록체인 학회로 조직되었�
 ### 공식 채널
 
 - Altus
-  Website (https://altuslabs.io/), LinkedIn (https://www.linkedin.com/company/altuslabs-hq/), X (https://x.com/AltusLabsHQ)
+  [Website](https://altuslabs.io/), [LinkedIn](https://www.linkedin.com/company/altuslabs-hq/), [X](https://x.com/AltusLabsHQ)
 - Decipher
-  Website (https://decipher.ac/ko), LinkedIn (https://www.linkedin.com/company/decipher-ac/), X (https://x.com/DecipherGlobal)
+  [Website](https://decipher.ac/ko), [LinkedIn](https://www.linkedin.com/company/decipher-ac/), [X](https://x.com/DecipherGlobal)
 
 <a id="event-08dfe314d166ab13"></a>
 
@@ -10583,9 +10571,9 @@ Decipher는 2017년 말에 서울대학교 블록체인 학회로 조직되었�
 
 ### About BitGo
 
-BitGo (NYSE: BTGO) is the digital asset infrastructure company delivering custody, wallets, staking, trading, financing, stablecoins, and settlement services from regulated cold storage. Since 2013, BitGo has focused on accelerating the transition of the financial system to a digital asset economy. BitGo maintains a global presence and multiple regulated entities, including BitGo Bank & Trust, National Association, the first federally chartered digital asset trust bank owned by a publicly traded company. Today, BitGo serves thousands of institutions, including many of the industry's top brands, financial institutions, exchanges, and platforms, and millions of investors worldwide.
+BitGo (NYSE: BTGO) is the digital asset infrastructure company delivering custody, wallets, staking, trading, financing, stablecoins, and settlement services from regulated cold storage. Since 2013, BitGo has focused on accelerating the transition of the financial system to a digital asset economy. BitGo maintains a global presence and multiple regulated entities, including BitGo Bank & Trust, National Association, the first federally chartered digital asset trust bank owned by a publicly traded company. Today, BitGo serves thousands of institutions, including many of the industry's top brands, financial institutions, exchanges, and platforms, and millions of investors [worldwide.
 
-For more information, visit www.bitgo.com (https://www.bitgo.com).
+For more information, visit www.bitgo.com](https://www.bitgo.com).
 
 ### About PLAN G RESEARCH
 
@@ -10597,7 +10585,7 @@ PLAN G also collaborates with investors, exchanges, infrastructure companies, an
 
 ### About Optimism
 
-Optimism is a leading Ethereum scaling ecosystem helping developers and enterprises build secure, scalable, and cost-efficient onchain applications. Through the open-source OP Stack, organizations can launch customized blockchain networks while benefiting from Ethereum's security and growing ecosystem. Learn more at www.optimism.io (https://www.optimism.io).
+Optimism is a leading Ethereum scaling ecosystem helping developers and enterprises build secure, scalable, and cost-efficient onchain applications. Through the open-source OP Stack, organizations can launch customized blockchain networks while benefiting from Ethereum's [security and growing ecosystem. Learn more at www.optimism.io](https://www.optimism.io).
 
 <a id="event-840f0620f323c1cc"></a>
 
@@ -10908,11 +10896,11 @@ Event Timeline (KST)
 
 The Capital Formation Summit
 
-Hosted by: Yield Network (http://yieldnetwork.io/?utm_source=luma)
+[Hosted by: Yield Network](http://yieldnetwork.io/?utm_source=luma)
 
-Co-hosted by: Monad (https://www.monad.xyz), Shift DeFi (https://shiftdefi.com), Frankencoin (https://frankencoin.com), Apyx (https://apyx.fi)
+[Co-hosted by: Monad](https://www.monad.xyz), [Shift DeFi](https://shiftdefi.com), [Frankencoin](https://frankencoin.com), [Apyx](https://apyx.fi)
 
-Partnered by: Bitmaker (https://bitmaker.fi/?utm_source=luma), Ember Protocol (https://ember.so/?utm_source=luma), Zama (https://www.zama.org)
+[Partnered by: Bitmaker](https://bitmaker.fi/?utm_source=luma), [Ember Protocol](https://ember.so/?utm_source=luma), [Zama](https://www.zama.org)
 
 Date: September 30, 2026
 
@@ -10949,7 +10937,7 @@ As DeFi matures into its next capital cycle, alignment between infrastructure, l
 
 Hosted By:
 
-Yield Network (https://www.yieldnetwork.io) is the capital formation and distribution firm for onchain markets.
+[Yield Network](https://www.yieldnetwork.io) is the capital formation and distribution firm for onchain markets.
 
 We sit between institutional capital and onchain yield: we structure the products and raise the capital that fills them. Clients range from L1/L2 chains and DeFi protocols to digital asset managers and issuers of tokenized yield products.
 
@@ -10967,13 +10955,13 @@ LP dealflow - vetted deals with clear terms, capacity, and timelines for the cap
 
 Co-Hosted By:
 
-The Monad Foundation (https://www.monad.xyz) is an independent organization dedicated to encouraging the development and adoption of the Monad blockchain protocol, an ultra-high-performant EVM L1 blockchain. Monad will offer the best of both worlds: unrivaled performance (10,000 transactions per second) and portability (full-compatibility for Ethereum smart contracts).
+[The Monad Foundation](https://www.monad.xyz) is an independent organization dedicated to encouraging the development and adoption of the Monad blockchain protocol, an ultra-high-performant EVM L1 blockchain. Monad will offer the best of both worlds: unrivaled performance (10,000 transactions per second) and portability (full-compatibility for Ethereum smart contracts).
 
-Shift (https://shiftdefi.com/) is a non-custodial DeFi platform bringing institutional discipline to on-chain investing. Through structured portfolio construction, continuous risk monitoring, and transparent execution, Shift simplifies access to DeFi yield.
+[Shift](https://shiftdefi.com/) is a non-custodial DeFi platform bringing institutional discipline to on-chain investing. Through structured portfolio construction, continuous risk monitoring, and transparent execution, Shift simplifies access to DeFi yield.
 
-Frankencoin (https://frankencoin.com) (ZCHF) is the largest Swiss franc stablecoin: a decentralized, collateral-backed currency pegged to the CHF and governed entirely on-chain. Built for those who believe the Swiss franc is the world's best store of value, ZCHF brings Swiss monetary stability to DeFi across Ethereum and beyond.
+[Frankencoin](https://frankencoin.com) (ZCHF) is the largest Swiss franc stablecoin: a decentralized, collateral-backed currency pegged to the CHF and governed entirely on-chain. Built for those who believe the Swiss franc is the world's best store of value, ZCHF brings Swiss monetary stability to DeFi across Ethereum and beyond.
 
-Apyx (https://apyx.fi) is a next-generation yield platform offering users access to tokenized, income-generating assets, such as digital credit issued by Strategy and US Treasury bills.
+[Apyx](https://apyx.fi) is a next-generation yield platform offering users access to tokenized, income-generating assets, such as digital credit issued by Strategy and US Treasury bills.
 
 ### Previous Events
 
@@ -10992,7 +10980,7 @@ Proof Of Liquidity: Cannes Edition brought the format to the French Riviera duri
 Proof Of Liquidity: Abu Dhabi became one of the standout side events during ADFW, Solana Breakpoint, and Bitcoin MENA.
 
 - The Stats: 2,700+ Registrations
-- Co-Hosts & Sponsors: Nexus Mutual, Berachain, Funders VC, DogeOS, Coinchange, Peanut.Trade (https://peanut.trade/), Upshift
+- Co-Hosts & Sponsors: Nexus Mutual, [Berachain, Funders VC, DogeOS, Coinchange, Peanut.Trade](https://peanut.trade/), Upshift
 - Outcome: The primary liquidity hub during ADFW, Breakpoint, and Bitcoin MENA.
 
 2025: Singapore Edition (TOKEN2049)
@@ -11007,7 +10995,7 @@ Attendees List Included:
 
 - Funds: Galaxy Digital, JPMorgan, Brevan Howard Digital, Spartan Group, Wintermute, Hashed, Tribe Capital, Bloq Capital, LeadBlock, Laser Digital
 - Ecosystems: Arbitrum, Optimism, Polygon, Avalanche, Starknet, Solana, Berachain, Scroll, Mantle
-- DeFi/Infra: Uniswap, LayerZero, Pendle, Gauntlet, Ether.fi (https://Ether.fi), Lido, Consensys, Fireblocks, Copper
+- [DeFi/Infra: Uniswap, LayerZero, Pendle, Gauntlet, Ether.fi](https://Ether.fi), Lido, Consensys, Fireblocks, Copper
 
 Outcome: Recognized as one of the most impactful DeFi x LP events - connecting LPs, builders, and curators across the ecosystem.
 
@@ -11063,9 +11051,9 @@ Dragonfly, Coinbase Ventures, Bain Capital Crypto, Peak XV(구 Sequoia India/SEA
 
 ### Variational Socials
 
-홈페이지 (https://omni.variational.io/perpetual/BTC) l 트위터 (https://x.com/variational_io) l 디스코드 (https://discord.com/channels/1196857788220067943/1196857788660465736) l 텔레그램 한국 커뮤니티 (https://t.me/Variational_Korea_Chat)
+홈페이지 (https://omni.variational.io/perpetual/BTC) [l 트위터](https://x.com/variational_io) [l 디스코드](https://discord.com/channels/1196857788220067943/1196857788660465736) [l 텔레그램 한국 커뮤니티](https://t.me/Variational_Korea_Chat)
 
-Website (https://omni.variational.io/perpetual/BTC) l Twitter (https://x.com/variational_io) l Discord (https://discord.com/channels/1196857788220067943/1196857788660465736) l TG Korean Community (https://t.me/Variational_Korea_Chat)
+[Website](https://omni.variational.io/perpetual/BTC) [l Twitter](https://x.com/variational_io) [l Discord](https://discord.com/channels/1196857788220067943/1196857788660465736) [l TG Korean Community](https://t.me/Variational_Korea_Chat)
 
 ### About Variational
 
@@ -11091,7 +11079,7 @@ Variational has raised over $50M from Dragonfly, Coinbase Ventures, Bain Capital
 
 ### About the event
 
-Join Quantstamp (https://quantstamp.com/?utm_source=luma) & Common Defense (https://www.commondefense.ai/?utm_source=luma) for an exclusive night of networking, great conversations, and good vibes in the heart of Gangnam
+[Join Quantstamp](https://quantstamp.com/?utm_source=luma) & [Common Defense](https://www.commondefense.ai/?utm_source=luma) for an exclusive night of networking, great conversations, and good vibes in the heart of Gangnam
 
 Expect drinks, exclusive swag, and a curated room of founders, builders, investors, and leaders across Web3, AI, and security.
 
@@ -11103,17 +11091,17 @@ This is an exclusive event with limited capacity. Sign up now to secure your spo
 
 Quantstamp is a global leader in blockchain security. Since 2017, we've secured billions in digital assets and worked with some of the most recognized names in web3.
 
-Follow on X: x.com/quantstamp (https://x.com/quantstamp)
+[Follow on X: x.com/quantstamp](https://x.com/quantstamp)
 
-Learn more: quantstamp.com (https://quantstamp.com)
+[Learn more: quantstamp.com](https://quantstamp.com)
 
 ### Protecting humans from AI-native threats
 
 Defending people and organizations across email, messaging, social platforms, professional networks, and voice and video calls.
 
-Follow on X: x.com/CommonDefenseAI (https://x.com/CommonDefenseAI)
+[Follow on X: x.com/CommonDefenseAI](https://x.com/CommonDefenseAI)
 
-Learn More: commondefense.ai (https://commondefense.ai)
+[Learn More: commondefense.ai](https://commondefense.ai)
 
 ### Media Partner
 
@@ -11121,7 +11109,7 @@ Mira is the discovery platform for digital finance and frontier tech - events, c
 
 Follow on X: https://x.com/miragather
 
-Learn more: miragather.com (https://miragather.com/)
+[Learn more: miragather.com](https://miragather.com/)
 
 <a id="event-dc6c144aec3e0f9b"></a>
 
@@ -11245,7 +11233,7 @@ Event location details will be shared only with approved applicants after ticket
 
 Amigoo Ventures is an institutional liquidity firm and a leader in secondary and OTC private markets for both locked and liquid tokens. With over $31M in assessed dealflow and a deep network of funds, projects, and liquidity providers, we work with buyers and sellers to unlock rare, off‑market opportunities, curating and facilitating exclusive OTC trades across private and liquid token markets.
 
-Connect with us: Website ( (https://amigoo.xyz)Amigoo.xyz (https://Amigoo.xyz)) (https://amigoo.xyz) | X (Twitter) (https://x.com/Teamamigoo) | LinkedIn (https://www.linkedin.com/company/amigoo-go)
+Connect with us: Website ( (https://amigoo.xyz)[Amigoo.xyz](https://Amigoo.xyz)) (https://amigoo.xyz) | X (Twitter) (https://x.com/Teamamigoo) | [LinkedIn](https://www.linkedin.com/company/amigoo-go)
 
 <a id="event-2d7a357b221059aa"></a>
 
@@ -11349,7 +11337,7 @@ Speaker:
 - John Cahill, COO Asia, Galaxy Digital
 - Charles Jansen, Managing Director, DeFi and Digital Assets, S&P Global
 - Henson Orser, Founder & CEO, Soter Insure
-- Mike Silagadze, Founder & CEO, Ether.fi (https://Ether.fi)
+- [Mike Silagadze, Founder & CEO, Ether.fi](https://Ether.fi)
 
 14:25 - 14:55 - Roundtable: Welcome to the Trillion-Dollar Agentic Economy
 
@@ -11379,7 +11367,7 @@ Speaker:
 
 Speaker:
 
-- Andrey Fedorov, CMO & CBDO, Ston.fi (https://Ston.fi)
+- [Andrey Fedorov, CMO & CBDO, Ston.fi](https://Ston.fi)
 
 16:30 - 17:10 - Panel: Agentic AI: Infrastructure, Payments, and the Future of the Agentic Economy
 
@@ -11404,7 +11392,7 @@ Speaker:
 
 ### Community Partners
 
-Coineasy (https://www.coineasy.xyz/?utm_source=luma) (Korea Community Lead) Akindo (https://akindo.io/?utm_source=luma) Four pillars (https://4pillars.io/en?utm_source=luma) Cryptojobs (https://cryptojobslist.com/)
+[Coineasy](https://www.coineasy.xyz/?utm_source=luma) (Korea Community Lead) [Akindo](https://akindo.io/?utm_source=luma) [Four pillars](https://4pillars.io/en?utm_source=luma) [Cryptojobs](https://cryptojobslist.com/)
 
 ### Travel Partner
 
@@ -11412,17 +11400,17 @@ Coineasy (https://www.coineasy.xyz/?utm_source=luma) (Korea Community Lead) Akin
 
 ### Official PR Partner
 
-(https://x.com/ventures_bd?utm_source=luma)Market Across (https://marketacross.com/?utm_source=luma)
+(https://x.com/ventures_bd?utm_source=luma)[Market Across](https://marketacross.com/?utm_source=luma)
 
 ### Media Partners
 
-Pivot (https://pivotintelligence.com/) BD GEMX (https://x.com/BD_GemX?utm_source=luma) BD Ventures (https://x.com/ventures_bd?utm_source=luma) Block Media (https://www.blockmedia.co.kr/) Coin68 (https://coin68.com/)
+[Pivot](https://pivotintelligence.com/) [BD GEMX](https://x.com/BD_GemX?utm_source=luma) [BD Ventures](https://x.com/ventures_bd?utm_source=luma) [Block Media](https://www.blockmedia.co.kr/) [Coin68](https://coin68.com/)
 
-(https://x.com/ventures_bd?utm_source=luma)Mira (https://miragather.com/?utm_source=luma) ㅤ Cointelegraph (https://cointelegraph.com/?utm_source=luma)ㅤ Cryptopolitan (https://www.cryptopolitan.com/) ㅤ Finbold (https://finbold.com/?utm_source=luma)
+(https://x.com/ventures_bd?utm_source=luma)[Mira](https://miragather.com/?utm_source=luma) ㅤ [Cointelegraph](https://cointelegraph.com/?utm_source=luma)ㅤ [Cryptopolitan](https://www.cryptopolitan.com/) ㅤ [Finbold](https://finbold.com/?utm_source=luma)
 
-Foresight News (https://global.foresightnews.pro/?utm_source=luma) TokenPost (https://www.tokenpost.com/) EAK (https://eakdigital.com/) Coin Gabbar (http://CoinGabbar.com)
+[Foresight News](https://global.foresightnews.pro/?utm_source=luma) [TokenPost](https://www.tokenpost.com/) [EAK](https://eakdigital.com/) [Coin Gabbar](http://CoinGabbar.com)
 
-Blockchain Reporter (https://blockchainreporter.net/?utm_source=luma) ㅤ Feixiaohao (https://www.feixiaohao.ai/) ㅤ Coin Gape (https://coingape.com/)
+[Blockchain Reporter](https://blockchainreporter.net/?utm_source=luma) ㅤ [Feixiaohao](https://www.feixiaohao.ai/) ㅤ [Coin Gape](https://coingape.com/)
 
 Previous editions of the Hack Seasons Events:
 
@@ -11456,7 +11444,7 @@ Hosted by FuturaCanvas (Korea's first global art&tech conference). Venue: Platfo
 
 ### Institutional Onchain Rails, Now Live
 
-Bridge Seoul (https://bridge-seoul.com) 2026은 웨이브릿지가 코리아 블록체인 위크 기간에 여는 기관 대상 초청 컨퍼런스입니다. 10월 1일, 여의도에서 국내 금융기관과 정책 담당자, 해외 디지털자산 기업이 한자리에 모입니다.
+[Bridge Seoul](https://bridge-seoul.com) 2026은 웨이브릿지가 코리아 블록체인 위크 기간에 여는 기관 대상 초청 컨퍼런스입니다. 10월 1일, 여의도에서 국내 금융기관과 정책 담당자, 해외 디지털자산 기업이 한자리에 모입니다.
 
 올해 한국 시장은 세 가지 변화를 동시에 지나고 있습니다. 현물 ETF, 디지털자산기본법, 원화 스테이블코인. 기관 자금이 들어올 통로가 하나씩 열리는 중입니다. Bridge Seoul은 그 통로를 실제로 만들고 있는 사람들이 모여, 지금 무엇이 가능하고 무엇이 남았는지 이야기하는 자리입니다.
 
@@ -11514,9 +11502,9 @@ Bridge Seoul (https://bridge-seoul.com) 2026은 웨이브릿지가 코리아 블
 
 티켓 판매는 하지 않습니다. 등록해 주시면 순차적으로 검토해 이메일로 승인 결과를 안내드립니다. 좌석은 250석이며, 정원이 차면 등록을 받지 못할 수 있습니다. 프로그램과 연사는 사정에 따라 변경될 수 있습니다.
 
-bridge-seoul.com (https://bridge-seoul.com) / bridge_seoul@wavebridge.com
+[bridge-seoul.com](https://bridge-seoul.com) / bridge_seoul@wavebridge.com
 
-Bridge Seoul (https://bridge-seoul.com) 2026 is Wavebridge's invitation-only conference for institutions, held during Korea Blockchain Week. On the afternoon of October 1, Korea's financial institutions, policymakers, and global digital-asset firms gather in one room at Yeouido.
+[Bridge Seoul](https://bridge-seoul.com) 2026 is Wavebridge's invitation-only conference for institutions, held during Korea Blockchain Week. On the afternoon of October 1, Korea's financial institutions, policymakers, and global digital-asset firms gather in one room at Yeouido.
 
 Three shifts are moving through the Korean market at once: spot ETFs, the Digital Asset Basic Act, and the KRW stablecoin. One by one, the channels for institutional capital are opening. Bridge Seoul brings together the people actually building those channels, to talk about what is possible today and what still has to be solved.
 
@@ -11635,7 +11623,7 @@ The Capital Summit is a curated institutional forum focused on how capital marke
 
 The summit exists to connect institutional capital with the people building onchain financial infrastructure - not as a trade show, but as a focused forum where allocators, operators, and builders meet across Asia and beyond.
 
-Website (https://thecapitalsummit.ai/) | X (https://x.com/CapSummitGlobal) | LinkedIn (https://www.linkedin.com/company/the-capital-summit) | YouTube (https://www.youtube.com/@The_Capital_Summit)
+[Website](https://thecapitalsummit.ai/) | [X](https://x.com/CapSummitGlobal) | [LinkedIn](https://www.linkedin.com/company/the-capital-summit) | [YouTube](https://www.youtube.com/@The_Capital_Summit)
 
 ### About Asia Stablecoin Alliance
 
@@ -11643,9 +11631,9 @@ The Asia Stablecoin Alliance (ASA) is an initiative to accelerate stablecoin ado
 
 The alliance exists to give Asia its own voice, perspective, and coordination in stablecoin innovation. It is not a top down authority, but a network of people working together to move the ecosystem forward.
 
-Website (https://asiastable.org/) | X (https://x.com/AsiaStablecoin) | Substack (https://asiastablecoin.substack.com/)
+[Website](https://asiastable.org/) | [X](https://x.com/AsiaStablecoin) | [Substack](https://asiastablecoin.substack.com/)
 
-Get in touch (https://t.me/heechang_fp)
+[Get in touch](https://t.me/heechang_fp)
 
 <a id="event-2dc5f786e8a6d559"></a>
 
@@ -11665,7 +11653,7 @@ Join us in Seoul during KBW for a relaxed night with the Sanctum community and t
 
 Come hang. We might have a surprise or nine.
 
-Follow Sanctum (https://x.com/sanctumso) & Sanctum App (https://x.com/sanctumapp) for more updates!
+[Follow Sanctum](https://x.com/sanctumso) & [Sanctum App](https://x.com/sanctumapp) for more updates!
 
 Sanctum이 최근 Solana TVL 1위를 달성했습니다. 이를 기념해 커뮤니티와 함께하는 자리를 준비했습니다.
 
@@ -11673,7 +11661,7 @@ KBW 기간 서울에서 Sanctum 커뮤니티와 팀을 만나 편하게 이야�
 
 편하게 놀러 오세요. 깜짝 놀랄 일이 하나가 아니라 아홉 개쯤 있을지도요.
 
-최신 소식은 Sanctum (https://x.com/sanctumso) & Sanctum App (https://x.com/sanctumapp) 을 팔로우해 주세요.
+최신 소식은 [Sanctum](https://x.com/sanctumso) & [Sanctum App](https://x.com/sanctumapp) 을 팔로우해 주세요.
 
 ### About Sanctum
 
@@ -11683,7 +11671,7 @@ Through Infinity, Sanctum enables deep liquidity and composability for liquid st
 
 Trusted by leading institutions and Nasdaq-listed companies including Forward Industries, DFDV, and STSS.
 
-Learn more at sanctum.so (http://sanctum.so).
+[Learn more at sanctum.so](http://sanctum.so).
 
 ### Sanctum 소개
 
@@ -11693,19 +11681,19 @@ Sanctum의 Infinity를 통해 LST 프로젝트는 높은 유동성과 뛰어난 
 
 Forward Industries, DFDV, STSS를 포함한 주요 기관 및 Nasdaq 상장 기업들이 Sanctum의 인프라를 활용하고 있습니다.
 
-자세한 내용은 sanctum.so (https://sanctum.so)에서 확인하세요.
+자세한 내용은 [sanctum.so](https://sanctum.so)에서 확인하세요.
 
 ### About Superteam Korea
 
 Superteam Korea is the official Korean chapter of the global Superteam network and a Solana Foundation-supported community for builders and founders. It connects talented developers and entrepreneurs in Korea to learn, earn, and launch projects on Solana, helping grow the local Web3 ecosystem.
 
-Learn more at superteamkr.com (https://www.superteamkr.com/)
+[Learn more at superteamkr.com](https://www.superteamkr.com/)
 
 ### Superteam Korea 소개
 
 Superteam Korea는 글로벌 Superteam 네트워크의 공식 한국 지부이자 Solana Foundation의 지원을 받는 커뮤니티입니다. 한국의 개발자, 창업가, 빌더들이 Solana 생태계에서 배우고, 기회를 얻고, 프로젝트를 출시할 수 있도록 연결하며 국내 Web3 생태계의 성장을 지원합니다.
 
-자세한 내용은 superteamkr.com (https://superteamkr.com)에서 확인하세요.
+자세한 내용은 [superteamkr.com](https://superteamkr.com)에서 확인하세요.
 
 <a id="event-27952f0df0ef5c47"></a>
 
@@ -11753,22 +11741,22 @@ Co-Hosted by DCS and PayDify
 
 Backed by DCS Group's 50+ year heritage in global payments, DCSPay (operated via DCS Fintech Hong Kong Limited) is a compliant payment platform enabling Web2 and Web2.5 businesses to accept stablecoins with seamless fiat settlement. DCSPay handles payment collection, fund management, and bank payouts within a single, regulated infrastructure - removing wallet, liquidity, and regulatory complexity.
 
-- Website: dcspay.com (https://dcspay.com)
-- Socials: X (https://x.com/DCSPay) | LinkedIn (https://www.linkedin.com/company/dcspay)
+- [Website: dcspay.com](https://dcspay.com)
+- [Socials: X](https://x.com/DCSPay) | [LinkedIn](https://www.linkedin.com/company/dcspay)
 
 ### About Paydify
 
 Paydify is a payments technology layer facilitating fast, direct stablecoin transactions between users and merchants. Designed for Web3 and digitally native businesses, Paydify enables instant on-chain payments across major wallets and blockchains - giving merchants full control without intermediaries or third-party custody.
 
-- Website: paydify.com (https://paydify.com)
-- Socials: X (https://x.com/Paydify_) | LinkedIn (https://www.linkedin.com/company/paydify_)
+- [Website: paydify.com](https://paydify.com)
+- [Socials: X](https://x.com/Paydify_) | [LinkedIn](https://www.linkedin.com/company/paydify_)
 
 ### About Ultra Web3 Festival
 
 ULTRA Web3 Festival is a first-of-its-kind event IP merging the gravitas of a premier Web3 summit, the scope of a global tech conference, and the high-energy atmosphere of a festival into one unified convergence gathering. It serves as the ultimate intersection where Web3, Traditional Finance (TradFi), Artificial Intelligence (AI), Real-World Assets (RWA), and emerging technologies connect to build the future of the digital economy.
 
-- Website: ultraweb3fest.io (https://ultraweb3fest.io/)
-- Socials: X (https://x.com/UltraWeb3Fest) | LinkedIn (https://www.linkedin.com/company/ultraweb3fest/)
+- [Website: ultraweb3fest.io](https://ultraweb3fest.io/)
+- [Socials: X](https://x.com/UltraWeb3Fest) | [LinkedIn](https://www.linkedin.com/company/ultraweb3fest/)
 
 ### About EMERGE
 
@@ -12012,28 +12000,28 @@ A high-tech, immersive venue in the heart of Gangnam, featuring a massive 14-met
 
 ### About Zero Gravity (0G)
 
-0G is the blockchain for AI agents. Modular storage, compute, data availability, and an AI-first chain in one stack. Every AI action verified onchain. Build your first AI agent app in minutes. (https://app.0g.ai/?utm_source=luma)
+0G is the blockchain for AI agents. Modular storage, compute, data availability, and an AI-first chain in one stack. Every AI action [verified onchain. Build your first AI agent app in minutes.](https://app.0g.ai/?utm_source=luma)
 
-- Website (https://0g.ai/?utm_source=luma)
+- [Website](https://0g.ai/?utm_source=luma)
 - (https://x.com/SentientAGI?utm_source=luma) X (Twitter) (https://x.com/0G_labs?utm_source=luma)
-- Discord (https://discord.com/invite/0glabs?utm_source=luma)
-- Telegram (https://t.me/web3_0glabs?utm_source=luma)
+- [Discord](https://discord.com/invite/0glabs?utm_source=luma)
+- [Telegram](https://t.me/web3_0glabs?utm_source=luma)
 
 ### Ecosystem Projects
 
 Maneki AI is a multi-agent AI trading platform where specialized agents collaborate across market research, strategy, execution, and review. Every decision is transparent and explainable, allowing users to understand why an agent acts - not just what it does. Through continuous feedback, memory, and performance review, Maneki agents can learn from past results and continuously evolve their strategies.
 
-- Website (https://manekiai.io/)
+- [Website](https://manekiai.io/)
 - (https://x.com/SentientAGI?utm_source=luma) X (Twitter) (https://x.com/ManekiaiX)
 
 WhaleDance is the trading app where humans and AI agents research, debate, and trade in the same market. Smart money, literally.
 
-- Website (https://whale.dance)
+- [Website](https://whale.dance)
 - (https://x.com/SentientAGI?utm_source=luma) X (Twitter) (https://x.com/whaledotdance)
 
 Zia is an AI agent for DeFi: manage liquidity, execute trades, and analyze markets through natural language. It optimizes liquidity incentives automatically and migrates LP positions cross-chain in one click, backed by a proprietary data layer that reads onchain activity and sentiment against your specific positions, not just the market. Zia is the largest DEX on 0G Chain and is live on Robinhood Chain.
 
-- Websit (https://zia.finance)e (https:// https://zia.finance/)
+- [Websit](https://zia.finance)e (https:// https://zia.finance/)
 - (https://x.com/SentientAGI?utm_source=luma) X (Twitter) (https://x.com/zia_finance)
 
 <a id="event-47e17a4afc537922"></a>
@@ -12093,25 +12081,25 @@ Entertainment - Game zone, photo booth and raffle prizes
 
 ︎ This event is ENGLISH ONLY and translation to Korean is not supported.
 
-### ORBS
+### [ORBS]
 
 https://www.orbs.com/ko/?utm_source=luma
 
 Orbs is a decentralized Layer-3 (L3) blockchain infrastructure designed specifically for advanced on-chain trading. Orbs improves on-chain trading by providing technology for aggregated liquidity, advanced trading orders, and decentralized derivatives.
 
-### INJECTIVE
+### [INJECTIVE]
 
 https://injective.com/
 
 Injective is a lightning fast interoperable layer one blockchain optimized for building premier Web3 finance applications. Injective provides developers with powerful plug-and-play modules for creating unmatched dApps. Injective is incubated by Binance and is backed by prominent investors such as Jump Crypto, Pantera and Mark Cuban.
 
-### STABLE
+### [STABLE]
 
 https://www.stable.xyz/
 
 Stable is a blockchain purpose-built for stablecoin payments. It provides a settlement layer where value moves in USD₮ with consistent performance, predictable fees, and sub-second finality
 
-### PEAR
+### [PEAR]
 
 https://www.pear.garden/
 
@@ -12121,7 +12109,7 @@ Pear Protocol is a pair and basket trading platform for perpetual futures built 
 
 Stagraph is a non-custodial staking service built for institutions. It's backed by Ginco, a Japan-based Web3 infrastructure company trusted by major financial institutions. Stagraph currently supports GRAM (TON) and XDC, with others on the way.
 
-### DeltaForesight
+### [DeltaForesight]
 
 https://deltaforesight.com/en/
 
@@ -12129,17 +12117,17 @@ DeltaForesight is a Japan-based company specializing in crypto assets and stable
 
 ### Media partners
 
-CoinNess (https://coinness.com/?utm_source=luma)
+[CoinNess](https://coinness.com/?utm_source=luma)
 
 CoinNess is Korea's largest crypto media + community platform. We provide a space for everything crypto-related including real-time news, press releases, and market data.
 
 Since our launch in 2018, we have accumulated over 1M+ MAU and 150K+ DAU. Currently, we are the only non-exchange media platform with this amount of coverage and traffic.
 
-BlockMedia (https://www.eblockmedia.com/?utm_source=luma)
+[BlockMedia](https://www.eblockmedia.com/?utm_source=luma)
 
 Blockmedia is Korea's leading Blockchain and Crypto media outlet.
 
-We have an exclusive news provision contract with CMC for Korean users. You can also find us on YouTube (https://www.youtube.com/@Blockmedia) (over 58K subscribers), Telegram (https://t.me/blockmedia) (over 35K members) and X (https://x.com/with_blockmedia) (over 35K members).
+We have an exclusive news provision contract [with CMC for Korean users. You can also find us on YouTube](https://www.youtube.com/@Blockmedia) (over 58K subscribers), [Telegram](https://t.me/blockmedia) (over 35K members) [and X](https://x.com/with_blockmedia) (over 35K members).
 
 한스경제(Hansbiz) (https://www.hansbiz.co.kr/)
 
@@ -12203,19 +12191,19 @@ EASYCON의 귀여운 EasyBoy frens를 행사장 곳곳에서 만나보세요. �
 
 ### Our media partners
 
-Tokenpost (https://t.co/Litxvu6uSn?utm_source=luma)
+[Tokenpost](https://t.co/Litxvu6uSn?utm_source=luma)
 
 Korea's #1 Crypto media outlet in South Korea since Feb 2017. specialises in blockchain technology and the digital asset ecosystem.
 
-Blockmedia (https://www.blockmedia.co.kr/?utm_source=luma)
+[Blockmedia](https://www.blockmedia.co.kr/?utm_source=luma)
 
 A leading blockchain-focused media outlet in Korea, known for trusted local-market coverage and deep insight into the Korean Web3 ecosystem.
 
-CoinNess (https://coinness.com/?utm_source=luma)
+[CoinNess](https://coinness.com/?utm_source=luma)
 
 One of Korea's best-known crypto media and community platforms, bringing together real-time news, market data, press releases, and community discussion.
 
-Mpost (https://mpost.io/?referrer=luma&utm_source=luma)
+[Mpost](https://mpost.io/?referrer=luma&utm_source=luma)
 
 A global Web3 and AI media platform within the Cryptomeria Capital ecosystem and the team behind the Hack Seasons conference series.
 
@@ -12401,7 +12389,7 @@ https://standx.com/?utm_source=luma
 
 StandX is an On-Chain Trading Platform bringing Capital-Efficient Perpetual Markets to BNB Chain and Solana. Powered by DUSD - a Margin Asset that continues Earning Yield while used for Trading - StandX is Building Universal Markets and Universal Yield, Keeping Capital Productive even while Traders Remain in the Market.
 
-Official Channel on X (https://x.com/StandX_Official)
+[Official Channel on X](https://x.com/StandX_Official)
 
 ### 라이즈엑스(RISEx)
 
@@ -12411,7 +12399,7 @@ https://www.rise.trade/ko/trade/BTC?utm_source=luma
 
 RISEx is one of the Fastest-Growing Fully On-Chain Perpetual Exchanges, built on RISE, the fastest EVM Layer 2. Combining CEX-Grade Speed and Execution with Deep Capital Efficiency, Real-Time Settlement, and Transparent Liquidity, RISEx delivers a High-Performance Trading Experience - Fully On-Chain, without Compromise.
 
-Official Channel on X (https://x.com/risextrade?s=20)
+[Official Channel on X](https://x.com/risextrade?s=20)
 
 ### 터보플로우(TurboFlow)
 
@@ -12421,7 +12409,7 @@ https://www.turboflow.xyz/?utm_source=luma
 
 TurboFlow is an APAC-First On-Chain Trading Platform bringing Perpetuals and Event Contracts Together in One Seamless Venue. From $2 Event Contracts that Settle in as little as 30 seconds to Perpetuals with up to 1,000x Leverage, it makes Powerful Market Access Simple for Everyday Traders. Backed by Pantera Capital, Susquehanna Crypto, and DCG, TurboFlow is Built On a Simple Belief : Everyone Gets a Seat.
 
-Official Channel on X (https://x.com/TurboFlow_xyz?s=20)
+[Official Channel on X](https://x.com/TurboFlow_xyz?s=20)
 
 오늘 밤, 무슨 일이 벌어지나요?
 
@@ -12486,7 +12474,7 @@ TurboFlow의 시그니처 상품, Event Contract로 진행되는 초스피드 �
 
 On KBW's second night, we're gathering a small, curated group of LPs, family offices, and funds around one table. A full course dinner in a private room, and conversation that wouldn't happen on a conference floor.
 
-Hosted at the table by Essi Lagevardi, (https://x.com/SuperChad15) CEO of Turtle, (https://x.com/turtledotxyz) with partners from Compound Foundation. (https://x.com/Compound_xyz)
+[Hosted at the table by Essi Lagevardi,](https://x.com/SuperChad15) [CEO of Turtle,](https://x.com/turtledotxyz) [with partners from Compound Foundation.](https://x.com/Compound_xyz)
 
 Date: Thursday, 1 October 2026
 
@@ -12496,9 +12484,9 @@ Venue: Private dining room, Gangnam - details shared upon confirmation
 
 Format: Full course menu, full service
 
-Hosted by: Turtle (https://x.com/turtledotxyz) & Lunar Strategy (https://x.com/LunarStrategy)
+[Hosted by: Turtle](https://x.com/turtledotxyz) & [Lunar Strategy](https://x.com/LunarStrategy)
 
-Co-host: Compound Foundation (https://x.com/Compound_xyz)
+[Co-host: Compound Foundation](https://x.com/Compound_xyz)
 
 ### The evening
 
@@ -12737,13 +12725,13 @@ Stellar Development Foundation
 
 SDF is a nonprofit creating equitable access to the global financial system through blockchain technology. The Stellar network carries payments, cross-border settlement, tokenized real-world assets, and fiat on and off-ramps.
 
-X (https://x.com/StellarOrg) | Website (https://stellar.org/)
+[X](https://x.com/StellarOrg) | [Website](https://stellar.org/)
 
 Exodus
 
 Exodus is self-custody across desktop, mobile and hardware, covering 100,000+ assets with swaps, staking and payments built into the wallet. Building since 2015 on one idea: crypto should not require a manual.
 
-X (https://x.com/exodus) | Website (https://www.exodus.com/)
+[X](https://x.com/exodus) | [Website](https://www.exodus.com/)
 
 OSL Group (HKEX: 863)
 
@@ -12755,7 +12743,7 @@ Banxa: Global Infrastructure Provider for Crypto On- and Off-Ramping
 
 USDGO: Federally Regulated Enterprise Stablecoin 1:1 Backed by USD. From $0 to $1.3B market cap within 6 months.
 
-X (https://x.com/osldotcom) | Website (https://group.osl.com/en)
+[X](https://x.com/osldotcom) | [Website](https://group.osl.com/en)
 
 <a id="event-b986b4f61c8b9954"></a>
 
@@ -12778,7 +12766,7 @@ Location: SOAP Seoul, Korea
 ### How to get our limited free official tickets
 
 1) Copy our 100% off PROMO-CODE: KBW2026
-2) Visit our official link here: RaveDAO KBW (https://plvr.io/t/0237ed679036)
+2) [Visit our official link here: RaveDAO KBW](https://plvr.io/t/0237ed679036)
 3) Press Book Now and proceed to Checkout with the exclusive promocode
 
 ### Event Overview
@@ -12851,7 +12839,7 @@ Snack, snap & stay Stark at KBW!
 
 All guests must register. Entry is first-come, first-served.
 
-Follow us on X (https://x.com/StarknetFndn?utm_source=luma)
+[Follow us on X](https://x.com/StarknetFndn?utm_source=luma)
 
 Starknet is the original Zero-Knowledge Rollup - a battle-tested Ethereum Layer 2 blockchain with over $1.36T in cumulative trading volume. Built by StarkWare Ltd., and backed by leading investors including Sequoia, Paradigm, Coinbase Ventures, and Pantera, Starknet has already brought hyperscale and ultra-low fees to Ethereum.
 
@@ -12879,12 +12867,12 @@ Please note: Seating is limited, and RSVPs are subject to approval.
 
 ### About Zero Gravity (0G)
 
-0G is the blockchain for AI agents. Modular storage, compute, data availability, and an AI-first chain in one stack. Every AI action verified onchain. Build your first AI agent app in minutes. (https://app.0g.ai/?utm_source=luma)
+0G is the blockchain for AI agents. Modular storage, compute, data availability, and an AI-first chain in one stack. Every AI action [verified onchain. Build your first AI agent app in minutes.](https://app.0g.ai/?utm_source=luma)
 
-- Website (https://0g.ai/?utm_source=luma)
+- [Website](https://0g.ai/?utm_source=luma)
 - (https://emojipedia.org/cross-mark?utm_source=luma) X (Twitter) (https://x.com/0G_labs?utm_source=luma)
-- Discord (https://discord.com/invite/0glabs?utm_source=luma)
-- Telegram (https://t.me/web3_0glabs?utm_source=luma)
+- [Discord](https://discord.com/invite/0glabs?utm_source=luma)
+- [Telegram](https://t.me/web3_0glabs?utm_source=luma)
 
 <a id="event-94805944e58c8984"></a>
 
@@ -12912,7 +12900,7 @@ We're expecting a full house, and space at the venue is limited. Once approved, 
 
 Please note: parking is not provided at the venue, so plan your travel accordingly.
 
-Follow BNB Chain on X (https://twitter.com/BNBCHAIN?utm_source=luma) for the latest updates.
+[Follow BNB Chain on X](https://twitter.com/BNBCHAIN?utm_source=luma) for the latest updates.
 
 ### BNB 서울이 돌아옵니다
 
@@ -12928,7 +12916,7 @@ Follow BNB Chain on X (https://twitter.com/BNBCHAIN?utm_source=luma) for the lat
 
 현장에 별도의 주차 공간은 제공되지 않으니 방문 계획 시 참고해 주세요.
 
-최신 소식은 X (https://x.com/BNBCHAIN)에서 BNB 체인 계정을 통해서 확인해보세요.
+최신 소식은 [X](https://x.com/BNBCHAIN)에서 BNB 체인 계정을 통해서 확인해보세요.
 
 <a id="event-262683c757a6882e"></a>
 
@@ -12958,7 +12946,7 @@ Come for the market talk, stay for the connections.
 
 ### About the hosts
 
-Sharding Capital (https://x.com/ShardingCapital?utm_source=luma): is an early-stage, web3-native fund based in the UAE. We back visionary founders from day one, providing hands-on support and extensive distribution networks across global markets.
+[Sharding Capital](https://x.com/ShardingCapital?utm_source=luma): is an early-stage, web3-native fund based in the UAE. We back visionary founders from day one, providing hands-on support and extensive distribution networks across global markets.
 
 <a id="event-7152b7f24801dea7"></a>
 
@@ -12973,20 +12961,20 @@ Sharding Capital (https://x.com/ShardingCapital?utm_source=luma): is an early-st
 ### 이 무대에 서고 싶다면?
 
 - 개발자라면
-  - Midnight Korea Hackathon 참가하기 (https://luma.com/2pnv2fwk?utm_source=privacynight)
+  - [Midnight Korea Hackathon 참가하기](https://luma.com/2pnv2fwk?utm_source=privacynight)
 - 연사라면
   - 연사 신청 폼 (https://tally.so/r/LZ2JKG)
 
 ### Want to be on this stage?
 
 - If you build
-  - Join the Midnight Korea Hackathon (https://luma.com/2pnv2fwk?utm_source=privacynight)
+  - [Join the Midnight Korea Hackathon](https://luma.com/2pnv2fwk?utm_source=privacynight)
 - If you speak
-  - Speaker Application Form (https://tally.so/r/LZ2JKG)
+  - [Speaker Application Form](https://tally.so/r/LZ2JKG)
 
 ### Enter the Night
 
-> 9월 한 달간 진행된 Midnight Korea Hackathon 2026 (https://luma.com/2pnv2fwk)의 결과물이 Korea Blockchain Week 기간 서울에서 공개됩니다.
+> 9월 한 달간 진행된 [Midnight Korea Hackathon 2026](https://luma.com/2pnv2fwk)의 결과물이 Korea Blockchain Week 기간 서울에서 공개됩니다.
 
 >
 
@@ -13277,19 +13265,19 @@ Covey
 
 An embedded engineering, advisory, execution and capital partner for ambitious crypto and AI companies.
 
-covey.tech (https://covey.tech)
+[covey.tech](https://covey.tech)
 
 Saffron
 
 DeFi infrastructure enabling new ways to structure, deploy and access onchain liquidity and fee generation.
 
-saffron.finance (https://saffron.finance)
+[saffron.finance](https://saffron.finance)
 
 CryptosBatman
 
 Crypto investor, market commentator and connector across the global digital asset ecosystem.
 
-x.com/cryptosbatman (https://x.com/cryptosbatman)
+[x.com/cryptosbatman](https://x.com/cryptosbatman)
 
 Access
 
@@ -13393,37 +13381,37 @@ DCENT is a self-custody wallet built to make owning and using cryptocurrencies s
 
 Beyond Storage. Own Your Future, At Ease.
 
-Official Website (https://www.dcentwallet.com) - X (Korea) (https://x.com/DCENTWALLETS_KR) - X (Global) (https://x.com/DCENTWALLETS)
+[Official Website](https://www.dcentwallet.com) - X (Korea) (https://x.com/DCENTWALLETS_KR) - X (Global) (https://x.com/DCENTWALLETS)
 
 ### Flare
 
 Flare는 그동안 활용되지 못했던 디지털 자산을 실질적으로 운용 가능한 자본으로 전환하는 데이터 및 컴퓨팅 레이어입니다. XRPFi는 이를 보여주는 첫 번째이자 가장 대표적인 사례입니다. FXRP를 통해 XRP 홀더들은 그동안 스마트 컨트랙트 생태계 밖에 머물러 있던 XRP를 대출과 볼트(Vault)를 비롯한 온체인 금융에 활용할 수 있습니다. 현재까지 1억 5천만 XRP 이상이 Flare로 이동했습니다.
 
-공식 웹페이지 (https://xrpfi.flare.network/)- 한국 공식 X (https://x.com/FlareNetworksKR)- 영문 공식 X (https://x.com/FlareNetworks)
+공식 웹페이지 (https://xrpfi.flare.network/)- 한국 공식 [X](https://x.com/FlareNetworksKR)- 영문 공식 [X](https://x.com/FlareNetworks)
 
 Flare is the data and compute layer that turns dormant digital assets into working capital. XRPFi is the first and largest example. Through FXRP, XRP holders can take an asset that has largely lived outside smart contract ecosystems and put it to work in onchain finance, such as lending and vaults. More than 150 million XRP has already moved onto Flare.
 
-Official Website (https://xrpfi.flare.network) - X (Korea) (https://x.com/FlareNetworksKR) - X (Global) (https://x.com/FlareNetworks)
+[Official Website](https://xrpfi.flare.network) - X (Korea) (https://x.com/FlareNetworksKR) - X (Global) (https://x.com/FlareNetworks)
 
 ### SOIL
 
 SOIL은 XRP Ledger 위에 네이티브로 구축된 기관급 수익 프로토콜입니다. 래핑도 브리징도 없이 XRP와 RLUSD를 온체인 볼트에서 운용합니다. 수익은 토큰 인센티브가 아니라 실제 기관 전략 - 프라임 브로커-헤지펀드 대상 담보 대출, 프라이빗 크레딧, 마켓 뉴트럴 디지털 자산 헤지펀드 배분 - 에서 나오며, 규제 자산운용 분야에서 다년간의 트랙 레코드를 쌓아온 팀이 직접 운용합니다. SOIL은 폴란드와 몰타의 라이선스 자산운용사 및 펀드를 통해 3억 1천만 달러 이상을 운용하는 ORQO Digital의 일원입니다.
 
-공식 웹페이지 (https://soil.co) - 공식 X (https://x.com/FlareNetworks)- 링크드인 (https://linkedin.com/company/soilfarm)
+공식 웹페이지 (https://soil.co) - 공식 [X](https://x.com/FlareNetworks)- 링크드인 (https://linkedin.com/company/soilfarm)
 
 SOIL is an institutional-grade yield protocol built natively on the XRP Ledger. It puts XRP and RLUSD to work in on-chain vaults - no wrapping, no bridging. Yield is generated from real institutional strategies, not token emissions: secured lending to prime brokers and hedge funds, private credit, and allocations to market-neutral digital asset hedge funds - all run by a team with a multi-year track record in regulated asset management. SOIL is part of ORQO Digital, a group with $310M+ under management across licensed asset managers and funds in Poland and Malta.
 
-Official Website (https://soil.co) - X (https://x.com/soil_farm) - LinkedIn (https://linkedin.com/company/soilfarm)
+[Official Website](https://soil.co) - [X](https://x.com/soil_farm) - [LinkedIn](https://linkedin.com/company/soilfarm)
 
 ### t54
 
 t54 Labs는 에이전틱 이코노미(agentic economy)를 위한 신뢰 레이어를 만듭니다. 기관과 애플리케이션이 에이전트의 신원과 의도를 검증하고, 자금이 움직이기 전에 거래-상대방 리스크를 평가하며, 컴플라이언스와 책임 추적을 위한 증적을 남길 수 있도록 리스크-언더라이팅 인프라를 제공합니다. 또한 이러한 통제 장치를 에이전트가 실제로 거래하는 프로토콜과 금융 레일 위에 구현하는 에이전틱 금융 인프라를 개발하고 있습니다.
 
-공식 웹페이지 (https://t54.ai) - 공식 X (https://x.com/t54ai)- 한국 텔레그램 채널 (https://t.me/t54ai_Korea)
+공식 웹페이지 (https://t54.ai) - 공식 [X](https://x.com/t54ai)- 한국 텔레그램 채널 (https://t.me/t54ai_Korea)
 
 t54 Labs is building the trust layer for the agentic economy. It provides risk and underwriting infrastructure that helps institutions and applications verify agent identity and intent, assess transaction and counterparty risk before money moves, and preserve evidence for compliance and accountability. t54 also develops agentic financial infrastructure that brings these controls to the protocols and financial rails where agents transact.
 
-Official Website (https://t54.ai) - X (https://x.com/t54ai) - Telegram (Korea) (https://t.me/t54ai_Korea)
+[Official Website](https://t54.ai) - [X](https://x.com/t54ai) - Telegram (Korea) (https://t.me/t54ai_Korea)
 
 ### Santiment
 
@@ -13433,17 +13421,17 @@ Official Website (https://t54.ai) - X (https://x.com/t54ai) - Telegram (Korea) (
 
 Price tells you what happened. Santiment shows what people did around it - coins moving off exchanges, whales going quiet, sentiment turning. Since 2016, Santiment has supplied funds, traders, and analysts with on-chain, social, and financial data on Bitcoin, Ethereum, and 2,800+ other assets.
 
-Official Website (https://santiment.net) - Telegram (https://t.me/santiment_network) - Discord (https://discord.gg/MRya3zxh5u)
+[Official Website](https://santiment.net) - [Telegram](https://t.me/santiment_network) - [Discord](https://discord.gg/MRya3zxh5u)
 
 ### SIVAX
 
 SIVAX는 XRP Ledger 기반의 구조화 수익 플랫폼입니다. 전통 금융에서 검증된 구조화 전략(ex. FCN, ELS, 커버드콜 등)을 상시 운용 펀드 하나에 담아 온체인으로 옮겼고, 진입 후 배분-헤징-리스크 관리는 전략 엔진이 처리합니다. 수익의 원천이 토큰 인센티브나 레버리지 수요가 아닌 변동성이라 기존 web3 수익과 상관관계가 낮고, 이미 운용 중인 전략 위에 더할 수 있는 별도의 수익 레이어가 됩니다. 자산은 온체인 볼트에서 누구나 확인할 수 있으며 수익은 매일 지급됩니다.
 
-공식 웹페이지 (https://sivax.io) - 공식 X (https://x.com/sivax_official)
+공식 웹페이지 (https://sivax.io) - 공식 [X](https://x.com/sivax_official)
 
 SIVAX is a structured income platform on the XRP Ledger. It takes strategies that have been running in traditional finance for decades (e.g. FCNs, ELS, covered calls) and puts them in a single always-on fund. You enter once, and the engine handles allocation, hedging and risk from there. Returns come from volatility rather than token emissions or leverage demand, so they have little correlation with staking, LP or lending yields. SIVAX is a layer you add to a web3 portfolio, not one you swap in. Assets sit in an on-chain vault anyone can verify, and payouts go out daily.
 
-Official Website (https://sivax.io) - X (https://x.com/sivax_official)
+[Official Website](https://sivax.io) - [X](https://x.com/sivax_official)
 
 ### Event Information
 
@@ -13592,13 +13580,13 @@ Venue: Grand Hyatt Seoul, Seoul. Organized by XRPL Korea. The event takes place 
 
 노딧(Nodit)은 람다256이 운영하는 엔터프라이즈 온체인 인프라 플랫폼입니다. 50개 이상의 블록체인 네트워크에서 노드를 운영하며 일 평균 4억 건 이상의 트랜잭션을 처리하고, 업비트, 코인원, 디지털X 등 국내 주요 거래소와 금융기관이 도입했습니다. 국내 블록체인 기술기업 최초로 SOC 2 Type I-II 인증을 획득한 운영 체계를 기반으로, 업비트를 비롯한 대규모 디지털 자산 서비스 운영 경험을 살려 디지털 자산 생태계를 지탱하는 핵심 인프라를 만들어가고 있습니다.
 
-Website (https://www.nodit.io/) l X(Twitter) (https://x.com/NoditPlatform) l Linkedin (https://www.linkedin.com/company/lambda256/)
+[Website](https://www.nodit.io/) l X(Twitter) (https://x.com/NoditPlatform) [l Linkedin](https://www.linkedin.com/company/lambda256/)
 
 ### About Lambda256
 
 람다256은 금융기관이 디지털 자산 비즈니스를 안전하게 도입하고 운영할 수 있게 하는 온체인 금융 플랫폼을 제공하는 블록체인 전문 기술기업입니다. 두나무의 블록체인 연구소에서 출발해 2019년 설립된 이후, 엔터프라이즈급 블록체인 노드-데이터 풀스택 인프라 플랫폼 노딧(Nodit), 온체인 AML/FDS 컴플라이언스 플랫폼 클레어(CLAIR), 그리고 온체인 금융 오케스트레이션 플랫폼 스코프(SCOPE)를 중심으로 블록체인 기술의 상용화와 금융 데이터 생태계 조성을 선도하고 있습니다.
 
-Website (https://www.lambda256.io/)
+[Website](https://www.lambda256.io/)
 
 <a id="event-ae2465f54a75117b"></a>
 
@@ -13743,63 +13731,63 @@ Expect the biggest human rights x neo-cypherpunk festival. Buenos Aires edition 
 
 Curatorial note: we assemble speakers on intersection between digital rights, FOSS, decentralisation & cryptography.
 
-They propose practical solutions for global challenges from polarisation in social media to raise of dictatorships. Challenge internet shutdowns, abuse of digital identity, & attacks on encryption. With proven track record from @EFF (https://x.com/EFF) to @brave (https://x.com/brave).
+They propose practical solutions for global challenges from polarisation in social media to raise of dictatorships. Challenge internet shutdowns, abuse of digital identity, & [attacks on encryption. With proven track record from @EFF](https://x.com/EFF) [to @brave](https://x.com/brave).
 
 Welcome to Mumbai!
 
-@kurtopsahl (https://x.com/kurtopsahl) x @FilFoundation (https://x.com/FilFoundation) for long-lasting defence of encryption in EFF, exceptional human qualities and bridging gap betwen old & new cypherpunks
+@[kurtopsahl](https://x.com/kurtopsahl) [x @FilFoundation](https://x.com/FilFoundation) for long-lasting defence of encryption in EFF, exceptional human qualities and bridging gap betwen old & new cypherpunks
 
-@Isa (https://x.com/Isa) x @torproject (https://x.com/torproject) for exceptional work on harmonizing network-level privacy and digital rights
+@[Isa](https://x.com/Isa) [x @torproject](https://x.com/torproject) for exceptional work on harmonizing network-level privacy and digital rights
 
-@ghappour (https://x.com/ghappour) x flashbots for matching digital rights & web3 culture. Being a real representative of privacy-first, encryption-centric narrative across borders & ecosystems.
+@[ghappour](https://x.com/ghappour) x flashbots for matching digital rights & web3 culture. Being a real representative of privacy-first, encryption-centric narrative across borders & ecosystems.
 
-@therealyingtong (https://x.com/therealyingtong) for proving that real-world cryptography exists in practice & can serve marginalized people
+@[therealyingtong](https://x.com/therealyingtong) for proving that real-world cryptography exists in practice & can serve marginalized people
 
-Justin Drake (https://x.com/drakefjustin) - key Ethereum Foundation protocol researcher
+[Justin Drake](https://x.com/drakefjustin) - key Ethereum Foundation protocol researcher
 
-@lunardragon420 (https://x.com/lunardragon420) x @DarkFiSquad (https://x.com/DarkFiSquad) for uncompromising values & visionary ideas on both tech activism & role of code
+@[lunardragon420](https://x.com/lunardragon420) [x @DarkFiSquad](https://x.com/DarkFiSquad) for uncompromising values & visionary ideas on both tech activism & role of code
 
-@mala (https://x.com/mala) x @FilFoundation (https://x.com/FilFoundation) for openness to transition old cypherpunk narratives into compeling and positive knowledge for the future to come
+@[mala](https://x.com/mala) [x @FilFoundation](https://x.com/FilFoundation) for openness to transition old cypherpunk narratives into compeling and positive knowledge for the future to come
 
-@jaromil (https://x.com/jaromil) x @DyneOrg (https://x.com/DyneOrg) for balancing hacktivist culture with digital identity challenges, defending civic society by representing us in institutions
+@[jaromil](https://x.com/jaromil) [x @DyneOrg](https://x.com/DyneOrg) for balancing hacktivist culture with digital identity challenges, defending civic society by representing us in institutions
 
-@ml_sudo (https://x.com/ml_sudo) x @ethereumfndn (https://x.com/ethereumfndn)'s Silviculture for accelerating meaningful cryptography & culture across ecosystems
+@[ml_sudo](https://x.com/ml_sudo) [x @ethereumfndn](https://x.com/ethereumfndn)'s Silviculture for accelerating meaningful cryptography & culture across ecosystems
 
-@PryvitKyle (https://x.com/PryvitKyle) x @brave (https://x.com/brave) for brinding gap between already proven privacy tech & emerging innovations - showing how crypto can plug'n'play in traditional tech
+@[PryvitKyle](https://x.com/PryvitKyle) [x @brave](https://x.com/brave) for brinding gap between already proven privacy tech & emerging innovations - showing how crypto can plug'n'play in traditional tech
 
-@SCBuergel (https://x.com/SCBuergel) x @gnosis_ (https://x.com/gnosis_) + @hoprnet (https://x.com/hoprnet) for dedicating years of life to deliver network-level privacy, staying for the culture and diversifying VPN market.
+@[SCBuergel](https://x.com/SCBuergel) [x @gnosis_](https://x.com/gnosis_) + @[hoprnet](https://x.com/hoprnet) for dedicating years of life to deliver network-level privacy, staying for the culture and diversifying VPN market.
 
-@jbaylina (https://x.com/jbaylina) x @ziskvm (https://x.com/ziskvm) for tech dedication to solve digital rights in practice, growing a group of cryptographers, scaling & securing millions of people.
+@[jbaylina](https://x.com/jbaylina) [x @ziskvm](https://x.com/ziskvm) for tech dedication to solve digital rights in practice, growing a group of cryptographers, scaling & securing millions of people.
 
 ### FOCUS AREAS
 
-@AndyGuzmanEth (https://x.com/AndyGuzmanEth) x @PrivacyEthereum (https://x.com/PrivacyEthereum) for proving that the future of privacy ecosystem depends on decency and positive communication.
+@[AndyGuzmanEth](https://x.com/AndyGuzmanEth) [x @PrivacyEthereum](https://x.com/PrivacyEthereum) for proving that the future of privacy ecosystem depends on decency and positive communication.
 
-@Fatalmeh (https://x.com/Fatalmeh) for caring about human rights now, legal web3 policies, & decentralised tech that will shift global power dynamics
+@[Fatalmeh](https://x.com/Fatalmeh) for caring about human rights now, legal web3 policies, & decentralised tech that will shift global power dynamics
 
-@miroyato (https://x.com/miroyato) x @fileverse (https://x.com/fileverse) for by-week practical deGoogling at scale via http://ddocs.new & bringing deep academical approach to decentralised tech culture
+@[miroyato](https://x.com/miroyato) [x @fileverse](https://x.com/fileverse) for by-week practical deGoogling at scale via http://ddocs.new & bringing deep academical approach to decentralised tech culture
 
-@auryn_macmillan (https://x.com/auryn_macmillan) x @EnclaveE3 (https://x.com/EnclaveE3) for long-lasting representation of human values where code really becomes a speech. Delivering complex encryption for confidential computation.
+@[auryn_macmillan](https://x.com/auryn_macmillan) [x @EnclaveE3](https://x.com/EnclaveE3) for long-lasting representation of human values where code really becomes a speech. Delivering complex encryption for confidential computation.
 
-@hebbianloop (https://x.com/hebbianloop) x @humntech (https://x.com/humntech) for protecting identity at scale & bridging traditional digital rights with emerging tech
+@[hebbianloop](https://x.com/hebbianloop) [x @humntech](https://x.com/humntech) for protecting identity at scale & bridging traditional digital rights with emerging tech
 
-@Cryptic_cm (https://x.com/Cryptic_cm) x @session_app (https://x.com/session_app) for providing vocal alternatives to how we securely communicate & collaborate online
+@[Cryptic_cm](https://x.com/Cryptic_cm) [x @session_app](https://x.com/session_app) for providing vocal alternatives to how we securely communicate & collaborate online
 
-@kassandraETH (https://x.com/kassandraETH) x @ethereumfndn (https://x.com/ethereumfndn) for proving that code is an art, & cultural diversity can bring striking change - uniting ecosystems & voices beyond tribalism
+@[kassandraETH](https://x.com/kassandraETH) [x @ethereumfndn](https://x.com/ethereumfndn) for proving that code is an art, & cultural diversity can bring striking change - uniting ecosystems & voices beyond tribalism
 
-@Pol_Lanski (https://x.com/Pol_Lanski) x @dappnode (https://x.com/dappnode) for proving that node-running isn't a rocket science, but active contribution to both decentralisation and censorship resistance
+@[Pol_Lanski](https://x.com/Pol_Lanski) [x @dappnode](https://x.com/dappnode) for proving that node-running isn't a rocket science, but active contribution to both decentralisation and censorship resistance
 
-@LoringHarkness (https://x.com/LoringHarkness) x @ShutterNetwork (https://x.com/ShutterNetwork) for pushing new cryptographic primitives to life, alligning different actords towards Encrypted Mempools
+@[LoringHarkness](https://x.com/LoringHarkness) [x @ShutterNetwork](https://x.com/ShutterNetwork) for pushing new cryptographic primitives to life, alligning different actords towards Encrypted Mempools
 
-@TMIYChao (https://x.com/TMIYChao) x @ethereumfndn (https://x.com/ethereumfndn) + @BordelWTF (https://x.com/BordelWTF) for keeping reminding that original cypherpunks were build on values & not shiny merch (we translate: use @GrapheneOS (https://x.com/GrapheneOS), run your own node, visit CCC etc)
+@[TMIYChao](https://x.com/TMIYChao) [x @ethereumfndn](https://x.com/ethereumfndn) + @[BordelWTF](https://x.com/BordelWTF) for keeping reminding that original cypherpunks were build on values & not shiny merch ([we translate: use @GrapheneOS](https://x.com/GrapheneOS), run your own node, visit CCC etc)
 
-@0xMeTony (https://x.com/0xMeTony) x @fluidkey (https://x.com/fluidkey) for proving that hackathons can create decent privacy-projects positively evolving over time
+@0xMeTony (https://x.com/0xMeTony) [x @fluidkey](https://x.com/fluidkey) for proving that hackathons can create decent privacy-projects positively evolving over time
 
-Daniel x @invisiblgarden (https://x.com/invisiblgarden) for matching digital rights with commons, practical web3 aplicability to the endangered societies
+[Daniel x @invisiblgarden](https://x.com/invisiblgarden) for matching digital rights with commons, practical web3 aplicability to the endangered societies
 
-@ncsgy (https://x.com/ncsgy) x @ethereumfndn (https://x.com/ethereumfndn) for bringing tangible privacy via Kohaku, chancing the whole wallet-domain for better, and activating positive side of web3 to millions of people.
+@[ncsgy](https://x.com/ncsgy) [x @ethereumfndn](https://x.com/ethereumfndn) for bringing tangible privacy via Kohaku, chancing the whole wallet-domain for better, and activating positive side of web3 to millions of people.
 
-@willscott (https://x.com/willscott) for representing man of action approach, helping, supporting, activating. Together.
+@[willscott](https://x.com/willscott) for representing man of action approach, helping, supporting, activating. Together.
 
 ### SPONSORS
 
@@ -13835,7 +13823,7 @@ Vitalik Buterin + Naomi Brockwell fireside https://www.youtube.com/watch?v=5At5_
 
 ### Ethereum Social Layer (ESL)
 
-It is being formed before our eyes - an active ecosystem of thousands of thinkers, developers, analysts, human-rights DAOs, coordinators, and even ravers. Inspired by cypherpunks of the past, they create a foundation for the digital community of the future (explore our Cyherpunk personas (https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/u4ELDt0YkpCe272kD2f5kTThJsILg1pgaOeBsTSGV0I) article). Based on permissionless & censorship-resistance ideology. Follow Paul-Dylan Ennis (https://x.com/post_polar_/status/1813275641954877709) on ESL.
+It is being formed before our eyes - an active ecosystem of thousands of thinkers, developers, analysts, human-rights DAOs, coordinators, and even ravers. Inspired by cypherpunks of the past, they create a foundation for the digital community of the future ([explore our Cyherpunk personas](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/u4ELDt0YkpCe272kD2f5kTThJsILg1pgaOeBsTSGV0I) article). Based on permissionless & [censorship-resistance ideology. Follow Paul-Dylan Ennis](https://x.com/post_polar_/status/1813275641954877709) on ESL.
 
 ### Activation
 
@@ -13855,14 +13843,14 @@ Diversity in the web3 industry is a critical challenge, let alone in the privacy
 
 Activation track
 
-We want everyone to feel, use and contribute to practical privacy tooling. So we will showcase existing tools empowering your journey in decentralized world: Fileverse (http://fileverse.io), Rotki (http://rotki.com), Fluidkey (http://fluidkey.com), Radicle, GnosisVPN.
+We want everyone to feel, use and contribute to practical privacy tooling. So we will showcase existing tools [empowering your journey in decentralized world: Fileverse](http://fileverse.io), [Rotki](http://rotki.com), [Fluidkey](http://fluidkey.com), Radicle, GnosisVPN.
 
 Stunning merch delivered by Coinmandeer
 
 ### High-level agenda
 
 - craft conditions needed to overcome challenges mapped in "Make Ethereum Cypherpunk again" essay
-- present Ethereum Privacy Ecosystem (https://docs.web3privacy.info/research/ethereum-privacy-ecosystem/) and its key players
+- [present Ethereum Privacy Ecosystem](https://docs.web3privacy.info/research/ethereum-privacy-ecosystem/) and its key players
 - explore socio-cultural conditions re-wiring degens into cypher-activists
 - build a mainstream culture around cypherpunk - make it an open and inclusive movement
 - remind of the origins of Ethereum ethos
@@ -13877,16 +13865,16 @@ Speak (CfP): https://tally.so/r/nrOzXl
 
 Partner:
 
-- web3privacynow 'at' protonmail.com (http://protonmail.com) or
+- [web3privacynow 'at' protonmail.com](http://protonmail.com) or
 - https://x.com/PG_CDG
 
 Volunteer: https://tally.so/r/3lLqKo
 
 Our previous events (feel the vibe)
 
-- Privacy Summit II (https://summit.web3privacy.info/) - Paralelni Polis, Prague 2024
-- Privacy Summit I (https://prague.web3privacy.info) - X10, Prague 2023
-- ETHRome Meetup (https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/bzv735Bc1zak7Yi-NcxWavMQKgt2ANXQtpkrSp8Xg3o)- Villaggio Globale, Rome 2023
+- [Privacy Summit II](https://summit.web3privacy.info/) - Paralelni Polis, Prague 2024
+- [Privacy Summit I](https://prague.web3privacy.info) - X10, Prague 2023
+- [ETHRome Meetup](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/bzv735Bc1zak7Yi-NcxWavMQKgt2ANXQtpkrSp8Xg3o)- Villaggio Globale, Rome 2023
   Useful resources (for real)
   Website: https://web3privacy.info/
   Latest news: http://twitter.com/web3privacy
@@ -13907,7 +13895,7 @@ Our previous events (feel the vibe)
 
 ### About the event
 
-Join us at Devcon Mumbai for Multichain Day. Built by Wrapped (https://www.wrapped.events/).
+[Join us at Devcon Mumbai for Multichain Day. Built by Wrapped](https://www.wrapped.events/).
 
 Bringing together founders, builders, institutions, enterprises, and capital allocators in one room. Designed for real conversation, not noise.
 
@@ -13915,19 +13903,19 @@ Each edition dives into key narratives like AI, DeFi, Infra, Interop, Payments, 
 
 Title Partner:
 
-- Algorand (https://x.com/AlgoFoundation?utm_source=luma)
+- [Algorand](https://x.com/AlgoFoundation?utm_source=luma)
 
 Presenting Partners:
 
-- Flare (https://x.com/FlareNetworks)
+- [Flare](https://x.com/FlareNetworks)
 
 ### Partners
 
-- 0G Labs (https://x.com/0G_labs) | ChainPatrol (https://x.com/ChainPatrol)
+- 0G [Labs](https://x.com/0G_labs) | [ChainPatrol](https://x.com/ChainPatrol)
 
 ### Media Partner
 
-- Real Motion (https://x.com/realmotioninc)
+- [Real Motion](https://x.com/realmotioninc)
 
 Additional partners and speakers to be announced.
 
@@ -13953,7 +13941,7 @@ Solana Summit India offers a dynamic one-day immersion into the Solana ecosystem
 
 This event is designed for founders, developers, and creatives, tailored to highlight innovative applications and developments in the Solana network. Join us for a day of meaningful talks, networking, and deep insights, focused on the Solana ecosystem in India, tokenization of real-world assets, evolving policy and regulatory frameworks, developer insights, and applications pushing the network forward.
 
-Are you interested in speaking at the event? Please apply here (https://airtable.com/appdfQFBoIXdYtre1/shrdAx4411rgtsMIC).
+Are [you interested in speaking at the event? Please apply here](https://airtable.com/appdfQFBoIXdYtre1/shrdAx4411rgtsMIC).
 
 During the event, you can expect:
 
@@ -14086,7 +14074,7 @@ Ideal partners include:
 
 Whether you want to host a quest, brand a zone, power the main stage, or co-create the digital layer, there's space in the city for your brand to connect with the most active Web3 crowd on-ground.
 
-(tg: @theatharvshrivastava (https://t.me/theatharvshrivastava), mail: atharv@backersstage.com)
+([tg: @theatharvshrivastava](https://t.me/theatharvshrivastava), mail: atharv@backersstage.com)
 
 Previous Devconnect Edition:
 
@@ -14756,13 +14744,13 @@ Sunday, 13th September 2026
 
 Join our Friends here : https://t.me/+Q7huzpDlRQ04OGJl
 
-Sponsors: Momentum DAO (https://Mntmdao.org) TurboLoop.io (https://TurboLoop.io)
+[Sponsors: Momentum DAO](https://Mntmdao.org) [TurboLoop.io](https://TurboLoop.io)
 
-Legal Partner: SASA Legal (https://sasa.legal)
+[Legal Partner: SASA Legal](https://sasa.legal)
 
-Media Partner: Crypto Waley (https://Cryptowaley.com)
+[Media Partner: Crypto Waley](https://Cryptowaley.com)
 
-Accounting Partner: Inledge (https://inledge.com)
+[Accounting Partner: Inledge](https://inledge.com)
 
 Community Partner: Crypto Marg, Cryptoholics, Crypto Aligarh, Finfarm
 
@@ -14788,7 +14776,7 @@ Location: Smt. Indira Gandhi College of engineering, Navi Mumbai
 
 Date: 15 Sep
 
-Powered by: College.xyz (https://College.xyz) × Solana Foundation
+[Powered by: College.xyz](https://College.xyz) × Solana Foundation
 
 ### About the Event
 
@@ -14988,7 +14976,7 @@ Community Builder Night is a community-first version of MetaMask's global Builde
 
 This in-person meetup is designed for developers, students, founders, DAO contributors and Web3 enthusiasts who want to understand self-custody, community building and real-world Web3 use cases all in a friendly and welcoming environment.
 
-This event is hosted by OSEN (https://osen.live/) in collaboration with Trinity College of Engineering and Research, bringing together students, developers, and tech enthusiasts to learn, build, and connect. We're looking forward to hearing new ideas, enjoying some tasty snacks, and making new developer friends.
+[This event is hosted by OSEN](https://osen.live/) in collaboration with Trinity College of Engineering and Research, bringing together students, developers, and tech enthusiasts to learn, build, and connect. We're looking forward to hearing new ideas, enjoying some tasty snacks, and making new developer friends.
 
 Join us for an evening of Web3 conversations...
 
@@ -15004,7 +14992,7 @@ Important: Due to limited venue capacity, this event will be First Come First Se
 
 To stay updated with announcements, session instructions, and last-minute coordination for this event, please make sure to join the official WhatsApp group using the link below:
 
-Join WhatsApp Group (https://chat.whatsapp.com/EZbu0VCrtUp3frGXSzNJeR)
+[Join WhatsApp Group](https://chat.whatsapp.com/EZbu0VCrtUp3frGXSzNJeR)
 
 ### Agenda
 
@@ -15043,9 +15031,9 @@ We provide swag, sponsorships, mentors, speakers, and end-to-end execution suppo
 
 Impact: 150+ events sponsored | 50,000+ students impacted | 10,000+ active members.
 
-X : /osenofficial (https://x.com/osenofficial?utm_source=luma)
+[X : /osenofficial](https://x.com/osenofficial?utm_source=luma)
 
-Linkedin : /osenofficial (https://www.linkedin.com/company/osenofficial/?utm_source=luma)
+[Linkedin : /osenofficial](https://www.linkedin.com/company/osenofficial/?utm_source=luma)
 
 ### About Consensys
 
@@ -15172,11 +15160,11 @@ Date: Tuesday, September 16, 2026
 
 Time: 2:30 PM Onwards
 
-Organizer: Aniket Sahu (https://www.linkedin.com/in/aniketsahu115) & The Origin Guild Community (https://x.com/og_guild?utm_source=luma)
+[Organizer: Aniket Sahu](https://www.linkedin.com/in/aniketsahu115) & [The Origin Guild Community](https://x.com/og_guild?utm_source=luma)
 
 ### About the Event
 
-Join us for Solana Across Campuses - India, a nationwide student-led initiative powered by College.xyz (https://College.xyz) supported by the Solana Foundation and The Origin Guild Community, a student first Web3 collective empowering builders through workshops, mentorship and hackathon support to bring builders, creators and innovators together to explore the Solana ecosystem.
+Join us for Solana Across Campuses - India, [a nationwide student-led initiative powered by College.xyz](https://College.xyz) supported by the Solana Foundation and The Origin Guild Community, a student first Web3 collective empowering builders through workshops, mentorship and hackathon support to bring builders, creators and innovators together to explore the Solana ecosystem.
 
 This Bhopal edition, hosted in Bhopal, is your chance to dive deep into Web3, learn how to get started on Solana, meet like-minded students and experience the decentralized future - all in one day!
 
@@ -15185,8 +15173,8 @@ If you are a developer, designer, community builder or just curious about crypto
 ### Agenda
 
 - Welcome & Check-in- Meet fellow student
-- Introduction to Solana & College.xyz (https://College.xyz)
-  Learn about the Solana ecosystem, why it's the fastest-growing blockchain for developers and how College.xyz (https://College.xyz) empowers student builders globally.
+- [Introduction to Solana & College.xyz](https://College.xyz)
+  Learn about the Solana ecosystem, why it's the [fastest-growing blockchain for developers and how College.xyz](https://College.xyz) empowers student builders globally.
 - Wallet Setup & On-chain Demo
   Hands-on session to set up your first Solana wallet (Phantom / Backpack) and experience on-chain apps like Jupiter Exchange and Solana Pay.
 - Building on Solana - Student Stories & Opportunities
@@ -15203,7 +15191,7 @@ Why You Should Attend
 
 - Earn Free SOL: Complete the onboarding tasks and on-chain quiz to win rewards.
 - Win Solana Breakpoint Travel Subsidies: Top student builders of Colosseum hackathon can qualify for travel support to attend Solana Breakpoint 2026.
-- Exclusive Learning Access: Early access to the Solana Developer Curriculum curated by College.xyz (https://College.xyz) and Solana Foundation.
+- Exclusive Learning Access: Early access [to the Solana Developer Curriculum curated by College.xyz](https://College.xyz) and Solana Foundation.
 - Free Swags & Merch: Limited-edition Solana goodies for active participants(Yet to Finalize).
 - Network with Builders: Connect with like-minded students, mentors and community leaders in the Web3 ecosystem.
 - Get Certified: Receive an official participation badge via Luma (NFT-based certification coming soon).
@@ -15224,7 +15212,7 @@ So grab your spot early and be part of India's biggest Solana student onboarding
 
 Powered by
 
-Solana Foundation x College.xyz (https://College.xyz)
+[Solana Foundation x College.xyz](https://College.xyz)
 
 Stay Connected
 
@@ -15232,11 +15220,11 @@ Join The Origin Guild Community to stay updated with announcements, collaboratio
 
 Telegram: https://t.me/tog_guild
 
-WhatsApp: Join WhatsApp Group (https://chat.whatsapp.com/Ij3DzAbeA3M7bzA7zkhtHx?utm_source=luma)
+[WhatsApp: Join WhatsApp Group](https://chat.whatsapp.com/Ij3DzAbeA3M7bzA7zkhtHx?utm_source=luma)
 
 Stay in the loop for community calls, build sessions and future campus activations powered by The Origin Guild.
 
-Solana Across Campuses is a nationwide initiative powered by (http://college.xyz/?utm_source=luma)College.xyz (https://College.xyz) and Solana Foundation, bringing the Solana ecosystem directly to university campuses across the globe. We're inviting students to host their own campus meetup, a chance to bring builders, creators and curious minds together to explore what's happening on Solana.
+[Solana Across Campuses is a nationwide initiative powered by](http://college.xyz/?utm_source=luma)[College.xyz](https://College.xyz) and Solana Foundation, bringing the Solana ecosystem directly to university campuses across the globe. We're inviting students to host their own campus meetup, a chance to bring builders, creators and curious minds together to explore what's happening on Solana.
 
 These events are open to all students, not just blockchain club members. Anyone curious about crypto, from any major, is welcome to attend. Each event is designed to be simple to run and useful for students at every level: attendees will learn how to set up their first wallet, potentially walk away with some SOL, and see live examples of what is available within the Solana ecosystem.
 
@@ -15358,7 +15346,7 @@ Delhi NCR opens the Ready for the Run circuit under the theme Signals. As the ci
 
 This isn't a pitch fest. It's a space for honest takes, contrarian views, and collective intelligence - capturing how each city's community is thinking, positioning, and preparing right now, city by city, across a 9-city run - maybe more
 
-The circuit is co-led by Raajeev Anand (TechHybr (https://x.com/techhybrx)), bringing his on-ground Web3 & AI community reach into every stop of the run.
+The circuit is co-led by Raajeev Anand ([TechHybr](https://x.com/techhybrx)), bringing his on-ground Web3 & AI community reach into every stop of the run.
 
 Whether you're deep in the trenches or just AI & Web3-curious, come add your voice to the conversation.
 
@@ -15370,18 +15358,18 @@ Trailblazers
 
 OroPocket - Brings a Trailblazer's perspective to the room - pioneering everyday access to gold & silver investing, a domain adjacent to but distinct from crypto-native assets. Their presence broadens the credibility of the conversation and adds real-world asset variety to the ecosystem represented here.
 
-X (https://x.com/oropocket) | LinkedIn (https://www.linkedin.com/company/oropocket/) | Promo (https://Have made a promo for this campaign Anyone signing up using this link would get Rs 50 of free gold on their first investment of Rs 500: https://oropocket.com/i/READY364)
+[X](https://x.com/oropocket) | [LinkedIn](https://www.linkedin.com/company/oropocket/) | Promo (https://Have made a promo for this campaign Anyone signing up using this link would get Rs 50 of free gold on their first investment of Rs 500: https://oropocket.com/i/READY364)
 
 ### Community Partners
 
-- KoinX X (https://x.com/getkoinx) | LinkedIn (https://www.linkedin.com/company/getkoinx/)
-- Web3 Events X (https://x.com/web3_events) | LinkedIn (https://www.linkedin.com/company/web3-events/)
-- Web3 Aligarh X (https://x.com/web3aligarh) | LinkedIn (https://www.linkedin.com/company/web3-aligarh/)
-- Bhopal DAO X (https://x.com/Bhopal_DAO) | LinkedIn (https://linkedin.com/company/bhopal-dao/)
+- [KoinX X](https://x.com/getkoinx) | [LinkedIn](https://www.linkedin.com/company/getkoinx/)
+- [Web3 Events X](https://x.com/web3_events) | [LinkedIn](https://www.linkedin.com/company/web3-events/)
+- [Web3 Aligarh X](https://x.com/web3aligarh) | [LinkedIn](https://www.linkedin.com/company/web3-aligarh/)
+- [Bhopal DAO X](https://x.com/Bhopal_DAO) | [LinkedIn](https://linkedin.com/company/bhopal-dao/)
 - Zyphar Community
-- Collably Network X (https://x.com/CollablyNetwork) | LinkedIn (https://www.linkedin.com/company/collablynetwork/)
+- [Collably Network X](https://x.com/CollablyNetwork) | [LinkedIn](https://www.linkedin.com/company/collablynetwork/)
 
-### Raajeev Anand (@cryptomargofficial )/ TechHybr
+### Raajeev Anand (@[cryptomargofficial])/ TechHybr
 
 https://www.instagram.com/cryptomargofficial/
 
@@ -15389,13 +15377,13 @@ Raajeev Anand is an India-based Web3 & AI social media influencer and digital en
 
 Through TechHybr, his vision is to build a value-driven ecosystem, powered by Web3 and AI, that brings together content, development, and scale - making complex technology accessible, practical, and actionable for creators, students, and businesses across India.
 
-Insta (https://www.instagram.com/cryptomargofficial/) | X (https://x.com/raajeevanand) | LinkedIn (https://www.linkedin.com/in/raajeevanand/)
+[Insta](https://www.instagram.com/cryptomargofficial/) | [X](https://x.com/raajeevanand) | [LinkedIn](https://www.linkedin.com/in/raajeevanand/)
 
 ### About Infini3
 
 Infini3 is an events and media platform, built as an IP of 28° North - a boutique strategic advisory firm for early-stage Web3 & AI startups. It brings India's crypto and Web3 ecosystem together across formats, from large-scale IRL events and community meetups to online panels, podcasts, and AMAs. Infini3 turns community participation into collective intelligence - capturing sentiment, insights, and signals from the people actually building and investing in this space.
 
-X (https://x.com/infini3_) | Telegram (https://t.me/goinfini3) | Instagram (https://www.instagram.com/goinfini3)
+[X](https://x.com/infini3_) | [Telegram](https://t.me/goinfini3) | [Instagram](https://www.instagram.com/goinfini3)
 
 ### About 28° North
 
@@ -15445,7 +15433,7 @@ After the workshop, stick around for food, networking, and conversations with fe
 
 6:00 PM - Welcome & opening by Team1 host
 
-Laksh Dilliwal (https://x.com/lakshdilliwal)
+[Laksh Dilliwal](https://x.com/lakshdilliwal)
 
 6:10 PM - Introduction to Team1, Avalanche & the C-Chain ecosystem
 
@@ -15602,16 +15590,16 @@ This workshop is for you if you:
 
 Leave with a clearer picture of how Bitcoin works, and a test-network transaction you created yourself.
 
-To connect with Bitcoiners in Mumbai, join the Signal group (https://signal.group/?utm_source=luma#CjQKIKC4IuqhHW1AQIB-44S0Dg4Um2BItqRBM_V3pzSAwRPoEhB7_H-3FcjjemIxbLkFtABe)
+[To connect with Bitcoiners in Mumbai, join the Signal group](https://signal.group/?utm_source=luma#CjQKIKC4IuqhHW1AQIB-44S0Dg4Um2BItqRBM_V3pzSAwRPoEhB7_H-3FcjjemIxbLkFtABe)
 
 ### About Bitshala
 
-Bitshala (https://bitshala.org/) is a Bitcoin-focused education initiative where we help developers, designers, and curious builders learn by doing. We run cohorts, clubs, workshops, a hackerspace, and community programs that make it easier for people to explore, contribute to, and build on Bitcoin. Our focus is on hands-on learning, proof-of-work, and growing alongside a community of people who care about open technology, design, and the future of money.
+[Bitshala](https://bitshala.org/) is a Bitcoin-focused education initiative where we help developers, designers, and curious builders learn by doing. We run cohorts, clubs, workshops, a hackerspace, and community programs that make it easier for people to explore, contribute to, and build on Bitcoin. Our focus is on hands-on learning, proof-of-work, and growing alongside a community of people who care about open technology, design, and the future of money.
 
 If you'd like to explore more, check us out on:
 
 - Discord (Online Community) (https://discord.com/invite/STeQFVEWf9)
-- Cohorts Registration and Fellowship application portal (https://app.bitshala.org/)
+- [Cohorts Registration and Fellowship application portal](https://app.bitshala.org/)
 - Twitter (Socials and Announcements) (https://x.com/bitshala_org)
 - Luma (Events Calendar) (https://luma.com/bitshala)
 
@@ -15743,12 +15731,12 @@ You will leave this session with a clear, grounded understanding of how value tr
 
 ### About Bitshala
 
-Bitshala (https://bitshala.org/) is a Bitcoin-focused education initiative where we help developers, designers, and curious builders learn by doing. We run cohorts, clubs, workshops, a hackerspace, and community programs that make it easier for people to explore, contribute to, and build on Bitcoin. Our focus is on hands-on learning, proof-of-work, and growing alongside a community of people who care about open technology, design, and the future of money.
+[Bitshala](https://bitshala.org/) is a Bitcoin-focused education initiative where we help developers, designers, and curious builders learn by doing. We run cohorts, clubs, workshops, a hackerspace, and community programs that make it easier for people to explore, contribute to, and build on Bitcoin. Our focus is on hands-on learning, proof-of-work, and growing alongside a community of people who care about open technology, design, and the future of money.
 
 If you'd like to explore more, check us out on:
 
 - Discord (Online Community) (https://discord.com/invite/STeQFVEWf9)
-- Cohorts Registration and Fellowship application portal (https://app.bitshala.org/)
+- [Cohorts Registration and Fellowship application portal](https://app.bitshala.org/)
 - Twitter (Socials and Announcements) (https://x.com/bitshala_org)
 - Luma (Events Calendar) (https://luma.com/bitshala)
 
@@ -15770,7 +15758,7 @@ Chandigarh carries the theme Blueprint. Known for planned design, the city becom
 
 This isn't a pitch fest. It's a space for honest takes, contrarian views, and collective intelligence - capturing how each city's community is thinking, positioning, and preparing right now, city by city, across a 9-city run - maybe more
 
-The circuit is co-led by Raajeev Anand (TechHybr (https://x.com/techhybrx)), bringing his on-ground Web3 & AI community reach into every stop of the run.
+The circuit is co-led by Raajeev Anand ([TechHybr](https://x.com/techhybrx)), bringing his on-ground Web3 & AI community reach into every stop of the run.
 
 Whether you're deep in the trenches or just AI & Web3-curious, come add your voice to the conversation.
 
@@ -15782,18 +15770,18 @@ Trailblazers
 
 OroPocket - Brings a Trailblazer's perspective to the room - pioneering everyday access to gold & silver investing, a domain adjacent to but distinct from crypto-native assets. Their presence broadens the credibility of the conversation and adds real-world asset variety to the ecosystem represented here.
 
-X (https://x.com/oropocket) | LinkedIn (https://www.linkedin.com/company/oropocket/) | Promo (https://Have made a promo for this campaign Anyone signing up using this link would get Rs 50 of free gold on their first investment of Rs 500: https://oropocket.com/i/READY364)
+[X](https://x.com/oropocket) | [LinkedIn](https://www.linkedin.com/company/oropocket/) | Promo (https://Have made a promo for this campaign Anyone signing up using this link would get Rs 50 of free gold on their first investment of Rs 500: https://oropocket.com/i/READY364)
 
 ### Community Partners
 
-- KoinX X (https://x.com/getkoinx) | LinkedIn (https://www.linkedin.com/company/getkoinx/)
-- Web3 Events X (https://x.com/web3_events) | LinkedIn (https://www.linkedin.com/company/web3-events/)
-- Web3 Aligarh X (https://x.com/web3aligarh) | LinkedIn (https://www.linkedin.com/company/web3-aligarh/)
-- Bhopal DAO X (https://x.com/Bhopal_DAO) | LinkedIn (https://linkedin.com/company/bhopal-dao/)
+- [KoinX X](https://x.com/getkoinx) | [LinkedIn](https://www.linkedin.com/company/getkoinx/)
+- [Web3 Events X](https://x.com/web3_events) | [LinkedIn](https://www.linkedin.com/company/web3-events/)
+- [Web3 Aligarh X](https://x.com/web3aligarh) | [LinkedIn](https://www.linkedin.com/company/web3-aligarh/)
+- [Bhopal DAO X](https://x.com/Bhopal_DAO) | [LinkedIn](https://linkedin.com/company/bhopal-dao/)
 - Zyphar Community
-- Collably Network X (https://x.com/CollablyNetwork) | LinkedIn (https://www.linkedin.com/company/collablynetwork/)
+- [Collably Network X](https://x.com/CollablyNetwork) | [LinkedIn](https://www.linkedin.com/company/collablynetwork/)
 
-### Raajeev Anand (@cryptomargofficial )/ TechHybr
+### Raajeev Anand (@[cryptomargofficial])/ TechHybr
 
 https://www.instagram.com/cryptomargofficial/
 
@@ -15801,13 +15789,13 @@ Raajeev Anand is an India-based Web3 & AI social media influencer and digital en
 
 Through TechHybr, his vision is to build a value-driven ecosystem, powered by Web3 and AI, that brings together content, development, and scale - making complex technology accessible, practical, and actionable for creators, students, and businesses across India.
 
-Insta (https://www.instagram.com/cryptomargofficial/) | X (https://x.com/raajeevanand) | LinkedIn (https://www.linkedin.com/in/raajeevanand/)
+[Insta](https://www.instagram.com/cryptomargofficial/) | [X](https://x.com/raajeevanand) | [LinkedIn](https://www.linkedin.com/in/raajeevanand/)
 
 ### About Infini3
 
 Infini3 is an events and media platform, built as an IP of 28° North - a boutique strategic advisory firm for early-stage Web3 & AI startups. It brings India's crypto and Web3 ecosystem together across formats, from large-scale IRL events and community meetups to online panels, podcasts, and AMAs. Infini3 turns community participation into collective intelligence - capturing sentiment, insights, and signals from the people actually building and investing in this space.
 
-X (https://x.com/infini3_) | Telegram (https://t.me/goinfini3) | Instagram (https://www.instagram.com/goinfini3)
+[X](https://x.com/infini3_) | [Telegram](https://t.me/goinfini3) | [Instagram](https://www.instagram.com/goinfini3)
 
 ### About 28° North
 
@@ -15831,7 +15819,7 @@ Jaipur carries the theme Legacy. With centuries of trade, capital, and craft beh
 
 This isn't a pitch fest. It's a space for honest takes, contrarian views, and collective intelligence - capturing how each city's community is thinking, positioning, and preparing right now, city by city, across a 9-city run - maybe more
 
-The circuit is co-led by Raajeev Anand (TechHybr (https://x.com/techhybrx)), bringing his on-ground Web3 & AI community reach into every stop of the run.
+The circuit is co-led by Raajeev Anand ([TechHybr](https://x.com/techhybrx)), bringing his on-ground Web3 & AI community reach into every stop of the run.
 
 Whether you're deep in the trenches or just AI & Web3-curious, come add your voice to the conversation.
 
@@ -15843,18 +15831,18 @@ Trailblazers
 
 OroPocket - Brings a Trailblazer's perspective to the room - pioneering everyday access to gold & silver investing, a domain adjacent to but distinct from crypto-native assets. Their presence broadens the credibility of the conversation and adds real-world asset variety to the ecosystem represented here.
 
-X (https://x.com/oropocket) | LinkedIn (https://www.linkedin.com/company/oropocket/) | Promo (https://Have made a promo for this campaign Anyone signing up using this link would get Rs 50 of free gold on their first investment of Rs 500: https://oropocket.com/i/READY364)
+[X](https://x.com/oropocket) | [LinkedIn](https://www.linkedin.com/company/oropocket/) | Promo (https://Have made a promo for this campaign Anyone signing up using this link would get Rs 50 of free gold on their first investment of Rs 500: https://oropocket.com/i/READY364)
 
 ### Community Partners
 
-- KoinX X (https://x.com/getkoinx) | LinkedIn (https://www.linkedin.com/company/getkoinx/)
-- Web3 Events X (https://x.com/web3_events) | LinkedIn (https://www.linkedin.com/company/web3-events/)
-- Web3 Aligarh X (https://x.com/web3aligarh) | LinkedIn (https://www.linkedin.com/company/web3-aligarh/)
-- Bhopal DAO X (https://x.com/Bhopal_DAO) | LinkedIn (https://linkedin.com/company/bhopal-dao/)
+- [KoinX X](https://x.com/getkoinx) | [LinkedIn](https://www.linkedin.com/company/getkoinx/)
+- [Web3 Events X](https://x.com/web3_events) | [LinkedIn](https://www.linkedin.com/company/web3-events/)
+- [Web3 Aligarh X](https://x.com/web3aligarh) | [LinkedIn](https://www.linkedin.com/company/web3-aligarh/)
+- [Bhopal DAO X](https://x.com/Bhopal_DAO) | [LinkedIn](https://linkedin.com/company/bhopal-dao/)
 - Zyphar Community
-- Collably Network X (https://x.com/CollablyNetwork) | LinkedIn (https://www.linkedin.com/company/collablynetwork/)
+- [Collably Network X](https://x.com/CollablyNetwork) | [LinkedIn](https://www.linkedin.com/company/collablynetwork/)
 
-### Raajeev Anand (@cryptomargofficial )/ TechHybr
+### Raajeev Anand (@[cryptomargofficial])/ TechHybr
 
 https://www.instagram.com/cryptomargofficial/
 
@@ -15862,13 +15850,13 @@ Raajeev Anand is an India-based Web3 & AI social media influencer and digital en
 
 Through TechHybr, his vision is to build a value-driven ecosystem, powered by Web3 and AI, that brings together content, development, and scale - making complex technology accessible, practical, and actionable for creators, students, and businesses across India.
 
-Insta (https://www.instagram.com/cryptomargofficial/) | X (https://x.com/raajeevanand) | LinkedIn (https://www.linkedin.com/in/raajeevanand/)
+[Insta](https://www.instagram.com/cryptomargofficial/) | [X](https://x.com/raajeevanand) | [LinkedIn](https://www.linkedin.com/in/raajeevanand/)
 
 ### About Infini3
 
 Infini3 is an events and media platform, built as an IP of 28° North - a boutique strategic advisory firm for early-stage Web3 & AI startups. It brings India's crypto and Web3 ecosystem together across formats, from large-scale IRL events and community meetups to online panels, podcasts, and AMAs. Infini3 turns community participation into collective intelligence - capturing sentiment, insights, and signals from the people actually building and investing in this space.
 
-X (https://x.com/infini3_) | Telegram (https://t.me/goinfini3) | Instagram (https://www.instagram.com/goinfini3)
+[X](https://x.com/infini3_) | [Telegram](https://t.me/goinfini3) | [Instagram](https://www.instagram.com/goinfini3)
 
 ### About 28° North
 
@@ -15892,7 +15880,7 @@ Lucknow carries the theme Trust. No market runs without it - regulation, custody
 
 This isn't a pitch fest. It's a space for honest takes, contrarian views, and collective intelligence - capturing how each city's community is thinking, positioning, and preparing right now, city by city, across a 9-city run - maybe more
 
-The circuit is co-led by Raajeev Anand (TechHybr (https://x.com/techhybrx)), bringing his on-ground Web3 & AI community reach into every stop of the run.
+The circuit is co-led by Raajeev Anand ([TechHybr](https://x.com/techhybrx)), bringing his on-ground Web3 & AI community reach into every stop of the run.
 
 Whether you're deep in the trenches or just AI & Web3-curious, come add your voice to the conversation.
 
@@ -15904,18 +15892,18 @@ Trailblazers
 
 OroPocket - Brings a Trailblazer's perspective to the room - pioneering everyday access to gold & silver investing, a domain adjacent to but distinct from crypto-native assets. Their presence broadens the credibility of the conversation and adds real-world asset variety to the ecosystem represented here.
 
-X (https://x.com/oropocket) | LinkedIn (https://www.linkedin.com/company/oropocket/) | Promo (https://Have made a promo for this campaign Anyone signing up using this link would get Rs 50 of free gold on their first investment of Rs 500: https://oropocket.com/i/READY364)
+[X](https://x.com/oropocket) | [LinkedIn](https://www.linkedin.com/company/oropocket/) | Promo (https://Have made a promo for this campaign Anyone signing up using this link would get Rs 50 of free gold on their first investment of Rs 500: https://oropocket.com/i/READY364)
 
 ### Community Partners
 
-- KoinX X (https://x.com/getkoinx) | LinkedIn (https://www.linkedin.com/company/getkoinx/)
-- Web3 Events X (https://x.com/web3_events) | LinkedIn (https://www.linkedin.com/company/web3-events/)
-- Web3 Aligarh X (https://x.com/web3aligarh) | LinkedIn (https://www.linkedin.com/company/web3-aligarh/)
-- Bhopal DAO X (https://x.com/Bhopal_DAO) | LinkedIn (https://linkedin.com/company/bhopal-dao/)
+- [KoinX X](https://x.com/getkoinx) | [LinkedIn](https://www.linkedin.com/company/getkoinx/)
+- [Web3 Events X](https://x.com/web3_events) | [LinkedIn](https://www.linkedin.com/company/web3-events/)
+- [Web3 Aligarh X](https://x.com/web3aligarh) | [LinkedIn](https://www.linkedin.com/company/web3-aligarh/)
+- [Bhopal DAO X](https://x.com/Bhopal_DAO) | [LinkedIn](https://linkedin.com/company/bhopal-dao/)
 - Zyphar Community
-- Collably Network X (https://x.com/CollablyNetwork) | LinkedIn (https://www.linkedin.com/company/collablynetwork/)
+- [Collably Network X](https://x.com/CollablyNetwork) | [LinkedIn](https://www.linkedin.com/company/collablynetwork/)
 
-### Raajeev Anand (@cryptomargofficial )/ TechHybr
+### Raajeev Anand (@[cryptomargofficial])/ TechHybr
 
 https://www.instagram.com/cryptomargofficial/
 
@@ -15923,13 +15911,13 @@ Raajeev Anand is an India-based Web3 & AI social media influencer and digital en
 
 Through TechHybr, his vision is to build a value-driven ecosystem, powered by Web3 and AI, that brings together content, development, and scale - making complex technology accessible, practical, and actionable for creators, students, and businesses across India.
 
-Insta (https://www.instagram.com/cryptomargofficial/) | X (https://x.com/raajeevanand) | LinkedIn (https://www.linkedin.com/in/raajeevanand/)
+[Insta](https://www.instagram.com/cryptomargofficial/) | [X](https://x.com/raajeevanand) | [LinkedIn](https://www.linkedin.com/in/raajeevanand/)
 
 ### About Infini3
 
 Infini3 is an events and media platform, built as an IP of 28° North - a boutique strategic advisory firm for early-stage Web3 & AI startups. It brings India's crypto and Web3 ecosystem together across formats, from large-scale IRL events and community meetups to online panels, podcasts, and AMAs. Infini3 turns community participation into collective intelligence - capturing sentiment, insights, and signals from the people actually building and investing in this space.
 
-X (https://x.com/infini3_) | Telegram (https://t.me/goinfini3) | Instagram (https://www.instagram.com/goinfini3)
+[X](https://x.com/infini3_) | [Telegram](https://t.me/goinfini3) | [Instagram](https://www.instagram.com/goinfini3)
 
 ### About 28° North
 
@@ -16048,16 +16036,16 @@ Dharmshala - Summer 2026
 
 Catch a glimpse of the energy, collaboration, and moments from our last BOSS Summit in Dharmshala - from deep work sessions and demos to bonfires, games, and community bonding.
 
-Explore more here: The official BOSS Summit After-Movie and Article (https://x.com/bitshala_org/status/2049831566827008161)
+Explore [more here: The official BOSS Summit After-Movie and Article](https://x.com/bitshala_org/status/2049831566827008161)
 
 ### About Bitshala
 
-Bitshala (https://bitshala.org/) is a Bitcoin-focused education initiative where we help developers, designers, and curious builders learn by doing. We run cohorts, clubs, workshops, a hackerspace, and community programs that make it easier for people to explore, contribute to, and build on Bitcoin. Our focus is on hands-on learning, proof-of-work, and growing alongside a community of people who care about open technology, design, and the future of money.
+[Bitshala](https://bitshala.org/) is a Bitcoin-focused education initiative where we help developers, designers, and curious builders learn by doing. We run cohorts, clubs, workshops, a hackerspace, and community programs that make it easier for people to explore, contribute to, and build on Bitcoin. Our focus is on hands-on learning, proof-of-work, and growing alongside a community of people who care about open technology, design, and the future of money.
 
 If you'd like to explore more, check us out on:
 
 - Discord (Online Community) (https://discord.com/invite/STeQFVEWf9)
-- Cohort registration and fellowship application portal (https://app.bitshala.org/)
+- [Cohort registration and fellowship application portal](https://app.bitshala.org/)
 - Twitter (Socials and Announcements) (https://x.com/bitshala_org)
 - Luma (Events Calendar) (https://luma.com/bitshala)
 
@@ -16079,7 +16067,7 @@ Pune carries the theme Momentum. Six cities into the circuit, the conversation s
 
 This isn't a pitch fest. It's a space for honest takes, contrarian views, and collective intelligence - capturing how each city's community is thinking, positioning, and preparing right now, city by city, across a 9-city run - maybe more
 
-The circuit is co-led by Raajeev Anand (TechHybr (https://x.com/techhybrx)), bringing his on-ground Web3 & AI community reach into every stop of the run.
+The circuit is co-led by Raajeev Anand ([TechHybr](https://x.com/techhybrx)), bringing his on-ground Web3 & AI community reach into every stop of the run.
 
 Whether you're deep in the trenches or just AI & Web3-curious, come add your voice to the conversation.
 
@@ -16091,18 +16079,18 @@ Trailblazers
 
 OroPocket - Brings a Trailblazer's perspective to the room - pioneering everyday access to gold & silver investing, a domain adjacent to but distinct from crypto-native assets. Their presence broadens the credibility of the conversation and adds real-world asset variety to the ecosystem represented here.
 
-X (https://x.com/oropocket) | LinkedIn (https://www.linkedin.com/company/oropocket/) | Promo (https://Have made a promo for this campaign Anyone signing up using this link would get Rs 50 of free gold on their first investment of Rs 500: https://oropocket.com/i/READY364)
+[X](https://x.com/oropocket) | [LinkedIn](https://www.linkedin.com/company/oropocket/) | Promo (https://Have made a promo for this campaign Anyone signing up using this link would get Rs 50 of free gold on their first investment of Rs 500: https://oropocket.com/i/READY364)
 
 ### Community Partners
 
-- KoinX X (https://x.com/getkoinx) | LinkedIn (https://www.linkedin.com/company/getkoinx/)
-- Web3 Events X (https://x.com/web3_events) | LinkedIn (https://www.linkedin.com/company/web3-events/)
-- Web3 Aligarh X (https://x.com/web3aligarh) | LinkedIn (https://www.linkedin.com/company/web3-aligarh/)
-- Bhopal DAO X (https://x.com/Bhopal_DAO) | LinkedIn (https://linkedin.com/company/bhopal-dao/)
+- [KoinX X](https://x.com/getkoinx) | [LinkedIn](https://www.linkedin.com/company/getkoinx/)
+- [Web3 Events X](https://x.com/web3_events) | [LinkedIn](https://www.linkedin.com/company/web3-events/)
+- [Web3 Aligarh X](https://x.com/web3aligarh) | [LinkedIn](https://www.linkedin.com/company/web3-aligarh/)
+- [Bhopal DAO X](https://x.com/Bhopal_DAO) | [LinkedIn](https://linkedin.com/company/bhopal-dao/)
 - Zyphar Community
-- Collably Network X (https://x.com/CollablyNetwork) | LinkedIn (https://www.linkedin.com/company/collablynetwork/)
+- [Collably Network X](https://x.com/CollablyNetwork) | [LinkedIn](https://www.linkedin.com/company/collablynetwork/)
 
-### Raajeev Anand (@cryptomargofficial )/ TechHybr
+### Raajeev Anand (@[cryptomargofficial])/ TechHybr
 
 https://www.instagram.com/cryptomargofficial/
 
@@ -16110,13 +16098,13 @@ Raajeev Anand is an India-based Web3 & AI social media influencer and digital en
 
 Through TechHybr, his vision is to build a value-driven ecosystem, powered by Web3 and AI, that brings together content, development, and scale - making complex technology accessible, practical, and actionable for creators, students, and businesses across India.
 
-Insta (https://www.instagram.com/cryptomargofficial/) | X (https://x.com/raajeevanand) | LinkedIn (https://www.linkedin.com/in/raajeevanand/)
+[Insta](https://www.instagram.com/cryptomargofficial/) | [X](https://x.com/raajeevanand) | [LinkedIn](https://www.linkedin.com/in/raajeevanand/)
 
 ### About Infini3
 
 Infini3 is an events and media platform, built as an IP of 28° North - a boutique strategic advisory firm for early-stage Web3 & AI startups. It brings India's crypto and Web3 ecosystem together across formats, from large-scale IRL events and community meetups to online panels, podcasts, and AMAs. Infini3 turns community participation into collective intelligence - capturing sentiment, insights, and signals from the people actually building and investing in this space.
 
-X (https://x.com/infini3_) | Telegram (https://t.me/goinfini3) | Instagram (https://www.instagram.com/goinfini3)
+[X](https://x.com/infini3_) | [Telegram](https://t.me/goinfini3) | [Instagram](https://www.instagram.com/goinfini3)
 
 ### About 28° North
 
@@ -16138,7 +16126,7 @@ Solana Summit India offers a dynamic one-day immersion into the Solana ecosystem
 
 This event is designed for founders, developers, and creatives, tailored to highlight innovative applications and developments in the Solana network. Join us for a day of meaningful talks, networking, and deep insights, focused on the Solana ecosystem in India, tokenization of real-world assets, evolving policy and regulatory frameworks, developer insights, and applications pushing the network forward.
 
-Are you interested in speaking at the event? Please apply here (https://airtable.com/appdfQFBoIXdYtre1/shrdAx4411rgtsMIC).
+Are [you interested in speaking at the event? Please apply here](https://airtable.com/appdfQFBoIXdYtre1/shrdAx4411rgtsMIC).
 
 During the event, you can expect:
 
@@ -16173,63 +16161,63 @@ Expect the biggest human rights x neo-cypherpunk festival. Buenos Aires edition 
 
 Curatorial note: we assemble speakers on intersection between digital rights, FOSS, decentralisation & cryptography.
 
-They propose practical solutions for global challenges from polarisation in social media to raise of dictatorships. Challenge internet shutdowns, abuse of digital identity, & attacks on encryption. With proven track record from @EFF (https://x.com/EFF) to @brave (https://x.com/brave).
+They propose practical solutions for global challenges from polarisation in social media to raise of dictatorships. Challenge internet shutdowns, abuse of digital identity, & [attacks on encryption. With proven track record from @EFF](https://x.com/EFF) [to @brave](https://x.com/brave).
 
 Welcome to Mumbai!
 
-@kurtopsahl (https://x.com/kurtopsahl) x @FilFoundation (https://x.com/FilFoundation) for long-lasting defence of encryption in EFF, exceptional human qualities and bridging gap betwen old & new cypherpunks
+@[kurtopsahl](https://x.com/kurtopsahl) [x @FilFoundation](https://x.com/FilFoundation) for long-lasting defence of encryption in EFF, exceptional human qualities and bridging gap betwen old & new cypherpunks
 
-@Isa (https://x.com/Isa) x @torproject (https://x.com/torproject) for exceptional work on harmonizing network-level privacy and digital rights
+@[Isa](https://x.com/Isa) [x @torproject](https://x.com/torproject) for exceptional work on harmonizing network-level privacy and digital rights
 
-@ghappour (https://x.com/ghappour) x flashbots for matching digital rights & web3 culture. Being a real representative of privacy-first, encryption-centric narrative across borders & ecosystems.
+@[ghappour](https://x.com/ghappour) x flashbots for matching digital rights & web3 culture. Being a real representative of privacy-first, encryption-centric narrative across borders & ecosystems.
 
-@therealyingtong (https://x.com/therealyingtong) for proving that real-world cryptography exists in practice & can serve marginalized people
+@[therealyingtong](https://x.com/therealyingtong) for proving that real-world cryptography exists in practice & can serve marginalized people
 
-Justin Drake (https://x.com/drakefjustin) - key Ethereum Foundation protocol researcher
+[Justin Drake](https://x.com/drakefjustin) - key Ethereum Foundation protocol researcher
 
-@lunardragon420 (https://x.com/lunardragon420) x @DarkFiSquad (https://x.com/DarkFiSquad) for uncompromising values & visionary ideas on both tech activism & role of code
+@[lunardragon420](https://x.com/lunardragon420) [x @DarkFiSquad](https://x.com/DarkFiSquad) for uncompromising values & visionary ideas on both tech activism & role of code
 
-@mala (https://x.com/mala) x @FilFoundation (https://x.com/FilFoundation) for openness to transition old cypherpunk narratives into compeling and positive knowledge for the future to come
+@[mala](https://x.com/mala) [x @FilFoundation](https://x.com/FilFoundation) for openness to transition old cypherpunk narratives into compeling and positive knowledge for the future to come
 
-@jaromil (https://x.com/jaromil) x @DyneOrg (https://x.com/DyneOrg) for balancing hacktivist culture with digital identity challenges, defending civic society by representing us in institutions
+@[jaromil](https://x.com/jaromil) [x @DyneOrg](https://x.com/DyneOrg) for balancing hacktivist culture with digital identity challenges, defending civic society by representing us in institutions
 
-@ml_sudo (https://x.com/ml_sudo) x @ethereumfndn (https://x.com/ethereumfndn)'s Silviculture for accelerating meaningful cryptography & culture across ecosystems
+@[ml_sudo](https://x.com/ml_sudo) [x @ethereumfndn](https://x.com/ethereumfndn)'s Silviculture for accelerating meaningful cryptography & culture across ecosystems
 
-@PryvitKyle (https://x.com/PryvitKyle) x @brave (https://x.com/brave) for brinding gap between already proven privacy tech & emerging innovations - showing how crypto can plug'n'play in traditional tech
+@[PryvitKyle](https://x.com/PryvitKyle) [x @brave](https://x.com/brave) for brinding gap between already proven privacy tech & emerging innovations - showing how crypto can plug'n'play in traditional tech
 
-@SCBuergel (https://x.com/SCBuergel) x @gnosis_ (https://x.com/gnosis_) + @hoprnet (https://x.com/hoprnet) for dedicating years of life to deliver network-level privacy, staying for the culture and diversifying VPN market.
+@[SCBuergel](https://x.com/SCBuergel) [x @gnosis_](https://x.com/gnosis_) + @[hoprnet](https://x.com/hoprnet) for dedicating years of life to deliver network-level privacy, staying for the culture and diversifying VPN market.
 
-@jbaylina (https://x.com/jbaylina) x @ziskvm (https://x.com/ziskvm) for tech dedication to solve digital rights in practice, growing a group of cryptographers, scaling & securing millions of people.
+@[jbaylina](https://x.com/jbaylina) [x @ziskvm](https://x.com/ziskvm) for tech dedication to solve digital rights in practice, growing a group of cryptographers, scaling & securing millions of people.
 
 ### FOCUS AREAS
 
-@AndyGuzmanEth (https://x.com/AndyGuzmanEth) x @PrivacyEthereum (https://x.com/PrivacyEthereum) for proving that the future of privacy ecosystem depends on decency and positive communication.
+@[AndyGuzmanEth](https://x.com/AndyGuzmanEth) [x @PrivacyEthereum](https://x.com/PrivacyEthereum) for proving that the future of privacy ecosystem depends on decency and positive communication.
 
-@Fatalmeh (https://x.com/Fatalmeh) for caring about human rights now, legal web3 policies, & decentralised tech that will shift global power dynamics
+@[Fatalmeh](https://x.com/Fatalmeh) for caring about human rights now, legal web3 policies, & decentralised tech that will shift global power dynamics
 
-@miroyato (https://x.com/miroyato) x @fileverse (https://x.com/fileverse) for by-week practical deGoogling at scale via http://ddocs.new & bringing deep academical approach to decentralised tech culture
+@[miroyato](https://x.com/miroyato) [x @fileverse](https://x.com/fileverse) for by-week practical deGoogling at scale via http://ddocs.new & bringing deep academical approach to decentralised tech culture
 
-@auryn_macmillan (https://x.com/auryn_macmillan) x @EnclaveE3 (https://x.com/EnclaveE3) for long-lasting representation of human values where code really becomes a speech. Delivering complex encryption for confidential computation.
+@[auryn_macmillan](https://x.com/auryn_macmillan) [x @EnclaveE3](https://x.com/EnclaveE3) for long-lasting representation of human values where code really becomes a speech. Delivering complex encryption for confidential computation.
 
-@hebbianloop (https://x.com/hebbianloop) x @humntech (https://x.com/humntech) for protecting identity at scale & bridging traditional digital rights with emerging tech
+@[hebbianloop](https://x.com/hebbianloop) [x @humntech](https://x.com/humntech) for protecting identity at scale & bridging traditional digital rights with emerging tech
 
-@Cryptic_cm (https://x.com/Cryptic_cm) x @session_app (https://x.com/session_app) for providing vocal alternatives to how we securely communicate & collaborate online
+@[Cryptic_cm](https://x.com/Cryptic_cm) [x @session_app](https://x.com/session_app) for providing vocal alternatives to how we securely communicate & collaborate online
 
-@kassandraETH (https://x.com/kassandraETH) x @ethereumfndn (https://x.com/ethereumfndn) for proving that code is an art, & cultural diversity can bring striking change - uniting ecosystems & voices beyond tribalism
+@[kassandraETH](https://x.com/kassandraETH) [x @ethereumfndn](https://x.com/ethereumfndn) for proving that code is an art, & cultural diversity can bring striking change - uniting ecosystems & voices beyond tribalism
 
-@Pol_Lanski (https://x.com/Pol_Lanski) x @dappnode (https://x.com/dappnode) for proving that node-running isn't a rocket science, but active contribution to both decentralisation and censorship resistance
+@[Pol_Lanski](https://x.com/Pol_Lanski) [x @dappnode](https://x.com/dappnode) for proving that node-running isn't a rocket science, but active contribution to both decentralisation and censorship resistance
 
-@LoringHarkness (https://x.com/LoringHarkness) x @ShutterNetwork (https://x.com/ShutterNetwork) for pushing new cryptographic primitives to life, alligning different actords towards Encrypted Mempools
+@[LoringHarkness](https://x.com/LoringHarkness) [x @ShutterNetwork](https://x.com/ShutterNetwork) for pushing new cryptographic primitives to life, alligning different actords towards Encrypted Mempools
 
-@TMIYChao (https://x.com/TMIYChao) x @ethereumfndn (https://x.com/ethereumfndn) + @BordelWTF (https://x.com/BordelWTF) for keeping reminding that original cypherpunks were build on values & not shiny merch (we translate: use @GrapheneOS (https://x.com/GrapheneOS), run your own node, visit CCC etc)
+@[TMIYChao](https://x.com/TMIYChao) [x @ethereumfndn](https://x.com/ethereumfndn) + @[BordelWTF](https://x.com/BordelWTF) for keeping reminding that original cypherpunks were build on values & not shiny merch ([we translate: use @GrapheneOS](https://x.com/GrapheneOS), run your own node, visit CCC etc)
 
-@0xMeTony (https://x.com/0xMeTony) x @fluidkey (https://x.com/fluidkey) for proving that hackathons can create decent privacy-projects positively evolving over time
+@0xMeTony (https://x.com/0xMeTony) [x @fluidkey](https://x.com/fluidkey) for proving that hackathons can create decent privacy-projects positively evolving over time
 
-Daniel x @invisiblgarden (https://x.com/invisiblgarden) for matching digital rights with commons, practical web3 aplicability to the endangered societies
+[Daniel x @invisiblgarden](https://x.com/invisiblgarden) for matching digital rights with commons, practical web3 aplicability to the endangered societies
 
-@ncsgy (https://x.com/ncsgy) x @ethereumfndn (https://x.com/ethereumfndn) for bringing tangible privacy via Kohaku, chancing the whole wallet-domain for better, and activating positive side of web3 to millions of people.
+@[ncsgy](https://x.com/ncsgy) [x @ethereumfndn](https://x.com/ethereumfndn) for bringing tangible privacy via Kohaku, chancing the whole wallet-domain for better, and activating positive side of web3 to millions of people.
 
-@willscott (https://x.com/willscott) for representing man of action approach, helping, supporting, activating. Together.
+@[willscott](https://x.com/willscott) for representing man of action approach, helping, supporting, activating. Together.
 
 ### SPONSORS
 
@@ -16265,7 +16253,7 @@ Vitalik Buterin + Naomi Brockwell fireside https://www.youtube.com/watch?v=5At5_
 
 ### Ethereum Social Layer (ESL)
 
-It is being formed before our eyes - an active ecosystem of thousands of thinkers, developers, analysts, human-rights DAOs, coordinators, and even ravers. Inspired by cypherpunks of the past, they create a foundation for the digital community of the future (explore our Cyherpunk personas (https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/u4ELDt0YkpCe272kD2f5kTThJsILg1pgaOeBsTSGV0I) article). Based on permissionless & censorship-resistance ideology. Follow Paul-Dylan Ennis (https://x.com/post_polar_/status/1813275641954877709) on ESL.
+It is being formed before our eyes - an active ecosystem of thousands of thinkers, developers, analysts, human-rights DAOs, coordinators, and even ravers. Inspired by cypherpunks of the past, they create a foundation for the digital community of the future ([explore our Cyherpunk personas](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/u4ELDt0YkpCe272kD2f5kTThJsILg1pgaOeBsTSGV0I) article). Based on permissionless & [censorship-resistance ideology. Follow Paul-Dylan Ennis](https://x.com/post_polar_/status/1813275641954877709) on ESL.
 
 ### Activation
 
@@ -16285,14 +16273,14 @@ Diversity in the web3 industry is a critical challenge, let alone in the privacy
 
 Activation track
 
-We want everyone to feel, use and contribute to practical privacy tooling. So we will showcase existing tools empowering your journey in decentralized world: Fileverse (http://fileverse.io), Rotki (http://rotki.com), Fluidkey (http://fluidkey.com), Radicle, GnosisVPN.
+We want everyone to feel, use and contribute to practical privacy tooling. So we will showcase existing tools [empowering your journey in decentralized world: Fileverse](http://fileverse.io), [Rotki](http://rotki.com), [Fluidkey](http://fluidkey.com), Radicle, GnosisVPN.
 
 Stunning merch delivered by Coinmandeer
 
 ### High-level agenda
 
 - craft conditions needed to overcome challenges mapped in "Make Ethereum Cypherpunk again" essay
-- present Ethereum Privacy Ecosystem (https://docs.web3privacy.info/research/ethereum-privacy-ecosystem/) and its key players
+- [present Ethereum Privacy Ecosystem](https://docs.web3privacy.info/research/ethereum-privacy-ecosystem/) and its key players
 - explore socio-cultural conditions re-wiring degens into cypher-activists
 - build a mainstream culture around cypherpunk - make it an open and inclusive movement
 - remind of the origins of Ethereum ethos
@@ -16307,16 +16295,16 @@ Speak (CfP): https://tally.so/r/nrOzXl
 
 Partner:
 
-- web3privacynow 'at' protonmail.com (http://protonmail.com) or
+- [web3privacynow 'at' protonmail.com](http://protonmail.com) or
 - https://x.com/PG_CDG
 
 Volunteer: https://tally.so/r/3lLqKo
 
 Our previous events (feel the vibe)
 
-- Privacy Summit II (https://summit.web3privacy.info/) - Paralelni Polis, Prague 2024
-- Privacy Summit I (https://prague.web3privacy.info) - X10, Prague 2023
-- ETHRome Meetup (https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/bzv735Bc1zak7Yi-NcxWavMQKgt2ANXQtpkrSp8Xg3o)- Villaggio Globale, Rome 2023
+- [Privacy Summit II](https://summit.web3privacy.info/) - Paralelni Polis, Prague 2024
+- [Privacy Summit I](https://prague.web3privacy.info) - X10, Prague 2023
+- [ETHRome Meetup](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/bzv735Bc1zak7Yi-NcxWavMQKgt2ANXQtpkrSp8Xg3o)- Villaggio Globale, Rome 2023
   Useful resources (for real)
   Website: https://web3privacy.info/
   Latest news: http://twitter.com/web3privacy
@@ -16421,7 +16409,7 @@ Ideal partners include:
 
 Whether you want to host a quest, brand a zone, power the main stage, or co-create the digital layer, there's space in the city for your brand to connect with the most active Web3 crowd on-ground.
 
-(tg: @theatharvshrivastava (https://t.me/theatharvshrivastava), mail: atharv@backersstage.com)
+([tg: @theatharvshrivastava](https://t.me/theatharvshrivastava), mail: atharv@backersstage.com)
 
 Previous Devconnect Edition:
 
@@ -16499,7 +16487,7 @@ Mumbai carries the theme Capital. Where conviction turns into cheques, this stop
 
 This isn't a pitch fest. It's a space for honest takes, contrarian views, and collective intelligence - capturing how each city's community is thinking, positioning, and preparing right now, city by city, across a 9-city run - maybe more
 
-The circuit is co-led by Raajeev Anand (TechHybr (https://x.com/techhybrx)), bringing his on-ground Web3 & AI community reach into every stop of the run.
+The circuit is co-led by Raajeev Anand ([TechHybr](https://x.com/techhybrx)), bringing his on-ground Web3 & AI community reach into every stop of the run.
 
 Whether you're deep in the trenches or just AI & Web3-curious, come add your voice to the conversation.
 
@@ -16511,18 +16499,18 @@ Trailblazers
 
 OroPocket - Brings a Trailblazer's perspective to the room - pioneering everyday access to gold & silver investing, a domain adjacent to but distinct from crypto-native assets. Their presence broadens the credibility of the conversation and adds real-world asset variety to the ecosystem represented here.
 
-X (https://x.com/oropocket) | LinkedIn (https://www.linkedin.com/company/oropocket/) | Promo (https://Have made a promo for this campaign Anyone signing up using this link would get Rs 50 of free gold on their first investment of Rs 500: https://oropocket.com/i/READY364)
+[X](https://x.com/oropocket) | [LinkedIn](https://www.linkedin.com/company/oropocket/) | Promo (https://Have made a promo for this campaign Anyone signing up using this link would get Rs 50 of free gold on their first investment of Rs 500: https://oropocket.com/i/READY364)
 
 ### Community Partners
 
-- KoinX X (https://x.com/getkoinx) | LinkedIn (https://www.linkedin.com/company/getkoinx/)
-- Web3 Events X (https://x.com/web3_events) | LinkedIn (https://www.linkedin.com/company/web3-events/)
-- Web3 Aligarh X (https://x.com/web3aligarh) | LinkedIn (https://www.linkedin.com/company/web3-aligarh/)
-- Bhopal DAO X (https://x.com/Bhopal_DAO) | LinkedIn (https://linkedin.com/company/bhopal-dao/)
+- [KoinX X](https://x.com/getkoinx) | [LinkedIn](https://www.linkedin.com/company/getkoinx/)
+- [Web3 Events X](https://x.com/web3_events) | [LinkedIn](https://www.linkedin.com/company/web3-events/)
+- [Web3 Aligarh X](https://x.com/web3aligarh) | [LinkedIn](https://www.linkedin.com/company/web3-aligarh/)
+- [Bhopal DAO X](https://x.com/Bhopal_DAO) | [LinkedIn](https://linkedin.com/company/bhopal-dao/)
 - Zyphar Community
-- Collably Network X (https://x.com/CollablyNetwork) | LinkedIn (https://www.linkedin.com/company/collablynetwork/)
+- [Collably Network X](https://x.com/CollablyNetwork) | [LinkedIn](https://www.linkedin.com/company/collablynetwork/)
 
-### Raajeev Anand (@cryptomargofficial )/ TechHybr
+### Raajeev Anand (@[cryptomargofficial])/ TechHybr
 
 https://www.instagram.com/cryptomargofficial/
 
@@ -16530,13 +16518,13 @@ Raajeev Anand is an India-based Web3 & AI social media influencer and digital en
 
 Through TechHybr, his vision is to build a value-driven ecosystem, powered by Web3 and AI, that brings together content, development, and scale - making complex technology accessible, practical, and actionable for creators, students, and businesses across India.
 
-Insta (https://www.instagram.com/cryptomargofficial/) | X (https://x.com/raajeevanand) | LinkedIn (https://www.linkedin.com/in/raajeevanand/)
+[Insta](https://www.instagram.com/cryptomargofficial/) | [X](https://x.com/raajeevanand) | [LinkedIn](https://www.linkedin.com/in/raajeevanand/)
 
 ### About Infini3
 
 Infini3 is an events and media platform, built as an IP of 28° North - a boutique strategic advisory firm for early-stage Web3 & AI startups. It brings India's crypto and Web3 ecosystem together across formats, from large-scale IRL events and community meetups to online panels, podcasts, and AMAs. Infini3 turns community participation into collective intelligence - capturing sentiment, insights, and signals from the people actually building and investing in this space.
 
-X (https://x.com/infini3_) | Telegram (https://t.me/goinfini3) | Instagram (https://www.instagram.com/goinfini3)
+[X](https://x.com/infini3_) | [Telegram](https://t.me/goinfini3) | [Instagram](https://www.instagram.com/goinfini3)
 
 ### About 28° North
 
@@ -16629,7 +16617,7 @@ Bhopal carries the theme Confluence. Sitting at a literal geographic meeting poi
 
 This isn't a pitch fest. It's a space for honest takes, contrarian views, and collective intelligence - capturing how each city's community is thinking, positioning, and preparing right now, city by city, across a 9-city run - maybe more
 
-The circuit is co-led by Raajeev Anand (TechHybr (https://x.com/techhybrx)), bringing his on-ground Web3 & AI community reach into every stop of the run.
+The circuit is co-led by Raajeev Anand ([TechHybr](https://x.com/techhybrx)), bringing his on-ground Web3 & AI community reach into every stop of the run.
 
 Whether you're deep in the trenches or just AI & Web3-curious, come add your voice to the conversation.
 
@@ -16641,18 +16629,18 @@ Trailblazers
 
 OroPocket - Brings a Trailblazer's perspective to the room - pioneering everyday access to gold & silver investing, a domain adjacent to but distinct from crypto-native assets. Their presence broadens the credibility of the conversation and adds real-world asset variety to the ecosystem represented here.
 
-X (https://x.com/oropocket) | LinkedIn (https://www.linkedin.com/company/oropocket/) | Promo (https://Have made a promo for this campaign Anyone signing up using this link would get Rs 50 of free gold on their first investment of Rs 500: https://oropocket.com/i/READY364)
+[X](https://x.com/oropocket) | [LinkedIn](https://www.linkedin.com/company/oropocket/) | Promo (https://Have made a promo for this campaign Anyone signing up using this link would get Rs 50 of free gold on their first investment of Rs 500: https://oropocket.com/i/READY364)
 
 ### Community Partners
 
-- KoinX X (https://x.com/getkoinx) | LinkedIn (https://www.linkedin.com/company/getkoinx/)
-- Web3 Events X (https://x.com/web3_events) | LinkedIn (https://www.linkedin.com/company/web3-events/)
-- Web3 Aligarh X (https://x.com/web3aligarh) | LinkedIn (https://www.linkedin.com/company/web3-aligarh/)
-- Bhopal DAO X (https://x.com/Bhopal_DAO) | LinkedIn (https://linkedin.com/company/bhopal-dao/)
+- [KoinX X](https://x.com/getkoinx) | [LinkedIn](https://www.linkedin.com/company/getkoinx/)
+- [Web3 Events X](https://x.com/web3_events) | [LinkedIn](https://www.linkedin.com/company/web3-events/)
+- [Web3 Aligarh X](https://x.com/web3aligarh) | [LinkedIn](https://www.linkedin.com/company/web3-aligarh/)
+- [Bhopal DAO X](https://x.com/Bhopal_DAO) | [LinkedIn](https://linkedin.com/company/bhopal-dao/)
 - Zyphar Community
-- Collably Network X (https://x.com/CollablyNetwork) | LinkedIn (https://www.linkedin.com/company/collablynetwork/)
+- [Collably Network X](https://x.com/CollablyNetwork) | [LinkedIn](https://www.linkedin.com/company/collablynetwork/)
 
-### Raajeev Anand (@cryptomargofficial )/ TechHybr
+### Raajeev Anand (@[cryptomargofficial])/ TechHybr
 
 https://www.instagram.com/cryptomargofficial/
 
@@ -16660,13 +16648,13 @@ Raajeev Anand is an India-based Web3 & AI social media influencer and digital en
 
 Through TechHybr, his vision is to build a value-driven ecosystem, powered by Web3 and AI, that brings together content, development, and scale - making complex technology accessible, practical, and actionable for creators, students, and businesses across India.
 
-Insta (https://www.instagram.com/cryptomargofficial/) | X (https://x.com/raajeevanand) | LinkedIn (https://www.linkedin.com/in/raajeevanand/)
+[Insta](https://www.instagram.com/cryptomargofficial/) | [X](https://x.com/raajeevanand) | [LinkedIn](https://www.linkedin.com/in/raajeevanand/)
 
 ### About Infini3
 
 Infini3 is an events and media platform, built as an IP of 28° North - a boutique strategic advisory firm for early-stage Web3 & AI startups. It brings India's crypto and Web3 ecosystem together across formats, from large-scale IRL events and community meetups to online panels, podcasts, and AMAs. Infini3 turns community participation into collective intelligence - capturing sentiment, insights, and signals from the people actually building and investing in this space.
 
-X (https://x.com/infini3_) | Telegram (https://t.me/goinfini3) | Instagram (https://www.instagram.com/goinfini3)
+[X](https://x.com/infini3_) | [Telegram](https://t.me/goinfini3) | [Instagram](https://www.instagram.com/goinfini3)
 
 ### About 28° North
 
@@ -16690,7 +16678,7 @@ Hyderabad carries the theme Innovation. The city's tech backbone makes the word 
 
 This isn't a pitch fest. It's a space for honest takes, contrarian views, and collective intelligence - capturing how each city's community is thinking, positioning, and preparing right now, city by city, across a 9-city run - maybe more
 
-The circuit is co-led by Raajeev Anand (TechHybr (https://x.com/techhybrx)), bringing his on-ground Web3 & AI community reach into every stop of the run.
+The circuit is co-led by Raajeev Anand ([TechHybr](https://x.com/techhybrx)), bringing his on-ground Web3 & AI community reach into every stop of the run.
 
 Whether you're deep in the trenches or just AI & Web3-curious, come add your voice to the conversation.
 
@@ -16702,18 +16690,18 @@ Trailblazers
 
 OroPocket - Brings a Trailblazer's perspective to the room - pioneering everyday access to gold & silver investing, a domain adjacent to but distinct from crypto-native assets. Their presence broadens the credibility of the conversation and adds real-world asset variety to the ecosystem represented here.
 
-X (https://x.com/oropocket) | LinkedIn (https://www.linkedin.com/company/oropocket/) | Promo (https://Have made a promo for this campaign Anyone signing up using this link would get Rs 50 of free gold on their first investment of Rs 500: https://oropocket.com/i/READY364)
+[X](https://x.com/oropocket) | [LinkedIn](https://www.linkedin.com/company/oropocket/) | Promo (https://Have made a promo for this campaign Anyone signing up using this link would get Rs 50 of free gold on their first investment of Rs 500: https://oropocket.com/i/READY364)
 
 ### Community Partners
 
-- KoinX X (https://x.com/getkoinx) | LinkedIn (https://www.linkedin.com/company/getkoinx/)
-- Web3 Events X (https://x.com/web3_events) | LinkedIn (https://www.linkedin.com/company/web3-events/)
-- Web3 Aligarh X (https://x.com/web3aligarh) | LinkedIn (https://www.linkedin.com/company/web3-aligarh/)
-- Bhopal DAO X (https://x.com/Bhopal_DAO) | LinkedIn (https://linkedin.com/company/bhopal-dao/)
+- [KoinX X](https://x.com/getkoinx) | [LinkedIn](https://www.linkedin.com/company/getkoinx/)
+- [Web3 Events X](https://x.com/web3_events) | [LinkedIn](https://www.linkedin.com/company/web3-events/)
+- [Web3 Aligarh X](https://x.com/web3aligarh) | [LinkedIn](https://www.linkedin.com/company/web3-aligarh/)
+- [Bhopal DAO X](https://x.com/Bhopal_DAO) | [LinkedIn](https://linkedin.com/company/bhopal-dao/)
 - Zyphar Community
-- Collably Network X (https://x.com/CollablyNetwork) | LinkedIn (https://www.linkedin.com/company/collablynetwork/)
+- [Collably Network X](https://x.com/CollablyNetwork) | [LinkedIn](https://www.linkedin.com/company/collablynetwork/)
 
-### Raajeev Anand (@cryptomargofficial )/ TechHybr
+### Raajeev Anand (@[cryptomargofficial])/ TechHybr
 
 https://www.instagram.com/cryptomargofficial/
 
@@ -16721,13 +16709,13 @@ Raajeev Anand is an India-based Web3 & AI social media influencer and digital en
 
 Through TechHybr, his vision is to build a value-driven ecosystem, powered by Web3 and AI, that brings together content, development, and scale - making complex technology accessible, practical, and actionable for creators, students, and businesses across India.
 
-Insta (https://www.instagram.com/cryptomargofficial/) | X (https://x.com/raajeevanand) | LinkedIn (https://www.linkedin.com/in/raajeevanand/)
+[Insta](https://www.instagram.com/cryptomargofficial/) | [X](https://x.com/raajeevanand) | [LinkedIn](https://www.linkedin.com/in/raajeevanand/)
 
 ### About Infini3
 
 Infini3 is an events and media platform, built as an IP of 28° North - a boutique strategic advisory firm for early-stage Web3 & AI startups. It brings India's crypto and Web3 ecosystem together across formats, from large-scale IRL events and community meetups to online panels, podcasts, and AMAs. Infini3 turns community participation into collective intelligence - capturing sentiment, insights, and signals from the people actually building and investing in this space.
 
-X (https://x.com/infini3_) | Telegram (https://t.me/goinfini3) | Instagram (https://www.instagram.com/goinfini3)
+[X](https://x.com/infini3_) | [Telegram](https://t.me/goinfini3) | [Instagram](https://www.instagram.com/goinfini3)
 
 ### About 28° North
 
@@ -16791,9 +16779,9 @@ DATE: Our 115th Dubai Tech Tuesdays event will be held on Tuesday, September 15,
 
 For this Special Edition, Dubai Tech Tuesdays is honored to collaborate with...
 
-EVENT PARTNER: BLOCK & CHILL GLOBAL MIXER SERIES. This roadshow of the iconic World Token Summit 4.0 X Africa Blockchain Festival 2026 activates at major cities around the world to promote the summit and festival taking place 15 to 17 of October, 2026 in Nairobi, Kenya. Follow the global roadshow mixers on luma.comblocknchill (https://luma.com/blocknchill). Register for WTS 4.0 X ABF 26 on WorldTokenSummit.net (https://WorldTokenSummit.net) or Africablockchainfestival.com (https://Africablockchainfestival.com). And, huge gratitude Tech Tuesdays friends Ahmed Rafaie rafaelloangel (https://www.instagram.com/rafaelloangel/?utm_source=luma) and Olubunmi Fabanwo /olubxnmi (https://www.instagram.
+EVENT PARTNER: BLOCK & CHILL GLOBAL MIXER SERIES. This roadshow of the iconic World Token Summit 4.0 X Africa Blockchain Festival 2026 activates at major cities around the world to promote the summit and festival taking place 15 to 17 of October, 2026 in Nairobi, Kenya. [Follow the global roadshow mixers on luma.comblocknchill](https://luma.com/blocknchill). [Register for WTS 4.0 X ABF 26 on WorldTokenSummit.net](https://WorldTokenSummit.net) [or Africablockchainfestival.com](https://Africablockchainfestival.com). And, huge [gratitude Tech Tuesdays friends Ahmed Rafaie rafaelloangel](https://www.instagram.com/rafaelloangel/?utm_source=luma) [and Olubunmi Fabanwo /olubxnmi](https://www.
 
-com/olubxnmi/?utm_source=luma) for making this happen.
+instagram.com/olubxnmi/?utm_source=luma) for making this happen.
 
 VENUE: Come mingle with fellow technologists at our lovely venue - the amazing BELCANTO RESTAURANT AT THE DUBAI OPERA. https://www.instagram.com/belcantodxb/
 
@@ -16823,27 +16811,27 @@ He is exploring how human specialists can retain the understanding needed to jud
 
 9:30 pm - Midnight NETWORKING + DINNER. Now is the time to meet everyone else you might have missed before. Grab a (new) friend, grab a drink, and grab a table. Create and deepen your connections with good conversation. Everyone is friendly and open - so introduce yourself to someone new.
 
-MEDIA PARTNER: DUBAI.NEWS (https://DUBAI.NEWS) (https://www.instagram.com/dubai.newsnow/?utm_source=luma)- UAE's First News Network Run by AI and Amplified to the World. Founded by Sheeraz Hasan No.1 Fame Strategist in the World. https://www.instagram.com/dubai.newsnow/
+[MEDIA PARTNER: DUBAI.NEWS](https://DUBAI.NEWS) (https://www.instagram.com/dubai.newsnow/?utm_source=luma)- UAE's First News Network Run by AI and Amplified to the World. Founded by Sheeraz Hasan No.1 Fame Strategist in the World. https://www.instagram.com/dubai.newsnow/
 
 MEDIA PARTNER: UR Dream Media (UDM) (https://urdreammedia.com/?utm_source=luma) is the only full service studio in town. UDM in its state-of-the-art and extremely flexible setting studio offers Music Production and Recording, Podcast, Videography, Photography and Studio Rental all under one roof. https://www.instagram.com/udmdxb/
 
-PHOTOGRAPHY PARTNER: We are thrilled to be supported by TITUS PHOTOGRAPHY (https://www.instagram.com/_titus_photography/?utm_source=luma)as our media/photography partner. /_titus_photography (https://www.instagram.com/_titus_photography/?utm_source=luma)
+PHOTOGRAPHY [PARTNER: We are thrilled to be supported by TITUS PHOTOGRAPHY](https://www.instagram.com/_titus_photography/?utm_source=luma)[as our media/photography partner. /_titus_photography](https://www.instagram.com/_titus_photography/?utm_source=luma)
 
-COMMUNITY SUPPORT: Thanks to Web3 Future Space for their continued support. https://web3future.space (https://web3future.space)
+COMMUNITY SUPPORT: Thanks to Web3 Future [Space for their continued support. https://web3future.space](https://web3future.space)
 
 And additional special thanks to our special event collaboration partners...
 
 Community
 
-- www.blockdelta.com (https://www.blockdelta.com)
-- www.EcoX.pro (https://www.EcoX.pro)
+- [www.blockdelta.com](https://www.blockdelta.com)
+- [www.EcoX.pro](https://www.EcoX.pro)
 
 Ecosystem
 
-- www.DSRPTD.net (https://www.DSRPTD.net)
-- www.Web3District.xyz (https://www.Web3District.xyz)
+- [www.DSRPTD.net](https://www.DSRPTD.net)
+- [www.Web3District.xyz](https://www.Web3District.xyz)
 
-Media www.Cryptonite.ae (https://www.Cryptonite.ae)
+[Media www.Cryptonite.ae](https://www.Cryptonite.ae)
 
 DRESSCODE: Please dress to impress - this is a high-level business and social event. *** NO caps/shorts NO open toe shoes / sneakers *** Be classy (please). Men - try wearing a suit or sports jacket. Don't wear some random T-shirt/raggedy jeans. Women - this is your chance to be elegant. The venue WILL block access in case of inappropriate, sloppy, or indecent attire.
 
@@ -16865,7 +16853,7 @@ If commercial space flights land on Mars tomorrow, what would you build to creat
 
 [APPLICATIONS CLOSED]
 
-Join GirlsWhoML (https://www.girlswhoml.com/) and PhysicsX (https://www.physicsx.ai/) for an evening hackathon in London to tackle the first human landing on Mars, supported by Cursor. You arrive on an empty, rust-red planet with no city, no roads, and no infrastructure. What do you build first?
+[Join GirlsWhoML](https://www.girlswhoml.com/) [and PhysicsX](https://www.physicsx.ai/) for an evening hackathon in London to tackle the first human landing on Mars, supported by Cursor. You arrive on an empty, rust-red planet with no city, no roads, and no infrastructure. What do you build first?
 
 You'll design and prototype one core system for the Martian city, across three tracks: Architecture, Vehicles, and Life Support. Every build should combine engineering, machine learning, or 3D modelling.
 
@@ -16873,7 +16861,7 @@ The window is short, but that's the point: see how far you can push what's possi
 
 Bring a team of 2-3, or turn up solo and we'll help you find a crew, at our team formation session. Women, non-binary, and allies are all welcome.
 
-Prizes provided by PhysicsX (https://www.physicsx.ai/), including career coaching and mentorship opportunities, to be announced.
+[Prizes provided by PhysicsX](https://www.physicsx.ai/), including career coaching and mentorship opportunities, to be announced.
 
 Bring your curiosity, your laptop, and your ambition. The city starts with you.
 
@@ -16917,11 +16905,11 @@ We'll be at The Ripple Room with cool podcast people and would love to see you t
 
 Hosted by Lauren Passell and Arielle Nissenblatt, this is the Podcast Movement version of Lauren's semi-regular TINK DRINKS at The Ripple Room. Come by for a drink, some salty chips, and to mingle with some podcast people. Whether you're in town for Podcast Movement or you're just a podcast person, this is for you!
 
-Learn more about Tink Media (https://tinkmedia.co/)
+[Learn more about Tink Media](https://tinkmedia.co/)
 
-Learn more about EarBuds (https://www.earbudspodcastcollective.org/)
+[Learn more about EarBuds](https://www.earbudspodcastcollective.org/)
 
-Learn more about Well It Depends Labs (https://wellitdependslabs.com/)
+[Learn more about Well It Depends Labs](https://wellitdependslabs.com/)
 
 <a id="event-bd12c3ca2843ab83"></a>
 
@@ -16971,7 +16959,7 @@ The Rest of the Week
 
 Tech Tuesdays is one of 12+ official events across the 10-day program, September 10 to 19. The week includes the Orbital Runway opening night on the 10th, the two-day flagship conference on the 16th and 17th, BitcoinPalooza as the official after party, the Washington Elite Investment Summit and Gala on the 18th, and the Pause the World for Peace concert in Times Square on the 19th.
 
-Full program and tickets at blockchainweek.ai (https://blockchainweek.ai)
+[Full program and tickets at blockchainweek.ai](https://blockchainweek.ai)
 
 Blockchain Week 2026 (UNGA Edition) is an independent initiative and is not affiliated with the United Nations.
 
@@ -17016,11 +17004,11 @@ LINKEDIN PAGE (Follow Page) https://www.linkedin.com/company/crypto-mondays-stam
 
 X/Twitter PAGE (Follow Page) https://x.com/CtCryptomo64438
 
-SPONSORS: Special thanks to our sponsors: CT Blockchain Association (Alan Deckman (https://www.linkedin.com/in/alan-j-deckman/), Founder and President) and Stand With Crypto, Connecticut Chapter (Lorrie Landis (https://www.linkedin.com/in/lorrielandis2026/), President) and @Ondo.Finance (https://Ondo.Finance) (Pat LaVecchia (https://www.linkedin.com/in/patlavecchia/), Ceo of @Oasis Pro, Inc., an Ondo.Finance (https://Ondo.Finance) company)
+SPONSORS: Special thanks to our sponsors: CT Blockchain Association ([Alan Deckman](https://www.linkedin.com/in/alan-j-deckman/), Founder and President) and Stand With Crypto, Connecticut Chapter ([Lorrie Landis](https://www.linkedin.com/in/lorrielandis2026/), President) [and @Ondo.Finance](https://Ondo.Finance) ([Pat LaVecchia](https://www.linkedin.com/in/patlavecchia/), [Ceo of @Oasis Pro, Inc., an Ondo.Finance](https://Ondo.Finance) company)
 
 YOUR CRYPTOMONDAYS HOSTS:
 
-Pat LaVecchia (https://www.linkedin.com/in/patlavecchia/), Emily Goodman, (https://www.linkedin.com/in/emilyhgoodman/) Lorrie Landis (https://www.linkedin.com/in/lorrielandis2026/), Keith Strycula, Jason Cabral (https://www.linkedin.com/in/jason-cabral-3923b5b1/), David Mikulecky (https://www.linkedin.com/in/davidmikulecky/), Roger Benites (https://www.linkedin.com/in/rogermbenites)
+[Pat LaVecchia](https://www.linkedin.com/in/patlavecchia/), [Emily Goodman,](https://www.linkedin.com/in/emilyhgoodman/) [Lorrie Landis](https://www.linkedin.com/in/lorrielandis2026/), [Keith Strycula, Jason Cabral](https://www.linkedin.com/in/jason-cabral-3923b5b1/), [David Mikulecky](https://www.linkedin.com/in/davidmikulecky/), [Roger Benites](https://www.linkedin.com/in/rogermbenites)
 
 ### Location
 
@@ -17038,11 +17026,11 @@ LINKEDIN PAGE (Follow Page) https://www.linkedin.com/company/crypto-mondays-stam
 
 X/Twitter PAGE (Follow Page) https://x.com/CtCryptomo64438
 
-SPONSORS: Special thanks to our sponsors: CT Blockchain Association (Alan Deckman (https://www.linkedin.com/in/alan-j-deckman/), Founder and President) and Stand With Crypto, Connecticut Chapter (Lorrie Landis (https://www.linkedin.com/in/lorrielandis2026/), President) and @Ondo.Finance (https://Ondo.Finance) (Pat LaVecchia (https://www.linkedin.com/in/patlavecchia/), Ceo of @Oasis Pro, Inc., an Ondo.Finance (https://Ondo.Finance) company)
+SPONSORS: Special thanks to our sponsors: CT Blockchain Association ([Alan Deckman](https://www.linkedin.com/in/alan-j-deckman/), Founder and President) and Stand With Crypto, Connecticut Chapter ([Lorrie Landis](https://www.linkedin.com/in/lorrielandis2026/), President) [and @Ondo.Finance](https://Ondo.Finance) ([Pat LaVecchia](https://www.linkedin.com/in/patlavecchia/), [Ceo of @Oasis Pro, Inc., an Ondo.Finance](https://Ondo.Finance) company)
 
 YOUR CRYPTOMONDAYS HOSTS:
 
-Pat LaVecchia (https://www.linkedin.com/in/patlavecchia/), Emily Goodman, (https://www.linkedin.com/in/emilyhgoodman/) Lorrie Landis (https://www.linkedin.com/in/lorrielandis2026/), Keith Strycula, Jason Cabral (https://www.linkedin.com/in/jason-cabral-3923b5b1/), David Mikulecky (https://www.linkedin.com/in/davidmikulecky/), Roger Benites (https://www.linkedin.com/in/rogermbenites)
+[Pat LaVecchia](https://www.linkedin.com/in/patlavecchia/), [Emily Goodman,](https://www.linkedin.com/in/emilyhgoodman/) [Lorrie Landis](https://www.linkedin.com/in/lorrielandis2026/), [Keith Strycula, Jason Cabral](https://www.linkedin.com/in/jason-cabral-3923b5b1/), [David Mikulecky](https://www.linkedin.com/in/davidmikulecky/), [Roger Benites](https://www.linkedin.com/in/rogermbenites)
 
 <a id="event-ff42029c17c8a283"></a>
 
@@ -17076,7 +17064,7 @@ From September 16 to 20 we are bringing builders together for five days at Drape
 
 It is a coworking week to build, collaborate and get your submission moving. Come with an idea, find your cofounder, join the workshops, get feedback, and learn from founders who have already built and raised. The week ends with a Demo Day where every team presents what it built.
 
-Register for the hackathon first, then join us: Register for the hackathon (https://colosseum.com/worldsfair?utm_source=luma)
+Register for [the hackathon first, then join us: Register for the hackathon](https://colosseum.com/worldsfair?utm_source=luma)
 
 ### Schedule
 
@@ -17263,13 +17251,13 @@ Co-Country Lead & CTO, Superteam Japan
 
 https://x.com/SuperteamJapan
 
-zkYuki (@zkyuki_Ditto (https://x.com/zkyuki_Ditto))
+zkYuki (@[zkyuki_Ditto](https://x.com/zkyuki_Ditto))
 
 Co-Founder, Daiko
 
 https://x.com/DaikoAI
 
-Yuki (@yuki__app (https://x.com/yuki__app))
+Yuki (@[yuki__app](https://x.com/yuki__app))
 
 Co-Founder, LootGO
 
@@ -17293,13 +17281,13 @@ STEP 2：会場「Discord（ディスコード）」の準備
 
 今回のイベント会場は、スマホやPCで使えるコミュニケーションアプリ「Discord」になります。
 
-参加URL： Discordサーバーに参加 (https://discord.com/invite/stjp?utm_source=luma)
+参加URL： [Discordサーバーに参加](https://discord.com/invite/stjp?utm_source=luma)
 
 スマホで参加の方 事前にアプリをインストールしておくと、当日の参加がとてもスムーズです。
 
-iPhoneの方（App Store） (https://apps.apple.com/jp/app/discord-%E4%B8%80%E7%B7%92%E3%81%AB%E3%81%97%E3%82%83%E3%81%B9%E3%81%A3%E3%81%A6%E9%81%8A%E3%82%93%E3%81%A7%E9%9B%86%E3%81%BE%E3%82%8D%E3%81%86/id985746746?utm_source=luma)
+[iPhoneの方（App Store）](https://apps.apple.com/jp/app/discord-%E4%B8%80%E7%B7%92%E3%81%AB%E3%81%97%E3%82%83%E3%81%B9%E3%81%A3%E3%81%A6%E9%81%8A%E3%82%93%E3%81%A7%E9%9B%86%E3%81%BE%E3%82%8D%E3%81%86/id985746746?utm_source=luma)
 
-Androidの方（Google Play） (https://play.google.com/store/apps/details?id=com.discord&hl=ja&utm_source=luma)
+[Androidの方（Google Play）](https://play.google.com/store/apps/details?id=com.discord&hl=ja&utm_source=luma)
 
 PCで参加の方 アプリを入れなくても、いつものブラウザ（ChromeやSafariなど）でそのまま開けます。
 
@@ -17337,21 +17325,21 @@ Eugene Chia - Co-Founder & COO of Ecovolt
 
 Ecovolt is a sustainability and energy-tech startup developing smart systems that help buildings monitor, manage and reduce electricity use. Its technology tracks plug-load energy consumption and helps identify wasted or idle energy, enabling buildings to operate more efficiently and lower emissions without major rewiring.
 
-LinkedIn: Eugene Chia (https://sg.linkedin.com/in/eugenechiaannyao)
+[LinkedIn: Eugene Chia](https://sg.linkedin.com/in/eugenechiaannyao)
 
-Ecovolt: Website (https://www.ecovolt.ai/)
+[Ecovolt: Website](https://www.ecovolt.ai/)
 
 Kyle Lao - Co-founder & CEO, MenSC Labs
 
 MenSC Labs is a women's health biotech startup developing regenerative medicine technologies using menstrual blood-derived mesenchymal stem cells (MSCs) and exosomes. It aims to turn menstrual blood, a renewable and non-invasive source of stem cells, into scalable research products and future applications for women's health, while also exploring menstrual-blood-based testing for uterine health
 
-LinkedIn: Kyle Lao (https://sg.linkedin.com/in/kyle-daniel-lao)
+[LinkedIn: Kyle Lao](https://sg.linkedin.com/in/kyle-daniel-lao)
 
-MenSC Labs: Website (https://mensc-labs.com/index.html)
+[MenSC Labs: Website](https://mensc-labs.com/index.html)
 
 Come ready to challenge founder myths, ask candid questions and hear what building a startup actually looks like beyond the pitch deck. Spots are limited to keep the conversation small and interactive.
 
-Stay in touch with us on Telegram to stay posted for more exciting events @nussec (https://t.me/nussec?utm_source=luma)!
+Stay in touch with us [on Telegram to stay posted for more exciting events @nussec](https://t.me/nussec?utm_source=luma)!
 
 <a id="event-55c3b2b2bd41e08e"></a>
 
@@ -17554,20 +17542,20 @@ What Is Included?
 Important Reminders:
 
 - Dress Code: Business, smart casual
-- Stay Connected: Follow us on Instagram (https://www.instagram.com/brderless/) or LinkedIn (https://www.linkedin.com/company/brderless/) for updates on our community, events and opportunities.
+- [Stay Connected: Follow us on Instagram](https://www.instagram.com/brderless/) [or LinkedIn](https://www.linkedin.com/company/brderless/) for updates on our community, events and opportunities.
 - Photography Notice: By attending, you consent to being photographed or recorded for promotional purposes.
 
 ### About the Hosts & Sponsors
 
-Brderless (https://www.linkedin.com/company/brderless) brings together the most extraordinary founders through a carefully curated community.
+[Brderless](https://www.linkedin.com/company/brderless) brings together the most extraordinary founders through a carefully curated community.
 
-Keka (https://www.keka.com) is an HR software platform, a "PeopleOS" built to handle the core functions companies need to manage their workforce. It brings together payroll processing, attendance and leave tracking, performance management, hiring and onboarding, and employee engagement into one system, so HR teams don't have to juggle separate tools.
+[Keka](https://www.keka.com) is an HR software platform, a "PeopleOS" built to handle the core functions companies need to manage their workforce. It brings together payroll processing, attendance and leave tracking, performance management, hiring and onboarding, and employee engagement into one system, so HR teams don't have to juggle separate tools.
 
-MongoDB (https://www.mongodb.com/company/ventures?utm_source=luma)is a document database with the scalability and flexibility that you want with the querying and indexing that you need. Build, scale, and succeed with MongoDB for Startups (https://www.mongodb.com/solutions/startups?
+[MongoDB](https://www.mongodb.com/company/ventures?utm_source=luma)is a document database with the scalability and flexibility that you want with the querying and indexing that [you need. Build, scale, and succeed with MongoDB for Startups](https://www.mongodb.com/solutions/startups?
 
 utm_source=google&utm_campaign=search_gs_pl_evergreen_pd-null_startups_prosp-brand_gic-null_ww-multi_ps-all_dv-all_eng_formsubmit&utm_term=mongodb%20startup%20program&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=20457804147&adgroup=152554839516&cq_cmp=20457804147&gad_source=1&gad_campaignid=20457804147&gbraid=0AAAAADQ1400LYw5ROyWXP2Oqyg9R3Cfis&gclid=Cj0KCQjwlqTRBhCBARIsANrkrxhF7earE2vqDP404-N1s0GL_mW7XbUSyLQn3UBHYe_yuBA3eqwaFwgaArPrEALw_wcB).
 
-Fellow (https://fellow.legal) is a boutique law firm for Bay Area startups and their investors, from Seed to Series C, who want an outsourced general counsel rather than a document vendor. We handle the full startup legal stack across commercial work, corporate matters, and fundraising and exits. We do it AI-first and on deterministic workflows, with fixed rates for most work and clear pricing up front, all delivered where your team already works (e.g., Slack). Over 250 founders (incl. from YC, Neo, Speedrun, and more) have trusted us with their legal in less than two years.
+[Fellow](https://fellow.legal) is a boutique law firm for Bay Area startups and their investors, from Seed to Series C, who want an outsourced general counsel rather than a document vendor. We handle the full startup legal stack across commercial work, corporate matters, and fundraising and exits. We do it AI-first and on deterministic workflows, with fixed rates for most work and clear pricing up front, all delivered where your team already works (e.g., Slack). Over 250 founders (incl. from YC, Neo, Speedrun, and more) have trusted us with their legal in less than two years.
 
 <a id="event-8bb135199dea7470"></a>
 
@@ -17674,7 +17662,7 @@ More About the Series
 
 Tinker Time is Lorong AI's hands-on meetup combining guided workshops with open collaboration time for builders to share code, troubleshoot together, and experiment with AI development techniques.
 
-Get involved: Learn more about Lorong AI (https://lorong.ai/?utm_source=luma) | Speaker Sign-up (https://go.gov.sg/lai-share?utm_source=luma)| WhatsApp Community (https://go.gov.sg/aiweds-community?utm_source=luma)| LinkedIn (https://go.gov.sg/lai-li?utm_source=luma)| X (https://go.gov.sg/lai-x?utm_source=luma)
+[Get involved: Learn more about Lorong AI](https://lorong.ai/?utm_source=luma) | [Speaker Sign-up](https://go.gov.sg/lai-share?utm_source=luma)| [WhatsApp Community](https://go.gov.sg/aiweds-community?utm_source=luma)| [LinkedIn](https://go.gov.sg/lai-li?utm_source=luma)| [X](https://go.gov.sg/lai-x?utm_source=luma)
 
 <a id="event-28a63b3d723ddd68"></a>
 
@@ -17772,7 +17760,7 @@ The Solana Foundation is a non-profit organisation based in Zug, Switzerland, de
 
 House of Sol is a sanctuary for institutions and DeFi on Solana. Located in London, it serves as an exclusive members club and event space where founders, institutions and ecosystem teams come together for intimate gatherings, weekly co-working and closed-door discussions to accelerate Solana's growth.
 
-Learn more and apply for membership at houseofsol.org (https://houseofsol.org)
+[Learn more and apply for membership at houseofsol.org](https://houseofsol.org)
 
 This is a strictly invite-only event. Each ticket allows admission for one participant only. Do note that you will have to show the confirmation QR code/email of registration for approval for entry.
 
@@ -17880,7 +17868,7 @@ Direct contact on Telegram: @AstridnDAG
 - Description: Source-backed
 - Original page: <https://luma.com/d6g5mb9o>
 
-### MantisGrid AI Hackathon & Summit
+### [MantisGrid AI] Hackathon & Summit
 
 https://www.mantisgrid.ai/
 
@@ -17921,29 +17909,29 @@ After the competition, join the AI Reliability Summit, featuring industry leader
 
 ### Panel: The Future of AI Infrastructure
 
-Boris Scholl. (https://www.linkedin.com/in/bscholl/) VP & Architect, Cloud & AI Engineering at Microsoft. (https://www.microsoft.com/en-us)
+[Boris Scholl.](https://www.linkedin.com/in/bscholl/) [VP & Architect, Cloud & AI Engineering at Microsoft.](https://www.microsoft.com/en-us)
 
-Vijay Vusirikala. (http://linkedin.com/in/vijayvusiri) Distinguished Lead - AI Systems & Networks at Arista (https://www.arista.com/en/).
+[Vijay Vusirikala.](http://linkedin.com/in/vijayvusiri) [Distinguished Lead - AI Systems & Networks at Arista](https://www.arista.com/en/).
 
-Malhar Thakkar, Global AI ISV Solutions & Ecosystem Leader at Intel (https://www.linkedin.com/in/malhar4/).
+Malhar [Thakkar, Global AI ISV Solutions & Ecosystem Leader at Intel](https://www.linkedin.com/in/malhar4/).
 
-Sam Aldrin, Distinguished Engineer, Nvidia (https://www.linkedin.com/in/sam-aldrin-02443/).
+[Sam Aldrin, Distinguished Engineer, Nvidia](https://www.linkedin.com/in/sam-aldrin-02443/).
 
 ### Panel: AI Reliability Beyond the Model
 
-Vijay Krishnan. (https://linkedin.com/in/vijay0) Founder & CTO of Turing.com. (http://turing.com/)
+[Vijay Krishnan.](https://linkedin.com/in/vijay0) [Founder & CTO of Turing.com.](http://turing.com/)
 
-Mahesh Ram. (https://linkedin.com/in/rammahesh) Ex-Head of AI, Zoom. (https://www.zoom.com/)
+[Mahesh Ram.](https://linkedin.com/in/rammahesh) [Ex-Head of AI, Zoom.](https://www.zoom.com/)
 
-Jared Quincy Davis (https://linkedin.com/in/jaredquincydavis). Founder & CEO of Mithril. (https://mithril.ai/)
+[Jared Quincy Davis](https://linkedin.com/in/jaredquincydavis). [Founder & CEO of Mithril.](https://mithril.ai/)
 
 ### Featured Keynote
 
-Muckai Girish. (https://www.linkedin.com/in/muckaigirish/) Co-founder & CEO of Rockfish Data. (https://www.rockfish.ai/)
+[Muckai Girish.](https://www.linkedin.com/in/muckaigirish/) [Co-founder & CEO of Rockfish Data.](https://www.rockfish.ai/)
 
-William Vambenepe. (https://www.linkedin.com/in/vambenepe) VP of Product at (https://mithril.ai/)Mithril. (https://Mithril.ai)
+[William Vambenepe.](https://www.linkedin.com/in/vambenepe) [VP of Product at](https://mithril.ai/)[Mithril.](https://Mithril.ai)
 
-Brian Laing. (https://www.linkedin.com/in/blaing) Chief Solutions Officer at AccuKnox (https://accuknox.com/).
+[Brian Laing.](https://www.linkedin.com/in/blaing) [Chief Solutions Officer at AccuKnox](https://accuknox.com/).
 
 ### Good to know
 
@@ -18039,9 +18027,9 @@ Musly reserves the right to confirm attendance in alignment with the intended co
 
 ### About the event
 
-Let's Run It Back! You are cordially invited to join us for the launch of Banking [on] Blockchain's Second Edition, with creators + editors Sumeet Chugani (https://www.linkedin.com/in/sumeet-chugani/?utm_source=luma), Steve Gannon (https://www.linkedin.com/in/stephentgannon/?utm_source=luma), David Stier (https://www.linkedin.com/in/david-stier-817576/), Emily Honsa Hicks (https://www.linkedin.com/in/emilyhonsahicks/), Liz Davis (https://www.linkedin.com/in/elizabeth-lan-davis/), + Samridhi Jain (https://www.linkedin.com/in/samridhi-jain-samridhi-writes-legally/).
+Let's Run It Back! You are cordially invited to join us for the launch of Banking [on] Blockchain'[s Second Edition, with creators + editors Sumeet Chugani](https://www.linkedin.com/in/sumeet-chugani/?utm_source=luma), [Steve Gannon](https://www.linkedin.com/in/stephentgannon/?utm_source=luma), [David Stier](https://www.linkedin.com/in/david-stier-817576/), [Emily Honsa Hicks](https://www.linkedin.com/in/emilyhonsahicks/), [Liz Davis](https://www.linkedin.com/in/elizabeth-lan-davis/), + [Samridhi Jain](https://www.linkedin.com/in/samridhi-jain-samridhi-writes-legally/).
 
-"Banking [on] Blockchain: A Legal and Regulatory Guide, Second Edition (https://www.americanbar.org/products/inv/book/459082578/)" published by the ABA this month, is an updated + expanded comprehensive guide to the legal and regulatory landscape of blockchain technology covering relevant legal topics on blockchain, digital assets, cryptocurrency, and more. With the acceleration of crypto adoption, our second edition addresses all aspects of digital asset products and services, including use cases, infrastructure, risks, and market structure.
+"Banking [on] [Blockchain: A Legal and Regulatory Guide, Second Edition](https://www.americanbar.org/products/inv/book/459082578/)" published by the ABA this month, is an updated + expanded comprehensive guide to the legal and regulatory landscape of blockchain technology covering relevant legal topics on blockchain, digital assets, cryptocurrency, and more. With the acceleration of crypto adoption, our second edition addresses all aspects of digital asset products and services, including use cases, infrastructure, risks, and market structure.
 
 Space is limited! We look forward to seeing you there.
 
@@ -18105,15 +18093,15 @@ Some topics we would discuss:
 
 Coming up: ElasticON NYC
 
-Join us October 8 for a free day of hands-on learning, expert insights, and real-world AI, search, observability, and security sessions. Register for fre (https://www.elastic.co/events/elasticon/new-york-city)e (https://www.elastic.co/events/elasticon/new-york-city?utm_source=luma&utm_medium=event_page&utm_campaign=elasticon_nyc_2026&utm_content=superplane_meetup_sep17).
+Join us October 8 for a free day of hands-on learning, expert insights, and real-world AI, search, [observability, and security sessions. Register for fre](https://www.elastic.co/events/elasticon/new-york-city)[e](https://www.elastic.co/events/elasticon/new-york-city?utm_source=luma&utm_medium=event_page&utm_campaign=elasticon_nyc_2026&utm_content=superplane_meetup_sep17).
 
 ### About SuperPlane
 
-SuperPlane (https://superplane.com/) Software Factory platform that transforms software delivery from a collection of manual tasks into an orchestrated, AI-powered production system. It coordinates AI agents, developers, infrastructure, and operational tools to build, test, deploy, and maintain software with speed, consistency, and governance.
+[SuperPlane](https://superplane.com/) Software Factory platform that transforms software delivery from a collection of manual tasks into an orchestrated, AI-powered production system. It coordinates AI agents, developers, infrastructure, and operational tools to build, test, deploy, and maintain software with speed, consistency, and governance.
 
 ### About Elastic
 
-Elastic (https://www.elastic.co/?utm_source=luma) is the observability stack behind high-velocity engineering teams. With Elasticsearch, Kibana, and the rest of Elastic Stack, engineers, SREs and platform engineers get real-time visibility into logs, metrics, traces, and security events correlated in one place, not scattered across tools. As release cadence increases with the adoption of software factories, Elastic keeps you in control of what's running and why.
+[Elastic](https://www.elastic.co/?utm_source=luma) is the observability stack behind high-velocity engineering teams. With Elasticsearch, Kibana, and the rest of Elastic Stack, engineers, SREs and platform engineers get real-time visibility into logs, metrics, traces, and security events correlated in one place, not scattered across tools. As release cadence increases with the adoption of software factories, Elastic keeps you in control of what's running and why.
 
 <a id="event-6d8bd475bd4e5e80"></a>
 
@@ -18131,11 +18119,11 @@ Join us for our exclusive 26th Founders Dinner in New York City! Our Founders Di
 
 Throughout the evening, you'll have the opportunity to engage in insightful conversations, share ideas, and explore potential collaborations in an intimate and inviting setting. Whether you're reconnecting with familiar faces or meeting new industry peers, this Founders Dinner is an evening you won't want to miss. Come prepared to savor exquisite cuisine, enjoy delightful company, and leave inspired by the possibilities ahead. We're excited to have you join our NYC dinner, where we'll bring our industry expertise and fresh insights to the table.
 
-Who is T Palmer Agency? (https://tpalmeragency.com/)
+[Who is T Palmer Agency?](https://tpalmeragency.com/)
 
 T Palmer is a full turnkey agency that helps founders - particularly in sectors like Insurtech, HealthTech, Fintech, Wellness, and AI - tell their stories effectively. We focus on leading your GTM strategy and amplifying thought leadership, securing media coverage, and building strong brand narratives through PR, content, and partnerships. For these Founder's Dinners, we curate a complimentary meal and networking experience that helps founders create a strong community and foundation in their cities.
 
-Who is InsurtechNY? (https://www.insurtechny.com/?utm_source=luma)
+[Who is InsurtechNY?](https://www.insurtechny.com/?utm_source=luma)
 
 InsurTechNY is a New York-based organization focused on accelerating innovation in the insurance industry by connecting insurers, brokers, startups, and investors. It operates as both a community hub and an accelerator, hosting conferences, pitch days, and educational programs that help early-stage companies gain visibility and support while giving industry leaders access to emerging technologies. Through its events, mentorship, and networking opportunities, InsurTechNY aims to modernize the insurance ecosystem and foster collaboration across all sides of the insurance and technology landscape.
 
@@ -18161,9 +18149,9 @@ a few things
 
 ### about the hosts
 
-The Letter Company (https://letter.company/?utm_source=luma) is a computational marketing company. The Letter framework exposes marketing tools for coding agents and forward-thinking marketers. For example, companies looking to improve AI search can launch phantoms (https://phantomstory.com/?utm_source=luma), autonomous third-party publications that intelligently build rank.
+[The Letter Company](https://letter.company/?utm_source=luma) is a computational marketing company. The Letter framework exposes marketing tools for coding agents and forward-thinking marketers. For example, [companies looking to improve AI search can launch phantoms](https://phantomstory.com/?utm_source=luma), autonomous third-party publications that intelligently build rank.
 
-chancery (https://thechancery.co/?utm_source=luma) hosts experiential dinners and events in the new york tech scene.
+[chancery](https://thechancery.co/?utm_source=luma) hosts experiential dinners and events in the new york tech scene.
 
 <a id="event-af68ca47456b6f15"></a>
 
@@ -18229,7 +18217,7 @@ Send links to your work to lara@bitcoinpalooza.nyc with a short note describing 
 ### Good to Know
 
 - No Blockchain Week conference pass is required. This event is ticketed separately and open to everyone.
-- A BitcoinPalooza ticket admits you to September 17 only. The full twelve‑event program is available at blockchainweek.ai/program (https://blockchainweek.ai/program).
+- A BitcoinPalooza ticket admits you to September 17 only. The full twelve‑[event program is available at blockchainweek.ai/program](https://blockchainweek.ai/program).
 - Blockchain Week - UNGA Edition is an independent initiative and is not affiliated with the United Nations.
 
 ### Full Lineup & Details
@@ -18260,7 +18248,7 @@ Join Valid, AppCap and PlayKit for an intimate evening where app growth leaders 
 
 Intimate & unfiltered conversations drive the best mobile app performance insights, sharing dinner with a small group of industry leaders leaves the best lasting impact in your business strategy.
 
-AppCap, a product of Emigrant Bank, Member FDIC, provides early access to app store payouts to double down on user acquisition, paid marketing, and growth campaigns. Advance against your earned app store revenue with a flat fee capped at 2% per advance, no equity required, and repayment tied to your payouts. Terms and eligibility apply. Visit useappcap.com (https://useappcap.com) for more details.
+AppCap, a product of Emigrant Bank, Member FDIC, provides early access to app store payouts to double down on user acquisition, paid marketing, and growth campaigns. Advance against your earned app store revenue with a flat fee capped at 2% per advance, no equity required, and repayment tied to your [payouts. Terms and eligibility apply. Visit useappcap.com](https://useappcap.com) for more details.
 
 <a id="event-114ecae6c167407e"></a>
 
@@ -18278,11 +18266,11 @@ Join Rho and Maritime for an intimate, highly selective dinner bringing together
 
 ### About the hosts
 
-Maritime (https://maritime.sh/) is the cloud built for AI agents - the simplest way to deploy, manage, and scale them. Each agent runs on its own isolated micro-VM that sleeps when idle and wakes on demand, bringing costs down to $1 per agent per month. Builders at companies like Google, TikTok, and MIT ship agents on Maritime with a single command, no infrastructure to wire up.
+[Maritime](https://maritime.sh/) is the cloud built for AI agents - the simplest way to deploy, manage, and scale them. Each agent runs on its own isolated micro-VM that sleeps when idle and wakes on demand, bringing costs down to $1 per agent per month. Builders at companies like Google, TikTok, and MIT ship agents on Maritime with a single command, no infrastructure to wire up.
 
-Rho (http://rho.co/) is the all-in-one banking platform for startups and the accountants supporting them. With banking setup in minutes, cashback cards, and powerful tools for managing spend, paying bills, and closing the books, Rho helps high-growth startups move fast and stay focused - backed by support that goes to the end of the earth to help you win.
+[Rho](http://rho.co/) is the all-in-one banking platform for startups and the accountants supporting them. With banking setup in minutes, cashback cards, and powerful tools for managing spend, paying bills, and closing the books, Rho helps high-growth startups move fast and stay focused - backed by support that goes to the end of the earth to help you win.
 
-Rho (http://rho.co/) is a fintech company, not a bank. Checking and card services are provided by Webster Bank, N.A., member FDIC; savings account services are provided by American Deposit Management Co. and its partner banks.
+[Rho](http://rho.co/) is a fintech company, not a bank. Checking and card services are provided by Webster Bank, N.A., member FDIC; savings account services are provided by American Deposit Management Co. and its partner banks.
 
 <a id="event-e0b47950e022be3a"></a>
 
@@ -18402,13 +18390,13 @@ One real work headache. A laptop. That's it.
 
 ### Our partner
 
-ShallWeTech is a global innovation platform connecting founders, venture capital and industry specialists with deep market insight and a curated investment network behind it. They bring reach and will open the afternoon by introducing their community. shallwe.tech (https://shallwe.tech)
+ShallWeTech is a global innovation platform connecting founders, venture capital and industry specialists with deep market insight and a curated investment network behind it. They bring reach and will open [the afternoon by introducing their community. shallwe.tech](https://shallwe.tech)
 
 ### Powered by Zaro
 
 Zaro brings the platform you build on, two builders on the floor, five ready-made starter agents, and a workspace of your own.
 
-Places are limited and allocated by registration. Please tell us your one problem when you sign up. We'll have a starter agent pointed at it before you arrive. Zaro.ai (https://Zaro.ai)
+Places are limited and allocated by registration. Please tell us your one problem when you sign up. We'll [have a starter agent pointed at it before you arrive. Zaro.ai](https://Zaro.ai)
 
 <a id="event-0463352010d3e285"></a>
 
@@ -18428,7 +18416,7 @@ Join us at #ClimateWeekNYC 2026: Wallet Max Emerald Summit: Sustainability & AI 
 
 ### Summit Website
 
-- Stay in the know, and receive real time programming updates, speaker profiles, and networking opportunities on our dedicated event page: www.getwalletmax.com/summit (https://www.getwalletmax.com/summit)
+- Stay in the know, and receive real time programming updates, speaker profiles, and networking opportunities [on our dedicated event page: www.getwalletmax.com/summit](https://www.getwalletmax.com/summit)
 
 ### What's in it for you?
 
@@ -18457,28 +18445,28 @@ Taking place at the intersection of NYC Climate Week, the UN General Assembly (U
 
 10:30 AM | Welcome Keynote: Shaping Sustainable Futures With Community
 
-- Alissa Miky (https://www.linkedin.com/in/alissa-miky-21a8673b/), Aqua Theon
-- Bhuva Shakti (https://www.linkedin.com/in/bhuvashakti/), Wallet Max
+- [Alissa Miky](https://www.linkedin.com/in/alissa-miky-21a8673b/), Aqua Theon
+- [Bhuva Shakti](https://www.linkedin.com/in/bhuvashakti/), Wallet Max
 
 11:00 AM | Unlocking Capital Flows For Climate Solutions
 
-- Eric Williams (https://www.linkedin.com/in/eric-c-williams/), Detroit Justice Center
-- Martin Avidan (https://www.linkedin.com/in/martin-avidan-cfa/), Spruce Road Consulting
-- Neha Arora (https://www.linkedin.com/in/drnehaaroraphd/), Founder, The Climate Chain Reaction
-- Parichat Wrolstad (https://www.linkedin.com/in/parichatcha/), ESG & Sustainability Advisor
+- [Eric Williams](https://www.linkedin.com/in/eric-c-williams/), Detroit Justice Center
+- [Martin Avidan](https://www.linkedin.com/in/martin-avidan-cfa/), Spruce Road Consulting
+- [Neha Arora](https://www.linkedin.com/in/drnehaaroraphd/), Founder, The Climate Chain Reaction
+- [Parichat Wrolstad](https://www.linkedin.com/in/parichatcha/), ESG & Sustainability Advisor
 
 11:45 AM | Sustainability Playbook: How Overlooked Founders Build On Their Own Terms
 
-- Betsy Fore (https://www.linkedin.com/in/betsyfore/), Velveteen Ventures
-- Blair Carl Smith (https://www.linkedin.com/in/blaircsmith/), Ex-Milken Institute Financial Markets
-- Elana Margulies-Snyderman (https://www.linkedin.com/in/elanamarguliessnyderman/), EMS Network
-- Sacha Awwa (https://www.linkedin.com/in/sachaawwa/), SAMG Marketing Group
-- Will Hogan (https://www.linkedin.com/in/willhogan/), Umergence
+- [Betsy Fore](https://www.linkedin.com/in/betsyfore/), Velveteen Ventures
+- [Blair Carl Smith](https://www.linkedin.com/in/blaircsmith/), Ex-Milken Institute Financial Markets
+- [Elana Margulies-Snyderman](https://www.linkedin.com/in/elanamarguliessnyderman/), EMS Network
+- [Sacha Awwa](https://www.linkedin.com/in/sachaawwa/), SAMG Marketing Group
+- [Will Hogan](https://www.linkedin.com/in/willhogan/), Umergence
 
 12:30 PM | Climate Fintech: Fireside Chat
 
-- Shameek Bose (https://www.linkedin.com/in/shameek-bose-m-p-a-19a39813/), Ex-WEF, Accenture, JPMorgan
-- Bhuva Shakti (https://www.linkedin.com/in/bhuvashakti/), Wallet Max
+- [Shameek Bose](https://www.linkedin.com/in/shameek-bose-m-p-a-19a39813/), Ex-WEF, Accenture, JPMorgan
+- [Bhuva Shakti](https://www.linkedin.com/in/bhuvashakti/), Wallet Max
 
 1:00 PM | Lunch & Networking
 
@@ -18486,32 +18474,32 @@ Taking place at the intersection of NYC Climate Week, the UN General Assembly (U
 
 2:00 PM | Finding The Right Mix Of Advisors For A Startup
 
-- Enes Karakullukcu (https://www.linkedin.com/in/eneskarakullukcu/), Klaris Capital
-- Katie Palencsar (https://www.linkedin.com/in/katiepalencsar/), Starmoire
-- Scott Ryan (https://www.linkedin.com/in/scottwilliamryan/), Investature
-- Sonam Velani (https://www.linkedin.com/in/sonamvelani/), Streetlife Ventures
-- Tiya Gordon (https://www.linkedin.com/in/tiya-gordon-itselectric/), it's electric
+- [Enes Karakullukcu](https://www.linkedin.com/in/eneskarakullukcu/), Klaris Capital
+- [Katie Palencsar](https://www.linkedin.com/in/katiepalencsar/), Starmoire
+- [Scott Ryan](https://www.linkedin.com/in/scottwilliamryan/), Investature
+- [Sonam Velani](https://www.linkedin.com/in/sonamvelani/), Streetlife Ventures
+- [Tiya Gordon](https://www.linkedin.com/in/tiya-gordon-itselectric/), it's electric
 
 3:00 PM | The Scarcity Trade: Investing In What We Cannot Live Without
 
-- Cody Ley (https://www.linkedin.com/in/h4hcody/), Hemp for Humanity
-- David Chan (https://www.linkedin.com/in/dachan/), Homestead Capital
-- David Lanning (https://www.linkedin.com/in/david-lanning-0ba3735a/), Water Asset Management
-- Karen Gamba (https://www.linkedin.com/in/karen-l-gamba-04537089/), ExV Agency
-- Richard Freund (https://www.linkedin.com/in/richardkfreund/), CDP
+- [Cody Ley](https://www.linkedin.com/in/h4hcody/), Hemp for Humanity
+- [David Chan](https://www.linkedin.com/in/dachan/), Homestead Capital
+- [David Lanning](https://www.linkedin.com/in/david-lanning-0ba3735a/), Water Asset Management
+- [Karen Gamba](https://www.linkedin.com/in/karen-l-gamba-04537089/), ExV Agency
+- [Richard Freund](https://www.linkedin.com/in/richardkfreund/), CDP
 
 3:45 PM | Powering Tomorrow: Innovation, Policy, and the Future of Renewables
 
-- Eddy van der Paardt (https://www.linkedin.com/in/eddy-van-der-paardt-193a4/), Virtu Capital Partners
-- Jillian Foster (https://www.linkedin.com/in/jillianjfoster/), Global Insight
-- Karen Gamba (https://www.linkedin.com/in/karen-l-gamba-04537089/), ExV Agency
-- Kayla Urquhart (https://www.linkedin.com/in/kayla-urquhart-331163127/), The Energy Co-op
-- Manail Anis Ahmed (https://www.linkedin.com/in/manailahmed/), Columbia University
+- [Eddy van der Paardt](https://www.linkedin.com/in/eddy-van-der-paardt-193a4/), Virtu Capital Partners
+- [Jillian Foster](https://www.linkedin.com/in/jillianjfoster/), Global Insight
+- [Karen Gamba](https://www.linkedin.com/in/karen-l-gamba-04537089/), ExV Agency
+- [Kayla Urquhart](https://www.linkedin.com/in/kayla-urquhart-331163127/), The Energy Co-op
+- [Manail Anis Ahmed](https://www.linkedin.com/in/manailahmed/), Columbia University
 
 4:30 PM | Closing Keynote: Accelerate Impact Beyond Climate Week
 
-- Peter Fusaro (https://www.linkedin.com/in/fusaroglobalchange/), Wall Street Green Summit
-- Bhuva Shakti (https://www.linkedin.com/in/bhuvashakti/), Wallet Max
+- [Peter Fusaro](https://www.linkedin.com/in/fusaroglobalchange/), Wall Street Green Summit
+- [Bhuva Shakti](https://www.linkedin.com/in/bhuvashakti/), Wallet Max
 
 5:00 - 6:00 PM | Networking Lounge
 
@@ -18537,19 +18525,19 @@ Reserve your space today and make your mark as a leader in climate tech.
 
 ### MEET YOUR HOST
 
-Bhuva Shakti (https://www.linkedin.com/in/bhuvashakti/) (she/her) is the futuristic founder and CEO driving sustainable innovation at Wallet Max (https://www.getwalletmax.com/), a global community of corporate executives, policy leaders, and venture capital investors expanding fundraising access for high-growth impact startups. With an MBA from Columbia University in New York and as a senior executive director on Wall Street for three decades, Bhuva has managed diverse financial portfolios and launched several digital transformation products for investment banks, capital markets, and payment networks.
+[Bhuva Shakti](https://www.linkedin.com/in/bhuvashakti/) (she/her) is the futuristic [founder and CEO driving sustainable innovation at Wallet Max](https://www.getwalletmax.com/), a global community of corporate executives, policy leaders, and venture capital investors expanding fundraising access for high-growth impact startups. With an MBA from Columbia University in New York and as a senior executive director on Wall Street for three decades, Bhuva has managed diverse financial portfolios and launched several digital transformation products for investment banks, capital markets, and payment networks.
 
 Bhuva's leadership and risk governance oversight, during the global financial crisis and the pandemic, was pivotal for the success of regulatory compliance and mergers acquisitions at the world's top banks and credit rating institutions. Bhuva is a board director and C-Suite advisor for people and planet friendly businesses, without compromising profits, and a keynote and TEDx speaker advancing economic inclusion and climate-fintech partnerships.
 
-Bhuva is the USA country director for World Business Angels Investment Forum and the Chief Ethics & Culture Officer for Women in AI worldwide. She leads fundraising strategy and product operations for market expansion and manages investor relations from diligence to investment. Bhuva is the founder of Bhuva's Impact Global (https://www.bhuvas-impact.global/), offering board and enterprise risk advisory services for public and private corporations.
+Bhuva is the USA country director for World Business Angels Investment Forum and the Chief Ethics & Culture Officer for Women in AI worldwide. She leads fundraising strategy and product operations for market expansion and manages investor relations from diligence [to investment. Bhuva is the founder of Bhuva's Impact Global](https://www.bhuvas-impact.global/), offering board and enterprise risk advisory services for public and private corporations.
 
 ### About Wallet Max
 
-Wallet Max (https://www.getwalletmax.com/events) is an inclusive global community of corporate executives and venture capitalists with a mission to expand fundraising access for high-growth startups in the technology, AI, fintech, and climate sustainability sectors.
+[Wallet Max](https://www.getwalletmax.com/events) is an inclusive global community of corporate executives and venture capitalists with a mission to expand fundraising access for high-growth startups in the technology, AI, fintech, and climate sustainability sectors.
 
 With more than 10 investments directly in impact entrepreneurs thus far, Wallet Max's network of 2,000 innovators and 60 partners regularly meet in person and virtually throughout the year to mutually exchange connections and drive collective action. Wallet Max ecosystem of events and initiatives are prominent during the New York Fintech Week, the New York Tech Week, and the New York Climate Week every year.
 
-Wallet Max's Planet Positive Podcast (https://www.getwalletmax.com/podcast) is a monthly interview with investors driving impact globally. Aligned with our mission to challenge the status quo, we showcase personal and professional journeys of diverse investors (Angels, VCs, PEs, Family Office, Corporate Venture) looking to leverage inclusion and impact without compromising growth of investments. Supporting sustainable innovations is good for people's wellbeing, planet survival, and financial profits.
+[Wallet Max's Planet Positive Podcast](https://www.getwalletmax.com/podcast) is a monthly interview with investors driving impact globally. Aligned with our mission to challenge the status quo, we showcase personal and professional journeys of diverse investors (Angels, VCs, PEs, Family Office, Corporate Venture) looking to leverage inclusion and impact without compromising growth of investments. Supporting sustainable innovations is good for people's wellbeing, planet survival, and financial profits.
 
 Learn more about Wallet Max success and 2026 global initiatives: https://getwalletmax.com/climate-forward
 
@@ -18587,7 +18575,7 @@ Each team will have access to:
 - Linux compute machine
 - RealSense D435 or Orbbec Astra 2 camera (fixed to arm)
 - Webcams
-- A free Viam (https://docs.viam.com/what-is-viam/) account
+- [A free Viam](https://docs.viam.com/what-is-viam/) account
 
 We'll provide blocks, cups, pens, paper, and other objects for your robot to interact with, or bring something you'd like to experiment with.
 
@@ -18614,7 +18602,7 @@ We'll award prizes to a total of three teams. Winning teams take home robot arms
 - Silver: Seeed Studio reBot Arm B601-RS + $2,500 in Viam credits
 - Bronze: SO-101 arm + $1,000 in Viam credits
 
-Please bring your own laptop. We recommend taking our free online course Viam 101 (https://www.viam.com/viam-101/?utm_medium=luma&utm_source=finemotorskills&utm_campaign=vmrk-luma-finemotorskills-viam101-learn&utm_content=lp_viam101) (est time: 45-90mins) ahead of time. Even if you only go through the first lessons, it will help you get the hang of things quickly.
+Please bring your own [laptop. We recommend taking our free online course Viam 101](https://www.viam.com/viam-101/?utm_medium=luma&utm_source=finemotorskills&utm_campaign=vmrk-luma-finemotorskills-viam101-learn&utm_content=lp_viam101) (est time: 45-90mins) ahead of time. Even if you only go through the first lessons, it will help you get the hang of things quickly.
 
 ### Schedule
 
@@ -18660,7 +18648,7 @@ No robotics experience required, but you should be comfortable with:
 
 Before the Event
 
-We recommend taking our free online course Viam 101 (https://www.viam.com/viam-101/?utm_medium=luma&utm_source=finemotorskills&utm_campaign=vmrk-luma-finemotorskills-viam101-learn&utm_content=lp_viam101) (est time: 45-90mins) ahead of time. Even the first few lessons will help you get the hang of things quickly.
+[We recommend taking our free online course Viam 101](https://www.viam.com/viam-101/?utm_medium=luma&utm_source=finemotorskills&utm_campaign=vmrk-luma-finemotorskills-viam101-learn&utm_content=lp_viam101) (est time: 45-90mins) ahead of time. Even the first few lessons will help you get the hang of things quickly.
 
 How to Join
 
@@ -18670,7 +18658,7 @@ We'll select a curated group of ambitious software developers and send official 
 
 Presented By
 
-Viam (https://www.viam.com/) - The robotics software platform we'll use to configure, control, and deploy models to your robot. Viam makes it easy to get a robot up and running quickly.
+[Viam](https://www.viam.com/) - The robotics software platform we'll use to configure, control, and deploy models to your robot. Viam makes it easy to get a robot up and running quickly.
 
 <a id="event-5c6608bde148dc6c"></a>
 
@@ -18714,7 +18702,7 @@ Since its launch in 2021, Arts DAO has grown into one of the region's most influ
 
 Our mission is simple: to create meaningful connections among people who are shaping the future.
 
-Learn more or apply for membership at artsdao.io (https://artsdao.io)
+[Learn more or apply for membership at artsdao.io](https://artsdao.io)
 
 ### Photography & Videography Notice
 
@@ -18757,7 +18745,7 @@ Whether you're already building for Metropolis or just active in the local ecosy
 
 - 11:00 AM - Brunch & networking
 - 12:00 PM - Opening remarks & track overview
-- 12:30 PM - Panel, featuring Drake Evans (https://x.com/drakeevans)(Agora (https://www.agora.finance/)), Will Nuelle (https://x.com/willnuelle) (Galaxy (https://ventures.galaxy.com/))
+- 12:30 [PM - Panel, featuring Drake Evans](https://x.com/drakeevans)([Agora](https://www.agora.finance/)), [Will Nuelle](https://x.com/willnuelle) ([Galaxy](https://ventures.galaxy.com/))
 - 2:00 PM - Co-working & rotating mentor office hours
 
 ### Disclaimer
@@ -19004,9 +18992,9 @@ If you have a serious allergy, intolerance or specific dietary requirement, plea
 
 We want this to be a respectful, inclusive and collaborative space. Participants are expected to treat others respectfully, give constructive feedback, respect privacy and other people's work, and behave honestly throughout the event.
 
-As this event is a Lovable-supported community event, participants are also expected to follow the Lovable Community Code of Conduct. (https://lovable.dev/community-code-of-conduct)
+As this event is a Lovable-supported community event, participants are also [expected to follow the Lovable Community Code of Conduct.](https://lovable.dev/community-code-of-conduct)
 
-Participants using Lovable during the event are subject to Lovable's Terms & Conditions (https://lovable.dev/terms) and Platform Rules.
+Participants using Lovable [during the event are subject to Lovable's Terms & Conditions](https://lovable.dev/terms) and Platform Rules.
 
 Lovable age requirement: You must be at least 18 years old, or the age of majority in your jurisdiction, to use Lovable. If you are under 18, you must have permission from a parent or legal guardian.
 
@@ -19018,7 +19006,7 @@ Ramen Space is a coworking space and community for SaaS, AI and tech founders bu
 
 If you're building a product yourself and would like to experience the space, Ramen Space also offers a free trial day.
 
-Book a free trial day at Ramen Space (https://ramenclub.com/ramen-space/#freetrial)
+[Book a free trial day at Ramen Space](https://ramenclub.com/ramen-space/#freetrial)
 
 <a id="event-b334397c59f37685"></a>
 
@@ -19087,7 +19075,7 @@ evening of curated music from our in-house DJs, complimentary drinks and good co
 
 ### Ripple x Beyond Fitness: Saturday Reset
 
-find out what we've been up to he (https://ripplesocialclub.com)re (https://ripplesocialclub.com/archive)
+[find out what we've been up to he](https://ripplesocialclub.com)[re](https://ripplesocialclub.com/archive)
 
 ### details
 
@@ -19121,13 +19109,13 @@ Designed to create meaningful connections through question prompts, unique event
 
 We make ambition socially contagious.
 
-Find us on our website here (https://ripplesocialclub.com/)
+[Find us on our website here](https://ripplesocialclub.com/)
 
-Stay updated via Linkedin (https://www.linkedin.com/company/107183424/) and Instagram (https://www.instagram.com/ripple.social.club/)
+[Stay updated via Linkedin](https://www.linkedin.com/company/107183424/) [and Instagram](https://www.instagram.com/ripple.social.club/)
 
 ----
 
-Tickets are non-refundable, but may be transferred to another person. More info on Refund Policy. (https://luma.com/ripplesocialclub/refund-policy)
+Tickets are non-refundable, but may [be transferred to another person. More info on Refund Policy.](https://luma.com/ripplesocialclub/refund-policy)
 
 <a id="event-ee7f5f376ef49b29"></a>
 
@@ -19141,7 +19129,7 @@ Tickets are non-refundable, but may be transferred to another person. More info 
 
 ### About the event
 
-Health in Climate (https://www.healthinclimate.ai/) with the United Nations Climate Change Global Innovation Hub (https://unfccc.int/topics/un-climate-change-global-innovation-hub) is back with our third Hackathon on September 19-20, 2026 at Cornell Tech (https://tech.cornell.edu/) in New York City!
+[Health in Climate](https://www.healthinclimate.ai/) [with the United Nations Climate Change Global Innovation Hub](https://unfccc.int/topics/un-climate-change-global-innovation-hub) is back with [our third Hackathon on September 19-20, 2026 at Cornell Tech](https://tech.cornell.edu/) in New York City!
 
 Climate change is reshaping where we live and how we thrive. This hackathon brings together builders, clinicians, researchers, designers, and community leaders that have a bias towards action and building solutions around the focus of Resilient People, Resilient Places.
 
@@ -19155,7 +19143,7 @@ More details here: https://www.healthinclimate.ai/hackathons/nyc/2026
 
 (see "event" tab for day-wise schedule)
 
-Please take a moment to read the participant agreement linked here (https://docs.google.com/document/d/1NksDJu8WepoWBv3WilInQnm4E_2Qb_uv9Uel6RkbXkQ/edit?usp=sharing). By signing up to the event, you confirm to comply with the listed terms.
+Please [take a moment to read the participant agreement linked here](https://docs.google.com/document/d/1NksDJu8WepoWBv3WilInQnm4E_2Qb_uv9Uel6RkbXkQ/edit?usp=sharing). By signing up to the event, you confirm to comply with the listed terms.
 
 PS. This Luma form is the official registration form to have a confirmed spot in the hackathon on Sept 19-20. This is an in-person event only.
 
@@ -19223,12 +19211,12 @@ Winners walk away with build-tool and platform credits, expert consulting sessio
 - Steven Grover: Partnerspring. Operator and builder in the HR-tech ecosystem.
 - Shane Papp: Ex-iCIMS. Deep insider knowledge of the ATS world these tools have to live inside.
 - Adam Treitler: Related Industries. HR-tech operator with a practitioner's view of the funnel.
-- Shiv Jethi (https://www.linkedin.com/in/shiv-jethi/?utm_source=luma) - Engineer at SpaceX.
-- Olivia Iarmak (https://www.linkedin.com/in/olivia-iarmak107/) - Meta Reality Labs. AI quality and operations leader; researcher. Brings a practitioner's lens to trustworthy AI.
-- D. J. Patel (https://www.linkedin.com/in/djpat/?utm_source=luma) - VC | 3x exited founder.
-- Prince Rumi (https://www.linkedin.com/in/princerumi/?utm_source=luma) - Excelsior Edge Ventures (https://11-11.madeline.one/?utm_source=luma), Partner | AI Researcher
-- Rami Abouemira (https://www.linkedin.com/in/rami-abo/), formerly People Ops at Square and VMware, now building the future of work with All Good HR and Founders Foundry.
-- Ishaan Das (https://www.linkedin.com/in/ishaanndas/)(TechBrig) - Leads AI transformation and product design for several recruiting firms and recruiting SaaS like SquarePeg.
+- [Shiv Jethi](https://www.linkedin.com/in/shiv-jethi/?utm_source=luma) - Engineer at SpaceX.
+- [Olivia Iarmak](https://www.linkedin.com/in/olivia-iarmak107/) - Meta Reality Labs. AI quality and operations leader; researcher. Brings a practitioner's lens to trustworthy AI.
+- [D. J. Patel](https://www.linkedin.com/in/djpat/?utm_source=luma) - VC | 3x exited founder.
+- [Prince Rumi](https://www.linkedin.com/in/princerumi/?utm_source=luma) - [Excelsior Edge Ventures](https://11-11.madeline.one/?utm_source=luma), Partner | AI Researcher
+- [Rami Abouemira](https://www.linkedin.com/in/rami-abo/), formerly People Ops at Square and VMware, now building the future of work with All Good HR and Founders Foundry.
+- [Ishaan Das](https://www.linkedin.com/in/ishaanndas/)(TechBrig) - Leads AI transformation and product design for several recruiting firms and recruiting SaaS like SquarePeg.
 
 More judges to be announced - investors and TA buyers joining the panel.
 
@@ -19244,12 +19232,12 @@ You do not need HR or recruiting-software experience to compete - that's the who
 
 ### Credit Sponsors
 
-- Solari (https://www.getsolari.com/) is the world's fastest agent infrastructure provider. Run headless browsers, sandboxes, and desktops from one API, and automate at scale.
-- Block Convey (https://blockconvey.com) is an AI reliability and observability platform for AI agents. It helps teams see what an agent is doing across model calls, tools, retrieval and decisions, identify where it fails, and improve it.
+- [Solari](https://www.getsolari.com/) is the world's fastest agent infrastructure provider. Run headless browsers, sandboxes, and desktops from one API, and automate at scale.
+- [Block Convey](https://blockconvey.com) is an AI reliability and observability platform for AI agents. It helps teams see what an agent is doing across model calls, tools, retrieval and decisions, identify where it fails, and improve it.
 
 ### Hosts
 
-- Somya Gupta (https://www.linkedin.com/in/somya-gupta-sg): The face of NYC startup ecosystem.
+- [Somya Gupta](https://www.linkedin.com/in/somya-gupta-sg): The face of NYC startup ecosystem.
 - Integral Recruiting (IRD): Enterprise talent-acquisition and iCIMS/ATS specialists, and stewards of the ~350-member SAI community of TA operators and system admins.
 - Greg Mendez: NYU. Bringing the university's builder and HR-analytics community into the room.
 - TechSHRM is NYU Tandon's, award-winning student chapter of the Society for Human Resource Management (SHRM). Established in 1987, we bridge data science, technology, and organizational strategy through people analytics - leveraging data to optimize workforce decision-making, recruitment, and employee performance.
@@ -19437,7 +19425,7 @@ A student builder community connecting AI education, industry projects, and hack
 
 A global startup accelerator headquartered in Silicon Valley, Founder Institute has built one of the world's most proven networks for turning ideas into fundable startups - and startups into global businesses. Since 2009, our structured programs and global mentor network have supported more than 9,000 startups that have collectively raised over $1.9B in funding.
 
-Apply to the Fall 2026 cohort led by General Partner at VC (https://fi.co/los-angeles) firm; Serephina Ha (https://www.linkedin.com/in/serephina-ha/).
+[Apply to the Fall 2026 cohort led by General Partner at VC](https://fi.co/los-angeles) [firm; Serephina Ha](https://www.linkedin.com/in/serephina-ha/).
 
 ### Sazze Partners
 
@@ -19511,7 +19499,7 @@ The event is co-hosted and supported by:
 - Tencent EdgeOne
 - WorkBuddy
 - AgentX.ai
-- Memories.ai (https://Memories.ai)
+- [Memories.ai](https://Memories.ai)
 - AWS
 
 Each co-host and sponsor will contribute technology, technical resources, product guidance, workshops, mentors, judging support, or challenge opportunities for participating teams.
@@ -19686,7 +19674,7 @@ Organized by TrueFoundry and HackerSquad. Sponsored by OpenAI.
 
 AI agents are easy to prototype and much harder to run in production. Once an agent touches real users, tools, data, budgets, and internal systems, the work expands into routing, permissions, tracing, retries, evals, guardrails, cost controls, and deployment.
 
-Join TrueFoundry (https://www.truefoundry.com/) and HackerSquad (https://hackersquad.io) for a full-day hackathon focused on building production-minded agentic applications with TrueForge (https://trueforge.dev), with sponsorship from OpenAI (https://openai.com/).
+[Join TrueFoundry](https://www.truefoundry.com/) [and HackerSquad](https://hackersquad.io) for a full-day hackathon focused on building [production-minded agentic applications with TrueForge](https://trueforge.dev), [with sponsorship from OpenAI](https://openai.com/).
 
 Take an agent use case from idea or prototype toward something you can observe, govern, evaluate, and operate. TrueFoundry's AI Gateway, Agent Gateway, and MCP Gateway will frame the day, with practical work on model routing, controlled tool access, MCP workflows, observability, eval loops, fallback behavior, budget controls, and deployment.
 
@@ -19751,7 +19739,7 @@ Prizes for top demos
 
 3rd - $500
 
-Thank you to OpenAI for sponsoring the hackathon and to AI Global Campus (https://aiglobalcampus.com/about) for hosting us.
+Thank you to [OpenAI for sponsoring the hackathon and to AI Global Campus](https://aiglobalcampus.com/about) for hosting us.
 
 <a id="event-d03c4b466bfff274"></a>
 
@@ -19807,7 +19795,7 @@ Where: Times Square, New York City
 
 Cost: Free and open to the public
 
-Watch live: youtube.com/goodnewsbroadcast (https://youtube.com/goodnewsbroadcast)
+[Watch live: youtube.com/goodnewsbroadcast](https://youtube.com/goodnewsbroadcast)
 
 Rebroadcast: Monday, September 21 at 12:00 PM ET, on the UN International Day of Peace
 
@@ -19861,7 +19849,7 @@ Know before you go
 - The concert is outdoors in Times Square and free to attend. Come for an hour or stay all six.
 - Arrive early for the opening and again before the Woodstock Forever finale.
 - Can't be there? Watch live on the Good News Broadcast YouTube channel, or catch the rebroadcast September 21 at noon.
-- Volunteers are needed. If you can give a few hours, reply on this page or reach out through pausetheworldforpeace.org (https://pausetheworldforpeace.org).
+- Volunteers are needed. If you can give a few hours, reply [on this page or reach out through pausetheworldforpeace.org](https://pausetheworldforpeace.org).
 - Good News Corporation is a 501(c)(3) nonprofit, established 2002. Donations keep this concert free.ace initiative.
 
 <a id="event-5549f9aaa2a342d8"></a>
@@ -20008,7 +19996,7 @@ We'd be honored to have you at the table.
 
 come hang, meet other builders, and share what you're working on.
 
-hosted by Superteam Singapore (https://superteam.sg) × LytheLabs (https://www.lythe.ai).
+[hosted by Superteam Singapore](https://superteam.sg) × [LytheLabs](https://www.lythe.ai).
 
 <a id="event-4fe48d78c5c2ce7b"></a>
 
@@ -20066,7 +20054,7 @@ New location with top views all over Dubai! EcoX Mondays: The AI Agent Edition -
 
 ### About the event
 
-The most meaningful volunteering happens when people's skills meet organizations' real needs. This 1% for the Planet (https://www.onepercentfortheplanet.org/) and The Social Society (https://www.thesocialsociety.org.uk/) skills-based volunteer hackathon creates exactly that space. Join us at Hairstory (https://hairstory.com/)'s studio space in the Flatiron District for an event that's practical, collaborative, and focused on impact.
+The most meaningful volunteering happens when people's [skills meet organizations' real needs. This 1% for the Planet](https://www.onepercentfortheplanet.org/) [and The Social Society](https://www.thesocialsociety.org.uk/) skills-based volunteer [hackathon creates exactly that space. Join us at Hairstory](https://hairstory.com/)'s studio space in the Flatiron District for an event that's practical, collaborative, and focused on impact.
 
 1% for the Planet Impact Partners will share their most pressing challenges, from shaping a fundraising story to launching a new initiative. You'll join a table, collaborate with others, and sprint through ideas and solutions that make a difference.
 
@@ -20096,7 +20084,7 @@ Sept 21st | 12:00 - 4:00 PM
 
 Spots are limited. Register your interest below and we'll confirm your seat at the table.
 
-#UNGA81 (https://www.linkedin.com/search/results/all/?keywords=%23unga81&origin=HASH_TAG_FROM_FEED) #CatalyticCapital (https://www.linkedin.com/search/results/all/?keywords=%23catalyticcapital&origin=HASH_TAG_FROM_FEED) #ImpactInvesting (https://www.linkedin.com/search/results/all/?keywords=%23impactinvesting&origin=HASH_TAG_FROM_FEED) #BlendedFinance (https://www.linkedin.com/search/results/all/?keywords=%23blendedfinance&origin=HASH_TAG_FROM_FEED)
+#[UNGA81](https://www.linkedin.com/search/results/all/?keywords=%23unga81&origin=HASH_TAG_FROM_FEED) #[CatalyticCapital](https://www.linkedin.com/search/results/all/?keywords=%23catalyticcapital&origin=HASH_TAG_FROM_FEED) #[ImpactInvesting](https://www.linkedin.com/search/results/all/?keywords=%23impactinvesting&origin=HASH_TAG_FROM_FEED) #[BlendedFinance](https://www.linkedin.com/search/results/all/?keywords=%23blendedfinance&origin=HASH_TAG_FROM_FEED)
 
 <a id="event-2d6276654357d5ee"></a>
 
@@ -20146,7 +20134,7 @@ Decentralised connections, real conversations
 
 We've got an epic BitcoinMondays NYC on September 21st at Pubkey, featuring a Fireside Chat Dr. W. Scott Stornetta, the most cited person (at 3 mentions) in Satoshi's white paper! Scott's also widely considered to be the co-inventor of the Blockchain. From 1991, his pioneering series of papers and patents, written with Dr. Stuart Haber, laid the foundation for Bitcoin and other digital currencies.
 
-Today, Dr. W. Scott Stornetta is an active investor, mentor, and the CEO of SureMark Digital (https://www.suremark.digital/). which uses the same techniques that undergird the blockchain to create peer-to-peer unforgeable identities.
+Today, Dr. W. Scott Stornetta is [an active investor, mentor, and the CEO of SureMark Digital](https://www.suremark.digital/). which uses the same techniques that undergird the blockchain to create peer-to-peer unforgeable identities.
 
 SureMark: Making Deepfakes Irrelevant
 
@@ -20362,7 +20350,7 @@ This year's agenda will include discussions on:
 - Finance Leaders' Outlook: Navigating Capital Markets as a Digital Assets Business
 - View from the FASB: Accounting, Disclosure & Assurance in Digital Assets
 
-Full details and agenda at cryptofinanceforum.nyc (https://cryptofinanceforum.nyc)
+[Full details and agenda at cryptofinanceforum.nyc](https://cryptofinanceforum.nyc)
 
 Attendance is carefully curated to ensure senior, relevant conversations. Applications from sales or business development roles will not be accepted.
 
@@ -20516,7 +20504,7 @@ How blockchain infrastructure is transforming FX markets, settlement, and liquid
 - Simone Cortese, Chief Product Officer, Fnality
 - Brian Nolan, Co-Founder & CEO, Finteum
 
-Hosted by the UK chapter of the Digital Assets Association (https://digitalassetsassociation.org/), a global non-profit association founded in Singapore in 2023, advancing institutional engagement with blockchain and real-world asset tokenisation, with 150+ members globally. Co-hosted by Komainu (https://komainu.com/).
+[Hosted by the UK chapter of the Digital Assets Association](https://digitalassetsassociation.org/), a global non-profit association founded in Singapore in 2023, advancing institutional engagement with blockchain and real-world asset tokenisation, [with 150+ members globally. Co-hosted by Komainu](https://komainu.com/).
 
 <a id="event-835918f6e3094dba"></a>
 
@@ -20612,7 +20600,7 @@ Urban Future Lab: NYC's longest-running climate tech hub, based at NYU Tandon. H
 
 ### About the event
 
-Come hang out with the SF Codex community for an evening all about building with your voice brought to you by WorkOS and Parallel.ai (https://Parallel.ai)
+Come hang out with the SF Codex community for an evening all about building [with your voice brought to you by WorkOS and Parallel.ai](https://Parallel.ai)
 
 Codex Voice lets you do a lot more than dictate prompts. You can talk through an idea, kick off coding tasks, steer agents while they work, check progress, and coordinate multiple threads without constantly going back to the keyboard.
 
@@ -20836,7 +20824,7 @@ Across the day, expect candid actionable plenary conversations on where science,
 
 Join leaders from investment management, real estate, technology, academia and startups for an evening exploring how blockchain, AI and digital infrastructure are being applied in the real world.
 
-Hosted by UCL's Centre for Sustainability and RealTech Innovation (CSRI) (https://www.ucl.ac.uk/engineering/research/centres-institutes-and-labs/ucl-centre-sustainability-and-realtech-innovation-csri-powered-pgim), (https://www.pgim.com/gb/en/campaigns/exp/keep-asking)PGIM (https://www.pgim.com/gb/en/campaigns/exp/keep-asking) and the UCL Centre for Blockchain Technologies (CBT) (https://blockchain.cs.ucl.ac.uk/), this event brings together researchers, founders, investors and industry practitioners to discuss practical use cases, adoption challenges and emerging opportunities across real assets and the built environment.
+Hosted by UCL's Centre for Sustainability and RealTech Innovation (CSRI) (https://www.ucl.ac.uk/engineering/research/centres-institutes-and-labs/ucl-centre-sustainability-and-realtech-innovation-csri-powered-pgim), (https://www.pgim.com/gb/en/campaigns/exp/keep-asking)[PGIM](https://www.pgim.com/gb/en/campaigns/exp/keep-asking) and the UCL Centre for Blockchain Technologies (CBT) (https://blockchain.cs.ucl.ac.uk/), this event brings together researchers, founders, investors and industry practitioners to discuss practical use cases, adoption challenges and emerging opportunities across real assets and the built environment.
 
 ### What We'll Cover
 
@@ -20854,7 +20842,7 @@ Industry and technology trends shaping digital assets and real asset innovation.
 
 Industry & research case studies
 
-Insights from leading organisations, researchers and founders, including contributors from PGIM, Ripple (https://ripple.com/?utm_medium=ppc&utm_source=google&utm_term=ripple&utm_campaign=CRP-Corporate-Global-ALL-BRND-Search_(Max_Conv._Experiment)&utm_ad_group=General&gad_source=1&gad_campaignid=24065986980&gbraid=0AAAAADRLBr_GPTPzsrTNjqs5i06YLcaEx&gclid=CjwKCAjwwL_UBhAjEiwAEhuT5F0qXPQ47yxHwsyVHCYgGPu7WA0vWYb7GkaB8ojB8E2lpjODdL8OUBoC8LkQAvD_BwE), UCL and the wider ecosystem.
+Insights from leading organisations, researchers [and founders, including contributors from PGIM, Ripple](https://ripple.com/?utm_medium=ppc&utm_source=google&utm_term=ripple&utm_campaign=CRP-Corporate-Global-ALL-BRND-Search_(Max_Conv._Experiment)&utm_ad_group=General&gad_source=1&gad_campaignid=24065986980&gbraid=0AAAAADRLBr_GPTPzsrTNjqs5i06YLcaEx&gclid=CjwKCAjwwL_UBhAjEiwAEhuT5F0qXPQ47yxHwsyVHCYgGPu7WA0vWYb7GkaB8ojB8E2lpjODdL8OUBoC8LkQAvD_BwE), UCL and the wider ecosystem.
 
 Fireside discussion
 
@@ -21070,22 +21058,22 @@ Come meet the community, hear real-world Codex use cases, see demos, make new co
 ### Invited Panelists
 
 1. Member of Technical Staff, OpenAI Codex, San Francisco Confirmed
-2. Pranav Uppili (https://www.linkedin.com/in/pranav-uppiliappan/) - Founder, MochaCare (YC W26)
-3. Shreshth Sharma (https://www.linkedin.com/in/shreshth-sharma-950826247/), Founder, Olam Labs (YC S26)
-4. Ariyaman Molanorouzi, (https://www.linkedin.com/in/ariyaman/) founder, Stealth (YC F26)
-5. Boje Deforce, PhD, (https://www.linkedin.com/in/bojedeforce/) Senior Data Scientist, Walmart Global Tech, founder, Naos Optics
+2. [Pranav Uppili](https://www.linkedin.com/in/pranav-uppiliappan/) - Founder, MochaCare (YC W26)
+3. [Shreshth Sharma](https://www.linkedin.com/in/shreshth-sharma-950826247/), Founder, Olam Labs (YC S26)
+4. [Ariyaman Molanorouzi,](https://www.linkedin.com/in/ariyaman/) founder, Stealth (YC F26)
+5. [Boje Deforce, PhD,](https://www.linkedin.com/in/bojedeforce/) Senior Data Scientist, Walmart Global Tech, founder, Naos Optics
 
 ### Invited Speaker
 
-Rana Hanocka (https://www.linkedin.com/in/ranahanocka/) - Founder & CEO of Thrixel, Assistant Professor at the University of Chicago
+[Rana Hanocka](https://www.linkedin.com/in/ranahanocka/) - Founder & CEO of Thrixel, Assistant Professor at the University of Chicago
 
 Topic: Creating Interactive 3D Worlds with Codex and Thrixel
 
 Recent Codex Community Events
 
-Codex Community Meetup #9 | August 25, 2026 (https://luma.com/anq7lf5m)
+[Codex Community Meetup #9 | August 25, 2026](https://luma.com/anq7lf5m)
 
-Codex Community Meetup #8 | July 30, 2026 (https://luma.com/h5x0pzw9)
+[Codex Community Meetup #8 | July 30, 2026](https://luma.com/h5x0pzw9)
 
 Codex Community Meetup #7 | June 23, 2026
 
@@ -21146,7 +21134,7 @@ Limited Speaker Spots Available
 
 We are opening 5-6 short community speaker spots for people who would like to share what they are building, demonstrate an interesting Codex use case, or present something useful to the community.
 
-If you would like to be considered as a speaker or panelist, please apply through the event page or contact the organizer directly: TatianaSF (https://www.linkedin.com/in/tatianasf/)
+If you would like to be considered as a speaker or panelist, please apply through [the event page or contact the organizer directly: TatianaSF](https://www.linkedin.com/in/tatianasf/)
 
 ### Special Giveaways
 
@@ -21154,7 +21142,7 @@ Registered attendees will have a chance to win special giveaways during the even
 
 ### About Codex
 
-Codex (https://developers.openai.com/codex) is OpenAI's coding agent designed to help people build, understand, and ship software faster.
+[Codex](https://developers.openai.com/codex) is OpenAI's coding agent designed to help people build, understand, and ship software faster.
 
 This meetup brings together people who are already building with Codex and those who simply want to understand what coding agents can do.
 
@@ -21172,7 +21160,7 @@ Codex Community Meetup - subscribe for updates
 
 ### Host
 
-TatianaSF.com (https://TatianaSF.com) - Tatiana Isa, OpenAI Codex Ambassador
+[TatianaSF.com](https://TatianaSF.com) - Tatiana Isa, OpenAI Codex Ambassador
 
 ### Venue
 
@@ -21188,7 +21176,7 @@ Interested in volunteering or supporting future community events as a sponsor, m
 
 Contact:
 
-or message TatianaSF on LinkedIn (https://www.linkedin.com/in/tatianasf/).
+[or message TatianaSF on LinkedIn](https://www.linkedin.com/in/tatianasf/).
 
 This is an independent community event and is not affiliated with, sponsored by, or endorsed by OpenAI London office.
 
@@ -21351,27 +21339,27 @@ Nimble: Web data your agents can trust
 
 ### Speakers
 
-Viviana Márquez (https://www.linkedin.com/in/vivianamarquez/) - Developer Relations @ Liquid AI
+[Viviana Márquez](https://www.linkedin.com/in/vivianamarquez/) - Developer Relations @ Liquid AI
 
-Tianshu Yu (https://www.linkedin.com/in/tianshu-yu-b5683b18b/)- Member of Technical Staff, ML Engineer @ Liquid AI
+[Tianshu Yu](https://www.linkedin.com/in/tianshu-yu-b5683b18b/)- Member of Technical Staff, ML Engineer @ Liquid AI
 
-Yaniv Markovski (https://www.linkedin.com/in/yanivmarkovski/) - Head of Ecosystem Engineering @ Nimble
+[Yaniv Markovski](https://www.linkedin.com/in/yanivmarkovski/) - Head of Ecosystem Engineering @ Nimble
 
-Loading... (https://i.gifer.com/ZKZg.gif?utm_source=luma)
+[Loading...](https://i.gifer.com/ZKZg.gif?utm_source=luma)
 
 ### Judges
 
-Viviana Márquez (https://www.linkedin.com/in/vivianamarquez/) - Developer Relations @ Liquid AI
+[Viviana Márquez](https://www.linkedin.com/in/vivianamarquez/) - Developer Relations @ Liquid AI
 
-Tianshu Yu (https://www.linkedin.com/in/tianshu-yu-b5683b18b/) - Member of Technical Staff, ML Engineer @ Liquid AI
+[Tianshu Yu](https://www.linkedin.com/in/tianshu-yu-b5683b18b/) - Member of Technical Staff, ML Engineer @ Liquid AI
 
-Yaniv Markovski (https://www.linkedin.com/in/yanivmarkovski/) - Head of Ecosystem Engineering @ Nimble
+[Yaniv Markovski](https://www.linkedin.com/in/yanivmarkovski/) - Head of Ecosystem Engineering @ Nimble
 
-Mogana Kumaran S. (https://www.linkedin.com/in/mogana-kumaran-s-8ab02026/?utm_source=luma) - Senior Staff Data Engineer @ Gap INC
+[Mogana Kumaran S.](https://www.linkedin.com/in/mogana-kumaran-s-8ab02026/?utm_source=luma) - Senior Staff Data Engineer @ Gap INC
 
-Amit Panda (https://www.linkedin.com/in/pandaamit91/) - Staff Software Engineer @ LinkedIn
+[Amit Panda](https://www.linkedin.com/in/pandaamit91/) - Staff Software Engineer @ LinkedIn
 
-Loading... (https://i.gifer.com/ZKZg.gif?utm_source=luma)
+[Loading...](https://i.gifer.com/ZKZg.gif?utm_source=luma)
 
 ### Agenda
 
@@ -21390,7 +21378,7 @@ Maximum team size is four. 18+ only
 
 ### See what's possible
 
-Follow us on X (https://x.com/tokensandai?utm_source=luma) - LinkedIn (https://www.linkedin.com/company/tokensand?utm_source=luma) - Newsletter (https://tokensandai.beehiiv.com/?utm_source=luma)
+[Follow us on X](https://x.com/tokensandai?utm_source=luma) - [LinkedIn](https://www.linkedin.com/company/tokensand?utm_source=luma) - [Newsletter](https://tokensandai.beehiiv.com/?utm_source=luma)
 
 <a id="event-ecfa4f286ca6cdb3"></a>
 
@@ -21480,13 +21468,13 @@ How It Comes Together
 
 The company is up to you. The co-founders are up to you. The roles are up to you. The track defines what you want to accomplish. For example:
 
-Company is AI bookkeeping platform. Co (https://platform.Co)-founders are Human CEO + Human CTO + AI Product + AI Sales
+[Company is AI bookkeeping platform. Co](https://platform.Co)-founders are Human CEO + Human CTO + AI Product + AI Sales
 
 Track is Sell It. Build the product, find potential customers, run outreach, and aim to secure the first paying customers.
 
-Company is AI travel startup. Co (https://startup.Co)-founders are Human Product Lead + AI CEO + AI Growth. Track is Grow It. Build the product, define the target audience, launch growth experiments, and acquire the first users.
+[Company is AI travel startup. Co](https://startup.Co)-founders are Human Product Lead + AI CEO + AI Growth. Track is Grow It. Build the product, define the target audience, launch growth experiments, and acquire the first users.
 
-Company is Developer productivity tool. Co (https://tool.Co)-founders are Human CTO + AI Product + AI Marketing. Track is Make It. Validate the problem, build the MVP, test it with developers, and ship a working product.
+[Company is Developer productivity tool. Co](https://tool.Co)-founders are Human CTO + AI Product + AI Marketing. Track is Make It. Validate the problem, build the MVP, test it with developers, and ship a working product.
 
 Choose your company. Build your founding team. Pick your mission. Then go build.
 
@@ -21514,9 +21502,9 @@ Metropolis is Monad's flagship six-week global hackathon, bringing builders toge
 
 Featured Speakers
 
-1. Avichal Garg (https://x.com/avichal), Co-Founder of Electric Capital
-2. Rohin (https://x.com/rohinlohe), Product Lead at Cloudflare
-3. Pankaj Bengani (https://x.com/pankaj_bengani), CEO of Meld
+1. [Avichal Garg](https://x.com/avichal), Co-Founder of Electric Capital
+2. [Rohin](https://x.com/rohinlohe), Product Lead at Cloudflare
+3. [Pankaj Bengani](https://x.com/pankaj_bengani), CEO of Meld
 
 The day
 
@@ -21837,7 +21825,7 @@ Projects can range across the full collaborative spectrum. Multiple agents might
 - Form self-improving loops with one another
 - Operate across distributed machines and datasets
 
-Flower (https://flower.ai/) is built together with an open-source community spanning more than 7k users world-wide. Flower simplifies building multi-agent systems, supporting distributed coordination, collaborative learning and inference, and privacy-aware deployment.
+[Flower](https://flower.ai/) is built together with an open-source community spanning more than 7k users world-wide. Flower simplifies building multi-agent systems, supporting distributed coordination, collaborative learning and inference, and privacy-aware deployment.
 
 Projects from all industries and application areas are welcome - including scientific research, healthcare, finance, education, public services, software development and entirely new forms of human-agent collaboration.
 
@@ -21965,7 +21953,7 @@ Lunch is included.
 
 ### From Tech Week to What's Next
 
-Tech Week Singapore 2026 (https://www.singaporetechnologyweek.com/) takes place on September 29-30 at Sands Expo & Convention Centre, bringing together technology leaders and practitioners from across Southeast Asia and the wider Asia-Pacific region.
+[Tech Week Singapore 2026](https://www.singaporetechnologyweek.com/) takes place on September 29-30 at Sands Expo & Convention Centre, bringing together technology leaders and practitioners from across Southeast Asia and the wider Asia-Pacific region.
 
 This year's five co-located events span Cloud & AI Infrastructure, DevOps, Cyber Security, Big Data & AI, and Data Centres - connecting the technologies powering the next wave of enterprise innovation.
 
@@ -21993,9 +21981,9 @@ Step out of conference mode and settle into a more relaxed evening. Catch up wit
 
 ### Look Who's Shipping
 
-Jeff (Jiajun) Lu (https://www.linkedin.com/in/lujiajun) | Founder & CEO, AKOOL
+Jeff (Jiajun) [Lu](https://www.linkedin.com/in/lujiajun) | Founder & CEO, AKOOL
 
-Bruce Yang (https://sg.linkedin.com/in/tongbruceyang) | Founder, Agnes AI
+[Bruce Yang](https://sg.linkedin.com/in/tongbruceyang) | Founder, Agnes AI
 
 Kisson Lin | Founder, MegaHit.ai
 
@@ -22042,13 +22030,13 @@ Agnes AI is a global full-modality foundation model company developing proprieta
 
 AKOOL Inc. is a leading enterprise-grade multimodal AI and large language model platform, providing unified access to advanced text, image, video, voice, and digital human models, along with the AI infrastructure needed to build and scale production-ready generative AI applications.
 
-### MegaHit.ai
+### [MegaHit.ai]
 
 https://MegaHit.ai
 
-MegaHit.ai - Your Growth Co-Founder.
+[MegaHit.ai] - Your Growth Co-Founder.
 
-MegaHit.ai is an AI growth agent platform for startups and growth teams. It goes beyond giving advice: it understands your brand, goals, and long-term context, then continuously plans, executes, and optimizes your growth strategy. From social media, content, and SEO to KOLs, ads, and customer acquisition, MegaHit turns fragmented growth workflows into one proactive, continuously learning AI growth team.
+[MegaHit.ai] is an AI growth agent platform for startups and growth teams. It goes beyond giving advice: it understands your brand, goals, and long-term context, then continuously plans, executes, and optimizes your growth strategy. From social media, content, and SEO to KOLs, ads, and customer acquisition, MegaHit turns fragmented growth workflows into one proactive, continuously learning AI growth team.
 
 ### NevaMind
 
@@ -22072,7 +22060,7 @@ We run large monthly events, and people are asking for smaller, more intimate ga
 
 We have 30 spots, 3 courses, a great venue, and a curated experience.
 
-Thank you to our co-hosts Rho (https://www.rho.co/), a business banking platform, purpose-built for startups. More below.
+[Thank you to our co-hosts Rho](https://www.rho.co/), a business banking platform, purpose-built for startups. More below.
 
 ### This is for any hardware founder, engineer, investor
 
@@ -22114,7 +22102,7 @@ We have 30 spots, 3 courses, a great venue, and a curated experience.
 
 Our dinners are usually $50 a person, thank you to Rho for helping make the ticket 50% off!
 
-Rho (https://www.rho.co/) is a business banking platform, purpose-built for startups. Manage cash, keep burn in check, and automate finance busywork that distracts founders from building products customers want.
+[Rho](https://www.rho.co/) is a business banking platform, purpose-built for startups. Manage cash, keep burn in check, and automate finance busywork that distracts founders from building products customers want.
 
 Studio 45 (mission) (https://www.workatthestudio.com/) is a space dedicated to supporting local entrepreneurs and teams building hardware. Located in Mission/Bernal Area, the studio gathers the community, resources, space, and tools needed to build a business making physical products.
 
@@ -22153,7 +22141,7 @@ Why attend
 - Meet other exceptional UIUC founders
 - Share lessons, challenges, and useful resources candidly
 - Help shape a growing UIUC founder community in SF and beyond
-- Inaugural 2867.club (https://2867.club) dinner
+- [Inaugural 2867.club](https://2867.club) dinner
 
 Space is limited. Request an invite or RSVP if you received this link.
 
@@ -22319,9 +22307,9 @@ The formal program will conclude with a Gallery Reception bringing together buil
 
 Come build - or come see - what the next generation of AI-powered commerce looks like.
 
-ZooWork (https://zoowork.ai) - The AI agent delivery platform for FDEs and domain experts. Build, deploy, and deliver production-ready AI agents to your team or clients in minutes - with Agent Builder, Agent Runtime, model gateway, data, and integrations all in one place. ZooWork turns your expertise into repeatable AI solutions that run inside real business operations, connected to the tools your teams already use. Learn more at zoowork.ai (https://zoowork.ai).
+[ZooWork](https://zoowork.ai) - The AI agent delivery platform for FDEs and domain experts. Build, deploy, and deliver production-ready AI agents to your team or clients in minutes - with Agent Builder, Agent Runtime, model gateway, data, and integrations all in one place. ZooWork turns your expertise into repeatable AI solutions that run inside real business operations, connected [to the tools your teams already use. Learn more at zoowork.ai](https://zoowork.ai).
 
-AI Valley (http://aivalley.io/?referrer=luma) is a community rooted in supporting exceptional first generation builders, founders, and creators. We curate environments where ambitious people meet collaborators, mentors, and opportunities through hackathons, workshops, and intimate gatherings across AI, tech, and the arts. If you care about who you build with as much as what you build, this is your place.
+[AI Valley](http://aivalley.io/?referrer=luma) is a community rooted in supporting exceptional first generation builders, founders, and creators. We curate environments where ambitious people meet collaborators, mentors, and opportunities through hackathons, workshops, and intimate gatherings across AI, tech, and the arts. If you care about who you build with as much as what you build, this is your place.
 
 Website: https://aivalley.io
 
@@ -22345,7 +22333,7 @@ All links: https://aivalley.io/links
 
 ### About the event
 
-Join us for an exclusive, in-person roundtable jointly hosted by K&L Gates (https://www.klgates.com/), AlixPartners (https://www.alixpartners.com/), xcollective_ (https://xcollective.global/), Sphere State Group (https://spherestate.com/en-hk/) and the Blockchain Lawyers Forum (BLF) (https://blf.io/) during TOKEN2049 week in Singapore. The session will bring together legal, regulatory and industry leaders for a candid exchange on the issues shaping blockchain, digital assets, payments and the wider Web3 ecosystem.
+Join us for an [exclusive, in-person roundtable jointly hosted by K&L Gates](https://www.klgates.com/), [AlixPartners](https://www.alixpartners.com/), [xcollective_](https://xcollective.global/), [Sphere State Group](https://spherestate.com/en-hk/) and the Blockchain Lawyers Forum (BLF) (https://blf.io/) during TOKEN2049 week in Singapore. The session will bring together legal, regulatory and industry leaders for a candid exchange on the issues shaping blockchain, digital assets, payments and the wider Web3 ecosystem.
 
 With no fixed agenda, the conversation will be driven by participants: attendees will submit and select the topics they most want to explore, creating a timely and highly relevant discussion shaped by perspectives and priorities in the room.
 
@@ -22387,7 +22375,7 @@ Limited spots
 
 ### About Utila
 
-Utila (https://utila.io/?utm_source=luma) is the leading stablecoin and digital asset infrastructure platform for fintechs, banks and enterprises. Utila enables organizations of all sizes to securely build, manage, and scale digital asset operations across stablecoin payments, treasury, trading, tokenization, and beyond. Trusted by 350+ industry leaders, Utila processes more than $30B in monthly volume and has secured over $500B in transactions to date.
+[Utila](https://utila.io/?utm_source=luma) is the leading stablecoin and digital asset infrastructure platform for fintechs, banks and enterprises. Utila enables organizations of all sizes to securely build, manage, and scale digital asset operations across stablecoin payments, treasury, trading, tokenization, and beyond. Trusted by 350+ industry leaders, Utila processes more than $30B in monthly volume and has secured over $500B in transactions to date.
 
 <a id="event-17c9e4a8e3093340"></a>
 
@@ -22416,19 +22404,19 @@ The conversation will cover:
 
 > Moderator:
 
-> Anir Bhattacharyya (https://www.linkedin.com/in/anir-bhattacharyya/), Partner, AlixPartners
+> [Anir Bhattacharyya](https://www.linkedin.com/in/anir-bhattacharyya/), Partner, AlixPartners
 
 >
 
 > Speakers:
 
-> Ali Burney (https://www.linkedin.com/in/ali-burney-023336101/), Partner, Steptoe
+> [Ali Burney](https://www.linkedin.com/in/ali-burney-023336101/), Partner, Steptoe
 
-> Anna Gates (https://www.linkedin.com/in/anna-gates-aa580b21/), Senior Advisor, AlixPartners
+> [Anna Gates](https://www.linkedin.com/in/anna-gates-aa580b21/), Senior Advisor, AlixPartners
 
-> Peter Woo (https://www.linkedin.com/in/peterwoo1988/), Director - Crypto Compliance, Moomoo Crypto
+> [Peter Woo](https://www.linkedin.com/in/peterwoo1988/), Director - Crypto Compliance, Moomoo Crypto
 
-> Brandon O'Shea (https://www.linkedin.com/in/bo13/), Director - FCSO Digital Asset Investigations, Standard Chartered
+> [Brandon O'Shea](https://www.linkedin.com/in/bo13/), Director - FCSO Digital Asset Investigations, Standard Chartered
 
 <a id="event-d1a346ffae34699c"></a>
 
@@ -22576,20 +22564,20 @@ Who gets accepted:
 
 → Top allocators and capital deployers
 
-www.FrontierTraders.com (https://www.FrontierTraders.com)
+[www.FrontierTraders.com](https://www.FrontierTraders.com)
 
 Brought to you by Frontier Traders community collaborators:
 
 - Solana Foundation
-  - Solana Foundation is a non-profit organization dedicated to the adoption, decentralization, and security of the Solana network. The Foundation supports developers, founders, and communities building on Solana, helping grow an open, scalable, and globally accessible ecosystem. Learn more at solana.org (https://solana.org)
+  - Solana Foundation is a non-profit organization dedicated to the adoption, decentralization, and security of the Solana network. The Foundation supports developers, founders, and communities building on Solana, helping grow an open, scalable, [and globally accessible ecosystem. Learn more at solana.org](https://solana.org)
 - Jito
-  - JTX is a self-custodial trading platform built by Jito, the team behind Solana's execution infrastructure. JTX delivers best-execution trading across tokenized equities and crypto, 24/7 from anywhere, with self-custody by default. Learn more at: www.jtx.com (https://www.jtx.com)
+  - JTX is a self-custodial trading platform built by Jito, the team behind Solana's execution infrastructure. JTX delivers best-execution trading across tokenized equities and crypto, 24/7 from anywhere, [with self-custody by default. Learn more at: www.jtx.com](https://www.jtx.com)
 - DoubleZero
-  - DoubleZero is a protocol that enables a global fiber network for high-performance distributed systems. Powered by independent fiber contributors and coordinated by a blockchain-based protocol, DoubleZero delivers low-latency networking and real-time data infrastructure for blockchains, prediction markets and other distributed systems where milliseconds matter. Learn more at: www.doublezero.xyz (https://www.doublezero.xyz)
+  - DoubleZero is a protocol that enables a global fiber network for high-performance distributed systems. Powered by independent fiber contributors and coordinated by a blockchain-based protocol, DoubleZero delivers low-latency networking and real-time data infrastructure for blockchains, prediction markets and other distributed systems [where milliseconds matter. Learn more at: www.doublezero.xyz](https://www.doublezero.xyz)
 - Phoenix Trade
-  - Phoenix is a fully on-chain perpetuals exchange built on Solana by Ellipsis Labs. Every order, fill, and liquidation settles directly on the Solana blockchain, making execution publicly verifiable rather than dependent on off-chain matching or oracle pricing. Trades settle in under a second, trading is gasless for users, and is built non-custodial by design. Ellipsis Labs has operated on-chain markets since 2023, processing over $75 billion in spot volume. Phoenix is available at phoenix.trade (https://phoenix.trade). Not available in the U.S. or sanctioned jurisdictions.
+  - Phoenix is a fully on-chain perpetuals exchange built on Solana by Ellipsis Labs. Every order, fill, and liquidation settles directly on the Solana blockchain, making execution publicly verifiable rather than dependent on off-chain matching or oracle pricing. Trades settle in under a second, trading is gasless for users, and is built non-custodial by design. Ellipsis Labs has operated on-chain markets since 2023, processing over $75 [billion in spot volume. Phoenix is available at phoenix.trade](https://phoenix.trade). Not available in the U.S. or sanctioned jurisdictions.
 - World[.xyz]
-  - World is Solana's native, fully onchain platform for self-custodial prediction market trading. World delivers real-time onchain performance, with fast routing, near-zero revert rates, instant settlement, and automatic redemption. Market coverage spans extensively into crypto and financial price predictions, sports, geopolitics, and the biggest questions in macro. World is how the world trades what happens next. Learn more at world.xyz (https://world.xyz)
+  - World is Solana's native, fully onchain platform for self-custodial prediction market trading. World delivers real-time onchain performance, with fast routing, near-zero revert rates, instant settlement, and automatic redemption. Market coverage spans extensively into crypto and financial price predictions, sports, geopolitics, and the biggest questions in macro. World is how [the world trades what happens next. Learn more at world.xyz](https://world.xyz)
 - Titan Exchange
   - Titan is the pros' gateway to Internet Capital Markets. We built Solana's first meta-aggregator and routers that power billions in on-chain trading volume. Learn more at https://x.com/Titan_Exchange
 - Phantom
@@ -22612,17 +22600,15 @@ Before Token2049 begins join us for a breakthrough event that merges the worlds 
 
 Expect high quality networking and meaningful conversations in a beautiful location. A great escape before the madness of the conference floor and a space to build connections instead of panels and keynotes.
 
-We'll also be live recording the WalletConnect Pulse podcast. If you want to submit for a guest slot you can do so here: Podcast guest application form (https://docs.google.com/forms/d/e/1FAIpQLSc5DFrCG2t6i1laM1fZFyKSMOGV877fHcRU88tDyfV-m56TDg/viewform)
+We'll also be live recording the WalletConnect Pulse podcast. If you want to submit for a [guest slot you can do so here: Podcast guest application form](https://docs.google.com/forms/d/e/1FAIpQLSc5DFrCG2t6i1laM1fZFyKSMOGV877fHcRU88tDyfV-m56TDg/viewform)
 
-About WalletConnect (https://walletconnect.com/?utm_source=luma):
+[About WalletConnect](https://walletconnect.com/?utm_source=luma):
 
 WalletConnect is the digital asset infrastructure powering payments, trading, and compliance at global scale. Founded in 2018, the WalletConnect network connects over 900 million users and thousands of institutions across 700+ wallets, all major blockchains, and powered more than $400 billion in transaction volume in 2025.
 
-### About ChangeNOW
+[About ChangeNOW](https://ChangeNOW.io)
 
-https://ChangeNOW.io
-
-ChangeNOW.io (https://ChangeNOW.io) is a crypto super app built for every crypto move, giving newcomers, professionals, and businesses the tools they need to access Web3 finance in a simple and secure way.
+[ChangeNOW.io](https://ChangeNOW.io) is a crypto super app built for every crypto move, giving newcomers, professionals, and businesses the tools they need to access Web3 finance in a simple and secure way.
 
 Since 2017, ChangeNOW has grown from a fast, secure, and limitless instant exchange into a trusted platform where storage, swaps, trading, staking, and asset management are covered in one simple experience for millions of clients worldwide.
 
@@ -22632,17 +22618,13 @@ It's the proven link between the promise of blockchain and the power of global f
 
 Canton is the only public, permissionless blockchain purpose-built for institutional finance-uniquely combining privacy, compliance, and scalability. With participation from leading global financial institutions and network governance independently facilitated by the Canton Foundation, Canton enables real-time, secure synchronization and settlement across multiple asset classes on a shared, interoperable infrastructure. The open-sourced network is powered by its native token, Canton Coin, and supports decentralized governance and collaborative application development.
 
-It's the proven link between the promise of blockchain and the power of global finance, making finance flow the way it should. Learn more at: canton.network (https://canton.
+It's the proven link between the promise of blockchain and the power of global finance, making [finance flow the way it should. Learn more at: canton.network](https://canton.
 
-### About Turnkey
-
-https://www.turnkey.com/
+[About Turnkey](https://www.turnkey.com/):
 
 Turnkey provides secure, scalable, and programmable crypto infrastructure with built-in verifiability for embedded wallets and onchain transaction automation. Create wallets, sign transactions, and automate onchain actions - all with one flexible API.
 
-### About OpenFX
-
-https://www.openfx.com/?utm_source=luma
+[About OpenFX](https://www.openfx.com/?utm_source=luma):
 
 OpenFX is a stablecoin powered cross-border payments platform that enables near instant settlement and 24/7 liquidity at the fraction of the cost of traditional banking. Recently backed by a $94M Series A.
 
@@ -22660,7 +22642,7 @@ OpenFX is a stablecoin powered cross-border payments platform that enables near 
 
 Join Merkle Science for an exclusive Merkle Science Meet in Singapore during Token2049, bringing together senior leaders across digital assets, payments, compliance, regulation, and financial services.
 
-- Sumsub - The first AI-powered trust infrastructure for compliance operations at scale. It connects identity and business verification, fraud prevention, transaction monitoring, and risk workflows, helping teams reduce manual work and enter new markets (https://markets.Global).
+- Sumsub - The first AI-powered trust infrastructure for compliance operations at scale. It connects identity and business verification, fraud prevention, transaction monitoring, and risk workflows, [helping teams reduce manual work and enter new markets](https://markets.Global).
 - Drew & Napier - Leading Singapore law firm with a dedicated Blockchain & Digital Assets practice advising companies on regulation, licensing, compliance, and digital asset activities.
 - Movantis - Global financial infrastructure platform connecting payments, remittances, FX, wallets, and stablecoin settlement across traditional and digital rails.
 - Utexo - Payment and settlement infrastructure enabling instant USDT payments and settlement on Bitcoin through APIs and Lightning Network infrastructure.
@@ -22843,7 +22825,7 @@ Our Five Key Services / 五项核心服务：
 - Media Amplification / 媒体支持： Boost project visibility and influence in global markets.
 - Engaging Contents / 内容创作： Produce professional insights with industry depth and foresight.
 
-网站 (https://gmadao.xyz/?utm_source=luma)｜推特 (https://x.com/GMA_DAO?utm_source=luma)｜YouTube (https://www.youtube.com/channel/UCI8VzM4ywAYR83epyoReydQ?utm_source=luma)｜Discord (https://discord.com/invite/MyPn7CFZsM?utm_source=luma)｜Medium (https://medium.com/@G_M_Alliance?utm_source=luma)
+网站 (https://gmadao.xyz/?utm_source=luma)｜推特 (https://x.com/GMA_DAO?utm_source=luma)｜[YouTube](https://www.youtube.com/channel/UCI8VzM4ywAYR83epyoReydQ?utm_source=luma)｜[Discord](https://discord.com/invite/MyPn7CFZsM?utm_source=luma)｜[Medium](https://medium.com/@G_M_Alliance?utm_source=luma)
 
 <a id="event-b1ebde8c77455594"></a>
 
@@ -22857,7 +22839,7 @@ Our Five Key Services / 五项核心服务：
 
 ### About the event
 
-TokenizeThis (https://tokenizethis.redstone.finance/) by RedStone is the flagship conference for real world assets. This time brought by RedStone (https://redstone.finance/) and Alchemy (https://www.alchemy.com/).
+[TokenizeThis](https://tokenizethis.redstone.finance/) by RedStone is the flagship conference [for real world assets. This time brought by RedStone](https://redstone.finance/) [and Alchemy](https://www.alchemy.com/).
 
 After three days in New York with Securitize, Apollo, Superstate, and DTCC on stage, we are bringing a one-day edition to TOKEN2049 in Singapore.
 
@@ -22865,13 +22847,13 @@ With Technical panels and practical deep-dives on the parts of tokenized finance
 
 Hosted by:
 
-RedStone (https://www.redstone.finance) is the data layer for institutional DeFi, delivering secure, low-latency price feeds for digital assets, RWAs, stablecoins, LSTs, LRTs, and Bitcoin LSTs across 110+ chains. Trusted by 200+ clients, including Securitize, Morpho, Pendle, Spark, Ether.fi, Ethena, Lombard, Venus, and Compound, RedStone powers lending, stablecoins, perpetuals, and tokenized asset markets with a custom pricing infrastructure built for complex onchain systems. RedStone is the primary oracle for tokenized products, including BlackRock's BUIDL, Apollo ACRED, and Hamilton Lane SCOPE. Zero mispricing events. 100% uptime.
+[RedStone](https://www.redstone.finance) is the data layer for institutional DeFi, delivering secure, low-latency price feeds for digital assets, RWAs, stablecoins, LSTs, LRTs, and Bitcoin LSTs across 110+ chains. Trusted by 200+ clients, including Securitize, Morpho, Pendle, Spark, Ether.fi, Ethena, Lombard, Venus, and Compound, RedStone powers lending, stablecoins, perpetuals, and tokenized asset markets with a custom pricing infrastructure built for complex onchain systems. RedStone is the primary oracle for tokenized products, including BlackRock's BUIDL, Apollo ACRED, and Hamilton Lane SCOPE. Zero mispricing events. 100% uptime.
 
-Alchemy (https://www.alchemy.com/) provides the infrastructure powering more than $1T in annualized onchain transactions for global leaders including J.P. Morgan, Coinbase, and Circle. Its developer platform supports teams building tokenized assets, stablecoins, and the next generation of financial products with reliable, scalable blockchain connectivity.
+[Alchemy](https://www.alchemy.com/) provides the infrastructure powering more than $1T in annualized onchain transactions for global leaders including J.P. Morgan, Coinbase, and Circle. Its developer platform supports teams building tokenized assets, stablecoins, and the next generation of financial products with reliable, scalable blockchain connectivity.
 
-Figure (https://www.figure.com/?utm_source=luma) A fintech company building capital markets infrastructure at the intersection of blockchain and AI. Their mission is to transform financial services by bringing speed, efficiency, and savings to consumers.
+[Figure](https://www.figure.com/?utm_source=luma) A fintech company building capital markets infrastructure at the intersection of blockchain and AI. Their mission is to transform financial services by bringing speed, efficiency, and savings to consumers.
 
-Credora (https://x.com/CredoraNetwork?utm_source=luma) is the largest independent DeFi risk rating platform bringing transparency to onchain credit and lending markets, live on Morpho and Spark with over $15B rated to date.
+[Credora](https://x.com/CredoraNetwork?utm_source=luma) is the largest independent DeFi risk rating platform bringing transparency to onchain credit and lending markets, live on Morpho and Spark with over $15B rated to date.
 
 Alchemy provides the infrastructure powering more than $1T in annualized onchain transactions for global leaders including J.P. Morgan, Coinbase, and Circle. Its developer platform supports teams building tokenized assets, stablecoins, and the next generation of financial products with reliable, scalable blockchain connectivity.
 
@@ -22943,7 +22925,7 @@ We can't wait to explore Singapore, experience TOKEN2049 together, and create an
 
 ArtsDAO is a curated, application-based private members club headquartered in Dubai, bringing together founders, investors, executives, creators, and innovators shaping the future of technology, AI, Web3, venture capital, and digital innovation.
 
-Learn more or apply for membership at artsdao.io (https://artsdao.io)
+[Learn more or apply for membership at artsdao.io](https://artsdao.io)
 
 Photography & Videography Notice
 
@@ -23076,7 +23058,7 @@ If you're looking to sponsor The Onchain Lounge, reach out via email to marketin
 
 OpenEden
 
-OpenEden operates a leading regulated tokenization platform, renowned for its unmatched focus on regulatory standards and advanced financial technology. Founded in 2022, OpenEden bridges traditional and decentralized finance by providing, through its regulated entities in Bermuda and the BVI, secure, transparent, and compliant on-chain access to tokenized assets. OpenEden is tokenizing global finance with a core focus on compliance and innovation. To learn more, visit www.openeden.com (https://www.openeden.com).
+OpenEden operates a leading regulated tokenization platform, renowned for its unmatched focus on regulatory standards and advanced financial technology. Founded in 2022, OpenEden bridges traditional and decentralized finance by providing, through its regulated entities in Bermuda and the BVI, secure, transparent, and compliant on-chain access to tokenized assets. OpenEden is tokenizing global finance with a core focus on compliance [and innovation. To learn more, visit www.openeden.com](https://www.openeden.com).
 
 United Stables
 
@@ -23104,7 +23086,7 @@ S&P Global Ratings
 
 S&P Global Ratings is the world's leading provider of independent credit ratings. Our analyst-driven credit ratings, research, and sustainable finance opinions provide critical insights that are essential to translating complexity into clarity so market participants can unlock opportunities and make decisions with conviction. By bringing transparency to the market through high-quality independent opinions on creditworthiness, we enable growth across a wide variety of organizations, including businesses, governments, and institutions.
 
-S&P Global Ratings is a division of S&P Global (NYSE: SPGI). S&P Global enables businesses, governments, and individuals with trusted data, expertise, and technology to make decisions with conviction. We are Advancing Essential Intelligence through world-leading benchmarks, data, and insights that customers need in order to plan confidently, act decisively, and thrive in a rapidly changing global landscape. Learn more at www.spglobal.com/ratings (https://www.spglobal.com/ratings).
+S&P Global Ratings is a division of S&P Global (NYSE: SPGI). S&P Global enables businesses, governments, and individuals with trusted data, expertise, and technology to make decisions with conviction. We are Advancing Essential Intelligence through world-leading benchmarks, data, and insights that customers need in order to plan confidently, act decisively, and thrive in a rapidly changing [global landscape. Learn more at www.spglobal.com/ratings](https://www.spglobal.com/ratings).
 
 Anchorage Digital
 
@@ -23162,7 +23144,7 @@ Hosted by Carolyn Wyatt. Ticket options include General Admission at US$799, VIP
 
 ### About the event
 
-Join Introduction.com (https://Introduction.com) and NEAR during a16z SF Tech Week for an exclusive, high-signal networking mixer bridging elite tech talent with cutting-edge infrastructure. This curated evening brings together leading founders, investors, and executives from the Introduction.com (https://Introduction.com) network alongside the builders pioneering decentralized AI at NEAR.
+[Join Introduction.com](https://Introduction.com) and NEAR during a16z SF Tech Week for an exclusive, high-signal networking mixer bridging elite tech talent with cutting-edge infrastructure. This curated evening brings together leading [founders, investors, and executives from the Introduction.com](https://Introduction.com) network alongside the builders pioneering decentralized AI at NEAR.
 
 Skip the rigid panels and connect directly over drinks with the minds shaping the future of autonomous technology. Whether you are scaling an early-stage startup or exploring NEAR's hardware-secured AI agent frameworks, this is your venue to forge high-impact partnerships, exchange tactical playbooks, and connect with the leaders driving the next wave of technological innovation. Space is strictly limited.
 
@@ -23180,19 +23162,19 @@ Skip the rigid panels and connect directly over drinks with the minds shaping th
 
 Join us for our Stablecoin Sessions during Token2049 Singapore brought to you by:
 
-Hack VC (https://hack.vc/?utm_source=luma): Hack VC is a web3 venture capital firm. We partner on- and off-chain at the earliest stages with hackers building the future of the Internet.
+[Hack VC](https://hack.vc/?utm_source=luma): Hack VC is a web3 venture capital firm. We partner on- and off-chain at the earliest stages with hackers building the future of the Internet.
 
-Sushi.com (https://sushi.com/?utm_source=luma): Trade crypto effortlessly with SushiSwap, supporting over 30 chains and featuring a powerful aggregator for the best rates across DeFi.
+[Sushi.com](https://sushi.com/?utm_source=luma): Trade crypto effortlessly with SushiSwap, supporting over 30 chains and featuring a powerful aggregator for the best rates across DeFi.
 
-Theoriq (https://www.theoriq.ai/): Theoriq is building AI-powered asset management for onchain markets. It designs systems that make fragmented DeFi opportunities easier to access through a single, risk-aware experience, starting with AlphaVault.
+[Theoriq](https://www.theoriq.ai/): Theoriq is building AI-powered asset management for onchain markets. It designs systems that make fragmented DeFi opportunities easier to access through a single, risk-aware experience, starting with AlphaVault.
 
-Dinari (https://dinari.com/): Dinari is financial infrastructure for tokenized equities, enabling investors and institutions to access tokenized U.S. stocks and ETFs.
+[Dinari](https://dinari.com/): Dinari is financial infrastructure for tokenized equities, enabling investors and institutions to access tokenized U.S. stocks and ETFs.
 
-Quote.Trade (https://Quote.Trade): Quote.Trade is an AI-native dark pool DEX for humans, bots, and agents: deposit stables once, then go long or short on 1,500+ tokens across chains without bridges or a public order book.
+[Quote.Trade](https://Quote.Trade): Quote.Trade is an AI-native dark pool DEX for humans, bots, and agents: deposit stables once, then go long or short on 1,500+ tokens across chains without bridges or a public order book.
 
-Pharos (https://pharos.xyz): Pharos is the inclusive financial Layer 1 for RealFi, where real value and institutional-grade assets circulate onchain and become composable with decentralized assets.
+[Pharos](https://pharos.xyz): Pharos is the inclusive financial Layer 1 for RealFi, where real value and institutional-grade assets circulate onchain and become composable with decentralized assets.
 
-Web3JOE (http://t.me/web3jobopps?utm_source=luma): Caffeinate your Web3 talent or job search with Web3JOE.
+[Web3JOE](http://t.me/web3jobopps?utm_source=luma): Caffeinate your Web3 talent or job search with Web3JOE.
 
 <a id="event-e16b192a0b2da0a2"></a>
 
@@ -23224,11 +23206,11 @@ If you're an onchain team looking to go higher with your business operations, or
 
 For onchain teams who are used to working around banking that was never built for them, Altitude is the operating account built for the way your business runs. Treasury, payments, payouts, cards, and books in one self-custodial account, available to businesses in 150+ countries.
 
-Take your business higher with Altitude → altitude.xyz (https://altitude.xyz).
+[Take your business higher with Altitude → altitude.xyz](https://altitude.xyz).
 
 ### About Optimism
 
-Optimism is a leading Ethereum scaling ecosystem helping developers and enterprises build secure, scalable, and cost-efficient onchain applications. Through the open-source OP Stack, organizations can launch customized blockchain networks while benefiting from Ethereum's security and growing ecosystem. Learn more at (https://www.optimism.io/?utm_source=luma)www.optimism.io (https://www.optimism.io).
+Optimism is a leading Ethereum scaling ecosystem helping developers and enterprises build secure, scalable, and cost-efficient onchain applications. Through the open-source OP Stack, organizations can launch customized blockchain networks while benefiting [from Ethereum's security and growing ecosystem. Learn more at](https://www.optimism.io/?utm_source=luma)[www.optimism.io](https://www.optimism.io).
 
 <a id="event-4dcc2ee41c32ae9c"></a>
 
@@ -23296,15 +23278,15 @@ BlackPeal - Pay. Earn. Trade. Agent‑ready
 
 ### About the event
 
-BitGo (NYSE: BTGO) is the digital asset infrastructure company delivering custody, wallets, staking, trading, financing, stablecoins, and settlement services from regulated cold storage. Since 2013, BitGo has focused on accelerating the transition of the financial system to a digital asset economy. BitGo maintains a global presence and multiple regulated entities, including BitGo Bank & Trust, National Association, the first federally chartered digital asset trust bank owned by a publicly traded company. Today, BitGo serves thousands of institutions, including many of the industry's top brands, financial institutions, exchanges, and platforms, and millions of investors worldwide.
+BitGo (NYSE: BTGO) is the digital asset infrastructure company delivering custody, wallets, staking, trading, financing, stablecoins, and settlement services from regulated cold storage. Since 2013, BitGo has focused on accelerating the transition of the financial system to a digital asset economy. BitGo maintains a global presence and multiple regulated entities, including BitGo Bank & Trust, National Association, the first federally chartered digital asset trust bank owned by a publicly traded company. Today, BitGo serves thousands of institutions, including many of the industry's top brands, financial institutions, exchanges, and platforms, and millions of investors [worldwide.
 
-For more information, visit www.bitgo.com (https://www.bitgo.com).
+For more information, visit www.bitgo.com](https://www.bitgo.com).
 
 ### About UstarPay
 
-UstarPay is a PayFi infrastructure platform designed to bring digital assets into real-world payment use cases. By integrating wallet, card, and payment infrastructure, UstarPay enables eligible users and businesses to access convenient payment solutions using supported digital assets. With compliance, transparency, and security at its core, UstarPay is building trusted digital payment experiences for supported markets. Guided by "Real Crypto, Real Life," the company is focused on making digital assets more practical, accessible, and relevant to everyday life. FASTESTPAY LTD. is registered with FINTRAC as a Money Services Business. For more information, please visit www.ustarpay.
+UstarPay is a PayFi infrastructure platform designed to bring digital assets into real-world payment use cases. By integrating wallet, card, and payment infrastructure, UstarPay enables eligible users and businesses to access convenient payment solutions using supported digital assets. With compliance, transparency, and security at its core, UstarPay is building trusted digital payment experiences for supported markets. Guided by "Real Crypto, Real Life," the company is focused on making digital assets more practical, accessible, and relevant to everyday life. FASTESTPAY LTD. is registered with FINTRAC as a Money Services [Business. For more information, please visit www.ustarpay.
 
-com (https://www.ustarpay.com).
+com](https://www.ustarpay.com).
 
 ### About HashKey Cloud
 
@@ -23350,10 +23332,10 @@ Attendees will have the opportunity to examine the practical relationship betwee
 
 ### About organizers
 
-- Quantova (https://Quantova.org) runs a post-quantum Layer 1 network built from first principles to issue, move, settle and protect digital value: digital identity, stablecoins, tokenised real-world assets, payments and institutional settlement, without inheriting a future migration burden.
-- Quantova launched QDock.io (https://QDock.io), the development environment supporting post quantum application development, together with the underlying cryptographic libraries, compilation tooling and deployment infrastructure used within the Quantova environment.
+- [Quantova](https://Quantova.org) runs a post-quantum Layer 1 network built from first principles to issue, move, settle and protect digital value: digital identity, stablecoins, tokenised real-world assets, payments and institutional settlement, without inheriting a future migration burden.
+- [Quantova launched QDock.io](https://QDock.io), the development environment supporting post quantum application development, together with the underlying cryptographic libraries, compilation tooling and deployment infrastructure used within the Quantova environment.
 
-Further technical information is available at Quantova.org (https://Quantova.org)
+[Further technical information is available at Quantova.org](https://Quantova.org)
 
 HackenProof is a bug bounty and crowdsourced security platform connecting companies with a global network of white-hat security researchers. The platform supports more than 400 programs, with over $26 million paid in bounties and a community of more than 85,000 ethical hackers.
 
@@ -23375,7 +23357,7 @@ Builders - Protocols - Capital - Conversations
 
 A full day of TOKEN2049. A whole evening to take the conversation further.
 
-After the first day of TOKEN2049 Singapore (https://www.token2049.com/singapore/), EPIC Connector invites you to continue those conversations in a more intimate setting.
+[After the first day of TOKEN2049 Singapore](https://www.token2049.com/singapore/), EPIC Connector invites you to continue those conversations in a more intimate setting.
 
 Join EPIC Connector for an evening with founders, protocol teams, investors, and ecosystem builders exploring what comes next in crypto - and what it takes to build something that lasts.
 
@@ -23619,7 +23601,7 @@ Weekly & Sponsored Games: Compete in regular fitness challenges featuring reward
 
 Global IRL Runs: Join us on the ground for community runs organized around major blockchain events worldwide.
 
-Website (https://linktr.ee/StriderDeFit)
+[Website](https://linktr.ee/StriderDeFit)
 
 Supported by:
 
@@ -23627,37 +23609,37 @@ Superteam SG
 
 Superteam Singapore is a community of crypto-native builders, creators, and operators growing the next generation of Solana projects.
 
-Website (https://superteam.sg/)
+[Website](https://superteam.sg/)
 
 Sanctum
 
 Sanctum is Solana's largest liquid staking protocol ($1.3B+ TVL), partnering with the biggest names like Jupiter, Bybit, Crypto.com, Gate, and also the largest Solana DATs like Forward Industries, DFDV, etc., to launch custom staking solutions, including helping brands launch their own LSTs and white-label validators with turnkey staking, liquidity, and operational support.
 
-Website (https://sanctum.so/)
+[Website](https://sanctum.so/)
 
 QuickNode
 
 Quicknode is the complete blockchain development platform for Solana teams that demand fast, reliable infrastructure. We run the full Solana surface from one dashboard: JSON-RPC and WebSockets on mainnet and devnet, Solana gRPC streaming, Streams and Webhooks, full historical archive, the Swap API, and a zero-fee validator.
 
-Website (https://www.quicknode.com/chains/solana)
+[Website](https://www.quicknode.com/chains/solana)
 
 Moonwalk
 
 Moonwalk Fitness app is a fitness accountability platform that boosts daily step goals through financial incentives.
 
-Website (https://moonwalk.fit/)
+[Website](https://moonwalk.fit/)
 
 Sentinel
 
 Real-time Solana DeFi security intelligence platform. Monitors cross-protocol risk (Kamino, MarginFi, Solend, Jupiter Lend, Drift) with Pyth oracle anomaly detection, TVL crash alerts, CEX funding rate signals, and cascade risk scoring.
 
-Website (https://sentinel.baserep.xyz/)
+[Website](https://sentinel.baserep.xyz/)
 
 Kurtosis Labs
 
 Kurtosis is building the world's first non-black-box infrastructure for systematic fixed-income investing in DeFi. Russian Doll Ratings make the risks behind each position explainable, while Horizon puts those ratings to work with live capital, so the ratings inform execution and live outcomes improve the ratings in return
 
-Website (https://kurtosis-labs.com/)
+[Website](https://kurtosis-labs.com/)
 
 ### Media Partner
 
@@ -23665,7 +23647,7 @@ Website (https://kurtosis-labs.com/)
 
 Leading Chinese Go-to-Market Agency. Building with founders shaping the future of finance and decentralization.
 
-Website (https://0xmedia.co/)
+[Website](https://0xmedia.co/)
 
 Venue Partner:
 
@@ -23673,7 +23655,7 @@ PlaySpace
 
 PlaySpace is a Singapore enrichment play company co-founded by Teri Tan, Titus Chia, and Sharon Paul, bringing hands-on play experiences to schools, families, and corporate teams. PlaySpace is built on a simple belief that play is for everyone, at every age. Its permanent home at 220 River Valley Road features Lego, puzzles, construction block games, and board games, guided by a licensed early childhood educator.
 
-Website (https://playspace.sg/)
+[Website](https://playspace.sg/)
 
 <a id="event-bb6e7eaa9aa16dcd"></a>
 
@@ -23693,7 +23675,7 @@ Drop in, grab a drink, meet the Midnight team and community, and see what's happ
 
 Throughout the day, the Midnight Cafe will bring the network to life through live demos, hands-on activations, creator moments, community meetups, and conversations with the people building Midnight.
 
-Get a closer look at Midnight City (https://midnight.city/), see privacy in practice, hear directly from builders and founders at Privacy Pitched (https://luma.com/vxg0nlpp), and meet the creators and community helping shape the Midnight ecosystem.
+[Get a closer look at Midnight City](https://midnight.city/), see privacy in practice, [hear directly from builders and founders at Privacy Pitched](https://luma.com/vxg0nlpp), and meet the creators and community helping shape the Midnight ecosystem.
 
 Expect refreshments, giveaways, and plenty of opportunities to connect with founders, builders, investors, creators, and the Midnight team.
 
@@ -23739,7 +23721,7 @@ Invite-only, please register to get pre-approval.
 
 ### About the event
 
-Spend the afternoon at the Midnight Cafe (https://luma.com/rvb1kraj) on 8 October and see what's already being built on Midnight.
+[Spend the afternoon at the Midnight Cafe](https://luma.com/rvb1kraj) on 8 October and see what's already being built on Midnight.
 
 We'll open with a keynote on where the network is headed and why privacy-preserving infrastructure matters now. From there, the afternoon moves from vision to execution, with live demonstrations from the teams building on Midnight across privacy-preserving identity, collateral and DeFi infrastructure, and cross-chain interoperability.
 
@@ -23864,11 +23846,11 @@ Bring your energy. Hit the dance floor.
 
 ### About the event
 
-BitGo (NYSE: BTGO) is the digital asset infrastructure company delivering custody, wallets, staking, trading, financing, stablecoins, and settlement services from regulated cold storage. Since 2013, BitGo has focused on accelerating the transition of the financial system to a digital asset economy. BitGo maintains a global presence and multiple regulated entities, including BitGo Bank & Trust, National Association, the first federally chartered digital asset trust bank owned by a publicly traded company. Today, BitGo serves thousands of institutions, including many of the industry's top brands, financial institutions, exchanges, and platforms, and millions of investors worldwide.
+BitGo (NYSE: BTGO) is the digital asset infrastructure company delivering custody, wallets, staking, trading, financing, stablecoins, and settlement services from regulated cold storage. Since 2013, BitGo has focused on accelerating the transition of the financial system to a digital asset economy. BitGo maintains a global presence and multiple regulated entities, including BitGo Bank & Trust, National Association, the first federally chartered digital asset trust bank owned by a publicly traded company. Today, BitGo serves thousands of institutions, including many of the industry's top brands, financial institutions, exchanges, and platforms, and millions of investors [worldwide.
 
-For more information, visit www.bitgo.com (https://www.bitgo.com).
+For more information, visit www.bitgo.com](https://www.bitgo.com).
 
-Singapore Gulf Bank (SGB) is the bank for all of finance, serving businesses and individuals worldwide. Backed by Whampoa Group, a Singapore-based investment holding company, and Mumtalakat, Bahrain's sovereign wealth fund, SGB is fully licensed and regulated by the Central Bank of Bahrain. For more information, please visit www.sgb.com (https://www.sgb.com).
+Singapore Gulf Bank (SGB) is the bank for all of finance, serving businesses and individuals worldwide. Backed by Whampoa Group, a Singapore-based investment holding company, and Mumtalakat, Bahrain's sovereign wealth fund, SGB is fully licensed and regulated by the Central Bank [of Bahrain. For more information, please visit www.sgb.com](https://www.sgb.com).
 
 Solana is a high performance network powering internet capital markets, payments, AI agents, and crypto applications. Solana operates as a single global state machine, and is open, interoperable and decentralized. For more information, please visit https://solana.com.
 
@@ -23998,7 +23980,7 @@ The main goal is to build a working app or prototype that empowers sales teams, 
 
 Judging Note
 
-Our judges are selection-only and chosen through a thorough 2-step interview process. Last time, we received 65 applications - it's a tough and competitive selection. Please, Apply here to become a judge (https://tally.so/r/w4lK7O)
+Our judges are selection-only and chosen through a thorough 2-step interview process. Last time, we received 65 applications - it's a tough and [competitive selection. Please, Apply here to become a judge](https://tally.so/r/w4lK7O)
 
 Judges' participation does not imply endorsement of any team, product, or technology.
 
@@ -24006,9 +23988,9 @@ If you truly have something to bring to the table, or can help us by sponsoring 
 
 Mentors- TBA:
 
-- Rashid Aliyev (https://www.linkedin.com/in/rashidaliyev/) | Innovator, ex Big-4, People's Choice Awardee
-- Sako M (https://www.linkedin.com/in/sakom/) | Senior Software Engineer @ Gladly, Hackathon Champion
-- Natalie Pan (https://linkedin.com/in/nataliepan) | Founder of Funding Breakthrough Lab (https://fundingbreakthroughlab.org), Software Engineer, Cursor Vibe Coder, Hackathon Champion, Mindset Coach
+- [Rashid Aliyev](https://www.linkedin.com/in/rashidaliyev/) | Innovator, ex Big-4, People's Choice Awardee
+- [Sako M](https://www.linkedin.com/in/sakom/) | Senior Software Engineer @ Gladly, Hackathon Champion
+- [Natalie Pan](https://linkedin.com/in/nataliepan) | [Founder of Funding Breakthrough Lab](https://fundingbreakthroughlab.org), Software Engineer, Cursor Vibe Coder, Hackathon Champion, Mindset Coach
 - Mentor #3 - spot is available
 - Mentor #4 - spot is available
 - Mentor #5 - spot is available
@@ -24017,12 +23999,12 @@ Mentors- TBA:
 
 Previous hackathon in San Francisco:
 
-- GPT Hackathon (https://lu.ma/f5bo1xqu), San Francisco
-- AI Vibe Coding Hackathon (https://lu.ma/8clf1otc), San Francisco
+- [GPT Hackathon](https://lu.ma/f5bo1xqu), San Francisco
+- [AI Vibe Coding Hackathon](https://lu.ma/8clf1otc), San Francisco
 
 ### Hosts
 
-- TatianaSF.com (http://TatianaSF.com) - Tatiana Isa (primary host)
+- [TatianaSF.com](http://TatianaSF.com) - Tatiana Isa (primary host)
 
 ### Why Join?
 
@@ -24033,7 +24015,7 @@ Previous hackathon in San Francisco:
 ### Want to Join?
 
 - If you have ideas or would like to support the hackathon as a sponsor, volunteer, or you have any questions, please reach out anytime at https://www.linkedin.com/in/tatianasf/
-- Judges - please, Apply here (https://tally.so/r/w4lK7O) for the selection process
+- [Judges - please, Apply here](https://tally.so/r/w4lK7O) for the selection process
 
 Let's build something extraordinary together.
 
@@ -24041,7 +24023,7 @@ Register now!
 
 #AIhackathon #AgentEra #AIagents #SFtech #Hackathon2025 #YC #StartupLife #AIinSF #Innovation #Founders
 
-### About me TatianaSF.com
+### [About me TatianaSF.com]
 
 http://TatianaSF.com
 
@@ -24201,7 +24183,7 @@ This session is part of the TechEquity Ai Monthly Forum Series, combining strate
 
 ### Speakers
 
-Dave Nielsen (https://www.linkedin.com/in/dnielsen/) - Head of DevRel @Cognee AI (https://cognee.ai). Head of Events @AI Alliance (https://thealliance.ai)
+[Dave Nielsen](https://www.linkedin.com/in/dnielsen/) - [Head of DevRel @Cognee AI](https://cognee.ai). [Head of Events @AI Alliance](https://thealliance.ai)
 
 ### What to Expect
 
@@ -24250,11 +24232,11 @@ F&B and Seating: Limited and available on a first-come, first-served basis
 
 Venue: Snowflake Silicon Valley AI Hub (SVAI)
 
-Address: 8th Floor at 135 Constitution Dr. Menlo Park, CA 94025 (https://maps.app.goo.gl/eW7encjq2oeL89LXA?utm_source=luma)
+Address: 8th [Floor at 135 Constitution Dr. Menlo Park, CA 94025](https://maps.app.goo.gl/eW7encjq2oeL89LXA?utm_source=luma)
 
 Parking: Self-park in the garage next to the 135 Building
 
-Arrival Guide: Download the guide at bit.ly/SVAI-Arrival-Guide (https://bit.ly/SVAI-Arrival-Guide)
+Arrival [Guide: Download the guide at bit.ly/SVAI-Arrival-Guide](https://bit.ly/SVAI-Arrival-Guide)
 
 TechEquity Ai is a nonprofit organization dedicated to democratizing access to artificial intelligence (AI) knowledge and applications.
 
@@ -24262,7 +24244,7 @@ Our flagship initiative is the TechEquity Ai Summit, a series of high-impact eve
 
 Across our programs, we bring together builders, leaders, and learners through keynotes, panels, fireside chats, hands-on workshops, and interactive demos.
 
-To learn more about TechEquity Ai and our programs, visit techequity-ai.org (https://techequity-ai.org) or reach out to us at info@techequity-ai.org.
+To learn more [about TechEquity Ai and our programs, visit techequity-ai.org](https://techequity-ai.org) or reach out to us at info@techequity-ai.org.
 
 <a id="event-03d1259df12bd1b6"></a>
 
@@ -24341,7 +24323,7 @@ Organized by Breakpoint Co., Ltd.
 
 ### About the event
 
-Hey! Andrew Yeung (https://www.linkedin.com/in/andyeung/?utm_source=luma) here.
+[Hey! Andrew Yeung](https://www.linkedin.com/in/andyeung/?utm_source=luma) here.
 
 There's a certain kind of founder in SF you rarely see at events.
 
@@ -24358,7 +24340,7 @@ When: Oct 14 in SF and we have 16 spots. By application only.
 - A 3-course meal, courtesy of our partners
 - Conversations with fellow high-performing startup leaders
 - Meaningful connections with ambitious peers who know what it's like to build in a new country
-- If you're wondering how our dinners usually go... read this (https://docsend.com/view/inyeavnqjxikfxa2?utm_source=luma)
+- [If you're wondering how our dinners usually go... read this](https://docsend.com/view/inyeavnqjxikfxa2?utm_source=luma)
 
 Our only intent is to bring good, smart humans together.
 
@@ -24374,19 +24356,19 @@ See you there.
 
 ### About our hosts & sponsors
 
-Andrew Yeung (https://www.linkedin.com/feed/?utm_source=luma) is the founder of Fibe (https://www.meetfibe.com/?utm_source=luma) and The Shortlist NYC (https://www.shortlistnyc.com/?utm_source=luma). He is also an angel investor and Partner at Next Wave NYC (https://www.nextwave.nyc/?utm_source=luma), a pre-seed venture fund. Andrew has hosted over 300 events for 50,000 founders, operators, investors, and tech professionals that were featured by Bloomberg, Business Insider, Fast Company, Fortune Magazine, Axios, Newsweek, and Forbes. Business Insider dubbed him the "Gatsby of Silicon Alley. (https://www.businessinsider.
+[Andrew Yeung](https://www.linkedin.com/feed/?utm_source=luma) [is the founder of Fibe](https://www.meetfibe.com/?utm_source=luma) [and The Shortlist NYC](https://www.shortlistnyc.com/?utm_source=luma). [He is also an angel investor and Partner at Next Wave NYC](https://www.nextwave.nyc/?utm_source=luma), a pre-seed venture fund. Andrew has hosted over 300 events for 50,000 founders, operators, investors, and tech professionals that were featured by Bloomberg, Business Insider, Fast Company, Fortune Magazine, Axios, Newsweek, and Forbes. [Business Insider dubbed him the "Gatsby of Silicon Alley.](https://www.businessinsider.
 
 com/andrew-yeung-google-employee-throwing-techs-hottest-parties-new-york-2023-7?
 
-Merrill Lynch's VC Group (https://advisor.ml.com/sites/ny/new-york-international-ii/the-vc-group) focuses on strategic cash management for early to mid-stage startups. Let us show you how founders and CFOs can make the most of their capital, post raise with our balancing, liquidity, yield, and flexibility with institutional grade solutions.
+[Merrill Lynch's VC Group](https://advisor.ml.com/sites/ny/new-york-international-ii/the-vc-group) focuses on strategic cash management for early to mid-stage startups. Let us show you how founders and CFOs can make the most of their capital, post raise with our balancing, liquidity, yield, and flexibility with institutional grade solutions.
 
-Whop (https://whop.com/) is building the first end-to-end API for running a business, enabling money movement, customer acquisition, and mobilization of an on-demand workforce.
+[Whop](https://whop.com/) is building the first end-to-end API for running a business, enabling money movement, customer acquisition, and mobilization of an on-demand workforce.
 
-Fireworks (https://fireworks.ai/) is the platform for specialized intelligence, enabling companies such as Doximity, Revolut, and Shopify to train and serve models tailored to their own data, workflows, and use cases. Founded by the team behind PyTorch, and backed by AMD, Atreides, Benchmark Capital, Index Ventures, Lightspeed, NVIDIA, Sequoia Capital, and TCV, Fireworks provides hundreds of state-of-the-art open models in text, image, embedding, and multimodal formats globally
+[Fireworks](https://fireworks.ai/) is the platform for specialized intelligence, enabling companies such as Doximity, Revolut, and Shopify to train and serve models tailored to their own data, workflows, and use cases. Founded by the team behind PyTorch, and backed by AMD, Atreides, Benchmark Capital, Index Ventures, Lightspeed, NVIDIA, Sequoia Capital, and TCV, Fireworks provides hundreds of state-of-the-art open models in text, image, embedding, and multimodal formats globally
 
-Razorpay (https://razorpay.com/)is an end-to-end money movement platform that enables businesses to accept, process and disburse digital payments through a single unified system. One of APAC's largest payments companies, it powers payments for 5M+ businesses across India, Southeast Asia and the US, including 85 of India's 115 unicorns. For global companies expanding into India, Razorpay handles cross-border money movement - Payments, Compliance and go-to-market in a single stack. Airbnb, Shopify, Replit and a growing list of AI and tech companies run their India payments on Razorpay.
+[Razorpay](https://razorpay.com/)is an end-to-end money movement platform that enables businesses to accept, process and disburse digital payments through a single unified system. One of APAC's largest payments companies, it powers payments for 5M+ businesses across India, Southeast Asia and the US, including 85 of India's 115 unicorns. For global companies expanding into India, Razorpay handles cross-border money movement - Payments, Compliance and go-to-market in a single stack. Airbnb, Shopify, Replit and a growing list of AI and tech companies run their India payments on Razorpay.
 
-Get on the list for future events: Twitter (https://twitter.com/andruyeung?utm_source=luma) - Instagram (https://www.instagram.com/andrewsmixers/?utm_source=luma) - Website (https://www.andrewsmixers.com/?utm_source=luma)
+[Get on the list for future events: Twitter](https://twitter.com/andruyeung?utm_source=luma) - [Instagram](https://www.instagram.com/andrewsmixers/?utm_source=luma) - [Website](https://www.andrewsmixers.com/?utm_source=luma)
 
 <a id="event-7f84e3104e5f4b84"></a>
 
@@ -24412,7 +24394,7 @@ Location: Details will be shared upon approval
 
 Join us for Stablecoin Connect: Panel & Mixer, an invite-only evening focused on the evolving stablecoin ecosystem.
 
-Co-hosted with Aquanow (https://www.aquanow.com/ae) and Universal (https://www.universal.ae/), the evening is designed to create space for meaningful conversations, fresh perspectives, and new connections.
+[Co-hosted with Aquanow](https://www.aquanow.com/ae) [and Universal](https://www.universal.ae/), the evening is designed to create space for meaningful conversations, fresh perspectives, and new connections.
 
 The evening features a panel on the future of stablecoins, followed by a networking mixer to connect, exchange ideas, and continue the conversation.
 
@@ -24450,7 +24432,7 @@ We look forward to seeing you there!
 
 ### About the event
 
-Hey! Andrew Yeung (https://www.linkedin.com/in/andyeung/?utm_source=luma) here.
+[Hey! Andrew Yeung](https://www.linkedin.com/in/andyeung/?utm_source=luma) here.
 
 On Oct 15, I'm returning to SF with my friends at Attio and Whop to host a dinner for extraordinary founders. The tastemakers of SF.
 
@@ -24471,7 +24453,7 @@ Apply below!
 - A 3-course meal, courtesy of our partners
 - Conversations with fellow high-performing startup leaders
 - Meaningful connections with ambitious peers who know what it's like to build in a new country
-- If you're wondering how our dinners usually go... read this (https://docsend.com/view/inyeavnqjxikfxa2?utm_source=luma)
+- [If you're wondering how our dinners usually go... read this](https://docsend.com/view/inyeavnqjxikfxa2?utm_source=luma)
 
 Our only intent is to bring good, smart humans together.
 
@@ -24487,19 +24469,19 @@ See you there.
 
 ### About our hosts & sponsors
 
-Andrew Yeung (https://www.linkedin.com/feed/?utm_source=luma) is the founder of Fibe (https://www.meetfibe.com/?utm_source=luma) and The Shortlist NYC (https://www.shortlistnyc.com/?utm_source=luma). He is also an angel investor and Partner at Next Wave NYC (https://www.nextwave.nyc/?utm_source=luma), a pre-seed venture fund. Andrew has hosted over 300 events for 50,000 founders, operators, investors, and tech professionals that were featured by Bloomberg, Business Insider, Fast Company, Fortune Magazine, Axios, Newsweek, and Forbes. Business Insider dubbed him the "Gatsby of Silicon Alley. (https://www.businessinsider.
+[Andrew Yeung](https://www.linkedin.com/feed/?utm_source=luma) [is the founder of Fibe](https://www.meetfibe.com/?utm_source=luma) [and The Shortlist NYC](https://www.shortlistnyc.com/?utm_source=luma). [He is also an angel investor and Partner at Next Wave NYC](https://www.nextwave.nyc/?utm_source=luma), a pre-seed venture fund. Andrew has hosted over 300 events for 50,000 founders, operators, investors, and tech professionals that were featured by Bloomberg, Business Insider, Fast Company, Fortune Magazine, Axios, Newsweek, and Forbes. [Business Insider dubbed him the "Gatsby of Silicon Alley.](https://www.businessinsider.
 
 com/andrew-yeung-google-employee-throwing-techs-hottest-parties-new-york-2023-7?
 
 Attio (https://attio.com/?utm_source=fibe&utm_medium=event_sponsorship&utm_campaign=fibe-Y26 ) is the revenue platform for ambitious teams. Engineered for scale, it compounds context across every signal, orchestrates your workflows, and delivers the work at a speed, scale, and quality that raises the ceiling on what your team can do. Thousands of companies, including category-defining AI leaders like Granola, Modal, and Wispr Flow use Attio to power their go-to-market.
 
-Whop (https://whop.com/?utm_source=luma) is building the first end-to-end API for running a business, enabling money movement, customer acquisition, and mobilization of an on-demand workforce.
+[Whop](https://whop.com/?utm_source=luma) is building the first end-to-end API for running a business, enabling money movement, customer acquisition, and mobilization of an on-demand workforce.
 
-Winner AI (https://getwinner.com/?utm_source=luma) is an AI-driven hiring engine built for fast-scaling startups, combining advanced machine intelligence with human experts to deliver top technical talent with speed and precision.
+[Winner AI](https://getwinner.com/?utm_source=luma) is an AI-driven hiring engine built for fast-scaling startups, combining advanced machine intelligence with human experts to deliver top technical talent with speed and precision.
 
-Jack & Jill (https://www.jackandjill.ai/)is a talent marketplace brokered by two AI agents. Jack helps people find the next step in their careers. Jill helps companies hire. When they agree there's a strong match, the candidate is introduced directly to the decision maker without having to apply. Jack has spoken with over 350,000 people, and Jill has worked with 5,000 fast-growing businesses, including Attio, Multiverse, Tavus, Faculty and Fyxer.
+[Jack & Jill](https://www.jackandjill.ai/)is a talent marketplace brokered by two AI agents. Jack helps people find the next step in their careers. Jill helps companies hire. When they agree there's a strong match, the candidate is introduced directly to the decision maker without having to apply. Jack has spoken with over 350,000 people, and Jill has worked with 5,000 fast-growing businesses, including Attio, Multiverse, Tavus, Faculty and Fyxer.
 
-Get on the list for future events: Twitter (https://twitter.com/andruyeung?utm_source=luma) - Instagram (https://www.instagram.com/andrewsmixers/?utm_source=luma) - Website (https://www.andrewsmixers.com/?utm_source=luma)
+[Get on the list for future events: Twitter](https://twitter.com/andruyeung?utm_source=luma) - [Instagram](https://www.instagram.com/andrewsmixers/?utm_source=luma) - [Website](https://www.andrewsmixers.com/?utm_source=luma)
 
 <a id="event-ea076aa8e32c9191"></a>
 
@@ -24521,7 +24503,7 @@ The focus remains unchanged: a highly curated environment designed to foster str
 
 Expect thought-provoking discussions, high-value networking, and direct access to the investors, builders, regulators, and industry leaders shaping the next chapter of finance.
 
-Latest updates and agenda: RWALabs.ae (https://RWALabs.ae)
+[Latest updates and agenda: RWALabs.ae](https://RWALabs.ae)
 
 ### About RWALabs.ae
 
@@ -24533,7 +24515,7 @@ NewTribe Capital is a Dubai and Singapore-based venture capital firm focused on 
 
 ### About NeosLegal
 
-NeosLegal, the first crypto native UAE law firm (https://neoslegal.co/), specializing in digital assets, emerging technologies, venture capital, and corporate structuring. The firm advises startups, investors, family offices, and enterprises on navigating regulatory frameworks, licensing, fundraising, tokenization, and cross-border transactions across the rapidly evolving digital economy.
+[NeosLegal, the first crypto native UAE law firm](https://neoslegal.co/), specializing in digital assets, emerging technologies, venture capital, and corporate structuring. The firm advises startups, investors, family offices, and enterprises on navigating regulatory frameworks, licensing, fundraising, tokenization, and cross-border transactions across the rapidly evolving digital economy.
 
 <a id="event-940827b168b36c9a"></a>
 
@@ -24581,7 +24563,7 @@ The goal is not only to build a prototype, but to identify ideas with the potent
 
 ### Partners & Ecosystem
 
-The hackathon is powered by Fincantieri (https://www.fincantieri.com/en), Mind The Bridge (https://mindthebridge.com/)and Silicon Mountain (https://www.linkedin.com/company/silicon-mtn/posts/?feedView=all).
+[The hackathon is powered by Fincantieri](https://www.fincantieri.com/en), [Mind The Bridge](https://mindthebridge.com/)[and Silicon Mountain](https://www.linkedin.com/company/silicon-mtn/posts/?feedView=all).
 
 Qualcomm is the main technology sponsor, supporting participants with hardware, development resources and technology expertise throughout the event.
 
@@ -24621,9 +24603,9 @@ NOTE: By registering for the Luma, you are submitting an application to particip
 
 This event is sponsored by Meta, Qualcomm, GitHub, Open Intelligence Foundation, and the PyTorch Foundation.
 
-Join developers, researchers, and builders for the upcoming ExecuTorch Hackathon on October 17 -18 at Founder's Inc., officially part of Open Source AI Week 2026 (https://opensourceaiweek.com/).
+Join developers, researchers, and builders for the upcoming ExecuTorch Hackathon on October 17 -18 at [Founder's Inc., officially part of Open Source AI Week 2026](https://opensourceaiweek.com/).
 
-Hosted in collaboration with Qualcomm (https://www.qualcomm.com/developer), Meta (https://www.meta.com/), GitHub (https://github.com/), the PyTorch Foundation (https://pytorch.org/foundation/), and Open Intelligence Foundation (https://openintelligence.foundation/), this hands-on event will challenge teams to build innovative AI experiences powered by ExecuTorch (https://executorch.ai/) - an open-source framework for deploying and running PyTorch models efficiently on edge and on-device hardware.
+[Hosted in collaboration with Qualcomm](https://www.qualcomm.com/developer), [Meta](https://www.meta.com/), [GitHub](https://github.com/), [the PyTorch Foundation](https://pytorch.org/foundation/), [and Open Intelligence Foundation](https://openintelligence.foundation/), this hands-on event will challenge teams [to build innovative AI experiences powered by ExecuTorch](https://executorch.ai/) - an open-source framework for deploying and running PyTorch models efficiently on edge and on-device hardware.
 
 Participants will work in teams of 3-5 people and select one of three tracks outlined below. Each team will receive a device from their selected track to use during the event. Builders will also get access to GitHub Copilot Pro+ to support their builds.
 
@@ -24659,11 +24641,11 @@ Bring your ideas. Build with ExecuTorch. Help shape the future of open-source, o
 
 ### About Open Intelligence Foundation
 
-The Open Intelligence Foundation (https://openintelligence.foundation/) is a community-first nonprofit founded to protect, strengthen, and advance open-source AI, open models, and open science. Supported by a large community of volunteers and organizations, it takes a bottom-up approach to collaboration, working with academia and researchers to support research, development, and education in open-source AI. The foundation also leads Open Source AI Week (https://opensourceaiweek.com/), a community-run initiative celebrating open-source AI.
+[The Open Intelligence Foundation](https://openintelligence.foundation/) is a community-first nonprofit founded to protect, strengthen, and advance open-source AI, open models, and open science. Supported by a large community of volunteers and organizations, it takes a bottom-up approach to collaboration, working with academia and researchers to support research, development, and education in [open-source AI. The foundation also leads Open Source AI Week](https://opensourceaiweek.com/), a community-run initiative celebrating open-source AI.
 
 About Founders, Inc.
 
-Founders, Inc. (https://f.inc/) backs early-stage founders in emerging tech with first checks and 55,000 sq. ft. of lab space in San Francisco's Fort Mason. They run year-round programs to help ambitious builders to go from early stage to scalable companies.
+[Founders, Inc.](https://f.inc/) backs early-stage founders in emerging tech with first checks and 55,000 sq. ft. of lab space in San Francisco's Fort Mason. They run year-round programs to help ambitious builders to go from early stage to scalable companies.
 
 Snapdragon and Qualcomm branded products are products of Qualcomm Technologies, Inc. and/or its subsidiaries. Arduino and VENTUNO are trademarks or registered trademarks of Arduino S.r.l.
 
@@ -24899,7 +24881,7 @@ Dress Code: Wear something comfortable you can move in.
 
 Photos will be taken during the event. By participating, you agree to their use for promotional purposes.
 
-Follow us on X: @SuperteamAE (https://x.com/SuperteamAE?utm_source=luma)
+[Follow us on X: @SuperteamAE](https://x.com/SuperteamAE?utm_source=luma)
 
 Come fly. Leave with a network that has your back on the ground.
 
@@ -24926,21 +24908,21 @@ Come meet the community, hear real-world Codex use cases, see demos, make new co
 ### Invited Panelists
 
 1. Member of Technical Staff, OpenAI Codex, San Francisco Confirmed
-2. Pranav Uppili (https://www.linkedin.com/in/pranav-uppiliappan/) - Founder, MochaCare (YC W26)
-3. Shreshth Sharma (https://www.linkedin.com/in/shreshth-sharma-950826247/), Founder, Olam Labs (YC S26)
-4. Ariyaman Molanorouzi, (https://www.linkedin.com/in/ariyaman/) founder, Stealth (YC F26)
+2. [Pranav Uppili](https://www.linkedin.com/in/pranav-uppiliappan/) - Founder, MochaCare (YC W26)
+3. [Shreshth Sharma](https://www.linkedin.com/in/shreshth-sharma-950826247/), Founder, Olam Labs (YC S26)
+4. [Ariyaman Molanorouzi,](https://www.linkedin.com/in/ariyaman/) founder, Stealth (YC F26)
 
 ### Invited Speaker
 
-Rana Hanocka (https://www.linkedin.com/in/ranahanocka/) - Founder & CEO of Thrixel, Assistant Professor at the University of Chicago
+[Rana Hanocka](https://www.linkedin.com/in/ranahanocka/) - Founder & CEO of Thrixel, Assistant Professor at the University of Chicago
 
 Topic: Creating Interactive 3D Worlds with Codex and Thrixel
 
 Recent Codex Community Events
 
-Codex Community Meetup #9 | August 25, 2026 (https://luma.com/anq7lf5m)
+[Codex Community Meetup #9 | August 25, 2026](https://luma.com/anq7lf5m)
 
-Codex Community Meetup #8 | July 30, 2026 (https://luma.com/h5x0pzw9)
+[Codex Community Meetup #8 | July 30, 2026](https://luma.com/h5x0pzw9)
 
 Codex Community Meetup #7 | June 23, 2026
 
@@ -25001,7 +24983,7 @@ Limited Speaker Spots Available
 
 We are opening 5-6 short community speaker spots for people who would like to share what they are building, demonstrate an interesting Codex use case, or present something useful to the community.
 
-If you would like to be considered as a speaker or panelist, please apply through the event page or contact the organizer directly: TatianaSF (https://www.linkedin.com/in/tatianasf/)
+If you would like to be considered as a speaker or panelist, please apply through [the event page or contact the organizer directly: TatianaSF](https://www.linkedin.com/in/tatianasf/)
 
 ### Special Giveaways
 
@@ -25009,7 +24991,7 @@ Registered attendees will have a chance to win special giveaways during the even
 
 ### About Codex
 
-Codex (https://developers.openai.com/codex) is OpenAI's coding agent designed to help people build, understand, and ship software faster.
+[Codex](https://developers.openai.com/codex) is OpenAI's coding agent designed to help people build, understand, and ship software faster.
 
 This meetup brings together people who are already building with Codex and those who simply want to understand what coding agents can do.
 
@@ -25027,7 +25009,7 @@ Codex Community Meetup - subscribe for updates
 
 ### Host
 
-TatianaSF.com (https://TatianaSF.com) - Tatiana Isa, OpenAI Codex Ambassador
+[TatianaSF.com](https://TatianaSF.com) - Tatiana Isa, OpenAI Codex Ambassador
 
 ### Venue
 
@@ -25043,7 +25025,7 @@ Interested in volunteering or supporting future community events as a sponsor, m
 
 Contact:
 
-or message TatianaSF on LinkedIn (https://www.linkedin.com/in/tatianasf/).
+[or message TatianaSF on LinkedIn](https://www.linkedin.com/in/tatianasf/).
 
 This is an independent community event and is not affiliated with, sponsored by, or endorsed by OpenAI London office.
 
@@ -25075,7 +25057,7 @@ Where teams are formed, ideas are sharpened, and momentum compounds in real time
 
 How to get involved:
 
-- Leading a Session: Please apply via this form (https://solanafoundation.typeform.com/sol-hh-london)
+- [Leading a Session: Please apply via this form](https://solanafoundation.typeform.com/sol-hh-london)
 - Sponsorship: Please reach out to events@solana.org
 - Attendance: Request to join via this page (Approval required)
 
@@ -27307,7 +27289,7 @@ The event takes place on September 24. Venue: Somerset House, Somerset House, Lo
 
 Join Polysights, Predict.TO, and Arch Network for a prediction market focused brunch in Toronto. We're gathering a small group for good food, good conversation, and plenty to talk about around the future of prediction markets, trading, and the products shaping the space.
 
-This is a private event with a hard cap of 30 guests, and attendees will be manually approved, with priority going to people who have experience trading or working in the space. The venue is just a 5 minute walk from the Solana Summit venue, making it an easy stop to fuel up and kick off the day (https://www.solanasummit.ca/)!Huge thanks to Superteam Canada for making this possible!
+This is a private event with a hard cap of 30 guests, and attendees will be manually approved, with priority going to people who have experience trading or working in the space. The venue is just a 5 minute walk from the Solana Summit [venue, making it an easy stop to fuel up and kick off the day](https://www.solanasummit.ca/)!Huge thanks to Superteam Canada for making this possible!
 
 <a id="event-8b1a78ec5c24954d"></a>
 
@@ -40583,7 +40565,7 @@ RSVP and event details are hosted on Luma (https://luma.com/z7et0cdt?utm_source=
 
 ### About Tokenised
 
-Tokenised (https://tokenised.hk) is the premier global platform and summit series driving the adoption of tokenized real-world assets, institutional digital finance, and compliant security tokens. Bringing together traditional financial institutions, regulators, asset managers, and web3 innovators, Tokenised bridges international capital markets with cutting-edge blockchain infrastructure across Asia and globally. Explore all Tokenised Malaysia events on Luma at https://luma.com/tokenisedmy.
+[Tokenised](https://tokenised.hk) is the premier global platform and summit series driving the adoption of tokenized real-world assets, institutional digital finance, and compliant security tokens. Bringing together traditional financial institutions, regulators, asset managers, and web3 innovators, Tokenised bridges international capital markets with cutting-edge blockchain infrastructure across Asia and globally. Explore all Tokenised Malaysia events on Luma at https://luma.com/tokenisedmy.
 
 ### Agenda
 
@@ -40621,7 +40603,7 @@ Tokenised Luma Calendar: https://luma.com/tokenisedmy
 
 Strategic Regulatory Partner: Labuan Financial Services Authority (LFSA)
 
-⁠Organizer Platform: Tokenised (https://tokenised.hk) & RWA Week
+⁠[Organizer Platform: Tokenised](https://tokenised.hk) & RWA Week
 
 <a id="event-f3ec417fe8334718"></a>
 
@@ -49189,7 +49171,7 @@ How: Hosted by This Week in Fintech & Checker Finance
 
 *All Guests subject to sponsor approval and accommodated on a first come, first serve basis (capacity limited).
 
-By registering for this event, you will be added to This Week in Fintech (https://www.thisweekinfintech.com/)'s email newsletter, which may include updates about future events, products, and services. You can unsubscribe at any time using the link in any email we send, or by contacting us at support@thisweekinfintech.com.
+By registering [for this event, you will be added to This Week in Fintech](https://www.thisweekinfintech.com/)'s email newsletter, which may include updates about future events, products, and services. You can unsubscribe at any time using the link in any email we send, or by contacting us at support@thisweekinfintech.com.
 
 For California residents, under the CCPA, you have the right to know what personal information we collect, request its deletion, and opt out of its sale (we do not sell personal information). To exercise these rights, contact us at support@thisweekinfintech.com or visit our Privacy Policy.
 
@@ -52067,31 +52049,11 @@ An organizer description has not been verified for this record. Any previous cop
 - Original page: <https://lu.ma/55ifg8h5>
 - Original page: <https://luma.com/55ifg8h5>
 
-### VIEW THE FULL EVENT SCHEDULE HERE
+### [VIEW THE FULL EVENT SCHEDULE HERE]
 
 https://techweekend.org/
 
 What is Tech Weekend? A 48-hour fundraising sprint by Founders Village where pre-seed to Series A founders meet dozens of investors in back-to-back meetings.
-
-https://techweekend.org/
-
-Stay Connected
-
-Follow us on socials:
-
-Website: Founders Village (https://beacons.ai/founders_village)
-
-LinkedIn: Founders Village on LinkedIn (https://www.linkedin.com/company/foundersvillage/?viewAsMember=true)
-
-Instagram: @founders.village (https://www.instagram.com/founders.village/)
-
-X (Twitter): @foundersvillge (https://x.com/foundersvillge)
-
-Youtube: @FoundersVillage (https://www.youtube.com/@foundersvillage)
-
-Founders Village Bio (https://beacons.ai/founders_village)
-
-If you have any questions, feel free to email us at events@foundersvillage.co
 
 ### Who should attend?
 
@@ -52260,7 +52222,29 @@ Here are the September 2026 VC entries in your requested format:
 
 ▪Stephen Schroder, Principal, Curql Fund - Focus: B2B SaaS, AI FinTech. Stage: Series A, Series B+.
 
-Have questions? Our AI assistant at techweekend.org (https://techweekend.org) is ready to help you instantly.
+[Have questions? Our AI assistant at techweekend.org](https://techweekend.org) is ready to help you instantly.
+
+### [VIEW THE FULL EVENT SCHEDULE] Here
+
+https://techweekend.org/
+
+Stay Connected
+
+Follow us on socials:
+
+[Website: Founders Village](https://beacons.ai/founders_village)
+
+[LinkedIn: Founders Village on LinkedIn](https://www.linkedin.com/company/foundersvillage/?viewAsMember=true)
+
+[Instagram: @founders.village](https://www.instagram.com/founders.village/)
+
+X (Twitter): @[foundersvillge](https://x.com/foundersvillge)
+
+[Youtube: @FoundersVillage](https://www.youtube.com/@foundersvillage)
+
+[Founders Village Bio](https://beacons.ai/founders_village)
+
+If you have any questions, feel free to email us at events@foundersvillage.co
 
 <a id="event-4764348de48f25c0"></a>
 
@@ -52273,7 +52257,7 @@ Have questions? Our AI assistant at techweekend.org (https://techweekend.org) is
 - Original page: <https://lu.ma/auditions>
 - Original page: <https://luma.com/auditions>
 
-### Join us for TV launchpad.stan.store
+### [Join us for TV launchpad.stan.store]
 
 https://launchpad.stan.store
 
@@ -52312,7 +52296,7 @@ You must be 18+
 - Stan Office - Toronto
 - Limited capacity
 
-Can't make live auditions? Apply at launchpad.stan.store (https://launchpad.stan.store)
+[Can't make live auditions? Apply at launchpad.stan.store](https://launchpad.stan.store)
 
 With Love, by Stan
 
@@ -52438,7 +52422,7 @@ The world's leaders will be in New York. The most important conversations in blo
 
 Brock Pierce. President Vít Jedlička of Liberland. Michael Terpin. Hugh Dugan, former US diplomat. Alex Lightman. Nikita Sachdev. Dr. Levan Bodzashvili. Karla Ballard. Lou Kerner. Jimmy Nguyen. Rick Tumlinson.
 
-Full confirmed lineup at blockchainweek.ai/speakers (https://blockchainweek.ai/speakers)
+[Full confirmed lineup at blockchainweek.ai/speakers](https://blockchainweek.ai/speakers)
 
 Featured Artist: KOVO
 
@@ -52484,7 +52468,7 @@ VIP Pass, all-access plus Gala. $1,499. Everything in General Admission, plus th
 
 Limited VIP tickets available.
 
-Secure your ticket right here on this Luma page, or at blockchainweek.ai (https://blockchainweek.ai)
+Secure your [ticket right here on this Luma page, or at blockchainweek.ai](https://blockchainweek.ai)
 
 Blockchain Week 2026 (UNGA Edition) is an independent initiative and is not affiliated with the United Nations.
 
@@ -52515,7 +52499,7 @@ Investors and fund managers. Founders and company builders. Bankers, lawyers, an
 
 If your work crosses that border, you belong at this table.
 
-Powered by Ontop (https://www.getontop.com/?utm_source=google_ads&utm_medium=paid_ads&utm_campaign=23993020259&utm_content=815039049828&utm_term=branded&utm_format=g&gad_source=1&gad_campaignid=23993020259&gbraid=0AAAABEDaBw7PmtZEPGiVq8EQmSFA-Xr0d&gclid=CjwKCAjwzNTUBhAjEiwA7zcvWopNvQR3kyNK7voL6Q4eUUWpEKZASToS60kDKhxppwYQnwsg6s3rMxoCWiwQAvD_BwE)
+[Powered by Ontop](https://www.getontop.com/?utm_source=google_ads&utm_medium=paid_ads&utm_campaign=23993020259&utm_content=815039049828&utm_term=branded&utm_format=g&gad_source=1&gad_campaignid=23993020259&gbraid=0AAAABEDaBw7PmtZEPGiVq8EQmSFA-Xr0d&gclid=CjwKCAjwzNTUBhAjEiwA7zcvWopNvQR3kyNK7voL6Q4eUUWpEKZASToS60kDKhxppwYQnwsg6s3rMxoCWiwQAvD_BwE)
 
 With Ontop, hire and pay contractors worldwide while giving them a Global Account to get paid, spend globally, and grow their money. Hire and pay globally in minutes.
 
@@ -52544,7 +52528,7 @@ An organizer description has not been verified for this record. Any previous cop
 
 ### About the event
 
-Hosted by Nora and Conta.vc (https://Conta.vc) in Florianópolis to gather founders of the Sillicon Island of Brazil and share about the Solana growing ecosystem
+[Hosted by Nora and Conta.vc](https://Conta.vc) in Florianópolis to gather founders of the Sillicon Island of Brazil and share about the Solana growing ecosystem
 
 <a id="event-9a25164188b2d385"></a>
 
@@ -52728,11 +52712,11 @@ Key Discussion Topics
 - Location: The Park James Hotel, Menlo Park, CA
 - Speakers: Kim Kolt (Bay Bridge Ventures) & Brian Mac Mahon (Nathan Family Office)
 - Huge thanks to our sponsors:
-  - The Park James Hotel (https://parkjames.com/?utm_source=luma) (https://parkjames.com/?utm_source=luma)- Menlo Park's #1 Luxury Hotel
-  - TUOM (https://tuom.com/?utm_source=luma) (https://tuom.com/?utm_source=luma)- Natural formulas to balance your mood and sharpen your focus
-  - Necodex (https://necodex.com/?utm_source=luma) - Nearshore Teams: Scale Fast with Trusted Talent
-  - TrueBinding (http://truebinding.com/?utm_source=luma) - Blocking Galectin-3 to stop age-related inflammation. Scaling for the future while treating patients today through Expanded Access.
-  - Banc of California (https://bancofcal.com/) - A premier business bank where relationships matter; with the financial strength, industry expertise and relationship-focused service you need to grow with confidence.
+  - [The Park James Hotel](https://parkjames.com/?utm_source=luma) (https://parkjames.com/?utm_source=luma)- Menlo Park's #1 Luxury Hotel
+  - [TUOM](https://tuom.com/?utm_source=luma) (https://tuom.com/?utm_source=luma)- Natural formulas to balance your mood and sharpen your focus
+  - [Necodex](https://necodex.com/?utm_source=luma) - Nearshore Teams: Scale Fast with Trusted Talent
+  - [TrueBinding](http://truebinding.com/?utm_source=luma) - Blocking Galectin-3 to stop age-related inflammation. Scaling for the future while treating patients today through Expanded Access.
+  - [Banc of California](https://bancofcal.com/) - A premier business bank where relationships matter; with the financial strength, industry expertise and relationship-focused service you need to grow with confidence.
 
 <a id="event-ee2bfa9872e69d15"></a>
 
@@ -52807,7 +52791,7 @@ You will build on the Lending Protocol (XLS-66) and Single Asset Vault (XLS-65):
 
 Prizes: $5,000 cash prize pool, plus a $5,000 Swell tour travel prize for the overall winning team.
 
-Learn more about Swell (https://swell.ripple.com/hackathon)
+[Learn more about Swell](https://swell.ripple.com/hackathon)
 
 Apply. Ship. Leave feedback that can benefit to the whole ecosystem.
 
@@ -52830,7 +52814,7 @@ Jesteś programistą i zastanawiasz się, jak działają aplikacje na blockchain
 
 Nasz cel? Pomóc Ci szybko wejść w świat blockchaina, zdobyć doświadczenie w tworzeniu działających projektów w ekosystemie Solana i pokazać, jak wykorzystać nowe technologie w realnych aplikacjach
 
-Dołącz do grupy: Telegram (https://t.me/+m5E-r2fGJ6VkOGRk)
+[Dołącz do grupy: Telegram](https://t.me/+m5E-r2fGJ6VkOGRk)
 
 ### Dlaczego warto?
 
@@ -52852,7 +52836,7 @@ Już 2 tygodnie po kursie odbędą się BLOCKCHAIN HACK WARSAW i BLOCKCHAIN HACK
 
 1. Edytor kodu
 
-Potrzebujesz dowolnego edytora programistycznego. Polecamy Cursor (https://cursor.com/).
+Potrzebujesz [dowolnego edytora programistycznego. Polecamy Cursor](https://cursor.com/).
 
 2. WSL (dla użytkowników Windows)
 
@@ -52864,7 +52848,7 @@ Podczas kursu będziemy tworzyć aplikacje w ekosystemie Solana, dlatego koniecz
 
 4. Phantom Wallet
 
-Potrzebny będzie portfel kryptowalutowy Phantom (https://phantom.com/) jako rozszerzenie do przeglądarki - użyjemy go do testowania aplikacji blockchainowych.
+[Potrzebny będzie portfel kryptowalutowy Phantom](https://phantom.com/) jako rozszerzenie do przeglądarki - użyjemy go do testowania aplikacji blockchainowych.
 
 ### Dzień 1
 
@@ -52942,7 +52926,7 @@ Prezentacja projektów - pokaż efekty weekendowej pracy.
 
 Nie czekaj, dołącz do kursu i zacznij budować swój pierwszy projekt na Blockchainie!
 
-Dołącz do grupy: Telegram (https://t.me/+m5E-r2fGJ6VkOGRk)
+[Dołącz do grupy: Telegram](https://t.me/+m5E-r2fGJ6VkOGRk)
 
 ### Ważna informacja
 
@@ -52967,7 +52951,7 @@ Do zobaczenia!
 
 PAYMENT IS REQUIRED TO BE APPROVED.
 
-Payment Options: Venmo (https://venmo.com/u/Metztli-Garcia?utm_source=luma) | Zelle (https://drive.google.com/file/d/1bBpHLkIOEpn-5H8rI6_wFw4CLqH5zf6B/view?usp=sharing) (under: metztli | zelle tag: boyleheightsbestie)
+[Payment Options: Venmo](https://venmo.com/u/Metztli-Garcia?utm_source=luma) | [Zelle](https://drive.google.com/file/d/1bBpHLkIOEpn-5H8rI6_wFw4CLqH5zf6B/view?usp=sharing) (under: metztli | zelle tag: boyleheightsbestie)
 
 *Once $15 payment is received, you will be approved to event.
 
@@ -52999,7 +52983,7 @@ Join AxolDAO for a chill evening of pizza, beer, talks about autonomy, anonymity
 
 Who we are:
 
-Axol.io (https://Axol.io); Xochi.fi (https://Xochi.fi) (/so-chee/)
+[Axol.io](https://Axol.io); [Xochi.fi](https://Xochi.fi) (/so-chee/)
 
 We believe everyone should be able to have equitable access and understanding of web3, and tech.
 
@@ -53026,7 +53010,7 @@ Let's explore the fascinating history of Mimico on foot with our Mimico Historic
 
 Mimico Historical Walking Tour
 
-Explore Mimico's history in your neighbourhood! Event brought to you by the Mimico Residents Association, in collaboration with the Etobicoke Historical Society (https://www.etobicokehistorical.com/).
+Explore Mimico's history in your neighbourhood! Event brought to you by the Mimico Residents Association, [in collaboration with the Etobicoke Historical Society](https://www.etobicokehistorical.com/).
 
 Our 1-hour guided walking tour will begin at Amos Waites Park (look for the Mimico Residents Association tent in Mimico Square). Don't miss out on this unique opportunity to learn about the rich heritage of Mimico!
 
@@ -53105,7 +53089,7 @@ September 13-14, 2026
 
 POPOP Taipei
 
-No. 13, Section 2, Nangang Rd, Nangang District, Taipei City, 115 Agenda and session details will continue to be announced. Learn more: https://ethtaipei.org/ (https://ethtaipei.org/](https://ethtaipei.org/))
+No. 13, Section 2, Nangang Rd, Nangang District, Taipei City, 115 Agenda and session details will [continue to be announced. Learn more: https://ethtaipei.org/](https://ethtaipei.org/](https://ethtaipei.org/))
 
 <a id="event-d37a34bf876ba83b"></a>
 
@@ -53124,11 +53108,11 @@ To celebrate the strength of Taiwan's and Asia's Ethereum communities, ETHTaipei
 
 Special thanks to ETHGlobal and Circle for supporting this community initiative, and to the WPRC SG and HK Chapters for hosting this year's WPR sessions.
 
-Registration for ETHTaipei is required to join Community Day: Register here (https://luma.com/8z5ys4rl?coupon=COMMUNITY2026)
+Registration for [ETHTaipei is required to join Community Day: Register here](https://luma.com/8z5ys4rl?coupon=COMMUNITY2026)
 
-More info about the WPR sessions: here (https://luma.com/wprc-tpe-260913-whitepaper-reaing-eth-taipei-priva)
+[More info about the WPR sessions: here](https://luma.com/wprc-tpe-260913-whitepaper-reaing-eth-taipei-priva)
 
-More info about ETHTaipei 2026: ethtaipei.org (https://ethtaipei.org)
+[More info about ETHTaipei 2026: ethtaipei.org](https://ethtaipei.org)
 
 ### Event Area
 
@@ -53141,14 +53125,14 @@ More info about ETHTaipei 2026: ethtaipei.org (https://ethtaipei.org)
     - qiqihuang - SITCON
     - Bing - Taipei Ethereum Meetup
 - 13:25-14:00 - Panel 2: Building Community in Asia & Beyond
-  - Moderator: Jennifer Hsu (https://x.com/joy_890913) - XueDAO (Taiwan)
+  - [Moderator: Jennifer Hsu](https://x.com/joy_890913) - XueDAO (Taiwan)
   - Panelists:
-    - Rongxin Zhang (https://x.com/mrrongxin) - WPRC (Singapore)
-    - Net (https://x.com/ninjanovadotsol) - WPRC (Hong Kong)
-    - Shouki (https://x.com/adust09) - Merkle Japan (Japan)
-    - Mary (https://www.linkedin.com/in/mary-tran-156a6810a/) - ZKP Labs (Vietnam)
-- 14:00-15:30 - WPR #1 (https://luma.com/wprc-tpe-260913-whitepaper-reaing-eth-taipei-priva): CROPS - 1,000 Year Public Infrastructure
-- 15:30-17:00 - WPR #2 (https://luma.com/wprc-tpe-260913-whitepaper-reaing-eth-taipei-priva): ENS v2 Cross-Chain Evolution
+    - [Rongxin Zhang](https://x.com/mrrongxin) - WPRC (Singapore)
+    - [Net](https://x.com/ninjanovadotsol) - WPRC (Hong Kong)
+    - [Shouki](https://x.com/adust09) - Merkle Japan (Japan)
+    - [Mary](https://www.linkedin.com/in/mary-tran-156a6810a/) - ZKP Labs (Vietnam)
+- 14:00-15:30 - [WPR #1](https://luma.com/wprc-tpe-260913-whitepaper-reaing-eth-taipei-priva): CROPS - 1,000 Year Public Infrastructure
+- 15:30-17:00 - [WPR #2](https://luma.com/wprc-tpe-260913-whitepaper-reaing-eth-taipei-priva): ENS v2 Cross-Chain Evolution
 
 ### Community Showcase Area
 
@@ -53159,10 +53143,10 @@ More info about ETHTaipei 2026: ethtaipei.org (https://ethtaipei.org)
 - Global:
   - Devcon 8 India - ETHGlobal
 - Event Promotion:
-  - ETHGlobal Tokyo (https://ethglobal.com/events/tokyo2026) (Sep 25-27)
-  - ETHTokyo (https://www.ethtokyo.org/) (Sep 19-27)
-  - Ethereum Korea One (https://web3voyager.com/event/ethereum-korea-one) (Sep 28-29)
-  - Devcon8 Mumbai (https://devcon.org/en/) (Nov 3-6)
+  - [ETHGlobal Tokyo](https://ethglobal.com/events/tokyo2026) (Sep 25-27)
+  - [ETHTokyo](https://www.ethtokyo.org/) (Sep 19-27)
+  - [Ethereum Korea One](https://web3voyager.com/event/ethereum-korea-one) (Sep 28-29)
+  - [Devcon8 Mumbai](https://devcon.org/en/) (Nov 3-6)
   - and more!
 
 ### About ETHTaipei 2026
@@ -53175,8 +53159,8 @@ We're grateful to ETHGlobal for supporting this Community Day. ETHGlobal joins t
 
 Grab these discounts:
 
-- 50% off staking at ETHGlobal Tokyo → Claim here (https://ethglob.al/XUEDAOD9I0C)
-- $20 off Pragma Tokyo → Claim here (https://ethglob.al/ETHTAIPEIZC5JP)
+- 50% [off staking at ETHGlobal Tokyo → Claim here](https://ethglob.al/XUEDAOD9I0C)
+- $20 [off Pragma Tokyo → Claim here](https://ethglob.al/ETHTAIPEIZC5JP)
 
 <a id="event-0a467ce5fd354927"></a>
 
@@ -53555,7 +53539,7 @@ Space is limited and attendance is by invitation only.
 
 Fireblocks is the world's most trusted digital asset infrastructure company, empowering organizations of all sizes to build, manage and grow their business on the blockchain. With the industry's most scalable and secure platform, we streamline stablecoin payments, settlement, custody, tokenization, trading, accounting operations, and compliance reporting- enabling everything from institutional finance to consumer-facing digital experiences across the largest ecosystem of banks, payment providers, stablecoin issuers, exchanges and custodians.
 
-Thousands of organizations - including Worldpay, BNY, Galaxy, and Revolut - trust Fireblocks to secure more than $14 trillion in digital asset transactions across 150+ blockchains. Learn more at fireblocks.com (https://fireblocks.com). (http://fireblocks.
+Thousands of organizations - including Worldpay, BNY, Galaxy, and Revolut - trust Fireblocks to secure more than $14 trillion in digital asset transactions [across 150+ blockchains. Learn more at fireblocks.com](https://fireblocks.com). (http://fireblocks.
 
 Note: Registration does not guarantee your admission. A separate confirmation will be sent to your email upon successful application.*
 
@@ -53589,7 +53573,7 @@ Tanto si eres un veterano de las finanzas privadas como si acabas de instalar tu
 
 ### ¡Sorpresa de última hora!
 
-> Tendremos de invitado en el meetup a un miembro de la comunidad de JET (https://www.jet-europa.eu/), y nos hablará un poco de lo que se viene en ese proyecto, su comunidad, y también su plataforma de trading, JTX (https://jtx.com/). ¡Habrá merch! No te lo pierdas.
+> Tendremos [de invitado en el meetup a un miembro de la comunidad de JET](https://www.jet-europa.eu/), y nos hablará un poco de lo que se viene en ese proyecto, [su comunidad, y también su plataforma de trading, JTX](https://jtx.com/). ¡Habrá merch! No te lo pierdas.
 
 ¡Aforo limitado! Reserva tu plaza y asegura tu lugar en la noche de la privacidad en Barcelona.
 
@@ -53603,7 +53587,7 @@ Términos y condiciones de la actividad
 - Este evento tiene fines informativos y de networking, y no constituye en forma alguna una recomendación de inversión.
 - Zcash es un proyecto de privacidad, y en el caso de uso de sus billeteras, te recomendamos siempre guardar tu frase semilla, ya que solo tú tienes el control y custodia de tu wallet.
 - Este es un evento gratuito, por lo que el pago de la entrada es totalmente voluntario.
-- El Club Zcash Barcelona es una comunidad sin fines de lucro, y si deseas hacer algún aporte, donación, o quieres patrocinar nuestras actividades y convertirte en un aliado, ponte en contacto con los organizadores o entra a este link. (https://zcashesp.com/club-zcash-barcelona/?utm_source=luma)
+- El Club Zcash Barcelona es una comunidad sin fines de lucro, y si deseas hacer algún aporte, donación, o quieres patrocinar nuestras actividades y convertirte en un aliado, [ponte en contacto con los organizadores o entra a este link.](https://zcashesp.com/club-zcash-barcelona/?utm_source=luma)
 - Desde el Club Zcash Barcelona promovemos el respeto y la inclusión entre todos sus miembros, los speakers, aliados y colaboradores.
 - Nos reservamos el derecho de admisión a quienes no deseen cumplir con estos términos.
 
@@ -53678,7 +53662,7 @@ Drinks will be provided
 
 ### About the event
 
-On September 16, we are bringing together 10 senior executives from Europe's leading financial institutions for an invite-only breakfast - with insights into Tatra Banka (https://www.tatrabanka.sk/sk/personal/)'s digital asset approach.
+On September 16, we are bringing together 10 senior executives from Europe's leading financial institutions [for an invite-only breakfast - with insights into Tatra Banka](https://www.tatrabanka.sk/sk/personal/)'s digital asset approach.
 
 The morning should bring value to banks and brokers exploring digital assets and will focus on:
 
@@ -53727,7 +53711,7 @@ Space is limited and attendance is by invitation only.
 
 Fireblocks is the world's most trusted digital asset infrastructure company, empowering organizations of all sizes to build, manage and grow their business on the blockchain. With the industry's most scalable and secure platform, we streamline stablecoin payments, settlement, custody, tokenization, trading, accounting operations, and compliance reporting- enabling everything from institutional finance to consumer-facing digital experiences across the largest ecosystem of banks, payment providers, stablecoin issuers, exchanges and custodians.
 
-Thousands of organizations - including Worldpay, BNY, Galaxy, and Revolut - trust Fireblocks to secure more than $14 trillion in digital asset transactions across 150+ blockchains. Learn more at fireblocks.com (https://fireblocks.com). (http://fireblocks.
+Thousands of organizations - including Worldpay, BNY, Galaxy, and Revolut - trust Fireblocks to secure more than $14 trillion in digital asset transactions [across 150+ blockchains. Learn more at fireblocks.com](https://fireblocks.com). (http://fireblocks.
 
 Note: Registration does not guarantee your admission. A separate confirmation will be sent to your email upon successful application.*
 
@@ -53763,7 +53747,7 @@ The VanEck Alpha Fund is a concentrated, long-biased hedge fund built around the
 
 Join us for an intimate lunch to discuss markets, digital assets, and what comes next.
 
-By registering, you acknowledge that you have read and accepted the VanEck Privacy Policy (https://www.vaneck.com/globalassets/home/ucits/home/privacy-policy/privacy-policy-from-vaneck.com.pdf).
+By registering, you acknowledge [that you have read and accepted the VanEck Privacy Policy](https://www.vaneck.com/globalassets/home/ucits/home/privacy-policy/privacy-policy-from-vaneck.com.pdf).
 
 Disclaimer: Investment in digital assets and digital asset products is subject to extreme volatility and may result in loss of principal.
 
@@ -53788,7 +53772,7 @@ Time: 7:00 PM - 9:00 PM
 
 Venue: To be shared upon approval
 
-Superteam UAE (https://uae.superteam.fun/?utm_source=luma) is bringing the Solana community together for a padel evening built around friendly competition and good energy. Come for the games, stay for the people you meet along the way.
+[Superteam UAE](https://uae.superteam.fun/?utm_source=luma) is bringing the Solana community together for a padel evening built around friendly competition and good energy. Come for the games, stay for the people you meet along the way.
 
 ### Agenda
 
@@ -53806,7 +53790,7 @@ Dress Code: Sporty attire
 
 Photos will be taken during the event. By participating, you agree to their use for promotional purposes.
 
-Follow us on X: @SuperteamAE (https://x.com/SuperteamAE?utm_source=luma)
+[Follow us on X: @SuperteamAE](https://x.com/SuperteamAE?utm_source=luma)
 
 <a id="event-f6b2d822c04f2f4b"></a>
 
@@ -53892,9 +53876,9 @@ Capacity is limited - make sure to secure your spot early!
 
 ### About the Hosts
 
-Hacken (https://hacken.io/?referrer=luma) is an end-to-end blockchain security & compliance partner for digital assets. Unlike traditional providers, Hacken was born on blockchain - combining deep Web3/DLT expertise with enterprise-grade quality, AI-powered offensive security, and globally recognized certifications. Since 2017, Hacken has been trusted by 1,500 adopters including the European Commission, ADGM, MetaMask, Ethereum Foundation, and Binance to secure the new digital frontier.
+[Hacken](https://hacken.io/?referrer=luma) is an end-to-end blockchain security & compliance partner for digital assets. Unlike traditional providers, Hacken was born on blockchain - combining deep Web3/DLT expertise with enterprise-grade quality, AI-powered offensive security, and globally recognized certifications. Since 2017, Hacken has been trusted by 1,500 adopters including the European Commission, ADGM, MetaMask, Ethereum Foundation, and Binance to secure the new digital frontier.
 
-The Vault (https://thevault.inc)is a regulated institutional infrastructure platform for digital assets, serving corporate treasuries, financial institutions, family offices, and payment providers. It covers the full lifecycle, from secure custody and treasury operations to structured investments, and is built on proprietary threshold MPC cryptography developed by an in-house research team. It is available in three deployment models, SaaS, Hybrid, and On-Premise, with a bespoke modular architecture that can be customised to each company's needs and frameworks.
+[The Vault](https://thevault.inc)is a regulated institutional infrastructure platform for digital assets, serving corporate treasuries, financial institutions, family offices, and payment providers. It covers the full lifecycle, from secure custody and treasury operations to structured investments, and is built on proprietary threshold MPC cryptography developed by an in-house research team. It is available in three deployment models, SaaS, Hybrid, and On-Premise, with a bespoke modular architecture that can be customised to each company's needs and frameworks.
 
 <a id="event-9366a06a18ec2d63"></a>
 
@@ -53918,7 +53902,7 @@ No pitches. No noise. Just the right people in the right room.
 
 Hosted by:
 
-Kenomic - kenomic.ai (https://kenomic.ai)
+[Kenomic - kenomic.ai](https://kenomic.ai)
 
 Kenomic is an all-in-one token lifecycle platform that helps teams design, validate, launch, and manage tokens without juggling multiple vendors.
 
@@ -53926,7 +53910,7 @@ Use AI to build tokenomics, simulate millions of market scenarios before launch,
 
 Live today with 80+ teams already building.
 
-Cryptic - crypticweb3.com (https://crypticweb3.com)
+[Cryptic - crypticweb3.com](https://crypticweb3.com)
 
 Cryptic is the leading crypto marketing agency helping Web3 companies build brands, launch products, and scale their growth.
 
@@ -53934,7 +53918,7 @@ From go-to-market strategy and positioning to KOL campaigns, PR, social media, c
 
 Strategy. Attention. Growth. One agency.
 
-Pipo.VC (https://Pipo.VC) - pipo.vc
+[Pipo.VC](https://Pipo.VC) - pipo.vc
 
 Private markets are closed by design. A company compounds for a decade behind a wall, and by the time it lists, the upside has already been split between a few dozen funds. Everyone else gets to buy the exit.
 
@@ -53976,7 +53960,7 @@ Space is limited and attendance is by invitation only.
 
 Fireblocks is the world's most trusted digital asset infrastructure company, empowering organizations of all sizes to build, manage and grow their business on the blockchain. With the industry's most scalable and secure platform, we streamline stablecoin payments, settlement, custody, tokenization, trading, accounting operations, and compliance reporting- enabling everything from institutional finance to consumer-facing digital experiences across the largest ecosystem of banks, payment providers, stablecoin issuers, exchanges and custodians.
 
-Thousands of organizations - including Worldpay, BNY, Galaxy, and Revolut - trust Fireblocks to secure more than $14 trillion in digital asset transactions across 150+ blockchains. Learn more at fireblocks.com (https://fireblocks.com). (http://fireblocks.
+Thousands of organizations - including Worldpay, BNY, Galaxy, and Revolut - trust Fireblocks to secure more than $14 trillion in digital asset transactions [across 150+ blockchains. Learn more at fireblocks.com](https://fireblocks.com). (http://fireblocks.
 
 Note: Registration does not guarantee your admission. A separate confirmation will be sent to your email upon successful application.*
 
@@ -54059,17 +54043,17 @@ Every Thursday, 6pm. Join us!
 
 Join Lido contributors on Thursday, September 17th, to discuss the latest institutional Ethereum staking developments.
 
-Hosted by Isidoros Passadis (https://x.com/IsdrsP), Chief of Staking at Lido.
+[Hosted by Isidoros Passadis](https://x.com/IsdrsP), Chief of Staking at Lido.
 
-Register above to add this Call to your calendar. Watch on YouTube (https://www.youtube.com/watch?v=a8z9pC4bwN4), also streamed on Lido X (Twitter) (https://x.com/LidoFinance) and LinkedIn (https://www.linkedin.com/company/lidofi).
+Register [above to add this Call to your calendar. Watch on YouTube](https://www.youtube.com/watch?v=a8z9pC4bwN4), also streamed on Lido X (Twitter) (https://x.com/LidoFinance) [and LinkedIn](https://www.linkedin.com/company/lidofi).
 
 ### Speakers
 
-- Joseph Lubin (https://x.com/ethereumJoseph), Chairman and CEO of MetaMask and Founder at Consensys
-- Joseph Chalom (https://x.com/joechalom), CEO at Sharplink
-- Aleksandra Gusakova (https://x.com/sasha_gusakova), Lido Core Lead at Lido Labs
+- [Joseph Lubin](https://x.com/ethereumJoseph), Chairman and CEO of MetaMask and Founder at Consensys
+- [Joseph Chalom](https://x.com/joechalom), CEO at Sharplink
+- [Aleksandra Gusakova](https://x.com/sasha_gusakova), Lido Core Lead at Lido Labs
 
-Missed the previous calls? Check the curated collection of best moments and key insights in the Lido Poolside Spotlight playlist (https://www.youtube.com/playlist?list=PLhvXP1-8VKZTW5wOGI60pZqBETC-MXJGK&utm_source=luma).
+Missed the previous calls? Check the curated collection of best moments [and key insights in the Lido Poolside Spotlight playlist](https://www.youtube.com/playlist?list=PLhvXP1-8VKZTW5wOGI60pZqBETC-MXJGK&utm_source=luma).
 
 <a id="event-ead845cbd3ab1f6a"></a>
 
@@ -54397,7 +54381,7 @@ Bitcoin Builders Club is your monthly hangout in Austin, Texas, for devs, hacker
 
 Every month, expect Austin-style hospitality featuring homestyle food prepared by a local chef, cold drinks, and vibrant conversations with fellow hackers, builders, and founders dedicated to pushing bitcoin innovation forward in Austin.
 
-Reach out to us on PlebLab Telegram (https://t.me/+7aSjyq9_hMkxN2Ix) if you are lost.
+[Reach out to us on PlebLab Telegram](https://t.me/+7aSjyq9_hMkxN2Ix) if you are lost.
 
 ### What to Expect
 
@@ -54425,13 +54409,13 @@ Late to the party? Come on in. There's still plenty of time for any questions, c
 
 Event Sponsors:
 
-Station Austin (https://capitalfactory.com)
+[Station Austin](https://capitalfactory.com)
 
-"STATION Austin is the center of gravity for entrepreneurs in Texas. Day and night, in-person and online, we gather the best founders, programmers, and designers outside of Silicon Valley and introduce them to investors, employees, and customers who help their ideas launch. STATION Austin is powered by Capital Factory, whose investments and leadership have helped power the Texas startup ecosystem for more than a decade. To sign up for a STATION Austin membership, click here (https://stationaustin.org/commons/)."
+"STATION Austin is the center of gravity for entrepreneurs in Texas. Day and night, in-person and online, we gather the best founders, programmers, and designers outside of Silicon Valley and introduce them to investors, employees, and customers who help their ideas launch. STATION Austin is powered by Capital Factory, whose investments and leadership have helped power the Texas startup ecosystem for more than a decade. [To sign up for a STATION Austin membership, click here](https://stationaustin.org/commons/)."
 
-PlebLab (https://pleblab.dev)
+[PlebLab](https://pleblab.dev)
 
-"Thank you to PlebLab for sponsoring Bitcoin Builders Club. PlebLab supports thousands of builders shaping Bitcoin's future. A hackerspace & community accelerator for the Bitcoin Era in Austin, Texas since 2021. Sign up for a Builder Pass (https://pay.zaprite.com/order/od_EE4gqaRkjp) and their Newsletter (https://dashboard.mailerlite.com/forms/10467/51078046840522216/share)."
+"Thank you to PlebLab for sponsoring Bitcoin Builders Club. PlebLab supports thousands of builders shaping Bitcoin's future. A hackerspace & community accelerator for the Bitcoin [Era in Austin, Texas since 2021. Sign up for a Builder Pass](https://pay.zaprite.com/order/od_EE4gqaRkjp) [and their Newsletter](https://dashboard.mailerlite.com/forms/10467/51078046840522216/share)."
 
 <a id="event-08a577df123d8459"></a>
 
@@ -54514,25 +54498,25 @@ Frontier Traders Connect is a first of its kind - Invite only.
 
 > Onchain Perps Panel
 
-> Kabir (https://x.com/ethtwit) - Growth Lead @ Phoenix Trade (https://x.com/PhoenixTrade)
+> [Kabir](https://x.com/ethtwit) - [Growth Lead @ Phoenix Trade](https://x.com/PhoenixTrade)
 
-> Chris Newhouse (https://x.com/CryptoDeFiGuy) - BD @ IMC Trading (https://x.com/IMCTrading)
+> [Chris Newhouse](https://x.com/CryptoDeFiGuy) - [BD @ IMC Trading](https://x.com/IMCTrading)
 
-> Genia Mikhalchenko (https://www.linkedin.com/in/geniamikhalchenko/) - BD @ Pyth Network (https://x.com/PythNetwork)
+> [Genia Mikhalchenko](https://www.linkedin.com/in/geniamikhalchenko/) - [BD @ Pyth Network](https://x.com/PythNetwork)
 
 >
 
 > Spot Ecosystem Panel
 
-> Chris Chung (https://x.com/realRockyChung) - CEO @ Titan Exchange (https://x.com/Titan_Exchange)
+> [Chris Chung](https://x.com/realRockyChung) - [CEO @ Titan Exchange](https://x.com/Titan_Exchange)
 
-> Sabs S. (https://www.linkedin.com/in/sabsachdeva/) - SE @ Temporal/Humidifi (https://x.com/temporal_xyz)
+> [Sabs S.](https://www.linkedin.com/in/sabsachdeva/) - [SE @ Temporal/Humidifi](https://x.com/temporal_xyz)
 
-> Nawan Butt (https://www.linkedin.com/in/nawanb/)- Head of Capital Markets @ Purpose (https://x.com/PurposeInvest)
+> [Nawan Butt](https://www.linkedin.com/in/nawanb/)- [Head of Capital Markets @ Purpose](https://x.com/PurposeInvest)
 
 >
 
-> Moderator: Josh Bubar (https://www.linkedin.com/in/josh-bubar-15718299/) @ Velox Trading Group (https://www.linkedin.com/company/velox-trading-group/home/)
+> [Moderator: Josh Bubar](https://www.linkedin.com/in/josh-bubar-15718299/) @ [Velox Trading Group](https://www.linkedin.com/company/velox-trading-group/home/)
 
 6:30pm - Cocktail & networking
 
@@ -54552,11 +54536,11 @@ Who gets accepted:
 
 → Top allocators and capital deployers
 
-Produced by Titan Exchange (https://x.com/Titan_Exchange)
+[Produced by Titan Exchange](https://x.com/Titan_Exchange)
 
-Hosted by Superteam Canada (https://x.com/SuperteamCAN)
+[Hosted by Superteam Canada](https://x.com/SuperteamCAN)
 
-Supported by Solana Foundation (https://x.com/Solana)
+[Supported by Solana Foundation](https://x.com/Solana)
 
 <a id="event-a5b0d60ab8620b7e"></a>
 
@@ -54577,15 +54561,11 @@ The conversation is changing, and the honest read on where revenue is heading ra
 
 So Scalestack and Ripple Ventures are getting a small group of CROs around one table in Toronto, over dinner and good wine, to work through what AI actually means for next fiscal year. Come for the kind of conversation you leave a little sharper than you walked in. We'd love to have you :)
 
-### About Ripple Ventures
-
-http://www.rippleventures.com
+[About Ripple Ventures](http://www.rippleventures.com)
 
 We are inception stage partners to founders building advanced technologies. Our goal is to be the earliest backers in a founder's journey, and to amplify their life's work through hands on support + opening up customer/ talent networks.
 
-### About Scalestack
-
-https://scalestack.ai/
+[About Scalestack](https://scalestack.ai/)
 
 Data infrastructure agents and humans can trust. A system of intelligence on top of your system of record, delivering clean, governed, AI-ready data for the enterprise.
 
@@ -54649,7 +54629,7 @@ Day 1 - dedicated to developers with technical talks, builder sessions, and deep
 
 Day 2 - focuses on adoption, startups, stablecoins, and institutional innovation on Solana, featuring founders, industry leaders, and conversations around the future of blockchain in Canada.
 
-September 23 & 24, Toronto, 2 blocks away from Elevate Festival (https://elevatefestival.ca/).
+September 23 & 24, [Toronto, 2 blocks away from Elevate Festival](https://elevatefestival.ca/).
 
 Entry is free, but registration and approval is required.
 
@@ -54659,11 +54639,11 @@ Agenda available here https://www.solanasummit.ca/agenda
 
 Join the telegram for updates https://t.me/+xHswLTkhGpI0MGFh
 
-Organized by Superteam Canada (https://superteam.ca/)
+[Organized by Superteam Canada](https://superteam.ca/)
 
-Powered by Solana (https://solana.com/)
+[Powered by Solana](https://solana.com/)
 
-By signing up, you agree that Superteam Canada can contact you about future events and updates, and that you will adhere to our Code of Conduct (https://docs.google.com/document/d/151gn2UJ6nhXIb5lJQ8jsvQuOAfc0GGUyCsrMrysli2A/edit?tab=t.0&utm_source=luma#heading=h.8yo4odrs6zzp).
+By signing up, you agree that Superteam Canada can contact you about future events [and updates, and that you will adhere to our Code of Conduct](https://docs.google.com/document/d/151gn2UJ6nhXIb5lJQ8jsvQuOAfc0GGUyCsrMrysli2A/edit?tab=t.0&utm_source=luma#heading=h.8yo4odrs6zzp).
 
 <a id="event-dec73725b59325e2"></a>
 
@@ -54717,12 +54697,12 @@ Web3Privacy now x ETHTokyo side event
 
 Speakers & Hosts
 
-- Alan Scott (https://x.com/tsu_kareta) (https://x.com/tsu_kareta)x Railgun (https://railgun.org/) - zero-knowledge that really works and protects billions of funds. Champion of Ethereum privacy.
-- Parsley (https://x.com/Parsley3D) x FAT Solutions (https://fatsolutions.xyz/)- long-lasting FOSS & privacy advocates collaborating with Privacy Pools, Starknet & others.
-- Yudai Suzuki (https://x.com/9dai_5) x Fracton Ventures (https://fracton.ventures/) - ecosystem weaver with a lifetime commitment to scaling Ethereum's CROPS values across Asia and beyond.
-- Koss (https://x.com/kosmostasis)x Swarm (https://www.ethswarm.org/)/Ayllu - long-lasting digital rights activist, for years integrated in decentralised tech, commons, alternative financial systems and digital transformation.
-- Kelly Joo (https://x.com/yjkellyjoo) x Swarm (https://www.ethswarm.org/) - seasoned swiss-knife devrel at the service of Ethereum privacy.
-- Toshi Matsumoto (https://x.com/toshiboy86) x INTMAX (https://intmax.io/)/zERC20 (https://zerc20.io/) - making privacy on Ethereum not only cryptographically secure, but usable, interoperable, and ready for real-world adoption.
+- [Alan Scott](https://x.com/tsu_kareta) (https://x.com/tsu_kareta)[x Railgun](https://railgun.org/) - zero-knowledge that really works and protects billions of funds. Champion of Ethereum privacy.
+- [Parsley](https://x.com/Parsley3D) [x FAT Solutions](https://fatsolutions.xyz/)- long-lasting FOSS & privacy advocates collaborating with Privacy Pools, Starknet & others.
+- [Yudai Suzuki](https://x.com/9dai_5) [x Fracton Ventures](https://fracton.ventures/) - ecosystem weaver with a lifetime commitment to scaling Ethereum's CROPS values across Asia and beyond.
+- [Koss](https://x.com/kosmostasis)[x Swarm](https://www.ethswarm.org/)/Ayllu - long-lasting digital rights activist, for years integrated in decentralised tech, commons, alternative financial systems and digital transformation.
+- [Kelly Joo](https://x.com/yjkellyjoo) [x Swarm](https://www.ethswarm.org/) - seasoned swiss-knife devrel at the service of Ethereum privacy.
+- [Toshi Matsumoto](https://x.com/toshiboy86) [x INTMAX](https://intmax.io/)/[zERC20](https://zerc20.io/) - making privacy on Ethereum not only cryptographically secure, but usable, interoperable, and ready for real-world adoption.
 
 ### Half-day dedicated to fostering solidarity and understanding among
 
@@ -54733,11 +54713,11 @@ Speakers & Hosts
 
 ### DISCLAIMER: the event is first come, first served
 
-> Privacy Summit I, Prague, 2023 - Ameen Soleimani (https://x.com/ameensol)
+> [Privacy Summit I, Prague, 2023 - Ameen Soleimani](https://x.com/ameensol)
 
 ### ABOUT US
 
-Web3Privacy Now (https://web3privacy.info/)is a think-and-do-tank of hundreds of people, projects, and organizations committed to protecting and advancing civil liberties, decentralization, and open-source software.
+[Web3Privacy Now](https://web3privacy.info/)is a think-and-do-tank of hundreds of people, projects, and organizations committed to protecting and advancing civil liberties, decentralization, and open-source software.
 
 We facilitate cross-stack and cross-community collaboration to drive meaningful impact. We challenge standardization and maximalism, avoid abstractions and stereotypes.
 
@@ -54800,15 +54780,15 @@ Volunteer: https://tally.so/r/3lLqKo
 
 Speak: https://tally.so/r/nrOzXl
 
-Partner: pg 'at' web3privacy.info (https://web3privacy.info)
+[Partner: pg 'at' web3privacy.info](https://web3privacy.info)
 
 Socials
 
 community https://t.me/+ZGFx7P_uaLUxZThk
 
-web https://web3privacy.info (http://web3privacy.info)
+[web https://web3privacy.info](http://web3privacy.info)
 
-git https://github.com/web3privacy (http://github.com/web3privacy)
+[git https://github.com/web3privacy](http://github.com/web3privacy)
 
 youtube https://www.youtube.com/web3privacynow
 
@@ -54833,17 +54813,17 @@ Each episode breaks down what matters across Solana through sketches, in-depth i
 
 Hosted by SOL BROTHERS, the Ecosystem Call is coming to your timeline this month with fresh energy.
 
-www.ecosystemcall.com (https://www.ecosystemcall.com)
+[www.ecosystemcall.com](https://www.ecosystemcall.com)
 
 ### How do I get on the show?
 
 Got something everyone in Solana needs to know about? Exciting product announcements? Timeline moments you deem worth making it on the show? Hosting any Solana events? Want to do a giveaway with your company?
 
-Submit here (https://linktr.ee/SolanaEcosystemCall)!
+[Submit here](https://linktr.ee/SolanaEcosystemCall)!
 
 ### About SOL BROTHERS Studio
 
-We're producing podcasts, host interviews and are the creators of the new official Solana Ecosystem Call. Follow us on YouTube and X (https://link3.to/solbrothers) for updates.
+We're producing podcasts, host interviews and are the creators of the new [official Solana Ecosystem Call. Follow us on YouTube and X](https://link3.to/solbrothers) for updates.
 
 ### About Solana
 
@@ -54904,9 +54884,9 @@ Enter Cloudflare along Comal St. and check-in at the front desk. Our event will 
 
 WoCS is the leading community for the best and brightest women in post-sales roles and leadership. Our mission is to connect, educate, and empower women to thrive in their careers and lead the way forward. With over 10 chapters worldwide, we are cultivating the next generation of women shaping the future of customer experience.
 
-Join the online community and register for our newsletter (https://womenofcustomersuccess.com/join)
+[Join the online community and register for our newsletter](https://womenofcustomersuccess.com/join)
 
-Follow us on LinkedIn (https://www.linkedin.com/company/women-of-customer-success/)
+[Follow us on LinkedIn](https://www.linkedin.com/company/women-of-customer-success/)
 
 <a id="event-7a397fe9050dd1b4"></a>
 
@@ -54946,7 +54926,7 @@ We help builders learn, build, and ship future-proof startups that use the Solan
 
 We don't sell anything or offer investment advice.
 
-Learn more about us (https://melted-replace-3a8.notion.site/Onboarding-13ed7c260a4d80e2a21cf9b223020e73)
+[Learn more about us](https://melted-replace-3a8.notion.site/Onboarding-13ed7c260a4d80e2a21cf9b223020e73)
 
 ### What is Solana?
 
@@ -55093,7 +55073,7 @@ Confirmed speakers include Takashi Tezuka, CEO of Startale Japan; Armani Ferrant
 
 This is a paid ticketed event and will not be livestreamed. Past ETHGlobal hackers or other Pack holders may qualify for a discount.
 
-You can check if you qualify by logging in and purchasing on our full website (https://ethglobal.com/events/pragma-tokyo2026).
+You can check if [you qualify by logging in and purchasing on our full website](https://ethglobal.com/events/pragma-tokyo2026).
 
 ### Mint our Tokyo Pack for a curated experience!
 
@@ -55148,9 +55128,7 @@ THE SCHEDULE
 - 6:00 PM - Pitches
 - 7:30 PM - Prizes, Networking & Closing Remarks
 
-### About Monad
-
-https://www.monad.xyz/?utm_source=luma
+[About Monad](https://www.monad.xyz/?utm_source=luma)
 
 Monad is a highly performant and EVM compatible layer 1 blockchain. Re-inventing from the ground up, the innovations in both consensus and execution make it possible to achieve throughput up to 10,000 transactions per second (TPS).
 
@@ -55158,11 +55136,9 @@ Monad is a highly performant and EVM compatible layer 1 blockchain. Re-inventing
 
 Monad Blitz is a high-energy, one-day hackathon series designed to empower builders on Monad's high-performance EVM. We've traveled from Shenzhen to San Francisco, bringing together developers to learn, squad up, and ship real projects in a single day. With thousands of participants and hundreds of prototypes shipped to date, Blitz is the ultimate venue for fast execution and high-throughput results. Whether you're an EVM veteran or just starting out, this is your invitation to build the future on Monad.
 
-### About Encode Club
+[About Encode Club](https://www.encodeclub.com/)
 
-https://www.encodeclub.com/
-
-Encode Club is London's leading community for founders and builders in AI and Web3. With weekly events, hackathons, and accelerator programmes, and the Encode Hub (https://hub.encodeclub.com/) coworking space in Shoreditch, it's where ambitious founders come to learn, connect, and grow.
+Encode Club is London's leading community for founders and builders in AI and Web3. With weekly events, [hackathons, and accelerator programmes, and the Encode Hub](https://hub.encodeclub.com/) coworking space in Shoreditch, it's where ambitious founders come to learn, connect, and grow.
 
 ### Disclaimer
 
@@ -55216,9 +55192,7 @@ THE SCHEDULE
 - 6:00 PM - Pitches
 - 7:30 PM - Prizes, Networking & Closing Remarks
 
-### About Monad
-
-https://www.monad.xyz/?utm_source=luma
+[About Monad](https://www.monad.xyz/?utm_source=luma)
 
 Monad is a highly performant and EVM compatible layer 1 blockchain. Re-inventing from the ground up, the innovations in both consensus and execution make it possible to achieve throughput up to 10,000 transactions per second (TPS).
 
@@ -55226,11 +55200,9 @@ Monad is a highly performant and EVM compatible layer 1 blockchain. Re-inventing
 
 Monad Blitz is a high-energy, one-day hackathon series designed to empower builders on Monad's high-performance EVM. We've traveled from Shenzhen to San Francisco, bringing together developers to learn, squad up, and ship real projects in a single day. With thousands of participants and hundreds of prototypes shipped to date, Blitz is the ultimate venue for fast execution and high-throughput results. Whether you're an EVM veteran or just starting out, this is your invitation to build the future on Monad.
 
-### About Encode Club
+[About Encode Club](https://www.encodeclub.com/)
 
-https://www.encodeclub.com/
-
-Encode Club is London's leading community for founders and builders in AI and Web3. With weekly events, hackathons, and accelerator programmes, and the Encode Hub (https://hub.encodeclub.com/) coworking space in Shoreditch, it's where ambitious founders come to learn, connect, and grow.
+Encode Club is London's leading community for founders and builders in AI and Web3. With weekly events, [hackathons, and accelerator programmes, and the Encode Hub](https://hub.encodeclub.com/) coworking space in Shoreditch, it's where ambitious founders come to learn, connect, and grow.
 
 ### Disclaimer
 
@@ -55308,7 +55280,7 @@ PERP DEX DAY.
 
 ### Notice
 
-- 본 이벤트는 승인 전용 행사이며, 정원은 600명 한정입니다. 신청자가 정원을 초과할 경우 ReboundX 터미널 (https://www.reboundx.net/en/terminal-exchange/BINANCE/spot/ETHUSDT)/ 리베이트 (https://www.reboundx.net/en) 사용 유저가 우선 선정됩니다.
+- 본 이벤트는 승인 전용 행사이며, 정원은 600명 한정입니다. 신청자가 정원을 초과할 경우 [ReboundX 터미널](https://www.reboundx.net/en/terminal-exchange/BINANCE/spot/ETHUSDT)/ 리베이트 (https://www.reboundx.net/en) 사용 유저가 우선 선정됩니다.
 - 식별을 위해 ReboundX 회원가입 이메일과 동일한 이메일로 Luma 신청 부탁드립니다.
 - 행사 중 촬영된 사진-영상이 이벤트 홍보 및 SNS에 사용될 수 있음을 양해해 주시는 것으로 간주됩니다.
 
@@ -55441,7 +55413,7 @@ Backed by: eToro, Jump Crypto, and 7+ global investors
 
 ### Socials
 
-ReboundX: Twitter (X) (https://x.com/reboundx_net?utm_source=luma) | Telegram (https://t.me/ReboundXnet?utm_source=luma) | Website (https://www.reboundx.net/?utm_source=luma)
+ReboundX: Twitter (X) (https://x.com/reboundx_net?utm_source=luma) | [Telegram](https://t.me/ReboundXnet?utm_source=luma) | [Website](https://www.reboundx.net/?utm_source=luma)
 
 Hosted by ReboundX
 
@@ -55463,7 +55435,7 @@ Experience the cutting edge of on-chain trading, firsthand.
 
 ### Heads up
 
-- This is an approval-only event with a strict 600-person limit. If demand exceeds spots, ReboundX terminal (https://www.reboundx.net/en/terminal-exchange/BINANCE/spot/ETHUSDT)/rebate (https://www.reboundx.net/en) users get priority.
+- This is an approval-only event with a strict 600-[person limit. If demand exceeds spots, ReboundX terminal](https://www.reboundx.net/en/terminal-exchange/BINANCE/spot/ETHUSDT)/[rebate](https://www.reboundx.net/en) users get priority.
 - For identification purposes, please apply on Luma using the same email as your ReboundX registration.
 - By joining the event, you agree that photos and videos capturing the moments may be shared for event promotions and on social media.
 
@@ -55521,20 +55493,20 @@ To make the experience even more exciting, we've prepared a range of exciting pr
 Who Are We?
 
 - Organizers
-  - Gaea Ventures (https://x.com/GaeaVentures): A global Web3 investment fund and incubator supporting innovative projects across crypto infrastructure, DeFi, Web3 applications, and emerging technologies.
-  - K1 research (https://x.com/K1_Research): A Seoul-based, data-driven Web3 advisory firm helping global blockchain projects enter and grow across Korea and the broader APAC market through research, strategy, fundraising, PR, community growth, and market execution.
+  - [Gaea Ventures](https://x.com/GaeaVentures): A global Web3 investment fund and incubator supporting innovative projects across crypto infrastructure, DeFi, Web3 applications, and emerging technologies.
+  - [K1 research](https://x.com/K1_Research): A Seoul-based, data-driven Web3 advisory firm helping global blockchain projects enter and grow across Korea and the broader APAC market through research, strategy, fundraising, PR, community growth, and market execution.
 - Co-Hosts
-  - Origins Network (https://x.com/OriginsNetwork_): Building infrastructure for an AI-native future through verifiable compute, making compute, data, and execution transparent and verifiable.
-  - UNIKEY (https://x.com/unikeyofficial): Building a unified gateway for AI capabilities and a decentralized clearing network, enabling the circulation of digital value across the emerging AI economy.
-  - Travix (https://x.com/Travix_fi): Building an on-chain Agentic Omnibroker powered by predictive intelligence, verifiable AI strategies, and computable RWA, combining off-chain matching with on-chain settlement on Monad.
-  - SkyDAO (https://x.com/skydaogroup): Building the next generation of financial technology ecosystems by connecting digital assets, AI infrastructure, and global financial services, together with Dayang Group and D Network.
+  - [Origins Network](https://x.com/OriginsNetwork_): Building infrastructure for an AI-native future through verifiable compute, making compute, data, and execution transparent and verifiable.
+  - [UNIKEY](https://x.com/unikeyofficial): Building a unified gateway for AI capabilities and a decentralized clearing network, enabling the circulation of digital value across the emerging AI economy.
+  - [Travix](https://x.com/Travix_fi): Building an on-chain Agentic Omnibroker powered by predictive intelligence, verifiable AI strategies, and computable RWA, combining off-chain matching with on-chain settlement on Monad.
+  - [SkyDAO](https://x.com/skydaogroup): Building the next generation of financial technology ecosystems by connecting digital assets, AI infrastructure, and global financial services, together with Dayang Group and D Network.
 - Sponsors
-  - Becker Ventures (https://x.com/BeckerVentures): Becker Ventures is a global Web3 investment fund and accelerator headquartered in Sydney, Australia, with offices in Hong Kong, Singapore, and Dubai. The company currently manages multiple funds, including venture capital funds, actively managed secondary funds, multi-strategy FOF funds, and private market secondary funds. Its accelerator division has successfully supported several projects with a focus on discovering, incubating, and empowering disruptive Web3 startups.
-  - Oraclizer (https://x.com/Oraclizer): Infrastructure for regulated assets that synchronizes tokens, custody records, contracts, and regulatory status across public blockchains and institutional ledgers. Its technology helps ensure that asset state transitions are coordinated across different systems.
-  - Flap (https://x.com/flapdotsh): A specialized infrastructure layer for token launches, enabling builders to customize token mechanisms and programmable features. By simplifying complex launch mechanics, Flap provides a flexible framework for experimentation and innovation.
-  - XPIN Network (https://x.com/XPINNetwork): A decentralized global connectivity infrastructure providing eSIM connectivity for seamless mobile access without physical SIM cards. It enables instant activation and flexible data access across borders, bringing Web3 utility into everyday connectivity.
-  - AITok (https://x.com/AiTok_io): The gateway to Physical AI, providing AI Agents, compute accounts, AIHub drops, and Echo I. Built to enable seamless access to AI compute and instant AI-powered experiences.
-  - KEYFLOW (https://x.com/KeyFlow_EN): The value circulation layer of the UniKey ecosystem, connecting AI capabilities, contributions, usage, distribution, and settlement. It helps enable the circulation of digital value across the emerging AI economy.
+  - [Becker Ventures](https://x.com/BeckerVentures): Becker Ventures is a global Web3 investment fund and accelerator headquartered in Sydney, Australia, with offices in Hong Kong, Singapore, and Dubai. The company currently manages multiple funds, including venture capital funds, actively managed secondary funds, multi-strategy FOF funds, and private market secondary funds. Its accelerator division has successfully supported several projects with a focus on discovering, incubating, and empowering disruptive Web3 startups.
+  - [Oraclizer](https://x.com/Oraclizer): Infrastructure for regulated assets that synchronizes tokens, custody records, contracts, and regulatory status across public blockchains and institutional ledgers. Its technology helps ensure that asset state transitions are coordinated across different systems.
+  - [Flap](https://x.com/flapdotsh): A specialized infrastructure layer for token launches, enabling builders to customize token mechanisms and programmable features. By simplifying complex launch mechanics, Flap provides a flexible framework for experimentation and innovation.
+  - [XPIN Network](https://x.com/XPINNetwork): A decentralized global connectivity infrastructure providing eSIM connectivity for seamless mobile access without physical SIM cards. It enables instant activation and flexible data access across borders, bringing Web3 utility into everyday connectivity.
+  - [AITok](https://x.com/AiTok_io): The gateway to Physical AI, providing AI Agents, compute accounts, AIHub drops, and Echo I. Built to enable seamless access to AI compute and instant AI-powered experiences.
+  - [KEYFLOW](https://x.com/KeyFlow_EN): The value circulation layer of the UniKey ecosystem, connecting AI capabilities, contributions, usage, distribution, and settlement. It helps enable the circulation of digital value across the emerging AI economy.
 
 <a id="event-acb15658a2241461"></a>
 
@@ -55554,13 +55526,13 @@ Who Are We?
 
 > The event is going to be conducted in Korean.
 
-Ripple (https://ripple.com), t54 (https://t54.ai), Tenity (https://www.tenity.com/), Bloom (https://bloomworld.ai/community/)이 함께하는 KBW 공식 사이드 이벤트입니다.
+[Ripple](https://ripple.com), [t54](https://t54.ai), [Tenity](https://www.tenity.com/), [Bloom](https://bloomworld.ai/community/)이 함께하는 KBW 공식 사이드 이벤트입니다.
 
 2026.09.28 (월) 18:00-23:00 KST 강남 (신청 승인 후 안내) 무료 - 승인제
 
 ### 이런 분들을 환영합니다
 
-- XRPL (https://xrpl.org) 및 온체인 AI 인프라에 관심 있는 빌더/개발자
+- [XRPL](https://xrpl.org) 및 온체인 AI 인프라에 관심 있는 빌더/개발자
 - Agentic payment, x402, MPP, AP2, ACP 등 machine to machine 결제 표준에 관심 있는 분
 - 자율 금융 에이전트(autonomous financial agent)의 보안 모델에 관심 있는 리서처/엔지니어
 - 블록체인과 t54 생태계 위에서 프로젝트를 구상 중인 빌더
@@ -55582,13 +55554,13 @@ Ripple (https://ripple.com), t54 (https://t54.ai), Tenity (https://www.tenity.co
 
 - Chandler Fang (Founder, t54) (https://www.linkedin.com/in/znfang/)
 
-19:35 - 20:20 - 패널 토론 (모더레이터: Joel Mun (https://www.linkedin.com/in/7oelm/))
+19:35 - 20:20 - 패널 토론 (모더레이터: [Joel Mun](https://www.linkedin.com/in/7oelm/))
 
 패널
 
-- Jungyong Um (https://www.linkedin.com/in/jungyong-um/), Web3 Dev & AI TF Lead, DSRV (https://www.dsrv.com/en)
-- Junhyeok Yoo (https://www.linkedin.com/in/junhyeok-yoo-b6727a215/), Researcher at Four Pillars (https://4pillars.io/en)
-- Seonmin Yi (https://www.linkedin.com/in/claraysm/), 인하대학교 초빙교수, 재정경제부 전략경제자문단 AI Agent 커머스분과 위원, Future Works Lab 창립자
+- [Jungyong Um](https://www.linkedin.com/in/jungyong-um/), [Web3 Dev & AI TF Lead, DSRV](https://www.dsrv.com/en)
+- [Junhyeok Yoo](https://www.linkedin.com/in/junhyeok-yoo-b6727a215/), [Researcher at Four Pillars](https://4pillars.io/en)
+- [Seonmin Yi](https://www.linkedin.com/in/claraysm/), 인하대학교 초빙교수, 재정경제부 전략경제자문단 AI Agent 커머스분과 위원, Future Works Lab 창립자
 
 아젠다
 
@@ -55598,7 +55570,7 @@ Ripple (https://ripple.com), t54 (https://t54.ai), Tenity (https://www.tenity.co
 - AI native 경제를 위한 온체인 인프라
 - 실제 배포 사례와 향후 방향
 
-20:20 - 20:40 - Fireside chat (모더레이터: Junshu Kim from Bloom (https://www.linkedin.com/in/junshu-kim-123508254/))
+20:20 - 20:40 - Fireside chat (모더레이터: [Junshu Kim from Bloom](https://www.linkedin.com/in/junshu-kim-123508254/))
 
 - Suhan Cho (Head of Compliance, Next Securities) (https://www.linkedin.com/in/suhan-joshua-cho-5a0598174/)
 
@@ -55680,13 +55652,13 @@ The summit is reviewed by the host committee. Submit an application as an attend
 
 ### About the event
 
-Join Zircuit Finance (https://finance.zircuit.com/), Quantstamp (https://quantstamp.com/), and Common Defense (https://www.commondefense.ai/) for Security Night, a relaxed evening of good conversations, fresh ideas, and great company
+[Join Zircuit Finance](https://finance.zircuit.com/), [Quantstamp](https://quantstamp.com/), [and Common Defense](https://www.commondefense.ai/) for Security Night, a relaxed evening of good conversations, fresh ideas, and great company
 
 We'll explore topics ranging from security and DeFi to the growing threat of social engineering attacks, with each co-host sharing a short presentation on their latest work.
 
 Once the talks wrap up, the night continues with food, drinks, and plenty of time to mingle. Come meet the teams, make some new connections, and grab some exclusive event swag while it lasts!
 
-Co-hosted by Xangle (https://xangle.io/en/research) 🇰🇷
+[Co-hosted by Xangle](https://xangle.io/en/research) 🇰🇷
 
 ### The Schedule
 
@@ -55704,33 +55676,33 @@ Co-hosted by Xangle (https://xangle.io/en/research) 🇰🇷
 
 ### The Hosts
 
-Zircuit (https://finance.zircuit.com/?utm_source=luma)puts your security first with institutional-grade protection and a proven track record safeguarding billions.
+[Zircuit](https://finance.zircuit.com/?utm_source=luma)puts your security first with institutional-grade protection and a proven track record safeguarding billions.
 
-Follow on X: x.com/zircuit (https://x.com/zircuit)
+[Follow on X: x.com/zircuit](https://x.com/zircuit)
 
-Institutional-grade yield starts here: finance.zircuit.com (https://finance.zircuit.com)
+[Institutional-grade yield starts here: finance.zircuit.com](https://finance.zircuit.com)
 
 ### Protecting humans from AI-native threats
 
 Defending people and organizations across email, messaging, social platforms, professional networks, and voice and video calls.
 
-Follow on X: x.com/CommonDefenseAI (https://x.com/CommonDefenseAI)
+[Follow on X: x.com/CommonDefenseAI](https://x.com/CommonDefenseAI)
 
-Learn More: commondefense.ai (https://commondefense.ai)
+[Learn More: commondefense.ai](https://commondefense.ai)
 
 Quantstamp is a global leader in blockchain security. Since 2017, we've secured billions in digital assets and worked with some of the most recognized names in web3.
 
-Follow on X: x.com/quantstamp (https://x.com/quantstamp)
+[Follow on X: x.com/quantstamp](https://x.com/quantstamp)
 
-Learn more: quantstamp.com (https://quantstamp.com)
+[Learn more: quantstamp.com](https://quantstamp.com)
 
 쟁글은 디지털 자산 시장의 정보 인프라와 기관용 오케스트레이션 레이어를 구축하는 기업입니다. 디지털 자산 데이터, 리서치 및 정보 유통 역량을 기반으로 금융기관과 기업이 시장을 보다 투명하게 이해하고 합리적인 의사결정을 내릴 수 있도록 지원합니다. 또한 다양한 디지털 자산 인프라를 하나의 환경에서 연결하는 오케스트레이션 레이어를 제공함으로써, 기관이 복잡한 기술 및 규제 환경 속에서도 디지털 자산 서비스를 효율적으로 구축하고 운영할 수 있도록 지원합니다.
 
 Xangle is a digital asset infrastructure company building an information infrastructure and an institutional-grade orchestration layer for the digital asset market. Leveraging its capabilities in digital asset data, research, and information distribution, Xangle enables financial institutions and enterprises to better understand the market and make informed decisions. Xangle also provides an orchestration layer that connects diverse digital asset infrastructure within a unified environment, enabling institutions to efficiently build and operate digital asset services across complex technological and regulatory landscapes.
 
-Follow on X: x.com/Xangle_official (https://x.com/Xangle_official)
+[Follow on X: x.com/Xangle_official](https://x.com/Xangle_official)
 
-Learn more: xangle.io (https://xangle.io/)
+[Learn more: xangle.io](https://xangle.io/)
 
 ### Media Partner
 
@@ -55738,7 +55710,7 @@ Mira is the discovery platform for digital finance and frontier tech - events, c
 
 Follow on X: https://x.com/miragather
 
-Learn more: miragather.com (https://miragather.com/)
+[Learn more: miragather.com](https://miragather.com/)
 
 <a id="event-527fa9e7097ba286"></a>
 
@@ -55768,23 +55740,23 @@ Hosted during Korea Blockchain Week, CONNECT by Cointelegraph is a highly curate
 
 Designed to foster meaningful connections and high-value conversations, CONNECT serves as a platform for the people driving the next wave of Web3 innovation.
 
-Host: Cointelegraph Accelerator (https://cointelegraph.com/accelerate/?utm_source=luma)
+[Host: Cointelegraph Accelerator](https://cointelegraph.com/accelerate/?utm_source=luma)
 
 The program helps find and support the next generation of leaders in the Web3 space, bringing together investors, startups, and relevant stakeholders to contribute to the development of Web3.
 
-Host: Cointelegraph (https://cointelegraph.com/?utm_source=luma)
+[Host: Cointelegraph](https://cointelegraph.com/?utm_source=luma)
 
 Founded in 2013, Cointelegraph is the leading independent digital media resource covering a wide range of news on blockchain technology, crypto assets, and emerging fintech trends.
 
-Partner: FinHarbor (https://www.finharbor.com/?utm_source=luma)
+[Partner: FinHarbor](https://www.finharbor.com/?utm_source=luma)
 
 FinHarbor is a technical platform provider for launching compliant, modular financial products - from wallets and neobanks to crypto ramps and OTC desks. Built on years of real-world fintech experience, our infrastructure helps clients launch faster, operate securely, and scale across fiat, crypto, and hybrid environments
 
-Partner: Wincent (https://www.wincent.com/)
+[Partner: Wincent](https://www.wincent.com/)
 
 Wincent is a regulated crypto native fund providing over $5bn of liquidity daily in spot, RWA, CFD and perpetuals. With pricing and size in tokenized commodities, stablecoins and over 10,000 products with fiat pairs our institutional approach makes crypto businesses work.
 
-Partner: Humandone (https://humandone.com/)
+[Partner: Humandone](https://humandone.com/)
 
 Humandone is a product design and development studio specialising in modern digital experiences for startups and web3 companies. The team works across branding, app design, UX/UI systems, frontend development, and scalable infrastructure for crypto-native and consumer applications.
 
@@ -55867,7 +55839,7 @@ On September 29th, between 3pm and 5pm, be part of an exclusive guest list featu
 
 Excited to see you again! Or meet you in person for the first time :D
 
-past attendees and partners: Fabric Ventures, A16z, Pantera Capital, Vayner Media, Crypto.com (http://Crypto.com), Binance, Meta, Coinbase, OP, Polygon, Arca, M2, ByBit, Sino Global Capital, Arbitrum, USV, Metis, Figment, Near, Coin Telegraph, Decrypt, Polkadot, Sequoia, Multicoin Capital & many more
+past attendees and partners: Fabric [Ventures, A16z, Pantera Capital, Vayner Media, Crypto.com](http://Crypto.com), Binance, Meta, Coinbase, OP, Polygon, Arca, M2, ByBit, Sino Global Capital, Arbitrum, USV, Metis, Figment, Near, Coin Telegraph, Decrypt, Polkadot, Sequoia, Multicoin Capital & many more
 
 Presented by:
 
@@ -55879,7 +55851,7 @@ fractl is a global network of 19,000+ top tier founders & 5,000+ investors broug
 
 60,000+ registrants across our events to date
 
-www.fractl.ca (http://www.fractl.ca)
+[www.fractl.ca](http://www.fractl.ca)
 
 Sponsors | Co-Hosts | Partnerships
 
@@ -56002,7 +55974,7 @@ Hosted by Solidus Labs and Yulchon, this in-person session will focus on advanci
     - Speaker: Claire Lee, CEO of CODE
 - Unfair Coin Trading Regulatory Frameworks in Korea
   - Overview of actual prosecution and referral cases over the past two years to examine the rankings of the most prevalent types of unfair trading practices and sheds light on the specific schemes and deceptive methods unique to the Korean virtual asset market
-    - Speakers: Jackie Baek, Compliance Head of Korea at Crypto.com (https://Crypto.com)
+    - [Speakers: Jackie Baek, Compliance Head of Korea at Crypto.com](https://Crypto.com)
 
 18:30 - Networking
 
@@ -56046,23 +56018,23 @@ Venue: L7 Gangnam Floating Bar, Gangnam, Seoul
 
 Language: English, with bilingual hosting
 
-Hosted by: Turtle (https://x.com/turtledotxyz) and Lunar Strategy (https://x.com/LunarStrategy)
+[Hosted by: Turtle](https://x.com/turtledotxyz) [and Lunar Strategy](https://x.com/LunarStrategy)
 
-Co-hosts: Bond (https://x.com/BondSuperApp_) and 0G Labs (https://x.com/0G_labs)
+[Co-hosts: Bond](https://x.com/BondSuperApp_) [and 0G Labs](https://x.com/0G_labs)
 
-Premium sponsor: Credi (https://x.com/credilabs)
+[Premium sponsor: Credi](https://x.com/credilabs)
 
 ### Speakers
 
-Essi Lagevardi (https://x.com/SuperChad15), CEO and Founder of Turtle (https://x.com/turtledotxyz) - building one of crypto's largest liquidity coordination networks.
+[Essi Lagevardi](https://x.com/SuperChad15), [CEO and Founder of Turtle](https://x.com/turtledotxyz) - building one of crypto's largest liquidity coordination networks.
 
-Taweh Beysolow II (https://x.com/TawehBeysolow), CEO and Co-founder of Bond (https://x.com/BondSuperApp_) - ex-Jump Trading and Flowdesk quant, now building the first DeFi super app for the agentic economy.
+[Taweh Beysolow II](https://x.com/TawehBeysolow), [CEO and Co-founder of Bond](https://x.com/BondSuperApp_) - ex-Jump Trading and Flowdesk quant, now building the first DeFi super app for the agentic economy.
 
-Michael Heinrich (https://x.com/michaelh_0g), CEO and Co-founder of 0G Labs (https://x.com/0G_labs) - leading the largest AI L1 ecosystem with $325M+ raised; Forbes 40 under 40, ex-Bridgewater and Microsoft.
+[Michael Heinrich](https://x.com/michaelh_0g), [CEO and Co-founder of 0G Labs](https://x.com/0G_labs) - leading the largest AI L1 ecosystem with $325M+ raised; Forbes 40 under 40, ex-Bridgewater and Microsoft.
 
-Alessio Marinelli (https://www.linkedin.com/in/marinellialessio/), CEO of Credi (https://x.com/credilabs) - tokenizing private credit and SME receivables, bringing real-world yield on-chain since 2017.
+[Alessio Marinelli](https://www.linkedin.com/in/marinellialessio/), [CEO of Credi](https://x.com/credilabs) - tokenizing private credit and SME receivables, bringing real-world yield on-chain since 2017.
 
-Tim Haldorsson (https://x.com/TimHaldorsson), Founder of Lunar Strategy (https://x.com/LunarStrategy) and CMO at Turtle - panel moderator. In crypto since 2017, helping 400+ projects scale.
+[Tim Haldorsson](https://x.com/TimHaldorsson), [Founder of Lunar Strategy](https://x.com/LunarStrategy) and CMO at Turtle - panel moderator. In crypto since 2017, helping 400+ projects scale.
 
 ### Who this is for
 
@@ -56080,17 +56052,17 @@ LPs, family offices, and funds allocating in APAC. Builders and protocols workin
 
 ### Your hosts
 
-Turtle (https://x.com/turtledotxyz) is a liquidity distribution protocol connecting asset issuers to a verified network of 432,000+ on-chain LPs through a unified platform that handles deal sourcing, due diligence, incentive distribution, billing, and LP relationship management, all verifiable on chain.
+[Turtle](https://x.com/turtledotxyz) is a liquidity distribution protocol connecting asset issuers to a verified network of 432,000+ on-chain LPs through a unified platform that handles deal sourcing, due diligence, incentive distribution, billing, and LP relationship management, all verifiable on chain.
 
-Lunar Strategy (https://x.com/LunarStrategy), part of Turtle Group, is the crypto growth agency behind 400+ projects since 2019 - from token launches to ecosystem campaigns.
+[Lunar Strategy](https://x.com/LunarStrategy), part of Turtle Group, is the crypto growth agency behind 400+ projects since 2019 - from token launches to ecosystem campaigns.
 
 ### About our partners
 
-Bond (https://x.com/BondSuperApp_) is the first DeFi super app built for AI agents - trading, lending, and payments in one platform, launched on 0G.
+[Bond](https://x.com/BondSuperApp_) is the first DeFi super app built for AI agents - trading, lending, and payments in one platform, launched on 0G.
 
-0G Labs (https://x.com/0G_labs) is building the foundational Layer 1 for decentralized AI, with $325M raised and one of the fastest-growing ecosystems in crypto.
+0G [Labs](https://x.com/0G_labs) is building the foundational Layer 1 for decentralized AI, with $325M raised and one of the fastest-growing ecosystems in crypto.
 
-Credi (https://x.com/credilabs) brings private credit on-chain, tokenizing high-quality SME receivables to connect DeFi liquidity with real-world yield.
+[Credi](https://x.com/credilabs) brings private credit on-chain, tokenizing high-quality SME receivables to connect DeFi liquidity with real-world yield.
 
 Set on a rooftop deck, with the covered lounge hosting the keynotes and panel. Your first stop before KBW opens.
 
@@ -56116,19 +56088,19 @@ KBW의 시작을 함께할 특별한 저녁에 여러분을 초대합니다.
 
 언어: 영어, 한-영 이중언어 진행
 
-주최: Turtle (https://x.com/turtledotxyz) & Lunar Strategy (https://x.com/LunarStrategy)
+주최: [Turtle](https://x.com/turtledotxyz) & [Lunar Strategy](https://x.com/LunarStrategy)
 
-공동 주최: Bond (https://x.com/BondSuperApp_) & 0G Labs (https://x.com/0G_labs)
+공동 주최: [Bond](https://x.com/BondSuperApp_) & 0G [Labs](https://x.com/0G_labs)
 
-프리미엄 스폰서: Credi (https://x.com/credilabs)
+프리미엄 스폰서: [Credi](https://x.com/credilabs)
 
 ### 연사
 
-- Essi Lagevardi, (https://x.com/SuperChad15) Turtle CEO & Founder - 크립토 업계 최대 규모 중 하나인 유동성 조정 네트워크를 구축하고 있습니다.
-- Taweh Beysolow II (https://x.com/TawehBeysolow), Bond CEO & Co-founder - 전 Jump Trading 및 Flowdesk 퀀트로, 현재 에이전틱 이코노미를 위한 최초의 DeFi 슈퍼앱을 구축하고 있습니다.
-- Michael Heinrich (https://x.com/michaelh_0g), 0G Labs CEO & Co-founder - 3억 2,500만 달러 이상의 투자를 유치한 최대 규모의 AI L1 생태계를 이끌고 있습니다. Forbes 40 Under 40에 선정되었으며 Bridgewater와 Microsoft를 거쳤습니다.
-- Alessio Marinelli (https://www.linkedin.com/in/marinellialessio/), Credi CEO - 프라이빗 크레딧과 중소기업(SME) 매출채권을 토큰화하며, 2017년부터 실물자산에서 발생하는 수익을 온체인으로 가져오고 있습니다.
-- Tim Haldorsson (https://x.com/TimHaldorsson), Lunar Strategy Founder & Turtle CMO - 패널 모더레이터. 2017년부터 크립토 업계에서 활동하며 300개 이상의 프로젝트 성장을 지원했습니다.
+- [Essi Lagevardi,](https://x.com/SuperChad15) Turtle CEO & Founder - 크립토 업계 최대 규모 중 하나인 유동성 조정 네트워크를 구축하고 있습니다.
+- [Taweh Beysolow II](https://x.com/TawehBeysolow), Bond CEO & Co-founder - 전 Jump Trading 및 Flowdesk 퀀트로, 현재 에이전틱 이코노미를 위한 최초의 DeFi 슈퍼앱을 구축하고 있습니다.
+- [Michael Heinrich](https://x.com/michaelh_0g), 0G Labs CEO & Co-founder - 3억 2,500만 달러 이상의 투자를 유치한 최대 규모의 AI L1 생태계를 이끌고 있습니다. Forbes 40 Under 40에 선정되었으며 Bridgewater와 Microsoft를 거쳤습니다.
+- [Alessio Marinelli](https://www.linkedin.com/in/marinellialessio/), Credi CEO - 프라이빗 크레딧과 중소기업(SME) 매출채권을 토큰화하며, 2017년부터 실물자산에서 발생하는 수익을 온체인으로 가져오고 있습니다.
+- [Tim Haldorsson](https://x.com/TimHaldorsson), Lunar Strategy Founder & Turtle CMO - 패널 모더레이터. 2017년부터 크립토 업계에서 활동하며 300개 이상의 프로젝트 성장을 지원했습니다.
 
 ### 이런 분들을 위한 자리입니다
 
@@ -56182,7 +56154,7 @@ KBW가 시작되기 전, 가장 먼저 함께할 자리입니다.
 
 Join us on Tuesday, September 29, 2026, during Sibos Miami 2026 at The Bass Art Museum, located just minutes from the Convention Center, for Opening Bell: Institutional Breakfast: Unlocking Velocity in Trade & Payments, from 7:30AM to 9:30 AM.
 
-Presented by Contour (https://www.contour.network/), powered by XDC Network (https://xdc.tech/?utm_source=luma), and hosted by Agentic Day and Miami Fintech Club, this private, invitation-only morning will bring together leaders from across global trade, payments, and institutional finance.
+[Presented by Contour](https://www.contour.network/), [powered by XDC Network](https://xdc.tech/?utm_source=luma), and hosted by Agentic Day and Miami Fintech Club, this private, invitation-only morning will bring together leaders from across global trade, payments, and institutional finance.
 
 ### About This Morning
 
@@ -56220,9 +56192,9 @@ Further speakers to be announced.
 
 ### Media Partner
 
-FF News | Fintech Finance (https://ffnews.com/)
+[FF News | Fintech Finance](https://ffnews.com/)
 
-Yellow (https://yellow.com)
+[Yellow](https://yellow.com)
 
 Who's in the Room
 
@@ -56249,9 +56221,9 @@ Interested in becoming a speaker or co-host lalla@helloagentic.ai
 
 ### About the event
 
-The Big Whale (https://www.thebigwhale.io/) is the leading Market Intelligence provider on Digital Assets, serving 150+ institutional & corporate clients across banks, asset managers, fintechs and digital asset companies.
+[The Big Whale](https://www.thebigwhale.io/) is the leading Market Intelligence provider on Digital Assets, serving 150+ institutional & corporate clients across banks, asset managers, fintechs and digital asset companies.
 
-Join TBW (https://www.thebigwhale.io/), Payward Services (https://www.payward.com/payward-services), DFNS (https://dfns.co/), 21X (https://21x.eu/), Société Générale Forge (https://www.sgforge.com/), and BNP Paribas (https://group.bnpparibas/en/) (AssetFoundry) for an exclusive breakfast in Miami during Sibos!
+[Join TBW](https://www.thebigwhale.io/), [Payward Services](https://www.payward.com/payward-services), [DFNS](https://dfns.co/), 21X (https://21x.eu/), [Société Générale Forge](https://www.sgforge.com/), [and BNP Paribas](https://group.bnpparibas/en/) (AssetFoundry) for an exclusive breakfast in Miami during Sibos!
 
 The payments stack has been under pressure for years. Correspondent banking is expensive and slow. Cross-border rails remain opaque. And the promise of real-time, low-cost global transfers has largely stayed out of reach.
 
@@ -56259,20 +56231,20 @@ Blockchain infrastructure and stablecoins are now offering an alternative. Not a
 
 During this exclusive morning, we'll bring together banks, PSPs, trade finance players and fintechs to examine where this rebuild is already happening, what it takes to integrate blockchain and stablecoin infrastructure at scale, and who the real winners of the new payment stack will be.
 
-Thanks to Payward Services, SG Forge, 21X, BNP Paribas, and DFNS for making this event possible. Attending? Share your presence with a dedicated visual here! (https://breakfasts.thebigwhale.io/#miami-september29)
+Thanks to Payward Services, SG Forge, 21X, BNP Paribas, and DFNS for making this event possible. [Attending? Share your presence with a dedicated visual here!](https://breakfasts.thebigwhale.io/#miami-september29)
 
 8:30AM - Welcome coffee & croissants
 
 9:00AM - "Stablecoins in Practice: Where They Actually Move Money Today"
 
-- Stéphanie Cabossioras, Chief Strategy at Société Générale Forge (https://www.sgforge.com/)
-- Clarisse Hagège, Founder & CEO at DFNS (https://dfns.co/)
-- Mark Greenberg, Chief Commercial Officer at Payward Services (https://www.payward.com/)
+- Stéphanie [Cabossioras, Chief Strategy at Société Générale Forge](https://www.sgforge.com/)
+- [Clarisse Hagège, Founder & CEO at DFNS](https://dfns.co/)
+- [Mark Greenberg, Chief Commercial Officer at Payward Services](https://www.payward.com/)
 
 9:35AM - "Build or Buy: Should You Launch Your Own Stablecoin - or Just Use One?"
 
-- Marek Socha, MD Global Markets at 21X (https://21x.eu/)
-- Julien Clausse, Head of AssetFoundry at BNP Paribas (https://group.bnpparibas/en/)
+- [Marek Socha, MD Global Markets at 21X](https://21x.eu/)
+- [Julien Clausse, Head of AssetFoundry at BNP Paribas](https://group.bnpparibas/en/)
 
 9:50AM - Networking Session
 
@@ -56359,7 +56331,7 @@ Korea Blockchain Week(KBW) 2026 기간 중 개최되는 본 서밋은 리테일 
 
 > 문의: summit@superteamkr.com
 
-> 웹사이트: summit.superteamkr.com (https://summit.superteamkr.com)
+> 웹사이트: [summit.superteamkr.com](https://summit.superteamkr.com)
 
 ### Solana Summit is Coming To Korea 🇰🇷
 
@@ -56370,7 +56342,7 @@ Solana Summit Korea 2026 is a private, curated, and invitation-only conference d
 
 > Please note: Detailed location and entry instructions will be provided to approved ticket holders.
 
-Official Website (https://summit.superteamkr.com)
+[Official Website](https://summit.superteamkr.com)
 
 The defining institutional gathering shaping the future of stablecoins, regulatory frameworks, and capital markets in Korea.
 
@@ -56663,11 +56635,11 @@ The evening is limited to 100 guests to keep it at conversation scale. Registrat
 
 ### About the hosts
 
-OpenZeppelin (https://www.openzeppelin.com/) is the security standard for onchain finance. Since 2015, its industry-standard smart contracts library has powered $37 trillion in value transferred, alongside 900+ security engagements for leading institutions, blockchain networks, and protocols including DTCC, Fidelity Digital Assets, WisdomTree, Aave, the Canton Foundation and the Ethereum Foundation. Learn more at openzeppelin.com (https://openzeppelin.com).
+[OpenZeppelin](https://www.openzeppelin.com/) is the security standard for onchain finance. Since 2015, its industry-standard smart contracts library has powered $37 trillion in value transferred, alongside 900+ security engagements for leading institutions, blockchain networks, and protocols including DTCC, Fidelity Digital Assets, WisdomTree, Aave, the Canton Foundation [and the Ethereum Foundation. Learn more at openzeppelin.com](https://openzeppelin.com).
 
-WisdomTree (https://www.wisdomtree.com/corporate) is a global financial innovator offering a diverse suite of exchange-traded products, models, digital assets, and solutions. A pioneer in bringing regulated tokenized funds to market, WisdomTree is building the bridge between traditional asset management and onchain finance.
+[WisdomTree](https://www.wisdomtree.com/corporate) is a global financial innovator offering a diverse suite of exchange-traded products, models, digital assets, and solutions. A pioneer in bringing regulated tokenized funds to market, WisdomTree is building the bridge between traditional asset management and onchain finance.
 
-Dfns (http://dfns.co/?utm_source=luma) is the leading Wallets-as-a-Service (WaaS) platform to manage digital asset operations and build applications onchain. Dfns is trusted by over 400 fintechs and financial institutions, including Circle, Stripe, First Abu Dhabi Bank, Standard Chartered Bank, Apex, Susquehanna, MoonPay, Fidelity, and many others.
+[Dfns](http://dfns.co/?utm_source=luma) is the leading Wallets-as-a-Service (WaaS) platform to manage digital asset operations and build applications onchain. Dfns is trusted by over 400 fintechs and financial institutions, including Circle, Stripe, First Abu Dhabi Bank, Standard Chartered Bank, Apex, Susquehanna, MoonPay, Fidelity, and many others.
 
 Event Photography
 
@@ -56777,7 +56749,7 @@ Speaker:
 - John Cahill, COO Asia, Galaxy Digital
 - Charles Jansen, Managing Director, DeFi and Digital Assets, S&P Global
 - Henson Orser, Founder & CEO, Soter Insure
-- Mike Silagadze, Founder & CEO, Ether.fi (https://Ether.fi)
+- [Mike Silagadze, Founder & CEO, Ether.fi](https://Ether.fi)
 
 14:25 - 14:55 - Roundtable: Welcome to the Trillion-Dollar Agentic Economy
 
@@ -56807,7 +56779,7 @@ Speaker:
 
 Speaker:
 
-- Andrey Fedorov, CMO & CBDO, Ston.fi (https://Ston.fi)
+- [Andrey Fedorov, CMO & CBDO, Ston.fi](https://Ston.fi)
 
 16:30 - 17:10 - Panel: Agentic AI: Infrastructure, Payments, and the Future of the Agentic Economy
 
@@ -56832,7 +56804,7 @@ Speaker:
 
 ### Community Partners
 
-Coineasy (https://www.coineasy.xyz/?utm_source=luma) (Korea Community Lead) Akindo (https://akindo.io/?utm_source=luma) Four pillars (https://4pillars.io/en?utm_source=luma) Cryptojobs (https://cryptojobslist.com/)
+[Coineasy](https://www.coineasy.xyz/?utm_source=luma) (Korea Community Lead) [Akindo](https://akindo.io/?utm_source=luma) [Four pillars](https://4pillars.io/en?utm_source=luma) [Cryptojobs](https://cryptojobslist.com/)
 
 ### Travel Partner
 
@@ -56840,17 +56812,17 @@ Coineasy (https://www.coineasy.xyz/?utm_source=luma) (Korea Community Lead) Akin
 
 ### Official PR Partner
 
-(https://x.com/ventures_bd?utm_source=luma)Market Across (https://marketacross.com/?utm_source=luma)
+(https://x.com/ventures_bd?utm_source=luma)[Market Across](https://marketacross.com/?utm_source=luma)
 
 ### Media Partners
 
-Pivot (https://pivotintelligence.com/) BD GEMX (https://x.com/BD_GemX?utm_source=luma) BD Ventures (https://x.com/ventures_bd?utm_source=luma) Block Media (https://www.blockmedia.co.kr/) Coin68 (https://coin68.com/)
+[Pivot](https://pivotintelligence.com/) [BD GEMX](https://x.com/BD_GemX?utm_source=luma) [BD Ventures](https://x.com/ventures_bd?utm_source=luma) [Block Media](https://www.blockmedia.co.kr/) [Coin68](https://coin68.com/)
 
-(https://x.com/ventures_bd?utm_source=luma)Mira (https://miragather.com/?utm_source=luma) ㅤ Cointelegraph (https://cointelegraph.com/?utm_source=luma)ㅤ Cryptopolitan (https://www.cryptopolitan.com/) ㅤ Finbold (https://finbold.com/?utm_source=luma)
+(https://x.com/ventures_bd?utm_source=luma)[Mira](https://miragather.com/?utm_source=luma) ㅤ [Cointelegraph](https://cointelegraph.com/?utm_source=luma)ㅤ [Cryptopolitan](https://www.cryptopolitan.com/) ㅤ [Finbold](https://finbold.com/?utm_source=luma)
 
-Foresight News (https://global.foresightnews.pro/?utm_source=luma) TokenPost (https://www.tokenpost.com/) EAK (https://eakdigital.com/) Coin Gabbar (http://CoinGabbar.com)
+[Foresight News](https://global.foresightnews.pro/?utm_source=luma) [TokenPost](https://www.tokenpost.com/) [EAK](https://eakdigital.com/) [Coin Gabbar](http://CoinGabbar.com)
 
-Blockchain Reporter (https://blockchainreporter.net/?utm_source=luma) ㅤ Feixiaohao (https://www.feixiaohao.ai/) ㅤ Coin Gape (https://coingape.com/)
+[Blockchain Reporter](https://blockchainreporter.net/?utm_source=luma) ㅤ [Feixiaohao](https://www.feixiaohao.ai/) ㅤ [Coin Gape](https://coingape.com/)
 
 Previous editions of the Hack Seasons Events:
 
@@ -56930,7 +56902,7 @@ Educational and community purposes only. Not investment advice.
 
 ### About the event
 
-Lisbon has always been a city for the people who explore and build. Following that same spirit, INPUT, Paybis and nSureAI (https://Nsure.ai) are bringing together the founders, investors and operators reshaping iGaming and payments, for an evening in Alfama, the oldest neighbourhood in Lisbon.
+Lisbon has always been a city for the people who explore and [build. Following that same spirit, INPUT, Paybis and nSureAI](https://Nsure.ai) are bringing together the founders, investors and operators reshaping iGaming and payments, for an evening in Alfama, the oldest neighbourhood in Lisbon.
 
 October 1st, at La Distillerie, a 19th century distillery at the heart of the neighbourhood. Music, Portuguese wine, and the kind of company worth writing home about.
 
@@ -56955,9 +56927,9 @@ In 2026, Paybis was recognized as the Best Crypto Payment Provider, a testament 
 
 Processing more than $6bn annually, Paybis is one of the most efficient platforms for acquiring and transacting in digital assets. This commitment to operational excellence is why Paybis maintains one of the highest ratings for crypto companies on Trustpilot, and why 7 million users and hundreds of the world's fastest-growing enterprises consistently rely on our services.
 
-X (https://x.com/paybis?utm_source=luma) | LinkedIn (https://www.linkedin.com/company/paybis/?utm_source=luma) | Website (https://paybis.com/business/on-off-ramp/?utm_source=luma) | YouTube (https://www.youtube.com/@Paybis/videos?utm_source=luma)
+[X](https://x.com/paybis?utm_source=luma) | [LinkedIn](https://www.linkedin.com/company/paybis/?utm_source=luma) | [Website](https://paybis.com/business/on-off-ramp/?utm_source=luma) | [YouTube](https://www.youtube.com/@Paybis/videos?utm_source=luma)
 
-Co-hosted by nSureAI (https://www.nsure.ai/?utm_source=luma)
+[Co-hosted by nSureAI](https://www.nsure.ai/?utm_source=luma)
 
 nSureAI is an AI-native payment fraud prevention solution that turns risk management into a scalable growth engine. It serves crypto exchanges, digital asset platforms, fintechs, stablecoin PSPs, remittance providers, iGaming operators, and prepaid platforms (incl. gift cards), empowering high-risk merchants to maximize net incremental profit by removing payment friction and false declines.
 
@@ -56965,7 +56937,7 @@ Instead of static rules or shared pooled models,nSureAI builds a dedicated AI mo
 
 Processing over $200B in annual volume, nSureAIis one of the most scalable fraud engines in digital commerce. Rendering decisions under 500ms and handling peak volumes of $80M/hr, nSureAI's operational excellence has driven 3x YoY growth while safeguarding leading global enterprises.
 
-LinkedIn (https://www.linkedin.com/company/nsureai/about/?utm_source=luma) | Website (https://www.nsure.ai/?utm_source=luma)
+[LinkedIn](https://www.linkedin.com/company/nsureai/about/?utm_source=luma) | [Website](https://www.nsure.ai/?utm_source=luma)
 
 Powered by INPUT Global
 
@@ -56982,9 +56954,9 @@ Our work spans the Americas, Europe and MENA, with experience across 500+ compan
 
 90% of our clients stay with us year after year.
 
-Join INPUT Offstage (https://t.me/+3XURWkx0QXE2MDRk) on Telegram for event and speaking opportunities, media updates, webinars and streams, unreleased KNOWN podcast content, and conversations across our global network.
+[Join INPUT Offstage](https://t.me/+3XURWkx0QXE2MDRk) on Telegram for event and speaking opportunities, media updates, webinars and streams, unreleased KNOWN podcast content, and conversations across our global network.
 
-X (https://x.com/INPUT_global?utm_source=luma) | LinkedIn (https://www.linkedin.com/company/inputglobal/?utm_source=luma) | Website (https://input.global/?utm_source=luma) | Telegram (https://t.me/+3XURWkx0QXE2MDRk)
+[X](https://x.com/INPUT_global?utm_source=luma) | [LinkedIn](https://www.linkedin.com/company/inputglobal/?utm_source=luma) | [Website](https://input.global/?utm_source=luma) | [Telegram](https://t.me/+3XURWkx0QXE2MDRk)
 
 <a id="event-2c89ecb5ccae5e2f"></a>
 
@@ -57109,7 +57081,7 @@ DM for partnerships and sponsorships @Jay_Koh
 
 ### Hosted by
 
-A decentralized platform that leverages Insight Genesis AI (https://insightgenesis.ai/)technology for remote video and voice-based for personality, wellness, career, education, financial and health risk assessments and psychometric testing.
+[A decentralized platform that leverages Insight Genesis AI](https://insightgenesis.ai/)technology for remote video and voice-based for personality, wellness, career, education, financial and health risk assessments and psychometric testing.
 
 By combining the principles of Web 3.0 with AI-powered health analytics, we create a community-driven ecosystem where users can earn, contribute, and engage with behavior data in a privacy-focused, transparent manner.
 
@@ -57179,9 +57151,9 @@ Please note that entry will be granted only to ticketed guests, and tickets are 
 
 Stay in the loop for what's happening at CoinFerenceX The Best Event Singapore! Join our Telegram group for all the latest updates https://t.me/+5KzXYg2cridmOGRl
 
-For sponsor inquiries, please contact Mihir via email or Telegram (https://t.me/mihirohdrani).
+For [sponsor inquiries, please contact Mihir via email or Telegram](https://t.me/mihirohdrani).
 
-Follow The Best Event on Instagram for event information, recaps, features, and giveaways https://instagram.com/ (https://instagram.com/_thebestevent)thebestevent (https://instagram.com/thebestevent)
+Follow The Best Event on Instagram for event information, [recaps, features, and giveaways https://instagram.com/](https://instagram.com/_thebestevent)[thebestevent](https://instagram.com/thebestevent)
 
 ### CoinFerenceX The Best Event Singapore
 
@@ -57206,17 +57178,17 @@ This is where partnerships start, ideas move forward, and visibility turns into 
 
 ### Hosted by
 
-CoinFerenceX (https://coinferencex.com) is the Web3 conference series known for curating high-signal gatherings of founders, investors, and builders. Partners help shape the agenda itself rather than simply buying booth space and a speaking slot.
+[CoinFerenceX](https://coinferencex.com) is the Web3 conference series known for curating high-signal gatherings of founders, investors, and builders. Partners help shape the agenda itself rather than simply buying booth space and a speaking slot.
 
-The Best Event (https://thebestevent.com) is the global series where Web3 comes to life, blending culture, tech, music, and community in iconic venues around the world. TBE brings together the boldest creators, top brands, and visionaries shaping the future for unforgettable, high-energy experiences.
+[The Best Event](https://thebestevent.com) is the global series where Web3 comes to life, blending culture, tech, music, and community in iconic venues around the world. TBE brings together the boldest creators, top brands, and visionaries shaping the future for unforgettable, high-energy experiences.
 
 ### Partners
 
-TBV (https://tbv.xyz) (TB Ventures) is a VC fund focused on leading rounds in early-stage web3 companies in South East Asia and North America. TBV is supported by TBE (TB Events) and TBA (TB Advisory), creating a network of services underpinned by a 100k+ social following and 10k+ active TG community.
+[TBV](https://tbv.xyz) (TB Ventures) is a VC fund focused on leading rounds in early-stage web3 companies in South East Asia and North America. TBV is supported by TBE (TB Events) and TBA (TB Advisory), creating a network of services underpinned by a 100k+ social following and 10k+ active TG community.
 
 ### Media Partners
 
-MarketAcross (https://marketacross.com) is the world's leading PR firm in Web3, with clients such as Binance, Crypto.com (https://Crypto.com), dYdX, KuCoin & Cardano.
+[MarketAcross](https://marketacross.com) is the world's leading [PR firm in Web3, with clients such as Binance, Crypto.com](https://Crypto.com), dYdX, KuCoin & Cardano.
 
 <a id="event-c666484d94174426"></a>
 
@@ -57289,12 +57261,12 @@ The future of AI isn't waiting for permission. It already left the ground.
 
 ### About Zero Gravity (0G)
 
-0G is the blockchain for AI agents. Modular storage, compute, data availability, and an AI-first chain in one stack. Every AI action verified onchain. Build your first AI agent app in minutes. (https://app.0g.ai/?utm_source=luma)
+0G is the blockchain for AI agents. Modular storage, compute, data availability, and an AI-first chain in one stack. Every AI action [verified onchain. Build your first AI agent app in minutes.](https://app.0g.ai/?utm_source=luma)
 
-- Website (https://0g.ai/?utm_source=luma)
+- [Website](https://0g.ai/?utm_source=luma)
 - (https://emojipedia.org/cross-mark?utm_source=luma) X (Twitter) (https://x.com/0G_labs?utm_source=luma)
-- Discord (https://discord.com/invite/0glabs?utm_source=luma)
-- Telegram (https://t.me/web3_0glabs?utm_source=luma)
+- [Discord](https://discord.com/invite/0glabs?utm_source=luma)
+- [Telegram](https://t.me/web3_0glabs?utm_source=luma)
 
 <a id="event-14dc96dc93358928"></a>
 
@@ -57334,9 +57306,9 @@ Hosted by UVECON.VC, Joao Raza. The event takes place on October 5. Registration
 
 Stay in the loop for what's happening at CoinFerenceX The Best Event Singapore! Join our Telegram group for all the latest updates https://t.me/+5KzXYg2cridmOGRl
 
-For sponsor inquiries, please contact Mihir via email or Telegram (https://t.me/mihirohdrani).
+For [sponsor inquiries, please contact Mihir via email or Telegram](https://t.me/mihirohdrani).
 
-Follow The Best Event on Instagram for event information, recaps, features, and giveaways https://instagram.com/ (https://instagram.com/_thebestevent)thebestevent (https://instagram.com/thebestevent)
+Follow The Best Event on Instagram for event information, [recaps, features, and giveaways https://instagram.com/](https://instagram.com/_thebestevent)[thebestevent](https://instagram.com/thebestevent)
 
 ### CoinFerenceX The Best Event Singapore
 
@@ -57361,17 +57333,17 @@ This is where partnerships start, ideas move forward, and visibility turns into 
 
 ### Hosted by
 
-CoinFerenceX (https://coinferencex.com) is the Web3 conference series known for curating high-signal gatherings of founders, investors, and builders. Partners help shape the agenda itself rather than simply buying booth space and a speaking slot.
+[CoinFerenceX](https://coinferencex.com) is the Web3 conference series known for curating high-signal gatherings of founders, investors, and builders. Partners help shape the agenda itself rather than simply buying booth space and a speaking slot.
 
-The Best Event (https://thebestevent.com) is the global series where Web3 comes to life, blending culture, tech, music, and community in iconic venues around the world. TBE brings together the boldest creators, top brands, and visionaries shaping the future for unforgettable, high-energy experiences.
+[The Best Event](https://thebestevent.com) is the global series where Web3 comes to life, blending culture, tech, music, and community in iconic venues around the world. TBE brings together the boldest creators, top brands, and visionaries shaping the future for unforgettable, high-energy experiences.
 
 ### Partners
 
-TBV (https://tbv.xyz) (TB Ventures) is a VC fund focused on leading rounds in early-stage web3 companies in South East Asia and North America. TBV is supported by TBE (TB Events) and TBA (TB Advisory), creating a network of services underpinned by a 100k+ social following and 10k+ active TG community.
+[TBV](https://tbv.xyz) (TB Ventures) is a VC fund focused on leading rounds in early-stage web3 companies in South East Asia and North America. TBV is supported by TBE (TB Events) and TBA (TB Advisory), creating a network of services underpinned by a 100k+ social following and 10k+ active TG community.
 
 ### Media Partners
 
-MarketAcross (https://marketacross.com) is the world's leading PR firm in Web3, with clients such as Binance, Crypto.com (https://Crypto.com), dYdX, KuCoin & Cardano.
+[MarketAcross](https://marketacross.com) is the world's leading [PR firm in Web3, with clients such as Binance, Crypto.com](https://Crypto.com), dYdX, KuCoin & Cardano.
 
 <a id="event-f713f0f9959b34ec"></a>
 
@@ -57387,9 +57359,9 @@ MarketAcross (https://marketacross.com) is the world's leading PR firm in Web3, 
 
 Stay in the loop for what's happening at CoinFerenceX The Best Event Singapore! Join our Telegram group for all the latest updates https://t.me/+5KzXYg2cridmOGRl
 
-For sponsor inquiries, please contact Mihir via email or Telegram (https://t.me/mihirohdrani).
+For [sponsor inquiries, please contact Mihir via email or Telegram](https://t.me/mihirohdrani).
 
-Follow The Best Event on Instagram for event information, recaps, features, and giveaways https://instagram.com/ (https://instagram.com/_thebestevent)thebestevent (https://instagram.com/thebestevent)
+Follow The Best Event on Instagram for event information, [recaps, features, and giveaways https://instagram.com/](https://instagram.com/_thebestevent)[thebestevent](https://instagram.com/thebestevent)
 
 ### CoinFerenceX The Best Event Singapore
 
@@ -57414,17 +57386,17 @@ This is where partnerships start, ideas move forward, and visibility turns into 
 
 ### Hosted by
 
-CoinFerenceX (https://coinferencex.com) is the Web3 conference series known for curating high-signal gatherings of founders, investors, and builders. Partners help shape the agenda itself rather than simply buying booth space and a speaking slot.
+[CoinFerenceX](https://coinferencex.com) is the Web3 conference series known for curating high-signal gatherings of founders, investors, and builders. Partners help shape the agenda itself rather than simply buying booth space and a speaking slot.
 
-The Best Event (https://thebestevent.com) is the global series where Web3 comes to life, blending culture, tech, music, and community in iconic venues around the world. TBE brings together the boldest creators, top brands, and visionaries shaping the future for unforgettable, high-energy experiences.
+[The Best Event](https://thebestevent.com) is the global series where Web3 comes to life, blending culture, tech, music, and community in iconic venues around the world. TBE brings together the boldest creators, top brands, and visionaries shaping the future for unforgettable, high-energy experiences.
 
 ### Partners
 
-TBV (https://tbv.xyz) (TB Ventures) is a VC fund focused on leading rounds in early-stage web3 companies in South East Asia and North America. TBV is supported by TBE (TB Events) and TBA (TB Advisory), creating a network of services underpinned by a 100k+ social following and 10k+ active TG community.
+[TBV](https://tbv.xyz) (TB Ventures) is a VC fund focused on leading rounds in early-stage web3 companies in South East Asia and North America. TBV is supported by TBE (TB Events) and TBA (TB Advisory), creating a network of services underpinned by a 100k+ social following and 10k+ active TG community.
 
 ### Media Partners
 
-MarketAcross (https://marketacross.com) is the world's leading PR firm in Web3, with clients such as Binance, Crypto.com (https://Crypto.com), dYdX, KuCoin & Cardano.
+[MarketAcross](https://marketacross.com) is the world's leading [PR firm in Web3, with clients such as Binance, Crypto.com](https://Crypto.com), dYdX, KuCoin & Cardano.
 
 <a id="event-52ce252bee3a25ea"></a>
 
@@ -57520,7 +57492,7 @@ Stay in the loop for what's happening at The Best Event!
 
 Join our Telegram group for all the updates https://t.me/+5KzXYg2cridmOGRl
 
-For sponsor inquiries, please contact Mihir via email (http://mailto:mihir@tbv.xyz/) or Telegram (https://t.me/mihirodhrani).
+[For sponsor inquiries, please contact Mihir via email](http://mailto:mihir@tbv.xyz/) [or Telegram](https://t.me/mihirodhrani).
 
 Follow The Best Event on Instagram for event information, recaps, features, and giveaways https://instagram.com/thebestevent
 
@@ -57556,37 +57528,37 @@ Partner with us and be seen where it matters.
 
 ### Hosted by
 
-The Best Event (https://www.instagram.com/_thebestevent/) is the global series where Web3 comes to life - blending culture, tech, music, and community in iconic venues around the world. We bring together the boldest creators, top brands, and visionaries shaping the future for unforgettable, high-energy experiences.
+[The Best Event](https://www.instagram.com/_thebestevent/) is the global series where Web3 comes to life - blending culture, tech, music, and community in iconic venues around the world. We bring together the boldest creators, top brands, and visionaries shaping the future for unforgettable, high-energy experiences.
 
-TBV (http://www.tbv.xyz/) (TB Ventures) is a VC fund focused on leading rounds in early-stage web3 companies in Southeast Asia and North America. TBV is supported by TBE (TB Events) and TBA (TB Advisory), creating a network of services that are underpinned by a 100k+ social following and 10k+ active TG community.
+[TBV](http://www.tbv.xyz/) (TB Ventures) is a VC fund focused on leading rounds in early-stage web3 companies in Southeast Asia and North America. TBV is supported by TBE (TB Events) and TBA (TB Advisory), creating a network of services that are underpinned by a 100k+ social following and 10k+ active TG community.
 
 ### Supported by
 
-HIFI (https://hifi.com) is a composable API platform for teams who move money at scale. From two-person startups to Fortune 100s - move, convert, route, and compile value across stablecoins and bank rails.
+[HIFI](https://hifi.com) is a composable API platform for teams who move money at scale. From two-person startups to Fortune 100s - move, convert, route, and compile value across stablecoins and bank rails.
 
-Golden Ratio Group (https://goldenratiogroup.co/) is a European-focused, MiCA-aligned ecosystem bridging traditional finance and digital assets through instant trading, borderless payments, and tokenized real-world assets.
+[Golden Ratio Group](https://goldenratiogroup.co/) is a European-focused, MiCA-aligned ecosystem bridging traditional finance and digital assets through instant trading, borderless payments, and tokenized real-world assets.
 
-Brickken (http://www.brickken.com/?referrer=luma) is an institutional-grade software provider delivering end-to-end infrastructure for the compliant tokenization and management of real-world assets (RWA).
+[Brickken](http://www.brickken.com/?referrer=luma) is an institutional-grade software provider delivering end-to-end infrastructure for the compliant tokenization and management of real-world assets (RWA).
 
 ### KOL Awards Ceremony by
 
-Toobit (https://www.toobit.com) is the award-winning global cryptocurrency exchange offering spot, futures, TradFi, AI trading tools, copy trading, and on-chain trading solutions. Built for traders of all experience levels, Toobit combines deep liquidity, advanced trading infrastructure, and its proprietary Bee-Safe security tech across digital asset markets.
+[Toobit](https://www.toobit.com) is the award-winning global cryptocurrency exchange offering spot, futures, TradFi, AI trading tools, copy trading, and on-chain trading solutions. Built for traders of all experience levels, Toobit combines deep liquidity, advanced trading infrastructure, and its proprietary Bee-Safe security tech across digital asset markets.
 
 ### Media Partners
 
-MarketAcross (https://marketacross.com) is the world's leading PR firm in Web3, with clients such as Binance, Crypto.com (https://Crypto.com), dYdX, KuCoin & Cardano.
+[MarketAcross](https://marketacross.com) is the world's leading [PR firm in Web3, with clients such as Binance, Crypto.com](https://Crypto.com), dYdX, KuCoin & Cardano.
 
-EAK Digital (https://eakdigital.com/)is an award-winning global Web3 communications and marketing agency specialising in strategic communications, public relations, influencer marketing, brand development and live experiences.
+[EAK Digital](https://eakdigital.com/)is an award-winning global Web3 communications and marketing agency specialising in strategic communications, public relations, influencer marketing, brand development and live experiences.
 
-Arcadia (http://www.arcadiamarketing.io/) is the #1 Web3 advisory company with a $50B FDV. They specialize in propelling Web3 brands to new heights and have delivered unparalleled marketing strategies to industry heavyweights, including Polymarket, Hedera, and Shiba Inu.
+[Arcadia](http://www.arcadiamarketing.io/) is the #1 Web3 advisory company with a $50B FDV. They specialize in propelling Web3 brands to new heights and have delivered unparalleled marketing strategies to industry heavyweights, including Polymarket, Hedera, and Shiba Inu.
 
-Genius PR (https://geniuspr.com/)is a global media agency that helps Web2 and Web3 companies build credibility and awareness through the press and growth hacking.
+[Genius PR](https://geniuspr.com/)is a global media agency that helps Web2 and Web3 companies build credibility and awareness through the press and growth hacking.
 
-Pukecast (https://pukecast.com/) is Asia's new media platform, curating content through education, experiences & community across 6 countries in Asia.
+[Pukecast](https://pukecast.com/) is Asia's new media platform, curating content through education, experiences & community across 6 countries in Asia.
 
-Genzio (https://www.genzio.co/), drives measurable growth for innovative brands. They're committed to delivering practical, results-driven marketing solutions that position your brand to succeed and lead in the ever-changing digital landscape.
+[Genzio](https://www.genzio.co/), drives measurable growth for innovative brands. They're committed to delivering practical, results-driven marketing solutions that position your brand to succeed and lead in the ever-changing digital landscape.
 
-Block Tides (https://blocktides.com/) - A dynamic force ecosystem blends creativity and enchantment with quantifiable growth and concrete achievements.
+[Block Tides](https://blocktides.com/) - A dynamic force ecosystem blends creativity and enchantment with quantifiable growth and concrete achievements.
 
 More to be announced!
 
@@ -57698,13 +57670,13 @@ Please select the session that best fits your schedule:
 
 Day 1 - 5 October 2026 (Monday)
 
-Session 1 - 7pm to 9pm (https://luma.com/ui1o451m)
+[Session 1 - 7pm to 9pm](https://luma.com/ui1o451m)
 
-Session 2 - 9pm to 11pm (https://luma.com/39pgfndd)
+[Session 2 - 9pm to 11pm](https://luma.com/39pgfndd)
 
 Day 2 - 8 October 2026 (Thursday)
 
-Session 1 - 8pm to 11pm (https://luma.com/ra4c4h0t)
+[Session 1 - 8pm to 11pm](https://luma.com/ra4c4h0t)
 
 <a id="event-60d5fe3f38af0167"></a>
 
@@ -57791,11 +57763,11 @@ No luck. No shortcuts. Just performance.
 
 Enter the battle:
 
-https://game.tradingbattles.com/join/298 (https://game.tradingbattles.com/join/298?autojoin=true)
+[https://game.tradingbattles.com/join/298](https://game.tradingbattles.com/join/298?autojoin=true)
 
 _________________
 
-www.tradingbattles.com (https://www.tradingbattles.com)
+[www.tradingbattles.com](https://www.tradingbattles.com)
 
 Trading Battles is the infrastructure layer for 24/7 competitive trading, transforming trading into a new category of esports.
 
@@ -57854,11 +57826,11 @@ No luck. No shortcuts. Just performance.
 
 Enter the battle:
 
-https://game.tradingbattles.com/join/298 (https://game.tradingbattles.com/join/298?autojoin=true)
+[https://game.tradingbattles.com/join/298](https://game.tradingbattles.com/join/298?autojoin=true)
 
 _________________
 
-www.tradingbattles.com (https://www.tradingbattles.com)
+[www.tradingbattles.com](https://www.tradingbattles.com)
 
 Trading Battles is the infrastructure layer for 24/7 competitive trading, transforming trading into a new category of esports.
 
@@ -57917,11 +57889,11 @@ No luck. No shortcuts. Just performance.
 
 Enter the battle:
 
-https://game.tradingbattles.com/join/298 (https://game.tradingbattles.com/join/298?autojoin=true)
+[https://game.tradingbattles.com/join/298](https://game.tradingbattles.com/join/298?autojoin=true)
 
 _________________
 
-www.tradingbattles.com (https://www.tradingbattles.com)
+[www.tradingbattles.com](https://www.tradingbattles.com)
 
 Trading Battles is the infrastructure layer for 24/7 competitive trading, transforming trading into a new category of esports.
 
@@ -57980,11 +57952,11 @@ No luck. No shortcuts. Just performance.
 
 Enter the battle:
 
-https://game.tradingbattles.com/join/298 (https://game.tradingbattles.com/join/298?autojoin=true)
+[https://game.tradingbattles.com/join/298](https://game.tradingbattles.com/join/298?autojoin=true)
 
 _________________
 
-www.tradingbattles.com (https://www.tradingbattles.com)
+[www.tradingbattles.com](https://www.tradingbattles.com)
 
 Trading Battles is the infrastructure layer for 24/7 competitive trading, transforming trading into a new category of esports.
 
@@ -58043,11 +58015,11 @@ No luck. No shortcuts. Just performance.
 
 Enter the battle:
 
-https://game.tradingbattles.com/join/298 (https://game.tradingbattles.com/join/298?autojoin=true)
+[https://game.tradingbattles.com/join/298](https://game.tradingbattles.com/join/298?autojoin=true)
 
 _________________
 
-www.tradingbattles.com (https://www.tradingbattles.com)
+[www.tradingbattles.com](https://www.tradingbattles.com)
 
 Trading Battles is the infrastructure layer for 24/7 competitive trading, transforming trading into a new category of esports.
 
@@ -58106,11 +58078,11 @@ No luck. No shortcuts. Just performance.
 
 Enter the battle:
 
-https://game.tradingbattles.com/join/298 (https://game.tradingbattles.com/join/298?autojoin=true)
+[https://game.tradingbattles.com/join/298](https://game.tradingbattles.com/join/298?autojoin=true)
 
 _________________
 
-www.tradingbattles.com (https://www.tradingbattles.com)
+[www.tradingbattles.com](https://www.tradingbattles.com)
 
 Trading Battles is the infrastructure layer for 24/7 competitive trading, transforming trading into a new category of esports.
 
@@ -58150,13 +58122,13 @@ Here are the details:
 
 We run 5-7km, stopping every 1-3 km to wait for the group (and do a workout or two while we wait). We're meeting on a public walking trail, no place to leave your things while we run (leave them at home!).
 
-Bankless Ventures (https://twitter.com/banklessvc?utm_source=luma) is an early-stage fund to empower pioneers to explore the frontier of tech
+[Bankless Ventures](https://twitter.com/banklessvc?utm_source=luma) is an early-stage fund to empower pioneers to explore the frontier of tech
 
-If you want to invest in Bankless Ventures, you can submit an interest form as a Limited Partner (LP) here. (https://forms.gle/6y1fvArxc3Ek3aWj8?utm_source=luma)
+If you want to invest in Bankless Ventures, you can submit an interest form as a Limited Partner (LP) [here.](https://forms.gle/6y1fvArxc3Ek3aWj8?utm_source=luma)
 
-If you're a startup that wants to be reviewed by our investment team, show us what you're building here. (https://forms.gle/trJtadR5rcBLzT3j8?utm_source=luma)
+If you're a startup that wants to be reviewed [by our investment team, show us what you're building here.](https://forms.gle/trJtadR5rcBLzT3j8?utm_source=luma)
 
-Updates → https:/ (http://twitter.com/benlakoff?utm_source=luma)/benlakoff (http://twitter.com/benlakoff?utm_source=luma)
+[Updates → https:/](http://twitter.com/benlakoff?utm_source=luma)/[benlakoff](http://twitter.com/benlakoff?utm_source=luma)
 
 <a id="event-679b7f1ed9a1949b"></a>
 
@@ -58172,9 +58144,9 @@ Updates → https:/ (http://twitter.com/benlakoff?utm_source=luma)/benlakoff (ht
 
 Stay in the loop for what's happening at CoinFerenceX The Best Event Singapore! Join our Telegram group for all the latest updates https://t.me/+5KzXYg2cridmOGRl
 
-For sponsor inquiries, please contact Mihir via email or Telegram (https://t.me/mihirohdrani).
+For [sponsor inquiries, please contact Mihir via email or Telegram](https://t.me/mihirohdrani).
 
-Follow The Best Event on Instagram for event information, recaps, features, and giveaways https://instagram.com/ (https://instagram.com/_thebestevent)thebestevent (https://instagram.com/thebestevent)
+Follow The Best Event on Instagram for event information, [recaps, features, and giveaways https://instagram.com/](https://instagram.com/_thebestevent)[thebestevent](https://instagram.com/thebestevent)
 
 ### CoinFerenceX The Best Event Singapore
 
@@ -58199,17 +58171,17 @@ This is where partnerships start, ideas move forward, and visibility turns into 
 
 ### Hosted by
 
-CoinFerenceX (https://coinferencex.com) is the Web3 conference series known for curating high-signal gatherings of founders, investors, and builders. Partners help shape the agenda itself rather than simply buying booth space and a speaking slot.
+[CoinFerenceX](https://coinferencex.com) is the Web3 conference series known for curating high-signal gatherings of founders, investors, and builders. Partners help shape the agenda itself rather than simply buying booth space and a speaking slot.
 
-The Best Event (https://thebestevent.com) is the global series where Web3 comes to life, blending culture, tech, music, and community in iconic venues around the world. TBE brings together the boldest creators, top brands, and visionaries shaping the future for unforgettable, high-energy experiences.
+[The Best Event](https://thebestevent.com) is the global series where Web3 comes to life, blending culture, tech, music, and community in iconic venues around the world. TBE brings together the boldest creators, top brands, and visionaries shaping the future for unforgettable, high-energy experiences.
 
 ### Partners
 
-TBV (https://tbv.xyz) (TB Ventures) is a VC fund focused on leading rounds in early-stage web3 companies in South East Asia and North America. TBV is supported by TBE (TB Events) and TBA (TB Advisory), creating a network of services underpinned by a 100k+ social following and 10k+ active TG community.
+[TBV](https://tbv.xyz) (TB Ventures) is a VC fund focused on leading rounds in early-stage web3 companies in South East Asia and North America. TBV is supported by TBE (TB Events) and TBA (TB Advisory), creating a network of services underpinned by a 100k+ social following and 10k+ active TG community.
 
 ### Media Partners
 
-MarketAcross (https://marketacross.com) is the world's leading PR firm in Web3, with clients such as Binance, Crypto.com (https://Crypto.com), dYdX, KuCoin & Cardano.
+[MarketAcross](https://marketacross.com) is the world's leading [PR firm in Web3, with clients such as Binance, Crypto.com](https://Crypto.com), dYdX, KuCoin & Cardano.
 
 <a id="event-2989377393cfa9a6"></a>
 
@@ -58223,7 +58195,7 @@ MarketAcross (https://marketacross.com) is the world's leading PR firm in Web3, 
 
 ### Speakers
 
-Full list of summit speakers can be found on the official event website (https://gammaprime.com/investing-summits/gammaprime-investing-summit-2026-singapore).
+Full list [of summit speakers can be found on the official event website](https://gammaprime.com/investing-summits/gammaprime-investing-summit-2026-singapore).
 
 ### Key numbers
 
@@ -58233,7 +58205,7 @@ Full list of summit speakers can be found on the official event website (https:/
 
 ### Key Event Partners
 
-Sui (https://www.sui.io/) is proud to co-host Gamma Prime Investing Summit 2026 in Singapore. On Oct 7-8, one day after the Summit wraps, Sui is hosting Sui Basecamp 2026 at Marina Bay Sands, alongside TOKEN2049.
+[Sui](https://www.sui.io/) is proud to co-host Gamma Prime Investing Summit 2026 in Singapore. On Oct 7-8, one day after the Summit wraps, Sui is hosting Sui Basecamp 2026 at Marina Bay Sands, alongside TOKEN2049.
 
 The next $5 trillion in transactions won't be humans. Sui Basecamp brings together founders, investors, and developers to explore the infrastructure the AI economy needs: agents that transact, negotiate, and own assets on their own, and what that means for capital allocators, family offices, and HNWIs.
 
@@ -58251,17 +58223,17 @@ WhatsApp: +41 76 446 29 00
 
 Email: i@gammaprime.com
 
-Telegram: Illia M (https://t.me/i_gmp)
+[Telegram: Illia M](https://t.me/i_gmp)
 
 ### Previous Gamma Prime Investing Summits
 
-> Summit 2025 in Abu Dhabi 🇦🇪 (https://www.youtube.com/watch?v=J561h_VYsc4)
+> [Summit 2025 in Abu Dhabi 🇦🇪](https://www.youtube.com/watch?v=J561h_VYsc4)
 
-> Summit 2025 in Singapore 🇸🇬 (https://www.youtube.com/watch?v=CeutQnugLcM)
+> [Summit 2025 in Singapore 🇸🇬](https://www.youtube.com/watch?v=CeutQnugLcM)
 
-> Summit 2025 in Denver (https://www.youtube.com/watch?v=I2rHWh4tk_g)🇺🇸 (https://www.youtube.com/watch?v=I2rHWh4tk_g)
+> [Summit 2025 in Denver](https://www.youtube.com/watch?v=I2rHWh4tk_g)🇺🇸 (https://www.youtube.com/watch?v=I2rHWh4tk_g)
 
-> Summit 2025 in Dubai (https://www.youtube.com/watch?v=xtUgcpVnYLM)🇦🇪 (https://www.youtube.com/watch?v=xtUgcpVnYLM)
+> [Summit 2025 in Dubai](https://www.youtube.com/watch?v=xtUgcpVnYLM)🇦🇪 (https://www.youtube.com/watch?v=xtUgcpVnYLM)
 
 <a id="event-8388ff17b1af76a8"></a>
 
@@ -58276,7 +58248,7 @@ Telegram: Illia M (https://t.me/i_gmp)
 
 ### Speakers
 
-Full list of summit speakers can be found on the official event website (https://gammaprime.com/investing-summits/gammaprime-investing-summit-2026-singapore).
+Full list [of summit speakers can be found on the official event website](https://gammaprime.com/investing-summits/gammaprime-investing-summit-2026-singapore).
 
 ### Key numbers
 
@@ -58286,7 +58258,7 @@ Full list of summit speakers can be found on the official event website (https:/
 
 ### Key Event Partners
 
-Sui (https://www.sui.io/) is proud to co-host Gamma Prime Investing Summit 2026 in Singapore. On Oct 7-8, one day after the Summit wraps, Sui is hosting Sui Basecamp 2026 at Marina Bay Sands, alongside TOKEN2049.
+[Sui](https://www.sui.io/) is proud to co-host Gamma Prime Investing Summit 2026 in Singapore. On Oct 7-8, one day after the Summit wraps, Sui is hosting Sui Basecamp 2026 at Marina Bay Sands, alongside TOKEN2049.
 
 The next $5 trillion in transactions won't be humans. Sui Basecamp brings together founders, investors, and developers to explore the infrastructure the AI economy needs: agents that transact, negotiate, and own assets on their own, and what that means for capital allocators, family offices, and HNWIs.
 
@@ -58304,17 +58276,17 @@ WhatsApp: +41 76 446 29 00
 
 Email: i@gammaprime.com
 
-Telegram: Illia M (https://t.me/i_gmp)
+[Telegram: Illia M](https://t.me/i_gmp)
 
 ### Previous Gamma Prime Investing Summits
 
-> Summit 2025 in Abu Dhabi 🇦🇪 (https://www.youtube.com/watch?v=J561h_VYsc4)
+> [Summit 2025 in Abu Dhabi 🇦🇪](https://www.youtube.com/watch?v=J561h_VYsc4)
 
-> Summit 2025 in Singapore 🇸🇬 (https://www.youtube.com/watch?v=CeutQnugLcM)
+> [Summit 2025 in Singapore 🇸🇬](https://www.youtube.com/watch?v=CeutQnugLcM)
 
-> Summit 2025 in Denver (https://www.youtube.com/watch?v=I2rHWh4tk_g)🇺🇸 (https://www.youtube.com/watch?v=I2rHWh4tk_g)
+> [Summit 2025 in Denver](https://www.youtube.com/watch?v=I2rHWh4tk_g)🇺🇸 (https://www.youtube.com/watch?v=I2rHWh4tk_g)
 
-> Summit 2025 in Dubai (https://www.youtube.com/watch?v=xtUgcpVnYLM)🇦🇪 (https://www.youtube.com/watch?v=xtUgcpVnYLM)
+> [Summit 2025 in Dubai](https://www.youtube.com/watch?v=xtUgcpVnYLM)🇦🇪 (https://www.youtube.com/watch?v=xtUgcpVnYLM)
 
 <a id="event-44c6d87b15848d93"></a>
 
@@ -58332,13 +58304,11 @@ Lean markets require hearty breakfasts. Join us this Token, and let's chew over 
 
 Chowtime.
 
-### About Blockchain.com
+[About Blockchain.com](https://Blockchain.com)
 
-https://Blockchain.com
+[Blockchain.com](https://Blockchain.com) is an AI-enabled technology platform that manages and trades digital assets on behalf of people and institutions around the world. Founded in 2011, we're an OG in the space - probably the first place you ever looked up a Bitcoin transaction - now with over 94M wallets created in 100+ countries. Our Institutional arm works with 1500 counterparties worldwide, and is custom-built to serve the cutting-edge demands of our new financial world.
 
-Blockchain.com is an AI-enabled technology platform that manages and trades digital assets on behalf of people and institutions around the world. Founded in 2011, we're an OG in the space - probably the first place you ever looked up a Bitcoin transaction - now with over 94M wallets created in 100+ countries. Our Institutional arm works with 1500 counterparties worldwide, and is custom-built to serve the cutting-edge demands of our new financial world.
-
-*This information is used by Blockchain to register attendance and discuss partnership opportunities. To learn more about your rights, see our Privacy Policy (https://www.blockchain.com/legal/privacy?utm_source=luma).
+*This information is used by Blockchain to register attendance and discuss partnership opportunities. [To learn more about your rights, see our Privacy Policy](https://www.blockchain.com/legal/privacy?utm_source=luma).
 
 <a id="event-9d5fec4b0e3a0876"></a>
 
@@ -58376,7 +58346,7 @@ Who You'll Meet
 - Developers and core ecosystem contributors
 - VCs, family offices, and institutional allocators
 
-Brought to you by Superteam Black (https://x.com/SuperteamBlack), Superteam Singapore (https://x.com/SuperteamSG) and Superteam Australia (https://x.com/SuperteamAU)
+[Brought to you by Superteam Black](https://x.com/SuperteamBlack), [Superteam Singapore](https://x.com/SuperteamSG) [and Superteam Australia](https://x.com/SuperteamAU)
 
 Singapore
 
@@ -58384,7 +58354,7 @@ October 6, 2026
 
 Register now: Entry is subject to approval. If your plans change, please update your RSVP so someone on the waitlist can join.
 
-Want a sneak peek? Watch the recap from last year here (https://x.com/SolanaSummitOrg/status/1811718123030290464?utm_source=luma).
+[Want a sneak peek? Watch the recap from last year here](https://x.com/SolanaSummitOrg/status/1811718123030290464?utm_source=luma).
 
 <a id="event-35ec0bceb05ef3aa"></a>
 
@@ -58440,7 +58410,7 @@ Title Sponsors
 
 Tether is the company behind USD₮, the world's largest stablecoin, and develops technology that expands access to digital finance. Its financial products span stablecoins, digital assets, and tokenization infrastructure, connecting traditional financial systems with the blockchain economy.
 
-Website (https://tether.io/) | X (https://x.com/Tether_to)
+[Website](https://tether.io/) | [X](https://x.com/Tether_to)
 
 ### About S&P Dow Jones Indices
 
@@ -58544,15 +58514,15 @@ The programme is designed to:
 
 The Capital Summit is a curated forum connecting institutional capital with the organizations building onchain financial infrastructure. It brings together investors, asset managers, banks, family offices, issuers, and infrastructure providers across Asia and beyond.
 
-Website (https://thecapitalsummit.ai/?utm_source=luma) | X (https://x.com/CapSummitGlobal?utm_source=luma) | LinkedIn (https://www.linkedin.com/company/the-capital-summit?utm_source=luma) | YouTube (https://www.youtube.com/@The_Capital_Summit?utm_source=luma)
+[Website](https://thecapitalsummit.ai/?utm_source=luma) | [X](https://x.com/CapSummitGlobal?utm_source=luma) | [LinkedIn](https://www.linkedin.com/company/the-capital-summit?utm_source=luma) | [YouTube](https://www.youtube.com/@The_Capital_Summit?utm_source=luma)
 
 ### About Asia Stablecoin Alliance
 
 The Asia Stablecoin Alliance connects institutions, regulators, builders, and researchers working to advance stablecoin infrastructure, compliance, distribution, and real-world adoption across Asia.
 
-Website (https://asiastable.org/?utm_source=luma) | X (https://x.com/AsiaStablecoin?utm_source=luma) | Substack (https://asiastablecoin.substack.com/?utm_source=luma)
+[Website](https://asiastable.org/?utm_source=luma) | [X](https://x.com/AsiaStablecoin?utm_source=luma) | [Substack](https://asiastablecoin.substack.com/?utm_source=luma)
 
-Get in touch (https://t.me/heechang_fp?utm_source=luma)
+[Get in touch](https://t.me/heechang_fp?utm_source=luma)
 
 Title Sponsors
 
@@ -58560,31 +58530,31 @@ Title Sponsors
 
 Tether is the company behind USD₮, the world's largest stablecoin, and develops technology that expands access to digital finance. Its financial products span stablecoins, digital assets, and tokenization infrastructure, connecting traditional financial systems with the blockchain economy.
 
-Website (https://tether.io/) | X (https://x.com/Tether_to)
+[Website](https://tether.io/) | [X](https://x.com/Tether_to)
 
 ### About S&P Dow Jones Indices
 
 S&P Dow Jones Indices, a division of S&P Global, provides benchmarks, index data, and research that help investors measure markets and inform investment decisions. Home to the S&P 500® and Dow Jones Industrial Average®, its index offering spans traditional asset classes and digital assets.
 
-Website (https://www.spglobal.com/spdji/en/) | X (https://x.com/SPDJIndices)
+[Website](https://www.spglobal.com/spdji/en/) | [X](https://x.com/SPDJIndices)
 
 ### About Rialo
 
 Rialo is a blockchain designed to connect decentralized applications with real-world data, services, and assets. By bringing connectivity, privacy, and automation into its network, Rialo aims to simplify how developers build applications and how businesses bring financial products and everyday services onchain.
 
-Website (https://www.rialo.io/) | X (https://x.com/RialoHQ)
+[Website](https://www.rialo.io/) | [X](https://x.com/RialoHQ)
 
 ### About DSRV
 
 DSRV is a blockchain infrastructure company providing services for financial institutions, enterprises, and developers. Its offering spans validator operations, staking, custody, payments, wallets, and tokenization, helping organizations build and operate digital asset services across blockchain networks.
 
-Website (https://www.dsrv.com/en) | X (https://x.com/dsrvlabs)
+[Website](https://www.dsrv.com/en) | [X](https://x.com/dsrvlabs)
 
 ### About Alchemy
 
 Alchemy provides blockchain infrastructure and developer tools for building and scaling onchain applications. Its platform brings together APIs, blockchain data, and transaction infrastructure, supporting developers and enterprises building digital asset products, payments, and financial services across multiple networks.
 
-Website (https://www.alchemy.com/) | X (https://x.com/AlchemyPlatform)
+[Website](https://www.alchemy.com/) | [X](https://x.com/AlchemyPlatform)
 
 <a id="event-49e5750bf262f82f"></a>
 
@@ -58652,7 +58622,7 @@ If you're interested - the facility also offers Hyperbaric Oxygen Therapy, Red L
 
 More info: https://www.alphavitality.co/
 
-For any sponsorship opportunities or partnership collaborations, please reach out to @pagingforyx (https://t.me/pagingforyx) on telegram.
+For any sponsorship opportunities or [partnership collaborations, please reach out to @pagingforyx](https://t.me/pagingforyx) on telegram.
 
 <a id="event-274d2c1f3337dad6"></a>
 
@@ -58721,11 +58691,11 @@ Open brings institutional finance and permissionless crypto together on performa
 
 Join founders, builders, and institutions as the proof comes to life in the open.
 
-### Welcome to Open
+### [Welcome to Open]
 
 https://open.monad.xyz/
 
-Your ticket also grants access to the official Open afterparty, Burning Mon (https://luma.com/burningmon).
+Your ticket also [grants access to the official Open afterparty, Burning Mon](https://luma.com/burningmon).
 
 Media and Sponsorship Inquiries: openteam@monad.foundation
 
@@ -58753,26 +58723,26 @@ By attending the event, you waive and release any claims you may have related to
 
 Join us at TOKEN2049 Singapore for Multichain Day.
 
-Built by Wrapped (https://www.wrapped.events/), hosted by MomentumX Global (https://www.momentumx.global/).
+[Built by Wrapped](https://www.wrapped.events/), [hosted by MomentumX Global](https://www.momentumx.global/).
 
 Built for devs and builders, and designed for real conversation, not noise. Each edition dives into key narratives like Interop, Network Expansion, DeFi, Infra, AI, Web3 Dev Tools, and dApps, connecting projects across ecosystems to advance a more integrated web3 future. Multichain Day features talks, networking, and co-working.
 
 Title Partner:
 
-- Algorand (https://x.com/AlgoFoundation?utm_source=luma)
+- [Algorand](https://x.com/AlgoFoundation?utm_source=luma)
 
 Presenting Partners:
 
-- CertiK (https://x.com/CertiK) | Flare (https://x.com/FlareNetworks) | Stellar (https://x.com/StellarOrg?utm_source=luma) | Ymax (https://x.com/Ymaxapp)
+- [CertiK](https://x.com/CertiK) | [Flare](https://x.com/FlareNetworks) | [Stellar](https://x.com/StellarOrg?utm_source=luma) | [Ymax](https://x.com/Ymaxapp)
 
 ### Partners
 
-- 0G Labs (https://x.com/0G_labs) | ChainPatrol (https://x.com/ChainPatrol) | Dune (https://x.com/dune) | Ethereum Institutional (https://x.com/ethereuminsti)
-- Kite AI (https://x.com/GoKiteAI) | Mercuryo (https://x.com/Mercuryo_io) | MoralesHR (https://moraleshr.com/) | Quake AI (https://x.com/_quakeai)
+- 0G [Labs](https://x.com/0G_labs) | [ChainPatrol](https://x.com/ChainPatrol) | [Dune](https://x.com/dune) | [Ethereum Institutional](https://x.com/ethereuminsti)
+- [Kite AI](https://x.com/GoKiteAI) | [Mercuryo](https://x.com/Mercuryo_io) | [MoralesHR](https://moraleshr.com/) | [Quake AI](https://x.com/_quakeai)
 
 ### Media Partner
 
-- Real Motion (https://x.com/realmotioninc)
+- [Real Motion](https://x.com/realmotioninc)
 
 Additional partners and speakers to be announced.
 
@@ -58799,26 +58769,26 @@ Previous Wrapped Events:
 
 Join us at TOKEN2049 Singapore for Onchain Day.
 
-Built by Wrapped (https://www.wrapped.events/), hosted by MomentumX Global (https://www.momentumx.global/).
+[Built by Wrapped](https://www.wrapped.events/), [hosted by MomentumX Global](https://www.momentumx.global/).
 
 Built for institutions, enterprises, and web3 teams driving onchain activity. Each edition explores key narratives like Payments, Stablecoins, Tokenization, RWAs, Privacy, and Enterprise Integration, connecting banks, exchanges, capital allocators and web2 brands with the protocols and infrastructure enabling real-world adoption. Onchain Day features talks, networking, and co-working.
 
 Title Partner:
 
-- Stellar (https://x.com/StellarOrg)
+- [Stellar](https://x.com/StellarOrg)
 
 Presenting Partners:
 
-- Algorand (https://x.com/AlgoFoundation?utm_source=luma) | CertiK (https://x.com/CertiK) | Flare (https://x.com/FlareNetworks) | Ymax (https://x.com/Ymaxapp)
+- [Algorand](https://x.com/AlgoFoundation?utm_source=luma) | [CertiK](https://x.com/CertiK) | [Flare](https://x.com/FlareNetworks) | [Ymax](https://x.com/Ymaxapp)
 
 ### Partners
 
-- 0G Labs (https://x.com/0G_labs?utm_source=luma) | ChainPatrol (https://x.com/ChainPatrol?utm_source=luma) | Dune (https://x.com/dune?utm_source=luma) | Ethereum Institutional (https://x.com/ethereuminsti?utm_source=luma)
-- Kite AI (https://x.com/GoKiteAI?utm_source=luma) | Mercuryo (https://x.com/Mercuryo_io?utm_source=luma) | MoralesHR (https://moraleshr.com/?utm_source=luma) | Quake AI (https://x.com/_quakeai?utm_source=luma)
+- 0G [Labs](https://x.com/0G_labs?utm_source=luma) | [ChainPatrol](https://x.com/ChainPatrol?utm_source=luma) | [Dune](https://x.com/dune?utm_source=luma) | [Ethereum Institutional](https://x.com/ethereuminsti?utm_source=luma)
+- [Kite AI](https://x.com/GoKiteAI?utm_source=luma) | [Mercuryo](https://x.com/Mercuryo_io?utm_source=luma) | [MoralesHR](https://moraleshr.com/?utm_source=luma) | [Quake AI](https://x.com/_quakeai?utm_source=luma)
 
 ### Media Partner
 
-- Real Motion (https://x.com/realmotioninc)
+- [Real Motion](https://x.com/realmotioninc)
 
 Additional partners and speakers to be announced.
 
@@ -58853,19 +58823,19 @@ This event is open to everyone! Don't miss out let's connect and grow together.
 
 Meet our partners who are making this event possible
 
-Take3 (https://take3.io/?utm_source=luma) Not just a marketing agency. Take3 the trust-driven growth partner for Web3.
+[Take3](https://take3.io/?utm_source=luma) Not just a marketing agency. Take3 the trust-driven growth partner for Web3.
 
 In Web3, the projects that win long-term aren't the loudest, they're the most trusted. Web3 doesn't have a marketing problem. It has a trust problem. Take3 helps Web3 and emerging tech teams build, scale, and compound trust into long-term growth. Globally, from Sydney, Dubai and London.
 
-Nexa (https://www.nexa.org/)is a fast, scalable, and decentralized Layer-1 blockchain built for real-world adoption. With native smart contracts, ultra-low fees, and high throughput, Nexa enables seamless peer-to-peer transactions and powerful dApps. Fairly launched and community-driven, Nexa is designed to empower everyone.
+[Nexa](https://www.nexa.org/)is a fast, scalable, and decentralized Layer-1 blockchain built for real-world adoption. With native smart contracts, ultra-low fees, and high throughput, Nexa enables seamless peer-to-peer transactions and powerful dApps. Fairly launched and community-driven, Nexa is designed to empower everyone.
 
-WeSo (https://wesohq.com/)is your all-in-one human connection app with human identify verification layer. Think Skyscanner, but for events, entertainment, and food and beverage. Discover experiences to share with friends or turn strangers into friends.
+[WeSo](https://wesohq.com/)is your all-in-one human connection app with human identify verification layer. Think Skyscanner, but for events, entertainment, and food and beverage. Discover experiences to share with friends or turn strangers into friends.
 
-ProvvyPay (https://www.linkedin.com/company/provvypay/?utm_source=luma) is building the data rails of commerce connecting every payment, order, and inventory record into one intelligent network. Our programmable payments infrastructure enables real-time revenue splits, instant reconciliation, and AI-ready data for smarter, fairer commerce.
+[ProvvyPay](https://www.linkedin.com/company/provvypay/?utm_source=luma) is building the data rails of commerce connecting every payment, order, and inventory record into one intelligent network. Our programmable payments infrastructure enables real-time revenue splits, instant reconciliation, and AI-ready data for smarter, fairer commerce.
 
 ### About Us
 
-EvolvH3R (https://evolvh3r.com/) is dedicated to empowering women and promoting inclusivity in the digital economy. We provide educational and mentorship programs, and engaging networking events. Our mission is to cultivate an inclusive community where every individual, regardless of gender, is empowered to thrive and make their mark in the emerging tech industry.
+[EvolvH3R](https://evolvh3r.com/) is dedicated to empowering women and promoting inclusivity in the digital economy. We provide educational and mentorship programs, and engaging networking events. Our mission is to cultivate an inclusive community where every individual, regardless of gender, is empowered to thrive and make their mark in the emerging tech industry.
 
 <a id="event-ecd423c43e6f0ebd"></a>
 
@@ -58936,10 +58906,10 @@ Sponsorship Deck: https://vntr.docsend.com/view/49biiev28wbidxt8
 
 THANK YOU TO OUR PARTNERS:
 
-- Stellar (https://www.stellar.org/) is a decentralized, fast, scalable, and uniquely sustainable network for financial products and services. It is both a cross-currency transaction system and a platform for digital asset issuance, designed to connect the world's financial infrastructure.
-- Gamma Prime (https://www.gammaprime.fi/) is the Marketplace to launch and invest in Alternative Funds. Investors gain seamless access to truly diversified alternative investments. Hedge funds reach new institutions, family offices, and accredited investors worldwide.
-- Instaswap (https://instaswap.com/?utm_source=luma) is the infrastructure powering private, seamless cross-chain execution. Think 1inch meets THORChain, fully abstracted into a single transaction, with privacy native to the swap.
-- Darknight Labs (https://darknightlabs.com/?utm_source=luma) is a Web3 ecosystem deploying smart capital through elite investment syndicates, strategic leverage, and community distribution - built to win for investors, founders, and users.
+- [Stellar](https://www.stellar.org/) is a decentralized, fast, scalable, and uniquely sustainable network for financial products and services. It is both a cross-currency transaction system and a platform for digital asset issuance, designed to connect the world's financial infrastructure.
+- [Gamma Prime](https://www.gammaprime.fi/) is the Marketplace to launch and invest in Alternative Funds. Investors gain seamless access to truly diversified alternative investments. Hedge funds reach new institutions, family offices, and accredited investors worldwide.
+- [Instaswap](https://instaswap.com/?utm_source=luma) is the infrastructure powering private, seamless cross-chain execution. Think 1inch meets THORChain, fully abstracted into a single transaction, with privacy native to the swap.
+- [Darknight Labs](https://darknightlabs.com/?utm_source=luma) is a Web3 ecosystem deploying smart capital through elite investment syndicates, strategic leverage, and community distribution - built to win for investors, founders, and users.
 
 ### Q&A
 
@@ -59052,7 +59022,7 @@ We welcome applications from:
 
 The Founder × VC Summit: The Institutional Capital Era brings together Banks, funds, and institutions representing $1T+ in assets under management and custody.
 
-web: backersstage.com/founder-x-vc-summit (https://www.backersstage.com/founder-x-vc-summit)
+[web: backersstage.com/founder-x-vc-summit](https://www.backersstage.com/founder-x-vc-summit)
 
 > Day 1 | TL;DR
 
@@ -59076,7 +59046,7 @@ Partnership Status: atharv@backersstage.com
 
 Join tg for updates: t.me/backersstage
 
-Follow: www.x.com/backersstage (https://www.x.com/backersstage)
+[Follow: www.x.com/backersstage](https://www.x.com/backersstage)
 
 Who should apply
 
@@ -59086,7 +59056,7 @@ TOKEN2049 Startup Competition (NEXUS)
 
 As a TOKEN2049 Community Partner, we're recommending NExUS to founders raising, a strong stage to get in front of investors during the week.
 
-Apply: token2049.com/singapore/nexus-startup-competition (https://token2049.com/singapore/nexus-startup-competition)
+[Apply: token2049.com/singapore/nexus-startup-competition](https://token2049.com/singapore/nexus-startup-competition)
 
 Apply through us: the strongest project gets fast tracked in the NExUS top 50 review process.
 
@@ -59095,13 +59065,13 @@ Apply through us: the strongest project gets fast tracked in the NExUS top 50 re
 
 FOUNDER × VC SUMMIT has a limited number of partnership slots, co-host, stage & panel time, exhibition booth, and onsite branding. Kept intentionally small, and a few are already moving.
 
-To explore a slot, reach out by email at: atharv@backersstage.com (https://mailto:atharv@backersstage.com)
+To explore [a slot, reach out by email at: atharv@backersstage.com](https://mailto:atharv@backersstage.com)
 
-via tg (@theatharvshrivastava (https://t.me/theatharvshrivastava) / @adityamahajan16 (https://t.me/adityamahajan16))
+via tg (@[theatharvshrivastava](https://t.me/theatharvshrivastava) / @[adityamahajan16](https://t.me/adityamahajan16))
 
 Day 2 is the happy hour on Oct 9, separate RSVP.
 
-### Hosted by BackersStage
+### [Hosted by BackersStage]
 
 https://www.backersstage.com
 
@@ -59117,21 +59087,21 @@ TG: https://t.me/+InM-q-BINpkzZGI1
 
 Strategic & Accelerator Partner
 
-Inspira Labs (http://inspira-labs.com/) is a web3 venture studio and accelerator, working with early-stage founders on GTM, tokenomics, partnerships, and research across 1,000+ network partners.
+[Inspira Labs](http://inspira-labs.com/) is a web3 venture studio and accelerator, working with early-stage founders on GTM, tokenomics, partnerships, and research across 1,000+ network partners.
 
-Startup Support by Inspira Labs (http://inspira-labs.com/)
+[Startup Support by Inspira Labs](http://inspira-labs.com/)
 
 ### Media
 
-Crypto Nomads (https://cryptonomads.org/) is the place to discover crypto events, companies, jobs, and professionals. Crypto Nomads Club (https://club.cryptonomads.org/) is its private community of web3 founders.
+[Crypto Nomads](https://cryptonomads.org/) is the place to discover crypto events, [companies, jobs, and professionals. Crypto Nomads Club](https://club.cryptonomads.org/) is its private community of web3 founders.
 
 ### Media Partners
 
-Wu Blockchain (https://x.com/WuBlockchain) - Crypto News (https://x.com/cryptodotnews)- Yellow Media (https://x.com/YellowMedia_HQ/) - DGroup (https://x.com/DGroup_VN/) - ME News (https://www.me.news/) - BitcoinWorld (https://bitcoinworld.co.in/) - CoinGape (https://x.com/coingapemedia) - Cryptopolitan (https://www.cryptopolitan.com/) - BlockTempo (https://twitter.com/BlockTempo) - BD Ventures (https://x.com/ventures_bd)- Captain Capital (https://x.com/CapCapital68/)- BDGemX (https://x.com/BD_GemX) - The BlockOpedia (https://twitter.com/theblockopedia_) - TechNews (https://x.com/Techub_News/) - Coineasy (https://x.com/Coiniseasy/) - CoinMeta (https://www.528btc.
+[Wu Blockchain](https://x.com/WuBlockchain) - [Crypto News](https://x.com/cryptodotnews)- [Yellow Media](https://x.com/YellowMedia_HQ/) - [DGroup](https://x.com/DGroup_VN/) - [ME News](https://www.me.news/) - [BitcoinWorld](https://bitcoinworld.co.in/) - [CoinGape](https://x.com/coingapemedia) - [Cryptopolitan](https://www.cryptopolitan.com/) - [BlockTempo](https://twitter.com/BlockTempo) - [BD Ventures](https://x.com/ventures_bd)- [Captain Capital](https://x.com/CapCapital68/)- [BDGemX](https://x.com/BD_GemX) - [The BlockOpedia](https://twitter.com/theblockopedia_) - [TechNews](https://x.com/Techub_News/) - [Coineasy](https://x.com/Coiniseasy/) - [CoinMeta](https://www.528btc.
 
-com/) - bfm times (https://www.bfmtimes.
+com/) - [bfm times](https://www.bfmtimes.
 
-- Join as Media Partner (https://forms.gle/C3Q8nqUJVjSsFRURA) (Subject to availability)
+- [Join as Media Partner](https://forms.gle/C3Q8nqUJVjSsFRURA) (Subject to availability)
 
 ### Previous Experiences
 
@@ -59185,13 +59155,13 @@ Let's connect: business@kanga.global
 
 Hosted by:
 
-- Kanga Global (https://kanga.global/en) is an easy-to-use crypto platform to buy, sell, and trade crypto your way.Kanga Global is an easy-to-use crypto platform to buy, sell, and trade crypto your way.
+- [Kanga Global](https://kanga.global/en) is an easy-to-use crypto platform to buy, sell, and trade crypto your way.Kanga Global is an easy-to-use crypto platform to buy, sell, and trade crypto your way.
 
 Stay Connected
 
-- Telegram (Global): Join our official group for updates: Join the chat (https://t.me/KangaExchangeChat)
-- Twitter/X: Follow us @KangaExchange (https://x.com/KangaExchange)
-- LinkedIn: Connect with us Kanga Global (https://www.linkedin.com/company/kangaglobal/posts/)
+- Telegram (Global): [Join our official group for updates: Join the chat](https://t.me/KangaExchangeChat)
+- [Twitter/X: Follow us @KangaExchange](https://x.com/KangaExchange)
+- [LinkedIn: Connect with us Kanga Global](https://www.linkedin.com/company/kangaglobal/posts/)
 - Website: https://kanga.global/en
 
 By registering to Cross-Border Brunch you consent to your photo to be taken and contact details to be used for marketing and promotional purposes related to the event.
@@ -59254,7 +59224,7 @@ American Fortress
 
 AmericanFortress is a privacy and security infrastructure platform for onchain transactions, designed to make digital asset transfers more private, secure, and user-friendly. Its FortressName™ system allows users to send assets using human-readable names while generating stealth addresses to reduce public exposure.
 
-For more information, visit: AmericanFortress (https://americanfortress.io/)
+[For more information, visit: AmericanFortress](https://americanfortress.io/)
 
 SwapSpace
 
@@ -59262,7 +59232,7 @@ SwapSpace
 
 SwapSpace is a non-custodial crypto exchange aggregator that brings together liquidity from multiple exchange providers, allowing users to compare rates and swap digital assets through a single platform. Operating since 2019, SwapSpace supports thousands of assets and hundreds of thousands of trading pairs.
 
-For more information, visit: SwapSpace (https://swapspace.co/)
+[For more information, visit: SwapSpace](https://swapspace.co/)
 
 Alpaca
 
@@ -59270,7 +59240,7 @@ Alpaca
 
 Alpaca is a global brokerage infrastructure platform providing API-powered access to stocks, ETFs, options, fixed income, and crypto. It enables fintechs, financial institutions, and trading platforms to build and scale investing products through its regulated brokerage infrastructure.
 
-For more information, visit: Alpaca (https://alpaca.markets/)
+[For more information, visit: Alpaca](https://alpaca.markets/)
 
 ### Strategic Partners
 
@@ -59280,7 +59250,7 @@ DCS Group
 
 DCS Group traces its roots to 1973, with the launch of Singapore's first Diners Club card programme. It has since evolved into a diverse group of payments companies with capabilities spanning card issuing, merchant acquiring, stablecoin payments, and payment orchestration, that help businesses launch, scale and grow.
 
-For more information, visit: DCS Group (https://www.dcsfintech.com/)
+[For more information, visit: DCS Group](https://www.dcsfintech.com/)
 
 Maelstrom
 
@@ -59288,7 +59258,7 @@ Maelstrom
 
 Maelstrom is an investment fund managed by the family office of Arthur Hayes, co-founder of BitMEX. The firm invests across venture, liquid markets, private equity and public markets, with a focus on infrastructure, products and services advancing decentralized financial systems.
 
-For more information, visit: Maelstrom (https://maelstrom.fund/)
+[For more information, visit: Maelstrom](https://maelstrom.fund/)
 
 ### How to Join
 
@@ -59309,7 +59279,7 @@ The day concludes with the Global Onchain Awards, recognizing the builders, inst
 
 Voting is live
 
-Vote here - Global Onchain Awards voting | Web3 Innovation Awards -By (https://awards.coingape.com/global-onchain-awards-singapore-2026/voting/)Coingape.com (https://Coingape.com)
+Vote here - [Global Onchain Awards voting | Web3 Innovation Awards -By](https://awards.coingape.com/global-onchain-awards-singapore-2026/voting/)[Coingape.com](https://Coingape.com)
 
 ### Event Details
 
@@ -59398,7 +59368,7 @@ View here -> https://portfolioday.animocabrands.com/
 - Taxi drop off at East Tower, IOI Central Boulevard Towers, 2 Central Blvd, Singapore 018916 https://maps.app.goo.gl/HSNx6RBBo648ezrGA
 - Our staffs will guide you upon arrival
 
-By registering for this event, you agree to Animoca Brands' Terms and Conditions (https://drive.google.com/file/d/1P7q2F0Q4pCXW0owewFYPNOf2_f2XXa1e/view?usp=sharing), Privacy Policy (https://policy.animocabrands.com/privacy-policy/?utm_source=luma), and the use of photos/videos taken during the event for promotional purposes.
+By registering for [this event, you agree to Animoca Brands' Terms and Conditions](https://drive.google.com/file/d/1P7q2F0Q4pCXW0owewFYPNOf2_f2XXa1e/view?usp=sharing), [Privacy Policy](https://policy.animocabrands.com/privacy-policy/?utm_source=luma), and the use of photos/videos taken during the event for promotional purposes.
 
 <a id="event-066ad2e22180206d"></a>
 
@@ -59606,7 +59576,7 @@ Four layers are beginning to converge:
 
 Agents decide. Payment networks move value. Onchain finance provides assets and liquidity. LLM tokens measure and price model usage.
 
-That is why Money in Motion (https://x.com/moneyinmotion26) and LongTree Labs (https://x.com/LongTreeLabs) are co-hosting the inaugural Agentic Money Summit during TOKEN2049 Singapore Week, with PhotonPay (https://x.com/PhotonPay), DogPay (https://x.com/DogPay_), United Stables (https://x.com/UTechStables), AWS, Eddid (https://www.eddid.com.hk/en), Interlace (https://x.com/InterlaceMoney), FluxA (https://x.com/FluxA_Official) and StableTree (https://x.com/stabletree_ai)as our first announced partners.
+[That is why Money in Motion](https://x.com/moneyinmotion26) [and LongTree Labs](https://x.com/LongTreeLabs) are co-hosting the inaugural Agentic [Money Summit during TOKEN2049 Singapore Week, with PhotonPay](https://x.com/PhotonPay), [DogPay](https://x.com/DogPay_), [United Stables](https://x.com/UTechStables), [AWS, Eddid](https://www.eddid.com.hk/en), [Interlace](https://x.com/InterlaceMoney), [FluxA](https://x.com/FluxA_Official) [and StableTree](https://x.com/stabletree_ai)as our first announced partners.
 
 > Official Website：https://moneyinmotion.xyz/token2049/agenticmoney2026/
 
@@ -59695,7 +59665,7 @@ See you there!
 
 ### About the event
 
-Join SunDAO Ventures (https://sundao.ventures/?utm_source=luma) for the Web3 Edition of Investors Speed Dating, an online private event connecting Web3 founders with active funds and VCs.
+[Join SunDAO Ventures](https://sundao.ventures/?utm_source=luma) for the Web3 Edition of Investors Speed Dating, an online private event connecting Web3 founders with active funds and VCs.
 
 This edition is all about Web3. Whether you're building infrastructure, DeFi, protocols, developer tooling, consumer apps, or anything at the intersection of Web3 and another industry (AI, fintech, gaming, payments), you belong here.
 
@@ -59723,7 +59693,7 @@ Why investors join:
 - Back-to-back conversations with founders ready for real questions
 - See what's actually being built across Web3 verticals and intersections
 
-Who's behind it SunDAO Ventures (https://sundao.ventures/?utm_source=luma) is a curated venture DAO where 70+ experts (angel investors, validators, security auditors, VCs, high profile founders and executives) collaborate on due diligence and co-invest in early-stage deals. The Investors Speed Dating series has run multiple editions in Cannes, Abu Dhabi and Online, with the latest online editions selling out within days.
+[Who's behind it SunDAO Ventures](https://sundao.ventures/?utm_source=luma) is a curated venture DAO where 70+ experts (angel investors, validators, security auditors, VCs, high profile founders and executives) collaborate on due diligence and co-invest in early-stage deals. The Investors Speed Dating series has run multiple editions in Cannes, Abu Dhabi and Online, with the latest online editions selling out within days.
 
 Apply now to secure your spot.
 
@@ -59739,7 +59709,7 @@ Apply now to secure your spot.
 
 ### About the event
 
-Join Quants.Space (https://Quants.Space) and POD (https://www.podlabs.xyz) the evening before Token2049 for an invitation-only reception for institutional allocators and emerging quant managers, focused on SMAs and Fund structures.
+[Join Quants.Space](https://Quants.Space) [and POD](https://www.podlabs.xyz) the evening before Token2049 for an invitation-only reception for institutional allocators and emerging quant managers, focused on SMAs and Fund structures.
 
 The format is simple: a curated guest list, a relaxed setting, and the space for real conversations - before the schedules fill up and the badge-scanning begins. Whether you're allocating capital or managing it, you'll be in the room with the people who matter to your next move.
 
@@ -59757,7 +59727,7 @@ The result is diligence in days instead of 3 - 12 months, no cherry-picked track
 
 150+ verified quant teams across different categories, with SMA being the largest vertical.
 
-www.quants.space (https://www.quants.space)
+[www.quants.space](https://www.quants.space)
 
 POD
 
@@ -59767,7 +59737,7 @@ The fund vehicle sits alongside a manager's SMA business and opens the door to i
 
 Allocators use the POD Discover (Cap Intro) platform to source, diligence and invest in POD funds.
 
-www.podlabs.xyz (http://www.podlabs.xyz)
+[www.podlabs.xyz](http://www.podlabs.xyz)
 
 <a id="event-a4295d154937d0cd"></a>
 
@@ -59863,7 +59833,7 @@ From Capital to Intelligence: Charting the Future of Digital Wealth
 
 Time: 3:30pm - Registration | 4:00pm - 6:00pm Lightning Fireside Conversations followed by Cocktail Reception ending at 8:00pm
 
-Explore More:https://www.revogroup.co/the-revo-connect-2026-sg (https://www.revogroup.co/the-revo-connect-2026-sg/)
+Explore [More:https://www.revogroup.co/the-revo-connect-2026-sg](https://www.revogroup.co/the-revo-connect-2026-sg/)
 
 Our Revo Connect is coming to Singapore this October! From tokens to capital, and now to intelligence - the digital asset space is powering the next phase of revolution. The event, titled "From Capital to Intelligence: Charting the Future of Digital Wealth", brings together the full stack of the digital asset ecosystem, spanning exchanges, custodians, family offices and crypto capital markets.
 
@@ -59875,9 +59845,9 @@ By Invitation only. The event will be conducted in English.
 
 By registering for this event, you acknowledge and consent to the terms and conditions detailed in the event disclaimer.
 
-Read the disclaimer (https://www.revogroup.co/event-disclaimer/?utm_source=luma).
+[Read the disclaimer](https://www.revogroup.co/event-disclaimer/?utm_source=luma).
 
-Copyright © 2026 Revo Digital Family Office and/or its affiliates. All rights reserved. (https://www.revogroup.co/event-disclaimer/?utm_source=luma)
+Copyright © 2026 Revo Digital [Family Office and/or its affiliates. All rights reserved.](https://www.revogroup.co/event-disclaimer/?utm_source=luma)
 
 <a id="event-a529ad697690764a"></a>
 
@@ -59891,13 +59861,15 @@ Copyright © 2026 Revo Digital Family Office and/or its affiliates. All rights r
 
 ### About the event
 
-An event of TOKENISED GLOBAL SERIES (https://tokenised.global), produced by UVECON.VC (https://UVECON.VC) and UVC GROUP, CO-HOSTED by TRM LABS. Designed for senior decision-makers, C-Level, investors, and VIPs.
+[An event of TOKENISED GLOBAL SERIES](https://tokenised.global), [produced by UVECON.VC](https://UVECON.VC) and UVC GROUP, CO-HOSTED by TRM LABS. Designed for senior decision-makers, C-Level, investors, and VIPs.
 
 EVENT CO-HOSTS
 
-UVECON.VC (https://UVECON.VC) is a venture studio, a part of UVC GROUP (https://uvc.group). Headquartered in Hong Kong with Global outreach, we accelerate projects and organize World-Class events: RWA WEEK, RWA SUMMIT, TOKENISED GLOBAL SERIES, THE DEALFLOW.
+[UVECON.VC](https://UVECON.VC) [is a venture studio, a part of UVC GROUP](https://uvc.group). Headquartered in Hong Kong with Global outreach, we accelerate projects and organize World-Class events: RWA WEEK, RWA SUMMIT, TOKENISED GLOBAL SERIES, THE DEALFLOW.
 
-TRM Labs is the intelligence platform for public safety and national security, built to detect and disrupt the criminal networks that exploit frontier technologies including cryptocurrency and AI. Combining proprietary intelligence, AI-native investigations software, and disruption network infrastructure, the platform is built for high-consequence environments where accuracy, auditability, and security are essential. TRM is trusted by 600+ government agencies and financial institutions across 75 countries to counter fraud, scams, cyber crime, child exploitation, money laundering, and sanctions evasion, among other illicit activities. To learn more, visit www.trmlabs.com (https://www.trmlabs.com)
+TRM Labs is the intelligence platform for public safety and national security, built to detect and disrupt the criminal networks that exploit frontier technologies including cryptocurrency and AI. Combining proprietary intelligence, AI-native investigations software, and disruption network infrastructure, the platform is built for high-consequence environments where accuracy, auditability, and security are essential. TRM is trusted by 600+ government agencies and financial institutions across 75 countries to counter fraud, scams, cyber crime, child exploitation, money laundering, and sanctions evasion, among other [illicit activities. To learn more, visit www.trmlabs.com](https://www.
+
+trmlabs.
 
 <a id="event-2742c968bab98ac5"></a>
 
@@ -59921,23 +59893,23 @@ Spaces are limited this is event for serious people who are genuinely here to co
 
 Meet Your Hosts making the night possible
 
-Nexa (https://www.nexa.org/)is a fast, scalable, and decentralized Layer-1 blockchain built for real-world adoption. With native smart contracts, ultra-low fees, and high throughput, Nexa enables seamless peer-to-peer transactions and powerful dApps. Fairly launched and community-driven, Nexa is designed to empower everyone.
+[Nexa](https://www.nexa.org/)is a fast, scalable, and decentralized Layer-1 blockchain built for real-world adoption. With native smart contracts, ultra-low fees, and high throughput, Nexa enables seamless peer-to-peer transactions and powerful dApps. Fairly launched and community-driven, Nexa is designed to empower everyone.
 
-Take3 (https://take3.io/?utm_source=luma) Not just a marketing agency. Take3 the trust-driven growth partner for Web3.
+[Take3](https://take3.io/?utm_source=luma) Not just a marketing agency. Take3 the trust-driven growth partner for Web3.
 
 In Web3, the projects that win long-term aren't the loudest, they're the most trusted. Web3 doesn't have a marketing problem. It has a trust problem. Take3 helps Web3 and emerging tech teams build, scale, and compound trust into long-term growth. Globally, from Sydney, Dubai and London.
 
-WeSo (https://wesohq.com/)is your ALL-IN-ONE Social life app with human identify verification layer. Think Skyscanner, but for events, entertainment, and F&B deals. Discover experiences to share with friends or turn strangers into friends.
+[WeSo](https://wesohq.com/)is your ALL-IN-ONE Social life app with human identify verification layer. Think Skyscanner, but for events, entertainment, and F&B deals. Discover experiences to share with friends or turn strangers into friends.
 
-DMCG Global (https://www.dmcgglobal.com/) is a leading Web3 recruitment and executive search agency with offices across Europe, Australia, Asia, and North America, connecting top talent with global Web3 companies.
+[DMCG Global](https://www.dmcgglobal.com/) is a leading Web3 recruitment and executive search agency with offices across Europe, Australia, Asia, and North America, connecting top talent with global Web3 companies.
 
-Hashlock (https://www.hashlock.com.au/) is a trusted, fully independent smart contract auditing and Web3 security firm dedicated to ensuring the secure use of Web3 for all stakeholders in blockchain innovation.
+[Hashlock](https://www.hashlock.com.au/) is a trusted, fully independent smart contract auditing and Web3 security firm dedicated to ensuring the secure use of Web3 for all stakeholders in blockchain innovation.
 
-ProvvyPay (https://www.linkedin.com/company/provvypay/?utm_source=luma) is building the data rails of commerce connecting every payment, order, and inventory record into one intelligent network. Our programmable payments infrastructure enables real-time revenue splits, instant reconciliation, and AI-ready data for smarter, fairer commerce.
+[ProvvyPay](https://www.linkedin.com/company/provvypay/?utm_source=luma) is building the data rails of commerce connecting every payment, order, and inventory record into one intelligent network. Our programmable payments infrastructure enables real-time revenue splits, instant reconciliation, and AI-ready data for smarter, fairer commerce.
 
 ### About Us
 
-All Things Blockchain (https://www.allthingsblockchain.org.au/?utm_source=luma) hosts educational meet-ups and social networking events to bring the community together to discuss and build the blockchain ecosystem.
+[All Things Blockchain](https://www.allthingsblockchain.org.au/?utm_source=luma) hosts educational meet-ups and social networking events to bring the community together to discuss and build the blockchain ecosystem.
 
 <a id="event-98568bfb1e9d609c"></a>
 
@@ -59987,7 +59959,7 @@ An organizer description has not been verified for this record. Any previous cop
 
 ### About the event
 
-Join SunDAO Ventures (https://sundao.ventures/?utm_source=luma) for the Web3 Edition of Investors Speed Dating, an online private event connecting Web3 founders with active funds and VCs.
+[Join SunDAO Ventures](https://sundao.ventures/?utm_source=luma) for the Web3 Edition of Investors Speed Dating, an online private event connecting Web3 founders with active funds and VCs.
 
 This edition is all about Web3. Whether you're building infrastructure, DeFi, protocols, developer tooling, consumer apps, or anything at the intersection of Web3 and another industry (AI, fintech, gaming, payments), you belong here.
 
@@ -60015,7 +59987,7 @@ Why investors join:
 - Back-to-back conversations with founders ready for real questions
 - See what's actually being built across Web3 verticals and intersections
 
-Who's behind it SunDAO Ventures (https://sundao.ventures/?utm_source=luma) is a curated venture DAO where 70+ experts (angel investors, validators, security auditors, VCs, high profile founders and executives) collaborate on due diligence and co-invest in early-stage deals. The Investors Speed Dating series has run multiple editions in Cannes, Abu Dhabi and Online, with the latest online editions selling out within days.
+[Who's behind it SunDAO Ventures](https://sundao.ventures/?utm_source=luma) is a curated venture DAO where 70+ experts (angel investors, validators, security auditors, VCs, high profile founders and executives) collaborate on due diligence and co-invest in early-stage deals. The Investors Speed Dating series has run multiple editions in Cannes, Abu Dhabi and Online, with the latest online editions selling out within days.
 
 Apply now to secure your spot.
 
@@ -60039,11 +60011,11 @@ NOTE: Non-business email registrations will not be accepted.
 
 Canton is the only public, permissionless blockchain purpose-built for institutional finance-uniquely combining privacy, compliance, and scalability. With participation from leading global financial institutions and network governance independently facilitated by the Canton Foundation, Canton enables real-time, secure synchronization and settlement across multiple asset classes on a shared, interoperable infrastructure. The open-sourced network is powered by its native token, Canton Coin, and supports decentralized governance and collaborative application development.
 
-It's the proven link between the promise of blockchain and the power of global finance, making finance flow the way it should. Learn more at: canton.network (https://canton.
+It's the proven link between the promise of blockchain and the power of global finance, making [finance flow the way it should. Learn more at: canton.network](https://canton.
 
-Marex Group Limited (NASDAQ:MRX (https://www.benzinga.com/quote/MRX)) provides market access, infrastructure services and essential liquidity to clients across global commodity and financial markets. The Group provides comprehensive breadth and depth of coverage across four services: Clearing, Agency and Execution, Market Making and Hedging and Investment Solutions. It has a leading franchise in many major metals, energy and agricultural products, with access to more than 60 exchanges. Marex has over 3,400 active clients, including some of the largest commodity producers, consumers and traders, banks, hedge funds and asset managers.
+Marex Group Limited ([NASDAQ:MRX](https://www.benzinga.com/quote/MRX)) provides market access, infrastructure services and essential liquidity to clients across global commodity and financial markets. The Group provides comprehensive breadth and depth of coverage across four services: Clearing, Agency and Execution, Market Making and Hedging and Investment Solutions. It has a leading franchise in many major metals, energy and agricultural products, with access to more than 60 exchanges. Marex has over 3,400 active clients, including some of the largest commodity producers, consumers and traders, banks, hedge funds and asset managers.
 
-With more than 50 offices worldwide, the Group has over 3000 employees across Europe, Asia and the Americas. For more information visit www.marex.com (https://www.marex.com).
+With more than 50 offices worldwide, the Group has over 3000 employees across Europe, Asia [and the Americas. For more information visit www.marex.com](https://www.marex.com).
 
 <a id="event-e74a5ff46605a683"></a>
 
@@ -60107,7 +60079,7 @@ PurrPoker is an onchain poker dapp on HyperEVM. It lets players compete directly
 
 ### Welcome to the Second Edition of The Clearing House
 
-After a successful inaugural event in Cannes (https://x.com/MidasRWA/status/2038966272126308742?s=20) that introduced The Clearing House experience, we are looking forward to hosting the second edition on October 6th, 2026 in Singapore, during Token2049. The premise stays the same:
+[After a successful inaugural event in Cannes](https://x.com/MidasRWA/status/2038966272126308742?s=20) that introduced The Clearing House experience, we are looking forward to hosting the second edition on October 6th, 2026 in Singapore, during Token2049. The premise stays the same:
 
 Events and summits have become too noisy for the people actually building.
 
@@ -60141,7 +60113,7 @@ We value your time as much as you do. This isn't another conference mixer; it's 
 
 ### The Clearing House: 2026 Roadmap
 
-The Clearing House debuted earlier this year in Cannes (https://x.com/MidasRWA/status/2038966272126308742?s=20). Singapore is our second edition, timed around Token2049. We are building a continuous, high-signal network across the globe, so the industry's key decision-makers always have the right room to connect.
+[The Clearing House debuted earlier this year in Cannes](https://x.com/MidasRWA/status/2038966272126308742?s=20). Singapore is our second edition, timed around Token2049. We are building a continuous, high-signal network across the globe, so the industry's key decision-makers always have the right room to connect.
 
 After Singapore, expect us to bring this curated experience to:
 
@@ -60149,17 +60121,17 @@ After Singapore, expect us to bring this curated experience to:
 
 ### Hosted By Midas
 
-Midas (https://www.midas.app) is a platform for composable onchain investment products. It gives investors exposure to institutional strategies - which are run by professional strategy managers - through its performance-linked mTokens. These tokens offer full transparency, instant redemptions, and native composability across DeFi. To date, Midas has powered over $2B in asset issuance and paid out $46M in yield.
+[Midas](https://www.midas.app) is a platform for composable onchain investment products. It gives investors exposure to institutional strategies - which are run by professional strategy managers - through its performance-linked mTokens. These tokens offer full transparency, instant redemptions, and native composability across DeFi. To date, Midas has powered over $2B in asset issuance and paid out $46M in yield.
 
 ### Co-Hosted By
 
 Apollo Crypto
 
-Apollo Crypto (https://apollocrypto.com/) is an award winning multi-strategy investment fund manager that invests in crypto assets globally. We have more than a 8 year successful track record and we are focused solely on managing portfolios of crypto assets and strategies on behalf of wholesale investors, family offices and fund of funds.
+[Apollo Crypto](https://apollocrypto.com/) is an award winning multi-strategy investment fund manager that invests in crypto assets globally. We have more than a 8 year successful track record and we are focused solely on managing portfolios of crypto assets and strategies on behalf of wholesale investors, family offices and fund of funds.
 
 RockawayX
 
-RockawayX (https://www.rockawayx.com/) is a leading digital asset investment firm operating across venture, liquidity, curation, and infrastructure, with over $2 billion in collective assets under management. Through its evolved approach to onchain yield, the firm applies institutional-grade credit underwriting to construct, monitor, and manage diversified exposure across stablecoin and real-world asset strategies.
+[RockawayX](https://www.rockawayx.com/) is a leading digital asset investment firm operating across venture, liquidity, curation, and infrastructure, with over $2 billion in collective assets under management. Through its evolved approach to onchain yield, the firm applies institutional-grade credit underwriting to construct, monitor, and manage diversified exposure across stablecoin and real-world asset strategies.
 
 <a id="event-793181e75520328a"></a>
 
@@ -60429,43 +60401,43 @@ Cicada
 
 Full-service market making, exchange listing support, and 360° liquidity solutions for Web3 projects: from launch to listing and beyond. Trusted by 60+ clients across 50+ exchanges.
 
-cicada-mm.com (https://cicada-mm.com)
+[cicada-mm.com](https://cicada-mm.com)
 
 Sal'Ad Labs
 
 Web3 growth ecosystem & venture studio built on distribution, fundraising, and strategic execution: 9 years in the market; 8.5B+ cumulative market cap of partners & clients; 1000+ companies in network
 
-sales-and-ads.com (https://sales-and-ads.com)
+[sales-and-ads.com](https://sales-and-ads.com)
 
 Sonic
 
 Sonic is the highest-performing EVM blockchain with sub-second finality, ultra-high throughput and FeeM model - where developers keep 90% of network fees
 
-soniclabs.com (https://www.soniclabs.com/)
+[soniclabs.com](https://www.soniclabs.com/)
 
 Hey Elsa
 
 The Economic Layer for DeFi AI. It helps you discover opportunities, execute trades, and manage your portfolio through simple conversations. No dashboards to learn. No complex workflows. Just tell Elsa what you want to do and she takes care of the rest
 
-heyelsa.ai (https://for.heyelsa.ai)
+[heyelsa.ai](https://for.heyelsa.ai)
 
 Medici Expert
 
 Global legal and regulatory advisory firm helping FinTech, Web3 and digital asset businesses launch and scale across 50+ jurisdictions. We support clients with licensing, compliance, corporate structuring, banking and market entry.
 
-medici.expert (https://medici.expert)
+[medici.expert](https://medici.expert)
 
 Ghaf Capital
 
 A blockchain advisory, VC, and innovation partner supporting global digital asset projects, institutions, and enterprises with strategic growth, market expansion, ecosystem development, and regulatory alignment.
 
-ghaflabs.ae (https://ghaflabs.ae)
+[ghaflabs.ae](https://ghaflabs.ae)
 
 8Blocks
 
 Digital asset strategy consultancy, founded in 2017, that helps real-asset owners design fractional-investment economics and helps Web3 teams design and audit token economies, including dual-token models pairing real-asset instruments with utility tokens.
 
-8blocks.io (https://8blocks.io/)
+8blocks.[io](https://8blocks.io/)
 
 <a id="event-aa2861a46c653595"></a>
 
@@ -60551,11 +60523,11 @@ Please note: by attending, you agree that photos and video may be taken during t
 
 Diamond Sponsor
 
-1. KoinX (https://www.koinx.com/accounting) - KoinX's expertise empowers Web3-native businesses, CFOs, and accountants with the most comprehensive digital asset accounting solution.
+1. [KoinX](https://www.koinx.com/accounting) - KoinX's expertise empowers Web3-native businesses, CFOs, and accountants with the most comprehensive digital asset accounting solution.
 
 Gold Sponsor
 
-1. Summ (https://summ.com/) - Summ (formerly Crypto Tax Calculator) generates defendable crypto tax reports built on validated data. Summ's reconciliation engine tracks transactions across 3,500+ exchanges, wallets, and blockchains, with deep on-chain coverage across DeFi, DEXs, NFTs, and complex protocols. By reconciling activity across sources, Summ produces clear, explainable tax reports that stand up when it matters.
+1. [Summ](https://summ.com/) - Summ (formerly Crypto Tax Calculator) generates defendable crypto tax reports built on validated data. Summ's reconciliation engine tracks transactions across 3,500+ exchanges, wallets, and blockchains, with deep on-chain coverage across DeFi, DEXs, NFTs, and complex protocols. By reconciling activity across sources, Summ produces clear, explainable tax reports that stand up when it matters.
 
 Interested in sponsoring? We're currently welcoming sponsors for the 2026 Meet - reach out to Wei Xiang at wei@financelah.com or Telegram @weixiangsg.
 
@@ -60841,7 +60813,7 @@ To maintain a genuine and engaged GameFi community, attendees must complete the 
 
 X Twitter:
 
-https://x.com/ (https://x.com/TheSparkyVerse)TheSparkyVerse (https://x.com/TheSparkyVerse)
+[https://x.com/](https://x.com/TheSparkyVerse)[TheSparkyVerse](https://x.com/TheSparkyVerse)
 
  2. Join the SPARKY Telegram Channel
 
@@ -60953,9 +60925,9 @@ Our work spans the Americas, Europe and MENA, with experience across 500+ compan
 
 90% of our clients stay with us year after year.
 
-Join INPUT Offstage (https://t.me/+3XURWkx0QXE2MDRk?utm_source=luma) on Telegram for event and speaking opportunities, media updates, webinars and streams, unreleased KNOWN podcast content, and conversations across our global network.
+[Join INPUT Offstage](https://t.me/+3XURWkx0QXE2MDRk?utm_source=luma) on Telegram for event and speaking opportunities, media updates, webinars and streams, unreleased KNOWN podcast content, and conversations across our global network.
 
-X (https://x.com/INPUT_global?utm_source=luma) | LinkedIn (https://www.linkedin.com/company/inputglobal/?utm_source=luma) | Website (https://input.global/?utm_source=luma) | Telegram (https://t.me/+3XURWkx0QXE2MDRk?utm_source=luma)
+[X](https://x.com/INPUT_global?utm_source=luma) | [LinkedIn](https://www.linkedin.com/company/inputglobal/?utm_source=luma) | [Website](https://input.global/?utm_source=luma) | [Telegram](https://t.me/+3XURWkx0QXE2MDRk?utm_source=luma)
 
 <a id="event-8ad1021e4feb119d"></a>
 
@@ -61019,7 +60991,7 @@ We have a select few seats available for new, interested and time-traveling patr
 
 Don't panic.
 
-*This information is used by Blockchain to register attendance and discuss partnership opportunities. To learn more about your rights, see our Privacy Policy (https://www.blockchain.com/legal/privacy?utm_source=luma).
+*This information is used by Blockchain to register attendance and discuss partnership opportunities. [To learn more about your rights, see our Privacy Policy](https://www.blockchain.com/legal/privacy?utm_source=luma).
 
 <a id="event-05879153acc121f1"></a>
 
@@ -61075,7 +61047,7 @@ Note
 
 As this is an invite-only event, please be aware that registering does not guarantee access due to limited availability. There will be a secondary screening and approval process for all registrants. You will initially receive an email stating that your registration is pending. We will then review your registration details during the secondary screening and approval process, and only those who pass this process will receive an approval email along with the ticket. Please note that entry will be granted only to ticketed guests, and tickets are not transferable.
 
-### About ChainUp
+### [About ChainUp]
 
 https://www.chainup.com/
 
@@ -61087,9 +61059,9 @@ For more information, visit: https://www.chainup.com/
 
 Follow us:
 
-Twitter (https://x.com/ChainUPOfficial) | LinkedIn (https://www.linkedin.com/company/ChainUP-Technology/) | Website (https://www.chainup.com/)
+[Twitter](https://x.com/ChainUPOfficial) | [LinkedIn](https://www.linkedin.com/company/ChainUP-Technology/) | [Website](https://www.chainup.com/)
 
-### About BSquared Network
+### [About BSquared Network]
 
 https://bsquared.network/
 
@@ -61097,7 +61069,7 @@ B² Network is a modular Bitcoin Scaling solution built around BTCFi, BTC mining
 
 For more information, visit https://www.bsquared.network/
 
-### About CZR
+### [About CZR]
 
 https://www.czrex.com/en_US/?utm_source=luma
 
@@ -61105,7 +61077,7 @@ CZR Exchange is a next-generation cryptocurrency platform and wallet delivering 
 
 For more information, visit https://www.czrex.com/en_US/
 
-### About Sumsub
+### [About Sumsub]
 
 https://sumsub.com/?utm_source=luma
 
@@ -61117,7 +61089,7 @@ For more information, visit https://sumsub.com/
 
 ### Strategic Partners
 
-About AWS (https://aws.amazon.com/?utm_source=luma) & eCloudrover (https://www.ecloudrover.com/en/?utm_source=luma)
+[About AWS](https://aws.amazon.com/?utm_source=luma) & [eCloudrover](https://www.ecloudrover.com/en/?utm_source=luma)
 
 Amazon Web Services
 
@@ -61131,7 +61103,7 @@ As an AWS premier partner, eCloudrover focuses deeply on empowering growth throu
 
 For more information, visit https://www.ecloudrover.com/en/
 
-### About Coincall
+### [About Coincall]
 
 https://www.coincall.com/
 
@@ -61143,7 +61115,7 @@ With deep liquidity, competitive prices, and easy-to-use tools, Coincall helps t
 
 For more information, visit https://www.coincall.com/
 
-### About DBS Private Bank
+### [About DBS Private Bank]
 
 https://www.dbs.com.sg/private-banking/default.page
 
@@ -61153,7 +61125,7 @@ Rooted in Asia and supported by DBS' One Bank model, DBS Private Bank combines g
 
 For more information, visit https://www.dbs.com.sg/private-banking/default.page
 
-### About PayFun
+### [About PayFun]
 
 https://www.payfun.com/
 
@@ -61169,15 +61141,15 @@ Singapore Fintech Association (SFA) (https://singaporefintech.org/?utm_source=lu
 
 ### Media Partners
 
-CoinGape (https://coingape.com/)
+[CoinGape](https://coingape.com/)
 
-Cryptopolitan (https://www.cryptopolitan.com/?utm_source=luma)
+[Cryptopolitan](https://www.cryptopolitan.com/?utm_source=luma)
 
-Crypto Events (https://cryptoevents.global/)
+[Crypto Events](https://cryptoevents.global/)
 
-Crypto Reporter (https://www.crypto-reporter.com/?utm_source=luma)
+[Crypto Reporter](https://www.crypto-reporter.com/?utm_source=luma)
 
-ZEX PR WIRE (https://zexprwire.com/?utm_source=luma)
+[ZEX PR WIRE](https://zexprwire.com/?utm_source=luma)
 
 <a id="event-896dd379010ae052"></a>
 
@@ -61191,7 +61163,7 @@ ZEX PR WIRE (https://zexprwire.com/?utm_source=luma)
 
 ### About the event
 
-FutureXcon 2026 | KOL Party 🇸🇬 (https://emojigraph.org/flag-singapore/)
+[FutureXcon 2026 | KOL Party 🇸🇬](https://emojigraph.org/flag-singapore/)
 
 A party during Token2049 week for KOLs, meme communities, exchanges, traders, and the teams building around them. (secret KOL convo)
 
@@ -61209,7 +61181,7 @@ This is THE PARTY.
 
 6 October, 8pm till late.
 
-(Cohost w/ us: @Tknigs (https://t.me/tknigs))
+([Cohost w/ us: @Tknigs](https://t.me/tknigs))
 
 KOLs and CT regulars from around the world. Meme communities, exchanges and trading platforms, launchpads, market makers, traders, founders and funds.
 
@@ -61309,37 +61281,37 @@ Sui 已是加密领域最重要的高性能生态之一 - - 对象导向的 Move
 - 20:10 - 20:20｜开场致词
 - 20:20 - 22:30｜自由交流
 
-### About Comma3 Ventures
+### [About Comma3 Ventures]
 
 https://comma3.co/?utm_source=luma
 
 Comma3 Ventures is an influential player in the blockchain landscape, partnering with groundbreaking blockchain teams globally since 2017. More than just financial backers, they offer a wealth of resources from strategic VC connections to in-depth market insights, embodying their ethos: "funds of the founders, by the founders, for the founders."
 
-Website (https://comma3.co/?utm_source=luma) | X (Twitter) (https://x.com/comma3vc?utm_source=luma) | LinkedIn (https://www.linkedin.com/company/comma3ventures/?utm_source=luma) | Instagram (https://www.instagram.com/comma3_ventures?utm_source=luma) | Threads (https://www.threads.net/@comma3_ventures?utm_source=luma) | YouTube (https://www.youtube.com/@Comma3Ventures/?utm_source=luma)
+[Website](https://comma3.co/?utm_source=luma) | X (Twitter) (https://x.com/comma3vc?utm_source=luma) | [LinkedIn](https://www.linkedin.com/company/comma3ventures/?utm_source=luma) | [Instagram](https://www.instagram.com/comma3_ventures?utm_source=luma) | [Threads](https://www.threads.net/@comma3_ventures?utm_source=luma) | [YouTube](https://www.youtube.com/@Comma3Ventures/?utm_source=luma)
 
 https://comma3.co/?utm_source=luma
 
 Comma3 Ventures 是区块链领域具影响力的参与者，自 2017 年起与全球突破性的区块链团队合作。我们不仅是资金提供者 - - 更提供从策略性创投人脉到深度市场洞察的丰沛资源，体现我们的理念：「funds of the founders, by the founders, for the founders」。
 
-### About Sui
+### [About Sui]
 
 https://sui.io/?utm_source=luma
 
-Sui, where money moves as freely as messages, is a next-generation Layer 1 blockchain built for onchain finance and agentic infrastructure. Founded by the core team behind Meta's stablecoin initiative and powered by an object-centric model, Sui makes assets, permissions, and user data programmable and verifiable. Sui's primitives offer everything necessary to create high-performance finance and AI-native applications. Learn more at sui.io (https://sui.io).
+Sui, where money moves as freely as messages, is a next-generation Layer 1 blockchain built for onchain finance and agentic infrastructure. Founded by the core team behind Meta's stablecoin initiative and powered by an object-centric model, Sui makes assets, permissions, and user data programmable and verifiable. Sui's primitives offer everything necessary to create high-performance [finance and AI-native applications. Learn more at sui.io](https://sui.io).
 
-Website (https://sui.io/?utm_source=luma) | X (Twitter) (https://x.com/SuiNetwork?utm_source=luma) | LinkedIn (https://www.linkedin.com/company/sui-foundation/?utm_source=luma) | Instagram (https://www.instagram.com/sui.network.official/?utm_source=luma) | YouTube (https://www.youtube.com/@Sui-Network?utm_source=luma)
+[Website](https://sui.io/?utm_source=luma) | X (Twitter) (https://x.com/SuiNetwork?utm_source=luma) | [LinkedIn](https://www.linkedin.com/company/sui-foundation/?utm_source=luma) | [Instagram](https://www.instagram.com/sui.network.official/?utm_source=luma) | [YouTube](https://www.youtube.com/@Sui-Network?utm_source=luma)
 
 https://sui.io/?utm_source=luma
 
-Sui 是新一代 Layer 1 区块链，致力于让资金能像信息一样自由流动，专为链上金融与 Agentic Infrastructure 打造。Sui 由曾参与 Meta 稳定币项目的核心团队创立，并采用以对象为中心（object-centric）的架构，使资产、权限与用户数据皆具备可编程和可验证的特性。Sui 提供完整的底层基础组件，支持高性能金融应用与 AI-native 应用的开发与运行。更多信息请访问 sui.io (https://sui.io)。
+Sui 是新一代 Layer 1 区块链，致力于让资金能像信息一样自由流动，专为链上金融与 Agentic Infrastructure 打造。Sui 由曾参与 Meta 稳定币项目的核心团队创立，并采用以对象为中心（object-centric）的架构，使资产、权限与用户数据皆具备可编程和可验证的特性。[Sui 提供完整的底层基础组件，支持高性能金融应用与 AI-native 应用的开发与运行。更多信息请访问 sui.io](https://sui.io)。
 
-### About BTSE
+### [About BTSE]
 
 https://www.btse.com/en
 
 BTSE Group is a leading provider of blockchain asset trading and technology solutions. Founded in 2018, BTSE builds the infrastructure powering digital asset markets worldwide - institutional-grade exchange technology, deep shared liquidity, and other value-added services. Partners can white-label exchange infrastructure, wallets, and payment gateways, enabling fiat and crypto transactions across 50+ major currencies. Through technology, liquidity, and licensed local partnerships, BTSE connects traditional finance and digital assets for institutions and businesses globally.
 
-Website (https://www.btse.com/en) | X (Twitter) (https://x.com/BTSE_Official) | LinkedIn (https://www.linkedin.com/company/btsecom) | Telegram (https://t.me/btsecom) | Discord (https://discord.com/invite/btseofficial)
+[Website](https://www.btse.com/en) | X (Twitter) (https://x.com/BTSE_Official) | [LinkedIn](https://www.linkedin.com/company/btsecom) | [Telegram](https://t.me/btsecom) | [Discord](https://discord.com/invite/btseofficial)
 
 https://www.btse.com/en
 
@@ -61387,21 +61359,21 @@ The Vantage is hosted at Singapore's most premium penthouse suite, in an iconic 
 
 ### Hosted By
 
-Beldex (https://www.beldex.io/)is a privacy-focused decentralized ecosystem building infrastructure for Web3 and AI. Its ecosystem includes BChat for encrypted messaging, BelNet for decentralized private networking, Beldex Browser for private web access, and BNS for decentralized naming.
+[Beldex](https://www.beldex.io/)is a privacy-focused decentralized ecosystem building infrastructure for Web3 and AI. Its ecosystem includes BChat for encrypted messaging, BelNet for decentralized private networking, Beldex Browser for private web access, and BNS for decentralized naming.
 
-Acurast (https://acurast.com/) is a decentralized, serverless cloud platform that leverages Trusted Execution Environments (TEEs) to provide verifiable and confidential compute for the multi-chain Web3 ecosystem. As a Polkadot parachain, Acurast enables developers to execute complex workloads, automate data flows, and access verifiable oracles - all without relying on centralized infrastructure.
+[Acurast](https://acurast.com/) is a decentralized, serverless cloud platform that leverages Trusted Execution Environments (TEEs) to provide verifiable and confidential compute for the multi-chain Web3 ecosystem. As a Polkadot parachain, Acurast enables developers to execute complex workloads, automate data flows, and access verifiable oracles - all without relying on centralized infrastructure.
 
 ### Supported By
 
-EAK Digital (https://eakdigital.com/)is an award-winning global Web3 communications and marketing agency specialising in strategic communications, public relations, influencer marketing, brand development and live experiences. Headquartered in Dubai, the agency works with leading blockchain companies, technology innovators and emerging brands to build authority, reach new audiences and accelerate global growth. EAK Digital is also the company behind Istanbul Blockchain Week and BlockDown Festival.
+[EAK Digital](https://eakdigital.com/)is an award-winning global Web3 communications and marketing agency specialising in strategic communications, public relations, influencer marketing, brand development and live experiences. Headquartered in Dubai, the agency works with leading blockchain companies, technology innovators and emerging brands to build authority, reach new audiences and accelerate global growth. EAK Digital is also the company behind Istanbul Blockchain Week and BlockDown Festival.
 
-Sigma Capital (https://sigmavc.com/) is a Dubai-based, Web3-native venture capital firm backing ambitious founders building the next generation of blockchain-powered businesses. Led by CEO and Managing Partner Vineet Budki, the firm invests across decentralised finance, blockchain infrastructure, real-world asset tokenisation, gaming and artificial intelligence. Beyond capital, Sigma Capital provides portfolio companies with strategic guidance, market access and connections across its global network, helping transformative ideas develop into scalable, commercially successful ventures.
+[Sigma Capital](https://sigmavc.com/) is a Dubai-based, Web3-native venture capital firm backing ambitious founders building the next generation of blockchain-powered businesses. Led by CEO and Managing Partner Vineet Budki, the firm invests across decentralised finance, blockchain infrastructure, real-world asset tokenisation, gaming and artificial intelligence. Beyond capital, Sigma Capital provides portfolio companies with strategic guidance, market access and connections across its global network, helping transformative ideas develop into scalable, commercially successful ventures.
 
 ### Powered By
 
-The Best Event (https://www.instagram.com/_thebestevent?utm_source=luma) is the global event series where Web3 comes to life. With over 120+ events organised across 24+ cities, and 60,000 guests, The Best Event is a leader in the space. From bespoke and intimate meetups, to large-scale parties at the likes of Marquee and E11even Miami, we bring together the boldest creators, top brands, and visionaries shaping the future for unforgettable experiences.
+[The Best Event](https://www.instagram.com/_thebestevent?utm_source=luma) is the global event series where Web3 comes to life. With over 120+ events organised across 24+ cities, and 60,000 guests, The Best Event is a leader in the space. From bespoke and intimate meetups, to large-scale parties at the likes of Marquee and E11even Miami, we bring together the boldest creators, top brands, and visionaries shaping the future for unforgettable experiences.
 
-For sponsor inquiries for the penthouse editions, please contact Mihir via Telegram (https://t.me/mihirodhrani) or email mihir@tbv.xyz.
+For sponsor inquiries [for the penthouse editions, please contact Mihir via Telegram](https://t.me/mihirodhrani) or email mihir@tbv.xyz.
 
 <a id="event-6b8660380d2aac49"></a>
 
@@ -61439,23 +61411,23 @@ Come by after your last side event, grab a drink and stay as long as you like.
 
 ### About Libeara
 
-Libeara (https://libeara.com/) - Real-World Asset Tokenisation Made Real
+[Libeara](https://libeara.com/) - Real-World Asset Tokenisation Made Real
 
 Libeara is a global Web3 infrastructure platform enabling the regulated tokenisation of real-world assets (RWAs). Incubated by SC Ventures, the venture investment arm of Standard Chartered, Libeara works with asset managers, financial institutions, and enterprises to bring traditional assets such as funds, commodities, and private credit on-chain in a compliant and institutional-grade manner.
 
-BNY Investment (https://www.bny.com/investments/us/en/individual/investment-approach.html) - Our goal is to build and manage investment strategies that meet the ever-changing needs of our clients. BNY Investments' model offers the best of both worlds: specialist expertise from our forward-thinking investment managers, offering products across every major asset class, advisory solutions and services backed by the scale, expertise, and resilience of BNY.
+[BNY Investment](https://www.bny.com/investments/us/en/individual/investment-approach.html) - Our goal is to build and manage investment strategies that meet the ever-changing needs of our clients. BNY Investments' model offers the best of both worlds: specialist expertise from our forward-thinking investment managers, offering products across every major asset class, advisory solutions and services backed by the scale, expertise, and resilience of BNY.
 
-Utila (https://utila.io/) is the leading stablecoin and digital asset infrastructure platform for fintechs, banks and enterprises. Utila enables organizations of all sizes to securely build, manage, and scale digital asset operations across stablecoin payments, treasury, trading, tokenization, and beyond. Trusted by 350+ industry leaders, Utila processes more than $30B in monthly volume and has secured over $500B in transactions to date.
+[Utila](https://utila.io/) is the leading stablecoin and digital asset infrastructure platform for fintechs, banks and enterprises. Utila enables organizations of all sizes to securely build, manage, and scale digital asset operations across stablecoin payments, treasury, trading, tokenization, and beyond. Trusted by 350+ industry leaders, Utila processes more than $30B in monthly volume and has secured over $500B in transactions to date.
 
-Certik (https://www.certik.com/) - Largest Blockchain Security Auditor CertiK is the largest Web3 security platform combining formal verification with audits and comprehensive security solutions.
+[Certik](https://www.certik.com/) - Largest Blockchain Security Auditor CertiK is the largest Web3 security platform combining formal verification with audits and comprehensive security solutions.
 
 ### Sponsors
 
-SotaTek (https://www.sotatek.com/about-us/) - is a Vietnam-based Blockchain & AI engineering partner with entities across Singapore, the US, UAE, Australia, Japan, and Korea. Powered by 1,500+ engineers, we help founders and enterprises build, launch, and scale products, from L1/L2 infrastructure, exchanges and DeFi protocols to government-backed RWA and institutional-grade tokenization.
+[SotaTek](https://www.sotatek.com/about-us/) - is a Vietnam-based Blockchain & AI engineering partner with entities across Singapore, the US, UAE, Australia, Japan, and Korea. Powered by 1,500+ engineers, we help founders and enterprises build, launch, and scale products, from L1/L2 infrastructure, exchanges and DeFi protocols to government-backed RWA and institutional-grade tokenization.
 
 With 500+ delivered projects and partnerships across ecosystems like Tether, KAIA, Cardano, Aptos, Sui, Algorand, and XDC, we deliver full-lifecycle development and flexible AI-powered engineering teams to bring your vision on chain.
 
-GEM Corporation (https://gem-corp.tech/) - is a Vietnam-based technology services company helping organizations modernize applications, data, and operations through AI-enabled engineering and enterprise technology solutions. With more than 400 technology professionals, we serve enterprise customers across Korea, Japan, APAC, and Europe, combining software engineering, quality engineering, data, AI, and enterprise modernization with a strong focus on practical business outcomes.
+[GEM Corporation](https://gem-corp.tech/) - is a Vietnam-based technology services company helping organizations modernize applications, data, and operations through AI-enabled engineering and enterprise technology solutions. With more than 400 technology professionals, we serve enterprise customers across Korea, Japan, APAC, and Europe, combining software engineering, quality engineering, data, AI, and enterprise modernization with a strong focus on practical business outcomes.
 
 Registration is required and attendance is subject to approval.
 
@@ -61583,7 +61555,7 @@ Save hours researching for the people head to Token2049 Singapore, and arrange m
 
 [FREE for a Limited Time]
 
-https://compass.mesa.so/events/token2049-singapore-2026 (https://compass.mesa.so/events/token2049-singapore-2026?utm_source=luma&utm_medium=events&utm_campaign=token2049sg-2026)
+[https://compass.mesa.so/events/token2049-singapore-2026](https://compass.mesa.so/events/token2049-singapore-2026?utm_source=luma&utm_medium=events&utm_campaign=token2049sg-2026)
 
 - 258 Companies in Roster
 - 776 Decision Makers (93% reachable)
@@ -61610,7 +61582,7 @@ Save hours of time researching, and leverage Compass's 13,000+ Decision Makers n
 
 Check the companies and decision makers coming to Token2049 Singapore, now available on Compass:
 
-https://compass.mesa.so/events/token2049-singapore-2026 (https://compass.mesa.so/events/token2049-singapore-2026?utm_source=luma&utm_medium=events&utm_campaign=token2049sg-2026)
+[https://compass.mesa.so/events/token2049-singapore-2026](https://compass.mesa.so/events/token2049-singapore-2026?utm_source=luma&utm_medium=events&utm_campaign=token2049sg-2026)
 
 <a id="event-f51ff307fa3ab085"></a>
 
@@ -61708,11 +61680,11 @@ Savor coffee and a proper breakfast on us - join us to kick off the busy event d
 
 ### About the organizers
 
-Zenith (https://zenith.network/?utm_source=luma) extends Canton Network with native EVM execution and followed by SVM, enabling developers to deploy unmodified Solidity smart contracts directly on Canton's infrastructure - using familiar tooling including Hardhat, Foundry, and MetaMask, with no changes to existing code.
+[Zenith](https://zenith.network/?utm_source=luma) extends Canton Network with native EVM execution and followed by SVM, enabling developers to deploy unmodified Solidity smart contracts directly on Canton's infrastructure - using familiar tooling including Hardhat, Foundry, and MetaMask, with no changes to existing code.
 
-Kaiko (https://www.kaiko.com/) is the global independent leader in digital asset market data, analytics, crypto indices, and pricing for institutional investors, financial services firms, and regulators.
+[Kaiko](https://www.kaiko.com/) is the global independent leader in digital asset market data, analytics, crypto indices, and pricing for institutional investors, financial services firms, and regulators.
 
-T-REX (https://t-rex.network/) is the common market infrastructure for onchain securities. Built on the ERC-3643 standard, it turns siloed tokenized assets into one connected market, letting institutions issue and move regulated securities across any chain
+[T-REX](https://t-rex.network/) is the common market infrastructure for onchain securities. Built on the ERC-3643 standard, it turns siloed tokenized assets into one connected market, letting institutions issue and move regulated securities across any chain
 
 <a id="event-2e760d95b85b80f3"></a>
 
@@ -61730,11 +61702,11 @@ We are tired of hearing the real conversations happening in the side rooms while
 
 One day, six panels, and 0 polite corporate platitudes - let's spice up the room.
 
-Website: definition.global (https://definition.global)
+[Website: definition.global](https://definition.global)
 
-X (Twitter): x.com/definition_evt (https://x.com/definition_evt)
+X (Twitter): [x.com/definition_evt](https://x.com/definition_evt)
 
-LinkedIn: linkedin.com/company/definition-global (https://www.linkedin.com/company/definition-global)
+[LinkedIn: linkedin.com/company/definition-global](https://www.linkedin.com/company/definition-global)
 
 On stage: Galaxy, Chainlink, Pantera Capital, Anchorage Digital, Cumberland, Spartan, Securitize, Centrifuge, M0, Fireblocks, GSR, Keyrock, Dune, Maven11 and more.
 
@@ -61760,7 +61732,7 @@ https://panteracapital.com/
 
 Onigiri Capital is a venture capital fund launched by Saison Capital, the corporate venture arm of Japan's Credit Saison. The fund leverages its Asian institutional heritage to fund, advise, and empower blockchain founders who are unlocking real-world, global financial products and utility across stablecoins, payments, tokenized assets, DeFi, and financial markets infrastructure.
 
-https://onigiri.vc/ (https://www.onigiri.vc/)
+[https://onigiri.vc/](https://www.onigiri.vc/)
 
 <a id="event-950c802873b56833"></a>
 
@@ -61796,7 +61768,7 @@ Space is limited. First come first served.
 
 Come for the coffee, stay for the beat, leave ready for the day.
 
-Follow us on X (https://x.com/StarknetFndn?utm_source=luma)
+[Follow us on X](https://x.com/StarknetFndn?utm_source=luma)
 
 Starknet is the original Zero-Knowledge Rollup - a battle-tested Ethereum Layer 2 blockchain with over $1.36T in cumulative trading volume. Built by StarkWare Ltd., and backed by leading investors including Sequoia, Paradigm, Coinbase Ventures, and Pantera, Starknet has already brought hyperscale and ultra-low fees to Ethereum.
 
@@ -61870,7 +61842,7 @@ OKX Dev Day is a developer hackathon that starts online and culminates in a live
 
 Up to US$100K across winning teams
 
-Applications closed. For selected teams, please refer to the builder kit here (https://www.okx.com/learn/okx-dev-day-builder-kit).
+Applications closed. [For selected teams, please refer to the builder kit here](https://www.okx.com/learn/okx-dev-day-builder-kit).
 
 ---
 
@@ -61944,31 +61916,31 @@ Joining OKX Dev Day as speakers, judges, mentors and technical experts.
 
 Program partners:
 
-▫Amazon Web Services (https://x.com/awscloud)
+▫[Amazon Web Services](https://x.com/awscloud)
 
-▫Morningstar (https://x.com/MorningstarInc?lang=en)
+▫[Morningstar](https://x.com/MorningstarInc?lang=en)
 
-▫Paxos (http://x.com/paxoslabs)
+▫[Paxos](http://x.com/paxoslabs)
 
-▫MoonPay (https://x.com/moonpay)
+▫[MoonPay](https://x.com/moonpay)
 
-▫Centrifuge (https://x.com/centrifuge)
+▫[Centrifuge](https://x.com/centrifuge)
 
-▫xStocks (https://x.com/xStocksFi)
+▫[xStocks](https://x.com/xStocksFi)
 
-▫Plug and Play (https://www.plugandplayapac.com/)
+▫[Plug and Play](https://www.plugandplayapac.com/)
 
-▫Maximum Frequency Ventures (https://www.mf.xyz/)
+▫[Maximum Frequency Ventures](https://www.mf.xyz/)
 
-▫Liminal (https://liminal.build/)
+▫[Liminal](https://liminal.build/)
 
 Community partner:
 
-▫Claude Code Singapore (https://claudecode.sg/)
+▫[Claude Code Singapore](https://claudecode.sg/)
 
-▫Easy (https://x.com/easya_app)A (https://x.com/MorningstarInc?lang=en)
+▫[Easy](https://x.com/easya_app)[A](https://x.com/MorningstarInc?lang=en)
 
-▫Surgence Labs (https://x.com/surgence_io)
+▫[Surgence Labs](https://x.com/surgence_io)
 
 ### What teams need to submit
 
@@ -62070,47 +62042,47 @@ Join us in Singapore for Sui Basecamp 2026 at the iconic Marina Bay Sands with T
 - Lola Oyelayo-Pearson: Founder & CEO, Anyflo
 - Ivan Li: Founding Partner, Comma3 Ventures
 
-And many more. Check out the full lineup at sui.io/basecamp (https://sui.io/basecamp).
+[And many more. Check out the full lineup at sui.io/basecamp](https://sui.io/basecamp).
 
 ### We're going after our own TPS record
 
 On July 4 we pushed Sui to 6M+ transactions per second through a live experiment. On day one of Sui Basecamp, Kostas Chalkias and team run it again, live on the main stage, verified in real-time by CertiK.
 
-Call the number: submit one guess for what TPS will be achieved. Closest 3 guesses to the final figure earn prizes. Submit your guess » (https://go.sui.io/suibasecamptps)
+Call the number: submit one guess for what TPS will be achieved. Closest 3 [guesses to the final figure earn prizes. Submit your guess »](https://go.sui.io/suibasecamptps)
 
 ### Our Sponsors
 
 Diamond
 
-EVE Frontier (https://evefrontier.com/en) is a moddable, hardcore survival experience and next-gen virtual world from the creators of EVE Online. Follow on X (https://x.com/EVE_Frontier) and Discord (https://discord.com/invite/evefrontier).
+[EVE Frontier](https://evefrontier.com/en) is a moddable, hardcore survival experience and next-gen [virtual world from the creators of EVE Online. Follow on X](https://x.com/EVE_Frontier) [and Discord](https://discord.com/invite/evefrontier).
 
-Walrus (https://walrus.xyz/) is the data platform built for the demands of AI. It makes data portable, protected, and verifiable by anyone. Created by the ex-Meta engineers behind Sui. Follow on X (https://x.com/WalrusProtocol) and LinkedIn (https://www.linkedin.com/company/walrus-foundation/).
+[Walrus](https://walrus.xyz/) is the data platform built for the demands of AI. It makes data portable, protected, and verifiable by anyone. [Created by the ex-Meta engineers behind Sui. Follow on X](https://x.com/WalrusProtocol) [and LinkedIn](https://www.linkedin.com/company/walrus-foundation/).
 
 Platinum
 
-- ONE Championship (https://www.onefc.com/)
-- SUIG (https://www.suig.io/)
+- [ONE Championship](https://www.onefc.com/)
+- [SUIG](https://www.suig.io/)
 
 Gold
 
-- Slush (https://slush.app/)
+- [Slush](https://slush.app/)
 
 Silver
 
-- RedotPay (https://www.redotpay.com/)
-- Scallop (https://scallop.io/)
+- [RedotPay](https://www.redotpay.com/)
+- [Scallop](https://scallop.io/)
 
 Bronze
 
-- Anyflo (https://anyflo.io/)
-- Bluefin (https://bluefin.io/)
-- Merkle Science (https://www.merklescience.com/)
-- Sentio (https://www.sentio.xyz/)
-- WaterX (https://waterx.app/en/trade)
+- [Anyflo](https://anyflo.io/)
+- [Bluefin](https://bluefin.io/)
+- [Merkle Science](https://www.merklescience.com/)
+- [Sentio](https://www.sentio.xyz/)
+- [WaterX](https://waterx.app/en/trade)
 
-Interested in sponsoring Sui Basecamp? Apply here (https://docs.google.com/forms/d/e/1FAIpQLSeP9OoN07rUD_V3n6so9YgW4XyOyRjq33t_E3l47M9VVeB_nw/viewform)
+[Interested in sponsoring Sui Basecamp? Apply here](https://docs.google.com/forms/d/e/1FAIpQLSeP9OoN07rUD_V3n6so9YgW4XyOyRjq33t_E3l47M9VVeB_nw/viewform)
 
-By participating in this event, you agree to our Event Participation Terms & Conditions (https://drive.google.com/file/d/1rnbsqX02Xmd--RYMQO0Tuz57TkgFG_cs/view?usp=sharing). Read about our Privacy Policy (https://sui.io/policy#:~:text=We%20will%20never%20ask%20you,your%20use%20of%20the%20Services) and Terms of Service (https://sui.io/terms#:~:text=You%20acknowledge%20sole%20responsibility%20for,of%20any%20third-party%20resources.&text=We%20may%20suspend%20or%20terminate%20your%20access%20to%20and%20use,and%20without%20notice%20to%20you).
+By participating in this event, [you agree to our Event Participation Terms & Conditions](https://drive.google.com/file/d/1rnbsqX02Xmd--RYMQO0Tuz57TkgFG_cs/view?usp=sharing). [Read about our Privacy Policy](https://sui.io/policy#:~:text=We%20will%20never%20ask%20you,your%20use%20of%20the%20Services) [and Terms of Service](https://sui.io/terms#:~:text=You%20acknowledge%20sole%20responsibility%20for,of%20any%20third-party%20resources.&text=We%20may%20suspend%20or%20terminate%20your%20access%20to%20and%20use,and%20without%20notice%20to%20you).
 
 <a id="event-3aa965341b511e86"></a>
 
@@ -62155,47 +62127,47 @@ Join us in Singapore for Sui Basecamp 2026 at the iconic Marina Bay Sands with T
 - Lola Oyelayo-Pearson: Founder & CEO, Anyflo
 - Ivan Li: Founding Partner, Comma3 Ventures
 
-And many more. Check out the full lineup at sui.io/basecamp (https://sui.io/basecamp).
+[And many more. Check out the full lineup at sui.io/basecamp](https://sui.io/basecamp).
 
 ### We're going after our own TPS record
 
 On July 4 we pushed Sui to 6M+ transactions per second through a live experiment. On day one of Sui Basecamp, Kostas Chalkias and team run it again, live on the main stage, verified in real-time by CertiK.
 
-Call the number: submit one guess for what TPS will be achieved. Closest 3 guesses to the final figure earn prizes. Submit your guess » (https://go.sui.io/suibasecamptps)
+Call the number: submit one guess for what TPS will be achieved. Closest 3 [guesses to the final figure earn prizes. Submit your guess »](https://go.sui.io/suibasecamptps)
 
 ### Our Sponsors
 
 Diamond
 
-EVE Frontier (https://evefrontier.com/en) is a moddable, hardcore survival experience and next-gen virtual world from the creators of EVE Online. Follow on X (https://x.com/EVE_Frontier) and Discord (https://discord.com/invite/evefrontier).
+[EVE Frontier](https://evefrontier.com/en) is a moddable, hardcore survival experience and next-gen [virtual world from the creators of EVE Online. Follow on X](https://x.com/EVE_Frontier) [and Discord](https://discord.com/invite/evefrontier).
 
-Walrus (https://walrus.xyz/) is the data platform built for the demands of AI. It makes data portable, protected, and verifiable by anyone. Created by the ex-Meta engineers behind Sui. Follow on X (https://x.com/WalrusProtocol) and LinkedIn (https://www.linkedin.com/company/walrus-foundation/).
+[Walrus](https://walrus.xyz/) is the data platform built for the demands of AI. It makes data portable, protected, and verifiable by anyone. [Created by the ex-Meta engineers behind Sui. Follow on X](https://x.com/WalrusProtocol) [and LinkedIn](https://www.linkedin.com/company/walrus-foundation/).
 
 Platinum
 
-- ONE Championship (https://www.onefc.com/)
-- SUIG (https://www.suig.io/)
+- [ONE Championship](https://www.onefc.com/)
+- [SUIG](https://www.suig.io/)
 
 Gold
 
-- Slush (https://slush.app/)
+- [Slush](https://slush.app/)
 
 Silver
 
-- RedotPay (https://www.redotpay.com/)
-- Scallop (https://scallop.io/)
+- [RedotPay](https://www.redotpay.com/)
+- [Scallop](https://scallop.io/)
 
 Bronze
 
-- Anyflo (https://anyflo.io/)
-- Bluefin (https://bluefin.io/)
-- Merkle Science (https://www.merklescience.com/)
-- Sentio (https://www.sentio.xyz/)
-- WaterX (https://waterx.app/en/trade)
+- [Anyflo](https://anyflo.io/)
+- [Bluefin](https://bluefin.io/)
+- [Merkle Science](https://www.merklescience.com/)
+- [Sentio](https://www.sentio.xyz/)
+- [WaterX](https://waterx.app/en/trade)
 
-Interested in sponsoring Sui Basecamp? Apply here (https://docs.google.com/forms/d/e/1FAIpQLSeP9OoN07rUD_V3n6so9YgW4XyOyRjq33t_E3l47M9VVeB_nw/viewform)
+[Interested in sponsoring Sui Basecamp? Apply here](https://docs.google.com/forms/d/e/1FAIpQLSeP9OoN07rUD_V3n6so9YgW4XyOyRjq33t_E3l47M9VVeB_nw/viewform)
 
-By participating in this event, you agree to our Event Participation Terms & Conditions (https://drive.google.com/file/d/1rnbsqX02Xmd--RYMQO0Tuz57TkgFG_cs/view?usp=sharing). Read about our Privacy Policy (https://sui.io/policy#:~:text=We%20will%20never%20ask%20you,your%20use%20of%20the%20Services) and Terms of Service (https://sui.io/terms#:~:text=You%20acknowledge%20sole%20responsibility%20for,of%20any%20third-party%20resources.&text=We%20may%20suspend%20or%20terminate%20your%20access%20to%20and%20use,and%20without%20notice%20to%20you).
+By participating in this event, [you agree to our Event Participation Terms & Conditions](https://drive.google.com/file/d/1rnbsqX02Xmd--RYMQO0Tuz57TkgFG_cs/view?usp=sharing). [Read about our Privacy Policy](https://sui.io/policy#:~:text=We%20will%20never%20ask%20you,your%20use%20of%20the%20Services) [and Terms of Service](https://sui.io/terms#:~:text=You%20acknowledge%20sole%20responsibility%20for,of%20any%20third-party%20resources.&text=We%20may%20suspend%20or%20terminate%20your%20access%20to%20and%20use,and%20without%20notice%20to%20you).
 
 <a id="event-13f8a230bdc9a980"></a>
 
@@ -62239,47 +62211,47 @@ Join us in Singapore for Sui Basecamp 2026 at the iconic Marina Bay Sands with T
 - Lola Oyelayo-Pearson: Founder & CEO, Anyflo
 - Ivan Li: Founding Partner, Comma3 Ventures
 
-And many more. Check out the full lineup at sui.io/basecamp (https://sui.io/basecamp).
+[And many more. Check out the full lineup at sui.io/basecamp](https://sui.io/basecamp).
 
 ### We're going after our own TPS record
 
 On July 4 we pushed Sui to 6M+ transactions per second through a live experiment. On day one of Sui Basecamp, Kostas Chalkias and team run it again, live on the main stage, verified in real-time by CertiK.
 
-Call the number: submit one guess for what TPS will be achieved. Closest 3 guesses to the final figure earn prizes. Submit your guess » (https://go.sui.io/suibasecamptps)
+Call the number: submit one guess for what TPS will be achieved. Closest 3 [guesses to the final figure earn prizes. Submit your guess »](https://go.sui.io/suibasecamptps)
 
 ### Our Sponsors
 
 Diamond
 
-EVE Frontier (https://evefrontier.com/en) is a moddable, hardcore survival experience and next-gen virtual world from the creators of EVE Online. Follow on X (https://x.com/EVE_Frontier) and Discord (https://discord.com/invite/evefrontier).
+[EVE Frontier](https://evefrontier.com/en) is a moddable, hardcore survival experience and next-gen [virtual world from the creators of EVE Online. Follow on X](https://x.com/EVE_Frontier) [and Discord](https://discord.com/invite/evefrontier).
 
-Walrus (https://walrus.xyz/) is the data platform built for the demands of AI. It makes data portable, protected, and verifiable by anyone. Created by the ex-Meta engineers behind Sui. Follow on X (https://x.com/WalrusProtocol) and LinkedIn (https://www.linkedin.com/company/walrus-foundation/).
+[Walrus](https://walrus.xyz/) is the data platform built for the demands of AI. It makes data portable, protected, and verifiable by anyone. [Created by the ex-Meta engineers behind Sui. Follow on X](https://x.com/WalrusProtocol) [and LinkedIn](https://www.linkedin.com/company/walrus-foundation/).
 
 Platinum
 
-- ONE Championship (https://www.onefc.com/)
-- SUIG (https://www.suig.io/)
+- [ONE Championship](https://www.onefc.com/)
+- [SUIG](https://www.suig.io/)
 
 Gold
 
-- Slush (https://slush.app/)
+- [Slush](https://slush.app/)
 
 Silver
 
-- RedotPay (https://www.redotpay.com/)
-- Scallop (https://scallop.io/)
+- [RedotPay](https://www.redotpay.com/)
+- [Scallop](https://scallop.io/)
 
 Bronze
 
-- Anyflo (https://anyflo.io/)
-- Bluefin (https://bluefin.io/)
-- Merkle Science (https://www.merklescience.com/)
-- Sentio (https://www.sentio.xyz/)
-- WaterX (https://waterx.app/en/trade)
+- [Anyflo](https://anyflo.io/)
+- [Bluefin](https://bluefin.io/)
+- [Merkle Science](https://www.merklescience.com/)
+- [Sentio](https://www.sentio.xyz/)
+- [WaterX](https://waterx.app/en/trade)
 
-Interested in sponsoring Sui Basecamp? Apply here (https://docs.google.com/forms/d/e/1FAIpQLSeP9OoN07rUD_V3n6so9YgW4XyOyRjq33t_E3l47M9VVeB_nw/viewform)
+[Interested in sponsoring Sui Basecamp? Apply here](https://docs.google.com/forms/d/e/1FAIpQLSeP9OoN07rUD_V3n6so9YgW4XyOyRjq33t_E3l47M9VVeB_nw/viewform)
 
-By participating in this event, you agree to our Event Participation Terms & Conditions (https://drive.google.com/file/d/1rnbsqX02Xmd--RYMQO0Tuz57TkgFG_cs/view?usp=sharing). Read about our Privacy Policy (https://sui.io/policy#:~:text=We%20will%20never%20ask%20you,your%20use%20of%20the%20Services) and Terms of Service (https://sui.io/terms#:~:text=You%20acknowledge%20sole%20responsibility%20for,of%20any%20third-party%20resources.&text=We%20may%20suspend%20or%20terminate%20your%20access%20to%20and%20use,and%20without%20notice%20to%20you).
+By participating in this event, [you agree to our Event Participation Terms & Conditions](https://drive.google.com/file/d/1rnbsqX02Xmd--RYMQO0Tuz57TkgFG_cs/view?usp=sharing). [Read about our Privacy Policy](https://sui.io/policy#:~:text=We%20will%20never%20ask%20you,your%20use%20of%20the%20Services) [and Terms of Service](https://sui.io/terms#:~:text=You%20acknowledge%20sole%20responsibility%20for,of%20any%20third-party%20resources.&text=We%20may%20suspend%20or%20terminate%20your%20access%20to%20and%20use,and%20without%20notice%20to%20you).
 
 <a id="event-07ed4f2476ce8b40"></a>
 
@@ -62323,47 +62295,47 @@ Join us in Singapore for Sui Basecamp 2026 at the iconic Marina Bay Sands with T
 - Lola Oyelayo-Pearson: Founder & CEO, Anyflo
 - Ivan Li: Founding Partner, Comma3 Ventures
 
-And many more. Check out the full lineup at sui.io/basecamp (https://sui.io/basecamp).
+[And many more. Check out the full lineup at sui.io/basecamp](https://sui.io/basecamp).
 
 ### We're going after our own TPS record
 
 On July 4 we pushed Sui to 6M+ transactions per second through a live experiment. On day one of Sui Basecamp, Kostas Chalkias and team run it again, live on the main stage, verified in real-time by CertiK.
 
-Call the number: submit one guess for what TPS will be achieved. Closest 3 guesses to the final figure earn prizes. Submit your guess » (https://go.sui.io/suibasecamptps)
+Call the number: submit one guess for what TPS will be achieved. Closest 3 [guesses to the final figure earn prizes. Submit your guess »](https://go.sui.io/suibasecamptps)
 
 ### Our Sponsors
 
 Diamond
 
-EVE Frontier (https://evefrontier.com/en) is a moddable, hardcore survival experience and next-gen virtual world from the creators of EVE Online. Follow on X (https://x.com/EVE_Frontier) and Discord (https://discord.com/invite/evefrontier).
+[EVE Frontier](https://evefrontier.com/en) is a moddable, hardcore survival experience and next-gen [virtual world from the creators of EVE Online. Follow on X](https://x.com/EVE_Frontier) [and Discord](https://discord.com/invite/evefrontier).
 
-Walrus (https://walrus.xyz/) is the data platform built for the demands of AI. It makes data portable, protected, and verifiable by anyone. Created by the ex-Meta engineers behind Sui. Follow on X (https://x.com/WalrusProtocol) and LinkedIn (https://www.linkedin.com/company/walrus-foundation/).
+[Walrus](https://walrus.xyz/) is the data platform built for the demands of AI. It makes data portable, protected, and verifiable by anyone. [Created by the ex-Meta engineers behind Sui. Follow on X](https://x.com/WalrusProtocol) [and LinkedIn](https://www.linkedin.com/company/walrus-foundation/).
 
 Platinum
 
-- ONE Championship (https://www.onefc.com/)
-- SUIG (https://www.suig.io/)
+- [ONE Championship](https://www.onefc.com/)
+- [SUIG](https://www.suig.io/)
 
 Gold
 
-- Slush (https://slush.app/)
+- [Slush](https://slush.app/)
 
 Silver
 
-- RedotPay (https://www.redotpay.com/)
-- Scallop (https://scallop.io/)
+- [RedotPay](https://www.redotpay.com/)
+- [Scallop](https://scallop.io/)
 
 Bronze
 
-- Anyflo (https://anyflo.io/)
-- Bluefin (https://bluefin.io/)
-- Merkle Science (https://www.merklescience.com/)
-- Sentio (https://www.sentio.xyz/)
-- WaterX (https://waterx.app/en/trade)
+- [Anyflo](https://anyflo.io/)
+- [Bluefin](https://bluefin.io/)
+- [Merkle Science](https://www.merklescience.com/)
+- [Sentio](https://www.sentio.xyz/)
+- [WaterX](https://waterx.app/en/trade)
 
-Interested in sponsoring Sui Basecamp? Apply here (https://docs.google.com/forms/d/e/1FAIpQLSeP9OoN07rUD_V3n6so9YgW4XyOyRjq33t_E3l47M9VVeB_nw/viewform)
+[Interested in sponsoring Sui Basecamp? Apply here](https://docs.google.com/forms/d/e/1FAIpQLSeP9OoN07rUD_V3n6so9YgW4XyOyRjq33t_E3l47M9VVeB_nw/viewform)
 
-By participating in this event, you agree to our Event Participation Terms & Conditions (https://drive.google.com/file/d/1rnbsqX02Xmd--RYMQO0Tuz57TkgFG_cs/view?usp=sharing). Read about our Privacy Policy (https://sui.io/policy#:~:text=We%20will%20never%20ask%20you,your%20use%20of%20the%20Services) and Terms of Service (https://sui.io/terms#:~:text=You%20acknowledge%20sole%20responsibility%20for,of%20any%20third-party%20resources.&text=We%20may%20suspend%20or%20terminate%20your%20access%20to%20and%20use,and%20without%20notice%20to%20you).
+By participating in this event, [you agree to our Event Participation Terms & Conditions](https://drive.google.com/file/d/1rnbsqX02Xmd--RYMQO0Tuz57TkgFG_cs/view?usp=sharing). [Read about our Privacy Policy](https://sui.io/policy#:~:text=We%20will%20never%20ask%20you,your%20use%20of%20the%20Services) [and Terms of Service](https://sui.io/terms#:~:text=You%20acknowledge%20sole%20responsibility%20for,of%20any%20third-party%20resources.&text=We%20may%20suspend%20or%20terminate%20your%20access%20to%20and%20use,and%20without%20notice%20to%20you).
 
 <a id="event-7197e36fd0e8b00d"></a>
 
@@ -62381,11 +62353,11 @@ Enter our prestigious Web3 Founders and Investors event at Token2049 Singapore
 
 On October 7th, between 11am and 2pm, be part of an exclusive guest list featuring leading Web3 industry professionals, investors, and innovative founders. This isn't your typical brunch - it's a close-knit gathering of individuals influencing the trajectory of the blockchain space. Enhance your networking experience and indulge in unparalleled insights. Reserve your place now!
 
-Past attendees and partners: Greyscale Investments, Galaxy Digital, Polychain Capital, Hashkey Capital, Multicoin Capital, Fabric Ventures, A16z, Pantera Capital, Sequoia, Vayner Media, Crypto.com (https://Crypto.com), Binance, Meta, Coinbase, Polygon Ventures, Arca, M2, ByBit, Sino Global Capital, USV, Metis, Figment, Near, Coin Telegraph, Decrypt & many more
+Past attendees and partners: Greyscale Investments, Galaxy Digital, Polychain Capital, Hashkey Capital, Multicoin Capital, Fabric Ventures, [A16z, Pantera Capital, Sequoia, Vayner Media, Crypto.com](https://Crypto.com), Binance, Meta, Coinbase, Polygon Ventures, Arca, M2, ByBit, Sino Global Capital, USV, Metis, Figment, Near, Coin Telegraph, Decrypt & many more
 
 Special guest judge: Ivan Patriki
 
-Ivan Patriki is a fintech marketing specialist, Writer, & content creator influencer. He is the founder of QuantMap.app (https://QuantMap.app), a tool that visualizes complex quantitative trading tools for retail investors & traders & the Co-host of the On the Margin Podcast - https://themargin.tv - where he interviews billionaires, politicians, ceos, & olympians
+Ivan Patriki is a fintech marketing specialist, Writer, & [content creator influencer. He is the founder of QuantMap.app](https://QuantMap.app), a tool that visualizes complex quantitative trading tools for retail investors & traders & the Co-host of the On the Margin Podcast - https://themargin.tv - where he interviews billionaires, politicians, ceos, & olympians
 
 Presented by:
 
@@ -62397,7 +62369,7 @@ fractl is a global network of 19,000+ top tier founders & 5,000+ investors, VCs,
 
 60,000+ registrants across our events to date
 
-www.fractl.ca (https://www.fractl.ca)
+[www.fractl.ca](https://www.fractl.ca)
 
 > Skynet Trading
 
@@ -62409,8 +62381,8 @@ www.fractl.ca (https://www.fractl.ca)
 
 > Market maker established in 2019 with a track record of 500+ clients, our institutional-grade infrastructure spans across 60+ CEXs, 20+ DEXs, (and 10+ VMs).
 
-- Telegram: @SkynetBusiness (https://t.me/SkynetBusiness?utm_source=luma)
-- Website: www.skynettrading.com (https://www.skynettrading.com)
+- [Telegram: @SkynetBusiness](https://t.me/SkynetBusiness?utm_source=luma)
+- [Website: www.skynettrading.com](https://www.skynettrading.com)
 
 > InstaSwap
 
@@ -62418,15 +62390,15 @@ www.fractl.ca (https://www.fractl.ca)
 
 > InstaSwap is a privacy-first, non-custodial cross-chain execution platform, live since 2018 and trusted across 66+ chains. The platform brings swaps, spot, perps, tokenized assets, and confidential settlement into one execution layer for traders and the wallets, apps, and protocols building on-chain finance.
 
-- X: @instaswap_io (https://x.com/instaswap_io)
-- Website: instaswap.com (https://instaswap.com/)
+- [X: @instaswap_io](https://x.com/instaswap_io)
+- [Website: instaswap.com](https://instaswap.com/)
 
 Sponsors | Co-Hosts | Partnerships
 
 If you would like to showcase your project, product or service to our highly curated audience, reach out to our team:
 
-- Telegram: @sarah_fractl (http://t.me/sarah_fractl)
-- Email: sarah@fractl.ca (http://mailto:sarah@fractl.ca)
+- [Telegram: @sarah_fractl](http://t.me/sarah_fractl)
+- [Email: sarah@fractl.ca](http://mailto:sarah@fractl.ca)
 
 ### fractl world tour
 
@@ -62463,9 +62435,9 @@ The Peak is hosted at Singapore's most premium penthouse suite, in an iconic 5-s
 
 ### Hosted By
 
-The Best Event (https://www.instagram.com/_thebestevent?utm_source=luma) is the global event series where Web3 comes to life. With over 120+ events organised across 24+ cities, and 60,000 guests, The Best Event is a leader in the space. From bespoke and intimate meetups, to large-scale parties at the likes of Marquee and E11even Miami, we bring together the boldest creators, top brands, and visionaries shaping the future for unforgettable experiences.
+[The Best Event](https://www.instagram.com/_thebestevent?utm_source=luma) is the global event series where Web3 comes to life. With over 120+ events organised across 24+ cities, and 60,000 guests, The Best Event is a leader in the space. From bespoke and intimate meetups, to large-scale parties at the likes of Marquee and E11even Miami, we bring together the boldest creators, top brands, and visionaries shaping the future for unforgettable experiences.
 
-For sponsor inquiries for the penthouse editions, please contact Mihir via Telegram (https://t.me/mihirodhrani) or email mihir@tbv.xyz.
+For sponsor inquiries [for the penthouse editions, please contact Mihir via Telegram](https://t.me/mihirodhrani) or email mihir@tbv.xyz.
 
 <a id="event-39e658d619da586a"></a>
 
@@ -62499,7 +62471,7 @@ Hosted by Spectrum Nodes, Lido Events. The event takes place on October 7. Regis
 
 ### Private VIP brunch on Marina Bay
 
-Join Arrakis (https://arrakis.finance/?utm_source=luma) and the Bitpanda Vision Foundation (https://vision.now/) for an intimate private brunch overlooking Marina Bay, where you'll meet 50+ hand-selected tokenized equity and commodity issuers, asset managers, family offices, exchanges, wallets, and startups building on RWAs, away from the hustle of Token2049.
+[Join Arrakis](https://arrakis.finance/?utm_source=luma) [and the Bitpanda Vision Foundation](https://vision.now/) for an intimate private brunch overlooking Marina Bay, where you'll meet 50+ hand-selected tokenized equity and commodity issuers, asset managers, family offices, exchanges, wallets, and startups building on RWAs, away from the hustle of Token2049.
 
 ### Event Details
 
@@ -62565,15 +62537,15 @@ Venue: Marina One West Tower, Level 3, Room 2
 
 ### Hosted by
 
-Spartan Group: Twitter (https://twitter.com/TheSpartanGroup?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor&utm_source=luma) | Website (https://www.spartangroup.io/?utm_source=luma)
+[Spartan Group: Twitter](https://twitter.com/TheSpartanGroup?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor&utm_source=luma) | [Website](https://www.spartangroup.io/?utm_source=luma)
 
 Founded in 2017, Spartan Group is a leading player in the Web3 space. We are one of the most active venture investors and have backed some of the leading crypto companies and networks. We are also a leader in Web3 M&A deals and capital raises, leveraging our track record of working with world-class teams, deep expertise of the crypto industry, and unparalleled network to create collective value with exceptional founders.
 
-Pantera Capital: Twitter (https://x.com/PanteraCapital?utm_source=luma) | Website (https://panteracapital.com/?utm_source=luma)
+[Pantera Capital: Twitter](https://x.com/PanteraCapital?utm_source=luma) | [Website](https://panteracapital.com/?utm_source=luma)
 
 Pantera Capital is the first U.S. institutional asset manager dedicated exclusively to blockchain technology. Since 2013, Pantera has invested in digital assets and blockchain companies, offering investors broad exposure to the evolving blockchain landscape.
 
-Maven 11: Twitter (https://x.com/Maven11Capital) | Website (https://maven11.com/)
+[Maven 11: Twitter](https://x.com/Maven11Capital) | [Website](https://maven11.com/)
 
 Maven 11 is one of Europe's pioneering crypto venture capital firms, operating out of Amsterdam. We launched our first venture fund in 2017, followed by a second in 2021 and our third in 2024. We've supported well over 100 ventures across the blockchain ecosystem worldwide.
 
@@ -62707,7 +62679,7 @@ Important Notes: This is an exclusive summit with a curated guest list. Registra
 
 Join us for Arbitrum Founders Eve and Pitch Competition, a dedicated founder-focused gathering hosted by Arbitrum during TOKEN2049 Singapore.
 
-If you're interested in pitching your startup, APPLY HERE (https://luma.com/clqsn9rk)
+[If you're interested in pitching your startup, APPLY HERE](https://luma.com/clqsn9rk)
 
 Designed for founders, developers, and teams exploring or already building on Arbitrum, the event connects attendees directly with the Arbitrum Foundation team, ecosystem partners, sponsors, and operators, while providing access to the programs, opportunities, and capital needed to launch and scale their projects in the programmable economy.
 
@@ -62725,7 +62697,7 @@ Pitch Competition in Association with DeFi Founders Club
 
 Selected founders will pitch their startups live to investors, ecosystem leaders, and operators. The winning founder will receive a sponsored trip to Arbitrum Founder House Singapore, taking place October 23-25.
 
-If you're interested in pitching your startup, APPLY HERE (https://luma.com/clqsn9rk)
+[If you're interested in pitching your startup, APPLY HERE](https://luma.com/clqsn9rk)
 
 ### Agenda
 
@@ -62758,7 +62730,7 @@ Over three days, selected teams will work directly with mentors from Arbitrum, O
 
 Held in association with Robinhood Chain, Founder House Singapore will offer a total prize pool of $300,000, with support from sponsors and ecosystem partners including Pendle, Dune, GMX, Paxos, Pendle, SBI, and more.
 
-Apply for Founder House Singapore (https://luma.com/openhouse-singapore?utm_source=src.luma-token2049~med.social~cmp.oh-singapore-founder-house)
+[Apply for Founder House Singapore](https://luma.com/openhouse-singapore?utm_source=src.luma-token2049~med.social~cmp.oh-singapore-founder-house)
 
 ### About Arbitrum
 
@@ -62782,7 +62754,7 @@ By attending, you authorize the event organizers and partners to use and publish
 
 Join us for Arbitrum Founders Eve and Pitch Competition, a dedicated founder-focused gathering hosted by Arbitrum during TOKEN2049 Singapore.
 
-If you're interested in pitching your startup, APPLY HERE (https://luma.com/clqsn9rk)
+[If you're interested in pitching your startup, APPLY HERE](https://luma.com/clqsn9rk)
 
 Designed for founders, developers, and teams exploring or already building on Arbitrum, the event connects attendees directly with the Arbitrum Foundation team, ecosystem partners, sponsors, and operators, while providing access to the programs, opportunities, and capital needed to launch and scale their projects in the programmable economy.
 
@@ -62800,7 +62772,7 @@ Pitch Competition in Association with DeFi Founders Club
 
 Selected founders will pitch their startups live to investors, ecosystem leaders, and operators. The winning founder will receive a sponsored trip to Arbitrum Founder House Singapore, taking place October 23-25.
 
-If you're interested in pitching your startup, APPLY HERE (https://luma.com/clqsn9rk)
+[If you're interested in pitching your startup, APPLY HERE](https://luma.com/clqsn9rk)
 
 ### Agenda
 
@@ -62833,7 +62805,7 @@ Over three days, selected teams will work directly with mentors from Arbitrum, O
 
 Held in association with Robinhood Chain, Founder House Singapore will offer a total prize pool of $300,000, with support from sponsors and ecosystem partners including Pendle, Dune, GMX, Paxos, Pendle, SBI, and more.
 
-Apply for Founder House Singapore (https://luma.com/openhouse-singapore?utm_source=src.luma-token2049~med.social~cmp.oh-singapore-founder-house)
+[Apply for Founder House Singapore](https://luma.com/openhouse-singapore?utm_source=src.luma-token2049~med.social~cmp.oh-singapore-founder-house)
 
 ### About Arbitrum
 
@@ -62861,7 +62833,7 @@ On October 7th, between 3pm and 5pm, be part of an exclusive guest list featurin
 
 Excited to see you again! Or meet you in person for the first time :D
 
-past attendees and partners: Fabric Ventures, A16z, Pantera Capital, Vayner Media, Crypto.com (http://Crypto.com), Binance, Meta, Coinbase, OP, Polygon, Arca, M2, ByBit, Sino Global Capital, Arbitrum, USV, Metis, Figment, Near, Coin Telegraph, Decrypt, Polkadot, Sequoia, Multicoin Capital & many more
+past attendees and partners: Fabric [Ventures, A16z, Pantera Capital, Vayner Media, Crypto.com](http://Crypto.com), Binance, Meta, Coinbase, OP, Polygon, Arca, M2, ByBit, Sino Global Capital, Arbitrum, USV, Metis, Figment, Near, Coin Telegraph, Decrypt, Polkadot, Sequoia, Multicoin Capital & many more
 
 Presented by:
 
@@ -62873,7 +62845,7 @@ fractl is a global network of 19,000+ top tier founders & 5,000+ investors broug
 
 60,000+ registrants across our events to date
 
-www.fractl.ca (http://www.fractl.ca)
+[www.fractl.ca](http://www.fractl.ca)
 
 The Rodman Law Group
 
@@ -62981,15 +62953,15 @@ The Milken Institute welcomes speaker recommendations for Asia Summit 2026. Reco
 
 ### About the event
 
-After The Token2049 Dubai Blast (https://lu.ma/ka7540hd), Team Atlassoit (https://atlassoit.co/) is back with our DEMO DAYS
+[After The Token2049 Dubai Blast](https://lu.ma/ka7540hd), [Team Atlassoit](https://atlassoit.co/) is back with our DEMO DAYS
 
 Meet the Next Generation of Web3 Security Innovators! After an intense hackathon, the brightest minds in Web3XAI will pitch their groundbreaking security solutions to a panel of top investors and judges. Don't miss your chance to witness tomorrow's tech today and maybe even spot the next unicorn!
 
 Partners -
 
-Decubate is a leading technology provider, accelerator and launchpad (https://platform.decubate.com/), that has empowered over 200 founders since 2021. Being Europe's first MiCA-compliant crowdfunding platform, Decubate setting the standard for compliant, scalable Web3 growth.
+Decubate [is a leading technology provider, accelerator and launchpad](https://platform.decubate.com/), that has empowered over 200 founders since 2021. Being Europe's first MiCA-compliant crowdfunding platform, Decubate setting the standard for compliant, scalable Web3 growth.
 
-For Sponsorships and inquiries, please get in touch with Carl via Telegram (https://t.me/CarlAtlassoit).
+For Sponsorships [and inquiries, please get in touch with Carl via Telegram](https://t.me/CarlAtlassoit).
 
 What's Happening?
 
@@ -63063,7 +63035,7 @@ Contact - kishan@atlassoit.co
 
 本次活动采用邀请制入场，为嘉宾提供高密度、私密的行业连接，您若认为自己属于被邀请的，请填写报名信息，我们审核后会联系您。
 
-> 如有商务或合作需求，请联系 connect@bifu.co (https://mailto:connect@bifu.co)，或telegram @takshire
+> 如有商务或合作需求，请联系 [connect@bifu.co](https://mailto:connect@bifu.co)，或telegram @takshire
 
 ### 时间流程｜Agenda
 
@@ -63212,7 +63184,7 @@ Secure your spot and step into a room full of the brightest marketing leaders in
 
 Apply for Invitation
 
-Inquiries: Telegram: @AlexThorneTG (https://t.me/AlexThorneTG)
+[Inquiries: Telegram: @AlexThorneTG](https://t.me/AlexThorneTG)
 
 <a id="event-387fcc56fe3ac2ee"></a>
 
@@ -63232,7 +63204,7 @@ During Token2049 week, we bring together the two groups that rarely share a room
 
 On the night: a private sail as the sun goes down, a drone light show over open water, a fireside close on the sand once the boat comes in, and the atmosphere to match.
 
-Hosted by Capvise Group (https://www.capvise.group/).
+[Hosted by Capvise Group](https://www.capvise.group/).
 
 Seats are limited and by approval. Request to board below.
 
@@ -63242,7 +63214,7 @@ This is an invite-only evening. Your spot is confirmed once you're approved. Boa
 
 (The exact marina and boarding point are shared with confirmed guests two days before)
 
-for partnerships: (@sahilxdev (https://t.me/sahilxdev))
+for partnerships: (@[sahilxdev](https://t.me/sahilxdev))
 
 <a id="event-b940ab61a56c3f27"></a>
 
@@ -63272,7 +63244,7 @@ Spots are limited - RSVP to secure yours.
 
 ### About STS Digital and Derive.xyz
 
-STS Digital is an institutional digital-asset trading and liquidity platform, providing access to options and spot across 400+ tokens, alongside market making, OTC, structured products and treasury solutions. Regulated by the Bermuda Monetary Authority, STS delivers 24/7/365 global coverage, institutional-grade pricing, and deep liquidity. It's good to have Options. Visit www.stsdigital.io (https://www.stsdigital.io)
+STS Digital is an institutional digital-asset trading and liquidity platform, providing access to options and spot across 400+ tokens, alongside market making, OTC, structured products and treasury solutions. Regulated by the Bermuda Monetary Authority, STS delivers 24/7/365 global coverage, institutional-grade pricing, and deep [liquidity. It's good to have Options. Visit www.stsdigital.io](https://www.stsdigital.io)
 
 Derive.xyz is the leading onchain options platform, handling 90% of all onchain options volume. Derive is now rolling out V3, its most ambitious update yet, giving it full control of the stack end to end, enabling one-click vaults and direct settlement on ETH L1. https://derive.xyz/
 
@@ -63488,7 +63460,7 @@ This is where high-stakes pitches, real capital, and the projects shaping the ne
 
 Set against the Singapore skyline at LAVO, 57 floors above Marina Bay Sands, the evening moves from live pitches into rooftop drinks, curated bites, networking, and a House DJ.
 
-Project applications are open August 31 - September 14, 2026. Apply here (https://airtable.com/appgZsFDMlOC9dbNi/pagcBRq0WRIvjnJL1/form). Submission does not guarantee a pitch slot; selected presenters will be notified directly.
+Project applications [are open August 31 - September 14, 2026. Apply here](https://airtable.com/appgZsFDMlOC9dbNi/pagcBRq0WRIvjnJL1/form). Submission does not guarantee a pitch slot; selected presenters will be notified directly.
 
 Capacity is limited. Registration approval required upon entry.
 
@@ -63502,7 +63474,7 @@ Up to $500,000.00 USD in total funding will be available and distributed among w
 
 REGISTRATION & PRIVACY DISCLAIMER:
 
-By registering for this event, you acknowledge that your name, email address, job title, and company name will be collected by Draper Dragon and the Cardano Foundation. Your personal data will be used for the purpose of facilitating your attendance of the event and to contact you for marketing purposes. You can opt-out of marketing communications at any time. See the Cardano Foundation's privacy policy here (https://cardanofoundation.org/policy/privacy), and Draper Dragon's privacy policy here (https://www.draperdragon.com/privacy).
+By registering for this event, you acknowledge that your name, email address, job title, and company name will be collected by Draper Dragon and the Cardano Foundation. Your personal data will be used for the purpose of facilitating your attendance of the event and to contact you for marketing purposes. You can opt-out of marketing communications [at any time. See the Cardano Foundation's privacy policy here](https://cardanofoundation.org/policy/privacy), [and Draper Dragon's privacy policy here](https://www.draperdragon.com/privacy).
 
 <a id="event-a75aab5c94f4ada8"></a>
 
@@ -63538,9 +63510,9 @@ Dress code: Smart Casual OR Tropical Business Casual!
 
 ### About the event
 
-Join n.exchange (https://n.exchange) for an exclusive networking happy hour during Token2049.
+[Join n.exchange](https://n.exchange) for an exclusive networking happy hour during Token2049.
 
-Whether you're building wallets, exchanges, fintech products, or institutional crypto infrastructure, come meet the n.exchange (https://n.exchange) team and connect with industry leaders over drinks and finger food.
+Whether you're building wallets, exchanges, fintech products, or [institutional crypto infrastructure, come meet the n.exchange](https://n.exchange) team and connect with industry leaders over drinks and finger food.
 
 We'll be hosting an informal evening of great conversations, new partnerships, and networking with teams shaping the future of digital assets.
 
@@ -63785,7 +63757,7 @@ Step 1 - Follow MiniApps Store on X
 
 Follow our official X account:
 
-X Twitter: https://x.com/ (https://x.com/miniapps_)miniapps_ (https://x.com/miniapps_)
+[X Twitter: https://x.com/](https://x.com/miniapps_)[miniapps_](https://x.com/miniapps_)
 
 Step 2 - Join the Official Telegram Channel
 
@@ -63891,11 +63863,11 @@ No presentations. No agendas. No conference rush. Just good people, great conver
 
 Quick Links
 
-Website (https://mstblockchain.com/) - Whitepaper (https://mstblockchain.com/) - Developer Docs (https://mstblockchain.com/) - Audit Report (https://mstblockchain.com/)
+[Website](https://mstblockchain.com/) - [Whitepaper](https://mstblockchain.com/) - [Developer Docs](https://mstblockchain.com/) - [Audit Report](https://mstblockchain.com/)
 
 Social Media Links:
 
-Twitter/X (https://x.com/MSTBlockchain) (https://x.com/MSTBlockchain)| Youtube (https://x.com/MSTBlockchain) | TG Group (https://x.com/MSTBlockchain) | TG Channel (https://x.com/MSTBlockchain) | Linkedin (https://x.com/MSTBlockchain)
+[Twitter/X](https://x.com/MSTBlockchain) (https://x.com/MSTBlockchain)| [Youtube](https://x.com/MSTBlockchain) | [TG Group](https://x.com/MSTBlockchain) | [TG Channel](https://x.com/MSTBlockchain) | [Linkedin](https://x.com/MSTBlockchain)
 
 <a id="event-bfef4d2fa2490906"></a>
 
@@ -63909,7 +63881,7 @@ Twitter/X (https://x.com/MSTBlockchain) (https://x.com/MSTBlockchain)| Youtube (
 
 ### About the event
 
-Join Quantstamp (https://quantstamp.com/?utm_source=luma), Common Defense (https://www.commondefense.ai/?utm_source=luma), Hypernative (https://www.hypernative.io/), and Lukka (https://lukka.tech/) for an exclusive networking evening in Singapore!
+[Join Quantstamp](https://quantstamp.com/?utm_source=luma), [Common Defense](https://www.commondefense.ai/?utm_source=luma), [Hypernative](https://www.hypernative.io/), [and Lukka](https://lukka.tech/) for an exclusive networking evening in Singapore!
 
 Meet the teams, connect with peers from across the ecosystem, and unwind over cocktails with fellow innovators shaping the future of Web3 and AI
 
@@ -63919,17 +63891,17 @@ Register now to secure your spot
 
 Quantstamp is a global leader in blockchain security. Since 2017, we've secured billions in digital assets and worked with some of the most recognized names in web3.
 
-Follow on X: x.com/quantstamp (https://x.com/quantstamp)
+[Follow on X: x.com/quantstamp](https://x.com/quantstamp)
 
-Learn more: quantstamp.com (https://quantstamp.com)
+[Learn more: quantstamp.com](https://quantstamp.com)
 
 ### Protecting humans from AI-native threats
 
 Defending people and organizations across email, messaging, social platforms, professional networks, and voice and video calls.
 
-Follow on X: x.com/CommonDefenseAI (https://x.com/CommonDefenseAI)
+[Follow on X: x.com/CommonDefenseAI](https://x.com/CommonDefenseAI)
 
-Learn More: commondefense.ai (https://commondefense.ai)
+[Learn More: commondefense.ai](https://commondefense.ai)
 
 Hypernative is the proactive onchain security platform for enterprises and institutions. We predict and neutralize digital asset threats before they materialize, unifying real-time monitoring, transaction security, fraud prevention, compliance screening, and automated response in a single, institutional-grade platform.
 
@@ -63937,15 +63909,15 @@ Powered by the most battle-tested machine learning engine in digital asset secur
 
 Trusted by 350+ leading organizations including top financial institutions, exchanges, asset managers, protocols, and chains, Hypernative provides the security infrastructure that gives enterprises and institutions the confidence to operate and scale in the onchain economy.
 
-Follow on X: x.com/HypernativeLabs (https://x.com/HypernativeLabs)
+[Follow on X: x.com/HypernativeLabs](https://x.com/HypernativeLabs)
 
-Learn more: hypernative.io (https://hypernative.io)
+[Learn more: hypernative.io](https://hypernative.io)
 
 Lukka is the institutional-grade platform for digital assets, delivering trusted pricing, reference data, valuation, blockchain analytics, compliance, and audit-ready reporting where every number traces back to its source. Lukka gives banks, asset managers, exchanges, auditors, regulators, and other institutions the end-to-end infrastructure to value, reconcile, report, and govern on-chain and off-chain activity with confidence.
 
 Follow on X: https://x.com/Lukka
 
-Learn more: lukka.tech (https://lukka.tech/)
+[Learn more: lukka.tech](https://lukka.tech/)
 
 ### Media Partner
 
@@ -63953,7 +63925,7 @@ Mira is the discovery platform for digital finance and frontier tech - events, c
 
 Follow on X: https://x.com/miragather
 
-Learn more: miragather.com (https://miragather.com/)
+[Learn more: miragather.com](https://miragather.com/)
 
 <a id="event-04bd59f1614f8f9d"></a>
 
@@ -63993,7 +63965,7 @@ Exclusive VIP Areas for sponsors & special guests
 - Token2049 attendees looking for the wildest night of the week
 - The Web3 crowd that knows the best deals happen after dark
 
-For Sponsorships and inquiries, please get in touch with Carl via Telegram (https://t.me/CarlAtlassoit).
+For Sponsorships [and inquiries, please get in touch with Carl via Telegram](https://t.me/CarlAtlassoit).
 
 ### Why This Party?
 
@@ -64007,7 +63979,7 @@ We're currently open to a limited number of sponsor partnerships to co-host or e
 
 Telegram - https://t.me/Atlassoit
 
-Events head - Carl miller (https://t.me/carlatlassoit)
+[Events head - Carl miller](https://t.me/carlatlassoit)
 
 Contact - kishan@atlassoit.co
 
@@ -64023,8 +63995,8 @@ Media Co-host -
 
 ### Media Partners
 
-- Cryptopolitan (https://cryptopolitan.com/) - One of the World's most influential tech and crypto new outlets.
-- Coingabbar (https://coingabbar.com/) - Coingabbar is your go-to platform for comprehensive cryptocurrency news and updates.
+- [Cryptopolitan](https://cryptopolitan.com/) - One of the World's most influential tech and crypto new outlets.
+- [Coingabbar](https://coingabbar.com/) - Coingabbar is your go-to platform for comprehensive cryptocurrency news and updates.
 
 <a id="event-e6991e55c6a67ab5"></a>
 
@@ -64117,11 +64089,11 @@ KOLs, Media and Communities - creators, industry influencers, journalists and co
 
 ### Host
 
-UPay (https://upay.com/) is a global financial technology platform building modern payment solutions that connect digital assets with everyday financial experiences. Through consumer and business payment solutions, UPay enables individuals and businesses to move, manage and use value across borders more seamlessly.
+[UPay](https://upay.com/) is a global financial technology platform building modern payment solutions that connect digital assets with everyday financial experiences. Through consumer and business payment solutions, UPay enables individuals and businesses to move, manage and use value across borders more seamlessly.
 
-Website: www.upay.com (https://www.upay.com)
+[Website: www.upay.com](https://www.upay.com)
 
-B2B: Crypto Payment Gateway for Modern Businesses (https://business.upay.com/)
+[B2B: Crypto Payment Gateway for Modern Businesses](https://business.upay.com/)
 
 Socials:
 
@@ -64139,17 +64111,17 @@ PayTheFly(DeScript Labs INC) is a leading provider in digital asset settlement a
 
 Socials:
 
-PayTheFly - Intent-based On chain Payment (https://paythefly.com/)
+[PayTheFly - Intent-based On chain Payment](https://paythefly.com/)
 
-PayTheFly (@paythefly) / X (https://x.com/paythefly)
+PayTheFly (@paythefly) / [X](https://x.com/paythefly)
 
-DeScript Labs INC - PayTheFly: Posts | LinkedIn (https://www.linkedin.com/company/descript-paythefly/posts/?feedView=all)
+[DeScript Labs INC - PayTheFly: Posts | LinkedIn](https://www.linkedin.com/company/descript-paythefly/posts/?feedView=all)
 
 ### Platinum Sponsor
 
 Safeheron offers institutional-grade, comprehensive digital asset self-custody services and MPC privatization solutions, enabling enterprises to securely and efficiently manage their digital assets.
 
-Website: Institutional MPC Self-Custody & Wallet Infrastructure | Safeheron (https://safeheron.com/)
+Website: Institutional [MPC Self-Custody & Wallet Infrastructure | Safeheron](https://safeheron.com/)
 
 Socials:
 
@@ -64159,7 +64131,7 @@ https://www.linkedin.com/company/safeheron/
 
 ### Gold Sponsor
 
-CryptoLicense.io (https://CryptoLicense.io) helps digital asset businesses go from application to operation. Get licensed. Get banked. Go live. We're the compliance partner behind payment businesses that actually launch.
+[CryptoLicense.io](https://CryptoLicense.io) helps digital asset businesses go from application to operation. Get licensed. Get banked. Go live. We're the compliance partner behind payment businesses that actually launch.
 
 Socials:
 
@@ -64169,17 +64141,17 @@ https://www.linkedin.com/company/cryptolicense/
 
 UStar is a global Web3 KOL incubation and influencer intelligence network to help build, grow, and commercialize Web3 creators, while giving companies a smarter way to discover and evaluate influencers for campaigns.
 
-UStar - Global Web3 KOL Incubation & Influence Network (https://ustarmax.com/)
+[UStar - Global Web3 KOL Incubation & Influence Network](https://ustarmax.com/)
 
-USTARMAX (@ustarmax) / X (https://x.com/ustarmax)
+USTARMAX (@ustarmax) / [X](https://x.com/ustarmax)
 
-LinkedIn (https://www.linkedin.com/company/ustarmax/posts/?feedView=all)
+[LinkedIn](https://www.linkedin.com/company/ustarmax/posts/?feedView=all)
 
 ### Brought to you by
 
-The Best Event (https://www.instagram.com/_thebestevent?utm_source=luma) is the global event series where Web3 comes to life. With over 120+ events organised across 24+ cities, and 60,000 guests, The Best Event is a leader in the space. From bespoke and intimate meetups, to large-scale parties at the likes of Marquee and E11even Miami, we bring together the boldest creators, top brands, and visionaries shaping the future for unforgettable experiences.
+[The Best Event](https://www.instagram.com/_thebestevent?utm_source=luma) is the global event series where Web3 comes to life. With over 120+ events organised across 24+ cities, and 60,000 guests, The Best Event is a leader in the space. From bespoke and intimate meetups, to large-scale parties at the likes of Marquee and E11even Miami, we bring together the boldest creators, top brands, and visionaries shaping the future for unforgettable experiences.
 
-For sponsor inquiries for the penthouse editions, please contact Mihir via Telegram (https://t.me/mihirodhrani) or email mihir@tbv.xyz.
+For sponsor inquiries [for the penthouse editions, please contact Mihir via Telegram](https://t.me/mihirodhrani) or email mihir@tbv.xyz.
 
 <a id="event-ee24e1d878f8445e"></a>
 
@@ -64254,7 +64226,7 @@ RWA 已经不缺关注。接下来更值得讨论的是：真实资产如何成�
 
 酒会席位有限，报名需经审核；最终入场以审核确认及现场接待容量为准。
 
-> 如有商务合作需求，请联系：connect@bifu.co (https://mailto:connect@bifu.co)，或telegram @takshire
+> 如有商务合作需求，请联系：[connect@bifu.co](https://mailto:connect@bifu.co)，或telegram @takshire
 
 ### 时间流程
 
@@ -64426,7 +64398,7 @@ NEXUS 2026 applications closed after the 18 September deadline, with the top 50 
 
 ### About the event
 
-ON-CHAIN HORIZONS: FOUNDERS X FUNDERS is an invite-only networking event hosted by SC Ventures by Standard Chartered (https://scventures.io/?utm_source=luma) in collaboration with our portfolio of leading digital asset ventures: Libeara (https://libeara.com/?utm_source=luma), Zodia Custody (https://zodia-custody.com/?utm_source=luma), Zodia Markets (https://zodiamarkets.com/?utm_source=luma), Olea (https://olea.net/)and 37C.
+ON-CHAIN HORIZONS: FOUNDERS X FUNDERS is an invite-only [networking event hosted by SC Ventures by Standard Chartered](https://scventures.io/?utm_source=luma) in collaboration [with our portfolio of leading digital asset ventures: Libeara](https://libeara.com/?utm_source=luma), [Zodia Custody](https://zodia-custody.com/?utm_source=luma), [Zodia Markets](https://zodiamarkets.com/?utm_source=luma), [Olea](https://olea.net/)and 37C.
 
 More than a networking breakfast, this is where institutional leaders, top DeFi founders, and investors step out of the noise to connect candidly about how bank-grade infrastructure and Web3 innovation can converge to build the next generation of finance, on-chain.
 
@@ -64438,7 +64410,7 @@ Expect:
 
 Co-hosted by:
 
-Libeara (https://libeara.com/?utm_source=luma) | Zodia Custody (https://zodia-custody.com/?utm_source=luma) | Zodia Markets (https://zodiamarkets.com/?utm_source=luma) | Olea (https://olea.net) | 37C
+[Libeara](https://libeara.com/?utm_source=luma) | [Zodia Custody](https://zodia-custody.com/?utm_source=luma) | [Zodia Markets](https://zodiamarkets.com/?utm_source=luma) | [Olea](https://olea.net) | 37C
 
 Access & Registration
 
@@ -64680,21 +64652,21 @@ One morning. One room. The right decision-makers.
 
 ### Community Partners
 
-Coineasy (https://www.coineasy.xyz/?utm_source=luma) ㅤ Zenith (https://zenith.network/)
+[Coineasy](https://www.coineasy.xyz/?utm_source=luma) ㅤ [Zenith](https://zenith.network/)
 
-Four pillars (https://4pillars.io/en) (https://zenith.network/) ㅤ Cryptojobs (https://cryptojobslist.com/) (https://zenith.network/) ㅤ ACCESS (https://access.org.sg/)
+[Four pillars](https://4pillars.io/en) (https://zenith.network/) ㅤ [Cryptojobs](https://cryptojobslist.com/) (https://zenith.network/) ㅤ [ACCESS](https://access.org.sg/)
 
 ### Official PR Partner
 
-Market Across (https://marketacross.com/)
+[Market Across](https://marketacross.com/)
 
 ### Media Partners
 
-CoinGecko (https://www.coingecko.com/) ㅤㅤㅤ Pivot (https://pivotintelligence.com/)ㅤㅤㅤ Block Media (https://www.blockmedia.co.kr/) ㅤㅤ Input (https://input.global/?utm_source=luma) ㅤ
+[CoinGecko](https://www.coingecko.com/) ㅤㅤㅤ [Pivot](https://pivotintelligence.com/)ㅤㅤㅤ [Block Media](https://www.blockmedia.co.kr/) ㅤㅤ [Input](https://input.global/?utm_source=luma) ㅤ
 
-Cointelegraph (https://cointelegraph.com/?utm_source=luma) (https://x.com/ventures_bd?utm_source=luma)Mira (https://miragather.com/?utm_source=luma) Cryptopolitan (https://www.cryptopolitan.com/) Coin68 (https://coin68.com/) EAK (https://eakdigital.com)
+[Cointelegraph](https://cointelegraph.com/?utm_source=luma) (https://x.com/ventures_bd?utm_source=luma)[Mira](https://miragather.com/?utm_source=luma) [Cryptopolitan](https://www.cryptopolitan.com/) [Coin68](https://coin68.com/) [EAK](https://eakdigital.com)
 
-Foresight News (https://global.foresightnews.pro/) Finbold (https://finbold.com/) Blockchain Reporter (https://blockchainreporter.net/) Yellow Media (https://yellow.com/)
+[Foresight News](https://global.foresightnews.pro/) [Finbold](https://finbold.com/) [Blockchain Reporter](https://blockchainreporter.net/) [Yellow Media](https://yellow.com/)
 
 Our previous events:
 
@@ -64748,9 +64720,9 @@ Brought to you by Portal Ventures & Blockchain Builders Fund
 
 ### About Organizers
 
-Portal Ventures (portal.vc (https://portal.vc)) is a thesis-driven venture fund that focuses exclusively on leading first rounds to back unusual ideas. We get paid for believing the unbelievable.
+Portal Ventures ([portal.vc](https://portal.vc)) is a thesis-driven venture fund that focuses exclusively on leading first rounds to back unusual ideas. We get paid for believing the unbelievable.
 
-Blockchain Builders Fund (bbf.vc (http://bbf.vc)) is a pre-seed fund that spun out of Stanfords Blockchain Accelerator, investing in technical founders at the bleeding edge of blockchain infrastructure, digital finance, and AI.
+Blockchain Builders Fund ([bbf.vc](http://bbf.vc)) is a pre-seed fund that spun out of Stanfords Blockchain Accelerator, investing in technical founders at the bleeding edge of blockchain infrastructure, digital finance, and AI.
 
 <a id="event-3e64c8e40899e15a"></a>
 
@@ -64796,7 +64768,7 @@ Event location details will be shared only with approved applicants after ticket
 
 Amigoo Ventures is an institutional liquidity firm and a leader in secondary and OTC private markets for both locked and liquid tokens. With over $31M in assessed dealflow and a deep network of funds, projects, and liquidity providers, we work with buyers and sellers to unlock rare, off‑market opportunities, curating and facilitating exclusive OTC trades across private and liquid token markets.
 
-Connect with us: Website ( (https://amigoo.xyz)Amigoo.xyz (https://Amigoo.xyz)) (https://amigoo.xyz) | X (Twitter) (https://x.com/Teamamigoo) | LinkedIn (https://www.linkedin.com/company/amigoo-go)
+Connect with us: Website ( (https://amigoo.xyz)[Amigoo.xyz](https://Amigoo.xyz)) (https://amigoo.xyz) | X (Twitter) (https://x.com/Teamamigoo) | [LinkedIn](https://www.linkedin.com/company/amigoo-go)
 
 <a id="event-3f5cdf3a04795eab"></a>
 
@@ -64859,7 +64831,7 @@ Questions: marketing@tacnode.io
 
 HypurrCo Gathers @ Token2049 SG - Proudly Presented by Hyperliquid Strategies, Hyperliquid Policy Center, and Insilico Terminal
 
-Brunch with HypurrCollective (https://x.com/hypurr_co) and go deep in the Hyperliquid ecosystem alongside the builders, KOLs, market makers, and top holders shaping its next chapter.
+[Brunch with HypurrCollective](https://x.com/hypurr_co) and go deep in the Hyperliquid ecosystem alongside the builders, KOLs, market makers, and top holders shaping its next chapter.
 
 In the year since our last Token2049 gathering, Hyperliquid has crossed from into it's own category-defining infrastructure: multiple HYPE ETF filings (Grayscale, Bitwise, 21Shares), US institutions disclosing PURR positions in 13F filings, HyperEVM stablecoin supply growing 400x+ to north of $1.2B, the S&P 500 perp going live via S&P Dow Jones Indices × Trade XYZ, and a maturing frontend ecosystem under HIP-4. This is the room where those threads connect.
 
@@ -64879,15 +64851,15 @@ Event Schedule will be revealed closer to the dates
 
 Location will be revealed the day before event!
 
-About HypurrCollective (https://x.com/hypurr_co?utm_source=luma): an independent collective of founders, builders, traders, and power users working together to contribute towards Hyperliquid's ecosystem growth.
+[About HypurrCollective](https://x.com/hypurr_co?utm_source=luma): an independent collective of founders, builders, traders, and power users working together to contribute towards Hyperliquid's ecosystem growth.
 
-About Hyperliquid Strategies (https://x.com/HypeStrat): (https://x.com/HypeStrat) Hyperliquid Strategies Inc (NASDAQ: PURR) is a digital asset treasury company whose primary focus is to maximize shareholder value through accumulating HYPE, the native token of Hyperliquid, a high-performance blockchain custom-built to house all of finance. HSI aims to provide capital-efficient and productive access to the HYPE token for U.S. and institutional investors, generating compounding shareholder returns that individual holders may not be able to replicate through staking, yield optimization, and active ecosystem engagement.
+[About Hyperliquid Strategies](https://x.com/HypeStrat): (https://x.com/HypeStrat) Hyperliquid Strategies Inc (NASDAQ: PURR) is a digital asset treasury company whose primary focus is to maximize shareholder value through accumulating HYPE, the native token of Hyperliquid, a high-performance blockchain custom-built to house all of finance. HSI aims to provide capital-efficient and productive access to the HYPE token for U.S. and institutional investors, generating compounding shareholder returns that individual holders may not be able to replicate through staking, yield optimization, and active ecosystem engagement.
 
-HSI is the largest HYPE-focused digital asset treasury vehicle capitalizing on Hyperliquid's rapid growth and providing exposure to one of the largest, fastest and most innovative market venues. For more information, please visit: www.hypestrat.xyz (https://www.hypestrat.xyz).
+HSI is the largest HYPE-focused digital asset treasury vehicle capitalizing on Hyperliquid's rapid growth and providing exposure to one of the largest, fastest and most innovative market [venues. For more information, please visit: www.hypestrat.xyz](https://www.hypestrat.xyz).
 
 About Hyperliquid Policy Center (HPC) (https://x.com/HyperliquidPC): Hyperliquid Policy Center is an independent research and advocacy organization dedicated to advancing a clear, regulated path for Americans to access decentralized markets. For more information, please visit: https://hyperliquidpolicy.org/
 
-About Insilico Terminal (https://x.com/InsilicoTrading): Insilico Terminal is a professional-grade trading terminal for Hyperliquid power users and active crypto traders, with more than $800 billion in cumulative trading volume since 2021. The platform supports Hyperliquid and other leading digital asset exchanges and is free to use.
+[About Insilico Terminal](https://x.com/InsilicoTrading): Insilico Terminal is a professional-grade trading terminal for Hyperliquid power users and active crypto traders, with more than $800 billion in cumulative trading volume since 2021. The platform supports Hyperliquid and other leading digital asset exchanges and is free to use.
 
 <a id="event-9522cc5b03c364a9"></a>
 
@@ -64976,14 +64948,14 @@ Just Founders & Builders in Agentic Economy Coming Together to Share Insights, P
 
 ### What to Expect
 
-- 5-Minute Industry Briefing: Agentic Economy Outlook 2026 by 0xJeff, Jeff (https://x.com/0xJeff), Researcher & Investor
+- 5-Minute Industry [Briefing: Agentic Economy Outlook 2026 by 0xJeff, Jeff](https://x.com/0xJeff), Researcher & Investor
 - 6 AI Product Showcases
-  - Open Source Agent Router & Pay-as-you-go AI gateway by BlockRun AI, Vicky (https://x.com/bc1beat), Founder
-  - Scaling Robotics Training Through Simulation & Data by CodecFlow, Moyai (https://x.com/unmoyai), Founder & CEO
-  - Decentralized Inference & Agent Harness by Dolphin, Luke (https://x.com/GatheringGwei), Core Contributor
-  - Verifiable Agent Identity & Adaptive Inference for Agents by Kite, Chi Zhang (https://x.com/ChiZhangData), Co-Founder & CEO
-  - Reasoning and Operating Engine for Agents by OpenServ AI, Tim Hafner (https://x.com/openservai), CEO
-  - Open Reinforcement Learning via Prediction Markets by Reppo, RG (https://x.com/reppo), Core Contributor
+  - Open Source [Agent Router & Pay-as-you-go AI gateway by BlockRun AI, Vicky](https://x.com/bc1beat), Founder
+  - Scaling Robotics [Training Through Simulation & Data by CodecFlow, Moyai](https://x.com/unmoyai), Founder & CEO
+  - [Decentralized Inference & Agent Harness by Dolphin, Luke](https://x.com/GatheringGwei), Core Contributor
+  - Verifiable Agent [Identity & Adaptive Inference for Agents by Kite, Chi Zhang](https://x.com/ChiZhangData), Co-Founder & CEO
+  - Reasoning [and Operating Engine for Agents by OpenServ AI, Tim Hafner](https://x.com/openservai), CEO
+  - Open [Reinforcement Learning via Prediction Markets by Reppo, RG](https://x.com/reppo), Core Contributor
 - Book Launch
   - The Agents Are Buying - Field Notes from the Onchain Agentic Economy + Exclusive AI Product Benefits
   - Secure your copy through the event signup form
@@ -64998,29 +64970,29 @@ By registering or attending, you agree to the Event Terms, available in the sign
 
 0xJeff | @0xJeff (https://x.com/0xJeff)
 
-0xJeff publishes on-the-ground tech insights focused on Onchain AI & the Agentic Economy, reaching institutions, builders, and retail readers across the U.S. and Asia on X (https://x.com/0xJeff) and Substack (https://defi0xjeff.substack.com/) alongside early-stage investing & portco support.
+0xJeff publishes on-the-ground tech insights focused on Onchain AI & the Agentic Economy, reaching institutions, [builders, and retail readers across the U.S. and Asia on X](https://x.com/0xJeff) [and Substack](https://defi0xjeff.substack.com/) alongside early-stage investing & portco support.
 
-BlockRun | @BlockRunAI (https://x.com/BlockRunAI)
+[BlockRun | @BlockRunAI](https://x.com/BlockRunAI)
 
 BlockRun is the largest agent-to-agent payment company by transaction volume. One endpoint gives AI agents 90+ models and 180+ data and tool APIs, paid per call in USDC.
 
-CodecFlow | @codecopenflow (https://x.com/codecopenflow)
+[CodecFlow | @codecopenflow](https://x.com/codecopenflow)
 
 CodecFlow is a browser-native robotics platform that helps builders move from code to simulation, datasets, training, and deployment faster, making robotics development more accessible to software and AI teams.
 
-Dolphin | @dphnAI (https://x.com/dphnAI)
+[Dolphin | @dphnAI](https://x.com/dphnAI)
 
 Dolphin is an AI lab building uncensored open-weight models and Dolphin Network, a peer-to-pool protocol that turns the world's ~2 billion idle gaming GPUs into a permissionless inference and training layer.
 
-Kite | @GoKiteAI (https://x.com/GoKiteAI)
+[Kite | @GoKiteAI](https://x.com/GoKiteAI)
 
 Kite AI is building the transaction layer for the agentic internet, enabling AI agents to make payments, govern, prove identity, and coordinate safely on blockchain infrastructure aligned with human intent.
 
-OpenServ AI | @openservai (https://x.com/openservai)
+[OpenServ AI | @openservai](https://x.com/openservai)
 
 OpenServ is an R&D lab building novel agentic architectures and products, bridging traditional markets with blockchain innovation. We solve key bottlenecks to enterprise AI adoption: performance, cost, and observability.
 
-Reppo | @Reppo (https://x.com/reppo)
+[Reppo | @Reppo](https://x.com/reppo)
 
 Reppo is a decentralized protocol and platform for sourcing, curating, verifying, and monetizing high-quality AI training data through domain-specific onchain prediction markets and stake-backed incentives.
 
@@ -65040,7 +65012,7 @@ Agentic Finance Summit & The Odds: Prediction Markets Live - Institutional finan
 
 ### Institutional Summit | 2 Tracks: Agentic Finance and Prediction Markets
 
-Suntec City | Suntec Convention Centre, Singapore (https://www.evasuntec.com/49734-getting-here/342301-getting-here?from_search#0112831)
+[Suntec City | Suntec Convention Centre, Singapore](https://www.evasuntec.com/49734-getting-here/342301-getting-here?from_search#0112831)
 
 October 8, 2026
 
@@ -65175,7 +65147,7 @@ Agentic Finance Summit & The Odds: Prediction Markets Live - Institutional finan
 
 ### Institutional Summit | 2 Tracks: Agentic Finance and Prediction Markets
 
-Suntec City | Suntec Convention Centre, Singapore (https://www.evasuntec.com/49734-getting-here/342301-getting-here?from_search#0112831)
+[Suntec City | Suntec Convention Centre, Singapore](https://www.evasuntec.com/49734-getting-here/342301-getting-here?from_search#0112831)
 
 October 8, 2026
 
@@ -65409,9 +65381,9 @@ New Heights is hosted at Singapore's most premium penthouse suite, in an iconic 
 
 ### Hosted By
 
-The Best Event (https://www.instagram.com/_thebestevent?utm_source=luma) is the global event series where Web3 comes to life. With over 120+ events organised across 24+ cities, and 60,000 guests, The Best Event is a leader in the space. From bespoke and intimate meetups, to large-scale parties at the likes of Marquee and E11even Miami, we bring together the boldest creators, top brands, and visionaries shaping the future for unforgettable experiences.
+[The Best Event](https://www.instagram.com/_thebestevent?utm_source=luma) is the global event series where Web3 comes to life. With over 120+ events organised across 24+ cities, and 60,000 guests, The Best Event is a leader in the space. From bespoke and intimate meetups, to large-scale parties at the likes of Marquee and E11even Miami, we bring together the boldest creators, top brands, and visionaries shaping the future for unforgettable experiences.
 
-For sponsor inquiries for the penthouse editions, please contact Mihir via Telegram (https://t.me/mihirodhrani) or email mihir@tbv.xyz.
+For sponsor inquiries [for the penthouse editions, please contact Mihir via Telegram](https://t.me/mihirodhrani) or email mihir@tbv.xyz.
 
 <a id="event-737f99b409708bd7"></a>
 
@@ -65488,11 +65460,11 @@ Day two closes the two-day main event at Marina Bay Sands.
 
 The Capital Formation Summit
 
-Hosted by: Yield Network (http://yieldnetwork.io/?utm_source=luma)
+[Hosted by: Yield Network](http://yieldnetwork.io/?utm_source=luma)
 
-Co-Hosted by: Ink Chain (https://inkonchain.com/?utm_source=luma), RockawayX (https://rockawayx.com), Nexus Mutual (https://nexusmutual.io)
+[Co-Hosted by: Ink Chain](https://inkonchain.com/?utm_source=luma), [RockawayX](https://rockawayx.com), [Nexus Mutual](https://nexusmutual.io)
 
-Partnered by: Bitmaker (https://bitmaker.fi), Ember Protocol (https://ember.so)
+[Partnered by: Bitmaker](https://bitmaker.fi), [Ember Protocol](https://ember.so)
 
 Date: October 8, 2026
 
@@ -65529,7 +65501,7 @@ As DeFi matures into its next capital cycle, alignment between infrastructure, l
 
 Hosted By:
 
-Yield Network (https://www.yieldnetwork.io) is the capital formation and distribution firm for onchain markets.
+[Yield Network](https://www.yieldnetwork.io) is the capital formation and distribution firm for onchain markets.
 
 We sit between institutional capital and onchain yield: we structure the products and raise the capital that fills them. Clients range from L1/L2 chains and DeFi protocols to digital asset managers and issuers of tokenized yield products.
 
@@ -65562,7 +65534,7 @@ Proof Of Liquidity: Cannes Edition brought the format to the French Riviera duri
 Proof Of Liquidity: Abu Dhabi became one of the standout side events during ADFW, Solana Breakpoint, and Bitcoin MENA.
 
 - The Stats: 2,700+ Registrations
-- Co-Hosts & Sponsors: Nexus Mutual, Berachain, Funders VC, DogeOS, Coinchange, Peanut.Trade (https://peanut.trade/), Upshift
+- Co-Hosts & Sponsors: Nexus Mutual, [Berachain, Funders VC, DogeOS, Coinchange, Peanut.Trade](https://peanut.trade/), Upshift
 - Outcome: The primary liquidity hub during ADFW, Breakpoint, and Bitcoin MENA.
 
 2025: Singapore Edition (TOKEN2049)
@@ -65577,7 +65549,7 @@ Attendees List Included:
 
 - Funds: Galaxy Digital, JPMorgan, Brevan Howard Digital, Spartan Group, Wintermute, Hashed, Tribe Capital, Bloq Capital, LeadBlock, Laser Digital
 - Ecosystems: Arbitrum, Optimism, Polygon, Avalanche, Starknet, Solana, Berachain, Scroll, Mantle
-- DeFi/Infra: Uniswap, LayerZero, Pendle, Gauntlet, Ether.fi (https://Ether.fi), Lido, Consensys, Fireblocks, Copper
+- [DeFi/Infra: Uniswap, LayerZero, Pendle, Gauntlet, Ether.fi](https://Ether.fi), Lido, Consensys, Fireblocks, Copper
 
 Outcome: Recognized as one of the most impactful DeFi x LP events - connecting LPs, builders, and curators across the ecosystem.
 
@@ -65729,17 +65701,17 @@ Presenting - Money - Markets - Machines - Exchange - After Dark
 
 Partnership deck available on request.
 
-global@capvise.group (https://mailto:global@capvise.group)
+[global@capvise.group](https://mailto:global@capvise.group)
 
-Telegram: @sahilxdev (https://t.me/sahilxdev)
+[Telegram: @sahilxdev](https://t.me/sahilxdev)
 
-By Capvise Global (https://global.capvise.group/)
+[By Capvise Global](https://global.capvise.group/)
 
-A Capvise Group (https://capvise.group/) venture
+[A Capvise Group](https://capvise.group/) venture
 
 Join the Capvise community:
 
-t.me/capvise (https://t.me/capvise)
+[t.me/capvise](https://t.me/capvise)
 
 <a id="event-1d768edcbd9ae3f9"></a>
 
@@ -65778,15 +65750,15 @@ In 2026, Paybis was recognized as the Best Crypto Payment Provider, a testament 
 
 Processing more than $6bn annually, Paybis is one of the most efficient platforms for acquiring and transacting in digital assets. This commitment to operational excellence is why Paybis maintains one of the highest ratings for crypto companies on Trustpilot, and why 7 million users and hundreds of the world's fastest-growing enterprises consistently rely on our services.
 
-X (https://x.com/paybis?utm_source=luma) | LinkedIn (https://www.linkedin.com/company/paybis/?utm_source=luma) | Website (https://paybis.com/business/on-off-ramp/?utm_source=luma) | YouTube (https://www.youtube.com/@Paybis/videos?utm_source=luma)
+[X](https://x.com/paybis?utm_source=luma) | [LinkedIn](https://www.linkedin.com/company/paybis/?utm_source=luma) | [Website](https://paybis.com/business/on-off-ramp/?utm_source=luma) | [YouTube](https://www.youtube.com/@Paybis/videos?utm_source=luma)
 
 Co-hosted by ChangeNOW
 
-ChangeNOW.io (https://ChangeNOW.io) is a crypto super app built for every crypto move, giving newcomers, professionals, and businesses the tools they need to access Web3 finance in a simple and secure way.
+[ChangeNOW.io](https://ChangeNOW.io) is a crypto super app built for every crypto move, giving newcomers, professionals, and businesses the tools they need to access Web3 finance in a simple and secure way.
 
 Since 2017, ChangeNOW has grown from a fast, secure, and limitless instant exchange into a trusted platform where storage, swaps, trading, staking, and asset management are covered in one simple experience for millions of clients worldwide.
 
-X (https://x.com/ChangeNOW) | LinkedIn (https://www.linkedin.com/company/changenow-io/) | Website (https://changenow.io/) | YouTube (https://www.youtube.com/ChangeNOW)
+[X](https://x.com/ChangeNOW) | [LinkedIn](https://www.linkedin.com/company/changenow-io/) | [Website](https://changenow.io/) | [YouTube](https://www.youtube.com/ChangeNOW)
 
 Powered by INPUT Global
 
@@ -65803,9 +65775,9 @@ Our work spans the Americas, Europe and MENA, with experience across 500+ compan
 
 90% of our clients stay with us year after year.
 
-Join INPUT Offstage (https://t.me/+3XURWkx0QXE2MDRk) on Telegram for event and speaking opportunities, media updates, webinars and streams, unreleased KNOWN podcast content, and conversations across our global network.
+[Join INPUT Offstage](https://t.me/+3XURWkx0QXE2MDRk) on Telegram for event and speaking opportunities, media updates, webinars and streams, unreleased KNOWN podcast content, and conversations across our global network.
 
-X (https://x.com/INPUT_global?utm_source=luma) | LinkedIn (https://www.linkedin.com/company/inputglobal/?utm_source=luma) | Website (https://input.global/?utm_source=luma) | Telegram (https://t.me/+3XURWkx0QXE2MDRk)
+[X](https://x.com/INPUT_global?utm_source=luma) | [LinkedIn](https://www.linkedin.com/company/inputglobal/?utm_source=luma) | [Website](https://input.global/?utm_source=luma) | [Telegram](https://t.me/+3XURWkx0QXE2MDRk)
 
 <a id="event-0f7e8654904620b8"></a>
 
@@ -65847,11 +65819,11 @@ Bring your energy, your ideas, and your best stories,we can't wait to welcome yo
 
 Quick Links
 
-Website (https://mstblockchain.com/) - Whitepaper (https://mstblockchain.com/) - Developer Docs (https://mstblockchain.com/) - Audit Report (https://mstblockchain.com/)
+[Website](https://mstblockchain.com/) - [Whitepaper](https://mstblockchain.com/) - [Developer Docs](https://mstblockchain.com/) - [Audit Report](https://mstblockchain.com/)
 
 Social Media Links:
 
-Twitter/X (https://x.com/MSTBlockchain) (https://x.com/MSTBlockchain)| Youtube (https://x.com/MSTBlockchain) | TG Group (https://x.com/MSTBlockchain) | TG Channel (https://x.com/MSTBlockchain) | Linkedin (https://x.com/MSTBlockchain)
+[Twitter/X](https://x.com/MSTBlockchain) (https://x.com/MSTBlockchain)| [Youtube](https://x.com/MSTBlockchain) | [TG Group](https://x.com/MSTBlockchain) | [TG Channel](https://x.com/MSTBlockchain) | [Linkedin](https://x.com/MSTBlockchain)
 
 <a id="event-5ab4af1e4200cddf"></a>
 
@@ -65933,7 +65905,7 @@ Invites are extremely limited. Register now or contact your Coinbase sales repre
 
 10pm - Afterparty
 
-By registering for this event, you acknowledge that Coinbase and its vendors (including Luma, which hosts this page) will collect and use your personal information to manage your registration and attendance, as described in the Coinbase Privacy Policy (https://www.coinbase.com/legal/privacy). Any dietary or accessibility requirements you choose to share will be used only to facilitate your attendance.
+By registering for this event, you acknowledge that Coinbase and its vendors (including Luma, which hosts this page) will collect and use your personal information to manage your registration [and attendance, as described in the Coinbase Privacy Policy](https://www.coinbase.com/legal/privacy). Any dietary or accessibility requirements you choose to share will be used only to facilitate your attendance.
 
 <a id="event-dd30d317ecd3387d"></a>
 
@@ -65960,15 +65932,15 @@ Above the Rails is hosted at Singapore's most premium penthouse suite, in an ico
 
 ### Hosted By
 
-Kredete (https://kredete.io/) is a fintech platform helping emerging markets and diaspora communities send money, save, invest, trade, build credit, and access stablecoin-powered financial products. Users can send money to over 60 countries at low fees while building credit through their transactions.
+[Kredete](https://kredete.io/) is a fintech platform helping emerging markets and diaspora communities send money, save, invest, trade, build credit, and access stablecoin-powered financial products. Users can send money to over 60 countries at low fees while building credit through their transactions.
 
 Kredete also provides businesses with API-based infrastructure for secure, low-cost cross-border payments across multiple countries.
 
 --
 
-The Best Event (https://www.instagram.com/_thebestevent?utm_source=luma) is the global event series where Web3 comes to life. With over 120+ events organised across 24+ cities, and 60,000 guests, The Best Event is a leader in the space. From bespoke and intimate meetups, to large-scale parties at the likes of Marquee and E11even Miami, we bring together the boldest creators, top brands, and visionaries shaping the future for unforgettable experiences.
+[The Best Event](https://www.instagram.com/_thebestevent?utm_source=luma) is the global event series where Web3 comes to life. With over 120+ events organised across 24+ cities, and 60,000 guests, The Best Event is a leader in the space. From bespoke and intimate meetups, to large-scale parties at the likes of Marquee and E11even Miami, we bring together the boldest creators, top brands, and visionaries shaping the future for unforgettable experiences.
 
-For sponsor inquiries for the penthouse editions, please contact Mihir via Telegram (https://t.me/mihirodhrani) or email mihir@tbv.xyz.
+For sponsor inquiries [for the penthouse editions, please contact Mihir via Telegram](https://t.me/mihirodhrani) or email mihir@tbv.xyz.
 
 <a id="event-e5d5c85e650dd85f"></a>
 
@@ -66064,17 +66036,17 @@ To keep the competition fair, all project work must begin after the official hac
 
 Sponsorship slots are open - reach out to get the deck.
 
-Ecosystem Partners: Lighter (https://lighter.xyz/)| Pacifica (https://app.pacifica.fi/) | CryptoMondays (https://www.cryptomondays.io/)
+[Ecosystem Partners: Lighter](https://lighter.xyz/)| [Pacifica](https://app.pacifica.fi/) | [CryptoMondays](https://www.cryptomondays.io/)
 
 - Lighter - Lighter: Perp Dex with $44B total volume in last 30 day; on Ethereum L2, built with custom ZK circuits for low-cost, low-latency, verifiable trading
 - Pacifica - Perp dex with $10B total volume in last 30 day; on Solana, offering up to 50x leverage with fast execution and deep liquidity
 - CryptoMondays - a global crypto networking community (includes 150,000+ members worldwide) running regular meetups across major hubs
 
-Media Partners: Coin Gabbar (https://www.coingabbar.com/) | Yellow Media (https://yellow.com/)
+[Media Partners: Coin Gabbar](https://www.coingabbar.com/) | [Yellow Media](https://yellow.com/)
 
 Coin Gabbar - crypto news, price analysis and token-launch coverage for a fast-growing retail audience across India and Asia.
 
-Yellow.com (https://Yellow.com) - an independent news site covering crypto, AI and digital finance. Five journalists, daily original reporting in 20 languages, read by over 500,000 people a month.
+[Yellow.com](https://Yellow.com) - an independent news site covering crypto, AI and digital finance. Five journalists, daily original reporting in 20 languages, read by over 500,000 people a month.
 
 ________________________________________________________________________
 
@@ -66088,7 +66060,7 @@ Format: Curated, invite-only networking mixer + panels & fireside chats
 
 Interested in sponsoring? HyprEarn is partnering with select teams for this event. Sponsorship gives brand visibility across the event page, banners, and social channels, plus IRL access to a targeted perp/HL audience. Reach out to us on X @HyprEarn or via Telegram (@prakhhaar, @napolean0, @dasxri) to request the sponsor deck.
 
-Website: hyprearn.com (https://hyprearn.com)
+[Website: hyprearn.com](https://hyprearn.com)
 
 Apply to attend: registration is invite-only.
 
@@ -66141,9 +66113,9 @@ For more information, visit:
 
 RWA SUMMIT Singapore, the core event of Singapore RWA WEEK, is set to bring together more than 1,500 attendees, 70+ speakers, and 200+ investors shaping the future of asset tokenization.
 
-The initiative is produced by Uvecon.VC (http://uvecon.vc) and UVC GROUP (https://uvc.group). Strategic Partners: LynxCap Investments (https://lynxcapinvestments.com), dYdX Foundation (https://dydx.foundation), Theoriq Foundation (https://theoriq.ai) GeoTicker (https://geoticker.com)
+[The initiative is produced by Uvecon.VC](http://uvecon.vc) [and UVC GROUP](https://uvc.group). [Strategic Partners: LynxCap Investments](https://lynxcapinvestments.com), [dYdX Foundation](https://dydx.foundation), [Theoriq Foundation](https://theoriq.ai) [GeoTicker](https://geoticker.com)
 
-RWA WEEK builds on the growing global momentum of the sector and follows the success of RWA Summit Hong Kong (https://rwasummit.global/hongkong2026) and RWA SUMMIT Dubai (https://rwasummit.global/dubai), which gathered leading voices from across blockchain, venture capital, and traditional finance to discuss the rapidly evolving tokenization landscape.
+RWA WEEK builds on the growing global momentum of [the sector and follows the success of RWA Summit Hong Kong](https://rwasummit.global/hongkong2026) [and RWA SUMMIT Dubai](https://rwasummit.global/dubai), which gathered leading voices from across blockchain, venture capital, and traditional finance to discuss the rapidly evolving tokenization landscape.
 
 Interested in partnership? Contact us: contact@rwaweek.com
 
@@ -66211,7 +66183,7 @@ Hosted at Monti Singapore, overlooking the iconic Marina Bay circuit, the summit
 
 Digital Asset & Tokenization Summit is an institutional event exploring the intersection of digital assets, AI, capital markets, energy, and emerging technologies. It brings together senior leaders and high profile individuals to discuss where capital is flowing, what infrastructure is being built, and how the next generation of global innovation will be financed.
 
-Hosted by Luna PR (lunapr.io (https://lunapr.io)), the world's leading PR and communications agency specializing in emerging technologies, The Digital Asset & Tokenization Summit builds on the firm's global network across digital assets, artificial intelligence, fintech, venture capital, and public markets. Luna PR has partnered with hundreds of pioneering companies, institutions, founders, and investors, and regularly convenes senior decision-makers through exclusive executive roundtables, institutional forums, and global industry events.
+Hosted by Luna PR ([lunapr.io](https://lunapr.io)), the world's leading PR and communications agency specializing in emerging technologies, The Digital Asset & Tokenization Summit builds on the firm's global network across digital assets, artificial intelligence, fintech, venture capital, and public markets. Luna PR has partnered with hundreds of pioneering companies, institutions, founders, and investors, and regularly convenes senior decision-makers through exclusive executive roundtables, institutional forums, and global industry events.
 
 Whether you're looking to raise capital, forge strategic partnerships, enter new markets, or stay ahead of the trends shaping tomorrow's economy, The Digital Asset & Tokenization Summit offers direct access to the people driving the conversation.
 
@@ -66271,9 +66243,9 @@ Above The Skyline is hosted at Singapore's most premium penthouse suite, in an i
 
 ### Hosted By
 
-The Best Event (https://www.instagram.com/_thebestevent?utm_source=luma) is the global event series where Web3 comes to life. With over 120+ events organised across 24+ cities, and 60,000 guests, The Best Event is a leader in the space. From bespoke and intimate meetups, to large-scale parties at the likes of Marquee and E11even Miami, we bring together the boldest creators, top brands, and visionaries shaping the future for unforgettable experiences.
+[The Best Event](https://www.instagram.com/_thebestevent?utm_source=luma) is the global event series where Web3 comes to life. With over 120+ events organised across 24+ cities, and 60,000 guests, The Best Event is a leader in the space. From bespoke and intimate meetups, to large-scale parties at the likes of Marquee and E11even Miami, we bring together the boldest creators, top brands, and visionaries shaping the future for unforgettable experiences.
 
-For sponsor inquiries for the penthouse editions, please contact Mihir via Telegram (https://t.me/mihirodhrani) or email mihir@tbv.xyz.
+For sponsor inquiries [for the penthouse editions, please contact Mihir via Telegram](https://t.me/mihirodhrani) or email mihir@tbv.xyz.
 
 <a id="event-a98266696e4c0614"></a>
 
@@ -66307,7 +66279,7 @@ Location: TBD (Singapore)
 
 ### For Sponsorships & Partnerships
 
-DM (@YashEkbote (https://t.me/yashekbote?utm_source=luma)) or (@Shawn_Bldfy (https://t.me/shawn_bldfy?utm_source=luma)) on Telegram
+DM (@[YashEkbote](https://t.me/yashekbote?utm_source=luma)) or (@[Shawn_Bldfy](https://t.me/shawn_bldfy?utm_source=luma)) on Telegram
 
 ### Previous Events
 
@@ -66449,7 +66421,7 @@ Founder × VC Summit: The Institutional Capital Era
 
 Day 2 - Happy Hour - Token2049 week - Oct 9 - Singapore 🇸🇬
 
-Website: backersstage.com/founder-x-vc-summit (https://backersstage.com/founder-x-vc-summit)
+[Website: backersstage.com/founder-x-vc-summit](https://backersstage.com/founder-x-vc-summit)
 
 Some of the best rounds close over a drink, once the pitching's done and people finally talk like people.
 
@@ -66457,17 +66429,17 @@ That's Day 2. (Pure Networking, w/ no Agenda)
 
 > Dress code: Business Formal, Cocktail for the evening.
 
-Join the Circle: t.me/backersstage (https://t.me/backersstage)
+[Join the Circle: t.me/backersstage](https://t.me/backersstage)
 
 Day 1 Speakers.
 
 FOUNDER × VC SUMMIT has a limited number of partnership slots, co-host, stage & panel time, exhibition booth, and onsite branding etc. Kept intentionally small, and a few are already moving.
 
-To explore a slot, reach out by email at: atharv@backersstage.com (https://mailto:atharv@backersstage.com/?utm_source=luma)
+To explore [a slot, reach out by email at: atharv@backersstage.com](https://mailto:atharv@backersstage.com/?utm_source=luma)
 
-via tg (@theatharvshrivastava (https://t.me/theatharvshrivastava?utm_source=luma) / @adityamahajan16 (https://t.me/adityamahajan16?utm_source=luma))
+via tg (@[theatharvshrivastava](https://t.me/theatharvshrivastava?utm_source=luma) / @[adityamahajan16](https://t.me/adityamahajan16?utm_source=luma))
 
-### Hosted by BackersStage
+### [Hosted by BackersStage]
 
 https://www.backersstage.com
 
@@ -66661,7 +66633,7 @@ STEP 1 - FOLLOW SPARKY ON X
 
 Follow the official Sparky account:
 
-𝕏 Twitter: https://x.com (https://x.com/TheSparkyVerse)TheSparkyVerse (https://x.com/TheSparkyVerse)
+𝕏 [Twitter: https://x.com](https://x.com/TheSparkyVerse)[TheSparkyVerse](https://x.com/TheSparkyVerse)
 
 STEP 2 - JOIN THE SPARKY TELEGRAM CHANNEL
 
@@ -66930,11 +66902,11 @@ F1 Sprint Qualifying is hosted at Singapore's most premium penthouse suite, in a
 
 ### Hosts
 
-The Artificial Superintelligence (ASI) Alliance (https://superintelligence.io/) is the world's largest open-source initiative dedicated to decentralized Artificial General Intelligence (AGI). Formed in April 2024, the ASI Alliance unites SingularityNET, Fetch.ai (https://Fetch.ai) and CUDOS.
+The Artificial Superintelligence (ASI) [Alliance](https://superintelligence.io/) is the world's largest open-source initiative dedicated to decentralized Artificial General Intelligence (AGI). Formed in [April 2024, the ASI Alliance unites SingularityNET, Fetch.ai](https://Fetch.ai) and CUDOS.
 
-The Best Event (https://www.instagram.com/_thebestevent?utm_source=luma) is the global event series where Web3 comes to life. With over 120+ events organised across 24+ cities, and 60,000 guests, The Best Event is a leader in the space. From bespoke and intimate meetups, to large-scale parties at the likes of Marquee and E11even Miami, we bring together the boldest creators, top brands, and visionaries shaping the future for unforgettable experiences.
+[The Best Event](https://www.instagram.com/_thebestevent?utm_source=luma) is the global event series where Web3 comes to life. With over 120+ events organised across 24+ cities, and 60,000 guests, The Best Event is a leader in the space. From bespoke and intimate meetups, to large-scale parties at the likes of Marquee and E11even Miami, we bring together the boldest creators, top brands, and visionaries shaping the future for unforgettable experiences.
 
-For sponsor inquiries for the penthouse editions, please contact Mihir via Telegram (https://t.me/mihirodhrani) or email mihir@tbv.xyz.
+For sponsor inquiries [for the penthouse editions, please contact Mihir via Telegram](https://t.me/mihirodhrani) or email mihir@tbv.xyz.
 
 <a id="event-19124289235f1298"></a>
 
@@ -67045,9 +67017,9 @@ Join The Best Event at Elevation, a premium brunch opening the second morning of
 
 Elevation is hosted at Singapore's most premium penthouse suite, in an iconic 5-star hotel overlooking Marina Bay. With floor-to-ceiling views of the F1 Track, this premium space reflects the calibre of company you can expect and a level of exclusivity you shouldn't miss.
 
-The Best Event (https://www.instagram.com/_thebestevent?utm_source=luma) is the global event series where Web3 comes to life. With over 120+ events organised across 24+ cities, and 60,000 guests, The Best Event is a leader in the space. From bespoke and intimate meetups, to large-scale parties at the likes of Marquee and E11even Miami, we bring together the boldest creators, top brands, and visionaries shaping the future for unforgettable experiences.
+[The Best Event](https://www.instagram.com/_thebestevent?utm_source=luma) is the global event series where Web3 comes to life. With over 120+ events organised across 24+ cities, and 60,000 guests, The Best Event is a leader in the space. From bespoke and intimate meetups, to large-scale parties at the likes of Marquee and E11even Miami, we bring together the boldest creators, top brands, and visionaries shaping the future for unforgettable experiences.
 
-For sponsor inquiries for the penthouse editions, please contact Mihir via Telegram (https://t.me/mihirodhrani) or email mihir@tbv.xyz.
+For sponsor inquiries [for the penthouse editions, please contact Mihir via Telegram](https://t.me/mihirodhrani) or email mihir@tbv.xyz.
 
 <a id="event-95df215e33d18bc3"></a>
 
@@ -67131,15 +67103,15 @@ If you're looking for premium views of the F1 Sprint Race with even better compa
 
 ### Hosts
 
-Brickken (http://www.brickken.com/?referrer=luma&utm_source=luma) is the operating layer for tokenized private markets. Its infrastructure enables financial institutions, asset managers, regulated entities, and enterprises to issue, manage, and distribute digital financial instruments across their full lifecycle. Brickken supports $660M+ in tokenized assets for 150+ institutional clients across 40+ countries.
+[Brickken](http://www.brickken.com/?referrer=luma&utm_source=luma) is the operating layer for tokenized private markets. Its infrastructure enables financial institutions, asset managers, regulated entities, and enterprises to issue, manage, and distribute digital financial instruments across their full lifecycle. Brickken supports $660M+ in tokenized assets for 150+ institutional clients across 40+ countries.
 
-The Best Event (https://www.instagram.com/_thebestevent?utm_source=luma) is the global event series where Web3 comes to life. With over 120+ events organised across 24+ cities, and 60,000 guests, The Best Event is a leader in the space. From bespoke and intimate meetups, to large-scale parties at the likes of Marquee and E11even Miami, we bring together the boldest creators, top brands, and visionaries shaping the future for unforgettable experiences.
+[The Best Event](https://www.instagram.com/_thebestevent?utm_source=luma) is the global event series where Web3 comes to life. With over 120+ events organised across 24+ cities, and 60,000 guests, The Best Event is a leader in the space. From bespoke and intimate meetups, to large-scale parties at the likes of Marquee and E11even Miami, we bring together the boldest creators, top brands, and visionaries shaping the future for unforgettable experiences.
 
-For sponsor inquiries for the penthouse editions, please contact Mihir via Telegram (https://t.me/mihirodhrani) or email mihir@tbv.xyz.
+For sponsor inquiries [for the penthouse editions, please contact Mihir via Telegram](https://t.me/mihirodhrani) or email mihir@tbv.xyz.
 
 ### Media Partner
 
-Luna PR (https://www.lunapr.com/) is a global, award-winning integrated communications consultancy and agency operating at the intersection of emerging technology and modern finance. With deep roots in Web3 and capital markets, we elevate disruptive brands shaping the future of blockchain, artificial intelligence, fintech, robotics, and energy.
+[Luna PR](https://www.lunapr.com/) is a global, award-winning integrated communications consultancy and agency operating at the intersection of emerging technology and modern finance. With deep roots in Web3 and capital markets, we elevate disruptive brands shaping the future of blockchain, artificial intelligence, fintech, robotics, and energy.
 
 <a id="event-9d19ab0814023dbd"></a>
 
@@ -67183,9 +67155,9 @@ Every guest applies and is approved individually. No plus-ones, no walk-ins. The
 
 Arc Trading is a crypto market-making firm providing liquidity management, OTC execution, and market-making services for digital asset projects.
 
-Learn more at arctrading.io (https://arctrading.io).
+[Learn more at arctrading.io](https://arctrading.io).
 
-Follow us on X (https://x.com/arctrading_io)and LinkedIn (https://www.linkedin.com/company/arc-trading-markets/).
+[Follow us on X](https://x.com/arctrading_io)[and LinkedIn](https://www.linkedin.com/company/arc-trading-markets/).
 
 <a id="event-def7b0f1d30d0692"></a>
 
@@ -67268,17 +67240,17 @@ RSVP required. Attendance by invitation only.
 
 ### About Your Hosts
 
-The Best Event (https://www.instagram.com/_thebestevent?utm_source=luma) is the global event series where Web3 comes to life. With over 120+ events organised across 24+ cities, and 60,000 guests, The Best Event is a leader in the space. From bespoke and intimate meetups, to large-scale parties at the likes of Marquee and E11even Miami, we bring together the boldest creators, top brands, and visionaries shaping the future for unforgettable experiences.
+[The Best Event](https://www.instagram.com/_thebestevent?utm_source=luma) is the global event series where Web3 comes to life. With over 120+ events organised across 24+ cities, and 60,000 guests, The Best Event is a leader in the space. From bespoke and intimate meetups, to large-scale parties at the likes of Marquee and E11even Miami, we bring together the boldest creators, top brands, and visionaries shaping the future for unforgettable experiences.
 
-Zoth (https://zoth.io/?utm_source=luma) is the privacy-first stablecoin neobank for the Global South and the agentic economy. Move it, hold it, grow it: cross-border payments through zPayments, a stablecoin account, and institutional yield through zVaults, now with AI agents that execute while you approve. The first neobank to launch tokenized equities, in partnership with Coinbase. $500M+ processed on licensed, regulated rails, including Money Transmitter Licenses across 50 US states and a NY BitLicense through our Bakkt partnership.
+[Zoth](https://zoth.io/?utm_source=luma) is the privacy-first stablecoin neobank for the Global South and the agentic economy. Move it, hold it, grow it: cross-border payments through zPayments, a stablecoin account, and institutional yield through zVaults, now with AI agents that execute while you approve. The first neobank to launch tokenized equities, in partnership with Coinbase. $500M+ processed on licensed, regulated rails, including Money Transmitter Licenses across 50 US states and a NY BitLicense through our Bakkt partnership.
 
-Movement (https://www.movementnetwork.xyz/) is the global settlement and yield layer for emerging markets, built on Move, the programming language designed to secure financial assets. Neobanks, fintechs, and payment platforms use Movement to deliver instant cross-border settlement, dollar savings, and stablecoin-powered financial products without relying on slow, capital-heavy remittance rails.
+[Movement](https://www.movementnetwork.xyz/) is the global settlement and yield layer for emerging markets, built on Move, the programming language designed to secure financial assets. Neobanks, fintechs, and payment platforms use Movement to deliver instant cross-border settlement, dollar savings, and stablecoin-powered financial products without relying on slow, capital-heavy remittance rails.
 
 Sponsored By:
 
-Taisu Ventures (https://www.taisu.io/) is a venture capital firm that invests in & empowers early-stage web3 companies across the globe.
+[Taisu Ventures](https://www.taisu.io/) is a venture capital firm that invests in & empowers early-stage web3 companies across the globe.
 
-Selini (https://www.selinicapital.com/)is a global trading firm focused on systematic trading and venture investing - all within the digital assets space.
+[Selini](https://www.selinicapital.com/)is a global trading firm focused on systematic trading and venture investing - all within the digital assets space.
 
 <a id="event-5c17342e0737fce3"></a>
 
@@ -67335,9 +67307,9 @@ Elevation is hosted at Singapore's most premium penthouse suite, in an iconic 5-
 
 ### Hosted By
 
-The Best Event (https://www.instagram.com/_thebestevent?utm_source=luma) is the global event series where Web3 comes to life. With over 120+ events organised across 24+ cities, and 60,000 guests, The Best Event is a leader in the space. From bespoke and intimate meetups, to large-scale parties at the likes of Marquee and E11even Miami, we bring together the boldest creators, top brands, and visionaries shaping the future for unforgettable experiences.
+[The Best Event](https://www.instagram.com/_thebestevent?utm_source=luma) is the global event series where Web3 comes to life. With over 120+ events organised across 24+ cities, and 60,000 guests, The Best Event is a leader in the space. From bespoke and intimate meetups, to large-scale parties at the likes of Marquee and E11even Miami, we bring together the boldest creators, top brands, and visionaries shaping the future for unforgettable experiences.
 
-For sponsor inquiries for the penthouse editions, please contact Mihir via Telegram (https://t.me/mihirodhrani) or email mihir@tbv.xyz.
+For sponsor inquiries [for the penthouse editions, please contact Mihir via Telegram](https://t.me/mihirodhrani) or email mihir@tbv.xyz.
 
 <a id="event-a808cc50f520c91c"></a>
 
@@ -67391,7 +67363,7 @@ Edge Esmeralda - June 2026
 
 What made it so extraordinary was being surrounded by brilliant, conscious innovators genuinely committed to advancing humanity - with enough time together for real relationships, collaborations and radical ideas to develop.
 
-www.EdgeEsmeralda.com (https://www.EdgeEsmeralda.com)
+[www.EdgeEsmeralda.com](https://www.EdgeEsmeralda.com)
 
 That experience convinced us that Edge City offers something unusually valuable for the Light DAO community.
 
@@ -67468,7 +67440,7 @@ Prices increase weekly
 
 Our Beachfront 4-Star Resort
 
-www.RivaResorts.com (https://www.RivaResorts.com)
+[www.RivaResorts.com](https://www.RivaResorts.com)
 
 Our Light DAO + SingularityNET Residency will be based at Edge India's central hotel.
 
@@ -67597,17 +67569,17 @@ Indoor and outdoor, air-conditioned and open-air, the space moves with the night
 
 ### Your Hosts
 
-TBV (http://www.tbv.xyz/?utm_source=luma) (TB Ventures) is a VC fund focused on leading rounds in early-stage web3 companies in South East Asia and North America. TBV is supported by TBE (TB Events) and TBA (TB Advisory), creating a network of services that are underpinned by a 100k+ social following and 10k+ active TG community.
+[TBV](http://www.tbv.xyz/?utm_source=luma) (TB Ventures) is a VC fund focused on leading rounds in early-stage web3 companies in South East Asia and North America. TBV is supported by TBE (TB Events) and TBA (TB Advisory), creating a network of services that are underpinned by a 100k+ social following and 10k+ active TG community.
 
-Manoharan Capital (https://www.manoharancapital.com/) is a family office that invests with a clear conviction: enduring outcomes are built through disciplined partnership, global perspective, and earned trust.
+[Manoharan Capital](https://www.manoharancapital.com/) is a family office that invests with a clear conviction: enduring outcomes are built through disciplined partnership, global perspective, and earned trust.
 
-Axys Bank (https://www.axysbank.io/) is NEO Banking for NEO Thinkers. They issue Global IBAN & bridges crypto and fiat into one seamless Neobank Experience.
+[Axys Bank](https://www.axysbank.io/) is NEO Banking for NEO Thinkers. They issue Global IBAN & bridges crypto and fiat into one seamless Neobank Experience.
 
 ### Powered By
 
-The Best Event (https://www.instagram.com/_thebestevent?utm_source=luma) is the global event series where Web3 comes to life. With over 120+ events organised across 24+ cities, and 60,000 guests, The Best Event is a leader in the space. From bespoke and intimate meetups, to large-scale parties at the likes of Marquee and E11even Miami, we bring together the boldest creators, top brands, and visionaries shaping the future for unforgettable experiences.
+[The Best Event](https://www.instagram.com/_thebestevent?utm_source=luma) is the global event series where Web3 comes to life. With over 120+ events organised across 24+ cities, and 60,000 guests, The Best Event is a leader in the space. From bespoke and intimate meetups, to large-scale parties at the likes of Marquee and E11even Miami, we bring together the boldest creators, top brands, and visionaries shaping the future for unforgettable experiences.
 
-For sponsor inquiries for the penthouse editions, please contact Mihir via Telegram (https://t.me/mihirodhrani) or email mihir@tbv.xyz.
+For sponsor inquiries [for the penthouse editions, please contact Mihir via Telegram](https://t.me/mihirodhrani) or email mihir@tbv.xyz.
 
 <a id="event-4c4b41907b2ea1db"></a>
 
@@ -67788,23 +67760,23 @@ Lucia Camarillo- Marketing Manager UK, Bitget (moderator)
 
 A seasoned marketing professional with nine years of global, in-house experience - including over three years specialising in the Web3 sector - driving growth across startups, scale-ups, and established enterprises. She is currently Marketing Manager at Bitget, a leading crypto exchange serving over 125 million users worldwide. Passionate about making Web3 accessible, Lucia frequently shares her expertise through industry conferences and webinars. Specialising in integrated field marketing, she designs high-impact experiences that accelerate demand, build robust pipelines, and deepen customer engagement across the Fintech landscape.
 
-### About Zebec
+### [About Zebec]
 
 https://zebec.io/
 
 Zebec is a leader in global stablecoin payroll, processing $500M+ in volume across 280+ enterprise clients. Since 2021, we've built an ecosystem spanning payroll, payments, banking infrastructure, and multi-chain Mastercard-backed cards, enabling enterprises to pay employees globally in real time and give them instant access to their funds.
 
-### About Bitget
+### [About Bitget]
 
 https://www.bitget.com/en-GB
 
 Bitget is a leading global cryptocurrency exchange serving over 125 million users worldwide. In the UK market, the platform delivers an innovation-driven spot trading experience featuring access to over 200 digital assets. Backed by a 300 million dollar protection fund and advanced security infrastructure, Bitget actively drives mainstream crypto adoption through structured educational initiatives, including its Blockchain4Youth and Blockchain4Her programs. Furthermore, as part of its global impact strategy, Bitget has partnered with UNICEF to provide essential blockchain education to 1.1 million people by 2027.
 
-### About Encode
+### [About Encode]
 
 https://www.encodeclub.com/
 
-A global developer community empowering builders through hackathons, accelerators, and educational programmes. They also offer a vibrant coworking space (https://hub.encodeclub.com/) in the heart of Shoreditch, London!
+A global developer community empowering builders through hackathons, accelerators, and educational [programmes. They also offer a vibrant coworking space](https://hub.encodeclub.com/) in the heart of Shoreditch, London!
 
 <a id="event-53d4587f44935663"></a>
 
@@ -67831,9 +67803,9 @@ An organizer description has not been verified for this record. Any previous cop
 
 ### About the event
 
-Sprint, build, and launch on the XRP Ledger in 36 hours in New York City, the weekend before Swell (https://swell.ripple.com/).
+Sprint, build, and launch on the XRP [Ledger in 36 hours in New York City, the weekend before Swell](https://swell.ripple.com/).
 
-Hosted by XRPL Commons (https://www.xrpl-commons.org), this hackathon brings hackers into the room where the ecosystem's institutions, investors, and decision-makers are already gathered - with a project and a story to tell. Whether this is your first commit on XRP Ledger or you've been building for years, there's a track for you.
+[Hosted by XRPL Commons](https://www.xrpl-commons.org), this hackathon brings hackers into the room where the ecosystem's institutions, investors, and decision-makers are already gathered - with a project and a story to tell. Whether this is your first commit on XRP Ledger or you've been building for years, there's a track for you.
 
 ### 4 Tracks
 
@@ -67852,7 +67824,7 @@ Should the event be oversubscribed, we may ask attendees to place a small refund
 
 By registering for this event, you consent to being photographed and filmed, and to the use of these photos/videos for promotional purposes.
 
-All participants are required to agree with and adhere to the code of conduct (https://swell.ripple.com/code-of-conduct)
+All participants [are required to agree with and adhere to the code of conduct](https://swell.ripple.com/code-of-conduct)
 
 <a id="event-e87d5aba74ed21e4"></a>
 
@@ -67945,63 +67917,63 @@ Expect the biggest human rights x neo-cypherpunk festival. Buenos Aires edition 
 
 Curatorial note: we assemble speakers on intersection between digital rights, FOSS, decentralisation & cryptography.
 
-They propose practical solutions for global challenges from polarisation in social media to raise of dictatorships. Challenge internet shutdowns, abuse of digital identity, & attacks on encryption. With proven track record from @EFF (https://x.com/EFF) to @brave (https://x.com/brave).
+They propose practical solutions for global challenges from polarisation in social media to raise of dictatorships. Challenge internet shutdowns, abuse of digital identity, & [attacks on encryption. With proven track record from @EFF](https://x.com/EFF) [to @brave](https://x.com/brave).
 
 Welcome to Mumbai!
 
-@kurtopsahl (https://x.com/kurtopsahl) x @FilFoundation (https://x.com/FilFoundation) for long-lasting defence of encryption in EFF, exceptional human qualities and bridging gap betwen old & new cypherpunks
+@[kurtopsahl](https://x.com/kurtopsahl) [x @FilFoundation](https://x.com/FilFoundation) for long-lasting defence of encryption in EFF, exceptional human qualities and bridging gap betwen old & new cypherpunks
 
-@Isa (https://x.com/Isa) x @torproject (https://x.com/torproject) for exceptional work on harmonizing network-level privacy and digital rights
+@[Isa](https://x.com/Isa) [x @torproject](https://x.com/torproject) for exceptional work on harmonizing network-level privacy and digital rights
 
-@ghappour (https://x.com/ghappour) x flashbots for matching digital rights & web3 culture. Being a real representative of privacy-first, encryption-centric narrative across borders & ecosystems.
+@[ghappour](https://x.com/ghappour) x flashbots for matching digital rights & web3 culture. Being a real representative of privacy-first, encryption-centric narrative across borders & ecosystems.
 
-@therealyingtong (https://x.com/therealyingtong) for proving that real-world cryptography exists in practice & can serve marginalized people
+@[therealyingtong](https://x.com/therealyingtong) for proving that real-world cryptography exists in practice & can serve marginalized people
 
-Justin Drake (https://x.com/drakefjustin) - key Ethereum Foundation protocol researcher
+[Justin Drake](https://x.com/drakefjustin) - key Ethereum Foundation protocol researcher
 
-@lunardragon420 (https://x.com/lunardragon420) x @DarkFiSquad (https://x.com/DarkFiSquad) for uncompromising values & visionary ideas on both tech activism & role of code
+@[lunardragon420](https://x.com/lunardragon420) [x @DarkFiSquad](https://x.com/DarkFiSquad) for uncompromising values & visionary ideas on both tech activism & role of code
 
-@mala (https://x.com/mala) x @FilFoundation (https://x.com/FilFoundation) for openness to transition old cypherpunk narratives into compeling and positive knowledge for the future to come
+@[mala](https://x.com/mala) [x @FilFoundation](https://x.com/FilFoundation) for openness to transition old cypherpunk narratives into compeling and positive knowledge for the future to come
 
-@jaromil (https://x.com/jaromil) x @DyneOrg (https://x.com/DyneOrg) for balancing hacktivist culture with digital identity challenges, defending civic society by representing us in institutions
+@[jaromil](https://x.com/jaromil) [x @DyneOrg](https://x.com/DyneOrg) for balancing hacktivist culture with digital identity challenges, defending civic society by representing us in institutions
 
-@ml_sudo (https://x.com/ml_sudo) x @ethereumfndn (https://x.com/ethereumfndn)'s Silviculture for accelerating meaningful cryptography & culture across ecosystems
+@[ml_sudo](https://x.com/ml_sudo) [x @ethereumfndn](https://x.com/ethereumfndn)'s Silviculture for accelerating meaningful cryptography & culture across ecosystems
 
-@PryvitKyle (https://x.com/PryvitKyle) x @brave (https://x.com/brave) for brinding gap between already proven privacy tech & emerging innovations - showing how crypto can plug'n'play in traditional tech
+@[PryvitKyle](https://x.com/PryvitKyle) [x @brave](https://x.com/brave) for brinding gap between already proven privacy tech & emerging innovations - showing how crypto can plug'n'play in traditional tech
 
-@SCBuergel (https://x.com/SCBuergel) x @gnosis_ (https://x.com/gnosis_) + @hoprnet (https://x.com/hoprnet) for dedicating years of life to deliver network-level privacy, staying for the culture and diversifying VPN market.
+@[SCBuergel](https://x.com/SCBuergel) [x @gnosis_](https://x.com/gnosis_) + @[hoprnet](https://x.com/hoprnet) for dedicating years of life to deliver network-level privacy, staying for the culture and diversifying VPN market.
 
-@jbaylina (https://x.com/jbaylina) x @ziskvm (https://x.com/ziskvm) for tech dedication to solve digital rights in practice, growing a group of cryptographers, scaling & securing millions of people.
+@[jbaylina](https://x.com/jbaylina) [x @ziskvm](https://x.com/ziskvm) for tech dedication to solve digital rights in practice, growing a group of cryptographers, scaling & securing millions of people.
 
 ### FOCUS AREAS
 
-@AndyGuzmanEth (https://x.com/AndyGuzmanEth) x @PrivacyEthereum (https://x.com/PrivacyEthereum) for proving that the future of privacy ecosystem depends on decency and positive communication.
+@[AndyGuzmanEth](https://x.com/AndyGuzmanEth) [x @PrivacyEthereum](https://x.com/PrivacyEthereum) for proving that the future of privacy ecosystem depends on decency and positive communication.
 
-@Fatalmeh (https://x.com/Fatalmeh) for caring about human rights now, legal web3 policies, & decentralised tech that will shift global power dynamics
+@[Fatalmeh](https://x.com/Fatalmeh) for caring about human rights now, legal web3 policies, & decentralised tech that will shift global power dynamics
 
-@miroyato (https://x.com/miroyato) x @fileverse (https://x.com/fileverse) for by-week practical deGoogling at scale via http://ddocs.new & bringing deep academical approach to decentralised tech culture
+@[miroyato](https://x.com/miroyato) [x @fileverse](https://x.com/fileverse) for by-week practical deGoogling at scale via http://ddocs.new & bringing deep academical approach to decentralised tech culture
 
-@auryn_macmillan (https://x.com/auryn_macmillan) x @EnclaveE3 (https://x.com/EnclaveE3) for long-lasting representation of human values where code really becomes a speech. Delivering complex encryption for confidential computation.
+@[auryn_macmillan](https://x.com/auryn_macmillan) [x @EnclaveE3](https://x.com/EnclaveE3) for long-lasting representation of human values where code really becomes a speech. Delivering complex encryption for confidential computation.
 
-@hebbianloop (https://x.com/hebbianloop) x @humntech (https://x.com/humntech) for protecting identity at scale & bridging traditional digital rights with emerging tech
+@[hebbianloop](https://x.com/hebbianloop) [x @humntech](https://x.com/humntech) for protecting identity at scale & bridging traditional digital rights with emerging tech
 
-@Cryptic_cm (https://x.com/Cryptic_cm) x @session_app (https://x.com/session_app) for providing vocal alternatives to how we securely communicate & collaborate online
+@[Cryptic_cm](https://x.com/Cryptic_cm) [x @session_app](https://x.com/session_app) for providing vocal alternatives to how we securely communicate & collaborate online
 
-@kassandraETH (https://x.com/kassandraETH) x @ethereumfndn (https://x.com/ethereumfndn) for proving that code is an art, & cultural diversity can bring striking change - uniting ecosystems & voices beyond tribalism
+@[kassandraETH](https://x.com/kassandraETH) [x @ethereumfndn](https://x.com/ethereumfndn) for proving that code is an art, & cultural diversity can bring striking change - uniting ecosystems & voices beyond tribalism
 
-@Pol_Lanski (https://x.com/Pol_Lanski) x @dappnode (https://x.com/dappnode) for proving that node-running isn't a rocket science, but active contribution to both decentralisation and censorship resistance
+@[Pol_Lanski](https://x.com/Pol_Lanski) [x @dappnode](https://x.com/dappnode) for proving that node-running isn't a rocket science, but active contribution to both decentralisation and censorship resistance
 
-@LoringHarkness (https://x.com/LoringHarkness) x @ShutterNetwork (https://x.com/ShutterNetwork) for pushing new cryptographic primitives to life, alligning different actords towards Encrypted Mempools
+@[LoringHarkness](https://x.com/LoringHarkness) [x @ShutterNetwork](https://x.com/ShutterNetwork) for pushing new cryptographic primitives to life, alligning different actords towards Encrypted Mempools
 
-@TMIYChao (https://x.com/TMIYChao) x @ethereumfndn (https://x.com/ethereumfndn) + @BordelWTF (https://x.com/BordelWTF) for keeping reminding that original cypherpunks were build on values & not shiny merch (we translate: use @GrapheneOS (https://x.com/GrapheneOS), run your own node, visit CCC etc)
+@[TMIYChao](https://x.com/TMIYChao) [x @ethereumfndn](https://x.com/ethereumfndn) + @[BordelWTF](https://x.com/BordelWTF) for keeping reminding that original cypherpunks were build on values & not shiny merch ([we translate: use @GrapheneOS](https://x.com/GrapheneOS), run your own node, visit CCC etc)
 
-@0xMeTony (https://x.com/0xMeTony) x @fluidkey (https://x.com/fluidkey) for proving that hackathons can create decent privacy-projects positively evolving over time
+@0xMeTony (https://x.com/0xMeTony) [x @fluidkey](https://x.com/fluidkey) for proving that hackathons can create decent privacy-projects positively evolving over time
 
-Daniel x @invisiblgarden (https://x.com/invisiblgarden) for matching digital rights with commons, practical web3 aplicability to the endangered societies
+[Daniel x @invisiblgarden](https://x.com/invisiblgarden) for matching digital rights with commons, practical web3 aplicability to the endangered societies
 
-@ncsgy (https://x.com/ncsgy) x @ethereumfndn (https://x.com/ethereumfndn) for bringing tangible privacy via Kohaku, chancing the whole wallet-domain for better, and activating positive side of web3 to millions of people.
+@[ncsgy](https://x.com/ncsgy) [x @ethereumfndn](https://x.com/ethereumfndn) for bringing tangible privacy via Kohaku, chancing the whole wallet-domain for better, and activating positive side of web3 to millions of people.
 
-@willscott (https://x.com/willscott) for representing man of action approach, helping, supporting, activating. Together.
+@[willscott](https://x.com/willscott) for representing man of action approach, helping, supporting, activating. Together.
 
 ### SPONSORS
 
@@ -68037,7 +68009,7 @@ Vitalik Buterin + Naomi Brockwell fireside https://www.youtube.com/watch?v=5At5_
 
 ### Ethereum Social Layer (ESL)
 
-It is being formed before our eyes - an active ecosystem of thousands of thinkers, developers, analysts, human-rights DAOs, coordinators, and even ravers. Inspired by cypherpunks of the past, they create a foundation for the digital community of the future (explore our Cyherpunk personas (https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/u4ELDt0YkpCe272kD2f5kTThJsILg1pgaOeBsTSGV0I) article). Based on permissionless & censorship-resistance ideology. Follow Paul-Dylan Ennis (https://x.com/post_polar_/status/1813275641954877709) on ESL.
+It is being formed before our eyes - an active ecosystem of thousands of thinkers, developers, analysts, human-rights DAOs, coordinators, and even ravers. Inspired by cypherpunks of the past, they create a foundation for the digital community of the future ([explore our Cyherpunk personas](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/u4ELDt0YkpCe272kD2f5kTThJsILg1pgaOeBsTSGV0I) article). Based on permissionless & [censorship-resistance ideology. Follow Paul-Dylan Ennis](https://x.com/post_polar_/status/1813275641954877709) on ESL.
 
 ### Activation
 
@@ -68057,14 +68029,14 @@ Diversity in the web3 industry is a critical challenge, let alone in the privacy
 
 Activation track
 
-We want everyone to feel, use and contribute to practical privacy tooling. So we will showcase existing tools empowering your journey in decentralized world: Fileverse (http://fileverse.io), Rotki (http://rotki.com), Fluidkey (http://fluidkey.com), Radicle, GnosisVPN.
+We want everyone to feel, use and contribute to practical privacy tooling. So we will showcase existing tools [empowering your journey in decentralized world: Fileverse](http://fileverse.io), [Rotki](http://rotki.com), [Fluidkey](http://fluidkey.com), Radicle, GnosisVPN.
 
 Stunning merch delivered by Coinmandeer
 
 ### High-level agenda
 
 - craft conditions needed to overcome challenges mapped in "Make Ethereum Cypherpunk again" essay
-- present Ethereum Privacy Ecosystem (https://docs.web3privacy.info/research/ethereum-privacy-ecosystem/) and its key players
+- [present Ethereum Privacy Ecosystem](https://docs.web3privacy.info/research/ethereum-privacy-ecosystem/) and its key players
 - explore socio-cultural conditions re-wiring degens into cypher-activists
 - build a mainstream culture around cypherpunk - make it an open and inclusive movement
 - remind of the origins of Ethereum ethos
@@ -68079,16 +68051,16 @@ Speak (CfP): https://tally.so/r/nrOzXl
 
 Partner:
 
-- web3privacynow 'at' protonmail.com (http://protonmail.com) or
+- [web3privacynow 'at' protonmail.com](http://protonmail.com) or
 - https://x.com/PG_CDG
 
 Volunteer: https://tally.so/r/3lLqKo
 
 Our previous events (feel the vibe)
 
-- Privacy Summit II (https://summit.web3privacy.info/) - Paralelni Polis, Prague 2024
-- Privacy Summit I (https://prague.web3privacy.info) - X10, Prague 2023
-- ETHRome Meetup (https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/bzv735Bc1zak7Yi-NcxWavMQKgt2ANXQtpkrSp8Xg3o)- Villaggio Globale, Rome 2023
+- [Privacy Summit II](https://summit.web3privacy.info/) - Paralelni Polis, Prague 2024
+- [Privacy Summit I](https://prague.web3privacy.info) - X10, Prague 2023
+- [ETHRome Meetup](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/bzv735Bc1zak7Yi-NcxWavMQKgt2ANXQtpkrSp8Xg3o)- Villaggio Globale, Rome 2023
   Useful resources (for real)
   Website: https://web3privacy.info/
   Latest news: http://twitter.com/web3privacy
@@ -68113,7 +68085,7 @@ Solana Summit India offers a dynamic one-day immersion into the Solana ecosystem
 
 This event is designed for founders, developers, and creatives, tailored to highlight innovative applications and developments in the Solana network. Join us for a day of meaningful talks, networking, and deep insights, focused on the Solana ecosystem in India, tokenization of real-world assets, evolving policy and regulatory frameworks, developer insights, and applications pushing the network forward.
 
-Are you interested in speaking at the event? Please apply here (https://airtable.com/appdfQFBoIXdYtre1/shrdAx4411rgtsMIC).
+Are [you interested in speaking at the event? Please apply here](https://airtable.com/appdfQFBoIXdYtre1/shrdAx4411rgtsMIC).
 
 During the event, you can expect:
 
@@ -68140,7 +68112,7 @@ Registration will be open onsite from 10:00 am to 5:00 pm.
 
 ### About the event
 
-CodeCup.CC (https://CodeCup.CC) - The First Web3 Coding Arena (on Solana)
+[CodeCup.CC](https://CodeCup.CC) - The First Web3 Coding Arena (on Solana)
 
 Join us for the CodeCup: AI x Solana Builder Arena - Breakpoint Edition, an electrifying day of innovation and collaboration! On Sunday, November 15, 2026, we're gathering at the iconic Olympia London for an extraordinary exploration of AI and blockchain technology, focusing on the Solana ecosystem. Whether you're a developer, entrepreneur, or tech enthusiast, this event is your gateway to cutting-edge insights and networking opportunities with industry leaders and peers.
 
@@ -68204,17 +68176,17 @@ How It Was in Amsterdam
 
 Our debut edition brought together 500+ senior leaders from banking, fintech, and digital assets for an evening of high-level conversation and networking.
 
-Learn more about the previous edition at theunbanked.finance (https://theunbanked.finance)
+[Learn more about the previous edition at theunbanked.finance](https://theunbanked.finance)
 
 This year, we're bringing that same energy to London. Speaker lineup to be announced soon - but first, here's who took over the room in Amsterdam.
 
-Community Partner - Introduction.com (https://Introduction.com)
+[Community Partner - Introduction.com](https://Introduction.com)
 
-Introduction.com (https://Introduction.com) is a private global network anchored by a 400-member core community (7% acceptance rate) and amplified by a wider ecosystem of 500,000+ founders, investors, and operators.Our curated membership represents the executives and founders pioneering the future of tech and finance - from Web2 conglomerates like JP Morgan, Amazon, Google, and Stripe, to Web3 giants like Coinbase, Binance, a16z, and Pantera.
+[Introduction.com](https://Introduction.com) is a private global network anchored by a 400-member core community (7% acceptance rate) and amplified by a wider ecosystem of 500,000+ founders, investors, and operators.Our curated membership represents the executives and founders pioneering the future of tech and finance - from Web2 conglomerates like JP Morgan, Amazon, Google, and Stripe, to Web3 giants like Coinbase, Binance, a16z, and Pantera.
 
 We meet globally to grow high-value relationships through curated events, strategic introductions, and sustained community engagement.
 
-X (https://x.com/introductioncom?utm_source=luma) |Website (https://www.introduction.com/?utm_source=luma) | LinkedIn (https://www.linkedin.com/company/introductiondotcom?utm_source=luma)
+[X](https://x.com/introductioncom?utm_source=luma) |[Website](https://www.introduction.com/?utm_source=luma) | [LinkedIn](https://www.linkedin.com/company/introductiondotcom?utm_source=luma)
 
 Hosted by INPUT Global
 
@@ -68231,15 +68203,15 @@ Our work spans the Americas, Europe and MENA, with experience across 500+ compan
 
 90% of our clients stay with us year after year.
 
-Join INPUT Offstage (https://t.me/+3XURWkx0QXE2MDRk) on Telegram for event and speaking opportunities, media updates, webinars and streams, unreleased KNOWN podcast content, and conversations across our global network.
+[Join INPUT Offstage](https://t.me/+3XURWkx0QXE2MDRk) on Telegram for event and speaking opportunities, media updates, webinars and streams, unreleased KNOWN podcast content, and conversations across our global network.
 
-X (https://x.com/INPUT_global?utm_source=luma) | LinkedIn (https://www.linkedin.com/company/inputglobal/?utm_source=luma) | Website (https://input.global/?utm_source=luma) | Telegram (https://t.me/+3XURWkx0QXE2MDRk)
+[X](https://x.com/INPUT_global?utm_source=luma) | [LinkedIn](https://www.linkedin.com/company/inputglobal/?utm_source=luma) | [Website](https://input.global/?utm_source=luma) | [Telegram](https://t.me/+3XURWkx0QXE2MDRk)
 
 > Sponsorship
 
 > A limited number of sponsorship opportunities are available.
 
-> If you're interested, please submit application here (https://docs.google.com/forms/d/e/1FAIpQLSd-vI3uQ_Ves900ahzTRj6FjZr7YbkzYTC7tsSDIJUGxYSOWg/viewform).
+> [If you're interested, please submit application here](https://docs.google.com/forms/d/e/1FAIpQLSd-vI3uQ_Ves900ahzTRj6FjZr7YbkzYTC7tsSDIJUGxYSOWg/viewform).
 
 <a id="event-ec6094f5833406eb"></a>
 
@@ -68287,7 +68259,7 @@ Seats are intentionally limited.
 
 >
 
-> We're welcoming a small number of aligned sponsors who believe in supporting women builders and thoughtful community experiences. Send us a DM on X/Twitter (@mewtuta (https://x.com/mewtuta)) or email to mewtu@lomalabs.xyz to start the conversation.
+> We're welcoming a small number of aligned sponsors who believe in supporting women builders and thoughtful community experiences. Send us a DM on X/Twitter (@[mewtuta](https://x.com/mewtuta)) or email to mewtu@lomalabs.xyz to start the conversation.
 
 <a id="event-6114f6f2e011a7b4"></a>
 
@@ -68315,7 +68287,7 @@ Demo Day - Breakpoint Week - Nov 14 - London, UK 🇬🇧
 
 > - 10 startups, 5 minutes each, live pitch + investor Q&A
 
-Join Circle: t.me/backersstage (https://t.me/backersstage)
+[Join Circle: t.me/backersstage](https://t.me/backersstage)
 
 → Apply to Speak / Judge: jac@backersstage.com
 
@@ -68331,13 +68303,13 @@ Who should apply
 
 FOUNDER × VC SUMMIT has a limited number of partnership slots Kept intentionally small.
 
-To explore a slot, reach out by email at: atharv@backersstage.com (https://mailto:atharv@backersstage.com/?utm_source=luma)
+To explore [a slot, reach out by email at: atharv@backersstage.com](https://mailto:atharv@backersstage.com/?utm_source=luma)
 
-via tg (@theatharvshrivastava (https://t.me/theatharvshrivastava?utm_source=luma) / @adityamahajan16 (https://t.me/adityamahajan16?utm_source=luma))
+via tg (@[theatharvshrivastava](https://t.me/theatharvshrivastava?utm_source=luma) / @[adityamahajan16](https://t.me/adityamahajan16?utm_source=luma))
 
 VIP Dinner on Nov 15 - speakers/ partners/ invited guest.
 
-### Hosted by BackersStage
+### [Hosted by BackersStage]
 
 https://www.backersstage.com
 
@@ -68420,11 +68392,11 @@ No luck. No shortcuts. Just skill & performance.
 
 Enter the battle:
 
-Join link: https://game.tradingbattles.com/join/302 (https://game.tradingbattles.com/join/302?autojoin=true)
+[Join link: https://game.tradingbattles.com/join/302](https://game.tradingbattles.com/join/302?autojoin=true)
 
  - - - - - - - -
 
-www.tradingbattles.com (https://www.tradingbattles.com)
+[www.tradingbattles.com](https://www.tradingbattles.com)
 
 Trading Battles is the infrastructure layer for 24/7 competitive trading, transforming trading into a new category of esports.
 
@@ -68442,7 +68414,7 @@ Trading Battles is the infrastructure layer for 24/7 competitive trading, transf
 
 Founder × VC Summit: Payments & Institutions Edition | VIP Dinner | Breakpoint Week 🇬🇧
 
-> Hosted by BackersStage (https://www.backersstage.com) - Strictly by invitation
+> [Hosted by BackersStage](https://www.backersstage.com) - Strictly by invitation
 
 The private close to Breakpoint week.
 
@@ -68456,7 +68428,7 @@ The evening - An intimate, seated evening - Founders and investors, side by side
 
 Who's in the room - Founders raising now - Active VCs and family offices - whales - Institutions - limited number of guest.
 
-By request or partnership only partner@backersstage.com - (tg: @theatharvshrivastava (https://t.me/theatharvshrivastava) / @adityamahajan15 (https://t.me/adityamahajan15))
+By request or partnership only partner@backersstage.com - ([tg: @theatharvshrivastava](https://t.me/theatharvshrivastava) / @[adityamahajan15](https://t.me/adityamahajan15))
 
 Previous Edition:
 
@@ -68476,7 +68448,7 @@ etc.
 
 ### About the event
 
-Join us for the London edition of the PR1ME Series, during Solana Breakpoint (https://solana.com/breakpoint) powered by the Onchain Finance Institute (OCF), Solana Foundation (https://solana.org/), Lukka (https://lukka.tech/) and Breezing (https://breezing.io/).
+Join us for the [London edition of the PR1ME Series, during Solana Breakpoint](https://solana.com/breakpoint) powered by the Onchain Finance Institute (OCF), [Solana Foundation](https://solana.org/), [Lukka](https://lukka.tech/) [and Breezing](https://breezing.io/).
 
 This invite only, community driven gathering brings together leading minds in web3 accounting and finance.
 
@@ -68486,17 +68458,17 @@ Important: Only confirmed guests with a QR code will be allowed entry. Please no
 
 ### About Solana Foundation
 
-The Solana Foundation (https://solana.org/) is a non-profit organisation based in Zug, Switzerland, dedicated to the decentralisation, growth, and security of the Solana network. Solana is a proof-of-stake blockchain built for mass adoption. Fast, composable, green, and globally distributed.
+[The Solana Foundation](https://solana.org/) is a non-profit organisation based in Zug, Switzerland, dedicated to the decentralisation, growth, and security of the Solana network. Solana is a proof-of-stake blockchain built for mass adoption. Fast, composable, green, and globally distributed.
 
 ### About Lukka
 
-Lukka (https://lukka.tech/) is the institutional data backbone for digital assets, transforming fragmented on-chain and off-chain activity into audit-ready intelligence. Trusted by global financial institutions, asset managers, custodians, exchanges, and regulators, Lukka delivers the trust, truth, and transparency needed to power pricing, valuation, compliance, risk management, accounting, and reporting across digital and tokenized assets.
+[Lukka](https://lukka.tech/) is the institutional data backbone for digital assets, transforming fragmented on-chain and off-chain activity into audit-ready intelligence. Trusted by global financial institutions, asset managers, custodians, exchanges, and regulators, Lukka delivers the trust, truth, and transparency needed to power pricing, valuation, compliance, risk management, accounting, and reporting across digital and tokenized assets.
 
 ### About Breezing
 
-Breezing (https://breezing.io/) is a crypto subledger built specifically for accounting professionals managing digital assets. It connects directly to blockchains, exchanges, and accounting systems like Xero and QuickBooks, eliminating the manual work of exporting CSVs and posting journal entries by hand.
+[Breezing](https://breezing.io/) is a crypto subledger built specifically for accounting professionals managing digital assets. It connects directly to blockchains, exchanges, and accounting systems like Xero and QuickBooks, eliminating the manual work of exporting CSVs and posting journal entries by hand.
 
-Used by 200+ businesses including ht.digital (https://ht.digital), BDO, ETH Global, Safe, and Dune.
+[Used by 200+ businesses including ht.digital](https://ht.digital), BDO, ETH Global, Safe, and Dune.
 
 SOC 2 certified and Swiss-made🇨🇭.
 
@@ -68506,7 +68478,7 @@ Onchain Finance Institute (OCF) (https://www.onchainfinanceinstitute.com/) is an
 
 Join 150+ alumni and 400+ community members from organizations such as Solana Foundation, a16z, Ava Labs, Starknet, and more, upskilling with digital assets and transitioning into the future of onchain finance.
 
-Apply to join community platform (https://www.onchainfinanceinstitute.com/community).
+[Apply to join community platform](https://www.onchainfinanceinstitute.com/community).
 
 > For sponsorship inquiries, you can reach out to hello@theaccountantquits.com
 
@@ -68567,7 +68539,7 @@ CryptoMondays Wall Street, Fort Lauderdale & Miami Chapters Host The Official Bl
 
 CryptoMondays isn't just a meetup it's a global decentralized movement energizing Web3 and crypto communities through learning, networking, and inspiration.
 
-CryptoMondays Wall Street, Fort Lauderdale and Miami Chapters are proud to host the official opening event for the Blockchain Futurist Conference (https://www.futuristconference.com/) Florida for the 2nd year this iconic global conference is coming to the USA and to Florida!
+CryptoMondays Wall Street, Fort Lauderdale and Miami Chapters are proud to host the [official opening event for the Blockchain Futurist Conference](https://www.futuristconference.com/) Florida for the 2nd year this iconic global conference is coming to the USA and to Florida!
 
 Join us Monday, November 16, 2026, as we welcome attendees, innovators, and the global Web3 community before the main event at the Hard Rock Guitar Hotel.
 
@@ -68579,7 +68551,7 @@ Location Revealed Upon
 
 CryptoMondays is a proud Community Partner of Blockchain Futurist Conference, working alongside the Futurist team to make this an unforgettable launch in Florida.
 
-We're also excited to announce our media partner Blockchain North (https://blockchainnorth.ca/), joining us to amplify the energy, stories, and innovation coming out of South Florida's crypto scene.
+We're [also excited to announce our media partner Blockchain North](https://blockchainnorth.ca/), joining us to amplify the energy, stories, and innovation coming out of South Florida's crypto scene.
 
 Why Attend?
 
@@ -68689,7 +68661,7 @@ Website: https://www.universityblockchain.org/
 
 https://www.college.xyz/
 
-X: @UBC_Conference (https://x.com/UBC_Conference)
+[X: @UBC_Conference](https://x.com/UBC_Conference)
 
 <a id="event-6ccd37fb620c4314"></a>
 

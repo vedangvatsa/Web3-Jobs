@@ -90,7 +90,7 @@ export async function generateMetadata({
    url: categoryUrl,
    type: 'website',
    images: [{
-    url: 'https://hashtagweb3.com/og-image.png',
+    url: 'https://hashtagweb3.com/og/pages/glossary.png',
     width: 1200,
     height: 630,
     alt: `${category.name} - Web3 Glossary`,
@@ -100,7 +100,7 @@ export async function generateMetadata({
    card: 'summary_large_image',
    title: `${category.name} - Web3 Glossary`,
    description: categoryDescription,
-   images: ['https://hashtagweb3.com/og-image.png'],
+   images: ['https://hashtagweb3.com/og/pages/glossary.png'],
   },
  };
 }
