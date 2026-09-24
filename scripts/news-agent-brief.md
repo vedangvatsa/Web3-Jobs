@@ -4,9 +4,9 @@ You are publishing every qualifying News article for hashtagweb3.com. Today is $
 Work in the repository root (current working directory on the runner).
 
 Do not launch the site. Do not signal or stop other processes.
-This runner has no page to open. The last run wrote the articles, then killed
-itself before the commit. Check the markdown and image files on disk, then
-commit and push.
+This is a fresh checkout. Do not assume an earlier run left uncommitted drafts.
+Read tips and run discovery on every run, including when the working tree is clean.
+Then research, write, validate, and commit qualifying new articles and their images.
 
 ## 0. Tips first (mandatory)
 
@@ -30,7 +30,8 @@ Write every story that qualifies. There is no article-count cap. A story qualifi
   price chatter, predictions, explainers, or opinion.
 - Exclusions: job boards, token/price-calendar items, rumors from a single weak source.
 
-If nothing qualifies, STOP. Commit nothing, push nothing, exit 0.
+If nothing qualifies after discovery and research, print the candidates reviewed
+and specific rejection reasons. Then STOP. Commit nothing, push nothing, exit 0.
 Slow-news days with zero output are correct behavior.
 
 ## 2. Research (mandatory)
@@ -146,8 +147,8 @@ DRY-RUN VALUE FOR THIS RUN: $DRY_RUN
   nothing — print the summary and stop.
   (The git remote is also disabled in dry-run mode, so any push attempt
   will fail — treat that failure as confirmation, not as something to fix.)
-- In a live run, `git add` ONLY your new article files (+ next.config.mjs
-  only if you added an image host). Nothing else. Git identity is already
+- In a live run, `git add` ONLY your new article files and their local hero images
+  (+ next.config.mjs only if you added an image host). Git identity is already
   configured on the runner — do NOT pass `-c user.name`/`-c user.email`,
   and do NOT run `git rebase --continue` unless a rebase is actually
   stopped on a conflict.

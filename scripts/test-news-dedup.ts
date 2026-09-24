@@ -64,6 +64,26 @@ function main() {
   assert.ok(merged.some((row) => row.link === coin.link));
   assert.ok(merged.some((row) => row.link === pepe.link));
 
+  const quantumAttack = item({
+    title: 'Researchers cut estimated quantum Bitcoin attack cost',
+    link: '/quantum-bitcoin',
+    source: 'Hashtag Web3',
+    pubDate: '2026-09-10T00:00:00.000Z',
+  });
+  const quantumDefense = item({
+    title: 'StarkWare reports 79% cut in estimated quantum-safe Bitcoin compute cost',
+    link: '/quantum-cost',
+    source: 'Hashtag Web3',
+    pubDate: '2026-09-24T00:00:00.000Z',
+  });
+  assert.equal(isSameNewsStory(quantumAttack, quantumDefense), false);
+  for (const pair of [[quantumAttack, quantumDefense], [quantumDefense, quantumAttack]]) {
+    const stories = deduplicateNewsItems([...pair, { ...quantumDefense }]);
+    assert.equal(stories.length, 2);
+    assert.ok(stories.some((row) => row.link === '/quantum-cost'));
+    assert.ok(stories.some((row) => row.link === '/quantum-bitcoin'));
+  }
+
   const cointelegraphRoundup = item({
     title: 'Here’s what happened in crypto today',
     link: 'https://cointelegraph.com/news/what-happened-in-crypto-today',

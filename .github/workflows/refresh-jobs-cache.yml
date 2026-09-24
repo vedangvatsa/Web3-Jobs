@@ -259,7 +259,7 @@ jobs:
         continue-on-error: true
         run: |
           echo "ARTICLES_BEFORE=$(git ls-files 'content/articles/*.md' | wc -l)" >> "$GITHUB_ENV"
-          RULE="Do not launch the site and do not signal other processes. Check the article file and its image on disk, then commit and push."
+          RULE="Do not launch the site and do not signal other processes. This is a fresh checkout: read tips, discover and research fresh stories, then write qualifying articles. Validate each article and its image on disk before committing and pushing. A clean working tree is not a reason to skip discovery."
           PROMPT="$RULE"$'\n'"$(cat scripts/news-agent-brief.md)"
           PROMPT="${PROMPT//\$TODAY/$(date -u +%F)}"
           PROMPT="${PROMPT//\$DRY_RUN/$NEWS_DRY_RUN}"

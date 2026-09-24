@@ -107,6 +107,10 @@ function textsLikelySameStory(a: string, b: string): boolean {
 
 /** True when two feed rows cover the same story (including native vs RSS wording). */
 export function isSameNewsStory(a: NewsItem, b: NewsItem): boolean {
+  // Native articles pass the editorial duplicate audit; topic overlap must not
+  // hide separate published developments from the listing.
+  if (isNativeNewsItem(a) && isNativeNewsItem(b)) return a.link === b.link;
+
   const tickA = extractPredictionTicker(a.title);
   const tickB = extractPredictionTicker(b.title);
   if (tickA && tickB && tickA !== tickB) return false;
