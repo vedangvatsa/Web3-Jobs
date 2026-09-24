@@ -1,5 +1,5 @@
 {
-  "lastIndex": 234,
+  "lastIndex": 238,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -76,7 +76,9 @@
     "sls94",
     "sls91",
     "sls108",
-    "an25"
+    "an25",
+    "an28",
+    "mkt41"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -121,358 +123,6 @@
     "pm50"
   ],
   "history": [
-    {
-      "slug": "role7ac73",
-      "company": "Talos Trading",
-      "title": "Open Application",
-      "platform": "farcaster",
-      "postedAt": "2026-09-06T04:34:11.683Z",
-      "postId": "0x89cd7ed72dbc0e56d6b40dc8ccc6e25e94c8e9a9"
-    },
-    {
-      "slug": "role7ac73",
-      "company": "Talos Trading",
-      "title": "Open Application",
-      "platform": "linkedin",
-      "postedAt": "2026-09-06T04:34:11.683Z",
-      "postId": "6a9ced5f534afc9129eb7017"
-    },
-    {
-      "slug": "role7ac73",
-      "company": "Talos Trading",
-      "title": "Open Application",
-      "platform": "facebook",
-      "postedAt": "2026-09-06T04:34:11.683Z",
-      "postId": "1081144191159482"
-    },
-    {
-      "slug": "role7ac73",
-      "company": "Talos Trading",
-      "title": "Open Application",
-      "platform": "instagram",
-      "postedAt": "2026-09-06T04:34:11.683Z",
-      "postId": "17961991356188079"
-    },
-    {
-      "slug": "coindcx1661",
-      "company": "CoinDCX",
-      "title": "Senior Associate – Market Risk",
-      "platform": "threads",
-      "postedAt": "2026-09-06T07:39:49.374Z",
-      "postId": "18390135616202919"
-    },
-    {
-      "slug": "coindcx1661",
-      "company": "CoinDCX",
-      "title": "Senior Associate – Market Risk",
-      "platform": "farcaster",
-      "postedAt": "2026-09-06T07:39:49.374Z",
-      "postId": "0x0641d094248c7f9a7022276037076d094878705b"
-    },
-    {
-      "slug": "coindcx1661",
-      "company": "CoinDCX",
-      "title": "Senior Associate – Market Risk",
-      "platform": "linkedin",
-      "postedAt": "2026-09-06T07:39:49.374Z",
-      "postId": "6a9d18da3d3084049945bb54"
-    },
-    {
-      "slug": "compliancer3c2cf",
-      "company": "Mudrex",
-      "title": "Compliance & AML Officer",
-      "platform": "threads",
-      "postedAt": "2026-09-06T07:47:05.452Z",
-      "postId": "18019376045714827"
-    },
-    {
-      "slug": "compliancer3c2cf",
-      "company": "Mudrex",
-      "title": "Compliance & AML Officer",
-      "platform": "farcaster",
-      "postedAt": "2026-09-06T07:47:05.452Z",
-      "postId": "0x2c0e36792ab03dd1c3ca1d1697d76ec43735562c"
-    },
-    {
-      "slug": "role0fb27",
-      "company": "Hyperliquid Labs",
-      "title": "Senior Frontend Engineer",
-      "platform": "linkedin",
-      "postedAt": "2026-09-06T07:47:32.572Z",
-      "postId": "6a9d1a97fd1c461b008f6bbb"
-    },
-    {
-      "slug": "operations9a8ab",
-      "company": "Bitget",
-      "title": "Smart Contract Engineer 智能合约工程师",
-      "platform": "facebook",
-      "postedAt": "2026-09-06T08:01:13.403Z",
-      "postId": "1081259294481305"
-    },
-    {
-      "slug": "role2ed86",
-      "company": "Wintermute",
-      "title": "Trading Analyst",
-      "platform": "instagram",
-      "postedAt": "2026-09-06T08:01:24.568Z",
-      "postId": "18388496725163517"
-    },
-    {
-      "slug": "role77009",
-      "company": "Digital Asset",
-      "title": "Global Talent Acquisition Coordinator",
-      "platform": "facebook",
-      "postedAt": "2026-09-06T08:02:34.514Z",
-      "postId": "1081260164481218"
-    },
-    {
-      "slug": "role48efb",
-      "company": "Sky Mavis",
-      "title": "Web3 Security Engineer",
-      "platform": "bluesky",
-      "postedAt": "2026-09-06T08:03:19.550Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mutjrv2qrk2j"
-    },
-    {
-      "slug": "role34004",
-      "company": "LayerZero",
-      "title": "Controller",
-      "platform": "threads",
-      "postedAt": "2026-09-06T10:52:45.167Z",
-      "postId": "17940281280346782"
-    },
-    {
-      "slug": "role34004",
-      "company": "LayerZero",
-      "title": "Controller",
-      "platform": "bluesky",
-      "postedAt": "2026-09-06T10:52:45.167Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3muttb4rdod2j"
-    },
-    {
-      "slug": "role34004",
-      "company": "LayerZero",
-      "title": "Controller",
-      "platform": "farcaster",
-      "postedAt": "2026-09-06T10:52:45.167Z",
-      "postId": "0xd56650d0701404704213eba07d132b8050096917"
-    },
-    {
-      "slug": "role34004",
-      "company": "LayerZero",
-      "title": "Controller",
-      "platform": "facebook",
-      "postedAt": "2026-09-06T10:52:45.167Z",
-      "postId": "1081362547804313"
-    },
-    {
-      "slug": "role34004",
-      "company": "LayerZero",
-      "title": "Controller",
-      "platform": "instagram",
-      "postedAt": "2026-09-06T10:52:45.167Z",
-      "postId": "18006986999975742"
-    },
-    {
-      "slug": "backend61e12",
-      "company": "Phantom",
-      "title": "Senior Software Engineer, Backend (Money Movement)",
-      "platform": "threads",
-      "postedAt": "2026-09-06T15:26:32.455Z",
-      "postId": "18049516709803066"
-    },
-    {
-      "slug": "backend61e12",
-      "company": "Phantom",
-      "title": "Senior Software Engineer, Backend (Money Movement)",
-      "platform": "bluesky",
-      "postedAt": "2026-09-06T15:26:32.455Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3muuckpw55k27"
-    },
-    {
-      "slug": "backend61e12",
-      "company": "Phantom",
-      "title": "Senior Software Engineer, Backend (Money Movement)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-06T15:26:32.455Z",
-      "postId": "0x6f7f3edf3a4b44c2d5cdf5f9d9849b8ed7bb1180"
-    },
-    {
-      "slug": "backend61e12",
-      "company": "Phantom",
-      "title": "Senior Software Engineer, Backend (Money Movement)",
-      "platform": "linkedin",
-      "postedAt": "2026-09-06T15:26:32.455Z",
-      "postId": "6a9d863c05c83fb1f62309ac"
-    },
-    {
-      "slug": "backend61e12",
-      "company": "Phantom",
-      "title": "Senior Software Engineer, Backend (Money Movement)",
-      "platform": "facebook",
-      "postedAt": "2026-09-06T15:26:32.455Z",
-      "postId": "1081550151118886"
-    },
-    {
-      "slug": "backend61e12",
-      "company": "Phantom",
-      "title": "Senior Software Engineer, Backend (Money Movement)",
-      "platform": "instagram",
-      "postedAt": "2026-09-06T15:26:32.455Z",
-      "postId": "18589484308067622"
-    },
-    {
-      "slug": "job6178e",
-      "company": "Render Network",
-      "title": "Customer Engineer",
-      "platform": "threads",
-      "postedAt": "2026-09-06T20:23:14.711Z",
-      "postId": "17933922648128280"
-    },
-    {
-      "slug": "job6178e",
-      "company": "Render Network",
-      "title": "Customer Engineer",
-      "platform": "bluesky",
-      "postedAt": "2026-09-06T20:23:14.711Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3muut5crzon2i"
-    },
-    {
-      "slug": "job6178e",
-      "company": "Render Network",
-      "title": "Customer Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-09-06T20:23:14.711Z",
-      "postId": "0x6ce053f67eabd4cebe670c8dd99d184dee1eaa2e"
-    },
-    {
-      "slug": "job6178e",
-      "company": "Render Network",
-      "title": "Customer Engineer",
-      "platform": "linkedin",
-      "postedAt": "2026-09-06T20:23:14.711Z",
-      "postId": "6a9dcbca2066ff47cc445952"
-    },
-    {
-      "slug": "job6178e",
-      "company": "Render Network",
-      "title": "Customer Engineer",
-      "platform": "facebook",
-      "postedAt": "2026-09-06T20:23:14.711Z",
-      "postId": "1081734331100468"
-    },
-    {
-      "slug": "job6178e",
-      "company": "Render Network",
-      "title": "Customer Engineer",
-      "platform": "instagram",
-      "postedAt": "2026-09-06T20:23:14.711Z",
-      "postId": "17899529526571610"
-    },
-    {
-      "slug": "role0c933",
-      "company": "Wintermute",
-      "title": "Core Developer (Python)",
-      "platform": "threads",
-      "postedAt": "2026-09-06T22:53:31.788Z",
-      "postId": "18107208125327143"
-    },
-    {
-      "slug": "role0c933",
-      "company": "Wintermute",
-      "title": "Core Developer (Python)",
-      "platform": "bluesky",
-      "postedAt": "2026-09-06T22:53:31.788Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3muv3jz7bhv2e"
-    },
-    {
-      "slug": "role0c933",
-      "company": "Wintermute",
-      "title": "Core Developer (Python)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-06T22:53:31.788Z",
-      "postId": "0x54ee2f36a25dff85af13b007243fc87b8337d280"
-    },
-    {
-      "slug": "role0c933",
-      "company": "Wintermute",
-      "title": "Core Developer (Python)",
-      "platform": "linkedin",
-      "postedAt": "2026-09-06T22:53:31.788Z",
-      "postId": "6a9def00af83b6dedf9e0d43"
-    },
-    {
-      "slug": "role0c933",
-      "company": "Wintermute",
-      "title": "Core Developer (Python)",
-      "platform": "facebook",
-      "postedAt": "2026-09-06T22:53:31.788Z",
-      "postId": "1081806087759959"
-    },
-    {
-      "slug": "role0c933",
-      "company": "Wintermute",
-      "title": "Core Developer (Python)",
-      "platform": "instagram",
-      "postedAt": "2026-09-06T22:53:31.788Z",
-      "postId": "18109198792873757"
-    },
-    {
-      "slug": "recruiting57",
-      "company": "Digital Asset",
-      "title": "Global Talent Acquisition Coordinator",
-      "platform": "threads",
-      "postedAt": "2026-09-07T04:34:06.977Z",
-      "postId": "18115052264071018"
-    },
-    {
-      "slug": "recruiting57",
-      "company": "Digital Asset",
-      "title": "Global Talent Acquisition Coordinator",
-      "platform": "bluesky",
-      "postedAt": "2026-09-07T04:34:06.977Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3muvol27kx42e"
-    },
-    {
-      "slug": "recruiting57",
-      "company": "Digital Asset",
-      "title": "Global Talent Acquisition Coordinator",
-      "platform": "farcaster",
-      "postedAt": "2026-09-07T04:34:06.977Z",
-      "postId": "0x8a390edc665a6dc025102f9b611adbe7302ae4db"
-    },
-    {
-      "slug": "recruiting57",
-      "company": "Digital Asset",
-      "title": "Global Talent Acquisition Coordinator",
-      "platform": "linkedin",
-      "postedAt": "2026-09-07T04:34:06.977Z",
-      "postId": "6a9e3ed49cbcb5855646ccb9"
-    },
-    {
-      "slug": "recruiting57",
-      "company": "Digital Asset",
-      "title": "Global Talent Acquisition Coordinator",
-      "platform": "facebook",
-      "postedAt": "2026-09-07T04:34:06.977Z",
-      "postId": "1081981664409068"
-    },
-    {
-      "slug": "role6be75",
-      "company": "Sky Mavis",
-      "title": "Freelance Travel Spend & Market Explorer",
-      "platform": "instagram",
-      "postedAt": "2026-09-07T14:41:48.787Z",
-      "postId": "17956455222217699"
-    },
-    {
-      "slug": "role48004",
-      "company": "LayerZero",
-      "title": "Assistant Controller",
-      "platform": "threads",
-      "postedAt": "2026-09-07T18:17:50.491Z",
-      "postId": "18164902051426581"
-    },
     {
       "slug": "role48004",
       "company": "LayerZero",
@@ -9511,6 +9161,442 @@
       "platform": "instagram",
       "postedAt": "2026-09-24T11:32:13.867Z",
       "postId": "17911194696476699",
+      "verification": "verified"
+    },
+    {
+      "slug": "an28",
+      "company": "Solflare",
+      "title": "Senior Data Analyst",
+      "platform": "threads",
+      "postedAt": "2026-09-24T19:31:51.824Z",
+      "postId": "18141718366654542",
+      "verification": "verified",
+      "expectedText": "Solflare is hiring Senior Data Analyst: https://hashtagweb3.com/an28/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DdrpIYJD8RE",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "an28",
+      "company": "Solflare",
+      "title": "Senior Data Analyst",
+      "platform": "bluesky",
+      "postedAt": "2026-09-24T19:31:51.824Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwbynxynz72e",
+      "verification": "verified"
+    },
+    {
+      "slug": "an28",
+      "company": "Solflare",
+      "title": "Senior Data Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T19:31:51.824Z",
+      "postId": "0x77f43bbfa84c5826d84c6a9953e11196cd90f250",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "an28",
+      "company": "Solflare",
+      "title": "Senior Data Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T19:31:51.824Z",
+      "postId": "0x738fc4aac48135dd2d227690736585824a14ba64",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "an28",
+      "company": "Solflare",
+      "title": "Senior Data Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T19:31:51.824Z",
+      "postId": "0xc4a8ea0a162b04b90303c24b7a3e5295eb0660b5",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "an28",
+      "company": "Solflare",
+      "title": "Senior Data Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T19:31:51.824Z",
+      "postId": "0x217e5b7ece1b43d74ab20980790b54cbc5a10c2f",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "an28",
+      "company": "Solflare",
+      "title": "Senior Data Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T19:31:51.824Z",
+      "postId": "0xa049095c80000bf2adffef4ebf258165185cb8d4",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "an28",
+      "company": "Solflare",
+      "title": "Senior Data Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T19:31:51.824Z",
+      "postId": "0x97296df601e42bdc3b6764d3001f331e5a7255a0",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "an28",
+      "company": "Solflare",
+      "title": "Senior Data Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T19:31:51.824Z",
+      "postId": "0x50a434eb7ae123c96ead861c9f9392c79900924c",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "an28",
+      "company": "Solflare",
+      "title": "Senior Data Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T19:31:51.824Z",
+      "postId": "0x8aa5e139ba463c21318d9fa6b7ec9566274317f5",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "an28",
+      "company": "Solflare",
+      "title": "Senior Data Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T19:31:51.824Z",
+      "postId": "0xe234befe3bb2b629b4ba30c9de395d0ef09f7e26",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "an28",
+      "company": "Solflare",
+      "title": "Senior Data Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T19:31:51.824Z",
+      "postId": "0xe56a0d2c1f82e41fa78ab21ee9c4b5f1bf31070a",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "an28",
+      "company": "Solflare",
+      "title": "Senior Data Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T19:31:51.824Z",
+      "postId": "0x8465836d1d969373af9be2d8a5fea78468ca3d74",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "an28",
+      "company": "Solflare",
+      "title": "Senior Data Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T19:31:51.824Z",
+      "postId": "0x9baf43045911143c68052709ce3ad63495983553",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "an28",
+      "company": "Solflare",
+      "title": "Senior Data Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T19:31:51.824Z",
+      "postId": "0x905c3f9baee85ae51af189e5d61b1954d110aea0",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "an28",
+      "company": "Solflare",
+      "title": "Senior Data Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T19:31:51.824Z",
+      "postId": "0xc3c1743e3136a35718e36a60490e6d39ea4b49fd",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "an28",
+      "company": "Solflare",
+      "title": "Senior Data Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T19:31:51.824Z",
+      "postId": "0x1d7655d16203cbd7813a6809d3d0e84607621c94",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "an28",
+      "company": "Solflare",
+      "title": "Senior Data Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T19:31:51.824Z",
+      "postId": "0x1aa3e8499ed18dc37714650d97311313d173dec1",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "an28",
+      "company": "Solflare",
+      "title": "Senior Data Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T19:31:51.824Z",
+      "postId": "0xfeccd1e53dc1adc941c6a68b6e26041f0487954b",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "an28",
+      "company": "Solflare",
+      "title": "Senior Data Analyst",
+      "platform": "linkedin",
+      "postedAt": "2026-09-24T19:31:51.824Z",
+      "postId": "6ab57abd36f5e27919119462",
+      "verification": "verified"
+    },
+    {
+      "slug": "an28",
+      "company": "Solflare",
+      "title": "Senior Data Analyst",
+      "platform": "facebook",
+      "postedAt": "2026-09-24T19:31:51.824Z",
+      "postId": "691827047618629_1096994252907809",
+      "verification": "verified"
+    },
+    {
+      "slug": "an28",
+      "company": "Solflare",
+      "title": "Senior Data Analyst",
+      "platform": "instagram",
+      "postedAt": "2026-09-24T19:31:51.824Z",
+      "postId": "18129354481732383",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt41",
+      "company": "OKX",
+      "title": "Growth Manager (Taiwan)",
+      "platform": "threads",
+      "postedAt": "2026-09-24T19:32:45.229Z",
+      "postId": "17946580425341103",
+      "verification": "verified",
+      "expectedText": "OKX is hiring Growth Manager (Taiwan): https://hashtagweb3.com/mkt41/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DdrpO5mj_sD",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "mkt41",
+      "company": "OKX",
+      "title": "Growth Manager (Taiwan)",
+      "platform": "bluesky",
+      "postedAt": "2026-09-24T19:32:45.229Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwbypj24sm2z",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt41",
+      "company": "OKX",
+      "title": "Growth Manager (Taiwan)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T19:32:45.229Z",
+      "postId": "0x858b4750e60741accd4ab25d6c981c8c9baf62bb",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt41",
+      "company": "OKX",
+      "title": "Growth Manager (Taiwan)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T19:32:45.229Z",
+      "postId": "0x95872c80c5998205733105d6a0724bd6f7e86a98",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt41",
+      "company": "OKX",
+      "title": "Growth Manager (Taiwan)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T19:32:45.229Z",
+      "postId": "0x044eaa0442364be69e9187276e4a6cdf577aed14",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt41",
+      "company": "OKX",
+      "title": "Growth Manager (Taiwan)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T19:32:45.229Z",
+      "postId": "0x0d05a04a458d24432ed65dd9c2dd1801526ef223",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt41",
+      "company": "OKX",
+      "title": "Growth Manager (Taiwan)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T19:32:45.229Z",
+      "postId": "0x10e458dd886f43ecf31a5e0dcf52f2540a098f34",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt41",
+      "company": "OKX",
+      "title": "Growth Manager (Taiwan)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T19:32:45.229Z",
+      "postId": "0x9d51e2b2d917712424b717401afe40f856843dcf",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt41",
+      "company": "OKX",
+      "title": "Growth Manager (Taiwan)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T19:32:45.229Z",
+      "postId": "0xd5ccbcf4b9fc46aa91eb8804311ade3b1b54ec26",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt41",
+      "company": "OKX",
+      "title": "Growth Manager (Taiwan)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T19:32:45.229Z",
+      "postId": "0x9124672cdcd6830668e9ac8dbe63191b7a199bc8",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt41",
+      "company": "OKX",
+      "title": "Growth Manager (Taiwan)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T19:32:45.229Z",
+      "postId": "0x7e2c6305d3343e554bfb5fa8f9358db9ad5911f7",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt41",
+      "company": "OKX",
+      "title": "Growth Manager (Taiwan)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T19:32:45.229Z",
+      "postId": "0xd282cc15d93acea7cb54350e032802da809fe5ee",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt41",
+      "company": "OKX",
+      "title": "Growth Manager (Taiwan)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T19:32:45.229Z",
+      "postId": "0x2b62f1caafd318d1c02a5c21bdb2643825f6dd2c",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt41",
+      "company": "OKX",
+      "title": "Growth Manager (Taiwan)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T19:32:45.229Z",
+      "postId": "0xb2a3499425780bbc4b71821ca7531414194f8bdc",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt41",
+      "company": "OKX",
+      "title": "Growth Manager (Taiwan)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T19:32:45.229Z",
+      "postId": "0xa9f4c62495207d969d447b2f4ee95119ab7fb2dc",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt41",
+      "company": "OKX",
+      "title": "Growth Manager (Taiwan)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T19:32:45.229Z",
+      "postId": "0x7183f0b6ac2883de261970219112fd39aa35fe2d",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt41",
+      "company": "OKX",
+      "title": "Growth Manager (Taiwan)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T19:32:45.229Z",
+      "postId": "0x2c5c71ae544c9929bc87d84701497819ea45c34e",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt41",
+      "company": "OKX",
+      "title": "Growth Manager (Taiwan)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T19:32:45.229Z",
+      "postId": "0x302e758bd0d35fa0bdb8ee778ae56c128b127e60",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt41",
+      "company": "OKX",
+      "title": "Growth Manager (Taiwan)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-24T19:32:45.229Z",
+      "postId": "0x3a93edf1515658ee0dfdbe190a5791411cf14387",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt41",
+      "company": "OKX",
+      "title": "Growth Manager (Taiwan)",
+      "platform": "linkedin",
+      "postedAt": "2026-09-24T19:32:45.229Z",
+      "postId": "6ab57af1a074a75427c733bc",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt41",
+      "company": "OKX",
+      "title": "Growth Manager (Taiwan)",
+      "platform": "facebook",
+      "postedAt": "2026-09-24T19:32:45.229Z",
+      "postId": "691827047618629_1096994749574426",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt41",
+      "company": "OKX",
+      "title": "Growth Manager (Taiwan)",
+      "platform": "instagram",
+      "postedAt": "2026-09-24T19:32:45.229Z",
+      "postId": "18061019936529459",
       "verification": "verified"
     }
   ]
