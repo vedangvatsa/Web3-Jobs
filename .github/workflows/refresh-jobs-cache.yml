@@ -258,6 +258,7 @@ jobs:
         id: draft
         continue-on-error: true
         run: |
+          echo "ARTICLES_BEFORE=$(git ls-files 'content/articles/*.md' | wc -l)" >> "$GITHUB_ENV"
           RULE="Do not launch the site and do not signal other processes. Check the article file and its image on disk, then commit and push."
           PROMPT="$RULE"$'\n'"$(cat scripts/news-agent-brief.md)"
           PROMPT="${PROMPT//\$TODAY/$(date -u +%F)}"
@@ -347,6 +348,25 @@ jobs:
           done
           echo "Failed to push drafted articles"
           exit 1
+
+      - name: Verify drafter output against discovery
+        if: ${{ always() && inputs.news_dry_run != true }}
+        run: |
+          set -euo pipefail
+          BEFORE="${ARTICLES_BEFORE:-0}"
+          AFTER=$(git ls-files 'content/articles/*.md' | wc -l)
+          echo "Article files before=$BEFORE after=$AFTER"
+          if [ "$AFTER" -gt "$BEFORE" ]; then
+            echo "Drafter produced new articles."
+            exit 0
+          fi
+          CANDIDATES=$(node scripts/news-discover.mjs --hours 48 --max 40 | python3 -c 'import json,sys; print(len(json.load(sys.stdin)))')
+          echo "Novel discovery candidates (48h): $CANDIDATES"
+          if [ "$CANDIDATES" -ge 5 ]; then
+            echo "::error::News drafter wrote zero articles despite $CANDIDATES novel discovery candidates. The agent likely crashed or errored silently (draft step is continue-on-error). Inspect the 'Publish news run' step log."
+            exit 1
+          fi
+          echo "No new articles and few/no candidates — legitimate slow-news day."
 
       - name: Refresh RSS news snapshot
         if: ${{ always() && inputs.news_dry_run != true }}
