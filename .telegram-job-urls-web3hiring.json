@@ -437,6 +437,14 @@
     "lastUrl": "https://hashtagweb3.com/manager-0412gfw",
     "updatedAt": "2026-09-15T19:45:18.493Z"
   },
+  "8077090": {
+    "slugs": [
+      "product422"
+    ],
+    "lastSlug": "product422",
+    "lastUrl": "https://hashtagweb3.com/product422",
+    "updatedAt": "2026-09-24T19:33:55.011Z"
+  },
   "8079744": {
     "slugs": [
       "product359",
@@ -724,6 +732,14 @@
     "lastSlug": "engineer303",
     "lastUrl": "https://hashtagweb3.com/engineer303",
     "updatedAt": "2026-09-17T08:51:13.383Z"
+  },
+  "8152994": {
+    "slugs": [
+      "product512"
+    ],
+    "lastSlug": "product512",
+    "lastUrl": "https://hashtagweb3.com/product512",
+    "updatedAt": "2026-09-24T19:33:55.344Z"
   },
   "8154856": {
     "slugs": [
@@ -3105,34 +3121,67 @@
   },
   "0000302": {
     "slugs": [
-      "job10"
+      "job10",
+      "job00302",
+      "job18"
     ],
-    "lastSlug": "job10",
-    "lastUrl": "https://hashtagweb3.com/job10",
+    "lastSlug": "job18",
+    "lastUrl": "https://hashtagweb3.com/job18",
     "updatedAt": "2026-09-24T11:33:13.630Z"
   },
   "9916e9da-7491-4c99-afd1-e4b8158fa58b": {
     "slugs": [
-      "engineer1000"
+      "engineer1000",
+      "engineerfa58b"
     ],
-    "lastSlug": "engineer1000",
-    "lastUrl": "https://hashtagweb3.com/engineer1000",
+    "lastSlug": "engineerfa58b",
+    "lastUrl": "https://hashtagweb3.com/engineerfa58b",
     "updatedAt": "2026-09-24T11:33:14.507Z"
   },
   "90148307F5": {
     "slugs": [
-      "client2"
+      "client2",
+      "client57006",
+      "client57004",
+      "client307f5"
     ],
-    "lastSlug": "client2",
-    "lastUrl": "https://hashtagweb3.com/client2",
+    "lastSlug": "client307f5",
+    "lastUrl": "https://hashtagweb3.com/client307f5",
     "updatedAt": "2026-09-24T11:33:14.750Z"
   },
   "d14eba78-ecc4-49b3-934c-ed8fec03cabe": {
     "slugs": [
-      "job23"
+      "job23",
+      "job3cabe",
+      "job7",
+      "job-0ga20h4"
     ],
-    "lastSlug": "job23",
-    "lastUrl": "https://hashtagweb3.com/job23",
+    "lastSlug": "job-0ga20h4",
+    "lastUrl": "https://hashtagweb3.com/job-0ga20h4",
     "updatedAt": "2026-09-24T11:33:14.909Z"
+  },
+  "f99558f9-639c-4f36-81af-2d0910703560": {
+    "slugs": [
+      "recruiting90"
+    ],
+    "lastSlug": "recruiting90",
+    "lastUrl": "https://hashtagweb3.com/recruiting90",
+    "updatedAt": "2026-09-24T19:33:55.626Z"
+  },
+  "5c998ab3-7e82-4087-b62a-53320e6a87bc": {
+    "slugs": [
+      "engineer886"
+    ],
+    "lastSlug": "engineer886",
+    "lastUrl": "https://hashtagweb3.com/engineer886",
+    "updatedAt": "2026-09-24T19:33:55.870Z"
+  },
+  "09387e8c-a02d-4cb8-9918-5d2848dbbca8": {
+    "slugs": [
+      "manager503"
+    ],
+    "lastSlug": "manager503",
+    "lastUrl": "https://hashtagweb3.com/manager503",
+    "updatedAt": "2026-09-24T19:33:56.041Z"
   }
 }

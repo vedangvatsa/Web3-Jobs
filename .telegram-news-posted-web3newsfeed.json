@@ -617,6 +617,9 @@
   "https://hashtagweb3.com/ondo-shares?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/x-payout?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://decrypt.co/379120/china-probes-deepseek-moonshot-data-leaks-anthropic-claude",
+  "https://hashtagweb3.com/coinbase-sentencing?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/mica-lending?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://www.theblock.co/news/business/2026-09-24-solana-treasury-skyai-keeps-board-shareholder-protest-loses-equity-plan-vote-416298",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -1757,6 +1760,12 @@
   "X Sues Operators of Six Bitcoin Accounts Over Creator Payouts",
   "China investigates DeepSeek and Moonshot for alleged data misuse",
   "China Probes DeepSeek and Moonshot Over Alleged Data Leaks to Anthropic's Claude",
+  "Coinbase Impersonator Sentenced to Prison Over $16 Million Theft",
+  "Coinbase impersonator sentenced to four to 12 years over $16 million theft",
+  "EBA recommends regulating crypto lending and DeFi access",
+  "EBA calls for MiCA rules on crypto lending and access to DeFi",
+  "SkyAI board survives protest but loses equity plan vote",
+  "Solana treasury firm SkyAI keeps board after shareholder protest, loses equity plan vote",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -1906,5 +1915,8 @@
   "fp:act|advanc|agency|are|cftc|chair|clarity|continu|despit|door",
   "fp:alpaca|approv|bnb|can|chain|enabl|institution|kind|mint|ondo",
   "fp:account|alleg|creator|defendant|england|fil|fraud|fraudulent|involv|lawsuit",
-  "fp:alleg|anthropic|are|authority|china|claim|data|deepseek|investigat|leak"
+  "fp:alleg|anthropic|are|authority|china|claim|data|deepseek|investigat|leak",
+  "fp:16m|about100|coinbas|defraud|four|guilty|impersonator|order|pay|plead",
+  "fp:access|are|authority|bank|call|commission|defi|eba|european|law",
+  "fp:block|board|compensation|equity|exist|firm|investor|keep|los|packag"
 ]

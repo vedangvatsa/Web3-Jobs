@@ -605,6 +605,9 @@
   "https://arstechnica.com/tech-policy/2026/09/china-silent-as-us-touts-plan-for-ai-safety-alerts-that-omits-tech-experts/",
   "https://arstechnica.com/gadgets/2026/09/xprize-wildfire-winners-spotted-fires-within-10-min-but-couldnt-stop-them/",
   "https://arstechnica.com/gadgets/2026/09/youtube-promises-custom-feeds-and-a-lot-more-ai-later-this-year/",
+  "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+  "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+  "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1598,6 +1601,12 @@
   "XPRIZE Wildfire winners spotted fires within 10 min—but couldn’t stop them",
   "YouTube to introduce AI-powered feeds and new features",
   "YouTube promises custom feeds and a lot more AI later this year",
+  "PrismML deploys small language models on smart glasses",
+  "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+  "Microsoft shuts down platform used for AI-assisted cyberattacks",
+  "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
+  "Meta Muse Charm AI device features retro Tamagotchi design",
+  "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -1720,5 +1729,8 @@
   "fp:already|are|camera|captur|caus|delhi|demonstration|film|footag|glass",
   "fp:china|collaborat|competition|cooperation|delusion|discourag|endanger|expert|hinder|international",
   "fp:competition|couldn|current|detect|detection|fir|ineffectiv|method|min|onc",
-  "fp:custom|featur|introduc|later|livestream|lot|mor|plan|platform|power"
+  "fp:custom|featur|introduc|later|livestream|lot|mor|plan|platform|power",
+  "fp:deploy|execut|exist|glass|hardwar|languag|llm|locally|onboard|open",
+  "fp:000|account|assist|automat|compromis|compromised12|cyberattack|dismantl|disrupt|down",
+  "fp:accessory|attach|bag|charm|current|design|devic|fashion|featur|follow"
 ]

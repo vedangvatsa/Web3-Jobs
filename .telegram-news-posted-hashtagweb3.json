@@ -596,6 +596,9 @@
   "https://cointelegraph.com/news/sec-mark-uyeda-agency-dropped-crypto-cases?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "https://decrypt.co/379120/china-probes-deepseek-moonshot-data-leaks-anthropic-claude",
   "https://decrypt.co/379126/openai-ukraine-access-daybreak-ai-cyber-defense-tool",
+  "https://hashtagweb3.com/coinbase-sentencing?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/mica-lending?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://www.theblock.co/news/markets/2026-09-24-ark-invest-tokenizes-arkvx-venture-fund-securitize-416294",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -1696,6 +1699,12 @@
   "China Probes DeepSeek and Moonshot Over Alleged Data Leaks to Anthropic's Claude",
   "OpenAI Provides Ukraine Access to Daybreak Cyber-Defense Tool",
   "OpenAI Gives Ukraine Access to Daybreak AI Cyber-Defense Tool",
+  "Coinbase impersonator sentenced for $16 million crypto theft",
+  "Coinbase impersonator sentenced to four to 12 years over $16 million theft",
+  "EBA proposes regulating crypto lending and DeFi access",
+  "EBA calls for MiCA rules on crypto lending and access to DeFi",
+  "ARK Invest tokenizes $1.3 billion venture fund on Ethereum",
+  "ARK Invest brings $1.3 billion venture fund onchain through Securitize",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -1842,5 +1851,8 @@
   "fp:anthropic|both|compet|day|drop|gpt6|luna|market|minut|openai",
   "fp:act|agency|avoid|bitmex|cas|ceas|chair|credibility|down|dropp",
   "fp:add|alleg|anthropic|cash|china|cme|contract|data|deepseek|derivativ",
-  "fp:access|cyber|daybreak|defens|giv|government|identify|infrastructur|national|openai"
+  "fp:access|cyber|daybreak|defens|giv|government|identify|infrastructur|national|openai",
+  "fp:16m|asset|coinbas|forfeitur|four|guilty|impersonator|plead|receiv|requir",
+  "fp:access|call|defi|eba|enact|european|framework|hav|law|lend",
+  "fp:13b|ark|asset|blockchain|bring|firm|fund|invest|major|manager"
 ]
