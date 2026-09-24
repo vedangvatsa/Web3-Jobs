@@ -32,7 +32,7 @@ text{fill:#cbd5e1}.header{fill:#f1f5f9}.row-bg{fill:none}.card{fill:none;stroke:
 <text x="200" y="132" font-size="10" fill="#64748b">Local compliance (Deel / Remote)</text>
 <text x="440" y="116">Anchor to US remote rates</text>
 <text x="440" y="132" font-size="10" fill="#64748b">Request FX buffer for local fiat</text>
-<rect class="tag1" x="660" y="110" width="70" height="16" rx="4"/>
+<rect class="tag1" x="660" y="110" width="76" height="16" rx="4"/>
 <text x="666" y="122" font-size="10" fill="#ffffff" font-weight="700" class="badge-text">Zero Risk</text>
 
 <!-- Row 2 -->
@@ -42,7 +42,7 @@ text{fill:#cbd5e1}.header{fill:#f1f5f9}.row-bg{fill:none}.card{fill:none;stroke:
 <text x="200" y="184" font-size="10" fill="#64748b">Token Grant Agreements (RTAs)</text>
 <text x="440" y="168">Insist on % share, not USD value</text>
 <text x="440" y="184" font-size="10" fill="#64748b">Require FDV model breakdown</text>
-<rect class="tag2" x="660" y="162" width="82" height="16" rx="4"/>
+<rect class="tag2" x="660" y="162" width="88" height="16" rx="4"/>
 <text x="666" y="174" font-size="10" fill="#ffffff" font-weight="700" class="badge-text">Market Beta</text>
 
 <!-- Row 3 -->
@@ -53,7 +53,7 @@ text{fill:#cbd5e1}.header{fill:#f1f5f9}.row-bg{fill:none}.card{fill:none;stroke:
 <text x="200" y="236" font-size="10" fill="#64748b">TGE liquidity dependencies</text>
 <text x="440" y="220">Seek retroactive vesting start</text>
 <text x="440" y="236" font-size="10" fill="#64748b">Clarify good/bad leaver clauses</text>
-<rect class="tag3" x="660" y="214" width="80" height="16" rx="4"/>
+<rect class="tag3" x="660" y="214" width="96" height="16" rx="4"/>
 <text x="666" y="226" font-size="10" fill="#ffffff" font-weight="700" class="badge-text">Liquidity Lag</text>
 
 <!-- Row 4 -->
@@ -63,7 +63,7 @@ text{fill:#cbd5e1}.header{fill:#f1f5f9}.row-bg{fill:none}.card{fill:none;stroke:
 <text x="200" y="288" font-size="10" fill="#64748b">Conference travel &amp; gas allowances</text>
 <text x="440" y="272">Negotiate $5k–$10k signing bonus</text>
 <text x="440" y="288" font-size="10" fill="#64748b">Establish recurring learning fund</text>
-<rect class="tag4" x="660" y="266" width="78" height="16" rx="4"/>
+<rect class="tag4" x="660" y="266" width="88" height="16" rx="4"/>
 <text x="666" y="278" font-size="10" fill="#ffffff" font-weight="700" class="badge-text">Cash Equiv.</text>
 
 <line class="grid" x1="20" y1="306" x2="760" y2="306"/>
