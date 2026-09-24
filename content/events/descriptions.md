@@ -9843,7 +9843,7 @@ The program and booth operating hours are subject to change. Booth pricing and i
 
 This event is for informational and networking purposes only and does not constitute financial or investment advice.
 
-[About Animoca Brands (https://www.animocabrands.com/?utm_source=luma)]
+[About Animoca Brands](https://www.animocabrands.com/?utm_source=luma)
 
 Animoca Brands is a global digital assets leader building and investing in impactful technologies and ecosystems to reimagine future economies through AI and the agentic web. It is is recognized for building digital asset platforms such as the Moca Network, Open Campus, Anichess, and The Sandbox, as well as institutional-grade platforms; providing digital asset services to help Web3 companies launch and grow; and investing in frontier Web3 technology, with a portfolio of over 600 companies and digital assets.
 
@@ -18033,7 +18033,7 @@ Let's Run It Back! You are cordially invited to join us for the launch of Bankin
 
 Space is limited! We look forward to seeing you there.
 
-[Sponsored by DLA Piper (http://dlapiper.com/?utm_source=luma) + DWT (http://dwt.com/?utm_source=luma)]
+[Sponsored by DLA Piper (http://dlapiper.com/?utm_source=luma) + DWT](http://dwt.com/?utm_source=luma)
 
 <a id="event-7ce0f8a8122abe82"></a>
 
@@ -19349,7 +19349,7 @@ Selected standout teams may be eligible for startup funding and venture-building
 
 ### 2. The Top 3 Winning Teams Will Receive
 
-Founder Institute Fellowships - Full participation in an upcoming FI Core Program (Seraphina's cohort) at no cost upon successful graduation. Graduates will also receive access to over $2M in startup perks and benefits. [Learn more (https://fi.co/los-angeles?utm_source=luma)]
+Founder Institute Fellowships - Full participation in an upcoming FI Core Program (Seraphina's cohort) at no cost upon successful graduation. Graduates will also receive access to over $2M in startup perks and benefits. [Learn more](https://fi.co/los-angeles?utm_source=luma)
 
 ### 3. Cash Prizes
 
@@ -19512,7 +19512,7 @@ Hacker Handbook is Live - You Can Start Building Now
 
 We've put together a full handbook covering tracks, judging criteria, prize details, schedule, submission guidelines, and FAQs.
 
-### [Handbook ]
+### [Handbook]
 
 https://agentx-ai.notion.site/The-Executable-World-3ab03378208e80579131cc26b769a94f
 
@@ -25098,7 +25098,7 @@ Standard event sponsorship delivers a logo, a booth, and a list of badge scans. 
 
 Partnership structures range from targeted business development packages to full event association under your brand. If your organization needs to be present where the APAC digital asset market is being shaped in 2026, tell us your objectives.
 
-[Get in touch (https://www.cosmoverse.org/sponsors-partners)]
+[Get in touch](https://www.cosmoverse.org/sponsors-partners)
 
 ### THE VENUE
 
@@ -25110,7 +25110,7 @@ The Summit runs alongside Hong Kong FinTech Week, making the Grand Hyatt the ins
 
 A closed-door day reserved for confirmed speakers and partners, with private, focused engagement among senior institutional leaders and capital allocators. Participation is by invitation only.
 
-[Get in touch (https://www.cosmoverse.org/sponsors-partners)]
+[Get in touch](https://www.cosmoverse.org/sponsors-partners)
 
 The decision-makers driving digital asset adoption across Asia Pacific will be in the room. Secure your place.
 

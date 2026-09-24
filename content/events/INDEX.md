@@ -213,7 +213,7 @@ Each entry links to its formatted description and original source file. All stor
 | [Solana Summit Korea](descriptions.md#event-03a02de8f5a42f38) | 2026-09-30 | Source-backed (4197 chars) |
 | [Institutional Privacy Day @ KBW 2026 \| Co-Hosted by Citrea & Four Pillars](descriptions.md#event-3b567315ded56010) | 2026-09-30 | Source-backed (1900 chars) |
 | [Alpha in Seoul - Korean SMA Trading House Roundtable](descriptions.md#event-18247c4f1e7896e0) | 2026-09-30 | Source-backed (2755 chars) |
-| [THE NEXT AI & Payment CARNIVAL](descriptions.md#event-668127fd74981a47) | 2026-09-30 | Source-backed (8019 chars) |
+| [THE NEXT AI & Payment CARNIVAL](descriptions.md#event-668127fd74981a47) | 2026-09-30 | Source-backed (8018 chars) |
 | [Token Sale Summit 2026 - Korea Blockchain Week](descriptions.md#event-b674f06ecea6d7cb) | 2026-09-30 | Source-backed (2251 chars) |
 | [Where AI Meets RealFi at KBW 2026](descriptions.md#event-c372efe47a06780a) | 2026-09-30 | Source-backed (7094 chars) |
 | [The Best Event: Sundown](descriptions.md#event-818bcb69f1935057) | 2026-09-30 | Source-backed (2468 chars) |
@@ -361,7 +361,7 @@ Each entry links to its formatted description and original source file. All stor
 | [Meet Team1 Vietnam at Blockchain Week 2026 – UNGA Edition](descriptions.md#event-0d4e0237e8376d59) | 2026-09-17 | Source-backed (1689 chars) |
 | [MantisGrid AI Hackathon & Summit 2026](descriptions.md#event-72ea0df0a0f292d3) | 2026-09-17 | Source-backed (3263 chars) |
 | [Musly × London Fashion Week \| In Conversation with Rita Qaranbach, Lebanese Designer Redefining Fashion \| Sept 17 \| London](descriptions.md#event-5cf582cd5ff2aa75) | 2026-09-17 | Source-backed (2732 chars) |
-| [Launch Party: Banking on Blockchain, Second Edition 📚 2️⃣](descriptions.md#event-0e6efd066bce8fdb) | 2026-09-17 | Source-backed (1289 chars) |
+| [Launch Party: Banking on Blockchain, Second Edition 📚 2️⃣](descriptions.md#event-0e6efd066bce8fdb) | 2026-09-17 | Source-backed (1288 chars) |
 | [The Software Factory with SuperPlane & Elastic - When Agents Build, Ship, and Fix Your Code](descriptions.md#event-7ce0f8a8122abe82) | 2026-09-17 | Source-backed (3277 chars) |
 | [NYC Founders Dinner \| Hosted by: T Palmer Agency & InsurtechNY](descriptions.md#event-6d8bd475bd4e5e80) | 2026-09-17 | Source-backed (2067 chars) |
 | [founder dinner !!](descriptions.md#event-660c75cb0d86aa6a) | 2026-09-17 | Source-backed (692 chars) |
@@ -385,8 +385,8 @@ Each entry links to its formatted description and original source file. All stor
 | [Health in Climate AI Hackathon NYC](descriptions.md#event-ee7f5f376ef49b29) | 2026-09-19 | Source-backed (1379 chars) |
 | [Trust in the Hiring Funnel Hackathon @ NYU](descriptions.md#event-f65d3258babc4fa5) | 2026-09-19 | Source-backed (7636 chars) |
 | [A hackathon to kick off NYC Climate Week 2026](descriptions.md#event-cc2404ac1026b6dd) | 2026-09-19 | Source-backed (2900 chars) |
-| [Dream AI Hackathon 2026](descriptions.md#event-21d5a43e8074c41c) | 2026-09-19 | Source-backed (6106 chars) |
-| [The Executable World: A Full Stack AI Hackathon & Mixer](descriptions.md#event-b5d03477f0ccbabb) | 2026-09-19 | Source-backed (6974 chars) |
+| [Dream AI Hackathon 2026](descriptions.md#event-21d5a43e8074c41c) | 2026-09-19 | Source-backed (6105 chars) |
+| [The Executable World: A Full Stack AI Hackathon & Mixer](descriptions.md#event-b5d03477f0ccbabb) | 2026-09-19 | Source-backed (6973 chars) |
 | [The Agent Harness Hackathon](descriptions.md#event-e08f1eb394be355c) | 2026-09-19 | Source-backed (3698 chars) |
 | [Pause the World for Peace \| UN Blockchain Week 2026](descriptions.md#event-d03c4b466bfff274) | 2026-09-19 | Source-backed (4457 chars) |
 | [NewsBreak x CMU-SV ECE Hackathon](descriptions.md#event-5549f9aaa2a342d8) | 2026-09-19 | Source-backed (1848 chars) |
@@ -492,7 +492,7 @@ Each entry links to its formatted description and original source file. All stor
 | [Solana Indoor Skydiving](descriptions.md#event-cf8073cb4c140b56) | 2026-10-28 | Source-backed (1087 chars) |
 | [☕️ Codex Community Meetup-San Francisco #11](descriptions.md#event-3b04d115a5440a59) | 2026-10-30 | Source-backed (4568 chars) |
 | [Solana Hacker House - London](descriptions.md#event-1ace7c3f36f85819) | 2026-11-01 | Source-backed (2111 chars) |
-| [Hong Kong Digital Asset Summit by Cosmoverse](descriptions.md#event-4fdf209d0ed5ff11) | 2026-11-05 | Source-backed (1627 chars) |
+| [Hong Kong Digital Asset Summit by Cosmoverse](descriptions.md#event-4fdf209d0ed5ff11) | 2026-11-05 | Source-backed (1625 chars) |
 
 ## luma-batch-events.json
 
