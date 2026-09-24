@@ -368,8 +368,27 @@ jobs:
           fi
           echo "No new articles and few/no candidates — legitimate slow-news day."
 
+      - name: Verify dry-run made no commits
+        if: ${{ inputs.news_dry_run == true }}
+        run: |
+          test "$(git rev-parse HEAD)" = "$BASE_SHA" || { echo "DRY-RUN VIOLATION: commits were created"; git log --oneline -3; exit 1; }
+          echo "Dry-run clean: no commits, no pushes."
+
+  refresh-news-snapshot:
+    needs: [gate]
+    if: ${{ needs.gate.outputs.skip != 'true' && inputs.news_dry_run != true }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: 'npm'
+      - run: npm ci --no-audit --no-fund
       - name: Refresh RSS news snapshot
-        if: ${{ always() && inputs.news_dry_run != true }}
         run: |
           set -euo pipefail
           npx tsx scripts/refresh-news-cache.ts
@@ -398,12 +417,6 @@ jobs:
           done
           echo "Failed to push news snapshot"
           exit 1
-
-      - name: Verify dry-run made no commits
-        if: ${{ inputs.news_dry_run == true }}
-        run: |
-          test "$(git rev-parse HEAD)" = "$BASE_SHA" || { echo "DRY-RUN VIOLATION: commits were created"; git log --oneline -3; exit 1; }
-          echo "Dry-run clean: no commits, no pushes."
 
   refresh-and-post:
     needs: [gate, ingest, deploy]
@@ -556,7 +569,7 @@ jobs:
           fi
 
   record-slot:
-    needs: [gate, ingest, publish-news, deploy, job-alerts, post-openings, refresh-and-post]
+    needs: [gate, ingest, publish-news, refresh-news-snapshot, deploy, job-alerts, post-openings, refresh-and-post]
     if: ${{ always() && needs.gate.outputs.skip != 'true' && needs.gate.result == 'success' }}
     runs-on: ubuntu-latest
     permissions:
@@ -604,11 +617,12 @@ jobs:
           ALERTS: ${{ needs.job-alerts.result }}
           POSTS: ${{ needs.post-openings.result }}
           TELEGRAM: ${{ needs.refresh-and-post.result }}
+          SNAPSHOT: ${{ needs.refresh-news-snapshot.result }}
         run: |
           set -euo pipefail
           fail=0
           if [ "$MORNING" = "true" ]; then
-            for pair in "ingest:$INGEST" "publish-news:$NEWS" "job-alerts:$ALERTS"; do
+            for pair in "ingest:$INGEST" "publish-news:$NEWS" "job-alerts:$ALERTS" "news-snapshot:$SNAPSHOT"; do
               name="${pair%%:*}"
               result="${pair#*:}"
               if [ "$result" != "success" ]; then
