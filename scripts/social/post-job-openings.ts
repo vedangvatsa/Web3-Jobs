@@ -46,6 +46,7 @@ import * as fs from 'fs';
 import * as path from 'path';
 import dotenv from 'dotenv';
 import { BufferXClient, BUFFER_X_CHANNEL_ID, BUFFER_X_ACCOUNT } from './buffer-x';
+import { linkedInTargets, hasLinkedInReceipt, publishLinkedInTargets, type LinkedInTarget } from './linkedin-targets';
 import { buildUniqueJobMetaDescription } from '../../src/lib/job-guides';
 import { buildJobOgImageUrl, buildJobInstagramImageUrl, JOB_OG_VERSION, SITE_URL } from '../../src/lib/job-og';
 
@@ -197,6 +198,7 @@ function verifiedPlatformsForSlug(state: SocialState, slug: string): Set<SocialP
       entry.slug === slug &&
       isSocialPlatform(entry.platform) &&
       entry.platform !== 'farcaster' &&
+      entry.platform !== 'linkedin' &&
       hasVerifiedPostReceipt(entry) &&
       !(entry.platform === 'threads' && state.pendingSlugs.includes(slug) && entry.verification !== 'verified')
     ) {
@@ -205,6 +207,9 @@ function verifiedPlatformsForSlug(state: SocialState, slug: string): Set<SocialP
   }
   if (isFarcasterComplete(state, slug)) {
     platforms.add('farcaster');
+  }
+  if (linkedInTargets().every((target) => hasLinkedInReceipt(state.history, slug, target))) {
+    platforms.add('linkedin');
   }
   return platforms;
 }
@@ -757,17 +762,34 @@ async function postToFarcaster(
 // ── LinkedIn / Buffer ──
 
 async function postToLinkedInBuffer(
+  target: LinkedInTarget,
   text: string,
   link?: { url: string; title?: string; description?: string; thumbnail?: string }
 ): Promise<string> {
   const token = process.env.BUFFER_ACCESS_TOKEN;
-  const channelId = process.env.BUFFER_LINKEDIN_CHANNEL_ID || '69c5b139af47dacb695b5feb';
+  const channelId = target.channelId;
 
   if (!token) {
     throw new Error('Buffer Access Token missing (BUFFER_ACCESS_TOKEN)');
   }
   if (!channelId) {
     throw new Error('Buffer LinkedIn Channel ID missing (BUFFER_LINKEDIN_CHANNEL_ID)');
+  }
+
+  const channelResponse = await fetch('https://api.buffer.com/graphql', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json', Authorization: `Bearer ${token}` },
+    body: JSON.stringify({
+      query: 'query LinkedInChannel($id: ChannelId!) { channel(input: {id: $id}) { id name service } }',
+      variables: { id: channelId },
+    }),
+    signal: AbortSignal.timeout(30000),
+  });
+  if (!channelResponse.ok) throw new Error(`Buffer channel check failed: HTTP ${channelResponse.status}`);
+  const channelData = await channelResponse.json();
+  const channel = channelData.data?.channel;
+  if (channelData.errors?.length || channel?.id !== channelId || channel?.service !== 'linkedin' || channel?.name !== target.name) {
+    throw new Error(`Buffer channel does not match LinkedIn ${target.label}`);
   }
 
   // Pure link post: Buffer passes text containing the link to LinkedIn.
@@ -816,8 +838,10 @@ async function postToLinkedInBuffer(
       Authorization: `Bearer ${token}`,
     },
     body: JSON.stringify({ query, variables: { input } }),
+    signal: AbortSignal.timeout(30000),
   });
 
+  if (!res.ok) throw new Error(`Buffer LinkedIn ${target.label} request failed: HTTP ${res.status}`);
   const data = await res.json();
   if (data.errors) {
     throw new Error(`Buffer GraphQL error: ${JSON.stringify(data.errors)}`);
@@ -1464,7 +1488,7 @@ async function main() {
   console.log(farcasterPostText);
   console.log(`-----------------------------------------------`);
 
-  console.log(`\n--- Preview: LinkedIn Post (Company Page via Buffer) ---`);
+  console.log(`\n--- Preview: LinkedIn (${linkedInTargets().map((target) => target.label).join(' + ')} via Buffer) ---`);
   console.log(linkedinPostText);
   console.log(`--------------------------------------------------------`);
 
@@ -1670,28 +1694,31 @@ async function main() {
    if (shouldPublishPlatform('linkedin')) {
     attemptedPlatforms.add('linkedin');
     try {
-      console.log('Publishing to LinkedIn (Hashtag Web3 Company Page via Buffer link preview)...');
+      console.log('Submitting to LinkedIn #Web3 and CVin.Bio via Buffer link previews...');
       const preview = verifiedPreviews.get('linkedin') || null;
       if (!preview) {
         console.error('✗ LinkedIn publish skipped by readiness gate (see above). Not marking as posted.');
       } else {
-        const bufferPostId = await postToLinkedInBuffer(linkedinPostText, {
-          url: linkedinUrl,
-          title: preview.title,
-          description: preview.description || undefined,
-          thumbnail: preview.image,
-        });
-        console.log(`✓ Successfully published to LinkedIn! Buffer Post ID: ${bufferPostId}`);
-        recordVerifiedPost(state, {
-          slug,
-          company,
-          title,
-          platform: 'linkedin',
-          postedAt: now,
-          postId: bufferPostId,
-        });
-        newlyVerifiedPlatforms.add('linkedin');
-        postedSuccessCount++;
+        const targets = linkedInTargets();
+        const results = await publishLinkedInTargets(
+          state.history, slug, targets,
+          (target) => postToLinkedInBuffer(target, linkedinPostText, {
+            url: linkedinUrl,
+            title: preview.title,
+            description: preview.description || undefined,
+            thumbnail: preview.image,
+          }),
+          (target, bufferPostId) => recordVerifiedPost(state, {
+            slug, company, title, platform: 'linkedin', postedAt: now,
+            postId: bufferPostId, account: target.channelId, provider: 'buffer',
+          }),
+          force,
+        );
+        for (const result of results) {
+          console.log(`LinkedIn ${result.target.label}: ${result.status}${result.error ? ` — ${result.error}` : ''}`);
+          if (result.status === 'submitted') postedSuccessCount++;
+        }
+        if (results.every((result) => result.status !== 'failed')) newlyVerifiedPlatforms.add('linkedin');
       }
     } catch (err) {
       console.error(`✗ Failed to post to LinkedIn:`, (err as Error).message);

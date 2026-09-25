@@ -73,8 +73,8 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Test Buffer X publishing and receipt verification
-        run: npx tsx --test scripts/social/buffer-x.test.ts
+      - name: Test Buffer publishing and account-specific receipts
+        run: npx tsx --test scripts/social/buffer-x.test.ts scripts/social/linkedin-targets.test.ts
 
       - name: Post Job Opening
         id: publish
@@ -92,6 +92,7 @@ jobs:
           BUFFER_X_CHANNEL_ID: ${{ vars.BUFFER_X_CHANNEL_ID || '6ab62682ea19ca0bdee284bd' }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BUFFER_LINKEDIN_CHANNEL_ID: ${{ secrets.BUFFER_LINKEDIN_CHANNEL_ID || '69c5b139af47dacb695b5feb' }}
+          BUFFER_CVINBIO_CHANNEL_ID: ${{ vars.BUFFER_CVINBIO_CHANNEL_ID || '6a134180c687a22dd420e089' }}
           META_PAGE_ID: ${{ secrets.META_PAGE_ID }}
           META_PAGE_TOKEN: ${{ secrets.META_PAGE_TOKEN }}
           INSTAGRAM_ACCOUNT_ID: ${{ secrets.INSTAGRAM_ACCOUNT_ID || '17841473830256790' }}
