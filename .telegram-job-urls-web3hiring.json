@@ -439,10 +439,13 @@
   },
   "8077090": {
     "slugs": [
-      "product422"
+      "product422",
+      "product77090",
+      "product591",
+      "product253"
     ],
-    "lastSlug": "product422",
-    "lastUrl": "https://hashtagweb3.com/product422",
+    "lastSlug": "product253",
+    "lastUrl": "https://hashtagweb3.com/product253",
     "updatedAt": "2026-09-24T19:33:55.011Z"
   },
   "8079744": {
@@ -735,10 +738,13 @@
   },
   "8152994": {
     "slugs": [
-      "product512"
+      "product512",
+      "product52994",
+      "product701",
+      "product169"
     ],
-    "lastSlug": "product512",
-    "lastUrl": "https://hashtagweb3.com/product512",
+    "lastSlug": "product169",
+    "lastUrl": "https://hashtagweb3.com/product169",
     "updatedAt": "2026-09-24T19:33:55.344Z"
   },
   "8154856": {
@@ -3162,26 +3168,76 @@
   },
   "f99558f9-639c-4f36-81af-2d0910703560": {
     "slugs": [
-      "recruiting90"
+      "recruiting90",
+      "recruiting03560",
+      "frontend03560",
+      "recruiting24"
     ],
-    "lastSlug": "recruiting90",
-    "lastUrl": "https://hashtagweb3.com/recruiting90",
+    "lastSlug": "recruiting24",
+    "lastUrl": "https://hashtagweb3.com/recruiting24",
     "updatedAt": "2026-09-24T19:33:55.626Z"
   },
   "5c998ab3-7e82-4087-b62a-53320e6a87bc": {
     "slugs": [
-      "engineer886"
+      "engineer886",
+      "engineera87bc",
+      "engineer516",
+      "engineer236",
+      "engineer-1sz3k0q"
     ],
-    "lastSlug": "engineer886",
-    "lastUrl": "https://hashtagweb3.com/engineer886",
+    "lastSlug": "engineer-1sz3k0q",
+    "lastUrl": "https://hashtagweb3.com/engineer-1sz3k0q",
     "updatedAt": "2026-09-24T19:33:55.870Z"
   },
   "09387e8c-a02d-4cb8-9918-5d2848dbbca8": {
     "slugs": [
-      "manager503"
+      "manager503",
+      "managerbbca8",
+      "manager523",
+      "manager286"
     ],
-    "lastSlug": "manager503",
-    "lastUrl": "https://hashtagweb3.com/manager503",
+    "lastSlug": "manager286",
+    "lastUrl": "https://hashtagweb3.com/manager286",
     "updatedAt": "2026-09-24T19:33:56.041Z"
+  },
+  "7cd00d67-dcc9-4da8-8f0c-6faf335b86cd": {
+    "slugs": [
+      "head21"
+    ],
+    "lastSlug": "head21",
+    "lastUrl": "https://hashtagweb3.com/head21",
+    "updatedAt": "2026-09-25T09:13:36.377Z"
+  },
+  "07709fec-6c5e-41bd-ae3f-212027f1f509": {
+    "slugs": [
+      "rs2"
+    ],
+    "lastSlug": "rs2",
+    "lastUrl": "https://hashtagweb3.com/rs2",
+    "updatedAt": "2026-09-25T09:13:37.061Z"
+  },
+  "tangem-senior-solidity-engineer": {
+    "slugs": [
+      "solidity5"
+    ],
+    "lastSlug": "solidity5",
+    "lastUrl": "https://hashtagweb3.com/solidity5",
+    "updatedAt": "2026-09-25T09:13:37.243Z"
+  },
+  "57a184f7-ab97-4ff2-ba7a-47da29ba5e33": {
+    "slugs": [
+      "engineer926"
+    ],
+    "lastSlug": "engineer926",
+    "lastUrl": "https://hashtagweb3.com/engineer926",
+    "updatedAt": "2026-09-25T09:13:37.446Z"
+  },
+  "6a0b48bd-41e5-4f5e-a636-f501fcd55c75": {
+    "slugs": [
+      "infra22"
+    ],
+    "lastSlug": "infra22",
+    "lastUrl": "https://hashtagweb3.com/infra22",
+    "updatedAt": "2026-09-25T09:13:37.665Z"
   }
 }

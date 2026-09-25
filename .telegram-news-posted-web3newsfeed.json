@@ -620,6 +620,9 @@
   "https://hashtagweb3.com/coinbase-sentencing?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/mica-lending?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://www.theblock.co/news/business/2026-09-24-solana-treasury-skyai-keeps-board-shareholder-protest-loses-equity-plan-vote-416298",
+  "https://hashtagweb3.com/ark-venture?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/fed-stablecoin?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/polymarket-lawsuit?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -1766,6 +1769,12 @@
   "EBA calls for MiCA rules on crypto lending and access to DeFi",
   "SkyAI board survives protest but loses equity plan vote",
   "Solana treasury firm SkyAI keeps board after shareholder protest, loses equity plan vote",
+  "ARK Invest Offers Venture Fund Tokens on Ethereum",
+  "ARK Invest puts venture fund on Ethereum rails with Securitize",
+  "Fed Proposes Stablecoin Reserve Rules Under GENIUS Act",
+  "Federal Reserve proposes reserve and capital rules for stablecoin issuers under GENIUS Act",
+  "New York Sues Polymarket Over Unlicensed Gambling Operations",
+  "New York sues Polymarket alleging unlicensed gambling operation",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -1918,5 +1927,8 @@
   "fp:alleg|anthropic|are|authority|china|claim|data|deepseek|investigat|leak",
   "fp:16m|about100|coinbas|defraud|four|guilty|impersonator|order|pay|plead",
   "fp:access|are|authority|bank|call|commission|defi|eba|european|law",
-  "fp:block|board|compensation|equity|exist|firm|investor|keep|los|packag"
+  "fp:block|board|compensation|equity|exist|firm|investor|keep|los|packag",
+  "fp:anthropic|ark|bas|databrick|eligibl|exposur|fund|gain|includ|invest",
+  "fp:act|application|capital|comment|day|federal|genius|issuer|open|period",
+  "fp:activity|alleg|are|ban|financial|gambl|illegal|official|operation|penalty"
 ]

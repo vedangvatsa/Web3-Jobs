@@ -608,6 +608,9 @@
   "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
   "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
   "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
+  "https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/",
+  "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/",
+  "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1607,6 +1610,12 @@
   "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
   "Meta Muse Charm AI device features retro Tamagotchi design",
   "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
+  "Google launches orbital AI data center test",
+  "Google's first Suncatcher orbital data center test launches October 1",
+  "Young organs may not reverse aging in transplant recipients.",
+  "Young organs may not be a fountain of youth for recipients",
+  "Lightspeed seeks $250 million for early-stage India AI fund",
+  "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -1732,5 +1741,8 @@
   "fp:custom|featur|introduc|later|livestream|lot|mor|plan|platform|power",
   "fp:deploy|execut|exist|glass|hardwar|languag|llm|locally|onboard|open",
   "fp:000|account|assist|automat|compromis|compromised12|cyberattack|dismantl|disrupt|down",
-  "fp:accessory|attach|bag|charm|current|design|devic|fashion|featur|follow"
+  "fp:accessory|attach|bag|charm|current|design|devic|fashion|featur|follow",
+  "fp:center|custom|data|dur|experimental|fifteen|googl|minut|mission|october1",
+  "fp:continu|express|extension|fountain|human|interest|leader|lif|longevity|may",
+  "fp:250m|align|cycl|early|firm|focus|fund|fundrais|global|india"
 ]
