@@ -1,5 +1,5 @@
 {
-  "lastIndex": 238,
+  "lastIndex": 240,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -78,7 +78,8 @@
     "sls108",
     "an25",
     "an28",
-    "mkt41"
+    "mkt41",
+    "cmp39"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -120,353 +121,10 @@
     "par",
     "cf",
     "sls64",
-    "pm50"
+    "pm50",
+    "cmp38"
   ],
   "history": [
-    {
-      "slug": "role48004",
-      "company": "LayerZero",
-      "title": "Assistant Controller",
-      "platform": "bluesky",
-      "postedAt": "2026-09-07T18:17:50.491Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mux4lutzna24"
-    },
-    {
-      "slug": "role48004",
-      "company": "LayerZero",
-      "title": "Assistant Controller",
-      "platform": "farcaster",
-      "postedAt": "2026-09-07T18:17:50.491Z",
-      "postId": "0x2ce39902a5c24a73699e3eb1842cd91c0b0e2579"
-    },
-    {
-      "slug": "role48004",
-      "company": "LayerZero",
-      "title": "Assistant Controller",
-      "platform": "linkedin",
-      "postedAt": "2026-09-07T18:17:50.491Z",
-      "postId": "6a9effde9891646af76a0634"
-    },
-    {
-      "slug": "role48004",
-      "company": "LayerZero",
-      "title": "Assistant Controller",
-      "platform": "facebook",
-      "postedAt": "2026-09-07T18:17:50.491Z",
-      "postId": "691827047618629_1082487794358455"
-    },
-    {
-      "slug": "joba31d1",
-      "company": "Arbitrum",
-      "title": "Senior Penetration Tester (AWS)",
-      "platform": "threads",
-      "postedAt": "2026-09-07T22:06:20.153Z",
-      "postId": "17962208798979648"
-    },
-    {
-      "slug": "joba31d1",
-      "company": "Arbitrum",
-      "title": "Senior Penetration Tester (AWS)",
-      "platform": "bluesky",
-      "postedAt": "2026-09-07T22:06:20.153Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3muxjemkkjz2j"
-    },
-    {
-      "slug": "joba31d1",
-      "company": "Arbitrum",
-      "title": "Senior Penetration Tester (AWS)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-07T22:06:20.153Z",
-      "postId": "0x25444f22f30201a9b5900fb22d5882c9da1201f2"
-    },
-    {
-      "slug": "joba31d1",
-      "company": "Arbitrum",
-      "title": "Senior Penetration Tester (AWS)",
-      "platform": "linkedin",
-      "postedAt": "2026-09-07T22:06:20.153Z",
-      "postId": "6a9f3571dddc9257172e996d"
-    },
-    {
-      "slug": "joba31d1",
-      "company": "Arbitrum",
-      "title": "Senior Penetration Tester (AWS)",
-      "platform": "facebook",
-      "postedAt": "2026-09-07T22:06:20.153Z",
-      "postId": "691827047618629_1082613557679212"
-    },
-    {
-      "slug": "joba31d1",
-      "company": "Arbitrum",
-      "title": "Senior Penetration Tester (AWS)",
-      "platform": "instagram",
-      "postedAt": "2026-09-07T22:06:20.153Z",
-      "postId": "17988194925103181"
-    },
-    {
-      "slug": "security29764",
-      "company": "CertiK",
-      "title": "Sr. Security Engineer (Penetration Testing)",
-      "platform": "threads",
-      "postedAt": "2026-09-08T00:30:41.568Z",
-      "postId": "18127150546789643"
-    },
-    {
-      "slug": "security29764",
-      "company": "CertiK",
-      "title": "Sr. Security Engineer (Penetration Testing)",
-      "platform": "bluesky",
-      "postedAt": "2026-09-08T00:30:41.568Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3muxrh3kmu32v"
-    },
-    {
-      "slug": "security29764",
-      "company": "CertiK",
-      "title": "Sr. Security Engineer (Penetration Testing)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-08T00:30:41.568Z",
-      "postId": "0x43013c7196a6d3d54bae6bfc08cf251ef9170bed"
-    },
-    {
-      "slug": "security29764",
-      "company": "CertiK",
-      "title": "Sr. Security Engineer (Penetration Testing)",
-      "platform": "linkedin",
-      "postedAt": "2026-09-08T00:30:41.568Z",
-      "postId": "6a9f5752555f6e1cb7741814"
-    },
-    {
-      "slug": "security29764",
-      "company": "CertiK",
-      "title": "Sr. Security Engineer (Penetration Testing)",
-      "platform": "facebook",
-      "postedAt": "2026-09-08T00:30:41.568Z",
-      "postId": "691827047618629_1082679287672639"
-    },
-    {
-      "slug": "job31002",
-      "company": "BitGo",
-      "title": "Senior Software Engineer - Accounting & Ledger Systems",
-      "platform": "threads",
-      "postedAt": "2026-09-08T06:02:15.290Z",
-      "postId": "17900194647568272"
-    },
-    {
-      "slug": "job31002",
-      "company": "BitGo",
-      "title": "Senior Software Engineer - Accounting & Ledger Systems",
-      "platform": "bluesky",
-      "postedAt": "2026-09-08T06:02:15.290Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3muydxmmef62e"
-    },
-    {
-      "slug": "job31002",
-      "company": "BitGo",
-      "title": "Senior Software Engineer - Accounting & Ledger Systems",
-      "platform": "farcaster",
-      "postedAt": "2026-09-08T06:02:15.290Z",
-      "postId": "0x645ab60e3fd65a1bf46c7bd79e3f3a6d8513adc7"
-    },
-    {
-      "slug": "job31002",
-      "company": "BitGo",
-      "title": "Senior Software Engineer - Accounting & Ledger Systems",
-      "platform": "linkedin",
-      "postedAt": "2026-09-08T06:02:15.290Z",
-      "postId": "6a9fa4fcf8ad4188251fb962"
-    },
-    {
-      "slug": "job31002",
-      "company": "BitGo",
-      "title": "Senior Software Engineer - Accounting & Ledger Systems",
-      "platform": "facebook",
-      "postedAt": "2026-09-08T06:02:15.290Z",
-      "postId": "691827047618629_1082858157654752"
-    },
-    {
-      "slug": "role52517",
-      "company": "Wintermute",
-      "title": "Graduate Algorithmic Trader 2027",
-      "platform": "x",
-      "postedAt": "2026-09-08T09:38:07.505Z",
-      "postId": "2097258170578088055"
-    },
-    {
-      "slug": "devops-andromeda-68403563-daff-449c-83cf-ea346c",
-      "company": "Andromeda",
-      "title": "Software Engineer - AI Infrastructure",
-      "platform": "x",
-      "postedAt": "2026-09-08T12:12:07.088Z",
-      "postId": "2097296924114141278"
-    },
-    {
-      "slug": "devops-andromeda-68403563-daff-449c-83cf-ea346c",
-      "company": "Andromeda",
-      "title": "Software Engineer - AI Infrastructure",
-      "platform": "threads",
-      "postedAt": "2026-09-08T12:12:07.088Z",
-      "postId": "18090827558155326"
-    },
-    {
-      "slug": "devops-andromeda-68403563-daff-449c-83cf-ea346c",
-      "company": "Andromeda",
-      "title": "Software Engineer - AI Infrastructure",
-      "platform": "bluesky",
-      "postedAt": "2026-09-08T12:12:07.088Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3muyymrqcsy2l"
-    },
-    {
-      "slug": "devops-andromeda-68403563-daff-449c-83cf-ea346c",
-      "company": "Andromeda",
-      "title": "Software Engineer - AI Infrastructure",
-      "platform": "farcaster",
-      "postedAt": "2026-09-08T12:12:07.088Z",
-      "postId": "0x9ca1e3466502caefd9c2a220f6a44b028de31b70"
-    },
-    {
-      "slug": "devops-andromeda-68403563-daff-449c-83cf-ea346c",
-      "company": "Andromeda",
-      "title": "Software Engineer - AI Infrastructure",
-      "platform": "linkedin",
-      "postedAt": "2026-09-08T12:12:07.088Z",
-      "postId": "6a9ffba5425ad71e4c0a28a6"
-    },
-    {
-      "slug": "devops-andromeda-68403563-daff-449c-83cf-ea346c",
-      "company": "Andromeda",
-      "title": "Software Engineer - AI Infrastructure",
-      "platform": "facebook",
-      "postedAt": "2026-09-08T12:12:07.088Z",
-      "postId": "691827047618629_1083074890966412"
-    },
-    {
-      "slug": "devops-andromeda-68403563-daff-449c-83cf-ea346c",
-      "company": "Andromeda",
-      "title": "Software Engineer - AI Infrastructure",
-      "platform": "instagram",
-      "postedAt": "2026-09-08T12:12:07.088Z",
-      "postId": "17871310131636609"
-    },
-    {
-      "slug": "role90da0",
-      "company": "Monad Foundation",
-      "title": "Head of Japan",
-      "platform": "x",
-      "postedAt": "2026-09-08T17:18:04.425Z",
-      "postId": "2097373920101888332"
-    },
-    {
-      "slug": "role90da0",
-      "company": "Monad Foundation",
-      "title": "Head of Japan",
-      "platform": "threads",
-      "postedAt": "2026-09-08T17:18:04.425Z",
-      "postId": "17951556342257875"
-    },
-    {
-      "slug": "role90da0",
-      "company": "Monad Foundation",
-      "title": "Head of Japan",
-      "platform": "bluesky",
-      "postedAt": "2026-09-08T17:18:04.425Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3muzjq2f5t22n"
-    },
-    {
-      "slug": "role90da0",
-      "company": "Monad Foundation",
-      "title": "Head of Japan",
-      "platform": "farcaster",
-      "postedAt": "2026-09-08T17:18:04.425Z",
-      "postId": "0x7aba6d921f6e04954d4eb4d27e728f5f403bff46"
-    },
-    {
-      "slug": "role90da0",
-      "company": "Monad Foundation",
-      "title": "Head of Japan",
-      "platform": "linkedin",
-      "postedAt": "2026-09-08T17:18:04.425Z",
-      "postId": "6aa04360bb9e097f5692764d"
-    },
-    {
-      "slug": "role90da0",
-      "company": "Monad Foundation",
-      "title": "Head of Japan",
-      "platform": "facebook",
-      "postedAt": "2026-09-08T17:18:04.425Z",
-      "postId": "691827047618629_1083285407612027"
-    },
-    {
-      "slug": "role90da0",
-      "company": "Monad Foundation",
-      "title": "Head of Japan",
-      "platform": "instagram",
-      "postedAt": "2026-09-08T17:18:04.425Z",
-      "postId": "18094312196649902"
-    },
-    {
-      "slug": "coindcx1789",
-      "company": "CoinDCX",
-      "title": "Security Architect",
-      "platform": "x",
-      "postedAt": "2026-09-08T17:18:57.107Z",
-      "postId": "2097374141015838775"
-    },
-    {
-      "slug": "coindcx1789",
-      "company": "CoinDCX",
-      "title": "Security Architect",
-      "platform": "threads",
-      "postedAt": "2026-09-08T17:18:57.107Z",
-      "postId": "18098911934627270"
-    },
-    {
-      "slug": "coindcx1789",
-      "company": "CoinDCX",
-      "title": "Security Architect",
-      "platform": "bluesky",
-      "postedAt": "2026-09-08T17:18:57.107Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3muzjrxe3xb2i"
-    },
-    {
-      "slug": "coindcx1789",
-      "company": "CoinDCX",
-      "title": "Security Architect",
-      "platform": "farcaster",
-      "postedAt": "2026-09-08T17:18:57.107Z",
-      "postId": "0x1fde1270a516aa4c8aa13c34d3cc285a50aa58b4"
-    },
-    {
-      "slug": "coindcx1789",
-      "company": "CoinDCX",
-      "title": "Security Architect",
-      "platform": "linkedin",
-      "postedAt": "2026-09-08T17:18:57.107Z",
-      "postId": "6aa043a0fb9ed585658973c9"
-    },
-    {
-      "slug": "coindcx1789",
-      "company": "CoinDCX",
-      "title": "Security Architect",
-      "platform": "facebook",
-      "postedAt": "2026-09-08T17:18:57.107Z",
-      "postId": "691827047618629_1083286204278614"
-    },
-    {
-      "slug": "coindcx1789",
-      "company": "CoinDCX",
-      "title": "Security Architect",
-      "platform": "instagram",
-      "postedAt": "2026-09-08T17:18:57.107Z",
-      "postId": "17916634149244642"
-    },
-    {
-      "slug": "managerd7ef3",
-      "company": "SmartX",
-      "title": "Social Media & Brand Manager",
-      "platform": "x",
-      "postedAt": "2026-09-08T21:55:56.739Z",
-      "postId": "2097443848842833986"
-    },
     {
       "slug": "managerd7ef3",
       "company": "SmartX",
@@ -9597,6 +9255,430 @@
       "platform": "instagram",
       "postedAt": "2026-09-24T19:32:45.229Z",
       "postId": "18061019936529459",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp39",
+      "company": "FalconX",
+      "title": "Head of Compliance - Malta",
+      "platform": "threads",
+      "postedAt": "2026-09-25T03:50:38.443Z",
+      "postId": "18013967672957845",
+      "verification": "verified",
+      "expectedText": "FalconX is hiring Head of Compliance - Malta: https://hashtagweb3.com/cmp39/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DdsiNhkgHE1",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "cmp39",
+      "company": "FalconX",
+      "title": "Head of Compliance - Malta",
+      "platform": "bluesky",
+      "postedAt": "2026-09-25T03:50:38.443Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwcujpyiok2f",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp39",
+      "company": "FalconX",
+      "title": "Head of Compliance - Malta",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T03:50:38.443Z",
+      "postId": "0x7b5ee89946ae29a6b46bf107d0746822712da96c",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp39",
+      "company": "FalconX",
+      "title": "Head of Compliance - Malta",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T03:50:38.443Z",
+      "postId": "0xb710420950ac1933ac1c9af22db9082a5107b5ba",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp39",
+      "company": "FalconX",
+      "title": "Head of Compliance - Malta",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T03:50:38.443Z",
+      "postId": "0x0491d9c44b26974920836040b96dd40b5491f3c4",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp39",
+      "company": "FalconX",
+      "title": "Head of Compliance - Malta",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T03:50:38.443Z",
+      "postId": "0xb55086a50361212531ed262a41769b3d98b4aa08",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp39",
+      "company": "FalconX",
+      "title": "Head of Compliance - Malta",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T03:50:38.443Z",
+      "postId": "0x4327f59befd46f8e956861b363f85aa728b9e48f",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp39",
+      "company": "FalconX",
+      "title": "Head of Compliance - Malta",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T03:50:38.443Z",
+      "postId": "0xaaeb0a63cdfa462d728c918af38dcdbe815c31fd",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp39",
+      "company": "FalconX",
+      "title": "Head of Compliance - Malta",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T03:50:38.443Z",
+      "postId": "0x955aab2b5545c083c39116c20325f0c93cde34b9",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp39",
+      "company": "FalconX",
+      "title": "Head of Compliance - Malta",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T03:50:38.443Z",
+      "postId": "0xd39b6a3379ac32ff75e0feed25967f7fc4c3ca81",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp39",
+      "company": "FalconX",
+      "title": "Head of Compliance - Malta",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T03:50:38.443Z",
+      "postId": "0xa23dd268f04537f78c4ae79ae5c6ff58e63adb36",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp39",
+      "company": "FalconX",
+      "title": "Head of Compliance - Malta",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T03:50:38.443Z",
+      "postId": "0x33b7d77fb74d2d844f5fed04a70fac88e0b4b59f",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp39",
+      "company": "FalconX",
+      "title": "Head of Compliance - Malta",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T03:50:38.443Z",
+      "postId": "0x7324f087260cffe1eb4caa56c7a4cdf49a38b7be",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp39",
+      "company": "FalconX",
+      "title": "Head of Compliance - Malta",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T03:50:38.443Z",
+      "postId": "0x2f2cee8f665277236c93af4954e40b011e5afada",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp39",
+      "company": "FalconX",
+      "title": "Head of Compliance - Malta",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T03:50:38.443Z",
+      "postId": "0x916c63401a0d22762e7d532ddc0a23d42d1bf170",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp39",
+      "company": "FalconX",
+      "title": "Head of Compliance - Malta",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T03:50:38.443Z",
+      "postId": "0xf6bf62419434ae9d59967b9472a1da14a621394f",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp39",
+      "company": "FalconX",
+      "title": "Head of Compliance - Malta",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T03:50:38.443Z",
+      "postId": "0x389432a20544329f2ac29fead771435d26d45f24",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp39",
+      "company": "FalconX",
+      "title": "Head of Compliance - Malta",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T03:50:38.443Z",
+      "postId": "0x5973ade9141da1b2a62d4b54f7b0a577e2cc66d4",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp39",
+      "company": "FalconX",
+      "title": "Head of Compliance - Malta",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T03:50:38.443Z",
+      "postId": "0xd403fa993aec7e1a1354a1a21f7b4fb9ce2def11",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp39",
+      "company": "FalconX",
+      "title": "Head of Compliance - Malta",
+      "platform": "linkedin",
+      "postedAt": "2026-09-25T03:50:38.443Z",
+      "postId": "6ab5ef9e8c95968bb02a95e7",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp39",
+      "company": "FalconX",
+      "title": "Head of Compliance - Malta",
+      "platform": "facebook",
+      "postedAt": "2026-09-25T03:50:38.443Z",
+      "postId": "691827047618629_1097287799545121",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp39",
+      "company": "FalconX",
+      "title": "Head of Compliance - Malta",
+      "platform": "instagram",
+      "postedAt": "2026-09-25T03:50:38.443Z",
+      "postId": "18107993285132648",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp38",
+      "company": "Bybit",
+      "title": "[L&C] Principal Legal Counsel, Tradfi",
+      "platform": "bluesky",
+      "postedAt": "2026-09-25T03:51:22.563Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwcul2ydza2o",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp38",
+      "company": "Bybit",
+      "title": "[L&C] Principal Legal Counsel, Tradfi",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T03:51:22.563Z",
+      "postId": "0xde9975faa7335c767775f76b29f444bc4c2d3656",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp38",
+      "company": "Bybit",
+      "title": "[L&C] Principal Legal Counsel, Tradfi",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T03:51:22.563Z",
+      "postId": "0x63785919052b5bea935c997835997c9e31616171",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp38",
+      "company": "Bybit",
+      "title": "[L&C] Principal Legal Counsel, Tradfi",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T03:51:22.563Z",
+      "postId": "0x3ed26180f66f1adf09b5cc3dbc3f12ec05971afd",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp38",
+      "company": "Bybit",
+      "title": "[L&C] Principal Legal Counsel, Tradfi",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T03:51:22.563Z",
+      "postId": "0x6c98a2edc3f2617e1816a2fe7b36282f0729891f",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp38",
+      "company": "Bybit",
+      "title": "[L&C] Principal Legal Counsel, Tradfi",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T03:51:22.563Z",
+      "postId": "0x20da824c82506eed836de0a9eff91305dd82343a",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp38",
+      "company": "Bybit",
+      "title": "[L&C] Principal Legal Counsel, Tradfi",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T03:51:22.563Z",
+      "postId": "0x4674c05afd60684759d0a596d983c7fb37a30ee5",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp38",
+      "company": "Bybit",
+      "title": "[L&C] Principal Legal Counsel, Tradfi",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T03:51:22.563Z",
+      "postId": "0x1d92642296aa7f34349ebcdfa5d6e0c7054049e4",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp38",
+      "company": "Bybit",
+      "title": "[L&C] Principal Legal Counsel, Tradfi",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T03:51:22.563Z",
+      "postId": "0xb3657c991b0331aff046a82a7ec94d480307cd7f",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp38",
+      "company": "Bybit",
+      "title": "[L&C] Principal Legal Counsel, Tradfi",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T03:51:22.563Z",
+      "postId": "0xb191891bbceab0892c79e2910e9a4c27638d6587",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp38",
+      "company": "Bybit",
+      "title": "[L&C] Principal Legal Counsel, Tradfi",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T03:51:22.563Z",
+      "postId": "0x0fcbd96a7acf11826ac5e00a1fc002211cc80b12",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp38",
+      "company": "Bybit",
+      "title": "[L&C] Principal Legal Counsel, Tradfi",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T03:51:22.563Z",
+      "postId": "0xa3625ed970e057e77b9508b1034221c2b302f639",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp38",
+      "company": "Bybit",
+      "title": "[L&C] Principal Legal Counsel, Tradfi",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T03:51:22.563Z",
+      "postId": "0xf089c9adfb40dc1704e5979e9bd78a8fc3f42a9a",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp38",
+      "company": "Bybit",
+      "title": "[L&C] Principal Legal Counsel, Tradfi",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T03:51:22.563Z",
+      "postId": "0x5b1d03e5c6d86e181211dc1cba6087bdf047990a",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp38",
+      "company": "Bybit",
+      "title": "[L&C] Principal Legal Counsel, Tradfi",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T03:51:22.563Z",
+      "postId": "0x20c3bfca49c6d0baf02750570150edeb4e03fe7e",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp38",
+      "company": "Bybit",
+      "title": "[L&C] Principal Legal Counsel, Tradfi",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T03:51:22.563Z",
+      "postId": "0xde3e9ed5c086cf166964f74288bc68589010d5c7",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp38",
+      "company": "Bybit",
+      "title": "[L&C] Principal Legal Counsel, Tradfi",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T03:51:22.563Z",
+      "postId": "0x8442042095a530ca4684f3b6592c85725353d307",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp38",
+      "company": "Bybit",
+      "title": "[L&C] Principal Legal Counsel, Tradfi",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T03:51:22.563Z",
+      "postId": "0x8154b94b0bd9553cf9e854702c042a17881a0298",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp38",
+      "company": "Bybit",
+      "title": "[L&C] Principal Legal Counsel, Tradfi",
+      "platform": "linkedin",
+      "postedAt": "2026-09-25T03:51:22.563Z",
+      "postId": "6ab5efca4be5473030a3632d",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp38",
+      "company": "Bybit",
+      "title": "[L&C] Principal Legal Counsel, Tradfi",
+      "platform": "facebook",
+      "postedAt": "2026-09-25T03:51:22.563Z",
+      "postId": "691827047618629_1097288289545072",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp38",
+      "company": "Bybit",
+      "title": "[L&C] Principal Legal Counsel, Tradfi",
+      "platform": "instagram",
+      "postedAt": "2026-09-25T03:51:22.563Z",
+      "postId": "18449861734120522",
       "verification": "verified"
     }
   ]
