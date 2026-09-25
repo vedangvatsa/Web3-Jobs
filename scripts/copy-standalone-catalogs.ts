@@ -5,6 +5,7 @@
  */
 import fs from 'node:fs';
 import path from 'node:path';
+import { assertStandalonePublicAssets } from './lib/standalone-public-assets';
 
 const ROOT = process.cwd();
 const STANDALONE = path.join(ROOT, '.next', 'standalone');
@@ -111,17 +112,7 @@ function main(): void {
   for (const [src, dest] of DIRS) copyDir(src, dest);
   copyPublicRootFiles();
 
-  const checks = [
-    'public/logo/HashtagWeb3.png',
-    'public/events/ethsofia.webp',
-    'public/images/demodayonepiece.png',
-  ];
-  for (const rel of checks) {
-    if (!fs.existsSync(path.join(STANDALONE, rel))) {
-      console.error(`[copy-standalone-catalogs] missing ${rel} in standalone — static UI assets will 404 on FAH`);
-      process.exit(1);
-    }
-  }
+  assertStandalonePublicAssets(ROOT, STANDALONE);
   console.log('[copy-standalone-catalogs] site catalogs copied into .next/standalone');
 }
 

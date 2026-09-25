@@ -105,8 +105,7 @@ jobs:
             -H 'Content-Type: application/json' \
             "https://firebaseapphosting.googleapis.com/v1beta/projects/web3-jobs-aggregator/locations/us-central1/backends/studio/builds?buildId=${BUILD_ID}" \
             -d '{"source":{"codebase":{"branch":"main"}}}')
-          echo "$RESP" | head -c 3000
-          echo
+          echo "$RESP"
           if ! echo "$RESP" | python3 -c 'import sys,json; d=json.load(sys.stdin); sys.exit(0 if d.get("name") and not d.get("error") else 1)'; then
             echo "Build was not created. The deploy service account needs roles/firebaseapphosting.admin on web3-jobs-aggregator."
             exit 1
@@ -118,7 +117,7 @@ jobs:
             STATE=$(echo "$B" | python3 -c 'import sys,json; d=json.load(sys.stdin); print(d.get("state") or d.get("error",{}).get("message","unknown"))')
             echo "build state: $STATE"
             if echo "$STATE" | grep -qiE 'READY|FAILED|error|PERMISSION|denied|not found'; then
-              echo "$B" | head -c 4000
+              echo "$B"
               break
             fi
             sleep 30
@@ -133,15 +132,14 @@ jobs:
             -H "Authorization: Bearer $TOKEN" \
             -H 'Content-Type: application/json' \
             "https://firebaseapphosting.googleapis.com/v1beta/projects/web3-jobs-aggregator/locations/us-central1/backends/studio/rollouts?rolloutId=${ROLLOUT_ID}" \
-            -d "{\"build\":\"projects/web3-jobs-aggregator/locations/us-central1/backends/studio/builds/${BUILD_ID}\"}" | head -c 3000
-          echo
+            -d "{\"build\":\"projects/web3-jobs-aggregator/locations/us-central1/backends/studio/builds/${BUILD_ID}\"}"
           for i in $(seq 1 40); do
             R=$(curl -s -H "Authorization: Bearer $TOKEN" \
               "https://firebaseapphosting.googleapis.com/v1beta/projects/web3-jobs-aggregator/locations/us-central1/backends/studio/rollouts/${ROLLOUT_ID}")
             RS=$(echo "$R" | python3 -c 'import sys,json; d=json.load(sys.stdin); print(d.get("state") or d.get("error",{}).get("message","unknown"))')
             echo "rollout state: $RS"
             if echo "$RS" | grep -qiE 'SUCCEEDED|FAILED|error'; then
-              echo "$R" | head -c 2000
+              echo "$R"
               break
             fi
             sleep 30

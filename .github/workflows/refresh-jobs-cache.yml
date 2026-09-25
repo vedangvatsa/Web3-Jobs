@@ -3,16 +3,16 @@ name: Publish Jobs, Events & Social
 # Three slots a day. GitHub's own cron on this public repo is delivered
 # hours late (the 03:30 UTC / 9:00 IST event routinely starts ~08:00–09:10 UTC),
 # so the on-time clock is an external workflow_dispatch (Mac launchd or
-# Cloud Scheduler). The cron below stays as a backup. A slot that already
-# completed today is skipped, and a later slot does not cancel an earlier one.
+# Cloud Scheduler). The cron below stays as a backup. Successful daily work,
+# rollouts, and social slots have separate completion stamps.
 #
 # morning (03:30 UTC): ingest, news drafts, one Firebase rollout, then
 # Resend alerts, social, and Telegram. Auto-deploy stays off.
 # A news failure does not skip that rollout. The jobs catalog still ships.
 # If that morning run never starts, the next slot the same UTC day runs
 # the morning work instead of skipping it.
-# afternoon (11:30 UTC) and evening (19:30 UTC): social + Telegram, after
-# the morning work for that date has already completed.
+# afternoon (11:30 UTC) and evening (19:30 UTC): social + Telegram, plus
+# any unfinished daily work or failed rollout from earlier that day.
 
 on:
   schedule:
@@ -66,11 +66,14 @@ jobs:
       social: ${{ steps.set.outputs.social }}
       slot: ${{ steps.set.outputs.slot }}
       skip: ${{ steps.set.outputs.skip }}
+      deploy: ${{ steps.set.outputs.deploy }}
+      date: ${{ steps.set.outputs.date }}
     steps:
       - uses: actions/checkout@v4
       - id: set
         run: |
           set -euo pipefail
+          node --test scripts/social/publish-slot-plan.test.mjs
           CRON="${{ github.event.schedule }}"
           INPUT="${{ github.event.inputs.slot }}"
           DIAG="${{ github.event.inputs.diagnose_telegram }}"
@@ -107,34 +110,9 @@ jobs:
               exit 1
               ;;
           esac
-          echo "social=true" >> "$GITHUB_OUTPUT"
-          echo "slot=$SLOT" >> "$GITHUB_OUTPUT"
           TODAY=$(date -u +%F)
           STATE="scripts/social/publish-slot-state.json"
-          DONE=""
-          MORNING_DONE=""
-          if [ -f "$STATE" ]; then
-            DONE=$(node -e "const fs=require('fs'); const s=JSON.parse(fs.readFileSync(process.argv[1],'utf8')); process.stdout.write(s[process.argv[2]]||'')" "$STATE" "$SLOT")
-            MORNING_DONE=$(node -e "const fs=require('fs'); const s=JSON.parse(fs.readFileSync(process.argv[1],'utf8')); process.stdout.write(s.morning||'')" "$STATE")
-          fi
-          # Morning work is not tied to the 03:30 cron string. GitHub often
-          # never delivers that event, and the later slots used to skip
-          # ingest, news, and email for the whole day.
-          if [ "$SLOT" = "morning" ] || [ "$MORNING_DONE" != "$TODAY" ]; then
-            echo "morning=true" >> "$GITHUB_OUTPUT"
-            echo "news=true" >> "$GITHUB_OUTPUT"
-            echo "Morning work is due (slot=$SLOT, morning stamp=${MORNING_DONE:-none})."
-          else
-            echo "morning=false" >> "$GITHUB_OUTPUT"
-            echo "news=false" >> "$GITHUB_OUTPUT"
-          fi
-          if [ "$DONE" = "$TODAY" ]; then
-            echo "skip=true" >> "$GITHUB_OUTPUT"
-            echo "Slot $SLOT already completed for $TODAY — skipping."
-          else
-            echo "skip=false" >> "$GITHUB_OUTPUT"
-            echo "Running slot $SLOT for $TODAY."
-          fi
+          node scripts/social/publish-slot-plan.mjs plan "$STATE" "$SLOT" "$TODAY" | tee -a "$GITHUB_OUTPUT"
 
   ingest:
     needs: [gate]
@@ -146,7 +124,7 @@ jobs:
 
   deploy:
     needs: [gate, ingest, publish-news]
-    if: ${{ always() && needs.gate.outputs.skip != 'true' && needs.gate.outputs.morning == 'true' && needs.ingest.result == 'success' && needs.publish-news.result != 'cancelled' }}
+    if: ${{ always() && needs.gate.result == 'success' && needs.gate.outputs.skip != 'true' && needs.gate.outputs.deploy == 'true' && (needs.ingest.result == 'success' || (needs.gate.outputs.morning == 'false' && needs.ingest.result == 'skipped')) && needs.publish-news.result != 'cancelled' }}
     permissions:
       contents: read
       id-token: write
@@ -576,37 +554,6 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-      - name: Stamp morning after a rollout so a later slot does not deploy again
-        if: ${{ needs.gate.outputs.morning == 'true' && needs.ingest.result == 'success' && needs.deploy.result == 'success' }}
-        run: |
-          set -euo pipefail
-          TODAY=$(date -u +%F)
-          STATE="scripts/social/publish-slot-state.json"
-          node -e "const fs=require('fs'); const p=process.argv[1]; const s=fs.existsSync(p)?JSON.parse(fs.readFileSync(p,'utf8')):{}; s.morning=process.argv[2]; fs.writeFileSync(p, JSON.stringify(s,null,2)+'\n');" "$STATE" "$TODAY"
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add "$STATE"
-          if git diff --staged --quiet; then
-            echo "Morning already stamped"
-            exit 0
-          fi
-          git commit -m "chore: record morning rollout for ${TODAY} [skip ci]"
-          git reset --hard HEAD
-          for i in 1 2 3; do
-            if ! git pull --rebase origin main; then
-              git rebase --abort || true
-              git reset --hard HEAD
-              echo "Morning stamp rebase attempt $i failed"
-              sleep 2
-              continue
-            fi
-            if git push origin main; then
-              exit 0
-            fi
-            echo "Morning stamp push attempt $i failed, retrying..."
-            sleep 2
-          done
-          exit 1
       - name: Report due-job outcomes (never fails the slot)
         if: always()
         env:
@@ -618,9 +565,15 @@ jobs:
           POSTS: ${{ needs.post-openings.result }}
           TELEGRAM: ${{ needs.refresh-and-post.result }}
           SNAPSHOT: ${{ needs.refresh-news-snapshot.result }}
+          DEPLOY_DUE: ${{ needs.gate.outputs.deploy }}
+          DEPLOY: ${{ needs.deploy.result }}
         run: |
           set -euo pipefail
           fail=0
+          if [ "$DEPLOY_DUE" = "true" ] && [ "$DEPLOY" != "success" ]; then
+            echo "::warning::deploy was $DEPLOY — rollout remains due for the next slot."
+            fail=1
+          fi
           if [ "$MORNING" = "true" ]; then
             for pair in "ingest:$INGEST" "publish-news:$NEWS" "job-alerts:$ALERTS" "news-snapshot:$SNAPSHOT"; do
               name="${pair%%:*}"
@@ -644,26 +597,29 @@ jobs:
           if [ "$fail" != "0" ]; then
             echo "::warning::One or more due jobs did not succeed; each job is independent and other work already completed. See per-job results above."
           fi
-          echo " Slot audit complete (report-only; completion stamp below always runs)."
-      - name: Record completed slot so a late GitHub cron does not run it again
+          echo "Slot audit complete; only successful work receives a completion stamp."
+      - name: Record successful work independently
         if: always()
+        env:
+          PUBLISH_PLAN: ${{ toJSON(needs.gate.outputs) }}
+          PUBLISH_RESULTS: '{"ingest":"${{ needs.ingest.result }}","news":"${{ needs.publish-news.result }}","deploy":"${{ needs.deploy.result }}","posts":"${{ needs.post-openings.result }}","telegram":"${{ needs.refresh-and-post.result }}"}'
         run: |
           set -euo pipefail
           SLOT="${{ needs.gate.outputs.slot }}"
-          MORNING="${{ needs.gate.outputs.morning }}"
-          TODAY=$(date -u +%F)
+          TODAY="${{ needs.gate.outputs.date }}"
           STATE="scripts/social/publish-slot-state.json"
-          node -e "const fs=require('fs'); const p=process.argv[1]; const s=fs.existsSync(p)?JSON.parse(fs.readFileSync(p,'utf8')):{}; s[process.argv[2]]=process.argv[3]; if (process.argv[4]==='true') s.morning=process.argv[3]; fs.writeFileSync(p, JSON.stringify(s,null,2)+'\n');" "$STATE" "$SLOT" "$TODAY" "$MORNING"
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add "$STATE"
-          if git diff --staged --quiet; then
-            echo "Slot stamp already recorded"
-            exit 0
-          fi
-          git commit -m "chore: record publish slot ${SLOT} for ${TODAY} [skip ci]"
           for i in 1 2 3; do
-            git pull --rebase origin main || true
+            git fetch origin main
+            git checkout -B main origin/main
+            node scripts/social/publish-slot-plan.mjs record "$STATE"
+            git add "$STATE"
+            if git diff --staged --quiet; then
+              echo "No new successful work to stamp."
+              exit 0
+            fi
+            git commit -m "chore: record successful publish work ${SLOT} for ${TODAY} [skip ci]"
             git push origin main && exit 0
             echo "Stamp push attempt $i failed, retrying..."
             sleep 2
