@@ -1,12 +1,68 @@
 {
-  "generatedAt": "2026-09-25T08:58:53.214Z",
+  "generatedAt": "2026-09-25T11:31:31.642Z",
   "items": [
     {
-      "title": "KelpDAO sues LayerZero for the largest exploit 2026 has seen so far",
-      "link": "https://www.coindesk.com/business/2026/09/25/kelpdao-sues-layerzero-for-the-largest-exploit-2026-has-seen-so-far",
-      "pubDate": "Fri, 25 Sep 2026 08:58:03 +0000",
-      "creator": "Olivier Acuna",
-      "contentSnippet": "The cross-chain lending protocol accused LayerZero and its co-founder Brian Pellegrino of failing to disclose weaknesses in their protocol, which led ...",
+      "title": "IBIT options price trading more calmly after Bitcoin rebound",
+      "link": "https://cointelegraph.com/markets/ibit-options-trading-bitcoins-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 25 Sep 2026 11:11:33 +0000",
+      "creator": "Yohan Yun",
+      "contentSnippet": "IBIT’s expected volatility sits near the bottom of its 12-month range, according to Saxo Bank’s analysis of options data from Sept. 23.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "KelpDAO Developer Sues LayerZero Over $292M Bridge Exploit",
+      "link": "https://decrypt.co/379288/kelpdao-developer-sues-layerzero-over-292m-bridge-exploit",
+      "pubDate": "Fri, 25 Sep 2026 11:09:52 +0000",
+      "creator": "Agent",
+      "contentSnippet": "Evercrest says LayerZero approved the single-verifier configuration in writing multiple times, then warned a different developer about it.",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Ethena expands USDe backing strategy into bStocks and equity perpetuals on Binance",
+      "link": "https://www.theblock.co/news/deals/2026-09-25-ethena-expands-usde-backing-strategy-into-bstocks-and-equity-perpetuals-on-binance-416367",
+      "pubDate": "Fri, 25 Sep 2026 11:00:00 +0000",
+      "creator": "James Hunt",
+      "contentSnippet": "Ethena is adding Binance bStocks and equity perpetuals to the basis trade used for USDe's backing strategy.",
+      "source": "The Block"
+    },
+    {
+      "title": "Altcoins rally across the board as bitcoin consolidates near $84,000",
+      "link": "https://www.coindesk.com/markets/2026/09/25/altcoins-rally-across-the-board-as-bitcoin-consolidates-near-usd84-000",
+      "pubDate": "Fri, 25 Sep 2026 09:59:45 +0000",
+      "creator": "Oliver Knight",
+      "contentSnippet": "Quant jumped 39% over 24 hours and 93 of 100 CoinDesk 100 constituents rose, with the altcoin season index at its highest in more than three months.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Researchers Publish 'Zcash-Style' Design for Private Bitcoin Transfers",
+      "link": "https://decrypt.co/379280/researchers-publish-zcash-style-design-for-private-bitcoin-transfers",
+      "pubDate": "Fri, 25 Sep 2026 09:50:01 +0000",
+      "creator": "Agent",
+      "contentSnippet": "The Shielded Bitcoin spec hides senders, receivers and amounts, but leaves how BTC enters and exits the system to a later paper.",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Magic Eden scare puts 3,832 NFTs in whitehat protective custody",
+      "link": "https://cointelegraph.com/news/magic-eden-nft-whitehat-vulnerability?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 25 Sep 2026 09:48:53 +0000",
+      "creator": "Ezra Reguerra",
+      "contentSnippet": "Yuga Labs’ 0xQuit said the NFTs are safe and will be returned once the risk passes, while holders were urged to revoke NFT permissions.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Stablecoin Cross-Border Flows Surge 78% to $220,300,000,000 Amid Crypto Bear Market",
+      "link": "https://dailyhodl.com/2026/09/25/stablecoin-cross-border-flows-surge-78-to-220300000000-amid-crypto-bear-market/",
+      "pubDate": "Fri, 25 Sep 2026 09:15:34 +0000",
+      "creator": "Agent",
+      "contentSnippet": "Cross-border stablecoin transfers rose 77.5% to $220.3 billion in the year ending June 2026, defying a 50% crypto market cap drop, according to Chaina...",
+      "source": "Daily Hodl"
+    },
+    {
+      "title": "Bitcoin ETFs have erased a $5.8 billion hole ",
+      "link": "https://www.coindesk.com/markets/2026/09/25/bitcoin-etfs-have-erased-a-usd5-8-billion-hole",
+      "pubDate": "Fri, 25 Sep 2026 09:13:01 +0000",
+      "creator": "Omkar Godbole",
+      "contentSnippet": "At one point in July, ETFs were down $5.8 billion in net outflows for the year. Now, that’s turned into $800 million in net inflows.",
       "source": "Coindesk"
     },
     {
@@ -18,7 +74,7 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "Samourai Wallet co-founder faces new transfer after 30-day ordeal",
+      "title": "Samourai Wallet co-founder faces transfer after 30-day jail ordeal",
       "link": "https://cointelegraph.com/news/samourai-wallet-co-founder-30-day-prison-transfer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Fri, 25 Sep 2026 07:28:18 +0000",
       "creator": "Ezra Reguerra",
@@ -34,20 +90,12 @@
       "source": "Daily Hodl"
     },
     {
-      "title": "Live updates: Bitcoin steadies near $84,000 as the bond selloff pauses",
+      "title": "Live updates: Bitcoin steadies near $85,000 as the bond selloff pauses",
       "link": "https://www.coindesk.com/markets/2026/09/25/live-updates-bitcoin-steadies-near-usd84-000-as-the-bond-selloff-pauses",
       "pubDate": "Fri, 25 Sep 2026 07:09:11 +0000",
       "creator": "Shaurya Malwa",
       "contentSnippet": "Treasury yields eased from multi-decade highs and oil slipped on reports of a phased U.S.-Iran deal, with roughly $14 billion in bitcoin options set t...",
       "source": "Coindesk"
-    },
-    {
-      "title": "Researchers propose Zcash-style private Bitcoin transfers without a soft fork ",
-      "link": "https://cointelegraph.com/news/shielded-bitcoin-zcash-style-privacy-no-soft-fork?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Fri, 25 Sep 2026 04:41:06 +0000",
-      "creator": "Ezra Reguerra",
-      "contentSnippet": "Shielded Bitcoin would use zero-knowledge proofs and encrypted notes to hide transaction details without changing Bitcoin consensus, but researchers h...",
-      "source": "Cointelegraph"
     },
     {
       "title": "Bitget's $352 million hack happened via spoofed transfers, not private keys, CEO Gracy Chen says",
@@ -402,14 +450,6 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "Traders price in 4 Fed rate hikes by June 2027 as bitcoin slides below $83,000",
-      "link": "https://www.coindesk.com/markets/2026/09/24/traders-are-pricing-in-4-fed-rate-hikes-as-bitcoin-slides-below-usd83-000",
-      "pubDate": "Thu, 24 Sep 2026 10:11:51 +0000",
-      "creator": "James Van Straten",
-      "contentSnippet": "The four-hike path is the most likely outcome, while rising bond yields and a stronger dollar weigh on bitcoin and gold.",
-      "source": "Coindesk"
-    },
-    {
       "title": "Bitcoin ETFs add $347M as BTC falls below $84K after topping $87K",
       "link": "https://cointelegraph.com/markets/bitcoin-etf-347-million-inflow-btc-below-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Thu, 24 Sep 2026 09:32:44 +0000",
@@ -431,30 +471,6 @@
       "pubDate": "Thu, 24 Sep 2026 04:52:40 +0000",
       "creator": "Felix Ng",
       "contentSnippet": "A weeklong optimization challenge cut the estimated GPU cost of preparing an experimental quantum-resistant Bitcoin transaction to under $67, potentia...",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "US weighs overseas push for dollar-backed stablecoins: Bloomberg",
-      "link": "https://cointelegraph.com/news/us-overseas-dollar-stablecoins-trump-administration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Thu, 24 Sep 2026 04:44:12 +0000",
-      "creator": "Ezra Reguerra",
-      "contentSnippet": "The reported initiative could involve private-sector companies and several US agencies as Washington looks to expand the international use of dollar-b...",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Kalshi says CFTC hasn’t contacted it over ‘unusual’ $5B trading activity",
-      "link": "https://cointelegraph.com/news/kalshi-says-cftc-hasnt-contacted-it-over-unusual-5b-trading-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Thu, 24 Sep 2026 00:53:09 +0000",
-      "creator": "Felix Ng",
-      "contentSnippet": "Kalshi said nearly $5 billion in similarly sized Ether perpetual trades reflected its liquidity incentive programs and rejected allegations that the a...",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Ex-SEC acting chair: Agency dropped crypto cases to avoid issues with credibility",
-      "link": "https://cointelegraph.com/news/sec-mark-uyeda-agency-dropped-crypto-cases?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Wed, 23 Sep 2026 21:47:52 +0000",
-      "creator": "Turner Wright",
-      "contentSnippet": "SEC Commissioner Mark Uyeda said that the agency dropped many cases against crypto companies in early 2025 to avoid potential credibility problems in ...",
       "source": "Cointelegraph"
     },
     {
@@ -544,14 +560,6 @@
       "creator": "Agent",
       "contentSnippet": "A seven-agency advisory ties the WaterPlum hacking crew and Pyongyang's remote IT worker scheme to the same bureau.",
       "source": "Decrypt"
-    },
-    {
-      "title": "Galaxy adds $100 million in Sky’s sUSDS to treasury, buys SKY token as firms deepen lending ties",
-      "link": "https://www.theblock.co/news/business/2026-09-23-galaxy-adds-100-million-in-skys-susds-to-treasury-buys-sky-token-as-firms-deepen-lending-ties-416137",
-      "pubDate": "Wed, 23 Sep 2026 12:00:02 +0000",
-      "creator": "James Hunt",
-      "contentSnippet": "Galaxy added $100 million in sUSDS to its treasury and approved the Sky savings token as institutional loan collateral.",
-      "source": "The Block"
     },
     {
       "title": "CFTC Staff Advisory Says Prediction Market 'Mention' Contracts Invite Manipulation",
