@@ -1,5 +1,5 @@
 {
-  "lastIndex": 242,
+  "lastIndex": 246,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -81,7 +81,9 @@
     "mkt41",
     "cmp39",
     "inv",
-    "cmp42"
+    "cmp42",
+    "eng212",
+    "fs9"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -127,238 +129,6 @@
     "cmp38"
   ],
   "history": [
-    {
-      "slug": "operations67003",
-      "company": "OKX",
-      "title": "P2P Partner Operations Director",
-      "platform": "threads",
-      "postedAt": "2026-09-09T21:50:01.645Z",
-      "postId": "18078891557386992",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DdFRBNOGWt4",
-      "account": "hashtagweb3",
-      "expectedText": "OKX is hiring P2P Partner Operations Director: https://hashtagweb3.com/operations67003/th",
-      "verification": "verified"
-    },
-    {
-      "slug": "operations67003",
-      "company": "OKX",
-      "title": "P2P Partner Operations Director",
-      "platform": "bluesky",
-      "postedAt": "2026-09-09T21:50:01.645Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mv4jfgrd5p22"
-    },
-    {
-      "slug": "operations67003",
-      "company": "OKX",
-      "title": "P2P Partner Operations Director",
-      "platform": "farcaster",
-      "postedAt": "2026-09-09T21:50:01.645Z",
-      "postId": "0x83f93d66190aca847440c697066630b42553b33d"
-    },
-    {
-      "slug": "operations67003",
-      "company": "OKX",
-      "title": "P2P Partner Operations Director",
-      "platform": "linkedin",
-      "postedAt": "2026-09-09T21:50:01.645Z",
-      "postId": "6aa1d4b58674a565bc4919bd"
-    },
-    {
-      "slug": "operations67003",
-      "company": "OKX",
-      "title": "P2P Partner Operations Director",
-      "platform": "facebook",
-      "postedAt": "2026-09-09T21:50:01.645Z",
-      "postId": "691827047618629_1084306060843295"
-    },
-    {
-      "slug": "operations67003",
-      "company": "OKX",
-      "title": "P2P Partner Operations Director",
-      "platform": "instagram",
-      "postedAt": "2026-09-09T21:50:01.645Z",
-      "postId": "17898729495666800"
-    },
-    {
-      "slug": "operations90004",
-      "company": "Alpaca",
-      "title": "Trading Operations Associate - West Coast",
-      "platform": "x",
-      "postedAt": "2026-09-09T21:51:48.232Z",
-      "postId": "2097805194276860273"
-    },
-    {
-      "slug": "operations90004",
-      "company": "Alpaca",
-      "title": "Trading Operations Associate - West Coast",
-      "platform": "threads",
-      "postedAt": "2026-09-09T21:51:48.232Z",
-      "postId": "18624260641023374",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DdFROLEmdwF",
-      "account": "hashtagweb3",
-      "expectedText": "Alpaca is hiring Trading Operations Associate - West Coast: https://hashtagweb3.com/operations90004/th",
-      "verification": "verified"
-    },
-    {
-      "slug": "operations90004",
-      "company": "Alpaca",
-      "title": "Trading Operations Associate - West Coast",
-      "platform": "bluesky",
-      "postedAt": "2026-09-09T21:51:48.232Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mv4jiqucwj22"
-    },
-    {
-      "slug": "operations90004",
-      "company": "Alpaca",
-      "title": "Trading Operations Associate - West Coast",
-      "platform": "farcaster",
-      "postedAt": "2026-09-09T21:51:48.232Z",
-      "postId": "0xa6025978b873bcfd2b6d0ecd2cdb61263e8ef916"
-    },
-    {
-      "slug": "operations90004",
-      "company": "Alpaca",
-      "title": "Trading Operations Associate - West Coast",
-      "platform": "linkedin",
-      "postedAt": "2026-09-09T21:51:48.232Z",
-      "postId": "6aa1d517e50960ec59610aa9"
-    },
-    {
-      "slug": "operations90004",
-      "company": "Alpaca",
-      "title": "Trading Operations Associate - West Coast",
-      "platform": "facebook",
-      "postedAt": "2026-09-09T21:51:48.232Z",
-      "postId": "691827047618629_1084306900843211"
-    },
-    {
-      "slug": "operations90004",
-      "company": "Alpaca",
-      "title": "Trading Operations Associate - West Coast",
-      "platform": "instagram",
-      "postedAt": "2026-09-09T21:51:48.232Z",
-      "postId": "18166801222464787"
-    },
-    {
-      "slug": "recruiting57f4e",
-      "company": "Bitdeer",
-      "title": "HR & Admin Executive",
-      "platform": "x",
-      "postedAt": "2026-09-10T00:19:52.443Z",
-      "postId": "2097842457572769917"
-    },
-    {
-      "slug": "recruiting57f4e",
-      "company": "Bitdeer",
-      "title": "HR & Admin Executive",
-      "platform": "threads",
-      "postedAt": "2026-09-10T00:19:52.443Z",
-      "postId": "18131421565732692",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DdFiKq9gMbj",
-      "account": "hashtagweb3",
-      "expectedText": "Bitdeer is hiring HR & Admin Executive: https://hashtagweb3.com/recruiting57f4e/th",
-      "verification": "verified"
-    },
-    {
-      "slug": "recruiting57f4e",
-      "company": "Bitdeer",
-      "title": "HR & Admin Executive",
-      "platform": "bluesky",
-      "postedAt": "2026-09-10T00:19:52.443Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mv4rrfdosk22"
-    },
-    {
-      "slug": "recruiting57f4e",
-      "company": "Bitdeer",
-      "title": "HR & Admin Executive",
-      "platform": "farcaster",
-      "postedAt": "2026-09-10T00:19:52.443Z",
-      "postId": "0x826bcba8f329f2339dbc74a2fb20ce4282dfe4e1"
-    },
-    {
-      "slug": "recruiting57f4e",
-      "company": "Bitdeer",
-      "title": "HR & Admin Executive",
-      "platform": "linkedin",
-      "postedAt": "2026-09-10T00:19:52.443Z",
-      "postId": "6aa1f7c3de4dd59d09d141a6"
-    },
-    {
-      "slug": "recruiting57f4e",
-      "company": "Bitdeer",
-      "title": "HR & Admin Executive",
-      "platform": "facebook",
-      "postedAt": "2026-09-10T00:19:52.443Z",
-      "postId": "691827047618629_1084378274169407"
-    },
-    {
-      "slug": "recruiting57f4e",
-      "company": "Bitdeer",
-      "title": "HR & Admin Executive",
-      "platform": "instagram",
-      "postedAt": "2026-09-10T00:19:52.443Z",
-      "postId": "18123963521510979"
-    },
-    {
-      "slug": "job422",
-      "company": "Yellow Card",
-      "title": "Treasury & Liquidity Specialist",
-      "platform": "x",
-      "postedAt": "2026-09-10T06:05:36.805Z",
-      "postId": "2097929465758150868"
-    },
-    {
-      "slug": "job422",
-      "company": "Yellow Card",
-      "title": "Treasury & Liquidity Specialist",
-      "platform": "threads",
-      "postedAt": "2026-09-10T06:05:36.805Z",
-      "postId": "18164886412417127",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DdGJu70lTLZ",
-      "account": "hashtagweb3",
-      "expectedText": "Yellow Card is hiring Treasury & Liquidity Specialist: https://hashtagweb3.com/job422/th",
-      "verification": "verified"
-    },
-    {
-      "slug": "job422",
-      "company": "Yellow Card",
-      "title": "Treasury & Liquidity Specialist",
-      "platform": "bluesky",
-      "postedAt": "2026-09-10T06:05:36.805Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mv5f4c3dqm2j"
-    },
-    {
-      "slug": "job422",
-      "company": "Yellow Card",
-      "title": "Treasury & Liquidity Specialist",
-      "platform": "farcaster",
-      "postedAt": "2026-09-10T06:05:36.805Z",
-      "postId": "0x24b6ecfe022876fd7ffd0e0c400faa41a3dc4ffd"
-    },
-    {
-      "slug": "job422",
-      "company": "Yellow Card",
-      "title": "Treasury & Liquidity Specialist",
-      "platform": "linkedin",
-      "postedAt": "2026-09-10T06:05:36.805Z",
-      "postId": "6aa248e190f5f899b4fd5c40"
-    },
-    {
-      "slug": "job422",
-      "company": "Yellow Card",
-      "title": "Treasury & Liquidity Specialist",
-      "platform": "facebook",
-      "postedAt": "2026-09-10T06:05:36.805Z",
-      "postId": "691827047618629_1084579764149258"
-    },
-    {
-      "slug": "job422",
-      "company": "Yellow Card",
-      "title": "Treasury & Liquidity Specialist",
-      "platform": "instagram",
-      "postedAt": "2026-09-10T06:05:36.805Z",
-      "postId": "18106036363933801"
-    },
     {
       "slug": "compliance11ae8",
       "company": "Paimon Finance",
@@ -412,126 +182,6 @@
       "postId": "691827047618629_1084580564149178"
     },
     {
-      "slug": "compliance332",
-      "company": "Fasset",
-      "title": "Compliance Officer (Manager)",
-      "platform": "x",
-      "postedAt": "2026-09-10T12:19:22.604Z",
-      "postId": "2098023526242414973"
-    },
-    {
-      "slug": "compliance332",
-      "company": "Fasset",
-      "title": "Compliance Officer (Manager)",
-      "platform": "threads",
-      "postedAt": "2026-09-10T12:19:22.604Z",
-      "postId": "17933615088395408",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DdG0geZlf4c",
-      "account": "hashtagweb3",
-      "expectedText": "Fasset is hiring Compliance Officer (Manager): https://hashtagweb3.com/compliance332/th",
-      "verification": "verified"
-    },
-    {
-      "slug": "compliance332",
-      "company": "Fasset",
-      "title": "Compliance Officer (Manager)",
-      "platform": "bluesky",
-      "postedAt": "2026-09-10T12:19:22.604Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mv5zxvugx62e"
-    },
-    {
-      "slug": "compliance332",
-      "company": "Fasset",
-      "title": "Compliance Officer (Manager)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-10T12:19:22.604Z",
-      "postId": "0x1861f4d4c7d7632fdf9c1b2ea58ba7e83fe72002"
-    },
-    {
-      "slug": "compliance332",
-      "company": "Fasset",
-      "title": "Compliance Officer (Manager)",
-      "platform": "linkedin",
-      "postedAt": "2026-09-10T12:19:22.604Z",
-      "postId": "6aa2a062500615acd35152a2"
-    },
-    {
-      "slug": "compliance332",
-      "company": "Fasset",
-      "title": "Compliance Officer (Manager)",
-      "platform": "facebook",
-      "postedAt": "2026-09-10T12:19:22.604Z",
-      "postId": "691827047618629_1084800280793873"
-    },
-    {
-      "slug": "compliance332",
-      "company": "Fasset",
-      "title": "Compliance Officer (Manager)",
-      "platform": "instagram",
-      "postedAt": "2026-09-10T12:19:22.604Z",
-      "postId": "18131019472644735"
-    },
-    {
-      "slug": "security01234",
-      "company": "CoinDesk",
-      "title": "Head of Blockchain Security",
-      "platform": "x",
-      "postedAt": "2026-09-10T12:20:43.789Z",
-      "postId": "2098023866677223628"
-    },
-    {
-      "slug": "security01234",
-      "company": "CoinDesk",
-      "title": "Head of Blockchain Security",
-      "platform": "threads",
-      "postedAt": "2026-09-10T12:20:43.789Z",
-      "postId": "18080289905336476",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DdG0qWhFSKk",
-      "account": "hashtagweb3",
-      "expectedText": "CoinDesk is hiring Head of Blockchain Security: https://hashtagweb3.com/security01234/th",
-      "verification": "verified"
-    },
-    {
-      "slug": "security01234",
-      "company": "CoinDesk",
-      "title": "Head of Blockchain Security",
-      "platform": "bluesky",
-      "postedAt": "2026-09-10T12:20:43.789Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mv622crphc2e"
-    },
-    {
-      "slug": "security01234",
-      "company": "CoinDesk",
-      "title": "Head of Blockchain Security",
-      "platform": "farcaster",
-      "postedAt": "2026-09-10T12:20:43.789Z",
-      "postId": "0x79d980ef1f06c3a5f0a8f6e338c9977d568ab92a"
-    },
-    {
-      "slug": "security01234",
-      "company": "CoinDesk",
-      "title": "Head of Blockchain Security",
-      "platform": "linkedin",
-      "postedAt": "2026-09-10T12:20:43.789Z",
-      "postId": "6aa2a0b3b94f4623bdbd3b81"
-    },
-    {
-      "slug": "security01234",
-      "company": "CoinDesk",
-      "title": "Head of Blockchain Security",
-      "platform": "facebook",
-      "postedAt": "2026-09-10T12:20:43.789Z",
-      "postId": "691827047618629_1084801114127123"
-    },
-    {
-      "slug": "security01234",
-      "company": "CoinDesk",
-      "title": "Head of Blockchain Security",
-      "platform": "instagram",
-      "postedAt": "2026-09-10T12:20:43.789Z",
-      "postId": "18097044965452800"
-    },
-    {
       "slug": "devops29",
       "company": "Bitdeer",
       "title": "Data Center Operations Engineer",
@@ -582,66 +232,6 @@
       "platform": "facebook",
       "postedAt": "2026-09-10T17:03:20.759Z",
       "postId": "691827047618629_1085004390773462"
-    },
-    {
-      "slug": "managera2cd8",
-      "company": "Crypto.com",
-      "title": "Senior Manager, Identity Governance",
-      "platform": "x",
-      "postedAt": "2026-09-10T17:05:12.948Z",
-      "postId": "2098095459935965588"
-    },
-    {
-      "slug": "managera2cd8",
-      "company": "Crypto.com",
-      "title": "Senior Manager, Identity Governance",
-      "platform": "threads",
-      "postedAt": "2026-09-10T17:05:12.948Z",
-      "postId": "18169046875459863",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DdHVN-hFDpv",
-      "account": "hashtagweb3",
-      "expectedText": "Crypto.com is hiring Senior Manager, Identity Governance: https://hashtagweb3.com/managera2cd8/th",
-      "verification": "verified"
-    },
-    {
-      "slug": "managera2cd8",
-      "company": "Crypto.com",
-      "title": "Senior Manager, Identity Governance",
-      "platform": "bluesky",
-      "postedAt": "2026-09-10T17:05:12.948Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mv6jwyspmu2v"
-    },
-    {
-      "slug": "managera2cd8",
-      "company": "Crypto.com",
-      "title": "Senior Manager, Identity Governance",
-      "platform": "farcaster",
-      "postedAt": "2026-09-10T17:05:12.948Z",
-      "postId": "0x6dfab4a12f6fa745369fd6b98818a5328679bcb0"
-    },
-    {
-      "slug": "managera2cd8",
-      "company": "Crypto.com",
-      "title": "Senior Manager, Identity Governance",
-      "platform": "linkedin",
-      "postedAt": "2026-09-10T17:05:12.948Z",
-      "postId": "6aa2e36050cd366acc1e0838"
-    },
-    {
-      "slug": "managera2cd8",
-      "company": "Crypto.com",
-      "title": "Senior Manager, Identity Governance",
-      "platform": "facebook",
-      "postedAt": "2026-09-10T17:05:12.948Z",
-      "postId": "691827047618629_1085005740773327"
-    },
-    {
-      "slug": "managera2cd8",
-      "company": "Crypto.com",
-      "title": "Senior Manager, Identity Governance",
-      "platform": "instagram",
-      "postedAt": "2026-09-10T17:05:12.948Z",
-      "postId": "18122942827904633"
     },
     {
       "slug": "compliance99841",
@@ -9762,6 +9352,494 @@
       "platform": "instagram",
       "postedAt": "2026-09-25T09:12:25.518Z",
       "postId": "17996382452826632",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng212",
+      "company": "Block",
+      "title": "Staff Android Software Engineer, Cash App Consumer Platform",
+      "platform": "x",
+      "postedAt": "2026-09-25T11:31:43.887Z",
+      "postId": "6ab65ba0a14029bcc72e6e9d",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Block is hiring Staff Android Software Engineer, Cash App Consumer Platform\n\nhttps://hashtagweb3.com/eng212/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2103447356024782967"
+    },
+    {
+      "slug": "eng212",
+      "company": "Block",
+      "title": "Staff Android Software Engineer, Cash App Consumer Platform",
+      "platform": "threads",
+      "postedAt": "2026-09-25T11:31:43.887Z",
+      "postId": "18093366971661902",
+      "verification": "verified",
+      "expectedText": "Block is hiring Staff Android Software Engineer, Cash App Consumer Platform: https://hashtagweb3.com/eng212/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DdtW-0REQPi",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "eng212",
+      "company": "Block",
+      "title": "Staff Android Software Engineer, Cash App Consumer Platform",
+      "platform": "bluesky",
+      "postedAt": "2026-09-25T11:31:43.887Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwdoce66tu24",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng212",
+      "company": "Block",
+      "title": "Staff Android Software Engineer, Cash App Consumer Platform",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T11:31:43.887Z",
+      "postId": "0x64406f9f4c2090ed2c55d97d43da7fa69417bf59",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng212",
+      "company": "Block",
+      "title": "Staff Android Software Engineer, Cash App Consumer Platform",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T11:31:43.887Z",
+      "postId": "0x19e1856ad7f38bee69e6125d6306e700e5c4cbd7",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng212",
+      "company": "Block",
+      "title": "Staff Android Software Engineer, Cash App Consumer Platform",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T11:31:43.887Z",
+      "postId": "0x1b757ce0da852d1038c41e1958d3e27e3b268457",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng212",
+      "company": "Block",
+      "title": "Staff Android Software Engineer, Cash App Consumer Platform",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T11:31:43.887Z",
+      "postId": "0x096febdc1814ffdf8b3f5f0d35516cdd42c4f13a",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng212",
+      "company": "Block",
+      "title": "Staff Android Software Engineer, Cash App Consumer Platform",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T11:31:43.887Z",
+      "postId": "0xccd340bfbd220ec0abd63d2e2807fdfadc6d4654",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng212",
+      "company": "Block",
+      "title": "Staff Android Software Engineer, Cash App Consumer Platform",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T11:31:43.887Z",
+      "postId": "0x1d95a8005f30902cd35fc2e02c0865ab2cc0a7f0",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng212",
+      "company": "Block",
+      "title": "Staff Android Software Engineer, Cash App Consumer Platform",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T11:31:43.887Z",
+      "postId": "0x5147459b8a277e655d3d05e91cef4f380379a8ee",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng212",
+      "company": "Block",
+      "title": "Staff Android Software Engineer, Cash App Consumer Platform",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T11:31:43.887Z",
+      "postId": "0x503d41530d665ff807445a301919d8cea5ca40c3",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng212",
+      "company": "Block",
+      "title": "Staff Android Software Engineer, Cash App Consumer Platform",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T11:31:43.887Z",
+      "postId": "0x599091d72de4ada010836a16699156b1060713f6",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng212",
+      "company": "Block",
+      "title": "Staff Android Software Engineer, Cash App Consumer Platform",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T11:31:43.887Z",
+      "postId": "0x5ca2acacd9a883bb5149010fbd885df1ebbfccd4",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng212",
+      "company": "Block",
+      "title": "Staff Android Software Engineer, Cash App Consumer Platform",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T11:31:43.887Z",
+      "postId": "0x280b0e1bae947513c7ad3b5f8f6c8bd2d5054e4a",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng212",
+      "company": "Block",
+      "title": "Staff Android Software Engineer, Cash App Consumer Platform",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T11:31:43.887Z",
+      "postId": "0x1df6ad567fc7608c3be1a1508855918840449827",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng212",
+      "company": "Block",
+      "title": "Staff Android Software Engineer, Cash App Consumer Platform",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T11:31:43.887Z",
+      "postId": "0x82ed13a231d048e2f1651422029bf9ea8ac946e1",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng212",
+      "company": "Block",
+      "title": "Staff Android Software Engineer, Cash App Consumer Platform",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T11:31:43.887Z",
+      "postId": "0x147c76db6556e717b000edda009deaa1046a5a3f",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng212",
+      "company": "Block",
+      "title": "Staff Android Software Engineer, Cash App Consumer Platform",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T11:31:43.887Z",
+      "postId": "0xb0dadffbb700c03f64ca4c3bd0e63462e7863e82",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng212",
+      "company": "Block",
+      "title": "Staff Android Software Engineer, Cash App Consumer Platform",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T11:31:43.887Z",
+      "postId": "0x4e6070fccdb55f7c4f7d2d9fd0962cb1389bcf86",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng212",
+      "company": "Block",
+      "title": "Staff Android Software Engineer, Cash App Consumer Platform",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T11:31:43.887Z",
+      "postId": "0x3f0d93408b84935536517b9e66186e5a6207a410",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng212",
+      "company": "Block",
+      "title": "Staff Android Software Engineer, Cash App Consumer Platform",
+      "platform": "linkedin",
+      "postedAt": "2026-09-25T11:31:43.887Z",
+      "postId": "6ab65bb6a14029bcc72e6fcf",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng212",
+      "company": "Block",
+      "title": "Staff Android Software Engineer, Cash App Consumer Platform",
+      "platform": "linkedin",
+      "postedAt": "2026-09-25T11:31:43.887Z",
+      "postId": "6ab65bc0db73444101ebc6e0",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng212",
+      "company": "Block",
+      "title": "Staff Android Software Engineer, Cash App Consumer Platform",
+      "platform": "facebook",
+      "postedAt": "2026-09-25T11:31:43.887Z",
+      "postId": "691827047618629_1097600969513804",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng212",
+      "company": "Block",
+      "title": "Staff Android Software Engineer, Cash App Consumer Platform",
+      "platform": "instagram",
+      "postedAt": "2026-09-25T11:31:43.887Z",
+      "postId": "18129571199506855",
+      "verification": "verified"
+    },
+    {
+      "slug": "fs9",
+      "company": "Braiins",
+      "title": "Fullstack Engineer / AI Engineer for BRAIINS MANAGER",
+      "platform": "x",
+      "postedAt": "2026-09-25T11:32:51.488Z",
+      "postId": "6ab65be38c95968bb0375ae2",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Braiins is hiring Fullstack Engineer / AI Engineer for BRAIINS MANAGER\n\nhttps://hashtagweb3.com/fs9/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2103447639207321759"
+    },
+    {
+      "slug": "fs9",
+      "company": "Braiins",
+      "title": "Fullstack Engineer / AI Engineer for BRAIINS MANAGER",
+      "platform": "threads",
+      "postedAt": "2026-09-25T11:32:51.488Z",
+      "postId": "17988970058859186",
+      "verification": "verified",
+      "expectedText": "Braiins is hiring Fullstack Engineer / AI Engineer for BRAIINS MANAGER: https://hashtagweb3.com/fs9/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DdtXHEZkbKS",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "fs9",
+      "company": "Braiins",
+      "title": "Fullstack Engineer / AI Engineer for BRAIINS MANAGER",
+      "platform": "bluesky",
+      "postedAt": "2026-09-25T11:32:51.488Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwdoecw4vy26",
+      "verification": "verified"
+    },
+    {
+      "slug": "fs9",
+      "company": "Braiins",
+      "title": "Fullstack Engineer / AI Engineer for BRAIINS MANAGER",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T11:32:51.488Z",
+      "postId": "0xcad8f38553efadb190c459b299972c1607af29fc",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "fs9",
+      "company": "Braiins",
+      "title": "Fullstack Engineer / AI Engineer for BRAIINS MANAGER",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T11:32:51.488Z",
+      "postId": "0x5154d5eac04bf3a0968feb6c443c5a4b09084a4d",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "fs9",
+      "company": "Braiins",
+      "title": "Fullstack Engineer / AI Engineer for BRAIINS MANAGER",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T11:32:51.488Z",
+      "postId": "0x03bdbb757580845203fbe77e20ad5287a0e54ae5",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "fs9",
+      "company": "Braiins",
+      "title": "Fullstack Engineer / AI Engineer for BRAIINS MANAGER",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T11:32:51.488Z",
+      "postId": "0x8c20c0d0a439c7035f565519f3d3ef9a28331dcc",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "fs9",
+      "company": "Braiins",
+      "title": "Fullstack Engineer / AI Engineer for BRAIINS MANAGER",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T11:32:51.488Z",
+      "postId": "0x21439c71129e4f3f80b8a6cc9e779c3c45fdc56e",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "fs9",
+      "company": "Braiins",
+      "title": "Fullstack Engineer / AI Engineer for BRAIINS MANAGER",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T11:32:51.488Z",
+      "postId": "0x30afd44c272c85e896496d441970da9643be955c",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "fs9",
+      "company": "Braiins",
+      "title": "Fullstack Engineer / AI Engineer for BRAIINS MANAGER",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T11:32:51.488Z",
+      "postId": "0xa277deb8f5d86b38731265fc13524ec42a5c1c16",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "fs9",
+      "company": "Braiins",
+      "title": "Fullstack Engineer / AI Engineer for BRAIINS MANAGER",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T11:32:51.488Z",
+      "postId": "0x983d2151454031d10277618bbbb4546166807744",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "fs9",
+      "company": "Braiins",
+      "title": "Fullstack Engineer / AI Engineer for BRAIINS MANAGER",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T11:32:51.488Z",
+      "postId": "0x27813982a78ff36218f82e73709b956be6d1c228",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "fs9",
+      "company": "Braiins",
+      "title": "Fullstack Engineer / AI Engineer for BRAIINS MANAGER",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T11:32:51.488Z",
+      "postId": "0xc43045ed1279e65454271a9d9d76e97e9b6ffe7a",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "fs9",
+      "company": "Braiins",
+      "title": "Fullstack Engineer / AI Engineer for BRAIINS MANAGER",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T11:32:51.488Z",
+      "postId": "0x73effcc823f395a49bfe55b8cdaab3e5b88d965b",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "fs9",
+      "company": "Braiins",
+      "title": "Fullstack Engineer / AI Engineer for BRAIINS MANAGER",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T11:32:51.488Z",
+      "postId": "0x8264fb79d35e2295a0de4d17cddf56b1d9fb2333",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "fs9",
+      "company": "Braiins",
+      "title": "Fullstack Engineer / AI Engineer for BRAIINS MANAGER",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T11:32:51.488Z",
+      "postId": "0x6bd46609e862ca61fd51c8adca890adb73c1901e",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "fs9",
+      "company": "Braiins",
+      "title": "Fullstack Engineer / AI Engineer for BRAIINS MANAGER",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T11:32:51.488Z",
+      "postId": "0x634c64427fdcad09039077f160f2b1955578dd42",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "fs9",
+      "company": "Braiins",
+      "title": "Fullstack Engineer / AI Engineer for BRAIINS MANAGER",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T11:32:51.488Z",
+      "postId": "0x296f69869d80821c4fe7c11231e1b4aba4a561ba",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "fs9",
+      "company": "Braiins",
+      "title": "Fullstack Engineer / AI Engineer for BRAIINS MANAGER",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T11:32:51.488Z",
+      "postId": "0xb34a48de8205f999cb72a00242768775ec90266e",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "fs9",
+      "company": "Braiins",
+      "title": "Fullstack Engineer / AI Engineer for BRAIINS MANAGER",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T11:32:51.488Z",
+      "postId": "0xc786e0c3f68ba4700cb9afb867b07d9e7cc2426e",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "fs9",
+      "company": "Braiins",
+      "title": "Fullstack Engineer / AI Engineer for BRAIINS MANAGER",
+      "platform": "linkedin",
+      "postedAt": "2026-09-25T11:32:51.488Z",
+      "postId": "6ab65bf78c95968bb0375c01",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "fs9",
+      "company": "Braiins",
+      "title": "Fullstack Engineer / AI Engineer for BRAIINS MANAGER",
+      "platform": "linkedin",
+      "postedAt": "2026-09-25T11:32:51.488Z",
+      "postId": "6ab65c01db73444101ebcc07",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "fs9",
+      "company": "Braiins",
+      "title": "Fullstack Engineer / AI Engineer for BRAIINS MANAGER",
+      "platform": "facebook",
+      "postedAt": "2026-09-25T11:32:51.488Z",
+      "postId": "691827047618629_1097601716180396",
+      "verification": "verified"
+    },
+    {
+      "slug": "fs9",
+      "company": "Braiins",
+      "title": "Fullstack Engineer / AI Engineer for BRAIINS MANAGER",
+      "platform": "instagram",
+      "postedAt": "2026-09-25T11:32:51.488Z",
+      "postId": "17992797054051628",
       "verification": "verified"
     }
   ]
