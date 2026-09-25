@@ -1,5 +1,5 @@
 {
-  "lastIndex": 240,
+  "lastIndex": 242,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -79,7 +79,9 @@
     "an25",
     "an28",
     "mkt41",
-    "cmp39"
+    "cmp39",
+    "inv",
+    "cmp42"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -125,361 +127,6 @@
     "cmp38"
   ],
   "history": [
-    {
-      "slug": "managerd7ef3",
-      "company": "SmartX",
-      "title": "Social Media & Brand Manager",
-      "platform": "threads",
-      "postedAt": "2026-09-08T21:55:56.739Z",
-      "postId": "17901946623588384"
-    },
-    {
-      "slug": "managerd7ef3",
-      "company": "SmartX",
-      "title": "Social Media & Brand Manager",
-      "platform": "bluesky",
-      "postedAt": "2026-09-08T21:55:56.739Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3muzzav4ndr2j"
-    },
-    {
-      "slug": "managerd7ef3",
-      "company": "SmartX",
-      "title": "Social Media & Brand Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-08T21:55:56.739Z",
-      "postId": "0x24bd79131d5a8928cea015cc45b8c0bc17ade5b9"
-    },
-    {
-      "slug": "managerd7ef3",
-      "company": "SmartX",
-      "title": "Social Media & Brand Manager",
-      "platform": "linkedin",
-      "postedAt": "2026-09-08T21:55:56.739Z",
-      "postId": "6aa0847fc4e8349f29382511"
-    },
-    {
-      "slug": "managerd7ef3",
-      "company": "SmartX",
-      "title": "Social Media & Brand Manager",
-      "platform": "facebook",
-      "postedAt": "2026-09-08T21:55:56.739Z",
-      "postId": "691827047618629_1083436937596874"
-    },
-    {
-      "slug": "managerd7ef3",
-      "company": "SmartX",
-      "title": "Social Media & Brand Manager",
-      "platform": "instagram",
-      "postedAt": "2026-09-08T21:55:56.739Z",
-      "postId": "17890621920438154"
-    },
-    {
-      "slug": "operations45dbf",
-      "company": "FinTax",
-      "title": "Brand Operations Specialist",
-      "platform": "x",
-      "postedAt": "2026-09-08T21:57:04.846Z",
-      "postId": "2097444134399422802"
-    },
-    {
-      "slug": "operations45dbf",
-      "company": "FinTax",
-      "title": "Brand Operations Specialist",
-      "platform": "threads",
-      "postedAt": "2026-09-08T21:57:04.846Z",
-      "postId": "18108915857135023"
-    },
-    {
-      "slug": "operations45dbf",
-      "company": "FinTax",
-      "title": "Brand Operations Specialist",
-      "platform": "bluesky",
-      "postedAt": "2026-09-08T21:57:04.846Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3muzzd52cpx24"
-    },
-    {
-      "slug": "operations45dbf",
-      "company": "FinTax",
-      "title": "Brand Operations Specialist",
-      "platform": "farcaster",
-      "postedAt": "2026-09-08T21:57:04.846Z",
-      "postId": "0x7c2e834bdda0b49a8448a8163639494b312419a6"
-    },
-    {
-      "slug": "operations45dbf",
-      "company": "FinTax",
-      "title": "Brand Operations Specialist",
-      "platform": "linkedin",
-      "postedAt": "2026-09-08T21:57:04.846Z",
-      "postId": "6aa084cb7082feb000ddfb97"
-    },
-    {
-      "slug": "operations45dbf",
-      "company": "FinTax",
-      "title": "Brand Operations Specialist",
-      "platform": "facebook",
-      "postedAt": "2026-09-08T21:57:04.846Z",
-      "postId": "691827047618629_1083437424263492"
-    },
-    {
-      "slug": "operations45dbf",
-      "company": "FinTax",
-      "title": "Brand Operations Specialist",
-      "platform": "instagram",
-      "postedAt": "2026-09-08T21:57:04.846Z",
-      "postId": "18131512216656341"
-    },
-    {
-      "slug": "frontend6b0d3",
-      "company": "SmartX",
-      "title": "UI/UX Designer",
-      "platform": "x",
-      "postedAt": "2026-09-09T00:21:57.724Z",
-      "postId": "2097480595161203140"
-    },
-    {
-      "slug": "frontend6b0d3",
-      "company": "SmartX",
-      "title": "UI/UX Designer",
-      "platform": "threads",
-      "postedAt": "2026-09-09T00:21:57.724Z",
-      "postId": "17969013606133141"
-    },
-    {
-      "slug": "frontend6b0d3",
-      "company": "SmartX",
-      "title": "UI/UX Designer",
-      "platform": "bluesky",
-      "postedAt": "2026-09-09T00:21:57.724Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mv2bg5ibf72i"
-    },
-    {
-      "slug": "frontend6b0d3",
-      "company": "SmartX",
-      "title": "UI/UX Designer",
-      "platform": "farcaster",
-      "postedAt": "2026-09-09T00:21:57.724Z",
-      "postId": "0x3021c279ca08fe5ce7fcae2552816b6f7067dd5b"
-    },
-    {
-      "slug": "frontend6b0d3",
-      "company": "SmartX",
-      "title": "UI/UX Designer",
-      "platform": "linkedin",
-      "postedAt": "2026-09-09T00:21:57.724Z",
-      "postId": "6aa0a6be3bd0dd9ef3202d82"
-    },
-    {
-      "slug": "frontend6b0d3",
-      "company": "SmartX",
-      "title": "UI/UX Designer",
-      "platform": "facebook",
-      "postedAt": "2026-09-09T00:21:57.724Z",
-      "postId": "691827047618629_1083505047590063"
-    },
-    {
-      "slug": "fullstack8c90c",
-      "company": "Frontrun.pro",
-      "title": "Fullstack Engineer",
-      "platform": "x",
-      "postedAt": "2026-09-09T06:05:35.035Z",
-      "postId": "2097567070292459650"
-    },
-    {
-      "slug": "fullstack8c90c",
-      "company": "Frontrun.pro",
-      "title": "Fullstack Engineer",
-      "platform": "threads",
-      "postedAt": "2026-09-09T06:05:35.035Z",
-      "postId": "17957036058011725"
-    },
-    {
-      "slug": "fullstack8c90c",
-      "company": "Frontrun.pro",
-      "title": "Fullstack Engineer",
-      "platform": "bluesky",
-      "postedAt": "2026-09-09T06:05:35.035Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mv2umj3osq2j"
-    },
-    {
-      "slug": "fullstack8c90c",
-      "company": "Frontrun.pro",
-      "title": "Fullstack Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-09-09T06:05:35.035Z",
-      "postId": "0xda31171c60396e31e730f9431c8bca89703853c1"
-    },
-    {
-      "slug": "fullstack8c90c",
-      "company": "Frontrun.pro",
-      "title": "Fullstack Engineer",
-      "platform": "linkedin",
-      "postedAt": "2026-09-09T06:05:35.035Z",
-      "postId": "6aa0f744493bbf8c282c1b69"
-    },
-    {
-      "slug": "fullstack8c90c",
-      "company": "Frontrun.pro",
-      "title": "Fullstack Engineer",
-      "platform": "facebook",
-      "postedAt": "2026-09-09T06:05:35.035Z",
-      "postId": "691827047618629_1083718600902041"
-    },
-    {
-      "slug": "fullstack8c90c",
-      "company": "Frontrun.pro",
-      "title": "Fullstack Engineer",
-      "platform": "instagram",
-      "postedAt": "2026-09-09T06:05:35.035Z",
-      "postId": "17977709802147796"
-    },
-    {
-      "slug": "marketingecc99",
-      "company": "XHunt",
-      "title": "Marketing & Operations Manager",
-      "platform": "x",
-      "postedAt": "2026-09-09T06:06:38.118Z",
-      "postId": "2097567335137620245"
-    },
-    {
-      "slug": "marketingecc99",
-      "company": "XHunt",
-      "title": "Marketing & Operations Manager",
-      "platform": "threads",
-      "postedAt": "2026-09-09T06:06:38.118Z",
-      "postId": "18388040905160030"
-    },
-    {
-      "slug": "marketingecc99",
-      "company": "XHunt",
-      "title": "Marketing & Operations Manager",
-      "platform": "bluesky",
-      "postedAt": "2026-09-09T06:06:38.118Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mv2uot37tg2e"
-    },
-    {
-      "slug": "marketingecc99",
-      "company": "XHunt",
-      "title": "Marketing & Operations Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-09T06:06:38.118Z",
-      "postId": "0x0eef7fa4faa1bc2cfa0a3f1c7472a8a1fe64e05c"
-    },
-    {
-      "slug": "marketingecc99",
-      "company": "XHunt",
-      "title": "Marketing & Operations Manager",
-      "platform": "linkedin",
-      "postedAt": "2026-09-09T06:06:38.118Z",
-      "postId": "6aa0f7913bd0dd9ef3266a6f"
-    },
-    {
-      "slug": "marketingecc99",
-      "company": "XHunt",
-      "title": "Marketing & Operations Manager",
-      "platform": "facebook",
-      "postedAt": "2026-09-09T06:06:38.118Z",
-      "postId": "691827047618629_1083719430901958"
-    },
-    {
-      "slug": "marketingecc99",
-      "company": "XHunt",
-      "title": "Marketing & Operations Manager",
-      "platform": "instagram",
-      "postedAt": "2026-09-09T06:06:38.118Z",
-      "postId": "18473553142117949"
-    },
-    {
-      "slug": "compliance40",
-      "company": "Mercuryo",
-      "title": "MLRO/Compliance officer",
-      "platform": "linkedin",
-      "postedAt": "2026-09-09T08:14:18.286Z",
-      "postId": "6aa1155b1b2e90ab73ab2ae4"
-    },
-    {
-      "slug": "head23",
-      "company": "Mercuryo",
-      "title": "Head of Recruitment",
-      "platform": "linkedin",
-      "postedAt": "2026-09-09T12:16:07.860Z",
-      "postId": "6aa14e0f420834e1f95fc407"
-    },
-    {
-      "slug": "analyst1",
-      "company": "Tangem",
-      "title": "Web Attribution Analyst",
-      "platform": "linkedin",
-      "postedAt": "2026-09-09T13:54:14.217Z",
-      "postId": "6aa1650b64f280c9ee6444be"
-    },
-    {
-      "slug": "engineer442",
-      "company": "Bitdeer",
-      "title": "Staff / Principal Advanced Packaging Engineer",
-      "platform": "x",
-      "postedAt": "2026-09-09T17:12:21.055Z",
-      "postId": "2097734868369031595"
-    },
-    {
-      "slug": "engineer442",
-      "company": "Bitdeer",
-      "title": "Staff / Principal Advanced Packaging Engineer",
-      "platform": "threads",
-      "postedAt": "2026-09-09T17:12:21.055Z",
-      "postId": "17969819226160668",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DdExPamFqYI",
-      "account": "hashtagweb3",
-      "verification": "verified"
-    },
-    {
-      "slug": "engineer442",
-      "company": "Bitdeer",
-      "title": "Staff / Principal Advanced Packaging Engineer",
-      "platform": "bluesky",
-      "postedAt": "2026-09-09T17:12:21.055Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mv3zv37nr222"
-    },
-    {
-      "slug": "engineer442",
-      "company": "Bitdeer",
-      "title": "Staff / Principal Advanced Packaging Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-09-09T17:12:21.055Z",
-      "postId": "0x2dd136c552ef7db9e4c2f91a5100e28683a95cc7"
-    },
-    {
-      "slug": "engineer442",
-      "company": "Bitdeer",
-      "title": "Staff / Principal Advanced Packaging Engineer",
-      "platform": "linkedin",
-      "postedAt": "2026-09-09T17:12:21.055Z",
-      "postId": "6aa19397b230b7f443827d7a"
-    },
-    {
-      "slug": "engineer442",
-      "company": "Bitdeer",
-      "title": "Staff / Principal Advanced Packaging Engineer",
-      "platform": "facebook",
-      "postedAt": "2026-09-09T17:12:21.055Z",
-      "postId": "691827047618629_1084150577525510"
-    },
-    {
-      "slug": "engineer442",
-      "company": "Bitdeer",
-      "title": "Staff / Principal Advanced Packaging Engineer",
-      "platform": "instagram",
-      "postedAt": "2026-09-09T17:12:21.055Z",
-      "postId": "18618746263000425"
-    },
-    {
-      "slug": "operations67003",
-      "company": "OKX",
-      "title": "P2P Partner Operations Director",
-      "platform": "x",
-      "postedAt": "2026-09-09T21:50:01.645Z",
-      "postId": "2097804747596079156"
-    },
     {
       "slug": "operations67003",
       "company": "OKX",
@@ -9679,6 +9326,442 @@
       "platform": "instagram",
       "postedAt": "2026-09-25T03:51:22.563Z",
       "postId": "18449861734120522",
+      "verification": "verified"
+    },
+    {
+      "slug": "inv",
+      "company": "Arbitrum",
+      "title": "Senior Investment Lead",
+      "platform": "threads",
+      "postedAt": "2026-09-25T09:11:44.595Z",
+      "postId": "18115307440797284",
+      "verification": "verified",
+      "expectedText": "Arbitrum is hiring Senior Investment Lead: https://hashtagweb3.com/inv/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DdtG9SQFs_a",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "inv",
+      "company": "Arbitrum",
+      "title": "Senior Investment Lead",
+      "platform": "bluesky",
+      "postedAt": "2026-09-25T09:11:44.595Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwdght7lof26",
+      "verification": "verified"
+    },
+    {
+      "slug": "inv",
+      "company": "Arbitrum",
+      "title": "Senior Investment Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T09:11:44.595Z",
+      "postId": "0xe643dcc9fbb3580cc83ebda8eeca94b7ab59c308",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "inv",
+      "company": "Arbitrum",
+      "title": "Senior Investment Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T09:11:44.595Z",
+      "postId": "0x44954174c04d234c244aa3ba9eea32f68b57718e",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "inv",
+      "company": "Arbitrum",
+      "title": "Senior Investment Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T09:11:44.595Z",
+      "postId": "0x6f4e353cb41e801857e145f27e4ac8e35ec83da6",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "inv",
+      "company": "Arbitrum",
+      "title": "Senior Investment Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T09:11:44.595Z",
+      "postId": "0x80c8bce9381194ece7212f8e72935e403813b07b",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "inv",
+      "company": "Arbitrum",
+      "title": "Senior Investment Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T09:11:44.595Z",
+      "postId": "0x8a80478c23bf34499e16650463fcf0c893bfb691",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "inv",
+      "company": "Arbitrum",
+      "title": "Senior Investment Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T09:11:44.595Z",
+      "postId": "0x60639328cddf01dfed24bdb243d6e893cab78e69",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "inv",
+      "company": "Arbitrum",
+      "title": "Senior Investment Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T09:11:44.595Z",
+      "postId": "0x1ce8640ec13dad9d5d418d420077dadce47fd57f",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "inv",
+      "company": "Arbitrum",
+      "title": "Senior Investment Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T09:11:44.595Z",
+      "postId": "0x093d667923d4b627be228866be73d2c2fcd544cb",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "inv",
+      "company": "Arbitrum",
+      "title": "Senior Investment Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T09:11:44.595Z",
+      "postId": "0x54c0a0c1147dd8b6a4de31befb1a408c62db6d53",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "inv",
+      "company": "Arbitrum",
+      "title": "Senior Investment Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T09:11:44.595Z",
+      "postId": "0x4681ba69bb5e34a9ba58dacad14d0f6e058aa243",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "inv",
+      "company": "Arbitrum",
+      "title": "Senior Investment Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T09:11:44.595Z",
+      "postId": "0x6a4be64887dbadd1c6d6f8e3a73e32a836d248d2",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "inv",
+      "company": "Arbitrum",
+      "title": "Senior Investment Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T09:11:44.595Z",
+      "postId": "0xefee593644dfcfdc34b48c81fbce4d90fcbf2efa",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "inv",
+      "company": "Arbitrum",
+      "title": "Senior Investment Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T09:11:44.595Z",
+      "postId": "0xf57a3fdf8662548759462de24703590b36b929cf",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "inv",
+      "company": "Arbitrum",
+      "title": "Senior Investment Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T09:11:44.595Z",
+      "postId": "0x3138a1745d7b9d6fa498cf673d82126ccbe68d1b",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "inv",
+      "company": "Arbitrum",
+      "title": "Senior Investment Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T09:11:44.595Z",
+      "postId": "0xad2c4f212c35b6d366da292a01bd053f05de38c7",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "inv",
+      "company": "Arbitrum",
+      "title": "Senior Investment Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T09:11:44.595Z",
+      "postId": "0x4f7c19d4efc9e358230bffc8e0fb1edbd695d234",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "inv",
+      "company": "Arbitrum",
+      "title": "Senior Investment Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T09:11:44.595Z",
+      "postId": "0x17eda707b6aa244f0e980254aa16823d3244bda1",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "inv",
+      "company": "Arbitrum",
+      "title": "Senior Investment Lead",
+      "platform": "linkedin",
+      "postedAt": "2026-09-25T09:11:44.595Z",
+      "postId": "6ab63adddb73444101e7ad0c",
+      "verification": "verified"
+    },
+    {
+      "slug": "inv",
+      "company": "Arbitrum",
+      "title": "Senior Investment Lead",
+      "platform": "facebook",
+      "postedAt": "2026-09-25T09:11:44.595Z",
+      "postId": "691827047618629_1097498029524098",
+      "verification": "verified"
+    },
+    {
+      "slug": "inv",
+      "company": "Arbitrum",
+      "title": "Senior Investment Lead",
+      "platform": "instagram",
+      "postedAt": "2026-09-25T09:11:44.595Z",
+      "postId": "18151240612490011",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp42",
+      "company": "Robinhood",
+      "title": "Compliance Operations Specialist",
+      "platform": "threads",
+      "postedAt": "2026-09-25T09:12:25.518Z",
+      "postId": "18477655513114178",
+      "verification": "verified",
+      "expectedText": "Robinhood is hiring Compliance Operations Specialist: https://hashtagweb3.com/cmp42/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DdtHCP8loe4",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "cmp42",
+      "company": "Robinhood",
+      "title": "Compliance Operations Specialist",
+      "platform": "bluesky",
+      "postedAt": "2026-09-25T09:12:25.518Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwdgj3stn32o",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp42",
+      "company": "Robinhood",
+      "title": "Compliance Operations Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T09:12:25.518Z",
+      "postId": "0x9d3160832131400786384d484887f53f148dc0be",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp42",
+      "company": "Robinhood",
+      "title": "Compliance Operations Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T09:12:25.518Z",
+      "postId": "0x7bb72758beb356fbcc4b1fbd59edcaaf5cffb0c3",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp42",
+      "company": "Robinhood",
+      "title": "Compliance Operations Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T09:12:25.518Z",
+      "postId": "0x2581b798355f91c07af044099d269a0f7211123d",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp42",
+      "company": "Robinhood",
+      "title": "Compliance Operations Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T09:12:25.518Z",
+      "postId": "0x6950393940919325f6b41f12c136550af4a1f9c0",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp42",
+      "company": "Robinhood",
+      "title": "Compliance Operations Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T09:12:25.518Z",
+      "postId": "0xd2326e9e7bd744286236061c23f53fcc00e56260",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp42",
+      "company": "Robinhood",
+      "title": "Compliance Operations Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T09:12:25.518Z",
+      "postId": "0x8282d2998a64f446c8d3f812972ff953c0d80970",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp42",
+      "company": "Robinhood",
+      "title": "Compliance Operations Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T09:12:25.518Z",
+      "postId": "0x38c9393a1dd38c18d3db2f53dd29288d10c40097",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp42",
+      "company": "Robinhood",
+      "title": "Compliance Operations Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T09:12:25.518Z",
+      "postId": "0x50563cd9ee81741007105cbf8f0685240f4e5a50",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp42",
+      "company": "Robinhood",
+      "title": "Compliance Operations Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T09:12:25.518Z",
+      "postId": "0x024fde4d46639a4e318f6fbc2b9af2500c650d0f",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp42",
+      "company": "Robinhood",
+      "title": "Compliance Operations Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T09:12:25.518Z",
+      "postId": "0x65f0aee7623e6d42be579fb47a2848e7dd8510f4",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp42",
+      "company": "Robinhood",
+      "title": "Compliance Operations Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T09:12:25.518Z",
+      "postId": "0xb06ba364901634d5f77cc50426ec3921784a3422",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp42",
+      "company": "Robinhood",
+      "title": "Compliance Operations Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T09:12:25.518Z",
+      "postId": "0x1625247b7c134f664ab65b091d18a4205edd9784",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp42",
+      "company": "Robinhood",
+      "title": "Compliance Operations Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T09:12:25.518Z",
+      "postId": "0xd30a41b96d43747bc308e4df0369b2d3c29f15d4",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp42",
+      "company": "Robinhood",
+      "title": "Compliance Operations Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T09:12:25.518Z",
+      "postId": "0xc221261dcb21d157d11451bad2be5359fac031a8",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp42",
+      "company": "Robinhood",
+      "title": "Compliance Operations Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T09:12:25.518Z",
+      "postId": "0x572ca21ad601e493f9b07bd6fb300c7a9ada1f30",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp42",
+      "company": "Robinhood",
+      "title": "Compliance Operations Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T09:12:25.518Z",
+      "postId": "0x8ca5d56c641de06fb5a8fc4b9bf6fbf134b2194f",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp42",
+      "company": "Robinhood",
+      "title": "Compliance Operations Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T09:12:25.518Z",
+      "postId": "0x2679ad199a4f08e3247035f16d90394f4a244f49",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp42",
+      "company": "Robinhood",
+      "title": "Compliance Operations Specialist",
+      "platform": "linkedin",
+      "postedAt": "2026-09-25T09:12:25.518Z",
+      "postId": "6ab63b07607bee5b032e384f",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp42",
+      "company": "Robinhood",
+      "title": "Compliance Operations Specialist",
+      "platform": "facebook",
+      "postedAt": "2026-09-25T09:12:25.518Z",
+      "postId": "691827047618629_1097498446190723",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp42",
+      "company": "Robinhood",
+      "title": "Compliance Operations Specialist",
+      "platform": "instagram",
+      "postedAt": "2026-09-25T09:12:25.518Z",
+      "postId": "17996382452826632",
       "verification": "verified"
     }
   ]
