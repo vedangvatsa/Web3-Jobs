@@ -797,6 +797,14 @@
     "lastUrl": "https://hashtagweb3.com/backend-0vyistb",
     "updatedAt": "2026-09-15T19:44:54.188Z"
   },
+  "8038923": {
+    "slugs": [
+      "int19"
+    ],
+    "lastSlug": "int19",
+    "lastUrl": "https://hashtagweb3.com/int19",
+    "updatedAt": "2026-09-25T19:33:15.157Z"
+  },
   "8040052": {
     "slugs": [
       "product404",
@@ -6107,5 +6115,37 @@
     "lastSlug": "backend-0petdsa",
     "lastUrl": "https://hashtagweb3.com/backend-0petdsa",
     "updatedAt": "2026-09-25T09:13:42.765Z"
+  },
+  "8647730002": {
+    "slugs": [
+      "workday"
+    ],
+    "lastSlug": "workday",
+    "lastUrl": "https://hashtagweb3.com/workday",
+    "updatedAt": "2026-09-25T19:33:14.891Z"
+  },
+  "7780897003": {
+    "slugs": [
+      "devops68"
+    ],
+    "lastSlug": "devops68",
+    "lastUrl": "https://hashtagweb3.com/devops68",
+    "updatedAt": "2026-09-25T19:33:15.085Z"
+  },
+  "5591d4cf-38fc-424a-adca-689af3ba80a5": {
+    "slugs": [
+      "manager174"
+    ],
+    "lastSlug": "manager174",
+    "lastUrl": "https://hashtagweb3.com/manager174",
+    "updatedAt": "2026-09-25T19:33:15.360Z"
+  },
+  "8604775002": {
+    "slugs": [
+      "security121"
+    ],
+    "lastSlug": "security121",
+    "lastUrl": "https://hashtagweb3.com/security121",
+    "updatedAt": "2026-09-25T19:33:15.622Z"
   }
 }

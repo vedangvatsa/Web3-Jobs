@@ -602,6 +602,9 @@
   "https://hashtagweb3.com/fed-stablecoin?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/polymarket-lawsuit?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/bitget-breach?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/esma-innovation?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/solana-hires?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://decrypt.co/379364/google-built-ai-hunts-security-bugs",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -1714,6 +1717,12 @@
   "New York sues Polymarket alleging unlicensed gambling operation",
   "Bitget suspends withdrawals after 351.6 million dollar exploit",
   "Bitget confirms $351.6 million wallet breach and suspends withdrawals",
+  "EU regulator sets AI and tokenization as 2027 priorities",
+  "ESMA makes AI and tokenization a supervisory priority for 2027",
+  "Solana Foundation hires Rachel Conlan and Jamal Raees",
+  "Solana Foundation appoints Rachel Conlan and Jamal Raees to strategy and payments roles",
+  "Google creates AI tool to detect its own security flaws",
+  "Google Built an AI That Hunts Its Own Security Bugs",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -1866,5 +1875,8 @@
   "fp:13b|ark|asset|blockchain|bring|firm|fund|invest|major|manager",
   "fp:act|application|back|bank|capital|comment|day|federal|genius|issuer",
   "fp:alleg|ban|financial|gain|gambl|lawsuit|operation|penalty|platform|polymarket",
-  "fp:3516m|bitget|breach|confirm|cover|dollar|exchang|expect|exploit|full"
+  "fp:3516m|bitget|breach|confirm|cover|dollar|exchang|expect|exploit|full",
+  "fp:as2027|audit|digital|esma|firm|for2027|mak|monitor|priority|provider",
+  "fp:appoint|binanc|conlan|department|executiv|former|foundation|hir|jamal|lead",
+  "fp:application|bug|built|confirm|creat|detect|find|flaw|googl|hunt"
 ]
