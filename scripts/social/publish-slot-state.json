@@ -5,7 +5,8 @@
   "evening": "2026-09-24",
   "slots": {
     "morning": "2026-09-25",
-    "afternoon": "2026-09-25"
+    "afternoon": "2026-09-25",
+    "evening": "2026-09-25"
   },
   "deployed": "2026-09-25"
 }
