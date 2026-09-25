@@ -11,7 +11,7 @@
  *
  *   Company is hiring role
  *
- *   https://hashtagweb3.com/<slug>/x      (for X)
+ *   https://hashtagweb3.com/<slug>/x      (for X via Buffer)
  *   https://hashtagweb3.com/<slug>/fc     (for Farcaster)
  *   Company is hiring role: https://hashtagweb3.com/<slug>/th     (for Threads)
  *   Company is hiring role: https://hashtagweb3.com/<slug>/bsky   (for Bluesky)
@@ -44,8 +44,8 @@
 
 import * as fs from 'fs';
 import * as path from 'path';
-import * as crypto from 'crypto';
 import dotenv from 'dotenv';
+import { BufferXClient, BUFFER_X_CHANNEL_ID, BUFFER_X_ACCOUNT } from './buffer-x';
 import { buildUniqueJobMetaDescription } from '../../src/lib/job-guides';
 import { buildJobOgImageUrl, buildJobInstagramImageUrl, JOB_OG_VERSION, SITE_URL } from '../../src/lib/job-og';
 
@@ -85,6 +85,7 @@ interface SocialHistoryEntry {
   account?: string;
   verification?: 'pending' | 'verified';
   expectedText?: string;
+  provider?: 'buffer';
 }
 
 const SOCIAL_PLATFORMS = ['x', 'threads', 'bluesky', 'farcaster', 'linkedin', 'facebook', 'instagram'] as const;
@@ -321,84 +322,23 @@ function recordVerifiedPost(state: SocialState, entry: SocialHistoryEntry): void
   saveState(state);
 }
 
-// ── OAuth 1.0a Helpers for X / Twitter ──
-
-function percentEncode(str: string): string {
-  return encodeURIComponent(str)
-    .replace(/!/g, '%21')
-    .replace(/\*/g, '%2A')
-    .replace(/'/g, '%27')
-    .replace(/\(/g, '%28')
-    .replace(/\)/g, '%29');
+function xBufferClient(): BufferXClient {
+  return new BufferXClient(process.env.BUFFER_ACCESS_TOKEN || '', process.env.BUFFER_X_CHANNEL_ID || BUFFER_X_CHANNEL_ID);
 }
 
-function generateOAuthNonce(): string {
-  return crypto.randomBytes(16).toString('hex');
-}
-
-function generateOAuthSignature(
-  method: string,
-  url: string,
-  params: Record<string, string>,
-  consumerSecret: string,
-  tokenSecret: string
-): string {
-  const sortedKeys = Object.keys(params).sort();
-  const paramString = sortedKeys.map((k) => `${percentEncode(k)}=${percentEncode(params[k])}`).join('&');
-  const baseString = `${method.toUpperCase()}&${percentEncode(url)}&${percentEncode(paramString)}`;
-  const signingKey = `${percentEncode(consumerSecret)}&${percentEncode(tokenSecret)}`;
-  return crypto.createHmac('sha1', signingKey).update(baseString).digest('base64');
-}
-
-function buildOAuthHeader(params: Record<string, string>): string {
-  const entries = Object.keys(params)
-    .filter((k) => k.startsWith('oauth_'))
-    .sort()
-    .map((k) => `${percentEncode(k)}="${percentEncode(params[k])}"`);
-  return `OAuth ${entries.join(', ')}`;
-}
-
-async function postToX(text: string): Promise<string> {
-  const consumerKey = process.env.X_CONSUMER_KEY;
-  const consumerSecret = process.env.X_CONSUMER_SECRET;
-  const oauthToken = process.env.X_ACCESS_TOKEN;
-  const oauthTokenSecret = process.env.X_ACCESS_TOKEN_SECRET;
-
-  if (!consumerKey || !consumerSecret || !oauthToken || !oauthTokenSecret) {
-    throw new Error('X API credentials missing (X_CONSUMER_KEY, X_CONSUMER_SECRET, X_ACCESS_TOKEN, X_ACCESS_TOKEN_SECRET)');
+async function reconcilePendingXPosts(state: SocialState): Promise<void> {
+  for (const entry of state.history) {
+    if (entry.platform !== 'x' || entry.provider !== 'buffer' || entry.verification !== 'pending') continue;
+    try {
+      if (!entry.postId || !entry.expectedText) throw new Error('Pending Buffer X receipt is incomplete');
+      entry.permalink = await xBufferClient().verify(entry.postId, entry.expectedText, 1);
+      entry.verification = 'verified';
+      saveState(state);
+      console.log(`X post confirmed through Buffer: ${entry.permalink}`);
+    } catch (error) {
+      console.warn(`X receipt remains pending for ${entry.slug}: ${(error as Error).message}`);
+    }
   }
-
-  const tweetUrl = 'https://api.twitter.com/2/tweets';
-  const oauthParams: Record<string, string> = {
-    oauth_consumer_key: consumerKey,
-    oauth_nonce: generateOAuthNonce(),
-    oauth_signature_method: 'HMAC-SHA1',
-    oauth_timestamp: Math.floor(Date.now() / 1000).toString(),
-    oauth_token: oauthToken,
-    oauth_version: '1.0',
-  };
-  oauthParams.oauth_signature = generateOAuthSignature('POST', tweetUrl, oauthParams, consumerSecret, oauthTokenSecret);
-
-  const res = await fetch(tweetUrl, {
-    method: 'POST',
-    headers: {
-      Authorization: buildOAuthHeader(oauthParams),
-      'Content-Type': 'application/json',
-    },
-    body: JSON.stringify({ text }),
-  });
-
-  const responseText = await res.text();
-  if (!res.ok) {
-    throw new Error(`X API error ${res.status}: ${responseText}`);
-  }
-
-  const data = JSON.parse(responseText) as { data?: { id?: unknown } };
-  const tweetId = data.data?.id;
-  if (typeof tweetId !== 'string' || !/^\d+$/.test(tweetId)) {
-    throw new Error(`X API response did not include a valid tweet ID: ${responseText}`);
-  }
-  return tweetId;
 }
 
 function getThreadsCredentials() {
@@ -1333,6 +1273,7 @@ async function main() {
   const jobs = loadJobs();
   const state = loadState();
   if (!isDryRun) {
+    if (requestedPlatforms.includes('x')) await reconcilePendingXPosts(state);
     await reconcilePendingThreadsPosts(state);
     if (reconcileCompletedPendingSlugs(state)) saveState(state);
   }
@@ -1436,9 +1377,6 @@ async function main() {
   // Each full run posts two different jobs (6/day across the 3 scheduled runs).
   // A chosen slug or a single platform stays at one job.
   const catchUpArmed = !targetSlug && (platform === 'all' || platform === 'both');
-  // A dead account (X credits, for example) stays skipped for the rest of
-  // this run. It must not cancel the second post on networks that worked.
-  const unrecoverableSkips = new Set<SocialPlatform>();
   if (catchUpArmed) {
     console.log('Second job armed: each network posts two openings on its own.');
   }
@@ -1507,7 +1445,7 @@ async function main() {
     }
   }
 
-  console.log(`\n--- Preview: X (Twitter) Post ---`);
+  console.log(`\n--- Preview: X @${BUFFER_X_ACCOUNT} via Buffer (${process.env.BUFFER_X_CHANNEL_ID || BUFFER_X_CHANNEL_ID}) ---`);
   console.log(xPostText);
   console.log(`---------------------------------`);
 
@@ -1550,7 +1488,7 @@ async function main() {
    const blockedThisRound = new Set<SocialPlatform>();
     const shouldPublishPlatform = (name: SocialPlatform) => {
       if (!(platform === name || shouldPostAll)) return false;
-      if (blockedThisRound.has(name) || unrecoverableSkips.has(name)) return false;
+      if (blockedThisRound.has(name)) return false;
       if (pendingPlatforms.has(name)) return false;
       return force || !alreadyPublished.has(name);
     };
@@ -1599,26 +1537,32 @@ async function main() {
    if (shouldPublishPlatform('x')) {
     attemptedPlatforms.add('x');
     try {
-      console.log('Publishing to X...');
-      const tweetId = await postToX(xPostText);
-      console.log(`✓ Successfully published to X! Tweet ID: ${tweetId}`);
-      recordVerifiedPost(state, {
+      console.log(`Publishing to X @${BUFFER_X_ACCOUNT} via Buffer...`);
+      const buffer = xBufferClient();
+      const bufferPostId = await buffer.create(xPostText);
+      const entry: SocialHistoryEntry = {
         slug,
         company,
         title,
         platform: 'x',
         postedAt: now,
-        postId: tweetId,
-      });
+        postId: bufferPostId,
+        provider: 'buffer',
+        account: BUFFER_X_ACCOUNT,
+        expectedText: xPostText,
+        verification: 'pending',
+      };
+      state.history.push(entry);
+      saveState(state);
+      entry.permalink = await buffer.verify(bufferPostId, xPostText);
+      entry.verification = 'verified';
+      saveState(state);
+      console.log(`✓ Published to X via Buffer: ${entry.permalink}`);
       newlyVerifiedPlatforms.add('x');
       postedSuccessCount++;
     } catch (err) {
       const message = (err as Error).message;
       console.error(`✗ Failed to post to X:`, message);
-      if (/402|credits depleted|Payment Required/i.test(message)) {
-        unrecoverableSkips.add('x');
-        console.warn('X credits depleted; continuing without X and not blocking LinkedIn/Facebook/etc. completion.');
-      }
     }
   }
 
@@ -1809,9 +1753,7 @@ async function main() {
   }
 
    const verifiedPlatforms = verifiedPlatformsForSlug(state, slug);
-   const isPlatformSatisfied = (name: SocialPlatform) =>
-     verifiedPlatforms.has(name) || unrecoverableSkips.has(name);
-   const allPlatformsSucceeded = SOCIAL_PLATFORMS.every(isPlatformSatisfied);
+   const allPlatformsSucceeded = SOCIAL_PLATFORMS.every((name) => verifiedPlatforms.has(name));
 
    const completionChanged = allPlatformsSucceeded && markSlugComplete(state, slug);
 
@@ -1823,7 +1765,6 @@ async function main() {
   }
 
    const missingPlatforms = requestedPlatforms.filter((name) => {
-     if (unrecoverableSkips.has(name)) return false;
      return force && attemptedPlatforms.has(name)
        ? !newlyVerifiedPlatforms.has(name)
        : !verifiedPlatforms.has(name);
