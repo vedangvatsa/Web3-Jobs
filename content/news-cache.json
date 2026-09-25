@@ -1,20 +1,68 @@
 {
-  "generatedAt": "2026-09-25T03:31:22.582Z",
+  "generatedAt": "2026-09-25T08:58:53.214Z",
   "items": [
+    {
+      "title": "KelpDAO sues LayerZero for the largest exploit 2026 has seen so far",
+      "link": "https://www.coindesk.com/business/2026/09/25/kelpdao-sues-layerzero-for-the-largest-exploit-2026-has-seen-so-far",
+      "pubDate": "Fri, 25 Sep 2026 08:58:03 +0000",
+      "creator": "Olivier Acuna",
+      "contentSnippet": "The cross-chain lending protocol accused LayerZero and its co-founder Brian Pellegrino of failing to disclose weaknesses in their protocol, which led ...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Bitcoin ETF inflows slow to $191M as six-day streak reaches $2.8B",
+      "link": "https://cointelegraph.com/markets/bitcoin-etf-six-day-streak-2-8-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 25 Sep 2026 07:41:36 +0000",
+      "creator": "Helen Partz",
+      "contentSnippet": "US spot Bitcoin ETFs drew $191 million Thursday as daily inflows slowed for a third day, lifting year-to-date net flows to $787 million.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Samourai Wallet co-founder faces new transfer after 30-day ordeal",
+      "link": "https://cointelegraph.com/news/samourai-wallet-co-founder-30-day-prison-transfer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 25 Sep 2026 07:28:18 +0000",
+      "creator": "Ezra Reguerra",
+      "contentSnippet": "Keonne Rodriguez says he and 70 others face another move after their treatment program was deactivated. His previous transfer took 30 days.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Crypto Exchange Bitget Confirms $351,600,000 Hot Wallet Breach, Abruptly Suspends Withdrawals",
+      "link": "https://dailyhodl.com/2026/09/25/crypto-exchange-bitget-confirms-3516000-hot-wallet-breach-abruptly-suspends-withdrawals/",
+      "pubDate": "Fri, 25 Sep 2026 07:15:06 +0000",
+      "creator": "Agent",
+      "contentSnippet": "Bitget detected unauthorized transfers of approximately $351.6 million from hot wallets on September 24, 2026, and temporarily suspended withdrawals w...",
+      "source": "Daily Hodl"
+    },
+    {
+      "title": "Live updates: Bitcoin steadies near $84,000 as the bond selloff pauses",
+      "link": "https://www.coindesk.com/markets/2026/09/25/live-updates-bitcoin-steadies-near-usd84-000-as-the-bond-selloff-pauses",
+      "pubDate": "Fri, 25 Sep 2026 07:09:11 +0000",
+      "creator": "Shaurya Malwa",
+      "contentSnippet": "Treasury yields eased from multi-decade highs and oil slipped on reports of a phased U.S.-Iran deal, with roughly $14 billion in bitcoin options set t...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Researchers propose Zcash-style private Bitcoin transfers without a soft fork ",
+      "link": "https://cointelegraph.com/news/shielded-bitcoin-zcash-style-privacy-no-soft-fork?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 25 Sep 2026 04:41:06 +0000",
+      "creator": "Ezra Reguerra",
+      "contentSnippet": "Shielded Bitcoin would use zero-knowledge proofs and encrypted notes to hide transaction details without changing Bitcoin consensus, but researchers h...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Bitget's $352 million hack happened via spoofed transfers, not private keys, CEO Gracy Chen says",
+      "link": "https://www.coindesk.com/markets/2026/09/25/bitget-s-usd351-million-hack-happened-via-spoofed-transfers-not-private-keys-ceo-gray-chen-says",
+      "pubDate": "Fri, 25 Sep 2026 04:29:34 +0000",
+      "creator": "Omkar Godbole",
+      "contentSnippet": "Bitget lost $351.6 million after attackers compromised a wallet backend, spoofed transaction data, Chen said on X.",
+      "source": "Coindesk"
+    },
     {
       "title": "Block brings Bitcoin Lightning payments to x402 for AI agents",
       "link": "https://cointelegraph.com/news/block-brings-bitcoin-lightning-payments-to-x402-for-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Fri, 25 Sep 2026 02:00:54 +0000",
       "creator": "Felix Ng",
       "contentSnippet": "Block joins Google, Microsoft, AWS and Coinbase in backing x402, an open payment standard enabling agentic AI commerce.",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Asia dominates Crypto Adoption Index, Bitget’s $352M hack: Asia Express",
-      "link": "https://cointelegraph.com/magazine/asia-dominates-crypto-adoption-index-bitgets-356m-hack-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Thu, 24 Sep 2026 23:27:17 +0000",
-      "creator": "Andrew Fenton",
-      "contentSnippet": "The APAC region accounts for half of the Global Crypto Adoption Index. Bitget suffers massive $352M loss and OpenAI forgets to mention its agents hack...",
       "source": "Cointelegraph"
     },
     {
@@ -42,14 +90,6 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "Bitget confirms $352M security breach, suspends withdrawals",
-      "link": "https://cointelegraph.com/news/bitget-calls-security-withdrawal-claims-unverified-amid-178m-breach-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Thu, 24 Sep 2026 21:47:17 +0000",
-      "creator": "Nate Kostar",
-      "contentSnippet": "Bitget said unauthorized transfers affected a limited number of hot wallets, while cold wallets and most platform assets remained unaffected.",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "CFTC updates guidance on tokenized assets, blockchain records after failed vote",
       "link": "https://cointelegraph.com/news/cftc-digital-assets-regulation-failed-clarity-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Thu, 24 Sep 2026 21:42:51 +0000",
@@ -58,20 +98,20 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "More than $170 million in crypto moves from Bitget wallets to unidentified address",
-      "link": "https://www.theblock.co/news/markets/2026-09-24-more-than-170-million-in-crypto-moves-from-bitget-wallets-unidentified-address-416345",
-      "pubDate": "Thu, 24 Sep 2026 21:20:47 +0000",
-      "creator": "Kyle Baird",
-      "contentSnippet": "The receiving address has made several swaps, but the reason for the Bitget wallet transfers remains unclear.",
-      "source": "The Block"
-    },
-    {
       "title": "Bitcoin price steadies, ONDO rallies as US Treasury yields hit 2007 highs",
       "link": "https://cointelegraph.com/markets/bitcoin-steadies-ondo-rallies-us-treasury-yields-hit-2007-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Thu, 24 Sep 2026 20:32:16 +0000",
       "creator": "Charles Bennett",
       "contentSnippet": "US Treasury yields hit a 19-year high on Thursday, pressuring risk assets as Bitcoin held near $84,000 and ONDO became top performer among altcoins.",
       "source": "Cointelegraph"
+    },
+    {
+      "title": "Binance Expands to 7,000 Stocks, ETFs Alongside Crypto",
+      "link": "https://Blockchain.News/news/binance-adds-stocks-etfs",
+      "pubDate": "Thu, 24 Sep 2026 20:05:40 GMT",
+      "creator": "Blockchain.News",
+      "contentSnippet": "Binance now offers 7,000+ U.S. stocks and ETFs alongside crypto, settling trades in stablecoins and expanding its super app vision. (Read More)",
+      "source": "Blockchain.News"
     },
     {
       "title": "Bullish, Alpaca and Apex Fintech form coalition to push issuer-backed tokenized stocks",
@@ -96,6 +136,14 @@
       "creator": "Tram Doman",
       "contentSnippet": "The argument over Robinhood’s AMC token has been about which tokenization model is legitimate, and the SEC has drawn a line. The question to ask now i...",
       "source": "Coindesk"
+    },
+    {
+      "title": "How Fake Payment Scams Use Crypto to Exploit Victims",
+      "link": "https://Blockchain.News/news/fake-payment-scams-explained-crypto",
+      "pubDate": "Thu, 24 Sep 2026 19:58:40 GMT",
+      "creator": "Blockchain.News",
+      "contentSnippet": "Fake payment scams increasingly leverage crypto for irreversible transactions, costing victims billions globally. Learn the red flags to stay safe. (R...",
+      "source": "Blockchain.News"
     },
     {
       "title": "Solana treasury firm SkyAI keeps board after shareholder protest, loses equity plan vote",
@@ -128,6 +176,22 @@
       "creator": "Yogita Khatri",
       "contentSnippet": "JPMorgan analysts said bitcoin's move above its estimated $85,000 production cost could ease miner selling if sustained.",
       "source": "The Block"
+    },
+    {
+      "title": "Bitcoin ETF Inflows Surge Amid Institutional Demand Rebound",
+      "link": "https://Blockchain.News/news/bitcoin-ether-etf-inflows-september-2026",
+      "pubDate": "Thu, 24 Sep 2026 18:15:14 GMT",
+      "creator": "Blockchain.News",
+      "contentSnippet": "Glassnode's Strategy Watch #8 reveals a resurgence in Bitcoin and Ether inflows, driven by demand for spot ETFs. Institutional capital trends signal e...",
+      "source": "Blockchain.News"
+    },
+    {
+      "title": "Solana (SOL) Foundation Adds Ex-Binance CMO, Polygon Exec to Leadership",
+      "link": "https://Blockchain.News/news/solana-appoints-conlan-raees",
+      "pubDate": "Thu, 24 Sep 2026 17:45:40 GMT",
+      "creator": "Blockchain.News",
+      "contentSnippet": "Solana (SOL) Foundation appoints Rachel Conlan as Chief Strategy Officer and Jamal Raees as GM of Payments to drive institutional adoption and payment...",
+      "source": "Blockchain.News"
     },
     {
       "title": "In Her Final Weeks, SEC's Peirce Calls for Ending the KYC 'Panopticon'",
@@ -250,20 +314,20 @@
       "source": "Blockchain.News"
     },
     {
+      "title": "Canaan (CAN) Showcases Heat-Reuse Mining Tech at BTCHEL in Helsinki",
+      "link": "https://Blockchain.News/news/canaan-showcases-heat-reuse-mining-tech-btchel",
+      "pubDate": "Thu, 24 Sep 2026 13:47:12 GMT",
+      "creator": "Blockchain.News",
+      "contentSnippet": "Canaan Inc. (NASDAQ: CAN) demonstrates innovative 'hash-to-heat' solutions at BTCHEL, aiming to decarbonize energy systems and expand residential appl...",
+      "source": "Blockchain.News"
+    },
+    {
       "title": "IBM opens beta Swift ledger link for 24/7 tokenized deposits",
       "link": "https://cointelegraph.com/news/ibm-banks-swift-ledger-tokenized-deposit-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Thu, 24 Sep 2026 13:29:06 +0000",
       "creator": "Helen Partz",
       "contentSnippet": "IBM’s beta link lets banks instruct tokenized deposit transfers on Swift’s ledger using existing payment messages and compliance processes.",
       "source": "Cointelegraph"
-    },
-    {
-      "title": "Solana Foundation Hires Binance's Former Global CMO for Institutional Push",
-      "link": "https://decrypt.co/379179/solana-foundation-hires-binances-former-global-cmo-for-institutional-push",
-      "pubDate": "Thu, 24 Sep 2026 13:03:03 +0000",
-      "creator": "Agent",
-      "contentSnippet": "Rachel Conlan arrives as chief strategy officer and Polygon Labs' Jamal Raees takes over payments, both recruited from elsewhere in crypto.",
-      "source": "Decrypt"
     },
     {
       "title": "Elliptic Wants Every Cop to Read a Crypto Wallet in Seconds—With AI",
@@ -346,22 +410,6 @@
       "source": "Coindesk"
     },
     {
-      "title": "The data proves it: Bitcoin doesn't care about rising bond yields over long-term",
-      "link": "https://www.coindesk.com/markets/2026/09/24/the-data-proves-it-bitcoin-doesn-t-care-about-rising-bond-yields-over-long-term",
-      "pubDate": "Thu, 24 Sep 2026 09:48:09 +0000",
-      "creator": "Omkar Godbole",
-      "contentSnippet": "Long-term, BTC ignores rising bond yields. In the short term, however, surging bond volatility could easily dampen crypto's animal spirits.",
-      "source": "Coindesk"
-    },
-    {
-      "title": "EU financial watchdogs warn quantum computing poses imminent threat to blockchain encryption",
-      "link": "https://www.coindesk.com/tech/2026/09/24/eu-financial-watchdogs-warn-quantum-computing-poses-imminent-threat-to-blockchain-encryption",
-      "pubDate": "Thu, 24 Sep 2026 09:32:48 +0000",
-      "creator": "Olivier Acuna",
-      "contentSnippet": "The warning brings renewed urgency to the debate over how bitcoin should deal with legacy addresses whose public keys are already exposed onchain.",
-      "source": "Coindesk"
-    },
-    {
       "title": "Bitcoin ETFs add $347M as BTC falls below $84K after topping $87K",
       "link": "https://cointelegraph.com/markets/bitcoin-etf-347-million-inflow-btc-below-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Thu, 24 Sep 2026 09:32:44 +0000",
@@ -410,38 +458,6 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "Former Hack VC partner Hsin-Ju Chuang found dead at 37",
-      "link": "https://cointelegraph.com/news/former-hack-vc-partner-hsin-ju-chuang-found-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Wed, 23 Sep 2026 20:43:56 +0000",
-      "creator": "Nate Kostar",
-      "contentSnippet": "The crypto executive and Dystopia Labs founder previously held senior roles at Stellar and Solana before joining venture capital firm Hack VC.",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "US lawmakers from gaming states urge SCOTUS to take up Kalshi case",
-      "link": "https://cointelegraph.com/news/us-lawmakers-gaming-states-supreme-court-kalshi-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Wed, 23 Sep 2026 20:28:34 +0000",
-      "creator": "Turner Wright",
-      "contentSnippet": "The case between New Jersey authorities and a prediction market company, if accepted by the Supreme Court, could result in clarity for state and feder...",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Binance Highlights 'World's Smallest Trading Desk' Concept",
-      "link": "https://Blockchain.News/news/binance-smallest-trading-desk",
-      "pubDate": "Wed, 23 Sep 2026 19:52:29 GMT",
-      "creator": "Blockchain.News",
-      "contentSnippet": "Binance touts the 'world’s smallest trading desk,' signaling a push toward mobile-first, API-driven trading innovations. (Read More)",
-      "source": "Blockchain.News"
-    },
-    {
-      "title": "Trump reveals up to $100K Strategy stock purchase in ethics filing",
-      "link": "https://cointelegraph.com/news/trump-discloses-up-to-100k-strategy-stock-purchase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Wed, 23 Sep 2026 19:05:14 +0000",
-      "creator": "Nate Kostar",
-      "contentSnippet": "President Donald Trump disclosed a July purchase of Strategy shares as his administration continues to advance crypto policy through federal regulator...",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "$15.6 Billion in Bitcoin Options Expire Friday—Here's What It Means",
       "link": "https://decrypt.co/379093/15-6-billion-bitcoin-options-expire-friday-what-means",
       "pubDate": "Wed, 23 Sep 2026 18:46:03 +0000",
@@ -474,14 +490,6 @@
       "source": "Decrypt"
     },
     {
-      "title": "SEC Opens Door to Tokenized Stocks; Solana (SOL) Leads the Way",
-      "link": "https://Blockchain.News/news/sec-tokenized-stocks-solana",
-      "pubDate": "Wed, 23 Sep 2026 16:54:20 GMT",
-      "creator": "Blockchain.News",
-      "contentSnippet": "The SEC's 'Innovation Exemption' enables tokenized stock trading on public blockchains like Solana (SOL). Here's what it means for markets. (Read More...",
-      "source": "Blockchain.News"
-    },
-    {
       "title": "‘BTC still has room to catch up’: Bitcoin’s $80,000 breakout draws institutional demand as analysts weigh durability",
       "link": "https://www.theblock.co/news/markets/2026-09-23-bitcoin-breakout-etf-inflows-analysts-k33-nexo-resistance-416182",
       "pubDate": "Wed, 23 Sep 2026 16:52:09 +0000",
@@ -512,38 +520,6 @@
       "creator": "Jose Antonio Lanz",
       "contentSnippet": "The world's largest asset manager argues that autonomous AI agents buying data, paying for services, and renting computing power could quietly become ...",
       "source": "Decrypt"
-    },
-    {
-      "title": "EDX and Fireblocks Streamline Institutional Crypto Transfers",
-      "link": "https://Blockchain.News/news/edx-fireblocks-institutional-transfers",
-      "pubDate": "Wed, 23 Sep 2026 15:22:16 GMT",
-      "creator": "Blockchain.News",
-      "contentSnippet": "EDX Markets integrates Fireblocks Network Link to enhance institutional trading, asset movement, and liquidity in fragmented crypto markets. (Read Mor...",
-      "source": "Blockchain.News"
-    },
-    {
-      "title": "Bitwise Report Reveals Institutional Resilience in Crypto Markets",
-      "link": "https://Blockchain.News/news/bitwise-institutional-crypto-adoption-report-2026",
-      "pubDate": "Wed, 23 Sep 2026 15:01:50 GMT",
-      "creator": "Blockchain.News",
-      "contentSnippet": "Bitwise's report details how top institutions are allocating to crypto, with holdings up to 13% and resilience through a 50% market drawdown. (Read Mo...",
-      "source": "Blockchain.News"
-    },
-    {
-      "title": "LATAM Crypto Economy Hits $593.8B in 2026, Stablecoins Surge",
-      "link": "https://Blockchain.News/news/latam-crypto-economy-2026-stablecoins-surge",
-      "pubDate": "Wed, 23 Sep 2026 14:54:50 GMT",
-      "creator": "Blockchain.News",
-      "contentSnippet": "Latin America's crypto economy grew 9.8% to $593.8B in 2026, driven by stablecoins' rise for payments and savings amid inflation and currency volatili...",
-      "source": "Blockchain.News"
-    },
-    {
-      "title": "Dormant Bitcoin Wallet Abruptly Awakens After Hibernating for 14+ Years, Moves $51,900,000 in BTC at 1,063,304% Profit",
-      "link": "https://dailyhodl.com/2026/09/23/dormant-bitcoin-wallet-abruptly-awakens-after-hibernating-for-14-years-moves-51900000-in-btc-at-1063304-profit/",
-      "pubDate": "Wed, 23 Sep 2026 14:30:48 +0000",
-      "creator": "Agent",
-      "contentSnippet": "A Bitcoin wallet holding 600 BTC untouched since 2012 has transferred the funds, realizing over $48 million in gains as of September 22, 2026.\nThe pos...",
-      "source": "Daily Hodl"
     },
     {
       "title": "Crypto economy fell just 1.6% in 12 months despite $2.1 trillion market cap rout, Chainalysis says",
