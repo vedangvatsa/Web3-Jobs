@@ -1,5 +1,5 @@
 {
-  "lastIndex": 246,
+  "lastIndex": 248,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -83,7 +83,9 @@
     "inv",
     "cmp42",
     "eng212",
-    "fs9"
+    "fs9",
+    "eng209",
+    "eng298"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -284,246 +286,6 @@
       "platform": "facebook",
       "postedAt": "2026-09-10T21:42:33.877Z",
       "postId": "691827047618629_1085164224090812"
-    },
-    {
-      "slug": "sales28008",
-      "company": "Block",
-      "title": "Territory Account Executive, Pittsburgh",
-      "platform": "x",
-      "postedAt": "2026-09-10T21:44:44.913Z",
-      "postId": "2098165806551257493"
-    },
-    {
-      "slug": "sales28008",
-      "company": "Block",
-      "title": "Territory Account Executive, Pittsburgh",
-      "platform": "threads",
-      "postedAt": "2026-09-10T21:44:44.913Z",
-      "postId": "17900235252589089",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DdH1NaWI4SA",
-      "account": "hashtagweb3",
-      "expectedText": "Block is hiring Territory Account Executive, Pittsburgh: https://hashtagweb3.com/sales28008/th",
-      "verification": "verified"
-    },
-    {
-      "slug": "sales28008",
-      "company": "Block",
-      "title": "Territory Account Executive, Pittsburgh",
-      "platform": "bluesky",
-      "postedAt": "2026-09-10T21:44:44.913Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mv6zldycqc2l"
-    },
-    {
-      "slug": "sales28008",
-      "company": "Block",
-      "title": "Territory Account Executive, Pittsburgh",
-      "platform": "farcaster",
-      "postedAt": "2026-09-10T21:44:44.913Z",
-      "postId": "0xa0f3f578c0968c80190e6d6baaeed46d82bf3439"
-    },
-    {
-      "slug": "sales28008",
-      "company": "Block",
-      "title": "Territory Account Executive, Pittsburgh",
-      "platform": "linkedin",
-      "postedAt": "2026-09-10T21:44:44.913Z",
-      "postId": "6aa324f5bc5ba21062eacaa7"
-    },
-    {
-      "slug": "sales28008",
-      "company": "Block",
-      "title": "Territory Account Executive, Pittsburgh",
-      "platform": "facebook",
-      "postedAt": "2026-09-10T21:44:44.913Z",
-      "postId": "691827047618629_1085165207424047"
-    },
-    {
-      "slug": "sales28008",
-      "company": "Block",
-      "title": "Territory Account Executive, Pittsburgh",
-      "platform": "instagram",
-      "postedAt": "2026-09-10T21:44:44.913Z",
-      "postId": "18129948334701227"
-    },
-    {
-      "slug": "product2d701",
-      "company": "Nexo",
-      "title": "Product Manager",
-      "platform": "x",
-      "postedAt": "2026-09-11T00:15:27.058Z",
-      "postId": "2098203732269830391"
-    },
-    {
-      "slug": "product2d701",
-      "company": "Nexo",
-      "title": "Product Manager",
-      "platform": "threads",
-      "postedAt": "2026-09-11T00:15:27.058Z",
-      "postId": "17872141389588232",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DdIGdLVjZrw",
-      "account": "hashtagweb3",
-      "expectedText": "Nexo is hiring Product Manager: https://hashtagweb3.com/product2d701/th",
-      "verification": "verified"
-    },
-    {
-      "slug": "product2d701",
-      "company": "Nexo",
-      "title": "Product Manager",
-      "platform": "bluesky",
-      "postedAt": "2026-09-11T00:15:27.058Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mv7bycqlc52l"
-    },
-    {
-      "slug": "product2d701",
-      "company": "Nexo",
-      "title": "Product Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-11T00:15:27.058Z",
-      "postId": "0x4fae3d1b97ca6f2dba81d04579d74f0f515b32ce"
-    },
-    {
-      "slug": "product2d701",
-      "company": "Nexo",
-      "title": "Product Manager",
-      "platform": "linkedin",
-      "postedAt": "2026-09-11T00:15:27.058Z",
-      "postId": "6aa3483671ba1c02ccee47e7"
-    },
-    {
-      "slug": "product2d701",
-      "company": "Nexo",
-      "title": "Product Manager",
-      "platform": "facebook",
-      "postedAt": "2026-09-11T00:15:27.058Z",
-      "postId": "691827047618629_1085237464083488"
-    },
-    {
-      "slug": "product2d701",
-      "company": "Nexo",
-      "title": "Product Manager",
-      "platform": "instagram",
-      "postedAt": "2026-09-11T00:15:27.058Z",
-      "postId": "18215585131347064"
-    },
-    {
-      "slug": "manager9dd0f",
-      "company": "Crypto.com",
-      "title": "Finance Manager",
-      "platform": "x",
-      "postedAt": "2026-09-11T06:07:49.196Z",
-      "postId": "2098292408954003795"
-    },
-    {
-      "slug": "manager9dd0f",
-      "company": "Crypto.com",
-      "title": "Finance Manager",
-      "platform": "threads",
-      "postedAt": "2026-09-11T06:07:49.196Z",
-      "postId": "18068158430741502",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DdIux_3luFG",
-      "account": "hashtagweb3",
-      "expectedText": "Crypto.com is hiring Finance Manager: https://hashtagweb3.com/manager9dd0f/th",
-      "verification": "verified"
-    },
-    {
-      "slug": "manager9dd0f",
-      "company": "Crypto.com",
-      "title": "Finance Manager",
-      "platform": "bluesky",
-      "postedAt": "2026-09-11T06:07:49.196Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mv7vojaer52e"
-    },
-    {
-      "slug": "manager9dd0f",
-      "company": "Crypto.com",
-      "title": "Finance Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-11T06:07:49.196Z",
-      "postId": "0xaad0431cd35469a39c7ab3feda7069bc87114f7c"
-    },
-    {
-      "slug": "manager9dd0f",
-      "company": "Crypto.com",
-      "title": "Finance Manager",
-      "platform": "linkedin",
-      "postedAt": "2026-09-11T06:07:49.196Z",
-      "postId": "6aa39ad074b1f1d0ccd3e754"
-    },
-    {
-      "slug": "manager9dd0f",
-      "company": "Crypto.com",
-      "title": "Finance Manager",
-      "platform": "facebook",
-      "postedAt": "2026-09-11T06:07:49.196Z",
-      "postId": "691827047618629_1085429117397656"
-    },
-    {
-      "slug": "manager9dd0f",
-      "company": "Crypto.com",
-      "title": "Finance Manager",
-      "platform": "instagram",
-      "postedAt": "2026-09-11T06:07:49.196Z",
-      "postId": "18115476671049632"
-    },
-    {
-      "slug": "sales202",
-      "company": "Brale",
-      "title": "Account Executive",
-      "platform": "x",
-      "postedAt": "2026-09-11T06:09:13.937Z",
-      "postId": "2098292764077420802"
-    },
-    {
-      "slug": "sales202",
-      "company": "Brale",
-      "title": "Account Executive",
-      "platform": "threads",
-      "postedAt": "2026-09-11T06:09:13.937Z",
-      "postId": "17860436346695037",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DdIu8VrlKfi",
-      "account": "hashtagweb3",
-      "expectedText": "Brale is hiring Account Executive: https://hashtagweb3.com/sales202/th",
-      "verification": "verified"
-    },
-    {
-      "slug": "sales202",
-      "company": "Brale",
-      "title": "Account Executive",
-      "platform": "bluesky",
-      "postedAt": "2026-09-11T06:09:13.937Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mv7vquiquq2e"
-    },
-    {
-      "slug": "sales202",
-      "company": "Brale",
-      "title": "Account Executive",
-      "platform": "farcaster",
-      "postedAt": "2026-09-11T06:09:13.937Z",
-      "postId": "0x65917e6adb956f55e860517880b6e2b7668829c1"
-    },
-    {
-      "slug": "sales202",
-      "company": "Brale",
-      "title": "Account Executive",
-      "platform": "linkedin",
-      "postedAt": "2026-09-11T06:09:13.937Z",
-      "postId": "6aa39b1f85199affc943d0ba"
-    },
-    {
-      "slug": "sales202",
-      "company": "Brale",
-      "title": "Account Executive",
-      "platform": "facebook",
-      "postedAt": "2026-09-11T06:09:13.937Z",
-      "postId": "691827047618629_1085429874064247"
-    },
-    {
-      "slug": "sales202",
-      "company": "Brale",
-      "title": "Account Executive",
-      "platform": "instagram",
-      "postedAt": "2026-09-11T06:09:13.937Z",
-      "postId": "17954658303249793"
     },
     {
       "slug": "analyst41667",
@@ -1248,195 +1010,6 @@
       "platform": "instagram",
       "postedAt": "2026-09-14T10:10:00.283Z",
       "postId": "18067069187768744",
-      "verification": "verified"
-    },
-    {
-      "slug": "analystb44ed",
-      "company": "Coinhako",
-      "title": "Data Analyst Intern (Finance) - January to May 2027",
-      "platform": "threads",
-      "postedAt": "2026-09-14T11:31:50.648Z",
-      "postId": "18122898982684600",
-      "verification": "verified",
-      "expectedText": "Coinhako is hiring Data Analyst Intern (Finance) - January to May 2027: https://hashtagweb3.com/analystb44ed/th?og=2",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DdRCP3eGylu",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "analystb44ed",
-      "company": "Coinhako",
-      "title": "Data Analyst Intern (Finance) - January to May 2027",
-      "platform": "bluesky",
-      "postedAt": "2026-09-14T11:31:50.648Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mvhz6klns52l",
-      "verification": "verified"
-    },
-    {
-      "slug": "analystb44ed",
-      "company": "Coinhako",
-      "title": "Data Analyst Intern (Finance) - January to May 2027",
-      "platform": "farcaster",
-      "postedAt": "2026-09-14T11:31:50.648Z",
-      "postId": "0x9108b63b00ae73524913c745cde2d3a18ced2aa3",
-      "verification": "verified"
-    },
-    {
-      "slug": "analystb44ed",
-      "company": "Coinhako",
-      "title": "Data Analyst Intern (Finance) - January to May 2027",
-      "platform": "linkedin",
-      "postedAt": "2026-09-14T11:31:50.648Z",
-      "postId": "6aa7db3e01af446ac124d346",
-      "verification": "verified"
-    },
-    {
-      "slug": "analystb44ed",
-      "company": "Coinhako",
-      "title": "Data Analyst Intern (Finance) - January to May 2027",
-      "platform": "facebook",
-      "postedAt": "2026-09-14T11:31:50.648Z",
-      "postId": "691827047618629_1088118557128712",
-      "verification": "verified"
-    },
-    {
-      "slug": "analystb44ed",
-      "company": "Coinhako",
-      "title": "Data Analyst Intern (Finance) - January to May 2027",
-      "platform": "instagram",
-      "postedAt": "2026-09-14T11:31:50.648Z",
-      "postId": "17869014558640612",
-      "verification": "verified"
-    },
-    {
-      "slug": "marketingddc52",
-      "company": "Kraken",
-      "title": "Staff Engineer - Growth - Verifications",
-      "platform": "x",
-      "postedAt": "2026-09-14T12:02:18.511Z",
-      "postId": "2099468782389580091",
-      "verification": "verified"
-    },
-    {
-      "slug": "marketingddc52",
-      "company": "Kraken",
-      "title": "Staff Engineer - Growth - Verifications",
-      "platform": "threads",
-      "postedAt": "2026-09-14T12:02:18.511Z",
-      "postId": "17908850589521841",
-      "verification": "verified",
-      "expectedText": "Kraken is hiring Staff Engineer - Growth - Verifications: https://hashtagweb3.com/marketingddc52/th?og=2",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DdRFvBqIEBQ",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "marketingddc52",
-      "company": "Kraken",
-      "title": "Staff Engineer - Growth - Verifications",
-      "platform": "bluesky",
-      "postedAt": "2026-09-14T12:02:18.511Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mvi2v3o2n32n",
-      "verification": "verified"
-    },
-    {
-      "slug": "marketingddc52",
-      "company": "Kraken",
-      "title": "Staff Engineer - Growth - Verifications",
-      "platform": "farcaster",
-      "postedAt": "2026-09-14T12:02:18.511Z",
-      "postId": "0x1c164e221301cc0785d4da6c47449422280d9986",
-      "verification": "verified"
-    },
-    {
-      "slug": "marketingddc52",
-      "company": "Kraken",
-      "title": "Staff Engineer - Growth - Verifications",
-      "platform": "linkedin",
-      "postedAt": "2026-09-14T12:02:18.511Z",
-      "postId": "6aa7e263ccb7f1c4f84ea47d",
-      "verification": "verified"
-    },
-    {
-      "slug": "marketingddc52",
-      "company": "Kraken",
-      "title": "Staff Engineer - Growth - Verifications",
-      "platform": "facebook",
-      "postedAt": "2026-09-14T12:02:18.511Z",
-      "postId": "691827047618629_1088138717126696",
-      "verification": "verified"
-    },
-    {
-      "slug": "marketingddc52",
-      "company": "Kraken",
-      "title": "Staff Engineer - Growth - Verifications",
-      "platform": "instagram",
-      "postedAt": "2026-09-14T12:02:18.511Z",
-      "postId": "17968011321173524",
-      "verification": "verified"
-    },
-    {
-      "slug": "analyst56101",
-      "company": "BVNK",
-      "title": "Ongoing Monitoring Analyst",
-      "platform": "x",
-      "postedAt": "2026-09-14T14:14:52.093Z",
-      "postId": "2099502142142951524",
-      "verification": "verified"
-    },
-    {
-      "slug": "analyst56101",
-      "company": "BVNK",
-      "title": "Ongoing Monitoring Analyst",
-      "platform": "threads",
-      "postedAt": "2026-09-14T14:14:52.093Z",
-      "postId": "17970017475007113",
-      "verification": "verified",
-      "expectedText": "BVNK is hiring Ongoing Monitoring Analyst: https://hashtagweb3.com/analyst56101/th?og=2",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DdRU54wm4S3",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "analyst56101",
-      "company": "BVNK",
-      "title": "Ongoing Monitoring Analyst",
-      "platform": "bluesky",
-      "postedAt": "2026-09-14T14:14:52.093Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mvicc2sm2v2i",
-      "verification": "verified"
-    },
-    {
-      "slug": "analyst56101",
-      "company": "BVNK",
-      "title": "Ongoing Monitoring Analyst",
-      "platform": "farcaster",
-      "postedAt": "2026-09-14T14:14:52.093Z",
-      "postId": "0x2adf0ab00eb8a87b6df22b51665d9d80bda3a555",
-      "verification": "verified"
-    },
-    {
-      "slug": "analyst56101",
-      "company": "BVNK",
-      "title": "Ongoing Monitoring Analyst",
-      "platform": "linkedin",
-      "postedAt": "2026-09-14T14:14:52.093Z",
-      "postId": "6aa80173dde457acdb074a59",
-      "verification": "verified"
-    },
-    {
-      "slug": "analyst56101",
-      "company": "BVNK",
-      "title": "Ongoing Monitoring Analyst",
-      "platform": "facebook",
-      "postedAt": "2026-09-14T14:14:52.093Z",
-      "postId": "691827047618629_1088234350450466",
-      "verification": "verified"
-    },
-    {
-      "slug": "analyst56101",
-      "company": "BVNK",
-      "title": "Ongoing Monitoring Analyst",
-      "platform": "instagram",
-      "postedAt": "2026-09-14T14:14:52.093Z",
-      "postId": "17870085762649795",
       "verification": "verified"
     },
     {
@@ -9840,6 +9413,494 @@
       "platform": "instagram",
       "postedAt": "2026-09-25T11:32:51.488Z",
       "postId": "17992797054051628",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng209",
+      "company": "Stripe",
+      "title": "Design Engineer, Expansion",
+      "platform": "x",
+      "postedAt": "2026-09-25T19:31:39.986Z",
+      "postId": "6ab6cc1c80521ded5514645e",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Stripe is hiring Design Engineer, Expansion\n\nhttps://hashtagweb3.com/eng209/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2103568135932498050"
+    },
+    {
+      "slug": "eng209",
+      "company": "Stripe",
+      "title": "Design Engineer, Expansion",
+      "platform": "threads",
+      "postedAt": "2026-09-25T19:31:39.986Z",
+      "postId": "18333556549275800",
+      "verification": "verified",
+      "expectedText": "Stripe is hiring Design Engineer, Expansion: https://hashtagweb3.com/eng209/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DduN6JTD9Ex",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "eng209",
+      "company": "Stripe",
+      "title": "Design Engineer, Expansion",
+      "platform": "bluesky",
+      "postedAt": "2026-09-25T19:31:39.986Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwej4jyift2t",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng209",
+      "company": "Stripe",
+      "title": "Design Engineer, Expansion",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T19:31:39.986Z",
+      "postId": "0x5c468eb0d150eb424729e56529f39228ba6313c9",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng209",
+      "company": "Stripe",
+      "title": "Design Engineer, Expansion",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T19:31:39.986Z",
+      "postId": "0x8121928ed8276208db5f1b99db8494bf0318ce82",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng209",
+      "company": "Stripe",
+      "title": "Design Engineer, Expansion",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T19:31:39.986Z",
+      "postId": "0xeac64c65659e2718eeedf10631a3d1019ec69793",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng209",
+      "company": "Stripe",
+      "title": "Design Engineer, Expansion",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T19:31:39.986Z",
+      "postId": "0x2d68510b9c3c993cc3f441847844a27df1e09ab7",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng209",
+      "company": "Stripe",
+      "title": "Design Engineer, Expansion",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T19:31:39.986Z",
+      "postId": "0x98806687e20152eace6124a9e7b75dfb53596cb3",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng209",
+      "company": "Stripe",
+      "title": "Design Engineer, Expansion",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T19:31:39.986Z",
+      "postId": "0x214867894fd8b505b7426903d9ae562f07342be3",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng209",
+      "company": "Stripe",
+      "title": "Design Engineer, Expansion",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T19:31:39.986Z",
+      "postId": "0x2409c62721a610dbc2ae2cf001850f058a255c6b",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng209",
+      "company": "Stripe",
+      "title": "Design Engineer, Expansion",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T19:31:39.986Z",
+      "postId": "0x03422c18bd4ecfb3d586b8d81c006273ac0c66ee",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng209",
+      "company": "Stripe",
+      "title": "Design Engineer, Expansion",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T19:31:39.986Z",
+      "postId": "0xe993af69175395544a0be4015e765265576fa5e8",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng209",
+      "company": "Stripe",
+      "title": "Design Engineer, Expansion",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T19:31:39.986Z",
+      "postId": "0x50adf5e1cc2ff4e9f6b6ca243a37db0c808c96ea",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng209",
+      "company": "Stripe",
+      "title": "Design Engineer, Expansion",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T19:31:39.986Z",
+      "postId": "0x132fcb77deaed0cc1a9fbbf9a56b1e2cc281b803",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng209",
+      "company": "Stripe",
+      "title": "Design Engineer, Expansion",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T19:31:39.986Z",
+      "postId": "0x32f4941e780423f0f3b4005829937eeca50da963",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng209",
+      "company": "Stripe",
+      "title": "Design Engineer, Expansion",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T19:31:39.986Z",
+      "postId": "0xe8c5dec542b555869171e832f1e5f2adfd03e355",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng209",
+      "company": "Stripe",
+      "title": "Design Engineer, Expansion",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T19:31:39.986Z",
+      "postId": "0x022e39cf47ce041f60e9041d5ed7844f7cb51e1c",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng209",
+      "company": "Stripe",
+      "title": "Design Engineer, Expansion",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T19:31:39.986Z",
+      "postId": "0x8ae9b107af53b8f0478f2d42671102e657163482",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng209",
+      "company": "Stripe",
+      "title": "Design Engineer, Expansion",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T19:31:39.986Z",
+      "postId": "0x987307af5bc1aa9e13dc3f7a0cd9533bf4f55d31",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng209",
+      "company": "Stripe",
+      "title": "Design Engineer, Expansion",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T19:31:39.986Z",
+      "postId": "0xdbcb4432e9523454dd17799256257c095ac953e4",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng209",
+      "company": "Stripe",
+      "title": "Design Engineer, Expansion",
+      "platform": "linkedin",
+      "postedAt": "2026-09-25T19:31:39.986Z",
+      "postId": "6ab6cc31914867df7192aa55",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng209",
+      "company": "Stripe",
+      "title": "Design Engineer, Expansion",
+      "platform": "linkedin",
+      "postedAt": "2026-09-25T19:31:39.986Z",
+      "postId": "6ab6cc3bdffba3cec6e240bf",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng209",
+      "company": "Stripe",
+      "title": "Design Engineer, Expansion",
+      "platform": "facebook",
+      "postedAt": "2026-09-25T19:31:39.986Z",
+      "postId": "691827047618629_1097967336143834",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng209",
+      "company": "Stripe",
+      "title": "Design Engineer, Expansion",
+      "platform": "instagram",
+      "postedAt": "2026-09-25T19:31:39.986Z",
+      "postId": "18098392184645336",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng298",
+      "company": "Ava Labs",
+      "title": "Senior Software Engineer, Core",
+      "platform": "x",
+      "postedAt": "2026-09-25T19:32:44.443Z",
+      "postId": "6ab6cc5c914867df7192ae5f",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Ava Labs is hiring Senior Software Engineer, Core\n\nhttps://hashtagweb3.com/eng298/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2103568405576004026"
+    },
+    {
+      "slug": "eng298",
+      "company": "Ava Labs",
+      "title": "Senior Software Engineer, Core",
+      "platform": "threads",
+      "postedAt": "2026-09-25T19:32:44.443Z",
+      "postId": "18121941646939047",
+      "verification": "verified",
+      "expectedText": "Ava Labs is hiring Senior Software Engineer, Core: https://hashtagweb3.com/eng298/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DduOB13DxH-",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "eng298",
+      "company": "Ava Labs",
+      "title": "Senior Software Engineer, Core",
+      "platform": "bluesky",
+      "postedAt": "2026-09-25T19:32:44.443Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwej6gc5qt2i",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng298",
+      "company": "Ava Labs",
+      "title": "Senior Software Engineer, Core",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T19:32:44.443Z",
+      "postId": "0x8bff84304bc78ef6fa95758fef7f65393e1b3127",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng298",
+      "company": "Ava Labs",
+      "title": "Senior Software Engineer, Core",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T19:32:44.443Z",
+      "postId": "0x8038ac8eb235d07ad6886159c617c64da45368a8",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng298",
+      "company": "Ava Labs",
+      "title": "Senior Software Engineer, Core",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T19:32:44.443Z",
+      "postId": "0x4ee106859a73757be339606baae8ea58415312ca",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng298",
+      "company": "Ava Labs",
+      "title": "Senior Software Engineer, Core",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T19:32:44.443Z",
+      "postId": "0xc6489ee3e9e8818446d816c5cb0b3b89ee1befbf",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng298",
+      "company": "Ava Labs",
+      "title": "Senior Software Engineer, Core",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T19:32:44.443Z",
+      "postId": "0x909ba2879b19aeb0f4ba9d10bec2e4ee84266396",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng298",
+      "company": "Ava Labs",
+      "title": "Senior Software Engineer, Core",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T19:32:44.443Z",
+      "postId": "0x269f38f3725041c88271b3ab41726816796858e4",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng298",
+      "company": "Ava Labs",
+      "title": "Senior Software Engineer, Core",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T19:32:44.443Z",
+      "postId": "0x411bcc2942aeb1413e65b29087b5253468eff785",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng298",
+      "company": "Ava Labs",
+      "title": "Senior Software Engineer, Core",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T19:32:44.443Z",
+      "postId": "0x785e39ed3aaaa7499a7c99efeaf708800aa509a8",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng298",
+      "company": "Ava Labs",
+      "title": "Senior Software Engineer, Core",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T19:32:44.443Z",
+      "postId": "0x47bdf56a80a87a547eedfdb9ad7ce8d2eff1da3c",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng298",
+      "company": "Ava Labs",
+      "title": "Senior Software Engineer, Core",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T19:32:44.443Z",
+      "postId": "0x16a7c723708539199d668d2f6d65ebd8bd82dfaa",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng298",
+      "company": "Ava Labs",
+      "title": "Senior Software Engineer, Core",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T19:32:44.443Z",
+      "postId": "0x11d4fd3c91c5ae660c1adcaff6f2026fd79f651d",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng298",
+      "company": "Ava Labs",
+      "title": "Senior Software Engineer, Core",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T19:32:44.443Z",
+      "postId": "0x0566a6c945be592d97035eb1793af56ba1d20974",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng298",
+      "company": "Ava Labs",
+      "title": "Senior Software Engineer, Core",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T19:32:44.443Z",
+      "postId": "0x01c627639d6b38478b666d63c1456b772868edc8",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng298",
+      "company": "Ava Labs",
+      "title": "Senior Software Engineer, Core",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T19:32:44.443Z",
+      "postId": "0x674f563c01fa669c0fa39b138aee95daf89c0004",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng298",
+      "company": "Ava Labs",
+      "title": "Senior Software Engineer, Core",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T19:32:44.443Z",
+      "postId": "0x61ea8e7e54d63cb3d3bb837c82c0f1c4924ee2c6",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng298",
+      "company": "Ava Labs",
+      "title": "Senior Software Engineer, Core",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T19:32:44.443Z",
+      "postId": "0xbf68bc673d19964a5ab35ad933e102a9af6ee476",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng298",
+      "company": "Ava Labs",
+      "title": "Senior Software Engineer, Core",
+      "platform": "farcaster",
+      "postedAt": "2026-09-25T19:32:44.443Z",
+      "postId": "0x40cf4e13879cab4aec9f31a0b04b80114fa774e1",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng298",
+      "company": "Ava Labs",
+      "title": "Senior Software Engineer, Core",
+      "platform": "linkedin",
+      "postedAt": "2026-09-25T19:32:44.443Z",
+      "postId": "6ab6cc71dffba3cec6e2448a",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng298",
+      "company": "Ava Labs",
+      "title": "Senior Software Engineer, Core",
+      "platform": "linkedin",
+      "postedAt": "2026-09-25T19:32:44.443Z",
+      "postId": "6ab6cc7cb097c5b401a05992",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng298",
+      "company": "Ava Labs",
+      "title": "Senior Software Engineer, Core",
+      "platform": "facebook",
+      "postedAt": "2026-09-25T19:32:44.443Z",
+      "postId": "691827047618629_1097968122810422",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng298",
+      "company": "Ava Labs",
+      "title": "Senior Software Engineer, Core",
+      "platform": "instagram",
+      "postedAt": "2026-09-25T19:32:44.443Z",
+      "postId": "18113693840026983",
       "verification": "verified"
     }
   ]
