@@ -6,7 +6,6 @@ import { PageShell } from '@/components/page-shell';
 import { ContactForm } from '@/components/contact-form';
 import { Button } from '@/components/ui/button';
 import { Card, CardContent } from '@/components/ui/card';
-import { communityPhotos } from '@/lib/community-data';
 
 export const revalidate = 86400;
 
@@ -32,7 +31,7 @@ export default function ContactPage() {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schemaData) }} />
       <PageShell>
         <div className="space-y-14 py-6 sm:space-y-18 sm:py-10">
-          <EditorialPageHero eyebrow="Contact Hashtag Web3" title="Bring the right question to the right room." description="Tell us what you are building, hiring for, or trying to connect. We will route it to the team closest to the work." image={communityPhotos[10].src} imageAlt={communityPhotos[10].alt}>
+          <EditorialPageHero eyebrow="Contact Hashtag Web3" title="Bring the right question to the right room." description="Tell us what you are building, hiring for, or trying to connect. We will route it to the team closest to the work.">
             <a href="mailto:contact@hashtagweb3.com"><Button size="lg">Email the team <ArrowUpRight className="ml-2 h-4 w-4" /></Button></a>
             <a href="https://t.me/web3jobs_rep" target="_blank" rel="noopener noreferrer"><Button size="lg" variant="outline"><Send className="mr-2 h-4 w-4" /> Telegram</Button></a>
           </EditorialPageHero>

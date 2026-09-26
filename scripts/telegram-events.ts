@@ -3,16 +3,25 @@ import path from 'path';
 import dotenv from 'dotenv';
 import { getEvents } from '../src/lib/events-server';
 import { formatEventDate, getEventSlug, normalizeCountry } from '../src/lib/events';
+import { EVENTS_REPLY_MARKUP, queueEventMirror, deliverEventMirrors, type EventMirrorQueue } from './lib/telegram-event-mirror';
 
 dotenv.config({ path: path.join(process.cwd(), '.env.local') });
 
 const botToken = process.env.TELEGRAM_BOT_TOKEN;
 const channelId = process.env.TELEGRAM_EVENTS_CHANNEL_ID || process.env.TELEGRAM_HW3_GROUP_ID;
 const threadId = process.env.TELEGRAM_THREAD_ID;
+const mirrorChannelId = process.env.TELEGRAM_EVENTS_MIRROR_CHANNEL_ID;
 const dryRun = process.argv.includes('--dry-run');
 const statePath = path.join(process.cwd(), `.telegram-events-posted-${(channelId || '').replace(/[^a-zA-Z0-9]/g, '')}.json`);
 const cooldownPath = path.join(process.cwd(), `.telegram-events-last-${(channelId || '').replace(/[^a-zA-Z0-9]/g, '')}.json`);
 const cooldownHours = 4;
+const mirrorPath = path.join(process.cwd(), `.telegram-events-mirrors-${(channelId || '').replace(/[^a-zA-Z0-9]/g, '')}.json`);
+const mirrors: EventMirrorQueue = fs.existsSync(mirrorPath) ? JSON.parse(fs.readFileSync(mirrorPath, 'utf8')) : {};
+function saveMirrors(): void {
+  const temporary = `${mirrorPath}.tmp`;
+  fs.writeFileSync(temporary, `${JSON.stringify(mirrors, null, 2)}\n`);
+  fs.renameSync(temporary, mirrorPath);
+}
 const web3Title = /\b(web3|crypto|blockchain|bitcoin|btc|ethereum|eth\w*|defi|solana|arbitrum|optimism|base|polygon|chainlink|avalanche|avax|zk|zero knowledge|onchain|on-chain|token|stablecoin|wallet|dapp|smart contract|hackathon)\b/i;
 
 if (!dryRun && (!botToken || !channelId || !threadId)) {
@@ -60,6 +69,10 @@ function onCooldown(): boolean {
 
 async function main() {
   if (onCooldown()) {
+    if (!dryRun && mirrorChannelId) {
+      const failures = await deliverEventMirrors(mirrors, botToken!, saveMirrors);
+      if (failures.length) throw new Error(`Event mirror pending: ${failures.join('; ')}`);
+    }
     console.log('Events digest is still on cooldown.');
     return;
   }
@@ -84,6 +97,7 @@ async function main() {
   }).join('\n\n');
 
   if (dryRun) {
+    console.log(`Event destinations: ${channelId || '(group)'} topic ${threadId || '(unset)'}${mirrorChannelId ? ` + ${mirrorChannelId}` : ''}`);
     console.log(
       message.replace(/<a href="[^"]*">([^<]*)<\/a>/g, '$1').replace(/<\/?[^>]+>/g, ''),
     );
@@ -100,23 +114,25 @@ async function main() {
       parse_mode: 'HTML',
       disable_web_page_preview: true,
       link_preview_options: { is_disabled: true },
-      reply_markup: {
-        inline_keyboard: [[
-          {
-            text: 'More Events',
-            url: 'https://hashtagweb3.com/events/tg',
-          },
-        ]],
-      },
+      reply_markup: EVENTS_REPLY_MARKUP,
     }),
   });
   const data = await response.json();
-  if (!data.ok) throw new Error(`Telegram API error: ${JSON.stringify(data)}`);
+  if (!data.ok || !Number.isInteger(data.result?.message_id) || data.result.message_id <= 0) throw new Error('Telegram event post failed or returned no message receipt');
+
+  if (mirrorChannelId) {
+    queueEventMirror(mirrors, channelId!, data.result.message_id, mirrorChannelId);
+    saveMirrors();
+  }
 
   selected.forEach((event) => posted.add(event.id));
   fs.writeFileSync(statePath, JSON.stringify([...posted].slice(-500), null, 2));
   fs.writeFileSync(cooldownPath, JSON.stringify({ postedAt: new Date().toISOString() }));
   console.log(`Posted ${selected.length} events to ${channelId} topic ${threadId}; message ID ${data.result.message_id}.`);
+  if (mirrorChannelId) {
+    const failures = await deliverEventMirrors(mirrors, botToken!, saveMirrors);
+    if (failures.length) throw new Error(`Group post succeeded; event mirror pending: ${failures.join('; ')}`);
+  }
 }
 
 main().catch((error) => {

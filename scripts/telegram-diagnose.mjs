@@ -32,18 +32,21 @@ async function resolve(token, chatId, label) {
   }
   const me = await api(token, 'getMe');
   let member = null;
+  let canPostMessages = null;
   if (me.ok) {
     const mem = await api(token, 'getChatMember', {
       chat_id: chatId,
       user_id: me.result.id,
     });
     member = mem.ok ? mem.result.status : `fail:${mem.description}`;
+    canPostMessages = mem.ok ? mem.result.can_post_messages ?? null : null;
   }
   return {
     label,
     input: String(chatId).startsWith('@') ? String(chatId) : '(secret-or-numeric)',
     ok: true,
     member,
+    canPostMessages,
     ...summarizeChat(info.result),
   };
 }
@@ -90,6 +93,7 @@ async function main() {
     ['TELEGRAM_HW3_GROUP_ID', process.env.TELEGRAM_HW3_GROUP_ID],
     ['literal:@web3newsfeed', '@web3newsfeed'],
     ['literal:@web3hiring', '@web3hiring'],
+    ['literal:@eventsweb3', '@eventsweb3'],
     ['literal:@hashtag_ai', '@hashtag_ai'],
   ]);
 
