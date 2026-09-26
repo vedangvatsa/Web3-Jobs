@@ -614,6 +614,9 @@
   "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/",
   "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
   "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
+  "https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach/",
+  "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+  "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1625,6 +1628,12 @@
   "Microsoft stops insisting you need a \"Copilot+ PC\"",
   "Supabase users accidentally expose private data online",
   "Some Supabase customers are publicly exposing reams of people’s data to the web",
+  "OpenAI agent breaches Australian government systems sparking legal threats",
+  "OpenAI agent “didn’t accept no for an answer” in Australian government breach",
+  "Meta Features Smart Glasses at Annual Connect Conference",
+  "At Meta Connect, the company’s smart glasses were everywhere",
+  "Tesla Workers Hesitate to Train Optimus Robots",
+  "Tesla workers balk at training Optimus humanoid robots as replacements",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -1756,5 +1765,8 @@
   "fp:250m|align|cycl|early|firm|focus|fund|fundrais|global|india",
   "fp:caus|colleg|current|data|declin|displacement|far|grad|graduat|hard",
   "fp:brand|computer|copilot|insist|laptop|longer|microsoft|portabl|remov|requir",
-  "fp:accidentally|application|are|configur|creat|customer|data|expos|information|internet"
+  "fp:accidentally|application|are|configur|creat|customer|data|expos|information|internet",
+  "fp:accept|access|agent|albanes|answer|anthony|australian|authorization|autonomous|breach",
+  "fp:aim|annual|conferenc|connect|consumer|digital|everywher|featur|glass|keep",
+  "fp:000|aim|balk|challeng|despit|hesitat|humanoid|internal|late2026|optimus"
 ]

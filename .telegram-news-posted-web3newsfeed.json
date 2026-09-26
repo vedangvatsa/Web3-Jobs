@@ -623,6 +623,9 @@
   "https://hashtagweb3.com/ark-venture?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/fed-stablecoin?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/polymarket-lawsuit?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/duelbits-hack?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/eden-exploit?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/eqibank-seizure?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -1775,6 +1778,12 @@
   "Federal Reserve proposes reserve and capital rules for stablecoin issuers under GENIUS Act",
   "New York Sues Polymarket Over Unlicensed Gambling Operations",
   "New York sues Polymarket alleging unlicensed gambling operation",
+  "Duelbits Confirms $7 Million Hot-Wallet Hack",
+  "Duelbits confirms $7 million hot-wallet hack and extends casino downtime",
+  "Magic Eden Warns of Exploit in Old NFT Listings",
+  "Magic Eden warns old Ethereum NFT listings were exposed to contract exploit",
+  "US seeks forfeiture of $84.2 million from Tether partner",
+  "US prosecutors target $84.2 million tied to Tether banking partner in forfeiture case",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -1930,5 +1939,8 @@
   "fp:block|board|compensation|equity|exist|firm|investor|keep|los|packag",
   "fp:anthropic|ark|bas|databrick|eligibl|exposur|fund|gain|includ|invest",
   "fp:act|application|capital|comment|day|federal|genius|issuer|open|period",
-  "fp:activity|alleg|are|ban|financial|gambl|illegal|official|operation|penalty"
+  "fp:activity|alleg|are|ban|financial|gambl|illegal|official|operation|penalty",
+  "fp:breach|casino|chain|confirm|downtim|duelbit|extend|follow|fund|hack",
+  "fp:000|57m|affect|contract|eden|exploit|expos|list|magic|marketplac",
+  "fp:842m|against|bank|capston|cas|civil|claim|complaint|exposur|federal"
 ]

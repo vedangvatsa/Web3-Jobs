@@ -2457,10 +2457,11 @@
       "engineer672",
       "eng90",
       "eng166",
-      "eng187"
+      "eng187",
+      "eng324"
     ],
-    "lastSlug": "eng187",
-    "lastUrl": "https://hashtagweb3.com/eng187",
+    "lastSlug": "eng324",
+    "lastUrl": "https://hashtagweb3.com/eng324",
     "updatedAt": "2026-09-15T19:44:53.803Z"
   },
   "3d9efc42-b297-4707-8e00-4c665411a47a": {
@@ -6118,34 +6119,85 @@
   },
   "8647730002": {
     "slugs": [
-      "workday"
+      "workday",
+      "workday30002",
+      "workday1",
+      "workday-0hzj370"
     ],
-    "lastSlug": "workday",
-    "lastUrl": "https://hashtagweb3.com/workday",
+    "lastSlug": "workday-0hzj370",
+    "lastUrl": "https://hashtagweb3.com/workday-0hzj370",
     "updatedAt": "2026-09-25T19:33:14.891Z"
   },
   "7780897003": {
     "slugs": [
-      "devops68"
+      "devops68",
+      "devops97003",
+      "devops-098fgqa"
     ],
-    "lastSlug": "devops68",
-    "lastUrl": "https://hashtagweb3.com/devops68",
+    "lastSlug": "devops-098fgqa",
+    "lastUrl": "https://hashtagweb3.com/devops-098fgqa",
     "updatedAt": "2026-09-25T19:33:15.085Z"
   },
   "5591d4cf-38fc-424a-adca-689af3ba80a5": {
     "slugs": [
-      "manager174"
+      "manager174",
+      "manager98692",
+      "manager-19qhogl",
+      "managera80a5"
     ],
-    "lastSlug": "manager174",
-    "lastUrl": "https://hashtagweb3.com/manager174",
+    "lastSlug": "managera80a5",
+    "lastUrl": "https://hashtagweb3.com/managera80a5",
     "updatedAt": "2026-09-25T19:33:15.360Z"
   },
   "8604775002": {
     "slugs": [
-      "security121"
+      "security121",
+      "security75002",
+      "role75002",
+      "security59"
     ],
-    "lastSlug": "security121",
-    "lastUrl": "https://hashtagweb3.com/security121",
+    "lastSlug": "security59",
+    "lastUrl": "https://hashtagweb3.com/security59",
     "updatedAt": "2026-09-25T19:33:15.622Z"
+  },
+  "1e9de1c5-2833-4d32-a398-848115f45371": {
+    "slugs": [
+      "manager561"
+    ],
+    "lastSlug": "manager561",
+    "lastUrl": "https://hashtagweb3.com/manager561",
+    "updatedAt": "2026-09-26T11:33:54.582Z"
+  },
+  "b0b85820a6e6": {
+    "slugs": [
+      "engineer721"
+    ],
+    "lastSlug": "engineer721",
+    "lastUrl": "https://hashtagweb3.com/engineer721",
+    "updatedAt": "2026-09-26T11:33:54.931Z"
+  },
+  "4357039009": {
+    "slugs": [
+      "engineer705"
+    ],
+    "lastSlug": "engineer705",
+    "lastUrl": "https://hashtagweb3.com/engineer705",
+    "updatedAt": "2026-09-26T11:33:55.032Z"
+  },
+  "7ac2190c-cefb-495d-aa3f-92cbb6d165ca": {
+    "slugs": [
+      "writer4"
+    ],
+    "lastSlug": "writer4",
+    "lastUrl": "https://hashtagweb3.com/writer4",
+    "updatedAt": "2026-09-26T11:33:55.133Z"
+  },
+  "tangem-business-development-manager-b2b-apac": {
+    "slugs": [
+      "manager665"
+    ],
+    "lastSlug": "manager665",
+    "lastUrl": "https://hashtagweb3.com/manager665",
+    "updatedAt": "2026-09-26T11:33:55.307Z"
   }
 }
