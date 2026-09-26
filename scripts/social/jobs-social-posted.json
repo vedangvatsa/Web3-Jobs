@@ -1,5 +1,5 @@
 {
-  "lastIndex": 252,
+  "lastIndex": 254,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -89,7 +89,9 @@
     "eng208",
     "mkt44",
     "an44",
-    "sls142"
+    "sls142",
+    "sls141",
+    "mgr73"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -1673,133 +1675,6 @@
       "verification": "verified"
     },
     {
-      "slug": "aso9",
-      "company": "Oasis Network",
-      "title": "Physical Therapist Assistant",
-      "platform": "farcaster",
-      "postedAt": "2026-09-17T17:42:11.746Z",
-      "postId": "0xb7cc54ecb75d72adc4455bf9a69f50d4f6124be6",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "aso9",
-      "company": "Oasis Network",
-      "title": "Physical Therapist Assistant",
-      "platform": "farcaster",
-      "postedAt": "2026-09-17T17:42:11.746Z",
-      "postId": "0xd72ba244ce9d5cf53122cc251a8824dd6105198f",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "aso9",
-      "company": "Oasis Network",
-      "title": "Physical Therapist Assistant",
-      "platform": "farcaster",
-      "postedAt": "2026-09-17T17:42:11.746Z",
-      "postId": "0x0a71e8dd5d26a909ba450f340838bc69ce1a978e",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "aso9",
-      "company": "Oasis Network",
-      "title": "Physical Therapist Assistant",
-      "platform": "farcaster",
-      "postedAt": "2026-09-17T17:42:11.746Z",
-      "postId": "0x3198e67732a3b1343df4fd941feabdd577b94e3e",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "aso9",
-      "company": "Oasis Network",
-      "title": "Physical Therapist Assistant",
-      "platform": "farcaster",
-      "postedAt": "2026-09-17T17:42:11.746Z",
-      "postId": "0x5929753c2a5ffce43455f45afca6d91cb7782cb0",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "aso9",
-      "company": "Oasis Network",
-      "title": "Physical Therapist Assistant",
-      "platform": "farcaster",
-      "postedAt": "2026-09-17T17:42:11.746Z",
-      "postId": "0x908ac767c408e63187e25e8edbd1634896f7fd41",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "aso9",
-      "company": "Oasis Network",
-      "title": "Physical Therapist Assistant",
-      "platform": "farcaster",
-      "postedAt": "2026-09-17T17:42:11.746Z",
-      "postId": "0x4cb0a9d69b6010997f6a8d9dd3288336c10e882f",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "aso9",
-      "company": "Oasis Network",
-      "title": "Physical Therapist Assistant",
-      "platform": "farcaster",
-      "postedAt": "2026-09-17T17:42:11.746Z",
-      "postId": "0x5953835a5db55fe782ac9667f6d7fb4b60a4a773",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "aso9",
-      "company": "Oasis Network",
-      "title": "Physical Therapist Assistant",
-      "platform": "farcaster",
-      "postedAt": "2026-09-17T17:42:11.746Z",
-      "postId": "0x729a149561240281b2175f92730be32510cc5a8a",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "aso9",
-      "company": "Oasis Network",
-      "title": "Physical Therapist Assistant",
-      "platform": "farcaster",
-      "postedAt": "2026-09-17T17:42:11.746Z",
-      "postId": "0x18d1781cf6c2f715db75b7efa28c138cd99fcc1a",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "aso9",
-      "company": "Oasis Network",
-      "title": "Physical Therapist Assistant",
-      "platform": "linkedin",
-      "postedAt": "2026-09-17T17:42:11.746Z",
-      "postId": "6aac269557239da1608501fc",
-      "verification": "verified"
-    },
-    {
-      "slug": "aso9",
-      "company": "Oasis Network",
-      "title": "Physical Therapist Assistant",
-      "platform": "facebook",
-      "postedAt": "2026-09-17T17:42:11.746Z",
-      "postId": "691827047618629_1090938226846745",
-      "verification": "verified"
-    },
-    {
-      "slug": "aso9",
-      "company": "Oasis Network",
-      "title": "Physical Therapist Assistant",
-      "platform": "instagram",
-      "postedAt": "2026-09-17T17:42:11.746Z",
-      "postId": "18482350075129106",
-      "verification": "verified"
-    },
-    {
       "slug": "tax8",
       "company": "Alpaca",
       "title": "Head of Tax",
@@ -2224,354 +2099,6 @@
       "platform": "facebook",
       "postedAt": "2026-09-18T00:28:50.769Z",
       "postId": "691827047618629_1091155000158401",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls47",
-      "company": "Coins.ph",
-      "title": "Sales Associate (Vismin)",
-      "platform": "x",
-      "postedAt": "2026-09-21T14:20:04.113Z",
-      "postId": "2102040166256816236",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls47",
-      "company": "Coins.ph",
-      "title": "Sales Associate (Vismin)",
-      "platform": "threads",
-      "postedAt": "2026-09-21T14:20:04.113Z",
-      "postId": "18133643620640172",
-      "verification": "verified",
-      "expectedText": "Coins.ph is hiring Sales Associate (Vismin): https://hashtagweb3.com/sls47/th?og=6",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DdjXEHhG6HC",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "sls47",
-      "company": "Coins.ph",
-      "title": "Sales Associate (Vismin)",
-      "platform": "bluesky",
-      "postedAt": "2026-09-21T14:20:04.113Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mvzvtkp2nt2e",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls47",
-      "company": "Coins.ph",
-      "title": "Sales Associate (Vismin)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-21T14:20:04.113Z",
-      "postId": "0x7af9e00fd564c7819837f7ca84c82d423b7b2c74",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls47",
-      "company": "Coins.ph",
-      "title": "Sales Associate (Vismin)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-21T14:20:04.113Z",
-      "postId": "0x29d09e613a43f21c6ed1c00d825a0a3c43505b13",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls47",
-      "company": "Coins.ph",
-      "title": "Sales Associate (Vismin)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-21T14:20:04.113Z",
-      "postId": "0x0a8d7b7e83d288411ad5700458b8dcdde67d98b0",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls47",
-      "company": "Coins.ph",
-      "title": "Sales Associate (Vismin)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-21T14:20:04.113Z",
-      "postId": "0x3ce2fe5c0a7e11a0bcd47730a035c4ca886364c0",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls47",
-      "company": "Coins.ph",
-      "title": "Sales Associate (Vismin)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-21T14:20:04.113Z",
-      "postId": "0xc14a53c368c6b314d20f55c6f7bbadd414352da6",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls47",
-      "company": "Coins.ph",
-      "title": "Sales Associate (Vismin)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-21T14:20:04.113Z",
-      "postId": "0x9f4f090d5ede2d1f765de09dd1ef1a0f4a977ce2",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls47",
-      "company": "Coins.ph",
-      "title": "Sales Associate (Vismin)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-21T14:20:04.113Z",
-      "postId": "0xa52e7e1f24179bae94ddca59e2656aa02567a823",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls47",
-      "company": "Coins.ph",
-      "title": "Sales Associate (Vismin)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-21T14:20:04.113Z",
-      "postId": "0x0284f8aed00222760bf1fce98b653742d3599c52",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls47",
-      "company": "Coins.ph",
-      "title": "Sales Associate (Vismin)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-21T14:20:04.113Z",
-      "postId": "0x4a00b49a30a43f2aff7ca8007c841f41ee099271",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls47",
-      "company": "Coins.ph",
-      "title": "Sales Associate (Vismin)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-21T14:20:04.113Z",
-      "postId": "0x14a02dee9fca366381b8ac82ddf474b1185c4a80",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls47",
-      "company": "Coins.ph",
-      "title": "Sales Associate (Vismin)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-21T14:20:04.113Z",
-      "postId": "0x3b411150183af63b3d6ecc80d87f73f6ba4aabd8",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls47",
-      "company": "Coins.ph",
-      "title": "Sales Associate (Vismin)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-21T14:20:04.113Z",
-      "postId": "0xdfd8a75711badec39cfc8d7405eb5c43b98dd059",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls47",
-      "company": "Coins.ph",
-      "title": "Sales Associate (Vismin)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-21T14:20:04.113Z",
-      "postId": "0x31942b9ea2229bf545b65b6eeb11c8afe8aa090a",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls47",
-      "company": "Coins.ph",
-      "title": "Sales Associate (Vismin)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-21T14:20:04.113Z",
-      "postId": "0x24bd2ca5507b06f306ed8921605760ab82519392",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls47",
-      "company": "Coins.ph",
-      "title": "Sales Associate (Vismin)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-21T14:20:04.113Z",
-      "postId": "0x33c6a3ae334855e2011011032d668d90fb7a0299",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls47",
-      "company": "Coins.ph",
-      "title": "Sales Associate (Vismin)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-21T14:20:04.113Z",
-      "postId": "0x1db53e4dcb1b73442ca9684d257365a8566741ea",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls47",
-      "company": "Coins.ph",
-      "title": "Sales Associate (Vismin)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-21T14:20:04.113Z",
-      "postId": "0x8a99ea62c54bb1ba00bb27c550e54103ec7ffa6e",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls47",
-      "company": "Coins.ph",
-      "title": "Sales Associate (Vismin)",
-      "platform": "linkedin",
-      "postedAt": "2026-09-21T14:20:04.113Z",
-      "postId": "6ab13d250774ddfe8f757b1b",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls47",
-      "company": "Coins.ph",
-      "title": "Sales Associate (Vismin)",
-      "platform": "facebook",
-      "postedAt": "2026-09-21T14:20:04.113Z",
-      "postId": "691827047618629_1094171546523413",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls47",
-      "company": "Coins.ph",
-      "title": "Sales Associate (Vismin)",
-      "platform": "instagram",
-      "postedAt": "2026-09-21T14:20:04.113Z",
-      "postId": "18045569117632788",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm41",
-      "company": "Merkle Science",
-      "title": "Senior Product Manager",
-      "platform": "threads",
-      "postedAt": "2026-09-21T14:20:56.737Z",
-      "postId": "17883648810620635",
-      "verification": "verified",
-      "expectedText": "Merkle Science is hiring Senior Product Manager: https://hashtagweb3.com/pm41/th?og=6",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DdjXKczG6Dd",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "pm41",
-      "company": "Merkle Science",
-      "title": "Senior Product Manager",
-      "platform": "bluesky",
-      "postedAt": "2026-09-21T14:20:56.737Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mvzvv3enws2n",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm41",
-      "company": "Merkle Science",
-      "title": "Senior Product Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-21T14:20:56.737Z",
-      "postId": "0x6c5cb1440ba56d84a90ab20a49e820d2b33c0a46",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm41",
-      "company": "Merkle Science",
-      "title": "Senior Product Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-21T14:20:56.737Z",
-      "postId": "0x615b75611ac133da62e1bebd20917d4fbf904661",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm41",
-      "company": "Merkle Science",
-      "title": "Senior Product Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-21T14:20:56.737Z",
-      "postId": "0x06333635789e81910b03d0e72c1647d44075c466",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm41",
-      "company": "Merkle Science",
-      "title": "Senior Product Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-21T14:20:56.737Z",
-      "postId": "0x9ad4c3eead0c8e8c5002b869132e0d1384b3b11c",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm41",
-      "company": "Merkle Science",
-      "title": "Senior Product Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-21T14:20:56.737Z",
-      "postId": "0x4a9de422b7f99fa0c19f8ae3bcef5755fd3c8d07",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm41",
-      "company": "Merkle Science",
-      "title": "Senior Product Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-21T14:20:56.737Z",
-      "postId": "0xe992aa015592f3197ed772ba99b20d0445f02952",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm41",
-      "company": "Merkle Science",
-      "title": "Senior Product Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-21T14:20:56.737Z",
-      "postId": "0x62c446c14fab7cea553bcf6f903bedb6ec437e70",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm41",
-      "company": "Merkle Science",
-      "title": "Senior Product Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-21T14:20:56.737Z",
-      "postId": "0xd4a91e4f60cb7607e1ac72242620c6706811d007",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm41",
-      "company": "Merkle Science",
-      "title": "Senior Product Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-21T14:20:56.737Z",
-      "postId": "0xad552095f1db25a5776ccb14e986baf434d95621",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm41",
-      "company": "Merkle Science",
-      "title": "Senior Product Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-21T14:20:56.737Z",
-      "postId": "0xcd2b2383bdf23a895ee5ea323191e434c56e659a",
-      "account": "channel:base",
       "verification": "verified"
     },
     {
@@ -9960,6 +9487,494 @@
       "platform": "instagram",
       "postedAt": "2026-09-26T11:32:36.179Z",
       "postId": "18631183861041276",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls141",
+      "company": "Socket",
+      "title": "Manager, Technical Account Teams (Europe)",
+      "platform": "x",
+      "postedAt": "2026-09-26T19:31:36.837Z",
+      "postId": "6ab81d994b4b9f2c1c562522",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Socket is hiring Manager, Technical Account Teams (Europe)\n\nhttps://hashtagweb3.com/sls141/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2103930510049149440"
+    },
+    {
+      "slug": "sls141",
+      "company": "Socket",
+      "title": "Manager, Technical Account Teams (Europe)",
+      "platform": "threads",
+      "postedAt": "2026-09-26T19:31:36.837Z",
+      "postId": "18029897276851460",
+      "verification": "verified",
+      "expectedText": "Socket is hiring Manager, Technical Account Teams (Europe): https://hashtagweb3.com/sls141/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DdwysdUmiLU",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "sls141",
+      "company": "Socket",
+      "title": "Manager, Technical Account Teams (Europe)",
+      "platform": "bluesky",
+      "postedAt": "2026-09-26T19:31:36.837Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwgzlb7ojy2c",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls141",
+      "company": "Socket",
+      "title": "Manager, Technical Account Teams (Europe)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-26T19:31:36.837Z",
+      "postId": "0xd268ca8e47c5d42d96708a4a8f917cd5f9b53c86",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls141",
+      "company": "Socket",
+      "title": "Manager, Technical Account Teams (Europe)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-26T19:31:36.837Z",
+      "postId": "0x9dd57defaae399350aa6668703115a163367babe",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls141",
+      "company": "Socket",
+      "title": "Manager, Technical Account Teams (Europe)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-26T19:31:36.837Z",
+      "postId": "0x1763598f9f9c380b313385ee86009c0629408fed",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls141",
+      "company": "Socket",
+      "title": "Manager, Technical Account Teams (Europe)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-26T19:31:36.837Z",
+      "postId": "0xabbc56a3fd774d91b843cdc6f2d9355a0aec3323",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls141",
+      "company": "Socket",
+      "title": "Manager, Technical Account Teams (Europe)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-26T19:31:36.837Z",
+      "postId": "0x075efd454df4a965e534292817cdcdc45754e1e3",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls141",
+      "company": "Socket",
+      "title": "Manager, Technical Account Teams (Europe)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-26T19:31:36.837Z",
+      "postId": "0x9c5d0009b618888c85d53f219381e08301e543c9",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls141",
+      "company": "Socket",
+      "title": "Manager, Technical Account Teams (Europe)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-26T19:31:36.837Z",
+      "postId": "0xb4c325198ea6be9f2e5405fd3d8ac53e2a2d7ed3",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls141",
+      "company": "Socket",
+      "title": "Manager, Technical Account Teams (Europe)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-26T19:31:36.837Z",
+      "postId": "0x211f8775a84a98d9f25e745d4cfcc9d2e031f242",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls141",
+      "company": "Socket",
+      "title": "Manager, Technical Account Teams (Europe)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-26T19:31:36.837Z",
+      "postId": "0xbe3ec5aaf5ed9930fc36383015724cfaa626b399",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls141",
+      "company": "Socket",
+      "title": "Manager, Technical Account Teams (Europe)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-26T19:31:36.837Z",
+      "postId": "0xcc4583cfa38ce2da71ab7a30673d5a89bdad7470",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls141",
+      "company": "Socket",
+      "title": "Manager, Technical Account Teams (Europe)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-26T19:31:36.837Z",
+      "postId": "0xebcabaf60d9727259f481a81ced52390164ea69e",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls141",
+      "company": "Socket",
+      "title": "Manager, Technical Account Teams (Europe)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-26T19:31:36.837Z",
+      "postId": "0xd0aba913e42a9eb353f425a0f13dc6deaa20987a",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls141",
+      "company": "Socket",
+      "title": "Manager, Technical Account Teams (Europe)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-26T19:31:36.837Z",
+      "postId": "0x6fff7f598ee29b6092269b43bfe90c522247f22d",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls141",
+      "company": "Socket",
+      "title": "Manager, Technical Account Teams (Europe)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-26T19:31:36.837Z",
+      "postId": "0x21ba578e765c71c91dc8693724de6e045b843149",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls141",
+      "company": "Socket",
+      "title": "Manager, Technical Account Teams (Europe)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-26T19:31:36.837Z",
+      "postId": "0xe6b6238dc841b473b0cff0fd8ad3ad47f3416b08",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls141",
+      "company": "Socket",
+      "title": "Manager, Technical Account Teams (Europe)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-26T19:31:36.837Z",
+      "postId": "0xffbca0fece1126ab8b2388933d0e1741b1ce148f",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls141",
+      "company": "Socket",
+      "title": "Manager, Technical Account Teams (Europe)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-26T19:31:36.837Z",
+      "postId": "0xecbd5e2eecba757f34eec536bf2efa9529ee388e",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls141",
+      "company": "Socket",
+      "title": "Manager, Technical Account Teams (Europe)",
+      "platform": "linkedin",
+      "postedAt": "2026-09-26T19:31:36.837Z",
+      "postId": "6ab81da93d66d464e5bb4b93",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls141",
+      "company": "Socket",
+      "title": "Manager, Technical Account Teams (Europe)",
+      "platform": "linkedin",
+      "postedAt": "2026-09-26T19:31:36.837Z",
+      "postId": "6ab81db405811e573736a118",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls141",
+      "company": "Socket",
+      "title": "Manager, Technical Account Teams (Europe)",
+      "platform": "facebook",
+      "postedAt": "2026-09-26T19:31:36.837Z",
+      "postId": "691827047618629_1098921642715070",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls141",
+      "company": "Socket",
+      "title": "Manager, Technical Account Teams (Europe)",
+      "platform": "instagram",
+      "postedAt": "2026-09-26T19:31:36.837Z",
+      "postId": "18159130810500702",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr73",
+      "company": "Stripe",
+      "title": "Workplace Project Manager",
+      "platform": "x",
+      "postedAt": "2026-09-26T19:32:33.622Z",
+      "postId": "6ab81dd1ccccb9429c384b02",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Stripe is hiring Workplace Project Manager\n\nhttps://hashtagweb3.com/mgr73/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2103930747698421907"
+    },
+    {
+      "slug": "mgr73",
+      "company": "Stripe",
+      "title": "Workplace Project Manager",
+      "platform": "threads",
+      "postedAt": "2026-09-26T19:32:33.622Z",
+      "postId": "18093785837151992",
+      "verification": "verified",
+      "expectedText": "Stripe is hiring Workplace Project Manager: https://hashtagweb3.com/mgr73/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DdwyzXPmrB8",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "mgr73",
+      "company": "Stripe",
+      "title": "Workplace Project Manager",
+      "platform": "bluesky",
+      "postedAt": "2026-09-26T19:32:33.622Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwgzmwvuco2f",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr73",
+      "company": "Stripe",
+      "title": "Workplace Project Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-26T19:32:33.622Z",
+      "postId": "0x6afa3499c50f083a944b887bd8da6ce955c2f5b6",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr73",
+      "company": "Stripe",
+      "title": "Workplace Project Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-26T19:32:33.622Z",
+      "postId": "0x82e3f8624805811a6b46bb72b941828a0e55ac09",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr73",
+      "company": "Stripe",
+      "title": "Workplace Project Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-26T19:32:33.622Z",
+      "postId": "0x7fd493f0389911d7e5fc81e6b1298c63a1377af2",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr73",
+      "company": "Stripe",
+      "title": "Workplace Project Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-26T19:32:33.622Z",
+      "postId": "0x8eba47e7e181ae94072053cd4304b951a74c803a",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr73",
+      "company": "Stripe",
+      "title": "Workplace Project Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-26T19:32:33.622Z",
+      "postId": "0xe31a896312dcbc7f7f84191d933d909e2a37dad1",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr73",
+      "company": "Stripe",
+      "title": "Workplace Project Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-26T19:32:33.622Z",
+      "postId": "0x17cd21a73a24a90ee0143d8b1521e70c229b6be5",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr73",
+      "company": "Stripe",
+      "title": "Workplace Project Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-26T19:32:33.622Z",
+      "postId": "0xb0f49de4bcad35125b91d2573da4ce34b805ff37",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr73",
+      "company": "Stripe",
+      "title": "Workplace Project Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-26T19:32:33.622Z",
+      "postId": "0x2f6c332fc4f22f7078c0319ee8620ea6f9935d76",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr73",
+      "company": "Stripe",
+      "title": "Workplace Project Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-26T19:32:33.622Z",
+      "postId": "0x678bddacb2d2b25a815124cd776daae79ee8718f",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr73",
+      "company": "Stripe",
+      "title": "Workplace Project Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-26T19:32:33.622Z",
+      "postId": "0x7765506462bf7ccd8f05abeccaa445c49f48db67",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr73",
+      "company": "Stripe",
+      "title": "Workplace Project Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-26T19:32:33.622Z",
+      "postId": "0xc406f32b171af34358b28be7202e21c7e62ee36f",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr73",
+      "company": "Stripe",
+      "title": "Workplace Project Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-26T19:32:33.622Z",
+      "postId": "0xeb9b5a9a5f988f52b22e5d056ffb06cfcb107df6",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr73",
+      "company": "Stripe",
+      "title": "Workplace Project Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-26T19:32:33.622Z",
+      "postId": "0xb08829e1278d0d5d3fc5540a66c47e9fc7fa57d3",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr73",
+      "company": "Stripe",
+      "title": "Workplace Project Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-26T19:32:33.622Z",
+      "postId": "0x54e1cd80cc279aa2b3fb78d0d38538a3c2b34940",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr73",
+      "company": "Stripe",
+      "title": "Workplace Project Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-26T19:32:33.622Z",
+      "postId": "0x35047df3f2cf3e6dc6afbef0de0b371ab5f50942",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr73",
+      "company": "Stripe",
+      "title": "Workplace Project Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-26T19:32:33.622Z",
+      "postId": "0xfb6ca4a3212f559872d37006744b3bb63d37b768",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr73",
+      "company": "Stripe",
+      "title": "Workplace Project Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-26T19:32:33.622Z",
+      "postId": "0x0c8ad43cede10ccbb67d319fc4b7e5fd4e2f5d81",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr73",
+      "company": "Stripe",
+      "title": "Workplace Project Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-09-26T19:32:33.622Z",
+      "postId": "6ab81de13d66d464e5bb4ea5",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr73",
+      "company": "Stripe",
+      "title": "Workplace Project Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-09-26T19:32:33.622Z",
+      "postId": "6ab81deb9f89edbefe7ccde0",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr73",
+      "company": "Stripe",
+      "title": "Workplace Project Manager",
+      "platform": "facebook",
+      "postedAt": "2026-09-26T19:32:33.622Z",
+      "postId": "691827047618629_1098922102715024",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr73",
+      "company": "Stripe",
+      "title": "Workplace Project Manager",
+      "platform": "instagram",
+      "postedAt": "2026-09-26T19:32:33.622Z",
+      "postId": "18079185851419104",
       "verification": "verified"
     }
   ]
