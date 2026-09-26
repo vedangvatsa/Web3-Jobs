@@ -605,6 +605,9 @@
   "https://hashtagweb3.com/esma-innovation?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/solana-hires?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://decrypt.co/379364/google-built-ai-hunts-security-bugs",
+  "https://hashtagweb3.com/eden-exploit?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/eqibank-seizure?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://cointelegraph.com/news/sec-commissioner-hester-peirce-to-leave-post-on-oct-2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -1723,6 +1726,12 @@
   "Solana Foundation appoints Rachel Conlan and Jamal Raees to strategy and payments roles",
   "Google creates AI tool to detect its own security flaws",
   "Google Built an AI That Hunts Its Own Security Bugs",
+  "Magic Eden warns of exploit in old Ethereum listings",
+  "Magic Eden warns old Ethereum NFT listings were exposed to contract exploit",
+  "US seeks $84.2 million from Tether-linked payment firm Capstone",
+  "US prosecutors target $84.2 million tied to Tether banking partner in forfeiture case",
+  "US Securities and Exchange Commission member Hester Peirce to depart",
+  "SEC Commissioner Hester Peirce to leave post on Oct. 2",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -1878,5 +1887,8 @@
   "fp:3516m|bitget|breach|confirm|cover|dollar|exchang|expect|exploit|full",
   "fp:as2027|audit|digital|esma|firm|for2027|mak|monitor|priority|provider",
   "fp:appoint|binanc|conlan|department|executiv|former|foundation|hir|jamal|lead",
-  "fp:application|bug|built|confirm|creat|detect|find|flaw|googl|hunt"
+  "fp:application|bug|built|confirm|creat|detect|find|flaw|googl|hunt",
+  "fp:000|57m|contract|eden|exploit|expos|hacker|list|magic|nft",
+  "fp:842m|alleg|asset|bank|capston|cas|exposur|firm|forfeitur|licens",
+  "fp:agency|asset|commission|commissioner|depart|digital|eight|exchang|hester|known"
 ]

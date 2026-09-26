@@ -626,6 +626,9 @@
   "https://hashtagweb3.com/duelbits-hack?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/eden-exploit?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/eqibank-seizure?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/sec-buybacks?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://www.theblock.co/news/regulation/2026-09-26-kalshi-loses-appeal-over-ohio-and-tennessee-sports-betting-laws-widening-circuit-split-416937",
+  "https://decrypt.co/379378/ai-agents-racing-make-quantum-safe-bitcoin-cheap",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -1784,6 +1787,12 @@
   "Magic Eden warns old Ethereum NFT listings were exposed to contract exploit",
   "US seeks forfeiture of $84.2 million from Tether partner",
   "US prosecutors target $84.2 million tied to Tether banking partner in forfeiture case",
+  "SEC Staff Clarifies Rules for Crypto Token Buybacks",
+  "SEC staff says token buybacks on working networks are not securities promises",
+  "CoinMarketCap acquires crypto derivatives data provider CoinGlass",
+  "Kalshi loses appeal over Ohio and Tennessee sports betting laws, widening circuit split",
+  "AI Models Lower Cost of Quantum-Safe Bitcoin Transactions",
+  "AI Agents Are Racing to Make Quantum-Safe Bitcoin Cheap—And Winning",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -1942,5 +1951,8 @@
   "fp:activity|alleg|are|ban|financial|gambl|illegal|official|operation|penalty",
   "fp:breach|casino|chain|confirm|downtim|duelbit|extend|follow|fund|hack",
   "fp:000|57m|affect|contract|eden|exploit|expos|list|magic|marketplac",
-  "fp:842m|against|bank|capston|cas|civil|claim|complaint|exposur|federal"
+  "fp:842m|against|bank|capston|cas|civil|claim|complaint|exposur|federal",
+  "fp:activ|announc|are|buyback|can|clarify|classify|may|network|not",
+  "fp:acquir|analytic|appeal|bett|circuit|coinglass|coinmarketcap|cryptocurrency|data|derivativ",
+  "fp:320|agent|are|back|cheap|competition|cost|estimat|lower|mak"
 ]
