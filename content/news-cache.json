@@ -1,6 +1,62 @@
 {
-  "generatedAt": "2026-09-25T19:31:24.173Z",
+  "generatedAt": "2026-09-26T03:31:18.797Z",
   "items": [
+    {
+      "title": "U.S. SEC's steadiest crypto advocate, Hester Peirce, to depart next week",
+      "link": "https://www.coindesk.com/policy/2026/09/25/u-s-sec-s-steadiest-crypto-advocate-hester-peirce-to-depart-next-week",
+      "pubDate": "Fri, 25 Sep 2026 22:17:38 +0000",
+      "creator": "Jesse Hamilton",
+      "contentSnippet": "The long-anticipated exit of the commissioner sometimes known as Crypto Mom is Oct. 2, announced as the agency was sending out its latest crypto work.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "US Prosecutors Want $84.2 Million From a Bank Tied to Tether",
+      "link": "https://decrypt.co/379380/us-prosecutors-84-million-bank-tether-and-bitfinex",
+      "pubDate": "Fri, 25 Sep 2026 21:25:35 +0000",
+      "creator": "Jose Antonio Lanz",
+      "contentSnippet": "Federal prosecutors are targeting a Montana payments firm and a Caribbean bank accused of moving money without a license.",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Another appeals court rules against prediction market provider Kalshi, says sports contracts are subject to state regulations",
+      "link": "https://www.coindesk.com/policy/2026/09/25/another-appeals-court-rules-against-prediction-market-provider-kalshi-says-sports-contracts-are-subject-to-state-regulations",
+      "pubDate": "Fri, 25 Sep 2026 21:17:30 +0000",
+      "creator": "Nikhilesh De",
+      "contentSnippet": "A Sixth Circuit Court of Appeals panel ruled that prediction markets' sports-related events contracts are not swaps, and therefore aren't subject to f...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "OG.com seeks CFTC approval for single-stock perpetual futures",
+      "link": "https://cointelegraph.com/news/og-com-seeks-cftc-approval-single-stock-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 25 Sep 2026 20:37:21 +0000",
+      "creator": "Nate Kostar",
+      "contentSnippet": "OG.com, recently spun out of Crypto.com, joins Coinbase, Kalshi and Kraken parent Payward in seeking approval to bring perpetual futures to individual...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "SEC crypto FAQ addresses token buybacks, network upgrades and promises of profit",
+      "link": "https://www.theblock.co/news/regulation/2026-09-25-sec-crypto-faq-addresses-token-buybacks-network-upgrades-promises-profit-416914",
+      "pubDate": "Fri, 25 Sep 2026 20:32:40 +0000",
+      "creator": "Kyle Baird",
+      "contentSnippet": "Promoting a network’s current uses generally would not create an expectation of profit, SEC staff said.",
+      "source": "The Block"
+    },
+    {
+      "title": "Ex-CFTC leader to leave Blockchain Association after CLARITY vote fails",
+      "link": "https://cointelegraph.com/news/cftc-commissioner-leaving-blockchain-association-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 25 Sep 2026 20:26:40 +0000",
+      "creator": "Turner Wright",
+      "contentSnippet": "Former CFTC Commissioner Summer Mersinger joined the Blockchain Association in 2025 after resigning during her second term at the federal commodities ...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Blockchain Association CEO Summer Mersinger to step down, Kristin Smith to return as interim CEO",
+      "link": "https://www.theblock.co/news/regulation/2026-09-25-blockchain-association-ceo-summer-mersinger-tstep-down-kristin-smith-interim-ceo-416913",
+      "pubDate": "Fri, 25 Sep 2026 19:48:07 +0000",
+      "creator": "Sarah Wynn",
+      "contentSnippet": "The Blockchain Association is switching up its leadership with CEO Summer Mersinger set to step down next month.",
+      "source": "The Block"
+    },
     {
       "title": "Tether says it had ‘limited’ exposure to bank linked to $84M US seizure",
       "link": "https://cointelegraph.com/news/us-authorities-seize-accounts-tether-bitfinex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -40,14 +96,6 @@
       "creator": "Jose Antonio Lanz",
       "contentSnippet": "An attacker faked internal transfer requests to drain $387.5 million from Bitget's hot and warm wallets, and the exchange's CEO says the fingerprints ...",
       "source": "Decrypt"
-    },
-    {
-      "title": "Strategy seeks shareholder approval for daily preferred stock dividends",
-      "link": "https://cointelegraph.com/news/strategy-seeks-shareholder-approval-daily-preferred-stock-dividends?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Fri, 25 Sep 2026 16:34:16 +0000",
-      "creator": "Nate Kostar",
-      "contentSnippet": "Strategy’s proposal would move STRC and its three other preferred stocks to daily dividend payments, following a similar move by Bitcoin treasury firm...",
-      "source": "Cointelegraph"
     },
     {
       "title": "Magic Eden Warns Old Ethereum NFT Listings Are Exposed to Payment Processor Exploit",
@@ -266,14 +314,6 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "CFTC updates guidance on tokenized assets, blockchain records after failed vote",
-      "link": "https://cointelegraph.com/news/cftc-digital-assets-regulation-failed-clarity-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Thu, 24 Sep 2026 21:42:51 +0000",
-      "creator": "Turner Wright",
-      "contentSnippet": "Although the CFTC chair did not say the failed vote on the CLARITY Act was behind new rules for authorized crypto entities, he said the move was “to p...",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "Bitcoin price steadies, ONDO rallies as US Treasury yields hit 2007 highs",
       "link": "https://cointelegraph.com/markets/bitcoin-steadies-ondo-rallies-us-treasury-yields-hit-2007-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Thu, 24 Sep 2026 20:32:16 +0000",
@@ -295,6 +335,14 @@
       "pubDate": "Thu, 24 Sep 2026 20:05:00 +0000",
       "creator": "Krisztian Sandor",
       "contentSnippet": "The group aims to link onchain shares to official shareholder records following the U.S. SEC's innovation exemption for tokenized stock trading.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "U.S. commodities firms can invest in tokenized assets, use blockchain records: CFTC",
+      "link": "https://www.coindesk.com/policy/2026/09/24/u-s-commodities-firms-can-invest-in-tokenized-assets-use-blockchain-records-cftc",
+      "pubDate": "Thu, 24 Sep 2026 20:04:46 +0000",
+      "creator": "Jesse Hamilton",
+      "contentSnippet": "The U.S derivatives regulator is grinding away at further guidance that welcomes tokenization and blockchain recordkeeping as regular industry element...",
       "source": "Coindesk"
     },
     {
@@ -458,14 +506,6 @@
       "source": "Decrypt"
     },
     {
-      "title": "European stablecoin issuer Qivalis sees transformation of global trade finance",
-      "link": "https://www.coindesk.com/business/2026/09/24/european-stablecoin-issuer-qivalis-sees-transformation-of-global-trade-finance",
-      "pubDate": "Thu, 24 Sep 2026 14:41:05 +0000",
-      "creator": "Ian Allison",
-      "contentSnippet": "Jan-Oliver Sell, the CEO and founder of Qivalis, said the entire trade finance supply chain is moving into stablecoins.",
-      "source": "Coindesk"
-    },
-    {
       "title": "Visa Says Bank-Level Fraud Protection and Deposit Insurance Could Unlock US Stablecoin Adoption",
       "link": "https://dailyhodl.com/2026/09/24/visa-says-bank-level-fraud-protection-and-deposit-insurance-could-unlock-us-stablecoin-adoption/",
       "pubDate": "Thu, 24 Sep 2026 14:30:50 +0000",
@@ -498,14 +538,6 @@
       "source": "Blockchain.News"
     },
     {
-      "title": "IBM opens beta Swift ledger link for 24/7 tokenized deposits",
-      "link": "https://cointelegraph.com/news/ibm-banks-swift-ledger-tokenized-deposit-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Thu, 24 Sep 2026 13:29:06 +0000",
-      "creator": "Helen Partz",
-      "contentSnippet": "IBM’s beta link lets banks instruct tokenized deposit transfers on Swift’s ledger using existing payment messages and compliance processes.",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "Elliptic Wants Every Cop to Read a Crypto Wallet in Seconds—With AI",
       "link": "https://decrypt.co/379113/elliptic-crypto-wallet-ai-pulse",
       "pubDate": "Thu, 24 Sep 2026 13:01:03 +0000",
@@ -520,22 +552,6 @@
       "creator": "Tyler Warner",
       "contentSnippet": "The CFTC has been extremely busy ever since the Clarity Act failed its vote, and it appears they’re ready to accelerate.",
       "source": "Decrypt"
-    },
-    {
-      "title": "‘Not behind closed doors’: Senate Banking Democrats call for prediction markets hearing as GOP meets privately with Kalshi",
-      "link": "https://www.theblock.co/news/regulation/2026-09-23-senate-banking-democrats-prediction-markets-hearing-kalshi-416193",
-      "pubDate": "Wed, 23 Sep 2026 17:36:11 +0000",
-      "creator": "Sarah Wynn",
-      "contentSnippet": "Every Democrat on the Senate Banking Committee is urging its chair, Sen. Tim Scott, to hold a congressional hearing on prediction markets.",
-      "source": "The Block"
-    },
-    {
-      "title": "‘BTC still has room to catch up’: Bitcoin’s $80,000 breakout draws institutional demand as analysts weigh durability",
-      "link": "https://www.theblock.co/news/markets/2026-09-23-bitcoin-breakout-etf-inflows-analysts-k33-nexo-resistance-416182",
-      "pubDate": "Wed, 23 Sep 2026 16:52:09 +0000",
-      "creator": "Jason Shubnell",
-      "contentSnippet": "K33, Nexo and 21shares weigh in on bitcoin's breakout as ETF inflows hit their highest since Nov. 2024. Key levels: $87K–88K resistance.",
-      "source": "The Block"
     }
   ]
 }
