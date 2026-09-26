@@ -1,12 +1,44 @@
 {
-  "generatedAt": "2026-09-26T03:31:18.797Z",
+  "generatedAt": "2026-09-26T11:31:29.943Z",
   "items": [
     {
-      "title": "U.S. SEC's steadiest crypto advocate, Hester Peirce, to depart next week",
-      "link": "https://www.coindesk.com/policy/2026/09/25/u-s-sec-s-steadiest-crypto-advocate-hester-peirce-to-depart-next-week",
-      "pubDate": "Fri, 25 Sep 2026 22:17:38 +0000",
-      "creator": "Jesse Hamilton",
-      "contentSnippet": "The long-anticipated exit of the commissioner sometimes known as Crypto Mom is Oct. 2, announced as the agency was sending out its latest crypto work.",
+      "title": "SEC Commissioner Hester Peirce to leave post on Oct. 2",
+      "link": "https://cointelegraph.com/news/sec-commissioner-hester-peirce-to-leave-post-on-oct-2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Sat, 26 Sep 2026 09:02:22 +0000",
+      "creator": "Michael Millard",
+      "contentSnippet": "Peirce, known as “Crypto Mom,” served on the SEC for about eight years, including as director of the Crypto Task Force.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "CFTC sues Cash FX, alleges $950M crypto-linked forex scheme",
+      "link": "https://cointelegraph.com/news/cftc-sues-cash-fx-alleges-950m-crypto-linked-forex-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Sat, 26 Sep 2026 06:59:29 +0000",
+      "creator": "Michael Millard",
+      "contentSnippet": "The CFTC claimed that Cash FX engaged in minimal forex trading and misappropriated most of the participant funds.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Solana’s 150-millisecond settlement upgrade reaches second public test network",
+      "link": "https://www.coindesk.com/tech/2026/09/26/solana-s-150-millisecond-settlement-upgrade-reaches-second-public-test-network",
+      "pubDate": "Sat, 26 Sep 2026 05:00:00 +0000",
+      "creator": "Shaurya Malwa",
+      "contentSnippet": "Alpenglow is running on both public test networks, giving application teams a place to check their software before the live blockchain switches.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "XRP Ledger’s Batch upgrade slips to Oct. 9 after validator support resets",
+      "link": "https://www.coindesk.com/tech/2026/09/26/xrp-ledger-s-batch-upgrade-slips-to-oct-9-after-validator-support-resets",
+      "pubDate": "Sat, 26 Sep 2026 04:30:00 +0000",
+      "creator": "Shaurya Malwa",
+      "contentSnippet": "The feature would let users bundle up to eight transactions, including asset-and-payment transfers, but a brief drop below the network’s 80% support t...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
+      "link": "https://www.coindesk.com/tech/2026/09/26/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules",
+      "pubDate": "Sat, 26 Sep 2026 04:02:13 +0000",
+      "creator": "Shaurya Malwa",
+      "contentSnippet": "Researchers have mapped out private bitcoin-denominated transfers that run alongside Bitcoin, but the system still lacks a finished way to lock up rea...",
       "source": "Coindesk"
     },
     {
@@ -322,14 +354,6 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "Binance Expands to 7,000 Stocks, ETFs Alongside Crypto",
-      "link": "https://Blockchain.News/news/binance-adds-stocks-etfs",
-      "pubDate": "Thu, 24 Sep 2026 20:05:40 GMT",
-      "creator": "Blockchain.News",
-      "contentSnippet": "Binance now offers 7,000+ U.S. stocks and ETFs alongside crypto, settling trades in stablecoins and expanding its super app vision. (Read More)",
-      "source": "Blockchain.News"
-    },
-    {
       "title": "Bullish, Alpaca, Apex Fintech and DriveWealth form coalition to push issuer-backed tokenized stocks",
       "link": "https://www.coindesk.com/business/2026/09/24/bullish-alpaca-and-apex-fintech-form-coalition-to-push-issuer-backed-tokenized-stocks",
       "pubDate": "Thu, 24 Sep 2026 20:05:00 +0000",
@@ -360,14 +384,6 @@
       "creator": "Tram Doman",
       "contentSnippet": "The argument over Robinhood’s AMC token has been about which tokenization model is legitimate, and the SEC has drawn a line. The question to ask now i...",
       "source": "Coindesk"
-    },
-    {
-      "title": "How Fake Payment Scams Use Crypto to Exploit Victims",
-      "link": "https://Blockchain.News/news/fake-payment-scams-explained-crypto",
-      "pubDate": "Thu, 24 Sep 2026 19:58:40 GMT",
-      "creator": "Blockchain.News",
-      "contentSnippet": "Fake payment scams increasingly leverage crypto for irreversible transactions, costing victims billions globally. Learn the red flags to stay safe. (R...",
-      "source": "Blockchain.News"
     },
     {
       "title": "Solana treasury firm SkyAI keeps board after shareholder protest, loses equity plan vote",
@@ -402,22 +418,6 @@
       "source": "The Block"
     },
     {
-      "title": "Bitcoin ETF Inflows Surge Amid Institutional Demand Rebound",
-      "link": "https://Blockchain.News/news/bitcoin-ether-etf-inflows-september-2026",
-      "pubDate": "Thu, 24 Sep 2026 18:15:14 GMT",
-      "creator": "Blockchain.News",
-      "contentSnippet": "Glassnode's Strategy Watch #8 reveals a resurgence in Bitcoin and Ether inflows, driven by demand for spot ETFs. Institutional capital trends signal e...",
-      "source": "Blockchain.News"
-    },
-    {
-      "title": "Solana (SOL) Foundation Adds Ex-Binance CMO, Polygon Exec to Leadership",
-      "link": "https://Blockchain.News/news/solana-appoints-conlan-raees",
-      "pubDate": "Thu, 24 Sep 2026 17:45:40 GMT",
-      "creator": "Blockchain.News",
-      "contentSnippet": "Solana (SOL) Foundation appoints Rachel Conlan as Chief Strategy Officer and Jamal Raees as GM of Payments to drive institutional adoption and payment...",
-      "source": "Blockchain.News"
-    },
-    {
       "title": "In Her Final Weeks, SEC's Peirce Calls for Ending the KYC 'Panopticon'",
       "link": "https://decrypt.co/379217/sec-peirce-end-kyc-panopticon-zero-knowledge-proofs",
       "pubDate": "Thu, 24 Sep 2026 17:31:03 +0000",
@@ -450,52 +450,12 @@
       "source": "Decrypt"
     },
     {
-      "title": "The Graph (GRT) Moves Subgraph Studio Traffic to Decentralized Network",
-      "link": "https://Blockchain.News/news/the-graph-subgraph-studio-traffic-move",
-      "pubDate": "Thu, 24 Sep 2026 16:24:45 GMT",
-      "creator": "Blockchain.News",
-      "contentSnippet": "The Graph (GRT) transitions Subgraph Studio traffic to its decentralized network, starting with BNB Smart Chain and Polygon. Migration set for Oct 8, ...",
-      "source": "Blockchain.News"
-    },
-    {
-      "title": "Avalanche (AVAX) Powers Fan Rewards for Six Major College Athletics Programs",
-      "link": "https://Blockchain.News/news/avalanche-college-athletics-rewards",
-      "pubDate": "Thu, 24 Sep 2026 16:15:45 GMT",
-      "creator": "Blockchain.News",
-      "contentSnippet": "Uptop's Avalanche-based rewards model is transforming fan engagement for Michigan, LSU, Penn State, and more, offering new monetization and sponsorshi...",
-      "source": "Blockchain.News"
-    },
-    {
       "title": "Bitcoin Breakout Cools as Fed Rate-Hike Bets Climb",
       "link": "https://decrypt.co/379189/bitcoins-breakout-cools-fed-rate-hike-bets-climb",
       "pubDate": "Thu, 24 Sep 2026 16:01:01 +0000",
       "creator": "Jose Antonio Lanz",
       "contentSnippet": "Bitcoin has slipped back below $85,000 after tagging an eight-month high near $87,400 last week, with rising odds of an October Fed hike taking some a...",
       "source": "Decrypt"
-    },
-    {
-      "title": "SoFi tie-up shows stablecoins can provide alternative blockchain settlement rail",
-      "link": "https://cointelegraph.com/news/sofi-moves-25b-card-program-to-stablecoin-settlement-with-mastercard?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Thu, 24 Sep 2026 15:57:00 +0000",
-      "creator": "Nate Kostar",
-      "contentSnippet": "SoFi dives deeper into payments as it moves its entire card program to blockchain-based settlement using its SoFiUSD stablecoin, with more than $25 bi...",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Crypto casino Duelbits goes offline after $7 million hot wallet hack",
-      "link": "https://www.coindesk.com/business/2026/09/24/crypto-casino-duelbits-goes-offline-after-usd7m-hot-wallet-hack",
-      "pubDate": "Thu, 24 Sep 2026 15:48:20 +0000",
-      "creator": "Oliver Knight",
-      "contentSnippet": "Attackers drained Duelbits' hot wallets across four blockchains; about $6 million in stolen funds now sits in a single Ethereum address.",
-      "source": "Coindesk"
-    },
-    {
-      "title": "Bitcoin’s bear markets are getting milder. Bull markets may be next",
-      "link": "https://www.coindesk.com/markets/2026/09/24/bitcoin-s-bear-markets-are-getting-milder-the-bull-markets-may-be-next",
-      "pubDate": "Thu, 24 Sep 2026 15:26:34 +0000",
-      "creator": "Helene Braun",
-      "contentSnippet": "Bitcoin’s latest bear market was milder than past crashes as ETFs, institutional investors and a maturing market reshape its cycles.",
-      "source": "Coindesk"
     },
     {
       "title": "£10K Reward Offered After UK Couple Attacked in Crypto Home Invasion",
@@ -522,20 +482,12 @@
       "source": "The Block"
     },
     {
-      "title": "Tezos (XTZ) Debuts Quantumnet, First Post-Quantum Testnet",
-      "link": "https://Blockchain.News/news/tezos-xtz-launches-quantumnet-post-quantum-testnet",
-      "pubDate": "Thu, 24 Sep 2026 13:55:12 GMT",
-      "creator": "Blockchain.News",
-      "contentSnippet": "Tezos launches Quantumnet, the first experimental post-quantum testnet, tackling blockchain security in a quantum computing world. (Read More)",
-      "source": "Blockchain.News"
-    },
-    {
-      "title": "Canaan (CAN) Showcases Heat-Reuse Mining Tech at BTCHEL in Helsinki",
-      "link": "https://Blockchain.News/news/canaan-showcases-heat-reuse-mining-tech-btchel",
-      "pubDate": "Thu, 24 Sep 2026 13:47:12 GMT",
-      "creator": "Blockchain.News",
-      "contentSnippet": "Canaan Inc. (NASDAQ: CAN) demonstrates innovative 'hash-to-heat' solutions at BTCHEL, aiming to decarbonize energy systems and expand residential appl...",
-      "source": "Blockchain.News"
+      "title": "Solana Foundation Hires Binance's Former Global CMO for Institutional Push",
+      "link": "https://decrypt.co/379179/solana-foundation-hires-binances-former-global-cmo-for-institutional-push",
+      "pubDate": "Thu, 24 Sep 2026 13:03:03 +0000",
+      "creator": "Agent",
+      "contentSnippet": "Rachel Conlan arrives as chief strategy officer and Polygon Labs' Jamal Raees takes over payments, both recruited from elsewhere in crypto.",
+      "source": "Decrypt"
     },
     {
       "title": "Elliptic Wants Every Cop to Read a Crypto Wallet in Seconds—With AI",
