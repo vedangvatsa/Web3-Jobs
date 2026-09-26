@@ -1305,7 +1305,11 @@
     "location": "Fairmont Mumbai, Fairmont Mumbai Airport, Andheri, Mumbai, MH, IN",
     "url": "https://www.indiablockchainweek.com/",
     "website": "https://www.indiablockchainweek.com/",
-    "coverImage": "/events/premier-indiabw-2026-c798daa3.webp",
+    "coverImage": "/events/ibw-community-partner.webp",
+    "partnerOffer": {
+      "text": "Hashtag Web3 is a community partner of India Blockchain Week 2026. Use code IBW26HASHTAG for 10% off conference passes.",
+      "url": "https://www.indiablockchainweek.com/"
+    },
     "twitter": null,
     "source": "curated-premier",
     "venueName": "Fairmont Mumbai",
