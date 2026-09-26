@@ -1,5 +1,5 @@
 {
-  "lastIndex": 250,
+  "lastIndex": 252,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -87,7 +87,9 @@
     "eng209",
     "eng298",
     "eng208",
-    "mkt44"
+    "mkt44",
+    "an44",
+    "sls142"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -1282,81 +1284,6 @@
       "verification": "verified"
     },
     {
-      "slug": "cmp5",
-      "company": "Binance",
-      "title": "Legal Admin Executive - 12 months contract",
-      "platform": "instagram",
-      "postedAt": "2026-09-16T12:42:18.907Z",
-      "postId": "18128329300763937",
-      "verification": "verified"
-    },
-    {
-      "slug": "infra4",
-      "company": "Stripe",
-      "title": "Strategy & Operations, Infrastructure",
-      "platform": "x",
-      "postedAt": "2026-09-16T17:45:19.816Z",
-      "postId": "2100279882718626210",
-      "verification": "verified"
-    },
-    {
-      "slug": "infra4",
-      "company": "Stripe",
-      "title": "Strategy & Operations, Infrastructure",
-      "platform": "threads",
-      "postedAt": "2026-09-16T17:45:19.816Z",
-      "postId": "17917216506440725",
-      "verification": "verified",
-      "expectedText": "Stripe is hiring Strategy & Operations, Infrastructure: https://hashtagweb3.com/infra4/th?og=2",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DdW2lJCiRO8",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "infra4",
-      "company": "Stripe",
-      "title": "Strategy & Operations, Infrastructure",
-      "platform": "bluesky",
-      "postedAt": "2026-09-16T17:45:19.816Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mvnoydqy4q2i",
-      "verification": "verified"
-    },
-    {
-      "slug": "infra4",
-      "company": "Stripe",
-      "title": "Strategy & Operations, Infrastructure",
-      "platform": "farcaster",
-      "postedAt": "2026-09-16T17:45:19.816Z",
-      "postId": "0x9c83c4eed695814a6ad936f143a8fbf50ce5e620",
-      "verification": "verified"
-    },
-    {
-      "slug": "infra4",
-      "company": "Stripe",
-      "title": "Strategy & Operations, Infrastructure",
-      "platform": "linkedin",
-      "postedAt": "2026-09-16T17:45:19.816Z",
-      "postId": "6aaad5ca0ef3cc67c26e879b",
-      "verification": "verified"
-    },
-    {
-      "slug": "infra4",
-      "company": "Stripe",
-      "title": "Strategy & Operations, Infrastructure",
-      "platform": "facebook",
-      "postedAt": "2026-09-16T17:45:19.816Z",
-      "postId": "691827047618629_1090103676930200",
-      "verification": "verified"
-    },
-    {
-      "slug": "infra4",
-      "company": "Stripe",
-      "title": "Strategy & Operations, Infrastructure",
-      "platform": "instagram",
-      "postedAt": "2026-09-16T17:45:19.816Z",
-      "postId": "18124722259872305",
-      "verification": "verified"
-    },
-    {
       "slug": "aso4",
       "company": "Riot Platforms",
       "title": "M&A Associate",
@@ -1468,72 +1395,6 @@
       "platform": "facebook",
       "postedAt": "2026-09-16T22:14:24.905Z",
       "postId": "691827047618629_1090251843582050",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr8",
-      "company": "Binance",
-      "title": "Regional Branding Manager - GC",
-      "platform": "x",
-      "postedAt": "2026-09-17T00:39:26.987Z",
-      "postId": "2100384098954989726",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr8",
-      "company": "Binance",
-      "title": "Regional Branding Manager - GC",
-      "platform": "threads",
-      "postedAt": "2026-09-17T00:39:26.987Z",
-      "postId": "18091547414447591",
-      "verification": "verified",
-      "expectedText": "Binance is hiring Regional Branding Manager - GC: https://hashtagweb3.com/mgr8/th?og=2",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DdXl-OFkWx8",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "mgr8",
-      "company": "Binance",
-      "title": "Regional Branding Manager - GC",
-      "platform": "bluesky",
-      "postedAt": "2026-09-17T00:39:26.987Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mvog4pix742i",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr8",
-      "company": "Binance",
-      "title": "Regional Branding Manager - GC",
-      "platform": "farcaster",
-      "postedAt": "2026-09-17T00:39:26.987Z",
-      "postId": "0x520c836430e5c34cbbeb8ebcf6f7a87b7b0b29a6",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr8",
-      "company": "Binance",
-      "title": "Regional Branding Manager - GC",
-      "platform": "linkedin",
-      "postedAt": "2026-09-17T00:39:26.987Z",
-      "postId": "6aab36d409abc694db770c69",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr8",
-      "company": "Binance",
-      "title": "Regional Branding Manager - GC",
-      "platform": "facebook",
-      "postedAt": "2026-09-17T00:39:26.987Z",
-      "postId": "691827047618629_1090323420241559",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr8",
-      "company": "Binance",
-      "title": "Regional Branding Manager - GC",
-      "platform": "instagram",
-      "postedAt": "2026-09-17T00:39:26.987Z",
-      "postId": "18444114721124840",
       "verification": "verified"
     },
     {
@@ -1809,333 +1670,6 @@
       "platform": "facebook",
       "postedAt": "2026-09-17T12:39:30.653Z",
       "postId": "691827047618629_1090731676867400",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm24",
-      "company": "Magic Eden",
-      "title": "Senior Product Designer, Sportsbook",
-      "platform": "x",
-      "postedAt": "2026-09-17T17:40:32.494Z",
-      "postId": "2100641065036558636",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm24",
-      "company": "Magic Eden",
-      "title": "Senior Product Designer, Sportsbook",
-      "platform": "threads",
-      "postedAt": "2026-09-17T17:40:32.494Z",
-      "postId": "18076527425710572",
-      "verification": "verified",
-      "expectedText": "Magic Eden is hiring Senior Product Designer, Sportsbook: https://hashtagweb3.com/pm24/th?og=2",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DdZa07Jm5nh",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "pm24",
-      "company": "Magic Eden",
-      "title": "Senior Product Designer, Sportsbook",
-      "platform": "bluesky",
-      "postedAt": "2026-09-17T17:40:32.494Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mvq76liggz2j",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm24",
-      "company": "Magic Eden",
-      "title": "Senior Product Designer, Sportsbook",
-      "platform": "farcaster",
-      "postedAt": "2026-09-17T17:40:32.494Z",
-      "postId": "0x3b8642f887d45ba6345fe282ff55b5f5fd73ab63",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm24",
-      "company": "Magic Eden",
-      "title": "Senior Product Designer, Sportsbook",
-      "platform": "farcaster",
-      "postedAt": "2026-09-17T17:40:32.494Z",
-      "postId": "0xe35cc674bcbeaaf411d9cbdb1133b902289ce485",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm24",
-      "company": "Magic Eden",
-      "title": "Senior Product Designer, Sportsbook",
-      "platform": "farcaster",
-      "postedAt": "2026-09-17T17:40:32.494Z",
-      "postId": "0xabf2afdf602ea93c2afb5f37c93d6f6af2180dbf",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm24",
-      "company": "Magic Eden",
-      "title": "Senior Product Designer, Sportsbook",
-      "platform": "farcaster",
-      "postedAt": "2026-09-17T17:40:32.494Z",
-      "postId": "0x63e7d4971e20e4908c0b266be32e9569045ce59b",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm24",
-      "company": "Magic Eden",
-      "title": "Senior Product Designer, Sportsbook",
-      "platform": "farcaster",
-      "postedAt": "2026-09-17T17:40:32.494Z",
-      "postId": "0xddccb0d2e35f841ee1686a9b729af8cb209696e7",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm24",
-      "company": "Magic Eden",
-      "title": "Senior Product Designer, Sportsbook",
-      "platform": "farcaster",
-      "postedAt": "2026-09-17T17:40:32.494Z",
-      "postId": "0xaaf0c4b5a487dad6cd90ede5ec66b004d98e21d4",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm24",
-      "company": "Magic Eden",
-      "title": "Senior Product Designer, Sportsbook",
-      "platform": "farcaster",
-      "postedAt": "2026-09-17T17:40:32.494Z",
-      "postId": "0xf656cf2c3c74426e3bc24693882198b3a06bab30",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm24",
-      "company": "Magic Eden",
-      "title": "Senior Product Designer, Sportsbook",
-      "platform": "farcaster",
-      "postedAt": "2026-09-17T17:40:32.494Z",
-      "postId": "0x8459015b41c9ea8f804e3864abc1e2eb5b846f0b",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm24",
-      "company": "Magic Eden",
-      "title": "Senior Product Designer, Sportsbook",
-      "platform": "farcaster",
-      "postedAt": "2026-09-17T17:40:32.494Z",
-      "postId": "0xe3a16446da88e3f505344bc0ed4760cb4e11ccc2",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm24",
-      "company": "Magic Eden",
-      "title": "Senior Product Designer, Sportsbook",
-      "platform": "farcaster",
-      "postedAt": "2026-09-17T17:40:32.494Z",
-      "postId": "0x9f55a4b00b809c076eae8cd3d52dada0b92e7ceb",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm24",
-      "company": "Magic Eden",
-      "title": "Senior Product Designer, Sportsbook",
-      "platform": "farcaster",
-      "postedAt": "2026-09-17T17:40:32.494Z",
-      "postId": "0x992631c93f8f6d11043ba0c38f348a0051deb21a",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm24",
-      "company": "Magic Eden",
-      "title": "Senior Product Designer, Sportsbook",
-      "platform": "farcaster",
-      "postedAt": "2026-09-17T17:40:32.494Z",
-      "postId": "0x786edef2f4832d8297f8aef717ae85cd9417a06c",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm24",
-      "company": "Magic Eden",
-      "title": "Senior Product Designer, Sportsbook",
-      "platform": "farcaster",
-      "postedAt": "2026-09-17T17:40:32.494Z",
-      "postId": "0xb3fd14961a43a4c48dba20aaab164a43bc25a9fc",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm24",
-      "company": "Magic Eden",
-      "title": "Senior Product Designer, Sportsbook",
-      "platform": "farcaster",
-      "postedAt": "2026-09-17T17:40:32.494Z",
-      "postId": "0xb152e1d9d92d0edd687b0d70c8eafd07b1559466",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm24",
-      "company": "Magic Eden",
-      "title": "Senior Product Designer, Sportsbook",
-      "platform": "farcaster",
-      "postedAt": "2026-09-17T17:40:32.494Z",
-      "postId": "0x77381fe278a6a2d68618d8649b56a19312c01c1c",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm24",
-      "company": "Magic Eden",
-      "title": "Senior Product Designer, Sportsbook",
-      "platform": "farcaster",
-      "postedAt": "2026-09-17T17:40:32.494Z",
-      "postId": "0x045be1c34e7fabaf99d99474be643c99fb776a03",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm24",
-      "company": "Magic Eden",
-      "title": "Senior Product Designer, Sportsbook",
-      "platform": "farcaster",
-      "postedAt": "2026-09-17T17:40:32.494Z",
-      "postId": "0x1be2c7b277d7bc71bc30df5e15f80bb3a6329b39",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm24",
-      "company": "Magic Eden",
-      "title": "Senior Product Designer, Sportsbook",
-      "platform": "linkedin",
-      "postedAt": "2026-09-17T17:40:32.494Z",
-      "postId": "6aac2629845053aaaf2387ae",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm24",
-      "company": "Magic Eden",
-      "title": "Senior Product Designer, Sportsbook",
-      "platform": "facebook",
-      "postedAt": "2026-09-17T17:40:32.494Z",
-      "postId": "691827047618629_1090936410180260",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm24",
-      "company": "Magic Eden",
-      "title": "Senior Product Designer, Sportsbook",
-      "platform": "instagram",
-      "postedAt": "2026-09-17T17:40:32.494Z",
-      "postId": "18138760123720185",
-      "verification": "verified"
-    },
-    {
-      "slug": "aso9",
-      "company": "Oasis Network",
-      "title": "Physical Therapist Assistant",
-      "platform": "x",
-      "postedAt": "2026-09-17T17:42:11.746Z",
-      "postId": "2100641481400995993",
-      "verification": "verified"
-    },
-    {
-      "slug": "aso9",
-      "company": "Oasis Network",
-      "title": "Physical Therapist Assistant",
-      "platform": "threads",
-      "postedAt": "2026-09-17T17:42:11.746Z",
-      "postId": "17879731857534084",
-      "verification": "verified",
-      "expectedText": "Oasis Network is hiring Physical Therapist Assistant: https://hashtagweb3.com/aso9/th?og=2",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DdZbBCKGF2g",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "aso9",
-      "company": "Oasis Network",
-      "title": "Physical Therapist Assistant",
-      "platform": "bluesky",
-      "postedAt": "2026-09-17T17:42:11.746Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mvq7bsby332j",
-      "verification": "verified"
-    },
-    {
-      "slug": "aso9",
-      "company": "Oasis Network",
-      "title": "Physical Therapist Assistant",
-      "platform": "farcaster",
-      "postedAt": "2026-09-17T17:42:11.746Z",
-      "postId": "0x66867dcc44930efc81a94fb36eaeb519ff512da9",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "aso9",
-      "company": "Oasis Network",
-      "title": "Physical Therapist Assistant",
-      "platform": "farcaster",
-      "postedAt": "2026-09-17T17:42:11.746Z",
-      "postId": "0xc329f37d915e0557fb4a509e8e3e65a7eedec4c5",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "aso9",
-      "company": "Oasis Network",
-      "title": "Physical Therapist Assistant",
-      "platform": "farcaster",
-      "postedAt": "2026-09-17T17:42:11.746Z",
-      "postId": "0x668802ef28301d8aa51292e6ad41564a2a42ba38",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "aso9",
-      "company": "Oasis Network",
-      "title": "Physical Therapist Assistant",
-      "platform": "farcaster",
-      "postedAt": "2026-09-17T17:42:11.746Z",
-      "postId": "0xf133688909b64b615f8ccf60feea0796621c217e",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "aso9",
-      "company": "Oasis Network",
-      "title": "Physical Therapist Assistant",
-      "platform": "farcaster",
-      "postedAt": "2026-09-17T17:42:11.746Z",
-      "postId": "0x1ed1ae21d7f50a18685916178f84357d2aceb371",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "aso9",
-      "company": "Oasis Network",
-      "title": "Physical Therapist Assistant",
-      "platform": "farcaster",
-      "postedAt": "2026-09-17T17:42:11.746Z",
-      "postId": "0x53e0f9feeff3be294a88315e25aa750ba605ac4a",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "aso9",
-      "company": "Oasis Network",
-      "title": "Physical Therapist Assistant",
-      "platform": "farcaster",
-      "postedAt": "2026-09-17T17:42:11.746Z",
-      "postId": "0x80b5ed25d5a62bb44f0a2eb1eb7973515b0059ff",
-      "account": "channel:developers",
       "verification": "verified"
     },
     {
@@ -9938,6 +9472,494 @@
       "platform": "instagram",
       "postedAt": "2026-09-26T03:54:31.229Z",
       "postId": "18053197646602109",
+      "verification": "verified"
+    },
+    {
+      "slug": "an44",
+      "company": "BVNK",
+      "title": "Senior Analyst / SME - EDD",
+      "platform": "x",
+      "postedAt": "2026-09-26T11:31:35.282Z",
+      "postId": "6ab7ad17ee8af48ba8a9f9b9",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "BVNK is hiring Senior Analyst / SME - EDD\n\nhttps://hashtagweb3.com/an44/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2103809707752247744"
+    },
+    {
+      "slug": "an44",
+      "company": "BVNK",
+      "title": "Senior Analyst / SME - EDD",
+      "platform": "threads",
+      "postedAt": "2026-09-26T11:31:35.282Z",
+      "postId": "18128298784699678",
+      "verification": "verified",
+      "expectedText": "BVNK is hiring Senior Analyst / SME - EDD: https://hashtagweb3.com/an44/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/Ddv7wrAmyDw",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "an44",
+      "company": "BVNK",
+      "title": "Senior Analyst / SME - EDD",
+      "platform": "bluesky",
+      "postedAt": "2026-09-26T11:31:35.282Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwg6qxjb7o2t",
+      "verification": "verified"
+    },
+    {
+      "slug": "an44",
+      "company": "BVNK",
+      "title": "Senior Analyst / SME - EDD",
+      "platform": "farcaster",
+      "postedAt": "2026-09-26T11:31:35.282Z",
+      "postId": "0x5955f6ed234484b5463e7351868afac22db6dce5",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "an44",
+      "company": "BVNK",
+      "title": "Senior Analyst / SME - EDD",
+      "platform": "farcaster",
+      "postedAt": "2026-09-26T11:31:35.282Z",
+      "postId": "0xe4dacdb6abacf1e4bc2b6bcd018125a3c5296671",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "an44",
+      "company": "BVNK",
+      "title": "Senior Analyst / SME - EDD",
+      "platform": "farcaster",
+      "postedAt": "2026-09-26T11:31:35.282Z",
+      "postId": "0xd517676694e5528a3404a826bccfcd4b8ca49bb1",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "an44",
+      "company": "BVNK",
+      "title": "Senior Analyst / SME - EDD",
+      "platform": "farcaster",
+      "postedAt": "2026-09-26T11:31:35.282Z",
+      "postId": "0x98b295d7348fca0b1a36280cf1a3d8c68b59c72a",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "an44",
+      "company": "BVNK",
+      "title": "Senior Analyst / SME - EDD",
+      "platform": "farcaster",
+      "postedAt": "2026-09-26T11:31:35.282Z",
+      "postId": "0xa99e6f431ced077d99583b25b2ccb826041143e1",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "an44",
+      "company": "BVNK",
+      "title": "Senior Analyst / SME - EDD",
+      "platform": "farcaster",
+      "postedAt": "2026-09-26T11:31:35.282Z",
+      "postId": "0x660fede98e313ebc1ad0e32b023068790f0c5ace",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "an44",
+      "company": "BVNK",
+      "title": "Senior Analyst / SME - EDD",
+      "platform": "farcaster",
+      "postedAt": "2026-09-26T11:31:35.282Z",
+      "postId": "0x68355da9b000ada08838a50431245b8d0c954eee",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "an44",
+      "company": "BVNK",
+      "title": "Senior Analyst / SME - EDD",
+      "platform": "farcaster",
+      "postedAt": "2026-09-26T11:31:35.282Z",
+      "postId": "0x4df643a1a62d456ed06ee45c9b3c017c461698ee",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "an44",
+      "company": "BVNK",
+      "title": "Senior Analyst / SME - EDD",
+      "platform": "farcaster",
+      "postedAt": "2026-09-26T11:31:35.282Z",
+      "postId": "0x0c61fcbd00cf857c3790b9ae17c50b7a8dcd7865",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "an44",
+      "company": "BVNK",
+      "title": "Senior Analyst / SME - EDD",
+      "platform": "farcaster",
+      "postedAt": "2026-09-26T11:31:35.282Z",
+      "postId": "0x74bb4e9d2ac7f46ae6239743180f3af7edf0afbd",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "an44",
+      "company": "BVNK",
+      "title": "Senior Analyst / SME - EDD",
+      "platform": "farcaster",
+      "postedAt": "2026-09-26T11:31:35.282Z",
+      "postId": "0x68be1014ee2de59f422369452357021e640270d5",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "an44",
+      "company": "BVNK",
+      "title": "Senior Analyst / SME - EDD",
+      "platform": "farcaster",
+      "postedAt": "2026-09-26T11:31:35.282Z",
+      "postId": "0x40d4ac8351fae1253112f58a6417e495bd21c476",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "an44",
+      "company": "BVNK",
+      "title": "Senior Analyst / SME - EDD",
+      "platform": "farcaster",
+      "postedAt": "2026-09-26T11:31:35.282Z",
+      "postId": "0x763452c790b574a797c2cb7fca7f690b861464fe",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "an44",
+      "company": "BVNK",
+      "title": "Senior Analyst / SME - EDD",
+      "platform": "farcaster",
+      "postedAt": "2026-09-26T11:31:35.282Z",
+      "postId": "0x13e54cde5a4c336a53136f2c24462349e7e974b9",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "an44",
+      "company": "BVNK",
+      "title": "Senior Analyst / SME - EDD",
+      "platform": "farcaster",
+      "postedAt": "2026-09-26T11:31:35.282Z",
+      "postId": "0x5e35b6fcddbb1ac39678da45e89b0e11df85922f",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "an44",
+      "company": "BVNK",
+      "title": "Senior Analyst / SME - EDD",
+      "platform": "farcaster",
+      "postedAt": "2026-09-26T11:31:35.282Z",
+      "postId": "0x612ff9118e44c9f6dcc5d470d17bbc4c52ab5136",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "an44",
+      "company": "BVNK",
+      "title": "Senior Analyst / SME - EDD",
+      "platform": "farcaster",
+      "postedAt": "2026-09-26T11:31:35.282Z",
+      "postId": "0xd0de65e8769b3fb6b33d2e7ff9ee60882fbf0b84",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "an44",
+      "company": "BVNK",
+      "title": "Senior Analyst / SME - EDD",
+      "platform": "linkedin",
+      "postedAt": "2026-09-26T11:31:35.282Z",
+      "postId": "6ab7ad2ae18c79c97102d926",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "an44",
+      "company": "BVNK",
+      "title": "Senior Analyst / SME - EDD",
+      "platform": "linkedin",
+      "postedAt": "2026-09-26T11:31:35.282Z",
+      "postId": "6ab7ad353afb9171a82f8919",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "an44",
+      "company": "BVNK",
+      "title": "Senior Analyst / SME - EDD",
+      "platform": "facebook",
+      "postedAt": "2026-09-26T11:31:35.282Z",
+      "postId": "691827047618629_1098552849418616",
+      "verification": "verified"
+    },
+    {
+      "slug": "an44",
+      "company": "BVNK",
+      "title": "Senior Analyst / SME - EDD",
+      "platform": "instagram",
+      "postedAt": "2026-09-26T11:31:35.282Z",
+      "postId": "17917971090448291",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls142",
+      "company": "Stripe",
+      "title": "Sales Manager, Velocity (Canada)",
+      "platform": "x",
+      "postedAt": "2026-09-26T11:32:36.179Z",
+      "postId": "6ab7ad54712d68a8b146f862",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Stripe is hiring Sales Manager, Velocity (Canada)\n\nhttps://hashtagweb3.com/sls142/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2103809962853937413"
+    },
+    {
+      "slug": "sls142",
+      "company": "Stripe",
+      "title": "Sales Manager, Velocity (Canada)",
+      "platform": "threads",
+      "postedAt": "2026-09-26T11:32:36.179Z",
+      "postId": "17955330168252277",
+      "verification": "verified",
+      "expectedText": "Stripe is hiring Sales Manager, Velocity (Canada): https://hashtagweb3.com/sls142/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/Ddv74CWm8r8",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "sls142",
+      "company": "Stripe",
+      "title": "Sales Manager, Velocity (Canada)",
+      "platform": "bluesky",
+      "postedAt": "2026-09-26T11:32:36.179Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwg6sph5fk24",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls142",
+      "company": "Stripe",
+      "title": "Sales Manager, Velocity (Canada)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-26T11:32:36.179Z",
+      "postId": "0xbeb6f190b510eb14d608e87698641c09d96e9d8c",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls142",
+      "company": "Stripe",
+      "title": "Sales Manager, Velocity (Canada)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-26T11:32:36.179Z",
+      "postId": "0x2da585dc20a170b476e6993cae4b23569d6557f5",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls142",
+      "company": "Stripe",
+      "title": "Sales Manager, Velocity (Canada)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-26T11:32:36.179Z",
+      "postId": "0xa8afe594076736eea0185ae43121c8839f5a945f",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls142",
+      "company": "Stripe",
+      "title": "Sales Manager, Velocity (Canada)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-26T11:32:36.179Z",
+      "postId": "0x9259cabbfe85d04eee0e11d3ad31f0825dfbc2e2",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls142",
+      "company": "Stripe",
+      "title": "Sales Manager, Velocity (Canada)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-26T11:32:36.179Z",
+      "postId": "0xf5bbe7918d60f4e585b650f8b5d82499b27d29d0",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls142",
+      "company": "Stripe",
+      "title": "Sales Manager, Velocity (Canada)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-26T11:32:36.179Z",
+      "postId": "0xe6410c9b9b84f0073530743cb66f06a791634027",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls142",
+      "company": "Stripe",
+      "title": "Sales Manager, Velocity (Canada)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-26T11:32:36.179Z",
+      "postId": "0x71f6ab7861ba0abc8909a2c1a131d08460c0db14",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls142",
+      "company": "Stripe",
+      "title": "Sales Manager, Velocity (Canada)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-26T11:32:36.179Z",
+      "postId": "0x87b3e854d3f16e694825601f56fbd73fa4465c13",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls142",
+      "company": "Stripe",
+      "title": "Sales Manager, Velocity (Canada)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-26T11:32:36.179Z",
+      "postId": "0x277d67b8747100e1472ac6bb98d6265c179ecb4b",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls142",
+      "company": "Stripe",
+      "title": "Sales Manager, Velocity (Canada)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-26T11:32:36.179Z",
+      "postId": "0x9df11c794510c7f0f6cc60e68f967051daa4c8be",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls142",
+      "company": "Stripe",
+      "title": "Sales Manager, Velocity (Canada)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-26T11:32:36.179Z",
+      "postId": "0x3de2f45227997c5b829930a7b607e99c4c9406b9",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls142",
+      "company": "Stripe",
+      "title": "Sales Manager, Velocity (Canada)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-26T11:32:36.179Z",
+      "postId": "0x436cc608a446a19fed5c237ca290402fe7913c4f",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls142",
+      "company": "Stripe",
+      "title": "Sales Manager, Velocity (Canada)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-26T11:32:36.179Z",
+      "postId": "0x56be73059f08ae57e6531ad51a46a933ed8c8d18",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls142",
+      "company": "Stripe",
+      "title": "Sales Manager, Velocity (Canada)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-26T11:32:36.179Z",
+      "postId": "0x254e7b92b0998ed24949007b7df81f85af6910de",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls142",
+      "company": "Stripe",
+      "title": "Sales Manager, Velocity (Canada)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-26T11:32:36.179Z",
+      "postId": "0x10b2b45e7a44f26deea7e1785d0b5974729de763",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls142",
+      "company": "Stripe",
+      "title": "Sales Manager, Velocity (Canada)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-26T11:32:36.179Z",
+      "postId": "0x197efce9be6e2abd4ef487cf914afa7af54839d8",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls142",
+      "company": "Stripe",
+      "title": "Sales Manager, Velocity (Canada)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-26T11:32:36.179Z",
+      "postId": "0xe9d88e1fb7a314cf211aa84645ec9aecbc039ef8",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls142",
+      "company": "Stripe",
+      "title": "Sales Manager, Velocity (Canada)",
+      "platform": "linkedin",
+      "postedAt": "2026-09-26T11:32:36.179Z",
+      "postId": "6ab7ad6538c0afb4ce643ac5",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls142",
+      "company": "Stripe",
+      "title": "Sales Manager, Velocity (Canada)",
+      "platform": "linkedin",
+      "postedAt": "2026-09-26T11:32:36.179Z",
+      "postId": "6ab7ad6f38c0afb4ce643bf6",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls142",
+      "company": "Stripe",
+      "title": "Sales Manager, Velocity (Canada)",
+      "platform": "facebook",
+      "postedAt": "2026-09-26T11:32:36.179Z",
+      "postId": "691827047618629_1098553546085213",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls142",
+      "company": "Stripe",
+      "title": "Sales Manager, Velocity (Canada)",
+      "platform": "instagram",
+      "postedAt": "2026-09-26T11:32:36.179Z",
+      "postId": "18631183861041276",
       "verification": "verified"
     }
   ]
