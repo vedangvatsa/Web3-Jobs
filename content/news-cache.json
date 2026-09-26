@@ -1,6 +1,78 @@
 {
-  "generatedAt": "2026-09-26T11:31:29.943Z",
+  "generatedAt": "2026-09-26T19:31:43.185Z",
   "items": [
+    {
+      "title": "Bitcoin ETFs turn positive for 2026 with $2.4 billion weekly inflow, their largest since October",
+      "link": "https://www.theblock.co/news/markets/2026-09-26-bitcoin-etfs-turn-positive-for-2026-with-2-4-billion-weekly-inflow-their-largest-since-october-416944",
+      "pubDate": "Sat, 26 Sep 2026 17:24:12 +0000",
+      "creator": "Zack Abrams",
+      "contentSnippet": "The inflows pushed bitcoin ETFs' year-to-date net flows back above zero, after the funds sat roughly $5.8 billion in the red just two months ago.",
+      "source": "The Block"
+    },
+    {
+      "title": "How Crypto Stopped Waiting for Congress and Learned to Love the Regulators",
+      "link": "https://decrypt.co/379383/how-crypto-stopped-waiting-congress-learned-love-regulators",
+      "pubDate": "Sat, 26 Sep 2026 16:06:03 +0000",
+      "creator": "Staff",
+      "contentSnippet": "After the Clarity Act failed in the Senate, the SEC, CFTC, and the Fed moved within days to write crypto's rules themselves. Will it be enough?",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Kalshi loses appeal over Ohio and Tennessee sports betting laws, widening circuit split",
+      "link": "https://www.theblock.co/news/regulation/2026-09-26-kalshi-loses-appeal-over-ohio-and-tennessee-sports-betting-laws-widening-circuit-split-416937",
+      "pubDate": "Sat, 26 Sep 2026 15:17:34 +0000",
+      "creator": "Zack Abrams",
+      "contentSnippet": "A federal appeals court ruled on Friday that Kalshi has not adequately shown its sports event contracts are swaps under the Commodity Exchange Act.",
+      "source": "The Block"
+    },
+    {
+      "title": "AI Agents Are Racing to Make Quantum-Safe Bitcoin Cheap—And Winning",
+      "link": "https://decrypt.co/379378/ai-agents-racing-make-quantum-safe-bitcoin-cheap",
+      "pubDate": "Sat, 26 Sep 2026 15:01:05 +0000",
+      "creator": "Staff",
+      "contentSnippet": "An open competition run by StarkWare, Yukon Research, and Eigen Labs drove the estimated cost of building a quantum-safe Bitcoin transaction from abou...",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Kraken’s parent Payward is betting billions on becoming financial infrastructure, not just a crypto exchange",
+      "link": "https://www.coindesk.com/business/2026/09/26/kraken-s-parent-payward-is-betting-billions-on-becoming-financial-infrastructure-not-just-a-crypto-exchange",
+      "pubDate": "Sat, 26 Sep 2026 14:00:00 +0000",
+      "creator": "Will Canny",
+      "contentSnippet": "Kraken parent Payward is unifying trading, payments, asset management and institutional services on common rails, co-CEO Arjun Sethi said.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Binance deal gives Circle a boost in stablecoin race with Tether, analysts say",
+      "link": "https://www.coindesk.com/business/2026/09/26/binance-deal-gives-circle-a-boost-in-stablecoin-race-with-tether-analysts-say",
+      "pubDate": "Sat, 26 Sep 2026 13:00:00 +0000",
+      "creator": "Krisztian Sandor",
+      "contentSnippet": "The five-year deal could strengthen USDC’s reach in emerging markets, though Tether’s liquidity advantage remains hard to dislodge, analysts told Coin...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Bitget hacker moves $83 million in stolen XRP that Ripple cannot freeze",
+      "link": "https://www.coindesk.com/markets/2026/09/26/bitget-hacker-moves-usd83-million-in-stolen-xrp-that-ripple-cannot-freeze",
+      "pubDate": "Sat, 26 Sep 2026 12:56:41 +0000",
+      "creator": "Shaurya Malwa",
+      "contentSnippet": "Two wallets have been almost emptied and a third is being drained, with about $75 million remaining across the five original holding accounts.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
+      "link": "https://www.coindesk.com/tech/2026/09/25/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules",
+      "pubDate": "Sat, 26 Sep 2026 12:00:00 +0000",
+      "creator": "Shaurya Malwa",
+      "contentSnippet": "Researchers have mapped out private bitcoin-denominated transfers that run alongside Bitcoin, but the system still lacks a finished way to lock up rea...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "New York Sues Polymarket for Allegedly Running Illegal Gambling Operation",
+      "link": "https://dailyhodl.com/2026/09/26/new-york-sues-polymarket-for-running-illegal-gambling-operation/",
+      "pubDate": "Sat, 26 Sep 2026 11:45:19 +0000",
+      "creator": "Agent",
+      "contentSnippet": "New York Attorney General Letitia James and Governor Kathy Hochul sued QCX LLC doing business as Polymarket US for operating an unlicensed prediction ...",
+      "source": "Daily Hodl"
+    },
     {
       "title": "SEC Commissioner Hester Peirce to leave post on Oct. 2",
       "link": "https://cointelegraph.com/news/sec-commissioner-hester-peirce-to-leave-post-on-oct-2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -34,28 +106,12 @@
       "source": "Coindesk"
     },
     {
-      "title": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
-      "link": "https://www.coindesk.com/tech/2026/09/26/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules",
-      "pubDate": "Sat, 26 Sep 2026 04:02:13 +0000",
-      "creator": "Shaurya Malwa",
-      "contentSnippet": "Researchers have mapped out private bitcoin-denominated transfers that run alongside Bitcoin, but the system still lacks a finished way to lock up rea...",
-      "source": "Coindesk"
-    },
-    {
       "title": "US Prosecutors Want $84.2 Million From a Bank Tied to Tether",
       "link": "https://decrypt.co/379380/us-prosecutors-84-million-bank-tether-and-bitfinex",
       "pubDate": "Fri, 25 Sep 2026 21:25:35 +0000",
       "creator": "Jose Antonio Lanz",
       "contentSnippet": "Federal prosecutors are targeting a Montana payments firm and a Caribbean bank accused of moving money without a license.",
       "source": "Decrypt"
-    },
-    {
-      "title": "Another appeals court rules against prediction market provider Kalshi, says sports contracts are subject to state regulations",
-      "link": "https://www.coindesk.com/policy/2026/09/25/another-appeals-court-rules-against-prediction-market-provider-kalshi-says-sports-contracts-are-subject-to-state-regulations",
-      "pubDate": "Fri, 25 Sep 2026 21:17:30 +0000",
-      "creator": "Nikhilesh De",
-      "contentSnippet": "A Sixth Circuit Court of Appeals panel ruled that prediction markets' sports-related events contracts are not swaps, and therefore aren't subject to f...",
-      "source": "Coindesk"
     },
     {
       "title": "OG.com seeks CFTC approval for single-stock perpetual futures",
@@ -96,14 +152,6 @@
       "creator": "Turner Wright",
       "contentSnippet": "US prosecutors alleged that a payments business illegally transferred hundreds of millions of dollars at the direction of EQIBank, where Tether holds ...",
       "source": "Cointelegraph"
-    },
-    {
-      "title": "Circle and Tether Freeze Stablecoins Tied to Bitget Hack—But Most Funds Slip Away",
-      "link": "https://decrypt.co/379365/circle-tether-freeze-stablecoins-bitget-hack",
-      "pubDate": "Fri, 25 Sep 2026 18:42:51 +0000",
-      "creator": "Agent",
-      "contentSnippet": "The two stablecoin issuers blacklisted a wallet labeled \"Bitget Exploiter 8,\" locking about $318,000 in USDC and USDT—but the attacker swapped most fu...",
-      "source": "Decrypt"
     },
     {
       "title": "Former Hack VC partner Hsin-Ju Chuang’s death ruled a suicide",
@@ -266,14 +314,6 @@
       "source": "Daily Hodl"
     },
     {
-      "title": "Bitcoin ETF flows turn positive for 2026 after erasing $5.8 billion deficit",
-      "link": "https://www.coindesk.com/markets/2026/09/25/bitcoin-etfs-have-erased-a-usd5-8-billion-hole",
-      "pubDate": "Fri, 25 Sep 2026 09:13:01 +0000",
-      "creator": "Omkar Godbole",
-      "contentSnippet": "At one point in July, ETFs were down $5.8 billion in net outflows for the year. Now, that’s turned into $800 million in net inflows.",
-      "source": "Coindesk"
-    },
-    {
       "title": "Bitcoin ETF inflows slow to $191M as six-day streak reaches $2.8B",
       "link": "https://cointelegraph.com/markets/bitcoin-etf-six-day-streak-2-8-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Fri, 25 Sep 2026 07:41:36 +0000",
@@ -322,14 +362,6 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "New York sues Polymarket, alleging it is running an illegal gambling operation",
-      "link": "https://www.coindesk.com/policy/2026/09/24/new-york-sues-polymarket-alleging-it-is-running-an-illegal-gambling-operation",
-      "pubDate": "Thu, 24 Sep 2026 22:41:44 +0000",
-      "creator": "Helene Braun",
-      "contentSnippet": "The state wants to block Polymarket from operating without a gambling license and recover allegedly illegal gains.",
-      "source": "Coindesk"
-    },
-    {
       "title": "U.S. Federal Reserve moves on proposals to implement GENIUS Act for stablecoins",
       "link": "https://www.coindesk.com/policy/2026/09/24/u-s-federal-reserve-moves-on-proposals-to-implement-genius-act-for-stablecoins",
       "pubDate": "Thu, 24 Sep 2026 22:28:49 +0000",
@@ -362,14 +394,6 @@
       "source": "Coindesk"
     },
     {
-      "title": "U.S. commodities firms can invest in tokenized assets, use blockchain records: CFTC",
-      "link": "https://www.coindesk.com/policy/2026/09/24/u-s-commodities-firms-can-invest-in-tokenized-assets-use-blockchain-records-cftc",
-      "pubDate": "Thu, 24 Sep 2026 20:04:46 +0000",
-      "creator": "Jesse Hamilton",
-      "contentSnippet": "The U.S derivatives regulator is grinding away at further guidance that welcomes tokenization and blockchain recordkeeping as regular industry element...",
-      "source": "Coindesk"
-    },
-    {
       "title": "DoubleZero brings dedicated fiber market data to Hyperliquid traders",
       "link": "https://cointelegraph.com/news/doublezero-brings-dedicated-fiber-market-data-hyperliquid-traders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Thu, 24 Sep 2026 20:04:07 +0000",
@@ -378,28 +402,12 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "The stock token debate, and the gap nobody can close alone",
-      "link": "https://www.coindesk.com/opinion/2026/09/24/the-stock-token-debate-and-the-gap-nobody-can-close-alone",
-      "pubDate": "Thu, 24 Sep 2026 20:03:21 +0000",
-      "creator": "Tram Doman",
-      "contentSnippet": "The argument over Robinhood’s AMC token has been about which tokenization model is legitimate, and the SEC has drawn a line. The question to ask now i...",
-      "source": "Coindesk"
-    },
-    {
       "title": "Solana treasury firm SkyAI keeps board after shareholder protest, loses equity plan vote",
       "link": "https://www.theblock.co/news/business/2026-09-24-solana-treasury-skyai-keeps-board-shareholder-protest-loses-equity-plan-vote-416298",
       "pubDate": "Thu, 24 Sep 2026 19:17:47 +0000",
       "creator": "Kyle Baird",
       "contentSnippet": "SkyAI’s board survived a shareholder protest, but its proposed equity pay plan fell by a wide margin.",
       "source": "The Block"
-    },
-    {
-      "title": "Bitcoin just topped a key long-term moving average. Here's what it might mean",
-      "link": "https://www.coindesk.com/markets/2026/09/24/bitcoin-just-topped-a-key-long-term-moving-average-here-s-what-it-might-mean",
-      "pubDate": "Thu, 24 Sep 2026 18:46:58 +0000",
-      "creator": "Olivier Acuna",
-      "contentSnippet": "Bitcoin’s return above its one-year average excited chart watchers. AltcoinPro Research says the more important signal is whether it can stay above it...",
-      "source": "Coindesk"
     },
     {
       "title": "ARK Invest brings $1.3 billion venture fund onchain through Securitize",
@@ -434,14 +442,6 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "Sequans exits Bitcoin treasury strategy after selling remaining 314 BTC",
-      "link": "https://cointelegraph.com/news/sequans-exits-bitcoin-treasury-strategy-after-selling-remaining-314-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Thu, 24 Sep 2026 17:13:38 +0000",
-      "creator": "Nate Kostar",
-      "contentSnippet": "The France-based semiconductor company has fully unwound a Bitcoin treasury that once held more than 3,200 BTC as more firms scale back crypto holding...",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "US Aims to Turn Stablecoins Into a Weapon for Dollar Dominance",
       "link": "https://decrypt.co/379219/us-stablecoins-weapon-dollar-dominance",
       "pubDate": "Thu, 24 Sep 2026 16:55:43 +0000",
@@ -464,14 +464,6 @@
       "creator": "Agent",
       "contentSnippet": "Police believe the robbery was planned and targeted, with instructions relayed to the three attackers by a fourth man on a video call.",
       "source": "Decrypt"
-    },
-    {
-      "title": "Visa Says Bank-Level Fraud Protection and Deposit Insurance Could Unlock US Stablecoin Adoption",
-      "link": "https://dailyhodl.com/2026/09/24/visa-says-bank-level-fraud-protection-and-deposit-insurance-could-unlock-us-stablecoin-adoption/",
-      "pubDate": "Thu, 24 Sep 2026 14:30:50 +0000",
-      "creator": "Agent",
-      "contentSnippet": "A new Visa report shows hypothetical bank-level fraud protection and deposit insurance could boost American interest in stablecoins for cross-border p...",
-      "source": "Daily Hodl"
     },
     {
       "title": "Ondo launches onchain portfolio tokens based on BlackRock-developed strategies",
@@ -504,6 +496,14 @@
       "creator": "Tyler Warner",
       "contentSnippet": "The CFTC has been extremely busy ever since the Clarity Act failed its vote, and it appears they’re ready to accelerate.",
       "source": "Decrypt"
+    },
+    {
+      "title": "IBM connects Digital Asset Haven to Swift blockchain ledger for tokenized deposit transactions",
+      "link": "https://www.theblock.co/news/business/2026-09-24-ibm-connects-digital-asset-haven-to-swift-blockchain-ledger-for-tokenized-deposit-transactions-416237",
+      "pubDate": "Thu, 24 Sep 2026 10:00:00 +0000",
+      "creator": "James Hunt",
+      "contentSnippet": "IBM Digital Asset Haven clients can now connect to Swift's shared ledger and instruct tokenized deposit transactions.",
+      "source": "The Block"
     }
   ]
 }
