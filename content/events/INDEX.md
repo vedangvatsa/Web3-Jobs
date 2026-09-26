@@ -45,7 +45,7 @@ Each entry links to its formatted description and original source file. All stor
 | [BTCHEL 2026](descriptions.md#event-57f9234e29ce39ec) | 2026-09-25 | Source-backed (1420 chars) |
 | [Pragma Tokyo 2026](descriptions.md#event-3caf4cf36974e5ab) | 2026-09-26 | Source-backed (1202 chars) |
 | [Metamorphosis 2026](descriptions.md#event-e38376dc53a697ba) | 2026-09-26 | Source-backed (688 chars) |
-| [India Blockchain & AI Tour 2026](descriptions.md#event-576eb08ee94d90da) | 2026-09-26 | Source-backed (2664 chars) |
+| [India Blockchain & AI Tour 2026](descriptions.md#event-576eb08ee94d90da) | 2026-09-26 | Source-backed (960 chars) |
 | [The Bridge Summit](descriptions.md#event-d4e964dca12aa7c1) | 2026-09-28 | Source-backed (6470 chars) |
 | [Crypto House Seoul '26](descriptions.md#event-d0bf7514f4a4483e) | 2026-09-28 | Source-backed (1706 chars) |
 | [Agentic Payments Onchain 2026](descriptions.md#event-0c48017538f0de2a) | 2026-09-28 | Source-backed (2455 chars) |
@@ -80,7 +80,6 @@ Each entry links to its formatted description and original source file. All stor
 | [Stablecoin Summit Singapore 2026](descriptions.md#event-9c798a3d0e6b65c0) | 2026-10-08 | Source-backed (909 chars) |
 | [The Odds: Prediction Markets Summit Singapore 2026](descriptions.md#event-c7a04d91ec43b6f9) | 2026-10-08 | Source-backed (986 chars) |
 | [Finality Forum @ Token2049 SG 2026](descriptions.md#event-467a691911b38aa4) | 2026-10-09 | Source-backed (1730 chars) |
-| [India Blockchain & AI Tour 2026 — Chennai](descriptions.md#event-5ecdadb4607140a3) | 2026-10-10 | Source-backed (2664 chars) |
 | [TABConf 8 2026](descriptions.md#event-599c9fb2732808a8) | 2026-10-12 | Source-backed (680 chars) |
 | [CoinAlts 2026](descriptions.md#event-2e295b1d8ee6ba60) | 2026-10-14 | Source-backed (784 chars) |
 | [Africa Blockchain Festival 2026](descriptions.md#event-2d5d212da48b72b3) | 2026-10-15 | Source-backed (3158 chars) |
@@ -88,6 +87,7 @@ Each entry links to its formatted description and original source file. All stor
 | [EDCON 2026](descriptions.md#event-73a127e5fe65ae21) | 2026-10-17 | Source-backed (742 chars) |
 | [India Blockchain & AI Tour 2026 — Bengaluru](descriptions.md#event-76be3d5b5d16f0b7) | 2026-10-17 | Source-backed (2664 chars) |
 | [Money20/20 USA](descriptions.md#event-ee48506916430ec6) | 2026-10-18 | Source-backed (2398 chars) |
+| [India Blockchain & AI Tour 2026 — Chennai](descriptions.md#event-5ecdadb4607140a3) | 2026-10-18 | Source-backed (2664 chars) |
 | [Blockf3st Africa 2026](descriptions.md#event-8b88820248c00987) | 2026-10-22 | Source-backed (946 chars) |
 | [Plan B Forum Lugano 2026](descriptions.md#event-bb9b15ba8e97af97) | 2026-10-23 | Source-backed (1360 chars) |
 | [ETHKL 2026](descriptions.md#event-698d6e083e57477b) | 2026-10-23 | Unverified stored copy (158 chars) |

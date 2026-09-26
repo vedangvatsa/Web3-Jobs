@@ -55,7 +55,7 @@ export default function DevelopersPage() {
     '@context': 'https://schema.org',
     '@type': 'TechArticle',
     headline: 'Hashtag Web3 API Documentation & Developer Portal',
-    description: 'Guide and reference for integrating with Hashtag Web3 REST APIs, feeds, and agent surfaces.',
+    description: 'Guide to Hashtag Web3 public JSON catalogs, feeds, and agent discovery files.',
     url: 'https://hashtagweb3.com/developers',
     author: { '@type': 'Organization', name: 'Hashtag Web3', url: 'https://hashtagweb3.com' },
   };
@@ -68,12 +68,11 @@ export default function DevelopersPage() {
           <EditorialPageHero
             eyebrow="Developer portal"
             title="Hashtag Web3 API & Developer Portal"
-            description="Use the same jobs, news, events, and glossary data that powers Hashtag Web3. Start with a static catalog under /data/, inspect OpenAPI if you need a schema, and keep integrations free of hosted MCP or sandbox servers."
+            description="Download public JSON snapshots of jobs, news, events, and glossary terms. Use the catalog links, OpenAPI schema, and request example below to build integrations."
             image={communityPhotos[2].src}
             imageAlt={communityPhotos[2].alt}
           >
             <a href="/openapi.json" target="_blank" rel="noopener noreferrer"><Button size="lg">OpenAPI schema <ArrowRight className="ml-2 h-4 w-4" /></Button></a>
-            <Link href="/docs"><Button size="lg" variant="outline">Read the docs</Button></Link>
           </EditorialPageHero>
 
           <section className="grid gap-5 sm:grid-cols-3">
@@ -94,7 +93,7 @@ export default function DevelopersPage() {
 
           <section className="grid gap-8 lg:grid-cols-2">
             <div className="rounded-2xl bg-muted/50 p-6 sm:p-8"><p className="text-xs font-semibold uppercase tracking-[0.2em] text-primary">Machine-readable files</p><h2 className="mt-3 text-2xl font-bold tracking-tight">Discovery without the scavenger hunt.</h2><div className="mt-6 space-y-3">{files.map((file) => <a key={file.path} href={file.path} target="_blank" rel="noopener noreferrer" className="flex items-center justify-between rounded-lg border border-border/70 bg-background p-3 hover:border-primary"><span><span className="block text-sm font-semibold">{file.label}</span><code className="text-xs text-primary">{file.path}</code></span><ArrowRight className="h-4 w-4 text-primary" /></a>)}</div></div>
-            <div className="rounded-2xl border border-border/70 bg-card p-6 shadow-sm sm:p-8"><p className="text-xs font-semibold uppercase tracking-[0.2em] text-primary">Authentication</p><h2 className="mt-3 text-2xl font-bold tracking-tight">Read openly. Authenticate when needed.</h2><p className="mt-4 text-sm leading-7 text-muted-foreground">Public read endpoints are free to query. Agents and partners that need elevated limits or write operations can use the documented registration and bearer-token flow.</p><ul className="mt-6 space-y-3 text-sm text-muted-foreground">{['Public read endpoints need no key.', 'Agent registration returns a scoped token.', 'CORS is enabled for browser integrations.'].map((item) => <li key={item} className="flex gap-3"><Check className="mt-0.5 h-4 w-4 shrink-0 text-primary" />{item}</li>)}</ul><Link href="/auth.md" className="mt-6 inline-flex items-center text-sm font-semibold text-primary hover:underline">Read auth.md <ArrowRight className="ml-1 h-4 w-4" /></Link></div>
+            <div className="rounded-2xl border border-border/70 bg-card p-6 shadow-sm sm:p-8"><p className="text-xs font-semibold uppercase tracking-[0.2em] text-primary">Access</p><h2 className="mt-3 text-2xl font-bold tracking-tight">Public, read-only catalogs</h2><p className="mt-4 text-sm leading-7 text-muted-foreground">Fetch snapshots over HTTP and filter the returned data in your integration.</p><ul className="mt-6 space-y-3 text-sm text-muted-foreground">{['Public reads require no API key.', 'Catalogs are static snapshots, refreshed with deployments.', 'For browser apps on another domain, fetch through your own backend.'].map((item) => <li key={item} className="flex gap-3"><Check className="mt-0.5 h-4 w-4 shrink-0 text-primary" />{item}</li>)}</ul><Link href="/openapi.json" className="mt-6 inline-flex items-center text-sm font-semibold text-primary hover:underline">View the OpenAPI schema <ArrowRight className="ml-1 h-4 w-4" /></Link></div>
           </section>
         </div>
       </PageShell>

@@ -95,6 +95,11 @@ const nextConfig = {
       },
       // Same jobs RSS as /jobs/feed.xml (legacy short URL)
       { source: '/feed.xml', destination: '/jobs/feed.xml', permanent: true },
+      { source: '/docs', destination: '/developers', permanent: true },
+      { source: '/api-docs', destination: '/developers', permanent: true },
+      { source: '/auth', destination: '/developers', permanent: true },
+      { source: '/api-policy', destination: '/api-policy.md', permanent: true },
+      { source: '/docs/llms.txt', destination: '/developers/llms.txt', permanent: true },
       {
         source: '/blog/:slug((?!llms\\.txt$).*)',
         destination: '/:slug',
@@ -140,8 +145,8 @@ const nextConfig = {
       { source: '/how-to-build-a-web3-resume', destination: '/how-to-build-a-web3-resume-that-stands-out', permanent: true },
       { source: '/gas-optimization-guide-for-solidity-developers', destination: '/gas-optimization-techniques-for-solidity-developers', permanent: true },
       { source: '/how-to-be-a-good-community-moderator', destination: '/web3-community-manager-career', permanent: true },
-      { source: '/deprecation-policy', destination: '/api-policy', permanent: true },
-      { source: '/versioning-policy', destination: '/api-policy', permanent: true },
+      { source: '/deprecation-policy', destination: '/api-policy.md', permanent: true },
+      { source: '/versioning-policy', destination: '/api-policy.md', permanent: true },
       { source: '/popups/ns', destination: '/ns', permanent: true },
       { source: '/popups/logos', destination: '/logos-society', permanent: true },
       { source: '/popups/logos-society', destination: '/logos-society', permanent: true },

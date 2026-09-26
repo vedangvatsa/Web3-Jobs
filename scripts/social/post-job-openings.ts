@@ -47,6 +47,7 @@ import * as path from 'path';
 import dotenv from 'dotenv';
 import { BufferXClient, BUFFER_X_CHANNEL_ID, BUFFER_X_ACCOUNT } from './buffer-x';
 import { linkedInTargets, hasLinkedInReceipt, publishLinkedInTargets, type LinkedInTarget } from './linkedin-targets';
+import { PersonalLinkedInClient, personalLinkedInConfig } from './linkedin-personal';
 import { buildUniqueJobMetaDescription } from '../../src/lib/job-guides';
 import { buildJobOgImageUrl, buildJobInstagramImageUrl, JOB_OG_VERSION, SITE_URL } from '../../src/lib/job-og';
 
@@ -86,7 +87,7 @@ interface SocialHistoryEntry {
   account?: string;
   verification?: 'pending' | 'verified';
   expectedText?: string;
-  provider?: 'buffer';
+  provider?: 'buffer' | 'linkedin-direct';
 }
 
 const SOCIAL_PLATFORMS = ['x', 'threads', 'bluesky', 'farcaster', 'linkedin', 'facebook', 'instagram'] as const;
@@ -1488,7 +1489,7 @@ async function main() {
   console.log(farcasterPostText);
   console.log(`-----------------------------------------------`);
 
-  console.log(`\n--- Preview: LinkedIn (${linkedInTargets().map((target) => target.label).join(' + ')} via Buffer) ---`);
+  console.log(`\n--- Preview: LinkedIn (${linkedInTargets().map((target) => `${target.label} via ${target.transport === 'direct' ? 'LinkedIn API' : 'Buffer'}`).join(' + ')}) ---`);
   console.log(linkedinPostText);
   console.log(`--------------------------------------------------------`);
 
@@ -1694,7 +1695,7 @@ async function main() {
    if (shouldPublishPlatform('linkedin')) {
     attemptedPlatforms.add('linkedin');
     try {
-      console.log('Submitting to LinkedIn #Web3 and CVin.Bio via Buffer link previews...');
+      console.log('Submitting to configured LinkedIn destinations...');
       const preview = verifiedPreviews.get('linkedin') || null;
       if (!preview) {
         console.error('✗ LinkedIn publish skipped by readiness gate (see above). Not marking as posted.');
@@ -1702,15 +1703,15 @@ async function main() {
         const targets = linkedInTargets();
         const results = await publishLinkedInTargets(
           state.history, slug, targets,
-          (target) => postToLinkedInBuffer(target, linkedinPostText, {
-            url: linkedinUrl,
-            title: preview.title,
-            description: preview.description || undefined,
-            thumbnail: preview.image,
-          }),
+          (target) => {
+            const link = { url: linkedinUrl, title: preview.title, description: preview.description || undefined, thumbnail: preview.image };
+            return target.transport === 'direct'
+              ? new PersonalLinkedInClient(personalLinkedInConfig()).create(linkedinPostText, link)
+              : postToLinkedInBuffer(target, linkedinPostText, link);
+          },
           (target, bufferPostId) => recordVerifiedPost(state, {
             slug, company, title, platform: 'linkedin', postedAt: now,
-            postId: bufferPostId, account: target.channelId, provider: 'buffer',
+            postId: bufferPostId, account: target.channelId, provider: target.transport === 'direct' ? 'linkedin-direct' : 'buffer',
           }),
           force,
         );

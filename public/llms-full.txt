@@ -67,7 +67,6 @@ Hosted catalog REST (`/api/jobs`, `/api/v1/*`), MCP (`/mcp`, `/api/mcp`), `/ask`
 All developer resources below include "Hashtag Web3" in their title and are published at predictable URLs for name-based search:
 
 - [Hashtag Web3 Developer Portal](https://hashtagweb3.com/developers): Static catalog integration guide, OpenAPI, CLI, and agent discovery links.
-- [Hashtag Web3 Developer Docs (Alias)](https://hashtagweb3.com/api-docs): Alias of the developer portal.
 - [Hashtag Web3 OpenAPI Specification (JSON)](https://hashtagweb3.com/openapi.json): OpenAPI 3.1.0 — static `/data/*` catalog URLs.
 - [Hashtag Web3 OpenAPI Specification (YAML)](https://hashtagweb3.com/api/openapi.yaml): YAML mirror of the static catalog spec.
 - [Hashtag Web3 Optional Auth Guide](https://hashtagweb3.com/auth.md): Fork/private deployment auth patterns (public read uses `/data/*` without credentials).
@@ -82,7 +81,7 @@ All developer resources below include "Hashtag Web3" in their title and are publ
 - [Hashtag Web3 Source Repository](https://github.com/vedangvatsa/Web3-Jobs): Public repo with `AGENTS.md`, catalogs, and agent skills.
 - **NPM SDK**: [`@hashtag_web3_/sdk`](https://www.npmjs.com/package/@hashtag_web3_/sdk) (homepage: `https://hashtagweb3.com`)
 - **CLI**: [`hashtagweb3`](https://www.npmjs.com/package/hashtagweb3) — `npx hashtagweb3 jobs --search Solidity` (reads `/data/*`)
-- [Hashtag Web3 Integrator Policy](https://hashtagweb3.com/api-policy): Static catalog stability and deprecation notice for integrators.
+- [Hashtag Web3 Integrator Policy](https://hashtagweb3.com/api-policy.md): Static catalog stability and deprecation notice for integrators.
 
 ## Official CLI Tool & SDKs
 
@@ -116,7 +115,6 @@ npm install @hashtag_web3_/sdk
 
 - [Jobs Scoped Index](https://hashtagweb3.com/jobs/llms.txt): Job categories, role types, and hiring ecosystem feeds.
 - [Developers Scoped Index](https://hashtagweb3.com/developers/llms.txt): Static catalogs, OpenAPI, and integration patterns.
-- [Docs Scoped Index](https://hashtagweb3.com/docs/llms.txt): Documentation and career guide references.
 - [API Scoped Index](https://hashtagweb3.com/api/llms.txt): Legacy path — prefer `/developers` and `/data/*` catalogs.
 - [Glossary Scoped Index](https://hashtagweb3.com/glossary-scoped.txt): 200+ blockchain, DeFi, and cryptography terms taxonomy.
 - [Learn Scoped Index](https://hashtagweb3.com/learn/llms.txt): 47 structured Web3 courses and curricula.

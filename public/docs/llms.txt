@@ -1,3 +1,0 @@
-# Hashtag Web3 — docs scoped context
-
-Production integration is **static `/data/*.json` catalogs** only. See https://hashtagweb3.com/developers and https://hashtagweb3.com/openapi.json.

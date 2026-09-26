@@ -1,7 +1,7 @@
 ---
 title: "Hashtag Web3 data catalog policy"
 description: "How static /data/* catalogs are versioned and updated on hashtagweb3.com."
-canonical: "https://hashtagweb3.com/api-policy"
+canonical: "https://hashtagweb3.com/api-policy.md"
 last-updated: "2026-09-21"
 ---
 

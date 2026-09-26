@@ -708,53 +708,15 @@ The Hyderabad event spans September 26-27, with two full days of programming.
 - Original page: <https://indiablockchaintour.com/2026-nodes>
 - Original page: <https://indiablockchaintour.com/>
 
-### Welcome to India Blockchain & AI Tour 2026
+### About the event
 
-Welcome to the 5th Edition of the India Blockchain & AI Tour; our most ambitious journey through the heart of the world's fastest-growing Web3 economy. As the global spotlight turns to India for Devcon 2026, IBT returns to 10 cities to bridge the gap between global innovation and local grassroots talent.
+India Blockchain & AI Tour 2026 is the fifth edition of Octaloop's multi-city event series for blockchain and AI developers, founders, investors and enterprise teams. The tour runs across ten Indian cities from September 26 to November 22.
 
-This is our biggest year yet, designed to connect 15,000+ builders, founders, and leaders across Tier 1 and Tier 2 hubs. We aren't just hosting events; we are building the definitive highway for the Indian ecosystem. Welcome to the distribution layer of the future. The road starts here.
+Metamorphosis in Hyderabad is the tour's two-day flagship event on September 26-27. Its announced program includes investor roundtables and a Founder Demo Day.
 
-### Architect Networking
+The remaining stops are Bengaluru on October 17, Chennai on October 18, Mumbai on October 31, Pune on November 1, Goa on November 7, Delhi on November 14, Jaipur on November 15, Lucknow on November 21 and Chandigarh on November 22. The organizer lists the city events from 10 AM to 5 PM.
 
-With >65% decision-maker attendance, IBT is where global protocol founders meet India's institutional capital.
-
-### Market Penetration
-
-Bridge the gap between global tech and India's 500M+ digital natives across 10 strategic cities
-
-### Talent Integration
-
-Engage with the world's densest pool of Ethereum, Solana, and Polygon developers via curated talent showcases.
-
-### Elite VIP Access
-
-From private HNI dinners to exclusive 'Whale Lounges,' experience the highest tier of Indian business hospitality.
-
-### IBT26 Sponsors
-
-Meet the Sponsors making an impact for Web3 and AI around the globe.
-
-### Our IBT26 flagship event Metamorphosis Hyderabad
-
-Metamorphosis is the crown jewel of the India Blockchain Tour; a high-impact convergence of global protocols and Indias leading AI x Web3 innovators.
-
-Over two days in Hyderabad, we move beyond panels to outcomes. From curated investor roundtables to the Founder Demo Day, this is where the industrys next $100M is mapped out.
-
-### Founders & CXOs
-
-Connect with global protocols and local venture capital to turn your MVP into a market leader.
-
-### Institutional Investors
-
-Access a high-density pool of vetted Web3 startups and the developers behind India's most successful dApps.
-
-### Global Ecosystems
-
-Deploy your GTM strategy across 10 strategic nodes and integrate with the world's largest Web3 workforce.
-
-### Policy & Enterprise
-
-Engage with regulators and industry titans to lead the institutional adoption of blockchain in Bharat.
+Each stop has its own event and registration page. Use the [official tour schedule](https://indiablockchaintour.com/2026-nodes) to select a city and book its tickets; Hyderabad registration is handled through the [Metamorphosis website](https://metamorphosisconf.com/).
 
 <a id="event-d4e964dca12aa7c1"></a>
 
@@ -2715,66 +2677,6 @@ For more information, visit:
 - X: https://x.com/FinalityForum
 - LinkedIn: https://www.linkedin.com/company/finality-forum/
 
-<a id="event-5ecdadb4607140a3"></a>
-
-## India Blockchain & AI Tour 2026 — Chennai
-
-- Record: `premier-ibt-chennai-2026`
-- Source: [curated-events.json](sources/curated-events.json)
-- Starts: 2026-10-10T10:00:00+05:30
-- Description: Source-backed
-- Original page: <https://indiablockchaintour.com/2026-nodes/chennai>
-- Original page: <https://indiablockchaintour.com/2026-nodes/chennai/ticket>
-- Original page: <https://indiablockchaintour.com/>
-
-### Welcome to India Blockchain & AI Tour 2026
-
-Welcome to the 5th Edition of the India Blockchain & AI Tour; our most ambitious journey through the heart of the world's fastest-growing Web3 economy. As the global spotlight turns to India for Devcon 2026, IBT returns to 10 cities to bridge the gap between global innovation and local grassroots talent.
-
-This is our biggest year yet, designed to connect 15,000+ builders, founders, and leaders across Tier 1 and Tier 2 hubs. We aren't just hosting events; we are building the definitive highway for the Indian ecosystem. Welcome to the distribution layer of the future. The road starts here.
-
-### Architect Networking
-
-With >65% decision-maker attendance, IBT is where global protocol founders meet India's institutional capital.
-
-### Market Penetration
-
-Bridge the gap between global tech and India's 500M+ digital natives across 10 strategic cities
-
-### Talent Integration
-
-Engage with the world's densest pool of Ethereum, Solana, and Polygon developers via curated talent showcases.
-
-### Elite VIP Access
-
-From private HNI dinners to exclusive 'Whale Lounges,' experience the highest tier of Indian business hospitality.
-
-### IBT26 Sponsors
-
-Meet the Sponsors making an impact for Web3 and AI around the globe.
-
-### Our IBT26 flagship event Metamorphosis Hyderabad
-
-Metamorphosis is the crown jewel of the India Blockchain Tour; a high-impact convergence of global protocols and Indias leading AI x Web3 innovators.
-
-Over two days in Hyderabad, we move beyond panels to outcomes. From curated investor roundtables to the Founder Demo Day, this is where the industrys next $100M is mapped out.
-
-### Founders & CXOs
-
-Connect with global protocols and local venture capital to turn your MVP into a market leader.
-
-### Institutional Investors
-
-Access a high-density pool of vetted Web3 startups and the developers behind India's most successful dApps.
-
-### Global Ecosystems
-
-Deploy your GTM strategy across 10 strategic nodes and integrate with the world's largest Web3 workforce.
-
-### Policy & Enterprise
-
-Engage with regulators and industry titans to lead the institutional adoption of blockchain in Bharat.
-
 <a id="event-599c9fb2732808a8"></a>
 
 ## TABConf 8 2026
@@ -3095,6 +2997,66 @@ Join 1 in 3 C-Suite leaders at fintech's #1 event in Las Vegas October 18-21, 20
 Amplify your brand presence and maximize ROI with curated sponsorship packages based on your business goals. Explore your options today.
 
 What could take a month or two over Zoom - to really connect with people - at Money20/20 you're able to do it in person, quickly, in a very efficient way. It's that awesome in person energy that drives our deal flow.
+
+<a id="event-5ecdadb4607140a3"></a>
+
+## India Blockchain & AI Tour 2026 — Chennai
+
+- Record: `premier-ibt-chennai-2026`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-10-18T10:00:00+05:30
+- Description: Source-backed
+- Original page: <https://indiablockchaintour.com/2026-nodes/chennai>
+- Original page: <https://indiablockchaintour.com/2026-nodes/chennai/ticket>
+- Original page: <https://indiablockchaintour.com/>
+
+### Welcome to India Blockchain & AI Tour 2026
+
+Welcome to the 5th Edition of the India Blockchain & AI Tour; our most ambitious journey through the heart of the world's fastest-growing Web3 economy. As the global spotlight turns to India for Devcon 2026, IBT returns to 10 cities to bridge the gap between global innovation and local grassroots talent.
+
+This is our biggest year yet, designed to connect 15,000+ builders, founders, and leaders across Tier 1 and Tier 2 hubs. We aren't just hosting events; we are building the definitive highway for the Indian ecosystem. Welcome to the distribution layer of the future. The road starts here.
+
+### Architect Networking
+
+With >65% decision-maker attendance, IBT is where global protocol founders meet India's institutional capital.
+
+### Market Penetration
+
+Bridge the gap between global tech and India's 500M+ digital natives across 10 strategic cities
+
+### Talent Integration
+
+Engage with the world's densest pool of Ethereum, Solana, and Polygon developers via curated talent showcases.
+
+### Elite VIP Access
+
+From private HNI dinners to exclusive 'Whale Lounges,' experience the highest tier of Indian business hospitality.
+
+### IBT26 Sponsors
+
+Meet the Sponsors making an impact for Web3 and AI around the globe.
+
+### Our IBT26 flagship event Metamorphosis Hyderabad
+
+Metamorphosis is the crown jewel of the India Blockchain Tour; a high-impact convergence of global protocols and Indias leading AI x Web3 innovators.
+
+Over two days in Hyderabad, we move beyond panels to outcomes. From curated investor roundtables to the Founder Demo Day, this is where the industrys next $100M is mapped out.
+
+### Founders & CXOs
+
+Connect with global protocols and local venture capital to turn your MVP into a market leader.
+
+### Institutional Investors
+
+Access a high-density pool of vetted Web3 startups and the developers behind India's most successful dApps.
+
+### Global Ecosystems
+
+Deploy your GTM strategy across 10 strategic nodes and integrate with the world's largest Web3 workforce.
+
+### Policy & Enterprise
+
+Engage with regulators and industry titans to lead the institutional adoption of blockchain in Bharat.
 
 <a id="event-8b88820248c00987"></a>
 

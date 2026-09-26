@@ -5,6 +5,7 @@ export interface LinkedInTarget {
   channelId: string;
   name: string;
   label: string;
+  transport?: 'direct';
 }
 
 export interface LinkedInReceipt {
@@ -16,11 +17,17 @@ export interface LinkedInReceipt {
 }
 
 export function linkedInTargets(env = process.env): LinkedInTarget[] {
-  const targets = [
+  const targets: LinkedInTarget[] = [
     { channelId: env.BUFFER_LINKEDIN_CHANNEL_ID || WEB3_LINKEDIN_CHANNEL_ID, name: 'hashtagweb3', label: '#Web3' },
     { channelId: env.BUFFER_CVINBIO_CHANNEL_ID || CVINBIO_LINKEDIN_CHANNEL_ID, name: 'cvinbio', label: 'CVin.Bio' },
   ];
   if (targets[0].channelId === targets[1].channelId) throw new Error('LinkedIn destinations must be different Buffer channels');
+  if (env.LINKEDIN_PERSONAL_ENABLED === 'true') {
+    targets.push({
+      channelId: `urn:li:person:${env.LINKEDIN_PERSONAL_MEMBER_ID || 'unconfigured'}`,
+      name: 'easton-augustine-7a45aa102', label: 'Easton Augustine (personal)', transport: 'direct',
+    });
+  }
   return targets;
 }
 
@@ -49,7 +56,7 @@ export async function publishLinkedInTargets(
     }
     try {
       const postId = await publish(target);
-      if (!postId?.trim() || ['unknown', 'published'].includes(postId)) throw new Error('Buffer did not return a valid LinkedIn receipt');
+      if (!postId?.trim() || ['unknown', 'published'].includes(postId)) throw new Error('Publisher did not return a valid LinkedIn receipt');
       saveReceipt(target, postId);
       results.push({ target, status: 'submitted' });
     } catch (error) {

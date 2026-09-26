@@ -74,7 +74,7 @@ jobs:
         run: npm ci
 
       - name: Test Buffer publishing and account-specific receipts
-        run: npx tsx --test scripts/social/buffer-x.test.ts scripts/social/linkedin-targets.test.ts
+        run: npx tsx --test scripts/social/buffer-x.test.ts scripts/social/linkedin-targets.test.ts scripts/social/linkedin-personal.test.ts
 
       - name: Post Job Opening
         id: publish
@@ -93,6 +93,11 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BUFFER_LINKEDIN_CHANNEL_ID: ${{ secrets.BUFFER_LINKEDIN_CHANNEL_ID || '69c5b139af47dacb695b5feb' }}
           BUFFER_CVINBIO_CHANNEL_ID: ${{ vars.BUFFER_CVINBIO_CHANNEL_ID || '6a134180c687a22dd420e089' }}
+          LINKEDIN_PERSONAL_ENABLED: ${{ vars.LINKEDIN_PERSONAL_ENABLED || 'false' }}
+          LINKEDIN_PERSONAL_ACCESS_TOKEN: ${{ secrets.LINKEDIN_PERSONAL_ACCESS_TOKEN }}
+          LINKEDIN_PERSONAL_MEMBER_ID: ${{ secrets.LINKEDIN_PERSONAL_MEMBER_ID }}
+          LINKEDIN_PERSONAL_TOKEN_EXPIRES_AT: ${{ secrets.LINKEDIN_PERSONAL_TOKEN_EXPIRES_AT }}
+          LINKEDIN_API_VERSION: ${{ vars.LINKEDIN_API_VERSION || '202609' }}
           META_PAGE_ID: ${{ secrets.META_PAGE_ID }}
           META_PAGE_TOKEN: ${{ secrets.META_PAGE_TOKEN }}
           INSTAGRAM_ACCOUNT_ID: ${{ secrets.INSTAGRAM_ACCOUNT_ID || '17841473830256790' }}

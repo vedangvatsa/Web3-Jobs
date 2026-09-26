@@ -33,7 +33,6 @@ const PAGE_CARDS: Array<{ slug: string; heading: string }> = [
   { slug: 'about', heading: 'About Us' },
   { slug: 'privacy', heading: 'Privacy Policy' },
   { slug: 'developers', heading: 'Developer Portal' },
-  { slug: 'docs', heading: 'Documentation' },
   { slug: 'interview-questions', heading: 'Interview Questions' },
 ];
 
