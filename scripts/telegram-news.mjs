@@ -13,14 +13,13 @@ import fs from 'fs';
 import path from 'path';
 import Parser from 'rss-parser';
 import dotenv from 'dotenv';
+import { deliverNewsOnce, readNewsState, uniqueNewsStories } from './social/telegram-news-delivery.mjs';
 import {
   alreadyCovered,
   normalizeUrl,
   postedTexts,
   recentPostedTexts,
-  rememberPostedStory,
   sameEvent,
-  trimPostedLog,
 } from './news-story-dedup.mjs';
 
 try { dotenv.config({ path: new URL('../.env.local', import.meta.url).pathname }); } catch {}
@@ -62,15 +61,7 @@ const parser = new Parser();
 
 // ── Posted history ──
 function loadPosted() {
-  try {
-    return new Set(JSON.parse(fs.readFileSync(POSTED_LOG, 'utf8')));
-  } catch {
-    return new Set();
-  }
-}
-
-function savePosted(posted) {
-  fs.writeFileSync(POSTED_LOG, JSON.stringify(trimPostedLog(posted), null, 2));
+  return new Set(readNewsState(POSTED_LOG, []));
 }
 
 // ── Native articles: our own reporting leads every digest ──
@@ -492,15 +483,15 @@ async function postOnce() {
   }
 
   // Dynamic Backfill Loop: if Gemini's returned selection is incomplete or had duplicates/errors
-  const targetCount = Math.min(rssSlots, fresh.length);
+  const targetCount = Math.min(rssSlots, freshExternal.length);
   if (stories.length < targetCount) {
     console.log(`⚠️ Gemini selection had duplicates/errors. Got ${stories.length}/${targetCount}. Backfilling...`);
-    for (let i = 0; i < fresh.length; i++) {
+    for (let i = 0; i < freshExternal.length; i++) {
       if (stories.length >= targetCount) break;
       const idx = i + 1;
       if (seenIndices.has(idx)) continue;
 
-      const item = fresh[i];
+      const item = freshExternal[i];
       const normUrl = normalizeUrl(item.link);
       if (seenUrls.has(normUrl)) continue;
 
@@ -555,7 +546,7 @@ Return ONLY JSON: {"headline": "...", "summary": "..."}`;
   } // end RSS fill
 
   // Native stories lead the digest, RSS fills the rest.
-  stories = [...nativeStories, ...stories].slice(0, STORIES_PER_POST);
+  stories = uniqueNewsStories([...nativeStories, ...stories]).slice(0, STORIES_PER_POST);
   console.log(`  Final digest: ${stories.length} stories (${nativeStories.length} native)`);
 
   if (stories.length === 0) {
@@ -572,18 +563,13 @@ Return ONLY JSON: {"headline": "...", "summary": "..."}`;
     return;
   }
 
-  const result = await sendToTelegram(message);
+  const result = await deliverNewsOnce({
+    stories, postedFile: POSTED_LOG, lastFile: LAST_POST_FILE,
+    send: () => sendToTelegram(message),
+  });
   const now = new Date().toLocaleString('en-US', { timeZone: 'Asia/Singapore' });
   console.log(`✅ Posted ${stories.length} stories at ${now} | Message ID: ${result.result.message_id}`);
 
-  // Save cooldown timestamp
-  fs.writeFileSync(LAST_POST_FILE, JSON.stringify({ postedAt: new Date().toISOString() }));
-
-  // Mark as posted (store link, rewritten headline, AND original RSS title for cross-source dedup)
-  for (const s of stories) {
-    rememberPostedStory(posted, s);
-  }
-  savePosted(posted);
 }
 
 postOnce()

@@ -40,7 +40,8 @@ function eventPlace(event: { location?: string; city?: string; country?: string;
   const generic = new Set(['global', 'virtual', 'online', 'tba', 'tbd', 'worldwide', 'remote', 'hybrid', 'various']);
   const city = generic.has((event.city || '').trim().toLowerCase()) ? '' : (event.city || '').trim();
   const normalized = normalizeCountry(event.country);
-  const country = normalized === 'United States' ? 'USA' : normalized;
+  const country = normalized === 'United States' ? 'USA'
+    : normalized === 'United Arab Emirates' ? 'UAE' : normalized;
   const place = city && country
     ? (city.toLowerCase() === country.toLowerCase() ? city : `${city}, ${country}`)
     : (city || country || 'Online');

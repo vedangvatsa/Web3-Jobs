@@ -13,15 +13,14 @@ import fs from 'fs';
 import path from 'path';
 import Parser from 'rss-parser';
 import dotenv from 'dotenv';
+import { deliverNewsOnce, readNewsState, uniqueNewsStories } from './social/telegram-news-delivery.mjs';
 import {
   alreadyCovered,
   isSimilar,
   normalizeUrl,
   postedTexts,
   recentPostedTexts,
-  rememberPostedStory,
   sameEvent,
-  trimPostedLog,
 } from './news-story-dedup.mjs';
 
 try { dotenv.config({ path: new URL('../.env.local', import.meta.url).pathname }); } catch {}
@@ -58,15 +57,7 @@ const parser = new Parser();
 
 // ── Posted history ──
 function loadPosted() {
-  try {
-    return new Set(JSON.parse(fs.readFileSync(POSTED_LOG, 'utf8')));
-  } catch {
-    return new Set();
-  }
-}
-
-function savePosted(posted) {
-  fs.writeFileSync(POSTED_LOG, JSON.stringify(trimPostedLog(posted), null, 2));
+  return new Set(readNewsState(POSTED_LOG, []));
 }
 
 // ── Fetch all RSS news ──
@@ -347,7 +338,7 @@ async function postOnce() {
   const rawStories = await filterAndSummarize(fresh, recentHeadlines, pickCount);
 
   // Programmatically validate and deduplicate Gemini's selection
-  const stories = [];
+  let stories = [];
   const seenIndices = new Set();
   const seenUrls = new Set();
 
@@ -438,6 +429,7 @@ Return ONLY JSON: {"headline": "...", "summary": "..."}`;
     }
   }
 
+  stories = uniqueNewsStories(stories);
   console.log(`  Final validated ${stories.length} stories`);
 
   if (stories.length === 0) {
@@ -454,18 +446,13 @@ Return ONLY JSON: {"headline": "...", "summary": "..."}`;
     return;
   }
 
-  const result = await sendToTelegram(message);
+  const result = await deliverNewsOnce({
+    stories, postedFile: POSTED_LOG, lastFile: LAST_POST_FILE,
+    send: () => sendToTelegram(message),
+  });
   const now = new Date().toLocaleString('en-US', { timeZone: 'Asia/Singapore' });
   console.log(`Posted ${stories.length} stories at ${now} | Message ID: ${result.result.message_id}`);
 
-  // Save cooldown timestamp
-  fs.writeFileSync(LAST_POST_FILE, JSON.stringify({ postedAt: new Date().toISOString() }));
-
-  // Mark as posted (store link, rewritten headline, AND original RSS title for cross-source dedup)
-  for (const s of stories) {
-    rememberPostedStory(posted, s);
-  }
-  savePosted(posted);
 }
 
 postOnce()

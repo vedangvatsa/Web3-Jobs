@@ -483,16 +483,23 @@ jobs:
         run: npx tsx scripts/telegram-events.ts
         continue-on-error: true
 
+      - name: Sync Telegram news delivery history
+        id: news_state
+        run: |
+          node --test scripts/news-story-dedup.test.mjs scripts/social/telegram-news-state.test.mjs scripts/social/telegram-news-delivery.test.mjs
+          node scripts/social/telegram-news-state.mjs --sync
+
       - name: Post to Telegram (News)
+        if: ${{ !cancelled() && steps.news_state.outcome == 'success' }}
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_NEWS_CHANNEL_ID: ${{ secrets.TELEGRAM_NEWS_CHANNEL_ID }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           FORCE_NEWS: ${{ github.event.inputs.force_news == 'true' && '1' || '' }}
         run: node scripts/telegram-news.mjs
-        continue-on-error: true
 
       - name: Post to Telegram (News → hashtagweb3 group)
+        if: ${{ !cancelled() && steps.news_state.outcome == 'success' }}
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_NEWS_CHANNEL_ID: ${{ secrets.TELEGRAM_HW3_GROUP_ID }}
@@ -500,16 +507,15 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           FORCE_NEWS: ${{ github.event.inputs.force_news == 'true' && '1' || '' }}
         run: node scripts/telegram-news.mjs
-        continue-on-error: true
 
       - name: Post to Telegram (AI News)
+        if: ${{ !cancelled() && steps.news_state.outcome == 'success' }}
         env:
           TELEGRAM_AI_BOT_TOKEN: ${{ secrets.TELEGRAM_AI_BOT_TOKEN }}
           TELEGRAM_AI_CHANNEL_ID: ${{ secrets.TELEGRAM_AI_CHANNEL_ID }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           FORCE_NEWS: ${{ github.event.inputs.force_news == 'true' && '1' || '' }}
         run: node scripts/telegram-ai-news.mjs
-        continue-on-error: true
 
       # - name: Post to Telegram (AI Jobs)
       #   env:
@@ -518,6 +524,20 @@ jobs:
       #   run: node scripts/telegram-ai-jobs.mjs
       #   continue-on-error: true
 
+
+      - name: Preserve Telegram news receipts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: telegram-news-receipts-${{ github.run_id }}-${{ github.run_attempt }}
+          include-hidden-files: true
+          path: |
+            .telegram-news-*.json
+            .telegram-ai-news-*.json
+
+      - name: Persist Telegram news history independently of event changes
+        if: ${{ always() && !cancelled() }}
+        run: node scripts/social/telegram-news-state.mjs
 
       - name: Commit and push updated cache and state
         run: |
@@ -544,10 +564,11 @@ jobs:
             git commit -m "chore: publish jobs/events/social state"
             for i in 1 2 3; do
               git pull --rebase origin main || git pull --rebase -X theirs origin main || true
-              git push origin main && break
+              git push origin main && exit 0
               echo "Push attempt $i failed, reconciling and retrying..."
               sleep 2
             done
+            exit 1
           fi
 
   record-slot:

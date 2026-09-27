@@ -2,6 +2,7 @@ import assert from 'node:assert/strict';
 import { describe, it } from 'node:test';
 import {
   alreadyCovered,
+  recentPostedTexts,
   eventFingerprint,
   normalizeUrl,
   rememberPostedStory,
@@ -10,6 +11,21 @@ import {
 } from './news-story-dedup.mjs';
 
 describe('news story dedup', () => {
+  it('blocks Peirce departure rewrites when the accepted digest history survives', () => {
+    const posted = new Set();
+    rememberPostedStory(posted, {
+      link: 'https://www.coindesk.com/policy/2026/09/25/u-s-sec-s-steadiest-crypto-advocate-hester-peirce-to-depart-next-week',
+      headline: 'Securities and Exchange Commission Commissioner Hester Peirce to depart',
+      originalTitle: "U.S. SEC's steadiest crypto advocate, Hester Peirce, to depart next week",
+    });
+    const restored = recentPostedTexts(JSON.parse(JSON.stringify(trimPostedLog(posted))));
+    for (const headline of [
+      'SEC Commissioner Hester Peirce to leave post on Oct. 2',
+      'US Securities and Exchange Commission commissioner Hester Peirce to resign',
+    ]) assert.equal(alreadyCovered(headline, restored), true);
+    assert.equal(alreadyCovered('Hester Peirce proposes privacy safeguards', restored), false);
+  });
+
   it('treats the same scoop from different outlets as one event', () => {
     const pairs = [
       [
