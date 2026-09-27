@@ -5707,6 +5707,4226 @@ Past stages have hosted Changpeng Zhao (Binance), Jeremy Allaire (Circle), Lily 
 
 Participants span digital-asset native builders, TradFi and fintech institutions deploying at scale, AI-for-finance providers and ecosystem partners. Founding partnerships for Signal Week 2027 are open.
 
+<a id="event-de7eadcd0491af1c"></a>
+
+## LP/GP Relations & Fundraising Summit
+
+- Record: `token2049-2b130b120803646d`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-09-28
+- Description: Source-backed
+- Original page: <https://informaconnect.com/superreturnasia/lpgp-relations-fundraising-summit>
+
+### About the event
+
+The LP/GP Relations & Fundraising Summit takes place on 28 September as part of SuperReturn Asia's specialist summits day. Published topics include fundraising, co-investments, reporting, manager selection, and LP/GP relationships. The programme includes a fundraising masterclass.
+
+<a id="event-57d0edc006f595e4"></a>
+
+## SuperReturn Asia 2026
+
+- Record: `token2049-35b952e1b7ba13df`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-09-28
+- Description: Source-backed
+- Original page: <https://informaconnect.com/superreturnasia>
+
+### About the event
+
+SuperReturn Asia runs from 28 September to 1 October 2026 at Marina Bay Sands Convention Centre. The programme covers private equity, private credit, venture capital, infrastructure, and private wealth. Specialist summits take place on 28 September.
+
+<a id="event-fba02cb884d790ba"></a>
+
+## Atli Station Singapore: Arrive Ready 🇸🇬 \| SuperReturn Asia Week
+
+- Record: `token2049-evt-BkNGF5drLh9HNJB`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-09-28T08:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/x0wrzs6m>
+
+### About the event
+
+Atli Station Singapore: Arrive Ready 🇸🇬 | SuperReturn Asia Week is scheduled for 28 September 2026 at 16:30 (Asia/Singapore). Hosted by Peter Atli, XForge Mobile, Bridgestar Capital.
+
+30% off Atli eSIM plans - no approval or conference ticket required.
+
+Select "Standard Travel Registration", enter "N/A" in the ticket reference field, and register.
+
+SuperReturn ticket holders can also use the 30% discount without approval.
+
+Bring your eSIM-compatible phone for help installing or activating your plan.
+
+Registration requires host approval. Registration is listed as free.
+
+<a id="event-b8c799aa00e6c51e"></a>
+
+## Tech Week Singapore 2026
+
+- Record: `token2049-1044b9e351b65628`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-09-29
+- Description: Source-backed
+- Original page: <https://www.singaporetechnologyweek.com>
+
+### About the event
+
+Tech Week Singapore takes place on 29-30 September 2026 at Sands Expo and Convention Centre, Marina Bay Sands. The event covers cloud and AI infrastructure, data centres, cybersecurity, and enterprise technology. The organizer publishes conference programmes, speaker details, and an exhibitor list.
+
+<a id="event-e982335c169214af"></a>
+
+## FundForum Asia
+
+- Record: `token2049-41972aea13998db5`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-09-29
+- Description: Source-backed
+- Original page: <https://informaconnect.com/fundforumasia>
+
+### About the event
+
+FundForum Asia is scheduled for 29 September 2026 online.
+
+<a id="event-b77c6a23ea353366"></a>
+
+## A Programmable Economy at the Speed of AI?
+
+- Record: `token2049-evt-Cc2bDtTNBajOQuN`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-01T05:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/rdr0irad>
+
+### About the event
+
+A Programmable Economy at the Speed of AI? is scheduled for 1 October 2026 at 13:30 (Asia/Singapore) in Singapore. Hosted by Ops @ EEF.
+
+All registrations are reviewed manually, and attendance is confirmed only once your registration has been approved.
+
+Entry is limited to approved guests.
+
+2:15 pm: Presentation by Vitalik Buterin
+
+Registration requires host approval. Registration is listed as free.
+
+<a id="event-a158c90d04db498e"></a>
+
+## GPs × LPs Pickleball \| Match Point Capital Series \| By Invitation · SuperReturn Singapore 2026
+
+- Record: `token2049-evt-sdwlrb9SNEOyZfG`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-01T11:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/luhstckd>
+
+### About the event
+
+GPs × LPs Pickleball | Match Point Capital Series | By Invitation - SuperReturn Singapore 2026 is scheduled for 1 October 2026 at 19:30 (Asia/Singapore) in Singapore. Hosted by Bridgestar Capital, XForge Mobile, Peter Atli, Darknight | Ape Ventures.
+
+Submitting an RSVP does not guarantee entry; your place is confirmed only after host approval.
+
+7:30pm - Arrivals, introductions and warm-up
+
+8:00pm - Friendly doubles and rotating matchups
+
+9:30pm - Final games and closing conversations
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-590fe47af97fce81"></a>
+
+## Get Down For Real
+
+- Record: `token2049-evt-IRjj872ozIIxPAS`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-01T14:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/rz5lut2r>
+
+### About the event
+
+Get Down For Real is scheduled for 1 October 2026 at 22:30 (Asia/Singapore) in Singapore. Hosted by 2049 Events.
+
+Soundtracked by seamless Open Format sets, expect everything from chart-topping hits and nostalgic throwbacks to hip-hop and crowd-moving anthems designed to keep the room alive from start to finish.
+
+Registration requires host approval. Registration is listed as free.
+
+<a id="event-0f5eace05e584293"></a>
+
+## Pre Token2049: Meet Up
+
+- Record: `token2049-evt-YL6KpUrRu4CGVus`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-03T08:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/av3tpir8>
+
+### About the event
+
+Pre Token2049: Meet Up is scheduled for 3 October 2026 at 16:00 (Asia/Singapore) in Singapore. Hosted by Asia Web3 Ai Association (AWAA), Insight Genesis.
+
+Craft beers + Food: which you can order from menu
+
+Apply to attend or respond to your private invitation.
+
+As this is an invite-only event, please be aware that registering does not guarantee access due to limited availability.
+
+Please note that entry will be granted only to ticketed guests, and tickets are not transferable.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-6e80293da47d4a52"></a>
+
+## Founders & Funds: Paddle Cup
+
+- Record: `token2049-evt-LogZtWT8oa5fv8p`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-03T23:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/fumtr19i>
+
+### About the event
+
+Founders & Funds: Paddle Cup is scheduled for 4 October 2026 at 07:30 (Asia/Singapore). Hosted by Luvon Labs Official, SpedaxAI Official.
+
+TOKEN2049 week is full of fifteen-minute pitch meetings and identical VC dinners.
+
+It's a structured format built for one outcome: immediate founder-fund pairing and relationships that outlast the tournament.
+
+16 invite-only VIP founder-fund teams compete alongside 8 open wildcard teams, 24 teams, and 48 players in all, with roughly 60 to 80 people total once you count non-playing guests and press.
+
+1:15 to 2:00 PM, Closing Brunch: Relaxed networking with the people you just played against
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-832e6d28c504776a"></a>
+
+## Coffee & Credentials
+
+- Record: `token2049-evt-E3WtjeLuIe9GJHu`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-05T01:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/6bv4rjiv>
+
+### About the event
+
+Coffee & Credentials is scheduled for 5 October 2026 at 09:00 (Asia/Singapore) in Complex. Hosted by Branson Lee.
+
+Still a coffee meetup though, just with a presentation folded into it.
+
+RSVPs still need approval, because we want it to stay a real conversation, not a crowd.
+
+Registration requires host approval. Registration is listed as free.
+
+<a id="event-f8a31afca9b45716"></a>
+
+## Day One (Public) \| Nobel Heroes & AI4SCI Summit Singapore 2026
+
+- Record: `token2049-evt-uciKSAp6TdWKkWn`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-05T01:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/nobelheroesday1>
+
+### About the event
+
+Day One (Public) | Nobel Heroes & AI4SCI Summit Singapore 2026 is scheduled for 5 October 2026 at 09:00 (Asia/Singapore) in Singapore. Hosted by 499 Group, Symbosis Science.
+
+09:00-12:00 - - LT1, NTU (Invite Only)
+
+13:30-17:00 - - NEC, NTU (Open Registration)
+
+Morning session (Invite Only)
+
+09:30-09:50 - Opening Remarks
+
+Registration requires host approval. Registration is listed as free.
+
+<a id="event-892f7f1569b2e1c2"></a>
+
+## The Liquidity Pool - Hosted by Yuzu Money
+
+- Record: `token2049-evt-qYRiPyDkDWEUNGs`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-05T07:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/7l5amv63>
+
+### About the event
+
+The Liquidity Pool - Hosted by Yuzu Money is scheduled for 5 October 2026 at 15:00 (Asia/Singapore) in Singapore. Hosted by Ouroboros, Sam OuroCap.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-9a945f748d54d773"></a>
+
+## Risky Business - Singapore '26
+
+- Record: `token2049-evt-XUsiUTKEWJQckqX`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-05T07:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/dupkf78j>
+
+### About the event
+
+Risky Business - Singapore '26 is scheduled for 5 October 2026 at 15:00 (Asia/Singapore) in Singapore. Hosted by Lu Li.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-7fd4676e924e0acc"></a>
+
+## Atli Station Singapore: Arrive Connected 🇸🇬 \| TOKEN2049 Week
+
+- Record: `token2049-evt-d9OIP043UYmjS1a`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-05T08:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/ugjskdv7>
+
+### About the event
+
+Atli Station Singapore: Arrive Connected 🇸🇬 | TOKEN2049 Week is scheduled for 5 October 2026 at 16:30 (Asia/Singapore). Hosted by Peter Atli, XForge Mobile, Bridgestar Capital.
+
+30% off Atli eSIM plans - no approval required.
+
+Approval is required only for the complimentary 1GB offer.
+
+Select "Conference Ticket Holder" and enter your valid TOKEN2049 Singapore ticket reference number in the registration form.
+
+Select "Standard Travel Registration", enter "N/A" in the ticket reference field, and register.
+
+Registration requires host approval. Registration is listed as free.
+
+<a id="event-da043b3b6401b8b3"></a>
+
+## SPLASH! NODEXX PRIVATE POOL PARTY
+
+- Record: `token2049-evt-8IVgf5aA4A8sgZR`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-05T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/qlijhogl>
+
+### About the event
+
+SPLASH! NODEXX PRIVATE POOL PARTY is scheduled for 5 October 2026 at 17:00 (Asia/Singapore) in Singapore. Hosted by NodeXX.
+
+Exact address shared after your registration is approved.
+
+Bring your swimwear if you'd like to take a dip!
+
+Pool Party Vibes Bikinis, poolside drinks, and good company - soak up the tropical vibes, take a dip, and mingle with the Web3 crowd.
+
+5:30 PM - Food, drinks & games
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-481112dac1100234"></a>
+
+## Allium Happy Hour
+
+- Record: `token2049-evt-97TURH7tABoXNOY`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-05T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/allium-HH-token2049>
+
+### About the event
+
+Allium Happy Hour is scheduled for 5 October 2026 at 17:00 (Asia/Singapore) in Singapore. Hosted by.sarah chen, Keith Yeo, Ethan Chan.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-50170e615359641c"></a>
+
+## BetterX: Navigating the Current State of Payments & Yield
+
+- Record: `token2049-evt-Iqxz2ufN55QDlyO`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-05T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/p5e1t0u0>
+
+### About the event
+
+BetterX: Navigating the Current State of Payments & Yield is scheduled for 5 October 2026 at 17:00 (Asia/Singapore) in Singapore. Hosted by Connie, Eric Chau, Adam Switzer, Aidan Ng.
+
+Expect thoughtful conversations, valuable introductions, drinks and light bites in a relaxed setting away from the conference crowds.
+
+5:00-5:30pm - Check-in & embarkation
+
+5:30-8:00pm - Open networking, light bites & pours
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-e48aee7f0f47061b"></a>
+
+## 🚤 Web3 Founders & Builders Boat Party - TOKEN2049🇸🇬
+
+- Record: `token2049-evt-mpuoHZfEeAywllH`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-05T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/zn7y3boz>
+
+### About the event
+
+Web3 Founders & Builders Boat Party - TOKEN2049🇸🇬 is scheduled for 5 October 2026 at 17:00 (Asia/Singapore) in Singapore. Hosted by Huang Ng.
+
+Walk away with some event-only goodies and swag.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-eadfa96c57f5f72f"></a>
+
+## All That Matters
+
+- Record: `token2049-ea89b871a8872b45`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-05T09:00:00+08:00
+- Description: Source-backed
+- Original page: <https://www.allthatmatters.asia/page/5952104/tickets>
+
+### About the event
+
+All That Matters is scheduled for 5 October 2026 at 09:00 (Asia/Singapore) in Singapore. Hosted by Branded.
+
+<a id="event-f458933b590ce6ce"></a>
+
+## Bullish & BitGo VIP Reception
+
+- Record: `token2049-evt-hlj2M5GpWV1P97k`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-05T10:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/mt2t442r>
+
+### About the event
+
+Bullish & BitGo VIP Reception is scheduled for 5 October 2026 at 18:00 (Asia/Singapore) in Singapore. Hosted by Bullish Events, BitGo Events.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-09fdb09cb9cd2f63"></a>
+
+## FastX Yacht Party
+
+- Record: `token2049-evt-xqbG0bdiznK8ohR`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-05T10:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/3uhh0ixb>
+
+### About the event
+
+FastX Yacht Party is scheduled for 5 October 2026 at 18:00 (Asia/Singapore) in Singapore. Hosted by FastX Exchange.
+
+FastX (https://Fastx.co) will be hosting a dockside yacht party for builders, founders, investors and partners across the industry.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-d1b1d03c4f96f12d"></a>
+
+## The Pre-TOKEN2049 by Integral & EDX
+
+- Record: `token2049-evt-cQn0A0xzpbVb6Kd`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-05T10:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/9azk2ahd>
+
+### About the event
+
+The Pre-TOKEN2049 by Integral & EDX is scheduled for 5 October 2026 at 18:30 (Asia/Singapore) in Singapore. Hosted by Integral Events, Kai Kono, Kal C.
+
+RSVP early as we have limited slots available.
+
+Please note that attendance is subject to approval, and a confirmation email will be sent to approved guests only.
+
+Please note that entry will be granted only to ticketed guests, and tickets are not transferable.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-7b6d88d5b0017069"></a>
+
+## 0G Dev Day VIP Reception Dinner
+
+- Record: `token2049-evt-Ht5O615EPEuGfpz`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-05T10:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/0g-VIP-reception>
+
+### About the event
+
+0G Dev Day VIP Reception Dinner is scheduled for 5 October 2026 at 18:30 (Asia/Singapore) in Singapore. Hosted by 0G Foundation.
+
+This event is by invitation only.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-5ad574f08336f9c6"></a>
+
+## 🔴 Time Heist by Zusei.com
+
+- Record: `token2049-06041dac33726be9`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-05T13:00:00+08:00
+- Description: Source-backed
+- Original page: <https://app.zusei.com/token2049>
+
+### About the event
+
+Time Heist by Zusei.com is scheduled for 5 October 2026 at 13:00 (Asia/Singapore) in Singapore. Hosted by Zusei.
+
+Registration is listed as free.
+
+<a id="event-183e43431c0cbf24"></a>
+
+## Exclusive Whiskey & Cigar Evening - 05 October (9pm to 11pm)
+
+- Record: `token2049-evt-yXN9uY9KixjIGXl`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-05T14:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/39pgfndd>
+
+### About the event
+
+Exclusive Whiskey & Cigar Evening - 05 October (9pm to 11pm) is scheduled for 5 October 2026 at 22:00 (Asia/Singapore) in Singapore. Hosted by Janina Villapando.
+
+As this is an invite-only event with limited capacity, we'll be sharing contact details among attendees after the event to help conversations continue.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-3f8717a9d1196fe2"></a>
+
+## Tachi Social Run @Token2049
+
+- Record: `token2049-evt-0WANSG42Cl4lzDC`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-05T23:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/2rs9r9cj>
+
+### About the event
+
+Tachi Social Run @Token2049 is scheduled for 6 October 2026 at 07:00 (Asia/Singapore). Hosted by Viivek Mehata, Parth Pathak.
+
+Start your Token 2049 Singapore morning with a short run along Singapore's skyline to set the pace.
+
+Spots are limited, so arrive ready to run, mingle, and start the morning on the right note.
+
+Full route and exact location coming soon!
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-f4e5a3dacf771084"></a>
+
+## Stable Run by Transak
+
+- Record: `token2049-evt-tkFuyu8BIzrEUIV`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-05T23:45:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/t3qxbq7y>
+
+### About the event
+
+Stable Run by Transak is scheduled for 6 October 2026 at 07:45 (Asia/Singapore) in Singapore. Hosted by Transak, Arda Basaran, Etienne, Jack Lucas, Harshit Gangwar.
+
+After the run: breakfast, coffee and networking with builders from across the industry.
+
+7:45am meeting - 8am start - 5K group run - Networking till ~9:15am
+
+This event has limited spots, and the exact meeting point and route will be shared directly with confirmed runners the day before the event.
+
+8 am - Start the run - 5K group
+
+The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-7750d4ed150eee88"></a>
+
+## Hyperliquid Forum
+
+- Record: `token2049-4a3794d7bfdacdef`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-06
+- Description: Source-backed
+- Original page: <https://www.hyperliquidforum.com/singapore>
+
+### About the event
+
+Hyperliquid Forum is scheduled for 6 October 2026 in Singapore.
+
+<a id="event-47403f6faf090919"></a>
+
+## Forex Trading Competition (Token2049 Singapore)
+
+- Record: `token2049-evt-ylH1Zv6vGNhshHF`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-06T00:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/rbeycnag>
+
+### About the event
+
+Forex Trading Competition (Token2049 Singapore) is scheduled for 6 October 2026 at 08:00 (Asia/Singapore). Hosted by Pcventures, Paradise Capital.
+
+The competition will be held on MetaTrader 5 (demo accounts).
+
+Registration requires host approval. Registration is listed as free.
+
+<a id="event-dd38a6024cf9b404"></a>
+
+## Opening Morning Chat with Haseeb Qureshi 🇸🇬 (In Person)
+
+- Record: `token2049-evt-ECpUHV88HkidbGs`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-06T00:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/HaseebQureshi>
+
+### About the event
+
+Opening Morning Chat with Haseeb Qureshi 🇸🇬 (In Person) is scheduled for 6 October 2026 at 08:30 (Asia/Singapore) in Singapore. Hosted by Gamma Prime.
+
+Registration requires host approval. Registration is listed as free.
+
+<a id="event-83b94d878d860520"></a>
+
+## Digital Asset Yield Summit Singapore
+
+- Record: `token2049-evt-fPYLSOuT8iZ9pgf`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-06T01:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/digital-asset-yield-summit-singapore>
+
+### About the event
+
+Digital Asset Yield Summit Singapore is scheduled for 6 October 2026 at 09:00 (Asia/Singapore) in Singapore. Hosted by DAYS.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-74eef9e7cefe86db"></a>
+
+## The Next Era of Digital Finance: Consumer Trends, AI Adoption
+
+- Record: `token2049-evt-oYGymLxwHpSaAzS`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-06T01:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/tb6f5fst>
+
+### About the event
+
+The Next Era of Digital Finance: Consumer Trends, AI Adoption is scheduled for 6 October 2026 at 09:00 (Asia/Singapore). Hosted by ACCESS Secretariat, Katashe Solutions, Grace Chong, Beata Sivak, Ain.
+
+The discussion will be held under the Chatham House Rule to encourage an open and candid exchange, followed by a networking session over breakfast.
+
+Registration closes Friday, 2 October 2026.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-4bfb30dc01b395d4"></a>
+
+## Flop Launch Event - Singapore / Token2049
+
+- Record: `token2049-evt-RBEDxNYQTuEwIbm`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-06T01:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/km4d5sxq>
+
+### About the event
+
+Flop Launch Event - Singapore / Token2049 is scheduled for 6 October 2026 at 09:00 (Asia/Singapore) in Singapore. Hosted by Maelstrom Events.
+
+Registration requires host approval. Registration is listed as free.
+
+<a id="event-295986388802d297"></a>
+
+## OKX Now, Singapore
+
+- Record: `token2049-evt-SowgDzyegYReFYH`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-06T01:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/OKXNow>
+
+### About the event
+
+OKX Now, Singapore is scheduled for 6 October 2026 at 09:00 (Asia/Singapore) in Singapore. Hosted by OKX Events.
+
+Then see OKX's product innovators and global business leaders bring it to life.
+
+Attendance is limited and subject to approval.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-fdbff18a1bbb559f"></a>
+
+## Agentic Finance & Payments Summit @ Token2049 - Reap x Payward x Visa
+
+- Record: `token2049-evt-bQOSK443RBshffY`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-06T02:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/gbn6o60s>
+
+### About the event
+
+Agentic Finance & Payments Summit @ Token2049 - Reap x Payward x Visa is scheduled for 6 October 2026 at 10:00 (Asia/Singapore) in Singapore. Hosted by Reap, Payward Services, Nischint Sanghavi.
+
+Please note: Registration is required, and all requests are subject to approval.
+
+Due to limited capacity, submitting a registration does not guarantee entry.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-6aedfc92ee477489"></a>
+
+## RWA.LTD Private Connect \| TOKEN2049 Singapore- Part A
+
+- Record: `token2049-evt-lROqsKz6ABcvpIV`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-06T02:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/kvlkxq0p>
+
+### About the event
+
+RWA.LTD Private Connect | TOKEN2049 Singapore- Part A is scheduled for 6 October 2026 at 10:00 (Asia/Singapore) in Singapore. Hosted by Astro.
+
+Attendance is complimentary and subject to host approval.
+
+Registration is listed as free.
+
+<a id="event-4b7abff59d6ca0aa"></a>
+
+## Sunrise Yoga
+
+- Record: `token2049-evt-TnrNVvOu9wPsWbl`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-06T02:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/s8i7jczp>
+
+### About the event
+
+Sunrise Yoga is scheduled for 6 October 2026 at 10:30 (Asia/Singapore) in Singapore. Hosted by BTSE Enterprise Solutions.
+
+Whether you're new to yoga or already have a regular practice, this session is open to all levels.
+
+60-minute outdoor yoga session
+
+Please arrive a little early to check in and get settled before the session begins.
+
+Registration is listed as free.
+
+<a id="event-3779195b12586299"></a>
+
+## Building trust across identity, transactions and the agentic economy - Co-hosted by PwC x MetaComp
+
+- Record: `token2049-evt-IUB3WGqob4BF1Ss`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-06T03:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/token2049-metacomp-pwc>
+
+### About the event
+
+Building trust across identity, transactions and the agentic economy - Co-hosted by PwC x MetaComp is scheduled for 6 October 2026 at 11:30 (Asia/Singapore) in Singapore. Hosted by MetaComp.
+
+The exact address will be shared after attendee registration is approved.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-e504d8e1c6ee5748"></a>
+
+## Polygon VIP Lunch @ TOKEN2049
+
+- Record: `token2049-evt-FMgPTiAfJKFD0Mo`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-06T04:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/j4lhpjzw>
+
+### About the event
+
+Polygon VIP Lunch @ TOKEN2049 is scheduled for 6 October 2026 at 12:00 (Asia/Singapore) in Singapore. Hosted by Polygon Events, Chyi Yan Hshieh.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-e5f3eccf605854fa"></a>
+
+## The Capital Table: ZIG Finance x World Liberty Financial
+
+- Record: `token2049-evt-rHXtY6fB3jfHz2h`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-06T04:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/the-capital-table>
+
+### About the event
+
+The Capital Table: ZIG Finance x World Liberty Financial is scheduled for 6 October 2026 at 12:00 (Asia/Singapore) in Singapore. Hosted by ZIG Finance, Abdul Rafay Gadit.
+
+A private, invite-only lunch bringing institutional capital onchain.
+
+ZIG Finance and World Liberty Financial are hosting an invite-only reception in Singapore to mark their strategic partnership and the next phase of onchain finance.
+
+12:30 PM, Fireside conversation: bringing institutional capital onchain (speakers to be announced)
+
+1:00 PM, Networking lunch and open conversation
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-79da76d7f013423b"></a>
+
+## The Rekt Invitational: Singapore 2026
+
+- Record: `token2049-evt-SurrMPq7KItfuyZ`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-06T04:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/af6q0ip6>
+
+### About the event
+
+The Rekt Invitational: Singapore 2026 is scheduled for 6 October 2026 at 12:00 (Asia/Singapore) in Singapore. Hosted by Rekt Drinks, OSF, Tabz (Rekt Drinks).
+
+Registration requires host approval. Registration is listed as free.
+
+<a id="event-2ae277bf3cce6f03"></a>
+
+## BUIDL_QUESTS 2026 Final Day · Rewards & Summit — Autonomous Agents & Sovereignty
+
+- Record: `token2049-evt-vgMkvMtis7lDGiI`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-06T04:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/y9g4tduu>
+
+### About the event
+
+BUIDL_QUESTS 2026 Final Day - Rewards & Summit - Autonomous Agents & Sovereignty is scheduled for 6 October 2026 at 12:00 (Asia/Singapore) in Singapore. Hosted by amber.ac, Amber Group, Sanzhi chazi, Kristin.
+
+Public registration is open, subject to venue capacity.
+
+All project submissions, leaderboards, and community signals run through OpenArena.to (https://OpenArena.to).
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-94234d61516fa253"></a>
+
+## The Allocators' Table: An Exclusive Private Luncheon in Singapore
+
+- Record: `token2049-evt-yRNOA5dEuGxIjiV`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-06T04:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/31t73vf2>
+
+### About the event
+
+The Allocators' Table: An Exclusive Private Luncheon in Singapore is scheduled for 6 October 2026 at 12:00 (Asia/Singapore) in Singapore. Hosted by 新火集团「Bitfire」.
+
+Format: Private Lunch - Invitation-Only - Closed-Door
+
+The Allocators' Table is an invitation-only private lunch for family office principals, institutional investors, and asset allocation decision-makers.
+
+12:00-12:30 Registration & Networking
+
+12:40-13:00 Bitfire Group: A Brief Perspective
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-513c46573d0b5608"></a>
+
+## Day Two \| Nobel Heroes & AI4SCI Summit Singapore 2026
+
+- Record: `token2049-evt-AWbc6L9qlSB041d`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-06T05:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/nobelheroesday2>
+
+### About the event
+
+Day Two | Nobel Heroes & AI4SCI Summit Singapore 2026 is scheduled for 6 October 2026 at 13:00 (Asia/Singapore) in Singapore. Hosted by 499 Group, Symbosis Science.
+
+13:40-13:50 - Opening Remarks
+
+13:50-14:00 - Setting The Stage
+
+14:00-14:40 - Nobel Dialogue 1 - Immunising Society for Longevity: Purpose, Prevention, Resilience
+
+15:00-15:40 - Nobel Dialogue 2 - Scaling Sustainability in Cities: Citizen Awareness to Drive Technology Adoption
+
+Registration requires host approval. Registration is listed as free.
+
+<a id="event-69be08ac8d34d2d3"></a>
+
+## Game On Pickleball
+
+- Record: `token2049-evt-YLmC9gJkFAvWMAQ`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-06T05:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/lvd8oa6z>
+
+### About the event
+
+Game On Pickleball is scheduled for 6 October 2026 at 13:00 (Asia/Singapore) in Singapore. Hosted by BTSE Enterprise Solutions, Tim Kinslow.
+
+Kick off the day with BTSE at our Pickleball Social in Singapore!
+
+Bring your friends, rally with your crew, or come solo and jump into a game.
+
+The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-42fec283efd18c24"></a>
+
+## Fireside Chat with Arthur Hayes and CNBC 🇸🇬 (In Person)
+
+- Record: `token2049-evt-qZePXmFRhjLBjB2`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-06T05:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/ArthurHayes>
+
+### About the event
+
+Fireside Chat with Arthur Hayes and CNBC 🇸🇬 (In Person) is scheduled for 6 October 2026 at 13:30 (Asia/Singapore) in Singapore. Hosted by Gamma Prime.
+
+Fireside Chat with Arthur Hayes and CNBC is part of Gamma Prime Investing Summit 2026 Singapore (https://luma.com/investingsummit2026Singapore) that is lasting during the whole day on October 6th at Fullerton Hotel Singapore.
+
+Registration requires host approval. Registration is listed as free.
+
+<a id="event-8da293c58f257f95"></a>
+
+## Open Interest By Ondo
+
+- Record: `token2049-evt-THbCC1Qq6aulTPD`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-06T06:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/OpenInterestbyOndo>
+
+### About the event
+
+Open Interest By Ondo is scheduled for 6 October 2026 at 14:00 (Asia/Singapore) in Singapore. Hosted by Ondo Finance, Phil Wirtjes, Matt Blumberg, MK Chin, Dana T, Min Lin.
+
+This is not a conference panel.
+
+The evening opens with a direct session with the Ondo leadership team, including Perps CEO and strategy leads, covering product direction, what's coming next, and a real read on where the industry is heading.
+
+3:00 PM SGT - Surprise Experts Panel
+
+4:30 PM SGT - CT Alpha session with VVIP speakers
+
+Registration requires host approval. Registration is listed as free.
+
+<a id="event-74e57e208662fc7e"></a>
+
+## 🇸🇬Family Offices Investors Summit 🥂🕯Michelin‑Dinners 📍Singapore 📍Oct 6-8 #Token2049🇸🇬
+
+- Record: `token2049-evt-57E5wz1bV6Aay59`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-06T07:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/FOIS_SGToken2049>
+
+### About the event
+
+🇸🇬Family Offices Investors Summit Michelin‑Dinners Singapore Oct 6-8 #Token2049🇸🇬 is scheduled for 6 October 2026 at 15:00 (Asia/Singapore) in Singapore. Hosted by 𝖒𝖆𝖓𝖆𝖓𝖆 fois.fyi xShares, familyofficesinvestorssummit.com, Perps Capital, X Shares, Victor Chow.
+
+Email: rsvp@familyofficesinvestorssummit.com
+
+- Michelin Brunch-Dinner Experience (12-30 guests only)
+
+Registration requires host approval. Registration is listed as free.
+
+<a id="event-a967b13a0c044eed"></a>
+
+## Based Afternoon Tea w/ Dimsum & Chess
+
+- Record: `token2049-evt-G0W9nyZI9H2mWbH`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-06T07:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/6j235n9z>
+
+### About the event
+
+Based Afternoon Tea w/ Dimsum & Chess is scheduled for 6 October 2026 at 15:00 (Asia/Singapore) in Singapore. Hosted by shubit, Edison.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-18f1f4de0e9787ed"></a>
+
+## ARC Run Club 🏃‍♀️🏃‍♂️
+
+- Record: `token2049-evt-cHRscHxRkfb4HFN`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-06T08:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/arcweek-44yk>
+
+### About the event
+
+ARC Run Club is scheduled for 6 October 2026 at 16:00 (Asia/Singapore) in Singapore. Hosted by ARC, Gabriel Yang, Gabriel Teo.
+
+We're kicking off the evening with an ARC Run Club!
+
+4:00 PM - Meet at Hong Lim Park & warm-up
+
+5:00 PM - Run ends & head to The Plunge Club
+
+5:00-6:00 PM - Optional post-run recovery & chill
+
+Registration requires host approval. Registration is listed as free.
+
+<a id="event-623a0f3be47e91da"></a>
+
+## Forgd & DefiLlama Happy Hour
+
+- Record: `token2049-evt-hcz0OuGLtaufrZ0`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-06T08:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/685mx98g>
+
+### About the event
+
+Forgd & DefiLlama Happy Hour is scheduled for 6 October 2026 at 16:00 (Asia/Singapore) in Singapore. Hosted by Scott Byron.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-01a2c59c97a76283"></a>
+
+## EVG & Rexy Present: Golden Cask
+
+- Record: `token2049-evt-hiGUpzhc8Cu0nhw`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-06T08:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/gojvql6z>
+
+### About the event
+
+EVG & Rexy Present: Golden Cask is scheduled for 6 October 2026 at 16:00 (Asia/Singapore) in Singapore. Hosted by EVG, Rexy, Jeffrey Au.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-b1f5134592f7fe2c"></a>
+
+## TOKENISED SINGAPORE VIP EVENT
+
+- Record: `token2049-evt-ver9kfBcGTZRx9E`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-06T08:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/tokenised>
+
+### About the event
+
+TOKENISED SINGAPORE VIP EVENT is scheduled for 6 October 2026 at 16:00 (Asia/Singapore) in Singapore. Hosted by UVECON.VC, YJ Wang | TRM Labs.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-19b33d816ac344ea"></a>
+
+## Atli Station Singapore: Where Next? 🌏 \| TOKEN2049 Week
+
+- Record: `token2049-evt-l8l4A5NRvNacnGR`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-06T08:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/zsx4j5iz>
+
+### About the event
+
+Atli Station Singapore: Where Next? | TOKEN2049 Week is scheduled for 6 October 2026 at 16:30 (Asia/Singapore). Hosted by Peter Atli, XForge Mobile, Bridgestar Capital.
+
+30% off Atli eSIM plans - no approval required.
+
+Approval is required only for the complimentary 1GB offer.
+
+Select "Conference Ticket Holder" and enter your valid TOKEN2049 Singapore ticket reference number in the registration form.
+
+Select "Standard Travel Registration", enter "N/A" in the ticket reference field, and register.
+
+Registration requires host approval. Registration is listed as free.
+
+<a id="event-6ec1f8634f623a5c"></a>
+
+## KOL Club & The Agentic Era of Trading
+
+- Record: `token2049-evt-3vaErW1CTBrRYa3`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-06T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/2b64kgv3>
+
+### About the event
+
+KOL Club & The Agentic Era of Trading is scheduled for 6 October 2026 at 17:00 (Asia/Singapore) in Singapore. Hosted by Helium Ventures, Alex Thorne.
+
+7:30 PM Canapés, Drinks And Free-Form Networking
+
+Registration requires host approval. Registration is listed as free.
+
+<a id="event-88d496528e7eb8bd"></a>
+
+## 10x Research 'Get Together' Token2049 Singapore
+
+- Record: `token2049-evt-6Es1pgQEhEEBR0h`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-06T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/rofpy20p>
+
+### About the event
+
+10x Research 'Get Together' Token2049 Singapore is scheduled for 6 October 2026 at 17:00 (Asia/Singapore). Hosted by Markus Thielen, 10x Research.
+
+10x Research is hosting a get-together during TOKEN2049 week, an informal evening of drinks and conversation with other subscribers, traders, and the team.
+
+Space is limited; subscribers get priority, so please RSVP.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-d20a8b1f112df0ca"></a>
+
+## Crypto Mondays Token2049 Edition
+
+- Record: `token2049-evt-9QmiSgV5RJFSx6W`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-06T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/g1e3dz13>
+
+### About the event
+
+Crypto Mondays Token2049 Edition is scheduled for 6 October 2026 at 17:00 (Asia/Singapore). Hosted by Crypto Mondays Mena, Vaibhavv Ali, Lou Kerner.
+
+One tight fireside followed with 3 lightning talks (AI × crypto, community as infrastructure, what actually ships after conference week)
+
+18:45 Fireside, Lightning talks (speakers TBA)
+
+Registration requires host approval. Registration is listed as free.
+
+<a id="event-323c099bb7e360b3"></a>
+
+## Kickoff on the Quay \| Fordefi x Gauntlet
+
+- Record: `token2049-evt-lA2ioAHylvNokhG`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-06T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/21mjmo8m>
+
+### About the event
+
+Kickoff on the Quay | Fordefi x Gauntlet is scheduled for 6 October 2026 at 17:00 (Asia/Singapore) in Singapore. Hosted by Gauntlet, Fordefi.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-11c04a7c271fa2e6"></a>
+
+## RWA.LTD Private Connect \| TOKEN2049 Singapore- Part B
+
+- Record: `token2049-evt-XNB989H24p8fCto`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-06T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/5gbluyhd>
+
+### About the event
+
+RWA.LTD Private Connect | TOKEN2049 Singapore- Part B is scheduled for 6 October 2026 at 17:00 (Asia/Singapore) in Singapore. Hosted by Astro.
+
+Attendance is complimentary and subject to host approval.
+
+Registration is listed as free.
+
+<a id="event-f7821642d1b04cee"></a>
+
+## The Master, Not the Rip \| Validator Mixer
+
+- Record: `token2049-evt-HOMwOkbvTryd73H`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-06T10:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/hvvjh6rv>
+
+### About the event
+
+The Master, Not the Rip | Validator Mixer is scheduled for 6 October 2026 at 18:00 (Asia/Singapore) in Singapore. Hosted by Shinzo.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-a37c9c0c3cf9b533"></a>
+
+## SHI needs no caption.
+
+- Record: `token2049-evt-kHl28FVBB2JKrGH`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-06T10:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/a5qi4y27>
+
+### About the event
+
+SHI needs no caption. is scheduled for 6 October 2026 at 18:00 (Asia/Singapore) in Singapore. Hosted by Shinzo.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-094a25c78ee4acd3"></a>
+
+## Beyond 9-Year Anniversary \| Trust Wallet House @Token2049
+
+- Record: `token2049-evt-ncE9csMPaAbbOdY`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-06T10:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/8x8fhfoz>
+
+### About the event
+
+Beyond 9-Year Anniversary | Trust Wallet House @Token2049 is scheduled for 6 October 2026 at 18:00 (Asia/Singapore) in Singapore. Hosted by TrustWalletEvent.
+
+Drinks, DJ & conversations above the Singapore skyline
+
+Drinks, DJ, roaming illusion, customized merch & networking.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-a23614438dd1d6c5"></a>
+
+## Compute & Capital: Founder Night
+
+- Record: `token2049-evt-nCzyAFiKUk3rGxW`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-06T10:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/4auypcdh>
+
+### About the event
+
+Compute & Capital: Founder Night is scheduled for 6 October 2026 at 18:00 (Asia/Singapore) in Singapore. Hosted by Naman Tekriwal, Tanya Aggarwal, Linwan Feng, What You Building?.
+
+A fireside chat, then open networking.
+
+6:00PM - Doors Open - Registration & Drinks
+
+6:45PM - Fireside Chat - OpenAI × Golden Gate Ventures moderated by Naman Tekriwal
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-53f5b9148bd2a6d2"></a>
+
+## Robinhood Chain Community Kick-Off @ Token2049 x Nouns ⌐◨-◨
+
+- Record: `token2049-evt-r5Dp98TPJSfGwmx`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-06T10:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/callrd97>
+
+### About the event
+
+Robinhood Chain Community Kick-Off @ Token2049 x Nouns ◨-◨ is scheduled for 6 October 2026 at 18:00 (Asia/Singapore) in Singapore. Hosted by Dimes Square Advisory, AthenaX, Internoun.eth.
+
+‣ 18:30 Drinks & Bites served.
+
+‣ 20:00 VIP Dinner - Closed-door pitches for selected projects
+
+Project:VEX (https://x.com/ProjectVEXai) puts institution-grade strategies in every trader's hands, run by an AI agent that executes around the clock and never moves capital without your approval.
+
+Registration requires approval.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-4f508fed2c61f39d"></a>
+
+## Web3 HUNT After Dark!
+
+- Record: `token2049-evt-vXApYWhd2zXp5N7`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-06T10:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/f8c63aeq>
+
+### About the event
+
+Web3 HUNT After Dark! is scheduled for 6 October 2026 at 18:00 (Asia/Singapore) in Singapore. Hosted by BigONE, Mixin.
+
+Registration requires host approval. Registration is listed as free.
+
+<a id="event-3199490d77f9c49a"></a>
+
+## OpenAI DevDay Recap Party
+
+- Record: `token2049-evt-xBgnU6MHbWTQGqv`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-06T10:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/8q80l11c>
+
+### About the event
+
+OpenAI DevDay Recap Party is scheduled for 6 October 2026 at 18:00 (Asia/Singapore) in Singapore. Hosted by Gabriel Chua, William Liu, Raymond Chong, Brian Chew, Sherry Jiang, Zane Chee, Qing Ze Hum.
+
+We have limited space, so registration is subject to approval.
+
+Please fill in the registration form with accurate details.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-61b61aa57aa802a2"></a>
+
+## Classy Options by STS Digital and CMT Digital
+
+- Record: `token2049-evt-zysPB7hHQEpD52c`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-06T10:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/34kushhq>
+
+### About the event
+
+Classy Options by STS Digital and CMT Digital is scheduled for 6 October 2026 at 18:00 (Asia/Singapore) in Singapore. Hosted by STS Digital, Lucy Platt, Scott / sk @ STS Digital, Pierre-Antoine Mudry, Lasse Ufermann.
+
+Format: Drinks, canapés, and open networking
+
+This private event is by invitation only.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-e565b58240687f14"></a>
+
+## Crypto Across Borders: 𝕏 Executive Dinner 2026
+
+- Record: `token2049-evt-15pJHHsA2rw2hU2`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-06T10:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/dmt8qrtt>
+
+### About the event
+
+Crypto Across Borders: 𝕏 Executive Dinner 2026 is scheduled for 6 October 2026 at 18:30 (Asia/Singapore) in Singapore. Hosted by Whitney Han, SpaceXAI, APAC.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-8572407d433675d7"></a>
+
+## VIP Dinner: Building the Next Decade of Trust
+
+- Record: `token2049-evt-8vHB3nvdcmjXQLC`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-06T10:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/prrgkui8>
+
+### About the event
+
+VIP Dinner: Building the Next Decade of Trust is scheduled for 6 October 2026 at 18:30 (Asia/Singapore) in Singapore. Hosted by WIDTH.
+
+Strictly capped at 100 guests, by invitation
+
+18:30-19:00 Guest arrival and networking
+
+19:05-19:15 Opening remarks - Chionh Chye Kit, Co-Founder & CEO, WIDTH
+
+19:40-21:00 Dinner and conversation
+
+Registration requires host approval. Registration is listed as free.
+
+<a id="event-bb09fdafbb066ac0"></a>
+
+## Ethena After Hours
+
+- Record: `token2049-evt-uXHxfa5Te3XOAeF`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-06T10:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/ahgoji59>
+
+### About the event
+
+Ethena After Hours is scheduled for 6 October 2026 at 18:30 (Asia/Singapore) in Singapore. Hosted by Jane Liu, Guy, nick, lito.
+
+Partners, investors, LPs, and close friends, all in one room, no agenda beyond good conversation and better company.
+
+Registration does not guarantee entry, and guests who have not received approval will not be permitted to enter.
+
+If you have been approved and would like to bring a +1, please check with the host in advance.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-38b91e77917972f6"></a>
+
+## In Transit: Happy Hour by Across, Paxos Labs, and Quicknode
+
+- Record: `token2049-evt-w61HdPlP6G8QrEl`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-06T10:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/hubdiz3j>
+
+### About the event
+
+In Transit: Happy Hour by Across, Paxos Labs, and Quicknode is scheduled for 6 October 2026 at 18:30 (Asia/Singapore) in Singapore. Hosted by Leilani, James Richard Fry, Anjali George, Quicknode, Marcus Kok.
+
+We're hosting drinks for founders, builders, traders, and the institutions moving real size.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-9da2877e647bdd61"></a>
+
+## Founders & Funds: Oktoberfest & Race Week edition!
+
+- Record: `token2049-evt-1I0nFlOjGHEOkSu`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-06T11:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/foundersandfunds_DEEL>
+
+### About the event
+
+Founders & Funds: Oktoberfest & Race Week edition! is scheduled for 6 October 2026 at 19:00 (Asia/Singapore) in Singapura. Hosted by Wai-ling Ho, Amanda Cua (BackScoop), Tasha Yogiswara.
+
+Get real food, free-flowing beer and wine, and sit and mingle with people you actually want to meet.
+
+Real food, beer, wine and non-alcoholic drinks, all on us.
+
+Slots are limited and by approval only, so sign up.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-3884fbdc756f1209"></a>
+
+## BING BONG TOKEN2049 SINGAPORE powered by PHANTOM
+
+- Record: `token2049-evt-mCiFMuwjBWBnKJ5`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-06T11:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/mklcgofo>
+
+### About the event
+
+BING BONG TOKEN2049 SINGAPORE powered by PHANTOM is scheduled for 6 October 2026 at 19:00 (Asia/Singapore) in Singapore. Hosted by Gigi, Bing Bong, Shiv, Zahraa.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-d7464f3c1752115f"></a>
+
+## Predictions Over Wine: an Invite-Only Prediction Markets Evening by Raven
+
+- Record: `token2049-evt-YKenkkheHINtIb5`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-06T11:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/pwn3k3pw>
+
+### About the event
+
+Predictions Over Wine: an Invite-Only Prediction Markets Evening by Raven is scheduled for 6 October 2026 at 19:00 (Asia/Singapore) in Singapore. Hosted by Joana Encheva.
+
+Invite-only prediction markets evening by Raven
+
+Attendance is approval based and capacity is strictly limited.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-b01b3b3607dc0393"></a>
+
+## DigiMaaya — Tech EZ KOL Club \| Token2049
+
+- Record: `token2049-evt-ymFbzrzDBQKtHfU`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-06T11:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/twvhx8s4>
+
+### About the event
+
+DigiMaaya - Tech EZ KOL Club | Token2049 is scheduled for 6 October 2026 at 19:00 (Asia/Singapore) in Singapore. Hosted by DigiMaaya, Utsav Dar, Block Tides.
+
+Drinks, conversations and TOKEN2049 energy
+
+Registration is subject to approval.
+
+Registration requires host approval. Registration is listed as free.
+
+<a id="event-9a925419062a73e0"></a>
+
+## The AULT Society
+
+- Record: `token2049-evt-ZfriblasxGSoIbc`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-06T11:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/AULTSociety>
+
+### About the event
+
+The AULT Society is scheduled for 6 October 2026 at 19:00 (Asia/Singapore) in Singapore. Hosted by Aultmarkets, INPUT Global Events.
+
+The platform is currently live and invite only.
+
+A few minutes from the main Token2049 venue, so you can walk over straight after the last session.
+
+Registration requires host approval. Registration is listed as free.
+
+<a id="event-00ed0754b0a5cd54"></a>
+
+## The Room Where It Happens
+
+- Record: `token2049-evt-h6LxrsOUMRPwKFE`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-06T12:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/qmd42t6x>
+
+### About the event
+
+The Room Where It Happens is scheduled for 6 October 2026 at 20:00 (Asia/Singapore) in Singapore. Hosted by Upside Events, Igneus Terrenus, Kelvin Zhang.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-23f4200755f021e0"></a>
+
+## Glow Night with ZMO
+
+- Record: `token2049-evt-lkAEgTWumG2jrah`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-06T14:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/92jeiach>
+
+### About the event
+
+Glow Night with ZMO is scheduled for 6 October 2026 at 22:00 (Asia/Singapore) in Singapore. Hosted by ZMO.
+
+Just bring a glow stick, a little craziness, and a heart ready to have fun.
+
+Registration is listed as free.
+
+<a id="event-a93a6eccf97db32f"></a>
+
+## VC Founders Meetup
+
+- Record: `token2049-2d2ed13770496f4e`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-06T15:00:00+08:00
+- Description: Source-backed
+- Original page: <https://aspirescapital.com/singapore>
+
+### About the event
+
+VC Founders Meetup is scheduled for 6 October 2026 at 15:00 (Asia/Singapore) in Singapore.
+
+<a id="event-8908182936908ee3"></a>
+
+## Global Family Office Networking Evening
+
+- Record: `token2049-d8dc0ec6e63a8875`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-06T18:00:00+08:00
+- Description: Source-backed
+- Original page: <https://registration.hokoagency.com/gfos-6-october>
+
+### About the event
+
+Hoko's registration page gives 6 October 2026, 18:00-20:00, at the National Gallery in Singapore. Attendance is by invitation. The organizer describes a networking evening with cocktails and canapés, with event details sent by email after registration.
+
+Registration requires host approval.
+
+<a id="event-fc3ed82b292a301d"></a>
+
+## TOKEN2049 Speakers Reception
+
+- Record: `token2049-official-6a54a1d247aa29a14892478b`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-06T19:00:00+08:00
+- Description: Source-backed
+- Original page: <https://week.token2049.com>
+
+### About the event
+
+TOKEN2049 Speakers Reception is scheduled for 6 October 2026 at 19:00 (Asia/Singapore) in Singapore. Hosted by TOKEN2049.
+
+Attendance is by invitation according to the published schedule.
+
+<a id="event-d1d6495434e469d9"></a>
+
+## Founders Run & Rave
+
+- Record: `token2049-evt-icR0VbRLRvvXJaw`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-06T22:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/p1ql2gs7>
+
+### About the event
+
+Founders Run & Rave is scheduled for 7 October 2026 at 06:00 (Asia/Singapore) in Singapore. Hosted by Orviq Labs.
+
+Morning run around Marina Bay
+
+Drinks & post-run conversations
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-ca08a6b4918b6bbe"></a>
+
+## Collably Matchmaking Network — TOKEN2049 Singapore Week
+
+- Record: `token2049-evt-eTEkZPCdHSRnFz5`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-06T23:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/cxpqyjcg>
+
+### About the event
+
+Collably Matchmaking Network - TOKEN2049 Singapore Week is scheduled for 7 October 2026 at 07:00 (Asia/Singapore) in Singapore. Hosted by Collably Network.
+
+Registration is listed as free.
+
+<a id="event-59660e9db5faedef"></a>
+
+## BTCC Traders Club @ TOKEN2049
+
+- Record: `token2049-evt-G5rhLHBc0R1dAz8`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-06T23:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/x6q6vmm9>
+
+### About the event
+
+BTCC Traders Club @ TOKEN2049 is scheduled for 7 October 2026 at 07:30 (Asia/Singapore) in Singapore. Hosted by BTCC.
+
+You'll find us on Level 1, the first booth you see as you walk in.
+
+Registration is listed as free.
+
+<a id="event-07029c03afd37e62"></a>
+
+## ONE OF US Run & Coffee // Aya, Cudis, 071Labs, & Aethir
+
+- Record: `token2049-evt-W03OB5sltwcVN8a`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-06T23:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/bxuvc1dc>
+
+### About the event
+
+ONE OF US Run & Coffee // Aya, Cudis, 071Labs, & Aethir is scheduled for 7 October 2026 at 07:30 (Asia/Singapore) in Singapore. Hosted by Aya Trade, ONE OF US, Rafik Fellal, Fady.
+
+Registration is listed as free.
+
+<a id="event-f9173b858501ee44"></a>
+
+## Forbes Global CEO Conference 2026
+
+- Record: `token2049-2aaeb7b8b6a51c5c`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-07
+- Description: Source-backed
+- Original page: <https://www.forbesglobalceoconference.com/2026>
+
+### About the event
+
+The Forbes Global CEO Conference is scheduled for 7-8 October 2026 in Singapore. The organizer describes a conference for chief executives, entrepreneurs, and investors, with discussions on global business issues.
+
+<a id="event-2839ce5078bd353f"></a>
+
+## Sextillion Unveiled
+
+- Record: `token2049-evt-9bf0RTtIIMrIVUb`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-07T00:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/rpjz9dhl>
+
+### About the event
+
+Sextillion Unveiled is scheduled for 7 October 2026 at 08:00 (Asia/Singapore) in Singapore. Hosted by Sextillion.
+
+Disclaimer: Entry to the Sextillion booth at TOKEN2049 requires a valid and officially issued TOKEN2049 event pass.
+
+Sextillion does not provide or guarantee event entry passes unless explicitly stated.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-3090b1e82a79e485"></a>
+
+## Canton & Coffee
+
+- Record: `token2049-evt-AkfGaK6VBp3JZfK`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-07T00:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/canton-63pr>
+
+### About the event
+
+Canton & Coffee is scheduled for 7 October 2026 at 08:00 (Asia/Singapore) in Singapore. Hosted by Canton | Anney, Erick Ho, BitSafe.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-ced8ad1c4cda068a"></a>
+
+## Talk: Token 2049 Singapore
+
+- Record: `token2049-evt-uWH1GyNj7CHfMY3`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-07T00:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/n0if8mxq>
+
+### About the event
+
+Talk: Token 2049 Singapore is scheduled for 7 October 2026 at 08:00 (Asia/Singapore) in Singapore. Hosted by DoubleZero Events.
+
+Registration is listed as free.
+
+<a id="event-504cb18044ec8eba"></a>
+
+## Payward Lounge @ TOKEN2049
+
+- Record: `token2049-evt-rbn0PzPIVCchPkd`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-07T01:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/paywardlounge-tokensingapore>
+
+### About the event
+
+Payward Lounge @ TOKEN2049 is scheduled for 7 October 2026 at 09:00 (Asia/Singapore) in Singapore. Hosted by Kraken, Payward Services, Reap, Ink Foundation, Breakout.
+
+Please note: Registration is required, and all requests are subject to approval.
+
+Due to limited capacity, submitting a registration does not guarantee entry.
+
+Registration requires host approval. Registration is listed as free.
+
+<a id="event-fb7731c670786356"></a>
+
+## Circle House @ TOKEN2049 Singapore 🇸🇬
+
+- Record: `token2049-evt-UrPmMeM2dR70sNC`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-07T01:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/circlehouse2026>
+
+### About the event
+
+Circle House @ TOKEN2049 Singapore 🇸🇬 is scheduled for 7 October 2026 at 09:30 (Asia/Singapore) in Singapore. Hosted by Circle.
+
+No TOKEN2049 pass required for entry to Level 3.
+
+Please note: each registration is valid for single entry per person.
+
+More agenda details coming soon - save the date and stay tuned!
+
+Register now to receive your QR code entry ticket.
+
+Registration is listed as free.
+
+<a id="event-26e8a5fe20451d65"></a>
+
+## Founders & VCs Brunch and Lunch 🥐 Token2049 2026
+
+- Record: `token2049-evt-jC6Fx0IMv1yakBN`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-07T03:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/025nej41>
+
+### About the event
+
+Founders & VCs Brunch and Lunch Token2049 2026 is scheduled for 7 October 2026 at 11:00 (Asia/Singapore) in Singapore. Hosted by Unbound Operators, Juan Esteban Sierra, Daniel Forero.
+
+Our brunch is the quieter room inside that week.
+
+A relaxed brunch setting to start the day with focus before the week accelerates
+
+Founders & VCs Brunch and Lunch ETH CC (https://lu.ma/qqrpncai)
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-0f3dfa353e19616f"></a>
+
+## Reserved Access: Private Capital Lunch
+
+- Record: `token2049-evt-jKMbgzexeP8GiPh`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-07T03:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/tf6wu22h>
+
+### About the event
+
+Reserved Access: Private Capital Lunch is scheduled for 7 October 2026 at 11:00 (Asia/Singapore) in Singapore. Hosted by alltime, 000 Shaaran, Treehouse.
+
+Reserved Access: Private Capital Lunch
+
+A venue built around safeguarding exceptional assets felt like the right setting to bring those worlds together.
+
+Attendance is limited and subject to approval.
+
+As Le Freeport operates under strict access and security protocols, approved guests will be contacted separately with entry instructions ahead of the event.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-302332db5e524167"></a>
+
+## HashKey Cloud Private Lunch - Token2049
+
+- Record: `token2049-evt-SCRHC3QWMR7vy4t`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-07T03:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/607ztkvn>
+
+### About the event
+
+HashKey Cloud Private Lunch - Token2049 is scheduled for 7 October 2026 at 11:00 (Asia/Singapore) in Singapore. Hosted by HashKey On-Chain.
+
+ - Private & By Invitation Only -
+
+12:15 PM | Private Business Luncheon & Fine Dining
+
+1:30 PM | Closing Conversations & Coffee
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-c8dc88ae4f9fe4c8"></a>
+
+## Clone Your X Voice with Clawdi
+
+- Record: `token2049-evt-HRMRBDhmgm1vpoG`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-07T03:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/6lwh5wuo>
+
+### About the event
+
+Clone Your X Voice with Clawdi is scheduled for 7 October 2026 at 11:30 (Asia/Singapore) in Singapore. Hosted by Sui.
+
+By the end of this workshop, your AI will have it too.
+
+Please bring a laptop with an active ChatGPT or Claude subscription (Plus/Pro tier recommended) to participate in the workshop.
+
+This workshop is for registered attendees of Sui Basecamp.
+
+Registration is listed as free.
+
+<a id="event-3d5d987ed1e010c8"></a>
+
+## The Institutional Stack: VIP Lunch by Chainalysis, Definitive & Utila
+
+- Record: `token2049-evt-XFw8Ym4IFSUAaNY`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-07T03:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/v3fntqy3>
+
+### About the event
+
+The Institutional Stack: VIP Lunch by Chainalysis, Definitive & Utila is scheduled for 7 October 2026 at 11:30 (Asia/Singapore) in Singapore. Hosted by Chainalysis APAC, Utila.io, Daphne | Definitive Finance.
+
+Convened by Chainalysis, Utila, and Definitive Finance, the lunch will explore how institutions are adopting digital assets across the full stack: from compliance and risk intelligence, to MPC wallet custody and stablecoin treasury management, to professional trade execution onchain.
+
+12:15-1.00 PM: Panel: The Institutional Stack: Compliance, Custody & Execution
+
+The panel will explore how these layers connect, where institutions are in their adoption journey, and what embeddable infrastructure means for platforms building their own stack.
+
+1.00 PM-2.30 PM: Executive Lunch and Networking
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-7c3685a9c6427f2e"></a>
+
+## Creator Lunch \| ether.fi Lounge
+
+- Record: `token2049-evt-05ZrSYxAy61QeDv`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-07T04:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/bam8b296>
+
+### About the event
+
+Creator Lunch | ether.fi Lounge is scheduled for 7 October 2026 at 12:00 (Asia/Singapore). Hosted by ether.fi.
+
+Creator Lunch is a sit-down with ether.fi (https://ether.fi)'s core team for the creators who've been building alongside us.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-23779ee09a871aab"></a>
+
+## Starknet Clubhouse
+
+- Record: `token2049-evt-4t1SjpOXvVvgcS1`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-07T04:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/starknet-clubhouse>
+
+### About the event
+
+Starknet Clubhouse is scheduled for 7 October 2026 at 12:30 (Asia/Singapore) in Singapore. Hosted by Starknet Foundation.
+
+RSVP's must be approved in advance for attendees, and spots are tight.
+
+RSVP early, and give us a shout if your plans change so we can free up your place.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-b2b0aad52ced132e"></a>
+
+## NEXT UNICORN: AI — Where AI Labs, Founders & Capital Meet
+
+- Record: `token2049-evt-8sgXzCVZCeZl0vx`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-07T05:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/mg0g6m75>
+
+### About the event
+
+NEXT UNICORN: AI - Where AI Labs, Founders & Capital Meet is scheduled for 7 October 2026 at 13:30 (Asia/Singapore) in Singapore. Hosted by HyperFlex Labs, Jt.
+
+2:15 PM - Opening Conversations
+
+3:00 PM - Panel: Building the Next AI Company
+
+3:40 PM - The Capital Perspective
+
+Registration requires host approval. Registration is listed as free.
+
+<a id="event-4b9a2a5856806e64"></a>
+
+## Onchain Capital & Liquidity: DeFi & AI📍 Singapore \| 🗓Oct 7-8 \| During Token2049 Singapore
+
+- Record: `token2049-evt-RBs2kwc5zxYLG5c`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-07T06:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/chnf8m35>
+
+### About the event
+
+Onchain Capital & Liquidity: DeFi & AI Singapore | Oct 7-8 | During Token2049 Singapore is scheduled for 7 October 2026 at 14:00 (Asia/Singapore) in Singapore. Hosted by lil room.
+
+4:00 - 4:45 PM | Arrival & Networking
+
+4:45 - 5:30 PM | Panel: Liquidity Wars - Designing Sustainable DeFi Markets
+
+5:30 - 6:00 PM | Talk: Capital Efficiency & DeFi Market Infrastructure
+
+6:30 - 8:00 PM | Networking & Social
+
+Registration requires host approval. Registration is listed as free.
+
+<a id="event-c0151c987cee9788"></a>
+
+## AI You Can Touch by OpenBuilder, Sogni and TZ APAC
+
+- Record: `token2049-evt-SBK8LFWdXibBTnM`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-07T06:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/AI-You-Can-Touch>
+
+### About the event
+
+AI You Can Touch by OpenBuilder, Sogni and TZ APAC is scheduled for 7 October 2026 at 14:00 (Asia/Singapore) in Singapore. Hosted by Lionel Sim, Mauvis Ledford, Cecilia, TZ APAC.
+
+Over these 4 hours, you'll learn how to own and run your own AI locally instead of renting access to someone else's, then settle in for a fireside chat on the rise of open source and local AI.
+
+Complimentary bites & drinks
+
+Two sessions, back to back: Mauvis Ledford (Founder of Sogni, ex-CTO of CoinMarketCap) on owning your AI intelligence, followed by a Fireside Chat: The Rise of Open Source and Local AI with Mauvis, Lionel Sim and TZ APAC's CTO.
+
+Own your AI intelligence Session
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-e1e201938134ebe9"></a>
+
+## Block Zero - Run Club - Day 1
+
+- Record: `token2049-official-6aab60b3f5de78483fb5c758`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-07T06:30:00+08:00
+- Description: Source-backed
+- Original page: <https://week.token2049.com>
+
+### About the event
+
+Block Zero - Run Club - Day 1 is scheduled for 7 October 2026 at 06:30 (Asia/Singapore) in Singapore. Hosted by Quarry.
+
+Attendance is by invitation according to the published schedule.
+
+<a id="event-2bca3c1e1b1f3445"></a>
+
+## Beyond Equity: Token Raises for Established Companies \| Token2049 Singapore
+
+- Record: `token2049-evt-3SbvtX3C28sUGCK`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-07T07:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/8bfomi5i>
+
+### About the event
+
+Beyond Equity: Token Raises for Established Companies | Token2049 Singapore is scheduled for 7 October 2026 at 15:00 (Asia/Singapore) in Singapore. Hosted by TokenMinds.
+
+This session walks through how token fundraising works, what it requires, and which companies it suits.
+
+Admission: Free (RSVP required)*
+
+This session helps you answer them.
+
+TokenMinds is an award-winning blockchain and AI firm that has run token sales since 2017, supporting 150+ projects through the ICO boom, the IEO/IDO phase, DeFi Summer, the NFT wave and today's launchpad era.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-8eb9588c506f91e1"></a>
+
+## AI and Compute Meetup
+
+- Record: `token2049-evt-9jK0XFr7dNWGYB7`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-07T07:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/ai-compute>
+
+### About the event
+
+AI and Compute Meetup is scheduled for 7 October 2026 at 15:00 (Asia/Singapore) in Singapore. Hosted by Monad Foundation.
+
+The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-8118826467ebd889"></a>
+
+## event.hl @ TOKEN2049 Singapore
+
+- Record: `token2049-evt-aSICrURyA98d7sd`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-07T07:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/3qsc5ehs>
+
+### About the event
+
+event.hl @ TOKEN2049 Singapore is scheduled for 7 October 2026 at 15:00 (Asia/Singapore) in Singapore. Hosted by LetMeDo, Louis @ Hyperbeat.
+
+Come hang out, enjoy some food and drinks, play a few games and win some prizes throughout the afternoon.
+
+Entry is strictly for approved RSVPs and capacity is limited.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-96f5f1c7b8f68102"></a>
+
+## Arthur Hayes Fireside Chat and Neobank Panels \| ether.fi Lounge
+
+- Record: `token2049-evt-hY3D1bwL06kQbJK`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-07T07:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/81n4d52e>
+
+### About the event
+
+Arthur Hayes Fireside Chat and Neobank Panels | ether.fi Lounge is scheduled for 7 October 2026 at 15:00 (Asia/Singapore). Hosted by ether.fi.
+
+Come listen to Arthur Hayes in a fireside chat followed by open Q&A.
+
+We're also bringing together the teams building the payment rails, stablecoin infrastructure, and on-chain finance stack that the rest of the industry will run on.
+
+Whether you're deep into DeFi or just curious about what's next, this session is set up for real talk, all in the heart of MBS.
+
+3:00 - 3:40p - Stables Run the World: Ethena, Rain, and ether.fi (https://ether.fi)
+
+Registration requires host approval. Registration is listed as free.
+
+<a id="event-b967d037c34e6f2c"></a>
+
+## VIP Penthouse Experience
+
+- Record: `token2049-evt-IR9oS0NdPsHIjhj`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-07T07:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/vippenthouse>
+
+### About the event
+
+VIP Penthouse Experience is scheduled for 7 October 2026 at 15:30 (Asia/Singapore) in Singapore. Hosted by The Best Event, Introduction.com, Tobias Bauer, Brent Fulfer, Mihir Odhrani, Mickey Hardy.
+
+Space is extremely limited and RSVPs are required.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-5466aed2770fa392"></a>
+
+## Proof of Reserve
+
+- Record: `token2049-evt-iZIeoXp82UAz2YW`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-07T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/he4z17ge>
+
+### About the event
+
+Proof of Reserve is scheduled for 7 October 2026 at 17:00 (Asia/Singapore) in Singapore. Hosted by NEAR Foundation, Quantus.
+
+Vault tour and private dinner at The Reserve, one of the world's largest precious-metals vaulting facilities.
+
+The Reserve is an active high-security vaulting facility, additional information is required for venue access.
+
+Guests must provide the last four digits of their NRIC or passport during registration and bring the original document for verification on the day.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-e909ff51423619e7"></a>
+
+## Happy Hour \| ether.fi Lounge
+
+- Record: `token2049-evt-sXHTfQd9p2ZHo2k`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-07T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/rrusrk76>
+
+### About the event
+
+Happy Hour | ether.fi Lounge is scheduled for 7 October 2026 at 17:00 (Asia/Singapore). Hosted by ether.fi.
+
+Drinks with the ether.fi (https://ether.fi) team, the community, and the people who've been in it with us.
+
+No agenda, no panels, no one trying to pitch you anything.
+
+Registration requires host approval. Registration is listed as free.
+
+<a id="event-97677e0161320f13"></a>
+
+## Compass: Meet & Brunch @ Singapore
+
+- Record: `token2049-evt-C5Y68vtnTLKCEKD`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-07T09:00:00+08:00
+- Description: Source-backed
+- Original page: <https://luma.com/sklh6syu>
+
+### About the event
+
+Mesa and Superteam SG host a coffee-and-brunch meetup in Singapore. The programme includes short introductions and informal networking, without panels or stage pitches.
+
+The official TOKEN2049 Week schedule lists the brunch for 7 October 2026, 09:00-12:00 Singapore time. Attendance requires host approval, and the exact venue is shared with approved guests.
+
+<a id="event-2be7aaf813e61e56"></a>
+
+## Media Accelerator & Startup Cohort
+
+- Record: `token2049-evt-EPSGpySqEIekV6n`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-07T09:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/lgaeclvb>
+
+### About the event
+
+Media Accelerator & Startup Cohort is scheduled for 7 October 2026 at 17:30 (Asia/Singapore) in Singapore. Hosted by Meta Blockchain, Surya Gupta.
+
+Format: Official Side Event during TOKEN2049 Singapore
+
+Registration requires host approval. Registration is listed as free.
+
+<a id="event-f68cb1a6f38f7afd"></a>
+
+## Robot Fight \| ARC Night \| Race Week
+
+- Record: `token2049-evt-BwOJUqwll59WiFc`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-07T10:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/arcnight_sg2026>
+
+### About the event
+
+Robot Fight | ARC Night | Race Week is scheduled for 7 October 2026 at 18:00 (Asia/Singapore) in Singapore. Hosted by ARC.
+
+19:30 - The Main Event - Robot flight
+
+<a id="event-0c5fc1a769002e4e"></a>
+
+## Singapore GoClub event by GoMining
+
+- Record: `token2049-evt-C8tRdqaYPd8Wfbw`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-07T10:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/my49z704>
+
+### About the event
+
+Singapore GoClub event by GoMining is scheduled for 7 October 2026 at 18:00 (Asia/Singapore) in Singapore. Hosted by GoMining Company, Daria, Ilya Klyachin, Serge Kuzmins, Denis Ladanov.
+
+Every application is reviewed individually; confirmed guests will receive a personal invitation shortly after.
+
+Registration requires host approval. Registration is listed as free.
+
+<a id="event-77049bbcb973ab2f"></a>
+
+## Pionex Private Dinner · Singapore 2049
+
+- Record: `token2049-evt-dxADGfbez16mjnE`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-07T10:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/b1g00l5o>
+
+### About the event
+
+Pionex Private Dinner - Singapore 2049 is scheduled for 7 October 2026 at 18:00 (Asia/Singapore) in Singapore. Hosted by Pionex.com, Dave.
+
+This private dinner is strictly limited to 30 guests and reserved exclusively for Pionex VIPs and a select number of specially invited guests.
+
+There will be no public registration.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-d512c13ee03fe968"></a>
+
+## OKX Web3 Night : Beyond X
+
+- Record: `token2049-evt-FYVP8Emnz5kDStS`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-07T10:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/anz87dqc>
+
+### About the event
+
+OKX Web3 Night : Beyond X is scheduled for 7 October 2026 at 18:00 (Asia/Singapore) in Singapore. Hosted by OKX Events, David Shui, Stacey Lau.
+
+18:00-19:00 - Keynote and partner panels
+
+19:00-23:00 - Networking and drinks
+
+Capacity is limited and every registration is reviewed by the host team.
+
+Does applying guarantee entry?
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-bc8eab3ad6a169d1"></a>
+
+## Startup Pitch & Investor Connect — Singapore
+
+- Record: `token2049-evt-H6hoGUXDIzGKAVM`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-07T10:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/hu3pb3a7>
+
+### About the event
+
+Startup Pitch & Investor Connect - Singapore is scheduled for 7 October 2026 at 18:00 (Asia/Singapore) in Singapore. Hosted by NomadGlobalHub.
+
+You'll get access to selected pitch decks, plus warm intros if you're scouting.
+
+Whether you're funding, building or growing - you'll walk away with something valuable.
+
+<a id="event-f1565bcb16ee44a2"></a>
+
+## Token2049: An Evening with Caladan and zerohash
+
+- Record: `token2049-evt-toojb9O80uh0l10`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-07T10:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/5iaxp3hi>
+
+### About the event
+
+Token2049: An Evening with Caladan and zerohash is scheduled for 7 October 2026 at 18:00 (Asia/Singapore) in Singapore. Hosted by zerohash, Bev Tan.
+
+There's no agenda and no presentation.
+
+Registration requires host approval. Registration is listed as free.
+
+<a id="event-6060a05b89a060f9"></a>
+
+## BNB Chain SG Super Meetup
+
+- Record: `token2049-evt-wahueiUtQocCRvB`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-07T10:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/wo9b0tct>
+
+### About the event
+
+BNB Chain SG Super Meetup is scheduled for 7 October 2026 at 18:00 (Asia/Singapore) in Singapore. Hosted by BNB Chain.
+
+Please note there is an approval process, we're expecting a full house, and space at the venue is limited!
+
+Entry will be on a first-come, first-served basis once we reach capacity.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-a9aaa0947afbb568"></a>
+
+## Digital Capital: Meaningful Conversations
+
+- Record: `token2049-evt-yHyNzLHecx9lJeC`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-07T10:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/iscvsjl9>
+
+### About the event
+
+Digital Capital: Meaningful Conversations is scheduled for 7 October 2026 at 18:00 (Asia/Singapore) in Singapore. Hosted by Hoko Agency.
+
+Approval only (Strictly No +1s) - Attendance is by approval only, and places are very limited.
+
+If your plans change, let us know so we can pass your place to someone on the waitlist.
+
+Registration requires host approval. Registration is listed as free.
+
+<a id="event-c4f376fe05941ff0"></a>
+
+## Executive Digital Assets VIP Dinner at Token2049 Singapore w/ Halborn
+
+- Record: `token2049-evt-1xjigoMG7jKBT1o`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-07T11:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/Token2049VIPDinner>
+
+### About the event
+
+Executive Digital Assets VIP Dinner at Token2049 Singapore w/ Halborn is scheduled for 7 October 2026 at 19:00 (Asia/Singapore) in Singapore. Hosted by Halborn.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-7dddbf9aa30d12e7"></a>
+
+## DAS Asia: VIP & Speaker Mixer
+
+- Record: `token2049-evt-eEjP0BfjX66HVte`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-07T11:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/l1matdm9>
+
+### About the event
+
+DAS Asia: VIP & Speaker Mixer is scheduled for 7 October 2026 at 19:00 (Asia/Singapore) in Singapore. Hosted by Carolyn Wyatt.
+
+This invite-only gathering is exclusively for VIP ticket holders and DAS speakers.
+
+Eligible guests will receive an RSVP email from our events team closer to the event.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-fd2ac79bbefe5240"></a>
+
+## 0G: Bright Futures After Dark
+
+- Record: `token2049-evt-MQpVWkztvydv9wD`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-07T11:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/0g_KOL_Singapore2026>
+
+### About the event
+
+0G: Bright Futures After Dark is scheduled for 7 October 2026 at 19:00 (Asia/Singapore) in Singapore. Hosted by 0G Foundation.
+
+This is an invite-only event.
+
+Registration is subject to approval and space is limited.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-0d0a9aaa8b927a2d"></a>
+
+## Crypto Banter Event Singapore - Powered by Tape
+
+- Record: `token2049-evt-OvJir2VIHLcT0of`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-07T11:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/e1rgiyi4>
+
+### About the event
+
+Crypto Banter Event Singapore - Powered by Tape is scheduled for 7 October 2026 at 19:00 (Asia/Singapore) in Singapore. Hosted by Crypto Banter.
+
+Registration requires host approval. Registration is listed as free.
+
+<a id="event-64234f345cae1f46"></a>
+
+## Kaito X Clique Private Dinner
+
+- Record: `token2049-evt-PKQo3PwiApPV0DE`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-07T11:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/o5afc8kf>
+
+### About the event
+
+Kaito X Clique Private Dinner is scheduled for 7 October 2026 at 19:00 (Asia/Singapore) in Singapore. Hosted by Kaito AI, Charles-Nicolas Gaubert-Amy, Justin C.
+
+This invitation is non-transferable and seating is limited; please RSVP by end of this week.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-5696278751028b1e"></a>
+
+## THE POP-UP CITY
+
+- Record: `token2049-evt-Tu5nOFpxgB16iLQ`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-07T11:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/06hxblnh>
+
+### About the event
+
+THE POP-UP CITY is scheduled for 7 October 2026 at 19:00 (Asia/Shanghai). Hosted by 大树财经TreeNews, cointime.
+
+Registration requires host approval. Registration is listed as free.
+
+<a id="event-c8dce15f1869f6a0"></a>
+
+## Aultmarkets Singapore Social @ Token2049
+
+- Record: `token2049-evt-W0VqCD6ROGPDDvD`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-07T11:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/6cdxnhmz>
+
+### About the event
+
+Aultmarkets Singapore Social @ Token2049 is scheduled for 7 October 2026 at 19:00 (Asia/Singapore) in Singapore. Hosted by Aultmarkets.
+
+Aultmarkets is live and invite-only.
+
+If you are an active trader or market participant, speak with the team about being considered for invite-only access.
+
+Entry is free with registration and limited to 300 guests.
+
+Registration is listed as free.
+
+<a id="event-b95e2d1b56dbc103"></a>
+
+## Crypto Noir:After Party
+
+- Record: `token2049-evt-eqhxvfE7WCi6rUe`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-07T11:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/hiduaq79>
+
+### About the event
+
+Crypto Noir:After Party is scheduled for 7 October 2026 at 19:30 (Asia/Singapore) in Singapore. Hosted by NonLocal.
+
+Hosted by Atlassoit Security, this isn't a panel, workshop, or networking mixer. it's a high-voltage party experience built for founders, investors, degens, and dreamers who want to go all out.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-2bbb12bbb0c5dce7"></a>
+
+## TOKEN2049/F1 week Afterparty - For women in crypto/finance/tech/Web3.
+
+- Record: `token2049-evt-TVSTgNSHZ5pZZeF`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-07T11:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/zaz2b1xy>
+
+### About the event
+
+TOKEN2049/F1 week Afterparty - For women in crypto/finance/tech/Web3. is scheduled for 7 October 2026 at 19:30 (Asia/Singapore) in Singapore. Hosted by Hangouts With Her, Alexis Ng, Joy Li.
+
+Alcoholic and non-alcoholic drinks will be available; food and drinks are at your own expense.
+
+If you like to get active, RSVP @ our jog+trek before the afterparty instead.
+
+Registration requires host approval. Registration is listed as free.
+
+<a id="event-8d8cfa092bd61bdb"></a>
+
+## Private LP Dinner (Invite Only)
+
+- Record: `token2049-evt-Xuhxuctcsns955z`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-07T11:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/8x8zaab6>
+
+### About the event
+
+Private LP Dinner (Invite Only) is scheduled for 7 October 2026 at 19:30 (Asia/Singapore) in Singapore. Hosted by Gamma Prime.
+
+A private, invitation-only dinner held during TOKEN2049 week in Singapore, co-hosted by Gamma Prime and Rootstone.
+
+Attendance is subject to approval.
+
+Registration requires host approval. Registration is listed as free.
+
+<a id="event-29ebb5e6095193a3"></a>
+
+## TOKEN2049 Investor Hours
+
+- Record: `token2049-f506060cb0999771`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-07T14:00:00+08:00
+- Description: Source-backed
+- Original page: <https://forms.token2049.com/investorhoursinterest>
+
+### About the event
+
+TOKEN2049 Investor Hours is scheduled for 7 October 2026 at 14:00 (Asia/Singapore) in Singapore. Hosted by TOKEN2049.
+
+Registration is listed as free.
+
+<a id="event-20811d67938c1b88"></a>
+
+## TOKEN2049 Special Access Evening
+
+- Record: `token2049-official-6a54a2b83438be070d7a9c01`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-07T19:00:00+08:00
+- Description: Source-backed
+- Original page: <https://week.token2049.com>
+
+### About the event
+
+TOKEN2049 Special Access Evening is scheduled for 7 October 2026 at 19:00 (Asia/Singapore) in Singapore. Hosted by TOKEN2049.
+
+Attendance is by invitation according to the published schedule.
+
+<a id="event-de952561c75f3ba5"></a>
+
+## Satoshi Dinner Club Singapore powered by Cryptic
+
+- Record: `token2049-evt-jOBWuJc3s9090vo`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-07T23:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/hr3e1mti>
+
+### About the event
+
+Satoshi Dinner Club Singapore powered by Cryptic is scheduled for 8 October 2026 at 07:00 (Asia/Singapore) in Singapore. Hosted by Cryptic, Gavin Vanderlooven, Gilles, Inna S, Quinten Francois.
+
+You are cordially invited to experience Satoshi Dinner Club in Singapore this October.
+
+Your invitation is strictly personal and non-transferable.
+
+Registration requires host approval. Registration is listed as free.
+
+<a id="event-947be85a4ea9cb62"></a>
+
+## BJJ Open Mat Token2049
+
+- Record: `token2049-evt-vi3MRdSPLgFKqUt`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-07T23:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/ecjxhsxh>
+
+### About the event
+
+BJJ Open Mat Token2049 is scheduled for 8 October 2026 at 07:00 (Asia/Singapore) in Singapore. Hosted by Daniel Forde, Lisa Bechina.
+
+Do bring flip flops (or use socks) off the mats
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-e05d710b2bb28d17"></a>
+
+## ONE OF US Run & Coffee // Aya, Cudis, 071Labs, & Aethir
+
+- Record: `token2049-evt-cZBPqkOMypSgdEB`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-07T23:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/nne8jvrr>
+
+### About the event
+
+ONE OF US Run & Coffee // Aya, Cudis, 071Labs, & Aethir is scheduled for 8 October 2026 at 07:30 (Asia/Singapore) in Singapore. Hosted by Aya Trade, ONE OF US, Rafik Fellal, Fady.
+
+Registration is listed as free.
+
+<a id="event-25945f3e11b2a9b9"></a>
+
+## Vogue Wellness Pop-up with VIVA
+
+- Record: `token2049-evt-1YJWH6G06wqxtqw`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-08T00:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/bweuu7en>
+
+### About the event
+
+Vogue Wellness Pop-up with VIVA is scheduled for 8 October 2026 at 08:00 (Asia/Singapore) in Singapore. Hosted by Circolo Life, Polina, Rahat Kapur.
+
+Registration requires host approval. Registration is listed as free.
+
+<a id="event-91efe8382710de43"></a>
+
+## Onchain Breakfast , Singapore
+
+- Record: `token2049-evt-36Uw5PVpEzK0wCo`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-08T00:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/uulrmjzz>
+
+### About the event
+
+Onchain Breakfast, Singapore is scheduled for 8 October 2026 at 08:00 (Asia/Singapore) in Singapore. Hosted by Buildify.
+
+Onchain Breakfast is a relaxed morning gathering bringing together founders, operators and investors for a breakfast before the day gets busy.
+
+Just coffee, breakfast and conversations with people across the global.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-48f14db9b794f166"></a>
+
+## AWIC x TOKEN2049 Breakfast & Panel “Building Trust in Digital Assets: Risk, Regulation & Resilience”
+
+- Record: `token2049-evt-GjtcUA0RCT2rlru`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-08T00:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/liicgcdj>
+
+### About the event
+
+AWIC x TOKEN2049 Breakfast & Panel "Building Trust in Digital Assets: Risk, Regulation & Resilience" is scheduled for 8 October 2026 at 08:30 (Asia/Singapore) in Singapore. Hosted by Mora Lopez Basavilbaso, Rebecca, Afia Sengupta, Mindy Lyons Blackstock.
+
+AWIC x TOKEN2049 Singapore: Breakfast, Panel & Networking
+
+The morning will begin with breakfast, followed by the panel discussion.
+
+Breakfast will be served during registration.
+
+Registration deadline: October 1st.
+
+Registration is listed as free.
+
+<a id="event-2fde145d575115e4"></a>
+
+## Morning Street Workout with Stablewatch & Osero
+
+- Record: `token2049-evt-fDAS9T16AafsERp`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-08T01:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/p97euje7>
+
+### About the event
+
+Morning Street Workout with Stablewatch & Osero is scheduled for 8 October 2026 at 09:00 (Asia/Singapore) in Singapore. Hosted by stablewatch, Osero.
+
+Registration requires host approval. Registration is listed as free.
+
+<a id="event-4e74046645a459c6"></a>
+
+## Institutional Breakfast: Securing Digital Assets at Scale
+
+- Record: `token2049-evt-Y1Xj0zHA4R6fER0`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-08T01:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/5eviyo3p>
+
+### About the event
+
+Institutional Breakfast: Securing Digital Assets at Scale is scheduled for 8 October 2026 at 09:00 (Asia/Singapore) in Singapore. Hosted by Chainalysis APAC, Safeheron, Vicky Lee, AWS web 3, Halborn.
+
+An Institutional Breakfast at Token2049
+
+8:45 AM: Registration and networking breakfast
+
+10:00 AM: The Institutional Digital Asset Stack: a focused session covering custody, security, compliance, and infrastructure, with perspectives from Safeheron, Halborn, Chainalysis, and AWS
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-eec4097a6211b404"></a>
+
+## GS Crypto Alumni Network @Token2049 🇸🇬
+
+- Record: `token2049-evt-CfgaR5oBgLGFXc2`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-08T01:15:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/rcmm9hj9>
+
+### About the event
+
+GS Crypto Alumni Network @Token2049 🇸🇬 is scheduled for 8 October 2026 at 09:15 (Asia/Singapore) in Singapore. Hosted by Neoclassic | Steve Lee.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-ed085c952a93532e"></a>
+
+## Morning Circle: A Morning Gathering for the Mandarin-Speaking Web3 Community (Invite-Only), Hosted by Comma3 Ventures
+
+- Record: `token2049-evt-dnC3AZ7HVT0DDDL`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-08T02:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/u8jbrj02>
+
+### About the event
+
+Morning Circle: A Morning Gathering for the Mandarin-Speaking Web3 Community (Invite-Only), Hosted by Comma3 Ventures is scheduled for 8 October 2026 at 10:00 (Asia/Singapore) in Singapore. Hosted by Comma3 Ventures, CryptoMiles, Ivan Li, Nicole, Denny Yang, Corrina Lee.
+
+Morning Circle sets aside one unhurried morning within it - a small, invite-only brunch for the Mandarin-speaking Web3 community, hosted by Comma3 Ventures.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-3898b664d6543905"></a>
+
+## VIP Deal Flow Brunch
+
+- Record: `token2049-evt-i8d99Y77wEeG9NQ`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-08T02:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/ylyax3j7>
+
+### About the event
+
+VIP Deal Flow Brunch is scheduled for 8 October 2026 at 10:00 (Asia/Singapore) in Singapore. Hosted by lilycak3s | AWS, Aneirin Flynn, Greg Meehan, Bobby Ong.
+
+A private brunch for founders, protocol leaders, investors and operators building the next generation of onchain finance.
+
+Registration is subject to approval.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-55202ad241c36234"></a>
+
+## AI for Humanity Impact Forum 2026
+
+- Record: `token2049-evt-MkfpN9nI3wBReHd`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-08T02:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/jp3795j0>
+
+### About the event
+
+AI for Humanity Impact Forum 2026 is scheduled for 8 October 2026 at 10:00 (Asia/Singapore) in Singapore. Hosted by Singapore Innovation Centre.
+
+11:45 AM : Opening Panel: Global AI Impact: Urgencies & Priorities
+
+4:45 PM : Impact Pillar : Walk the Talk with Real Act
+
+10:00 - 11:00 AM : Gemini Vibe Coding: Build Fast, Have Fun
+
+11:00 - 12:00 PM : AI Filmmaking as the Next Language of Visual Storytelling
+
+Registration is listed as free.
+
+<a id="event-feaf37042524cd9c"></a>
+
+## AICON 2026
+
+- Record: `token2049-evt-VTlHvWH0ko5KSPb`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-08T02:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/aicon2026>
+
+### About the event
+
+AICON 2026 is scheduled for 8 October 2026 at 10:00 (Asia/Singapore) in Singapore. Hosted by BK HAN, jazephua, James Ong, Jayce Tham, Freelancer Nation.
+
+AI Tech Demos, Keynotes, & Fireside Chats
+
+Smart Living, Food Tech, & Wellness Zones
+
+Registration requires host approval. Registration is listed as free.
+
+<a id="event-2c8f93d43e750cf6"></a>
+
+## Lunch Meet-up with Paradigm & Paradex
+
+- Record: `token2049-evt-89Vi3L5Z74SBP6x`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-08T03:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/1esf9lzf>
+
+### About the event
+
+Lunch Meet-up with Paradigm & Paradex is scheduled for 8 October 2026 at 11:00 (Asia/Singapore) in Singapore. Hosted by Wardy, Robert Shearer, Rob Shearer.
+
+Registration requires host approval. Registration is listed as free.
+
+<a id="event-af1f1a371bc12c5d"></a>
+
+## DeFi Founders Club: Brunch
+
+- Record: `token2049-evt-r5dWNewO35etCmm`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-08T03:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/luxhenmm>
+
+### About the event
+
+DeFi Founders Club: Brunch is scheduled for 8 October 2026 at 11:00 (Asia/Singapore) in Singapore. Hosted by DeFi Founders Club.
+
+Apply (https://luma.com/clqsn9rk) to our pitch competition in collaboration with Arbitrum.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-da3a541499ffbe94"></a>
+
+## Oktoberfest Presented By Lattica x PredictFolio
+
+- Record: `token2049-evt-FzUtIRZvUNfkl6t`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-08T03:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/gptr5rfu>
+
+### About the event
+
+Oktoberfest Presented By Lattica x PredictFolio is scheduled for 8 October 2026 at 11:30 (Asia/Singapore) in Singapore. Hosted by Solo Opp, Stephen Flanders, PredictFolio, Lattica Finance.
+
+Expect cold steins, good food, and the kind of conversations that don't happen on a conference floor.
+
+Limited capacity, approval required.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-e8a9d6e66e45213f"></a>
+
+## Web3 Law: A Global Counsel Roundtable & lunch
+
+- Record: `token2049-evt-k5K0thoSxhNVsLo`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-08T04:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/zkrvbw7k>
+
+### About the event
+
+Web3 Law: A Global Counsel Roundtable & lunch is scheduled for 8 October 2026 at 12:00 (Asia/Singapore). Hosted by Anna Gates, Anir Bhattacharyya, Shumin Lin.
+
+12PM - 2PM: Networking Lunch
+
+2PM - 4PM: Global Counsel Roundtable
+
+Our blockchain and digital assets experts bring deep experience across strategy, technology, forensic investigations, regulatory compliance, expert testimony, cybersecurity, and restructuring.
+
+Registration requires host approval. Registration is listed as free.
+
+<a id="event-ea21ba5df41bf00e"></a>
+
+## Venture Connect: Projects, Investors & Strategic Partners
+
+- Record: `token2049-evt-CCUIATkfTkvbUqM`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-08T04:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/6xwygcun>
+
+### About the event
+
+Venture Connect: Projects, Investors & Strategic Partners is scheduled for 8 October 2026 at 12:30 (Asia/Singapore) in Singapore. Hosted by David.
+
+Registration is listed as free.
+
+<a id="event-54be6359f62d606c"></a>
+
+## Canton Forum
+
+- Record: `token2049-evt-OKGqJexBxQYMMTW`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-08T04:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/4l2n6bjl>
+
+### About the event
+
+Canton Forum is scheduled for 8 October 2026 at 12:30 (Asia/Singapore) in Singapore. Hosted by Canton Foundation.
+
+Registration requires host approval. Registration is listed as free.
+
+<a id="event-18008c26ba64668b"></a>
+
+## Anchorage Digital Demo Day @ Token2049
+
+- Record: `token2049-evt-02Wya6N0R8GTkJy`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-08T05:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/o4rlwh9o>
+
+### About the event
+
+Anchorage Digital Demo Day @ Token2049 is scheduled for 8 October 2026 at 13:00 (Asia/Singapore) in Singapore. Hosted by Anchorage Digital.
+
+An invite-only afternoon featuring early-stage protocol showcases and institutional networking.
+
+Founders: Want to live pitch our team and guest judges?
+
+Note: Registering on this Luma page alone does not qualify you to pitch.
+
+We'll have demos from high potential teams, followed by drinks and networking.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-9dbf46a38ab7bc55"></a>
+
+## When AI Meets BTC - 2049 Side Event
+
+- Record: `token2049-evt-1euzuQVicyCXCut`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-08T05:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/204926oc>
+
+### About the event
+
+When AI Meets BTC - 2049 Side Event is scheduled for 8 October 2026 at 13:00 (Asia/Singapore). Hosted by OnePiece Labs, OP_CAT Layer, ClawChat Official.
+
+₿ Build on Bitcoin without asking permission - how smart contracts, covenants, and trustless bridging work today, with no fork required.
+
+13:30 - 13:40 Opening Speech
+
+13:40 - 13:50 Keynote Speech 1
+
+13:50 - 14:00 Keynote Speech 2
+
+The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-570a18476ff6b9e7"></a>
+
+## Google Cloud × Sieger × 021Lab: AI for Global & Growth — Singapore
+
+- Record: `token2049-evt-biMXAjWYt8G82rn`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-08T05:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/j7it396i>
+
+### About the event
+
+Google Cloud × Sieger × 021Lab: AI for Global & Growth - Singapore is scheduled for 8 October 2026 at 13:00 (Asia/Singapore) in Singapore. Hosted by 021Lab, GIG DAO, GAEA Ventures, articuler.ai, Hedda｜0xMedia.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-c9dcbc0df4512a1a"></a>
+
+## Robb Report Whisky Tasting
+
+- Record: `token2049-evt-iB4tCIBsZJ6HaUS`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-08T06:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/yx33dnaj>
+
+### About the event
+
+Robb Report Whisky Tasting is scheduled for 8 October 2026 at 14:00 (Asia/Singapore) in Singapore. Hosted by Circolo Life.
+
+Registration requires host approval. Registration is listed as free.
+
+<a id="event-ddb8ed694b068d77"></a>
+
+## Institutional Onchain: RWAs & Stablecoins📍 Singapore \| 🗓 Oct 7-8\| During Token2049 Singapore
+
+- Record: `token2049-evt-mElVRJaEOGQaO9h`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-08T06:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/shjpum1f>
+
+### About the event
+
+Institutional Onchain: RWAs & Stablecoins Singapore | Oct 7-8| During Token2049 Singapore is scheduled for 8 October 2026 at 14:00 (Asia/Singapore) in Singapore. Hosted by lil room.
+
+This event is designed to cut through narratives and focus on what is actually being deployed onchain today and what institutions need next in terms of settlement, compliance, liquidity, and capital efficiency.
+
+16:30 - 17:00 | Panel: RWAs & Stablecoin Settlement
+
+17:15 - 17:30 | Keynote: Institutional Onchain Infrastructure
+
+17:45 - 18:15 | Panel: AI in Institutional Markets
+
+Registration requires host approval. Registration is listed as free.
+
+<a id="event-d0c673dddf4e9641"></a>
+
+## Tezos Cat Lounge
+
+- Record: `token2049-evt-VI3GmKipwk7ooN4`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-08T06:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/lb9940ln>
+
+### About the event
+
+Tezos Cat Lounge is scheduled for 8 October 2026 at 14:00 (Asia/Singapore) in Singapore. Hosted by TZ APAC.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-eacd3075a9689771"></a>
+
+## Block Zero - Run Club - Day 2
+
+- Record: `token2049-official-6aab60b4f5de78483fb5c75a`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-08T06:30:00+08:00
+- Description: Source-backed
+- Original page: <https://week.token2049.com>
+
+### About the event
+
+Block Zero - Run Club - Day 2 is scheduled for 8 October 2026 at 06:30 (Asia/Singapore) in Singapore. Hosted by Quarry.
+
+Attendance is by invitation according to the published schedule.
+
+<a id="event-a53f9ecb0d09d10c"></a>
+
+## Upside Presents: Carve Your Niche in Time
+
+- Record: `token2049-evt-mqErgmDBapeJzE0`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-08T08:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/c52iymty>
+
+### About the event
+
+Upside Presents: Carve Your Niche in Time is scheduled for 8 October 2026 at 16:00 (Asia/Singapore) in Singapore. Hosted by Upside Events, Igneus Terrenus, Kelvin Zhang, dori.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-6741582aed6adab3"></a>
+
+## F1 Grand Prix - Block Party
+
+- Record: `token2049-evt-8eGjjFUWFeGVhCb`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-08T08:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/4sf9j09i>
+
+### About the event
+
+F1 Grand Prix - Block Party is scheduled for 8 October 2026 at 16:30 (Asia/Singapore) in Singapore. Hosted by Maelstrom Events.
+
+Registration requires host approval. Registration is listed as free.
+
+<a id="event-dc4d7e2259d334ff"></a>
+
+## Presale to TGE: Playbook 2027
+
+- Record: `token2049-evt-DxAHG5RyA6TvwN0`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-08T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/e0ektbpr>
+
+### About the event
+
+Presale to TGE: Playbook 2027 is scheduled for 8 October 2026 at 17:00 (Asia/Singapore) in Singapore. Hosted by Helium Ventures, Alex Thorne.
+
+6:15 PM - Roundtable I: Presale Structures that hold up
+
+7:15 PM - Roundtable II: Getting to TGE - Liquidity, Listings and Day One
+
+8:15 PM - Dinner and Open Floor
+
+9:30 PM - Late-Night Networking
+
+Registration requires host approval. Registration is listed as free.
+
+<a id="event-49b3fd01faf0c11b"></a>
+
+## Onchain Finance Connect
+
+- Record: `token2049-evt-QierwT1tV1bG1AJ`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-08T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/0wq4vmrt>
+
+### About the event
+
+Onchain Finance Connect is scheduled for 8 October 2026 at 17:00 (Asia/Singapore) in Singapore. Hosted by WebX.
+
+5:30 - 5:45 PM - Opening remarks
+
+5:45 - 6:15 PM - Speaking session
+
+(details shared upon approval)
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-0a95b982ce82ef4d"></a>
+
+## BTSE Cocktail Party
+
+- Record: `token2049-evt-s5FLEZDkFtoyPMb`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-08T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/7ny8uxph>
+
+### About the event
+
+BTSE Cocktail Party is scheduled for 8 October 2026 at 17:00 (Asia/Singapore) in Singapore. Hosted by BTSE Enterprise Solutions.
+
+Registration is listed as free.
+
+<a id="event-a43dda266146167b"></a>
+
+## TOKEN2049 Institutional
+
+- Record: `token2049-official-6aafcca7f5de78483fb5d9c4`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-08T09:00:00+08:00
+- Description: Source-backed
+- Original page: <https://week.token2049.com>
+
+### About the event
+
+TOKEN2049 Institutional is scheduled for 8 October 2026 at 09:00 (Asia/Singapore) in Singapore. Hosted by TOKEN2049.
+
+Attendance is by invitation according to the published schedule.
+
+<a id="event-fdd2cb6004b4fdaf"></a>
+
+## Private Token 2049 Private Office Tour and Invite-only Dinner Hosted by R25. Cohost: TopNod / Anvita / ZAN
+
+- Record: `token2049-evt-kHFWAQ9b5zAnzdr`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-08T09:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/nrs2t7zb>
+
+### About the event
+
+[Private] Token 2049 Private Office Tour and Invite-only Dinner Hosted by R25. Cohost: TopNod / Anvita / ZAN is scheduled for 8 October 2026 at 17:30 (Asia/Singapore) in Singapore. Hosted by Sean Chung.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-07912d73c1cc4cdb"></a>
+
+## Payments & Stables: Padel Session by ZK Stables
+
+- Record: `token2049-evt-1KHQjiHklBef7ax`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-08T10:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/zkstablespadel>
+
+### About the event
+
+Payments & Stables: Padel Session by ZK Stables is scheduled for 8 October 2026 at 18:00 (Asia/Singapore) in Singapore. Hosted by Jakub Kocikowski.
+
+Registration requires host approval. Registration is listed as free.
+
+<a id="event-0eb657b2e6e7ec7f"></a>
+
+## 🇸🇬Michelin‑Invest Dinner #2🥂🕯Family Offices Investors Summit 📍Singapore 📍Oct 8 #Token2049🇸🇬
+
+- Record: `token2049-evt-5nY9rujDr5zpQP7`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-08T10:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/FOIS_DinnerSG2>
+
+### About the event
+
+🇸🇬Michelin‑Invest Dinner #2Family Offices Investors Summit Singapore Oct 8 #Token2049🇸🇬 is scheduled for 8 October 2026 at 18:00 (Asia/Singapore) in Singapore. Hosted by 𝖒𝖆𝖓𝖆𝖓𝖆 fois.fyi xShares, familyofficesinvestorssummit.com, X Shares, Perps Capital, Victor Chow.
+
+Email: rsvp@familyofficesinvestorssummit.com
+
+- Michelin Brunch-Dinner Experience (12-30 guests only)
+
+Registration requires host approval. Registration is listed as free.
+
+<a id="event-99772cea701a443d"></a>
+
+## Prediction Market Traders Night
+
+- Record: `token2049-evt-DxQUILKCf4TM5Mv`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-08T10:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/pb4q4k03>
+
+### About the event
+
+Prediction Market Traders Night is scheduled for 8 October 2026 at 18:00 (Asia/Singapore) in Singapore. Hosted by Moirai Research, Duy, IgorFS.
+
+An invite-only evening for people who trade, make markets in, research, or build on prediction and event-driven markets.
+
+Wine, food, and a room full of people who think in probabilities.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-88bf8c93e8e8e8eb"></a>
+
+## HSC Private Dinner
+
+- Record: `token2049-evt-GpCTCCgDDYiEGaM`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-08T10:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/HSC_Private_Singapore>
+
+### About the event
+
+HSC Private Dinner is scheduled for 8 October 2026 at 18:00 (Asia/Singapore) in Singapore. Hosted by Metaverse Post.
+
+This private dinner is part of HSC Asset Management Singapore.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-dac89fe3518067ce"></a>
+
+## 🔥 PowerScale: Crypto × Meme x Anime × Social Opinion Market 🔥
+
+- Record: `token2049-evt-tOgGMxgiTXCyzFe`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-08T10:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/dtll2zqx>
+
+### About the event
+
+PowerScale: Crypto × Meme x Anime × Social Opinion Market is scheduled for 8 October 2026 at 18:00 (Asia/Singapore) in Singapore. Hosted by Daniel Im - Belief Market.
+
+Registration is listed as free.
+
+<a id="event-3bbba89b9311a5b3"></a>
+
+## xStocks Happy Hour @ TOKEN2049 Singapore
+
+- Record: `token2049-evt-AWWIjHNAe4an4Kf`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-08T10:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/3zo8d10k>
+
+### About the event
+
+xStocks Happy Hour @ TOKEN2049 Singapore is scheduled for 8 October 2026 at 18:30 (Asia/Singapore) in Singapore. Hosted by Payward Services.
+
+Please note: Registration and approval are required for entry.
+
+Registration requires host approval. Registration is listed as free.
+
+<a id="event-dae472528420516f"></a>
+
+## Anchorage Digital x VanEck VIP Dinner
+
+- Record: `token2049-evt-g7w0hwiicdUCvWK`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-08T10:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/fey13d6r>
+
+### About the event
+
+Anchorage Digital x VanEck VIP Dinner is scheduled for 8 October 2026 at 18:30 (Asia/Singapore) in Singapore. Hosted by Anchorage Digital, Jon Casterline.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-f8feed66c2d0818a"></a>
+
+## KRWQ X Frax TOKEN2049 PRIVATE DINNER
+
+- Record: `token2049-evt-iOQM8y653M15r0F`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-08T10:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/rethmeub>
+
+### About the event
+
+KRWQ X Frax TOKEN2049 PRIVATE DINNER is scheduled for 8 October 2026 at 18:30 (Asia/Singapore) in Singapore. Hosted by Jennie Lee, Nelly Lim.
+
+KRWQ x Frax | Token2049 Private Dinner
+
+Seats are limited, so attendance is by approval only.
+
+Please bring a photo ID for entry at the club.
+
+Registration requires host approval. Registration is listed as free.
+
+<a id="event-d43bc2f561d3d7ba"></a>
+
+## The Garden Room
+
+- Record: `token2049-evt-SnRFyd6NvtVz46a`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-08T10:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/TheGardenRoom>
+
+### About the event
+
+The Garden Room is scheduled for 8 October 2026 at 18:30 (Asia/Singapore) in Singapore. Hosted by INPUT Global Events, PAYBIS, ChangeNOW.
+
+8 minutes walk from Marina Bay Sands.
+
+Registration requires host approval. Registration is listed as free.
+
+<a id="event-0464be8aaf6ae334"></a>
+
+## BREWS BY THE BAY with Spartan, Auros, Canton & Optimum
+
+- Record: `token2049-evt-sPQxwxUOuz1oqBS`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-08T10:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/3hicg4go>
+
+### About the event
+
+BREWS BY THE BAY with Spartan, Auros, Canton & Optimum is scheduled for 8 October 2026 at 18:30 (Asia/Singapore) in Singapore. Hosted by Auros, Helen Lyu, Optimum, Canton | Anney, Kent Lin.
+
+Enjoy drinks and good food as you unwind and network with industry peers.
+
+This is an invite-only event.
+
+RSVP confirmation is required for entry.
+
+This event is strictly invite-only.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-fa6335141d6d8e1b"></a>
+
+## Table 11:11 - The Restraint
+
+- Record: `token2049-evt-xbeRv1OLY0bBoEL`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-08T10:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/g8ekbbxe>
+
+### About the event
+
+Table 11:11 - The Restraint is scheduled for 8 October 2026 at 18:30 (Asia/Singapore) in Singapore. Hosted by Circolo Life.
+
+Registration requires host approval. Registration is listed as free.
+
+<a id="event-7a52edb64ce231c8"></a>
+
+## GenLayer’s Path to TGE: Convergence Dinner by Surgence
+
+- Record: `token2049-evt-8AztdTrSD91ZvNf`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-08T11:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/convergence-dinner-by-surgencelabs>
+
+### About the event
+
+GenLayer's Path to TGE: Convergence Dinner by Surgence is scheduled for 8 October 2026 at 19:00 (Asia/Singapore). Hosted by Surgence Labs, Ruthy Builds, Rishab Dugar, Vinh Nguyen, Xavi Cabezas, Ana Maria.
+
+Convergence Dinner by Surgence Labs
+
+The Convergence Dinner is built for operators who came to Singapore to network with the brightest minds in the industry.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-de2dcc748ea96503"></a>
+
+## Token2049 VIP Connect - Crypto.com
+
+- Record: `token2049-evt-cCQxYqNp6Lit6JM`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-08T11:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/cryptocom-mykc>
+
+### About the event
+
+Token2049 VIP Connect - Crypto.com is scheduled for 8 October 2026 at 19:00 (Asia/Singapore) in Singapore. Hosted by Crypto.com, Mirko Pittaluga.
+
+Drinks and light bites provided.
+
+Spaces are limited - registration is subject to approval.
+
+Registration requires host approval. Registration is listed as free.
+
+<a id="event-51c9dca53de1166b"></a>
+
+## THE FLOOR by HONO Protocol \| Token2049 Singapore
+
+- Record: `token2049-evt-GKw4jrVSwhqBLqP`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-08T11:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/4xwscj0a>
+
+### About the event
+
+THE FLOOR by HONO Protocol | Token2049 Singapore is scheduled for 8 October 2026 at 19:00 (Asia/Singapore) in Singapore. Hosted by HONO Protocol.
+
+Not a conference side-event with a panel and a logo wall.
+
+A room, some drinks, and the people you'd want to talk to anyway.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-0a93e24bb361d7c6"></a>
+
+## RWA & Tokenization: An Evening of Ideas
+
+- Record: `token2049-evt-iIbTjON3uSI9z64`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-08T11:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/p4j7h8uc>
+
+### About the event
+
+RWA & Tokenization: An Evening of Ideas is scheduled for 8 October 2026 at 19:00 (Asia/Singapore) in Singapore. Hosted by Akash Deshmukh.
+
+This is a strictly invite-only event with limited seats.
+
+Registration requires host approval. Registration is listed as free.
+
+<a id="event-55271cd8f6e2ba77"></a>
+
+## LongHash Ventures VIP Dinner \| Singapore Token2049
+
+- Record: `token2049-evt-RPlEpc31sRs3dqv`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-08T11:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/lhwxav8b>
+
+### About the event
+
+LongHash Ventures VIP Dinner | Singapore Token2049 is scheduled for 8 October 2026 at 19:00 (Asia/Singapore) in Singapore. Hosted by LongHash Ventures, Shi Khai, WEI.
+
+This is an invite-only gathering for allocators and partners.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-ca3b9ad65251ec93"></a>
+
+## Crypto Law & Compliance Mixer @ TOKEN2049 Singapore
+
+- Record: `token2049-evt-zwDwU5u6XiNfHC0`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-08T11:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/u6k8o8pn>
+
+### About the event
+
+Crypto Law & Compliance Mixer @ TOKEN2049 Singapore is scheduled for 8 October 2026 at 19:00 (Asia/Singapore). Hosted by Crypto Law Summit.
+
+Connect with peers navigating the evolving regulatory landscape across APAC and beyond - over drinks and conversation in a relaxed, professional setting.
+
+7:00 PM - Doors open & registration
+
+7:40 PM - Open networking with drinks & appetizers
+
+Registration requires host approval. Registration is listed as free.
+
+<a id="event-8b6bbc22a2c90656"></a>
+
+## Capital & Credit VIP Dinner
+
+- Record: `token2049-evt-8rWYcDtqmHj2y4l`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-08T11:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/8utxbh3j>
+
+### About the event
+
+Capital & Credit VIP Dinner is scheduled for 8 October 2026 at 19:30 (Asia/Singapore) in Singapore. Hosted by Myosin.xyz, Stellar Development Foundation, Figure.
+
+Behind every public panel at Token 2049, the real decisions get made somewhere quieter.
+
+A seated dinner, not a mixer.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-0bcea13140933f07"></a>
+
+## The Vol Table \| Dinner
+
+- Record: `token2049-evt-FZcRjue7jwJVpTl`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-08T12:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/dfh7utyk>
+
+### About the event
+
+The Vol Table | Dinner is scheduled for 8 October 2026 at 20:00 (Asia/Singapore). Hosted by Carl Bjorkman.
+
+If your plans change, let us know so we can pass yours along.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-afc9a2373fe59be3"></a>
+
+## Exclusive Whiskey & Cigar Evening - 08 October (8pm to 11pm)
+
+- Record: `token2049-evt-r9vJJ30kf1gCU1z`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-08T12:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/ra4c4h0t>
+
+### About the event
+
+Exclusive Whiskey & Cigar Evening - 08 October (8pm to 11pm) is scheduled for 8 October 2026 at 20:00 (Asia/Singapore) in Singapore. Hosted by Janina Villapando.
+
+As this is an invite-only event with limited capacity, we'll be sharing contact details among attendees after the event to help conversations continue.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-7180829ac57574a8"></a>
+
+## Vibrez × La Royale \| Yacht Opening Night
+
+- Record: `token2049-evt-as6YbH1w1F0kNFr`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-08T12:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/hcd2yrox>
+
+### About the event
+
+Vibrez × La Royale | Yacht Opening Night is scheduled for 8 October 2026 at 20:30 (Asia/Singapore) in Singapore. Hosted by Vibrez !.
+
+Guest speakers and panel talk details are to be confirmed.
+
+Meet founders, investors, brands and community builders over hosted introductions and drinks.
+
+Stay after the panel for social poker, music and the opening-night party.
+
+Your place is confirmed only once your registration is approved.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-9a63a3ee205a5748"></a>
+
+## Fund Manager Private Room Dinner and Drinks
+
+- Record: `token2049-evt-WuywZ751Gf7ABz1`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-08T12:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/niepw6eq>
+
+### About the event
+
+Fund Manager Private Room Dinner and Drinks is scheduled for 8 October 2026 at 20:30 (Asia/Singapore) in Singapore. Hosted by Jake Boaz.
+
+Sharing plates, good drinks, no panels, no name badges.
+
+Tell us what you run and we will confirm your place.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-9dc803bce0d9f3e9"></a>
+
+## KAST Solid Gold Party
+
+- Record: `token2049-evt-FLo0uomqm6NS5xa`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-08T13:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/KASTSolidGold_SG>
+
+### About the event
+
+KAST Solid Gold Party is scheduled for 8 October 2026 at 21:30 (Asia/Singapore) in Singapore. Hosted by KAST.
+
+Expect free-flow drinks, bottle service, crafted bites, and five different spaces to move between - from cocktails and dining to the club, with something happening around every corner.
+
+Free-flow drinks & cocktails
+
+All RSVPs are subject to approval.
+
+Submitting an RSVP does not guarantee entry.
+
+Registration requires host approval. Registration is listed as free.
+
+<a id="event-2a96572cbfaa30fc"></a>
+
+## Satoshi Dance Club Singapore
+
+- Record: `token2049-evt-hjnwRjjiubJq2SA`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-08T14:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/m31qsgcv>
+
+### About the event
+
+Satoshi Dance Club Singapore is scheduled for 8 October 2026 at 22:00 (Asia/Singapore) in Singapore. Hosted by Gavin Vanderlooven, Inna S, Gilles, Quinten Francois, Cryptic.
+
+Satoshi Dance Club is where the Satoshi Dinner Club leaves the table and takes over the dance floor.
+
+Registration requires host approval. Registration is listed as free.
+
+<a id="event-d9b9d5bf3e82137c"></a>
+
+## ComplexCon Presents SHOWUP 001
+
+- Record: `token2049-937ac50dd5281f01`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-08T20:00:00+08:00
+- Description: Source-backed
+- Original page: <https://sales.allatonce.live>
+
+### About the event
+
+ComplexCon Presents SHOWUP 001 is scheduled for 8 October 2026 at 20:00 (Asia/Singapore) in Singapore. Hosted by All At Once.
+
+<a id="event-03532530e155a3a1"></a>
+
+## 9th Oct 26 - CAPITAL ON TRACK - FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX EDITION 2026
+
+- Record: `token2049-evt-tpGrrwoNgxKscjx`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-09T01:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/41pmz1pj>
+
+### About the event
+
+9th Oct 26 - CAPITAL ON TRACK - FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX EDITION 2026 is scheduled for 9 October 2026 at 09:30 (Asia/Singapore) in Singapore. Hosted by WEALTH GLOBAL PARTNERS, Minister Gligor Tashkovich, Velle N. Tay.
+
+Dress Code: Black Tie Business - formal, elegant, refined.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-d10159d6afcdb5ba"></a>
+
+## Beyond the Boardroom Breakfast Briefing: The Great AI Debate
+
+- Record: `token2049-evt-aKIP9cll7FJSSGC`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-09T02:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/b933alqs>
+
+### About the event
+
+Beyond the Boardroom Breakfast Briefing: The Great AI Debate is scheduled for 9 October 2026 at 10:00 (Asia/Singapore) in Singapore. Hosted by Circolo Life, Rahat Kapur.
+
+Bringing together senior voices from across business, technology and culture, the session will explore what AI means for creativity, leadership, human judgement and the decisions being made inside the boardroom.
+
+Registration requires host approval. Registration is listed as free.
+
+<a id="event-f494a2677c6267f9"></a>
+
+## The $100K Bucket Pull
+
+- Record: `token2049-evt-NDxwYRtgLwKQzsG`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-09T02:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/uczcxm3a>
+
+### About the event
+
+The $100K Bucket Pull is scheduled for 9 October 2026 at 10:00 (Asia/Singapore) in Singapore. Hosted by Alison.
+
+The market does not run on logic any more than a horse runs on petrol.
+
+The panel/investors will ask questions
+
+But we are not giving it to the safest pitch deck.
+
+Answer the questions below in the Luma registration fields.
+
+Registration requires host approval. Registration is listed as free.
+
+<a id="event-730e74a649c68b4b"></a>
+
+## Vibrez × La Royale \| Dockside Yacht Brunch
+
+- Record: `token2049-evt-hrtAgy9RBjVV9wq`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-09T03:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/2sdrck9u>
+
+### About the event
+
+Vibrez × La Royale | Dockside Yacht Brunch is scheduled for 9 October 2026 at 11:00 (Asia/Singapore) in Singapore. Hosted by Vibrez !.
+
+MYKONOS will remain docked at ONE°15 Marina, Sentosa Cove throughout the event.
+
+The yacht will not sail or go out to sea.
+
+MYKONOS - docked at ONE°15 Marina, Sentosa Cove
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-09c8cfe644a2e8db"></a>
+
+## 2222.Coffee Tasting
+
+- Record: `token2049-evt-qmHU1D84ZQ54OmE`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-09T04:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/circolo-kvry>
+
+### About the event
+
+2222.Coffee Tasting is scheduled for 9 October 2026 at 12:30 (Asia/Singapore) in Singapore. Hosted by Circolo Life.
+
+Registration requires host approval. Registration is listed as free.
+
+<a id="event-94b1809d9c68950c"></a>
+
+## Blockchain Association Singapore Digital Assets Forum 2026 - Building Onchain in the Agentic era
+
+- Record: `token2049-evt-GEenAYO83msTTak`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-09T06:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/ig33t77h>
+
+### About the event
+
+Blockchain Association Singapore Digital Assets Forum 2026 - Building Onchain in the Agentic era is scheduled for 9 October 2026 at 14:00 (Asia/Singapore). Hosted by Blockchain Association Singapore.
+
+From geopolitics and regulation to Agentic AI, blockchain and institutional adoption, we'll bring together diverse perspectives to explore what's next and how the industry can build and scale responsibly.
+
+2:00 PM - 2:20 PM - Keynote Address
+
+2:20 PM - 2:45 PM - Fireside Chat
+
+2:45 PM - 3:30 PM - Panel 1: US Clarity Act and the potential impact on licensing regimes in Asia
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-bad57c282435ef8d"></a>
+
+## Stellars x Elroy Open Sharing Session
+
+- Record: `token2049-evt-RMCZX5L2qubUrBF`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-09T06:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/arcweek-hl2y>
+
+### About the event
+
+Stellars x Elroy Open Sharing Session is scheduled for 9 October 2026 at 14:00 (Asia/Singapore) in Singapore. Hosted by ARC, Nickoo.
+
+We're setting aside some time for an ichatuchatme session with Elroy
+
+We're keeping this as a small-group sharing session so everyone has a chance to speak.
+
+Prefer a 1-to-1 session with Elroy instead?
+
+Registration requires host approval. Registration is listed as free.
+
+<a id="event-9a463021cac97358"></a>
+
+## THE INSTITUTIONAL HOUSE: TRADING · DEFI · RWA · AI · LIQUIDITY \| Singapore \| 🗓 9th October \| During Token2049
+
+- Record: `token2049-evt-9s05G3RbehADs4S`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-09T08:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/keq5yo5b>
+
+### About the event
+
+THE INSTITUTIONAL HOUSE: TRADING - DEFI - RWA - AI - LIQUIDITY | Singapore | 9th October | During Token2049 is scheduled for 9 October 2026 at 16:00 (Asia/Singapore) in Singapore. Hosted by lil room.
+
+The Institutional House is where institutional capital meets the onchain economy - a private lil room gathering during Token2049 Singapore for funds, market makers, exchanges and the teams building the infrastructure they run on.
+
+An open roundtable where speakers stay in the room
+
+16:00 - 16:30 - Doors open, registration & networking
+
+16:30 - 17:00 - Panel 1 - Pricing the Real World: RWAs, market data, settlement and custody
+
+Registration requires host approval. Registration is listed as free.
+
+<a id="event-328105a699c7e3fa"></a>
+
+## TBE: Fasset Reserve - Singapore
+
+- Record: `token2049-evt-a7re4JlCIIYFlwG`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-09T08:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/TBE-F1Practice>
+
+### About the event
+
+TBE: Fasset Reserve - Singapore is scheduled for 9 October 2026 at 16:00 (Asia/Singapore) in Singapore. Hosted by The Best Event, Tobias Bauer, Brent Fulfer, Mihir Odhrani.
+
+During Singapore Race Week, Fasset is bringing together a small, invite-only group of founders, investors, family offices, shareholders, business leaders and partners for an afternoon above Marina Bay.
+
+People who run businesses internationally, invest across markets, hold different currencies and assets, travel often and expect their money to move as easily as they do.
+
+Food and drinks will be served throughout.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-13d604960d7088f1"></a>
+
+## ONWARD \| Bitbase VIP Yacht Party
+
+- Record: `token2049-evt-cZZxKozsA7fPvL4`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-09T08:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/79smauv6>
+
+### About the event
+
+ONWARD | Bitbase VIP Yacht Party is scheduled for 9 October 2026 at 16:00 (Asia/Singapore) in Singapore. Hosted by Bitbase.
+
+Exact boarding time and berth details will be shared directly with confirmed guests.
+
+Registration requires host approval. Registration is listed as free.
+
+<a id="event-48d17945056e8b0d"></a>
+
+## The Capital Impact Salon by Preface.AI & A2A Advisory \| SG edition
+
+- Record: `token2049-evt-xUqEbdjnaHsM7uC`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-09T08:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/pejkoxlm>
+
+### About the event
+
+The Capital Impact Salon by Preface.AI & A2A Advisory | SG edition is scheduled for 9 October 2026 at 16:00 (Asia/Singapore) in Singapore. Hosted by Assia Matsiuk | A2A advisory.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-96f54a8fed44d0b0"></a>
+
+## Superyacht x F1
+
+- Record: `token2049-evt-6cJd1z0zX5Bs3zz`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-09T09:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/9mnsjr5r>
+
+### About the event
+
+Superyacht x F1 is scheduled for 9 October 2026 at 17:30 (Asia/Singapore) in Singapore. Hosted by Luchen Capital, Ting Wang.
+
+The bar doesn't close, dinner is served on the aft deck, and the skyline does the rest.
+
+Written confirmation from the host is required to board the vessel.
+
+Dress code smart casual / cocktail.
+
+Registration requires host approval. Registration is listed as free.
+
+<a id="event-2a4e506ed12aceff"></a>
+
+## United Digital Economies - SG Convivium 2026
+
+- Record: `token2049-evt-x7cGCJyum5mjL1i`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-09T10:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/7xebdeja>
+
+### About the event
+
+United Digital Economies - SG Convivium 2026 is scheduled for 9 October 2026 at 18:00 (Asia/Singapore) in Singapore. Hosted by ACCESS Blockchain Malaysia, ACCESS Secretariat, UDECO.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-15e0b86e41117ea2"></a>
+
+## Founders After Dark
+
+- Record: `token2049-evt-cVBrwB8sTnRcGSd`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-09T11:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/y0r8yef3>
+
+### About the event
+
+Founders After Dark is scheduled for 9 October 2026 at 19:00 (Asia/Singapore). Hosted by Founders After Dark.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-579f0761c8250e6d"></a>
+
+## Super Secret Private & VIP Institutional Karaoke Cross-Chain Roundtable
+
+- Record: `token2049-evt-yat9s7akFK6ClEv`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-09T12:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/zl4ggl0o>
+
+### About the event
+
+Super Secret Private & VIP Institutional Karaoke Cross-Chain Roundtable is scheduled for 9 October 2026 at 20:00 (Asia/Singapore) in Singapore. Hosted by Bryn Bennett, Marc Cross.
+
+Everyone buys their own drinks and settles their own bill when ordering.
+
+Registration is listed as free.
+
+<a id="event-f30339812876b23b"></a>
+
+## RaveDAO x OrangeX Present Brina Knauss
+
+- Record: `token2049-c65206c5cfef48bd`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-09T21:00:00+08:00
+- Description: Source-backed
+- Original page: <https://www.plvr.io/events/ravedao-x-orangex-present-brina-knauss-20261009-sg>
+
+### About the event
+
+RaveDAO x OrangeX Present Brina Knauss is scheduled for 9 October 2026 at 21:00 (Asia/Singapore) in Singapore. Hosted by RaveDAO.
+
+<a id="event-ac56d7f5bb130dae"></a>
+
+## The Lion City Michelin Food Race 2026 - 10 Oct Register Interest
+
+- Record: `token2049-evt-Bl0lcVK4HyVRpPO`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-10T01:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/michelinfoodrace1010>
+
+### About the event
+
+The Lion City Michelin Food Race 2026 - 10 Oct Register Interest is scheduled for 10 October 2026 at 09:30 (Asia/Singapore) in Singapore. Hosted by Attribute Data Collabs, Everyday Tour Company, Joanna Teo.
+
+For two mornings only, during the one week Singapore holds Token2049, Sui Basecamp, and the Grand Prix, a small, deliberately capped group will race between three Michelin stops, tracing how spice shaped three different communities' place in Singapore's food history.
+
+Over the course of a series of tasting bites and drinks, you will be fed with a story that moves from a global lens down to something entirely local.
+
+Registration requires host approval. Registration is listed as free.
+
+<a id="event-effaec46ecad341f"></a>
+
+## The Lion City Michelin Food Race 2026 - 10 Oct
+
+- Record: `token2049-evt-NvExRG9HaewrWmN`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-10T01:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/lioncitymichelin-10Oct26>
+
+### About the event
+
+The Lion City Michelin Food Race 2026 - 10 Oct is scheduled for 10 October 2026 at 09:30 (Asia/Singapore) in Singapore. Hosted by Attribute Data Collabs, Everyday Tour Company, Joanna Teo.
+
+For two mornings only, during the one week Singapore holds Token2049, Sui Basecamp, and the Grand Prix, a small, deliberately capped group (only 10 participants) will race between three Michelin stops, tracing how spice shaped three different communities' place in Singapore's food history.
+
+Over the course of a series of tasting bites and drinks, you will be fed with a story that moves from a global lens down to something entirely local.
+
+A private supper club chef's home for the closing session, address undisclosed until you're confirmed, not a table you can book anywhere else
+
+Your own digital food guide, beautifully put together, yours to keep and revisit long after the day ends
+
+The organizer shares the exact location with approved guests.
+
+<a id="event-a008c912cc8675cc"></a>
+
+## Vibrez × La Royale \| Dockside Yacht Day
+
+- Record: `token2049-evt-hJjSYByavc7mmoZ`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-10T02:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/0yptiek6>
+
+### About the event
+
+Vibrez × La Royale | Dockside Yacht Day is scheduled for 10 October 2026 at 10:00 (Asia/Singapore) in Singapore. Hosted by Vibrez !.
+
+Spend time with a small group of founders, investors and invited guests over lunch, music and conversation on deck.
+
+MYKONOS will remain docked at ONE°15 Marina, Sentosa Cove throughout the event.
+
+The yacht will not sail or go out to sea.
+
+Water activities are to be confirmed, subject to marina approval, operator availability and weather conditions.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-bf8b190b35eec047"></a>
+
+## 10th Oct 26 - DRIVE TO LEGACY - FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX EDITION 2026
+
+- Record: `token2049-evt-XtEE7h1ji9OmZca`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-10T02:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/ypyqommk>
+
+### About the event
+
+10th Oct 26 - DRIVE TO LEGACY - FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX EDITION 2026 is scheduled for 10 October 2026 at 10:00 (Asia/Singapore). Hosted by WEALTH GLOBAL PARTNERS, Minister Gligor Tashkovich, Velle N. Tay.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-60c4d8887f75b23b"></a>
+
+## Ethene Labs Presents: Live F1 Singapore Grand Prix Party
+
+- Record: `token2049-evt-cX1lalPzxi5SsdF`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-10T08:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/20ybvogw>
+
+### About the event
+
+Ethene Labs Presents: Live F1 Singapore Grand Prix Party is scheduled for 10 October 2026 at 16:00 (Asia/Singapore) in Singapore. Hosted by Ethene Labs, Ben Wee.
+
+Calling all friends of Ethene Labs - watch the 2026 Singapore Grand Prix in style; no ticket required.
+
+The hack: You don't need an F1 ticket to get into the hotel - and our board room lets you watch the race from right above the track. (Note: if you want to walk around inside the actual event area/track zone, you'll need an official ticket for that - but for watching the race from our spot, you're all set.)
+
+Come for the racing, stay for the drinks and company.
+
+This F1 watch party is by invitation only.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-b49dcd83caf70d68"></a>
+
+## Vibrez × La Royale \| Sprint & Qualifying Watch Party
+
+- Record: `token2049-evt-oDCoeJ758lzKijb`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-10T08:15:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/vhdndvhn>
+
+### About the event
+
+Vibrez × La Royale | Sprint & Qualifying Watch Party is scheduled for 10 October 2026 at 16:15 (Asia/Singapore) in Singapore. Hosted by Vibrez !.
+
+Enjoy live race coverage, drinks, food and conversation with founders, investors, partners and friends of Vibrez.
+
+Joining us from Saturday's dockside yacht event?
+
+Transport will be arranged from MYKONOS at ONE°15 Marina, Sentosa Cove, to La Royale's office at Millenia Tower for guests with an approved RSVP to this watch party.
+
+Registration is subject to approval.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-b67a3c92f19cf755"></a>
+
+## ONLINE TOKEN2049: GetBlock Team Insights
+
+- Record: `token2049-evt-HOyb8kS7i2AlBf2`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-10T13:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/oq4ncz5u>
+
+### About the event
+
+[ONLINE] TOKEN2049: GetBlock Team Insights is scheduled for 10 October 2026 at 21:00 (Asia/Singapore). Hosted by Vladislav Sopov.
+
+Registration is listed as free.
+
+<a id="event-198fbb8e7241cd58"></a>
+
+## Il Divo Gala Dinner \| BIG ART FESTIVAL Singapore.
+
+- Record: `token2049-343edc72c451f7f2`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-10T20:00:00+08:00
+- Description: Source-backed
+- Original page: <https://toniq.events/e/il-divo-gala-singapore>
+
+### About the event
+
+Il Divo Gala Dinner | BIG ART FESTIVAL Singapore. is scheduled for 10 October 2026 at 20:00 (Asia/Singapore) in Singapore. Hosted by Berin Iglesias Art LLC.
+
+<a id="event-c4c2c2cec52d7a99"></a>
+
+## The Lion City Michelin Food Race 2026 - 11 Oct Register Interest
+
+- Record: `token2049-evt-Pg8QXaeCl1FhI4f`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-11T01:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/michelinfoodrace1011>
+
+### About the event
+
+The Lion City Michelin Food Race 2026 - 11 Oct Register Interest is scheduled for 11 October 2026 at 09:30 (Asia/Singapore) in Singapore. Hosted by Attribute Data Collabs, Everyday Tour Company, Joanna Teo.
+
+For two mornings only, during the one week Singapore holds Token2049, Sui Basecamp, and the Grand Prix, a small, deliberately capped group will race between three Michelin stops, tracing how spice shaped three different communities' place in Singapore's food history.
+
+Over the course of a series of tasting bites and drinks, you will be fed with a story that moves from a global lens down to something entirely local.
+
+Registration requires host approval. Registration is listed as free.
+
+<a id="event-cbe5aa5c96fbe322"></a>
+
+## Vibrez × La Royale \| Race Day Yacht Party
+
+- Record: `token2049-evt-UR9SCndJ5J5KLkb`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-11T03:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/gqwqsft8>
+
+### About the event
+
+Vibrez × La Royale | Race Day Yacht Party is scheduled for 11 October 2026 at 11:00 (Asia/Singapore) in Singapore. Hosted by Vibrez !.
+
+Start race day with Vibrez and La Royale aboard MYKONOS, docked in Sentosa.
+
+A relaxed celebration to bring our weekend community together.
+
+The yacht party continues until the race finishes, expected around 22:00 SGT.
+
+MYKONOS - docked at ONE°15 Marina, Sentosa Cove
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-3daa347e4a6870cc"></a>
+
+## Vibrez × La Royale \| Singapore Grand Prix Screening
+
+- Record: `token2049-evt-JrqDBw5ETIo46aV`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-11T10:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/y327jwjd>
+
+### About the event
+
+Vibrez × La Royale | Singapore Grand Prix Screening is scheduled for 11 October 2026 at 18:30 (Asia/Singapore) in Singapore. Hosted by Vibrez !.
+
+Watch the race live at the La Royale office with drinks, dinner-style food and a small group of founders, investors, partners and friends.
+
+Joining us from Sunday's Race Day Yacht Party?
+
+Transport will be arranged from MYKONOS at ONE°15 Marina, Sentosa Cove, to La Royale's office at Millenia Tower for guests with an approved RSVP to this screening.
+
+Registration is subject to approval.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-0be193c9faedfe59"></a>
+
+## The Private Trading Table
+
+- Record: `token2049-evt-NYlK9SczUPInCqq`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-11T11:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/maskjnix>
+
+### About the event
+
+The Private Trading Table is scheduled for 11 October 2026 at 19:00 (Asia/Singapore) in Singapore. Hosted by Akash Deshmukh.
+
+Seats are limited and attendance is subject to approval.
+
+Registration requires host approval. Registration is listed as free.
+
+<a id="event-35f008becd0d9687"></a>
+
+## Founder House Singapore 🇸🇬
+
+- Record: `token2049-evt-2gHTqhbNIut9G5D`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-23T01:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/openhouse-singapore>
+
+### About the event
+
+Founder House Singapore 🇸🇬 is scheduled for 23 October 2026 at 09:30 (Asia/Singapore) in Singapore. Hosted by Arbitrum, Aditi Chopra.
+
+Eligibility varies by track; the full Founder House prize pool is not limited to Robinhood Chain projects.
+
+By attending, you grant the event organizer and its affiliates the right and permission to use and publish, in any media or format, for any lawful business purpose, your image, likeness, name, voice, and other identifying characteristics captured at the event, without compensation or liability.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-629c37644de8f77d"></a>
+
+## Plug and Play APAC Summit
+
+- Record: `token2049-evt-6PaUG2QqaTu8EqJ`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-30T02:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/fazra9qw>
+
+### About the event
+
+Plug and Play APAC Summit is scheduled for 30 October 2026 at 10:00 (Asia/Singapore) in Singapore. Hosted by Plug and Play APAC.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
 <a id="event-c5411b5e597d3ec0"></a>
 
 ## Namsan Hike with T1gers

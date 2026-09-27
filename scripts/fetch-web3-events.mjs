@@ -3,6 +3,8 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 import { isLumaDefaultPlaceholder, enrichLocalCovers } from './lib/event-image-utils.mjs';
 import { isWasetIcbtDuplicateEvent } from './lib/waset-icbt.mjs';
+import { fetchLumaCalendarEntries, lumaEventUrl } from './lib/luma-calendar.mjs';
+import { hasEventEnded } from './lib/event-dates.mjs';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -16,11 +18,6 @@ function hasDirectEventDestination(url) {
   } catch {
     return false;
   }
-}
-
-function hasEventEnded(event, now = Date.now()) {
-  const endDate = new Date(event.endDate || event.startDate);
-  return Number.isNaN(endDate.getTime()) || endDate.getTime() < now;
 }
 
 // Fetch with retry/backoff for 429 (Luma rate-limits aggressively).
@@ -341,7 +338,7 @@ async function fetchLumaByCity(city) {
 const LUMA_COMMUNITIES = [
   // ── Major Platforms & Protocols ──
   'crypto', 'ethereum', 'superteam', 'ethglobal', 'chainlink',
-  'token2049', 'sui-network', 'web3foundation', 'consensys',
+  'token2049', '2049events', 'singaporesideevents', 'sui-network', 'web3foundation', 'consensys',
   'polygon', 'arbitrum', 'optimism', 'base', 'avalanche',
   'filecoin', 'polkadot', 'starknet', 'zksync', 'scroll',
   'gnosis', 'lido', 'gemini', 'encode-club', 'dydx',
@@ -463,7 +460,7 @@ async function fetchLumaCommunity(slug) {
                 if (city.toLowerCase().includes(country.toLowerCase())) return city;
                 return `${city}, ${country}`;
               })(),
-              url: `https://lu.ma/${obj.url || obj.api_id}`,
+              url: lumaEventUrl(obj.url, obj.api_id) || '',
               coverImage: obj.cover_url || obj.social_image_url || null,
               source: 'luma-trusted',
             });
@@ -477,9 +474,21 @@ async function fetchLumaCommunity(slug) {
       }
     }
 
-    extractEvents(data.props?.pageProps?.initialData);
+    const initial = data.props?.pageProps?.initialData;
+    const calendarId = initial?.data?.calendar?.api_id;
+    if (calendarId) {
+      const result = await fetchLumaCalendarEntries(calendarId, {
+        headers: { 'User-Agent': UA },
+        fetchImpl: async (url, options) => {
+          const response = await fetchWithBackoff(url, options);
+          if (!response) throw new Error(`Calendar ${slug} remained rate limited`);
+          return response;
+        },
+      });
+      extractEvents(result.entries);
+    } else extractEvents(initial);
     return events;
-  } catch { return []; }
+  } catch (error) { console.warn(`[Luma calendar ${slug}] ${error.message}`); return []; }
 }
 
 // ═══════════════════════════════════════════════════════════════════════

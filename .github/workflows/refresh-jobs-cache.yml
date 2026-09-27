@@ -429,6 +429,11 @@ jobs:
       - name: Fetch Web3 Events from Luma
         run: node scripts/fetch-web3-events.mjs
         continue-on-error: true
+      - name: Verify TOKEN2049 source coverage and import new events
+        run: |
+          node --test scripts/lib/luma-calendar.test.mjs scripts/lib/event-dates.test.mjs scripts/lib/event-image-utils.test.mjs
+          npx tsx --test scripts/test-token2049-import.ts scripts/test-catalog-root-order.ts
+          npx tsx scripts/sync-token2049-events.ts --write
       - name: Enrich event cover images
         run: node scripts/enrich-event-images.mjs
         continue-on-error: true
@@ -441,6 +446,9 @@ jobs:
 
       - name: Precompute events runtime (listing + previews)
         run: npx tsx scripts/precompute-events-runtime.ts && npm run precompute:og-previews
+
+      - name: Verify imported TOKEN2049 listings
+        run: npx tsx scripts/test-token2049-catalog.ts
 
       - name: Backfill missing self-hosted event covers
         run: npx tsx scripts/backfill-missing-event-covers.ts

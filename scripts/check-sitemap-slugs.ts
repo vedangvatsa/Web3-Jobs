@@ -1,10 +1,10 @@
 #!/usr/bin/env tsx
 /**
- * Fail prebuild if sitemap lists root slugs that are not in slug-types.json
- * (would 404 on production with dynamicParams).
+ * Fail prebuild if sitemap root slugs are absent from the content and learning route registries.
  */
 import fs from 'node:fs';
 import path from 'node:path';
+import { learnRoutes } from '../src/lib/learn-routes';
 
 const ROOT = path.resolve(import.meta.dirname, '..');
 
@@ -12,7 +12,7 @@ function loadKnownSlugs(): Set<string> {
   const types = JSON.parse(
     fs.readFileSync(path.join(ROOT, 'content', 'slug-types.json'), 'utf8'),
   ) as Record<string, string[]>;
-  const known = new Set<string>();
+  const known = new Set<string>(learnRoutes.map(route => route.slug));
   for (const value of Object.values(types)) {
     if (!Array.isArray(value)) continue;
     for (const slug of value) known.add(String(slug).toLowerCase());
@@ -37,13 +37,13 @@ function main(): void {
   }
 
   if (orphans.length > 0) {
-    console.error(`[check-sitemap-slugs] ${orphans.length} sitemap URL(s) not in slug-types (would 404):`);
+    console.error(`[check-sitemap-slugs] ${orphans.length} sitemap URL(s) not in route registries (would 404):`);
     for (const slug of orphans.slice(0, 40)) console.error(`  - /${slug}`);
     if (orphans.length > 40) console.error(`  … and ${orphans.length - 40} more`);
     process.exit(1);
   }
 
-  console.log(`[check-sitemap-slugs] OK — ${routes.length} routes, all root slugs resolve in slug-types.`);
+  console.log(`[check-sitemap-slugs] OK — ${routes.length} routes, all root slugs resolve in route registries.`);
 }
 
 main();

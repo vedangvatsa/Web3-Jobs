@@ -9,6 +9,8 @@ import { getVerifiedEventDescription } from './event-description-source';
 import { polishEventDescriptionLinks } from './event-description-links';
 import { getEventDisplayCity } from './event-map-locations';
 import { isWasetIcbtDuplicateEvent, WASET_ICBT_SERIES_ID } from './waset-icbt';
+import { learnRoutes } from './learn-routes';
+import { hasEventEnded } from '../../scripts/lib/event-dates.mjs';
 
 // Explicitly blocked promotional posts that are not events
 const BLOCKED_EVENT_IDS = new Set([
@@ -136,6 +138,7 @@ async function getRootContentSlugs(): Promise<Set<string>> {
       ]);
       return new Set([
         ...ROOT_ROUTE_SLUGS,
+        ...learnRoutes.map(route => route.slug),
         ...articles.map((article) => article.slug),
         ...terms.map((term) => term.slug),
         ...getAllResourcePages().map((resource) => resource.seo.canonicalSlug),
@@ -171,6 +174,7 @@ async function assignUniqueEventSlugs(events: Web3Event[]): Promise<Web3Event[]>
 }
 
 function isQualityEvent(e: Web3Event): boolean {
+  if (e.source === 'token2049-verified' && getVerifiedEventDescription(e)) return true;
   if (e.source === 'curated-premier' || e.source === 'luma-crypto' || e.source === 'curated-series') return true;
   // ConferenceIndex listings do not provide a native organizer destination.
   if (e.source === 'conferenceindex') return false;
@@ -233,6 +237,7 @@ function normalizeEventDomainUrl(url?: string): string {
   try {
     const u = new URL(url);
     const domain = u.hostname.replace(/^www\./, '').toLowerCase();
+    if (domain === 'week.token2049.com' && u.pathname === '/') return '';
     if (domain.includes('lu.ma') || domain.includes('twitter.com') || domain.includes('x.com') || domain.includes('hashtagweb3.com')) {
       return '';
     }
@@ -240,11 +245,6 @@ function normalizeEventDomainUrl(url?: string): string {
   } catch {
     return '';
   }
-}
-
-function hasEventEnded(event: Web3Event, now = Date.now()): boolean {
-  const endDate = new Date(event.endDate || event.startDate);
-  return Number.isNaN(endDate.getTime()) || endDate.getTime() < now;
 }
 
 function getLegacyEventSlugFromName(name: string): string {
@@ -301,6 +301,7 @@ export async function buildEventsListing(): Promise<Web3Event[]> {
 
     for (const e of rawAll) {
       if (!e.name || !e.startDate) continue;
+      if (e.eventStatus === 'EventCancelled' || hasEventEnded(e)) continue;
       if (e.publicationStatus === 'needs-review') continue;
       if (!getVerifiedEventDescription(e)) continue;
       if (e.id.startsWith('side-ibw2026-')) continue;

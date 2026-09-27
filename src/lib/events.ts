@@ -2,6 +2,7 @@ export { buildSourceBackedEventEditorial as getEventEditorialGuide } from './eve
 import { hasDetailedStreetAddress } from './event-address';
 import { isGoogleEventSchemaEligible } from './event-schema';
 import { getVerifiedEventDescription } from './event-description-source';
+import { hasEventEnded } from '../../scripts/lib/event-dates.mjs';
 
 export type EventType = 'conference' | 'hackathon' | 'meetup' | 'workshop' | 'online';
 export type EventFormat = 'in-person' | 'online';
@@ -419,13 +420,10 @@ export function getEventEcosystems(event: Web3Event): string[] {
 
 /** True if the event has not ended yet (matches /events listing filter). */
 export function isEventUpcoming(
-  event: Pick<Web3Event, 'startDate' | 'endDate'>,
+  event: Pick<Web3Event, 'startDate' | 'endDate' | 'timezone'>,
   now: Date = new Date(),
 ): boolean {
-  const rawEnd = event.endDate || event.startDate;
-  if (!rawEnd) return false;
-  const eventEnd = new Date(rawEnd);
-  return !isNaN(eventEnd.getTime()) && eventEnd >= now;
+  return !hasEventEnded(event, now.getTime());
 }
 
 function eventDateParts(value: string, timezone?: string) {

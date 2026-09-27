@@ -7,6 +7,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { getEventBaseSlug, normalizeCountry, type Web3Event } from '../src/lib/events';
+import { fetchLumaCalendarEntries } from './lib/luma-calendar.mjs';
 
 const OUTPUT = path.join('content', 'events', 'sources', 'luma-crypto-events.json');
 const UA = 'HashtagWeb3 Luma Sync/1.0 (+https://hashtagweb3.com)';
@@ -299,6 +300,12 @@ async function fetchCalendarPageEvents(slug: string): Promise<LumaApiEvent[]> {
   const html = await res.text();
   const m = html.match(/<script id="__NEXT_DATA__" type="application\/json">([\s\S]*?)<\/script>/);
   if (!m) return [];
+  const initial = JSON.parse(m[1]);
+  const calendarId = initial.props?.pageProps?.initialData?.data?.calendar?.api_id;
+  if (typeof calendarId === 'string') {
+    const result = await fetchLumaCalendarEntries(calendarId, { headers: { 'user-agent': UA } });
+    return result.entries.map(entry => entry.event as LumaApiEvent).filter(event => event.api_id?.startsWith('evt-'));
+  }
   const events: LumaApiEvent[] = [];
   const walk = (obj: unknown) => {
     if (!obj || typeof obj !== 'object') return;
@@ -312,7 +319,7 @@ async function fetchCalendarPageEvents(slug: string): Promise<LumaApiEvent[]> {
     }
     Object.values(o).forEach(walk);
   };
-  walk(JSON.parse(m[1]));
+  walk(initial);
   const byId = new Map<string, LumaApiEvent>();
   events.forEach((e) => byId.set(e.api_id, e));
   return [...byId.values()];

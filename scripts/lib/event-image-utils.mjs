@@ -39,7 +39,7 @@ export function localCoverPath(event, eventsDir) {
     .update(`${event.id || ''}|${event.url || ''}|${event.startDate || ''}`)
     .digest('hex')
     .slice(0, 8);
-  // Always store self-hosted covers as WebP (16:9 canonical crop already baked in).
+  // Store self-hosted covers as WebP while preserving the source aspect ratio.
   return `/events/${safeFileStem(event.id)}-${hash}.webp`;
 }
 
@@ -55,11 +55,15 @@ function looksLikeImage(bytes, contentType) {
   );
 }
 
-// Normalize any downloaded cover bytes into a real WebP file (sharp cannot
-// decode AVIF in this libvips build, so generic ftyp/AVIF goes through sips).
 async function toWebpBytes(buf) {
+  const converted = await sharp(buf, { density: 96 })
+    .resize({ width: 1600, height: 1600, fit: 'inside', withoutEnlargement: true })
+    .webp({ quality: 80, alphaQuality: 85 })
+    .toBuffer()
+    .catch(() => null);
+  if (converted) return converted;
   const isAvif = buf[0] === 0 && buf[1] === 0 && buf[2] === 0 && buf[4] === 0x66 && buf[5] === 0x74 && buf[6] === 0x79;
-  if (isAvif) {
+  if (isAvif && process.platform === 'darwin') {
     const os = await import('os');
     const { execFileSync } = await import('child_process');
     const tmp = path.join(os.tmpdir(), `evt-${crypto.randomBytes(6).toString('hex')}.png`);
@@ -75,13 +79,7 @@ async function toWebpBytes(buf) {
       try { fs.unlinkSync(tmp); } catch { /* ignore */ }
     }
   }
-  // Fit inside 1600px preserving aspect: never crop, never pad. The detail
-  // page displays covers uncropped on a transparent frame.
-  return sharp(buf, { density: 96 })
-    .resize({ width: 1600, height: 1600, fit: 'inside', withoutEnlargement: true })
-    .webp({ quality: 80, alphaQuality: 85 })
-    .toBuffer()
-    .catch(() => null);
+  return null;
 }
 
 // Download a remote cover image to public/events and return the local path.
@@ -124,7 +122,7 @@ export async function downloadCover(event, eventsDir, log = () => {}) {
     if (!res.ok) return null;
 
     const buf = Buffer.from(await res.arrayBuffer());
-    if (buf.length < 10_000) {
+    if (buf.length < 512) {
       log(`✗ Too small/suspect (${buf.length}b): ${event.name}`);
       return null;
     }
@@ -133,6 +131,11 @@ export async function downloadCover(event, eventsDir, log = () => {}) {
 
     const webp = await toWebpBytes(buf);
     if (!webp) return null;
+    const metadata = await sharp(webp).metadata();
+    if (!metadata.width || !metadata.height || metadata.width < 100 || metadata.height < 100) {
+      log(`✗ Image dimensions too small (${metadata.width}×${metadata.height}): ${event.name}`);
+      return null;
+    }
 
     fs.mkdirSync(eventsDir, { recursive: true });
     fs.writeFileSync(dest, webp);

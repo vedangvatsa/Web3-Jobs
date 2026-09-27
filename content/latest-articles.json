@@ -1,42 +1,42 @@
 [
   {
-    "slug": "hana-bond",
-    "title": "Hana Bank Issues $100M Digital Bond on Euroclear Blockchain",
-    "description": "Hana Bank says it issued a $100 million five-year digital bond on Euroclear's D-FMI ledger with same-day settlement, a first for a Korean institution.",
+    "slug": "cash-fx",
+    "title": "CFTC Sues Cash FX Over Alleged $950M Forex Ponzi Scheme",
+    "description": "The CFTC charged Cash FX Group and three individuals with running a $950 million forex Ponzi scheme that left participants at least $406 million short.",
     "category": "News",
-    "publishedDate": "2026-09-21",
-    "image": "/images/news/hana-bond.jpg"
+    "publishedDate": "2026-09-27",
+    "image": "/images/news/cash-fx.jpg"
   },
   {
-    "slug": "waterplum",
-    "title": "North Korean WaterPlum Crew Stole $10.7M in Fake-Job Crypto Raids",
-    "description": "A joint advisory from Japanese, US, Australian and German agencies says North Korea's WaterPlum group hit 30,000 devices and took $10.7 million through bogus recruiter approaches.",
+    "slug": "cleanspark-debt",
+    "title": "CleanSpark Closes $2.276B Notes Sale for Georgia Data Center",
+    "description": "CleanSpark closed a $2.276 billion sale of 7.875 percent senior secured notes due 2031 to fund its Sandersville data center campus in Georgia.",
     "category": "News",
-    "publishedDate": "2026-09-21",
-    "image": "/images/news/waterplum.jpg"
+    "publishedDate": "2026-09-27",
+    "image": "/images/news/cleanspark-debt.jpg"
   },
   {
-    "slug": "fetch-hack",
-    "title": "Same Attacker Drained Fetch.ai Converter and Minted NuNet Tokens in $2M Exploit",
-    "description": "Security firms tied a Sept. 19 attack on Fetch.ai and NuNet to one wallet, with about 8.7 million FET drained and 408.5 million NTX minted for a combined $2 million in affected assets.",
+    "slug": "kalshi-appeal",
+    "title": "Kalshi Loses Sixth Circuit Appeal Over Sports Contracts",
+    "description": "The Sixth Circuit ruled Kalshi failed to show its sports-event contracts are swaps, letting Ohio and Tennessee enforce their gambling laws against the prediction market.",
     "category": "News",
-    "publishedDate": "2026-09-20",
-    "image": "/images/news/fetch-hack.jpg"
+    "publishedDate": "2026-09-27",
+    "image": "/images/news/kalshi-appeal.jpg"
   },
   {
-    "slug": "polymarket-fraud",
-    "title": "Polymarket Faced $10M Stolen-Card Fraud Attempt, Journal Reported",
-    "description": "The Wall Street Journal reported that fraudsters used stolen debit cards on Polymarket US in February to attempt at least $10 million in illicit moves, with Checkout.com rejecting over 80 percent of deposits at the peak.",
+    "slug": "kelp-lawsuit",
+    "title": "KelpDAO Sues LayerZero Over $292M Bridge Exploit",
+    "description": "Evercrest Technologies, the company behind KelpDAO, filed suit in British Columbia against LayerZero and its CEO over the April rsETH bridge exploit.",
     "category": "News",
-    "publishedDate": "2026-09-20",
-    "image": "/images/news/polymarket-fraud.jpg"
+    "publishedDate": "2026-09-27",
+    "image": "/images/news/kelp-lawsuit.jpg"
   },
   {
-    "slug": "visa-memecoins",
-    "title": "Visa Moves to Close Meme Coin Credit Card Rewards Loophole",
-    "description": "Visa told processors including Checkout.com to stop coding Crossmint-powered meme coin buys as digital media, ending credit card rewards on those purchases after a grace period expected to end next week.",
+    "slug": "peirce-exit",
+    "title": "SEC Commissioner Hester Peirce to Leave Post on Oct. 2",
+    "description": "SEC Commissioner Hester Peirce submitted her resignation effective Oct. 2, ending an eight-year tenure that included leading the agency Crypto Task Force.",
     "category": "News",
-    "publishedDate": "2026-09-20",
-    "image": "/images/news/visa-memecoins.jpg"
+    "publishedDate": "2026-09-27",
+    "image": "/images/news/peirce-exit.jpg"
   }
 ]

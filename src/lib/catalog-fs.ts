@@ -24,15 +24,9 @@ export function catalogSearchRoots(): string[] {
   ];
 
   // Prefer roots that look like the real app (have content catalogs).
-  const ranked: string[] = [];
-  for (const root of uniqueResolved(candidates)) {
-    if (fs.existsSync(path.join(root, 'content', 'jobs-runtime.json'))) {
-      ranked.unshift(root);
-    } else {
-      ranked.push(root);
-    }
-  }
-  return uniqueResolved(ranked);
+  const roots = uniqueResolved(candidates);
+  const withCatalog = roots.filter(root => fs.existsSync(path.join(root, 'content', 'jobs-runtime.json')));
+  return [...withCatalog, ...roots.filter(root => !withCatalog.includes(root))];
 }
 
 /** Find an existing file relative to any catalog root. */

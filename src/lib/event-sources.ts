@@ -1,4 +1,5 @@
 import curated from '../../content/events/sources/curated-events.json';
+import token2049 from '../../content/events/sources/token2049-discovered.json';
 import kbw from '../../content/events/sources/kbw-luma-events.json';
 import ibw from '../../content/events/sources/ibw-side-events.json';
 import india from '../../content/events/sources/india-luma-events.json';
@@ -10,6 +11,7 @@ import type { Web3Event } from './events';
 // Build-time registry. Order matches listing precedence; keep raw feeds out of client bundles.
 export const EVENT_SOURCES: Array<{ file: string; events: Web3Event[] }> = [
   { file: 'curated-events.json', events: curated as Web3Event[] },
+  { file: 'token2049-discovered.json', events: token2049 as Web3Event[] },
   { file: 'kbw-luma-events.json', events: kbw as Web3Event[] },
   { file: 'ibw-side-events.json', events: ibw as Web3Event[] },
   { file: 'india-luma-events.json', events: india as Web3Event[] },
