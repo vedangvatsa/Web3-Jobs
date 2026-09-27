@@ -1,6 +1,6 @@
 {
   "1c027742-c05d-46c0-a44f-1939936030a6": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-09-27T19:35:19.705Z",
     "stories": [
       {
@@ -27,6 +27,8 @@
         "source": "TechCrunch",
         "originalTitle": "Insurers claim AI is already increasing healthcare costs"
       }
-    ]
+    ],
+    "messageId": 193299,
+    "sentAt": "2026-09-27T19:35:22.173Z"
   }
 }
