@@ -31,5 +31,35 @@
     ],
     "messageId": 65707,
     "sentAt": "2026-09-27T11:35:02.507Z"
+  },
+  "a4bead9a-c65f-43b6-bfcd-8cab8a1c8da5": {
+    "status": "reserved",
+    "reservedAt": "2026-09-27T15:51:27.623Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Solana Foundation hires new strategy and payments executives",
+        "summary": "Rachel Conlan joins as chief strategy officer, while Jamal Raees becomes general manager of payments.",
+        "link": "https://hashtagweb3.com/solana-hires?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Solana Foundation appoints Rachel Conlan and Jamal Raees to strategy and payments roles"
+      },
+      {
+        "index": 1,
+        "headline": "Researchers Develop Quantum Resistance Strategies for Bitcoin",
+        "summary": "Recent developments in cost, privacy, and custody show researchers preparing Bitcoin for potential quantum computing threats.",
+        "link": "https://decrypt.co/379400/bitcoins-quantum-problem-three-ways-researchers-are-trying-to-fix-it",
+        "source": "Decrypt",
+        "originalTitle": "Bitcoin's Quantum Problem: Three Ways Researchers Are Trying to Fix It"
+      },
+      {
+        "index": 2,
+        "headline": "Vitalik Buterin Details Ethereum Architecture Goals Through 2030",
+        "summary": "The network's co-founder explained proposed technical changes aimed at expanding functionality over the coming decade.",
+        "link": "https://www.theblock.co/news/ecosystems/2026-09-27-its-really-not-just-a-blockchain-anymore-vitalik-buterin-maps-ethereums-path-to-2030-416953",
+        "source": "The Block",
+        "originalTitle": "‘It’s really not just a blockchain anymore’: Vitalik Buterin maps Ethereum’s path to 2030"
+      }
+    ]
   }
 }
