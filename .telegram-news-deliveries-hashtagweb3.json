@@ -32,7 +32,7 @@
     "sentAt": "2026-09-27T11:35:48.446Z"
   },
   "356620ba-d68a-4a11-9331-ea2496dbc628": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-09-27T15:54:37.900Z",
     "stories": [
       {
@@ -59,6 +59,8 @@
         "source": "Decrypt",
         "originalTitle": "Bitcoin's Quantum Problem: Three Ways Researchers Are Trying to Fix It"
       }
-    ]
+    ],
+    "messageId": 155484,
+    "sentAt": "2026-09-27T15:54:40.723Z"
   }
 }
