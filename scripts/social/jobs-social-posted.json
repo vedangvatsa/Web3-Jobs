@@ -1,5 +1,5 @@
 {
-  "lastIndex": 256,
+  "lastIndex": 258,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -93,7 +93,9 @@
     "sls141",
     "mgr73",
     "mgr72",
-    "fs11"
+    "fs11",
+    "ops53",
+    "aso39"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -4400,500 +4402,6 @@
       "platform": "facebook",
       "postedAt": "2026-09-23T03:55:51.457Z",
       "postId": "691827047618629_1095487759725125",
-      "verification": "verified"
-    },
-    {
-      "slug": "cd3",
-      "company": "Kalshi",
-      "title": "Corporate Development",
-      "platform": "farcaster",
-      "postedAt": "2026-09-23T11:33:25.109Z",
-      "postId": "0x007cadea97b3c5d73ecb2a27371421183a20cfbe",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "cd3",
-      "company": "Kalshi",
-      "title": "Corporate Development",
-      "platform": "linkedin",
-      "postedAt": "2026-09-23T11:33:25.109Z",
-      "postId": "6ab3b913969a4e5475156bdc",
-      "verification": "verified"
-    },
-    {
-      "slug": "cd3",
-      "company": "Kalshi",
-      "title": "Corporate Development",
-      "platform": "facebook",
-      "postedAt": "2026-09-23T11:33:25.109Z",
-      "postId": "691827047618629_1095751829698718",
-      "verification": "verified"
-    },
-    {
-      "slug": "cd3",
-      "company": "Kalshi",
-      "title": "Corporate Development",
-      "platform": "instagram",
-      "postedAt": "2026-09-23T11:33:25.109Z",
-      "postId": "18166230022466041",
-      "verification": "verified"
-    },
-    {
-      "slug": "job37",
-      "company": "Gate.io",
-      "title": "数据分析师（无障碍纯英文沟通）",
-      "platform": "threads",
-      "postedAt": "2026-09-23T22:25:46.372Z",
-      "postId": "18061436786548518",
-      "verification": "verified",
-      "expectedText": "Gate.io is hiring 数据分析师（无障碍纯英文沟通）: https://hashtagweb3.com/job37/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DdpYPNeFgg4",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "job37",
-      "company": "Gate.io",
-      "title": "数据分析师（无障碍纯英文沟通）",
-      "platform": "bluesky",
-      "postedAt": "2026-09-23T22:25:46.372Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mw7rvum52b2n",
-      "verification": "verified"
-    },
-    {
-      "slug": "job37",
-      "company": "Gate.io",
-      "title": "数据分析师（无障碍纯英文沟通）",
-      "platform": "farcaster",
-      "postedAt": "2026-09-23T22:25:46.372Z",
-      "postId": "0x139258b6fe288c79fdfc29061507dd63b076e068",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "job37",
-      "company": "Gate.io",
-      "title": "数据分析师（无障碍纯英文沟通）",
-      "platform": "farcaster",
-      "postedAt": "2026-09-23T22:25:46.372Z",
-      "postId": "0xc88489d9b7a7129799f4192ae35519b266130bb4",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "job37",
-      "company": "Gate.io",
-      "title": "数据分析师（无障碍纯英文沟通）",
-      "platform": "farcaster",
-      "postedAt": "2026-09-23T22:25:46.372Z",
-      "postId": "0xde22c233bb849ffde15b5d1d98d70f3fb58fdfba",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "job37",
-      "company": "Gate.io",
-      "title": "数据分析师（无障碍纯英文沟通）",
-      "platform": "farcaster",
-      "postedAt": "2026-09-23T22:25:46.372Z",
-      "postId": "0x666d04e83fd83c2918e48938ec4c5e84724101a8",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "job37",
-      "company": "Gate.io",
-      "title": "数据分析师（无障碍纯英文沟通）",
-      "platform": "farcaster",
-      "postedAt": "2026-09-23T22:25:46.372Z",
-      "postId": "0xfbd762456ec2eb1b62cd1d99a60606b0f69537b6",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "job37",
-      "company": "Gate.io",
-      "title": "数据分析师（无障碍纯英文沟通）",
-      "platform": "farcaster",
-      "postedAt": "2026-09-23T22:25:46.372Z",
-      "postId": "0x60ee3eea2fd8a4324fdf0363f4e52e6e6748e613",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "job37",
-      "company": "Gate.io",
-      "title": "数据分析师（无障碍纯英文沟通）",
-      "platform": "farcaster",
-      "postedAt": "2026-09-23T22:25:46.372Z",
-      "postId": "0x51dc8d200fbe0a276abe7662ebffc82516562786",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "job37",
-      "company": "Gate.io",
-      "title": "数据分析师（无障碍纯英文沟通）",
-      "platform": "farcaster",
-      "postedAt": "2026-09-23T22:25:46.372Z",
-      "postId": "0xac18baae55206ece168a5c02a163370b2d15890a",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "job37",
-      "company": "Gate.io",
-      "title": "数据分析师（无障碍纯英文沟通）",
-      "platform": "farcaster",
-      "postedAt": "2026-09-23T22:25:46.372Z",
-      "postId": "0x720d42bcfa15770aa9ce6a5ee12581978f38b947",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "job37",
-      "company": "Gate.io",
-      "title": "数据分析师（无障碍纯英文沟通）",
-      "platform": "farcaster",
-      "postedAt": "2026-09-23T22:25:46.372Z",
-      "postId": "0x9363a6f93b118eed95f2ce07480159e1b98b93e3",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "job37",
-      "company": "Gate.io",
-      "title": "数据分析师（无障碍纯英文沟通）",
-      "platform": "farcaster",
-      "postedAt": "2026-09-23T22:25:46.372Z",
-      "postId": "0x54bb17ea2d72b563966b7c69b6fbae26fa6fdf6b",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "job37",
-      "company": "Gate.io",
-      "title": "数据分析师（无障碍纯英文沟通）",
-      "platform": "farcaster",
-      "postedAt": "2026-09-23T22:25:46.372Z",
-      "postId": "0xa6f492f88ca0bf10039c37dd357bc77a81e15bb4",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "job37",
-      "company": "Gate.io",
-      "title": "数据分析师（无障碍纯英文沟通）",
-      "platform": "farcaster",
-      "postedAt": "2026-09-23T22:25:46.372Z",
-      "postId": "0xa6cd0fa81ee9ca94afe02592eb03696d944e9130",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "job37",
-      "company": "Gate.io",
-      "title": "数据分析师（无障碍纯英文沟通）",
-      "platform": "farcaster",
-      "postedAt": "2026-09-23T22:25:46.372Z",
-      "postId": "0xe70a7d471291b34c4e3b636f1e404efb80402a02",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "job37",
-      "company": "Gate.io",
-      "title": "数据分析师（无障碍纯英文沟通）",
-      "platform": "farcaster",
-      "postedAt": "2026-09-23T22:25:46.372Z",
-      "postId": "0xb4b83dd8b3fce2a45c6100e64a55dcaec4362750",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "job37",
-      "company": "Gate.io",
-      "title": "数据分析师（无障碍纯英文沟通）",
-      "platform": "farcaster",
-      "postedAt": "2026-09-23T22:25:46.372Z",
-      "postId": "0x34e39bbf2aae849456542abda13943535800093e",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "job37",
-      "company": "Gate.io",
-      "title": "数据分析师（无障碍纯英文沟通）",
-      "platform": "farcaster",
-      "postedAt": "2026-09-23T22:25:46.372Z",
-      "postId": "0xf4d5a18b7bd9978fdf0563f6754625d044b56300",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "job37",
-      "company": "Gate.io",
-      "title": "数据分析师（无障碍纯英文沟通）",
-      "platform": "linkedin",
-      "postedAt": "2026-09-23T22:25:46.372Z",
-      "postId": "6ab451f989ff667859400248",
-      "verification": "verified"
-    },
-    {
-      "slug": "job37",
-      "company": "Gate.io",
-      "title": "数据分析师（无障碍纯英文沟通）",
-      "platform": "facebook",
-      "postedAt": "2026-09-23T22:25:46.372Z",
-      "postId": "691827047618629_1096176542989580",
-      "verification": "verified"
-    },
-    {
-      "slug": "job37",
-      "company": "Gate.io",
-      "title": "数据分析师（无障碍纯英文沟通）",
-      "platform": "instagram",
-      "postedAt": "2026-09-23T22:25:46.372Z",
-      "postId": "18196940446384999",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng183",
-      "company": "Robinhood",
-      "title": "Senior Machine Learning Engineer, AI Platform & Agentic Apps",
-      "platform": "threads",
-      "postedAt": "2026-09-23T22:26:31.515Z",
-      "postId": "18105474938255709",
-      "verification": "verified",
-      "expectedText": "Robinhood is hiring Senior Machine Learning Engineer, AI Platform & Agentic Apps: https://hashtagweb3.com/eng183/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DdpYUrhlnpG",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "eng183",
-      "company": "Robinhood",
-      "title": "Senior Machine Learning Engineer, AI Platform & Agentic Apps",
-      "platform": "bluesky",
-      "postedAt": "2026-09-23T22:26:31.515Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mw7rx6orlb24",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng183",
-      "company": "Robinhood",
-      "title": "Senior Machine Learning Engineer, AI Platform & Agentic Apps",
-      "platform": "farcaster",
-      "postedAt": "2026-09-23T22:26:31.515Z",
-      "postId": "0x28b251bed9ba75ba6e4b4ca8b2e0fa3098bbd1ca",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng183",
-      "company": "Robinhood",
-      "title": "Senior Machine Learning Engineer, AI Platform & Agentic Apps",
-      "platform": "farcaster",
-      "postedAt": "2026-09-23T22:26:31.515Z",
-      "postId": "0x3b2be7cb8e18bd0362963db5b96d7eb883ce83b0",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng183",
-      "company": "Robinhood",
-      "title": "Senior Machine Learning Engineer, AI Platform & Agentic Apps",
-      "platform": "farcaster",
-      "postedAt": "2026-09-23T22:26:31.515Z",
-      "postId": "0x809cce1e972a0913cbb6550b88be374f95f0523f",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng183",
-      "company": "Robinhood",
-      "title": "Senior Machine Learning Engineer, AI Platform & Agentic Apps",
-      "platform": "farcaster",
-      "postedAt": "2026-09-23T22:26:31.515Z",
-      "postId": "0x3399b4839c00a1fa5077ffb02f482447bf363b60",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng183",
-      "company": "Robinhood",
-      "title": "Senior Machine Learning Engineer, AI Platform & Agentic Apps",
-      "platform": "farcaster",
-      "postedAt": "2026-09-23T22:26:31.515Z",
-      "postId": "0xb9ddf6fd6fed733b5b9cdad897d47a92bd31408b",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng183",
-      "company": "Robinhood",
-      "title": "Senior Machine Learning Engineer, AI Platform & Agentic Apps",
-      "platform": "farcaster",
-      "postedAt": "2026-09-23T22:26:31.515Z",
-      "postId": "0x27b0bafbacf5f27a24534b83f26fd638a9d1be21",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng183",
-      "company": "Robinhood",
-      "title": "Senior Machine Learning Engineer, AI Platform & Agentic Apps",
-      "platform": "farcaster",
-      "postedAt": "2026-09-23T22:26:31.515Z",
-      "postId": "0xcf7723b7ee9b6ef8949c1c2f28679edffe8a40ab",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng183",
-      "company": "Robinhood",
-      "title": "Senior Machine Learning Engineer, AI Platform & Agentic Apps",
-      "platform": "farcaster",
-      "postedAt": "2026-09-23T22:26:31.515Z",
-      "postId": "0x9462eff19dc1fbb4ea870d87e904dcb96ca8d596",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng183",
-      "company": "Robinhood",
-      "title": "Senior Machine Learning Engineer, AI Platform & Agentic Apps",
-      "platform": "farcaster",
-      "postedAt": "2026-09-23T22:26:31.515Z",
-      "postId": "0x9c76046f91da67ab1efc9dcda1452992976674ce",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng183",
-      "company": "Robinhood",
-      "title": "Senior Machine Learning Engineer, AI Platform & Agentic Apps",
-      "platform": "farcaster",
-      "postedAt": "2026-09-23T22:26:31.515Z",
-      "postId": "0x3c40c74ecdb5c088268f162a59823253aa0c3bde",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng183",
-      "company": "Robinhood",
-      "title": "Senior Machine Learning Engineer, AI Platform & Agentic Apps",
-      "platform": "farcaster",
-      "postedAt": "2026-09-23T22:26:31.515Z",
-      "postId": "0x99cf573659973f8c9ae63a2839444c1792526994",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng183",
-      "company": "Robinhood",
-      "title": "Senior Machine Learning Engineer, AI Platform & Agentic Apps",
-      "platform": "farcaster",
-      "postedAt": "2026-09-23T22:26:31.515Z",
-      "postId": "0x8246e1cc619c67d4098f7bf6e33648d9de5b7109",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng183",
-      "company": "Robinhood",
-      "title": "Senior Machine Learning Engineer, AI Platform & Agentic Apps",
-      "platform": "farcaster",
-      "postedAt": "2026-09-23T22:26:31.515Z",
-      "postId": "0x8bb297a7299ea22b579487256dd4da6d19e0fa17",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng183",
-      "company": "Robinhood",
-      "title": "Senior Machine Learning Engineer, AI Platform & Agentic Apps",
-      "platform": "farcaster",
-      "postedAt": "2026-09-23T22:26:31.515Z",
-      "postId": "0x2deb59738de1952fbe1dfde4527728d9d8623f3c",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng183",
-      "company": "Robinhood",
-      "title": "Senior Machine Learning Engineer, AI Platform & Agentic Apps",
-      "platform": "farcaster",
-      "postedAt": "2026-09-23T22:26:31.515Z",
-      "postId": "0x2bef2bdfaac563fcec90316e51d79d8ba9155da5",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng183",
-      "company": "Robinhood",
-      "title": "Senior Machine Learning Engineer, AI Platform & Agentic Apps",
-      "platform": "farcaster",
-      "postedAt": "2026-09-23T22:26:31.515Z",
-      "postId": "0xce3f716c4316c805795d7badb9cbef067497d066",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng183",
-      "company": "Robinhood",
-      "title": "Senior Machine Learning Engineer, AI Platform & Agentic Apps",
-      "platform": "farcaster",
-      "postedAt": "2026-09-23T22:26:31.515Z",
-      "postId": "0x803fc9bf0b4b35f9c60c576865949fb1776b982c",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng183",
-      "company": "Robinhood",
-      "title": "Senior Machine Learning Engineer, AI Platform & Agentic Apps",
-      "platform": "linkedin",
-      "postedAt": "2026-09-23T22:26:31.515Z",
-      "postId": "6ab4522589ff6678594004ac",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng183",
-      "company": "Robinhood",
-      "title": "Senior Machine Learning Engineer, AI Platform & Agentic Apps",
-      "platform": "facebook",
-      "postedAt": "2026-09-23T22:26:31.515Z",
-      "postId": "691827047618629_1096176876322880",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng183",
-      "company": "Robinhood",
-      "title": "Senior Machine Learning Engineer, AI Platform & Agentic Apps",
-      "platform": "instagram",
-      "postedAt": "2026-09-23T22:26:31.515Z",
-      "postId": "18090907343465233",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls94",
-      "company": "Block",
-      "title": "Territory Account Executive, SoHo",
-      "platform": "threads",
-      "postedAt": "2026-09-24T03:50:07.190Z",
-      "postId": "18109858469271171",
-      "verification": "verified",
-      "expectedText": "Block is hiring Territory Account Executive, SoHo: https://hashtagweb3.com/sls94/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/Ddp9WzOET2M",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "sls94",
-      "company": "Block",
-      "title": "Territory Account Executive, SoHo",
-      "platform": "bluesky",
-      "postedAt": "2026-09-24T03:50:07.190Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwadzuseq32f",
       "verification": "verified"
     },
     {
@@ -9991,6 +9499,516 @@
       "platform": "instagram",
       "postedAt": "2026-09-27T03:57:37.503Z",
       "postId": "18021462404919842",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops53",
+      "company": "Digital Asset",
+      "title": "Senior People Operations Specialist",
+      "platform": "x",
+      "postedAt": "2026-09-27T11:31:24.211Z",
+      "postId": "6ab8fe8c612c9e6ac921e022",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Digital Asset is hiring Senior People Operations Specialist\n\nhttps://hashtagweb3.com/ops53/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2104172048830345489"
+    },
+    {
+      "slug": "ops53",
+      "company": "Digital Asset",
+      "title": "Senior People Operations Specialist",
+      "platform": "threads",
+      "postedAt": "2026-09-27T11:31:24.211Z",
+      "postId": "17989234157862221",
+      "verification": "verified",
+      "expectedText": "Digital Asset is hiring Senior People Operations Specialist: https://hashtagweb3.com/ops53/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DdygiKFFROi",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "ops53",
+      "company": "Digital Asset",
+      "title": "Senior People Operations Specialist",
+      "platform": "bluesky",
+      "postedAt": "2026-09-27T11:31:24.211Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwip7icnj52f",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops53",
+      "company": "Digital Asset",
+      "title": "Senior People Operations Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T11:31:24.211Z",
+      "postId": "0xb43708f0139a49a1f2e53265a2cbddf0c914f24b",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops53",
+      "company": "Digital Asset",
+      "title": "Senior People Operations Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T11:31:24.211Z",
+      "postId": "0xcd5f7552d4f79af98173395669dd986c434bd9bd",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops53",
+      "company": "Digital Asset",
+      "title": "Senior People Operations Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T11:31:24.211Z",
+      "postId": "0x1e400561b027bde028358905d7a0c6bc9be95d8b",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops53",
+      "company": "Digital Asset",
+      "title": "Senior People Operations Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T11:31:24.211Z",
+      "postId": "0x9ad617331ceca6000387fb104ed74095e8df84e4",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops53",
+      "company": "Digital Asset",
+      "title": "Senior People Operations Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T11:31:24.211Z",
+      "postId": "0x539e79c110ab5b33fb9fd723d94747611ca7a99b",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops53",
+      "company": "Digital Asset",
+      "title": "Senior People Operations Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T11:31:24.211Z",
+      "postId": "0x6f68c71dc29e6633cd87e6cc80bcbd8d2e981d53",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops53",
+      "company": "Digital Asset",
+      "title": "Senior People Operations Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T11:31:24.211Z",
+      "postId": "0xe584c4b7ac13ca922ffae1191fea741359c5b4a2",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops53",
+      "company": "Digital Asset",
+      "title": "Senior People Operations Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T11:31:24.211Z",
+      "postId": "0x7b37d41403441f25f1d794d72f82c6ca70c2550c",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops53",
+      "company": "Digital Asset",
+      "title": "Senior People Operations Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T11:31:24.211Z",
+      "postId": "0x1b6c1b7bb51eb88d8276f65b53ba374ea3fc0557",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops53",
+      "company": "Digital Asset",
+      "title": "Senior People Operations Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T11:31:24.211Z",
+      "postId": "0x96358eb7b4a91a0aa927af3033ceadd73c073063",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops53",
+      "company": "Digital Asset",
+      "title": "Senior People Operations Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T11:31:24.211Z",
+      "postId": "0x87dcc17a57f795d510dffbb49271e2b9dc1268a6",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops53",
+      "company": "Digital Asset",
+      "title": "Senior People Operations Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T11:31:24.211Z",
+      "postId": "0xbfa6ea1dd54523e0e399354041aeabbe9030ad5a",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops53",
+      "company": "Digital Asset",
+      "title": "Senior People Operations Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T11:31:24.211Z",
+      "postId": "0xd0795af4d8e913f1d951aa3218fea4fc7d741d53",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops53",
+      "company": "Digital Asset",
+      "title": "Senior People Operations Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T11:31:24.211Z",
+      "postId": "0xb9c1e8708b8a6e07c1fb6e69c6fa0f12fd2aee63",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops53",
+      "company": "Digital Asset",
+      "title": "Senior People Operations Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T11:31:24.211Z",
+      "postId": "0x0b1c79582967acbc3d5a657323b6e301136ff14c",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops53",
+      "company": "Digital Asset",
+      "title": "Senior People Operations Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T11:31:24.211Z",
+      "postId": "0x814439fd258d802be9d338bc7d519041dfbf9fbe",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops53",
+      "company": "Digital Asset",
+      "title": "Senior People Operations Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T11:31:24.211Z",
+      "postId": "0xc5375a5f52d31f929e9a82d3766ba38e9f20255a",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops53",
+      "company": "Digital Asset",
+      "title": "Senior People Operations Specialist",
+      "platform": "linkedin",
+      "postedAt": "2026-09-27T11:31:24.211Z",
+      "postId": "6ab8fe9c1bf030e330a50fe7",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops53",
+      "company": "Digital Asset",
+      "title": "Senior People Operations Specialist",
+      "platform": "linkedin",
+      "postedAt": "2026-09-27T11:31:24.211Z",
+      "postId": "6ab8fea643493a0ede8c7696",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops53",
+      "company": "Digital Asset",
+      "title": "Senior People Operations Specialist",
+      "platform": "linkedin",
+      "postedAt": "2026-09-27T11:31:24.211Z",
+      "postId": "urn:li:share:7509937894355222528",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops53",
+      "company": "Digital Asset",
+      "title": "Senior People Operations Specialist",
+      "platform": "facebook",
+      "postedAt": "2026-09-27T11:31:24.211Z",
+      "postId": "691827047618629_1099508772656357",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops53",
+      "company": "Digital Asset",
+      "title": "Senior People Operations Specialist",
+      "platform": "instagram",
+      "postedAt": "2026-09-27T11:31:24.211Z",
+      "postId": "18104565065282452",
+      "verification": "verified"
+    },
+    {
+      "slug": "aso39",
+      "company": "Strike",
+      "title": "Associate General Counsel, Europe & UK",
+      "platform": "x",
+      "postedAt": "2026-09-27T11:32:23.381Z",
+      "postId": "6ab8fec71bf030e330a513d4",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Strike is hiring Associate General Counsel, Europe & UK\n\nhttps://hashtagweb3.com/aso39/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2104172296411730321"
+    },
+    {
+      "slug": "aso39",
+      "company": "Strike",
+      "title": "Associate General Counsel, Europe & UK",
+      "platform": "threads",
+      "postedAt": "2026-09-27T11:32:23.381Z",
+      "postId": "18429361909194102",
+      "verification": "verified",
+      "expectedText": "Strike is hiring Associate General Counsel, Europe & UK: https://hashtagweb3.com/aso39/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DdygpTXlRXG",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "aso39",
+      "company": "Strike",
+      "title": "Associate General Counsel, Europe & UK",
+      "platform": "bluesky",
+      "postedAt": "2026-09-27T11:32:23.381Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwipbajphl2z",
+      "verification": "verified"
+    },
+    {
+      "slug": "aso39",
+      "company": "Strike",
+      "title": "Associate General Counsel, Europe & UK",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T11:32:23.381Z",
+      "postId": "0x0636a9bd0fda684437d331624c80eb6bb7b2add2",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "aso39",
+      "company": "Strike",
+      "title": "Associate General Counsel, Europe & UK",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T11:32:23.381Z",
+      "postId": "0x1876f84ea52fb3d0e2dbb8d7ca49dfd49e6415b9",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "aso39",
+      "company": "Strike",
+      "title": "Associate General Counsel, Europe & UK",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T11:32:23.381Z",
+      "postId": "0xf45bcdd6a11eda4fa48907961fcf7f622c26d4d0",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "aso39",
+      "company": "Strike",
+      "title": "Associate General Counsel, Europe & UK",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T11:32:23.381Z",
+      "postId": "0x4a21e4fbc9fd6f18d12a7effcfd8d2a60a4831e0",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "aso39",
+      "company": "Strike",
+      "title": "Associate General Counsel, Europe & UK",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T11:32:23.381Z",
+      "postId": "0xf11c4900a8768cd2f7e59388e457ff940167988b",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "aso39",
+      "company": "Strike",
+      "title": "Associate General Counsel, Europe & UK",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T11:32:23.381Z",
+      "postId": "0xf5c108e2156f2cd6623765565e0cdd2024ed685a",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "aso39",
+      "company": "Strike",
+      "title": "Associate General Counsel, Europe & UK",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T11:32:23.381Z",
+      "postId": "0x8c50d90eb42f7a4611fe219a9ad1de2ebe2b2e47",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "aso39",
+      "company": "Strike",
+      "title": "Associate General Counsel, Europe & UK",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T11:32:23.381Z",
+      "postId": "0x52dfe5c1c6751630eafd872275a647df3e872368",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "aso39",
+      "company": "Strike",
+      "title": "Associate General Counsel, Europe & UK",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T11:32:23.381Z",
+      "postId": "0x76f9db39741e934be0dcb4b5b543b5e89de31dbc",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "aso39",
+      "company": "Strike",
+      "title": "Associate General Counsel, Europe & UK",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T11:32:23.381Z",
+      "postId": "0x731fd82bf0c5597009f1f1e2ce8c482c2c0ee849",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "aso39",
+      "company": "Strike",
+      "title": "Associate General Counsel, Europe & UK",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T11:32:23.381Z",
+      "postId": "0x5a922f93ddb024412c30ea214762df3598f59645",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "aso39",
+      "company": "Strike",
+      "title": "Associate General Counsel, Europe & UK",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T11:32:23.381Z",
+      "postId": "0x892deeb5628542ee26272b60274d0010e60be4ad",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "aso39",
+      "company": "Strike",
+      "title": "Associate General Counsel, Europe & UK",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T11:32:23.381Z",
+      "postId": "0x75437652eb334c7e0fcc06d224df10ffc50a4f0c",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "aso39",
+      "company": "Strike",
+      "title": "Associate General Counsel, Europe & UK",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T11:32:23.381Z",
+      "postId": "0xc2affad0f7f4c975d54132983c6abded72f44938",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "aso39",
+      "company": "Strike",
+      "title": "Associate General Counsel, Europe & UK",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T11:32:23.381Z",
+      "postId": "0x94db598b56699698efb57642a18b7a2683a7da26",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "aso39",
+      "company": "Strike",
+      "title": "Associate General Counsel, Europe & UK",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T11:32:23.381Z",
+      "postId": "0x713d599ee0f5fc552840727df430229dce51c6bf",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "aso39",
+      "company": "Strike",
+      "title": "Associate General Counsel, Europe & UK",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T11:32:23.381Z",
+      "postId": "0xdf673a7928009b176b5cea86d49de12c65e0a65b",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "aso39",
+      "company": "Strike",
+      "title": "Associate General Counsel, Europe & UK",
+      "platform": "linkedin",
+      "postedAt": "2026-09-27T11:32:23.381Z",
+      "postId": "6ab8fed61bf030e330a515f0",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "aso39",
+      "company": "Strike",
+      "title": "Associate General Counsel, Europe & UK",
+      "platform": "linkedin",
+      "postedAt": "2026-09-27T11:32:23.381Z",
+      "postId": "6ab8fee143493a0ede8c7dd4",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "aso39",
+      "company": "Strike",
+      "title": "Associate General Counsel, Europe & UK",
+      "platform": "linkedin",
+      "postedAt": "2026-09-27T11:32:23.381Z",
+      "postId": "urn:li:share:7509938140841721856",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "aso39",
+      "company": "Strike",
+      "title": "Associate General Counsel, Europe & UK",
+      "platform": "facebook",
+      "postedAt": "2026-09-27T11:32:23.381Z",
+      "postId": "691827047618629_1099509555989612",
+      "verification": "verified"
+    },
+    {
+      "slug": "aso39",
+      "company": "Strike",
+      "title": "Associate General Counsel, Europe & UK",
+      "platform": "instagram",
+      "postedAt": "2026-09-27T11:32:23.381Z",
+      "postId": "17914929924263998",
       "verification": "verified"
     }
   ]
