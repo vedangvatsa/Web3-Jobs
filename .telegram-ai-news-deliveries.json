@@ -1,0 +1,32 @@
+{
+  "1c027742-c05d-46c0-a44f-1939936030a6": {
+    "status": "reserved",
+    "reservedAt": "2026-09-27T19:35:19.705Z",
+    "stories": [
+      {
+        "index": 1,
+        "headline": "Saturday Night Live Parodied Anthropic CEO Dario Amodei",
+        "summary": "The comedy show depicted the tech executive warning about the dangers of his artificial intelligence creation.",
+        "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+        "source": "TechCrunch",
+        "originalTitle": "Anthropic’s Dario Amodei gets the SNL treatment"
+      },
+      {
+        "index": 2,
+        "headline": "Google tests buying Flipkart items via Gemini in India",
+        "summary": "The limited trial covers specific products, with a wider release expected later this month.",
+        "link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+        "source": "TechCrunch",
+        "originalTitle": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India"
+      },
+      {
+        "index": 3,
+        "headline": "AI tools added $942 million to healthcare costs",
+        "summary": "Blue Cross Blue Shield found that hospital AI usage increased medical spending over two years.",
+        "link": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+        "source": "TechCrunch",
+        "originalTitle": "Insurers claim AI is already increasing healthcare costs"
+      }
+    ]
+  }
+}

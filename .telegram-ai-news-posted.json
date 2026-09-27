@@ -617,6 +617,9 @@
   "https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach/",
   "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
   "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/",
+  "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+  "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+  "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1634,6 +1637,12 @@
   "At Meta Connect, the company’s smart glasses were everywhere",
   "Tesla Workers Hesitate to Train Optimus Robots",
   "Tesla workers balk at training Optimus humanoid robots as replacements",
+  "Saturday Night Live Parodied Anthropic CEO Dario Amodei",
+  "Anthropic’s Dario Amodei gets the SNL treatment",
+  "Google tests buying Flipkart items via Gemini in India",
+  "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+  "AI tools added $942 million to healthcare costs",
+  "Insurers claim AI is already increasing healthcare costs",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -1768,5 +1777,8 @@
   "fp:accidentally|application|are|configur|creat|customer|data|expos|information|internet",
   "fp:accept|access|agent|albanes|answer|anthony|australian|authorization|autonomous|breach",
   "fp:aim|annual|conferenc|connect|consumer|digital|everywher|featur|glass|keep",
-  "fp:000|aim|balk|challeng|despit|hesitat|humanoid|internal|late2026|optimus"
+  "fp:000|aim|balk|challeng|despit|hesitat|humanoid|internal|late2026|optimus",
+  "fp:amodei|anthropic|ceo|comedy|creation|danger|dario|depict|executiv|get",
+  "fp:buy|cover|expect|flipkart|gemini|googl|india|item|later|limit",
+  "fp:942m|add|already|blu|claim|cost|cross|found|healthcar|hospital"
 ]
