@@ -1,5 +1,5 @@
 {
-  "lastIndex": 254,
+  "lastIndex": 256,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -91,7 +91,9 @@
     "an44",
     "sls142",
     "sls141",
-    "mgr73"
+    "mgr73",
+    "mgr72",
+    "fs11"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -2099,103 +2101,6 @@
       "platform": "facebook",
       "postedAt": "2026-09-18T00:28:50.769Z",
       "postId": "691827047618629_1091155000158401",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm41",
-      "company": "Merkle Science",
-      "title": "Senior Product Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-21T14:20:56.737Z",
-      "postId": "0x3fba84ea158522b320309eddec1479fc0a55fc37",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm41",
-      "company": "Merkle Science",
-      "title": "Senior Product Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-21T14:20:56.737Z",
-      "postId": "0xf5fa5f31ebc5d1015596dd9763cc9a52dc8dfd50",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm41",
-      "company": "Merkle Science",
-      "title": "Senior Product Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-21T14:20:56.737Z",
-      "postId": "0xb95ffb487d39e4fcf67e349d7ec18dc7530890ad",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm41",
-      "company": "Merkle Science",
-      "title": "Senior Product Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-21T14:20:56.737Z",
-      "postId": "0xb115eac5c6d9937dc40a789e000463040b6bab1a",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm41",
-      "company": "Merkle Science",
-      "title": "Senior Product Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-21T14:20:56.737Z",
-      "postId": "0x57366771d06c3a5eea2a7efbc3a09b926d7ac80e",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm41",
-      "company": "Merkle Science",
-      "title": "Senior Product Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-21T14:20:56.737Z",
-      "postId": "0x9c633149c44a6955e0a0b77b34dd25da02eb388d",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm41",
-      "company": "Merkle Science",
-      "title": "Senior Product Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-21T14:20:56.737Z",
-      "postId": "0xc3d1c26ca098c636df629db125fa741ec939af9e",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm41",
-      "company": "Merkle Science",
-      "title": "Senior Product Manager",
-      "platform": "linkedin",
-      "postedAt": "2026-09-21T14:20:56.737Z",
-      "postId": "6ab13d58b71f96bd812efad9",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm41",
-      "company": "Merkle Science",
-      "title": "Senior Product Manager",
-      "platform": "facebook",
-      "postedAt": "2026-09-21T14:20:56.737Z",
-      "postId": "691827047618629_1094171989856702",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm41",
-      "company": "Merkle Science",
-      "title": "Senior Product Manager",
-      "platform": "instagram",
-      "postedAt": "2026-09-21T14:20:56.737Z",
-      "postId": "18109336895131793",
       "verification": "verified"
     },
     {
@@ -4495,405 +4400,6 @@
       "platform": "facebook",
       "postedAt": "2026-09-23T03:55:51.457Z",
       "postId": "691827047618629_1095487759725125",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng159",
-      "company": "Nascent",
-      "title": "Software Engineer, Data Acquisition",
-      "platform": "threads",
-      "postedAt": "2026-09-23T11:32:28.074Z",
-      "postId": "17952303849267424",
-      "verification": "verified",
-      "expectedText": "Nascent is hiring Software Engineer, Data Acquisition: https://hashtagweb3.com/eng159/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DdoNeQzm2Lt",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "eng159",
-      "company": "Nascent",
-      "title": "Software Engineer, Data Acquisition",
-      "platform": "bluesky",
-      "postedAt": "2026-09-23T11:32:28.074Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mw6nfoe4rs2c",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng159",
-      "company": "Nascent",
-      "title": "Software Engineer, Data Acquisition",
-      "platform": "farcaster",
-      "postedAt": "2026-09-23T11:32:28.074Z",
-      "postId": "0x1ca7a85b93da5424c0031f2478f83c11db4e0b8d",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng159",
-      "company": "Nascent",
-      "title": "Software Engineer, Data Acquisition",
-      "platform": "farcaster",
-      "postedAt": "2026-09-23T11:32:28.074Z",
-      "postId": "0x27e693360ed23c12edade91fbd8409261cdcae9b",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng159",
-      "company": "Nascent",
-      "title": "Software Engineer, Data Acquisition",
-      "platform": "farcaster",
-      "postedAt": "2026-09-23T11:32:28.074Z",
-      "postId": "0x6ae284fe19b5c99762bfa4b83e5eff5eedb65444",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng159",
-      "company": "Nascent",
-      "title": "Software Engineer, Data Acquisition",
-      "platform": "farcaster",
-      "postedAt": "2026-09-23T11:32:28.074Z",
-      "postId": "0x0f0f8b4377a74e237f588e55d8508423c086f5d0",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng159",
-      "company": "Nascent",
-      "title": "Software Engineer, Data Acquisition",
-      "platform": "farcaster",
-      "postedAt": "2026-09-23T11:32:28.074Z",
-      "postId": "0x7a190a165497191ccc1bc0601962d04eb925b2e9",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng159",
-      "company": "Nascent",
-      "title": "Software Engineer, Data Acquisition",
-      "platform": "farcaster",
-      "postedAt": "2026-09-23T11:32:28.074Z",
-      "postId": "0x9559e29a828477c21a59b93f90e7ce588c69f0ff",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng159",
-      "company": "Nascent",
-      "title": "Software Engineer, Data Acquisition",
-      "platform": "farcaster",
-      "postedAt": "2026-09-23T11:32:28.074Z",
-      "postId": "0x1f05b2c1a7e6bd91b2a008bef9515bb1ddc28c34",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng159",
-      "company": "Nascent",
-      "title": "Software Engineer, Data Acquisition",
-      "platform": "farcaster",
-      "postedAt": "2026-09-23T11:32:28.074Z",
-      "postId": "0x3ad4948f364d9718fcb940e14e3a075df6271c0f",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng159",
-      "company": "Nascent",
-      "title": "Software Engineer, Data Acquisition",
-      "platform": "farcaster",
-      "postedAt": "2026-09-23T11:32:28.074Z",
-      "postId": "0xda26f08057b19e05a99b607f22ed15d6fad3acb0",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng159",
-      "company": "Nascent",
-      "title": "Software Engineer, Data Acquisition",
-      "platform": "farcaster",
-      "postedAt": "2026-09-23T11:32:28.074Z",
-      "postId": "0x0645ae5a11a6733022b385adc6005b36f69af5e6",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng159",
-      "company": "Nascent",
-      "title": "Software Engineer, Data Acquisition",
-      "platform": "farcaster",
-      "postedAt": "2026-09-23T11:32:28.074Z",
-      "postId": "0x0589fccd28f456a6de2228316c1367d347dc5ea7",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng159",
-      "company": "Nascent",
-      "title": "Software Engineer, Data Acquisition",
-      "platform": "farcaster",
-      "postedAt": "2026-09-23T11:32:28.074Z",
-      "postId": "0xefac651ef374ba5077e4880e061730e816d38e39",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng159",
-      "company": "Nascent",
-      "title": "Software Engineer, Data Acquisition",
-      "platform": "farcaster",
-      "postedAt": "2026-09-23T11:32:28.074Z",
-      "postId": "0x2f68e37ba239bddd39b12a84baa8939d75831a86",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng159",
-      "company": "Nascent",
-      "title": "Software Engineer, Data Acquisition",
-      "platform": "farcaster",
-      "postedAt": "2026-09-23T11:32:28.074Z",
-      "postId": "0xb3a2a18130251497a6eef0661c4842765a3036a8",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng159",
-      "company": "Nascent",
-      "title": "Software Engineer, Data Acquisition",
-      "platform": "farcaster",
-      "postedAt": "2026-09-23T11:32:28.074Z",
-      "postId": "0xe9d7e14397ecd20b8c70809d55816809f1178cb2",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng159",
-      "company": "Nascent",
-      "title": "Software Engineer, Data Acquisition",
-      "platform": "farcaster",
-      "postedAt": "2026-09-23T11:32:28.074Z",
-      "postId": "0xfa0ee89ddef40dc88f22030b6d289fbddd7168b9",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng159",
-      "company": "Nascent",
-      "title": "Software Engineer, Data Acquisition",
-      "platform": "farcaster",
-      "postedAt": "2026-09-23T11:32:28.074Z",
-      "postId": "0xa7f0f3da2aea43197438ab7f8c7a383806aa0cd1",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng159",
-      "company": "Nascent",
-      "title": "Software Engineer, Data Acquisition",
-      "platform": "linkedin",
-      "postedAt": "2026-09-23T11:32:28.074Z",
-      "postId": "6ab3b8db87d938b1302469e4",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng159",
-      "company": "Nascent",
-      "title": "Software Engineer, Data Acquisition",
-      "platform": "facebook",
-      "postedAt": "2026-09-23T11:32:28.074Z",
-      "postId": "691827047618629_1095751366365431",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng159",
-      "company": "Nascent",
-      "title": "Software Engineer, Data Acquisition",
-      "platform": "instagram",
-      "postedAt": "2026-09-23T11:32:28.074Z",
-      "postId": "18443306206135166",
-      "verification": "verified"
-    },
-    {
-      "slug": "cd3",
-      "company": "Kalshi",
-      "title": "Corporate Development",
-      "platform": "threads",
-      "postedAt": "2026-09-23T11:33:25.109Z",
-      "postId": "17909556969518610",
-      "verification": "verified",
-      "expectedText": "Kalshi is hiring Corporate Development: https://hashtagweb3.com/cd3/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DdoNlLOm-8m",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "cd3",
-      "company": "Kalshi",
-      "title": "Corporate Development",
-      "platform": "bluesky",
-      "postedAt": "2026-09-23T11:33:25.109Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mw6nhdkigk2f",
-      "verification": "verified"
-    },
-    {
-      "slug": "cd3",
-      "company": "Kalshi",
-      "title": "Corporate Development",
-      "platform": "farcaster",
-      "postedAt": "2026-09-23T11:33:25.109Z",
-      "postId": "0xbc4ff4aa4a23e2868741846fa0354528309406ec",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "cd3",
-      "company": "Kalshi",
-      "title": "Corporate Development",
-      "platform": "farcaster",
-      "postedAt": "2026-09-23T11:33:25.109Z",
-      "postId": "0x1983b65cb8e870688ef89b7c5bfc0da01f69f8dd",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "cd3",
-      "company": "Kalshi",
-      "title": "Corporate Development",
-      "platform": "farcaster",
-      "postedAt": "2026-09-23T11:33:25.109Z",
-      "postId": "0x1f7f03414949c3dc84e758c37f5d2876e0dc597c",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "cd3",
-      "company": "Kalshi",
-      "title": "Corporate Development",
-      "platform": "farcaster",
-      "postedAt": "2026-09-23T11:33:25.109Z",
-      "postId": "0xfa0bd72f6999017b75fbbaae609b9c2b40cb913a",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "cd3",
-      "company": "Kalshi",
-      "title": "Corporate Development",
-      "platform": "farcaster",
-      "postedAt": "2026-09-23T11:33:25.109Z",
-      "postId": "0xb61f2b6227294966086eea53d1af50509b6036f7",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "cd3",
-      "company": "Kalshi",
-      "title": "Corporate Development",
-      "platform": "farcaster",
-      "postedAt": "2026-09-23T11:33:25.109Z",
-      "postId": "0x4185392b0f2f3590493f81250f90458cdcb5e56c",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "cd3",
-      "company": "Kalshi",
-      "title": "Corporate Development",
-      "platform": "farcaster",
-      "postedAt": "2026-09-23T11:33:25.109Z",
-      "postId": "0x65103524b6e03713d3029cfb0d198cfb36657829",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "cd3",
-      "company": "Kalshi",
-      "title": "Corporate Development",
-      "platform": "farcaster",
-      "postedAt": "2026-09-23T11:33:25.109Z",
-      "postId": "0xfe8124dab4637189fb91350485af61ba113b41b6",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "cd3",
-      "company": "Kalshi",
-      "title": "Corporate Development",
-      "platform": "farcaster",
-      "postedAt": "2026-09-23T11:33:25.109Z",
-      "postId": "0x1acace66dec758a137691bff8aeb1a3a26170be8",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "cd3",
-      "company": "Kalshi",
-      "title": "Corporate Development",
-      "platform": "farcaster",
-      "postedAt": "2026-09-23T11:33:25.109Z",
-      "postId": "0x98e550abc9d4c4606cc1eb635cbe959b992363b5",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "cd3",
-      "company": "Kalshi",
-      "title": "Corporate Development",
-      "platform": "farcaster",
-      "postedAt": "2026-09-23T11:33:25.109Z",
-      "postId": "0x863e4d4d89054bba999f15cdcda7178138d971b8",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "cd3",
-      "company": "Kalshi",
-      "title": "Corporate Development",
-      "platform": "farcaster",
-      "postedAt": "2026-09-23T11:33:25.109Z",
-      "postId": "0xb915329f0c861bc506374c10caa6799ade2bd68f",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "cd3",
-      "company": "Kalshi",
-      "title": "Corporate Development",
-      "platform": "farcaster",
-      "postedAt": "2026-09-23T11:33:25.109Z",
-      "postId": "0x5aebc29c97d12e989b913a3f136c2a44499e7e81",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "cd3",
-      "company": "Kalshi",
-      "title": "Corporate Development",
-      "platform": "farcaster",
-      "postedAt": "2026-09-23T11:33:25.109Z",
-      "postId": "0xe661fb11ef46db2e3b66a38fbf2083a52e1dc102",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "cd3",
-      "company": "Kalshi",
-      "title": "Corporate Development",
-      "platform": "farcaster",
-      "postedAt": "2026-09-23T11:33:25.109Z",
-      "postId": "0x6a4762c4a7a375ac37c0031b22b2abc3f56970da",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "cd3",
-      "company": "Kalshi",
-      "title": "Corporate Development",
-      "platform": "farcaster",
-      "postedAt": "2026-09-23T11:33:25.109Z",
-      "postId": "0x6234908811dba6e15ed927169c7f56e3f267d268",
-      "account": "channel:design",
       "verification": "verified"
     },
     {
@@ -9975,6 +9481,516 @@
       "platform": "instagram",
       "postedAt": "2026-09-26T19:32:33.622Z",
       "postId": "18079185851419104",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr72",
+      "company": "Rain",
+      "title": "Market Expansion Manager",
+      "platform": "x",
+      "postedAt": "2026-09-27T03:56:28.902Z",
+      "postId": "6ab893ed05811e573741b22e",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Rain is hiring Market Expansion Manager\n\nhttps://hashtagweb3.com/mgr72/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2104057564476416246"
+    },
+    {
+      "slug": "mgr72",
+      "company": "Rain",
+      "title": "Market Expansion Manager",
+      "platform": "threads",
+      "postedAt": "2026-09-27T03:56:28.902Z",
+      "postId": "18079555601364771",
+      "verification": "verified",
+      "expectedText": "Rain is hiring Market Expansion Manager: https://hashtagweb3.com/mgr72/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DdxseSHG-aU",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "mgr72",
+      "company": "Rain",
+      "title": "Market Expansion Manager",
+      "platform": "bluesky",
+      "postedAt": "2026-09-27T03:56:28.902Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwhvs45tri2e",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr72",
+      "company": "Rain",
+      "title": "Market Expansion Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T03:56:28.902Z",
+      "postId": "0x8b535c1dc9e463ec4229f343038d162ec164c5c6",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr72",
+      "company": "Rain",
+      "title": "Market Expansion Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T03:56:28.902Z",
+      "postId": "0xcc0c832bd00287bc722f82ce9389e88649935cff",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr72",
+      "company": "Rain",
+      "title": "Market Expansion Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T03:56:28.902Z",
+      "postId": "0x970cc71937a389bbe2a17d03ce66c3086e48d692",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr72",
+      "company": "Rain",
+      "title": "Market Expansion Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T03:56:28.902Z",
+      "postId": "0x97d73b2e887f89dc1bbcbe434b70f59451bec118",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr72",
+      "company": "Rain",
+      "title": "Market Expansion Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T03:56:28.902Z",
+      "postId": "0xaf1f92f6ba049c6a7445c3abab245e9481ff06ed",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr72",
+      "company": "Rain",
+      "title": "Market Expansion Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T03:56:28.902Z",
+      "postId": "0xf523f4366aa6a8c3dfaf8f93da2ec9ca9d4e6ce5",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr72",
+      "company": "Rain",
+      "title": "Market Expansion Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T03:56:28.902Z",
+      "postId": "0x213b63c3b664c6b8b2c8ef89778cb1d7df1f33ca",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr72",
+      "company": "Rain",
+      "title": "Market Expansion Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T03:56:28.902Z",
+      "postId": "0x5dd65c26d2b9fa28a8af3ab7577c68a5c673b6dd",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr72",
+      "company": "Rain",
+      "title": "Market Expansion Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T03:56:28.902Z",
+      "postId": "0x1f4ba011199b13d0b790a691c67ad419a90f07f1",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr72",
+      "company": "Rain",
+      "title": "Market Expansion Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T03:56:28.902Z",
+      "postId": "0x59d4e2bfef218a2cf1ac10429cff5ec344fc7bc3",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr72",
+      "company": "Rain",
+      "title": "Market Expansion Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T03:56:28.902Z",
+      "postId": "0x7abca993d7c98b38774dd4025eb0e9c4d48f1a44",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr72",
+      "company": "Rain",
+      "title": "Market Expansion Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T03:56:28.902Z",
+      "postId": "0x6ec8826c08c08363c24995c60bc082f151c22ce8",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr72",
+      "company": "Rain",
+      "title": "Market Expansion Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T03:56:28.902Z",
+      "postId": "0x632930ecc8451c6102b15d8fee8b204bb425619c",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr72",
+      "company": "Rain",
+      "title": "Market Expansion Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T03:56:28.902Z",
+      "postId": "0x309ecbfa151788c445c8caf10b775563e50cbb0a",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr72",
+      "company": "Rain",
+      "title": "Market Expansion Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T03:56:28.902Z",
+      "postId": "0x0774bb88f82b1f46d9be0c01d75a4ab4340b65e0",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr72",
+      "company": "Rain",
+      "title": "Market Expansion Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T03:56:28.902Z",
+      "postId": "0xd753bb35a93d97d25bf436bed024e95a4972e7ba",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr72",
+      "company": "Rain",
+      "title": "Market Expansion Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T03:56:28.902Z",
+      "postId": "0xf661415a0677516abe150c7ea4b30c55076f44c2",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr72",
+      "company": "Rain",
+      "title": "Market Expansion Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-09-27T03:56:28.902Z",
+      "postId": "6ab894000f79a37c5d4451c7",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr72",
+      "company": "Rain",
+      "title": "Market Expansion Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-09-27T03:56:28.902Z",
+      "postId": "6ab8940b9f89edbefe88140b",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr72",
+      "company": "Rain",
+      "title": "Market Expansion Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-09-27T03:56:28.902Z",
+      "postId": "urn:li:share:7509823425872523264",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr72",
+      "company": "Rain",
+      "title": "Market Expansion Manager",
+      "platform": "facebook",
+      "postedAt": "2026-09-27T03:56:28.902Z",
+      "postId": "691827047618629_1099211149352786",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr72",
+      "company": "Rain",
+      "title": "Market Expansion Manager",
+      "platform": "instagram",
+      "postedAt": "2026-09-27T03:56:28.902Z",
+      "postId": "18122438813481288",
+      "verification": "verified"
+    },
+    {
+      "slug": "fs11",
+      "company": "Stripe",
+      "title": "Full Stack Engineer, Money Movement",
+      "platform": "x",
+      "postedAt": "2026-09-27T03:57:37.503Z",
+      "postId": "6ab89431ccccb9429c43223f",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Stripe is hiring Full Stack Engineer, Money Movement\n\nhttps://hashtagweb3.com/fs11/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2104057852440576146"
+    },
+    {
+      "slug": "fs11",
+      "company": "Stripe",
+      "title": "Full Stack Engineer, Money Movement",
+      "platform": "threads",
+      "postedAt": "2026-09-27T03:57:37.503Z",
+      "postId": "18127006183873989",
+      "verification": "verified",
+      "expectedText": "Stripe is hiring Full Stack Engineer, Money Movement: https://hashtagweb3.com/fs11/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/Ddxsmmkm3cX",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "fs11",
+      "company": "Stripe",
+      "title": "Full Stack Engineer, Money Movement",
+      "platform": "bluesky",
+      "postedAt": "2026-09-27T03:57:37.503Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwhvu56xmd2o",
+      "verification": "verified"
+    },
+    {
+      "slug": "fs11",
+      "company": "Stripe",
+      "title": "Full Stack Engineer, Money Movement",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T03:57:37.503Z",
+      "postId": "0x81f872e4b7493e907ab08f93dde54d3cfe371322",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "fs11",
+      "company": "Stripe",
+      "title": "Full Stack Engineer, Money Movement",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T03:57:37.503Z",
+      "postId": "0xffe24580de08fe6d1a5903af7e774c31f0a05931",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "fs11",
+      "company": "Stripe",
+      "title": "Full Stack Engineer, Money Movement",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T03:57:37.503Z",
+      "postId": "0xe188b53fba5ed9f42d724acc6b526cf104cf5b12",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "fs11",
+      "company": "Stripe",
+      "title": "Full Stack Engineer, Money Movement",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T03:57:37.503Z",
+      "postId": "0x3d855aed746cd4504157925ac53132cd910f9d53",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "fs11",
+      "company": "Stripe",
+      "title": "Full Stack Engineer, Money Movement",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T03:57:37.503Z",
+      "postId": "0x4c32c11d9b36094ab4312f915f4ba51de85a2ef6",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "fs11",
+      "company": "Stripe",
+      "title": "Full Stack Engineer, Money Movement",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T03:57:37.503Z",
+      "postId": "0x54dca76ffe013ed0ec9c0663b9c75192abc49aa7",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "fs11",
+      "company": "Stripe",
+      "title": "Full Stack Engineer, Money Movement",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T03:57:37.503Z",
+      "postId": "0xbd0ff9ae6c408ac48bd2df75d13a89a5bc376358",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "fs11",
+      "company": "Stripe",
+      "title": "Full Stack Engineer, Money Movement",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T03:57:37.503Z",
+      "postId": "0x4d742b52a53c6cdb6fa1a7c0342f8d2f36f2bfbf",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "fs11",
+      "company": "Stripe",
+      "title": "Full Stack Engineer, Money Movement",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T03:57:37.503Z",
+      "postId": "0x33485c33a9f6e06cf1ef65623b5661061360b11a",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "fs11",
+      "company": "Stripe",
+      "title": "Full Stack Engineer, Money Movement",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T03:57:37.503Z",
+      "postId": "0xa3cdf9f09331250b36dcf0a4938c617d3f0cb715",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "fs11",
+      "company": "Stripe",
+      "title": "Full Stack Engineer, Money Movement",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T03:57:37.503Z",
+      "postId": "0x8e0916311b0902d44d7870b111817a50d10cb3d0",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "fs11",
+      "company": "Stripe",
+      "title": "Full Stack Engineer, Money Movement",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T03:57:37.503Z",
+      "postId": "0xc84d6244e4abc349d96c1b3e37f31fe0cee798d3",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "fs11",
+      "company": "Stripe",
+      "title": "Full Stack Engineer, Money Movement",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T03:57:37.503Z",
+      "postId": "0xb2b95d590a5ada55f0262d363e5b2befdf693dbc",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "fs11",
+      "company": "Stripe",
+      "title": "Full Stack Engineer, Money Movement",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T03:57:37.503Z",
+      "postId": "0xc799577f05096cb188710f586a9c2728bf5c0f9c",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "fs11",
+      "company": "Stripe",
+      "title": "Full Stack Engineer, Money Movement",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T03:57:37.503Z",
+      "postId": "0x2f35f8f9f358853fe1cf560796eafa969e2c61a0",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "fs11",
+      "company": "Stripe",
+      "title": "Full Stack Engineer, Money Movement",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T03:57:37.503Z",
+      "postId": "0x16e1df76da8662dc930fc9be193d522f957878f6",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "fs11",
+      "company": "Stripe",
+      "title": "Full Stack Engineer, Money Movement",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T03:57:37.503Z",
+      "postId": "0xd9f4a8dc675765815d233825e4e18cac8d4f487d",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "fs11",
+      "company": "Stripe",
+      "title": "Full Stack Engineer, Money Movement",
+      "platform": "linkedin",
+      "postedAt": "2026-09-27T03:57:37.503Z",
+      "postId": "6ab894444b4b9f2c1c6143a0",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "fs11",
+      "company": "Stripe",
+      "title": "Full Stack Engineer, Money Movement",
+      "platform": "linkedin",
+      "postedAt": "2026-09-27T03:57:37.503Z",
+      "postId": "6ab8944f3d66d464e5c6c044",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "fs11",
+      "company": "Stripe",
+      "title": "Full Stack Engineer, Money Movement",
+      "platform": "linkedin",
+      "postedAt": "2026-09-27T03:57:37.503Z",
+      "postId": "urn:li:share:7509823712250982400",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "fs11",
+      "company": "Stripe",
+      "title": "Full Stack Engineer, Money Movement",
+      "platform": "facebook",
+      "postedAt": "2026-09-27T03:57:37.503Z",
+      "postId": "691827047618629_1099211769352724",
+      "verification": "verified"
+    },
+    {
+      "slug": "fs11",
+      "company": "Stripe",
+      "title": "Full Stack Engineer, Money Movement",
+      "platform": "instagram",
+      "postedAt": "2026-09-27T03:57:37.503Z",
+      "postId": "18021462404919842",
       "verification": "verified"
     }
   ]
