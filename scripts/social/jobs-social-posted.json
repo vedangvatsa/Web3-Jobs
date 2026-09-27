@@ -1,5 +1,5 @@
 {
-  "lastIndex": 266,
+  "lastIndex": 268,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -97,7 +97,9 @@
     "ops53",
     "aso39",
     "cess",
-    "infra22"
+    "infra22",
+    "cmp51",
+    "eng299"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -4404,502 +4406,6 @@
       "platform": "facebook",
       "postedAt": "2026-09-23T03:55:51.457Z",
       "postId": "691827047618629_1095487759725125",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls108",
-      "company": "Socket",
-      "title": "Account Executive, SMB",
-      "platform": "farcaster",
-      "postedAt": "2026-09-24T11:31:29.930Z",
-      "postId": "0x314d310bf62245a209d4dca97b608a8b4a81bfd4",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls108",
-      "company": "Socket",
-      "title": "Account Executive, SMB",
-      "platform": "farcaster",
-      "postedAt": "2026-09-24T11:31:29.930Z",
-      "postId": "0x80274d55fcc7bb258d8c929bcf8419c65388fbb5",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls108",
-      "company": "Socket",
-      "title": "Account Executive, SMB",
-      "platform": "farcaster",
-      "postedAt": "2026-09-24T11:31:29.930Z",
-      "postId": "0x93c31e2f1eecd7c0891884deb2f240fd2cece374",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls108",
-      "company": "Socket",
-      "title": "Account Executive, SMB",
-      "platform": "farcaster",
-      "postedAt": "2026-09-24T11:31:29.930Z",
-      "postId": "0x56e929fc0b07216bde3a742a5e0d206265ea101a",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls108",
-      "company": "Socket",
-      "title": "Account Executive, SMB",
-      "platform": "farcaster",
-      "postedAt": "2026-09-24T11:31:29.930Z",
-      "postId": "0x2444476b876e57ee90974ec4d3afa75810ad9011",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls108",
-      "company": "Socket",
-      "title": "Account Executive, SMB",
-      "platform": "farcaster",
-      "postedAt": "2026-09-24T11:31:29.930Z",
-      "postId": "0xa5c1015bd2ccb21041d8ac441f49fc07c1634dc5",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls108",
-      "company": "Socket",
-      "title": "Account Executive, SMB",
-      "platform": "farcaster",
-      "postedAt": "2026-09-24T11:31:29.930Z",
-      "postId": "0xa14dd5658d40424db85eb68891305f7667e1a816",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls108",
-      "company": "Socket",
-      "title": "Account Executive, SMB",
-      "platform": "farcaster",
-      "postedAt": "2026-09-24T11:31:29.930Z",
-      "postId": "0xfee6e043f7a8ba42db3f867f94b82ed1c36515ff",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls108",
-      "company": "Socket",
-      "title": "Account Executive, SMB",
-      "platform": "farcaster",
-      "postedAt": "2026-09-24T11:31:29.930Z",
-      "postId": "0x1372bc9fee04ae255cacb2cc278e731e320218cb",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls108",
-      "company": "Socket",
-      "title": "Account Executive, SMB",
-      "platform": "farcaster",
-      "postedAt": "2026-09-24T11:31:29.930Z",
-      "postId": "0x49bcbbbd1a76fbb311fd92c911976dfcf3bebfe7",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls108",
-      "company": "Socket",
-      "title": "Account Executive, SMB",
-      "platform": "farcaster",
-      "postedAt": "2026-09-24T11:31:29.930Z",
-      "postId": "0x8c0f92ee1af25984c17ccf9036c94b38432894ed",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls108",
-      "company": "Socket",
-      "title": "Account Executive, SMB",
-      "platform": "linkedin",
-      "postedAt": "2026-09-24T11:31:29.930Z",
-      "postId": "6ab50a22a6e17cb6c59f458f",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls108",
-      "company": "Socket",
-      "title": "Account Executive, SMB",
-      "platform": "facebook",
-      "postedAt": "2026-09-24T11:31:29.930Z",
-      "postId": "691827047618629_1096630242944210",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls108",
-      "company": "Socket",
-      "title": "Account Executive, SMB",
-      "platform": "instagram",
-      "postedAt": "2026-09-24T11:31:29.930Z",
-      "postId": "18218578681351943",
-      "verification": "verified"
-    },
-    {
-      "slug": "an25",
-      "company": "Robinhood",
-      "title": "Data Solutions & Analytics Senior Analyst",
-      "platform": "threads",
-      "postedAt": "2026-09-24T11:32:13.867Z",
-      "postId": "18070525226784258",
-      "verification": "verified",
-      "expectedText": "Robinhood is hiring Data Solutions & Analytics Senior Analyst: https://hashtagweb3.com/an25/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DdqyPYFka-M",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "an25",
-      "company": "Robinhood",
-      "title": "Data Solutions & Analytics Senior Analyst",
-      "platform": "bluesky",
-      "postedAt": "2026-09-24T11:32:13.867Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwb5u5jpl72n",
-      "verification": "verified"
-    },
-    {
-      "slug": "an25",
-      "company": "Robinhood",
-      "title": "Data Solutions & Analytics Senior Analyst",
-      "platform": "farcaster",
-      "postedAt": "2026-09-24T11:32:13.867Z",
-      "postId": "0x6758078effee00dcfbfc6f7d62211bb66f59df0f",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "an25",
-      "company": "Robinhood",
-      "title": "Data Solutions & Analytics Senior Analyst",
-      "platform": "farcaster",
-      "postedAt": "2026-09-24T11:32:13.867Z",
-      "postId": "0x1ddc511621dc2627312e41d91430fd96f5175300",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "an25",
-      "company": "Robinhood",
-      "title": "Data Solutions & Analytics Senior Analyst",
-      "platform": "farcaster",
-      "postedAt": "2026-09-24T11:32:13.867Z",
-      "postId": "0x0b8a1bf14423722754dbc2929a49ec4202916c6a",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "an25",
-      "company": "Robinhood",
-      "title": "Data Solutions & Analytics Senior Analyst",
-      "platform": "farcaster",
-      "postedAt": "2026-09-24T11:32:13.867Z",
-      "postId": "0x62486b8954189f6c1ceb4a6c2f2329546fecd216",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "an25",
-      "company": "Robinhood",
-      "title": "Data Solutions & Analytics Senior Analyst",
-      "platform": "farcaster",
-      "postedAt": "2026-09-24T11:32:13.867Z",
-      "postId": "0xb1b20ecc374ff7f856cfdf69aa7d3d10aecece26",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "an25",
-      "company": "Robinhood",
-      "title": "Data Solutions & Analytics Senior Analyst",
-      "platform": "farcaster",
-      "postedAt": "2026-09-24T11:32:13.867Z",
-      "postId": "0x7e9922d886adea83d16e26d0a004a236965fb479",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "an25",
-      "company": "Robinhood",
-      "title": "Data Solutions & Analytics Senior Analyst",
-      "platform": "farcaster",
-      "postedAt": "2026-09-24T11:32:13.867Z",
-      "postId": "0x7bc21a61558ed5ac4771cb56c722ee75c885fc54",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "an25",
-      "company": "Robinhood",
-      "title": "Data Solutions & Analytics Senior Analyst",
-      "platform": "farcaster",
-      "postedAt": "2026-09-24T11:32:13.867Z",
-      "postId": "0xc567d8ee9b8e1d4e31e46137fc52446cc3763b96",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "an25",
-      "company": "Robinhood",
-      "title": "Data Solutions & Analytics Senior Analyst",
-      "platform": "farcaster",
-      "postedAt": "2026-09-24T11:32:13.867Z",
-      "postId": "0xcd698112f3b49a25aaea5f9546378ac91a416a33",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "an25",
-      "company": "Robinhood",
-      "title": "Data Solutions & Analytics Senior Analyst",
-      "platform": "farcaster",
-      "postedAt": "2026-09-24T11:32:13.867Z",
-      "postId": "0x9a0fde337cfbd09a23541ae0442f4ac154bde94a",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "an25",
-      "company": "Robinhood",
-      "title": "Data Solutions & Analytics Senior Analyst",
-      "platform": "farcaster",
-      "postedAt": "2026-09-24T11:32:13.867Z",
-      "postId": "0xdee4e9776ad67d4191a32a4b173ae2d78d7eb675",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "an25",
-      "company": "Robinhood",
-      "title": "Data Solutions & Analytics Senior Analyst",
-      "platform": "farcaster",
-      "postedAt": "2026-09-24T11:32:13.867Z",
-      "postId": "0x083186727e7856dd1649267cd4de9059439749a3",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "an25",
-      "company": "Robinhood",
-      "title": "Data Solutions & Analytics Senior Analyst",
-      "platform": "farcaster",
-      "postedAt": "2026-09-24T11:32:13.867Z",
-      "postId": "0x54619f9976a655a1c8cc7416ada32b3a51e897f5",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "an25",
-      "company": "Robinhood",
-      "title": "Data Solutions & Analytics Senior Analyst",
-      "platform": "farcaster",
-      "postedAt": "2026-09-24T11:32:13.867Z",
-      "postId": "0x3f61e3a567071fdbefd4ba272cecb95fc78c14c7",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "an25",
-      "company": "Robinhood",
-      "title": "Data Solutions & Analytics Senior Analyst",
-      "platform": "farcaster",
-      "postedAt": "2026-09-24T11:32:13.867Z",
-      "postId": "0x6f526c9fc1274e0e5317271c1e85ee795858e531",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "an25",
-      "company": "Robinhood",
-      "title": "Data Solutions & Analytics Senior Analyst",
-      "platform": "farcaster",
-      "postedAt": "2026-09-24T11:32:13.867Z",
-      "postId": "0x310273805bd63276ff6cd9019f36f337be4487a4",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "an25",
-      "company": "Robinhood",
-      "title": "Data Solutions & Analytics Senior Analyst",
-      "platform": "farcaster",
-      "postedAt": "2026-09-24T11:32:13.867Z",
-      "postId": "0xf480e8fc0669f3fbbfb427e674da508d24ed384c",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "an25",
-      "company": "Robinhood",
-      "title": "Data Solutions & Analytics Senior Analyst",
-      "platform": "linkedin",
-      "postedAt": "2026-09-24T11:32:13.867Z",
-      "postId": "6ab50a4ca6e17cb6c59f4a55",
-      "verification": "verified"
-    },
-    {
-      "slug": "an25",
-      "company": "Robinhood",
-      "title": "Data Solutions & Analytics Senior Analyst",
-      "platform": "facebook",
-      "postedAt": "2026-09-24T11:32:13.867Z",
-      "postId": "691827047618629_1096630702944164",
-      "verification": "verified"
-    },
-    {
-      "slug": "an25",
-      "company": "Robinhood",
-      "title": "Data Solutions & Analytics Senior Analyst",
-      "platform": "instagram",
-      "postedAt": "2026-09-24T11:32:13.867Z",
-      "postId": "17911194696476699",
-      "verification": "verified"
-    },
-    {
-      "slug": "an28",
-      "company": "Solflare",
-      "title": "Senior Data Analyst",
-      "platform": "threads",
-      "postedAt": "2026-09-24T19:31:51.824Z",
-      "postId": "18141718366654542",
-      "verification": "verified",
-      "expectedText": "Solflare is hiring Senior Data Analyst: https://hashtagweb3.com/an28/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DdrpIYJD8RE",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "an28",
-      "company": "Solflare",
-      "title": "Senior Data Analyst",
-      "platform": "bluesky",
-      "postedAt": "2026-09-24T19:31:51.824Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwbynxynz72e",
-      "verification": "verified"
-    },
-    {
-      "slug": "an28",
-      "company": "Solflare",
-      "title": "Senior Data Analyst",
-      "platform": "farcaster",
-      "postedAt": "2026-09-24T19:31:51.824Z",
-      "postId": "0x77f43bbfa84c5826d84c6a9953e11196cd90f250",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "an28",
-      "company": "Solflare",
-      "title": "Senior Data Analyst",
-      "platform": "farcaster",
-      "postedAt": "2026-09-24T19:31:51.824Z",
-      "postId": "0x738fc4aac48135dd2d227690736585824a14ba64",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "an28",
-      "company": "Solflare",
-      "title": "Senior Data Analyst",
-      "platform": "farcaster",
-      "postedAt": "2026-09-24T19:31:51.824Z",
-      "postId": "0xc4a8ea0a162b04b90303c24b7a3e5295eb0660b5",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "an28",
-      "company": "Solflare",
-      "title": "Senior Data Analyst",
-      "platform": "farcaster",
-      "postedAt": "2026-09-24T19:31:51.824Z",
-      "postId": "0x217e5b7ece1b43d74ab20980790b54cbc5a10c2f",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "an28",
-      "company": "Solflare",
-      "title": "Senior Data Analyst",
-      "platform": "farcaster",
-      "postedAt": "2026-09-24T19:31:51.824Z",
-      "postId": "0xa049095c80000bf2adffef4ebf258165185cb8d4",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "an28",
-      "company": "Solflare",
-      "title": "Senior Data Analyst",
-      "platform": "farcaster",
-      "postedAt": "2026-09-24T19:31:51.824Z",
-      "postId": "0x97296df601e42bdc3b6764d3001f331e5a7255a0",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "an28",
-      "company": "Solflare",
-      "title": "Senior Data Analyst",
-      "platform": "farcaster",
-      "postedAt": "2026-09-24T19:31:51.824Z",
-      "postId": "0x50a434eb7ae123c96ead861c9f9392c79900924c",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "an28",
-      "company": "Solflare",
-      "title": "Senior Data Analyst",
-      "platform": "farcaster",
-      "postedAt": "2026-09-24T19:31:51.824Z",
-      "postId": "0x8aa5e139ba463c21318d9fa6b7ec9566274317f5",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "an28",
-      "company": "Solflare",
-      "title": "Senior Data Analyst",
-      "platform": "farcaster",
-      "postedAt": "2026-09-24T19:31:51.824Z",
-      "postId": "0xe234befe3bb2b629b4ba30c9de395d0ef09f7e26",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "an28",
-      "company": "Solflare",
-      "title": "Senior Data Analyst",
-      "platform": "farcaster",
-      "postedAt": "2026-09-24T19:31:51.824Z",
-      "postId": "0xe56a0d2c1f82e41fa78ab21ee9c4b5f1bf31070a",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "an28",
-      "company": "Solflare",
-      "title": "Senior Data Analyst",
-      "platform": "farcaster",
-      "postedAt": "2026-09-24T19:31:51.824Z",
-      "postId": "0x8465836d1d969373af9be2d8a5fea78468ca3d74",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "an28",
-      "company": "Solflare",
-      "title": "Senior Data Analyst",
-      "platform": "farcaster",
-      "postedAt": "2026-09-24T19:31:51.824Z",
-      "postId": "0x9baf43045911143c68052709ce3ad63495983553",
-      "account": "channel:solana",
       "verification": "verified"
     },
     {
@@ -10025,6 +9531,516 @@
       "platform": "instagram",
       "postedAt": "2026-09-27T15:47:29.249Z",
       "postId": "18105916463208328",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp51",
+      "company": "GSR Markets",
+      "title": "Vice President - Legal",
+      "platform": "x",
+      "postedAt": "2026-09-27T19:32:03.161Z",
+      "postId": "6ab96f3336a0dcfcb3e22b11",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "GSR Markets is hiring Vice President - Legal\n\nhttps://hashtagweb3.com/cmp51/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2104293008401203547"
+    },
+    {
+      "slug": "cmp51",
+      "company": "GSR Markets",
+      "title": "Vice President - Legal",
+      "platform": "threads",
+      "postedAt": "2026-09-27T19:32:03.161Z",
+      "postId": "18135736453735985",
+      "verification": "verified",
+      "expectedText": "GSR Markets is hiring Vice President - Legal: https://hashtagweb3.com/cmp51/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DdzXilVj4G0",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "cmp51",
+      "company": "GSR Markets",
+      "title": "Vice President - Legal",
+      "platform": "bluesky",
+      "postedAt": "2026-09-27T19:32:03.161Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwjk2ympo424",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp51",
+      "company": "GSR Markets",
+      "title": "Vice President - Legal",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T19:32:03.161Z",
+      "postId": "0x36a25b9f1ae7a4b06b9f5e535d93676c4057faa1",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp51",
+      "company": "GSR Markets",
+      "title": "Vice President - Legal",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T19:32:03.161Z",
+      "postId": "0xa49dcaf2ecfd6571cf8764acbbdb8b6b50336bd5",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp51",
+      "company": "GSR Markets",
+      "title": "Vice President - Legal",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T19:32:03.161Z",
+      "postId": "0xea16b4b89c46b1b0ed3a43189336ad63be7be379",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp51",
+      "company": "GSR Markets",
+      "title": "Vice President - Legal",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T19:32:03.161Z",
+      "postId": "0x6351601bd24e93b3879ad26146976f8da6737590",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp51",
+      "company": "GSR Markets",
+      "title": "Vice President - Legal",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T19:32:03.161Z",
+      "postId": "0x756ac3cb78483613ac5f4be484c63084997c629d",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp51",
+      "company": "GSR Markets",
+      "title": "Vice President - Legal",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T19:32:03.161Z",
+      "postId": "0x0f2388420dd156ee228860961a57f9e5250a8e78",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp51",
+      "company": "GSR Markets",
+      "title": "Vice President - Legal",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T19:32:03.161Z",
+      "postId": "0x993f2f92a3acb39a4e397106693ff71c8af0a396",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp51",
+      "company": "GSR Markets",
+      "title": "Vice President - Legal",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T19:32:03.161Z",
+      "postId": "0x9aec9e7773653eb5564afffa89d1615b59e3ad0b",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp51",
+      "company": "GSR Markets",
+      "title": "Vice President - Legal",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T19:32:03.161Z",
+      "postId": "0x249bdc43a0e61c2e9109fff1d53a5544ae3d5a90",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp51",
+      "company": "GSR Markets",
+      "title": "Vice President - Legal",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T19:32:03.161Z",
+      "postId": "0x346abbc095fd2d35456e3686d32abdfa88671b6e",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp51",
+      "company": "GSR Markets",
+      "title": "Vice President - Legal",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T19:32:03.161Z",
+      "postId": "0x0d2bdd98713049a535de75350cb51c725bf586b2",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp51",
+      "company": "GSR Markets",
+      "title": "Vice President - Legal",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T19:32:03.161Z",
+      "postId": "0x814b265c7134f2ee1794c51179a50230c9cbb6fc",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp51",
+      "company": "GSR Markets",
+      "title": "Vice President - Legal",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T19:32:03.161Z",
+      "postId": "0xa7ffd04d35d929ca57b17a1ee8248f296dd81fbe",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp51",
+      "company": "GSR Markets",
+      "title": "Vice President - Legal",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T19:32:03.161Z",
+      "postId": "0x9723540ff7bb9b223c19a7f734b01260263a0838",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp51",
+      "company": "GSR Markets",
+      "title": "Vice President - Legal",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T19:32:03.161Z",
+      "postId": "0x9b5c90a9b2ab52f976f5195f58159cd9c00c98f1",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp51",
+      "company": "GSR Markets",
+      "title": "Vice President - Legal",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T19:32:03.161Z",
+      "postId": "0xb7e8e536346f3d8c6daaae2be23e954ef87d290d",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp51",
+      "company": "GSR Markets",
+      "title": "Vice President - Legal",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T19:32:03.161Z",
+      "postId": "0x5404c7e9290cb3b36f5297db35748a669b10b949",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp51",
+      "company": "GSR Markets",
+      "title": "Vice President - Legal",
+      "platform": "linkedin",
+      "postedAt": "2026-09-27T19:32:03.161Z",
+      "postId": "6ab96f4543493a0ede9bd7ac",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp51",
+      "company": "GSR Markets",
+      "title": "Vice President - Legal",
+      "platform": "linkedin",
+      "postedAt": "2026-09-27T19:32:03.161Z",
+      "postId": "6ab96f4f612c9e6ac93151d2",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp51",
+      "company": "GSR Markets",
+      "title": "Vice President - Legal",
+      "platform": "linkedin",
+      "postedAt": "2026-09-27T19:32:03.161Z",
+      "postId": "urn:li:share:7510058862541029377",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp51",
+      "company": "GSR Markets",
+      "title": "Vice President - Legal",
+      "platform": "facebook",
+      "postedAt": "2026-09-27T19:32:03.161Z",
+      "postId": "691827047618629_1099884669285434",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp51",
+      "company": "GSR Markets",
+      "title": "Vice President - Legal",
+      "platform": "instagram",
+      "postedAt": "2026-09-27T19:32:03.161Z",
+      "postId": "17901917697593160",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng299",
+      "company": "Stripe",
+      "title": "Integration Engineer, Professional Services",
+      "platform": "x",
+      "postedAt": "2026-09-27T19:33:06.283Z",
+      "postId": "6ab96f72612c9e6ac931544d",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Stripe is hiring Integration Engineer, Professional Services\n\nhttps://hashtagweb3.com/eng299/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2104293273053393263"
+    },
+    {
+      "slug": "eng299",
+      "company": "Stripe",
+      "title": "Integration Engineer, Professional Services",
+      "platform": "threads",
+      "postedAt": "2026-09-27T19:33:06.283Z",
+      "postId": "18120796784315369",
+      "verification": "verified",
+      "expectedText": "Stripe is hiring Integration Engineer, Professional Services: https://hashtagweb3.com/eng299/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DdzXqRGj9LJ",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "eng299",
+      "company": "Stripe",
+      "title": "Integration Engineer, Professional Services",
+      "platform": "bluesky",
+      "postedAt": "2026-09-27T19:33:06.283Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwjk4vocm42z",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng299",
+      "company": "Stripe",
+      "title": "Integration Engineer, Professional Services",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T19:33:06.283Z",
+      "postId": "0xe93ff0cecd3ec3c750595fde672bae358239d056",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng299",
+      "company": "Stripe",
+      "title": "Integration Engineer, Professional Services",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T19:33:06.283Z",
+      "postId": "0xeda0058f55be080e4ef748babbc11cac8d2bcd24",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng299",
+      "company": "Stripe",
+      "title": "Integration Engineer, Professional Services",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T19:33:06.283Z",
+      "postId": "0x6936937c305f72788ba17cecdb69986366a5b34b",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng299",
+      "company": "Stripe",
+      "title": "Integration Engineer, Professional Services",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T19:33:06.283Z",
+      "postId": "0x0b78e5c2c6a4e9bee703b436dcc25e1448bbdc1f",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng299",
+      "company": "Stripe",
+      "title": "Integration Engineer, Professional Services",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T19:33:06.283Z",
+      "postId": "0x81f50bba703e25bd36982b62daf29030b610a41b",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng299",
+      "company": "Stripe",
+      "title": "Integration Engineer, Professional Services",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T19:33:06.283Z",
+      "postId": "0x1e9996b316d3753c61fc19dbd7634432f1b2683e",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng299",
+      "company": "Stripe",
+      "title": "Integration Engineer, Professional Services",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T19:33:06.283Z",
+      "postId": "0x8f49f3d1e2bbc909d94f8446eafac258107bf768",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng299",
+      "company": "Stripe",
+      "title": "Integration Engineer, Professional Services",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T19:33:06.283Z",
+      "postId": "0x6c36738f8ab6c22c12c5baf03febbcedebb67f83",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng299",
+      "company": "Stripe",
+      "title": "Integration Engineer, Professional Services",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T19:33:06.283Z",
+      "postId": "0x2000af16ddb6d0d4f969314a42dfb8e7f4975676",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng299",
+      "company": "Stripe",
+      "title": "Integration Engineer, Professional Services",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T19:33:06.283Z",
+      "postId": "0x122de32f3c576d460f47a2a0e3d8e50051655c4e",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng299",
+      "company": "Stripe",
+      "title": "Integration Engineer, Professional Services",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T19:33:06.283Z",
+      "postId": "0x080ab9abc0fe4fa4eff72d3913c6e92e47763d9a",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng299",
+      "company": "Stripe",
+      "title": "Integration Engineer, Professional Services",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T19:33:06.283Z",
+      "postId": "0xacc41febca836f9b17f40e9b22016de2a868f78e",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng299",
+      "company": "Stripe",
+      "title": "Integration Engineer, Professional Services",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T19:33:06.283Z",
+      "postId": "0xb5a08d9ad9e249bda1a8bb28fd59c30b14342f35",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng299",
+      "company": "Stripe",
+      "title": "Integration Engineer, Professional Services",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T19:33:06.283Z",
+      "postId": "0x0f4c50ddc56fd87637480fcbb90f101e1083d3f0",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng299",
+      "company": "Stripe",
+      "title": "Integration Engineer, Professional Services",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T19:33:06.283Z",
+      "postId": "0x041ef5d0b26eea17c4472f62b32b3ceee8ac0454",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng299",
+      "company": "Stripe",
+      "title": "Integration Engineer, Professional Services",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T19:33:06.283Z",
+      "postId": "0x1e7824137af08b9d0e1023529b2f9ebde9ed46f3",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng299",
+      "company": "Stripe",
+      "title": "Integration Engineer, Professional Services",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T19:33:06.283Z",
+      "postId": "0x013773c895205d3e4a4617fcdab2d025ae2c5605",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng299",
+      "company": "Stripe",
+      "title": "Integration Engineer, Professional Services",
+      "platform": "linkedin",
+      "postedAt": "2026-09-27T19:33:06.283Z",
+      "postId": "6ab96f8436a0dcfcb3e22fa3",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng299",
+      "company": "Stripe",
+      "title": "Integration Engineer, Professional Services",
+      "platform": "linkedin",
+      "postedAt": "2026-09-27T19:33:06.283Z",
+      "postId": "6ab96f8f43493a0ede9bdd4a",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng299",
+      "company": "Stripe",
+      "title": "Integration Engineer, Professional Services",
+      "platform": "linkedin",
+      "postedAt": "2026-09-27T19:33:06.283Z",
+      "postId": "urn:li:share:7510059130410250240",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng299",
+      "company": "Stripe",
+      "title": "Integration Engineer, Professional Services",
+      "platform": "facebook",
+      "postedAt": "2026-09-27T19:33:06.283Z",
+      "postId": "691827047618629_1099885369285364",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng299",
+      "company": "Stripe",
+      "title": "Integration Engineer, Professional Services",
+      "platform": "instagram",
+      "postedAt": "2026-09-27T19:33:06.283Z",
+      "postId": "18128381233747366",
       "verification": "verified"
     }
   ]
