@@ -1,6 +1,6 @@
 {
   "06122a12-5456-450a-9220-d6414bb49ff2": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-09-27T11:34:59.932Z",
     "stories": [
       {
@@ -28,6 +28,8 @@
         "source": "The Block",
         "originalTitle": "Ethena expands USDe backing strategy into bStocks and equity perpetuals on Binance"
       }
-    ]
+    ],
+    "messageId": 65707,
+    "sentAt": "2026-09-27T11:35:02.507Z"
   }
 }
