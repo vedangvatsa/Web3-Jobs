@@ -52,10 +52,7 @@ export const metadata: Metadata = {
   type:"website",
   locale:"en_US",
   url: siteConfig.url,
-  title: {
-   default: `Web3 Jobs and Crypto Careers | ${siteConfig.name}`,
-   template: `%s | ${siteConfig.name}`,
-  },
+  title: `Web3 Jobs and Crypto Careers | ${siteConfig.name}`,
   description: siteConfig.description,
   siteName: siteConfig.name,
   images: [
@@ -69,10 +66,7 @@ export const metadata: Metadata = {
  },
  twitter: {
   card:"summary_large_image",
-  title: {
-   default: `Web3 Jobs and Crypto Careers | ${siteConfig.name}`,
-   template: `%s | ${siteConfig.name}`,
-  },
+  title: `Web3 Jobs and Crypto Careers | ${siteConfig.name}`,
   description: siteConfig.description,
   creator:"@hashtag_web3",
   images: [ogImageUrl],
