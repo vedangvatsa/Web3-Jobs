@@ -1,6 +1,6 @@
 {
   "1c5307c0-d120-42d1-ba32-a5427cca999e": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-09-27T11:35:45.033Z",
     "stories": [
       {
@@ -27,6 +27,8 @@
         "source": "Hashtag Web3",
         "originalTitle": "Kalshi Loses Sixth Circuit Appeal Over Sports Contracts"
       }
-    ]
+    ],
+    "messageId": 155479,
+    "sentAt": "2026-09-27T11:35:48.446Z"
   }
 }
