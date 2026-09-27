@@ -11,6 +11,7 @@ import satori from 'satori';
 import sharp from 'sharp';
 import { Resvg } from '@resvg/resvg-js';
 import { compressOgPng } from './lib/og-png-compress';
+import { hiringReportStats } from '../src/lib/hiring-report-stats';
 
 const ROOT = process.cwd();
 const OUT_PAGES = path.join(ROOT, 'public', 'og', 'pages');
@@ -34,6 +35,7 @@ const PAGE_CARDS: Array<{ slug: string; heading: string }> = [
   { slug: 'privacy', heading: 'Privacy Policy' },
   { slug: 'developers', heading: 'Developer Portal' },
   { slug: 'interview-questions', heading: 'Interview Questions' },
+  { slug: 'web3-hiring-report', heading: `Web3 Hiring Report ${hiringReportStats.year}` },
 ];
 
 function sha(input: string): string {

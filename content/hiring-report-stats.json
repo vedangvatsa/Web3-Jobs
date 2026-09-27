@@ -1,360 +1,890 @@
 {
-  "generatedAt": "2026-09-15T12:34:51.883Z",
-  "snapshotLabel": "September 2026",
-  "listings": 6069,
-  "companies": 324,
-  "withDesc": 6050,
-  "withDescPct": 99.7,
-  "top10SharePct": 40,
+  "generatedAt": "2026-09-27T10:50:07.536Z",
+  "snapshotLabel": "27 September 2026",
+  "year": 2026,
+  "sourceCommit": "bf22c21953fe5614e8c25370640f628aef93bac6",
+  "inputSha256": {
+    "content/jobs-runtime.json": "d2770f84fd70c085aaae0bbd8fdb3b6cdee62b51cc3ee82a584cd7cc0565cb13",
+    "content/job-description-shards/job-descriptions-63.json": "e9e51ebe442c496d83f86b89bea6b116d7cf6a7e039802743143781537f03d3a",
+    "content/job-description-shards/job-descriptions-09.json": "5a6a05fa11d6a0fd09e09f9820c9fbe4ff6099b18ddcd5b598e44b84f567f980",
+    "content/job-description-shards/job-descriptions-23.json": "422915ef5792c19abc14c50f871cc7470337a9f1a8bd1a6e8ab7c115dd397c9b",
+    "content/job-description-shards/job-descriptions-12.json": "f7e572e4ae1d8b12edf7cf2922808834a0905818edfaeab0dec4db4fdec9c1f8",
+    "content/job-description-shards/job-descriptions-07.json": "63320f0f136126233d3e70c7d8956f8b2faab4494d9816cb7b1ead52762e966d",
+    "content/job-description-shards/job-descriptions-36.json": "34d39bee6a3faab4c05c796bd4da2698a3940e020ad6d8cb0e1117005a937d84",
+    "content/job-description-shards/job-descriptions-14.json": "f944264227c6662ef4b478cd745192966191516351d32e00cc776bf294821774",
+    "content/job-description-shards/job-descriptions-18.json": "96e53d66d2a7f37afe9e3ed77cab7610efbdcc0cab6d9cc76db3465a0be3e798",
+    "content/job-description-shards/job-descriptions-11.json": "ee87587e57fd5a0adcc5743789840c70c1036bc93274feec80b6cf4f962caa36",
+    "content/job-description-shards/job-descriptions-39.json": "45e9b22834ad481d431604c12f28d71a597f27a8ef7423d07275c9ab7a99b21d",
+    "content/job-description-shards/job-descriptions-25.json": "d915b998c79cc6b795c052f7bb25010e59d92398f59ceb59cd3ceb930b21d395",
+    "content/job-description-shards/job-descriptions-32.json": "44c25d159f51c764be3388a60e924b0741fbfceaa82a1fbb5bb03536e39e0e58",
+    "content/job-description-shards/job-descriptions-62.json": "3899388e65fd974d66125deb57dde9e7d216142ceb861442b8227b3f2972fb9f",
+    "content/job-description-shards/job-descriptions-33.json": "fcee6ee315d8b16b75f8d58cdc2dd83be8a587bc5c90b274312124851447b54d",
+    "content/job-description-shards/job-descriptions-06.json": "1b3efb2a4a5e4f3a5da9cc18b27da30d30ce904c5956fc9d28e01719c900126b",
+    "content/job-description-shards/job-descriptions-48.json": "6ab4116fe6fdf49c12fbd16a7e18caa6248dccc77c42e2f275cc7ea61f7c5a8a",
+    "content/job-description-shards/job-descriptions-02.json": "7db744f4e71eeedf054fef6d7e18c305804e80f878310bb9d9ae19adee4cb885",
+    "content/job-description-shards/job-descriptions-56.json": "70b8ba9e2c1b7970492692328f9d9120b68f6de14f877ffd9a38df69c53ac990",
+    "content/job-description-shards/job-descriptions-52.json": "16bbb7d57d8d53fafe765994958f005da467337b42f7336b2b5901c4f7eadc8e",
+    "content/job-description-shards/job-descriptions-17.json": "fb4e92aa1bd7596ae1ae8cedaa939c971afb1b4b7b38bfacc19c59475bed3a17",
+    "content/job-description-shards/job-descriptions-20.json": "37e24e959a6e04adfe55f72412731626bc710e723a5b19d05196ea39c634cd20",
+    "content/job-description-shards/job-descriptions-24.json": "08086fd2a4fcdec9e2f7f0a1b0e0a6e5468abcbe88db29aa01a96d4a7b8795e5",
+    "content/job-description-shards/job-descriptions-22.json": "288f46c95f109b642879aedef842a9b36296667e516fdc8df1fe270f78941d6f",
+    "content/job-description-shards/job-descriptions-13.json": "ed0436af4cd83dc7418a9a12b7e83ffa189902c6e7a4b6e09fe9083d54488cc1",
+    "content/job-description-shards/job-descriptions-49.json": "d3a3f5734519e1baa5ac509e35fe6cd97a076c6ba78beeea3ef8b65e592409db",
+    "content/job-description-shards/job-descriptions-26.json": "3e873e5928dc7c7615a7b8bbcdcb04b683d8e2b983f01a5969e588e7a7b1ed6b",
+    "content/job-description-shards/job-descriptions-53.json": "b1141756f717d9fde72b75ad14a3def625d3b2ff65aceb49d549589f6677977b",
+    "content/job-description-shards/job-descriptions-00.json": "efad61471f78cc9320b1538baa8313bea69620e2e17df7172a7e45081d29aeae",
+    "content/job-description-shards/job-descriptions-38.json": "69ef8ccfc723009bc6a41252ff29eb934b1da9b1216fa1a85c5d2eafb82e389d",
+    "content/job-description-shards/job-descriptions-60.json": "06093fca0697217a600ca5d11d30179c278a9c924a016cab47b07685434d5561",
+    "content/job-description-shards/job-descriptions-47.json": "944785478e14b13f65a4d6608c9ee5a2190a2ddde2ef014c181bf199db2aba6c",
+    "content/job-description-shards/job-descriptions-41.json": "c624adcf3b5426aff22d37171ef778e687c11dbb4201b5e3659a031835573f27",
+    "content/job-description-shards/job-descriptions-44.json": "17a38ad4e9ab5ec6f8f6cc836862b1459e60ba9b34e4ea35d7b63555a47e1cdc",
+    "content/job-description-shards/job-descriptions-54.json": "61d762dc1bac1434ecf757bb13e1c3f97371e5fa56386c617fdee31f0643be9e",
+    "content/job-description-shards/job-descriptions-50.json": "2eb9185cb119869238dc7d3ff1a6bd04bf5fd092d84199c50a75e04c616671f2",
+    "content/job-description-shards/job-descriptions-46.json": "1408dab05040e260833719a254edb78513accb3e7bef7a330f91312026722af9",
+    "content/job-description-shards/job-descriptions-19.json": "32294ff282f1933eeff7eaafdf1617597b697408a66aa08fa8702eaa0811216c",
+    "content/job-description-shards/job-descriptions-29.json": "0a6f7951ab817efa7f93aaeb8870f9b3ecfc0c41d42269d645f1eef155ceb50b",
+    "content/job-description-shards/job-descriptions-45.json": "cfe1d0bc1c0186a5ef6b7a09eb4b6d7dab94f4c60c9e57f57b0f79524919580a",
+    "content/job-description-shards/job-descriptions-42.json": "5552582a994234a85a4c5a1441ecc8eb8f4431734fd9693214b4146ccc5a6fdb",
+    "content/job-description-shards/job-descriptions-61.json": "020bb2fdf067e063568b3ff7d33488fee169bdf349989f94cafcabc9118bd3df",
+    "content/job-description-shards/job-descriptions-55.json": "2cb3d9c1ae2ee950a0a0f51e12b7f632e61dbc1ade91b24ceb85c6af2e2468fe",
+    "content/job-description-shards/job-descriptions-08.json": "6c9a6b03384d04ad6ba416786d7990cf498495a7d7dc9d031fd3197d55f515e9",
+    "content/job-description-shards/job-descriptions-16.json": "6066fa455a3d96db599f58d5084003bf4f6c2b5564c28fbb31dc8e9e4c0e6f45",
+    "content/job-description-shards/job-descriptions-30.json": "cf286fbdcfa42cbc072dfcf4b15f6efb7403287647c8aa65125b55aa66734c69",
+    "content/job-description-shards/job-descriptions-43.json": "eb55e2565acaee1599ae88fa3f42d14659a11b7c9a70eb444bfd957b0027fd92",
+    "content/job-description-shards/job-descriptions-05.json": "83dda8c5265e20965e474561f4a6676f0d3cd96aed42ac558d38b19e8fe57618",
+    "content/job-description-shards/job-descriptions-15.json": "c3018f9423e8cdeb9fd1b1999376f818ea262d6a3077e8001f95720b92e5fbb8",
+    "content/job-description-shards/job-descriptions-37.json": "6076b35b4093c1e0310d793a3bfc5ac7c61ba2dd111f2161565eefaae12e3496",
+    "content/job-description-shards/job-descriptions-40.json": "612cafc1c69f920c2d077c78b59289d3196e2659d14542ce6bf4df4592c3a2c4",
+    "content/job-description-shards/job-descriptions-31.json": "6ef30281d33f6313e6dfd7ff9b34afad188b2ce137bd44a909aad97fd4d7a25a",
+    "content/job-description-shards/job-descriptions-59.json": "0b4507d727b01aa2fe9a6ec7843d48be576929628bae995ea105f6ca1df6c832",
+    "content/job-description-shards/job-descriptions-03.json": "31554ac38f4c04753b67b032d481c1cdf29921231e049c52a4cf725dd45364af",
+    "content/job-description-shards/job-descriptions-51.json": "b6fdb0410a73c8ddee022b1718a04adc445c0a1d0e0e907c77629118069503a2",
+    "content/job-description-shards/job-descriptions-27.json": "c40902c29c00690024f3c412add168bc33bab6205401b2671e6b4dcdbb32124c",
+    "content/job-description-shards/job-descriptions-35.json": "fbc2a1841f448ecc1d61735dcec43a3ada810df1bdb846a8465edf24d82a45ed",
+    "content/job-description-shards/job-descriptions-58.json": "3b2d78eceea61bfb7d7689760790f8a96c767d426907df3730e2f60a5ac2475e",
+    "content/job-description-shards/job-descriptions-01.json": "9830d99968d2f5cedea68cec8fa98256e0298146f1d2a5a0b05c39934ed6b91a",
+    "content/job-description-shards/job-descriptions-04.json": "4c09b5d8f66c9e344bd927435efa0d86441c8324040cd61795bfeb85a974d576",
+    "content/job-description-shards/job-descriptions-10.json": "87aa30fb4441a83ece018982f7cade962cef29b951785907203726e572dd05c7",
+    "content/job-description-shards/job-descriptions-34.json": "601e5d78bdc035413aae6e5c62ed727760c018de4286845e14b1902dadc0dbc6",
+    "content/job-description-shards/job-descriptions-28.json": "6d6c828749a1ef08069f85823dabdbeb3d347ec9159ed055e45c7b59cebad766",
+    "content/job-description-shards/job-descriptions-21.json": "97daed0a23232b98838c861334a9be61d1bc1f5c493fcdb1480c179b74ad8a23",
+    "content/job-description-shards/job-descriptions-57.json": "7093799d35db5d6cd55a2b5f877e8843e82396afeebd29ca476e1946e8b960ab"
+  },
+  "listings": 6495,
+  "companies": 328,
+  "excludedInactiveOrDuplicateRows": 0,
+  "withDescription": {
+    "count": 6495,
+    "pct": 100
+  },
+  "top10SharePct": 39.7,
   "topCompanies": [
     {
-      "name": "Stripe",
-      "count": 625
+      "label": "Stripe",
+      "count": 695,
+      "pct": 10.7
     },
     {
-      "name": "OKX",
-      "count": 339
+      "label": "OKX",
+      "count": 340,
+      "pct": 5.2
     },
     {
-      "name": "Binance",
-      "count": 285
+      "label": "Binance",
+      "count": 299,
+      "pct": 4.6
     },
     {
-      "name": "Coinbase",
-      "count": 210
+      "label": "Block",
+      "count": 212,
+      "pct": 3.3
     },
     {
-      "name": "Block",
-      "count": 205
+      "label": "Coinbase",
+      "count": 204,
+      "pct": 3.1
     },
     {
-      "name": "Jane Street",
-      "count": 179
+      "label": "Jane Street",
+      "count": 180,
+      "pct": 2.8
     },
     {
-      "name": "Tangem",
-      "count": 171
+      "label": "Tangem",
+      "count": 171,
+      "pct": 2.6
     },
     {
-      "name": "Ramp",
-      "count": 145
+      "label": "DRW",
+      "count": 163,
+      "pct": 2.5
     },
     {
-      "name": "Bybit",
-      "count": 144
+      "label": "Robinhood",
+      "count": 159,
+      "pct": 2.4
     },
     {
-      "name": "Ripple",
-      "count": 124
+      "label": "Ramp",
+      "count": 158,
+      "pct": 2.4
     }
   ],
   "departments": [
     {
       "label": "Engineering",
-      "count": 2167,
-      "pct": 35.7
+      "count": 2257,
+      "pct": 34.7
     },
     {
-      "label": "Sales & BD",
-      "count": 650,
-      "pct": 10.7
+      "label": "Other / unclassified",
+      "count": 885,
+      "pct": 13.6
+    },
+    {
+      "label": "Sales & Business Development",
+      "count": 750,
+      "pct": 11.5
     },
     {
       "label": "Product & Design",
-      "count": 598,
-      "pct": 9.9
+      "count": 633,
+      "pct": 9.7
     },
     {
       "label": "Marketing",
-      "count": 470,
-      "pct": 7.7
+      "count": 450,
+      "pct": 6.9
     },
     {
-      "label": "Operations",
-      "count": 434,
-      "pct": 7.2
+      "label": "Operations & Support",
+      "count": 450,
+      "pct": 6.9
     },
     {
       "label": "Compliance & Legal",
-      "count": 327,
-      "pct": 5.4
+      "count": 376,
+      "pct": 5.8
     },
     {
       "label": "Finance",
-      "count": 252,
-      "pct": 4.2
+      "count": 297,
+      "pct": 4.6
+    },
+    {
+      "label": "Human Resources",
+      "count": 203,
+      "pct": 3.1
+    },
+    {
+      "label": "Trading",
+      "count": 194,
+      "pct": 3
     }
   ],
-  "otherDeptPct": 14.2,
-  "engineeringCount": 2167,
-  "seniority": {
-    "mid": {
-      "count": 3826,
-      "pct": 63
+  "seniority": [
+    {
+      "label": "No matched seniority term",
+      "count": 3759,
+      "pct": 57.9
     },
-    "senior": {
-      "count": 1539,
-      "pct": 25.4
+    {
+      "label": "Senior / lead",
+      "count": 1939,
+      "pct": 29.9
     },
-    "executive": {
-      "count": 535,
-      "pct": 8.8
+    {
+      "label": "Director / executive",
+      "count": 557,
+      "pct": 8.6
     },
-    "entry": {
-      "count": 169,
-      "pct": 2.8
-    },
-    "internTitlePct": 1.9
-  },
-  "location": {
-    "usa": {
-      "count": 1913,
-      "pct": 31.5
-    },
-    "europe": {
-      "count": 600,
-      "pct": 9.9
-    },
-    "singapore": {
-      "count": 372,
-      "pct": 6.1
-    },
-    "hongKong": {
-      "count": 264,
-      "pct": 4.3
-    },
-    "remoteField": {
-      "count": 1170,
-      "pct": 19.3
-    },
-    "middleEast": {
-      "count": 84,
-      "pct": 1.4
-    },
-    "latam": {
-      "count": 88,
-      "pct": 1.4
-    },
-    "africa": {
-      "count": 11,
-      "pct": 0.2
-    },
-    "other": {
-      "count": 1567,
-      "pct": 25.8
-    },
-    "remoteBucket": {
-      "count": 1170,
-      "pct": 19.3
+    {
+      "label": "Entry / internship",
+      "count": 240,
+      "pct": 3.7
     }
-  },
-  "jdRemote": {
-    "count": 2148,
-    "pct": 35.4
-  },
-  "jdHybrid": {
-    "count": 655,
-    "pct": 10.8
-  },
-  "jdContract": {
-    "count": 548,
-    "pct": 9
-  },
-  "jdFullTime": {
-    "count": 695,
-    "pct": 11.5
-  },
-  "keywords": {
-    "dataAnalysis": {
-      "count": 864,
-      "pct": 14.2
-    },
-    "python": {
-      "count": 1091,
-      "pct": 18
-    },
-    "sql": {
-      "count": 752,
-      "pct": 12.4
-    },
-    "projectMgmt": {
-      "count": 454,
-      "pct": 7.5
-    },
-    "java": {
-      "count": 455,
-      "pct": 7.5
-    },
-    "blockchain": {
-      "count": 2272,
-      "pct": 37.4
-    },
-    "ai": {
-      "count": 3010,
-      "pct": 49.6
-    },
-    "typescript": {
-      "count": 350,
-      "pct": 5.8
-    },
-    "javascript": {
-      "count": 221,
-      "pct": 3.6
-    },
-    "react": {
-      "count": 315,
-      "pct": 5.2
-    },
-    "aws": {
-      "count": 591,
-      "pct": 9.7
-    },
-    "go": {
-      "count": 148,
-      "pct": 2.4
-    },
-    "communication": {
-      "count": 3055,
-      "pct": 50.3
-    },
-    "compliance": {
-      "count": 2186,
-      "pct": 36
-    },
-    "stakeholder": {
-      "count": 292,
+  ],
+  "locations": [
+    {
+      "label": "Remote",
+      "count": 314,
       "pct": 4.8
     },
-    "risk": {
-      "count": 507,
-      "pct": 8.4
+    {
+      "label": "New York",
+      "count": 296,
+      "pct": 4.6
     },
-    "aml": {
-      "count": 433,
-      "pct": 7.1
+    {
+      "label": "Singapore",
+      "count": 293,
+      "pct": 4.5
     },
-    "negotiation": {
-      "count": 311,
-      "pct": 5.1
+    {
+      "label": "Hong Kong",
+      "count": 249,
+      "pct": 3.8
     },
-    "analytical": {
-      "count": 560,
-      "pct": 9.2
+    {
+      "label": "New York, NY",
+      "count": 218,
+      "pct": 3.4
     },
-    "productMgmt": {
-      "count": 744,
-      "pct": 12.3
+    {
+      "label": "United States",
+      "count": 210,
+      "pct": 3.2
     },
-    "rust": {
-      "count": 245,
-      "pct": 4
+    {
+      "label": "London",
+      "count": 175,
+      "pct": 2.7
     },
-    "solidity": {
-      "count": 82,
-      "pct": 1.4
+    {
+      "label": "Asia",
+      "count": 166,
+      "pct": 2.6
     },
-    "smartContract": {
-      "count": 266,
+    {
+      "label": "Remote / Zug, Switzerland",
+      "count": 147,
+      "pct": 2.3
+    },
+    {
+      "label": "Remote - USA",
+      "count": 123,
+      "pct": 1.9
+    }
+  ],
+  "keywords": [
+    {
+      "label": "AI / machine learning / LLM",
+      "count": 3168,
+      "pct": 48.8
+    },
+    {
+      "label": "Python",
+      "count": 1278,
+      "pct": 19.7
+    },
+    {
+      "label": "SQL",
+      "count": 846,
+      "pct": 13
+    },
+    {
+      "label": "AWS",
+      "count": 611,
+      "pct": 9.4
+    },
+    {
+      "label": "Risk management",
+      "count": 562,
+      "pct": 8.7
+    },
+    {
+      "label": "Java",
+      "count": 492,
+      "pct": 7.6
+    },
+    {
+      "label": "AML",
+      "count": 473,
+      "pct": 7.3
+    },
+    {
+      "label": "Project management",
+      "count": 417,
+      "pct": 6.4
+    },
+    {
+      "label": "TypeScript",
+      "count": 381,
+      "pct": 5.9
+    },
+    {
+      "label": "React",
+      "count": 320,
+      "pct": 4.9
+    },
+    {
+      "label": "Rust",
+      "count": 286,
       "pct": 4.4
     },
-    "tokenComp": {
-      "count": 301,
-      "pct": 5
+    {
+      "label": "Smart contracts",
+      "count": 278,
+      "pct": 4.3
     },
-    "equity": {
-      "count": 1538,
-      "pct": 25.3
+    {
+      "label": "JavaScript",
+      "count": 245,
+      "pct": 3.8
     },
-    "remote": {
-      "count": 2148,
-      "pct": 35.4
-    },
-    "hybrid": {
-      "count": 655,
-      "pct": 10.8
-    },
-    "fullTime": {
-      "count": 695,
-      "pct": 11.5
-    },
-    "contract": {
-      "count": 548,
-      "pct": 9
+    {
+      "label": "Solidity",
+      "count": 91,
+      "pct": 1.4
     }
-  },
-  "compensation": {
-    "compContextN": 3900,
-    "equityMention": 1499,
-    "tokenMention": 298,
-    "equityPctOfCompContext": 38.4,
-    "tokenPctOfCompContext": 7.6,
-    "equityShareOfPayMix": 83.4,
-    "tokenShareOfPayMix": 16.6
-  },
-  "salary": {
-    "n": 1293,
-    "pctOfListings": 21.3,
-    "median": 203500,
-    "min": 32500,
-    "max": 600000,
-    "salaryFieldRows": 71,
-    "bands": {
-      "under100": {
-        "count": 60,
-        "pct": 4.6
+  ],
+  "skillsByFunction": [
+    {
+      "label": "Engineering",
+      "n": 2257,
+      "skills": [
+        {
+          "label": "AI / machine learning / LLM",
+          "count": 1185,
+          "pct": 52.5
+        },
+        {
+          "label": "Python",
+          "count": 777,
+          "pct": 34.4
+        },
+        {
+          "label": "SQL",
+          "count": 315,
+          "pct": 14
+        },
+        {
+          "label": "AWS",
+          "count": 493,
+          "pct": 21.8
+        },
+        {
+          "label": "Java",
+          "count": 428,
+          "pct": 19
+        },
+        {
+          "label": "TypeScript",
+          "count": 329,
+          "pct": 14.6
+        },
+        {
+          "label": "JavaScript",
+          "count": 172,
+          "pct": 7.6
+        },
+        {
+          "label": "React",
+          "count": 267,
+          "pct": 11.8
+        },
+        {
+          "label": "Rust",
+          "count": 228,
+          "pct": 10.1
+        },
+        {
+          "label": "Solidity",
+          "count": 66,
+          "pct": 2.9
+        },
+        {
+          "label": "Smart contracts",
+          "count": 155,
+          "pct": 6.9
+        },
+        {
+          "label": "Project management",
+          "count": 51,
+          "pct": 2.3
+        },
+        {
+          "label": "Risk management",
+          "count": 109,
+          "pct": 4.8
+        },
+        {
+          "label": "AML",
+          "count": 69,
+          "pct": 3.1
+        }
+      ]
+    },
+    {
+      "label": "Product & Design",
+      "n": 633,
+      "skills": [
+        {
+          "label": "AI / machine learning / LLM",
+          "count": 317,
+          "pct": 50.1
+        },
+        {
+          "label": "Python",
+          "count": 42,
+          "pct": 6.6
+        },
+        {
+          "label": "SQL",
+          "count": 68,
+          "pct": 10.7
+        },
+        {
+          "label": "AWS",
+          "count": 16,
+          "pct": 2.5
+        },
+        {
+          "label": "Java",
+          "count": 5,
+          "pct": 0.8
+        },
+        {
+          "label": "TypeScript",
+          "count": 15,
+          "pct": 2.4
+        },
+        {
+          "label": "JavaScript",
+          "count": 8,
+          "pct": 1.3
+        },
+        {
+          "label": "React",
+          "count": 17,
+          "pct": 2.7
+        },
+        {
+          "label": "Rust",
+          "count": 16,
+          "pct": 2.5
+        },
+        {
+          "label": "Solidity",
+          "count": 4,
+          "pct": 0.6
+        },
+        {
+          "label": "Smart contracts",
+          "count": 41,
+          "pct": 6.5
+        },
+        {
+          "label": "Project management",
+          "count": 41,
+          "pct": 6.5
+        },
+        {
+          "label": "Risk management",
+          "count": 43,
+          "pct": 6.8
+        },
+        {
+          "label": "AML",
+          "count": 38,
+          "pct": 6
+        }
+      ]
+    },
+    {
+      "label": "Sales & Business Development",
+      "n": 750,
+      "skills": [
+        {
+          "label": "AI / machine learning / LLM",
+          "count": 355,
+          "pct": 47.3
+        },
+        {
+          "label": "Python",
+          "count": 27,
+          "pct": 3.6
+        },
+        {
+          "label": "SQL",
+          "count": 58,
+          "pct": 7.7
+        },
+        {
+          "label": "AWS",
+          "count": 6,
+          "pct": 0.8
+        },
+        {
+          "label": "Java",
+          "count": 8,
+          "pct": 1.1
+        },
+        {
+          "label": "TypeScript",
+          "count": 5,
+          "pct": 0.7
+        },
+        {
+          "label": "JavaScript",
+          "count": 12,
+          "pct": 1.6
+        },
+        {
+          "label": "React",
+          "count": 2,
+          "pct": 0.3
+        },
+        {
+          "label": "Rust",
+          "count": 1,
+          "pct": 0.1
+        },
+        {
+          "label": "Solidity",
+          "count": 2,
+          "pct": 0.3
+        },
+        {
+          "label": "Smart contracts",
+          "count": 10,
+          "pct": 1.3
+        },
+        {
+          "label": "Project management",
+          "count": 48,
+          "pct": 6.4
+        },
+        {
+          "label": "Risk management",
+          "count": 20,
+          "pct": 2.7
+        },
+        {
+          "label": "AML",
+          "count": 43,
+          "pct": 5.7
+        }
+      ]
+    },
+    {
+      "label": "Compliance & Legal",
+      "n": 376,
+      "skills": [
+        {
+          "label": "AI / machine learning / LLM",
+          "count": 155,
+          "pct": 41.2
+        },
+        {
+          "label": "Python",
+          "count": 22,
+          "pct": 5.9
+        },
+        {
+          "label": "SQL",
+          "count": 35,
+          "pct": 9.3
+        },
+        {
+          "label": "AWS",
+          "count": 3,
+          "pct": 0.8
+        },
+        {
+          "label": "Java",
+          "count": 0,
+          "pct": 0
+        },
+        {
+          "label": "TypeScript",
+          "count": 0,
+          "pct": 0
+        },
+        {
+          "label": "JavaScript",
+          "count": 1,
+          "pct": 0.3
+        },
+        {
+          "label": "React",
+          "count": 1,
+          "pct": 0.3
+        },
+        {
+          "label": "Rust",
+          "count": 0,
+          "pct": 0
+        },
+        {
+          "label": "Solidity",
+          "count": 0,
+          "pct": 0
+        },
+        {
+          "label": "Smart contracts",
+          "count": 14,
+          "pct": 3.7
+        },
+        {
+          "label": "Project management",
+          "count": 23,
+          "pct": 6.1
+        },
+        {
+          "label": "Risk management",
+          "count": 82,
+          "pct": 21.8
+        },
+        {
+          "label": "AML",
+          "count": 192,
+          "pct": 51.1
+        }
+      ]
+    }
+  ],
+  "experience": {
+    "matched": {
+      "count": 2087,
+      "pct": 32.1
+    },
+    "rows": [
+      {
+        "label": "0–2 years",
+        "count": 235,
+        "pct": 3.6
       },
-      "b100_150": {
-        "count": 151,
-        "pct": 11.7
+      {
+        "label": "3–5 years",
+        "count": 1054,
+        "pct": 16.2
       },
-      "b150_200": {
-        "count": 375,
-        "pct": 29
+      {
+        "label": "6–9 years",
+        "count": 515,
+        "pct": 7.9
       },
-      "over200": {
-        "count": 707,
-        "pct": 54.7
+      {
+        "label": "10+ years",
+        "count": 283,
+        "pct": 4.4
+      },
+      {
+        "label": "Multiple or conditional requirements",
+        "count": 201,
+        "pct": 3.1
+      },
+      {
+        "label": "No matched general / role requirement",
+        "count": 4207,
+        "pct": 64.8
       }
+    ],
+    "specificSkillYears": {
+      "count": 106,
+      "pct": 1.6
     }
   },
-  "employerTypes": {
-    "exchange": {
-      "count": 1133,
-      "pct": 18.7
+  "workArrangements": [
+    {
+      "label": "Worldwide remote wording",
+      "count": 44,
+      "pct": 0.7
     },
-    "infrastructure": {
-      "count": 438,
-      "pct": 7.2
+    {
+      "label": "Remote with location / time-zone conditions",
+      "count": 207,
+      "pct": 3.2
     },
-    "payments": {
-      "count": 1367,
-      "pct": 22.5
+    {
+      "label": "Hybrid / scheduled office attendance",
+      "count": 133,
+      "pct": 2
     },
-    "trading": {
-      "count": 242,
-      "pct": 4
+    {
+      "label": "On-site wording",
+      "count": 30,
+      "pct": 0.5
     },
-    "defi": {
-      "count": 25,
-      "pct": 0.4
+    {
+      "label": "Conditional or conflicting arrangements",
+      "count": 158,
+      "pct": 2.4
+    },
+    {
+      "label": "No clear arrangement matched",
+      "count": 5923,
+      "pct": 91.2
+    }
+  ],
+  "employerComparison": {
+    "top": {
+      "n": 2581,
+      "employers": 10
     },
     "other": {
-      "count": 2864,
-      "pct": 47.2
+      "n": 3914,
+      "employers": 318
     },
-    "taggedSharePct": 52.8
+    "rows": [
+      {
+        "label": "Engineering roles",
+        "top": {
+          "count": 933,
+          "pct": 36.1
+        },
+        "other": {
+          "count": 1324,
+          "pct": 33.8
+        },
+        "differencePp": 2.3
+      },
+      {
+        "label": "Sales & business development roles",
+        "top": {
+          "count": 380,
+          "pct": 14.7
+        },
+        "other": {
+          "count": 370,
+          "pct": 9.5
+        },
+        "differencePp": 5.2
+      },
+      {
+        "label": "Compliance & legal roles",
+        "top": {
+          "count": 107,
+          "pct": 4.1
+        },
+        "other": {
+          "count": 269,
+          "pct": 6.9
+        },
+        "differencePp": -2.8
+      },
+      {
+        "label": "AI / machine learning / LLM mentions",
+        "top": {
+          "count": 1258,
+          "pct": 48.7
+        },
+        "other": {
+          "count": 1910,
+          "pct": 48.8
+        },
+        "differencePp": -0.1
+      },
+      {
+        "label": "Python mentions",
+        "top": {
+          "count": 501,
+          "pct": 19.4
+        },
+        "other": {
+          "count": 777,
+          "pct": 19.9
+        },
+        "differencePp": -0.5
+      },
+      {
+        "label": "SQL mentions",
+        "top": {
+          "count": 392,
+          "pct": 15.2
+        },
+        "other": {
+          "count": 454,
+          "pct": 11.6
+        },
+        "differencePp": 3.6
+      },
+      {
+        "label": "Rust mentions",
+        "top": {
+          "count": 37,
+          "pct": 1.4
+        },
+        "other": {
+          "count": 249,
+          "pct": 6.4
+        },
+        "differencePp": -5
+      },
+      {
+        "label": "Solidity mentions",
+        "top": {
+          "count": 9,
+          "pct": 0.3
+        },
+        "other": {
+          "count": 82,
+          "pct": 2.1
+        },
+        "differencePp": -1.8
+      },
+      {
+        "label": "Remote in location field",
+        "top": {
+          "count": 488,
+          "pct": 18.9
+        },
+        "other": {
+          "count": 787,
+          "pct": 20.1
+        },
+        "differencePp": -1.2
+      }
+    ]
   },
-  "velocity": {
-    "byDate": {
-      "2026-09-04": 337,
-      "2026-09-05": 52,
-      "2026-09-06": 8,
-      "2026-09-07": 40,
-      "2026-09-08": 98,
-      "2026-09-09": 100,
-      "2026-09-10": 88,
-      "2026-09-11": 107
+  "remote": {
+    "description": {
+      "count": 1639,
+      "pct": 25.2
     },
-    "avgWeekday": 128
+    "location": {
+      "count": 1275,
+      "pct": 19.6
+    },
+    "hybrid": {
+      "count": 644,
+      "pct": 9.9
+    }
+  },
+  "salary": {
+    "n": 260,
+    "pctOfListings": 4,
+    "medianMidpoint": 190000,
+    "bands": [
+      {
+        "label": "Below $100,000",
+        "count": 18,
+        "pct": 6.9
+      },
+      {
+        "label": "$100,000 to below $150,000",
+        "count": 56,
+        "pct": 21.5
+      },
+      {
+        "label": "$150,000 to below $200,000",
+        "count": 62,
+        "pct": 23.8
+      },
+      {
+        "label": "$200,000 or more",
+        "count": 124,
+        "pct": 47.7
+      }
+    ],
+    "employers": 31,
+    "topEmployers": [
+      {
+        "label": "DRW",
+        "count": 61,
+        "pct": 23.5
+      },
+      {
+        "label": "Polymarket",
+        "count": 40,
+        "pct": 15.4
+      },
+      {
+        "label": "Crypto.com",
+        "count": 28,
+        "pct": 10.8
+      }
+    ]
   }
 }

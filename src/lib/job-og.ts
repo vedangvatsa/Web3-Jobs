@@ -21,7 +21,7 @@ export const STATIC_OG = {
   news: `${SITE_URL}/og-news.png`,
   companies: `${SITE_URL}/og-companies.png`,
   tools: `${SITE_URL}/og-image-tools.png`,
-  report: `${SITE_URL}/og-image-report.png`,
+  report: `${SITE_URL}/og/pages/web3-hiring-report.png`,
 } as const;
 
 /** Bump when the precompute card layout changes (cache-bust share URLs). */

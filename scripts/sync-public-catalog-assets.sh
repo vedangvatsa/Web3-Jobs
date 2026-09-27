@@ -6,6 +6,7 @@ mkdir -p public/data public/job-description-shards public/job-shards
 
 test -f content/jobs-runtime.json
 cp content/jobs-runtime.json public/data/jobs-runtime.json
+cp content/hiring-report-stats.json content/hiring-report-salary-sample.json content/hiring-report-analysis-evidence.json public/data/
 
 cp content/events-runtime.json content/glossary-runtime.json \
   content/companies-runtime.json content/company-profiles-runtime.json \

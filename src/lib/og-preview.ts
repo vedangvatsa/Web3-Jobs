@@ -17,6 +17,7 @@ import { getEventBySlug, getEvents } from '@/lib/events-server';
 import { getEventSlug } from '@/lib/events';
 import { getCompanies } from '@/lib/companies';
 import { getCompanySlug } from '@/lib/job-slugs';
+import { fmtInt, hiringReportStats } from '@/lib/hiring-report-stats';
 
 const SITE_NAME = 'Hashtag Web3';
 
@@ -193,8 +194,8 @@ export async function resolveOgPreviewMeta(path: string): Promise<OgPreviewMeta>
       ogImageUrl: STATIC_OG.tools,
     },
     '/web3-hiring-report': {
-      title: `Hiring Report 2026 | ${SITE_NAME}`,
-      description: 'Data-driven insights based on active Web3 job listings, including hiring velocity, roles, salary benchmarks, and remote work patterns.',
+      title: `Hiring Report ${hiringReportStats.year} | ${SITE_NAME}`,
+      description: `${hiringReportStats.snapshotLabel}: ${fmtInt(hiringReportStats.listings)} listings from ${hiringReportStats.companies} employers. Job functions, description keywords, salary ranges, and remote-work wording.`,
       ogImageUrl: STATIC_OG.report,
     },
     '/learn': {

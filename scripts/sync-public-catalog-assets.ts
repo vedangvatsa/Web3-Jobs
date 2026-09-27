@@ -19,12 +19,18 @@ const INPUTS = [
   'content/company-socials.json',
   'content/articles-index.json',
   'content/news-cache.json',
+  'content/hiring-report-stats.json',
+  'content/hiring-report-salary-sample.json',
+  'content/hiring-report-analysis-evidence.json',
   'content/job-description-shards',
   'content/job-shards',
 ];
 
 const OUTPUTS = [
   'public/data/jobs-runtime.json',
+  'public/data/hiring-report-stats.json',
+  'public/data/hiring-report-salary-sample.json',
+  'public/data/hiring-report-analysis-evidence.json',
   'public/job-description-shards',
   'public/job-shards',
 ];
