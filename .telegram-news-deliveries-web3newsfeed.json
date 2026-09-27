@@ -33,7 +33,7 @@
     "sentAt": "2026-09-27T11:35:02.507Z"
   },
   "a4bead9a-c65f-43b6-bfcd-8cab8a1c8da5": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-09-27T15:51:27.623Z",
     "stories": [
       {
@@ -60,6 +60,8 @@
         "source": "The Block",
         "originalTitle": "‘It’s really not just a blockchain anymore’: Vitalik Buterin maps Ethereum’s path to 2030"
       }
-    ]
+    ],
+    "messageId": 65708,
+    "sentAt": "2026-09-27T15:51:30.384Z"
   }
 }
