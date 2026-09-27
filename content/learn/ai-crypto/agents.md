@@ -81,7 +81,7 @@ lastUpdated: 2026-09-04
 
 ## What is an Autonomous Agent?
 
-An autonomous agent is an AI system that doesn't just chat - it *acts*. You give it a high-level goal, and it breaks that goal into steps, decides which tools to use, and executes them.
+An agent is a program that uses a model to select actions and call tools while working toward a task. Its abilities depend on the tools, permissions, and checks supplied by its developer.
 
 For example, instead of asking ChatGPT, "How do I launch a token?", you tell an agent, "Deploy a meme token on Base, set up a liquidity pool, and write a Twitter thread about it." The agent then:
 1. Writes the Solidity contract
@@ -89,7 +89,7 @@ For example, instead of asking ChatGPT, "How do I launch a token?", you tell an 
 3. Adds liquidity on Uniswap
 4. Drafts and posts a Twitter thread
 
-No human touches a keyboard after the initial instruction.
+That sequence requires explicit deployment and publishing permissions. In practice, a system may stop for review or fail at any step; the example is not a guarantee of successful autonomous execution.
 
 ## How an Agent Works
 
@@ -135,18 +135,15 @@ Every crypto-enabled agent has three layers:
 
 To take meaningful actions on the internet, agents need money. They need to pay for server hosting, API calls, data scraping, or deploying smart contracts.
 
-If an agent tries to use traditional finance, it hits a wall:
-- It cannot open a bank account.
-- It cannot pass KYC/AML checks.
-- It cannot get a credit card.
+Software can make payments through accounts and APIs authorized by a person or business. The account holder remains responsible for identity checks, permissions, and spending controls.
 
-Traditional AI just generates text. Add crypto and it can *spend money*.
+A wallet is another payment interface. It is useful when the service being purchased accepts on-chain payments.
 
 ## Enter Crypto Wallets
 
 Blockchains are permissionless. Generating a new wallet (a public-private key pair) is just a mathematical operation that takes milliseconds. No application form. No identity check.
 
-When you give an AI agent a crypto wallet, it becomes a sovereign economic actor. It can:
+With a suitably configured wallet and permissions, an agent can:
 1. **Receive funding:** A human deposits USDC into the agent's wallet.
 2. **Pay for services:** The agent uses crypto to pay for decentralized storage (like Arweave) or decentralized compute (like Akash).
 3. **Earn money:** The agent performs a task for another human or agent, and gets paid in crypto.
@@ -179,11 +176,11 @@ Once multiple agents have wallets, they can trade with each other.
 
 Imagine a researcher agent that finds data, and an analysis agent that processes it. The analysis agent can autonomously pay the researcher agent for the raw data using micropayments on a fast Layer 2 network like Base or Arbitrum.
 
-This creates a true Machine-to-Machine (M2M) economy, running entirely on blockchain rails. No human approves each payment. No bank processes each transfer. The agents negotiate, transact, and settle in real-time.
+This is one possible machine-to-machine payment workflow. It still needs a way to price the service, verify delivery, handle failure, and assign responsibility for the accounts involved.
 
 ## Trust and Guardrails
 
-An agent with a funded wallet is powerful - and dangerous. Without guardrails, a buggy agent could:
+An agent with signing permissions can spend funds. Bugs or manipulated inputs could cause it to:
 - Drain its entire balance on a bad trade
 - Interact with a malicious smart contract and lose all funds
 - Get tricked by a prompt injection attack into sending tokens to an attacker
@@ -194,7 +191,7 @@ Smart agent design includes safety layers:
 - **Human-in-the-loop:** Transactions above a threshold require human approval
 - **Balance monitoring:** If the wallet balance drops below a threshold, the agent pauses and alerts the owner
 
-The open question in the industry: How much autonomy should an agent have? Too little, and it is just a chatbot. Too much, and it becomes a financial risk.
+Choose permissions per action. Reading a balance, drafting a transaction, and signing a transfer should not automatically receive the same level of access.
 
 ## Key takeaways
 

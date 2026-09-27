@@ -90,18 +90,18 @@ Real-World Assets (RWAs) are traditional financial instruments - government bond
 
 Tokenization means creating a digital token that represents legal ownership or economic exposure to the underlying asset. When you hold a tokenized Treasury bond, you hold a token that entitles you to the same yield as holding the actual bond.
 
-## Why RWAs Are the Fastest-Growing DeFi Sector
+## Why an asset issuer might use tokens
 
 After the DeFi summer of 2020-2021, on-chain yields collapsed. Liquidity mining rewards dried up. Stablecoin yields on Aave and Compound dropped below 1%. Meanwhile, the Federal Reserve raised interest rates, making US Treasury bonds yield 4-5%.
 
-This created a massive arbitrage: **trillions of dollars in stablecoins sitting on-chain earning near-zero yield, while off-chain Treasuries offered risk-free 5%.**
+A tokenized product can make an off-chain asset accessible through an on-chain interface. Its return still depends on the asset, fees, legal structure, and access terms; a Treasury-backed token is not interchangeable with a directly held Treasury security.
 
 RWA protocols bridge this gap by bringing those yields on-chain.
 
 ## Major RWA Categories
 
 ### Tokenized US Treasuries
-The largest and fastest-growing category. Protocols issue tokens backed 1:1 by US Treasury bills.
+Tokenized Treasury products can represent interests in funds, notes, or other legal structures. Check what the specific token represents and which assets back it.
 
 - **Ondo Finance (USDY):** Offers tokenized Treasury exposure. USDY automatically accrues yield.
 - **Mountain Protocol (USDM):** A regulated, yield-bearing stablecoin backed by short-term Treasuries.
@@ -178,13 +178,13 @@ The legal wrapper is the critical piece. Without proper legal structure, you are
 
 ## Why This Matters
 
-RWAs represent the most likely bridge between traditional finance (a $600 trillion market) and DeFi (a ~$100 billion market). If even 1% of traditional financial assets are tokenized, that represents $6 trillion flowing on-chain - orders of magnitude larger than current DeFi TVL.
+Evaluate the claim represented by the token, who holds the underlying assets, how valuations are reported, and how redemption works. Market-size forecasts do not establish those rights.
 
-Major institutions (BlackRock, JPMorgan, Franklin Templeton) are already building on-chain, signaling that RWA tokenization is not a niche experiment but a long-term structural shift.
+Institutional tokenization projects use different legal and technical structures. Read the documents for the specific product rather than infer its terms from its issuer's name.
 
 ## Key Takeaways
 
 - RWAs bring real-world yields (Treasuries, credit, real estate) on-chain.
-- Tokenized Treasuries are the fastest-growing DeFi sector, exceeding $2.5B.
+- Tokenized Treasury products differ in legal claims, fees, eligibility, and redemption terms.
 - Legal structure is critical - always verify the SPV or trust backing the tokens.
-- RWAs may be the bridge that brings trillions from TradFi into DeFi.
+- A token's enforceable rights and redemption terms matter more than forecasts about sector size.

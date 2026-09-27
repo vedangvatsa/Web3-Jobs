@@ -77,9 +77,9 @@ lastUpdated: 2026-09-04
 
 ## The Cold Start Problem
 
-In Web2, starting a new marketplace (like Uber) is incredibly hard. You need drivers, but drivers won't join without riders. Riders won't join without drivers. This is the **cold start problem**. Companies solve this by spending billions on Facebook ads and subsidies.
+A new marketplace needs participation on both sides before it becomes useful. This is a **cold-start problem**. Incentives, partnerships, and a limited initial market are possible ways to begin attracting participants.
 
-In Web3, protocols solve the cold start problem with **Tokens**. 
+Some protocols use token incentives to encourage early participation. Those incentives can attract activity without establishing lasting demand.
 
 If you build a new decentralized exchange (DEX), you can tell early users: *"Provide liquidity to our platform today. Even though there are no traders yet, we will give you ownership in the protocol (our token) as a reward."*
 
@@ -93,10 +93,10 @@ Famous airdrops like Uniswap (UNI), Arbitrum (ARB), and Optimism (OP) gave thous
 
 ### The Marketing Power of Airdrops
 
-Airdrops are the ultimate marketing tool. When a protocol announces an airdrop:
+An airdrop can affect awareness, participation, and token distribution:
 1. **Virality:** Crypto Twitter erupts. Everyone talks about the "free money."
 2. **Loyalty:** Early users suddenly become partial owners of the protocol. They become evangelists, telling their friends to use it.
-3. **Decentralization:** The founders give away a massive chunk of voting power to the community, making the protocol legally and practically decentralized.
+3. **Voting distribution:** A distribution may change who holds voting power. It does not, by itself, establish legal or operational decentralization.
 
 ### The Danger: Sybil Attacks and Mercenaries
 
@@ -110,14 +110,14 @@ Airdrops have massive flaws.
 
 Instead of promising an airdrop, protocols give users "Points" for doing specific actions (trading, lending, referring friends). 
 
-Points act as a psychological gamification tool. Users compete on leaderboards. While there is an *implicit* understanding that points will eventually convert into an airdrop, the protocol doesn't explicitly promise it, avoiding legal issues and keeping mercenary capital engaged for longer periods.
+Points record actions under a program's rules. They do not necessarily convert to tokens. Publish eligibility, expiry, and reward terms clearly; calling a reward a point does not determine its legal treatment.
 
 ## Tokenomics 101 for Marketers
 
-If you are a marketing lead, you must understand the basic economics of the token you are launching. If the tokenomics are bad, the community will revolt.
+Communications should explain supply, allocations, unlocks, and holder rights accurately. Marketing claims should agree with the deployed contracts and published terms.
 
 <div class="diagram">
-<svg viewBox="0 0 800 240" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:700px">
+<svg viewBox="0 0 800 200" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:700px">
  <rect x="50" y="20" width="700" height="40" rx="8" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
  <text x="400" y="45" text-anchor="middle" font-size="14" font-weight="bold" fill="#334155">Total Token Supply (e.g., 1 Billion Tokens)</text>
 
@@ -155,6 +155,6 @@ If you are a marketing lead, you must understand the basic economics of the toke
 - Points programs are used to gamify engagement before a token launches.
 - A transparent token distribution pie chart and strict team vesting schedules are required to build trust.
 
-## Congratulations
+## Reviewing a proposed campaign
 
-You have completed the Web3 Marketing & Community track! You now understand Discord community dynamics, Crypto Twitter strategies, and the mechanics of token launches.
+Write down the campaign's purpose, eligibility rules, measurement period, costs, and reward conditions. Identify which outcomes would show continued product use after rewards end.

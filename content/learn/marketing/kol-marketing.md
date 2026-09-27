@@ -9,7 +9,7 @@ difficulty: intermediate
 prerequisites:
   - twitter
 quiz:
-  - question: What is the biggest risk of KOL-driven marketing in crypto?
+  - question: Which practice can mislead an audience about an endorsement?
     options:
       - KOLs charge too much.
       - >-
@@ -36,20 +36,16 @@ quiz:
       Long-term relationships where KOLs actually use the product and hold
       tokens with vesting create authentic engagement. Their audience trusts
       them because the promotion is genuine, not a one-off cash grab.
-  - question: What is the most effective KOL tier for early-stage Web3 projects?
+  - question: What should guide the choice of a creator for a campaign?
     options:
-      - Tier 1 macro influencers with 500K+ followers.
-      - >-
-        Tier 3 micro-KOLs (5K-50K followers) who have high engagement rates and
-        niche credibility.
-      - Celebrity endorsements.
-      - Paid Twitter ads.
+      - Follower count alone.
+      - Audience relevance, past work, disclosures, terms, and measured outcomes.
+      - An assumption that small accounts always outperform large ones.
+      - A promise to increase the token price.
     correct: 1
     explanation: >-
-      Micro-KOLs typically have higher engagement rates (5-15%) versus macro
-      influencers (1-3%). Their audiences are more targeted and trusting. For
-      early-stage projects with limited budgets, 10 micro-KOLs often outperform
-      1 macro influencer.
+      Assess the proposed work against the campaign's purpose and budget.
+      Account size does not establish credibility or conversion performance.
   - question: What is a major red flag when a KOL promotes a crypto project?
     options:
       - They disclose they are being paid.
@@ -84,7 +80,7 @@ lastUpdated: 2026-09-04
 
 ## What Is a KOL?
 
-In Web3, a Key Opinion Leader (KOL) is an influencer whose endorsement drives attention, users, and often token price. KOLs range from Twitter accounts with 10K followers to major figures with millions.
+KOL is a marketing term for a commentator or creator with an audience in a particular subject. Evaluate audience relevance, past work, disclosures, and the terms of a proposed partnership.
 
 The crypto KOL ecosystem is unique because:
 - Audiences are hyper-engaged and action-oriented (they buy tokens, not just watch).
@@ -114,10 +110,10 @@ Genuine community members, developers, and researchers.
 ## Compensation Models
 
 ### Cash Payment
-Simple, transparent, but no ongoing alignment. KOL gets paid, posts, and moves on. Their audience knows this is an ad.
+A cash agreement should specify deliverables, review rights, payment terms, and sponsorship disclosures. Payment alone does not tell the audience that a post is an advertisement.
 
 ### Token Allocation with Vesting
-KOL receives tokens that vest over 6-12 months. This aligns their incentives - if the project fails, their compensation is worthless.
+Token grants need explicit vesting and disclosure terms. They create financial interests that may differ from those of the audience, even when the tokens are locked.
 
 **Best practice:** Same vesting terms as team tokens. If KOLs can sell immediately while the team cannot, it is a red flag for the community.
 
@@ -133,7 +129,7 @@ For NFT projects or early-access products, offering KOLs priority access is ofte
 Identify KOLs who already cover your sector. A DeFi protocol should work with DeFi-focused KOLs, not generic crypto influencers. Relevance > reach.
 
 ### Step 2: Start with Micro-KOLs
-Build authentic relationships with 10-20 micro-KOLs who genuinely use your product. Their endorsements will be authentic because they actually believe in the project.
+Start with a small group whose published work is relevant to the product. Verify claims about usage and disclose paid relationships rather than assume an endorsement is independent.
 
 ### Step 3: Provide Real Value
 Give KOLs something genuinely useful to share:
@@ -163,6 +159,6 @@ Track:
 
 - KOL marketing works best as authentic, long-term partnerships.
 - Token compensation with vesting aligns KOL incentives with project success.
-- Micro-KOLs deliver higher trust per dollar than macro influencers.
+- Compare campaign outcomes and costs rather than infer trust or effectiveness from audience size alone.
 - Always require disclosure of paid promotions - it is both ethical and legally required.
 - Measure actual conversion (wallets, TVL, users), not vanity metrics (impressions, likes).

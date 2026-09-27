@@ -18,6 +18,8 @@ import { getEventSlug } from '@/lib/events';
 import { getCompanies } from '@/lib/companies';
 import { getCompanySlug } from '@/lib/job-slugs';
 import { fmtInt, hiringReportStats } from '@/lib/hiring-report-stats';
+import { learnRoutes, resolveLearnRoute } from '@/lib/learn-routes';
+import { getCategory, getLesson } from '@/lib/learn';
 
 const SITE_NAME = 'Hashtag Web3';
 
@@ -89,6 +91,11 @@ async function resolveJobMetadata(slug: string): Promise<OgPreviewMeta | null> {
 
 export async function resolveOgPreviewMeta(path: string): Promise<OgPreviewMeta> {
   const canonicalUrl = `${SITE_URL}${path}`;
+  const learningRoute = resolveLearnRoute(path.slice(1));
+  if (learningRoute) {
+    const content = learningRoute.lesson ? getLesson(learningRoute.category, learningRoute.lesson) : getCategory(learningRoute.category);
+    if (content) return { title: `${content.title} | ${SITE_NAME}`, description: content.description, ogImageUrl: STATIC_OG.blog, canonicalUrl };
+  }
 
   if (path.startsWith('/blog/')) {
     const slug = path.replace('/blog/', '');
@@ -281,6 +288,7 @@ export async function resolveOgPreviewMeta(path: string): Promise<OgPreviewMeta>
 /** Paths to bake into public/preview for link-preview crawlers. */
 export async function collectOgPreviewPaths(): Promise<string[]> {
   const paths = new Set<string>([
+    ...learnRoutes.map(route => `/${route.slug}`),
     '/',
     '/jobs',
     '/blog',

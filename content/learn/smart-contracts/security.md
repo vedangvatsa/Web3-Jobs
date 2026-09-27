@@ -73,15 +73,15 @@ quiz:
     explanation: >-
       Writing custom implementation of standards like ERC-20 or Ownable
       introduces unnecessary risk. Using community-audited, battle-tested
-      libraries like OpenZeppelin is the industry standard for safety.
+      libraries such as OpenZeppelin can reduce duplicated implementation work.
 lastUpdated: 2026-09-04
 ---
 
-## The stakes are high
+## Review state changes and permissions
 
-When you deploy a smart contract, the code is public and immutable. If there is a bug, anyone in the world can analyze the code, find the flaw, and exploit it. Because contracts hold real financial value, the incentives for hackers are massive.
+Public contracts can be inspected and called by untrusted parties. Review which accounts can move assets, change configuration, or invoke external code, and test those boundaries explicitly.
 
-Security must be the primary focus of every Solidity developer. 
+Include failure cases in development and review rather than relying only on successful examples.
 
 <div class="diagram">
 <svg viewBox="0 0 800 130" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:700px">
@@ -140,7 +140,7 @@ contract VulnerableBank {
 }
 ```
 
-This looks logical, but it is fatally flawed. 
+The external call occurs before the balance update, leaving an interval in which a callback can see stale state.
 
 When a smart contract sends ETH to another smart contract, the receiving contract's `receive()` function is automatically triggered. A malicious contract can receive the ETH, and in its `receive()` function, **immediately call `withdraw()` again**. 
 
@@ -208,8 +208,8 @@ Because all transactions sit in a public "mempool" before being processed, miner
 - Use heavily audited libraries (like OpenZeppelin) instead of writing your own security logic.
 - Ensure strict access control on all administrative functions.
 
-## Congratulations
+## Continue with a test exercise
 
-You have completed the Smart Contract Development track. You now understand Solidity syntax, basic state management, token standards, and core security vulnerabilities.
+Write tests for an unauthorized call, a reverted transfer, and a callback during withdrawal. Record which properties each test checks and which assumptions remain untested.
 
 **Start Building:** The best way to learn is to write code. Head to [Remix IDE](https://remix.ethereum.org) and deploy your first contract to a testnet!

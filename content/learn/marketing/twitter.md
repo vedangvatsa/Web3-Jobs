@@ -67,17 +67,17 @@ quiz:
       - Hosting AMAs
     correct: 1
     explanation: >-
-      Promising financial returns is legally dangerous and a massive red flag
-      for experienced users. Authentic Web3 marketing focuses on technology,
-      utility, and community, not price hype.
+      Explain the product's demonstrated functions, limitations, costs, and
+      terms. Do not present investment outcomes as certain or omit sponsorship
+      information from paid promotions.
 lastUpdated: 2026-09-04
 ---
 
-## The Town Square of Crypto
+## Using X for product communication
 
 If Discord is the private club for people who are already invested, **Crypto Twitter (CT)** is the public square where discovery happens. 
 
-Every major founder, developer, and investor in Web3 is hyper-active on Twitter/X. If you are doing marketing for a Web3 protocol, 80% of your top-of-funnel traffic will come from this platform.
+Some projects use X for announcements, technical discussions, and finding contributors. Measure the traffic and useful actions it produces for your own audience rather than assume a fixed share of acquisition.
 
 <div class="diagram">
 <svg viewBox="0 0 800 140" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:700px">
@@ -116,7 +116,7 @@ Every major founder, developer, and investor in Web3 is hyper-active on Twitter/
 
 ## The Art of the Thread
 
-Because blockchain technology is complex, standard marketing slogans do not work. The most effective format on CT is the **Thread** - a series of connected tweets that break down a complex topic.
+A thread can explain a subject that needs more than one post. A short announcement, article, demonstration, or support page may be a better format for other tasks.
 
 A successful Web3 thread follows a specific anatomy:
 
@@ -128,14 +128,14 @@ A successful Web3 thread follows a specific anatomy:
 
 ## Building in Public
 
-Web3 marketing is fundamentally different from Web2 marketing because of **transparency**. You cannot launch a closed-source product and run Facebook ads to get users.
+Publishing development updates can help users understand a product. Open-source code, public updates, and paid advertising are separate choices; none automatically establishes trust or adoption.
 
 Instead, protocols **Build in Public**. 
 - Developers tweet screenshots of their code.
 - Founders tweet about their struggles finding product-market fit.
 - Marketers share their growth metrics openly.
 
-This transparency builds immense trust. By the time the product launches, the community feels like they helped build it, and they naturally become the first users and evangelists.
+Use updates to report completed work, explain delays, and collect feedback. Distinguish measured results from plans and avoid promising outcomes that have not been demonstrated.
 
 ## The Content Ecosystem
 

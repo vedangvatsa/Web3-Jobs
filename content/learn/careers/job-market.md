@@ -6,17 +6,16 @@ readTime: 8 min
 difficulty: beginner
 prerequisites: []
 quiz:
-  - question: What is the biggest misconception about Web3 jobs?
+  - question: How should you assess whether your experience fits a Web3 role?
     options:
-      - They pay well
-      - They are all remote
-      - You need deep blockchain experience to get started
-      - They involve cryptocurrency
+      - Assume every employer provides blockchain training
+      - Apply only if you own the employer's token
+      - Compare your experience with the requirements in the actual listing
+      - Assume every role requires the same technical background
     correct: 2
     explanation: >-
-      Most Web3 companies hire for skills, not blockchain experience. If you
-      know React, Python, or product management, you can get a Web3 job.
-      Companies train the crypto-specific parts.
+      Requirements differ by function and employer. Identify the skills you
+      can demonstrate and distinguish required experience from preferences.
   - question: Which non-technical role is common in Web3?
     options:
       - Smart contract auditor
@@ -25,20 +24,18 @@ quiz:
       - Protocol engineer
     correct: 2
     explanation: >-
-      Community management is one of the most common non-technical roles in
-      Web3. Protocols need people to manage Discord servers, create content, and
-      engage with their user base.
-  - question: What type of work arrangement is most common in Web3?
+      Community-management work can include moderation, support, content,
+      events, and feedback. The responsibilities depend on the team.
+  - question: How should you confirm a role's work arrangement?
     options:
-      - On-site only
-      - Hybrid
-      - Remote-first
-      - Part-time only
+      - Assume every blockchain company is fully remote
+      - Use the employer's headquarters as the only evidence
+      - Check the listing's location restrictions and office-attendance terms
+      - Infer it from the job title alone
     correct: 2
     explanation: >-
-      Web3 is one of the most remote-friendly industries. Many teams are fully
-      distributed across time zones. Remote-first is the default, not the
-      exception.
+      Remote, hybrid, and on-site roles all exist. A remote role can still have
+      residency, work-authorization, or time-zone requirements.
   - question: Which skill is in highest demand across all Web3 roles?
     options:
       - Video editing
@@ -68,7 +65,7 @@ lastUpdated: 2026-09-04
 
 Web3 is not just for crypto enthusiasts. Companies building on blockchains need the same roles as any tech company: engineers, product managers, marketers, designers, data analysts, and operations people.
 
-The difference is that demand still exceeds supply. Companies struggle to fill roles because many qualified candidates do not realize they are already qualified.
+Demand varies by function, location, and experience level. The [hiring report](/web3-hiring-report) describes the job-board sample and its limits; individual listings provide the requirements for a particular role.
 
 ## What roles exist
 
@@ -114,7 +111,7 @@ The difference is that demand still exceeds supply. Companies struggle to fill r
 
 ## The hiring space
 
-Most Web3 companies are small (5-50 people) and move fast. They value:
+Employers range from small protocol teams to larger exchanges and payments companies. When reading a listing, look for expectations about:
 
 - **Ownership**: You will own entire features or functions
 - **Self-direction**: Less hand-holding than at a large corporation
@@ -125,7 +122,7 @@ Most Web3 companies are small (5-50 people) and move fast. They value:
 
 | Component | What it looks like |
 | --- | --- |
-| Base salary | $80K-200K+ (competitive with Web2 tech) |
+| Base salary | The employer's stated band, currency, and pay period |
 | Token grants | Tokens in the project, vesting over 2-4 years |
 | Stablecoin payment | Some companies pay salaries in USDC |
 | Benefits | Varies widely - some match big tech, some offer nothing |
@@ -135,6 +132,6 @@ Token grants can be a significant part of compensation but come with risk - if t
 ## Key takeaways
 
 - Web3 needs the same roles as any tech company - you do not need to be a blockchain expert to start.
-- Remote-first is the default. Most teams are distributed.
-- Compensation is competitive with Web2, often including token grants.
-- Genuine curiosity about blockchain is more important than years of crypto experience.
+- Check location restrictions and office-attendance requirements for each role.
+- Compare base pay, variable pay, equity, and tokens separately.
+- Assess the stated requirements rather than assume interest can replace required experience.

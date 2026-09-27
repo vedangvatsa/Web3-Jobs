@@ -74,9 +74,9 @@ lastUpdated: 2026-09-04
 
 If you want a loan from a bank, they check your identity, your income, and your credit score. They need to know you are trustworthy because they are giving you money you do not currently have.
 
-DeFi operates differently. Because wallets are anonymous, trust is impossible. Instead of trust, DeFi uses **math and collateral**.
+Many permissionless lending markets rely on collateral and contract rules rather than an assessment of the borrower's identity or credit history. Other on-chain lending products use identity checks and credit underwriting.
 
-If you want to borrow $1,000 on Aave or Compound, you cannot just ask for it. You must first deposit $1,500 worth of crypto as collateral. 
+A collateralized position generally needs collateral worth more than the borrowed amount. The permitted loan-to-value ratio depends on the asset, market, and configured risk parameters.
 
 <div class="diagram">
 <svg viewBox="0 0 800 220" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:700px">
@@ -123,7 +123,7 @@ Why borrow $1,000 if you already have $1,500?
 
 1. **Keep your exposure**: You believe ETH will go up in value. If you sell your ETH for cash, you miss out on the gains. By borrowing against it, you get cash while keeping the ETH.
 2. **Avoid taxes**: In many jurisdictions, selling crypto is a taxable event. Borrowing against it is not.
-3. **use**: You deposit ETH, borrow USDC, buy *more* ETH, and deposit that. This multiplies your gains (and your losses).
+3. **Leveraged exposure**: Borrowing to buy more of an asset increases exposure to its price and adds borrowing costs and liquidation risk.
 
 ## Liquidation
 
@@ -143,7 +143,7 @@ If borrowers take 9 million USDC, use is 90%. The pool is almost empty. The algo
 1. High rates force borrowers to pay back their loans.
 2. High rates entice new lenders to deposit USDC to earn the yield.
 
-The system balances itself purely through economic incentives coded into smart contracts.
+The rate model encourages changes in supply and borrowing, but does not guarantee liquidity or repayment. Governance and risk administrators may also change market parameters.
 
 ## Key takeaways
 

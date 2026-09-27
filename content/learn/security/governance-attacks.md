@@ -84,7 +84,7 @@ lastUpdated: 2026-09-04
 
 ## What Is a Governance Attack?
 
-Most DeFi protocols are governed by token holders who vote on proposals. This is designed to be democratic. But like any democracy, it can be gamed.
+Token-based governance gives voting power according to rules encoded in the governance system. Those rules determine who can propose, vote, and execute changes.
 
 A governance attack occurs when an entity acquires enough voting power to pass proposals that benefit them at the expense of other users - typically draining the treasury or changing protocol parameters.
 
@@ -97,7 +97,7 @@ In April 2022, Beanstalk (a stablecoin protocol) was attacked for $182 million. 
 3. Proposed and instantly passed a malicious proposal that transferred all treasury funds to their wallet.
 4. Repaid the flash loan within the same transaction.
 
-Total cost to the attacker: about $10 in gas fees. Total stolen: $182 million.
+The failure involved temporary voting power and the execution rules for an emergency proposal. Review the proposal lifecycle and historical voting-power checks together.
 
 ## Attack Vectors
 
@@ -108,7 +108,7 @@ Borrow tokens in the same block as a vote. This gives temporary but overwhelming
 Platforms like Convex (for Curve governance) and hidden OTC deals allow entities to accumulate voting power without buying the underlying token, through bribery and vote delegation markets.
 
 ### Low Quorum Exploitation
-Many DAOs have low voter turnout. If quorum is 4% and normal participation is 3%, an attacker with just 2% of tokens can pass anything during low-activity periods (holidays, weekends).
+Low participation can make it easier for a coordinated voter to influence a result. The attacker still has to satisfy the actual quorum, approval threshold, and proposal rules; inactivity does not lower those thresholds automatically.
 
 ### Proposal Spam
 Flooding a DAO with dozens of complex proposals so that voters suffer fatigue and stop reviewing them carefully, allowing a malicious proposal to slip through.
@@ -125,10 +125,10 @@ Insert a mandatory delay between when a proposal is created and when voting begi
 Even after a proposal passes, enforce a waiting period (24-72 hours) before it can be executed. This allows the community to exit the protocol if a malicious proposal passes.
 
 ### Optimistic Governance
-Assume proposals will pass unless explicitly challenged. A security council can veto dangerous proposals during the timelock window. Used by Optimism and Arbitrum.
+Some systems allow proposals to proceed unless challenged during a defined period. Other systems use a security council or veto authority. Check the specific implementation: these arrangements are not interchangeable and give different powers to participants.
 
 ### Quadratic Voting
-Voting power scales with the square root of tokens held, not linearly. This reduces the power of whales while amplifying the voice of smaller holders.
+Quadratic voting makes additional voting weight increasingly costly. Without identity or other Sybil protections, a participant may evade the intended limit by splitting resources across accounts.
 
 ## Key Takeaways
 

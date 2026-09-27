@@ -117,7 +117,7 @@ npm install @hashtag_web3_/sdk
 - [Developers Scoped Index](https://hashtagweb3.com/developers/llms.txt): Static catalogs, OpenAPI, and integration patterns.
 - [API Scoped Index](https://hashtagweb3.com/api/llms.txt): Legacy path — prefer `/developers` and `/data/*` catalogs.
 - [Glossary Scoped Index](https://hashtagweb3.com/glossary-scoped.txt): 200+ blockchain, DeFi, and cryptography terms taxonomy.
-- [Learn Scoped Index](https://hashtagweb3.com/learn/llms.txt): 47 structured Web3 courses and curricula.
+- [Learn Scoped Index](https://hashtagweb3.com/learn/llms.txt): 7 Web3 courses with 66 lessons.
 - [Full Text Corpus Index](https://hashtagweb3.com/llms-full.txt): Complete directory of all 700+ articles, checklists, and guides.
 
 ## Main Product Pages

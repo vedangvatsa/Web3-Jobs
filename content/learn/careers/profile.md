@@ -9,7 +9,7 @@ difficulty: beginner
 prerequisites:
   - skills
 quiz:
-  - question: What is the most important thing for a Web3 portfolio?
+  - question: What helps an employer assess a portfolio project's relevance?
     options:
       - A fancy website design
       - Proof that you have built or contributed to something real
@@ -17,9 +17,9 @@ quiz:
       - A professional headshot
     correct: 1
     explanation: >-
-      Web3 values building over credentials. A deployed smart contract, a PR to
-      an open-source protocol, or a data dashboard on Dune shows more than any
-      certification.
+      Link to the work, explain your contribution, and describe the decisions
+      and tests involved. This gives the employer evidence to compare with the
+      role's requirements.
   - question: What is ENS?
     options:
       - A DeFi protocol
@@ -69,9 +69,9 @@ quiz:
 lastUpdated: 2026-09-04
 ---
 
-## You are what you build
+## Make your experience easy to check
 
-Web3 cares less about where you went to school and more about what you have built. A strong profile has three parts:
+Employers weigh education, experience, and public work differently. A profile can help readers find evidence of your relevant skills:
 
 1. **Public work** - code, writing, or analysis others can see
 2. **On-chain presence** - wallet activity, governance participation, ENS name
@@ -79,7 +79,7 @@ Web3 cares less about where you went to school and more about what you have buil
 
 ## For engineers
 
-**GitHub is your resume.** Here is what to do:
+For an engineering profile, consider including:
 
 - Deploy a smart contract to a testnet and push the code to GitHub
 - Contribute to an open-source protocol (even documentation fixes count)
@@ -139,7 +139,7 @@ A good Web3 GitHub profile has:
 | Step | Why it matters | Time |
 | --- | --- | --- |
 | Register an ENS name | On-chain identity, used in bios everywhere | 10 min |
-| Set up Twitter/X with clear bio | Where 80% of Web3 networking happens | 15 min |
+| Set up a clear professional bio | Helps readers identify your role and interests | 15 min |
 | Create or clean up GitHub profile | Engineers are judged by their repos | 30 min |
 | Join 2-3 Discord servers for protocols you use | Shows engagement, good for networking | 15 min |
 | Vote on 1 DAO proposal | Governance activity proves genuine interest | 10 min |
@@ -148,7 +148,7 @@ A good Web3 GitHub profile has:
 ## Key takeaways
 
 - Build something visible: a deployed contract, a Dune dashboard, or educational content.
-- GitHub activity matters more than certifications in Web3 hiring.
+- Link to work that helps an employer assess the skills requested in the listing.
 - An ENS name and consistent social handle create a recognizable on-chain identity.
 - Participate in DAOs and governance - it shows genuine engagement.
 - Your Twitter bio and GitHub pinned repos are often the first things a hiring manager sees. Make them count.

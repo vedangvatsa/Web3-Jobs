@@ -1,5 +1,6 @@
 import React from 'react';
 import { getCategories } from '@/lib/learn';
+import { getCoursePath } from '@/lib/learn-routes';
 import { Card, CardContent } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
 import Link from 'next/link';
@@ -63,7 +64,7 @@ export default function LearnPage() {
                 <p className="text-xs font-medium text-muted-foreground uppercase tracking-wider mb-3">
                   Start here
                 </p>
-                <Link href={`/learn/${coreCategory.slug}`}>
+                <Link href={getCoursePath(coreCategory.slug)}>
                   <Card className="group hover:border-foreground/25 border-border/70 bg-card shadow-none transition-colors">
                     <CardContent className="p-6 md:p-8">
                       <div className="flex items-start justify-between gap-4 mb-3">
@@ -105,7 +106,7 @@ export default function LearnPage() {
                   {electives.map((category) => {
                     const IconComponent = iconMap[category.icon] || Globe;
                     return (
-                      <Link key={category.slug} href={`/learn/${category.slug}`}>
+                      <Link key={category.slug} href={getCoursePath(category.slug)}>
                         <Card className="group hover:border-foreground/25 border-border/70 bg-card shadow-none transition-colors h-full">
                           <CardContent className="p-5">
                             <IconComponent className="h-5 w-5 text-muted-foreground group-hover:text-primary transition-colors mb-3" />

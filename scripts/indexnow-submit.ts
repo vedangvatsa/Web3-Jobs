@@ -8,6 +8,7 @@ import { getAllTerms, getAllCategorySlugs } from '../src/lib/glossary';
 import { getCompanies } from '../src/lib/companies';
 import { getAllResourcePages } from '../src/lib/pseo/resources';
 import { getCategories, getLessons } from '../src/lib/learn';
+import { getCoursePath, getLessonPath } from '../src/lib/learn-routes';
 
 const siteUrl = 'https://hashtagweb3.com';
 const keys = [
@@ -68,9 +69,9 @@ async function main() {
   ];
 
   const categories = getCategories();
-  const learnUrls = categories.map(c => `${siteUrl}/learn/${c.slug}`);
+  const learnUrls = categories.map(c => siteUrl + getCoursePath(c.slug));
   const lessonUrls = categories.flatMap(c => 
-    getLessons(c.slug).map(l => `${siteUrl}/learn/${c.slug}/${l.slug}`)
+    getLessons(c.slug).map(l => siteUrl + getLessonPath(c.slug, l.slug))
   );
 
   allUrls.push(...learnUrls, ...lessonUrls);

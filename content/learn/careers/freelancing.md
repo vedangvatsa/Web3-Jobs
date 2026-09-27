@@ -69,7 +69,7 @@ lastUpdated: 2026-09-04
 
 ## Why freelancing works in Web3
 
-Web3 is built for freelancing. Projects are global, payments are instant (stablecoins), and reputation is on-chain. You do not need a recruiter or a résumé - you need a wallet and a track record.
+Contract work can include development, design, writing, research, and community operations. Clients may ask for a portfolio, references, identity checks, and a written agreement. A wallet alone does not replace those requirements.
 
 Three paths to Web3 freelancing:
 
@@ -96,7 +96,7 @@ Common DAO contributor roles:
 - **Design**: UI/UX design, brand assets, presentation templates
 - **Analytics**: Dune dashboards, treasury reports, market research
 
-DAOs like MakerDAO, Gitcoin, and Bankless have structured contributor programs with monthly payments.
+Check the current contributor program and its payment terms before starting work. Participation in a community does not by itself create a paid engagement.
 
 ## 3. Grants
 
@@ -112,7 +112,7 @@ Grants are lump-sum funding for bigger projects. If you have an idea that benefi
 ## Getting paid
 
 Web3 freelancing payments are typically:
-- **Stablecoins** (USDC, USDT) sent to your wallet - instant, global, no bank needed
+- **Stablecoins** sent to an agreed address and network, subject to confirmation times and applicable payment restrictions
 - **Native tokens** (UNI, OP, ARB) - may appreciate or depreciate
 
 Set up invoicing: tools like Request Network and Utopia Labs are designed for Web3 payments.
@@ -123,4 +123,4 @@ Set up invoicing: tools like Request Network and Utopia Labs are designed for We
 - Bounty platforms (Gitcoin, Dework, Immunefi) list paid tasks of all sizes.
 - DAO contributor programs offer regular paid work.
 - Grants fund larger projects ($5K-500K) that benefit the ecosystem.
-- Payments are in stablecoins - instant, global, no bank required.
+- Agree on currency, network, invoice dates, fees, and dispute handling before beginning a contract.

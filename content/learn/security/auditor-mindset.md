@@ -45,7 +45,7 @@ quiz:
       The core auditor mindset is adversarial thinking. Because anyone can
       interact with a public contract, every function parameter, external call,
       and state change must be scrutinized against malicious manipulation.
-  - question: Why are invariant checks crucial in auditing?
+  - question: What do invariant checks test during an audit?
     options:
       - They check if the compiler is working
       - >-
@@ -74,15 +74,15 @@ quiz:
 lastUpdated: 2026-09-04
 ---
 
-## The Highest Stakes in Software
+## What a contract audit examines
 
-In traditional Web2 software development, the mantra is "Move fast and break things." If you push a bug to a website, the page might crash, users complain, and you push a hotfix an hour later. No permanent harm done.
+A contract audit examines whether code behaves as intended when users, administrators, and external contracts interact with it. Reviewers check access controls, asset accounting, state changes, and dependencies.
 
-In Web3, the mantra is **"Move slow and verify."** 
+The review should identify which code version and deployment configuration are in scope.
 
-When you deploy a smart contract, it is public and immutable. If it holds $100 million in user funds and contains a single logical flaw, a hacker can drain the entire contract in 12 seconds. There is no undo button. There is no customer service hotline.
+A deployed contract may control assets that its operator cannot recover after a faulty transfer. Upgrade and pause mechanisms can provide recovery options, but they introduce permissions that also need review.
 
-Because of these extreme stakes, **Smart Contract Auditing** is one of the most critical and highest-paying technical roles in Web3.
+Auditing combines code review, testing, and checks of the assumptions the protocol makes about other systems.
 
 ## Web2 vs Web3 Security
 
@@ -113,9 +113,9 @@ Because of these extreme stakes, **Smart Contract Auditing** is one of the most 
 </svg>
 </div>
 
-In Web2, security is about building walls (firewalls, passwords, 2FA) to keep bad actors out of your database.
+Web applications and smart contracts both need access control and correct application logic. Public contracts also expose callable functions and state that an adversary can inspect directly.
 
-In Web3, **there are no walls**. The database (blockchain) is public. The code (smart contract) is public. The hacker is already interacting with your system. Security is entirely reliant on the logic of the code being mathematically watertight.
+Review the surrounding infrastructure too: compromised administrator keys, deployment scripts, websites, or oracle services can affect a contract even when its own functions behave as written.
 
 ## The Auditor's Mindset
 
@@ -126,7 +126,7 @@ The first step is always mapping out the value. Where is the ETH? Where are the 
 
 ### 2. Identify the Actors
 Who interacts with the contract? Regular users, admins, external protocols? 
-**The Golden Rule:** Assume every external actor is malicious. Assume every input parameter is a lie designed to break the system.
+Test untrusted inputs and unexpected behavior from external actors, including privileged accounts that could be compromised.
 
 ### 3. Establish Invariants
 Invariants are rules that must *always* be true, no matter what happens.
@@ -144,11 +144,11 @@ Auditing firms (like Trail of Bits, OpenZeppelin, Consensys Diligence) are hired
 
 The auditors spend weeks trying to break the code. They deliver a report detailing every vulnerability they found, categorized by severity (Critical, High, Medium, Low). The developers fix the bugs, and the auditors verify the fixes before the code goes live.
 
-However, an audit is **not a guarantee**. It simply means highly skilled professionals looked at the code and couldn't find a way to break it. New attack vectors are discovered in the EVM ecosystem every year.
+An audit report records findings within a stated scope and review period. Check unresolved findings, follow-up work, and whether the deployed version matches the reviewed code. A completed audit does not prove that no vulnerabilities remain.
 
 ## Key takeaways
 
-- Web3 security is fundamentally different from Web2: the code is public, and the "hacker" is a legitimate user playing by the rules you wrote.
-- Auditors think adversarially, actively trying to steal funds from the protocol during the review process.
-- Establishing and testing "invariants" (unbreakable mathematical truths) is the core of smart contract security.
+- Publicly callable functions must handle adversarial inputs and unexpected call sequences.
+- Audit testing should use an authorized test environment and a defined scope.
+- Invariants describe conditions that the implementation is expected to preserve.
 - An audit minimizes risk but does not guarantee 100% safety.

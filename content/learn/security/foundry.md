@@ -1,6 +1,6 @@
 ---
 title: Using Foundry and Slither
-description: The professional toolkit for testing and auditing smart contracts.
+description: Use static analysis, Solidity tests, fuzzing, and local chain forks during a contract review.
 order: 3
 readTime: 8 min
 difficulty: advanced
@@ -10,14 +10,14 @@ quiz:
   - question: What is Foundry?
     options:
       - A blockchain network
-      - 'A blazing fast, Rust-based testing framework for Solidity developers'
+      - A Rust-based toolchain for Solidity development and testing
       - A decentralized exchange
       - A visual code editor
     correct: 1
     explanation: >-
-      Foundry is the industry standard toolchain for smart contract development.
+      Foundry is a toolchain for developing and testing smart contracts.
       Written in Rust, it allows developers to write their tests directly in
-      Solidity and execute them incredibly fast.
+      Solidity and configure how they are executed.
   - question: What is 'Fuzz Testing'?
     options:
       - Testing the code while sleepy
@@ -79,13 +79,13 @@ lastUpdated: 2026-09-04
 
 ## The Auditor's Toolkit
 
-You cannot audit a smart contract just by reading the code on GitHub. You need to run it, break it, and analyze it. 
+Code review and executable tests answer different questions. Read the implementation, then test the behaviors and assumptions that could cause a failure.
 
-The Web3 security industry relies on a specific set of tools to automate the discovery of basic bugs so that human auditors can focus on complex, systemic logic flaws.
+Slither checks for patterns in source code. Foundry runs tests and local simulations. Both produce results that need interpretation.
 
 ## 1. Static Analysis: Slither
 
-Before an auditor writes a single test, they run **Slither**.
+**Slither** can be run early in a review to identify areas that deserve closer inspection.
 
 Slither is an open-source static analysis framework written in Python. "Static analysis" means it reads your code without actually executing it on a blockchain. It looks for known patterns of bad code.
 
@@ -95,19 +95,19 @@ Slither is an open-source static analysis framework written in Python. "Static a
 - `public` functions that should probably be `internal`.
 - Using outdated or dangerous Solidity keywords (like `tx.origin` for authorization).
 
-If you are a developer, you should run Slither on your code before committing it. It is the spell-checker of smart contract security. However, Slither cannot understand your business logic. It won't know if your DeFi protocol's mathematical formula is flawed.
+Review each finding against the implementation. Some findings are false positives, and a clean run does not establish that the protocol's accounting or economic assumptions are correct.
 
 ## 2. The Testing Framework: Foundry
 
-For years, the standard tool for testing smart contracts was Hardhat, which required writing tests in JavaScript or TypeScript. The problem? Solidity math involves massive 256-bit integers, and JavaScript struggles with large numbers, requiring clunky workarounds.
+Foundry supports tests written in Solidity. JavaScript and TypeScript toolchains such as Hardhat are another option; use suitable integer types and libraries when handling EVM values in those languages.
 
-Enter **Foundry**. 
+### Solidity tests
 
-Written in Rust, Foundry is insanely fast. More importantly, **you write your tests in Solidity.** This is a major shift for security researchers. If you are auditing a contract written in Solidity, you can write exploit scripts in the exact same language.
+Solidity tests can call the same interfaces and use the same types as the contracts under review. Foundry also provides controls for accounts, time, balances, and other test conditions.
 
 ### Fuzz Testing with Foundry
 
-The most powerful feature Foundry brings to auditors is native **Fuzz Testing**.
+**Fuzz testing** runs a test with generated inputs instead of only a fixed set of examples.
 
 When writing a standard unit test, a developer might write:
 *"If user deposits 100 tokens, balance should equal 100."*
@@ -117,7 +117,7 @@ But what if the user deposits `0` tokens? What if they deposit `115,792,089,237,
 Fuzz testing automates this. You define the rules (the invariants), and Foundry automatically generates tens of thousands of random inputs and fires them at your smart contract. If even one random input breaks the contract, Foundry stops and tells you exactly which input caused the failure.
 
 <div class="diagram">
-<svg viewBox="0 0 800 200" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:700px">
+<svg viewBox="0 30 800 140" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:700px">
  <rect x="50" y="50" width="160" height="100" rx="8" fill="#fef2f2" stroke="#ef4444" stroke-width="1.5"/>
  <text x="130" y="90" text-anchor="middle" font-size="14" font-weight="bold" fill="#991b1b">Fuzzer</text>
  <text x="130" y="110" text-anchor="middle" font-size="11" fill="#991b1b">Generates 10,000</text>
@@ -149,16 +149,16 @@ Fuzz testing automates this. You define the rules (the invariants), and Foundry 
 
 If a hacker is executing a flash loan attack, they are interacting with live, deployed protocols like Uniswap and Aave. How do you test your defense against this?
 
-Foundry allows for **Mainnet Forking**. With one command, Foundry creates a local simulation on your laptop of the *entire Ethereum blockchain* at its current exact state. You can deploy your test contract locally, and have it interact with the real Uniswap liquidity pools to see exactly how your protocol behaves in live market conditions, all without spending a dime on gas.
+Foundry can fork a network at a chosen block, fetching the state it needs through an RPC provider. Tests then run locally against that state. Pin the block for reproducible results; a fork does not reproduce every aspect of live transaction ordering or future market conditions.
 
 ## How to get started in Security
 
-If you want to become a smart contract auditor (a highly lucrative career):
-1. Master Solidity. You cannot break what you do not understand.
-2. Learn Foundry. It is the required toolkit for modern security researchers.
+To practice contract auditing:
+1. Learn Solidity's storage, call, and access-control behavior.
+2. Write unit, fuzz, and invariant tests with a tool such as Foundry.
 3. Read past audit reports. Firms like Consensys Diligence publish their findings publicly.
 4. Compete on platforms like **Code4rena** or **Sherlock**, where protocols post bounties for developers to find bugs in their code.
 
-## Congratulations
+## A practice exercise
 
-You have completed the Web3 Security & Auditing track. You now understand the adversarial mindset, advanced EVM exploits, and the professional tools used to secure billions of dollars in decentralized finance.
+Choose a small open-source contract. Run its tests, inspect Slither's findings, and write one additional test for an accounting invariant. Record what you tested and what remains outside the review.

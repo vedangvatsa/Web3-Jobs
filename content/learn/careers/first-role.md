@@ -7,7 +7,7 @@ difficulty: beginner
 prerequisites:
   - freelancing
 quiz:
-  - question: What is the most effective way to find Web3 jobs?
+  - question: Which approach combines advertised roles with relevant professional contacts?
     options:
       - Searching on LinkedIn only
       - Using specialized Web3 job boards and networking in protocol communities
@@ -15,9 +15,9 @@ quiz:
       - Waiting for recruiters to contact you
     correct: 1
     explanation: >-
-      Web3-specific job boards (like this one) and direct networking in Discord
-      communities are more effective than general platforms. Many roles are
-      filled through community connections before they are publicly posted.
+      Job boards show published openings, while professional communities can
+      provide product knowledge and contacts. Use multiple sources and verify
+      openings with the employer.
   - question: When should you apply even if you do not meet every requirement?
     options:
       - Never
@@ -31,7 +31,7 @@ quiz:
       Job descriptions describe the ideal candidate, not the minimum. If you
       meet 60-70% of the requirements and have genuine interest in the protocol,
       apply. Many successful hires did not meet every listed requirement.
-  - question: What is the fastest way to stand out in a Web3 application?
+  - question: Which detail can make an application more specific to the employer?
     options:
       - A long cover letter about your passion for blockchain
       - >-
@@ -41,9 +41,9 @@ quiz:
       - Attaching your degree certificate
     correct: 1
     explanation: >-
-      Product knowledge is the strongest signal. If you have used the protocol
-      and can give specific feedback, you are already ahead of 90% of applicants
-      who have not tried the product.
+      A specific observation about a product can demonstrate preparation.
+      Describe only what you have actually used or researched and connect it
+      to the requirements of the role.
   - question: What is 'building in public' and why does it help with job hunting?
     options:
       - Making your code repository private
@@ -73,7 +73,7 @@ lastUpdated: 2026-09-04
 
 ## The 30-day action plan
 
-You do not need months of preparation. Here is a concrete timeline from today to your first Web3 job.
+This four-week plan organizes preparation and applications. Adapt it to your experience and available time; it is not a promise of an offer within a month.
 
 ### Week 1: Foundation
 
@@ -119,7 +119,7 @@ You do not need months of preparation. Here is a concrete timeline from today to
 
 **Do not**: Write a generic cover letter. Mention you want "exposure to crypto." Apply without looking at the product.
 
-**The 90% rule**: Most applicants have not tried the product. If you have, you are already in the top 10%. If you can offer specific product feedback, you are in the top 1%.
+Use a product or read its documentation before applying when practical. Refer to a specific feature or problem that relates to your experience, without pretending to have used something you have not.
 
 ## After the offer
 
@@ -129,8 +129,8 @@ You do not need months of preparation. Here is a concrete timeline from today to
 4. Join internal channels and introduce yourself
 5. Ask for a 30-60-90 day plan from your manager
 
-## Congratulations
+## Before starting a new role
 
-You have completed the Web3 Careers course. You now know the roles, skills, resume format, interview expectations, and where to find opportunities.
+Confirm the written offer, employment or contractor status, pay arrangements, reporting line, and onboarding requirements. Keep copies of the terms you accept.
 
 **Start applying today** - check our [job board](/) for open positions.

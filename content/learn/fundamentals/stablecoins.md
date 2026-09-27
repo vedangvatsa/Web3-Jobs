@@ -10,14 +10,13 @@ quiz:
   - question: Why do stablecoins exist?
     options:
       - To replace Bitcoin
-      - 'To provide a stable store of value in crypto, avoiding price volatility'
+      - To track a reference value through an on-chain token
       - To mine new cryptocurrency
       - To track stock market prices
     correct: 1
     explanation: >-
-      Crypto prices are volatile - ETH can move 10% in a day. Stablecoins stay
-      at $1, making them useful for trading, payments, and savings without price
-      risk.
+      Stablecoins target a reference value, but the peg can fail. Holders still
+      face issuer, reserve, collateral, market, and redemption risks.
   - question: How does USDC maintain its $1 peg?
     options:
       - An algorithm controls the supply
@@ -69,7 +68,7 @@ lastUpdated: 2026-09-04
 
 ETH can drop 20% in a week. Bitcoin has fallen 50% in a few months. If you are a freelancer getting paid in crypto, or a business accepting crypto payments, this volatility is a problem.
 
-Stablecoins fix this. They are tokens designed to always be worth $1 (or another fixed value). You get the benefits of crypto (instant transfers, no bank needed, works 24/7) without the price rollercoaster.
+Stablecoins target a reference value, often one US dollar. Their market price can still move away from that target. Reserve assets, redemption access, collateral rules, and issuer permissions determine how the peg is supported.
 
 ## Three ways to stay stable
 
@@ -125,7 +124,7 @@ There are three approaches to keeping a token worth $1. Each has trade-offs.
 
 The simplest model. A company holds real dollars (and Treasury bonds) in a bank. For every USDC in circulation, there is $1 in reserves. When you want to redeem, the company burns the token and sends you dollars.
 
-**USDC** (issued by Circle): Reserves are audited monthly by Deloitte. Backed by cash and short-term US Treasury bonds held in the Circle Reserve Fund, managed by BlackRock.
+**USDC** is issued by Circle and backed by reserves. Consult Circle's current reserve disclosures and independent assurance reports; an attestation about reserves is not the same as an audit of the issuer's entire business.
 
 **USDT** (issued by Tether): The largest stablecoin by market cap. Has faced scrutiny over its reserves transparency but remains the most traded crypto asset by volume.
 
@@ -141,16 +140,16 @@ Algorithmic stablecoins use code to adjust supply. When the price rises above $1
 
 In May 2022, the algorithmic stablecoin UST (Terra) lost its peg and collapsed from $18 billion to near zero in days. Its companion token LUNA went from $80 to $0.0001. This event shook the entire crypto market and led to tighter regulation.
 
-## The stablecoin market today
+## Comparing stablecoins
 
-| Stablecoin | Type | Market Cap | Issuer |
-| --- | --- | --- | --- |
-| USDT | Fiat-backed | ~$110B | Tether |
-| USDC | Fiat-backed | ~$35B | Circle |
-| DAI | Crypto-backed | ~$5B | MakerDAO |
-| FDUSD | Fiat-backed | ~$3B | First Digital |
+| Stablecoin | What to examine |
+| --- | --- |
+| USDT | Reserve disclosures, redemption terms, and issuer controls |
+| USDC | Reserve disclosures, redemption terms, and supported networks |
+| DAI | Collateral composition, governance, and liquidation rules |
+| FDUSD | Reserve disclosures and redemption eligibility |
 
-Stablecoins are the most widely used tokens in crypto. They handle more transaction volume than ETH or BTC on most days.
+Circulating supply and transfer volumes change over time. Use a dated dataset when comparing adoption, and distinguish trading volume from on-chain transfers.
 
 ## Key takeaways
 

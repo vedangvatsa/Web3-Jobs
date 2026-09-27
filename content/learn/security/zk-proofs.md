@@ -38,17 +38,15 @@ quiz:
     options:
       - SNARKs are faster.
       - >-
-        SNARKs require a trusted setup ceremony but produce smaller proofs;
-        STARKs need no trusted setup and are quantum-resistant but produce
-        larger proofs.
+        STARKs use transparent, hash-based constructions; SNARK designs vary
+        in their setup requirements and cryptographic assumptions.
       - STARKs are older technology.
       - They are the same thing with different names.
     correct: 1
     explanation: >-
-      SNARKs (used by zkSync, Scroll) need a one-time trusted setup - if the
-      setup is compromised, fake proofs could be generated. STARKs (used by
-      StarkNet) eliminate this risk with transparent setup, and they resist
-      quantum computing attacks, but their proofs are 10-100x larger.
+      Compare a particular proof system's assumptions, setup, proof size,
+      prover cost, and verifier cost. Not all SNARKs require a trusted setup,
+      and performance is not determined by the category name alone.
   - question: How do ZK-Rollups reduce Ethereum transaction costs?
     options:
       - By using a different cryptocurrency.
@@ -75,7 +73,7 @@ quiz:
       - Hiding transaction fees.
     correct: 1
     explanation: >-
-      ZK proofs enable powerful privacy use cases: prove you're a citizen of a
+      ZK proofs can support selective disclosure: prove you're a citizen of a
       country without revealing which one, prove you have sufficient funds
       without revealing your balance, or prove you voted without revealing your
       choice. The proof verifies the claim without exposing any private data.
@@ -84,9 +82,9 @@ lastUpdated: 2026-09-04
 
 ## What Are Zero-Knowledge Proofs?
 
-A zero-knowledge proof (ZKP) lets you prove you know something without revealing what you know. The classic example:
+A zero-knowledge proof lets a verifier check a statement without learning the private information used to prove it, beyond what the statement itself reveals.
 
-Imagine a cave with a fork - two paths that connect in the back. You claim you know the secret password to open the door connecting them. Instead of telling me the password, you enter the cave, I shout which side to come out of, and you emerge from the correct side every time. After enough rounds, I am convinced you know the password - but I never learned it.
+For example, a credential system can prove that an age requirement is met without publishing the person's full birth date. The proof only establishes the encoded claim; the credential issuer and verification rules still matter.
 
 In cryptography, ZKPs let you prove:
 - "I have enough money for this transaction" (without revealing your balance)
@@ -99,7 +97,7 @@ In cryptography, ZKPs let you prove:
 - **Succinct:** The proof is small and fast to verify.
 - **Non-interactive:** The prover sends the proof once; no back-and-forth.
 - Most widely used in production (zkSync, Scroll).
-- Requires a "trusted setup" ceremony - a one-time event where cryptographic parameters are generated.
+- Some SNARK systems use a trusted setup; others use transparent constructions. Check the particular proof system.
 
 ### STARKs (Scalable Transparent Arguments of Knowledge)
 - **Transparent:** No trusted setup needed.
@@ -109,7 +107,7 @@ In cryptography, ZKPs let you prove:
 
 | Feature | SNARKs | STARKs |
 | --- | --- | --- |
-| Trusted Setup | Required | Not required |
+| Trusted Setup | Depends on the construction | Transparent setup |
 | Proof Size | Small (~300 bytes) | Larger (~50 KB) |
 | Verification Speed | Very fast | Fast |
 | Quantum Resistance | No | Yes |
@@ -127,7 +125,7 @@ ZK-Rollups are Layer 2 scaling solutions that use zero-knowledge proofs to batch
 4. **The proof + compressed data** is posted to Ethereum mainnet.
 5. **The Ethereum smart contract** verifies the proof (cheap) instead of re-executing all transactions (expensive).
 
-The key insight: verifying a proof is much cheaper than re-executing the computation. A proof that verifies 10,000 transactions costs roughly the same as verifying a proof for 100 transactions.
+Proof verification can require much less work than repeating the computation. The costs depend on the proof system, circuit, public inputs, and settlement implementation. Rollups must also make the required transaction data available.
 
 ### Major ZK-Rollups
 
@@ -183,4 +181,4 @@ ZK proofs enable privacy features that are impossible with transparent blockchai
 - SNARKs are small and fast; STARKs are transparent and quantum-resistant.
 - ZK-Rollups batch thousands of transactions into one proof, slashing costs.
 - Privacy applications include private transactions, identity verification, and voting.
-- ZK technology is advancing rapidly - expect major breakthroughs in prover efficiency.
+- Compare prover cost, verification cost, data availability, and operational assumptions for the implementation you plan to use.

@@ -70,15 +70,15 @@ lastUpdated: 2026-09-04
 
 You do not need to start your career over. Web3 companies want people who can do the job - most skills transfer directly.
 
-The trick is **reframing** your experience to show relevance. Here is how:
+Explain how your actual experience relates to the role. Do not replace an employer, platform, tool, or result with one you have not worked with:
 
-| Web2 experience | Web3 reframe |
+| Actual experience | Relevant skill to explain |
 | --- | --- |
-| Built REST APIs for a fintech app | Built APIs integrating with smart contract backends |
-| Managed a 50K-user community on Reddit | Managed a DAO community of 50K members on Discord |
-| Ran Facebook ad campaigns for SaaS products | Ran growth campaigns for DeFi protocol launch |
-| Analyzed user data in SQL and Tableau | Analyzed on-chain data using Dune Analytics |
-| Led product roadmap for a payments product | Led product roadmap for a stablecoin protocol |
+| Built REST APIs for a fintech app | API design, transaction handling, and reliability |
+| Managed a community on Reddit | Moderation, escalation, and member support |
+| Ran ad campaigns for SaaS products | Campaign design, measurement, and budget management |
+| Analyzed user data in SQL and Tableau | SQL, data quality, and reporting |
+| Led a payments-product roadmap | Payment workflows, prioritization, and stakeholder coordination |
 
 ## Resume structure
 
@@ -91,7 +91,7 @@ Connect your strongest skill to the specific role. Mention any Web3 projects.
 Example: "Full-stack engineer with 4 years of TypeScript/React experience. Built and deployed an NFT marketplace on Ethereum testnet. Looking for a frontend role at a DeFi protocol."
 
 ### 3. Experience
-List Web2 roles with Web3-reframed bullet points. Use numbers: "Scaled API to handle 10K requests/second" beats "Worked on APIs."
+Keep job titles, employers, tools, and results accurate. Use measured outcomes where you have records to support them, and explain your own contribution to team results.
 
 ### 4. Web3 projects
 Dedicated section for any crypto-related work: personal projects, open-source contributions, hackathon wins, Dune dashboards, governance participation.
@@ -124,7 +124,7 @@ Every claim is backed by a link. The role is specific. The reader knows exactly 
 
 ## Key takeaways
 
-- Reframe Web2 experience using Web3 terminology - your skills transfer.
+- Describe transferable skills without relabeling past work as blockchain experience.
 - Include links to GitHub, deployed projects, and Dune dashboards.
 - Keep it to 1-2 pages. Web3 hiring managers skim.
 - A dedicated "Web3 Projects" section proves you are active in the space.

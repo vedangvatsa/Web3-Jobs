@@ -4,6 +4,7 @@
  */
 import { buildSitemapRoutes } from '../src/lib/sitemap-build';
 import { getCategories, getLessons } from '../src/lib/learn';
+import { getCoursePath, getLessonPath } from '../src/lib/learn-routes';
 import { getAllCategorySlugs } from '../src/lib/glossary';
 import { getPopupSlugs } from '../src/lib/popups';
 
@@ -33,9 +34,9 @@ async function main(): Promise<void> {
   const learnLessonPaths = new Set<string>();
   const learnCategoryPaths = new Set<string>();
   for (const cat of getCategories()) {
-    learnCategoryPaths.add(`/learn/${cat.slug}`);
+    learnCategoryPaths.add(getCoursePath(cat.slug));
     for (const lesson of getLessons(cat.slug)) {
-      learnLessonPaths.add(`/learn/${cat.slug}/${lesson.slug}`);
+      learnLessonPaths.add(getLessonPath(cat.slug, lesson.slug));
     }
   }
 
@@ -116,8 +117,8 @@ async function main(): Promise<void> {
   console.log(`Sitemap URLs (HTML):        ${sitemapPaths.size}`);
   console.log(`Pre-render param paths:     ${preRenderedPaths.size}`);
   console.log(`  /[slug] (root):           ${catchAllSlugs.size}`);
-  console.log(`  /learn/[cat]:             ${learnCategoryPaths.size}`);
-  console.log(`  /learn/[cat]/[lesson]:    ${learnLessonPaths.size}`);
+  console.log(`  root learning courses:   ${learnCategoryPaths.size}`);
+  console.log(`  root learning lessons:   ${learnLessonPaths.size}`);
   console.log(`  /glossary/[cat]:          ${glossaryCategoryPaths.size}`);
   console.log(`  /popups/:slug → /[slug]:  ${popupLegacyRedirectPaths.size} (redirect only)`);
   console.log(`  fixed listing/tool pages: ${fixedStaticPages.size}`);
@@ -142,14 +143,14 @@ async function main(): Promise<void> {
 
   // Double-check learn categories in sitemap
   const learnCatInSitemap = [...sitemapPaths].filter(
-    (p) => p.startsWith('/learn/') && p.split('/').filter(Boolean).length === 2,
+    (p) => learnCategoryPaths.has(p),
   );
   const learnCatMissing = learnCatInSitemap.filter((p) => !preRenderedPaths.has(p));
   console.log('');
   console.log(`Learn category pages in sitemap: ${learnCatInSitemap.length}, missing from static set: ${learnCatMissing.length}`);
 
   const learnLessonsInSitemap = [...sitemapPaths].filter(
-    (p) => p.startsWith('/learn/') && p.split('/').filter(Boolean).length === 3,
+    (p) => learnLessonPaths.has(p),
   );
   const learnLessonsMissing = learnLessonsInSitemap.filter((p) => !preRenderedPaths.has(p));
   console.log(`Learn lesson pages in sitemap: ${learnLessonsInSitemap.length}, missing from static set: ${learnLessonsMissing.length}`);

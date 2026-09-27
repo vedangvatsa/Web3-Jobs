@@ -7,7 +7,7 @@ difficulty: beginner
 prerequisites:
   - defi
 quiz:
-  - question: What is the most common type of Web3 scam?
+  - question: Which example describes phishing?
     options:
       - Hardware wallet theft
       - >-
@@ -17,10 +17,9 @@ quiz:
       - Mining scams
     correct: 1
     explanation: >-
-      Phishing is by far the most common attack. Scammers create fake websites
-      that look like real DeFi protocols or send DMs pretending to be 'support.'
-      When you connect your wallet and sign a transaction, they drain your
-      funds.
+      Phishing imitates a trusted source to obtain secrets or persuade someone
+      to authorize an unwanted action. Connecting a wallet alone is different
+      from signing a transfer, approval, or message.
   - question: What is a 'token approval' and why is it dangerous?
     options:
       - Approving a token listing on an exchange
@@ -70,13 +69,13 @@ quiz:
 lastUpdated: 2026-09-04
 ---
 
-## The number one rule
+## Check what you are being asked to sign
 
-Most crypto losses are not from blockchain hacks. They are from social engineering - people being tricked into giving up their keys or approving malicious transactions.
+Phishing can expose recovery phrases or persuade a user to sign a transfer, approval, or message they did not intend. Review the requested action, not only the website's appearance.
 
 The scammers are good at their job. They create perfect copies of real websites, impersonate project founders on Discord, and engineer urgency ("claim your airdrop in the next 10 minutes or it expires").
 
-Your best defense: slow down and verify everything.
+Check the domain and contract address against an independently obtained source before signing.
 
 ## Common attack types
 
@@ -136,7 +135,7 @@ Use at least two wallets:
 | Daily wallet | Browsing DeFi, minting NFTs, trying new protocols | Hot (MetaMask) | Small amounts you can afford to lose |
 | Savings wallet | Long-term holdings | Cold (Ledger/Trezor) | Main portfolio - never connects to risky sites |
 
-If your daily wallet gets drained by a phishing attack, your savings wallet is untouched. This is the simplest, most effective security measure.
+Separate keys and limited balances can reduce the amount exposed to one compromised account. Two addresses derived from the same exposed recovery phrase do not provide that separation.
 
 ## Red flags checklist
 
@@ -157,11 +156,11 @@ If you see any of these, stop immediately:
 - Phishing (fake sites and DMs) is the most common attack. Bookmark real URLs.
 - Token approvals are a hidden risk. Use limited approvals and check revoke.cash regularly.
 - Use separate wallets: a hot wallet for daily use, a cold wallet for savings.
-- If something seems too good to be true, it is a scam. Always.
+- Treat unexpected offers and pressure to sign quickly as reasons to stop and check the source.
 
-## Congratulations
+## Further lessons
 
-You have completed the Web3 Fundamentals course. You now understand blockchains, wallets, tokens, smart contracts, DeFi, and how to stay safe.
+The other courses cover DeFi applications, contract development, and career preparation in more detail.
 
 **Next paths to explore:**
 

@@ -41,9 +41,9 @@ quiz:
       - There is no difference
     correct: 1
     explanation: >-
-      Optimistic rollups assume transactions are valid and allow a challenge
-      period (7 days) to dispute fraud. ZK rollups generate a mathematical proof
-      that transactions are valid - no trust or waiting required.
+      Optimistic rollups use a challenge process; validity rollups verify a
+      proof of the encoded state-transition rules. Both have operational and
+      settlement assumptions, and their withdrawal times depend on the design.
   - question: Which of these is a Layer 2 network?
     options:
       - Bitcoin
@@ -112,7 +112,7 @@ Layer 2 (L2) networks solve this by moving most of the work off the main chain (
 
 A rollup is the most common type of Layer 2. It processes transactions on its own chain, bundles them together, and posts a compressed summary back to Ethereum.
 
-Think of it like a mail service. Instead of each person driving to the post office (Ethereum) individually, a mail carrier (the L2) collects letters from the neighborhood, loads them into one truck, and makes a single trip. The post office still handles the final delivery - but with far less traffic.
+Batching spreads settlement and data-publication costs across several transactions. Users still need to understand the rollup's sequencer, bridge, data availability, and upgrade controls.
 
 There are two types:
 
@@ -128,7 +128,7 @@ The trade-off: withdrawing money from an optimistic rollup to Ethereum takes 7 d
 
 Used by: zkSync, StarkNet, Polygon zkEVM
 
-Generate a **cryptographic proof** (called a validity proof) that mathematically proves all transactions in the batch are correct. No waiting period. No trust needed.
+Generate a **validity proof** that the state transition satisfies the rules encoded by the proof system. Proof generation, submission, and settlement still take time, and the bridge and upgrade design still have security assumptions.
 
 The trade-off: generating ZK proofs requires significant computing power, making the technology more complex to build. But withdrawals can be much faster since the proof guarantees correctness.
 
@@ -140,12 +140,12 @@ The trade-off: generating ZK proofs requires significant computing power, making
 | Token swap | $5-50 | $0.10-0.50 | $0.01-0.10 |
 | NFT mint | $10-100 | $0.20-1.00 | $0.02-0.20 |
 
-These are approximate ranges and vary with network congestion. The key point: L2s are 10-100x cheaper for the same operations.
+Fees change with demand, transaction type, and data-publication costs. Obtain a current quote from the wallet or application; the example ranges above are not live prices.
 
 ## Key takeaways
 
 - Layer 2 networks process transactions off Ethereum's main chain, then settle back to it.
 - **Optimistic rollups** (Arbitrum, Optimism, Base) assume validity, with a 7-day challenge window.
 - **ZK rollups** (zkSync, StarkNet) prove validity with math - no challenge period needed.
-- L2s reduce costs by 10-100x while inheriting Ethereum's security.
+- Rollup costs and security assumptions depend on the particular implementation and its settlement design.
 - To use an L2, you bridge your assets from Ethereum using a smart contract.

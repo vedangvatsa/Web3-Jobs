@@ -1,5 +1,5 @@
 ---
-title: Reentrancy Deep Dive
+title: Reentrancy and Shared State
 description: >-
   The most famous smart contract vulnerability - how it works, real exploits
   that used it, and the three defenses.
@@ -23,20 +23,17 @@ quiz:
       before updating the sender's balance, the receiving contract's fallback
       function can call withdraw() again. The balance hasn't been updated yet,
       so the check passes again. This loops until the contract is drained.
-  - question: How much was stolen in the 2016 DAO hack?
+  - question: What can make a withdrawal function vulnerable to reentrancy?
     options:
-      - $1 million
-      - >-
-        $3.6 million (60 million at the time) - roughly one-third of The DAO's
-        total funds
-      - $100 million
-      - $500 million
+      - Updating the balance before an external call
+      - An external call that allows reentry before the balance is updated
+      - Emitting a transfer event after accounting is complete
+      - Rejecting a withdrawal larger than the balance
     correct: 1
     explanation: >-
-      The DAO held $150M in ETH. The attacker used a reentrancy exploit to drain
-      $60M (~3.6M ETH). This hack was so severe that the Ethereum community
-      voted to hard-fork the blockchain to reverse the theft, creating Ethereum
-      (the fork) and Ethereum Classic (the original chain).
+      A callback can observe stale accounting and call a function again before
+      the original operation is complete. Review every entry point that can
+      access the affected state.
   - question: What is the Checks-Effects-Interactions pattern?
     options:
       - A deployment checklist
@@ -82,11 +79,11 @@ quiz:
 lastUpdated: 2026-09-04
 ---
 
-## The Most Famous Bug in Crypto History
+## Reentry during an external call
 
 On June 17, 2016, an attacker exploited a reentrancy vulnerability in The DAO - a decentralized investment fund - and drained 3.6 million ETH ($60M at the time). The hack was so catastrophic that the Ethereum community voted to hard-fork the entire blockchain to reverse it, splitting the network into Ethereum and Ethereum Classic.
 
-Nine years later, reentrancy remains one of the most common smart contract vulnerabilities. Every auditor needs to understand this attack inside out.
+Reentrancy can occur whenever control passes to another contract before an operation's state changes are complete. Review the state visible to every function that can be called during that interval.
 
 <div class="diagram">
 <svg viewBox="0 0 800 220" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:700px">
@@ -243,7 +240,7 @@ contract SecureVault is ReentrancyGuard {
 }
 ```
 
-The `nonReentrant` modifier sets a boolean lock. Any reentrant call sees the lock is active and reverts. This works even if the Checks-Effects-Interactions order is wrong.
+A reentrancy guard rejects nested calls to protected functions while its lock is active. It does not protect unguarded entry points or replace correct state ordering and accounting.
 
 ### Defense 3: Pull Over Push
 
@@ -279,7 +276,7 @@ function transfer(address to, uint256 amount) external {
 }
 ```
 
-This is why reentrancy guards should protect ALL functions that share mutable state, not just the one making external calls.
+Review every entry point that can read or change the affected state. Some need a shared guard; others need different state ordering or restrictions. Also consider external readers that may observe an inconsistent value during a callback.
 
 ## Key takeaways
 

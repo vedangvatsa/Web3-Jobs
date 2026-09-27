@@ -84,9 +84,9 @@ lastUpdated: 2026-09-04
 
 ## Why Stablecoins Exist
 
-Crypto is volatile. If you sell ETH for profit, you need somewhere to park the value without converting back to a bank account. Stablecoins solve this: they are tokens designed to hold a steady $1 value, letting you stay on-chain without exposure to price swings.
+Stablecoins target a reference value, often one dollar, and are used in trading, payments, and lending. They can still deviate from that target and expose holders to reserve, issuer, collateral, and redemption risk.
 
-Stablecoins are also the backbone of DeFi. Lending protocols, DEX liquidity pools, and yield farms all depend on stablecoins as their primary unit of account. Over $150B of stablecoins circulate across blockchains as of 2025.
+Many DeFi applications use stablecoins, while others use volatile assets. Check the particular token's design and supported networks before treating it as a cash equivalent.
 
 There are three fundamentally different designs.
 
@@ -168,7 +168,7 @@ There are three fundamentally different designs.
 4. A cheaper LUNA meant even more LUNA had to be minted per UST redeemed, creating hyperinflation.
 5. LUNA went from $80 to $0.0001. UST went from $1 to $0.02. Over $40 billion in value was destroyed in 72 hours.
 
-This event is the clearest demonstration of why purely algorithmic stablecoins - with no external collateral - are considered fundamentally fragile.
+The UST/LUNA collapse illustrates the risk of relying on demand for a related token to support redemptions during a run. Other designs need to be assessed against their own collateral and redemption mechanisms.
 
 ## Key takeaways
 

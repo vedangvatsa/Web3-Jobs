@@ -45,16 +45,15 @@ quiz:
     options:
       - Bridges process more transactions than DEXs
       - >-
-        Bridge contracts hold massive pools of locked assets - if the contract
-        is exploited, the attacker gets everything in the pool
+        A failure in custody or message validation can expose the assets
+        controlled by the bridge
       - Bridges don't use smart contracts
       - Hackers prefer attacking bridges for ideological reasons
     correct: 1
     explanation: >-
-      The Ronin Bridge hack ($625M, 2022) and Wormhole hack ($320M, 2022) both
-      exploited the bridge's validation mechanism. Because bridges custody
-      billions in locked tokens, a single vulnerability grants access to the
-      entire pool.
+      The impact depends on the assets and permissions affected by the failure.
+      Review message validation, signing or proof assumptions, custody,
+      upgrades, and limits on releases together.
   - question: What is a validator-based bridge?
     options:
       - A bridge that uses the same validators as Ethereum
@@ -71,8 +70,7 @@ quiz:
       to release tokens. The security depends entirely on how many validators
       must be compromised.
   - question: >-
-      What is the safest way to bridge assets between Ethereum and an L2 like
-      Arbitrum?
+      Which option is the native settlement route for a particular rollup?
     options:
       - Use any third-party bridge for speed
       - >-
@@ -82,10 +80,9 @@ quiz:
       - There is no safe way
     correct: 1
     explanation: >-
-      L2 native bridges (like Arbitrum's official bridge) settle transactions
-      through Ethereum's own consensus. While slower (7-day withdrawal period
-      for optimistic rollups), they inherit Ethereum's full security guarantees
-      rather than relying on a separate set of validators.
+      A canonical bridge is part of the rollup's settlement design. Check its
+      contracts, upgrade controls, proof or challenge process, and withdrawal
+      conditions; being native does not remove every risk.
 lastUpdated: 2026-09-04
 ---
 
@@ -144,9 +141,9 @@ The most common bridge design:
 
 The critical assumption: the wrapped token is only valuable if the locked ETH on Ethereum actually exists and the bridge contract is secure.
 
-## Why Bridges Are the Biggest Hack Targets
+## What a bridge must verify
 
-Bridge contracts are honeypots. They custody enormous amounts of locked tokens in a single contract. If an attacker finds one vulnerability, they drain the entire pool.
+A bridge must verify the messages that authorize minting or release of assets. Its exposure depends on custody, validator or proof design, upgrade permissions, and the chains it connects.
 
 | Bridge Hack | Date | Amount Stolen | Attack Vector |
 |---|---|---|---|
@@ -175,6 +172,6 @@ The pattern: most bridge hacks target the **validation layer** - the mechanism t
 ## Key takeaways
 
 - Bridges enable cross-chain transfers by locking tokens on one chain and minting representations on another.
-- Bridge contracts hold massive pools of locked assets, making them the highest-value targets in crypto.
-- Bridge security depends on the validation mechanism: multisig (weakest), optimistic (medium), ZK proofs (strongest).
-- Native L2 bridges are the safest option for Ethereum-to-L2 transfers, at the cost of speed.
+- Review the contracts and permissions that custody assets or authorize messages.
+- Multisig, optimistic, and proof-based designs have different assumptions; their names alone do not establish a security ranking.
+- Compare supported assets, finality, withdrawal delays, liquidity, and recovery options for the route you need.

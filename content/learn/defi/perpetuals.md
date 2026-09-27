@@ -86,22 +86,22 @@ lastUpdated: 2026-09-04
 
 ## What Are Perpetual Futures?
 
-A perpetual futures contract (or "perp") lets you bet on the price of an asset with use, without actually buying the asset. Unlike traditional futures which expire on a specific date, perps have no expiry - you can hold your position as long as you want (as long as you don't get liquidated).
+A perpetual contract provides price exposure without a scheduled expiry. A position requires margin and may incur funding payments and trading fees. Liquidation, delisting, or platform rules can end it before the trader chooses to close it.
 
-Perps were invented by BitMEX in 2016 and have become the most traded instrument in all of crypto - daily volume routinely exceeds $100 billion.
+Perpetual-contract designs differ in collateral, price references, funding calculations, and settlement. Read those rules for the particular market.
 
 ## How They Work
 
 ### Opening a Position
 
-You deposit collateral (usually USDC or ETH) and open a **long** (betting the price goes up) or **short** (betting the price goes down) with use.
+You deposit eligible collateral and open a **long** or **short** position. Leverage is the ratio of position exposure to the margin supporting it.
 
-Example with 10x use:
+Simplified example with 10x leverage, before fees, funding, and maintenance-margin rules:
 - You deposit $1,000 as margin.
 - You open a 10x long on ETH at $3,000.
 - Your effective position size is $10,000 (buying 3.33 ETH worth of exposure).
 - If ETH rises 10% to $3,300, your profit is $1,000 (100% return on your margin).
-- If ETH drops 10% to $2,700, you lose your entire $1,000 margin and get **liquidated**.
+- A 10% fall would consume the initial margin in this simplified calculation. In practice, maintenance-margin rules can trigger liquidation sooner.
 
 ### The Funding Rate
 
@@ -192,8 +192,8 @@ Decentralized perps rely on price oracles. If the oracle reports an incorrect pr
 
 ## Key Takeaways
 
-- Perpetual futures are the most-traded crypto instrument, exceeding $100B daily volume.
+- Perpetual contracts provide exposure without a scheduled expiry; margin and market rules still apply.
 - The funding rate mechanism keeps perp prices aligned with spot prices.
 - Decentralized perps (GMX, dYdX, Hyperliquid) offer self-custody and transparency.
-- High use amplifies both gains and losses - liquidation risk is the primary danger.
+- Leverage amplifies gains and losses relative to margin; fees, funding, and liquidation affect the result.
 - Oracle reliability is critical for fair pricing on decentralized perp exchanges.

@@ -77,11 +77,11 @@ quiz:
 lastUpdated: 2026-09-04
 ---
 
-## The Data Wall
+## Obtaining suitable training data
 
 Modern AI models are extremely data hungry. Models like GPT-4 were trained on massive swaths of the open internet: Reddit, Wikipedia, GitHub, and millions of websites. The training dataset for GPT-3 alone was estimated at 570GB of text - roughly the equivalent of reading 1 million books.
 
-However, the industry is hitting a "data wall." AI companies have essentially exhausted the free, public internet. Epoch AI research estimates that all publicly available, high-quality text data will be consumed by 2026-2028.
+Useful training data can be difficult to obtain because of licensing, privacy, quality, coverage, and labeling requirements. Availability depends on the task; there is no single point at which all usable public data has been consumed.
 
 To make the next leap in intelligence, models need specialized, high-quality data that isn't sitting openly online:
 - Medical records and clinical notes
@@ -158,7 +158,7 @@ This data is owned by individuals and institutions who won't share it for free.
 </svg>
 </div>
 
-The key difference: in the centralized model, users create data for free and companies capture all the value. In the decentralized model, users earn tokens proportional to the value of their data contributions.
+Payment and access rules differ between systems. Some networks pay contributors in tokens, but payment does not by itself establish data quality, fair compensation, or permission to reuse the material.
 
 ## Centralized Sourcing - The Status Quo
 
@@ -176,7 +176,7 @@ This model has clear problems:
 
 ## Token-Incentivized Data Networks
 
-Crypto fixes this through **Decentralized Physical Infrastructure Networks (DePIN)** and Data Markets. Instead of a centralized company hiring contractors, a protocol issues tokens to incentivize global participation:
+Some data networks use token rewards to recruit contributors and coordinate payment. Their collection, validation, and licensing processes still need to be evaluated:
 
 ### How It Works
 
@@ -185,14 +185,14 @@ Crypto fixes this through **Decentralized Physical Infrastructure Networks (DePI
 3. **Reward:** Users are paid in tokens proportional to the quality and quantity of their contributions.
 4. **Consumption:** AI companies purchase this aggregated, verified data using the protocol's token.
 
-Because contributors earn tokens, they own a piece of the network they are helping to build. If the network becomes more valuable (more AI companies buying data), the token appreciates, and early contributors benefit.
+A reward token does not necessarily represent equity or a claim on revenue. Its rights depend on the protocol, and greater data usage does not guarantee price appreciation.
 
 ## Major Projects
 
 ### Vana
 Vana enables users to pool their personal data and collectively negotiate with AI labs. Users export their data from platforms like Reddit, Twitter, or Spotify, contribute it to a "Data DAO," and earn VANA tokens when AI companies purchase access.
 
-The key innovation: **collective bargaining for data.** Instead of one individual selling their Reddit history (worthless alone), millions of users pool their data into a dataset worth billions to AI labs.
+Pooling data can give contributors a shared way to negotiate access. The dataset's value depends on its quality, coverage, permitted uses, and demand; size alone is not enough.
 
 ### Grass
 A network that pays users for their unused internet bandwidth. Users install a browser extension, and their idle bandwidth is used to scrape publicly available web data for AI training. Grass has over 2 million active users and has processed petabytes of web data.
@@ -238,9 +238,9 @@ Sharing personal data raises obvious privacy concerns. The best decentralized da
 
 ## Key Takeaways
 
-- AI is hitting a "data wall" - the free internet has been consumed.
+- Training-data access depends on quality, licensing, privacy, and the intended task.
 - Centralized data sourcing (Scale AI, contractor platforms) extracts value from data creators.
 - Decentralized data markets use tokens to incentivize and reward data contributors.
 - Quality verification (staking, cross-validation, compute-to-data) is the hardest challenge.
 - Privacy-preserving techniques allow data contribution without full disclosure.
-- The network effects of decentralized data markets could create data cooperatives worth billions.
+- Check contributor rights, buyer permissions, and withdrawal or deletion limits before sharing data.

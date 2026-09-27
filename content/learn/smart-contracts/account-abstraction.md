@@ -86,9 +86,9 @@ lastUpdated: 2026-09-04
 
 ## The Problem with Traditional Wallets
 
-Every Ethereum account today is an Externally Owned Account (EOA) - a raw public-private key pair. MetaMask, Coinbase Wallet, and every hardware wallet use EOAs.
+Ethereum supports externally owned accounts and contract accounts. An EOA traditionally authorizes transactions with a key, while a smart account can apply programmable authorization rules. Wallet capabilities also depend on the network and the implementation.
 
-This creates terrible UX:
+Key-controlled accounts can present limitations such as:
 
 - **No recovery:** Lose your seed phrase, lose everything.
 - **No batching:** Each action (approve + swap) requires a separate transaction.
@@ -96,11 +96,11 @@ This creates terrible UX:
 - **No spending limits:** You cannot set daily transfer caps.
 - **Single point of failure:** One compromised key = total loss.
 
-These problems make crypto hostile to mainstream users. Account abstraction fixes this.
+Account-abstraction designs can address some of these limitations, with different permissions and recovery assumptions.
 
 ## What Is Account Abstraction?
 
-Account abstraction means turning your wallet from a dumb key pair into a **smart contract** that can have custom logic:
+Account abstraction allows programmable account behavior, which can include:
 
 - Multiple signers (2FA, multisig)
 - Social recovery (trusted friends can help you regain access)
@@ -135,7 +135,7 @@ ERC-4337 is the Ethereum standard for account abstraction, deployed on mainnet i
 6. The operation executes.
 
 <div class="diagram">
-<svg viewBox="0 0 800 200" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:700px">
+<svg viewBox="0 30 800 140" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:700px">
  <rect x="10" y="70" width="100" height="60" rx="8" fill="#f0f9ff" stroke="#3b82f6" stroke-width="2"/>
  <text x="60" y="95" text-anchor="middle" font-size="12" font-weight="600" fill="#1e40af">User</text>
  <text x="60" y="112" text-anchor="middle" font-size="10" fill="#64748b">creates UserOp</text>
@@ -184,7 +184,7 @@ Coinbase launched a smart wallet using ERC-4337 with passkey authentication. Use
 ### Pimlico, Alchemy, Stackup
 Infrastructure providers that run Bundler services and Paymaster contracts, making it easy for apps to integrate ERC-4337.
 
-## Session Keys: The major shift
+## Temporary application permissions
 
 Session keys allow a smart wallet to grant temporary, scoped permissions to an application. For example:
 
@@ -194,13 +194,13 @@ This eliminates the constant "approve transaction" popups that plague current We
 
 ## Why This Matters
 
-Account abstraction is the single most important UX improvement in Web3. It enables:
+Depending on the implementation, programmable accounts can support:
 - **Onboarding without seed phrases** (use email, passkeys, social login).
 - **Gasless transactions** for new users.
 - **Recovery without hardware wallets** (social recovery, email recovery).
 - **Institutional-grade security** (multisig, spending limits, timelocks).
 
-The next billion crypto users will use smart contract wallets without even knowing they are interacting with a blockchain.
+Check which features the wallet actually implements and who can change its modules, recovery settings, or permissions.
 
 ## Key Takeaways
 

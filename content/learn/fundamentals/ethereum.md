@@ -71,9 +71,9 @@ quiz:
 lastUpdated: 2026-09-04
 ---
 
-## Bitcoin was step one. Ethereum was step two.
+## A blockchain for running contracts
 
-Bitcoin proved you could send money without a bank. That was a big deal. But Bitcoin's scripting language is simple on purpose - it handles transfers and not much else.
+Bitcoin and Ethereum have different execution models. Bitcoin uses a restricted scripting system; Ethereum provides a virtual machine for general-purpose smart contracts.
 
 In 2013, a 19-year-old programmer named Vitalik Buterin published a whitepaper asking: what if a blockchain could run any program, not just money transfers? Two years later, Ethereum launched. It is a blockchain with a built-in computer.
 
@@ -81,7 +81,7 @@ In 2013, a 19-year-old programmer named Vitalik Buterin published a whitepaper a
 
 Ethereum is a network of thousands of computers that all run the same virtual machine. This machine is called the **EVM** (Ethereum Virtual Machine). Anyone can write a program, deploy it to the EVM, and it will run exactly the same way on every computer in the network.
 
-Think of it like this: Google Docs runs on Google's servers. If Google shuts down, your documents disappear. An Ethereum smart contract runs on thousands of independent computers. No single company can shut it down.
+Ethereum execution clients apply the same rules to transactions. Contract availability also depends on the network and the contract's own permissions, including any pause or upgrade controls.
 
 <div class="diagram">
 <svg viewBox="0 0 800 250" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:700px">
@@ -137,11 +137,11 @@ Both are blockchains. Both use cryptocurrency. But they serve different purposes
 | Native token | BTC | ETH |
 | Main use | Store and send value | Run decentralized applications |
 
-Bitcoin is digital gold. Ethereum is a decentralized computer that happens to have its own currency.
+ETH is used to pay Ethereum transaction fees and participate in proof-of-stake validation.
 
 ## How smart contracts work on Ethereum
 
-A smart contract is a program stored on the Ethereum blockchain. Once deployed, it cannot be changed. It runs exactly as written, every time.
+A smart contract stores code and state at an Ethereum address. Its deployed code is fixed, but a proxy or other indirection can allow an authorized party to change which implementation is used.
 
 Here is what happens when you interact with one:
 
@@ -189,14 +189,7 @@ Because these are standards, any ERC-20 token works with any wallet, any exchang
 
 ## Ethereum's numbers
 
-Some facts about the network today:
-
-- **Validators**: Over 1 million active validators secure the network
-- **Staking requirement**: 32 ETH per validator
-- **Block time**: 12 seconds
-- **Transactions per day**: Over 1 million
-- **Smart contracts deployed**: Millions (most are inactive)
-- **Total value locked in DeFi**: Tens of billions of dollars
+Network activity changes over time. Use an explorer for current transaction counts, validator activity, and fees. Ethereum schedules proposal slots at 12-second intervals; that does not guarantee inclusion or finality within 12 seconds.
 
 ## What Ethereum cannot do (yet)
 
@@ -211,7 +204,7 @@ Ethereum has real limits:
 ## Key takeaways
 
 - Ethereum is a blockchain with a built-in computer (the EVM) that can run programs called smart contracts.
-- Smart contracts are permanent, unstoppable, and run exactly as written.
+- Contract behavior includes its permissions, dependencies, and any upgrade mechanism.
 - Every operation costs gas, paid in ETH.
 - ERC-20 (fungible tokens) and ERC-721 (NFTs) are the two main token standards.
 - Ethereum is slow and expensive on its own, which is why Layer 2 networks exist.

@@ -1,7 +1,7 @@
 ---
 title: How the Internet Evolved
 description: >-
-  The full story from dial-up to decentralization, explained simply with a
+  Changes in web publishing, platform accounts, and blockchain applications, with a
   timeline.
 order: 2
 readTime: 7 min
@@ -52,9 +52,9 @@ quiz:
 lastUpdated: 2026-09-04
 ---
 
-## A 30-year story in five minutes
+## Changes in publishing and application design
 
-The internet you use today looks nothing like the internet of 1995. It changed twice already. Understanding those changes helps you see where Web3 fits.
+The labels Web1, Web2, and Web3 describe broad trends rather than separate versions of the internet. Static sites, interactive platforms, and blockchain applications still coexist.
 
 <div class="diagram">
 <svg viewBox="0 0 800 160" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:700px">
@@ -142,4 +142,4 @@ Each phase of the internet created new jobs that did not exist before.
 
 Web1 created webmasters and system administrators. Web2 created social media managers, data scientists, and iOS developers. Web3 is creating smart contract auditors, protocol designers, tokenomics analysts, and DAO operators.
 
-The pattern is the same every time: people who learn the new technology early get the best positions. Right now, Web3 is where mobile development was in 2010 - early enough that demand outstrips supply.
+Learning the underlying technology can help you assess a role's requirements. It does not guarantee a job or a salary advantage; compare current openings with your experience and interests.

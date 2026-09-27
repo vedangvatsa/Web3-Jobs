@@ -119,18 +119,18 @@ Ethereum moved to Proof of Stake in September 2022. Validators must lock 32 ETH 
 </svg>
 </div>
 
-For individual users, there is an additional barrier: 32 ETH costs roughly $100,000. Most people cannot afford a full validator.
+Operating a validator also requires capital, technical maintenance, and an understanding of penalties and withdrawal rules. The fiat cost of the stake changes with ETH's price.
 
 ## Liquid Staking: Lido's Solution
 
-Lido solves both problems.
+Lido is one example of a pooled staking service:
 
 1. **Pool:** You deposit any amount of ETH (even 0.01 ETH) into Lido's smart contract.
 2. **Receipt:** Lido gives you stETH - a token that represents your share of the staking pool.
 3. **Rewards:** Your stETH balance automatically increases daily as the validators earn rewards.
 4. **Liquidity:** You can trade stETH on DEXs, use it as collateral on Aave, or provide liquidity - all while earning staking yield.
 
-As of 2025, Lido holds over $15B in staked ETH, making it the largest DeFi protocol by total value locked.
+Use current protocol disclosures to check deposits, fees, validator operators, and withdrawal conditions.
 
 ### Other Liquid Staking Protocols
 
@@ -141,7 +141,7 @@ As of 2025, Lido holds over $15B in staked ETH, making it the largest DeFi proto
 | Coinbase | cbETH | Value-accruing (centralized) |
 | Frax | sfrxETH | Value-accruing (dual token) |
 
-The difference between **rebasing** (stETH balance increases) and **value-accruing** (rETH price increases) is cosmetic. Both achieve the same economic outcome - your position grows over time.
+Rebasing and exchange-rate-based tokens represent rewards differently. Their contract behavior, integrations, tax treatment, and market prices can differ; neither guarantees a positive return.
 
 ## Restaking: EigenLayer
 
@@ -166,7 +166,7 @@ Layer 1: ETH staking rewards (Lido) +3-4% APY ← Ethereum slashing risk
 Base: ETH ← market price risk
 ```
 
-The more layers you stack, the higher the yield - but each layer introduces a new vector where you can lose funds.
+Combining protocols can add dependencies, fees, and slashing or liquidation conditions. It does not guarantee a higher net return.
 
 ## The Centralization Concern
 

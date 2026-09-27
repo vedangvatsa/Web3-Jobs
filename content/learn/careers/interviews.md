@@ -7,7 +7,7 @@ difficulty: beginner
 prerequisites:
   - resume
 quiz:
-  - question: What type of question is most common in Web3 interviews?
+  - question: Which question would assess understanding of a blockchain product?
     options:
       - Brain teasers
       - >-
@@ -75,7 +75,7 @@ lastUpdated: 2026-09-04
 
 ## What Web3 interviews look like
 
-Web3 interviews are less formal than Big Tech. Most have 3-4 rounds:
+Interview processes vary. Ask the recruiter about the stages, expected preparation, and time commitment. A process may include:
 
 1. **Intro call** (30 min) - culture fit, "Why Web3?", basic understanding check
 2. **Technical screen** (60 min) - role-specific skills test
@@ -88,7 +88,7 @@ Web3 interviews are less formal than Big Tech. Most have 3-4 rounds:
 They will pick a concept relevant to their product - DeFi, rollups, governance, gas fees. This tests whether you truly understand it or just memorized jargon.
 
 **"Why this company?"**
-Use the product before the interview. Have a specific opinion. "I used your DEX and noticed the UX for adding liquidity is confusing - here is how I would improve it" is a standout answer.
+Explain what you know about the product and why the role fits your experience. If you have used it, describe a specific observation and the evidence behind your suggested improvement.
 
 **"What is a trade-off in blockchain technology?"**
 There is no perfect answer, but decentralization vs. speed, on-chain vs. off-chain storage, and security vs. cost are solid starting points.
@@ -126,6 +126,6 @@ There is no perfect answer, but decentralization vs. speed, on-chain vs. off-cha
 ## Key takeaways
 
 - Use the product before the interview. Have specific opinions.
-- Be able to explain blockchain concepts simply - this is always tested.
+- Practice explaining concepts relevant to the role and checking that the listener understands.
 - Technical interviews focus on Solidity (smart contracts) or React/wallet integration (frontend).
 - Take-home projects are common - they test real building ability, not memorization.

@@ -119,7 +119,7 @@ Anyone can be an LP. You deposit an equal value of two tokens (e.g., $1000 of ET
 
 ## The Constant Product Formula (x * y = k)
 
-How does the smart contract know what price to charge if there is no order book? Uniswap uses a simple, elegant formula: `x * y = k`.
+The constant-product model used by Uniswap v2 relates the two pool balances with `x * y = k`. Other AMM designs use different rules.
 
 - `x` = amount of token A in the pool
 - `y` = amount of token B in the pool
@@ -134,7 +134,7 @@ The pool must always maintain the constant `k`.
 4. To keep `k` at 200,000, the USDC balance must become `200,000 / 9 = 22,222.22`.
 5. The pool currently has 20,000 USDC. So you must pay the difference: 2,222.22 USDC.
 
-This automatically prices the asset based on supply and demand. If a token becomes scarce in the pool, its price goes up exponentially.
+This example omits fees. As one reserve falls, obtaining more of that asset becomes increasingly expensive under the constant-product curve.
 
 ## Slippage
 
@@ -152,7 +152,7 @@ Compared to just holding the ETH and USDC in your wallet, you effectively lost s
 
 ## Key takeaways
 
-- DEXs replace order books with Automated Market Makers (AMMs) and liquidity pools.
+- Some DEXs use AMMs and liquidity pools; others use order books or combine several execution methods.
 - Prices are set mathematically by the ratio of tokens in the pool (`x * y = k`).
 - Liquidity Providers (LPs) supply the tokens and earn trading fees.
 - Slippage occurs when large trades move the pool's ratio.

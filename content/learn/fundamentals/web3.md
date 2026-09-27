@@ -37,7 +37,7 @@ quiz:
     correct: 1
     explanation: >-
       Smart contracts are programs that live on a blockchain and run by
-      themselves when conditions are met. No human needs to approve the action.
+      when invoked by transactions or other contracts, subject to their rules.
   - question: Why do most Web3 apps still use regular servers?
     options:
       - Because blockchains do not actually work
@@ -62,18 +62,18 @@ quiz:
 lastUpdated: 2026-09-04
 ---
 
-## The one-sentence version
+## What the term describes
 
-Web3 is an internet where you own your stuff. Your money, your data, your identity - you hold them, not a company.
+Web3 is a broad term for applications that use blockchains, wallets, and tokens. These systems can let users hold and transfer digital assets through accounts they control.
 
-## Think of it like this
+## Accounts and ownership
 
-Right now, when you post a photo on Instagram, Instagram owns it. When you save money in a bank, the bank holds it. When you buy a game on Steam, Steam can remove it from your library.
+A platform account and a blockchain account have different controls. A service manages access to its own records; a blockchain account authorizes actions through keys or contract rules. Uploading a photo to a platform does not, by itself, transfer its copyright to the platform.
 
-Web3 flips this. You hold your own money in a wallet on your phone. You own your digital items directly. No company sits in the middle.
+Self-custody changes who can authorize transactions, but applications can still depend on companies, hosted services, or token issuers. Check those dependencies separately from ownership of the token itself.
 
 <div class="diagram">
-<svg viewBox="0 0 800 280" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:700px">
+<svg viewBox="0 0 800 220" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:700px">
  <!-- Web2 side -->
  <text x="200" y="30" text-anchor="middle" font-size="16" font-weight="bold" fill="#666">Today (Web2)</text>
  <rect x="40" y="50" width="100" height="50" rx="8" fill="#e5e7eb" stroke="#9ca3af" stroke-width="1.5"/>
@@ -121,7 +121,7 @@ The internet changed twice before. We are in the middle of the third change.
 
 **Web2** gave everyone a voice. Facebook, YouTube, and Twitter let anyone post. But the trade-off was big: these platforms collected your data and sold ads against it. You became the product.
 
-**Web3** adds ownership. When you buy a token, you hold it in your own wallet. When you earn rewards from a protocol, they go straight to you. No company can freeze your account or change the rules.
+**Web3** adds on-chain accounts and assets to application design. Some tokens have issuer freeze controls, and some protocols can be upgraded by administrators or governance. These permissions should be examined before use.
 
 ## The four building blocks
 
@@ -165,7 +165,7 @@ Ethereum is the most popular blockchain for building apps. Bitcoin was first but
 
 A smart contract is a small program that lives on a blockchain. It runs by itself when certain conditions are met.
 
-Example: You send 1 ETH to a trading contract. The contract checks the current price, calculates the exchange rate, and sends you USDC back. No human touches the trade. No company approves it. The code just runs.
+For example, a swap transaction calls a trading contract. The contract checks the input, calculates the output under its pricing rules, and either completes the exchange or reverts.
 
 ### Wallets
 
@@ -189,11 +189,11 @@ Tokens are digital units that represent something. A few common types:
 | **Developer** | Build on private APIs | Build on open protocols |
 | **Business** | Revenue from ads | Revenue from protocol fees |
 
-For **job seekers**: Web3 companies are hiring right now. Our job board tracks thousands of open roles. You do not need blockchain experience to start. Most roles ask for Python, SQL, or JavaScript - the same skills you already have. Companies train the Web3-specific parts internally.
+For **job seekers**, requirements depend on the role. Some positions use familiar software, finance, or operations skills; others require protocol-specific experience. Read the qualifications in each listing rather than assume training is provided.
 
 ## What Web3 does not do
 
-Web3 is not magic. Some honest things to know:
+Before using an application, consider:
 
 - Most Web3 apps still use regular servers for speed. Only the important parts (money, ownership) go on-chain.
 - If you lose your wallet password (called a seed phrase), your money is gone. There is no "forgot password" button.

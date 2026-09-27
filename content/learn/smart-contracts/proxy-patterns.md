@@ -84,7 +84,7 @@ lastUpdated: 2026-09-04
 
 ## The Immutability Problem
 
-Smart contracts are immutable. Once deployed, the code cannot be changed. This is a feature (users can trust the code won't change) and a bug (if you find a vulnerability, you can't patch it).
+Deployed bytecode is fixed, but a contract can delegate execution to another implementation. A proxy uses that indirection to support changes while keeping its address and state.
 
 In practice, most protocols need upgradability - to fix bugs, add features, or respond to governance decisions. Proxy patterns solve this.
 
@@ -162,7 +162,7 @@ Multiple implementation contracts ("facets") share a single proxy:
 - Enables modular architecture for complex protocols.
 - More complex to audit but more flexible.
 
-## Storage Collision: The Silent Killer
+## Storage layout compatibility
 
 The most dangerous pitfall in proxy upgrades is **storage collision**. Since the proxy and implementation share storage, they must use the same storage layout.
 
@@ -189,7 +189,7 @@ The new code reads slot 0 as `totalSupply`, but it still contains the old `owner
 ## Security Considerations
 
 ### Who Controls Upgrades?
-The upgrade key is the most powerful permission in a protocol. Best practices:
+An upgrade authority may be able to change contract behavior and access to assets. Review:
 - **Multisig:** Require multiple signatures (e.g., 3/5 Gnosis Safe).
 - **Timelock:** Enforce a delay (24-48 hours) between initiating and executing an upgrade. This gives users time to exit if they disagree.
 - **Governance:** For mature protocols, upgrades should require token-holder votes.
@@ -201,15 +201,13 @@ The upgrade key is the most powerful permission in a protocol. Best practices:
 4. Ensure the implementation's `initialize()` function can only be called once.
 5. Check for `selfdestruct` in the implementation (it would destroy the implementation, not the proxy, but can still cause issues).
 
-### The Wormhole Bridge Hack
-In February 2022, Wormhole's bridge was exploited for $320 million. The attacker exploited an uninitialized implementation contract - the implementation had an `initialize()` function that was never called, allowing the attacker to call it and take ownership.
-
-**Lesson:** Always initialize your implementation contracts, even though they are never called directly.
+### Initializing the proxy and locking the implementation
+Initialize proxy state atomically as part of deployment where supported. The implementation contract should have its own initializers disabled so it cannot be taken over directly. These are separate operations; setting state on the implementation does not initialize the proxy's storage.
 
 ## Key Takeaways
 
 - Proxy patterns enable upgradability by separating storage (proxy) from logic (implementation).
 - Storage collisions are the most common and dangerous upgrade bug.
-- The upgrade admin key is the most powerful permission - secure it with multisig + timelock.
-- Always initialize implementation contracts.
+- Review upgrade authorization, signing arrangements, delays, and the actions the authority can perform.
+- Initialize proxy state and disable implementation initializers using the framework's documented deployment pattern.
 - Use OpenZeppelin's upgrade tools to catch storage layout errors automatically.

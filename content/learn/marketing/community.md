@@ -1,6 +1,6 @@
 ---
 title: Community Management 101
-description: Why Discord is the heart of Web3 and how to manage it.
+description: Community support, moderation, announcements, and contributor coordination.
 order: 1
 readTime: 7 min
 difficulty: beginner
@@ -72,13 +72,13 @@ quiz:
 lastUpdated: 2026-09-04
 ---
 
-## The Community is the Product
+## Supporting users and contributors
 
 In Web2, users are customers. They pay for a service (or are the product being sold to advertisers). 
 
-In Web3, users are owners. Because of tokens and DAOs, the people using the protocol also own a piece of it and govern its future. This completely changes the dynamic. If the community loses faith in a protocol, they sell their tokens, remove their liquidity, and the protocol dies.
+Some users hold governance tokens, but users, token holders, contributors, and company owners are different groups. Their rights depend on the protocol and any legal agreements.
 
-**A Community Manager (CM) is not a customer support agent. They are the bridge between the developers and the owners.**
+A community manager may handle support, moderation, announcements, events, and feedback. Define the responsibilities and escalation process for the particular team.
 
 ## The Web3 Tech Stack
 
@@ -118,18 +118,18 @@ You must master the tools used to run decentralized communities.
 
 ## How to Get Hired as a CM
 
-You do not need a resume to become a CM. 
+Public contributions can provide evidence of moderation or communication skills. Employers may also ask for a resume, references, and previous experience.
 
 1. Join the Discord of an early-stage project you believe in.
 2. Answer questions from new users in the general chat.
 3. Create helpful guides or translate announcements into your native language.
 4. After a few weeks of consistent, high-quality help, ask the core team if they are hiring community moderators.
 
-This is the most common entry point into Web3 for non-technical talent.
+Check advertised openings and paid contributor programs. Participation in a community does not guarantee a job, and expectations about unpaid work should be explicit.
 
 ## Key takeaways
 
 - In Web3, users are owners. The community manager is the bridge between developers and the protocol owners.
 - Discord is the central hub, supported by token-gating tools like Guild.xyz.
 - A CM must protect the server from scammers, manage sentiment during volatile markets, and host transparent community calls.
-- The best way to get hired is to actively help out in a project's Discord for free first.
+- Use relevant work samples and current openings to guide an application; unpaid participation is optional.

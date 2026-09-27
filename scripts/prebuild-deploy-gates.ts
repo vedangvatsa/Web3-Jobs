@@ -15,6 +15,7 @@ function fullGates(): void {
   run('npx tsx scripts/audit-detail-formatting.ts --events');
   run('npx tsx scripts/test-middleware.ts');
   run('npx tsx scripts/test-popup-root-pages.ts');
+  run('npx tsx --test scripts/test-learn-pages.ts');
   run('npx tsx scripts/test-og-meta-articles.ts');
   run('npx tsx scripts/test-news-dedup.ts');
   run('npx tsx scripts/test-event-page-quality.ts');
@@ -32,6 +33,7 @@ function fastGates(): void {
   run('npx tsx scripts/test-middleware.ts');
   run('npx tsx scripts/test-link-preview-preview-path.ts');
   run('npx tsx scripts/test-popup-root-pages.ts');
+  run('npx tsx --test scripts/test-learn-pages.ts');
   run('npx tsx scripts/test-job-slug-reserved.ts');
   run('npx tsx scripts/test-job-slug-resolution.ts');
   run('npx tsx scripts/test-site-catalog-integrity.ts');

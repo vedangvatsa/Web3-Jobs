@@ -4,7 +4,9 @@ import {
   isLinkPreviewCrawlerRequest,
   linkPreviewPreviewPath,
   SOCIAL_UTM_MAP,
+  stripSocialPathSuffix,
 } from '@/lib/social-share';
+import { getLearnRedirectPath } from '@/lib/learn-routes';
 /**
  * Social media suffix shortcuts mapping to standardized UTM attribution parameters.
  */
@@ -103,6 +105,15 @@ function applyRateLimitHeaders(response: NextResponse, limit: number, remaining:
 
 export async function middleware(request: NextRequest) {
   const pathname = request.nextUrl.pathname;
+  const normalizedLearnPath = pathname.replace(/\/+$/, '');
+  const exactLearnDestination = getLearnRedirectPath(normalizedLearnPath);
+  const learnBasePath = exactLearnDestination ? normalizedLearnPath : stripSocialPathSuffix(normalizedLearnPath);
+  const learnDestination = exactLearnDestination || getLearnRedirectPath(learnBasePath);
+  if (learnDestination) {
+    const url = request.nextUrl.clone();
+    url.pathname = learnDestination + normalizedLearnPath.slice(learnBasePath.length);
+    return NextResponse.redirect(url, 308);
+  }
   const searchParams = request.nextUrl.searchParams;
   const host = request.headers.get('host')?.split(':')[0]?.toLowerCase();
   if (host === 'www.hashtagweb3.com') {

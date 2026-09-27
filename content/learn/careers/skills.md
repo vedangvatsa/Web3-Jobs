@@ -66,29 +66,29 @@ lastUpdated: 2026-09-04
 
 ## What job descriptions actually ask for
 
-We analyzed thousands of Web3 job postings on our platform. Here are the skills that appear most frequently.
+Requirements vary by job function. The [hiring report](/web3-hiring-report) provides dated counts from our current analysis. The examples below describe where skills can be useful, without assigning unsupported percentages to them.
 
 ### For engineers
 
-| Skill | How often it appears | Why it matters |
-| --- | --- | --- |
-| Solidity | 70% of smart contract roles | The language of Ethereum contracts |
-| TypeScript / JavaScript | 60% of all engineering roles | Frontend, backend, scripting |
-| React / Next.js | 55% of frontend roles | The dominant UI framework |
-| Rust | 30% of protocol roles | Used by Solana, Polkadot, Cosmos |
-| Go | 25% of infrastructure roles | Blockchain node clients (Geth) |
-| Python | 20% of data/backend roles | Scripting, data analysis, ML |
-| SQL | 20% of analytics roles | On-chain data querying (Dune) |
+| Skill | Example work |
+| --- | --- |
+| Solidity | Ethereum-compatible contract development |
+| TypeScript / JavaScript | Web applications, services, and scripts |
+| React / Next.js | Application interfaces |
+| Rust | Protocol software and some on-chain programs |
+| Go | Network services and node software |
+| Python | Scripting, data analysis, and model development |
+| SQL | Querying and validating data |
 
 ### For non-engineers
 
-| Skill | How often it appears | Why it matters |
-| --- | --- | --- |
-| Crypto/blockchain understanding | 90% of all roles | Baseline literacy for any Web3 job |
-| Content writing | 50% of marketing roles | Blog posts, docs, social content |
-| Data analysis | 40% of PM/analyst roles | Dune Analytics, spreadsheets |
-| Community management | 35% of ops roles | Discord, Telegram, Twitter |
-| Project management | 30% of PM/ops roles | Roadmaps, sprints, coordination |
+| Skill | Example work |
+| --- | --- |
+| Product knowledge | Explaining the application's features and limits |
+| Content writing | Documentation, articles, and product communications |
+| Data analysis | Reports, dashboards, and research |
+| Community management | Support, moderation, and issue escalation |
+| Project management | Planning, dependencies, and coordination |
 
 ### Soft skills every employer wants
 
@@ -99,7 +99,7 @@ We analyzed thousands of Web3 job postings on our platform. Here are the skills 
 
 ## The most underrated skill: being able to explain crypto simply
 
-If you can explain DeFi to a non-technical person, you are more valuable than someone who knows Solidity but cannot communicate. This is rare and highly valued.
+Clear explanations help colleagues and users make decisions. Practice explaining a feature, its assumptions, and its limitations without relying on specialist vocabulary.
 
 ## Where to learn each skill (free)
 

@@ -1,7 +1,7 @@
 ---
 title: Careers at the AI x Crypto Intersection
 description: >-
-  The fastest-growing roles, skills, and companies hiring at the intersection of
+  Roles, skills, and project types involving
   AI and Web3.
 order: 7
 readTime: 8 min
@@ -9,7 +9,7 @@ difficulty: beginner
 prerequisites:
   - introduction
 quiz:
-  - question: Which skill combination is most in-demand at the AI x Crypto intersection?
+  - question: Which combination is relevant to integrating a model with contracts?
     options:
       - Marketing and community management.
       - ML engineering combined with smart contract development.
@@ -17,10 +17,9 @@ quiz:
       - Legal compliance and regulations.
     correct: 1
     explanation: >-
-      The intersection demands engineers who understand both machine learning
-      pipelines (PyTorch, model serving) and blockchain infrastructure
-      (Solidity, on-chain verification). This rare combination commands premium
-      salaries.
+      Model integration can require knowledge of inference, evaluation,
+      contract interfaces, and transaction handling. The required depth depends
+      on the project and the role.
   - question: What type of company is most likely to hire for AI x Crypto roles?
     options:
       - Traditional banks.
@@ -48,7 +47,7 @@ quiz:
       architecture are extremely rare and in high demand. They build models for
       on-chain analytics, MEV detection, risk scoring, and autonomous agent
       decision-making.
-  - question: What skill combination gives the biggest edge for AI x Crypto careers?
+  - question: Which combination supports work on models using blockchain data?
     options:
       - JavaScript and graphic design.
       - >-
@@ -58,11 +57,10 @@ quiz:
       - Project management certification.
     correct: 1
     explanation: >-
-      The unique value at this intersection is the ability to bridge both
-      worlds: write ML models (Python, PyTorch) AND understand smart contracts,
-      token mechanics, and on-chain data pipelines. This dual expertise is rare
-      and commands premium compensation.
-  - question: What is the best way to break into AI x Crypto without prior experience?
+      Such work can involve data collection, model evaluation, and knowledge
+      of the contracts producing the records. Use actual job requirements to
+      choose which skills to develop.
+  - question: Which activity can demonstrate relevant work to an employer?
     options:
       - Wait for a formal degree program.
       - >-
@@ -73,16 +71,15 @@ quiz:
       - Get a traditional finance certification.
     correct: 1
     explanation: >-
-      This field moves too fast for formal education to keep up. The most
-      effective entry path is building publicly: ship a project that
-      demonstrates both AI and crypto skills, contribute to open-source
-      frameworks like Eliza or LangChain, and share your work on Twitter/GitHub.
+      A documented project can show the inputs, implementation, evaluation,
+      and limitations of your work. It is one form of evidence alongside
+      education and other experience, not a guaranteed hiring route.
 lastUpdated: 2026-09-04
 ---
 
-## The Talent Gap
+## Roles that combine model and blockchain work
 
-AI x Crypto is one of the fastest-growing sectors in Web3, but it has a severe talent shortage. Very few people have deep expertise in both machine learning and blockchain infrastructure. This creates enormous opportunity for those willing to learn both.
+Some roles combine machine learning with on-chain data, wallet integrations, distributed compute, or cryptographic verification. The required depth in each area varies by employer and project.
 
 ## High-Demand Roles
 
@@ -91,39 +88,39 @@ AI x Crypto is one of the fastest-growing sectors in Web3, but it has a severe t
 
 **Skills needed:** PyTorch/TensorFlow, model optimization, ONNX, distributed training, basic Solidity or Rust.
 
-**Salary range:** $150K-$350K+ (with token compensation).
+Check the employer's published pay band, location restrictions, and the treatment of any token grants.
 
 ### AI Agent Developer
 **What you do:** Build autonomous agents that use crypto wallets to transact, interact with smart contracts, and perform complex multi-step tasks.
 
 **Skills needed:** Python, LLM APIs (OpenAI, Anthropic, local models), LangChain/CrewAI/AutoGPT frameworks, Web3.js/Ethers.js, wallet management.
 
-**Salary range:** $120K-$250K.
+Look for evidence of tool integration, transaction validation, testing, and failure handling in the role's requirements.
 
 ### ZK/Cryptography Engineer
-**What you do:** Build zero-knowledge proof systems for verifiable AI inference (zkML). This is the most technically demanding and highest-paying role.
+**What you do:** Build or integrate proof systems for specified model computations. The work may include circuit design, benchmarking, and verifier integration.
 
 **Skills needed:** Advanced mathematics, Rust, Circom/Halo2/Plonky2, deep understanding of neural network architectures.
 
-**Salary range:** $200K-$400K+.
+Research and implementation roles may require different levels of mathematics and production experience.
 
 ### Protocol Engineer
 **What you do:** Build the core infrastructure for decentralized compute or data networks. Design tokenomics, consensus mechanisms, and verification systems.
 
 **Skills needed:** Rust or Go, distributed systems, consensus algorithms, cryptography fundamentals.
 
-**Salary range:** $150K-$300K.
+Check whether the position focuses on protocol research, production infrastructure, or application development.
 
 ### AI Product Manager
 **What you do:** Define product strategy for AI-powered Web3 products. Bridge the gap between ML researchers and blockchain engineers.
 
 **Skills needed:** Technical literacy in both AI and crypto, user research, product analytics, clear communication.
 
-**Salary range:** $130K-$250K.
+Relevant work can include evaluation design, product requirements, and coordination of model and application releases.
 
 ## Companies Hiring
 
-The following categories of companies actively hire at the AI x Crypto intersection:
+These are examples of project categories to research. Their inclusion does not confirm a current vacancy:
 
 - **Decentralized Compute:** Render, Akash, io.net, Gensyn, Together AI
 - **AI Agent Protocols:** Fetch.ai, SingularityNET, Autonolas
@@ -144,4 +141,4 @@ The following categories of companies actively hire at the AI x Crypto intersect
 
 5. **Write about it.** The intersection is new enough that thoughtful blog posts or Twitter threads about AI x Crypto topics can establish you as a domain expert quickly.
 
-The AI x Crypto intersection is where the highest-paying, most technically interesting Web3 jobs are emerging. Getting in early is a career advantage.
+Use current job descriptions to choose what to learn next. A small, documented project with tests and stated limitations is more useful evidence of your work than a claim to expertise in both fields.

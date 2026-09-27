@@ -5,6 +5,7 @@ import { getCompanies } from '@/lib/companies';
 import { getPopupSlugs } from '@/lib/popups';
 import { getAllResourcePages } from '@/lib/pseo/resources';
 import { getCategories, getLessons } from '@/lib/learn';
+import { getCoursePath, getLessonPath } from '@/lib/learn-routes';
 import { getAllJobsWithSlugs } from '@/lib/job-guides';
 import { getEvents } from '@/lib/events-server';
 import { getEventSlug } from '@/lib/events';
@@ -312,21 +313,19 @@ export async function buildSitemapRoutes(): Promise<MetadataRoute.Sitemap> {
   priority: 0.7,
  }));
 
- // Learn Category pages live at /learn/<category-slug>.
  const learnCategoryRoutes: MetadataRoute.Sitemap = learnCategories.map((category) => ({
-  url: `${siteUrl}/learn/${category.slug}`,
+  url: siteUrl + getCoursePath(category.slug),
   lastModified: CONTENT_FALLBACK_DATE,
   changeFrequency: 'monthly' as const,
   priority: 0.8,
  }));
 
- // Learn Lesson pages live at /learn/<category-slug>/<lesson-slug>.
  const learnLessonRoutes: MetadataRoute.Sitemap = [];
  for (const category of learnCategories) {
   const lessons = getLessons(category.slug);
   for (const lesson of lessons) {
    learnLessonRoutes.push({
-    url: `${siteUrl}/learn/${category.slug}/${lesson.slug}`,
+    url: siteUrl + getLessonPath(category.slug, lesson.slug),
     lastModified: CONTENT_FALLBACK_DATE,
     changeFrequency: 'monthly' as const,
     priority: 0.7,

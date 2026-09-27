@@ -38,7 +38,7 @@ quiz:
       can't read it. Verification submits your Solidity source code to
       Etherscan, which compiles it independently and confirms it produces the
       same bytecode. This lets users verify the contract does what it claims.
-  - question: What is the biggest cost when deploying a complex smart contract?
+  - question: What network cost is incurred when deploying a contract?
     options:
       - The Etherscan verification fee
       - >-
@@ -48,10 +48,9 @@ quiz:
       - Domain registration
     correct: 1
     explanation: >-
-      Deployment gas costs scale directly with contract size. A simple ERC-20
-      might cost ~$50 to deploy. A complex DeFi protocol with multiple contracts
-      can cost $2,000-$10,000+ at typical gas prices. Optimizing bytecode size
-      directly reduces deployment costs.
+      Deployment consumes gas for code creation and constructor execution.
+      Estimate it using the actual configuration; the currency cost also
+      depends on fee settings and the native asset's price.
   - question: Why should you NEVER hardcode private keys in deployment scripts?
     options:
       - It makes the script slower
@@ -85,13 +84,13 @@ lastUpdated: 2026-09-04
 
 ## The Deployment Path
 
-Deploying a smart contract is not like deploying a web app. You cannot update it after it goes live. The sequence matters:
+A deployment creates on-chain code and state. Replacing its behavior later may require an upgrade mechanism or a migration, so test the deployment sequence as well as the contract functions:
 
 ```
 Local tests → Testnet deployment → Testnet verification → Mainnet deployment → Mainnet verification
 ```
 
-Skipping any step is how protocols lose money.
+Record the configuration, compiler settings, addresses, and permissions used at each stage.
 
 <div class="diagram">
 <svg viewBox="0 0 800 130" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:700px">
@@ -161,7 +160,7 @@ module.exports = {
 
 ### Critical Rule: Never Expose Keys
 
-Your `.env` file holds your private key. Your `.gitignore` must include `.env`. Period.
+Keep private keys out of source files and version control. If local environment files contain credentials, exclude them from Git and check that they have not already been committed.
 
 ```
 # .env (NEVER commit this file)
@@ -171,7 +170,7 @@ MAINNET_RPC_URL=https://eth-mainnet.g.alchemy.com/v2/your-key
 ETHERSCAN_API_KEY=your-etherscan-api-key
 ```
 
-Bots scan every GitHub push for private keys. If yours leaks for even one second, your wallet will be drained.
+Treat a published private key as compromised. Removing it from a file does not invalidate copies or remove it from repository history.
 
 ## Step 2: Write the Deployment Script
 
@@ -243,7 +242,7 @@ Typical costs (at 20 gwei gas price):
 npx hardhat run scripts/deploy.js --network mainnet
 ```
 
-This is the point of no return. Double-check everything before pressing enter.
+Before broadcasting, verify the chain, sender, constructor arguments, linked addresses, and expected permissions. Compare the resulting deployment with the recorded configuration.
 
 ## Post-Deployment Checklist
 

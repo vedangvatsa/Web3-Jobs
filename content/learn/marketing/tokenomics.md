@@ -83,7 +83,7 @@ lastUpdated: 2026-09-04
 
 ## What Is Tokenomics?
 
-Tokenomics is the economic design of a cryptocurrency token: how many tokens exist, who gets them, when they unlock, and what utility they provide. Good tokenomics align the incentives of users, builders, and investors. Bad tokenomics create pump-and-dump cycles that destroy value.
+Tokenomics describes supply, allocations, issuance, vesting, and token-holder rights. Review these mechanisms separately; no allocation formula guarantees demand or investment returns.
 
 ## Supply Mechanics
 
@@ -174,7 +174,7 @@ Many projects launch tokens that have no real utility. Ask: could this protocol 
 
 ## Emission Schedules
 
-Emission = the rate at which new tokens enter circulation. This is the single most important factor in long-term token price performance.
+Emission is the release or creation of tokens under a defined schedule. It affects supply, but price also depends on demand, liquidity, holder behavior, and the token's rights.
 
 High emissions (aggressive liquidity mining, large ecosystem grants) create constant selling pressure as recipients sell rewards to cover costs. Sustainable projects design emissions that decrease over time (Bitcoin's halving model).
 
@@ -188,8 +188,8 @@ When evaluating any token:
 
 ## Key Takeaways
 
-- Tokenomics is the single most important factor in a token's long-term viability.
+- Read supply and incentive rules alongside the product, its costs, and token-holder rights.
 - FDV vs. market cap ratio reveals dilution risk.
 - Vesting schedules protect retail investors from insider dumps.
 - Genuine token utility (staking, payment, governance) sustains demand.
-- Sustainable emission schedules prevent death spirals.
+- Model issuance and selling pressure under different demand assumptions rather than assume a schedule ensures stability.

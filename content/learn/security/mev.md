@@ -79,16 +79,15 @@ quiz:
       - An encrypted wallet
     correct: 1
     explanation: >-
-      When you submit a transaction through MetaMask's default RPC, it enters
-      the public mempool where any bot can see it. Private RPCs (like Flashbots
-      Protect or MEV Blocker) route your transaction directly to block builders
-      without exposing it publicly, making sandwich attacks impossible.
+      A private submission service can reduce exposure to public-mempool
+      observers. Its protections depend on routing, participating builders,
+      service policy, and fallback behavior; they are not an absolute guarantee.
 lastUpdated: 2026-09-04
 ---
 
-## The Dark Forest
+## Transaction ordering and execution price
 
-In January 2020, researcher Dan Robinson published a paper called "Ethereum is a Dark Forest." The thesis: Ethereum's public mempool is a hostile environment where automated bots ruthlessly extract value from ordinary users' transactions. Any profitable opportunity visible on-chain will be captured by a bot before a human can act.
+Pending transactions can reveal trades and other actions before they are included in a block. Searchers and block builders can use that information when choosing transaction order.
 
 MEV - Maximal Extractable Value - is the profit that can be extracted by manipulating the order, inclusion, or exclusion of transactions within a block.
 
@@ -148,7 +147,7 @@ A bot sees a profitable transaction in the mempool and submits the same transact
 
 ### 2. Sandwich Attacks
 
-The most common MEV strategy targeting everyday DeFi users.
+A sandwich places transactions before and after a target trade, attempting to profit from its price impact.
 
 ```
 Mempool state:
@@ -163,7 +162,7 @@ Bot's attack:
  Bot profits from the price difference it created
 ```
 
-The bot's profit comes directly from the price impact on your trade. You paid ~0.5-1% more than you should have. On a $10,000 swap, that's $50-100 going to the bot.
+The additional execution cost depends on liquidity, order size, slippage limits, and transaction ordering. It is not a fixed percentage of every swap.
 
 ### 3. Arbitrage
 
@@ -173,7 +172,7 @@ Unlike sandwiching, arbitrage is generally considered beneficial - it keeps pric
 
 ## The Scale of MEV
 
-Flashbots data shows that over **$600M** in MEV was extracted on Ethereum in 2023 alone. The real number is likely higher because not all MEV is publicly attributable.
+MEV estimates depend on which networks, transactions, and strategies a dataset can identify. Check those definitions before comparing totals from different sources.
 
 | MEV Type | Who Benefits | Who Pays |
 |---|---|---|
@@ -201,22 +200,22 @@ Lower slippage tolerance = less room for sandwich bots. But too tight and your t
 
 ### 3. Use MEV-Aware DEX Aggregators
 
-- **CoW Swap:** Batch auctions that match orders off-chain, eliminating MEV by design.
+- **CoW Swap:** Uses batch auctions and solver competition to reduce exposure to certain forms of MEV.
 - **1inch Fusion:** Routes through private order flow to minimize front-running exposure.
 
 ### 4. Break Up Large Trades
 
-A $100,000 swap is a much more attractive target than ten $10,000 swaps. The price impact (and therefore MEV profit) scales with order size.
+Splitting an order can change its price impact, but it also adds fees and exposes more transactions. Compare quoted execution costs rather than assume splitting is always better.
 
 ## MEV's Impact on Ethereum's Design
 
-MEV is not just a user problem - it affects Ethereum's architecture. Flashbots built **MEV-Boost**, which separates the roles of validators (who propose blocks) and builders (who construct the optimal block). Over 90% of Ethereum blocks now use MEV-Boost.
+**MEV-Boost** lets participating validators obtain blocks from external builders through relays. The arrangement separates block construction from proposal while adding dependencies on builders and relays.
 
 Ethereum's roadmap includes **Proposer-Builder Separation (PBS)** as a protocol-level solution, formally separating block building from block proposing to reduce centralization pressures from MEV.
 
 ## Key takeaways
 
 - MEV is profit extracted from manipulating transaction ordering within blocks. It is an inherent property of public blockchains with transparent mempools.
-- Sandwich attacks are the most common form - they cost everyday DeFi users 0.5-1% on every swap.
+- Sandwich attacks can worsen trade execution; exposure and losses vary by trade.
 - Use private RPCs (Flashbots Protect) and MEV-aware DEXs (CoW Swap) to protect your transactions.
 - Arbitrage MEV is beneficial (market efficiency). Sandwich MEV is extractive (user cost).

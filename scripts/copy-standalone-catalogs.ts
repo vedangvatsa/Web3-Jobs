@@ -22,6 +22,7 @@ const FILES = [
   'content/slug-types.json',
   'content/legacy-slugs-archive.json',
   'content/learn-runtime.json',
+  'content/learn-routes.json',
   'content/pseo-resources-runtime.json',
   'content/company-logos-index.json',
   'content/latest-articles.json',

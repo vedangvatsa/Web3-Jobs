@@ -52,9 +52,9 @@ quiz:
       - They are illegal everywhere
     correct: 1
     explanation: >-
-      Voter apathy is the biggest challenge for DAOs. In many DAOs, fewer than
-      5% of token holders participate in governance votes, which means a small
-      minority makes decisions for the entire community.
+      Limited participation can concentrate decisions among active holders or
+      delegates. Check actual turnout, voting power, and quorum rules for the
+      governance system being examined.
   - question: Which of these is a real DAO?
     options:
       - Google
@@ -69,11 +69,11 @@ quiz:
 lastUpdated: 2026-09-04
 ---
 
-## Companies without a CEO
+## Decisions through proposals and votes
 
-A traditional company has a hierarchy: CEO makes decisions, board approves, employees execute. A DAO replaces this with code and votes.
+A DAO coordinates some decisions through a governance process, often using token voting and smart contracts. Its members may also rely on working groups, service providers, and legal entities.
 
-In a DAO, token holders are the decision-makers. They propose changes, vote on them, and if a proposal passes, a smart contract executes it. No CEO. No board. No headquarters.
+The governance rules determine who can submit a proposal, how voting power is counted, and how a passed proposal is executed. Some actions are executed on-chain; others need a multisig or an off-chain team.
 
 <div class="diagram">
 <svg viewBox="0 0 800 220" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:700px">
@@ -118,19 +118,18 @@ Most DAOs require a **quorum** - a minimum percentage of tokens must participate
 
 ## Real DAOs today
 
-| DAO | Governance token | Treasury | What they govern |
-| --- | --- | --- | --- |
-| Uniswap | UNI | ~$2B | DEX protocol fees and upgrades |
-| Aave | AAVE | ~$100M | Lending risk parameters |
-| MakerDAO | MKR | ~$3B | DAI stablecoin stability |
-| Lido | LDO | ~$300M | ETH staking protocol |
-| ENS | ENS | ~$100M | Ethereum Name Service pricing |
+| Governance system | Token | Example decisions |
+| --- | --- | --- |
+| Uniswap | UNI | Protocol proposals and treasury spending |
+| Aave | AAVE | Lending risk parameters |
+| Lido | LDO | Staking-protocol proposals |
+| ENS | ENS | Naming-protocol proposals and treasury spending |
 
 ## The challenges
 
-DAOs are an experiment. They work, but not perfectly:
+Governance design involves several trade-offs:
 
-**Low participation**: Most token holders do not vote. Typical participation rates are 2-10%. This concentrates power in the hands of a few large holders (whales).
+**Participation**: Voting power may be concentrated among a small number of active holders or delegates. Check proposal-level turnout rather than assume a standard participation rate.
 
 **Speed**: Governance votes take days or weeks. A traditional company CEO can make a decision in hours. This matters during emergencies.
 

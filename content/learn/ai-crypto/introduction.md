@@ -75,14 +75,14 @@ quiz:
 lastUpdated: 2026-09-04
 ---
 
-## The Convergence of Two Revolutions
+## Where model applications use blockchains
 
-Artificial Intelligence (AI) and Crypto (Web3) are the two most significant technologies of this decade. They look unrelated on the surface - one generates content, the other manages money. But they solve complementary problems:
+Some applications combine models with on-chain payments, shared data, or computation verification. These are separate design choices; a model application does not automatically need a blockchain.
 
-- **AI** creates **abundance** - generating infinite content, code, images, and intelligence at near-zero marginal cost.
-- **Crypto** enforces **scarcity** - verifying truth, enforcing ownership, and transferring value without middlemen.
+- **Models** produce outputs from inputs using a particular architecture, parameters, and execution process.
+- **Blockchains** record state and transactions according to network and application rules.
 
-When you combine them, abundance gets an economic layer. AI creates; crypto pays, verifies, and governs.
+An integration must specify which part is computed by a model and which part is recorded or enforced on-chain.
 
 <div class="diagram">
 <svg viewBox="0 0 800 280" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:700px">
@@ -122,19 +122,19 @@ When you combine them, abundance gets an economic layer. AI creates; crypto pays
 </svg>
 </div>
 
-Each technology fills the other's gaps. AI makes crypto usable; crypto makes AI economically sovereign.
+The combination adds dependencies as well as capabilities. Evaluate each component against the application's actual requirements.
 
 ## Why AI needs Crypto
 
-Traditional AI systems are powerful but face structural bottlenecks that blockchains solve:
+Some applications use blockchain components for the following tasks:
 
 ### 1. Payments for Machines
 
 An AI agent cannot open a bank account. If an autonomous agent wants to buy API credits, hire another agent, or pay a human for labeled data, it hits a wall. Traditional finance (Stripe, PayPal, banks) requires a human identity - government-issued ID, KYC verification, a physical address.
 
-Crypto wallets require none of this. An AI agent can generate a wallet (a public-private key pair) in milliseconds and immediately start sending and receiving value globally. No KYC, no waiting periods, no account freezes.
+Software can use a wallet under an operator's permissions. Generating keys does not remove legal obligations, issuer controls, network fees, or the access rules of the services it uses. Conventional payment APIs are also available through authorized accounts.
 
-This is not theoretical. In 2024, AI agents on platforms like Virtuals Protocol and Truth Terminal autonomously managed crypto wallets worth millions of dollars.
+Check who controls the signing keys and which actions require approval before describing a wallet as autonomous.
 
 ### 2. Compute Monopolies
 
@@ -172,7 +172,7 @@ AI generates infinite content - text, images, video, audio. When anything can be
 - **On-chain timestamps** create an immutable record of when content was created.
 - **Zero-knowledge proofs** can verify that a specific AI model produced a specific output, without revealing the model's weights.
 
-This becomes critical for combating deepfakes, AI-generated misinformation, and content provenance.
+These tools can establish specific claims about signatures or execution. They do not establish that a statement is true or that a signer is trustworthy.
 
 ### 4. Decentralized Training Data
 
@@ -251,18 +251,9 @@ This stack is being built across four layers:
 - **Model Networks** allow multiple parties to collaboratively train, serve, and verify AI models.
 - **Agent Networks** enable autonomous AI agents to transact, communicate, and coordinate.
 
-## The Market Opportunity
+## Questions for a proposed integration
 
-The numbers tell the story:
-
-| Market | Current Size | Projected (2028) |
-| --- | --- | --- |
-| Global AI market | $200B | $1.3T |
-| Cloud compute (GPU) | $80B | $200B+ |
-| Crypto total market cap | ~$2.5T | - |
-| AI x Crypto tokens (combined) | ~$30B | - |
-
-Even if decentralized AI captures just 5% of the centralized AI compute market, that represents a $10+ billion opportunity - larger than most of DeFi today.
+Which operation needs a shared ledger? Who can authorize spending? What does the verification method prove? How are errors corrected? Answer those questions before adding a token or wallet to a model application.
 
 ## A Brief Timeline
 
@@ -275,7 +266,7 @@ Even if decentralized AI captures just 5% of the centralized AI compute market, 
 ## Key takeaways
 
 - AI creates abundance (content, intelligence); Crypto manages scarcity (value, identity, verification).
-- AI agents need crypto wallets to become economically sovereign - they cannot use banks.
+- Agents can use wallets or authorized conventional payment APIs, depending on the service and account permissions.
 - Crypto needs AI to fix its UX problems and enable intelligent automation.
 - The stack has four layers: compute, data, models, and agents.
-- The market is nascent but growing rapidly - understanding it now is a career advantage.
+- Evaluate concrete technical requirements rather than assume the combination creates a business or career advantage.

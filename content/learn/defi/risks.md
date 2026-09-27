@@ -44,10 +44,9 @@ quiz:
       - TVL has no relation to security
     correct: 1
     explanation: >-
-      A protocol with $1 billion TVL has an open $1 billion bounty for any
-      hacker who can find a bug. If it has survived for years with high TVL, the
-      code is battle-tested. However, even battle-tested protocols can be
-      hacked.
+      Deposited value is context, not a security test. The current deployment
+      may differ from earlier versions, and an undiscovered vulnerability can
+      remain even after a long period of operation.
   - question: Why do smart contract audits NOT guarantee safety?
     options:
       - Auditors don't look at the code
@@ -79,9 +78,9 @@ quiz:
 lastUpdated: 2026-09-04
 ---
 
-## The dark side of "code is law"
+## Failures to consider before depositing
 
-In DeFi, there are no customer service hotlines and no FDIC insurance. If a smart contract has a flaw, the money can be drained instantly. Over $5 billion has been stolen in DeFi hacks since 2020.
+A contract deposit exposes funds to the contract, its administrators, and any systems it depends on. Recovery options vary; a support team or an audit does not guarantee reimbursement.
 
 Understanding how protocols break is the first step to protecting your funds.
 
@@ -142,7 +141,7 @@ To move assets from Ethereum to Solana, you use a "bridge." A bridge works by lo
 
 If you are going to deposit funds into DeFi, follow this checklist:
 
-1. **Lindy Effect (Time on Market):** Has the protocol been holding over $100 million for more than a year? Hackers follow the money. If it has held a massive bounty for a year without being hacked, it is significantly safer than a protocol launched yesterday.
+1. **History:** Review past incidents, changes, and unresolved findings. Time in operation and deposited value are context, not proof that the current contracts are safe.
 2. **Audits:** Go to the protocol's documentation. Have they been audited by top-tier firms like Trail of Bits, OpenZeppelin, or Consensys Diligence? (Note: An audit is not a guarantee of safety, but lack of an audit is a massive red flag).
 3. **Bug Bounty:** Do they offer millions of dollars to "white hat" hackers who find bugs and report them safely? (Check Immunefi).
 4. **Admin Keys:** Can the developers change the code whenever they want? If the developers get hacked, the protocol gets drained. Look for protocols governed by a DAO or requiring a multi-sig (multiple people to sign off on changes).
@@ -151,5 +150,5 @@ If you are going to deposit funds into DeFi, follow this checklist:
 
 - DeFi hacks usually stem from smart contract logic bugs, oracle manipulation, or bridge exploits.
 - Flash loans weaponize market manipulation, allowing hackers with zero capital to execute massive attacks.
-- Time on the market (Lindy effect) and high TVL are the strongest indicators of battle-tested code.
+- Check the deployed code version, permissions, dependencies, audits, and incident history together.
 - Always assume new protocols are extremely high risk.

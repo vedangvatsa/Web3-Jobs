@@ -59,6 +59,10 @@ import { buildJobOgImageUrl, buildArticleOgImageUrl, buildCompanyOgImageUrl, res
 import { PopupDetailPage } from '@/components/popup-detail-page';
 import { getPopupBySlug } from '@/lib/popups';
 import { getPopupPath, popupPageMetadata, resolvePopupForPathSegment, resolvePopupSlug } from '@/lib/popup-seo';
+import { learnRoutes, resolveLearnRoute } from '@/lib/learn-routes';
+import { learnPageMetadata } from '@/lib/learn-meta';
+import LearnLessonPage from '@/components/learn-lesson-page';
+import LearnCoursePage from '@/components/learn-course-page';
 
 
 type ArticlePageProps = {
@@ -73,11 +77,13 @@ export const dynamicParams = true;
 export const revalidate = 3600;
 
 export async function generateStaticParams(): Promise<{ slug: string }[]> {
-  return [];
+  return learnRoutes.map(({ slug }) => ({ slug }));
 }
 
 export async function generateMetadata({ params }: ArticlePageProps): Promise<Metadata> {
   const { slug } = await params;
+  const learningRoute = resolveLearnRoute(slug);
+  if (learningRoute) return learnPageMetadata(learningRoute);
   const slugType = classifySlug(slug);
 
   if (slugType === 'event') {
@@ -369,6 +375,10 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
 
 export default async function ArticlePage({ params }: ArticlePageProps) {
   const { slug } = await params;
+  const learningRoute = resolveLearnRoute(slug);
+  if (learningRoute) return learningRoute.lesson
+    ? <LearnLessonPage categorySlug={learningRoute.category} lessonSlug={learningRoute.lesson} />
+    : <LearnCoursePage categorySlug={learningRoute.category} />;
   const slugType = classifySlug(slug);
   const articlesPromise = slugType === 'article' ? getAllArticles() : null;
 

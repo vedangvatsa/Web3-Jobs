@@ -19,7 +19,7 @@ quiz:
     explanation: >-
       A block is a bundle of transactions. Each block holds a few hundred to a
       few thousand transactions, along with a hash of the previous block.
-  - question: What makes it nearly impossible to change old transactions?
+  - question: How do hash links make changes to a block detectable?
     options:
       - A company reviews every change
       - >-
@@ -29,9 +29,9 @@ quiz:
       - Old blocks are deleted from the system
     correct: 1
     explanation: >-
-      Each block contains the hash of the previous block. If you change one old
-      transaction, its block's hash changes, which breaks every block after it.
-      You would need to redo all the work for every subsequent block.
+      Changing a block changes its hash, so later links no longer match.
+      Replacing an accepted history also requires overcoming consensus rules;
+      recalculating hashes alone is not enough.
   - question: What do nodes do in a blockchain network?
     options:
       - They design the blockchain's website
@@ -58,23 +58,23 @@ quiz:
     options:
       - Because it is very fast
       - Because no one is allowed to read it
-      - 'Because once data is added, it is practically impossible to change'
+      - Because changing an accepted history is constrained by consensus rules
       - Because it only works on one computer
     correct: 2
     explanation: >-
-      Immutable means it cannot be changed. Once a transaction is confirmed and
-      buried under more blocks, changing it would require redoing all the work
-      after it and convincing the entire network to accept your version.
+      Finality and confirmation rules make accepted history difficult to replace
+      under the network's security assumptions. A transaction's first inclusion
+      in a block is not necessarily final.
 lastUpdated: 2026-09-04
 ---
 
 ## What problem does a blockchain solve?
 
-Imagine you and a friend keep score in a game, but you each write the score on your own paper. If there is a disagreement, who is right?
+A blockchain lets participants verify a shared transaction history under a common set of rules.
 
-A blockchain solves this by giving everyone the same paper, and making it so nobody can erase what was already written.
+Nodes check proposed transactions and blocks. A consensus mechanism determines which valid history the network follows when participants see competing blocks.
 
-In the real world, this matters for money. If Alice sends $100 to Bob, how do both sides know the money actually moved? Today, a bank keeps the record. A blockchain replaces the bank with math and thousands of computers.
+For a payment, the record identifies the transfer and the resulting balances. Verification depends on the chain's software, consensus rules, and security assumptions rather than only one account provider's database.
 
 ## Blocks: bundles of transactions
 
@@ -170,14 +170,14 @@ A hash is a fingerprint for data. You feed any amount of data into a hash functi
 </svg>
 </div>
 
-This is what makes blockchains tamper-proof. Each block contains the hash of the previous block. Change one old transaction, and its block's hash changes. That breaks every block after it. To fake a transaction, you would need to redo the hash for every block that comes after - and do it faster than the entire network adds new ones.
+Hash links make changes detectable. Replacing an accepted history also requires overcoming the network's consensus rules; recalculating hashes alone is not enough. The cost and conditions differ between proof-of-work and proof-of-stake systems.
 
 ## Nodes: thousands of copies
 
 A blockchain does not live on one computer. It lives on thousands of computers called **nodes**. Each node keeps a complete copy of the entire blockchain.
 
 <div class="diagram">
-<svg viewBox="0 0 800 260" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:600px">
+<svg viewBox="0 0 800 290" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:600px">
  <!-- Center: Blockchain -->
  <rect x="300" y="90" width="200" height="70" rx="10" fill="#dbeafe" stroke="#3b82f6" stroke-width="2"/>
  <text x="400" y="120" text-anchor="middle" font-size="14" font-weight="bold" fill="#1e40af">New Transaction</text>
@@ -220,9 +220,9 @@ A blockchain does not live on one computer. It lives on thousands of computers c
 </svg>
 </div>
 
-When someone broadcasts a transaction, every node checks it independently. Does Alice actually have 2 ETH? Is the signature valid? If most nodes agree the transaction is good, it gets included in the next block.
+Nodes receiving a transaction check its signature and relevant execution rules. A block producer chooses transactions for a proposed block, and other nodes validate the block. Inclusion is not decided by a simple majority vote of all nodes.
 
-If an attacker tries to submit a fake transaction, the other nodes reject it. To successfully cheat, an attacker would need to control the majority of the network's computing power (in Proof of Work) or staked tokens (in Proof of Stake) - which for large blockchains costs billions of dollars.
+Validating nodes reject transactions that break protocol rules. Consensus attacks can affect ordering, censorship, and finality, but do not automatically let an attacker forge another user's signature.
 
 ## Consensus: how nodes agree
 
@@ -275,7 +275,7 @@ There are two main approaches:
 When you send ETH to someone, here is what happens step by step:
 
 <div class="diagram">
-<svg viewBox="0 0 800 340" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:700px">
+<svg viewBox="0 0 800 144" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:700px">
  <!-- Step 1 -->
  <rect x="20" y="20" width="160" height="80" rx="8" fill="#dbeafe" stroke="#3b82f6" stroke-width="1.5"/>
  <text x="100" y="48" text-anchor="middle" font-size="12" font-weight="600" fill="#1e40af">1. You sign</text>
@@ -302,15 +302,15 @@ When you send ETH to someone, here is what happens step by step:
 
  <!-- Step 4 -->
  <rect x="620" y="20" width="160" height="80" rx="8" fill="#f0fdf4" stroke="#22c55e" stroke-width="1.5"/>
- <text x="700" y="48" text-anchor="middle" font-size="12" font-weight="600" fill="#166534">4. Confirmed</text>
+  <text x="700" y="48" text-anchor="middle" font-size="12" font-weight="600" fill="#166534">4. Included</text>
  <text x="700" y="66" text-anchor="middle" font-size="10" fill="#64748b">Added to a block.</text>
- <text x="700" y="80" text-anchor="middle" font-size="10" fill="#64748b">Done. Irreversible.</text>
+  <text x="700" y="80" text-anchor="middle" font-size="10" fill="#64748b">Finality comes later.</text>
 
  <!-- Time labels -->
- <text x="100" y="120" text-anchor="middle" font-size="10" fill="#94a3b8">~1 second</text>
- <text x="300" y="120" text-anchor="middle" font-size="10" fill="#94a3b8">~1 second</text>
- <text x="500" y="120" text-anchor="middle" font-size="10" fill="#94a3b8">~12 seconds</text>
- <text x="700" y="120" text-anchor="middle" font-size="10" fill="#94a3b8">~12 seconds</text>
+  <text x="100" y="120" text-anchor="middle" font-size="10" fill="#94a3b8">Wallet signature</text>
+  <text x="300" y="120" text-anchor="middle" font-size="10" fill="#94a3b8">Network propagation</text>
+  <text x="500" y="120" text-anchor="middle" font-size="10" fill="#94a3b8">Validity checks</text>
+  <text x="700" y="120" text-anchor="middle" font-size="10" fill="#94a3b8">Block inclusion</text>
 
  <defs>
  <marker id="arrowGray2" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6" fill="#94a3b8"/></marker>
@@ -318,21 +318,21 @@ When you send ETH to someone, here is what happens step by step:
 </svg>
 </div>
 
-On Ethereum, new blocks are added every 12 seconds. Once your transaction is in a block, it is permanent. After a few more blocks are added on top, it becomes practically impossible to reverse.
+Ethereum assigns a block-proposal slot every 12 seconds, though a slot can be missed. A transaction's first inclusion is not the same as finality: a recent block can be replaced in a reorganization. Wallets and applications use confirmation or finality requirements appropriate to the transfer.
 
 ## Why this matters
 
 Blockchains are slow (12 seconds per block) and expensive (you pay gas fees for every transaction) compared to a regular database. So why use one?
 
-Because they solve a problem regular databases cannot: **trust without a middleman**. A bank can freeze your account. A company can edit its database. A blockchain cannot be changed by anyone once a transaction is confirmed.
+Use a blockchain when independently verifiable state and shared transaction rules are needed. A conventional database is usually simpler when one operator is responsible for the records. Applications can combine both.
 
 | Feature | Regular database | Blockchain |
 | --- | --- | --- |
 | Speed | Milliseconds | 12+ seconds |
-| Cost | Free (for the company) | Gas fees per transaction |
+| Cost | Hosting, operations, and maintenance | Network fees plus application costs |
 | Who controls it | The company that owns it | No single entity |
-| Can be edited | Yes, by the database admin | No, once confirmed |
-| Needs trust | Yes, trust the company | No, trust the math |
+| Can be edited | According to administrator permissions | According to execution and consensus rules |
+| Needs trust | Operator and access controls | Protocol, consensus, and application dependencies |
 | Best for | Speed-sensitive apps | Money, ownership, voting |
 
 The right question is not "blockchain or database?" It is "which parts of my app need trust guarantees, and which parts need speed?" Most Web3 apps use both.

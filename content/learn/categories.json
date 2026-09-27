@@ -33,7 +33,7 @@
  {
  "slug": "careers",
  "title": "Web3 Careers",
- "description": "Get hired in Web3. Roles, skills, resumes, and interview prep.",
+ "description": "Compare roles, prepare work samples, and plan applications and interviews.",
  "icon": "Briefcase",
  "order": 4,
  "type": "elective",
@@ -43,7 +43,7 @@
  {
  "slug": "marketing",
  "title": "Web3 Marketing & Community",
- "description": "Grow Web3 protocols. Discord, Twitter, and token launches.",
+ "description": "Community operations, product communications, campaign measurement, and token launches.",
  "icon": "Megaphone",
  "order": 5,
  "type": "elective",
@@ -53,7 +53,7 @@
  {
  "slug": "security",
  "title": "Web3 Security & Auditing",
- "description": "Find bugs and audit smart contracts. High-demand technical track.",
+ "description": "Contract review, vulnerability patterns, testing tools, and audit limitations.",
  "icon": "Shield",
  "order": 6,
  "type": "elective",
@@ -63,7 +63,7 @@
  {
  "slug": "ai-crypto",
  "title": "AI x Crypto Intersection",
- "description": "Explore the convergence of Artificial Intelligence and decentralized networks. Autonomous agents, data markets, and compute networks.",
+ "description": "Model applications using wallets, distributed compute, data markets, and execution verification.",
  "icon": "Bot",
  "order": 7,
  "type": "elective",

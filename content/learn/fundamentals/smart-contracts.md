@@ -72,7 +72,7 @@ lastUpdated: 2026-09-04
 
 A smart contract is a program stored on a blockchain. It has an address (just like a wallet), it holds money, and it runs code when someone interacts with it.
 
-The name is misleading. It is not smart (it does exactly what the code says, nothing more) and it is not a legal contract (it is software). Think of it as an automatic vending machine: you put in money, the machine follows its rules, and something comes out. No negotiation. No judgment calls.
+The term describes executable software. Whether an interaction also creates a legal agreement is a separate question. Execution follows the program's rules, including any administrator permissions or external dependencies.
 
 ## A simple example
 
@@ -84,7 +84,7 @@ Without a smart contract, they need to trust each other. With a smart contract:
 2. The contract checks a weather data feed (called an oracle) the next day
 3. If it rained, the contract sends 2 ETH to Bob
 4. If it did not rain, the contract sends 2 ETH to Alice
-5. Neither party can cheat or refuse to pay
+5. Settlement depends on the contract being funded, invoked, and supplied with valid weather data
 
 <div class="diagram">
 <svg viewBox="0 0 800 230" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:700px">
@@ -146,8 +146,8 @@ Without a smart contract, they need to trust each other. With a smart contract:
 | Feature | Regular program | Smart contract |
 | --- | --- | --- |
 | Runs on | Company's servers | Thousands of blockchain nodes |
-| Can be changed | Yes, the company pushes updates | No (code is permanent on-chain) |
-| Can be shut down | Yes, by the company | No (runs as long as the blockchain exists) |
+| Can be changed | Through the application's update process | Deployed code is fixed; proxies can change the implementation |
+| Can be paused | According to operator permissions | Depends on whether a pause mechanism exists |
 | Transparency | Usually closed-source | Code is publicly readable |
 | Access | Company decides who can use it | Anyone with a wallet can interact |
 | Costs to run | Company pays server bills | Users pay gas fees per transaction |
@@ -163,7 +163,7 @@ Smart contracts are only as good as their code. A bug in a smart contract can be
 ## Key takeaways
 
 - Smart contracts are programs on a blockchain that run automatically when triggered.
-- They are permanent, transparent, and unstoppable.
+- Their permissions, upgrade controls, and dependencies are part of their behavior.
 - Real applications include exchanges (Uniswap), lending (Aave), and marketplaces (OpenSea).
 - Bugs in smart contracts can lead to major losses - always check for audits.
 - Oracles (like Chainlink) connect smart contracts to real-world data.

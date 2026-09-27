@@ -67,9 +67,9 @@ quiz:
 lastUpdated: 2026-09-04
 ---
 
-## Beyond the hype
+## Tokens with individual identifiers
 
-NFTs got famous for $69 million art sales and cartoon apes. Behind the hype, the technology is simple and useful: NFTs let you prove you own a unique digital item on a blockchain.
+An NFT contract records ownership of individually identified tokens. A token can refer to an image, ticket, membership, or another item, but owning it does not automatically transfer copyright or legal ownership of that item.
 
 An NFT is a token with a unique ID. Unlike USDC (where every token is the same), each NFT is one-of-a-kind. The blockchain records who owns it, who created it, and its entire transaction history.
 
@@ -111,10 +111,10 @@ When you "buy" an NFT, the smart contract changes the owner field from the selle
 
 | Use case | How NFTs help | Examples |
 | --- | --- | --- |
-| Art and collectibles | Provable ownership and royalties | Foundation, SuperRare |
-| Event tickets | Cannot be counterfeited, easy to transfer | GET Protocol |
+| Art and collectibles | Verifiable token ownership; royalties depend on marketplace support | Foundation, SuperRare |
+| Event tickets | Tickets can be checked against the issuing contract | Ticketing contracts |
 | Domain names | Own a .eth name as an NFT | Ethereum Name Service (ENS) |
-| Game items | Trade items across games and markets | Gods Unchained, Axie Infinity |
+| Game items | Transfer items where the game and marketplace support them | Gods Unchained, Axie Infinity |
 | Membership passes | Token-gate access to communities | Bored Ape Yacht Club |
 | Real-world assets | Represent ownership of physical items | Real estate tokens, luxury goods |
 

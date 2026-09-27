@@ -23,8 +23,7 @@ quiz:
       interacts with actual blockchains. Deployed testnet projects with live
       demos are far more compelling than certificates or mockups.
   - question: >-
-      What is the fastest way to build credibility in Web3 without prior crypto
-      experience?
+      Which activity can produce verifiable examples of your development work?
     options:
       - Buy a lot of crypto.
       - >-
@@ -34,9 +33,9 @@ quiz:
       - Get a blockchain certification.
     correct: 1
     explanation: >-
-      Open-source contributions are verifiable proof of skill. A merged PR to a
-      protocol like Uniswap, Aave, or any Web3 tooling project speaks louder
-      than any certification.
+      A public contribution lets reviewers examine the change, discussion, and
+      tests. Describe your role accurately; employers may also consider
+      education, other work, and interviews.
   - question: Why are hackathon wins particularly valuable for Web3 job seekers?
     options:
       - They pay well.
@@ -84,11 +83,11 @@ quiz:
 lastUpdated: 2026-09-04
 ---
 
-## Why Portfolios Matter More in Web3
+## Showing relevant work
 
-In traditional tech, your resume and interview performance are the primary signals. In Web3, your on-chain activity, GitHub contributions, and published work carry equal or greater weight.
+A portfolio gives an employer examples to examine alongside your resume and interview. Choose work that demonstrates the requirements of the role you want.
 
-Many Web3 companies were founded by people who built things publicly before getting hired or funded. The culture values builders - show, don't tell.
+For each project, explain your contribution, design choices, tests, and limitations. Distinguish personal experiments from work deployed for real users.
 
 ## The Ideal Web3 Portfolio
 
@@ -169,9 +168,9 @@ Document all of this with links and screenshots.
 - Collect POAPs from events and hackathons you attend.
 - Build a Farcaster or Lens profile to establish social presence.
 
-## Hackathons: The Fast Track
+## Hackathons as project practice
 
-Web3 hackathons (ETHGlobal, Devfolio, Chainlink hackathons) are the single fastest way to build portfolio projects and make connections:
+Hackathons offer deadlines, collaborators, and feedback. Their value depends on the project and your participation:
 
 - You build something real in 48 hours with a team.
 - Winning or placing gets you noticed by VCs and hiring managers.
@@ -183,5 +182,5 @@ Web3 hackathons (ETHGlobal, Devfolio, Chainlink hackathons) are the single faste
 - Ship working, deployed projects - not mockups.
 - Open-source contributions are the strongest signal for developers.
 - Non-developers should document community, content, and governance work.
-- Hackathons are the fastest path from zero to credibility.
-- Your GitHub profile and on-chain identity are your resume in Web3.
+- Document what you built at a hackathon, including work left unfinished.
+- Public work can support a resume; it does not replace an accurate employment history.

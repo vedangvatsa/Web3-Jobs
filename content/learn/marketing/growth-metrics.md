@@ -67,8 +67,7 @@ quiz:
       by token incentives. A protocol with high TVL but low revenue means users
       are only there for incentives.
   - question: >-
-      Which analytics platform is most commonly used to build custom Web3
-      dashboards?
+      Which platform provides SQL-queryable blockchain data for dashboards?
     options:
       - Google Analytics
       - >-
@@ -87,9 +86,9 @@ lastUpdated: 2026-09-04
 
 ## Web3 Metrics Are Different
 
-In Web2, you measure success with signups, monthly active users, and revenue. In Web3, the data is fundamentally different because everything happens on-chain and user identity is pseudonymous.
+Blockchain applications can combine product analytics with on-chain records. An address is not necessarily one person, and activity outside the chain will not appear in transaction data.
 
-You cannot track emails. You cannot track logins. You track wallet addresses and smart contract interactions.
+Define what each dataset measures: accounts, addresses, transactions, sessions, or people. Avoid combining these as though they were the same unit.
 
 <div class="diagram">
 <svg viewBox="0 0 800 160" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:700px">
@@ -131,11 +130,11 @@ You cannot track emails. You cannot track logins. You track wallet addresses and
 
 TVL is the total dollar value of crypto deposited in a protocol's smart contracts. It is the most-quoted metric in DeFi and the most misunderstood.
 
-**What it tells you:** How much capital the protocol has attracted. A lending protocol with $2B TVL has $2B available for borrowers.
+**What it tells you:** The value counted by the chosen deposit methodology. Some assets may already be lent, locked, or counted through related positions, so TVL is not the same as immediately available borrowing liquidity.
 
 **What it doesn't tell you:** Whether that capital is sticky. During yield farming booms, TVL can 10x overnight when a protocol offers generous token rewards, then collapse to near-zero when those rewards end.
 
-**The better metric:** TVL adjusted for incentives. How much TVL remains when you subtract the token rewards? That's your organic demand.
+**Additional checks:** Examine deposits and withdrawals around incentive changes, asset-price effects, and borrowed or recursively deposited assets. Subtracting token rewards from TVL does not isolate organic demand.
 
 Track at: [DeFiLlama](https://defillama.com)
 
@@ -155,12 +154,12 @@ The on-chain equivalent of MAU. Count the distinct wallet addresses that interac
 
 The real fees users pay. Not token incentives, not VC money - actual demand for the protocol's service.
 
-| Protocol | Revenue Source | Daily Revenue (2025) |
-|---|---|---|
-| Uniswap | 0.01-1% swap fee | ~$2-5M |
-| Aave | Interest spread on loans | ~$500K-1M |
-| Lido | 10% of staking rewards | ~$1-2M |
-| OpenSea | 2.5% marketplace fee | ~$200-500K |
+| Activity | Revenue question |
+|---|---|
+| Swaps | Which fees go to liquidity providers, the protocol, or another party? |
+| Lending | What part of interest is retained, and what costs or losses offset it? |
+| Staking services | What fee is charged on rewards, and who receives it? |
+| Marketplace sales | Which charges are platform revenue rather than seller proceeds? |
 
 Track at: [Token Terminal](https://tokenterminal.com)
 
@@ -194,13 +193,13 @@ GROUP BY first_week
 ORDER BY first_week DESC
 ```
 
-Good DeFi protocols retain 15-25% of users after 30 days. Exceptional ones retain 30%+.
+Choose a cohort definition and return action appropriate to the product. Compare periods using the same method; there is no universal retention threshold that establishes product quality.
 
 ### 5. Token Holder Distribution
 
 How concentrated is token ownership? If 10 wallets hold 80% of the supply, governance is effectively centralized regardless of what the documentation says.
 
-**Healthy distribution:** Top 10 holders control <40% of circulating supply, with a clear separation between protocol treasury, vesting contracts, and individual holders.
+Label treasury, exchange, bridge, and vesting addresses before interpreting concentration. One address may represent many users, while one holder may control several addresses.
 
 ## Tools of the Trade
 
@@ -216,6 +215,6 @@ How concentrated is token ownership? If 10 wallets hold 80% of the supply, gover
 
 - TVL is the most-quoted metric but is easily inflated by token incentives. Always look at TVL alongside revenue.
 - Unique Active Wallets is the closest on-chain equivalent to MAU, but is susceptible to sybil inflation.
-- Protocol revenue is the single best indicator of product-market fit - real users paying real fees.
+- Read revenue alongside costs, subsidies, retention, and the definition of the service being measured.
 - Retention analysis requires Dune SQL queries tracking wallet cohorts over time.
-- Dune Analytics and DeFiLlama are free and cover 90% of what you need.
+- Choose data tools based on network coverage, methodology, freshness, and the questions being asked.

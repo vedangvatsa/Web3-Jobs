@@ -15,6 +15,7 @@ import { getCompanies } from '../src/lib/companies';
 import { getEvents } from '../src/lib/events-server';
 import { getEventSlug } from '../src/lib/events';
 import { getPopupSlugs } from '../src/lib/popups';
+import { learnRoutes } from '../src/lib/learn-routes';
 import { loadReservedRootSlugsSync, RESERVED_APP_ROUTE_SLUGS } from '../src/lib/reserved-root-slugs';
 import { applySlugRoutingPrecedence } from '../src/lib/slug-routing-precedence';
 import { assignJobSlugsInCacheFile, JOB_LEGACY_ARCHIVE_PATH } from './lib/job-slug-assignment';
@@ -63,6 +64,7 @@ async function collectOccupancy(): Promise<Map<string, Occupant[]>> {
   companies.forEach((company) => register(company.slug, 'Company Page', company.name));
   events.forEach((event) => register(getEventSlug(event), 'Event', event.name));
   getPopupSlugs().forEach((slug) => register(slug, 'Popup Page', slug));
+  learnRoutes.forEach(({ slug }) => register(slug, 'Learning Page', slug));
   jobs.forEach((job) => register(job.slug || '', 'Job Post', `${job.title} at ${job.company}`));
 
   const canonicalJobSlugs = new Set(jobs.map((job) => (job.slug || '').toLowerCase()).filter(Boolean));

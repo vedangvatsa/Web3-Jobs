@@ -55,7 +55,7 @@ quiz:
     correct: 1
     explanation: >-
       An unsigned integer cannot hold negative numbers. 256 bits means it can
-      hold incredibly large numbers, which is necessary for handling token
+      represent large non-negative integers, which can encode token
       decimals.
   - question: Why do most ERC-20 tokens have 18 decimals?
     options:
@@ -71,9 +71,9 @@ quiz:
 lastUpdated: 2026-09-04
 ---
 
-## Tokens are just spreadsheets
+## Balances are contract state
 
-When people say "I have 100 USDC in my wallet," they are technically wrong. The USDC is not in their wallet. The USDC smart contract simply has a spreadsheet, and next to their wallet address, the number is 100.
+A token balance is recorded by the token contract. A wallet reads that state and displays the amount associated with an address.
 
 <div class="diagram">
 <svg viewBox="0 0 800 180" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:700px">
@@ -110,7 +110,7 @@ When people say "I have 100 USDC in my wallet," they are technically wrong. The 
 
 An ERC-20 token is a standardized smart contract. Because every ERC-20 contract has the exact same function names (like `transfer` and `balanceOf`), wallets like MetaMask know exactly how to interact with all of them.
 
-Let's look at the core logic of a token contract.
+The following simplified example shows balance storage and transfers. It is not a complete production token implementation.
 
 ## The Core Data Structure: Mappings
 
@@ -164,7 +164,7 @@ How do tokens move? We just subtract from one address in the mapping and add to 
 
 ### Breaking down the transfer
 
-1. **`require`**: This is our security check. If the caller (`msg.sender`) tries to send 100 tokens but only has 50, the `require` statement fails. The transaction reverts, no gas is spent on execution, and no balances change.
+1. **`require`**: The balance check rejects a transfer larger than the sender's balance. A revert rolls back state changes, but gas already consumed by execution is still charged.
 2. **Math**: We directly modify the `balanceOf` mapping. The sender loses tokens, the receiver gains them.
 3. **`emit Transfer(...)`**: Blockchains are closed systems. To let frontends (like Etherscan or your React app) know that a transfer happened without them having to constantly read the contract state, we emit an **event**. Apps listen for these events to update UI histories.
 

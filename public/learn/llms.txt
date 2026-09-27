@@ -1,11 +1,104 @@
-# Hashtag Web3 — Learn Web3 Scoped Context
+# Learn Web3
 
-> Scoped curriculum guide for 47 structured lessons across 7 Web3 tracks.
+Seven courses with 66 lessons. Course and lesson links use canonical root URLs.
 
-## Tracks & Curricula
+## [Web3 Fundamentals](https://hashtagweb3.com/web3-fundamentals)
 
-- **Fundamentals**: Blockchain architecture, hashing, consensus mechanisms, digital wallets, decentralized networks.
-- **Smart Contracts**: Solidity basics, ERC-20, ERC-721, Foundry testing framework, security best practices.
-- **DeFi**: Decentralized exchanges, automated market makers, lending protocols, flash loan arbitrage.
-- **Security & Audits**: Reentrancy attacks, integer overflows, oracle manipulation, formal verification.
-- **Careers & Transition**: Web2 to Web3 transition roadmap, technical interview prep, building on-chain portfolios.
+Understand Web3 from scratch. No prior knowledge needed.
+
+- [What is Web3?](https://hashtagweb3.com/web3-basics): What Web3 actually is, how it differs from Web2, and the four building blocks behind every crypto application.
+- [How the Internet Evolved](https://hashtagweb3.com/web3-history): Changes in web publishing, platform accounts, and blockchain applications, with a timeline.
+- [How Blockchains Work](https://hashtagweb3.com/blockchains): Blocks, hashes, nodes, and consensus - how blockchains actually work, explained with diagrams.
+- [Ethereum: The World Computer](https://hashtagweb3.com/ethereum-basics): Why Ethereum matters, how the EVM works, and why most Web3 apps are built on it.
+- [Wallets and Private Keys](https://hashtagweb3.com/wallet-basics): How wallets work, what private keys are, and how to keep your crypto safe.
+- [Making Your First Transaction](https://hashtagweb3.com/crypto-transactions): Step-by-step guide to set up MetaMask, get test ETH, and send your first on-chain transaction.
+- [What Are Tokens?](https://hashtagweb3.com/token-basics): ETH, stablecoins, governance tokens, and utility tokens - what they are and how they work.
+- [Stablecoins: Digital Dollars](https://hashtagweb3.com/stablecoin-basics): How USDC, USDT, and DAI maintain their $1 peg and why they matter for Web3.
+- [Smart Contracts Explained](https://hashtagweb3.com/contract-basics): What smart contracts are, how they work, and real examples you can understand.
+- [Gas Fees: Why They Exist](https://hashtagweb3.com/gas-fees): How gas fees work on Ethereum, why they spike, and how to pay less.
+- [Layer 2: Making Blockchains Fast](https://hashtagweb3.com/layer2-basics): How rollups and L2 networks solve Ethereum's speed and cost problems.
+- [NFTs: Digital Ownership](https://hashtagweb3.com/nft-basics): What NFTs actually are, the standards behind them, and real use cases beyond art.
+- [DAOs: Internet Organizations](https://hashtagweb3.com/daos): How decentralized autonomous organizations work, vote, and manage money.
+- [DeFi: Banking Without Banks](https://hashtagweb3.com/defi-basics): A complete overview of decentralized finance: DEXs, lending, yield, and how it all fits together.
+- [Web3 Safety](https://hashtagweb3.com/wallet-safety): How to protect yourself from scams, phishing, and rug pulls in Web3.
+
+## [Decentralized Finance](https://hashtagweb3.com/defi-course)
+
+How decentralized finance works: DEXs, lending, yield, and risks.
+
+- [How Decentralized Exchanges (DEXs) Work](https://hashtagweb3.com/dex-basics): Understand Automated Market Makers (AMMs) and Liquidity Pools.
+- [Lending and Borrowing in DeFi](https://hashtagweb3.com/defi-lending): How smart contracts enable loans without credit checks.
+- [Yield Farming Explained](https://hashtagweb3.com/defi-yield): Where DeFi yields actually come from and how to spot unsustainable returns.
+- [DeFi Risks and Hacks](https://hashtagweb3.com/defi-risks): Smart contract bugs, oracle manipulation, and how to evaluate protocol safety.
+- [Stablecoin Mechanics](https://hashtagweb3.com/defi-stablecoins): How USDC, DAI, and algorithmic stablecoins maintain their peg - and how they break.
+- [Bridges and Cross-Chain Transfers](https://hashtagweb3.com/defi-bridges): How tokens move between blockchains, why bridge hacks are the costliest in crypto, and how to evaluate bridge security.
+- [Liquid Staking and Restaking](https://hashtagweb3.com/liquid-staking): How protocols like Lido and EigenLayer let you earn yield on staked ETH while keeping it liquid.
+- [Real-World Assets (RWAs)](https://hashtagweb3.com/rwa-basics): How tokenization is bringing stocks, bonds, real estate, and commodities on-chain.
+- [Perpetual Futures and On-Chain Derivatives](https://hashtagweb3.com/crypto-perpetuals): How decentralized perpetual exchanges work and why they are DeFi's largest trading venues.
+
+## [Smart Contract Development](https://hashtagweb3.com/smart-contracts)
+
+Write, test, and deploy smart contracts with Solidity.
+
+- [What is Solidity?](https://hashtagweb3.com/solidity-basics): An introduction to the programming language of Ethereum and the EVM.
+- [Your First Smart Contract](https://hashtagweb3.com/first-contract): A line-by-line breakdown of a simple Solidity contract.
+- [Understanding ERC-20 Code](https://hashtagweb3.com/erc20-contracts): How standard tokens work under the hood using mappings and events.
+- [Smart Contract Security 101](https://hashtagweb3.com/contract-security): Reentrancy, access control, and how to write secure Solidity code.
+- [Testing Smart Contracts](https://hashtagweb3.com/contract-testing): How to write unit tests and fuzz tests for Solidity using Hardhat and Foundry.
+- [Deploying to Mainnet](https://hashtagweb3.com/contract-deployment): The full deployment workflow: from local testing to Ethereum mainnet, including gas estimation, verification, and post-deployment checks.
+- [Gas Optimization Patterns](https://hashtagweb3.com/solidity-gas): Practical techniques to reduce smart contract gas costs, with before/after comparisons and benchmarks.
+- [Upgradeable Contracts and Proxy Patterns](https://hashtagweb3.com/proxy-patterns): How to write and audit upgradeable smart contracts using proxy patterns.
+- [Account Abstraction (ERC-4337)](https://hashtagweb3.com/account-abstraction-guide): How smart contract wallets are replacing EOAs and enabling gasless, social-recovery experiences.
+
+## [Web3 Careers](https://hashtagweb3.com/web3-careers)
+
+Compare roles, prepare work samples, and plan applications and interviews.
+
+- [The Web3 Job Market](https://hashtagweb3.com/web3-job-market): Market size, roles, salary data, and hiring trends in Web3.
+- [Roles in Web3](https://hashtagweb3.com/web3-roles): What engineers, PMs, marketers, and community managers actually do in Web3 companies.
+- [Skills Employers Want](https://hashtagweb3.com/web3-skills): The actual skills Web3 job descriptions ask for, based on real postings.
+- [Building Your Web3 Profile](https://hashtagweb3.com/web3-profile): How to build a portfolio, GitHub presence, and on-chain identity that gets you noticed.
+- [Your Web3 Resume](https://hashtagweb3.com/web3-resumes): How to position your Web2 experience for Web3 roles with concrete examples.
+- [Web3 Interview Prep](https://hashtagweb3.com/web3-interviews): Common interview questions for technical and non-technical Web3 roles.
+- [Freelancing in Web3](https://hashtagweb3.com/web3-freelancing): How to earn through bounties, DAO contributions, and contract work.
+- [Landing Your First Role](https://hashtagweb3.com/first-web3-job): A concrete action plan to get your first Web3 job, from application to offer.
+- [Building a Web3 Portfolio](https://hashtagweb3.com/web3-portfolio): How to build a portfolio that gets you hired in Web3 - even without crypto experience.
+- [Web3 Salary Negotiation](https://hashtagweb3.com/salary-negotiation): How to evaluate and negotiate Web3 compensation packages including tokens, vesting, and equity.
+
+## [Web3 Marketing & Community](https://hashtagweb3.com/marketing-course)
+
+Community operations, product communications, campaign measurement, and token launches.
+
+- [Community Management 101](https://hashtagweb3.com/web3-community): Community support, moderation, announcements, and contributor coordination.
+- [Web3 Twitter and Content](https://hashtagweb3.com/twitter-marketing): Why Crypto Twitter drives the market and how to write threads that convert.
+- [Token Launches and Airdrops](https://hashtagweb3.com/airdrop-marketing): How Web3 protocols use tokens to bootstrap growth and reward users.
+- [Token Launch Strategy](https://hashtagweb3.com/token-launches): How Web3 protocols plan and execute token launches - from tokenomics design to exchange listings.
+- [Growth Metrics and Analytics](https://hashtagweb3.com/growth-metrics): The metrics Web3 protocols actually track - TVL, DAU, retention, and how they differ from Web2 KPIs.
+- [Discord Strategy for Web3](https://hashtagweb3.com/discord-community): Build and manage a Discord community for your Web3 project from zero to thousands of members.
+- [Tokenomics Fundamentals](https://hashtagweb3.com/tokenomics): How token supply, distribution, and incentive design determine the success of Web3 projects.
+- [KOL Marketing and Influencer Strategy](https://hashtagweb3.com/kol-marketing): How to work with Key Opinion Leaders and influencers for Web3 project marketing.
+
+## [Web3 Security & Auditing](https://hashtagweb3.com/web3-security)
+
+Contract review, vulnerability patterns, testing tools, and audit limitations.
+
+- [The Auditor Mindset](https://hashtagweb3.com/auditor-mindset): How smart contract auditors think and why code review is different in Web3.
+- [Advanced Solidity Exploits](https://hashtagweb3.com/smart-contract-exploits): Review flash-loan assumptions, proxy initialization, and signature replay protections.
+- [Using Foundry and Slither](https://hashtagweb3.com/foundry-testing): Use static analysis, Solidity tests, fuzzing, and local chain forks during a contract review.
+- [Reentrancy and Shared State](https://hashtagweb3.com/reentrancy-audit): The most famous smart contract vulnerability - how it works, real exploits that used it, and the three defenses.
+- [MEV: Maximal Extractable Value](https://hashtagweb3.com/mev-basics): How validators and searchers extract profit from transaction ordering, and why it matters for every DeFi user.
+- [Governance Attacks and Defenses](https://hashtagweb3.com/governance-attacks): How governance systems get exploited, and how DAOs defend against hostile takeovers.
+- [Oracle Manipulation](https://hashtagweb3.com/oracle-attacks): How a manipulated or stale price feed can affect lending, trading, and liquidations.
+- [ZK-Rollups and Privacy](https://hashtagweb3.com/zk-proofs): How zero-knowledge proofs enable scalable and private blockchain transactions.
+
+## [AI x Crypto Intersection](https://hashtagweb3.com/ai-crypto)
+
+Model applications using wallets, distributed compute, data markets, and execution verification.
+
+- [Introduction to AI x Crypto](https://hashtagweb3.com/ai-crypto-basics): Why Artificial Intelligence and Decentralized Networks are converging.
+- [Autonomous Agents](https://hashtagweb3.com/onchain-agents): How AI agents use crypto wallets to transact autonomously - architecture, real examples, and the emerging machine economy.
+- [Decentralized Data Markets](https://hashtagweb3.com/data-markets): How crypto incentivizes the creation of high-quality training data for AI.
+- [Decentralized Compute Networks](https://hashtagweb3.com/compute-networks): How compute marketplaces match workloads with providers, and what buyers need to verify.
+- [Verifiable AI Inference](https://hashtagweb3.com/verifiable-inference): Using cryptographic proofs to verify that AI outputs are authentic and untampered.
+- [AI Tokens and Projects](https://hashtagweb3.com/ai-tokens): A guide to the major AI x Crypto tokens, what they do, and how to evaluate them.
+- [Careers at the AI x Crypto Intersection](https://hashtagweb3.com/ai-crypto-careers): Roles, skills, and project types involving AI and Web3.

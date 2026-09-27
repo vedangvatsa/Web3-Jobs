@@ -7,20 +7,19 @@ difficulty: intermediate
 prerequisites:
   - first-contract
 quiz:
-  - question: Why is testing critical for smart contracts specifically?
+  - question: Why test a contract's failure cases before deployment?
     options:
       - Because Solidity is a slow language
       - >-
-        Because deployed contracts are immutable - you cannot patch a bug after
-        deployment, and bugs typically mean lost funds
+        Because defects can affect assets and recovery after deployment may
+        be limited by the contract's design
       - Because Ethereum requires all contracts to have tests
       - Because testing makes contracts run faster
     correct: 1
     explanation: >-
-      Unlike a web app where you can push a hotfix, a deployed smart contract's
-      code is permanent. If a bug allows an attacker to drain funds, there is no
-      undo button. The Parity wallet bug in 2017 permanently froze $150M in ETH
-      because of an accidental self-destruct call.
+      Test permissions, state changes, accounting, and external-call behavior.
+      Upgrade and recovery mechanisms have their own constraints and also need
+      to be tested.
   - question: What does a Hardhat unit test verify?
     options:
       - That the contract compiles without warnings
@@ -61,7 +60,7 @@ quiz:
       This lets you test scenarios like: 'What happens if a non-admin tries to
       withdraw funds?' or 'Can user B access user A's balance?' without needing
       multiple real wallets.
-  - question: What should you test FIRST when auditing a contract's security?
+  - question: Which test checks the boundary around administrative permissions?
     options:
       - Gas optimization
       - >-
@@ -71,20 +70,19 @@ quiz:
       - Frontend integration
     correct: 1
     explanation: >-
-      The most common exploit category is broken access control: an admin-only
-      function that anyone can call, or a withdrawal function that doesn't check
-      the caller's balance. Always test that restricted functions revert when
-      called by unauthorized addresses.
+      Call restricted functions from authorized and unauthorized accounts and
+      check the resulting state and errors. Test permission changes and
+      inherited access-control behavior as well.
 lastUpdated: 2026-09-04
 ---
 
 ## Why Smart Contract Testing Is Different
 
-In traditional software, bugs are annoying. In smart contracts, bugs are catastrophic. A deployed contract is immutable - once it's on Ethereum, the code cannot be changed. If someone finds a vulnerability, they can drain the contract's entire balance before anyone can react.
+Tests check a contract's behavior before and after changes. Include permissions, accounting, external calls, and failure cases, especially where a defect could affect user assets.
 
-There is no rollback. There is no hotfix. There is no "we'll patch it in the next release."
+Recovery after deployment depends on the contract's design and permissions. An upgrade or pause mechanism is itself something to test.
 
-This is why smart contract testing is not optional. It is the primary line of defense.
+Use tests alongside code review, deployment checks, and monitoring.
 
 <div class="diagram">
 <svg viewBox="0 0 800 160" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:700px">
@@ -177,7 +175,7 @@ Run with: `npx hardhat test`
 
 ## Testing with Foundry (Solidity)
 
-Foundry lets you write tests in Solidity itself. This is faster (no JavaScript overhead) and gives you access to powerful features like fuzz testing and cheatcodes.
+Foundry supports Solidity tests, generated-input testing, and controls for simulating accounts, time, and other execution conditions. Runtime performance depends on the test suite and configuration.
 
 ### The Same Test in Foundry
 
@@ -250,7 +248,7 @@ Foundry will run this function with hundreds of random `amount` values - includi
 
 ## Key takeaways
 
-- Smart contract bugs are permanent and expensive. Testing is the first and most important layer of security.
+- Test expected behavior and failure cases before deployment and after every change.
 - Hardhat uses JavaScript tests (familiar, good ecosystem). Foundry uses Solidity tests (faster, native fuzz testing).
 - Fuzz testing automatically generates random inputs to catch edge cases you would never think of manually.
 - Always test access control first - who can call what, and what happens when unauthorized users try.

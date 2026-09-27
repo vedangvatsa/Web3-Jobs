@@ -76,7 +76,7 @@ By the end of this lesson, you will have:
 4. Sent your first transaction
 5. Viewed it on a block explorer
 
-This entire process is free and takes about 10 minutes.
+Use testnet ETH for this exercise. Faucet access and confirmation times vary, and some faucets impose eligibility checks or rate limits.
 
 ## Step 1: Install MetaMask
 
@@ -140,7 +140,7 @@ Now send some test ETH to another address:
 4. Review the gas fee (on testnet, this is free)
 5. Click "Confirm"
 
-Your transaction is now being processed. MetaMask will show "Pending" for about 12 seconds, then "Confirmed."
+The wallet will show the transaction as pending until it is included or otherwise resolved. Inclusion time depends on network conditions and the transaction's fee settings.
 
 ## Step 5: View it on Etherscan
 
@@ -160,7 +160,7 @@ Every transaction on Ethereum is public. You can view any transaction on a **blo
 | Block | Which block included your transaction |
 | Status | Success or Failed |
 
-This is the power of a public blockchain: anyone can verify any transaction. There is no hidden ledger.
+The explorer presents the transaction's public on-chain data. Compare its network and transaction hash with the wallet's record.
 
 ## What just happened, technically
 
@@ -173,7 +173,7 @@ When you clicked "Confirm" in MetaMask, this happened behind the scenes:
 5. Your balance decreased, the recipient's balance increased
 6. The transaction was recorded permanently on the blockchain
 
-No bank processed this. No company approved it. Math and code did the work.
+The network checked the signature and execution rules. The wallet and its RPC provider handled signing and submission, so those parts of the process have their own dependencies.
 
 ## Key takeaways
 

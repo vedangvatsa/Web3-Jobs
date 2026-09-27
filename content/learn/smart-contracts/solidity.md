@@ -68,7 +68,7 @@ lastUpdated: 2026-09-04
 
 If you want to build on Ethereum, Arbitrum, Optimism, Base, or Polygon, you need to write code that the Ethereum Virtual Machine (EVM) understands. 
 
-The EVM only reads machine-level "bytecode." Writing bytecode by hand is incredibly difficult. **Solidity** is the high-level language designed specifically to write smart contracts that compile down into that bytecode.
+The EVM executes bytecode. **Solidity** is a high-level language whose compiler produces EVM bytecode from contract source files.
 
 ## Key Characteristics of Solidity
 
@@ -77,7 +77,7 @@ Solidity was designed with specific constraints in mind, because code running on
 1. **Object-Oriented**: Contracts in Solidity behave a lot like classes in object-oriented programming. They contain state variables (data) and functions (behavior). Contracts can also inherit from other contracts.
 2. **Statically Typed**: You must declare what type of data a variable holds (e.g., `uint256` for a positive integer, `address` for a wallet address, `bool` for true/false). This helps catch errors before the code is deployed.
 3. **State Management**: Solidity is built to interact with the blockchain's state. Variables defined at the contract level are permanently stored on the blockchain.
-4. **Value Transfers**: Built-in keywords like `payable` and types like `address` make it incredibly easy to send and receive ETH directly within the code.
+4. **Value Transfers**: `payable` and address-related operations support ETH transfers. Their call behavior and failure handling need to be understood before use.
 
 ## The Compilation Process
 
@@ -111,7 +111,7 @@ Solidity was designed with specific constraints in mind, because code running on
 </svg>
 </div>
 
-When you finish writing your `.sol` file, you compile it. The compiler outputs two crucial things:
+Compiling a `.sol` file can produce several artifacts, including:
 
 1. **Bytecode**: The actual hex code that is deployed to the blockchain and executed by the EVM.
 2. **ABI (Application Binary Interface)**: A JSON file that describes all the functions and variables in your contract. Frontend applications (like a React app) use the ABI to know how to interact with the deployed contract.
@@ -120,7 +120,7 @@ When you finish writing your `.sol` file, you compile it. The compiler outputs t
 
 While other languages exist (like Rust for Solana, or Vyper for Ethereum), Solidity has the largest developer ecosystem, the most audited standard libraries (like OpenZeppelin), and the vast majority of developer tooling (Hardhat, Foundry, Remix). 
 
-If you want to become a smart contract engineer, Solidity is the mandatory starting point.
+Solidity is a useful starting point for EVM contract work. Choose a language and toolchain based on the network and role you intend to work with.
 
 ## Key takeaways
 

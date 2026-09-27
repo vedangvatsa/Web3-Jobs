@@ -53,7 +53,7 @@ quiz:
       TVL measures the total value of crypto deposited in DeFi protocols. A
       higher TVL generally means more liquidity and more trust in the protocol.
       As of 2024, total DeFi TVL exceeds $80 billion.
-  - question: What is the biggest risk in DeFi?
+  - question: Which risk can arise from a defect in contract code?
     options:
       - Internet speed
       - Smart contract bugs that can lead to fund losses
@@ -61,15 +61,14 @@ quiz:
       - Slow transactions
     correct: 1
     explanation: >-
-      Smart contract risk is the biggest concern. If a contract has a bug,
-      hackers can exploit it and drain funds. Billions of dollars have been lost
-      to DeFi hacks. Always use audited protocols and start with small amounts.
+      A code defect can permit unintended transfers or accounting changes.
+      Audits and tests can identify defects but do not prove that none remain.
 lastUpdated: 2026-09-04
 ---
 
 ## What DeFi replaces
 
-Every financial service you use through a bank can be rebuilt with smart contracts. The difference: no company, no office hours, no credit checks, no geographic restrictions.
+DeFi applications use smart contracts for services such as token trading, collateralized lending, and asset management. Access conditions, administrators, and legal restrictions vary by application.
 
 <div class="diagram">
 <svg viewBox="0 0 800 230" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:700px">
@@ -99,7 +98,7 @@ Every financial service you use through a bank can be rebuilt with smart contrac
 
 ## The DeFi stack
 
-DeFi is not one product. It is layers of protocols that work together, like Lego bricks.
+DeFi protocols can interact through shared token standards and contract interfaces. That also connects their risks: a failed dependency can affect applications built on top of it.
 
 ### DEXs (Decentralized Exchanges)
 
@@ -111,7 +110,7 @@ When you swap ETH for USDC, you are trading against a pool, not a person. The pr
 
 Deposit crypto to earn interest. Borrow crypto by posting collateral.
 
-On Aave, you can deposit USDC and earn 3-8% APY. Or you can deposit ETH as collateral and borrow USDC against it. If ETH's price drops and your collateral ratio falls below the minimum (typically 80%), the contract liquidates your position.
+On Aave, supplied assets can earn variable interest, and eligible collateral can support borrowing. Liquidation depends on the market's configured thresholds and the position's health factor. Check the current parameters instead of assuming one rate or collateral ratio applies to every asset.
 
 ### Yield
 
@@ -121,15 +120,14 @@ On Aave, you can deposit USDC and earn 3-8% APY. Or you can deposit ETH as colla
 - **Liquidity providing**: Earn trading fees by depositing into DEX pools
 - **Staking**: Earn rewards for validating transactions (Ethereum PoS yields ~3-4% APY)
 
-## The real numbers
+## Examples of protocol functions
 
-| Protocol | Category | TVL | What it does |
-| --- | --- | --- | --- |
-| Lido | Staking | ~$25B | Liquid ETH staking |
-| Aave | Lending | ~$15B | Borrow and lend crypto |
-| Uniswap | DEX | ~$5B | Token swaps |
-| Maker | Stablecoin | ~$8B | DAI stablecoin creation |
-| Curve | DEX | ~$2B | Stablecoin swaps (low slippage) |
+| Protocol | Category | What it does |
+| --- | --- | --- |
+| Lido | Staking | Liquid staking |
+| Aave | Lending | Collateralized borrowing and asset supply |
+| Uniswap | DEX | Token swaps through liquidity pools |
+| Curve | DEX | Swaps using pools designed for particular asset pairs |
 
 ## The risks
 
@@ -142,7 +140,7 @@ DeFi gives you access to financial tools without a middleman, but it also gives 
 
 ## Key takeaways
 
-- DeFi rebuilds banking (trading, lending, saving) using smart contracts - open 24/7, no KYC, global.
+- DeFi uses smart contracts for financial operations; individual applications can impose access conditions.
 - DEXs use liquidity pools and formulas instead of order books.
 - Lending requires over-collateralization - deposit more than you borrow.
 - DeFi gives access but also responsibility - bugs, liquidations, and scams are real risks.

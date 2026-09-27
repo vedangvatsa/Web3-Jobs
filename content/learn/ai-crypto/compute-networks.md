@@ -1,6 +1,6 @@
 ---
 title: Decentralized Compute Networks
-description: How decentralized GPU marketplaces are breaking the AI compute monopoly.
+description: How compute marketplaces match workloads with providers, and what buyers need to verify.
 order: 4
 readTime: 10 min
 difficulty: intermediate
@@ -39,16 +39,15 @@ quiz:
     options:
       - They are always faster.
       - >-
-        They are permissionless and typically 50-85% cheaper due to open
-        competition among GPU providers.
+        They offer another way to compare capacity and prices from multiple
+        compute providers.
       - They have better customer support.
       - They are owned by governments.
     correct: 1
     explanation: >-
-      Decentralized compute creates an open market where anyone can supply GPU
-      power. This competition drives prices significantly below the markup-heavy
-      pricing of hyperscalers, and there are no gatekeepers deciding who can
-      access compute.
+      Compare equivalent hardware, availability, networking, support, and
+      verification costs. A marketplace model does not guarantee that every
+      workload will be cheaper or faster.
   - question: What is the 'verification problem' in decentralized compute?
     options:
       - Verifying the identity of GPU providers.
@@ -78,11 +77,11 @@ lastUpdated: 2026-09-04
 
 ## The GPU Bottleneck
 
-Training a large language model like GPT-4 reportedly cost over $100 million in compute alone. Running inference (answering user queries) costs millions per month. The entire AI industry runs on NVIDIA GPUs, and access to these GPUs is controlled by three cloud providers: AWS, Google Cloud, and Microsoft Azure.
+Training and serving models require compute, memory, storage, and network capacity. Providers range from large cloud companies to specialist hosts and smaller hardware operators. The appropriate option depends on the workload.
 
 This creates several problems:
 
-- **Cost:** Cloud GPU pricing includes 3-5x markups over hardware cost.
+- **Cost:** Rental prices need to be compared with utilization, support, networking, storage, and operating costs.
 - **Availability:** During the 2023-2024 GPU shortage, even well-funded startups waited months for allocation.
 - **Censorship Risk:** A cloud provider can terminate your account at any time if your AI application violates their terms of service.
 
@@ -133,7 +132,7 @@ The basic flow:
 ## Key Projects
 
 ### Akash Network
-A decentralized cloud computing marketplace built on Cosmos. Providers list idle compute (CPUs and GPUs), and users deploy Docker containers at prices 50-85% cheaper than AWS. Akash uses a reverse auction system where providers bid down to win workloads.
+Akash is a compute marketplace built on Cosmos technology. Providers offer capacity and users request deployments. Compare current offers for equivalent hardware, availability, networking, and service requirements rather than assume a fixed discount.
 
 ### Render Network
 Originally built for 3D rendering, Render connects GPU owners with artists and studios who need rendering power. It has expanded into AI inference workloads. Render uses a Burn-and-Mint token model where users burn RENDER tokens to pay for jobs.
@@ -146,7 +145,7 @@ Focuses specifically on AI model training verification. When you train a model o
 
 ## The Verification Problem
 
-The hardest challenge in decentralized compute is **verification**. If you pay someone to train your model for 100 hours, how do you know they actually did it and didn't just return garbage weights?
+Verification is one concern when a remote provider performs work. The buyer needs to establish what ran, which inputs and software were used, and whether the returned result meets the agreed checks.
 
 Several approaches exist:
 
@@ -162,4 +161,4 @@ Decentralized compute won't replace AWS for every workload. But for AI specifica
 - **Censorship resistance** for AI applications that centralized providers might refuse to host.
 - **Access democratization** so that researchers in developing countries can access GPU compute without enterprise cloud contracts.
 
-The AI compute market is projected to exceed $200 billion by 2028. Even capturing a small fraction of that through decentralized networks would represent a massive opportunity.
+Benchmark the actual workload before choosing a provider. Include data-transfer time, failure recovery, hardware consistency, and verification overhead in the comparison.

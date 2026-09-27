@@ -73,7 +73,7 @@ lastUpdated: 2026-09-04
 
 ## Coins vs tokens
 
-People use "coin" and "token" interchangeably, but they are different things.
+The distinction used here is between a network's native asset and an asset implemented by a contract.
 
 A **coin** is native to its blockchain. ETH is Ethereum's coin. BTC is Bitcoin's coin. You need the native coin to pay gas fees.
 
@@ -116,7 +116,7 @@ Tokens serve different purposes. The four main categories:
 
 ### Stablecoins
 
-Designed to hold a steady value, usually $1. Used for trading, payments, and savings without price volatility.
+Designed to track a reference value, often one dollar. They can lose that peg and expose holders to issuer, reserve, or collateral risk.
 
 - **USDC** - backed by cash and US Treasury bonds. Issued by Circle.
 - **USDT (Tether)** - the most widely traded stablecoin. Backed by reserves.
@@ -140,7 +140,7 @@ Required to use a specific service.
 
 ### Wrapped tokens
 
-Represent an asset from another blockchain.
+Represent another asset in a token format. The underlying asset may be on the same chain or a different chain.
 
 - **WBTC** (Wrapped Bitcoin) - Bitcoin represented as an ERC-20 token on Ethereum
 - **WETH** (Wrapped ETH) - ETH wrapped in an ERC-20 format for DeFi compatibility
@@ -154,13 +154,13 @@ Every token has a supply schedule. This matters because supply affects price.
 | BTC | 21 million | Fixed, halving every ~4 years |
 | ETH | No hard cap | Net issuance can be negative (deflationary since EIP-1559) |
 | USDC | No cap | Minted when dollars are deposited, burned when redeemed |
-| UNI | 1 billion | Fixed, fully distributed over 4 years |
+| UNI | Check the current governance and issuance rules | Initial distribution and subsequent inflation are separate parts of the schedule |
 
 **Inflationary** tokens continuously mint new tokens (like new money being printed). **Deflationary** tokens burn tokens over time, reducing supply. ETH burns a portion of gas fees, which sometimes makes it deflationary during high-usage periods.
 
 ## Key takeaways
 
 - **Coins** (ETH, BTC) are native to their blockchain. **Tokens** (USDC, UNI) are created by smart contracts.
-- ERC-20 is the standard that makes all tokens compatible with every Ethereum wallet and app.
+- ERC-20 defines common interfaces; wallets and applications still need to support a token's behavior and network.
 - Tokens come in four main types: stablecoins, governance, utility, and wrapped.
 - Token supply (fixed, inflationary, or deflationary) directly affects value over time.

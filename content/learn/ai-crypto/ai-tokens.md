@@ -60,11 +60,9 @@ quiz:
       - Who is the CEO?
     correct: 1
     explanation: >-
-      The most important filter: does removing the token break the protocol? If
-      a centralized database could do the same job, the token is likely
-      unnecessary. Real utility tokens are required for the protocol's core
-      mechanism - paying for compute, staking for verification, or governing
-      network parameters.
+      Identify the token's actual rights and functions, then consider whether
+      those functions need a separate token. Usage, issuance, fees, and
+      holder rights must be examined together.
   - question: What distinguishes real AI token utility from speculative hype?
     options:
       - The number of Twitter followers.
@@ -84,9 +82,9 @@ lastUpdated: 2026-09-04
 
 ## The AI Token Space
 
-The "AI x Crypto" narrative exploded in 2023-2024, creating hundreds of tokens. Many are legitimate infrastructure projects. Many others are speculative tokens that slapped "AI" on their marketing without building anything meaningful.
+Projects use tokens for different purposes, including compute payments, provider rewards, staking, and governance. A project's use of AI does not establish that its token is necessary or valuable.
 
-Learning to distinguish between the two is critical.
+Evaluate the product, the token's role, and the rights it gives holders separately.
 
 ## Major Categories
 
@@ -130,7 +128,7 @@ Check on-chain metrics:
 - Is revenue growing or stagnant?
 
 ### 3. What is the token emission schedule?
-Many AI tokens have aggressive vesting schedules where early investors and the team hold 40-60% of supply. When these tokens unlock, they flood the market and crash the price.
+Check allocations, vesting dates, circulating supply, and any continuing issuance. Unlocks change the amount that can be transferred, but their effect on price depends on demand and holder behavior.
 
 ### 4. Is the technology real?
 Read the documentation. Does the project have:
@@ -143,12 +141,12 @@ Check the team's background. Are they AI/ML engineers with real credentials, or 
 
 ## The Narrative vs. Reality Gap
 
-In 2024, the combined market cap of AI tokens exceeded $30 billion. However, the combined actual revenue of all these projects was a tiny fraction of that. This gap between speculation and fundamentals is worth understanding.
+Market capitalization and network revenue measure different things. Compare dated figures with consistent definitions, including whether reported activity is subsidized by token incentives.
 
-Some projects (like Render and Akash) have genuine, growing usage. Others are trading purely on narrative. As the market matures, projects with real adoption will likely outperform those built only on hype.
+Usage alone does not establish a return for token holders. Read the mechanism that links service demand, issuance, fees, and token-holder rights before drawing an investment conclusion.
 
 ## Key Takeaways
 
 - AI tokens power decentralized networks for compute, data, agents, and verification.
 - Always check if the token has genuine utility, real usage metrics, and solid technology.
-- The AI narrative is powerful but filled with speculative projects. Do your own research.
+- Separate claims about the underlying service from claims about token value.

@@ -7,6 +7,7 @@ import path from 'path';
 import { getAllResourcePages } from '@/lib/pseo/resources';
 import { getPopupSlugs } from '@/lib/popups';
 import { getEventSlug } from '@/lib/events';
+import { learnRoutes } from '@/lib/learn-routes';
 
 /** App Router paths that must never be used as job slugs. */
 export const RESERVED_APP_ROUTE_SLUGS: readonly string[] = [
@@ -176,6 +177,7 @@ export function loadReservedRootSlugsSync(): Set<string> {
   for (const slug of eventSlugsFromCache()) {
     reserved.add(slug);
   }
+  for (const route of learnRoutes) reserved.add(route.slug);
 
   return reserved;
 }

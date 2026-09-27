@@ -82,9 +82,9 @@ quiz:
 lastUpdated: 2026-09-04
 ---
 
-## Token Launches Are Protocol-Defining Events
+## Decisions to document before a token launch
 
-A token launch is not just a marketing milestone - it fundamentally restructures a protocol's incentives, governance, and economics. A well-executed launch aligns the community, creates sustainable liquidity, and establishes long-term value. A poorly executed launch destroys trust in hours.
+A token launch introduces supply, allocation, trading, and possibly governance rules. Document what the token does, who can change those rules, and what holders are entitled to before announcing the launch.
 
 ## Designing Tokenomics
 
@@ -155,7 +155,7 @@ Investors: 6-month cliff → 24-month linear unlock
 Community: No cliff, distributed via usage incentives
 ```
 
-Platforms like TokenUnlocks.app track vesting schedules publicly. Large unlock dates consistently correlate with price drops.
+Check unlock schedules against the underlying contracts and agreements. An unlock changes transferability; its effect on price depends on liquidity, demand, and holder behavior.
 
 ### 4. Utility
 
@@ -166,7 +166,7 @@ What can holders do with the token?
 - **Staking:** Lock tokens to secure the network and earn rewards (ETH)
 - **Access:** Required to use certain protocol features (LINK for Chainlink oracles)
 
-A token without clear utility is speculative by default.
+Explain the rights and functions the token actually has. A proposed future use should be labeled as a plan rather than an existing feature.
 
 ### 5. Value Accrual
 
@@ -207,5 +207,5 @@ How does protocol revenue flow back to token holders?
 
 - Tokenomics is the economic architecture of a token - supply, allocation, vesting, utility, and value accrual.
 - Insider tokens (team, investors) must vest. Standard: 12-month cliff, 36-month unlock.
-- 5-15% of supply typically circulates at TGE; the rest unlocks predictably over years.
+- Publish the actual circulating allocation, remaining supply, and unlock schedule for the launch.
 - A token without clear utility or value accrual mechanism is pure speculation.

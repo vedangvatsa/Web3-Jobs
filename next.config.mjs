@@ -1,7 +1,13 @@
 import path from 'node:path';
+import { readFileSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 
 const projectRoot = path.dirname(fileURLToPath(import.meta.url));
+const learnRoutes = JSON.parse(readFileSync(path.join(projectRoot, 'content/learn-routes.json'), 'utf8'));
+const learnRedirects = [
+  ...Object.entries(learnRoutes.courses).map(([category, slug]) => ({ source: `/learn/${category}`, destination: `/${slug}`, permanent: true })),
+  ...Object.entries(learnRoutes.lessons).map(([lesson, slug]) => ({ source: `/learn/${lesson}`, destination: `/${slug}`, permanent: true })),
+];
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
@@ -23,6 +29,7 @@ const nextConfig = {
       './content/slug-types.json',
       './content/legacy-slugs-archive.json',
       './content/learn-runtime.json',
+      './content/learn-routes.json',
       './content/pseo-resources-runtime.json',
       './content/company-logos-index.json',
       './content/latest-articles.json',
@@ -82,6 +89,7 @@ const nextConfig = {
   },
   async redirects() {
     return [
+      ...learnRedirects,
       {
         source: '/:path*',
         has: [

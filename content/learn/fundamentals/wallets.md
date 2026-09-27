@@ -48,9 +48,9 @@ quiz:
       - A screenshot of your seed phrase
     correct: 2
     explanation: >-
-      Hardware wallets (like Ledger or Trezor) store your private keys on a
-      physical device that never connects to the internet. This makes them
-      nearly impossible to hack remotely.
+      A hardware wallet keeps signing keys separate from the connected computer.
+      It reduces some risks, but users still need to verify transaction details
+      and protect the recovery material.
   - question: Your wallet address is like a...
     options:
       - Password that must stay secret
@@ -65,15 +65,15 @@ quiz:
 lastUpdated: 2026-09-04
 ---
 
-## Your wallet is your bank account and your ID
+## Keys, addresses, and signatures
 
 In Web2, you log into websites with an email and password. In Web3, you connect with a wallet. Your wallet does three things:
 
-1. **Holds your money** - your ETH, tokens, and NFTs
-2. **Proves your identity** - your wallet address is your on-chain identity
-3. **Signs transactions** - confirms that you approve a transfer or contract interaction
+1. **Displays balances** recorded on the networks it supports
+2. **Manages accounts** and their signing keys or signing mechanisms
+3. **Signs transactions and messages** after you authorize an action
 
-There is no company behind your wallet. No bank holds your funds. You hold them directly.
+In a self-custodial wallet, you control the keys or account permissions. Custodial services manage those controls on your behalf. A signature proves control of an account, not a person's legal identity.
 
 ## Public keys and private keys
 
@@ -113,7 +113,7 @@ Every wallet is built on a pair of keys.
 
 **Public address** → derived from the private key using math. You share this with anyone who wants to send you crypto. It starts with `0x` on Ethereum.
 
-The key point: you can go from private key → public address, but you cannot go backwards. Nobody can figure out your private key from your public address.
+The public address can be derived from the corresponding key material. Recovering a properly generated private key from its public address is computationally infeasible under the cryptographic assumptions used by the network.
 
 ## The seed phrase
 
@@ -175,7 +175,7 @@ From these 12 words, your wallet can generate your private key, your public addr
 
 **Hot wallets** are connected to the internet. Easy to use but more vulnerable to hacks. Use them like a wallet in your pocket - carry spending money, not your life savings.
 
-**Cold wallets** keep your keys offline. A hardware wallet like Ledger is a USB-sized device that stores your private key on a secure chip. When you want to sign a transaction, you physically press a button on the device. Even if your computer has malware, the hacker cannot access your keys.
+**Hardware wallets** keep signing keys on a separate device. This reduces exposure to malware on the connected computer, but does not make every transaction safe. Check the address and action shown on the device before approving.
 
 ## How to stay safe
 
@@ -194,7 +194,7 @@ From these 12 words, your wallet can generate your private key, your public addr
 
 "Send me your seed phrase to verify your wallet" - no legitimate service will ever ask for your seed phrase. Ever.
 
-"This token will 100x" - unsolicited investment advice in DMs is a scam. Always.
+Promises of guaranteed returns are a warning sign. Do not treat unsolicited messages as evidence that a token or investment is legitimate.
 
 ## Key takeaways
 

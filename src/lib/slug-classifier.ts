@@ -1,8 +1,9 @@
 import slugTypesJson from '../../content/slug-types.json';
 import legacyArchiveJson from '../../content/legacy-slugs-archive.json';
 import { getPopupSlugs } from '@/lib/popups';
+import { resolveLearnRoute } from '@/lib/learn-routes';
 
-export type SlugType = 'event' | 'company' | 'popup' | 'glossary' | 'resource' | 'article' | 'job';
+export type SlugType = 'event' | 'company' | 'popup' | 'glossary' | 'resource' | 'article' | 'job' | 'learn';
 
 type SlugTypesData = {
   events: string[];
@@ -36,6 +37,7 @@ const legacyJobSlugSet = new Set(
 
 export function classifySlug(slug: string): SlugType {
   const norm = slug.toLowerCase().trim();
+  if (resolveLearnRoute(norm)) return 'learn';
   if (eventSet.has(norm)) return 'event';
   if (companySet.has(norm)) return 'company';
   if (popupSet.has(norm)) return 'popup';

@@ -40,18 +40,17 @@ quiz:
       Gas fees rise when demand exceeds capacity. Popular NFT drops, market
       panic, and new token launches all increase demand for block space, which
       drives up fees.
-  - question: How much cheaper are Layer 2 fees compared to Ethereum mainnet?
+  - question: What determines the fee difference between mainnet and a Layer 2?
     options:
-      - About the same
-      - 2x cheaper
-      - 10-100x cheaper
-      - Free
+      - A fixed ratio shared by every network
+      - The name of the network's token
+      - Execution costs, data costs, and current demand
+      - Layer 2 transactions are always free
     correct: 2
     explanation: >-
-      Layer 2 networks like Arbitrum and Base can be 10 to 100 times cheaper
-      than Ethereum mainnet. A swap that costs $5-20 on mainnet might cost
-      $0.10-0.50 on a Layer 2.
-  - question: What unit is gas measured in?
+      Compare current estimates for the same operation. Fee differences vary
+      by network, transaction type, demand, and data-publication costs.
+  - question: What unit is commonly used to quote the price per unit of gas?
     options:
       - Dollars
       - Bitcoin
@@ -77,7 +76,7 @@ Every operation the EVM performs costs a specific amount of gas. Simple operatio
 | NFT mint | ~100,000-300,000 gas | Mint a new NFT |
 | Deploy a contract | ~1,000,000+ gas | Deploy a new smart contract |
 
-The amount of gas an operation needs is fixed. What changes is the **price per unit of gas**, which goes up when the network is busy.
+Gas use depends on the operations executed, their inputs, and the relevant state. The **price per unit of gas** also changes with demand. The table gives examples rather than guaranteed costs for every implementation.
 
 ## How the fee is calculated
 
@@ -120,15 +119,15 @@ Events that cause fee spikes:
 - **New token launches**: Speculators race to buy new tokens early
 - **Airdrop claims**: When a protocol distributes free tokens, everyone claims at once
 
-During normal periods, a simple ETH transfer costs $0.50-2. During a fee spike, the same transaction can cost $20-100.
+The dollar cost depends on gas used, the effective gas price, and ETH's market price. Review the wallet's current estimate before submitting a transaction.
 
 ## How to pay less
 
 | Strategy | How it works |
 | --- | --- |
-| **Use Layer 2 networks** | Arbitrum, Optimism, and Base process transactions 10-100x cheaper |
-| **Time your transactions** | Fees are lowest on weekends and early morning (US time) |
-| **Set a gas limit** | MetaMask lets you set a maximum fee - your transaction waits until fees drop |
+| **Compare networks** | Check current execution and data fees on networks supported by the application |
+| **Wait when practical** | Monitor demand rather than assume a particular day is cheapest |
+| **Set fee caps carefully** | A fee cap limits the price per gas unit; the gas limit caps units available to execution |
 | **Batch transactions** | Some protocols let you combine multiple operations into one transaction |
 | **Use gas tracking tools** | Sites like etherscan.io/gastracker show current fees in real-time |
 
@@ -143,5 +142,5 @@ Since EIP-1559 launched, over 4 million ETH has been burned (worth billions of d
 - Gas is a unit of computation. The price per unit depends on network demand.
 - Total fee = gas used × (base fee + priority tip). The base fee is burned.
 - Fees spike during high-demand events (NFT mints, market crashes).
-- Layer 2 networks are 10-100x cheaper than Ethereum mainnet.
+- Layer 2 fees depend on execution costs, data costs, and network demand.
 - Use gas trackers and time transactions to save money.

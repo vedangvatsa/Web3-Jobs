@@ -40,7 +40,7 @@ quiz:
     explanation: >-
       DevRel (Developer Relations) professionals create documentation,
       tutorials, and SDKs. They help external developers integrate with the
-      protocol. It is one of the fastest-growing roles in Web3.
+      protocol and report problems with the developer experience.
   - question: Why is community management more important in Web3 than Web2?
     options:
       - Because Web3 companies do not have websites
@@ -91,7 +91,7 @@ lastUpdated: 2026-09-04
 **Salary range**: $150K-300K+
 
 ### Security Auditor
-**What you do**: Review smart contract code to find vulnerabilities before hackers do. High-stakes work - your audit is the last defense before real money goes into a contract.
+**What you do**: Review contract code, assumptions, and dependencies within an agreed scope. Test potential failures and document findings for the development team.
 
 **Day-to-day**: Read Solidity line by line, write proof-of-concept exploits, document findings, recommend fixes.
 
@@ -107,7 +107,7 @@ lastUpdated: 2026-09-04
 **Salary range**: $100K-200K+
 
 ### Community Manager
-**What you do**: Build and nurture the community on Discord, Telegram, and Twitter. In Web3, the community is the product's user base, its governance body, and its marketing engine.
+**What you do**: Support community discussions, answer questions, coordinate events, and escalate issues. Governance and marketing responsibilities depend on the organization.
 
 **Day-to-day**: Moderate Discord, answer questions, organize AMAs, create educational content, escalate bugs from users to engineers.
 
@@ -132,4 +132,4 @@ lastUpdated: 2026-09-04
 - Web3 has the same roles as Web2 tech - plus a few specialized ones (smart contract dev, auditor, DevRel).
 - Technical roles require Solidity/Rust/TypeScript. Non-technical roles require communication and crypto curiosity.
 - Community management is uniquely important because users are also governance participants.
-- Salaries are competitive with Web2 tech companies.
+- Use current, location-specific salary bands rather than assume one pay range applies to a role title.

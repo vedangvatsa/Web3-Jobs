@@ -9,19 +9,18 @@ difficulty: beginner
 prerequisites:
   - first-role
 quiz:
-  - question: What is the biggest risk of token-heavy compensation?
+  - question: What is a risk of treating a token grant like cash salary?
     options:
       - Tokens are harder to spend than cash.
       - >-
-        Token value can drop 80-90% during bear markets, making your
-        compensation worth far less than promised.
+        Its market value and ability to be sold can change before or after it
+        vests.
       - You have to pay extra taxes on tokens.
       - Tokens vest too slowly.
     correct: 1
     explanation: >-
-      Token-heavy packages can look lucrative at current prices, but crypto
-      markets are extremely volatile. A $200K token package can become $20K in a
-      bear market. Always consider the downside scenario.
+      A grant's quoted value is not a guaranteed payment. Review the number of
+      tokens, vesting, liquidity, transfer restrictions, and tax treatment.
   - question: What is a 'cliff' in token vesting?
     options:
       - A period after which all tokens are released at once.
@@ -43,10 +42,9 @@ quiz:
       - Always take 100% tokens for maximum upside.
     correct: 1
     explanation: >-
-      In a bear market, tokens carry significant downside risk. A $100K token
-      package at today's prices could be worth $20K in 6 months. Maximizing your
-      cash base salary protects against this risk while still allowing you to
-      negotiate token allocation as upside.
+      Cash pay and token grants have different risks. Assess whether reliable
+      pay covers your needs, and do not assume that a token will recover in
+      price or become liquid on a particular date.
   - question: What should you negotiate in a token compensation package?
     options:
       - Only the total dollar value.
@@ -88,19 +86,19 @@ Web3 compensation typically has three components:
 2. **Token Allocation** (protocol tokens, vested over time)
 3. **Benefits** (health insurance, remote work budget, conference budget)
 
-The ratio between cash and tokens varies widely:
+Compare the terms actually offered. There is no single pay range or cash-to-token ratio for a company stage:
 
-| Company Stage | Typical Cash | Typical Token | Total Comp Range |
-| --- | --- | --- | --- |
-| Early startup (pre-token) | $120-180K | Large token grant | $200-400K |
-| Growth stage | $150-250K | Moderate tokens | $250-500K |
-| Established protocol | $180-350K | Smaller tokens | $300-600K |
-| Crypto-native fund | $200-400K | Carry/co-invest | $300K-1M+ |
+| Component | Questions to resolve |
+| --- | --- |
+| Cash | Currency, amount, pay period, and employment status |
+| Tokens | Token count, grant conditions, vesting, transfer limits, and taxes |
+| Equity | Instrument, vesting, exercise cost, and liquidity |
+| Bonus or carry | Eligibility, calculation, discretion, and payment timing |
 
 ## Token Compensation: What to Watch
 
 ### Vesting Schedule
-Standard: 4-year vest with 1-year cliff.
+Example only: a four-year grant with a one-year cliff. Read the actual agreement; schedules differ.
 - **Year 0-1 (cliff):** Nothing unlocks.
 - **After cliff:** Tokens unlock monthly or quarterly.
 - If you leave at month 11, you get zero tokens.
@@ -138,7 +136,7 @@ Negotiate for a shorter cliff (6 months instead of 12) or accelerated vesting on
 Especially useful to cover the cliff period where you receive no tokens. A cash signing bonus reduces your risk.
 
 ### 5. Evaluate the Protocol's Revenue
-Does the protocol generate real revenue? Protocols with genuine product-market fit are more likely to sustain their token value.
+Review revenue, funding, and runway where information is available. A functioning business does not guarantee token value or create token-holder rights that are absent from the agreement.
 
 ## Red Flags in Offers
 

@@ -87,7 +87,7 @@ lastUpdated: 2026-09-04
 
 ## Why Gas Costs Matter
 
-Every smart contract operation costs gas. Users pay for gas in ETH. The difference between a well-optimized and poorly-optimized contract can be $5 vs. $50 per transaction. Across millions of users, this determines whether a protocol succeeds or gets abandoned.
+Gas use affects transaction costs. Measure it for representative inputs and state, and keep correctness tests in place when changing an implementation.
 
 <div class="diagram">
 <svg viewBox="0 0 800 180" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:700px">
@@ -120,7 +120,7 @@ Every smart contract operation costs gas. Users pay for gas in ETH. The differen
 
 ## 1. Cache Storage Reads
 
-The single most impactful optimization. Storage reads (SLOAD) cost 2,100 gas. Memory reads cost 3 gas.
+Repeated storage reads may be worth caching. Costs differ for cold and warm accesses, and compiler optimizations can already remove some repeated work.
 
 ```solidity
 // BAD: 3 storage reads = 6,300 gas
@@ -135,7 +135,7 @@ function good_getTotal() public view returns (uint256) {
 }
 ```
 
-This matters most inside loops. If you read `array.length` from storage on every iteration, you pay 2,100 gas per loop.
+Inspect the generated code or a gas report before assuming that each loop iteration performs the same storage read at the same cost.
 
 ## 2. Pack Storage Variables
 
@@ -199,7 +199,7 @@ for (uint256 i = 0; i < length;) {
 }
 ```
 
-Only use `unchecked` when you have a mathematical proof that overflow cannot occur. For a loop counter bounded by an array length, this is always safe.
+Use `unchecked` only after establishing that the particular operation cannot overflow in its reachable states. Check the loop condition, counter type, and update operation rather than apply it to every loop.
 
 ## 5. Use `calldata` Instead of `memory` for Read-Only Arrays
 

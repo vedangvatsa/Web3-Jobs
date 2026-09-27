@@ -67,7 +67,7 @@ quiz:
 lastUpdated: 2026-09-04
 ---
 
-## Let's write a simple contract
+## A contract that stores a message
 
 We are going to look at a classic "Hello World" contract, but for blockchains: a simple Storage contract that lets anyone save a message and read the current message.
 
@@ -115,14 +115,14 @@ contract SimpleStorage {
 
 ## Line-by-line breakdown
 
-Let's tear this apart to understand exactly how Solidity works.
+Read each declaration alongside the behavior it introduces.
 
 ### 1. The License and Pragma
 ```solidity
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.19;
 ```
-The first line is a machine-readable comment indicating the open-source license (MIT). The second line, the **pragma**, tells the compiler: "Only compile this code if you are using Solidity version 0.8.19 or higher." This prevents your code from breaking if future compiler versions change how things work.
+The first line declares the MIT license. The **pragma** `^0.8.19` permits compiler versions from 0.8.19 up to, but not including, 0.9.0. Pin an exact compiler version in the build configuration for reproducible results.
 
 ### 2. Contract Declaration
 ```solidity
@@ -185,7 +185,7 @@ contract OwnedStorage {
 
 ## Key takeaways
 
-- `pragma` locks your compiler version.
+- `pragma` specifies an allowed compiler range; the build configuration selects the version used.
 - State variables are permanently stored on the blockchain.
 - `public` variables automatically get read functions.
 - `msg.sender` identifies who is calling the contract.

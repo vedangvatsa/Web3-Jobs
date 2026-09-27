@@ -48,7 +48,7 @@ quiz:
     explanation: >-
       zkML uses zero-knowledge proofs to prove that a particular inference
       result came from a particular model, without exposing the model itself.
-      This lets smart contracts verify AI outputs trustlessly.
+      The claim depends on the circuit, verifier, and cryptographic assumptions.
   - question: What is the difference between zkML and opML (Optimistic ML)?
     options:
       - They are the same thing.
@@ -59,17 +59,15 @@ quiz:
       - zkML only works with image models.
     correct: 1
     explanation: >-
-      zkML generates a proof at inference time (slow but guaranteed correct).
-      opML assumes the result is correct and opens a challenge window - if
-      someone disputes the result, a verification process runs. opML is faster
-      for the common case but has a delay for finality.
+      zkML verifies an encoded computation through a proof system. Optimistic
+      approaches depend on a dispute process and suitable challengers. Neither
+      approach establishes that a model's answer is factually correct.
   - question: Why can't smart contracts just run AI models directly?
     options:
       - Smart contracts don't support Python.
       - >-
-        Running a neural network inference on-chain would cost millions of
-        dollars in gas fees - blockchains are designed for simple state
-        transitions, not heavy computation.
+        Many models exceed practical on-chain computation and storage budgets,
+        so applications often execute them off-chain.
       - Smart contracts can only process text.
       - There aren't enough nodes.
     correct: 1
@@ -83,9 +81,9 @@ lastUpdated: 2026-09-04
 
 ## The Trust Problem
 
-When you use ChatGPT, you trust OpenAI to actually run the model they claim. But what if the provider swapped out GPT-4 for a cheaper, smaller model to save costs? You'd never know.
+A remote inference response does not by itself prove which model, inputs, or execution environment produced it. Verification methods aim to provide evidence about some or all of those details.
 
-In traditional web apps, this is mostly a reputation issue. But in crypto, where smart contracts manage billions of dollars, trusting an off-chain AI output without verification is unacceptable.
+The required evidence depends on how the result is used. A result that can authorize a financial action needs different controls from a draft summary that a person will review.
 
 **Verifiable inference** solves this: it creates a cryptographic proof that a specific model produced a specific output from a specific input.
 
@@ -102,9 +100,9 @@ In each case, a smart contract needs to consume an AI output. But how does the c
 ## Approaches to Verification
 
 ### Zero-Knowledge Machine Learning (zkML)
-The gold standard. A ZK proof mathematically guarantees that a model produced a given output. The verifier (smart contract) can check the proof cheaply without re-running the model.
+A proof system can establish that a specified computation produced an output. The guarantee depends on the circuit, model representation, verifier, and cryptographic assumptions. It does not prove that the model's answer is factually correct.
 
-**Pros:** Strongest guarantees, fully trustless.
+**Pros:** A verifier can check the encoded computation without repeating all of it.
 **Cons:** Extremely computationally expensive. Generating ZK proofs for large neural networks can take hours and cost more than the inference itself.
 
 **Projects:** EZKL, Modulus Labs, Giza.
@@ -121,7 +119,7 @@ Similar to optimistic rollups. Assume the AI output is correct, but allow a disp
 Run the AI model inside a hardware enclave (Intel SGX, AMD SEV, ARM TrustZone) that produces an attestation proving the code ran untampered.
 
 **Pros:** Fast, practical, works with any model size.
-**Cons:** Relies on hardware manufacturer trust. Not fully trustless.
+**Cons:** Depends on the hardware, firmware, attestation service, and protection against relevant attacks.
 
 **Projects:** Phala Network, Marlin.
 
@@ -129,11 +127,11 @@ Run the AI model inside a hardware enclave (Intel SGX, AMD SEV, ARM TrustZone) t
 
 | Method | Trust Assumption | Speed | Cost | Best For |
 | --- | --- | --- | --- | --- |
-| zkML | Math only | Slow | Very high | High-value DeFi |
+| zkML | Proof system, circuit, verifier, and input commitments | Workload-dependent | Workload-dependent | Checking specified computations |
 | opML | Honest challengers | Medium | Low | General use |
 | TEE | Hardware vendor | Fast | Low | Real-time apps |
 
-Most production systems today use TEEs or opML because zkML is still too expensive for large models. But as ZK proof technology improves, the industry is moving toward fully trustless AI inference.
+Compare these methods for the particular workload. Proof generation, dispute periods, hardware trust, privacy requirements, and recovery from failure can lead to different choices.
 
 <div class="diagram">
 <svg viewBox="0 0 800 160" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:700px">
@@ -174,4 +172,4 @@ Most production systems today use TEEs or opML because zkML is still too expensi
 - **Content Authentication:** Proving that a piece of content was generated by a specific model (useful for deepfake detection).
 - **Autonomous Trading:** DeFi protocols that use AI for trading strategies need verifiable execution to prevent operators from front-running.
 
-Verifiable inference is the bridge that connects AI capabilities to the trustless world of blockchain.
+State precisely what the verification establishes, and keep that separate from claims about model quality or the truth of its output.
