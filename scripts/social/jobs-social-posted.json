@@ -1,5 +1,5 @@
 {
-  "lastIndex": 268,
+  "lastIndex": 270,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -99,7 +99,9 @@
     "cess",
     "infra22",
     "cmp51",
-    "eng299"
+    "eng299",
+    "analyst30",
+    "ops52"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -4406,501 +4408,6 @@
       "platform": "facebook",
       "postedAt": "2026-09-23T03:55:51.457Z",
       "postId": "691827047618629_1095487759725125",
-      "verification": "verified"
-    },
-    {
-      "slug": "an28",
-      "company": "Solflare",
-      "title": "Senior Data Analyst",
-      "platform": "farcaster",
-      "postedAt": "2026-09-24T19:31:51.824Z",
-      "postId": "0x905c3f9baee85ae51af189e5d61b1954d110aea0",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "an28",
-      "company": "Solflare",
-      "title": "Senior Data Analyst",
-      "platform": "farcaster",
-      "postedAt": "2026-09-24T19:31:51.824Z",
-      "postId": "0xc3c1743e3136a35718e36a60490e6d39ea4b49fd",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "an28",
-      "company": "Solflare",
-      "title": "Senior Data Analyst",
-      "platform": "farcaster",
-      "postedAt": "2026-09-24T19:31:51.824Z",
-      "postId": "0x1d7655d16203cbd7813a6809d3d0e84607621c94",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "an28",
-      "company": "Solflare",
-      "title": "Senior Data Analyst",
-      "platform": "farcaster",
-      "postedAt": "2026-09-24T19:31:51.824Z",
-      "postId": "0x1aa3e8499ed18dc37714650d97311313d173dec1",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "an28",
-      "company": "Solflare",
-      "title": "Senior Data Analyst",
-      "platform": "farcaster",
-      "postedAt": "2026-09-24T19:31:51.824Z",
-      "postId": "0xfeccd1e53dc1adc941c6a68b6e26041f0487954b",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "an28",
-      "company": "Solflare",
-      "title": "Senior Data Analyst",
-      "platform": "linkedin",
-      "postedAt": "2026-09-24T19:31:51.824Z",
-      "postId": "6ab57abd36f5e27919119462",
-      "verification": "verified"
-    },
-    {
-      "slug": "an28",
-      "company": "Solflare",
-      "title": "Senior Data Analyst",
-      "platform": "facebook",
-      "postedAt": "2026-09-24T19:31:51.824Z",
-      "postId": "691827047618629_1096994252907809",
-      "verification": "verified"
-    },
-    {
-      "slug": "an28",
-      "company": "Solflare",
-      "title": "Senior Data Analyst",
-      "platform": "instagram",
-      "postedAt": "2026-09-24T19:31:51.824Z",
-      "postId": "18129354481732383",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt41",
-      "company": "OKX",
-      "title": "Growth Manager (Taiwan)",
-      "platform": "threads",
-      "postedAt": "2026-09-24T19:32:45.229Z",
-      "postId": "17946580425341103",
-      "verification": "verified",
-      "expectedText": "OKX is hiring Growth Manager (Taiwan): https://hashtagweb3.com/mkt41/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DdrpO5mj_sD",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "mkt41",
-      "company": "OKX",
-      "title": "Growth Manager (Taiwan)",
-      "platform": "bluesky",
-      "postedAt": "2026-09-24T19:32:45.229Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwbypj24sm2z",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt41",
-      "company": "OKX",
-      "title": "Growth Manager (Taiwan)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-24T19:32:45.229Z",
-      "postId": "0x858b4750e60741accd4ab25d6c981c8c9baf62bb",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt41",
-      "company": "OKX",
-      "title": "Growth Manager (Taiwan)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-24T19:32:45.229Z",
-      "postId": "0x95872c80c5998205733105d6a0724bd6f7e86a98",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt41",
-      "company": "OKX",
-      "title": "Growth Manager (Taiwan)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-24T19:32:45.229Z",
-      "postId": "0x044eaa0442364be69e9187276e4a6cdf577aed14",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt41",
-      "company": "OKX",
-      "title": "Growth Manager (Taiwan)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-24T19:32:45.229Z",
-      "postId": "0x0d05a04a458d24432ed65dd9c2dd1801526ef223",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt41",
-      "company": "OKX",
-      "title": "Growth Manager (Taiwan)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-24T19:32:45.229Z",
-      "postId": "0x10e458dd886f43ecf31a5e0dcf52f2540a098f34",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt41",
-      "company": "OKX",
-      "title": "Growth Manager (Taiwan)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-24T19:32:45.229Z",
-      "postId": "0x9d51e2b2d917712424b717401afe40f856843dcf",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt41",
-      "company": "OKX",
-      "title": "Growth Manager (Taiwan)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-24T19:32:45.229Z",
-      "postId": "0xd5ccbcf4b9fc46aa91eb8804311ade3b1b54ec26",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt41",
-      "company": "OKX",
-      "title": "Growth Manager (Taiwan)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-24T19:32:45.229Z",
-      "postId": "0x9124672cdcd6830668e9ac8dbe63191b7a199bc8",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt41",
-      "company": "OKX",
-      "title": "Growth Manager (Taiwan)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-24T19:32:45.229Z",
-      "postId": "0x7e2c6305d3343e554bfb5fa8f9358db9ad5911f7",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt41",
-      "company": "OKX",
-      "title": "Growth Manager (Taiwan)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-24T19:32:45.229Z",
-      "postId": "0xd282cc15d93acea7cb54350e032802da809fe5ee",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt41",
-      "company": "OKX",
-      "title": "Growth Manager (Taiwan)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-24T19:32:45.229Z",
-      "postId": "0x2b62f1caafd318d1c02a5c21bdb2643825f6dd2c",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt41",
-      "company": "OKX",
-      "title": "Growth Manager (Taiwan)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-24T19:32:45.229Z",
-      "postId": "0xb2a3499425780bbc4b71821ca7531414194f8bdc",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt41",
-      "company": "OKX",
-      "title": "Growth Manager (Taiwan)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-24T19:32:45.229Z",
-      "postId": "0xa9f4c62495207d969d447b2f4ee95119ab7fb2dc",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt41",
-      "company": "OKX",
-      "title": "Growth Manager (Taiwan)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-24T19:32:45.229Z",
-      "postId": "0x7183f0b6ac2883de261970219112fd39aa35fe2d",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt41",
-      "company": "OKX",
-      "title": "Growth Manager (Taiwan)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-24T19:32:45.229Z",
-      "postId": "0x2c5c71ae544c9929bc87d84701497819ea45c34e",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt41",
-      "company": "OKX",
-      "title": "Growth Manager (Taiwan)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-24T19:32:45.229Z",
-      "postId": "0x302e758bd0d35fa0bdb8ee778ae56c128b127e60",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt41",
-      "company": "OKX",
-      "title": "Growth Manager (Taiwan)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-24T19:32:45.229Z",
-      "postId": "0x3a93edf1515658ee0dfdbe190a5791411cf14387",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt41",
-      "company": "OKX",
-      "title": "Growth Manager (Taiwan)",
-      "platform": "linkedin",
-      "postedAt": "2026-09-24T19:32:45.229Z",
-      "postId": "6ab57af1a074a75427c733bc",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt41",
-      "company": "OKX",
-      "title": "Growth Manager (Taiwan)",
-      "platform": "facebook",
-      "postedAt": "2026-09-24T19:32:45.229Z",
-      "postId": "691827047618629_1096994749574426",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt41",
-      "company": "OKX",
-      "title": "Growth Manager (Taiwan)",
-      "platform": "instagram",
-      "postedAt": "2026-09-24T19:32:45.229Z",
-      "postId": "18061019936529459",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp39",
-      "company": "FalconX",
-      "title": "Head of Compliance - Malta",
-      "platform": "threads",
-      "postedAt": "2026-09-25T03:50:38.443Z",
-      "postId": "18013967672957845",
-      "verification": "verified",
-      "expectedText": "FalconX is hiring Head of Compliance - Malta: https://hashtagweb3.com/cmp39/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DdsiNhkgHE1",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "cmp39",
-      "company": "FalconX",
-      "title": "Head of Compliance - Malta",
-      "platform": "bluesky",
-      "postedAt": "2026-09-25T03:50:38.443Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwcujpyiok2f",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp39",
-      "company": "FalconX",
-      "title": "Head of Compliance - Malta",
-      "platform": "farcaster",
-      "postedAt": "2026-09-25T03:50:38.443Z",
-      "postId": "0x7b5ee89946ae29a6b46bf107d0746822712da96c",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp39",
-      "company": "FalconX",
-      "title": "Head of Compliance - Malta",
-      "platform": "farcaster",
-      "postedAt": "2026-09-25T03:50:38.443Z",
-      "postId": "0xb710420950ac1933ac1c9af22db9082a5107b5ba",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp39",
-      "company": "FalconX",
-      "title": "Head of Compliance - Malta",
-      "platform": "farcaster",
-      "postedAt": "2026-09-25T03:50:38.443Z",
-      "postId": "0x0491d9c44b26974920836040b96dd40b5491f3c4",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp39",
-      "company": "FalconX",
-      "title": "Head of Compliance - Malta",
-      "platform": "farcaster",
-      "postedAt": "2026-09-25T03:50:38.443Z",
-      "postId": "0xb55086a50361212531ed262a41769b3d98b4aa08",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp39",
-      "company": "FalconX",
-      "title": "Head of Compliance - Malta",
-      "platform": "farcaster",
-      "postedAt": "2026-09-25T03:50:38.443Z",
-      "postId": "0x4327f59befd46f8e956861b363f85aa728b9e48f",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp39",
-      "company": "FalconX",
-      "title": "Head of Compliance - Malta",
-      "platform": "farcaster",
-      "postedAt": "2026-09-25T03:50:38.443Z",
-      "postId": "0xaaeb0a63cdfa462d728c918af38dcdbe815c31fd",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp39",
-      "company": "FalconX",
-      "title": "Head of Compliance - Malta",
-      "platform": "farcaster",
-      "postedAt": "2026-09-25T03:50:38.443Z",
-      "postId": "0x955aab2b5545c083c39116c20325f0c93cde34b9",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp39",
-      "company": "FalconX",
-      "title": "Head of Compliance - Malta",
-      "platform": "farcaster",
-      "postedAt": "2026-09-25T03:50:38.443Z",
-      "postId": "0xd39b6a3379ac32ff75e0feed25967f7fc4c3ca81",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp39",
-      "company": "FalconX",
-      "title": "Head of Compliance - Malta",
-      "platform": "farcaster",
-      "postedAt": "2026-09-25T03:50:38.443Z",
-      "postId": "0xa23dd268f04537f78c4ae79ae5c6ff58e63adb36",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp39",
-      "company": "FalconX",
-      "title": "Head of Compliance - Malta",
-      "platform": "farcaster",
-      "postedAt": "2026-09-25T03:50:38.443Z",
-      "postId": "0x33b7d77fb74d2d844f5fed04a70fac88e0b4b59f",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp39",
-      "company": "FalconX",
-      "title": "Head of Compliance - Malta",
-      "platform": "farcaster",
-      "postedAt": "2026-09-25T03:50:38.443Z",
-      "postId": "0x7324f087260cffe1eb4caa56c7a4cdf49a38b7be",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp39",
-      "company": "FalconX",
-      "title": "Head of Compliance - Malta",
-      "platform": "farcaster",
-      "postedAt": "2026-09-25T03:50:38.443Z",
-      "postId": "0x2f2cee8f665277236c93af4954e40b011e5afada",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp39",
-      "company": "FalconX",
-      "title": "Head of Compliance - Malta",
-      "platform": "farcaster",
-      "postedAt": "2026-09-25T03:50:38.443Z",
-      "postId": "0x916c63401a0d22762e7d532ddc0a23d42d1bf170",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp39",
-      "company": "FalconX",
-      "title": "Head of Compliance - Malta",
-      "platform": "farcaster",
-      "postedAt": "2026-09-25T03:50:38.443Z",
-      "postId": "0xf6bf62419434ae9d59967b9472a1da14a621394f",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp39",
-      "company": "FalconX",
-      "title": "Head of Compliance - Malta",
-      "platform": "farcaster",
-      "postedAt": "2026-09-25T03:50:38.443Z",
-      "postId": "0x389432a20544329f2ac29fead771435d26d45f24",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp39",
-      "company": "FalconX",
-      "title": "Head of Compliance - Malta",
-      "platform": "farcaster",
-      "postedAt": "2026-09-25T03:50:38.443Z",
-      "postId": "0x5973ade9141da1b2a62d4b54f7b0a577e2cc66d4",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp39",
-      "company": "FalconX",
-      "title": "Head of Compliance - Malta",
-      "platform": "farcaster",
-      "postedAt": "2026-09-25T03:50:38.443Z",
-      "postId": "0xd403fa993aec7e1a1354a1a21f7b4fb9ce2def11",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp39",
-      "company": "FalconX",
-      "title": "Head of Compliance - Malta",
-      "platform": "linkedin",
-      "postedAt": "2026-09-25T03:50:38.443Z",
-      "postId": "6ab5ef9e8c95968bb02a95e7",
       "verification": "verified"
     },
     {
@@ -10041,6 +9548,516 @@
       "platform": "instagram",
       "postedAt": "2026-09-27T19:33:06.283Z",
       "postId": "18128381233747366",
+      "verification": "verified"
+    },
+    {
+      "slug": "analyst30",
+      "company": "Nexo",
+      "title": "Senior BI Analyst",
+      "platform": "x",
+      "postedAt": "2026-09-27T22:26:54.703Z",
+      "postId": "6ab9982f36a0dcfcb3e6e720",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Nexo is hiring Senior BI Analyst\n\nhttps://hashtagweb3.com/analyst30/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2104337013159735364"
+    },
+    {
+      "slug": "analyst30",
+      "company": "Nexo",
+      "title": "Senior BI Analyst",
+      "platform": "threads",
+      "postedAt": "2026-09-27T22:26:54.703Z",
+      "postId": "18114804590120693",
+      "verification": "verified",
+      "expectedText": "Nexo is hiring Senior BI Analyst: https://hashtagweb3.com/analyst30/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DdzrjREFZE2",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "analyst30",
+      "company": "Nexo",
+      "title": "Senior BI Analyst",
+      "platform": "bluesky",
+      "postedAt": "2026-09-27T22:26:54.703Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwjttoepum2h",
+      "verification": "verified"
+    },
+    {
+      "slug": "analyst30",
+      "company": "Nexo",
+      "title": "Senior BI Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T22:26:54.703Z",
+      "postId": "0x469fb8bef2ff78777ab4a5861de6a00432f7678b",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "analyst30",
+      "company": "Nexo",
+      "title": "Senior BI Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T22:26:54.703Z",
+      "postId": "0x201a6f8b3b388101970883a793298b942bf1d0d5",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "analyst30",
+      "company": "Nexo",
+      "title": "Senior BI Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T22:26:54.703Z",
+      "postId": "0x207b98bc93c7f50e59ce55d244b89ee143c6c842",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "analyst30",
+      "company": "Nexo",
+      "title": "Senior BI Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T22:26:54.703Z",
+      "postId": "0x9c4d8c6d39adef70547176ff20fefe5dfc9df41e",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "analyst30",
+      "company": "Nexo",
+      "title": "Senior BI Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T22:26:54.703Z",
+      "postId": "0xebff05c741593250872d501c7dd4e571c0a3dae8",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "analyst30",
+      "company": "Nexo",
+      "title": "Senior BI Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T22:26:54.703Z",
+      "postId": "0x69923fe15ab5d67e5c7bd490a5d7eb52557e5241",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "analyst30",
+      "company": "Nexo",
+      "title": "Senior BI Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T22:26:54.703Z",
+      "postId": "0x9d1b2b97430b7545e628e492f99a0363fb3ac57b",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "analyst30",
+      "company": "Nexo",
+      "title": "Senior BI Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T22:26:54.703Z",
+      "postId": "0x74164f6373b64ec889909c151c99767e7a530e76",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "analyst30",
+      "company": "Nexo",
+      "title": "Senior BI Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T22:26:54.703Z",
+      "postId": "0x0133b6ca2edeadc3a1307ccbfbd8ae1210a59b9d",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "analyst30",
+      "company": "Nexo",
+      "title": "Senior BI Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T22:26:54.703Z",
+      "postId": "0x2ab9b20100cc016545837934fa6e3f9b4f3d564a",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "analyst30",
+      "company": "Nexo",
+      "title": "Senior BI Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T22:26:54.703Z",
+      "postId": "0xf61f67626d59c87ef45a0278ea21a565fff61331",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "analyst30",
+      "company": "Nexo",
+      "title": "Senior BI Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T22:26:54.703Z",
+      "postId": "0x0ab4d9537cc726e45f08eef3c4792171a5a14e10",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "analyst30",
+      "company": "Nexo",
+      "title": "Senior BI Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T22:26:54.703Z",
+      "postId": "0x717fa540d4f43b113a6b759d7b23b2d6303c523e",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "analyst30",
+      "company": "Nexo",
+      "title": "Senior BI Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T22:26:54.703Z",
+      "postId": "0x8abe528553d610912abdef75e2b01deed83ca323",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "analyst30",
+      "company": "Nexo",
+      "title": "Senior BI Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T22:26:54.703Z",
+      "postId": "0x70e053067c462c3286f5dda5de656fe398226143",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "analyst30",
+      "company": "Nexo",
+      "title": "Senior BI Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T22:26:54.703Z",
+      "postId": "0xe8492f4735f22c0d385735301d63ea9c88ae7f00",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "analyst30",
+      "company": "Nexo",
+      "title": "Senior BI Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T22:26:54.703Z",
+      "postId": "0xf33790c83b44d02d04dac081673451ea29cccd16",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "analyst30",
+      "company": "Nexo",
+      "title": "Senior BI Analyst",
+      "platform": "linkedin",
+      "postedAt": "2026-09-27T22:26:54.703Z",
+      "postId": "6ab99840612c9e6ac9360aa0",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "analyst30",
+      "company": "Nexo",
+      "title": "Senior BI Analyst",
+      "platform": "linkedin",
+      "postedAt": "2026-09-27T22:26:54.703Z",
+      "postId": "6ab9984a612c9e6ac9360b80",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "analyst30",
+      "company": "Nexo",
+      "title": "Senior BI Analyst",
+      "platform": "linkedin",
+      "postedAt": "2026-09-27T22:26:54.703Z",
+      "postId": "urn:li:share:7510102864787177472",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "analyst30",
+      "company": "Nexo",
+      "title": "Senior BI Analyst",
+      "platform": "facebook",
+      "postedAt": "2026-09-27T22:26:54.703Z",
+      "postId": "691827047618629_1099983359275565",
+      "verification": "verified"
+    },
+    {
+      "slug": "analyst30",
+      "company": "Nexo",
+      "title": "Senior BI Analyst",
+      "platform": "instagram",
+      "postedAt": "2026-09-27T22:26:54.703Z",
+      "postId": "17925425418423135",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops52",
+      "company": "Alpaca",
+      "title": "Broker-Dealer Operations Specialist, Japan (Japan Location / Japanese Language Required)",
+      "platform": "x",
+      "postedAt": "2026-09-27T22:27:56.944Z",
+      "postId": "6ab9986da94ef4516f1fe5c6",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Alpaca is hiring Broker-Dealer Operations Specialist, Japan (Japan Location / Japanese Language Required)\n\nhttps://hashtagweb3.com/ops52/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2104337273391104106"
+    },
+    {
+      "slug": "ops52",
+      "company": "Alpaca",
+      "title": "Broker-Dealer Operations Specialist, Japan (Japan Location / Japanese Language Required)",
+      "platform": "threads",
+      "postedAt": "2026-09-27T22:27:56.944Z",
+      "postId": "18093644111652258",
+      "verification": "verified",
+      "expectedText": "Alpaca is hiring Broker-Dealer Operations Specialist, Japan (Japan Location / Japanese Language Required): https://hashtagweb3.com/ops52/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DdzrqyOFVsu",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "ops52",
+      "company": "Alpaca",
+      "title": "Broker-Dealer Operations Specialist, Japan (Japan Location / Japanese Language Required)",
+      "platform": "bluesky",
+      "postedAt": "2026-09-27T22:27:56.944Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwjtvicixg2t",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops52",
+      "company": "Alpaca",
+      "title": "Broker-Dealer Operations Specialist, Japan (Japan Location / Japanese Language Required)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T22:27:56.944Z",
+      "postId": "0x27c2a801c69e3d78bd423c34c6bafae22b12b44e",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops52",
+      "company": "Alpaca",
+      "title": "Broker-Dealer Operations Specialist, Japan (Japan Location / Japanese Language Required)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T22:27:56.944Z",
+      "postId": "0x5769999e3847a309f7128f93c50b985abbc8352a",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops52",
+      "company": "Alpaca",
+      "title": "Broker-Dealer Operations Specialist, Japan (Japan Location / Japanese Language Required)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T22:27:56.944Z",
+      "postId": "0x65124e93b2a623a8b131a5e58c92333682d00573",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops52",
+      "company": "Alpaca",
+      "title": "Broker-Dealer Operations Specialist, Japan (Japan Location / Japanese Language Required)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T22:27:56.944Z",
+      "postId": "0x93304330e02f3855859e93ef4a6080a1f1c68b3f",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops52",
+      "company": "Alpaca",
+      "title": "Broker-Dealer Operations Specialist, Japan (Japan Location / Japanese Language Required)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T22:27:56.944Z",
+      "postId": "0x9fc9df6f70542c5470d4bd06ccafc9d3f7b98666",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops52",
+      "company": "Alpaca",
+      "title": "Broker-Dealer Operations Specialist, Japan (Japan Location / Japanese Language Required)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T22:27:56.944Z",
+      "postId": "0xbd5930bd8e79b981c35f4ca170411ee46818002e",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops52",
+      "company": "Alpaca",
+      "title": "Broker-Dealer Operations Specialist, Japan (Japan Location / Japanese Language Required)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T22:27:56.944Z",
+      "postId": "0x7404b2bb6d246ceb0e9fd87c4635305d99a9c972",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops52",
+      "company": "Alpaca",
+      "title": "Broker-Dealer Operations Specialist, Japan (Japan Location / Japanese Language Required)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T22:27:56.944Z",
+      "postId": "0x2509c13d7b02fb9e0b20447e1257d294002ccbdb",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops52",
+      "company": "Alpaca",
+      "title": "Broker-Dealer Operations Specialist, Japan (Japan Location / Japanese Language Required)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T22:27:56.944Z",
+      "postId": "0x761b7248f8c9be820668be67ceeb096aa3967049",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops52",
+      "company": "Alpaca",
+      "title": "Broker-Dealer Operations Specialist, Japan (Japan Location / Japanese Language Required)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T22:27:56.944Z",
+      "postId": "0xfc4ae43381fb4676c0125239825a4f559474abe1",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops52",
+      "company": "Alpaca",
+      "title": "Broker-Dealer Operations Specialist, Japan (Japan Location / Japanese Language Required)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T22:27:56.944Z",
+      "postId": "0x4e571007e8955c153e7433f14093a6ad0e8b61f0",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops52",
+      "company": "Alpaca",
+      "title": "Broker-Dealer Operations Specialist, Japan (Japan Location / Japanese Language Required)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T22:27:56.944Z",
+      "postId": "0x6b03fcaaaff522d3a6d75f97a2556faeb8445ac1",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops52",
+      "company": "Alpaca",
+      "title": "Broker-Dealer Operations Specialist, Japan (Japan Location / Japanese Language Required)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T22:27:56.944Z",
+      "postId": "0x485055469db2ecdd26eabb9ecd35e650628a88f8",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops52",
+      "company": "Alpaca",
+      "title": "Broker-Dealer Operations Specialist, Japan (Japan Location / Japanese Language Required)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T22:27:56.944Z",
+      "postId": "0xcbe06b75f55b14cdc1c596298d0cd90d8a376c4a",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops52",
+      "company": "Alpaca",
+      "title": "Broker-Dealer Operations Specialist, Japan (Japan Location / Japanese Language Required)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T22:27:56.944Z",
+      "postId": "0xa0ccefb98d5039143afaab040d333cd1b4adf286",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops52",
+      "company": "Alpaca",
+      "title": "Broker-Dealer Operations Specialist, Japan (Japan Location / Japanese Language Required)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T22:27:56.944Z",
+      "postId": "0x69e4e49a1ad7c5c3a8796c7b64b9afb01ed74c23",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops52",
+      "company": "Alpaca",
+      "title": "Broker-Dealer Operations Specialist, Japan (Japan Location / Japanese Language Required)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-27T22:27:56.944Z",
+      "postId": "0x360ff0985e5b83271fc899d33b10ef7e8227783d",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops52",
+      "company": "Alpaca",
+      "title": "Broker-Dealer Operations Specialist, Japan (Japan Location / Japanese Language Required)",
+      "platform": "linkedin",
+      "postedAt": "2026-09-27T22:27:56.944Z",
+      "postId": "6ab9987c82dee5c85bccce05",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops52",
+      "company": "Alpaca",
+      "title": "Broker-Dealer Operations Specialist, Japan (Japan Location / Japanese Language Required)",
+      "platform": "linkedin",
+      "postedAt": "2026-09-27T22:27:56.944Z",
+      "postId": "6ab9988770ec211d1d2a209a",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops52",
+      "company": "Alpaca",
+      "title": "Broker-Dealer Operations Specialist, Japan (Japan Location / Japanese Language Required)",
+      "platform": "linkedin",
+      "postedAt": "2026-09-27T22:27:56.944Z",
+      "postId": "urn:li:share:7510103118609702913",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops52",
+      "company": "Alpaca",
+      "title": "Broker-Dealer Operations Specialist, Japan (Japan Location / Japanese Language Required)",
+      "platform": "facebook",
+      "postedAt": "2026-09-27T22:27:56.944Z",
+      "postId": "691827047618629_1099983775942190",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops52",
+      "company": "Alpaca",
+      "title": "Broker-Dealer Operations Specialist, Japan (Japan Location / Japanese Language Required)",
+      "platform": "instagram",
+      "postedAt": "2026-09-27T22:27:56.944Z",
+      "postId": "18011520545763133",
       "verification": "verified"
     }
   ]
