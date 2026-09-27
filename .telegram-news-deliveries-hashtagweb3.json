@@ -30,5 +30,35 @@
     ],
     "messageId": 155479,
     "sentAt": "2026-09-27T11:35:48.446Z"
+  },
+  "356620ba-d68a-4a11-9331-ea2496dbc628": {
+    "status": "reserved",
+    "reservedAt": "2026-09-27T15:54:37.900Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "KelpDAO Sues LayerZero Over $292 Million Bridge Exploit",
+        "summary": "Evercrest Technologies sued LayerZero and its CEO in British Columbia over an April rsETH bridge exploit.",
+        "link": "https://hashtagweb3.com/kelp-lawsuit?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "KelpDAO Sues LayerZero Over $292M Bridge Exploit"
+      },
+      {
+        "index": -1,
+        "headline": "SEC: Token buybacks on active networks are not securities",
+        "summary": "Buybacks on functional networks are not securities, but unfinished network buybacks marketed as yield may be.",
+        "link": "https://hashtagweb3.com/sec-buybacks?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "SEC staff says token buybacks on working networks are not securities promises"
+      },
+      {
+        "index": 1,
+        "headline": "Researchers Propose Solutions for Bitcoin Quantum Computing Threats",
+        "summary": "Recent cost, privacy, and custody developments transition quantum defense theories into practical logistics for the network.",
+        "link": "https://decrypt.co/379400/bitcoins-quantum-problem-three-ways-researchers-are-trying-to-fix-it",
+        "source": "Decrypt",
+        "originalTitle": "Bitcoin's Quantum Problem: Three Ways Researchers Are Trying to Fix It"
+      }
+    ]
   }
 }

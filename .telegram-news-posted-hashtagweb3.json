@@ -611,6 +611,9 @@
   "https://hashtagweb3.com/cash-fx?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/cleanspark-debt?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/kalshi-appeal?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/kelp-lawsuit?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/sec-buybacks?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://decrypt.co/379400/bitcoins-quantum-problem-three-ways-researchers-are-trying-to-fix-it",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -1741,6 +1744,12 @@
   "CleanSpark Closes $2.276B Notes Sale for Georgia Data Center",
   "Court Rules Against Kalshi in Sports Betting Contract Appeal",
   "Kalshi Loses Sixth Circuit Appeal Over Sports Contracts",
+  "KelpDAO Sues LayerZero Over $292 Million Bridge Exploit",
+  "KelpDAO Sues LayerZero Over $292M Bridge Exploit",
+  "SEC: Token buybacks on active networks are not securities",
+  "SEC staff says token buybacks on working networks are not securities promises",
+  "Researchers Propose Solutions for Bitcoin Quantum Computing Threats",
+  "Bitcoin's Quantum Problem: Three Ways Researchers Are Trying to Fix It",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -1902,5 +1911,8 @@
   "fp:agency|asset|commission|commissioner|depart|digital|eight|exchang|hester|known",
   "fp:406m|950m|alleg|cash|cftc|charg|defraud|executiv|fac|firm",
   "fp:2276b|228b|campus|center|cleanspark|clos|data|due2031|fund|georgia",
-  "fp:against|appeal|are|bett|circuit|contract|court|enforc|financial|found"
+  "fp:against|appeal|are|bett|circuit|contract|court|enforc|financial|found",
+  "fp:292m|april|bridg|british|ceo|columbia|evercrest|exploit|kelpdao|layerzero",
+  "fp:activ|are|buyback|functional|market|may|network|not|promis|sec",
+  "fp:are|comput|cost|custody|defens|development|fix|logistic|network|practical"
 ]
