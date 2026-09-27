@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-09-27T03:31:39.332Z",
+  "generatedAt": "2026-09-27T11:31:29.760Z",
   "items": [
+    {
+      "title": "Riot Platforms repays $200M credit facility, releases collateral",
+      "link": "https://cointelegraph.com/news/riot-platforms-repays-200m-credit-facility-releases-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Sun, 27 Sep 2026 09:57:19 +0000",
+      "creator": "Michael Millard",
+      "contentSnippet": "The Bitcoin miner has continued to expand its data-center business as well.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Saylor outlines ‘bill of digital rights’ to help build prosperity in future economy",
+      "link": "https://cointelegraph.com/news/saylor-outlines-bill-of-digital-rights-to-help-build-prosperity-in-future-economy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Sun, 27 Sep 2026 07:18:42 +0000",
+      "creator": "Michael Millard",
+      "contentSnippet": "Our ambition should be to “enable 10 million new companies to raise capital,” Strategy’s executive chairman Michael Saylor wrote in an essay.",
+      "source": "Cointelegraph"
+    },
     {
       "title": "Bitcoin ETFs turn positive for 2026 with $2.4 billion weekly inflow, their largest since October",
       "link": "https://www.theblock.co/news/markets/2026-09-26-bitcoin-etfs-turn-positive-for-2026-with-2-4-billion-weekly-inflow-their-largest-since-october-416944",
@@ -306,14 +322,6 @@
       "source": "Decrypt"
     },
     {
-      "title": "Stablecoin Cross-Border Flows Surge 78% to $220,300,000,000 Amid Crypto Bear Market",
-      "link": "https://dailyhodl.com/2026/09/25/stablecoin-cross-border-flows-surge-78-to-220300000000-amid-crypto-bear-market/",
-      "pubDate": "Fri, 25 Sep 2026 09:15:34 +0000",
-      "creator": "Agent",
-      "contentSnippet": "Cross-border stablecoin transfers rose 77.5% to $220.3 billion in the year ending June 2026, defying a 50% crypto market cap drop, according to Chaina...",
-      "source": "Daily Hodl"
-    },
-    {
       "title": "Bitcoin ETF inflows slow to $191M as six-day streak reaches $2.8B",
       "link": "https://cointelegraph.com/markets/bitcoin-etf-six-day-streak-2-8-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Fri, 25 Sep 2026 07:41:36 +0000",
@@ -328,14 +336,6 @@
       "creator": "Ezra Reguerra",
       "contentSnippet": "Keonne Rodriguez says he and 70 others face another move after their treatment program was deactivated. His previous transfer took 30 days.",
       "source": "Cointelegraph"
-    },
-    {
-      "title": "Crypto Exchange Bitget Confirms $351,600,000 Hot Wallet Breach, Abruptly Suspends Withdrawals",
-      "link": "https://dailyhodl.com/2026/09/25/crypto-exchange-bitget-confirms-3516000-hot-wallet-breach-abruptly-suspends-withdrawals/",
-      "pubDate": "Fri, 25 Sep 2026 07:15:06 +0000",
-      "creator": "Agent",
-      "contentSnippet": "Bitget detected unauthorized transfers of approximately $351.6 million from hot wallets on September 24, 2026, and temporarily suspended withdrawals w...",
-      "source": "Daily Hodl"
     },
     {
       "title": "Live updates: Bitcoin moves to $84,000, oil slides on latest report of Middle East progress",
@@ -378,6 +378,22 @@
       "source": "Cointelegraph"
     },
     {
+      "title": "Bitget confirms $352M security breach, suspends withdrawals",
+      "link": "https://cointelegraph.com/news/bitget-calls-security-withdrawal-claims-unverified-amid-178m-breach-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 24 Sep 2026 21:47:17 +0000",
+      "creator": "Nate Kostar",
+      "contentSnippet": "Bitget said unauthorized transfers affected a limited number of hot wallets, while cold wallets and most platform assets remained unaffected.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Bitget Hacked as $350 Million Vanishes From Crypto Exchange Wallets",
+      "link": "https://decrypt.co/379275/bitget-hack-183-million-crypto-exchange-wallets",
+      "pubDate": "Thu, 24 Sep 2026 21:15:38 +0000",
+      "creator": "Jose Antonio Lanz",
+      "contentSnippet": "A newly created wallet drained hot and cold reserves labeled as belonging to Bitget across multiple blockchains in under an hour.",
+      "source": "Decrypt"
+    },
+    {
       "title": "Bitcoin price steadies, ONDO rallies as US Treasury yields hit 2007 highs",
       "link": "https://cointelegraph.com/markets/bitcoin-steadies-ondo-rallies-us-treasury-yields-hit-2007-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Thu, 24 Sep 2026 20:32:16 +0000",
@@ -392,14 +408,6 @@
       "creator": "Krisztian Sandor",
       "contentSnippet": "The group aims to link onchain shares to official shareholder records following the U.S. SEC's innovation exemption for tokenized stock trading.",
       "source": "Coindesk"
-    },
-    {
-      "title": "DoubleZero brings dedicated fiber market data to Hyperliquid traders",
-      "link": "https://cointelegraph.com/news/doublezero-brings-dedicated-fiber-market-data-hyperliquid-traders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Thu, 24 Sep 2026 20:04:07 +0000",
-      "creator": "Nate Kostar",
-      "contentSnippet": "DoubleZero launched a dedicated fiber market data feed for Hyperliquid, giving professional trading firms faster access to its full order book.",
-      "source": "Cointelegraph"
     },
     {
       "title": "Solana treasury firm SkyAI keeps board after shareholder protest, loses equity plan vote",
@@ -432,14 +440,6 @@
       "creator": "Guillermo Jimenez",
       "contentSnippet": "In one of her final speeches as commissioner, Peirce argued that regulators' \"data haystacks\" endanger the people they aim to protect—as recent KYC le...",
       "source": "Decrypt"
-    },
-    {
-      "title": "Crypto treasury model loses its edge as stock premiums fade: DWF",
-      "link": "https://cointelegraph.com/news/crypto-treasury-firms-below-nav-sequans-bitcoin-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Thu, 24 Sep 2026 17:14:35 +0000",
-      "creator": "Sam Bourgi",
-      "contentSnippet": "Most DATs now trade below the value of their crypto holdings, weakening a financing model that once helped companies expand their balance sheets.",
-      "source": "Cointelegraph"
     },
     {
       "title": "US Aims to Turn Stablecoins Into a Weapon for Dollar Dominance",
