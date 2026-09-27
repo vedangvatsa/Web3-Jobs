@@ -608,6 +608,9 @@
   "https://hashtagweb3.com/eden-exploit?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/eqibank-seizure?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://cointelegraph.com/news/sec-commissioner-hester-peirce-to-leave-post-on-oct-2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "https://hashtagweb3.com/cash-fx?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/cleanspark-debt?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/kalshi-appeal?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -1732,6 +1735,12 @@
   "US prosecutors target $84.2 million tied to Tether banking partner in forfeiture case",
   "US Securities and Exchange Commission member Hester Peirce to depart",
   "SEC Commissioner Hester Peirce to leave post on Oct. 2",
+  "CFTC Sues Cash FX Over $950 Million Ponzi Scheme",
+  "CFTC Sues Cash FX Over Alleged $950M Forex Ponzi Scheme",
+  "CleanSpark Raises $2.28B for Georgia Data Center",
+  "CleanSpark Closes $2.276B Notes Sale for Georgia Data Center",
+  "Court Rules Against Kalshi in Sports Betting Contract Appeal",
+  "Kalshi Loses Sixth Circuit Appeal Over Sports Contracts",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -1890,5 +1899,8 @@
   "fp:application|bug|built|confirm|creat|detect|find|flaw|googl|hunt",
   "fp:000|57m|contract|eden|exploit|expos|hacker|list|magic|nft",
   "fp:842m|alleg|asset|bank|capston|cas|exposur|firm|forfeitur|licens",
-  "fp:agency|asset|commission|commissioner|depart|digital|eight|exchang|hester|known"
+  "fp:agency|asset|commission|commissioner|depart|digital|eight|exchang|hester|known",
+  "fp:406m|950m|alleg|cash|cftc|charg|defraud|executiv|fac|firm",
+  "fp:2276b|228b|campus|center|cleanspark|clos|data|due2031|fund|georgia",
+  "fp:against|appeal|are|bett|circuit|contract|court|enforc|financial|found"
 ]
