@@ -1,0 +1,33 @@
+{
+  "06122a12-5456-450a-9220-d6414bb49ff2": {
+    "status": "reserved",
+    "reservedAt": "2026-09-27T11:34:59.932Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "CFTC Charges Cash FX Group Over $950M Forex Scheme",
+        "summary": "Regulators allege the group and three individuals ran a fraud causing at least $406 million in investor losses.",
+        "link": "https://hashtagweb3.com/cash-fx?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "CFTC Sues Cash FX Over Alleged $950M Forex Ponzi Scheme"
+      },
+      {
+        "index": -1,
+        "headline": "KelpDAO Developer Sues LayerZero Over $292 Million Exploit",
+        "summary": "Evercrest Technologies filed a lawsuit in British Columbia against LayerZero and its CEO over an April rsETH exploit.",
+        "link": "https://hashtagweb3.com/kelp-lawsuit?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "KelpDAO Sues LayerZero Over $292M Bridge Exploit"
+      },
+      {
+        "index": 25,
+        "headline": "Ethena adds tokenized stocks to stablecoin collateral pool",
+        "summary": "The protocol expanded its backing strategy to include equity perpetuals and tokenized stocks on a major cryptocurrency exchange.",
+        "event_rationale": "This is a direct protocol update for a major stablecoin, distinct from previous news about USDC or tokenized stock redemptions.",
+        "link": "https://www.theblock.co/news/deals/2026-09-25-ethena-expands-usde-backing-strategy-into-bstocks-and-equity-perpetuals-on-binance-416367",
+        "source": "The Block",
+        "originalTitle": "Ethena expands USDe backing strategy into bStocks and equity perpetuals on Binance"
+      }
+    ]
+  }
+}
