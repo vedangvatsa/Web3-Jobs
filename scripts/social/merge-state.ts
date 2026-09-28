@@ -147,6 +147,7 @@ function discoverFiles(): string[] {
  // 2. Scan root directory for any.*posted*.json or.*news*.json
  const rootFiles = fs.readdirSync(ROOT_DIR);
  for (const file of rootFiles) {
+ if (/^\.telegram-(?:events-|news-|ai-news-)/.test(file)) continue;
  if (file.endsWith('.json') && (file.includes('posted') || file.includes('news') || file.startsWith('.telegram'))) {
  discovered.push(path.join(ROOT_DIR, file));
  }

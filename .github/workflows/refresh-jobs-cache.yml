@@ -479,8 +479,10 @@ jobs:
         run: npx tsx scripts/telegram-post.mjs
         continue-on-error: true
 
-      - name: Test Telegram event mirroring
-        run: npx tsx --test scripts/telegram-event-mirror.test.ts
+      - name: Test and sync Telegram event delivery history
+        run: |
+          npx tsx --test scripts/telegram-event-mirror.test.ts scripts/telegram-event-delivery.test.ts scripts/telegram-event-state.test.ts
+          npx tsx scripts/social/telegram-event-state.ts --sync
 
       - name: Post to Telegram (Events → hashtagweb3 group + @eventsweb3)
         env:
@@ -489,10 +491,22 @@ jobs:
           TELEGRAM_EVENTS_MIRROR_CHANNEL_ID: '@eventsweb3'
           TELEGRAM_THREAD_ID: '1454'
         run: npx tsx scripts/telegram-events.ts
-        continue-on-error: true
+
+      - name: Preserve Telegram event receipts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: telegram-event-receipts-${{ github.run_id }}-${{ github.run_attempt }}
+          include-hidden-files: true
+          path: .telegram-events-*.json
+
+      - name: Persist Telegram event history independently of later steps
+        if: ${{ always() && !cancelled() }}
+        run: npx tsx scripts/social/telegram-event-state.ts
 
       - name: Sync Telegram news delivery history
         id: news_state
+        if: ${{ !cancelled() }}
         run: |
           node --test scripts/news-story-dedup.test.mjs scripts/social/telegram-news-state.test.mjs scripts/social/telegram-news-delivery.test.mjs
           node scripts/social/telegram-news-state.mjs --sync
@@ -562,6 +576,9 @@ jobs:
           # by the daily ingest (refresh-jobs-ingest.yml) — never stage them
           # here, or intraday runs will fight the morning ingest on rebase.
           git add content/events/ content/events-runtime.json content/legacy-slugs-archive.json content/prebuild-input-hashes.json scripts/social/*.json .telegram*.json .resend-broadcast-sent.json public/preview/ public/events/ 2>/dev/null || true
+          # Receipts are already saved on main and backed up above. Do not
+          # re-commit them from this older checkout during the cache rebase.
+          git restore --source=HEAD --staged --worktree -- '.telegram-events-*.json' '.telegram-news-*.json' '.telegram-ai-news-*.json'
           # Owned by record-slot. Staging it here races the daily stamp.
           git reset HEAD -- scripts/social/publish-slot-state.json 2>/dev/null || true
           git checkout -- scripts/social/publish-slot-state.json 2>/dev/null || true

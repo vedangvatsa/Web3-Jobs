@@ -1,0 +1,34 @@
+{
+  "@hashtagweb3:155474:@eventsweb3": {
+    "fromChatId": "@hashtagweb3",
+    "sourceMessageId": 155474,
+    "destination": "@eventsweb3",
+    "status": "sent",
+    "attempts": 0,
+    "deliveredMessageId": 3
+  },
+  "@hashtagweb3:155478:@eventsweb3": {
+    "fromChatId": "@hashtagweb3",
+    "sourceMessageId": 155478,
+    "destination": "@eventsweb3",
+    "status": "sent",
+    "attempts": 0,
+    "deliveredMessageId": 4
+  },
+  "@hashtagweb3:155483:@eventsweb3": {
+    "fromChatId": "@hashtagweb3",
+    "sourceMessageId": 155483,
+    "destination": "@eventsweb3",
+    "status": "sent",
+    "attempts": 0,
+    "deliveredMessageId": 5
+  },
+  "@hashtagweb3:155487:@eventsweb3": {
+    "fromChatId": "@hashtagweb3",
+    "sourceMessageId": 155487,
+    "destination": "@eventsweb3",
+    "status": "sent",
+    "attempts": 0,
+    "deliveredMessageId": 6
+  }
+}

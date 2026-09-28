@@ -39,13 +39,13 @@ export function mergeNewsState(name, local, remote) {
   return Date.parse(local.postedAt) > Date.parse(remote.postedAt) ? local : remote;
 }
 
-export function persistNewsState({ cwd = process.cwd(), syncOnly = false, attempts = 3, validateRemote = () => {} } = {}) {
+export function persistTelegramState({ cwd = process.cwd(), syncOnly = false, attempts = 3, validateRemote = (_remote) => {}, pattern = statePattern, mergeState = mergeNewsState, kind = 'news' } = {}) {
   const git = (args, options = {}) => execFileSync('git', args, {
     cwd, encoding: 'utf8', stdio: ['pipe', 'pipe', 'pipe'], ...options,
   }).trim();
-  const local = new Map(fs.readdirSync(cwd).filter(name => statePattern.test(name))
+  const local = new Map(fs.readdirSync(cwd).filter(name => pattern.test(name))
     .map(name => [name, JSON.parse(fs.readFileSync(path.join(cwd, name), 'utf8'))]));
-  const temp = fs.mkdtempSync(path.join(os.tmpdir(), 'telegram-news-state-'));
+  const temp = fs.mkdtempSync(path.join(os.tmpdir(), 'telegram-state-'));
   const env = {
     ...process.env,
     GIT_INDEX_FILE: path.join(temp, 'index'),
@@ -58,14 +58,14 @@ export function persistNewsState({ cwd = process.cwd(), syncOnly = false, attemp
     for (let attempt = 1; attempt <= attempts; attempt++) {
       git(['fetch', 'origin', 'main']);
       const base = git(['rev-parse', 'FETCH_HEAD']);
-      const remoteNames = new Set(git(['ls-tree', '--name-only', base]).split('\n').filter(name => statePattern.test(name)));
+      const remoteNames = new Set(git(['ls-tree', '--name-only', base]).split('\n').filter(name => pattern.test(name)));
       const remoteState = new Map([...remoteNames].map(name => [name, JSON.parse(git(['show', `${base}:${name}`]))]));
       validateRemote(remoteState);
       const names = new Set([...local.keys(), ...remoteNames]);
       if (!syncOnly) git(['read-tree', base], { env });
       for (const name of names) {
         const remote = remoteState.get(name);
-        const merged = mergeNewsState(name, local.get(name), remote);
+        const merged = mergeState(name, local.get(name), remote);
         const text = JSON.stringify(merged, null, 2) + '\n';
         fs.writeFileSync(path.join(cwd, name), text);
         if (!syncOnly) {
@@ -76,18 +76,22 @@ export function persistNewsState({ cwd = process.cwd(), syncOnly = false, attemp
       if (syncOnly) return;
       const tree = git(['write-tree'], { env });
       if (tree === git(['rev-parse', `${base}^{tree}`])) return;
-      const commit = git(['commit-tree', tree, '-p', base, '-m', 'chore: persist Telegram news delivery history'], { env });
+      const commit = git(['commit-tree', tree, '-p', base, '-m', `chore: persist Telegram ${kind} delivery history`], { env });
       try {
         git(['push', 'origin', `${commit}:refs/heads/main`]);
         return;
       } catch {
-        if (attempt === attempts) throw new Error('Telegram news history push failed; local receipts retained for recovery');
+        if (attempt === attempts) throw new Error(`Telegram ${kind} history push failed; local receipts retained for recovery`);
       }
     }
-    throw new Error('Telegram news history requires at least one persistence attempt');
+    throw new Error(`Telegram ${kind} history requires at least one persistence attempt`);
   } finally {
     fs.rmSync(temp, { recursive: true, force: true });
   }
+}
+
+export function persistNewsState(options = {}) {
+  return persistTelegramState(options);
 }
 
 if (process.argv[1] && import.meta.url === pathToFileURL(path.resolve(process.argv[1])).href) {
