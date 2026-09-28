@@ -32,7 +32,7 @@
     "sentAt": "2026-09-27T19:35:22.173Z"
   },
   "342550b1-df57-45e1-8620-9bd40ea7da8c": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-09-28T18:53:26.333Z",
     "stories": [
       {
@@ -65,6 +65,8 @@
         "source": "MIT Tech Review",
         "originalTitle": "The Download: the Pentagon’s AI-powered lie detector and young organ limits"
       }
-    ]
+    ],
+    "messageId": 193300,
+    "sentAt": "2026-09-28T18:53:29.315Z"
   }
 }
