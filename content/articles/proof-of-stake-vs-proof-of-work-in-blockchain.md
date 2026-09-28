@@ -28,9 +28,12 @@ If you just want the short answer: PoW secures a chain by requiring miners to bu
 
 PoW is the mechanism Bitcoin introduced in 2009. Ethereum used it from launch in July 2015 until September 15, 2022.
 
-1. Users broadcast transactions to a peer-to-peer mempool. Miners collect them.
+#### 1. Users broadcast transactions to a peer-to-peer mempool. Miners collect them.
+
 2. Miners compete to find a valid block header. Under Ethash, Ethereum's former PoW algorithm, this meant repeatedly hashing block data with a different nonce until the resulting mixHash fell below a target set by the network difficulty. There is no shortcut, only brute-force trial and error at trillions of hashes per second.
+
 3. The first miner to find a valid nonce broadcasts the block. Other nodes verify the hash instantly. If the hash is valid, they add the block and build on top of it.
+
 4. The winner receives the block reward and transaction fees. On Ethereum after the Constantinople upgrade this was 2 ETH per canonical block plus fees, with 1.75 ETH for ommer blocks that were mined at almost the same time as the canonical block but lost the race due to latency. Bitcoin has a different issuance schedule and a fixed 10 minute target block time.
 
 Timing in PoW is probabilistic. Ethereum targeted about 13.3 seconds per block, Bitcoin targets 10 minutes, Litecoin about 2.5 minutes. Difficulty adjusts up or down to keep the average on target as hash rate changes.
@@ -51,8 +54,9 @@ You deposit ETH into the deposit contract and run three pieces of software toget
 
 After depositing, you wait in an activation queue whose length depends on demand. Withdrawals for excess balance were enabled by the Shanghai/Capella upgrade on April 12, 2023. You can also exit entirely, which is rate-limited to about 0.33 percent of staked ETH per day.No pool needed for pools.
 
-**If you have less than 32 ETH you can still participate. Pooling solutions accept as little as 0.01 ETH, and some liquid staking protocols let you post a bond of roughly 1.5 to 4 ETH and run a validator with pooled funds matched by the protocol.** Block time is fixed.
+If you have less than 32 ETH you can still participate. Pooling solutions accept as little as 0.01 ETH, and some liquid staking protocols let you post a bond of roughly 1.5 to 4 ETH and run a validator with pooled funds matched by the protocol.
 
+#### Block time is fixed.
 Time is divided into slots of 12 seconds and epochs of 32 slots, which is 6.4 minutes. In each slot one validator is pseudo-randomly selected to be the block proposer. The randomness comes from RANDAO, which mixes the proposer's reveal with a seed updated each block. The proposer selection is fixed two epochs in advance to prevent manipulation. Probability is weighted by effective balance, capped at 32 ETH under the old rules and up to 2048 ETH with compounding credentials.
 
 The proposer bundles transactions from its execution client's mempool into an execution payload, executes them to compute the new state, wraps that payload in a beacon block with attestations, slashings, and deposits, and broadcasts it.Validation by committees.
@@ -98,14 +102,17 @@ A common misconception is that The Merge lowered gas fees or made transactions m
 
 ### Honest trade-offs
 
-PoW pros.
+#### PoW pros.
 
-**It is neutral, you can start with no ETH and earn from zero, and it is the most battle-tested mechanism. Bitcoin and Ethereum both ran securely on PoW for many years. Implementation is simpler than PoS.** PoW cons.
+It is neutral, you can start with no ETH and earn from zero, and it is the most battle-tested mechanism. Bitcoin and Ethereum both ran securely on PoW for many years. Implementation is simpler than PoS.
 
-**Energy use is very high and bad for the environment at scale. Hardware arms races price out individuals, so large mining pools dominate and create centralization risk. Scalability is limited by probabilistic finality and energy overhead.** PoS pros.
+#### PoW cons.
+Energy use is very high and bad for the environment at scale. Hardware arms races price out individuals, so large mining pools dominate and create centralization risk. Scalability is limited by probabilistic finality and energy overhead.
 
-**Energy use is very low and security does not depend on burning electricity. Hardware requirements are low, staking pools let anyone with a small amount of ETH participate, and the economics punish attackers directly by destroying stake rather than just requiring them to outspend you again. Many researchers consider PoS more secure for the same cost because an attack burns the attacker's capital and ejects them, whereas a PoW attacker can keep trying as long as they rent hash power. PoS also fits better with modern scaling plans such as rollups.** PoS cons.
+#### PoS pros.
+Energy use is very low and security does not depend on burning electricity. Hardware requirements are low, staking pools let anyone with a small amount of ETH participate, and the economics punish attackers directly by destroying stake rather than just requiring them to outspend you again. Many researchers consider PoS more secure for the same cost because an attack burns the attacker's capital and ejects them, whereas a PoW attacker can keep trying as long as they rent hash power. PoS also fits better with modern scaling plans such as rollups.
 
+#### PoS cons.
 It is younger and more complex to implement, with two peer-to-peer networks and nuanced attack vectors like balancing, bouncing, and ex-ante reorgs that require careful mitigations such as proposer boosting and attestation deadlines. You must hold ETH to start, which some view as less neutral than PoW. Wealth can concentrate influence, and liquid staking derivatives have led to a few large providers managing large portions of staked ETH, which raises centralization concerns even though the underlying node operators may remain independent. Running a validator is a commitment to stay online and maintain clients.
 
 Ethereum's own docs note that PoS should lead to more nodes securing the network, but the best outcome depends on many people running nodes at home rather than only through large custodians. Client diversity and home staking are active efforts to keep that risk low.
@@ -118,11 +125,11 @@ That does not make PoW obsolete. Bitcoin, Litecoin, and Dogecoin continue to use
 
 ### How to get started
 
-**If you want to use PoS Ethereum:**- Solo staking: acquire at least 32 ETH, run an execution client and consensus client on a machine with 1 to 2 TB storage and stable internet, generate keys, deposit via the official launchpad, keep the validator online, and set a withdrawal address and fee recipient. Rewards go directly from the protocol, with compounding if you use 0x02 credentials.
+If you want to use PoS Ethereum:- Solo staking: acquire at least 32 ETH, run an execution client and consensus client on a machine with 1 to 2 TB storage and stable internet, generate keys, deposit via the official launchpad, keep the validator online, and set a withdrawal address and fee recipient. Rewards go directly from the protocol, with compounding if you use 0x02 credentials.
 - Pooled or delegated staking: deposit less than 32 ETH through a staking pool or staking-as-a-service provider. Pools accept small amounts, some as low as 0.01 ETH. You keep withdrawal keys in many setups but entrust signing keys to an operator, which adds middleware risk. Compare fees, operator diversity, and whether the pool runs distributed validator technology.
 - Running a node without staking: you can run a full node with both clients and no ETH at all. You will verify blocks and help keep validators accountable, but you will not earn staking rewards. This is strongly encouraged for users who want stronger privacy and censorship resistance.
 
-**If you want to try PoW:**- For Bitcoin, Litecoin, or Dogecoin, you need Scrypt or SHA-256 ASIC hardware, cheap power, and a pool membership to get regular payouts. Solo mining on a laptop will not earn rewards in practice. Calculate hardware cost, power draw, and pool fees before you commit, and consider noise, heat, and local power limits.
+If you want to try PoW:- For Bitcoin, Litecoin, or Dogecoin, you need Scrypt or SHA-256 ASIC hardware, cheap power, and a pool membership to get regular payouts. Solo mining on a laptop will not earn rewards in practice. Calculate hardware cost, power draw, and pool fees before you commit, and consider noise, heat, and local power limits.
 
 For both paths, practice on testnets first and understand key management. Never share seed phrases or validator signing keys.
 

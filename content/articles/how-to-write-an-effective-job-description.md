@@ -64,7 +64,7 @@ LinkedIn's 2018 study of 4.5 million jobs in the US and UK found that short post
 
 Split this into two lists.
 
-**Required - must have on day one:** 3 to 5 items that are truly non-negotiable and job-related. For a Solidity role this is often:
+Required - must have on day one: 3 to 5 items that are truly non-negotiable and job-related. For a Solidity role this is often:
 
 - Solidity 0.8.x, Foundry or Hardhat, and OpenZeppelin Contracts 5.x used without copy-paste
 - A record of verified contracts on Etherscan or another explorer, or merged pull requests to a reputable repo
@@ -110,26 +110,26 @@ End with a plain equal opportunity statement and a link to where the full postin
 
 Web3 posts need chain and risk details that a generic template omits. Be specific so candidates can self-select.
 
-**Name the stack and the risk.** A Solidity post that says "Ethereum and EVM chains, Solidity 0.8.x, Foundry, Hardhat, OpenZeppelin" will get better matches than "blockchain experience." If the role is Rust on Solana, say Solana, Rust, and Anchor. If it is Move on Sui or Aptos, or Cairo on Starknet, say so, and note that the pool is smaller.
+Name the stack and the risk. A Solidity post that says "Ethereum and EVM chains, Solidity 0.8.x, Foundry, Hardhat, OpenZeppelin" will get better matches than "blockchain experience." If the role is Rust on Solana, say Solana, Rust, and Anchor. If it is Move on Sui or Aptos, or Cairo on Starknet, say so, and note that the pool is smaller.
 
-**Show ownership, not just tech.** State what the person will own: "Own two vault contracts from spec to audit, including invariant tests, deployment verification on Etherscan, and incident runbook." That wording maps to accountability for money-moving code.
+Show ownership, not just tech. State what the person will own: "Own two vault contracts from spec to audit, including invariant tests, deployment verification on Etherscan, and incident runbook." That wording maps to accountability for money-moving code.
 
-**Ask for proof that fits the track:**- For developers: pinned repos with tests including fuzz and invariant tests, static analysis with Slither, fork tests, and audit or contest reports. Rework's 2026 Web3 developer template and Web3.career's Solidity template both list verified contracts and audit history as standard proof.
+Ask for proof that fits the track:- For developers: pinned repos with tests including fuzz and invariant tests, static analysis with Slither, fork tests, and audit or contest reports. Rework's 2026 Web3 developer template and Web3.career's Solidity template both list verified contracts and audit history as standard proof.
 - For non-technical roles: governance votes, forum comments, blog or Mirror posts, Twitter threads with sources, community support threads in Discord where the candidate helped others, or partner onboardings with outcomes. Hiring strategy work at Hashtag Web3 has found that Discord helpfulness and governance writing predict community and operations performance better than a polished resume.
 
-**Explain token and vesting terms in the post.** Do not promise price. State the structure you use: "Token grant vesting over 4 years with 12-month cliff, linear monthly after cliff, minimal TGE. Terms enforced on chain where applicable and described in the offer letter. Candidates should seek independent tax advice." That phrasing follows the conventional baseline described by Streamflow and Tokenomics.com for core teams in 2026 and leaves valuation to the offer stage.
+Explain token and vesting terms in the post. Do not promise price. State the structure you use: "Token grant vesting over 4 years with 12-month cliff, linear monthly after cliff, minimal TGE. Terms enforced on chain where applicable and described in the offer letter. Candidates should seek independent tax advice." That phrasing follows the conventional baseline described by Streamflow and Tokenomics.com for core teams in 2026 and leaves valuation to the offer stage.
 
 ## Pros and cons
 
-**Short, outcome-focused post, 300 to 450 words**- Pros: Higher apply rate on LinkedIn, easier mobile reading, forces you to choose what matters. Matches Textio's 300 to 660 sweet spot and LinkedIn's 17.8 percent lift for concise posts.
+Short, outcome-focused post, 300 to 450 words- Pros: Higher apply rate on LinkedIn, easier mobile reading, forces you to choose what matters. Matches Textio's 300 to 660 sweet spot and LinkedIn's 17.8 percent lift for concise posts.
 - Cons: Less room for company story. You must put culture and roadmap on your site and link to it, not in the post.
 
-**Detailed post, 600 plus words with full context**- Pros: Fewer unqualified applications when requirements are strict, better for specialized search on Indeed where 700 to 2,000 words can get 30 percent more applications according to RecruiterFlow summaries cited by Knowledgelib. Useful for rare stacks.
+Detailed post, 600 plus words with full context- Pros: Fewer unqualified applications when requirements are strict, better for specialized search on Indeed where 700 to 2,000 words can get 30 percent more applications according to RecruiterFlow summaries cited by Knowledgelib. Useful for rare stacks.
 - Cons: Lower skim rate, higher drop-off on mobile, harder to keep current.
 
-**Task list versus outcome list**- Task lists are easy to write but they attract doers of tasks, not owners of outcomes. Outcome lists are harder to draft but they give candidates a way to show how they would succeed.
+Task list versus outcome list- Task lists are easy to write but they attract doers of tasks, not owners of outcomes. Outcome lists are harder to draft but they give candidates a way to show how they would succeed.
 
-**Strict requirements versus split must-have and nice-to-have**- Strict lists feel thorough but they filter out capable candidates who could learn the preferred items. Split lists increase applications from qualified people who have strong proof but non-traditional backgrounds, including pseudonymous builders whose GitHub matters more than a degree.
+Strict requirements versus split must-have and nice-to-have- Strict lists feel thorough but they filter out capable candidates who could learn the preferred items. Split lists increase applications from qualified people who have strong proof but non-traditional backgrounds, including pseudonymous builders whose GitHub matters more than a degree.
 
 Most teams do best with a 350 to 500 word post that uses outcomes, split requirements, and a link to a longer technical spec for those who want it.
 
@@ -171,17 +171,20 @@ How to apply: Share resume, GitHub, contract addresses, and one paragraph on a v
 
 ## Common mistakes to avoid
 
-- **Inflating requirements.
+#### Inflating requirements.
 
 Listing every tool you might use turns a mid-level role into an unfilled senior search. Move anything learnable to preferred.
-- **Hiding pay.
+
+#### Hiding pay.
 
 Omitting the range cuts applications and creates legal exposure in the 16 jurisdictions that now require it. It also lowers negotiation confidence for 74 percent of workers per the 2026 Resume Genius survey cited above.
-- **Writing long blocks of text.
+
+#### Writing long blocks of text.
 
 Dense paragraphs hide the outcome the candidate cares about. Break into bullets and keep sentences short. Textio finds that shorter sentences and bullet ratios near one-third of the post improve completion.
-- **Clever titles.**"Crypto Ninja" may feel on brand but it is not searchable. Index.dev and Knowledgelib both flag discoverability losses above 50 percent.
-- **Copying another team's post.
+- **Clever titles.** "Crypto Ninja" may feel on brand but it is not searchable. Index.dev and Knowledgelib both flag discoverability losses above 50 percent.
+
+#### Copying another team's post.
 
 A vault engineer and a protocol engineer are different risk profiles. Tailor the language and the proof you request.
 
@@ -215,7 +218,9 @@ Three to five must-haves and two to three nice-to-haves. More than that suggests
 
 #### Can we use AI to draft the posting?
 
-Yes for a first draft, then edit for accuracy, brand, and inclusive language. SHRM's February 2025 survey of 2,040 HR professionals found 43 percent of organizations use AI in HR, and 65 percent of those use it for job description generation. Keep a human reviewer who can change the outcome before you publish, and log the model version if you operate in New York City under Local Law 144 or in the EU under Articles 9 to 15 of the AI Act.**What record should we keep?**
+Yes for a first draft, then edit for accuracy, brand, and inclusive language. SHRM's February 2025 survey of 2,040 HR professionals found 43 percent of organizations use AI in HR, and 65 percent of those use it for job description generation. Keep a human reviewer who can change the outcome before you publish, and log the model version if you operate in New York City under Local Law 144 or in the EU under Articles 9 to 15 of the AI Act.
+
+#### What record should we keep?
 Job title, level, location and remote policy, pay band source and date, requirement list with job-related justification, compliance review date, bias check score and tool, pay range posted and where, applicant counts, and next review date. Keep version history so you can show what changed and when.
 
 ---

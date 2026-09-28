@@ -43,9 +43,13 @@ Optimism does not provide its own consensus. It borrows Ethereum consensus and a
 ### The basic flow
 
 1. **Submit.** You send a transaction to the sequencer, or you submit a deposit on L1. Deposits are L1 transactions that the L2 must include. They appear in the first L2 block of the epoch that corresponds to that L1 block, usually a few minutes later.
+
 2. **Execute off chain.** The L2 execution engine `op-geth` runs the transaction and updates the state tree. The rollup node `op-node` can derive the same blocks from L1 data via the derivation pipeline. Execution engines also sync peer to peer for speed, but derivation from L1 is the censorship resistant path.
+
 3. **Batch and compress.** The sequencer groups transactions into batches, compresses them, and posts the compressed bytes to Ethereum. Compression matters because you pay for every byte posted. Since Fjord (July 10, 2024) the fee estimator uses FastLZ and a linear model calibrated against Brotli batch compression.
+
 4. **Commit state.** The rollup contracts on Ethereum store a new output root that commits to the L2 state, plus a batch root for inclusion proofs.
+
 5. **Challenge or finalize.** The output root sits in a challenge window for about 7 days. Anyone running a node can check it against the data on L1. If it is wrong, they can challenge it with a fault proof. If no valid challenge wins, the root is final and L1 contracts can safely accept withdrawal proofs against it. A successful challenge removes only the posted commitment. It does not roll back L2 ordering or state.
 
 ### Deposits and withdrawals
@@ -131,7 +135,9 @@ What the Superchain shares today: same execution semantics, common bridge patter
 
 Optimistic rollups are secure only if invalid output roots can be caught and removed.
 
-**Fault proofs went live on OP Mainnet June 10, 2024.** They moved proposals and challenges from a permissioned allowlist to permissionless. Key parts:
+Fault proofs went live on OP Mainnet June 10, 2024.
+
+#### They moved proposals and challenges from a permissioned allowlist to permissionless. Key parts:
 
 * **Permissionless proposals.** Anyone can submit a state proposal via `DisputeGameFactory`. Most commonly you use this to prove your own withdrawal if the operator is not posting.
 * **Permissionless challenges.** Anyone running a node with `op-challenger` can dispute a proposal within the window of about 7 days. Ethereum settles the dispute by interactive bisection down to a single step executed in the Cannon VM. The loser is slashed.
@@ -197,51 +203,62 @@ OP does not pay gas. Gas is ETH on OP Mainnet. OP is a governance token and a fu
 
 ### If you are a user
 
-1. **Add OP Mainnet to your wallet.
+#### 1. Add OP Mainnet to your wallet.
 
-**Chain ID 10, currency ETH, RPC https://mainnet.optimism.io, explorer https://explorer.optimism.io. Use the docs for the exact `chainId` and contract addresses. Do not trust random RPCs in search results.
-2. **Bridge ETH to OP Mainnet first.
+Chain ID 10, currency ETH, RPC https://mainnet.optimism.io, explorer https://explorer.optimism.io. Use the docs for the exact `chainId` and contract addresses. Do not trust random RPCs in search results.
+
+#### 2. Bridge ETH to OP Mainnet first.
 
 Use the official bridge at https://app.optimism.io/bridge/deposit for the canonical path. It locks on L1 and mints on L2. Start with a small test amount and confirm receipt before you move more. Third party bridges and aggregators are faster for returns, but they front funds and add risk.
-3. **Track finality for money moves.
+
+#### 3. Track finality for money moves.
 
 For a deposit, check L1 inclusion and the L2 epoch. For a withdrawal, check the L2 transaction, the batch posted on L1, the fault game status, and the 7 day clock. Do not treat a sequencer confirmation as settled for a treasury move.
-4. **Watch fees before large transactions.
+
+#### 4. Watch fees before large transactions.
 
 Check Ethereum base fee and blob base fee. When mainnet is calm, OP fees drop too. Avoid large calldata transactions during spikes. Remember failed L2 transactions still pay the L1 fee.
-5. **Use native tooling.
+
+#### 5. Use native tooling.
 
 OP Mainnet uses the same explorers and wallets as Ethereum. Set allowance limits, revoke unused approvals, and keep high value exits on the canonical bridge.
 
 ### If you are a developer
 
-1. **Deploy on OP Sepolia first.
+#### 1. Deploy on OP Sepolia first.
 
 Use https://console.optimism.io/faucet for test ETH. Deploy with Hardhat, Foundry, or Remix as you would on Ethereum. Verify on the explorer and test the bridge flows in both directions.
-2. **Measure fees, not just gas.
 
-**Your 100,000 gas contract costs 100,000 gas on OP Mainnet, but you need to measure the L1 data fee. Use the `GasPriceOracle` at `0x4200...000F` and the L2 fee estimators. Compress input calldata and avoid unneeded bytes. After Isthmus, check operator fee scalar and constant at `0x4200000000000000000000000000000000000015`.
-3. **Handle cross chain timing in code.
+#### 2. Measure fees, not just gas.
+
+Your 100,000 gas contract costs 100,000 gas on OP Mainnet, but you need to measure the L1 data fee. Use the `GasPriceOracle` at `0x4200...000F` and the L2 fee estimators. Compress input calldata and avoid unneeded bytes. After Isthmus, check operator fee scalar and constant at `0x4200000000000000000000000000000000000015`.
+
+#### 3. Handle cross chain timing in code.
 
 L1 to L2 takes minutes. L2 to L1 via the canonical path takes about a week. Do not assume a synchronous callback. Emit an event on L2, prove it on L1 after finality, then execute on L1. Test message passing with the Standard Bridge examples in the docs.
-4. **Plan for sequencer outages.
+
+#### 4. Plan for sequencer outages.
 
 Add a path that submits a deposit through L1 if the sequencer does not include a transaction. Test force inclusion on Sepolia with a delayed sequencer scenario. Document it for support.
-5. **Review the chain you depend on.
 
-**Check `superchain-registry`, L2Beat stage, audit history, scalar settings, and whether blobs are enabled and how fallback to calldata works when blob fees spike. Pin to a hardfork version and test upgrades like Ecotone, Fjord, and Isthmus before they activate on mainnet.
+#### 5. Review the chain you depend on.
+
+Check `superchain-registry`, L2Beat stage, audit history, scalar settings, and whether blobs are enabled and how fallback to calldata works when blob fees spike. Pin to a hardfork version and test upgrades like Ecotone, Fjord, and Isthmus before they activate on mainnet.
 
 ### If you are launching an OP Stack chain
 
-1. **Start from Bedrock, not a hack.
+#### 1. Start from Bedrock, not a hack.
 
-**Use the chain operator quickstart and the `superchain-registry` defaults. Deploy L1 contracts, configure batcher, proposer, and challenger, and fund the proposer bond (0.08 ETH per game, about 14 ETH to sustain hourly proposals across a week on OP Mainnet params).
-2. **Set fees deliberately.
+Use the chain operator quickstart and the `superchain-registry` defaults. Deploy L1 contracts, configure batcher, proposer, and challenger, and fund the proposer bond (0.08 ETH per game, about 14 ETH to sustain hourly proposals across a week on OP Mainnet params).
 
-**Choose `base_fee_scalar` and `blob_base_fee_scalar` to recover L1 spend, plus operator fee values if you enable Isthmus. See the Tune batcher costs guide for calibration.
-3. **Run the challenger.
+#### 2. Set fees deliberately.
 
-**If you enable permissionless fault proofs, run `op-challenger` and `op-dispute-mon`. Normal users do not need to run `op-proposer` except to propose their own withdrawal root if you stop proposing.
+Choose `base_fee_scalar` and `blob_base_fee_scalar` to recover L1 spend, plus operator fee values if you enable Isthmus. See the Tune batcher costs guide for calibration.
+
+#### 3. Run the challenger.
+
+If you enable permissionless fault proofs, run `op-challenger` and `op-dispute-mon`. Normal users do not need to run `op-proposer` except to propose their own withdrawal root if you stop proposing.
+
 4. **Use governance.** Superchain chain additions, sequencer set changes, and upgrades go through the Token House. Track proposals at https://vote.optimism.io and the governance forum.
 
 ## Risks and constraints you should weigh
@@ -250,7 +267,8 @@ Add a path that submits a deposit through L1 if the sequencer does not include a
 * **Proof system youth.** Fault proofs are live and open source since June 2024, but the prover set is small, `op-challenger` operation is specialized, and the Guardian can intervene. L2 stages reflect this. Wait for Stage 2 before you assume no trust in the council.
 * **Blob competition.** Blob space is limited. When many rollups post at once, blob base fee rises and your L1 fee follows. Some chains fall back to calldata when blobs are expensive, which then tracks Ethereum base fee instead.
 * **Contract and circuit bugs.** Fraud proof, derivation, and bridge contracts have had fixes. Review audits, the fault proof specs at specs.optimism.io, and the 3.5 day plus 7 day delays before you treat a large bridge as instant.
-* **Token price volatility.
+
+#### Token price volatility.
 
 Retro Funding and airdrop budgets are denominated in OP. If OP falls, funding buys less. If you build public goods for retro rewards, keep a treasury plan that does not need the award to survive.
 
@@ -290,7 +308,9 @@ The Optimism Collective with the Token House (OP holders, delegated) and the Cit
 
 #### Which should I pick today if I need fast canonical exits?
 
-If you cannot wait 7 days and you want the canonical path, look at a well reviewed ZK rollup such as zkSync Era or Starknet, which finalize on proof verification in minutes to hours instead of a challenge window. If you need the fewest code changes and broad tooling, an optimistic OP Stack chain like OP Mainnet or Base is usually less work.**Where should I track changes?**
+If you cannot wait 7 days and you want the canonical path, look at a well reviewed ZK rollup such as zkSync Era or Starknet, which finalize on proof verification in minutes to hours instead of a challenge window. If you need the fewest code changes and broad tooling, an optimistic OP Stack chain like OP Mainnet or Base is usually less work.
+
+#### Where should I track changes?
 Docs at https://docs.optimism.io, specs at https://specs.optimism.io, governance at https://gov.optimism.io and https://vote.optimism.io, and network status at https://status.optimism.io. Use the superchain registry for canonical chain configs and upgrade timestamps.
 
 ---

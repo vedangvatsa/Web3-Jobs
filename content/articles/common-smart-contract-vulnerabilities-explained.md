@@ -38,7 +38,7 @@ Reentrancy is one of the most notorious smart contract vulnerabilities, infamous
 
 - **The Attack:** An attacker constructs a malicious contract with a `receive()` fallback function, triggered upon receiving Ether. This function calls the victim's `withdraw()` function again. The second call succeeds because `balances[msg.sender]` has not yet been reset to zero. This loop continues until the victim contract is emptied of Ether.
 
-- **The Prevention: The Checks-Effects-Interactions Pattern
+#### The Prevention: The Checks-Effects-Interactions Pattern
 
 To prevent reentrancy, structure functions in the following order:
  1. **Checks:** Perform all validations (`require` statements).
@@ -74,7 +74,7 @@ Integer overflow and underflow were common vulnerabilities in earlier versions o
 
 - **The Prevention:**
 
-- Use Solidity 0.8.0+:**The most straightforward solution. With version 0.8.0, the Solidity compiler automatically checks for overflow and underflow, reverting transactions when they occur. All modern contracts should use `pragma solidity ^0.8.0;`.
+- Use Solidity 0.8.0+:The most straightforward solution. With version 0.8.0, the Solidity compiler automatically checks for overflow and underflow, reverting transactions when they occur. All modern contracts should use `pragma solidity ^0.8.0;`.
  - **SafeMath Libraries:** For older projects, employing OpenZeppelin's `SafeMath` library provides functions (`add`, `sub`, `mul`) with built-in overflow checks.
 
 ### 3. Incorrect Access Control
@@ -97,7 +97,7 @@ Incorrect access control is a broad yet critical category of vulnerabilities whe
 
 - **The Prevention:**
 
-- **Function Modifiers:**Implement a modifier like `onlyOwner` to restrict access.
+- **Function Modifiers:** Implement a modifier like `onlyOwner` to restrict access.
  - **Role-Based Access Control:** For complex systems, use a standardized role-based approach, such as OpenZeppelin's `AccessControl` contract, which allows defining various roles (e.g., `MINTER_ROLE`, `UPGRADER_ROLE`) and assigning them to different addresses.
 
  ```solidity
@@ -132,7 +132,7 @@ Incorrect access control is a broad yet critical category of vulnerabilities whe
 
 - **The Prevention:**
 
-- **Use Decentralized Oracle Networks:**Implement a reliable oracle network like Chainlink, which aggregates prices from multiple independent, off-chain sources, making it resilient to single-source manipulation.
+- **Use Decentralized Oracle Networks:** Implement a reliable oracle network like Chainlink, which aggregates prices from multiple independent, off-chain sources, making it resilient to single-source manipulation.
  - **Use Time-Weighted Average Prices (TWAPs):** For on-chain sources, consider using a TWAP oracle (as available in Uniswap V3), which averages prices over time, complicating manipulation efforts.
 
 ### 5. Unchecked External Calls

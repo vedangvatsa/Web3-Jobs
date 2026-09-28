@@ -118,8 +118,7 @@ Different organizations phrase principles differently, but the core commitments 
 | **Privacy-enhanced** | Minimize collection, de-identify where possible, protect training and inference data, and be able to explain storage and retention. | NIST privacy-enhanced; OECD human rights including privacy; GDPR |
 | **Fair, with harmful bias managed** | Define fairness for the use case, test across groups, and mitigate disproportionate impacts. | NIST fair with bias managed; OECD human rights including fairness |
 | **Information integrity and sustainability** | Address creation of false or misleading content and track environmental costs such as energy and compute. | OECD 2024 update, new emphasis |
-
-**Human-centric** | Keep meaningful human oversight, support human agency, and keep the ability to override or decommission the system. | OECD 2024 update; NIST and EU AI Act human oversight requirements |
+| **Human-centric** | Keep meaningful human oversight, support human agency, and keep the ability to override or decommission the system. | OECD 2024 update; NIST and EU AI Act human oversight requirements |
 
 No framework resolves conflicts between these goals for you. Fairness definitions can conflict with each other and with accuracy. Greater transparency can expose security details. Your job is to state the trade-off you made, why, and how you will review it.
 

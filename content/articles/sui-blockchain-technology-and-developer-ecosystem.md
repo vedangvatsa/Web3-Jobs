@@ -26,14 +26,14 @@ Sui targets use cases where asset ownership, speed, and low fees matter: games w
 
 **Sui fits you if you:**
 
-* Build games, marketplaces, or social apps where each item is an on-chain object with its own owner and history. The Kiosk standard and dynamic fields make tradable, composable assets simpler than mapping them inside a single contract.
+- Build games, marketplaces, or social apps where each item is an on-chain object with its own owner and history. The Kiosk standard and dynamic fields make tradable, composable assets simpler than mapping them inside a single contract.
 * Need parallel, low-latency writes. If your app does many independent transfers or mints, Sui can execute non-overlapping transactions concurrently without global ordering.
 * Want asset safety at the language level. Sui Move prevents accidental duplication or loss of resources through abilities and the verifier. Teams that handle tokens and NFTs get compile-time checks that Solidity requires tests and audits to catch.
 * Want built-in onboarding primitives. zkLogin lets users sign with Google, Apple, or other OpenID providers via zero-knowledge proofs, and sponsored transactions let an app pay gas so new users do not need SUI on first use.
 
 **Sui is a weaker fit if you:**
 
-* Must deploy existing Solidity code without changes. Sui does not run EVM bytecode. You will port logic to Sui Move and rethink state as objects, not as mappings in a contract.
+- Must deploy existing Solidity code without changes. Sui does not run EVM bytecode. You will port logic to Sui Move and rethink state as objects, not as mappings in a contract.
 * Need the largest library and hiring pool today. Solidity and EVM tooling have more examples, auditors, and answered questions. Sui Move documentation is solid at docs.sui.io and move-book.com, but the community is smaller.
 * Require strict EVM equivalence for audits or toolchains. You will maintain separate code paths and tests for EVM and Sui.
 
@@ -73,7 +73,8 @@ Key changes:
 
 * **No per-block certification.** Mysticeti validators sign and share blocks directly, cutting round trips from three to three message delays. Test results cited by Mysten Labs showed about 500 ms for consensus commits and about 250 ms for single-owner transactions, with throughput above 50,000 TPS under low latency and above 100,000 TPS at around 1 second in lab conditions.
 * **Multiple leaders per round.** Bullshark committed every two to three rounds through a single leader sub-DAG. Mysticeti can elect multiple anchors per round, so transactions that arrive just after a commit do not wait extra rounds.
-* **Lower CPU cost.
+
+#### Lower CPU cost.
 
 Eliminating explicit certification saved about 40 percent of consensus CPU in production, as reported in the March 2026 Decentralized Thoughts analysis of Mysticeti.
 
@@ -85,17 +86,17 @@ All of this keeps the property Sui started with: owned-object transactions skip 
 
 The Sui Move Concepts page lists five differences that affect every package:
 
-1. **No global storage.
+#### 1. No global storage.
 
-**Diem Move uses `move_to`, `move_from`, `borrow_global` rooted at account addresses. Sui removes these operators. The verifier rejects them. Storage lives in Sui objects outside the module. You pass objects explicitly by ID in the transaction, which enables the parallel schedule above.
+Diem Move uses `move_to`, `move_from`, `borrow_global` rooted at account addresses. Sui removes these operators. The verifier rejects them. Storage lives in Sui objects outside the module. You pass objects explicitly by ID in the transaction, which enables the parallel schedule above.
 
-2. **Address is a 32-byte object ID.
+#### 2. Address is a 32-byte object ID.
 
-**Diem Move uses 16-byte addresses for accounts. Sui repurposes `address` as 32 bytes for both object IDs and account addresses. An object wraps its address in `id: UID`.
+Diem Move uses 16-byte addresses for accounts. Sui repurposes `address` as 32 bytes for both object IDs and account addresses. An object wraps its address in `id: UID`.
 
-3. **Key means object.
+#### 3. Key means object.
 
-**A struct with `key` must have `id: UID` as its first field. Example:
+A struct with `key` must have `id: UID` as its first field. Example:
 
 ```move
 module 0x0::my_coin {
@@ -119,9 +120,9 @@ module 0x0::my_coin {
 
 The same coin on Aptos would use `move_to` to an account address. On Sui you create the object and transfer it with `public_transfer`.
 
-4. **Module initializer.
+#### 4. Module initializer.
 
-**An optional private `fun init(ctx: &mut TxContext)` runs once at publish time to create singleton objects such as a `TreasuryCap` or a shared registry. It must be named `init`, take `&mut TxContext`, return nothing, and be private.
+An optional private `fun init(ctx: &mut TxContext)` runs once at publish time to create singleton objects such as a `TreasuryCap` or a shared registry. It must be named `init`, take `&mut TxContext`, return nothing, and be private.
 
 5. **Entry and PTBs.** Sui marks some functions as `entry` so they can be called in a Programmable Transaction Block but not from other packages. This matters for randomness and for enforcing transaction-level composition. A PTB groups up to 1,024 commands (Move calls, transfers, splits, merges, publishes) into one atomic transaction. Outputs of one command can be inputs to the next, effects apply only if all commands succeed, and fresh objects must be consumed or transferred inside the same PTB. This is lightweight compared to deploying a wrapper contract for batching on EVM.
 
@@ -171,16 +172,19 @@ Sui also provides standard tooling: the Sui CLI with `sui move build`, `sui move
 * **Asset safety by construction.** Sui Move resources without `copy` and `drop` cannot be duplicated or lost by accident. Privileged packing, ability checks, and bytecode verification enforce this at publish time and at runtime.
 * **On-chain verifiability and auditability.** Package bytecode is on chain, the verifier runs on every publish and call, and the object history forms a DAG you can audit cryptographically.
 * **Built-in onboarding and commerce.** zkLogin, sponsored transactions, and Kiosk reduce custom account and marketplace code you would otherwise write and audit.
-* **Integrated data and liquidity.
 
-**Walrus with Seal for storage plus access control, and DeepBook for native order book liquidity, let you compose apps without stitching three external services manually.** Cons
+#### Integrated data and liquidity.
 
+Walrus with Seal for storage plus access control, and DeepBook for native order book liquidity, let you compose apps without stitching three external services manually.
+
+#### Cons
 * **Smaller ecosystem and fewer examples.** You will often port Solidity or EVM audit guides by hand. Documentation quality varies across SDK versions, and Sui Move differs enough from Aptos Move that code does not port without edits, especially around `move_to`, `borrow_global`, and `UID`.
 * **New mental model.** Modeling assets as objects with explicit ownership, dynamic fields, and shared versus owned access takes design time. Teams from EVM need to stop mapping assets inside one contract and start creating one object per asset.
 * **Chain coupling.** Concepts like objects, `TxContext`, `sui::transfer`, sponsorship, and PTB composition do not translate to EVM or Solana. A module written for Aptos needs structural changes for Sui.
 * **Tooling split.** Move packages use `Move.toml` and `sui move test`, not npm and jest. Full dApps are bilingual: Move for on-chain logic plus TypeScript for PTBs and frontend.
 * **Shared-object contention.** If your app puts all activity through one shared object (for example a single global counter or auction), transactions touching it still serialize and you pay consensus cost. You must shard hot state, use dynamic fields, or batch via PTBs.
-* **Hiring volume versus differentiation.
+
+#### Hiring volume versus differentiation.
 
 There are fewer Sui Move roles than Solidity roles, though scarcity can mean higher pay for proven Move developers. If you need volume of openings quickly, start with EVM and add Sui Move as a second specialization.
 
@@ -189,7 +193,9 @@ There are fewer Sui Move roles than Solidity roles, though scarcity can mean hig
 Pick Sui or Aptos first. Do not try to learn both dialects at once.
 
 #### 1. Install and verify the toolchain
-Install the Sui CLI from docs.sui.io/guides/developer/getting-started/sui-install. Check `sui --version` (current releases at time of writing are in the 1.x line). Install the TypeScript SDK with `npm install @mysten/sui`. Add the Move Analyzer extension in VS Code for diagnostics and auto-format with the Prettier Move plugin.** 2. Create a minimal object package
+Install the Sui CLI from docs.sui.io/guides/developer/getting-started/sui-install. Check `sui --version` (current releases at time of writing are in the 1.x line). Install the TypeScript SDK with `npm install @mysten/sui`. Add the Move Analyzer extension in VS Code for diagnostics and auto-format with the Prettier Move plugin.
+
+#### 2. Create a minimal object package
 
 Create a package and implement one owned object with access control:
 
@@ -229,7 +235,9 @@ module hello_sui::counter {
 `init` creates a shared Counter on publish. `increment` mutates the shared object and will go through consensus. For an owned-object variant, remove `share_object`, create the Counter with `transfer::public_transfer(c, sender)`, and add a function `increment_owned(c: &mut Counter)` that bypasses consensus.
 
 #### 3. Test without a network, then publish
-Run `sui move test` for unit tests, `sui move test --coverage` for coverage. Read the Move Book chapters on modules, structs and resources, and abilities before adding a coin. Publish to testnet or devnet with `sui client publish --gas-budget 100000000` and note the package ID and object IDs in the transaction effects.** 4. Compose a PTB in TypeScript
+Run `sui move test` for unit tests, `sui move test --coverage` for coverage. Read the Move Book chapters on modules, structs and resources, and abilities before adding a coin. Publish to testnet or devnet with `sui client publish --gas-budget 100000000` and note the package ID and object IDs in the transaction effects.
+
+#### 4. Compose a PTB in TypeScript
 
 Use the SDK to call multiple functions atomically:
 
@@ -248,7 +256,7 @@ const signed = await client.signAndExecuteTransaction({ transaction: tx, signer:
 
 This PTB increments a shared counter and sends a coin in one atomic execution with one gas payment. Explore the PTB cookbook at docs.sui.io/develop/transactions/ptbs/ptb-cookbook for sponsored, kiosk, and split/merge patterns.
 
-**5. Add real ecosystem pieces**
+#### 5. Add real ecosystem pieces
 
 * Add zkLogin by following docs.sui.io/concepts/cryptography/zklogin. Create a proof via the Mysten Labs prover, derive the Sui address from the JWT and salt, and submit a transaction where the sponsor pays gas.
 * List an item in a Kiosk instead of using `public_transfer` so royalties and transfer policies are enforced. See docs.sui.io/standards/kiosk.
@@ -293,7 +301,9 @@ Store small, consensus-critical state as Sui objects. Store larger blobs on Walr
 
 #### How does Sui handle fees and storage?
 
-Fees are paid in SUI. You pay computation plus storage for new objects, and you get a rebate when you delete objects. The storage fund, funded by past fees, covers long-term replication cost so ongoing fees remain similar for new users. You set a gas budget per transaction, and the protocol caps compute per commit per object to bound shared-object contention.**Which primitives should I learn first if I already know Solidity?**
+Fees are paid in SUI. You pay computation plus storage for new objects, and you get a rebate when you delete objects. The storage fund, funded by past fees, covers long-term replication cost so ongoing fees remain similar for new users. You set a gas budget per transaction, and the protocol caps compute per commit per object to bound shared-object contention.
+
+#### Which primitives should I learn first if I already know Solidity?
 Start with objects and ownership plus one PTB. Recreate a simple ERC-20 you understand as a Sui coin with `store` but not `copy` or `drop`, with a `TreasuryCap` singleton created in `init` that gates `mint`. Then build a PTB that mints, transfers, and lists the coin in a Kiosk. That path makes resources replace mappings in your mental model.
 
 Sui is not a drop-in for an EVM chain. Treat it as a language for scarcity and access control with an object store and a DAG consensus that checks your work twice: the compiler checks abilities, and the network schedules your object inputs in parallel.

@@ -17,14 +17,17 @@ This is doubly true in [Web3 and DAO teams](/what-is-web3), where contributors m
 
 ## Why Trust Is Harder When You're Remote
 
-No ambient awareness.
+#### No ambient awareness.
 
-**In an office, you passively know who's at their desk, who's in a meeting, who looks stressed. Remote work eliminates all of that. Without deliberate effort, teammates become names in a Slack channel.** Timezone gaps create information asymmetry.
+In an office, you passively know who's at their desk, who's in a meeting, who looks stressed. Remote work eliminates all of that. Without deliberate effort, teammates become names in a Slack channel.
 
-**When half the team is asleep while the other half is making decisions, the people who wake up to a wall of messages feel left out. Over time, this breeds suspicion: "Are decisions being made without us?"** Text communication lacks nuance.
+#### Timezone gaps create information asymmetry.
+When half the team is asleep while the other half is making decisions, the people who wake up to a wall of messages feel left out. Over time, this breeds suspicion: "Are decisions being made without us?"
 
-**A short reply that's perfectly fine in person - "Noted" - can feel dismissive or passive-aggressive in a DM. Small misunderstandings accumulate and erode trust silently.** Fewer relationship-building moments.
+#### Text communication lacks nuance.
+A short reply that's perfectly fine in person - "Noted" - can feel dismissive or passive-aggressive in a DM. Small misunderstandings accumulate and erode trust silently.
 
+#### Fewer relationship-building moments.
 There's no coffee run, no lunch together, no small talk before a meeting. The informal interactions that build personal connections don't happen by default.
 
 ## Specific Tactics That Actually Work
@@ -59,13 +62,18 @@ When you share a decision, explain the reasoning. "We're switching to a biweekly
 
 ## Trust in Web3 and DAO Teams
 
-[Web3 organizations](/what-is-web3) face a unique challenge: many contributors work under pseudonyms. Traditional trust signals - credentials, references, a LinkedIn profile - may not exist. So how do pseudonymous teams build trust?**On-chain reputation.
+[Web3 organizations](/what-is-web3) face a unique challenge: many contributors work under pseudonyms. Traditional trust signals - credentials, references, a LinkedIn profile - may not exist. So how do pseudonymous teams build trust?
 
-**Your track record is often visible on-chain. Completed bounties, governance participation, tokens earned - these create a verifiable history. You might not know someone's name, but you can see they've delivered consistently across multiple protocols.** Consistent delivery over time.
+#### On-chain reputation.
 
-**Trust in DAOs is earned the same way it's earned everywhere: by showing up and doing good work, repeatedly.** Transparent governance.
+Your track record is often visible on-chain. Completed bounties, governance participation, tokens earned - these create a verifiable history. You might not know someone's name, but you can see they've delivered consistently across multiple protocols.
 
-**When decisions happen through on-chain voting with public proposals, there's less room for backroom politics. Everyone can see the process. That structural transparency compensates for the lack of personal familiarity.** Start with small commitments. Smart DAO teams don't hand a new contributor a massive grant on day one. They start with a small bounty. If that goes well, scope increases. Trust is extended gradually based on demonstrated reliability.
+#### Consistent delivery over time.
+Trust in DAOs is earned the same way it's earned everywhere: by showing up and doing good work, repeatedly.
+
+#### Transparent governance.
+
+When decisions happen through on-chain voting with public proposals, there's less room for backroom politics. Everyone can see the process. That structural transparency compensates for the lack of personal familiarity. Start with small commitments. Smart DAO teams don't hand a new contributor a massive grant on day one. They start with a small bounty. If that goes well, scope increases. Trust is extended gradually based on demonstrated reliability.
 
 ## Trust Is a Practice, Not an Achievement
 

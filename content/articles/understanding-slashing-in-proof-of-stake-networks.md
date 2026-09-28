@@ -13,7 +13,7 @@ lastUpdated: "2026-09-15"
 ---
 In Proof-of-Work blockchains, security relies on the high energy and hardware costs associated with mining. In contrast, Proof-of-Stake (PoS) systems prioritize economic incentives as the foundation of their security. Validators, who create blocks and maintain the network, must lock up a significant amount of the network's native currency as a security deposit, known as a "stake." This stake serves as a bond, ensuring that validators have a vested interest in the network's integrity. Validators earn rewards for honest behavior, but they also face financial penalties for dishonest actions. This penalty mechanism is referred to as slashing.
 
-**Slashing plays an important role in PoS systems, often misunderstood yet important for maintaining network security. It enforces compliance among validators and acts as the primary deterrent against potential attacks on the blockchain. Without the threat of slashing, the economic security of a Proof-of-Stake blockchain could collapse. A firm grasp of slashing is essential for anyone aspiring to be a validator, delegate their tokens to a staking service, or understand the security models of prominent blockchains like [Ethereum](/what-is-ethereum).
+Slashing plays an important role in PoS systems, often misunderstood yet important for maintaining network security. It enforces compliance among validators and acts as the primary deterrent against potential attacks on the blockchain. Without the threat of slashing, the economic security of a Proof-of-Stake blockchain could collapse. A firm grasp of slashing is essential for anyone aspiring to be a validator, delegate their tokens to a staking service, or understand the security models of prominent blockchains like [Ethereum](/what-is-ethereum).
 
 ### Understanding Slashing
 
@@ -36,10 +36,14 @@ It is essential to clarify what does not constitute a slashable offense: being o
 Taking Ethereum as an example, the slashing process involves several steps:
 
 1. **Detection:** A slashing event begins when another validator detects a slashable offense. They can submit evidence, such as the two conflicting signed blocks, to the blockchain.
-2. **Whistleblower Reward:** The validator reporting the offense receives a small incentive for their action.
+
+#### 2. **Whistleblower Reward:** The validator reporting the offense receives a small incentive for their action.
+
 3. **Initial Penalty:** The offending validator experiences an immediate slashing of a small amount and is placed in a queue for forced removal from the validator set.
+
 4. **Correlation Penalty:** This represents the more significant aspect of the punishment. The protocol assesses how many other validators were slashed during the same timeframe. The final slashing penalty correlates with the number of other validators being penalized.
  - **Importance of Correlation Penalty:** This mechanism makes large-scale, coordinated attacks exceptionally costly. If a single validator is slashed, the penalty remains relatively minor. However, if an attacker compromises a significant portion of all validators and causes simultaneous slashing, the penalty could reach a substantial portion of their stake.
+
 5. **Forced Exit:** The slashed validator is forcibly removed from the active validator set and unable to rejoin for a designated period.
 
 ### The Consequences of Slashing

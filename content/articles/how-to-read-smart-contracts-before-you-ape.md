@@ -39,22 +39,12 @@ You should now be on the contract's main page within the block explorer. The mos
 
 Once you access the [Solidity](/best-programming-languages-for-blockchain-development) code, do not feel overwhelmed. You do not need to understand every line. Instead, look for specific, identifiable keywords and patterns that may indicate risk. Use `Ctrl+F` or `Cmd+F` to search the code for these critical terms.
 
-| **Keyword** |
-
-**What to Look For**| **Verdict** |
-| --- |
-| `selfdestruct` | If you find `selfdestruct(owner)`, it means the contract owner can destroy the contract and take all funds. |
-
-EXTREME RED FLAG.
-
-**Avoid. |
-| `set` functions | Functions like `setBaseURI`, `setPrice`, `setFee`, `pause`, `withdraw` should have an `onlyOwner` modifier. |
-
-**CRITICAL RED FLAG** if public. |
+| **Keyword** | **What to Look For** | **Verdict** |
+| --- | --- | --- |
+| `selfdestruct` | If you find `selfdestruct(owner)`, it means the contract owner can destroy the contract and take all funds. | **EXTREME RED FLAG. Avoid.** |
+| `set` functions | Functions like `setBaseURI`, `setPrice`, `setFee`, `pause`, `withdraw` should have an `onlyOwner` modifier. | **CRITICAL RED FLAG** if public. |
 | `withdraw` | A simple `withdraw` function is normal. Complex logic can hide malicious intent. | Requires careful inspection. |
-| `delegatecall` | This opcode allows execution of code from another contract in the current contract's context. |
-
-**MAJOR RED FLAG** unless it's a recognized proxy. |
+| `delegatecall` | This opcode allows execution of code from another contract in the current contract's context. | **MAJOR RED FLAG** unless it's a recognized proxy. |
 | Code complexity | Strange variable names or excessive length for simple functions may indicate obfuscation. | Simplified code is typically safer. |
 
 #### 1. Selfdestruct Opcode
@@ -65,9 +55,7 @@ The `selfdestruct` opcode completely removes a contract from the blockchain and 
 
 Investigate functions that modify key parameters, often prefixed with `set`, `update`, or `change`. These functions should ideally have an `onlyOwner` modifier, limiting their access to the contract's creator.
 
-- **Public Functions:** If these functions are public, it opens the door for anyone to alter essential contract parameters, signaling a
-
-**CRITICAL RED FLAG**.
+- **Public Functions:** If these functions are public, it opens the door for anyone to alter essential contract parameters, signaling a **CRITICAL RED FLAG**.
 - **Owner-Only Functions:** If they include an `onlyOwner` modifier, it reduces risk but still requires trust in the owner.
 
 #### 3. Withdrawal Function Mechanics
@@ -81,9 +69,7 @@ If the contract manages funds, it will contain a withdrawal function for the own
 
 Examine the code for any use of `.call`, `.delegatecall`, or `.staticcall`. These commands interact with other contracts and can introduce vulnerabilities.
 
-- **Delegatecall Risk:** This enables another contract's code execution in the current contract's context. If mishandled, it can grant attackers full control over the contract. Unless you are analyzing a trusted proxy contract, this is a
-
-**MAJOR RED FLAG**.
+- **Delegatecall Risk:** This enables another contract's code execution in the current contract's context. If mishandled, it can grant attackers full control over the contract. Unless you are analyzing a trusted proxy contract, this is a **MAJOR RED FLAG**.
 
 #### 5. Code Complexity and Obfuscation
 

@@ -18,7 +18,7 @@ This control enables attackers to undermine the blockchain's integrity. They can
 ### Understanding the 51% Attack
 
 * **Core Concept**: A 51% attack occurs when an entity or group commands over 50% of the hashrate of a PoW blockchain.
-* **Main Threats **: The primary risks include** transaction censorship **and** double-spending**.
+* **Main Threats**: The primary risks include **transaction censorship** and **double-spending**.
 * **Capabilities of Attackers**: Attackers can orphan valid blocks from other miners and reverse their own transactions.
 * **Limitations for Attackers**: Attackers cannot steal funds from others' wallets, create new tokens from nothing, or alter the underlying protocol rules.
 * **Execution Feasibility**: While theoretically possible, launching a 51% attack on a prominent blockchain like Bitcoin is prohibitively costly and difficult. Smaller PoW cryptocurrencies with lower hashrates are significantly more vulnerable.
@@ -65,13 +65,8 @@ Recognizing the boundaries of a 51% attack is essential.
 
 While a 51% attack represents a significant threat, carrying one out on a large, established blockchain is exceptionally challenging and costly.
 
-| **Cost Factors** |
-
-**Details**|
-
-------------------------|
-
--------------------------------------------------|
+| **Cost Factors** | **Details** |
+| --- | --- |
 | **Hardware Costs** | An attacker must acquire an extensive amount of specialized mining hardware (ASICs). For Bitcoin, this often means obtaining more hardware than currently exists in the entire global network. This operation can be prohibitively expensive and logistically impossible to conduct secretly. |
 | **Energy Costs** | The electricity required to power this hardware would be exceedingly expensive. |
 | **Economic Disincentive** | If successful, news of the attack would likely cause the cryptocurrency's price to plummet. This devaluation would impact the very coins the attacker is attempting to double-spend and the costly mining equipment they acquired, rendering the attack economically irrational. |

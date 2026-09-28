@@ -12,9 +12,7 @@ lastUpdated: "2026-09-15"
 ---
 ### Introduction
 
-In crypto derivatives trading, particularly with perpetual futures, exchanges present various price points for the same asset. The two most significant prices are the **Index Price** and the
-
-**Mark Price**. While traders often look at the last traded price displayed on charts, the Mark Price is important for calculating unrealized profits and losses. More importantly, it determines whether a position will be liquidated. A strong grasp of these concepts is essential for effective risk management.
+In crypto derivatives trading, particularly with perpetual futures, exchanges present various price points for the same asset. The two most significant prices are the **Index Price** and the **Mark Price**. While traders often look at the last traded price displayed on charts, the Mark Price is important for calculating unrealized profits and losses. More importantly, it determines whether a position will be liquidated. A strong grasp of these concepts is essential for effective risk management.
 
 ### Index Price
 
@@ -32,9 +30,7 @@ The Last Price represents the most recent transaction executed on a specific der
 
 The Mark Price serves as the benchmark for margin and liquidation calculations within a derivatives trading framework. It is designed to provide a more stable and less susceptible measure than the Last Price.
 
-- **Calculation Method**: Typically, the Mark Price is computed using a formula that combines the
-
-**Index Price** with a moving average of the**basis**, which is the difference between the Last Price and the Index Price. This formula smooths out short-term fluctuations, allowing the Mark Price to converge toward the Index Price over time. The formula is represented as follows:
+- **Calculation Method**: Typically, the Mark Price is computed using a formula that combines the **Index Price** with a moving average of the **basis**, which is the difference between the Last Price and the Index Price. This formula smooths out short-term fluctuations, allowing the Mark Price to converge toward the Index Price over time. The formula is represented as follows:
 
  ```
  Mark Price = Index Price + Moving Average (Last Price - Index Price)
@@ -54,31 +50,17 @@ The Mark Price is important for protecting traders from adverse market condition
 
 Consider a scenario where you hold a long position on [ETH](/what-is-ethereum) with a liquidation price set at a certain level.
 
-- The
+- The **Index Price** across major exchanges remains stable.
+- However, the **Last Price** on your chosen derivative exchange experiences a flash crash, momentarily dropping due to a substantial sell order, before quickly rebounding.
+- During this event, the **Mark Price**, influenced primarily by the stable Index Price, might only decrease slightly.
 
-**Index Price** across major exchanges remains stable.
-- However, the
-
-**Last Price** on your chosen derivative exchange experiences a flash crash, momentarily dropping due to a substantial sell order, before quickly rebounding.
-- During this event, the
-
-**Mark Price**, influenced primarily by the stable Index Price, might only decrease slightly.
-
-**Outcome**: Because your liquidation is based on the
-
-**Mark Price**, your position remains intact. If liquidations were determined by the Last Price, your position would have been unfairly liquidated due to the temporary price anomaly.
+**Outcome**: Because your liquidation is based on the **Mark Price**, your position remains intact. If liquidations were determined by the Last Price, your position would have been unfairly liquidated due to the temporary price anomaly.
 
 ### FAQ
 
 #### Which price should I monitor?
 
-Keep an eye on all three prices. The
-
-**Last Price** indicates current trading activity on your specific exchange. The
-
-**Index Price** reflects the broader market value, while the
-
-**Mark Price** is important for assessing your liquidation risk. Most exchanges display the liquidation price based on the Mark Price.
+Keep an eye on all three prices. The **Last Price** indicates current trading activity on your specific exchange. The **Index Price** reflects the broader market value, while the **Mark Price** is important for assessing your liquidation risk. Most exchanges display the liquidation price based on the Mark Price.
 
 #### Can there be significant differences between Mark Price and Last Price?
 
@@ -95,5 +77,4 @@ While your position is active, the unrealized PnL is computed using the Mark Pri
 | **Definition** | Aggregate price from multiple exchanges | Price of the last executed trade | Price used for liquidation and margin calculations |
 | **Stability** | Designed to be stable and manipulation-resistant | Can fluctuate rapidly | More stable, smoothing out short-term fluctuations |
 | **Impact on Trades** | Reflects true market conditions | Affected by immediate market activity | Affects liquidation risk and unrealized PnL |
-
-**Calculation Method** | Volume-weighted average of spot prices | Based on the order book | Combination of Index Price and moving average of basis |
+| **Calculation Method** | Volume-weighted average of spot prices | Based on the order book | Combination of Index Price and moving average of basis |

@@ -92,8 +92,7 @@ Employers in 2026 verify shipped work before credentials: GitHub commits, deploy
 | **Rust** | High-performance protocols, ZK proof systems, and chains like Solana. |
 | **Hardhat or Foundry** | Development and testing. Hardhat 3 (hardhat.org) provides a Rust-powered runtime and plugins for Ethers.js and Viem. Foundry (github.com/foundry-rs/foundry, 10.5k stars) provides Forge, Cast, Anvil, and Chisel for Solidity testing, fuzzing, and mainnet forking. |
 | **Ethers.js or Viem** | Connect off-chain Python services to contracts. Viem offers lightweight, type-safe calls; Ethers.js is widely used in Hardhat projects. Both are integrated via @nomicfoundation/hardhat-viem or hardhat-ethers. |
-
-**Nodes and data** | Query on-chain data with Dune Analytics, The Graph, Nansen, or Flipside for features and backtests. |
+| **Nodes and data** | Query on-chain data with Dune Analytics, The Graph, Nansen, or Flipside for features and backtests. |
 
 You do not need deep cryptography on day one, but you need to understand how sequencers, bridges, and proof aggregation affect finality and cost. The Springer survey on ZKP-based verifiable ML (Artificial Intelligence Review, 2026, 59:157) is a practical map of which proof system fits which ML task.
 
@@ -131,27 +130,15 @@ AI plus blockchain is the newest premium niche inside this market. Blockready, T
 
 ### Path 1: You already work in AI
 
-1. **Learn Web3 basics with a deployed project.
-
-**Install Foundry with `foundryup` or start a Hardhat project with `npx hardhat init`. Work through the Solidity docs at docs.soliditylang.org and the Hardhat 3 getting started guide. Deploy a simple contract to a testnet and verify it.
-2. **Learn contract security early.
-
-**Read the Solidity security considerations page. Write tests in Solidity with Foundry and integration tests with Viem or Ethers.js. Use a local fork with `anvil --fork-url` to simulate mainnet state.
-3. **Build one hybrid project for your [portfolio](/building-web3-portfolio).
-
-Example: a dApp where users upload an image, an off-chain Python script classifies it with a small PyTorch model, and a contract stores the signed result with the model hash. Include the repo, deployed address, test coverage, and a note on gas cost and proof method.
+1. **Learn Web3 basics with a deployed project.** Install Foundry with `foundryup` or start a Hardhat project with `npx hardhat init`. Work through the Solidity docs at docs.soliditylang.org and the Hardhat 3 getting started guide. Deploy a simple contract to a testnet and verify it.
+2. **Learn contract security early.** Read the Solidity security considerations page. Write tests in Solidity with Foundry and integration tests with Viem or Ethers.js. Use a local fork with `anvil --fork-url` to simulate mainnet state.
+3. **Build one hybrid project for your [portfolio](/building-web3-portfolio).** Example: a dApp where users upload an image, an off-chain Python script classifies it with a small PyTorch model, and a contract stores the signed result with the model hash. Include the repo, deployed address, test coverage, and a note on gas cost and proof method.
 
 ### Path 2: You already ship Web3 code
 
-1. **Learn ML fundamentals without a PhD.
-
-Complete a structured Python ML sequence that covers Pandas, NumPy, training, and evaluation. Fast.ai and Coursera courses are the most commonly cited starting points that hiring managers recognize.
-2. **Train and measure a small model.
-
-Use PyTorch or TensorFlow to build a classifier or sentiment model. Track accuracy, latency, and inference cost. Try EZKL on a tiny network to see proof time and memory firsthand.
-3. **Build one hybrid project from on-chain data.
-
-**Example: export pool or [NFT](/what-are-nfts) activity from Dune Analytics, train a model to predict which mints retain activity after 30 days using on-chain metrics, and publish a dashboard plus a contract that gates a test action on the model score delivered via your oracle script. Document limitations, false positives, and where human review is still needed.
+1. **Learn ML fundamentals without a PhD.** Complete a structured Python ML sequence that covers Pandas, NumPy, training, and evaluation. Fast.ai and Coursera courses are the most commonly cited starting points that hiring managers recognize.
+2. **Train and measure a small model.** Use PyTorch or TensorFlow to build a classifier or sentiment model. Track accuracy, latency, and inference cost. Try EZKL on a tiny network to see proof time and memory firsthand.
+3. **Build one hybrid project from on-chain data.** Example: export pool or [NFT](/what-are-nfts) activity from Dune Analytics, train a model to predict which mints retain activity after 30 days using on-chain metrics, and publish a dashboard plus a contract that gates a test action on the model score delivered via your oracle script. Document limitations, false positives, and where human review is still needed.
 
 In both paths, keep proof. Hiring managers in 2026 check GitHub, audit notes, deployed contracts, and on-chain activity alongside any certificate. For non-technical growth, add fluency in compliance, tokenomics, and governance operations, where absolute posting count is growing faster.
 
@@ -179,7 +166,10 @@ Exchanges and infrastructure teams like Kraken, OKX, and MoonPay list AI roles t
 
 #### What is the biggest limitation to watch?
 
-Cost and time for verifiable inference. Every architecture choice trades proof cost, latency, and privacy. Test your model with real proof tooling before promising on-chain guarantees.**How do I show credibility without prior crypto experience?**
+Cost and time for verifiable inference. Every architecture choice trades proof cost, latency, and privacy. Test your model with real proof tooling before promising on-chain guarantees.
+
+#### How do I show credibility without prior crypto experience?
+
 Ship code, write about trade-offs, and participate in reviewable work: open PRs on Foundry or Hardhat repos, verifiable dashboards on Dune, or bug reports with reproductions. In 2025 to 2026, employers treated deployed work and on-chain activity as stronger signals than certificates alone.
 
 ---

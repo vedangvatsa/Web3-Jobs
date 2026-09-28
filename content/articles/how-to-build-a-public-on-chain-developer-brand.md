@@ -75,16 +75,20 @@ The competencies outlined here are essential for success in any modern career. R
 
 ### Core Competencies
 
-Technical Foundation
+#### Technical Foundation
 
-**Understanding the technical concepts relevant to your field is non-negotiable. While you don't need to be an expert, having a solid foundation helps avoid costly mistakes.** Communication Excellence
+Understanding the technical concepts relevant to your field is non-negotiable. While you don't need to be an expert, having a solid foundation helps avoid costly mistakes.
 
-**The ability to articulate complex ideas clearly is both rare and valuable. Hone your skills in writing emails, documentation, and presentations. Clear communication compounds over time.** Problem-Solving Methodology
+#### Communication Excellence
+The ability to articulate complex ideas clearly is both rare and valuable. Hone your skills in writing emails, documentation, and presentations. Clear communication compounds over time.
 
-**Adopt a systematic approach to problem-solving: define the problem, research solutions, evaluate options, implement, and measure results. This framework is effective for both technical and non-technical challenges.** Learning Agility
+#### Problem-Solving Methodology
+Adopt a systematic approach to problem-solving: define the problem, research solutions, evaluate options, implement, and measure results. This framework is effective for both technical and non-technical challenges.
 
-**In fast-paced industries, quickly acquiring new skills is invaluable. Engage in hands-on practice rather than passively consuming content.** Emotional Intelligence
+#### Learning Agility
+In fast-paced industries, quickly acquiring new skills is invaluable. Engage in hands-on practice rather than passively consuming content.
 
+#### Emotional Intelligence
 Understanding and managing your emotions while being attuned to those of others enhances your effectiveness in team settings and negotiations.
 
 ## Development Roadmap
@@ -137,22 +141,27 @@ The importance of these skills grows at each career level:
 
 3. **Not Getting Feedback** Blind spots hinder improvement. Seek feedback from mentors and colleagues to gain insights.
 
-4. **Comparing to Others** Skill development is a unique journey. Concentrate on your own progress.
+#### 4. **Comparing to Others** Skill development is a unique journey. Concentrate on your own progress.
 
-5. **Expecting Quick Mastery** Genuine skill development takes time. adopt the process.
+#### 5. **Expecting Quick Mastery** Genuine skill development takes time. adopt the process.
 
 ## Resources for Continued Learning
 
-**Books:**- "Atomic Habits" by James Clear focuses on consistent skill development.
+**Books:**
+
+- "Atomic Habits" by James Clear focuses on consistent skill development.
 - "Thinking, Fast and Slow" by Daniel Kahneman enhances decision-making skills.
 - "Never Split the Difference" by Chris Voss offers insights into negotiation and influence.
 
-**Online Resources:**- Use platforms like Coursera and edX for technical skills.
+**Online Resources:**
+
+- Use platforms like Coursera and edX for technical skills.
 - Explore MasterClass for targeted skill enhancement.
 - Follow YouTube channels that focus on your domain.
 - Listen to podcasts featuring industry experts.
 
 **Communities:**
+
 - Join Web3-specific Discord groups.
 - Participate in Reddit communities focused on your skills.
 - Attend local meetups and networking events.

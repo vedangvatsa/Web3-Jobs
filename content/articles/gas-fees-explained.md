@@ -123,18 +123,21 @@ A simple copy from calldata to memory costs gas that grows with size. For one ad
 
 ### What still hurts
 
-- **Fees still spike.
+#### Fees still spike.
 
 When demand exceeds roughly 15 to 30 transactions per second, the base fee climbs 12.5 percent per block until users pause. A planned NFT drop, a token launch, a large airdrop claim, or a market sell-off can push a plain transfer from $0.50 to $20 or more for hours.
-- **Tip still needed for speed.
+
+#### Tip still needed for speed.
 
 To be included in the next block during spikes, you add a higher tip. The protocol does not guarantee inclusion time.
-- **Mainnet is costly for small actions.
+
+#### Mainnet is costly for small actions.
 
 Deployments, frequent writes, and per-user storage are hard to justify on L1. A swap can still cost many dollars when ETH price is high.
-- **Developer cliff.
 
-**Gas optimization helps but adds complexity and audit risk. An incorrect `unchecked` block or a bad packing choice can introduce bugs that cost more than the gas saved.
+#### Developer cliff.
+
+Gas optimization helps but adds complexity and audit risk. An incorrect `unchecked` block or a bad packing choice can introduce bugs that cost more than the gas saved.
 
 ## How to pay less and build cheaper
 
@@ -160,7 +163,7 @@ Four networks, four cent-level medians. Optimism and Base kept slightly higher m
 
 These five patterns give the largest savings for the least risk. All are documented in the Solidity docs and Ethereum specs.
 
-**1. Minimize storage writes. Cache in memory.**
+#### 1. Minimize storage writes. Cache in memory.
 
 Storage is the costliest access. Load once, work in memory, write once.
 
@@ -195,7 +198,7 @@ struct Good { uint128 a; uint128 c; uint256 b; }
 
 This only helps storage. For memory or calldata variables, use `uint256` - the EVM works natively on 32-byte words, so smaller types there can cost more.
 
-**3. Use calldata for read-only external inputs.**
+#### 3. Use calldata for read-only external inputs.
 
 ```solidity
 // Copies bytes into memory
@@ -222,7 +225,9 @@ function withdraw() external {
 }
 ```
 
-**5. Use unchecked only when you can prove no overflow.** Since Solidity 0.8.0, arithmetic reverts on overflow by default. That safety costs gas. If a loop index cannot overflow because it is bounded by `length`, you can save gas with `unchecked`.
+#### 5. Use unchecked only when you can prove no overflow.
+
+Since Solidity 0.8.0, arithmetic reverts on overflow by default. That safety costs gas. If a loop index cannot overflow because it is bounded by `length`, you can save gas with `unchecked`.
 
 ```solidity
 for (uint256 i = 0; i < length; ) {
@@ -266,11 +271,11 @@ Yes, but less. Arbitrum and Optimism still use ETH for gas, and Base uses ETH as
 
 It can be, if you are not time-sensitive. Your transaction will sit in the mempool until the base fee drops to your max. If the base fee keeps rising, it may never be included and you will need to replace it with a higher maxFeePerGas. Do not set it so low that you miss a time-sensitive mint or liquidation.
 
-**Gas tokens and refunds** No. Tokens like CHI and GST2 exploited old refund rules by writing then clearing storage. EIP-3529 in London cut refunds from up to 50 percent of gas used to 20 percent and removed refunds for SELFDESTRUCT, which made those tokens unprofitable. Focus on batching and Layer 2 instead.
+Gas tokens and refunds No. Tokens like CHI and GST2 exploited old refund rules by writing then clearing storage. EIP-3529 in London cut refunds from up to 50 percent of gas used to 20 percent and removed refunds for SELFDESTRUCT, which made those tokens unprofitable. Focus on batching and Layer 2 instead.
 
-**MEV and personal fees** Maximal extractable value is profit from ordering transactions: frontrunning your swap, sandwiching it, or backrunning it. Searchers bid gas to win ordering, which pushes your costs up during volatile periods. [Ethereum's MEV documentation](https://ethereum.org/developers/docs/mev/) explains proposer-builder separation as the structural answer. Practically, route large swaps through MEV-protected RPCs or private mempools, split size, and set slippage tight. [Flashbots](https://docs.flashbots.net/flashbots-auction/overview) documents the private auction path.
+MEV and personal fees Maximal extractable value is profit from ordering transactions: frontrunning your swap, sandwiching it, or backrunning it. Searchers bid gas to win ordering, which pushes your costs up during volatile periods. [Ethereum's MEV documentation](https://ethereum.org/developers/docs/mev/) explains proposer-builder separation as the structural answer. Practically, route large swaps through MEV-protected RPCs or private mempools, split size, and set slippage tight. [Flashbots](https://docs.flashbots.net/flashbots-auction/overview) documents the private auction path.
 
-**Third-party gas payment** Yes, through paymasters. [paymaster contract](https://docs.erc4337.io/paymasters/index.html) sponsors UserOperation gas from its EntryPoint deposit after its own validation passes. Apps use this for free trials, gasless onboarding, and USDC-denominated fees. [canonical flow is](https://eips.ethereum.org/EIPS/eip-4337) specified in EIP-4337.
+Third-party gas payment Yes, through paymasters. [paymaster contract](https://docs.erc4337.io/paymasters/index.html) sponsors UserOperation gas from its EntryPoint deposit after its own validation passes. Apps use this for free trials, gasless onboarding, and USDC-denominated fees. [canonical flow is](https://eips.ethereum.org/EIPS/eip-4337) specified in EIP-4337.
 
 **Tracking fees and burn**
 

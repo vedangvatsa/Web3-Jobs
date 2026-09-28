@@ -41,9 +41,13 @@ Starknet is a decentralized, permissionless Layer 2 that inherits Ethereum secur
 The flow is sequencer execution followed by prover verification, as described on starknet.io/what-is-starknet and docs.starknet.io/learn/protocol/SNOS.
 
 1. **Submit.** You send a transaction from an account contract to a sequencer's mempool. Since v0.14.0 the mempool replaced FIFO ordering and now prioritizes by tip. Full nodes forward transactions to sequencers.
+
 2. **Validate and execute off chain.** The sequencer calls your account's `__validate__` to check the signature and rules, then `__execute__` to run the call. It batches passing transactions into a block. The block header commits to the new global state root, transaction and event commitments, and a state diff commitment. The `l1_da_mode` flag in the header records whether state diffs were sent as `BLOB` or `CALLDATA`.
+
 3. **Build execution trace and state diff.** The sequencer records every Cairo step and builtin use (the execution trace) and collects storage diffs, nonce changes, deployed contracts, and declared classes.
+
 4. **Prove with SNOS and SHARP.** SNOS (StarkNet Operating System) is a Cairo program that takes a previous state and a list of transactions and outputs the resulting state. The prover runs SNOS on the block and generates a STARK proof that the execution was correct. StarkWare's SHARP (Shared Prover) aggregates proofs from many blocks using recursion. Docs note that from v0.14.0 SHARP uses the new S-two prover for most jobs (Stone remains for recursive roots), and that recursion lets many batches share one on-chain verification.
+
 5. **Post to Ethereum.** The sequencer submits the proof and compressed state diffs to the Starknet Core contract and Verifier contract on Ethereum. Ethereum verifies the proof with minimal compute. If it passes, the Core contract updates its stored state root. This is settlement. Messages and bridge state become final only after this L1 verification.
 
 Anyone watching Ethereum can reconstruct Starknet state from the posted state diffs. That data availability guarantee is why you do not need to trust the sequencer to keep the chain History.
@@ -145,28 +149,33 @@ Scaling numbers that are published and checkable: average cost dominated by L1 d
 
 ### If you are a user
 
-1. **Add Starknet to a wallet.
+#### 1. Add Starknet to a wallet.
 
 Starknet is not EVM compatible, so use a native wallet for full features like paymasters and session keys. Argent X and Braavos are the two most used. Download from the official sites, not search ads. Save the seed phrase and add a second device or hardware signer if you hold size.
-2. **Get STRK for gas.
+
+#### 2. Get STRK for gas.
 
 Since v0.14.0 you need STRK on Starknet to pay fees. You can bridge ETH or stablecoins and swap to STRK on Starknet, or on-ramp directly to Starknet via supported on-ramps listed on starknet.io/bridges-and-onramps. If you need to pay with another token, use a paymaster via AVNU, which sponsors the STRK fee and accepts payment in your token.
-3. **Bridge with the canonical bridge.
+
+#### 3. Bridge with the canonical bridge.
 
 StarkGate at starkgate.starknet.io is the canonical bridge for ETH and ERC-20 between Ethereum and Starknet. For large moves start with a small test amount. Third party bridges via Orbiter, Layerswap, or RocketX can route from 180+ chains, but they front funds and add separate risk.
-4. **Track finality.
+
+#### 4. Track finality.
 
 A fast 0.5 second confirmation is not Ethereum settlement. For treasury moves check StarkScan for block inclusion, then check the L1 Core contract for the verified state update before you consider the transfer final.
-5. **Explore cheap but real activity.
+
+#### 5. Explore cheap but real activity.
 
 Try a swap on Ekubo or AVNU, a position on Nostra, or a game on Dojo. Confirm fee lines show fractions of a cent to a few cents for simple actions. Use the Starknet status page at status.starknet.io if a transaction stalls.
 
 ### If you are a developer
 
-1. **Install the Cairo stack.
+#### 1. Install the Cairo stack.
 
 Install Rust via rustup, then Scarb and Starknet Foundry. Check versions at docs.starknet.io and starknet.io/developers/version-releases. The current Cairo is 1.x/2.x series with Sierra in between. Do not start new code on Cairo 0.
-2. **Create and deploy to Sepolia first:**
+
+#### 2. **Create and deploy to Sepolia first:**
 
 ```bash
 # install
@@ -189,14 +198,19 @@ sncast --url https://starknet-sepolia.public.blastapi.io invoke --contract-addre
 Fund Sepolia accounts via the faucet at starknet.io or the docs faucet page. Verify contracts on StarkScan.
 
 3. **Measure fees with the three resources.** Use `starknet_estimateFee` via RPC or `sncast estimate-fee` to see `l1_gas`, `l1_data_gas`, and `l2_gas` before you send. Set `resource_bounds` with `max_amount` and `max_price_per_unit` for each resource in v3 transactions. Compress calldata and avoid unneeded storage writes, since each unique slot posted to L1 adds cost.
+
 4. **Handle cross-chain timing.** L1 to L2 messages need minutes and trigger an `l1_handler` call. L2 to L1 needs proof generation then a separate L1 `consumeMessageFromL2` transaction. Do not build logic that assumes a synchronous callback. Emit events, prove inclusion, then execute on L1.
+
 5. **Plan for sequencer liveness.** You can force inclusion via L1 messaging, but today ordering is still centralized. Add a UI path that retries via higher tip if the mempool is congested, and monitor `status.starknet.io` and `l2beat.com` for stage and sequencer status. Test upgrades on Sepolia with v0.14 and v0.14.3 fee changes before mainnet.
 
 ### If you are considering staking
 
 1. **Read the staking docs and spec.** See docs.starknet.io/learn/protocol/staking and the staking spec at github.com/starkware-libs/starknet-staking. Mainnet staking contract addresses are listed on docs cheatsheets.
+
 2. **Run a full node first.** Sync Juno or Pathfinder and run the matching attestation tool (Nethermind or Equilibrium). You need a synced node to attest correctly. Attesting to a wrong hash loses the epoch reward.
+
 3. **Budget for lockup and keys.** Validator minimum is 20,000 STRK plus operational funds for attest transactions. Rewards address and staking address should be cold. Operational address can be hot but losing it loses yield. Withdrawal needs a 7-day wait after `unstake_intent`.
+
 4. **Evaluate BTC staking if you hold BTC.** Check `get_active_tokens` on the staking contract for supported wrappers. Weight `alpha = 0.25` means BTC contributes, but STRK dominates power. Understand wrapper trust before locking size.
 
 ## Risks and constraints you should weigh
@@ -207,7 +221,8 @@ Fund Sepolia accounts via the faucet at starknet.io or the docs faucet page. Ver
 * **Proof and SNOS bugs.** All validity rollups trust the verifier and OS program. SNOS is the final arbiter of correctness. Review the SNOS Rust repo and audit history before you lock large value.
 * **Blob competition and pricing.** After v0.14.3, L2 gas is dynamic. If many L2s compete for blobs, L1 data gas rises and your fee follows. Starknet can switch from blobs to calldata when blobs are expensive, which then tracks Ethereum base fee instead.
 * **Ecosystem size.** TVL around $200 million to $800 million in 2026 snapshots depending on source and day, well below Arbitrum and Base. DeFi depth and bridge liquidity are thinner, so spreads can be wider for niche assets.
-* **Token and inflation dynamics.
+
+#### Token and inflation dynamics.
 
 STRK inflation funds staking. If stake ratio falls, rewards per staker rise but total inflation changes. Locked investor and contributor allocations continue vesting through March 2027, which adds supply.
 
@@ -251,7 +266,9 @@ All accounts are smart contracts. You can add 2FA, session keys that allow a gam
 
 #### Which should I pick today if I need fast canonical exits and heavy compute?
 
-If you need fast canonical withdrawals without a third party bridge and you can handle Cairo, Starknet is a good fit. Its validity proofs finalize on verification, not after a 7-day window. If you need minimal code changes from Solidity and broad EVM tooling, an optimistic rollup like Arbitrum or an OP Stack chain will be less work.**Where should I track changes?**
+If you need fast canonical withdrawals without a third party bridge and you can handle Cairo, Starknet is a good fit. Its validity proofs finalize on verification, not after a 7-day window. If you need minimal code changes from Solidity and broad EVM tooling, an optimistic rollup like Arbitrum or an OP Stack chain will be less work.
+
+#### Where should I track changes?
 Core docs at docs.starknet.io/learn/protocol, Starknet site at starknet.io/developers/version-releases, status at status.starknet.io, governance at governance.starknet.io, L2Beat stage page for Starknet, the SNOS repo at github.com/keep-starknet-strange/snos, and the community forum at community.starknet.io.
 
 ---

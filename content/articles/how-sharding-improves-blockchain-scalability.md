@@ -10,20 +10,20 @@ category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-15"
 ---
-The main obstacle to mainstream [blockchain](/what-is-a-blockchain) adoption is the **scalability trilemma **. This issue asserts that achieving decentralization, security, and scalability in a blockchain simultaneously poses significant challenges. Developers are exploring various scaling solutions, with** sharding**emerging as a prominent Layer 1 technique to tackle these issues.
+The main obstacle to mainstream [blockchain](/what-is-a-blockchain) adoption is the scalability trilemma . This issue asserts that achieving decentralization, security, and scalability in a blockchain simultaneously poses significant challenges. Developers are exploring various scaling solutions, with shardingemerging as a prominent Layer 1 technique to tackle these issues.
 
 ## The Scalability Crisis
 
 Understanding sharding requires recognizing the fundamental limitations of blockchain systems. For example, [Bitcoin](/what-is-bitcoin) can process approximately 7 transactions per second, while [Ethereum](/what-is-ethereum) historically managed about 15 transactions per second before optimizations. In contrast, traditional payment networks like Visa handle significantly more transactions per second.
 
-The crux of this limitation stems from a fundamental design choice:**every node must validate every transaction**. To maintain security and decentralization, a single authority cannot verify transactions. However, requiring every transaction to be independently verified by numerous nodes creates a significant bottleneck. This bottleneck illustrates the inherent cost of maintaining decentralization.
+The crux of this limitation stems from a fundamental design choice: **every node must validate every transaction**. To maintain security and decentralization, a single authority cannot verify transactions. However, requiring every transaction to be independently verified by numerous nodes creates a significant bottleneck. This bottleneck illustrates the inherent cost of maintaining decentralization.
 
 Several solutions have emerged in response to this challenge:
 
-- **Reducing the number of validators**(which leads to more centralization and less security).
-- **Layer 2 solutions**(that operate transactions off-chain and settle them periodically on-chain).
-- **Larger blocks or faster consensus mechanisms**(which increase hardware requirements for nodes, reducing decentralization).
-- **Sharding**(which divides the processing load across multiple parallel chains).
+- **Reducing the number of validators** (which leads to more centralization and less security).
+- **Layer 2 solutions** (that operate transactions off-chain and settle them periodically on-chain).
+- **Larger blocks or faster consensus mechanisms** (which increase hardware requirements for nodes, reducing decentralization).
+- **Sharding** (which divides the processing load across multiple parallel chains).
 
 Sharding represents an ambitious Layer 1 solution, aiming to enhance scalability without compromising decentralization or security.
 
@@ -49,12 +49,17 @@ The essential insight is that not all nodes need to process all transactions. Su
 
 Consider the scenario where Alice, within Shard 1, sends [tokens](/what-is-a-token) to Bob in Shard 2:
 
-1. Alice initiates a transaction broadcast to the network.
-2. Validators in Shard 1 include and verify the transaction (ensuring Alice has sufficient balance).
-3. The transaction is recorded in Shard 1's state.
-4. The Beacon Chain logs this transaction.
-5. Validators in Shard 2 receive the cross-shard message and update Bob's balance.
-6. The transaction is successfully completed.
+#### 1. Alice initiates a transaction broadcast to the network.
+
+#### 2. Validators in Shard 1 include and verify the transaction (ensuring Alice has sufficient balance).
+
+#### 3. The transaction is recorded in Shard 1's state.
+
+#### 4. The Beacon Chain logs this transaction.
+
+#### 5. Validators in Shard 2 receive the cross-shard message and update Bob's balance.
+
+#### 6. The transaction is successfully completed.
 
 This process requires coordination between shards, adding some complexity. However, Shards 3, 4, and 5 can process other transactions simultaneously. In theory, if there are multiple shards, this architecture could achieve a significant increase in throughput.
 

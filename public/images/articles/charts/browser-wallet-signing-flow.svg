@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600" role="img" aria-labelledby="title description">
+  <title id="title">How a browser wallet signs a transaction</title>
+  <desc id="description">An application requests an action. The user reviews the request in the wallet. The wallet signs after approval, and the signed transaction is submitted to the blockchain. The application does not receive the private key.</desc>
+  <rect width="1200" height="600" fill="#fff"/>
+  <g font-family="Arial, sans-serif" fill="#18181b">
+    <text x="64" y="85" font-size="34" font-weight="700">From a dApp request to a signed transaction</text>
+    <text x="64" y="124" font-size="20" fill="#52525b">The user reviews the action before the wallet signs it.</text>
+    <g fill="#fafafa" stroke="#d4d4d8" stroke-width="2">
+      <rect x="64" y="200" width="240" height="170" rx="8"/>
+      <rect x="342" y="200" width="240" height="170" rx="8"/>
+      <rect x="620" y="200" width="240" height="170" rx="8"/>
+      <rect x="898" y="200" width="238" height="170" rx="8"/>
+    </g>
+    <g font-size="24" font-weight="700">
+      <text x="88" y="247">1. Request</text>
+      <text x="366" y="247">2. Review</text>
+      <text x="644" y="247">3. Sign</text>
+      <text x="922" y="247">4. Submit</text>
+    </g>
+    <g font-size="19" fill="#52525b">
+      <text x="88" y="290">The application</text><text x="88" y="318">asks for an action.</text>
+      <text x="366" y="290">The user checks</text><text x="366" y="318">and approves it.</text>
+      <text x="644" y="290">The wallet creates</text><text x="644" y="318">the signature.</text>
+      <text x="922" y="290">The signed request</text><text x="922" y="318">goes to the network.</text>
+    </g>
+    <g stroke="#52525b" stroke-width="2" fill="none">
+      <path d="M312 285h22m-7-7 7 7-7 7"/>
+      <path d="M590 285h22m-7-7 7 7-7 7"/>
+      <path d="M868 285h22m-7-7 7 7-7 7"/>
+    </g>
+    <text x="64" y="448" font-size="24" font-weight="700">The application does not receive your private key.</text>
+    <text x="64" y="488" font-size="20" fill="#52525b">A signature authorizes an action. Review the destination, amount, and requested permissions.</text>
+    <text x="64" y="553" font-size="16" fill="#71717a">Hashtag Web3 · Browser extension wallet guide</text>
+  </g>
+</svg>

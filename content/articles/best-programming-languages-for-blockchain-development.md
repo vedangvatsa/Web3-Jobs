@@ -53,7 +53,8 @@ Key mechanics to know:
 * **Types and checks.** Solidity is statically typed. Since 0.8.0, arithmetic is checked by default. `uint8(255) + 1` reverts instead of wrapping to 0, unless you put it in an `unchecked { }` block. The compiler warns you early about type mismatches and some security patterns.
 * **ABI.** Every public function is exposed through the Contract ABI, the JSON interface that tells wallets and frontends how to encode calls. Deploy with a constructor, call functions, emit events for indexers.
 * **Message calls and reentrancy.** Any call to another contract hands control to that contract. That is why the docs stress the Checks-Effects-Interactions pattern: check inputs, update your own state, then call external contracts. If you reverse the order, an external contract can callback and drain funds before you zero the balance. The security considerations page shows this exact bug and the fix.
-* **Gas.
+
+#### Gas.
 
 Each opcode costs gas. Storage writes are the most expensive. This is why batching calls and limiting on-chain loops matters. Loops with unbounded storage-dependent iterations can hit the block gas limit and stall your contract.
 
@@ -80,11 +81,14 @@ contract Counter {
 
 **Pros:**
 
-* **Largest ecosystem.** More tutorials, templates, audits, and answered questions than any other smart contract language. OpenZeppelin contracts, Hardhat, Foundry, and Etherscan verification are built for Solidity first.
+- **Largest ecosystem.** More tutorials, templates, audits, and answered questions than any other smart contract language. OpenZeppelin contracts, Hardhat, Foundry, and Etherscan verification are built for Solidity first.
 * **Familiar syntax.** Curly brackets, `contract`, `function`, `if`, `for`. Teams from JavaScript or C++ onboard in days for basic contracts.
-* **Portability across EVM chains.
 
-**One codebase deploys to Ethereum mainnet and to L2s and sidechains that speak EVM, with little change to RPC handling.** Cons:
+#### Portability across EVM chains.
+
+One codebase deploys to Ethereum mainnet and to L2s and sidechains that speak EVM, with little change to RPC handling.
+
+#### Cons:
 
 * **Easy to write unsafe code.** `private` does not hide data, every value is visible on chain. `tx.origin` for auth lets a phishing contract drain wallets. `call` forwards gas and can reenter. Gas limits can block loops that grow without a bound. The compiler docs list these as pitfalls you must handle.
 * **EVM limits shape design.** The 1024 call stack limit, 256-bit word size, and gas metering constrain what you can do. Optimization often means rewriting logic to save gas, not to read more clearly.
@@ -93,8 +97,11 @@ contract Counter {
 ### How to start
 
 1. Try code without setup at remix.ethereum.org. Create a `Counter.sol` file, compile with 0.8.30, deploy to the Remix VM, and call `increment`.
-2. Install locally when you need tests: `npm init -y && npm install --save-dev hardhat` or `curl -L https://foundry.model.xyz | bash && foundryup`. Create a project with `npx hardhat init` or `forge init`.
+
+#### 2. Install locally when you need tests: `npm init -y && npm install --save-dev hardhat` or `curl -L https://foundry.model.xyz | bash && foundryup`. Create a project with `npx hardhat init` or `forge init`.
+
 3. Read two pages in the official docs before you handle funds: "Introduction to Smart Contracts" and "Security Considerations." Implement pull payments (withdraw pattern) instead of pushing Ether, and use a reentrancy guard for any vault.
+
 4. Deploy to a testnet like Sepolia, verify the contract on the explorer, and write at least one invariant test that checks balances and sums.
 
 ---
@@ -119,13 +126,19 @@ It is less useful if you need deep inheritance, operator overloading, or the hug
 
 Vyper compiles to the same bytecode the EVM runs, so it deploys anywhere Solidity does. Differences are at the language level and are intentional omissions to keep code easy to follow:
 
-* **No inheritance.** No class hierarchy to chase across files. You use composition and explicitly marked dependencies.
-* **No modifiers, inline assembly, operator overloading, or function overloading.** The docs explain that each of these makes it easier to hide behavior. A `+` always adds, `foo("hello")` cannot secretly route to a different function based on arity.
-* **Bounds and overflow checks by default.** Array accesses and arithmetic check limits. No silent wrap.
-* **Decidability on gas.** You cannot write unbounded loops or recursion. The compiler can compute a precise upper bound for gas on any function call, which helps avoid gas limit traps.
-* **Native signed integers and decimal fixed point.
+#### No inheritance.
 
-**You get `int128` and `decimal` types directly, useful for pricing without manual scaling errors that binary fixed point can cause.
+#### No class hierarchy to chase across files. You use composition and explicitly marked dependencies.
+* **No modifiers, inline assembly, operator overloading, or function overloading.** The docs explain that each of these makes it easier to hide behavior. A `+` always adds, `foo("hello")` cannot secretly route to a different function based on arity.
+
+#### Bounds and overflow checks by default.
+
+#### Array accesses and arithmetic check limits. No silent wrap.
+* **Decidability on gas.** You cannot write unbounded loops or recursion. The compiler can compute a precise upper bound for gas on any function call, which helps avoid gas limit traps.
+
+#### Native signed integers and decimal fixed point.
+
+You get `int128` and `decimal` types directly, useful for pricing without manual scaling errors that binary fixed point can cause.
 
 A Vyper counterpart to the Solidity counter looks like this:
 
@@ -144,20 +157,27 @@ Tooling overlaps with Solidity at the deployment layer. You can use Titanoboa fo
 
 **Pros:**
 
-* **Easier to audit.** Fewer constructs, no hidden control flow, explicit state use. Auditors can search for a variable and find every read and write without hunting through assembly.
+- **Easier to audit.** Fewer constructs, no hidden control flow, explicit state use. Auditors can search for a variable and find every read and write without hunting through assembly.
 * **Safer defaults.** Strong types, checked math, and bounded loops remove whole bug classes that still appear in Solidity when developers use `unchecked` or complex inheritance.
-* **EVM compatible.
 
-**Deploys to the same chains and addresses as Solidity, so you can mix languages in a system and keep the same wallets and explorers.** Cons:
+#### EVM compatible.
 
+Deploys to the same chains and addresses as Solidity, so you can mix languages in a system and keep the same wallets and explorers.
+
+#### Cons:
 * **Smaller ecosystem.** Fewer templates, fewer answered questions, fewer contributors. You will often read Solidity examples and port them.
 * **Less expressive for large codebases.** Without inheritance and overloading, some patterns need more boilerplate. Teams that rely heavily on upgradeable proxy libraries may miss Solidity tooling.
-* **Separate audit path.** If your auditors specialize in Solidity, they need time to adapt, which can raise review cost.
+
+#### Separate audit path.
+
+#### If your auditors specialize in Solidity, they need time to adapt, which can raise review cost.
 
 ### How to start
 
-1. Install the compiler with `pip install vyper` and test with `vyper --version`.
+#### 1. Install the compiler with `pip install vyper` and test with `vyper --version`.
+
 2. Write a vault that holds ERC20 tokens and only uses explicit `assert` checks for auth, no modifiers. Write the tests in Python with Titanoboa so you can use `pytest`.
+
 3. Compare your Vyper and Solidity implementations side by side for the same spec and keep the simpler one for production where gas cost is similar.
 
 ---
@@ -186,9 +206,10 @@ For blockchain, this maps to two paths:
 
 * **Solana programs.** You write a program that exports a `process_instruction` entry point. The Solana docs show a minimal flow: `cargo new hello_world --lib`, add `solana-program = "2.2.0"` and set `crate-type = ["cdylib", "lib"]`, build with `cargo build-sbf`, which produces a `.so` BPF file and a keypair that becomes your program ID. Without a framework you handle `AccountInfo`, `ProgramResult`, and `msg!` logging yourself. Most teams use Anchor, which adds macros for accounts and instruction dispatch and cuts boilerplate.
 * **Substrate / Polkadot.** You write pallets and runtimes in Rust that compile to WASM for on-chain execution. The FRAME system gives you storage maps, dispatch logic, and weight fees out of the box.
-* **Node clients and tooling.
 
-**Libraries like `revm` (Rust EVM) and many node implementations are in Rust for speed and safety.
+#### Node clients and tooling.
+
+Libraries like `revm` (Rust EVM) and many node implementations are in Rust for speed and safety.
 
 Rust catches logic such as sending the same coin twice at the type level if you model assets as resources, though that pattern is most explicit in Move. In pure Rust you get the machinery to model it correctly without the language forcing it.
 
@@ -198,23 +219,31 @@ Testing on Solana uses native crates: add `litesvm` and `solana-sdk` as dev depe
 
 **Pros:**
 
-* **Performance.** Near C speed with zero-cost abstractions. Useful when a chain handles thousands of transactions and signature verifies on each.
+- **Performance.** Near C speed with zero-cost abstractions. Useful when a chain handles thousands of transactions and signature verifies on each.
 * **Safety.** Ownership and the type system remove memory errors and data races that are catastrophic in financial code. The compiler refuses code that would alias mutably in two threads.
-* **Pay.
 
-**Rust blockchain roles often pay at the top of the market because supply is low and demand from L1 teams is steady.** Cons:
+#### Pay.
+
+Rust blockchain roles often pay at the top of the market because supply is low and demand from L1 teams is steady.
+
+#### Cons:
 
 * **Learning curve.** Ownership, lifetimes, and macros confuse beginners. The first month is slower than TypeScript or Python.
-* **Smaller Web3 surface than Solidity.** Fewer frontend examples and fewer copy-paste DeFi snippets. Docs assume systems knowledge.
+
+#### Smaller Web3 surface than Solidity.
+
+#### Fewer frontend examples and fewer copy-paste DeFi snippets. Docs assume systems knowledge.
 * **Framework lock-in risk.** On Solana, Anchor adds speed but also abstraction. Debugging native errors still requires reading raw account validation.
 
 ### How to start
 
-1. Install Rust with `rustup` and confirm with `rustc --version`. The book assumes edition 2021 or 2024 in `Cargo.toml`.
-2. Work the Rust Book chapters 4, 10, and 15 (ownership, generics, smart pointers) before you touch blockchain code. Without these, program errors feel cryptic.
-3. Pick one chain. For Solana, finish the official native Rust hello world, then redo it with Anchor to see what the framework hides. For Polkadot, run the Substrate node template and write one pallet with a storage item and an extrinsic.
-4. Budget extra time for tooling: `cargo`, `wasm-target`, `solana-test-validator`, and trait errors.
+#### 1. Install Rust with `rustup` and confirm with `rustc --version`. The book assumes edition 2021 or 2024 in `Cargo.toml`.
 
+2. Work the Rust Book chapters 4, 10, and 15 (ownership, generics, smart pointers) before you touch blockchain code. Without these, program errors feel cryptic.
+
+3. Pick one chain. For Solana, finish the official native Rust hello world, then redo it with Anchor to see what the framework hides. For Polkadot, run the Substrate node template and write one pallet with a storage item and an extrinsic.
+
+#### 4. Budget extra time for tooling: `cargo`, `wasm-target`, `solana-test-validator`, and trait errors.
 ---
 
 ## 4. Move: asset-oriented contracts for Aptos, Sui, and related chains
@@ -258,20 +287,24 @@ You test with `aptos move test` or `sui move test`, which run the Move unit test
 
 **Pros:**
 
-* **Asset safety by construction.** Resources cannot be copied or lost silently, which prevents large classes of DeFi bugs including many reentrancy and double-spend cases.
+- **Asset safety by construction.** Resources cannot be copied or lost silently, which prevents large classes of DeFi bugs including many reentrancy and double-spend cases.
 * **Verification.** The bytecode verifier and the optional Move Prover let you state invariants such as "total supply equals sum of balances" and prove them, not just test them.
-* **Clear tooling for assets.
 
-**Type-safe structs for coins and NFTs, permission controls at token level, and native sponsored transactions reduce custom code.** Cons:
+#### Clear tooling for assets.
 
+Type-safe structs for coins and NFTs, permission controls at token level, and native sponsored transactions reduce custom code.
+
+#### Cons:
 * **Ecosystem size.** Smaller than Solidity and Rust. Fewer libraries, fewer job posts, and documentation that varies between Aptos and Sui despite sharing the base language.
 * **Chain coupling.** Concepts like objects, accounts, and storage abilities differ between implementations. A module written for Aptos needs changes for Sui.
 * **Newer patterns.** Formal specs and resource reasoning require upfront design work that teams from EVM may not be used to.
 
 ### How to start
 
-1. Pick one chain: Aptos or Sui. Install its CLI and run `aptos move new hello_move` or `sui move new hello_move`.
+#### 1. Pick one chain: Aptos or Sui. Install its CLI and run `aptos move new hello_move` or `sui move new hello_move`.
+
 2. Read the Move Book chapters on modules, structs and resources, and abilities, then implement a simple fungible coin where only the module publisher can mint.
+
 3. Write a spec that says `sum(balances) == total_supply` and run the prover. Publish to devnet and test sponsorship by having a second account submit a transaction where the first pays gas.
 
 ---
@@ -300,15 +333,17 @@ Current libraries:
 
 * **viem** - modern TypeScript port with strict types and a small bundle. Pairs with Wagmi for React hooks.
 * **ethers.js** - long-standing library that handles providers, signers, and contract ABIs.
-* **web3.js**- original library, still used but less preferred for new TypeScript projects.
+* **web3.js** - original library, still used but less preferred for new TypeScript projects.
 
 A typical flow in TypeScript with viem:
 
-1. Create a public client with `createPublicClient` pointing at an RPC URL.
-2. Create a wallet client from the injected provider.
-3. Read state with `client.readContract` using the contract ABI.
-4. Write state with `walletClient.writeContract`, which asks the wallet to sign and send.
+#### 1. Create a public client with `createPublicClient` pointing at an RPC URL.
 
+#### 2. Create a wallet client from the injected provider.
+
+#### 3. Read state with `client.readContract` using the contract ABI.
+
+#### 4. Write state with `walletClient.writeContract`, which asks the wallet to sign and send.
 Example in TypeScript:
 
 ```ts
@@ -325,11 +360,14 @@ Backwards, Hardhat uses ethers v6 plus TypeScript for deployment scripts that re
 
 **Pros:**
 
-* **Direct reuse.** React skills, component libraries, and testing tools apply directly. You do not learn a new UI framework.
+- **Direct reuse.** React skills, component libraries, and testing tools apply directly. You do not learn a new UI framework.
 * **Best bridging libraries.** viem and ethers abstract over chains, handle ABI encoding, and provide typed errors. Wallet SDKs expect JavaScript.
-* **Full-stack ownership.
 
-**One engineer can own Solidity contracts, deploy scripts, and the Next.js frontend.** Cons:
+#### Full-stack ownership.
+
+One engineer can own Solidity contracts, deploy scripts, and the Next.js frontend.
+
+#### Cons:
 
 * **Only off chain.** Bugs that affect funds still live in Solidity or Move. TypeScript errors in the UI can cause a user to call the wrong function, but they are not consensus bugs.
 * **Ecosystem churn.** Wallet APIs and library major versions change. Code written in 2023 with ethers v5 needs edits for v6.
@@ -337,8 +375,10 @@ Backwards, Hardhat uses ethers v6 plus TypeScript for deployment scripts that re
 
 ### How to start
 
-1. Add a wallet hook to an existing React app: `npm install viem wagmi` and implement `useAccount` and `useWriteContract`.
-2. Connect to Sepolia with a public RPC and call `readContract` on a verified ERC20 to show a balance.
+#### 1. Add a wallet hook to an existing React app: `npm install viem wagmi` and implement `useAccount` and `useWriteContract`.
+
+#### 2. Connect to Sepolia with a public RPC and call `readContract` on a verified ERC20 to show a balance.
+
 3. Build a deploy script in TypeScript that uses a Hardhat or viem wallet to deploy your Counter contract, then add that address to your frontend via an env variable.
 
 ---
@@ -363,9 +403,10 @@ Python connects to a node over HTTP or WebSocket and calls JSON-RPC.
 
 * **web3.py** wraps `eth_call`, `eth_sendTransaction`, `eth_getLogs`, and contract ABI handling. You instantiate `Web3(Web3.HTTPProvider(url))`, load an ABI, create `contract = w3.eth.contract(address, abi=abi)`, then `contract.functions.balanceOf(addr).call()` or `contract.functions.transfer(to, amt).build_transaction()`.
 * **Analysis.** You pull logs for `Transfer` events across 100,000 blocks, load them into a dataframe with `pandas`, group by address, and plot flows. Chains expose this history because every transaction is public.
-* **Testing.
 
-**For Vyper, Titanoboa gives you an in-process EVM where `boa.load('Contract.vy')` returns a Python object you can call directly. For Solidity, Brownie and Ape give similar test apply, though many Solidity teams now use Foundry.
+#### Testing.
+
+For Vyper, Titanoboa gives you an in-process EVM where `boa.load('Contract.vy')` returns a Python object you can call directly. For Solidity, Brownie and Ape give similar test apply, though many Solidity teams now use Foundry.
 
 Python is interpreted and fast to iterate. You trade raw execution speed for faster research cycles and a larger scientific library set than JavaScript.
 
@@ -373,20 +414,22 @@ Python is interpreted and fast to iterate. You trade raw execution speed for fas
 
 **Pros:**
 
-* **Easy to start.** Straightforward syntax and wide tutorials. Analysts who are not full-time developers can still build dashboards.
+- **Easy to start.** Straightforward syntax and wide tutorials. Analysts who are not full-time developers can still build dashboards.
 * **Best for data work.** `pandas`, `numpy`, and notebook workflows fit chain data well, where you join blocks, traces, and prices.
-* **Strong Web3 bindings.**`web3.py` is maintained under the Ethereum Foundation umbrella and tracks node API changes.
+* **Strong Web3 bindings.** `web3.py` is maintained under the Ethereum Foundation umbrella and tracks node API changes.
 
 **Cons:**
 
-* **Not for on-chain deployment on most chains.** You cannot deploy Python to EVM. Vyper's syntax is Python-like but it is a different language and compiler.
+- **Not for on-chain deployment on most chains.** You cannot deploy Python to EVM. Vyper's syntax is Python-like but it is a different language and compiler.
 * **Runtime speed.** For high-frequency bot logic, Python is slower than Go or Rust and garbage collector pauses can affect latency.
 * **Env management.** Different tools expect different Python versions and virtual envs. Contract testing images often need pinned dependencies.
 
 ### How to start
 
-1. Create an env with `python -m venv venv && source venv/bin/activate && pip install web3 pandas`.
-2. Connect to a testnet RPC and read a block: `w3.eth.block_number` then `w3.eth.get_block('latest')`.
+#### 1. Create an env with `python -m venv venv && source venv/bin/activate && pip install web3 pandas`.
+
+#### 2. Connect to a testnet RPC and read a block: `w3.eth.block_number` then `w3.eth.get_block('latest')`.
+
 3. Load a simple Vyper contract with Titanoboa and write a property test that checks `totalSupply == sum(balances)` after random transfers.
 
 ---
@@ -448,22 +491,35 @@ That pattern, applied at larger scale, is how a node parallelizes network I/O an
 
 **Pros:**
 
-* **Simple to learn.** Fewer keywords than Rust, no lifetimes, readable standard library. Teams ramp up faster.
-* **Proven for networking.** Goroutines and channels map naturally to running a mesh of peers that must stay in sync.
-* **Strong performance with simple ops.
+#### Simple to learn.
 
-**Compiled speed without complex build chains, and static binaries ease deployment for operators.** Cons:
+#### Fewer keywords than Rust, no lifetimes, readable standard library. Teams ramp up faster.
 
-* **Not for EVM app contracts.** Knowing Go does not let you write a Uniswap pool. You still need Solidity or Vyper for that surface.
+#### Proven for networking.
+
+#### Goroutines and channels map naturally to running a mesh of peers that must stay in sync.
+
+#### Strong performance with simple ops.
+
+Compiled speed without complex build chains, and static binaries ease deployment for operators.
+
+#### Cons:
+
+#### Not for EVM app contracts.
+
+#### Knowing Go does not let you write a Uniswap pool. You still need Solidity or Vyper for that surface.
 * **Niche demand.** Jobs cluster around client teams and Cosmos chains. Fewer postings than Solidity frontend roles, but deeper systems work.
-* **GC trade-off.
+
+#### GC trade-off.
 
 Predictable low-latency chains may still prefer Rust for control over pause times.
 
 ### How to start
 
 1. Install Go from go.dev, confirm with `go version`, and complete the tour at `go.dev/tour` for syntax, then read Effective Go for idioms.
-2. Clone and build Geth or read its transaction pool code to see goroutines handling mempool propagation.
+
+#### 2. Clone and build Geth or read its transaction pool code to see goroutines handling mempool propagation.
+
 3. For app chains, start the Cosmos SDK tutorial, scaffold a chain with Ignite, and add a single module that stores a counter, mirroring the Solidity counter earlier but in a keeper.
 
 ---
@@ -510,5 +566,7 @@ They can submit transactions through a node, but they cannot be the on-chain log
 
 #### Which language pays the most right now?
 
-Compensation varies by region and team stage, but Rust and Go roles tied to core protocol work often post the highest salaries because qualified candidates are scarce. Solidity roles have the highest volume of openings, which helps negotiation and mobility.**What common mistakes should beginners avoid?**
+Compensation varies by region and team stage, but Rust and Go roles tied to core protocol work often post the highest salaries because qualified candidates are scarce. Solidity roles have the highest volume of openings, which helps negotiation and mobility.
+
+#### What common mistakes should beginners avoid?
 Treating `private` as secret, using `tx.origin` for auth, pushing Ether instead of letting users withdraw, writing unbounded loops over storage, ignoring compiler warnings, and deploying to mainnet without tests on a testnet and a fork. Each of these is listed as a pitfall in the Solidity security docs for good reason.

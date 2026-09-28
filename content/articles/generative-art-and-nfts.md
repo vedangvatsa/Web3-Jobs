@@ -46,9 +46,17 @@ Art Blocks launched in November 2020. It was founded by Erick Calderon, known as
 
 Types on Art Blocks have included:
 
-* **Curated.** Reviewed by a curation board for technical and aesthetic rigor.
-* **Playground.** For artists who have already had a Curated project.
-* **Presents and Collaborations.** Other curated paths and Engine partnerships.
+#### Curated.
+
+#### Reviewed by a curation board for technical and aesthetic rigor.
+
+#### Playground.
+
+#### For artists who have already had a Curated project.
+
+#### Presents and Collaborations.
+
+#### Other curated paths and Engine partnerships.
 
 The platform now operates on Ethereum, Arbitrum, and Base. It documents its generator, storage, and minter contracts in public docs at docs.artblocks.io.
 
@@ -112,71 +120,101 @@ fxhash has no curated gate, so curation happened through collecting. Notable exa
 
 ### As a collector
 
-1. **Set up a wallet.
+#### 1. Set up a wallet.
 
 MetaMask for Ethereum, Arbitrum, and Base is common. Temple or Kukai for Tezos if you use fxhash on Tezos. Back up your seed phrase offline. Never share it.
-2. **Add funds.
+
+#### 2. Add funds.
 
 For Art Blocks you need ETH. For fxhash on Tezos you need XTZ. Start small. Mint fees plus gas are separate from the art price.
-3. **Evaluate the generator before you mint.**
+
+#### 3. **Evaluate the generator before you mint.**
+
    * Open the live view or test mints if the project offers them. Generate 20 to 30 outputs locally if the code is available.
    * Read the project description for supply, mint price, and which hash is used.
    * Check storage: is the script on chain and where does tokenURI point. Art Blocks stores the script on chain. Many fxhash projects do as well.
    * Review traits. On Art Blocks, traits affect rarity and price. On fxhash, the community often tracks traits after launch.
-4. **Mint or buy secondary.**
+
+#### 4. **Mint or buy secondary.**
+
    * Primary: mint from artblocks.io or fxhash.xyz. You get a random hash. You cannot choose the output.
    * Secondary: buy on OpenSea for Ethereum projects or on fxhash secondary and Objkt for Tezos. Verify the contract address matches the official site.
-5. **Save and display correctly.
+
+#### 5. Save and display correctly.
 
 Save a high-resolution render or print via the live view. Note that the canonical view is what the script produces from the hash, not just a cached PNG.
 
 ### As an artist
 
-1. **Learn the stack.
+#### 1. Learn the stack.
 
 Most generative artists use p5.js or plain JavaScript with canvas. Processing veterans use p5.js for web parity. Keep libraries pinned to specific versions.
-2. **Build for determinism.
+
+#### 2. Build for determinism.
 
 Use the hash provided at mint time as the only source of randomness. Do not use Math.random without seeding from the hash. Art Blocks provides a tokenData field and helpers for this. fxhash provides fxhash and fxrand.
-3. **Test range, not just favorites.
+
+#### 3. Test range, not just favorites.
 
 Generate at least 200 outputs and sort them into keep, weak, and broken. Adjust parameter probabilities until even lower-tier outputs feel intentional. Fidenza's work on probabilistic palettes and scale mixing is a good model for balancing variety and quality.
-4. **Decide storage early.
+
+#### 4. Decide storage early.
 
 For durability, store the script on chain and media assets on IPFS or Arweave. If you need fully on-chain visuals, keep the code and assets tiny, as Autoglyphs did.
-5. **Plan supply and price.
+
+#### 5. Plan supply and price.
 
 Supply for Art Blocks Curated often ranges from 200 to 1,000. Open fxhash projects have seen supplies from 64 to 512 for accessible tests and up to 1,000 for larger ideas. Price low for experiments, higher when you can show a strong preview set.
-6. **Apply or publish.**
+
+#### 6. **Apply or publish.**
+
    * Art Blocks Curated requires an application and review. See artblocks.io and docs.artblocks.io for current requirements.
    * fxhash lets you publish directly after testing. No application needed.
 
 ## What to check before you pay
 
-* **Is the contract correct.** Confirm the contract address on the project's official page, not a screenshot.
-* **What does the license allow.** Display, print, and commercial use differ. Do not assume you own the underlying algorithm.
-* **How is royalty handled.** Check if the marketplace you plan to use respects EIP-2981 for that contract.
-* **Energy use.
+#### Is the contract correct.
+
+#### Confirm the contract address on the project's official page, not a screenshot.
+
+#### What does the license allow.
+
+#### Display, print, and commercial use differ. Do not assume you own the underlying algorithm.
+
+#### How is royalty handled.
+
+#### Check if the marketplace you plan to use respects EIP-2981 for that contract.
+
+#### Energy use.
 
 Ethereum switched to proof of stake in September 2022, which the Ethereum Foundation estimates cut energy use by about 99.95 percent. Tezos uses proof of stake with similarly low per-transaction energy. This matters if your team has sustainability reporting.
 
 ## Frequently asked questions
 
-What is generative art in simple terms
+#### What is generative art in simple terms
 
-**It is art made by a system the artist builds. The artist writes rules and parameters. The system makes each specific image or animation within those rules.** Why use NFTs for generative art
+It is art made by a system the artist builds. The artist writes rules and parameters. The system makes each specific image or animation within those rules.
 
-**The NFT records who owns which output, preserves the link to the generator and hash, and lets the market trade outputs without a gallery. The mint transaction itself creates the unique piece.** Is the image stored on the blockchain
+#### Why use NFTs for generative art
+The NFT records who owns which output, preserves the link to the generator and hash, and lets the market trade outputs without a gallery. The mint transaction itself creates the unique piece.
 
-**Sometimes. Autoglyphs stores the art inside the contract's event data. Art Blocks stores the generator on chain and re-renders the art from the hash on demand. Many projects store only a pointer (tokenURI) to IPFS or Arweave. Ask where the metadata lives for any project you consider.** Who owns the art after I buy
+#### Is the image stored on the blockchain
+Sometimes. Autoglyphs stores the art inside the contract's event data. Art Blocks stores the generator on chain and re-renders the art from the hash on demand. Many projects store only a pointer (tokenURI) to IPFS or Arweave. Ask where the metadata lives for any project you consider.
 
-**You own the token and the rights the project's license gives you. You usually do not own the code or the right to reuse the generator. Read the license for each collection.** Can I print or plot my piece
+#### Who owns the art after I buy
+You own the token and the rights the project's license gives you. You usually do not own the code or the right to reuse the generator. Read the license for each collection.
 
-**Yes for most projects, and many are designed for it. Autoglyphs includes instructions for rendering as a drawing with a plotter. Art Blocks pieces are often printed from the live view. Check resolution options and whether the animation is part of the canonical work.** Do I need to know code to collect
+#### Can I print or plot my piece
+Yes for most projects, and many are designed for it. Autoglyphs includes instructions for rendering as a drawing with a plotter. Art Blocks pieces are often printed from the live view. Check resolution options and whether the animation is part of the canonical work.
 
-**No. You need to evaluate the system like you would any art: range, consistency, and whether average outputs still look intentional. You do not need to read the source.** What makes a generative series good
+#### Do I need to know code to collect
+No. You need to evaluate the system like you would any art: range, consistency, and whether average outputs still look intentional. You do not need to read the source.
 
-**Collectors often look for three things. First, variety: outputs feel distinct. Second, quality at the low end: even common pieces feel considered. Third, coherence: the whole set reads as one series with a clear visual identity. Fidenza and Ringers are often cited because they score high on all three.** Where do I start with low cost
+#### What makes a generative series good
+Collectors often look for three things. First, variety: outputs feel distinct. Second, quality at the low end: even common pieces feel considered. Third, coherence: the whole set reads as one series with a clear visual identity. Fidenza and Ringers are often cited because they score high on all three.
 
-**Open a Tezos wallet and try fxhash with a few XTZ. Mint fees are low, often under one XTZ for many projects, and you can study how hash-seeded rendering works without a large outlay.** Are generative art NFTs still active
+#### Where do I start with low cost
+Open a Tezos wallet and try fxhash with a few XTZ. Mint fees are low, often under one XTZ for many projects, and you can study how hash-seeded rendering works without a large outlay.
+
+#### Are generative art NFTs still active
 Yes. Art Blocks continues to release curated projects, hosts the annual Marfa Weekend gallery in Texas, and documents its protocol publicly. fxhash continues as an open platform on Tezos and EVM chains. Secondary sales for top series like Fidenza, Ringers, and Chromie Squiggle still report daily floor prices on OpenSea and other marketplaces.

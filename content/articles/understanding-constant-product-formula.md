@@ -19,13 +19,8 @@ This article breaks down the constant product formula, its practical application
 
 ### Key Insights
 
-| **Term** |
-
-**Definition** |
-
------------|
-
------------------------------------------------------|
+| **Term** | **Definition** |
+| --- | --- |
 | Formula | `x * y = k`, where `x` represents the amount of [Token](/what-is-a-token) A, `y` represents the amount of Token B, and `k` is a constant. |
 | Rule | The value of `k` must remain unchanged during a trade. An increase in one token's quantity requires an equivalent decrease in the other. |
 | Price Discovery | The asset price in the pool is determined by the ratio of the reserves (`x / y`). Trades alter this ratio and therefore the price. |

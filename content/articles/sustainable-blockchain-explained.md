@@ -31,10 +31,12 @@ If you want the short answer: the biggest drop in blockchain energy use came fro
 Three inputs determine a network's footprint. Each can be audited.
 
 #### 1. Consensus cost.
-In proof-of-work, security comes from miners burning electricity and hardware to solve puzzles. In proof-of-stake, security comes from validators locking capital that can be destroyed if they misbehave. The second approach needs no race for hashes. 2. Node count and hardware.
+In proof-of-work, security comes from miners burning electricity and hardware to solve puzzles. In proof-of-stake, security comes from validators locking capital that can be destroyed if they misbehave. The second approach needs no race for hashes.
 
-**Total consumption equals average power per node times number of nodes. A network with 300 low-power nodes can use less per year than a network with 1,000 high-power nodes, even if the second does far more transactions.** 3. Energy mix and carbon intensity.
+#### 2. Node count and hardware.
+Total consumption equals average power per node times number of nodes. A network with 300 low-power nodes can use less per year than a network with 1,000 high-power nodes, even if the second does far more transactions.
 
+#### 3. Energy mix and carbon intensity.
 Two networks with the same kilowatt-hours can have different emissions if one runs on coal-heavy grids and the other on hydro or wind. CCRI applies country and, for the United States, state-level emission factors to each node's location. Cambridge CCAF tracks the share of sustainable energy separately.
 
 Per-transaction energy is often quoted, but treat it carefully. As ethereum.org notes, the energy to propose and validate a block is independent of how many transactions fill that block. Layer-2 rollups make this even more misleading, because a single layer-1 batch can settle thousands of layer-2 transactions with little extra energy. Always check both per-node and annual totals.
@@ -70,9 +72,9 @@ What the table shows:
 
 Later CCRI reports add more chains with the same method:
 
-- **TRON**(delegated proof-of-stake, 367 nodes, July 2022): 162,868 kWh per year, 443.78 kWh per node, 0.07 Wh per transaction across 2.317 billion transactions, 69.47 tCO2e per year at 426.5 gCO2e per kWh, about 15 United States households (CCRI TRON report, Aug 2022).
-- **Polygon PoS**(Oct 2022 update): 109,213 kWh per year for the Polygon network plus 9,720.56 kWh allocated for its use of Ethereum layer-1 after the Merge, totaling about 118,934 kWh. At 10,600 kWh per household, Polygon PoS itself uses about 10.3 households worth of electricity. The update lowered the prior Ethereum allocation by about 20 percent after the post-Merge measurement.
-- **Algorand**(Algorand Foundation model, June 2024, on sustainability page): annualized mainnet footprint 265 tCO2, about 7 times less than Ethereum proof-of-stake per that model and 300,000 times less than Bitcoin. Algorand's Pure Proof-of-Stake uses a Verifiable Random Function to select one proposer per block, so only one block is created to confirm a transaction. Nodes reject failed transactions before the lottery and again during consensus, so no energy is wasted on orphan forks. Running a participation node needs 4 to 8 GB RAM and 100 GB storage under normal configs, well below Solana's 128 GB RAM and 2 TB NVMe recommendation from the same CCRI comparison.
+- **TRON** (delegated proof-of-stake, 367 nodes, July 2022): 162,868 kWh per year, 443.78 kWh per node, 0.07 Wh per transaction across 2.317 billion transactions, 69.47 tCO2e per year at 426.5 gCO2e per kWh, about 15 United States households (CCRI TRON report, Aug 2022).
+- **Polygon PoS** (Oct 2022 update): 109,213 kWh per year for the Polygon network plus 9,720.56 kWh allocated for its use of Ethereum layer-1 after the Merge, totaling about 118,934 kWh. At 10,600 kWh per household, Polygon PoS itself uses about 10.3 households worth of electricity. The update lowered the prior Ethereum allocation by about 20 percent after the post-Merge measurement.
+- **Algorand** (Algorand Foundation model, June 2024, on sustainability page): annualized mainnet footprint 265 tCO2, about 7 times less than Ethereum proof-of-stake per that model and 300,000 times less than Bitcoin. Algorand's Pure Proof-of-Stake uses a Verifiable Random Function to select one proposer per block, so only one block is created to confirm a transaction. Nodes reject failed transactions before the lottery and again during consensus, so no energy is wasted on orphan forks. Running a participation node needs 4 to 8 GB RAM and 100 GB storage under normal configs, well below Solana's 128 GB RAM and 2 TB NVMe recommendation from the same CCRI comparison.
 
 Not in the CCRI six but relevant: Hedera Hashgraph does not use blocks in the same way, it uses a directed acyclic graph with gossip, and its council structure yields similar low per-node draw claims. IOTA's Tangle is also graph-based and reports among the lowest per-transaction values when idle, but both should be checked against annual totals and node counts from the same methodology rather than headline per-transaction claims.
 
@@ -96,20 +98,23 @@ Offsets are the last step, not the first. Algorand has been carbon neutral since
 
 ### Honest trade-offs
 
-**What proof-of-stake improves:**- Energy drops by more than 99 percent for the same security budget, because security no longer requires continuous hashing. Ethereum's documented 99.988 percent fall is the largest verified example.
+What proof-of-stake improves:- Energy drops by more than 99 percent for the same security budget, because security no longer requires continuous hashing. Ethereum's documented 99.988 percent fall is the largest verified example.
 - Hardware waste falls. Nodes run on general-purpose servers, not single-purpose ASICs that turn over every 1 to 2 years.
 - Finality becomes explicit. Two-thirds voting can finalize in two epochs (12.8 minutes on Ethereum) or instantly on Algorand, versus probabilistic finality that needs confirmations.
 
-**What it does not fix automatically:**- Geographic concentration matters. If many validators sit in coal-heavy grids, emissions rise even though kilowatt-hours do not. Location data in CCRI's studies was missing for 1.95 to 4.1 percent of nodes, for which world average intensity was assumed.
+What it does not fix automatically:- Geographic concentration matters. If many validators sit in coal-heavy grids, emissions rise even though kilowatt-hours do not. Location data in CCRI's studies was missing for 1.95 to 4.1 percent of nodes, for which world average intensity was assumed.
 - Stake can concentrate. Liquid staking pools and delegated proof-of-stake systems with 21 to 27 block producers trade some decentralization for speed and lower per-node counts. EOS with 21 producers and TRON with 27 Super Representatives illustrate this design choice.
 - Throughput bias. A busy chain can look better per transaction than a quiet one even if its annual total is higher. Solana emits 934.77 tCO2e per year in the CCRI snapshot, the highest among the six, despite the lowest per-transaction Wh, because it runs more powerful hardware per node (1,938.85 kWh per node) to support high throughput.
 - Offsets need verification. A claim without a retirement transaction on a registry or on-chain treasury is not verifiable. Prefer credits that show vintage, project ID, and retirement proof.
 
 ### How to choose and run a lower-impact chain
 
-**If you are evaluating chains:** 1. Start with annual electricity and carbon, not per-transaction. Use CCRI's API or reports and Cambridge CCAF's indices for Bitcoin and Ethereum. Both are updated methods, not one-time press releases.
+If you are evaluating chains: 1. Start with annual electricity and carbon, not per-transaction. Use CCRI's API or reports and Cambridge CCAF's indices for Bitcoin and Ethereum. Both are updated methods, not one-time press releases.
+
 2. Check node hardware specs and count. A chain that requires 128 GB RAM and 2 TB NVMe per validator will draw more per node than one that runs on 8 GB and 100 GB SSD, even before transactions.
+
 3. Ask for energy mix. Cambridge now reports 52.4 percent sustainable for Bitcoin mining; Algorand and Ethereum reports report 56.4 percent renewable share in recent Ethereum modeling and project-specific mixes for offset portfolios. If a team cannot tell you how they map nodes to grid factors, treat the carbon claim as incomplete.
+
 4. For EU reporting, request MiCA sustainability indicators. CCRI publishes MiCA-compliant fact sheets for Cardano and others with the exact disclosures ESMA proposes.
 
 **If you are running infrastructure:**
@@ -117,12 +122,14 @@ Offsets are the last step, not the first. Algorand has been carbon neutral since
 - Home validator.
 
 On Ethereum, a single validator needs 32 ETH (or up to 2,048 ETH with compounding 0x02 credentials after Pectra on May 7, 2025), plus an execution client, a consensus client, and a validator client. Power draw for a home setup with current clients is around a few tens to about 100 watts continuous, roughly one modern desktop, not a mining rack. EthStaker and ethereum.org both put a full home staker at about 100 watts. Keep the machine on a low-carbon grid if you can; the location changes your attributed emissions more than the wattage does.
-- **Delegated or pooled.
+
+#### Delegated or pooled.
 
 If you hold less than 32 ETH, liquid staking pools or pooled operators let you stake from 0.01 ETH with a bond of about 1.5 to 4 ETH in some designs. You avoid running hardware but add middleware risk. Compare operator diversity and whether they run distributed validator technology across geographies and clients.
-- **Reduce waste.
 
-**Run only the clients you need, keep storage at the recommended prune level, and update clients to lower-draw versions measured by CCRI. Do not run proof-of-work miners alongside proof-of-stake validators on the same power without accounting for the mining draw separately.** If you are building apps:- Deploy on proof-of-stake layer-1 and push high-volume actions to a rollup or validium. Batching alone can cut attributed energy per transaction by more than 10 times even before consensus savings.
+#### Reduce waste.
+
+Run only the clients you need, keep storage at the recommended prune level, and update clients to lower-draw versions measured by CCRI. Do not run proof-of-work miners alongside proof-of-stake validators on the same power without accounting for the mining draw separately. If you are building apps:- Deploy on proof-of-stake layer-1 and push high-volume actions to a rollup or validium. Batching alone can cut attributed energy per transaction by more than 10 times even before consensus savings.
 - Avoid minting empty transactions to inflate throughput metrics. That lowers per-transaction Wh on paper but raises annual total without user benefit.
 - Document your chain choice with sources. A one-line footnote citing ethereum.org and the CCRI report ID is more credible than a "green blockchain" badge.
 

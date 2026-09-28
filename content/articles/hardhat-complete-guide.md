@@ -22,15 +22,17 @@ This guide explains what Hardhat does, who should use it, how its parts fit toge
 
 Hardhat is four pieces that install together in a Node.js project:
 
-- **Hardhat Runner.
+#### Hardhat Runner.
 
-**The task runner you call with `npx hardhat`. It runs compile, test, ignition deploy, node, and custom tasks. Docs at https://hardhat.org/docs/getting-started.
-- **Hardhat Network via Ethereum Development Runtime (EDR).
+The task runner you call with `npx hardhat`. It runs compile, test, ignition deploy, node, and custom tasks. Docs at https://hardhat.org/docs/getting-started.
 
-**A local Ethereum network for development. Since v2.21.0 and for all of Hardhat 3, the runtime is implemented in Rust on top of revm. It gives Solidity stack traces, `console.log` in Solidity, and clear revert reasons. Docs at https://hardhat.org/docs/explanations/edr-simulated-networks and the EDR repo at https://github.com/NomicFoundation/edr.
-- **Hardhat Ignition.
+#### Hardhat Network via Ethereum Development Runtime (EDR).
 
-**A declarative deployment system. You describe the contracts and calls you want in a module, Ignition plans the batches, runs them in parallel where safe, resumes after a failure, and records results under `ignition/deployments/`. Docs at https://hardhat.org/ignition and https://hardhat.org/docs/guides/deployment/using-ignition.
+A local Ethereum network for development. Since v2.21.0 and for all of Hardhat 3, the runtime is implemented in Rust on top of revm. It gives Solidity stack traces, `console.log` in Solidity, and clear revert reasons. Docs at https://hardhat.org/docs/explanations/edr-simulated-networks and the EDR repo at https://github.com/NomicFoundation/edr.
+
+#### Hardhat Ignition.
+
+A declarative deployment system. You describe the contracts and calls you want in a module, Ignition plans the batches, runs them in parallel where safe, resumes after a failure, and records results under `ignition/deployments/`. Docs at https://hardhat.org/ignition and https://hardhat.org/docs/guides/deployment/using-ignition.
 - **VS Code extension and toolbox.** The official extension is Solidity by Nomic Foundation at https://marketplace.visualstudio.com/items?itemName=NomicFoundation.hardhat-solidity. The recommended plugin bundle is `@nomicfoundation/hardhat-toolbox-viem` at https://hardhat.org/docs/plugins/hardhat-toolbox-viem.
 
 Hardhat 3 is the current major version. It shipped as a beta in August 2025, with Solidity tests as first class, multichain chain types, a Rust runtime, a revamped build system, and Ignition. The stable release was announced on 1 June 2026 at https://blog.nomic.foundation/hardhat-3-is-now-stable/. Hardhat 3.14.0 is a recent small fix release noted on https://hardhat.org. Hardhat 2 is being replaced by Hardhat 3 per https://blog.nomic.foundation/hardhat-2-is-being-replaced-by-hardhat-3/ and will only add Glamsterdam support, not Hegota.
@@ -303,14 +305,14 @@ The Solidity by Nomic Foundation extension supplies syntax highlighting, inline 
 
 ## Pros and cons, honestly
 
-**Strengths:**- One install for the whole loop. Compile, local network, tests in two languages, coverage, gas stats, and deploys share one config and one CLI.
+Strengths:- One install for the whole loop. Compile, local network, tests in two languages, coverage, gas stats, and deploys share one config and one CLI.
 - Strong debugging. Solidity stack traces, `console.log` in Solidity, and explicit revert reasons save time compared with parsing raw EVM errors.
 - Reproducible deploys. Ignition journals every step, resumes after a dropped transaction, handles nonce gaps, and records a deployment that other tools can verify.
 - Multichain accuracy. Chain types let you simulate L1 and OP Stack behavior locally and expose chain-specific client methods like `estimateL1Gas` only when `chainType: "op"` is selected.
 - Plugin depth. Toolbox Viem wires Viem, network helpers, keystore, ignition, and verify together. Foundry interop reads `foundry.toml` remappings so a repo can keep Forge tests while migrating scripts to Hardhat.
 - CI ready. Gas stats with JSON export, coverage in HTML plus lcov, and `--snapshot-check` for gas regression.
 
-**Trade-offs:**- Node dependency. You must maintain Node v22.13.0 or later, pnpm, and a TypeScript toolchain. Foundry needs only a Rust binary.
+Trade-offs:- Node dependency. You must maintain Node v22.13.0 or later, pnpm, and a TypeScript toolchain. Foundry needs only a Rust binary.
 - EVM only. Hardhat does not build Solana programs. You will learn a different stack for Rust and Anchor.
 - Startup and build time on very large contracts can lag a pure Rust run. Nomic Foundation optimized bootstrap, networking, and Solidity test execution across 3.1 to 3.6, but Forge can still be faster for large Solidity-only suites where no JS work is needed.
 - History is short on Hardhat 3 stable. Beta was August 2025, stable was 1 June 2026, so migration docs and plugin ports for edge cases are still being polished. Pin solc, Foundry version, and Hardhat version in CI to keep local and CI builds identical.
