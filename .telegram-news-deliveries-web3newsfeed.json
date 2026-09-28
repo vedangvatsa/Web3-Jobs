@@ -95,5 +95,36 @@
     ],
     "messageId": 65709,
     "sentAt": "2026-09-28T11:36:38.634Z"
+  },
+  "66c29e06-4fb0-4a04-abe4-8626c5375c83": {
+    "status": "reserved",
+    "reservedAt": "2026-09-28T19:45:03.776Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "CleanSpark Raises $2.276 Billion for Georgia Data Center",
+        "summary": "The company will use proceeds from the 7.875 percent notes to finance its Sandersville campus.",
+        "link": "https://hashtagweb3.com/cleanspark-debt?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "CleanSpark Closes $2.276B Notes Sale for Georgia Data Center"
+      },
+      {
+        "index": -1,
+        "headline": "ZetaChain Voters Approve Migration to Solana",
+        "summary": "Governance participants voted to move the ZETA token to Solana, though a future vote will determine the timeline.",
+        "link": "https://hashtagweb3.com/zeta-solana?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "ZetaChain Voters Back Solana Migration in Proposal 68"
+      },
+      {
+        "index": 1,
+        "headline": "US Senate investigation links Tether to Iranian shadow banking",
+        "summary": "A new congressional report identifies the stablecoin issuer as a primary financial tool for Iran's illicit banking network.",
+        "event_rationale": "This covers a specific regulatory and geopolitical report regarding a major stablecoin issuer, distinct from all other market or technical updates.",
+        "link": "https://decrypt.co/379481/australia-sam-altman-dario-amodei-ai-hack",
+        "source": "Decrypt",
+        "originalTitle": "After AI Agent Hacked Its Government, Australia Calls Altman and Amodei to Testify"
+      }
+    ]
   }
 }

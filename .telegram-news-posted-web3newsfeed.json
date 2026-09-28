@@ -641,6 +641,9 @@
   "https://hashtagweb3.com/california-memecoins?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/riot-loan?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/thorchain-bitget?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/cleanspark-debt?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/zeta-solana?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://decrypt.co/379481/australia-sam-altman-dario-amodei-ai-hack",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -1827,6 +1830,12 @@
   "Riot Platforms Repays $200M Coinbase Loan and Frees Collateral",
   "THORChain Rejects Bitget Request to Block Hacker Wallets",
   "THORChain Refuses Bitget Plea to Block Hacker Wallets",
+  "CleanSpark Raises $2.276 Billion for Georgia Data Center",
+  "CleanSpark Closes $2.276B Notes Sale for Georgia Data Center",
+  "ZetaChain Voters Approve Migration to Solana",
+  "ZetaChain Voters Back Solana Migration in Proposal 68",
+  "US Senate investigation links Tether to Iranian shadow banking",
+  "After AI Agent Hacked Its Government, Australia Calls Altman and Amodei to Testify",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -1997,5 +2006,8 @@
   "fp:aim|anymor|architectur|blockchain|buterin|chang|com|decad|detail|expand",
   "fp:ban|bar|california|creat|governor|in2027|issu|legislation|link|memecoin",
   "fp:200m|cash|clear|coinbas|collateral|custody|debt|fre|held|loan",
-  "fp:address|bitget|blacklist|block|hacker|link|maintain|permissionless|plea|protocol"
+  "fp:address|bitget|blacklist|block|hacker|link|maintain|permissionless|plea|protocol",
+  "fp:2276b|campus|center|cleanspark|clos|data|financ|georgia|not|percent",
+  "fp:approv|back|determin|futur|governanc|migration|mov|participant|proposal68|solana",
+  "fp:agent|amodei|australia|bank|call|congressional|financial|government|hack|identify"
 ]
