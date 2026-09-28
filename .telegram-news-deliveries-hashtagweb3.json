@@ -94,5 +94,36 @@
     ],
     "messageId": 155497,
     "sentAt": "2026-09-28T11:37:43.205Z"
+  },
+  "2fea86de-13d9-42e3-902a-521d0b012c0f": {
+    "status": "reserved",
+    "reservedAt": "2026-09-28T19:50:45.395Z",
+    "stories": [
+      {
+        "index": 1,
+        "headline": "Tether stablecoin used in Iran shadow banking network",
+        "summary": "A United States Senate investigation identifies the stablecoin as a primary tool for bypassing international financial sanctions.",
+        "event_rationale": "This covers a specific geopolitical and regulatory report regarding the use of a major stablecoin in illicit financial networks.",
+        "link": "https://decrypt.co/379481/australia-sam-altman-dario-amodei-ai-hack",
+        "source": "Decrypt",
+        "originalTitle": "After AI Agent Hacked Its Government, Australia Calls Altman and Amodei to Testify"
+      },
+      {
+        "index": 7,
+        "headline": "Chainlink CCIP 2.0 Adds Custom Security Checks for Institutions",
+        "summary": "Banks can now implement independent security verification for cross-chain transfers following a major bridge hack earlier this year.",
+        "link": "https://decrypt.co/379463/chainlink-institutions-add-bridge-checks-kelp-hack",
+        "source": "Decrypt",
+        "originalTitle": "Months After the $292M Kelp Hack, Chainlink Lets Institutions Add Their Own Bridge Checks"
+      },
+      {
+        "index": 8,
+        "headline": "Citi and Coinbase partner for business stablecoin payments",
+        "summary": "The companies are building infrastructure to connect traditional fiat currency payments with stablecoin transactions for corporate clients.",
+        "link": "https://www.theblock.co/news/business/2026-09-28-citi-coinbase-stablecoin-payments-corporate-clients-417082",
+        "source": "The Block",
+        "originalTitle": "Citi expands Coinbase partnership to power stablecoin payments for businesses"
+      }
+    ]
   }
 }

@@ -617,6 +617,9 @@
   "https://hashtagweb3.com/california-memecoins?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/thorchain-bitget?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/duelbits-hack?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://decrypt.co/379481/australia-sam-altman-dario-amodei-ai-hack",
+  "https://decrypt.co/379463/chainlink-institutions-add-bridge-checks-kelp-hack",
+  "https://www.theblock.co/news/business/2026-09-28-citi-coinbase-stablecoin-payments-corporate-clients-417082",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -1759,6 +1762,12 @@
   "THORChain Refuses Bitget Plea to Block Hacker Wallets",
   "Duelbits Suffers $7 Million Hot-Wallet Hack",
   "Duelbits confirms $7 million hot-wallet hack and extends casino downtime",
+  "Tether stablecoin used in Iran shadow banking network",
+  "After AI Agent Hacked Its Government, Australia Calls Altman and Amodei to Testify",
+  "Chainlink CCIP 2.0 Adds Custom Security Checks for Institutions",
+  "Months After the $292M Kelp Hack, Chainlink Lets Institutions Add Their Own Bridge Checks",
+  "Citi and Coinbase partner for business stablecoin payments",
+  "Citi expands Coinbase partnership to power stablecoin payments for businesses",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -1926,5 +1935,8 @@
   "fp:are|comput|cost|custody|defens|development|fix|logistic|network|practical",
   "fp:ban|bar|california|creat|in2027|issu|legislation|link|local|memecoin",
   "fp:asset|bitget|block|ceo|cit|declin|deni|design|freez|hacker",
-  "fp:assur|casino|confirm|downtim|duelbit|extend|fund|hack|hot|offlin"
+  "fp:assur|casino|confirm|downtim|duelbit|extend|fund|hack|hot|offlin",
+  "fp:agent|amodei|australia|bank|bypass|call|financial|government|hack|identify",
+  "fp:292m|add|bank|bridg|can|ccip20|chain|chainlink|check|cross",
+  "fp:are|build|business|citi|client|coinbas|connect|corporat|currency|expand"
 ]
