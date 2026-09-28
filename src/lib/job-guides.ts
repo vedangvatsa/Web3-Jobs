@@ -945,6 +945,16 @@ function extractJobBlocks($: cheerio.CheerioAPI, html: string, job?: Job): Array
   $('script, style, iframe, noscript, svg, button, form, input, select, nav, footer, header, .navbar, .logo, .role-back, .apply-row, .role-meta, .job-details-content__sidebar, .job-details-content__apply-section, .share-links, .fb-xfbml-parse-ignore, [class*="share-button"], [class*="social-share"], [class*="sharethis"], [class*="addthis"], #apply, .h-header, .h-header-content, .h-header-menu, .custom-footer, .custom-footer-social-link, .boards-cookie-banner, .hosted-job-header, .hosted-job-office-locations, .hosted-job-preheader, [data-component="pf-popover"], [data-controller*="clipboard"], .credit, .sr-only, .visually-hidden').remove();
 
   const structures: string[] = [];
+  $('em,i').each((_, el) => {
+    const note = $(el);
+    const parent = note.parent();
+    if (note.parents('table,pre,blockquote,ol,ul').length) return;
+    if (!/^\*\S/.test(note.text().trim()) || !parent.is('p,div') || parent.text().trim() !== note.text().trim()) return;
+    const formatted = note.clone();
+    formatted.html((formatted.html() || '').replace(/^\s*\*(?=\S)/, ''));
+    structures.push(formatJobStructuredContent(`<p>${$.html(formatted)}</p>`));
+    parent.replaceWith(`\n###STRUCTURE:${structures.length - 1}###\n`);
+  });
   const structureNodes = $('table, pre, blockquote, ol, ul').toArray()
     .filter(el => el.tagName !== 'ul' || $(el).find('ul,ol').length > 0);
   const structureSet = new Set(structureNodes);
@@ -1128,7 +1138,7 @@ function extractJobBlocks($: cheerio.CheerioAPI, html: string, job?: Job): Array
 
   // Normalize list items (process bottom-up so container <li> tags don't flatten nested elements)
   $('br,hr').each((_, el) => {
-    $(el).replaceWith($(el).parents('li').length ? '\n' : '\n###BLOCK###\n');
+    $(el).replaceWith($(el).parents('li').length ? '⇧JOBBR⇩' : '\n###BLOCK###\n');
   });
   $('li').get().reverse().forEach((el) => {
     const $el = $(el);
@@ -1336,6 +1346,7 @@ function extractJobBlocks($: cheerio.CheerioAPI, html: string, job?: Job): Array
       !INTRO_LEADIN_REGEX.test(line) &&
       (
         MAJOR_HEADING_REGEX.test(line) ||
+        (job?.company && line.replace(/[:?]$/, '').trim().toLowerCase() === `why ${job.company}`.toLowerCase()) ||
         (line.endsWith(':') && /^[A-Z]/.test(line) && !line.includes('. ') && !line.includes('; ') && !/^[A-Z][a-z]+\s+(the|a|an|following|these|those|this|that|your|our|their|its|his|her)\b/.test(line)) ||
         /^(?:ready to build what's next|why join us|who we are|what we offer)\??$/i.test(line)
       )
@@ -1540,6 +1551,7 @@ function renderInlineMd(escaped: string): string {
     .replace(/(^|[\s(])__([^_]+)__/g, '$1<strong>$2</strong>')
     .replace(/\*\*/g, '')
     .replace(/⇧JOBLINK:([^⇧⁄]+)⁄([^⇧]*)⇩/g, (_m, url: string, label: string) => `<a href="${url}" target="_blank" rel="noopener noreferrer nofollow" class="text-primary hover:underline">${label}</a>`)
+    .replace(/⇧JOBBR⇩/g, '<br>')
     .replace(/\s+([,.:;!?])/g, '$1')
     // Tighten boundary spaces introduced by tag-concat separation:
     // "( Radar )" back to "(Radar)". Runs here (not at extraction) so link
@@ -1574,6 +1586,7 @@ function splitFusedDashItems(text: string): string[] {
 const BOILER_SENTENCE_RES: RegExp[] = [
   /[^.!?]*\bpage is loaded\b[^.!?]*[.!?]*/gi,
   /[^.!?]*\bby submitting your application to us, you consent\b[^.!?]*[.!?]*/gi,
+  /\bby submitting a job application,\s*you confirm that you have read and agree to our\s*\.\s*$/gi,
   /[^.!?]*\bplease consider your application as unsuccessful\b[^.!?]*[.!?]*/gi,
   /[^.!?]*\bequal opportunity employers?\b[^.!?]*[.!?]*/gi,
   /[^.!?]*\ball qualified applicants\b[^.!?]*[.!?]*/gi,
@@ -1656,7 +1669,8 @@ function formatJobContent(originalHtml: string): string {
       .replace(/\*\*/g, '')
       .replace(/\u21E7JOBLINK:([^⇧\u2044]+)\u2044([^⇧]*)\u21E9/g, (_, url, label) => {
         return `<a href="${url}" target="_blank" rel="noopener noreferrer nofollow" class="text-primary hover:underline">${label}</a>`;
-      });
+      })
+      .replace(/⇧JOBBR⇩/g, '<br>');
 
     // Check if block is a markdown heading that slipped into a paragraph
     if (block.type === 'p' && /^#{2,4}\s+/.test(text)) {

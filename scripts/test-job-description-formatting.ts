@@ -78,6 +78,32 @@ assert.equal(cheerio.load(repairedList)('li').length, 2);
 assert.equal(formatJobStructuredContent(repairedList), repairedList, 'Structured formatting must be idempotent');
 assert.ok(descriptionFormattingIssues('<h3></h3><p>## Heading</p><ul><p>Invalid item</p></ul>').length >= 3);
 
+const binanceSource = '<div><strong>About Binance Accelerator Program</strong></div>' +
+  '<div>The internship includes backend development, testing and documentation for the KYB system.</div>' +
+  '<div><strong>Who may apply</strong></div><div>Current university students and recent graduates.</div>' +
+  '<div><em>*Terms of employment / engagement shall be subject to contract and local applicable laws</em></div>' +
+  '<h3>Responsibilities</h3><ul><li>Maintain the KYB backend system</li>' +
+  '<li>Demonstrate strong troubleshooting skills to solve problems reported by the QA team<br>Assist the CS team to solve customer problems and classify them for system improvement</li></ul>' +
+  '<h3>Requirements</h3><ul><li>Solid Java foundation</li><li>Familiar with MySQL</li></ul>' +
+  '<div><span style="font-size: 16px;">Why Binance</span></div>' +
+  '<div>• Competitive salary and company benefits</div><div>• Work-from-home arrangement</div>' +
+  '<div><em>By submitting a job application, you confirm that you have read and agree to our&nbsp;<a href="https://www.binance.com/en/candidate/privacy/notice">Candidate Privacy Notice</a>.</em></div>';
+for (const source of [binanceSource, sanitizeJobDescriptionHtml(binanceSource, 'Binance')]) {
+  const rendered = buildSynthesizedJobContent({ ...fixture, company: 'Binance' }, source);
+  const binance = cheerio.load(rendered);
+  const responsibilities = binance('h3').filter((_, heading) => binance(heading).text() === 'Key Responsibilities').next('ul');
+  assert.equal(responsibilities.children('li').length, 2);
+  assert.equal(responsibilities.children('li').last().find('br').length, 1, 'Employer line breaks inside responsibilities must survive');
+  assert.equal(binance('h3').filter((_, heading) => binance(heading).text() === 'Why Binance').next('ul').children('li').length, 2);
+  assert.equal(binance('p > em').filter((_, note) => binance(note).text().startsWith('Terms of employment')).length, 1);
+  assert.doesNotMatch(binance.root().text(), /By submitting a job application|agree to our\s*\./);
+  assert.deepEqual(descriptionFormattingIssues(rendered), []);
+}
+const quotedNote = cheerio.load(buildSynthesizedJobContent({ ...fixture, company: 'Binance' },
+  binanceSource + '<blockquote><p><em>*A source footnote inside quoted material.</em></p></blockquote>'));
+assert.equal(quotedNote('blockquote em').text(), '*A source footnote inside quoted material.');
+assert.doesNotMatch(quotedNote.html(), /###STRUCTURE:/);
+
 const jobs: Job[] = JSON.parse(fs.readFileSync('content/jobs-cache.json', 'utf8'));
 const store = readJobDescriptionStore();
 let checked = 0;
