@@ -65,7 +65,7 @@
     "sentAt": "2026-09-27T15:51:30.384Z"
   },
   "4ad685ad-8fc7-4310-adfb-aa23dba9bd1c": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-09-28T11:36:36.066Z",
     "stories": [
       {
@@ -92,6 +92,8 @@
         "source": "Hashtag Web3",
         "originalTitle": "THORChain Refuses Bitget Plea to Block Hacker Wallets"
       }
-    ]
+    ],
+    "messageId": 65709,
+    "sentAt": "2026-09-28T11:36:38.634Z"
   }
 }
