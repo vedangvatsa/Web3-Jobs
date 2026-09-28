@@ -1,5 +1,5 @@
 {
-  "lastIndex": 293,
+  "lastIndex": 295,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -111,7 +111,9 @@
     "ts2",
     "css",
     "be30",
-    "int14"
+    "int14",
+    "cm5",
+    "sec45"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -4624,514 +4626,6 @@
       "platform": "instagram",
       "postedAt": "2026-09-25T03:51:22.563Z",
       "postId": "18449861734120522",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls141",
-      "company": "Socket",
-      "title": "Manager, Technical Account Teams (Europe)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T19:31:36.837Z",
-      "postId": "0xcc4583cfa38ce2da71ab7a30673d5a89bdad7470",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls141",
-      "company": "Socket",
-      "title": "Manager, Technical Account Teams (Europe)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T19:31:36.837Z",
-      "postId": "0xebcabaf60d9727259f481a81ced52390164ea69e",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls141",
-      "company": "Socket",
-      "title": "Manager, Technical Account Teams (Europe)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T19:31:36.837Z",
-      "postId": "0xd0aba913e42a9eb353f425a0f13dc6deaa20987a",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls141",
-      "company": "Socket",
-      "title": "Manager, Technical Account Teams (Europe)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T19:31:36.837Z",
-      "postId": "0x6fff7f598ee29b6092269b43bfe90c522247f22d",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls141",
-      "company": "Socket",
-      "title": "Manager, Technical Account Teams (Europe)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T19:31:36.837Z",
-      "postId": "0x21ba578e765c71c91dc8693724de6e045b843149",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls141",
-      "company": "Socket",
-      "title": "Manager, Technical Account Teams (Europe)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T19:31:36.837Z",
-      "postId": "0xe6b6238dc841b473b0cff0fd8ad3ad47f3416b08",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls141",
-      "company": "Socket",
-      "title": "Manager, Technical Account Teams (Europe)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T19:31:36.837Z",
-      "postId": "0xffbca0fece1126ab8b2388933d0e1741b1ce148f",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls141",
-      "company": "Socket",
-      "title": "Manager, Technical Account Teams (Europe)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T19:31:36.837Z",
-      "postId": "0xecbd5e2eecba757f34eec536bf2efa9529ee388e",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls141",
-      "company": "Socket",
-      "title": "Manager, Technical Account Teams (Europe)",
-      "platform": "linkedin",
-      "postedAt": "2026-09-26T19:31:36.837Z",
-      "postId": "6ab81da93d66d464e5bb4b93",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls141",
-      "company": "Socket",
-      "title": "Manager, Technical Account Teams (Europe)",
-      "platform": "linkedin",
-      "postedAt": "2026-09-26T19:31:36.837Z",
-      "postId": "6ab81db405811e573736a118",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls141",
-      "company": "Socket",
-      "title": "Manager, Technical Account Teams (Europe)",
-      "platform": "facebook",
-      "postedAt": "2026-09-26T19:31:36.837Z",
-      "postId": "691827047618629_1098921642715070",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls141",
-      "company": "Socket",
-      "title": "Manager, Technical Account Teams (Europe)",
-      "platform": "instagram",
-      "postedAt": "2026-09-26T19:31:36.837Z",
-      "postId": "18159130810500702",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr73",
-      "company": "Stripe",
-      "title": "Workplace Project Manager",
-      "platform": "x",
-      "postedAt": "2026-09-26T19:32:33.622Z",
-      "postId": "6ab81dd1ccccb9429c384b02",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "Stripe is hiring Workplace Project Manager\n\nhttps://hashtagweb3.com/mgr73/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2103930747698421907"
-    },
-    {
-      "slug": "mgr73",
-      "company": "Stripe",
-      "title": "Workplace Project Manager",
-      "platform": "threads",
-      "postedAt": "2026-09-26T19:32:33.622Z",
-      "postId": "18093785837151992",
-      "verification": "verified",
-      "expectedText": "Stripe is hiring Workplace Project Manager: https://hashtagweb3.com/mgr73/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DdwyzXPmrB8",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "mgr73",
-      "company": "Stripe",
-      "title": "Workplace Project Manager",
-      "platform": "bluesky",
-      "postedAt": "2026-09-26T19:32:33.622Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwgzmwvuco2f",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr73",
-      "company": "Stripe",
-      "title": "Workplace Project Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T19:32:33.622Z",
-      "postId": "0x6afa3499c50f083a944b887bd8da6ce955c2f5b6",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr73",
-      "company": "Stripe",
-      "title": "Workplace Project Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T19:32:33.622Z",
-      "postId": "0x82e3f8624805811a6b46bb72b941828a0e55ac09",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr73",
-      "company": "Stripe",
-      "title": "Workplace Project Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T19:32:33.622Z",
-      "postId": "0x7fd493f0389911d7e5fc81e6b1298c63a1377af2",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr73",
-      "company": "Stripe",
-      "title": "Workplace Project Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T19:32:33.622Z",
-      "postId": "0x8eba47e7e181ae94072053cd4304b951a74c803a",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr73",
-      "company": "Stripe",
-      "title": "Workplace Project Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T19:32:33.622Z",
-      "postId": "0xe31a896312dcbc7f7f84191d933d909e2a37dad1",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr73",
-      "company": "Stripe",
-      "title": "Workplace Project Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T19:32:33.622Z",
-      "postId": "0x17cd21a73a24a90ee0143d8b1521e70c229b6be5",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr73",
-      "company": "Stripe",
-      "title": "Workplace Project Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T19:32:33.622Z",
-      "postId": "0xb0f49de4bcad35125b91d2573da4ce34b805ff37",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr73",
-      "company": "Stripe",
-      "title": "Workplace Project Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T19:32:33.622Z",
-      "postId": "0x2f6c332fc4f22f7078c0319ee8620ea6f9935d76",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr73",
-      "company": "Stripe",
-      "title": "Workplace Project Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T19:32:33.622Z",
-      "postId": "0x678bddacb2d2b25a815124cd776daae79ee8718f",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr73",
-      "company": "Stripe",
-      "title": "Workplace Project Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T19:32:33.622Z",
-      "postId": "0x7765506462bf7ccd8f05abeccaa445c49f48db67",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr73",
-      "company": "Stripe",
-      "title": "Workplace Project Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T19:32:33.622Z",
-      "postId": "0xc406f32b171af34358b28be7202e21c7e62ee36f",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr73",
-      "company": "Stripe",
-      "title": "Workplace Project Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T19:32:33.622Z",
-      "postId": "0xeb9b5a9a5f988f52b22e5d056ffb06cfcb107df6",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr73",
-      "company": "Stripe",
-      "title": "Workplace Project Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T19:32:33.622Z",
-      "postId": "0xb08829e1278d0d5d3fc5540a66c47e9fc7fa57d3",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr73",
-      "company": "Stripe",
-      "title": "Workplace Project Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T19:32:33.622Z",
-      "postId": "0x54e1cd80cc279aa2b3fb78d0d38538a3c2b34940",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr73",
-      "company": "Stripe",
-      "title": "Workplace Project Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T19:32:33.622Z",
-      "postId": "0x35047df3f2cf3e6dc6afbef0de0b371ab5f50942",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr73",
-      "company": "Stripe",
-      "title": "Workplace Project Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T19:32:33.622Z",
-      "postId": "0xfb6ca4a3212f559872d37006744b3bb63d37b768",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr73",
-      "company": "Stripe",
-      "title": "Workplace Project Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T19:32:33.622Z",
-      "postId": "0x0c8ad43cede10ccbb67d319fc4b7e5fd4e2f5d81",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr73",
-      "company": "Stripe",
-      "title": "Workplace Project Manager",
-      "platform": "linkedin",
-      "postedAt": "2026-09-26T19:32:33.622Z",
-      "postId": "6ab81de13d66d464e5bb4ea5",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr73",
-      "company": "Stripe",
-      "title": "Workplace Project Manager",
-      "platform": "linkedin",
-      "postedAt": "2026-09-26T19:32:33.622Z",
-      "postId": "6ab81deb9f89edbefe7ccde0",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr73",
-      "company": "Stripe",
-      "title": "Workplace Project Manager",
-      "platform": "facebook",
-      "postedAt": "2026-09-26T19:32:33.622Z",
-      "postId": "691827047618629_1098922102715024",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr73",
-      "company": "Stripe",
-      "title": "Workplace Project Manager",
-      "platform": "instagram",
-      "postedAt": "2026-09-26T19:32:33.622Z",
-      "postId": "18079185851419104",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr72",
-      "company": "Rain",
-      "title": "Market Expansion Manager",
-      "platform": "x",
-      "postedAt": "2026-09-27T03:56:28.902Z",
-      "postId": "6ab893ed05811e573741b22e",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "Rain is hiring Market Expansion Manager\n\nhttps://hashtagweb3.com/mgr72/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2104057564476416246"
-    },
-    {
-      "slug": "mgr72",
-      "company": "Rain",
-      "title": "Market Expansion Manager",
-      "platform": "threads",
-      "postedAt": "2026-09-27T03:56:28.902Z",
-      "postId": "18079555601364771",
-      "verification": "verified",
-      "expectedText": "Rain is hiring Market Expansion Manager: https://hashtagweb3.com/mgr72/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DdxseSHG-aU",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "mgr72",
-      "company": "Rain",
-      "title": "Market Expansion Manager",
-      "platform": "bluesky",
-      "postedAt": "2026-09-27T03:56:28.902Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwhvs45tri2e",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr72",
-      "company": "Rain",
-      "title": "Market Expansion Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T03:56:28.902Z",
-      "postId": "0x8b535c1dc9e463ec4229f343038d162ec164c5c6",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr72",
-      "company": "Rain",
-      "title": "Market Expansion Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T03:56:28.902Z",
-      "postId": "0xcc0c832bd00287bc722f82ce9389e88649935cff",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr72",
-      "company": "Rain",
-      "title": "Market Expansion Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T03:56:28.902Z",
-      "postId": "0x970cc71937a389bbe2a17d03ce66c3086e48d692",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr72",
-      "company": "Rain",
-      "title": "Market Expansion Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T03:56:28.902Z",
-      "postId": "0x97d73b2e887f89dc1bbcbe434b70f59451bec118",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr72",
-      "company": "Rain",
-      "title": "Market Expansion Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T03:56:28.902Z",
-      "postId": "0xaf1f92f6ba049c6a7445c3abab245e9481ff06ed",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr72",
-      "company": "Rain",
-      "title": "Market Expansion Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T03:56:28.902Z",
-      "postId": "0xf523f4366aa6a8c3dfaf8f93da2ec9ca9d4e6ce5",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr72",
-      "company": "Rain",
-      "title": "Market Expansion Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T03:56:28.902Z",
-      "postId": "0x213b63c3b664c6b8b2c8ef89778cb1d7df1f33ca",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr72",
-      "company": "Rain",
-      "title": "Market Expansion Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T03:56:28.902Z",
-      "postId": "0x5dd65c26d2b9fa28a8af3ab7577c68a5c673b6dd",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr72",
-      "company": "Rain",
-      "title": "Market Expansion Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T03:56:28.902Z",
-      "postId": "0x1f4ba011199b13d0b790a691c67ad419a90f07f1",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr72",
-      "company": "Rain",
-      "title": "Market Expansion Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T03:56:28.902Z",
-      "postId": "0x59d4e2bfef218a2cf1ac10429cff5ec344fc7bc3",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr72",
-      "company": "Rain",
-      "title": "Market Expansion Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T03:56:28.902Z",
-      "postId": "0x7abca993d7c98b38774dd4025eb0e9c4d48f1a44",
-      "account": "channel:ethereum",
       "verification": "verified"
     },
     {
@@ -10088,6 +9582,516 @@
       "platform": "instagram",
       "postedAt": "2026-09-28T19:41:19.523Z",
       "postId": "18016319912956850",
+      "verification": "verified"
+    },
+    {
+      "slug": "cm5",
+      "company": "Kraken",
+      "title": "Community Lead - Kraken Pro",
+      "platform": "x",
+      "postedAt": "2026-09-28T23:53:36.939Z",
+      "postId": "6abafe01c5484f9414a4b93e",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Kraken is hiring Community Lead - Kraken Pro\n\nhttps://hashtagweb3.com/cm5/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2104721220654518610"
+    },
+    {
+      "slug": "cm5",
+      "company": "Kraken",
+      "title": "Community Lead - Kraken Pro",
+      "platform": "threads",
+      "postedAt": "2026-09-28T23:53:36.939Z",
+      "postId": "18112344332595719",
+      "verification": "verified",
+      "expectedText": "Kraken is hiring Community Lead - Kraken Pro: https://hashtagweb3.com/cm5/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/Dd2aRLyD57A",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "cm5",
+      "company": "Kraken",
+      "title": "Community Lead - Kraken Pro",
+      "platform": "bluesky",
+      "postedAt": "2026-09-28T23:53:36.939Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwmj5n45nc2h",
+      "verification": "verified"
+    },
+    {
+      "slug": "cm5",
+      "company": "Kraken",
+      "title": "Community Lead - Kraken Pro",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T23:53:36.939Z",
+      "postId": "0xf2ed7c769c06aa1771277b356e0285158bc688fe",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "cm5",
+      "company": "Kraken",
+      "title": "Community Lead - Kraken Pro",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T23:53:36.939Z",
+      "postId": "0x1555bd53a3842f872d95f37207865a64bfadf698",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "cm5",
+      "company": "Kraken",
+      "title": "Community Lead - Kraken Pro",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T23:53:36.939Z",
+      "postId": "0x7df1bd3c06107535eb6e0ace1515354e7545030a",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "cm5",
+      "company": "Kraken",
+      "title": "Community Lead - Kraken Pro",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T23:53:36.939Z",
+      "postId": "0xe4a22c10e39c19ae8a159497dbdd201ad0effc67",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "cm5",
+      "company": "Kraken",
+      "title": "Community Lead - Kraken Pro",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T23:53:36.939Z",
+      "postId": "0xe05dd54a6f11b05a1a33af9080f1eaefa21fac4a",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "cm5",
+      "company": "Kraken",
+      "title": "Community Lead - Kraken Pro",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T23:53:36.939Z",
+      "postId": "0xaa3f6384f63590f6ad9ee1c596df7d0f3b91e811",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "cm5",
+      "company": "Kraken",
+      "title": "Community Lead - Kraken Pro",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T23:53:36.939Z",
+      "postId": "0x7e02029391b251582b0010d4270ae209f198baca",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "cm5",
+      "company": "Kraken",
+      "title": "Community Lead - Kraken Pro",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T23:53:36.939Z",
+      "postId": "0x5ea8507dd9dbff49ada329363a6c4e950204ae77",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "cm5",
+      "company": "Kraken",
+      "title": "Community Lead - Kraken Pro",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T23:53:36.939Z",
+      "postId": "0x2de5aac4117cb631e4ae6924903944cd4902b40c",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "cm5",
+      "company": "Kraken",
+      "title": "Community Lead - Kraken Pro",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T23:53:36.939Z",
+      "postId": "0xce5b55a4c48a21b86a43b2c279180ac8405a7ece",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "cm5",
+      "company": "Kraken",
+      "title": "Community Lead - Kraken Pro",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T23:53:36.939Z",
+      "postId": "0x03ccef03c3fa135d1e64f6c408fa6124fcc24ce6",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "cm5",
+      "company": "Kraken",
+      "title": "Community Lead - Kraken Pro",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T23:53:36.939Z",
+      "postId": "0xebcd8c464f44ad26896e55dc2f05deca47efe751",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "cm5",
+      "company": "Kraken",
+      "title": "Community Lead - Kraken Pro",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T23:53:36.939Z",
+      "postId": "0xfbf9a24ab019b40a5911e3a4278d946dfa4f1f69",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "cm5",
+      "company": "Kraken",
+      "title": "Community Lead - Kraken Pro",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T23:53:36.939Z",
+      "postId": "0xd75eb987f0e58dedd846b40c18723adc9ff6cbdf",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "cm5",
+      "company": "Kraken",
+      "title": "Community Lead - Kraken Pro",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T23:53:36.939Z",
+      "postId": "0xbf323199a9ef6c8d7af1f31953c9c2f419605a33",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "cm5",
+      "company": "Kraken",
+      "title": "Community Lead - Kraken Pro",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T23:53:36.939Z",
+      "postId": "0xfbf3ea6b32bff58d0783f66c503276be49a06cf5",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "cm5",
+      "company": "Kraken",
+      "title": "Community Lead - Kraken Pro",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T23:53:36.939Z",
+      "postId": "0xc2b201ee9c0c12aab9b71880636de5f0e7123ce7",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "cm5",
+      "company": "Kraken",
+      "title": "Community Lead - Kraken Pro",
+      "platform": "linkedin",
+      "postedAt": "2026-09-28T23:53:36.939Z",
+      "postId": "6abafe14b6b261489587b907",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "cm5",
+      "company": "Kraken",
+      "title": "Community Lead - Kraken Pro",
+      "platform": "linkedin",
+      "postedAt": "2026-09-28T23:53:36.939Z",
+      "postId": "6abafe1ec5484f9414a4bbd9",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "cm5",
+      "company": "Kraken",
+      "title": "Community Lead - Kraken Pro",
+      "platform": "linkedin",
+      "postedAt": "2026-09-28T23:53:36.939Z",
+      "postId": "urn:li:share:7510487081555611648",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "cm5",
+      "company": "Kraken",
+      "title": "Community Lead - Kraken Pro",
+      "platform": "facebook",
+      "postedAt": "2026-09-28T23:53:36.939Z",
+      "postId": "691827047618629_1100976245842943",
+      "verification": "verified"
+    },
+    {
+      "slug": "cm5",
+      "company": "Kraken",
+      "title": "Community Lead - Kraken Pro",
+      "platform": "instagram",
+      "postedAt": "2026-09-28T23:53:36.939Z",
+      "postId": "18240614968314892",
+      "verification": "verified"
+    },
+    {
+      "slug": "sec45",
+      "company": "Binance",
+      "title": "Binance Accelerator Program - Internal Audit (Technology)",
+      "platform": "x",
+      "postedAt": "2026-09-28T23:54:39.552Z",
+      "postId": "6abafe3fb6b261489587bd54",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Binance is hiring Binance Accelerator Program - Internal Audit (Technology)\n\nhttps://hashtagweb3.com/sec45/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2104721482941186288"
+    },
+    {
+      "slug": "sec45",
+      "company": "Binance",
+      "title": "Binance Accelerator Program - Internal Audit (Technology)",
+      "platform": "threads",
+      "postedAt": "2026-09-28T23:54:39.552Z",
+      "postId": "17992760676029277",
+      "verification": "verified",
+      "expectedText": "Binance is hiring Binance Accelerator Program - Internal Audit (Technology): https://hashtagweb3.com/sec45/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/Dd2aY0Bj1fp",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "sec45",
+      "company": "Binance",
+      "title": "Binance Accelerator Program - Internal Audit (Technology)",
+      "platform": "bluesky",
+      "postedAt": "2026-09-28T23:54:39.552Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwmj7kx6zt2o",
+      "verification": "verified"
+    },
+    {
+      "slug": "sec45",
+      "company": "Binance",
+      "title": "Binance Accelerator Program - Internal Audit (Technology)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T23:54:39.552Z",
+      "postId": "0x5de3be5cc4b7ec97037e0aa5e329d6d9a0c512e7",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "sec45",
+      "company": "Binance",
+      "title": "Binance Accelerator Program - Internal Audit (Technology)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T23:54:39.552Z",
+      "postId": "0xbe72bf57c7f3525d1067ccf25fdf4d65c819b33e",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "sec45",
+      "company": "Binance",
+      "title": "Binance Accelerator Program - Internal Audit (Technology)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T23:54:39.552Z",
+      "postId": "0x30213e2a6c54210421166c55818164a660c94c57",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "sec45",
+      "company": "Binance",
+      "title": "Binance Accelerator Program - Internal Audit (Technology)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T23:54:39.552Z",
+      "postId": "0x9c2b18af5f042a2457bfbe1bfcc379ae9a115b96",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "sec45",
+      "company": "Binance",
+      "title": "Binance Accelerator Program - Internal Audit (Technology)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T23:54:39.552Z",
+      "postId": "0xc3c288055a72e04952acbc83b4861ec3864dfc8d",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "sec45",
+      "company": "Binance",
+      "title": "Binance Accelerator Program - Internal Audit (Technology)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T23:54:39.552Z",
+      "postId": "0x50e33ae256ccfd05f7ea99b96098641cd2144fd7",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "sec45",
+      "company": "Binance",
+      "title": "Binance Accelerator Program - Internal Audit (Technology)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T23:54:39.552Z",
+      "postId": "0xc35261a99b669fe31d6982092151d3b9531f0d5e",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "sec45",
+      "company": "Binance",
+      "title": "Binance Accelerator Program - Internal Audit (Technology)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T23:54:39.552Z",
+      "postId": "0xff74e9d3a007d511a3e8e232a02fc9b396a74e4e",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "sec45",
+      "company": "Binance",
+      "title": "Binance Accelerator Program - Internal Audit (Technology)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T23:54:39.552Z",
+      "postId": "0xfa3d40e040d1411deff9dbf3ac4aa8d0b70ddcce",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "sec45",
+      "company": "Binance",
+      "title": "Binance Accelerator Program - Internal Audit (Technology)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T23:54:39.552Z",
+      "postId": "0x48f5ac762f25a9433f7c1a95460588b2ec3973ed",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "sec45",
+      "company": "Binance",
+      "title": "Binance Accelerator Program - Internal Audit (Technology)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T23:54:39.552Z",
+      "postId": "0x1ee288abcff7a8b9f64e38351e3bec0e9e58c0d0",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "sec45",
+      "company": "Binance",
+      "title": "Binance Accelerator Program - Internal Audit (Technology)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T23:54:39.552Z",
+      "postId": "0x4fc6d77b25b44505e51a96cd88ad82792881fa0a",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "sec45",
+      "company": "Binance",
+      "title": "Binance Accelerator Program - Internal Audit (Technology)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T23:54:39.552Z",
+      "postId": "0xd7157bbec75bdcea6d6b11ad12d6e615b2025687",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "sec45",
+      "company": "Binance",
+      "title": "Binance Accelerator Program - Internal Audit (Technology)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T23:54:39.552Z",
+      "postId": "0x9d489a419ba671681cbf2a593e490f41944c6750",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "sec45",
+      "company": "Binance",
+      "title": "Binance Accelerator Program - Internal Audit (Technology)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T23:54:39.552Z",
+      "postId": "0x0b901278b108f5c48d8f62f8844e1c3e463852bc",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "sec45",
+      "company": "Binance",
+      "title": "Binance Accelerator Program - Internal Audit (Technology)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T23:54:39.552Z",
+      "postId": "0x35502fcb295f279450ea93a20e31f542e999b3f4",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "sec45",
+      "company": "Binance",
+      "title": "Binance Accelerator Program - Internal Audit (Technology)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T23:54:39.552Z",
+      "postId": "0x8bbfe5778e8753ab6c4e2188b0908a825a10742a",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "sec45",
+      "company": "Binance",
+      "title": "Binance Accelerator Program - Internal Audit (Technology)",
+      "platform": "linkedin",
+      "postedAt": "2026-09-28T23:54:39.552Z",
+      "postId": "6abafe5493a81b612b539455",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "sec45",
+      "company": "Binance",
+      "title": "Binance Accelerator Program - Internal Audit (Technology)",
+      "platform": "linkedin",
+      "postedAt": "2026-09-28T23:54:39.552Z",
+      "postId": "6abafe5eb6b261489587bfdb",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "sec45",
+      "company": "Binance",
+      "title": "Binance Accelerator Program - Internal Audit (Technology)",
+      "platform": "linkedin",
+      "postedAt": "2026-09-28T23:54:39.552Z",
+      "postId": "urn:li:share:7510487348745359360",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "sec45",
+      "company": "Binance",
+      "title": "Binance Accelerator Program - Internal Audit (Technology)",
+      "platform": "facebook",
+      "postedAt": "2026-09-28T23:54:39.552Z",
+      "postId": "691827047618629_1100976759176225",
+      "verification": "verified"
+    },
+    {
+      "slug": "sec45",
+      "company": "Binance",
+      "title": "Binance Accelerator Program - Internal Audit (Technology)",
+      "platform": "instagram",
+      "postedAt": "2026-09-28T23:54:39.552Z",
+      "postId": "18021328061928307",
       "verification": "verified"
     }
   ]
