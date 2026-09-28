@@ -96,7 +96,7 @@
     "sentAt": "2026-09-28T11:37:43.205Z"
   },
   "2fea86de-13d9-42e3-902a-521d0b012c0f": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-09-28T19:50:45.395Z",
     "stories": [
       {
@@ -124,6 +124,8 @@
         "source": "The Block",
         "originalTitle": "Citi expands Coinbase partnership to power stablecoin payments for businesses"
       }
-    ]
+    ],
+    "messageId": 155498,
+    "sentAt": "2026-09-28T19:50:48.400Z"
   }
 }
