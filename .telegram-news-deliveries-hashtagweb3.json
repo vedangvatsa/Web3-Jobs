@@ -62,5 +62,35 @@
     ],
     "messageId": 155484,
     "sentAt": "2026-09-27T15:54:40.723Z"
+  },
+  "e0c0757a-1f4c-4c97-8c52-c67a50a51c31": {
+    "status": "reserved",
+    "reservedAt": "2026-09-28T11:37:40.202Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "California Bans Public Officials From Issuing Memecoins",
+        "summary": "New legislation prohibits state and local officials from creating memecoins and restricts official-linked tokens starting in 2027.",
+        "link": "https://hashtagweb3.com/california-memecoins?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "California Bars Public Officials From Issuing Memecoins"
+      },
+      {
+        "index": -1,
+        "headline": "THORChain Declines Bitget Request to Block Hacker Wallets",
+        "summary": "Citing its permissionless design, the network denied a request from Bitget's CEO to freeze stolen crypto assets.",
+        "link": "https://hashtagweb3.com/thorchain-bitget?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "THORChain Refuses Bitget Plea to Block Hacker Wallets"
+      },
+      {
+        "index": -1,
+        "headline": "Duelbits Suffers $7 Million Hot-Wallet Hack",
+        "summary": "The casino went offline to rebuild payment systems, assuring players that user funds remain secure.",
+        "link": "https://hashtagweb3.com/duelbits-hack?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Duelbits confirms $7 million hot-wallet hack and extends casino downtime"
+      }
+    ]
   }
 }
