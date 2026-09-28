@@ -97,7 +97,7 @@
     "sentAt": "2026-09-28T11:36:38.634Z"
   },
   "66c29e06-4fb0-4a04-abe4-8626c5375c83": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-09-28T19:45:03.776Z",
     "stories": [
       {
@@ -125,6 +125,8 @@
         "source": "Decrypt",
         "originalTitle": "After AI Agent Hacked Its Government, Australia Calls Altman and Amodei to Testify"
       }
-    ]
+    ],
+    "messageId": 65710,
+    "sentAt": "2026-09-28T19:45:06.842Z"
   }
 }
