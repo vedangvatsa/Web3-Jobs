@@ -1,13 +1,93 @@
 {
-  "generatedAt": "2026-09-28T03:31:42.645Z",
+  "generatedAt": "2026-09-28T10:01:28.301Z",
   "items": [
     {
-      "title": "Newsom signs California ban on public officials issuing memecoins ",
-      "link": "https://cointelegraph.com/news/newsom-signs-california-ban-on-public-officials-issuing-memecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Mon, 28 Sep 2026 02:23:42 +0000",
-      "creator": "Felix Ng",
-      "contentSnippet": "The law also restricts crypto companies from offering certain memecoins tied to public officials to California residents and takes effect for tokens i...",
+      "title": "Bitcoin rally takes a breather ahead of key U.S. employment data: Crypto Week Ahead",
+      "link": "https://www.coindesk.com/markets/2026/09/28/bitcoin-rally-takes-a-breather-ahead-of-key-u-s-employment-data-crypto-week-ahead",
+      "pubDate": "Mon, 28 Sep 2026 09:45:55 +0000",
+      "creator": "Jamie Crawley",
+      "contentSnippet": "Your look at what's coming in the week starting Sept. 28.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "California Gov. Gavin Newsom bans public officials from launching memecoins, takes aim at Trump",
+      "link": "https://www.theblock.co/news/regulation/2026-09-28-california-gov-gavin-newsom-bans-public-officials-from-launching-memecoins-takes-aim-at-trump-416970",
+      "pubDate": "Mon, 28 Sep 2026 09:32:57 +0000",
+      "creator": "Danny Park",
+      "contentSnippet": "Newsom signed several other bills, including one intended to set clearer rules for restitution when investors lose money in crypto scams.",
+      "source": "The Block"
+    },
+    {
+      "title": "Bitcoin bears pay to bet on further declines as futures positions near yearly lows",
+      "link": "https://www.coindesk.com/markets/2026/09/28/bitcoin-bears-pay-to-bet-on-further-declines-as-futures-positions-near-yearly-lows",
+      "pubDate": "Mon, 28 Sep 2026 09:29:34 +0000",
+      "creator": "James Van Straten",
+      "contentSnippet": "Overall demand for leveraged exposure remains weak, marked by sliding futures open interest. The capital that's still in the market appears skewed tow...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Scammers steal $2M in ETH as fake GIWA network fools DYORSWAP",
+      "link": "https://cointelegraph.com/news/fake-giwa-blockchain-scam-drains-2m-eth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 28 Sep 2026 09:19:50 +0000",
+      "creator": "Ezra Reguerra",
+      "contentSnippet": "DYORSWAP said it paid more than 200 ETH in compensation, while Upbit operator Dunamu’s GIWA warned that its mainnet had not launched.",
       "source": "Cointelegraph"
+    },
+    {
+      "title": "Bitcoin drops under $83K as liquidity hunting keeps bulls from targeting yearly open",
+      "link": "https://cointelegraph.com/markets/bitcoin-drops-under-83k-as-liquidity-hunting-keeps-bulls-from-targeting-yearly-open?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 28 Sep 2026 09:03:20 +0000",
+      "creator": "William Suberg",
+      "contentSnippet": "Bitcoin joined US stock futures in dropping on Monday after US president Donald Trump did not commit to permanently halting strikes on Iran.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Bitcoin ETFs draw $2.4B in biggest inflow week since October 2025",
+      "link": "https://cointelegraph.com/markets/bitcoin-etf-billion-biggest-inflow-week-october-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 28 Sep 2026 08:24:40 +0000",
+      "creator": "Helen Partz",
+      "contentSnippet": "Daily inflows slowed as Bitcoin pulled back from above $87,100, while Ether and XRP ETFs also attracted fresh capital during the week.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "RedotPay completes financial audit as it presses ahead with U.S. IPO plans",
+      "link": "https://www.coindesk.com/business/2026/09/28/redotpay-completes-financial-audit-as-it-presses-ahead-with-u-s-ipo-plans",
+      "pubDate": "Mon, 28 Sep 2026 07:50:00 +0000",
+      "creator": "Will Canny",
+      "contentSnippet": "The stablecoin payments company said the audit is part of its preparations to go public, disputing an August report that the listing had been put on h...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Solana ETFs Smash Record, With $188,100,000 In Weekly Inflows",
+      "link": "https://dailyhodl.com/2026/09/28/solana-etfs-smash-record-with-188100000-in-weekly-inflows/",
+      "pubDate": "Mon, 28 Sep 2026 07:09:45 +0000",
+      "creator": "Agent",
+      "contentSnippet": "U.S. spot Solana ETFs recorded a record $188 million in net inflows for the week of September 21-25, 2026, with every fund attracting new money and Bi...",
+      "source": "Daily Hodl"
+    },
+    {
+      "title": "South Korea weighs crypto market makers after JPYC trades at 4 times peg ",
+      "link": "https://cointelegraph.com/news/south-korea-weighs-crypto-market-makers-after-jpyc-trades-at-4-times-peg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 28 Sep 2026 05:42:45 +0000",
+      "creator": "Felix Ng",
+      "contentSnippet": "Crypto market making is effectively restricted under South Korea’s manipulation rules, but regulators are reconsidering the approach after a JPYC spik...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Vitalik Buterin says Hegotá could be Ethereum’s last ‘normal’ fork",
+      "link": "https://cointelegraph.com/news/vitalik-hegota-ethereum-last-normal-fork?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 28 Sep 2026 04:44:15 +0000",
+      "creator": "Ezra Reguerra",
+      "contentSnippet": "Ethereum’s Vitalik Buterin said PeerDAS marked the start of Ethereum’s transition “from being just a blockchain to being something much more powerful...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Bitcoin, Nasdaq futures decline as Trump won’t rule out more Iran strikes",
+      "link": "https://www.coindesk.com/markets/2026/09/28/bitcoin-and-nasdaq-futures-decline-as-trump-won-t-rule-out-more-iran-strikes",
+      "pubDate": "Mon, 28 Sep 2026 03:58:52 +0000",
+      "creator": "Omkar Godbole",
+      "contentSnippet": "Trump on Sunday didn’t rule out additional strikes on Iran before the midterm elections, even as he said the war could end soon.",
+      "source": "Coindesk"
     },
     {
       "title": "Zano rolls blockchain back a month after Gateway Address exploit",
@@ -90,12 +170,12 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "Bitcoin ETFs turn positive for 2026 with $2.4 billion weekly inflow, their largest since October",
-      "link": "https://www.theblock.co/news/markets/2026-09-26-bitcoin-etfs-turn-positive-for-2026-with-2-4-billion-weekly-inflow-their-largest-since-october-416944",
-      "pubDate": "Sat, 26 Sep 2026 17:24:12 +0000",
-      "creator": "Zack Abrams",
-      "contentSnippet": "The inflows pushed bitcoin ETFs' year-to-date net flows back above zero, after the funds sat roughly $5.8 billion in the red just two months ago.",
-      "source": "The Block"
+      "title": "Bitcoin ETFs Notch Seven-Day Winning Streak as 2026 Flows Turn Green",
+      "link": "https://decrypt.co/379391/bitcoin-etfs-notch-seven-day-winning-streak-as-2026-flows-turn-green",
+      "pubDate": "Sat, 26 Sep 2026 17:01:03 +0000",
+      "creator": "Staff",
+      "contentSnippet": "Bitcoin ETFs have drawn nearly $3 billion over seven straight sessions, erasing post-Clarity Act losses and pushing 2026 flows back into positive terr...",
+      "source": "Decrypt"
     },
     {
       "title": "How Crypto Stopped Waiting for Congress and Learned to Love the Regulators",
@@ -138,7 +218,7 @@
       "source": "Coindesk"
     },
     {
-      "title": "Bitget hacker moves $83 million in stolen XRP that Ripple cannot freeze",
+      "title": "Bitget hacker moves $83 million in stolen XRP beyond reach of freeze controls",
       "link": "https://www.coindesk.com/markets/2026/09/26/bitget-hacker-moves-usd83-million-in-stolen-xrp-that-ripple-cannot-freeze",
       "pubDate": "Sat, 26 Sep 2026 12:56:41 +0000",
       "creator": "Shaurya Malwa",
@@ -152,14 +232,6 @@
       "creator": "Shaurya Malwa",
       "contentSnippet": "Researchers have mapped out private bitcoin-denominated transfers that run alongside Bitcoin, but the system still lacks a finished way to lock up rea...",
       "source": "Coindesk"
-    },
-    {
-      "title": "New York Sues Polymarket for Allegedly Running Illegal Gambling Operation",
-      "link": "https://dailyhodl.com/2026/09/26/new-york-sues-polymarket-for-running-illegal-gambling-operation/",
-      "pubDate": "Sat, 26 Sep 2026 11:45:19 +0000",
-      "creator": "Agent",
-      "contentSnippet": "New York Attorney General Letitia James and Governor Kathy Hochul sued QCX LLC doing business as Polymarket US for operating an unlicensed prediction ...",
-      "source": "Daily Hodl"
     },
     {
       "title": "SEC Commissioner Hester Peirce to leave post on Oct. 2",
@@ -386,14 +458,6 @@
       "source": "Decrypt"
     },
     {
-      "title": "Bitcoin ETF inflows slow to $191M as six-day streak reaches $2.8B",
-      "link": "https://cointelegraph.com/markets/bitcoin-etf-six-day-streak-2-8-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Fri, 25 Sep 2026 07:41:36 +0000",
-      "creator": "Helen Partz",
-      "contentSnippet": "US spot Bitcoin ETFs drew $191 million Thursday as daily inflows slowed for a third day, lifting year-to-date net flows to $787 million.",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "Samourai Wallet co-founder faces transfer after 30-day jail ordeal",
       "link": "https://cointelegraph.com/news/samourai-wallet-co-founder-30-day-prison-transfer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Fri, 25 Sep 2026 07:28:18 +0000",
@@ -402,36 +466,12 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "Live updates: Bitcoin moves to $84,000, oil slides on latest report of Middle East progress",
-      "link": "https://www.coindesk.com/markets/2026/09/25/live-updates-bitcoin-steadies-near-usd84-000-as-the-bond-selloff-pauses",
-      "pubDate": "Fri, 25 Sep 2026 07:09:11 +0000",
-      "creator": "Shaurya Malwa",
-      "contentSnippet": "Separate reports from Axios and CBS suggest some positive movement in U.S.-Iran negotiations.",
-      "source": "Coindesk"
-    },
-    {
-      "title": "Block brings Bitcoin Lightning payments to x402 for AI agents",
-      "link": "https://cointelegraph.com/news/block-brings-bitcoin-lightning-payments-to-x402-for-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Fri, 25 Sep 2026 02:00:54 +0000",
-      "creator": "Felix Ng",
-      "contentSnippet": "Block joins Google, Microsoft, AWS and Coinbase in backing x402, an open payment standard enabling agentic AI commerce.",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Asia dominates Crypto Adoption Index, Bitget’s $352M hack: Asia Express",
-      "link": "https://cointelegraph.com/magazine/asia-dominates-crypto-adoption-index-bitgets-356m-hack-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Thu, 24 Sep 2026 23:27:17 +0000",
-      "creator": "Andrew Fenton",
-      "contentSnippet": "The APAC region accounts for half of the Global Crypto Adoption Index. Bitget suffers massive $352M loss and OpenAI forgets to mention its agents hack...",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "U.S. Federal Reserve moves on proposals to implement GENIUS Act for stablecoins",
-      "link": "https://www.coindesk.com/policy/2026/09/24/u-s-federal-reserve-moves-on-proposals-to-implement-genius-act-for-stablecoins",
-      "pubDate": "Thu, 24 Sep 2026 22:28:49 +0000",
-      "creator": "Jesse Hamilton",
-      "contentSnippet": "The Fed proposed rules on putting last year's GENIUS Act into place with regulations, including those governing stablecoin yield programs.",
-      "source": "Coindesk"
+      "title": "Federal Reserve Unveils Stablecoin Rules on Reserves and Capital",
+      "link": "https://decrypt.co/379274/federal-reserve-unveils-stablecoin-rules-on-reserves-and-capital",
+      "pubDate": "Thu, 24 Sep 2026 21:56:03 +0000",
+      "creator": "Staff",
+      "contentSnippet": "The central bank opened two proposals for comment under the GENIUS Act, requiring issuers it supervises to back tokens fully with safe assets and crea...",
+      "source": "Decrypt"
     },
     {
       "title": "Bitget confirms $387.5 million security breach affecting exchange hot wallets",
@@ -466,6 +506,14 @@
       "source": "The Block"
     },
     {
+      "title": "New York Wants to Ban Polymarket, Lawsuit Calls It 'Illegal Gambling Operation'",
+      "link": "https://decrypt.co/379244/new-york-ban-polymarket-lawsuit",
+      "pubDate": "Thu, 24 Sep 2026 17:51:31 +0000",
+      "creator": "Staff",
+      "contentSnippet": "Attorney General Letitia James and Governor Kathy Hochul allege the prediction market operates without a license and exposes New Yorkers to gambling h...",
+      "source": "Decrypt"
+    },
+    {
       "title": "In Her Final Weeks, SEC's Peirce Calls for Ending the KYC 'Panopticon'",
       "link": "https://decrypt.co/379217/sec-peirce-end-kyc-panopticon-zero-knowledge-proofs",
       "pubDate": "Thu, 24 Sep 2026 17:31:03 +0000",
@@ -496,14 +544,6 @@
       "creator": "Agent",
       "contentSnippet": "Police believe the robbery was planned and targeted, with instructions relayed to the three attackers by a fourth man on a video call.",
       "source": "Decrypt"
-    },
-    {
-      "title": "Ondo launches onchain portfolio tokens based on BlackRock-developed strategies",
-      "link": "https://www.theblock.co/news/markets/2026-09-24-ondo-launches-onchain-portfolio-tokens-based-blackrock-developed-strategies-416260",
-      "pubDate": "Thu, 24 Sep 2026 14:27:45 +0000",
-      "creator": "James Hunt",
-      "contentSnippet": "Ondo has launched three onchain portfolio tokens based on model portfolio strategies developed by BlackRock.",
-      "source": "The Block"
     },
     {
       "title": "Solana Foundation Hires Binance's Former Global CMO for Institutional Push",
