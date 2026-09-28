@@ -64,7 +64,7 @@
     "sentAt": "2026-09-27T15:54:40.723Z"
   },
   "e0c0757a-1f4c-4c97-8c52-c67a50a51c31": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-09-28T11:37:40.202Z",
     "stories": [
       {
@@ -91,6 +91,8 @@
         "source": "Hashtag Web3",
         "originalTitle": "Duelbits confirms $7 million hot-wallet hack and extends casino downtime"
       }
-    ]
+    ],
+    "messageId": 155497,
+    "sentAt": "2026-09-28T11:37:43.205Z"
   }
 }
