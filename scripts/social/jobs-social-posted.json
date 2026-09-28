@@ -1,5 +1,5 @@
 {
-  "lastIndex": 291,
+  "lastIndex": 293,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -109,7 +109,9 @@
     "an29",
     "ops35",
     "ts2",
-    "css"
+    "css",
+    "be30",
+    "int14"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -4622,514 +4624,6 @@
       "platform": "instagram",
       "postedAt": "2026-09-25T03:51:22.563Z",
       "postId": "18449861734120522",
-      "verification": "verified"
-    },
-    {
-      "slug": "an44",
-      "company": "BVNK",
-      "title": "Senior Analyst / SME - EDD",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T11:31:35.282Z",
-      "postId": "0x4df643a1a62d456ed06ee45c9b3c017c461698ee",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "an44",
-      "company": "BVNK",
-      "title": "Senior Analyst / SME - EDD",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T11:31:35.282Z",
-      "postId": "0x0c61fcbd00cf857c3790b9ae17c50b7a8dcd7865",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "an44",
-      "company": "BVNK",
-      "title": "Senior Analyst / SME - EDD",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T11:31:35.282Z",
-      "postId": "0x74bb4e9d2ac7f46ae6239743180f3af7edf0afbd",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "an44",
-      "company": "BVNK",
-      "title": "Senior Analyst / SME - EDD",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T11:31:35.282Z",
-      "postId": "0x68be1014ee2de59f422369452357021e640270d5",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "an44",
-      "company": "BVNK",
-      "title": "Senior Analyst / SME - EDD",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T11:31:35.282Z",
-      "postId": "0x40d4ac8351fae1253112f58a6417e495bd21c476",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "an44",
-      "company": "BVNK",
-      "title": "Senior Analyst / SME - EDD",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T11:31:35.282Z",
-      "postId": "0x763452c790b574a797c2cb7fca7f690b861464fe",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "an44",
-      "company": "BVNK",
-      "title": "Senior Analyst / SME - EDD",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T11:31:35.282Z",
-      "postId": "0x13e54cde5a4c336a53136f2c24462349e7e974b9",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "an44",
-      "company": "BVNK",
-      "title": "Senior Analyst / SME - EDD",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T11:31:35.282Z",
-      "postId": "0x5e35b6fcddbb1ac39678da45e89b0e11df85922f",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "an44",
-      "company": "BVNK",
-      "title": "Senior Analyst / SME - EDD",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T11:31:35.282Z",
-      "postId": "0x612ff9118e44c9f6dcc5d470d17bbc4c52ab5136",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "an44",
-      "company": "BVNK",
-      "title": "Senior Analyst / SME - EDD",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T11:31:35.282Z",
-      "postId": "0xd0de65e8769b3fb6b33d2e7ff9ee60882fbf0b84",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "an44",
-      "company": "BVNK",
-      "title": "Senior Analyst / SME - EDD",
-      "platform": "linkedin",
-      "postedAt": "2026-09-26T11:31:35.282Z",
-      "postId": "6ab7ad2ae18c79c97102d926",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "an44",
-      "company": "BVNK",
-      "title": "Senior Analyst / SME - EDD",
-      "platform": "linkedin",
-      "postedAt": "2026-09-26T11:31:35.282Z",
-      "postId": "6ab7ad353afb9171a82f8919",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "an44",
-      "company": "BVNK",
-      "title": "Senior Analyst / SME - EDD",
-      "platform": "facebook",
-      "postedAt": "2026-09-26T11:31:35.282Z",
-      "postId": "691827047618629_1098552849418616",
-      "verification": "verified"
-    },
-    {
-      "slug": "an44",
-      "company": "BVNK",
-      "title": "Senior Analyst / SME - EDD",
-      "platform": "instagram",
-      "postedAt": "2026-09-26T11:31:35.282Z",
-      "postId": "17917971090448291",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls142",
-      "company": "Stripe",
-      "title": "Sales Manager, Velocity (Canada)",
-      "platform": "x",
-      "postedAt": "2026-09-26T11:32:36.179Z",
-      "postId": "6ab7ad54712d68a8b146f862",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "Stripe is hiring Sales Manager, Velocity (Canada)\n\nhttps://hashtagweb3.com/sls142/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2103809962853937413"
-    },
-    {
-      "slug": "sls142",
-      "company": "Stripe",
-      "title": "Sales Manager, Velocity (Canada)",
-      "platform": "threads",
-      "postedAt": "2026-09-26T11:32:36.179Z",
-      "postId": "17955330168252277",
-      "verification": "verified",
-      "expectedText": "Stripe is hiring Sales Manager, Velocity (Canada): https://hashtagweb3.com/sls142/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/Ddv74CWm8r8",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "sls142",
-      "company": "Stripe",
-      "title": "Sales Manager, Velocity (Canada)",
-      "platform": "bluesky",
-      "postedAt": "2026-09-26T11:32:36.179Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwg6sph5fk24",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls142",
-      "company": "Stripe",
-      "title": "Sales Manager, Velocity (Canada)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T11:32:36.179Z",
-      "postId": "0xbeb6f190b510eb14d608e87698641c09d96e9d8c",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls142",
-      "company": "Stripe",
-      "title": "Sales Manager, Velocity (Canada)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T11:32:36.179Z",
-      "postId": "0x2da585dc20a170b476e6993cae4b23569d6557f5",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls142",
-      "company": "Stripe",
-      "title": "Sales Manager, Velocity (Canada)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T11:32:36.179Z",
-      "postId": "0xa8afe594076736eea0185ae43121c8839f5a945f",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls142",
-      "company": "Stripe",
-      "title": "Sales Manager, Velocity (Canada)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T11:32:36.179Z",
-      "postId": "0x9259cabbfe85d04eee0e11d3ad31f0825dfbc2e2",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls142",
-      "company": "Stripe",
-      "title": "Sales Manager, Velocity (Canada)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T11:32:36.179Z",
-      "postId": "0xf5bbe7918d60f4e585b650f8b5d82499b27d29d0",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls142",
-      "company": "Stripe",
-      "title": "Sales Manager, Velocity (Canada)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T11:32:36.179Z",
-      "postId": "0xe6410c9b9b84f0073530743cb66f06a791634027",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls142",
-      "company": "Stripe",
-      "title": "Sales Manager, Velocity (Canada)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T11:32:36.179Z",
-      "postId": "0x71f6ab7861ba0abc8909a2c1a131d08460c0db14",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls142",
-      "company": "Stripe",
-      "title": "Sales Manager, Velocity (Canada)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T11:32:36.179Z",
-      "postId": "0x87b3e854d3f16e694825601f56fbd73fa4465c13",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls142",
-      "company": "Stripe",
-      "title": "Sales Manager, Velocity (Canada)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T11:32:36.179Z",
-      "postId": "0x277d67b8747100e1472ac6bb98d6265c179ecb4b",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls142",
-      "company": "Stripe",
-      "title": "Sales Manager, Velocity (Canada)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T11:32:36.179Z",
-      "postId": "0x9df11c794510c7f0f6cc60e68f967051daa4c8be",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls142",
-      "company": "Stripe",
-      "title": "Sales Manager, Velocity (Canada)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T11:32:36.179Z",
-      "postId": "0x3de2f45227997c5b829930a7b607e99c4c9406b9",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls142",
-      "company": "Stripe",
-      "title": "Sales Manager, Velocity (Canada)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T11:32:36.179Z",
-      "postId": "0x436cc608a446a19fed5c237ca290402fe7913c4f",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls142",
-      "company": "Stripe",
-      "title": "Sales Manager, Velocity (Canada)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T11:32:36.179Z",
-      "postId": "0x56be73059f08ae57e6531ad51a46a933ed8c8d18",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls142",
-      "company": "Stripe",
-      "title": "Sales Manager, Velocity (Canada)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T11:32:36.179Z",
-      "postId": "0x254e7b92b0998ed24949007b7df81f85af6910de",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls142",
-      "company": "Stripe",
-      "title": "Sales Manager, Velocity (Canada)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T11:32:36.179Z",
-      "postId": "0x10b2b45e7a44f26deea7e1785d0b5974729de763",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls142",
-      "company": "Stripe",
-      "title": "Sales Manager, Velocity (Canada)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T11:32:36.179Z",
-      "postId": "0x197efce9be6e2abd4ef487cf914afa7af54839d8",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls142",
-      "company": "Stripe",
-      "title": "Sales Manager, Velocity (Canada)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T11:32:36.179Z",
-      "postId": "0xe9d88e1fb7a314cf211aa84645ec9aecbc039ef8",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls142",
-      "company": "Stripe",
-      "title": "Sales Manager, Velocity (Canada)",
-      "platform": "linkedin",
-      "postedAt": "2026-09-26T11:32:36.179Z",
-      "postId": "6ab7ad6538c0afb4ce643ac5",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls142",
-      "company": "Stripe",
-      "title": "Sales Manager, Velocity (Canada)",
-      "platform": "linkedin",
-      "postedAt": "2026-09-26T11:32:36.179Z",
-      "postId": "6ab7ad6f38c0afb4ce643bf6",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls142",
-      "company": "Stripe",
-      "title": "Sales Manager, Velocity (Canada)",
-      "platform": "facebook",
-      "postedAt": "2026-09-26T11:32:36.179Z",
-      "postId": "691827047618629_1098553546085213",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls142",
-      "company": "Stripe",
-      "title": "Sales Manager, Velocity (Canada)",
-      "platform": "instagram",
-      "postedAt": "2026-09-26T11:32:36.179Z",
-      "postId": "18631183861041276",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls141",
-      "company": "Socket",
-      "title": "Manager, Technical Account Teams (Europe)",
-      "platform": "x",
-      "postedAt": "2026-09-26T19:31:36.837Z",
-      "postId": "6ab81d994b4b9f2c1c562522",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "Socket is hiring Manager, Technical Account Teams (Europe)\n\nhttps://hashtagweb3.com/sls141/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2103930510049149440"
-    },
-    {
-      "slug": "sls141",
-      "company": "Socket",
-      "title": "Manager, Technical Account Teams (Europe)",
-      "platform": "threads",
-      "postedAt": "2026-09-26T19:31:36.837Z",
-      "postId": "18029897276851460",
-      "verification": "verified",
-      "expectedText": "Socket is hiring Manager, Technical Account Teams (Europe): https://hashtagweb3.com/sls141/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DdwysdUmiLU",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "sls141",
-      "company": "Socket",
-      "title": "Manager, Technical Account Teams (Europe)",
-      "platform": "bluesky",
-      "postedAt": "2026-09-26T19:31:36.837Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwgzlb7ojy2c",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls141",
-      "company": "Socket",
-      "title": "Manager, Technical Account Teams (Europe)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T19:31:36.837Z",
-      "postId": "0xd268ca8e47c5d42d96708a4a8f917cd5f9b53c86",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls141",
-      "company": "Socket",
-      "title": "Manager, Technical Account Teams (Europe)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T19:31:36.837Z",
-      "postId": "0x9dd57defaae399350aa6668703115a163367babe",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls141",
-      "company": "Socket",
-      "title": "Manager, Technical Account Teams (Europe)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T19:31:36.837Z",
-      "postId": "0x1763598f9f9c380b313385ee86009c0629408fed",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls141",
-      "company": "Socket",
-      "title": "Manager, Technical Account Teams (Europe)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T19:31:36.837Z",
-      "postId": "0xabbc56a3fd774d91b843cdc6f2d9355a0aec3323",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls141",
-      "company": "Socket",
-      "title": "Manager, Technical Account Teams (Europe)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T19:31:36.837Z",
-      "postId": "0x075efd454df4a965e534292817cdcdc45754e1e3",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls141",
-      "company": "Socket",
-      "title": "Manager, Technical Account Teams (Europe)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T19:31:36.837Z",
-      "postId": "0x9c5d0009b618888c85d53f219381e08301e543c9",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls141",
-      "company": "Socket",
-      "title": "Manager, Technical Account Teams (Europe)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T19:31:36.837Z",
-      "postId": "0xb4c325198ea6be9f2e5405fd3d8ac53e2a2d7ed3",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls141",
-      "company": "Socket",
-      "title": "Manager, Technical Account Teams (Europe)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T19:31:36.837Z",
-      "postId": "0x211f8775a84a98d9f25e745d4cfcc9d2e031f242",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls141",
-      "company": "Socket",
-      "title": "Manager, Technical Account Teams (Europe)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T19:31:36.837Z",
-      "postId": "0xbe3ec5aaf5ed9930fc36383015724cfaa626b399",
-      "account": "channel:founders",
       "verification": "verified"
     },
     {
@@ -10084,6 +9578,516 @@
       "platform": "instagram",
       "postedAt": "2026-09-28T18:43:15.047Z",
       "postId": "18111935479857696",
+      "verification": "verified"
+    },
+    {
+      "slug": "be30",
+      "company": "Coins.ph",
+      "title": "Backend Engineer (Junior to Mid-Level)",
+      "platform": "x",
+      "postedAt": "2026-09-28T19:40:12.759Z",
+      "postId": "6abac29d5a33707db8f0318e",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Coins.ph is hiring Backend Engineer (Junior to Mid-Level)\n\nhttps://hashtagweb3.com/be30/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2104657451387633922"
+    },
+    {
+      "slug": "be30",
+      "company": "Coins.ph",
+      "title": "Backend Engineer (Junior to Mid-Level)",
+      "platform": "threads",
+      "postedAt": "2026-09-28T19:40:12.759Z",
+      "postId": "18103849409355899",
+      "verification": "verified",
+      "expectedText": "Coins.ph is hiring Backend Engineer (Junior to Mid-Level): https://hashtagweb3.com/be30/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/Dd19RVCmWQ5",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "be30",
+      "company": "Coins.ph",
+      "title": "Backend Engineer (Junior to Mid-Level)",
+      "platform": "bluesky",
+      "postedAt": "2026-09-28T19:40:12.759Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwm2ymxdeh24",
+      "verification": "verified"
+    },
+    {
+      "slug": "be30",
+      "company": "Coins.ph",
+      "title": "Backend Engineer (Junior to Mid-Level)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T19:40:12.759Z",
+      "postId": "0x9c669df496b75c0047139f0165501ba2b0e3061b",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "be30",
+      "company": "Coins.ph",
+      "title": "Backend Engineer (Junior to Mid-Level)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T19:40:12.759Z",
+      "postId": "0x76809bfcc63b49f71bb9d106989830a090d752b3",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "be30",
+      "company": "Coins.ph",
+      "title": "Backend Engineer (Junior to Mid-Level)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T19:40:12.759Z",
+      "postId": "0xc1c1aee8c95af8a61989107cab956378a85341d0",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "be30",
+      "company": "Coins.ph",
+      "title": "Backend Engineer (Junior to Mid-Level)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T19:40:12.759Z",
+      "postId": "0x1962b27a4e305f4f83413865b6b4668a3fe5c0b5",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "be30",
+      "company": "Coins.ph",
+      "title": "Backend Engineer (Junior to Mid-Level)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T19:40:12.759Z",
+      "postId": "0xbd3e3b37666b2d5aa1efc319de16d57065cccccb",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "be30",
+      "company": "Coins.ph",
+      "title": "Backend Engineer (Junior to Mid-Level)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T19:40:12.759Z",
+      "postId": "0x8ca247bb70a31e71d1402d4c7494a1907b11ca73",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "be30",
+      "company": "Coins.ph",
+      "title": "Backend Engineer (Junior to Mid-Level)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T19:40:12.759Z",
+      "postId": "0x07c4e797a53f52475e4d9f55273d086d8fd01996",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "be30",
+      "company": "Coins.ph",
+      "title": "Backend Engineer (Junior to Mid-Level)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T19:40:12.759Z",
+      "postId": "0xa3d90c10156f90cac3798e5f220981f502efa30c",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "be30",
+      "company": "Coins.ph",
+      "title": "Backend Engineer (Junior to Mid-Level)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T19:40:12.759Z",
+      "postId": "0x24d3241e487ca59eb3417d18e6546aaf5dd41bad",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "be30",
+      "company": "Coins.ph",
+      "title": "Backend Engineer (Junior to Mid-Level)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T19:40:12.759Z",
+      "postId": "0xaf56aa1a17bf5732fb123591cd5c45cf70745cda",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "be30",
+      "company": "Coins.ph",
+      "title": "Backend Engineer (Junior to Mid-Level)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T19:40:12.759Z",
+      "postId": "0xd2f53e81d5258a5d612e2f191de3c808a24a5333",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "be30",
+      "company": "Coins.ph",
+      "title": "Backend Engineer (Junior to Mid-Level)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T19:40:12.759Z",
+      "postId": "0x16149fb5e5ee8aef064de064f9e06d4b97a0d98f",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "be30",
+      "company": "Coins.ph",
+      "title": "Backend Engineer (Junior to Mid-Level)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T19:40:12.759Z",
+      "postId": "0x8b2c98da294f513a66ab026c17a63b9760cda62f",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "be30",
+      "company": "Coins.ph",
+      "title": "Backend Engineer (Junior to Mid-Level)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T19:40:12.759Z",
+      "postId": "0xfcec5275f4a570a951a443167a9e216351674b6f",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "be30",
+      "company": "Coins.ph",
+      "title": "Backend Engineer (Junior to Mid-Level)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T19:40:12.759Z",
+      "postId": "0x458e138cd7b0b25dfb952a016e10fc69aa337ebf",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "be30",
+      "company": "Coins.ph",
+      "title": "Backend Engineer (Junior to Mid-Level)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T19:40:12.759Z",
+      "postId": "0xb9ec4b822e7035df07fa525c24b8750adcb14c40",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "be30",
+      "company": "Coins.ph",
+      "title": "Backend Engineer (Junior to Mid-Level)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T19:40:12.759Z",
+      "postId": "0xcf7d0fc4bc1f119f618eb235b0105907e98e8541",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "be30",
+      "company": "Coins.ph",
+      "title": "Backend Engineer (Junior to Mid-Level)",
+      "platform": "linkedin",
+      "postedAt": "2026-09-28T19:40:12.759Z",
+      "postId": "6abac2b4f603bfa76f474985",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "be30",
+      "company": "Coins.ph",
+      "title": "Backend Engineer (Junior to Mid-Level)",
+      "platform": "linkedin",
+      "postedAt": "2026-09-28T19:40:12.759Z",
+      "postId": "6abac2be5a33707db8f034fb",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "be30",
+      "company": "Coins.ph",
+      "title": "Backend Engineer (Junior to Mid-Level)",
+      "platform": "linkedin",
+      "postedAt": "2026-09-28T19:40:12.759Z",
+      "postId": "urn:li:share:7510423326624800769",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "be30",
+      "company": "Coins.ph",
+      "title": "Backend Engineer (Junior to Mid-Level)",
+      "platform": "facebook",
+      "postedAt": "2026-09-28T19:40:12.759Z",
+      "postId": "691827047618629_1100827922524442",
+      "verification": "verified"
+    },
+    {
+      "slug": "be30",
+      "company": "Coins.ph",
+      "title": "Backend Engineer (Junior to Mid-Level)",
+      "platform": "instagram",
+      "postedAt": "2026-09-28T19:40:12.759Z",
+      "postId": "18097132160419364",
+      "verification": "verified"
+    },
+    {
+      "slug": "int14",
+      "company": "StraitsX",
+      "title": "Commercial Intern",
+      "platform": "x",
+      "postedAt": "2026-09-28T19:41:19.523Z",
+      "postId": "6abac2dff603bfa76f474d2e",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "StraitsX is hiring Commercial Intern\n\nhttps://hashtagweb3.com/int14/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2104657729574846855"
+    },
+    {
+      "slug": "int14",
+      "company": "StraitsX",
+      "title": "Commercial Intern",
+      "platform": "threads",
+      "postedAt": "2026-09-28T19:41:19.523Z",
+      "postId": "18116744216470952",
+      "verification": "verified",
+      "expectedText": "StraitsX is hiring Commercial Intern: https://hashtagweb3.com/int14/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/Dd19ZYRGWYN",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "int14",
+      "company": "StraitsX",
+      "title": "Commercial Intern",
+      "platform": "bluesky",
+      "postedAt": "2026-09-28T19:41:19.523Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwm32mlkj32e",
+      "verification": "verified"
+    },
+    {
+      "slug": "int14",
+      "company": "StraitsX",
+      "title": "Commercial Intern",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T19:41:19.523Z",
+      "postId": "0x39c30f72ecd60a56a775078611028ad10eac5afa",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "int14",
+      "company": "StraitsX",
+      "title": "Commercial Intern",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T19:41:19.523Z",
+      "postId": "0xb6700c0fd41248e3363c4900646764a0919a616a",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "int14",
+      "company": "StraitsX",
+      "title": "Commercial Intern",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T19:41:19.523Z",
+      "postId": "0xb896280b8c5ab21cf829c3c1f651dfabc01efa8f",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "int14",
+      "company": "StraitsX",
+      "title": "Commercial Intern",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T19:41:19.523Z",
+      "postId": "0xce3a15ac78605c0a0bc470e1397de802950c7d94",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "int14",
+      "company": "StraitsX",
+      "title": "Commercial Intern",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T19:41:19.523Z",
+      "postId": "0xf871d350f4e159fe9f65fa305f85b3cdc1c3ae41",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "int14",
+      "company": "StraitsX",
+      "title": "Commercial Intern",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T19:41:19.523Z",
+      "postId": "0x3b6b31b8bd6fde47e17e43fe40ef05b21afc6fcd",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "int14",
+      "company": "StraitsX",
+      "title": "Commercial Intern",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T19:41:19.523Z",
+      "postId": "0x5c0caa7ae3e9cdde7ced37a2816617bab98c79f4",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "int14",
+      "company": "StraitsX",
+      "title": "Commercial Intern",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T19:41:19.523Z",
+      "postId": "0xab406a93c1576e963214770749c637ccd21ffa68",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "int14",
+      "company": "StraitsX",
+      "title": "Commercial Intern",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T19:41:19.523Z",
+      "postId": "0x9f5101295934fe083c9314c1402297162d17ad29",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "int14",
+      "company": "StraitsX",
+      "title": "Commercial Intern",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T19:41:19.523Z",
+      "postId": "0x5b207c372888f42408d58bbdfe3de77edf8c1b97",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "int14",
+      "company": "StraitsX",
+      "title": "Commercial Intern",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T19:41:19.523Z",
+      "postId": "0x25237b4a92c034c0bf9430d49010827ab7ce4fb9",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "int14",
+      "company": "StraitsX",
+      "title": "Commercial Intern",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T19:41:19.523Z",
+      "postId": "0x12046a3fc09d3e2cf08bcd663e9b0fa51f11417f",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "int14",
+      "company": "StraitsX",
+      "title": "Commercial Intern",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T19:41:19.523Z",
+      "postId": "0x146d0604f7afbeb73b625e3697f8ea8a99350f2f",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "int14",
+      "company": "StraitsX",
+      "title": "Commercial Intern",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T19:41:19.523Z",
+      "postId": "0xd3c06fa04ce42bff429015edde0f990f379825fc",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "int14",
+      "company": "StraitsX",
+      "title": "Commercial Intern",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T19:41:19.523Z",
+      "postId": "0xc23896ebf3db1ce2d54eb621de95618520730adc",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "int14",
+      "company": "StraitsX",
+      "title": "Commercial Intern",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T19:41:19.523Z",
+      "postId": "0x070a6800240ad1014ecd41062989344e0c0b3201",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "int14",
+      "company": "StraitsX",
+      "title": "Commercial Intern",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T19:41:19.523Z",
+      "postId": "0xaaa302e72d636b8e9b79a2155c9a71e8eb8b9dbf",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "int14",
+      "company": "StraitsX",
+      "title": "Commercial Intern",
+      "platform": "linkedin",
+      "postedAt": "2026-09-28T19:41:19.523Z",
+      "postId": "6abac2f67ea6291e9da0981a",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "int14",
+      "company": "StraitsX",
+      "title": "Commercial Intern",
+      "platform": "linkedin",
+      "postedAt": "2026-09-28T19:41:19.523Z",
+      "postId": "6abac3005a33707db8f03e09",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "int14",
+      "company": "StraitsX",
+      "title": "Commercial Intern",
+      "platform": "linkedin",
+      "postedAt": "2026-09-28T19:41:19.523Z",
+      "postId": "urn:li:share:7510423605168480256",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "int14",
+      "company": "StraitsX",
+      "title": "Commercial Intern",
+      "platform": "facebook",
+      "postedAt": "2026-09-28T19:41:19.523Z",
+      "postId": "691827047618629_1100828569191044",
+      "verification": "verified"
+    },
+    {
+      "slug": "int14",
+      "company": "StraitsX",
+      "title": "Commercial Intern",
+      "platform": "instagram",
+      "postedAt": "2026-09-28T19:41:19.523Z",
+      "postId": "18016319912956850",
       "verification": "verified"
     }
   ]
