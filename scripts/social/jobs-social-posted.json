@@ -1,5 +1,5 @@
 {
-  "lastIndex": 273,
+  "lastIndex": 287,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -103,7 +103,9 @@
     "analyst30",
     "ops52",
     "sls140",
-    "senior68"
+    "senior68",
+    "sls139",
+    "sls10"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -4616,514 +4618,6 @@
       "platform": "instagram",
       "postedAt": "2026-09-25T03:51:22.563Z",
       "postId": "18449861734120522",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng212",
-      "company": "Block",
-      "title": "Staff Android Software Engineer, Cash App Consumer Platform",
-      "platform": "farcaster",
-      "postedAt": "2026-09-25T11:31:43.887Z",
-      "postId": "0x19e1856ad7f38bee69e6125d6306e700e5c4cbd7",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng212",
-      "company": "Block",
-      "title": "Staff Android Software Engineer, Cash App Consumer Platform",
-      "platform": "farcaster",
-      "postedAt": "2026-09-25T11:31:43.887Z",
-      "postId": "0x1b757ce0da852d1038c41e1958d3e27e3b268457",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng212",
-      "company": "Block",
-      "title": "Staff Android Software Engineer, Cash App Consumer Platform",
-      "platform": "farcaster",
-      "postedAt": "2026-09-25T11:31:43.887Z",
-      "postId": "0x096febdc1814ffdf8b3f5f0d35516cdd42c4f13a",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng212",
-      "company": "Block",
-      "title": "Staff Android Software Engineer, Cash App Consumer Platform",
-      "platform": "farcaster",
-      "postedAt": "2026-09-25T11:31:43.887Z",
-      "postId": "0xccd340bfbd220ec0abd63d2e2807fdfadc6d4654",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng212",
-      "company": "Block",
-      "title": "Staff Android Software Engineer, Cash App Consumer Platform",
-      "platform": "farcaster",
-      "postedAt": "2026-09-25T11:31:43.887Z",
-      "postId": "0x1d95a8005f30902cd35fc2e02c0865ab2cc0a7f0",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng212",
-      "company": "Block",
-      "title": "Staff Android Software Engineer, Cash App Consumer Platform",
-      "platform": "farcaster",
-      "postedAt": "2026-09-25T11:31:43.887Z",
-      "postId": "0x5147459b8a277e655d3d05e91cef4f380379a8ee",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng212",
-      "company": "Block",
-      "title": "Staff Android Software Engineer, Cash App Consumer Platform",
-      "platform": "farcaster",
-      "postedAt": "2026-09-25T11:31:43.887Z",
-      "postId": "0x503d41530d665ff807445a301919d8cea5ca40c3",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng212",
-      "company": "Block",
-      "title": "Staff Android Software Engineer, Cash App Consumer Platform",
-      "platform": "farcaster",
-      "postedAt": "2026-09-25T11:31:43.887Z",
-      "postId": "0x599091d72de4ada010836a16699156b1060713f6",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng212",
-      "company": "Block",
-      "title": "Staff Android Software Engineer, Cash App Consumer Platform",
-      "platform": "farcaster",
-      "postedAt": "2026-09-25T11:31:43.887Z",
-      "postId": "0x5ca2acacd9a883bb5149010fbd885df1ebbfccd4",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng212",
-      "company": "Block",
-      "title": "Staff Android Software Engineer, Cash App Consumer Platform",
-      "platform": "farcaster",
-      "postedAt": "2026-09-25T11:31:43.887Z",
-      "postId": "0x280b0e1bae947513c7ad3b5f8f6c8bd2d5054e4a",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng212",
-      "company": "Block",
-      "title": "Staff Android Software Engineer, Cash App Consumer Platform",
-      "platform": "farcaster",
-      "postedAt": "2026-09-25T11:31:43.887Z",
-      "postId": "0x1df6ad567fc7608c3be1a1508855918840449827",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng212",
-      "company": "Block",
-      "title": "Staff Android Software Engineer, Cash App Consumer Platform",
-      "platform": "farcaster",
-      "postedAt": "2026-09-25T11:31:43.887Z",
-      "postId": "0x82ed13a231d048e2f1651422029bf9ea8ac946e1",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng212",
-      "company": "Block",
-      "title": "Staff Android Software Engineer, Cash App Consumer Platform",
-      "platform": "farcaster",
-      "postedAt": "2026-09-25T11:31:43.887Z",
-      "postId": "0x147c76db6556e717b000edda009deaa1046a5a3f",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng212",
-      "company": "Block",
-      "title": "Staff Android Software Engineer, Cash App Consumer Platform",
-      "platform": "farcaster",
-      "postedAt": "2026-09-25T11:31:43.887Z",
-      "postId": "0xb0dadffbb700c03f64ca4c3bd0e63462e7863e82",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng212",
-      "company": "Block",
-      "title": "Staff Android Software Engineer, Cash App Consumer Platform",
-      "platform": "farcaster",
-      "postedAt": "2026-09-25T11:31:43.887Z",
-      "postId": "0x4e6070fccdb55f7c4f7d2d9fd0962cb1389bcf86",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng212",
-      "company": "Block",
-      "title": "Staff Android Software Engineer, Cash App Consumer Platform",
-      "platform": "farcaster",
-      "postedAt": "2026-09-25T11:31:43.887Z",
-      "postId": "0x3f0d93408b84935536517b9e66186e5a6207a410",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng212",
-      "company": "Block",
-      "title": "Staff Android Software Engineer, Cash App Consumer Platform",
-      "platform": "linkedin",
-      "postedAt": "2026-09-25T11:31:43.887Z",
-      "postId": "6ab65bb6a14029bcc72e6fcf",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng212",
-      "company": "Block",
-      "title": "Staff Android Software Engineer, Cash App Consumer Platform",
-      "platform": "linkedin",
-      "postedAt": "2026-09-25T11:31:43.887Z",
-      "postId": "6ab65bc0db73444101ebc6e0",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng212",
-      "company": "Block",
-      "title": "Staff Android Software Engineer, Cash App Consumer Platform",
-      "platform": "facebook",
-      "postedAt": "2026-09-25T11:31:43.887Z",
-      "postId": "691827047618629_1097600969513804",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng212",
-      "company": "Block",
-      "title": "Staff Android Software Engineer, Cash App Consumer Platform",
-      "platform": "instagram",
-      "postedAt": "2026-09-25T11:31:43.887Z",
-      "postId": "18129571199506855",
-      "verification": "verified"
-    },
-    {
-      "slug": "fs9",
-      "company": "Braiins",
-      "title": "Fullstack Engineer / AI Engineer for BRAIINS MANAGER",
-      "platform": "x",
-      "postedAt": "2026-09-25T11:32:51.488Z",
-      "postId": "6ab65be38c95968bb0375ae2",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "Braiins is hiring Fullstack Engineer / AI Engineer for BRAIINS MANAGER\n\nhttps://hashtagweb3.com/fs9/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2103447639207321759"
-    },
-    {
-      "slug": "fs9",
-      "company": "Braiins",
-      "title": "Fullstack Engineer / AI Engineer for BRAIINS MANAGER",
-      "platform": "threads",
-      "postedAt": "2026-09-25T11:32:51.488Z",
-      "postId": "17988970058859186",
-      "verification": "verified",
-      "expectedText": "Braiins is hiring Fullstack Engineer / AI Engineer for BRAIINS MANAGER: https://hashtagweb3.com/fs9/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DdtXHEZkbKS",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "fs9",
-      "company": "Braiins",
-      "title": "Fullstack Engineer / AI Engineer for BRAIINS MANAGER",
-      "platform": "bluesky",
-      "postedAt": "2026-09-25T11:32:51.488Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwdoecw4vy26",
-      "verification": "verified"
-    },
-    {
-      "slug": "fs9",
-      "company": "Braiins",
-      "title": "Fullstack Engineer / AI Engineer for BRAIINS MANAGER",
-      "platform": "farcaster",
-      "postedAt": "2026-09-25T11:32:51.488Z",
-      "postId": "0xcad8f38553efadb190c459b299972c1607af29fc",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "fs9",
-      "company": "Braiins",
-      "title": "Fullstack Engineer / AI Engineer for BRAIINS MANAGER",
-      "platform": "farcaster",
-      "postedAt": "2026-09-25T11:32:51.488Z",
-      "postId": "0x5154d5eac04bf3a0968feb6c443c5a4b09084a4d",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "fs9",
-      "company": "Braiins",
-      "title": "Fullstack Engineer / AI Engineer for BRAIINS MANAGER",
-      "platform": "farcaster",
-      "postedAt": "2026-09-25T11:32:51.488Z",
-      "postId": "0x03bdbb757580845203fbe77e20ad5287a0e54ae5",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "fs9",
-      "company": "Braiins",
-      "title": "Fullstack Engineer / AI Engineer for BRAIINS MANAGER",
-      "platform": "farcaster",
-      "postedAt": "2026-09-25T11:32:51.488Z",
-      "postId": "0x8c20c0d0a439c7035f565519f3d3ef9a28331dcc",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "fs9",
-      "company": "Braiins",
-      "title": "Fullstack Engineer / AI Engineer for BRAIINS MANAGER",
-      "platform": "farcaster",
-      "postedAt": "2026-09-25T11:32:51.488Z",
-      "postId": "0x21439c71129e4f3f80b8a6cc9e779c3c45fdc56e",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "fs9",
-      "company": "Braiins",
-      "title": "Fullstack Engineer / AI Engineer for BRAIINS MANAGER",
-      "platform": "farcaster",
-      "postedAt": "2026-09-25T11:32:51.488Z",
-      "postId": "0x30afd44c272c85e896496d441970da9643be955c",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "fs9",
-      "company": "Braiins",
-      "title": "Fullstack Engineer / AI Engineer for BRAIINS MANAGER",
-      "platform": "farcaster",
-      "postedAt": "2026-09-25T11:32:51.488Z",
-      "postId": "0xa277deb8f5d86b38731265fc13524ec42a5c1c16",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "fs9",
-      "company": "Braiins",
-      "title": "Fullstack Engineer / AI Engineer for BRAIINS MANAGER",
-      "platform": "farcaster",
-      "postedAt": "2026-09-25T11:32:51.488Z",
-      "postId": "0x983d2151454031d10277618bbbb4546166807744",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "fs9",
-      "company": "Braiins",
-      "title": "Fullstack Engineer / AI Engineer for BRAIINS MANAGER",
-      "platform": "farcaster",
-      "postedAt": "2026-09-25T11:32:51.488Z",
-      "postId": "0x27813982a78ff36218f82e73709b956be6d1c228",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "fs9",
-      "company": "Braiins",
-      "title": "Fullstack Engineer / AI Engineer for BRAIINS MANAGER",
-      "platform": "farcaster",
-      "postedAt": "2026-09-25T11:32:51.488Z",
-      "postId": "0xc43045ed1279e65454271a9d9d76e97e9b6ffe7a",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "fs9",
-      "company": "Braiins",
-      "title": "Fullstack Engineer / AI Engineer for BRAIINS MANAGER",
-      "platform": "farcaster",
-      "postedAt": "2026-09-25T11:32:51.488Z",
-      "postId": "0x73effcc823f395a49bfe55b8cdaab3e5b88d965b",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "fs9",
-      "company": "Braiins",
-      "title": "Fullstack Engineer / AI Engineer for BRAIINS MANAGER",
-      "platform": "farcaster",
-      "postedAt": "2026-09-25T11:32:51.488Z",
-      "postId": "0x8264fb79d35e2295a0de4d17cddf56b1d9fb2333",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "fs9",
-      "company": "Braiins",
-      "title": "Fullstack Engineer / AI Engineer for BRAIINS MANAGER",
-      "platform": "farcaster",
-      "postedAt": "2026-09-25T11:32:51.488Z",
-      "postId": "0x6bd46609e862ca61fd51c8adca890adb73c1901e",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "fs9",
-      "company": "Braiins",
-      "title": "Fullstack Engineer / AI Engineer for BRAIINS MANAGER",
-      "platform": "farcaster",
-      "postedAt": "2026-09-25T11:32:51.488Z",
-      "postId": "0x634c64427fdcad09039077f160f2b1955578dd42",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "fs9",
-      "company": "Braiins",
-      "title": "Fullstack Engineer / AI Engineer for BRAIINS MANAGER",
-      "platform": "farcaster",
-      "postedAt": "2026-09-25T11:32:51.488Z",
-      "postId": "0x296f69869d80821c4fe7c11231e1b4aba4a561ba",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "fs9",
-      "company": "Braiins",
-      "title": "Fullstack Engineer / AI Engineer for BRAIINS MANAGER",
-      "platform": "farcaster",
-      "postedAt": "2026-09-25T11:32:51.488Z",
-      "postId": "0xb34a48de8205f999cb72a00242768775ec90266e",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "fs9",
-      "company": "Braiins",
-      "title": "Fullstack Engineer / AI Engineer for BRAIINS MANAGER",
-      "platform": "farcaster",
-      "postedAt": "2026-09-25T11:32:51.488Z",
-      "postId": "0xc786e0c3f68ba4700cb9afb867b07d9e7cc2426e",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "fs9",
-      "company": "Braiins",
-      "title": "Fullstack Engineer / AI Engineer for BRAIINS MANAGER",
-      "platform": "linkedin",
-      "postedAt": "2026-09-25T11:32:51.488Z",
-      "postId": "6ab65bf78c95968bb0375c01",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "fs9",
-      "company": "Braiins",
-      "title": "Fullstack Engineer / AI Engineer for BRAIINS MANAGER",
-      "platform": "linkedin",
-      "postedAt": "2026-09-25T11:32:51.488Z",
-      "postId": "6ab65c01db73444101ebcc07",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "fs9",
-      "company": "Braiins",
-      "title": "Fullstack Engineer / AI Engineer for BRAIINS MANAGER",
-      "platform": "facebook",
-      "postedAt": "2026-09-25T11:32:51.488Z",
-      "postId": "691827047618629_1097601716180396",
-      "verification": "verified"
-    },
-    {
-      "slug": "fs9",
-      "company": "Braiins",
-      "title": "Fullstack Engineer / AI Engineer for BRAIINS MANAGER",
-      "platform": "instagram",
-      "postedAt": "2026-09-25T11:32:51.488Z",
-      "postId": "17992797054051628",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng209",
-      "company": "Stripe",
-      "title": "Design Engineer, Expansion",
-      "platform": "x",
-      "postedAt": "2026-09-25T19:31:39.986Z",
-      "postId": "6ab6cc1c80521ded5514645e",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "Stripe is hiring Design Engineer, Expansion\n\nhttps://hashtagweb3.com/eng209/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2103568135932498050"
-    },
-    {
-      "slug": "eng209",
-      "company": "Stripe",
-      "title": "Design Engineer, Expansion",
-      "platform": "threads",
-      "postedAt": "2026-09-25T19:31:39.986Z",
-      "postId": "18333556549275800",
-      "verification": "verified",
-      "expectedText": "Stripe is hiring Design Engineer, Expansion: https://hashtagweb3.com/eng209/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DduN6JTD9Ex",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "eng209",
-      "company": "Stripe",
-      "title": "Design Engineer, Expansion",
-      "platform": "bluesky",
-      "postedAt": "2026-09-25T19:31:39.986Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwej4jyift2t",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng209",
-      "company": "Stripe",
-      "title": "Design Engineer, Expansion",
-      "platform": "farcaster",
-      "postedAt": "2026-09-25T19:31:39.986Z",
-      "postId": "0x5c468eb0d150eb424729e56529f39228ba6313c9",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng209",
-      "company": "Stripe",
-      "title": "Design Engineer, Expansion",
-      "platform": "farcaster",
-      "postedAt": "2026-09-25T19:31:39.986Z",
-      "postId": "0x8121928ed8276208db5f1b99db8494bf0318ce82",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng209",
-      "company": "Stripe",
-      "title": "Design Engineer, Expansion",
-      "platform": "farcaster",
-      "postedAt": "2026-09-25T19:31:39.986Z",
-      "postId": "0xeac64c65659e2718eeedf10631a3d1019ec69793",
-      "account": "channel:web3",
       "verification": "verified"
     },
     {
@@ -10072,6 +9566,516 @@
       "platform": "instagram",
       "postedAt": "2026-09-28T03:57:22.941Z",
       "postId": "18020726447945937",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls139",
+      "company": "Blockstream",
+      "title": "Technical Solutions Consultant (Pre-Sales)",
+      "platform": "x",
+      "postedAt": "2026-09-28T10:02:10.553Z",
+      "postId": "6aba3b22012a589e32c79e9c",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Blockstream is hiring Technical Solutions Consultant (Pre-Sales)\n\nhttps://hashtagweb3.com/sls139/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2104511981872939103"
+    },
+    {
+      "slug": "sls139",
+      "company": "Blockstream",
+      "title": "Technical Solutions Consultant (Pre-Sales)",
+      "platform": "threads",
+      "postedAt": "2026-09-28T10:02:10.553Z",
+      "postId": "18116649299516698",
+      "verification": "verified",
+      "expectedText": "Blockstream is hiring Technical Solutions Consultant (Pre-Sales): https://hashtagweb3.com/sls139/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/Dd07Hl7ER4P",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "sls139",
+      "company": "Blockstream",
+      "title": "Technical Solutions Consultant (Pre-Sales)",
+      "platform": "bluesky",
+      "postedAt": "2026-09-28T10:02:10.553Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwl2oz3clc26",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls139",
+      "company": "Blockstream",
+      "title": "Technical Solutions Consultant (Pre-Sales)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T10:02:10.553Z",
+      "postId": "0x6035634f76d50bdf4e903abb3db4a7032efcb828",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls139",
+      "company": "Blockstream",
+      "title": "Technical Solutions Consultant (Pre-Sales)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T10:02:10.553Z",
+      "postId": "0x368b4c77f576ff7f38cdfc55739be6be108b39d6",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls139",
+      "company": "Blockstream",
+      "title": "Technical Solutions Consultant (Pre-Sales)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T10:02:10.553Z",
+      "postId": "0xaf6e4a689bb62908f313a40d2327bff869d8d42c",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls139",
+      "company": "Blockstream",
+      "title": "Technical Solutions Consultant (Pre-Sales)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T10:02:10.553Z",
+      "postId": "0xb1ec25f51d6ce73f6d9c1575bc497e475edb4bdc",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls139",
+      "company": "Blockstream",
+      "title": "Technical Solutions Consultant (Pre-Sales)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T10:02:10.553Z",
+      "postId": "0xaff94b67da87b49e17586e11555b18005ba41466",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls139",
+      "company": "Blockstream",
+      "title": "Technical Solutions Consultant (Pre-Sales)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T10:02:10.553Z",
+      "postId": "0x40c274893d9781b56e4f0ddd5dbbe5bca253e083",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls139",
+      "company": "Blockstream",
+      "title": "Technical Solutions Consultant (Pre-Sales)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T10:02:10.553Z",
+      "postId": "0x77a2d26860c82dc8933b6e9d89eb3f1cf3fc92e9",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls139",
+      "company": "Blockstream",
+      "title": "Technical Solutions Consultant (Pre-Sales)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T10:02:10.553Z",
+      "postId": "0x2372ff3d10fc44ea1d8f426f528433704310742c",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls139",
+      "company": "Blockstream",
+      "title": "Technical Solutions Consultant (Pre-Sales)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T10:02:10.553Z",
+      "postId": "0xecfdc51d9e1ed6882df94eaf5bb526b6814f7455",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls139",
+      "company": "Blockstream",
+      "title": "Technical Solutions Consultant (Pre-Sales)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T10:02:10.553Z",
+      "postId": "0x5c926d71c5baba70d5da59798aec1c8654b1502d",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls139",
+      "company": "Blockstream",
+      "title": "Technical Solutions Consultant (Pre-Sales)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T10:02:10.553Z",
+      "postId": "0xa0520ecfbf2d578bbe878e6b5c551169e5875936",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls139",
+      "company": "Blockstream",
+      "title": "Technical Solutions Consultant (Pre-Sales)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T10:02:10.553Z",
+      "postId": "0x889f88294d564bd96e1a2104eca7ae6b8ef583c7",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls139",
+      "company": "Blockstream",
+      "title": "Technical Solutions Consultant (Pre-Sales)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T10:02:10.553Z",
+      "postId": "0x76aa942ebcc48cea4a94a8bd63da8aa44a7f802f",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls139",
+      "company": "Blockstream",
+      "title": "Technical Solutions Consultant (Pre-Sales)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T10:02:10.553Z",
+      "postId": "0xc39956f21ac234ab768aef7f43db24eb4a03de66",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls139",
+      "company": "Blockstream",
+      "title": "Technical Solutions Consultant (Pre-Sales)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T10:02:10.553Z",
+      "postId": "0x49f0359dfa2535a32610a3511767f42d7a4faf7f",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls139",
+      "company": "Blockstream",
+      "title": "Technical Solutions Consultant (Pre-Sales)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T10:02:10.553Z",
+      "postId": "0x66a3f62eaa59584e03e8f86d52652e3752036e95",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls139",
+      "company": "Blockstream",
+      "title": "Technical Solutions Consultant (Pre-Sales)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T10:02:10.553Z",
+      "postId": "0x970c9a8532e46f3c92148ecf9c1762375a6d8e18",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls139",
+      "company": "Blockstream",
+      "title": "Technical Solutions Consultant (Pre-Sales)",
+      "platform": "linkedin",
+      "postedAt": "2026-09-28T10:02:10.553Z",
+      "postId": "6aba3b361d3c18dda592deac",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls139",
+      "company": "Blockstream",
+      "title": "Technical Solutions Consultant (Pre-Sales)",
+      "platform": "linkedin",
+      "postedAt": "2026-09-28T10:02:10.553Z",
+      "postId": "6aba3b4143399dda567d50fa",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls139",
+      "company": "Blockstream",
+      "title": "Technical Solutions Consultant (Pre-Sales)",
+      "platform": "linkedin",
+      "postedAt": "2026-09-28T10:02:10.553Z",
+      "postId": "urn:li:share:7510277847769448448",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls139",
+      "company": "Blockstream",
+      "title": "Technical Solutions Consultant (Pre-Sales)",
+      "platform": "facebook",
+      "postedAt": "2026-09-28T10:02:10.553Z",
+      "postId": "691827047618629_1100399982567236",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls139",
+      "company": "Blockstream",
+      "title": "Technical Solutions Consultant (Pre-Sales)",
+      "platform": "instagram",
+      "postedAt": "2026-09-28T10:02:10.553Z",
+      "postId": "18125687428894588",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls10",
+      "company": "Nexo",
+      "title": "Accountant, General Ledger",
+      "platform": "x",
+      "postedAt": "2026-09-28T10:03:13.563Z",
+      "postId": "6aba3b61f45a6e53450251b0",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Nexo is hiring Accountant, General Ledger\n\nhttps://hashtagweb3.com/sls10/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2104512245921181715"
+    },
+    {
+      "slug": "sls10",
+      "company": "Nexo",
+      "title": "Accountant, General Ledger",
+      "platform": "threads",
+      "postedAt": "2026-09-28T10:03:13.563Z",
+      "postId": "17967870123172136",
+      "verification": "verified",
+      "expectedText": "Nexo is hiring Accountant, General Ledger: https://hashtagweb3.com/sls10/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/Dd07PZ5EaB4",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "sls10",
+      "company": "Nexo",
+      "title": "Accountant, General Ledger",
+      "platform": "bluesky",
+      "postedAt": "2026-09-28T10:03:13.563Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwl2qt2wbl2f",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls10",
+      "company": "Nexo",
+      "title": "Accountant, General Ledger",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T10:03:13.563Z",
+      "postId": "0xb7a9353082496f024092a08014d15a18b37aa1c9",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls10",
+      "company": "Nexo",
+      "title": "Accountant, General Ledger",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T10:03:13.563Z",
+      "postId": "0x24436b88347c11aad171dabc8e2bec30a839f223",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls10",
+      "company": "Nexo",
+      "title": "Accountant, General Ledger",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T10:03:13.563Z",
+      "postId": "0xd488c6e27b68583c105569c2e3ca2ab90878e249",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls10",
+      "company": "Nexo",
+      "title": "Accountant, General Ledger",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T10:03:13.563Z",
+      "postId": "0x402cc4aff4ab8f9f60f0e19eb1cdeb6554c9ae1c",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls10",
+      "company": "Nexo",
+      "title": "Accountant, General Ledger",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T10:03:13.563Z",
+      "postId": "0x9127c2cc5cce3db21fd61cbacaa924890a00c7ce",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls10",
+      "company": "Nexo",
+      "title": "Accountant, General Ledger",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T10:03:13.563Z",
+      "postId": "0x0613d397a3354c9b5cc6eb9a20356ea90611e18a",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls10",
+      "company": "Nexo",
+      "title": "Accountant, General Ledger",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T10:03:13.563Z",
+      "postId": "0xe20df985c4ce73d0741f8552d9318996f373320b",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls10",
+      "company": "Nexo",
+      "title": "Accountant, General Ledger",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T10:03:13.563Z",
+      "postId": "0x6276e63265de5b431ee593edfe435c23bc410f39",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls10",
+      "company": "Nexo",
+      "title": "Accountant, General Ledger",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T10:03:13.563Z",
+      "postId": "0x1f4e4980e2e45a2efedfa5cfe5ce365fef515c76",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls10",
+      "company": "Nexo",
+      "title": "Accountant, General Ledger",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T10:03:13.563Z",
+      "postId": "0x8e077b6503ee1ce651867de0c7816bdec95d9527",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls10",
+      "company": "Nexo",
+      "title": "Accountant, General Ledger",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T10:03:13.563Z",
+      "postId": "0x6ce4b536efdb44e5e22deb00b9aecf24cb0e1909",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls10",
+      "company": "Nexo",
+      "title": "Accountant, General Ledger",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T10:03:13.563Z",
+      "postId": "0x6f52e8563e845af69886727ceb007bc6238a0173",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls10",
+      "company": "Nexo",
+      "title": "Accountant, General Ledger",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T10:03:13.563Z",
+      "postId": "0x679b2968e0d6bd0085ab6164c88ba4fb9fc75c9e",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls10",
+      "company": "Nexo",
+      "title": "Accountant, General Ledger",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T10:03:13.563Z",
+      "postId": "0x4a50390088f5498f7170c2b9e912873ebc61ff9a",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls10",
+      "company": "Nexo",
+      "title": "Accountant, General Ledger",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T10:03:13.563Z",
+      "postId": "0x45919ca23ef547a8c43ba4245b50da6286a54ec9",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls10",
+      "company": "Nexo",
+      "title": "Accountant, General Ledger",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T10:03:13.563Z",
+      "postId": "0x3952d7e1f3725a6455953508cb53f6a42abcfa36",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls10",
+      "company": "Nexo",
+      "title": "Accountant, General Ledger",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T10:03:13.563Z",
+      "postId": "0x792ac2223a40b8312da3c51d55f29a58cc359c54",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls10",
+      "company": "Nexo",
+      "title": "Accountant, General Ledger",
+      "platform": "linkedin",
+      "postedAt": "2026-09-28T10:03:13.563Z",
+      "postId": "6aba3b74cb4f6964962d5223",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls10",
+      "company": "Nexo",
+      "title": "Accountant, General Ledger",
+      "platform": "linkedin",
+      "postedAt": "2026-09-28T10:03:13.563Z",
+      "postId": "6aba3b7f59f2ff98e4635fd5",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls10",
+      "company": "Nexo",
+      "title": "Accountant, General Ledger",
+      "platform": "linkedin",
+      "postedAt": "2026-09-28T10:03:13.563Z",
+      "postId": "urn:li:share:7510278103894515712",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls10",
+      "company": "Nexo",
+      "title": "Accountant, General Ledger",
+      "platform": "facebook",
+      "postedAt": "2026-09-28T10:03:13.563Z",
+      "postId": "691827047618629_1100400972567137",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls10",
+      "company": "Nexo",
+      "title": "Accountant, General Ledger",
+      "platform": "instagram",
+      "postedAt": "2026-09-28T10:03:13.563Z",
+      "postId": "18125812057860679",
       "verification": "verified"
     }
   ]
