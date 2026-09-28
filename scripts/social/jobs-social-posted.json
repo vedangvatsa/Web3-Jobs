@@ -1,5 +1,5 @@
 {
-  "lastIndex": 289,
+  "lastIndex": 291,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -107,7 +107,9 @@
     "sls139",
     "sls10",
     "an29",
-    "ops35"
+    "ops35",
+    "ts2",
+    "css"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -4620,514 +4622,6 @@
       "platform": "instagram",
       "postedAt": "2026-09-25T03:51:22.563Z",
       "postId": "18449861734120522",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng208",
-      "company": "Kraken",
-      "title": "Senior Software Engineer - React Native - Business Services",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T03:53:31.541Z",
-      "postId": "0xb17b8767c432cc5cbceb5421a56ab6f31046f1cf",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng208",
-      "company": "Kraken",
-      "title": "Senior Software Engineer - React Native - Business Services",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T03:53:31.541Z",
-      "postId": "0x776bd530feb07d60f60a41e0e156f4d994de7440",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng208",
-      "company": "Kraken",
-      "title": "Senior Software Engineer - React Native - Business Services",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T03:53:31.541Z",
-      "postId": "0xd300e5cfeeeba7f31fd2fd34ea801ff9f758c696",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng208",
-      "company": "Kraken",
-      "title": "Senior Software Engineer - React Native - Business Services",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T03:53:31.541Z",
-      "postId": "0x0509f164ba296d8c704563fb158e48d776e554a1",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng208",
-      "company": "Kraken",
-      "title": "Senior Software Engineer - React Native - Business Services",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T03:53:31.541Z",
-      "postId": "0x286bca494b437a25797fbc42b69bb9ac6fc58161",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng208",
-      "company": "Kraken",
-      "title": "Senior Software Engineer - React Native - Business Services",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T03:53:31.541Z",
-      "postId": "0xc809eb99ae89ca5145de9ef8bb81b23b5ddd4b82",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng208",
-      "company": "Kraken",
-      "title": "Senior Software Engineer - React Native - Business Services",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T03:53:31.541Z",
-      "postId": "0xecb1cfbc97419bc853e57a724f61f58ab472a07b",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng208",
-      "company": "Kraken",
-      "title": "Senior Software Engineer - React Native - Business Services",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T03:53:31.541Z",
-      "postId": "0xdb2e75a87258191ed818e338c0a9df6fe01fea08",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng208",
-      "company": "Kraken",
-      "title": "Senior Software Engineer - React Native - Business Services",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T03:53:31.541Z",
-      "postId": "0x16663bf45589346a6e93c74ef3b20db436311d4e",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng208",
-      "company": "Kraken",
-      "title": "Senior Software Engineer - React Native - Business Services",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T03:53:31.541Z",
-      "postId": "0x273e4bf31f0f5c26a91848452bbadefbce7ed310",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng208",
-      "company": "Kraken",
-      "title": "Senior Software Engineer - React Native - Business Services",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T03:53:31.541Z",
-      "postId": "0xd9369afa2e5fb1abe8fc9266e57a8ba2091803be",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng208",
-      "company": "Kraken",
-      "title": "Senior Software Engineer - React Native - Business Services",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T03:53:31.541Z",
-      "postId": "0x7265348ce87846289a9721c179d0b4c65151e390",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng208",
-      "company": "Kraken",
-      "title": "Senior Software Engineer - React Native - Business Services",
-      "platform": "linkedin",
-      "postedAt": "2026-09-26T03:53:31.541Z",
-      "postId": "6ab741cdf59168c97534572f",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng208",
-      "company": "Kraken",
-      "title": "Senior Software Engineer - React Native - Business Services",
-      "platform": "linkedin",
-      "postedAt": "2026-09-26T03:53:31.541Z",
-      "postId": "6ab741d8f59168c9753457a9",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng208",
-      "company": "Kraken",
-      "title": "Senior Software Engineer - React Native - Business Services",
-      "platform": "facebook",
-      "postedAt": "2026-09-26T03:53:31.541Z",
-      "postId": "691827047618629_1098256416114926",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng208",
-      "company": "Kraken",
-      "title": "Senior Software Engineer - React Native - Business Services",
-      "platform": "instagram",
-      "postedAt": "2026-09-26T03:53:31.541Z",
-      "postId": "17947335123320325",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt44",
-      "company": "Toku",
-      "title": "Content & Solutions Marketing MX",
-      "platform": "x",
-      "postedAt": "2026-09-26T03:54:31.229Z",
-      "postId": "6ab741f780521ded552037b7",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "Toku is hiring Content & Solutions Marketing MX\n\nhttps://hashtagweb3.com/mkt44/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2103694683004158349"
-    },
-    {
-      "slug": "mkt44",
-      "company": "Toku",
-      "title": "Content & Solutions Marketing MX",
-      "platform": "threads",
-      "postedAt": "2026-09-26T03:54:31.229Z",
-      "postId": "18089007797220100",
-      "verification": "verified",
-      "expectedText": "Toku is hiring Content & Solutions Marketing MX: https://hashtagweb3.com/mkt44/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DdvHc7yFsze",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "mkt44",
-      "company": "Toku",
-      "title": "Content & Solutions Marketing MX",
-      "platform": "bluesky",
-      "postedAt": "2026-09-26T03:54:31.229Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwff7mrumj2f",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt44",
-      "company": "Toku",
-      "title": "Content & Solutions Marketing MX",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T03:54:31.229Z",
-      "postId": "0xcbe4a42728ad744906556277e4dd8c02aa38be4e",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt44",
-      "company": "Toku",
-      "title": "Content & Solutions Marketing MX",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T03:54:31.229Z",
-      "postId": "0xcf619befb3c5dfb38ef7917210f30b8ae917674d",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt44",
-      "company": "Toku",
-      "title": "Content & Solutions Marketing MX",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T03:54:31.229Z",
-      "postId": "0xd888b15425250fffbbb6161dc2353df5774a2f45",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt44",
-      "company": "Toku",
-      "title": "Content & Solutions Marketing MX",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T03:54:31.229Z",
-      "postId": "0x49616228d562480091afed378101e0d554808906",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt44",
-      "company": "Toku",
-      "title": "Content & Solutions Marketing MX",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T03:54:31.229Z",
-      "postId": "0x573156795fe3fc47d003aad4379b7ea4779c6b34",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt44",
-      "company": "Toku",
-      "title": "Content & Solutions Marketing MX",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T03:54:31.229Z",
-      "postId": "0xed693c3e7a20a68495a8892a78728f8ff2155847",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt44",
-      "company": "Toku",
-      "title": "Content & Solutions Marketing MX",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T03:54:31.229Z",
-      "postId": "0x160fed160f7da33f81ed82da411ed1ba6f70181d",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt44",
-      "company": "Toku",
-      "title": "Content & Solutions Marketing MX",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T03:54:31.229Z",
-      "postId": "0x893112f47e8ca3aba0df27ab98c025d1ff89e1a7",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt44",
-      "company": "Toku",
-      "title": "Content & Solutions Marketing MX",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T03:54:31.229Z",
-      "postId": "0x032d32920c475d7d0f07bb74cb4762b1a09a05b5",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt44",
-      "company": "Toku",
-      "title": "Content & Solutions Marketing MX",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T03:54:31.229Z",
-      "postId": "0xc782ae1a6863bfabb439689bb49bd9723e6950eb",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt44",
-      "company": "Toku",
-      "title": "Content & Solutions Marketing MX",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T03:54:31.229Z",
-      "postId": "0x50637cf52150bfbd5350b214b151df365eb8a130",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt44",
-      "company": "Toku",
-      "title": "Content & Solutions Marketing MX",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T03:54:31.229Z",
-      "postId": "0x46ac99fc9ced9e8f7b23b92fbbd070a395a77f84",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt44",
-      "company": "Toku",
-      "title": "Content & Solutions Marketing MX",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T03:54:31.229Z",
-      "postId": "0xa0daa4f49e21e54e428d52f38bf5464f481bf6a2",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt44",
-      "company": "Toku",
-      "title": "Content & Solutions Marketing MX",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T03:54:31.229Z",
-      "postId": "0x2b6af31eb9499d5ea9f116d3be1c4d496b4dabf2",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt44",
-      "company": "Toku",
-      "title": "Content & Solutions Marketing MX",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T03:54:31.229Z",
-      "postId": "0x0ddca4b8050bdc62156bce64d7672888436c81ac",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt44",
-      "company": "Toku",
-      "title": "Content & Solutions Marketing MX",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T03:54:31.229Z",
-      "postId": "0xfa9ac9e20ac8e0547b74b1ff2e1b56c217f6faa2",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt44",
-      "company": "Toku",
-      "title": "Content & Solutions Marketing MX",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T03:54:31.229Z",
-      "postId": "0x15a21699cff1c06218873ea5ba8f4486ece3c168",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt44",
-      "company": "Toku",
-      "title": "Content & Solutions Marketing MX",
-      "platform": "linkedin",
-      "postedAt": "2026-09-26T03:54:31.229Z",
-      "postId": "6ab74209dffba3cec6edbe10",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt44",
-      "company": "Toku",
-      "title": "Content & Solutions Marketing MX",
-      "platform": "linkedin",
-      "postedAt": "2026-09-26T03:54:31.229Z",
-      "postId": "6ab7421380521ded55203892",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt44",
-      "company": "Toku",
-      "title": "Content & Solutions Marketing MX",
-      "platform": "facebook",
-      "postedAt": "2026-09-26T03:54:31.229Z",
-      "postId": "691827047618629_1098256959448205",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt44",
-      "company": "Toku",
-      "title": "Content & Solutions Marketing MX",
-      "platform": "instagram",
-      "postedAt": "2026-09-26T03:54:31.229Z",
-      "postId": "18053197646602109",
-      "verification": "verified"
-    },
-    {
-      "slug": "an44",
-      "company": "BVNK",
-      "title": "Senior Analyst / SME - EDD",
-      "platform": "x",
-      "postedAt": "2026-09-26T11:31:35.282Z",
-      "postId": "6ab7ad17ee8af48ba8a9f9b9",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "BVNK is hiring Senior Analyst / SME - EDD\n\nhttps://hashtagweb3.com/an44/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2103809707752247744"
-    },
-    {
-      "slug": "an44",
-      "company": "BVNK",
-      "title": "Senior Analyst / SME - EDD",
-      "platform": "threads",
-      "postedAt": "2026-09-26T11:31:35.282Z",
-      "postId": "18128298784699678",
-      "verification": "verified",
-      "expectedText": "BVNK is hiring Senior Analyst / SME - EDD: https://hashtagweb3.com/an44/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/Ddv7wrAmyDw",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "an44",
-      "company": "BVNK",
-      "title": "Senior Analyst / SME - EDD",
-      "platform": "bluesky",
-      "postedAt": "2026-09-26T11:31:35.282Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwg6qxjb7o2t",
-      "verification": "verified"
-    },
-    {
-      "slug": "an44",
-      "company": "BVNK",
-      "title": "Senior Analyst / SME - EDD",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T11:31:35.282Z",
-      "postId": "0x5955f6ed234484b5463e7351868afac22db6dce5",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "an44",
-      "company": "BVNK",
-      "title": "Senior Analyst / SME - EDD",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T11:31:35.282Z",
-      "postId": "0xe4dacdb6abacf1e4bc2b6bcd018125a3c5296671",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "an44",
-      "company": "BVNK",
-      "title": "Senior Analyst / SME - EDD",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T11:31:35.282Z",
-      "postId": "0xd517676694e5528a3404a826bccfcd4b8ca49bb1",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "an44",
-      "company": "BVNK",
-      "title": "Senior Analyst / SME - EDD",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T11:31:35.282Z",
-      "postId": "0x98b295d7348fca0b1a36280cf1a3d8c68b59c72a",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "an44",
-      "company": "BVNK",
-      "title": "Senior Analyst / SME - EDD",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T11:31:35.282Z",
-      "postId": "0xa99e6f431ced077d99583b25b2ccb826041143e1",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "an44",
-      "company": "BVNK",
-      "title": "Senior Analyst / SME - EDD",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T11:31:35.282Z",
-      "postId": "0x660fede98e313ebc1ad0e32b023068790f0c5ace",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "an44",
-      "company": "BVNK",
-      "title": "Senior Analyst / SME - EDD",
-      "platform": "farcaster",
-      "postedAt": "2026-09-26T11:31:35.282Z",
-      "postId": "0x68355da9b000ada08838a50431245b8d0c954eee",
-      "account": "channel:developers",
       "verification": "verified"
     },
     {
@@ -10080,6 +9574,516 @@
       "platform": "instagram",
       "postedAt": "2026-09-28T11:32:44.690Z",
       "postId": "18086174201294026",
+      "verification": "verified"
+    },
+    {
+      "slug": "ts2",
+      "company": "DRW",
+      "title": "Threat Specialist",
+      "platform": "x",
+      "postedAt": "2026-09-28T18:41:50.859Z",
+      "postId": "6abab4ef881b18104f108ac4",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "DRW is hiring Threat Specialist\n\nhttps://hashtagweb3.com/ts2/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2104642762536550405"
+    },
+    {
+      "slug": "ts2",
+      "company": "DRW",
+      "title": "Threat Specialist",
+      "platform": "threads",
+      "postedAt": "2026-09-28T18:41:50.859Z",
+      "postId": "18638164288041946",
+      "verification": "verified",
+      "expectedText": "DRW is hiring Threat Specialist: https://hashtagweb3.com/ts2/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/Dd12lwgDwFO",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "ts2",
+      "company": "DRW",
+      "title": "Threat Specialist",
+      "platform": "bluesky",
+      "postedAt": "2026-09-28T18:41:50.859Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwlxqi2qei2f",
+      "verification": "verified"
+    },
+    {
+      "slug": "ts2",
+      "company": "DRW",
+      "title": "Threat Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T18:41:50.859Z",
+      "postId": "0x21231879ab570ecf64913fa4fc375ad4799cff6b",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "ts2",
+      "company": "DRW",
+      "title": "Threat Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T18:41:50.859Z",
+      "postId": "0xa38854148b2b85a436db14df5a9d0d4e82340ccb",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "ts2",
+      "company": "DRW",
+      "title": "Threat Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T18:41:50.859Z",
+      "postId": "0xe564d3604219700223be2e01d7c8fe4e1fde57d0",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "ts2",
+      "company": "DRW",
+      "title": "Threat Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T18:41:50.859Z",
+      "postId": "0xf7c96b40b2e11e9cc30f53b5263ab3eb2dbcd36a",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "ts2",
+      "company": "DRW",
+      "title": "Threat Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T18:41:50.859Z",
+      "postId": "0x688940950c6615f1ecc62adbd2503c5d3fb70616",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "ts2",
+      "company": "DRW",
+      "title": "Threat Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T18:41:50.859Z",
+      "postId": "0x3e503f10b9340597eeb18fd1f7a1ca6e2dd9eaed",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "ts2",
+      "company": "DRW",
+      "title": "Threat Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T18:41:50.859Z",
+      "postId": "0x8b5afbbe09c7405ea985965f07ef14866cf36c57",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "ts2",
+      "company": "DRW",
+      "title": "Threat Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T18:41:50.859Z",
+      "postId": "0x78456024ec401a6597d7e0fca8057d99caaba373",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "ts2",
+      "company": "DRW",
+      "title": "Threat Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T18:41:50.859Z",
+      "postId": "0xf87a1d45896680489bc8c1fcd949a023d3c9fe44",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "ts2",
+      "company": "DRW",
+      "title": "Threat Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T18:41:50.859Z",
+      "postId": "0xf6f741e454a0aa9311d419c0f3d1faf5a79c6763",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "ts2",
+      "company": "DRW",
+      "title": "Threat Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T18:41:50.859Z",
+      "postId": "0xf1feb8e482ff5f014fc4c958a1d9822c2d19049c",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "ts2",
+      "company": "DRW",
+      "title": "Threat Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T18:41:50.859Z",
+      "postId": "0xe0a7df00b6ec34ee0477ca28df25f0244f10910f",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "ts2",
+      "company": "DRW",
+      "title": "Threat Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T18:41:50.859Z",
+      "postId": "0xce0e70378a863ab55ea75eef5e76e470cc623227",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "ts2",
+      "company": "DRW",
+      "title": "Threat Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T18:41:50.859Z",
+      "postId": "0x7e303e7e17a940f62e3e7bbb62141d10cd107939",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "ts2",
+      "company": "DRW",
+      "title": "Threat Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T18:41:50.859Z",
+      "postId": "0x08f8841dcbdc875d608c82d3dacfb101e33b8493",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "ts2",
+      "company": "DRW",
+      "title": "Threat Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T18:41:50.859Z",
+      "postId": "0x475f292c5c77ae312f4c88061bc99fdc53cad767",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "ts2",
+      "company": "DRW",
+      "title": "Threat Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T18:41:50.859Z",
+      "postId": "0xada667fa16273980928f6ab242157efcd24c5263",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "ts2",
+      "company": "DRW",
+      "title": "Threat Specialist",
+      "platform": "linkedin",
+      "postedAt": "2026-09-28T18:41:50.859Z",
+      "postId": "6abab50ca0e5aa5ec3b04aa3",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "ts2",
+      "company": "DRW",
+      "title": "Threat Specialist",
+      "platform": "linkedin",
+      "postedAt": "2026-09-28T18:41:50.859Z",
+      "postId": "6abab517a0e5aa5ec3b04e73",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "ts2",
+      "company": "DRW",
+      "title": "Threat Specialist",
+      "platform": "linkedin",
+      "postedAt": "2026-09-28T18:41:50.859Z",
+      "postId": "urn:li:share:7510408669704962049",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "ts2",
+      "company": "DRW",
+      "title": "Threat Specialist",
+      "platform": "facebook",
+      "postedAt": "2026-09-28T18:41:50.859Z",
+      "postId": "691827047618629_1100791595861408",
+      "verification": "verified"
+    },
+    {
+      "slug": "ts2",
+      "company": "DRW",
+      "title": "Threat Specialist",
+      "platform": "instagram",
+      "postedAt": "2026-09-28T18:41:50.859Z",
+      "postId": "18094973612129503",
+      "verification": "verified"
+    },
+    {
+      "slug": "css",
+      "company": "Crystal Intelligence",
+      "title": "Customer Success Specialist (Remote)",
+      "platform": "x",
+      "postedAt": "2026-09-28T18:43:15.047Z",
+      "postId": "6abab5437b12118e0adde317",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Crystal Intelligence is hiring Customer Success Specialist (Remote)\n\nhttps://hashtagweb3.com/css/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2104643115126579447"
+    },
+    {
+      "slug": "css",
+      "company": "Crystal Intelligence",
+      "title": "Customer Success Specialist (Remote)",
+      "platform": "threads",
+      "postedAt": "2026-09-28T18:43:15.047Z",
+      "postId": "18089020001242409",
+      "verification": "verified",
+      "expectedText": "Crystal Intelligence is hiring Customer Success Specialist (Remote): https://hashtagweb3.com/css/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/Dd12v__Dxic",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "css",
+      "company": "Crystal Intelligence",
+      "title": "Customer Success Specialist (Remote)",
+      "platform": "bluesky",
+      "postedAt": "2026-09-28T18:43:15.047Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwlxsofou72c",
+      "verification": "verified"
+    },
+    {
+      "slug": "css",
+      "company": "Crystal Intelligence",
+      "title": "Customer Success Specialist (Remote)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T18:43:15.047Z",
+      "postId": "0x0e9876f2b8c567f00477a7f9ed7ceefb45d43e4e",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "css",
+      "company": "Crystal Intelligence",
+      "title": "Customer Success Specialist (Remote)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T18:43:15.047Z",
+      "postId": "0xdafc1968117fe78a0f3f3b5be8ca45cefcfa991b",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "css",
+      "company": "Crystal Intelligence",
+      "title": "Customer Success Specialist (Remote)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T18:43:15.047Z",
+      "postId": "0x3655e4607c17b475dbc18c4d228a46125890e3b0",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "css",
+      "company": "Crystal Intelligence",
+      "title": "Customer Success Specialist (Remote)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T18:43:15.047Z",
+      "postId": "0x5f07b3c8ad5ed6ffbf0bf5c3b8c70337d28f1e48",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "css",
+      "company": "Crystal Intelligence",
+      "title": "Customer Success Specialist (Remote)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T18:43:15.047Z",
+      "postId": "0xd2a9aed5317c5251e705cff153374b656a68173b",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "css",
+      "company": "Crystal Intelligence",
+      "title": "Customer Success Specialist (Remote)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T18:43:15.047Z",
+      "postId": "0xb305ef8d243037bc7797068b61d9f6f970282cc2",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "css",
+      "company": "Crystal Intelligence",
+      "title": "Customer Success Specialist (Remote)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T18:43:15.047Z",
+      "postId": "0x388fdd4551a6f8b31650f7e71afefd5e6eeeaf02",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "css",
+      "company": "Crystal Intelligence",
+      "title": "Customer Success Specialist (Remote)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T18:43:15.047Z",
+      "postId": "0xda20b7d8f9f652538620cbbd8fbd15638bd5df37",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "css",
+      "company": "Crystal Intelligence",
+      "title": "Customer Success Specialist (Remote)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T18:43:15.047Z",
+      "postId": "0xdcb2a25a12e7e76c6a0076ce685db87b46049342",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "css",
+      "company": "Crystal Intelligence",
+      "title": "Customer Success Specialist (Remote)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T18:43:15.047Z",
+      "postId": "0xee45499c9207ae0116b1038b058079a4b9047a7f",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "css",
+      "company": "Crystal Intelligence",
+      "title": "Customer Success Specialist (Remote)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T18:43:15.047Z",
+      "postId": "0x5bbf18ffdf91c4f2ac101f643c35622f07916e32",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "css",
+      "company": "Crystal Intelligence",
+      "title": "Customer Success Specialist (Remote)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T18:43:15.047Z",
+      "postId": "0xb8e72e503436e210d7df42a33ea2e783889be4fe",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "css",
+      "company": "Crystal Intelligence",
+      "title": "Customer Success Specialist (Remote)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T18:43:15.047Z",
+      "postId": "0x9ab0dccef5159eba05450992d8807b4e797f9658",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "css",
+      "company": "Crystal Intelligence",
+      "title": "Customer Success Specialist (Remote)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T18:43:15.047Z",
+      "postId": "0xbec484df1d9ccdcff694f72a8c12e9bd9bdac690",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "css",
+      "company": "Crystal Intelligence",
+      "title": "Customer Success Specialist (Remote)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T18:43:15.047Z",
+      "postId": "0x2470b4a3c238d54d76311f6af56bd9221fd137c5",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "css",
+      "company": "Crystal Intelligence",
+      "title": "Customer Success Specialist (Remote)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T18:43:15.047Z",
+      "postId": "0xca65d2f807c2cbd7be16606fcf099db0d6744cc8",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "css",
+      "company": "Crystal Intelligence",
+      "title": "Customer Success Specialist (Remote)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-28T18:43:15.047Z",
+      "postId": "0x7b479014d6b82719178af21050fc3c354c366950",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "css",
+      "company": "Crystal Intelligence",
+      "title": "Customer Success Specialist (Remote)",
+      "platform": "linkedin",
+      "postedAt": "2026-09-28T18:43:15.047Z",
+      "postId": "6abab556c23da36df563e05d",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "css",
+      "company": "Crystal Intelligence",
+      "title": "Customer Success Specialist (Remote)",
+      "platform": "linkedin",
+      "postedAt": "2026-09-28T18:43:15.047Z",
+      "postId": "6abab5607b12118e0addea9a",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "css",
+      "company": "Crystal Intelligence",
+      "title": "Customer Success Specialist (Remote)",
+      "platform": "linkedin",
+      "postedAt": "2026-09-28T18:43:15.047Z",
+      "postId": "urn:li:share:7510408973901058048",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "css",
+      "company": "Crystal Intelligence",
+      "title": "Customer Success Specialist (Remote)",
+      "platform": "facebook",
+      "postedAt": "2026-09-28T18:43:15.047Z",
+      "postId": "691827047618629_1100792345861333",
+      "verification": "verified"
+    },
+    {
+      "slug": "css",
+      "company": "Crystal Intelligence",
+      "title": "Customer Success Specialist (Remote)",
+      "platform": "instagram",
+      "postedAt": "2026-09-28T18:43:15.047Z",
+      "postId": "18111935479857696",
       "verification": "verified"
     }
   ]
