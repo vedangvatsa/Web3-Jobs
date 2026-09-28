@@ -63,5 +63,35 @@
     ],
     "messageId": 65708,
     "sentAt": "2026-09-27T15:51:30.384Z"
+  },
+  "4ad685ad-8fc7-4310-adfb-aa23dba9bd1c": {
+    "status": "reserved",
+    "reservedAt": "2026-09-28T11:36:36.066Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "California Bans Public Officials From Creating Memecoins",
+        "summary": "Governor Newsom signed legislation restricting California officials and crypto platforms from offering official-linked tokens starting in 2027.",
+        "link": "https://hashtagweb3.com/california-memecoins?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "California Bars Public Officials From Issuing Memecoins"
+      },
+      {
+        "index": -1,
+        "headline": "Riot Repays $200 Million Coinbase Loan, Releasing Collateral",
+        "summary": "On September 21, the bitcoin miner cleared its debt, recovering its custody-held bitcoin, USDC, and cash collateral.",
+        "link": "https://hashtagweb3.com/riot-loan?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Riot Platforms Repays $200M Coinbase Loan and Frees Collateral"
+      },
+      {
+        "index": -1,
+        "headline": "THORChain Rejects Bitget Request to Block Hacker Wallets",
+        "summary": "The protocol maintained its permissionless status by refusing to blacklist addresses linked to a September 24 theft.",
+        "link": "https://hashtagweb3.com/thorchain-bitget?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "THORChain Refuses Bitget Plea to Block Hacker Wallets"
+      }
+    ]
   }
 }
