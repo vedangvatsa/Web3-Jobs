@@ -30,5 +30,41 @@
     ],
     "messageId": 193299,
     "sentAt": "2026-09-27T19:35:22.173Z"
+  },
+  "342550b1-df57-45e1-8620-9bd40ea7da8c": {
+    "status": "reserved",
+    "reservedAt": "2026-09-28T18:53:26.333Z",
+    "stories": [
+      {
+        "index": 1,
+        "original_title": "Nvidia launches new platform for reining in rogue AI agents",
+        "headline": "Nvidia releases security toolkit for managing autonomous AI agents",
+        "summary": "The platform provides software and hardware tools to monitor and restrict the behavior of independent AI systems.",
+        "event_rationale": "This covers a specific infrastructure release by Nvidia to address AI safety, distinct from existing reports on model behavior or government policy.",
+        "link": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+        "source": "TechCrunch",
+        "originalTitle": "Nvidia launches new platform for reining in rogue AI agents"
+      },
+      {
+        "index": 8,
+        "original_title": "Modulate raises $25M for its voice models and analysis suite",
+        "headline": "Modulate secures $25 million for AI voice fraud detection",
+        "summary": "The funding supports the development of models designed to identify synthetic audio and prevent automated voice scams.",
+        "event_rationale": "This is a distinct funding event for an AI-specific security company, separate from other reported venture capital rounds.",
+        "link": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/",
+        "source": "TechCrunch",
+        "originalTitle": "Modulate raises $25M for its voice models and analysis suite"
+      },
+      {
+        "index": 13,
+        "original_title": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
+        "headline": "Pentagon requests $30 million for AI-powered lie detection system",
+        "summary": "The five-year project aims to develop automated technology for verifying the truthfulness of statements during government operations.",
+        "event_rationale": "This reports on a specific new US military procurement initiative for AI, distinct from previously listed military or government AI deployments.",
+        "link": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
+        "source": "MIT Tech Review",
+        "originalTitle": "The Download: the Pentagon’s AI-powered lie detector and young organ limits"
+      }
+    ]
   }
 }
