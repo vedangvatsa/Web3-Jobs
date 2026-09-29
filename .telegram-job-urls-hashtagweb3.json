@@ -93,6 +93,14 @@
     "lastUrl": "https://hashtagweb3.com/engineer-00qgkcd",
     "updatedAt": "2026-09-15T19:44:53.369Z"
   },
+  "7144975": {
+    "slugs": [
+      "engineer113"
+    ],
+    "lastSlug": "engineer113",
+    "lastUrl": "https://hashtagweb3.com/engineer113",
+    "updatedAt": "2026-09-29T19:48:28.829Z"
+  },
   "7374010": {
     "slugs": [
       "intern4",
@@ -6254,5 +6262,37 @@
     "lastSlug": "mkt2",
     "lastUrl": "https://hashtagweb3.com/mkt2",
     "updatedAt": "2026-09-26T19:33:36.624Z"
+  },
+  "3255ab0c-a3e0-4f43-a077-aeb7344614e6": {
+    "slugs": [
+      "be32"
+    ],
+    "lastSlug": "be32",
+    "lastUrl": "https://hashtagweb3.com/be32",
+    "updatedAt": "2026-09-29T19:48:28.829Z"
+  },
+  "aa419485-73ef-471a-a128-bfd683ca13b1": {
+    "slugs": [
+      "ceo"
+    ],
+    "lastSlug": "ceo",
+    "lastUrl": "https://hashtagweb3.com/ceo",
+    "updatedAt": "2026-09-29T19:48:28.829Z"
+  },
+  "d5cba59b-9e8c-4693-baa2-1b6ddc7466e0": {
+    "slugs": [
+      "security139"
+    ],
+    "lastSlug": "security139",
+    "lastUrl": "https://hashtagweb3.com/security139",
+    "updatedAt": "2026-09-29T19:48:28.829Z"
+  },
+  "550284fe-a3d3-4dae-bef8-0610c9cc3eba": {
+    "slugs": [
+      "engineer582"
+    ],
+    "lastSlug": "engineer582",
+    "lastUrl": "https://hashtagweb3.com/engineer582",
+    "updatedAt": "2026-09-29T19:48:28.829Z"
   }
 }

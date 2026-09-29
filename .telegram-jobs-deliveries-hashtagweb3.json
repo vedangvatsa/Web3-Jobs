@@ -1,6 +1,6 @@
 {
   "6cdd1929-bef4-40db-885e-c71dda70bad4": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-09-29T19:48:19.368Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -41,6 +41,8 @@
       }
     ],
     "message": "• Moonshot is hiring <a href=\"https://hashtagweb3.com/be32?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Backend &amp; Platform Engineer</a>\n• Molecule is hiring <a href=\"https://hashtagweb3.com/ceo?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">CEO Attaché</a>\n• Lens Protocol is hiring <a href=\"https://hashtagweb3.com/security139?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Security Engineer</a>\n• Toku is hiring <a href=\"https://hashtagweb3.com/engineer582?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Sr Site Reliability Engineer / Cloud Engineer</a>\n• Stripe is hiring <a href=\"https://hashtagweb3.com/engineer113?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Design Engineer</a>",
-    "slotKey": "2026-09-29:evening"
+    "slotKey": "2026-09-29:evening",
+    "messageId": 155513,
+    "sentAt": "2026-09-29T19:48:28.829Z"
   }
 }
