@@ -96,5 +96,54 @@
         ]
       }
     ]
+  },
+  "00dc6bdf-5a8b-4fb9-b6c0-8ec6fb824039": {
+    "status": "reserved",
+    "reservedAt": "2026-09-29T19:47:45.196Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "kbw-official-solana-summit-korea-09-30",
+        "slug": "ssk",
+        "name": "Solana Summit Korea",
+        "startDate": "2026-09-30T00:30:00.000Z",
+        "keys": [
+          "kbw-official-solana-summit-korea-09-30",
+          "w3v-solana-summit-korea",
+          "page:ssk:2026-09-30",
+          "luma:evt-xf0qhgukzebjkno",
+          "luma-url:/solana-summit-korea-2026",
+          "event:solanasummitkorea:2026-09-30:seoul"
+        ]
+      },
+      {
+        "id": "luma-batch-evtrzXLDMSFDAuLv",
+        "slug": "83oq4sls",
+        "name": "Web3 AI Seoul 2026: Artist Agent",
+        "startDate": "2026-09-30T03:00:00.000Z",
+        "keys": [
+          "luma-batch-evtrzxldmsfdaulv",
+          "page:83oq4sls:2026-09-30",
+          "luma:evt-rzxldmsfdaulvgc",
+          "luma-url:/83oq4sls",
+          "event:web3aiseoul2026artistagent:2026-09-30:seoul"
+        ]
+      },
+      {
+        "id": "luma-batch-evt1fn1QcsOeuXbg",
+        "slug": "nnp60kyd",
+        "name": "Trading Workshop: Making Sense of Crypto",
+        "startDate": "2026-09-30T03:30:00.000Z",
+        "keys": [
+          "luma-batch-evt1fn1qcsoeuxbg",
+          "page:nnp60kyd:2026-09-30",
+          "luma:evt-1fn1qcsoeuxbgcn",
+          "luma-url:/nnp60kyd",
+          "event:tradingworkshopmakingsenseofcrypto:2026-09-30:brisbane city"
+        ]
+      }
+    ],
+    "slotKey": "2026-09-29:evening"
   }
 }
