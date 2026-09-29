@@ -1297,7 +1297,7 @@
     "id": "premier-indiabw-2026",
     "slug": "ibw",
     "name": "India Blockchain Week 2026",
-    "description": "India Blockchain Week 2026 is India's flagship Web3 gathering, hosted by Hashed Emergent. The two-day flagship conference anchors India Blockchain Week on 1-2 November at Fairmont Mumbai.\n\n## Fourth edition in Mumbai\n\nAfter three landmark editions in Bangalore, the conference moves to Mumbai, India's financial capital, for its fourth edition: closer to capital, institutions and the conversations shaping the next phase of growth.\n\n## Program\n\nThe week features more than 50 side events alongside flagship conferences such as the IBW Conference, Devcon and EthGlobal, with hackathons, lounges, investor dinners, workshops, networking sessions and community parties hosted by Indian and global ecosystem players.\n\n## Passes\n\nGeneral passes cover two conference days with the IBW Connect app and expo access. Priority adds the Fairmont lunch buffet and Institutional Forum eligibility. VIP adds the lounge and the pre-conference VIP dinner night, with an Executive tier adding a Fairmont stay and transfers, plus student passes with workshop and hackathon access. Prices exclude GST.\n\n## Who attends\n\nThe audience mix spans builders and developers, founders and CEOs, protocol and project teams, investors and capital, policy and institutions, and media and ecosystem contributors.\n\n## Speakers\n\nConfirmed speakers for IBW2026 are announced on the organizer's speakers page, with more to be added closer to the event.\n\nSee the [official speaker directory](https://indiablockchainweek.com/ibw_2026/speakers) for the full roster.\n\nPast editions of India Blockchain Week have featured Vitalik Buterin (Ethereum), Sandeep Nailwal (Polygon), Jesse Pollak (Base), Sreeram Kannan (Eigen Labs), Avery Ching (Aptos Labs), Charles Guillemet (Ledger), Keone Hon (Monad Foundation), Kelvin Koh (Spartan Group), Vishal Kankani (Multicoin Capital), Yusuf Goolamabbas (Animoca Brands), Ashish Singhal (CoinSwitch) and Sumit Gupta (CoinDCX), among others.\n\nSpeaker, sponsor and partner applications remain open.",
+    "description": "India Blockchain Week 2026 takes place on 1-2 November at Fairmont Mumbai. Hosted by Hashed Emergent, this is the fourth IBW conference and its first edition in Mumbai after three editions in Bangalore.\n\nThe two-day conference is part of the wider India Blockchain Week, which includes independently organized hackathons, workshops, meetups and investor dinners. The side-event listings below link to individual event pages; check each organizer's registration requirements when planning your week.\n\n## Tickets and access\n\nThe organizer lists these pass prices as of 29 September 2026, before applicable taxes, including GST:\n\n- **General - ₹1,499:** Access to both conference days, the exhibition area and the IBW Connect app.\n- **Priority - ₹3,499:** General benefits plus the Fairmont lunch buffet on both days and Institutional Forum eligibility.\n- **VIP - ₹29,999:** Priority benefits plus the Grand Terminus VIP lounge and the pre-conference VIP dinner night.\n- **Executive VIP - ₹59,999:** VIP benefits plus one night's stay at Fairmont and dedicated airport transfers.\n- **Student - ₹999:** General benefits plus priority access to workshops and hackathon eligibility.\n\nUse the [official ticket page](https://www.indiablockchainweek.com/#tickets) to check current prices and pass availability.\n\n## Speakers\n\nThe announced 2026 lineup includes Eli Ben-Sasson (StarkWare), Keone Hon (Monad Foundation), Prabal Banerjee (Avail), Marcin Kazmierczak (RedStone Oracles), Doug Hsu (CMT Digital) and Harshit Tiwari (NEAR Foundation).\n\nThe session agenda is still being finalized. The [official speaker directory](https://indiablockchainweek.com/ibw_2026/speakers) lists the current speakers and their roles as further names are announced.",
     "startDate": "2026-11-01",
     "endDate": "2026-11-02",
     "city": "Mumbai",
@@ -1319,15 +1319,28 @@
     "addressCountry": "IN",
     "descriptionSource": {
       "url": "https://indiablockchainweek.com/",
-      "fetchedAt": "2026-09-21T05:12:53.001Z",
+      "fetchedAt": "2026-09-29T09:57:10.242Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "India Blockchain Week 2026",
-      "sha256": "ea2dc311c2e2e54ff31955b3e245cf258eb55c2a5edff50f8468ba12355a4823",
+      "sha256": "170d199cfa39ad4aa869425c14c6298fd092ac0e1fb147fd8ba05c05ffa4ffd0",
+      "evidence": [
+        {
+          "url": "https://indiablockchainweek.com/",
+          "fetchedAt": "2026-09-29T09:57:10.242Z",
+          "sha256": "2800ae537190d393298f6ef2f20b9e699a43fc339e92bc2aa1551173bed88553"
+        },
+        {
+          "url": "https://indiablockchainweek.com/ibw_2026/speakers",
+          "fetchedAt": "2026-09-29T09:57:10.358Z",
+          "sha256": "8d3163fed4403cdf48bc9167e69fc8a84edbd6e66541c3d91607a0b0bf9f0b2b"
+        }
+      ],
       "speakersUrl": "https://indiablockchainweek.com/ibw_2026/speakers",
-      "speakersFetchedAt": "2026-09-22T09:27:52.000Z"
+      "speakersFetchedAt": "2026-09-29T09:57:10.358Z"
     },
     "speakers": [
       "Eli Ben-Sasson",
+      "Keone Hon",
       "Prabal Banerjee",
       "Tobias Bauer",
       "Doug Hsu",
@@ -1342,6 +1355,11 @@
         "name": "Eli Ben-Sasson",
         "title": "Co-Founder & CEO",
         "organization": "StarkWare"
+      },
+      {
+        "name": "Keone Hon",
+        "title": "GM and Co-Founder",
+        "organization": "Monad Foundation"
       },
       {
         "name": "Prabal Banerjee",

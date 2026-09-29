@@ -3415,33 +3415,27 @@ An organizer description has not been verified for this record. Any previous cop
 
 ### About the event
 
-India Blockchain Week 2026 is India's flagship Web3 gathering, hosted by Hashed Emergent. The two-day flagship conference anchors India Blockchain Week on 1-2 November at Fairmont Mumbai.
+India Blockchain Week 2026 takes place on 1-2 November at Fairmont Mumbai. Hosted by Hashed Emergent, this is the fourth IBW conference and its first edition in Mumbai after three editions in Bangalore.
 
-### Fourth edition in Mumbai
+The two-day conference is part of the wider India Blockchain Week, which includes independently organized hackathons, workshops, meetups and investor dinners. The side-event listings below link to individual event pages; check each organizer's registration requirements when planning your week.
 
-After three landmark editions in Bangalore, the conference moves to Mumbai, India's financial capital, for its fourth edition: closer to capital, institutions and the conversations shaping the next phase of growth.
+### Tickets and access
 
-### Program
+The organizer lists these pass prices as of 29 September 2026, before applicable taxes, including GST:
 
-The week features more than 50 side events alongside flagship conferences such as the IBW Conference, Devcon and EthGlobal, with hackathons, lounges, investor dinners, workshops, networking sessions and community parties hosted by Indian and global ecosystem players.
+- **General - ₹1,499:** Access to both conference days, the exhibition area and the IBW Connect app.
+- **Priority - ₹3,499:** General benefits plus the Fairmont lunch buffet on both days and Institutional Forum eligibility.
+- **VIP - ₹29,999:** Priority benefits plus the Grand Terminus VIP lounge and the pre-conference VIP dinner night.
+- **Executive VIP - ₹59,999:** VIP benefits plus one night's stay at Fairmont and dedicated airport transfers.
+- **Student - ₹999:** General benefits plus priority access to workshops and hackathon eligibility.
 
-### Passes
-
-General passes cover two conference days with the IBW Connect app and expo access. Priority adds the Fairmont lunch buffet and Institutional Forum eligibility. VIP adds the lounge and the pre-conference VIP dinner night, with an Executive tier adding a Fairmont stay and transfers, plus student passes with workshop and hackathon access. Prices exclude GST.
-
-### Who attends
-
-The audience mix spans builders and developers, founders and CEOs, protocol and project teams, investors and capital, policy and institutions, and media and ecosystem contributors.
+Use the [official ticket page](https://www.indiablockchainweek.com/#tickets) to check current prices and pass availability.
 
 ### Speakers
 
-Confirmed speakers for IBW2026 are announced on the organizer's speakers page, with more to be added closer to the event.
+The announced 2026 lineup includes Eli Ben-Sasson (StarkWare), Keone Hon (Monad Foundation), Prabal Banerjee (Avail), Marcin Kazmierczak (RedStone Oracles), Doug Hsu (CMT Digital) and Harshit Tiwari (NEAR Foundation).
 
-See the [official speaker directory](https://indiablockchainweek.com/ibw_2026/speakers) for the full roster.
-
-Past editions of India Blockchain Week have featured Vitalik Buterin (Ethereum), Sandeep Nailwal (Polygon), Jesse Pollak (Base), Sreeram Kannan (Eigen Labs), Avery Ching (Aptos Labs), Charles Guillemet (Ledger), Keone Hon (Monad Foundation), Kelvin Koh (Spartan Group), Vishal Kankani (Multicoin Capital), Yusuf Goolamabbas (Animoca Brands), Ashish Singhal (CoinSwitch) and Sumit Gupta (CoinDCX), among others.
-
-Speaker, sponsor and partner applications remain open.
+The session agenda is still being finalized. The [official speaker directory](https://indiablockchainweek.com/ibw_2026/speakers) lists the current speakers and their roles as further names are announced.
 
 <a id="event-5a90a4056685d05d"></a>
 

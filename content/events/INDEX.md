@@ -101,7 +101,7 @@ Each entry links to its formatted description and original source file. All stor
 | [LABITCONF 2026](descriptions.md#event-1c5ab0a32434070b) | 2026-10-30 | Source-backed (1595 chars) |
 | [India Blockchain & AI Tour 2026 — Mumbai](descriptions.md#event-4a8811658c73c4b8) | 2026-10-31 | Source-backed (2664 chars) |
 | [IBW2026 Pre-Conference VIP Night](descriptions.md#event-aa91470fe5046d1f) | 2026-10-31 | Unverified stored copy (147 chars) |
-| [India Blockchain Week 2026](descriptions.md#event-98762cc73455f7a9) | 2026-11-01 | Source-backed (1995 chars) |
+| [India Blockchain Week 2026](descriptions.md#event-98762cc73455f7a9) | 2026-11-01 | Source-backed (1738 chars) |
 | [Cosmoverse 2026](descriptions.md#event-5a90a4056685d05d) | 2026-11-01 | Source-backed (969 chars) |
 | [DeFi Security Summit - Day 1](descriptions.md#event-5454f78c212801cd) | 2026-11-01 | Unverified stored copy (595 chars) |
 | [IBW Institutional Forum](descriptions.md#event-576df5110197ca1c) | 2026-11-01 | Unverified stored copy (158 chars) |
