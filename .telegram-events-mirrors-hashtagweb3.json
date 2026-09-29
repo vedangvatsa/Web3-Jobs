@@ -30,5 +30,12 @@
     "status": "sent",
     "attempts": 0,
     "deliveredMessageId": 6
+  },
+  "@hashtagweb3:155512:@eventsweb3": {
+    "fromChatId": "@hashtagweb3",
+    "sourceMessageId": 155512,
+    "destination": "@eventsweb3",
+    "status": "pending",
+    "attempts": 0
   }
 }
