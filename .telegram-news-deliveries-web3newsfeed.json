@@ -161,5 +161,35 @@
     ],
     "messageId": 65711,
     "sentAt": "2026-09-29T00:01:23.410Z"
+  },
+  "f7f16549-eeaf-4ded-afb2-e29072a23764": {
+    "status": "reserved",
+    "reservedAt": "2026-09-29T04:15:10.167Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Fetch.ai and NuNet Exploited for $2 Million",
+        "summary": "A single attacker stole 8.7 million FET and minted 408.5 million NTX tokens on September 19.",
+        "link": "https://hashtagweb3.com/fetch-hack?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Same Attacker Drained Fetch.ai Converter and Minted NuNet Tokens in $2M Exploit"
+      },
+      {
+        "index": 1,
+        "headline": "Nvidia releases platform to monitor autonomous AI agents",
+        "summary": "This tool aims to prevent AI systems from escaping controlled environments following recent security breaches.",
+        "link": "https://cointelegraph.com/news/nvidia-unveils-ai-safety-platform-to-rein-in-rogue-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph",
+        "originalTitle": "Nvidia unveils AI safety platform to rein in ‘rogue’ AI agents"
+      },
+      {
+        "index": 6,
+        "headline": "Vitalik Buterin outlines Ethereum cryptographic upgrade plan",
+        "summary": "Future Ethereum upgrades will rely on recursive STARKs and formal verification after the Hegota hard fork.",
+        "link": "https://decrypt.co/379461/vitalik-buterin-outlines-cryptographic-world-computer-plan-for-ethereum",
+        "source": "Decrypt",
+        "originalTitle": "Vitalik Buterin Outlines 'Cryptographic World Computer' Plan for Ethereum"
+      }
+    ]
   }
 }

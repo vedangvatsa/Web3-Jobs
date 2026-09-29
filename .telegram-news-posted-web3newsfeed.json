@@ -647,6 +647,9 @@
   "https://hashtagweb3.com/fairshake-ohio?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://decrypt.co/379505/rsa-attack-without-stealing-key-what-it-means-crypto",
   "https://decrypt.co/379465/strive-buys-94-5-million-in-bitcoin-pushing-holdings-past-27000-btc",
+  "https://hashtagweb3.com/fetch-hack?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://cointelegraph.com/news/nvidia-unveils-ai-safety-platform-to-rein-in-rogue-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "https://decrypt.co/379461/vitalik-buterin-outlines-cryptographic-world-computer-plan-for-ethereum",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -1845,6 +1848,12 @@
   "A Clever RSA Attack Fooled a Hardware Vault—Here's What It Means for Crypto",
   "Strive Increases Bitcoin Holdings to 27,462 BTC",
   "Strive Buys $94.5 Million in Bitcoin, Pushing Holdings Past 27,000 BTC",
+  "Fetch.ai and NuNet Exploited for $2 Million",
+  "Same Attacker Drained Fetch.ai Converter and Minted NuNet Tokens in $2M Exploit",
+  "Nvidia releases platform to monitor autonomous AI agents",
+  "Nvidia unveils AI safety platform to rein in ‘rogue’ AI agents",
+  "Vitalik Buterin outlines Ethereum cryptographic upgrade plan",
+  "Vitalik Buterin Outlines 'Cryptographic World Computer' Plan for Ethereum",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -2021,5 +2030,8 @@
   "fp:agent|amodei|australia|bank|call|congressional|financial|government|hack|identify",
   "fp:30m|advertisement|against|bid|brown|commit|fairshak|fund|mailer|ohio",
   "fp:500m|attack|blockchain|clever|com|dollar|enter|exchang|fool|hardwar",
-  "fp:000|107|462|945m|btc|buy|fund|increas|past27|preferr"
+  "fp:000|107|462|945m|btc|buy|fund|increas|past27|preferr",
+  "fp:4085m|87m|attacker|converter|drain|exploit|fet|fetch|mint|ntx",
+  "fp:agent|aim|autonomous|breach|controll|environment|escap|follow|monitor|nvidia",
+  "fp:buterin|computer|cryptographic|fork|formal|futur|hard|hegota|outlin|plan"
 ]
