@@ -108,7 +108,7 @@
     "sentAt": "2026-09-29T00:05:24.970Z"
   },
   "93c39f73-5cf8-4126-b4d4-f9e2cfc3de9a": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-09-29T11:37:23.882Z",
     "stories": [
       {
@@ -141,6 +141,8 @@
         "source": "TechCrunch",
         "originalTitle": "OpenAI reportedly ditches model over safety concerns"
       }
-    ]
+    ],
+    "messageId": 193302,
+    "sentAt": "2026-09-29T11:37:26.308Z"
   }
 }
