@@ -1,6 +1,62 @@
 {
-  "generatedAt": "2026-09-29T10:00:53.985Z",
+  "generatedAt": "2026-09-29T11:31:39.281Z",
   "items": [
+    {
+      "title": "Ethereum schedules Glamsterdam upgrade on Sepolia for Oct. 6",
+      "link": "https://cointelegraph.com/news/ethereum-glamsterdam-upgrade-sepolia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 29 Sep 2026 10:46:05 +0000",
+      "creator": "Yohan Yun",
+      "contentSnippet": "Glamsterdam will bring proposer-builder separation, block-level access lists and new gas pricing, while its mainnet date remains unset.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Canada's 'Crypto King' Aiden Pleterski to Represent Himself at Fraud Trial",
+      "link": "https://decrypt.co/379523/canadas-crypto-king-aiden-pleterski-to-represent-himself-at-fraud-trial",
+      "pubDate": "Tue, 29 Sep 2026 10:38:29 +0000",
+      "creator": "Agent",
+      "contentSnippet": "The judge has told Pleterski he will raise objections on his behalf, to keep inadmissible evidence away from the jury.",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Aave leads DeFi higher as crypto shrugs off surging bond market",
+      "link": "https://www.coindesk.com/markets/2026/09/29/aave-leads-defi-higher-as-crypto-shrugs-off-surging-treasury-yields",
+      "pubDate": "Tue, 29 Sep 2026 10:28:51 +0000",
+      "creator": "Oliver Knight",
+      "contentSnippet": "Aave jumped 11% on speculation over a token burn, with 72 of 100 CoinDesk 100 constituents higher even as the 10-year Treasury yield sat at 5.234%.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Blockchain.com Is Preparing $500,000,000 IPO at Up to $6,000,000,000 Valuation",
+      "link": "https://dailyhodl.com/2026/09/29/blockchain-com-is-preparing-500000000-ipo-at-up-to-6000000000-valuation/",
+      "pubDate": "Tue, 29 Sep 2026 10:15:35 +0000",
+      "creator": "Agent",
+      "contentSnippet": "Blockchain.com is gearing up for a roughly $500 million IPO this year targeting a $4-6 billion valuation as the crypto market begins to thaw.\nThe post...",
+      "source": "Daily Hodl"
+    },
+    {
+      "title": "US crypto ETF inflows cool after $3.3B week but streaks hold",
+      "link": "https://cointelegraph.com/markets/us-crypto-etf-inflows-cool-bitcoin-ether-solana-xrp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 29 Sep 2026 10:15:19 +0000",
+      "creator": "Ezra Reguerra",
+      "contentSnippet": "US spot crypto ETF inflows fell about 80% from Friday as Bitcoin, Ether, Solana and XRP funds attracted $64.8 million combined on Monday.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Live updates: Bitcoin rebounds above $84,000 as ETFs draw in $30 million",
+      "link": "https://www.coindesk.com/markets/2026/09/29/live-updates-bitcoin-rebounds-above-usd84-000-as-treasury-yields-steady",
+      "pubDate": "Tue, 29 Sep 2026 10:14:41 +0000",
+      "creator": "Shaurya Malwa",
+      "contentSnippet": "Ether led a modest recovery among major tokens, while ZEC extended its slide and its U.S. fund posted the only outflow among crypto ETFs on Monday.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Bitcoin bounces to $84K after US 30-year bond yield sets 24-year high",
+      "link": "https://cointelegraph.com/markets/bitcoin-bounces-to-84k-after-us-30-year-bond-yield-sets-24-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 29 Sep 2026 10:04:42 +0000",
+      "creator": "William Suberg",
+      "contentSnippet": "Bitcoin price action consolidated after early-week losses while protecting a “trend-defining” support zone.",
+      "source": "Cointelegraph"
+    },
     {
       "title": "Greece gets first MiCA entrants as watchdog denies Binance-Lagarde claim",
       "link": "https://cointelegraph.com/news/greece-first-mica-entrants-hcmc-binance-lagarde?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -82,36 +138,12 @@
       "source": "Decrypt"
     },
     {
-      "title": "Crypto Exchange Bitget Says Hacker Exploited Vulnerabilities From Third-Party Products To Pull Off Last Week’s $388,000,000 Exploit",
-      "link": "https://dailyhodl.com/2026/09/28/crypto-exchange-bitget-says-hacker-exploited-vulnerabilities-from-third-party-products-to-pull-off-last-weeks-388000000-exploit/",
-      "pubDate": "Mon, 28 Sep 2026 20:59:26 +0000",
-      "creator": "Conor Devitt",
-      "contentSnippet": "The hacker who stole $388 million worth of crypto from Bitget last week “exploited vulnerabilities from third-party products,” according to the exchan...",
-      "source": "Daily Hodl"
-    },
-    {
-      "title": "Canadian ‘crypto king’ set to represent himself at fraud trial",
-      "link": "https://cointelegraph.com/news/canada-aiden-pleterski-fraud-trial-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Mon, 28 Sep 2026 20:41:44 +0000",
-      "creator": "Turner Wright",
-      "contentSnippet": "Aiden Pleterski was allegedly behind a crypto Ponzi scheme between 2021 and 2022 that resulted in a kidnapping and related criminal charges.",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "Citi Clients Can Now Take Stablecoin Payments Through Coinbase—Without Touching Crypto",
       "link": "https://decrypt.co/379497/citi-stablecoin-payments-coinbase-without-touching-crypto",
       "pubDate": "Mon, 28 Sep 2026 20:36:03 +0000",
       "creator": "Agent",
       "contentSnippet": "Coinbase and Citi expanded an existing deal so Citi's institutional clients can accept stablecoin payments, while Coinbase business accounts run on Ci...",
       "source": "Decrypt"
-    },
-    {
-      "title": "Blockchain.com eyes $500M IPO as crypto capital markets thaw: Report",
-      "link": "https://cointelegraph.com/news/blockchain-com-500m-ipo-bloomberg-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Mon, 28 Sep 2026 20:28:13 +0000",
-      "creator": "Sam Bourgi",
-      "contentSnippet": "The crypto company is seeking a valuation of up to $6 billion, well below its 2022 peak, as recently listed crypto stocks struggle to hold their gains...",
-      "source": "Cointelegraph"
     },
     {
       "title": "US SEC follows CFTC in staff guidance for crypto",
@@ -410,22 +442,6 @@
       "source": "The Block"
     },
     {
-      "title": "Riot Platforms repays $200M credit facility, releases collateral",
-      "link": "https://cointelegraph.com/news/riot-platforms-repays-200m-credit-facility-releases-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Sun, 27 Sep 2026 09:57:19 +0000",
-      "creator": "Michael Millard",
-      "contentSnippet": "The Bitcoin miner has continued to expand its data-center business as well.",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Saylor outlines ‘bill of digital rights’ to help build prosperity in future economy",
-      "link": "https://cointelegraph.com/news/saylor-outlines-bill-of-digital-rights-to-help-build-prosperity-in-future-economy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Sun, 27 Sep 2026 07:18:42 +0000",
-      "creator": "Michael Millard",
-      "contentSnippet": "Our ambition should be to “enable 10 million new companies to raise capital,” Strategy’s executive chairman Michael Saylor wrote in an essay.",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "Bitcoin ETFs Notch Seven-Day Winning Streak as 2026 Flows Turn Green",
       "link": "https://decrypt.co/379391/bitcoin-etfs-notch-seven-day-winning-streak-as-2026-flows-turn-green",
       "pubDate": "Sat, 26 Sep 2026 17:01:03 +0000",
@@ -458,22 +474,6 @@
       "source": "Decrypt"
     },
     {
-      "title": "Kraken’s parent Payward is betting billions on becoming financial infrastructure, not just a crypto exchange",
-      "link": "https://www.coindesk.com/business/2026/09/26/kraken-s-parent-payward-is-betting-billions-on-becoming-financial-infrastructure-not-just-a-crypto-exchange",
-      "pubDate": "Sat, 26 Sep 2026 14:00:00 +0000",
-      "creator": "Will Canny",
-      "contentSnippet": "Kraken parent Payward is unifying trading, payments, asset management and institutional services on common rails, co-CEO Arjun Sethi said.",
-      "source": "Coindesk"
-    },
-    {
-      "title": "Binance deal gives Circle a boost in stablecoin race with Tether, analysts say",
-      "link": "https://www.coindesk.com/business/2026/09/26/binance-deal-gives-circle-a-boost-in-stablecoin-race-with-tether-analysts-say",
-      "pubDate": "Sat, 26 Sep 2026 13:00:00 +0000",
-      "creator": "Krisztian Sandor",
-      "contentSnippet": "The five-year deal could strengthen USDC’s reach in emerging markets, though Tether’s liquidity advantage remains hard to dislodge, analysts told Coin...",
-      "source": "Coindesk"
-    },
-    {
       "title": "US Prosecutors Want $84.2 Million From a Bank Tied to Tether",
       "link": "https://decrypt.co/379380/us-prosecutors-84-million-bank-tether-and-bitfinex",
       "pubDate": "Fri, 25 Sep 2026 21:25:35 +0000",
@@ -488,6 +488,14 @@
       "creator": "Sarah Wynn",
       "contentSnippet": "The Blockchain Association is switching up its leadership with CEO Summer Mersinger set to step down next month.",
       "source": "The Block"
+    },
+    {
+      "title": "Circle and Tether Freeze Stablecoins Tied to Bitget Hack—But Most Funds Slip Away",
+      "link": "https://decrypt.co/379365/circle-tether-freeze-stablecoins-bitget-hack",
+      "pubDate": "Fri, 25 Sep 2026 18:42:51 +0000",
+      "creator": "Agent",
+      "contentSnippet": "The two stablecoin issuers blacklisted a wallet labeled \"Bitget Exploiter 8,\" locking about $318,000 in USDC and USDT—but the attacker swapped most fu...",
+      "source": "Decrypt"
     },
     {
       "title": "Man charged in $16 million crypto ‘massive pig butchering’ scam",
@@ -543,14 +551,6 @@
       "pubDate": "Fri, 25 Sep 2026 11:09:52 +0000",
       "creator": "Agent",
       "contentSnippet": "Evercrest says LayerZero approved the single-verifier configuration in writing multiple times, then warned a different developer about it.",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Researchers Publish 'Zcash-Style' Design for Private Bitcoin Transfers",
-      "link": "https://decrypt.co/379280/researchers-publish-zcash-style-design-for-private-bitcoin-transfers",
-      "pubDate": "Fri, 25 Sep 2026 09:50:01 +0000",
-      "creator": "Agent",
-      "contentSnippet": "The Shielded Bitcoin spec hides senders, receivers and amounts, but leaves how BTC enters and exits the system to a later paper.",
       "source": "Decrypt"
     }
   ]
