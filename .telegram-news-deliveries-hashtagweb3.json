@@ -228,7 +228,7 @@
     "sentAt": "2026-09-29T10:12:36.599Z"
   },
   "be6bc357-2684-4567-9981-e9ac4d861053": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-09-29T19:49:35.133Z",
     "stories": [
       {
@@ -258,6 +258,8 @@
         "originalTitle": "Someone Finally Jailbroke the PS5—Just After Sony Said Players Don’t Own Their Games"
       }
     ],
-    "slotKey": "2026-09-29:evening"
+    "slotKey": "2026-09-29:evening",
+    "messageId": 155514,
+    "sentAt": "2026-09-29T19:49:38.271Z"
   }
 }

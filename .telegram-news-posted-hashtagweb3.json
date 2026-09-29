@@ -629,6 +629,9 @@
   "https://hashtagweb3.com/etf-inflows?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://www.coindesk.com/markets/2026/09/29/bitcoin-is-on-track-to-shatter-a-major-decade-long-streak-as-september-gains-surge",
   "https://www.coindesk.com/markets/2026/09/29/analysts-see-10-year-treasury-yield-hitting-6-bitcoin-bulls-shouldn-t-panic",
+  "https://www.theblock.co/news/markets/2026-09-29-cryptoquant-says-bitcoin-correction-could-near-traders-unrealized-profit-21-month-high-417206",
+  "https://decrypt.co/379584/openai-ai-agents-computers-devday-2026-everything-announced",
+  "https://decrypt.co/379583/sony-ps5-jailbreak-digital-games-ownership",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -1795,6 +1798,12 @@
   "Bitcoin is on track to shatter a major decade-long streak as September gains surge",
   "Analysts forecast 10-year Treasury yields reaching 6 percent",
   "Analysts see 10-year Treasury yield hitting 6%. Bitcoin bulls shouldn't panic",
+  "Ethereum schedules Glamsterdam network upgrade",
+  "CryptoQuant says bitcoin correction could be near as traders’ unrealized profit hits 21-month high",
+  "Cboe and S&P Dow Jones explore tokenized options",
+  "OpenAI Gave AI Agents Their Own Computers at DevDay 2026. Here's Everything It Announced",
+  "Developer Releases Public Jailbreak for PlayStation 5",
+  "Someone Finally Jailbroke the PS5—Just After Sony Said Players Don’t Own Their Games",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -1974,5 +1983,8 @@
   "fp:buterin|computer|cryptographic|focus|formal|functionality|futur|improv|network|outlin",
   "fp:999m|ark|blackrock|daily|day|dollar|draw|drov|etf|fidelity",
   "fp:challeng|consecutiv|cryptocurrency|decad|event|fourth|gain|growth|higher|long",
-  "fp:affect|analyst|caus|forecast10|hitting6|interest|level|mor|panic|percent"
+  "fp:affect|analyst|caus|forecast10|hitting6|interest|level|mor|panic|percent",
+  "fp:beginn|builder|correction|cryptoquant|glamsterdam|high|hits21|introduc|mechanism|month",
+  "fp:agent|announc|are|asset|blockchain|cbo|computer|creation|derivativ|devday2026",
+  "fp:argument|developer|digital|don|finally|follow|gam|jailbreak|jailbrok|legal"
 ]
