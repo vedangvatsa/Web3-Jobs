@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 /**
  * Telegram Job Poster
- * Posts 10 random Web3 jobs to Telegram channel 3x/day
+ * Posts five Web3 jobs per destination, at the three scheduled daily slots.
  * 
  * Usage:
  *   node scripts/telegram-post.mjs              # Post once
@@ -12,6 +12,8 @@
 import fs from 'fs';
 import path from 'path';
 import dotenv from 'dotenv';
+import { deliverJobsOnce, persistJobsState, readJobsState } from './social/telegram-jobs-delivery.mjs';
+import { assertPostingWindow, hasSentSlot, postingSlotFromEnv, SLOT_MINUTES_UTC } from './social/posting-slot.mjs';
 import {
   isGeneralOrPlaceholderJobTitle,
   isUnrelatedOrNonWeb3JobTitle,
@@ -40,6 +42,7 @@ const POSTED_LOG = path.join(path.dirname(new URL(import.meta.url).pathname), `.
 const URL_LOG = path.join(path.dirname(new URL(import.meta.url).pathname), `../.telegram-job-urls-${channelSlug}.json`);
 const POST_COOLDOWN_HOURS = 4;
 const LAST_POST_FILE = path.join(path.dirname(new URL(import.meta.url).pathname), `../.telegram-posted-last-${channelSlug}.json`);
+const LEDGER_FILE = path.join(path.dirname(new URL(import.meta.url).pathname), `../.telegram-jobs-deliveries-${channelSlug}.json`);
 
 if (!BOT_TOKEN || !CHANNEL_ID) {
   console.error('Missing TELEGRAM_BOT_TOKEN or TELEGRAM_CHANNEL_ID');
@@ -51,41 +54,7 @@ if (!BOT_TOKEN || !CHANNEL_ID) {
 
 // ── Load posted history (avoid repeats) ──
 function loadPosted() {
-  try {
-    return new Set(JSON.parse(fs.readFileSync(POSTED_LOG, 'utf8')));
-  } catch {
-    return new Set();
-  }
-}
-
-function savePosted(posted) {
-  // Keep last 500 to allow cycling
-  const arr = [...posted].slice(-500);
-  fs.writeFileSync(POSTED_LOG, JSON.stringify(arr));
-}
-
-function loadUrlLog() {
-  try {
-    return JSON.parse(fs.readFileSync(URL_LOG, 'utf8'));
-  } catch {
-    return {};
-  }
-}
-
-/** Persist every slug we share on Telegram so old links can be checked against the legacy archive. */
-function recordTelegramJobUrl(jobId, slug) {
-  if (!jobId || !slug) return;
-  const log = loadUrlLog();
-  const key = String(jobId);
-  const prior = log[key]?.slugs || [];
-  const slugs = [...new Set([...prior, slug])];
-  log[key] = {
-    slugs,
-    lastSlug: slug,
-    lastUrl: `https://hashtagweb3.com/${slug}`,
-    updatedAt: new Date().toISOString(),
-  };
-  fs.writeFileSync(URL_LOG, JSON.stringify(log, null, 2));
+  return new Set(readJobsState(POSTED_LOG, []));
 }
 
 // ── Build URL with UTM ──
@@ -96,26 +65,19 @@ function withUtm(url, params) {
 
 // ── Pick random jobs ──
 async function pickJobs(count) {
-  const cachePath = path.join(path.dirname(new URL(import.meta.url).pathname), '../content/jobs-cache.json');
+  const cachePath = path.join(path.dirname(new URL(import.meta.url).pathname), '../content/jobs-runtime.json');
   let jobs;
   try {
     jobs = JSON.parse(fs.readFileSync(cachePath, 'utf8'));
   } catch {
-    console.error('Could not read jobs-cache.json');
+    console.error('Could not read jobs-runtime.json');
     process.exit(1);
   }
 
   const posted = loadPosted();
   
   // Filter out already posted
-  const available = jobs.filter(j => !posted.has(j.id || j.link));
-  
-  // If running low, reset
-  if (available.length < count * 3) {
-    posted.clear();
-    savePosted(posted);
-    return pickJobs(count);
-  }
+  const available = jobs.filter(j => j.active !== false && !posted.has(String(j.id || j.link)));
   
   // Shuffle
   const shuffled = available.sort(() => Math.random() - 0.5);
@@ -165,19 +127,15 @@ async function pickJobs(count) {
 
     if (!chosenUrl) continue;
 
-    if (j.slug && chosenUrl.includes('hashtagweb3.com/')) {
-      recordTelegramJobUrl(j.id || j.link, j.slug);
-    }
-
-    posted.add(j.id || j.link);
     results.push({
+      key: String(j.id || j.link),
+      slug: j.slug,
       url: chosenUrl,
       company: fixCompanyName((j.company || '').trim()),
       title: truncateTitle((j.title || '').trim()),
     });
   }
 
-  savePosted(posted);
   return results;
 }
 
@@ -190,7 +148,9 @@ async function verifyJobUrlLive(targetUrl) {
       const res = await fetch(cleanUrl, {
         method,
         headers: {
-          'User-Agent': 'Mozilla/5.0 (compatible; HashtagWeb3Telegram/1.0)',
+          'User-Agent': 'Mozilla/5.0 (compatible; HashtagWeb3LinkCheck/1.0)',
+          'Sec-Fetch-Mode': 'navigate',
+          'Sec-Fetch-Dest': 'document',
           Accept: 'text/html,application/xhtml+xml',
         },
         redirect: 'follow',
@@ -356,6 +316,7 @@ async function sendToTelegramChat(chatId, message, { threadId } = {}) {
 
   const res = await fetch(url, {
     method: 'POST',
+    signal: AbortSignal.timeout(30000),
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify({
       chat_id: chatId,
@@ -373,49 +334,32 @@ async function sendToTelegramChat(chatId, message, { threadId } = {}) {
 
   const data = await res.json();
 
-  if (!data.ok) {
-    throw new Error(`Telegram API error (${chatId}): ${JSON.stringify(data)}`);
-  }
-
+  if (!res.ok && data.ok !== false) throw new Error(`Unconfirmed Telegram response for ${chatId}`);
   return data;
-}
-
-/** Post the same digest to the primary channel (and extras like @jobsweb3). */
-async function sendToTelegram(message) {
-  const results = [];
-  const errors = [];
-
-  for (const chatId of CHANNEL_IDS) {
-    // Thread ID only applies to the primary forum destination.
-    const threadId = chatId === CHANNEL_ID ? THREAD_ID : undefined;
-    try {
-      const data = await sendToTelegramChat(chatId, message, { threadId });
-      console.log(`  ✅ ${chatId} message ID: ${data.result.message_id}`);
-      results.push({ chatId, data });
-    } catch (e) {
-      console.error(`  ❌ ${chatId}: ${e.message}`);
-      errors.push({ chatId, error: e });
-    }
-  }
-
-  return { results, errors };
 }
 
 // ── Post once ──
 async function postOnce() {
-  // Slots are 8h apart, but GitHub often delivers the next one ~5h later.
-  // A 7h cooldown then skips the post. 4h still blocks an immediate retry.
-  try {
-    const last = JSON.parse(fs.readFileSync(LAST_POST_FILE, 'utf8'));
+  const slot = postingSlotFromEnv();
+  assertPostingWindow(slot);
+  if (!process.argv.includes('--dry-run')) persistJobsState({ syncOnly: true });
+  const ledger = readJobsState(LEDGER_FILE, {});
+  if (CHANNEL_IDS.every(chat => hasSentSlot(ledger, slot, chat))) { console.log(`Jobs already posted for ${slot.key}.`); return; }
+  if (Object.values(ledger).some(receipt => receipt.status === 'reserved')) throw new Error('Unconfirmed Telegram job delivery requires review');
+  const retry = slot && Object.values(ledger).find(receipt => receipt.slotKey === slot.key
+    || (!receipt.slotKey && Date.parse(receipt.reservedAt) >= slot.start && Date.parse(receipt.reservedAt) < slot.end));
+  const last = readJobsState(LAST_POST_FILE, undefined);
+  if (!slot && last) {
     const hoursSince = (Date.now() - new Date(last.postedAt).getTime()) / (1000 * 60 * 60);
     if (hoursSince < POST_COOLDOWN_HOURS && !process.argv.includes('--force')) {
       console.log(`⏳ Last posted ${hoursSince.toFixed(1)}h ago. Cooldown is ${POST_COOLDOWN_HOURS}h. Skipping.`);
       return;
     }
-  } catch {}
+  }
 
-  const jobs = await pickJobs(JOBS_PER_POST);
-  const message = formatMessage(jobs);
+  const jobs = retry ? retry.jobs : await pickJobs(JOBS_PER_POST);
+  if (!jobs.length) { console.log('No unposted jobs available; skipping.'); return; }
+  const message = retry ? retry.message : formatMessage(jobs);
   
   if (process.argv.includes('--dry-run')) {
     // Write to file if --output-file specified (for CI)
@@ -431,39 +375,20 @@ async function postOnce() {
   }
   
   console.log(`📢 Destinations: ${CHANNEL_IDS.join(', ')}`);
-  const { results, errors } = await sendToTelegram(message);
-  if (results.length === 0) {
-    throw errors[0]?.error || new Error('Telegram post failed for all channels');
-  }
-
-  const now = new Date().toLocaleString('en-US', { timeZone: 'Asia/Singapore' });
-  console.log(
-    `✅ Posted ${jobs.length} jobs at ${now} → ${results.map((r) => r.chatId).join(', ')}`
-  );
-
-  // Save cooldown even on partial success so @web3hiring isn't double-fired.
-  fs.writeFileSync(LAST_POST_FILE, JSON.stringify({ postedAt: new Date().toISOString() }));
-
-  if (errors.length > 0) {
-    const detail = errors.map((e) => `${e.chatId}: ${e.error.message}`).join('; ');
-    throw new Error(`Posted to ${results.map((r) => r.chatId).join(', ')}, but failed: ${detail}`);
-  }
+  await deliverJobsOnce({ jobs, message, chatIds: CHANNEL_IDS, postedFile: POSTED_LOG, lastFile: LAST_POST_FILE, urlFile: URL_LOG, ledgerFile: LEDGER_FILE, slot,
+    send: (chat, text) => sendToTelegramChat(chat, text, { threadId: chat === CHANNEL_ID ? THREAD_ID : undefined }) });
 }
 
 // ── Schedule mode (3x/day) ──
 async function schedule() {
-  // Post at 9 AM, 1 PM, 6 PM SGT
-  const HOURS = [9, 13, 18];
-  
-  console.log('📅 Scheduler started — posting at 9AM, 1PM, 6PM SGT');
+  console.log('Scheduler started — 03:30, 11:30, 19:30 UTC');
   
   const check = async () => {
     const now = new Date();
-    const sgt = new Date(now.toLocaleString('en-US', { timeZone: 'Asia/Singapore' }));
-    const hour = sgt.getHours();
-    const minute = sgt.getMinutes();
-    
-    if (HOURS.includes(hour) && minute === 0) {
+    const slot = Object.entries(SLOT_MINUTES_UTC).find(([, minute]) => minute === now.getUTCHours() * 60 + now.getUTCMinutes())?.[0];
+    if (slot) {
+      process.env.TELEGRAM_PUBLISH_SLOT = slot;
+      process.env.TELEGRAM_PUBLISH_DATE = now.toISOString().slice(0, 10);
       try {
         await postOnce();
       } catch (e) {
@@ -481,5 +406,5 @@ async function schedule() {
 if (process.argv.includes('--schedule')) {
   schedule();
 } else {
-  postOnce().catch(e => { console.error(e); process.exit(1); });
+  postOnce().catch(e => { console.error(String(e.message || e).replaceAll(BOT_TOKEN, '[redacted]')); process.exit(1); });
 }

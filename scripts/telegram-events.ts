@@ -5,6 +5,7 @@ import { formatEventDate, getEventSlug, normalizeCountry } from '../src/lib/even
 import { EVENTS_REPLY_MARKUP, deliverEventMirrors, type EventMirrorQueue } from './lib/telegram-event-mirror';
 import { deliverEventsOnce, selectUnpostedEvents } from './lib/telegram-event-delivery';
 import { eventStatePaths, persistEventState, readEventState, writeEventState, type EventDeliveries } from './social/telegram-event-state';
+import { assertPostingWindow, hasSentSlot, postingSlotFromEnv } from './social/posting-slot.mjs';
 
 dotenv.config({ path: path.join(process.cwd(), '.env.local') });
 
@@ -15,6 +16,7 @@ const mirrorChannelId = process.env.TELEGRAM_EVENTS_MIRROR_CHANNEL_ID;
 const dryRun = process.argv.includes('--dry-run');
 const files = eventStatePaths(channelId || '@hashtagweb3');
 const cooldownHours = 4;
+const slot = postingSlotFromEnv();
 async function flushMirrors(): Promise<void> {
   const mirrors = readEventState<EventMirrorQueue>(files.mirrors, {});
   const failures = await deliverEventMirrors(mirrors, botToken!, claimKey => {
@@ -62,13 +64,15 @@ function onCooldown(): boolean {
 }
 
 async function main() {
+  assertPostingWindow(slot);
   if (!dryRun) {
     persistEventState({ syncOnly: true });
     await flushMirrors();
   }
   const ledger = readEventState<EventDeliveries>(files.deliveries, {});
+  if (hasSentSlot(ledger, slot)) { console.log(`Events already posted for ${slot!.key}.`); return; }
   if (Object.values(ledger).some(entry => entry.status === 'reserved')) throw new Error('Unconfirmed Telegram event delivery requires review before another send');
-  if (onCooldown()) {
+  if (!slot && onCooldown()) {
     console.log('Events digest is still on cooldown.');
     return;
   }
@@ -98,7 +102,7 @@ async function main() {
     return;
   }
 
-  await deliverEventsOnce({ events: selected, chatId: channelId!, threadId: Number(threadId), mirrorChannelId,
+  await deliverEventsOnce({ events: selected, chatId: channelId!, threadId: Number(threadId), mirrorChannelId, slot,
     force: process.argv.includes('--force'), send: async () => {
       const response = await fetch(`https://api.telegram.org/bot${botToken}/sendMessage`, {
         method: 'POST',

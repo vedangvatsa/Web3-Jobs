@@ -1,15 +1,16 @@
 import fs from 'node:fs';
 import { pathToFileURL } from 'node:url';
+import { isPostingWindow, postingSlot } from './posting-slot.mjs';
 
 const SLOTS = ['morning', 'afternoon', 'evening'];
 
-export function planSlot(state, slot, today) {
+export function planSlot(state, slot, today, now) {
   if (!SLOTS.includes(slot)) throw new Error(`Unknown slot: ${slot}`);
   const morning = state.morning !== today;
   // Legacy morning stamps did not prove a rollout succeeded.
   const deploy = state.deployed !== today;
   const completed = state.slots?.[slot] ?? (slot === 'morning' ? undefined : state[slot]);
-  const social = completed !== today;
+  const social = completed !== today && (now === undefined || isPostingWindow(postingSlot(slot, today), new Date(now).getTime()));
   return { morning, news: morning, deploy, social, slot, skip: !morning && !deploy && !social, date: today };
 }
 
@@ -25,7 +26,7 @@ if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) 
   const [action, file, slot, today] = process.argv.slice(2);
   const state = fs.existsSync(file) ? JSON.parse(fs.readFileSync(file, 'utf8')) : {};
   if (action === 'plan') {
-    for (const [key, value] of Object.entries(planSlot(state, slot, today))) console.log(`${key}=${value}`);
+    for (const [key, value] of Object.entries(planSlot(state, slot, today, new Date()))) console.log(`${key}=${value}`);
   } else if (action === 'record') {
     const plan = JSON.parse(process.env.PUBLISH_PLAN);
     if (SLOTS.includes(plan.slot)) {

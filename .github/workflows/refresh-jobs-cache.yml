@@ -5,6 +5,8 @@ name: Publish Jobs, Events & Social
 # so the on-time clock is an external workflow_dispatch (Mac launchd or
 # Cloud Scheduler). The cron below stays as a backup. Successful daily work,
 # rollouts, and social slots have separate completion stamps.
+# Telegram publishers run independently from event fetching. A slot can send
+# during its first 60 minutes; late backups cannot catch up with extra posts.
 #
 # morning (03:30 UTC): ingest, news drafts, one Firebase rollout, then
 # Resend alerts, social, and Telegram. Auto-deploy stays off.
@@ -33,11 +35,15 @@ on:
           - evening
         default: morning
       force_news:
-        description: 'Bypass news cooldown and post digests now'
+        description: 'Bypass news cooldown; scheduled window and duplicate guards still apply'
         type: boolean
         default: false
       diagnose_telegram:
         description: 'Only diagnose bot/channel access (no posts)'
+        type: boolean
+        default: false
+      diagnose_content:
+        description: 'With diagnose_telegram: also preview jobs, events and news without sending'
         type: boolean
         default: false
       news_model:
@@ -166,6 +172,44 @@ jobs:
           TELEGRAM_AI_CHANNEL_ID: ${{ secrets.TELEGRAM_AI_CHANNEL_ID }}
           TELEGRAM_HW3_GROUP_ID: ${{ secrets.TELEGRAM_HW3_GROUP_ID }}
         run: node scripts/telegram-diagnose.mjs
+
+      - name: Install preview dependencies
+        id: preview_deps
+        if: ${{ !cancelled() && inputs.diagnose_content == true }}
+        run: npm ci --no-audit --no-fund
+
+      - name: Preview Telegram jobs without sending
+        if: ${{ !cancelled() && steps.preview_deps.outcome == 'success' }}
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
+          TELEGRAM_EXTRA_CHANNEL_IDS: '@jobsweb3'
+        run: node scripts/social/prepare-telegram-slot.mjs jobs && npx tsx scripts/telegram-post.mjs --dry-run --force
+
+      - name: Preview Telegram events without sending
+        if: ${{ !cancelled() && steps.preview_deps.outcome == 'success' }}
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_EVENTS_CHANNEL_ID: ${{ secrets.TELEGRAM_HW3_GROUP_ID }}
+          TELEGRAM_EVENTS_MIRROR_CHANNEL_ID: '@eventsweb3'
+          TELEGRAM_THREAD_ID: '1454'
+        run: node scripts/social/prepare-telegram-slot.mjs events && npx tsx scripts/telegram-events.ts --dry-run --force
+
+      - name: Preview Web3 news without sending
+        if: ${{ !cancelled() && steps.preview_deps.outcome == 'success' }}
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_NEWS_CHANNEL_ID: ${{ secrets.TELEGRAM_NEWS_CHANNEL_ID }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: node scripts/telegram-news.mjs --dry-run --force
+
+      - name: Preview AI news without sending
+        if: ${{ !cancelled() && steps.preview_deps.outcome == 'success' }}
+        env:
+          TELEGRAM_AI_BOT_TOKEN: ${{ secrets.TELEGRAM_AI_BOT_TOKEN }}
+          TELEGRAM_AI_CHANNEL_ID: ${{ secrets.TELEGRAM_AI_CHANNEL_ID }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: node scripts/telegram-ai-news.mjs --dry-run --force
 
   publish-news:
     needs: [gate]
@@ -397,11 +441,20 @@ jobs:
           exit 1
 
   refresh-and-post:
+    name: Telegram (${{ matrix.kind }})
     needs: [gate, ingest, deploy]
     if: ${{ always() && needs.gate.outputs.skip != 'true' && needs.gate.outputs.social == 'true' && needs.ingest.result != 'cancelled' && needs.deploy.result != 'cancelled' && github.event.inputs.diagnose_telegram != 'true' }}
     runs-on: ubuntu-latest
+    timeout-minutes: 25
+    strategy:
+      fail-fast: false
+      matrix:
+        kind: [jobs, events, news, group-news, ai-news]
     permissions:
       contents: write
+    env:
+      TELEGRAM_PUBLISH_SLOT: ${{ needs.gate.outputs.slot }}
+      TELEGRAM_PUBLISH_DATE: ${{ needs.gate.outputs.date }}
 
     steps:
       - name: Checkout code
@@ -418,73 +471,33 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Backfill Telegram URL audit log
-        run: npx tsx scripts/backfill-telegram-job-url-log.ts
-        continue-on-error: true
-
-      - name: Verify Telegram job URLs resolve
-        run: npx tsx scripts/verify-telegram-job-urls.ts
-        continue-on-error: true
-
-      - name: Fetch Web3 Events from Luma
-        run: node scripts/fetch-web3-events.mjs
-        continue-on-error: true
-      - name: Verify TOKEN2049 source coverage and import new events
+      - name: Test Telegram delivery and schedule guards
         run: |
-          node --test scripts/lib/luma-calendar.test.mjs scripts/lib/event-dates.test.mjs scripts/lib/event-image-utils.test.mjs
-          npx tsx --test scripts/test-token2049-import.ts scripts/test-catalog-root-order.ts
-          npx tsx scripts/sync-token2049-events.ts --write
-      - name: Enrich event cover images
-        run: node scripts/enrich-event-images.mjs
-        continue-on-error: true
-      - name: Enrich event speakers from official pages
-        run: node scripts/enrich-event-speakers.mjs
-        continue-on-error: true
+          node --test scripts/social/posting-slot.test.mjs scripts/social/gemini-json.test.mjs scripts/social/telegram-jobs-delivery.test.mjs scripts/social/telegram-news-delivery.test.mjs
+          npx tsx --test scripts/telegram-event-mirror.test.ts scripts/telegram-event-delivery.test.ts scripts/telegram-event-state.test.ts
 
-      - name: Validate event description formatting before publishing
-        run: npx tsx scripts/test-event-formatting.ts
-
-      - name: Precompute events runtime (listing + previews)
-        run: npx tsx scripts/precompute-events-runtime.ts && npm run precompute:og-previews
-
-      - name: Verify imported TOKEN2049 listings
-        run: npx tsx scripts/test-token2049-catalog.ts
-
-      - name: Backfill missing self-hosted event covers
-        run: npx tsx scripts/backfill-missing-event-covers.ts
-        continue-on-error: true
-
-      - name: Prune stale self-hosted event covers
-        run: npx tsx scripts/prune-stale-event-covers.ts
-
-      - name: Verify event cover files
-        run: npm run test:stale-event-covers
-
-      - name: Refresh prebuild input hashes
-        run: npm run update:prebuild-hashes
+      - name: Check posting window and load published catalogs
+        id: ready
+        run: node scripts/social/prepare-telegram-slot.mjs '${{ matrix.kind }}'
 
       - name: Post to Telegram (Jobs → @web3hiring + @jobsweb3)
+        if: ${{ matrix.kind == 'jobs' && steps.ready.outcome == 'success' }}
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
           TELEGRAM_EXTRA_CHANNEL_IDS: '@jobsweb3'
         run: npx tsx scripts/telegram-post.mjs
-        continue-on-error: true
 
       - name: Post to Telegram (Jobs → hashtagweb3 group)
+        if: ${{ !cancelled() && matrix.kind == 'jobs' && steps.ready.outcome == 'success' }}
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_HW3_GROUP_ID }}
           TELEGRAM_THREAD_ID: '1457'
         run: npx tsx scripts/telegram-post.mjs
-        continue-on-error: true
-
-      - name: Test and sync Telegram event delivery history
-        run: |
-          npx tsx --test scripts/telegram-event-mirror.test.ts scripts/telegram-event-delivery.test.ts scripts/telegram-event-state.test.ts
-          npx tsx scripts/social/telegram-event-state.ts --sync
 
       - name: Post to Telegram (Events → hashtagweb3 group + @eventsweb3)
+        if: ${{ matrix.kind == 'events' && steps.ready.outcome == 'success' }}
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_EVENTS_CHANNEL_ID: ${{ secrets.TELEGRAM_HW3_GROUP_ID }}
@@ -492,27 +505,8 @@ jobs:
           TELEGRAM_THREAD_ID: '1454'
         run: npx tsx scripts/telegram-events.ts
 
-      - name: Preserve Telegram event receipts
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: telegram-event-receipts-${{ github.run_id }}-${{ github.run_attempt }}
-          include-hidden-files: true
-          path: .telegram-events-*.json
-
-      - name: Persist Telegram event history independently of later steps
-        if: ${{ always() && !cancelled() }}
-        run: npx tsx scripts/social/telegram-event-state.ts
-
-      - name: Sync Telegram news delivery history
-        id: news_state
-        if: ${{ !cancelled() }}
-        run: |
-          node --test scripts/news-story-dedup.test.mjs scripts/social/telegram-news-state.test.mjs scripts/social/telegram-news-delivery.test.mjs
-          node scripts/social/telegram-news-state.mjs --sync
-
       - name: Post to Telegram (News)
-        if: ${{ !cancelled() && steps.news_state.outcome == 'success' }}
+        if: ${{ matrix.kind == 'news' && steps.ready.outcome == 'success' }}
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_NEWS_CHANNEL_ID: ${{ secrets.TELEGRAM_NEWS_CHANNEL_ID }}
@@ -521,7 +515,7 @@ jobs:
         run: node scripts/telegram-news.mjs
 
       - name: Post to Telegram (News → hashtagweb3 group)
-        if: ${{ !cancelled() && steps.news_state.outcome == 'success' }}
+        if: ${{ matrix.kind == 'group-news' && steps.ready.outcome == 'success' }}
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_NEWS_CHANNEL_ID: ${{ secrets.TELEGRAM_HW3_GROUP_ID }}
@@ -531,7 +525,7 @@ jobs:
         run: node scripts/telegram-news.mjs
 
       - name: Post to Telegram (AI News)
-        if: ${{ !cancelled() && steps.news_state.outcome == 'success' }}
+        if: ${{ matrix.kind == 'ai-news' && steps.ready.outcome == 'success' }}
         env:
           TELEGRAM_AI_BOT_TOKEN: ${{ secrets.TELEGRAM_AI_BOT_TOKEN }}
           TELEGRAM_AI_CHANNEL_ID: ${{ secrets.TELEGRAM_AI_CHANNEL_ID }}
@@ -539,65 +533,115 @@ jobs:
           FORCE_NEWS: ${{ github.event.inputs.force_news == 'true' && '1' || '' }}
         run: node scripts/telegram-ai-news.mjs
 
-      # - name: Post to Telegram (AI Jobs)
-      #   env:
-      #     TELEGRAM_AI_BOT_TOKEN: ${{ secrets.TELEGRAM_AI_BOT_TOKEN }}
-      #     TELEGRAM_AI_CHANNEL_ID: ${{ secrets.TELEGRAM_AI_CHANNEL_ID }}
-      #   run: node scripts/telegram-ai-jobs.mjs
-      #   continue-on-error: true
-
-
-      - name: Preserve Telegram news receipts
+      - name: Preserve Telegram receipts
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: telegram-news-receipts-${{ github.run_id }}-${{ github.run_attempt }}
+          name: telegram-${{ matrix.kind }}-receipts-${{ github.run_id }}-${{ github.run_attempt }}
           include-hidden-files: true
           path: |
             .telegram-news-*.json
             .telegram-ai-news-*.json
+            .telegram-events-*.json
+            .telegram-jobs-deliveries-*.json
+            .telegram-posted-*.json
+            .telegram-job-urls-*.json
 
-      - name: Persist Telegram news history independently of event changes
+      - name: Persist Telegram history independently
         if: ${{ always() && !cancelled() }}
-        run: node scripts/social/telegram-news-state.mjs
+        run: |
+          case '${{ matrix.kind }}' in
+            jobs) node scripts/social/telegram-jobs-delivery.mjs ;;
+            events) npx tsx scripts/social/telegram-event-state.ts ;;
+            *) node scripts/social/telegram-news-state.mjs ;;
+          esac
+
+  refresh-events:
+    name: Refresh event catalog
+    needs: [gate, ingest, deploy]
+    if: ${{ always() && needs.gate.outputs.skip != 'true' && needs.gate.outputs.social == 'true' && needs.ingest.result != 'cancelled' && needs.deploy.result != 'cancelled' && github.event.inputs.diagnose_telegram != 'true' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: 'npm'
+      - run: npm ci
+
+      - name: Test event discovery helpers
+        run: |
+          node --test scripts/lib/luma-calendar.test.mjs scripts/lib/event-dates.test.mjs scripts/lib/event-image-utils.test.mjs
+          npx tsx --test scripts/test-token2049-import.ts scripts/test-catalog-root-order.ts
+
+      - name: Import verified TOKEN2049 events before the broad calendar crawl
+        id: token2049
+        continue-on-error: true
+        run: npx tsx scripts/sync-token2049-events.ts --write
+
+      - name: Report retained verified catalog
+        if: ${{ steps.token2049.outcome == 'failure' }}
+        run: echo '::warning::TOKEN2049 discovery failed; retaining the previously verified event source. Telegram delivery is independent.'
+
+      - name: Fetch Web3 Events from Luma
+        run: node scripts/fetch-web3-events.mjs
+        continue-on-error: true
+      - name: Enrich event cover images
+        run: node scripts/enrich-event-images.mjs
+        continue-on-error: true
+      - name: Enrich event speakers from official pages
+        run: node scripts/enrich-event-speakers.mjs
+        continue-on-error: true
+      - name: Validate event description formatting
+        run: npx tsx scripts/test-event-formatting.ts
+      - name: Precompute and verify event catalogs
+        run: npx tsx scripts/precompute-events-runtime.ts && npx tsx scripts/test-token2049-catalog.ts && npm run precompute:og-previews
+      - name: Backfill missing self-hosted event covers
+        run: npx tsx scripts/backfill-missing-event-covers.ts
+        continue-on-error: true
+      - name: Prune and verify event covers
+        run: npx tsx scripts/prune-stale-event-covers.ts && npm run test:stale-event-covers
+      - name: Refresh prebuild input hashes
+        run: npm run update:prebuild-hashes
 
       - name: Commit and push updated cache and state
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          # Fetch remote to ensure origin/main is fresh for the merge script
+          # Replay only the catalog commit onto the latest main.
           git fetch origin main
 
-          # Merge local state files with remote to prevent rebase conflicts
-          npx tsx scripts/social/merge-state.ts
-
-          # Events + social/Telegram state only. Jobs cache files are owned
-          # by the daily ingest (refresh-jobs-ingest.yml) — never stage them
-          # here, or intraday runs will fight the morning ingest on rebase.
-          git add content/events/ content/events-runtime.json content/legacy-slugs-archive.json content/prebuild-input-hashes.json scripts/social/*.json .telegram*.json .resend-broadcast-sent.json public/preview/ public/events/ 2>/dev/null || true
-          # Receipts are already saved on main and backed up above. Do not
-          # re-commit them from this older checkout during the cache rebase.
-          git restore --source=HEAD --staged --worktree -- '.telegram-events-*.json' '.telegram-news-*.json' '.telegram-ai-news-*.json'
-          # Owned by record-slot. Staging it here races the daily stamp.
-          git reset HEAD -- scripts/social/publish-slot-state.json 2>/dev/null || true
-          git checkout -- scripts/social/publish-slot-state.json 2>/dev/null || true
+          # Telegram receipts and job catalogs have independent writers.
+          git add content/events/ content/events-runtime.json content/prebuild-input-hashes.json public/preview/ public/events/
 
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "chore: publish jobs/events/social state"
+            git commit -m "chore: refresh verified event catalog"
             for i in 1 2 3; do
-              git pull --rebase origin main || git pull --rebase -X theirs origin main || true
+              if ! git rebase origin/main; then
+                git rebase --abort
+                echo "Event catalog conflicts with newer main; preserving remote changes."
+                exit 1
+              fi
               git push origin main && exit 0
               echo "Push attempt $i failed, reconciling and retrying..."
+              git fetch origin main
               sleep 2
             done
             exit 1
           fi
 
+      - name: Fail visibly when source discovery needs another attempt
+        if: ${{ steps.token2049.outcome == 'failure' }}
+        run: exit 1
+
   record-slot:
-    needs: [gate, ingest, publish-news, refresh-news-snapshot, deploy, job-alerts, post-openings, refresh-and-post]
+    needs: [gate, ingest, publish-news, refresh-news-snapshot, deploy, job-alerts, post-openings, refresh-and-post, refresh-events]
     if: ${{ always() && needs.gate.outputs.skip != 'true' && needs.gate.result == 'success' }}
     runs-on: ubuntu-latest
     permissions:

@@ -13,6 +13,7 @@ export type EventDelivery = {
   events: EventIdentity[];
   messageId?: number;
   sentAt?: string;
+  slotKey?: string;
 };
 export type EventDeliveries = Record<string, EventDelivery>;
 export type EventPersistenceOptions = { cwd?: string; syncOnly?: boolean; attempts?: number; validateRemote?: (remote: Map<string, unknown>) => void };

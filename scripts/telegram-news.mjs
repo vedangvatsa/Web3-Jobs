@@ -13,7 +13,10 @@ import fs from 'fs';
 import path from 'path';
 import Parser from 'rss-parser';
 import dotenv from 'dotenv';
-import { deliverNewsOnce, readNewsState, uniqueNewsStories } from './social/telegram-news-delivery.mjs';
+import { assertUnreserved, deliverNewsOnce, readNewsState, uniqueNewsStories } from './social/telegram-news-delivery.mjs';
+import { persistNewsState } from './social/telegram-news-state.mjs';
+import { assertPostingWindow, hasSentSlot, postingSlotFromEnv } from './social/posting-slot.mjs';
+import { parseGeminiJsonResponse } from './social/gemini-json.mjs';
 import {
   alreadyCovered,
   normalizeUrl,
@@ -228,12 +231,7 @@ const MODELS = [
   'gemini-flash-latest',
 ];
 
-function extractGeminiText(data) {
-  const parts = data.candidates?.[0]?.content?.parts || [];
-  return parts.map((p) => p.text || '').join('').trim();
-}
-
-async function callGemini(prompt) {
+async function callGemini(prompt, expected = 'object') {
   for (const model of MODELS) {
     for (let attempt = 0; attempt < 2; attempt++) {
       try {
@@ -241,12 +239,13 @@ async function callGemini(prompt) {
           `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${GEMINI_API_KEY}`,
           {
             method: 'POST',
+            signal: AbortSignal.timeout(45000),
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({
               contents: [{ parts: [{ text: prompt }] }],
               generationConfig: {
                 temperature: 0.3,
-                maxOutputTokens: 4096,
+                maxOutputTokens: 8192,
                 responseMimeType: 'application/json',
               },
             }),
@@ -267,7 +266,7 @@ async function callGemini(prompt) {
         }
 
         const data = await res.json();
-        const text = extractGeminiText(data);
+        const { text } = parseGeminiJsonResponse(data, expected);
         if (!text) {
           console.warn(`  ⚠️ ${model} empty response, trying next model...`);
           break;
@@ -321,7 +320,7 @@ Return ONLY a JSON array of exactly ${want} objects: {"index", "headline", "summ
 
 ${headlines}`;
 
-  const text = await callGemini(prompt);
+  const text = await callGemini(prompt, 'array');
 
   // Extract JSON from response (handle markdown code blocks)
   const jsonMatch = text.match(/\[[\s\S]*\]/);
@@ -365,6 +364,7 @@ async function sendToTelegram(message) {
   const url = `https://api.telegram.org/bot${BOT_TOKEN}/sendMessage`;
   const res = await fetch(url, {
     method: 'POST',
+    signal: AbortSignal.timeout(30000),
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify({
       chat_id: CHANNEL_ID,
@@ -381,17 +381,22 @@ async function sendToTelegram(message) {
   });
 
   const data = await res.json();
-  if (!data.ok) throw new Error(`Telegram API error: ${JSON.stringify(data)}`);
+  if (!res.ok && data.ok !== false) throw new Error('Telegram returned an unconfirmed response');
   return data;
 }
 
 // ── Main ──
 async function postOnce() {
-  // 4h, not 6h: delayed GitHub slots land inside a 6h window and the digest is skipped.
+  const slot = postingSlotFromEnv();
+  assertPostingWindow(slot);
+  if (!process.argv.includes('--dry-run')) persistNewsState({ syncOnly: true });
+  const ledger = readNewsState(POSTED_LOG.replace('-posted', '-deliveries'), {});
+  if (hasSentSlot(ledger, slot)) { console.log(`News already posted for ${slot.key}.`); return; }
+  assertUnreserved([], [], ledger);
   try {
     const last = JSON.parse(fs.readFileSync(LAST_POST_FILE, 'utf8'));
     const hoursSince = (Date.now() - new Date(last.postedAt).getTime()) / (1000 * 60 * 60);
-    if (hoursSince < POST_COOLDOWN_HOURS && !FORCE_POST) {
+    if (!slot && hoursSince < POST_COOLDOWN_HOURS && !FORCE_POST) {
       console.log(`⏳ Last posted ${hoursSince.toFixed(1)}h ago. Cooldown is ${POST_COOLDOWN_HOURS}h. Skipping.`);
       return;
     }
@@ -418,13 +423,6 @@ async function postOnce() {
     return true;
   });
   console.log(`  ${fresh.length} not yet posted`);
-
-  // Prefer a full digest, but still post when the pool is thin.
-  const MIN_STORIES = 1;
-  if (fresh.length < MIN_STORIES) {
-    console.log('  Not enough fresh stories, skipping this run');
-    return;
-  }
 
   // ── Native first: our own reporting leads, RSS fills remaining slots ──
   const nativeAll = loadNativeArticles();
@@ -564,11 +562,10 @@ Return ONLY JSON: {"headline": "...", "summary": "..."}`;
   }
 
   const result = await deliverNewsOnce({
-    stories, postedFile: POSTED_LOG, lastFile: LAST_POST_FILE,
+    stories, postedFile: POSTED_LOG, lastFile: LAST_POST_FILE, slot,
     send: () => sendToTelegram(message),
   });
-  const now = new Date().toLocaleString('en-US', { timeZone: 'Asia/Singapore' });
-  console.log(`✅ Posted ${stories.length} stories at ${now} | Message ID: ${result.result.message_id}`);
+  console.log(`Posted ${stories.length} stories at ${new Date().toISOString()}${slot ? ` | Slot: ${slot.key}` : ''} | Message ID: ${result.result.message_id}`);
 
 }
 

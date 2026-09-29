@@ -93,6 +93,7 @@ async function main() {
     ['TELEGRAM_HW3_GROUP_ID', process.env.TELEGRAM_HW3_GROUP_ID],
     ['literal:@web3newsfeed', '@web3newsfeed'],
     ['literal:@web3hiring', '@web3hiring'],
+    ['literal:@jobsweb3', '@jobsweb3'],
     ['literal:@eventsweb3', '@eventsweb3'],
     ['literal:@hashtag_ai', '@hashtag_ai'],
   ]);

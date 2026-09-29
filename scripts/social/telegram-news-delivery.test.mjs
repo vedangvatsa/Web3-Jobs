@@ -4,6 +4,7 @@ import fs from 'node:fs';
 import os from 'node:os';
 import path from 'node:path';
 import { deliverNewsOnce, uniqueNewsStories } from './telegram-news-delivery.mjs';
+import { postingSlot } from './posting-slot.mjs';
 
 const story = {
   link: 'https://example.com/peirce-departure',
@@ -105,4 +106,33 @@ test('final digest removes cross-source native/RSS duplicates and malformed sele
     { headline: 'Missing link' },
     unrelated,
   ]), [story, unrelated]);
+});
+
+test('explicit Telegram rejection does not consume the stories or block a safe retry', async t => {
+  const options = fixture(t);
+  await assert.rejects(deliverNewsOnce({ ...options, persist: () => {}, send: async () => ({ ok: false }) }), /rejected/);
+  assert.deepEqual(JSON.parse(fs.readFileSync(options.postedFile)), []);
+  assert.equal(Object.values(JSON.parse(fs.readFileSync(options.ledgerFile)))[0].status, 'rejected');
+  await deliverNewsOnce({ ...options, persist: () => {}, send: async () => ({ ok: true, result: { message_id: 789 } }) });
+  assert.ok(JSON.parse(fs.readFileSync(options.postedFile)).includes(story.link));
+});
+
+test('a completed scheduled slot cannot post a second digest even with different stories', async t => {
+  const options = fixture(t);
+  const slot = postingSlot('morning', '2026-09-29');
+  t.mock.method(Date, 'now', () => slot.start + 10000);
+  await deliverNewsOnce({ ...options, slot, persist: () => {}, send: async () => ({ ok: true, result: { message_id: 456 } }) });
+  const remoteLedger = JSON.parse(fs.readFileSync(options.ledgerFile));
+  const stories = [{ link: 'https://example.com/unrelated', headline: 'New quantum computing research', summary: 'A distinct research result.' }];
+  await assert.rejects(deliverNewsOnce({ ...options, slot, stories, persist: () => assert.fail(), send: async () => assert.fail() }), /already completed/);
+  fs.writeFileSync(options.ledgerFile, '{}');
+  await assert.rejects(deliverNewsOnce({ ...options, slot, stories, persist: ({ validateRemote }) => validateRemote(new Map([[path.basename(options.ledgerFile), remoteLedger]])), send: async () => assert.fail() }), /already completed/);
+});
+
+test('a late cron run cannot create a reservation or send news', async t => {
+  const options = fixture(t);
+  const slot = postingSlot('morning', '2026-09-29');
+  t.mock.method(Date, 'now', () => Date.parse('2026-09-29T09:59:24Z'));
+  await assert.rejects(deliverNewsOnce({ ...options, slot, persist: () => assert.fail(), send: async () => assert.fail() }), /Outside posting window/);
+  assert.equal(fs.existsSync(options.ledgerFile), false);
 });

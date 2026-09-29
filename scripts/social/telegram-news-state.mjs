@@ -11,13 +11,13 @@ export function mergeNewsState(name, local, remote) {
   if (name.includes('-deliveries')) {
     for (const value of [local, remote]) {
       if (value !== undefined && (!value || Array.isArray(value) || typeof value !== 'object'
-        || Object.values(value).some(receipt => !receipt || !['reserved', 'sent'].includes(receipt.status)))) {
+        || Object.values(value).some(receipt => !receipt || !['reserved', 'sent', 'rejected'].includes(receipt.status)))) {
         throw new Error(`Invalid delivery ledger: ${name}`);
       }
     }
     const merged = { ...remote, ...local };
     for (const [id, receipt] of Object.entries(remote || {})) {
-      if (receipt.status === 'sent') merged[id] = receipt;
+      if (receipt.status === 'sent' || (receipt.status === 'rejected' && merged[id]?.status === 'reserved')) merged[id] = receipt;
     }
     return merged;
   }
@@ -39,7 +39,7 @@ export function mergeNewsState(name, local, remote) {
   return Date.parse(local.postedAt) > Date.parse(remote.postedAt) ? local : remote;
 }
 
-export function persistTelegramState({ cwd = process.cwd(), syncOnly = false, attempts = 3, validateRemote = (_remote) => {}, pattern = statePattern, mergeState = mergeNewsState, kind = 'news' } = {}) {
+export function persistTelegramState({ cwd = process.cwd(), syncOnly = false, attempts = 6, validateRemote = (_remote) => {}, pattern = statePattern, mergeState = mergeNewsState, kind = 'news' } = {}) {
   const git = (args, options = {}) => execFileSync('git', args, {
     cwd, encoding: 'utf8', stdio: ['pipe', 'pipe', 'pipe'], ...options,
   }).trim();
@@ -82,6 +82,7 @@ export function persistTelegramState({ cwd = process.cwd(), syncOnly = false, at
         return;
       } catch {
         if (attempt === attempts) throw new Error(`Telegram ${kind} history push failed; local receipts retained for recovery`);
+        Atomics.wait(new Int32Array(new SharedArrayBuffer(4)), 0, 0, 150 + Math.floor(Math.random() * 350));
       }
     }
     throw new Error(`Telegram ${kind} history requires at least one persistence attempt`);

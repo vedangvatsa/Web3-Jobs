@@ -7,6 +7,7 @@ import type { Web3Event } from '../src/lib/events';
 import { deliverEventsOnce, eventIdentity, selectUnpostedEvents } from './lib/telegram-event-delivery';
 import { eventStatePaths, mergeEventState, readEventState, writeEventState, type EventDeliveries, type EventPersistenceOptions } from './social/telegram-event-state';
 import type { EventMirrorQueue } from './lib/telegram-event-mirror';
+import { postingSlot } from './social/posting-slot.mjs';
 
 const event: Web3Event = { id: 'luma-old', slug: 'crypto-house-seoul', name: 'Crypto House Seoul', startDate: '2026-09-28T05:00:00Z', timezone: 'Asia/Seoul', location: 'Seoul', city: 'Seoul', url: 'https://lu.ma/house?utm_source=calendar', description: '', coverImage: null };
 const second: Web3Event = { ...event, id: 'other', slug: 'different-event', name: 'Ethereum workshop', url: 'https://luma.com/workshop' };
@@ -96,4 +97,14 @@ test('corrupt history fails closed and a fresh remote cooldown blocks a stale ru
   fs.unlinkSync(f.files.posted);
   f.remote.set(path.basename(f.files.last), { postedAt: new Date().toISOString() });
   await assert.rejects(deliverEventsOnce({ ...f.options, send: async () => { assert.fail('Remote cooldown'); } }), /cooldown/);
+});
+
+test('event scheduling blocks late sends and a second digest in the same slot', async t => {
+  const f = fixture(t);
+  const slot = postingSlot('afternoon', '2026-09-29');
+  t.mock.method(Date, 'now', () => slot.start + 1000);
+  await deliverEventsOnce({ ...f.options, slot, send: async () => ({ ok: true, result: { message_id: 123 } }) });
+  await assert.rejects(deliverEventsOnce({ ...f.options, slot, events: [second], force: true, send: async () => assert.fail('Repeated slot') }), /already completed/);
+  t.mock.method(Date, 'now', () => slot.end + 1);
+  await assert.rejects(deliverEventsOnce({ ...f.options, slot, events: [second], force: true, send: async () => assert.fail('Late slot') }), /Outside posting window/);
 });
