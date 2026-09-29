@@ -146,7 +146,7 @@
     "sentAt": "2026-09-29T11:37:26.308Z"
   },
   "e2b93bda-c23f-47d4-b4d4-3c4685bd1014": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-09-29T19:48:26.897Z",
     "stories": [
       {
@@ -178,6 +178,8 @@
         "originalTitle": "AI-powered app maker Wabi pivots to a messaging experience"
       }
     ],
-    "slotKey": "2026-09-29:evening"
+    "slotKey": "2026-09-29:evening",
+    "messageId": 193303,
+    "sentAt": "2026-09-29T19:48:29.860Z"
   }
 }

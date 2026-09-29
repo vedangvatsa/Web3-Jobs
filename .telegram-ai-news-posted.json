@@ -629,6 +629,9 @@
   "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
   "https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development/",
   "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+  "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+  "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction/",
+  "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1670,6 +1673,12 @@
   "Florida invokes extinction fears in legal bid to halt OpenAI development",
   "OpenAI cancels model development over safety concerns",
   "OpenAI reportedly ditches model over safety concerns",
+  "OpenAI launches office software suite to compete with Microsoft",
+  "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+  "Anthropic warns of human extinction risks in IPO pitch",
+  "Anthropic’s IPO pitch includes a warning about human extinction",
+  "Wabi updates app builder to function as AI agent",
+  "AI-powered app maker Wabi pivots to a messaging experience",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -1816,5 +1825,8 @@
   "fp:admin|administration|agency|are|automat|car|claim|denial|deny|deploy",
   "fp:anthropic|call|cheaper|cost|enterpris|faster|lower|mid|offer|operational",
   "fp:argu|bid|civilization|development|extinction|fear|fil|florida|halt|human",
-  "fp:cancel|concern|development|ditch|fail|follow|instruction|openai|reliably|reportedly"
+  "fp:cancel|concern|development|ditch|fail|follow|instruction|openai|reliably|reportedly",
+  "fp:chatbot|compet|competitor|direct|expand|feel|lik|lot|microsoft|offic",
+  "fp:anthropic|attempt|catastrophic|caus|caution|extinction|focus|futur|global|harm",
+  "fp:agent|allow|app|builder|chat|conversational|experienc|function|generat|interfac"
 ]
