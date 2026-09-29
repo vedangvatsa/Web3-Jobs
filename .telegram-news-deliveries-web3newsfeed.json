@@ -128,5 +128,36 @@
     ],
     "messageId": 65710,
     "sentAt": "2026-09-28T19:45:06.842Z"
+  },
+  "1e715a14-5743-4b7d-a35d-19703807e020": {
+    "status": "reserved",
+    "reservedAt": "2026-09-29T00:01:20.767Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Fairshake to Spend $30 Million Against Sherrod Brown",
+        "summary": "The crypto super PAC will fund advertisements and mailers opposing the Ohio senator's reelection bid.",
+        "link": "https://hashtagweb3.com/fairshake-ohio?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Fairshake Commits $30 Million to Oppose Sherrod Brown in Ohio Senate Race"
+      },
+      {
+        "index": 1,
+        "headline": "Blockchain.com plans initial public offering for 500 million dollars",
+        "summary": "The crypto exchange is targeting a valuation of 6 billion dollars as it prepares to enter public markets.",
+        "event_rationale": "This covers a major exchange IPO filing, which is a distinct institutional milestone not addressed in the provided list.",
+        "link": "https://decrypt.co/379505/rsa-attack-without-stealing-key-what-it-means-crypto",
+        "source": "Decrypt",
+        "originalTitle": "A Clever RSA Attack Fooled a Hardware Vault—Here's What It Means for Crypto"
+      },
+      {
+        "index": 6,
+        "headline": "Strive Increases Bitcoin Holdings to 27,462 BTC",
+        "summary": "The company purchased 1,107 Bitcoin for $94.5 million, primarily funded through preferred stock sales.",
+        "link": "https://decrypt.co/379465/strive-buys-94-5-million-in-bitcoin-pushing-holdings-past-27000-btc",
+        "source": "Decrypt",
+        "originalTitle": "Strive Buys $94.5 Million in Bitcoin, Pushing Holdings Past 27,000 BTC"
+      }
+    ]
   }
 }
