@@ -1,0 +1,46 @@
+{
+  "6cdd1929-bef4-40db-885e-c71dda70bad4": {
+    "status": "reserved",
+    "reservedAt": "2026-09-29T19:48:19.368Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "key": "3255ab0c-a3e0-4f43-a077-aeb7344614e6",
+        "slug": "be32",
+        "url": "https://hashtagweb3.com/be32?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Moonshot",
+        "title": "Senior Backend & Platform Engineer"
+      },
+      {
+        "key": "aa419485-73ef-471a-a128-bfd683ca13b1",
+        "slug": "ceo",
+        "url": "https://hashtagweb3.com/ceo?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Molecule",
+        "title": "CEO Attaché"
+      },
+      {
+        "key": "d5cba59b-9e8c-4693-baa2-1b6ddc7466e0",
+        "slug": "security139",
+        "url": "https://hashtagweb3.com/security139?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Lens Protocol",
+        "title": "Security Engineer"
+      },
+      {
+        "key": "550284fe-a3d3-4dae-bef8-0610c9cc3eba",
+        "slug": "engineer582",
+        "url": "https://hashtagweb3.com/engineer582?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Toku",
+        "title": "Sr Site Reliability Engineer / Cloud Engineer"
+      },
+      {
+        "key": "7144975",
+        "slug": "engineer113",
+        "url": "https://hashtagweb3.com/engineer113?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Design Engineer"
+      }
+    ],
+    "message": "• Moonshot is hiring <a href=\"https://hashtagweb3.com/be32?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Backend &amp; Platform Engineer</a>\n• Molecule is hiring <a href=\"https://hashtagweb3.com/ceo?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">CEO Attaché</a>\n• Lens Protocol is hiring <a href=\"https://hashtagweb3.com/security139?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Security Engineer</a>\n• Toku is hiring <a href=\"https://hashtagweb3.com/engineer582?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Sr Site Reliability Engineer / Cloud Engineer</a>\n• Stripe is hiring <a href=\"https://hashtagweb3.com/engineer113?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Design Engineer</a>",
+    "slotKey": "2026-09-29:evening"
+  }
+}
