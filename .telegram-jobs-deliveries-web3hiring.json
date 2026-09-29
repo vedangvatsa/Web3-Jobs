@@ -46,7 +46,7 @@
     "sentAt": "2026-09-29T19:47:57.238Z"
   },
   "dec5a75a-7e23-4c90-9b26-ae8dfa4446d3": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-09-29T19:48:05.765Z",
     "chatId": "@jobsweb3",
     "jobs": [
@@ -87,6 +87,8 @@
       }
     ],
     "message": "• Coinbase is hiring <a href=\"https://hashtagweb3.com/architect53?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Sr. Staff Technical Architect</a>\n• a16z crypto is hiring <a href=\"https://hashtagweb3.com/p3cp?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Communications Partner</a>\n• LayerZero is hiring <a href=\"https://hashtagweb3.com/engineer90?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Protocol Engineer</a>\n• YEET is hiring <a href=\"https://hashtagweb3.com/frontend13?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Frontend Engineer</a>\n• WhiteBIT is hiring <a href=\"https://hashtagweb3.com/smm?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">SMM Team Lead</a>",
-    "slotKey": "2026-09-29:evening"
+    "slotKey": "2026-09-29:evening",
+    "messageId": 90,
+    "sentAt": "2026-09-29T19:48:14.650Z"
   }
 }
