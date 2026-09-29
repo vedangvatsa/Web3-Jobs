@@ -1,0 +1,46 @@
+{
+  "9e58d97d-e98e-44c6-ae19-d2fd2546d0cf": {
+    "status": "reserved",
+    "reservedAt": "2026-09-29T19:47:53.736Z",
+    "chatId": "@web3hiring",
+    "jobs": [
+      {
+        "key": "8144772",
+        "slug": "architect53",
+        "url": "https://hashtagweb3.com/architect53?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Coinbase",
+        "title": "Sr. Staff Technical Architect"
+      },
+      {
+        "key": "7998862003",
+        "slug": "p3cp",
+        "url": "https://hashtagweb3.com/p3cp?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "a16z crypto",
+        "title": "Communications Partner"
+      },
+      {
+        "key": "5554608004",
+        "slug": "engineer90",
+        "url": "https://hashtagweb3.com/engineer90?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "LayerZero",
+        "title": "Protocol Engineer"
+      },
+      {
+        "key": "bb37f1f1-eeb1-4642-b3a1-ac8a693b35a7",
+        "slug": "frontend13",
+        "url": "https://hashtagweb3.com/frontend13?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "YEET",
+        "title": "Frontend Engineer"
+      },
+      {
+        "key": "hurma-whitebit-1056",
+        "slug": "smm",
+        "url": "https://hashtagweb3.com/smm?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "WhiteBIT",
+        "title": "SMM Team Lead"
+      }
+    ],
+    "message": "• Coinbase is hiring <a href=\"https://hashtagweb3.com/architect53?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Sr. Staff Technical Architect</a>\n• a16z crypto is hiring <a href=\"https://hashtagweb3.com/p3cp?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Communications Partner</a>\n• LayerZero is hiring <a href=\"https://hashtagweb3.com/engineer90?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Protocol Engineer</a>\n• YEET is hiring <a href=\"https://hashtagweb3.com/frontend13?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Frontend Engineer</a>\n• WhiteBIT is hiring <a href=\"https://hashtagweb3.com/smm?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">SMM Team Lead</a>",
+    "slotKey": "2026-09-29:evening"
+  }
+}
