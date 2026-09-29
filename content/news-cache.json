@@ -1,21 +1,77 @@
 {
-  "generatedAt": "2026-09-29T03:42:38.641Z",
+  "generatedAt": "2026-09-29T10:00:53.985Z",
   "items": [
     {
-      "title": "Coinbase receives DCO approval from CFTC, completing full derivatives stack",
-      "link": "https://www.theblock.co/news/business/2026-09-28-coinbase-dco-approval-417105",
-      "pubDate": "Tue, 29 Sep 2026 02:02:36 +0000",
-      "creator": "Danny Park",
-      "contentSnippet": "This completes Coinbase's derivatives infrastructure, allowing it to list, broker, and clear fully collateralized products in-house.",
-      "source": "The Block"
+      "title": "Greece gets first MiCA entrants as watchdog denies Binance-Lagarde claim",
+      "link": "https://cointelegraph.com/news/greece-first-mica-entrants-hcmc-binance-lagarde?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 29 Sep 2026 09:50:22 +0000",
+      "creator": "Helen Partz",
+      "contentSnippet": "Greece joined the EU MiCA register with four providers as HCMC expanded its denial of remarks attributed to officials in a report on Binance.",
+      "source": "Cointelegraph"
     },
     {
-      "title": "NEAR Intents says it blocked $50M tied to Bitget hackers ",
-      "link": "https://cointelegraph.com/news/near-intents-says-it-blocked-50m-tied-to-bitget-hackers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Tue, 29 Sep 2026 01:17:49 +0000",
+      "title": "Bitcoin is on track to shatter a major decade-long streak as September gains surge",
+      "link": "https://www.coindesk.com/markets/2026/09/29/bitcoin-is-on-track-to-shatter-a-major-decade-long-streak-as-september-gains-surge",
+      "pubDate": "Tue, 29 Sep 2026 09:45:31 +0000",
+      "creator": "James Van Straten",
+      "contentSnippet": "Bitcoin is on track for a third straight monthly gain, but higher yields, oil prices and two major November events could test its Q4 momentum.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Coinbase Now Owns Every Layer of Its Derivatives Stack After CFTC Approval",
+      "link": "https://decrypt.co/379516/coinbase-now-owns-every-layer-of-its-derivatives-stack-after-cftc-approval",
+      "pubDate": "Tue, 29 Sep 2026 09:38:57 +0000",
+      "creator": "Agent",
+      "contentSnippet": "Coinbase Clearing will take USDC as collateral and settle around the clock, though margined products stay with partners.",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Analysts see 10-year Treasury yield hitting 6%. Bitcoin bulls shouldn't panic",
+      "link": "https://www.coindesk.com/markets/2026/09/29/analysts-see-10-year-treasury-yield-hitting-6-bitcoin-bulls-shouldn-t-panic",
+      "pubDate": "Tue, 29 Sep 2026 09:06:11 +0000",
+      "creator": "Omkar Godbole",
+      "contentSnippet": "Why yields are rising matters more for bitcoin than how high they go.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Bybit Completes SOC 2 Type II Audit, Strengthening Security and Compliance Assurance",
+      "link": "https://dailyhodl.com/2026/09/29/bybit-completes-soc-2-type-ii-audit-strengthening-security-and-compliance-assurance/",
+      "pubDate": "Tue, 29 Sep 2026 08:58:35 +0000",
+      "creator": "Chainwire",
+      "contentSnippet": "Dubai, United Arab Emirates, 29th September 2026, Chainwire\nThe post Bybit Completes SOC 2 Type II Audit, Strengthening Security and Compliance Assura...",
+      "source": "Daily Hodl"
+    },
+    {
+      "title": "Near Intents blocks $50 million in Bitget hacker swaps, here's what happened",
+      "link": "https://www.coindesk.com/tech/2026/09/29/usd50-million-in-bitget-hacker-swaps-puts-near-intents-permissionless-claim-to-the-test",
+      "pubDate": "Tue, 29 Sep 2026 06:23:47 +0000",
+      "creator": "Shaurya Malwa",
+      "contentSnippet": "The swap service identified more than $50 million in attempted transfers, although most rejected funds subsequently moved through other providers.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Anthropic plans to spend $518 billion on AI infrastructure. Pre-IPO perps barely blink.",
+      "link": "https://www.coindesk.com/markets/2026/09/29/anthropic-plans-to-spend-usd518-billion-on-ai-infrastructure-pre-ipo-perps-barely-blink",
+      "pubDate": "Tue, 29 Sep 2026 05:31:44 +0000",
+      "creator": "Omkar Godbole",
+      "contentSnippet": "Anthropic's prospectus seen by Reuters shows big spending plans despite heavy losses. Still, pre-IPO perps barely moved on cryptocurrency exchanges.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Tether says it helped freeze $550M in Iran-linked USDT this year",
+      "link": "https://cointelegraph.com/news/tether-says-it-helped-freeze-550m-in-iran-linked-usdt-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 29 Sep 2026 05:29:28 +0000",
       "creator": "Felix Ng",
-      "contentSnippet": "The cross-chain protocol said it actively prevents stolen funds from being laundered, drawing a contrast with THORChain’s position that it does not se...",
+      "contentSnippet": "The disclosure came as Senate Democratic investigators alleged USDT had become a key part of Iran’s shadow banking network.",
       "source": "Cointelegraph"
+    },
+    {
+      "title": "Bitcoin holds $83,000 as ZEC drops 12% and oil climbs again",
+      "link": "https://www.coindesk.com/markets/2026/09/29/bitcoin-holds-usd83-000-as-zec-drops-12-and-oil-climbs-again",
+      "pubDate": "Tue, 29 Sep 2026 04:17:20 +0000",
+      "creator": "Shaurya Malwa",
+      "contentSnippet": "Global stocks fell to a one-week low as Brent rose for a second day and traders added to bets on more Federal Reserve rate hikes ahead of Wednesday's ...",
+      "source": "Coindesk"
     },
     {
       "title": "A Clever RSA Attack Fooled a Hardware Vault—Here's What It Means for Crypto",
@@ -31,14 +87,6 @@
       "pubDate": "Mon, 28 Sep 2026 20:59:26 +0000",
       "creator": "Conor Devitt",
       "contentSnippet": "The hacker who stole $388 million worth of crypto from Bitget last week “exploited vulnerabilities from third-party products,” according to the exchan...",
-      "source": "Daily Hodl"
-    },
-    {
-      "title": "Targeting Trump, California Governor Gavin Newsom Signs Bill Banning Public Officials From Issuing Memecoins",
-      "link": "https://dailyhodl.com/2026/09/28/targeting-trump-california-governor-gavin-newsom-signs-bill-banning-public-officials-from-issuing-memecoins/",
-      "pubDate": "Mon, 28 Sep 2026 20:45:26 +0000",
-      "creator": "Conor Devitt",
-      "contentSnippet": "California Governor Gavin Newsom signed a bill on Sunday that bans state public officials from launching memecoins. In addition to the ban on state of...",
       "source": "Daily Hodl"
     },
     {
@@ -64,14 +112,6 @@
       "creator": "Sam Bourgi",
       "contentSnippet": "The crypto company is seeking a valuation of up to $6 billion, well below its 2022 peak, as recently listed crypto stocks struggle to hold their gains...",
       "source": "Cointelegraph"
-    },
-    {
-      "title": "Tether’s USDT at center of Iran’s shadow banking network, new Senate Report says",
-      "link": "https://www.theblock.co/news/regulation/2026-09-28-tethers-usdt-center-iran-shadow-banking-network-new-senate-report-says-417094",
-      "pubDate": "Mon, 28 Sep 2026 19:10:42 +0000",
-      "creator": "Sarah Wynn",
-      "contentSnippet": "Tether and its stablecoin have become central in \"Iran's shadow banking system,\" according to a new Senate investigation.",
-      "source": "The Block"
     },
     {
       "title": "US SEC follows CFTC in staff guidance for crypto",
@@ -226,12 +266,12 @@
       "source": "Coindesk"
     },
     {
-      "title": "Bitget resumes Bitcoin withdrawals as hacker swaps ETH via THORChain",
-      "link": "https://cointelegraph.com/news/bitget-btc-withdrawal-hacker-eth-swap-thorchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Mon, 28 Sep 2026 11:05:24 +0000",
-      "creator": "Helen Partz",
-      "contentSnippet": "Ether withdrawals are scheduled to return Tuesday and USDt on Wednesday as Bitget restores services following last week’s $388 million hack.",
-      "source": "Cointelegraph"
+      "title": "California Bans Public Officials From Issuing Meme Coins Under New Newsom Law",
+      "link": "https://decrypt.co/379404/california-bans-public-officials-from-issuing-meme-coins-under-new-newsom-law",
+      "pubDate": "Mon, 28 Sep 2026 10:16:25 +0000",
+      "creator": "Agent",
+      "contentSnippet": "Governor Gavin Newsom’s legislation bars public officials from issuing meme coins and exchanges from listing tokens tied to politicians.",
+      "source": "Decrypt"
     },
     {
       "title": "Bitcoin falls to $83,000 while altcoins unwind Friday's rally",
@@ -338,6 +378,14 @@
       "source": "Cointelegraph"
     },
     {
+      "title": "THORChain under fire over Bitget, ETH evolves beyond blockchain: Hodler’s Digest",
+      "link": "https://cointelegraph.com/magazine/thorchain-under-fire-over-bitget-hack-eth-is-beyond-blockchain-now?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Sun, 27 Sep 2026 23:43:18 +0000",
+      "creator": "Andrew Fenton",
+      "contentSnippet": "THORChain refuses to blacklist addresses linked to the Bitget hack. Vitalik Buterin says Ethereum is evolving from being a mere blockchain, into a wor...",
+      "source": "Cointelegraph"
+    },
+    {
       "title": "Onchain analyst links $18.4 million in Robinhood Chain memecoin extractions to single rug-pull operation",
       "link": "https://www.theblock.co/news/defi/2026-09-27-onchain-analyst-links-18-4-million-in-robinhood-chain-memecoin-extractions-to-single-rug-pull-operation-416960",
       "pubDate": "Sun, 27 Sep 2026 22:02:57 +0000",
@@ -426,60 +474,12 @@
       "source": "Coindesk"
     },
     {
-      "title": "Bitget hacker moves $83 million in stolen XRP beyond reach of freeze controls",
-      "link": "https://www.coindesk.com/markets/2026/09/26/bitget-hacker-moves-usd83-million-in-stolen-xrp-that-ripple-cannot-freeze",
-      "pubDate": "Sat, 26 Sep 2026 12:56:41 +0000",
-      "creator": "Shaurya Malwa",
-      "contentSnippet": "Two wallets have been almost emptied and a third is being drained, with about $75 million remaining across the five original holding accounts.",
-      "source": "Coindesk"
-    },
-    {
-      "title": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
-      "link": "https://www.coindesk.com/tech/2026/09/25/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules",
-      "pubDate": "Sat, 26 Sep 2026 12:00:00 +0000",
-      "creator": "Shaurya Malwa",
-      "contentSnippet": "Researchers have mapped out private bitcoin-denominated transfers that run alongside Bitcoin, but the system still lacks a finished way to lock up rea...",
-      "source": "Coindesk"
-    },
-    {
-      "title": "CFTC sues Cash FX, alleges $950M crypto-linked forex scheme",
-      "link": "https://cointelegraph.com/news/cftc-sues-cash-fx-alleges-950m-crypto-linked-forex-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Sat, 26 Sep 2026 06:59:29 +0000",
-      "creator": "Michael Millard",
-      "contentSnippet": "The CFTC claimed that Cash FX engaged in minimal forex trading and misappropriated most of the participant funds.",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Solana’s 150-millisecond settlement upgrade reaches second public test network",
-      "link": "https://www.coindesk.com/tech/2026/09/26/solana-s-150-millisecond-settlement-upgrade-reaches-second-public-test-network",
-      "pubDate": "Sat, 26 Sep 2026 05:00:00 +0000",
-      "creator": "Shaurya Malwa",
-      "contentSnippet": "Alpenglow is running on both public test networks, giving application teams a place to check their software before the live blockchain switches.",
-      "source": "Coindesk"
-    },
-    {
-      "title": "XRP Ledger’s Batch upgrade slips to Oct. 9 after validator support resets",
-      "link": "https://www.coindesk.com/tech/2026/09/26/xrp-ledger-s-batch-upgrade-slips-to-oct-9-after-validator-support-resets",
-      "pubDate": "Sat, 26 Sep 2026 04:30:00 +0000",
-      "creator": "Shaurya Malwa",
-      "contentSnippet": "The feature would let users bundle up to eight transactions, including asset-and-payment transfers, but a brief drop below the network’s 80% support t...",
-      "source": "Coindesk"
-    },
-    {
       "title": "US Prosecutors Want $84.2 Million From a Bank Tied to Tether",
       "link": "https://decrypt.co/379380/us-prosecutors-84-million-bank-tether-and-bitfinex",
       "pubDate": "Fri, 25 Sep 2026 21:25:35 +0000",
       "creator": "Jose Antonio Lanz",
       "contentSnippet": "Federal prosecutors are targeting a Montana payments firm and a Caribbean bank accused of moving money without a license.",
       "source": "Decrypt"
-    },
-    {
-      "title": "OG.com seeks CFTC approval for single-stock perpetual futures",
-      "link": "https://cointelegraph.com/news/og-com-seeks-cftc-approval-single-stock-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Fri, 25 Sep 2026 20:37:21 +0000",
-      "creator": "Nate Kostar",
-      "contentSnippet": "OG.com, recently spun out of Crypto.com, joins Coinbase, Kalshi and Kraken parent Payward in seeking approval to bring perpetual futures to individual...",
-      "source": "Cointelegraph"
     },
     {
       "title": "Blockchain Association CEO Summer Mersinger to step down, Kristin Smith to return as interim CEO",
@@ -496,14 +496,6 @@
       "creator": "Sarah Wynn",
       "contentSnippet": "A man was charged for his role in defrauding someone of millions of dollars' worth of crypto in a \"massive pig butchering\" scam.",
       "source": "The Block"
-    },
-    {
-      "title": "Bitget Hack Losses Climb to $387M: Here’s What Happened, and Why North Korea Is a Suspect",
-      "link": "https://decrypt.co/379350/bitget-hack-387m-what-happened-why-north-korea-suspect",
-      "pubDate": "Fri, 25 Sep 2026 17:08:57 +0000",
-      "creator": "Jose Antonio Lanz",
-      "contentSnippet": "An attacker faked internal transfer requests to drain $387.5 million from Bitget's hot and warm wallets, and the exchange's CEO says the fingerprints ...",
-      "source": "Decrypt"
     },
     {
       "title": "Magic Eden Warns Old Ethereum NFT Listings Are Exposed to Payment Processor Exploit",
@@ -559,14 +551,6 @@
       "pubDate": "Fri, 25 Sep 2026 09:50:01 +0000",
       "creator": "Agent",
       "contentSnippet": "The Shielded Bitcoin spec hides senders, receivers and amounts, but leaves how BTC enters and exits the system to a later paper.",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Federal Reserve Unveils Stablecoin Rules on Reserves and Capital",
-      "link": "https://decrypt.co/379274/federal-reserve-unveils-stablecoin-rules-on-reserves-and-capital",
-      "pubDate": "Thu, 24 Sep 2026 21:56:03 +0000",
-      "creator": "Staff",
-      "contentSnippet": "The central bank opened two proposals for comment under the GENIUS Act, requiring issuers it supervises to back tokens fully with safe assets and crea...",
       "source": "Decrypt"
     }
   ]
