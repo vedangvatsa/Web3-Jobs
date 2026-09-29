@@ -1,5 +1,5 @@
 {
-  "lastIndex": 297,
+  "lastIndex": 299,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -115,7 +115,8 @@
     "cm5",
     "sec45",
     "cm2",
-    "mgr63"
+    "mgr63",
+    "cmp57"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -158,7 +159,8 @@
     "cf",
     "sls64",
     "pm50",
-    "cmp38"
+    "cmp38",
+    "pm82"
   ],
   "history": [
     {
@@ -4628,506 +4630,6 @@
       "platform": "instagram",
       "postedAt": "2026-09-25T03:51:22.563Z",
       "postId": "18449861734120522",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops53",
-      "company": "Digital Asset",
-      "title": "Senior People Operations Specialist",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T11:31:24.211Z",
-      "postId": "0xbfa6ea1dd54523e0e399354041aeabbe9030ad5a",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops53",
-      "company": "Digital Asset",
-      "title": "Senior People Operations Specialist",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T11:31:24.211Z",
-      "postId": "0xd0795af4d8e913f1d951aa3218fea4fc7d741d53",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops53",
-      "company": "Digital Asset",
-      "title": "Senior People Operations Specialist",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T11:31:24.211Z",
-      "postId": "0xb9c1e8708b8a6e07c1fb6e69c6fa0f12fd2aee63",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops53",
-      "company": "Digital Asset",
-      "title": "Senior People Operations Specialist",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T11:31:24.211Z",
-      "postId": "0x0b1c79582967acbc3d5a657323b6e301136ff14c",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops53",
-      "company": "Digital Asset",
-      "title": "Senior People Operations Specialist",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T11:31:24.211Z",
-      "postId": "0x814439fd258d802be9d338bc7d519041dfbf9fbe",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops53",
-      "company": "Digital Asset",
-      "title": "Senior People Operations Specialist",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T11:31:24.211Z",
-      "postId": "0xc5375a5f52d31f929e9a82d3766ba38e9f20255a",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops53",
-      "company": "Digital Asset",
-      "title": "Senior People Operations Specialist",
-      "platform": "linkedin",
-      "postedAt": "2026-09-27T11:31:24.211Z",
-      "postId": "6ab8fe9c1bf030e330a50fe7",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops53",
-      "company": "Digital Asset",
-      "title": "Senior People Operations Specialist",
-      "platform": "linkedin",
-      "postedAt": "2026-09-27T11:31:24.211Z",
-      "postId": "6ab8fea643493a0ede8c7696",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops53",
-      "company": "Digital Asset",
-      "title": "Senior People Operations Specialist",
-      "platform": "linkedin",
-      "postedAt": "2026-09-27T11:31:24.211Z",
-      "postId": "urn:li:share:7509937894355222528",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops53",
-      "company": "Digital Asset",
-      "title": "Senior People Operations Specialist",
-      "platform": "facebook",
-      "postedAt": "2026-09-27T11:31:24.211Z",
-      "postId": "691827047618629_1099508772656357",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops53",
-      "company": "Digital Asset",
-      "title": "Senior People Operations Specialist",
-      "platform": "instagram",
-      "postedAt": "2026-09-27T11:31:24.211Z",
-      "postId": "18104565065282452",
-      "verification": "verified"
-    },
-    {
-      "slug": "aso39",
-      "company": "Strike",
-      "title": "Associate General Counsel, Europe & UK",
-      "platform": "x",
-      "postedAt": "2026-09-27T11:32:23.381Z",
-      "postId": "6ab8fec71bf030e330a513d4",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "Strike is hiring Associate General Counsel, Europe & UK\n\nhttps://hashtagweb3.com/aso39/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2104172296411730321"
-    },
-    {
-      "slug": "aso39",
-      "company": "Strike",
-      "title": "Associate General Counsel, Europe & UK",
-      "platform": "threads",
-      "postedAt": "2026-09-27T11:32:23.381Z",
-      "postId": "18429361909194102",
-      "verification": "verified",
-      "expectedText": "Strike is hiring Associate General Counsel, Europe & UK: https://hashtagweb3.com/aso39/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DdygpTXlRXG",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "aso39",
-      "company": "Strike",
-      "title": "Associate General Counsel, Europe & UK",
-      "platform": "bluesky",
-      "postedAt": "2026-09-27T11:32:23.381Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwipbajphl2z",
-      "verification": "verified"
-    },
-    {
-      "slug": "aso39",
-      "company": "Strike",
-      "title": "Associate General Counsel, Europe & UK",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T11:32:23.381Z",
-      "postId": "0x0636a9bd0fda684437d331624c80eb6bb7b2add2",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "aso39",
-      "company": "Strike",
-      "title": "Associate General Counsel, Europe & UK",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T11:32:23.381Z",
-      "postId": "0x1876f84ea52fb3d0e2dbb8d7ca49dfd49e6415b9",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "aso39",
-      "company": "Strike",
-      "title": "Associate General Counsel, Europe & UK",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T11:32:23.381Z",
-      "postId": "0xf45bcdd6a11eda4fa48907961fcf7f622c26d4d0",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "aso39",
-      "company": "Strike",
-      "title": "Associate General Counsel, Europe & UK",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T11:32:23.381Z",
-      "postId": "0x4a21e4fbc9fd6f18d12a7effcfd8d2a60a4831e0",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "aso39",
-      "company": "Strike",
-      "title": "Associate General Counsel, Europe & UK",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T11:32:23.381Z",
-      "postId": "0xf11c4900a8768cd2f7e59388e457ff940167988b",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "aso39",
-      "company": "Strike",
-      "title": "Associate General Counsel, Europe & UK",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T11:32:23.381Z",
-      "postId": "0xf5c108e2156f2cd6623765565e0cdd2024ed685a",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "aso39",
-      "company": "Strike",
-      "title": "Associate General Counsel, Europe & UK",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T11:32:23.381Z",
-      "postId": "0x8c50d90eb42f7a4611fe219a9ad1de2ebe2b2e47",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "aso39",
-      "company": "Strike",
-      "title": "Associate General Counsel, Europe & UK",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T11:32:23.381Z",
-      "postId": "0x52dfe5c1c6751630eafd872275a647df3e872368",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "aso39",
-      "company": "Strike",
-      "title": "Associate General Counsel, Europe & UK",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T11:32:23.381Z",
-      "postId": "0x76f9db39741e934be0dcb4b5b543b5e89de31dbc",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "aso39",
-      "company": "Strike",
-      "title": "Associate General Counsel, Europe & UK",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T11:32:23.381Z",
-      "postId": "0x731fd82bf0c5597009f1f1e2ce8c482c2c0ee849",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "aso39",
-      "company": "Strike",
-      "title": "Associate General Counsel, Europe & UK",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T11:32:23.381Z",
-      "postId": "0x5a922f93ddb024412c30ea214762df3598f59645",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "aso39",
-      "company": "Strike",
-      "title": "Associate General Counsel, Europe & UK",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T11:32:23.381Z",
-      "postId": "0x892deeb5628542ee26272b60274d0010e60be4ad",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "aso39",
-      "company": "Strike",
-      "title": "Associate General Counsel, Europe & UK",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T11:32:23.381Z",
-      "postId": "0x75437652eb334c7e0fcc06d224df10ffc50a4f0c",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "aso39",
-      "company": "Strike",
-      "title": "Associate General Counsel, Europe & UK",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T11:32:23.381Z",
-      "postId": "0xc2affad0f7f4c975d54132983c6abded72f44938",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "aso39",
-      "company": "Strike",
-      "title": "Associate General Counsel, Europe & UK",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T11:32:23.381Z",
-      "postId": "0x94db598b56699698efb57642a18b7a2683a7da26",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "aso39",
-      "company": "Strike",
-      "title": "Associate General Counsel, Europe & UK",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T11:32:23.381Z",
-      "postId": "0x713d599ee0f5fc552840727df430229dce51c6bf",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "aso39",
-      "company": "Strike",
-      "title": "Associate General Counsel, Europe & UK",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T11:32:23.381Z",
-      "postId": "0xdf673a7928009b176b5cea86d49de12c65e0a65b",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "aso39",
-      "company": "Strike",
-      "title": "Associate General Counsel, Europe & UK",
-      "platform": "linkedin",
-      "postedAt": "2026-09-27T11:32:23.381Z",
-      "postId": "6ab8fed61bf030e330a515f0",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "aso39",
-      "company": "Strike",
-      "title": "Associate General Counsel, Europe & UK",
-      "platform": "linkedin",
-      "postedAt": "2026-09-27T11:32:23.381Z",
-      "postId": "6ab8fee143493a0ede8c7dd4",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "aso39",
-      "company": "Strike",
-      "title": "Associate General Counsel, Europe & UK",
-      "platform": "linkedin",
-      "postedAt": "2026-09-27T11:32:23.381Z",
-      "postId": "urn:li:share:7509938140841721856",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "aso39",
-      "company": "Strike",
-      "title": "Associate General Counsel, Europe & UK",
-      "platform": "facebook",
-      "postedAt": "2026-09-27T11:32:23.381Z",
-      "postId": "691827047618629_1099509555989612",
-      "verification": "verified"
-    },
-    {
-      "slug": "aso39",
-      "company": "Strike",
-      "title": "Associate General Counsel, Europe & UK",
-      "platform": "instagram",
-      "postedAt": "2026-09-27T11:32:23.381Z",
-      "postId": "17914929924263998",
-      "verification": "verified"
-    },
-    {
-      "slug": "cess",
-      "company": "Kraken",
-      "title": "Client Engagement Specialist, Social",
-      "platform": "x",
-      "postedAt": "2026-09-27T15:46:30.218Z",
-      "postId": "6ab93a5670ec211d1d1db560",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "Kraken is hiring Client Engagement Specialist, Social\n\nhttps://hashtagweb3.com/cess/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2104236247480688641"
-    },
-    {
-      "slug": "cess",
-      "company": "Kraken",
-      "title": "Client Engagement Specialist, Social",
-      "platform": "threads",
-      "postedAt": "2026-09-27T15:46:30.218Z",
-      "postId": "18335639377258915",
-      "verification": "verified",
-      "expectedText": "Kraken is hiring Client Engagement Specialist, Social: https://hashtagweb3.com/cess/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/Ddy9ujcmym_",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "cess",
-      "company": "Kraken",
-      "title": "Client Engagement Specialist, Social",
-      "platform": "bluesky",
-      "postedAt": "2026-09-27T15:46:30.218Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwj5hokx2d2n",
-      "verification": "verified"
-    },
-    {
-      "slug": "cess",
-      "company": "Kraken",
-      "title": "Client Engagement Specialist, Social",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T15:46:30.218Z",
-      "postId": "0x0e8e95fc861c7e4d83ac88a35d3e3140a6070df9",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "cess",
-      "company": "Kraken",
-      "title": "Client Engagement Specialist, Social",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T15:46:30.218Z",
-      "postId": "0x13929f0bd3ea54ae7829d5ffc23390735f7bd6d4",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "cess",
-      "company": "Kraken",
-      "title": "Client Engagement Specialist, Social",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T15:46:30.218Z",
-      "postId": "0xdec02a13d8095f59d47e1f5151a761882272f0dd",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "cess",
-      "company": "Kraken",
-      "title": "Client Engagement Specialist, Social",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T15:46:30.218Z",
-      "postId": "0x3c8865e6a0bb9c199520d9b0ff07dad106f7c310",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "cess",
-      "company": "Kraken",
-      "title": "Client Engagement Specialist, Social",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T15:46:30.218Z",
-      "postId": "0x7e92e5b0e1c7f29ab0331210b0eced0464edfda1",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "cess",
-      "company": "Kraken",
-      "title": "Client Engagement Specialist, Social",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T15:46:30.218Z",
-      "postId": "0x20605c1588d6301bc3c34d401361efaaa1c2fc5f",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "cess",
-      "company": "Kraken",
-      "title": "Client Engagement Specialist, Social",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T15:46:30.218Z",
-      "postId": "0xb8dbca345703ac6fc1b5fff10596dd69f5b331c7",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "cess",
-      "company": "Kraken",
-      "title": "Client Engagement Specialist, Social",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T15:46:30.218Z",
-      "postId": "0xc332a9ebddc5fe0b0054d60a28298ff0e60a83c1",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "cess",
-      "company": "Kraken",
-      "title": "Client Engagement Specialist, Social",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T15:46:30.218Z",
-      "postId": "0x99a6ea7ee933fcdf6428404d99282c138b451fe6",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "cess",
-      "company": "Kraken",
-      "title": "Client Engagement Specialist, Social",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T15:46:30.218Z",
-      "postId": "0x5d58eef8d84391eaf85343e48fbebd3b635e96ee",
-      "account": "channel:base",
       "verification": "verified"
     },
     {
@@ -10094,6 +9596,504 @@
       "platform": "instagram",
       "postedAt": "2026-09-29T04:07:13.114Z",
       "postId": "17927256393421766",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp57",
+      "company": "GoMining",
+      "title": "General Manager - Custody & Compliance",
+      "platform": "x",
+      "postedAt": "2026-09-29T10:00:50.578Z",
+      "postId": "6abb8c5378e14425927fb2e4",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "GoMining is hiring General Manager - Custody & Compliance\n\nhttps://hashtagweb3.com/cmp57/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2104874040900907434"
+    },
+    {
+      "slug": "cmp57",
+      "company": "GoMining",
+      "title": "General Manager - Custody & Compliance",
+      "platform": "threads",
+      "postedAt": "2026-09-29T10:00:50.578Z",
+      "postId": "18018097370945090",
+      "verification": "verified",
+      "expectedText": "GoMining is hiring General Manager - Custody & Compliance: https://hashtagweb3.com/cmp57/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/Dd3fw5hINT-",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "cmp57",
+      "company": "GoMining",
+      "title": "General Manager - Custody & Compliance",
+      "platform": "bluesky",
+      "postedAt": "2026-09-29T10:00:50.578Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwnl3kwqce26",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp57",
+      "company": "GoMining",
+      "title": "General Manager - Custody & Compliance",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T10:00:50.578Z",
+      "postId": "0xb018c130c04b3d8fb7acbfe19c5b2536fb9033cf",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp57",
+      "company": "GoMining",
+      "title": "General Manager - Custody & Compliance",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T10:00:50.578Z",
+      "postId": "0x248763fee985fa9c52c466cf96738e82df344674",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp57",
+      "company": "GoMining",
+      "title": "General Manager - Custody & Compliance",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T10:00:50.578Z",
+      "postId": "0xcf4a95a8cdf99a6819d63e9239c45ac5cf4f3a53",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp57",
+      "company": "GoMining",
+      "title": "General Manager - Custody & Compliance",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T10:00:50.578Z",
+      "postId": "0x66239cb3a9fc7d11f81a669e144452cdd9df3cfb",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp57",
+      "company": "GoMining",
+      "title": "General Manager - Custody & Compliance",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T10:00:50.578Z",
+      "postId": "0x20a171c99b439b5cd0b5eadb5d705a4ae2326717",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp57",
+      "company": "GoMining",
+      "title": "General Manager - Custody & Compliance",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T10:00:50.578Z",
+      "postId": "0x04a9f3223f0930b9d8d130d02a2c003fa16f94f6",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp57",
+      "company": "GoMining",
+      "title": "General Manager - Custody & Compliance",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T10:00:50.578Z",
+      "postId": "0x993c413d55973e84879fa43100b18ea73789e75c",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp57",
+      "company": "GoMining",
+      "title": "General Manager - Custody & Compliance",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T10:00:50.578Z",
+      "postId": "0x4baa67157d4b4a0df2bb39e7e18353a6725beda0",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp57",
+      "company": "GoMining",
+      "title": "General Manager - Custody & Compliance",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T10:00:50.578Z",
+      "postId": "0xe1ba158f7d9f0a900257ef1c480ec6bd508ada90",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp57",
+      "company": "GoMining",
+      "title": "General Manager - Custody & Compliance",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T10:00:50.578Z",
+      "postId": "0x3a4072f84c64946d7122ffa0288c1a7f95d575a4",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp57",
+      "company": "GoMining",
+      "title": "General Manager - Custody & Compliance",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T10:00:50.578Z",
+      "postId": "0x5541d4731e9b6b657f74b171d12286f54eb23fd9",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp57",
+      "company": "GoMining",
+      "title": "General Manager - Custody & Compliance",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T10:00:50.578Z",
+      "postId": "0x0c9c319230c35915da3450fbee3f89a68d77cecf",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp57",
+      "company": "GoMining",
+      "title": "General Manager - Custody & Compliance",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T10:00:50.578Z",
+      "postId": "0x770c83968d7f62078e3f4357ef7378a7f17b92f6",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp57",
+      "company": "GoMining",
+      "title": "General Manager - Custody & Compliance",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T10:00:50.578Z",
+      "postId": "0x3107ef9fe0aed90df09b374ed2a955f1082fa4f0",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp57",
+      "company": "GoMining",
+      "title": "General Manager - Custody & Compliance",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T10:00:50.578Z",
+      "postId": "0xc991ac46fc007930d3b54cad7fb18519c47d79c2",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp57",
+      "company": "GoMining",
+      "title": "General Manager - Custody & Compliance",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T10:00:50.578Z",
+      "postId": "0x72104d7dd2c85ff928841082cf87dfa07f2d665e",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp57",
+      "company": "GoMining",
+      "title": "General Manager - Custody & Compliance",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T10:00:50.578Z",
+      "postId": "0x310dfc8991c453b51efa0ac22086f412c3a49158",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp57",
+      "company": "GoMining",
+      "title": "General Manager - Custody & Compliance",
+      "platform": "linkedin",
+      "postedAt": "2026-09-29T10:00:50.578Z",
+      "postId": "6abb8c68214c9cccb0ab4fd3",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp57",
+      "company": "GoMining",
+      "title": "General Manager - Custody & Compliance",
+      "platform": "linkedin",
+      "postedAt": "2026-09-29T10:00:50.578Z",
+      "postId": "6abb8c73c8e169381e695c0a",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp57",
+      "company": "GoMining",
+      "title": "General Manager - Custody & Compliance",
+      "platform": "linkedin",
+      "postedAt": "2026-09-29T10:00:50.578Z",
+      "postId": "urn:li:share:7510639907942363136",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp57",
+      "company": "GoMining",
+      "title": "General Manager - Custody & Compliance",
+      "platform": "facebook",
+      "postedAt": "2026-09-29T10:00:50.578Z",
+      "postId": "691827047618629_1101347539139147",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp57",
+      "company": "GoMining",
+      "title": "General Manager - Custody & Compliance",
+      "platform": "instagram",
+      "postedAt": "2026-09-29T10:00:50.578Z",
+      "postId": "18021725747706471",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm82",
+      "company": "Ajaib Crypto",
+      "title": "Product Ops Analyst",
+      "platform": "x",
+      "postedAt": "2026-09-29T10:01:58.565Z",
+      "postId": "6abb8c962d939315271a8936",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Ajaib Crypto is hiring Product Ops Analyst\n\nhttps://hashtagweb3.com/pm82/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2104874319226560865"
+    },
+    {
+      "slug": "pm82",
+      "company": "Ajaib Crypto",
+      "title": "Product Ops Analyst",
+      "platform": "bluesky",
+      "postedAt": "2026-09-29T10:01:58.565Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwnl5duyhu2h",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm82",
+      "company": "Ajaib Crypto",
+      "title": "Product Ops Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T10:01:58.565Z",
+      "postId": "0x7e1d0cf3a3c089751827d291cd307d1bd04fee6f",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm82",
+      "company": "Ajaib Crypto",
+      "title": "Product Ops Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T10:01:58.565Z",
+      "postId": "0x4b47a03cd077751c84130ff22eddab51d923aaab",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm82",
+      "company": "Ajaib Crypto",
+      "title": "Product Ops Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T10:01:58.565Z",
+      "postId": "0x47865e7dc9754abd983aec6889de38f1caef44eb",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm82",
+      "company": "Ajaib Crypto",
+      "title": "Product Ops Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T10:01:58.565Z",
+      "postId": "0x278101f9863817289b5333423ac11dc44fa99c38",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm82",
+      "company": "Ajaib Crypto",
+      "title": "Product Ops Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T10:01:58.565Z",
+      "postId": "0x0089688b95c06f40d8299b60d33e301debac310e",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm82",
+      "company": "Ajaib Crypto",
+      "title": "Product Ops Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T10:01:58.565Z",
+      "postId": "0xb10174928627b2575ac67225591597c84011b75c",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm82",
+      "company": "Ajaib Crypto",
+      "title": "Product Ops Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T10:01:58.565Z",
+      "postId": "0x48da23136c3a1aa2017fe9073a3cb853a224487b",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm82",
+      "company": "Ajaib Crypto",
+      "title": "Product Ops Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T10:01:58.565Z",
+      "postId": "0xe5fc7227e6687cc8af775c1cd0b6fd643ccf305e",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm82",
+      "company": "Ajaib Crypto",
+      "title": "Product Ops Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T10:01:58.565Z",
+      "postId": "0x0d09e5f6f83730ab5e7b0e5309df8afa0855c016",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm82",
+      "company": "Ajaib Crypto",
+      "title": "Product Ops Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T10:01:58.565Z",
+      "postId": "0x1b46b9d89fcc6b419fc109c597f883d9cc2883d3",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm82",
+      "company": "Ajaib Crypto",
+      "title": "Product Ops Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T10:01:58.565Z",
+      "postId": "0x146a2424d87d4324b1df26541f87b4a8fbf7d0ba",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm82",
+      "company": "Ajaib Crypto",
+      "title": "Product Ops Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T10:01:58.565Z",
+      "postId": "0x63f83020cb08b60d998cb75e347088988e2b1b7b",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm82",
+      "company": "Ajaib Crypto",
+      "title": "Product Ops Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T10:01:58.565Z",
+      "postId": "0xf0dc6bad46e85ff6787de1662fea84c37539d13d",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm82",
+      "company": "Ajaib Crypto",
+      "title": "Product Ops Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T10:01:58.565Z",
+      "postId": "0xaf4eab2159948090eaec141a8e620c925762296c",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm82",
+      "company": "Ajaib Crypto",
+      "title": "Product Ops Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T10:01:58.565Z",
+      "postId": "0x5a339657bc89371f6ec5a3cf654670ac5f08e4ca",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm82",
+      "company": "Ajaib Crypto",
+      "title": "Product Ops Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T10:01:58.565Z",
+      "postId": "0xabc2e2fd5c4915bc55da0afc38cdf8d8248b3f85",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm82",
+      "company": "Ajaib Crypto",
+      "title": "Product Ops Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T10:01:58.565Z",
+      "postId": "0x735fca9d6fd0333a4ac9ead78bf6d0bec5ceb9ee",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm82",
+      "company": "Ajaib Crypto",
+      "title": "Product Ops Analyst",
+      "platform": "linkedin",
+      "postedAt": "2026-09-29T10:01:58.565Z",
+      "postId": "6abb8ca4214c9cccb0ab5d0f",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm82",
+      "company": "Ajaib Crypto",
+      "title": "Product Ops Analyst",
+      "platform": "linkedin",
+      "postedAt": "2026-09-29T10:01:58.565Z",
+      "postId": "6abb8cae2d939315271a8e25",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm82",
+      "company": "Ajaib Crypto",
+      "title": "Product Ops Analyst",
+      "platform": "linkedin",
+      "postedAt": "2026-09-29T10:01:58.565Z",
+      "postId": "urn:li:share:7510640155775574016",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm82",
+      "company": "Ajaib Crypto",
+      "title": "Product Ops Analyst",
+      "platform": "facebook",
+      "postedAt": "2026-09-29T10:01:58.565Z",
+      "postId": "691827047618629_1101348525805715",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm82",
+      "company": "Ajaib Crypto",
+      "title": "Product Ops Analyst",
+      "platform": "instagram",
+      "postedAt": "2026-09-29T10:01:58.565Z",
+      "postId": "18177483637445271",
       "verification": "verified"
     }
   ]
