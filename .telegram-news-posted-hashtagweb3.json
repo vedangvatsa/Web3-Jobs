@@ -626,6 +626,9 @@
   "https://cointelegraph.com/news/coinbase-gets-cftc-approval-for-us-derivatives-clearinghouse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "https://cointelegraph.com/news/nvidia-unveils-ai-safety-platform-to-rein-in-rogue-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "https://decrypt.co/379461/vitalik-buterin-outlines-cryptographic-world-computer-plan-for-ethereum",
+  "https://hashtagweb3.com/etf-inflows?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://www.coindesk.com/markets/2026/09/29/bitcoin-is-on-track-to-shatter-a-major-decade-long-streak-as-september-gains-surge",
+  "https://www.coindesk.com/markets/2026/09/29/analysts-see-10-year-treasury-yield-hitting-6-bitcoin-bulls-shouldn-t-panic",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -1786,6 +1789,12 @@
   "Nvidia unveils AI safety platform to rein in ‘rogue’ AI agents",
   "Vitalik Buterin Proposes Future Ethereum Technical Roadmap",
   "Vitalik Buterin Outlines 'Cryptographic World Computer' Plan for Ethereum",
+  "US Bitcoin ETFs see $999 million in daily net inflows",
+  "Bitcoin ETFs Draw 999 Million Dollars in Largest Inflow Since October",
+  "Bitcoin price rises for third consecutive month",
+  "Bitcoin is on track to shatter a major decade-long streak as September gains surge",
+  "Analysts forecast 10-year Treasury yields reaching 6 percent",
+  "Analysts see 10-year Treasury yield hitting 6%. Bitcoin bulls shouldn't panic",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -1962,5 +1971,8 @@
   "fp:000|107|462|945m|btc|buy|capital|increas|past27|preferr",
   "fp:approval|authorization|capability|cftc|clearinghous|coinbas|commodity|derivativ|domestic|exchang",
   "fp:agent|aim|autonomous|controll|environment|escap|follow|incident|monitor|nvidia",
-  "fp:buterin|computer|cryptographic|focus|formal|functionality|futur|improv|network|outlin"
+  "fp:buterin|computer|cryptographic|focus|formal|functionality|futur|improv|network|outlin",
+  "fp:999m|ark|blackrock|daily|day|dollar|draw|drov|etf|fidelity",
+  "fp:challeng|consecutiv|cryptocurrency|decad|event|fourth|gain|growth|higher|long",
+  "fp:affect|analyst|caus|forecast10|hitting6|interest|level|mor|panic|percent"
 ]

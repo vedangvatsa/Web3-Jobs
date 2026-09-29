@@ -194,5 +194,35 @@
     ],
     "messageId": 155503,
     "sentAt": "2026-09-29T04:18:45.148Z"
+  },
+  "4be4e712-a767-4e7e-9d52-36f13b7ee444": {
+    "status": "reserved",
+    "reservedAt": "2026-09-29T10:12:33.471Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "US Bitcoin ETFs see $999 million in daily net inflows",
+        "summary": "BlackRock, Ark, and Fidelity funds drove the ninth-largest single-day net gain for spot products on September 21.",
+        "link": "https://hashtagweb3.com/etf-inflows?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Bitcoin ETFs Draw 999 Million Dollars in Largest Inflow Since October"
+      },
+      {
+        "index": 1,
+        "headline": "Bitcoin price rises for third consecutive month",
+        "summary": "Rising oil prices, higher yields, and upcoming November events may challenge the cryptocurrency's growth in the fourth quarter.",
+        "link": "https://www.coindesk.com/markets/2026/09/29/bitcoin-is-on-track-to-shatter-a-major-decade-long-streak-as-september-gains-surge",
+        "source": "CoinDesk",
+        "originalTitle": "Bitcoin is on track to shatter a major decade-long streak as September gains surge"
+      },
+      {
+        "index": 2,
+        "headline": "Analysts forecast 10-year Treasury yields reaching 6 percent",
+        "summary": "The cause of rising yields affects Bitcoin more than the specific interest rate level reached.",
+        "link": "https://www.coindesk.com/markets/2026/09/29/analysts-see-10-year-treasury-yield-hitting-6-bitcoin-bulls-shouldn-t-panic",
+        "source": "CoinDesk",
+        "originalTitle": "Analysts see 10-year Treasury yield hitting 6%. Bitcoin bulls shouldn't panic"
+      }
+    ]
   }
 }
