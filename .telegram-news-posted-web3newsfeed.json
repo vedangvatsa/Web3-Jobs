@@ -653,6 +653,9 @@
   "https://hashtagweb3.com/chainlink-ccip?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/citi-coinbase?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://www.theblock.co/news/regulation/2026-09-29-ondo-perps-ceo-interview-david-wells-417125",
+  "https://www.theblock.co/news/markets/2026-09-29-cryptoquant-says-bitcoin-correction-could-near-traders-unrealized-profit-21-month-high-417206",
+  "https://decrypt.co/379584/openai-ai-agents-computers-devday-2026-everything-announced",
+  "https://www.theblock.co/news/regulation/2026-09-29-comer-presses-crypto-com-hyperliquid-predictit-identity-checks-suspicious-trades-417192",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -1863,6 +1866,12 @@
   "Citi and Coinbase Bring Stablecoin Checkout to Corporate Clients",
   "Ondo Perps CEO eyes US market for perpetual futures",
   "Ondo Perps CEO sees ‘huge opportunity’ for perps in US market, under different model",
+  "Cboe and S&P Dow Jones explore tokenized options contracts",
+  "CryptoQuant says bitcoin correction could be near as traders’ unrealized profit hits 21-month high",
+  "Ethereum schedules Glamsterdam upgrade for Sepolia testnet",
+  "OpenAI Gave AI Agents Their Own Computers at DevDay 2026. Here's Everything It Announced",
+  "Congressman Comer Investigates Crypto Platforms Over Trading Practices",
+  "Comer presses Crypto.com, Hyperliquid and PredictIt on identity checks and suspicious trades",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -2045,5 +2054,8 @@
   "fp:buterin|computer|cryptographic|fork|formal|futur|hard|hegota|outlin|plan",
   "fp:bridg|can|ccip20|chain|chainlink|check|cross|custom|external|firm",
   "fp:accept|bank|can|checkout|citi|client|coinbas|corporat|enabl|fiat",
-  "fp:are|ceo|different|domestic|environment|eye|firm|futur|hug|market"
+  "fp:are|ceo|different|domestic|environment|eye|firm|futur|hug|market",
+  "fp:are|blockchain|cbo|contract|correction|cryptoquant|derivativ|discuss|dow|explor",
+  "fp:agent|announc|block|builder|computer|devday2026|efficiency|everyth|gav|glamsterdam",
+  "fp:activity|check|com|comer|congressman|employe|hyperliquid|identity|investigat|platform"
 ]

@@ -227,7 +227,7 @@
     "sentAt": "2026-09-29T11:36:48.867Z"
   },
   "9db88feb-52f8-453b-9fc4-25976c5f739b": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-09-29T19:50:35.815Z",
     "stories": [
       {
@@ -257,6 +257,8 @@
         "originalTitle": "Comer presses Crypto.com, Hyperliquid and PredictIt on identity checks and suspicious trades"
       }
     ],
-    "slotKey": "2026-09-29:evening"
+    "slotKey": "2026-09-29:evening",
+    "messageId": 65714,
+    "sentAt": "2026-09-29T19:50:38.644Z"
   }
 }
