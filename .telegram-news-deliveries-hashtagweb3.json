@@ -196,7 +196,7 @@
     "sentAt": "2026-09-29T04:18:45.148Z"
   },
   "4be4e712-a767-4e7e-9d52-36f13b7ee444": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-09-29T10:12:33.471Z",
     "stories": [
       {
@@ -223,6 +223,8 @@
         "source": "CoinDesk",
         "originalTitle": "Analysts see 10-year Treasury yield hitting 6%. Bitcoin bulls shouldn't panic"
       }
-    ]
+    ],
+    "messageId": 155506,
+    "sentAt": "2026-09-29T10:12:36.599Z"
   }
 }
