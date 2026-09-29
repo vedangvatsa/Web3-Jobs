@@ -193,5 +193,35 @@
     ],
     "messageId": 65712,
     "sentAt": "2026-09-29T04:15:12.991Z"
+  },
+  "df00cedb-e4f0-4187-a093-9510c16c4da5": {
+    "status": "reserved",
+    "reservedAt": "2026-09-29T11:36:46.387Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Chainlink launches CCIP 2.0 with custom bridge verification options",
+        "summary": "Institutions can now run private verifiers or hire external firms to secure cross-chain transactions.",
+        "link": "https://hashtagweb3.com/chainlink-ccip?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Chainlink Launches CCIP 2.0 With Custom Bridge Checks"
+      },
+      {
+        "index": -1,
+        "headline": "Citi and Coinbase Enable Stablecoin Payments for Corporate Clients",
+        "summary": "Spring by Citi users can accept stablecoins for fiat settlement while Coinbase uses Citi's banking infrastructure.",
+        "link": "https://hashtagweb3.com/citi-coinbase?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Citi and Coinbase Bring Stablecoin Checkout to Corporate Clients"
+      },
+      {
+        "index": 1,
+        "headline": "Ondo Perps CEO eyes US market for perpetual futures",
+        "summary": "US regulators and firms are testing methods to bring perpetual futures into domestic trading environments.",
+        "link": "https://www.theblock.co/news/regulation/2026-09-29-ondo-perps-ceo-interview-david-wells-417125",
+        "source": "The Block",
+        "originalTitle": "Ondo Perps CEO sees ‘huge opportunity’ for perps in US market, under different model"
+      }
+    ]
   }
 }
