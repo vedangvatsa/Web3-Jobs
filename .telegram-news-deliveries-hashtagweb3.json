@@ -163,7 +163,7 @@
     "sentAt": "2026-09-29T00:04:56.779Z"
   },
   "06d05225-f661-49a3-ab4b-8d081cf03780": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-09-29T04:18:41.946Z",
     "stories": [
       {
@@ -191,6 +191,8 @@
         "source": "Decrypt",
         "originalTitle": "Vitalik Buterin Outlines 'Cryptographic World Computer' Plan for Ethereum"
       }
-    ]
+    ],
+    "messageId": 155503,
+    "sentAt": "2026-09-29T04:18:45.148Z"
   }
 }
