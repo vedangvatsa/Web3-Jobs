@@ -1,5 +1,5 @@
 {
-  "lastIndex": 295,
+  "lastIndex": 297,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -113,7 +113,9 @@
     "be30",
     "int14",
     "cm5",
-    "sec45"
+    "sec45",
+    "cm2",
+    "mgr63"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -4626,516 +4628,6 @@
       "platform": "instagram",
       "postedAt": "2026-09-25T03:51:22.563Z",
       "postId": "18449861734120522",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr72",
-      "company": "Rain",
-      "title": "Market Expansion Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T03:56:28.902Z",
-      "postId": "0x6ec8826c08c08363c24995c60bc082f151c22ce8",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr72",
-      "company": "Rain",
-      "title": "Market Expansion Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T03:56:28.902Z",
-      "postId": "0x632930ecc8451c6102b15d8fee8b204bb425619c",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr72",
-      "company": "Rain",
-      "title": "Market Expansion Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T03:56:28.902Z",
-      "postId": "0x309ecbfa151788c445c8caf10b775563e50cbb0a",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr72",
-      "company": "Rain",
-      "title": "Market Expansion Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T03:56:28.902Z",
-      "postId": "0x0774bb88f82b1f46d9be0c01d75a4ab4340b65e0",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr72",
-      "company": "Rain",
-      "title": "Market Expansion Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T03:56:28.902Z",
-      "postId": "0xd753bb35a93d97d25bf436bed024e95a4972e7ba",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr72",
-      "company": "Rain",
-      "title": "Market Expansion Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T03:56:28.902Z",
-      "postId": "0xf661415a0677516abe150c7ea4b30c55076f44c2",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr72",
-      "company": "Rain",
-      "title": "Market Expansion Manager",
-      "platform": "linkedin",
-      "postedAt": "2026-09-27T03:56:28.902Z",
-      "postId": "6ab894000f79a37c5d4451c7",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr72",
-      "company": "Rain",
-      "title": "Market Expansion Manager",
-      "platform": "linkedin",
-      "postedAt": "2026-09-27T03:56:28.902Z",
-      "postId": "6ab8940b9f89edbefe88140b",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr72",
-      "company": "Rain",
-      "title": "Market Expansion Manager",
-      "platform": "linkedin",
-      "postedAt": "2026-09-27T03:56:28.902Z",
-      "postId": "urn:li:share:7509823425872523264",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr72",
-      "company": "Rain",
-      "title": "Market Expansion Manager",
-      "platform": "facebook",
-      "postedAt": "2026-09-27T03:56:28.902Z",
-      "postId": "691827047618629_1099211149352786",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr72",
-      "company": "Rain",
-      "title": "Market Expansion Manager",
-      "platform": "instagram",
-      "postedAt": "2026-09-27T03:56:28.902Z",
-      "postId": "18122438813481288",
-      "verification": "verified"
-    },
-    {
-      "slug": "fs11",
-      "company": "Stripe",
-      "title": "Full Stack Engineer, Money Movement",
-      "platform": "x",
-      "postedAt": "2026-09-27T03:57:37.503Z",
-      "postId": "6ab89431ccccb9429c43223f",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "Stripe is hiring Full Stack Engineer, Money Movement\n\nhttps://hashtagweb3.com/fs11/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2104057852440576146"
-    },
-    {
-      "slug": "fs11",
-      "company": "Stripe",
-      "title": "Full Stack Engineer, Money Movement",
-      "platform": "threads",
-      "postedAt": "2026-09-27T03:57:37.503Z",
-      "postId": "18127006183873989",
-      "verification": "verified",
-      "expectedText": "Stripe is hiring Full Stack Engineer, Money Movement: https://hashtagweb3.com/fs11/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/Ddxsmmkm3cX",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "fs11",
-      "company": "Stripe",
-      "title": "Full Stack Engineer, Money Movement",
-      "platform": "bluesky",
-      "postedAt": "2026-09-27T03:57:37.503Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwhvu56xmd2o",
-      "verification": "verified"
-    },
-    {
-      "slug": "fs11",
-      "company": "Stripe",
-      "title": "Full Stack Engineer, Money Movement",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T03:57:37.503Z",
-      "postId": "0x81f872e4b7493e907ab08f93dde54d3cfe371322",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "fs11",
-      "company": "Stripe",
-      "title": "Full Stack Engineer, Money Movement",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T03:57:37.503Z",
-      "postId": "0xffe24580de08fe6d1a5903af7e774c31f0a05931",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "fs11",
-      "company": "Stripe",
-      "title": "Full Stack Engineer, Money Movement",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T03:57:37.503Z",
-      "postId": "0xe188b53fba5ed9f42d724acc6b526cf104cf5b12",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "fs11",
-      "company": "Stripe",
-      "title": "Full Stack Engineer, Money Movement",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T03:57:37.503Z",
-      "postId": "0x3d855aed746cd4504157925ac53132cd910f9d53",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "fs11",
-      "company": "Stripe",
-      "title": "Full Stack Engineer, Money Movement",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T03:57:37.503Z",
-      "postId": "0x4c32c11d9b36094ab4312f915f4ba51de85a2ef6",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "fs11",
-      "company": "Stripe",
-      "title": "Full Stack Engineer, Money Movement",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T03:57:37.503Z",
-      "postId": "0x54dca76ffe013ed0ec9c0663b9c75192abc49aa7",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "fs11",
-      "company": "Stripe",
-      "title": "Full Stack Engineer, Money Movement",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T03:57:37.503Z",
-      "postId": "0xbd0ff9ae6c408ac48bd2df75d13a89a5bc376358",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "fs11",
-      "company": "Stripe",
-      "title": "Full Stack Engineer, Money Movement",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T03:57:37.503Z",
-      "postId": "0x4d742b52a53c6cdb6fa1a7c0342f8d2f36f2bfbf",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "fs11",
-      "company": "Stripe",
-      "title": "Full Stack Engineer, Money Movement",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T03:57:37.503Z",
-      "postId": "0x33485c33a9f6e06cf1ef65623b5661061360b11a",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "fs11",
-      "company": "Stripe",
-      "title": "Full Stack Engineer, Money Movement",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T03:57:37.503Z",
-      "postId": "0xa3cdf9f09331250b36dcf0a4938c617d3f0cb715",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "fs11",
-      "company": "Stripe",
-      "title": "Full Stack Engineer, Money Movement",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T03:57:37.503Z",
-      "postId": "0x8e0916311b0902d44d7870b111817a50d10cb3d0",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "fs11",
-      "company": "Stripe",
-      "title": "Full Stack Engineer, Money Movement",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T03:57:37.503Z",
-      "postId": "0xc84d6244e4abc349d96c1b3e37f31fe0cee798d3",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "fs11",
-      "company": "Stripe",
-      "title": "Full Stack Engineer, Money Movement",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T03:57:37.503Z",
-      "postId": "0xb2b95d590a5ada55f0262d363e5b2befdf693dbc",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "fs11",
-      "company": "Stripe",
-      "title": "Full Stack Engineer, Money Movement",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T03:57:37.503Z",
-      "postId": "0xc799577f05096cb188710f586a9c2728bf5c0f9c",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "fs11",
-      "company": "Stripe",
-      "title": "Full Stack Engineer, Money Movement",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T03:57:37.503Z",
-      "postId": "0x2f35f8f9f358853fe1cf560796eafa969e2c61a0",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "fs11",
-      "company": "Stripe",
-      "title": "Full Stack Engineer, Money Movement",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T03:57:37.503Z",
-      "postId": "0x16e1df76da8662dc930fc9be193d522f957878f6",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "fs11",
-      "company": "Stripe",
-      "title": "Full Stack Engineer, Money Movement",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T03:57:37.503Z",
-      "postId": "0xd9f4a8dc675765815d233825e4e18cac8d4f487d",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "fs11",
-      "company": "Stripe",
-      "title": "Full Stack Engineer, Money Movement",
-      "platform": "linkedin",
-      "postedAt": "2026-09-27T03:57:37.503Z",
-      "postId": "6ab894444b4b9f2c1c6143a0",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "fs11",
-      "company": "Stripe",
-      "title": "Full Stack Engineer, Money Movement",
-      "platform": "linkedin",
-      "postedAt": "2026-09-27T03:57:37.503Z",
-      "postId": "6ab8944f3d66d464e5c6c044",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "fs11",
-      "company": "Stripe",
-      "title": "Full Stack Engineer, Money Movement",
-      "platform": "linkedin",
-      "postedAt": "2026-09-27T03:57:37.503Z",
-      "postId": "urn:li:share:7509823712250982400",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "fs11",
-      "company": "Stripe",
-      "title": "Full Stack Engineer, Money Movement",
-      "platform": "facebook",
-      "postedAt": "2026-09-27T03:57:37.503Z",
-      "postId": "691827047618629_1099211769352724",
-      "verification": "verified"
-    },
-    {
-      "slug": "fs11",
-      "company": "Stripe",
-      "title": "Full Stack Engineer, Money Movement",
-      "platform": "instagram",
-      "postedAt": "2026-09-27T03:57:37.503Z",
-      "postId": "18021462404919842",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops53",
-      "company": "Digital Asset",
-      "title": "Senior People Operations Specialist",
-      "platform": "x",
-      "postedAt": "2026-09-27T11:31:24.211Z",
-      "postId": "6ab8fe8c612c9e6ac921e022",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "Digital Asset is hiring Senior People Operations Specialist\n\nhttps://hashtagweb3.com/ops53/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2104172048830345489"
-    },
-    {
-      "slug": "ops53",
-      "company": "Digital Asset",
-      "title": "Senior People Operations Specialist",
-      "platform": "threads",
-      "postedAt": "2026-09-27T11:31:24.211Z",
-      "postId": "17989234157862221",
-      "verification": "verified",
-      "expectedText": "Digital Asset is hiring Senior People Operations Specialist: https://hashtagweb3.com/ops53/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DdygiKFFROi",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "ops53",
-      "company": "Digital Asset",
-      "title": "Senior People Operations Specialist",
-      "platform": "bluesky",
-      "postedAt": "2026-09-27T11:31:24.211Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwip7icnj52f",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops53",
-      "company": "Digital Asset",
-      "title": "Senior People Operations Specialist",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T11:31:24.211Z",
-      "postId": "0xb43708f0139a49a1f2e53265a2cbddf0c914f24b",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops53",
-      "company": "Digital Asset",
-      "title": "Senior People Operations Specialist",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T11:31:24.211Z",
-      "postId": "0xcd5f7552d4f79af98173395669dd986c434bd9bd",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops53",
-      "company": "Digital Asset",
-      "title": "Senior People Operations Specialist",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T11:31:24.211Z",
-      "postId": "0x1e400561b027bde028358905d7a0c6bc9be95d8b",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops53",
-      "company": "Digital Asset",
-      "title": "Senior People Operations Specialist",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T11:31:24.211Z",
-      "postId": "0x9ad617331ceca6000387fb104ed74095e8df84e4",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops53",
-      "company": "Digital Asset",
-      "title": "Senior People Operations Specialist",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T11:31:24.211Z",
-      "postId": "0x539e79c110ab5b33fb9fd723d94747611ca7a99b",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops53",
-      "company": "Digital Asset",
-      "title": "Senior People Operations Specialist",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T11:31:24.211Z",
-      "postId": "0x6f68c71dc29e6633cd87e6cc80bcbd8d2e981d53",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops53",
-      "company": "Digital Asset",
-      "title": "Senior People Operations Specialist",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T11:31:24.211Z",
-      "postId": "0xe584c4b7ac13ca922ffae1191fea741359c5b4a2",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops53",
-      "company": "Digital Asset",
-      "title": "Senior People Operations Specialist",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T11:31:24.211Z",
-      "postId": "0x7b37d41403441f25f1d794d72f82c6ca70c2550c",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops53",
-      "company": "Digital Asset",
-      "title": "Senior People Operations Specialist",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T11:31:24.211Z",
-      "postId": "0x1b6c1b7bb51eb88d8276f65b53ba374ea3fc0557",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops53",
-      "company": "Digital Asset",
-      "title": "Senior People Operations Specialist",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T11:31:24.211Z",
-      "postId": "0x96358eb7b4a91a0aa927af3033ceadd73c073063",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops53",
-      "company": "Digital Asset",
-      "title": "Senior People Operations Specialist",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T11:31:24.211Z",
-      "postId": "0x87dcc17a57f795d510dffbb49271e2b9dc1268a6",
-      "account": "channel:ethereum",
       "verification": "verified"
     },
     {
@@ -10092,6 +9584,516 @@
       "platform": "instagram",
       "postedAt": "2026-09-28T23:54:39.552Z",
       "postId": "18021328061928307",
+      "verification": "verified"
+    },
+    {
+      "slug": "cm2",
+      "company": "Kraken",
+      "title": "Community Lead - Kraken Pro",
+      "platform": "x",
+      "postedAt": "2026-09-29T04:06:04.107Z",
+      "postId": "6abb392c93a81b612b5aa449",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Kraken is hiring Community Lead - Kraken Pro\n\nhttps://hashtagweb3.com/cm2/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2104784753861808160"
+    },
+    {
+      "slug": "cm2",
+      "company": "Kraken",
+      "title": "Community Lead - Kraken Pro",
+      "platform": "threads",
+      "postedAt": "2026-09-29T04:06:04.107Z",
+      "postId": "17983978905085230",
+      "verification": "verified",
+      "expectedText": "Kraken is hiring Community Lead - Kraken Pro: https://hashtagweb3.com/cm2/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/Dd23KSjGxoR",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "cm2",
+      "company": "Kraken",
+      "title": "Community Lead - Kraken Pro",
+      "platform": "bluesky",
+      "postedAt": "2026-09-29T04:06:04.107Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwmxb3ztla2e",
+      "verification": "verified"
+    },
+    {
+      "slug": "cm2",
+      "company": "Kraken",
+      "title": "Community Lead - Kraken Pro",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T04:06:04.107Z",
+      "postId": "0x7a3d6fe404996045963ced3873c4d50d78731929",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "cm2",
+      "company": "Kraken",
+      "title": "Community Lead - Kraken Pro",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T04:06:04.107Z",
+      "postId": "0x9abbe660c7250f0ad750ffeb6b580d646ed19dd0",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "cm2",
+      "company": "Kraken",
+      "title": "Community Lead - Kraken Pro",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T04:06:04.107Z",
+      "postId": "0x95b13173269229818f0c4c591d05276c2b62bd4b",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "cm2",
+      "company": "Kraken",
+      "title": "Community Lead - Kraken Pro",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T04:06:04.107Z",
+      "postId": "0x9f19526f2f0578867223936a9122e06ec9287a48",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "cm2",
+      "company": "Kraken",
+      "title": "Community Lead - Kraken Pro",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T04:06:04.107Z",
+      "postId": "0xff2dc4a1e69cbd6b7d7b00de6ad133c69afa77a7",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "cm2",
+      "company": "Kraken",
+      "title": "Community Lead - Kraken Pro",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T04:06:04.107Z",
+      "postId": "0x1c7f89dde38847454feb11261760fff03dbf2baf",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "cm2",
+      "company": "Kraken",
+      "title": "Community Lead - Kraken Pro",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T04:06:04.107Z",
+      "postId": "0x4053b7786929ce22da9299863b670dfb87776ae6",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "cm2",
+      "company": "Kraken",
+      "title": "Community Lead - Kraken Pro",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T04:06:04.107Z",
+      "postId": "0xd17d0fb9fbd61ae95f4d2a775bf8145bcbd99073",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "cm2",
+      "company": "Kraken",
+      "title": "Community Lead - Kraken Pro",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T04:06:04.107Z",
+      "postId": "0xac7ecb93531002254e0a2825876b56bb14008771",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "cm2",
+      "company": "Kraken",
+      "title": "Community Lead - Kraken Pro",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T04:06:04.107Z",
+      "postId": "0x4b6b73073e5796238deada61a1595e83083788da",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "cm2",
+      "company": "Kraken",
+      "title": "Community Lead - Kraken Pro",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T04:06:04.107Z",
+      "postId": "0x7aff0eaae912573330edda99f449581514232ba1",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "cm2",
+      "company": "Kraken",
+      "title": "Community Lead - Kraken Pro",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T04:06:04.107Z",
+      "postId": "0xc50ac145aff77238d90c14aa5410435af99d474f",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "cm2",
+      "company": "Kraken",
+      "title": "Community Lead - Kraken Pro",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T04:06:04.107Z",
+      "postId": "0xd19a26c865e0bb61a5a299784486a3b007e3e777",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "cm2",
+      "company": "Kraken",
+      "title": "Community Lead - Kraken Pro",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T04:06:04.107Z",
+      "postId": "0xfe75e9f5ca555fe8e6cd3230d018cc8425da94c6",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "cm2",
+      "company": "Kraken",
+      "title": "Community Lead - Kraken Pro",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T04:06:04.107Z",
+      "postId": "0x0cfd2898824cb6d78bae836dcbb51b99a6e34f24",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "cm2",
+      "company": "Kraken",
+      "title": "Community Lead - Kraken Pro",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T04:06:04.107Z",
+      "postId": "0xca6908885895259f841516f7d663674fb8baceea",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "cm2",
+      "company": "Kraken",
+      "title": "Community Lead - Kraken Pro",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T04:06:04.107Z",
+      "postId": "0xfbf8ee5a91baf2068dab25f997b6d38a01d086d4",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "cm2",
+      "company": "Kraken",
+      "title": "Community Lead - Kraken Pro",
+      "platform": "linkedin",
+      "postedAt": "2026-09-29T04:06:04.107Z",
+      "postId": "6abb393f93a81b612b5aa5df",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "cm2",
+      "company": "Kraken",
+      "title": "Community Lead - Kraken Pro",
+      "platform": "linkedin",
+      "postedAt": "2026-09-29T04:06:04.107Z",
+      "postId": "6abb394a7889d8281c288401",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "cm2",
+      "company": "Kraken",
+      "title": "Community Lead - Kraken Pro",
+      "platform": "linkedin",
+      "postedAt": "2026-09-29T04:06:04.107Z",
+      "postId": "urn:li:share:7510550622203584514",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "cm2",
+      "company": "Kraken",
+      "title": "Community Lead - Kraken Pro",
+      "platform": "facebook",
+      "postedAt": "2026-09-29T04:06:04.107Z",
+      "postId": "691827047618629_1101126882494546",
+      "verification": "verified"
+    },
+    {
+      "slug": "cm2",
+      "company": "Kraken",
+      "title": "Community Lead - Kraken Pro",
+      "platform": "instagram",
+      "postedAt": "2026-09-29T04:06:04.107Z",
+      "postId": "17910564975472529",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr63",
+      "company": "Elliptic",
+      "title": "Solution Consulting Manager",
+      "platform": "x",
+      "postedAt": "2026-09-29T04:07:13.114Z",
+      "postId": "6abb397193a81b612b5aadce",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Elliptic is hiring Solution Consulting Manager\n\nhttps://hashtagweb3.com/mgr63/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2104785041716855105"
+    },
+    {
+      "slug": "mgr63",
+      "company": "Elliptic",
+      "title": "Solution Consulting Manager",
+      "platform": "threads",
+      "postedAt": "2026-09-29T04:07:13.114Z",
+      "postId": "18093440186405305",
+      "verification": "verified",
+      "expectedText": "Elliptic is hiring Solution Consulting Manager: https://hashtagweb3.com/mgr63/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/Dd23Socmyb_",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "mgr63",
+      "company": "Elliptic",
+      "title": "Solution Consulting Manager",
+      "platform": "bluesky",
+      "postedAt": "2026-09-29T04:07:13.114Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwmxd7uqfd2t",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr63",
+      "company": "Elliptic",
+      "title": "Solution Consulting Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T04:07:13.114Z",
+      "postId": "0x4dcdf23117a80c334ed7188485c6fc1c3f0c599c",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr63",
+      "company": "Elliptic",
+      "title": "Solution Consulting Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T04:07:13.114Z",
+      "postId": "0x5db5b10d5aebe186a8606e8daf8eebe49b35a298",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr63",
+      "company": "Elliptic",
+      "title": "Solution Consulting Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T04:07:13.114Z",
+      "postId": "0x44dd5e5bc56687d841790c7853e145d2d312f3ec",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr63",
+      "company": "Elliptic",
+      "title": "Solution Consulting Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T04:07:13.114Z",
+      "postId": "0xa26b66e43f5acd0def5c7f8c5f5d6b040dc1f50d",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr63",
+      "company": "Elliptic",
+      "title": "Solution Consulting Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T04:07:13.114Z",
+      "postId": "0xd05b571bdad840717e235bb52f67fcf26e6fb79b",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr63",
+      "company": "Elliptic",
+      "title": "Solution Consulting Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T04:07:13.114Z",
+      "postId": "0x1ffaf2f29f13bc85c93ad01fd4740bf6730f79fd",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr63",
+      "company": "Elliptic",
+      "title": "Solution Consulting Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T04:07:13.114Z",
+      "postId": "0x4ce79a10344b06cb0810c770b6e642bdc694f934",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr63",
+      "company": "Elliptic",
+      "title": "Solution Consulting Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T04:07:13.114Z",
+      "postId": "0x66cc524080207217fb93ec43319646469f27beab",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr63",
+      "company": "Elliptic",
+      "title": "Solution Consulting Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T04:07:13.114Z",
+      "postId": "0x4db6adb4e9580490ea0e5c7e0870d082ba2f8a78",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr63",
+      "company": "Elliptic",
+      "title": "Solution Consulting Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T04:07:13.114Z",
+      "postId": "0x6ecfae01e0d2a89a9225a2dd62ebdb739c4c6d5c",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr63",
+      "company": "Elliptic",
+      "title": "Solution Consulting Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T04:07:13.114Z",
+      "postId": "0x2289bd642f278c740fedae98f194f6c7cb2eb9bb",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr63",
+      "company": "Elliptic",
+      "title": "Solution Consulting Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T04:07:13.114Z",
+      "postId": "0xde7d9290c0520895a096425cd71fe294bb5d34da",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr63",
+      "company": "Elliptic",
+      "title": "Solution Consulting Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T04:07:13.114Z",
+      "postId": "0xcac69f8b815f9c3e9afc911e841fab26c6cab86b",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr63",
+      "company": "Elliptic",
+      "title": "Solution Consulting Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T04:07:13.114Z",
+      "postId": "0x2b713a2d0e5893ce00a35bc3e1224cdacb191886",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr63",
+      "company": "Elliptic",
+      "title": "Solution Consulting Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T04:07:13.114Z",
+      "postId": "0x837cd06a75219dc4912338b29820d571cc4681d2",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr63",
+      "company": "Elliptic",
+      "title": "Solution Consulting Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T04:07:13.114Z",
+      "postId": "0x49d62b3e0dde1fa9ea29f149fb02dfcaf50ec477",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr63",
+      "company": "Elliptic",
+      "title": "Solution Consulting Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T04:07:13.114Z",
+      "postId": "0x24a0d6912a32e386f3f841405d91fc4d6130195d",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr63",
+      "company": "Elliptic",
+      "title": "Solution Consulting Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-09-29T04:07:13.114Z",
+      "postId": "6abb39877889d8281c288b24",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr63",
+      "company": "Elliptic",
+      "title": "Solution Consulting Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-09-29T04:07:13.114Z",
+      "postId": "6abb399185cca6b1297b216f",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr63",
+      "company": "Elliptic",
+      "title": "Solution Consulting Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-09-29T04:07:13.114Z",
+      "postId": "urn:li:share:7510550912592089088",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr63",
+      "company": "Elliptic",
+      "title": "Solution Consulting Manager",
+      "platform": "facebook",
+      "postedAt": "2026-09-29T04:07:13.114Z",
+      "postId": "691827047618629_1101127525827815",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr63",
+      "company": "Elliptic",
+      "title": "Solution Consulting Manager",
+      "platform": "instagram",
+      "postedAt": "2026-09-29T04:07:13.114Z",
+      "postId": "17927256393421766",
       "verification": "verified"
     }
   ]
