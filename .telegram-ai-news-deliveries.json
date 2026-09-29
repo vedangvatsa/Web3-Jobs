@@ -106,5 +106,41 @@
     ],
     "messageId": 193301,
     "sentAt": "2026-09-29T00:05:24.970Z"
+  },
+  "93c39f73-5cf8-4126-b4d4-f9e2cfc3de9a": {
+    "status": "reserved",
+    "reservedAt": "2026-09-29T11:37:23.882Z",
+    "stories": [
+      {
+        "index": 10,
+        "original_title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
+        "headline": "Anthropic releases Claude Sonnet 5.5 model",
+        "summary": "The updated mid-range model offers faster response times and lower operational costs for enterprise users.",
+        "event_rationale": "This covers a major new model release from Anthropic, which is distinct from previous model announcements.",
+        "link": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
+        "source": "TechCrunch",
+        "originalTitle": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner"
+      },
+      {
+        "index": 7,
+        "original_title": "Florida invokes extinction fears in legal bid to halt OpenAI development",
+        "headline": "Florida files lawsuit to halt OpenAI development",
+        "summary": "State lawyers argue that large language models represent a public nuisance and threaten human civilization.",
+        "event_rationale": "This covers a novel legal attempt by a US state to halt generative AI development based on existential risk.",
+        "link": "https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development/",
+        "source": "Ars Technica",
+        "originalTitle": "Florida invokes extinction fears in legal bid to halt OpenAI development"
+      },
+      {
+        "index": 5,
+        "original_title": "OpenAI reportedly ditches model over safety concerns",
+        "headline": "OpenAI cancels model development over safety concerns",
+        "summary": "The company stopped working on an unreleased model after it failed to follow user instructions reliably.",
+        "event_rationale": "This covers OpenAI's decision to scrap a model due to alignment issues, distinct from external legal or regulatory challenges.",
+        "link": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+        "source": "TechCrunch",
+        "originalTitle": "OpenAI reportedly ditches model over safety concerns"
+      }
+    ]
   }
 }

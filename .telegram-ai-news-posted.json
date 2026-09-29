@@ -626,6 +626,9 @@
   "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
   "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
   "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/",
+  "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
+  "https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development/",
+  "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1661,6 +1664,12 @@
   "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
   "US administration implements AI for medical claim denials",
   "Trump admin using AI to deny medical care for seniors in disastrous experiment",
+  "Anthropic releases Claude Sonnet 5.5 model",
+  "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
+  "Florida files lawsuit to halt OpenAI development",
+  "Florida invokes extinction fears in legal bid to halt OpenAI development",
+  "OpenAI cancels model development over safety concerns",
+  "OpenAI reportedly ditches model over safety concerns",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -1804,5 +1813,8 @@
   "fp:30m|aim|automat|detection|detector|develop|download|dur|fiv|government",
   "fp:1575b|750m|clos|comput|financ|fund|inferenc|infrastructur|lab|modal",
   "fp:82b|acquir|advanc|amd|fei|integrat|lab|leadership|operation|purchas",
-  "fp:admin|administration|agency|are|automat|car|claim|denial|deny|deploy"
+  "fp:admin|administration|agency|are|automat|car|claim|denial|deny|deploy",
+  "fp:anthropic|call|cheaper|cost|enterpris|faster|lower|mid|offer|operational",
+  "fp:argu|bid|civilization|development|extinction|fear|fil|florida|halt|human",
+  "fp:cancel|concern|development|ditch|fail|follow|instruction|openai|reliably|reportedly"
 ]
