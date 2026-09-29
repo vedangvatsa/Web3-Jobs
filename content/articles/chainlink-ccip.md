@@ -1,0 +1,30 @@
+---
+title: Chainlink Launches CCIP 2.0 With Custom Bridge Checks
+ogTitle: "CHAINLINK LAUNCHES CCIP 2.0 WITH CUSTOM BRIDGE CHECKS"
+description: Chainlink released CCIP 2.0 on September 28, letting institutions run their own cross-chain verifiers or hire providers such as Infosys and Nethermind, five months after the $292 million Kelp DAO bridge hack.
+image: /images/news/chainlink-ccip.jpg
+imageCaption: "Sergey Nazarov, co-founder of Chainlink. Photo: Breadcrumb777 via Wikimedia Commons (CC BY-SA 4.0)."
+imageCreditUrl: https://commons.wikimedia.org/wiki/File:Sergey_Nazarov_Chainlink.jpg
+category: News
+data-ai-hint: Chainlink co-founder portrait
+publishedDate: '2026-09-29'
+lastUpdated: '2026-09-29'
+---
+
+Chainlink on September 28 released CCIP 2.0, a new version of its cross-chain transfer protocol that lets banks and asset issuers run their own security checks on transfers between blockchains. The company [announced](https://chain.link/blog/introducing-ccip-2-0) the upgrade on Monday, and Decrypt [reported](https://decrypt.co/379463/chainlink-institutions-add-bridge-checks-kelp-hack) the launch the same day.
+
+The headline feature is the Cross-Chain Verifier, or CCV. Institutions can operate their own verifier as an extra guard that must sign off before a transfer clears on the destination chain, or they can hire the work out to outside providers. Chainlink names Infosys and Nethermind among the firms building verifier services for clients, and says starter kits are ready on Amazon Web Services and Google Cloud, according to the [announcement](https://chain.link/blog/introducing-ccip-2-0).
+
+The new checks sit on top of a baseline that has not changed. Chainlink's default committee of 16 independent node operators must still reach consensus on every transfer before it goes through. Where a customer adds its own verifier, both the default committee and the independent verifier must cryptographically sign the transaction, the [post](https://chain.link/blog/introducing-ccip-2-0) says.
+
+"Historically, legacy bridges have lost billions due to insecure infrastructure, while in-house builds are slow and expensive," Johann Eid, Chainlink Labs chief business officer, said in the launch material quoted by [Decrypt](https://decrypt.co/379463/chainlink-institutions-add-bridge-checks-kelp-hack). The pitch is aimed at institutions that distrust rival-controlled infrastructure but cannot afford to build and guard their own.
+
+A quieter change sits underneath. Chainlink's Risk Management Network, a separate set of nodes that used to double-check the main committee's work, no longer plays that role in current deployments. "The Risk Management Network's automated offchain role is no longer active in current CCIP deployments, but is expected to be offered as an optional validation layer in future releases," the project [documentation](https://docs.chain.link/ccip/concepts/architecture/key-concepts) reads, as Decrypt [noted](https://decrypt.co/379463/chainlink-institutions-add-bridge-checks-kelp-hack). The on-chain contract remains only as an emergency backstop. In practice, a customer that adds no extra verifier now relies on one verification network where it previously had two, though that network is still 16 independent operators reaching quorum rather than a single point of failure.
+
+The upgrade also adds compliance and speed controls. CCIP 2.0 connects with Chainlink's Automated Compliance Engine for allowlists, denylists, sanctions screening and transaction limits, drawing on a partner set of more than 20 compliance providers, the [announcement](https://chain.link/blog/introducing-ccip-2-0) says. Issuers can also tune settlement speed, from near-instant transfers to waiting for full source-chain finality, and the protocol plans to support Ethereum's Fast Confirmation Rule alongside Ethlabs. Lending protocol Aave, tokenized reinsurance platform Re and asset manager Maple have adopted the faster settlement path for their cross-chain tokens, while Lombard Finance is adding custom verifier logic to its Bitcoin yield product, according to the [post](https://chain.link/blog/introducing-ccip-2-0).
+
+Chainlink puts the scale of its bridge business at more than $84 billion in cross-chain token value secured, a figure it reports itself. The company says more than $15 billion migrated to its rails in the last four months, including BitGo's wrapped Bitcoin at over $7.4 billion, Coinbase's cbBTC at over $6.1 billion, Kraken's kBTC and Wyoming's official FRNT stable token. Eighteen companies appear as launch partners, though their commitments vary in strength: Fidelity says the upgrade "has the potential to support" wider distribution, while Further Asset Management merely "intends to partner," as [described on launch day](https://decrypt.co/379463/chainlink-institutions-add-bridge-checks-kelp-hack). Confirmed live deployments of the new verifier feature were still scarce hours after launch.
+
+The timing traces to April, when hackers tied to North Korea's Lazarus Group drained about $292 million in rsETH from Kelp DAO, a staking protocol whose bridge ran on rival LayerZero with a single verifier. LayerZero called that configuration a mistake and stopped supporting it for new deployments, while Kelp said LayerZero staff had reviewed the setup and never flagged it as risky. Kelp later moved to Chainlink, and so did Kraken's wrapped Bitcoin token and Lombard Finance with more than $1 billion in Bitcoin-linked assets. The Cryptonomist [account](https://en.cryptonomist.ch/2026/09/28/chainlink-ccip-upgrade/), citing CoinDesk data, said nearly half of active LayerZero apps used a comparable one-verifier arrangement at the time of the hack.
+
+For teams already connected to Chainlink's bridging product, the changeover should be painless. Existing integrations continue to work with CCIP 2.0 without any changes on their end, the company says, a point the Cryptonomist [report](https://en.cryptonomist.ch/2026/09/28/chainlink-ccip-upgrade/) also records.
