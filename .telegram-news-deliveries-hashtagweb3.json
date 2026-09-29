@@ -226,5 +226,38 @@
     ],
     "messageId": 155506,
     "sentAt": "2026-09-29T10:12:36.599Z"
+  },
+  "be6bc357-2684-4567-9981-e9ac4d861053": {
+    "status": "reserved",
+    "reservedAt": "2026-09-29T19:49:35.133Z",
+    "stories": [
+      {
+        "index": 2,
+        "headline": "Ethereum schedules Glamsterdam network upgrade",
+        "summary": "The upgrade introduces proposer-builder separation and new gas pricing mechanisms, with testing beginning on the Sepolia testnet.",
+        "event_rationale": "This represents a major protocol-level upgrade affecting Ethereum infrastructure, distinct from other protocol news.",
+        "link": "https://www.theblock.co/news/markets/2026-09-29-cryptoquant-says-bitcoin-correction-could-near-traders-unrealized-profit-21-month-high-417206",
+        "source": "The Block",
+        "originalTitle": "CryptoQuant says bitcoin correction could be near as traders’ unrealized profit hits 21-month high"
+      },
+      {
+        "index": 3,
+        "headline": "Cboe and S&P Dow Jones explore tokenized options",
+        "summary": "The institutions are evaluating the creation of tokenized derivatives as traditional finance firms move assets onto blockchain networks.",
+        "event_rationale": "This covers institutional adoption of tokenization in derivatives markets, distinct from the ARK Invest or Franklin Templeton tokenization stories.",
+        "link": "https://decrypt.co/379584/openai-ai-agents-computers-devday-2026-everything-announced",
+        "source": "Decrypt",
+        "originalTitle": "OpenAI Gave AI Agents Their Own Computers at DevDay 2026. Here's Everything It Announced"
+      },
+      {
+        "index": 1,
+        "headline": "Developer Releases Public Jailbreak for PlayStation 5",
+        "summary": "The software release follows Sony's recent legal argument that users do not own their digital game purchases.",
+        "link": "https://decrypt.co/379583/sony-ps5-jailbreak-digital-games-ownership",
+        "source": "Decrypt",
+        "originalTitle": "Someone Finally Jailbroke the PS5—Just After Sony Said Players Don’t Own Their Games"
+      }
+    ],
+    "slotKey": "2026-09-29:evening"
   }
 }
