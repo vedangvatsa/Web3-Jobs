@@ -127,5 +127,37 @@
     ],
     "messageId": 155498,
     "sentAt": "2026-09-28T19:50:48.400Z"
+  },
+  "23d65e2c-3fd1-452d-99de-e830caa29bc4": {
+    "status": "reserved",
+    "reservedAt": "2026-09-29T00:04:53.550Z",
+    "stories": [
+      {
+        "index": 1,
+        "headline": "Blockchain.com plans initial public offering",
+        "summary": "The crypto firm is targeting a valuation of up to $6 billion for its public market debut.",
+        "event_rationale": "This covers a major exchange IPO announcement, which is distinct from all previously listed exchange or company news.",
+        "link": "https://decrypt.co/379505/rsa-attack-without-stealing-key-what-it-means-crypto",
+        "source": "Decrypt",
+        "originalTitle": "A Clever RSA Attack Fooled a Hardware Vault—Here's What It Means for Crypto"
+      },
+      {
+        "index": 2,
+        "headline": "Franklin Templeton brings tokenized money market fund to Bybit",
+        "summary": "Investors can now use tokenized fund shares as collateral for stablecoin trading credit lines on the exchange.",
+        "event_rationale": "This describes a specific institutional integration of tokenized real-world assets into a crypto exchange, distinct from other institutional partnerships.",
+        "link": "https://cointelegraph.com/news/canada-aiden-pleterski-fraud-trial-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph",
+        "originalTitle": "Canadian ‘crypto king’ set to represent himself at fraud trial"
+      },
+      {
+        "index": 6,
+        "headline": "Strive Increases Bitcoin Holdings to 27,462 BTC",
+        "summary": "The company purchased 1,107 Bitcoin for $94.5 million, primarily using capital from its preferred stock.",
+        "link": "https://decrypt.co/379465/strive-buys-94-5-million-in-bitcoin-pushing-holdings-past-27000-btc",
+        "source": "Decrypt",
+        "originalTitle": "Strive Buys $94.5 Million in Bitcoin, Pushing Holdings Past 27,000 BTC"
+      }
+    ]
   }
 }

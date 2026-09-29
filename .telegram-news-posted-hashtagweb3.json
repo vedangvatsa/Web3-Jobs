@@ -620,6 +620,9 @@
   "https://decrypt.co/379481/australia-sam-altman-dario-amodei-ai-hack",
   "https://decrypt.co/379463/chainlink-institutions-add-bridge-checks-kelp-hack",
   "https://www.theblock.co/news/business/2026-09-28-citi-coinbase-stablecoin-payments-corporate-clients-417082",
+  "https://decrypt.co/379505/rsa-attack-without-stealing-key-what-it-means-crypto",
+  "https://cointelegraph.com/news/canada-aiden-pleterski-fraud-trial-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "https://decrypt.co/379465/strive-buys-94-5-million-in-bitcoin-pushing-holdings-past-27000-btc",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -1768,6 +1771,12 @@
   "Months After the $292M Kelp Hack, Chainlink Lets Institutions Add Their Own Bridge Checks",
   "Citi and Coinbase partner for business stablecoin payments",
   "Citi expands Coinbase partnership to power stablecoin payments for businesses",
+  "Blockchain.com plans initial public offering",
+  "A Clever RSA Attack Fooled a Hardware Vault—Here's What It Means for Crypto",
+  "Franklin Templeton brings tokenized money market fund to Bybit",
+  "Canadian ‘crypto king’ set to represent himself at fraud trial",
+  "Strive Increases Bitcoin Holdings to 27,462 BTC",
+  "Strive Buys $94.5 Million in Bitcoin, Pushing Holdings Past 27,000 BTC",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -1938,5 +1947,8 @@
   "fp:assur|casino|confirm|downtim|duelbit|extend|fund|hack|hot|offlin",
   "fp:agent|amodei|australia|bank|bypass|call|financial|government|hack|identify",
   "fp:292m|add|bank|bridg|can|ccip20|chain|chainlink|check|cross",
-  "fp:are|build|business|citi|client|coinbas|connect|corporat|currency|expand"
+  "fp:are|build|business|citi|client|coinbas|connect|corporat|currency|expand",
+  "fp:attack|blockchain|clever|com|debut|firm|fool|hardwar|her|initial",
+  "fp:bybit|can|canadian|collateral|credit|exchang|franklin|fraud|fund|himself",
+  "fp:000|107|462|945m|btc|buy|capital|increas|past27|preferr"
 ]
