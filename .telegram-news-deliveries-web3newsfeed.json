@@ -195,7 +195,7 @@
     "sentAt": "2026-09-29T04:15:12.991Z"
   },
   "df00cedb-e4f0-4187-a093-9510c16c4da5": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-09-29T11:36:46.387Z",
     "stories": [
       {
@@ -222,6 +222,8 @@
         "source": "The Block",
         "originalTitle": "Ondo Perps CEO sees ‘huge opportunity’ for perps in US market, under different model"
       }
-    ]
+    ],
+    "messageId": 65713,
+    "sentAt": "2026-09-29T11:36:48.867Z"
   }
 }
