@@ -144,5 +144,40 @@
     ],
     "messageId": 193302,
     "sentAt": "2026-09-29T11:37:26.308Z"
+  },
+  "e2b93bda-c23f-47d4-b4d4-3c4685bd1014": {
+    "status": "reserved",
+    "reservedAt": "2026-09-29T19:48:26.897Z",
+    "stories": [
+      {
+        "index": 1,
+        "original_title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+        "headline": "OpenAI launches office software suite to compete with Microsoft",
+        "summary": "The new tools expand the chatbot into a workspace platform, positioning the startup as a direct competitor to traditional software providers.",
+        "event_rationale": "This covers OpenAI's expansion into office productivity software, representing a major competitive shift in the enterprise AI market.",
+        "link": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+        "source": "TechCrunch",
+        "originalTitle": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite"
+      },
+      {
+        "index": 9,
+        "original_title": "Anthropic’s IPO pitch includes a warning about human extinction",
+        "headline": "Anthropic warns of human extinction risks in IPO pitch",
+        "summary": "The safety-focused startup cautioned potential investors that its future models could resist shutdown attempts and cause catastrophic global harm.",
+        "event_rationale": "This covers Anthropic's official risk disclosures regarding catastrophic model behavior during its initial public offering preparations.",
+        "link": "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction/",
+        "source": "Ars Technica",
+        "originalTitle": "Anthropic’s IPO pitch includes a warning about human extinction"
+      },
+      {
+        "index": 2,
+        "headline": "Wabi updates app builder to function as AI agent",
+        "summary": "The platform now allows users to generate interfaces and manage tasks through a conversational chat interface.",
+        "link": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
+        "source": "TechCrunch",
+        "originalTitle": "AI-powered app maker Wabi pivots to a messaging experience"
+      }
+    ],
+    "slotKey": "2026-09-29:evening"
   }
 }
