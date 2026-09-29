@@ -1,5 +1,5 @@
 {
-  "lastIndex": 302,
+  "lastIndex": 304,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -117,7 +117,9 @@
     "cm2",
     "mgr63",
     "cmp57",
-    "sls162"
+    "sls162",
+    "pm126",
+    "eng188"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -4632,516 +4634,6 @@
       "platform": "instagram",
       "postedAt": "2026-09-25T03:51:22.563Z",
       "postId": "18449861734120522",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp51",
-      "company": "GSR Markets",
-      "title": "Vice President - Legal",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T19:32:03.161Z",
-      "postId": "0x346abbc095fd2d35456e3686d32abdfa88671b6e",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp51",
-      "company": "GSR Markets",
-      "title": "Vice President - Legal",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T19:32:03.161Z",
-      "postId": "0x0d2bdd98713049a535de75350cb51c725bf586b2",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp51",
-      "company": "GSR Markets",
-      "title": "Vice President - Legal",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T19:32:03.161Z",
-      "postId": "0x814b265c7134f2ee1794c51179a50230c9cbb6fc",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp51",
-      "company": "GSR Markets",
-      "title": "Vice President - Legal",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T19:32:03.161Z",
-      "postId": "0xa7ffd04d35d929ca57b17a1ee8248f296dd81fbe",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp51",
-      "company": "GSR Markets",
-      "title": "Vice President - Legal",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T19:32:03.161Z",
-      "postId": "0x9723540ff7bb9b223c19a7f734b01260263a0838",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp51",
-      "company": "GSR Markets",
-      "title": "Vice President - Legal",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T19:32:03.161Z",
-      "postId": "0x9b5c90a9b2ab52f976f5195f58159cd9c00c98f1",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp51",
-      "company": "GSR Markets",
-      "title": "Vice President - Legal",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T19:32:03.161Z",
-      "postId": "0xb7e8e536346f3d8c6daaae2be23e954ef87d290d",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp51",
-      "company": "GSR Markets",
-      "title": "Vice President - Legal",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T19:32:03.161Z",
-      "postId": "0x5404c7e9290cb3b36f5297db35748a669b10b949",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp51",
-      "company": "GSR Markets",
-      "title": "Vice President - Legal",
-      "platform": "linkedin",
-      "postedAt": "2026-09-27T19:32:03.161Z",
-      "postId": "6ab96f4543493a0ede9bd7ac",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp51",
-      "company": "GSR Markets",
-      "title": "Vice President - Legal",
-      "platform": "linkedin",
-      "postedAt": "2026-09-27T19:32:03.161Z",
-      "postId": "6ab96f4f612c9e6ac93151d2",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp51",
-      "company": "GSR Markets",
-      "title": "Vice President - Legal",
-      "platform": "linkedin",
-      "postedAt": "2026-09-27T19:32:03.161Z",
-      "postId": "urn:li:share:7510058862541029377",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp51",
-      "company": "GSR Markets",
-      "title": "Vice President - Legal",
-      "platform": "facebook",
-      "postedAt": "2026-09-27T19:32:03.161Z",
-      "postId": "691827047618629_1099884669285434",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp51",
-      "company": "GSR Markets",
-      "title": "Vice President - Legal",
-      "platform": "instagram",
-      "postedAt": "2026-09-27T19:32:03.161Z",
-      "postId": "17901917697593160",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng299",
-      "company": "Stripe",
-      "title": "Integration Engineer, Professional Services",
-      "platform": "x",
-      "postedAt": "2026-09-27T19:33:06.283Z",
-      "postId": "6ab96f72612c9e6ac931544d",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "Stripe is hiring Integration Engineer, Professional Services\n\nhttps://hashtagweb3.com/eng299/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2104293273053393263"
-    },
-    {
-      "slug": "eng299",
-      "company": "Stripe",
-      "title": "Integration Engineer, Professional Services",
-      "platform": "threads",
-      "postedAt": "2026-09-27T19:33:06.283Z",
-      "postId": "18120796784315369",
-      "verification": "verified",
-      "expectedText": "Stripe is hiring Integration Engineer, Professional Services: https://hashtagweb3.com/eng299/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DdzXqRGj9LJ",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "eng299",
-      "company": "Stripe",
-      "title": "Integration Engineer, Professional Services",
-      "platform": "bluesky",
-      "postedAt": "2026-09-27T19:33:06.283Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwjk4vocm42z",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng299",
-      "company": "Stripe",
-      "title": "Integration Engineer, Professional Services",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T19:33:06.283Z",
-      "postId": "0xe93ff0cecd3ec3c750595fde672bae358239d056",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng299",
-      "company": "Stripe",
-      "title": "Integration Engineer, Professional Services",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T19:33:06.283Z",
-      "postId": "0xeda0058f55be080e4ef748babbc11cac8d2bcd24",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng299",
-      "company": "Stripe",
-      "title": "Integration Engineer, Professional Services",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T19:33:06.283Z",
-      "postId": "0x6936937c305f72788ba17cecdb69986366a5b34b",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng299",
-      "company": "Stripe",
-      "title": "Integration Engineer, Professional Services",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T19:33:06.283Z",
-      "postId": "0x0b78e5c2c6a4e9bee703b436dcc25e1448bbdc1f",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng299",
-      "company": "Stripe",
-      "title": "Integration Engineer, Professional Services",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T19:33:06.283Z",
-      "postId": "0x81f50bba703e25bd36982b62daf29030b610a41b",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng299",
-      "company": "Stripe",
-      "title": "Integration Engineer, Professional Services",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T19:33:06.283Z",
-      "postId": "0x1e9996b316d3753c61fc19dbd7634432f1b2683e",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng299",
-      "company": "Stripe",
-      "title": "Integration Engineer, Professional Services",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T19:33:06.283Z",
-      "postId": "0x8f49f3d1e2bbc909d94f8446eafac258107bf768",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng299",
-      "company": "Stripe",
-      "title": "Integration Engineer, Professional Services",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T19:33:06.283Z",
-      "postId": "0x6c36738f8ab6c22c12c5baf03febbcedebb67f83",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng299",
-      "company": "Stripe",
-      "title": "Integration Engineer, Professional Services",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T19:33:06.283Z",
-      "postId": "0x2000af16ddb6d0d4f969314a42dfb8e7f4975676",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng299",
-      "company": "Stripe",
-      "title": "Integration Engineer, Professional Services",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T19:33:06.283Z",
-      "postId": "0x122de32f3c576d460f47a2a0e3d8e50051655c4e",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng299",
-      "company": "Stripe",
-      "title": "Integration Engineer, Professional Services",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T19:33:06.283Z",
-      "postId": "0x080ab9abc0fe4fa4eff72d3913c6e92e47763d9a",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng299",
-      "company": "Stripe",
-      "title": "Integration Engineer, Professional Services",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T19:33:06.283Z",
-      "postId": "0xacc41febca836f9b17f40e9b22016de2a868f78e",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng299",
-      "company": "Stripe",
-      "title": "Integration Engineer, Professional Services",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T19:33:06.283Z",
-      "postId": "0xb5a08d9ad9e249bda1a8bb28fd59c30b14342f35",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng299",
-      "company": "Stripe",
-      "title": "Integration Engineer, Professional Services",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T19:33:06.283Z",
-      "postId": "0x0f4c50ddc56fd87637480fcbb90f101e1083d3f0",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng299",
-      "company": "Stripe",
-      "title": "Integration Engineer, Professional Services",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T19:33:06.283Z",
-      "postId": "0x041ef5d0b26eea17c4472f62b32b3ceee8ac0454",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng299",
-      "company": "Stripe",
-      "title": "Integration Engineer, Professional Services",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T19:33:06.283Z",
-      "postId": "0x1e7824137af08b9d0e1023529b2f9ebde9ed46f3",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng299",
-      "company": "Stripe",
-      "title": "Integration Engineer, Professional Services",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T19:33:06.283Z",
-      "postId": "0x013773c895205d3e4a4617fcdab2d025ae2c5605",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng299",
-      "company": "Stripe",
-      "title": "Integration Engineer, Professional Services",
-      "platform": "linkedin",
-      "postedAt": "2026-09-27T19:33:06.283Z",
-      "postId": "6ab96f8436a0dcfcb3e22fa3",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng299",
-      "company": "Stripe",
-      "title": "Integration Engineer, Professional Services",
-      "platform": "linkedin",
-      "postedAt": "2026-09-27T19:33:06.283Z",
-      "postId": "6ab96f8f43493a0ede9bdd4a",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng299",
-      "company": "Stripe",
-      "title": "Integration Engineer, Professional Services",
-      "platform": "linkedin",
-      "postedAt": "2026-09-27T19:33:06.283Z",
-      "postId": "urn:li:share:7510059130410250240",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng299",
-      "company": "Stripe",
-      "title": "Integration Engineer, Professional Services",
-      "platform": "facebook",
-      "postedAt": "2026-09-27T19:33:06.283Z",
-      "postId": "691827047618629_1099885369285364",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng299",
-      "company": "Stripe",
-      "title": "Integration Engineer, Professional Services",
-      "platform": "instagram",
-      "postedAt": "2026-09-27T19:33:06.283Z",
-      "postId": "18128381233747366",
-      "verification": "verified"
-    },
-    {
-      "slug": "analyst30",
-      "company": "Nexo",
-      "title": "Senior BI Analyst",
-      "platform": "x",
-      "postedAt": "2026-09-27T22:26:54.703Z",
-      "postId": "6ab9982f36a0dcfcb3e6e720",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "Nexo is hiring Senior BI Analyst\n\nhttps://hashtagweb3.com/analyst30/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2104337013159735364"
-    },
-    {
-      "slug": "analyst30",
-      "company": "Nexo",
-      "title": "Senior BI Analyst",
-      "platform": "threads",
-      "postedAt": "2026-09-27T22:26:54.703Z",
-      "postId": "18114804590120693",
-      "verification": "verified",
-      "expectedText": "Nexo is hiring Senior BI Analyst: https://hashtagweb3.com/analyst30/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DdzrjREFZE2",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "analyst30",
-      "company": "Nexo",
-      "title": "Senior BI Analyst",
-      "platform": "bluesky",
-      "postedAt": "2026-09-27T22:26:54.703Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwjttoepum2h",
-      "verification": "verified"
-    },
-    {
-      "slug": "analyst30",
-      "company": "Nexo",
-      "title": "Senior BI Analyst",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T22:26:54.703Z",
-      "postId": "0x469fb8bef2ff78777ab4a5861de6a00432f7678b",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "analyst30",
-      "company": "Nexo",
-      "title": "Senior BI Analyst",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T22:26:54.703Z",
-      "postId": "0x201a6f8b3b388101970883a793298b942bf1d0d5",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "analyst30",
-      "company": "Nexo",
-      "title": "Senior BI Analyst",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T22:26:54.703Z",
-      "postId": "0x207b98bc93c7f50e59ce55d244b89ee143c6c842",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "analyst30",
-      "company": "Nexo",
-      "title": "Senior BI Analyst",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T22:26:54.703Z",
-      "postId": "0x9c4d8c6d39adef70547176ff20fefe5dfc9df41e",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "analyst30",
-      "company": "Nexo",
-      "title": "Senior BI Analyst",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T22:26:54.703Z",
-      "postId": "0xebff05c741593250872d501c7dd4e571c0a3dae8",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "analyst30",
-      "company": "Nexo",
-      "title": "Senior BI Analyst",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T22:26:54.703Z",
-      "postId": "0x69923fe15ab5d67e5c7bd490a5d7eb52557e5241",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "analyst30",
-      "company": "Nexo",
-      "title": "Senior BI Analyst",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T22:26:54.703Z",
-      "postId": "0x9d1b2b97430b7545e628e492f99a0363fb3ac57b",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "analyst30",
-      "company": "Nexo",
-      "title": "Senior BI Analyst",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T22:26:54.703Z",
-      "postId": "0x74164f6373b64ec889909c151c99767e7a530e76",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "analyst30",
-      "company": "Nexo",
-      "title": "Senior BI Analyst",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T22:26:54.703Z",
-      "postId": "0x0133b6ca2edeadc3a1307ccbfbd8ae1210a59b9d",
-      "account": "channel:founders",
       "verification": "verified"
     },
     {
@@ -10094,6 +9586,516 @@
       "platform": "instagram",
       "postedAt": "2026-09-29T11:32:51.605Z",
       "postId": "18137895556549487",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm126",
+      "company": "Fasset",
+      "title": "Product Manager Compliance",
+      "platform": "x",
+      "postedAt": "2026-09-29T19:47:49.505Z",
+      "postId": "6abc15e5f3db08ac9265bf09",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Fasset is hiring Product Manager Compliance\n\nhttps://hashtagweb3.com/pm126/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2105021753537765798"
+    },
+    {
+      "slug": "pm126",
+      "company": "Fasset",
+      "title": "Product Manager Compliance",
+      "platform": "threads",
+      "postedAt": "2026-09-29T19:47:49.505Z",
+      "postId": "17921151300441545",
+      "verification": "verified",
+      "expectedText": "Fasset is hiring Product Manager Compliance: https://hashtagweb3.com/pm126/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/Dd4i73Am4xW",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "pm126",
+      "company": "Fasset",
+      "title": "Product Manager Compliance",
+      "platform": "bluesky",
+      "postedAt": "2026-09-29T19:47:49.505Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwolv3zxqx2o",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm126",
+      "company": "Fasset",
+      "title": "Product Manager Compliance",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T19:47:49.505Z",
+      "postId": "0x89c7c356b4d5d64acc81e13bde1c1653eb280536",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm126",
+      "company": "Fasset",
+      "title": "Product Manager Compliance",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T19:47:49.505Z",
+      "postId": "0xc9661132b50a138c501ae489da4bfd7164db35cc",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm126",
+      "company": "Fasset",
+      "title": "Product Manager Compliance",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T19:47:49.505Z",
+      "postId": "0x94da11bc1fc1b6041d195d9a067b1138d5f9f6b3",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm126",
+      "company": "Fasset",
+      "title": "Product Manager Compliance",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T19:47:49.505Z",
+      "postId": "0x31c39fb7e061d6c2bec014f412c629e1061f73fd",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm126",
+      "company": "Fasset",
+      "title": "Product Manager Compliance",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T19:47:49.505Z",
+      "postId": "0x1d3f5310b8f32810e5294d7105fa3d3ba9edcaf7",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm126",
+      "company": "Fasset",
+      "title": "Product Manager Compliance",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T19:47:49.505Z",
+      "postId": "0xae1389f57ba0a39aaa2028a8d0cc655c4d361e83",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm126",
+      "company": "Fasset",
+      "title": "Product Manager Compliance",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T19:47:49.505Z",
+      "postId": "0x339b7b8a3623fd16b5d988461b6529c861ff358e",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm126",
+      "company": "Fasset",
+      "title": "Product Manager Compliance",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T19:47:49.505Z",
+      "postId": "0x2fc0634cd14c5a4b654606c80e2badf28e1f0ad1",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm126",
+      "company": "Fasset",
+      "title": "Product Manager Compliance",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T19:47:49.505Z",
+      "postId": "0x434956ae423d96346a322bdb7b136f8561a3f8e5",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm126",
+      "company": "Fasset",
+      "title": "Product Manager Compliance",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T19:47:49.505Z",
+      "postId": "0x183c4556668adccd3a8551a394492ddaf7ed06ee",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm126",
+      "company": "Fasset",
+      "title": "Product Manager Compliance",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T19:47:49.505Z",
+      "postId": "0x937947d8aa31136a777a8d88ddfc683119220226",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm126",
+      "company": "Fasset",
+      "title": "Product Manager Compliance",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T19:47:49.505Z",
+      "postId": "0x4308c93dd75a9ad7137cce714f38427b7ca87cc1",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm126",
+      "company": "Fasset",
+      "title": "Product Manager Compliance",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T19:47:49.505Z",
+      "postId": "0x16ca8bb82f64ff7dd14d8de3631a1ace637764ac",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm126",
+      "company": "Fasset",
+      "title": "Product Manager Compliance",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T19:47:49.505Z",
+      "postId": "0x1e08ab93ead546ae90e225e3474ade64de4021ce",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm126",
+      "company": "Fasset",
+      "title": "Product Manager Compliance",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T19:47:49.505Z",
+      "postId": "0xfc5388b4a125a16ff4cb8a31152705632e26f3dd",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm126",
+      "company": "Fasset",
+      "title": "Product Manager Compliance",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T19:47:49.505Z",
+      "postId": "0xff05dd9b955d1a92c5d198b1e6b8a53d738f871f",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm126",
+      "company": "Fasset",
+      "title": "Product Manager Compliance",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T19:47:49.505Z",
+      "postId": "0xfac3e07d71bb5a5ea069d603bd5f99334d1f9775",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm126",
+      "company": "Fasset",
+      "title": "Product Manager Compliance",
+      "platform": "linkedin",
+      "postedAt": "2026-09-29T19:47:49.505Z",
+      "postId": "6abc15fa3b1eb12e6e352b71",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm126",
+      "company": "Fasset",
+      "title": "Product Manager Compliance",
+      "platform": "linkedin",
+      "postedAt": "2026-09-29T19:47:49.505Z",
+      "postId": "6abc1605a1ba5ce146da4840",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm126",
+      "company": "Fasset",
+      "title": "Product Manager Compliance",
+      "platform": "linkedin",
+      "postedAt": "2026-09-29T19:47:49.505Z",
+      "postId": "urn:li:share:7510787623460814848",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm126",
+      "company": "Fasset",
+      "title": "Product Manager Compliance",
+      "platform": "facebook",
+      "postedAt": "2026-09-29T19:47:49.505Z",
+      "postId": "691827047618629_1101797365760831",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm126",
+      "company": "Fasset",
+      "title": "Product Manager Compliance",
+      "platform": "instagram",
+      "postedAt": "2026-09-29T19:47:49.505Z",
+      "postId": "18124018138918122",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng188",
+      "company": "Mercuryo",
+      "title": "AI Solutions Engineer",
+      "platform": "x",
+      "postedAt": "2026-09-29T19:49:02.941Z",
+      "postId": "6abc162f2b2f93f6099c977d",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Mercuryo is hiring AI Solutions Engineer\n\nhttps://hashtagweb3.com/eng188/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2105022061005398428"
+    },
+    {
+      "slug": "eng188",
+      "company": "Mercuryo",
+      "title": "AI Solutions Engineer",
+      "platform": "threads",
+      "postedAt": "2026-09-29T19:49:02.941Z",
+      "postId": "18116048233972592",
+      "verification": "verified",
+      "expectedText": "Mercuryo is hiring AI Solutions Engineer: https://hashtagweb3.com/eng188/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/Dd4jExKm7lO",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "eng188",
+      "company": "Mercuryo",
+      "title": "AI Solutions Engineer",
+      "platform": "bluesky",
+      "postedAt": "2026-09-29T19:49:02.941Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwolxaeanw2h",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng188",
+      "company": "Mercuryo",
+      "title": "AI Solutions Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T19:49:02.941Z",
+      "postId": "0xa0e664d2bfaf0760ca0052197bc62b6913590aa8",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng188",
+      "company": "Mercuryo",
+      "title": "AI Solutions Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T19:49:02.941Z",
+      "postId": "0x219b0ffcf5ae2c05578e87d8eeda5fa101eeefc5",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng188",
+      "company": "Mercuryo",
+      "title": "AI Solutions Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T19:49:02.941Z",
+      "postId": "0x3c6afb5c31953e709103cda94a3f24ad68edb10a",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng188",
+      "company": "Mercuryo",
+      "title": "AI Solutions Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T19:49:02.941Z",
+      "postId": "0x844832c1fb85ee5df608e34ae3b1aa95a747df1a",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng188",
+      "company": "Mercuryo",
+      "title": "AI Solutions Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T19:49:02.941Z",
+      "postId": "0x29d7def4e9f11a3fe432a10ce3007a6b7f02e760",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng188",
+      "company": "Mercuryo",
+      "title": "AI Solutions Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T19:49:02.941Z",
+      "postId": "0xa771dd19d955eaf0c5d333bf9d57f5846d3291c3",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng188",
+      "company": "Mercuryo",
+      "title": "AI Solutions Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T19:49:02.941Z",
+      "postId": "0xe1dfd4ddb71a268423fbf34a5f00fa832e4ea195",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng188",
+      "company": "Mercuryo",
+      "title": "AI Solutions Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T19:49:02.941Z",
+      "postId": "0x4e74ade913f384a789a7fe3bd3cc95f4f049649b",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng188",
+      "company": "Mercuryo",
+      "title": "AI Solutions Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T19:49:02.941Z",
+      "postId": "0x0e4a4001c25bb86846552fd6843b08b53ec7e589",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng188",
+      "company": "Mercuryo",
+      "title": "AI Solutions Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T19:49:02.941Z",
+      "postId": "0x8adc01c72300cfdb8debf69d8f85e4e0eb852d40",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng188",
+      "company": "Mercuryo",
+      "title": "AI Solutions Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T19:49:02.941Z",
+      "postId": "0xa4ebf90b8278bd92561bbd742d0aeb42b6b14667",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng188",
+      "company": "Mercuryo",
+      "title": "AI Solutions Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T19:49:02.941Z",
+      "postId": "0xdd1dff4b4ad233403d54b2dd8708fd0c4896cc7e",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng188",
+      "company": "Mercuryo",
+      "title": "AI Solutions Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T19:49:02.941Z",
+      "postId": "0x1368e23eb2ea984b0bb1e4b23aebfcfec0386956",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng188",
+      "company": "Mercuryo",
+      "title": "AI Solutions Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T19:49:02.941Z",
+      "postId": "0x30af6dfbc5f72a340b0f9c95b18ab03afc41da38",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng188",
+      "company": "Mercuryo",
+      "title": "AI Solutions Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T19:49:02.941Z",
+      "postId": "0x781e175bccc56be36ca63f54a6c5ff0b60d71f7c",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng188",
+      "company": "Mercuryo",
+      "title": "AI Solutions Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T19:49:02.941Z",
+      "postId": "0x6b510242cd307cce57dd596cc6be0805165b63bb",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng188",
+      "company": "Mercuryo",
+      "title": "AI Solutions Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T19:49:02.941Z",
+      "postId": "0x0741ed178514f7e011a24f906b0efc84c740dc31",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng188",
+      "company": "Mercuryo",
+      "title": "AI Solutions Engineer",
+      "platform": "linkedin",
+      "postedAt": "2026-09-29T19:49:02.941Z",
+      "postId": "6abc1642a1ba5ce146da4e29",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng188",
+      "company": "Mercuryo",
+      "title": "AI Solutions Engineer",
+      "platform": "linkedin",
+      "postedAt": "2026-09-29T19:49:02.941Z",
+      "postId": "6abc164cd3050be9e37354f3",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng188",
+      "company": "Mercuryo",
+      "title": "AI Solutions Engineer",
+      "platform": "linkedin",
+      "postedAt": "2026-09-29T19:49:02.941Z",
+      "postId": "urn:li:share:7510787921088565250",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng188",
+      "company": "Mercuryo",
+      "title": "AI Solutions Engineer",
+      "platform": "facebook",
+      "postedAt": "2026-09-29T19:49:02.941Z",
+      "postId": "691827047618629_1101798209094080",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng188",
+      "company": "Mercuryo",
+      "title": "AI Solutions Engineer",
+      "platform": "instagram",
+      "postedAt": "2026-09-29T19:49:02.941Z",
+      "postId": "18635978137015182",
       "verification": "verified"
     }
   ]
