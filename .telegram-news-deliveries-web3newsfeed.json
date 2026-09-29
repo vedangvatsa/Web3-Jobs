@@ -225,5 +225,38 @@
     ],
     "messageId": 65713,
     "sentAt": "2026-09-29T11:36:48.867Z"
+  },
+  "9db88feb-52f8-453b-9fc4-25976c5f739b": {
+    "status": "reserved",
+    "reservedAt": "2026-09-29T19:50:35.815Z",
+    "stories": [
+      {
+        "index": 1,
+        "headline": "Cboe and S&P Dow Jones explore tokenized options contracts",
+        "summary": "The firms are discussing a licensing deal to bring traditional financial derivatives onto blockchain infrastructure for institutional trading.",
+        "event_rationale": "This covers a new institutional partnership for onchain financial products, distinct from existing tokenization or exchange news.",
+        "link": "https://www.theblock.co/news/markets/2026-09-29-cryptoquant-says-bitcoin-correction-could-near-traders-unrealized-profit-21-month-high-417206",
+        "source": "The Block",
+        "originalTitle": "CryptoQuant says bitcoin correction could be near as traders’ unrealized profit hits 21-month high"
+      },
+      {
+        "index": 2,
+        "headline": "Ethereum schedules Glamsterdam upgrade for Sepolia testnet",
+        "summary": "The upcoming network update introduces proposer-builder separation and new gas pricing mechanisms to improve block-level efficiency.",
+        "event_rationale": "This is a specific protocol-level technical upgrade for Ethereum, distinct from general market commentary or governance news.",
+        "link": "https://decrypt.co/379584/openai-ai-agents-computers-devday-2026-everything-announced",
+        "source": "Decrypt",
+        "originalTitle": "OpenAI Gave AI Agents Their Own Computers at DevDay 2026. Here's Everything It Announced"
+      },
+      {
+        "index": 5,
+        "headline": "Congressman Comer Investigates Crypto Platforms Over Trading Practices",
+        "summary": "Representative Comer is requesting records regarding employee trades and suspicious activity from three crypto-related platforms.",
+        "link": "https://www.theblock.co/news/regulation/2026-09-29-comer-presses-crypto-com-hyperliquid-predictit-identity-checks-suspicious-trades-417192",
+        "source": "The Block",
+        "originalTitle": "Comer presses Crypto.com, Hyperliquid and PredictIt on identity checks and suspicious trades"
+      }
+    ],
+    "slotKey": "2026-09-29:evening"
   }
 }
