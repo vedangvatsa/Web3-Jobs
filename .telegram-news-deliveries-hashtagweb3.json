@@ -161,5 +161,36 @@
     ],
     "messageId": 155500,
     "sentAt": "2026-09-29T00:04:56.779Z"
+  },
+  "06d05225-f661-49a3-ab4b-8d081cf03780": {
+    "status": "reserved",
+    "reservedAt": "2026-09-29T04:18:41.946Z",
+    "stories": [
+      {
+        "index": 1,
+        "headline": "Coinbase receives US commodities regulator approval for derivatives clearinghouse",
+        "summary": "The exchange secured authorization to operate its own clearinghouse for crypto derivatives, expanding its domestic infrastructure capabilities.",
+        "event_rationale": "This covers a major regulatory milestone for a public exchange's infrastructure, distinct from other exchange or regulatory news.",
+        "link": "https://cointelegraph.com/news/coinbase-gets-cftc-approval-for-us-derivatives-clearinghouse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph",
+        "originalTitle": "Coinbase gets CFTC approval for US derivatives clearinghouse"
+      },
+      {
+        "index": 2,
+        "headline": "Nvidia releases platform to monitor autonomous AI agents",
+        "summary": "This tool aims to prevent AI systems from escaping controlled environments following recent security incidents.",
+        "link": "https://cointelegraph.com/news/nvidia-unveils-ai-safety-platform-to-rein-in-rogue-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph",
+        "originalTitle": "Nvidia unveils AI safety platform to rein in ‘rogue’ AI agents"
+      },
+      {
+        "index": 6,
+        "headline": "Vitalik Buterin Proposes Future Ethereum Technical Roadmap",
+        "summary": "Future Ethereum updates will focus on recursive STARKs and formal verification to improve network security and functionality.",
+        "link": "https://decrypt.co/379461/vitalik-buterin-outlines-cryptographic-world-computer-plan-for-ethereum",
+        "source": "Decrypt",
+        "originalTitle": "Vitalik Buterin Outlines 'Cryptographic World Computer' Plan for Ethereum"
+      }
+    ]
   }
 }

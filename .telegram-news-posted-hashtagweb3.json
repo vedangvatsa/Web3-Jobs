@@ -623,6 +623,9 @@
   "https://decrypt.co/379505/rsa-attack-without-stealing-key-what-it-means-crypto",
   "https://cointelegraph.com/news/canada-aiden-pleterski-fraud-trial-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "https://decrypt.co/379465/strive-buys-94-5-million-in-bitcoin-pushing-holdings-past-27000-btc",
+  "https://cointelegraph.com/news/coinbase-gets-cftc-approval-for-us-derivatives-clearinghouse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "https://cointelegraph.com/news/nvidia-unveils-ai-safety-platform-to-rein-in-rogue-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "https://decrypt.co/379461/vitalik-buterin-outlines-cryptographic-world-computer-plan-for-ethereum",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -1777,6 +1780,12 @@
   "Canadian ‘crypto king’ set to represent himself at fraud trial",
   "Strive Increases Bitcoin Holdings to 27,462 BTC",
   "Strive Buys $94.5 Million in Bitcoin, Pushing Holdings Past 27,000 BTC",
+  "Coinbase receives US commodities regulator approval for derivatives clearinghouse",
+  "Coinbase gets CFTC approval for US derivatives clearinghouse",
+  "Nvidia releases platform to monitor autonomous AI agents",
+  "Nvidia unveils AI safety platform to rein in ‘rogue’ AI agents",
+  "Vitalik Buterin Proposes Future Ethereum Technical Roadmap",
+  "Vitalik Buterin Outlines 'Cryptographic World Computer' Plan for Ethereum",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -1950,5 +1959,8 @@
   "fp:are|build|business|citi|client|coinbas|connect|corporat|currency|expand",
   "fp:attack|blockchain|clever|com|debut|firm|fool|hardwar|her|initial",
   "fp:bybit|can|canadian|collateral|credit|exchang|franklin|fraud|fund|himself",
-  "fp:000|107|462|945m|btc|buy|capital|increas|past27|preferr"
+  "fp:000|107|462|945m|btc|buy|capital|increas|past27|preferr",
+  "fp:approval|authorization|capability|cftc|clearinghous|coinbas|commodity|derivativ|domestic|exchang",
+  "fp:agent|aim|autonomous|controll|environment|escap|follow|incident|monitor|nvidia",
+  "fp:buterin|computer|cryptographic|focus|formal|functionality|futur|improv|network|outlin"
 ]
