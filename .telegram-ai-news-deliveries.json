@@ -70,7 +70,7 @@
     "sentAt": "2026-09-28T18:53:29.315Z"
   },
   "da64da6f-e413-4aa3-b1ee-3c21e88c186e": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-09-29T00:05:22.438Z",
     "stories": [
       {
@@ -103,6 +103,8 @@
         "source": "Ars Technica",
         "originalTitle": "Trump admin using AI to deny medical care for seniors in disastrous experiment"
       }
-    ]
+    ],
+    "messageId": 193301,
+    "sentAt": "2026-09-29T00:05:24.970Z"
   }
 }
