@@ -1,5 +1,5 @@
 {
-  "lastIndex": 299,
+  "lastIndex": 302,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -116,7 +116,8 @@
     "sec45",
     "cm2",
     "mgr63",
-    "cmp57"
+    "cmp57",
+    "sls162"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -160,7 +161,8 @@
     "sls64",
     "pm50",
     "cmp38",
-    "pm82"
+    "pm82",
+    "sec57"
   ],
   "history": [
     {
@@ -4630,506 +4632,6 @@
       "platform": "instagram",
       "postedAt": "2026-09-25T03:51:22.563Z",
       "postId": "18449861734120522",
-      "verification": "verified"
-    },
-    {
-      "slug": "cess",
-      "company": "Kraken",
-      "title": "Client Engagement Specialist, Social",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T15:46:30.218Z",
-      "postId": "0x1d047a82e630ca77dcba583609e59cfe1074fb0b",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "cess",
-      "company": "Kraken",
-      "title": "Client Engagement Specialist, Social",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T15:46:30.218Z",
-      "postId": "0x189c9a5a2e1e9a076c8693a36f547828beee1ae0",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "cess",
-      "company": "Kraken",
-      "title": "Client Engagement Specialist, Social",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T15:46:30.218Z",
-      "postId": "0x0c82d91eed854e8db9d1392808ebad92f8ba75b3",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "cess",
-      "company": "Kraken",
-      "title": "Client Engagement Specialist, Social",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T15:46:30.218Z",
-      "postId": "0x18bb90dffb6ab89603992b8b2c1925d5ecaf529b",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "cess",
-      "company": "Kraken",
-      "title": "Client Engagement Specialist, Social",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T15:46:30.218Z",
-      "postId": "0xc275594fbc800224386cf9a2264c3bde47e1808c",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "cess",
-      "company": "Kraken",
-      "title": "Client Engagement Specialist, Social",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T15:46:30.218Z",
-      "postId": "0x6fd2971c4cd8380d89097896769d53685a3a5a42",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "cess",
-      "company": "Kraken",
-      "title": "Client Engagement Specialist, Social",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T15:46:30.218Z",
-      "postId": "0xaa081c10e16f4bb30e513ba418a01c1aae3c13f2",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "cess",
-      "company": "Kraken",
-      "title": "Client Engagement Specialist, Social",
-      "platform": "linkedin",
-      "postedAt": "2026-09-27T15:46:30.218Z",
-      "postId": "6ab93a671bf030e330ad1b95",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "cess",
-      "company": "Kraken",
-      "title": "Client Engagement Specialist, Social",
-      "platform": "linkedin",
-      "postedAt": "2026-09-27T15:46:30.218Z",
-      "postId": "6ab93a7170ec211d1d1db919",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "cess",
-      "company": "Kraken",
-      "title": "Client Engagement Specialist, Social",
-      "platform": "linkedin",
-      "postedAt": "2026-09-27T15:46:30.218Z",
-      "postId": "urn:li:share:7510002098118270976",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "cess",
-      "company": "Kraken",
-      "title": "Client Engagement Specialist, Social",
-      "platform": "facebook",
-      "postedAt": "2026-09-27T15:46:30.218Z",
-      "postId": "691827047618629_1099717979302103",
-      "verification": "verified"
-    },
-    {
-      "slug": "cess",
-      "company": "Kraken",
-      "title": "Client Engagement Specialist, Social",
-      "platform": "instagram",
-      "postedAt": "2026-09-27T15:46:30.218Z",
-      "postId": "17914905570459735",
-      "verification": "verified"
-    },
-    {
-      "slug": "infra22",
-      "company": "Braiins",
-      "title": "Infrastructure Engineer",
-      "platform": "x",
-      "postedAt": "2026-09-27T15:47:29.249Z",
-      "postId": "6ab93a9170ec211d1d1dc107",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "Braiins is hiring Infrastructure Engineer\n\nhttps://hashtagweb3.com/infra22/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2104236493858324629"
-    },
-    {
-      "slug": "infra22",
-      "company": "Braiins",
-      "title": "Infrastructure Engineer",
-      "platform": "threads",
-      "postedAt": "2026-09-27T15:47:29.249Z",
-      "postId": "17973704211130962",
-      "verification": "verified",
-      "expectedText": "Braiins is hiring Infrastructure Engineer: https://hashtagweb3.com/infra22/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/Ddy91u3m-w1",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "infra22",
-      "company": "Braiins",
-      "title": "Infrastructure Engineer",
-      "platform": "bluesky",
-      "postedAt": "2026-09-27T15:47:29.249Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwj5jfiw3i2h",
-      "verification": "verified"
-    },
-    {
-      "slug": "infra22",
-      "company": "Braiins",
-      "title": "Infrastructure Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T15:47:29.249Z",
-      "postId": "0xa62b28b764bc1ff5a404997c1f56b89af51d8c2c",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "infra22",
-      "company": "Braiins",
-      "title": "Infrastructure Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T15:47:29.249Z",
-      "postId": "0x5056a2698bc306855cfd326120a497f82512bd5d",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "infra22",
-      "company": "Braiins",
-      "title": "Infrastructure Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T15:47:29.249Z",
-      "postId": "0x0cf9a42fedb052305c95714de220a622ef19f6c2",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "infra22",
-      "company": "Braiins",
-      "title": "Infrastructure Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T15:47:29.249Z",
-      "postId": "0xc4bc93a803dc864fe64433a8de3bb01b2ed6418b",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "infra22",
-      "company": "Braiins",
-      "title": "Infrastructure Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T15:47:29.249Z",
-      "postId": "0x0097885351a687d560f5063a4d7b7e4b9132a0a6",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "infra22",
-      "company": "Braiins",
-      "title": "Infrastructure Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T15:47:29.249Z",
-      "postId": "0x582bda5f281391f450815d6ee0c45d005eaefe9e",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "infra22",
-      "company": "Braiins",
-      "title": "Infrastructure Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T15:47:29.249Z",
-      "postId": "0xbc21d70821ffc1210b4266e7b52ba8b7b6a64cba",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "infra22",
-      "company": "Braiins",
-      "title": "Infrastructure Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T15:47:29.249Z",
-      "postId": "0x9a1f228e9e2bce696774ea449d7174487e88d59b",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "infra22",
-      "company": "Braiins",
-      "title": "Infrastructure Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T15:47:29.249Z",
-      "postId": "0x5786f78738b5c17c6c2b55ee3aef5c629fb7f0dc",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "infra22",
-      "company": "Braiins",
-      "title": "Infrastructure Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T15:47:29.249Z",
-      "postId": "0x956d62311aa20fe1b3e94a5a8736cb5011bfc33b",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "infra22",
-      "company": "Braiins",
-      "title": "Infrastructure Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T15:47:29.249Z",
-      "postId": "0xa355b737a4d22456ac215533cec834d639bc4173",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "infra22",
-      "company": "Braiins",
-      "title": "Infrastructure Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T15:47:29.249Z",
-      "postId": "0x6a1f43f39e9bc05777f94e752a468aac9fd78743",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "infra22",
-      "company": "Braiins",
-      "title": "Infrastructure Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T15:47:29.249Z",
-      "postId": "0x9edab684a08e1b9a3b79c541e7112bd59f6868bf",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "infra22",
-      "company": "Braiins",
-      "title": "Infrastructure Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T15:47:29.249Z",
-      "postId": "0x8edba4b8ce0f6187e0698bf9263479079e251d3b",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "infra22",
-      "company": "Braiins",
-      "title": "Infrastructure Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T15:47:29.249Z",
-      "postId": "0xe743d900174b9e04ba4bc1c7e4a07729596f9504",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "infra22",
-      "company": "Braiins",
-      "title": "Infrastructure Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T15:47:29.249Z",
-      "postId": "0x0d76c3e0a6f971ade7fd88a9c921890e318187c7",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "infra22",
-      "company": "Braiins",
-      "title": "Infrastructure Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T15:47:29.249Z",
-      "postId": "0x553b496d07a9280aad9a30246c656981ca154fbe",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "infra22",
-      "company": "Braiins",
-      "title": "Infrastructure Engineer",
-      "platform": "linkedin",
-      "postedAt": "2026-09-27T15:47:29.249Z",
-      "postId": "6ab93aa054f1e60c7e711464",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "infra22",
-      "company": "Braiins",
-      "title": "Infrastructure Engineer",
-      "platform": "linkedin",
-      "postedAt": "2026-09-27T15:47:29.249Z",
-      "postId": "6ab93aab54f1e60c7e7115e0",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "infra22",
-      "company": "Braiins",
-      "title": "Infrastructure Engineer",
-      "platform": "linkedin",
-      "postedAt": "2026-09-27T15:47:29.249Z",
-      "postId": "urn:li:share:7510002339035111424",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "infra22",
-      "company": "Braiins",
-      "title": "Infrastructure Engineer",
-      "platform": "facebook",
-      "postedAt": "2026-09-27T15:47:29.249Z",
-      "postId": "691827047618629_1099718755968692",
-      "verification": "verified"
-    },
-    {
-      "slug": "infra22",
-      "company": "Braiins",
-      "title": "Infrastructure Engineer",
-      "platform": "instagram",
-      "postedAt": "2026-09-27T15:47:29.249Z",
-      "postId": "18105916463208328",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp51",
-      "company": "GSR Markets",
-      "title": "Vice President - Legal",
-      "platform": "x",
-      "postedAt": "2026-09-27T19:32:03.161Z",
-      "postId": "6ab96f3336a0dcfcb3e22b11",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "GSR Markets is hiring Vice President - Legal\n\nhttps://hashtagweb3.com/cmp51/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2104293008401203547"
-    },
-    {
-      "slug": "cmp51",
-      "company": "GSR Markets",
-      "title": "Vice President - Legal",
-      "platform": "threads",
-      "postedAt": "2026-09-27T19:32:03.161Z",
-      "postId": "18135736453735985",
-      "verification": "verified",
-      "expectedText": "GSR Markets is hiring Vice President - Legal: https://hashtagweb3.com/cmp51/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DdzXilVj4G0",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "cmp51",
-      "company": "GSR Markets",
-      "title": "Vice President - Legal",
-      "platform": "bluesky",
-      "postedAt": "2026-09-27T19:32:03.161Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwjk2ympo424",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp51",
-      "company": "GSR Markets",
-      "title": "Vice President - Legal",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T19:32:03.161Z",
-      "postId": "0x36a25b9f1ae7a4b06b9f5e535d93676c4057faa1",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp51",
-      "company": "GSR Markets",
-      "title": "Vice President - Legal",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T19:32:03.161Z",
-      "postId": "0xa49dcaf2ecfd6571cf8764acbbdb8b6b50336bd5",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp51",
-      "company": "GSR Markets",
-      "title": "Vice President - Legal",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T19:32:03.161Z",
-      "postId": "0xea16b4b89c46b1b0ed3a43189336ad63be7be379",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp51",
-      "company": "GSR Markets",
-      "title": "Vice President - Legal",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T19:32:03.161Z",
-      "postId": "0x6351601bd24e93b3879ad26146976f8da6737590",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp51",
-      "company": "GSR Markets",
-      "title": "Vice President - Legal",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T19:32:03.161Z",
-      "postId": "0x756ac3cb78483613ac5f4be484c63084997c629d",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp51",
-      "company": "GSR Markets",
-      "title": "Vice President - Legal",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T19:32:03.161Z",
-      "postId": "0x0f2388420dd156ee228860961a57f9e5250a8e78",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp51",
-      "company": "GSR Markets",
-      "title": "Vice President - Legal",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T19:32:03.161Z",
-      "postId": "0x993f2f92a3acb39a4e397106693ff71c8af0a396",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp51",
-      "company": "GSR Markets",
-      "title": "Vice President - Legal",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T19:32:03.161Z",
-      "postId": "0x9aec9e7773653eb5564afffa89d1615b59e3ad0b",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp51",
-      "company": "GSR Markets",
-      "title": "Vice President - Legal",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T19:32:03.161Z",
-      "postId": "0x249bdc43a0e61c2e9109fff1d53a5544ae3d5a90",
-      "account": "channel:founders",
       "verification": "verified"
     },
     {
@@ -10094,6 +9596,504 @@
       "platform": "instagram",
       "postedAt": "2026-09-29T10:01:58.565Z",
       "postId": "18177483637445271",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls162",
+      "company": "The Tie",
+      "title": "Director of Sales (Remote)",
+      "platform": "x",
+      "postedAt": "2026-09-29T11:31:46.686Z",
+      "postId": "6abba1a338ec49fa794501ce",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "The Tie is hiring Director of Sales (Remote)\n\nhttps://hashtagweb3.com/sls162/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2104896919331856760"
+    },
+    {
+      "slug": "sls162",
+      "company": "The Tie",
+      "title": "Director of Sales (Remote)",
+      "platform": "threads",
+      "postedAt": "2026-09-29T11:31:46.686Z",
+      "postId": "17977186706924349",
+      "verification": "verified",
+      "expectedText": "The Tie is hiring Director of Sales (Remote): https://hashtagweb3.com/sls162/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/Dd3qKt9oF8I",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "sls162",
+      "company": "The Tie",
+      "title": "Director of Sales (Remote)",
+      "platform": "bluesky",
+      "postedAt": "2026-09-29T11:31:46.686Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwnq633sbc26",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls162",
+      "company": "The Tie",
+      "title": "Director of Sales (Remote)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T11:31:46.686Z",
+      "postId": "0x863b5fecb7c7a7b766233f6fe3aa3a77615ab915",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls162",
+      "company": "The Tie",
+      "title": "Director of Sales (Remote)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T11:31:46.686Z",
+      "postId": "0xec55ba95883e64be2f81d9d1faaa2783e642828f",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls162",
+      "company": "The Tie",
+      "title": "Director of Sales (Remote)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T11:31:46.686Z",
+      "postId": "0x5b47a7580fb7917a09b5b228a7becbf2dab4c4aa",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls162",
+      "company": "The Tie",
+      "title": "Director of Sales (Remote)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T11:31:46.686Z",
+      "postId": "0xecf3d0c122a642592f27dda426f171f683c8d406",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls162",
+      "company": "The Tie",
+      "title": "Director of Sales (Remote)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T11:31:46.686Z",
+      "postId": "0xf2310db560f3d2f0dc87a7720703c767282ce9e2",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls162",
+      "company": "The Tie",
+      "title": "Director of Sales (Remote)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T11:31:46.686Z",
+      "postId": "0xa1954792b328c9041ff331596769b0e8362998fb",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls162",
+      "company": "The Tie",
+      "title": "Director of Sales (Remote)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T11:31:46.686Z",
+      "postId": "0x8f5dfd19bd3a976a3a9b53636fcc2a8d0a658eba",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls162",
+      "company": "The Tie",
+      "title": "Director of Sales (Remote)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T11:31:46.686Z",
+      "postId": "0xb8c5ad8632c2d1e4275a309271b657e9778eda9c",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls162",
+      "company": "The Tie",
+      "title": "Director of Sales (Remote)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T11:31:46.686Z",
+      "postId": "0x7e1bff6f384259d7bdb101b7f39abbc501c4821b",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls162",
+      "company": "The Tie",
+      "title": "Director of Sales (Remote)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T11:31:46.686Z",
+      "postId": "0xd52bd969888ccbb9177604e32d91a511142b3108",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls162",
+      "company": "The Tie",
+      "title": "Director of Sales (Remote)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T11:31:46.686Z",
+      "postId": "0x88353cb9ff73d22ef78ddb352c9c726a45bbdf63",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls162",
+      "company": "The Tie",
+      "title": "Director of Sales (Remote)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T11:31:46.686Z",
+      "postId": "0x569e6e6748608d420a06ef3533bb06d383cb87b0",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls162",
+      "company": "The Tie",
+      "title": "Director of Sales (Remote)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T11:31:46.686Z",
+      "postId": "0x58a3f8bf8daea2b503618b5f13e10910955f479e",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls162",
+      "company": "The Tie",
+      "title": "Director of Sales (Remote)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T11:31:46.686Z",
+      "postId": "0x8c9e7ea3a937cc4dc6f29ea8e89dac49577816cf",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls162",
+      "company": "The Tie",
+      "title": "Director of Sales (Remote)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T11:31:46.686Z",
+      "postId": "0x2aed12a552204c02d96629a2cbc5d9943dcafee2",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls162",
+      "company": "The Tie",
+      "title": "Director of Sales (Remote)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T11:31:46.686Z",
+      "postId": "0xdf2d918403649af1d17887343e62ed68b05e1af0",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls162",
+      "company": "The Tie",
+      "title": "Director of Sales (Remote)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T11:31:46.686Z",
+      "postId": "0x0d99d3487ceef8c2c36affca4a64116757da453d",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls162",
+      "company": "The Tie",
+      "title": "Director of Sales (Remote)",
+      "platform": "linkedin",
+      "postedAt": "2026-09-29T11:31:46.686Z",
+      "postId": "6abba1b638ec49fa7945045d",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls162",
+      "company": "The Tie",
+      "title": "Director of Sales (Remote)",
+      "platform": "linkedin",
+      "postedAt": "2026-09-29T11:31:46.686Z",
+      "postId": "6abba1c10e3b9bda5ff8d51e",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls162",
+      "company": "The Tie",
+      "title": "Director of Sales (Remote)",
+      "platform": "linkedin",
+      "postedAt": "2026-09-29T11:31:46.686Z",
+      "postId": "urn:li:share:7510662781734494209",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls162",
+      "company": "The Tie",
+      "title": "Director of Sales (Remote)",
+      "platform": "facebook",
+      "postedAt": "2026-09-29T11:31:46.686Z",
+      "postId": "691827047618629_1101418035798764",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls162",
+      "company": "The Tie",
+      "title": "Director of Sales (Remote)",
+      "platform": "instagram",
+      "postedAt": "2026-09-29T11:31:46.686Z",
+      "postId": "18117783128286801",
+      "verification": "verified"
+    },
+    {
+      "slug": "sec57",
+      "company": "Circle",
+      "title": "Lead Analyst, Third Party Security",
+      "platform": "x",
+      "postedAt": "2026-09-29T11:32:51.605Z",
+      "postId": "6abba1e30e3b9bda5ff8d7be",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Circle is hiring Lead Analyst, Third Party Security\n\nhttps://hashtagweb3.com/sec57/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2104897190816543179"
+    },
+    {
+      "slug": "sec57",
+      "company": "Circle",
+      "title": "Lead Analyst, Third Party Security",
+      "platform": "bluesky",
+      "postedAt": "2026-09-29T11:32:51.605Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwnq7vlwdi2i",
+      "verification": "verified"
+    },
+    {
+      "slug": "sec57",
+      "company": "Circle",
+      "title": "Lead Analyst, Third Party Security",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T11:32:51.605Z",
+      "postId": "0x6fd83be085a38fa6a37b13abe18e66847865c251",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "sec57",
+      "company": "Circle",
+      "title": "Lead Analyst, Third Party Security",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T11:32:51.605Z",
+      "postId": "0x6656a7b56a61730ee9951a11acfe04194bb9c223",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "sec57",
+      "company": "Circle",
+      "title": "Lead Analyst, Third Party Security",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T11:32:51.605Z",
+      "postId": "0xa8cdda603fabab9022251b7846ad600cf8b8794c",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "sec57",
+      "company": "Circle",
+      "title": "Lead Analyst, Third Party Security",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T11:32:51.605Z",
+      "postId": "0x75c3a72f35ea1af942cbf297a77808bb18a06f4e",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "sec57",
+      "company": "Circle",
+      "title": "Lead Analyst, Third Party Security",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T11:32:51.605Z",
+      "postId": "0x591f4379807f712c61b1b06c3e85344209fefdab",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "sec57",
+      "company": "Circle",
+      "title": "Lead Analyst, Third Party Security",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T11:32:51.605Z",
+      "postId": "0x1c9bf0eb20d9cbc088d2611c4eb338fc7a0fe9bf",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "sec57",
+      "company": "Circle",
+      "title": "Lead Analyst, Third Party Security",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T11:32:51.605Z",
+      "postId": "0x955dcb9a1e59180e2e3e7b8f17ea7708f5061533",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "sec57",
+      "company": "Circle",
+      "title": "Lead Analyst, Third Party Security",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T11:32:51.605Z",
+      "postId": "0xaa6337fc5a2457d86e80334235931f2912d30fa5",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "sec57",
+      "company": "Circle",
+      "title": "Lead Analyst, Third Party Security",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T11:32:51.605Z",
+      "postId": "0x730897902b335fff336f5d317e847929b7e959d8",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "sec57",
+      "company": "Circle",
+      "title": "Lead Analyst, Third Party Security",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T11:32:51.605Z",
+      "postId": "0x4018d6434f245c63d41ee8423091b5e57cc25578",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "sec57",
+      "company": "Circle",
+      "title": "Lead Analyst, Third Party Security",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T11:32:51.605Z",
+      "postId": "0x3036a3feb377cdfddcc73d5351cb4fff33d1443a",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "sec57",
+      "company": "Circle",
+      "title": "Lead Analyst, Third Party Security",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T11:32:51.605Z",
+      "postId": "0x25be32a69946ace83daec79e748785b82832440d",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "sec57",
+      "company": "Circle",
+      "title": "Lead Analyst, Third Party Security",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T11:32:51.605Z",
+      "postId": "0x56d638b7e40477f20524759001a344641f790a9c",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "sec57",
+      "company": "Circle",
+      "title": "Lead Analyst, Third Party Security",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T11:32:51.605Z",
+      "postId": "0xcb1c25f8d291c7382e0b2ea734f5003a25d445f4",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "sec57",
+      "company": "Circle",
+      "title": "Lead Analyst, Third Party Security",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T11:32:51.605Z",
+      "postId": "0xb76f54b75bd80a75605f0afdaa0065b67aae4b49",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "sec57",
+      "company": "Circle",
+      "title": "Lead Analyst, Third Party Security",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T11:32:51.605Z",
+      "postId": "0x31c80e32c20bbc285edb2b5ae3cf3b979b93db89",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "sec57",
+      "company": "Circle",
+      "title": "Lead Analyst, Third Party Security",
+      "platform": "farcaster",
+      "postedAt": "2026-09-29T11:32:51.605Z",
+      "postId": "0x07ce4e2b4fa98bcc9251f8127538803157c55f0f",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "sec57",
+      "company": "Circle",
+      "title": "Lead Analyst, Third Party Security",
+      "platform": "linkedin",
+      "postedAt": "2026-09-29T11:32:51.605Z",
+      "postId": "6abba1f346f083f6cb633655",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "sec57",
+      "company": "Circle",
+      "title": "Lead Analyst, Third Party Security",
+      "platform": "linkedin",
+      "postedAt": "2026-09-29T11:32:51.605Z",
+      "postId": "6abba1fe0e3b9bda5ff8dbf3",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "sec57",
+      "company": "Circle",
+      "title": "Lead Analyst, Third Party Security",
+      "platform": "linkedin",
+      "postedAt": "2026-09-29T11:32:51.605Z",
+      "postId": "urn:li:share:7510663037327077376",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "sec57",
+      "company": "Circle",
+      "title": "Lead Analyst, Third Party Security",
+      "platform": "facebook",
+      "postedAt": "2026-09-29T11:32:51.605Z",
+      "postId": "691827047618629_1101419405798627",
+      "verification": "verified"
+    },
+    {
+      "slug": "sec57",
+      "company": "Circle",
+      "title": "Lead Analyst, Third Party Security",
+      "platform": "instagram",
+      "postedAt": "2026-09-29T11:32:51.605Z",
+      "postId": "18137895556549487",
       "verification": "verified"
     }
   ]
