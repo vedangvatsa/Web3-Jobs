@@ -68,5 +68,41 @@
     ],
     "messageId": 193300,
     "sentAt": "2026-09-28T18:53:29.315Z"
+  },
+  "da64da6f-e413-4aa3-b1ee-3c21e88c186e": {
+    "status": "reserved",
+    "reservedAt": "2026-09-29T00:05:22.438Z",
+    "stories": [
+      {
+        "index": 3,
+        "original_title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+        "headline": "Modal Labs nears $750 million funding at $15.75 billion valuation",
+        "summary": "The infrastructure startup is set to triple its valuation through a new financing round for AI compute services.",
+        "event_rationale": "This covers a major capital infusion into AI infrastructure, distinct from model releases or regulatory actions.",
+        "link": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+        "source": "TechCrunch",
+        "originalTitle": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation"
+      },
+      {
+        "index": 5,
+        "original_title": "TechCrunch: AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
+        "headline": "AMD acquires World Labs for $8.2 billion",
+        "summary": "The semiconductor company is purchasing the spatial intelligence startup to integrate advanced research and leadership into its operations.",
+        "event_rationale": "This is a significant industry consolidation event involving a major hardware provider and a prominent AI research entity.",
+        "link": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
+        "source": "TechCrunch",
+        "originalTitle": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion"
+      },
+      {
+        "index": 15,
+        "original_title": "Ars Technica: Trump admin using AI to deny medical care for seniors in disastrous experiment",
+        "headline": "US administration implements AI for medical claim denials",
+        "summary": "Federal agencies are deploying automated systems to process and reject healthcare claims for elderly patients.",
+        "event_rationale": "This reports on a specific government deployment of AI in public policy that directly impacts healthcare access.",
+        "link": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/",
+        "source": "Ars Technica",
+        "originalTitle": "Trump admin using AI to deny medical care for seniors in disastrous experiment"
+      }
+    ]
   }
 }
