@@ -14008,5 +14008,2246 @@
         }
       ]
     }
+  },
+  {
+    "id": "token2049-evt-trBbAUzB4OvqPN8",
+    "name": "NGC @ Token2049",
+    "description": "NGC @ Token2049 is scheduled for 6 October 2026 at 12:00 (Asia/Singapore) in Singapore. Hosted by NGC Ventures.\n\nWe would like to host you for a short lunch the day before the main event starts.\n\nRegistration requires host approval. Registration is listed as free.",
+    "startDate": "2026-10-06T04:00:00.000Z",
+    "location": "Alleybar, 2 Emerald Hill Rd, Peranakan Place, Singapore 229287",
+    "url": "https://luma.com/td9ox5lk",
+    "registrationUrl": "https://luma.com/td9ox5lk",
+    "coverImage": "/events/token2049-evt-trbbauzb4ovqpn8-68b26f19.webp",
+    "endDate": "2026-10-06T07:00:00.000Z",
+    "timezone": "Asia/Singapore",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": false,
+    "city": "Singapore",
+    "country": "Singapore",
+    "venueName": "Alleybar",
+    "streetAddress": "2 Emerald Hill Rd, Peranakan Place, Singapore",
+    "addressLocality": "Singapore",
+    "addressCountry": "SG",
+    "neighborhood": "Central Area",
+    "coordinates": {
+      "latitude": 1.3015903,
+      "longitude": 103.8392131
+    },
+    "hosts": [
+      "NGC Ventures"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "Standard",
+        "url": "https://luma.com/td9ox5lk",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/td9ox5lk",
+      "eventId": "evt-trBbAUzB4OvqPN8",
+      "fetchedAt": "2026-09-29T19:48:01.219Z",
+      "method": "luma-api"
+    },
+    "slug": "ngc-token2049",
+    "source": "token2049-verified",
+    "sideEventFor": [
+      "token2049"
+    ],
+    "token2049SideEvent": true,
+    "descriptionSource": {
+      "url": "https://luma.com/td9ox5lk",
+      "fetchedAt": "2026-09-29T19:48:01.219Z",
+      "method": "matched-organizer-record",
+      "pageTitle": "NGC @ Token2049",
+      "sha256": "ff723dcc96104f38cd2fdd39982133d268f6c9c73ff76d00a127f6c2a4117d26",
+      "evidence": [
+        {
+          "url": "https://luma.com/td9ox5lk",
+          "fetchedAt": "2026-09-29T19:48:01.219Z",
+          "sha256": "7f9403583df5e0ff57d6e6856e31638511b4ceee041a48491ec038fe639ba035"
+        }
+      ]
+    }
+  },
+  {
+    "id": "token2049-evt-EHa8GbEEbKTvH9o",
+    "name": "🇰🇾 Cayman by the Bay: TOKEN2049 Cocktail Reception🍸",
+    "description": "🇰🇾 Cayman by the Bay: TOKEN2049 Cocktail Reception🍸 is scheduled for 6 October 2026 at 18:00 (Asia/Singapore) in Singapore. Hosted by Haymond Rankin, Stef Prieto, Paul Byles, Walid Phul, Gladston Huffington.\n\nDrinks, food and good company on the eve of TOKEN2049.\n\nRegistration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.",
+    "startDate": "2026-10-06T10:00:00.000Z",
+    "location": "Singapore, Singapore",
+    "url": "https://luma.com/gidia9lr",
+    "registrationUrl": "https://luma.com/gidia9lr",
+    "coverImage": "/events/token2049-evt-eha8gbeebktvh9o-16e1b20e.webp",
+    "endDate": "2026-10-06T12:00:00.000Z",
+    "timezone": "Asia/Singapore",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": true,
+    "city": "Singapore",
+    "country": "Singapore",
+    "hosts": [
+      "Haymond Rankin",
+      "Stef Prieto",
+      "Paul Byles",
+      "Walid Phul",
+      "Gladston Huffington"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "Standard",
+        "url": "https://luma.com/gidia9lr",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/gidia9lr",
+      "eventId": "evt-EHa8GbEEbKTvH9o",
+      "fetchedAt": "2026-09-29T19:48:01.954Z",
+      "method": "luma-api"
+    },
+    "slug": "cayman-bay",
+    "source": "token2049-verified",
+    "sideEventFor": [
+      "token2049"
+    ],
+    "token2049SideEvent": true,
+    "descriptionSource": {
+      "url": "https://luma.com/gidia9lr",
+      "fetchedAt": "2026-09-29T19:48:01.954Z",
+      "method": "matched-organizer-record",
+      "pageTitle": "🇰🇾 Cayman by the Bay: TOKEN2049 Cocktail Reception🍸",
+      "sha256": "1bb2d8d32c14eabc6072882a300fbba310e20372482c473e0384894f81b36347",
+      "evidence": [
+        {
+          "url": "https://luma.com/gidia9lr",
+          "fetchedAt": "2026-09-29T19:48:01.954Z",
+          "sha256": "f9d80a85d7368a03578e5317e4b37638570580e14bb278b9c3ab951a89d160a3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "token2049-evt-Qz80rjzgQpIRkDk",
+    "name": "TCG Night: Pack rips and claw pulls with Beezie, NextRare and Traded",
+    "description": "TCG Night: Pack rips and claw pulls with Beezie, NextRare and Traded is scheduled for 6 October 2026 at 18:00 (Asia/Singapore) in Singapore. Hosted by Damien, Defisushi, Figo.\n\nCome hang, rip packs, pull the Claw, trade cards, enjoy food & drinks, and meet collectors from around the world in town for TOKEN2049.\n\nRegistration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.",
+    "startDate": "2026-10-06T10:00:00.000Z",
+    "location": "Singapore, Singapore",
+    "url": "https://luma.com/rry9iodc",
+    "registrationUrl": "https://luma.com/rry9iodc",
+    "coverImage": "/events/token2049-evt-qz80rjzgqpirkdk-ed8e3ea0.webp",
+    "endDate": "2026-10-06T14:00:00.000Z",
+    "timezone": "Asia/Singapore",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": true,
+    "city": "Singapore",
+    "country": "Singapore",
+    "hosts": [
+      "Damien",
+      "Defisushi",
+      "Figo"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "Standard",
+        "url": "https://luma.com/rry9iodc",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/rry9iodc",
+      "eventId": "evt-Qz80rjzgQpIRkDk",
+      "fetchedAt": "2026-09-29T19:48:02.151Z",
+      "method": "luma-api"
+    },
+    "slug": "tcg-night",
+    "source": "token2049-verified",
+    "sideEventFor": [
+      "token2049"
+    ],
+    "token2049SideEvent": true,
+    "descriptionSource": {
+      "url": "https://luma.com/rry9iodc",
+      "fetchedAt": "2026-09-29T19:48:02.151Z",
+      "method": "matched-organizer-record",
+      "pageTitle": "TCG Night: Pack rips and claw pulls with Beezie, NextRare and Traded",
+      "sha256": "c195fbf78fedf5bf1796af9d2a779024e475259e1976314beea119ed3dd15574",
+      "evidence": [
+        {
+          "url": "https://luma.com/rry9iodc",
+          "fetchedAt": "2026-09-29T19:48:02.151Z",
+          "sha256": "670d1bb052a743a74c71ea68e80925f464218638f74f6c07ef1bef6e866dcdff"
+        }
+      ]
+    }
+  },
+  {
+    "id": "token2049-evt-C6abJTMTcePBffl",
+    "name": "Onchain FX in Singapore: Celo, Tether, Textile, IDRX & Tribeca Park Capital",
+    "description": "Onchain FX in Singapore: Celo, Tether, Textile, IDRX & Tribeca Park Capital is scheduled for 7 October 2026 at 16:00 (Asia/Singapore) in Singapore. Hosted by Celo Core Co., Fede G., Tomer Bariach, Yudha IDRX.\n\nRegistration is subject to approval.\n\nRegistration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.",
+    "startDate": "2026-10-07T08:00:00.000Z",
+    "location": "Singapore, Singapore",
+    "url": "https://luma.com/lkrxpz9t",
+    "registrationUrl": "https://luma.com/lkrxpz9t",
+    "coverImage": "/events/token2049-evt-c6abjtmtcepbffl-78d06711.webp",
+    "endDate": "2026-10-07T10:00:00.000Z",
+    "timezone": "Asia/Singapore",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": true,
+    "city": "Singapore",
+    "country": "Singapore",
+    "hosts": [
+      "Celo Core Co.",
+      "Fede G.",
+      "Tomer Bariach",
+      "Yudha IDRX"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "Standard",
+        "url": "https://luma.com/lkrxpz9t",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/lkrxpz9t",
+      "eventId": "evt-C6abJTMTcePBffl",
+      "fetchedAt": "2026-09-29T19:48:02.805Z",
+      "method": "luma-api"
+    },
+    "slug": "onchain-fx",
+    "source": "token2049-verified",
+    "sideEventFor": [
+      "token2049"
+    ],
+    "token2049SideEvent": true,
+    "descriptionSource": {
+      "url": "https://luma.com/lkrxpz9t",
+      "fetchedAt": "2026-09-29T19:48:02.805Z",
+      "method": "matched-organizer-record",
+      "pageTitle": "Onchain FX in Singapore: Celo, Tether, Textile, IDRX & Tribeca Park Capital",
+      "sha256": "c533c9a92daecbc207bee089f816036d6e50b3ac8b508d7a0bf46a9cf284f0bb",
+      "evidence": [
+        {
+          "url": "https://luma.com/lkrxpz9t",
+          "fetchedAt": "2026-09-29T19:48:02.805Z",
+          "sha256": "b8677e4932e61c855765ded9363b7e1767d7a6fe2d066aa9f74926ca71c73c7d"
+        }
+      ]
+    }
+  },
+  {
+    "id": "token2049-evt-G5ZEYn3MFv30EPX",
+    "name": "Stablecoins Meet Fiat Rails",
+    "description": "Stablecoins Meet Fiat Rails is scheduled for 7 October 2026 at 18:00 (Asia/Singapore) in Singapore. Hosted by Hex Trust, BCB Group.\n\nRegistration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.",
+    "startDate": "2026-10-07T10:00:00.000Z",
+    "location": "Singapore, Singapore",
+    "url": "https://luma.com/chhbhldx",
+    "registrationUrl": "https://luma.com/chhbhldx",
+    "coverImage": "/events/token2049-evt-g5zeyn3mfv30epx-e50a2de8.webp",
+    "endDate": "2026-10-07T13:00:00.000Z",
+    "timezone": "Asia/Singapore",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": true,
+    "city": "Singapore",
+    "country": "Singapore",
+    "hosts": [
+      "Hex Trust",
+      "BCB Group"
+    ],
+    "organizer": {
+      "type": "Organization",
+      "name": "Hex Trust Events",
+      "url": "https://www.hextrust.com/"
+    },
+    "price": "Free",
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "Hex Trust",
+        "url": "https://luma.com/chhbhldx",
+        "price": 0,
+        "availability": "InStock"
+      },
+      {
+        "name": "BCB Group",
+        "url": "https://luma.com/chhbhldx",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/chhbhldx",
+      "eventId": "evt-G5ZEYn3MFv30EPX",
+      "fetchedAt": "2026-09-29T19:48:02.813Z",
+      "method": "luma-api"
+    },
+    "slug": "stablecoins-meet",
+    "source": "token2049-verified",
+    "sideEventFor": [
+      "token2049"
+    ],
+    "token2049SideEvent": true,
+    "descriptionSource": {
+      "url": "https://luma.com/chhbhldx",
+      "fetchedAt": "2026-09-29T19:48:02.813Z",
+      "method": "matched-organizer-record",
+      "pageTitle": "Stablecoins Meet Fiat Rails",
+      "sha256": "8130f959908d282ba263f1270630997470be41f6f952c58e4c041e7e910c1edd",
+      "evidence": [
+        {
+          "url": "https://luma.com/chhbhldx",
+          "fetchedAt": "2026-09-29T19:48:02.813Z",
+          "sha256": "0142dcdcc6b3404e0f8818e74124e8b5973445a6a0e0ccfc2fc18f1f202c1bd2"
+        }
+      ]
+    }
+  },
+  {
+    "id": "token2049-evt-VbjshLmIM5ACvsn",
+    "name": "Liquidity After Hours: Auros, Arcus, & Rekt",
+    "description": "Liquidity After Hours: Auros, Arcus, & Rekt is scheduled for 7 October 2026 at 18:00 (Asia/Singapore) in Singapore. Hosted by Auros, David Gogel, Rekt Drinks.\n\nThis event is strictly invite-only.\n\nAttendance is by invitation only, and each invite is non-transferable.\n\nWe expect a full house, so please RSVP at your earliest convenience.\n\nYour RSVP and/or attendance constitutes your consent to receive email communications and photography for the hosts' marketing purposes.\n\nRegistration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.",
+    "startDate": "2026-10-07T10:00:00.000Z",
+    "location": "Singapore, Singapore",
+    "url": "https://luma.com/qqrixkqr",
+    "registrationUrl": "https://luma.com/qqrixkqr",
+    "coverImage": "/events/token2049-evt-vbjshlmim5acvsn-560f74c1.webp",
+    "endDate": "2026-10-07T13:00:00.000Z",
+    "timezone": "Asia/Singapore",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": true,
+    "city": "Singapore",
+    "country": "Singapore",
+    "hosts": [
+      "Auros",
+      "David Gogel",
+      "Rekt Drinks"
+    ],
+    "organizer": {
+      "type": "Organization",
+      "name": "Auros Events",
+      "url": "https://www.auros.global/"
+    },
+    "price": "Free",
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "Auros - Ticket",
+        "url": "https://luma.com/qqrixkqr",
+        "price": 0,
+        "availability": "InStock"
+      },
+      {
+        "name": "Arcus - Ticket",
+        "url": "https://luma.com/qqrixkqr",
+        "price": 0,
+        "availability": "InStock"
+      },
+      {
+        "name": "Rekt - Ticket",
+        "url": "https://luma.com/qqrixkqr",
+        "price": 0,
+        "availability": "InStock"
+      },
+      {
+        "name": "General - Ticket",
+        "url": "https://luma.com/qqrixkqr",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/qqrixkqr",
+      "eventId": "evt-VbjshLmIM5ACvsn",
+      "fetchedAt": "2026-09-29T19:48:03.459Z",
+      "method": "luma-api"
+    },
+    "slug": "liquidity-after",
+    "source": "token2049-verified",
+    "sideEventFor": [
+      "token2049"
+    ],
+    "token2049SideEvent": true,
+    "descriptionSource": {
+      "url": "https://luma.com/qqrixkqr",
+      "fetchedAt": "2026-09-29T19:48:03.459Z",
+      "method": "matched-organizer-record",
+      "pageTitle": "Liquidity After Hours: Auros, Arcus, & Rekt",
+      "sha256": "55e7d6e83813742659a8b3a30a70bba85407d3a81a2201635640c4b84ff0034b",
+      "evidence": [
+        {
+          "url": "https://luma.com/qqrixkqr",
+          "fetchedAt": "2026-09-29T19:48:03.459Z",
+          "sha256": "7698f0568f712545bfa1214caf8ef02d8d5571104926dd0362b4b409efc63eaf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "token2049-evt-cklGgJfG3yivcfF",
+    "name": "XT VIP Dinner • Invite Only",
+    "description": "XT VIP Dinner • Invite Only is scheduled for 7 October 2026 at 18:30 (Asia/Singapore) in Singapore. Hosted by XT Labs, Daria.\n\nAttendance is by invitation only.\n\nRegistration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.",
+    "startDate": "2026-10-07T10:30:00.000Z",
+    "location": "Singapore, Singapore",
+    "url": "https://luma.com/0v6m30lp",
+    "registrationUrl": "https://luma.com/0v6m30lp",
+    "coverImage": "/events/token2049-evt-cklggjfg3yivcff-92b844f2.webp",
+    "endDate": "2026-10-07T14:30:00.000Z",
+    "timezone": "Asia/Singapore",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": true,
+    "city": "Singapore",
+    "country": "Singapore",
+    "hosts": [
+      "XT Labs",
+      "Daria"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "Standard",
+        "url": "https://luma.com/0v6m30lp",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/0v6m30lp",
+      "eventId": "evt-cklGgJfG3yivcfF",
+      "fetchedAt": "2026-09-29T19:48:03.457Z",
+      "method": "luma-api"
+    },
+    "slug": "xt-vip",
+    "source": "token2049-verified",
+    "sideEventFor": [
+      "token2049"
+    ],
+    "token2049SideEvent": true,
+    "descriptionSource": {
+      "url": "https://luma.com/0v6m30lp",
+      "fetchedAt": "2026-09-29T19:48:03.457Z",
+      "method": "matched-organizer-record",
+      "pageTitle": "XT VIP Dinner • Invite Only",
+      "sha256": "d4b58ffe23716a623d6750ae7edc851496384dd45362d0755c19f6f7ee1b438d",
+      "evidence": [
+        {
+          "url": "https://luma.com/0v6m30lp",
+          "fetchedAt": "2026-09-29T19:48:03.457Z",
+          "sha256": "4234532f0ee93ca380c0c5cdee9c68e52eaad927f691b0bfc26cacc2f887835a"
+        }
+      ]
+    }
+  },
+  {
+    "id": "token2049-evt-bM0BECae6KRPeo3",
+    "name": "Teach It. Then Go All In.",
+    "description": "Teach It. Then Go All In. is scheduled for 8 October 2026 at 12:30 (Asia/Singapore) in Singapore. Hosted by Sui.\n\nNo cards skill required, no coding background either.\n\nPlease bring a laptop with an active ChatGPT or Claude subscription (Plus/Pro tier recommended) to participate in the workshop.\n\nThis workshop is for registered attendees of Sui Basecamp.\n\nRegistration is listed as free.",
+    "startDate": "2026-10-08T04:30:00.000Z",
+    "location": "Marina Bay Sands Expo & Convention, 10 Bayfront Ave, Singapore 018956",
+    "url": "https://luma.com/m3xwqjwd",
+    "registrationUrl": "https://luma.com/m3xwqjwd",
+    "coverImage": "/events/token2049-evt-bm0becae6krpeo3-602b6cfa.webp",
+    "endDate": "2026-10-08T05:00:00.000Z",
+    "timezone": "Asia/Singapore",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": false,
+    "city": "Singapore",
+    "country": "Singapore",
+    "venueName": "Marina Bay Sands Expo & Convention",
+    "streetAddress": "10 Bayfront Ave, Singapore",
+    "addressLocality": "Singapore",
+    "addressCountry": "SG",
+    "neighborhood": "Downtown Core",
+    "coordinates": {
+      "latitude": 1.282088,
+      "longitude": 103.85877149999999
+    },
+    "hosts": [
+      "Sui"
+    ],
+    "organizer": {
+      "type": "Organization",
+      "name": "Sui Basecamp 2026 Workshops",
+      "url": "https://sui.io/basecamp"
+    },
+    "price": "Free",
+    "approvalRequired": false,
+    "ticketOffers": [
+      {
+        "name": "Standard",
+        "url": "https://luma.com/m3xwqjwd",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/m3xwqjwd",
+      "eventId": "evt-bM0BECae6KRPeo3",
+      "fetchedAt": "2026-09-29T19:48:04.109Z",
+      "method": "luma-api"
+    },
+    "slug": "teach-it",
+    "source": "token2049-verified",
+    "sideEventFor": [
+      "token2049"
+    ],
+    "token2049SideEvent": true,
+    "descriptionSource": {
+      "url": "https://luma.com/m3xwqjwd",
+      "fetchedAt": "2026-09-29T19:48:04.109Z",
+      "method": "matched-organizer-record",
+      "pageTitle": "Teach It. Then Go All In.",
+      "sha256": "56ab51af405f6477847e712e49b9100b8f93bf7bee64cd03fc6fc62a341cee40",
+      "evidence": [
+        {
+          "url": "https://luma.com/m3xwqjwd",
+          "fetchedAt": "2026-09-29T19:48:04.109Z",
+          "sha256": "5da816af32898985de8fa11803bf7578c20f01cad80d137d2a3ce97b9b3340d9"
+        }
+      ]
+    }
+  },
+  {
+    "id": "token2049-evt-5jMHdlt8GLVUyKq",
+    "name": "Closing Bell @ Employees Only",
+    "description": "Closing Bell @ Employees Only is scheduled for 8 October 2026 at 19:30 (Asia/Singapore) in Singapore. Hosted by Pharos Network, DIA.\n\nDrinks are on us for the duration of the private event; the venue returns to regular service afterward.\n\nEntry is by invitation and confirmed attendance - waitlist guests may be admitted as space allows.\n\nRegistration requires host approval. Registration is listed as free.",
+    "startDate": "2026-10-08T11:30:00.000Z",
+    "location": "Employees Only Singapore, 112 Amoy St, Singapore 069932",
+    "url": "https://luma.com/htq8iffy",
+    "registrationUrl": "https://luma.com/htq8iffy",
+    "coverImage": "/events/token2049-evt-5jmhdlt8glvuykq-885dfeed.webp",
+    "endDate": "2026-10-08T15:00:00.000Z",
+    "timezone": "Asia/Singapore",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": false,
+    "city": "Singapore",
+    "country": "Singapore",
+    "venueName": "Employees Only Singapore",
+    "streetAddress": "112 Amoy St, Singapore",
+    "addressLocality": "Singapore",
+    "addressCountry": "SG",
+    "neighborhood": "Chinatown",
+    "coordinates": {
+      "latitude": 1.2820555999999999,
+      "longitude": 103.8476771
+    },
+    "hosts": [
+      "Pharos Network",
+      "DIA"
+    ],
+    "organizer": {
+      "type": "Organization",
+      "name": "DIA's Calendar",
+      "url": "https://www.diadata.org/"
+    },
+    "price": "Free",
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "Standard",
+        "url": "https://luma.com/htq8iffy",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/htq8iffy",
+      "eventId": "evt-5jMHdlt8GLVUyKq",
+      "fetchedAt": "2026-09-29T19:48:04.110Z",
+      "method": "luma-api"
+    },
+    "slug": "closing-bell",
+    "source": "token2049-verified",
+    "sideEventFor": [
+      "token2049"
+    ],
+    "token2049SideEvent": true,
+    "descriptionSource": {
+      "url": "https://luma.com/htq8iffy",
+      "fetchedAt": "2026-09-29T19:48:04.110Z",
+      "method": "matched-organizer-record",
+      "pageTitle": "Closing Bell @ Employees Only",
+      "sha256": "2cf61cdaeebfa1d904536f2701c9aed31b48b05d1df871f16997bae6f309cdfc",
+      "evidence": [
+        {
+          "url": "https://luma.com/htq8iffy",
+          "fetchedAt": "2026-09-29T19:48:04.110Z",
+          "sha256": "41dccc37eda19a84ddd7e8963947210b5a3c9c538829850455018a3f29bbe7e6"
+        }
+      ]
+    }
+  },
+  {
+    "id": "token2049-evt-fE9nA0Bi8GZoOUZ",
+    "name": "PAIRTY & PERMARA Exclusive Networking Evening Token2049 Singapore",
+    "description": "PAIRTY & PERMARA Exclusive Networking Evening Token2049 Singapore is scheduled for 8 October 2026 at 21:00 (Asia/Singapore) in Singapore. Hosted by Marcela Zelaya, Arnold Thorstad, Micah Kershner, Micah Kershner.\n\nInvite Only · Registration Requires Approval\n\nRegistration requires host approval. Registration is listed as free.",
+    "startDate": "2026-10-08T13:00:00.000Z",
+    "location": "V DUXTON, 37 Duxton Hl, Singapore 089615",
+    "url": "https://luma.com/hsnky9ms",
+    "registrationUrl": "https://luma.com/hsnky9ms",
+    "coverImage": "/events/token2049-evt-fe9na0bi8gzoouz-f08a552f.webp",
+    "endDate": "2026-10-08T16:00:00.000Z",
+    "timezone": "Asia/Singapore",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": false,
+    "city": "Singapore",
+    "country": "Singapore",
+    "venueName": "V DUXTON",
+    "addressLocality": "Singapore",
+    "addressCountry": "SG",
+    "neighborhood": "Chinatown",
+    "coordinates": {
+      "latitude": 1.2785073,
+      "longitude": 103.8428328
+    },
+    "hosts": [
+      "Marcela Zelaya",
+      "Arnold Thorstad",
+      "Micah Kershner",
+      "Micah Kershner"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "Standard",
+        "url": "https://luma.com/hsnky9ms",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/hsnky9ms",
+      "eventId": "evt-fE9nA0Bi8GZoOUZ",
+      "fetchedAt": "2026-09-29T19:48:04.753Z",
+      "method": "luma-api"
+    },
+    "slug": "pairty-permara",
+    "source": "token2049-verified",
+    "sideEventFor": [
+      "token2049"
+    ],
+    "token2049SideEvent": true,
+    "descriptionSource": {
+      "url": "https://luma.com/hsnky9ms",
+      "fetchedAt": "2026-09-29T19:48:04.753Z",
+      "method": "matched-organizer-record",
+      "pageTitle": "PAIRTY & PERMARA Exclusive Networking Evening Token2049 Singapore",
+      "sha256": "c88627200b078aea45d9adfb5a9b103e196f1f16110036a87355da8aab9ea184",
+      "evidence": [
+        {
+          "url": "https://luma.com/hsnky9ms",
+          "fetchedAt": "2026-09-29T19:48:04.753Z",
+          "sha256": "49c429b3bbdc14e83246feffb96142bffc5a3906ce7312d3957bebab5a1aef6a"
+        }
+      ]
+    }
+  },
+  {
+    "id": "token2049-evt-iwlAee1GmHJX4Pd",
+    "name": "KopiChat: The AI-Powered CFO - A Cluedo Game Night",
+    "description": "KopiChat: The AI-Powered CFO - A Cluedo Game Night is scheduled for 30 September 2026 at 18:30 (Asia/Singapore) in Singapore. Hosted by Shreeya, Aneesha Reihana, Shyam Velumani, Pare, Soiree Singapore.\n\nArrive to drinks and canapes, and pick up your character or investigation card (no heavy role-play required).\n\nPast ones have run 50+ and 70+ people deep, so expect a full room.\n\nRegistration requires host approval.",
+    "startDate": "2026-09-30T10:30:00.000Z",
+    "location": "BYD Boat Quay 1826, 33/34 Boat Quay, Level 2, Singapore 049822",
+    "url": "https://luma.com/js2bjm2y",
+    "registrationUrl": "https://luma.com/js2bjm2y",
+    "coverImage": "/events/token2049-evt-iwlaee1gmhjx4pd-ced3a20f.webp",
+    "endDate": "2026-09-30T13:30:00.000Z",
+    "timezone": "Asia/Singapore",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": false,
+    "city": "Singapore",
+    "country": "Singapore",
+    "venueName": "BYD Boat Quay 1826",
+    "streetAddress": "33/34 Boat Quay, Level 2, Singapore",
+    "addressLocality": "Singapore",
+    "addressCountry": "SG",
+    "neighborhood": "Central Area",
+    "coordinates": {
+      "latitude": 1.2862228,
+      "longitude": 103.8498206
+    },
+    "hosts": [
+      "Shreeya",
+      "Aneesha Reihana",
+      "Shyam Velumani",
+      "Pare",
+      "Soiree Singapore"
+    ],
+    "organizer": {
+      "type": "Organization",
+      "name": "NewWorld Foundry",
+      "url": "https://www.newworldfoundry.sg/"
+    },
+    "price": "SGD 65",
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "Standard",
+        "url": "https://luma.com/js2bjm2y",
+        "price": 65,
+        "priceCurrency": "SGD",
+        "availability": "InStock",
+        "validFrom": "2026-09-15T07:00:00.000Z"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/js2bjm2y",
+      "eventId": "evt-iwlAee1GmHJX4Pd",
+      "fetchedAt": "2026-09-29T19:48:04.755Z",
+      "method": "luma-api"
+    },
+    "slug": "kopichat-ai",
+    "source": "token2049-verified",
+    "descriptionSource": {
+      "url": "https://luma.com/js2bjm2y",
+      "fetchedAt": "2026-09-29T19:48:04.755Z",
+      "method": "matched-organizer-record",
+      "pageTitle": "KopiChat: The AI-Powered CFO - A Cluedo Game Night",
+      "sha256": "641093699beffc294f78ada6fe21effdf6d6053a0f8b9f0a46605fa573a87640",
+      "evidence": [
+        {
+          "url": "https://luma.com/js2bjm2y",
+          "fetchedAt": "2026-09-29T19:48:04.755Z",
+          "sha256": "835b83da71a63b05681c87c10b7385a5fc7e4e7c199d29ff248db9b372f43ee0"
+        }
+      ]
+    }
+  },
+  {
+    "id": "token2049-evt-03NqHNdVoqOAv0U",
+    "name": "Solana Huddle",
+    "description": "Solana Huddle is scheduled for 6 October 2026 at 18:00 (Asia/Singapore) in Singapore. Hosted by Pudgy Penguins, Divinefallacy, Symphony Young.\n\nRegistration requires host approval. Registration is listed as free.",
+    "startDate": "2026-10-06T10:00:00.000Z",
+    "location": "Noa Lounge by Olivia, 83 Neil Rd, #01-01, Singapore 089813",
+    "url": "https://luma.com/SolanaHuddle",
+    "registrationUrl": "https://luma.com/SolanaHuddle",
+    "coverImage": "/events/token2049-evt-03nqhndvoqoav0u-a545e27f.webp",
+    "endDate": "2026-10-06T14:00:00.000Z",
+    "timezone": "Asia/Singapore",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": false,
+    "city": "Singapore",
+    "country": "Singapore",
+    "venueName": "Noa Lounge by Olivia",
+    "streetAddress": "83 Neil Rd, #01-01, Singapore",
+    "addressLocality": "Singapore",
+    "addressCountry": "SG",
+    "neighborhood": "Chinatown",
+    "coordinates": {
+      "latitude": 1.2789526999999998,
+      "longitude": 103.84194889999999
+    },
+    "hosts": [
+      "Pudgy Penguins",
+      "Divinefallacy",
+      "Symphony Young"
+    ],
+    "organizer": {
+      "type": "Organization",
+      "name": "Pudgy Penguins",
+      "url": "https://discord.gg/pudgypenguins"
+    },
+    "price": "Free",
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "Standard",
+        "url": "https://luma.com/SolanaHuddle",
+        "price": 0,
+        "availability": "InStock"
+      },
+      {
+        "name": "Solana VIPs",
+        "url": "https://luma.com/SolanaHuddle",
+        "price": 0,
+        "availability": "InStock"
+      },
+      {
+        "name": "Pudgy Penguins VIPs",
+        "url": "https://luma.com/SolanaHuddle",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/SolanaHuddle",
+      "eventId": "evt-03NqHNdVoqOAv0U",
+      "fetchedAt": "2026-09-29T19:48:05.411Z",
+      "method": "luma-api"
+    },
+    "slug": "solana-huddle",
+    "source": "token2049-verified",
+    "sideEventFor": [
+      "token2049"
+    ],
+    "token2049SideEvent": true,
+    "descriptionSource": {
+      "url": "https://luma.com/SolanaHuddle",
+      "fetchedAt": "2026-09-29T19:48:05.411Z",
+      "method": "matched-organizer-record",
+      "pageTitle": "Solana Huddle",
+      "sha256": "d13f5c003392c91ec399e16e9a831f8f18f2fe01e4f4684ff7d13c45d9ed2868",
+      "evidence": [
+        {
+          "url": "https://luma.com/SolanaHuddle",
+          "fetchedAt": "2026-09-29T19:48:05.411Z",
+          "sha256": "7867941bc57af3221b561eca94069b05d3523eb555e2714fa6c866bc1dd31140"
+        }
+      ]
+    }
+  },
+  {
+    "id": "token2049-evt-lGFJlsUdOWnsEXE",
+    "name": "MEV Snackdown: Singapore - New Blocks, New Rules",
+    "description": "MEV Snackdown: Singapore - New Blocks, New Rules is scheduled for 6 October 2026 at 19:00 (Asia/Singapore) in Singapore. Hosted by Sujith Sizon, Astralane ., Jaskanwar Singh.\n\nDuring Token2049 week, Astralane is bringing together searchers, MMs, traders, validators, infra builders and institutional operators for a night of drinks and very unfiltered conversation.\n\nRegistration requires host approval. Registration is listed as free.",
+    "startDate": "2026-10-06T11:00:00.000Z",
+    "location": "MERCI MARCEL TIONG BAHRU, 56 Eng Hoon St, #01-68, Singapore 160056",
+    "url": "https://luma.com/tprg0m2g",
+    "registrationUrl": "https://luma.com/tprg0m2g",
+    "coverImage": "/events/token2049-evt-lgfjlsudownsexe-eb2fd7cc.webp",
+    "endDate": "2026-10-06T13:00:00.000Z",
+    "timezone": "Asia/Singapore",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": false,
+    "city": "Singapore",
+    "country": "Singapore",
+    "venueName": "MERCI MARCEL TIONG BAHRU",
+    "streetAddress": "56 Eng Hoon St, #01-68 Block 56, Singapore",
+    "addressLocality": "Singapore",
+    "addressCountry": "SG",
+    "neighborhood": "Tiong Bahru",
+    "coordinates": {
+      "latitude": 1.2844364000000001,
+      "longitude": 103.8336932
+    },
+    "hosts": [
+      "Sujith Sizon",
+      "Astralane .",
+      "Jaskanwar Singh"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "Standard",
+        "url": "https://luma.com/tprg0m2g",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/tprg0m2g",
+      "eventId": "evt-lGFJlsUdOWnsEXE",
+      "fetchedAt": "2026-09-29T19:48:05.389Z",
+      "method": "luma-api"
+    },
+    "slug": "mev-snackdown",
+    "source": "token2049-verified",
+    "sideEventFor": [
+      "token2049"
+    ],
+    "token2049SideEvent": true,
+    "descriptionSource": {
+      "url": "https://luma.com/tprg0m2g",
+      "fetchedAt": "2026-09-29T19:48:05.389Z",
+      "method": "matched-organizer-record",
+      "pageTitle": "MEV Snackdown: Singapore - New Blocks, New Rules",
+      "sha256": "16234c0fd58887e8a6e13345a497d17e676298d50c01e902da6781024ef9bb66",
+      "evidence": [
+        {
+          "url": "https://luma.com/tprg0m2g",
+          "fetchedAt": "2026-09-29T19:48:05.389Z",
+          "sha256": "cab8c1501c7e0ce879d9bf7e97678aabcb332f4ce7602cb8d420ec6f5283b795"
+        }
+      ]
+    }
+  },
+  {
+    "id": "token2049-evt-9swTceUKZBlgdg4",
+    "name": "Solana Company Private Investor Lunch",
+    "description": "Solana Company Private Investor Lunch is scheduled for 8 October 2026 at 11:30 (Asia/Singapore) in Singapore. Hosted by Summer Capital, Teddy Hung, Madelene Gani.\n\nYou are cordially invited to our Private Investor Lunch in Singapore hosted by Solana Company.\n\nPlease note: This is a private event, by invitation only.\n\nRegistration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.",
+    "startDate": "2026-10-08T03:30:00.000Z",
+    "location": "Singapore, Singapore",
+    "url": "https://luma.com/gpv6p6pl",
+    "registrationUrl": "https://luma.com/gpv6p6pl",
+    "coverImage": "/events/token2049-evt-9swtceukzblgdg4-a2b4f5e2.webp",
+    "endDate": "2026-10-08T06:00:00.000Z",
+    "timezone": "Asia/Singapore",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": true,
+    "city": "Singapore",
+    "country": "Singapore",
+    "hosts": [
+      "Summer Capital",
+      "Teddy Hung",
+      "Madelene Gani"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "Standard",
+        "url": "https://luma.com/gpv6p6pl",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/gpv6p6pl",
+      "eventId": "evt-9swTceUKZBlgdg4",
+      "fetchedAt": "2026-09-29T19:48:06.051Z",
+      "method": "luma-api"
+    },
+    "slug": "solana-company",
+    "source": "token2049-verified",
+    "sideEventFor": [
+      "token2049"
+    ],
+    "token2049SideEvent": true,
+    "descriptionSource": {
+      "url": "https://luma.com/gpv6p6pl",
+      "fetchedAt": "2026-09-29T19:48:06.051Z",
+      "method": "matched-organizer-record",
+      "pageTitle": "Solana Company Private Investor Lunch",
+      "sha256": "d13585e3016590d1a5d8c6552b889c366b39aa51574b4757ddf659889cc442e9",
+      "evidence": [
+        {
+          "url": "https://luma.com/gpv6p6pl",
+          "fetchedAt": "2026-09-29T19:48:06.051Z",
+          "sha256": "e647b19d3f95d3df7daae72bc7dedcd70331e76188e7a03665a3311af289d366"
+        }
+      ]
+    }
+  },
+  {
+    "id": "token2049-evt-hGad7fcCLDEHZUT",
+    "name": "Pengu Rally Lounge",
+    "description": "Pengu Rally Lounge is scheduled for 8 October 2026 at 16:00 (Asia/Singapore) in Singapore. Hosted by Pudgy Penguins, Sanctum.\n\nThe Competition Court: Full-court pickleball matches featuring fast-paced rallies, round-robin play, and friendly competition.\n\nRegistration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.",
+    "startDate": "2026-10-08T08:00:00.000Z",
+    "location": "Singapore, Singapore",
+    "url": "https://luma.com/PenguRallyClub",
+    "registrationUrl": "https://luma.com/PenguRallyClub",
+    "coverImage": "/events/token2049-evt-hgad7fccldehzut-c0a497d8.webp",
+    "endDate": "2026-10-08T11:00:00.000Z",
+    "timezone": "Asia/Singapore",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": true,
+    "city": "Singapore",
+    "country": "Singapore",
+    "hosts": [
+      "Pudgy Penguins",
+      "Sanctum"
+    ],
+    "organizer": {
+      "type": "Organization",
+      "name": "Pudgy Penguins",
+      "url": "https://discord.gg/pudgypenguins"
+    },
+    "price": "Free",
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "Standard",
+        "url": "https://luma.com/PenguRallyClub",
+        "price": 0,
+        "availability": "InStock"
+      },
+      {
+        "name": "Bitkub VIPs",
+        "url": "https://luma.com/PenguRallyClub",
+        "price": 0,
+        "availability": "InStock"
+      },
+      {
+        "name": "Sanctum VIPs",
+        "url": "https://luma.com/PenguRallyClub",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/PenguRallyClub",
+      "eventId": "evt-hGad7fcCLDEHZUT",
+      "fetchedAt": "2026-09-29T19:48:07.917Z",
+      "method": "luma-api"
+    },
+    "slug": "pengu-rally",
+    "source": "token2049-verified",
+    "sideEventFor": [
+      "token2049"
+    ],
+    "token2049SideEvent": true,
+    "descriptionSource": {
+      "url": "https://luma.com/PenguRallyClub",
+      "fetchedAt": "2026-09-29T19:48:07.917Z",
+      "method": "matched-organizer-record",
+      "pageTitle": "Pengu Rally Lounge",
+      "sha256": "bb7abc72289042918f2cc33722571000807a578c9250be8dbd310ec6549ca6a5",
+      "evidence": [
+        {
+          "url": "https://luma.com/PenguRallyClub",
+          "fetchedAt": "2026-09-29T19:48:07.917Z",
+          "sha256": "21723a4fca8e23fb7be5dca033144531e80de03b9fdd187fe2f48006ba85b4a0"
+        }
+      ]
+    }
+  },
+  {
+    "id": "token2049-evt-YtFINnbNhXzTBam",
+    "name": "VIP Crypto Casino Dinner & Party by Rugbet.gg | Singapore",
+    "description": "VIP Crypto Casino Dinner & Party by Rugbet.gg | Singapore is scheduled for 8 October 2026 at 19:30 (Asia/Singapore) in Singapore. Hosted by Rugbet .gg.\n\nNo BS speakers or presentations, just a ton of Michelin Star food, drinks, and live DJ music.\n\nApproval required - Capacity: 100\n\nTo be announced after approval.\n\nRegistration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.",
+    "startDate": "2026-10-08T11:30:00.000Z",
+    "location": "Singapore, Singapore",
+    "url": "https://luma.com/8fsg2m3z",
+    "registrationUrl": "https://luma.com/8fsg2m3z",
+    "coverImage": "/events/token2049-evt-ytfinnbnhxztbam-71aeb278.webp",
+    "endDate": "2026-10-08T15:30:00.000Z",
+    "timezone": "Asia/Singapore",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": true,
+    "city": "Singapore",
+    "country": "Singapore",
+    "hosts": [
+      "Rugbet .gg"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "Standard",
+        "url": "https://luma.com/8fsg2m3z",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/8fsg2m3z",
+      "eventId": "evt-YtFINnbNhXzTBam",
+      "fetchedAt": "2026-09-29T19:48:07.908Z",
+      "method": "luma-api"
+    },
+    "slug": "vip-crypto",
+    "source": "token2049-verified",
+    "sideEventFor": [
+      "token2049"
+    ],
+    "token2049SideEvent": true,
+    "descriptionSource": {
+      "url": "https://luma.com/8fsg2m3z",
+      "fetchedAt": "2026-09-29T19:48:07.908Z",
+      "method": "matched-organizer-record",
+      "pageTitle": "VIP Crypto Casino Dinner & Party by Rugbet.gg | Singapore",
+      "sha256": "db34581b51debd255f7894d18a72d1e947f8fe5e3c805cc953fcfa1ba8d4b8e8",
+      "evidence": [
+        {
+          "url": "https://luma.com/8fsg2m3z",
+          "fetchedAt": "2026-09-29T19:48:07.908Z",
+          "sha256": "d48c92846f78a1ed5be5f37973ea3a1f6482f1c9f3e00e802d9d202022c5a04a"
+        }
+      ]
+    }
+  },
+  {
+    "id": "token2049-evt-bsc8pcoBgkXdwhL",
+    "name": "[Invite-only] Governing AI Agents Without Operators: Compliance, Custody, and Cross-Border Recognition for Autonomous Payments",
+    "description": "[Invite-only] Governing AI Agents Without Operators: Compliance, Custody, and Cross-Border Recognition for Autonomous Payments is scheduled for 9 October 2026 at 14:30 (Asia/Singapore) in Singapore. Hosted by Bernice Neo, Sheng, Jael Tan.\n\nA High-Level Closed-Door Regulatory Roundtable | Co-Organised by GFTN & DCGG, Hosted by INSEAD\n\nThe core thematic focus of the roundtable is Governing AI Agents Without Operators.\n\nThis roundtable is held under the Chatham House Rule (participants may use the information received, but neither identity nor affiliation may be revealed).\n\nRegistration requires host approval. Registration is listed as free.",
+    "startDate": "2026-10-09T06:30:00.000Z",
+    "location": "INSEAD Asia Campus, 1 Ayer Rajah Ave, Singapore 138676",
+    "url": "https://luma.com/d8tt1f7i",
+    "registrationUrl": "https://luma.com/d8tt1f7i",
+    "coverImage": "/events/token2049-evt-bsc8pcobgkxdwhl-03722b71.webp",
+    "endDate": "2026-10-09T10:00:00.000Z",
+    "timezone": "Asia/Singapore",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": false,
+    "city": "Singapore",
+    "country": "Singapore",
+    "venueName": "INSEAD Asia Campus",
+    "streetAddress": "1 Ayer Rajah Ave, Singapore",
+    "addressLocality": "Singapore",
+    "addressCountry": "SG",
+    "neighborhood": "Queenstown",
+    "coordinates": {
+      "latitude": 1.2999167,
+      "longitude": 103.78654859999999
+    },
+    "hosts": [
+      "Bernice Neo",
+      "Sheng",
+      "Jael Tan"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "Standard",
+        "url": "https://luma.com/d8tt1f7i",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/d8tt1f7i",
+      "eventId": "evt-bsc8pcoBgkXdwhL",
+      "fetchedAt": "2026-09-29T19:48:08.615Z",
+      "method": "luma-api"
+    },
+    "slug": "invite-only",
+    "source": "token2049-verified",
+    "sideEventFor": [
+      "token2049"
+    ],
+    "token2049SideEvent": true,
+    "descriptionSource": {
+      "url": "https://luma.com/d8tt1f7i",
+      "fetchedAt": "2026-09-29T19:48:08.615Z",
+      "method": "matched-organizer-record",
+      "pageTitle": "[Invite-only] Governing AI Agents Without Operators: Compliance, Custody, and Cross-Border Recognition for Autonomous Payments",
+      "sha256": "cc7edeb515987201ae32f25824193af92d8b96a75fbe89b42408c58a574adafb",
+      "evidence": [
+        {
+          "url": "https://luma.com/d8tt1f7i",
+          "fetchedAt": "2026-09-29T19:48:08.615Z",
+          "sha256": "dd77df6e6e38d240e36c0ff634ac479c86c7e1e7d8305c6a3ea2427b84760037"
+        }
+      ]
+    }
+  },
+  {
+    "id": "token2049-evt-vVKGNzphSqREdPc",
+    "name": "FREAKY PENGU 🍦",
+    "description": "FREAKY PENGU 🍦 is scheduled for 9 October 2026 at 17:00 (Asia/Singapore) in Singapore. Hosted by Pudgy Penguins, JYP, Symphony Young, Divinefallacy.\n\nBring your favourite Pudgy plush or collectible, grab a scoop and settle in.\n\nRegistration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.",
+    "startDate": "2026-10-09T09:00:00.000Z",
+    "location": "Singapore, Singapore",
+    "url": "https://luma.com/FreakyPengu",
+    "registrationUrl": "https://luma.com/FreakyPengu",
+    "coverImage": "/events/token2049-evt-vvkgnzphsqredpc-2e442b5f.webp",
+    "endDate": "2026-10-09T11:00:00.000Z",
+    "timezone": "Asia/Singapore",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": true,
+    "city": "Singapore",
+    "country": "Singapore",
+    "hosts": [
+      "Pudgy Penguins",
+      "JYP",
+      "Symphony Young",
+      "Divinefallacy"
+    ],
+    "organizer": {
+      "type": "Organization",
+      "name": "Pudgy Penguins",
+      "url": "https://discord.gg/pudgypenguins"
+    },
+    "price": "Free",
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "Pudgy Penguins holder",
+        "url": "https://luma.com/FreakyPengu",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/FreakyPengu",
+      "eventId": "evt-vVKGNzphSqREdPc",
+      "fetchedAt": "2026-09-29T19:48:08.577Z",
+      "method": "luma-api"
+    },
+    "slug": "freaky-pengu",
+    "source": "token2049-verified",
+    "sideEventFor": [
+      "token2049"
+    ],
+    "token2049SideEvent": true,
+    "descriptionSource": {
+      "url": "https://luma.com/FreakyPengu",
+      "fetchedAt": "2026-09-29T19:48:08.577Z",
+      "method": "matched-organizer-record",
+      "pageTitle": "FREAKY PENGU 🍦",
+      "sha256": "8258c463560928af2142904c2d9e83f9aeedcd16b23bd6f3ada3dfad8033eadd",
+      "evidence": [
+        {
+          "url": "https://luma.com/FreakyPengu",
+          "fetchedAt": "2026-09-29T19:48:08.577Z",
+          "sha256": "58b8d5656abb7884b9b615377bff909cef88ddd601acf87fc5a44586502ff701"
+        }
+      ]
+    }
+  },
+  {
+    "id": "token2049-evt-1wE8LVXclyqhzEW",
+    "name": "Web3TV Interview Feature With Singapore Blockchain Week",
+    "description": "Web3TV Interview Feature With Singapore Blockchain Week is scheduled for 5 October 2026 at 09:00 (Asia/Singapore) in Singapore. Hosted by Singapore Blockchain Week (SBW).\n\nProgramming moves across stages, beach clubs, workshop spaces, exhibition areas, private rooms, app-based networking, and side events throughout the week :\n\n3.00pm-6.00pm Token2049 Opening Mixer : https://luma.com/bae06r0t?tk=pylhA6\n\n2.00pm-6.00pm Blockchain Impact Singapore : https://luma.com/y6nco425\n\n2.30pm-5.30pm Banking The Agent Economy : https://luma.com/3cvlquah\n\nRegistration is listed as free.",
+    "startDate": "2026-10-05T01:00:00.000Z",
+    "location": "Singapore",
+    "url": "https://luma.com/dd8728yc",
+    "registrationUrl": "https://luma.com/dd8728yc",
+    "coverImage": "/events/token2049-evt-1we8lvxclyqhzew-dd92b6f8.webp",
+    "endDate": "2026-10-09T14:00:00.000Z",
+    "timezone": "Asia/Singapore",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": false,
+    "city": "Singapore",
+    "country": "Singapore",
+    "addressLocality": "Singapore",
+    "addressCountry": "SG",
+    "coordinates": {
+      "latitude": 1.352083,
+      "longitude": 103.819836
+    },
+    "hosts": [
+      "Singapore Blockchain Week (SBW)"
+    ],
+    "organizer": {
+      "type": "Organization",
+      "name": "SINGAPORE BLOCKCHAIN WEEK (OFFICIAL)",
+      "url": "https://www.singaporeblockchainweek.org/"
+    },
+    "price": "Free",
+    "approvalRequired": false,
+    "ticketOffers": [
+      {
+        "name": "Standard",
+        "url": "https://luma.com/dd8728yc",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/dd8728yc",
+      "eventId": "evt-1wE8LVXclyqhzEW",
+      "fetchedAt": "2026-09-29T19:48:09.299Z",
+      "method": "luma-api"
+    },
+    "slug": "web3tv-interview",
+    "source": "token2049-verified",
+    "sideEventFor": [
+      "token2049"
+    ],
+    "token2049SideEvent": true,
+    "descriptionSource": {
+      "url": "https://luma.com/dd8728yc",
+      "fetchedAt": "2026-09-29T19:48:09.299Z",
+      "method": "matched-organizer-record",
+      "pageTitle": "Web3TV Interview Feature With Singapore Blockchain Week",
+      "sha256": "1e3821d3897407801cc4d36ed36b04e8cec2fae00303b0fc9062dc1a50bc22db",
+      "evidence": [
+        {
+          "url": "https://luma.com/dd8728yc",
+          "fetchedAt": "2026-09-29T19:48:09.299Z",
+          "sha256": "be65894378b32b5613101964de9517d47652babd1b6d17cd73d98ba37740973f"
+        }
+      ]
+    }
+  },
+  {
+    "id": "token2049-evt-kt7ZI4H2Gn4m4Ql",
+    "name": "AI & Web3 Networking Heist",
+    "description": "AI & Web3 Networking Heist is scheduled for 5 October 2026 at 11:00 (Asia/Singapore) in Singapore. Hosted by Divyesh Gupta.\n\nAI & Web3 Networking Heist brings together founders, entrepreneurs, builders, investors, developers, and technology leaders to discuss what’s being built, what’s changing, and where AI and Web3 are heading next.\n\nRegistration requires host approval. Registration is listed as free.",
+    "startDate": "2026-10-05T03:00:00.000Z",
+    "location": "Foura (Gardens By The Bay), 18 Marina Gardens Dr, #01-23 IMBA Theatre, Singapore 018953",
+    "url": "https://luma.com/bg9x3kjw",
+    "registrationUrl": "https://luma.com/bg9x3kjw",
+    "coverImage": "/events/token2049-evt-kt7zi4h2gn4m4ql-ba576ec8.webp",
+    "endDate": "2026-10-05T05:00:00.000Z",
+    "timezone": "Asia/Singapore",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": false,
+    "city": "Singapore",
+    "country": "Singapore",
+    "venueName": "Foura (Gardens By The Bay)",
+    "streetAddress": "18 Marina Gardens Dr, #01-23 IMBA Theatre, Singapore",
+    "addressLocality": "Singapore",
+    "addressCountry": "SG",
+    "neighborhood": "Central Area",
+    "coordinates": {
+      "latitude": 1.283323,
+      "longitude": 103.86213869999999
+    },
+    "hosts": [
+      "Divyesh Gupta"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "Standard",
+        "url": "https://luma.com/bg9x3kjw",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/bg9x3kjw",
+      "eventId": "evt-kt7ZI4H2Gn4m4Ql",
+      "fetchedAt": "2026-09-29T19:48:10.434Z",
+      "method": "luma-api"
+    },
+    "slug": "ai-web3",
+    "source": "token2049-verified",
+    "sideEventFor": [
+      "token2049"
+    ],
+    "token2049SideEvent": true,
+    "descriptionSource": {
+      "url": "https://luma.com/bg9x3kjw",
+      "fetchedAt": "2026-09-29T19:48:10.434Z",
+      "method": "matched-organizer-record",
+      "pageTitle": "AI & Web3 Networking Heist",
+      "sha256": "fe2135b97698334099f5e56742ccd1d71f6dd411d150fbaedb878ca78d967eaf",
+      "evidence": [
+        {
+          "url": "https://luma.com/bg9x3kjw",
+          "fetchedAt": "2026-09-29T19:48:10.434Z",
+          "sha256": "2718b6eaf1d33a5986f9393ad6094c499669cf69e108821b2776cb329e760b29"
+        }
+      ]
+    }
+  },
+  {
+    "id": "token2049-evt-l6VxEQChCjUfTXe",
+    "name": "Capital & Institutions Cocktail | Singapore 2026",
+    "description": "Capital & Institutions Cocktail | Singapore 2026 is scheduled for 5 October 2026 at 16:30 (Asia/Singapore) in Singapore. Hosted by SevenX Ventures.\n\nIf you need a badge scan and a panel recap, this is the wrong evening.\n\nWe stop at 20:00, before the yacht circuit and Afterdark take the rest of the night.\n\nRegistration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.",
+    "startDate": "2026-10-05T08:30:00.000Z",
+    "location": "Singapore, Singapore",
+    "url": "https://luma.com/v8dfyohz",
+    "registrationUrl": "https://luma.com/v8dfyohz",
+    "coverImage": "/events/token2049-evt-l6vxeqchcjuftxe-e5c4da70.webp",
+    "endDate": "2026-10-05T12:00:00.000Z",
+    "timezone": "Asia/Singapore",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": true,
+    "city": "Singapore",
+    "country": "Singapore",
+    "hosts": [
+      "SevenX Ventures"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "Standard",
+        "url": "https://luma.com/v8dfyohz",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/v8dfyohz",
+      "eventId": "evt-l6VxEQChCjUfTXe",
+      "fetchedAt": "2026-09-29T19:48:12.854Z",
+      "method": "luma-api"
+    },
+    "slug": "capital-institutions",
+    "source": "token2049-verified",
+    "sideEventFor": [
+      "token2049"
+    ],
+    "token2049SideEvent": true,
+    "descriptionSource": {
+      "url": "https://luma.com/v8dfyohz",
+      "fetchedAt": "2026-09-29T19:48:12.854Z",
+      "method": "matched-organizer-record",
+      "pageTitle": "Capital & Institutions Cocktail | Singapore 2026",
+      "sha256": "58f4805290ac5d82cecd37e2412fca753597911bda0409110062cfb97a14c63d",
+      "evidence": [
+        {
+          "url": "https://luma.com/v8dfyohz",
+          "fetchedAt": "2026-09-29T19:48:12.854Z",
+          "sha256": "272a0e7329af214fbe6fb4b30f84ab5b291c5180c9135092880151b4d276dd2a"
+        }
+      ]
+    }
+  },
+  {
+    "id": "token2049-evt-MZWpiAUlsluAl2m",
+    "name": "Lights Out. Singapore After Hours",
+    "description": "Lights Out. Singapore After Hours is scheduled for 5 October 2026 at 20:00 (Asia/Singapore) in Singapore. Hosted by Figment Capital.\n\nFigment Capital is putting together a short list of founders, operators, and investors who landed for TOKEN2049 and still have something left to say after dinner.\n\nDrinks, a few hours, and the kind of conversation that only happens when the rest of the calendar has already taken the noise.\n\nRegistration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.",
+    "startDate": "2026-10-05T12:00:00.000Z",
+    "location": "Singapore, Singapore",
+    "url": "https://luma.com/t98zcuew",
+    "registrationUrl": "https://luma.com/t98zcuew",
+    "coverImage": "/events/token2049-evt-mzwpiaulslual2m-113c74b9.webp",
+    "endDate": "2026-10-05T15:00:00.000Z",
+    "timezone": "Asia/Singapore",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": true,
+    "city": "Singapore",
+    "country": "Singapore",
+    "hosts": [
+      "Figment Capital"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "Standard",
+        "url": "https://luma.com/t98zcuew",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/t98zcuew",
+      "eventId": "evt-MZWpiAUlsluAl2m",
+      "fetchedAt": "2026-09-29T19:48:12.865Z",
+      "method": "luma-api"
+    },
+    "slug": "lights-out",
+    "source": "token2049-verified",
+    "sideEventFor": [
+      "token2049"
+    ],
+    "token2049SideEvent": true,
+    "descriptionSource": {
+      "url": "https://luma.com/t98zcuew",
+      "fetchedAt": "2026-09-29T19:48:12.865Z",
+      "method": "matched-organizer-record",
+      "pageTitle": "Lights Out. Singapore After Hours",
+      "sha256": "d21858e51087ac44b0bb1e4ebb308ff35ec9d84477275884b763d717da87118e",
+      "evidence": [
+        {
+          "url": "https://luma.com/t98zcuew",
+          "fetchedAt": "2026-09-29T19:48:12.865Z",
+          "sha256": "93623036d4cc8f40c2edb9d80dd76931fe76daf3bb0334e1f1d40abd1cf8276d"
+        }
+      ]
+    }
+  },
+  {
+    "id": "token2049-evt-8qUHoMKm0ztWf4t",
+    "name": "Beyond the Vaults at TOKEN2049: Treehouse x Lido (Session 1)",
+    "description": "Beyond the Vaults at TOKEN2049: Treehouse x Lido (Session 1) is scheduled for 8 October 2026 at 10:00 (Asia/Singapore) in Singapore. Hosted by Treehouse.\n\nCo-hosted by Treehouse and Lido, this special session invites guests inside Le Freeport for a rare look beyond the vault doors during TOKEN2049 week.\n\nThe journey concludes with food, drinks and conversation in a private setting inside Le Freeport.\n\nRegistration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.",
+    "startDate": "2026-10-08T02:00:00.000Z",
+    "location": "Singapore, Singapore",
+    "url": "https://luma.com/mtccmiud",
+    "registrationUrl": "https://luma.com/mtccmiud",
+    "coverImage": "/events/token2049-evt-8quhomkm0ztwf4t-9fd96ab7.webp",
+    "endDate": "2026-10-08T04:30:00.000Z",
+    "timezone": "Asia/Singapore",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": true,
+    "city": "Singapore",
+    "country": "Singapore",
+    "hosts": [
+      "Treehouse"
+    ],
+    "organizer": {
+      "type": "Organization",
+      "name": "Treehouse Token2049 Calendar 2026",
+      "url": "https://www.treehouse.finance/"
+    },
+    "price": "Free",
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "Standard",
+        "url": "https://luma.com/mtccmiud",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/mtccmiud",
+      "eventId": "evt-8qUHoMKm0ztWf4t",
+      "fetchedAt": "2026-09-29T19:48:15.035Z",
+      "method": "luma-api"
+    },
+    "slug": "beyond-vaults",
+    "source": "token2049-verified",
+    "sideEventFor": [
+      "token2049"
+    ],
+    "token2049SideEvent": true,
+    "descriptionSource": {
+      "url": "https://luma.com/mtccmiud",
+      "fetchedAt": "2026-09-29T19:48:15.035Z",
+      "method": "matched-organizer-record",
+      "pageTitle": "Beyond the Vaults at TOKEN2049: Treehouse x Lido (Session 1)",
+      "sha256": "40a05f8a8d992ac0a2b310b61a57054c12cb31b809568721220fba95dd52456a",
+      "evidence": [
+        {
+          "url": "https://luma.com/mtccmiud",
+          "fetchedAt": "2026-09-29T19:48:15.035Z",
+          "sha256": "6b2b9bf2987fd95b5a80be258273b9bd152349fe0d40f79ad6784ba1b0f838e9"
+        }
+      ]
+    }
+  },
+  {
+    "id": "token2049-evt-PO5I7AV6nBuFZZ9",
+    "name": "Gibson Dunn x Hex Trust - Where the Market Meets",
+    "description": "Gibson Dunn x Hex Trust - Where the Market Meets is scheduled for 8 October 2026 at 17:00 (Asia/Singapore) in Singapore. Hosted by Hex Trust.\n\nRegistration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.",
+    "startDate": "2026-10-08T09:00:00.000Z",
+    "location": "Singapore, Singapore",
+    "url": "https://luma.com/doe6n7iq",
+    "registrationUrl": "https://luma.com/doe6n7iq",
+    "coverImage": "/events/token2049-evt-po5i7av6nbufzz9-5f859f72.webp",
+    "endDate": "2026-10-08T11:00:00.000Z",
+    "timezone": "Asia/Singapore",
+    "attendanceMode": "offline",
+    "visibility": "private",
+    "locationHidden": true,
+    "city": "Singapore",
+    "country": "Singapore",
+    "hosts": [
+      "Hex Trust"
+    ],
+    "organizer": {
+      "type": "Organization",
+      "name": "Hex Trust Events",
+      "url": "https://www.hextrust.com/"
+    },
+    "price": "Free",
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "Hex Trust",
+        "url": "https://luma.com/doe6n7iq",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/doe6n7iq",
+      "eventId": "evt-PO5I7AV6nBuFZZ9",
+      "fetchedAt": "2026-09-29T19:48:15.029Z",
+      "method": "luma-api"
+    },
+    "slug": "gibson-dunn",
+    "source": "token2049-verified",
+    "sideEventFor": [
+      "token2049"
+    ],
+    "token2049SideEvent": true,
+    "descriptionSource": {
+      "url": "https://luma.com/doe6n7iq",
+      "fetchedAt": "2026-09-29T19:48:15.029Z",
+      "method": "matched-organizer-record",
+      "pageTitle": "Gibson Dunn x Hex Trust - Where the Market Meets",
+      "sha256": "57d946de2003134d9d53f801321ac5b433d8a30b88a24568fbc2cc87b7bff71e",
+      "evidence": [
+        {
+          "url": "https://luma.com/doe6n7iq",
+          "fetchedAt": "2026-09-29T19:48:15.029Z",
+          "sha256": "9387a3a7a73b358e48f02ab9ee6cd4bf921fc1f51567a56a70cb8ad1d0861cfe"
+        }
+      ]
+    }
+  },
+  {
+    "id": "token2049-evt-Ss5Dckd2OmqS78U",
+    "name": "Beyond the Vaults at TOKEN2049: Treehouse x Lido (Session 2)",
+    "description": "Beyond the Vaults at TOKEN2049: Treehouse x Lido (Session 2) is scheduled for 8 October 2026 at 13:00 (Asia/Singapore) in Singapore. Hosted by Treehouse.\n\nCo-hosted by Treehouse and Lido, this special session invites guests inside Le Freeport for a rare look beyond the vault doors during TOKEN2049 week.\n\nThe journey concludes with food, drinks and conversation in a private setting inside Le Freeport.\n\nRegistration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.",
+    "startDate": "2026-10-08T05:00:00.000Z",
+    "location": "Singapore, Singapore",
+    "url": "https://luma.com/ws5i4di2",
+    "registrationUrl": "https://luma.com/ws5i4di2",
+    "coverImage": "/events/token2049-evt-ss5dckd2omqs78u-8ed344c0.webp",
+    "endDate": "2026-10-08T07:30:00.000Z",
+    "timezone": "Asia/Singapore",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": true,
+    "city": "Singapore",
+    "country": "Singapore",
+    "hosts": [
+      "Treehouse"
+    ],
+    "organizer": {
+      "type": "Organization",
+      "name": "Treehouse Token2049 Calendar 2026",
+      "url": "https://www.treehouse.finance/"
+    },
+    "price": "Free",
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "Standard",
+        "url": "https://luma.com/ws5i4di2",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/ws5i4di2",
+      "eventId": "evt-Ss5Dckd2OmqS78U",
+      "fetchedAt": "2026-09-29T19:48:15.684Z",
+      "method": "luma-api"
+    },
+    "slug": "bvt",
+    "source": "token2049-verified",
+    "sideEventFor": [
+      "token2049"
+    ],
+    "token2049SideEvent": true,
+    "descriptionSource": {
+      "url": "https://luma.com/ws5i4di2",
+      "fetchedAt": "2026-09-29T19:48:15.684Z",
+      "method": "matched-organizer-record",
+      "pageTitle": "Beyond the Vaults at TOKEN2049: Treehouse x Lido (Session 2)",
+      "sha256": "d06435bb2a6df27e61e75abeb13e5933924b40fbe275ba50800fb8e86857b848",
+      "evidence": [
+        {
+          "url": "https://luma.com/ws5i4di2",
+          "fetchedAt": "2026-09-29T19:48:15.684Z",
+          "sha256": "a7a31f152afed937a1b513aac50cc729e2a9f17bdd9565694cbdced3603e76de"
+        }
+      ]
+    }
+  },
+  {
+    "id": "token2049-evt-bOMXGgozqRSjbRM",
+    "name": "TOKEN2049 VIP Mixer, hosted by Exodus, Meow, Unlimit and Banxa",
+    "description": "TOKEN2049 VIP Mixer, hosted by Exodus, Meow, Unlimit and Banxa is scheduled for 8 October 2026 at 18:00 (Asia/Singapore) in Singapore. Hosted by Pascal Kurzawa, BANXA, Max OSL, Dustin Kamali.\n\nNo stage, no slides, no panel, and nobody working a deck between drinks.\n\nAttendance is limited and subject to approval.\n\nRegistration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.",
+    "startDate": "2026-10-08T10:00:00.000Z",
+    "location": "Singapore, Singapore",
+    "url": "https://luma.com/4zjlx5m6",
+    "registrationUrl": "https://luma.com/4zjlx5m6",
+    "coverImage": "/events/token2049-evt-bomxggozqrsjbrm-2252bad1.webp",
+    "endDate": "2026-10-08T13:00:00.000Z",
+    "timezone": "Asia/Singapore",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": true,
+    "city": "Singapore",
+    "country": "Singapore",
+    "hosts": [
+      "Pascal Kurzawa",
+      "BANXA",
+      "Max OSL",
+      "Dustin Kamali"
+    ],
+    "organizer": {
+      "type": "Organization",
+      "name": "Crypto Events"
+    },
+    "price": "Free",
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "General admission",
+        "url": "https://luma.com/4zjlx5m6",
+        "price": 0,
+        "availability": "InStock"
+      },
+      {
+        "name": "VIP (invite-only)",
+        "url": "https://luma.com/4zjlx5m6",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/4zjlx5m6",
+      "eventId": "evt-bOMXGgozqRSjbRM",
+      "fetchedAt": "2026-09-29T19:48:16.615Z",
+      "method": "luma-api"
+    },
+    "slug": "tvmhemub",
+    "source": "token2049-verified",
+    "sideEventFor": [
+      "token2049"
+    ],
+    "token2049SideEvent": true,
+    "descriptionSource": {
+      "url": "https://luma.com/4zjlx5m6",
+      "fetchedAt": "2026-09-29T19:48:16.615Z",
+      "method": "matched-organizer-record",
+      "pageTitle": "TOKEN2049 VIP Mixer, hosted by Exodus, Meow, Unlimit and Banxa",
+      "sha256": "ca812dc29f41579bf7fe64754a21d3f93551f667719faa953501aae546a64d08",
+      "evidence": [
+        {
+          "url": "https://luma.com/4zjlx5m6",
+          "fetchedAt": "2026-09-29T19:48:16.615Z",
+          "sha256": "799c9dd84acb94b063ced4ea58d8d3a108a2b63baee92fba28e205357f890468"
+        }
+      ]
+    }
+  },
+  {
+    "id": "token2049-evt-UB8bUXBPsTedwPi",
+    "name": "AI For Everyone Forum",
+    "description": "AI For Everyone Forum is scheduled for 9 October 2026 at 10:00 (Asia/Singapore) in Singapore. Hosted by Singapore Innovation Centre.\n\nRegistration is listed as free.",
+    "startDate": "2026-10-09T02:00:00.000Z",
+    "location": "*SCAPE, 2 Orchard Link, Singapore 237978",
+    "url": "https://luma.com/ak8p4133",
+    "registrationUrl": "https://luma.com/ak8p4133",
+    "coverImage": "/events/token2049-evt-ub8buxbpstedwpi-557e7946.webp",
+    "endDate": "2026-10-09T14:00:00.000Z",
+    "timezone": "Asia/Singapore",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": false,
+    "city": "Singapore",
+    "country": "Singapore",
+    "venueName": "*SCAPE",
+    "addressLocality": "Singapore",
+    "addressCountry": "SG",
+    "neighborhood": "Orchard",
+    "coordinates": {
+      "latitude": 1.301062,
+      "longitude": 103.83565619999999
+    },
+    "hosts": [
+      "Singapore Innovation Centre"
+    ],
+    "organizer": {
+      "type": "Organization",
+      "name": "SINGAPORE BLOCKCHAIN WEEK (OFFICIAL)",
+      "url": "https://www.singaporeblockchainweek.org/"
+    },
+    "price": "Free",
+    "approvalRequired": false,
+    "ticketOffers": [
+      {
+        "name": "Standard",
+        "url": "https://luma.com/ak8p4133",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/ak8p4133",
+      "eventId": "evt-UB8bUXBPsTedwPi",
+      "fetchedAt": "2026-09-29T19:48:17.258Z",
+      "method": "luma-api"
+    },
+    "slug": "aef",
+    "source": "token2049-verified",
+    "sideEventFor": [
+      "token2049"
+    ],
+    "token2049SideEvent": true,
+    "descriptionSource": {
+      "url": "https://luma.com/ak8p4133",
+      "fetchedAt": "2026-09-29T19:48:17.258Z",
+      "method": "matched-organizer-record",
+      "pageTitle": "AI For Everyone Forum",
+      "sha256": "9374002a054b3ec6454cfac5bf9c94aa1a9577dbb0f244949b4721edeb789c6b",
+      "evidence": [
+        {
+          "url": "https://luma.com/ak8p4133",
+          "fetchedAt": "2026-09-29T19:48:17.258Z",
+          "sha256": "013a6f5ca19949a40533c7c237e157cd38602a00f6ca104c75f1f7171e10d2df"
+        }
+      ]
+    }
+  },
+  {
+    "id": "token2049-evt-11UjwIio5yIlJQL",
+    "name": "Formula 1 After Party",
+    "description": "Formula 1 After Party is scheduled for 9 October 2026 at 15:00 (Asia/Singapore) in Singapore. Hosted by Magnum Meta.\n\nRegistration requires host approval. Registration is listed as free.",
+    "startDate": "2026-10-09T07:00:00.000Z",
+    "location": "Marina Bay Cruise Centre Singapore, 61 Marina Coastal Dr, Singapore 018947",
+    "url": "https://luma.com/golp36tb",
+    "registrationUrl": "https://luma.com/golp36tb",
+    "coverImage": "/events/token2049-evt-11ujwiio5yiljql-be2a9d6a.webp",
+    "endDate": "2026-10-09T15:00:00.000Z",
+    "timezone": "Asia/Singapore",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": false,
+    "city": "Singapore",
+    "country": "Singapore",
+    "venueName": "Marina Bay Cruise Centre Singapore",
+    "streetAddress": "61 Marina Coastal Dr, Singapore",
+    "addressLocality": "Singapore",
+    "addressCountry": "SG",
+    "coordinates": {
+      "latitude": 1.2667382999999999,
+      "longitude": 103.8602571
+    },
+    "hosts": [
+      "Magnum Meta"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "Standard",
+        "url": "https://luma.com/golp36tb",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/golp36tb",
+      "eventId": "evt-11UjwIio5yIlJQL",
+      "fetchedAt": "2026-09-29T19:48:17.269Z",
+      "method": "luma-api"
+    },
+    "slug": "formula-after",
+    "source": "token2049-verified",
+    "sideEventFor": [
+      "token2049"
+    ],
+    "token2049SideEvent": true,
+    "descriptionSource": {
+      "url": "https://luma.com/golp36tb",
+      "fetchedAt": "2026-09-29T19:48:17.269Z",
+      "method": "matched-organizer-record",
+      "pageTitle": "Formula 1 After Party",
+      "sha256": "b1d58b1162684dd3dcfa340668e0efcee011a4b6b668c2283acce94bec4ece32",
+      "evidence": [
+        {
+          "url": "https://luma.com/golp36tb",
+          "fetchedAt": "2026-09-29T19:48:17.269Z",
+          "sha256": "fc14f435cba4bea5b70c615c1c77593e5457d4231cd6d1af3756b85e62364de6"
+        }
+      ]
+    }
+  },
+  {
+    "id": "token2049-evt-THbX6mWdMqmHq0b",
+    "name": "Crypto VC & Investment Roundtable",
+    "description": "Crypto VC & Investment Roundtable is scheduled for 9 October 2026 at 17:00 (Asia/Singapore) in Singapore. Hosted by Singularity Finance.\n\nRegistration requires host approval. Registration is listed as free.",
+    "startDate": "2026-10-09T09:00:00.000Z",
+    "location": "Marina Bay Sands Singapore, 10 Bayfront Ave, Singapore 018956",
+    "url": "https://luma.com/d9m7ndn1",
+    "registrationUrl": "https://luma.com/d9m7ndn1",
+    "coverImage": "/events/token2049-evt-thbx6mwdmqmhq0b-0697140a.webp",
+    "endDate": "2026-10-09T15:00:00.000Z",
+    "timezone": "Asia/Singapore",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": false,
+    "city": "Singapore",
+    "country": "Singapore",
+    "venueName": "Marina Bay Sands Singapore",
+    "streetAddress": "10 Bayfront Ave, Singapore",
+    "addressLocality": "Singapore",
+    "addressCountry": "SG",
+    "neighborhood": "Downtown Core",
+    "coordinates": {
+      "latitude": 1.2837574999999999,
+      "longitude": 103.8591065
+    },
+    "hosts": [
+      "Singularity Finance"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "Standard",
+        "url": "https://luma.com/d9m7ndn1",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/d9m7ndn1",
+      "eventId": "evt-THbX6mWdMqmHq0b",
+      "fetchedAt": "2026-09-29T19:48:17.942Z",
+      "method": "luma-api"
+    },
+    "slug": "crypto-vc",
+    "source": "token2049-verified",
+    "sideEventFor": [
+      "token2049"
+    ],
+    "token2049SideEvent": true,
+    "descriptionSource": {
+      "url": "https://luma.com/d9m7ndn1",
+      "fetchedAt": "2026-09-29T19:48:17.942Z",
+      "method": "matched-organizer-record",
+      "pageTitle": "Crypto VC & Investment Roundtable",
+      "sha256": "a4e12f77c7405748bda606a99776a699b0562e9c4a9b4a8728ba906def5cfa95",
+      "evidence": [
+        {
+          "url": "https://luma.com/d9m7ndn1",
+          "fetchedAt": "2026-09-29T19:48:17.942Z",
+          "sha256": "d56d0d09f6c1fe884431841aa7c18e9335907097450ca1799b2d6d90b8fae1e9"
+        }
+      ]
+    }
+  },
+  {
+    "id": "token2049-evt-z7Av1XwAUIE4BG4",
+    "name": "F1 Watch Party — Singapore 🇸🇬🏎️",
+    "description": "F1 Watch Party — Singapore 🇸🇬🏎️ is scheduled for 10 October 2026 at 15:00 (Asia/Singapore) in Singapore. Hosted by Blockchain Expo.\n\nRegistration requires host approval. Registration is listed as free.",
+    "startDate": "2026-10-10T07:00:00.000Z",
+    "location": "Marina Bay Street Circuit, Marina Bay, 1 Republic Blvd, Singapore 038975",
+    "url": "https://luma.com/jxrnlqry",
+    "registrationUrl": "https://luma.com/jxrnlqry",
+    "coverImage": "/events/token2049-evt-z7av1xwauie4bg4-cf22ac1b.webp",
+    "endDate": "2026-10-10T15:30:00.000Z",
+    "timezone": "Asia/Singapore",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": false,
+    "city": "Singapore",
+    "country": "Singapore",
+    "venueName": "Marina Bay Street Circuit",
+    "streetAddress": "Marina Bay, 1 Republic Blvd, Singapore",
+    "addressLocality": "Singapore",
+    "addressCountry": "SG",
+    "neighborhood": "Downtown Core",
+    "coordinates": {
+      "latitude": 1.2914318999999999,
+      "longitude": 103.8639097
+    },
+    "hosts": [
+      "Blockchain Expo"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "Standard",
+        "url": "https://luma.com/jxrnlqry",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/jxrnlqry",
+      "eventId": "evt-z7Av1XwAUIE4BG4",
+      "fetchedAt": "2026-09-29T19:48:17.925Z",
+      "method": "luma-api"
+    },
+    "slug": "f1-watch",
+    "source": "token2049-verified",
+    "sideEventFor": [
+      "token2049"
+    ],
+    "token2049SideEvent": true,
+    "descriptionSource": {
+      "url": "https://luma.com/jxrnlqry",
+      "fetchedAt": "2026-09-29T19:48:17.925Z",
+      "method": "matched-organizer-record",
+      "pageTitle": "F1 Watch Party — Singapore 🇸🇬🏎️",
+      "sha256": "266d5769671ee534fe83cedd2155e0deebc1d0c95fdbe00df5192c890091020c",
+      "evidence": [
+        {
+          "url": "https://luma.com/jxrnlqry",
+          "fetchedAt": "2026-09-29T19:48:17.925Z",
+          "sha256": "2ceaba74ff7f15836a96d8503f0267d7dcf3d5547891cf8c09bb2f182e422808"
+        }
+      ]
+    }
+  },
+  {
+    "id": "token2049-evt-6VKAwtDjFMzwrkx",
+    "name": "F1 Watch Party With Joe",
+    "description": "F1 Watch Party With Joe is scheduled for 11 October 2026 at 14:30 (Asia/Singapore) in Singapore. Hosted by Joe Saward.\n\nUnmatched Atmosphere: Drinks, music, and panoramic skyline views from our private penthouse.\n\nRegistration requires host approval. Registration is listed as free.",
+    "startDate": "2026-10-11T06:30:00.000Z",
+    "location": "Marina Bay Cruise Centre Singapore, 61 Marina Coastal Dr, Singapore 018947",
+    "url": "https://luma.com/zgtinqk2",
+    "registrationUrl": "https://luma.com/zgtinqk2",
+    "coverImage": "/events/token2049-evt-6vkawtdjfmzwrkx-1c85c2e6.webp",
+    "endDate": "2026-10-11T15:30:00.000Z",
+    "timezone": "Asia/Singapore",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": false,
+    "city": "Singapore",
+    "country": "Singapore",
+    "venueName": "Marina Bay Cruise Centre Singapore",
+    "streetAddress": "61 Marina Coastal Dr, Singapore",
+    "addressLocality": "Singapore",
+    "addressCountry": "SG",
+    "coordinates": {
+      "latitude": 1.2667382999999999,
+      "longitude": 103.8602571
+    },
+    "hosts": [
+      "Joe Saward"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "Standard",
+        "url": "https://luma.com/zgtinqk2",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/zgtinqk2",
+      "eventId": "evt-6VKAwtDjFMzwrkx",
+      "fetchedAt": "2026-09-29T19:48:18.654Z",
+      "method": "luma-api"
+    },
+    "slug": "fwpj",
+    "source": "token2049-verified",
+    "sideEventFor": [
+      "token2049"
+    ],
+    "token2049SideEvent": true,
+    "descriptionSource": {
+      "url": "https://luma.com/zgtinqk2",
+      "fetchedAt": "2026-09-29T19:48:18.654Z",
+      "method": "matched-organizer-record",
+      "pageTitle": "F1 Watch Party With Joe",
+      "sha256": "662b52384ab05db5c6b5c573f88f361e4873fb8ea7e124a9053bcabd027be489",
+      "evidence": [
+        {
+          "url": "https://luma.com/zgtinqk2",
+          "fetchedAt": "2026-09-29T19:48:18.654Z",
+          "sha256": "9ad5d7122573b63e08a6c93daebf512bf6d573bde57eabb244746d7770447b75"
+        }
+      ]
+    }
+  },
+  {
+    "id": "token2049-evt-8bYL1LTHyZTjOaC",
+    "name": "F1 Watch Party — Singapore Race Day",
+    "description": "F1 Watch Party — Singapore Race Day is scheduled for 11 October 2026 at 15:00 (Asia/Singapore) in Singapore. Hosted by Blockchain Expo.\n\nRegistration requires host approval. Registration is listed as free.",
+    "startDate": "2026-10-11T07:00:00.000Z",
+    "location": "Marina Bay Street Circuit, Marina Bay, 1 Republic Blvd, Singapore 038975",
+    "url": "https://luma.com/png06ixj",
+    "registrationUrl": "https://luma.com/png06ixj",
+    "coverImage": "/events/token2049-evt-8byl1lthyztjoac-df8866b4.webp",
+    "endDate": "2026-10-11T15:30:00.000Z",
+    "timezone": "Asia/Singapore",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": false,
+    "city": "Singapore",
+    "country": "Singapore",
+    "venueName": "Marina Bay Street Circuit",
+    "streetAddress": "Marina Bay, 1 Republic Blvd, Singapore",
+    "addressLocality": "Singapore",
+    "addressCountry": "SG",
+    "neighborhood": "Downtown Core",
+    "coordinates": {
+      "latitude": 1.2914318999999999,
+      "longitude": 103.8639097
+    },
+    "hosts": [
+      "Blockchain Expo"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "Standard",
+        "url": "https://luma.com/png06ixj",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/png06ixj",
+      "eventId": "evt-8bYL1LTHyZTjOaC",
+      "fetchedAt": "2026-09-29T19:48:19.303Z",
+      "method": "luma-api"
+    },
+    "slug": "fwprd",
+    "source": "token2049-verified",
+    "sideEventFor": [
+      "token2049"
+    ],
+    "token2049SideEvent": true,
+    "descriptionSource": {
+      "url": "https://luma.com/png06ixj",
+      "fetchedAt": "2026-09-29T19:48:19.303Z",
+      "method": "matched-organizer-record",
+      "pageTitle": "F1 Watch Party — Singapore Race Day",
+      "sha256": "c172a31f9f7d7a25dad9d2189b8ffe9361e9c0c4151879c9d4fe1e4522bdd364",
+      "evidence": [
+        {
+          "url": "https://luma.com/png06ixj",
+          "fetchedAt": "2026-09-29T19:48:19.303Z",
+          "sha256": "268e9e86c9786d93be2ac8175e5feb0ba6f26b6eac89765a3c13a83efd86c853"
+        }
+      ]
+    }
+  },
+  {
+    "id": "token2049-evt-XYkkHo9ggZROsdv",
+    "name": "Crypto Expo SG x F1 Singapore GP",
+    "description": "Crypto Expo SG x F1 Singapore GP is scheduled for 11 October 2026 at 15:30 (Asia/Singapore) in Singapore. Hosted by Crypto Expo Singapore.\n\nBring your network, your curiosity and your appetite for a good night.\n\nRegistration requires host approval. Registration is listed as free.",
+    "startDate": "2026-10-11T07:30:00.000Z",
+    "location": "Marina Bay Cruise Centre Singapore, 61 Marina Coastal Dr, Singapore 018947",
+    "url": "https://luma.com/wewl4yec",
+    "registrationUrl": "https://luma.com/wewl4yec",
+    "coverImage": "/events/token2049-evt-xykkho9ggzrosdv-82cf72b3.webp",
+    "endDate": "2026-10-11T14:30:00.000Z",
+    "timezone": "Asia/Singapore",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": false,
+    "city": "Singapore",
+    "country": "Singapore",
+    "venueName": "Marina Bay Cruise Centre Singapore",
+    "streetAddress": "61 Marina Coastal Dr, Singapore",
+    "addressLocality": "Singapore",
+    "addressCountry": "SG",
+    "coordinates": {
+      "latitude": 1.2667382999999999,
+      "longitude": 103.8602571
+    },
+    "hosts": [
+      "Crypto Expo Singapore"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "Standard",
+        "url": "https://luma.com/wewl4yec",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/wewl4yec",
+      "eventId": "evt-XYkkHo9ggZROsdv",
+      "fetchedAt": "2026-09-29T19:48:19.333Z",
+      "method": "luma-page"
+    },
+    "slug": "crypto-expo",
+    "source": "token2049-verified",
+    "sideEventFor": [
+      "token2049"
+    ],
+    "token2049SideEvent": true,
+    "descriptionSource": {
+      "url": "https://luma.com/wewl4yec",
+      "fetchedAt": "2026-09-29T19:48:19.333Z",
+      "method": "matched-organizer-record",
+      "pageTitle": "Crypto Expo SG x F1 Singapore GP",
+      "sha256": "bd182a7fd7f9991736d87154d88f94ed0b12e808179db63f84f8dfe07c681b5f",
+      "evidence": [
+        {
+          "url": "https://luma.com/wewl4yec",
+          "fetchedAt": "2026-09-29T19:48:19.333Z",
+          "sha256": "a18cf4aeb673e1b76ac9be55e3c9597c018e436a65270d8f56555de22e6f1558"
+        }
+      ]
+    }
+  },
+  {
+    "id": "token2049-evt-gr16JoC3CTHILn8",
+    "name": "Polymarket Perps | Dinner Token2049",
+    "description": "Polymarket Perps | Dinner Token2049 is scheduled for 8 October 2026 at 19:00 (Asia/Singapore) in Singapore. Hosted by Christine Fang, Brooke Rizzetto.\n\nThe organizer shares the exact location with approved guests. Registration is listed as free.",
+    "startDate": "2026-10-08T11:00:00.000Z",
+    "location": "Singapore, Singapore",
+    "url": "https://luma.com/xsh80228",
+    "registrationUrl": "https://luma.com/xsh80228",
+    "coverImage": "/events/token2049-evt-gr16joc3cthiln8-901fa9d7.webp",
+    "endDate": "2026-10-08T13:00:00.000Z",
+    "timezone": "Asia/Singapore",
+    "attendanceMode": "offline",
+    "visibility": "private",
+    "locationHidden": true,
+    "city": "Singapore",
+    "country": "Singapore",
+    "hosts": [
+      "Christine Fang",
+      "Brooke Rizzetto"
+    ],
+    "price": "Free",
+    "approvalRequired": false,
+    "ticketOffers": [
+      {
+        "name": "Standard",
+        "url": "https://luma.com/xsh80228",
+        "price": 0,
+        "availability": "SoldOut"
+      }
+    ],
+    "registrationAvailability": "waitlist",
+    "sourceVerification": {
+      "url": "https://luma.com/xsh80228",
+      "eventId": "evt-gr16JoC3CTHILn8",
+      "fetchedAt": "2026-09-29T19:48:22.117Z",
+      "method": "luma-page"
+    },
+    "slug": "polymarket-perps",
+    "source": "token2049-verified",
+    "sideEventFor": [
+      "token2049"
+    ],
+    "token2049SideEvent": true,
+    "descriptionSource": {
+      "url": "https://luma.com/xsh80228",
+      "fetchedAt": "2026-09-29T19:48:22.117Z",
+      "method": "matched-organizer-record",
+      "pageTitle": "Polymarket Perps | Dinner Token2049",
+      "sha256": "ec0be40c4b45d0363876ce387463eea1e1d45eff074ea18c0c191777913f8eb7",
+      "evidence": [
+        {
+          "url": "https://luma.com/xsh80228",
+          "fetchedAt": "2026-09-29T19:48:22.117Z",
+          "sha256": "e8024df47734c57cd1af1da788608790295e035a9505f414a3351b8661fcdfb6"
+        }
+      ]
+    }
   }
 ]
