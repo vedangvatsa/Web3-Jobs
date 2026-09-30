@@ -1,5 +1,5 @@
 {
-  "lastIndex": 304,
+  "lastIndex": 306,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -119,7 +119,9 @@
     "cmp57",
     "sls162",
     "pm126",
-    "eng188"
+    "eng188",
+    "eng333",
+    "mgr55"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -4634,516 +4636,6 @@
       "platform": "instagram",
       "postedAt": "2026-09-25T03:51:22.563Z",
       "postId": "18449861734120522",
-      "verification": "verified"
-    },
-    {
-      "slug": "analyst30",
-      "company": "Nexo",
-      "title": "Senior BI Analyst",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T22:26:54.703Z",
-      "postId": "0x2ab9b20100cc016545837934fa6e3f9b4f3d564a",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "analyst30",
-      "company": "Nexo",
-      "title": "Senior BI Analyst",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T22:26:54.703Z",
-      "postId": "0xf61f67626d59c87ef45a0278ea21a565fff61331",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "analyst30",
-      "company": "Nexo",
-      "title": "Senior BI Analyst",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T22:26:54.703Z",
-      "postId": "0x0ab4d9537cc726e45f08eef3c4792171a5a14e10",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "analyst30",
-      "company": "Nexo",
-      "title": "Senior BI Analyst",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T22:26:54.703Z",
-      "postId": "0x717fa540d4f43b113a6b759d7b23b2d6303c523e",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "analyst30",
-      "company": "Nexo",
-      "title": "Senior BI Analyst",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T22:26:54.703Z",
-      "postId": "0x8abe528553d610912abdef75e2b01deed83ca323",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "analyst30",
-      "company": "Nexo",
-      "title": "Senior BI Analyst",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T22:26:54.703Z",
-      "postId": "0x70e053067c462c3286f5dda5de656fe398226143",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "analyst30",
-      "company": "Nexo",
-      "title": "Senior BI Analyst",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T22:26:54.703Z",
-      "postId": "0xe8492f4735f22c0d385735301d63ea9c88ae7f00",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "analyst30",
-      "company": "Nexo",
-      "title": "Senior BI Analyst",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T22:26:54.703Z",
-      "postId": "0xf33790c83b44d02d04dac081673451ea29cccd16",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "analyst30",
-      "company": "Nexo",
-      "title": "Senior BI Analyst",
-      "platform": "linkedin",
-      "postedAt": "2026-09-27T22:26:54.703Z",
-      "postId": "6ab99840612c9e6ac9360aa0",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "analyst30",
-      "company": "Nexo",
-      "title": "Senior BI Analyst",
-      "platform": "linkedin",
-      "postedAt": "2026-09-27T22:26:54.703Z",
-      "postId": "6ab9984a612c9e6ac9360b80",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "analyst30",
-      "company": "Nexo",
-      "title": "Senior BI Analyst",
-      "platform": "linkedin",
-      "postedAt": "2026-09-27T22:26:54.703Z",
-      "postId": "urn:li:share:7510102864787177472",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "analyst30",
-      "company": "Nexo",
-      "title": "Senior BI Analyst",
-      "platform": "facebook",
-      "postedAt": "2026-09-27T22:26:54.703Z",
-      "postId": "691827047618629_1099983359275565",
-      "verification": "verified"
-    },
-    {
-      "slug": "analyst30",
-      "company": "Nexo",
-      "title": "Senior BI Analyst",
-      "platform": "instagram",
-      "postedAt": "2026-09-27T22:26:54.703Z",
-      "postId": "17925425418423135",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops52",
-      "company": "Alpaca",
-      "title": "Broker-Dealer Operations Specialist, Japan (Japan Location / Japanese Language Required)",
-      "platform": "x",
-      "postedAt": "2026-09-27T22:27:56.944Z",
-      "postId": "6ab9986da94ef4516f1fe5c6",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "Alpaca is hiring Broker-Dealer Operations Specialist, Japan (Japan Location / Japanese Language Required)\n\nhttps://hashtagweb3.com/ops52/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2104337273391104106"
-    },
-    {
-      "slug": "ops52",
-      "company": "Alpaca",
-      "title": "Broker-Dealer Operations Specialist, Japan (Japan Location / Japanese Language Required)",
-      "platform": "threads",
-      "postedAt": "2026-09-27T22:27:56.944Z",
-      "postId": "18093644111652258",
-      "verification": "verified",
-      "expectedText": "Alpaca is hiring Broker-Dealer Operations Specialist, Japan (Japan Location / Japanese Language Required): https://hashtagweb3.com/ops52/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DdzrqyOFVsu",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "ops52",
-      "company": "Alpaca",
-      "title": "Broker-Dealer Operations Specialist, Japan (Japan Location / Japanese Language Required)",
-      "platform": "bluesky",
-      "postedAt": "2026-09-27T22:27:56.944Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwjtvicixg2t",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops52",
-      "company": "Alpaca",
-      "title": "Broker-Dealer Operations Specialist, Japan (Japan Location / Japanese Language Required)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T22:27:56.944Z",
-      "postId": "0x27c2a801c69e3d78bd423c34c6bafae22b12b44e",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops52",
-      "company": "Alpaca",
-      "title": "Broker-Dealer Operations Specialist, Japan (Japan Location / Japanese Language Required)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T22:27:56.944Z",
-      "postId": "0x5769999e3847a309f7128f93c50b985abbc8352a",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops52",
-      "company": "Alpaca",
-      "title": "Broker-Dealer Operations Specialist, Japan (Japan Location / Japanese Language Required)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T22:27:56.944Z",
-      "postId": "0x65124e93b2a623a8b131a5e58c92333682d00573",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops52",
-      "company": "Alpaca",
-      "title": "Broker-Dealer Operations Specialist, Japan (Japan Location / Japanese Language Required)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T22:27:56.944Z",
-      "postId": "0x93304330e02f3855859e93ef4a6080a1f1c68b3f",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops52",
-      "company": "Alpaca",
-      "title": "Broker-Dealer Operations Specialist, Japan (Japan Location / Japanese Language Required)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T22:27:56.944Z",
-      "postId": "0x9fc9df6f70542c5470d4bd06ccafc9d3f7b98666",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops52",
-      "company": "Alpaca",
-      "title": "Broker-Dealer Operations Specialist, Japan (Japan Location / Japanese Language Required)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T22:27:56.944Z",
-      "postId": "0xbd5930bd8e79b981c35f4ca170411ee46818002e",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops52",
-      "company": "Alpaca",
-      "title": "Broker-Dealer Operations Specialist, Japan (Japan Location / Japanese Language Required)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T22:27:56.944Z",
-      "postId": "0x7404b2bb6d246ceb0e9fd87c4635305d99a9c972",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops52",
-      "company": "Alpaca",
-      "title": "Broker-Dealer Operations Specialist, Japan (Japan Location / Japanese Language Required)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T22:27:56.944Z",
-      "postId": "0x2509c13d7b02fb9e0b20447e1257d294002ccbdb",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops52",
-      "company": "Alpaca",
-      "title": "Broker-Dealer Operations Specialist, Japan (Japan Location / Japanese Language Required)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T22:27:56.944Z",
-      "postId": "0x761b7248f8c9be820668be67ceeb096aa3967049",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops52",
-      "company": "Alpaca",
-      "title": "Broker-Dealer Operations Specialist, Japan (Japan Location / Japanese Language Required)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T22:27:56.944Z",
-      "postId": "0xfc4ae43381fb4676c0125239825a4f559474abe1",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops52",
-      "company": "Alpaca",
-      "title": "Broker-Dealer Operations Specialist, Japan (Japan Location / Japanese Language Required)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T22:27:56.944Z",
-      "postId": "0x4e571007e8955c153e7433f14093a6ad0e8b61f0",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops52",
-      "company": "Alpaca",
-      "title": "Broker-Dealer Operations Specialist, Japan (Japan Location / Japanese Language Required)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T22:27:56.944Z",
-      "postId": "0x6b03fcaaaff522d3a6d75f97a2556faeb8445ac1",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops52",
-      "company": "Alpaca",
-      "title": "Broker-Dealer Operations Specialist, Japan (Japan Location / Japanese Language Required)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T22:27:56.944Z",
-      "postId": "0x485055469db2ecdd26eabb9ecd35e650628a88f8",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops52",
-      "company": "Alpaca",
-      "title": "Broker-Dealer Operations Specialist, Japan (Japan Location / Japanese Language Required)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T22:27:56.944Z",
-      "postId": "0xcbe06b75f55b14cdc1c596298d0cd90d8a376c4a",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops52",
-      "company": "Alpaca",
-      "title": "Broker-Dealer Operations Specialist, Japan (Japan Location / Japanese Language Required)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T22:27:56.944Z",
-      "postId": "0xa0ccefb98d5039143afaab040d333cd1b4adf286",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops52",
-      "company": "Alpaca",
-      "title": "Broker-Dealer Operations Specialist, Japan (Japan Location / Japanese Language Required)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T22:27:56.944Z",
-      "postId": "0x69e4e49a1ad7c5c3a8796c7b64b9afb01ed74c23",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops52",
-      "company": "Alpaca",
-      "title": "Broker-Dealer Operations Specialist, Japan (Japan Location / Japanese Language Required)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-27T22:27:56.944Z",
-      "postId": "0x360ff0985e5b83271fc899d33b10ef7e8227783d",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops52",
-      "company": "Alpaca",
-      "title": "Broker-Dealer Operations Specialist, Japan (Japan Location / Japanese Language Required)",
-      "platform": "linkedin",
-      "postedAt": "2026-09-27T22:27:56.944Z",
-      "postId": "6ab9987c82dee5c85bccce05",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops52",
-      "company": "Alpaca",
-      "title": "Broker-Dealer Operations Specialist, Japan (Japan Location / Japanese Language Required)",
-      "platform": "linkedin",
-      "postedAt": "2026-09-27T22:27:56.944Z",
-      "postId": "6ab9988770ec211d1d2a209a",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops52",
-      "company": "Alpaca",
-      "title": "Broker-Dealer Operations Specialist, Japan (Japan Location / Japanese Language Required)",
-      "platform": "linkedin",
-      "postedAt": "2026-09-27T22:27:56.944Z",
-      "postId": "urn:li:share:7510103118609702913",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops52",
-      "company": "Alpaca",
-      "title": "Broker-Dealer Operations Specialist, Japan (Japan Location / Japanese Language Required)",
-      "platform": "facebook",
-      "postedAt": "2026-09-27T22:27:56.944Z",
-      "postId": "691827047618629_1099983775942190",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops52",
-      "company": "Alpaca",
-      "title": "Broker-Dealer Operations Specialist, Japan (Japan Location / Japanese Language Required)",
-      "platform": "instagram",
-      "postedAt": "2026-09-27T22:27:56.944Z",
-      "postId": "18011520545763133",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls140",
-      "company": "Blockstream",
-      "title": "Technical Solutions Consultant (Pre-Sales)",
-      "platform": "x",
-      "postedAt": "2026-09-28T03:56:18.855Z",
-      "postId": "6ab9e56336a0dcfcb3ef0a55",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "Blockstream is hiring Technical Solutions Consultant (Pre-Sales)\n\nhttps://hashtagweb3.com/sls140/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2104419909920845854"
-    },
-    {
-      "slug": "sls140",
-      "company": "Blockstream",
-      "title": "Technical Solutions Consultant (Pre-Sales)",
-      "platform": "threads",
-      "postedAt": "2026-09-28T03:56:18.855Z",
-      "postId": "18210117307363329",
-      "verification": "verified",
-      "expectedText": "Blockstream is hiring Technical Solutions Consultant (Pre-Sales): https://hashtagweb3.com/sls140/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/Dd0RP1klckx",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "sls140",
-      "company": "Blockstream",
-      "title": "Technical Solutions Consultant (Pre-Sales)",
-      "platform": "bluesky",
-      "postedAt": "2026-09-28T03:56:18.855Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwkgaty3yq2n",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls140",
-      "company": "Blockstream",
-      "title": "Technical Solutions Consultant (Pre-Sales)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T03:56:18.855Z",
-      "postId": "0x4febe87f1017e36ca28d224011b98b5a55f9e506",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls140",
-      "company": "Blockstream",
-      "title": "Technical Solutions Consultant (Pre-Sales)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T03:56:18.855Z",
-      "postId": "0xd9c00456f438e8161743f437f997130323f71052",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls140",
-      "company": "Blockstream",
-      "title": "Technical Solutions Consultant (Pre-Sales)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T03:56:18.855Z",
-      "postId": "0x24317104b3aa79b6d442d77dabec27806979e636",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls140",
-      "company": "Blockstream",
-      "title": "Technical Solutions Consultant (Pre-Sales)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T03:56:18.855Z",
-      "postId": "0xdacebfd31bc5f8711c12861beb3396b2e1f50e47",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls140",
-      "company": "Blockstream",
-      "title": "Technical Solutions Consultant (Pre-Sales)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T03:56:18.855Z",
-      "postId": "0x9dd6ffffbd03baf124e166dd87c1983cc719ed3f",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls140",
-      "company": "Blockstream",
-      "title": "Technical Solutions Consultant (Pre-Sales)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T03:56:18.855Z",
-      "postId": "0x26bfaeb7f4e6bed3ca1e38cbd0e1b4ac82d9df25",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls140",
-      "company": "Blockstream",
-      "title": "Technical Solutions Consultant (Pre-Sales)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T03:56:18.855Z",
-      "postId": "0x5472666c01ea1f0b95c0dcaa46681dd1dbd715dc",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls140",
-      "company": "Blockstream",
-      "title": "Technical Solutions Consultant (Pre-Sales)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T03:56:18.855Z",
-      "postId": "0x260064fa3f8aaf4eed08a4e36e30ace789501ecf",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls140",
-      "company": "Blockstream",
-      "title": "Technical Solutions Consultant (Pre-Sales)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T03:56:18.855Z",
-      "postId": "0x8e0754cfc10d816a0a3cb8dc6062dcfefd13b76d",
-      "account": "channel:founders",
       "verification": "verified"
     },
     {
@@ -10096,6 +9588,516 @@
       "platform": "instagram",
       "postedAt": "2026-09-29T19:49:02.941Z",
       "postId": "18635978137015182",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng333",
+      "company": "OKX",
+      "title": "Software Engineer, Mobile(iOS)",
+      "platform": "x",
+      "postedAt": "2026-09-30T11:43:17.726Z",
+      "postId": "6abcf5d6f9fcc8033908be3b",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "OKX is hiring Software Engineer, Mobile(iOS)\n\nhttps://hashtagweb3.com/eng333/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2105262205780308478"
+    },
+    {
+      "slug": "eng333",
+      "company": "OKX",
+      "title": "Software Engineer, Mobile(iOS)",
+      "platform": "threads",
+      "postedAt": "2026-09-30T11:43:17.726Z",
+      "postId": "17889958404614244",
+      "verification": "verified",
+      "expectedText": "OKX is hiring Software Engineer, Mobile(iOS): https://hashtagweb3.com/eng333/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/Dd6QR7Ymwqu",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "eng333",
+      "company": "OKX",
+      "title": "Software Engineer, Mobile(iOS)",
+      "platform": "bluesky",
+      "postedAt": "2026-09-30T11:43:17.726Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwqbblav2b2f",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng333",
+      "company": "OKX",
+      "title": "Software Engineer, Mobile(iOS)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-30T11:43:17.726Z",
+      "postId": "0xa5f1e8b6db1b46de5c93a29516d8f7c5cec50eae",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng333",
+      "company": "OKX",
+      "title": "Software Engineer, Mobile(iOS)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-30T11:43:17.726Z",
+      "postId": "0x9603f72d0eabfd53848f31b14e67911d38c0b720",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng333",
+      "company": "OKX",
+      "title": "Software Engineer, Mobile(iOS)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-30T11:43:17.726Z",
+      "postId": "0xbb7d3e1c536310d66094a7fe8d46ff80ab90b3b2",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng333",
+      "company": "OKX",
+      "title": "Software Engineer, Mobile(iOS)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-30T11:43:17.726Z",
+      "postId": "0x4ce0e525b3f47bc277e8e71f14514826653872f2",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng333",
+      "company": "OKX",
+      "title": "Software Engineer, Mobile(iOS)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-30T11:43:17.726Z",
+      "postId": "0x4c19b339b436c205f3890c5afb60870f541dd250",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng333",
+      "company": "OKX",
+      "title": "Software Engineer, Mobile(iOS)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-30T11:43:17.726Z",
+      "postId": "0x0effc318f7724fd146530b78cddf2ffa53e894f1",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng333",
+      "company": "OKX",
+      "title": "Software Engineer, Mobile(iOS)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-30T11:43:17.726Z",
+      "postId": "0x8cb24a84d912965a7d809b1c23202b84fc5278c6",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng333",
+      "company": "OKX",
+      "title": "Software Engineer, Mobile(iOS)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-30T11:43:17.726Z",
+      "postId": "0x56fdcca704d39e3e54d304c1fa7e455e14b0ba4d",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng333",
+      "company": "OKX",
+      "title": "Software Engineer, Mobile(iOS)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-30T11:43:17.726Z",
+      "postId": "0x7d628eba6209a89ed70779fa6c397193a8639eaf",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng333",
+      "company": "OKX",
+      "title": "Software Engineer, Mobile(iOS)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-30T11:43:17.726Z",
+      "postId": "0x19e05090c6a98864d639cba3c1576d77838bf8d3",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng333",
+      "company": "OKX",
+      "title": "Software Engineer, Mobile(iOS)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-30T11:43:17.726Z",
+      "postId": "0x8e23707dc56d559b4740548f465ddc2f4833ca5b",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng333",
+      "company": "OKX",
+      "title": "Software Engineer, Mobile(iOS)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-30T11:43:17.726Z",
+      "postId": "0x37788f80ca5fe671569e0e9adc07cdc7321abe06",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng333",
+      "company": "OKX",
+      "title": "Software Engineer, Mobile(iOS)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-30T11:43:17.726Z",
+      "postId": "0x6fe1c8627425d0858a9d053470c2ace91f6af39d",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng333",
+      "company": "OKX",
+      "title": "Software Engineer, Mobile(iOS)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-30T11:43:17.726Z",
+      "postId": "0xadbfbf40000f16fb667b8a25306fecab638ee24e",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng333",
+      "company": "OKX",
+      "title": "Software Engineer, Mobile(iOS)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-30T11:43:17.726Z",
+      "postId": "0x1578ab9acb8127e05e2290f5b8eda19074ce1f71",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng333",
+      "company": "OKX",
+      "title": "Software Engineer, Mobile(iOS)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-30T11:43:17.726Z",
+      "postId": "0xdec35aaaf1113ee824ac9b223bafe776de3465e6",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng333",
+      "company": "OKX",
+      "title": "Software Engineer, Mobile(iOS)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-30T11:43:17.726Z",
+      "postId": "0x497f83896c110eeac1595f75d6a3f34a3ff61f68",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng333",
+      "company": "OKX",
+      "title": "Software Engineer, Mobile(iOS)",
+      "platform": "linkedin",
+      "postedAt": "2026-09-30T11:43:17.726Z",
+      "postId": "6abcf5e8f9fcc8033908c1b3",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng333",
+      "company": "OKX",
+      "title": "Software Engineer, Mobile(iOS)",
+      "platform": "linkedin",
+      "postedAt": "2026-09-30T11:43:17.726Z",
+      "postId": "6abcf5f36f3f8543a5c425ec",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng333",
+      "company": "OKX",
+      "title": "Software Engineer, Mobile(iOS)",
+      "platform": "linkedin",
+      "postedAt": "2026-09-30T11:43:17.726Z",
+      "postId": "urn:li:share:7511028065548795904",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng333",
+      "company": "OKX",
+      "title": "Software Engineer, Mobile(iOS)",
+      "platform": "facebook",
+      "postedAt": "2026-09-30T11:43:17.726Z",
+      "postId": "691827047618629_1102388585701709",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng333",
+      "company": "OKX",
+      "title": "Software Engineer, Mobile(iOS)",
+      "platform": "instagram",
+      "postedAt": "2026-09-30T11:43:17.726Z",
+      "postId": "17989612847861275",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr55",
+      "company": "Binance",
+      "title": "PR Manager, Pakistan",
+      "platform": "x",
+      "postedAt": "2026-09-30T11:44:22.139Z",
+      "postId": "6abcf6163e02a4a8dab80dfc",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Binance is hiring PR Manager, Pakistan\n\nhttps://hashtagweb3.com/mgr55/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2105262475595714979"
+    },
+    {
+      "slug": "mgr55",
+      "company": "Binance",
+      "title": "PR Manager, Pakistan",
+      "platform": "threads",
+      "postedAt": "2026-09-30T11:44:22.139Z",
+      "postId": "18022038041868456",
+      "verification": "verified",
+      "expectedText": "Binance is hiring PR Manager, Pakistan: https://hashtagweb3.com/mgr55/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/Dd6QZvmG8LV",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "mgr55",
+      "company": "Binance",
+      "title": "PR Manager, Pakistan",
+      "platform": "bluesky",
+      "postedAt": "2026-09-30T11:44:22.139Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwqbdhtc2l26",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr55",
+      "company": "Binance",
+      "title": "PR Manager, Pakistan",
+      "platform": "farcaster",
+      "postedAt": "2026-09-30T11:44:22.139Z",
+      "postId": "0x05f2c06b7068d331c2e4c8246234b00b33e84141",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr55",
+      "company": "Binance",
+      "title": "PR Manager, Pakistan",
+      "platform": "farcaster",
+      "postedAt": "2026-09-30T11:44:22.139Z",
+      "postId": "0xf65d53749db07c3ae7b92cf5543d5aa583baf32f",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr55",
+      "company": "Binance",
+      "title": "PR Manager, Pakistan",
+      "platform": "farcaster",
+      "postedAt": "2026-09-30T11:44:22.139Z",
+      "postId": "0x69664e92232967c65b364fb4a801ee751b427f6c",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr55",
+      "company": "Binance",
+      "title": "PR Manager, Pakistan",
+      "platform": "farcaster",
+      "postedAt": "2026-09-30T11:44:22.139Z",
+      "postId": "0xf02a88267543d95f692cc67415b1f56f24bd96f0",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr55",
+      "company": "Binance",
+      "title": "PR Manager, Pakistan",
+      "platform": "farcaster",
+      "postedAt": "2026-09-30T11:44:22.139Z",
+      "postId": "0x1ef59a39b2506a4de6ee95617d0df0583a6bf3ec",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr55",
+      "company": "Binance",
+      "title": "PR Manager, Pakistan",
+      "platform": "farcaster",
+      "postedAt": "2026-09-30T11:44:22.139Z",
+      "postId": "0x2d7b9e8d36dd0d9eca0e089e20a2537be26fd795",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr55",
+      "company": "Binance",
+      "title": "PR Manager, Pakistan",
+      "platform": "farcaster",
+      "postedAt": "2026-09-30T11:44:22.139Z",
+      "postId": "0x7bf496c11ea2926202512e140216a7ce73afe8a0",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr55",
+      "company": "Binance",
+      "title": "PR Manager, Pakistan",
+      "platform": "farcaster",
+      "postedAt": "2026-09-30T11:44:22.139Z",
+      "postId": "0x2bd5f03f0fa2ca90cd89146988e681abf7e16cae",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr55",
+      "company": "Binance",
+      "title": "PR Manager, Pakistan",
+      "platform": "farcaster",
+      "postedAt": "2026-09-30T11:44:22.139Z",
+      "postId": "0x4953dc42b9daa96f3966e6de37603f624ab6f3ed",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr55",
+      "company": "Binance",
+      "title": "PR Manager, Pakistan",
+      "platform": "farcaster",
+      "postedAt": "2026-09-30T11:44:22.139Z",
+      "postId": "0xbc2bb2eb894812c9d67bff7b5a53c87876757b53",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr55",
+      "company": "Binance",
+      "title": "PR Manager, Pakistan",
+      "platform": "farcaster",
+      "postedAt": "2026-09-30T11:44:22.139Z",
+      "postId": "0x6e02a250b39840aa4bd57b0468fbbb07cc27eb0b",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr55",
+      "company": "Binance",
+      "title": "PR Manager, Pakistan",
+      "platform": "farcaster",
+      "postedAt": "2026-09-30T11:44:22.139Z",
+      "postId": "0x983e5306c4e0870affabb48b582740dd0c31c137",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr55",
+      "company": "Binance",
+      "title": "PR Manager, Pakistan",
+      "platform": "farcaster",
+      "postedAt": "2026-09-30T11:44:22.139Z",
+      "postId": "0x41e128592b45902ba4f5bf3507e552f85b4eb923",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr55",
+      "company": "Binance",
+      "title": "PR Manager, Pakistan",
+      "platform": "farcaster",
+      "postedAt": "2026-09-30T11:44:22.139Z",
+      "postId": "0x8ed004700b80f29b7bb5dddaf2db8c8e9c29b372",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr55",
+      "company": "Binance",
+      "title": "PR Manager, Pakistan",
+      "platform": "farcaster",
+      "postedAt": "2026-09-30T11:44:22.139Z",
+      "postId": "0xe0ef5b4fd3a0dcf79218bf230b023c32062c810c",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr55",
+      "company": "Binance",
+      "title": "PR Manager, Pakistan",
+      "platform": "farcaster",
+      "postedAt": "2026-09-30T11:44:22.139Z",
+      "postId": "0x6febeda1625ffcba915884d514e605774bf69048",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr55",
+      "company": "Binance",
+      "title": "PR Manager, Pakistan",
+      "platform": "farcaster",
+      "postedAt": "2026-09-30T11:44:22.139Z",
+      "postId": "0x5f59cf0f12610936f5810262c6221b1d4e56d216",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr55",
+      "company": "Binance",
+      "title": "PR Manager, Pakistan",
+      "platform": "linkedin",
+      "postedAt": "2026-09-30T11:44:22.139Z",
+      "postId": "6abcf6283e02a4a8dab80fb3",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr55",
+      "company": "Binance",
+      "title": "PR Manager, Pakistan",
+      "platform": "linkedin",
+      "postedAt": "2026-09-30T11:44:22.139Z",
+      "postId": "6abcf6326f3f8543a5c42ba5",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr55",
+      "company": "Binance",
+      "title": "PR Manager, Pakistan",
+      "platform": "linkedin",
+      "postedAt": "2026-09-30T11:44:22.139Z",
+      "postId": "urn:li:share:7511028330498985984",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr55",
+      "company": "Binance",
+      "title": "PR Manager, Pakistan",
+      "platform": "facebook",
+      "postedAt": "2026-09-30T11:44:22.139Z",
+      "postId": "691827047618629_1102389362368298",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr55",
+      "company": "Binance",
+      "title": "PR Manager, Pakistan",
+      "platform": "instagram",
+      "postedAt": "2026-09-30T11:44:22.139Z",
+      "postId": "18100933466131242",
       "verification": "verified"
     }
   ]
