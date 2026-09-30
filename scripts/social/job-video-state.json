@@ -1,1 +1,35 @@
-{"version":1,"slots":{},"jobs":{}}
+{
+  "version": 1,
+  "slots": {
+    "2026-09-30:evening": [
+      "fe12",
+      "mkt51"
+    ]
+  },
+  "jobs": {
+    "fe12": {
+      "slot": "2026-09-30:evening",
+      "selectedAt": "2026-09-30T23:05:16.108Z",
+      "verifiedAt": "2026-09-30T23:05:16.108Z",
+      "captions": {
+        "instagram": "Tether is hiring\nFrontend Software Engineer\n\n100% Remote\nBuild cross-platform interfaces with React and TypeScript.\n\nFind the role on hashtagweb3.com\n\n#Hiring #RemoteJobs #TechJobs",
+        "tiktok": "Frontend Software Engineer at Tether. 100% Remote.\n\nFind the role on hashtagweb3.com\n\n#Hiring #RemoteJobs #TechJobs",
+        "youtube": "100% Remote\nBuild cross-platform interfaces with React and TypeScript.\n\nFind the role on hashtagweb3.com\n\n#Hiring #RemoteJobs #TechJobs",
+        "youtubeTitle": "Frontend Software Engineer at Tether · 100% Remote"
+      },
+      "receipts": {}
+    },
+    "mkt51": {
+      "slot": "2026-09-30:evening",
+      "selectedAt": "2026-09-30T23:05:16.109Z",
+      "verifiedAt": "2026-09-30T23:05:16.109Z",
+      "captions": {
+        "instagram": "Blackbird Labs is hiring\nDirector of Marketing\n\nUS$220k–250k / year · New York\nLead brand, communications and customer growth.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Marketing #Jobs",
+        "tiktok": "Director of Marketing at Blackbird Labs. US$220k–250k / year · New York.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Marketing #Jobs",
+        "youtube": "US$220k–250k / year · New York\nLead brand, communications and customer growth.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Marketing #Jobs",
+        "youtubeTitle": "Director of Marketing at Blackbird Labs · US$220k–250k / year"
+      },
+      "receipts": {}
+    }
+  }
+}
