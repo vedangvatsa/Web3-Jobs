@@ -261,5 +261,36 @@
     "slotKey": "2026-09-29:evening",
     "messageId": 155514,
     "sentAt": "2026-09-29T19:49:38.271Z"
+  },
+  "371e3f75-0957-49ee-abfe-f260201701b7": {
+    "status": "reserved",
+    "reservedAt": "2026-09-30T19:33:19.381Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Brazil Depository to Mirror Fund Records on XRP Ledger",
+        "summary": "CSD BR will copy BTG Pactual fund ownership records onto the public blockchain while maintaining the official registry.",
+        "link": "https://hashtagweb3.com/brazil-depository?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Brazil depository CSD BR to mirror fund records on XRP Ledger"
+      },
+      {
+        "index": -1,
+        "headline": "House panel expands insider trading probe into prediction markets",
+        "summary": "Chairman James Comer requested user verification and trade detection documents from Hyperliquid, Crypto.com, and Aristotle Exchange.",
+        "link": "https://hashtagweb3.com/house-probe?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "House Oversight widens prediction market insider trading probe"
+      },
+      {
+        "index": -1,
+        "headline": "NEAR Intents Froze $503K Tied to Bitget Hack",
+        "summary": "The protocol stopped $503,000 during execution and prevented $50 million in attempted transfers following the September 24 breach.",
+        "link": "https://hashtagweb3.com/near-bitget?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "NEAR Intents Says It Froze $503,000 Linked to Bitget Hack"
+      }
+    ],
+    "slotKey": "2026-09-30:evening"
   }
 }
