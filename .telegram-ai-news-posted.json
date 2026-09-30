@@ -635,6 +635,9 @@
   "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
   "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
   "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/",
+  "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+  "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
+  "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1688,6 +1691,12 @@
   "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
   "Protesters use sculpture to criticize OpenAI leaders",
   "Protests against OpenAI get increasingly creative",
+  "ElevenLabs reaches $22 billion valuation",
+  "AI voice startup ElevenLabs doubles valuation to $22B",
+  "Restate raises $20 million for AI agent infrastructure",
+  "Restate lands $20M as the need for durable infrastructure increases with AI agents",
+  "Trump secures voluntary AI safety agreements from tech companies",
+  "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -1840,5 +1849,8 @@
   "fp:agent|allow|app|builder|chat|conversational|experienc|function|generat|interfac",
   "fp:30b|ahead|capital|fund|negotiat|offer|openai|planned2027|public|rais",
   "fp:america|are|ask|caus|error|gam|get|glitch|gov|government",
-  "fp:against|art|creativ|criticiz|depict|escap|get|increasingly|installation|leader"
+  "fp:against|art|creativ|criticiz|depict|escap|get|increasingly|installation|leader",
+  "fp:22b|300m|doubl|elevenlab|employe|institutional|investor|major|offer|reach",
+  "fp:20m|agent|autonomous|develop|durabl|execution|increas|infrastructur|land|layer",
+  "fp:agr|agreement|big|combat|dozen|firm|government|hing|internal|pal"
 ]
