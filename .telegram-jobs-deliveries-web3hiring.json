@@ -90,5 +90,49 @@
     "slotKey": "2026-09-29:evening",
     "messageId": 90,
     "sentAt": "2026-09-29T19:48:14.650Z"
+  },
+  "0a6ca41c-cc92-420f-8316-e070bed8280c": {
+    "status": "reserved",
+    "reservedAt": "2026-09-30T11:43:23.384Z",
+    "chatId": "@web3hiring",
+    "jobs": [
+      {
+        "key": "tangem-bd-manager-partnerships",
+        "slug": "manager661",
+        "url": "https://hashtagweb3.com/manager661?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Tangem",
+        "title": "BD Manager Partnerships"
+      },
+      {
+        "key": "8196259",
+        "slug": "pm180",
+        "url": "https://hashtagweb3.com/pm180?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Account Executive"
+      },
+      {
+        "key": "7552740003",
+        "slug": "sr",
+        "url": "https://hashtagweb3.com/sr?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "OKX",
+        "title": "Sr Data Scientist"
+      },
+      {
+        "key": "8095252",
+        "slug": "backend94",
+        "url": "https://hashtagweb3.com/backend94?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Coinbase",
+        "title": "Senior Software Engineer"
+      },
+      {
+        "key": "8220940002",
+        "slug": "security24",
+        "url": "https://hashtagweb3.com/security24?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Jane Street",
+        "title": "IT Security Engineer"
+      }
+    ],
+    "message": "• Tangem is hiring <a href=\"https://hashtagweb3.com/manager661?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">BD Manager Partnerships</a>\n• Stripe is hiring <a href=\"https://hashtagweb3.com/pm180?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Account Executive</a>\n• OKX is hiring <a href=\"https://hashtagweb3.com/sr?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Sr Data Scientist</a>\n• Coinbase is hiring <a href=\"https://hashtagweb3.com/backend94?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Software Engineer</a>\n• Jane Street is hiring <a href=\"https://hashtagweb3.com/security24?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">IT Security Engineer</a>",
+    "slotKey": "2026-09-30:afternoon"
   }
 }
