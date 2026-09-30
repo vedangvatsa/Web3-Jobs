@@ -46,7 +46,7 @@
     "sentAt": "2026-09-29T19:48:28.829Z"
   },
   "60532992-7b8f-48fa-be40-67d853fdc142": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-09-30T11:43:35.991Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -87,6 +87,8 @@
       }
     ],
     "message": "• Merkle Science is hiring <a href=\"https://hashtagweb3.com/backend101?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Software Engineer</a>\n• Toku is hiring <a href=\"https://hashtagweb3.com/finops?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">FinOps Specialist CL</a>\n• Jane Street is hiring <a href=\"https://hashtagweb3.com/designer34?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Graphic Designer</a>\n• Block is hiring <a href=\"https://hashtagweb3.com/regulatory7?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Regulatory Program Lead</a>\n• Plume Network is hiring <a href=\"https://hashtagweb3.com/qa37?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior QA Engineer</a>",
-    "slotKey": "2026-09-30:afternoon"
+    "slotKey": "2026-09-30:afternoon",
+    "messageId": 155520,
+    "sentAt": "2026-09-30T11:43:51.639Z"
   }
 }
