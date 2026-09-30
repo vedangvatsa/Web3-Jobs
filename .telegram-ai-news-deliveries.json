@@ -216,5 +216,40 @@
     "slotKey": "2026-09-30:afternoon",
     "messageId": 193305,
     "sentAt": "2026-09-30T11:45:15.693Z"
+  },
+  "793bcf0e-1179-48fa-a756-51ad988ecc5c": {
+    "status": "reserved",
+    "reservedAt": "2026-09-30T19:35:55.305Z",
+    "stories": [
+      {
+        "index": 4,
+        "original_title": "AI voice startup ElevenLabs doubles valuation to $22B",
+        "headline": "ElevenLabs reaches $22 billion valuation",
+        "summary": "The voice synthesis company secured a $300 million employee tender offer led by major institutional investors.",
+        "event_rationale": "This covers a major late-stage funding event for a prominent AI infrastructure and voice synthesis company.",
+        "link": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+        "source": "TechCrunch",
+        "originalTitle": "AI voice startup ElevenLabs doubles valuation to $22B"
+      },
+      {
+        "index": 13,
+        "original_title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
+        "headline": "Restate raises $20 million for AI agent infrastructure",
+        "summary": "The company developed a proprietary storage and redundancy layer to support the execution of autonomous software agents.",
+        "event_rationale": "This highlights a specific infrastructure development for AI agents, distinct from general model releases or corporate funding rounds.",
+        "link": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
+        "source": "TechCrunch",
+        "originalTitle": "Restate lands $20M as the need for durable infrastructure increases with AI agents"
+      },
+      {
+        "index": 2,
+        "headline": "Trump secures voluntary AI safety agreements from tech companies",
+        "summary": "Dozens of firms agreed to perform internal safety tests on their artificial intelligence models under a voluntary government plan.",
+        "link": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves/",
+        "source": "Ars Technica",
+        "originalTitle": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves"
+      }
+    ],
+    "slotKey": "2026-09-30:evening"
   }
 }
