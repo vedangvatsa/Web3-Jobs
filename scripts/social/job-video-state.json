@@ -19,9 +19,10 @@
       },
       "receipts": {
         "instagram": {
-          "status": "creating",
+          "status": "pending",
           "text": "Tether is hiring\nFrontend Software Engineer\n\n100% Remote\nBuild cross-platform interfaces with React and TypeScript.\n\nFind the role on hashtagweb3.com\n\n#Hiring #RemoteJobs #TechJobs",
-          "startedAt": "2026-09-30T23:05:18.181Z"
+          "startedAt": "2026-09-30T23:05:18.181Z",
+          "containerId": "17915725362461009"
         }
       }
     },
