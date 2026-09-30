@@ -1,0 +1,66 @@
+name: Post Two Job Videos to Instagram, YouTube and TikTok
+
+on:
+  workflow_dispatch:
+    inputs:
+      slot:
+        description: Daily video slot
+        type: choice
+        options: [morning, afternoon, evening]
+        default: evening
+      dry_run:
+        description: Preview captions without posting
+        type: boolean
+        default: true
+      slugs:
+        description: Optional two job slugs separated by a comma
+        type: string
+        default: ''
+  workflow_call:
+    inputs:
+      slot:
+        type: string
+        required: true
+      date:
+        type: string
+        required: true
+
+concurrency:
+  group: social-job-videos
+  cancel-in-progress: false
+
+jobs:
+  post-videos:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - name: Test video caps, freshness and approved captions
+        run: node --test scripts/social/job-video-core.test.ts scripts/social/job-video-clients.test.ts
+      - name: Publish or resume two videos
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BUFFER_VIDEO_ACCESS_TOKEN: ${{ secrets.BUFFER_VIDEO_ACCESS_TOKEN }}
+          META_PAGE_TOKEN: ${{ secrets.META_PAGE_TOKEN }}
+          VIDEO_SLOT: ${{ inputs.slot }}
+          VIDEO_DATE: ${{ inputs.date }}
+          VIDEO_SLUGS: ${{ inputs.slugs || '' }}
+          VIDEO_MANUAL: ${{ github.workflow == 'Post Two Job Videos to Instagram, YouTube and TikTok' && github.event_name == 'workflow_dispatch' && 'true' || 'false' }}
+          VIDEO_DRY_RUN: ${{ inputs.dry_run && 'true' || 'false' }}
+        run: |
+          ARGS=()
+          if [ "$VIDEO_DRY_RUN" = "true" ]; then ARGS+=(--dry-run); fi
+          node scripts/social/post-job-videos.ts "${ARGS[@]}"
+      - name: Retain video receipts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: job-video-receipts-${{ github.run_id }}-${{ github.run_attempt }}
+          path: scripts/social/job-video-state.json

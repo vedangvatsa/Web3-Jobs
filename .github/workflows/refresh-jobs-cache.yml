@@ -70,6 +70,7 @@ jobs:
       morning: ${{ steps.set.outputs.morning }}
       news: ${{ steps.set.outputs.news }}
       social: ${{ steps.set.outputs.social }}
+      videos: ${{ steps.set.outputs.videos }}
       slot: ${{ steps.set.outputs.slot }}
       skip: ${{ steps.set.outputs.skip }}
       deploy: ${{ steps.set.outputs.deploy }}
@@ -119,6 +120,7 @@ jobs:
           TODAY=$(date -u +%F)
           STATE="scripts/social/publish-slot-state.json"
           node scripts/social/publish-slot-plan.mjs plan "$STATE" "$SLOT" "$TODAY" | tee -a "$GITHUB_OUTPUT"
+          node scripts/social/job-video-slot.mjs "$SLOT" "$TODAY" >> "$GITHUB_OUTPUT"
 
   ingest:
     needs: [gate]
@@ -152,6 +154,17 @@ jobs:
       contents: write
       checks: read
     uses: ./.github/workflows/post-job-openings-social.yml
+    secrets: inherit
+
+  post-videos:
+    needs: [gate]
+    if: ${{ needs.gate.outputs.videos == 'true' }}
+    permissions:
+      contents: write
+    uses: ./.github/workflows/post-job-videos-social.yml
+    with:
+      slot: ${{ needs.gate.outputs.slot }}
+      date: ${{ needs.gate.outputs.date }}
     secrets: inherit
 
   diagnose:
@@ -641,7 +654,7 @@ jobs:
         run: exit 1
 
   record-slot:
-    needs: [gate, ingest, publish-news, refresh-news-snapshot, deploy, job-alerts, post-openings, refresh-and-post, refresh-events]
+    needs: [gate, ingest, publish-news, refresh-news-snapshot, deploy, job-alerts, post-openings, post-videos, refresh-and-post, refresh-events]
     if: ${{ always() && needs.gate.outputs.skip != 'true' && needs.gate.result == 'success' }}
     runs-on: ubuntu-latest
     permissions:
@@ -657,6 +670,7 @@ jobs:
           NEWS: ${{ needs.publish-news.result }}
           ALERTS: ${{ needs.job-alerts.result }}
           POSTS: ${{ needs.post-openings.result }}
+          VIDEOS: ${{ needs.post-videos.result }}
           TELEGRAM: ${{ needs.refresh-and-post.result }}
           SNAPSHOT: ${{ needs.refresh-news-snapshot.result }}
           DEPLOY_DUE: ${{ needs.gate.outputs.deploy }}
@@ -679,7 +693,7 @@ jobs:
             done
           fi
           if [ "$SOCIAL" = "true" ]; then
-            for pair in "post-openings:$POSTS" "refresh-and-post:$TELEGRAM"; do
+            for pair in "post-openings:$POSTS" "post-videos:$VIDEOS" "refresh-and-post:$TELEGRAM"; do
               name="${pair%%:*}"
               result="${pair#*:}"
               if [ "$result" != "success" ]; then
