@@ -183,7 +183,7 @@
     "sentAt": "2026-09-29T19:48:29.860Z"
   },
   "34652262-4c27-48ea-9bd3-5a2866ecae0a": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-09-30T11:45:12.226Z",
     "stories": [
       {
@@ -213,6 +213,8 @@
         "originalTitle": "Protests against OpenAI get increasingly creative"
       }
     ],
-    "slotKey": "2026-09-30:afternoon"
+    "slotKey": "2026-09-30:afternoon",
+    "messageId": 193305,
+    "sentAt": "2026-09-30T11:45:15.693Z"
   }
 }
