@@ -260,5 +260,36 @@
     "slotKey": "2026-09-29:evening",
     "messageId": 65714,
     "sentAt": "2026-09-29T19:50:38.644Z"
+  },
+  "37f243aa-9555-4a4a-a8e3-4e32c19d979c": {
+    "status": "reserved",
+    "reservedAt": "2026-09-30T11:45:59.796Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "NEAR Intents Blocks $50 Million From Bitget Hack",
+        "summary": "The transaction protocol froze $503,000 mid-execution and blocked an additional $50 million linked to the exchange exploit.",
+        "link": "https://hashtagweb3.com/near-bitget?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "NEAR Intents Says It Froze $503,000 Linked to Bitget Hack"
+      },
+      {
+        "index": 2,
+        "headline": "Strong US Dollar Poses Minor Threat to Bitcoin",
+        "summary": "Market analysts suggest a rising US dollar will have a minimal impact on bitcoin's price performance.",
+        "link": "https://www.coindesk.com/daybook-us/2026/09/30/a-stronger-dollar-is-a-weaker-threat-to-bitcoin-than-traders-think",
+        "source": "CoinDesk",
+        "originalTitle": "A stronger dollar is a weaker threat to bitcoin than traders think"
+      },
+      {
+        "index": 3,
+        "headline": "McDonald's Uses AI to Set Different Prices at Each Location",
+        "summary": "Machine learning models determine optimal item costs, causing price differences between nearby restaurants.",
+        "link": "https://decrypt.co/379632/mcdonalds-ai-pricing-engine-gauges-what-customers-will-pay-for-a-big-mac-report",
+        "source": "Decrypt",
+        "originalTitle": "McDonald's AI ‘Pricing Engine’ Gauges What Customers Will Pay for a Big Mac: Report"
+      }
+    ],
+    "slotKey": "2026-09-30:afternoon"
   }
 }
