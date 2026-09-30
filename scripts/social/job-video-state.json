@@ -27,10 +27,11 @@
           "url": "https://www.instagram.com/reel/Dd7ebIuCHUY/"
         },
         "youtube": {
-          "status": "pending",
+          "status": "sent",
           "text": "100% Remote\nBuild cross-platform interfaces with React and TypeScript.\n\nFind the role on hashtagweb3.com\n\n#Hiring #RemoteJobs #TechJobs",
           "startedAt": "2026-09-30T23:06:47.702Z",
-          "postId": "6abd96095feb60d6345f7f25"
+          "postId": "6abd96095feb60d6345f7f25",
+          "url": "https://www.youtube.com/watch?v=J5OZ7ZZlyuA"
         }
       }
     },
