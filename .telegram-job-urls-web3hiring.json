@@ -542,6 +542,14 @@
     "lastUrl": "https://hashtagweb3.com/engineer-1bs6fqg",
     "updatedAt": "2026-09-15T19:45:20.006Z"
   },
+  "8095252": {
+    "slugs": [
+      "backend94"
+    ],
+    "lastSlug": "backend94",
+    "lastUrl": "https://hashtagweb3.com/backend94",
+    "updatedAt": "2026-09-30T11:43:25.913Z"
+  },
   "8096726": {
     "slugs": [
       "product400",
@@ -855,6 +863,14 @@
     "lastSlug": "pm54",
     "lastUrl": "https://hashtagweb3.com/pm54",
     "updatedAt": "2026-09-22T08:01:17.248Z"
+  },
+  "8196259": {
+    "slugs": [
+      "pm180"
+    ],
+    "lastSlug": "pm180",
+    "lastUrl": "https://hashtagweb3.com/pm180",
+    "updatedAt": "2026-09-30T11:43:25.913Z"
   },
   "8199729": {
     "slugs": [
@@ -3433,5 +3449,29 @@
     "lastSlug": "smm",
     "lastUrl": "https://hashtagweb3.com/smm",
     "updatedAt": "2026-09-29T19:48:14.650Z"
+  },
+  "tangem-bd-manager-partnerships": {
+    "slugs": [
+      "manager661"
+    ],
+    "lastSlug": "manager661",
+    "lastUrl": "https://hashtagweb3.com/manager661",
+    "updatedAt": "2026-09-30T11:43:25.913Z"
+  },
+  "7552740003": {
+    "slugs": [
+      "sr"
+    ],
+    "lastSlug": "sr",
+    "lastUrl": "https://hashtagweb3.com/sr",
+    "updatedAt": "2026-09-30T11:43:25.913Z"
+  },
+  "8220940002": {
+    "slugs": [
+      "security24"
+    ],
+    "lastSlug": "security24",
+    "lastUrl": "https://hashtagweb3.com/security24",
+    "updatedAt": "2026-09-30T11:43:25.913Z"
   }
 }

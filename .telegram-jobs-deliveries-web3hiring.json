@@ -92,7 +92,7 @@
     "sentAt": "2026-09-29T19:48:14.650Z"
   },
   "0a6ca41c-cc92-420f-8316-e070bed8280c": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-09-30T11:43:23.384Z",
     "chatId": "@web3hiring",
     "jobs": [
@@ -133,6 +133,8 @@
       }
     ],
     "message": "• Tangem is hiring <a href=\"https://hashtagweb3.com/manager661?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">BD Manager Partnerships</a>\n• Stripe is hiring <a href=\"https://hashtagweb3.com/pm180?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Account Executive</a>\n• OKX is hiring <a href=\"https://hashtagweb3.com/sr?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Sr Data Scientist</a>\n• Coinbase is hiring <a href=\"https://hashtagweb3.com/backend94?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Software Engineer</a>\n• Jane Street is hiring <a href=\"https://hashtagweb3.com/security24?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">IT Security Engineer</a>",
-    "slotKey": "2026-09-30:afternoon"
+    "slotKey": "2026-09-30:afternoon",
+    "messageId": 16486,
+    "sentAt": "2026-09-30T11:43:25.913Z"
   }
 }
