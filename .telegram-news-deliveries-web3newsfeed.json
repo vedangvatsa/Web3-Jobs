@@ -262,7 +262,7 @@
     "sentAt": "2026-09-29T19:50:38.644Z"
   },
   "37f243aa-9555-4a4a-a8e3-4e32c19d979c": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-09-30T11:45:59.796Z",
     "stories": [
       {
@@ -290,6 +290,8 @@
         "originalTitle": "McDonald's AI ‘Pricing Engine’ Gauges What Customers Will Pay for a Big Mac: Report"
       }
     ],
-    "slotKey": "2026-09-30:afternoon"
+    "slotKey": "2026-09-30:afternoon",
+    "messageId": 65715,
+    "sentAt": "2026-09-30T11:46:03.483Z"
   }
 }
