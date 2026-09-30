@@ -44,5 +44,49 @@
     "slotKey": "2026-09-29:evening",
     "messageId": 155513,
     "sentAt": "2026-09-29T19:48:28.829Z"
+  },
+  "60532992-7b8f-48fa-be40-67d853fdc142": {
+    "status": "reserved",
+    "reservedAt": "2026-09-30T11:43:35.991Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "key": "e663b69b-264a-4bd7-b04d-fb3c0a824a28",
+        "slug": "backend101",
+        "url": "https://hashtagweb3.com/backend101?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Merkle Science",
+        "title": "Software Engineer"
+      },
+      {
+        "key": "205ba70d-dfb0-4c17-8c79-8a24cff4fde0",
+        "slug": "finops",
+        "url": "https://hashtagweb3.com/finops?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Toku",
+        "title": "FinOps Specialist CL"
+      },
+      {
+        "key": "8742042002",
+        "slug": "designer34",
+        "url": "https://hashtagweb3.com/designer34?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Jane Street",
+        "title": "Graphic Designer"
+      },
+      {
+        "key": "5371509008",
+        "slug": "regulatory7",
+        "url": "https://hashtagweb3.com/regulatory7?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Block",
+        "title": "Regulatory Program Lead"
+      },
+      {
+        "key": "8687227002",
+        "slug": "qa37",
+        "url": "https://hashtagweb3.com/qa37?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Plume Network",
+        "title": "Senior QA Engineer"
+      }
+    ],
+    "message": "• Merkle Science is hiring <a href=\"https://hashtagweb3.com/backend101?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Software Engineer</a>\n• Toku is hiring <a href=\"https://hashtagweb3.com/finops?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">FinOps Specialist CL</a>\n• Jane Street is hiring <a href=\"https://hashtagweb3.com/designer34?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Graphic Designer</a>\n• Block is hiring <a href=\"https://hashtagweb3.com/regulatory7?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Regulatory Program Lead</a>\n• Plume Network is hiring <a href=\"https://hashtagweb3.com/qa37?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior QA Engineer</a>",
+    "slotKey": "2026-09-30:afternoon"
   }
 }
