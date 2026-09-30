@@ -197,5 +197,53 @@
     "slotKey": "2026-09-30:afternoon",
     "messageId": 155519,
     "sentAt": "2026-09-30T11:43:38.724Z"
+  },
+  "29833eca-63b8-4227-8af2-880559c6ea9a": {
+    "status": "reserved",
+    "reservedAt": "2026-09-30T19:33:06.031Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "luma-batch-gzayLEghrE7BFek",
+        "slug": "pubkey-h7b7",
+        "name": "Bitcoin Self Custody in the Age of AI w/ SeedSigner & HRF | PubKey NYC",
+        "startDate": "2026-09-30T22:00:00.000Z",
+        "keys": [
+          "luma-batch-gzayleghre7bfek",
+          "page:pubkey-h7b7:2026-09-30",
+          "luma:evt-gzayleghre7bfek",
+          "luma-url:/pubkey-h7b7",
+          "event:bitcoinselfcustodyintheageofaiwseedsignerhrfpubkeynyc:2026-09-30:new york"
+        ]
+      },
+      {
+        "id": "luma-evt-YpFXSHbNG9yCntK",
+        "slug": "convergence",
+        "name": "Convergence: Onchain Finance Soirée at Sibos Miami | OpenZeppelin x WisdomTree x DFNS",
+        "startDate": "2026-09-30T22:00:00.000Z",
+        "keys": [
+          "luma-evt-ypfxshbng9ycntk",
+          "page:convergence:2026-09-30",
+          "luma:evt-ypfxshbng9ycntk",
+          "luma-url:/convergence-onchain-finance-sibos-miami",
+          "event:convergenceonchainfinancesoiréeatsibosmiamiopenzeppelinxwisdomtreexdfns:2026-09-30:miami beach"
+        ]
+      },
+      {
+        "id": "luma-batch-evtB10f3UOXBEobq",
+        "slug": "the-4ial",
+        "name": "Asia stablecoin conference VIP kick-off Breakfast",
+        "startDate": "2026-10-01T00:00:00.000Z",
+        "keys": [
+          "luma-batch-evtb10f3uoxbeobq",
+          "page:the-4ial:2026-10-01",
+          "luma:evt-b10f3uoxbeobq5f",
+          "luma-url:/the-4ial",
+          "event:asiastablecoinconferencevipkickoffbreakfast:2026-10-01:seoul"
+        ]
+      }
+    ],
+    "slotKey": "2026-09-30:evening"
   }
 }
