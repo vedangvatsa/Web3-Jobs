@@ -147,5 +147,53 @@
     "slotKey": "2026-09-29:evening",
     "messageId": 155512,
     "sentAt": "2026-09-29T19:47:48.652Z"
+  },
+  "bf9ea042-0dab-47bf-aacb-0899c2d3a7d1": {
+    "status": "reserved",
+    "reservedAt": "2026-09-30T11:43:35.160Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "kbw-official-echo-in-color-where-web3-comes-alive-09-30",
+        "slug": "ecwwca",
+        "name": "ECHO IN COLOR - Where Web3 Comes Alive",
+        "startDate": "2026-09-30T12:00:00.000Z",
+        "keys": [
+          "kbw-official-echo-in-color-where-web3-comes-alive-09-30",
+          "page:ecwwca:2026-09-30",
+          "luma:evt-znfb0dvbab7rfh0",
+          "luma-url:/2yfkn28q",
+          "event:echoincolorwhereweb3comesalive:2026-09-30:"
+        ]
+      },
+      {
+        "id": "luma-batch-evtGpyh3ZXaayPwW",
+        "slug": "sept_cryptodrinks_amsterdam",
+        "name": "Crypto Drinks is Common S3nse - Amsterdam Edition",
+        "startDate": "2026-09-30T16:30:00.000Z",
+        "keys": [
+          "luma-batch-evtgpyh3zxaaypww",
+          "page:sept_cryptodrinks_amsterdam:2026-09-30",
+          "luma:evt-gpyh3zxaaypwwiv",
+          "luma-url:/sept_cryptodrinks_amsterdam",
+          "event:cryptodrinksiscommons3nseamsterdamedition:2026-09-30:amsterdam"
+        ]
+      },
+      {
+        "id": "luma-batch-evto623qGRuMMCP7",
+        "slug": "5ohqcwr6",
+        "name": "dizrupt Web3 CFO Roundtable #7",
+        "startDate": "2026-09-30T16:30:00.000Z",
+        "keys": [
+          "luma-batch-evto623qgrummcp7",
+          "page:5ohqcwr6:2026-09-30",
+          "luma:evt-o623qgrummcp7a9",
+          "luma-url:/5ohqcwr6",
+          "event:dizruptweb3cforoundtable7:2026-09-30:zug"
+        ]
+      }
+    ],
+    "slotKey": "2026-09-30:afternoon"
   }
 }
