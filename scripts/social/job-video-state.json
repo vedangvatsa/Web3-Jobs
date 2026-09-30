@@ -69,9 +69,10 @@
           "url": "https://www.youtube.com/watch?v=MWhJjTqoAAA"
         },
         "tiktok": {
-          "status": "creating",
+          "status": "pending",
           "text": "Director of Marketing at Blackbird Labs. US$220k–250k / year · New York.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Marketing #Jobs",
-          "startedAt": "2026-09-30T23:10:24.477Z"
+          "startedAt": "2026-09-30T23:10:24.477Z",
+          "postId": "6abd96e105e9a5c46aafbee5"
         }
       }
     }
