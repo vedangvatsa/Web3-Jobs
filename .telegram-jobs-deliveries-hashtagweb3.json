@@ -90,5 +90,49 @@
     "slotKey": "2026-09-30:afternoon",
     "messageId": 155520,
     "sentAt": "2026-09-30T11:43:51.639Z"
+  },
+  "3f016601-be5f-4097-a1eb-98d40eef14ba": {
+    "status": "reserved",
+    "reservedAt": "2026-09-30T19:33:06.171Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "key": "b534a623-3bab-4b1c-af20-3b0eb5292fd1",
+        "slug": "manager396",
+        "url": "https://hashtagweb3.com/manager396?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "CertiK",
+        "title": "Business Development Manager"
+      },
+      {
+        "key": "7defb45a-ce56-4c24-a18e-2b733256c83d",
+        "slug": "compliance161",
+        "url": "https://hashtagweb3.com/compliance161?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bitvavo",
+        "title": "Senior Compliance Officer"
+      },
+      {
+        "key": "5caa6fbf-3f7c-4b67-88cf-653db51fdf2b",
+        "slug": "fs10",
+        "url": "https://hashtagweb3.com/fs10?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Paxos",
+        "title": "Fullstack Product Engineer"
+      },
+      {
+        "key": "8782908002",
+        "slug": "manager633",
+        "url": "https://hashtagweb3.com/manager633?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Jane Street",
+        "title": "Swag Program Manager"
+      },
+      {
+        "key": "8594600002",
+        "slug": "manager251",
+        "url": "https://hashtagweb3.com/manager251?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Figure",
+        "title": "Senior Manager of SEC Reporting & Technical Accounting"
+      }
+    ],
+    "message": "• CertiK is hiring <a href=\"https://hashtagweb3.com/manager396?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Business Development Manager</a>\n• Bitvavo is hiring <a href=\"https://hashtagweb3.com/compliance161?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Compliance Officer</a>\n• Paxos is hiring <a href=\"https://hashtagweb3.com/fs10?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Fullstack Product Engineer</a>\n• Jane Street is hiring <a href=\"https://hashtagweb3.com/manager633?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Swag Program Manager</a>\n• Figure is hiring <a href=\"https://hashtagweb3.com/manager251?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Manager of SEC Reporting &amp; Technical Accounting</a>",
+    "slotKey": "2026-09-30:evening"
   }
 }
