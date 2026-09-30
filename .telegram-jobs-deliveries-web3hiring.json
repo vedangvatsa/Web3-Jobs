@@ -230,7 +230,7 @@
     "sentAt": "2026-09-30T19:32:57.276Z"
   },
   "4da4881f-5c11-4eec-b91d-4404569b706e": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-09-30T19:32:59.541Z",
     "chatId": "@jobsweb3",
     "jobs": [
@@ -271,6 +271,8 @@
       }
     ],
     "message": "• Tether is hiring <a href=\"https://hashtagweb3.com/manager533?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Expansion Manager</a>\n• Mesh is hiring <a href=\"https://hashtagweb3.com/pm81?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Product Manager</a>\n• Wintermute is hiring <a href=\"https://hashtagweb3.com/product36?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Product Manager</a>\n• Jane Street is hiring <a href=\"https://hashtagweb3.com/eng350?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Linux Engineer</a>\n• Block is hiring <a href=\"https://hashtagweb3.com/eng318?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Analytics Engineer</a>",
-    "slotKey": "2026-09-30:evening"
+    "slotKey": "2026-09-30:evening",
+    "messageId": 92,
+    "sentAt": "2026-09-30T19:33:02.264Z"
   }
 }
