@@ -293,5 +293,37 @@
     "slotKey": "2026-09-30:afternoon",
     "messageId": 65715,
     "sentAt": "2026-09-30T11:46:03.483Z"
+  },
+  "414e9d8b-c1b8-4f9e-86c1-7c54f884df54": {
+    "status": "reserved",
+    "reservedAt": "2026-09-30T19:33:46.679Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Brazil Depository CSD BR Mirrors Fund Shares on XRP Ledger",
+        "summary": "The depository will copy BTG Pactual fund share ownership data to the public network while keeping official records internally.",
+        "link": "https://hashtagweb3.com/brazil-depository?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Brazil depository CSD BR to mirror fund records on XRP Ledger"
+      },
+      {
+        "index": -1,
+        "headline": "Coinbase Obtains CFTC Derivatives Clearing License",
+        "summary": "The September 28 registration lets Coinbase directly handle trade execution, brokerage, and settlement for fully collateralized US derivatives.",
+        "link": "https://hashtagweb3.com/coinbase-clearing?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Coinbase wins CFTC clearing license to complete US derivatives stack"
+      },
+      {
+        "index": 15,
+        "headline": "United Kingdom opens registration window for crypto firms",
+        "summary": "Businesses must submit applications by February ahead of the country's new regulatory framework launching in late 2027.",
+        "event_rationale": "This covers the official opening of the United Kingdom's regulatory application window for digital asset companies.",
+        "link": "https://www.coindesk.com/policy/2026/09/30/the-clock-s-ticking-uk-s-crypto-regulatory-application-window-opens-with-february-deadline",
+        "source": "CoinDesk",
+        "originalTitle": "Clock's ticking: UK's crypto regulatory application window opens with February deadline"
+      }
+    ],
+    "slotKey": "2026-09-30:evening"
   }
 }
