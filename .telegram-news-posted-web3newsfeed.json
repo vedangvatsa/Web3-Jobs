@@ -659,6 +659,9 @@
   "https://hashtagweb3.com/near-bitget?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://www.coindesk.com/daybook-us/2026/09/30/a-stronger-dollar-is-a-weaker-threat-to-bitcoin-than-traders-think",
   "https://decrypt.co/379632/mcdonalds-ai-pricing-engine-gauges-what-customers-will-pay-for-a-big-mac-report",
+  "https://hashtagweb3.com/brazil-depository?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/coinbase-clearing?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://www.coindesk.com/policy/2026/09/30/the-clock-s-ticking-uk-s-crypto-regulatory-application-window-opens-with-february-deadline",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -1881,6 +1884,12 @@
   "A stronger dollar is a weaker threat to bitcoin than traders think",
   "McDonald's Uses AI to Set Different Prices at Each Location",
   "McDonald's AI ‘Pricing Engine’ Gauges What Customers Will Pay for a Big Mac: Report",
+  "Brazil Depository CSD BR Mirrors Fund Shares on XRP Ledger",
+  "Brazil depository CSD BR to mirror fund records on XRP Ledger",
+  "Coinbase Obtains CFTC Derivatives Clearing License",
+  "Coinbase wins CFTC clearing license to complete US derivatives stack",
+  "United Kingdom opens registration window for crypto firms",
+  "Clock's ticking: UK's crypto regulatory application window opens with February deadline",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -2069,5 +2078,8 @@
   "fp:activity|check|com|comer|congressman|employe|hyperliquid|identity|investigat|platform",
   "fp:000|503|50m|additional|bitget|block|exchang|execution|exploit|froz",
   "fp:analyst|dollar|hav|impact|market|minimal|minor|performanc|pos|ris",
-  "fp:between|big|caus|cost|customer|determin|differenc|different|each|engin"
+  "fp:between|big|caus|cost|customer|determin|differenc|different|each|engin",
+  "fp:brazil|btg|copy|csd|data|depository|fund|internally|keep|ledger",
+  "fp:brokerag|cftc|clear|coinbas|collateraliz|complet|derivativ|directly|execution|fully",
+  "fp:ahead|application|business|clock|country|deadlin|february|firm|framework|kingdom"
 ]
