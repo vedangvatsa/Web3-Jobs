@@ -1,5 +1,5 @@
 {
-  "lastIndex": 306,
+  "lastIndex": 311,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -121,7 +121,9 @@
     "pm126",
     "eng188",
     "eng333",
-    "mgr55"
+    "mgr55",
+    "sls181",
+    "pm149"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -4636,516 +4638,6 @@
       "platform": "instagram",
       "postedAt": "2026-09-25T03:51:22.563Z",
       "postId": "18449861734120522",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls140",
-      "company": "Blockstream",
-      "title": "Technical Solutions Consultant (Pre-Sales)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T03:56:18.855Z",
-      "postId": "0x029ec8dca583bfa7d2239a39b0f727410b011d39",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls140",
-      "company": "Blockstream",
-      "title": "Technical Solutions Consultant (Pre-Sales)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T03:56:18.855Z",
-      "postId": "0x3a6a27250cf634e3d052ee2eebce52d5aef224a6",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls140",
-      "company": "Blockstream",
-      "title": "Technical Solutions Consultant (Pre-Sales)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T03:56:18.855Z",
-      "postId": "0x5a9a02aea6fb69b60f483a78952bb0ca531a8616",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls140",
-      "company": "Blockstream",
-      "title": "Technical Solutions Consultant (Pre-Sales)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T03:56:18.855Z",
-      "postId": "0xf34f1c38469e9d1f9fac4ac106c568c7a76ac140",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls140",
-      "company": "Blockstream",
-      "title": "Technical Solutions Consultant (Pre-Sales)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T03:56:18.855Z",
-      "postId": "0x29244ea3f93c1f46a8fdeb0d20eafd4ab38538c0",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls140",
-      "company": "Blockstream",
-      "title": "Technical Solutions Consultant (Pre-Sales)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T03:56:18.855Z",
-      "postId": "0xa9c2befd4826f9eaa3b98df22431446c1c26014e",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls140",
-      "company": "Blockstream",
-      "title": "Technical Solutions Consultant (Pre-Sales)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T03:56:18.855Z",
-      "postId": "0x56abcf8eae6e295d4ad3962921eeb0820dcd50f6",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls140",
-      "company": "Blockstream",
-      "title": "Technical Solutions Consultant (Pre-Sales)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T03:56:18.855Z",
-      "postId": "0x969fb3cd51798f4439f4ee8fe0cd03f4c7169c25",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls140",
-      "company": "Blockstream",
-      "title": "Technical Solutions Consultant (Pre-Sales)",
-      "platform": "linkedin",
-      "postedAt": "2026-09-28T03:56:18.855Z",
-      "postId": "6ab9e57970ec211d1d326a04",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls140",
-      "company": "Blockstream",
-      "title": "Technical Solutions Consultant (Pre-Sales)",
-      "platform": "linkedin",
-      "postedAt": "2026-09-28T03:56:18.855Z",
-      "postId": "6ab9e58470ec211d1d326a66",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls140",
-      "company": "Blockstream",
-      "title": "Technical Solutions Consultant (Pre-Sales)",
-      "platform": "linkedin",
-      "postedAt": "2026-09-28T03:56:18.855Z",
-      "postId": "urn:li:share:7510185785334067200",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls140",
-      "company": "Blockstream",
-      "title": "Technical Solutions Consultant (Pre-Sales)",
-      "platform": "facebook",
-      "postedAt": "2026-09-28T03:56:18.855Z",
-      "postId": "691827047618629_1100171519256749",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls140",
-      "company": "Blockstream",
-      "title": "Technical Solutions Consultant (Pre-Sales)",
-      "platform": "instagram",
-      "postedAt": "2026-09-28T03:56:18.855Z",
-      "postId": "17963259606218347",
-      "verification": "verified"
-    },
-    {
-      "slug": "senior68",
-      "company": "eToro",
-      "title": "Senior CASS Officer",
-      "platform": "x",
-      "postedAt": "2026-09-28T03:57:22.941Z",
-      "postId": "6ab9e5a3612c9e6ac93e4be2",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "eToro is hiring Senior CASS Officer\n\nhttps://hashtagweb3.com/senior68/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2104420178603745340"
-    },
-    {
-      "slug": "senior68",
-      "company": "eToro",
-      "title": "Senior CASS Officer",
-      "platform": "threads",
-      "postedAt": "2026-09-28T03:57:22.941Z",
-      "postId": "18118835599819345",
-      "verification": "verified",
-      "expectedText": "eToro is hiring Senior CASS Officer: https://hashtagweb3.com/senior68/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/Dd0RXoPFRAU",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "senior68",
-      "company": "eToro",
-      "title": "Senior CASS Officer",
-      "platform": "bluesky",
-      "postedAt": "2026-09-28T03:57:22.941Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwkgcn6svm2z",
-      "verification": "verified"
-    },
-    {
-      "slug": "senior68",
-      "company": "eToro",
-      "title": "Senior CASS Officer",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T03:57:22.941Z",
-      "postId": "0x2b1b21f059da574f4840e606458b0d81c37f734d",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "senior68",
-      "company": "eToro",
-      "title": "Senior CASS Officer",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T03:57:22.941Z",
-      "postId": "0x8e1456819fc60c4848faebae21622dde2bad1c03",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "senior68",
-      "company": "eToro",
-      "title": "Senior CASS Officer",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T03:57:22.941Z",
-      "postId": "0xc37d0da99d6c5507eca96c833bdaf7fdbe81b025",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "senior68",
-      "company": "eToro",
-      "title": "Senior CASS Officer",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T03:57:22.941Z",
-      "postId": "0xb89b29d0fc2935b04c9f77431f1c7ff4649eed18",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "senior68",
-      "company": "eToro",
-      "title": "Senior CASS Officer",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T03:57:22.941Z",
-      "postId": "0xa7c37b8d06e25863e0977a31b90326304465e052",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "senior68",
-      "company": "eToro",
-      "title": "Senior CASS Officer",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T03:57:22.941Z",
-      "postId": "0x42f8eb05ba323d85d7ec23236e464e8291bef1de",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "senior68",
-      "company": "eToro",
-      "title": "Senior CASS Officer",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T03:57:22.941Z",
-      "postId": "0x1af9c227c8080109f4b6ebdf327f0c26f59ddb6d",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "senior68",
-      "company": "eToro",
-      "title": "Senior CASS Officer",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T03:57:22.941Z",
-      "postId": "0x8671e4c17e2db7ab2341f445760e996f40d8909d",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "senior68",
-      "company": "eToro",
-      "title": "Senior CASS Officer",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T03:57:22.941Z",
-      "postId": "0x4a9c964a5cb17eb169ea9e35aa6a3a743a1ea3c6",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "senior68",
-      "company": "eToro",
-      "title": "Senior CASS Officer",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T03:57:22.941Z",
-      "postId": "0x4a052b60dbf633d65a14defad6ce7e8506bdea2d",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "senior68",
-      "company": "eToro",
-      "title": "Senior CASS Officer",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T03:57:22.941Z",
-      "postId": "0x6a981a73c55314f4e12b68f5ee238c92afb4abf0",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "senior68",
-      "company": "eToro",
-      "title": "Senior CASS Officer",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T03:57:22.941Z",
-      "postId": "0xadf3703af9fee9a21478affa2f425bc6f4fe0c44",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "senior68",
-      "company": "eToro",
-      "title": "Senior CASS Officer",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T03:57:22.941Z",
-      "postId": "0x307214d3c0f31b41bc43149d3c6662196d4b3e23",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "senior68",
-      "company": "eToro",
-      "title": "Senior CASS Officer",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T03:57:22.941Z",
-      "postId": "0x9c570fe703f6097f39343a1c9001113a72f2e9b0",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "senior68",
-      "company": "eToro",
-      "title": "Senior CASS Officer",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T03:57:22.941Z",
-      "postId": "0xfe1dcaa354a756958e115f96ef09ed23d85b45d8",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "senior68",
-      "company": "eToro",
-      "title": "Senior CASS Officer",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T03:57:22.941Z",
-      "postId": "0xd5e4fd903115a6a7eb10b11566fe047deeb62b7f",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "senior68",
-      "company": "eToro",
-      "title": "Senior CASS Officer",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T03:57:22.941Z",
-      "postId": "0x04bb26f010e93ad68d3eda6101c8eefa0a5b030a",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "senior68",
-      "company": "eToro",
-      "title": "Senior CASS Officer",
-      "platform": "linkedin",
-      "postedAt": "2026-09-28T03:57:22.941Z",
-      "postId": "6ab9e5b5a94ef4516f286c85",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "senior68",
-      "company": "eToro",
-      "title": "Senior CASS Officer",
-      "platform": "linkedin",
-      "postedAt": "2026-09-28T03:57:22.941Z",
-      "postId": "6ab9e5c0a94ef4516f286d50",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "senior68",
-      "company": "eToro",
-      "title": "Senior CASS Officer",
-      "platform": "linkedin",
-      "postedAt": "2026-09-28T03:57:22.941Z",
-      "postId": "urn:li:share:7510186038896562177",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "senior68",
-      "company": "eToro",
-      "title": "Senior CASS Officer",
-      "platform": "facebook",
-      "postedAt": "2026-09-28T03:57:22.941Z",
-      "postId": "691827047618629_1100172165923351",
-      "verification": "verified"
-    },
-    {
-      "slug": "senior68",
-      "company": "eToro",
-      "title": "Senior CASS Officer",
-      "platform": "instagram",
-      "postedAt": "2026-09-28T03:57:22.941Z",
-      "postId": "18020726447945937",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls139",
-      "company": "Blockstream",
-      "title": "Technical Solutions Consultant (Pre-Sales)",
-      "platform": "x",
-      "postedAt": "2026-09-28T10:02:10.553Z",
-      "postId": "6aba3b22012a589e32c79e9c",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "Blockstream is hiring Technical Solutions Consultant (Pre-Sales)\n\nhttps://hashtagweb3.com/sls139/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2104511981872939103"
-    },
-    {
-      "slug": "sls139",
-      "company": "Blockstream",
-      "title": "Technical Solutions Consultant (Pre-Sales)",
-      "platform": "threads",
-      "postedAt": "2026-09-28T10:02:10.553Z",
-      "postId": "18116649299516698",
-      "verification": "verified",
-      "expectedText": "Blockstream is hiring Technical Solutions Consultant (Pre-Sales): https://hashtagweb3.com/sls139/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/Dd07Hl7ER4P",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "sls139",
-      "company": "Blockstream",
-      "title": "Technical Solutions Consultant (Pre-Sales)",
-      "platform": "bluesky",
-      "postedAt": "2026-09-28T10:02:10.553Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwl2oz3clc26",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls139",
-      "company": "Blockstream",
-      "title": "Technical Solutions Consultant (Pre-Sales)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T10:02:10.553Z",
-      "postId": "0x6035634f76d50bdf4e903abb3db4a7032efcb828",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls139",
-      "company": "Blockstream",
-      "title": "Technical Solutions Consultant (Pre-Sales)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T10:02:10.553Z",
-      "postId": "0x368b4c77f576ff7f38cdfc55739be6be108b39d6",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls139",
-      "company": "Blockstream",
-      "title": "Technical Solutions Consultant (Pre-Sales)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T10:02:10.553Z",
-      "postId": "0xaf6e4a689bb62908f313a40d2327bff869d8d42c",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls139",
-      "company": "Blockstream",
-      "title": "Technical Solutions Consultant (Pre-Sales)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T10:02:10.553Z",
-      "postId": "0xb1ec25f51d6ce73f6d9c1575bc497e475edb4bdc",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls139",
-      "company": "Blockstream",
-      "title": "Technical Solutions Consultant (Pre-Sales)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T10:02:10.553Z",
-      "postId": "0xaff94b67da87b49e17586e11555b18005ba41466",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls139",
-      "company": "Blockstream",
-      "title": "Technical Solutions Consultant (Pre-Sales)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T10:02:10.553Z",
-      "postId": "0x40c274893d9781b56e4f0ddd5dbbe5bca253e083",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls139",
-      "company": "Blockstream",
-      "title": "Technical Solutions Consultant (Pre-Sales)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T10:02:10.553Z",
-      "postId": "0x77a2d26860c82dc8933b6e9d89eb3f1cf3fc92e9",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls139",
-      "company": "Blockstream",
-      "title": "Technical Solutions Consultant (Pre-Sales)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T10:02:10.553Z",
-      "postId": "0x2372ff3d10fc44ea1d8f426f528433704310742c",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls139",
-      "company": "Blockstream",
-      "title": "Technical Solutions Consultant (Pre-Sales)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T10:02:10.553Z",
-      "postId": "0xecfdc51d9e1ed6882df94eaf5bb526b6814f7455",
-      "account": "channel:founders",
       "verification": "verified"
     },
     {
@@ -10098,6 +9590,516 @@
       "platform": "instagram",
       "postedAt": "2026-09-30T11:44:22.139Z",
       "postId": "18100933466131242",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls181",
+      "company": "Stripe",
+      "title": "Sales Leader, India",
+      "platform": "x",
+      "postedAt": "2026-09-30T19:32:32.828Z",
+      "postId": "6abd63d15feb60d63458e64a",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Stripe is hiring Sales Leader, India\n\nhttps://hashtagweb3.com/sls181/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2105380296975679571"
+    },
+    {
+      "slug": "sls181",
+      "company": "Stripe",
+      "title": "Sales Leader, India",
+      "platform": "threads",
+      "postedAt": "2026-09-30T19:32:32.828Z",
+      "postId": "18065774435759935",
+      "verification": "verified",
+      "expectedText": "Stripe is hiring Sales Leader, India: https://hashtagweb3.com/sls181/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/Dd7F-1FCfa1",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "sls181",
+      "company": "Stripe",
+      "title": "Sales Leader, India",
+      "platform": "bluesky",
+      "postedAt": "2026-09-30T19:32:32.828Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwr3inyz232z",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls181",
+      "company": "Stripe",
+      "title": "Sales Leader, India",
+      "platform": "farcaster",
+      "postedAt": "2026-09-30T19:32:32.828Z",
+      "postId": "0xd369ea5b6a368a8248744d69cb434c152afaf19f",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls181",
+      "company": "Stripe",
+      "title": "Sales Leader, India",
+      "platform": "farcaster",
+      "postedAt": "2026-09-30T19:32:32.828Z",
+      "postId": "0xfc0b936307f153cf6e88ba90ac45c92acdc0abf6",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls181",
+      "company": "Stripe",
+      "title": "Sales Leader, India",
+      "platform": "farcaster",
+      "postedAt": "2026-09-30T19:32:32.828Z",
+      "postId": "0x099a22189023a14d772b58276c1423a53dee1b5b",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls181",
+      "company": "Stripe",
+      "title": "Sales Leader, India",
+      "platform": "farcaster",
+      "postedAt": "2026-09-30T19:32:32.828Z",
+      "postId": "0xcbb9c748b9de6cc8268f78a8c5c4c20797ccb84b",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls181",
+      "company": "Stripe",
+      "title": "Sales Leader, India",
+      "platform": "farcaster",
+      "postedAt": "2026-09-30T19:32:32.828Z",
+      "postId": "0x9a638accda141111f3fb0c0d9697cd0a83c49173",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls181",
+      "company": "Stripe",
+      "title": "Sales Leader, India",
+      "platform": "farcaster",
+      "postedAt": "2026-09-30T19:32:32.828Z",
+      "postId": "0xe08aae7df8066d2115badf168bc69e6aba11d6f1",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls181",
+      "company": "Stripe",
+      "title": "Sales Leader, India",
+      "platform": "farcaster",
+      "postedAt": "2026-09-30T19:32:32.828Z",
+      "postId": "0x35a383247262cccdb8da9e084aa9cd5db31ad74b",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls181",
+      "company": "Stripe",
+      "title": "Sales Leader, India",
+      "platform": "farcaster",
+      "postedAt": "2026-09-30T19:32:32.828Z",
+      "postId": "0x38c97a23223f0bbf19549c2afd71efc4e64c8577",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls181",
+      "company": "Stripe",
+      "title": "Sales Leader, India",
+      "platform": "farcaster",
+      "postedAt": "2026-09-30T19:32:32.828Z",
+      "postId": "0x6806fa9bce299fd75cf828e22719c692a13c9cbe",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls181",
+      "company": "Stripe",
+      "title": "Sales Leader, India",
+      "platform": "farcaster",
+      "postedAt": "2026-09-30T19:32:32.828Z",
+      "postId": "0x2289aa31e4e4ab65b1823a01f289ded041dffc06",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls181",
+      "company": "Stripe",
+      "title": "Sales Leader, India",
+      "platform": "farcaster",
+      "postedAt": "2026-09-30T19:32:32.828Z",
+      "postId": "0x859d56622a2f197f6c48b5a42c725bd99eae3ce9",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls181",
+      "company": "Stripe",
+      "title": "Sales Leader, India",
+      "platform": "farcaster",
+      "postedAt": "2026-09-30T19:32:32.828Z",
+      "postId": "0x21969171844e960f2f2ff32d83f8ba946f39303e",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls181",
+      "company": "Stripe",
+      "title": "Sales Leader, India",
+      "platform": "farcaster",
+      "postedAt": "2026-09-30T19:32:32.828Z",
+      "postId": "0x4b76914101fb5fbffba569b4c2a00af536ca0d6a",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls181",
+      "company": "Stripe",
+      "title": "Sales Leader, India",
+      "platform": "farcaster",
+      "postedAt": "2026-09-30T19:32:32.828Z",
+      "postId": "0xb0162df16c7e9e28a9f8c255b1011fd3699c471d",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls181",
+      "company": "Stripe",
+      "title": "Sales Leader, India",
+      "platform": "farcaster",
+      "postedAt": "2026-09-30T19:32:32.828Z",
+      "postId": "0xa66d2d2b1a3ee55750f4a1833dbfba3fdc723d4f",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls181",
+      "company": "Stripe",
+      "title": "Sales Leader, India",
+      "platform": "farcaster",
+      "postedAt": "2026-09-30T19:32:32.828Z",
+      "postId": "0x91c89792518d752c055cf0a1ced9ca2e17512b11",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls181",
+      "company": "Stripe",
+      "title": "Sales Leader, India",
+      "platform": "farcaster",
+      "postedAt": "2026-09-30T19:32:32.828Z",
+      "postId": "0xa0f1b29d15f0a215a82451e5c4601a3128a70eea",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls181",
+      "company": "Stripe",
+      "title": "Sales Leader, India",
+      "platform": "linkedin",
+      "postedAt": "2026-09-30T19:32:32.828Z",
+      "postId": "6abd63e35feb60d63458e87e",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls181",
+      "company": "Stripe",
+      "title": "Sales Leader, India",
+      "platform": "linkedin",
+      "postedAt": "2026-09-30T19:32:32.828Z",
+      "postId": "6abd63ee693d245d2936bc10",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls181",
+      "company": "Stripe",
+      "title": "Sales Leader, India",
+      "platform": "linkedin",
+      "postedAt": "2026-09-30T19:32:32.828Z",
+      "postId": "urn:li:share:7511146155611717634",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls181",
+      "company": "Stripe",
+      "title": "Sales Leader, India",
+      "platform": "facebook",
+      "postedAt": "2026-09-30T19:32:32.828Z",
+      "postId": "691827047618629_1102752578998643",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls181",
+      "company": "Stripe",
+      "title": "Sales Leader, India",
+      "platform": "instagram",
+      "postedAt": "2026-09-30T19:32:32.828Z",
+      "postId": "18178561582440175",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm149",
+      "company": "OKX",
+      "title": "Senior/Lead Product Manager - Professional Trading Tools & Experience",
+      "platform": "x",
+      "postedAt": "2026-09-30T19:33:36.668Z",
+      "postId": "6abd64101971cfe1dd9607c0",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "OKX is hiring Senior/Lead Product Manager - Professional Trading Tools & Experience\n\nhttps://hashtagweb3.com/pm149/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2105380563737608560"
+    },
+    {
+      "slug": "pm149",
+      "company": "OKX",
+      "title": "Senior/Lead Product Manager - Professional Trading Tools & Experience",
+      "platform": "threads",
+      "postedAt": "2026-09-30T19:33:36.668Z",
+      "postId": "18128681812819388",
+      "verification": "verified",
+      "expectedText": "OKX is hiring Senior/Lead Product Manager - Professional Trading Tools & Experience: https://hashtagweb3.com/pm149/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/Dd7GGjlCdfQ",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "pm149",
+      "company": "OKX",
+      "title": "Senior/Lead Product Manager - Professional Trading Tools & Experience",
+      "platform": "bluesky",
+      "postedAt": "2026-09-30T19:33:36.668Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwr3kjkqcx2e",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm149",
+      "company": "OKX",
+      "title": "Senior/Lead Product Manager - Professional Trading Tools & Experience",
+      "platform": "farcaster",
+      "postedAt": "2026-09-30T19:33:36.668Z",
+      "postId": "0x08a5accfd8d84ad4ad70e68756b19ba4914edaaa",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm149",
+      "company": "OKX",
+      "title": "Senior/Lead Product Manager - Professional Trading Tools & Experience",
+      "platform": "farcaster",
+      "postedAt": "2026-09-30T19:33:36.668Z",
+      "postId": "0x64b068674df0f32b6b894918746e52c7d4b3d28d",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm149",
+      "company": "OKX",
+      "title": "Senior/Lead Product Manager - Professional Trading Tools & Experience",
+      "platform": "farcaster",
+      "postedAt": "2026-09-30T19:33:36.668Z",
+      "postId": "0x41a42b978371f20ee9047522eb13917990ee1fdd",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm149",
+      "company": "OKX",
+      "title": "Senior/Lead Product Manager - Professional Trading Tools & Experience",
+      "platform": "farcaster",
+      "postedAt": "2026-09-30T19:33:36.668Z",
+      "postId": "0x79da8ebd2aa1ea04c827af09168d348a02884c85",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm149",
+      "company": "OKX",
+      "title": "Senior/Lead Product Manager - Professional Trading Tools & Experience",
+      "platform": "farcaster",
+      "postedAt": "2026-09-30T19:33:36.668Z",
+      "postId": "0x06b85c5496409888de69205a0770e39892ada580",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm149",
+      "company": "OKX",
+      "title": "Senior/Lead Product Manager - Professional Trading Tools & Experience",
+      "platform": "farcaster",
+      "postedAt": "2026-09-30T19:33:36.668Z",
+      "postId": "0x76323d2799d7eba76baeeb88aef36307d9188531",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm149",
+      "company": "OKX",
+      "title": "Senior/Lead Product Manager - Professional Trading Tools & Experience",
+      "platform": "farcaster",
+      "postedAt": "2026-09-30T19:33:36.668Z",
+      "postId": "0x125547d3c8d1a23fba563dbdbb95843d4c5ee722",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm149",
+      "company": "OKX",
+      "title": "Senior/Lead Product Manager - Professional Trading Tools & Experience",
+      "platform": "farcaster",
+      "postedAt": "2026-09-30T19:33:36.668Z",
+      "postId": "0xfd65b61865eebb6f6868509322ddab05f6c70d08",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm149",
+      "company": "OKX",
+      "title": "Senior/Lead Product Manager - Professional Trading Tools & Experience",
+      "platform": "farcaster",
+      "postedAt": "2026-09-30T19:33:36.668Z",
+      "postId": "0x7306feadf3c832402ef90a4d84499291dfb75b0a",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm149",
+      "company": "OKX",
+      "title": "Senior/Lead Product Manager - Professional Trading Tools & Experience",
+      "platform": "farcaster",
+      "postedAt": "2026-09-30T19:33:36.668Z",
+      "postId": "0xa00917003e43711a0539442c331e371e53d5f408",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm149",
+      "company": "OKX",
+      "title": "Senior/Lead Product Manager - Professional Trading Tools & Experience",
+      "platform": "farcaster",
+      "postedAt": "2026-09-30T19:33:36.668Z",
+      "postId": "0xf97ec6383c070e30bbde0281101a6ef060af82b1",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm149",
+      "company": "OKX",
+      "title": "Senior/Lead Product Manager - Professional Trading Tools & Experience",
+      "platform": "farcaster",
+      "postedAt": "2026-09-30T19:33:36.668Z",
+      "postId": "0x5fa385b183a595a2f7110765de0c7e4317b301aa",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm149",
+      "company": "OKX",
+      "title": "Senior/Lead Product Manager - Professional Trading Tools & Experience",
+      "platform": "farcaster",
+      "postedAt": "2026-09-30T19:33:36.668Z",
+      "postId": "0x898abf9ecacd804e212646598ec414e33a642646",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm149",
+      "company": "OKX",
+      "title": "Senior/Lead Product Manager - Professional Trading Tools & Experience",
+      "platform": "farcaster",
+      "postedAt": "2026-09-30T19:33:36.668Z",
+      "postId": "0x6803422cfaa99a7682216d1b06e484743791cd33",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm149",
+      "company": "OKX",
+      "title": "Senior/Lead Product Manager - Professional Trading Tools & Experience",
+      "platform": "farcaster",
+      "postedAt": "2026-09-30T19:33:36.668Z",
+      "postId": "0x0d0ef090960afb93c0b928226f9352b97f226e1c",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm149",
+      "company": "OKX",
+      "title": "Senior/Lead Product Manager - Professional Trading Tools & Experience",
+      "platform": "farcaster",
+      "postedAt": "2026-09-30T19:33:36.668Z",
+      "postId": "0xf499f54bf92acd0bdd2e43a1e3a5a6a4842eefc8",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm149",
+      "company": "OKX",
+      "title": "Senior/Lead Product Manager - Professional Trading Tools & Experience",
+      "platform": "farcaster",
+      "postedAt": "2026-09-30T19:33:36.668Z",
+      "postId": "0x1ae4ce76245f416ce50eca74d3eef76cd97ca2ba",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm149",
+      "company": "OKX",
+      "title": "Senior/Lead Product Manager - Professional Trading Tools & Experience",
+      "platform": "linkedin",
+      "postedAt": "2026-09-30T19:33:36.668Z",
+      "postId": "6abd642101f18483b9ee0879",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm149",
+      "company": "OKX",
+      "title": "Senior/Lead Product Manager - Professional Trading Tools & Experience",
+      "platform": "linkedin",
+      "postedAt": "2026-09-30T19:33:36.668Z",
+      "postId": "6abd642c01f18483b9ee09c5",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm149",
+      "company": "OKX",
+      "title": "Senior/Lead Product Manager - Professional Trading Tools & Experience",
+      "platform": "linkedin",
+      "postedAt": "2026-09-30T19:33:36.668Z",
+      "postId": "urn:li:share:7511146415683747840",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm149",
+      "company": "OKX",
+      "title": "Senior/Lead Product Manager - Professional Trading Tools & Experience",
+      "platform": "facebook",
+      "postedAt": "2026-09-30T19:33:36.668Z",
+      "postId": "691827047618629_1102753635665204",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm149",
+      "company": "OKX",
+      "title": "Senior/Lead Product Manager - Professional Trading Tools & Experience",
+      "platform": "instagram",
+      "postedAt": "2026-09-30T19:33:36.668Z",
+      "postId": "18138154879606482",
       "verification": "verified"
     }
   ]
