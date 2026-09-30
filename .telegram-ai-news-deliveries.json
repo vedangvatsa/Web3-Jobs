@@ -181,5 +181,38 @@
     "slotKey": "2026-09-29:evening",
     "messageId": 193303,
     "sentAt": "2026-09-29T19:48:29.860Z"
+  },
+  "34652262-4c27-48ea-9bd3-5a2866ecae0a": {
+    "status": "reserved",
+    "reservedAt": "2026-09-30T11:45:12.226Z",
+    "stories": [
+      {
+        "index": 4,
+        "original_title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
+        "headline": "OpenAI negotiates $30 billion funding round",
+        "summary": "The company seeks new capital at a $1.4 trillion valuation ahead of a planned 2027 public offering.",
+        "event_rationale": "This covers a major, distinct financial event regarding the largest private AI company's valuation and capital structure.",
+        "link": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+        "source": "TechCrunch",
+        "originalTitle": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation"
+      },
+      {
+        "index": 2,
+        "headline": "America.gov Minecraft Responses Are Not AI Hallucinations",
+        "summary": "The government website's poetic responses about the video game are not caused by an AI system error.",
+        "link": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
+        "source": "TechCrunch",
+        "originalTitle": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch"
+      },
+      {
+        "index": 3,
+        "headline": "Protesters use sculpture to criticize OpenAI leaders",
+        "summary": "The new art installation depicts artificial intelligence industry leaders escaping from a sinking ship.",
+        "link": "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/",
+        "source": "Ars Technica",
+        "originalTitle": "Protests against OpenAI get increasingly creative"
+      }
+    ],
+    "slotKey": "2026-09-30:afternoon"
   }
 }
