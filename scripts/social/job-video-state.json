@@ -34,10 +34,11 @@
           "url": "https://www.youtube.com/watch?v=J5OZ7ZZlyuA"
         },
         "tiktok": {
-          "status": "pending",
+          "status": "sent",
           "text": "Frontend Software Engineer at Tether. 100% Remote.\n\nFind the role on hashtagweb3.com\n\n#Hiring #RemoteJobs #TechJobs",
           "startedAt": "2026-09-30T23:06:54.876Z",
-          "postId": "6abd961004278f16f2fbd89f"
+          "postId": "6abd961004278f16f2fbd89f",
+          "url": "https://tiktok.com/@hashtagweb3/video/7691468745973271841"
         }
       }
     },
