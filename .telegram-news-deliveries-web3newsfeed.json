@@ -327,5 +327,37 @@
     "slotKey": "2026-09-30:evening",
     "messageId": 65716,
     "sentAt": "2026-09-30T19:33:49.133Z"
+  },
+  "d8d3c19f-fa99-4cda-a599-d654090e32f5": {
+    "status": "reserved",
+    "reservedAt": "2026-10-01T04:03:49.899Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Coinbase offers Oura IPO shares to US retail customers",
+        "summary": "Eligible users can request shares at the offer price through a new platform page before the Nasdaq listing.",
+        "link": "https://hashtagweb3.com/coinbase-oura?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Coinbase Opens Oura IPO Allocations to US Retail Customers"
+      },
+      {
+        "index": 1,
+        "headline": "Bloomberg Terminal adds blockchain stablecoin data for institutional users",
+        "summary": "The platform now provides hourly metrics on stablecoin supply, issuance, and transfers across several blockchain networks.",
+        "event_rationale": "This event covers the integration of blockchain analytics into professional financial tools, distinct from previous institutional adoption stories.",
+        "link": "https://cointelegraph.com/news/metamask-exits-lido-validators-as-it-investigates-security-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph",
+        "originalTitle": "MetaMask exits Ethereum validators amid undisclosed security incident"
+      },
+      {
+        "index": 2,
+        "headline": "Google Releases Gemini 4 Argon AI Model",
+        "summary": "The model leads twelve of eighteen cybersecurity benchmarks and is available to security experts without standard restrictions.",
+        "link": "https://decrypt.co/379784/gemini-4-google-flagship-tops-ai-models-cybersecurity",
+        "source": "Decrypt",
+        "originalTitle": "Gemini 4 Is Here, and Google’s Flagship Tops All Other AI Models on Cybersecurity"
+      }
+    ],
+    "slotKey": "2026-10-01:morning"
   }
 }
