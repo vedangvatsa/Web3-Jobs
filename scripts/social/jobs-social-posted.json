@@ -1,5 +1,5 @@
 {
-  "lastIndex": 311,
+  "lastIndex": 313,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -123,7 +123,9 @@
     "eng333",
     "mgr55",
     "sls181",
-    "pm149"
+    "pm149",
+    "cmp64",
+    "developer42"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -4638,516 +4640,6 @@
       "platform": "instagram",
       "postedAt": "2026-09-25T03:51:22.563Z",
       "postId": "18449861734120522",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls139",
-      "company": "Blockstream",
-      "title": "Technical Solutions Consultant (Pre-Sales)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T10:02:10.553Z",
-      "postId": "0x5c926d71c5baba70d5da59798aec1c8654b1502d",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls139",
-      "company": "Blockstream",
-      "title": "Technical Solutions Consultant (Pre-Sales)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T10:02:10.553Z",
-      "postId": "0xa0520ecfbf2d578bbe878e6b5c551169e5875936",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls139",
-      "company": "Blockstream",
-      "title": "Technical Solutions Consultant (Pre-Sales)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T10:02:10.553Z",
-      "postId": "0x889f88294d564bd96e1a2104eca7ae6b8ef583c7",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls139",
-      "company": "Blockstream",
-      "title": "Technical Solutions Consultant (Pre-Sales)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T10:02:10.553Z",
-      "postId": "0x76aa942ebcc48cea4a94a8bd63da8aa44a7f802f",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls139",
-      "company": "Blockstream",
-      "title": "Technical Solutions Consultant (Pre-Sales)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T10:02:10.553Z",
-      "postId": "0xc39956f21ac234ab768aef7f43db24eb4a03de66",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls139",
-      "company": "Blockstream",
-      "title": "Technical Solutions Consultant (Pre-Sales)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T10:02:10.553Z",
-      "postId": "0x49f0359dfa2535a32610a3511767f42d7a4faf7f",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls139",
-      "company": "Blockstream",
-      "title": "Technical Solutions Consultant (Pre-Sales)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T10:02:10.553Z",
-      "postId": "0x66a3f62eaa59584e03e8f86d52652e3752036e95",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls139",
-      "company": "Blockstream",
-      "title": "Technical Solutions Consultant (Pre-Sales)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T10:02:10.553Z",
-      "postId": "0x970c9a8532e46f3c92148ecf9c1762375a6d8e18",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls139",
-      "company": "Blockstream",
-      "title": "Technical Solutions Consultant (Pre-Sales)",
-      "platform": "linkedin",
-      "postedAt": "2026-09-28T10:02:10.553Z",
-      "postId": "6aba3b361d3c18dda592deac",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls139",
-      "company": "Blockstream",
-      "title": "Technical Solutions Consultant (Pre-Sales)",
-      "platform": "linkedin",
-      "postedAt": "2026-09-28T10:02:10.553Z",
-      "postId": "6aba3b4143399dda567d50fa",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls139",
-      "company": "Blockstream",
-      "title": "Technical Solutions Consultant (Pre-Sales)",
-      "platform": "linkedin",
-      "postedAt": "2026-09-28T10:02:10.553Z",
-      "postId": "urn:li:share:7510277847769448448",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls139",
-      "company": "Blockstream",
-      "title": "Technical Solutions Consultant (Pre-Sales)",
-      "platform": "facebook",
-      "postedAt": "2026-09-28T10:02:10.553Z",
-      "postId": "691827047618629_1100399982567236",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls139",
-      "company": "Blockstream",
-      "title": "Technical Solutions Consultant (Pre-Sales)",
-      "platform": "instagram",
-      "postedAt": "2026-09-28T10:02:10.553Z",
-      "postId": "18125687428894588",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls10",
-      "company": "Nexo",
-      "title": "Accountant, General Ledger",
-      "platform": "x",
-      "postedAt": "2026-09-28T10:03:13.563Z",
-      "postId": "6aba3b61f45a6e53450251b0",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "Nexo is hiring Accountant, General Ledger\n\nhttps://hashtagweb3.com/sls10/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2104512245921181715"
-    },
-    {
-      "slug": "sls10",
-      "company": "Nexo",
-      "title": "Accountant, General Ledger",
-      "platform": "threads",
-      "postedAt": "2026-09-28T10:03:13.563Z",
-      "postId": "17967870123172136",
-      "verification": "verified",
-      "expectedText": "Nexo is hiring Accountant, General Ledger: https://hashtagweb3.com/sls10/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/Dd07PZ5EaB4",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "sls10",
-      "company": "Nexo",
-      "title": "Accountant, General Ledger",
-      "platform": "bluesky",
-      "postedAt": "2026-09-28T10:03:13.563Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwl2qt2wbl2f",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls10",
-      "company": "Nexo",
-      "title": "Accountant, General Ledger",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T10:03:13.563Z",
-      "postId": "0xb7a9353082496f024092a08014d15a18b37aa1c9",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls10",
-      "company": "Nexo",
-      "title": "Accountant, General Ledger",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T10:03:13.563Z",
-      "postId": "0x24436b88347c11aad171dabc8e2bec30a839f223",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls10",
-      "company": "Nexo",
-      "title": "Accountant, General Ledger",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T10:03:13.563Z",
-      "postId": "0xd488c6e27b68583c105569c2e3ca2ab90878e249",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls10",
-      "company": "Nexo",
-      "title": "Accountant, General Ledger",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T10:03:13.563Z",
-      "postId": "0x402cc4aff4ab8f9f60f0e19eb1cdeb6554c9ae1c",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls10",
-      "company": "Nexo",
-      "title": "Accountant, General Ledger",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T10:03:13.563Z",
-      "postId": "0x9127c2cc5cce3db21fd61cbacaa924890a00c7ce",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls10",
-      "company": "Nexo",
-      "title": "Accountant, General Ledger",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T10:03:13.563Z",
-      "postId": "0x0613d397a3354c9b5cc6eb9a20356ea90611e18a",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls10",
-      "company": "Nexo",
-      "title": "Accountant, General Ledger",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T10:03:13.563Z",
-      "postId": "0xe20df985c4ce73d0741f8552d9318996f373320b",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls10",
-      "company": "Nexo",
-      "title": "Accountant, General Ledger",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T10:03:13.563Z",
-      "postId": "0x6276e63265de5b431ee593edfe435c23bc410f39",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls10",
-      "company": "Nexo",
-      "title": "Accountant, General Ledger",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T10:03:13.563Z",
-      "postId": "0x1f4e4980e2e45a2efedfa5cfe5ce365fef515c76",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls10",
-      "company": "Nexo",
-      "title": "Accountant, General Ledger",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T10:03:13.563Z",
-      "postId": "0x8e077b6503ee1ce651867de0c7816bdec95d9527",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls10",
-      "company": "Nexo",
-      "title": "Accountant, General Ledger",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T10:03:13.563Z",
-      "postId": "0x6ce4b536efdb44e5e22deb00b9aecf24cb0e1909",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls10",
-      "company": "Nexo",
-      "title": "Accountant, General Ledger",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T10:03:13.563Z",
-      "postId": "0x6f52e8563e845af69886727ceb007bc6238a0173",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls10",
-      "company": "Nexo",
-      "title": "Accountant, General Ledger",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T10:03:13.563Z",
-      "postId": "0x679b2968e0d6bd0085ab6164c88ba4fb9fc75c9e",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls10",
-      "company": "Nexo",
-      "title": "Accountant, General Ledger",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T10:03:13.563Z",
-      "postId": "0x4a50390088f5498f7170c2b9e912873ebc61ff9a",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls10",
-      "company": "Nexo",
-      "title": "Accountant, General Ledger",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T10:03:13.563Z",
-      "postId": "0x45919ca23ef547a8c43ba4245b50da6286a54ec9",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls10",
-      "company": "Nexo",
-      "title": "Accountant, General Ledger",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T10:03:13.563Z",
-      "postId": "0x3952d7e1f3725a6455953508cb53f6a42abcfa36",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls10",
-      "company": "Nexo",
-      "title": "Accountant, General Ledger",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T10:03:13.563Z",
-      "postId": "0x792ac2223a40b8312da3c51d55f29a58cc359c54",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls10",
-      "company": "Nexo",
-      "title": "Accountant, General Ledger",
-      "platform": "linkedin",
-      "postedAt": "2026-09-28T10:03:13.563Z",
-      "postId": "6aba3b74cb4f6964962d5223",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls10",
-      "company": "Nexo",
-      "title": "Accountant, General Ledger",
-      "platform": "linkedin",
-      "postedAt": "2026-09-28T10:03:13.563Z",
-      "postId": "6aba3b7f59f2ff98e4635fd5",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls10",
-      "company": "Nexo",
-      "title": "Accountant, General Ledger",
-      "platform": "linkedin",
-      "postedAt": "2026-09-28T10:03:13.563Z",
-      "postId": "urn:li:share:7510278103894515712",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls10",
-      "company": "Nexo",
-      "title": "Accountant, General Ledger",
-      "platform": "facebook",
-      "postedAt": "2026-09-28T10:03:13.563Z",
-      "postId": "691827047618629_1100400972567137",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls10",
-      "company": "Nexo",
-      "title": "Accountant, General Ledger",
-      "platform": "instagram",
-      "postedAt": "2026-09-28T10:03:13.563Z",
-      "postId": "18125812057860679",
-      "verification": "verified"
-    },
-    {
-      "slug": "an29",
-      "company": "Chainalysis",
-      "title": "Senior Intelligence Analyst, DPRK & China Focus",
-      "platform": "x",
-      "postedAt": "2026-09-28T11:31:42.278Z",
-      "postId": "6aba501ef8c298db4109e2e6",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "Chainalysis is hiring Senior Intelligence Analyst, DPRK & China Focus\n\nhttps://hashtagweb3.com/an29/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2104534512340246639"
-    },
-    {
-      "slug": "an29",
-      "company": "Chainalysis",
-      "title": "Senior Intelligence Analyst, DPRK & China Focus",
-      "platform": "threads",
-      "postedAt": "2026-09-28T11:31:42.278Z",
-      "postId": "18103009556341265",
-      "verification": "verified",
-      "expectedText": "Chainalysis is hiring Senior Intelligence Analyst, DPRK & China Focus: https://hashtagweb3.com/an29/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/Dd1FXQsFvpt",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "an29",
-      "company": "Chainalysis",
-      "title": "Senior Intelligence Analyst, DPRK & China Focus",
-      "platform": "bluesky",
-      "postedAt": "2026-09-28T11:31:42.278Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwl7ozsyv22h",
-      "verification": "verified"
-    },
-    {
-      "slug": "an29",
-      "company": "Chainalysis",
-      "title": "Senior Intelligence Analyst, DPRK & China Focus",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T11:31:42.278Z",
-      "postId": "0x53ff1cc0cdfde467c67229fd5d4225d61b94d6de",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "an29",
-      "company": "Chainalysis",
-      "title": "Senior Intelligence Analyst, DPRK & China Focus",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T11:31:42.278Z",
-      "postId": "0x2d49b95ece83892e689b6fe6a60da8375e3d4987",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "an29",
-      "company": "Chainalysis",
-      "title": "Senior Intelligence Analyst, DPRK & China Focus",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T11:31:42.278Z",
-      "postId": "0x44de179b1de2a8065220728ad1e91f09db020b24",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "an29",
-      "company": "Chainalysis",
-      "title": "Senior Intelligence Analyst, DPRK & China Focus",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T11:31:42.278Z",
-      "postId": "0xec8b4fddcf4db9990c315fc2042615faecd0f433",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "an29",
-      "company": "Chainalysis",
-      "title": "Senior Intelligence Analyst, DPRK & China Focus",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T11:31:42.278Z",
-      "postId": "0xf4c8be3e875d93a4c89177259c455a61cd4031cd",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "an29",
-      "company": "Chainalysis",
-      "title": "Senior Intelligence Analyst, DPRK & China Focus",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T11:31:42.278Z",
-      "postId": "0x4779d498bd1678124b86cfae6a2ea98b6941f28e",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "an29",
-      "company": "Chainalysis",
-      "title": "Senior Intelligence Analyst, DPRK & China Focus",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T11:31:42.278Z",
-      "postId": "0x3c0459e159952418683e4e4d6ef95802d790833b",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "an29",
-      "company": "Chainalysis",
-      "title": "Senior Intelligence Analyst, DPRK & China Focus",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T11:31:42.278Z",
-      "postId": "0x477ee56bec4b460e5b885ed7b7d0a5b2688f757c",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "an29",
-      "company": "Chainalysis",
-      "title": "Senior Intelligence Analyst, DPRK & China Focus",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T11:31:42.278Z",
-      "postId": "0xc396b94a19b71c25ea12e193ce5afb60dc2d030c",
-      "account": "channel:founders",
       "verification": "verified"
     },
     {
@@ -10100,6 +9592,516 @@
       "platform": "instagram",
       "postedAt": "2026-09-30T19:33:36.668Z",
       "postId": "18138154879606482",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp64",
+      "company": "Stripe",
+      "title": "Legal Operations Team Lead",
+      "platform": "x",
+      "postedAt": "2026-10-01T03:59:40.823Z",
+      "postId": "6abddaad05e9a5c46ab7952b",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Stripe is hiring Legal Operations Team Lead\n\nhttps://hashtagweb3.com/cmp64/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2105507921320616155"
+    },
+    {
+      "slug": "cmp64",
+      "company": "Stripe",
+      "title": "Legal Operations Team Lead",
+      "platform": "threads",
+      "postedAt": "2026-10-01T03:59:40.823Z",
+      "postId": "18127602949888045",
+      "verification": "verified",
+      "expectedText": "Stripe is hiring Legal Operations Team Lead: https://hashtagweb3.com/cmp64/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/Dd8ABLWG-zg",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "cmp64",
+      "company": "Stripe",
+      "title": "Legal Operations Team Lead",
+      "platform": "bluesky",
+      "postedAt": "2026-10-01T03:59:40.823Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwrxti2qrx2z",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp64",
+      "company": "Stripe",
+      "title": "Legal Operations Team Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-10-01T03:59:40.823Z",
+      "postId": "0x700ce06be9b27a7ab93e9d0788960cb17ca99790",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp64",
+      "company": "Stripe",
+      "title": "Legal Operations Team Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-10-01T03:59:40.823Z",
+      "postId": "0x318950a4eaba53a8b7d923fb7c3c77a5d7f8dcdb",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp64",
+      "company": "Stripe",
+      "title": "Legal Operations Team Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-10-01T03:59:40.823Z",
+      "postId": "0x6f372c637e4b1919f5f47e4d5b57e5200bfe54f6",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp64",
+      "company": "Stripe",
+      "title": "Legal Operations Team Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-10-01T03:59:40.823Z",
+      "postId": "0x94cf4cbd4e08ba789b205589203b4ba539f073ad",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp64",
+      "company": "Stripe",
+      "title": "Legal Operations Team Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-10-01T03:59:40.823Z",
+      "postId": "0xdbd72afce7c0f6ae68f9f05268a2dd99fc6413a4",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp64",
+      "company": "Stripe",
+      "title": "Legal Operations Team Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-10-01T03:59:40.823Z",
+      "postId": "0xebf2105ad526ad60eaac63698b78154cc71b198e",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp64",
+      "company": "Stripe",
+      "title": "Legal Operations Team Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-10-01T03:59:40.823Z",
+      "postId": "0x02ecdc2ae6c53a26f043fd58ed1b98f803ed1a57",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp64",
+      "company": "Stripe",
+      "title": "Legal Operations Team Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-10-01T03:59:40.823Z",
+      "postId": "0x1f47fb3c14da5e71ea9063a105c8a257abd39ed0",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp64",
+      "company": "Stripe",
+      "title": "Legal Operations Team Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-10-01T03:59:40.823Z",
+      "postId": "0xeed55e8bcbbb6998794000012710aaeafe77834b",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp64",
+      "company": "Stripe",
+      "title": "Legal Operations Team Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-10-01T03:59:40.823Z",
+      "postId": "0x90bfa72a39584830bd64348df9cfc071442dddae",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp64",
+      "company": "Stripe",
+      "title": "Legal Operations Team Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-10-01T03:59:40.823Z",
+      "postId": "0xe632e30da364050e30215bb5165174e124ba776f",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp64",
+      "company": "Stripe",
+      "title": "Legal Operations Team Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-10-01T03:59:40.823Z",
+      "postId": "0x2b89797d5bd1329f600077f8c5014909dbee9459",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp64",
+      "company": "Stripe",
+      "title": "Legal Operations Team Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-10-01T03:59:40.823Z",
+      "postId": "0xffc8074a1aeef915fdebdaddb3911d7c1d2290af",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp64",
+      "company": "Stripe",
+      "title": "Legal Operations Team Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-10-01T03:59:40.823Z",
+      "postId": "0xfb9527f03a40aff0f37a8d402ebf09cda41694ec",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp64",
+      "company": "Stripe",
+      "title": "Legal Operations Team Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-10-01T03:59:40.823Z",
+      "postId": "0x75a0407d74c2c94f5ba29ceed18240228a53b07a",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp64",
+      "company": "Stripe",
+      "title": "Legal Operations Team Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-10-01T03:59:40.823Z",
+      "postId": "0x41306ab38354111f0354ac2de19f720fe86ac338",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp64",
+      "company": "Stripe",
+      "title": "Legal Operations Team Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-10-01T03:59:40.823Z",
+      "postId": "0xaad8812d17c01cc650874b524fd631e783ed1fe0",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp64",
+      "company": "Stripe",
+      "title": "Legal Operations Team Lead",
+      "platform": "linkedin",
+      "postedAt": "2026-10-01T03:59:40.823Z",
+      "postId": "6abddac0b29c0fecf4154f07",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp64",
+      "company": "Stripe",
+      "title": "Legal Operations Team Lead",
+      "platform": "linkedin",
+      "postedAt": "2026-10-01T03:59:40.823Z",
+      "postId": "6abddacc26106f73326eeff8",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp64",
+      "company": "Stripe",
+      "title": "Legal Operations Team Lead",
+      "platform": "linkedin",
+      "postedAt": "2026-10-01T03:59:40.823Z",
+      "postId": "urn:li:share:7511273792300544001",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp64",
+      "company": "Stripe",
+      "title": "Legal Operations Team Lead",
+      "platform": "facebook",
+      "postedAt": "2026-10-01T03:59:40.823Z",
+      "postId": "691827047618629_1103051735635394",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp64",
+      "company": "Stripe",
+      "title": "Legal Operations Team Lead",
+      "platform": "instagram",
+      "postedAt": "2026-10-01T03:59:40.823Z",
+      "postId": "17889318252654535",
+      "verification": "verified"
+    },
+    {
+      "slug": "developer42",
+      "company": "eToro",
+      "title": "BizOps Developer (Agentic AI)",
+      "platform": "x",
+      "postedAt": "2026-10-01T04:00:54.743Z",
+      "postId": "6abddaf7b29c0fecf4156941",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "eToro is hiring BizOps Developer (Agentic AI)\n\nhttps://hashtagweb3.com/developer42/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2105508230294102027"
+    },
+    {
+      "slug": "developer42",
+      "company": "eToro",
+      "title": "BizOps Developer (Agentic AI)",
+      "platform": "threads",
+      "postedAt": "2026-10-01T04:00:54.743Z",
+      "postId": "18110166890180252",
+      "verification": "verified",
+      "expectedText": "eToro is hiring BizOps Developer (Agentic AI): https://hashtagweb3.com/developer42/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/Dd8AKJgGwZQ",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "developer42",
+      "company": "eToro",
+      "title": "BizOps Developer (Agentic AI)",
+      "platform": "bluesky",
+      "postedAt": "2026-10-01T04:00:54.743Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwrxvnix572z",
+      "verification": "verified"
+    },
+    {
+      "slug": "developer42",
+      "company": "eToro",
+      "title": "BizOps Developer (Agentic AI)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-01T04:00:54.743Z",
+      "postId": "0x734f1b685c780b487013e477df4cec11481a0152",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "developer42",
+      "company": "eToro",
+      "title": "BizOps Developer (Agentic AI)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-01T04:00:54.743Z",
+      "postId": "0x6afdbc0532b76caba6a70fef38b40f927b04de4e",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "developer42",
+      "company": "eToro",
+      "title": "BizOps Developer (Agentic AI)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-01T04:00:54.743Z",
+      "postId": "0xc0aa66138999833b03537af2ad639cfc7d8c48da",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "developer42",
+      "company": "eToro",
+      "title": "BizOps Developer (Agentic AI)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-01T04:00:54.743Z",
+      "postId": "0x541767cca203f56872afceb158be5ad78dd9810a",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "developer42",
+      "company": "eToro",
+      "title": "BizOps Developer (Agentic AI)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-01T04:00:54.743Z",
+      "postId": "0xc2bdb25a6d0398828e47f5ffe0ef2f6c78b08239",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "developer42",
+      "company": "eToro",
+      "title": "BizOps Developer (Agentic AI)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-01T04:00:54.743Z",
+      "postId": "0x760b0b6de952fa1534726e4a4ea87ecbe384150c",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "developer42",
+      "company": "eToro",
+      "title": "BizOps Developer (Agentic AI)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-01T04:00:54.743Z",
+      "postId": "0xdc50fb545d4eb1f3ed7e3a0df6daac5b2a10c8be",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "developer42",
+      "company": "eToro",
+      "title": "BizOps Developer (Agentic AI)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-01T04:00:54.743Z",
+      "postId": "0x8aac187c5b9733a316bc4233a2392a745d4c88bb",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "developer42",
+      "company": "eToro",
+      "title": "BizOps Developer (Agentic AI)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-01T04:00:54.743Z",
+      "postId": "0x0d55e10878ef37622dc7b16bb762f9d0d9335aa6",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "developer42",
+      "company": "eToro",
+      "title": "BizOps Developer (Agentic AI)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-01T04:00:54.743Z",
+      "postId": "0x23f3582161e4c0a08930ee3d688af5d79f7901e7",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "developer42",
+      "company": "eToro",
+      "title": "BizOps Developer (Agentic AI)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-01T04:00:54.743Z",
+      "postId": "0xa31e7e2ae6594c7f3ba5a8463982a1407e8a667f",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "developer42",
+      "company": "eToro",
+      "title": "BizOps Developer (Agentic AI)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-01T04:00:54.743Z",
+      "postId": "0x6b46655df9d5a35e730f220e43ba2b34a1692450",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "developer42",
+      "company": "eToro",
+      "title": "BizOps Developer (Agentic AI)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-01T04:00:54.743Z",
+      "postId": "0x22453bc714b691e14bf3259d96c73e8d8611e2c7",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "developer42",
+      "company": "eToro",
+      "title": "BizOps Developer (Agentic AI)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-01T04:00:54.743Z",
+      "postId": "0x9641c9a045578bc1d5b0b2023fb7f50dac6043fb",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "developer42",
+      "company": "eToro",
+      "title": "BizOps Developer (Agentic AI)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-01T04:00:54.743Z",
+      "postId": "0x90790c223251561f518d04c6dd44a3a300c78cd7",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "developer42",
+      "company": "eToro",
+      "title": "BizOps Developer (Agentic AI)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-01T04:00:54.743Z",
+      "postId": "0x04a3c60a3e5d8f488e5c34cbc314db953a6d1897",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "developer42",
+      "company": "eToro",
+      "title": "BizOps Developer (Agentic AI)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-01T04:00:54.743Z",
+      "postId": "0xe9ec7c24b7c1176b6ec8c2496546e8cf2b7e7f84",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "developer42",
+      "company": "eToro",
+      "title": "BizOps Developer (Agentic AI)",
+      "platform": "linkedin",
+      "postedAt": "2026-10-01T04:00:54.743Z",
+      "postId": "6abddb0826106f73326f0262",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "developer42",
+      "company": "eToro",
+      "title": "BizOps Developer (Agentic AI)",
+      "platform": "linkedin",
+      "postedAt": "2026-10-01T04:00:54.743Z",
+      "postId": "6abddb1305e9a5c46ab7bfcb",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "developer42",
+      "company": "eToro",
+      "title": "BizOps Developer (Agentic AI)",
+      "platform": "linkedin",
+      "postedAt": "2026-10-01T04:00:54.743Z",
+      "postId": "urn:li:share:7511274085109297152",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "developer42",
+      "company": "eToro",
+      "title": "BizOps Developer (Agentic AI)",
+      "platform": "facebook",
+      "postedAt": "2026-10-01T04:00:54.743Z",
+      "postId": "691827047618629_1103052955635272",
+      "verification": "verified"
+    },
+    {
+      "slug": "developer42",
+      "company": "eToro",
+      "title": "BizOps Developer (Agentic AI)",
+      "platform": "instagram",
+      "postedAt": "2026-10-01T04:00:54.743Z",
+      "postId": "17910688188515180",
       "verification": "verified"
     }
   ]
