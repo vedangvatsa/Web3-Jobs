@@ -210,10 +210,11 @@
           "url": "https://www.instagram.com/reel/Dd8z1XznS37/"
         },
         "youtube": {
-          "status": "pending",
+          "status": "sent",
           "text": "Argentina\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
           "startedAt": "2026-10-01T11:33:14.478Z",
-          "postId": "6abe44fcb602164114d7533b"
+          "postId": "6abe44fcb602164114d7533b",
+          "url": "https://www.youtube.com/watch?v=UQRYyJXhXhg"
         }
       }
     }
