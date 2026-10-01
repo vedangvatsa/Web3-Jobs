@@ -228,5 +228,49 @@
     "slotKey": "2026-10-01:afternoon",
     "messageId": 155535,
     "sentAt": "2026-10-01T11:32:19.823Z"
+  },
+  "98c931fa-7852-413f-a6d3-db6a79100bb6": {
+    "status": "reserved",
+    "reservedAt": "2026-10-01T19:44:03.784Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "key": "411",
+        "slug": "frontend48",
+        "url": "https://hashtagweb3.com/frontend48?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Yellow Card",
+        "title": "Senior Frontend Engineer"
+      },
+      {
+        "key": "8644530002",
+        "slug": "backend97",
+        "url": "https://hashtagweb3.com/backend97?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "BitGo",
+        "title": "Backend Engineer E2"
+      },
+      {
+        "key": "ba33f05b-0858-4b5e-92cf-630852b624f1",
+        "slug": "community3",
+        "url": "https://hashtagweb3.com/community3?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Sahara AI",
+        "title": "Community Manager"
+      },
+      {
+        "key": "97e8afe6-3a21-4b1f-9a34-3490b0e59c7f",
+        "slug": "manager559",
+        "url": "https://hashtagweb3.com/manager559?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Notabene",
+        "title": "Senior Customer Success Manager"
+      },
+      {
+        "key": "D7974B0A15",
+        "slug": "engineer185",
+        "url": "https://hashtagweb3.com/engineer185?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Anza",
+        "title": "Senior Software Engineer"
+      }
+    ],
+    "message": "• Yellow Card is hiring <a href=\"https://hashtagweb3.com/frontend48?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Frontend Engineer</a>\n• BitGo is hiring <a href=\"https://hashtagweb3.com/backend97?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Backend Engineer E2</a>\n• Sahara AI is hiring <a href=\"https://hashtagweb3.com/community3?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Community Manager</a>\n• Notabene is hiring <a href=\"https://hashtagweb3.com/manager559?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Customer Success Manager</a>\n• Anza is hiring <a href=\"https://hashtagweb3.com/engineer185?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Software Engineer</a>",
+    "slotKey": "2026-10-01:evening"
   }
 }
