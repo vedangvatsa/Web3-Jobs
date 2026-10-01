@@ -394,5 +394,38 @@
     "slotKey": "2026-10-01:afternoon",
     "messageId": 65718,
     "sentAt": "2026-10-01T11:34:13.986Z"
+  },
+  "4f299cc9-dacd-41a1-a673-83cd1eb1c24b": {
+    "status": "reserved",
+    "reservedAt": "2026-10-01T19:46:04.622Z",
+    "stories": [
+      {
+        "index": 9,
+        "headline": "New York and Wyoming regulators coordinate digital asset oversight",
+        "summary": "State authorities signed an agreement to share supervisory data and streamline licensing for cryptocurrency firms operating in both jurisdictions.",
+        "event_rationale": "This is a significant government action involving two of the most influential US states for crypto regulation.",
+        "link": "https://cointelegraph.com/news/new-york-wyoming-regulators-sign-pact-coordinate-crypto-oversight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph",
+        "originalTitle": "New York, Wyoming regulators sign pact to coordinate crypto oversight"
+      },
+      {
+        "index": 20,
+        "headline": "Lloyds and Visa settle cross-border payments using USDC stablecoin",
+        "summary": "The financial institutions completed a seven-day pilot program using the dollar-pegged stablecoin to settle $750,000 in obligations.",
+        "event_rationale": "This represents a major institutional adoption milestone involving a top-tier bank and global payment network using stablecoins.",
+        "link": "https://www.theblock.co/news/business/2026-10-01-lloyds-visa-settle-750000-using-usdc-in-live-cross-border-pilot-417378",
+        "source": "The Block",
+        "originalTitle": "Lloyds, Visa settle $750,000 using USDC in live cross-border pilot"
+      },
+      {
+        "index": 1,
+        "headline": "Meta denies Muse AI accessed private messages without user consent",
+        "summary": "The company states message syncing requires two user-controlled permissions, disputing a journalist's report of unauthorized access.",
+        "link": "https://decrypt.co/379868/meta-muse-ai-agent-read-messages-without-permission",
+        "source": "Decrypt",
+        "originalTitle": "Meta Pushes Back on Claim That Muse AI Read a User's Messages Without Consent"
+      }
+    ],
+    "slotKey": "2026-10-01:evening"
   }
 }
