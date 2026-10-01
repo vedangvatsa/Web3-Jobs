@@ -80,7 +80,8 @@
     "fromChatId": "@hashtagweb3",
     "sourceMessageId": 155542,
     "destination": "@eventsweb3",
-    "status": "pending",
-    "attempts": 0
+    "status": "reserved",
+    "attempts": 1,
+    "reservedAt": "2026-10-01T19:43:54.739Z"
   }
 }
