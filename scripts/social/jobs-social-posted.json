@@ -1,5 +1,5 @@
 {
-  "lastIndex": 315,
+  "lastIndex": 317,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -127,7 +127,9 @@
     "cmp64",
     "developer42",
     "eng339",
-    "be41"
+    "be41",
+    "pm84",
+    "sec61"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -4642,516 +4644,6 @@
       "platform": "instagram",
       "postedAt": "2026-09-25T03:51:22.563Z",
       "postId": "18449861734120522",
-      "verification": "verified"
-    },
-    {
-      "slug": "ts2",
-      "company": "DRW",
-      "title": "Threat Specialist",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T18:41:50.859Z",
-      "postId": "0xf6f741e454a0aa9311d419c0f3d1faf5a79c6763",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "ts2",
-      "company": "DRW",
-      "title": "Threat Specialist",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T18:41:50.859Z",
-      "postId": "0xf1feb8e482ff5f014fc4c958a1d9822c2d19049c",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "ts2",
-      "company": "DRW",
-      "title": "Threat Specialist",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T18:41:50.859Z",
-      "postId": "0xe0a7df00b6ec34ee0477ca28df25f0244f10910f",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "ts2",
-      "company": "DRW",
-      "title": "Threat Specialist",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T18:41:50.859Z",
-      "postId": "0xce0e70378a863ab55ea75eef5e76e470cc623227",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "ts2",
-      "company": "DRW",
-      "title": "Threat Specialist",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T18:41:50.859Z",
-      "postId": "0x7e303e7e17a940f62e3e7bbb62141d10cd107939",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "ts2",
-      "company": "DRW",
-      "title": "Threat Specialist",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T18:41:50.859Z",
-      "postId": "0x08f8841dcbdc875d608c82d3dacfb101e33b8493",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "ts2",
-      "company": "DRW",
-      "title": "Threat Specialist",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T18:41:50.859Z",
-      "postId": "0x475f292c5c77ae312f4c88061bc99fdc53cad767",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "ts2",
-      "company": "DRW",
-      "title": "Threat Specialist",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T18:41:50.859Z",
-      "postId": "0xada667fa16273980928f6ab242157efcd24c5263",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "ts2",
-      "company": "DRW",
-      "title": "Threat Specialist",
-      "platform": "linkedin",
-      "postedAt": "2026-09-28T18:41:50.859Z",
-      "postId": "6abab50ca0e5aa5ec3b04aa3",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "ts2",
-      "company": "DRW",
-      "title": "Threat Specialist",
-      "platform": "linkedin",
-      "postedAt": "2026-09-28T18:41:50.859Z",
-      "postId": "6abab517a0e5aa5ec3b04e73",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "ts2",
-      "company": "DRW",
-      "title": "Threat Specialist",
-      "platform": "linkedin",
-      "postedAt": "2026-09-28T18:41:50.859Z",
-      "postId": "urn:li:share:7510408669704962049",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "ts2",
-      "company": "DRW",
-      "title": "Threat Specialist",
-      "platform": "facebook",
-      "postedAt": "2026-09-28T18:41:50.859Z",
-      "postId": "691827047618629_1100791595861408",
-      "verification": "verified"
-    },
-    {
-      "slug": "ts2",
-      "company": "DRW",
-      "title": "Threat Specialist",
-      "platform": "instagram",
-      "postedAt": "2026-09-28T18:41:50.859Z",
-      "postId": "18094973612129503",
-      "verification": "verified"
-    },
-    {
-      "slug": "css",
-      "company": "Crystal Intelligence",
-      "title": "Customer Success Specialist (Remote)",
-      "platform": "x",
-      "postedAt": "2026-09-28T18:43:15.047Z",
-      "postId": "6abab5437b12118e0adde317",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "Crystal Intelligence is hiring Customer Success Specialist (Remote)\n\nhttps://hashtagweb3.com/css/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2104643115126579447"
-    },
-    {
-      "slug": "css",
-      "company": "Crystal Intelligence",
-      "title": "Customer Success Specialist (Remote)",
-      "platform": "threads",
-      "postedAt": "2026-09-28T18:43:15.047Z",
-      "postId": "18089020001242409",
-      "verification": "verified",
-      "expectedText": "Crystal Intelligence is hiring Customer Success Specialist (Remote): https://hashtagweb3.com/css/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/Dd12v__Dxic",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "css",
-      "company": "Crystal Intelligence",
-      "title": "Customer Success Specialist (Remote)",
-      "platform": "bluesky",
-      "postedAt": "2026-09-28T18:43:15.047Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwlxsofou72c",
-      "verification": "verified"
-    },
-    {
-      "slug": "css",
-      "company": "Crystal Intelligence",
-      "title": "Customer Success Specialist (Remote)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T18:43:15.047Z",
-      "postId": "0x0e9876f2b8c567f00477a7f9ed7ceefb45d43e4e",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "css",
-      "company": "Crystal Intelligence",
-      "title": "Customer Success Specialist (Remote)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T18:43:15.047Z",
-      "postId": "0xdafc1968117fe78a0f3f3b5be8ca45cefcfa991b",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "css",
-      "company": "Crystal Intelligence",
-      "title": "Customer Success Specialist (Remote)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T18:43:15.047Z",
-      "postId": "0x3655e4607c17b475dbc18c4d228a46125890e3b0",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "css",
-      "company": "Crystal Intelligence",
-      "title": "Customer Success Specialist (Remote)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T18:43:15.047Z",
-      "postId": "0x5f07b3c8ad5ed6ffbf0bf5c3b8c70337d28f1e48",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "css",
-      "company": "Crystal Intelligence",
-      "title": "Customer Success Specialist (Remote)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T18:43:15.047Z",
-      "postId": "0xd2a9aed5317c5251e705cff153374b656a68173b",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "css",
-      "company": "Crystal Intelligence",
-      "title": "Customer Success Specialist (Remote)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T18:43:15.047Z",
-      "postId": "0xb305ef8d243037bc7797068b61d9f6f970282cc2",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "css",
-      "company": "Crystal Intelligence",
-      "title": "Customer Success Specialist (Remote)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T18:43:15.047Z",
-      "postId": "0x388fdd4551a6f8b31650f7e71afefd5e6eeeaf02",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "css",
-      "company": "Crystal Intelligence",
-      "title": "Customer Success Specialist (Remote)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T18:43:15.047Z",
-      "postId": "0xda20b7d8f9f652538620cbbd8fbd15638bd5df37",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "css",
-      "company": "Crystal Intelligence",
-      "title": "Customer Success Specialist (Remote)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T18:43:15.047Z",
-      "postId": "0xdcb2a25a12e7e76c6a0076ce685db87b46049342",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "css",
-      "company": "Crystal Intelligence",
-      "title": "Customer Success Specialist (Remote)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T18:43:15.047Z",
-      "postId": "0xee45499c9207ae0116b1038b058079a4b9047a7f",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "css",
-      "company": "Crystal Intelligence",
-      "title": "Customer Success Specialist (Remote)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T18:43:15.047Z",
-      "postId": "0x5bbf18ffdf91c4f2ac101f643c35622f07916e32",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "css",
-      "company": "Crystal Intelligence",
-      "title": "Customer Success Specialist (Remote)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T18:43:15.047Z",
-      "postId": "0xb8e72e503436e210d7df42a33ea2e783889be4fe",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "css",
-      "company": "Crystal Intelligence",
-      "title": "Customer Success Specialist (Remote)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T18:43:15.047Z",
-      "postId": "0x9ab0dccef5159eba05450992d8807b4e797f9658",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "css",
-      "company": "Crystal Intelligence",
-      "title": "Customer Success Specialist (Remote)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T18:43:15.047Z",
-      "postId": "0xbec484df1d9ccdcff694f72a8c12e9bd9bdac690",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "css",
-      "company": "Crystal Intelligence",
-      "title": "Customer Success Specialist (Remote)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T18:43:15.047Z",
-      "postId": "0x2470b4a3c238d54d76311f6af56bd9221fd137c5",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "css",
-      "company": "Crystal Intelligence",
-      "title": "Customer Success Specialist (Remote)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T18:43:15.047Z",
-      "postId": "0xca65d2f807c2cbd7be16606fcf099db0d6744cc8",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "css",
-      "company": "Crystal Intelligence",
-      "title": "Customer Success Specialist (Remote)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T18:43:15.047Z",
-      "postId": "0x7b479014d6b82719178af21050fc3c354c366950",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "css",
-      "company": "Crystal Intelligence",
-      "title": "Customer Success Specialist (Remote)",
-      "platform": "linkedin",
-      "postedAt": "2026-09-28T18:43:15.047Z",
-      "postId": "6abab556c23da36df563e05d",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "css",
-      "company": "Crystal Intelligence",
-      "title": "Customer Success Specialist (Remote)",
-      "platform": "linkedin",
-      "postedAt": "2026-09-28T18:43:15.047Z",
-      "postId": "6abab5607b12118e0addea9a",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "css",
-      "company": "Crystal Intelligence",
-      "title": "Customer Success Specialist (Remote)",
-      "platform": "linkedin",
-      "postedAt": "2026-09-28T18:43:15.047Z",
-      "postId": "urn:li:share:7510408973901058048",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "css",
-      "company": "Crystal Intelligence",
-      "title": "Customer Success Specialist (Remote)",
-      "platform": "facebook",
-      "postedAt": "2026-09-28T18:43:15.047Z",
-      "postId": "691827047618629_1100792345861333",
-      "verification": "verified"
-    },
-    {
-      "slug": "css",
-      "company": "Crystal Intelligence",
-      "title": "Customer Success Specialist (Remote)",
-      "platform": "instagram",
-      "postedAt": "2026-09-28T18:43:15.047Z",
-      "postId": "18111935479857696",
-      "verification": "verified"
-    },
-    {
-      "slug": "be30",
-      "company": "Coins.ph",
-      "title": "Backend Engineer (Junior to Mid-Level)",
-      "platform": "x",
-      "postedAt": "2026-09-28T19:40:12.759Z",
-      "postId": "6abac29d5a33707db8f0318e",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "Coins.ph is hiring Backend Engineer (Junior to Mid-Level)\n\nhttps://hashtagweb3.com/be30/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2104657451387633922"
-    },
-    {
-      "slug": "be30",
-      "company": "Coins.ph",
-      "title": "Backend Engineer (Junior to Mid-Level)",
-      "platform": "threads",
-      "postedAt": "2026-09-28T19:40:12.759Z",
-      "postId": "18103849409355899",
-      "verification": "verified",
-      "expectedText": "Coins.ph is hiring Backend Engineer (Junior to Mid-Level): https://hashtagweb3.com/be30/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/Dd19RVCmWQ5",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "be30",
-      "company": "Coins.ph",
-      "title": "Backend Engineer (Junior to Mid-Level)",
-      "platform": "bluesky",
-      "postedAt": "2026-09-28T19:40:12.759Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwm2ymxdeh24",
-      "verification": "verified"
-    },
-    {
-      "slug": "be30",
-      "company": "Coins.ph",
-      "title": "Backend Engineer (Junior to Mid-Level)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T19:40:12.759Z",
-      "postId": "0x9c669df496b75c0047139f0165501ba2b0e3061b",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "be30",
-      "company": "Coins.ph",
-      "title": "Backend Engineer (Junior to Mid-Level)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T19:40:12.759Z",
-      "postId": "0x76809bfcc63b49f71bb9d106989830a090d752b3",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "be30",
-      "company": "Coins.ph",
-      "title": "Backend Engineer (Junior to Mid-Level)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T19:40:12.759Z",
-      "postId": "0xc1c1aee8c95af8a61989107cab956378a85341d0",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "be30",
-      "company": "Coins.ph",
-      "title": "Backend Engineer (Junior to Mid-Level)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T19:40:12.759Z",
-      "postId": "0x1962b27a4e305f4f83413865b6b4668a3fe5c0b5",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "be30",
-      "company": "Coins.ph",
-      "title": "Backend Engineer (Junior to Mid-Level)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T19:40:12.759Z",
-      "postId": "0xbd3e3b37666b2d5aa1efc319de16d57065cccccb",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "be30",
-      "company": "Coins.ph",
-      "title": "Backend Engineer (Junior to Mid-Level)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T19:40:12.759Z",
-      "postId": "0x8ca247bb70a31e71d1402d4c7494a1907b11ca73",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "be30",
-      "company": "Coins.ph",
-      "title": "Backend Engineer (Junior to Mid-Level)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T19:40:12.759Z",
-      "postId": "0x07c4e797a53f52475e4d9f55273d086d8fd01996",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "be30",
-      "company": "Coins.ph",
-      "title": "Backend Engineer (Junior to Mid-Level)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T19:40:12.759Z",
-      "postId": "0xa3d90c10156f90cac3798e5f220981f502efa30c",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "be30",
-      "company": "Coins.ph",
-      "title": "Backend Engineer (Junior to Mid-Level)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T19:40:12.759Z",
-      "postId": "0x24d3241e487ca59eb3417d18e6546aaf5dd41bad",
-      "account": "channel:founders",
       "verification": "verified"
     },
     {
@@ -10104,6 +9596,516 @@
       "platform": "instagram",
       "postedAt": "2026-10-01T11:32:47.866Z",
       "postId": "18011180102763014",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm84",
+      "company": "Transak",
+      "title": "Product Partnerships Manager",
+      "platform": "x",
+      "postedAt": "2026-10-01T19:43:42.624Z",
+      "postId": "6abeb7ef2f7034519e75cafa",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Transak is hiring Product Partnerships Manager\n\nhttps://hashtagweb3.com/pm84/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2105745494211203526"
+    },
+    {
+      "slug": "pm84",
+      "company": "Transak",
+      "title": "Product Partnerships Manager",
+      "platform": "threads",
+      "postedAt": "2026-10-01T19:43:42.624Z",
+      "postId": "17909936403499054",
+      "verification": "verified",
+      "expectedText": "Transak is hiring Product Partnerships Manager: https://hashtagweb3.com/pm84/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/Dd9sDbtmFDT",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "pm84",
+      "company": "Transak",
+      "title": "Product Partnerships Manager",
+      "platform": "bluesky",
+      "postedAt": "2026-10-01T19:43:42.624Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwtmljn66r2g",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm84",
+      "company": "Transak",
+      "title": "Product Partnerships Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-01T19:43:42.624Z",
+      "postId": "0xa4f01e06629b97cc584352b09c3cb499412ba413",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm84",
+      "company": "Transak",
+      "title": "Product Partnerships Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-01T19:43:42.624Z",
+      "postId": "0x925c6b32bf6b3bbcebaa3ab5cfd8babfe6b10559",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm84",
+      "company": "Transak",
+      "title": "Product Partnerships Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-01T19:43:42.624Z",
+      "postId": "0x3192846852bcabd7afb10176b84e080d6e4813f1",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm84",
+      "company": "Transak",
+      "title": "Product Partnerships Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-01T19:43:42.624Z",
+      "postId": "0xcbcecd6f0f6f8c0a98593e667d239a60f774553a",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm84",
+      "company": "Transak",
+      "title": "Product Partnerships Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-01T19:43:42.624Z",
+      "postId": "0x74eddf97bd3b33995602bb795b25c3b3204bc32d",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm84",
+      "company": "Transak",
+      "title": "Product Partnerships Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-01T19:43:42.624Z",
+      "postId": "0x617deb2cd23a07d7f88791e7cb6105736476a790",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm84",
+      "company": "Transak",
+      "title": "Product Partnerships Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-01T19:43:42.624Z",
+      "postId": "0xa0adf83db22605aca959f8e0247079bf27463ffb",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm84",
+      "company": "Transak",
+      "title": "Product Partnerships Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-01T19:43:42.624Z",
+      "postId": "0x514dc9238a249fd67763cf18be54696b746dc5c4",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm84",
+      "company": "Transak",
+      "title": "Product Partnerships Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-01T19:43:42.624Z",
+      "postId": "0x8b894b6f0edf48a4abfc440be2576e03ede8997a",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm84",
+      "company": "Transak",
+      "title": "Product Partnerships Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-01T19:43:42.624Z",
+      "postId": "0x0ee2c247cb29ea5f0d959ba7f6f963588b8d47f4",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm84",
+      "company": "Transak",
+      "title": "Product Partnerships Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-01T19:43:42.624Z",
+      "postId": "0xee800947bbe747f503070cfedbf1374963f6825a",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm84",
+      "company": "Transak",
+      "title": "Product Partnerships Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-01T19:43:42.624Z",
+      "postId": "0x774ede066d1a526797facea723358d20aae241fc",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm84",
+      "company": "Transak",
+      "title": "Product Partnerships Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-01T19:43:42.624Z",
+      "postId": "0x6925a554b23bae0702eadb6cab3e629082b177ff",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm84",
+      "company": "Transak",
+      "title": "Product Partnerships Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-01T19:43:42.624Z",
+      "postId": "0xc373480f6c9f773ef84c072f4f2001b01129ba60",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm84",
+      "company": "Transak",
+      "title": "Product Partnerships Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-01T19:43:42.624Z",
+      "postId": "0xa820f48ac4afb30695a8b8e32459c54307df5564",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm84",
+      "company": "Transak",
+      "title": "Product Partnerships Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-01T19:43:42.624Z",
+      "postId": "0xef7515df2c8065336f179d02635450dfc576f63e",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm84",
+      "company": "Transak",
+      "title": "Product Partnerships Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-01T19:43:42.624Z",
+      "postId": "0x200cd8e3c8295868f54f2ded4825fb61f17a558f",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm84",
+      "company": "Transak",
+      "title": "Product Partnerships Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-10-01T19:43:42.624Z",
+      "postId": "6abeb800ff1f8cde6641ce08",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm84",
+      "company": "Transak",
+      "title": "Product Partnerships Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-10-01T19:43:42.624Z",
+      "postId": "6abeb80bd22f25b408899511",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm84",
+      "company": "Transak",
+      "title": "Product Partnerships Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-10-01T19:43:42.624Z",
+      "postId": "urn:li:share:7511511350695763968",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm84",
+      "company": "Transak",
+      "title": "Product Partnerships Manager",
+      "platform": "facebook",
+      "postedAt": "2026-10-01T19:43:42.624Z",
+      "postId": "691827047618629_1103753198898581",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm84",
+      "company": "Transak",
+      "title": "Product Partnerships Manager",
+      "platform": "instagram",
+      "postedAt": "2026-10-01T19:43:42.624Z",
+      "postId": "18001257788798227",
+      "verification": "verified"
+    },
+    {
+      "slug": "sec61",
+      "company": "Stripe",
+      "title": "Offensive Security Engineer",
+      "platform": "x",
+      "postedAt": "2026-10-01T19:44:42.772Z",
+      "postId": "6abeb82b0d6dc6150ea403c1",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Stripe is hiring Offensive Security Engineer\n\nhttps://hashtagweb3.com/sec61/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2105745745546518834"
+    },
+    {
+      "slug": "sec61",
+      "company": "Stripe",
+      "title": "Offensive Security Engineer",
+      "platform": "threads",
+      "postedAt": "2026-10-01T19:44:42.772Z",
+      "postId": "17909277450510650",
+      "verification": "verified",
+      "expectedText": "Stripe is hiring Offensive Security Engineer: https://hashtagweb3.com/sec61/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/Dd9sKt9mJL6",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "sec61",
+      "company": "Stripe",
+      "title": "Offensive Security Engineer",
+      "platform": "bluesky",
+      "postedAt": "2026-10-01T19:44:42.772Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwtmnac64x2q",
+      "verification": "verified"
+    },
+    {
+      "slug": "sec61",
+      "company": "Stripe",
+      "title": "Offensive Security Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-01T19:44:42.772Z",
+      "postId": "0xb0b5f078b28ceb430ecb305f0a7f4a5aa92c2e10",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "sec61",
+      "company": "Stripe",
+      "title": "Offensive Security Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-01T19:44:42.772Z",
+      "postId": "0x77394ac49614a2ed2af08257a74d96c22ca89c1e",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "sec61",
+      "company": "Stripe",
+      "title": "Offensive Security Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-01T19:44:42.772Z",
+      "postId": "0xa1e11ac6c73aa441712944083b1f1395ae5e6eb4",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "sec61",
+      "company": "Stripe",
+      "title": "Offensive Security Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-01T19:44:42.772Z",
+      "postId": "0x694ee616e76f6203f50b38d16cbfa2fdfda5f316",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "sec61",
+      "company": "Stripe",
+      "title": "Offensive Security Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-01T19:44:42.772Z",
+      "postId": "0x94daa644dea496fceffd5dc30be70c290f351e06",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "sec61",
+      "company": "Stripe",
+      "title": "Offensive Security Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-01T19:44:42.772Z",
+      "postId": "0x80f4ffc6dfe57d0703d18856c141639dfaab0c1a",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "sec61",
+      "company": "Stripe",
+      "title": "Offensive Security Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-01T19:44:42.772Z",
+      "postId": "0x68c841f5fa5a3dda23f2516905669230ca722fb8",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "sec61",
+      "company": "Stripe",
+      "title": "Offensive Security Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-01T19:44:42.772Z",
+      "postId": "0x514e62e325151667a9f816d46b502b8e0980d231",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "sec61",
+      "company": "Stripe",
+      "title": "Offensive Security Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-01T19:44:42.772Z",
+      "postId": "0xb5a0cbe343c54b7ab9653b1c9448652463aea585",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "sec61",
+      "company": "Stripe",
+      "title": "Offensive Security Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-01T19:44:42.772Z",
+      "postId": "0xbb19518d37e39a301a92a31ed7be5a4958fba578",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "sec61",
+      "company": "Stripe",
+      "title": "Offensive Security Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-01T19:44:42.772Z",
+      "postId": "0x5f75c15e6f646e3641524a8d0738e4c450d13eec",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "sec61",
+      "company": "Stripe",
+      "title": "Offensive Security Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-01T19:44:42.772Z",
+      "postId": "0xa072dddc12f86d69a4a8930f864c92a874420470",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "sec61",
+      "company": "Stripe",
+      "title": "Offensive Security Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-01T19:44:42.772Z",
+      "postId": "0xda5b40d83cabe2bd75e976ee66a6b312552f35ba",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "sec61",
+      "company": "Stripe",
+      "title": "Offensive Security Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-01T19:44:42.772Z",
+      "postId": "0x4375ca302f7304b5e11be8afe7c7db6c5c50c9cc",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "sec61",
+      "company": "Stripe",
+      "title": "Offensive Security Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-01T19:44:42.772Z",
+      "postId": "0xce1ad5f5973dd1584f3d34d2423589fd9afa79dc",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "sec61",
+      "company": "Stripe",
+      "title": "Offensive Security Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-01T19:44:42.772Z",
+      "postId": "0x293bed659388cb3d46cc941724a5cd364306a8fa",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "sec61",
+      "company": "Stripe",
+      "title": "Offensive Security Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-01T19:44:42.772Z",
+      "postId": "0x55ccec3f830e85c6ab297e954b6bde422ad6ac90",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "sec61",
+      "company": "Stripe",
+      "title": "Offensive Security Engineer",
+      "platform": "linkedin",
+      "postedAt": "2026-10-01T19:44:42.772Z",
+      "postId": "6abeb8392f7034519e75d0be",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "sec61",
+      "company": "Stripe",
+      "title": "Offensive Security Engineer",
+      "platform": "linkedin",
+      "postedAt": "2026-10-01T19:44:42.772Z",
+      "postId": "6abeb844ff1f8cde6641d341",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "sec61",
+      "company": "Stripe",
+      "title": "Offensive Security Engineer",
+      "platform": "linkedin",
+      "postedAt": "2026-10-01T19:44:42.772Z",
+      "postId": "urn:li:share:7511511588483371008",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "sec61",
+      "company": "Stripe",
+      "title": "Offensive Security Engineer",
+      "platform": "facebook",
+      "postedAt": "2026-10-01T19:44:42.772Z",
+      "postId": "691827047618629_1103753802231854",
+      "verification": "verified"
+    },
+    {
+      "slug": "sec61",
+      "company": "Stripe",
+      "title": "Offensive Security Engineer",
+      "platform": "instagram",
+      "postedAt": "2026-10-01T19:44:42.772Z",
+      "postId": "18118753564941591",
       "verification": "verified"
     }
   ]
