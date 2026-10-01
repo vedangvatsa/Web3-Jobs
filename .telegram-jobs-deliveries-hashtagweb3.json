@@ -136,5 +136,49 @@
     "slotKey": "2026-09-30:evening",
     "messageId": 155526,
     "sentAt": "2026-09-30T19:33:11.599Z"
+  },
+  "0fc60ba1-19e9-4af9-b04a-e6101f266934": {
+    "status": "reserved",
+    "reservedAt": "2026-10-01T04:00:01.739Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "key": "ee589b2d-cff2-4474-ae16-a5dac763c21a",
+        "slug": "sales107",
+        "url": "https://hashtagweb3.com/sales107?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Arch Network",
+        "title": "Founding Account Executive"
+      },
+      {
+        "key": "109",
+        "slug": "associate6",
+        "url": "https://hashtagweb3.com/associate6?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Sui Foundation",
+        "title": "Administrative Assistant"
+      },
+      {
+        "key": "2658cf22-7b84-4f71-9dc1-987d05781fb8",
+        "slug": "product498",
+        "url": "https://hashtagweb3.com/product498?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Cantina",
+        "title": "Product Manager"
+      },
+      {
+        "key": "1dd61a59-3592-47f7-af0a-2d3197e659ef",
+        "slug": "head14",
+        "url": "https://hashtagweb3.com/head14?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Monad Foundation",
+        "title": "Head of DeFi"
+      },
+      {
+        "key": "b9b2bdb1-3881-42cc-8e24-0b383f349151",
+        "slug": "engineer101",
+        "url": "https://hashtagweb3.com/engineer101?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Coins.ph",
+        "title": "Senior Payment Java Engineer"
+      }
+    ],
+    "message": "• Arch Network is hiring <a href=\"https://hashtagweb3.com/sales107?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Founding Account Executive</a>\n• Sui Foundation is hiring <a href=\"https://hashtagweb3.com/associate6?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Administrative Assistant</a>\n• Cantina is hiring <a href=\"https://hashtagweb3.com/product498?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Product Manager</a>\n• Monad Foundation is hiring <a href=\"https://hashtagweb3.com/head14?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Head of DeFi</a>\n• Coins.ph is hiring <a href=\"https://hashtagweb3.com/engineer101?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Payment Java Engineer</a>",
+    "slotKey": "2026-10-01:morning"
   }
 }
