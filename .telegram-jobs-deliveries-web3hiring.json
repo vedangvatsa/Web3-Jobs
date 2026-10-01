@@ -276,7 +276,7 @@
     "sentAt": "2026-09-30T19:33:02.264Z"
   },
   "abbd3e6c-f92d-4867-baa6-4febf73df682": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-01T03:59:45.982Z",
     "chatId": "@web3hiring",
     "jobs": [
@@ -317,6 +317,8 @@
       }
     ],
     "message": "• Binance is hiring <a href=\"https://hashtagweb3.com/binance12?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Binance Accelerator Program- Monitorship</a>\n• Tangem is hiring <a href=\"https://hashtagweb3.com/intern23?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">International Logistics Specialist B2c</a>\n• Ripple is hiring <a href=\"https://hashtagweb3.com/manager727?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Treasury Manager</a>\n• Rain is hiring <a href=\"https://hashtagweb3.com/analyst22?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Financial Crimes Risk Senior Data Analyst/Data Scientist</a>\n• Stripe is hiring <a href=\"https://hashtagweb3.com/engineer538?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Software Engineer</a>",
-    "slotKey": "2026-10-01:morning"
+    "slotKey": "2026-10-01:morning",
+    "messageId": 16490,
+    "sentAt": "2026-10-01T03:59:53.341Z"
   }
 }
