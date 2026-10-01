@@ -12,6 +12,10 @@
     "2026-10-01:afternoon": [
       "socials",
       "cesf"
+    ],
+    "2026-10-01:evening": [
+      "engineer1007",
+      "dsf"
     ]
   },
   "jobs": {
@@ -224,6 +228,30 @@
           "url": "https://tiktok.com/@hashtagweb3/video/7691661163406314784"
         }
       }
+    },
+    "engineer1007": {
+      "slot": "2026-10-01:evening",
+      "selectedAt": "2026-10-01T19:42:51.169Z",
+      "verifiedAt": "2026-10-01T19:42:51.169Z",
+      "captions": {
+        "instagram": "Bitdeer is hiring\nData Center Operations Engineer\n\nCyberjaya, MY\n\nFind the role on hashtagweb3.com\n\n#Hiring #TechJobs #Jobs",
+        "tiktok": "Data Center Operations Engineer at Bitdeer. Cyberjaya, MY.\n\nFind the role on hashtagweb3.com\n\n#Hiring #TechJobs #Jobs",
+        "youtube": "Cyberjaya, MY\n\nFind the role on hashtagweb3.com\n\n#Hiring #TechJobs #Jobs",
+        "youtubeTitle": "Data Center Operations Engineer at Bitdeer"
+      },
+      "receipts": {}
+    },
+    "dsf": {
+      "slot": "2026-10-01:evening",
+      "selectedAt": "2026-10-01T19:42:51.170Z",
+      "verifiedAt": "2026-10-01T19:42:51.170Z",
+      "captions": {
+        "instagram": "Zero Hash is hiring\nDirector of Strategic Finance\n\nNew York City, NY\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "tiktok": "Director of Strategic Finance at Zero Hash. New York City, NY.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtube": "New York City, NY\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtubeTitle": "Director of Strategic Finance at Zero Hash"
+      },
+      "receipts": {}
     }
   }
 }
