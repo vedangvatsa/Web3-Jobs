@@ -641,6 +641,9 @@
   "https://hashtagweb3.com/cobalt?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/fundsz?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/tda-sanctions?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/near-etf?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://decrypt.co/379868/meta-muse-ai-agent-read-messages-without-permission",
+  "https://www.theblock.co/news/regulation/2026-10-01-hyperliquid-circle-mica-review-417452",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -1831,6 +1834,12 @@
   "CFTC Wins $31.5M Fundsz Fraud Judgment in Florida Court",
   "US Sanctions Group for ATM Theft and Tron Crypto Laundering",
   "US Sanctions Tren de Aragua Network Over ATM Cash Thefts",
+  "Bitwise NEAR ETF Approved for NYSE Arca Listing",
+  "Bitwise NEAR ETF Clears SEC Registration and NYSE Arca Listing",
+  "Evernorth to go public with 473 million XRP treasury",
+  "Meta Pushes Back on Claim That Muse AI Read a User's Messages Without Consent",
+  "Illinois postpones crypto tax implementation following industry lawsuit",
+  "Hyperliquid Policy Center, Circle press EU on perps and stablecoin reserves in MiCA review",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -2022,5 +2031,8 @@
   "fp:agency|cftc|classify|contract|defin|event|exclusiv|federal|fight|jurisdiction",
   "fp:activat|b20|bas|cobalt|conditional|control|deploy|introduc|issuer|mainnet",
   "fp:315m|31m|against|cftc|court|cryptocurrency|fak|florida|fraud|fundsz",
-  "fp:aragua|atm|bank|cash|cryptocurrency|entity|group|launder|money|mov"
+  "fp:aragua|atm|bank|cash|cryptocurrency|entity|group|launder|money|mov",
+  "fp:approv|approval|arca|await|bitwis|clear|etf|featur|final|follow",
+  "fp:473m|allow|approv|back|begin|claim|consent|evernorth|firm|larg",
+  "fp:agr|asset|center|challeng|circl|delay|digital|follow|hyperliquid|illinois"
 ]

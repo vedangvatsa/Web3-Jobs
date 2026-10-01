@@ -363,7 +363,7 @@
     "sentAt": "2026-10-01T11:33:52.787Z"
   },
   "9c91817a-2e35-49b6-a3d0-62eebb143727": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-01T19:45:50.594Z",
     "stories": [
       {
@@ -393,6 +393,8 @@
         "originalTitle": "Hyperliquid Policy Center, Circle press EU on perps and stablecoin reserves in MiCA review"
       }
     ],
-    "slotKey": "2026-10-01:evening"
+    "slotKey": "2026-10-01:evening",
+    "messageId": 155544,
+    "sentAt": "2026-10-01T19:45:53.760Z"
   }
 }
