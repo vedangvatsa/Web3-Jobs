@@ -396,7 +396,7 @@
     "sentAt": "2026-10-01T11:34:13.986Z"
   },
   "4f299cc9-dacd-41a1-a673-83cd1eb1c24b": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-01T19:46:04.622Z",
     "stories": [
       {
@@ -426,6 +426,8 @@
         "originalTitle": "Meta Pushes Back on Claim That Muse AI Read a User's Messages Without Consent"
       }
     ],
-    "slotKey": "2026-10-01:evening"
+    "slotKey": "2026-10-01:evening",
+    "messageId": 65719,
+    "sentAt": "2026-10-01T19:46:07.477Z"
   }
 }
