@@ -327,5 +327,42 @@
     "slotKey": "2026-10-01:afternoon",
     "messageId": 193308,
     "sentAt": "2026-10-01T11:33:25.112Z"
+  },
+  "0aae6fc8-c604-4dab-96f7-c187a7386513": {
+    "status": "reserved",
+    "reservedAt": "2026-10-01T19:45:36.548Z",
+    "stories": [
+      {
+        "index": 2,
+        "original_title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+        "headline": "OpenAI dismisses three researchers for mishandling sensitive data",
+        "summary": "An internal investigation led to the termination of safety staff following the unauthorized disclosure of proprietary company information.",
+        "event_rationale": "This covers a specific personnel and governance event at OpenAI regarding internal security and safety researcher conduct.",
+        "link": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+        "source": "TechCrunch",
+        "originalTitle": "OpenAI cuts ties with 3 safety researchers, WSJ reports"
+      },
+      {
+        "index": 4,
+        "original_title": "Amazon releases its own Jev clone as decision models flood the web",
+        "headline": "Amazon releases Strands Decider 2B decision-making model",
+        "summary": "The new model from Amazon Web Services focuses on automated decision-making processes for enterprise applications.",
+        "event_rationale": "This is a new model release from a major cloud provider, distinct from existing LLM or reasoning model releases.",
+        "link": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
+        "source": "TechCrunch",
+        "originalTitle": "Amazon releases its own Jev clone as decision models flood the web"
+      },
+      {
+        "index": 6,
+        "original_title": "With most information hidden, the game Stratego had stumped AI—until now",
+        "headline": "Researchers develop AI capable of mastering the game Stratego",
+        "summary": "A new dual neural network architecture successfully navigated the hidden-information challenges of the board game for the first time.",
+        "event_rationale": "This represents a specific research breakthrough in game theory and hidden-information processing, distinct from general LLM updates.",
+        "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+        "source": "Ars Technica",
+        "originalTitle": "With most information hidden, the game Stratego had stumped AI—until now"
+      }
+    ],
+    "slotKey": "2026-10-01:evening"
   }
 }
