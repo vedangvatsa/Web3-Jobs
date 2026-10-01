@@ -635,6 +635,9 @@
   "https://hashtagweb3.com/brazil-depository?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/house-probe?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/near-bitget?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/quantum-cost?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://cointelegraph.com/news/metamask-exits-lido-validators-as-it-investigates-security-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "https://cointelegraph.com/news/cftc-seeks-to-define-event-contracts-as-swaps-amid-prediction-market-fight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -1813,6 +1816,12 @@
   "House Oversight widens prediction market insider trading probe",
   "NEAR Intents Froze $503K Tied to Bitget Hack",
   "NEAR Intents Says It Froze $503,000 Linked to Bitget Hack",
+  "StarkWare cuts estimated quantum-safe Bitcoin compute costs",
+  "StarkWare reports 79% cut in estimated quantum-safe Bitcoin compute cost",
+  "UK financial regulator opens crypto license application window",
+  "MetaMask exits Ethereum validators amid undisclosed security incident",
+  "CFTC proposes classifying event contracts as swaps",
+  "CFTC seeks to define event contracts as swaps amid prediction market fight",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -1998,5 +2007,8 @@
   "fp:argument|developer|digital|don|finally|follow|gam|jailbreak|jailbrok|legal",
   "fp:blockchain|brazil|btg|copy|csd|depository|fund|ledger|maintain|mirror",
   "fp:aristotl|chairman|com|comer|detection|document|exchang|expand|hous|hyperliquid",
-  "fp:000|503|503k|50m|attempt|bitget|breach|dur|execution|follow"
+  "fp:000|503|503k|50m|attempt|bitget|breach|dur|execution|follow",
+  "fp:comput|contest|cost|cut|estimat|experimental|gpu|optimization|preparation|production",
+  "fp:application|apply|asset|digital|exit|february|financial|firm|framework|incident",
+  "fp:agency|cftc|classify|contract|defin|event|exclusiv|federal|fight|jurisdiction"
 ]

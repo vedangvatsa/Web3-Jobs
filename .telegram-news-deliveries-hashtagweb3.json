@@ -296,7 +296,7 @@
     "sentAt": "2026-09-30T19:33:24.585Z"
   },
   "3685aeb7-3842-4ec7-9468-5b524e88eac2": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-01T04:01:30.799Z",
     "stories": [
       {
@@ -325,6 +325,8 @@
         "originalTitle": "CFTC seeks to define event contracts as swaps amid prediction market fight"
       }
     ],
-    "slotKey": "2026-10-01:morning"
+    "slotKey": "2026-10-01:morning",
+    "messageId": 155532,
+    "sentAt": "2026-10-01T04:01:33.796Z"
   }
 }
