@@ -202,11 +202,12 @@
       },
       "receipts": {
         "instagram": {
-          "status": "publishing",
+          "status": "sent",
           "text": "Kraken is hiring\nClient Experience Specialist | Fixed-term\n\nArgentina\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
           "startedAt": "2026-10-01T11:32:25.937Z",
           "containerId": "17915788395461009",
-          "postId": "18111151808021131"
+          "postId": "18111151808021131",
+          "url": "https://www.instagram.com/reel/Dd8z1XznS37/"
         }
       }
     }
