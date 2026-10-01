@@ -292,7 +292,7 @@
     "sentAt": "2026-10-01T04:00:55.037Z"
   },
   "8df2ee8d-a114-4c16-a383-45efe308bbcd": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-01T11:33:22.603Z",
     "stories": [
       {
@@ -324,6 +324,8 @@
         "originalTitle": "How smaller, distributed batteries could help the grid"
       }
     ],
-    "slotKey": "2026-10-01:afternoon"
+    "slotKey": "2026-10-01:afternoon",
+    "messageId": 193308,
+    "sentAt": "2026-10-01T11:33:25.112Z"
   }
 }
