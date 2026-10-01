@@ -182,5 +182,49 @@
     "slotKey": "2026-10-01:morning",
     "messageId": 155531,
     "sentAt": "2026-10-01T04:00:04.416Z"
+  },
+  "f25a47f1-b639-4192-86d2-a513c0e02a9e": {
+    "status": "reserved",
+    "reservedAt": "2026-10-01T11:32:14.099Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "key": "7958961",
+        "slug": "product643",
+        "url": "https://hashtagweb3.com/product643?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Account Executive"
+      },
+      {
+        "key": "c64eb572-bb43-4cb8-9724-df7abbdf640b",
+        "slug": "engineer470",
+        "url": "https://hashtagweb3.com/engineer470?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Sphere",
+        "title": "Technical GTME"
+      },
+      {
+        "key": "8238565",
+        "slug": "ops29",
+        "url": "https://hashtagweb3.com/ops29?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Robinhood",
+        "title": "Brokerage Operations Specialist"
+      },
+      {
+        "key": "4C.174",
+        "slug": "isss",
+        "url": "https://hashtagweb3.com/isss?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "eToro",
+        "title": "IT Service Specialist -Student Position"
+      },
+      {
+        "key": "520a5e9a-ad1a-4a1b-b9f9-0e98f9b26b7f",
+        "slug": "chief4",
+        "url": "https://hashtagweb3.com/chief4?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Immutable",
+        "title": "Chief of Staff"
+      }
+    ],
+    "message": "• Stripe is hiring <a href=\"https://hashtagweb3.com/product643?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Account Executive</a>\n• Sphere is hiring <a href=\"https://hashtagweb3.com/engineer470?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Technical GTME</a>\n• Robinhood is hiring <a href=\"https://hashtagweb3.com/ops29?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Brokerage Operations Specialist</a>\n• eToro is hiring <a href=\"https://hashtagweb3.com/isss?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">IT Service Specialist -Student Position</a>\n• Immutable is hiring <a href=\"https://hashtagweb3.com/chief4?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Chief of Staff</a>",
+    "slotKey": "2026-10-01:afternoon"
   }
 }
