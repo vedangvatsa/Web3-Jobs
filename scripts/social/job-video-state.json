@@ -101,9 +101,10 @@
           "url": "https://www.instagram.com/reel/Dd78whOlR6W/"
         },
         "youtube": {
-          "status": "creating",
+          "status": "pending",
           "text": "Limassol, Cyprus\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
-          "startedAt": "2026-10-01T03:31:47.477Z"
+          "startedAt": "2026-10-01T03:31:47.477Z",
+          "postId": "6abdd42424db200ef445b1e9"
         }
       }
     },
