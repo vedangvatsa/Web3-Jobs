@@ -638,6 +638,9 @@
   "https://hashtagweb3.com/quantum-cost?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://cointelegraph.com/news/metamask-exits-lido-validators-as-it-investigates-security-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "https://cointelegraph.com/news/cftc-seeks-to-define-event-contracts-as-swaps-amid-prediction-market-fight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "https://hashtagweb3.com/cobalt?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/fundsz?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/tda-sanctions?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -1822,6 +1825,12 @@
   "MetaMask exits Ethereum validators amid undisclosed security incident",
   "CFTC proposes classifying event contracts as swaps",
   "CFTC seeks to define event contracts as swaps amid prediction market fight",
+  "Base Deploys Cobalt Upgrade on Mainnet",
+  "Base Activates Cobalt Upgrade With Conditional Transactions",
+  "Florida Court Orders $31M Judgment Against Fundsz Fraud Operators",
+  "CFTC Wins $31.5M Fundsz Fraud Judgment in Florida Court",
+  "US Sanctions Group for ATM Theft and Tron Crypto Laundering",
+  "US Sanctions Tren de Aragua Network Over ATM Cash Thefts",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -2010,5 +2019,8 @@
   "fp:000|503|503k|50m|attempt|bitget|breach|dur|execution|follow",
   "fp:comput|contest|cost|cut|estimat|experimental|gpu|optimization|preparation|production",
   "fp:application|apply|asset|digital|exit|february|financial|firm|framework|incident",
-  "fp:agency|cftc|classify|contract|defin|event|exclusiv|federal|fight|jurisdiction"
+  "fp:agency|cftc|classify|contract|defin|event|exclusiv|federal|fight|jurisdiction",
+  "fp:activat|b20|bas|cobalt|conditional|control|deploy|introduc|issuer|mainnet",
+  "fp:315m|31m|against|cftc|court|cryptocurrency|fak|florida|fraud|fundsz",
+  "fp:aragua|atm|bank|cash|cryptocurrency|entity|group|launder|money|mov"
 ]
