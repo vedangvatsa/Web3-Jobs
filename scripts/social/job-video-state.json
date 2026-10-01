@@ -8,6 +8,10 @@
     "2026-10-01:morning": [
       "manager494",
       "an48"
+    ],
+    "2026-10-01:afternoon": [
+      "socials",
+      "cesf"
     ]
   },
   "jobs": {
@@ -150,6 +154,30 @@
           "url": "https://tiktok.com/@hashtagweb3/video/7691537583117028641"
         }
       }
+    },
+    "socials": {
+      "slot": "2026-10-01:afternoon",
+      "selectedAt": "2026-10-01T11:31:12.354Z",
+      "verifiedAt": "2026-10-01T11:31:12.354Z",
+      "captions": {
+        "instagram": "RedStone Oracles is hiring\nSocials Lead\n\nNew York\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "tiktok": "Socials Lead at RedStone Oracles. New York.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtube": "New York\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtubeTitle": "Socials Lead at RedStone Oracles"
+      },
+      "receipts": {}
+    },
+    "cesf": {
+      "slot": "2026-10-01:afternoon",
+      "selectedAt": "2026-10-01T11:31:12.355Z",
+      "verifiedAt": "2026-10-01T11:31:12.355Z",
+      "captions": {
+        "instagram": "Kraken is hiring\nClient Experience Specialist | Fixed-term\n\nArgentina\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "tiktok": "Client Experience Specialist | Fixed-term at Kraken. Argentina.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtube": "Argentina\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtubeTitle": "Client Experience Specialist | Fixed-term at Kraken"
+      },
+      "receipts": {}
     }
   }
 }
